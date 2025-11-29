@@ -1,0 +1,27 @@
+{
+  "name": "three-books-publishing",
+  "version": "1.0.0",
+  "description": "7年三书精读出版系统：孙子兵法、资治通鉴、圣经",
+  "main": "index.js",
+  "scripts": {
+    "new-note": "node scripts/daily-template.js",
+    "weekly-summary": "node scripts/weekly-summary.js",
+    "monthly-report": "node scripts/monthly-report.js",
+    "build-book": "node scripts/build-book.js",
+    "stats": "node scripts/stats.js"
+  },
+  "keywords": [
+    "sunzi",
+    "art-of-war",
+    "zizhi-tongjian",
+    "bible",
+    "publishing",
+    "ai",
+    "claude"
+  ],
+  "author": "Your Name",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {},
+  "devDependencies": {}
+}

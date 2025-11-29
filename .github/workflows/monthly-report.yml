@@ -1,0 +1,51 @@
+name: 每月自动生成月度报告草稿
+
+on:
+  schedule:
+    # 每月1日早上8点（北京时间）
+    - cron: '0 0 1 * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  generate-monthly-report:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Generate monthly report
+        run: |
+          node scripts/monthly-report.js
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          commit-message: '📖 自动生成月度报告草稿'
+          branch: monthly-report-${{ github.run_number }}
+          title: '📖 本月专章草稿 (自动生成)'
+          body: |
+            ## 自动生成的本月专章
+
+            本PR由GitHub Actions自动创建。
+
+            **请审阅并完善以下内容：**
+            - [ ] 副标题
+            - [ ] 摘要
+            - [ ] 原典精读部分
+            - [ ] AI时代解读部分
+            - [ ] 三书合论
+            - [ ] 个人成长
+
+            完成后请将草稿移动到 `monthly-reports/published/` 目录。
+
+            **提示**: 可以使用 Claude Code 帮助润色和深度分析。
+
+          labels: |
+            automated
+            monthly-report

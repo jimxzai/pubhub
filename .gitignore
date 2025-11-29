@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build outputs
+dist/
+build/
+*.pdf
+*.epub
+
+# Temporary files
+*.tmp
+*.temp
+
+# Obsidian
+.obsidian/
+
+# Private notes (如果有不想提交的私人笔记)
+private/
