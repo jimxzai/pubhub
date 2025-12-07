@@ -26,3 +26,8 @@ build/
 
 # Private notes (如果有不想提交的私人笔记)
 private/
+
+# Environment variables
+.env
+.env.local
+.env.*.local
