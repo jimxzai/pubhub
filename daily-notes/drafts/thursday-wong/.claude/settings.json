@@ -1,0 +1,188 @@
+{
+  "projectName": "Thursday Wong - 約翰福音精讀",
+  "description": "以「道」為主題的約翰福音深度研讀項目",
+  "version": "1.0.0",
+  "language": "繁體中文",
+  "startDate": "2025-12-28",
+
+  "contextRules": {
+    "projectContext": [
+      "這是一個專注於約翰福音的聖經研讀項目",
+      "核心主題：道成肉身，恩典與真理",
+      "研讀框架：七個神蹟 + 七個「我是」宣告",
+      "輸出語言：繁體中文為主，關鍵術語中英希對照"
+    ],
+
+    "bookContext": {
+      "gospelOfJohn": {
+        "fullName": "約翰福音",
+        "englishName": "The Gospel According to John",
+        "chapters": 21,
+        "authorityVersionChinese": "和合本修訂版 (RCUV)",
+        "authorityVersionEnglish": "ESV",
+        "focus": "道成肉身，神的榮耀，恩典與真理"
+      },
+      "epistlesOfJohn": {
+        "fullName": "約翰書信",
+        "englishName": "Epistles of John",
+        "chapters": 7,
+        "focus": "生命之道，與神相交，彼此相愛"
+      },
+      "revelation": {
+        "fullName": "啟示錄",
+        "englishName": "Revelation",
+        "chapters": 22,
+        "focus": "神的道，永活的人子，得勝的羔羊"
+      }
+    },
+
+    "theologicalFramework": {
+      "coreVerse": "約翰福音 1:14",
+      "coreTheme": "榮耀 = 恩典 + 真理",
+      "sevenSigns": [
+        {"name": "水變酒", "reference": "2:1-11", "theme": "婚姻之約"},
+        {"name": "醫治大臣之子", "reference": "4:46-54", "theme": "信心"},
+        {"name": "醫治瘸腿者", "reference": "5:1-18", "theme": "罪與受苦"},
+        {"name": "五餅二魚", "reference": "6:1-14", "theme": "生命維持"},
+        {"name": "海面行走", "reference": "6:16-21", "theme": "生命援助"},
+        {"name": "醫治瞎眼者", "reference": "9:1-41", "theme": "屬靈看見"},
+        {"name": "拉撒路復活", "reference": "11:1-44", "theme": "死亡得勝"}
+      ],
+      "sevenIAm": [
+        {"statement": "我是生命的糧", "reference": "6:35"},
+        {"statement": "我是世界的光", "reference": "8:12"},
+        {"statement": "我是羊的門", "reference": "10:7"},
+        {"statement": "我是好牧人", "reference": "10:11"},
+        {"statement": "我是復活，我是生命", "reference": "11:25"},
+        {"statement": "我是道路、真理、生命", "reference": "14:6"},
+        {"statement": "我是真葡萄樹", "reference": "15:1"}
+      ]
+    }
+  },
+
+  "writingStandards": {
+    "studyNote": {
+      "minWords": 300,
+      "maxWords": 800,
+      "requiredSections": [
+        "經文引用（中英對照）",
+        "原文分析（希臘文關鍵詞）",
+        "解經與神學理解",
+        "生命應用"
+      ],
+      "tone": "學術但不晦澀，敬虔但不空洞",
+      "noEmojis": true,
+      "citationRequired": true
+    },
+
+    "weeklySummary": {
+      "minWords": 1000,
+      "maxWords": 2000,
+      "requiredSections": [
+        "本周研讀概覽",
+        "神學洞見",
+        "經文精選",
+        "生命反思",
+        "下周計劃"
+      ]
+    },
+
+    "monthlyReport": {
+      "minWords": 3000,
+      "maxWords": 5000,
+      "requiredSections": [
+        "月度總覽",
+        "深度分析",
+        "歷代注疏整理",
+        "生命成長",
+        "下月展望"
+      ]
+    }
+  },
+
+  "agentBehaviorRules": {
+    "masterEditor": {
+      "priority": "客觀評估，不過度誇讚",
+      "scoring": "1-5分制，嚴格標準",
+      "feedback": "具體、可執行、有深度"
+    },
+
+    "annotator": {
+      "citationAccuracy": "必須核對原文，不可杜撰",
+      "historicalContext": "提供教父、改革宗、當代注疏",
+      "trilingualRequired": true
+    },
+
+    "proofreader": {
+      "strictness": "high",
+      "preserveVoice": "保持作者原有語言風格",
+      "factCheck": "核對所有經文引用和注疏"
+    },
+
+    "publisher": {
+      "integration": "注重內容的內在邏輯，而非簡單拼接",
+      "quality": "寧缺毋濫，質量優先於數量"
+    }
+  },
+
+  "forbiddenPatterns": {
+    "language": [
+      "避免空洞的屬靈術語（如「很蒙福」「很感動」）",
+      "避免過度使用 emoji",
+      "避免 AI 腔調（「讓我們一起」「深入探討」等套話）"
+    ],
+
+    "content": [
+      "不杜撰聖經內容或歷代注疏",
+      "不編造希臘文詞彙解釋",
+      "不過度簡化神學概念",
+      "不脫離經文過度發揮"
+    ],
+
+    "theology": [
+      "避免異端觀點（如：否認基督神性）",
+      "避免極端立場（無論是極端自由派或極端字面派）",
+      "避免未經查證的神學臆測"
+    ]
+  },
+
+  "qualityChecklist": {
+    "beforePublish": [
+      "經文引用是否100%準確？",
+      "中英對照是否完整？",
+      "希臘文解釋是否可查證？",
+      "注疏來源是否可靠？",
+      "邏輯是否連貫？",
+      "是否有新的洞見？",
+      "生命應用是否具體？"
+    ]
+  },
+
+  "fileNamingConvention": {
+    "studyNote": "YYYY-MM-DD-topic.md",
+    "weeklySummary": "YYYY-WNN-weekly.md",
+    "monthlyReport": "YYYY-MM-monthly.md",
+    "chapterDraft": "john-XX-vN.N.md"
+  },
+
+  "gitCommitRules": {
+    "studyNote": "📖 Study: 約翰福音 X:X-X",
+    "weeklySummary": "📊 Weekly: YYYY-WNN",
+    "monthlyReport": "📚 Monthly: YYYY-MM",
+    "systemUpdate": "🔧 Config: 簡短描述"
+  },
+
+  "recommendedResources": {
+    "bibleVersions": ["和合本修訂版", "ESV", "NIV", "NA28"],
+    "commentaries": [
+      "Carson, D.A. - The Gospel According to John (PNTC)",
+      "Morris, Leon - The Gospel According to John (NICNT)",
+      "Köstenberger, Andreas - John (BECNT)"
+    ],
+    "onlineTools": [
+      "Bible Gateway (biblegateway.com)",
+      "Blue Letter Bible (blueletterbible.org)",
+      "Logos Bible Software"
+    ]
+  }
+}
