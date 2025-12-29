@@ -1,64 +1,116 @@
 {
+  "$schema": "https://claude.ai/schemas/project-settings.json",
   "projectName": "Three Books Publishing System",
-  "description": "7年三书精读出版系统：《孙子兵法》《资治通鉴》《圣经》AI时代注疏",
-  "version": "1.0.0",
+  "description": "7年三書精讀出版系統 | MVP: 約翰福音研讀",
+  "version": "2.0.0",
   "startDate": "2025-11-29",
   "endDate": "2032-11-29",
 
+  "mvp": {
+    "name": "Gospel of John Study",
+    "focus": "約翰福音 21 章深度研讀",
+    "principle": "Truly Go Deeper — 寧深不廣",
+    "coreResources": {
+      "elderWong": {
+        "name": "黃長老 (Elder Wong)",
+        "type": "第一手教導",
+        "materials": ["週四查經班 Zoom 錄影", "查經筆記與大綱"],
+        "priority": 1
+      },
+      "gty": {
+        "name": "Grace to You",
+        "author": "John MacArthur",
+        "url": "https://www.gty.org",
+        "materials": ["約翰福音講道系列", "MacArthur Study Bible"],
+        "priority": 2
+      },
+      "campbellMorgan": {
+        "name": "G. Campbell Morgan",
+        "title": "解經王子 (Prince of Expositors)",
+        "work": "The Gospel According to John (1909)",
+        "method": "屬靈組織 (Spiritual Organization) 分析法",
+        "priority": 3
+      }
+    },
+    "bibleVersions": {
+      "chinese": {
+        "primary": "和合本修訂版 (RCUV)",
+        "reference": ["新譯本 (CNV)", "呂振中譯本"]
+      },
+      "english": {
+        "primary": "ESV (English Standard Version)",
+        "reference": ["NIV", "NASB", "NET Bible"]
+      },
+      "greek": ["NA28", "UBS5"]
+    },
+    "dailyRhythm": {
+      "morning": {
+        "duration": "45-60分鐘",
+        "steps": [
+          "禱告預備 (5分鐘)",
+          "經文朗讀 RCUV + ESV (10分鐘)",
+          "黃長老教導 (15分鐘)",
+          "MacArthur 講道/注釋 (10分鐘)",
+          "Campbell Morgan 洞見 (10分鐘)",
+          "筆記記錄 (5分鐘)"
+        ]
+      },
+      "evening": {
+        "duration": "15分鐘",
+        "steps": ["回顧經文", "反思應用", "禱告回應"]
+      }
+    }
+  },
+
+  "techStack": {
+    "framework": "Next.js 16.1",
+    "bundler": "Turbopack (stable, with file system caching)",
+    "packageManager": "pnpm",
+    "language": "TypeScript",
+    "styling": "Tailwind CSS",
+    "deployment": "Vercel (planned)"
+  },
+
   "contextRules": {
     "projectContext": [
-      "这是一个7年（2557天）的长期知识积累项目",
-      "核心目标：深度阅读三部经典，产出3-4本AI时代注疏版传世之作",
-      "每日工作量：60-90分钟，300-500字心得",
-      "输出语言：中文为主，关键术语中英对照"
+      "這是一個7年（2557天）的長期知識積累項目",
+      "MVP 專注於約翰福音 21 章深度研讀",
+      "核心資源：黃長老教導 + gty.org + Campbell Morgan",
+      "每日靈修節奏：早晨 45-60分鐘，晚間 15分鐘",
+      "輸出語言：繁體中文為主，關鍵術語中英對照"
     ],
-
     "bookContext": {
+      "gospel-of-john": {
+        "fullName": "約翰福音",
+        "englishName": "The Gospel According to John",
+        "chapters": 21,
+        "authorityVersion": "和合本修訂版 (RCUV)",
+        "englishTranslation": "ESV",
+        "focus": "道 (Logos)、生命、榮耀",
+        "structure": {
+          "prologue": "1:1-18 (道的本質)",
+          "publicMinistry": "1:19-12:50 (神蹟與講論)",
+          "privateTeaching": "13-17 (馬可樓上講論)",
+          "passionResurrection": "18-21 (受難與復活)"
+        },
+        "themes": {
+          "sevenSigns": ["水變酒", "醫治大臣之子", "醫治瘸腿者", "五餅二魚", "海面行走", "醫治生來瞎眼者", "拉撒路復活"],
+          "sevenIAm": ["生命的糧", "世界的光", "羊的門", "好牧人", "復活/生命", "道路/真理/生命", "真葡萄樹"]
+        }
+      },
       "sunzi": {
-        "fullName": "孙子兵法",
+        "fullName": "孫子兵法",
         "englishName": "The Art of War",
         "chapters": 13,
         "authorityVersion": "十一家注本",
-        "englishTranslation": "Griffith译本或Sawyer译本",
-        "focus": "战略智慧与AI时代博弈"
+        "status": "Phase 2"
       },
       "zizhi-tongjian": {
-        "fullName": "资治通鉴",
+        "fullName": "資治通鑑",
         "englishName": "Comprehensive Mirror in Aid of Governance",
         "volumes": 294,
-        "authorityVersion": "胡三省音注本",
-        "englishTranslation": "伯克利英译本（部分）",
-        "focus": "历史规律与组织兴衰"
-      },
-      "bible": {
-        "fullName": "圣经",
-        "englishName": "The Holy Bible",
-        "chapters": 1189,
-        "authorityVersion": "和合本修订版",
-        "englishTranslation": "ESV或NIV",
-        "focus": "信仰母题与AI伦理"
+        "status": "Phase 3"
       }
-    },
-
-    "aiEraMapping": {
-      "period": "2025-2035",
-      "keyPlayers": [
-        "OpenAI (Sam Altman)",
-        "Anthropic (Dario Amodei)",
-        "xAI (Elon Musk)",
-        "Google DeepMind (Demis Hassabis)",
-        "Meta AI",
-        "中国AI企业（百度、阿里、字节等）"
-      ],
-      "keyThemes": [
-        "AGI安全与对齐",
-        "AI芯片战（NVIDIA、华为、寒武纪）",
-        "开源vs闭源模型",
-        "AI监管与政策",
-        "AI Agent生态",
-        "数学突破（AlphaProof）",
-        "AI在军事/金融/医疗的应用"
-      ]
     }
   },
 
@@ -67,150 +119,111 @@
       "minWords": 300,
       "maxWords": 500,
       "requiredSections": [
-        "今日原文摘要（中英对照）",
-        "我的理解与心得",
-        "2025年AI时代的对应",
-        "对7年大业的启发"
+        "今日經文 (中英對照)",
+        "黃長老教導要點",
+        "MacArthur/Morgan 洞見",
+        "生命應用"
       ],
-      "tone": "学术但不晦涩，深刻但不枯燥",
+      "tone": "敬虔但不做作，深刻但可親近",
       "noEmojis": true,
       "citationRequired": true
     },
-
     "weeklySummary": {
       "minWords": 1000,
       "maxWords": 2000,
       "requiredSections": [
-        "本周核心主题",
-        "本周金句精选",
-        "跨书关联发现",
-        "下周阅读计划"
+        "本週核心主題",
+        "經文金句精選",
+        "屬靈組織分析",
+        "下週研讀計劃"
       ]
     },
-
     "monthlyReport": {
       "minWords": 5000,
       "maxWords": 7000,
       "requiredSections": [
-        "原典精读总结",
-        "AI时代深度解读",
-        "三书合论",
-        "个人成长反思"
+        "本月經文總結",
+        "神學要點整理",
+        "生命應用反思",
+        "下月研讀展望"
       ]
     }
   },
 
   "agentBehaviorRules": {
     "masterEditor": {
-      "priority": "客观评估，不过度夸赞",
-      "scoring": "1-5分制，严格标准",
-      "feedback": "具体、可执行、有深度"
+      "priority": "客觀評估，不過度讚美",
+      "scoring": "1-5分制，嚴格標準",
+      "feedback": "具體、可執行、有深度"
     },
-
     "annotator": {
-      "citationAccuracy": "必须核对原文，不可杜撰",
-      "historicalContext": "提供考古证据和文本变迁",
+      "citationAccuracy": "必須核對原文，不可杜撰",
+      "sources": ["黃長老筆記", "gty.org", "Campbell Morgan", "歷代注疏"],
       "bilingualRequired": true
     },
-
     "aiStrategist": {
-      "caseMustBeReal": "只使用真实的AI事件，不可虚构",
+      "caseMustBeReal": "只使用真實的AI事件，不可虛構",
       "timeRange": "2020-2035",
-      "depth": "不仅描述现象，更要分析底层原理"
+      "depth": "不僅描述現象，更要分析底層原理"
     },
-
     "proofreader": {
       "strictness": "high",
-      "preserveVoice": "保持作者原有语言风格",
-      "factCheck": "核对所有引用和数据"
+      "preserveVoice": "保持作者原有語言風格",
+      "factCheck": "核對所有聖經引文和注疏引用"
     },
-
     "publisher": {
-      "integration": "注重内容的内在逻辑，而非简单拼接",
-      "quality": "宁缺毋滥，质量优先于数量"
+      "integration": "注重內容的內在邏輯，而非簡單拼接",
+      "quality": "寧缺毋濫，質量優先於數量"
     }
   },
 
   "forbiddenPatterns": {
     "language": [
-      "避免空洞的溢美之词（'非常棒'、'太厉害了'等）",
-      "避免过度使用emoji",
-      "避免AI腔调（'让我们一起'、'深入探讨'等套话）",
-      "避免重复使用'赋能'、'颠覆'、'革命性'等商业术语"
+      "避免空洞的溢美之詞",
+      "避免過度使用emoji",
+      "避免AI腔調套話",
+      "避免杜撰聖經內容或注疏"
     ],
-
     "content": [
-      "不杜撰历史注疏",
-      "不编造AI公司事件",
-      "不过度简化复杂概念",
-      "不脱离原文过度发挥"
-    ],
-
-    "structure": [
-      "避免每段都用相同句式开头",
-      "避免过度使用列表",
-      "避免标题党式的章节名"
+      "不杜撰經文引用",
+      "不編造歷代注疏",
+      "不過度簡化神學概念",
+      "不脫離經文過度發揮"
     ]
   },
 
   "qualityChecklist": {
     "beforePublish": [
-      "原文引用是否准确？",
-      "中英对照是否完整？",
-      "AI案例是否真实？",
-      "逻辑是否连贯？",
-      "是否有新的洞见（而非常识）？",
-      "标签是否准确？",
-      "字数是否符合标准？"
+      "聖經引文是否準確？(RCUV/ESV)",
+      "中英對照是否完整？",
+      "注疏引用是否可查證？",
+      "邏輯是否連貫？",
+      "是否有屬靈洞見（而非常識）？",
+      "是否符合 MVP 焦點？"
     ]
-  },
-
-  "automationRules": {
-    "dailyReminder": "每天早上7:00",
-    "weeklySummary": "每周六8:00自动生成草稿",
-    "monthlyReport": "每月1日8:00自动生成草稿",
-    "backupFrequency": "每次提交自动推送到GitHub",
-    "progressTracking": "自动统计字数、笔记数、完成百分比"
   },
 
   "fileNamingConvention": {
     "dailyNote": "YYYY-MM-DD.md",
-    "weeklySummary": "YYYY-MM-WN.md (N为周数)",
-    "monthlyReport": "YYYY-MM.md",
-    "bookDraft": "书名-章节-vX.Y.md"
+    "weeklySummary": "YYYY-WNN-weekly.md",
+    "monthlyReport": "YYYY-MM-monthly.md",
+    "studyNote": "NN-ch{chapter}-{topic}.md"
   },
 
   "gitCommitRules": {
     "dailyNote": "📝 Daily note: YYYY-MM-DD",
-    "weeklySummary": "📊 Weekly summary: YYYY-MM-WN",
+    "weeklySummary": "📊 Weekly summary: YYYY-WNN",
     "monthlyReport": "📖 Monthly report: YYYY-MM",
-    "systemUpdate": "🔧 System update: 简短描述",
-    "alwaysInclude": "🤖 Generated with Claude Code\\nCo-Authored-By: Claude <noreply@anthropic.com>"
-  },
-
-  "progressMilestones": {
-    "daily": "每完成1篇笔记",
-    "weekly": "每完成7篇笔记（1周）",
-    "monthly": "每完成30篇笔记（1月）",
-    "quarterly": "每完成90篇笔记（1季度），生成PDF书稿预览",
-    "yearly": "每完成365篇笔记（1年），构建年度书稿",
-    "final": "完成2557篇笔记（7年），出版传世之作"
-  },
-
-  "recommendedTools": {
-    "writing": ["VS Code", "Obsidian"],
-    "audioLearning": ["NotebookLM"],
-    "versionControl": ["Git", "GitHub"],
-    "automation": ["Node.js scripts", "GitHub Actions"],
-    "publishing": ["Pandoc", "LaTeX"]
+    "studyNote": "📚 Study note: John {chapter}",
+    "systemUpdate": "🔧 Config: description",
+    "feature": "✨ Feature: description",
+    "fix": "🐛 Fix: description"
   },
 
   "customInstructions": {
-    "whenAskedForHelp": "参考 GET_STARTED.md 和 QUICK_START.md，提供具体可执行的步骤",
-    "whenAnalyzingNote": "使用 /master-editor 命令，按照质量清单严格评估",
-    "whenProvidingAnnotation": "使用 /annotate 命令，提供权威版本和历代注疏",
-    "whenMappingToAI": "使用 /ai-parallels 命令，只使用真实案例",
-    "whenProofreading": "使用 /proofread 命令，保持作者语言风格",
-    "whenGeneratingReport": "使用 /publish 命令，注重内在逻辑而非简单拼接"
+    "whenHelpingWithStudy": "優先參考黃長老教導，結合 gty.org 和 Campbell Morgan",
+    "whenQuotingScripture": "必須使用 RCUV 中文和 ESV 英文",
+    "whenProvidingAnnotation": "提供可查證的注疏來源",
+    "whenAnalyzingStructure": "使用 Campbell Morgan 的屬靈組織分析法"
   }
 }

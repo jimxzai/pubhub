@@ -1,20 +1,58 @@
 # Product Requirements Document (PRD)
 ## 生命之道 — 約翰福音研讀項目
 
-**Version**: 1.0
+**Version**: 2.0
 **Date**: 2025-12-28
 **Product Name**: Gospel of John Study System
-**Document Status**: Draft
+**Document Status**: Active MVP
 
 ---
 
 ## 1. Product Overview
 
 ### 1.1 Vision
+
 打造一個 AI 輔助的聖經研讀系統，讓信徒能夠深入、系統地研讀約翰福音，並產出高質量的雙語研讀材料。
 
 ### 1.2 Mission
+
 透過「道」(Logos) 的主題框架，幫助使用者理解約翰福音的神學深度，同時保持實際的生命應用。
+
+### 1.3 MVP 核心定義
+
+> **"Truly Go Deeper"** — 寧深不廣，專注約翰福音一卷書
+
+#### MVP 特色
+
+| 要素 | 規格 |
+|------|------|
+| 經卷範圍 | 約翰福音 21 章 (唯一焦點) |
+| 核心資源 | 黃長老 + gty.org + Campbell Morgan |
+| 研讀節奏 | Day-to-day 每日靈修 |
+| 產出形式 | 結構化筆記 + 周報 |
+
+#### 核心資源詳述
+
+**黃長老 (Elder Wong) — 第一手教導**
+
+- 週四查經班現場教導
+- Zoom 錄影存檔 (用戶提供)
+- 原創筆記與大綱 (用戶提供)
+- 華人教會處境應用
+
+**Grace to You (gty.org)**
+
+- John MacArthur 約翰福音講道系列
+- 逐節解經，忠於原文
+- 強調基督神性與救恩教義
+- 網站: <https://www.gty.org>
+
+**G. Campbell Morgan**
+
+- *The Gospel According to John* (1909)
+- "解經王子" (Prince of Expositors)
+- 屬靈組織 (Spiritual Organization) 分析法
+- 深刻的靈修洞見
 
 ---
 
@@ -217,9 +255,43 @@ docs/
 | 18-21 | Planned | 受難復活 |
 
 ### 5.2 Next Steps
+
 1. 完成約翰福音第二章研讀
 2. 建立神蹟 (Signs) 專題研讀
-3. 添加歷代注疏
+3. 整合 gty.org 和 Campbell Morgan 資源
+
+### 5.3 每日靈修節奏 (Day-to-Day Rhythm)
+
+#### 研讀流程
+
+```text
+📖 早晨 (45-60分鐘)
+├── 1. 禱告預備 — 求聖靈開啟心眼
+├── 2. 經文朗讀 — 中英對照 (RCUV + ESV)
+├── 3. 黃長老教導 — Zoom 錄影 + 查經筆記
+├── 4. MacArthur 資源 — gty.org 講道/注釋
+├── 5. Morgan 洞見 — 屬靈結構分析
+└── 6. 筆記記錄 — 整合三方洞見
+
+🌙 晚間 (15分鐘)
+├── 回顧經文
+├── 反思應用
+└── 禱告回應
+```
+
+#### 週間安排
+
+| 日 | 活動 | 產出 |
+|----|------|------|
+| 週一-週六 | 每日靈修研讀 | 個人筆記 |
+| 週日 | 本週整合回顧 | 周報摘要 |
+
+#### 屬靈組織理解目標
+
+- 掌握約翰福音四大部分結構
+- 理解七個神蹟的屬靈意義
+- 領會七個「我是」的神學深度
+- 建立「道」的整全觀念
 
 ---
 
@@ -236,12 +308,17 @@ docs/
 
 ## 7. Dependencies
 
-### 7.1 External
-- Bible Gateway API (經文查詢)
+### 7.1 External — MVP 核心
+
+- **黃長老 (Elder Wong)** — 查經筆記與 Zoom 錄影 (用戶提供，第一手教導)
+- **gty.org** — John MacArthur 講道與注釋 (核心資源)
+- **G. Campbell Morgan** — *The Gospel According to John* (核心資源)
+- Bible Gateway (經文查詢)
 - Logos Bible Software (原文研究)
 - Claude Code (AI 輔助)
 
 ### 7.2 Internal
+
 - `/annotate` skill 正常運作
 - `/proofread` skill 正常運作
 - `/publish` skill 正常運作
@@ -266,3 +343,4 @@ docs/
 | Version | Date | Author | Changes |
 |---------|------|--------|---------|
 | 1.0 | 2025-12-28 | Claude Code | Initial draft |
+| 2.0 | 2025-12-28 | Claude Code | MVP focus: gty.org + Campbell Morgan, daily rhythm |

@@ -1,0 +1,405 @@
+% PubHub Gospel of John Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.8in,
+  bottom=0.8in,
+  inner=0.8in,
+  outer=0.6in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.2}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+%% ============================================
+%% COLOR SCHEME - Professional Bible Study
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterBlue}{RGB}{25,55,95}        % Deep navy for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
+
+% Accent colors for boxes
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{ScriptureBorder}{RGB}{180,160,120} % Border for scripture
+\definecolor{GreekBg}{RGB}{245,248,252}         % Light blue for Greek
+\definecolor{GreekBorder}{RGB}{100,130,170}     % Blue border
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+\definecolor{ApplicationBorder}{RGB}{100,150,100} % Green border
+\definecolor{WarningBg}{RGB}{255,250,245}       % Light orange for notes
+\definecolor{WarningBorder}{RGB}{200,150,100}   % Orange border
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc}
+
+%% ============================================
+%% COLORED BOXES
+%% ============================================
+\usepackage{tcolorbox}
+\tcbuselibrary{breakable,skins}
+
+% Scripture box
+\newtcolorbox{scripturebox}[1][]{
+  enhanced,
+  breakable,
+  colback=ScriptureBg,
+  colframe=ScriptureBorder,
+  boxrule=1pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt,
+  arc=3pt,
+  fonttitle=\bfseries\color{ScriptureGold},
+  title={#1},
+  before upper={\parindent0pt}
+}
+
+% Greek word study box
+\newtcolorbox{greekbox}[1][原文研讀]{
+  enhanced,
+  breakable,
+  colback=GreekBg,
+  colframe=GreekBorder,
+  boxrule=1pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt,
+  arc=3pt,
+  fonttitle=\bfseries\color{GreekBorder},
+  title={#1},
+  before upper={\parindent0pt}
+}
+
+% Application box
+\newtcolorbox{applicationbox}[1][生命應用]{
+  enhanced,
+  breakable,
+  colback=ApplicationBg,
+  colframe=ApplicationBorder,
+  boxrule=1pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt,
+  arc=3pt,
+  fonttitle=\bfseries\color{ApplicationBorder},
+  title={#1},
+  before upper={\parindent0pt}
+}
+
+% Note/Warning box
+\newtcolorbox{notebox}[1][注意]{
+  enhanced,
+  breakable,
+  colback=WarningBg,
+  colframe=WarningBorder,
+  boxrule=1pt,
+  left=10pt,
+  right=10pt,
+  top=8pt,
+  bottom=8pt,
+  arc=3pt,
+  fonttitle=\bfseries\color{WarningBorder},
+  title={#1},
+  before upper={\parindent0pt}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\renewcommand{\arraystretch}{1.3}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\usepackage{titlesec}
+
+% Chapter styling
+\titleformat{\chapter}[display]
+  {\normalfont\Huge\bfseries\color{ChapterBlue}}
+  {\chaptertitlename\ \thechapter}
+  {20pt}
+  {\Huge}
+\titlespacing*{\chapter}{0pt}{-20pt}{30pt}
+
+% Section styling
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{ChapterBlue}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries\color{CommentaryBrown}}
+  {\thesubsection}{1em}{}
+\titleformat{\subsubsection}
+  {\normalfont\normalsize\bfseries\color{TextGray}}
+  {\thesubsubsection}{1em}{}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \list{}{%
+    \leftmargin=1em
+    \rightmargin=0.5em
+    \topsep=0.3em
+    \parsep=0pt
+    \listparindent=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+  \itshape
+}{%
+  \endlist
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=1000
+\emergencystretch=3em
+\hyphenpenalty=50
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1.5cm}
+
+% Decorative line
+{\color{ScriptureGold}\rule{3in}{1pt}}
+
+\vspace{0.8cm}
+
+% Main title
+{\fontsize{42}{50}\selectfont\bfseries\color{ChapterBlue} 生命之道}\\[0.4cm]
+{\Large\itshape\color{LightGray} The Way of Life}
+
+\vspace{1.5cm}
+
+% Book title
+{\fontsize{28}{34}\selectfont\bfseries 約翰福音研讀}\\[0.3cm]
+{\large A Study of the Gospel of John}
+
+\vspace{1.5cm}
+
+% Decorative element
+{\color{ScriptureGold}\rule{2in}{0.5pt}}
+
+\vspace{1.5cm}
+
+% Key verse box
+\begin{tcolorbox}[
+  width=4in,
+  colback=ScriptureBg,
+  colframe=ScriptureGold,
+  boxrule=1pt,
+  arc=5pt,
+  halign=center
+]
+\itshape\color{CommentaryBrown}
+太初有道，道與神同在，道就是神。\\[0.3em]
+\small In the beginning was the Word, and the Word was\\
+with God, and the Word was God.\\[0.3em]
+\normalfont\small — 約翰福音 John 1:1
+\end{tcolorbox}
+
+\vfill
+
+% Equation
+{\Large\color{ScriptureGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.2cm]
+{\small\color{LightGray} Glory = Grace + Truth (John 1:14)}
+
+\vspace{1.5cm}
+
+$if(author)$
+{\large $author$}\\[0.5cm]
+$endif$
+
+$if(publisher)$
+{\normalsize $publisher$}\\[0.3cm]
+$endif$
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize \today}
+$endif$
+
+\vspace{0.5cm}
+{\color{ScriptureGold}\rule{3in}{1pt}}
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{約翰福音研讀 / Gospel of John Study}\\[1em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[1em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[1em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Gospel According to John\\[1em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

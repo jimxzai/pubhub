@@ -1,0 +1,379 @@
+/* PubHub Brochure Template - Tri-fold Layout for Promotional Materials */
+/* Use with Pandoc HTML output + wkhtmltopdf or WeasyPrint */
+/* Print on Letter/A4, fold into thirds */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&family=Montserrat:wght@400;600;700&family=Open+Sans:wght@400;600&display=swap');
+
+/* Page setup - Landscape for tri-fold */
+@page {
+  size: A4 landscape;
+  margin: 0;
+}
+
+/* Base styles */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Noto Sans SC', 'Open Sans', sans-serif;
+  font-size: 10pt;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Main container - 6 panels (2 rows x 3 columns) */
+.brochure {
+  width: 297mm; /* A4 landscape width */
+  height: 210mm; /* A4 landscape height */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+}
+
+/* Individual panels */
+.panel {
+  padding: 8mm;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Panel positioning for tri-fold */
+/* Front side (visible when folded): panels 1, 2, 3 */
+/* Back side: panels 4, 5, 6 */
+
+/* Cover panel (rightmost when folded shut) */
+.panel.cover {
+  background: linear-gradient(135deg, #003366 0%, #001a33 100%);
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.panel.cover h1 {
+  font-family: 'Montserrat', 'Noto Sans SC', sans-serif;
+  font-size: 28pt;
+  font-weight: 700;
+  margin-bottom: 5mm;
+  letter-spacing: 0.05em;
+}
+
+.panel.cover .subtitle {
+  font-size: 12pt;
+  font-weight: 400;
+  opacity: 0.9;
+  margin-bottom: 10mm;
+}
+
+.panel.cover .logo {
+  width: 30mm;
+  height: auto;
+  margin-top: 10mm;
+}
+
+/* Back panel (leftmost when folded shut - shows when opened fully) */
+.panel.back {
+  background: #f8f9fa;
+  border-left: 4px solid #b8860b;
+}
+
+.panel.back h2 {
+  color: #003366;
+  font-size: 14pt;
+  margin-bottom: 3mm;
+}
+
+.panel.back .contact-info {
+  font-size: 9pt;
+}
+
+.panel.back .contact-info p {
+  margin-bottom: 2mm;
+}
+
+/* Inside panels */
+.panel.inside {
+  background: white;
+}
+
+.panel.inside-left {
+  border-right: 1px dashed #ddd;
+}
+
+.panel.inside-center {
+  border-right: 1px dashed #ddd;
+}
+
+/* Typography */
+h1, h2, h3, h4 {
+  font-family: 'Montserrat', 'Noto Sans SC', sans-serif;
+  color: #003366;
+  line-height: 1.3;
+}
+
+h1 { font-size: 24pt; }
+h2 { font-size: 14pt; margin-bottom: 3mm; }
+h3 { font-size: 12pt; margin-bottom: 2mm; }
+h4 { font-size: 11pt; margin-bottom: 2mm; }
+
+p {
+  margin-bottom: 3mm;
+  text-align: justify;
+}
+
+/* Section styling */
+.section {
+  margin-bottom: 5mm;
+}
+
+.section-title {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 11pt;
+  font-weight: 600;
+  color: #b8860b;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  margin-bottom: 2mm;
+  padding-bottom: 1mm;
+  border-bottom: 2px solid #b8860b;
+}
+
+/* Feature list */
+.features {
+  list-style: none;
+  padding: 0;
+}
+
+.features li {
+  position: relative;
+  padding-left: 5mm;
+  margin-bottom: 2mm;
+  font-size: 9pt;
+}
+
+.features li::before {
+  content: "✓";
+  position: absolute;
+  left: 0;
+  color: #b8860b;
+  font-weight: bold;
+}
+
+/* Quote/Highlight box */
+.highlight-box {
+  background: linear-gradient(to right, #f0f4f8, #e8eef4);
+  padding: 4mm;
+  border-radius: 2mm;
+  margin: 3mm 0;
+  border-left: 3px solid #003366;
+}
+
+.highlight-box p {
+  font-style: italic;
+  font-size: 10pt;
+  margin: 0;
+  color: #003366;
+}
+
+/* Chinese quote styling */
+.chinese-quote {
+  font-family: 'Noto Sans SC', STSong, SimSun, serif;
+  font-size: 11pt;
+  text-align: center;
+  padding: 3mm;
+  background: #fff9e6;
+  border: 1px solid #b8860b;
+  border-radius: 2mm;
+  margin: 3mm 0;
+}
+
+/* Call to action */
+.cta {
+  background: #b8860b;
+  color: white;
+  padding: 4mm;
+  text-align: center;
+  border-radius: 2mm;
+  margin-top: 5mm;
+}
+
+.cta h3 {
+  color: white;
+  margin-bottom: 1mm;
+}
+
+.cta p {
+  margin: 0;
+  font-size: 9pt;
+}
+
+/* Stats/Numbers */
+.stats {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin: 4mm 0;
+}
+
+.stat {
+  padding: 2mm;
+}
+
+.stat-number {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18pt;
+  font-weight: 700;
+  color: #003366;
+  display: block;
+}
+
+.stat-label {
+  font-size: 8pt;
+  color: #666;
+  text-transform: uppercase;
+}
+
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 2mm;
+}
+
+.img-circle {
+  border-radius: 50%;
+  width: 25mm;
+  height: 25mm;
+  object-fit: cover;
+}
+
+/* Icon styling */
+.icon {
+  width: 8mm;
+  height: 8mm;
+  margin-right: 2mm;
+  vertical-align: middle;
+}
+
+/* Timeline */
+.timeline {
+  position: relative;
+  padding-left: 5mm;
+}
+
+.timeline::before {
+  content: "";
+  position: absolute;
+  left: 1mm;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: #003366;
+}
+
+.timeline-item {
+  position: relative;
+  margin-bottom: 3mm;
+  padding-left: 4mm;
+}
+
+.timeline-item::before {
+  content: "";
+  position: absolute;
+  left: -4mm;
+  top: 2mm;
+  width: 6px;
+  height: 6px;
+  background: #b8860b;
+  border-radius: 50%;
+}
+
+.timeline-date {
+  font-size: 8pt;
+  color: #666;
+  font-weight: 600;
+}
+
+.timeline-content {
+  font-size: 9pt;
+}
+
+/* Contact information */
+.contact-block {
+  display: flex;
+  align-items: center;
+  margin-bottom: 2mm;
+}
+
+.contact-icon {
+  width: 5mm;
+  margin-right: 2mm;
+  color: #003366;
+}
+
+/* QR code placeholder */
+.qr-code {
+  width: 25mm;
+  height: 25mm;
+  background: #eee;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 8pt;
+  color: #666;
+  margin: 3mm auto;
+}
+
+/* Footer on panels */
+.panel-footer {
+  position: absolute;
+  bottom: 5mm;
+  left: 8mm;
+  right: 8mm;
+  font-size: 7pt;
+  color: #999;
+  text-align: center;
+  border-top: 1px solid #eee;
+  padding-top: 2mm;
+}
+
+/* Print adjustments */
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  .brochure {
+    page-break-inside: avoid;
+  }
+}
+
+/* Fold marks (optional - for printing guidance) */
+.fold-mark {
+  position: absolute;
+  width: 3mm;
+  height: 1px;
+  background: #ccc;
+}
+
+.fold-mark.top {
+  top: 0;
+}
+
+.fold-mark.bottom {
+  bottom: 0;
+}
+
+.fold-mark.left-third {
+  left: calc(33.33% - 1.5mm);
+}
+
+.fold-mark.right-third {
+  left: calc(66.66% - 1.5mm);
+}

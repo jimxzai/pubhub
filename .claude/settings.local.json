@@ -1,0 +1,30 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(wc:*)",
+      "Bash(tree:*)",
+      "Bash(pandoc --version:*)",
+      "Bash(npm install:*)",
+      "Bash(pdflatex:*)",
+      "Bash(xelatex:*)",
+      "Bash(mkdir:*)",
+      "Bash(node scripts/test-firebase.mjs:*)",
+      "Bash(node /Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-pdf.js:*)",
+      "Bash(node scripts/build-pdf.js:*)",
+      "Bash(kpsewhich:*)",
+      "Bash(tlmgr list:*)",
+      "WebSearch",
+      "Bash(pnpm install:*)",
+      "Bash(pnpm dev)",
+      "Bash(xargs:*)",
+      "Bash(ls:*)",
+      "Bash(pnpm typecheck:*)",
+      "Bash(pnpm lint:*)",
+      "Bash(pnpm next lint:*)",
+      "Bash(open:*)",
+      "Bash(pnpm eslint:*)",
+      "Bash(node scripts/sync.mjs:*)",
+      "Bash(tlmgr install:*)"
+    ]
+  }
+}

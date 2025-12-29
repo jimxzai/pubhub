@@ -1,29 +1,76 @@
 {
   "name": "three-books-publishing",
-  "version": "1.0.0",
-  "description": "7年三书精读出版系统：孙子兵法、资治通鉴、圣经",
-  "main": "index.js",
+  "version": "2.0.0",
+  "description": "7年三書精讀出版系統：孫子兵法、資治通鑑、聖經 | MVP: 約翰福音研讀",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@9.15.0",
+  "engines": {
+    "node": ">=20.0.0",
+    "pnpm": ">=9.0.0"
+  },
   "scripts": {
+    "dev": "next dev",
+    "dev:debug": "next dev --inspect",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
     "new-note": "node scripts/daily-template.js",
     "weekly-summary": "node scripts/weekly-summary.js",
     "monthly-report": "node scripts/monthly-report.js",
     "build-book": "node scripts/build-book.js",
-    "stats": "node scripts/stats.js"
+    "stats": "node scripts/stats.js",
+    "build:pdf": "node scripts/build-pdf.js",
+    "build:journal": "node scripts/build-pdf.js --format journal",
+    "build:newspaper": "node scripts/build-pdf.js --format newspaper",
+    "build:brochure": "node scripts/build-pdf.js --format brochure",
+    "build:book-pdf": "node scripts/build-pdf.js --format book",
+    "build:gospel": "node scripts/build-pdf.js --format gospel-of-john",
+    "clean": "rm -rf .next node_modules",
+    "prepare": "echo 'Ready for pnpm'",
+    "sync": "node scripts/sync.mjs up",
+    "sync:up": "node scripts/sync.mjs up",
+    "sync:down": "node scripts/sync.mjs down",
+    "sync:status": "node scripts/sync.mjs status",
+    "sync:force": "node scripts/sync.mjs up --force"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "firebase": "^12.7.0",
+    "next": "^16.1.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.2.0",
+    "@tailwindcss/typography": "^0.5.15",
+    "@types/node": "^22.10.2",
+    "@types/react": "^19.0.2",
+    "@types/react-dom": "^19.0.2",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.17.0",
+    "eslint-config-next": "^16.1.1",
+    "postcss": "^8.4.49",
+    "prettier": "^3.4.2",
+    "prettier-plugin-tailwindcss": "^0.6.9",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5.7.2"
   },
   "keywords": [
+    "gospel-of-john",
+    "bible-study",
     "sunzi",
     "art-of-war",
     "zizhi-tongjian",
-    "bible",
     "publishing",
     "ai",
-    "claude"
+    "claude",
+    "nextjs",
+    "turbopack"
   ],
-  "author": "Your Name",
-  "license": "UNLICENSED",
-  "private": true,
-  "dependencies": {
-    "dotenv": "^16.3.1"
-  },
-  "devDependencies": {}
+  "author": "Jim Xiao",
+  "license": "UNLICENSED"
 }

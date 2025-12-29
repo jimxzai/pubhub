@@ -1,0 +1,64 @@
+% PubHub Journal Template - Minimal Version
+% For monthly reports and deep-dive articles
+% Requires XeLaTeX for CJK support
+
+\documentclass[10pt,twocolumn,a4paper]{article}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use macOS system fonts that support CJK
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+% Page geometry
+\usepackage{geometry}
+\geometry{
+  top=2.5cm,
+  bottom=2.5cm,
+  left=2cm,
+  right=2cm,
+  columnsep=0.8cm
+}
+
+% Colors
+\usepackage{xcolor}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{colorlinks=true,linkcolor=blue,urlcolor=blue}
+
+% Graphics
+\usepackage{graphicx}
+
+% Metadata
+$if(title)$
+\title{\textbf{\Large $title$}}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+\date{$if(date)$$date$$else$\today$endif$}
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+$if(title)$
+\twocolumn[
+  \begin{@twocolumnfalse}
+    \maketitle
+    \vspace{0.5cm}
+  \end{@twocolumnfalse}
+]
+$endif$
+
+$body$
+
+\end{document}
