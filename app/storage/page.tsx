@@ -44,7 +44,7 @@ export default function StoragePage() {
       try {
         const content = await getFileContent(file.fullPath);
         setFileContent(content);
-      } catch (error) {
+      } catch (_error) {
         setFileContent('Error loading file content');
       }
     } else {
@@ -58,7 +58,7 @@ export default function StoragePage() {
         await deleteStorageFile(file.fullPath);
         loadFolder(currentPath);
         setSelectedFile(null);
-      } catch (error) {
+      } catch (_error) {
         alert('Error deleting file');
       }
     }
@@ -73,7 +73,7 @@ export default function StoragePage() {
       const path = currentPath ? `${currentPath}/${file.name}` : file.name;
       await uploadStorageFile(path, file);
       loadFolder(currentPath);
-    } catch (error) {
+    } catch (_error) {
       alert('Error uploading file');
     }
     setUploading(false);

@@ -139,4 +139,57 @@ npm run build:brochure -- -i docs/brochure.md
 - `newspaper.css` - 报纸CSS样式 (多栏排版)
 - `brochure.css` - 手册CSS样式 (三折页)
 
+---
+
+## 模式 5: 发布到云端
+
+将已发布内容上传到 Firebase Storage，支持远程访问和分享：
+
+### 云端发布命令
+
+```bash
+# 发布最新周报到云端
+pnpm publish:weekly
+
+# 发布最新月报到云端
+pnpm publish:monthly
+
+# 发布所有内容到云端
+pnpm publish:all
+
+# 查看已发布的云端内容
+pnpm publish:list
+
+# 发布特定PDF文件
+node scripts/publish-to-cloud.mjs pdf output/report.pdf
+```
+
+### 云端存储结构
+
+```
+Firebase Storage
+├── published/
+│   ├── weekly/      # 周报
+│   ├── monthly/     # 月报
+│   ├── daily/       # 每日笔记
+│   ├── pdf/         # PDF文件
+│   └── books/       # 书稿
+├── notes/           # 同步的笔记
+│   ├── published/
+│   └── drafts/
+└── books/           # 同步的书籍资料
+    ├── sunzi/
+    ├── bible/
+    └── zizhi-tongjian/
+```
+
+### 工作流程
+
+1. 生成内容 (weekly/monthly/book)
+2. 本地预览确认
+3. 运行 `pnpm publish:weekly` 或相应命令
+4. 获取分享链接
+
+---
+
 现在请告诉我你需要哪种模式，我将为你生成相应内容。

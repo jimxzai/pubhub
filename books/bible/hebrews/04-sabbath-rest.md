@@ -1,0 +1,299 @@
+---
+title: 希伯來書研讀
+subtitle: Hebrews Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
+# 安息日的安息 (The Sabbath Rest)
+
+希伯來書 4:1-16
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Near to the Heart of God**
+> *Cleland B. McAfee, 1903*
+>
+> There is a place of quiet rest,
+> Near to the heart of God;
+> A place where sin cannot molest,
+> Near to the heart of God.
+>
+> O Jesus, blest Redeemer,
+> Sent from the heart of God,
+> Hold us who wait before Thee
+> Near to the heart of God.
+>
+> 有一安靜穩妥之處，
+> 靠近神的心懷；
+> 那地罪惡不能侵入，
+> 靠近神的心懷。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**進入安息的應許 (4:1-10)**
+
+> ^1^所以，既然進入他安息的應許仍然存在，我們就要畏懼，免得我們中間有人似乎是趕不上了。^2^因為有福音傳給我們，像傳給他們一樣；只是所聽見的道對他們沒有益處，因為他們跟那些聽了就信的人不同，沒有用信心與所聽見的道調和。
+
+> ^3^但我們已經相信的人可以進入那安息，正如神所說：「我在怒中起誓說：他們絕不可進入我的安息！」其實造物之工從創世以來已經完成了。^4^論到第七日，有一處這樣說：「到第七日，神歇了他一切的工。」^5^又在這裏說：「他們絕不可進入我的安息。」
+
+> ^6^既然有人必須進入這安息，而那先前聽見福音的人因為不順從未能進入，^7^神就再指定一個日子，就是過了許久後，藉著大衛說：「今日——」正如前面所引述的：「**你們今日若聽他的話，就不可硬著心。**」
+
+> ^8^若是約書亞已經使他們得享安息，此後神就不會再提別的日子了。^9^**這樣看來，另有一安息日的安息為神的子民保留著。**^10^因為那進入安息的，就歇了自己的工，正如神歇了他的工一樣。
+
+**竭力進入安息 (4:11-13)**
+
+> ^11^所以，我們務必竭力進入那安息，免得有人學那不順從的樣子跌倒了。^12^**神的道是活潑的，是有功效的，比一切兩刃的劍更鋒利，甚至魂與靈、骨節與骨髓，都能刺入、剖開，連心中的思念和主意都能辨明。**^13^被造的沒有一樣在他面前不是赤露敞開的；萬物在我們必須向他交帳的主面前都是赤露敞開的。
+
+**來到施恩寶座前 (4:14-16)**
+
+> ^14^我們既然有一位已經升入高天尊榮的大祭司，就是神的兒子耶穌，便當持定所承認的道。^15^因我們的大祭司並非不能體恤我們的軟弱，他也在各方面受過試探，與我們一樣，只是他沒有犯罪。^16^**所以，我們只管坦然無懼地來到施恩的寶座前，為要得憐憫，蒙恩惠，作及時的幫助。**
+
+### English — ESV
+
+> ^9^**So then, there remains a Sabbath rest for the people of God,** ^10^for whoever has entered God's rest has also rested from his works as God did from his.
+
+> ^12^**For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart.**
+
+> ^15^For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. ^16^**Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.**
+
+---
+
+## 背景 (Context)
+
+### 安息的三重意義
+
+作者在本章使用「安息」(*katapausis*, *sabbatismos*) 時，涉及三個層面：
+
+| 類型 | 經文背景 | 意義 |
+|------|----------|------|
+| 創造的安息 | 創2:2 | 神完成創造後的安息 |
+| 迦南的安息 | 詩95:11 | 進入應許之地 |
+| 屬靈的安息 | 來4:9 | 信徒在基督裏的安息 |
+
+### 約書亞與耶穌
+
+希臘文中「約書亞」(*Iēsous*) 和「耶穌」是同一個字。作者在4:8提到約書亞帶領以色列人進入迦南，但那不是真正的安息。只有「耶穌」才能帶領我們進入真正的安息。
+
+### 文學結構
+
+| 段落 | 內容 | 經文 |
+|------|------|------|
+| A | 安息的應許仍存 | 4:1-2 |
+| B | 創造安息與詩篇安息 | 4:3-5 |
+| C | 大衛指向「今日」 | 4:6-8 |
+| D | 安息日的安息 | 4:9-10 |
+| E | 竭力進入的勸勉 | 4:11 |
+| F | 神話語的能力 | 4:12-13 |
+| G | 大祭司的體恤 | 4:14-16 |
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 註解 |
+|--------|------|------|------|
+| *katapausis* | katapausis | 安息 | 停止工作的狀態 |
+| *sabbatismos* | sabbatismos | 安息日的安息 | 新約僅此一次 |
+| *spoudazō* | spoudazō | 竭力、殷勤 | 積極努力 |
+| *energēs* | energēs | 有功效的 | 英文 "energy" 來源 |
+| *sympatheō* | sympatheō | 體恤、同情 | 一同感受 |
+| *parrēsia* | parrēsia | 坦然、坦白 | 公開自由的說話 |
+
+### *sabbatismos* (安息日的安息)
+
+這個字在整本新約只出現這一次，是作者創造的新詞。它不同於一般的「安息」(*katapausis*)，而是特指一種「像安息日一樣的慶典性安息」——是完全的、喜樂的、永恆的。
+
+### *energēs* (有功效的)
+
+神的話不是死的文字，而是「活潑的」(*zaō*) 和「有功效的」(*energēs*)。它有生命、有能力、持續在運作。英文 "energy" 就是從這個希臘字來的。
+
+---
+
+## 神學要點 (Theological Points)
+
+### 1. 安息的層層深入 (Progressive Depths of Rest)
+
+| 安息 | 給予者 | 領受者 | 性質 |
+|------|--------|--------|------|
+| 創造的安息 | 神 | 神自己 | 工作完成後的滿足 |
+| 迦南的安息 | 約書亞 | 以色列人 | 地理的、暫時的 |
+| 屬靈的安息 | 耶穌 | 信徒 | 永恆的、完全的 |
+
+迦南的安息只是預表，基督帶來的安息才是實體。
+
+### 2. 「歇了自己的工」的意義 (Resting from Our Works)
+
+「那進入安息的，就歇了自己的工，正如神歇了他的工一樣」(4:10)
+
+這不是懶惰，而是：
+- **停止靠行為稱義**：不再試圖靠自己的努力得神喜悅
+- **進入恩典的安息**：完全信靠基督已成之工
+- **享受與神的關係**：不是努力工作賺取，而是享受已有的
+
+### 3. 神話語的四重能力 (Four Powers of God's Word)
+
+| 特性 | 意義 |
+|------|------|
+| 活潑的 (*zaō*) | 有生命，不是死文字 |
+| 有功效的 (*energēs*) | 持續運作，產生果效 |
+| 鋒利的 | 能穿透最深處 |
+| 辨明的 | 分辨真假、善惡 |
+
+### 4. 兩刃的劍 (Two-Edged Sword)
+
+神的話能「刺入、剖開」——這是手術刀的意象。目的不是傷害，而是治療。它暴露隱藏的問題，使人能面對真相，得到醫治。
+
+### 5. 大祭司的體恤 (The High Priest's Sympathy)
+
+「並非不能體恤」(*ou...adunatos sympathēsai*) — 雙重否定表示強調肯定：祂絕對能夠體恤。基督的體恤不是旁觀者的同情，而是經歷者的理解。
+
+### 6. 受試探卻沒有犯罪 (Tempted Yet Without Sin)
+
+「凡事受過試探，與我們一樣」——基督經歷了真實的試探，不是表演。但「沒有犯罪」——祂的試探比我們更強烈，因為祂從未屈服，承受了試探的全部力量。
+
+### 7. 施恩的寶座 (Throne of Grace)
+
+舊約的約櫃是「施恩座」，是神與人相會的地方。但只有大祭司一年一次能進入。現在，因著基督，我們可以「坦然無懼」隨時來到施恩寶座前。審判的寶座因基督成為施恩的寶座。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**奧古斯丁 (Augustine, 354-430)**:
+
+> 「神的安息不是疲倦後的休息，而是工作完成後的滿足。我們進入這安息，不是因為停止活動，而是因為停止靠自己的努力來得神的喜悅。」
+> — *Confessions*
+
+**屈梭多模 (Chrysostom, 347-407)**:
+
+> 「『坦然無懼來到施恩寶座前』——這是何等的恩典！罪人竟可以直接來到萬王之王面前，不是審判，而是施恩。這是基督十字架的功效。」
+> — *Homilies on Hebrews*
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**:
+
+> 「『歇了自己的工』不是懶惰的藉口，而是信心的結果。我們不再為稱義而工作，卻為榮耀神而工作。這是從律法到恩典的轉變。」
+> — *Commentary on Hebrews*
+
+**約翰·乾歐文 (John Owen, 1616-1683)**:
+
+> 「神的話是活潑的，因為它出自永活的神；是有功效的，因為聖靈與它同工。人可以忽略它，卻不能廢掉它；可以抗拒它，卻不能勝過它。」
+> — *An Exposition of the Epistle to the Hebrews*
+
+### 當代釋經
+
+**約翰·麥克乾瑟 (John MacArthur)**:
+
+> 「4:12的神的『道』(*logos*) 主要指聖經，但最終指向基督自己——祂是神活的話語。聖經之所以有能力，因為它是基督的啟示。」
+> — *MacArthur New Testament Commentary: Hebrews*
+
+**F.F. 布魯斯 (F.F. Bruce)**:
+
+> 「『安息日的安息』是一個特別的詞，表示不只是停止工作，而是像神在創造後的安息——一種圓滿、喜樂、慶典式的安息。這是信徒終極的盼望。」
+> — *The Epistle to the Hebrews* (NICNT)
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 62:1-2, 5-6
+
+> 我的心默默無聲，專等候神；
+> 我的救恩是從他而來。
+> 唯獨他是我的磐石、我的拯救；
+> 他是我的高臺，我必不很動搖。
+>
+> 我的心哪，你當默默無聲，專等候神，
+> 因為我的盼望是從他而來。
+> 唯獨他是我的磐石、我的拯救；
+> 他是我的高臺，我必不動搖。
+
+> For God alone my soul waits in silence;
+> from him comes my salvation.
+> He alone is my rock and my salvation,
+> my fortress; I shall not be greatly shaken.
+>
+> For God alone, O my soul, wait in silence,
+> for my hope is from him.
+> He only is my rock and my salvation,
+> my fortress; I shall not be shaken.
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Near to the Heart of God
+
+這首詩歌由 Cleland McAfee 在 1903 年創作，當時他的兩個侄女因白喉病去世。在極度悲痛中，他寫下這首詩歌，表達在神心懷中找到安息的盼望。
+
+**歌詞與經文對照**：
+- 「有一安靜穩妥之處」— 安息日的安息 (4:9)
+- 「罪惡不能侵入」— 歇了自己的工 (4:10)
+- 「靠近神的心懷」— 坦然來到施恩寶座 (4:16)
+
+### 另一配詩：It Is Well with My Soul
+
+> When peace like a river attendeth my way,
+> When sorrows like sea billows roll;
+> Whatever my lot, Thou hast taught me to say,
+> It is well, it is well with my soul.
+
+這首詩歌表達在任何環境中都能進入安息的信心。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **安息的經歷**：我是否真正經歷了在基督裏的安息？還是仍然在靠自己的努力來得神的喜悅？
+
+2. **神話語的功效**：我是否允許神的話語深入剖開我的心思意念？還是只讓它停留在表面？
+
+3. **大祭司的體恤**：當我軟弱、失敗、受試探時，我是否相信基督能夠體恤我？
+
+4. **坦然來到寶座前**：我禱告時是「坦然無懼」還是「畏縮膽怯」？我是否真正相信這是「施恩」的寶座？
+
+5. **及時的幫助**：我是否在需要時就來到神面前，還是等到走投無路才來？
+
+### 禱告回應
+
+> 主耶穌，感謝你為我們開了一條進入安息的路。
+> 幫助我停止靠自己的努力來討你喜悅，
+> 而是完全安息在你已成就的工作裏。
+> 感謝你是能體恤我軟弱的大祭司，
+> 你曾在凡事上受過試探，卻沒有犯罪。
+> 我今天坦然無懼地來到你施恩的寶座前，
+> 求你賜給我憐憫和恩惠，作我及時的幫助。
+> 讓你的話語深入剖開我的心，
+> 除去一切隱藏的罪和不信。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「安息日的安息」與普通的「安息」有什麼不同？為什麼作者使用這個特別的詞？
+
+2. 「歇了自己的工」在實際生活中是什麼意思？這與懶惰有什麼區別？
+
+3. 神的話語如何「刺入、剖開」我們的心？這是令人害怕還是令人感恩的事？
+
+4. 為什麼強調基督「受過試探，與我們一樣」？這對我們禱告有什麼影響？
+
+5. 「施恩的寶座」與舊約的「約櫃」有什麼關聯？為什麼我們可以「坦然無懼」地來？
+
+---
+
+*本章研讀整合多方資源：John MacArthur、F.F. Bruce、John Owen*

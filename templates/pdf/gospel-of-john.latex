@@ -523,6 +523,150 @@ $endif$
 \end{center}
 \cleardoublepage
 
+% Jerusalem Map Page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 耶路撒冷：約翰福音中的聖城}\\[0.1cm]
+{\normalsize Jerusalem in the Gospel of John}
+
+\vspace{0.4cm}
+
+\begin{tikzpicture}[scale=0.85]
+  % City walls (simplified rectangle)
+  \draw[ChapterBlue,line width=2pt,rounded corners=8pt] (0,0) rectangle (8,9);
+
+  % Temple Mount (top right area)
+  \fill[ScriptureBg] (4.5,5.5) rectangle (7.5,8.5);
+  \draw[ScriptureGold,line width=1.5pt] (4.5,5.5) rectangle (7.5,8.5);
+  \node[font=\small\bfseries,color=ChapterBlue] at (6,7.5) {Temple};
+  \node[font=\small,color=ChapterBlue] at (6,7) {聖殿};
+  \node[font=\tiny,color=TextGray] at (6,6.3) {2:14 Cleansing};
+  \node[font=\tiny,color=TextGray] at (6,5.9) {7-8 Feast Teaching};
+
+  % Pool of Bethesda (north)
+  \fill[WaterBlue] (2,7) ellipse (0.8 and 0.5);
+  \node[font=\tiny\bfseries,color=ChapterBlue] at (2,7) {Bethesda};
+  \node[font=\tiny,color=TextGray] at (2,6.3) {畢士大池 5:2};
+
+  % Pool of Siloam (south)
+  \fill[WaterBlue] (1.5,1.5) ellipse (0.7 and 0.4);
+  \node[font=\tiny\bfseries,color=ChapterBlue] at (1.5,1.5) {Siloam};
+  \node[font=\tiny,color=TextGray] at (1.5,0.9) {西羅亞池 9:7};
+
+  % Upper Room area (west)
+  \fill[ApplicationBg] (0.5,3.5) rectangle (2.5,5);
+  \draw[CommentaryBrown,line width=1pt] (0.5,3.5) rectangle (2.5,5);
+  \node[font=\tiny\bfseries,color=CommentaryBrown] at (1.5,4.5) {Upper Room};
+  \node[font=\tiny,color=TextGray] at (1.5,4) {馬可樓};
+  \node[font=\tiny,color=TextGray] at (1.5,3.7) {13-17};
+
+  % Praetorium (Pilate's palace)
+  \fill[GreekBg] (5,2) rectangle (7,3.5);
+  \draw[CommentaryBrown,line width=1pt] (5,2) rectangle (7,3.5);
+  \node[font=\tiny\bfseries,color=CommentaryBrown] at (6,3) {Praetorium};
+  \node[font=\tiny,color=TextGray] at (6,2.5) {總督府 18:28};
+
+  % Golgotha (outside walls, top)
+  \fill[MountainBrown!50] (4,9.8) ellipse (1 and 0.5);
+  \node[font=\small\bfseries,color=red!70!black] at (4,9.8) {Golgotha};
+  \node[font=\tiny,color=TextGray] at (4,9.2) {各各他 19:17};
+
+  % Garden Tomb (outside)
+  \draw[CommentaryBrown,line width=1pt] (6,9.5) circle (0.4);
+  \node[font=\tiny,color=CommentaryBrown] at (6,10.1) {Tomb 墳墓};
+  \node[font=\tiny,color=TextGray] at (6,9.5) {19:41};
+
+  % Gates
+  \fill[ChapterBlue] (4,0) rectangle (4.5,0.3);
+  \node[font=\tiny,color=TextGray] at (4.25,-0.3) {Water Gate};
+
+  \fill[ChapterBlue] (0,4.5) rectangle (0.3,5);
+
+  % Kidron Valley (east side)
+  \draw[WaterBlue,line width=1pt,decorate,decoration={snake,amplitude=2pt,segment length=10pt}]
+    (8.5,0) -- (8.5,9);
+  \node[font=\tiny,color=WaterBlue,rotate=90] at (9,4.5) {Kidron Valley 汲淪溪};
+
+  % Mount of Olives indicator
+  \node[font=\small,color=MountainBrown] at (9.5,7) {Mount of};
+  \node[font=\small,color=MountainBrown] at (9.5,6.5) {Olives};
+  \node[font=\tiny,color=TextGray] at (9.5,6) {橄欖山};
+
+  % Compass
+  \draw[->,thick,color=ChapterBlue] (-0.8,8) -- (-0.8,8.8);
+  \node[font=\tiny\bfseries,color=ChapterBlue] at (-0.8,9.1) {N};
+
+  % Title box
+  \node[draw=ChapterBlue,fill=white,rounded corners,font=\footnotesize] at (4,-1.2)
+    {Jerusalem in Jesus' Time 耶穌時代的耶路撒冷};
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Seven Signs diagram
+{\large\bfseries\color{ChapterBlue} 七個神蹟 Seven Signs}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.75]
+  % Timeline base
+  \draw[ChapterBlue,line width=2pt] (0,0) -- (14,0);
+
+  % Signs as nodes
+  \foreach \x/\num/\txt/\ref in {
+    1/1/Water to Wine/2:1,
+    3/2/Official's Son/4:46,
+    5/3/Bethesda/5:1,
+    7/4/5000 Fed/6:1,
+    9/5/Walking on Water/6:16,
+    11/6/Blind Man/9:1,
+    13/7/Lazarus/11:1
+  } {
+    \fill[ScriptureGold] (\x,0) circle (0.25);
+    \node[font=\tiny\bfseries,color=white] at (\x,0) {\num};
+    \node[font=\tiny,color=ChapterBlue,align=center] at (\x,0.8) {\txt};
+    \node[font=\tiny,color=LightGray] at (\x,-0.5) {\ref};
+  }
+
+  % Arrow to cross
+  \draw[->,ChapterBlue,line width=1.5pt] (14,0) -- (15,0);
+  \node[font=\small,color=red!70!black] at (15.5,0) {Cross};
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Seven I AM statements
+{\large\bfseries\color{ChapterBlue} 七個「我是」宣告 Seven "I AM" Statements}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.7]
+  % Central "I AM"
+  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=2cm,line width=2pt,
+        font=\normalsize\bfseries,color=ChapterBlue] (center) at (0,0) {I AM};
+
+  % Seven statements around
+  \foreach \angle/\txt/\ref in {
+    90/Bread of Life/6:35,
+    45/Light of World/8:12,
+    0/Door/10:7,
+    -45/Good Shepherd/10:11,
+    -90/Resurrection/11:25,
+    -135/Way Truth Life/14:6,
+    180/True Vine/15:1
+  } {
+    \node[draw=ChapterBlue,fill=white,rounded corners,minimum width=2cm,
+          font=\tiny,align=center] at (\angle:3.5) {\txt\\\color{LightGray}\ref};
+    \draw[ScriptureGold,line width=0.8pt] (center) -- (\angle:2.5);
+  }
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\footnotesize\color{LightGray} 「你們若不信我是，必要死在罪中。」— 約翰福音 8:24}
+\end{center}
+\cleardoublepage
+
 % Copyright page
 \thispagestyle{empty}
 \vspace*{\fill}

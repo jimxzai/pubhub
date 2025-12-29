@@ -1,0 +1,508 @@
+% PubHub 2 Peter Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - 2 Peter Theme (Deep Purple for Knowledge/Warning)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Purple theme for Knowledge & Warning
+\definecolor{ChapterPurple}{RGB}{75,45,110}       % Deep purple for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}      % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}      % Warm brown for commentary
+\definecolor{WarningRed}{RGB}{160,50,50}          % Warning red for false teachers
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}         % Sea/river blue
+\definecolor{LandBeige}{RGB}{245,235,220}         % Land color
+\definecolor{MountainBrown}{RGB}{180,160,140}     % Mountain shading
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{250,248,252}       % Light purple tint for scripture
+\definecolor{GreekBg}{RGB}{245,248,252}           % Light blue for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}     % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Knowledge decoration command
+\newcommand{\knowledgedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ChapterPurple,line width=0.8pt,decorate,decoration={snake,amplitude=0.5pt,segment length=6pt}]
+    (0,0) -- (#1,0);
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ChapterPurple,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ChapterPurple,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterPurple,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ChapterPurple}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterPurple} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 12pt
+    {\color{ChapterPurple}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 8pt
+    {\color{ChapterPurple}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterPurple}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ChapterPurple}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterPurple} 真知識}\\[0.2cm]
+{\large\itshape\color{LightGray} True Knowledge}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 彼得後書研讀}\\[0.15cm]
+{\normalsize A Study of 2 Peter}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ChapterPurple}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+你們卻要在我們主救主耶穌基督的\\
+恩典和知識上有長進。\\
+願榮耀歸給他，從今直到永遠！阿們。\\[0.15em]
+\footnotesize But grow in the grace and knowledge of our Lord\\
+and Savior Jesus Christ. To him be the glory\\
+both now and to the day of eternity. Amen.\\
+— 2 Peter 3:18
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+% Structure diagram
+\begin{tikzpicture}[scale=0.65]
+  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,3) {Book Structure 書卷結構};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=0.7cm,font=\tiny,align=center] at (-2.5,1.8) {True Knowledge\\真知識};
+  \node[font=\tiny,color=LightGray] at (-2.5,1.2) {Ch. 1};
+
+  \node[draw=WarningRed,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=0.7cm,font=\tiny,align=center] at (0,1.8) {False Teachers\\假教師};
+  \node[font=\tiny,color=LightGray] at (0,1.2) {Ch. 2};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=0.7cm,font=\tiny,align=center] at (2.5,1.8) {Day of the Lord\\主的日子};
+  \node[font=\tiny,color=LightGray] at (2.5,1.2) {Ch. 3};
+
+  \draw[->,color=ChapterPurple,thick] (-1.2,1.8) -- (-1,1.8);
+  \draw[->,color=WarningRed,thick] (1,1.8) -- (1.2,1.8);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Virtue Ladder diagram
+\begin{tikzpicture}[scale=0.5]
+  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,5.5) {美德階梯 Virtue Ladder (1:5-7)};
+
+  % Ladder steps
+  \foreach \y/\chi/\eng in {
+    0/信心/Faith,
+    0.7/德行/Virtue,
+    1.4/知識/Knowledge,
+    2.1/節制/Self-control,
+    2.8/忍耐/Steadfastness,
+    3.5/虔敬/Godliness,
+    4.2/愛弟兄/Brotherly Affection,
+    4.9/愛眾人/Love
+  } {
+    \draw[ChapterPurple,line width=0.8pt,fill=ScriptureBg] (-2.5,\y) rectangle (2.5,\y+0.5);
+    \node[font=\tiny,color=ChapterPurple] at (0,\y+0.25) {\chi{} \eng};
+  }
+
+  % Arrows on sides
+  \draw[->,ChapterPurple,line width=1.5pt] (-3,0.25) -- (-3,5.15);
+  \draw[->,ChapterPurple,line width=1.5pt] (3,0.25) -- (3,5.15);
+\end{tikzpicture}
+
+\vfill
+
+% Theme
+{\normalsize\color{ChapterPurple}\bfseries 成長 = 恩典 + 知識}\\[0.1cm]
+{\footnotesize\color{LightGray} Growth = Grace + Knowledge (2 Peter 3:18)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ChapterPurple}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% False Teachers Warning page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{WarningRed} 假教師的警告}\\[0.1cm]
+{\normalsize Warning Against False Teachers (2 Peter 2)}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}[scale=0.8]
+  % Title
+  \node[font=\small\bfseries,color=WarningRed] at (0,4.5) {假教師的特徵 Characteristics of False Teachers};
+
+  % Characteristics in warning boxes
+  \foreach \y/\chi/\eng/\ref in {
+    3.5/暗中引進異端/Secretly bring heresies/2:1,
+    2.7/不認買他們的主/Deny the Master/2:1,
+    1.9/貪財詭詐/Exploit with false words/2:3,
+    1.1/隨從肉體情慾/Follow sensual passions/2:10,
+    0.3/藐視主治者/Despise authority/2:10
+  } {
+    \node[draw=WarningRed,fill=ScriptureBg,rounded corners,minimum width=8cm,minimum height=0.6cm,
+          font=\footnotesize,align=center] at (0,\y) {\chi{} | \eng{} (\ref)};
+  }
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+{\large\bfseries\color{ChapterPurple} 歷史鑒戒 Historical Warnings}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.75]
+  % Three judgments
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,minimum height=1.2cm,
+        font=\small,align=center] at (-4,0) {Angels\\犯罪天使\\2:4};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,minimum height=1.2cm,
+        font=\small,align=center] at (0,0) {Noah's World\\挪亞世代\\2:5};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,minimum height=1.2cm,
+        font=\small,align=center] at (4,0) {Sodom\\所多瑪\\2:6};
+
+  % Arrows
+  \draw[->,ChapterPurple,thick] (-2.3,0) -- (-1.7,0);
+  \draw[->,ChapterPurple,thick] (1.7,0) -- (2.3,0);
+
+  % Conclusion
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=6cm,minimum height=0.8cm,
+        font=\footnotesize,align=center] at (0,-1.5) {主知道搭救敬虔的人，把不義的人留在刑罰之下 (2:9)};
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterPurple} 主再來的應許 Promise of His Coming}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.7]
+  % Timeline
+  \draw[ChapterPurple,line width=2pt] (0,0) -- (12,0);
+
+  % Points on timeline
+  \node[draw=ChapterPurple,fill=ScriptureBg,circle,minimum size=1cm,font=\tiny,align=center] at (2,0) {Scoffers\\譏誚者};
+  \node[font=\tiny,color=LightGray] at (2,-0.8) {3:3-4};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,circle,minimum size=1cm,font=\tiny,align=center] at (6,0) {Patience\\寬容};
+  \node[font=\tiny,color=LightGray] at (6,-0.8) {3:8-9};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=1.2cm,font=\tiny,align=center] at (10,0) {Day of\\Lord};
+  \node[font=\tiny,color=LightGray] at (10,-0.8) {3:10-13};
+
+  % New heaven and earth
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,minimum height=0.6cm,
+        font=\tiny,align=center] at (10,1.5) {New Heaven \& Earth\\新天新地};
+  \draw[->,ScriptureGold,thick] (10,0.7) -- (10,1.1);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} 「主所應許的尚未成就，有人以為祂是耽延，其實不是耽延，乃是寬容你們。」— 彼後 3:9}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{彼得後書研讀 / 2 Peter Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ Michael Green - 2 Peter and Jude (TNTC)\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterPurple}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

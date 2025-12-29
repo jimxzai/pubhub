@@ -39,6 +39,46 @@ const CONFIG = {
       engine: 'xelatex',
       description: 'Professional Gospel of John study book'
     },
+    'gospel-of-matthew': {
+      template: 'gospel-of-matthew.latex',
+      engine: 'xelatex',
+      description: 'Professional Gospel of Matthew study book'
+    },
+    'gospel-of-mark': {
+      template: 'gospel-of-mark.latex',
+      engine: 'xelatex',
+      description: 'Professional Gospel of Mark study book'
+    },
+    '1-peter': {
+      template: '1-peter.latex',
+      engine: 'xelatex',
+      description: 'Professional 1 Peter study book'
+    },
+    '2-peter': {
+      template: '2-peter.latex',
+      engine: 'xelatex',
+      description: 'Professional 2 Peter study book'
+    },
+    'pauline-epistles': {
+      template: 'pauline-epistles.latex',
+      engine: 'xelatex',
+      description: 'Professional Pauline Epistles study book (13 letters)'
+    },
+    'samuel-chronicles': {
+      template: 'samuel-chronicles.latex',
+      engine: 'xelatex',
+      description: 'Professional Samuel & Chronicles study book with Psalms mapping'
+    },
+    'james': {
+      template: 'james.latex',
+      engine: 'xelatex',
+      description: 'Professional Epistle of James study book'
+    },
+    'jude': {
+      template: 'jude.latex',
+      engine: 'xelatex',
+      description: 'Professional Epistle of Jude study book'
+    },
     newspaper: {
       template: 'newspaper.css',
       engine: 'html',  // Uses HTML+CSS approach
@@ -397,7 +437,7 @@ function buildFromDirectory(options) {
   // Build PDF from combined file
   const originalInput = options.input;
   options.input = combinedPath;
-  const result = buildWithLatex(options, CONFIG.formats.book);
+  const result = buildWithLatex(options, CONFIG.formats[options.format]);
 
   // Clean up
   fs.unlinkSync(combinedPath);
@@ -438,8 +478,9 @@ function main() {
   console.log('');
 
   if (inputStat.isDirectory()) {
-    if (options.format !== 'book') {
-      console.error('Error: Directory input only supported for book format');
+    const dirFormats = ['book', 'samuel-chronicles', 'gospel-of-john', 'gospel-of-matthew', 'gospel-of-mark', '1-peter', '2-peter', 'pauline-epistles', 'james'];
+    if (!dirFormats.includes(options.format)) {
+      console.error('Error: Directory input only supported for book-style formats');
       process.exit(1);
     }
     buildFromDirectory(options);

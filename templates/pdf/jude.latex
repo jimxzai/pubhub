@@ -1,0 +1,522 @@
+% PubHub Epistle of Jude Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Professional Bible Study
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Deep Purple theme for Jude
+\definecolor{ChapterBlue}{RGB}{65,35,95}         % Deep purple for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}     % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}     % Warm brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}      % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{248,245,252}          % Light purple for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}    % Light green for application
+\definecolor{WarningBg}{RGB}{255,248,245}        % Light orange for warnings
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Flame decoration command (for Jude's fire theme)
+\newcommand{\flamedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=2pt,segment length=6pt}]
+    (0,0) -- (#1,0);
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Shield decoration (contending for faith)
+\newcommand{\shieldsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ChapterBlue,line width=1pt,fill=ScriptureBg]
+    (0,1) -- (1,0.5) -- (1,-0.5) -- (0,-1) -- (-1,-0.5) -- (-1,0.5) -- cycle;
+  \draw[color=ScriptureGold,line width=0.5pt] (0,0.5) -- (0,-0.5);
+  \draw[color=ScriptureGold,line width=0.5pt] (-0.4,0) -- (0.4,0);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 為道爭辯}\\[0.2cm]
+{\large\itshape\color{LightGray} Contending for the Faith}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 猶大書研讀}\\[0.15cm]
+{\normalsize A Study of the Epistle of Jude}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+要為從前一次交給聖徒的真道竭力爭辯。\\[0.15em]
+\footnotesize Contend for the faith that was once for all\\
+delivered to the saints. — Jude 3
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+% Book Structure Diagram
+\begin{tikzpicture}[scale=0.7]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,3.5) {Epistle Structure 書信結構};
+
+  % Five sections
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (-4,2) {Greeting};
+  \node[font=\tiny,color=LightGray] at (-4,1.5) {vv.1-4};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (-2,2) {Warnings};
+  \node[font=\tiny,color=LightGray] at (-2,1.5) {vv.5-7};
+
+  \node[draw=ChapterBlue,fill=WarningBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (0,2) {False Teachers};
+  \node[font=\tiny,color=LightGray] at (0,1.5) {vv.8-16};
+
+  \node[draw=ChapterBlue,fill=ApplicationBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (2,2) {Exhortations};
+  \node[font=\tiny,color=LightGray] at (2,1.5) {vv.17-23};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (4,2) {Doxology};
+  \node[font=\tiny,color=LightGray] at (4,1.5) {vv.24-25};
+
+  % Arrows
+  \draw[->,color=ScriptureGold,thick] (-3,2) -- (-2.9,2);
+  \draw[->,color=ScriptureGold,thick] (-1,2) -- (-0.9,2);
+  \draw[->,color=ScriptureGold,thick] (1,2) -- (1.1,2);
+  \draw[->,color=ScriptureGold,thick] (3,2) -- (3.1,2);
+\end{tikzpicture}
+
+\vspace{0.4cm}
+
+% Three Historical Examples
+\begin{tikzpicture}[scale=0.65]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.8) {Three Historical Warnings 三個歷史鑑戒};
+
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=2.5cm,minimum height=0.8cm,font=\tiny,align=center] at (-3,1.5) {Israel\\以色列};
+  \node[font=\tiny,color=LightGray] at (-3,0.9) {Unbelief 不信};
+
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=2.5cm,minimum height=0.8cm,font=\tiny,align=center] at (0,1.5) {Angels\\天使};
+  \node[font=\tiny,color=LightGray] at (0,0.9) {Left Position 離位};
+
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=2.5cm,minimum height=0.8cm,font=\tiny,align=center] at (3,1.5) {Sodom\\所多瑪};
+  \node[font=\tiny,color=LightGray] at (3,0.9) {Immorality 淫亂};
+\end{tikzpicture}
+
+\vspace{0.4cm}
+
+% Three OT Villains
+\begin{tikzpicture}[scale=0.65]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.8) {Three Old Testament Villains 三個舊約惡人};
+
+  \node[draw=ChapterBlue,fill=GreekBg,rounded corners,minimum width=2.5cm,minimum height=0.8cm,font=\tiny,align=center] at (-3,1.5) {Cain\\該隱};
+  \node[font=\tiny,color=LightGray] at (-3,0.9) {Self-righteous 自義};
+
+  \node[draw=ChapterBlue,fill=GreekBg,rounded corners,minimum width=2.5cm,minimum height=0.8cm,font=\tiny,align=center] at (0,1.5) {Balaam\\巴蘭};
+  \node[font=\tiny,color=LightGray] at (0,0.9) {Greed 貪財};
+
+  \node[draw=ChapterBlue,fill=GreekBg,rounded corners,minimum width=2.5cm,minimum height=0.8cm,font=\tiny,align=center] at (3,1.5) {Korah\\可拉};
+  \node[font=\tiny,color=LightGray] at (3,0.9) {Rebellion 背叛};
+\end{tikzpicture}
+
+\vfill
+
+% Theme equation
+{\normalsize\color{ScriptureGold}\bfseries 保守 = 蒙召 + 蒙愛 + 蒙守}\\[0.1cm]
+{\footnotesize\color{LightGray} Kept = Called + Beloved + Preserved (Jude 1)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Detailed Structure Page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 猶大書結構概覽}\\[0.1cm]
+{\normalsize Structure of the Epistle of Jude}
+
+\vspace{0.5cm}
+
+% Six Metaphors for False Teachers
+\begin{tikzpicture}[scale=0.8]
+  \node[font=\normalsize\bfseries,color=ChapterBlue] at (0,5.5) {Six Metaphors for False Teachers};
+  \node[font=\small,color=LightGray] at (0,5) {假教師的六個比喻 (vv.12-13)};
+
+  % Left column
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=3.5cm,minimum height=0.7cm,font=\small] at (-2.5,3.8) {Hidden Reefs 暗礁};
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=3.5cm,minimum height=0.7cm,font=\small] at (-2.5,2.8) {Waterless Clouds 無雨雲};
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=3.5cm,minimum height=0.7cm,font=\small] at (-2.5,1.8) {Fruitless Trees 無果樹};
+
+  % Right column
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=3.5cm,minimum height=0.7cm,font=\small] at (2.5,3.8) {Wild Waves 狂浪};
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=3.5cm,minimum height=0.7cm,font=\small] at (2.5,2.8) {Wandering Stars 流星};
+  \node[draw=CommentaryBrown,fill=WarningBg,rounded corners,minimum width=3.5cm,minimum height=0.7cm,font=\small] at (2.5,1.8) {Selfish Shepherds 自牧};
+
+  % Center warning
+  \node[font=\tiny\itshape,color=TextGray] at (0,0.8) {「有漆黑的幽暗為他們永遠存留」v.13};
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Four Commands to Believers
+\begin{tikzpicture}[scale=0.8]
+  \node[font=\normalsize\bfseries,color=ChapterBlue] at (0,4.5) {Four Commands to Believers};
+  \node[font=\small,color=LightGray] at (0,4) {對信徒的四重命令 (vv.20-21)};
+
+  % Central circle
+  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=1.5cm,line width=2pt,
+        font=\small\bfseries,color=ChapterBlue] (center) at (0,1.5) {KEEP};
+
+  % Four commands
+  \node[draw=ChapterBlue,fill=ApplicationBg,rounded corners,minimum width=3cm,
+        font=\tiny,align=center] at (-3.5,2.5) {Build up in Faith\\在真道上建造};
+  \node[draw=ChapterBlue,fill=ApplicationBg,rounded corners,minimum width=3cm,
+        font=\tiny,align=center] at (3.5,2.5) {Pray in Spirit\\在聖靈裏禱告};
+  \node[draw=ChapterBlue,fill=ApplicationBg,rounded corners,minimum width=3cm,
+        font=\tiny,align=center] at (-3.5,0.5) {Keep in Love\\保守在神愛中};
+  \node[draw=ChapterBlue,fill=ApplicationBg,rounded corners,minimum width=3cm,
+        font=\tiny,align=center] at (3.5,0.5) {Wait for Mercy\\仰望主的憐憫};
+
+  % Arrows
+  \draw[->,color=ScriptureGold,thick] (-2,2.5) -- (-0.8,1.8);
+  \draw[->,color=ScriptureGold,thick] (2,2.5) -- (0.8,1.8);
+  \draw[->,color=ScriptureGold,thick] (-2,0.5) -- (-0.8,1.2);
+  \draw[->,color=ScriptureGold,thick] (2,0.5) -- (0.8,1.2);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Doxology
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\centering
+\vspace{0.3cm}
+{\normalsize\bfseries\color{ChapterBlue} The Great Doxology 榮耀頌}\\[0.3em]
+\small\itshape\color{CommentaryBrown}
+那能保守你們不失腳，使你們無瑕無疵、\\
+歡歡喜喜站在他榮耀之前的——\\
+願榮耀、威嚴、權能、權柄，\\
+藉著我們的主耶穌基督，歸於獨一的神。\\[0.2em]
+\footnotesize — 猶大書 24-25
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+{\footnotesize\color{LightGray} 「從萬古以前到現今，直到永永遠遠。阿們。」}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{猶大書研讀 / Epistle of Jude Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - An Exposition of the Whole Bible\\
+\textbullet\ Richard Bauckham - Jude, 2 Peter (WBC)\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

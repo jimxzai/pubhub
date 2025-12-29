@@ -1,0 +1,315 @@
+---
+title: 希伯來書研讀
+subtitle: Hebrews Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
+# 新約的中保 (The Mediator of a New Covenant)
+
+希伯來書 8:1-13
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **There Is a Fountain Filled with Blood**
+> *William Cowper, 1772*
+>
+> There is a fountain filled with blood
+> Drawn from Immanuel's veins;
+> And sinners, plunged beneath that flood,
+> Lose all their guilty stains.
+>
+> 有一血泉，血流盈滿，
+> 流自以馬內利身旁；
+> 罪人只要投身此泉，
+> 立消一切罪污創傷。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**天上的真聖所 (8:1-5)**
+
+> ^1^**我們所講的要點就是：我們有這樣的一位大祭司，已經坐在天上至尊者的右邊，**^2^在聖所——就是真帳幕裏——作執事；這帳幕是主所支搭的，不是人所支搭的。^3^凡大祭司都是奉命獻禮物和祭物的，所以這位大祭司也必須有所獻的。^4^他若是在地上，就不會作祭司，因為已經有照著律法獻禮物的祭司。^5^他們供奉的事不過是天上事的影子和預表，正如摩西將要建造帳幕的時候，蒙神警戒他，說：「要謹慎，照著在山上所指示你的樣式，作各樣的物件。」
+
+**更美之約的中保 (8:6-7)**
+
+> ^6^**如今耶穌所得的事奉比那些祭司更美，正如他是更美之約的中保；這約是憑更美的應許立的。**^7^如果那第一個約沒有瑕疵，就不必找第二個約來代替了。
+
+**新約的應許 (8:8-12)**
+
+> ^8^但神指責他的百姓說：「看哪，日子將到，我要與以色列家和猶大家另立新約。^9^這不是照著我拉著他們祖宗的手，領他們出埃及地的時候，與他們所立的約。因為他們不恆守我的約，我就不理會他們。這是主說的。」
+
+> ^10^主又說：「**那些日子以後，我與以色列家所立的約是這樣：我要將我的律法放在他們裏面，寫在他們心上；我要作他們的神；他們要作我的子民。**^11^他們不必各人教導自己的鄰舍和自己的弟兄，說：『你該認識主』，因為他們都必認識我，從最小的到最大的。^12^**我要寬恕他們的不義，不再記念他們的罪惡。**」
+
+**舊約的廢除 (8:13)**
+
+> ^13^**既然說「新」約，就是把第一個約當作舊的了。那漸舊漸衰的，就快要消失了。**
+
+### English — ESV
+
+> ^1^**Now the point in what we are saying is this: we have such a high priest, one who is seated at the right hand of the throne of the Majesty in heaven,** ^2^a minister in the holy places, in the true tent that the Lord set up, not man.
+
+> ^6^**But as it is, Christ has obtained a ministry that is as much more excellent than the old as the covenant he mediates is better, since it is enacted on better promises.**
+
+> ^10^**"For this is the covenant that I will make with the house of Israel after those days, declares the Lord: I will put my laws into their minds, and write them on their hearts, and I will be their God, and they shall be my people."**
+
+> ^12^**"For I will be merciful toward their iniquities, and I will remember their sins no more."**
+
+---
+
+## 背景 (Context)
+
+### 耶利米書31章的預言
+
+作者引用耶利米書31:31-34，這是舊約中最清楚預言新約的經文。耶利米在猶大國滅亡前夕（約主前600年）宣告神將要立一個新的約，取代西奈之約。
+
+### 約的概念
+
+「約」(*diathēkē*) 是聖經神學的核心概念：
+
+| 舊約 | 內容 |
+|------|------|
+| 挪亞之約 | 不再用洪水滅世 |
+| 亞伯拉罕之約 | 後裔、土地、祝福 |
+| 西奈之約 | 律法、祭司、國度 |
+| 大衛之約 | 永遠的王國 |
+
+新約不是與這些約對立，而是成全這些約的應許。
+
+### 文學結構
+
+| 段落 | 內容 | 經文 |
+|------|------|------|
+| A | 天上的大祭司 | 8:1-2 |
+| B | 天上的聖所 | 8:3-5 |
+| C | 更美之約的中保 | 8:6-7 |
+| D | 新約的內容 | 8:8-12 |
+| E | 舊約的終結 | 8:13 |
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 註解 |
+|--------|------|------|------|
+| *kephalaion* | kephalaion | 要點、總結 | 核心論點 |
+| *skēnē* | skēnē | 帳幕 | 會幕 |
+| *leitourgos* | leitourgos | 執事、服事者 | 禮儀性服事 |
+| *diathēkē* | diathēkē | 約、遺囑 | 也可譯「遺約」 |
+| *mesitēs* | mesitēs | 中保 | 中間人 |
+| *amemptos* | amemptos | 無瑕疵 | 無可指責 |
+| *palaiō* | palaiō | 漸舊 | 變得過時 |
+
+### *diathēkē* (約) 的雙重意義
+
+這字在希臘文中既指「約」(covenant) 也指「遺囑」(testament)。英文 Old/New Testament 就是用這字。作為「遺囑」，它強調：
+- 單方面的設立（不是雙方談判）
+- 需要死亡才生效（9:16-17）
+- 受益人被動接受
+
+### *mesitēs* (中保) 的意義
+
+中保是兩方之間的調解人。在法律上，中保保證合約的履行。基督是「更美之約的中保」，祂保證這約永遠有效。
+
+---
+
+## 神學要點 (Theological Points)
+
+### 1. 本書的要點 (The Main Point)
+
+「我們所講的要點就是」(8:1) — 作者在這裏總結全書的核心：
+
+| 要點 | 內容 |
+|------|------|
+| 大祭司 | 我們有這樣的大祭司 |
+| 位置 | 坐在天上至尊者右邊 |
+| 職事 | 在真聖所裏作執事 |
+| 約的中保 | 更美之約的中保 |
+
+### 2. 影子與實體 (Shadow and Reality)
+
+| 舊約 | 新約 |
+|------|------|
+| 地上的帳幕 | 天上的真帳幕 |
+| 人所支搭的 | 主所支搭的 |
+| 影子和預表 | 天上事的本體 |
+| 照山上的樣式 | 就是那樣式本身 |
+
+地上的會幕是「天上事的影子」——不是說天上有物質的建築，而是說地上的敬拜是天上實在的反映。
+
+### 3. 新約的四個特點 (Four Features of the New Covenant)
+
+| 特點 | 經文 | 舊約對比 |
+|------|------|----------|
+| 內在化 | 8:10a | 律法寫在心上 vs 寫在石版上 |
+| 親密關係 | 8:10b | 我要作他們的神 |
+| 普遍認識 | 8:11 | 都必認識我 vs 需要教導 |
+| 完全赦罪 | 8:12 | 不再記念 vs 年年贖罪 |
+
+### 4. 新約優於舊約的原因 (Why the New Covenant Is Better)
+
+「更美之約」(*kreittonos diathēkēs*) 因為：
+
+- **更美的中保** — 不是摩西，而是基督
+- **更美的應許** — 不是條件式，而是恩典式
+- **更美的祭物** — 不是牛羊，而是基督自己
+- **更美的果效** — 不只遮蓋，而是除去
+
+### 5. 舊約的問題 (Problem with the Old Covenant)
+
+「如果那第一個約沒有瑕疵」(8:7) — 舊約本身是好的（羅7:12），但有內在的限制：
+
+- 它無法改變人的心
+- 它需要人的順從（而人做不到）
+- 它只能暫時遮蓋罪（不能除去）
+- 它是預備性的，指向將來
+
+### 6. 「不再記念他們的罪」(No More Remembering of Sins)
+
+這不是說神「忘記」了（神不會忘記任何事），而是說神選擇「不再追究」。罪的刑罰已經完全由基督承擔，神不會再次追討。
+
+### 7. 「漸舊漸衰」的含義 (Becoming Obsolete)
+
+作者寫這話時，聖殿仍在運作（主後70年被毀之前）。但從神學上，舊約制度已經「過時」。基督來了，影子就不再需要了。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**奧古斯丁 (Augustine, 354-430)**:
+
+> 「新約與舊約的區別不在於應許的內容，而在於賜予的方式。舊約的律法是外在的命令，新約的律法是內在的愛。同樣的要求，不同的能力。」
+> — *The Spirit and the Letter*
+
+**屈梭多模 (Chrysostom, 347-407)**:
+
+> 「『寫在他們心上』——這是何等的改變！石版是冰冷的，心是活的。石版會破碎，心會成長。神的律法不再是外在的壓力，而是內在的渴望。」
+> — *Homilies on Hebrews*
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**:
+
+> 「舊約與新約的差異不是本質上的，而是實施上的。亞伯拉罕與我們相信同一位基督，只是他在應許中相信，我們在成就中相信。」
+> — *Institutes of the Christian Religion*
+
+**約翰·乾歐文 (John Owen, 1616-1683)**:
+
+> 「『不再記念他們的罪』——這是福音的心臟。神完全的赦免。不是部分赦免，不是暫時赦免，而是永遠、完全、徹底的赦免。基督一次獻上，永遠有效。」
+> — *An Exposition of the Epistle to the Hebrews*
+
+### 當代釋經
+
+**約翰·麥克乾瑟 (John MacArthur)**:
+
+> 「希伯來書8章是聖經中對新約最完整的解釋。作者告訴我們新約為什麼需要，新約如何成立，新約帶來什麼。這一章是理解舊約與新約關係的關鍵。」
+> — *MacArthur New Testament Commentary: Hebrews*
+
+**F.F. 布魯斯 (F.F. Bruce)**:
+
+> 「作者引用耶利米書31章，這是舊約中『新約』這個詞唯一出現的地方。耶利米在最黑暗的時刻宣告最光明的盼望。神不會放棄祂的子民。」
+> — *The Epistle to the Hebrews* (NICNT)
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 40:6-8
+
+> 祭物和禮物，你不喜悅；
+> 你已經開通我的耳朵。
+> 燔祭和贖罪祭非你所要。
+> 那時我說：看哪，我來了！
+> 我的事在經卷上已經記載了。
+> **我的神啊，我樂意照你的旨意行；**
+> **你的律法在我心裏。**
+
+> In sacrifice and offering you have not delighted,
+> but you have given me an open ear.
+> Burnt offering and sin offering you have not required.
+> Then I said, "Behold, I have come;
+> in the scroll of the book it is written of me:
+> **I delight to do your will, O my God;**
+> **your law is within my heart."**
+
+這詩篇預言基督來成就神的旨意，也預表新約「律法在心裏」的特點。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### There Is a Fountain Filled with Blood
+
+這首詩歌由 William Cowper 於 1772 年創作，他曾深受憂鬱症困擾，但在基督寶血中找到盼望。
+
+**歌詞與經文對照**：
+- 「罪污創傷」— 不再記念他們的罪惡 (8:12)
+- 「投身此泉」— 藉著更美之約 (8:6)
+- 「立消一切」— 完全的赦免 (8:12)
+
+### 另一配詩：Jesus, Lover of My Soul
+
+> Jesus, lover of my soul,
+> Let me to Thy bosom fly,
+> While the nearer waters roll,
+> While the tempest still is high;
+> Hide me, O my Savior, hide,
+> Till the storm of life is past.
+
+這首 Charles Wesley 的詩歌表達在新約中與神的親密關係。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **內在的律法**：神的律法是否已經寫在我心上？我順服神是出於外在壓力還是內在渴望？
+
+2. **認識主**：我是否真正「認識」主，還是只是「知道」關於祂的事？
+
+3. **罪的赦免**：我是否真正相信神「不再記念」我的罪？還是仍然活在罪疚感中？
+
+4. **影子與實體**：我的信仰生活是否仍停留在「影子」層面（外在形式），還是進入了「實體」（內在關係）？
+
+5. **中保的確據**：知道基督是更美之約的「中保」，這對我的救恩確據有什麼意義？
+
+### 禱告回應
+
+> 天父，感謝你與我立了新約，
+> 藉著耶穌基督這更美之約的中保。
+> 感謝你將律法寫在我心上，
+> 不再是外在的命令，而是內在的渴望。
+> 感謝你應許「不再記念」我的罪，
+> 這完全的赦免是我盼望的根基。
+> 幫助我不要停留在影子中，
+> 而是進入與你真實的關係裏。
+> 讓我每天更深認識你，
+> 不只知道關於你的事，而是真正認識你。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「我們所講的要點就是」——作者認為希伯來書的核心信息是什麼？這對我們理解整卷書有什麼幫助？
+
+2. 地上的帳幕如何是「天上事的影子和預表」？這對我們理解舊約敬拜有什麼啟發？
+
+3. 新約的四個特點中，哪一個對你最有意義？為什麼？
+
+4. 「如果那第一個約沒有瑕疵」——舊約的問題是什麼？它不能做到什麼？
+
+5. 「不再記念他們的罪惡」——這與「神是全知的」如何協調？這對我們的生活有什麼實際意義？
+
+---
+
+*本章研讀整合多方資源：John MacArthur、F.F. Bruce、John Owen*

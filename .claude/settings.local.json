@@ -30,7 +30,19 @@
       "Bash(pnpm remove:*)",
       "Bash(cat:*)",
       "Bash(timeout 30 pnpm eslint:*)",
-      "Bash(npx tsc:*)"
+      "Bash(npx tsc:*)",
+      "Bash(pnpm test:run:*)",
+      "Bash(node scripts/publish-to-cloud.mjs:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/01-prologue.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/02-cana-wedding.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/03-nicodemus.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/04-samaritan-woman.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/10-good-shepherd.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/11-lazarus.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/13-washing-feet.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/14-way-truth-life.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/19-crucifixion.md )",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/20-resurrection.md )"
     ]
   }
 }

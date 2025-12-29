@@ -1,0 +1,497 @@
+% PubHub 1 Peter Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - 1 Peter Theme (Hope Green/Blue)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Green/Teal theme for Hope
+\definecolor{ChapterGreen}{RGB}{35,100,85}        % Deep teal for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}      % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}      % Warm brown for commentary
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}         % Sea/river blue
+\definecolor{LandBeige}{RGB}{245,235,220}         % Land color
+\definecolor{MountainBrown}{RGB}{180,160,140}     % Mountain shading
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{248,252,250}       % Light green tint for scripture
+\definecolor{GreekBg}{RGB}{245,248,252}           % Light blue for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}     % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Hope decoration command
+\newcommand{\hopedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ChapterGreen,line width=0.8pt,decorate,decoration={snake,amplitude=0.5pt,segment length=6pt}]
+    (0,0) -- (#1,0);
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ChapterGreen,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ChapterGreen,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterGreen,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ChapterGreen}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterGreen} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterGreen} #1\par\nobreak
+    \vskip 12pt
+    {\color{ChapterGreen}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterGreen} #1\par\nobreak
+    \vskip 8pt
+    {\color{ChapterGreen}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterGreen}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ChapterGreen}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterGreen} 活潑的盼望}\\[0.2cm]
+{\large\itshape\color{LightGray} A Living Hope}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 彼得前書研讀}\\[0.15cm]
+{\normalsize A Study of 1 Peter}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ChapterGreen}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+願頌讚歸於我們主耶穌基督的父神！\\
+他曾照自己的大憐憫，藉著耶穌基督從死人中復活，\\
+重生了我們，使我們有活潑的盼望。\\[0.15em]
+\footnotesize Blessed be the God and Father of our Lord Jesus Christ!\\
+According to his great mercy, he has caused us to be born again\\
+to a living hope through the resurrection of Jesus Christ.\\
+— 1 Peter 1:3
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+% Structure diagram
+\begin{tikzpicture}[scale=0.65]
+  \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,3) {Book Structure 書卷結構};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (-3,1.8) {Praise\\頌讚};
+  \node[font=\tiny,color=LightGray] at (-3,1.3) {1:1-12};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (-1,1.8) {Holiness\\聖潔};
+  \node[font=\tiny,color=LightGray] at (-1,1.3) {1:13-2:10};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (1,1.8) {Submission\\順服};
+  \node[font=\tiny,color=LightGray] at (1,1.3) {2:11-3:12};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (3,1.8) {Suffering\\受苦};
+  \node[font=\tiny,color=LightGray] at (3,1.3) {3:13-4:19};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (0,0.3) {Shepherding\\牧養};
+  \node[font=\tiny,color=LightGray] at (0,-0.2) {5:1-14};
+
+  \draw[->,color=ChapterGreen,thick] (-2.1,1.8) -- (-1.9,1.8);
+  \draw[->,color=ChapterGreen,thick] (-0.1,1.8) -- (0.1,1.8);
+  \draw[->,color=ChapterGreen,thick] (1.9,1.8) -- (2.1,1.8);
+  \draw[->,color=ScriptureGold,thick] (0,1.1) -- (0,0.7);
+\end{tikzpicture}
+
+\vspace{0.4cm}
+
+% Key themes
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,2.5) {Key Themes 關鍵主題};
+
+  % Central hope
+  \node[draw=ChapterGreen,fill=ScriptureBg,circle,minimum size=1.5cm,line width=1.5pt,
+        font=\footnotesize\bfseries,color=ChapterGreen] (center) at (0,0) {Hope};
+
+  % Surrounding themes
+  \foreach \angle/\txt in {
+    60/Suffering,
+    120/Holiness,
+    180/Identity,
+    240/Submission,
+    300/Glory
+  } {
+    \node[draw=ChapterGreen,fill=white,rounded corners,minimum width=1.5cm,
+          font=\tiny,align=center] at (\angle:2.5) {\txt};
+    \draw[ChapterGreen,line width=0.6pt] (center) -- (\angle:1.8);
+  }
+\end{tikzpicture}
+
+\vfill
+
+% Theme
+{\normalsize\color{ChapterGreen}\bfseries 盼望 = 重生 + 基業}\\[0.1cm]
+{\footnotesize\color{LightGray} Hope = New Birth + Inheritance (1 Peter 1:3-4)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ChapterGreen}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Identity diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterGreen} 神子民的身份}\\[0.1cm]
+{\normalsize Identity of God's People (1 Peter 2:9-10)}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}[scale=0.85]
+  % Central identity
+  \node[draw=ChapterGreen,fill=ScriptureBg,circle,minimum size=3cm,line width=2pt,
+        font=\normalsize\bfseries,color=ChapterGreen,align=center] (center) at (0,0) {神的\\子民};
+
+  % Five identities around
+  \foreach \angle/\chi/\eng/\ref in {
+    90/被揀選的族類/Chosen Race/2:9a,
+    162/君尊的祭司/Royal Priesthood/2:9b,
+    234/聖潔的國度/Holy Nation/2:9c,
+    306/屬神的子民/God's People/2:9d,
+    18/寄居的客旅/Sojourners/2:11
+  } {
+    \node[draw=ChapterGreen,fill=white,rounded corners,minimum width=2.5cm,minimum height=1cm,
+          font=\tiny,align=center] at (\angle:4) {\chi\\\eng\\\color{LightGray}\ref};
+    \draw[ChapterGreen,line width=0.8pt] (center) -- (\angle:2.8);
+  }
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterGreen} 苦難與榮耀的關係}\\[0.1cm]
+{\normalsize Suffering and Glory in 1 Peter}
+
+\vspace{0.4cm}
+
+\begin{tikzpicture}[scale=0.8]
+  % Timeline of suffering to glory
+  \draw[ChapterGreen,line width=2pt] (0,0) -- (12,0);
+
+  % Suffering phase
+  \node[draw=CommentaryBrown,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1cm,
+        font=\small,align=center] at (2,1.5) {Present\\Suffering\\現今苦難};
+  \draw[->,CommentaryBrown,thick] (2,0.9) -- (2,0.3);
+
+  % Refinement
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1cm,
+        font=\small,align=center] at (6,1.5) {Faith Refined\\信心試煉\\1:6-7};
+  \draw[->,ScriptureGold,thick] (6,0.9) -- (6,0.3);
+
+  % Glory
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1cm,
+        font=\small,align=center] at (10,1.5) {Future\\Glory\\將來榮耀};
+  \draw[->,ChapterGreen,thick] (10,0.9) -- (10,0.3);
+
+  % Arrows between
+  \draw[->,ChapterGreen,line width=1.5pt] (3.5,1.5) -- (4.5,1.5);
+  \draw[->,ChapterGreen,line width=1.5pt] (7.5,1.5) -- (8.5,1.5);
+
+  % Key verse
+  \node[font=\footnotesize,color=TextGray,align=center] at (6,-1) {「叫你們的信心既被試驗，就比那被火試驗仍然能壞的金子更顯寶貴，\\可以在耶穌基督顯現的時候得著稱讚、榮耀、尊貴。」— 彼前 1:7};
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} 「你們是客旅、是寄居的，要禁戒肉體的私慾。」— 彼得前書 2:11}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{彼得前書研讀 / 1 Peter Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ Edmund Clowney - The Message of 1 Peter\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterGreen}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

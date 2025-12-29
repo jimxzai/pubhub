@@ -1,0 +1,303 @@
+---
+title: 希伯來書研讀
+subtitle: Hebrews Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
+# 大祭司的呼召 (The Call of the High Priest)
+
+希伯來書 5:1-14
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Before the Throne of God Above**
+> *Charitie Lees Bancroft, 1863*
+>
+> Before the throne of God above
+> I have a strong and perfect plea;
+> A great High Priest whose name is Love,
+> Who ever lives and pleads for me.
+>
+> My name is graven on His hands,
+> My name is written on His heart;
+> I know that while in heaven He stands
+> No tongue can bid me thence depart.
+>
+> 在神寶座前面，
+> 我有確實懇求；
+> 大祭司名為愛，
+> 永活替我代求。
+>
+> 我名刻祂手上，
+> 我名寫祂心間；
+> 祂在天上站立，
+> 無人能使我離。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**大祭司的資格 (5:1-4)**
+
+> ^1^凡從人間挑選的大祭司，是替人辦理神的事，為要獻上禮物和贖罪祭。^2^他能體諒那愚昧的和迷失的人，因為他自己也被軟弱所困；^3^因此他為百姓和為自己獻祭贖罪是必須的。^4^這大祭司的尊榮沒有人是自取的，都要像亞倫一樣是蒙神所召。
+
+**基督蒙召為大祭司 (5:5-10)**
+
+> ^5^照樣，基督也沒有自取榮耀作大祭司，而是那位向他說「你是我的兒子，我今日生了你」的，^6^又如別處說：「**你是照著麥基洗德的體系永遠為祭司。**」
+
+> ^7^**基督在肉身的日子曾大聲哀哭，流淚禱告，懇求那能救他免死的，就因他的虔誠蒙了應允。**^8^他雖然為兒子，還是因所受的苦難學了順從。^9^**他既然完全，就為凡順從他的人成了永遠得救的根源，**^10^被神照著麥基洗德的體系稱呼他為大祭司。
+
+**屬靈幼稚的責備 (5:11-14)**
+
+> ^11^論到這位大祭司，我們有很多話要說，但你們聽不進去，很難解釋。^12^按時間來說，你們本該作老師了，可是你們還需要有人把神話語的基本原理再教導你們；你們成了那只能吃奶、不能吃乾糧的人。^13^凡只能吃奶的都不熟練仁義的道理，因為他是嬰孩。^14^**乾糧是給成熟的人吃的，他們的官能因為操練而成熟，能分辨善惡了。**
+
+### English — ESV
+
+> ^5^So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, "You are my Son, today I have begotten you"; ^6^as he says also in another place, **"You are a priest forever, after the order of Melchizedek."**
+
+> ^7^**In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death, and he was heard because of his reverence.** ^8^Although he was a son, he learned obedience through what he suffered. ^9^**And being made perfect, he became the source of eternal salvation to all who obey him,** ^10^being designated by God a high priest after the order of Melchizedek.
+
+> ^14^**But solid food is for the mature, for those who have their powers of judgment trained by constant practice to distinguish good from evil.**
+
+---
+
+## 背景 (Context)
+
+### 舊約大祭司制度
+
+利未人大祭司的資格：
+1. **出身** — 必須是亞倫的後裔
+2. **被召** — 不是自取，而是神的揀選
+3. **職責** — 代表百姓向神獻祭
+4. **限制** — 自己也有罪，必須先為自己獻祭
+
+### 麥基洗德的預表
+
+創世記14章和詩篇110篇提到麥基洗德，他是：
+- 撒冷王（平安的王）
+- 至高神的祭司
+- 無父無母、無族譜的記載
+- 亞伯拉罕向他獻十分之一
+
+他預表一個更高等次的祭司職分，不是靠血統，而是靠永遠的生命。
+
+### 文學結構
+
+| 段落 | 內容 | 經文 |
+|------|------|------|
+| A | 地上大祭司的特點 | 5:1-4 |
+| B | 基督被立為大祭司 | 5:5-6 |
+| C | 基督的禱告與受苦 | 5:7-8 |
+| D | 基督成為救恩根源 | 5:9-10 |
+| E | 屬靈幼稚的責備 | 5:11-14 |
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 註解 |
+|--------|------|------|------|
+| *metriopatheō* | metriopatheō | 體諒、溫和對待 | 不過分嚴厲或縱容 |
+| *eulabeia* | eulabeia | 虔誠、敬畏 | 對神敬畏的態度 |
+| *teleioō* | teleioō | 完全、成全 | 達到目標 |
+| *aitios* | aitios | 根源、原因 | 救恩的源頭 |
+| *nōthros* | nōthros | 遲鈍、聽不進 | 屬靈懶惰 |
+| *gymnastō* | gymnastō | 操練 | 英文 "gymnasium" 來源 |
+
+### *metriopatheō* (體諒) 的意義
+
+這字描述一種平衡的情感——不是完全無動於衷，也不是過分激動。地上的大祭司因為自己也有軟弱，所以能「適度地」同情犯錯的人。
+
+### *eulabeia* (虔誠) 的意義
+
+5:7說基督「因他的虔誠蒙了應允」。這虔誠不是膽怯的恐懼，而是對神旨意的完全順服。基督的禱告蒙應允，不是免去十字架，而是勝過死亡、復活得勝。
+
+---
+
+## 神學要點 (Theological Points)
+
+### 1. 大祭司的雙重資格 (Two Qualifications of High Priest)
+
+| 資格 | 亞倫 | 基督 |
+|------|------|------|
+| 能體恤軟弱 | 因自己有罪 | 因曾受試探 |
+| 被神呼召 | 出埃及記設立 | 詩篇110:4 宣告 |
+
+基督滿足兩個資格，但以更完美的方式。祂能體恤，不是因為自己軟弱，而是因為經歷試探；祂被召，不是按亞倫的等次，而是按麥基洗德的等次。
+
+### 2. 基督的禱告與受苦 (Christ's Prayer and Suffering)
+
+「大聲哀哭，流淚禱告」——這最可能指客西馬尼園的經歷（太26:36-46）。這顯示：
+- **基督的真實人性**：祂真的經歷痛苦、恐懼
+- **基督的完全順服**：「不要照我的意思，只要照你的意思」
+- **基督的虔誠**：因敬畏神而順服
+
+### 3. 「因所受的苦難學了順從」的意義
+
+這不是說基督本來不順從，後來才學會。而是說：
+- 順從是要透過行動來實現的
+- 基督在苦難中將順從「活出來」
+- 每一次的順從都是「學習」的過程
+
+祂不是抽象地順從，而是在真實的苦難中順從。
+
+### 4. 完全與救恩 (Perfection and Salvation)
+
+「他既然完全」(*teleiōtheis*) ——基督透過受苦，完成了作為救贖主的資格。現在祂是「永遠得救的根源」(*aitios sōtērias aiōniou*)：
+- **根源** — 不只是管道，而是源頭
+- **永遠** — 不是暫時的，而是永恆的
+- **得救** — 完整的救恩
+
+### 5. 順從與得救 (Obedience and Salvation)
+
+「凡順從他的人」——這不是說靠順從賺取救恩，而是說：
+- 真信心必然帶來順從
+- 得救的人是「順從」基督的人
+- 這與「不順從」的曠野世代形成對比（3:18, 4:6）
+
+### 6. 屬靈幼稚的問題 (Spiritual Immaturity)
+
+| 嬰孩 | 成熟的人 |
+|------|----------|
+| 只能吃奶 | 能吃乾糧 |
+| 不熟練仁義的道理 | 官能成熟 |
+| 不能分辨善惡 | 能分辨善惡 |
+| 需要別人教導 | 能教導別人 |
+
+作者責備讀者：按時間應該已經成熟，卻仍是嬰孩。這不是知識問題，而是實踐問題。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**俄利根 (Origen, 185-254)**:
+
+> 「基督『學了順從』——這不是從不順從到順從，而是從順從的意願到順從的行動。正如我們『學』游泳不是學會想游泳，而是真的跳入水中。」
+
+**奧古斯丁 (Augustine, 354-430)**:
+
+> 「基督的禱告蒙了應允——不是按人的意思，而是按神的意思。祂禱告免死，神使祂從死裏復活。這是更好的應允。」
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**:
+
+> 「『吃奶』和『吃乾糧』的比喻警告我們：信仰不能停滯。長期停留在基本道理的人，證明他們的信心有問題。真信心必然渴慕成長。」
+> — *Commentary on Hebrews*
+
+**約翰·乾歐文 (John Owen, 1616-1683)**:
+
+> 「基督被『稱呼』為麥基洗德等次的大祭司——這不是後來的任命，而是永恆計劃中早已命定的。詩篇110是對這永恆旨意的宣告。」
+> — *An Exposition of the Epistle to the Hebrews*
+
+### 當代釋經
+
+**約翰·麥克乾瑟 (John MacArthur)**:
+
+> 「5:11-14是對教會最嚴厲的責備之一。這些讀者聽道多年，卻從未真正成長。他們不是缺乏機會，而是缺乏操練。頭腦的知識沒有轉化為生命的實踐。」
+> — *MacArthur New Testament Commentary: Hebrews*
+
+**威廉·連恩 (William Lane)**:
+
+> 「基督的『虔誠』(*eulabeia*) 不是畏縮的懼怕，而是尊重父神旨意的態度。祂的禱告蒙應允，是因為祂禱告的最終目標是父的旨意成就。」
+> — *Word Biblical Commentary: Hebrews*
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 110:1, 4
+
+> 耶和華對我主說：
+> 你坐在我的右邊，
+> 等我使你仇敵作你的腳凳。
+>
+> **耶和華起了誓，決不改變：**
+> **「你是照著麥基洗德的體系永遠為祭司。」**
+
+> The LORD says to my Lord:
+> "Sit at my right hand,
+> until I make your enemies your footstool."
+>
+> **The LORD has sworn and will not change his mind,**
+> **"You are a priest forever after the order of Melchizedek."**
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Before the Throne of God Above
+
+這首詩歌由 Charitie Lees Bancroft 於 1863 年創作，完美表達了基督作為大祭司代求的真理。
+
+**歌詞與經文對照**：
+- 「大祭司名為愛」— 基督被立為大祭司 (5:5-6)
+- 「永活替我代求」— 永遠為祭司 (5:6)
+- 「我名刻祂手上」— 基督與我們認同 (5:1-2)
+- 「無人能使我離」— 永遠得救的根源 (5:9)
+
+### 另一配詩：Arise, My Soul, Arise
+
+> Arise, my soul, arise;
+> Shake off thy guilty fears;
+> The bleeding sacrifice
+> In my behalf appears:
+> Before the throne my surety stands,
+> My name is written on His hands.
+
+這首 Charles Wesley 的詩歌同樣歌頌基督大祭司的代求。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **基督的體恤**：知道基督「曾大聲哀哭，流淚禱告」，如何改變我對祂的認識？祂的苦難與我有什麼關係？
+
+2. **順從的學習**：基督「因所受的苦難學了順從」——我是否在苦難中學習順從，還是抱怨逃避？
+
+3. **屬靈成長**：我是「只能吃奶」的嬰孩，還是「能吃乾糧」的成熟信徒？我的信仰生活是否在成長？
+
+4. **分辨善惡**：我的「官能」是否因「操練」而成熟，能分辨善惡？還是在道德判斷上模糊不清？
+
+5. **教導他人**：按我信主的年日，我應該能教導別人了嗎？還是仍需要別人教導基本道理？
+
+### 禱告回應
+
+> 主耶穌，感謝你是照著麥基洗德的體系永遠為祭司，
+> 永遠為我代求，作我永遠得救的根源。
+> 你曾在肉身的日子大聲哀哭、流淚禱告，
+> 你完全明白我的苦難和掙扎。
+> 幫助我在苦難中學習順從，像你一樣。
+> 主啊，我承認自己在屬靈上常常幼稚遲鈍，
+> 求你賜給我渴慕成長的心，
+> 不滿足於只吃奶，而是能吃乾糧，
+> 操練我的官能，使我能分辨善惡。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 地上的大祭司為什麼能「體諒愚昧的和迷失的人」？基督的體恤與亞倫的體恤有什麼不同？
+
+2. 基督的禱告如何「蒙了應允」？如果祂仍然被釘十字架，怎麼算是應允？
+
+3. 「學了順從」是什麼意思？基督原本不順從嗎？這對我們的順從有什麼教導？
+
+4. 為什麼作者突然從大祭司的教導轉到責備讀者的屬靈幼稚？這兩者有什麼關係？
+
+5. 「乾糧」代表什麼？「操練」在屬靈成長中有什麼作用？
+
+---
+
+*本章研讀整合多方資源：John MacArthur、William Lane、John Owen*

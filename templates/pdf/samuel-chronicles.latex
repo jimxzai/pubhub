@@ -1,0 +1,672 @@
+% PubHub Samuel-Chronicles Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Historical Studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Historical Kingdom Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Royal/Ancient theme
+\definecolor{ChapterBlue}{RGB}{35,55,85}         % Deep royal blue
+\definecolor{ScriptureGold}{RGB}{175,135,45}     % Royal gold
+\definecolor{CommentaryBrown}{RGB}{95,65,45}     % Warm brown for commentary
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{170,200,220}        % Sea/river blue
+\definecolor{LandBeige}{RGB}{240,230,210}        % Land color
+\definecolor{MountainBrown}{RGB}{170,150,130}    % Mountain shading
+\definecolor{DesertTan}{RGB}{220,200,170}        % Desert regions
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}      % Cream for scripture boxes
+\definecolor{PsalmBg}{RGB}{250,248,240}          % Light gold for Psalms
+\definecolor{TimelineBg}{RGB}{245,248,252}       % Light blue for timeline
+\definecolor{ApplicationBg}{RGB}{248,252,248}    % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Crown decoration command (for royal theme)
+\newcommand{\crownsymbol}{%
+\begin{tikzpicture}[scale=0.12]
+  \draw[color=ScriptureGold,line width=1.2pt] (-1,0) -- (-0.8,0.8) -- (-0.4,0.3) -- (0,1) -- (0.4,0.3) -- (0.8,0.8) -- (1,0) -- cycle;
+\end{tikzpicture}%
+}
+
+% Harp decoration (for Psalms)
+\newcommand{\harpsymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1pt] (0,0) arc (180:0:0.5 and 1);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.2,0) -- (0.2,0.9);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.5,0) -- (0.5,1);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.8,0) -- (0.8,0.9);
+\end{tikzpicture}%
+}
+
+% Scroll decoration
+\newcommand{\scrolldecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt] (0,0) -- (#1,0);
+  \draw[color=ScriptureGold,line width=0.8pt] (0,-0.1) arc (270:90:0.1);
+  \draw[color=ScriptureGold,line width=0.8pt] (#1,-0.1) arc (270:450:0.1);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative crown and line
+\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{32}{40}\selectfont\bfseries\color{ChapterBlue} 王國之歌}\\[0.2cm]
+{\large\itshape\color{LightGray} Songs of the Kingdom}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{20}{26}\selectfont\bfseries 撒母耳記與歷代志研讀}\\[0.15cm]
+{\normalsize A Study of Samuel \& Chronicles with Psalms}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+你的家和你的國必在你面前永遠堅立；\\
+你的國位也必堅定，直到永遠。\\[0.15em]
+\footnotesize Your house and your kingdom shall be made sure\\
+forever before me. — 2 Samuel 7:16
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Kingdom Map (TikZ drawn)
+\begin{tikzpicture}[scale=0.55]
+  % Title
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2.5,7.2) {大衛王國地圖 Map of David's Kingdom};
+
+  % Mediterranean Sea (left side)
+  \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
+  \node[font=\tiny,color=ChapterBlue,rotate=90] at (-0.5,3.5) {Mediterranean};
+
+  % Land area
+  \fill[LandBeige] (0.5,0) rectangle (6,6.5);
+
+  % Dead Sea
+  \fill[WaterBlue] (4.5,1.5) ellipse (0.3 and 0.8);
+  \node[font=\tiny,color=ChapterBlue] at (4.5,1.5) {Dead};
+
+  % Jordan River
+  \draw[WaterBlue,line width=1.5pt] (4.2,6) -- (4.3,4) -- (4.5,2.3);
+
+  % Key locations
+  \fill[ScriptureGold] (2,5.5) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (2.1,5.5) {Shiloh 示羅};
+
+  \fill[ScriptureGold] (2.5,4.5) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (2.6,4.5) {Ramah 拉瑪};
+
+  \fill[ScriptureGold] (2.8,4) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (2.9,4) {Gibeah 基比亞};
+
+  \fill[red!70!black] (3,3.3) circle (0.1);
+  \node[font=\tiny\bfseries,left,color=red!70!black] at (2.9,3.3) {Jerusalem 耶路撒冷};
+
+  \fill[ScriptureGold] (2.8,2.8) circle (0.08);
+  \node[font=\tiny,left,color=TextGray] at (2.7,2.8) {Bethlehem 伯利恆};
+
+  \fill[ScriptureGold] (2.5,2) circle (0.08);
+  \node[font=\tiny,left,color=TextGray] at (2.4,2) {Hebron 希伯崙};
+
+  \fill[ScriptureGold] (3.5,1) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (3.6,1) {En Gedi 隱基底};
+
+  \fill[ScriptureGold] (1,1.5) circle (0.08);
+  \node[font=\tiny,left,color=TextGray] at (0.9,1.5) {Ziklag 洗革拉};
+
+  % Compass
+  \draw[->,thick,color=ChapterBlue] (5.3,5.8) -- (5.3,6.3);
+  \node[font=\tiny,color=ChapterBlue] at (5.3,6.5) {N};
+
+  % Scale
+  \draw[color=LightGray] (0.8,0.3) -- (2.3,0.3);
+  \node[font=\tiny,color=LightGray] at (1.55,0.1) {50 km};
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Timeline diagram
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {年代總覽 Timeline};
+
+  % Timeline
+  \draw[ChapterBlue,line width=1.5pt] (-4,1) -- (4,1);
+
+  % Era markers
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (-3,1) {Samuel};
+  \node[font=\tiny,color=LightGray] at (-3,0.5) {1105-1010};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (-0.5,1) {David};
+  \node[font=\tiny,color=LightGray] at (-0.5,0.5) {1010-970};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (2,1) {Solomon};
+  \node[font=\tiny,color=LightGray] at (2,0.5) {970-930};
+
+  % Psalms connection
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=3cm,minimum height=0.5cm,font=\tiny] at (-0.5,-0.3) {Psalms 詩篇};
+\end{tikzpicture}
+
+\vfill
+
+% Equation and symbol
+{\normalsize\color{ScriptureGold}\bfseries 王權 = 順服 + 敬拜}\\[0.1cm]
+{\footnotesize\color{LightGray} Kingdom = Obedience + Worship}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
+
+\end{center}
+\end{titlepage}
+
+% Kingdom Map page (full page)
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 以色列王國地圖}\\[0.1cm]
+{\normalsize Key Locations in Samuel \& Chronicles}
+
+\vspace{0.4cm}
+
+% Larger detailed map
+\begin{tikzpicture}[scale=1.0]
+  % Background
+  \fill[LandBeige] (0,0) rectangle (10,12);
+
+  % Mediterranean Sea
+  \fill[WaterBlue] (-0.5,0) rectangle (1.5,12);
+  \draw[WaterBlue!70!black,line width=0.5pt] (1.5,0) -- (1.5,12);
+  \node[font=\small,color=ChapterBlue,rotate=90] at (0.5,6) {Mediterranean Sea 地中海};
+
+  % Jordan River
+  \draw[WaterBlue,line width=2.5pt] (7,11) .. controls (6.8,9) and (7.2,7) .. (7,5) .. controls (6.8,4) .. (7,3);
+  \node[font=\tiny,color=ChapterBlue,rotate=-80] at (6.4,7) {Jordan 約旦河};
+
+  % Dead Sea
+  \fill[WaterBlue!80!black] (7,1.5) ellipse (0.6 and 1.2);
+  \node[font=\footnotesize,color=white] at (7,1.5) {Dead Sea};
+  \node[font=\tiny,color=ChapterBlue] at (7,0.5) {死海};
+
+  % Mountains (subtle shading)
+  \fill[MountainBrown!30] (8,8) ellipse (1.2 and 2);
+  \fill[MountainBrown!30] (4.5,5) ellipse (1 and 1.5);
+
+  %% KEY LOCATIONS
+
+  % Shiloh - Tabernacle
+  \fill[ScriptureGold] (5,10) circle (0.15);
+  \node[font=\small\bfseries,right,color=ChapterBlue] at (5.2,10) {Shiloh 示羅};
+  \node[font=\tiny,right,color=TextGray] at (5.2,9.6) {Tabernacle/Samuel (1 Sam 1-4)};
+
+  % Ramah - Samuel's home
+  \fill[ScriptureGold] (4.5,8.5) circle (0.15);
+  \node[font=\small\bfseries,left,color=ChapterBlue] at (4.3,8.5) {Ramah 拉瑪};
+  \node[font=\tiny,left,color=TextGray] at (4.3,8.1) {Samuel's Home (1 Sam 7)};
+
+  % Gibeah - Saul's capital
+  \fill[ScriptureGold] (5,7.5) circle (0.15);
+  \node[font=\small,right,color=ChapterBlue] at (5.2,7.5) {Gibeah 基比亞};
+  \node[font=\tiny,right,color=TextGray] at (5.2,7.1) {Saul's Capital};
+
+  % JERUSALEM - Main focus
+  \fill[red!70!black] (5,6.5) circle (0.2);
+  \draw[red!70!black,line width=1pt] (5,6.5) circle (0.3);
+  \node[font=\normalsize\bfseries,left,color=red!70!black] at (4.7,6.5) {JERUSALEM};
+  \node[font=\small,left,color=red!70!black] at (4.7,6.1) {耶路撒冷};
+  \node[font=\tiny,left,color=TextGray] at (4.7,5.7) {David's Capital, Temple Site};
+
+  % Bethlehem - David's hometown
+  \fill[ScriptureGold] (4.8,5.8) circle (0.15);
+  \node[font=\small,right,color=ChapterBlue] at (5,5.8) {Bethlehem 伯利恆};
+  \node[font=\tiny,right,color=TextGray] at (5,5.4) {David Anointed (1 Sam 16)};
+
+  % Hebron - David's first capital
+  \fill[ScriptureGold] (4.5,4.5) circle (0.15);
+  \node[font=\small\bfseries,left,color=ChapterBlue] at (4.3,4.5) {Hebron 希伯崙};
+  \node[font=\tiny,left,color=TextGray] at (4.3,4.1) {David's Capital 7 years};
+
+  % Cave of Adullam
+  \fill[ScriptureGold] (3.5,5) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (3.3,5) {Adullam 亞杜蘭 (Ps 142)};
+
+  % En Gedi
+  \fill[ScriptureGold] (7.5,3) circle (0.15);
+  \node[font=\small,right,color=ChapterBlue] at (7.7,3) {En Gedi 隱基底};
+  \node[font=\tiny,right,color=TextGray] at (7.7,2.6) {David hides (Ps 57, 63)};
+
+  % Ziklag
+  \fill[ScriptureGold] (2.5,3) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (2.3,3) {Ziklag 洗革拉};
+
+  % Mount Gilboa
+  \fill[MountainBrown] (6,9.5) circle (0.15);
+  \node[font=\small,right,color=MountainBrown] at (6.2,9.5) {Mt Gilboa 基利波山};
+  \node[font=\tiny,right,color=TextGray] at (6.2,9.1) {Saul's Death (1 Sam 31)};
+
+  % Mahanaim
+  \fill[ScriptureGold] (8,7) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (8.2,7) {Mahanaim 瑪哈念};
+  \node[font=\tiny,right,color=TextGray] at (8.2,6.6) {(Absalom Rebellion)};
+
+  % Compass Rose
+  \draw[->,very thick,color=ChapterBlue] (9,10.5) -- (9,11.3);
+  \draw[->,thick,color=ChapterBlue] (8.6,10.5) -- (9.4,10.5);
+  \node[font=\small\bfseries,color=ChapterBlue] at (9,11.5) {N};
+
+  % Scale bar
+  \draw[very thick,color=TextGray] (2,0.5) -- (4,0.5);
+  \draw[thick,color=TextGray] (2,0.4) -- (2,0.6);
+  \draw[thick,color=TextGray] (4,0.4) -- (4,0.6);
+  \node[font=\small,color=TextGray] at (3,0.2) {50 km / 30 miles};
+
+  % Legend
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2,11.5) {Legend 圖例};
+  \fill[red!70!black] (1.5,11) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (1.7,11) {Jerusalem};
+  \fill[ScriptureGold] (1.5,10.6) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (1.7,10.6) {Key Location};
+  \fill[MountainBrown] (1.5,10.2) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (1.7,10.2) {Mountain};
+
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\footnotesize\color{LightGray} 「耶和華不像人看人，人是看外貌，耶和華是看內心。」— 撒上 16:7}
+\end{center}
+\cleardoublepage
+
+% Psalms Connection Page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 大衛詩篇對應圖}\\[0.1cm]
+{\normalsize David's Psalms Connected to Historical Events}
+
+\vspace{0.4cm}
+
+% David's Life Stages with Psalms
+\begin{tikzpicture}[scale=0.8]
+  % Title
+  \node[font=\normalsize\bfseries,color=ChapterBlue] at (0,9) {大衛生平與詩篇 David's Life \& Psalms};
+
+  % Timeline
+  \draw[ChapterBlue,line width=2pt] (-5,7) -- (5,7);
+
+  % Periods
+  \node[font=\small\bfseries,color=ChapterBlue] at (-3.5,7.5) {Flight 逃亡};
+  \node[font=\small\bfseries,color=ChapterBlue] at (0,7.5) {Reign 作王};
+  \node[font=\small\bfseries,color=ChapterBlue] at (3.5,7.5) {Late 晚年};
+
+  % Flight Psalms
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-4,5.5) {Ps 59\\基比亞};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-2.5,5.5) {Ps 34,56\\迦特};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-4,4) {Ps 142\\亞杜蘭};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-2.5,4) {Ps 54\\西弗};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-3.25,2.5) {Ps 57,63\\隱基底};
+
+  % Reign Psalms
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-0.5,5.5) {Ps 24,68\\約櫃入城};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (1,5.5) {Ps 89,132\\大衛之約};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=2cm,font=\tiny,align=center] at (0.25,4) {Ps 51,32\\悔改};
+
+  % Late Psalms
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (3,5.5) {Ps 3,55\\押沙龍};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (4.5,5.5) {Ps 62,143\\等候神};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (3.75,4) {Ps 18,30\\感恩};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (3.75,2.5) {Ps 72\\為所羅門};
+
+  % Arrows
+  \draw[->,ScriptureGold,thick] (-4,6.5) -- (-4,5.9);
+  \draw[->,ScriptureGold,thick] (0.25,6.5) -- (0.25,5.9);
+  \draw[->,ScriptureGold,thick] (3.75,6.5) -- (3.75,5.9);
+
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Book Structure
+{\large\bfseries\color{ChapterBlue} 四書結構 Structure of Four Books}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.75]
+  % Four books
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.5cm,font=\small\bfseries,align=center] (sam1) at (-4,0) {撒母耳記上\\1 Samuel};
+  \node[font=\tiny,color=LightGray] at (-4,-1.2) {1105-1010 BC};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.5cm,font=\small\bfseries,align=center] (sam2) at (-1.2,0) {撒母耳記下\\2 Samuel};
+  \node[font=\tiny,color=LightGray] at (-1.2,-1.2) {1010-970 BC};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.5cm,font=\small\bfseries,align=center] (chr1) at (1.6,0) {歷代志上\\1 Chronicles};
+  \node[font=\tiny,color=LightGray] at (1.6,-1.2) {Adam-970 BC};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.5cm,font=\small\bfseries,align=center] (chr2) at (4.4,0) {歷代志下\\2 Chronicles};
+  \node[font=\tiny,color=LightGray] at (4.4,-1.2) {970-586 BC};
+
+  % Arrows
+  \draw[->,ChapterBlue,thick] (sam1) -- (sam2);
+  \draw[->,ChapterBlue,thick] (sam2) -- (chr1);
+  \draw[->,ChapterBlue,thick] (chr1) -- (chr2);
+
+  % Perspective labels
+  \node[font=\tiny,color=CommentaryBrown] at (-2.6,1.2) {先知視角 Prophetic};
+  \node[font=\tiny,color=CommentaryBrown] at (3,1.2) {祭司視角 Priestly};
+
+  % Psalms connection below
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=8cm,minimum height=0.8cm,font=\small\bfseries] at (0,-2.5) {\harpsymbol\hspace{0.3cm}詩篇 Psalms\hspace{0.3cm}\harpsymbol};
+  \draw[->,ScriptureGold,thick] (-2.6,-0.8) -- (-2.6,-2);
+  \draw[->,ScriptureGold,thick] (0,-0.8) -- (0,-2);
+  \draw[->,ScriptureGold,thick] (3,-0.8) -- (3,-2);
+
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} 「聽命勝於獻祭，順從勝於公羊的脂油。」— 撒上 15:22}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{撒母耳記與歷代志研讀 / Samuel \& Chronicles Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ Dale Ralph Davis - Samuel Commentary\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}
