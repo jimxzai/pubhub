@@ -6,7 +6,7 @@
 \documentclass[11pt,openany]{book}
 
 %% ============================================
-%% FONT SETUP
+%% FONT SETUP WITH CJK LINE BREAKING
 %% ============================================
 \usepackage{fontspec}
 
@@ -17,17 +17,21 @@
 \setsansfont{PingFang SC}
 \setmonofont{Menlo}
 
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
 %% ============================================
-%% PAGE GEOMETRY - Fixed margins
+%% PAGE GEOMETRY - Fixed margins (more conservative)
 %% ============================================
 \usepackage{geometry}
 \geometry{
   paperwidth=7in,
   paperheight=10in,
-  top=0.8in,
-  bottom=0.8in,
+  top=0.75in,
+  bottom=0.75in,
   inner=0.8in,
-  outer=0.6in,
+  outer=0.65in,
   marginparwidth=0in,
   marginparsep=0in
 }
@@ -35,9 +39,9 @@
 %% ============================================
 %% LINE AND PARAGRAPH SPACING
 %% ============================================
-\linespread{1.2}
+\linespread{1.1}
 \setlength{\parindent}{0pt}
-\setlength{\parskip}{0.4em}
+\setlength{\parskip}{0.3em}
 
 %% ============================================
 %% COLOR SCHEME - Professional Bible Study
@@ -49,15 +53,15 @@
 \definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs
 \definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
 
-% Accent colors for boxes
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}       % Sea/river blue
+\definecolor{LandBeige}{RGB}{245,235,220}       % Land color
+\definecolor{MountainBrown}{RGB}{180,160,140}   % Mountain shading
+
+% Box colors
 \definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
-\definecolor{ScriptureBorder}{RGB}{180,160,120} % Border for scripture
 \definecolor{GreekBg}{RGB}{245,248,252}         % Light blue for Greek
-\definecolor{GreekBorder}{RGB}{100,130,170}     % Blue border
 \definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
-\definecolor{ApplicationBorder}{RGB}{100,150,100} % Green border
-\definecolor{WarningBg}{RGB}{255,250,245}       % Light orange for notes
-\definecolor{WarningBorder}{RGB}{200,150,100}   % Orange border
 
 % Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
@@ -74,80 +78,29 @@
 %% ============================================
 \usepackage{graphicx}
 \usepackage{tikz}
-\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
 
 %% ============================================
-%% COLORED BOXES
+%% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
-\usepackage{tcolorbox}
-\tcbuselibrary{breakable,skins}
 
-% Scripture box
-\newtcolorbox{scripturebox}[1][]{
-  enhanced,
-  breakable,
-  colback=ScriptureBg,
-  colframe=ScriptureBorder,
-  boxrule=1pt,
-  left=10pt,
-  right=10pt,
-  top=8pt,
-  bottom=8pt,
-  arc=3pt,
-  fonttitle=\bfseries\color{ScriptureGold},
-  title={#1},
-  before upper={\parindent0pt}
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
 }
 
-% Greek word study box
-\newtcolorbox{greekbox}[1][原文研讀]{
-  enhanced,
-  breakable,
-  colback=GreekBg,
-  colframe=GreekBorder,
-  boxrule=1pt,
-  left=10pt,
-  right=10pt,
-  top=8pt,
-  bottom=8pt,
-  arc=3pt,
-  fonttitle=\bfseries\color{GreekBorder},
-  title={#1},
-  before upper={\parindent0pt}
-}
-
-% Application box
-\newtcolorbox{applicationbox}[1][生命應用]{
-  enhanced,
-  breakable,
-  colback=ApplicationBg,
-  colframe=ApplicationBorder,
-  boxrule=1pt,
-  left=10pt,
-  right=10pt,
-  top=8pt,
-  bottom=8pt,
-  arc=3pt,
-  fonttitle=\bfseries\color{ApplicationBorder},
-  title={#1},
-  before upper={\parindent0pt}
-}
-
-% Note/Warning box
-\newtcolorbox{notebox}[1][注意]{
-  enhanced,
-  breakable,
-  colback=WarningBg,
-  colframe=WarningBorder,
-  boxrule=1pt,
-  left=10pt,
-  right=10pt,
-  top=8pt,
-  bottom=8pt,
-  arc=3pt,
-  fonttitle=\bfseries\color{WarningBorder},
-  title={#1},
-  before upper={\parindent0pt}
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
 }
 
 %% ============================================
@@ -171,10 +124,12 @@
 \usepackage{tabularx}
 \usepackage{calc}
 
-% Set table width to text width
+% Set table width to text width - constrain tables
 \setlength{\LTleft}{0pt}
 \setlength{\LTright}{0pt}
-\renewcommand{\arraystretch}{1.3}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
 
 % Pandoc 3.x table support
 \usepackage{etoolbox}
@@ -206,55 +161,80 @@
 }
 
 %% ============================================
-%% SECTION STYLING
+%% SECTION STYLING (manual, without titlesec)
 %% ============================================
-\usepackage{titlesec}
-
+\makeatletter
 % Chapter styling
-\titleformat{\chapter}[display]
-  {\normalfont\Huge\bfseries\color{ChapterBlue}}
-  {\chaptertitlename\ \thechapter}
-  {20pt}
-  {\Huge}
-\titlespacing*{\chapter}{0pt}{-20pt}{30pt}
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
 
 % Section styling
-\titleformat{\section}
-  {\normalfont\Large\bfseries\color{ChapterBlue}}
-  {\thesection}{1em}{}
-\titleformat{\subsection}
-  {\normalfont\large\bfseries\color{CommentaryBrown}}
-  {\thesubsection}{1em}{}
-\titleformat{\subsubsection}
-  {\normalfont\normalsize\bfseries\color{TextGray}}
-  {\thesubsubsection}{1em}{}
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
 
 %% ============================================
-%% BLOCKQUOTE STYLING
+%% BLOCKQUOTE STYLING - extra room for CJK text
 %% ============================================
 \renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
   \list{}{%
-    \leftmargin=1em
-    \rightmargin=0.5em
-    \topsep=0.3em
+    \leftmargin=0.5em
+    \rightmargin=0.2em
     \parsep=0pt
-    \listparindent=0pt
+    \itemsep=0pt
   }%
   \item\relax
   \small\color{TextGray}%
-  \itshape
 }{%
   \endlist
+  \par\vspace{0.3\baselineskip}%
 }
 
 %% ============================================
-%% WIDOW/ORPHAN AND LINE BREAKING
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
 %% ============================================
 \widowpenalty=10000
 \clubpenalty=10000
-\tolerance=1000
-\emergencystretch=3em
+\tolerance=9999
+\emergencystretch=6em
 \hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
 
 %% ============================================
 %% METADATA
@@ -292,73 +272,256 @@ $endif$
 \begin{titlepage}
 \thispagestyle{empty}
 \begin{center}
-\vspace*{1.5cm}
+\vspace*{0.5cm}
 
-% Decorative line
-{\color{ScriptureGold}\rule{3in}{1pt}}
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
 
-\vspace{0.8cm}
+\vspace{0.4cm}
 
 % Main title
-{\fontsize{42}{50}\selectfont\bfseries\color{ChapterBlue} 生命之道}\\[0.4cm]
-{\Large\itshape\color{LightGray} The Way of Life}
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 生命之道}\\[0.2cm]
+{\large\itshape\color{LightGray} The Way of Life}
 
-\vspace{1.5cm}
+\vspace{0.6cm}
 
 % Book title
-{\fontsize{28}{34}\selectfont\bfseries 約翰福音研讀}\\[0.3cm]
-{\large A Study of the Gospel of John}
+{\fontsize{22}{28}\selectfont\bfseries 約翰福音研讀}\\[0.15cm]
+{\normalsize A Study of the Gospel of John}
 
-\vspace{1.5cm}
+\vspace{0.5cm}
 
-% Decorative element
-{\color{ScriptureGold}\rule{2in}{0.5pt}}
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+太初有道，道與神同在，道就是神。\\[0.15em]
+\footnotesize In the beginning was the Word, and the Word was\\
+with God, and the Word was God. — John 1:1
+\vspace{0.3cm}
+\end{minipage}
+}
 
-\vspace{1.5cm}
+\vspace{0.4cm}
 
-% Key verse box
-\begin{tcolorbox}[
-  width=4in,
-  colback=ScriptureBg,
-  colframe=ScriptureGold,
-  boxrule=1pt,
-  arc=5pt,
-  halign=center
-]
-\itshape\color{CommentaryBrown}
-太初有道，道與神同在，道就是神。\\[0.3em]
-\small In the beginning was the Word, and the Word was\\
-with God, and the Word was God.\\[0.3em]
-\normalfont\small — 約翰福音 John 1:1
-\end{tcolorbox}
+% Holy Land Map (TikZ drawn)
+\begin{tikzpicture}[scale=0.55]
+  % Title
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2.5,7.2) {約翰福音地圖 Map of John's Gospel};
+
+  % Mediterranean Sea (left side)
+  \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
+  \node[font=\tiny,color=ChapterBlue,rotate=90] at (-0.5,3.5) {Mediterranean};
+
+  % Land area
+  \fill[LandBeige] (0.5,0) rectangle (6,6.5);
+
+  % Sea of Galilee
+  \fill[WaterBlue] (3.5,4.5) ellipse (0.6 and 0.8);
+  \node[font=\tiny,color=ChapterBlue] at (3.5,4.5) {Galilee};
+
+  % Jordan River
+  \draw[WaterBlue,line width=1.5pt] (3.5,3.7) -- (3.3,2.5) -- (3.5,1.2);
+
+  % Dead Sea
+  \fill[WaterBlue] (3.5,0.6) ellipse (0.4 and 0.5);
+  \node[font=\tiny,color=ChapterBlue] at (3.5,0.6) {Dead};
+
+  % Key locations from John's Gospel
+  \fill[ScriptureGold] (2.8,5.8) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (2.9,5.8) {Cana 迦拿 (2:1)};
+
+  \fill[ScriptureGold] (3.5,5.2) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (3.6,5.2) {Capernaum 迦百農};
+
+  \fill[ScriptureGold] (2,4.2) circle (0.08);
+  \node[font=\tiny,left,color=TextGray] at (1.9,4.2) {Nazareth 拿撒勒};
+
+  \fill[ScriptureGold] (3.2,3.2) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (3.3,3.2) {Samaria 撒瑪利亞 (4:4)};
+
+  \fill[ScriptureGold] (3.8,2.4) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (3.9,2.4) {Bethany 伯大尼 (11:1)};
+
+  \fill[red!70!black] (3.2,1.8) circle (0.1);
+  \node[font=\tiny\bfseries,left,color=red!70!black] at (3.1,1.8) {Jerusalem 耶路撒冷};
+
+  \fill[ScriptureGold] (4.5,2.8) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (4.6,2.8) {Bethlehem 伯利恆};
+
+  % Compass
+  \draw[->,thick,color=ChapterBlue] (5.3,5.8) -- (5.3,6.3);
+  \node[font=\tiny,color=ChapterBlue] at (5.3,6.5) {N};
+
+  % Scale
+  \draw[color=LightGray] (0.8,0.3) -- (2.3,0.3);
+  \node[font=\tiny,color=LightGray] at (1.55,0.1) {50 km};
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Structure diagram (smaller)
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {Gospel Structure 福音結構};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (-2.5,1.5) {Prologue};
+  \node[font=\tiny,color=LightGray] at (-2.5,1.1) {1:1-18};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (0,1.5) {Public};
+  \node[font=\tiny,color=LightGray] at (0,1.1) {1:19-12:50};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (2.5,1.5) {Private};
+  \node[font=\tiny,color=LightGray] at (2.5,1.1) {13-17};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.5cm,font=\tiny] at (0,0.3) {Passion \& Resurrection};
+  \node[font=\tiny,color=LightGray] at (0,-0.1) {18-21};
+
+  \draw[->,color=ScriptureGold,thick] (-1.5,1.5) -- (-0.9,1.5);
+  \draw[->,color=ScriptureGold,thick] (0.9,1.5) -- (1.6,1.5);
+  \draw[->,color=ScriptureGold,thick] (0,0.85) -- (0,0.6);
+\end{tikzpicture}
 
 \vfill
 
-% Equation
-{\Large\color{ScriptureGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.2cm]
-{\small\color{LightGray} Glory = Grace + Truth (John 1:14)}
+% Equation and vine
+{\normalsize\color{ScriptureGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.1cm]
+{\footnotesize\color{LightGray} Glory = Grace + Truth (John 1:14)}
 
-\vspace{1.5cm}
+\vspace{0.5cm}
 
 $if(author)$
-{\large $author$}\\[0.5cm]
+{\normalsize $author$}\\[0.3cm]
 $endif$
 
 $if(publisher)$
-{\normalsize $publisher$}\\[0.3cm]
+{\small $publisher$}\\[0.15cm]
 $endif$
 
 $if(date)$
-{\normalsize $date$}
+{\small $date$}
 $else$
-{\normalsize \today}
+{\small \today}
 $endif$
 
-\vspace{0.5cm}
-{\color{ScriptureGold}\rule{3in}{1pt}}
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
 
 \end{center}
 \end{titlepage}
+
+% Map page (full page)
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 約翰福音重要地點}\\[0.1cm]
+{\normalsize Key Locations in the Gospel of John}
+
+\vspace{0.4cm}
+
+% Larger detailed map
+\begin{tikzpicture}[scale=1.0]
+  % Background
+  \fill[LandBeige] (0,0) rectangle (10,12);
+
+  % Mediterranean Sea
+  \fill[WaterBlue] (-0.5,0) rectangle (1.5,12);
+  \draw[WaterBlue!70!black,line width=0.5pt] (1.5,0) -- (1.5,12);
+  \node[font=\small,color=ChapterBlue,rotate=90] at (0.5,6) {Mediterranean Sea 地中海};
+
+  % Sea of Galilee
+  \fill[WaterBlue] (6,8.5) ellipse (1 and 1.3);
+  \node[font=\footnotesize,color=white] at (6,8.5) {Sea of};
+  \node[font=\footnotesize,color=white] at (6,8.1) {Galilee};
+  \node[font=\tiny,color=ChapterBlue] at (6,7.5) {加利利海};
+
+  % Jordan River
+  \draw[WaterBlue,line width=2.5pt] (6,7.2) .. controls (5.8,6) and (6.2,5) .. (6,4) .. controls (5.8,3) .. (6,2);
+  \node[font=\tiny,color=ChapterBlue,rotate=-80] at (5.5,5) {Jordan 約旦河};
+
+  % Dead Sea
+  \fill[WaterBlue!80!black] (6,1) ellipse (0.7 and 0.9);
+  \node[font=\footnotesize,color=white] at (6,1) {Dead Sea};
+  \node[font=\tiny,color=ChapterBlue] at (6,0.3) {死海};
+
+  % Mountains (subtle shading)
+  \fill[MountainBrown!30] (7.5,6) ellipse (1.5 and 2);
+  \fill[MountainBrown!30] (3,7) ellipse (1 and 1.5);
+
+  %% KEY LOCATIONS with verse references
+
+  % Cana - Water to Wine
+  \fill[ScriptureGold] (4.5,10) circle (0.15);
+  \node[font=\small\bfseries,right,color=ChapterBlue] at (4.7,10) {Cana 迦拿};
+  \node[font=\tiny,right,color=TextGray] at (4.7,9.6) {Water to Wine (2:1-11)};
+
+  % Capernaum
+  \fill[ScriptureGold] (6.5,9.5) circle (0.15);
+  \node[font=\small\bfseries,right,color=ChapterBlue] at (6.7,9.5) {Capernaum 迦百農};
+  \node[font=\tiny,right,color=TextGray] at (6.7,9.1) {Nobleman's Son (4:46)};
+
+  % Bethsaida
+  \fill[ScriptureGold] (7,8.8) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (7.2,8.8) {Bethsaida 伯賽大};
+
+  % Nazareth
+  \fill[ScriptureGold] (3.5,9) circle (0.12);
+  \node[font=\small,left,color=ChapterBlue] at (3.3,9) {Nazareth 拿撒勒};
+
+  % Sychar (Samaria)
+  \fill[ScriptureGold] (5.5,6.5) circle (0.15);
+  \node[font=\small\bfseries,left,color=ChapterBlue] at (5.3,6.5) {Sychar 敘加};
+  \node[font=\tiny,left,color=TextGray] at (5.3,6.1) {Woman at Well (4:5)};
+
+  % Bethany beyond Jordan
+  \fill[ScriptureGold] (7,4.5) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (7.2,4.5) {Bethany beyond Jordan};
+  \node[font=\tiny,right,color=TextGray] at (7.2,4.1) {伯大尼 (1:28)};
+
+  % Bethany near Jerusalem
+  \fill[ScriptureGold] (6.8,3.2) circle (0.15);
+  \node[font=\small\bfseries,right,color=ChapterBlue] at (7,3.2) {Bethany 伯大尼};
+  \node[font=\tiny,right,color=TextGray] at (7,2.8) {Lazarus Raised (11:1)};
+
+  % JERUSALEM - Main focus
+  \fill[red!70!black] (5.5,3.5) circle (0.2);
+  \draw[red!70!black,line width=1pt] (5.5,3.5) circle (0.3);
+  \node[font=\normalsize\bfseries,left,color=red!70!black] at (5.2,3.5) {JERUSALEM};
+  \node[font=\small,left,color=red!70!black] at (5.2,3.1) {耶路撒冷};
+  \node[font=\tiny,left,color=TextGray] at (5.2,2.7) {Temple, Pool of Bethesda,};
+  \node[font=\tiny,left,color=TextGray] at (5.2,2.4) {Siloam, Passion (5-21)};
+
+  % Bethlehem
+  \fill[ScriptureGold] (5,2.8) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (4.8,2.8) {Bethlehem 伯利恆};
+
+  % Compass Rose
+  \draw[->,very thick,color=ChapterBlue] (9,10.5) -- (9,11.3);
+  \draw[->,thick,color=ChapterBlue] (8.6,10.5) -- (9.4,10.5);
+  \node[font=\small\bfseries,color=ChapterBlue] at (9,11.5) {N};
+
+  % Scale bar
+  \draw[very thick,color=TextGray] (2,0.5) -- (4,0.5);
+  \draw[thick,color=TextGray] (2,0.4) -- (2,0.6);
+  \draw[thick,color=TextGray] (4,0.4) -- (4,0.6);
+  \node[font=\small,color=TextGray] at (3,0.2) {50 km / 30 miles};
+
+  % Legend
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2,11.5) {Legend 圖例};
+  \fill[red!70!black] (1.5,11) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (1.7,11) {Jerusalem};
+  \fill[ScriptureGold] (1.5,10.6) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (1.7,10.6) {Key Location};
+  \draw[WaterBlue,line width=2pt] (1.3,10.2) -- (1.7,10.2);
+  \node[font=\tiny,right,color=TextGray] at (1.7,10.2) {River/Sea};
+
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\footnotesize\color{LightGray} 「我就是道路、真理、生命。」— 約翰福音 14:6}
+\end{center}
+\cleardoublepage
 
 % Copyright page
 \thispagestyle{empty}
@@ -369,19 +532,19 @@ $endif$
 $if(copyright)$
 $copyright$
 $else$
-\textbf{約翰福音研讀 / Gospel of John Study}\\[1em]
+\textbf{約翰福音研讀 / Gospel of John Study}\\[0.8em]
 
 Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
-All rights reserved.\\[1em]
+All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
 中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[1em]
+English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
-\textbullet\ G. Campbell Morgan - The Gospel According to John\\[1em]
+\textbullet\ G. Campbell Morgan - The Gospel According to John\\[0.8em]
 
 本書為七年三書精讀項目成果之一。\\
 Part of the 7-Year Three Books Deep Reading Project.

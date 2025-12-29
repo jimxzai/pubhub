@@ -58,18 +58,6 @@ export default function Home() {
         </ul>
       </section>
 
-      <section className="mt-12 p-6 bg-gray-100 rounded-lg">
-        <h2 className="font-bold text-lg mb-4">🛠️ Tools</h2>
-        <div className="flex gap-4">
-          <a
-            href="/storage"
-            className="px-4 py-2 bg-blue-500 text-white rounded hover:bg-blue-600"
-          >
-            📁 Storage Browser
-          </a>
-        </div>
-      </section>
-
       <footer className="mt-16 pt-8 border-t text-center text-sm text-gray-500">
         <p>7年三書精讀出版系統 | 2025-2032</p>
         <p className="mt-1">Built with Next.js 16.1 + Turbopack + pnpm</p>

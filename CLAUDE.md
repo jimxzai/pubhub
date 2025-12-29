@@ -20,6 +20,9 @@ pnpm build            # Production build
 pnpm start            # Start production server
 pnpm lint             # Run ESLint
 pnpm typecheck        # Run TypeScript check
+pnpm test             # Run tests with Vitest
+pnpm test:run         # Run tests once
+pnpm test:coverage    # Run tests with coverage
 ```
 
 ### Claude Skills (Slash Commands)

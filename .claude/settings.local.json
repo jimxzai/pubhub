@@ -24,7 +24,13 @@
       "Bash(open:*)",
       "Bash(pnpm eslint:*)",
       "Bash(node scripts/sync.mjs:*)",
-      "Bash(tlmgr install:*)"
+      "Bash(tlmgr install:*)",
+      "Bash(pnpm add:*)",
+      "Bash(lsof:*)",
+      "Bash(pnpm remove:*)",
+      "Bash(cat:*)",
+      "Bash(timeout 30 pnpm eslint:*)",
+      "Bash(npx tsc:*)"
     ]
   }
 }
