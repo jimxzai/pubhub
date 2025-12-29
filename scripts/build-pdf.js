@@ -39,6 +39,11 @@ const CONFIG = {
       engine: 'xelatex',
       description: 'Professional Gospel of John study book'
     },
+    'genesis': {
+      template: 'genesis.latex',
+      engine: 'xelatex',
+      description: 'Professional Genesis study book'
+    },
     'gospel-of-matthew': {
       template: 'gospel-of-matthew.latex',
       engine: 'xelatex',
@@ -78,6 +83,31 @@ const CONFIG = {
       template: 'jude.latex',
       engine: 'xelatex',
       description: 'Professional Epistle of Jude study book'
+    },
+    'johannine-epistles': {
+      template: 'johannine-epistles.latex',
+      engine: 'xelatex',
+      description: 'Professional Johannine Epistles study book (1, 2, 3 John)'
+    },
+    'revelation': {
+      template: 'revelation.latex',
+      engine: 'xelatex',
+      description: 'Professional Book of Revelation study book'
+    },
+    'hebrews': {
+      template: 'hebrews.latex',
+      engine: 'xelatex',
+      description: 'Professional Epistle to the Hebrews study book'
+    },
+    'gospel-of-luke': {
+      template: 'gospel-of-luke.latex',
+      engine: 'xelatex',
+      description: 'Professional Gospel of Luke study book'
+    },
+    'acts': {
+      template: 'acts.latex',
+      engine: 'xelatex',
+      description: 'Professional Acts of the Apostles study book'
     },
     newspaper: {
       template: 'newspaper.css',
@@ -478,7 +508,7 @@ function main() {
   console.log('');
 
   if (inputStat.isDirectory()) {
-    const dirFormats = ['book', 'samuel-chronicles', 'gospel-of-john', 'gospel-of-matthew', 'gospel-of-mark', '1-peter', '2-peter', 'pauline-epistles', 'james'];
+    const dirFormats = ['book', 'genesis', 'samuel-chronicles', 'gospel-of-john', 'gospel-of-matthew', 'gospel-of-mark', 'gospel-of-luke', 'acts', '1-peter', '2-peter', 'pauline-epistles', 'james', 'johannine-epistles', 'revelation', 'hebrews'];
     if (!dirFormats.includes(options.format)) {
       console.error('Error: Directory input only supported for book-style formats');
       process.exit(1);

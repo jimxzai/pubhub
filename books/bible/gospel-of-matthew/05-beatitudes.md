@@ -102,12 +102,97 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 解經大師洞見 (Master Commentators' Insights)
+
+### John MacArthur 論山上寶訓
+
+**新君王的宣言**：MacArthur稱山上寶訓為「新君王的宣言」(*manifesto of the new Monarch*)。這是開創新時代的革命性教導，對當時猶太宗教人士的思想產生爆炸性衝擊，近兩千年來持續震撼讀者心靈。
+
+**律法的正確功用**：
+> 「這是律法在救恩方面的正確功用：它關閉了一切人間功德的途徑，使罪人完全倚靠神的恩典得救。」
+> — John MacArthur
+
+**顯明重生的必要**：山上寶訓的崇高標準遠超摩西律法。人不僅要行義，更要成為義。沒有其他經文更清楚顯明人離開神的絕望光景。
+
+**神學資格的確立**：MacArthur指出，山上寶訓確立了耶穌的「神學資格」(*theological qualification*)——祂不僅是先知，更是那位有權柄重新詮釋律法的彌賽亞。
+
+### G. Campbell Morgan 論山上寶訓
+
+**權柄的教導**：Morgan強調馬太福音是「教導性福音」(*didactic Gospel*)，山上寶訓是其核心。耶穌不是引用拉比的話，而是以自己的權柄說「只是我告訴你們」。
+
+**君王的倫理**：
+> 「在馬太福音中，我始終處於治理之下，被權柄所震撼。」
+> — G. Campbell Morgan
+
+**國度的內在性**：Morgan指出八福描述的不是外在行為規範，而是內在生命品質。天國子民的特徵是從心靈深處湧流出來的。
+
+---
+
 ## 生命應用 (Application)
 
 1. 八福是否描述了我內心的渴望？我是否「飢渴慕義」？
 2. 我是發光的燈，還是藏在斗底下？
 3. 我對罪的標準是否只停留在外在行為，還是也省察內心？
 4. 有沒有我不願意饒恕或仍然恨惡的人？
+
+---
+
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：Blest Are the Pure in Heart
+
+基於第六福「清心的人有福了」：
+
+> Blest are the pure in heart,
+> For they shall see our God;
+> The secret of the Lord is theirs,
+> Their soul is Christ's abode.
+
+**中文譯詞**：
+> 清心的人真有福，
+> 因要見我們的神；
+> 主的奧秘向他顯明，
+> 基督在他心內住。
+
+### 詩篇對照 (Psalm Connections)
+
+| 八福 | 詩篇呼應 | 經文 |
+|------|----------|------|
+| 虛心 | 詩 51:17 | 「神所要的祭就是憂傷的靈；神啊，憂傷痛悔的心，你必不輕看」 |
+| 哀慟 | 詩 126:5-6 | 「流淚撒種的，必歡呼收割」 |
+| 溫柔 | 詩 37:11 | 「謙卑人必承受地土，以豐盛的平安為樂」 |
+| 慕義 | 詩 42:1-2 | 「神啊，我的心渴慕你，如鹿渴慕溪水」 |
+| 憐憫 | 詩 18:25 | 「慈愛的人，你以慈愛待他」 |
+| 清心 | 詩 24:3-4 | 「誰能登耶和華的山？就是手潔心清的人」 |
+| 和睦 | 詩 34:14 | 「要尋求和睦，一心追趕」 |
+| 受逼迫 | 詩 69:7 | 「因我為你的緣故受了辱罵」 |
+
+### 禱告回應詩：詩篇 24:3-5
+
+> 誰能登耶和華的山？
+> 誰能站在他的聖所？
+> 就是手潔心清、不向虛妄、起誓不懷詭詐的人。
+> 他必蒙耶和華賜福，
+> 又蒙救他的神使他成義。
+
+### 八福聖詩選
+
+| 福 | 聖詩 |
+|----|------|
+| 虛心 | *Rock of Ages* — 靠主而非靠己 |
+| 哀慟 | *Abide with Me* — 求主安慰同在 |
+| 溫柔 | *Dear Lord and Father of Mankind* — 安靜謙卑 |
+| 慕義 | *More Love to Thee, O Christ* — 渴慕主愛 |
+| 憐憫 | *O Master, Let Me Walk with Thee* — 服事人群 |
+| 清心 | *Blest Are the Pure in Heart* — 清潔內心 |
+| 和睦 | *Let There Be Peace on Earth* — 和平使者 |
+| 受逼迫 | *Am I a Soldier of the Cross?* — 為主受苦 |
+
+### 其他相關聖詩
+
+- *Take My Life and Let It Be* — 完全奉獻
+- *O for a Heart to Praise My God* — 渴慕清心
+- *Breathe on Me, Breath of God* — 求聖靈潔淨
 
 ---
 

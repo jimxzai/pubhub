@@ -87,4 +87,75 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：O Sacred Head, Now Wounded
+
+這首12世紀聖詩是受難週最崇高的默想：
+
+> O sacred Head, now wounded,
+> With grief and shame weighed down,
+> Now scornfully surrounded
+> With thorns, Thine only crown.
+> How pale Thou art with anguish,
+> With sore abuse and scorn!
+> How does that visage languish
+> Which once was bright as morn!
+
+**中文譯詞**（《聖首創痕滿》）：
+> 聖首滿創，遍愁苦羞辱；
+> 受人戲弄，荊冠作冕旒。
+> 本發光輝，何其明亮照，
+> 今竟蒼白，傷痕並憂愁！
+
+### 詩篇22：十架預言詩
+
+本章大量應驗詩篇22，這是十架的舊約預言：
+
+| 詩篇22 | 馬太27 | 應驗 |
+|--------|--------|------|
+| 22:1 | 27:46 | 「我的神，我的神，為什麼離棄我？」 |
+| 22:7-8 | 27:39-43 | 「凡看見我的都嗤笑我」 |
+| 22:16 | 27:35 | 「他們扎了我的手、我的腳」 |
+| 22:18 | 27:35 | 「他們分我的外衣，為我的裏衣拈鬮」 |
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 22** | 十架預言 | 全篇應驗於十字架 |
+| **詩篇 69:21** | 苦膽與醋 | 「他們拿苦膽給我當食物；我渴了，他們拿醋給我喝」 |
+| **詩篇 31:5** | 交託靈魂 | 「我將我的靈魂交在你手裏」 |
+| **詩篇 88** | 被離棄 | 至暗時刻的呼喊 |
+
+### 禱告回應詩：詩篇 22:1, 19-22
+
+> 我的神，我的神！為甚麼離棄我？
+> ...
+> 耶和華啊，求你不要遠離我！
+> 我的救主啊，求你快來幫助我！
+> ...
+> 我要將你的名傳與我的弟兄，
+> 在會中我要讚美你。
+
+### 受難聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 十架默想 | *When I Survey the Wondrous Cross* |
+| 聖首受創 | *O Sacred Head, Now Wounded* |
+| 寶血功效 | *There Is a Fountain Filled with Blood* |
+| 代罪羔羊 | *Ah, Holy Jesus, How Hast Thou Offended* |
+| 十架光輝 | *In the Cross of Christ I Glory* |
+| 奇妙愛 | *And Can It Be?* |
+| 古舊十架 | *The Old Rugged Cross* |
+
+### 受難週默想詩
+
+- *Were You There When They Crucified My Lord?* — 靈歌式默想
+- *Beneath the Cross of Jesus* — 十架蔭下
+- *Alas! And Did My Savior Bleed* — 為我流血？
+
+---
+
 *本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*

@@ -68,4 +68,63 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：The Church's One Foundation
+
+基於彼得認信與教會建造的主題：
+
+> The Church's one foundation
+> Is Jesus Christ her Lord;
+> She is His new creation
+> By water and the Word.
+> From heaven He came and sought her
+> To be His holy bride;
+> With His own blood He bought her,
+> And for her life He died.
+
+**中文譯詞**：
+> 教會唯一的根基，
+> 是主耶穌基督；
+> 她是主的新創造，
+> 藉水與道而生。
+> 主從天上來尋她，
+> 作祂聖潔新婦；
+> 用自己寶血買她，
+> 並為她捨生命。
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 18:2** | 磐石 | 「耶和華是我的磐石、我的山寨」 |
+| **詩篇 118:22** | 房角石 | 「匠人所棄的石頭已成了房角的頭塊石頭」 |
+| **詩篇 62:2** | 唯一拯救 | 「唯獨他是我的磐石、我的拯救」 |
+| **詩篇 27:4-5** | 主的殿 | 「在他的帳幕裏，他必把我藏在他會幕的隱密處，將我高舉在磐石上」 |
+
+### 禱告回應詩：詩篇 18:1-2
+
+> 耶和華，我的力量啊，我愛你！
+> 耶和華是我的磐石，我的山寨，我的救主，
+> 我的神，我的磐石，我所投靠的。
+> 他是我的盾牌，是拯救我的角，是我的高臺。
+
+### 捨己跟從聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 認信基督 | *My Jesus, I Love Thee* |
+| 捨己 | *When I Survey the Wondrous Cross* |
+| 背十架 | *Must Jesus Bear the Cross Alone?* |
+| 跟從 | *I Have Decided to Follow Jesus* |
+| 得生命 | *And Can It Be?* |
+
+### 其他相關聖詩
+
+- *On Christ the Solid Rock I Stand* — 建立在磐石上
+- *How Firm a Foundation* — 信心根基
+- *Jesus, I My Cross Have Taken* — 背起十架跟從
+
+---
+
 *本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*

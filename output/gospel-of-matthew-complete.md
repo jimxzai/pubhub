@@ -11,9 +11,20 @@ publisher: 三書精讀出版系統
 ## 書卷簡介
 
 **作者**：使徒馬太/利未 (The Apostle Matthew/Levi)
-**寫作日期**：約主後 50-70 年
+**寫作日期**：約主後 50-70 年（MacArthur認為可能早至主後50年，聖殿被毀前）
 **寫作地點**：可能在巴勒斯坦或敘利亞安提阿
 **主題**：耶穌是以色列的彌賽亞君王
+**讀者**：主要為猶太基督徒（從猶太教歸信者）
+
+### MacArthur 論馬太福音
+
+> 「馬太的中心論點是證明耶穌是猶太民族期待已久的彌賽亞。他引用舊約預言超過六十次，以顯明基督成全了彌賽亞的應許。」
+> — John MacArthur, *Bible Introduction to Matthew*
+
+### G. Campbell Morgan 論馬太福音
+
+> 「從始至終，這是一卷君王的福音。從祂降世的奧秘記載，經過祂倫理教導的權柄、祂方法的憐憫、祂死亡的威嚴、祂復活的榮耀，到那響亮的宣告『天上地下所有的權柄』和號角般的命令『使萬民作門徒』——我們始終處於君王的同在中。」
+> — G. Campbell Morgan, *The Gospel According to Matthew*
 
 ---
 
@@ -178,18 +189,49 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 解經大師洞見 (Master Commentators' Insights)
+
+### John MacArthur 的五重資格論證
+
+MacArthur指出馬太以五方面確立耶穌的彌賽亞身份：
+
+| 資格 | 內容 | 經文 |
+|------|------|------|
+| **法律資格** | 透過家譜建立 | 1:1-17 |
+| **預言資格** | 透過降生與童年應驗預言 | 1:18-2:23 |
+| **神性資格** | 透過天父在受洗時的見證 | 3:13-17 |
+| **屬靈資格** | 透過完全抵擋撒但試探 | 4:1-11 |
+| **神學資格** | 透過山上寶訓的教導 | 5-7 |
+
+### G. Campbell Morgan 的結構洞見
+
+Morgan強調馬太福音「不是按時間順序，而是按主題系統編排」：
+
+- **神蹟群組** (8-9章)：將神蹟聚集以產生神學效果
+- **比喻群組** (13章)：天國比喻系統排列
+- **第一個神蹟**（潔淨痲瘋）：象徵罪的潔除
+- **最後一個神蹟**（無花果樹枯乾）：象徵審判
+
+### 「天國」獨特用語 (Kingdom of Heaven)
+
+馬太獨有「天國」(*basileia tōn ouranōn*) 一詞，出現32次。其他福音書用「神國」。
+
+**MacArthur解釋**：馬太顧及猶太讀者對神名的敬畏，以「天」代替「神」，但意義相同。
+
+---
+
 ## 研讀資源 (Study Resources)
 
 ### 主要參考
 
 1. **黃長老查經班** — 週四查經教導
-2. **John MacArthur** — Grace to You (gty.org)
-3. **D.A. Carson** — *Matthew* (Expositor's Bible Commentary)
+2. **John MacArthur** — Grace to You (gty.org), *MacArthur New Testament Commentary*
+3. **G. Campbell Morgan** — *The Gospel According to Matthew* (1929)
 
 ### 經典注釋
 
 - **約翰·加爾文** — *Commentary on a Harmony of the Evangelists*
-- **馬太·乙利** — *Commentary on the Gospel of Matthew*
+- **D.A. Carson** — *Matthew* (Expositor's Bible Commentary)
 - **威廉·乙萊理** — *Matthew* (Believer's Bible Commentary)
 
 ### 聖詩資源
@@ -398,6 +440,53 @@ publisher: 三書精讀出版系統
 4. 「以馬內利」與「耶穌」這兩個名字如何互補說明基督的身份和工作？
 
 5. 約瑟的反應如何展現「義人」的品格？對我們今天有什麼啟示？
+
+---
+
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：O Come, O Come, Emmanuel
+
+這首12世紀拉丁聖詩完美呼應本章「以馬內利」的主題：
+
+> O come, O come, Emmanuel,
+> And ransom captive Israel,
+> That mourns in lonely exile here,
+> Until the Son of God appear.
+>
+> *Rejoice! Rejoice! Emmanuel*
+> *Shall come to thee, O Israel.*
+
+**中文譯詞**：
+> 以馬內利，懇求降臨，
+> 救贖釋放以色列民；
+> 淪落異邦，寂寞傷心，
+> 引頸渴望神子降臨。
+>
+> *歡欣！歡欣！以色列民，*
+> *以馬內利必定降臨。*
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 2** | 受膏者 | 「你是我的兒子」— 神兒子的身份 |
+| **詩篇 72** | 大衛子孫的國度 | 彌賽亞君王的應許 |
+| **詩篇 89:3-4** | 大衛之約 | 「我與我所揀選的人立了約，向我的僕人大衛起了誓」 |
+| **詩篇 132:11** | 大衛後裔 | 「耶和華向大衛憑真實起了誓」 |
+
+### 禱告回應詩：詩篇 89:1-2
+
+> 我要歌唱耶和華的慈愛，直到永遠；
+> 我要用口將你的信實傳與萬代。
+> 因我曾說：你的慈愛必建立到永遠；
+> 你的信實必堅立在天上。
+
+### 其他相關聖詩
+
+- *Hark! The Herald Angels Sing* — 慶祝道成肉身
+- *Of the Father's Love Begotten* — 基督永恆神性
+- *Lo, How a Rose E'er Blooming* — 耶西的根
 
 ---
 
@@ -729,12 +818,97 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 解經大師洞見 (Master Commentators' Insights)
+
+### John MacArthur 論山上寶訓
+
+**新君王的宣言**：MacArthur稱山上寶訓為「新君王的宣言」(*manifesto of the new Monarch*)。這是開創新時代的革命性教導，對當時猶太宗教人士的思想產生爆炸性衝擊，近兩千年來持續震撼讀者心靈。
+
+**律法的正確功用**：
+> 「這是律法在救恩方面的正確功用：它關閉了一切人間功德的途徑，使罪人完全倚靠神的恩典得救。」
+> — John MacArthur
+
+**顯明重生的必要**：山上寶訓的崇高標準遠超摩西律法。人不僅要行義，更要成為義。沒有其他經文更清楚顯明人離開神的絕望光景。
+
+**神學資格的確立**：MacArthur指出，山上寶訓確立了耶穌的「神學資格」(*theological qualification*)——祂不僅是先知，更是那位有權柄重新詮釋律法的彌賽亞。
+
+### G. Campbell Morgan 論山上寶訓
+
+**權柄的教導**：Morgan強調馬太福音是「教導性福音」(*didactic Gospel*)，山上寶訓是其核心。耶穌不是引用拉比的話，而是以自己的權柄說「只是我告訴你們」。
+
+**君王的倫理**：
+> 「在馬太福音中，我始終處於治理之下，被權柄所震撼。」
+> — G. Campbell Morgan
+
+**國度的內在性**：Morgan指出八福描述的不是外在行為規範，而是內在生命品質。天國子民的特徵是從心靈深處湧流出來的。
+
+---
+
 ## 生命應用 (Application)
 
 1. 八福是否描述了我內心的渴望？我是否「飢渴慕義」？
 2. 我是發光的燈，還是藏在斗底下？
 3. 我對罪的標準是否只停留在外在行為，還是也省察內心？
 4. 有沒有我不願意饒恕或仍然恨惡的人？
+
+---
+
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：Blest Are the Pure in Heart
+
+基於第六福「清心的人有福了」：
+
+> Blest are the pure in heart,
+> For they shall see our God;
+> The secret of the Lord is theirs,
+> Their soul is Christ's abode.
+
+**中文譯詞**：
+> 清心的人真有福，
+> 因要見我們的神；
+> 主的奧秘向他顯明，
+> 基督在他心內住。
+
+### 詩篇對照 (Psalm Connections)
+
+| 八福 | 詩篇呼應 | 經文 |
+|------|----------|------|
+| 虛心 | 詩 51:17 | 「神所要的祭就是憂傷的靈；神啊，憂傷痛悔的心，你必不輕看」 |
+| 哀慟 | 詩 126:5-6 | 「流淚撒種的，必歡呼收割」 |
+| 溫柔 | 詩 37:11 | 「謙卑人必承受地土，以豐盛的平安為樂」 |
+| 慕義 | 詩 42:1-2 | 「神啊，我的心渴慕你，如鹿渴慕溪水」 |
+| 憐憫 | 詩 18:25 | 「慈愛的人，你以慈愛待他」 |
+| 清心 | 詩 24:3-4 | 「誰能登耶和華的山？就是手潔心清的人」 |
+| 和睦 | 詩 34:14 | 「要尋求和睦，一心追趕」 |
+| 受逼迫 | 詩 69:7 | 「因我為你的緣故受了辱罵」 |
+
+### 禱告回應詩：詩篇 24:3-5
+
+> 誰能登耶和華的山？
+> 誰能站在他的聖所？
+> 就是手潔心清、不向虛妄、起誓不懷詭詐的人。
+> 他必蒙耶和華賜福，
+> 又蒙救他的神使他成義。
+
+### 八福聖詩選
+
+| 福 | 聖詩 |
+|----|------|
+| 虛心 | *Rock of Ages* — 靠主而非靠己 |
+| 哀慟 | *Abide with Me* — 求主安慰同在 |
+| 溫柔 | *Dear Lord and Father of Mankind* — 安靜謙卑 |
+| 慕義 | *More Love to Thee, O Christ* — 渴慕主愛 |
+| 憐憫 | *O Master, Let Me Walk with Thee* — 服事人群 |
+| 清心 | *Blest Are the Pure in Heart* — 清潔內心 |
+| 和睦 | *Let There Be Peace on Earth* — 和平使者 |
+| 受逼迫 | *Am I a Soldier of the Cross?* — 為主受苦 |
+
+### 其他相關聖詩
+
+- *Take My Life and Let It Be* — 完全奉獻
+- *O for a Heart to Praise My God* — 渴慕清心
+- *Breathe on Me, Breath of God* — 求聖靈潔淨
 
 ---
 
@@ -1374,6 +1548,36 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 解經大師洞見 (Master Commentators' Insights)
+
+### John MacArthur 論天國比喻
+
+**比喻的雙重功能**：MacArthur強調比喻既是啟示又是審判。對願意聽的人，比喻揭開天國的奧秘；對硬心的人，比喻隱藏真理，成為審判的器具。
+
+**天國的奧秘**：這些比喻揭示的「奧秘」(*mystērion*) 是：在彌賽亞最終榮耀國度來臨之前，天國要以隱藏、屬靈的形式存在於世。這解釋了為何許多猶太人拒絕耶穌——他們期待立即的政治國度。
+
+### G. Campbell Morgan 論天國比喻
+
+**比喻群組的編排**：Morgan指出第13章的七個比喻是刻意編排的群組，產生累積的神學效果：
+
+| 比喻組   | 對象           | 焦點           |
+|----------|----------------|----------------|
+| 前四個   | 群眾（海邊）   | 天國的外在表現 |
+| 後三個   | 門徒（屋內）   | 天國的內在價值 |
+
+**撒種比喻的核心**：
+> 「這比喻不是關於撒種者，而是關於土地。問題不在種子，種子是活的、有能力的。問題在於人心對神話語的回應。」
+> — G. Campbell Morgan
+
+**芥菜種與麵酵的對比**：
+
+- **芥菜種**：天國從微小開始，卻要成為萬國可棲的大樹
+- **麵酵**：天國悄然滲透，內在更新整個團體
+
+Morgan提醒：這兩個比喻描述的是天國的成長方式，不是判斷成長的品質。
+
+---
+
 ## 生命應用 (Application)
 
 1. 我是哪種土地？是否讓神的道在心中扎根結實？
@@ -1573,6 +1777,65 @@ publisher: 三書精讀出版系統
 1. 「你們說我是誰？」——這問題每個人都必須回答。
 2. 我是否願意背起十字架跟從主？
 3. 「賺得全世界，賠上生命」——我在追求什麼？
+
+---
+
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：The Church's One Foundation
+
+基於彼得認信與教會建造的主題：
+
+> The Church's one foundation
+> Is Jesus Christ her Lord;
+> She is His new creation
+> By water and the Word.
+> From heaven He came and sought her
+> To be His holy bride;
+> With His own blood He bought her,
+> And for her life He died.
+
+**中文譯詞**：
+> 教會唯一的根基，
+> 是主耶穌基督；
+> 她是主的新創造，
+> 藉水與道而生。
+> 主從天上來尋她，
+> 作祂聖潔新婦；
+> 用自己寶血買她，
+> 並為她捨生命。
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 18:2** | 磐石 | 「耶和華是我的磐石、我的山寨」 |
+| **詩篇 118:22** | 房角石 | 「匠人所棄的石頭已成了房角的頭塊石頭」 |
+| **詩篇 62:2** | 唯一拯救 | 「唯獨他是我的磐石、我的拯救」 |
+| **詩篇 27:4-5** | 主的殿 | 「在他的帳幕裏，他必把我藏在他會幕的隱密處，將我高舉在磐石上」 |
+
+### 禱告回應詩：詩篇 18:1-2
+
+> 耶和華，我的力量啊，我愛你！
+> 耶和華是我的磐石，我的山寨，我的救主，
+> 我的神，我的磐石，我所投靠的。
+> 他是我的盾牌，是拯救我的角，是我的高臺。
+
+### 捨己跟從聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 認信基督 | *My Jesus, I Love Thee* |
+| 捨己 | *When I Survey the Wondrous Cross* |
+| 背十架 | *Must Jesus Bear the Cross Alone?* |
+| 跟從 | *I Have Decided to Follow Jesus* |
+| 得生命 | *And Can It Be?* |
+
+### 其他相關聖詩
+
+- *On Christ the Solid Rock I Stand* — 建立在磐石上
+- *How Firm a Foundation* — 信心根基
+- *Jesus, I My Cross Have Taken* — 背起十架跟從
 
 ---
 
@@ -2265,6 +2528,76 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：'Tis Midnight, and on Olive's Brow
+
+描繪客西馬尼園夜景：
+
+> 'Tis midnight, and on Olive's brow
+> The star is dimmed that lately shone;
+> 'Tis midnight, in the garden now
+> The suffering Savior prays alone.
+>
+> 'Tis midnight, and from all removed,
+> The Savior wrestles lone with fears;
+> E'en that disciple whom He loved
+> Heeds not his Master's grief and tears.
+
+**中文意譯**：
+> 橄欖山頭正午夜，
+> 星光漸暗漫山野；
+> 午夜園中獨跪禱，
+> 受苦救主心悲切。
+>
+> 午夜獨自離眾人，
+> 救主掙扎滿驚懼；
+> 那蒙愛的門徒啊，
+> 不見主淚主憂傷。
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 41:9** | 朋友出賣 | 「連我知己的朋友，我所倚靠、吃過我飯的也用腳踢我」— 猶大 |
+| **詩篇 42:5-6** | 心憂傷 | 「我的心哪，你為何憂悶？」— 客西馬尼的掙扎 |
+| **詩篇 22:1** | 被離棄 | 預示十架呼喊 |
+| **詩篇 116:13** | 救恩之杯 | 「我要舉起救恩的杯」— 聖餐的設立 |
+| **詩篇 55:12-14** | 知己背叛 | 「原來不是仇敵辱罵我...乃是你——與我同遊的」|
+
+### 禱告回應詩：詩篇 42:5-6, 11
+
+> 我的心哪，你為何憂悶？
+> 為何在我裏面煩躁？
+> 應當仰望神，因他笑臉幫助我，
+> 我還要稱讚他。
+
+### 聖餐聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 設立聖餐 | *Here, O My Lord, I See Thee* |
+| 立約之血 | *There Is a Fountain Filled with Blood* |
+| 記念主 | *According to Thy Gracious Word* |
+| 合一 | *Bread of the World in Mercy Broken* |
+
+### 客西馬尼聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 夜禱 | *'Tis Midnight, and on Olive's Brow* |
+| 順服 | *My Jesus, as Thou Wilt* |
+| 儆醒 | *Go to Dark Gethsemane* |
+| 同行 | *What a Friend We Have in Jesus* |
+
+### 其他相關聖詩
+
+- *Ah, Holy Jesus, How Hast Thou Offended* — 記念主受苦
+- *Man of Sorrows, What a Name* — 憂患之子
+- *In the Hour of Trial* — 試煉中求主保守
+
+---
+
 *本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*
 ---
 title: 馬太福音研讀
@@ -2355,6 +2688,77 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：O Sacred Head, Now Wounded
+
+這首12世紀聖詩是受難週最崇高的默想：
+
+> O sacred Head, now wounded,
+> With grief and shame weighed down,
+> Now scornfully surrounded
+> With thorns, Thine only crown.
+> How pale Thou art with anguish,
+> With sore abuse and scorn!
+> How does that visage languish
+> Which once was bright as morn!
+
+**中文譯詞**（《聖首創痕滿》）：
+> 聖首滿創，遍愁苦羞辱；
+> 受人戲弄，荊冠作冕旒。
+> 本發光輝，何其明亮照，
+> 今竟蒼白，傷痕並憂愁！
+
+### 詩篇22：十架預言詩
+
+本章大量應驗詩篇22，這是十架的舊約預言：
+
+| 詩篇22 | 馬太27 | 應驗 |
+|--------|--------|------|
+| 22:1 | 27:46 | 「我的神，我的神，為什麼離棄我？」 |
+| 22:7-8 | 27:39-43 | 「凡看見我的都嗤笑我」 |
+| 22:16 | 27:35 | 「他們扎了我的手、我的腳」 |
+| 22:18 | 27:35 | 「他們分我的外衣，為我的裏衣拈鬮」 |
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 22** | 十架預言 | 全篇應驗於十字架 |
+| **詩篇 69:21** | 苦膽與醋 | 「他們拿苦膽給我當食物；我渴了，他們拿醋給我喝」 |
+| **詩篇 31:5** | 交託靈魂 | 「我將我的靈魂交在你手裏」 |
+| **詩篇 88** | 被離棄 | 至暗時刻的呼喊 |
+
+### 禱告回應詩：詩篇 22:1, 19-22
+
+> 我的神，我的神！為甚麼離棄我？
+> ...
+> 耶和華啊，求你不要遠離我！
+> 我的救主啊，求你快來幫助我！
+> ...
+> 我要將你的名傳與我的弟兄，
+> 在會中我要讚美你。
+
+### 受難聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 十架默想 | *When I Survey the Wondrous Cross* |
+| 聖首受創 | *O Sacred Head, Now Wounded* |
+| 寶血功效 | *There Is a Fountain Filled with Blood* |
+| 代罪羔羊 | *Ah, Holy Jesus, How Hast Thou Offended* |
+| 十架光輝 | *In the Cross of Christ I Glory* |
+| 奇妙愛 | *And Can It Be?* |
+| 古舊十架 | *The Old Rugged Cross* |
+
+### 受難週默想詩
+
+- *Were You There When They Crucified My Lord?* — 靈歌式默想
+- *Beneath the Cross of Jesus* — 十架蔭下
+- *Alas! And Did My Savior Bleed* — 為我流血？
+
+---
+
 *本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*
 ---
 title: 馬太福音研讀
@@ -2434,12 +2838,50 @@ publisher: 三書精讀出版系統
 
 ## 馬太福音總結
 
-| 開始 | 結束 |
-|------|------|
-| 以馬內利（神與我們同在）1:23 | 我與你們同在 28:20 |
-| 君王降生 | 君王差遣 |
-| 猶太人的王 | 萬民的主 |
-| 博士來朝拜 | 門徒去使萬民作門徒 |
+| 開始                             | 結束                       |
+|----------------------------------|----------------------------|
+| 以馬內利（神與我們同在）1:23     | 我與你們同在 28:20         |
+| 君王降生                         | 君王差遣                   |
+| 猶太人的王                       | 萬民的主                   |
+| 博士來朝拜                       | 門徒去使萬民作門徒         |
+
+---
+
+## 解經大師洞見 (Master Commentators' Insights)
+
+### John MacArthur 論大使命
+
+**權柄的宣告**：MacArthur強調28:18是理解大使命的關鍵。「天上地下所有的權柄」——這是復活基督的王權宣告，是差遣門徒的根基。門徒不是靠自己的能力去，而是靠基督的權柄去。
+
+**核心命令的澄清**：
+> 「大使命的核心不是『去』，而是『使萬民作門徒』。『去』只是分詞，描述我們在去的過程中要做什麼。無論我們去哪裏，都要使人作門徒。」
+> — John MacArthur
+
+**完整的門徒訓練**：MacArthur指出大使命包含三個要素：
+
+1. **傳福音**（使人作門徒）
+2. **施洗**（公開認信）
+3. **教導**（凡我所吩咐的）
+
+這不是「決志信主」就結束，而是一生的門徒訓練過程。
+
+### G. Campbell Morgan 論大使命
+
+**君王的高潮**：Morgan視28:18-20為整卷福音書的高潮——從馬槽中的嬰孩到宣告擁有一切權柄的君王。
+
+**從猶太到萬民**：
+> 「馬太福音開始時，彌賽亞被稱為『猶太人的王』；結束時，祂是『萬民』的主。這是福音普世性的宣告。」
+> — G. Campbell Morgan
+
+**教會的制度根基**：Morgan指出馬太福音獨有教會的制度性教導：
+
+- 洗禮的公式（28:19）
+- 教會紀律（18:15-20）
+- 聖餐設立（26:26-29）
+
+這使馬太福音成為教會體制與實踐的基礎文獻。
+
+**同在的應許**：「我天天與你們同在」呼應1:23的「以馬內利」。Morgan稱這是「馬太福音的首尾呼應」(*inclusio*)——神與我們同在的應許貫穿始終。
 
 ---
 
@@ -2459,6 +2901,71 @@ publisher: 三書精讀出版系統
 > 求你幫助我遵行大使命，在我所在之處作門徒、帶門徒。
 > 願天上地下的權柄歸於你，直到永遠。
 > 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：Christ the Lord Is Risen Today
+
+復活節經典讚美詩（查理·衛斯理，1739）：
+
+> Christ the Lord is risen today, Alleluia!
+> Sons of men and angels say, Alleluia!
+> Raise your joys and triumphs high, Alleluia!
+> Sing, ye heavens, and earth, reply, Alleluia!
+
+**中文譯詞**（《基督復活》）：
+> 基督今日已復活，哈利路亞！
+> 世人天使同歡賀，哈利路亞！
+> 高唱凱歌慶勝利，哈利路亞！
+> 天上地下齊響應，哈利路亞！
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 118:22-24** | 復活石 | 「匠人所棄的石頭已成了房角的頭塊石頭...這是耶和華所定的日子」 |
+| **詩篇 16:10-11** | 不見朽壞 | 「因為你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞」 |
+| **詩篇 2:7-8** | 萬國為業 | 「你求我，我就將列國賜你為基業」— 大使命的根基 |
+| **詩篇 110:1** | 權柄寶座 | 「耶和華對我主說：你坐在我的右邊」 |
+| **詩篇 117** | 萬民讚美 | 「萬國啊，你們都當讚美耶和華！萬民哪，你們都當頌讚他！」|
+
+### 禱告回應詩：詩篇 118:22-24
+
+> 匠人所棄的石頭已成了房角的頭塊石頭。
+> 這是耶和華所做的，在我們眼中看為稀奇。
+> 這是耶和華所定的日子，
+> 我們在其中要高興歡喜！
+
+### 復活聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 復活讚美 | *Christ the Lord Is Risen Today* |
+| 勝過死亡 | *Thine Be the Glory* |
+| 活著主 | *He Lives* |
+| 復活清晨 | *Low in the Grave He Lay* |
+| 復活同在 | *Jesus Lives, and So Shall I* |
+
+### 大使命聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 差遣 | *So Send I You* |
+| 福音廣傳 | *We've a Story to Tell to the Nations* |
+| 宣教心志 | *O Zion, Haste* |
+| 萬民歸主 | *All Hail the Power of Jesus' Name* |
+| 主權至大 | *Crown Him with Many Crowns* |
+
+### 閉幕聖詩：Go Forth for God
+
+適合作為馬太福音研讀的結束曲：
+
+> Go forth for God, go to the world in peace;
+> Be of good courage, armed with heavenly grace,
+> In God's good Spirit daily to increase,
+> Till in His kingdom we behold His face.
 
 ---
 

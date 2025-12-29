@@ -176,4 +176,51 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：O Come, O Come, Emmanuel
+
+這首12世紀拉丁聖詩完美呼應本章「以馬內利」的主題：
+
+> O come, O come, Emmanuel,
+> And ransom captive Israel,
+> That mourns in lonely exile here,
+> Until the Son of God appear.
+>
+> *Rejoice! Rejoice! Emmanuel*
+> *Shall come to thee, O Israel.*
+
+**中文譯詞**：
+> 以馬內利，懇求降臨，
+> 救贖釋放以色列民；
+> 淪落異邦，寂寞傷心，
+> 引頸渴望神子降臨。
+>
+> *歡欣！歡欣！以色列民，*
+> *以馬內利必定降臨。*
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 2** | 受膏者 | 「你是我的兒子」— 神兒子的身份 |
+| **詩篇 72** | 大衛子孫的國度 | 彌賽亞君王的應許 |
+| **詩篇 89:3-4** | 大衛之約 | 「我與我所揀選的人立了約，向我的僕人大衛起了誓」 |
+| **詩篇 132:11** | 大衛後裔 | 「耶和華向大衛憑真實起了誓」 |
+
+### 禱告回應詩：詩篇 89:1-2
+
+> 我要歌唱耶和華的慈愛，直到永遠；
+> 我要用口將你的信實傳與萬代。
+> 因我曾說：你的慈愛必建立到永遠；
+> 你的信實必堅立在天上。
+
+### 其他相關聖詩
+
+- *Hark! The Herald Angels Sing* — 慶祝道成肉身
+- *Of the Father's Love Begotten* — 基督永恆神性
+- *Lo, How a Rose E'er Blooming* — 耶西的根
+
+---
+
 *本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*

@@ -1,0 +1,528 @@
+% PubHub Gospel of Luke Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with scholarly insights
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Luke's Gospel Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors (Warm tones for Luke's compassion theme)
+\definecolor{ChapterBlue}{RGB}{45,75,105}
+\definecolor{ScriptureGold}{RGB}{175,135,45}
+\definecolor{CommentaryBrown}{RGB}{95,70,55}
+\definecolor{LukeRed}{RGB}{165,55,45}
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}
+\definecolor{LandBeige}{RGB}{245,235,220}
+\definecolor{MountainBrown}{RGB}{180,160,140}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}
+\definecolor{GreekBg}{RGB}{245,248,252}
+\definecolor{ApplicationBg}{RGB}{248,252,248}
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 尋找失喪的人}\\[0.2cm]
+{\large\itshape\color{LightGray} Seeking the Lost}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 路加福音研讀}\\[0.15cm]
+{\normalsize A Study of the Gospel of Luke}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+人子來，是要尋找、拯救失喪的人。\\[0.15em]
+\footnotesize For the Son of Man came to seek\\
+and to save the lost. — Luke 19:10
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Luke's Gospel Structure diagram
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {Gospel Structure 福音結構};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (-3,1.5) {Preparation};
+  \node[font=\tiny,color=LightGray] at (-3,1.1) {1:1-4:13};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (-1,1.5) {Galilee};
+  \node[font=\tiny,color=LightGray] at (-1,1.1) {4:14-9:50};
+
+  \node[draw=LukeRed,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (1.2,1.5) {Journey};
+  \node[font=\tiny,color=LightGray] at (1.2,1.1) {9:51-19:27};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (3.2,1.5) {Jerusalem};
+  \node[font=\tiny,color=LightGray] at (3.2,1.1) {19:28-24:53};
+
+  \draw[->,color=ScriptureGold,thick] (-2.2,1.5) -- (-1.8,1.5);
+  \draw[->,color=ScriptureGold,thick] (-0.2,1.5) -- (0.3,1.5);
+  \draw[->,color=ScriptureGold,thick] (2.1,1.5) -- (2.4,1.5);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Four Canticles
+\begin{tikzpicture}[scale=0.55]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2) {四首頌歌 Four Canticles};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (-3,0.8) {Magnificat\\馬利亞頌\\1:46-55};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (-1,0.8) {Benedictus\\撒迦利亞頌\\1:68-79};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (1,0.8) {Gloria\\天使頌\\2:14};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (3,0.8) {Nunc Dimittis\\西面頌\\2:29-32};
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Key themes
+{\small\color{ChapterBlue}\bfseries 路加福音主題 Luke's Key Themes}\\[0.2cm]
+\begin{tikzpicture}[scale=0.5]
+  \node[font=\tiny,color=TextGray] at (-3,0) {普世救恩 Universal Salvation};
+  \node[font=\tiny,color=TextGray] at (0,0) {關懷邊緣人 Compassion for Outcasts};
+  \node[font=\tiny,color=TextGray] at (3,0) {聖靈工作 Holy Spirit};
+  \node[font=\tiny,color=TextGray] at (-1.5,-0.5) {禱告生活 Prayer};
+  \node[font=\tiny,color=TextGray] at (1.5,-0.5) {喜樂主題 Joy};
+\end{tikzpicture}
+
+\vfill
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Map page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 路加福音重要地點}\\[0.1cm]
+{\normalsize Key Locations in the Gospel of Luke}
+
+\vspace{0.4cm}
+
+\begin{tikzpicture}[scale=0.9]
+  % Background
+  \fill[LandBeige] (0,0) rectangle (10,11);
+
+  % Mediterranean Sea
+  \fill[WaterBlue] (-0.5,0) rectangle (1.5,11);
+  \node[font=\small,color=ChapterBlue,rotate=90] at (0.5,5.5) {Mediterranean Sea};
+
+  % Sea of Galilee
+  \fill[WaterBlue] (6,8) ellipse (0.9 and 1.2);
+  \node[font=\tiny,color=white] at (6,8) {Galilee};
+
+  % Jordan River
+  \draw[WaterBlue,line width=2pt] (6,6.8) .. controls (5.8,5.5) and (6.2,4.5) .. (6,3.5) .. controls (5.8,2.5) .. (6,1.5);
+
+  % Dead Sea
+  \fill[WaterBlue!80!black] (6,0.8) ellipse (0.6 and 0.7);
+
+  % Locations unique to Luke
+  \fill[LukeRed] (2.5,10) circle (0.12);
+  \node[font=\small\bfseries,right,color=LukeRed] at (2.7,10) {Nazareth 拿撒勒};
+  \node[font=\tiny,right,color=TextGray] at (2.7,9.6) {Annunciation (1:26)};
+
+  \fill[LukeRed] (4,1.5) circle (0.12);
+  \node[font=\small\bfseries,left,color=LukeRed] at (3.8,1.5) {Bethlehem 伯利恆};
+  \node[font=\tiny,left,color=TextGray] at (3.8,1.1) {Nativity (2:1-20)};
+
+  \fill[ScriptureGold] (5,7) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (4.8,7) {Nain 拿因 (7:11)};
+
+  \fill[ScriptureGold] (7,5) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (7.2,5) {Jericho 耶利哥};
+  \node[font=\tiny,right,color=TextGray] at (7.2,4.6) {Zacchaeus (19:1)};
+
+  \fill[ScriptureGold] (5.5,5.5) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (5.3,5.5) {Samaria 撒瑪利亞};
+
+  % Jerusalem
+  \fill[red!70!black] (5,3) circle (0.15);
+  \draw[red!70!black,line width=1pt] (5,3) circle (0.25);
+  \node[font=\normalsize\bfseries,left,color=red!70!black] at (4.7,3) {Jerusalem};
+  \node[font=\small,left,color=red!70!black] at (4.7,2.6) {耶路撒冷};
+
+  \fill[ScriptureGold] (8,3.5) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (8.2,3.5) {Emmaus 以馬忤斯};
+  \node[font=\tiny,right,color=TextGray] at (8.2,3.1) {(24:13)};
+
+  % Journey to Jerusalem arrow
+  \draw[->,LukeRed,line width=2pt,dashed] (6,7.5) .. controls (5.5,6) and (5.5,4.5) .. (5,3.5);
+  \node[font=\tiny\bfseries,color=LukeRed,rotate=-70] at (5.3,5.5) {Journey 9:51-19:27};
+
+  % Compass
+  \draw[->,very thick,color=ChapterBlue] (9,9.5) -- (9,10.3);
+  \node[font=\small\bfseries,color=ChapterBlue] at (9,10.5) {N};
+
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\footnotesize\color{LightGray} 「人子來，是要尋找、拯救失喪的人。」— 路加福音 19:10}
+\end{center}
+\cleardoublepage
+
+% Commentary Sources page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+{\Large\bfseries\color{ChapterBlue} 研讀資源 Study Resources}
+
+\vspace{0.5cm}
+
+\fcolorbox{ChapterBlue}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\vspace{0.3cm}
+{\normalsize\bfseries\color{ChapterBlue} John MacArthur 約翰·麥克乾瑟}\\[0.3em]
+\small\color{TextGray}
+路加是唯一的外邦人作者，他強調耶穌是全人類的救主。耶穌對「被遺棄者」——外邦人、撒瑪利亞人、婦女、兒童、稅吏、罪人——展現特別的憐憫。路加特別記載耶穌的禱告生活和聖靈的工作。從9:51開始的十章敘述耶穌往耶路撒冷的旅程，強調祂「堅定面向」十字架。\\[0.5em]
+{\footnotesize\itshape Luke, the only Gentile author of Scripture, emphasizes Jesus as the universal Savior. He shows Jesus' compassion for outcasts—Gentiles, Samaritans, women, children, tax collectors, sinners. The journey to Jerusalem (9:51-19:27) stresses Jesus' relentless progression toward the cross.}
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+\fcolorbox{CommentaryBrown}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\vspace{0.3cm}
+{\normalsize\bfseries\color{CommentaryBrown} G. Campbell Morgan 乾伯·摩根}\\[0.3em]
+\small\color{TextGray}
+路加福音展現「完美的人子」——耶穌是完全的人，經歷人類所有的軟弱卻沒有犯罪。四首頌歌（馬利亞頌、撒迦利亞頌、天使頌、西面頌）構成獨特的開場，充滿舊約詩篇的迴響。路加特別關注禱告：耶穌在每個重要時刻都禱告——受洗、揀選門徒、登山變像、十字架上。\\[0.5em]
+{\footnotesize\itshape Luke presents the perfect Son of Man—fully human yet sinless. The four canticles (Magnificat, Benedictus, Gloria, Nunc Dimittis) echo the Psalms. Luke emphasizes prayer: Jesus prayed at His baptism, before choosing disciples, at the Transfiguration, and on the cross.}
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+{\small\color{TextGray}
+\textbf{路加福音獨有材料 Unique to Luke:}\\
+好撒瑪利亞人 (10:30-37) · 浪子回頭 (15:11-32) · 財主與拉撒路 (16:19-31)\\
+十個痲瘋病人 (17:11-19) · 撒該 (19:1-10) · 以馬忤斯路上 (24:13-35)\\
+馬利亞與馬大 (10:38-42) · 法利賽人與稅吏 (18:10-14)
+}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{路加福音研讀 / Gospel of Luke Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Gospel According to Luke\\[0.8em]
+
+路加福音與使徒行傳是同一作者的兩卷連續作品（路加文集）。\\
+Luke-Acts forms a two-volume work by the same author.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

@@ -42,7 +42,10 @@
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/13-washing-feet.md )",
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/14-way-truth-life.md )",
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/19-crucifixion.md )",
-      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/20-resurrection.md )"
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/gospel-of-john/20-resurrection.md )",
+      "Bash(fc-list:*)",
+      "Bash(pandoc:*)",
+      "Bash(du:*)"
     ]
   }
 }

@@ -11,9 +11,20 @@ publisher: 三書精讀出版系統
 ## 書卷簡介
 
 **作者**：使徒馬太/利未 (The Apostle Matthew/Levi)
-**寫作日期**：約主後 50-70 年
+**寫作日期**：約主後 50-70 年（MacArthur認為可能早至主後50年，聖殿被毀前）
 **寫作地點**：可能在巴勒斯坦或敘利亞安提阿
 **主題**：耶穌是以色列的彌賽亞君王
+**讀者**：主要為猶太基督徒（從猶太教歸信者）
+
+### MacArthur 論馬太福音
+
+> 「馬太的中心論點是證明耶穌是猶太民族期待已久的彌賽亞。他引用舊約預言超過六十次，以顯明基督成全了彌賽亞的應許。」
+> — John MacArthur, *Bible Introduction to Matthew*
+
+### G. Campbell Morgan 論馬太福音
+
+> 「從始至終，這是一卷君王的福音。從祂降世的奧秘記載，經過祂倫理教導的權柄、祂方法的憐憫、祂死亡的威嚴、祂復活的榮耀，到那響亮的宣告『天上地下所有的權柄』和號角般的命令『使萬民作門徒』——我們始終處於君王的同在中。」
+> — G. Campbell Morgan, *The Gospel According to Matthew*
 
 ---
 
@@ -178,18 +189,49 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 解經大師洞見 (Master Commentators' Insights)
+
+### John MacArthur 的五重資格論證
+
+MacArthur指出馬太以五方面確立耶穌的彌賽亞身份：
+
+| 資格 | 內容 | 經文 |
+|------|------|------|
+| **法律資格** | 透過家譜建立 | 1:1-17 |
+| **預言資格** | 透過降生與童年應驗預言 | 1:18-2:23 |
+| **神性資格** | 透過天父在受洗時的見證 | 3:13-17 |
+| **屬靈資格** | 透過完全抵擋撒但試探 | 4:1-11 |
+| **神學資格** | 透過山上寶訓的教導 | 5-7 |
+
+### G. Campbell Morgan 的結構洞見
+
+Morgan強調馬太福音「不是按時間順序，而是按主題系統編排」：
+
+- **神蹟群組** (8-9章)：將神蹟聚集以產生神學效果
+- **比喻群組** (13章)：天國比喻系統排列
+- **第一個神蹟**（潔淨痲瘋）：象徵罪的潔除
+- **最後一個神蹟**（無花果樹枯乾）：象徵審判
+
+### 「天國」獨特用語 (Kingdom of Heaven)
+
+馬太獨有「天國」(*basileia tōn ouranōn*) 一詞，出現32次。其他福音書用「神國」。
+
+**MacArthur解釋**：馬太顧及猶太讀者對神名的敬畏，以「天」代替「神」，但意義相同。
+
+---
+
 ## 研讀資源 (Study Resources)
 
 ### 主要參考
 
 1. **黃長老查經班** — 週四查經教導
-2. **John MacArthur** — Grace to You (gty.org)
-3. **D.A. Carson** — *Matthew* (Expositor's Bible Commentary)
+2. **John MacArthur** — Grace to You (gty.org), *MacArthur New Testament Commentary*
+3. **G. Campbell Morgan** — *The Gospel According to Matthew* (1929)
 
 ### 經典注釋
 
 - **約翰·加爾文** — *Commentary on a Harmony of the Evangelists*
-- **馬太·乙利** — *Commentary on the Gospel of Matthew*
+- **D.A. Carson** — *Matthew* (Expositor's Bible Commentary)
 - **威廉·乙萊理** — *Matthew* (Believer's Bible Commentary)
 
 ### 聖詩資源

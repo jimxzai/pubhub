@@ -448,14 +448,462 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 名家注疏精華 (Commentary Insights)
+
+### 約翰·麥克乾瑟 (John MacArthur)
+
+**論因信稱義 (On Justification by Faith)**:
+
+> 「稱義是法律術語，描述神對信徒的宣告，而非對信徒的改變。稱義不僅是赦免——單是赦免仍使罪人在神面前沒有功德。因此當神稱人為義時，祂將神聖的義歸算給罪人。」
+> — *MacArthur New Testament Commentary: Romans*
+
+> 「因為基督徒單因信稱義，他們在神面前的地位與個人功德完全無關。神接納相信的人為義，不是因為祂在他們身上看見什麼好處——甚至不是因為祂在他們生命中成聖的工作——而單單是根據基督的義歸算在他們賬上。」
+> — [Justification by Faith](https://www.gty.org/library/articles/A194/justification-by-faith)
+
+**論教會為基督的身體 (On the Church as Body of Christ)**:
+
+> 「以弗所書被稱為『信徒的銀行』和『聖經的寶庫』。這封美麗的書信告訴基督徒他們在耶穌基督和祂教會裏的豐富、產業和豐盛。」
+> — *Bible Introduction: Ephesians*
+
+> 「歌羅西書聚焦於耶穌基督，呈現祂是任何問題的終極答案。神本性一切的豐盛都有形有體地居住在基督裏面——祂是教會的頭，祂的生命流經所有肢體，提供身體的合一。」
+> — *Bible Introduction: Colossians*
+
+**論腓立比書的喜樂 (On Joy in Philippians)**:
+
+> 「保羅在腓立比書中十七次談到喜樂。喜樂是聖靈掌管生命的果子。按照加拉太書5章，我們被命令在任何時候、任何事上、任何環境中都要喜樂。」
+> — [The Epistle of Joy](https://www.gty.org/library/sermons-library/50-1/the-epistle-of-joy)
+
+> 「失去喜樂只有一個理由：罪。當你陷入罪中，你需要與詩人一同呼求：『求你使我重得救恩之樂。』但除了罪以外，沒有任何事物應該奪去我們的喜樂，環境當然不能。」
+
+**論帖撒羅尼迦書與主再來 (On Thessalonians and Second Coming)**:
+
+> 「在帖撒羅尼迦前後書中，使徒保羅對基督再來的論述比任何其他書信都更廣泛。理解這個驚人的事件是發展和維持基督徒盼望、紀律和傳福音的關鍵。」
+> — [The Rapture and the Day of the Lord](https://www.gty.org/library/topical-series-library/222/the-rapture-and-the-day-of-the-lord)
+
+**論教牧書信與教會領袖 (On Pastoral Epistles and Church Leadership)**:
+
+> 「長老或牧師的基本要求之一是必須『善於教導』（提前3:2；提後2:2,24；多1:9）。這表達特殊的技巧和才能——教導的獨特恩賜。任何缺乏這能力的人都不合格擔任牧師職分。」
+> — *Bible Introduction: 1 Timothy*
+
+**論腓利門書與饒恕 (On Philemon and Forgiveness)**:
+
+> 「保羅扮演的角色正是耶穌基督在腓利門和阿尼西母關係中所扮演的。腓利門像神一樣——被冒犯、被虧負。阿尼西母像罪人一樣——逃離神、虧負神、浪費生命。若罪人要與神和好，必須有人付出代價。這就是基督。」
+> — [The Beauty and Blessing of Forgiveness](https://www.gty.org/library/sermons-library/82-3/the-beauty-and-blessing-of-forgiveness-part-1)
+
+---
+
+### 坎伯·摩根 (G. Campbell Morgan)
+
+**論羅馬書 (On Romans)**:
+
+> 「羅馬書是『你眼睛所見過最悲觀的文學篇章』，同時也是『你耳朵所聽過最樂觀的詩歌』。」
+> — *The Analyzed Bible: Romans*
+
+**論加拉太書與羅馬書的關係 (On Galatians and Romans)**:
+
+> 「保羅在寫完加拉太書後立即寫羅馬書，他的心充滿稱義的教義。他可能希望進一步闡述這主題，特別強調神的一面——正如他在加拉太書中強調人的一面。在加拉太書中，人因信稱義；在羅馬書中，神將自己的義賜給信者使他稱義。」
+> — *Morgan's Exposition on the Whole Bible*
+
+**論保羅書信分類 (On Classification of Paul's Epistles)**:
+
+摩根將保羅書信分為四組：
+1. **末世論組** — 帖撒羅尼迦前後書（論主再來）
+2. **反猶太主義組** — 哥林多前後書、加拉太書、羅馬書（第三次旅程期間寫成）
+3. **教會論組** — 以弗所書、歌羅西書、腓立比書、腓利門書（囚禁書信）
+4. **教牧組** — 提摩太前後書、提多書
+
+**論以弗所書 (On Ephesians)**:
+
+> 「歌羅西書討論基督為教會之首，以弗所書討論教會為基督的身體。在歌羅西書中基督是『一切的一切』，在以弗所書中升天的基督被看見在祂的教會中。」
+> — [Ephesians Introduction](https://www.truthaccordingtoscripture.com/commentaries/gcm/ephesians.php)
+
+> 「這封書信的主題是教會作為完成神旨意的媒介。教會的呼召被描述為『祂在聖徒中得榮耀的豐富產業』。神在祂子民中有產業，教會是彰顯祂恩典的媒介。」
+
+> 「使徒宣稱在教會奧秘中的管家職分，並宣告這驚人的事實：『為要藉著教會使天上執政的、掌權的，現在得知神百般的智慧。』」
+
+**論教會的建造 (On the Building of the Church)**:
+
+> 「建築的材料是在完全敵對神旨意的事物中發現的。從這材料中，滿有憐憫的神找到祂建築的材料。過程是：在基督耶穌裏那些被找到的人被賜生命、被復活、與祂一同坐在天上。」
+
+---
+
+## 相關詩篇與聖詩 (Related Psalms & Hymns)
+
+### 詩篇對照 (Psalms Connection)
+
+保羅書信中多處引用或呼應詩篇，以下是主要對照：
+
+| 保羅書信 | 詩篇 | 主題 |
+|----------|------|------|
+| 羅 3:10-18 | 詩 14, 53 | 普世有罪 |
+| 羅 4:7-8 | 詩 32:1-2 | 罪得赦免的福 |
+| 羅 8:36 | 詩 44:22 | 為主受苦 |
+| 羅 10:18 | 詩 19:4 | 天述說神的榮耀 |
+| 羅 11:9-10 | 詩 69:22-23 | 以色列的絆腳石 |
+| 羅 15:3 | 詩 69:9 | 基督承擔辱罵 |
+| 羅 15:9 | 詩 18:49 | 外邦讚美神 |
+| 羅 15:11 | 詩 117:1 | 萬民讚美主 |
+| 林前 3:20 | 詩 94:11 | 神知道人的意念 |
+| 林後 4:13 | 詩 116:10 | 我信，所以我說話 |
+| 弗 4:8 | 詩 68:18 | 升上高天，擄掠仇敵 |
+
+### 詩篇32篇：蒙赦免者的福 (Psalm 32)
+
+與羅馬書4章因信稱義相呼應：
+
+> **得赦免其過、遮蓋其罪的，這人是有福的！**
+> **凡心裏沒有詭詐、耶和華不算為有罪的，這人是有福的！**
+> — 詩篇 32:1-2
+
+> Blessed is the one whose transgression is forgiven, whose sin is covered.
+> Blessed is the man against whom the LORD counts no iniquity.
+> — Psalm 32:1-2 (ESV)
+
+### 詩篇51篇：認罪與赦免 (Psalm 51)
+
+與羅馬書3章「世人都犯了罪」相呼應：
+
+> **神啊，求你按你的慈愛憐恤我！按你豐盛的慈悲塗抹我的過犯！**
+> — 詩篇 51:1
+
+### 詩篇103篇：頌讚神的恩典 (Psalm 103)
+
+與以弗所書1章「在基督裏的屬靈福氣」相呼應：
+
+> **我的心哪，你要稱頌耶和華！凡在我裏面的，也要稱頌他的聖名！**
+> **我的心哪，你要稱頌耶和華！不可忘記他的一切恩惠！**
+> — 詩篇 103:1-2
+
+---
+
+### 經典聖詩對照 (Classic Hymns)
+
+以下聖詩直接取材或呼應保羅書信主題：
+
+#### 因信稱義 (Justification by Faith)
+
+| 聖詩 | 作者 | 相關經文 |
+|------|------|----------|
+| **萬古磐石為我開** (Rock of Ages) | Augustus Toplady (1776) | 羅 3:21-26 |
+| **奇異恩典** (Amazing Grace) | John Newton (1779) | 弗 2:8-9 |
+| **我靈鎮靜** (Be Still, My Soul) | Katharina von Schlegel (1752) | 羅 8:28 |
+| **信靠順服** (Trust and Obey) | John H. Sammis (1887) | 羅 1:5 |
+
+#### 萬古磐石 (Rock of Ages)
+
+> **萬古磐石為我開，讓我藏身在你懷；**
+> **願你所流血與水，洗我罪惡並污穢；**
+> **非我雙手所能作，能符合你律法要求；**
+> **縱我熱心不稍退，縱我眼淚永遠流，**
+> **仍不足以贖罪愆，唯有靠你能救贖。**
+
+> Rock of Ages, cleft for me, let me hide myself in Thee;
+> Let the water and the blood, from Thy wounded side which flowed,
+> Be of sin the double cure, save from wrath and make me pure.
+
+**經文根據**：羅 3:24-25「如今卻蒙神的恩典，因基督耶穌的救贖，就白白地稱義。」
+
+---
+
+#### 喜樂與平安 (Joy and Peace)
+
+| 聖詩 | 作者 | 相關經文 |
+|------|------|----------|
+| **有福的確據** (Blessed Assurance) | Fanny Crosby (1873) | 羅 8:16-17 |
+| **我心靈得安寧** (It Is Well with My Soul) | Horatio Spafford (1873) | 腓 4:7 |
+| **喜樂，喜樂** (Joyful, Joyful) | Henry van Dyke (1907) | 腓 4:4 |
+
+#### 我心靈得安寧 (It Is Well with My Soul)
+
+> **有時享平安如江河平又穩，**
+> **有時悲傷來似浪滾；**
+> **不論何環境，主已教導我說：**
+> **我心靈，得安寧，得安寧。**
+
+> When peace like a river attendeth my way,
+> When sorrows like sea billows roll;
+> Whatever my lot, Thou hast taught me to say,
+> It is well, it is well with my soul.
+
+**經文根據**：腓 4:7「神所賜、出人意外的平安必在基督耶穌裏保守你們的心懷意念。」
+
+---
+
+#### 基督頌歌 (Christological Hymns)
+
+| 聖詩 | 作者 | 相關經文 |
+|------|------|----------|
+| **萬王之王** (Crown Him with Many Crowns) | M. Bridges & G. Thring (1851) | 腓 2:9-11 |
+| **榮耀歸於真神** (To God Be the Glory) | Fanny Crosby (1875) | 羅 11:36 |
+| **全能真神** (Holy, Holy, Holy) | Reginald Heber (1826) | 西 1:15-20 |
+
+#### 萬王之王 (Crown Him with Many Crowns)
+
+> **冠祂萬王冠冕，寶座上聖羔羊；**
+> **萬口齊唱天上音樂，響徹諸天穹蒼；**
+> **醒來，我靈，向主歌唱，祂為你死，你為祂活；**
+> **稱頌祂聖名永無窮，直到萬世無疆。**
+
+> Crown Him with many crowns, the Lamb upon His throne;
+> Hark! How the heavenly anthem drowns all music but its own!
+> Awake, my soul, and sing of Him who died for thee,
+> And hail Him as thy matchless King through all eternity.
+
+**經文根據**：腓 2:9-11「神將祂升為至高，又賜給祂那超乎萬名之上的名，叫一切在天上的、地上的，和地底下的，因耶穌的名無不屈膝，無不口稱『耶穌基督為主』，使榮耀歸與父神。」
+
+---
+
+#### 教會合一 (Church Unity)
+
+| 聖詩 | 作者 | 相關經文 |
+|------|------|----------|
+| **教會唯一根基** (The Church's One Foundation) | Samuel J. Stone (1866) | 弗 2:19-22 |
+| **榮耀教會** (Glorious Things of Thee Are Spoken) | John Newton (1779) | 弗 5:25-27 |
+| **我們成為一家人** (We Are One in the Spirit) | Peter Scholtes (1966) | 弗 4:3-6 |
+
+#### 教會唯一根基 (The Church's One Foundation)
+
+> **教會唯一根基，是主耶穌基督；**
+> **祂藉聖道創立，用水和道潔淨；**
+> **祂從天上降臨，為要尋找新婦；**
+> **捨身流血買贖，使她成為聖潔。**
+
+> The Church's one foundation is Jesus Christ her Lord;
+> She is His new creation by water and the Word;
+> From heaven He came and sought her to be His holy bride;
+> With His own blood He bought her, and for her life He died.
+
+**經文根據**：弗 2:20「建造在使徒和先知的根基上，有基督耶穌自己為房角石。」
+
+---
+
+#### 主再來 (Second Coming)
+
+| 聖詩 | 作者 | 相關經文 |
+|------|------|----------|
+| **主必快來** (Christ Returneth) | H.L. Turner (1878) | 帖前 4:16-17 |
+| **儆醒等候主來** (Lo, He Comes) | Charles Wesley (1758) | 帖前 5:2 |
+| **我知誰掌管明天** (I Know Who Holds Tomorrow) | Ira Stanphill (1950) | 帖前 5:9-10 |
+
+---
+
+### 保羅書信中的早期教會詩歌 (Early Church Hymns in Paul's Letters)
+
+保羅書信中引用了數首早期教會的讚美詩：
+
+| 經文 | 內容 | 特色 |
+|------|------|------|
+| **腓 2:6-11** | 基督頌 (Carmen Christi) | 論基督降卑與升高 |
+| **西 1:15-20** | 基督頌 | 論基督超越萬有 |
+| **提前 3:16** | 敬虔的奧秘 | 六句對偶詩歌 |
+| **提後 2:11-13** | 可信的話 | 同死同活同作王 |
+| **弗 5:14** | 覺醒詩歌 | 睡了的人當醒過來 |
+
+#### 腓立比書基督頌 (Philippians 2:6-11)
+
+這是早期教會最著名的讚美詩之一：
+
+> **祂本有神的形像，不以自己與神同等為強奪的；**
+> **反倒虛己，取了奴僕的形像，成為人的樣式；**
+> **既有人的樣子，就自己卑微，存心順服，以至於死，且死在十字架上。**
+> **所以，神將祂升為至高，又賜給祂那超乎萬名之上的名，**
+> **叫一切在天上的、地上的，和地底下的，因耶穌的名無不屈膝，**
+> **無不口稱「耶穌基督為主」，使榮耀歸與父神。**
+
+---
+
+## 世界歷史對照 (World History Context)
+
+保羅書信寫於主後49-67年間，這一時期世界各大文明正經歷重要發展：
+
+### 同時代世界大事年表
+
+```
+主後 1 世紀世界歷史對照
+
+年代        羅馬帝國              中國（東漢）           其他文明
+─────────────────────────────────────────────────────────────────────
+主後 5     保羅生於大數          漢平帝在位            印度：貴霜王朝興起
+           (Tarsus)              王莽專權
+
+主後 9     —                     王莽建新朝            日耳曼：條頓堡森林戰役
+                                 終結西漢              羅馬三軍團覆滅
+
+主後 25    —                     光武帝劉秀建東漢      帕提亞帝國與羅馬對峙
+                                 定都洛陽
+
+主後 33    耶穌被釘十字架        光武中興              —
+           教會誕生
+
+主後 35    保羅歸主              東漢初興              —
+           (大馬士革)
+
+主後 46-48 第一次宣教旅程        —                     —
+
+主後 49    加拉太書              —                     —
+           耶路撒冷會議
+
+主後 50-51 帖撒羅尼迦前後書      漢明帝（58-75）       —
+           第二次旅程            將即位
+
+主後 54    尼祿即位              —                     —
+           (Emperor Nero)
+
+主後 55-57 林前、林後、羅馬書    —                     —
+           第三次旅程
+
+主後 58    班超出生              —                     —
+           (將開闢絲路)
+
+主後 60-62 囚禁書信              明帝永平年間          佛教傳入中國
+           弗、腓、西、門        白馬寺建立（67）      (白馬馱經)
+
+主後 64    羅馬大火              —                     —
+           尼祿迫害基督徒
+
+主後 65    彼得殉道（傳統）      班超出使西域          絲路貿易發展
+
+主後 67    保羅殉道              —                     —
+           提摩太後書
+
+主後 70    耶路撒冷被毀          —                     —
+           聖殿焚毀
+```
+
+### 羅馬帝國皇帝與保羅書信
+
+| 皇帝 | 在位年份 | 相關書信 | 事件 |
+|------|----------|----------|------|
+| 革老丟 (Claudius) | 41-54 | 加拉太書 | 驅逐猶太人出羅馬(49) |
+| 尼祿 (Nero) | 54-68 | 大部分書信 | 羅馬大火(64)、迫害基督徒 |
+
+### 東漢與保羅時代
+
+保羅寫信時，中國正處於東漢光武中興時期：
+
+| 中國事件 | 年代 | 對應保羅書信 |
+|----------|------|--------------|
+| 光武帝建立東漢 | 25 | 保羅尚未歸主 |
+| 東漢定都洛陽 | 25 | — |
+| 班超出生 | 58 | 保羅被捕前 |
+| 白馬寺建立 | 67 | 提摩太後書時期 |
+| 班超出使西域 | 73 | 保羅殉道後 |
+
+**歷史意義**：當保羅在地中海世界傳揚福音時，中國東漢正經歷「光武中興」的盛世。班超後來開闢的絲綢之路，將成為福音傳入中國的通道。
+
+---
+
+## 主要人物速寫 (Character Sketches)
+
+### 使徒保羅 (The Apostle Paul)
+
+```
+保羅生平概覽
+
+    大數 ─────→ 耶路撒冷 ─────→ 大馬士革
+   (出生)      (受教於迦瑪列)    (歸主)
+     │              │               │
+     ▼              ▼               ▼
+  羅馬公民       法利賽人         基督使徒
+  製帳棚人       迫害教會         外邦使徒
+  雙語背景       熱心律法         恩典神學
+```
+
+| 項目 | 內容 |
+|------|------|
+| **原名** | 掃羅 (Saul) |
+| **羅馬名** | 保羅 (Paul，意為「小」) |
+| **出生地** | 大數 (Tarsus)，基利家省首府 |
+| **出生年** | 約主後 5 年 |
+| **身份** | 羅馬公民、法利賽人、便雅憫支派 |
+| **職業** | 製帳棚 (徒 18:3) |
+| **老師** | 迦瑪列 (徒 22:3) |
+| **歸主** | 約主後 35 年，大馬士革路上 |
+| **殉道** | 約主後 67 年，羅馬斬首 |
+
+**麥克乾瑟論保羅**：
+> 「保羅是新約最重要的人物之一，僅次於主耶穌基督自己。他寫了新約二十七卷書中的十三卷，奠定了基督教神學的根基。」
+
+**摩根論保羅**：
+> 「保羅是雙重文化的人——在猶太教中長大，卻生於希臘文化的大數；是法利賽人，卻是羅馬公民。這獨特背景使他成為向外邦人傳福音的完美器皿。」
+
+---
+
+### 提摩太 (Timothy)
+
+```
+提摩太生平
+
+    路司得 ─────→ 跟隨保羅 ─────→ 以弗所
+   (出生地)       (第二次旅程)     (牧會)
+     │                │               │
+     ▼                ▼               ▼
+  混血家庭         保羅同工        年輕牧者
+  母祖敬虔         忠心服事        提前提後
+```
+
+| 項目 | 內容 |
+|------|------|
+| **名字意義** | 「敬畏神的人」或「尊榮神的人」 |
+| **出生地** | 路司得 (Lystra) |
+| **父親** | 希臘人 |
+| **母親** | 友尼基 (Eunice)，猶太信徒 |
+| **外祖母** | 羅以 (Lois)，猶太信徒 |
+| **加入保羅** | 第二次宣教旅程 (徒 16:1-3) |
+| **受割禮** | 為猶太人事工考量 |
+| **牧會地點** | 以弗所 |
+| **關係** | 保羅稱他為「真兒子」(提前1:2) |
+
+**麥克乾瑟論提摩太**：
+> 「提摩太是保羅最親密的同工和屬靈兒子。保羅對他的信任無與倫比——他是保羅書信中被提及最多的同工。」
+
+**經文描述**：
+> 「因為我沒有別人與我同心，實在掛念你們的事。」(腓 2:20)
+
+---
+
+### 提多 (Titus)
+
+| 項目 | 內容 |
+|------|------|
+| **身份** | 希臘人，未受割禮 (加 2:3) |
+| **關係** | 保羅稱他為「照著共同信仰作我真兒子的」(多 1:4) |
+| **特質** | 能幹、可靠、外交手腕 |
+| **任務** | 處理哥林多教會問題；在革哩底設立長老 |
+| **牧會地點** | 革哩底島 (Crete) |
+
+**角色對比**：
+| 提摩太 | 提多 |
+|--------|------|
+| 較膽怯 | 較剛強 |
+| 猶太/希臘混血 | 純希臘人 |
+| 以弗所牧會 | 革哩底牧會 |
+| 需要鼓勵 | 獨立能幹 |
+
+---
+
+### 其他重要人物
+
+| 人物 | 身份 | 相關書信 |
+|------|------|----------|
+| **路加** | 醫生、作家 | 西 4:14；門 24；提後 4:11 |
+| **以巴弗** | 歌羅西教會建立者 | 西 1:7; 4:12 |
+| **阿尼西母** | 逃奴→弟兄 | 腓利門書 |
+| **腓利門** | 歌羅西信徒 | 腓利門書 |
+| **亞居拉/百基拉** | 製帳棚同工 | 羅 16:3-5 |
+| **推基古** | 忠心使者 | 弗 6:21; 西 4:7 |
+
+---
+
 ## 研讀資源 (Study Resources)
 
 ### 主要參考
 
-1. **John MacArthur** — *The MacArthur New Testament Commentary* series (gty.org)
-2. **F.F. Bruce** — *Paul: Apostle of the Heart Set Free*
-3. **N.T. Wright** — *Paul and the Faithfulness of God*
-4. **Thomas Schreiner** — *Paul, Apostle of God's Glory in Christ*
+1. **John MacArthur** — *The MacArthur New Testament Commentary* series ([gty.org](https://www.gty.org))
+2. **G. Campbell Morgan** — *The Analyzed Bible* & *Exposition on the Whole Bible* ([StudyLight.org](https://www.studylight.org/commentaries/eng/gcm.html))
+3. **F.F. Bruce** — *Paul: Apostle of the Heart Set Free*
+4. **N.T. Wright** — *Paul and the Faithfulness of God*
+5. **Thomas Schreiner** — *Paul, Apostle of God's Glory in Christ*
 
 ### 地圖資源
 

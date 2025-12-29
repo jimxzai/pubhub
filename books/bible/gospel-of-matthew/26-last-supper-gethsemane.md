@@ -71,4 +71,74 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩與詩篇 (Hymns and Psalms)
+
+### 經典聖詩：'Tis Midnight, and on Olive's Brow
+
+描繪客西馬尼園夜景：
+
+> 'Tis midnight, and on Olive's brow
+> The star is dimmed that lately shone;
+> 'Tis midnight, in the garden now
+> The suffering Savior prays alone.
+>
+> 'Tis midnight, and from all removed,
+> The Savior wrestles lone with fears;
+> E'en that disciple whom He loved
+> Heeds not his Master's grief and tears.
+
+**中文意譯**：
+> 橄欖山頭正午夜，
+> 星光漸暗漫山野；
+> 午夜園中獨跪禱，
+> 受苦救主心悲切。
+>
+> 午夜獨自離眾人，
+> 救主掙扎滿驚懼；
+> 那蒙愛的門徒啊，
+> 不見主淚主憂傷。
+
+### 詩篇對照 (Psalm Connections)
+
+| 詩篇 | 主題 | 與本章連結 |
+|------|------|------------|
+| **詩篇 41:9** | 朋友出賣 | 「連我知己的朋友，我所倚靠、吃過我飯的也用腳踢我」— 猶大 |
+| **詩篇 42:5-6** | 心憂傷 | 「我的心哪，你為何憂悶？」— 客西馬尼的掙扎 |
+| **詩篇 22:1** | 被離棄 | 預示十架呼喊 |
+| **詩篇 116:13** | 救恩之杯 | 「我要舉起救恩的杯」— 聖餐的設立 |
+| **詩篇 55:12-14** | 知己背叛 | 「原來不是仇敵辱罵我...乃是你——與我同遊的」|
+
+### 禱告回應詩：詩篇 42:5-6, 11
+
+> 我的心哪，你為何憂悶？
+> 為何在我裏面煩躁？
+> 應當仰望神，因他笑臉幫助我，
+> 我還要稱讚他。
+
+### 聖餐聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 設立聖餐 | *Here, O My Lord, I See Thee* |
+| 立約之血 | *There Is a Fountain Filled with Blood* |
+| 記念主 | *According to Thy Gracious Word* |
+| 合一 | *Bread of the World in Mercy Broken* |
+
+### 客西馬尼聖詩選
+
+| 主題 | 聖詩 |
+|------|------|
+| 夜禱 | *'Tis Midnight, and on Olive's Brow* |
+| 順服 | *My Jesus, as Thou Wilt* |
+| 儆醒 | *Go to Dark Gethsemane* |
+| 同行 | *What a Friend We Have in Jesus* |
+
+### 其他相關聖詩
+
+- *Ah, Holy Jesus, How Hast Thou Offended* — 記念主受苦
+- *Man of Sorrows, What a Name* — 憂患之子
+- *In the Hour of Trial* — 試煉中求主保守
+
+---
+
 *本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*

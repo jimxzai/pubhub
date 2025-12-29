@@ -1,0 +1,634 @@
+% PubHub Acts of the Apostles Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with scholarly insights
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Acts Theme (Fire/Spirit)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors (Fire/Spirit theme for Pentecost)
+\definecolor{ChapterBlue}{RGB}{35,65,105}
+\definecolor{ScriptureGold}{RGB}{180,130,40}
+\definecolor{CommentaryBrown}{RGB}{90,65,50}
+\definecolor{PentecostRed}{RGB}{180,50,35}
+\definecolor{SpiritBlue}{RGB}{60,120,180}
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}
+\definecolor{LandBeige}{RGB}{245,235,220}
+\definecolor{MountainBrown}{RGB}{180,160,140}
+\definecolor{SeaBlue}{RGB}{100,150,200}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}
+\definecolor{GreekBg}{RGB}{245,248,252}
+\definecolor{ApplicationBg}{RGB}{248,252,248}
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Flame decoration command
+\newcommand{\flamedecor}{%
+\begin{tikzpicture}[scale=0.2]
+  \fill[PentecostRed] (0,0) .. controls (0.2,0.5) and (-0.2,0.8) .. (0,1.2)
+    .. controls (0.2,0.8) and (-0.1,0.5) .. (0,0);
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 直到地極}\\[0.2cm]
+{\large\itshape\color{LightGray} To the Ends of the Earth}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 使徒行傳研讀}\\[0.15cm]
+{\normalsize A Study of the Acts of the Apostles}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{PentecostRed}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+但聖靈降臨在你們身上，你們就必得著能力，\\
+並要在耶路撒冷、猶太全地、和撒瑪利亞，\\
+直到地極，作我的見證。\\[0.15em]
+\footnotesize But you will receive power when the Holy Spirit\\
+has come upon you, and you will be my witnesses\\
+to the ends of the earth. — Acts 1:8
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Acts Structure diagram (based on 1:8)
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,3) {Book Structure 書卷結構 (Acts 1:8)};
+
+  % Three concentric circles representing expansion
+  \draw[ChapterBlue,thick] (0,1) circle (0.8);
+  \draw[SpiritBlue,thick] (0,1) circle (1.6);
+  \draw[PentecostRed,thick] (0,1) circle (2.4);
+
+  \node[font=\tiny,color=ChapterBlue] at (0,1) {Jerusalem};
+  \node[font=\tiny,color=ChapterBlue] at (0,0.6) {1-7};
+
+  \node[font=\tiny,color=SpiritBlue] at (1.2,1.8) {Judea \&};
+  \node[font=\tiny,color=SpiritBlue] at (1.2,1.4) {Samaria 8-12};
+
+  \node[font=\tiny,color=PentecostRed] at (2,0.5) {Ends of Earth};
+  \node[font=\tiny,color=PentecostRed] at (2,0.1) {13-28};
+
+  % Flame symbols
+  \node[font=\tiny,color=PentecostRed] at (-2.5,2.5) {\flamedecor};
+  \node[font=\tiny,color=PentecostRed] at (2.5,2.5) {\flamedecor};
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Key themes
+{\small\color{ChapterBlue}\bfseries 使徒行傳主題 Key Themes of Acts}\\[0.2cm]
+\begin{tikzpicture}[scale=0.5]
+  \node[font=\tiny,color=TextGray] at (-3,0) {聖靈能力 Power of the Spirit};
+  \node[font=\tiny,color=TextGray] at (0,0) {教會建立 Church Established};
+  \node[font=\tiny,color=TextGray] at (3,0) {福音傳開 Gospel Spreads};
+  \node[font=\tiny,color=TextGray] at (-1.5,-0.5) {使徒見證 Apostolic Witness};
+  \node[font=\tiny,color=TextGray] at (1.5,-0.5) {逼迫中增長 Growth in Persecution};
+\end{tikzpicture}
+
+\vfill
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Map page - Paul's Missionary Journeys
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 保羅宣教旅程}\\[0.1cm]
+{\normalsize Paul's Missionary Journeys}
+
+\vspace{0.4cm}
+
+\begin{tikzpicture}[scale=0.75]
+  % Mediterranean Sea background
+  \fill[SeaBlue!30] (0,0) rectangle (12,9);
+
+  % Land masses
+  % Asia Minor (Turkey)
+  \fill[LandBeige] (5,4.5) .. controls (7,5) and (9,5.5) .. (11,5)
+    .. controls (11.5,4) and (11,3) .. (10,2.5)
+    .. controls (8,2.5) and (6,3) .. (5,4.5);
+
+  % Greece/Macedonia
+  \fill[LandBeige] (1,3.5) .. controls (2,4.5) and (3,4) .. (4,3.5)
+    .. controls (4.5,2.5) and (3.5,1.5) .. (2.5,1.5)
+    .. controls (1.5,2) and (1,3) .. (1,3.5);
+
+  % Italy
+  \fill[LandBeige] (-0.5,5) .. controls (0,6) and (1,6.5) .. (1.5,5.5)
+    .. controls (2,4.5) and (1.5,3.5) .. (0.5,3)
+    .. controls (0,3.5) and (-0.5,4.5) .. (-0.5,5);
+
+  % Israel/Syria
+  \fill[LandBeige] (10,0) rectangle (12,4);
+
+  % Cyprus
+  \fill[LandBeige] (8,2.8) ellipse (0.8 and 0.25);
+
+  % Crete
+  \fill[LandBeige] (5,1.5) ellipse (0.7 and 0.2);
+
+  % Key cities
+  % Jerusalem
+  \fill[PentecostRed] (11.5,1) circle (0.15);
+  \node[font=\tiny\bfseries,color=PentecostRed,right] at (11.6,1) {Jerusalem};
+
+  % Antioch (Syria)
+  \fill[ScriptureGold] (10.5,3.5) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (10.6,3.5) {Antioch};
+
+  % Ephesus
+  \fill[ScriptureGold] (7,4) circle (0.12);
+  \node[font=\tiny,above,color=TextGray] at (7,4.1) {Ephesus};
+
+  % Philippi
+  \fill[ScriptureGold] (3.5,4.2) circle (0.12);
+  \node[font=\tiny,above,color=TextGray] at (3.5,4.3) {Philippi};
+
+  % Athens
+  \fill[ScriptureGold] (3,2.5) circle (0.12);
+  \node[font=\tiny,below,color=TextGray] at (3,2.4) {Athens};
+
+  % Corinth
+  \fill[ScriptureGold] (2.5,2.8) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (2.4,2.8) {Corinth};
+
+  % Rome
+  \fill[PentecostRed] (0.5,5) circle (0.15);
+  \node[font=\tiny\bfseries,color=PentecostRed,left] at (0.4,5) {Rome};
+
+  % Journey lines (simplified)
+  % First journey (green)
+  \draw[green!60!black,line width=1.5pt,->] (10.5,3.5) .. controls (9,3) .. (8,2.8)
+    .. controls (7.5,3.5) .. (7.5,4);
+  \node[font=\tiny,color=green!60!black] at (8.5,4.5) {1st Journey};
+
+  % Second journey (blue)
+  \draw[SpiritBlue,line width=1.5pt,->] (10.5,3.3) .. controls (8,4) and (5,4.5) .. (3.5,4.2)
+    .. controls (3,3.5) .. (3,2.5);
+  \node[font=\tiny,color=SpiritBlue] at (5.5,5.5) {2nd Journey};
+
+  % Third journey (purple)
+  \draw[purple,line width=1.5pt,->] (10.5,3.7) .. controls (8.5,4.5) .. (7,4.2)
+    .. controls (5,4.8) .. (3.5,4);
+  \node[font=\tiny,color=purple] at (6.5,6) {3rd Journey};
+
+  % Journey to Rome (red)
+  \draw[PentecostRed,line width=1.5pt,->,dashed] (11.5,1.2) .. controls (8,1.5) and (5,1.5) .. (2,2.5)
+    .. controls (1,3.5) .. (0.5,4.8);
+  \node[font=\tiny,color=PentecostRed] at (4,0.8) {Journey to Rome};
+
+  % Compass
+  \draw[->,very thick,color=ChapterBlue] (0.8,7.5) -- (0.8,8.3);
+  \node[font=\small\bfseries,color=ChapterBlue] at (0.8,8.5) {N};
+
+  % Legend
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (10,8) {Legend};
+  \draw[green!60!black,line width=1.5pt] (8.5,7.5) -- (9.5,7.5);
+  \node[font=\tiny,right,color=TextGray] at (9.6,7.5) {1st (46-48 AD)};
+  \draw[SpiritBlue,line width=1.5pt] (8.5,7) -- (9.5,7);
+  \node[font=\tiny,right,color=TextGray] at (9.6,7) {2nd (49-52 AD)};
+  \draw[purple,line width=1.5pt] (8.5,6.5) -- (9.5,6.5);
+  \node[font=\tiny,right,color=TextGray] at (9.6,6.5) {3rd (53-57 AD)};
+  \draw[PentecostRed,line width=1.5pt,dashed] (8.5,6) -- (9.5,6);
+  \node[font=\tiny,right,color=TextGray] at (9.6,6) {To Rome (59-60)};
+
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\footnotesize\color{LightGray} 「放膽傳講神的國...並沒有受到阻礙。」— 使徒行傳 28:31}
+\end{center}
+\cleardoublepage
+
+% Seven Major Speeches page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+{\Large\bfseries\color{ChapterBlue} 七次重要講道}\\[0.1cm]
+{\normalsize Seven Major Speeches in Acts}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}[scale=0.8]
+  % Peter's speeches (left column)
+  \node[font=\normalsize\bfseries,color=SpiritBlue] at (-3,6) {Peter 彼得};
+
+  \node[draw=SpiritBlue,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
+    at (-3,5) {Pentecost 五旬節\\2:14-40};
+  \node[draw=SpiritBlue,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
+    at (-3,3.8) {Temple 聖殿前\\3:12-26};
+  \node[draw=SpiritBlue,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
+    at (-3,2.6) {Sanhedrin 公會前\\4:8-12};
+
+  % Stephen (center)
+  \node[font=\normalsize\bfseries,color=PentecostRed] at (0,6) {Stephen 司提反};
+
+  \node[draw=PentecostRed,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.8cm]
+    at (0,4.4) {Defense 申辯\\7:2-53\\Longest speech\\最長的講道};
+
+  % Paul's speeches (right column)
+  \node[font=\normalsize\bfseries,color=purple] at (3,6) {Paul 保羅};
+
+  \node[draw=purple,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
+    at (3,5) {Antioch 安提阿\\13:16-41};
+  \node[draw=purple,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
+    at (3,3.8) {Athens 雅典\\17:22-31};
+  \node[draw=purple,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
+    at (3,2.6) {Agrippa 亞基帕\\26:2-29};
+
+  % Common elements arrow
+  \draw[->,ScriptureGold,thick] (-1,1.5) -- (1,1.5);
+  \node[font=\tiny,color=TextGray,align=center] at (0,1) {All proclaim:\\Christ died, rose, saves};
+  \node[font=\tiny,color=TextGray,align=center] at (0,0.5) {都宣告：基督死、復活、拯救};
+
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Church Growth statistics
+{\Large\bfseries\color{ChapterBlue} 教會增長 Church Growth}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.7]
+  % Growth bars
+  \fill[SpiritBlue!50] (0,0) rectangle (0.8,0.5);
+  \node[font=\tiny,right,color=TextGray] at (1,0.25) {120 waiting (1:15)};
+
+  \fill[SpiritBlue!60] (0,0.8) rectangle (3,1.3);
+  \node[font=\tiny,right,color=TextGray] at (3.2,1.05) {+3,000 at Pentecost (2:41)};
+
+  \fill[SpiritBlue!70] (0,1.6) rectangle (4.5,2.1);
+  \node[font=\tiny,right,color=TextGray] at (4.7,1.85) {5,000 men (4:4)};
+
+  \fill[SpiritBlue!80] (0,2.4) rectangle (6,2.9);
+  \node[font=\tiny,right,color=TextGray] at (6.2,2.65) {Disciples multiplied (6:7)};
+
+  \fill[SpiritBlue!90] (0,3.2) rectangle (8,3.7);
+  \node[font=\tiny,right,color=TextGray] at (8.2,3.45) {Churches strengthened, increasing daily (16:5)};
+
+  \fill[PentecostRed] (0,4) rectangle (10,4.5);
+  \node[font=\tiny,right,color=white] at (0.2,4.25) {Gospel reaches Rome - ends of the earth (28:31)};
+
+\end{tikzpicture}
+
+\end{center}
+\cleardoublepage
+
+% Commentary Sources page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+{\Large\bfseries\color{ChapterBlue} 研讀資源 Study Resources}
+
+\vspace{0.5cm}
+
+\fcolorbox{ChapterBlue}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\vspace{0.3cm}
+{\normalsize\bfseries\color{ChapterBlue} John MacArthur 約翰·麥克乾瑟}\\[0.3em]
+\small\color{TextGray}
+使徒行傳是福音書的續集——記載復活升天之主如何透過聖靈建立並擴展祂的教會。這卷書的真正主角不是彼得或保羅，而是聖靈。路加記錄了從耶路撒冷的一個小群體到遍及羅馬帝國的教會網絡這一驚人增長。使徒們「放膽講論」——這種大膽的見證正是初代教會的標誌。\\[0.5em]
+{\footnotesize\itshape Acts is the sequel to the Gospels—recording how the risen, ascended Lord builds and expands His church through the Spirit. The true protagonist is not Peter or Paul, but the Holy Spirit. Luke records the remarkable growth from a small band in Jerusalem to a network of churches across the Roman Empire. The apostles spoke with "boldness"—this bold witness marks the early church.}
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+\fcolorbox{CommentaryBrown}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\vspace{0.3cm}
+{\normalsize\bfseries\color{CommentaryBrown} G. Campbell Morgan 乾伯·摩根}\\[0.3em]
+\small\color{TextGray}
+使徒行傳記載的是「未完成的故事」——書卷結束時，保羅仍在傳道，教會仍在增長。這正是路加的用意：福音的故事沒有結束。每一代的教會都在繼續書寫「使徒行傳」。1:8是理解全書的鑰匙：地理的擴展對應著福音的普世性。「直到地極」不僅是地理概念，更是神救恩計劃的終極目標。\\[0.5em]
+{\footnotesize\itshape Acts is an "unfinished story"—the book ends with Paul still preaching, the church still growing. This is Luke's intention: the gospel story has no end. Each generation of the church continues writing "Acts." 1:8 is the key to understanding the whole book: geographic expansion corresponds to the universality of the gospel. "To the ends of the earth" is not just geography but God's ultimate purpose.}
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+{\small\color{TextGray}
+\textbf{使徒行傳與保羅書信對照 Acts \& Paul's Epistles:}\\
+第一次旅程後 {\ensuremath{\rightarrow}} 加拉太書 · 哥林多事工 {\ensuremath{\rightarrow}} 帖撒羅尼迦前後書\\
+以弗所事工 {\ensuremath{\rightarrow}} 哥林多前後書 · 希臘三個月 {\ensuremath{\rightarrow}} 羅馬書\\
+羅馬監禁 {\ensuremath{\rightarrow}} 以弗所書、腓立比書、歌羅西書、腓利門書
+}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{使徒行傳研讀 / Acts of the Apostles Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Acts of the Apostles\\[0.8em]
+
+使徒行傳是路加福音的續集（路加文集第二卷）。\\
+Acts is the sequel to the Gospel of Luke (Luke-Acts, Volume 2).
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}
