@@ -1,0 +1,383 @@
+% SGP Book Template - English Premium Edition
+% Premium English Book Template - Using memoir class
+% Requires XeLaTeX
+
+\documentclass[11pt,twoside,openright,extrafontsizes]{memoir}
+
+% ============================================
+% Font Setup
+% ============================================
+\usepackage{fontspec}
+
+% Main font: Classic serif
+\setmainfont{Georgia}[
+  BoldFont=Georgia Bold,
+  ItalicFont=Georgia Italic,
+  BoldItalicFont=Georgia Bold Italic,
+  Scale=1.0
+]
+% Sans-serif font
+\setsansfont{Helvetica Neue}[
+  BoldFont=Helvetica Neue Bold
+]
+% Monospace font
+\setmonofont{Menlo}[Scale=0.85]
+
+% ============================================
+% Page Layout
+% ============================================
+\setstocksize{9in}{6in}
+\settrimmedsize{9in}{6in}{*}
+\settrims{0pt}{0pt}
+
+% Margins
+\setlrmarginsandblock{0.875in}{0.625in}{*}
+\setulmarginsandblock{0.9in}{1in}{*}
+\setheadfoot{0.5in}{0.4in}
+\setheaderspaces{*}{0.3in}{*}
+
+\checkandfixthelayout
+
+% ============================================
+% Colors
+% ============================================
+\usepackage{xcolor}
+
+% Main theme color: Deep burgundy
+\definecolor{maincolor}{RGB}{128,0,32}
+% Accent color
+\definecolor{accentcolor}{RGB}{139,69,19}
+% Quote color
+\definecolor{quotecolor}{RGB}{105,105,105}
+% Chapter decoration
+\definecolor{chapterdeco}{RGB}{178,34,34}
+% Rule color
+\definecolor{rulecolor}{RGB}{192,192,192}
+
+% ============================================
+% Chapter Style
+% ============================================
+
+\makechapterstyle{elegantbook}{%
+  \chapterstyle{default}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\chapnumfont}{\normalfont\fontsize{72}{80}\selectfont\color{maincolor!30}}
+  \renewcommand*{\printchapternum}{%
+    \raggedleft\chapnumfont \thechapter
+    \vskip -50pt
+  }
+  \renewcommand*{\chaptitlefont}{\normalfont\Huge\bfseries\raggedright\color{maincolor}}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \chaptitlefont ##1
+    \vskip 10pt
+    {\color{rulecolor}\rule{\textwidth}{0.5pt}}
+    \vskip 20pt
+  }
+  \renewcommand*{\afterchapternum}{\vskip 10pt}
+}
+
+\chapterstyle{elegantbook}
+
+% ============================================
+% Section Styles
+% ============================================
+\setsecheadstyle{\Large\bfseries\color{maincolor}}
+\setsubsecheadstyle{\large\bfseries\color{accentcolor}}
+\setsubsubsecheadstyle{\normalsize\bfseries\itshape}
+
+% ============================================
+% Headers and Footers
+% ============================================
+\makepagestyle{elegantbook}
+\makeevenhead{elegantbook}{\small\thepage}{}{\small\scshape\leftmark}
+\makeoddhead{elegantbook}{\small\itshape\rightmark}{}{\small\thepage}
+\makeevenfoot{elegantbook}{}{}{}
+\makeoddfoot{elegantbook}{}{}{}
+
+\makeheadrule{elegantbook}{\textwidth}{0.4pt}
+
+\pagestyle{elegantbook}
+
+\aliaspagestyle{chapter}{empty}
+
+% ============================================
+% Table of Contents
+% ============================================
+\renewcommand{\contentsname}{Contents}
+\renewcommand{\cftchapterfont}{\normalfont\bfseries}
+\renewcommand{\cftchapterpagefont}{\normalfont\bfseries}
+\renewcommand{\cftsectionfont}{\normalfont}
+\renewcommand{\cftsectionpagefont}{\normalfont}
+
+\settocdepth{section}
+
+% ============================================
+% Block Quote Style
+% ============================================
+\renewenvironment{quote}{%
+  \list{}{%
+    \leftmargin=1.5em
+    \rightmargin=1.5em
+    \topsep=10pt
+    \parsep=0pt
+    \listparindent=0pt
+  }%
+  \item\relax\color{quotecolor}\itshape
+}{%
+  \endlist
+}
+
+% ============================================
+% Decorative Rules
+% ============================================
+\newcommand{\sectionrule}{%
+  \vspace{10pt}
+  \begin{center}
+    {\color{rulecolor}---}
+  \end{center}
+  \vspace{10pt}
+}
+
+% ============================================
+% Other Settings
+% ============================================
+
+% Line spacing
+\setSingleSpace{1.15}
+\SingleSpacing
+
+% Paragraph spacing
+\setlength{\parskip}{0.4\baselineskip}
+\setlength{\parindent}{1.5em}
+
+% Widow/orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=maincolor,
+  urlcolor=accentcolor,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdftitle={Silicon Jim},
+  pdfauthor={Jim Xiao}
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Pandoc compatibility
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Pandoc tight list
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% ============================================
+% Metadata
+% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% ============================================
+% Document Body
+% ============================================
+\begin{document}
+
+% ----------------------------------------
+% Title Page
+% ----------------------------------------
+\begin{titlingpage}
+\thispagestyle{empty}
+
+\vspace*{1.5in}
+
+\begin{center}
+
+% Decorative rule
+{\color{maincolor}\rule{2.5in}{0.5pt}}
+
+\vspace{0.4in}
+
+% Title
+$if(title)$
+{\fontsize{42pt}{48pt}\selectfont\bfseries\color{maincolor} $title$}
+$endif$
+
+\vspace{0.3in}
+
+% Subtitle
+$if(subtitle)$
+{\large\itshape\color{quotecolor} $subtitle$}
+$endif$
+
+\vspace{0.4in}
+
+% Decorative rule
+{\color{maincolor}\rule{2.5in}{0.5pt}}
+
+\vspace{1.5in}
+
+% Author
+$if(author)$
+{\Large\scshape $author$}
+$endif$
+
+\vfill
+
+% Decorative element
+{\color{rulecolor}\textbullet}
+
+\vspace{0.3in}
+
+% Publisher info
+$if(publisher)$
+{\large $publisher$}\\[0.3in]
+$endif$
+
+$if(date)$
+{\large $date$}
+$else$
+{\large \today}
+$endif$
+
+\end{center}
+
+\end{titlingpage}
+
+% ----------------------------------------
+% Copyright Page
+% ----------------------------------------
+\thispagestyle{empty}
+\vspace*{\fill}
+
+\begin{flushleft}
+\small
+
+{\bfseries\scshape $if(title)$$title$$endif$}\\[0.5em]
+$if(subtitle)$\textit{$subtitle$}$endif$
+
+\vspace{1em}
+
+$if(author)$
+by $author$
+$endif$
+
+\vspace{2em}
+
+\textit{Sample Edition / Preview Copy}
+
+\vspace{2em}
+
+$if(copyright)$
+$copyright$
+$else$
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means without the prior written permission of the publisher.
+$endif$
+
+\vspace{1em}
+
+{\color{rulecolor}\hrule}
+
+\vspace{1em}
+
+{\footnotesize
+Typeset in Georgia using XeLaTeX\\
+Book design: memoir class\\
+Version: v1.0 Sample Edition
+}
+
+\end{flushleft}
+
+\cleardoublepage
+
+% ----------------------------------------
+% Epigraph Page
+% ----------------------------------------
+\thispagestyle{empty}
+\vspace*{2in}
+
+\begin{center}
+\begin{minipage}{4in}
+\begin{center}
+\itshape\color{quotecolor}
+
+"Mama always said life was like a box of chocolates.\\
+You never know what you're gonna get."
+
+\vspace{1em}
+
+"But in Silicon Valley, every chocolate might be\\
+a funding round, an IPO, or a bankruptcy filing."
+
+\vspace{2em}
+
+{\normalfont\color{maincolor}— Silicon Jim}
+
+\end{center}
+\end{minipage}
+\end{center}
+
+\cleardoublepage
+
+% ----------------------------------------
+% Table of Contents
+% ----------------------------------------
+\frontmatter
+\tableofcontents*
+\cleardoublepage
+
+% ----------------------------------------
+% Main Matter
+% ----------------------------------------
+\mainmatter
+
+$body$
+
+% ----------------------------------------
+% Colophon
+% ----------------------------------------
+\backmatter
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+
+\begin{center}
+{\color{rulecolor}\textbullet \quad \textbullet \quad \textbullet}
+
+\vspace{1em}
+
+{\small\itshape Slow is smooth, smooth is fast.}
+
+\vspace{2em}
+
+{\footnotesize\color{quotecolor}
+Typeset with XeLaTeX\\
+December 2025 · Sample Edition
+}
+\end{center}
+
+\end{document}

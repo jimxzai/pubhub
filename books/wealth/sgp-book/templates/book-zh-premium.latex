@@ -1,0 +1,398 @@
+% SGP Book Template - Chinese Premium Edition
+% 精装中文书籍模版 - 使用 memoir class
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,twoside,openright,extrafontsizes]{memoir}
+
+% ============================================
+% 字体设置 - Font Setup
+% ============================================
+\usepackage{fontspec}
+
+% 主字体：思源宋体风格
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC,
+  Scale=1.0
+]
+% 无衬线字体：黑体
+\setsansfont{Heiti SC}[
+  BoldFont=Heiti SC Medium
+]
+% 等宽字体
+\setmonofont{Menlo}[Scale=0.9]
+
+% CJK 断行设置
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% ============================================
+% 页面设置 - Page Layout
+% ============================================
+\setstocksize{9in}{6in}
+\settrimmedsize{9in}{6in}{*}
+\settrims{0pt}{0pt}
+
+% 页边距
+\setlrmarginsandblock{0.875in}{0.625in}{*}
+\setulmarginsandblock{0.9in}{1in}{*}
+\setheadfoot{0.5in}{0.4in}
+\setheaderspaces{*}{0.3in}{*}
+
+\checkandfixthelayout
+
+% ============================================
+% 颜色定义 - Colors
+% ============================================
+\usepackage{xcolor}
+
+% 主题色：深红色（传统中国红）
+\definecolor{maincolor}{RGB}{139,26,26}
+% 辅助色
+\definecolor{accentcolor}{RGB}{178,34,34}
+% 引用色
+\definecolor{quotecolor}{RGB}{85,85,85}
+% 章节装饰色
+\definecolor{chapterdeco}{RGB}{205,92,92}
+% 分隔线色
+\definecolor{rulecolor}{RGB}{169,169,169}
+
+% ============================================
+% 章节样式 - Chapter Style
+% ============================================
+
+% 自定义章节样式
+\makechapterstyle{siliconstyle}{%
+  \chapterstyle{default}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\chapnumfont}{\normalfont\HUGE\bfseries\color{maincolor}}
+  \renewcommand*{\printchapternum}{%
+    \begin{center}
+    \chapnumfont \thechapter
+    \end{center}
+  }
+  \renewcommand*{\chaptitlefont}{\normalfont\Huge\bfseries\centering\color{maincolor}}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \vskip 10pt
+    {\color{rulecolor}\hrule height 0.5pt}
+    \vskip 15pt
+    \chaptitlefont ##1
+    \vskip 15pt
+    {\color{rulecolor}\hrule height 0.5pt}
+    \vskip 20pt
+  }
+  \renewcommand*{\afterchapternum}{\vskip 5pt}
+}
+
+\chapterstyle{siliconstyle}
+
+% ============================================
+% 节标题样式 - Section Styles
+% ============================================
+\setsecheadstyle{\Large\bfseries\color{maincolor}}
+\setsubsecheadstyle{\large\bfseries\color{accentcolor}}
+\setsubsubsecheadstyle{\normalsize\bfseries\itshape}
+
+% ============================================
+% 页眉页脚 - Headers and Footers
+% ============================================
+\makepagestyle{siliconstyle}
+\makeevenhead{siliconstyle}{\small\thepage}{}{\small\itshape\leftmark}
+\makeoddhead{siliconstyle}{\small\itshape\rightmark}{}{\small\thepage}
+\makeevenfoot{siliconstyle}{}{}{}
+\makeoddfoot{siliconstyle}{}{}{}
+
+% 页眉下划线
+\makeheadrule{siliconstyle}{\textwidth}{0.4pt}
+
+\pagestyle{siliconstyle}
+
+% 章节首页样式
+\aliaspagestyle{chapter}{empty}
+
+% ============================================
+% 目录样式 - Table of Contents
+% ============================================
+\renewcommand{\contentsname}{目\quad 录}
+\renewcommand{\cftchapterfont}{\normalfont\bfseries}
+\renewcommand{\cftchapterpagefont}{\normalfont\bfseries}
+\renewcommand{\cftsectionfont}{\normalfont}
+\renewcommand{\cftsectionpagefont}{\normalfont}
+
+\settocdepth{section}
+
+% ============================================
+% 引用块样式 - Block Quote Style
+% ============================================
+\renewenvironment{quote}{%
+  \list{}{%
+    \leftmargin=1.5em
+    \rightmargin=1.5em
+    \topsep=10pt
+    \parsep=0pt
+    \listparindent=0pt
+  }%
+  \item\relax\color{quotecolor}\itshape
+}{%
+  \endlist
+}
+
+% ============================================
+% 分隔线 - Decorative Rules
+% ============================================
+\newcommand{\sectionrule}{%
+  \vspace{10pt}
+  \begin{center}
+    {\color{rulecolor}— ◆ —}
+  \end{center}
+  \vspace{10pt}
+}
+
+% ============================================
+% 其他设置 - Other Settings
+% ============================================
+
+% 行距
+\setSingleSpace{1.3}
+\SingleSpacing
+
+% 段落间距
+\setlength{\parskip}{0.5\baselineskip}
+\setlength{\parindent}{2em}
+
+% 防止孤行寡行
+\widowpenalty=10000
+\clubpenalty=10000
+
+% 超链接
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=maincolor,
+  urlcolor=accentcolor,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfencoding=auto,
+  pdftitle={硅谷阿甘},
+  pdfauthor={Jim Xiao}
+}
+
+% 图形支持
+\usepackage{graphicx}
+
+% 表格
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Pandoc 兼容
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Pandoc tight list
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% ============================================
+% 元数据 - Metadata
+% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% ============================================
+% 文档开始 - Document Body
+% ============================================
+\begin{document}
+
+% ----------------------------------------
+% 封面 - Title Page
+% ----------------------------------------
+\begin{titlingpage}
+\thispagestyle{empty}
+
+\vspace*{1.5in}
+
+\begin{center}
+
+% 装饰线
+{\color{maincolor}\rule{3in}{1pt}}
+
+\vspace{0.5in}
+
+% 书名
+$if(title)$
+{\fontsize{36pt}{40pt}\selectfont\bfseries\color{maincolor} $title$}
+$endif$
+
+\vspace{0.3in}
+
+% 副标题
+$if(subtitle)$
+{\Large\itshape\color{quotecolor} $subtitle$}
+$endif$
+
+\vspace{0.5in}
+
+% 装饰线
+{\color{maincolor}\rule{3in}{1pt}}
+
+\vspace{1.5in}
+
+% 作者
+$if(author)$
+{\Large $author$}
+$endif$
+
+\vfill
+
+% 装饰元素
+{\color{rulecolor}◆}
+
+\vspace{0.3in}
+
+% 出版信息
+$if(publisher)$
+{\large $publisher$}\\[0.3in]
+$endif$
+
+$if(date)$
+{\large $date$}
+$else$
+{\large \today}
+$endif$
+
+\end{center}
+
+\end{titlingpage}
+
+% ----------------------------------------
+% 版权页 - Copyright Page
+% ----------------------------------------
+\thispagestyle{empty}
+\vspace*{\fill}
+
+\begin{flushleft}
+\small
+
+{\bfseries $if(title)$$title$$endif$}\\[0.5em]
+$if(subtitle)$$subtitle$$endif$
+
+\vspace{1em}
+
+$if(author)$
+作者：$author$
+$endif$
+
+\vspace{2em}
+
+\textit{本书为样书预览版}
+
+\vspace{2em}
+
+$if(copyright)$
+$copyright$
+$else$
+版权所有 \copyright\ \the\year\ $if(author)$$author$$endif$\\
+保留所有权利。未经许可，不得复制、传播或以任何形式使用本书内容。
+$endif$
+
+\vspace{1em}
+
+{\color{rulecolor}\hrule}
+
+\vspace{1em}
+
+{\footnotesize
+排版：XeLaTeX + memoir class\\
+字体：思源宋体 / 黑体\\
+版本：v1.0 样书版
+}
+
+\end{flushleft}
+
+\cleardoublepage
+
+% ----------------------------------------
+% 题词页 - Epigraph Page
+% ----------------------------------------
+\thispagestyle{empty}
+\vspace*{2in}
+
+\begin{center}
+\begin{minipage}{4in}
+\begin{center}
+\itshape\color{quotecolor}
+
+"妈妈说，人生就像一盒巧克力，\\
+你永远不知道下一颗是什么味道。"
+
+\vspace{1em}
+
+"但在硅谷，每一颗巧克力都可能是\\
+融资、上市、或者破产。"
+
+\vspace{2em}
+
+{\normalfont\color{maincolor}— 硅谷阿甘}
+
+\end{center}
+\end{minipage}
+\end{center}
+
+\cleardoublepage
+
+% ----------------------------------------
+% 目录 - Table of Contents
+% ----------------------------------------
+\frontmatter
+\tableofcontents*
+\cleardoublepage
+
+% ----------------------------------------
+% 正文 - Main Matter
+% ----------------------------------------
+\mainmatter
+
+$body$
+
+% ----------------------------------------
+% 后记页 - Colophon
+% ----------------------------------------
+\backmatter
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+
+\begin{center}
+{\color{rulecolor}◆ ◆ ◆}
+
+\vspace{1em}
+
+{\small\itshape 慢慢来，才能快。}
+
+\vspace{0.5em}
+
+{\small Slow is smooth, smooth is fast.}
+
+\vspace{2em}
+
+{\footnotesize\color{quotecolor}
+本书使用 XeLaTeX 排版\\
+2025年12月 · 样书版
+}
+\end{center}
+
+\end{document}

@@ -1,8 +1,8 @@
 # Product Requirements Document (PRD)
 ## 生命之道 — 約翰福音研讀項目
 
-**Version**: 2.0
-**Date**: 2025-12-28
+**Version**: 3.0
+**Date**: 2026-01-01
 **Product Name**: Gospel of John Study System
 **Document Status**: Active MVP
 
@@ -93,8 +93,13 @@
 | Output | 格式化的研讀筆記 (Markdown) |
 | Format | 經文、背景、原文、注疏、應用 |
 
-**User Story**:
-> 作為研讀者，我希望有一個標準化的筆記模板，以便我每天都能有系統地記錄研讀心得。
+**User Stories**:
+
+| ID | User Story | Acceptance Criteria |
+|----|------------|---------------------|
+| US-1.1 | 作為研讀者，我希望有一個標準化的筆記模板，以便我每天都能有系統地記錄研讀心得。 | - 模板包含所有必要欄位<br>- 可快速複製使用<br>- 格式一致性 |
+| US-1.2 | 作為研讀者，我希望能整合黃長老、MacArthur、Morgan三方資源，以便獲得全面的理解。 | - 每章引用至少1處gty.org<br>- 每章引用至少1處Morgan<br>- 整合華人處境應用 |
+| US-1.3 | 作為研讀者，我希望能看到中英雙語經文對照，以便深入理解原意。 | - RCUV中文<br>- ESV英文<br>- 格式清晰可讀 |
 
 ---
 
@@ -107,10 +112,13 @@
 | Output | 添加歷代注疏的豐富版本 |
 | Sources | 教父、改革宗、當代福音派 |
 
-**Acceptance Criteria**:
-- [ ] 每條注疏標明出處和作者
-- [ ] 提供中英對照
-- [ ] 希臘原文詞彙附音譯和解釋
+**User Stories**:
+
+| ID | User Story | Acceptance Criteria |
+|----|------------|---------------------|
+| US-2.1 | 作為研讀者，我希望能查看歷代教父的註解，以便理解教會傳統詮釋。 | - 引用來源清晰<br>- 標明作者年代<br>- 中英對照 |
+| US-2.2 | 作為研讀者，我希望能學習希臘原文詞彙，以便深入理解經文原意。 | - 希臘文正確顯示<br>- 附音譯 (transliteration)<br>- 詞義解釋 |
+| US-2.3 | 作為小組帶領者，我希望能獲得多元觀點的註解，以便豐富查經討論。 | - 至少3個來源<br>- 涵蓋不同時代<br>- 可作討論素材 |
 
 ---
 
@@ -123,10 +131,13 @@
 | Output | 校對後的版本 |
 | Checks | 聖經引文、邏輯、語法、格式 |
 
-**Acceptance Criteria**:
-- [ ] 聖經引文 100% 準確
-- [ ] 邏輯連貫性檢查
-- [ ] 中英雙語潤色
+**User Stories**:
+
+| ID | User Story | Acceptance Criteria |
+|----|------------|---------------------|
+| US-3.1 | 作為研讀者，我希望確保所有聖經引文100%準確，以免誤導讀者。 | - 經文與RCUV/ESV完全一致<br>- 章節引用正確<br>- 無遺漏或錯字 |
+| US-3.2 | 作為研讀者，我希望文章邏輯清晰連貫，以便讀者容易跟隨。 | - 段落之間有連接<br>- 論點有支持<br>- 結構合理 |
+| US-3.3 | 作為研讀者，我希望中英雙語表達都流暢自然，以提升可讀性。 | - 中文語法正確<br>- 英文表達地道<br>- 術語一致 |
 
 ---
 
@@ -139,6 +150,14 @@
 | Output | 周報、月報、書稿 |
 | Format | Markdown / PDF ready |
 
+**User Stories**:
+
+| ID | User Story | Acceptance Criteria |
+|----|------------|---------------------|
+| US-4.1 | 作為研讀者，我希望每周自動生成周報摘要，以便回顧本週學習。 | - 自動整合當週內容<br>- 摘要精煉<br>- 包含反思問題 |
+| US-4.2 | 作為研讀者，我希望累積內容能生成書稿格式，以便將來出版。 | - 章節結構完整<br>- 格式統一<br>- 可轉換為PDF |
+| US-4.3 | 作為小組帶領者，我希望能分享整合好的查經材料，以便小組使用。 | - 可分享格式<br>- 內容完整<br>- 排版整齊 |
+
 ---
 
 #### F5: 總編輯 (`/master-editor`)
@@ -149,6 +168,31 @@
 | Input | 每日筆記 |
 | Output | 質量評估報告、分類建議 |
 | Metrics | 完整度、深度、準確性 |
+
+**User Stories**:
+
+| ID | User Story | Acceptance Criteria |
+|----|------------|---------------------|
+| US-5.1 | 作為研讀者，我希望獲得筆記質量評估，以便知道改進方向。 | - 評估各維度分數<br>- 具體改進建議<br>- 優先順序排列 |
+| US-5.2 | 作為研讀者，我希望筆記能自動分類歸檔，以便後續查找。 | - 按章節分類<br>- 按主題標籤<br>- 搜索友好 |
+
+---
+
+#### F6: AI 戰略家 (`/ai-parallels`)
+**Priority**: P2 (Could Have)
+
+| Attribute | Specification |
+|-----------|---------------|
+| Input | 研讀筆記或經文段落 |
+| Output | 現代AI/科技案例對照 |
+| Scope | 2025-2035 AI發展趨勢 |
+
+**User Stories**:
+
+| ID | User Story | Acceptance Criteria |
+|----|------------|---------------------|
+| US-6.1 | 作為科技業信徒，我希望看到聖經智慧與AI時代的對照，以便將信仰應用於工作。 | - 案例相關性高<br>- 類比合理<br>- 應用具體 |
+| US-6.2 | 作為研讀者，我希望理解古代智慧如何應對現代挑戰，以增強信仰實踐。 | - 連結清晰<br>- 避免牽強附會<br>- 啟發思考 |
 
 ---
 
@@ -244,21 +288,40 @@ docs/
 
 ### 5.1 Current Progress
 
-| Chapter | Status | Notes |
-|---------|--------|-------|
-| 1:1-18 | Draft | 序言已完成初稿 |
-| 1:19-51 | Draft | 見證與呼召 |
-| 2-3 | Planned | 下一步 |
-| 4-6 | Planned | 神蹟系列 |
-| 7-12 | Planned | 講論與衝突 |
-| 13-17 | Planned | 馬可樓上 |
-| 18-21 | Planned | 受難復活 |
+| Chapter | Status | Location |
+|---------|--------|----------|
+| 1:1-18 | ✅ Complete | `01-prologue.md` |
+| 1:19-51 | ✅ Complete | `01-prologue.md` |
+| 2 (迦拿婚宴) | ✅ Complete | `02-cana-wedding.md` |
+| 3 (尼哥底母) | ✅ Complete | `03-nicodemus.md` |
+| 4 (撒馬利亞婦人) | ✅ Complete | `04-samaritan-woman.md` |
+| 5 (畢士大池) | ✅ Complete | `05-bethesda.md` |
+| 6 (生命的糧) | ✅ Complete | `06-bread-of-life.md` |
+| 7 (住棚節) | ✅ Complete | `07-feast-tabernacles.md` |
+| 8 (世界的光) | ✅ Complete | `08-light-of-world.md` |
+| 9 (生來瞎眼) | ✅ Complete | `09-blind-man.md` |
+| 10 (好牧人) | ✅ Complete | `10-good-shepherd.md` |
+| 11 (拉撒路) | ✅ Complete | `11-lazarus.md` |
+| 12 (榮耀進城) | ✅ Complete | `12-triumphal-entry.md` |
+| 13 (洗腳) | ✅ Complete | `13-washing-feet.md` |
+| 14 (道路真理生命) | ✅ Complete | `14-way-truth-life.md` |
+| 15 (真葡萄樹) | ✅ Complete | `15-true-vine.md` |
+| 16 (聖靈) | ✅ Complete | `16-holy-spirit.md` |
+| 17 (大祭司禱告) | ✅ Complete | `17-high-priestly-prayer.md` |
+| 18 (被捕受審) | ✅ Complete | `18-arrest-trial.md` |
+| 19 (十架) | ✅ Complete | `19-crucifixion.md` |
+| 20 (復活) | ✅ Complete | `20-resurrection.md` |
+| 21 (跋) | ✅ Complete | `21-epilogue.md` |
 
 ### 5.2 Next Steps
 
-1. 完成約翰福音第二章研讀
-2. 建立神蹟 (Signs) 專題研讀
-3. 整合 gty.org 和 Campbell Morgan 資源
+1. ✅ ~~完成約翰福音第二章研讀~~ (已完成)
+2. ✅ ~~建立神蹟 (Signs) 專題研讀~~ (已完成)
+3. ✅ ~~整合 gty.org 和 Campbell Morgan 資源~~ (已完成)
+4. 🚧 擴展至約翰書信 (1-3 John)
+5. 🚧 擴展至路加-使徒行傳
+6. 📋 內容質量審核與修訂
+7. 📋 PDF出版準備
 
 ### 5.3 每日靈修節奏 (Day-to-Day Rhythm)
 
@@ -297,12 +360,13 @@ docs/
 
 ## 6. Success Metrics
 
-| Metric | Target | Current |
-|--------|--------|---------|
-| 章節覆蓋率 | 100% (21 章) | ~5% |
-| 注疏引用數 | 每章 3+ 條 | TBD |
-| 校對通過率 | 100% | TBD |
-| 用戶滿意度 | 4.5/5 | TBD |
+| Metric | Target | Current | Status |
+|--------|--------|---------|--------|
+| 約翰福音章節覆蓋率 | 100% (21 章) | **100%** | ✅ 達標 |
+| 注疏引用數 | 每章 3+ 條 | 審核中 | 🔍 驗證中 |
+| 校對通過率 | 100% | 審核中 | 🔍 驗證中 |
+| 用戶滿意度 | 4.5/5 | TBD | 📋 待評估 |
+| 擴展書卷覆蓋 | 10 書卷 | 8 | 🚧 進行中 |
 
 ---
 
@@ -344,3 +408,4 @@ docs/
 |---------|------|--------|---------|
 | 1.0 | 2025-12-28 | Claude Code | Initial draft |
 | 2.0 | 2025-12-28 | Claude Code | MVP focus: gty.org + Campbell Morgan, daily rhythm |
+| 3.0 | 2026-01-01 | Claude Code | 擴展用戶故事 (15個)、更新進度指標、新增F6 AI戰略家 |

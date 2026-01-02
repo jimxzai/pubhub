@@ -1,0 +1,370 @@
+% Advisory Book Template - Chinese Version
+% 阿甘的投资备忘录 - Based on Gospel of John Template
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+% Use PingFang SC for monospace to support Chinese in code blocks
+\setmonofont{PingFang SC}[Scale=0.9]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - 6x9 book format
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.2}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+%% ============================================
+%% COLOR SCHEME - Investment Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterRed}{RGB}{139,0,0}         % Deep red for chapters
+\definecolor{GoldAccent}{RGB}{165,125,55}      % Gold accent
+\definecolor{WisdomBrown}{RGB}{85,60,45}       % Warm brown
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Box colors
+\definecolor{QuoteBg}{RGB}{252,250,245}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS
+%% ============================================
+\usepackage{graphicx}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterRed,
+  urlcolor=GoldAccent,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfencoding=auto
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{GoldAccent}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterRed} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterRed} #1\par\nobreak
+    \vskip 12pt
+    {\color{GoldAccent}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterRed} #1\par\nobreak
+    \vskip 8pt
+    {\color{GoldAccent}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterRed}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{WisdomBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\itshape\color{WisdomBrown}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$else$
+\title{阿甘的投资备忘录}
+$endif$
+$if(author)$
+\author{$author$}
+$else$
+\author{Jim Xiao}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{2025年12月}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1.5cm}
+
+% Decorative line
+{\color{GoldAccent}\rule{3in}{1pt}}
+
+\vspace{0.8cm}
+
+% Main title
+$if(title)$
+{\fontsize{28}{34}\selectfont\bfseries\color{ChapterRed} $title$}
+$else$
+{\fontsize{28}{34}\selectfont\bfseries\color{ChapterRed} 阿甘的投资备忘录}
+$endif$
+
+\vspace{0.4cm}
+
+$if(subtitle)$
+{\Large\itshape\color{LightGray} $subtitle$}
+$else$
+{\Large\itshape\color{LightGray} 25年硅谷生存智慧 · 简单实用版}
+$endif$
+
+\vspace{1.5cm}
+
+% Three Mentors Box
+\fcolorbox{GoldAccent}{QuoteBg}{%
+\begin{minipage}{3.5in}
+\centering
+\vspace{0.4cm}
+{\normalsize\bfseries\color{ChapterRed} 三位导师的智慧}\\[0.3em]
+{\small\color{WisdomBrown}
+孙子 · Benjamin Graham · 圣经\\[0.5em]
+\itshape
+``善战者，胜于易胜者也''\\
+``安全边际是投资的基石''\\
+``敬畏耶和华是智慧的开端''
+}
+\vspace{0.4cm}
+\end{minipage}
+}
+
+\vspace{1.5cm}
+
+% Key message
+{\large\color{TextGray} 妈妈说：}\\[0.3em]
+{\normalsize\itshape\color{WisdomBrown} ``儿子，投资很简单。难的是做到。''}
+
+\vfill
+
+% Author
+$if(author)$
+{\Large $author$}
+$else$
+{\Large Jim Xiao}
+$endif$
+
+\vspace{0.5cm}
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize 2025年12月}
+$endif$
+
+\vspace{0.5cm}
+
+{\color{GoldAccent}\rule{3in}{1pt}}
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+\textbf{阿甘的投资备忘录}\\
+Jim's Investment Memo\\[0.8em]
+
+版权所有 \copyright\ \the\year\ Jim Xiao\\
+保留所有权利。\\[0.8em]
+
+\textbf{免责声明}\\
+本书内容仅供教育和信息目的，不构成投资建议。\\
+投资有风险，请在做出任何投资决定前咨询专业顾问。\\[0.8em]
+
+\textbf{三位导师}\\
+\textbullet\ 孙子 — 《孙子兵法》\\
+\textbullet\ Benjamin Graham — 《聪明的投资者》\\
+\textbullet\ 圣经 — 古老智慧
+
+\end{flushleft}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{2.5cm}
+\begin{center}
+\Large\itshape\color{WisdomBrown}
+献给妈妈\\[0.8cm]
+\normalsize
+她用一锅 Gumbo\\
+教会我什么是真正的投资
+\end{center}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterRed}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+\end{document}

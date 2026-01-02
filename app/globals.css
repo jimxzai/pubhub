@@ -1,6 +1,30 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
+@plugin "@tailwindcss/typography";
+
+/* Tailwind 4 CSS-first theme configuration */
+@theme {
+  /* Gospel of John theme colors */
+  --color-primary-50: #fdf8f6;
+  --color-primary-100: #f2e8e5;
+  --color-primary-200: #eaddd7;
+  --color-primary-300: #e0cec7;
+  --color-primary-400: #d2bab0;
+  --color-primary-500: #bfa094;
+  --color-primary-600: #a18072;
+  --color-primary-700: #977669;
+  --color-primary-800: #846358;
+  --color-primary-900: #43302b;
+
+  /* Scripture highlight colors */
+  --color-scripture-light: #fefce8;
+  --color-scripture: #fef08a;
+  --color-scripture-dark: #ca8a04;
+
+  /* Font families */
+  --font-chinese: 'Noto Serif TC', serif;
+  --font-english: 'Crimson Text', serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
 
 :root {
   --foreground-rgb: 31, 41, 55;
@@ -19,12 +43,30 @@ body {
 
 /* Chinese typography */
 .chinese-text {
-  font-family: 'Noto Serif TC', serif;
+  font-family: var(--font-chinese);
   line-height: 1.8;
 }
 
 /* English typography */
 .english-text {
-  font-family: 'Crimson Text', serif;
+  font-family: var(--font-english);
   line-height: 1.6;
+}
+
+/* Typography prose customization */
+.prose {
+  max-width: 80ch;
+}
+
+.prose a {
+  color: var(--color-primary-800);
+}
+
+.prose a:hover {
+  color: var(--color-primary-900);
+}
+
+.prose blockquote {
+  border-left-color: var(--color-primary-800);
+  font-style: italic;
 }

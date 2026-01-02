@@ -99,6 +99,16 @@ const CONFIG = {
       engine: 'xelatex',
       description: 'Professional Epistle to the Hebrews study book'
     },
+    'advisory-zh': {
+      template: 'advisory-zh.latex',
+      engine: 'xelatex',
+      description: 'Investment advisory book - Chinese (阿甘的投资备忘录)'
+    },
+    'advisory-en': {
+      template: 'advisory-en.latex',
+      engine: 'xelatex',
+      description: 'Investment advisory book - English (Jim\'s Investment Memo)'
+    },
     'gospel-of-luke': {
       template: 'gospel-of-luke.latex',
       engine: 'xelatex',
@@ -508,7 +518,7 @@ function main() {
   console.log('');
 
   if (inputStat.isDirectory()) {
-    const dirFormats = ['book', 'genesis', 'samuel-chronicles', 'gospel-of-john', 'gospel-of-matthew', 'gospel-of-mark', 'gospel-of-luke', 'acts', '1-peter', '2-peter', 'pauline-epistles', 'james', 'johannine-epistles', 'revelation', 'hebrews'];
+    const dirFormats = ['book', 'genesis', 'samuel-chronicles', 'gospel-of-john', 'gospel-of-matthew', 'gospel-of-mark', 'gospel-of-luke', 'acts', '1-peter', '2-peter', 'pauline-epistles', 'james', 'johannine-epistles', 'revelation', 'hebrews', 'advisory-zh', 'advisory-en'];
     if (!dirFormats.includes(options.format)) {
       console.error('Error: Directory input only supported for book-style formats');
       process.exit(1);

@@ -1,229 +1,71 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
-  "projectName": "Three Books Publishing System",
-  "description": "7年三書精讀出版系統 | MVP: 約翰福音研讀",
-  "version": "2.0.0",
-  "startDate": "2025-11-29",
-  "endDate": "2032-11-29",
 
-  "mvp": {
-    "name": "Gospel of John Study",
-    "focus": "約翰福音 21 章深度研讀",
-    "principle": "Truly Go Deeper — 寧深不廣",
-    "coreResources": {
-      "elderWong": {
-        "name": "黃長老 (Elder Wong)",
-        "type": "第一手教導",
-        "materials": ["週四查經班 Zoom 錄影", "查經筆記與大綱"],
-        "priority": 1
-      },
-      "gty": {
-        "name": "Grace to You",
-        "author": "John MacArthur",
-        "url": "https://www.gty.org",
-        "materials": ["約翰福音講道系列", "MacArthur Study Bible"],
-        "priority": 2
-      },
-      "campbellMorgan": {
-        "name": "G. Campbell Morgan",
-        "title": "解經王子 (Prince of Expositors)",
-        "work": "The Gospel According to John (1909)",
-        "method": "屬靈組織 (Spiritual Organization) 分析法",
-        "priority": 3
-      }
-    },
-    "bibleVersions": {
-      "chinese": {
-        "primary": "和合本修訂版 (RCUV)",
-        "reference": ["新譯本 (CNV)", "呂振中譯本"]
-      },
-      "english": {
-        "primary": "ESV (English Standard Version)",
-        "reference": ["NIV", "NASB", "NET Bible"]
-      },
-      "greek": ["NA28", "UBS5"]
-    },
-    "dailyRhythm": {
-      "morning": {
-        "duration": "45-60分鐘",
-        "steps": [
-          "禱告預備 (5分鐘)",
-          "經文朗讀 RCUV + ESV (10分鐘)",
-          "黃長老教導 (15分鐘)",
-          "MacArthur 講道/注釋 (10分鐘)",
-          "Campbell Morgan 洞見 (10分鐘)",
-          "筆記記錄 (5分鐘)"
+  "model": "sonnet",
+  "alwaysThinkingEnabled": false,
+
+  "permissions": {
+    "allow": [
+      "Bash(pnpm:*)",
+      "Bash(node:*)",
+      "Bash(npx:*)",
+      "Bash(git:*)",
+      "Bash(nvm:*)",
+      "Bash(source:*)",
+      "Bash(pandoc:*)",
+      "Bash(xelatex:*)",
+      "Bash(pdflatex:*)",
+      "Bash(tlmgr:*)",
+      "Bash(kpsewhich:*)",
+      "Bash(fc-list:*)",
+      "Bash(wc:*)",
+      "Bash(tree:*)",
+      "Bash(ls:*)",
+      "Bash(du:*)",
+      "Bash(mkdir:*)",
+      "Bash(chmod:*)",
+      "Bash(open:*)",
+      "Bash(lsof:*)",
+      "Bash(timeout:*)",
+      "WebSearch"
+    ],
+    "deny": [
+      "Bash(rm -rf:*)",
+      "Bash(sudo rm:*)",
+      "Read(./.env)",
+      "Read(./.env.local)"
+    ]
+  },
+
+  "env": {
+    "NODE_ENV": "development"
+  },
+
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '✓ 三書精讀出版系統 v3.0 ready' && echo \"Today: $(date '+%Y-%m-%d')\" && git status --short 2>/dev/null | head -5"
+          }
         ]
-      },
-      "evening": {
-        "duration": "15分鐘",
-        "steps": ["回顧經文", "反思應用", "禱告回應"]
       }
-    }
-  },
-
-  "techStack": {
-    "framework": "Next.js 16.1",
-    "bundler": "Turbopack (stable, with file system caching)",
-    "packageManager": "pnpm",
-    "language": "TypeScript",
-    "styling": "Tailwind CSS",
-    "deployment": "Vercel (planned)"
-  },
-
-  "contextRules": {
-    "projectContext": [
-      "這是一個7年（2557天）的長期知識積累項目",
-      "MVP 專注於約翰福音 21 章深度研讀",
-      "核心資源：黃長老教導 + gty.org + Campbell Morgan",
-      "每日靈修節奏：早晨 45-60分鐘，晚間 15分鐘",
-      "輸出語言：繁體中文為主，關鍵術語中英對照"
     ],
-    "bookContext": {
-      "gospel-of-john": {
-        "fullName": "約翰福音",
-        "englishName": "The Gospel According to John",
-        "chapters": 21,
-        "authorityVersion": "和合本修訂版 (RCUV)",
-        "englishTranslation": "ESV",
-        "focus": "道 (Logos)、生命、榮耀",
-        "structure": {
-          "prologue": "1:1-18 (道的本質)",
-          "publicMinistry": "1:19-12:50 (神蹟與講論)",
-          "privateTeaching": "13-17 (馬可樓上講論)",
-          "passionResurrection": "18-21 (受難與復活)"
-        },
-        "themes": {
-          "sevenSigns": ["水變酒", "醫治大臣之子", "醫治瘸腿者", "五餅二魚", "海面行走", "醫治生來瞎眼者", "拉撒路復活"],
-          "sevenIAm": ["生命的糧", "世界的光", "羊的門", "好牧人", "復活/生命", "道路/真理/生命", "真葡萄樹"]
-        }
-      },
-      "sunzi": {
-        "fullName": "孫子兵法",
-        "englishName": "The Art of War",
-        "chapters": 13,
-        "authorityVersion": "十一家注本",
-        "status": "Phase 2"
-      },
-      "zizhi-tongjian": {
-        "fullName": "資治通鑑",
-        "englishName": "Comprehensive Mirror in Aid of Governance",
-        "volumes": 294,
-        "status": "Phase 3"
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "prettier --write \"$CLAUDE_FILE_PATH\" 2>/dev/null || true"
+          },
+          {
+            "type": "command",
+            "command": "if [[ \"$CLAUDE_FILE_PATH\" == *.md ]]; then wc -w \"$CLAUDE_FILE_PATH\" 2>/dev/null | awk '{print \"📝 Word count: \" $1}'; fi"
+          }
+        ]
       }
-    }
-  },
-
-  "writingStandards": {
-    "dailyNote": {
-      "minWords": 300,
-      "maxWords": 500,
-      "requiredSections": [
-        "今日經文 (中英對照)",
-        "黃長老教導要點",
-        "MacArthur/Morgan 洞見",
-        "生命應用"
-      ],
-      "tone": "敬虔但不做作，深刻但可親近",
-      "noEmojis": true,
-      "citationRequired": true
-    },
-    "weeklySummary": {
-      "minWords": 1000,
-      "maxWords": 2000,
-      "requiredSections": [
-        "本週核心主題",
-        "經文金句精選",
-        "屬靈組織分析",
-        "下週研讀計劃"
-      ]
-    },
-    "monthlyReport": {
-      "minWords": 5000,
-      "maxWords": 7000,
-      "requiredSections": [
-        "本月經文總結",
-        "神學要點整理",
-        "生命應用反思",
-        "下月研讀展望"
-      ]
-    }
-  },
-
-  "agentBehaviorRules": {
-    "masterEditor": {
-      "priority": "客觀評估，不過度讚美",
-      "scoring": "1-5分制，嚴格標準",
-      "feedback": "具體、可執行、有深度"
-    },
-    "annotator": {
-      "citationAccuracy": "必須核對原文，不可杜撰",
-      "sources": ["黃長老筆記", "gty.org", "Campbell Morgan", "歷代注疏"],
-      "bilingualRequired": true
-    },
-    "aiStrategist": {
-      "caseMustBeReal": "只使用真實的AI事件，不可虛構",
-      "timeRange": "2020-2035",
-      "depth": "不僅描述現象，更要分析底層原理"
-    },
-    "proofreader": {
-      "strictness": "high",
-      "preserveVoice": "保持作者原有語言風格",
-      "factCheck": "核對所有聖經引文和注疏引用"
-    },
-    "publisher": {
-      "integration": "注重內容的內在邏輯，而非簡單拼接",
-      "quality": "寧缺毋濫，質量優先於數量"
-    }
-  },
-
-  "forbiddenPatterns": {
-    "language": [
-      "避免空洞的溢美之詞",
-      "避免過度使用emoji",
-      "避免AI腔調套話",
-      "避免杜撰聖經內容或注疏"
-    ],
-    "content": [
-      "不杜撰經文引用",
-      "不編造歷代注疏",
-      "不過度簡化神學概念",
-      "不脫離經文過度發揮"
     ]
-  },
-
-  "qualityChecklist": {
-    "beforePublish": [
-      "聖經引文是否準確？(RCUV/ESV)",
-      "中英對照是否完整？",
-      "注疏引用是否可查證？",
-      "邏輯是否連貫？",
-      "是否有屬靈洞見（而非常識）？",
-      "是否符合 MVP 焦點？"
-    ]
-  },
-
-  "fileNamingConvention": {
-    "dailyNote": "YYYY-MM-DD.md",
-    "weeklySummary": "YYYY-WNN-weekly.md",
-    "monthlyReport": "YYYY-MM-monthly.md",
-    "studyNote": "NN-ch{chapter}-{topic}.md"
-  },
-
-  "gitCommitRules": {
-    "dailyNote": "📝 Daily note: YYYY-MM-DD",
-    "weeklySummary": "📊 Weekly summary: YYYY-WNN",
-    "monthlyReport": "📖 Monthly report: YYYY-MM",
-    "studyNote": "📚 Study note: John {chapter}",
-    "systemUpdate": "🔧 Config: description",
-    "feature": "✨ Feature: description",
-    "fix": "🐛 Fix: description"
-  },
-
-  "customInstructions": {
-    "whenHelpingWithStudy": "優先參考黃長老教導，結合 gty.org 和 Campbell Morgan",
-    "whenQuotingScripture": "必須使用 RCUV 中文和 ESV 英文",
-    "whenProvidingAnnotation": "提供可查證的注疏來源",
-    "whenAnalyzingStructure": "使用 Campbell Morgan 的屬靈組織分析法"
   }
 }

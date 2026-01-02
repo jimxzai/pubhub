@@ -1,0 +1,190 @@
+% Silicon Valley Life Book Template - Minimal Version
+% 硅谷生活 - 专业书籍排版
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openright,twoside]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use macOS system fonts that support CJK
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{PingFang SC}
+
+% Enable CJK line breaking
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% Page geometry - book format (6x9 inches)
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.875in,
+  outer=0.625in
+}
+
+% Line spacing
+\linespread{1.2}
+
+% Colors
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{139,69,19}
+\definecolor{quotecolor}{RGB}{85,85,85}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=blue,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Math symbols (for checkboxes)
+\usepackage{amssymb}
+
+% Tables - basic support
+\usepackage{longtable}
+\usepackage{array}
+
+% Define booktabs commands if not available
+\providecommand{\toprule}{\hline\hline}
+\providecommand{\midrule}{\hline}
+\providecommand{\bottomrule}{\hline\hline}
+\providecommand{\endhead}{}
+\providecommand{\endfirsthead}{}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Chapter styling (without titlesec)
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \huge\bfseries\color{chaptercolor} \@chapapp\space \thechapter
+        \par\nobreak
+        \vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \Huge \bfseries \color{chaptercolor} #1\par\nobreak
+    \vskip 40\p@
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \Huge \bfseries \color{chaptercolor} #1\par\nobreak
+    \vskip 40\p@
+  }}
+\makeatother
+
+% Section styling (without titlesec)
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-3.5ex \@plus -1ex \@minus -.2ex}%
+  {2.3ex \@plus.2ex}%
+  {\normalfont\Large\bfseries\color{chaptercolor}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-3.25ex\@plus -1ex \@minus -.2ex}%
+  {1.5ex \@plus .2ex}%
+  {\normalfont\large\bfseries}}
+\makeatother
+
+% Quote styling (simple)
+\renewenvironment{quote}{%
+  \list{}{\leftmargin=2em\rightmargin=2em}%
+  \item\relax\itshape\color{quotecolor}%
+}{%
+  \endlist
+}
+
+% Widow and orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Metadata
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Front matter
+\frontmatter
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{1.5cm}
+\begin{center}
+{\Huge\sffamily\bfseries\color{chaptercolor} 硅谷生活}\\[0.8cm]
+{\Large\sffamily Silicon Valley Life}\\[1.5cm]
+{\large\itshape 在湾区生活、养娃、寻找社区}\\[0.5cm]
+{\large\itshape Living, Raising Kids, and Finding Community in the Bay Area}\\[3cm]
+{\Large\sffamily 硅谷阿甘}\\[0.5cm]
+{\normalsize Silicon Valley Forrest Gump Series · Book 4}\\[0.3cm]
+{\normalsize 硅谷阿甘系列 · 第四本}
+\vfill
+{\large 2025年12月}
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small
+《硅谷生活》\\
+Silicon Valley Life\\[0.5cm]
+硅谷阿甘系列 · 第四本\\
+Silicon Valley Forrest Gump Series · Book 4\\[1cm]
+版本：v0.1 (审阅稿)\\
+Version: v0.1 (Review Draft)\\[0.5cm]
+日期：2025年12月\\[1cm]
+\textit{本书仅供审阅，请勿传播}\\
+\textit{For review only, please do not distribute}
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\tableofcontents
+\cleardoublepage
+
+% Main matter
+\mainmatter
+
+$body$
+
+\end{document}

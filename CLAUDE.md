@@ -3,9 +3,11 @@
 ## Project Overview
 
 **Project Name**: 三書精讀出版系統 (Three Books Deep Reading & Publishing System)
-**Primary Focus (MVP)**: 約翰福音研讀 (Gospel of John Study)
+**Primary Focus (MVP)**: 約翰福音研讀 (Gospel of John Study) ✅ COMPLETE
+**Current Phase**: Phase 4 - Expansion (Luke, Acts, Johannine Epistles)
 **Timeline**: 7-year plan (2025-2032)
-**Tech Stack**: Next.js 16.1 + Turbopack + pnpm + Claude AI
+**Tech Stack**: Next.js 16.1 + Tailwind 4 + Turbopack + pnpm + Claude AI
+**Version**: 3.0.0
 
 ---
 
@@ -42,7 +44,7 @@ pnpm test:coverage    # Run tests with coverage
 ```
 pubhub/
 ├── CLAUDE.md                    # This file: Project instructions
-├── package.json                 # pnpm + Next.js 15.1
+├── package.json                 # pnpm + Next.js 16.1 + Tailwind 4
 ├── next.config.ts              # Turbopack configuration
 ├── pnpm-lock.yaml              # pnpm lockfile
 ├── .npmrc                      # pnpm settings
@@ -75,6 +77,12 @@ pubhub/
 │   ├── sunzi/                  # 孫子兵法
 │   ├── zizhi-tongjian/         # 資治通鑑
 │   └── bible/                  # 聖經
+│       ├── gospel-of-john/     # ✅ 約翰福音 (21 chapters complete)
+│       ├── gospel-of-luke/     # 路加福音
+│       ├── acts/               # 使徒行傳
+│       ├── johannine-epistles/ # 約翰書信
+│       ├── james/              # 雅各書
+│       └── ...
 │
 ├── templates/                  # Markdown templates
 ├── scripts/                    # Automation scripts
@@ -116,6 +124,19 @@ pubhub/
 └── 禱告回應
 ```
 
+### Gospel of John Structure
+
+| Part | Chapters | Theme |
+|------|----------|-------|
+| 序言 | 1:1-18 | 道的本質 |
+| 公開事工 | 1:19-12:50 | 神蹟與講論 |
+| 私下教導 | 13-17 | 馬可樓上講論 |
+| 受難復活 | 18-21 | 榮耀的高峰 |
+
+**七個神蹟**: 水變酒、醫大臣子、醫瘸腿、五餅二魚、海面行走、醫瞎眼、拉撒路復活
+
+**七個「我是」**: 生命的糧、世界的光、羊的門、好牧人、復活/生命、道路/真理/生命、真葡萄樹
+
 ---
 
 ## Coding Standards
@@ -133,6 +154,15 @@ pubhub/
 - Utilities: `camelCase.ts`
 - Constants: `SCREAMING_SNAKE_CASE`
 - Markdown: `kebab-case.md`
+
+### Content File Naming
+
+| Type | Pattern | Example |
+|------|---------|---------|
+| Daily Note | `YYYY-MM-DD.md` | `2026-01-01.md` |
+| Weekly Summary | `YYYY-WNN-weekly.md` | `2026-W01-weekly.md` |
+| Monthly Report | `YYYY-MM-monthly.md` | `2026-01-monthly.md` |
+| Study Note | `NN-chX-topic.md` | `01-ch1-prologue.md` |
 
 ### Imports
 
@@ -157,7 +187,9 @@ import { cn } from '@/lib/utils'
 
 - **Format**: `約 1:1` or `John 1:1`
 - **Chinese Primary**: 和合本修訂版 (RCUV)
-- **English Primary**: ESV
+- **Chinese Reference**: 新譯本 (CNV), 呂振中譯本
+- **English Primary**: ESV (English Standard Version)
+- **English Reference**: NIV, NASB, NET Bible
 - **Greek Reference**: NA28, UBS5
 
 ### Commentary Citations
@@ -166,12 +198,29 @@ import { cn } from '@/lib/utils'
 - Include author, work, page/section
 - Format: `**[Author]**: "[Quote]" — [Source]`
 
+### Writing Standards
+
+| Type | Word Count | Key Sections |
+|------|-----------|--------------|
+| Daily Note | 300-500 | 經文、教導要點、洞見、應用 |
+| Weekly Summary | 1000-2000 | 核心主題、金句、跨書關聯、下週計劃 |
+| Monthly Report | 5000-7000 | 經文總結、神學要點、生命應用、展望 |
+
+### Agent Behavior Rules
+
+- **總編輯**: 客觀評估，1-5分制，不過度讚美
+- **注疏師**: 必須核對原文，不可杜撰，標明出處
+- **AI戰略家**: 只使用真實AI事件，不可虛構
+- **校對神**: 高標準，保持作者語言風格，核對所有引文
+- **出書總管**: 注重內容邏輯，質量優先於數量
+
 ### Forbidden
 
-- Fabricated Scripture quotes
-- Unverifiable commentary
-- Empty spiritual jargon
-- AI-generated filler content
+- Fabricated Scripture quotes (不杜撰經文)
+- Unverifiable commentary (不編造注疏)
+- Empty spiritual jargon (避免空洞套話)
+- AI-generated filler content (避免AI腔調)
+- Excessive emojis (避免過度使用emoji)
 
 ---
 
@@ -230,5 +279,17 @@ NEXT_PUBLIC_SITE_URL=http://localhost:3000
 
 ---
 
-**Last Updated**: 2025-12-28
+## Quality Checklist (Before Publish)
+
+- [ ] 聖經引文是否準確？(RCUV/ESV)
+- [ ] 中英對照是否完整？
+- [ ] 注疏引用是否可查證？
+- [ ] 邏輯是否連貫？
+- [ ] 是否有屬靈洞見（而非常識）？
+- [ ] 是否符合 MVP 焦點？
+- [ ] 格式是否符合規範？
+
+---
+
+**Last Updated**: 2026-01-01
 **Maintained By**: Jim Xiao

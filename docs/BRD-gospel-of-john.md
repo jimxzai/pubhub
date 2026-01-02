@@ -1,8 +1,8 @@
 # Business Requirements Document (BRD)
 ## 生命之道 — 約翰福音研讀項目
 
-**Version**: 2.0
-**Date**: 2025-12-28
+**Version**: 3.0
+**Date**: 2026-01-01
 **Project Name**: Thursday Wong Gospel of John Study
 **Document Status**: Active MVP
 
@@ -222,33 +222,42 @@ Morgan 強調理解約翰福音的 **屬靈邏輯**:
 
 ## 7. Deliverables
 
-### 7.1 Phase 1: Foundation (Current)
+### 7.1 Phase 1: Foundation ✅ COMPLETE
 - [x] 項目說明文件 (CLAUDE.md)
 - [x] 主題簡介 (第一課)
 - [x] 約翰福音 1:1-18 (序言)
 - [x] 約翰福音 1:19-51
-- [ ] 約翰福音 2-3 章
-- [ ] BRD/PRD 文檔
+- [x] 約翰福音 2-3 章
+- [x] BRD/PRD 文檔
 
-### 7.2 Phase 2: Core Content
-- [ ] 七個神蹟深度研讀
-- [ ] 七個「我是」宣告分析
-- [ ] 馬可樓上講論 (13-17章)
+### 7.2 Phase 2: Core Content ✅ COMPLETE
+- [x] 七個神蹟深度研讀 (Ch 2, 4, 5, 6, 9, 11)
+- [x] 七個「我是」宣告分析 (Ch 6, 8, 10, 11, 14, 15)
+- [x] 馬可樓上講論 (13-17章)
+- [x] 公開事工 (Ch 7-12 衝突與講論)
 
-### 7.3 Phase 3: Completion
-- [ ] 受難與復活敘事 (18-21章)
-- [ ] 全書總結與索引
-- [ ] 出版準備
+### 7.3 Phase 3: Completion ✅ COMPLETE
+- [x] 受難與復活敘事 (18-21章)
+- [x] 全書總結與索引 (complete-book.md)
+- [x] 出版準備 (books/bible/gospel-of-john/)
+
+### 7.4 Phase 4: Expansion (In Progress)
+- [x] 約翰書信 (1-3 John)
+- [x] 路加福音 (Gospel of Luke)
+- [x] 使徒行傳 (Acts)
+- [x] 雅各書 (James)
+- [ ] 其他書卷 (Genesis, Matthew, Revelation - 部分完成)
 
 ---
 
 ## 8. Timeline
 
-| Phase | Content | Target |
+| Phase | Content | Status |
 |-------|---------|--------|
-| Phase 1 | Ch 1-4 + 框架 | 完成 |
-| Phase 2 | Ch 5-12 (神蹟與講論) | 進行中 |
-| Phase 3 | Ch 13-21 (受難復活) | 待啟動 |
+| Phase 1 | Ch 1-4 + 框架 | ✅ 完成 |
+| Phase 2 | Ch 5-12 (神蹟與講論) | ✅ 完成 |
+| Phase 3 | Ch 13-21 (受難復活) | ✅ 完成 |
+| Phase 4 | 約翰書信 + 其他書卷 | 🚧 進行中 |
 
 ---
 
@@ -361,3 +370,4 @@ Morgan 強調理解約翰福音的 **屬靈邏輯**:
 |---------|------|--------|---------|
 | 1.0 | 2025-12-28 | Claude Code | Initial draft |
 | 2.0 | 2025-12-28 | Claude Code | MVP focus: gty.org + Campbell Morgan, 每日靈修節奏 |
+| 3.0 | 2026-01-01 | Claude Code | 更新進度：Gospel of John MVP 完成，Phase 4 擴展中 |
