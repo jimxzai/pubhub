@@ -6,7 +6,14 @@
       "Bash(grep:*)",
       "Bash(cat:*)",
       "Bash(xargs:*)",
-      "mcp__claude-in-chrome__*"
+      "mcp__claude-in-chrome__*",
+      "Bash(done)",
+      "Skill(publish)",
+      "Bash(/Applications/Google\\\\ Chrome.app/Contents/MacOS/Google\\\\ Chrome:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-pdf-working.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-pdf-premium.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-pdf-original.sh)",
+      "WebFetch(domain:ai-eden.com)"
     ]
   }
 }
