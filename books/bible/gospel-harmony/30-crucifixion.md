@@ -23,13 +23,13 @@ scripture: 馬太福音 27:27-56; 馬可福音 15:16-41; 路加福音 23:26-49; 
 
 | 序 | 話語 | 經文 |
 |---|------|------|
-| 1 | 「父啊，赦免他們！因為他們所做的，他們不知道。」 | 路23:34 |
-| 2 | 「我實在告訴你，今日你要同我在樂園裏了。」 | 路23:43 |
-| 3 | 「母親，看，你的兒子！...看，你的母親！」 | 約19:26-27 |
-| 4 | 「我的神！我的神！為甚麼離棄我？」 | 太27:46 |
-| 5 | 「我渴了。」 | 約19:28 |
-| 6 | 「成了！」 | 約19:30 |
-| 7 | 「父啊，我將我的靈魂交在你手裏。」 | 路23:46 |
+| 1 | <red>「父啊，赦免他們！因為他們所做的，他們不知道。」</red> | 路23:34 |
+| 2 | <red>「我實在告訴你，今日你要同我在樂園裏了。」</red> | 路23:43 |
+| 3 | <red>「母親，看，你的兒子！...看，你的母親！」</red> | 約19:26-27 |
+| 4 | <red>「我的神！我的神！為甚麼離棄我？」</red> | 太27:46 |
+| 5 | <red>「我渴了。」</red> | 約19:28 |
+| 6 | <red>「成了！」</red> | 約19:30 |
+| 7 | <red>「父啊，我將我的靈魂交在你手裏。」</red> | 路23:46 |
 
 ---
 
@@ -37,11 +37,11 @@ scripture: 馬太福音 27:27-56; 馬可福音 15:16-41; 路加福音 23:26-49; 
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^28^這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，就說：「我渴了。」^29^有一個盛滿了醋的罐子放在那裏，他們就拿海綿蘸滿了醋，綁在牛膝草上，送到他口邊。^30^耶穌嘗了那醋，就說：「成了！」便低下頭，將靈魂交付神了。
+> ^28^這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，就說：<red>「我渴了。」</red>^29^有一個盛滿了醋的罐子放在那裏，他們就拿海綿蘸滿了醋，綁在牛膝草上，送到他口邊。^30^耶穌嘗了那醋，就說：<red>「成了！」</red>便低下頭，將靈魂交付神了。
 
-#### English — ESV
+#### English — NKJV
 
-> ^28^After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), "I thirst." ^29^A jar full of sour wine stood there, so they put a sponge full of the sour wine on a hyssop branch and held it to his mouth. ^30^When Jesus had received the sour wine, he said, "It is finished," and he bowed his head and gave up his spirit.
+> ^28^After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, <red>"I thirst!"</red> ^29^Now a vessel full of sour wine was sitting there; and they filled a sponge with sour wine, put it on hyssop, and put it to His mouth. ^30^So when Jesus had received the sour wine, He said, <red>"It is finished!"</red> And bowing His head, He gave up His spirit.
 
 ---
 

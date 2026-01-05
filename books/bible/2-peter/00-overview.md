@@ -18,7 +18,7 @@ publisher: 三書精讀出版系統
 
 ### 寫作目的
 
-**約翰·麥克乾瑟 (John MacArthur)**：
+**約翰·麥克阿瑟 (John MacArthur)**：
 > 「彼得前書是為幫助受苦的基督徒而寫。彼得後書是為揭露假教師而寫。」
 > — *Grace to You*
 

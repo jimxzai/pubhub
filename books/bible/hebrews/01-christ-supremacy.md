@@ -205,7 +205,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「希伯來書1:3是聖經中對基督神性最完整的宣告之一。在這一節經文中，我們看見基督的本質、工作和地位——祂是神、是創造主、是救贖主、是宇宙的維持者、是得勝的君王。」
 > — *MacArthur New Testament Commentary: Hebrews*

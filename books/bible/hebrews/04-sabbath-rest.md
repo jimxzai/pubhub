@@ -246,7 +246,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「4:12的神的『道』(*logos*) 主要指聖經，但最終指向基督自己——祂是神活的話語。聖經之所以有能力，因為它是基督的啟示。」
 > — *MacArthur New Testament Commentary: Hebrews*

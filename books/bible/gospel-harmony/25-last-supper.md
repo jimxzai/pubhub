@@ -17,7 +17,7 @@ scripture: 馬太福音 26:17-30; 馬可福音 14:12-26; 路加福音 22:7-38; �
 
 > ^1^逾越節以前，耶穌知道自己離開這世界回到父那裏去的時候到了。他既然愛世間屬自己的人，就愛他們到底。^2^吃晚飯的時候，魔鬼已把出賣耶穌的意思放在西門的兒子加略人猶大心裏。^3^耶穌知道父已把萬有交在他手裏，並知道自己是從神而來，又要回到神那裏去，^4^就離席站起來，脫了外衣，拿一條毛巾束腰，^5^隨後把水倒在盆裏，開始洗門徒的腳，並用束腰的毛巾擦乾。
 
-> ^12^耶穌洗完了他們的腳，就穿上外衣，再坐下來，對他們說：「我對你們所做的，你們明白嗎？^13^你們稱呼我『老師』，稱呼我『主』，你們說得對，我本來就是。^14^我是你們的主，你們的老師，尚且洗你們的腳，你們也應當彼此洗腳。^15^我給你們作了榜樣，為要你們照着我對你們所做的去做。^16^我實實在在地告訴你們，僕人不能大於主人，奉差遣的也不能大於差他的人。^17^你們既知道這些事，若是去做就有福了。」
+> ^12^耶穌洗完了他們的腳，就穿上外衣，再坐下來，對他們說：<red>「我對你們所做的，你們明白嗎？^13^你們稱呼我『老師』，稱呼我『主』，你們說得對，我本來就是。^14^我是你們的主，你們的老師，尚且洗你們的腳，你們也應當彼此洗腳。^15^我給你們作了榜樣，為要你們照着我對你們所做的去做。^16^我實實在在地告訴你們，僕人不能大於主人，奉差遣的也不能大於差他的人。^17^你們既知道這些事，若是去做就有福了。」</red>
 
 ---
 
@@ -25,11 +25,11 @@ scripture: 馬太福音 26:17-30; 馬可福音 14:12-26; 路加福音 22:7-38; �
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^26^他們吃的時候，耶穌拿起餅來，祝福了，就擘開，遞給門徒，說：「你們拿去，吃吧！這是我的身體。」^27^他又拿起杯來，祝謝了，遞給他們，說：「你們都喝這個，^28^因為這是我立約的血，為許多人流出來，使罪得赦。^29^但我告訴你們，從今以後我不再喝這葡萄樹的果汁，直到我在我父的國裏同你們喝新的那日子。」
+> ^26^他們吃的時候，耶穌拿起餅來，祝福了，就擘開，遞給門徒，說：<red>「你們拿去，吃吧！這是我的身體。」</red>^27^他又拿起杯來，祝謝了，遞給他們，說：<red>「你們都喝這個，^28^因為這是我立約的血，為許多人流出來，使罪得赦。^29^但我告訴你們，從今以後我不再喝這葡萄樹的果汁，直到我在我父的國裏同你們喝新的那日子。」</red>
 
-#### English — ESV
+#### English — NKJV
 
-> ^26^Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, "Take, eat; this is my body." ^27^And he took a cup, and when he had given thanks he gave it to them, saying, "Drink of it, all of you, ^28^for this is my blood of the covenant, which is poured out for many for the forgiveness of sins. ^29^I tell you I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
+> ^26^And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, <red>"Take, eat; this is My body."</red> ^27^Then He took the cup, and gave thanks, and gave it to them, saying, <red>"Drink from it, all of you. ^28^For this is My blood of the new covenant, which is shed for many for the remission of sins. ^29^But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in My Father's kingdom."</red>
 
 ---
 

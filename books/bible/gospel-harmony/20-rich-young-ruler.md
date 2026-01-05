@@ -13,19 +13,19 @@ scripture: 馬太福音 19:16-30; 馬可福音 10:17-31; 路加福音 18:18-30
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^16^有一個人來見耶穌，說：「老師，我該做甚麼善事才能得永生？」^17^耶穌對他說：「你為甚麼以善事問我呢？只有一位是善的。你若要進入永生，就當遵守誡命。」^18^他說：「哪些誡命？」耶穌說：「就是不可殺人；不可姦淫；不可偷盜；不可作假見證；^19^當孝敬父母；又當愛鄰如己。」^20^那年輕人對他說：「這一切我都遵守了，還缺少甚麼呢？」^21^耶穌對他說：「你若願意作完全人，去變賣你所擁有的，分給窮人，就必有財寶在天上；然後來跟從我。」^22^那年輕人聽見這話，就憂憂愁愁地走了，因為他的財產很多。
+> ^16^有一個人來見耶穌，說：「老師，我該做甚麼善事才能得永生？」^17^耶穌對他說：<red>「你為甚麼以善事問我呢？只有一位是善的。你若要進入永生，就當遵守誡命。」</red>^18^他說：「哪些誡命？」耶穌說：<red>「就是不可殺人；不可姦淫；不可偷盜；不可作假見證；^19^當孝敬父母；又當愛鄰如己。」</red>^20^那年輕人對他說：「這一切我都遵守了，還缺少甚麼呢？」^21^耶穌對他說：<red>「你若願意作完全人，去變賣你所擁有的，分給窮人，就必有財寶在天上；然後來跟從我。」</red>^22^那年輕人聽見這話，就憂憂愁愁地走了，因為他的財產很多。
 
-> ^23^耶穌對門徒說：「我實在告訴你們，財主進天國是難的。^24^我再告訴你們，駱駝穿過針眼比財主進神的國還容易呢！」^25^門徒聽見這話就非常驚訝，說：「這樣誰能得救呢？」^26^耶穌看着他們，說：「在人這是不能的，在神凡事都能。」
+> ^23^耶穌對門徒說：<red>「我實在告訴你們，財主進天國是難的。^24^我再告訴你們，駱駝穿過針眼比財主進神的國還容易呢！」</red>^25^門徒聽見這話就非常驚訝，說：「這樣誰能得救呢？」^26^耶穌看着他們，說：<red>「在人這是不能的，在神凡事都能。」</red>
 
 #### 馬可福音 10:21 補充
 
 > 「耶穌看着他，就愛他，對他說...」
 
-### English — ESV
+### English — NKJV
 
-> ^16^And behold, a man came up to him, saying, "Teacher, what good deed must I do to have eternal life?" ^17^And he said to him, "Why do you ask me about what is good? There is only one who is good. If you would enter life, keep the commandments." ^18^He said to him, "Which ones?" And Jesus said, "You shall not murder, You shall not commit adultery, You shall not steal, You shall not bear false witness, ^19^Honor your father and mother, and, You shall love your neighbor as yourself." ^20^The young man said to him, "All these I have kept. What do I still lack?" ^21^Jesus said to him, "If you would be perfect, go, sell what you possess and give to the poor, and you will have treasure in heaven; and come, follow me." ^22^When the young man heard this he went away sorrowful, for he had great possessions.
+> ^16^Now behold, one came and said to Him, "Good Teacher, what good thing shall I do that I may have eternal life?" ^17^So He said to him, <red>"Why do you call Me good? No one is good but One, that is, God. But if you want to enter into life, keep the commandments."</red> ^18^He said to Him, "Which ones?" Jesus said, <red>"'You shall not murder,' 'You shall not commit adultery,' 'You shall not steal,' 'You shall not bear false witness,' ^19^'Honor your father and your mother,' and, 'You shall love your neighbor as yourself.'"</red> ^20^The young man said to Him, "All these things I have kept from my youth. What do I still lack?" ^21^Jesus said to him, <red>"If you want to be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow Me."</red> ^22^But when the young man heard that saying, he went away sorrowful, for he had great possessions.
 
-> ^23^And Jesus said to his disciples, "Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven. ^24^Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God." ^25^When the disciples heard this, they were greatly astonished, saying, "Who then can be saved?" ^26^But Jesus looked at them and said, "With man this is impossible, but with God all things are possible."
+> ^23^Then Jesus said to His disciples, <red>"Assuredly, I say to you that it is hard for a rich man to enter the kingdom of heaven. ^24^And again I say to you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God."</red> ^25^When His disciples heard it, they were greatly astonished, saying, "Who then can be saved?" ^26^But Jesus looked at them and said to them, <red>"With men this is impossible, but with God all things are possible."</red>
 
 ---
 

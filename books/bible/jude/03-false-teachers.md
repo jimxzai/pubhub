@@ -194,7 +194,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「猶大用六個生動的比喻描繪假教師。每一個比喻都強調一點：假教師外表看似有用，實則毫無價值。雲看似有雨卻無雨，樹看似會結果卻無果。這就是假教師——承諾多，兌現少。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*

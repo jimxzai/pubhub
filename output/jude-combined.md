@@ -39,7 +39,7 @@ publisher: 三書精讀出版系統
 
 ## 麥克乾瑟導論 (MacArthur's Introduction)
 
-**約翰·麥克乾瑟 (John MacArthur)** 在其猶大書注釋中指出：
+**約翰·麥克阿瑟 (John MacArthur)** 在其猶大書注釋中指出：
 
 > 「彼得警告信徒假教師將要進入教會敗壞許多人的信仰。不久之後，猶大宣布：『他們已經來了。』」
 
@@ -192,7 +192,7 @@ publisher: 三書精讀出版系統
 | 巴蘭之路 | v.11 | 2:15 |
 | 無水的井/雲 | v.12 | 2:17 |
 
-**麥克乾瑟評論**：「在同一卷書中，約翰·麥克乾瑟解釋了新約中兩段最清晰的呼召——為真理爭辯。」
+**麥克乾瑟評論**：「在同一卷書中，約翰·麥克阿瑟解釋了新約中兩段最清晰的呼召——為真理爭辯。」
 
 ---
 
@@ -447,7 +447,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『竭力爭辯』不是指好爭辯或好鬥的態度，而是指為真理站立的決心。這需要勇氣、犧牲、和對神話語的完全委身。在這個包容至上的時代，這樣的爭辯顯得格外需要。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*
@@ -678,7 +678,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「這三個歷史範例涵蓋了三個領域：神的選民、天使、外邦世界。猶大要說的是：沒有人可以逃避神的審判——無論你的身份、地位、或權柄有多高。假教師和跟隨他們的人必將面對同樣的命運。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*
@@ -948,7 +948,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「猶大用六個生動的比喻描繪假教師。每一個比喻都強調一點：假教師外表看似有用，實則毫無價值。雲看似有雨卻無雨，樹看似會結果卻無果。這就是假教師——承諾多，兌現少。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*
@@ -1193,7 +1193,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「猶大的四重命令構成了屬靈健康的處方：建造（真理）、禱告（聖靈）、保守（愛）、仰望（盼望）。這四個元素結合在一起，使信徒能抵擋假教師的影響，持守真道到底。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*
@@ -1458,7 +1458,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「這是新約最偉大的頌榮之一。在警告假教師、描述審判之後，猶大將我們的目光轉向神的能力與榮耀。這提醒我們：無論環境多麼黑暗，神仍然坐在寶座上，祂有能力保守祂的百姓直到末了。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*

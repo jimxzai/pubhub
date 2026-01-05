@@ -15,33 +15,33 @@ scripture: 馬太福音 24-25; 馬可福音 13; 路加福音 21:5-36
 
 #### 聖殿毀滅的預言（太24:1-2）
 
-> ^1^耶穌出了聖殿，正往前走的時候，門徒前來，把聖殿的建築指給他看。^2^耶穌對他們說：「你們不是看見這一切嗎？我實在告訴你們，這裏將沒有一塊石頭留在另一塊石頭上面不被拆毀的。」
+> ^1^耶穌出了聖殿，正往前走的時候，門徒前來，把聖殿的建築指給他看。^2^耶穌對他們說：<red>「你們不是看見這一切嗎？我實在告訴你們，這裏將沒有一塊石頭留在另一塊石頭上面不被拆毀的。」</red>
 
 #### 末世的預兆（太24:4-14）
 
-> ^4^耶穌回答他們：「你們要謹慎，免得有人迷惑你們。^5^因為將有許多人冒我的名來，說『我是基督』，並且要迷惑許多人。^6^你們將聽見戰爭和戰爭的風聲，不要驚慌！因為這些事必須發生，但這還不是終結。^7^民要攻打民，國要攻打國；多處必有飢荒、地震。^8^這一切不過是災難的起頭。」
+> ^4^耶穌回答他們：<red>「你們要謹慎，免得有人迷惑你們。^5^因為將有許多人冒我的名來，說『我是基督』，並且要迷惑許多人。^6^你們將聽見戰爭和戰爭的風聲，不要驚慌！因為這些事必須發生，但這還不是終結。^7^民要攻打民，國要攻打國；多處必有飢荒、地震。^8^這一切不過是災難的起頭。」</red>
 
-> ^14^「這天國的福音要傳遍天下，對萬民作見證，然後終結才來到。」
+> ^14^<red>「這天國的福音要傳遍天下，對萬民作見證，然後終結才來到。」</red>
 
 #### 人子再來（太24:29-31）
 
-> ^29^「那些日子的災難一過去，日頭就變黑了，月亮也不放光，星辰要從天上墜落，天上的萬象都要震動。^30^那時，人子的預兆要顯在天上，地上的萬族都要哀哭。他們要看見人子帶着能力和大榮耀，駕着天上的雲來臨。^31^他要差遣使者，用大聲的號角，把他的選民從四方，從天這邊到天那邊，都招聚了來。」
+> ^29^<red>「那些日子的災難一過去，日頭就變黑了，月亮也不放光，星辰要從天上墜落，天上的萬象都要震動。^30^那時，人子的預兆要顯在天上，地上的萬族都要哀哭。他們要看見人子帶着能力和大榮耀，駕着天上的雲來臨。^31^他要差遣使者，用大聲的號角，把他的選民從四方，從天這邊到天那邊，都招聚了來。」</red>
 
 #### 警醒的命令（太24:42-44）
 
-> ^42^「所以，你們要警醒，因為不知道你們的主哪一天來到。^43^家主若知道幾更天有盜賊來，他就會警醒，不讓人挖穿房屋；這是你們所知道的。^44^所以，你們也要預備，因為在你們想不到的時候，人子就來了。」
+> ^42^<red>「所以，你們要警醒，因為不知道你們的主哪一天來到。^43^家主若知道幾更天有盜賊來，他就會警醒，不讓人挖穿房屋；這是你們所知道的。^44^所以，你們也要預備，因為在你們想不到的時候，人子就來了。」</red>
 
-### English — ESV
+### English — NKJV
 
-> ^1^Jesus left the temple and was going away, when his disciples came to point out to him the buildings of the temple. ^2^But he answered them, "You see all these, do you not? Truly, I say to you, there will not be left here one stone upon another that will not be thrown down."
+> ^1^Then Jesus went out and departed from the temple, and His disciples came up to show Him the buildings of the temple. ^2^And Jesus said to them, <red>"Do you not see all these things? Assuredly, I say to you, not one stone shall be left here upon another, that shall not be thrown down."</red>
 
-> ^4^And Jesus answered them, "See that no one leads you astray. ^5^For many will come in my name, saying, 'I am the Christ,' and they will lead many astray. ^6^And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet. ^7^For nation will rise against nation, and kingdom against kingdom, and there will be famines and earthquakes in various places. ^8^All these are but the beginning of the birth pains."
+> ^4^And Jesus answered and said to them: <red>"Take heed that no one deceives you. ^5^For many will come in My name, saying, 'I am the Christ,' and will deceive many. ^6^And you will hear of wars and rumors of wars. See that you are not troubled; for all these things must come to pass, but the end is not yet. ^7^For nation will rise against nation, and kingdom against kingdom. And there will be famines, pestilences, and earthquakes in various places. ^8^All these are the beginning of sorrows."</red>
 
-> ^14^"And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come."
+> ^14^<red>"And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come."</red>
 
-> ^29^"Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven, and the powers of the heavens will be shaken. ^30^Then will appear in heaven the sign of the Son of Man, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory. ^31^And he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other."
+> ^29^<red>"Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of the heavens will be shaken. ^30^Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory. ^31^And He will send His angels with a great sound of a trumpet, and they will gather together His elect from the four winds, from one end of heaven to the other."</red>
 
-> ^42^"Therefore, stay awake, for you do not know on what day your Lord is coming. ^43^But know this, that if the master of the house had known in what part of the night the thief was coming, he would have stayed awake and would not have let his house be broken into. ^44^Therefore you also must be ready, for the Son of Man is coming at an hour you do not expect."
+> ^42^<red>"Watch therefore, for you do not know what hour your Lord is coming. ^43^But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into. ^44^Therefore you also be ready, for the Son of Man is coming at an hour you do not expect."</red>
 
 ---
 

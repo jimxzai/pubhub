@@ -274,7 +274,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「6:9是解開這段經文的鑰匙。作者說讀者的行為『與得救相稱』——暗示6:4-6描述的人行為『與得救不相稱』。真信徒會結出與得救相稱的果子；假信徒長出荊棘蒺藜。」
 > — *MacArthur New Testament Commentary: Hebrews*

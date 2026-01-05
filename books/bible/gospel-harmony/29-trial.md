@@ -27,7 +27,7 @@ scripture: 馬太福音 26:57-27:26; 馬可福音 14:53-15:15; 路加福音 22:5
 
 > ^59^祭司長和全公會尋找假見證控告耶穌，要置他於死地。^60^雖然有好些假證人上前來，仍找不着真憑實據。末後，有兩個人上前來，說：^61^「這個人曾說：『我能拆毀神的殿，三日內把它重建起來。』」
 
-> ^62^大祭司就站起來，對耶穌說：「你甚麼都不回答嗎？這些人作見證告你的是甚麼呢？」^63^耶穌卻不作聲。大祭司對他說：「我指着永生神命令你起誓告訴我們，你是不是基督，是神的兒子？」^64^耶穌對他說：「是的，正如你說的。然而，我告訴你們，後來你們要看見人子坐在權能者的右邊，駕着天上的雲來臨。」^65^大祭司就撕裂衣服，說：「他說了褻瀆的話，我們何必再找證人呢？這褻瀆的話，你們已經聽見了。^66^你們的意見如何？」他們回答：「他該死！」
+> ^62^大祭司就站起來，對耶穌說：「你甚麼都不回答嗎？這些人作見證告你的是甚麼呢？」^63^耶穌卻不作聲。大祭司對他說：「我指着永生神命令你起誓告訴我們，你是不是基督，是神的兒子？」^64^耶穌對他說：<red>「是的，正如你說的。然而，我告訴你們，後來你們要看見人子坐在權能者的右邊，駕着天上的雲來臨。」</red>^65^大祭司就撕裂衣服，說：「他說了褻瀆的話，我們何必再找證人呢？這褻瀆的話，你們已經聽見了。^66^你們的意見如何？」他們回答：「他該死！」
 
 ---
 
@@ -35,13 +35,13 @@ scripture: 馬太福音 26:57-27:26; 馬可福音 14:53-15:15; 路加福音 22:5
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^33^彼拉多又進了總督府，叫耶穌來，對他說：「你是猶太人的王嗎？」^36^耶穌回答：「我的國不屬於這世界；我的國若屬於這世界，我的部下就會為我爭戰，使我不致被交給猶太人。只是，我的國不是這世界的。」^37^彼拉多對他說：「那麼，你是王了？」耶穌回答：「你說我是王。我為此而生，也為此來到世界，為了給真理作見證。凡屬真理的人都聽我的話。」^38^彼拉多對他說：「真理是甚麼？」
+> ^33^彼拉多又進了總督府，叫耶穌來，對他說：「你是猶太人的王嗎？」^36^耶穌回答：<red>「我的國不屬於這世界；我的國若屬於這世界，我的部下就會為我爭戰，使我不致被交給猶太人。只是，我的國不是這世界的。」</red>^37^彼拉多對他說：「那麼，你是王了？」耶穌回答：<red>「你說我是王。我為此而生，也為此來到世界，為了給真理作見證。凡屬真理的人都聽我的話。」</red>^38^彼拉多對他說：「真理是甚麼？」
 
-> ^10^彼拉多對他說：「你不對我說話嗎？難道你不知道我有權柄釋放你，也有權柄把你釘十字架嗎？」^11^耶穌回答：「若不是從上面賜給你的，你就毫無權柄辦我。所以，把我交給你的那人罪更重。」
+> ^10^彼拉多對他說：「你不對我說話嗎？難道你不知道我有權柄釋放你，也有權柄把你釘十字架嗎？」^11^耶穌回答：<red>「若不是從上面賜給你的，你就毫無權柄辦我。所以，把我交給你的那人罪更重。」</red>
 
-### English — ESV
+### English — NKJV
 
-> ^36^Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world." ^37^Then Pilate said to him, "So you are a king?" Jesus answered, "You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice." ^38^Pilate said to him, "What is truth?"
+> ^36^Jesus answered, <red>"My kingdom is not of this world. If My kingdom were of this world, My servants would fight, so that I should not be delivered to the Jews; but now My kingdom is not from here."</red> ^37^Pilate therefore said to Him, "Are You a king then?" Jesus answered, <red>"You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice."</red> ^38^Pilate said to Him, "What is truth?"
 
 ---
 

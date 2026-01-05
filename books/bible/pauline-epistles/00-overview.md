@@ -450,7 +450,7 @@ publisher: 三書精讀出版系統
 
 ## 名家注疏精華 (Commentary Insights)
 
-### 約翰·麥克乾瑟 (John MacArthur)
+### 約翰·麥克阿瑟 (John MacArthur)
 
 **論因信稱義 (On Justification by Faith)**:
 

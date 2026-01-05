@@ -315,7 +315,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「10:26的『故意犯罪』必須在上下文中理解。這不是指信徒的任何罪，而是指完全棄絕基督——回到猶太教，否認基督的獻祭。這樣的人『再沒有贖罪的祭了』，因為他們已經拒絕了唯一的祭物。」
 > — *MacArthur New Testament Commentary: Hebrews*

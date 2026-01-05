@@ -15,7 +15,7 @@ scripture: 馬太福音 21:1-11; 馬可福音 11:1-11; 路加福音 19:28-44; �
 
 #### 馬太福音 21:1-11
 
-> ^1^耶穌和門徒快到耶路撒冷，進了橄欖山附近的伯法其，耶穌就打發兩個門徒，^2^對他們說：「你們往對面村子裏去，立刻會看見一匹驢拴在那裏，還有驢駒同在一起，解開牠們，牽到我這裏來。^3^若有人對你們說甚麼，你們就說：『主要用牠們。』他會立刻讓你們牽來。」^4^這事發生是要應驗先知所說的話：
+> ^1^耶穌和門徒快到耶路撒冷，進了橄欖山附近的伯法其，耶穌就打發兩個門徒，^2^對他們說：<red>「你們往對面村子裏去，立刻會看見一匹驢拴在那裏，還有驢駒同在一起，解開牠們，牽到我這裏來。^3^若有人對你們說甚麼，你們就說：『主要用牠們。』他會立刻讓你們牽來。」</red>^4^這事發生是要應驗先知所說的話：
 
 > ^5^「要對錫安的兒女說：
 > 看哪，你的王來到你這裏，
@@ -31,22 +31,22 @@ scripture: 馬太福音 21:1-11; 馬可福音 11:1-11; 路加福音 19:28-44; �
 
 #### 路加福音 19:41-44
 
-> ^41^耶穌快到耶路撒冷，看見那城，就為它哀哭，^42^說：「巴不得你在這日子知道有關你平安的事；無奈這事現在是隱藏的，你的眼睛看不出來。^43^因為日子將到，你的仇敵要築起土壘包圍你，四面困住你，^44^並要把你和你裏面的兒女都踏在地上。在你中間，他們不會留下一塊石頭在另一塊石頭上，因為你不知道你蒙眷顧的時候。」
+> ^41^耶穌快到耶路撒冷，看見那城，就為它哀哭，^42^說：<red>「巴不得你在這日子知道有關你平安的事；無奈這事現在是隱藏的，你的眼睛看不出來。^43^因為日子將到，你的仇敵要築起土壘包圍你，四面困住你，^44^並要把你和你裏面的兒女都踏在地上。在你中間，他們不會留下一塊石頭在另一塊石頭上，因為你不知道你蒙眷顧的時候。」</red>
 
-### English — ESV
+### English — NKJV
 
 #### Matthew 21:1-11
 
-> ^1^Now when they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples, ^2^saying to them, "Go into the village in front of you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me. ^3^If anyone says anything to you, you shall say, 'The Lord needs them,' and he will send them at once." ^4^This took place to fulfill what was spoken by the prophet, saying,
+> ^1^Now when they drew near Jerusalem, and came to Bethphage, at the Mount of Olives, then Jesus sent two disciples, ^2^saying to them, <red>"Go into the village opposite you, and immediately you will find a donkey tied, and a colt with her. Loose them and bring them to Me. ^3^And if anyone says anything to you, you shall say, 'The Lord has need of them,' and immediately he will send them."</red> ^4^All this was done that it might be fulfilled which was spoken by the prophet, saying:
 
-> ^5^"Say to the daughter of Zion,
-> 'Behold, your king is coming to you,
-> humble, and mounted on a donkey,
-> on a colt, the foal of a beast of burden.'"
+> ^5^"Tell the daughter of Zion,
+> 'Behold, your King is coming to you,
+> Lowly, and sitting on a donkey,
+> A colt, the foal of a donkey.'"
 
-> ^6^The disciples went and did as Jesus had directed them. ^7^They brought the donkey and the colt and put on them their cloaks, and he sat on them. ^8^Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. ^9^And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!"
+> ^6^So the disciples went and did as Jesus commanded them. ^7^They brought the donkey and the colt, laid their clothes on them, and set Him on them. ^8^And a very great multitude spread their clothes on the road; others cut down branches from the trees and spread them on the road. ^9^Then the multitudes who went before and those who followed cried out, saying: "Hosanna to the Son of David! 'Blessed is He who comes in the name of the LORD!' Hosanna in the highest!"
 
-> ^10^And when he entered Jerusalem, the whole city was stirred up, saying, "Who is this?" ^11^And the crowds said, "This is the prophet Jesus, from Nazareth of Galilee."
+> ^10^And when He had come into Jerusalem, all the city was moved, saying, "Who is this?" ^11^So the multitudes said, "This is Jesus, the prophet from Nazareth of Galilee."
 
 ---
 

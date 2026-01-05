@@ -264,7 +264,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「希伯來書8章是聖經中對新約最完整的解釋。作者告訴我們新約為什麼需要，新約如何成立，新約帶來什麼。這一章是理解舊約與新約關係的關鍵。」
 > — *MacArthur New Testament Commentary: Hebrews*

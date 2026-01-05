@@ -56,7 +56,7 @@ publisher: 三書精讀出版系統
 
 ### 2. 僕人基督 (Servant Christ)
 
-**約翰·麥克乾瑟 (John MacArthur)**：
+**約翰·麥克阿瑟 (John MacArthur)**：
 > 「馬可將耶穌呈現為『主的受苦僕人』（10:45）。他的焦點在於耶穌的行為而非教導，特別強調服事與犧牲。」
 > — *MacArthur Bible Commentary*
 

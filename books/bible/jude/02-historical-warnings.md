@@ -155,7 +155,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「這三個歷史範例涵蓋了三個領域：神的選民、天使、外邦世界。猶大要說的是：沒有人可以逃避神的審判——無論你的身份、地位、或權柄有多高。假教師和跟隨他們的人必將面對同樣的命運。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*

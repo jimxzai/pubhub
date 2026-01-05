@@ -285,7 +285,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「希伯來書11章不是教導我們信心的對象，而是教導我們信心的行動。每一個『因著信』都連接著一個動詞——信心不是靜態的相信，而是動態的順服。」
 > — *MacArthur New Testament Commentary: Hebrews*

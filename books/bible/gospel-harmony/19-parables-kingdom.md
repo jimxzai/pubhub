@@ -15,9 +15,9 @@ scripture: 馬太福音 13:1-52; 路加福音 15:1-32
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^3^耶穌用比喻對他們講許多事，說：「看哪，有一個撒種的出去撒種。^4^撒的時候，有的落在路旁，飛鳥來吃掉了。^5^有的落在土淺的石地上，因為土不深，很快就長起來；^6^太陽出來一曬，就枯乾了，因為沒有根。^7^有的落在荊棘裏，荊棘長起來，把它擠住了。^8^又有的落在好土裏，就結果實，有一百倍的，有六十倍的，有三十倍的。^9^有耳的，就應當聽！」
+> ^3^耶穌用比喻對他們講許多事，說：<red>「看哪，有一個撒種的出去撒種。^4^撒的時候，有的落在路旁，飛鳥來吃掉了。^5^有的落在土淺的石地上，因為土不深，很快就長起來；^6^太陽出來一曬，就枯乾了，因為沒有根。^7^有的落在荊棘裏，荊棘長起來，把它擠住了。^8^又有的落在好土裏，就結果實，有一百倍的，有六十倍的，有三十倍的。^9^有耳的，就應當聽！」</red>
 
-> ^18^「所以，你們要聽這撒種的比喻。^19^凡聽見天國的道理不明白的，那惡者就來，把撒在他心裏的奪了去，這就是撒在路旁的。^20^撒在土淺石地上的，就是人聽了道，立刻歡喜領受，^21^只是心裏沒有根，不過是暫時的，一旦為道遭受患難或迫害，立刻就跌倒了。^22^撒在荊棘裏的，就是人聽了道，後來有世上的憂慮和財富的迷惑把道擠住了，結不出果實。^23^撒在好土裏的，就是人聽了道明白了，結出果實來，有一百倍的，有六十倍的，有三十倍的。」
+> <red>^18^「所以，你們要聽這撒種的比喻。^19^凡聽見天國的道理不明白的，那惡者就來，把撒在他心裏的奪了去，這就是撒在路旁的。^20^撒在土淺石地上的，就是人聽了道，立刻歡喜領受，^21^只是心裏沒有根，不過是暫時的，一旦為道遭受患難或迫害，立刻就跌倒了。^22^撒在荊棘裏的，就是人聽了道，後來有世上的憂慮和財富的迷惑把道擠住了，結不出果實。^23^撒在好土裏的，就是人聽了道明白了，結出果實來，有一百倍的，有六十倍的，有三十倍的。」</red>
 
 ---
 
@@ -25,15 +25,15 @@ scripture: 馬太福音 13:1-52; 路加福音 15:1-32
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^11^耶穌又說：「一個人有兩個兒子。^12^小兒子對父親說：『父親，請你把我應得的家產給我。』他父親就把財產分給他們。^13^過了不多幾天，小兒子把他一切所有的都收拾起來，往遠方去了。在那裏他任意放蕩，浪費資財。^14^他耗盡了一切所有的，又遇上那地方有大飢荒，就窮困起來。^15^於是他去投靠那地方的一個居民；那人打發他到田裏去放豬。^16^他恨不得拿豬所吃的豆莢來充飢，也沒有人給他甚麼。
+> ^11^耶穌又說：<red>「一個人有兩個兒子。^12^小兒子對父親說：『父親，請你把我應得的家產給我。』他父親就把財產分給他們。^13^過了不多幾天，小兒子把他一切所有的都收拾起來，往遠方去了。在那裏他任意放蕩，浪費資財。^14^他耗盡了一切所有的，又遇上那地方有大飢荒，就窮困起來。^15^於是他去投靠那地方的一個居民；那人打發他到田裏去放豬。^16^他恨不得拿豬所吃的豆莢來充飢，也沒有人給他甚麼。
 
-> ^17^他醒悟過來，就說：『我父親有多少僱工，糧食有餘，我倒在這裏餓死嗎？^18^我要起來，到我父親那裏去，對他說：父親！我得罪了天，也得罪了你。^19^從今以後，我不配稱為你的兒子，把我當作一個僱工吧！』^20^於是他起來，往他父親那裏去。相離還遠，他父親看見，就動了慈心，跑去擁抱他，連連親他。^21^兒子對他說：『父親！我得罪了天，也得罪了你。從今以後，我不配稱為你的兒子。』^22^父親卻吩咐僕人：『快把那上好的袍子拿出來給他穿，把戒指戴在他手上，把鞋穿在他腳上，^23^把那肥牛犢牽來宰了，我們來吃喝慶祝；^24^因為我這個兒子是死而復活，失而復得的。』他們就慶祝起來。」
+> ^17^他醒悟過來，就說：『我父親有多少僱工，糧食有餘，我倒在這裏餓死嗎？^18^我要起來，到我父親那裏去，對他說：父親！我得罪了天，也得罪了你。^19^從今以後，我不配稱為你的兒子，把我當作一個僱工吧！』^20^於是他起來，往他父親那裏去。相離還遠，他父親看見，就動了慈心，跑去擁抱他，連連親他。^21^兒子對他說：『父親！我得罪了天，也得罪了你。從今以後，我不配稱為你的兒子。』^22^父親卻吩咐僕人：『快把那上好的袍子拿出來給他穿，把戒指戴在他手上，把鞋穿在他腳上，^23^把那肥牛犢牽來宰了，我們來吃喝慶祝；^24^因為我這個兒子是死而復活，失而復得的。』他們就慶祝起來。」</red>
 
-#### English — ESV
+#### English — NKJV
 
-> ^11^And he said, "There was a man who had two sons. ^12^And the younger of them said to his father, 'Father, give me the share of property that is coming to me.' And he divided his property between them. ^13^Not many days later, the younger son gathered all he had and took a journey into a far country, and there he squandered his property in reckless living. ^14^And when he had spent everything, a severe famine arose in that country, and he began to be in need. ^15^So he went and hired himself out to one of the citizens of that country, who sent him into his fields to feed pigs. ^16^And he was longing to be fed with the pods that the pigs ate, and no one gave him anything.
+> ^11^Then He said: <red>"A certain man had two sons. ^12^And the younger of them said to his father, 'Father, give me the portion of goods that falls to me.' So he divided to them his livelihood. ^13^And not many days after, the younger son gathered all together, journeyed to a far country, and there wasted his possessions with prodigal living. ^14^But when he had spent all, there arose a severe famine in that land, and he began to be in want. ^15^Then he went and joined himself to a citizen of that country, and he sent him into his fields to feed swine. ^16^And he would gladly have filled his stomach with the pods that the swine ate, and no one gave him anything.
 
-> ^17^"But when he came to himself, he said, 'How many of my father's hired servants have more than enough bread, but I perish here with hunger! ^18^I will arise and go to my father, and I will say to him, "Father, I have sinned against heaven and before you. ^19^I am no longer worthy to be called your son. Treat me as one of your hired servants."' ^20^And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him. ^21^And the son said to him, 'Father, I have sinned against heaven and before you. I am no longer worthy to be called your son.' ^22^But the father said to his servants, 'Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet. ^23^And bring the fattened calf and kill it, and let us eat and celebrate. ^24^For this my son was dead, and is alive again; he was lost, and is found.' And they began to celebrate."
+> ^17^But when he came to himself, he said, 'How many of my father's hired servants have bread enough and to spare, and I perish with hunger! ^18^I will arise and go to my father, and will say to him, "Father, I have sinned against heaven and before you, ^19^and I am no longer worthy to be called your son. Make me like one of your hired servants."' ^20^And he arose and came to his father. But when he was still a great way off, his father saw him and had compassion, and ran and fell on his neck and kissed him. ^21^And the son said to him, 'Father, I have sinned against heaven and in your sight, and am no longer worthy to be called your son.' ^22^But the father said to his servants, 'Bring out the best robe and put it on him, and put a ring on his hand and sandals on his feet. ^23^And bring the fatted calf here and kill it, and let us eat and be merry; ^24^for this my son was dead and is alive again; he was lost and is found.' And they began to be merry."</red>
 
 ---
 

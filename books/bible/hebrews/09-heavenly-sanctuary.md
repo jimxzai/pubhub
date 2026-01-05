@@ -281,7 +281,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「希伯來書9章是聖經中對贖罪論最完整的闡述。作者告訴我們為什麼需要血、為什麼需要死、為什麼基督的獻祭是唯一有效的。這一章是理解十字架的關鍵。」
 > — *MacArthur New Testament Commentary: Hebrews*

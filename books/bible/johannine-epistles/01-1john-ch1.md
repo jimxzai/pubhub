@@ -143,7 +143,7 @@
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『神就是光』不是說神像光一樣，而是說光是神的本質屬性。這光照明一切，顯露一切隱藏的事。」
 > — *MacArthur Study Bible*

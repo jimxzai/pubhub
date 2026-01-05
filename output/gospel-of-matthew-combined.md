@@ -353,7 +353,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『耶穌』這名字是天上賜下的，不是人間選擇的。名字本身就是福音的縮影：耶和華拯救。他不是來拯救我們脫離羅馬，而是脫離罪惡。」
 > — *The MacArthur New Testament Commentary: Matthew 1-7*

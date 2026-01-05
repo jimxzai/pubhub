@@ -159,7 +159,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『罪伏在門前』——罪被描繪成蹲伏的野獸，等候吞噬獵物。神警告該隱：你若不制伏它，它就要制伏你。這對每個信徒都是嚴肅的警告。」
 > — *The MacArthur Study Bible*

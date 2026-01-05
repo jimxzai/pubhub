@@ -251,7 +251,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「5:11-14是對教會最嚴厲的責備之一。這些讀者聽道多年，卻從未真正成長。他們不是缺乏機會，而是缺乏操練。頭腦的知識沒有轉化為生命的實踐。」
 > — *MacArthur New Testament Commentary: Hebrews*

@@ -190,7 +190,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「'成了' (*tetelestai*) 是商業用語，意思是『債務已付清』。在古代，這個字會寫在還清的借據上。基督在十字架上宣告：人類的罪債，完全付清了。」
 > — *MacArthur Study Bible*

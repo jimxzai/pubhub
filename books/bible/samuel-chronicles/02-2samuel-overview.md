@@ -443,7 +443,7 @@ BC 1010                           BC 990                           BC 970
 
 ## 歷代注疏 (Historical Commentary)
 
-### 約翰·麥克乾瑟 (John MacArthur) — gty.org
+### 約翰·麥克阿瑟 (John MacArthur) — gty.org
 
 **關於大衛之約的核心地位**：
 

@@ -13,19 +13,19 @@ scripture: 馬太福音 17:1-13; 馬可福音 9:2-13; 路加福音 9:28-36
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^過了六天，耶穌帶着彼得、雅各和雅各的弟弟約翰，領他們悄悄地上了高山。^2^他在他們面前變了形像，臉面明亮如日頭，衣裳潔白如光。^3^忽然，摩西和以利亞向他們顯現，跟耶穌說話。^4^彼得對耶穌說：「主啊，我們在這裏真好！你若願意，我就在這裏搭三座棚，一座為你，一座為摩西，一座為以利亞。」^5^他還在說話的時候，忽然有一朵燦爛的雲彩遮蓋他們，看哪，雲彩裏有聲音說：「這是我的愛子，我所喜愛的，你們要聽從他！」^6^門徒聽見，就臉伏在地，非常害怕。^7^耶穌進前來，摸他們，說：「起來，不要怕！」^8^他們舉目一看，只見耶穌，不見別人。
+> ^1^過了六天，耶穌帶着彼得、雅各和雅各的弟弟約翰，領他們悄悄地上了高山。^2^他在他們面前變了形像，臉面明亮如日頭，衣裳潔白如光。^3^忽然，摩西和以利亞向他們顯現，跟耶穌說話。^4^彼得對耶穌說：「主啊，我們在這裏真好！你若願意，我就在這裏搭三座棚，一座為你，一座為摩西，一座為以利亞。」^5^他還在說話的時候，忽然有一朵燦爛的雲彩遮蓋他們，看哪，雲彩裏有聲音說：「這是我的愛子，我所喜愛的，你們要聽從他！」^6^門徒聽見，就臉伏在地，非常害怕。^7^耶穌進前來，摸他們，說：<red>「起來，不要怕！」</red>^8^他們舉目一看，只見耶穌，不見別人。
 
-> ^9^他們下山的時候，耶穌吩咐他們：「人子還沒有從死人中復活，你們不要把所看見的告訴任何人。」
+> ^9^他們下山的時候，耶穌吩咐他們：<red>「人子還沒有從死人中復活，你們不要把所看見的告訴任何人。」</red>
 
 #### 路加福音 9:31 補充
 
 > 「他們在榮耀中顯現，談論耶穌將要在耶路撒冷完成的事。」
 
-### English — ESV
+### English — NKJV
 
-> ^1^And after six days Jesus took with him Peter and James, and John his brother, and led them up a high mountain by themselves. ^2^And he was transfigured before them, and his face shone like the sun, and his clothes became white as light. ^3^And behold, there appeared to them Moses and Elijah, talking with him. ^4^And Peter said to Jesus, "Lord, it is good that we are here. If you wish, I will make three tents here, one for you and one for Moses and one for Elijah." ^5^He was still speaking when, behold, a bright cloud overshadowed them, and a voice from the cloud said, "This is my beloved Son, with whom I am well pleased; listen to him." ^6^When the disciples heard this, they fell on their faces and were terrified. ^7^But Jesus came and touched them, saying, "Rise, and have no fear." ^8^And when they lifted up their eyes, they saw no one but Jesus only.
+> ^1^Now after six days Jesus took Peter, James, and John his brother, led them up on a high mountain by themselves; ^2^and He was transfigured before them. His face shone like the sun, and His clothes became as white as the light. ^3^And behold, Moses and Elijah appeared to them, talking with Him. ^4^Then Peter answered and said to Jesus, "Lord, it is good for us to be here; if You wish, let us make here three tabernacles: one for You, one for Moses, and one for Elijah." ^5^While he was still speaking, behold, a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, "This is My beloved Son, in whom I am well pleased. Hear Him!" ^6^And when the disciples heard it, they fell on their faces and were greatly afraid. ^7^But Jesus came and touched them and said, <red>"Arise, and do not be afraid."</red> ^8^When they had lifted up their eyes, they saw no one but Jesus only.
 
-> ^9^And as they were coming down the mountain, Jesus commanded them, "Tell no one the vision, until the Son of Man is raised from the dead."
+> ^9^Now as they came down from the mountain, Jesus commanded them, saying, <red>"Tell the vision to no one until the Son of Man is risen from the dead."</red>
 
 ---
 

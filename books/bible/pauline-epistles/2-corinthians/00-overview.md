@@ -118,7 +118,7 @@ date: 2025年12月
 
 ## 名家注疏 (Commentary Insights)
 
-### 約翰·麥克乾瑟 (John MacArthur)
+### 約翰·麥克阿瑟 (John MacArthur)
 
 **論軟弱中的能力 (12:9)**:
 

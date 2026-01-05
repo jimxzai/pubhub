@@ -406,7 +406,7 @@ BC 1105                                                          BC 1010
 
 ## 歷代注疏 (Historical Commentary)
 
-### 約翰·麥克乾瑟 (John MacArthur) — gty.org
+### 約翰·麥克阿瑟 (John MacArthur) — gty.org
 
 **關於書卷的神學框架**：
 

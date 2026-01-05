@@ -169,7 +169,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『神記念挪亞』——這不是說神忘記了然後想起來。『記念』在希伯來文意味著神採取行動實現祂的應許。神在審判中沒有忘記祂的子民。」
 > — *The MacArthur Study Bible*

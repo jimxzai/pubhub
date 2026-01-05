@@ -185,7 +185,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「神用皮子給他們穿衣——這是第一次流血獻祭。無辜的動物代替有罪的人死亡。從這裏開始，血祭的路線一直延伸到加略山。」
 > — *The MacArthur Study Bible*

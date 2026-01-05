@@ -13,19 +13,19 @@ scripture: 馬太福音 21:12-17; 馬可福音 11:15-19; 路加福音 19:45-48
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^12^耶穌進了神的殿，趕出殿裏一切作買賣的人，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，^13^對他們說：「經上記着：『我的殿要稱為禱告的殿』，你們倒使它成為『賊窩』了！」
+> ^12^耶穌進了神的殿，趕出殿裏一切作買賣的人，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，^13^對他們說：<red>「經上記着：『我的殿要稱為禱告的殿』，你們倒使它成為『賊窩』了！」</red>
 
-> ^14^在殿裏有失明的和瘸腿的到耶穌面前，他就治好了他們。^15^祭司長和文士看見耶穌所做的奇事，又聽見孩子們在殿裏喊着說「和散那歸於大衛的子孫！」就很生氣，^16^對他說：「他們說的這些話，你聽見了嗎？」耶穌對他們說：「是的。『你從嬰孩和吃奶的口中得到了讚美』，這話你們沒有念過嗎？」^17^於是離開他們，出城到伯大尼去，在那裏住宿。
+> ^14^在殿裏有失明的和瘸腿的到耶穌面前，他就治好了他們。^15^祭司長和文士看見耶穌所做的奇事，又聽見孩子們在殿裏喊着說「和散那歸於大衛的子孫！」就很生氣，^16^對他說：「他們說的這些話，你聽見了嗎？」耶穌對他們說：<red>「是的。『你從嬰孩和吃奶的口中得到了讚美』，這話你們沒有念過嗎？」</red>^17^於是離開他們，出城到伯大尼去，在那裏住宿。
 
 #### 馬可福音 11:17 補充
 
-> 「他教導他們說：『經上不是記着：我的殿要稱為萬國禱告的殿嗎？你們倒使它成為賊窩了！』」
+> 「他教導他們說：<red>『經上不是記着：我的殿要稱為萬國禱告的殿嗎？你們倒使它成為賊窩了！』</red>」
 
-### English — ESV
+### English — NKJV
 
-> ^12^And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. ^13^He said to them, "It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers."
+> ^12^Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. ^13^And He said to them, <red>"It is written, 'My house shall be called a house of prayer,' but you have made it a 'den of thieves.'"</red>
 
-> ^14^And the blind and the lame came to him in the temple, and he healed them. ^15^But when the chief priests and the scribes saw the wonderful things that he did, and the children crying out in the temple, "Hosanna to the Son of David!" they were indignant, ^16^and they said to him, "Do you hear what these are saying?" And Jesus said to them, "Yes; have you never read, 'Out of the mouth of infants and nursing babies you have prepared praise'?" ^17^And leaving them, he went out of the city to Bethany and lodged there.
+> ^14^Then the blind and the lame came to Him in the temple, and He healed them. ^15^But when the chief priests and scribes saw the wonderful things that He did, and the children crying out in the temple and saying, "Hosanna to the Son of David!" they were indignant ^16^and said to Him, "Do You hear what these are saying?" And Jesus said to them, <red>"Yes. Have you never read, 'Out of the mouth of babes and nursing infants You have perfected praise'?"</red> ^17^Then He left them and went out of the city to Bethany, and He lodged there.
 
 ---
 

@@ -286,7 +286,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『道』這個詞對猶太讀者來說代表神的自我啟示，對希臘讀者來說代表宇宙的理性原則。約翰用這個詞告訴所有人：你們所尋找的，就是耶穌基督。」
 > — *The MacArthur New Testament Commentary: John 1-11*
@@ -664,7 +664,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「水變酒是創造性的神蹟，展示了耶穌的神性。這不是魔術，而是創造主的作為。六口石缸總共可盛 120-180 加侖的酒——這是豐盛的恩典，超過所需。」
 > — *MacArthur Study Bible*
@@ -890,7 +890,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「尼哥底母是當時最有宗教知識的人之一，但耶穌告訴他：你所有的知識、所有的道德努力都不夠。你需要的是從上頭來的新生命。這是對所有宗教努力的挑戰。」
 > — *MacArthur Study Bible*
@@ -1131,7 +1131,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「耶穌沒有譴責這婦人的過去，而是揭露她的需要。她來打水是為了解身體的渴，但耶穌看見她靈魂的乾渴。這是福音傳講的榜樣——從人的需要開始，引向基督。」
 > — *MacArthur Study Bible*
@@ -1421,7 +1421,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「『你要痊癒嗎？』這問題看似多餘，卻觸及人心深處。有些人習慣了自己的病，不願改變。耶穌要他作出信心的決定。」
 
 **乾伯·摩根 (G. Campbell Morgan)**:
@@ -1666,7 +1666,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「眾人找耶穌不是因為神蹟，而是因為吃餅吃飽了。今天很多人來教會也是如此——為了社交、娛樂、情感需要，卻不是為了基督自己。」
 
 **乾伯·摩根 (G. Campbell Morgan)**:
@@ -1914,7 +1914,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「耶穌選擇在取水儀式的高潮宣告，時機完美。當眾人期待彌賽亞時代的活水時，耶穌宣告：我就是那活水的源頭。」
 
 **乾伯·摩根 (G. Campbell Morgan)**:
@@ -2174,7 +2174,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「猶太人拿起石頭要打耶穌，因為他們完全明白『我是』的意思。這不是誤解，而是正確理解耶穌的宣告——祂宣告自己是神。」
 
 **乾伯·摩根 (G. Campbell Morgan)**:
@@ -2428,7 +2428,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「『從前我是失明的，現在我看見了』——這是最簡單卻最有力的見證。你不需要神學學位才能作見證，只需要說出你的經歷。」
 
 **乾伯·摩根 (G. Campbell Morgan)**:
@@ -2678,7 +2678,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『豐盛的生命』不是指物質的豐富，而是指生命品質的豐盛——與神的關係、屬靈的喜樂、永恆的盼望。這是好牧人帶給羊群的禮物。」
 > — *MacArthur Study Bible*
@@ -2907,7 +2907,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「這個神蹟與其他復活神蹟不同：拉撒路已死四天，屍體開始腐爛。耶穌沒有觸摸他，沒有對著他禱告——只是用話語命令。這展示的是創造主的能力。」
 > — *MacArthur Study Bible*
@@ -3180,7 +3180,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「馬利亞打破香膏瓶，傾倒一切所有。這就是真正的敬拜——不是給主剩餘的，而是給主最好的、所有的。」
 
 **乾伯·摩根 (G. Campbell Morgan)**:
@@ -3414,7 +3414,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「門徒們當時可能正在爭論誰為大。沒有人願意做洗腳的工作，因為那太卑微了。耶穌的行動是對他們驕傲的責備，也是謙卑服事的永恆榜樣。」
 > — *MacArthur Study Bible*
@@ -3660,7 +3660,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「這是宗教多元主義者最不願意聽到的經文。但耶穌的話是清楚的：他不是一條道路，他是唯一的道路。這不是狹隘，這是真理。」
 > — *MacArthur Study Bible*
@@ -3881,7 +3881,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「'離了我，你們就不能做什麼'——不是'很難做'，不是'做得少'，而是'不能做什麼'。這是完全的依賴。」
 
 ---
@@ -4065,7 +4065,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「『我已經勝了世界』——這是人類歷史上最大膽的宣告。在十字架前夕，當一切看似失敗時，耶穌宣布得勝。這得勝是真實的，因為十字架正是得勝的地方。」
 
 ---
@@ -4283,7 +4283,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「約翰福音17章是聖經中最神聖的經文之一。這是聖子對聖父的禱告，我們有幸傾聽。這禱告顯示基督多麼愛我們——他在十字架前最關心的是我們。」
 
 ---
@@ -4504,7 +4504,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「彼拉多六次宣告耶穌無罪，卻仍然把他交給人釘十字架。這是人類歷史上最不公義的審判，卻成就了神最公義的計劃。」
 
 ---
@@ -4789,7 +4789,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「'成了' (*tetelestai*) 是商業用語，意思是『債務已付清』。在古代，這個字會寫在還清的借據上。基督在十字架上宣告：人類的罪債，完全付清了。」
 > — *MacArthur Study Bible*
@@ -5043,7 +5043,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「耶穌對馬利亞說『馬利亞』——只用一個名字，她就認出了他。這提醒我們：耶穌按名認識我們每一個人。我們不是群眾中的一個，我們是他所認識、所呼召的羊。」
 > — *MacArthur Study Bible*
@@ -5290,7 +5290,7 @@ publisher: Soli Deo Gloria
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 > 「彼得的恢復提醒我們：失敗不是終點。即使你跌倒了，基督仍然尋找你、恢復你、使用你。問題不是你有沒有失敗過，而是你是否願意回到主面前。」
 
 ---

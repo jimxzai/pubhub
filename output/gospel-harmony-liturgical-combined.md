@@ -79,7 +79,7 @@ publisher: "Soli Deo Gloria"
 
 ---
 
-## 全書結構：耶穌生平六大時期 (Six Periods of Christ's Life)
+## 全書結構：耶穌生平七大時期 (Seven Periods of Christ's Life)
 
 | 部分 | 時期 | 章節 | 主題 | 主要來源 |
 |------|------|------|------|----------|
@@ -88,7 +88,9 @@ publisher: "Soli Deo Gloria"
 | **第二部** | 加利利事工 | 5-15 | 神蹟與教導 | 四福音平行 |
 | **第三部** | 往耶路撒冷 | 16-24 | 門徒訓練 | 路 9:51-19:27 |
 | **第四部** | 受難週 | 25-31 | 十架救贖 | 四福音平行 |
-| **第五部** | 復活榮耀 | 32-34 | 復活升天 | 四福音結尾 |
+| **第五部** | 復活升天 | 32-34 | 復活顯現 | 四福音結尾 |
+| **第六部** | 教會誕生 | 35-36 | 五旬節與使命 | 使徒行傳 |
+| **第七部** | 榮耀再臨 | 37 | 最終審判 | 啟示錄 |
 
 ---
 
@@ -576,7 +578,9 @@ publisher: "Soli Deo Gloria"
 | 3-6 | 加利利事工 | 5-15 |
 | 7-9 | 往耶路撒冷 | 16-24 |
 | 10-11 | 受難週 | 25-31 |
-| 12 | 復活榮耀 | 32-34 |
+| 12 | 復活升天 | 32-34 |
+| 13 | 教會誕生 | 35-36 |
+| 14 | 榮耀再臨 | 37 |
 
 ### 每章研讀模式
 
@@ -1038,9 +1042,9 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{18}耶穌基督降生的事是這樣的：他母親馬利亞已經許配了約瑟，還沒有迎娶，馬利亞就從聖靈懷了孕。\textsuperscript{19}她丈夫約瑟是個義人，不願意公開羞辱她，想要暗暗地把她休了。\textsuperscript{20}正思念這些事的時候，忽然有主的使者在夢中向他顯現，說：「大衛的子孫約瑟，不要怕，只管把你的妻子馬利亞娶過來，因為她所懷的孕是從聖靈來的。\textsuperscript{21}她將要生一個兒子，你要給他起名叫耶穌，因為他要把自己的百姓從罪惡中拯救出來。」\textsuperscript{22}這一切的事成就，是要應驗主藉先知所說的話：\textsuperscript{23}「看哪，必有童女懷孕生子，人要稱他的名為以馬內利。」（以馬內利翻出來就是「神與我們同在」。）\textsuperscript{24}約瑟醒了，起來，就遵照主的使者所吩咐的，把妻子娶過來，\textsuperscript{25}只是沒有和她同房，等她生了兒子，就給他起名叫耶穌。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{18}Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit. \textsuperscript{19}And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. \textsuperscript{20}But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. \textsuperscript{21}She will bear a son, and you shall call his name Jesus, for he will save his people from their sins." \textsuperscript{22}All this took place to fulfill what the Lord had spoken by the prophet: \textsuperscript{23}"Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel" (which means, God with us). \textsuperscript{24}When Joseph woke from sleep, he did as the angel of the Lord commanded him: he took his wife, \textsuperscript{25}but knew her not until she had given birth to a son. And he called his name Jesus.
+> \textsuperscript{18}Now the birth of Jesus Christ was as follows: After His mother Mary was betrothed to Joseph, before they came together, she was found with child of the Holy Spirit. \textsuperscript{19}Then Joseph her husband, being a just man, and not wanting to make her a public example, was minded to put her away secretly. \textsuperscript{20}But while he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take to you Mary your wife, for that which is conceived in her is of the Holy Spirit. \textsuperscript{21}And she will bring forth a Son, and you shall call His name Jesus, for He will save His people from their sins." \textsuperscript{22}So all this was done that it might be fulfilled which was spoken by the Lord through the prophet, saying: \textsuperscript{23}"Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel," which is translated, "God with us." \textsuperscript{24}Then Joseph, being aroused from sleep, did as the angel of the Lord commanded him and took to him his wife, \textsuperscript{25}and did not know her till she had brought forth her firstborn Son. And he called His name Jesus.
 
 ---
 
@@ -1058,15 +1062,15 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{15}眾天使離開他們，升天去了。牧羊人彼此說：「我們往伯利恆去，看看所成就的事，就是主所指示我們的。」\textsuperscript{16}他們急忙去了，找到馬利亞和約瑟，還有那嬰孩臥在馬槽裏。\textsuperscript{17}他們看見後，就把天使論這孩子的話傳開了。\textsuperscript{18}凡聽見的，都對牧羊人所說的事感到驚奇。\textsuperscript{19}馬利亞卻把這一切的事存在心裏，反覆思考。\textsuperscript{20}牧羊人回去了，因所聽見所看見的一切事正如天使對他們所說的，就歸榮耀與神，讚美他。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}In those days a decree went out from Caesar Augustus that all the world should be registered. \textsuperscript{2}This was the first registration when Quirinius was governor of Syria. \textsuperscript{3}And all went to be registered, each to his own town. \textsuperscript{4}And Joseph also went up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, \textsuperscript{5}to be registered with Mary, his betrothed, who was with child. \textsuperscript{6}And while they were there, the time came for her to give birth. \textsuperscript{7}And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.
+> \textsuperscript{1}And it came to pass in those days that a decree went out from Caesar Augustus that all the world should be registered. \textsuperscript{2}This census first took place while Quirinius was governing Syria. \textsuperscript{3}So all went to be registered, everyone to his own city. \textsuperscript{4}Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, \textsuperscript{5}to be registered with Mary, his betrothed wife, who was with child. \textsuperscript{6}So it was, that while they were there, the days were completed for her to be delivered. \textsuperscript{7}And she brought forth her firstborn Son, and wrapped Him in swaddling cloths, and laid Him in a manger, because there was no room for them in the inn.
 
-> \textsuperscript{8}And in the same region there were shepherds out in the field, keeping watch over their flock by night. \textsuperscript{9}And an angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were filled with great fear. \textsuperscript{10}And the angel said to them, "Fear not, for behold, I bring you good news of great joy that will be for all the people. \textsuperscript{11}For unto you is born this day in the city of David a Savior, who is Christ the Lord. \textsuperscript{12}And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger." \textsuperscript{13}And suddenly there was with the angel a multitude of the heavenly host praising God and saying,
+> \textsuperscript{8}Now there were in the same country shepherds living out in the fields, keeping watch over their flock by night. \textsuperscript{9}And behold, an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were greatly afraid. \textsuperscript{10}Then the angel said to them, "Do not be afraid, for behold, I bring you good tidings of great joy which will be to all people. \textsuperscript{11}For there is born to you this day in the city of David a Savior, who is Christ the Lord. \textsuperscript{12}And this will be the sign to you: You will find a Babe wrapped in swaddling cloths, lying in a manger." \textsuperscript{13}And suddenly there was with the angel a multitude of the heavenly host praising God and saying:
 
-> \textsuperscript{14}"Glory to God in the highest, and on earth peace among those with whom he is pleased!"
+> \textsuperscript{14}"Glory to God in the highest, and on earth peace, goodwill toward men!"
 
-> \textsuperscript{15}When the angels went away from them into heaven, the shepherds said to one another, "Let us go over to Bethlehem and see this thing that has happened, which the Lord has made known to us." \textsuperscript{16}And they went with haste and found Mary and Joseph, and the baby lying in a manger. \textsuperscript{17}And when they saw it, they made known the saying that had been told them concerning this child. \textsuperscript{18}And all who heard it wondered at what the shepherds told them. \textsuperscript{19}But Mary treasured up all these things, pondering them in her heart. \textsuperscript{20}And the shepherds returned, glorifying and praising God for all they had heard and seen, as it had been told them.
+> \textsuperscript{15}So it was, when the angels had gone away from them into heaven, that the shepherds said to one another, "Let us now go to Bethlehem and see this thing that has come to pass, which the Lord has made known to us." \textsuperscript{16}And they came with haste and found Mary and Joseph, and the Babe lying in a manger. \textsuperscript{17}Now when they had seen Him, they made widely known the saying which was told them concerning this Child. \textsuperscript{18}And all those who heard it marveled at those things which were told them by the shepherds. \textsuperscript{19}But Mary kept all these things and pondered them in her heart. \textsuperscript{20}Then the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told them.
 
 ---
 
@@ -1080,11 +1084,11 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{7}當時希律暗暗地召了博士來，仔細查問那星出現的時間，\textsuperscript{8}就派他們往伯利恆去，說：「你們去仔細尋訪那小孩子，找到了，就來報信，我也好去拜他。」\textsuperscript{9}他們聽了王的話就去了。忽然，在東方所看見的那顆星在前面引領他們，一直行到小孩子所在地方的上方就停住了。\textsuperscript{10}他們看見那星，就非常歡喜。\textsuperscript{11}進了房子，看見小孩子和他母親馬利亞，就俯伏拜那小孩子，揭開寶盒，拿出黃金、乳香、沒藥，作為禮物獻給他。\textsuperscript{12}因為在夢中得到主的指示不要回去見希律，他們就從別的路回自己的家鄉去了。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem, \textsuperscript{2}saying, "Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him." \textsuperscript{3}When Herod the king heard this, he was troubled, and all Jerusalem with him; \textsuperscript{4}and assembling all the chief priests and scribes of the people, he inquired of them where the Christ was to be born. \textsuperscript{5}They told him, "In Bethlehem of Judea, for so it is written by the prophet: \textsuperscript{6}'And you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for from you shall come a ruler who will shepherd my people Israel.'"
+> \textsuperscript{1}Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem, \textsuperscript{2}saying, "Where is He who has been born King of the Jews? For we have seen His star in the East and have come to worship Him." \textsuperscript{3}When Herod the king heard this, he was troubled, and all Jerusalem with him. \textsuperscript{4}And when he had gathered all the chief priests and scribes of the people together, he inquired of them where the Christ was to be born. \textsuperscript{5}So they said to him, "In Bethlehem of Judea, for thus it is written by the prophet: \textsuperscript{6}'But you, Bethlehem, in the land of Judah, are not the least among the rulers of Judah; for out of you shall come a Ruler who will shepherd My people Israel.'"
 
-> \textsuperscript{7}Then Herod summoned the wise men secretly and ascertained from them what time the star had appeared. \textsuperscript{8}And he sent them to Bethlehem, saying, "Go and search diligently for the child, and when you have found him, bring me word, that I too may come and worship him." \textsuperscript{9}After listening to the king, they went on their way. And behold, the star that they had seen when it rose went before them until it came to rest over the place where the child was. \textsuperscript{10}When they saw the star, they rejoiced exceedingly with great joy. \textsuperscript{11}And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh. \textsuperscript{12}And being warned in a dream not to return to Herod, they departed to their own country by another way.
+> \textsuperscript{7}Then Herod, when he had secretly called the wise men, determined from them what time the star appeared. \textsuperscript{8}And he sent them to Bethlehem and said, "Go and search carefully for the young Child, and when you have found Him, bring back word to me, that I may come and worship Him also." \textsuperscript{9}When they heard the king, they departed; and behold, the star which they had seen in the East went before them, till it came and stood over where the young Child was. \textsuperscript{10}When they saw the star, they rejoiced with exceedingly great joy. \textsuperscript{11}And when they had come into the house, they saw the young Child with Mary His mother, and fell down and worshiped Him. And when they had opened their treasures, they presented gifts to Him: gold, frankincense, and myrrh. \textsuperscript{12}Then, being divinely warned in a dream that they should not return to Herod, they departed for their own country another way.
 
 ---
 
@@ -1237,11 +1241,11 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{16}希律見自己被博士愚弄，極其憤怒，差人把伯利恆城裏和四境所有兩歲以內的男孩，照着他從博士仔細查問到的時間，都殺盡了。\textsuperscript{17}這就應驗了先知耶利米所說的話：\textsuperscript{18}「在拉瑪聽見號咷大哭的聲音，是拉結在為她的兒女哭泣，不肯受安慰，因為他們都不在了。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{13}Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream and said, "Rise, take the child and his mother, and flee to Egypt, and remain there until I tell you, for Herod is about to search for the child, to destroy him." \textsuperscript{14}And he rose and took the child and his mother by night and departed to Egypt \textsuperscript{15}and remained there until the death of Herod. This was to fulfill what the Lord had spoken by the prophet, "Out of Egypt I called my son."
+> \textsuperscript{13}Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, "Arise, take the young Child and His mother, flee to Egypt, and stay there until I bring you word; for Herod will seek the young Child to destroy Him." \textsuperscript{14}When he arose, he took the young Child and His mother by night and departed for Egypt, \textsuperscript{15}and was there until the death of Herod, that it might be fulfilled which was spoken by the Lord through the prophet, saying, "Out of Egypt I called My Son."
 
-> \textsuperscript{16}Then Herod, when he saw that he had been tricked by the wise men, became furious, and he sent and killed all the male children in Bethlehem and in all that region who were two years old or under, according to the time that he had ascertained from the wise men. \textsuperscript{17}Then was fulfilled what was spoken by the prophet Jeremiah: \textsuperscript{18}"A voice was heard in Ramah, weeping and loud lamentation, Rachel weeping for her children; she refused to be comforted, because they are no more."
+> \textsuperscript{16}Then Herod, when he saw that he was deceived by the wise men, was exceedingly angry; and he sent forth and put to death all the male children who were in Bethlehem and in all its districts, from two years old and under, according to the time which he had determined from the wise men. \textsuperscript{17}Then was fulfilled what was spoken by Jeremiah the prophet, saying: \textsuperscript{18}"A voice was heard in Ramah, lamentation, weeping, and great mourning, Rachel weeping for her children, refusing to be comforted, because they are no more."
 
 ---
 
@@ -1253,9 +1257,9 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{19}希律死後，忽然有主的使者在埃及夢中向約瑟顯現，說：\textsuperscript{20}「起來！帶着小孩子和他母親回以色列地去，因為要害這小孩子性命的人已經死了。」\textsuperscript{21}約瑟就起來，把小孩子和他母親帶到以色列地去；\textsuperscript{22}只因聽見亞基老接續他父親希律作了猶太王，就怕往那裏去。又在夢中得到指示，就轉往加利利地區去了，\textsuperscript{23}到了一座城，名叫拿撒勒，就住在那裏。這是要應驗先知所說「他將稱為拿撒勒人」的話。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{19}But when Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, \textsuperscript{20}saying, "Rise, take the child and his mother and go to the land of Israel, for those who sought the child's life are dead." \textsuperscript{21}And he rose and took the child and his mother and went to the land of Israel. \textsuperscript{22}But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there, and being warned in a dream he withdrew to the district of Galilee. \textsuperscript{23}And he went and lived in a city called Nazareth, so that what was spoken by the prophets might be fulfilled, that he would be called a Nazarene.
+> \textsuperscript{19}Now when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, \textsuperscript{20}saying, "Arise, take the young Child and His mother, and go to the land of Israel, for those who sought the young Child's life are dead." \textsuperscript{21}Then he arose, took the young Child and His mother, and came into the land of Israel. \textsuperscript{22}But when he heard that Archelaus was reigning over Judea instead of his father Herod, he was afraid to go there. And being warned by God in a dream, he turned aside into the region of Galilee. \textsuperscript{23}And he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets, "He shall be called a Nazarene."
 
 ---
 
@@ -1273,15 +1277,15 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{33}孩子的父母因所論及他的這些話感到驚奇。\textsuperscript{34}西面給他們祝福，又對他母親馬利亞說：「這孩子被立，是要叫以色列中許多人跌倒，許多人興起；又要作毀謗的記號，\textsuperscript{35}叫許多人心裏的意念顯露出來；你自己的心也要被刀刺透。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{21}And at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb. \textsuperscript{22}And when the time came for their purification according to the Law of Moses, they brought him up to Jerusalem to present him to the Lord \textsuperscript{23}(as it is written in the Law of the Lord, "Every male who first opens the womb shall be called holy to the Lord") \textsuperscript{24}and to offer a sacrifice according to what is said in the Law of the Lord, "a pair of turtledoves, or two young pigeons."
+> \textsuperscript{21}And when eight days were completed for the circumcision of the Child, His name was called Jesus, the name given by the angel before He was conceived in the womb. \textsuperscript{22}Now when the days of her purification according to the law of Moses were completed, they brought Him to Jerusalem to present Him to the Lord \textsuperscript{23}(as it is written in the law of the Lord, "Every male who opens the womb shall be called holy to the Lord"), \textsuperscript{24}and to offer a sacrifice according to what is said in the law of the Lord, "A pair of turtledoves or two young pigeons."
 
-> \textsuperscript{25}Now there was a man in Jerusalem, whose name was Simeon, and this man was righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him. \textsuperscript{26}And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ. \textsuperscript{27}And he came in the Spirit into the temple, and when the parents brought in the child Jesus, to do for him according to the custom of the Law, \textsuperscript{28}he took him up in his arms and blessed God and said,
+> \textsuperscript{25}And behold, there was a man in Jerusalem whose name was Simeon, and this man was just and devout, waiting for the Consolation of Israel, and the Holy Spirit was upon him. \textsuperscript{26}And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ. \textsuperscript{27}So he came by the Spirit into the temple. And when the parents brought in the Child Jesus, to do for Him according to the custom of the law, \textsuperscript{28}he took Him up in his arms and blessed God and said:
 
-> \textsuperscript{29}"Lord, now you are letting your servant depart in peace, according to your word; \textsuperscript{30}for my eyes have seen your salvation \textsuperscript{31}that you have prepared in the presence of all peoples, \textsuperscript{32}a light for revelation to the Gentiles, and for glory to your people Israel."
+> \textsuperscript{29}"Lord, now You are letting Your servant depart in peace, according to Your word; \textsuperscript{30}for my eyes have seen Your salvation \textsuperscript{31}which You have prepared before the face of all peoples, \textsuperscript{32}a light to bring revelation to the Gentiles, and the glory of Your people Israel."
 
-> \textsuperscript{33}And his father and his mother marveled at what was said about him. \textsuperscript{34}And Simeon blessed them and said to Mary his mother, "Behold, this child is appointed for the fall and rising of many in Israel, and for a sign that is opposed \textsuperscript{35}(and a sword will pierce through your own soul also), so that thoughts from many hearts may be revealed."
+> \textsuperscript{33}And Joseph and His mother marveled at those things which were spoken of Him. \textsuperscript{34}Then Simeon blessed them, and said to Mary His mother, "Behold, this Child is destined for the fall and rising of many in Israel, and for a sign which will be spoken against \textsuperscript{35}(yes, a sword will pierce through your own soul also), that the thoughts of many hearts may be revealed."
 
 ---
 
@@ -1295,11 +1299,11 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{39}約瑟和馬利亞照主的律法辦完了一切的事，就回加利利，到自己的城拿撒勒去了。\textsuperscript{40}孩子漸漸長大，強健起來，充滿智慧，又有神的恩典在他身上。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{36}And there was a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was advanced in years, having lived with her husband seven years from when she was a virgin, \textsuperscript{37}and then as a widow until she was eighty-four. She did not depart from the temple, worshiping with fasting and prayer night and day. \textsuperscript{38}And coming up at that very hour she began to give thanks to God and to speak of him to all who were waiting for the redemption of Jerusalem.
+> \textsuperscript{36}Now there was one, Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher. She was of a great age, and had lived with a husband seven years from her virginity; \textsuperscript{37}and this woman was a widow of about eighty-four years, who did not depart from the temple, but served God with fastings and prayers night and day. \textsuperscript{38}And coming in that instant she gave thanks to the Lord, and spoke of Him to all those who looked for redemption in Jerusalem.
 
-> \textsuperscript{39}And when they had performed everything according to the Law of the Lord, they returned into Galilee, to their own town of Nazareth. \textsuperscript{40}And the child grew and became strong, filled with wisdom. And the favor of God was upon him.
+> \textsuperscript{39}So when they had performed all things according to the law of the Lord, they returned to Galilee, to their own city, Nazareth. \textsuperscript{40}And the Child grew and became strong in spirit, filled with wisdom; and the grace of God was upon Him.
 
 ---
 
@@ -1309,15 +1313,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{41}每年到逾越節，他父母就上耶路撒冷去。\textsuperscript{42}當他十二歲的時候，他們按着節期的慣例上去。\textsuperscript{43}守滿了節期，他們回去，孩童耶穌仍舊在耶路撒冷。他的父母並不知道，\textsuperscript{44}以為他在同行的人當中，走了一天的路程，就在親族和熟識的人中找他，\textsuperscript{45}既找不着，就回耶路撒冷去找他。\textsuperscript{46}過了三天，他們發現他在聖殿裏，坐在教師中間，一面聽，一面問。\textsuperscript{47}凡聽見他的人都對他的聰明和他的應對感到驚奇。\textsuperscript{48}他父母看見就很驚訝。他母親對他說：「孩子，為甚麼這樣對待我們呢？你看，你父親和我很焦急，到處找你！」\textsuperscript{49}耶穌對他們說：「為甚麼找我呢？難道你們不知道我應當在我父的家裏嗎？」\textsuperscript{50}他所說的這話，他們不明白。
+> \textsuperscript{41}每年到逾越節，他父母就上耶路撒冷去。\textsuperscript{42}當他十二歲的時候，他們按着節期的慣例上去。\textsuperscript{43}守滿了節期，他們回去，孩童耶穌仍舊在耶路撒冷。他的父母並不知道，\textsuperscript{44}以為他在同行的人當中，走了一天的路程，就在親族和熟識的人中找他，\textsuperscript{45}既找不着，就回耶路撒冷去找他。\textsuperscript{46}過了三天，他們發現他在聖殿裏，坐在教師中間，一面聽，一面問。\textsuperscript{47}凡聽見他的人都對他的聰明和他的應對感到驚奇。\textsuperscript{48}他父母看見就很驚訝。他母親對他說：「孩子，為甚麼這樣對待我們呢？你看，你父親和我很焦急，到處找你！」\textsuperscript{49}耶穌對他們說：\jesus{「為甚麼找我呢？難道你們不知道我應當在我父的家裏嗎？」}\textsuperscript{50}他所說的這話，他們不明白。
 
 > \textsuperscript{51}他就同他們下去，回到拿撒勒，並且順從他們。他母親把這一切的事都存在心裏。\textsuperscript{52}耶穌的智慧和身量，以及神和人對他的喜愛，都一齊增長。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{41}Now his parents went to Jerusalem every year at the Feast of the Passover. \textsuperscript{42}And when he was twelve years old, they went up according to custom. \textsuperscript{43}And when the feast was ended, as they were returning, the boy Jesus stayed behind in Jerusalem. His parents did not know it, \textsuperscript{44}but supposing him to be in the group they went a day's journey, but then they began to search for him among their relatives and acquaintances, \textsuperscript{45}and when they did not find him, they returned to Jerusalem, searching for him. \textsuperscript{46}After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions. \textsuperscript{47}And all who heard him were amazed at his understanding and his answers. \textsuperscript{48}And when his parents saw him, they were astonished. And his mother said to him, "Son, why have you treated us so? Behold, your father and I have been searching for you in great distress." \textsuperscript{49}And he said to them, "Why were you looking for me? Did you not know that I must be in my Father's house?" \textsuperscript{50}And they did not understand the saying that he spoke to them.
+> \textsuperscript{41}His parents went to Jerusalem every year at the Feast of the Passover. \textsuperscript{42}And when He was twelve years old, they went up to Jerusalem according to the custom of the feast. \textsuperscript{43}When they had finished the days, as they returned, the Boy Jesus lingered behind in Jerusalem. And Joseph and His mother did not know it; \textsuperscript{44}but supposing Him to have been in the company, they went a day's journey, and sought Him among their relatives and acquaintances. \textsuperscript{45}So when they did not find Him, they returned to Jerusalem, seeking Him. \textsuperscript{46}Now so it was that after three days they found Him in the temple, sitting in the midst of the teachers, both listening to them and asking them questions. \textsuperscript{47}And all who heard Him were astonished at His understanding and answers. \textsuperscript{48}So when they saw Him, they were amazed; and His mother said to Him, "Son, why have You done this to us? Look, Your father and I have sought You anxiously." \textsuperscript{49}And He said to them, \jesus{"Why did you seek Me? Did you not know that I must be about My Father's business?"} \textsuperscript{50}But they did not understand the statement which He spoke to them.
 
-> \textsuperscript{51}And he went down with them and came to Nazareth and was submissive to them. And his mother treasured up all these things in her heart. \textsuperscript{52}And Jesus increased in wisdom and in stature and in favor with God and man.
+> \textsuperscript{51}Then He went down with them and came to Nazareth, and was subject to them, but His mother kept all these things in her heart. \textsuperscript{52}And Jesus increased in wisdom and stature, and in favor with God and men.
 
 ---
 
@@ -1470,13 +1474,13 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{7}約翰看見許多法利賽人和撒都該人也來受洗，就對他們說：「毒蛇的孽種！誰指示你們逃避那將要來的憤怒呢？\textsuperscript{8}你們要結出果子來，和悔改的心相稱。\textsuperscript{9}不要自己心裏說：『有亞伯拉罕為我們的祖宗。』我告訴你們，神能從這些石頭中給亞伯拉罕興起子孫來。\textsuperscript{10}現在斧子已經放在樹根上，凡不結好果子的樹，就砍下來，丟在火裏。\textsuperscript{11}我是用水給你們施洗，叫你們悔改；但那在我以後來的，能力比我更大，我就是給他提鞋子也不配。他要用聖靈與火給你們施洗。\textsuperscript{12}他手裏拿着簸箕，要揚淨他的穀場，把麥子收在倉裏，把糠用不滅的火燒盡。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}In those days John the Baptist came preaching in the wilderness of Judea, \textsuperscript{2}"Repent, for the kingdom of heaven is at hand." \textsuperscript{3}For this is he who was spoken of by the prophet Isaiah when he said, "The voice of one crying in the wilderness: 'Prepare the way of the Lord; make his paths straight.'"
+> \textsuperscript{1}In those days John the Baptist came preaching in the wilderness of Judea, \textsuperscript{2}and saying, "Repent, for the kingdom of heaven is at hand!" \textsuperscript{3}For this is he who was spoken of by the prophet Isaiah, saying: "The voice of one crying in the wilderness: 'Prepare the way of the Lord; make His paths straight.'"
 
-> \textsuperscript{4}Now John wore a garment of camel's hair and a leather belt around his waist, and his food was locusts and wild honey. \textsuperscript{5}Then Jerusalem and all Judea and all the region about the Jordan were going out to him, \textsuperscript{6}and they were baptized by him in the river Jordan, confessing their sins.
+> \textsuperscript{4}Now John himself was clothed in camel's hair, with a leather belt around his waist; and his food was locusts and wild honey. \textsuperscript{5}Then Jerusalem, all Judea, and all the region around the Jordan went out to him \textsuperscript{6}and were baptized by him in the Jordan, confessing their sins.
 
-> \textsuperscript{7}But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, "You brood of vipers! Who warned you to flee from the wrath to come? \textsuperscript{8}Bear fruit in keeping with repentance. \textsuperscript{9}And do not presume to say to yourselves, 'We have Abraham as our father,' for I tell you, God is able from these stones to raise up children for Abraham. \textsuperscript{10}Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire. \textsuperscript{11}"I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire. \textsuperscript{12}His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire."
+> \textsuperscript{7}But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, "Brood of vipers! Who warned you to flee from the wrath to come? \textsuperscript{8}Therefore bear fruits worthy of repentance, \textsuperscript{9}and do not think to say to yourselves, 'We have Abraham as our father.' For I say to you that God is able to raise up children to Abraham from these stones. \textsuperscript{10}And even now the ax is laid to the root of the trees. Therefore every tree which does not bear good fruit is cut down and thrown into the fire. \textsuperscript{11}I indeed baptize you with water unto repentance, but He who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire. \textsuperscript{12}His winnowing fan is in His hand, and He will thoroughly clean out His threshing floor, and gather His wheat into the barn; but He will burn up the chaff with unquenchable fire."
 
 ---
 
@@ -1486,11 +1490,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{13}當時，耶穌從加利利來到約旦河，到了約翰那裏，要受他的洗。\textsuperscript{14}約翰想要攔住他，說：「我應該受你的洗，你反倒到我這裏來嗎？」\textsuperscript{15}耶穌回答他說：「暫且這樣做吧，因為我們理當這樣履行全部的義。」於是約翰答應了他。\textsuperscript{16}耶穌受了洗，隨即從水裏上來。忽然，天為他開了，他看見神的靈，彷彿鴿子降下，落在他身上。\textsuperscript{17}這時候，從天上有聲音說：「這是我的愛子，我所喜悅的。」
+> \textsuperscript{13}當時，耶穌從加利利來到約旦河，到了約翰那裏，要受他的洗。\textsuperscript{14}約翰想要攔住他，說：「我應該受你的洗，你反倒到我這裏來嗎？」\textsuperscript{15}耶穌回答他說：\jesus{「暫且這樣做吧，因為我們理當這樣履行全部的義。」}於是約翰答應了他。\textsuperscript{16}耶穌受了洗，隨即從水裏上來。忽然，天為他開了，他看見神的靈，彷彿鴿子降下，落在他身上。\textsuperscript{17}這時候，從天上有聲音說：「這是我的愛子，我所喜悅的。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{13}Then Jesus came from Galilee to the Jordan to John, to be baptized by him. \textsuperscript{14}John would have prevented him, saying, "I need to be baptized by you, and do you come to me?" \textsuperscript{15}But Jesus answered him, "Let it be so now, for thus it is fitting for us to fulfill all righteousness." Then he consented. \textsuperscript{16}And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; \textsuperscript{17}and behold, a voice from heaven said, "This is my beloved Son, with whom I am well pleased."
+> \textsuperscript{13}Then Jesus came from Galilee to John at the Jordan to be baptized by him. \textsuperscript{14}And John tried to prevent Him, saying, "I need to be baptized by You, and are You coming to me?" \textsuperscript{15}But Jesus answered and said to him, \jesus{"Permit it to be so now, for thus it is fitting for us to fulfill all righteousness."} Then he allowed Him. \textsuperscript{16}When He had been baptized, Jesus came up immediately from the water; and behold, the heavens were opened to Him, and He saw the Spirit of God descending like a dove and alighting upon Him. \textsuperscript{17}And suddenly a voice came from heaven, saying, "This is My beloved Son, in whom I am well pleased."
 
 ---
 
@@ -1500,19 +1504,19 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}當時，耶穌被聖靈引到曠野，受魔鬼的試探。\textsuperscript{2}他禁食四十晝夜，後來就餓了。\textsuperscript{3}試探者前來，對他說：「你若是神的兒子，叫這些石頭變成食物吧！」\textsuperscript{4}耶穌卻回答：「經上記着：『人活着，不是單靠食物，乃是靠神口裏所出的一切話。』」
+> \textsuperscript{1}當時，耶穌被聖靈引到曠野，受魔鬼的試探。\textsuperscript{2}他禁食四十晝夜，後來就餓了。\textsuperscript{3}試探者前來，對他說：「你若是神的兒子，叫這些石頭變成食物吧！」\textsuperscript{4}耶穌卻回答：\jesus{「經上記着：『人活着，不是單靠食物，乃是靠神口裏所出的一切話。』」}
 
-> \textsuperscript{5}魔鬼就帶他進了聖城，叫他站在殿的最高處，\textsuperscript{6}對他說：「你若是神的兒子，就跳下去！因為經上記着：『主要為你吩咐他的使者，用手托着你，免得你的腳碰在石頭上。』」\textsuperscript{7}耶穌對他說：「經上又記着：『不可試探主你的神。』」
+> \textsuperscript{5}魔鬼就帶他進了聖城，叫他站在殿的最高處，\textsuperscript{6}對他說：「你若是神的兒子，就跳下去！因為經上記着：『主要為你吩咐他的使者，用手托着你，免得你的腳碰在石頭上。』」\textsuperscript{7}耶穌對他說：\jesus{「經上又記着：『不可試探主你的神。』」}
 
-> \textsuperscript{8}魔鬼又帶他上了一座極高的山，把世上的萬國和萬國的榮華都指給他看，\textsuperscript{9}對他說：「你若俯伏拜我，我就把這一切都給你。」\textsuperscript{10}耶穌說：「撒但，退去！因為經上記着：『要拜主你的神，惟獨事奉他。』」\textsuperscript{11}於是魔鬼離開了耶穌，立刻有天使來伺候他。
+> \textsuperscript{8}魔鬼又帶他上了一座極高的山，把世上的萬國和萬國的榮華都指給他看，\textsuperscript{9}對他說：「你若俯伏拜我，我就把這一切都給你。」\textsuperscript{10}耶穌說：\jesus{「撒但，退去！因為經上記着：『要拜主你的神，惟獨事奉他。』」}\textsuperscript{11}於是魔鬼離開了耶穌，立刻有天使來伺候他。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. \textsuperscript{2}And after fasting forty days and forty nights, he was hungry. \textsuperscript{3}And the tempter came and said to him, "If you are the Son of God, command these stones to become loaves of bread." \textsuperscript{4}But he answered, "It is written, 'Man shall not live by bread alone, but by every word that comes from the mouth of God.'"
+> \textsuperscript{1}Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. \textsuperscript{2}And when He had fasted forty days and forty nights, afterward He was hungry. \textsuperscript{3}Now when the tempter came to Him, he said, "If You are the Son of God, command that these stones become bread." \textsuperscript{4}But He answered and said, \jesus{"It is written, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of God.'"}
 
-> \textsuperscript{5}Then the devil took him to the holy city and set him on the pinnacle of the temple \textsuperscript{6}and said to him, "If you are the Son of God, throw yourself down, for it is written, 'He will command his angels concerning you,' and 'On their hands they will bear you up, lest you strike your foot against a stone.'" \textsuperscript{7}Jesus said to him, "Again it is written, 'You shall not put the Lord your God to the test.'"
+> \textsuperscript{5}Then the devil took Him up into the holy city, set Him on the pinnacle of the temple, \textsuperscript{6}and said to Him, "If You are the Son of God, throw Yourself down. For it is written: 'He shall give His angels charge over you,' and, 'In their hands they shall bear you up, lest you dash your foot against a stone.'" \textsuperscript{7}Jesus said to him, \jesus{"It is written again, 'You shall not tempt the Lord your God.'"}
 
-> \textsuperscript{8}Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory. \textsuperscript{9}And he said to him, "All these I will give you, if you will fall down and worship me." \textsuperscript{10}Then Jesus said to him, "Be gone, Satan! For it is written, 'You shall worship the Lord your God and him only shall you serve.'" \textsuperscript{11}Then the devil left him, and behold, angels came and were ministering to him.
+> \textsuperscript{8}Again, the devil took Him up on an exceedingly high mountain, and showed Him all the kingdoms of the world and their glory. \textsuperscript{9}And he said to Him, "All these things I will give You if You will fall down and worship me." \textsuperscript{10}Then Jesus said to him, \jesus{"Away with you, Satan! For it is written, 'You shall worship the Lord your God, and Him only you shall serve.'"} \textsuperscript{11}Then the devil left Him, and behold, angels came and ministered to Him.
 
 ---
 
@@ -1524,9 +1528,9 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{29}次日，約翰看見耶穌來到他那裏，就說：「看哪，神的羔羊，除去世人罪孽的！\textsuperscript{30}這就是我曾說：『有一位在我以後來，反而成了在我以前的，因為他本來在我以前。』\textsuperscript{31}我先前不認識他，如今我來用水施洗，為要使他顯明給以色列人。」\textsuperscript{32}約翰又作見證說：「我曾看見聖靈彷彿鴿子從天降下，停留在他身上。\textsuperscript{33}我先前不認識他，只是那差我來用水施洗的對我說：『你看見聖靈降下來，停留在誰身上，誰就是用聖靈施洗的。』\textsuperscript{34}我看見了，就證明這是神的兒子。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{29}The next day he saw Jesus coming toward him, and said, "Behold, the Lamb of God, who takes away the sin of the world! \textsuperscript{30}This is he of whom I said, 'After me comes a man who ranks before me, because he was before me.' \textsuperscript{31}I myself did not know him, but for this purpose I came baptizing with water, that he might be revealed to Israel." \textsuperscript{32}And John bore witness: "I saw the Spirit descend from heaven like a dove, and it remained on him. \textsuperscript{33}I myself did not know him, but he who sent me to baptize with water said to me, 'He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.' \textsuperscript{34}And I have seen and have borne witness that this is the Son of God."
+> \textsuperscript{29}The next day John saw Jesus coming toward him, and said, "Behold! The Lamb of God who takes away the sin of the world! \textsuperscript{30}This is He of whom I said, 'After me comes a Man who is preferred before me, for He was before me.' \textsuperscript{31}I did not know Him; but that He should be revealed to Israel, therefore I came baptizing with water." \textsuperscript{32}And John bore witness, saying, "I saw the Spirit descending from heaven like a dove, and He remained upon Him. \textsuperscript{33}I did not know Him, but He who sent me to baptize with water said to me, 'Upon whom you see the Spirit descending, and remaining on Him, this is He who baptizes with the Holy Spirit.' \textsuperscript{34}And I have seen and testified that this is the Son of God."
 
 ---
 
@@ -1689,11 +1693,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{35}再次日，約翰和兩個門徒站在那裏。\textsuperscript{36}他見耶穌行走，就說：「看哪，神的羔羊！」\textsuperscript{37}兩個門徒聽見他的話，就跟從了耶穌。\textsuperscript{38}耶穌轉過身來，看見他們跟着，就問他們說：「你們要甚麼？」他們說：「拉比（「拉比」翻出來就是「老師」），你住在哪裏？」\textsuperscript{39}耶穌說：「你們來看。」他們就去看他住的地方，這一天便跟他住在一起。那時大約是下午四點鐘。\textsuperscript{40}聽見約翰的話而跟從耶穌的那兩個人，一個是西門彼得的弟弟安得烈。\textsuperscript{41}他先找到自己的哥哥西門，對他說：「我們遇見彌賽亞了。」（「彌賽亞」翻出來就是「基督」）\textsuperscript{42}於是他帶着西門去見耶穌。耶穌看着他說：「你是約翰的兒子西門，你要稱為磯法。」（「磯法」翻出來就是「彼得」）
+> \textsuperscript{35}再次日，約翰和兩個門徒站在那裏。\textsuperscript{36}他見耶穌行走，就說：「看哪，神的羔羊！」\textsuperscript{37}兩個門徒聽見他的話，就跟從了耶穌。\textsuperscript{38}耶穌轉過身來，看見他們跟着，就問他們說：\jesus{「你們要甚麼？」}他們說：「拉比（「拉比」翻出來就是「老師」），你住在哪裏？」\textsuperscript{39}耶穌說：\jesus{「你們來看。」}他們就去看他住的地方，這一天便跟他住在一起。那時大約是下午四點鐘。\textsuperscript{40}聽見約翰的話而跟從耶穌的那兩個人，一個是西門彼得的弟弟安得烈。\textsuperscript{41}他先找到自己的哥哥西門，對他說：「我們遇見彌賽亞了。」（「彌賽亞」翻出來就是「基督」）\textsuperscript{42}於是他帶着西門去見耶穌。耶穌看着他說：\jesus{「你是約翰的兒子西門，你要稱為磯法。」}（「磯法」翻出來就是「彼得」）
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{35}The next day again John was standing with two of his disciples, \textsuperscript{36}and he looked at Jesus as he walked by and said, "Behold, the Lamb of God!" \textsuperscript{37}The two disciples heard him say this, and they followed Jesus. \textsuperscript{38}Jesus turned and saw them following and said to them, "What are you seeking?" And they said to him, "Rabbi" (which means Teacher), "where are you staying?" \textsuperscript{39}He said to them, "Come and you will see." So they came and saw where he was staying, and they stayed with him that day, for it was about the tenth hour. \textsuperscript{40}One of the two who heard John speak and followed Jesus was Andrew, Simon Peter's brother. \textsuperscript{41}He first found his own brother Simon and said to him, "We have found the Messiah" (which means Christ). \textsuperscript{42}He brought him to Jesus. Jesus looked at him and said, "You are Simon the son of John. You shall be called Cephas" (which means Peter).
+> \textsuperscript{35}Again, the next day, John stood with two of his disciples. \textsuperscript{36}And looking at Jesus as He walked, he said, "Behold the Lamb of God!" \textsuperscript{37}The two disciples heard him speak, and they followed Jesus. \textsuperscript{38}Then Jesus turned, and seeing them following, said to them, \jesus{"What do you seek?"} They said to Him, "Rabbi" (which is to say, when translated, Teacher), "where are You staying?" \textsuperscript{39}He said to them, \jesus{"Come and see."} They came and saw where He was staying, and remained with Him that day (now it was about the tenth hour). \textsuperscript{40}One of the two who heard John speak, and followed Him, was Andrew, Simon Peter's brother. \textsuperscript{41}He first found his own brother Simon, and said to him, "We have found the Messiah" (which is translated, the Christ). \textsuperscript{42}And he brought him to Jesus. Now when Jesus looked at him, He said, \jesus{"You are Simon the son of Jonah. You shall be called Cephas"} (which is translated, A Stone).
 
 ---
 
@@ -1703,11 +1707,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{43}再次日，耶穌想要往加利利去，遇見腓力，就對他說：「來跟從我吧！」\textsuperscript{44}這腓力是伯賽大人，和安得烈、彼得同城。\textsuperscript{45}腓力找到拿但業，對他說：「摩西在律法上所寫的，和眾先知所記的那一位，我們遇見了，就是約瑟的兒子拿撒勒人耶穌。」\textsuperscript{46}拿但業對他說：「拿撒勒還能出甚麼好的嗎？」腓力說：「你來看！」\textsuperscript{47}耶穌看見拿但業向他走來，就論到他說：「看哪，這是個真以色列人，他心裏是沒有詭詐的。」\textsuperscript{48}拿但業對他說：「你從哪裏認識我呢？」耶穌回答他說：「腓力還沒有招呼你，你在無花果樹底下，我就看見你了。」\textsuperscript{49}拿但業回答他：「拉比，你是神的兒子，你是以色列的王！」\textsuperscript{50}耶穌回答他說：「因為我說在無花果樹底下看見你，你就信嗎？你將要看見比這更大的事！」\textsuperscript{51}他又說：「我實實在在地告訴你們，你們將要看見天開了，神的使者上去下來在人子身上。」
+> \textsuperscript{43}再次日，耶穌想要往加利利去，遇見腓力，就對他說：\jesus{「來跟從我吧！」}\textsuperscript{44}這腓力是伯賽大人，和安得烈、彼得同城。\textsuperscript{45}腓力找到拿但業，對他說：「摩西在律法上所寫的，和眾先知所記的那一位，我們遇見了，就是約瑟的兒子拿撒勒人耶穌。」\textsuperscript{46}拿但業對他說：「拿撒勒還能出甚麼好的嗎？」腓力說：「你來看！」\textsuperscript{47}耶穌看見拿但業向他走來，就論到他說：\jesus{「看哪，這是個真以色列人，他心裏是沒有詭詐的。」}\textsuperscript{48}拿但業對他說：「你從哪裏認識我呢？」耶穌回答他說：\jesus{「腓力還沒有招呼你，你在無花果樹底下，我就看見你了。」}\textsuperscript{49}拿但業回答他：「拉比，你是神的兒子，你是以色列的王！」\textsuperscript{50}耶穌回答他說：\jesus{「因為我說在無花果樹底下看見你，你就信嗎？你將要看見比這更大的事！」}\textsuperscript{51}他又說：\jesus{「我實實在在地告訴你們，你們將要看見天開了，神的使者上去下來在人子身上。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{43}The next day Jesus decided to go to Galilee. He found Philip and said to him, "Follow me." \textsuperscript{44}Now Philip was from Bethsaida, the city of Andrew and Peter. \textsuperscript{45}Philip found Nathanael and said to him, "We have found him of whom Moses in the Law and also the prophets wrote, Jesus of Nazareth, the son of Joseph." \textsuperscript{46}Nathanael said to him, "Can anything good come out of Nazareth?" Philip said to him, "Come and see." \textsuperscript{47}Jesus saw Nathanael coming toward him and said of him, "Behold, an Israelite indeed, in whom there is no deceit!" \textsuperscript{48}Nathanael said to him, "How do you know me?" Jesus answered him, "Before Philip called you, when you were under the fig tree, I saw you." \textsuperscript{49}Nathanael answered him, "Rabbi, you are the Son of God! You are the King of Israel!" \textsuperscript{50}Jesus answered him, "Because I said to you, 'I saw you under the fig tree,' do you believe? You will see greater things than these." \textsuperscript{51}And he said to him, "Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man."
+> \textsuperscript{43}The following day Jesus wanted to go to Galilee, and He found Philip and said to him, \jesus{"Follow Me."} \textsuperscript{44}Now Philip was from Bethsaida, the city of Andrew and Peter. \textsuperscript{45}Philip found Nathanael and said to him, "We have found Him of whom Moses in the law, and also the prophets, wrote—Jesus of Nazareth, the son of Joseph." \textsuperscript{46}And Nathanael said to him, "Can anything good come out of Nazareth?" Philip said to him, "Come and see." \textsuperscript{47}Jesus saw Nathanael coming toward Him, and said of him, \jesus{"Behold, an Israelite indeed, in whom is no deceit!"} \textsuperscript{48}Nathanael said to Him, "How do You know me?" Jesus answered and said to him, \jesus{"Before Philip called you, when you were under the fig tree, I saw you."} \textsuperscript{49}Nathanael answered and said to Him, "Rabbi, You are the Son of God! You are the King of Israel!" \textsuperscript{50}Jesus answered and said to him, \jesus{"Because I said to you, 'I saw you under the fig tree,' do you believe? You will see greater things than these."} \textsuperscript{51}And He said to him, \jesus{"Most assuredly, I say to you, hereafter you shall see heaven open, and the angels of God ascending and descending upon the Son of Man."}
 
 ---
 
@@ -1717,11 +1721,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{18}耶穌在加利利海邊行走，看見兄弟二人，就是那稱呼彼得的西門和他弟弟安得烈，正往海裏撒網；他們本是打魚的。\textsuperscript{19}耶穌對他們說：「來跟從我，我要叫你們得人如得魚一樣。」\textsuperscript{20}他們立刻捨了網，跟從了他。\textsuperscript{21}從那裏往前走，他又看見另外兩個兄弟，就是西庇太的兒子雅各和他弟弟約翰，同他們的父親西庇太在船上補網，耶穌就呼召他們。\textsuperscript{22}他們立刻捨了船，別了父親，跟從了耶穌。
+> \textsuperscript{18}耶穌在加利利海邊行走，看見兄弟二人，就是那稱呼彼得的西門和他弟弟安得烈，正往海裏撒網；他們本是打魚的。\textsuperscript{19}耶穌對他們說：\jesus{「來跟從我，我要叫你們得人如得魚一樣。」}\textsuperscript{20}他們立刻捨了網，跟從了他。\textsuperscript{21}從那裏往前走，他又看見另外兩個兄弟，就是西庇太的兒子雅各和他弟弟約翰，同他們的父親西庇太在船上補網，耶穌就呼召他們。\textsuperscript{22}他們立刻捨了船，別了父親，跟從了耶穌。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{18}While walking by the Sea of Galilee, he saw two brothers, Simon (who is called Peter) and Andrew his brother, casting a net into the sea, for they were fishermen. \textsuperscript{19}And he said to them, "Follow me, and I will make you fishers of men." \textsuperscript{20}Immediately they left their nets and followed him. \textsuperscript{21}And going on from there he saw two other brothers, James the son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets, and he called them. \textsuperscript{22}Immediately they left the boat and their father and followed him.
+> \textsuperscript{18}And Jesus, walking by the Sea of Galilee, saw two brothers, Simon called Peter, and Andrew his brother, casting a net into the sea; for they were fishermen. \textsuperscript{19}Then He said to them, \jesus{"Follow Me, and I will make you fishers of men."} \textsuperscript{20}They immediately left their nets and followed Him. \textsuperscript{21}Going on from there, He saw two other brothers, James the son of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets. He called them, \textsuperscript{22}and immediately they left the boat and their father, and followed Him.
 
 ---
 
@@ -1854,19 +1858,19 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}第三日，在加利利的迦拿有人舉行婚宴，耶穌的母親在那裏。\textsuperscript{2}耶穌和他的門徒也被請去赴宴。\textsuperscript{3}酒用完了，耶穌的母親對他說：「他們沒有酒了。」\textsuperscript{4}耶穌說：「母親，我與你何干？我的時候還沒有到。」\textsuperscript{5}他母親對用人說：「他告訴你們甚麼，你們就做甚麼。」
+> \textsuperscript{1}第三日，在加利利的迦拿有人舉行婚宴，耶穌的母親在那裏。\textsuperscript{2}耶穌和他的門徒也被請去赴宴。\textsuperscript{3}酒用完了，耶穌的母親對他說：「他們沒有酒了。」\textsuperscript{4}耶穌說：\jesus{「母親，我與你何干？我的時候還沒有到。」}\textsuperscript{5}他母親對用人說：「他告訴你們甚麼，你們就做甚麼。」
 
-> \textsuperscript{6}照猶太人潔淨禮的規矩，有六口石缸擺在那裏，每口可盛兩三桶水。\textsuperscript{7}耶穌對用人說：「把缸倒滿水。」他們就倒滿了，直到缸口。\textsuperscript{8}耶穌又對他們說：「現在舀出來，送給宴席總管。」他們就送了去。\textsuperscript{9}宴席總管嘗了那水變的酒，不知道是從哪裏來的，只有舀水的用人知道。宴席總管便叫新郎來，\textsuperscript{10}對他說：「人家都是先擺上好酒，等客人喝夠了才擺上次的，你倒把好酒留到現在！」
+> \textsuperscript{6}照猶太人潔淨禮的規矩，有六口石缸擺在那裏，每口可盛兩三桶水。\textsuperscript{7}耶穌對用人說：\jesus{「把缸倒滿水。」}他們就倒滿了，直到缸口。\textsuperscript{8}耶穌又對他們說：\jesus{「現在舀出來，送給宴席總管。」}他們就送了去。\textsuperscript{9}宴席總管嘗了那水變的酒，不知道是從哪裏來的，只有舀水的用人知道。宴席總管便叫新郎來，\textsuperscript{10}對他說：「人家都是先擺上好酒，等客人喝夠了才擺上次的，你倒把好酒留到現在！」
 
 > \textsuperscript{11}這是耶穌所行的第一個神蹟，是在加利利的迦拿行的，顯出了他的榮耀來，他的門徒就信他了。\textsuperscript{12}這事以後，耶穌與他的母親、弟弟和門徒都下迦百農去，在那裏住了不多幾天。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. \textsuperscript{2}Jesus also was invited to the wedding with his disciples. \textsuperscript{3}When the wine ran out, the mother of Jesus said to him, "They have no wine." \textsuperscript{4}And Jesus said to her, "Woman, what does this have to do with me? My hour has not yet come." \textsuperscript{5}His mother said to the servants, "Do whatever he tells you."
+> \textsuperscript{1}On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there. \textsuperscript{2}Now both Jesus and His disciples were invited to the wedding. \textsuperscript{3}And when they ran out of wine, the mother of Jesus said to Him, "They have no wine." \textsuperscript{4}Jesus said to her, \jesus{"Woman, what does your concern have to do with Me? My hour has not yet come."} \textsuperscript{5}His mother said to the servants, "Whatever He says to you, do it."
 
-> \textsuperscript{6}Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. \textsuperscript{7}Jesus said to the servants, "Fill the jars with water." And they filled them up to the brim. \textsuperscript{8}And he said to them, "Now draw some out and take it to the master of the feast." So they took it. \textsuperscript{9}When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom \textsuperscript{10}and said to him, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now."
+> \textsuperscript{6}Now there were set there six waterpots of stone, according to the manner of purification of the Jews, containing twenty or thirty gallons apiece. \textsuperscript{7}Jesus said to them, \jesus{"Fill the waterpots with water."} And they filled them up to the brim. \textsuperscript{8}And He said to them, \jesus{"Draw some out now, and take it to the master of the feast."} And they took it. \textsuperscript{9}When the master of the feast had tasted the water that was made wine, and did not know where it came from (but the servants who had drawn the water knew), the master of the feast called the bridegroom. \textsuperscript{10}And he said to him, "Every man at the beginning sets out the good wine, and when the guests have well drunk, then the inferior. You have kept the good wine until now!"
 
-> \textsuperscript{11}This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him. \textsuperscript{12}After this he went down to Capernaum, with his mother and his brothers and his disciples, and they stayed there for a few days.
+> \textsuperscript{11}This beginning of signs Jesus did in Cana of Galilee, and manifested His glory; and His disciples believed in Him. \textsuperscript{12}After this He went down to Capernaum, He, His mother, His brothers, and His disciples; and they did not stay there many days.
 
 ---
 
@@ -1999,19 +2003,19 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{13}猶太人的逾越節近了，耶穌就上耶路撒冷去。\textsuperscript{14}他看見聖殿裏有賣牛羊鴿子的，還有兌換銀錢的人坐在那裏，\textsuperscript{15}他就拿繩子做成鞭子，把牛羊都趕出聖殿，倒出兌換銀錢之人的錢幣，推翻他們的桌子，\textsuperscript{16}又對賣鴿子的說：「把這些東西拿去！不要把我父的殿當作買賣的地方。」\textsuperscript{17}他的門徒想起經上記着：「我為你的殿心裏焦急，如同火燒。」
+> \textsuperscript{13}猶太人的逾越節近了，耶穌就上耶路撒冷去。\textsuperscript{14}他看見聖殿裏有賣牛羊鴿子的，還有兌換銀錢的人坐在那裏，\textsuperscript{15}他就拿繩子做成鞭子，把牛羊都趕出聖殿，倒出兌換銀錢之人的錢幣，推翻他們的桌子，\textsuperscript{16}又對賣鴿子的說：\jesus{「把這些東西拿去！不要把我父的殿當作買賣的地方。」}\textsuperscript{17}他的門徒想起經上記着：「我為你的殿心裏焦急，如同火燒。」
 
-> \textsuperscript{18}猶太人就質問他說：「你既然做這些事，還顯甚麼神蹟給我們看呢？」\textsuperscript{19}耶穌回答他們說：「你們拆毀這殿，我三日內要把它重建。」\textsuperscript{20}猶太人就說：「這殿是四十六年才造成的，你三日內就能重建嗎？」\textsuperscript{21}但耶穌是以他的身體為殿。\textsuperscript{22}所以，到他從死人中復活以後，門徒想起他曾說過這話，就信了聖經和耶穌所說的話。
+> \textsuperscript{18}猶太人就質問他說：「你既然做這些事，還顯甚麼神蹟給我們看呢？」\textsuperscript{19}耶穌回答他們說：\jesus{「你們拆毀這殿，我三日內要把它重建。」}\textsuperscript{20}猶太人就說：「這殿是四十六年才造成的，你三日內就能重建嗎？」\textsuperscript{21}但耶穌是以他的身體為殿。\textsuperscript{22}所以，到他從死人中復活以後，門徒想起他曾說過這話，就信了聖經和耶穌所說的話。
 
 > \textsuperscript{23}耶穌在耶路撒冷過逾越節的時候，有許多人看見他所行的神蹟，就信了他的名。\textsuperscript{24}耶穌卻不把自己交託他們，因為他知道萬人的心，\textsuperscript{25}也用不着誰為人作見證，因為他知道人心裏所存的。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{13}The Passover of the Jews was at hand, and Jesus went up to Jerusalem. \textsuperscript{14}In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there. \textsuperscript{15}And making a whip of cords, he drove them all out of the temple, with the sheep and oxen. And he poured out the coins of the money-changers and overturned their tables. \textsuperscript{16}And he told those who sold the pigeons, "Take these things away; do not make my Father's house a house of trade." \textsuperscript{17}His disciples remembered that it was written, "Zeal for your house will consume me."
+> \textsuperscript{13}Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem. \textsuperscript{14}And He found in the temple those who sold oxen and sheep and doves, and the money changers doing business. \textsuperscript{15}When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables. \textsuperscript{16}And He said to those who sold doves, \jesus{"Take these things away! Do not make My Father's house a house of merchandise!"} \textsuperscript{17}Then His disciples remembered that it was written, "Zeal for Your house has eaten Me up."
 
-> \textsuperscript{18}So the Jews said to him, "What sign do you show us for doing these things?" \textsuperscript{19}Jesus answered them, "Destroy this temple, and in three days I will raise it up." \textsuperscript{20}The Jews then said, "It has taken forty-six years to build this temple, and will you raise it up in three days?" \textsuperscript{21}But he was speaking about the temple of his body. \textsuperscript{22}When therefore he was raised from the dead, his disciples remembered that he had said this, and they believed the Scripture and the word that Jesus had spoken.
+> \textsuperscript{18}So the Jews answered and said to Him, "What sign do You show to us, since You do these things?" \textsuperscript{19}Jesus answered and said to them, \jesus{"Destroy this temple, and in three days I will raise it up."} \textsuperscript{20}Then the Jews said, "It has taken forty-six years to build this temple, and will You raise it up in three days?" \textsuperscript{21}But He was speaking of the temple of His body. \textsuperscript{22}Therefore, when He had risen from the dead, His disciples remembered that He had said this to them; and they believed the Scripture and the word which Jesus had said.
 
-> \textsuperscript{23}Now when he was in Jerusalem at the Passover Feast, many believed in his name when they saw the signs that he was doing. \textsuperscript{24}But Jesus on his part did not entrust himself to them, because he knew all people \textsuperscript{25}and needed no one to bear witness about man, for he himself knew what was in man.
+> \textsuperscript{23}Now when He was in Jerusalem at the Passover, during the feast, many believed in His name when they saw the signs which He did. \textsuperscript{24}But Jesus did not commit Himself to them, because He knew all men, \textsuperscript{25}and had no need that anyone should testify of man, for He knew what was in man.
 
 ---
 
@@ -2146,19 +2150,19 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}有一個法利賽人，名叫尼哥底母，是猶太人的官。\textsuperscript{2}這人夜裏來見耶穌，對他說：「拉比，我們知道你是由神那裏來作教師的，因為你所行的神蹟，若沒有神同在，無人能行。」\textsuperscript{3}耶穌回答他說：「我實實在在地告訴你：人若不重生，就不能見神的國。」\textsuperscript{4}尼哥底母對他說：「人已經老了，如何能重生呢？豈能再進母腹生出來嗎？」\textsuperscript{5}耶穌回答：「我實實在在地告訴你：人若不是從水和聖靈生的，就不能進神的國。\textsuperscript{6}從肉身生的就是肉身；從靈生的就是靈。\textsuperscript{7}我說『你們必須重生』，你不要驚訝。\textsuperscript{8}風隨着意思吹，你聽見風的聲音，卻不知道是從哪裏來，往哪裏去；凡從聖靈生的也是如此。」
+> \textsuperscript{1}有一個法利賽人，名叫尼哥底母，是猶太人的官。\textsuperscript{2}這人夜裏來見耶穌，對他說：「拉比，我們知道你是由神那裏來作教師的，因為你所行的神蹟，若沒有神同在，無人能行。」\textsuperscript{3}耶穌回答他說：\jesus{「我實實在在地告訴你：人若不重生，就不能見神的國。」}\textsuperscript{4}尼哥底母對他說：「人已經老了，如何能重生呢？豈能再進母腹生出來嗎？」\textsuperscript{5}耶穌回答：\jesus{「我實實在在地告訴你：人若不是從水和聖靈生的，就不能進神的國。\textsuperscript{6}從肉身生的就是肉身；從靈生的就是靈。\textsuperscript{7}我說『你們必須重生』，你不要驚訝。\textsuperscript{8}風隨着意思吹，你聽見風的聲音，卻不知道是從哪裏來，往哪裏去；凡從聖靈生的也是如此。」}
 
-> \textsuperscript{9}尼哥底母問他：「怎麼能有這些事呢？」\textsuperscript{10}耶穌回答他說：「你是以色列人的教師，還不明白這些事嗎？\textsuperscript{11}我實實在在地告訴你：我們所說的是我們知道的，我們所見證的是我們見過的，你們卻不領受我們的見證。\textsuperscript{12}我對你們說地上的事，你們尚且不信；若對你們說天上的事，如何能信呢？\textsuperscript{13}除了從天降下的人子，沒有人升過天。\textsuperscript{14}摩西在曠野怎樣舉蛇，人子也必須照樣被舉起來，\textsuperscript{15}要使一切信他的人都得永生。」
+> \textsuperscript{9}尼哥底母問他：「怎麼能有這些事呢？」\textsuperscript{10}耶穌回答他說：\jesus{「你是以色列人的教師，還不明白這些事嗎？\textsuperscript{11}我實實在在地告訴你：我們所說的是我們知道的，我們所見證的是我們見過的，你們卻不領受我們的見證。\textsuperscript{12}我對你們說地上的事，你們尚且不信；若對你們說天上的事，如何能信呢？\textsuperscript{13}除了從天降下的人子，沒有人升過天。\textsuperscript{14}摩西在曠野怎樣舉蛇，人子也必須照樣被舉起來，\textsuperscript{15}要使一切信他的人都得永生。」}
 
-> \textsuperscript{16}「神愛世人，甚至將他獨一的兒子賜給他們，叫一切信他的人不致滅亡，反得永生。\textsuperscript{17}因為神差他的兒子到世上來，不是要定世人的罪，而是要使世人因他得救。\textsuperscript{18}信他的人不被定罪；不信的人已經被定罪了，因為他不信神獨一兒子的名。\textsuperscript{19}光來到世上，世人因自己的行為是惡的，不愛光，倒愛黑暗，這就定了他們的罪。\textsuperscript{20}凡作惡的人都恨光，不來接近光，恐怕他的行為被暴露。\textsuperscript{21}但行真理的人就來接近光，要顯明他所做的事是靠神而做的。」
+> \jesus{\textsuperscript{16}「神愛世人，甚至將他獨一的兒子賜給他們，叫一切信他的人不致滅亡，反得永生。\textsuperscript{17}因為神差他的兒子到世上來，不是要定世人的罪，而是要使世人因他得救。\textsuperscript{18}信他的人不被定罪；不信的人已經被定罪了，因為他不信神獨一兒子的名。\textsuperscript{19}光來到世上，世人因自己的行為是惡的，不愛光，倒愛黑暗，這就定了他們的罪。\textsuperscript{20}凡作惡的人都恨光，不來接近光，恐怕他的行為被暴露。\textsuperscript{21}但行真理的人就來接近光，要顯明他所做的事是靠神而做的。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews. \textsuperscript{2}This man came to Jesus by night and said to him, "Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him." \textsuperscript{3}Jesus answered him, "Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God." \textsuperscript{4}Nicodemus said to him, "How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?" \textsuperscript{5}Jesus answered, "Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. \textsuperscript{6}That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. \textsuperscript{7}Do not marvel that I said to you, 'You must be born again.' \textsuperscript{8}The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit."
+> \textsuperscript{1}There was a man of the Pharisees named Nicodemus, a ruler of the Jews. \textsuperscript{2}This man came to Jesus by night and said to Him, "Rabbi, we know that You are a teacher come from God; for no one can do these signs that You do unless God is with him." \textsuperscript{3}Jesus answered and said to him, \jesus{"Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God."} \textsuperscript{4}Nicodemus said to Him, "How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?" \textsuperscript{5}Jesus answered, \jesus{"Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. \textsuperscript{6}That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. \textsuperscript{7}Do not marvel that I said to you, 'You must be born again.' \textsuperscript{8}The wind blows where it wishes, and you hear the sound of it, but cannot tell where it comes from and where it goes. So is everyone who is born of the Spirit."}
 
-> \textsuperscript{9}Nicodemus said to him, "How can these things be?" \textsuperscript{10}Jesus answered him, "Are you the teacher of Israel and yet you do not understand these things? \textsuperscript{11}Truly, truly, I say to you, we speak of what we know, and bear witness to what we have seen, but you do not receive our testimony. \textsuperscript{12}If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things? \textsuperscript{13}No one has ascended into heaven except he who descended from heaven, the Son of Man. \textsuperscript{14}And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, \textsuperscript{15}that whoever believes in him may have eternal life.
+> \textsuperscript{9}Nicodemus answered and said to Him, "How can these things be?" \textsuperscript{10}Jesus answered and said to him, \jesus{"Are you the teacher of Israel, and do not know these things? \textsuperscript{11}Most assuredly, I say to you, We speak what We know and testify what We have seen, and you do not receive Our witness. \textsuperscript{12}If I have told you earthly things and you do not believe, how will you believe if I tell you heavenly things? \textsuperscript{13}No one has ascended to heaven but He who came down from heaven, that is, the Son of Man who is in heaven. \textsuperscript{14}And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, \textsuperscript{15}that whoever believes in Him should not perish but have eternal life.}
 
-> \textsuperscript{16}"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. \textsuperscript{17}For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. \textsuperscript{18}Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God. \textsuperscript{19}And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. \textsuperscript{20}For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed. \textsuperscript{21}But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God."
+> \jesus{\textsuperscript{16}For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life. \textsuperscript{17}For God did not send His Son into the world to condemn the world, but that the world through Him might be saved. \textsuperscript{18}He who believes in Him is not condemned; but he who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God. \textsuperscript{19}And this is the condemnation, that the light has come into the world, and men loved darkness rather than light, because their deeds were evil. \textsuperscript{20}For everyone practicing evil hates the light and does not come to the light, lest his deeds should be exposed. \textsuperscript{21}But he who does the truth comes to the light, that his deeds may be clearly seen, that they have been done in God."}
 
 ---
 
@@ -2311,37 +2315,37 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{1}主知道法利賽人聽見他收門徒、施洗比約翰還多——\textsuperscript{2}其實不是耶穌親自施洗，而是他的門徒施洗——\textsuperscript{3}他就離開猶太，再往加利利去。\textsuperscript{4}他必須經過撒瑪利亞。\textsuperscript{5}於是他來到撒瑪利亞的一座城，名叫敘加，靠近雅各給他兒子約瑟的那塊地。\textsuperscript{6}雅各井就在那裏；耶穌因走路疲乏，就坐在井旁。那時約是正午。
 
-> \textsuperscript{7}有一個撒瑪利亞的婦人來打水，耶穌對她說：「請給我水喝。」\textsuperscript{8}那時門徒進城買食物去了。\textsuperscript{9}撒瑪利亞的婦人對他說：「你既是猶太人，怎麼向我一個撒瑪利亞的婦人要水喝呢？」原來猶太人和撒瑪利亞人沒有來往。\textsuperscript{10}耶穌回答她說：「你若知道神的恩賜，和對你說『給我水喝』的是誰，你必早求他，他也必早給了你活水。」
+> \textsuperscript{7}有一個撒瑪利亞的婦人來打水，耶穌對她說：\jesus{「請給我水喝。」}\textsuperscript{8}那時門徒進城買食物去了。\textsuperscript{9}撒瑪利亞的婦人對他說：「你既是猶太人，怎麼向我一個撒瑪利亞的婦人要水喝呢？」原來猶太人和撒瑪利亞人沒有來往。\textsuperscript{10}耶穌回答她說：\jesus{「你若知道神的恩賜，和對你說『給我水喝』的是誰，你必早求他，他也必早給了你活水。」}
 
-> \textsuperscript{11}婦人說：「先生，你沒有打水的器具，井又深，你從哪裏得活水呢？\textsuperscript{12}我們的祖宗雅各把這井留給我們，他自己和兒子以及牲畜都喝這井的水，難道你比他還大嗎？」\textsuperscript{13}耶穌回答：「凡喝這水的，還要再渴；\textsuperscript{14}人若喝我所賜的水，就永遠不渴。我所賜的水要在他裏面成為泉源，直湧到永生。」\textsuperscript{15}婦人說：「先生，請把這水賜給我，使我不渴，也不用來這麼遠打水。」
+> \textsuperscript{11}婦人說：「先生，你沒有打水的器具，井又深，你從哪裏得活水呢？\textsuperscript{12}我們的祖宗雅各把這井留給我們，他自己和兒子以及牲畜都喝這井的水，難道你比他還大嗎？」\textsuperscript{13}耶穌回答：\jesus{「凡喝這水的，還要再渴；\textsuperscript{14}人若喝我所賜的水，就永遠不渴。我所賜的水要在他裏面成為泉源，直湧到永生。」}\textsuperscript{15}婦人說：「先生，請把這水賜給我，使我不渴，也不用來這麼遠打水。」
 
-> \textsuperscript{16}耶穌說：「你去叫你丈夫，然後回到這裏來。」\textsuperscript{17}婦人回答：「我沒有丈夫。」耶穌說：「你說沒有丈夫是對的。\textsuperscript{18}你已經有五個丈夫，你現在有的並不是你的丈夫。你這話是真的。」\textsuperscript{19}婦人說：「先生，我看你是先知。\textsuperscript{20}我們的祖宗在這山上敬拜神，你們倒說，應當敬拜的地方是在耶路撒冷。」
+> \textsuperscript{16}耶穌說：\jesus{「你去叫你丈夫，然後回到這裏來。」}\textsuperscript{17}婦人回答：「我沒有丈夫。」耶穌說：\jesus{「你說沒有丈夫是對的。\textsuperscript{18}你已經有五個丈夫，你現在有的並不是你的丈夫。你這話是真的。」}\textsuperscript{19}婦人說：「先生，我看你是先知。\textsuperscript{20}我們的祖宗在這山上敬拜神，你們倒說，應當敬拜的地方是在耶路撒冷。」
 
-> \textsuperscript{21}耶穌說：「婦人，你要信我。時候將到，你們敬拜父不在這山上，也不在耶路撒冷。\textsuperscript{22}你們所敬拜的，你們不知道；我們所敬拜的，我們知道，因為救恩是從猶太人出來的。\textsuperscript{23}時候將到，現在就是了，那真正敬拜父的，要用心靈和誠實敬拜他，因為父要這樣的人敬拜他。\textsuperscript{24}神是靈，所以敬拜他的必須用心靈和誠實敬拜他。」\textsuperscript{25}婦人對他說：「我知道彌賽亞——就是那稱為基督的——要來；他來了，會把一切的事都告訴我們。」\textsuperscript{26}耶穌對她說：「我就是，正在跟你說話呢！」
+> \textsuperscript{21}耶穌說：\jesus{「婦人，你要信我。時候將到，你們敬拜父不在這山上，也不在耶路撒冷。\textsuperscript{22}你們所敬拜的，你們不知道；我們所敬拜的，我們知道，因為救恩是從猶太人出來的。\textsuperscript{23}時候將到，現在就是了，那真正敬拜父的，要用心靈和誠實敬拜他，因為父要這樣的人敬拜他。\textsuperscript{24}神是靈，所以敬拜他的必須用心靈和誠實敬拜他。」}\textsuperscript{25}婦人對他說：「我知道彌賽亞——就是那稱為基督的——要來；他來了，會把一切的事都告訴我們。」\textsuperscript{26}耶穌對她說：\jesus{「我就是，正在跟你說話呢！」}
 
 > \textsuperscript{27}正在這時候，門徒回來了，就驚訝耶穌和一個婦人說話；只是沒有人問「你要甚麼？」或問「你為甚麼和她說話？」\textsuperscript{28}那婦人就留下水罐，進城去對城裏的人說：\textsuperscript{29}「你們來看！有一個人把我一切所做的事都說了出來，莫非這就是基督嗎？」\textsuperscript{30}眾人就出城來找耶穌。
 
-> \textsuperscript{31}這其間，門徒求耶穌說：「拉比，請吃。」\textsuperscript{32}耶穌對他們說：「我有食物吃，是你們不知道的。」\textsuperscript{33}門徒就彼此說：「莫非有人拿甚麼給他吃嗎？」\textsuperscript{34}耶穌對他們說：「我的食物就是遵行差我來者的旨意，完成他的工作。\textsuperscript{35}你們不是說『還有四個月才到收割的時候』嗎？我告訴你們，舉目向田觀看，莊稼熟了，可以收割了。\textsuperscript{36}收割的人得工錢，收積五穀到永生，使撒種的和收割的一同快樂。\textsuperscript{37}這話是真的：『那人撒種，這人收割。』\textsuperscript{38}我差你們去收你們所沒有勞苦的；別人勞苦，你們享受他們勞苦的成果。」
+> \textsuperscript{31}這其間，門徒求耶穌說：「拉比，請吃。」\textsuperscript{32}耶穌對他們說：\jesus{「我有食物吃，是你們不知道的。」}\textsuperscript{33}門徒就彼此說：「莫非有人拿甚麼給他吃嗎？」\textsuperscript{34}耶穌對他們說：\jesus{「我的食物就是遵行差我來者的旨意，完成他的工作。\textsuperscript{35}你們不是說『還有四個月才到收割的時候』嗎？我告訴你們，舉目向田觀看，莊稼熟了，可以收割了。\textsuperscript{36}收割的人得工錢，收積五穀到永生，使撒種的和收割的一同快樂。\textsuperscript{37}這話是真的：『那人撒種，這人收割。』\textsuperscript{38}我差你們去收你們所沒有勞苦的；別人勞苦，你們享受他們勞苦的成果。」}
 
-> \textsuperscript{39}那城裏有好些撒瑪利亞人信了耶穌，因為那婦人作見證說：「他把我一切所做的事都說了出來。」\textsuperscript{40}於是撒瑪利亞人來見耶穌，求他在他們那裏住下，他就在那裏住了兩天。\textsuperscript{41}因耶穌的話，信的人就更多了。\textsuperscript{42}他們對那婦人說：「現在我們信，不再是因為你的話，而是因為我們親自聽見了，知道這人真是世人的救主。」
+> \textsuperscript{39}那城裏有好些撒瑪利亞人信了耶穌，因為那婦人作見證說：「他把我一切所做的事都說了出來。」\textsuperscript{40}於是撒瑪利亞人來見耶穌，求他在他們那裏住下，他就在那裏住了兩天。\textsuperscript{41}因耶穌的話，信的人就更多了。\textsuperscript{42}他們對那婦人說：「現在我們信，不再是因為你的話，而是因為我們親自聯見了，知道這人真是世人的救主。」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John \textsuperscript{2}(although Jesus himself did not baptize, but only his disciples), \textsuperscript{3}he left Judea and departed again for Galilee. \textsuperscript{4}And he had to pass through Samaria. \textsuperscript{5}So he came to a town of Samaria called Sychar, near the field that Jacob had given to his son Joseph. \textsuperscript{6}Jacob's well was there; so Jesus, wearied as he was from his journey, was sitting beside the well. It was about the sixth hour.
+> \textsuperscript{1}Therefore, when the Lord knew that the Pharisees had heard that Jesus made and baptized more disciples than John \textsuperscript{2}(though Jesus Himself did not baptize, but His disciples), \textsuperscript{3}He left Judea and departed again to Galilee. \textsuperscript{4}But He needed to go through Samaria. \textsuperscript{5}So He came to a city of Samaria which is called Sychar, near the plot of ground that Jacob gave to his son Joseph. \textsuperscript{6}Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour.
 
-> \textsuperscript{7}A woman from Samaria came to draw water. Jesus said to her, "Give me a drink." \textsuperscript{8}(For his disciples had gone away into the city to buy food.) \textsuperscript{9}The Samaritan woman said to him, "How is it that you, a Jew, ask for a drink from me, a woman of Samaria?" (For Jews have no dealings with Samaritans.) \textsuperscript{10}Jesus answered her, "If you knew the gift of God, and who it is that is saying to you, 'Give me a drink,' you would have asked him, and he would have given you living water."
+> \textsuperscript{7}A woman of Samaria came to draw water. Jesus said to her, \jesus{"Give Me a drink."} \textsuperscript{8}For His disciples had gone away into the city to buy food. \textsuperscript{9}Then the woman of Samaria said to Him, "How is it that You, being a Jew, ask a drink from me, a Samaritan woman?" For Jews have no dealings with Samaritans. \textsuperscript{10}Jesus answered and said to her, \jesus{"If you knew the gift of God, and who it is who says to you, 'Give Me a drink,' you would have asked Him, and He would have given you living water."}
 
-> \textsuperscript{11}The woman said to him, "Sir, you have nothing to draw water with, and the well is deep. Where do you get that living water? \textsuperscript{12}Are you greater than our father Jacob? He gave us the well and drank from it himself, as did his sons and his livestock." \textsuperscript{13}Jesus said to her, "Everyone who drinks of this water will be thirsty again, \textsuperscript{14}but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life." \textsuperscript{15}The woman said to him, "Sir, give me this water, so that I will not be thirsty or have to come here to draw water."
+> \textsuperscript{11}The woman said to Him, "Sir, You have nothing to draw with, and the well is deep. Where then do You get that living water? \textsuperscript{12}Are You greater than our father Jacob, who gave us the well, and drank from it himself, as well as his sons and his livestock?" \textsuperscript{13}Jesus answered and said to her, \jesus{"Whoever drinks of this water will thirst again, \textsuperscript{14}but whoever drinks of the water that I shall give him will never thirst. But the water that I shall give him will become in him a fountain of water springing up into everlasting life."} \textsuperscript{15}The woman said to Him, "Sir, give me this water, that I may not thirst, nor come here to draw."
 
-> \textsuperscript{16}Jesus said to her, "Go, call your husband, and come here." \textsuperscript{17}The woman answered him, "I have no husband." Jesus said to her, "You are right in saying, 'I have no husband'; \textsuperscript{18}for you have had five husbands, and the one you now have is not your husband. What you have said is true." \textsuperscript{19}The woman said to him, "Sir, I perceive that you are a prophet. \textsuperscript{20}Our fathers worshiped on this mountain, but you say that in Jerusalem is the place where people ought to worship."
+> \textsuperscript{16}Jesus said to her, \jesus{"Go, call your husband, and come here."} \textsuperscript{17}The woman answered and said, "I have no husband." Jesus said to her, \jesus{"You have well said, 'I have no husband,' \textsuperscript{18}for you have had five husbands, and the one whom you now have is not your husband; in that you spoke truly."} \textsuperscript{19}The woman said to Him, "Sir, I perceive that You are a prophet. \textsuperscript{20}Our fathers worshiped on this mountain, and you Jews say that in Jerusalem is the place where one ought to worship."
 
-> \textsuperscript{21}Jesus said to her, "Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father. \textsuperscript{22}You worship what you do not know; we worship what we know, for salvation is from the Jews. \textsuperscript{23}But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him. \textsuperscript{24}God is spirit, and those who worship him must worship in spirit and truth." \textsuperscript{25}The woman said to him, "I know that Messiah is coming (he who is called Christ). When he comes, he will tell us all things." \textsuperscript{26}Jesus said to her, "I who speak to you am he."
+> \textsuperscript{21}Jesus said to her, \jesus{"Woman, believe Me, the hour is coming when you will neither on this mountain, nor in Jerusalem, worship the Father. \textsuperscript{22}You worship what you do not know; we know what we worship, for salvation is of the Jews. \textsuperscript{23}But the hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking such to worship Him. \textsuperscript{24}God is Spirit, and those who worship Him must worship in spirit and truth."} \textsuperscript{25}The woman said to Him, "I know that Messiah is coming" (who is called Christ). "When He comes, He will tell us all things." \textsuperscript{26}Jesus said to her, \jesus{"I who speak to you am He."}
 
-> \textsuperscript{27}Just then his disciples came back. They marveled that he was talking with a woman, but no one said, "What do you seek?" or, "Why are you talking with her?" \textsuperscript{28}So the woman left her water jar and went away into town and said to the people, \textsuperscript{29}"Come, see a man who told me all that I ever did. Can this be the Christ?" \textsuperscript{30}They went out of the town and were coming to him.
+> \textsuperscript{27}And at this point His disciples came, and they marveled that He talked with a woman; yet no one said, "What do You seek?" or, "Why are You talking with her?" \textsuperscript{28}The woman then left her waterpot, went her way into the city, and said to the men, \textsuperscript{29}"Come, see a Man who told me all things that I ever did. Could this be the Christ?" \textsuperscript{30}Then they went out of the city and came to Him.
 
-> \textsuperscript{31}Meanwhile the disciples were urging him, saying, "Rabbi, eat." \textsuperscript{32}But he said to them, "I have food to eat that you do not know about." \textsuperscript{33}So the disciples said to one another, "Has anyone brought him something to eat?" \textsuperscript{34}Jesus said to them, "My food is to do the will of him who sent me and to accomplish his work. \textsuperscript{35}Do you not say, 'There are yet four months, then comes the harvest'? Look, I tell you, lift up your eyes, and see that the fields are white for harvest. \textsuperscript{36}Already the one who reaps is receiving wages and gathering fruit for eternal life, so that sower and reaper may rejoice together. \textsuperscript{37}For here the saying holds true, 'One sows and another reaps.' \textsuperscript{38}I sent you to reap that for which you did not labor. Others have labored, and you have entered into their labor."
+> \textsuperscript{31}In the meantime His disciples urged Him, saying, "Rabbi, eat." \textsuperscript{32}But He said to them, \jesus{"I have food to eat of which you do not know."} \textsuperscript{33}Therefore the disciples said to one another, "Has anyone brought Him anything to eat?" \textsuperscript{34}Jesus said to them, \jesus{"My food is to do the will of Him who sent Me, and to finish His work. \textsuperscript{35}Do you not say, 'There are still four months and then comes the harvest'? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest! \textsuperscript{36}And he who reaps receives wages, and gathers fruit for eternal life, that both he who sows and he who reaps may rejoice together. \textsuperscript{37}For in this the saying is true: 'One sows and another reaps.' \textsuperscript{38}I sent you to reap that for which you have not labored; others have labored, and you have entered into their labors."}
 
-> \textsuperscript{39}Many Samaritans from that town believed in him because of the woman's testimony, "He told me all that I ever did." \textsuperscript{40}So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days. \textsuperscript{41}And many more believed because of his word. \textsuperscript{42}They said to the woman, "It is no longer because of what you said that we believe, for we have heard for ourselves, and we know that this is indeed the Savior of the world."
+> \textsuperscript{39}And many of the Samaritans of that city believed in Him because of the word of the woman who testified, "He told me all that I ever did." \textsuperscript{40}So when the Samaritans had come to Him, they urged Him to stay with them; and He stayed there two days. \textsuperscript{41}And many more believed because of His own word. \textsuperscript{42}Then they said to the woman, "Now we believe, not because of what you said, for we ourselves have heard Him and we know that this is indeed the Christ, the Savior of the world."
 
 ---
 
@@ -2507,11 +2511,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{46}耶穌又到了加利利的迦拿，就是他從前變水為酒的地方。有一個大臣，他的兒子在迦百農患病。\textsuperscript{47}他聽見耶穌從猶太到了加利利，就來見他，求他下去醫治他的兒子，因為他兒子快要死了。\textsuperscript{48}耶穌對他說：「若不看見神蹟奇事，你們總是不信。」\textsuperscript{49}那大臣對他說：「先生，求你趁我的孩子還沒有死就下去。」\textsuperscript{50}耶穌對他說：「回去吧，你的兒子活了！」那人信耶穌所說的話，就回去了。\textsuperscript{51}正下去的時候，他的僕人迎見他，說他的孩子活了。\textsuperscript{52}他就問甚麼時候好轉的。他們說：「昨天下午一點鐘熱就退了。」\textsuperscript{53}父親知道那正是耶穌對他說「你的兒子活了」的時候，他和全家就都信了。\textsuperscript{54}這是耶穌從猶太回到加利利所行的第二個神蹟。
+> \textsuperscript{46}耶穌又到了加利利的迦拿，就是他從前變水為酒的地方。有一個大臣，他的兒子在迦百農患病。\textsuperscript{47}他聽見耶穌從猶太到了加利利，就來見他，求他下去醫治他的兒子，因為他兒子快要死了。\textsuperscript{48}耶穌對他說：\jesus{「若不看見神蹟奇事，你們總是不信。」}\textsuperscript{49}那大臣對他說：「先生，求你趁我的孩子還沒有死就下去。」\textsuperscript{50}耶穌對他說：\jesus{「回去吧，你的兒子活了！」}那人信耶穌所說的話，就回去了。\textsuperscript{51}正下去的時候，他的僕人迎見他，說他的孩子活了。\textsuperscript{52}他就問甚麼時候好轉的。他們說：「昨天下午一點鐘熱就退了。」\textsuperscript{53}父親知道那正是耶穌對他說「你的兒子活了」的時候，他和全家就都信了。\textsuperscript{54}這是耶穌從猶太回到加利利所行的第二個神蹟。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{46}So he came again to Cana in Galilee, where he had made the water wine. And at Capernaum there was an official whose son was ill. \textsuperscript{47}When this man heard that Jesus had come from Judea to Galilee, he went to him and asked him to come down and heal his son, for he was at the point of death. \textsuperscript{48}So Jesus said to him, "Unless you see signs and wonders you will not believe." \textsuperscript{49}The official said to him, "Sir, come down before my child dies." \textsuperscript{50}Jesus said to him, "Go; your son will live." The man believed the word that Jesus spoke to him and went on his way. \textsuperscript{51}As he was going down, his servants met him and told him that his son was recovering. \textsuperscript{52}So he asked them the hour when he began to get better, and they said to him, "Yesterday at the seventh hour the fever left him." \textsuperscript{53}The father knew that was the hour when Jesus had said to him, "Your son will live." And he himself believed, and all his household. \textsuperscript{54}This was now the second sign that Jesus did when he had come from Judea to Galilee.
+> \textsuperscript{46}So Jesus came again to Cana of Galilee where He had made the water wine. And there was a certain nobleman whose son was sick at Capernaum. \textsuperscript{47}When he heard that Jesus had come out of Judea into Galilee, he went to Him and implored Him to come down and heal his son, for he was at the point of death. \textsuperscript{48}Then Jesus said to him, \jesus{"Unless you people see signs and wonders, you will by no means believe."} \textsuperscript{49}The nobleman said to Him, "Sir, come down before my child dies!" \textsuperscript{50}Jesus said to him, \jesus{"Go your way; your son lives."} So the man believed the word that Jesus spoke to him, and he went his way. \textsuperscript{51}And as he was now going down, his servants met him and told him, saying, "Your son lives!" \textsuperscript{52}Then he inquired of them the hour when he got better. And they said to him, "Yesterday at the seventh hour the fever left him." \textsuperscript{53}So the father knew that it was at the same hour in which Jesus said to him, "Your son lives." And he himself believed, and his whole household. \textsuperscript{54}This again is the second sign Jesus did when He had come out of Judea into Galilee.
 
 ---
 
@@ -2519,15 +2523,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}這些事以後，到了猶太人的一個節期，耶穌就上耶路撒冷去。\textsuperscript{2}在耶路撒冷，靠近羊門有一個池子，希伯來話叫作畢士大，旁邊有五個廊子。\textsuperscript{3}裏面躺着瞎眼的、瘸腿的、血氣枯乾的許多病人。\textsuperscript{5}在那裏有一個人，病了三十八年。\textsuperscript{6}耶穌看見他躺着，知道他病了很久，就問他：「你要痊癒嗎？」\textsuperscript{7}病人回答：「先生，水動的時候，沒有人把我放在池子裏；我正要去的時候，別人比我先下去了。」\textsuperscript{8}耶穌對他說：「起來，拿起你的褥子走吧！」\textsuperscript{9}那人立刻痊癒，就拿起褥子走了。
+> \textsuperscript{1}這些事以後，到了猶太人的一個節期，耶穌就上耶路撒冷去。\textsuperscript{2}在耶路撒冷，靠近羊門有一個池子，希伯來話叫作畢士大，旁邊有五個廊子。\textsuperscript{3}裏面躺着瞎眼的、瘸腿的、血氣枯乾的許多病人。\textsuperscript{5}在那裏有一個人，病了三十八年。\textsuperscript{6}耶穌看見他躺着，知道他病了很久，就問他：\jesus{「你要痊癒嗎？」}\textsuperscript{7}病人回答：「先生，水動的時候，沒有人把我放在池子裏；我正要去的時候，別人比我先下去了。」\textsuperscript{8}耶穌對他說：\jesus{「起來，拿起你的褥子走吧！」}\textsuperscript{9}那人立刻痊癒，就拿起褥子走了。
 
-> \textsuperscript{10}那天是安息日，所以猶太人對那醫好的人說：「今天是安息日，你拿褥子是不合法的。」\textsuperscript{11}他卻回答他們：「那使我痊癒的對我說：『拿起你的褥子走吧！』」\textsuperscript{12}他們問他：「對你說『拿起來走』的是甚麼人？」\textsuperscript{13}那醫好的人不知道是誰，因為那裏人很多，耶穌已經避開了。\textsuperscript{14}後來耶穌在聖殿裏找到他，對他說：「你已經痊癒了，不要再犯罪，恐怕你遭遇的更加厲害。」\textsuperscript{15}那人就去告訴猶太人，使他痊癒的是耶穌。\textsuperscript{16}所以猶太人迫害耶穌，因為他在安息日做了這些事。\textsuperscript{17}耶穌就對他們說：「我父做事直到如今，我也做事。」\textsuperscript{18}為了這緣故，猶太人越發想要殺他，因為他不但犯了安息日，而且稱神為他的父，把自己和神看為同等。
+> \textsuperscript{10}那天是安息日，所以猶太人對那醫好的人說：「今天是安息日，你拿褥子是不合法的。」\textsuperscript{11}他卻回答他們：「那使我痊癒的對我說：『拿起你的褥子走吧！』」\textsuperscript{12}他們問他：「對你說『拿起來走』的是甚麼人？」\textsuperscript{13}那醫好的人不知道是誰，因為那裏人很多，耶穌已經避開了。\textsuperscript{14}後來耶穌在聖殿裏找到他，對他說：\jesus{「你已經痊癒了，不要再犯罪，恐怕你遭遇的更加厲害。」}\textsuperscript{15}那人就去告訴猶太人，使他痊癒的是耶穌。\textsuperscript{16}所以猶太人迫害耶穌，因為他在安息日做了這些事。\textsuperscript{17}耶穌就對他們說：\jesus{「我父做事直到如今，我也做事。」}\textsuperscript{18}為了這緣故，猶太人越發想要殺他，因為他不但犯了安息日，而且稱神為他的父，把自己和神看為同等。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}After this there was a feast of the Jews, and Jesus went up to Jerusalem. \textsuperscript{2}Now there is in Jerusalem by the Sheep Gate a pool, in Aramaic called Bethesda, which has five roofed colonnades. \textsuperscript{3}In these lay a multitude of invalids—blind, lame, and paralyzed. \textsuperscript{5}One man was there who had been an invalid for thirty-eight years. \textsuperscript{6}When Jesus saw him lying there and knew that he had already been there a long time, he said to him, "Do you want to be healed?" \textsuperscript{7}The sick man answered him, "Sir, I have no one to put me into the pool when the water is stirred up, and while I am going another steps down before me." \textsuperscript{8}Jesus said to him, "Get up, take up your bed, and walk." \textsuperscript{9}And at once the man was healed, and he took up his bed and walked.
+> \textsuperscript{1}After this there was a feast of the Jews, and Jesus went up to Jerusalem. \textsuperscript{2}Now there is in Jerusalem by the Sheep Gate a pool, which is called in Hebrew, Bethesda, having five porches. \textsuperscript{3}In these lay a great multitude of sick people, blind, lame, paralyzed, waiting for the moving of the water. \textsuperscript{5}Now a certain man was there who had an infirmity thirty-eight years. \textsuperscript{6}When Jesus saw him lying there, and knew that he already had been in that condition a long time, He said to him, \jesus{"Do you want to be made well?"} \textsuperscript{7}The sick man answered Him, "Sir, I have no man to put me into the pool when the water is stirred up; but while I am coming, another steps down before me." \textsuperscript{8}Jesus said to him, \jesus{"Rise, take up your bed and walk."} \textsuperscript{9}And immediately the man was made well, took up his bed, and walked.
 
-> Now that day was the Sabbath. \textsuperscript{10}So the Jews said to the man who had been healed, "It is the Sabbath, and it is not lawful for you to take up your bed." \textsuperscript{11}But he answered them, "The man who healed me, that man said to me, 'Take up your bed, and walk.'" \textsuperscript{12}They asked him, "Who is the man who said to you, 'Take up your bed and walk'?" \textsuperscript{13}Now the man who had been healed did not know who it was, for Jesus had withdrawn, as there was a crowd in the place. \textsuperscript{14}Afterward Jesus found him in the temple and said to him, "See, you are well! Sin no more, that nothing worse may happen to you." \textsuperscript{15}The man went away and told the Jews that it was Jesus who had healed him. \textsuperscript{16}And this was why the Jews were persecuting Jesus, because he was doing these things on the Sabbath. \textsuperscript{17}But Jesus answered them, "My Father is working until now, and I am working." \textsuperscript{18}This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God.
+> And that day was the Sabbath. \textsuperscript{10}The Jews therefore said to him who was cured, "It is the Sabbath; it is not lawful for you to carry your bed." \textsuperscript{11}He answered them, "He who made me well said to me, 'Take up your bed and walk.'" \textsuperscript{12}Then they asked him, "Who is the Man who said to you, 'Take up your bed and walk'?" \textsuperscript{13}But the one who was healed did not know who it was, for Jesus had withdrawn, a multitude being in that place. \textsuperscript{14}Afterward Jesus found him in the temple, and said to him, \jesus{"See, you have been made well. Sin no more, lest a worse thing come upon you."} \textsuperscript{15}The man departed and told the Jews that it was Jesus who had made him well. \textsuperscript{16}For this reason the Jews persecuted Jesus, and sought to kill Him, because He had done these things on the Sabbath. \textsuperscript{17}But Jesus answered them, \jesus{"My Father has been working until now, and I have been working."} \textsuperscript{18}Therefore the Jews sought all the more to kill Him, because He not only broke the Sabbath, but also said that God was His Father, making Himself equal with God.
 
 ---
 
@@ -2679,7 +2683,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{1}耶穌看見這一群人，就上了山，坐下後，門徒到他跟前來，\textsuperscript{2}他開口教導他們，說：
 >
-> \textsuperscript{3}「心靈貧窮的人有福了！因為天國是他們的。
+> \jesus{\textsuperscript{3}「心靈貧窮的人有福了！因為天國是他們的。
 > \textsuperscript{4}哀慟的人有福了！因為他們必得安慰。
 > \textsuperscript{5}謙和的人有福了！因為他們必承受土地。
 > \textsuperscript{6}飢渴慕義的人有福了！因為他們必得飽足。
@@ -2687,21 +2691,21 @@ MacArthur 強調三重「道」的含義：
 > \textsuperscript{8}清心的人有福了！因為他們必得見神。
 > \textsuperscript{9}締造和平的人有福了！因為他們必稱為神的兒子。
 > \textsuperscript{10}為義受迫害的人有福了！因為天國是他們的。
-> \textsuperscript{11}人若因我辱罵你們，迫害你們，捏造各樣壞話毀謗你們，你們就有福了！\textsuperscript{12}要歡喜快樂，因為你們在天上的賞賜是很多的。在你們以前的先知，人也是這樣迫害他們。」
+> \textsuperscript{11}人若因我辱罵你們，迫害你們，捏造各樣壞話毀謗你們，你們就有福了！\textsuperscript{12}要歡喜快樂，因為你們在天上的賞賜是很多的。在你們以前的先知，人也是這樣迫害他們。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him. \textsuperscript{2}And he opened his mouth and taught them, saying:
+> \textsuperscript{1}And seeing the multitudes, He went up on a mountain, and when He was seated His disciples came to Him. \textsuperscript{2}Then He opened His mouth and taught them, saying:
 >
-> \textsuperscript{3}"Blessed are the poor in spirit, for theirs is the kingdom of heaven.
+> \jesus{\textsuperscript{3}"Blessed are the poor in spirit, for theirs is the kingdom of heaven.
 > \textsuperscript{4}Blessed are those who mourn, for they shall be comforted.
 > \textsuperscript{5}Blessed are the meek, for they shall inherit the earth.
-> \textsuperscript{6}Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.
-> \textsuperscript{7}Blessed are the merciful, for they shall receive mercy.
+> \textsuperscript{6}Blessed are those who hunger and thirst for righteousness, for they shall be filled.
+> \textsuperscript{7}Blessed are the merciful, for they shall obtain mercy.
 > \textsuperscript{8}Blessed are the pure in heart, for they shall see God.
 > \textsuperscript{9}Blessed are the peacemakers, for they shall be called sons of God.
 > \textsuperscript{10}Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.
-> \textsuperscript{11}Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. \textsuperscript{12}Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."
+> \textsuperscript{11}Blessed are you when they revile and persecute you, and say all kinds of evil against you falsely for My sake. \textsuperscript{12}Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you."}
 
 ---
 
@@ -2709,7 +2713,7 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{9}「所以，你們要這樣禱告：
+> \jesus{\textsuperscript{9}「所以，你們要這樣禱告：
 > 『我們在天上的父：
 > 願人都尊你的名為聖。
 > \textsuperscript{10}願你的國降臨；
@@ -2719,21 +2723,22 @@ MacArthur 強調三重「道」的含義：
 > \textsuperscript{12}免我們的債，
 > 如同我們免了人的債。
 > \textsuperscript{13}不叫我們陷入試探；
-> 救我們脫離那惡者。』」
+> 救我們脫離那惡者。』」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{9}"Pray then like this:
-> 'Our Father in heaven,
-> hallowed be your name.
-> \textsuperscript{10}Your kingdom come,
-> your will be done,
-> on earth as it is in heaven.
-> \textsuperscript{11}Give us this day our daily bread,
-> \textsuperscript{12}and forgive us our debts,
-> as we also have forgiven our debtors.
-> \textsuperscript{13}And lead us not into temptation,
-> but deliver us from evil.'"
+> \jesus{\textsuperscript{9}"In this manner, therefore, pray:
+> Our Father in heaven,
+> Hallowed be Your name.
+> \textsuperscript{10}Your kingdom come.
+> Your will be done
+> On earth as it is in heaven.
+> \textsuperscript{11}Give us this day our daily bread.
+> \textsuperscript{12}And forgive us our debts,
+> As we forgive our debtors.
+> \textsuperscript{13}And do not lead us into temptation,
+> But deliver us from the evil one.
+> For Yours is the kingdom and the power and the glory forever. Amen."}
 
 ---
 
@@ -2741,15 +2746,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{13}「你們要進窄門。因為引到滅亡，那門是寬的，路是大的，進去的人也多；\textsuperscript{14}引到生命，那門是窄的，路是小的，找着的人也少。」
+> \jesus{\textsuperscript{13}「你們要進窄門。因為引到滅亡，那門是寬的，路是大的，進去的人也多；\textsuperscript{14}引到生命，那門是窄的，路是小的，找着的人也少。」}
 
-> \textsuperscript{24}「所以，凡聽了我這些話又去做的，好比一個聰明人把房子蓋在磐石上。\textsuperscript{25}雨淋，水沖，風吹，撞着那房子，房子總不倒塌，因為根基立在磐石上。\textsuperscript{26}凡聽了我這些話不去做的，好比一個愚蠢人把房子蓋在沙土上。\textsuperscript{27}雨淋，水沖，風吹，撞着那房子，房子就倒塌了，並且倒塌得很厲害。」
+> \jesus{\textsuperscript{24}「所以，凡聽了我這些話又去做的，好比一個聰明人把房子蓋在磐石上。\textsuperscript{25}雨淋，水沖，風吹，撞着那房子，房子總不倒塌，因為根基立在磐石上。\textsuperscript{26}凡聽了我這些話不去做的，好比一個愚蠢人把房子蓋在沙土上。\textsuperscript{27}雨淋，水沖，風吹，撞着那房子，房子就倒塌了，並且倒塌得很厲害。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{13}"Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. \textsuperscript{14}For the gate is narrow and the way is hard that leads to life, and those who find it are few."
+> \jesus{\textsuperscript{13}"Enter by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and there are many who go in by it. \textsuperscript{14}Because narrow is the gate and difficult is the way which leads to life, and there are few who find it."}
 
-> \textsuperscript{24}"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. \textsuperscript{25}And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock. \textsuperscript{26}And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand. \textsuperscript{27}And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it."
+> \jesus{\textsuperscript{24}"Therefore whoever hears these sayings of Mine, and does them, I will liken him to a wise man who built his house on the rock: \textsuperscript{25}and the rain descended, the floods came, and the winds blew and beat on that house; and it did not fall, for it was founded on the rock. \textsuperscript{26}But everyone who hears these sayings of Mine, and does not do them, will be like a foolish man who built his house on the sand: \textsuperscript{27}and the rain descended, the floods came, and the winds blew and beat on that house; and it fell. And great was its fall."}
 
 ---
 
@@ -2934,19 +2939,19 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}這些事以後，耶穌渡過加利利海，就是提比哩亞海。\textsuperscript{2}有一大群人因為看見他在病人身上所行的神蹟，就跟隨他。\textsuperscript{3}耶穌上了山，和門徒一同坐在那裏。\textsuperscript{4}那時猶太人的逾越節近了。\textsuperscript{5}耶穌舉目看見一大群人來，就對腓力說：「我們從哪裏買餅給這些人吃呢？」\textsuperscript{6}他說這話是要考驗腓力，他自己原知道要怎樣做。\textsuperscript{7}腓力回答他：「就是二百個銀幣的餅也不夠，讓他們每人吃一點點吧。」
+> \textsuperscript{1}這些事以後，耶穌渡過加利利海，就是提比哩亞海。\textsuperscript{2}有一大群人因為看見他在病人身上所行的神蹟，就跟隨他。\textsuperscript{3}耶穌上了山，和門徒一同坐在那裏。\textsuperscript{4}那時猶太人的逾越節近了。\textsuperscript{5}耶穌舉目看見一大群人來，就對腓力說：\jesus{「我們從哪裏買餅給這些人吃呢？」}\textsuperscript{6}他說這話是要考驗腓力，他自己原知道要怎樣做。\textsuperscript{7}腓力回答他：「就是二百個銀幣的餅也不夠，讓他們每人吃一點點吧。」
 
-> \textsuperscript{8}有一個門徒，就是西門．彼得的兄弟安德烈，對耶穌說：\textsuperscript{9}「這裏有一個孩子，帶着五個大麥餅和兩條魚，只是分給這麼多人還算甚麼呢？」\textsuperscript{10}耶穌說：「你們叫眾人坐下。」原來那地方的草很多，眾人就坐下，男人約有五千。\textsuperscript{11}耶穌拿起餅來，祝謝了，分給坐着的人；分魚也是這樣，都隨着他們所要的。\textsuperscript{12}他們吃飽了，耶穌對門徒說：「把剩下的碎屑收拾起來，免得浪費。」\textsuperscript{13}他們就把眾人吃了的五個大麥餅的碎屑收拾起來，裝滿了十二個籃子。
+> \textsuperscript{8}有一個門徒，就是西門．彼得的兄弟安德烈，對耶穌說：\textsuperscript{9}「這裏有一個孩子，帶着五個大麥餅和兩條魚，只是分給這麼多人還算甚麼呢？」\textsuperscript{10}耶穌說：\jesus{「你們叫眾人坐下。」}原來那地方的草很多，眾人就坐下，男人約有五千。\textsuperscript{11}耶穌拿起餅來，祝謝了，分給坐着的人；分魚也是這樣，都隨着他們所要的。\textsuperscript{12}他們吃飽了，耶穌對門徒說：\jesus{「把剩下的碎屑收拾起來，免得浪費。」}\textsuperscript{13}他們就把眾人吃了的五個大麥餅的碎屑收拾起來，裝滿了十二個籃子。
 
 > \textsuperscript{14}眾人看見耶穌所行的神蹟，就說：「這真是那要到世上來的先知！」\textsuperscript{15}耶穌知道他們要來強迫他作王，就獨自又退到山上去了。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}After this Jesus went away to the other side of the Sea of Galilee, which is the Sea of Tiberias. \textsuperscript{2}And a large crowd was following him, because they saw the signs that he was doing on the sick. \textsuperscript{3}Jesus went up on the mountain, and there he sat down with his disciples. \textsuperscript{4}Now the Passover, the feast of the Jews, was at hand. \textsuperscript{5}Lifting up his eyes, then, and seeing that a large crowd was coming toward him, Jesus said to Philip, "Where are we to buy bread to feed these people?" \textsuperscript{6}He said this to test him, for he himself knew what he would do. \textsuperscript{7}Philip answered him, "Two hundred denarii worth of bread would not be enough for each of them to get a little."
+> \textsuperscript{1}After these things Jesus went over the Sea of Galilee, which is the Sea of Tiberias. \textsuperscript{2}Then a great multitude followed Him, because they saw His signs which He performed on those who were diseased. \textsuperscript{3}And Jesus went up on the mountain, and there He sat with His disciples. \textsuperscript{4}Now the Passover, a feast of the Jews, was near. \textsuperscript{5}Then Jesus lifted up His eyes, and seeing a great multitude coming toward Him, He said to Philip, \jesus{"Where shall we buy bread, that these may eat?"} \textsuperscript{6}But this He said to test him, for He Himself knew what He would do. \textsuperscript{7}Philip answered Him, "Two hundred denarii worth of bread is not sufficient for them, that every one of them may have a little."
 
-> \textsuperscript{8}One of his disciples, Andrew, Simon Peter's brother, said to him, \textsuperscript{9}"There is a boy here who has five barley loaves and two fish, but what are these for so many?" \textsuperscript{10}Jesus said, "Have the people sit down." Now there was much grass in the place. So the men sat down, about five thousand in number. \textsuperscript{11}Jesus then took the loaves, and when he had given thanks, he distributed them to those who were seated. So also the fish, as much as they wanted. \textsuperscript{12}And when they had eaten their fill, he told his disciples, "Gather up the leftover fragments, that nothing may be lost." \textsuperscript{13}So they gathered them up and filled twelve baskets with fragments from the five barley loaves left by those who had eaten.
+> \textsuperscript{8}One of His disciples, Andrew, Simon Peter's brother, said to Him, \textsuperscript{9}"There is a lad here who has five barley loaves and two small fish, but what are they among so many?" \textsuperscript{10}Then Jesus said, \jesus{"Make the people sit down."} Now there was much grass in the place. So the men sat down, in number about five thousand. \textsuperscript{11}And Jesus took the loaves, and when He had given thanks He distributed them to the disciples, and the disciples to those sitting down; and likewise of the fish, as much as they wanted. \textsuperscript{12}So when they were filled, He said to His disciples, \jesus{"Gather up the fragments that remain, so that nothing is lost."} \textsuperscript{13}Therefore they gathered them up, and filled twelve baskets with the fragments of the five barley loaves which were left over by those who had eaten.
 
-> \textsuperscript{14}When the people saw the sign that he had done, they said, "This is indeed the Prophet who is to come into the world!" \textsuperscript{15}Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself.
+> \textsuperscript{14}Then those men, when they had seen the sign that Jesus did, said, "This is truly the Prophet who is to come into the world." \textsuperscript{15}Therefore when Jesus perceived that they were about to come and take Him by force to make Him king, He departed again to the mountain by Himself alone.
 
 ---
 
@@ -3104,25 +3109,25 @@ MacArthur 強調三重「道」的含義：
 
 #### 馬太福音 14:22-33
 
-> \textsuperscript{22}耶穌隨即催門徒上船，在他之前先過到對岸去，等他遣散眾人。\textsuperscript{23}他遣散了眾人，就獨自上山去禱告。到了晚上，只有他一人在那裏。\textsuperscript{24}那時船已經離岸好幾里，因風不順，被浪搖撼。\textsuperscript{25}夜裏四更天，耶穌在海面上向門徒走來。\textsuperscript{26}門徒看見他在海面上走，就都驚慌了，說：「是個鬼怪！」他們就害怕得喊叫起來。\textsuperscript{27}耶穌連忙對他們說：「放心！是我，不要怕！」
+> \textsuperscript{22}耶穌隨即催門徒上船，在他之前先過到對岸去，等他遣散眾人。\textsuperscript{23}他遣散了眾人，就獨自上山去禱告。到了晚上，只有他一人在那裏。\textsuperscript{24}那時船已經離岸好幾里，因風不順，被浪搖撼。\textsuperscript{25}夜裏四更天，耶穌在海面上向門徒走來。\textsuperscript{26}門徒看見他在海面上走，就都驚慌了，說：「是個鬼怪！」他們就害怕得喊叫起來。\textsuperscript{27}耶穌連忙對他們說：\jesus{「放心！是我，不要怕！」}
 
-> \textsuperscript{28}彼得回答他：「主啊，如果是你，請叫我從水面上走到你那裏去。」\textsuperscript{29}耶穌說：「來吧！」彼得就從船上下來，在水面上向耶穌走去。\textsuperscript{30}但他一見風勢猛烈就害怕起來，快要沉下去的時候，他喊叫說：「主啊，救我！」\textsuperscript{31}耶穌趕緊伸手拉住他，對他說：「你這小信的人哪，為甚麼懷疑呢？」\textsuperscript{32}他們一上船，風就停了。\textsuperscript{33}在船上的人都拜他，說：「你真是神的兒子！」
+> \textsuperscript{28}彼得回答他：「主啊，如果是你，請叫我從水面上走到你那裏去。」\textsuperscript{29}耶穌說：\jesus{「來吧！」}彼得就從船上下來，在水面上向耶穌走去。\textsuperscript{30}但他一見風勢猛烈就害怕起來，快要沉下去的時候，他喊叫說：「主啊，救我！」\textsuperscript{31}耶穌趕緊伸手拉住他，對他說：\jesus{「你這小信的人哪，為甚麼懷疑呢？」}\textsuperscript{32}他們一上船，風就停了。\textsuperscript{33}在船上的人都拜他，說：「你真是神的兒子！」
 
 #### 約翰福音 6:16-21
 
-> \textsuperscript{16}到了晚上，他的門徒下到海邊，\textsuperscript{17}上了船，要過海到迦百農去。天已經黑了，耶穌還沒有來到他們那裏。\textsuperscript{18}忽然狂風大作，海面掀起大浪。\textsuperscript{19}門徒搖櫓約行了五六公里，看見耶穌在海面上走，漸漸靠近船，他們就害怕。\textsuperscript{20}耶穌對他們說：「是我，不要怕！」\textsuperscript{21}門徒這才樂意接他上船，船立刻到了他們要去的地方。
+> \textsuperscript{16}到了晚上，他的門徒下到海邊，\textsuperscript{17}上了船，要過海到迦百農去。天已經黑了，耶穌還沒有來到他們那裏。\textsuperscript{18}忽然狂風大作，海面掀起大浪。\textsuperscript{19}門徒搖櫓約行了五六公里，看見耶穌在海面上走，漸漸靠近船，他們就害怕。\textsuperscript{20}耶穌對他們說：\jesus{「是我，不要怕！」}\textsuperscript{21}門徒這才樂意接他上船，船立刻到了他們要去的地方。
 
-### English — ESV
+### English — NKJV
 
 #### Matthew 14:22-33
 
-> \textsuperscript{22}Immediately he made the disciples get into the boat and go before him to the other side, while he dismissed the crowds. \textsuperscript{23}And after he had dismissed the crowds, he went up on the mountain by himself to pray. When evening came, he was there alone, \textsuperscript{24}but the boat by this time was a long way from the land, beaten by the waves, for the wind was against them. \textsuperscript{25}And in the fourth watch of the night he came to them, walking on the sea. \textsuperscript{26}But when the disciples saw him walking on the sea, they were terrified, and said, "It is a ghost!" and they cried out in fear. \textsuperscript{27}But immediately Jesus spoke to them, saying, "Take heart; it is I. Do not be afraid."
+> \textsuperscript{22}Immediately Jesus made His disciples get into the boat and go before Him to the other side, while He sent the multitudes away. \textsuperscript{23}And when He had sent the multitudes away, He went up on the mountain by Himself to pray. Now when evening came, He was alone there. \textsuperscript{24}But the boat was now in the middle of the sea, tossed by the waves, for the wind was contrary. \textsuperscript{25}Now in the fourth watch of the night Jesus went to them, walking on the sea. \textsuperscript{26}And when the disciples saw Him walking on the sea, they were troubled, saying, "It is a ghost!" And they cried out for fear. \textsuperscript{27}But immediately Jesus spoke to them, saying, \jesus{"Be of good cheer! It is I; do not be afraid."}
 
-> \textsuperscript{28}And Peter answered him, "Lord, if it is you, command me to come to you on the water." \textsuperscript{29}He said, "Come." So Peter got out of the boat and walked on the water and came to Jesus. \textsuperscript{30}But when he saw the wind, he was afraid, and beginning to sink he cried out, "Lord, save me!" \textsuperscript{31}Jesus immediately reached out his hand and took hold of him, saying to him, "O you of little faith, why did you doubt?" \textsuperscript{32}And when they got into the boat, the wind ceased. \textsuperscript{33}And those in the boat worshiped him, saying, "Truly you are the Son of God."
+> \textsuperscript{28}And Peter answered Him and said, "Lord, if it is You, command me to come to You on the water." \textsuperscript{29}So He said, \jesus{"Come."} And when Peter had come down out of the boat, he walked on the water to go to Jesus. \textsuperscript{30}But when he saw that the wind was boisterous, he was afraid; and beginning to sink he cried out, saying, "Lord, save me!" \textsuperscript{31}And immediately Jesus stretched out His hand and caught him, and said to him, \jesus{"O you of little faith, why did you doubt?"} \textsuperscript{32}And when they got into the boat, the wind ceased. \textsuperscript{33}Then those who were in the boat came and worshiped Him, saying, "Truly You are the Son of God."
 
 #### John 6:16-21
 
-> \textsuperscript{16}When evening came, his disciples went down to the sea, \textsuperscript{17}got into a boat, and started across the sea to Capernaum. It was now dark, and Jesus had not yet come to them. \textsuperscript{18}The sea became rough because a strong wind was blowing. \textsuperscript{19}When they had rowed about three or four miles, they saw Jesus walking on the sea and coming near the boat, and they were frightened. \textsuperscript{20}But he said to them, "It is I; do not be afraid." \textsuperscript{21}Then they were glad to take him into the boat, and immediately the boat was at the land to which they were going.
+> \textsuperscript{16}Now when evening came, His disciples went down to the sea, \textsuperscript{17}got into the boat, and went over the sea toward Capernaum. And it was already dark, and Jesus had not come to them. \textsuperscript{18}Then the sea arose because a great wind was blowing. \textsuperscript{19}So when they had rowed about three or four miles, they saw Jesus walking on the sea and drawing near the boat; and they were afraid. \textsuperscript{20}But He said to them, \jesus{"It is I; do not be afraid."} \textsuperscript{21}Then they willingly received Him into the boat, and immediately the boat was at the land where they were going.
 
 ---
 
@@ -3494,11 +3499,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{37}節期的最後一天，就是最隆重的那一天，耶穌站着，高聲說：「人若渴了，到我這裏來喝！\textsuperscript{38}信我的人，就如經上所說：『從他腹中將流出活水的江河來。』」\textsuperscript{39}耶穌這話是指着信他的人要受聖靈說的。那時還沒有聖靈賜下來，因為耶穌尚未得着榮耀。
+> \textsuperscript{37}節期的最後一天，就是最隆重的那一天，耶穌站着，高聲說：\jesus{「人若渴了，到我這裏來喝！\textsuperscript{38}信我的人，就如經上所說：『從他腹中將流出活水的江河來。』」}\textsuperscript{39}耶穌這話是指着信他的人要受聖靈說的。那時還沒有聖靈賜下來，因為耶穌尚未得着榮耀。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{37}On the last day of the feast, the great day, Jesus stood up and cried out, "If anyone thirsts, let him come to me and drink. \textsuperscript{38}Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.'" \textsuperscript{39}Now this he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.
+> \textsuperscript{37}On the last day, that great day of the feast, Jesus stood and cried out, saying, \jesus{"If anyone thirsts, let him come to Me and drink. \textsuperscript{38}He who believes in Me, as the Scripture has said, out of his heart will flow rivers of living water."} \textsuperscript{39}But this He spoke concerning the Spirit, whom those believing in Him would receive; for the Holy Spirit was not yet given, because Jesus was not yet glorified.
 
 ---
 
@@ -3506,11 +3511,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{12}耶穌又對眾人說：「我是世界的光。跟從我的，必不在黑暗裏走，卻要得着生命的光。」
+> \textsuperscript{12}耶穌又對眾人說：\jesus{「我是世界的光。跟從我的，必不在黑暗裏走，卻要得着生命的光。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{12}Again Jesus spoke to them, saying, "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."
+> \textsuperscript{12}Then Jesus spoke to them again, saying, \jesus{"I am the light of the world. He who follows Me shall not walk in darkness, but have the light of life."}
 
 ---
 
@@ -3518,11 +3523,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{31}耶穌對信他的猶太人說：「你們若繼續遵守我的道，就真是我的門徒了。\textsuperscript{32}你們將認識真理，真理會使你們自由。」\textsuperscript{33}他們回答他：「我們是亞伯拉罕的後裔，從來沒有作過誰的奴隸，你怎麼說『你們將得自由』呢？」\textsuperscript{34}耶穌回答他們：「我實實在在地告訴你們，所有犯罪的人就是罪的奴隸。\textsuperscript{35}奴隸不能永遠住在家裏；兒子才永遠住在家裏。\textsuperscript{36}所以，神的兒子若使你們自由，你們就真正自由了。」
+> \textsuperscript{31}耶穌對信他的猶太人說：\jesus{「你們若繼續遵守我的道，就真是我的門徒了。\textsuperscript{32}你們將認識真理，真理會使你們自由。」}\textsuperscript{33}他們回答他：「我們是亞伯拉罕的後裔，從來沒有作過誰的奴隸，你怎麼說『你們將得自由』呢？」\textsuperscript{34}耶穌回答他們：\jesus{「我實實在在地告訴你們，所有犯罪的人就是罪的奴隸。\textsuperscript{35}奴隸不能永遠住在家裏；兒子才永遠住在家裏。\textsuperscript{36}所以，神的兒子若使你們自由，你們就真正自由了。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{31}So Jesus said to the Jews who had believed him, "If you abide in my word, you are truly my disciples, \textsuperscript{32}and you will know the truth, and the truth will set you free." \textsuperscript{33}They answered him, "We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, 'You will become free'?" \textsuperscript{34}Jesus answered them, "Truly, truly, I say to you, everyone who practices sin is a slave to sin. \textsuperscript{35}The slave does not remain in the house forever; the son remains forever. \textsuperscript{36}So if the Son sets you free, you will be free indeed."
+> \textsuperscript{31}Then Jesus said to those Jews who believed Him, \jesus{"If you abide in My word, you are My disciples indeed. \textsuperscript{32}And you shall know the truth, and the truth shall make you free."} \textsuperscript{33}They answered Him, "We are Abraham's descendants, and have never been in bondage to anyone. How can You say, 'You will be made free'?" \textsuperscript{34}Jesus answered them, \jesus{"Most assuredly, I say to you, whoever commits sin is a slave of sin. \textsuperscript{35}And a slave does not abide in the house forever, but a son abides forever. \textsuperscript{36}Therefore if the Son makes you free, you shall be free indeed."}
 
 ---
 
@@ -3530,11 +3535,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{56}「你們的祖宗亞伯拉罕歡歡喜喜地盼望看見我的日子；他看見了，就快樂。」\textsuperscript{57}猶太人對他說：「你還沒有五十歲，怎能見過亞伯拉罕呢？」\textsuperscript{58}耶穌對他們說：「我實實在在地告訴你們，還沒有亞伯拉罕就有了我。」\textsuperscript{59}於是他們拿石頭要打他，耶穌卻躲藏起來，從殿裏出去了。
+> \textsuperscript{56}\jesus{「你們的祖宗亞伯拉罕歡歡喜喜地盼望看見我的日子；他看見了，就快樂。」}\textsuperscript{57}猶太人對他說：「你還沒有五十歲，怎能見過亞伯拉罕呢？」\textsuperscript{58}耶穌對他們說：\jesus{「我實實在在地告訴你們，還沒有亞伯拉罕就有了我。」}\textsuperscript{59}於是他們拿石頭要打他，耶穌卻躲藏起來，從殿裏出去了。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{56}"Your father Abraham rejoiced that he would see my day. He saw it and was glad." \textsuperscript{57}So the Jews said to him, "You are not yet fifty years old, and have you seen Abraham?" \textsuperscript{58}Jesus said to them, "Truly, truly, I say to you, before Abraham was, I am." \textsuperscript{59}So they picked up stones to throw at him, but Jesus hid himself and went out of the temple.
+> \textsuperscript{56}\jesus{"Your father Abraham rejoiced to see My day, and he saw it and was glad."} \textsuperscript{57}Then the Jews said to Him, "You are not yet fifty years old, and have You seen Abraham?" \textsuperscript{58}Jesus said to them, \jesus{"Most assuredly, I say to you, before Abraham was, I AM."} \textsuperscript{59}Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.
 
 ---
 
@@ -3716,19 +3721,19 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}耶穌經過的時候，看見一個生來就失明的人。\textsuperscript{2}門徒問耶穌：「拉比，這人生來失明，是誰犯了罪？是這人呢，還是他父母呢？」\textsuperscript{3}耶穌回答：「既不是這人犯了罪，也不是他父母犯了罪，而是要在他身上顯出神的作為來。\textsuperscript{4}趁着白日，我們必須做差我來那位的工作；黑夜來到，就沒有人能做工了。\textsuperscript{5}我在世上的時候，是世上的光。」\textsuperscript{6}耶穌說了這話，就吐唾沫在地上，用唾沫和了泥，抹在失明的人的眼睛上，\textsuperscript{7}對他說：「你去西羅亞池子裏洗。」西羅亞翻出來就是「奉差遣」。於是他去，洗了，回來就看見了。
+> \textsuperscript{1}耶穌經過的時候，看見一個生來就失明的人。\textsuperscript{2}門徒問耶穌：「拉比，這人生來失明，是誰犯了罪？是這人呢，還是他父母呢？」\textsuperscript{3}耶穌回答：\jesus{「既不是這人犯了罪，也不是他父母犯了罪，而是要在他身上顯出神的作為來。\textsuperscript{4}趁着白日，我們必須做差我來那位的工作；黑夜來到，就沒有人能做工了。\textsuperscript{5}我在世上的時候，是世上的光。」}\textsuperscript{6}耶穌說了這話，就吐唾沫在地上，用唾沫和了泥，抹在失明的人的眼睛上，\textsuperscript{7}對他說：\jesus{「你去西羅亞池子裏洗。」}西羅亞翻出來就是「奉差遣」。於是他去，洗了，回來就看見了。
 
 > \textsuperscript{24}法利賽人第二次叫了那從前失明的人來，對他說：「你該把榮耀歸給神。我們知道這人是個罪人。」\textsuperscript{25}他回答：「他是不是罪人，我不知道；有一件事我知道：從前我是失明的，現在我看見了。」
 
-> \textsuperscript{35}耶穌聽說他們把他趕出去，後來遇見他，就問他：「你信神的兒子嗎？」\textsuperscript{36}他回答：「主啊，誰是神的兒子，好讓我信他呢？」\textsuperscript{37}耶穌對他說：「你已經看見他了，現在和你說話的就是他。」\textsuperscript{38}他說：「主啊，我信！」就拜耶穌。\textsuperscript{39}耶穌說：「我為審判到這世上來，使不能看見的可以看見，能看見的反而失明。」\textsuperscript{40}同他在那裏的法利賽人聽見這話，就對他說：「難道我們也是失明的嗎？」\textsuperscript{41}耶穌對他們說：「你們若是失明的，就沒有罪了；但現在你們說『我們能看見』，你們的罪還在。」
+> \textsuperscript{35}耶穌聽說他們把他趕出去，後來遇見他，就問他：\jesus{「你信神的兒子嗎？」}\textsuperscript{36}他回答：「主啊，誰是神的兒子，好讓我信他呢？」\textsuperscript{37}耶穌對他說：\jesus{「你已經看見他了，現在和你說話的就是他。」}\textsuperscript{38}他說：「主啊，我信！」就拜耶穌。\textsuperscript{39}耶穌說：\jesus{「我為審判到這世上來，使不能看見的可以看見，能看見的反而失明。」}\textsuperscript{40}同他在那裏的法利賽人聽見這話，就對他說：「難道我們也是失明的嗎？」\textsuperscript{41}耶穌對他們說：\jesus{「你們若是失明的，就沒有罪了；但現在你們說『我們能看見』，你們的罪還在。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}As he passed by, he saw a man blind from birth. \textsuperscript{2}And his disciples asked him, "Rabbi, who sinned, this man or his parents, that he was born blind?" \textsuperscript{3}Jesus answered, "It was not that this man sinned, or his parents, but that the works of God might be displayed in him. \textsuperscript{4}We must work the works of him who sent me while it is day; night is coming, when no one can work. \textsuperscript{5}As long as I am in the world, I am the light of the world." \textsuperscript{6}Having said these things, he spit on the ground and made mud with the saliva. Then he anointed the man's eyes with the mud \textsuperscript{7}and said to him, "Go, wash in the pool of Siloam" (which means Sent). So he went and washed and came back seeing.
+> \textsuperscript{1}Now as Jesus passed by, He saw a man who was blind from birth. \textsuperscript{2}And His disciples asked Him, saying, "Rabbi, who sinned, this man or his parents, that he was born blind?" \textsuperscript{3}Jesus answered, \jesus{"Neither this man nor his parents sinned, but that the works of God should be revealed in him. \textsuperscript{4}I must work the works of Him who sent Me while it is day; the night is coming when no one can work. \textsuperscript{5}As long as I am in the world, I am the light of the world."} \textsuperscript{6}When He had said these things, He spat on the ground and made clay with the saliva; and He anointed the eyes of the blind man with the clay. \textsuperscript{7}And He said to him, \jesus{"Go, wash in the pool of Siloam"} (which is translated, Sent). So he went and washed, and came back seeing.
 
-> \textsuperscript{24}So for the second time they called the man who had been blind and said to him, "Give glory to God. We know that this man is a sinner." \textsuperscript{25}He answered, "Whether he is a sinner I do not know. One thing I know, that though I was blind, now I see."
+> \textsuperscript{24}So they again called the man who was blind, and said to him, "Give God the glory! We know that this Man is a sinner." \textsuperscript{25}He answered and said, "Whether He is a sinner or not I do not know. One thing I know: that though I was blind, now I see."
 
-> \textsuperscript{35}Jesus heard that they had cast him out, and having found him he said, "Do you believe in the Son of Man?" \textsuperscript{36}He answered, "And who is he, sir, that I may believe in him?" \textsuperscript{37}Jesus said to him, "You have seen him, and it is he who is speaking to you." \textsuperscript{38}He said, "Lord, I believe," and he worshiped him. \textsuperscript{39}Jesus said, "For judgment I came into this world, that those who do not see may see, and those who see may become blind." \textsuperscript{40}Some of the Pharisees near him heard these things, and said to him, "Are we also blind?" \textsuperscript{41}Jesus said to them, "If you were blind, you would have no guilt; but now that you say, 'We see,' your guilt remains."
+> \textsuperscript{35}Jesus heard that they had cast him out; and when He had found him, He said to him, \jesus{"Do you believe in the Son of God?"} \textsuperscript{36}He answered and said, "Who is He, Lord, that I may believe in Him?" \textsuperscript{37}And Jesus said to him, \jesus{"You have both seen Him and it is He who is talking with you."} \textsuperscript{38}Then he said, "Lord, I believe!" And he worshiped Him. \textsuperscript{39}And Jesus said, \jesus{"For judgment I have come into this world, that those who do not see may see, and that those who see may be made blind."} \textsuperscript{40}Then some of the Pharisees who were with Him heard these words, and said to Him, "Are we blind also?" \textsuperscript{41}Jesus said to them, \jesus{"If you were blind, you would have no sin; but now you say, 'We see.' Therefore your sin remains."}
 
 ---
 
@@ -3895,23 +3900,23 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}「我實實在在地告訴你們，不從門進羊圈，倒從別處爬進去的，那人就是賊，就是強盜。\textsuperscript{2}從門進去的才是羊的牧人。\textsuperscript{3}看門的給他開門，羊也聽他的聲音。他按着名字叫自己的羊，把羊領出來。\textsuperscript{4}他把自己的羊帶出來以後，就走在前頭，羊也跟隨他，因為認得他的聲音。\textsuperscript{5}羊不跟隨陌生人，反而逃跑，因為不認得陌生人的聲音。」
+> \textsuperscript{1}\jesus{「我實實在在地告訴你們，不從門進羊圈，倒從別處爬進去的，那人就是賊，就是強盜。\textsuperscript{2}從門進去的才是羊的牧人。\textsuperscript{3}看門的給他開門，羊也聽他的聲音。他按着名字叫自己的羊，把羊領出來。\textsuperscript{4}他把自己的羊帶出來以後，就走在前頭，羊也跟隨他，因為認得他的聲音。\textsuperscript{5}羊不跟隨陌生人，反而逃跑，因為不認得陌生人的聲音。」}
 
-> \textsuperscript{7}耶穌又說：「我實實在在地告訴你們，我就是羊的門。\textsuperscript{8}凡在我以前來的都是賊，都是強盜；羊卻不聽從他們。\textsuperscript{9}我就是門；凡從我進來的，必然得救，並且出入得草吃。\textsuperscript{10}盜賊來，無非要偷竊、殺害、毀壞；我來了，是要羊得生命，並且得的更豐盛。」
+> \textsuperscript{7}耶穌又說：\jesus{「我實實在在地告訴你們，我就是羊的門。\textsuperscript{8}凡在我以前來的都是賊，都是強盜；羊卻不聽從他們。\textsuperscript{9}我就是門；凡從我進來的，必然得救，並且出入得草吃。\textsuperscript{10}盜賊來，無非要偷竊、殺害、毀壞；我來了，是要羊得生命，並且得的更豐盛。」}
 
-> \textsuperscript{11}「我是好牧人，好牧人為羊捨命。\textsuperscript{12}那作雇工的，不是牧人，羊也不是他自己的，他看見狼來，就撇下羊逃走；狼抓住羊，把牠們趕散了。\textsuperscript{13}雇工逃走，因為他是雇工，並不顧念羊。\textsuperscript{14}我是好牧人；我認識我的羊，我的羊也認識我，\textsuperscript{15}正如父認識我，我也認識父一樣；並且我為羊捨命。\textsuperscript{16}我另外有羊，不在這圈裏。我必須領牠們來，牠們也要聽我的聲音，並且要合成一群，歸一個牧人。」
+> \jesus{\textsuperscript{11}「我是好牧人，好牧人為羊捨命。\textsuperscript{12}那作雇工的，不是牧人，羊也不是他自己的，他看見狼來，就撇下羊逃走；狼抓住羊，把牠們趕散了。\textsuperscript{13}雇工逃走，因為他是雇工，並不顧念羊。\textsuperscript{14}我是好牧人；我認識我的羊，我的羊也認識我，\textsuperscript{15}正如父認識我，我也認識父一樣；並且我為羊捨命。\textsuperscript{16}我另外有羊，不在這圈裏。我必須領牠們來，牠們也要聽我的聲音，並且要合成一群，歸一個牧人。」}
 
-> \textsuperscript{27}「我的羊聽我的聲音，我也認識牠們，牠們也跟隨我。\textsuperscript{28}我又賜給牠們永生；牠們永不滅亡，誰也不能從我手裏把牠們奪去。\textsuperscript{29}我父把牠們賜給我，他比萬有都大，誰也不能從我父手裏把牠們奪去。\textsuperscript{30}我與父原為一。」
+> \jesus{\textsuperscript{27}「我的羊聽我的聲音，我也認識牠們，牠們也跟隨我。\textsuperscript{28}我又賜給牠們永生；牠們永不滅亡，誰也不能從我手裏把牠們奪去。\textsuperscript{29}我父把牠們賜給我，他比萬有都大，誰也不能從我父手裏把牠們奪去。\textsuperscript{30}我與父原為一。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}"Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber. \textsuperscript{2}But he who enters by the door is the shepherd of the sheep. \textsuperscript{3}To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out. \textsuperscript{4}When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. \textsuperscript{5}A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers."
+> \textsuperscript{1}\jesus{"Most assuredly, I say to you, he who does not enter the sheepfold by the door, but climbs up some other way, the same is a thief and a robber. \textsuperscript{2}But he who enters by the door is the shepherd of the sheep. \textsuperscript{3}To him the doorkeeper opens, and the sheep hear his voice; and he calls his own sheep by name and leads them out. \textsuperscript{4}And when he brings out his own sheep, he goes before them; and the sheep follow him, for they know his voice. \textsuperscript{5}Yet they will by no means follow a stranger, but will flee from him, for they do not know the voice of strangers."}
 
-> \textsuperscript{7}So Jesus again said to them, "Truly, truly, I say to you, I am the door of the sheep. \textsuperscript{8}All who came before me are thieves and robbers, but the sheep did not listen to them. \textsuperscript{9}I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture. \textsuperscript{10}The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly."
+> \textsuperscript{7}Then Jesus said to them again, \jesus{"Most assuredly, I say to you, I am the door of the sheep. \textsuperscript{8}All who ever came before Me are thieves and robbers, but the sheep did not hear them. \textsuperscript{9}I am the door. If anyone enters by Me, he will be saved, and will go in and out and find pasture. \textsuperscript{10}The thief does not come except to steal, and to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly."}
 
-> \textsuperscript{11}"I am the good shepherd. The good shepherd lays down his life for the sheep. \textsuperscript{12}He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. \textsuperscript{13}He flees because he is a hired hand and cares nothing for the sheep. \textsuperscript{14}I am the good shepherd. I know my own and my own know me, \textsuperscript{15}just as the Father knows me and I know the Father; and I lay down my life for the sheep. \textsuperscript{16}And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd."
+> \jesus{\textsuperscript{11}"I am the good shepherd. The good shepherd gives His life for the sheep. \textsuperscript{12}But a hireling, he who is not the shepherd, one who does not own the sheep, sees the wolf coming and leaves the sheep and flees; and the wolf catches the sheep and scatters them. \textsuperscript{13}The hireling flees because he is a hireling and does not care about the sheep. \textsuperscript{14}I am the good shepherd; and I know My sheep, and am known by My own. \textsuperscript{15}As the Father knows Me, even so I know the Father; and I lay down My life for the sheep. \textsuperscript{16}And other sheep I have which are not of this fold; them also I must bring, and they will hear My voice; and there will be one flock and one shepherd."}
 
-> \textsuperscript{27}"My sheep hear my voice, and I know them, and they follow me. \textsuperscript{28}I give them eternal life, and they will never perish, and no one will snatch them out of my hand. \textsuperscript{29}My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father's hand. \textsuperscript{30}I and the Father are one."
+> \jesus{\textsuperscript{27}"My sheep hear My voice, and I know them, and they follow Me. \textsuperscript{28}And I give them eternal life, and they shall never perish; neither shall anyone snatch them out of My hand. \textsuperscript{29}My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father's hand. \textsuperscript{30}I and My Father are one."}
 
 ---
 
@@ -4085,23 +4090,23 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}有一個患病的人，名叫拉撒路，住在伯大尼，就是馬利亞和她姐姐馬大的村莊。\textsuperscript{2}這馬利亞就是那用香膏抹主，又用頭髮擦他腳的那人；患病的拉撒路是她的弟弟。\textsuperscript{3}她姐妹倆打發人去見耶穌，說：「主啊，你所愛的人病了。」\textsuperscript{4}耶穌聽見就說：「這病不至於死，而是為了神的榮耀，好讓神的兒子因此得榮耀。」
+> \textsuperscript{1}有一個患病的人，名叫拉撒路，住在伯大尼，就是馬利亞和她姐姐馬大的村莊。\textsuperscript{2}這馬利亞就是那用香膏抹主，又用頭髮擦他腳的那人；患病的拉撒路是她的弟弟。\textsuperscript{3}她姐妹倆打發人去見耶穌，說：「主啊，你所愛的人病了。」\textsuperscript{4}耶穌聽見就說：\jesus{「這病不至於死，而是為了神的榮耀，好讓神的兒子因此得榮耀。」}
 
-> \textsuperscript{17}耶穌到了，發現拉撒路在墳墓裏已經四天了。\textsuperscript{21}馬大對耶穌說：「主啊，你若早在這裏，我弟弟就不會死了。\textsuperscript{22}但是，即使是現在，我也知道，你無論向神求甚麼，神都會賜給你。」\textsuperscript{23}耶穌對她說：「你弟弟會復活的。」\textsuperscript{24}馬大對他說：「我知道在末日復活的時候，他會復活。」\textsuperscript{25}耶穌對她說：「復活在我，生命也在我。信我的人，雖然死了，也必復活。\textsuperscript{26}凡活着信我的人必永遠不死。你信這話嗎？」\textsuperscript{27}馬大對他說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
+> \textsuperscript{17}耶穌到了，發現拉撒路在墳墓裏已經四天了。\textsuperscript{21}馬大對耶穌說：「主啊，你若早在這裏，我弟弟就不會死了。\textsuperscript{22}但是，即使是現在，我也知道，你無論向神求甚麼，神都會賜給你。」\textsuperscript{23}耶穌對她說：\jesus{「你弟弟會復活的。」}\textsuperscript{24}馬大對他說：「我知道在末日復活的時候，他會復活。」\textsuperscript{25}耶穌對她說：\jesus{「復活在我，生命也在我。信我的人，雖然死了，也必復活。\textsuperscript{26}凡活着信我的人必永遠不死。你信這話嗎？」}\textsuperscript{27}馬大對他說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
 
-> \textsuperscript{33}耶穌看見她哭，並看見與她同來的猶太人也在哭，就心裏悲嘆，又甚憂愁，\textsuperscript{34}便說：「你們把他安放在哪裏？」他們說：「請主來看。」\textsuperscript{35}耶穌哭了。
+> \textsuperscript{33}耶穌看見她哭，並看見與她同來的猶太人也在哭，就心裏悲嘆，又甚憂愁，\textsuperscript{34}便說：\jesus{「你們把他安放在哪裏？」}他們說：「請主來看。」\textsuperscript{35}耶穌哭了。
 
-> \textsuperscript{38}耶穌又心裏悲嘆，來到墳墓前；那墳墓是個洞，有一塊石頭擋着。\textsuperscript{39}耶穌說：「把石頭挪開！」那死人的姐姐馬大對他說：「主啊，他現在必定臭了，因為他死了已經四天了。」\textsuperscript{40}耶穌對她說：「我不是對你說過嗎？你若信，就必看見神的榮耀。」\textsuperscript{41}他們就把石頭挪開。耶穌舉目望天，說：「父啊，我感謝你，因為你已經聽我。\textsuperscript{42}我知道你常常聽我，但我說這話是為周圍站着的眾人，要使他們信是你差了我來。」\textsuperscript{43}說了這些話，他大聲呼叫：「拉撒路，出來！」\textsuperscript{44}那死人就出來了，手腳裹着布，臉上包着手巾。耶穌對他們說：「解開他，讓他走！」
+> \textsuperscript{38}耶穌又心裏悲嘆，來到墳墓前；那墳墓是個洞，有一塊石頭擋着。\textsuperscript{39}耶穌說：\jesus{「把石頭挪開！」}那死人的姐姐馬大對他說：「主啊，他現在必定臭了，因為他死了已經四天了。」\textsuperscript{40}耶穌對她說：\jesus{「我不是對你說過嗎？你若信，就必看見神的榮耀。」}\textsuperscript{41}他們就把石頭挪開。耶穌舉目望天，說：\jesus{「父啊，我感謝你，因為你已經聽我。\textsuperscript{42}我知道你常常聽我，但我說這話是為周圍站着的眾人，要使他們信是你差了我來。」}\textsuperscript{43}說了這些話，他大聲呼叫：\jesus{「拉撒路，出來！」}\textsuperscript{44}那死人就出來了，手腳裹着布，臉上包着手巾。耶穌對他們說：\jesus{「解開他，讓他走！」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}Now a certain man was ill, Lazarus of Bethany, the village of Mary and her sister Martha. \textsuperscript{2}It was Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was ill. \textsuperscript{3}So the sisters sent to him, saying, "Lord, he whom you love is ill." \textsuperscript{4}But when Jesus heard it he said, "This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it."
+> \textsuperscript{1}Now a certain man was sick, Lazarus of Bethany, the town of Mary and her sister Martha. \textsuperscript{2}It was that Mary who anointed the Lord with fragrant oil and wiped His feet with her hair, whose brother Lazarus was sick. \textsuperscript{3}Therefore the sisters sent to Him, saying, "Lord, behold, he whom You love is sick." \textsuperscript{4}When Jesus heard that, He said, \jesus{"This sickness is not unto death, but for the glory of God, that the Son of God may be glorified through it."}
 
-> \textsuperscript{17}Now when Jesus came, he found that Lazarus had already been in the tomb four days. \textsuperscript{21}Martha said to Jesus, "Lord, if you had been here, my brother would not have died. \textsuperscript{22}But even now I know that whatever you ask from God, God will give you." \textsuperscript{23}Jesus said to her, "Your brother will rise again." \textsuperscript{24}Martha said to him, "I know that he will rise again in the resurrection on the last day." \textsuperscript{25}Jesus said to her, "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, \textsuperscript{26}and everyone who lives and believes in me shall never die. Do you believe this?" \textsuperscript{27}She said to him, "Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world."
+> \textsuperscript{17}So when Jesus came, He found that he had already been in the tomb four days. \textsuperscript{21}Now Martha said to Jesus, "Lord, if You had been here, my brother would not have died. \textsuperscript{22}But even now I know that whatever You ask of God, God will give You." \textsuperscript{23}Jesus said to her, \jesus{"Your brother will rise again."} \textsuperscript{24}Martha said to Him, "I know that he will rise again in the resurrection at the last day." \textsuperscript{25}Jesus said to her, \jesus{"I am the resurrection and the life. He who believes in Me, though he may die, he shall live. \textsuperscript{26}And whoever lives and believes in Me shall never die. Do you believe this?"} \textsuperscript{27}She said to Him, "Yes, Lord, I believe that You are the Christ, the Son of God, who is to come into the world."
 
-> \textsuperscript{33}When Jesus saw her weeping, and the Jews who had come with her also weeping, he was deeply moved in his spirit and greatly troubled. \textsuperscript{34}And he said, "Where have you laid him?" They said to him, "Lord, come and see." \textsuperscript{35}Jesus wept.
+> \textsuperscript{33}Therefore, when Jesus saw her weeping, and the Jews who came with her weeping, He groaned in the spirit and was troubled. \textsuperscript{34}And He said, \jesus{"Where have you laid him?"} They said to Him, "Lord, come and see." \textsuperscript{35}Jesus wept.
 
-> \textsuperscript{38}Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it. \textsuperscript{39}Jesus said, "Take away the stone." Martha, the sister of the dead man, said to him, "Lord, by this time there will be an odor, for he has been dead four days." \textsuperscript{40}Jesus said to her, "Did I not tell you that if you believed you would see the glory of God?" \textsuperscript{41}So they took away the stone. And Jesus lifted up his eyes and said, "Father, I thank you that you have heard me. \textsuperscript{42}I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me." \textsuperscript{43}When he had said these things, he cried out with a loud voice, "Lazarus, come out." \textsuperscript{44}The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, "Unbind him, and let him go."
+> \textsuperscript{38}Then Jesus, again groaning in Himself, came to the tomb. It was a cave, and a stone lay against it. \textsuperscript{39}Jesus said, \jesus{"Take away the stone."} Martha, the sister of him who was dead, said to Him, "Lord, by this time there is a stench, for he has been dead four days." \textsuperscript{40}Jesus said to her, \jesus{"Did I not say to you that if you would believe you would see the glory of God?"} \textsuperscript{41}Then they took away the stone from the place where the dead man was lying. And Jesus lifted up His eyes and said, \jesus{"Father, I thank You that You have heard Me. \textsuperscript{42}And I know that You always hear Me, but because of the people who are standing by I said this, that they may believe that You sent Me."} \textsuperscript{43}Now when He had said these things, He cried with a loud voice, \jesus{"Lazarus, come forth!"} \textsuperscript{44}And he who had died came out bound hand and foot with graveclothes, and his face was wrapped with a cloth. Jesus said to them, \jesus{"Loose him, and let him go."}
 
 ---
 
@@ -4277,9 +4282,9 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{3}耶穌用比喻對他們講許多事，說：「看哪，有一個撒種的出去撒種。\textsuperscript{4}撒的時候，有的落在路旁，飛鳥來吃掉了。\textsuperscript{5}有的落在土淺的石地上，因為土不深，很快就長起來；\textsuperscript{6}太陽出來一曬，就枯乾了，因為沒有根。\textsuperscript{7}有的落在荊棘裏，荊棘長起來，把它擠住了。\textsuperscript{8}又有的落在好土裏，就結果實，有一百倍的，有六十倍的，有三十倍的。\textsuperscript{9}有耳的，就應當聽！」
+> \textsuperscript{3}耶穌用比喻對他們講許多事，說：\jesus{「看哪，有一個撒種的出去撒種。\textsuperscript{4}撒的時候，有的落在路旁，飛鳥來吃掉了。\textsuperscript{5}有的落在土淺的石地上，因為土不深，很快就長起來；\textsuperscript{6}太陽出來一曬，就枯乾了，因為沒有根。\textsuperscript{7}有的落在荊棘裏，荊棘長起來，把它擠住了。\textsuperscript{8}又有的落在好土裏，就結果實，有一百倍的，有六十倍的，有三十倍的。\textsuperscript{9}有耳的，就應當聽！」}
 
-> \textsuperscript{18}「所以，你們要聽這撒種的比喻。\textsuperscript{19}凡聽見天國的道理不明白的，那惡者就來，把撒在他心裏的奪了去，這就是撒在路旁的。\textsuperscript{20}撒在土淺石地上的，就是人聽了道，立刻歡喜領受，\textsuperscript{21}只是心裏沒有根，不過是暫時的，一旦為道遭受患難或迫害，立刻就跌倒了。\textsuperscript{22}撒在荊棘裏的，就是人聽了道，後來有世上的憂慮和財富的迷惑把道擠住了，結不出果實。\textsuperscript{23}撒在好土裏的，就是人聽了道明白了，結出果實來，有一百倍的，有六十倍的，有三十倍的。」
+> \jesus{\textsuperscript{18}「所以，你們要聽這撒種的比喻。\textsuperscript{19}凡聽見天國的道理不明白的，那惡者就來，把撒在他心裏的奪了去，這就是撒在路旁的。\textsuperscript{20}撒在土淺石地上的，就是人聽了道，立刻歡喜領受，\textsuperscript{21}只是心裏沒有根，不過是暫時的，一旦為道遭受患難或迫害，立刻就跌倒了。\textsuperscript{22}撒在荊棘裏的，就是人聽了道，後來有世上的憂慮和財富的迷惑把道擠住了，結不出果實。\textsuperscript{23}撒在好土裏的，就是人聽了道明白了，結出果實來，有一百倍的，有六十倍的，有三十倍的。」}
 
 ---
 
@@ -4287,15 +4292,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{11}耶穌又說：「一個人有兩個兒子。\textsuperscript{12}小兒子對父親說：『父親，請你把我應得的家產給我。』他父親就把財產分給他們。\textsuperscript{13}過了不多幾天，小兒子把他一切所有的都收拾起來，往遠方去了。在那裏他任意放蕩，浪費資財。\textsuperscript{14}他耗盡了一切所有的，又遇上那地方有大飢荒，就窮困起來。\textsuperscript{15}於是他去投靠那地方的一個居民；那人打發他到田裏去放豬。\textsuperscript{16}他恨不得拿豬所吃的豆莢來充飢，也沒有人給他甚麼。
+> \textsuperscript{11}耶穌又說：\jesus{「一個人有兩個兒子。\textsuperscript{12}小兒子對父親說：『父親，請你把我應得的家產給我。』他父親就把財產分給他們。\textsuperscript{13}過了不多幾天，小兒子把他一切所有的都收拾起來，往遠方去了。在那裏他任意放蕩，浪費資財。\textsuperscript{14}他耗盡了一切所有的，又遇上那地方有大飢荒，就窮困起來。\textsuperscript{15}於是他去投靠那地方的一個居民；那人打發他到田裏去放豬。\textsuperscript{16}他恨不得拿豬所吃的豆莢來充飢，也沒有人給他甚麼。
 
-> \textsuperscript{17}他醒悟過來，就說：『我父親有多少僱工，糧食有餘，我倒在這裏餓死嗎？\textsuperscript{18}我要起來，到我父親那裏去，對他說：父親！我得罪了天，也得罪了你。\textsuperscript{19}從今以後，我不配稱為你的兒子，把我當作一個僱工吧！』\textsuperscript{20}於是他起來，往他父親那裏去。相離還遠，他父親看見，就動了慈心，跑去擁抱他，連連親他。\textsuperscript{21}兒子對他說：『父親！我得罪了天，也得罪了你。從今以後，我不配稱為你的兒子。』\textsuperscript{22}父親卻吩咐僕人：『快把那上好的袍子拿出來給他穿，把戒指戴在他手上，把鞋穿在他腳上，\textsuperscript{23}把那肥牛犢牽來宰了，我們來吃喝慶祝；\textsuperscript{24}因為我這個兒子是死而復活，失而復得的。』他們就慶祝起來。」
+> \textsuperscript{17}他醒悟過來，就說：『我父親有多少僱工，糧食有餘，我倒在這裏餓死嗎？\textsuperscript{18}我要起來，到我父親那裏去，對他說：父親！我得罪了天，也得罪了你。\textsuperscript{19}從今以後，我不配稱為你的兒子，把我當作一個僱工吧！』\textsuperscript{20}於是他起來，往他父親那裏去。相離還遠，他父親看見，就動了慈心，跑去擁抱他，連連親他。\textsuperscript{21}兒子對他說：『父親！我得罪了天，也得罪了你。從今以後，我不配稱為你的兒子。』\textsuperscript{22}父親卻吩咐僕人：『快把那上好的袍子拿出來給他穿，把戒指戴在他手上，把鞋穿在他腳上，\textsuperscript{23}把那肥牛犢牽來宰了，我們來吃喝慶祝；\textsuperscript{24}因為我這個兒子是死而復活，失而復得的。』他們就慶祝起來。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{11}And he said, "There was a man who had two sons. \textsuperscript{12}And the younger of them said to his father, 'Father, give me the share of property that is coming to me.' And he divided his property between them. \textsuperscript{13}Not many days later, the younger son gathered all he had and took a journey into a far country, and there he squandered his property in reckless living. \textsuperscript{14}And when he had spent everything, a severe famine arose in that country, and he began to be in need. \textsuperscript{15}So he went and hired himself out to one of the citizens of that country, who sent him into his fields to feed pigs. \textsuperscript{16}And he was longing to be fed with the pods that the pigs ate, and no one gave him anything.
+> \textsuperscript{11}Then He said: \jesus{"A certain man had two sons. \textsuperscript{12}And the younger of them said to his father, 'Father, give me the portion of goods that falls to me.' So he divided to them his livelihood. \textsuperscript{13}And not many days after, the younger son gathered all together, journeyed to a far country, and there wasted his possessions with prodigal living. \textsuperscript{14}But when he had spent all, there arose a severe famine in that land, and he began to be in want. \textsuperscript{15}Then he went and joined himself to a citizen of that country, and he sent him into his fields to feed swine. \textsuperscript{16}And he would gladly have filled his stomach with the pods that the swine ate, and no one gave him anything.
 
-> \textsuperscript{17}"But when he came to himself, he said, 'How many of my father's hired servants have more than enough bread, but I perish here with hunger! \textsuperscript{18}I will arise and go to my father, and I will say to him, "Father, I have sinned against heaven and before you. \textsuperscript{19}I am no longer worthy to be called your son. Treat me as one of your hired servants."' \textsuperscript{20}And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him. \textsuperscript{21}And the son said to him, 'Father, I have sinned against heaven and before you. I am no longer worthy to be called your son.' \textsuperscript{22}But the father said to his servants, 'Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet. \textsuperscript{23}And bring the fattened calf and kill it, and let us eat and celebrate. \textsuperscript{24}For this my son was dead, and is alive again; he was lost, and is found.' And they began to celebrate."
+> \textsuperscript{17}But when he came to himself, he said, 'How many of my father's hired servants have bread enough and to spare, and I perish with hunger! \textsuperscript{18}I will arise and go to my father, and will say to him, "Father, I have sinned against heaven and before you, \textsuperscript{19}and I am no longer worthy to be called your son. Make me like one of your hired servants."' \textsuperscript{20}And he arose and came to his father. But when he was still a great way off, his father saw him and had compassion, and ran and fell on his neck and kissed him. \textsuperscript{21}And the son said to him, 'Father, I have sinned against heaven and in your sight, and am no longer worthy to be called your son.' \textsuperscript{22}But the father said to his servants, 'Bring out the best robe and put it on him, and put a ring on his hand and sandals on his feet. \textsuperscript{23}And bring the fatted calf here and kill it, and let us eat and be merry; \textsuperscript{24}for this my son was dead and is alive again; he was lost and is found.' And they began to be merry."}
 
 ---
 
@@ -4461,19 +4466,19 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{16}有一個人來見耶穌，說：「老師，我該做甚麼善事才能得永生？」\textsuperscript{17}耶穌對他說：「你為甚麼以善事問我呢？只有一位是善的。你若要進入永生，就當遵守誡命。」\textsuperscript{18}他說：「哪些誡命？」耶穌說：「就是不可殺人；不可姦淫；不可偷盜；不可作假見證；\textsuperscript{19}當孝敬父母；又當愛鄰如己。」\textsuperscript{20}那年輕人對他說：「這一切我都遵守了，還缺少甚麼呢？」\textsuperscript{21}耶穌對他說：「你若願意作完全人，去變賣你所擁有的，分給窮人，就必有財寶在天上；然後來跟從我。」\textsuperscript{22}那年輕人聽見這話，就憂憂愁愁地走了，因為他的財產很多。
+> \textsuperscript{16}有一個人來見耶穌，說：「老師，我該做甚麼善事才能得永生？」\textsuperscript{17}耶穌對他說：\jesus{「你為甚麼以善事問我呢？只有一位是善的。你若要進入永生，就當遵守誡命。」}\textsuperscript{18}他說：「哪些誡命？」耶穌說：\jesus{「就是不可殺人；不可姦淫；不可偷盜；不可作假見證；\textsuperscript{19}當孝敬父母；又當愛鄰如己。」}\textsuperscript{20}那年輕人對他說：「這一切我都遵守了，還缺少甚麼呢？」\textsuperscript{21}耶穌對他說：\jesus{「你若願意作完全人，去變賣你所擁有的，分給窮人，就必有財寶在天上；然後來跟從我。」}\textsuperscript{22}那年輕人聽見這話，就憂憂愁愁地走了，因為他的財產很多。
 
-> \textsuperscript{23}耶穌對門徒說：「我實在告訴你們，財主進天國是難的。\textsuperscript{24}我再告訴你們，駱駝穿過針眼比財主進神的國還容易呢！」\textsuperscript{25}門徒聽見這話就非常驚訝，說：「這樣誰能得救呢？」\textsuperscript{26}耶穌看着他們，說：「在人這是不能的，在神凡事都能。」
+> \textsuperscript{23}耶穌對門徒說：\jesus{「我實在告訴你們，財主進天國是難的。\textsuperscript{24}我再告訴你們，駱駝穿過針眼比財主進神的國還容易呢！」}\textsuperscript{25}門徒聽見這話就非常驚訝，說：「這樣誰能得救呢？」\textsuperscript{26}耶穌看着他們，說：\jesus{「在人這是不能的，在神凡事都能。」}
 
 #### 馬可福音 10:21 補充
 
 > 「耶穌看着他，就愛他，對他說...」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{16}And behold, a man came up to him, saying, "Teacher, what good deed must I do to have eternal life?" \textsuperscript{17}And he said to him, "Why do you ask me about what is good? There is only one who is good. If you would enter life, keep the commandments." \textsuperscript{18}He said to him, "Which ones?" And Jesus said, "You shall not murder, You shall not commit adultery, You shall not steal, You shall not bear false witness, \textsuperscript{19}Honor your father and mother, and, You shall love your neighbor as yourself." \textsuperscript{20}The young man said to him, "All these I have kept. What do I still lack?" \textsuperscript{21}Jesus said to him, "If you would be perfect, go, sell what you possess and give to the poor, and you will have treasure in heaven; and come, follow me." \textsuperscript{22}When the young man heard this he went away sorrowful, for he had great possessions.
+> \textsuperscript{16}Now behold, one came and said to Him, "Good Teacher, what good thing shall I do that I may have eternal life?" \textsuperscript{17}So He said to him, \jesus{"Why do you call Me good? No one is good but One, that is, God. But if you want to enter into life, keep the commandments."} \textsuperscript{18}He said to Him, "Which ones?" Jesus said, \jesus{"'You shall not murder,' 'You shall not commit adultery,' 'You shall not steal,' 'You shall not bear false witness,' \textsuperscript{19}'Honor your father and your mother,' and, 'You shall love your neighbor as yourself.'"} \textsuperscript{20}The young man said to Him, "All these things I have kept from my youth. What do I still lack?" \textsuperscript{21}Jesus said to him, \jesus{"If you want to be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow Me."} \textsuperscript{22}But when the young man heard that saying, he went away sorrowful, for he had great possessions.
 
-> \textsuperscript{23}And Jesus said to his disciples, "Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven. \textsuperscript{24}Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God." \textsuperscript{25}When the disciples heard this, they were greatly astonished, saying, "Who then can be saved?" \textsuperscript{26}But Jesus looked at them and said, "With man this is impossible, but with God all things are possible."
+> \textsuperscript{23}Then Jesus said to His disciples, \jesus{"Assuredly, I say to you that it is hard for a rich man to enter the kingdom of heaven. \textsuperscript{24}And again I say to you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God."} \textsuperscript{25}When His disciples heard it, they were greatly astonished, saying, "Who then can be saved?" \textsuperscript{26}But Jesus looked at them and said to them, \jesus{"With men this is impossible, but with God all things are possible."}
 
 ---
 
@@ -4654,19 +4659,19 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}過了六天，耶穌帶着彼得、雅各和雅各的弟弟約翰，領他們悄悄地上了高山。\textsuperscript{2}他在他們面前變了形像，臉面明亮如日頭，衣裳潔白如光。\textsuperscript{3}忽然，摩西和以利亞向他們顯現，跟耶穌說話。\textsuperscript{4}彼得對耶穌說：「主啊，我們在這裏真好！你若願意，我就在這裏搭三座棚，一座為你，一座為摩西，一座為以利亞。」\textsuperscript{5}他還在說話的時候，忽然有一朵燦爛的雲彩遮蓋他們，看哪，雲彩裏有聲音說：「這是我的愛子，我所喜愛的，你們要聽從他！」\textsuperscript{6}門徒聽見，就臉伏在地，非常害怕。\textsuperscript{7}耶穌進前來，摸他們，說：「起來，不要怕！」\textsuperscript{8}他們舉目一看，只見耶穌，不見別人。
+> \textsuperscript{1}過了六天，耶穌帶着彼得、雅各和雅各的弟弟約翰，領他們悄悄地上了高山。\textsuperscript{2}他在他們面前變了形像，臉面明亮如日頭，衣裳潔白如光。\textsuperscript{3}忽然，摩西和以利亞向他們顯現，跟耶穌說話。\textsuperscript{4}彼得對耶穌說：「主啊，我們在這裏真好！你若願意，我就在這裏搭三座棚，一座為你，一座為摩西，一座為以利亞。」\textsuperscript{5}他還在說話的時候，忽然有一朵燦爛的雲彩遮蓋他們，看哪，雲彩裏有聲音說：「這是我的愛子，我所喜愛的，你們要聽從他！」\textsuperscript{6}門徒聽見，就臉伏在地，非常害怕。\textsuperscript{7}耶穌進前來，摸他們，說：\jesus{「起來，不要怕！」}\textsuperscript{8}他們舉目一看，只見耶穌，不見別人。
 
-> \textsuperscript{9}他們下山的時候，耶穌吩咐他們：「人子還沒有從死人中復活，你們不要把所看見的告訴任何人。」
+> \textsuperscript{9}他們下山的時候，耶穌吩咐他們：\jesus{「人子還沒有從死人中復活，你們不要把所看見的告訴任何人。」}
 
 #### 路加福音 9:31 補充
 
 > 「他們在榮耀中顯現，談論耶穌將要在耶路撒冷完成的事。」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}And after six days Jesus took with him Peter and James, and John his brother, and led them up a high mountain by themselves. \textsuperscript{2}And he was transfigured before them, and his face shone like the sun, and his clothes became white as light. \textsuperscript{3}And behold, there appeared to them Moses and Elijah, talking with him. \textsuperscript{4}And Peter said to Jesus, "Lord, it is good that we are here. If you wish, I will make three tents here, one for you and one for Moses and one for Elijah." \textsuperscript{5}He was still speaking when, behold, a bright cloud overshadowed them, and a voice from the cloud said, "This is my beloved Son, with whom I am well pleased; listen to him." \textsuperscript{6}When the disciples heard this, they fell on their faces and were terrified. \textsuperscript{7}But Jesus came and touched them, saying, "Rise, and have no fear." \textsuperscript{8}And when they lifted up their eyes, they saw no one but Jesus only.
+> \textsuperscript{1}Now after six days Jesus took Peter, James, and John his brother, led them up on a high mountain by themselves; \textsuperscript{2}and He was transfigured before them. His face shone like the sun, and His clothes became as white as the light. \textsuperscript{3}And behold, Moses and Elijah appeared to them, talking with Him. \textsuperscript{4}Then Peter answered and said to Jesus, "Lord, it is good for us to be here; if You wish, let us make here three tabernacles: one for You, one for Moses, and one for Elijah." \textsuperscript{5}While he was still speaking, behold, a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, "This is My beloved Son, in whom I am well pleased. Hear Him!" \textsuperscript{6}And when the disciples heard it, they fell on their faces and were greatly afraid. \textsuperscript{7}But Jesus came and touched them and said, \jesus{"Arise, and do not be afraid."} \textsuperscript{8}When they had lifted up their eyes, they saw no one but Jesus only.
 
-> \textsuperscript{9}And as they were coming down the mountain, Jesus commanded them, "Tell no one the vision, until the Son of Man is raised from the dead."
+> \textsuperscript{9}Now as they came down from the mountain, Jesus commanded them, saying, \jesus{"Tell the vision to no one until the Son of Man is risen from the dead."}
 
 ---
 
@@ -4828,7 +4833,7 @@ MacArthur 強調三重「道」的含義：
 
 #### 馬太福音 21:1-11
 
-> \textsuperscript{1}耶穌和門徒快到耶路撒冷，進了橄欖山附近的伯法其，耶穌就打發兩個門徒，\textsuperscript{2}對他們說：「你們往對面村子裏去，立刻會看見一匹驢拴在那裏，還有驢駒同在一起，解開牠們，牽到我這裏來。\textsuperscript{3}若有人對你們說甚麼，你們就說：『主要用牠們。』他會立刻讓你們牽來。」\textsuperscript{4}這事發生是要應驗先知所說的話：
+> \textsuperscript{1}耶穌和門徒快到耶路撒冷，進了橄欖山附近的伯法其，耶穌就打發兩個門徒，\textsuperscript{2}對他們說：\jesus{「你們往對面村子裏去，立刻會看見一匹驢拴在那裏，還有驢駒同在一起，解開牠們，牽到我這裏來。\textsuperscript{3}若有人對你們說甚麼，你們就說：『主要用牠們。』他會立刻讓你們牽來。」}\textsuperscript{4}這事發生是要應驗先知所說的話：
 
 > \textsuperscript{5}「要對錫安的兒女說：
 > 看哪，你的王來到你這裏，
@@ -4844,22 +4849,22 @@ MacArthur 強調三重「道」的含義：
 
 #### 路加福音 19:41-44
 
-> \textsuperscript{41}耶穌快到耶路撒冷，看見那城，就為它哀哭，\textsuperscript{42}說：「巴不得你在這日子知道有關你平安的事；無奈這事現在是隱藏的，你的眼睛看不出來。\textsuperscript{43}因為日子將到，你的仇敵要築起土壘包圍你，四面困住你，\textsuperscript{44}並要把你和你裏面的兒女都踏在地上。在你中間，他們不會留下一塊石頭在另一塊石頭上，因為你不知道你蒙眷顧的時候。」
+> \textsuperscript{41}耶穌快到耶路撒冷，看見那城，就為它哀哭，\textsuperscript{42}說：\jesus{「巴不得你在這日子知道有關你平安的事；無奈這事現在是隱藏的，你的眼睛看不出來。\textsuperscript{43}因為日子將到，你的仇敵要築起土壘包圍你，四面困住你，\textsuperscript{44}並要把你和你裏面的兒女都踏在地上。在你中間，他們不會留下一塊石頭在另一塊石頭上，因為你不知道你蒙眷顧的時候。」}
 
-### English — ESV
+### English — NKJV
 
 #### Matthew 21:1-11
 
-> \textsuperscript{1}Now when they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples, \textsuperscript{2}saying to them, "Go into the village in front of you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me. \textsuperscript{3}If anyone says anything to you, you shall say, 'The Lord needs them,' and he will send them at once." \textsuperscript{4}This took place to fulfill what was spoken by the prophet, saying,
+> \textsuperscript{1}Now when they drew near Jerusalem, and came to Bethphage, at the Mount of Olives, then Jesus sent two disciples, \textsuperscript{2}saying to them, \jesus{"Go into the village opposite you, and immediately you will find a donkey tied, and a colt with her. Loose them and bring them to Me. \textsuperscript{3}And if anyone says anything to you, you shall say, 'The Lord has need of them,' and immediately he will send them."} \textsuperscript{4}All this was done that it might be fulfilled which was spoken by the prophet, saying:
 
-> \textsuperscript{5}"Say to the daughter of Zion,
-> 'Behold, your king is coming to you,
-> humble, and mounted on a donkey,
-> on a colt, the foal of a beast of burden.'"
+> \textsuperscript{5}"Tell the daughter of Zion,
+> 'Behold, your King is coming to you,
+> Lowly, and sitting on a donkey,
+> A colt, the foal of a donkey.'"
 
-> \textsuperscript{6}The disciples went and did as Jesus had directed them. \textsuperscript{7}They brought the donkey and the colt and put on them their cloaks, and he sat on them. \textsuperscript{8}Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. \textsuperscript{9}And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!"
+> \textsuperscript{6}So the disciples went and did as Jesus commanded them. \textsuperscript{7}They brought the donkey and the colt, laid their clothes on them, and set Him on them. \textsuperscript{8}And a very great multitude spread their clothes on the road; others cut down branches from the trees and spread them on the road. \textsuperscript{9}Then the multitudes who went before and those who followed cried out, saying: "Hosanna to the Son of David! 'Blessed is He who comes in the name of the LORD!' Hosanna in the highest!"
 
-> \textsuperscript{10}And when he entered Jerusalem, the whole city was stirred up, saying, "Who is this?" \textsuperscript{11}And the crowds said, "This is the prophet Jesus, from Nazareth of Galilee."
+> \textsuperscript{10}And when He had come into Jerusalem, all the city was moved, saying, "Who is this?" \textsuperscript{11}So the multitudes said, "This is Jesus, the prophet from Nazareth of Galilee."
 
 ---
 
@@ -5024,19 +5029,19 @@ MacArthur 強調三重「道」的含義：
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{12}耶穌進了神的殿，趕出殿裏一切作買賣的人，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，\textsuperscript{13}對他們說：「經上記着：『我的殿要稱為禱告的殿』，你們倒使它成為『賊窩』了！」
+> \textsuperscript{12}耶穌進了神的殿，趕出殿裏一切作買賣的人，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，\textsuperscript{13}對他們說：\jesus{「經上記着：『我的殿要稱為禱告的殿』，你們倒使它成為『賊窩』了！」}
 
-> \textsuperscript{14}在殿裏有失明的和瘸腿的到耶穌面前，他就治好了他們。\textsuperscript{15}祭司長和文士看見耶穌所做的奇事，又聽見孩子們在殿裏喊着說「和散那歸於大衛的子孫！」就很生氣，\textsuperscript{16}對他說：「他們說的這些話，你聽見了嗎？」耶穌對他們說：「是的。『你從嬰孩和吃奶的口中得到了讚美』，這話你們沒有念過嗎？」\textsuperscript{17}於是離開他們，出城到伯大尼去，在那裏住宿。
+> \textsuperscript{14}在殿裏有失明的和瘸腿的到耶穌面前，他就治好了他們。\textsuperscript{15}祭司長和文士看見耶穌所做的奇事，又聽見孩子們在殿裏喊着說「和散那歸於大衛的子孫！」就很生氣，\textsuperscript{16}對他說：「他們說的這些話，你聽見了嗎？」耶穌對他們說：\jesus{「是的。『你從嬰孩和吃奶的口中得到了讚美』，這話你們沒有念過嗎？」}\textsuperscript{17}於是離開他們，出城到伯大尼去，在那裏住宿。
 
 #### 馬可福音 11:17 補充
 
-> 「他教導他們說：『經上不是記着：我的殿要稱為萬國禱告的殿嗎？你們倒使它成為賊窩了！』」
+> 「他教導他們說：\jesus{『經上不是記着：我的殿要稱為萬國禱告的殿嗎？你們倒使它成為賊窩了！』}」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{12}And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. \textsuperscript{13}He said to them, "It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers."
+> \textsuperscript{12}Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. \textsuperscript{13}And He said to them, \jesus{"It is written, 'My house shall be called a house of prayer,' but you have made it a 'den of thieves.'"}
 
-> \textsuperscript{14}And the blind and the lame came to him in the temple, and he healed them. \textsuperscript{15}But when the chief priests and the scribes saw the wonderful things that he did, and the children crying out in the temple, "Hosanna to the Son of David!" they were indignant, \textsuperscript{16}and they said to him, "Do you hear what these are saying?" And Jesus said to them, "Yes; have you never read, 'Out of the mouth of infants and nursing babies you have prepared praise'?" \textsuperscript{17}And leaving them, he went out of the city to Bethany and lodged there.
+> \textsuperscript{14}Then the blind and the lame came to Him in the temple, and He healed them. \textsuperscript{15}But when the chief priests and scribes saw the wonderful things that He did, and the children crying out in the temple and saying, "Hosanna to the Son of David!" they were indignant \textsuperscript{16}and said to Him, "Do You hear what these are saying?" And Jesus said to them, \jesus{"Yes. Have you never read, 'Out of the mouth of babes and nursing infants You have perfected praise'?"} \textsuperscript{17}Then He left them and went out of the city to Bethany, and He lodged there.
 
 ---
 
@@ -5198,33 +5203,33 @@ MacArthur 強調三重「道」的含義：
 
 #### 聖殿毀滅的預言（太24:1-2）
 
-> \textsuperscript{1}耶穌出了聖殿，正往前走的時候，門徒前來，把聖殿的建築指給他看。\textsuperscript{2}耶穌對他們說：「你們不是看見這一切嗎？我實在告訴你們，這裏將沒有一塊石頭留在另一塊石頭上面不被拆毀的。」
+> \textsuperscript{1}耶穌出了聖殿，正往前走的時候，門徒前來，把聖殿的建築指給他看。\textsuperscript{2}耶穌對他們說：\jesus{「你們不是看見這一切嗎？我實在告訴你們，這裏將沒有一塊石頭留在另一塊石頭上面不被拆毀的。」}
 
 #### 末世的預兆（太24:4-14）
 
-> \textsuperscript{4}耶穌回答他們：「你們要謹慎，免得有人迷惑你們。\textsuperscript{5}因為將有許多人冒我的名來，說『我是基督』，並且要迷惑許多人。\textsuperscript{6}你們將聽見戰爭和戰爭的風聲，不要驚慌！因為這些事必須發生，但這還不是終結。\textsuperscript{7}民要攻打民，國要攻打國；多處必有飢荒、地震。\textsuperscript{8}這一切不過是災難的起頭。」
+> \textsuperscript{4}耶穌回答他們：\jesus{「你們要謹慎，免得有人迷惑你們。\textsuperscript{5}因為將有許多人冒我的名來，說『我是基督』，並且要迷惑許多人。\textsuperscript{6}你們將聽見戰爭和戰爭的風聲，不要驚慌！因為這些事必須發生，但這還不是終結。\textsuperscript{7}民要攻打民，國要攻打國；多處必有飢荒、地震。\textsuperscript{8}這一切不過是災難的起頭。」}
 
-> \textsuperscript{14}「這天國的福音要傳遍天下，對萬民作見證，然後終結才來到。」
+> \textsuperscript{14}\jesus{「這天國的福音要傳遍天下，對萬民作見證，然後終結才來到。」}
 
 #### 人子再來（太24:29-31）
 
-> \textsuperscript{29}「那些日子的災難一過去，日頭就變黑了，月亮也不放光，星辰要從天上墜落，天上的萬象都要震動。\textsuperscript{30}那時，人子的預兆要顯在天上，地上的萬族都要哀哭。他們要看見人子帶着能力和大榮耀，駕着天上的雲來臨。\textsuperscript{31}他要差遣使者，用大聲的號角，把他的選民從四方，從天這邊到天那邊，都招聚了來。」
+> \textsuperscript{29}\jesus{「那些日子的災難一過去，日頭就變黑了，月亮也不放光，星辰要從天上墜落，天上的萬象都要震動。\textsuperscript{30}那時，人子的預兆要顯在天上，地上的萬族都要哀哭。他們要看見人子帶着能力和大榮耀，駕着天上的雲來臨。\textsuperscript{31}他要差遣使者，用大聲的號角，把他的選民從四方，從天這邊到天那邊，都招聚了來。」}
 
 #### 警醒的命令（太24:42-44）
 
-> \textsuperscript{42}「所以，你們要警醒，因為不知道你們的主哪一天來到。\textsuperscript{43}家主若知道幾更天有盜賊來，他就會警醒，不讓人挖穿房屋；這是你們所知道的。\textsuperscript{44}所以，你們也要預備，因為在你們想不到的時候，人子就來了。」
+> \textsuperscript{42}\jesus{「所以，你們要警醒，因為不知道你們的主哪一天來到。\textsuperscript{43}家主若知道幾更天有盜賊來，他就會警醒，不讓人挖穿房屋；這是你們所知道的。\textsuperscript{44}所以，你們也要預備，因為在你們想不到的時候，人子就來了。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}Jesus left the temple and was going away, when his disciples came to point out to him the buildings of the temple. \textsuperscript{2}But he answered them, "You see all these, do you not? Truly, I say to you, there will not be left here one stone upon another that will not be thrown down."
+> \textsuperscript{1}Then Jesus went out and departed from the temple, and His disciples came up to show Him the buildings of the temple. \textsuperscript{2}And Jesus said to them, \jesus{"Do you not see all these things? Assuredly, I say to you, not one stone shall be left here upon another, that shall not be thrown down."}
 
-> \textsuperscript{4}And Jesus answered them, "See that no one leads you astray. \textsuperscript{5}For many will come in my name, saying, 'I am the Christ,' and they will lead many astray. \textsuperscript{6}And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet. \textsuperscript{7}For nation will rise against nation, and kingdom against kingdom, and there will be famines and earthquakes in various places. \textsuperscript{8}All these are but the beginning of the birth pains."
+> \textsuperscript{4}And Jesus answered and said to them: \jesus{"Take heed that no one deceives you. \textsuperscript{5}For many will come in My name, saying, 'I am the Christ,' and will deceive many. \textsuperscript{6}And you will hear of wars and rumors of wars. See that you are not troubled; for all these things must come to pass, but the end is not yet. \textsuperscript{7}For nation will rise against nation, and kingdom against kingdom. And there will be famines, pestilences, and earthquakes in various places. \textsuperscript{8}All these are the beginning of sorrows."}
 
-> \textsuperscript{14}"And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come."
+> \textsuperscript{14}\jesus{"And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come."}
 
-> \textsuperscript{29}"Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven, and the powers of the heavens will be shaken. \textsuperscript{30}Then will appear in heaven the sign of the Son of Man, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory. \textsuperscript{31}And he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other."
+> \textsuperscript{29}\jesus{"Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of the heavens will be shaken. \textsuperscript{30}Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory. \textsuperscript{31}And He will send His angels with a great sound of a trumpet, and they will gather together His elect from the four winds, from one end of heaven to the other."}
 
-> \textsuperscript{42}"Therefore, stay awake, for you do not know on what day your Lord is coming. \textsuperscript{43}But know this, that if the master of the house had known in what part of the night the thief was coming, he would have stayed awake and would not have let his house be broken into. \textsuperscript{44}Therefore you also must be ready, for the Son of Man is coming at an hour you do not expect."
+> \textsuperscript{42}\jesus{"Watch therefore, for you do not know what hour your Lord is coming. \textsuperscript{43}But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into. \textsuperscript{44}Therefore you also be ready, for the Son of Man is coming at an hour you do not expect."}
 
 ---
 
@@ -5402,7 +5407,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{1}逾越節以前，耶穌知道自己離開這世界回到父那裏去的時候到了。他既然愛世間屬自己的人，就愛他們到底。\textsuperscript{2}吃晚飯的時候，魔鬼已把出賣耶穌的意思放在西門的兒子加略人猶大心裏。\textsuperscript{3}耶穌知道父已把萬有交在他手裏，並知道自己是從神而來，又要回到神那裏去，\textsuperscript{4}就離席站起來，脫了外衣，拿一條毛巾束腰，\textsuperscript{5}隨後把水倒在盆裏，開始洗門徒的腳，並用束腰的毛巾擦乾。
 
-> \textsuperscript{12}耶穌洗完了他們的腳，就穿上外衣，再坐下來，對他們說：「我對你們所做的，你們明白嗎？\textsuperscript{13}你們稱呼我『老師』，稱呼我『主』，你們說得對，我本來就是。\textsuperscript{14}我是你們的主，你們的老師，尚且洗你們的腳，你們也應當彼此洗腳。\textsuperscript{15}我給你們作了榜樣，為要你們照着我對你們所做的去做。\textsuperscript{16}我實實在在地告訴你們，僕人不能大於主人，奉差遣的也不能大於差他的人。\textsuperscript{17}你們既知道這些事，若是去做就有福了。」
+> \textsuperscript{12}耶穌洗完了他們的腳，就穿上外衣，再坐下來，對他們說：\jesus{「我對你們所做的，你們明白嗎？\textsuperscript{13}你們稱呼我『老師』，稱呼我『主』，你們說得對，我本來就是。\textsuperscript{14}我是你們的主，你們的老師，尚且洗你們的腳，你們也應當彼此洗腳。\textsuperscript{15}我給你們作了榜樣，為要你們照着我對你們所做的去做。\textsuperscript{16}我實實在在地告訴你們，僕人不能大於主人，奉差遣的也不能大於差他的人。\textsuperscript{17}你們既知道這些事，若是去做就有福了。」}
 
 ---
 
@@ -5410,11 +5415,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{26}他們吃的時候，耶穌拿起餅來，祝福了，就擘開，遞給門徒，說：「你們拿去，吃吧！這是我的身體。」\textsuperscript{27}他又拿起杯來，祝謝了，遞給他們，說：「你們都喝這個，\textsuperscript{28}因為這是我立約的血，為許多人流出來，使罪得赦。\textsuperscript{29}但我告訴你們，從今以後我不再喝這葡萄樹的果汁，直到我在我父的國裏同你們喝新的那日子。」
+> \textsuperscript{26}他們吃的時候，耶穌拿起餅來，祝福了，就擘開，遞給門徒，說：\jesus{「你們拿去，吃吧！這是我的身體。」}\textsuperscript{27}他又拿起杯來，祝謝了，遞給他們，說：\jesus{「你們都喝這個，\textsuperscript{28}因為這是我立約的血，為許多人流出來，使罪得赦。\textsuperscript{29}但我告訴你們，從今以後我不再喝這葡萄樹的果汁，直到我在我父的國裏同你們喝新的那日子。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{26}Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, "Take, eat; this is my body." \textsuperscript{27}And he took a cup, and when he had given thanks he gave it to them, saying, "Drink of it, all of you, \textsuperscript{28}for this is my blood of the covenant, which is poured out for many for the forgiveness of sins. \textsuperscript{29}I tell you I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
+> \textsuperscript{26}And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, \jesus{"Take, eat; this is My body."} \textsuperscript{27}Then He took the cup, and gave thanks, and gave it to them, saying, \jesus{"Drink from it, all of you. \textsuperscript{28}For this is My blood of the new covenant, which is shed for many for the remission of sins. \textsuperscript{29}But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in My Father's kingdom."}
 
 ---
 
@@ -5777,23 +5782,23 @@ MacArthur 強調三重「道」的含義：
 
 #### 為自己禱告（17:1-5）
 
-> \textsuperscript{1}耶穌說了這些話，就舉目望天說：「父啊，時候到了，願你榮耀你的兒子，使兒子也榮耀你；\textsuperscript{2}正如你曾賜給他權柄管理凡有血肉的，使他將永生賜給你所賜給他的人。\textsuperscript{3}認識你——獨一的真神，並且認識你所差來的耶穌基督，這就是永生。\textsuperscript{4}我在地上已經榮耀你，你交給我要做的工作，我已完成了。\textsuperscript{5}父啊，現在求你使我在你面前得榮耀，就是在未有世界以前，我同你享有的榮耀。」
+> \textsuperscript{1}耶穌說了這些話，就舉目望天說：\jesus{「父啊，時候到了，願你榮耀你的兒子，使兒子也榮耀你；\textsuperscript{2}正如你曾賜給他權柄管理凡有血肉的，使他將永生賜給你所賜給他的人。\textsuperscript{3}認識你——獨一的真神，並且認識你所差來的耶穌基督，這就是永生。\textsuperscript{4}我在地上已經榮耀你，你交給我要做的工作，我已完成了。\textsuperscript{5}父啊，現在求你使我在你面前得榮耀，就是在未有世界以前，我同你享有的榮耀。」}
 
 #### 為門徒禱告（17:6-19）
 
-> \textsuperscript{9}「我為他們祈求，不為世人祈求，卻為你所賜給我的人祈求，因為他們本是你的...\textsuperscript{11}從今以後，我不再在世上，他們卻在世上；我要到你那裏去。聖父啊，求你因你的名，就是你所賜給我的名，保守他們，使他們合而為一，像我們一樣。\textsuperscript{15}我不求你讓他們離開世界，只求你保守他們脫離那惡者。\textsuperscript{17}求你用真理使他們成聖；你的道就是真理。」
+> \textsuperscript{9}\jesus{「我為他們祈求，不為世人祈求，卻為你所賜給我的人祈求，因為他們本是你的...\textsuperscript{11}從今以後，我不再在世上，他們卻在世上；我要到你那裏去。聖父啊，求你因你的名，就是你所賜給我的名，保守他們，使他們合而為一，像我們一樣。\textsuperscript{15}我不求你讓他們離開世界，只求你保守他們脫離那惡者。\textsuperscript{17}求你用真理使他們成聖；你的道就是真理。」}
 
 #### 為所有信徒禱告（17:20-26）
 
-> \textsuperscript{20}「我不但為這些人祈求，也為那些藉着他們的話信我的人祈求，\textsuperscript{21}使他們都合而為一。正如父你在我裏面，我在你裏面，使他們也在我們裏面，好讓世人信你差了我來。\textsuperscript{22}你所賜給我的榮耀，我已賜給他們，使他們合而為一，像我們合而為一。\textsuperscript{23}我在他們裏面，你在我裏面，使他們完完全全合而為一，讓世人知道你差了我來，也知道你愛他們如同愛我一樣。」
+> \textsuperscript{20}\jesus{「我不但為這些人祈求，也為那些藉着他們的話信我的人祈求，\textsuperscript{21}使他們都合而為一。正如父你在我裏面，我在你裏面，使他們也在我們裏面，好讓世人信你差了我來。\textsuperscript{22}你所賜給我的榮耀，我已賜給他們，使他們合而為一，像我們合而為一。\textsuperscript{23}我在他們裏面，你在我裏面，使他們完完全全合而為一，讓世人知道你差了我來，也知道你愛他們如同愛我一樣。」}
 
-> \textsuperscript{24}「父啊，我在哪裏，願你所賜給我的人也同我在哪裏，讓他們看見你所賜給我的榮耀，因為創世以前，你已經愛我了。\textsuperscript{25}公義的父啊，世人雖不認識你，我卻認識你，這些人也知道你差了我來。\textsuperscript{26}我已經讓他們認識你的名，還要讓他們認識，使你愛我的愛在他們裏面，我也在他們裏面。」
+> \textsuperscript{24}\jesus{「父啊，我在哪裏，願你所賜給我的人也同我在哪裏，讓他們看見你所賜給我的榮耀，因為創世以前，你已經愛我了。\textsuperscript{25}公義的父啊，世人雖不認識你，我卻認識你，這些人也知道你差了我來。\textsuperscript{26}我已經讓他們認識你的名，還要讓他們認識，使你愛我的愛在他們裏面，我也在他們裏面。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}When Jesus had spoken these words, he lifted up his eyes to heaven, and said, "Father, the hour has come; glorify your Son that the Son may glorify you, \textsuperscript{2}since you have given him authority over all flesh, to give eternal life to all whom you have given him. \textsuperscript{3}And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."
+> \textsuperscript{1}Jesus spoke these words, lifted up His eyes to heaven, and said: \jesus{"Father, the hour has come. Glorify Your Son, that Your Son also may glorify You, \textsuperscript{2}as You have given Him authority over all flesh, that He should give eternal life to as many as You have given Him. \textsuperscript{3}And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent."}
 
-> \textsuperscript{20}"I do not ask for these only, but also for those who will believe in me through their word, \textsuperscript{21}that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me."
+> \textsuperscript{20}\jesus{"I do not pray for these alone, but also for those who will believe in Me through their word; \textsuperscript{21}that they all may be one, as You, Father, are in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me."}
 
 ---
 
@@ -5963,11 +5968,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 掙扎禱告（太26:36-46）
 
-> \textsuperscript{36}耶穌和門徒來到一個地方，名叫客西馬尼，他對他們說：「你們坐在這裏，我到那邊去禱告。」\textsuperscript{37}於是他帶着彼得和西庇太的兩個兒子一起去，就憂愁起來，非常難過，\textsuperscript{38}對他們說：「我心裏非常憂傷，幾乎要死；你們留在這裏，和我一同警醒。」\textsuperscript{39}他就稍往前走，俯伏在地，禱告說：「我父啊，如果可能，求你使這杯離開我。然而，不是照我的意思，而是照你的意思。」
+> \textsuperscript{36}耶穌和門徒來到一個地方，名叫客西馬尼，他對他們說：\jesus{「你們坐在這裏，我到那邊去禱告。」}\textsuperscript{37}於是他帶着彼得和西庇太的兩個兒子一起去，就憂愁起來，非常難過，\textsuperscript{38}對他們說：\jesus{「我心裏非常憂傷，幾乎要死；你們留在這裏，和我一同警醒。」}\textsuperscript{39}他就稍往前走，俯伏在地，禱告說：\jesus{「我父啊，如果可能，求你使這杯離開我。然而，不是照我的意思，而是照你的意思。」}
 
-> \textsuperscript{40}他回到門徒那裏，見他們睡着了，就對彼得說：「怎麼樣？你們不能同我警醒一小時嗎？\textsuperscript{41}要警醒禱告，免得陷入試探。你們心靈固然願意，肉體卻軟弱了。」
+> \textsuperscript{40}他回到門徒那裏，見他們睡着了，就對彼得說：\jesus{「怎麼樣？你們不能同我警醒一小時嗎？\textsuperscript{41}要警醒禱告，免得陷入試探。你們心靈固然願意，肉體卻軟弱了。」}
 
-> \textsuperscript{42}他第二次又去禱告說：「我父啊，這杯若不能撤去，一定要我喝，願你的旨意成全。」
+> \textsuperscript{42}他第二次又去禱告說：\jesus{「我父啊，這杯若不能撤去，一定要我喝，願你的旨意成全。」}
 
 #### 路加福音 22:43-44 補充
 
@@ -5975,15 +5980,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 被捕（太26:47-56）
 
-> \textsuperscript{47}他還在說話的時候，十二使徒中的猶大來了，還有一大群帶着刀棒的人，是從祭司長和民間的長老那裏來的。\textsuperscript{48}出賣耶穌的人給了他們一個暗號，說：「我跟誰親嘴，誰就是他。你們把他抓住。」\textsuperscript{49}他立刻走到耶穌面前，說：「老師，你好！」就熱情地跟他親嘴。\textsuperscript{50}耶穌對他說：「朋友，你來做的事就做吧！」於是那些人上前，動手拿住耶穌。
+> \textsuperscript{47}他還在說話的時候，十二使徒中的猶大來了，還有一大群帶着刀棒的人，是從祭司長和民間的長老那裏來的。\textsuperscript{48}出賣耶穌的人給了他們一個暗號，說：「我跟誰親嘴，誰就是他。你們把他抓住。」\textsuperscript{49}他立刻走到耶穌面前，說：「老師，你好！」就熱情地跟他親嘴。\textsuperscript{50}耶穌對他說：\jesus{「朋友，你來做的事就做吧！」}於是那些人上前，動手拿住耶穌。
 
-> \textsuperscript{52}耶穌對他說：「收刀入鞘吧！因為凡動刀的，必死在刀下。\textsuperscript{53}你以為我不能求我父立刻為我調派十二營多天使來嗎？\textsuperscript{54}若是這樣，經上所說事情必須如此發生的話怎麼應驗呢？」\textsuperscript{55}那時，耶穌對眾人說：「你們帶着刀棒出來拿我，如同拿強盜嗎？我天天坐在聖殿裏教導人，你們並沒有抓我。\textsuperscript{56}但這一切的事發生是要應驗先知書上的話。」當時，門徒都離開他，逃走了。
+> \textsuperscript{52}耶穌對他說：\jesus{「收刀入鞘吧！因為凡動刀的，必死在刀下。\textsuperscript{53}你以為我不能求我父立刻為我調派十二營多天使來嗎？\textsuperscript{54}若是這樣，經上所說事情必須如此發生的話怎麼應驗呢？」}\textsuperscript{55}那時，耶穌對眾人說：\jesus{「你們帶着刀棒出來拿我，如同拿強盜嗎？我天天坐在聖殿裏教導人，你們並沒有抓我。\textsuperscript{56}但這一切的事發生是要應驗先知書上的話。」}當時，門徒都離開他，逃走了。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{39}And going a little farther he fell on his face and prayed, saying, "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will."
+> \textsuperscript{39}He went a little farther and fell on His face, and prayed, saying, \jesus{"O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will."}
 
-> \textsuperscript{42}Again, for the second time, he went away and prayed, "My Father, if this cannot pass unless I drink it, your will be done."
+> \textsuperscript{42}Again, a second time, He went away and prayed, saying, \jesus{"O My Father, if this cup cannot pass away from Me unless I drink it, Your will be done."}
 
 ---
 
@@ -6158,7 +6163,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{59}祭司長和全公會尋找假見證控告耶穌，要置他於死地。\textsuperscript{60}雖然有好些假證人上前來，仍找不着真憑實據。末後，有兩個人上前來，說：\textsuperscript{61}「這個人曾說：『我能拆毀神的殿，三日內把它重建起來。』」
 
-> \textsuperscript{62}大祭司就站起來，對耶穌說：「你甚麼都不回答嗎？這些人作見證告你的是甚麼呢？」\textsuperscript{63}耶穌卻不作聲。大祭司對他說：「我指着永生神命令你起誓告訴我們，你是不是基督，是神的兒子？」\textsuperscript{64}耶穌對他說：「是的，正如你說的。然而，我告訴你們，後來你們要看見人子坐在權能者的右邊，駕着天上的雲來臨。」\textsuperscript{65}大祭司就撕裂衣服，說：「他說了褻瀆的話，我們何必再找證人呢？這褻瀆的話，你們已經聽見了。\textsuperscript{66}你們的意見如何？」他們回答：「他該死！」
+> \textsuperscript{62}大祭司就站起來，對耶穌說：「你甚麼都不回答嗎？這些人作見證告你的是甚麼呢？」\textsuperscript{63}耶穌卻不作聲。大祭司對他說：「我指着永生神命令你起誓告訴我們，你是不是基督，是神的兒子？」\textsuperscript{64}耶穌對他說：\jesus{「是的，正如你說的。然而，我告訴你們，後來你們要看見人子坐在權能者的右邊，駕着天上的雲來臨。」}\textsuperscript{65}大祭司就撕裂衣服，說：「他說了褻瀆的話，我們何必再找證人呢？這褻瀆的話，你們已經聽見了。\textsuperscript{66}你們的意見如何？」他們回答：「他該死！」
 
 ---
 
@@ -6166,13 +6171,13 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{33}彼拉多又進了總督府，叫耶穌來，對他說：「你是猶太人的王嗎？」\textsuperscript{36}耶穌回答：「我的國不屬於這世界；我的國若屬於這世界，我的部下就會為我爭戰，使我不致被交給猶太人。只是，我的國不是這世界的。」\textsuperscript{37}彼拉多對他說：「那麼，你是王了？」耶穌回答：「你說我是王。我為此而生，也為此來到世界，為了給真理作見證。凡屬真理的人都聽我的話。」\textsuperscript{38}彼拉多對他說：「真理是甚麼？」
+> \textsuperscript{33}彼拉多又進了總督府，叫耶穌來，對他說：「你是猶太人的王嗎？」\textsuperscript{36}耶穌回答：\jesus{「我的國不屬於這世界；我的國若屬於這世界，我的部下就會為我爭戰，使我不致被交給猶太人。只是，我的國不是這世界的。」}\textsuperscript{37}彼拉多對他說：「那麼，你是王了？」耶穌回答：\jesus{「你說我是王。我為此而生，也為此來到世界，為了給真理作見證。凡屬真理的人都聽我的話。」}\textsuperscript{38}彼拉多對他說：「真理是甚麼？」
 
-> \textsuperscript{10}彼拉多對他說：「你不對我說話嗎？難道你不知道我有權柄釋放你，也有權柄把你釘十字架嗎？」\textsuperscript{11}耶穌回答：「若不是從上面賜給你的，你就毫無權柄辦我。所以，把我交給你的那人罪更重。」
+> \textsuperscript{10}彼拉多對他說：「你不對我說話嗎？難道你不知道我有權柄釋放你，也有權柄把你釘十字架嗎？」\textsuperscript{11}耶穌回答：\jesus{「若不是從上面賜給你的，你就毫無權柄辦我。所以，把我交給你的那人罪更重。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{36}Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world." \textsuperscript{37}Then Pilate said to him, "So you are a king?" Jesus answered, "You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice." \textsuperscript{38}Pilate said to him, "What is truth?"
+> \textsuperscript{36}Jesus answered, \jesus{"My kingdom is not of this world. If My kingdom were of this world, My servants would fight, so that I should not be delivered to the Jews; but now My kingdom is not from here."} \textsuperscript{37}Pilate therefore said to Him, "Are You a king then?" Jesus answered, \jesus{"You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice."} \textsuperscript{38}Pilate said to Him, "What is truth?"
 
 ---
 
@@ -6346,13 +6351,13 @@ MacArthur 強調三重「道」的含義：
 
 | 序 | 話語 | 經文 |
 |---|------|------|
-| 1 | 「父啊，赦免他們！因為他們所做的，他們不知道。」 | 路23:34 |
-| 2 | 「我實在告訴你，今日你要同我在樂園裏了。」 | 路23:43 |
-| 3 | 「母親，看，你的兒子！...看，你的母親！」 | 約19:26-27 |
-| 4 | 「我的神！我的神！為甚麼離棄我？」 | 太27:46 |
-| 5 | 「我渴了。」 | 約19:28 |
-| 6 | 「成了！」 | 約19:30 |
-| 7 | 「父啊，我將我的靈魂交在你手裏。」 | 路23:46 |
+| 1 | \jesus{「父啊，赦免他們！因為他們所做的，他們不知道。」} | 路23:34 |
+| 2 | \jesus{「我實在告訴你，今日你要同我在樂園裏了。」} | 路23:43 |
+| 3 | \jesus{「母親，看，你的兒子！...看，你的母親！」} | 約19:26-27 |
+| 4 | \jesus{「我的神！我的神！為甚麼離棄我？」} | 太27:46 |
+| 5 | \jesus{「我渴了。」} | 約19:28 |
+| 6 | \jesus{「成了！」} | 約19:30 |
+| 7 | \jesus{「父啊，我將我的靈魂交在你手裏。」} | 路23:46 |
 
 ---
 
@@ -6360,11 +6365,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{28}這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，就說：「我渴了。」\textsuperscript{29}有一個盛滿了醋的罐子放在那裏，他們就拿海綿蘸滿了醋，綁在牛膝草上，送到他口邊。\textsuperscript{30}耶穌嘗了那醋，就說：「成了！」便低下頭，將靈魂交付神了。
+> \textsuperscript{28}這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，就說：\jesus{「我渴了。」}\textsuperscript{29}有一個盛滿了醋的罐子放在那裏，他們就拿海綿蘸滿了醋，綁在牛膝草上，送到他口邊。\textsuperscript{30}耶穌嘗了那醋，就說：\jesus{「成了！」}便低下頭，將靈魂交付神了。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{28}After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), "I thirst." \textsuperscript{29}A jar full of sour wine stood there, so they put a sponge full of the sour wine on a hyssop branch and held it to his mouth. \textsuperscript{30}When Jesus had received the sour wine, he said, "It is finished," and he bowed his head and gave up his spirit.
+> \textsuperscript{28}After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, \jesus{"I thirst!"} \textsuperscript{29}Now a vessel full of sour wine was sitting there; and they filled a sponge with sour wine, put it on hyssop, and put it to His mouth. \textsuperscript{30}So when Jesus had received the sour wine, He said, \jesus{"It is finished!"} And bowing His head, He gave up His spirit.
 
 ---
 
@@ -6551,9 +6556,9 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{62}第二天，就是預備日的次日，祭司長和法利賽人聚集來見彼拉多，說：\textsuperscript{63}「大人，我們記得那迷惑人的還活着的時候曾說：『三日後我要復活。』\textsuperscript{64}因此，請吩咐人將墳墓把守妥當，直到第三日，恐怕他的門徒來把他偷了去，然後告訴百姓說：『他從死人中復活了。』這樣，那後來的欺騙比先前的更厲害了！」\textsuperscript{65}彼拉多說：「你們有看守的人，去吧！盡你們所能的把守妥當。」\textsuperscript{66}他們就帶着看守的人同去，封了石頭，把墳墓把守妥當。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{38}After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, asked Pilate that he might take away the body of Jesus, and Pilate gave him permission. So he came and took away his body. \textsuperscript{39}Nicodemus also, who earlier had come to Jesus by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight. \textsuperscript{40}So they took the body of Jesus and bound it in linen cloths with the spices, as is the burial custom of the Jews. \textsuperscript{41}Now in the place where he was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid. \textsuperscript{42}So because of the Jewish day of Preparation, since the tomb was close at hand, they laid Jesus there.
+> \textsuperscript{38}After this, Joseph of Arimathea, being a disciple of Jesus, but secretly, for fear of the Jews, asked Pilate that he might take away the body of Jesus; and Pilate gave him permission. So he came and took the body of Jesus. \textsuperscript{39}And Nicodemus, who at first came to Jesus by night, also came, bringing a mixture of myrrh and aloes, about a hundred pounds. \textsuperscript{40}Then they took the body of Jesus, and bound it in strips of linen with the spices, as the custom of the Jews is to bury. \textsuperscript{41}Now in the place where He was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid. \textsuperscript{42}So there they laid Jesus, because of the Jews' Preparation Day, for the tomb was nearby.
 
 ---
 
@@ -6740,11 +6745,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{11}馬利亞卻站在墳墓外面哭。她一面哭，一面低頭往墳墓裏看，\textsuperscript{12}看見兩個穿白衣的天使坐在安放耶穌身體的地方，一個在頭，一個在腳。\textsuperscript{13}天使對她說：「女人，你為甚麼哭？」她說：「因為有人把我主移走了，我不知道他們把他放在哪裏。」\textsuperscript{14}說了這話，她轉過身來，看見耶穌站在那裏，卻不知道那是耶穌。\textsuperscript{15}耶穌問她：「女人，你為甚麼哭？你找誰？」馬利亞以為是園丁，就對他說：「先生，若是你把他移走了，請告訴我你把他放在哪裏，我去把他移回來。」\textsuperscript{16}耶穌對她說：「馬利亞！」馬利亞轉過身來，用希伯來話對他說：「拉波尼！」——就是「老師」的意思。\textsuperscript{17}耶穌對她說：「不要拉住我，因為我還沒有升上去見我的父。你去到我的弟兄那裏，告訴他們我要升上去見我的父，也是你們的父，見我的神，也是你們的神。」\textsuperscript{18}抹大拉的馬利亞就去告訴門徒：「我已經看見了主！」她又把主對她說的話告訴他們。
+> \textsuperscript{11}馬利亞卻站在墳墓外面哭。她一面哭，一面低頭往墳墓裏看，\textsuperscript{12}看見兩個穿白衣的天使坐在安放耶穌身體的地方，一個在頭，一個在腳。\textsuperscript{13}天使對她說：「女人，你為甚麼哭？」她說：「因為有人把我主移走了，我不知道他們把他放在哪裏。」\textsuperscript{14}說了這話，她轉過身來，看見耶穌站在那裏，卻不知道那是耶穌。\textsuperscript{15}耶穌問她：\jesus{「女人，你為甚麼哭？你找誰？」}馬利亞以為是園丁，就對他說：「先生，若是你把他移走了，請告訴我你把他放在哪裏，我去把他移回來。」\textsuperscript{16}耶穌對她說：\jesus{「馬利亞！」}馬利亞轉過身來，用希伯來話對他說：「拉波尼！」——就是「老師」的意思。\textsuperscript{17}耶穌對她說：\jesus{「不要拉住我，因為我還沒有升上去見我的父。你去到我的弟兄那裏，告訴他們我要升上去見我的父，也是你們的父，見我的神，也是你們的神。」}\textsuperscript{18}抹大拉的馬利亞就去告訴門徒：「我已經看見了主！」她又把主對她說的話告訴他們。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{15}Jesus said to her, "Woman, why are you weeping? Whom are you seeking?" Supposing him to be the gardener, she said to him, "Sir, if you have carried him away, tell me where you have laid him, and I will take him away." \textsuperscript{16}Jesus said to her, "Mary." She turned and said to him in Aramaic, "Rabboni!" (which means Teacher). \textsuperscript{17}Jesus said to her, "Do not cling to me, for I have not yet ascended to the Father; but go to my brothers and say to them, 'I am ascending to my Father and your Father, to my God and your God.'" \textsuperscript{18}Mary Magdalene went and announced to the disciples, "I have seen the Lord"—and that he had said these things to her.
+> \textsuperscript{15}Jesus said to her, \jesus{"Woman, why are you weeping? Whom are you seeking?"} She, supposing Him to be the gardener, said to Him, "Sir, if You have carried Him away, tell me where You have laid Him, and I will take Him away." \textsuperscript{16}Jesus said to her, \jesus{"Mary!"} She turned and said to Him, "Rabboni!" (which is to say, Teacher). \textsuperscript{17}Jesus said to her, \jesus{"Do not cling to Me, for I have not yet ascended to My Father; but go to My brethren and say to them, 'I am ascending to My Father and your Father, and to My God and your God.'"} \textsuperscript{18}Mary Magdalene came and told the disciples that she had seen the Lord, and that He had spoken these things to her.
 
 ---
 
@@ -6899,7 +6904,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{13}就在那一天，門徒中有兩個人往一個村子去；這村子名叫以馬忤斯，離耶路撒冷約有二十五里。\textsuperscript{14}他們彼此談論所發生的這一切事。\textsuperscript{15}正談話討論的時候，耶穌親自走近他們，和他們同行；\textsuperscript{16}可是他們的眼睛被蒙蔽，認不出他來。
 
-> \textsuperscript{25}耶穌對他們說：「無知的人哪，先知所說的一切話，你們的心竟遲鈍，不能相信！\textsuperscript{26}基督不是必須受這些苦難，然後進入他的榮耀嗎？」\textsuperscript{27}於是他從摩西和眾先知起，凡經上所指着自己的話都給他們作了解釋。
+> \textsuperscript{25}耶穌對他們說：\jesus{「無知的人哪，先知所說的一切話，你們的心竟遲鈍，不能相信！\textsuperscript{26}基督不是必須受這些苦難，然後進入他的榮耀嗎？」}\textsuperscript{27}於是他從摩西和眾先知起，凡經上所指着自己的話都給他們作了解釋。
 
 > \textsuperscript{30}到了坐席的時候，耶穌拿起餅來，祝福了，擘開，遞給他們。\textsuperscript{31}他們的眼睛開了，這才認出他來。忽然耶穌不見了。\textsuperscript{32}他們彼此說：「在路上他和我們說話，給我們講解聖經的時候，我們的心豈不是火熱的嗎？」
 
@@ -6911,7 +6916,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{24}那十二個門徒中有一個叫多馬，又稱為低土馬；耶穌來的時候，他沒有和他們在一起。\textsuperscript{25}其他的門徒對他說：「我們已經看見主了。」多馬卻對他們說：「除非我看見他手上的釘痕，用我的指頭探入那釘痕，用我的手探入他的肋旁，我絕不信。」
 
-> \textsuperscript{26}過了八天，門徒又在屋裏，多馬也和他們在一起。門都關了，耶穌來，站在當中，說：「願你們平安！」\textsuperscript{27}然後他對多馬說：「把你的指頭伸到這裏來，看看我的手；把你的手伸過來，探入我的肋旁。不要疑惑，總要信！」\textsuperscript{28}多馬回答，對他說：「我的主！我的神！」\textsuperscript{29}耶穌對他說：「你因看見了我才信嗎？那沒有看見卻信的有福了！」
+> \textsuperscript{26}過了八天，門徒又在屋裏，多馬也和他們在一起。門都關了，耶穌來，站在當中，說：\jesus{「願你們平安！」}\textsuperscript{27}然後他對多馬說：\jesus{「把你的指頭伸到這裏來，看看我的手；把你的手伸過來，探入我的肋旁。不要疑惑，總要信！」}\textsuperscript{28}多馬回答，對他說：「我的主！我的神！」\textsuperscript{29}耶穌對他說：\jesus{「你因看見了我才信嗎？那沒有看見卻信的有福了！」}
 
 ---
 
@@ -6919,11 +6924,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{15}他們吃完了早飯，耶穌對西門．彼得說：「約翰的兒子西門，你愛我比這些更深嗎？」彼得對他說：「主啊，是的，你知道我愛你。」耶穌說：「你餵養我的小羊。」\textsuperscript{16}耶穌第二次又對他說：「約翰的兒子西門，你愛我嗎？」彼得對他說：「主啊，是的，你知道我愛你。」耶穌說：「你牧養我的羊。」\textsuperscript{17}耶穌第三次對他說：「約翰的兒子西門，你愛我嗎？」彼得因為耶穌第三次對他說「你愛我嗎」，就憂愁起來，對耶穌說：「主啊，你無所不知，你知道我愛你。」耶穌說：「你餵養我的羊。」
+> \textsuperscript{15}他們吃完了早飯，耶穌對西門．彼得說：\jesus{「約翰的兒子西門，你愛我比這些更深嗎？」}彼得對他說：「主啊，是的，你知道我愛你。」耶穌說：\jesus{「你餵養我的小羊。」}\textsuperscript{16}耶穌第二次又對他說：\jesus{「約翰的兒子西門，你愛我嗎？」}彼得對他說：「主啊，是的，你知道我愛你。」耶穌說：\jesus{「你牧養我的羊。」}\textsuperscript{17}耶穌第三次對他說：\jesus{「約翰的兒子西門，你愛我嗎？」}彼得因為耶穌第三次對他說「你愛我嗎」，就憂愁起來，對耶穌說：「主啊，你無所不知，你知道我愛你。」耶穌說：\jesus{「你餵養我的羊。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{27}Then he said to Thomas, "Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe." \textsuperscript{28}Thomas answered him, "My Lord and my God!" \textsuperscript{29}Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed."
+> \textsuperscript{27}Then He said to Thomas, \jesus{"Reach your finger here, and look at My hands; and reach your hand here, and put it into My side. Do not be unbelieving, but believing."} \textsuperscript{28}And Thomas answered and said to Him, "My Lord and my God!" \textsuperscript{29}Jesus said to him, \jesus{"Thomas, because you have seen Me, you have believed. Blessed are those who have not seen and yet have believed."}
 
 ---
 
@@ -7100,11 +7105,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{16}十一個門徒往加利利去，到了耶穌指定的山上。\textsuperscript{17}他們見了耶穌就拜他，然而還有人懷疑。\textsuperscript{18}耶穌進前來，對他們說：「天上地下所有的權柄都賜給我了。\textsuperscript{19}所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗，\textsuperscript{20}凡我所吩咐你們的，都教導他們遵守。看哪，我天天與你們同在，直到世界的末了。」
+> \textsuperscript{16}十一個門徒往加利利去，到了耶穌指定的山上。\textsuperscript{17}他們見了耶穌就拜他，然而還有人懷疑。\textsuperscript{18}耶穌進前來，對他們說：\jesus{「天上地下所有的權柄都賜給我了。\textsuperscript{19}所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗，\textsuperscript{20}凡我所吩咐你們的，都教導他們遵守。看哪，我天天與你們同在，直到世界的末了。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{18}And Jesus came and said to them, "All authority in heaven and on earth has been given to me. \textsuperscript{19}Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, \textsuperscript{20}teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."
+> \textsuperscript{18}And Jesus came and spoke to them, saying, \jesus{"All authority has been given to Me in heaven and on earth. \textsuperscript{19}Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, \textsuperscript{20}teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age."} Amen.
 
 ---
 
@@ -7112,7 +7117,7 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{6}他們聚集的時候，問耶穌：「主啊，你就要在這時候復興以色列國嗎？」\textsuperscript{7}耶穌對他們說：「父憑着自己的權柄所定的時候或日期，不是你們可以知道的。\textsuperscript{8}但聖靈降臨在你們身上，你們就必得着能力，並要在耶路撒冷、猶太全地、撒瑪利亞，直到地極，作我的見證。」
+> \textsuperscript{6}他們聚集的時候，問耶穌：「主啊，你就要在這時候復興以色列國嗎？」\textsuperscript{7}耶穌對他們說：\jesus{「父憑着自己的權柄所定的時候或日期，不是你們可以知道的。\textsuperscript{8}但聖靈降臨在你們身上，你們就必得着能力，並要在耶路撒冷、猶太全地、撒瑪利亞，直到地極，作我的見證。」}
 
 > \textsuperscript{9}說了這些話，他們正看的時候，他就被接上升，有一朵雲彩把他接去，他們看不見他了。\textsuperscript{10}當他往上去，他們定睛望天的時候，忽然有兩個穿白衣的人站在旁邊，說：\textsuperscript{11}「加利利人哪，你們為甚麼站着望天呢？這離開你們被接升天的耶穌，你們見他怎樣往天上去，他還要怎樣來。」
 

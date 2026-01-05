@@ -218,7 +218,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「很多人以為只要不積極反對基督就沒事。但希伯來書2:3告訴我們：忽略就夠了。你不需要否認基督，只需要不理會祂，就足以滅亡。這是福音最嚴肅的警告之一。」
 > — *MacArthur New Testament Commentary: Hebrews*

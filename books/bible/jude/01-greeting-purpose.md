@@ -144,7 +144,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『竭力爭辯』不是指好爭辯或好鬥的態度，而是指為真理站立的決心。這需要勇氣、犧牲、和對神話語的完全委身。在這個包容至上的時代，這樣的爭辯顯得格外需要。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*

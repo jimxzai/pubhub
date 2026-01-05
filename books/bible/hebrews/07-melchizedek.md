@@ -258,7 +258,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「7:25是聖經中最偉大的救恩確據經文之一。基督的救恩是『到底』的——不只開始，更是完成；不只赦免，更是保守；不只現在，更是永遠。祂的代求保證我們永不失落。」
 > — *MacArthur New Testament Commentary: Hebrews*

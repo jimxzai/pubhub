@@ -15,23 +15,23 @@ scripture: 約翰福音 17:1-26
 
 #### 為自己禱告（17:1-5）
 
-> ^1^耶穌說了這些話，就舉目望天說：「父啊，時候到了，願你榮耀你的兒子，使兒子也榮耀你；^2^正如你曾賜給他權柄管理凡有血肉的，使他將永生賜給你所賜給他的人。^3^認識你——獨一的真神，並且認識你所差來的耶穌基督，這就是永生。^4^我在地上已經榮耀你，你交給我要做的工作，我已完成了。^5^父啊，現在求你使我在你面前得榮耀，就是在未有世界以前，我同你享有的榮耀。」
+> ^1^耶穌說了這些話，就舉目望天說：<red>「父啊，時候到了，願你榮耀你的兒子，使兒子也榮耀你；^2^正如你曾賜給他權柄管理凡有血肉的，使他將永生賜給你所賜給他的人。^3^認識你——獨一的真神，並且認識你所差來的耶穌基督，這就是永生。^4^我在地上已經榮耀你，你交給我要做的工作，我已完成了。^5^父啊，現在求你使我在你面前得榮耀，就是在未有世界以前，我同你享有的榮耀。」</red>
 
 #### 為門徒禱告（17:6-19）
 
-> ^9^「我為他們祈求，不為世人祈求，卻為你所賜給我的人祈求，因為他們本是你的...^11^從今以後，我不再在世上，他們卻在世上；我要到你那裏去。聖父啊，求你因你的名，就是你所賜給我的名，保守他們，使他們合而為一，像我們一樣。^15^我不求你讓他們離開世界，只求你保守他們脫離那惡者。^17^求你用真理使他們成聖；你的道就是真理。」
+> ^9^<red>「我為他們祈求，不為世人祈求，卻為你所賜給我的人祈求，因為他們本是你的...^11^從今以後，我不再在世上，他們卻在世上；我要到你那裏去。聖父啊，求你因你的名，就是你所賜給我的名，保守他們，使他們合而為一，像我們一樣。^15^我不求你讓他們離開世界，只求你保守他們脫離那惡者。^17^求你用真理使他們成聖；你的道就是真理。」</red>
 
 #### 為所有信徒禱告（17:20-26）
 
-> ^20^「我不但為這些人祈求，也為那些藉着他們的話信我的人祈求，^21^使他們都合而為一。正如父你在我裏面，我在你裏面，使他們也在我們裏面，好讓世人信你差了我來。^22^你所賜給我的榮耀，我已賜給他們，使他們合而為一，像我們合而為一。^23^我在他們裏面，你在我裏面，使他們完完全全合而為一，讓世人知道你差了我來，也知道你愛他們如同愛我一樣。」
+> ^20^<red>「我不但為這些人祈求，也為那些藉着他們的話信我的人祈求，^21^使他們都合而為一。正如父你在我裏面，我在你裏面，使他們也在我們裏面，好讓世人信你差了我來。^22^你所賜給我的榮耀，我已賜給他們，使他們合而為一，像我們合而為一。^23^我在他們裏面，你在我裏面，使他們完完全全合而為一，讓世人知道你差了我來，也知道你愛他們如同愛我一樣。」</red>
 
-> ^24^「父啊，我在哪裏，願你所賜給我的人也同我在哪裏，讓他們看見你所賜給我的榮耀，因為創世以前，你已經愛我了。^25^公義的父啊，世人雖不認識你，我卻認識你，這些人也知道你差了我來。^26^我已經讓他們認識你的名，還要讓他們認識，使你愛我的愛在他們裏面，我也在他們裏面。」
+> ^24^<red>「父啊，我在哪裏，願你所賜給我的人也同我在哪裏，讓他們看見你所賜給我的榮耀，因為創世以前，你已經愛我了。^25^公義的父啊，世人雖不認識你，我卻認識你，這些人也知道你差了我來。^26^我已經讓他們認識你的名，還要讓他們認識，使你愛我的愛在他們裏面，我也在他們裏面。」</red>
 
-### English — ESV
+### English — NKJV
 
-> ^1^When Jesus had spoken these words, he lifted up his eyes to heaven, and said, "Father, the hour has come; glorify your Son that the Son may glorify you, ^2^since you have given him authority over all flesh, to give eternal life to all whom you have given him. ^3^And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."
+> ^1^Jesus spoke these words, lifted up His eyes to heaven, and said: <red>"Father, the hour has come. Glorify Your Son, that Your Son also may glorify You, ^2^as You have given Him authority over all flesh, that He should give eternal life to as many as You have given Him. ^3^And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent."</red>
 
-> ^20^"I do not ask for these only, but also for those who will believe in me through their word, ^21^that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me."
+> ^20^<red>"I do not pray for these alone, but also for those who will believe in Me through their word; ^21^that they all may be one, as You, Father, are in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me."</red>
 
 ---
 

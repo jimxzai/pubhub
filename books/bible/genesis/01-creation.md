@@ -174,7 +174,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「創世記第一章不是神話，不是詩歌，而是歷史記載。神用六天創造天地，第七天安息——這是直接、字面的意義。這段經文是整本聖經神學的根基。」
 > — *The Battle for the Beginning*

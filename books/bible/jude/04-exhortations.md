@@ -167,7 +167,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「猶大的四重命令構成了屬靈健康的處方：建造（真理）、禱告（聖靈）、保守（愛）、仰望（盼望）。這四個元素結合在一起，使信徒能抵擋假教師的影響，持守真道到底。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*

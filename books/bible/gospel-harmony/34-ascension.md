@@ -15,11 +15,11 @@ scripture: 馬太福音 28:16-20; 路加福音 24:44-53; 使徒行傳 1:1-11
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^16^十一個門徒往加利利去，到了耶穌指定的山上。^17^他們見了耶穌就拜他，然而還有人懷疑。^18^耶穌進前來，對他們說：「天上地下所有的權柄都賜給我了。^19^所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗，^20^凡我所吩咐你們的，都教導他們遵守。看哪，我天天與你們同在，直到世界的末了。」
+> ^16^十一個門徒往加利利去，到了耶穌指定的山上。^17^他們見了耶穌就拜他，然而還有人懷疑。^18^耶穌進前來，對他們說：<red>「天上地下所有的權柄都賜給我了。^19^所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗，^20^凡我所吩咐你們的，都教導他們遵守。看哪，我天天與你們同在，直到世界的末了。」</red>
 
-#### English — ESV
+#### English — NKJV
 
-> ^18^And Jesus came and said to them, "All authority in heaven and on earth has been given to me. ^19^Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, ^20^teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."
+> ^18^And Jesus came and spoke to them, saying, <red>"All authority has been given to Me in heaven and on earth. ^19^Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, ^20^teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age."</red> Amen.
 
 ---
 
@@ -27,7 +27,7 @@ scripture: 馬太福音 28:16-20; 路加福音 24:44-53; 使徒行傳 1:1-11
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^6^他們聚集的時候，問耶穌：「主啊，你就要在這時候復興以色列國嗎？」^7^耶穌對他們說：「父憑着自己的權柄所定的時候或日期，不是你們可以知道的。^8^但聖靈降臨在你們身上，你們就必得着能力，並要在耶路撒冷、猶太全地、撒瑪利亞，直到地極，作我的見證。」
+> ^6^他們聚集的時候，問耶穌：「主啊，你就要在這時候復興以色列國嗎？」^7^耶穌對他們說：<red>「父憑着自己的權柄所定的時候或日期，不是你們可以知道的。^8^但聖靈降臨在你們身上，你們就必得着能力，並要在耶路撒冷、猶太全地、撒瑪利亞，直到地極，作我的見證。」</red>
 
 > ^9^說了這些話，他們正看的時候，他就被接上升，有一朵雲彩把他接去，他們看不見他了。^10^當他往上去，他們定睛望天的時候，忽然有兩個穿白衣的人站在旁邊，說：^11^「加利利人哪，你們為甚麼站着望天呢？這離開你們被接升天的耶穌，你們見他怎樣往天上去，他還要怎樣來。」
 

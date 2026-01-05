@@ -283,7 +283,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『信心的創始者和成終者』——這告訴我們信心不是我們自己產生的。信心始於基督，終於基督。祂是信心的源頭，也是信心的目標。我們只是跟隨祂走完這路程。」
 > — *MacArthur New Testament Commentary: Hebrews*

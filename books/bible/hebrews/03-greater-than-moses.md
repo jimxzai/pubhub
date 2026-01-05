@@ -231,7 +231,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「3:6和3:14的條件句不是說『如果你堅持就能得救』，而是說『如果你不堅持，證明你從未真正得救』。真信心會結出堅忍的果子。假信心在試煉中就顯露出來。」
 > — *MacArthur New Testament Commentary: Hebrews*

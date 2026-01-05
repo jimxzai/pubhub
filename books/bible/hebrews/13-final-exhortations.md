@@ -280,7 +280,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「希伯來書13章給我們看見，真正的信仰不只是頭腦的相信，更是生活的實踐。弟兄相愛、接待客旅、尊重婚姻、不貪財——這些都是信心的果子。沒有這些果子，信心就是死的。」
 > — *MacArthur New Testament Commentary: Hebrews*

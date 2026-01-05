@@ -21,9 +21,9 @@ scripture: 馬太福音 27:57-66; 馬可福音 15:42-47; 路加福音 23:50-56; 
 
 > ^62^第二天，就是預備日的次日，祭司長和法利賽人聚集來見彼拉多，說：^63^「大人，我們記得那迷惑人的還活着的時候曾說：『三日後我要復活。』^64^因此，請吩咐人將墳墓把守妥當，直到第三日，恐怕他的門徒來把他偷了去，然後告訴百姓說：『他從死人中復活了。』這樣，那後來的欺騙比先前的更厲害了！」^65^彼拉多說：「你們有看守的人，去吧！盡你們所能的把守妥當。」^66^他們就帶着看守的人同去，封了石頭，把墳墓把守妥當。
 
-### English — ESV
+### English — NKJV
 
-> ^38^After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, asked Pilate that he might take away the body of Jesus, and Pilate gave him permission. So he came and took away his body. ^39^Nicodemus also, who earlier had come to Jesus by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight. ^40^So they took the body of Jesus and bound it in linen cloths with the spices, as is the burial custom of the Jews. ^41^Now in the place where he was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid. ^42^So because of the Jewish day of Preparation, since the tomb was close at hand, they laid Jesus there.
+> ^38^After this, Joseph of Arimathea, being a disciple of Jesus, but secretly, for fear of the Jews, asked Pilate that he might take away the body of Jesus; and Pilate gave him permission. So he came and took the body of Jesus. ^39^And Nicodemus, who at first came to Jesus by night, also came, bringing a mixture of myrrh and aloes, about a hundred pounds. ^40^Then they took the body of Jesus, and bound it in strips of linen with the spices, as the custom of the Jews is to bury. ^41^Now in the place where He was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid. ^42^So there they laid Jesus, because of the Jews' Preparation Day, for the tomb was nearby.
 
 ---
 

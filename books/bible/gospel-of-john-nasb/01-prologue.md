@@ -128,7 +128,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「『道』這個詞對猶太讀者來說代表神的自我啟示，對希臘讀者來說代表宇宙的理性原則。約翰用這個詞告訴所有人：你們所尋找的，就是耶穌基督。」
 > — *The MacArthur New Testament Commentary: John 1-11*

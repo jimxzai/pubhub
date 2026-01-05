@@ -182,7 +182,7 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經
 
-**約翰·麥克乾瑟 (John MacArthur)**:
+**約翰·麥克阿瑟 (John MacArthur)**:
 
 > 「這是新約最偉大的頌榮之一。在警告假教師、描述審判之後，猶大將我們的目光轉向神的能力與榮耀。這提醒我們：無論環境多麼黑暗，神仍然坐在寶座上，祂有能力保守祂的百姓直到末了。」
 > — *The MacArthur New Testament Commentary: 2 Peter & Jude*
