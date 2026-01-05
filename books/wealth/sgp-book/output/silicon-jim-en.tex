@@ -1,0 +1,172 @@
+% Silicon Jim - English Version
+% Based on book5-en-combined.tex template
+% Requires XeLaTeX
+
+\documentclass[11pt,openright,twoside]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use professional fonts
+\setmainfont{Georgia}[
+  BoldFont=Georgia Bold,
+  ItalicFont=Georgia Italic
+]
+\setsansfont{Helvetica Neue}
+\setmonofont{Menlo}[Scale=0.9]
+
+% Page geometry - book format (6x9 inches)
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.875in,
+  outer=0.625in
+}
+
+% Line spacing
+\linespread{1.15}
+
+% Colors
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{139,69,19}
+\definecolor{quotecolor}{RGB}{85,85,85}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=blue,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Math symbols
+\usepackage{amssymb}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Chapter styling
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \huge\bfseries\color{chaptercolor} \@chapapp\space \thechapter
+        \par\nobreak
+        \vskip 20\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \Huge \bfseries \color{chaptercolor} #1\par\nobreak
+    \vskip 40\p@
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{50\p@}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \Huge \bfseries \color{chaptercolor} #1\par\nobreak
+    \vskip 40\p@
+  }}
+\makeatother
+
+% Section styling
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-3.5ex \@plus -1ex \@minus -.2ex}%
+  {2.3ex \@plus.2ex}%
+  {\normalfont\Large\bfseries\color{chaptercolor}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-3.25ex\@plus -1ex \@minus -.2ex}%
+  {1.5ex \@plus .2ex}%
+  {\normalfont\large\bfseries}}
+\makeatother
+
+% Quote styling
+\renewenvironment{quote}{%
+  \list{}{\leftmargin=2em\rightmargin=2em}%
+  \item\relax\itshape\color{quotecolor}%
+}{%
+  \endlist
+}
+
+% Widow and orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Metadata
+\title{Silicon Jim}
+\author{Jim Xiao}
+\date{January 2026}
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Front matter
+\frontmatter
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{1.5cm}
+\begin{center}
+{\Huge\sffamily\bfseries\color{chaptercolor} Silicon Jim}\\[1.5cm]
+{\Large\itshape A Forrest Gump Guide to}\\[0.3cm]
+{\Large\itshape Silicon Valley Survival}\\[2cm]
+{\large Twenty-Five Years of Bubbles, Crashes,}\\[0.3cm]
+{\large and Mama's Wisdom}\\[1cm]
+{\large 2000 -- 2025}\\[2cm]
+{\Large\sffamily Jim Xiao}\\[0.5cm]
+{\normalsize Silicon Valley Forrest Gump Series}
+\vfill
+{\large January 2026}
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small
+\textit{Silicon Jim}\\
+A Forrest Gump Guide to Silicon Valley Survival\\[0.5cm]
+A Louisiana Boy's Twenty-Five Years\\[1cm]
+Copyright \copyright\ \the\year\ Jim Xiao\\
+All rights reserved.\\[1cm]
+This book is for educational and informational purposes only\\
+and does not constitute investment advice.\\
+Investing involves risk. Please consult a professional.
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\tableofcontents
+\cleardoublepage
+
+% Main matter
+\mainmatter
+
+\input{silicon-jim-en-content.tex}
+
+\end{document}

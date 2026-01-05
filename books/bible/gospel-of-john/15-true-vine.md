@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 真葡萄樹 (The True Vine)
 
 約翰福音 15:1-27
@@ -25,19 +33,19 @@
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^**「我是真葡萄樹，我父是栽培的人。**^2^凡屬我不結果子的枝子，他就剪掉；凡結果子的，他就修剪乾淨，使枝子結果子更多。」
+> \jesus{^1^**「我是真葡萄樹，我父是栽培的人。**^2^凡屬我不結果子的枝子，他就剪掉；凡結果子的，他就修剪乾淨，使枝子結果子更多。」}
 
-> ^4^**你們要住在我裏面，我也住在你們裏面。**枝子若不連在葡萄樹上，自己就不能結果子；你們若不住在我裏面，也是這樣。^5^**我是葡萄樹，你們是枝子。住在我裏面的，我也住在他裏面，這人就多結果子；因為離了我，你們就不能做甚麼。**
+> \jesus{^4^**你們要住在我裏面，我也住在你們裏面。**枝子若不連在葡萄樹上，自己就不能結果子；你們若不住在我裏面，也是這樣。^5^**我是葡萄樹，你們是枝子。住在我裏面的，我也住在他裏面，這人就多結果子；因為離了我，你們就不能做甚麼。**}
 
-> ^9^我愛你們，正如父愛我一樣；你們要住在我的愛裏。^10^你們若遵守我的命令，就住在我的愛裏，正如我遵守了我父的命令，住在他的愛裏。^11^「這些事我已經對你們說了，是要使我的喜樂存在你們心裏，並使你們的喜樂滿足。」
+> \jesus{^9^我愛你們，正如父愛我一樣；你們要住在我的愛裏。^10^你們若遵守我的命令，就住在我的愛裏，正如我遵守了我父的命令，住在他的愛裏。^11^「這些事我已經對你們說了，是要使我的喜樂存在你們心裏，並使你們的喜樂滿足。」}
 
-> ^13^**人為朋友捨命，人的愛心沒有比這個更大的。**^14^你們若遵行我所吩咐的，就是我的朋友了。
+> \jesus{^13^**人為朋友捨命，人的愛心沒有比這個更大的。**^14^你們若遵行我所吩咐的，就是我的朋友了。}
 
 ### English — ESV
 
-> ^5^"I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."
+> ^5^\jesus{"I am the vine; you are the branches. Whoever abides in me and I in him, he it is that bears much fruit, for apart from me you can do nothing."}
 
-> ^13^"Greater love has no one than this, that someone lay down his life for his friends."
+> ^13^\jesus{"Greater love has no one than this, that someone lay down his life for his friends."}
 
 ---
 

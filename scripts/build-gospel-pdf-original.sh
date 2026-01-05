@@ -30,7 +30,7 @@ author: "PubHub 三書精讀系統"
 date: "2025年12月"
 publisher: "三書精讀出版系統"
 copyright: |
-  版權所有 © 2025 Jim Xiao
+  版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
 
   **三大核心資源整合：**
 
@@ -56,15 +56,16 @@ if [ -f "$INPUT_DIR/00-overview.md" ]; then
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
 fi
 
-# Add all 21 chapters in order
+# Add all 21 chapters in order (including 01b for John 1:19-51)
 chapter_count=0
-for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21; do
+for i in 01 01b 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21; do
     chapter_file="$INPUT_DIR/$i-"*.md
     for f in $chapter_file; do
         if [ -f "$f" ]; then
             echo "  Adding: $(basename "$f")"
             # Skip YAML frontmatter (lines 1-7) and add content
-            tail -n +8 "$f" >> "$COMBINED_MD"
+            # Convert ^number^ to \textsuperscript{number} for LaTeX compatibility inside \jesus{}
+            tail -n +8 "$f" | sed 's/\^\([0-9]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
             printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
             ((chapter_count++))
             break  # Only process first match
@@ -87,9 +88,11 @@ pandoc "$COMBINED_MD" \
   -o "$OUTPUT_PDF" \
   --pdf-engine=xelatex \
   --template="$TEMPLATE" \
+  --from=markdown-superscript-subscript \
   --toc \
-  --toc-depth=2 \
-  --number-sections \
+  --toc-depth=1 \
+  --top-level-division=chapter \
+  -V tocdepth=0 \
   2>&1 | grep -v "^$" | head -30
 
 if [ ${PIPESTATUS[0]} -eq 0 ]; then

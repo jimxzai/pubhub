@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 洗門徒的腳 (Washing the Disciples' Feet)
 
 約翰福音 13:1-38
@@ -29,17 +37,17 @@
 
 > ^3^耶穌知道父已把萬有交在他手裏，且知道自己是從神出來的，又要歸到神那裏去，^4^就離席站起來，脫了衣服，拿一條手巾束腰，^5^隨後把水倒在盆裏，開始洗門徒的腳，並用自己所束的手巾擦乾。
 
-> ^6^輪到西門彼得，彼得對他說：「主啊，你洗我的腳嗎？」^7^耶穌回答他說：「我所做的，你現在不知道，以後會明白。」^8^彼得對他說：「你絕對不可洗我的腳！」耶穌回答他：「我若不洗你，你就與我無份了。」
+> ^6^輪到西門彼得，彼得對他說：「主啊，你洗我的腳嗎？」^7^耶穌回答他說：\jesus{「我所做的，你現在不知道，以後會明白。」}^8^彼得對他說：「你絕對不可洗我的腳！」耶穌回答他：\jesus{「我若不洗你，你就與我無份了。」}
 
-> ^12^耶穌洗完了他們的腳，就穿上衣服，又坐下，對他們說：「我為你們所做的，你們明白嗎？^13^你們稱呼我『老師』，稱呼我『主』，你們說得對，我本來就是。^14^**我是你們的主，你們的老師，尚且洗你們的腳，你們也應當彼此洗腳。**^15^我給你們作了榜樣，為要你們照著我為你們所做的去做。」
+> ^12^耶穌洗完了他們的腳，就穿上衣服，又坐下，對他們說：\jesus{「我為你們所做的，你們明白嗎？^13^你們稱呼我『老師』，稱呼我『主』，你們說得對，我本來就是。^14^**我是你們的主，你們的老師，尚且洗你們的腳，你們也應當彼此洗腳。**^15^我給你們作了榜樣，為要你們照著我為你們所做的去做。」}
 
-> ^34^**我賜給你們一條新命令，乃是叫你們彼此相愛；我怎樣愛你們，你們也要怎樣彼此相愛。**^35^你們若彼此相愛，眾人因此就認出你們是我的門徒了。」
+> \jesus{^34^**我賜給你們一條新命令，乃是叫你們彼此相愛；我怎樣愛你們，你們也要怎樣彼此相愛。**^35^你們若彼此相愛，眾人因此就認出你們是我的門徒了。」}
 
 ### English — ESV
 
-> ^14^"If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet."
+> ^14^\jesus{"If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet."}
 
-> ^34^**"A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another."**
+> ^34^\jesus{**"A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another."**}
 
 ---
 

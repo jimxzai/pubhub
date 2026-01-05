@@ -1,0 +1,1097 @@
+% ============================================================================
+% PubHub Gospel Liturgical Template 2026 - Premium Edition
+% Large Print (8.5×11" Letter) for Lectern/Ceremonial Use
+% Full CJK Bilingual + Red Letter Bible + Liturgical Diagrams
+% Requires XeLaTeX for CJK support
+% ============================================================================
+
+\documentclass[12pt,twoside,openright]{memoir}
+
+%% ============================================
+%% PAGE SIZE - 8.5×11" Letter (Lectern Use)
+%% ============================================
+\setstocksize{11in}{8.5in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+
+% Generous margins for lectern reading
+\setlrmarginsandblock{1.25in}{1in}{*}
+\setulmarginsandblock{1in}{1.25in}{*}
+\setheadfoot{0.5in}{0.5in}
+\setheaderspaces{*}{0.3in}{*}
+\checkandfixthelayout
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+% Main CJK fonts - large and readable
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% LINE SPACING - Large Print for Readability
+%% ============================================
+\linespread{1.35}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+%% ============================================
+%% COLOR SCHEME - Liturgical Edition
+%% ============================================
+\usepackage{xcolor}
+
+% Primary liturgical colors
+\definecolor{LiturgicalRed}{RGB}{165,30,30}       % Deep ceremonial red
+\definecolor{LiturgicalGold}{RGB}{184,134,11}     % Gold for ornaments
+\definecolor{LiturgicalBlue}{RGB}{40,60,100}      % Deep blue for headings
+\definecolor{RubricRed}{RGB}{180,40,40}           % Instructions in red
+
+% RED LETTER BIBLE - Jesus's Words
+\definecolor{JesusRed}{RGB}{180,0,0}              % Deep red letter Bible red
+
+% Liturgical season colors
+\definecolor{AdventBlue}{RGB}{75,0,130}           % Violet/Purple for Advent
+\definecolor{ChristmasWhite}{RGB}{255,250,240}    % White/Gold for Christmas
+\definecolor{EpiphanyGreen}{RGB}{34,139,34}       % Green for Epiphany
+\definecolor{LentPurple}{RGB}{128,0,128}          % Purple for Lent
+\definecolor{EasterWhite}{RGB}{255,215,0}         % Gold/White for Easter
+\definecolor{OrdinaryGreen}{RGB}{0,128,0}         % Green for Ordinary Time
+\definecolor{HolyWeekRed}{RGB}{139,0,0}           % Deep red for Passion
+
+% Map colors (for Holy Land diagrams)
+\definecolor{WaterBlue}{RGB}{180,210,230}
+\definecolor{LandBeige}{RGB}{245,235,220}
+\definecolor{MountainBrown}{RGB}{180,160,140}
+\definecolor{SeaDark}{RGB}{100,140,170}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}       % Cream background
+\definecolor{GreekBg}{RGB}{245,248,252}           % Light blue for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}     % Light green for application
+\definecolor{NoteBg}{RGB}{255,253,245}            % Note background
+\definecolor{RubricBg}{RGB}{255,248,248}          % Light red for rubrics
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{
+  shapes,
+  shapes.geometric,
+  shapes.symbols,
+  arrows,
+  arrows.meta,
+  positioning,
+  fit,
+  backgrounds,
+  calc,
+  decorations.pathmorphing,
+  decorations.pathreplacing,
+  decorations.markings,
+  patterns,
+  shadows,
+  calendar
+}
+
+%% ============================================
+%% RED LETTER BIBLE COMMAND
+%% ============================================
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
+
+%% ============================================
+%% LARGE VERSE NUMBERS FOR LECTERN READING
+%% ============================================
+\newcommand{\vs}[1]{%
+  \textsuperscript{\Large\bfseries\color{LiturgicalRed}#1}\,%
+}
+
+% Extra large chapter number
+\newcommand{\chnum}[1]{%
+  \noindent{\fontsize{36}{40}\selectfont\color{LiturgicalRed}\bfseries #1}\quad%
+}
+
+%% ============================================
+%% LITURGICAL COMMANDS
+%% ============================================
+
+% Rubric (liturgical instruction in red)
+\newcommand{\rubric}[1]{%
+  \vspace{0.5em}
+  \noindent{\color{RubricRed}\textit{#1}}
+  \vspace{0.5em}
+}
+
+% Bilingual rubric
+\newcommand{\rubriczh}[2]{%
+  \vspace{0.5em}
+  \noindent{\color{RubricRed}\textit{#1}}\\
+  \noindent{\color{RubricRed}\textit{\small #2}}
+  \vspace{0.5em}
+}
+
+% Response indicator
+\newcommand{\response}[1]{%
+  {\bfseries\color{LiturgicalBlue}R #1}%
+}
+
+% Versicle indicator
+\newcommand{\versicle}[1]{%
+  {\bfseries\color{LiturgicalBlue}V #1}%
+}
+
+% Antiphon
+\newcommand{\antiphon}[1]{%
+  \begin{center}
+    {\large\color{LiturgicalGold}\ensuremath{\dagger}}\\[0.3em]
+    {\itshape #1}\\[0.3em]
+    {\large\color{LiturgicalGold}\ensuremath{\dagger}}
+  \end{center}
+}
+
+% Bilingual antiphon
+\newcommand{\antiphonzh}[2]{%
+  \begin{center}
+    {\large\color{LiturgicalGold}\ensuremath{\dagger}}\\[0.3em]
+    {\itshape #1}\\[0.15em]
+    {\small\itshape #2}\\[0.3em]
+    {\large\color{LiturgicalGold}\ensuremath{\dagger}}
+  \end{center}
+}
+
+% Gloria Patri (bilingual)
+\newcommand{\gloria}{%
+  \vspace{0.5em}
+  \noindent\textit{Glory be to the Father, and to the Son, and to the Holy Spirit; as it was in the beginning, is now, and ever shall be, world without end. Amen.}\\[0.3em]
+  \noindent{\small\itshape 願榮耀歸於父、子、聖靈；起初這樣，現在這樣，以後也這樣，永無窮盡。阿們。}
+  \vspace{0.5em}
+}
+
+% Section divider with cross
+\newcommand{\liturgicaldiv}{%
+  \begin{center}
+    \vspace{0.5em}
+    {\Large\color{LiturgicalGold}\ensuremath{\dagger}\quad\ensuremath{\dagger}\quad\ensuremath{\dagger}}
+    \vspace{0.5em}
+  \end{center}
+}
+
+% Ornamental divider (simple TikZ)
+\newcommand{\ornamentdiv}{%
+  \begin{center}
+    \vspace{0.3em}
+    \begin{tikzpicture}
+      \draw[LiturgicalGold, line width=1pt] (-2,0) -- (-0.5,0);
+      \node[color=LiturgicalGold] at (0,0) {\ensuremath{\diamond}};
+      \draw[LiturgicalGold, line width=1pt] (0.5,0) -- (2,0);
+    \end{tikzpicture}
+    \vspace{0.3em}
+  \end{center}
+}
+
+% Drop cap (simple implementation)
+\newcommand{\dropcap}[1]{%
+  {\color{LiturgicalRed}\fontsize{42}{48}\selectfont\bfseries #1}%
+}
+
+%% ============================================
+%% LITURGICAL YEAR WHEEL DIAGRAM
+%% ============================================
+\newcommand{\liturgicalwheel}{%
+\begin{tikzpicture}[scale=0.9, transform shape]
+  % Outer ring with seasons
+  \def\outerrad{4.2}
+  \def\innerrad{3.0}
+  \def\centerrad{1.4}
+
+  % Draw season arcs (clockwise from top)
+  % Advent (4 weeks) - starts at top
+  \fill[AdventBlue!70] (90:\innerrad) arc (90:45:\innerrad) -- (45:\outerrad) arc (45:90:\outerrad) -- cycle;
+
+  % Christmas (12 days + Epiphany season)
+  \fill[ChristmasWhite, draw=LiturgicalGold, line width=0.5pt] (45:\innerrad) arc (45:0:\innerrad) -- (0:\outerrad) arc (0:45:\outerrad) -- cycle;
+
+  % Ordinary Time (before Lent)
+  \fill[OrdinaryGreen!60] (0:\innerrad) arc (0:-45:\innerrad) -- (-45:\outerrad) arc (-45:0:\outerrad) -- cycle;
+
+  % Lent (40 days)
+  \fill[LentPurple!60] (-45:\innerrad) arc (-45:-110:\innerrad) -- (-110:\outerrad) arc (-110:-45:\outerrad) -- cycle;
+
+  % Holy Week
+  \fill[HolyWeekRed!70] (-110:\innerrad) arc (-110:-130:\innerrad) -- (-130:\outerrad) arc (-130:-110:\outerrad) -- cycle;
+
+  % Easter (50 days)
+  \fill[EasterWhite, draw=LiturgicalGold, line width=0.5pt] (-130:\innerrad) arc (-130:-200:\innerrad) -- (-200:\outerrad) arc (-200:-130:\outerrad) -- cycle;
+
+  % Ordinary Time (after Pentecost) - largest section
+  \fill[OrdinaryGreen!60] (-200:\innerrad) arc (-200:-270:\innerrad) -- (-270:\outerrad) arc (-270:-200:\outerrad) -- cycle;
+
+  % Center circle
+  \fill[white] (0,0) circle (\centerrad);
+  \draw[LiturgicalGold, line width=2pt] (0,0) circle (\centerrad);
+
+  % Center cross
+  \draw[LiturgicalRed, line width=3pt] (0,-0.9) -- (0,0.9);
+  \draw[LiturgicalRed, line width=3pt] (-0.7,0.25) -- (0.7,0.25);
+
+  % Season labels
+  \node[font=\footnotesize\bfseries, text=white] at (67.5:3.6) {ADVENT};
+  \node[font=\footnotesize\bfseries, text=white] at (67.5:3.2) {將臨期};
+  \node[font=\footnotesize\bfseries, text=LiturgicalGold] at (22.5:3.6) {CHRISTMAS};
+  \node[font=\footnotesize\bfseries, text=LiturgicalGold] at (22.5:3.2) {聖誕期};
+  \node[font=\footnotesize\bfseries, text=white] at (-77.5:3.6) {LENT};
+  \node[font=\footnotesize\bfseries, text=white] at (-77.5:3.2) {大齋期};
+  \node[font=\footnotesize\bfseries, text=LiturgicalGold] at (-165:3.6) {EASTER};
+  \node[font=\footnotesize\bfseries, text=LiturgicalGold] at (-165:3.2) {復活期};
+  \node[font=\footnotesize\bfseries, text=white] at (-235:3.6) {ORDINARY};
+  \node[font=\footnotesize\bfseries, text=white] at (-235:3.2) {常年期};
+
+  % Outer border
+  \draw[LiturgicalGold, line width=2pt] (0,0) circle (\outerrad);
+  \draw[LiturgicalGold, line width=1pt] (0,0) circle (\innerrad);
+
+  % Title
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,-5.5) {THE LITURGICAL YEAR 教會年曆};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% LITURGICAL COLORS CHART
+%% ============================================
+\newcommand{\colorschart}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Color swatches with labels
+  \foreach \y/\color/\name/\namezh/\usage in {
+    6/AdventBlue!80/Violet (Purple)/紫色/{Advent, Lent 將臨期、大齋期},
+    5/ChristmasWhite/White (Gold)/白色金色/{Christmas, Easter 聖誕、復活節},
+    4/OrdinaryGreen!80/Green/綠色/{Ordinary Time 常年期},
+    3/HolyWeekRed!80/Red/紅色/{Pentecost, Martyrs 五旬節、殉道者},
+    2/black!80/Black/黑色/{Good Friday 受難日},
+    1/pink!60/Rose/玫瑰色/{Gaudete, Laetare 喜樂主日}
+  } {
+    \fill[\color] (0,\y) rectangle (1.4,\y+0.65);
+    \draw[black!50] (0,\y) rectangle (1.4,\y+0.65);
+    \node[font=\small\bfseries, right] at (1.6,\y+0.35) {\name};
+    \node[font=\small, right] at (4.2,\y+0.35) {\namezh};
+    \node[font=\tiny, right, text width=4.5cm] at (5.5,\y+0.35) {\usage};
+  }
+
+  % Title
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (5,7.2) {LITURGICAL COLORS 禮儀顏色};
+
+  % Border
+  \draw[LiturgicalGold, line width=1pt] (-0.3,0.7) rectangle (10.5,7.5);
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% LECTIONARY CYCLE DIAGRAM
+%% ============================================
+\newcommand{\lectionarycycle}{%
+\begin{tikzpicture}[scale=0.8, transform shape]
+  % Three-year cycle circles
+  \def\rad{2.3}
+
+  % Year A
+  \draw[LiturgicalRed, line width=3pt] (-2.8,0) circle (\rad);
+  \fill[LiturgicalRed!20] (-2.8,0) circle (\rad);
+  \node[font=\Large\bfseries, text=LiturgicalRed] at (-2.8,0.6) {Year A};
+  \node[font=\normalsize] at (-2.8,0) {Matthew 馬太};
+  \node[font=\tiny\itshape] at (-2.8,-0.8) {2026, 2029...};
+
+  % Year B
+  \draw[OrdinaryGreen!80!black, line width=3pt] (0,0) circle (\rad);
+  \fill[OrdinaryGreen!20] (0,0) circle (\rad);
+  \node[font=\Large\bfseries, text=OrdinaryGreen!80!black] at (0,0.6) {Year B};
+  \node[font=\normalsize] at (0,0) {Mark 馬可};
+  \node[font=\tiny\itshape] at (0,-0.8) {2024, 2027...};
+
+  % Year C
+  \draw[LiturgicalBlue, line width=3pt] (2.8,0) circle (\rad);
+  \fill[LiturgicalBlue!20] (2.8,0) circle (\rad);
+  \node[font=\Large\bfseries, text=LiturgicalBlue] at (2.8,0.6) {Year C};
+  \node[font=\normalsize] at (2.8,0) {Luke 路加};
+  \node[font=\tiny\itshape] at (2.8,-0.8) {2025, 2028...};
+
+  % Connecting arrows
+  \draw[-{Stealth}, line width=1.5pt, gray] (-0.7,\rad*0.65) arc (125:55:1.4);
+  \draw[-{Stealth}, line width=1.5pt, gray] (3.5,-\rad*0.65) arc (-55:-125:1.4);
+  \draw[-{Stealth}, line width=1.5pt, gray] (-2.8,-\rad-0.3) -- (-2.8,-\rad-0.7) -- (2.8,-\rad-0.7) -- (2.8,-\rad-0.3);
+
+  % Note about John
+  \node[font=\footnotesize\itshape, text width=6cm, align=center] at (0,-3.8)
+       {The Gospel of John is read during Lent and Easter\\
+        約翰福音在大齋期和復活期誦讀};
+
+  % Title
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,3.3) {REVISED COMMON LECTIONARY};
+  \node[font=\small] at (0,2.8) {Three-Year Sunday Cycle 三年主日循環};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% DAILY OFFICE HOURS DIAGRAM
+%% ============================================
+\newcommand{\dailyoffice}{%
+\begin{tikzpicture}[scale=0.8, transform shape]
+  % Clock face
+  \draw[LiturgicalGold, line width=2pt] (0,0) circle (3.3);
+  \fill[white] (0,0) circle (3.2);
+
+  % Hour markers
+  \foreach \angle/\hour in {90/12, 60/1, 30/2, 0/3, -30/4, -60/5, -90/6, -120/7, -150/8, 180/9, 150/10, 120/11} {
+    \node[font=\small] at (\angle:2.8) {\hour};
+    \draw[gray] (\angle:2.5) -- (\angle:2.3);
+  }
+
+  % Office times (approximate)
+  % Matins/Vigils - 3am
+  \fill[AdventBlue!40] (0,0) -- (0:2.1) arc (0:-30:2.1) -- cycle;
+  \node[font=\tiny, text=AdventBlue] at (-15:1.6) {Matins 晨禱};
+
+  % Lauds - 6am
+  \fill[LiturgicalGold!40] (0,0) -- (-90:2.1) arc (-90:-120:2.1) -- cycle;
+  \node[font=\tiny, text=LiturgicalGold!80!black] at (-105:1.6) {Lauds 讚美經};
+
+  % Vespers - 6pm
+  \fill[LiturgicalRed!30] (0,0) -- (-90:2.1) arc (-90:-70:2.1) -- cycle;
+  \node[font=\tiny, text=LiturgicalRed] at (-80:1.6) {Vespers 晚禱};
+
+  % Compline - 9pm
+  \fill[AdventBlue!30] (0,0) -- (-30:2.1) arc (-30:-50:2.1) -- cycle;
+  \node[font=\tiny, text=AdventBlue] at (-40:1.6) {Compline 夜禱};
+
+  % Clock center
+  \fill[black] (0,0) circle (0.08);
+
+  % Title
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,-4.2) {THE DAILY OFFICE 每日禮課};
+  \node[font=\footnotesize] at (0,-4.7) {Liturgy of the Hours 時辰禮儀};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% GOSPEL STRUCTURE DIAGRAM (John)
+%% ============================================
+\newcommand{\gospelstructure}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Title
+  \node[font=\large\bfseries, text=LiturgicalBlue] at (5,5.5) {約翰福音結構 Gospel of John Structure};
+
+  % Boxes
+  \node[draw=LiturgicalGold,fill=ScriptureBg,rounded corners=5pt,
+        minimum width=2.2cm,minimum height=0.8cm,font=\small\bfseries,
+        drop shadow={opacity=0.3}] (prologue) at (1,4) {序言 Prologue};
+  \node[font=\tiny,color=LightGray] at (1,3.4) {1:1-18};
+
+  \node[draw=LiturgicalBlue,fill=ScriptureBg,rounded corners=5pt,
+        minimum width=2.5cm,minimum height=0.8cm,font=\small\bfseries,
+        drop shadow={opacity=0.3}] (public) at (4,4) {公開事工 Public};
+  \node[font=\tiny,color=LightGray] at (4,3.4) {1:19-12:50};
+
+  \node[draw=LiturgicalBlue,fill=ScriptureBg,rounded corners=5pt,
+        minimum width=2.5cm,minimum height=0.8cm,font=\small\bfseries,
+        drop shadow={opacity=0.3}] (private) at (7,4) {私下教導 Private};
+  \node[font=\tiny,color=LightGray] at (7,3.4) {13-17};
+
+  \node[draw=JesusRed,fill=ScriptureBg,rounded corners=5pt,
+        minimum width=3cm,minimum height=0.8cm,font=\small\bfseries,
+        drop shadow={opacity=0.3}] (passion) at (5,1.8) {受難與復活 Passion};
+  \node[font=\tiny,color=LightGray] at (5,1.2) {18-21};
+
+  % Arrows
+  \draw[->,color=LiturgicalGold,line width=1.2pt] (prologue) -- (public);
+  \draw[->,color=LiturgicalGold,line width=1.2pt] (public) -- (private);
+  \draw[->,color=JesusRed,line width=1.2pt] (private.south) -- ++(0,-0.5) -| (passion.north);
+
+  % Key themes
+  \node[font=\tiny,color=TextGray] at (1,2.5) {道成肉身};
+  \node[font=\tiny,color=TextGray] at (4,2.5) {神蹟與論述};
+  \node[font=\tiny,color=TextGray] at (7,2.5) {臨別講論};
+  \node[font=\tiny,color=JesusRed] at (5,0.6) {榮耀的高峰};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% SEVEN SIGNS BOX
+%% ============================================
+\newcommand{\sevensignsbox}{%
+\begin{tikzpicture}[scale=0.75]
+  % Background
+  \fill[ScriptureBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+  \draw[LiturgicalGold,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+
+  % Title
+  \node[font=\large\bfseries,color=LiturgicalBlue] at (4.1,4.3) {七個神蹟 Seven Signs};
+
+  % Divider
+  \draw[LiturgicalGold,line width=0.8pt] (0.2,3.9) -- (8,3.9);
+
+  % Signs list
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {1. 水變酒 Water to Wine (2:1-11)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {2. 醫大臣之子 Healing Official's Son (4:46-54)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {3. 醫畢士大池旁病人 Healing at Bethesda (5:1-15)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {4. 五餅二魚 Feeding 5,000 (6:1-14)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.5) {5. 海面行走 Walking on Water (6:16-21)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.0) {6. 醫生來瞎眼的人 Healing Man Born Blind (9:1-41)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.5) {7. 拉撒路復活 Raising Lazarus (11:1-44)};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% SEVEN "I AM" STATEMENTS BOX
+%% ============================================
+\newcommand{\seveniambox}{%
+\begin{tikzpicture}[scale=0.75]
+  % Background
+  \fill[ScriptureBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+  \draw[LiturgicalBlue,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+
+  % Title
+  \node[font=\large\bfseries,color=JesusRed] at (4.1,4.3) {七個「我是」 Seven "I AM"};
+
+  % Divider
+  \draw[LiturgicalBlue,line width=0.8pt] (0.2,3.9) -- (8,3.9);
+
+  % I AM statements
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {1. 生命的糧 Bread of Life (6:35)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {2. 世界的光 Light of the World (8:12)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {3. 羊的門 Door of the Sheep (10:7)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {4. 好牧人 Good Shepherd (10:11)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.5) {5. 復活和生命 Resurrection and Life (11:25)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.0) {6. 道路、真理、生命 Way, Truth, Life (14:6)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.5) {7. 真葡萄樹 True Vine (15:1)};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HOLY LAND MAP
+%% ============================================
+\newcommand{\holylandmap}{%
+\begin{tikzpicture}[scale=0.95]
+  % Background - Land
+  \fill[LandBeige] (0,0) rectangle (10,11.5);
+
+  % Mediterranean Sea
+  \fill[WaterBlue] (-0.5,0) rectangle (1.8,11.5);
+  \draw[SeaDark,line width=0.8pt] (1.8,0) -- (1.8,11.5);
+  \node[font=\normalsize,color=LiturgicalBlue,rotate=90] at (0.6,5.5) {Mediterranean Sea 地中海};
+
+  % Sea of Galilee
+  \fill[WaterBlue] (6.2,8.8) ellipse (1 and 1.2);
+  \draw[SeaDark,line width=0.5pt] (6.2,8.8) ellipse (1 and 1.2);
+  \node[font=\small,color=white] at (6.2,9) {Sea of Galilee};
+  \node[font=\small,color=white] at (6.2,8.5) {加利利海};
+
+  % Jordan River
+  \draw[WaterBlue,line width=2.5pt] (6.2,7.6)
+    .. controls (5.8,6.5) and (6.3,5.5) .. (6,4.5)
+    .. controls (5.7,3.5) and (6.2,2.5) .. (6,1.5);
+  \node[font=\footnotesize,color=SeaDark,rotate=-75] at (5.4,5) {Jordan 約旦河};
+
+  % Dead Sea
+  \fill[WaterBlue!70!SeaDark] (6,0.7) ellipse (0.7 and 0.8);
+  \draw[SeaDark,line width=0.5pt] (6,0.7) ellipse (0.7 and 0.8);
+  \node[font=\small,color=white] at (6,0.8) {Dead Sea};
+  \node[font=\small,color=white] at (6,0.4) {死海};
+
+  % KEY LOCATIONS
+
+  % Cana
+  \fill[LiturgicalGold] (4.8,10) circle (0.15);
+  \draw[LiturgicalGold,line width=0.8pt] (4.8,10) circle (0.22);
+  \node[font=\normalsize\bfseries,right,color=LiturgicalBlue] at (5.1,10) {Cana 迦拿};
+  \node[font=\footnotesize,right,color=TextGray] at (5.1,9.6) {Water to Wine (2:1-11)};
+
+  % Capernaum
+  \fill[LiturgicalGold] (6.7,9.9) circle (0.15);
+  \node[font=\normalsize\bfseries,right,color=LiturgicalBlue] at (7,9.9) {Capernaum};
+  \node[font=\footnotesize,right,color=TextGray] at (7,9.5) {迦百農 (4:46, 6:59)};
+
+  % Sychar (Samaria)
+  \fill[LiturgicalGold] (5.5,6.5) circle (0.15);
+  \draw[LiturgicalGold,line width=0.8pt] (5.5,6.5) circle (0.22);
+  \node[font=\normalsize\bfseries,left,color=LiturgicalBlue] at (5.2,6.5) {Sychar 敘加};
+  \node[font=\footnotesize,left,color=TextGray] at (5.2,6.1) {Samaritan Woman (4:5)};
+
+  % Bethany near Jerusalem
+  \fill[LiturgicalGold] (6.8,3) circle (0.15);
+  \draw[LiturgicalGold,line width=0.8pt] (6.8,3) circle (0.22);
+  \node[font=\normalsize\bfseries,right,color=LiturgicalBlue] at (7.1,3) {Bethany 伯大尼};
+  \node[font=\footnotesize,right,color=TextGray] at (7.1,2.6) {Lazarus Raised (11:1-44)};
+
+  % JERUSALEM - Central focus
+  \fill[JesusRed] (5.5,3.4) circle (0.2);
+  \draw[JesusRed,line width=1.5pt] (5.5,3.4) circle (0.3);
+  \node[font=\Large\bfseries,left,color=JesusRed] at (5.1,3.4) {JERUSALEM};
+  \node[font=\normalsize,left,color=JesusRed] at (5.1,2.9) {耶路撒冷};
+  \node[font=\footnotesize,left,color=TextGray] at (5.1,2.5) {Temple, Passion, Resurrection};
+
+  % Compass
+  \draw[->,very thick,color=LiturgicalBlue] (9,10) -- (9,10.8);
+  \node[font=\normalsize\bfseries,color=LiturgicalBlue] at (9,11.1) {N};
+
+  % Scale
+  \draw[very thick,color=TextGray] (2.5,0.4) -- (4.5,0.4);
+  \draw[thick,color=TextGray] (2.5,0.25) -- (2.5,0.55);
+  \draw[thick,color=TextGray] (4.5,0.25) -- (4.5,0.55);
+  \node[font=\small,color=TextGray] at (3.5,0.1) {50 km / 30 miles};
+
+  % Legend
+  \fill[ScriptureBg,rounded corners=3pt] (0.3,10.3) rectangle (3,11.4);
+  \draw[LiturgicalGold,line width=0.8pt,rounded corners=3pt] (0.3,10.3) rectangle (3,11.4);
+  \node[font=\small\bfseries,color=LiturgicalBlue] at (1.65,11.1) {Legend 圖例};
+  \fill[JesusRed] (0.6,10.75) circle (0.08);
+  \node[font=\footnotesize,right,color=TextGray] at (0.8,10.75) {Jerusalem};
+  \fill[LiturgicalGold] (0.6,10.5) circle (0.06);
+  \node[font=\footnotesize,right,color=TextGray] at (0.8,10.5) {Key Location};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% EUCHARISTIC PRAYER STRUCTURE
+%% ============================================
+\newcommand{\eucharisticstructure}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Main structure
+  \node[rectangle, draw=LiturgicalRed, fill=LiturgicalRed!20,
+        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        (sursum) at (0,6) {Sursum Corda 舉心向上};
+
+  \node[rectangle, draw=LiturgicalGold, fill=LiturgicalGold!20,
+        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        (preface) at (0,5) {Preface 頌謝文};
+
+  \node[rectangle, draw=LiturgicalRed, fill=LiturgicalRed!20,
+        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        (sanctus) at (0,4) {Sanctus 聖哉頌};
+
+  \node[rectangle, draw=LiturgicalBlue, fill=LiturgicalBlue!20,
+        minimum width=5cm, minimum height=1.2cm, font=\small\bfseries,
+        text width=4.5cm, align=center]
+        (eucharist) at (0,2.7) {Eucharistic Prayer\\感恩經};
+
+  \node[rectangle, draw=LiturgicalRed, fill=LiturgicalRed!20,
+        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        (mystery) at (0,1.4) {Mystery of Faith 信德奧蹟};
+
+  \node[rectangle, draw=LiturgicalGold, fill=LiturgicalGold!20,
+        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        (doxology) at (0,0.4) {Great Doxology 光榮頌};
+
+  \node[rectangle, draw=LiturgicalRed, fill=LiturgicalRed!20,
+        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        (amen) at (0,-0.6) {Great Amen 阿們};
+
+  % Connecting lines
+  \draw[line width=1pt, gray] (sursum) -- (preface);
+  \draw[line width=1pt, gray] (preface) -- (sanctus);
+  \draw[line width=1pt, gray] (sanctus) -- (eucharist);
+  \draw[line width=1pt, gray] (eucharist) -- (mystery);
+  \draw[line width=1pt, gray] (mystery) -- (doxology);
+  \draw[line width=1pt, gray] (doxology) -- (amen);
+
+  % Labels
+  \node[font=\tiny\itshape, right] at (2.8,6) {``Lift up your hearts''};
+  \node[font=\tiny\itshape, right] at (2.8,5) {Proper to season};
+  \node[font=\tiny\itshape, right] at (2.8,4) {``Holy, Holy, Holy''};
+  \node[font=\tiny\itshape, right] at (2.8,2.7) {``This is my Body...''};
+  \node[font=\tiny\itshape, right] at (2.8,1.4) {``Christ has died...''};
+  \node[font=\tiny\itshape, right] at (2.8,0.4) {``Through him...''};
+  \node[font=\tiny\itshape, right] at (2.8,-0.6) {People's Amen};
+
+  % Title
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,7.2) {EUCHARISTIC PRAYER 感恩經結構};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=LiturgicalBlue,
+  urlcolor=LiturgicalGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfauthor={PubHub Three Books Project},
+  pdftitle={Gospel Liturgical 2026},
+  pdfsubject={Gospel of John - Liturgical Edition}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.3}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% MEMOIR CHAPTER STYLE - LITURGICAL
+%% ============================================
+\makechapterstyle{liturgical}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapnamefont}{\normalfont\Large\scshape\color{LiturgicalBlue}}
+  \renewcommand*{\chapnumfont}{\normalfont\fontsize{48}{52}\selectfont\bfseries\color{LiturgicalRed}}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\bfseries\color{LiturgicalBlue}}
+  \renewcommand*{\printchaptername}{\centering\chapnamefont Chapter}
+  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering\chaptitlefont ##1\par
+    \vskip 10pt
+    {\color{LiturgicalGold}\rule{4in}{2pt}}
+  }
+  \setlength{\beforechapskip}{30pt}
+  \setlength{\afterchapskip}{35pt}
+}
+\chapterstyle{liturgical}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\setsecheadstyle{\normalfont\Large\bfseries\color{LiturgicalBlue}}
+\setsubsecheadstyle{\normalfont\large\bfseries\color{TextGray}}
+\setsubsubsecheadstyle{\normalfont\normalsize\bfseries\color{TextGray}}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\makepagestyle{liturgical}
+\makeevenhead{liturgical}{\Large\thepage}{}{\large\scshape\color{LightGray}\leftmark}
+\makeoddhead{liturgical}{\large\scshape\color{LightGray}\rightmark}{}{\Large\thepage}
+\makeheadrule{liturgical}{\textwidth}{1pt}
+\makeevenfoot{liturgical}{}{}{}
+\makeoddfoot{liturgical}{}{}{}
+\pagestyle{liturgical}
+
+% Plain style for chapter pages
+\makepagestyle{plain}
+\makeevenfoot{plain}{}{\Large\thepage}{}
+\makeoddfoot{plain}{}{\Large\thepage}{}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.5\baselineskip}%
+  \list{}{%
+    \leftmargin=0.8em
+    \rightmargin=0.4em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \large\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.5\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Half title page
+\begin{center}
+\vspace*{2in}
+{\fontsize{24}{28}\selectfont\scshape\color{LiturgicalBlue} The}\\[0.3cm]
+{\fontsize{48}{52}\selectfont\bfseries\color{LiturgicalRed} Holy Gospel}\\[0.3cm]
+{\Large\itshape\color{LightGray} According to Saint John}
+\vfill
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{center}
+\vspace*{0.3in}
+
+% Decorative header
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=1.5pt] (-2.5,0) -- (-0.5,0);
+  \node[color=LiturgicalGold] at (0,0) {\ensuremath{\dagger}};
+  \draw[LiturgicalGold, line width=1.5pt] (0.5,0) -- (2.5,0);
+\end{tikzpicture}
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{18}{20}\selectfont\scshape The}\\[0.2in]
+{\fontsize{48}{52}\selectfont\color{LiturgicalRed}\bfseries HOLY BIBLE}\\[0.2in]
+{\fontsize{24}{28}\selectfont\color{LiturgicalBlue} 聖經}
+
+\vspace{0.4cm}
+
+% Subtitle
+{\Large\color{LiturgicalBlue}\textit{Premium Lectionary Edition}}\\[0.1cm]
+{\large\textit{禮儀誦讀版}}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=1pt] (-3,0) -- (3,0);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Gospel title
+{\fontsize{20}{24}\selectfont\bfseries 約翰福音研讀}\\[0.1cm]
+{\Large Gospel of John Deep Study}
+
+\vspace{0.4cm}
+
+% Key verse box
+\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.25cm}
+\large\itshape\color{TextGray}
+\jesus{我就是道路、真理、生命；\\若不藉着我，沒有人能到父那裏去。}\\[0.1em]
+\normalsize I am the way, and the truth, and the life.\\
+No one comes to the Father except through me.\\
+— John 14:6
+\vspace{0.25cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+{\large For Use in the}\\[0.15in]
+{\Large\scshape Divine Liturgy}\\[0.08in]
+{\large\itshape and}\\[0.08in]
+{\Large\scshape Daily Office}
+
+\vfill
+
+% Publisher info
+$if(author)$
+{\normalsize $author$}\\[0.2cm]
+$endif$
+
+$if(publisher)$
+{\large\scshape $publisher$}\\[0.1cm]
+$endif$
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize \today}
+$endif$
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=1.5pt] (-2.5,0) -- (-0.5,0);
+  \node[color=LiturgicalGold] at (0,0) {\ensuremath{\dagger}};
+  \draw[LiturgicalGold, line width=1.5pt] (0.5,0) -- (2.5,0);
+\end{tikzpicture}
+
+\end{center}
+\cleardoublepage
+
+% Liturgical Year Wheel
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{LiturgicalRed} The Liturgical Year}\\[0.1cm]
+{\normalsize 教會年曆}
+
+\vspace{0.4cm}
+
+\liturgicalwheel
+
+\vspace{0.5cm}
+
+\colorschart
+
+\end{center}
+\cleardoublepage
+
+% Lectionary Cycle + Daily Office
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{LiturgicalRed} Lectionary \& Daily Office}\\[0.1cm]
+{\normalsize 讀經表與每日禮課}
+
+\vspace{0.5cm}
+
+\lectionarycycle
+
+\vspace{0.6cm}
+
+\dailyoffice
+
+\end{center}
+\cleardoublepage
+
+% Holy Land Map
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.2in}
+{\Large\bfseries\color{LiturgicalBlue} 約翰福音重要地點}\\[0.08cm]
+{\normalsize Key Locations in the Gospel of John}
+
+\vspace{0.3cm}
+
+\holylandmap
+
+\vspace{0.2cm}
+{\footnotesize\color{LightGray} \jesus{「我就是道路、真理、生命。」}— 約翰福音 14:6}
+\end{center}
+\cleardoublepage
+
+% Seven Signs and I AM page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{LiturgicalBlue} 約翰福音的核心記號}\\[0.08cm]
+{\normalsize Central Signs and Declarations in John's Gospel}
+
+\vspace{0.5cm}
+
+\sevensignsbox
+
+\vspace{0.4cm}
+
+\seveniambox
+
+\vspace{0.4cm}
+
+\gospelstructure
+
+\vfill
+
+{\footnotesize\color{TextGray}\itshape
+「但記這些事，是要你們信耶穌是基督，是神的兒子，\\
+並且使你們信了，就可以因他的名得生命。」\\[0.08em]
+\footnotesize But these are written so that you may believe that Jesus is the Christ,\\
+the Son of God, and that by believing you may have life in his name.\\
+— 約翰福音 John 20:31}
+
+\vspace{0.3cm}
+\ornamentdiv
+\end{center}
+\cleardoublepage
+
+% Eucharistic Prayer Structure
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5in}
+{\Large\bfseries\color{LiturgicalRed} The Holy Eucharist}\\[0.1cm]
+{\normalsize 聖餐禮}
+
+\vspace{0.6cm}
+
+\eucharisticstructure
+
+\vspace{0.8cm}
+
+{\normalsize\itshape\color{TextGray}
+``Do this in remembrance of me.''\\
+「你們應這樣行，為的是紀念我。」\\
+— Luke 22:19}
+
+\vfill
+
+\liturgicaldiv
+
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{聖經：約翰福音禮儀誦讀版}\\
+\textbf{The Holy Bible: Gospel of John - Premium Lectionary Edition}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur — Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan — \textit{The Gospel According to John}\\[0.8em]
+
+\textbf{Red Letter Bible}\\
+本書採用紅字聖經格式，以\textcolor{JesusRed}{紅色斜體}標示耶穌的話語。\\
+This edition uses Red Letter format with Jesus's words in \textcolor{JesusRed}{\textit{red italics}}.\\[0.8em]
+
+\textbf{Liturgical Features}\\
+Large print (12pt) designed for lectern use.\\
+Includes liturgical year diagrams and lectionary references.\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
+
+8.5×11" Lectionary Edition\\
+PubHub Publishing 2026
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{liturgical}
+{\color{LiturgicalBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+% Final page
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+
+{\Large\color{LiturgicalGold}\ensuremath{\dagger}}
+
+\vspace{0.5cm}
+
+{\fontsize{20}{24}\selectfont\color{LiturgicalGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.15cm]
+{\Large\color{LightGray} Glory = Grace + Truth}
+
+\vspace{0.5cm}
+
+{\normalsize\color{TextGray}\itshape
+「認識你——獨一的真神，\\
+並且認識你所差來的耶穌基督，\\
+這就是永生。」\\[0.1em]
+— 約翰福音 17:3}
+
+\vspace{0.3cm}
+
+{\small\color{LightGray}
+"And this is eternal life, that they know you,\\
+the only true God, and Jesus Christ whom you have sent."\\
+— John 17:3}
+
+\vspace{0.6cm}
+
+\liturgicaldiv
+
+\vspace{0.4cm}
+
+{\small\scshape\color{LiturgicalBlue} Soli Deo Gloria}\\[0.1cm]
+{\footnotesize 唯獨榮耀神}
+
+\vspace{0.5cm}
+
+{\Large\color{LiturgicalGold}\ensuremath{\dagger}}
+
+\end{center}
+\vspace*{\fill}
+
+\end{document}

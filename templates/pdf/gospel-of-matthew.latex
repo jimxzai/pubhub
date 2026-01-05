@@ -58,6 +58,9 @@
 \definecolor{LandBeige}{RGB}{245,235,220}         % Land color
 \definecolor{MountainBrown}{RGB}{180,160,140}     % Mountain shading
 
+% Red Letter Bible - Jesus's Words (inspired by ai-eden.com)
+\definecolor{JesusRed}{RGB}{204,0,0}              % Classic red letter Bible red (#CC0000)
+
 % Box colors
 \definecolor{ScriptureBg}{RGB}{252,250,245}       % Cream for scripture boxes
 \definecolor{GreekBg}{RGB}{248,245,252}           % Light purple for Greek
@@ -83,6 +86,10 @@
 %% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
+
+% Red Letter Bible - Command for Jesus's words
+% Inspired by ai-eden.com red letter implementation
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
 
 % Crown decoration command
 \newcommand{\crowndecor}[1]{%

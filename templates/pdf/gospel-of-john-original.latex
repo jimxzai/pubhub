@@ -17,6 +17,14 @@
 \setsansfont{PingFang SC}
 \setmonofont{Menlo}
 
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt

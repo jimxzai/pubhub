@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 拉撒路復活 (The Raising of Lazarus)
 
 約翰福音 11:1-57
@@ -27,25 +35,25 @@
 
 > ^1^有一個患病的人，名叫拉撒路，住在伯大尼，就是馬利亞和她姊姊馬大的村莊。^2^這馬利亞就是那用香膏抹主，又用頭髮擦他腳的，患病的拉撒路是她的兄弟。^3^她姊妹兩個差人去見耶穌，說：「主啊，你所愛的人病了。」
 
-> ^4^耶穌聽見就說：「這病不至於死，而是為了神的榮耀，為要使神的兒子因此得榮耀。」
+> ^4^耶穌聽見就說：\jesus{「這病不至於死，而是為了神的榮耀，為要使神的兒子因此得榮耀。」}
 
 > ^17^耶穌到了，發現拉撒路在墳墓裏已經四天了。
 
-> ^21^馬大對耶穌說：「主啊，你若早在這裏，我弟弟就不會死。^22^就是現在，我也知道，你無論向神求甚麼，神也會賜給你。」^23^耶穌對她說：「你弟弟會復活的。」^24^馬大對他說：「我知道在末日復活的時候，他會復活。」
+> ^21^馬大對耶穌說：「主啊，你若早在這裏，我弟弟就不會死。^22^就是現在，我也知道，你無論向神求甚麼，神也會賜給你。」^23^耶穌對她說：\jesus{「你弟弟會復活的。」}^24^馬大對他說：「我知道在末日復活的時候，他會復活。」
 
-> ^25^耶穌對她說：**「復活在我，生命也在我。信我的人雖然死了，也必復活。^26^凡活著信我的人必永遠不死。你信這話嗎？」**^27^她對他說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
+> ^25^耶穌對她說：\jesus{**「復活在我，生命也在我。信我的人雖然死了，也必復活。^26^凡活著信我的人必永遠不死。你信這話嗎？」**}^27^她對他說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
 
 > ^35^**耶穌哭了。**
 
-> ^43^說了這些話，他大聲呼叫說：「拉撒路，出來！」^44^那死人就出來了，手腳裹著布，臉上包著手巾。耶穌對他們說：「解開他，讓他走！」
+> ^43^說了這些話，他大聲呼叫說：\jesus{「拉撒路，出來！」}^44^那死人就出來了，手腳裹著布，臉上包著手巾。耶穌對他們說：\jesus{「解開他，讓他走！」}
 
 ### English — ESV
 
-> ^25^Jesus said to her, **"I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, ^26^and everyone who lives and believes in me shall never die. Do you believe this?"**
+> ^25^Jesus said to her, \jesus{**"I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, ^26^and everyone who lives and believes in me shall never die. Do you believe this?"**}
 
 > ^35^**Jesus wept.**
 
-> ^43^When he had said these things, he cried out with a loud voice, "Lazarus, come out."
+> ^43^When he had said these things, he cried out with a loud voice, \jesus{"Lazarus, come out."}
 
 ---
 

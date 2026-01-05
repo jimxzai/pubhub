@@ -1,0 +1,606 @@
+% PubHub Professional Bible Publishing Template 2026
+% Full-Featured: Emoji, Numbered Elements, Glossary, References, Appendix
+% Requires XeLaTeX for CJK and emoji support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK AND EMOJI SUPPORT
+%% ============================================
+\usepackage{fontspec}
+
+% Main CJK fonts
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+% Emoji support note:
+% Emojis in markdown will render if system fonts support them
+% For explicit emoji use, the \emoji command provides fallback
+\newcommand{\emoji}[1]{#1}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Professional 7x10 inch
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Professional Bible Study
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterBlue}{RGB}{25,55,95}        % Deep navy for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
+
+% Red Letter Bible - Jesus's Words
+\definecolor{JesusRed}{RGB}{204,0,0}            % Classic red letter Bible red
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{245,248,252}         % Light blue for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+\definecolor{NoteBg}{RGB}{255,250,240}          % Warm yellow for notes
+\definecolor{GlossaryBg}{RGB}{250,250,255}      % Light purple for glossary
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% NUMBERED FIGURES AND TABLES
+%% ============================================
+\usepackage{float}
+\usepackage{caption}
+\usepackage{subcaption}
+
+% Figure numbering: Chapter.Figure
+\renewcommand{\thefigure}{\thechapter.\arabic{figure}}
+\renewcommand{\thetable}{\thechapter.\arabic{table}}
+
+% Caption styling
+\captionsetup{
+  font={small},
+  labelfont={bf,color=ChapterBlue},
+  textfont={color=TextGray},
+  format=plain,
+  labelsep=period,
+  justification=centering,
+  singlelinecheck=false
+}
+\captionsetup[figure]{name={圖 Figure}}
+\captionsetup[table]{name={表 Table}}
+
+%% ============================================
+%% NUMBERED FOOTNOTES
+%% ============================================
+% Footnote styling
+\renewcommand{\thefootnote}{\arabic{footnote}}
+\renewcommand{\footnoterule}{%
+  \kern -3pt
+  {\color{ScriptureGold}\hrule width 2in height 0.4pt}
+  \kern 2.6pt
+}
+
+%% ============================================
+%% GLOSSARY SUPPORT (Simple - no external package needed)
+%% ============================================
+% Custom glossary environment using description list
+\newenvironment{bibleglossary}{%
+  \section*{詞彙表 Glossary}
+  \addcontentsline{toc}{chapter}{詞彙表 Glossary}
+  \begin{description}
+}{%
+  \end{description}
+}
+
+% Glossary item command
+\newcommand{\glitem}[3]{%
+  \item[\textbf{\color{ChapterBlue}#1} \textit{#2}] #3
+}
+
+%% ============================================
+%% BIBLIOGRAPHY/REFERENCES (Simple)
+%% ============================================
+% Simple bibliography environment without biblatex
+\newenvironment{references}{%
+  \chapter*{參考書目 References}
+  \addcontentsline{toc}{chapter}{參考書目 References}
+}{%
+}
+
+%% ============================================
+%% INDEX PLACEHOLDER
+%% ============================================
+% Index support placeholder - can be enabled if makeidx is available
+\renewcommand{\indexname}{經文索引 Scripture Index}
+
+%% ============================================
+%% APPENDIX SUPPORT (Simple - built-in LaTeX)
+%% ============================================
+% Appendix naming using built-in commands
+\renewcommand{\appendixname}{附錄 Appendix}
+
+%% ============================================
+%% CUSTOM BOXES AND ENVIRONMENTS
+%% ============================================
+% Simple box environments using minipage and fbox (no tcolorbox needed)
+
+% Scripture box
+\newenvironment{scripturebox}[1][]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  \ifx&#1&\else{\bfseries\color{ChapterBlue}#1}\par\vspace{0.3em}\fi
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+% Greek word study box
+\newenvironment{greekbox}[1][]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{ChapterBlue}{GreekBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small 希臘文研究 #1}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+% Application box
+\newenvironment{applicationbox}[1][]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{CommentaryBrown}{ApplicationBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small\color{CommentaryBrown}生活應用 #1}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+% Note box (numbered)
+\newcounter{notebox}[chapter]
+\renewcommand{\thenotebox}{\thechapter.\arabic{notebox}}
+\newenvironment{notebox}{%
+  \par\vspace{0.5em}%
+  \refstepcounter{notebox}%
+  \noindent\fcolorbox{ScriptureGold}{NoteBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  \textbf{\color{ScriptureGold}註 Note \thenotebox:} %
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% RED LETTER BIBLE COMMAND
+%% ============================================
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+%% ============================================
+%% DECORATIVE COMMANDS
+%% ============================================
+% Vine decoration
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross symbol
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Section divider with emoji support
+\newcommand{\sectiondivider}[1][]{%
+  \begin{center}
+    \vspace{0.5em}
+    {\color{ScriptureGold}\rule{1in}{0.5pt}}%
+    \hspace{0.3em}#1\hspace{0.3em}%
+    {\color{ScriptureGold}\rule{1in}{0.5pt}}
+    \vspace{0.5em}
+  \end{center}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  citecolor=CommentaryBrown,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfencoding=auto
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% LISTS (Basic LaTeX)
+%% ============================================
+% Use default LaTeX list formatting
+\setlength{\itemsep}{0pt}
+\setlength{\parskip}{0pt}
+
+%% ============================================
+%% LINE BREAKING SETTINGS
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 生命之道}\\[0.2cm]
+{\large\itshape\color{LightGray} The Way of Life}
+
+\vspace{0.6cm}
+
+% Book title
+$if(title)$
+{\fontsize{22}{28}\selectfont\bfseries $title$}\\[0.15cm]
+$endif$
+$if(subtitle)$
+{\normalsize $subtitle$}
+$endif$
+
+\vspace{0.5cm}
+
+% Key verse box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+太初有道，道與神同在，道就是神。\\[0.15em]
+\footnotesize In the beginning was the Word, and the Word was\\
+with God, and the Word was God. — John 1:1
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+% Structure diagram
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {Gospel Structure 福音結構};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (-2.5,1.5) {Prologue};
+  \node[font=\tiny,color=LightGray] at (-2.5,1.1) {1:1-18};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (0,1.5) {Public};
+  \node[font=\tiny,color=LightGray] at (0,1.1) {1:19-12:50};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (2.5,1.5) {Private};
+  \node[font=\tiny,color=LightGray] at (2.5,1.1) {13-17};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.5cm,font=\tiny] at (0,0.3) {Passion \& Resurrection};
+  \node[font=\tiny,color=LightGray] at (0,-0.1) {18-21};
+
+  \draw[->,color=ScriptureGold,thick] (-1.5,1.5) -- (-0.9,1.5);
+  \draw[->,color=ScriptureGold,thick] (0.9,1.5) -- (1.6,1.5);
+  \draw[->,color=ScriptureGold,thick] (0,0.85) -- (0,0.6);
+\end{tikzpicture}
+
+\vfill
+
+% Core equation
+{\normalsize\color{ScriptureGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.1cm]
+{\footnotesize\color{LightGray} Glory = Grace + Truth (John 1:14)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{約翰福音研讀 / Gospel of John Study}\\[0.8em]
+
+版權所有 \copyright\ 2026 Soli Deo Gloria — 唯獨榮耀神\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: As specified per edition\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃長老週四查經班 (Elder Wong's Thursday Bible Study)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Gospel According to John (1909)\\[0.8em]
+
+\textbf{出版標準 / Publishing Standard}\\
+Published Standard Bible 2026 v1.0\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+% List of Figures (if any)
+$if(lof)$
+\listoffigures
+\cleardoublepage
+$endif$
+
+% List of Tables (if any)
+$if(lot)$
+\listoftables
+\cleardoublepage
+$endif$
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+% Print glossary if defined
+$if(glossary)$
+\printglossaries
+$endif$
+
+% Print bibliography if defined
+$if(bibliography)$
+\printbibliography[heading=bibchapter]
+$endif$
+
+% Print index if defined
+$if(index)$
+\printindex
+$endif$
+
+\end{document}

@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 被捕與受審 (The Arrest and Trial)
 
 約翰福音 18:1-40
@@ -25,17 +33,17 @@
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^4^耶穌知道將要臨到自己的一切事，就出來對他們說：「你們找誰？」^5^他們回答：「找拿撒勒人耶穌。」耶穌說：「我就是。」⋯⋯^6^耶穌一說「我就是」，他們就退後，倒在地上。
+> ^4^耶穌知道將要臨到自己的一切事，就出來對他們說：\jesus{「你們找誰？」}^5^他們回答：「找拿撒勒人耶穌。」耶穌說：\jesus{「我就是。」}⋯⋯^6^耶穌一說「我就是」，他們就退後，倒在地上。
 
-> ^11^耶穌就對彼得說：「把刀收入鞘裏去！**我父給我的杯，我怎能不喝呢？**」
+> ^11^耶穌就對彼得說：\jesus{「把刀收入鞘裏去！**我父給我的杯，我怎能不喝呢？**」}
 
-> ^36^耶穌回答：「**我的國不屬於這世界；我的國若屬於這世界，我的部下就會為我戰鬥，使我不至於被交給猶太人。只是，我的國不屬於這世界。**」^37^彼拉多就對他說：「那麼，你是王嗎？」耶穌回答：「你說我是王。我為此而生，也為此來到世界，為了給真理作見證。凡屬真理的人就聽我的話。」^38^彼拉多對他說：「真理是甚麼？」
+> ^36^耶穌回答：\jesus{「**我的國不屬於這世界；我的國若屬於這世界，我的部下就會為我戰鬥，使我不至於被交給猶太人。只是，我的國不屬於這世界。**」}^37^彼拉多就對他說：「那麼，你是王嗎？」耶穌回答：\jesus{「你說我是王。我為此而生，也為此來到世界，為了給真理作見證。凡屬真理的人就聽我的話。」}^38^彼拉多對他說：「真理是甚麼？」
 
 ### English — ESV
 
-> ^6^When Jesus said to them, "I am he," they drew back and fell to the ground.
+> ^6^When Jesus said to them, \jesus{"I am he,"} they drew back and fell to the ground.
 
-> ^36^"My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."
+> ^36^\jesus{"My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting."}
 
 > ^38^Pilate said to him, "What is truth?"
 

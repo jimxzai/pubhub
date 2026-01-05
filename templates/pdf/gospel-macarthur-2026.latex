@@ -1,0 +1,924 @@
+% ============================================================================
+% PubHub Gospel MacArthur Study Bible Template 2026
+% 6.5×9.5" Study Bible Size with Verse-by-Verse Commentary
+% Doctrinal Notes, Expository Features, Word Studies
+% Full CJK Bilingual + Red Letter Bible
+% Requires XeLaTeX for CJK support
+% ============================================================================
+
+\documentclass[10pt,twoside,openright]{memoir}
+
+%% ============================================
+%% PAGE SIZE - 6.5×9.5" Study Bible Size
+%% ============================================
+\setstocksize{9.5in}{6.5in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+
+% Compact margins for dense study content
+\setlrmarginsandblock{0.65in}{0.5in}{*}
+\setulmarginsandblock{0.55in}{0.65in}{*}
+\setheadfoot{0.35in}{0.35in}
+\setheaderspaces{*}{0.12in}{*}
+\checkandfixthelayout
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+% Main CJK fonts
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.12}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - MacArthur Style
+%% ============================================
+\usepackage{xcolor}
+
+% Primary MacArthur Study Bible colors
+\definecolor{MacBlue}{RGB}{0,40,85}
+\definecolor{MacRed}{RGB}{139,0,0}
+\definecolor{MacGold}{RGB}{184,134,11}
+\definecolor{NoteBg}{RGB}{252,250,245}
+\definecolor{DoctrineBlue}{RGB}{20,60,100}
+\definecolor{VerseGray}{RGB}{70,70,70}
+\definecolor{RefGray}{RGB}{100,100,100}
+
+% RED LETTER BIBLE - Jesus's Words
+\definecolor{JesusRed}{RGB}{180,0,0}
+
+% Box colors
+\definecolor{KeyVerseBg}{RGB}{255,250,235}
+\definecolor{DoctrineBg}{RGB}{240,245,255}
+\definecolor{HistoryBg}{RGB}{252,250,245}
+\definecolor{WordBg}{RGB}{255,252,240}
+\definecolor{IntroBg}{RGB}{248,250,252}
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% TWO COLUMN SUPPORT
+%% ============================================
+\usepackage{multicol}
+\setlength{\columnsep}{0.2in}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric,arrows.meta,calc,positioning,backgrounds,fit,decorations.pathreplacing}
+
+%% ============================================
+%% RED LETTER BIBLE COMMAND
+%% ============================================
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
+
+%% ============================================
+%% VERSE AND CHAPTER COMMANDS
+%% ============================================
+% Verse number (bold, dark blue)
+\newcommand{\vs}[1]{\textsuperscript{\bfseries\color{MacBlue}#1}\,}
+
+% Chapter number (large, prominent)
+\newcommand{\chnum}[1]{%
+  {\fontsize{32}{34}\selectfont\color{MacBlue}\bfseries #1}\,%
+}
+
+% Section heading
+\newcommand{\sectionhead}[1]{%
+  \vspace{0.6em}
+  {\large\bfseries\color{MacBlue}#1}
+  \vspace{0.3em}
+  \par
+}
+
+% Bilingual section heading
+\newcommand{\sectionheadzh}[2]{%
+  \vspace{0.6em}
+  {\large\bfseries\color{MacBlue}#1}\\
+  {\normalsize\color{LightGray}#2}
+  \vspace{0.3em}
+  \par
+}
+
+%% ============================================
+%% CROSS-REFERENCE COMMANDS
+%% ============================================
+% Inline cross-reference
+\newcommand{\xref}[1]{%
+  {\scriptsize\color{RefGray}(#1)}%
+}
+
+%% ============================================
+%% VERSE-BY-VERSE NOTE (MacArthur's distinctive feature)
+%% ============================================
+\newcommand{\versenote}[2]{%
+  \par\noindent\textbf{#1}\quad #2\par
+}
+
+% Bilingual verse note
+\newcommand{\versenotezh}[3]{%
+  \par\noindent\textbf{#1}\quad #2\\
+  {\small\color{TextGray}#3}\par
+}
+
+%% ============================================
+%% DOCTRINE NOTE (highlighted in red)
+%% ============================================
+\newcommand{\doctrinenote}[2]{%
+  \par\noindent{\color{MacRed}\bfseries #1}\quad #2\par
+}
+
+%% ============================================
+%% GREEK/HEBREW WORD COMMANDS
+%% ============================================
+\newcommand{\gkword}[2]{%
+  \textit{#1} (希臘文 Gk. \textit{#2})%
+}
+\newcommand{\hbword}[2]{%
+  \textit{#1} (希伯來文 Heb. \textit{#2})%
+}
+
+%% ============================================
+%% NOTE SECTION DIVIDER
+%% ============================================
+\newcommand{\notesdivider}{%
+  \vspace{0.3em}
+  {\color{MacBlue}\hrule height 0.5pt}
+  \vspace{0.3em}
+}
+
+%% ============================================
+%% SPECIAL BOXES - KEY VERSE
+%% ============================================
+\newenvironment{keyversebox}{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{MacGold}{KeyVerseBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.4em}%
+}{%
+  \vspace{0.4em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% SPECIAL BOXES - DOCTRINE BOX
+%% ============================================
+\newenvironment{doctrinebox}[1][]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{MacBlue}{DoctrineBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small\color{MacBlue}教義要點 Doctrine: #1}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% SPECIAL BOXES - HISTORICAL BACKGROUND
+%% ============================================
+\newenvironment{historybox}{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{RefGray}{HistoryBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small\color{RefGray}歷史背景 Historical Background}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% SPECIAL BOXES - WORD STUDY
+%% ============================================
+\newenvironment{wordbox}[1][]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{MacGold!80!black}{WordBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small\color{MacGold!80!black}詞彙研究 Word Study: #1}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% BOOK INTRODUCTION BOX
+%% ============================================
+\newsavebox{\macintrbox}
+\newenvironment{bookintro}{%
+  \begin{lrbox}{\macintrbox}%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.5em}%
+}{%
+  \vspace{0.5em}%
+  \end{minipage}%
+  \end{lrbox}%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{MacBlue}{IntroBg}{\usebox{\macintrbox}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - JOHN'S GOSPEL STRUCTURE
+%% ============================================
+\newcommand{\johnoutlinechart}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Title
+  \node[font=\bfseries, text=MacBlue] at (4,7) {約翰福音結構 THE STRUCTURE OF JOHN'S GOSPEL};
+
+  % Timeline bar
+  \fill[MacBlue!20] (0,5.5) rectangle (8,6.2);
+  \node[font=\small\bfseries, text=MacBlue] at (4,5.85) {序言 --- 記號 --- 榮耀 --- 尾聲};
+
+  % Sections with chapters
+  \node[rectangle, draw=MacBlue, fill=white, minimum width=1.8cm, minimum height=1cm,
+        font=\footnotesize, text width=1.6cm, align=center] (pro) at (1,4) {序言\\Prologue\\1:1--18};
+
+  \node[rectangle, draw=MacBlue, fill=MacBlue!10, minimum width=3cm, minimum height=1cm,
+        font=\footnotesize, text width=2.8cm, align=center] (signs) at (3.5,4) {記號之書\\Book of Signs\\1:19--12:50};
+
+  \node[rectangle, draw=MacRed, fill=MacRed!10, minimum width=2.5cm, minimum height=1cm,
+        font=\footnotesize, text width=2.3cm, align=center] (glory) at (6,4) {榮耀之書\\Book of Glory\\13:1--20:31};
+
+  \node[rectangle, draw=MacBlue, fill=white, minimum width=1.5cm, minimum height=1cm,
+        font=\footnotesize, text width=1.3cm, align=center] (epi) at (7.8,4) {尾聲\\Epilogue\\Ch. 21};
+
+  % Sub-sections
+  \node[font=\tiny, text width=2.8cm, align=center] at (3.5,2.8) {
+    七個神蹟\\
+    七個「我是」\\
+    公開事工
+  };
+
+  \node[font=\tiny, text width=2.3cm, align=center] at (6,2.8) {
+    臨別講論\\
+    受難敘事\\
+    復活
+  };
+
+  % Arrows
+  \draw[-{Stealth}, MacBlue] (pro) -- (signs);
+  \draw[-{Stealth}, MacBlue] (signs) -- (glory);
+  \draw[-{Stealth}, MacBlue] (glory) -- (epi);
+
+  % Purpose statement
+  \node[font=\footnotesize\itshape, text width=7cm, align=center] at (4,1.5) {
+    「但記這些事，是要你們信耶穌是基督，是神的兒子」\\
+    (20:31)
+  };
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - DEITY OF CHRIST
+%% ============================================
+\newcommand{\deitychart}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  \node[font=\bfseries, text=MacBlue] at (4,5.5) {約翰福音中基督的神性 THE DEITY OF CHRIST IN JOHN};
+
+  % Central
+  \node[circle, draw=MacBlue, fill=MacBlue!20, minimum size=2cm,
+        font=\small\bfseries, text=MacBlue, text width=1.6cm, align=center] (center) at (4,3) {耶穌\\是神};
+
+  % Evidence nodes - top row
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e1) at (0.5,4.5) {永恆存在\\1:1};
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e2) at (2.3,5) {創造者\\1:3};
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e3) at (4,5.3) {生命賜予者\\1:4; 5:21};
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e4) at (5.7,5) {「我是」\\8:58};
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e5) at (7.5,4.5) {受敬拜\\9:38; 20:28};
+
+  % Evidence nodes - bottom row
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e6) at (0.5,1.5) {全知\\2:24--25};
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e7) at (2.3,1) {全能\\11:43};
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e8) at (4,0.7) {赦罪\\8:11};
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e9) at (5.7,1) {審判者\\5:22};
+  \node[rectangle, draw=MacBlue, fill=white, font=\tiny,
+        text width=1.8cm, align=center] (e10) at (7.5,1.5) {與父為一\\10:30};
+
+  % Lines from center to each evidence node
+  \draw[MacBlue!60] (center) -- (e1);
+  \draw[MacBlue!60] (center) -- (e2);
+  \draw[MacBlue!60] (center) -- (e3);
+  \draw[MacBlue!60] (center) -- (e4);
+  \draw[MacBlue!60] (center) -- (e5);
+  \draw[MacBlue!60] (center) -- (e6);
+  \draw[MacBlue!60] (center) -- (e7);
+  \draw[MacBlue!60] (center) -- (e8);
+  \draw[MacBlue!60] (center) -- (e9);
+  \draw[MacBlue!60] (center) -- (e10);
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - SEVEN SIGNS TABLE
+%% ============================================
+\newcommand{\signstable}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  \node[font=\bfseries, text=MacBlue] at (5,6.5) {約翰福音七個神蹟 THE SEVEN SIGNS IN JOHN};
+
+  % Headers
+  \fill[MacBlue] (0,5.5) rectangle (10,6);
+  \node[font=\tiny\bfseries, text=white] at (0.4,5.75) {\#};
+  \node[font=\tiny\bfseries, text=white] at (2,5.75) {神蹟 SIGN};
+  \node[font=\tiny\bfseries, text=white] at (5,5.75) {經文 PASSAGE};
+  \node[font=\tiny\bfseries, text=white] at (7.8,5.75) {意義 SIGNIFICANCE};
+
+  % Sign 1
+  \fill[MacBlue!5] (0,4.75) rectangle (10,5.25);
+  \node[font=\tiny\bfseries, text=MacBlue] at (0.4,5) {1};
+  \node[font=\tiny] at (2,5) {水變酒};
+  \node[font=\tiny\itshape] at (5,5) {2:1--11};
+  \node[font=\tiny] at (7.8,5) {基督改變};
+
+  % Sign 2
+  \node[font=\tiny\bfseries, text=MacBlue] at (0.4,4.5) {2};
+  \node[font=\tiny] at (2,4.5) {大臣之子};
+  \node[font=\tiny\itshape] at (5,4.5) {4:46--54};
+  \node[font=\tiny] at (7.8,4.5) {信心獎賞};
+
+  % Sign 3
+  \fill[MacBlue!5] (0,3.75) rectangle (10,4.25);
+  \node[font=\tiny\bfseries, text=MacBlue] at (0.4,4) {3};
+  \node[font=\tiny] at (2,4) {畢士大池};
+  \node[font=\tiny\itshape] at (5,4) {5:1--9};
+  \node[font=\tiny] at (7.8,4) {安息日主};
+
+  % Sign 4
+  \node[font=\tiny\bfseries, text=MacBlue] at (0.4,3.5) {4};
+  \node[font=\tiny] at (2,3.5) {五餅二魚};
+  \node[font=\tiny\itshape] at (5,3.5) {6:1--14};
+  \node[font=\tiny] at (7.8,3.5) {生命的糧};
+
+  % Sign 5
+  \fill[MacBlue!5] (0,2.75) rectangle (10,3.25);
+  \node[font=\tiny\bfseries, text=MacBlue] at (0.4,3) {5};
+  \node[font=\tiny] at (2,3) {海面行走};
+  \node[font=\tiny\itshape] at (5,3) {6:16--21};
+  \node[font=\tiny] at (7.8,3) {神聖同在};
+
+  % Sign 6
+  \node[font=\tiny\bfseries, text=MacBlue] at (0.4,2.5) {6};
+  \node[font=\tiny] at (2,2.5) {醫瞎眼};
+  \node[font=\tiny\itshape] at (5,2.5) {9:1--7};
+  \node[font=\tiny] at (7.8,2.5) {世界的光};
+
+  % Sign 7
+  \fill[MacBlue!5] (0,1.75) rectangle (10,2.25);
+  \node[font=\tiny\bfseries, text=MacBlue] at (0.4,2) {7};
+  \node[font=\tiny] at (2,2) {拉撒路復活};
+  \node[font=\tiny\itshape] at (5,2) {11:1--44};
+  \node[font=\tiny] at (7.8,2) {復活生命};
+
+  % Border
+  \draw[MacBlue] (0,1.5) rectangle (10,6);
+
+  % Note
+  \node[font=\tiny\itshape, text=RefGray] at (5,1.1) {每個神蹟彰顯基督的榮耀並呼召人相信 (20:30--31)};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - I AM STATEMENTS
+%% ============================================
+\newcommand{\iamtable}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  \node[font=\bfseries, text=MacBlue] at (4.5,5.5) {七個「我是」宣告 THE SEVEN ``I AM'' STATEMENTS};
+
+  % Greek note
+  \node[font=\tiny\itshape, text=RefGray] at (4.5,5) {希臘文: egō eimi --- 呼應出埃及記 3:14};
+
+  % I AM 1
+  \node[circle, fill=MacBlue, text=white, font=\tiny\bfseries, minimum size=14pt] at (0.3,4.2) {1};
+  \node[font=\small, anchor=west] at (0.7,4.2) {生命的糧 Bread of Life};
+  \node[font=\tiny\itshape, text=RefGray, anchor=west] at (5.5,4.2) {6:35};
+  \node[font=\tiny, text=MacRed, anchor=west] at (6.3,4.2) {屬靈供應};
+
+  % I AM 2
+  \node[circle, fill=MacBlue, text=white, font=\tiny\bfseries, minimum size=14pt] at (0.3,3.6) {2};
+  \node[font=\small, anchor=west] at (0.7,3.6) {世界的光 Light of World};
+  \node[font=\tiny\itshape, text=RefGray, anchor=west] at (5.5,3.6) {8:12};
+  \node[font=\tiny, text=MacRed, anchor=west] at (6.3,3.6) {屬靈光照};
+
+  % I AM 3
+  \node[circle, fill=MacBlue, text=white, font=\tiny\bfseries, minimum size=14pt] at (0.3,3.0) {3};
+  \node[font=\small, anchor=west] at (0.7,3.0) {羊的門 The Door};
+  \node[font=\tiny\itshape, text=RefGray, anchor=west] at (5.5,3.0) {10:7};
+  \node[font=\tiny, text=MacRed, anchor=west] at (6.3,3.0) {救恩入口};
+
+  % I AM 4
+  \node[circle, fill=MacBlue, text=white, font=\tiny\bfseries, minimum size=14pt] at (0.3,2.4) {4};
+  \node[font=\small, anchor=west] at (0.7,2.4) {好牧人 Good Shepherd};
+  \node[font=\tiny\itshape, text=RefGray, anchor=west] at (5.5,2.4) {10:11};
+  \node[font=\tiny, text=MacRed, anchor=west] at (6.3,2.4) {犧牲照顧};
+
+  % I AM 5
+  \node[circle, fill=MacBlue, text=white, font=\tiny\bfseries, minimum size=14pt] at (0.3,1.8) {5};
+  \node[font=\small, anchor=west] at (0.7,1.8) {復活和生命 Resurrection};
+  \node[font=\tiny\itshape, text=RefGray, anchor=west] at (5.5,1.8) {11:25};
+  \node[font=\tiny, text=MacRed, anchor=west] at (6.3,1.8) {勝過死亡};
+
+  % I AM 6
+  \node[circle, fill=MacBlue, text=white, font=\tiny\bfseries, minimum size=14pt] at (0.3,1.2) {6};
+  \node[font=\small, anchor=west] at (0.7,1.2) {道路真理生命 Way Truth Life};
+  \node[font=\tiny\itshape, text=RefGray, anchor=west] at (5.5,1.2) {14:6};
+  \node[font=\tiny, text=MacRed, anchor=west] at (6.3,1.2) {獨一救恩};
+
+  % I AM 7
+  \node[circle, fill=MacBlue, text=white, font=\tiny\bfseries, minimum size=14pt] at (0.3,0.6) {7};
+  \node[font=\small, anchor=west] at (0.7,0.6) {真葡萄樹 True Vine};
+  \node[font=\tiny\itshape, text=RefGray, anchor=west] at (5.5,0.6) {15:1};
+  \node[font=\tiny, text=MacRed, anchor=west] at (6.3,0.6) {屬靈合一};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - PASSION WEEK TIMELINE
+%% ============================================
+\newcommand{\passionweek}{%
+\begin{tikzpicture}[scale=0.8, transform shape]
+  \node[font=\bfseries, text=MacBlue] at (5,4) {受難週 PASSION WEEK IN JOHN (12--20章)};
+
+  % Timeline
+  \draw[MacBlue, line width=2pt] (0,2.5) -- (10,2.5);
+
+  % Saturday
+  \draw[MacBlue, line width=1pt] (0.5,2.3) -- (0.5,2.7);
+  \node[font=\tiny\bfseries, text=MacBlue] at (0.5,2.9) {週六};
+  \fill[MacRed] (0.5,2.5) circle (3pt);
+  \node[font=\tiny, text width=1.2cm, align=center, below] at (0.5,2) {膏抹\\12:1--8};
+
+  % Sunday
+  \draw[MacBlue, line width=1pt] (2,2.3) -- (2,2.7);
+  \node[font=\tiny\bfseries, text=MacBlue] at (2,2.9) {週日};
+  \fill[MacRed] (2,2.5) circle (3pt);
+  \node[font=\tiny, text width=1.2cm, align=center, below] at (2,2) {榮進\\耶路撒冷};
+
+  % Thursday
+  \draw[MacBlue, line width=1pt] (4,2.3) -- (4,2.7);
+  \node[font=\tiny\bfseries, text=MacBlue] at (4,2.9) {週四};
+  \fill[MacRed] (4,2.5) circle (3pt);
+  \node[font=\tiny, text width=1.2cm, align=center, below] at (4,2) {最後晚餐\\13--17章};
+
+  % Friday
+  \draw[MacBlue, line width=1pt] (6,2.3) -- (6,2.7);
+  \node[font=\tiny\bfseries, text=MacBlue] at (6,2.9) {週五};
+  \fill[MacRed] (6,2.5) circle (3pt);
+  \node[font=\tiny, text width=1.2cm, align=center, below] at (6,2) {釘十架\\18--19章};
+
+  % Saturday
+  \draw[MacBlue, line width=1pt] (8,2.3) -- (8,2.7);
+  \node[font=\tiny\bfseries, text=MacBlue] at (8,2.9) {週六};
+  \fill[MacRed] (8,2.5) circle (3pt);
+  \node[font=\tiny, text width=1.2cm, align=center, below] at (8,2) {在墳墓};
+
+  % Sunday Resurrection
+  \draw[MacBlue, line width=1pt] (9.5,2.3) -- (9.5,2.7);
+  \node[font=\tiny\bfseries, text=MacBlue] at (9.5,2.9) {週日};
+  \fill[MacRed] (9.5,2.5) circle (3pt);
+  \node[font=\tiny, text width=1.2cm, align=center, below] at (9.5,2) {復活\\20章};
+
+  % Bracket for Farewell Discourse
+  \draw[decorate, decoration={brace, amplitude=5pt}, MacGold, line width=1pt]
+       (3.5,1) -- (4.5,1);
+  \node[font=\tiny\itshape, text=MacGold] at (4,0.6) {臨別講論};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=MacBlue,
+  urlcolor=MacGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfauthor={PubHub Three Books Project},
+  pdftitle={Gospel of John MacArthur Study Bible Edition},
+  pdfsubject={Gospel of John Expository Study}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% MEMOIR CHAPTER STYLE - MACARTHUR STYLE
+%% ============================================
+\makechapterstyle{macarthur}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapnamefont}{\normalfont\large\bfseries\color{MacBlue}}
+  \renewcommand*{\chapnumfont}{\normalfont\huge\bfseries\color{MacBlue}}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\bfseries\color{MacBlue}}
+  \renewcommand*{\printchaptername}{\centering\chapnamefont Chapter}
+  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering\chaptitlefont ##1\par
+    \vskip 8pt
+    {\color{MacBlue}\rule{3in}{1.5pt}}
+  }
+  \setlength{\beforechapskip}{15pt}
+  \setlength{\afterchapskip}{20pt}
+}
+\chapterstyle{macarthur}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\setsecheadstyle{\normalfont\large\bfseries\color{MacBlue}}
+\setsubsecheadstyle{\normalfont\normalsize\bfseries\color{DoctrineBlue}}
+\setsubsubsecheadstyle{\normalfont\normalsize\bfseries\color{TextGray}}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\makepagestyle{macarthur}
+\makeevenhead{macarthur}{\small\thepage}{}{\small\scshape\color{LightGray}\leftmark}
+\makeoddhead{macarthur}{\small\scshape\color{LightGray}\rightmark}{}{\small\thepage}
+\makeheadrule{macarthur}{\textwidth}{0.5pt}
+\makeevenfoot{macarthur}{}{}{}
+\makeoddfoot{macarthur}{}{}{}
+\pagestyle{macarthur}
+
+% Plain style for chapter pages
+\makepagestyle{plain}
+\makeevenfoot{plain}{}{\small\thepage}{}
+\makeoddfoot{plain}{}{\small\thepage}{}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.4\baselineskip}%
+  \list{}{%
+    \leftmargin=0.6em
+    \rightmargin=0.3em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.4\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Half title page
+\begin{center}
+\vspace*{1.2in}
+{\Huge\bfseries\color{MacBlue} 解經研讀本}\\[0.3cm]
+{\Large\itshape\color{LightGray} Expository Study Bible}
+\vfill
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{center}
+\vspace*{0.5in}
+
+{\fontsize{14}{16}\selectfont\color{MacBlue}\scshape 三書精讀出版系統}\\[0.2in]
+
+{\fontsize{38}{42}\selectfont\bfseries\color{MacBlue} 解經研讀本}\\[0.2in]
+
+{\Large\color{MacRed}\textit{Expository Edition}}\\[0.5in]
+
+{\color{MacBlue}\rule{3.5in}{2pt}}\\[0.5in]
+
+{\normalsize 逐節解經註釋 Verse-by-Verse Commentary}\\[0.1in]
+{\normalsize 教義要點 Doctrinal Notes}\\[0.1in]
+{\normalsize 歷史背景 Historical Background}\\[0.1in]
+{\normalsize 詞彙研究 Word Studies}\\[0.1in]
+{\normalsize 圖表大綱 Charts and Outlines}\\[0.5in]
+
+{\color{MacBlue}\rule{2in}{1pt}}\\[0.3in]
+
+{\normalsize\itshape 「你當竭力在神面前得蒙喜悅，}\\
+{\normalsize\itshape 作無愧的工人，按着正意分解真理的道。」}\\
+{\small — 提摩太後書 2:15}\\[0.5in]
+
+\vfill
+
+% Key verse box
+\fcolorbox{MacGold}{KeyVerseBg}{%
+\begin{minipage}{3.5in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{TextGray}
+\jesus{「認識你——獨一的真神，\\並且認識你所差來的耶穌基督，\\這就是永生。」}\\[0.1em]
+\footnotesize — 約翰福音 17:3
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5in}
+
+$if(author)$
+{\normalsize $author$}\\[0.2cm]
+$endif$
+
+$if(publisher)$
+{\large\scshape $publisher$}\\[0.1cm]
+$endif$
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize \today}
+$endif$
+
+\end{center}
+\cleardoublepage
+
+% Book Introduction Page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{MacBlue} 約翰福音導論}\\[0.1in]
+{\normalsize THE GOSPEL ACCORDING TO JOHN}\\
+{\normalsize\itshape 信心的福音 The Gospel of Belief}
+\end{center}
+
+\vspace{0.3in}
+
+\begin{bookintro}
+
+\subsection*{作者 Author}
+
+作者自稱為「耶穌所愛的那門徒」(13:23; 19:26; 20:2; 21:7, 20, 24)。教會傳統一致認定這位作者是使徒\textbf{約翰，西庇太的兒子}，是門徒中的核心圈子之一（與彼得和雅各並列）。
+
+The author identifies himself as ``the disciple whom Jesus loved.'' Church tradition unanimously identifies this as the apostle \textbf{John, son of Zebedee}, one of the inner circle of disciples.
+
+\subsection*{日期 Date}
+
+這福音書可能寫於\textbf{主後85--95年}之間，是最後寫成的福音書。約翰是在耶路撒冷被毀（主後70年）之後寫作，可能在他晚年居住的以弗所。
+
+The Gospel was likely written between \textbf{AD 85--95}, making it the last Gospel written.
+
+\subsection*{目的 Purpose}
+
+約翰明確陳述他的目的：\textit{「但記這些事，是要你們信耶穌是基督，是神的兒子，並且使你們信了，就可以因他的名得生命。」}(20:31)
+
+John states his purpose explicitly: \textit{``These are written that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in His name''} (20:31).
+
+\subsection*{主要主題 Key Themes}
+
+\textbf{1. 基督的神性} --- 約翰從第一節就呈現耶穌完全是神。
+
+\textbf{2. 信心} --- 動詞「信」出現98次。得救的信心是對耶穌神蹟和話語的適當回應。
+
+\textbf{3. 永生} --- 不僅是將來的，也是現今所有信的人就擁有的(3:36; 5:24; 17:3)。
+
+\textbf{4. 聖靈} --- 關於聖靈作為保惠師的廣泛教導(14:16--17, 26; 15:26; 16:7--15)。
+
+\end{bookintro}
+
+\cleardoublepage
+
+% Structure Charts
+\thispagestyle{empty}
+\vspace*{0.3in}
+\par\noindent\centering
+\johnoutlinechart
+
+\vspace{0.5in}
+\par\noindent\centering
+\signstable
+
+\cleardoublepage
+
+% More Charts
+\thispagestyle{empty}
+\vspace*{0.3in}
+\par\noindent\centering
+\iamtable
+
+\vspace{0.5in}
+\par\noindent\centering
+\deitychart
+
+\cleardoublepage
+
+% Passion Week Timeline
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5in}
+
+\passionweek
+
+\vspace{0.5in}
+
+{\footnotesize\color{LightGray} \jesus{「我就是道路、真理、生命。」}— 約翰福音 14:6}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{解經研讀本：約翰福音}\\
+\textbf{Expository Study Bible: Gospel of John}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur — Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan — \textit{The Gospel According to John}\\
+\textbullet\ MacArthur Study Bible Notes\\[0.8em]
+
+\textbf{Red Letter Bible}\\
+本書採用紅字聖經格式，以\textcolor{JesusRed}{紅色斜體}標示耶穌的話語。\\
+This edition uses Red Letter format with Jesus's words in \textcolor{JesusRed}{\textit{red italics}}.\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
+
+6.5×9.5" MacArthur Study Bible Edition\\
+PubHub Publishing 2026
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{macarthur}
+{\color{MacBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+% Final page
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+
+{\color{MacBlue}\rule{2in}{1pt}}\\[1em]
+
+{\Large\color{MacGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.15cm]
+{\normalsize\color{LightGray} Glory = Grace + Truth}
+
+\vspace{0.5cm}
+
+{\small\color{TextGray}\itshape
+「聖經都是神所默示的，\\
+於教訓、督責、使人歸正、\\
+教導人學義都是有益的。」\\[0.1em]
+— 提摩太後書 3:16}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray}
+"All Scripture is breathed out by God\\
+and profitable for teaching, for reproof,\\
+for correction, and for training in righteousness."\\
+— 2 Timothy 3:16}
+
+\vspace{0.6cm}
+
+{\color{MacBlue}\rule{2in}{1pt}}
+
+\end{center}
+\vspace*{\fill}
+
+\end{document}

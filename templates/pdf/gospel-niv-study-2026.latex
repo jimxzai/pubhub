@@ -1,0 +1,889 @@
+% ============================================================================
+% PubHub Gospel NIV Study Bible Template 2026
+% 7×9.25" Study Bible Size with Two-Column Layout
+% Extensive Study Notes, Cross-References, Maps, Word Studies
+% Full CJK Bilingual + Red Letter Bible
+% Requires XeLaTeX for CJK support
+% ============================================================================
+
+\documentclass[10pt,twoside,openright]{memoir}
+
+%% ============================================
+%% PAGE SIZE - 7×9.25" Study Bible Size
+%% ============================================
+\setstocksize{9.25in}{7in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+
+% Study Bible margins with space for marginal notes
+\setlrmarginsandblock{0.7in}{0.5in}{*}
+\setulmarginsandblock{0.6in}{0.7in}{*}
+\setheadfoot{0.4in}{0.4in}
+\setheaderspaces{*}{0.15in}{*}
+\checkandfixthelayout
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+% Main CJK fonts
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - NIV Study Bible Style
+%% ============================================
+\usepackage{xcolor}
+
+% Primary NIV Study Bible colors
+\definecolor{NIVBlue}{RGB}{0,51,102}
+\definecolor{NIVRed}{RGB}{153,0,0}
+\definecolor{NIVGold}{RGB}{184,134,11}
+\definecolor{NoteBg}{RGB}{250,248,245}
+\definecolor{CrossRefGray}{RGB}{100,100,100}
+\definecolor{VerseGray}{RGB}{80,80,80}
+\definecolor{HeaderGray}{RGB}{60,60,60}
+
+% RED LETTER BIBLE - Jesus's Words
+\definecolor{JesusRed}{RGB}{180,0,0}
+
+% Map colors
+\definecolor{MapWater}{RGB}{173,216,230}
+\definecolor{MapLand}{RGB}{245,235,220}
+\definecolor{SeaDark}{RGB}{100,140,170}
+
+% Box colors
+\definecolor{WordStudyBg}{RGB}{240,245,255}
+\definecolor{CharacterBg}{RGB}{250,248,245}
+\definecolor{TheologyBg}{RGB}{255,245,245}
+\definecolor{CultureBg}{RGB}{248,250,245}
+\definecolor{IntroduceBg}{RGB}{245,248,252}
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% TWO COLUMN LAYOUT
+%% ============================================
+\usepackage{multicol}
+\setlength{\columnsep}{0.25in}
+\setlength{\columnseprule}{0.4pt}
+\def\columnseprulecolor{\color{NIVBlue!30}}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric,arrows.meta,calc,positioning,backgrounds,fit,decorations.pathreplacing}
+
+%% ============================================
+%% RED LETTER BIBLE COMMAND
+%% ============================================
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
+
+%% ============================================
+%% VERSE AND CHAPTER COMMANDS
+%% ============================================
+% Verse number (superscript, bold blue)
+\newcommand{\vs}[1]{\textsuperscript{\bfseries\color{NIVBlue}#1}\,}
+
+% Chapter number (large drop cap style)
+\newcommand{\chnum}[1]{%
+  \noindent{\fontsize{28}{30}\selectfont\color{NIVBlue}\bfseries #1}\,%
+}
+
+% Section heading (like NIV section titles)
+\newcommand{\sectionhead}[1]{%
+  \vspace{0.8em}
+  \noindent{\large\bfseries\color{NIVBlue}\textit{#1}}
+  \vspace{0.3em}
+  \par\noindent
+}
+
+% Bilingual section heading
+\newcommand{\sectionheadzh}[2]{%
+  \vspace{0.8em}
+  \noindent{\large\bfseries\color{NIVBlue}\textit{#1}}\\
+  {\normalsize\color{LightGray}#2}
+  \vspace{0.3em}
+  \par\noindent
+}
+
+%% ============================================
+%% CROSS-REFERENCE COMMANDS
+%% ============================================
+% Margin cross-reference
+\newcommand{\xref}[1]{%
+  \marginpar{\raggedright\tiny\color{CrossRefGray}#1}%
+}
+
+% Inline cross-reference
+\newcommand{\inlinexref}[1]{%
+  {\scriptsize\color{CrossRefGray}[#1]}%
+}
+
+%% ============================================
+%% STUDY NOTE COMMAND (footnote style)
+%% ============================================
+\newcommand{\studynote}[2]{%
+  \footnote{\textbf{#1} #2}%
+}
+
+%% ============================================
+%% FOOTNOTES STYLING
+%% ============================================
+\renewcommand{\footnoterule}{%
+  \kern-3pt
+  {\color{NIVBlue}\hrule width 2in height 0.4pt}
+  \kern 2.6pt
+}
+
+%% ============================================
+%% SPECIAL BOXES - WORD STUDY
+%% ============================================
+\newenvironment{wordstudy}[1][]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{NIVBlue}{WordStudyBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small\color{NIVBlue}詞彙研究 Word Study #1}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% SPECIAL BOXES - CHARACTER PROFILE
+%% ============================================
+\newenvironment{characterbox}[1]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{NIVGold}{CharacterBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small\color{NIVGold}人物介紹 Character Profile: #1}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% SPECIAL BOXES - THEOLOGICAL NOTE
+%% ============================================
+\newenvironment{theologybox}[1][]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{NIVRed}{TheologyBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small\color{NIVRed}神學要點 Theological Note #1}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% SPECIAL BOXES - CULTURAL/HISTORICAL NOTE
+%% ============================================
+\newenvironment{culturebox}[1][]{%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{CrossRefGray}{CultureBg}{%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.3em}%
+  {\bfseries\small\color{CrossRefGray}歷史文化背景 Historical \& Cultural Background #1}\par\vspace{0.3em}%
+}{%
+  \vspace{0.3em}%
+  \end{minipage}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% BOOK INTRODUCTION BOX
+%% ============================================
+\newsavebox{\introbox}
+\newenvironment{bookintro}{%
+  \begin{lrbox}{\introbox}%
+  \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
+  \vspace{0.5em}%
+}{%
+  \vspace{0.5em}%
+  \end{minipage}%
+  \end{lrbox}%
+  \par\vspace{0.5em}%
+  \noindent\fcolorbox{NIVBlue}{IntroduceBg}{\usebox{\introbox}}%
+  \par\vspace{0.5em}%
+}
+
+%% ============================================
+%% KEY VERSE HIGHLIGHT
+%% ============================================
+\newcommand{\keyverse}[1]{%
+  \colorbox{NIVGold!20}{\parbox{\dimexpr\linewidth-2\fboxsep}{#1}}%
+}
+
+%% ============================================
+%% OUTLINE ITEM
+%% ============================================
+\newcommand{\outlineitem}[2]{%
+  \textbf{#1} #2\\
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - GOSPEL STRUCTURE CHART
+%% ============================================
+\newcommand{\johnstructurechart}{%
+\begin{tikzpicture}[scale=0.9, transform shape]
+  % Title
+  \node[font=\bfseries\small, text=NIVBlue] at (4,6.5) {約翰福音結構 STRUCTURE OF JOHN'S GOSPEL};
+
+  % Main sections
+  \node[rectangle, draw=NIVBlue, fill=NIVBlue!10,
+        minimum width=7cm, minimum height=0.7cm, font=\small\bfseries]
+        (prologue) at (4,5.5) {序言 Prologue (1:1--18)};
+
+  \node[rectangle, draw=NIVBlue, fill=NIVBlue!20,
+        minimum width=7cm, minimum height=1.5cm, font=\small\bfseries,
+        text width=6.5cm, align=center]
+        (signs) at (4,4) {記號之書 Book of Signs (1:19--12:50)\\[2pt]
+        {\tiny 七個神蹟 Seven Miraculous Signs • 公開事工 Public Ministry}};
+
+  \node[rectangle, draw=NIVRed, fill=NIVRed!10,
+        minimum width=7cm, minimum height=1.5cm, font=\small\bfseries,
+        text width=6.5cm, align=center]
+        (glory) at (4,2) {榮耀之書 Book of Glory (13:1--20:31)\\[2pt]
+        {\tiny 臨別講論 Farewell Discourse • 受難 Passion • 復活 Resurrection}};
+
+  \node[rectangle, draw=NIVBlue, fill=NIVBlue!10,
+        minimum width=7cm, minimum height=0.7cm, font=\small\bfseries]
+        (epilogue) at (4,0.5) {尾聲 Epilogue (21:1--25)};
+
+  % Chapter markers on left
+  \node[font=\tiny, left] at (0.3,5.5) {Ch. 1};
+  \node[font=\tiny, left] at (0.3,4) {Ch. 2--12};
+  \node[font=\tiny, left] at (0.3,2) {Ch. 13--20};
+  \node[font=\tiny, left] at (0.3,0.5) {Ch. 21};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - SEVEN SIGNS CHART
+%% ============================================
+\newcommand{\sevensignschart}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  \node[font=\bfseries\small, text=NIVBlue] at (4,5.5) {約翰福音七個神蹟 THE SEVEN SIGNS IN JOHN};
+
+  % Sign 1
+  \node[circle, fill=NIVBlue, text=white, font=\tiny\bfseries, minimum size=16pt] at (0,4.5) {1};
+  \node[font=\small, anchor=west] at (0.5,4.5) {水變酒};
+  \node[font=\tiny, text=LightGray, anchor=west] at (2.2,4.5) {Water to Wine};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (4.2,4.5) {2:1--11};
+  \node[font=\tiny, text=NIVRed, anchor=west] at (5.5,4.5) {榮耀顯現};
+
+  % Sign 2
+  \node[circle, fill=NIVBlue, text=white, font=\tiny\bfseries, minimum size=16pt] at (0,3.7) {2};
+  \node[font=\small, anchor=west] at (0.5,3.7) {醫大臣之子};
+  \node[font=\tiny, text=LightGray, anchor=west] at (2.2,3.7) {Official's Son};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (4.2,3.7) {4:46--54};
+  \node[font=\tiny, text=NIVRed, anchor=west] at (5.5,3.7) {信心};
+
+  % Sign 3
+  \node[circle, fill=NIVBlue, text=white, font=\tiny\bfseries, minimum size=16pt] at (0,2.9) {3};
+  \node[font=\small, anchor=west] at (0.5,2.9) {畢士大池};
+  \node[font=\tiny, text=LightGray, anchor=west] at (2.2,2.9) {Pool Healing};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (4.2,2.9) {5:1--15};
+  \node[font=\tiny, text=NIVRed, anchor=west] at (5.5,2.9) {安息日主};
+
+  % Sign 4
+  \node[circle, fill=NIVBlue, text=white, font=\tiny\bfseries, minimum size=16pt] at (0,2.1) {4};
+  \node[font=\small, anchor=west] at (0.5,2.1) {五餅二魚};
+  \node[font=\tiny, text=LightGray, anchor=west] at (2.2,2.1) {Feeding 5000};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (4.2,2.1) {6:1--14};
+  \node[font=\tiny, text=NIVRed, anchor=west] at (5.5,2.1) {生命的糧};
+
+  % Sign 5
+  \node[circle, fill=NIVBlue, text=white, font=\tiny\bfseries, minimum size=16pt] at (0,1.3) {5};
+  \node[font=\small, anchor=west] at (0.5,1.3) {海面行走};
+  \node[font=\tiny, text=LightGray, anchor=west] at (2.2,1.3) {Walking on Water};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (4.2,1.3) {6:16--21};
+  \node[font=\tiny, text=NIVRed, anchor=west] at (5.5,1.3) {神聖同在};
+
+  % Sign 6
+  \node[circle, fill=NIVBlue, text=white, font=\tiny\bfseries, minimum size=16pt] at (0,0.5) {6};
+  \node[font=\small, anchor=west] at (0.5,0.5) {醫瞎眼};
+  \node[font=\tiny, text=LightGray, anchor=west] at (2.2,0.5) {Man Born Blind};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (4.2,0.5) {9:1--12};
+  \node[font=\tiny, text=NIVRed, anchor=west] at (5.5,0.5) {世界的光};
+
+  % Sign 7
+  \node[circle, fill=NIVBlue, text=white, font=\tiny\bfseries, minimum size=16pt] at (0,-0.3) {7};
+  \node[font=\small, anchor=west] at (0.5,-0.3) {拉撒路復活};
+  \node[font=\tiny, text=LightGray, anchor=west] at (2.2,-0.3) {Raising Lazarus};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (4.2,-0.3) {11:1--44};
+  \node[font=\tiny, text=NIVRed, anchor=west] at (5.5,-0.3) {復活生命};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - I AM STATEMENTS
+%% ============================================
+\newcommand{\iamchart}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  \node[font=\bfseries\small, text=NIVBlue] at (3.5,4.5) {七個「我是」 THE ``I AM'' STATEMENTS};
+
+  % I AM 1
+  \fill[JesusRed] (0,3.7) circle (2pt);
+  \node[font=\small, anchor=west, text=JesusRed] at (0.2,3.7) {生命的糧};
+  \node[font=\tiny, anchor=west, text=LightGray] at (2.8,3.7) {Bread of Life};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (5.2,3.7) {6:35};
+
+  % I AM 2
+  \fill[JesusRed] (0,3.0) circle (2pt);
+  \node[font=\small, anchor=west, text=JesusRed] at (0.2,3.0) {世界的光};
+  \node[font=\tiny, anchor=west, text=LightGray] at (2.8,3.0) {Light of the World};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (5.2,3.0) {8:12};
+
+  % I AM 3
+  \fill[JesusRed] (0,2.3) circle (2pt);
+  \node[font=\small, anchor=west, text=JesusRed] at (0.2,2.3) {羊的門};
+  \node[font=\tiny, anchor=west, text=LightGray] at (2.8,2.3) {Door of the Sheep};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (5.2,2.3) {10:7};
+
+  % I AM 4
+  \fill[JesusRed] (0,1.6) circle (2pt);
+  \node[font=\small, anchor=west, text=JesusRed] at (0.2,1.6) {好牧人};
+  \node[font=\tiny, anchor=west, text=LightGray] at (2.8,1.6) {Good Shepherd};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (5.2,1.6) {10:11};
+
+  % I AM 5
+  \fill[JesusRed] (0,0.9) circle (2pt);
+  \node[font=\small, anchor=west, text=JesusRed] at (0.2,0.9) {復活和生命};
+  \node[font=\tiny, anchor=west, text=LightGray] at (2.8,0.9) {Resurrection and Life};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (5.2,0.9) {11:25};
+
+  % I AM 6
+  \fill[JesusRed] (0,0.2) circle (2pt);
+  \node[font=\small, anchor=west, text=JesusRed] at (0.2,0.2) {道路、真理、生命};
+  \node[font=\tiny, anchor=west, text=LightGray] at (2.8,0.2) {Way, Truth, Life};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (5.2,0.2) {14:6};
+
+  % I AM 7
+  \fill[JesusRed] (0,-0.5) circle (2pt);
+  \node[font=\small, anchor=west, text=JesusRed] at (0.2,-0.5) {真葡萄樹};
+  \node[font=\tiny, anchor=west, text=LightGray] at (2.8,-0.5) {True Vine};
+  \node[font=\tiny\itshape, text=CrossRefGray, anchor=west] at (5.2,-0.5) {15:1};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - HOLY LAND MAP
+%% ============================================
+\newcommand{\johnlocationsmap}{%
+\begin{tikzpicture}[scale=0.7, transform shape]
+  % Background
+  \fill[MapLand] (0,0) rectangle (8,10);
+
+  % Water bodies
+  \fill[MapWater] (4,7.5) ellipse (0.7 and 1); % Sea of Galilee
+  \draw[SeaDark, line width=1.5pt] (4,6.5) -- (4.2,2); % Jordan
+  \fill[MapWater] (4.2,1.5) ellipse (0.5 and 0.8); % Dead Sea
+
+  % Mediterranean
+  \fill[MapWater] (-0.5,0) rectangle (1.2,10);
+  \draw[SeaDark, line width=0.8pt] (1.2,0) -- (1.2,10);
+  \node[font=\tiny, rotate=90, text=SeaDark] at (0.4,5) {Mediterranean 地中海};
+
+  % Regions
+  \node[font=\tiny\scshape, text=CrossRefGray] at (2.5,8.5) {GALILEE 加利利};
+  \node[font=\tiny\scshape, text=CrossRefGray] at (2.5,5.5) {SAMARIA 撒瑪利亞};
+  \node[font=\tiny\scshape, text=CrossRefGray] at (2.5,2.5) {JUDEA 猶大};
+
+  % Cities with events
+  \node[circle, fill=NIVRed, inner sep=1.5pt] (cana) at (3,8.2) {};
+  \node[font=\tiny, left] at (cana) {迦拿 Cana};
+  \node[font=\tiny\itshape, text=NIVRed, right] at (3.2,8.2) {(神蹟1)};
+
+  \node[circle, fill=NIVRed, inner sep=1.5pt] (cap) at (3.8,8.5) {};
+  \node[font=\tiny, above] at (cap) {迦百農 Capernaum};
+
+  \node[circle, fill=NIVBlue, inner sep=1.5pt] (sychar) at (3.5,5.2) {};
+  \node[font=\tiny, left] at (sychar) {敘加 Sychar};
+  \node[font=\tiny\itshape, text=NIVBlue, right] at (3.7,5.2) {(撒瑪利亞婦人)};
+
+  \node[circle, fill=NIVRed, inner sep=2.5pt] (jer) at (3.5,3) {};
+  \node[font=\tiny\bfseries, left] at (jer) {耶路撒冷};
+  \node[font=\tiny, right] at (jer) {Jerusalem};
+
+  \node[circle, fill=NIVRed, inner sep=1.5pt] (beth) at (4.5,3.3) {};
+  \node[font=\tiny, right] at (beth) {伯大尼 Bethany};
+  \node[font=\tiny\itshape, text=NIVRed, below right] at (4.5,3.1) {(神蹟7)};
+
+  % Title
+  \node[font=\small\bfseries, text=NIVBlue] at (4,9.5) {約翰福音重要地點};
+  \node[font=\tiny, text=LightGray] at (4,9.1) {KEY LOCATIONS IN JOHN};
+
+  % Border
+  \draw[NIVBlue, line width=0.5pt] (0,0) rectangle (8,10);
+
+  % Compass
+  \draw[->, thick, color=NIVBlue] (7,8.5) -- (7,9.3);
+  \node[font=\tiny\bfseries, color=NIVBlue] at (7,9.5) {N};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TIKZ DIAGRAMS - TIMELINE
+%% ============================================
+\newcommand{\johntimeline}{%
+\begin{tikzpicture}[scale=0.8, transform shape]
+  % Timeline
+  \draw[NIVBlue, line width=2pt] (0,0) -- (10,0);
+
+  % Title
+  \node[font=\small\bfseries, text=NIVBlue] at (5,1.8) {耶穌事工時間線 TIMELINE OF JESUS' MINISTRY};
+
+  % Years
+  \foreach \x/\year in {0/主後27年, 3.3/主後28年, 6.6/主後29年, 10/主後30年} {
+    \draw[NIVBlue, line width=1pt] (\x,-0.15) -- (\x,0.15);
+    \node[font=\tiny, below] at (\x,-0.25) {\year};
+  }
+
+  % Passovers
+  \foreach \x/\num in {1/第一次, 4.5/第二次, 9/第三次} {
+    \draw[NIVRed, line width=1.5pt, dashed] (\x,-0.8) -- (\x,0.8);
+    \node[font=\tiny, text=NIVRed, above] at (\x,0.85) {逾越節 \num};
+  }
+
+  % Events
+  \foreach \x/\event in {
+    0.5/受洗,
+    2/神蹟1-3,
+    5/五餅二魚,
+    7/住棚節,
+    8.5/拉撒路
+  } {
+    \fill[NIVBlue] (\x,0) circle (3pt);
+    \node[font=\tiny, above, text width=1cm, align=center] at (\x,0.3) {\event};
+  }
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=NIVBlue,
+  urlcolor=NIVGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfauthor={PubHub Three Books Project},
+  pdftitle={Gospel of John NIV Study Bible Edition},
+  pdfsubject={Gospel of John Study}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% MEMOIR CHAPTER STYLE - NIV STUDY BIBLE
+%% ============================================
+\makechapterstyle{nivstudy}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapnamefont}{\normalfont\large\bfseries\color{NIVBlue}}
+  \renewcommand*{\chapnumfont}{\normalfont\huge\bfseries\color{NIVBlue}}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\bfseries\color{NIVBlue}}
+  \renewcommand*{\printchaptername}{\centering\chapnamefont Chapter}
+  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering\chaptitlefont ##1\par
+    \vskip 8pt
+    {\color{NIVBlue}\rule{3in}{1.5pt}}
+  }
+  \setlength{\beforechapskip}{20pt}
+  \setlength{\afterchapskip}{25pt}
+}
+\chapterstyle{nivstudy}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\setsecheadstyle{\normalfont\large\bfseries\color{NIVBlue}}
+\setsubsecheadstyle{\normalfont\normalsize\bfseries\color{HeaderGray}}
+\setsubsubsecheadstyle{\normalfont\normalsize\bfseries\color{TextGray}}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\makepagestyle{nivstudy}
+\makeevenhead{nivstudy}{\small\color{HeaderGray}\thepage}{}{\small\scshape\color{HeaderGray}\leftmark}
+\makeoddhead{nivstudy}{\small\scshape\color{HeaderGray}\rightmark}{}{\small\color{HeaderGray}\thepage}
+\makeheadrule{nivstudy}{\textwidth}{0.5pt}
+\makeevenfoot{nivstudy}{}{}{}
+\makeoddfoot{nivstudy}{}{}{}
+\pagestyle{nivstudy}
+
+% Plain style for chapter pages
+\makepagestyle{plain}
+\makeevenfoot{plain}{}{\small\thepage}{}
+\makeoddfoot{plain}{}{\small\thepage}{}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.4\baselineskip}%
+  \list{}{%
+    \leftmargin=0.6em
+    \rightmargin=0.3em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.4\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Half title page
+\begin{center}
+\vspace*{1.5in}
+{\Huge\bfseries\color{NIVBlue} 研讀本聖經}\\[0.3cm]
+{\Large\itshape\color{LightGray} Study Bible}
+\vfill
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{center}
+\vspace*{0.5in}
+
+{\fontsize{16}{18}\selectfont\color{NIVBlue}\scshape 三書精讀出版系統}\\[0.2in]
+
+{\fontsize{40}{44}\selectfont\bfseries\color{NIVBlue} 研讀本聖經}\\[0.2in]
+
+{\Large\color{NIVRed}\textit{NIV Study Bible Style}}\\[0.5in]
+
+{\color{NIVBlue}\rule{3in}{2pt}}\\[0.5in]
+
+{\normalsize 全面研經注釋 Comprehensive Study Notes}\\[0.1in]
+{\normalsize 經文串珠 Cross-References and Maps}\\[0.1in]
+{\normalsize 書卷導論與大綱 Book Introductions and Outlines}\\[0.1in]
+{\normalsize 詞彙研究與人物介紹 Word Studies and Character Profiles}\\[0.5in]
+
+\vfill
+
+% Key verse box
+\fcolorbox{NIVGold}{NoteBg}{%
+\begin{minipage}{3.5in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{TextGray}
+\jesus{「但記這些事，是要你們信耶穌是基督，是神的兒子，\\並且使你們信了，就可以因他的名得生命。」}\\[0.1em]
+\footnotesize But these are written that you may believe that Jesus is the Messiah,\\
+the Son of God, and that by believing you may have life in his name.\\
+— 約翰福音 John 20:31
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5in}
+
+{\color{NIVBlue}\rule{2in}{1pt}}\\[0.3in]
+
+$if(author)$
+{\normalsize $author$}\\[0.2cm]
+$endif$
+
+$if(publisher)$
+{\large\scshape $publisher$}\\[0.1cm]
+$endif$
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize \today}
+$endif$
+
+\end{center}
+\cleardoublepage
+
+% Book Introduction Page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{NIVBlue} 約翰福音導論}\\[0.1in]
+{\normalsize INTRODUCTION TO JOHN}
+\end{center}
+
+\vspace{0.3in}
+
+\begin{bookintro}
+\textbf{\color{NIVBlue}作者 Author:} 使徒約翰，西庇太的兒子，被稱為「耶穌所愛的門徒」(13:23; 19:26; 20:2; 21:7, 20)。\\
+The apostle John, son of Zebedee, identified as ``the disciple whom Jesus loved.''
+
+\textbf{\color{NIVBlue}日期 Date:} 約主後85--90年，可能寫於以弗所。\\
+Approximately AD 85--90, likely written from Ephesus.
+
+\textbf{\color{NIVBlue}對象 Recipients:} 寫給猶太人和外邦人，特別是希臘語世界的讀者。\\
+Written for both Jews and Gentiles, particularly those in the Greek-speaking world.
+
+\textbf{\color{NIVBlue}目的 Purpose:} 「但記這些事，是要你們信耶穌是基督，是神的兒子，並且使你們信了，就可以因他的名得生命。」(20:31)
+
+\vspace{0.3em}
+
+\textbf{\color{NIVBlue}主要主題 Key Themes:}
+\begin{itemize}
+  \setlength{\itemsep}{2pt}
+  \item 基督的神性 The deity of Christ (「道就是神」)
+  \item 信心/相信 Belief/Faith (「信」出現98次)
+  \item 永生 Eternal life (提及17次)
+  \item 光與暗的象徵 Light vs. darkness symbolism
+  \item 聖靈保惠師 The Holy Spirit as Counselor
+  \item 耶穌得榮耀的「時候」 The ``hour'' of Jesus' glorification
+\end{itemize}
+
+\textbf{\color{NIVBlue}獨特之處 Unique Features:}
+\begin{itemize}
+  \setlength{\itemsep}{2pt}
+  \item 約翰福音90\%的內容是獨有的
+  \item 七個神蹟「記號」(不稱為神蹟)
+  \item 七個帶賓語的「我是」宣告
+  \item 長篇講論與對話
+  \item 沒有比喻、趕鬼或符類福音式的敘事
+\end{itemize}
+\end{bookintro}
+
+\cleardoublepage
+
+% Structure Charts
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\johnstructurechart
+
+\vspace{0.5in}
+
+\sevensignschart
+
+\vspace{0.5in}
+
+\iamchart
+
+\end{center}
+\cleardoublepage
+
+% Map and Timeline
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.2in}
+
+\johnlocationsmap
+
+\vspace{0.4in}
+
+\johntimeline
+
+\vspace{0.3in}
+
+{\footnotesize\color{LightGray} \jesus{「我就是道路、真理、生命。」}— 約翰福音 14:6}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{研讀本聖經：約翰福音}\\
+\textbf{Study Bible: Gospel of John}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur — Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan — \textit{The Gospel According to John}\\
+\textbullet\ NIV Study Bible Editorial Notes\\[0.8em]
+
+\textbf{Red Letter Bible}\\
+本書採用紅字聖經格式，以\textcolor{JesusRed}{紅色斜體}標示耶穌的話語。\\
+This edition uses Red Letter format with Jesus's words in \textcolor{JesusRed}{\textit{red italics}}.\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
+
+7×9.25" NIV Study Bible Edition\\
+PubHub Publishing 2026
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{nivstudy}
+{\color{NIVBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+% Final page
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+
+{\color{NIVBlue}\rule{2in}{1pt}}\\[1em]
+
+{\Large\color{NIVGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.15cm]
+{\normalsize\color{LightGray} Glory = Grace + Truth}
+
+\vspace{0.5cm}
+
+{\small\color{TextGray}\itshape
+「認識你——獨一的真神，\\
+並且認識你所差來的耶穌基督，\\
+這就是永生。」\\[0.1em]
+— 約翰福音 17:3}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray}
+"And this is eternal life, that they know you,\\
+the only true God, and Jesus Christ whom you have sent."\\
+— John 17:3}
+
+\vspace{0.6cm}
+
+{\color{NIVBlue}\rule{2in}{1pt}}
+
+\end{center}
+\vspace*{\fill}
+
+\end{document}

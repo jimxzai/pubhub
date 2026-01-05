@@ -1,0 +1,87 @@
+\contentsline {chapter}{\numberline {1}番外篇：硅谷阿甘}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}我叫阿甘}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}LSU 和 Mike}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}那个 Offer}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}机场}{4}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}第一章：2000年 --- 斯坦福的 AI 梦}{5}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}我到硅谷的第一天}{5}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}NeuralMind}{6}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Sarah}{7}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}疯狂年代}{8}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}第一次寒冬}{9}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}In-N-Out 的对话}{9}{subsection.1.2.6}%
+\contentsline {section}{\numberline {1.3}第二章：2001年 --- 世界改变的那一年}{11}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Mike 去了安然}{11}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Sarah 的警告}{13}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}2001年9月11日}{14}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}那一周之后}{15}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}美国变了}{15}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}圣诞前的电话}{16}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Dr.~Harlon Trailer 的睡袋}{18}{subsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.3.8}Sarah 的教训}{19}{subsection.1.3.8}%
+\contentsline {subsection}{\numberline {1.3.9}睡袋岁月}{20}{subsection.1.3.9}%
+\contentsline {section}{\numberline {1.4}第三章：2004年 --- 错过 Google}{21}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}复苏}{21}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Sarah 的选择}{21}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}IPO}{23}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Kevin}{24}{subsection.1.4.4}%
+\contentsline {section}{\numberline {1.5}第四章：2007年 --- Mike 去华尔街}{25}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}贝尔斯登}{25}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}纽约之行}{26}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Sarah 的父亲}{27}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}风暴前的派对}{28}{subsection.1.5.4}%
+\contentsline {section}{\numberline {1.6}第五章：2008年 --- 雷曼周末}{28}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}裂缝出现}{28}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}九月的那个周日}{29}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}周一早上}{30}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Sarah 的电话}{31}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}又见睡袋}{32}{subsection.1.6.5}%
+\contentsline {section}{\numberline {1.7}第六章：2009年 --- 谷底与希望}{33}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}NeuralMind 活下来了}{33}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}谷底}{34}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Mike 的复苏}{35}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}Kevin 的耐心}{35}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1.8}第七章：2011年 --- 屈辱}{36}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}NeuralMind 之死}{36}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}DataSphere}{37}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}那场会议}{38}{subsection.1.8.3}%
+\contentsline {subsection}{\numberline {1.8.4}Priya}{39}{subsection.1.8.4}%
+\contentsline {subsection}{\numberline {1.8.5}绩效评估}{39}{subsection.1.8.5}%
+\contentsline {subsection}{\numberline {1.8.6}离开}{40}{subsection.1.8.6}%
+\contentsline {section}{\numberline {1.9}第八章：2012年 --- 回归 AI}{41}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}Kevin 的 Facebook IPO}{41}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}那通电话}{42}{subsection.1.9.2}%
+\contentsline {section}{\numberline {1.10}第九章：2015年 --- Theranos 的血}{44}{section.1.10}%
+\contentsline {subsection}{\numberline {1.10.1}硅谷的新女神}{44}{subsection.1.10.1}%
+\contentsline {section}{\numberline {1.11}第十章：2020年 --- Zoom 时代}{46}{section.1.11}%
+\contentsline {subsection}{\numberline {1.11.1}世界停止}{46}{subsection.1.11.1}%
+\contentsline {subsection}{\numberline {1.11.2}NeuralMind 的春天}{47}{subsection.1.11.2}%
+\contentsline {subsection}{\numberline {1.11.3}Sarah 的房子}{47}{subsection.1.11.3}%
+\contentsline {subsection}{\numberline {1.11.4}Zoom 泡沫}{48}{subsection.1.11.4}%
+\contentsline {section}{\numberline {1.12}第十一章：2021年 --- GME 和加密货币}{49}{section.1.12}%
+\contentsline {subsection}{\numberline {1.12.1}Tommy 和模因股}{49}{subsection.1.12.1}%
+\contentsline {subsection}{\numberline {1.12.2}加密狂潮}{50}{subsection.1.12.2}%
+\contentsline {section}{\numberline {1.13}第十二章：2022年 --- FTX 的崩塌}{51}{section.1.13}%
+\contentsline {subsection}{\numberline {1.13.1}天才少年}{51}{subsection.1.13.1}%
+\contentsline {subsection}{\numberline {1.13.2}崩塌}{52}{subsection.1.13.2}%
+\contentsline {section}{\numberline {1.14}第十三章：2023年 --- 硅谷银行的48小时}{52}{section.1.14}%
+\contentsline {subsection}{\numberline {1.14.1}那条短信}{52}{subsection.1.14.1}%
+\contentsline {subsection}{\numberline {1.14.2}那48小时}{53}{subsection.1.14.2}%
+\contentsline {subsection}{\numberline {1.14.3}周日晚上}{53}{subsection.1.14.3}%
+\contentsline {section}{\numberline {1.15}第十四章：2024年 --- AI 时代}{54}{section.1.15}%
+\contentsline {subsection}{\numberline {1.15.1}ChatGPT}{54}{subsection.1.15.1}%
+\contentsline {subsection}{\numberline {1.15.2}收购}{54}{subsection.1.15.2}%
+\contentsline {subsection}{\numberline {1.15.3}交叉培训}{55}{subsection.1.15.3}%
+\contentsline {subsection}{\numberline {1.15.4}PIP}{56}{subsection.1.15.4}%
+\contentsline {subsection}{\numberline {1.15.5}尊严}{57}{subsection.1.15.5}%
+\contentsline {subsection}{\numberline {1.15.6}打给 Sarah}{58}{subsection.1.15.6}%
+\contentsline {subsection}{\numberline {1.15.7}英伟达}{58}{subsection.1.15.7}%
+\contentsline {section}{\numberline {1.16}第十五章：2025年 --- 现在}{59}{section.1.16}%
+\contentsline {subsection}{\numberline {1.16.1}咖啡馆}{59}{subsection.1.16.1}%
+\contentsline {subsection}{\numberline {1.16.2}账本}{60}{subsection.1.16.2}%
+\contentsline {subsection}{\numberline {1.16.3}妈妈的话}{60}{subsection.1.16.3}%
+\contentsline {section}{\numberline {1.17}尾声：给年轻人的话}{61}{section.1.17}%
+\contentsline {subsection}{\numberline {1.17.1}关于工作}{61}{subsection.1.17.1}%
+\contentsline {subsection}{\numberline {1.17.2}关于投资}{61}{subsection.1.17.2}%
+\contentsline {subsection}{\numberline {1.17.3}关于人生}{62}{subsection.1.17.3}%
+\contentsline {subsection}{\numberline {1.17.4}巴吞鲁日的圣诞节}{62}{subsection.1.17.4}%

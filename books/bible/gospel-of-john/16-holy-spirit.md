@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 聖靈的工作 (The Work of the Holy Spirit)
 
 約翰福音 16:1-33
@@ -25,19 +33,19 @@
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^7^「然而我把真情告訴你們，我去是對你們有益的。我若不去，保惠師就不會到你們這裏來；我若去，就會差他來。^8^他來了，就要叫世人為罪、為義、為審判，自己責備自己。」
+> \jesus{^7^「然而我把真情告訴你們，我去是對你們有益的。我若不去，保惠師就不會到你們這裏來；我若去，就會差他來。^8^他來了，就要叫世人為罪、為義、為審判，自己責備自己。」}
 
-> ^12^「我還有很多事要告訴你們，但你們現在擔當不了。^13^**只等真理的靈來了，他要引導你們進入一切的真理；因為他不是憑自己說的，而是把他所聽見的都說出來，並且要把將要來的事告訴你們。**^14^他要榮耀我，因為他要把從我領受的告訴你們。」
+> \jesus{^12^「我還有很多事要告訴你們，但你們現在擔當不了。^13^**只等真理的靈來了，他要引導你們進入一切的真理；因為他不是憑自己說的，而是把他所聽見的都說出來，並且要把將要來的事告訴你們。**^14^他要榮耀我，因為他要把從我領受的告訴你們。」}
 
-> ^20^「我實實在在地告訴你們，你們將要痛哭、哀號，世人倒要喜樂；你們將要憂愁，然而你們的憂愁要變為喜樂。^21^婦人生產的時候會有痛苦，因為她的時候到了；但生了孩子就不再記得那苦楚，因為歡喜世上生了一個人。^22^你們現在也是憂愁，但我會再見到你們，你們的心就會喜樂，這喜樂沒有人能奪去。」
+> \jesus{^20^「我實實在在地告訴你們，你們將要痛哭、哀號，世人倒要喜樂；你們將要憂愁，然而你們的憂愁要變為喜樂。^21^婦人生產的時候會有痛苦，因為她的時候到了；但生了孩子就不再記得那苦楚，因為歡喜世上生了一個人。^22^你們現在也是憂愁，但我會再見到你們，你們的心就會喜樂，這喜樂沒有人能奪去。」}
 
-> ^33^「我把這些事告訴了你們，是要使你們在我裏面有平安。**在世上你們有苦難，但你們要放心，我已經勝了世界。**」
+> \jesus{^33^「我把這些事告訴了你們，是要使你們在我裏面有平安。**在世上你們有苦難，但你們要放心，我已經勝了世界。**」}
 
 ### English — ESV
 
-> ^13^"When the Spirit of truth comes, he will guide you into all the truth."
+> ^13^\jesus{"When the Spirit of truth comes, he will guide you into all the truth."}
 
-> ^33^"I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world."
+> ^33^\jesus{"I have said these things to you, that in me you may have peace. In the world you will have tribulation. But take heart; I have overcome the world."}
 
 ---
 

@@ -13,7 +13,28 @@
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-pdf-working.sh:*)",
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-pdf-premium.sh:*)",
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-pdf-original.sh)",
-      "WebFetch(domain:ai-eden.com)"
+      "WebFetch(domain:ai-eden.com)",
+      "Bash(and Jesus Christ whom you have sent.\" - John 17:3\n\n榮耀 = 恩典 + 真理 \\(Glory = Grace + Truth\\)\n\n🤖 Generated with Claude Code \\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(pdfinfo:*)",
+      "Bash(for f in books/bible/gospel-of-john/[0-2]*.md)",
+      "Bash(for f in books/bible/gospel-of-matthew/[0-2]*.md)",
+      "Bash(mdls:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-matthew-pdf-original.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-nasb.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-nkjv.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-niv.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-john-translations-pdf.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-harmony-pdf.sh)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-professional.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-devotional.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-devotional.sh)",
+      "Bash(ln:*)",
+      "Bash(echo:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-liturgical.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-scholarly.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-harmony-liturgical.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-niv-study.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-macarthur.sh:*)"
     ]
   }
 }

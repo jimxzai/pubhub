@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 好牧人 (The Good Shepherd)
 
 約翰福音 10:1-42
@@ -29,27 +37,27 @@
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^「我實實在在地告訴你們，不從門進羊圈，倒從別處爬進去的，那人就是賊，就是強盜。^2^從門進去的才是羊的牧人。^3^看門的給他開門，羊也聽他的聲音。他按著名字叫自己的羊，把羊領出來。」
+> ^1^\jesus{「我實實在在地告訴你們，不從門進羊圈，倒從別處爬進去的，那人就是賊，就是強盜。^2^從門進去的才是羊的牧人。^3^看門的給他開門，羊也聽他的聲音。他按著名字叫自己的羊，把羊領出來。」}
 
-> ^7^所以，耶穌又對他們說：「我實實在在地告訴你們，**我就是羊的門。**^8^凡在我以先來的都是賊，都是強盜，羊卻不聽他們。^9^我就是門；凡從我進來的，必然得救，並且出入得草吃。」
+> ^7^所以，耶穌又對他們說：\jesus{「我實實在在地告訴你們，**我就是羊的門。**^8^凡在我以先來的都是賊，都是強盜，羊卻不聽他們。^9^我就是門；凡從我進來的，必然得救，並且出入得草吃。」}
 
-> ^10^「盜賊來，無非是要偷竊、殺害、毀壞；**我來了，是要羊得生命，並且得的更豐盛。**」
+> \jesus{^10^「盜賊來，無非是要偷竊、殺害、毀壞；**我來了，是要羊得生命，並且得的更豐盛。**」}
 
-> ^11^**「我是好牧人。好牧人為羊捨命。」**^12^雇工不是牧人，羊也不是他自己的，他看見狼來，就撇下羊逃跑；狼抓住羊，把羊趕散了。^13^雇工逃跑，因為他是雇工，並不顧念羊。^14^**我是好牧人，我認識我的羊，我的羊也認識我，**^15^正如父認識我，我也認識父一樣，並且我為羊捨命。
+> \jesus{^11^**「我是好牧人。好牧人為羊捨命。」**^12^雇工不是牧人，羊也不是他自己的，他看見狼來，就撇下羊逃跑；狼抓住羊，把羊趕散了。^13^雇工逃跑，因為他是雇工，並不顧念羊。^14^**我是好牧人，我認識我的羊，我的羊也認識我，**^15^正如父認識我，我也認識父一樣，並且我為羊捨命。}
 
-> ^16^我另外有羊，不是這羊圈裏的，我必須領他們來，他們也要聽我的聲音，並且要合成一群，歸一個牧人。
+> \jesus{^16^我另外有羊，不是這羊圈裏的，我必須領他們來，他們也要聽我的聲音，並且要合成一群，歸一個牧人。}
 
-> ^27^我的羊聽我的聲音，我也認識他們，他們也跟從我。^28^我又賜給他們永生；他們永不滅亡，誰也不能從我手裏把他們奪去。^29^我父把他們賜給我，他比萬有都大，誰也不能從我父手裏把他們奪去。^30^**我與父原為一。**
+> \jesus{^27^我的羊聽我的聲音，我也認識他們，他們也跟從我。^28^我又賜給他們永生；他們永不滅亡，誰也不能從我手裏把他們奪去。^29^我父把他們賜給我，他比萬有都大，誰也不能從我父手裏把他們奪去。^30^**我與父原為一。**}
 
 ### English — ESV
 
-> ^10^"The thief comes only to steal and kill and destroy. **I came that they may have life and have it abundantly.**"
+> ^10^\jesus{"The thief comes only to steal and kill and destroy. **I came that they may have life and have it abundantly.**"}
 
-> ^11^**"I am the good shepherd. The good shepherd lays down his life for the sheep."**
+> ^11^\jesus{**"I am the good shepherd. The good shepherd lays down his life for the sheep."**}
 
-> ^27^"My sheep hear my voice, and I know them, and they follow me. ^28^I give them eternal life, and they will never perish, and no one will snatch them out of my hand."
+> ^27^\jesus{"My sheep hear my voice, and I know them, and they follow me. ^28^I give them eternal life, and they will never perish, and no one will snatch them out of my hand."}
 
-> ^30^**"I and the Father are one."**
+> ^30^\jesus{**"I and the Father are one."**}
 
 ---
 

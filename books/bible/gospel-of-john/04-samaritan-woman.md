@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 撒瑪利亞婦人 (The Woman at the Well)
 
 約翰福音 4:1-42
@@ -27,23 +35,23 @@
 
 > ^5^於是耶穌來到撒瑪利亞的一座城，名叫敘加，靠近雅各給他兒子約瑟的那塊地。^6^雅各井就在那裏。耶穌因走路疲乏，就坐在井旁；那時約是正午。
 
-> ^7^有一個撒瑪利亞婦人來打水。耶穌對她說：「請給我水喝。」^8^那時門徒已經進城買食物去了。^9^撒瑪利亞婦人對他說：「你既是猶太人，怎麼向我一個撒瑪利亞女人要水喝呢？」——原來猶太人和撒瑪利亞人沒有來往。
+> ^7^有一個撒瑪利亞婦人來打水。耶穌對她說：\jesus{「請給我水喝。」}^8^那時門徒已經進城買食物去了。^9^撒瑪利亞婦人對他說：「你既是猶太人，怎麼向我一個撒瑪利亞女人要水喝呢？」——原來猶太人和撒瑪利亞人沒有來往。
 
-> ^10^耶穌回答她說：「你若知道神的恩賜，和對你說『給我水喝』的是誰，你早就會求他，他也早就會給了你活水。」
+> ^10^耶穌回答她說：\jesus{「你若知道神的恩賜，和對你說『給我水喝』的是誰，你早就會求他，他也早就會給了你活水。」}
 
-> ^13^耶穌回答：「凡喝這水的，還要再渴；^14^誰喝我所賜的水，就永遠不渴。我所賜的水要在他裏面成為泉源，直湧到永生。」
+> ^13^耶穌回答：\jesus{「凡喝這水的，還要再渴；^14^誰喝我所賜的水，就永遠不渴。我所賜的水要在他裏面成為泉源，直湧到永生。」}
 
-> ^23^那時將到，現在就是了，那真正敬拜父的，要用心靈和誠實敬拜他，因為父要這樣的人敬拜他。^24^**神是靈，所以敬拜他的必須用心靈和誠實敬拜他。**
+> \jesus{^23^「那時將到，現在就是了，那真正敬拜父的，要用心靈和誠實敬拜他，因為父要這樣的人敬拜他。^24^**神是靈，所以敬拜他的必須用心靈和誠實敬拜他。**」}
 
-> ^25^婦人對他說：「我知道彌賽亞——就是那稱為基督的——要來；他來了，會把一切的事都告訴我們。」^26^耶穌對她說：**「我就是，正在跟你說話呢！」**
+> ^25^婦人對他說：「我知道彌賽亞——就是那稱為基督的——要來；他來了，會把一切的事都告訴我們。」^26^耶穌對她說：\jesus{**「我就是，正在跟你說話呢！」**}
 
 ### English — ESV
 
-> ^14^"Whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life."
+> \jesus{^14^"Whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life."}
 
-> ^24^**"God is spirit, and those who worship him must worship in spirit and truth."**
+> \jesus{^24^**"God is spirit, and those who worship him must worship in spirit and truth."**}
 
-> ^26^Jesus said to her, **"I who speak to you am he."**
+> ^26^Jesus said to her, \jesus{**"I who speak to you am he."**}
 
 ---
 

@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 大祭司的禱告 (The High Priestly Prayer)
 
 約翰福音 17:1-26
@@ -23,23 +31,23 @@
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^耶穌說了這些話，就舉目望天說：「父啊，時候到了，願你榮耀你的兒子，使兒子也榮耀你；^2^正如你曾賜給他權柄管理凡血肉之軀的，使他把永生賜給你所賜給他的一切人。^3^**認識你獨一的真神，並且認識你所差來的耶穌基督，這就是永生。**」
+> ^1^耶穌說了這些話，就舉目望天說：\jesus{「父啊，時候到了，願你榮耀你的兒子，使兒子也榮耀你；^2^正如你曾賜給他權柄管理凡血肉之軀的，使他把永生賜給你所賜給他的一切人。^3^**認識你獨一的真神，並且認識你所差來的耶穌基督，這就是永生。**」}
 
-> ^11^「從今以後，我不再在世上，他們卻在世上；我要到你那裏去。**聖父啊，求你因你的名保守他們**，就是你所賜給我的名，使他們合而為一像我們一樣。」
+> \jesus{^11^「從今以後，我不再在世上，他們卻在世上；我要到你那裏去。**聖父啊，求你因你的名保守他們**，就是你所賜給我的名，使他們合而為一像我們一樣。」}
 
-> ^17^「求你用真理使他們成聖；**你的道就是真理。**」
+> \jesus{^17^「求你用真理使他們成聖；**你的道就是真理。**」}
 
-> ^20^「我不但為這些人祈求，也為那些藉著他們的話信我的人祈求，^21^**使他們都合而為一。正如父你在我裏面，我在你裏面，使他們也在我們裏面**，讓世人相信是你差我來的。」
+> \jesus{^20^「我不但為這些人祈求，也為那些藉著他們的話信我的人祈求，^21^**使他們都合而為一。正如父你在我裏面，我在你裏面，使他們也在我們裏面**，讓世人相信是你差我來的。」}
 
-> ^24^「父啊，我在哪裏，願你所賜給我的人也同我在哪裏，叫他們看見你所賜給我的榮耀。」
+> \jesus{^24^「父啊，我在哪裏，願你所賜給我的人也同我在哪裏，叫他們看見你所賜給我的榮耀。」}
 
 ### English — ESV
 
-> ^3^"And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."
+> ^3^\jesus{"And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."}
 
-> ^17^"Sanctify them in the truth; your word is truth."
+> ^17^\jesus{"Sanctify them in the truth; your word is truth."}
 
-> ^21^"That they may all be one, just as you, Father, are in me, and I in you, that they also may be in us."
+> ^21^\jesus{"That they may all be one, just as you, Father, are in me, and I in you, that they also may be in us."}
 
 ---
 

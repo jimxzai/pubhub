@@ -1,0 +1,774 @@
+% PubHub Gospel Devotional Template 2026 (Enhanced)
+% 6×9" Trade Paperback Edition with Full TikZ Graphics
+% Full CJK Bilingual + Red Letter Bible + Holy Land Maps
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany,twoside]{memoir}
+
+%% ============================================
+%% PAGE SIZE - 6×9" Trade Paperback (Memoir)
+%% ============================================
+\setstocksize{9in}{6in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+
+% Margins for 6×9" format with comfortable reading
+\setlrmarginsandblock{0.75in}{0.6in}{*}
+\setulmarginsandblock{0.7in}{0.8in}{*}
+\setheadfoot{0.4in}{0.4in}
+\setheaderspaces{*}{0.3in}{*}
+\checkandfixthelayout
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+%% ============================================
+%% COLOR SCHEME - Devotional Edition
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterBlue}{RGB}{25,55,95}        % Deep navy for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
+
+% RED LETTER BIBLE - Jesus's Words (ai-eden.com inspired)
+\definecolor{JesusRed}{RGB}{180,0,0}            % Deep red letter Bible red
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}       % Sea/river blue
+\definecolor{LandBeige}{RGB}{245,235,220}       % Land color
+\definecolor{MountainBrown}{RGB}{180,160,140}   % Mountain shading
+\definecolor{SeaDark}{RGB}{100,140,170}         % Deeper water
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{245,248,252}         % Light blue for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+\definecolor{SignsBg}{RGB}{255,250,240}         % Warm cream for signs box
+\definecolor{IAmBg}{RGB}{240,248,255}           % Light blue for I AM box
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Vine colors
+\definecolor{VineGreen}{RGB}{60,100,50}
+\definecolor{GrapesPurple}{RGB}{100,50,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing,patterns,shadows}
+
+%% ============================================
+%% RED LETTER BIBLE COMMAND
+%% ============================================
+% Command for Jesus's words - inspired by ai-eden.com
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
+
+%% ============================================
+%% VINE DECORATIONS
+%% ============================================
+
+% Simple vine decoration with leaves
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=VineGreen,line width=0.8pt,decorate,decoration={snake,amplitude=1.2pt,segment length=10pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.4,1.0,1.6,2.2,2.8} {
+    \pgfmathparse{\x < #1 ? 1 : 0}
+    \ifnum\pgfmathresult=1
+      \draw[color=VineGreen,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.18) and (\x+0.22,0.18) .. (\x+0.28,0.06);
+      \draw[color=VineGreen,line width=0.4pt] (\x+0.15,0.12) .. controls (\x+0.2,0.2) .. (\x+0.3,0.15);
+    \fi
+  }
+\end{tikzpicture}%
+}
+
+% Grape cluster decoration
+\newcommand{\grapecluster}{%
+\begin{tikzpicture}[scale=0.3]
+  % Stem
+  \draw[color=VineGreen,line width=0.8pt] (0,0.8) -- (0,0.4);
+  % Grapes
+  \foreach \x/\y in {0/0, -0.2/-0.25, 0.2/-0.25, -0.1/-0.5, 0.1/-0.5, 0/-0.75} {
+    \fill[color=GrapesPurple] (\x,\y) circle (0.12);
+  }
+  % Leaf
+  \draw[color=VineGreen,fill=VineGreen!30,line width=0.4pt]
+    (0.3,0.6) .. controls (0.5,0.8) and (0.6,0.6) .. (0.4,0.4)
+    .. controls (0.3,0.5) .. (0.3,0.6);
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Ornament line
+\newcommand{\ornamentline}{%
+  \begin{center}
+    \vspace{0.3em}
+    {\color{ScriptureGold}\rule{0.3\textwidth}{0.5pt}%
+    \hspace{0.5em}\ensuremath{\diamond}\hspace{0.5em}%
+    \rule{0.3\textwidth}{0.5pt}}
+    \vspace{0.3em}
+  \end{center}
+}
+
+%% ============================================
+%% SEVEN SIGNS BOX
+%% ============================================
+\newcommand{\sevensignsbox}{%
+\begin{tikzpicture}[scale=0.75]
+  % Background
+  \fill[SignsBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+  \draw[ScriptureGold,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+
+  % Title
+  \node[font=\large\bfseries,color=ChapterBlue] at (4.1,4.3) {七個神蹟 Seven Signs};
+
+  % Divider
+  \draw[ScriptureGold,line width=0.8pt] (0.2,3.9) -- (8,3.9);
+
+  % Signs list
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {1. 水變酒 Water to Wine (2:1-11)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {2. 醫大臣之子 Healing Official's Son (4:46-54)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {3. 醫畢士大池旁病人 Healing at Bethesda (5:1-15)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {4. 五餅二魚 Feeding 5,000 (6:1-14)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.5) {5. 海面行走 Walking on Water (6:16-21)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.0) {6. 醫生來瞎眼的人 Healing Man Born Blind (9:1-41)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.5) {7. 拉撒路復活 Raising Lazarus (11:1-44)};
+
+  % Decorative grape
+  \node at (7.8,0.5) {\grapecluster};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% SEVEN "I AM" STATEMENTS BOX
+%% ============================================
+\newcommand{\seveniambox}{%
+\begin{tikzpicture}[scale=0.75]
+  % Background
+  \fill[IAmBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+  \draw[ChapterBlue,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+
+  % Title
+  \node[font=\large\bfseries,color=JesusRed] at (4.1,4.3) {七個「我是」 Seven "I AM"};
+
+  % Divider
+  \draw[ChapterBlue,line width=0.8pt] (0.2,3.9) -- (8,3.9);
+
+  % I AM statements
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {1. 生命的糧 Bread of Life (6:35)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {2. 世界的光 Light of the World (8:12)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {3. 羊的門 Door of the Sheep (10:7)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {4. 好牧人 Good Shepherd (10:11)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.5) {5. 復活和生命 Resurrection and Life (11:25)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.0) {6. 道路、真理、生命 Way, Truth, Life (14:6)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.5) {7. 真葡萄樹 True Vine (15:1)};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% GOSPEL STRUCTURE DIAGRAM
+%% ============================================
+\newcommand{\gospelstructure}{%
+\begin{tikzpicture}[scale=0.85]
+  % Title
+  \node[font=\large\bfseries,color=ChapterBlue] at (5,5.5) {約翰福音結構 Gospel of John Structure};
+
+  % Boxes
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners=5pt,
+        minimum width=2.2cm,minimum height=0.8cm,font=\small\bfseries,
+        drop shadow={opacity=0.3}] (prologue) at (1,4) {序言 Prologue};
+  \node[font=\tiny,color=LightGray] at (1,3.4) {1:1-18};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners=5pt,
+        minimum width=2.5cm,minimum height=0.8cm,font=\small\bfseries,
+        drop shadow={opacity=0.3}] (public) at (4,4) {公開事工 Public};
+  \node[font=\tiny,color=LightGray] at (4,3.4) {1:19-12:50};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners=5pt,
+        minimum width=2.5cm,minimum height=0.8cm,font=\small\bfseries,
+        drop shadow={opacity=0.3}] (private) at (7,4) {私下教導 Private};
+  \node[font=\tiny,color=LightGray] at (7,3.4) {13-17};
+
+  \node[draw=JesusRed,fill=ScriptureBg,rounded corners=5pt,
+        minimum width=3cm,minimum height=0.8cm,font=\small\bfseries,
+        drop shadow={opacity=0.3}] (passion) at (5,1.8) {受難與復活 Passion};
+  \node[font=\tiny,color=LightGray] at (5,1.2) {18-21};
+
+  % Arrows
+  \draw[->,color=ScriptureGold,line width=1.2pt] (prologue) -- (public);
+  \draw[->,color=ScriptureGold,line width=1.2pt] (public) -- (private);
+  \draw[->,color=JesusRed,line width=1.2pt] (private.south) -- ++(0,-0.5) -| (passion.north);
+
+  % Key themes
+  \node[font=\tiny,color=CommentaryBrown] at (1,2.5) {道成肉身};
+  \node[font=\tiny,color=CommentaryBrown] at (4,2.5) {神蹟與論述};
+  \node[font=\tiny,color=CommentaryBrown] at (7,2.5) {臨別講論};
+  \node[font=\tiny,color=JesusRed] at (5,0.6) {榮耀的高峰};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HOLY LAND MAP (Full Page)
+%% ============================================
+\newcommand{\holylandmap}{%
+\begin{tikzpicture}[scale=1.0]
+  % Background - Land
+  \fill[LandBeige] (0,0) rectangle (10,12);
+
+  % Mediterranean Sea
+  \fill[WaterBlue] (-0.5,0) rectangle (1.8,12);
+  \draw[SeaDark,line width=0.8pt] (1.8,0) -- (1.8,12);
+  \node[font=\normalsize,color=ChapterBlue,rotate=90] at (0.6,6) {Mediterranean Sea 地中海};
+
+  % Sea of Galilee
+  \fill[WaterBlue] (6.2,9.2) ellipse (1 and 1.3);
+  \draw[SeaDark,line width=0.5pt] (6.2,9.2) ellipse (1 and 1.3);
+  \node[font=\small,color=white] at (6.2,9.4) {Sea of Galilee};
+  \node[font=\small,color=white] at (6.2,8.9) {加利利海};
+
+  % Jordan River
+  \draw[WaterBlue,line width=2.5pt] (6.2,7.9)
+    .. controls (5.8,7) and (6.3,6) .. (6,5)
+    .. controls (5.7,4) and (6.2,3) .. (6,2);
+  \node[font=\footnotesize,color=SeaDark,rotate=-75] at (5.4,5.5) {Jordan River 約旦河};
+
+  % Dead Sea
+  \fill[WaterBlue!70!SeaDark] (6,1) ellipse (0.7 and 0.9);
+  \draw[SeaDark,line width=0.5pt] (6,1) ellipse (0.7 and 0.9);
+  \node[font=\small,color=white] at (6,1.1) {Dead Sea};
+  \node[font=\small,color=white] at (6,0.6) {死海};
+
+  % Mountain regions (shading)
+  \fill[MountainBrown!25] (7.5,6) ellipse (1.6 and 2.2);
+  \fill[MountainBrown!20] (3.5,7.5) ellipse (1.1 and 1.6);
+
+  % ========== KEY LOCATIONS ==========
+
+  % Cana - Wedding miracle
+  \fill[ScriptureGold] (4.8,10.5) circle (0.16);
+  \draw[ScriptureGold,line width=0.8pt] (4.8,10.5) circle (0.23);
+  \node[font=\normalsize\bfseries,right,color=ChapterBlue] at (5.1,10.5) {Cana 迦拿};
+  \node[font=\footnotesize,right,color=TextGray] at (5.1,10.1) {Water to Wine 水變酒 (2:1-11)};
+
+  % Capernaum
+  \fill[ScriptureGold] (6.7,10.3) circle (0.16);
+  \draw[ScriptureGold,line width=0.8pt] (6.7,10.3) circle (0.23);
+  \node[font=\normalsize\bfseries,right,color=ChapterBlue] at (7,10.3) {Capernaum};
+  \node[font=\footnotesize,right,color=TextGray] at (7,9.9) {迦百農 (4:46, 6:59)};
+
+  % Nazareth
+  \fill[ScriptureGold] (3.8,9.5) circle (0.14);
+  \node[font=\small,left,color=ChapterBlue] at (3.6,9.5) {Nazareth 拿撒勒};
+
+  % Bethsaida
+  \fill[ScriptureGold] (7.1,9.5) circle (0.12);
+  \node[font=\footnotesize,right,color=TextGray] at (7.3,9.5) {Bethsaida 伯賽大};
+
+  % Sychar (Samaria)
+  \fill[ScriptureGold] (5.5,7) circle (0.16);
+  \draw[ScriptureGold,line width=0.8pt] (5.5,7) circle (0.23);
+  \node[font=\normalsize\bfseries,left,color=ChapterBlue] at (5.2,7) {Sychar 敘加};
+  \node[font=\footnotesize,left,color=TextGray] at (5.2,6.6) {Samaritan Woman (4:5)};
+
+  % Bethany beyond Jordan
+  \fill[ScriptureGold] (7.2,4.8) circle (0.14);
+  \node[font=\footnotesize,right,color=TextGray] at (7.4,4.8) {Bethany beyond Jordan};
+  \node[font=\footnotesize,right,color=TextGray] at (7.4,4.4) {約旦河外伯大尼 (1:28)};
+
+  % Bethany near Jerusalem
+  \fill[ScriptureGold] (6.8,3.4) circle (0.16);
+  \draw[ScriptureGold,line width=0.8pt] (6.8,3.4) circle (0.23);
+  \node[font=\normalsize\bfseries,right,color=ChapterBlue] at (7.1,3.4) {Bethany 伯大尼};
+  \node[font=\footnotesize,right,color=TextGray] at (7.1,3) {Lazarus Raised (11:1-44)};
+
+  % JERUSALEM - Central focus
+  \fill[JesusRed] (5.5,3.8) circle (0.22);
+  \draw[JesusRed,line width=1.5pt] (5.5,3.8) circle (0.32);
+  \node[font=\Large\bfseries,left,color=JesusRed] at (5.1,3.8) {JERUSALEM};
+  \node[font=\normalsize,left,color=JesusRed] at (5.1,3.3) {耶路撒冷};
+  \node[font=\footnotesize,left,color=TextGray] at (5.1,2.9) {Temple, Bethesda, Siloam};
+  \node[font=\footnotesize,left,color=TextGray] at (5.1,2.5) {Passion \& Resurrection};
+
+  % Bethlehem
+  \fill[ScriptureGold] (5,3.1) circle (0.12);
+  \node[font=\footnotesize,left,color=TextGray] at (4.8,3.1) {Bethlehem 伯利恆};
+
+  % ========== COMPASS ==========
+  \draw[->,very thick,color=ChapterBlue] (9,10.5) -- (9,11.3);
+  \draw[->,thick,color=ChapterBlue] (8.5,10.5) -- (9.5,10.5);
+  \node[font=\normalsize\bfseries,color=ChapterBlue] at (9,11.6) {N};
+
+  % ========== SCALE ==========
+  \draw[very thick,color=TextGray] (2.5,0.5) -- (4.5,0.5);
+  \draw[thick,color=TextGray] (2.5,0.35) -- (2.5,0.65);
+  \draw[thick,color=TextGray] (4.5,0.35) -- (4.5,0.65);
+  \node[font=\small,color=TextGray] at (3.5,0.15) {50 km / 30 miles};
+
+  % ========== LEGEND ==========
+  \fill[ScriptureBg,rounded corners=3pt] (0.3,10.8) rectangle (3,12.1);
+  \draw[ScriptureGold,line width=0.8pt,rounded corners=3pt] (0.3,10.8) rectangle (3,12.1);
+  \node[font=\small\bfseries,color=ChapterBlue] at (1.65,11.8) {Legend 圖例};
+  \fill[JesusRed] (0.6,11.45) circle (0.1);
+  \node[font=\footnotesize,right,color=TextGray] at (0.8,11.45) {Jerusalem};
+  \fill[ScriptureGold] (0.6,11.1) circle (0.08);
+  \node[font=\footnotesize,right,color=TextGray] at (0.8,11.1) {Key Location};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfauthor={PubHub Three Books Project},
+  pdftitle={Gospel Devotional 2026},
+  pdfsubject={Gospel of John Study}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% MEMOIR CHAPTER STYLE
+%% ============================================
+\makechapterstyle{devotional}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapnamefont}{\normalfont\large\bfseries\color{ChapterBlue}}
+  \renewcommand*{\chapnumfont}{\normalfont\huge\bfseries\color{ScriptureGold}}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\bfseries\color{ChapterBlue}}
+  \renewcommand*{\printchaptername}{\centering\chapnamefont Chapter}
+  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering\chaptitlefont ##1\par
+    \vskip 8pt
+    {\color{ScriptureGold}\rule{3in}{1.5pt}}
+  }
+  \setlength{\beforechapskip}{20pt}
+  \setlength{\afterchapskip}{25pt}
+}
+\chapterstyle{devotional}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\setsecheadstyle{\normalfont\large\bfseries\color{ChapterBlue}}
+\setsubsecheadstyle{\normalfont\normalsize\bfseries\color{CommentaryBrown}}
+\setsubsubsecheadstyle{\normalfont\normalsize\bfseries\color{TextGray}}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\makepagestyle{devotional}
+\makeevenhead{devotional}{\small\thepage}{}{\small\itshape\color{LightGray}\leftmark}
+\makeoddhead{devotional}{\small\itshape\color{LightGray}\rightmark}{}{\small\thepage}
+\makeheadrule{devotional}{\textwidth}{\normalrulethickness}
+\makeevenfoot{devotional}{}{}{}
+\makeoddfoot{devotional}{}{}{}
+\pagestyle{devotional}
+
+% Plain style for chapter pages
+\makepagestyle{plain}
+\makeevenfoot{plain}{}{\small\thepage}{}
+\makeoddfoot{plain}{}{\small\thepage}{}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.4\baselineskip}%
+  \list{}{%
+    \leftmargin=0.6em
+    \rightmargin=0.3em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.4\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Half title page
+\begin{center}
+\vspace*{1.8in}
+{\Huge\bfseries\color{ChapterBlue} 耶穌基督完整生平}\\[0.3cm]
+{\Large\itshape\color{LightGray} The Complete Life of Jesus Christ}
+\vfill
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{center}
+\vspace*{0.25in}
+
+% Decorative header
+\grapecluster\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{1pt}}\hspace{0.2cm}\grapecluster
+
+\vspace{0.35cm}
+
+% Main title
+{\fontsize{26}{32}\selectfont\bfseries\color{ChapterBlue} 耶穌基督完整生平}\\[0.15cm]
+{\large\itshape\color{LightGray} The Complete Life of Jesus Christ}
+
+\vspace{0.4cm}
+
+% Subtitle
+{\fontsize{14}{20}\selectfont\bfseries 四福音合參研讀}\\[0.1cm]
+{\normalsize A Gospel Harmony Study}
+
+\vspace{0.35cm}
+
+% Key verse box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.2in}
+\centering
+\vspace{0.2cm}
+\small\itshape\color{CommentaryBrown}
+「認識你——獨一的真神，並且認識你所差來的耶穌基督，這就是永生。」\\[0.08em]
+\footnotesize "And this is eternal life, that they know you, the only true God,\\
+and Jesus Christ whom you have sent." — John 17:3
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Gospel Harmony Structure Diagram (6 parts)
+\begin{tikzpicture}[scale=0.48]
+  \node[font=\small\bfseries,color=ChapterBlue] at (0,3) {Gospel Harmony Structure (34 Chapters)};
+
+  % Part 1: Prologue
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=1.2cm,minimum height=0.3cm,font=\tiny] at (-3.5,1.8) {Prologue};
+  \node[font=\tiny,color=LightGray] at (-3.5,1.45) {Ch 1};
+
+  % Part 2: Incarnation
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.2cm,minimum height=0.3cm,font=\tiny] at (-1.8,1.8) {Incarnation};
+  \node[font=\tiny,color=LightGray] at (-1.8,1.45) {Ch 2-4};
+
+  % Part 3: Ministry
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.2cm,minimum height=0.3cm,font=\tiny] at (0,1.8) {Ministry};
+  \node[font=\tiny,color=LightGray] at (0,1.45) {Ch 5-21};
+
+  % Part 4: Final Week
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.2cm,minimum height=0.3cm,font=\tiny] at (1.8,1.8) {Final Week};
+  \node[font=\tiny,color=LightGray] at (1.8,1.45) {Ch 22-29};
+
+  % Part 5: Passion
+  \node[draw=JesusRed,fill=ScriptureBg,rounded corners,minimum width=1.2cm,minimum height=0.3cm,font=\tiny] at (3.5,1.8) {Passion};
+  \node[font=\tiny,color=LightGray] at (3.5,1.45) {Ch 30-31};
+
+  % Part 6: Resurrection
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.3cm,font=\tiny] at (0,0.5) {Resurrection};
+  \node[font=\tiny,color=LightGray] at (0,0.15) {Ch 32-34};
+
+  \draw[->,color=ScriptureGold,thick] (-2.8,1.8) -- (-2.4,1.8);
+  \draw[->,color=ScriptureGold,thick] (-1.1,1.8) -- (-0.7,1.8);
+  \draw[->,color=ScriptureGold,thick] (0.7,1.8) -- (1.1,1.8);
+  \draw[->,color=ScriptureGold,thick] (2.5,1.8) -- (2.9,1.8);
+  \draw[->,color=JesusRed,thick] (0,1.2) -- (0,0.85);
+\end{tikzpicture}
+
+\vfill
+
+% Equation
+{\normalsize\color{ScriptureGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.06cm]
+{\footnotesize\color{LightGray} Glory = Grace + Truth (John 1:14)}
+
+\vspace{0.35cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.2cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.08cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.25cm}
+\crosssymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\crosssymbol
+
+\end{center}
+\cleardoublepage
+
+% Full-page Holy Land Map
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.15in}
+{\Large\bfseries\color{ChapterBlue} 耶穌生平重要地點}\\[0.08cm]
+{\normalsize Key Locations in the Life of Jesus}
+
+\vspace{0.2cm}
+
+\holylandmap
+
+\vspace{0.15cm}
+{\footnotesize\color{LightGray} \jesus{「我就是道路、真理、生命。」}— 約翰福音 14:6}
+\end{center}
+\cleardoublepage
+
+% Gospel Harmony Overview page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.25in}
+{\Large\bfseries\color{ChapterBlue} 四福音合參概覽}\\[0.08cm]
+{\normalsize Gospel Harmony Overview}
+
+\vspace{0.4cm}
+
+% Four Gospels Box
+\begin{tikzpicture}[scale=0.75]
+  \fill[SignsBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+  \draw[ScriptureGold,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+
+  \node[font=\large\bfseries,color=ChapterBlue] at (4.1,4.3) {四福音書 The Four Gospels};
+  \draw[ScriptureGold,line width=0.8pt] (0.2,3.9) -- (8,3.9);
+
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {馬太福音 Matthew — 君王基督 The King};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {馬可福音 Mark — 僕人基督 The Servant};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {路加福音 Luke — 人子基督 The Son of Man};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {約翰福音 John — 神子基督 The Son of God};
+
+  \draw[ChapterBlue,line width=0.5pt] (0.2,1.6) -- (8,1.6);
+
+  \node[font=\small,anchor=west,color=CommentaryBrown] at (0.2,1.2) {本書整合四福音書，呈現耶穌基督完整生平};
+  \node[font=\small,anchor=west,color=CommentaryBrown] at (0.2,0.7) {34章，從道成肉身到升天，榮耀的救贖故事};
+\end{tikzpicture}
+
+\vspace{0.35cm}
+
+\seveniambox
+
+\vfill
+
+{\footnotesize\color{CommentaryBrown}\itshape
+「認識你——獨一的真神，並且認識你所差來的耶穌基督，這就是永生。」\\[0.08em]
+\footnotesize "And this is eternal life, that they know you, the only true God,\\
+and Jesus Christ whom you have sent." — John 17:3}
+
+\vspace{0.25cm}
+\ornamentline
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{耶穌基督完整生平：四福音合參研讀}\\
+\textbf{The Complete Life of Jesus Christ: A Gospel Harmony Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{四福音來源 / Gospel Sources}\\
+\textbullet\ 馬太福音 Matthew — 君王基督\\
+\textbullet\ 馬可福音 Mark — 僕人基督\\
+\textbullet\ 路加福音 Luke — 人子基督\\
+\textbullet\ 約翰福音 John — 神子基督\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur — Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan — \textit{The Crises of the Christ}\\[0.8em]
+
+\textbf{Red Letter Bible}\\
+本書採用紅字聖經格式，以\textcolor{JesusRed}{紅色斜體}標示耶穌的話語。\\
+This edition uses Red Letter format with Jesus's words in \textcolor{JesusRed}{\textit{red italics}}.\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
+
+6×9" Trade Paperback Edition — 34 Chapters\\
+PubHub Publishing 2026
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{devotional}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+% Final page
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\grapecluster
+
+\vspace{0.4cm}
+
+{\Large\color{ScriptureGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.15cm]
+{\normalsize\color{LightGray} Glory = Grace + Truth}
+
+\vspace{0.4cm}
+
+{\small\color{CommentaryBrown}\itshape
+「認識你——獨一的真神，\\
+並且認識你所差來的耶穌基督，\\
+這就是永生。」\\[0.1em]
+— 約翰福音 17:3}
+
+\vspace{0.25cm}
+
+{\footnotesize\color{LightGray}
+"And this is eternal life, that they know you,\\
+the only true God, and Jesus Christ whom you have sent."\\
+— John 17:3}
+
+\vspace{0.6cm}
+
+\crosssymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\crosssymbol
+\end{center}
+\vspace*{\fill}
+
+\end{document}

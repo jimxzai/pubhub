@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 第一個神蹟：迦拿婚宴 (The First Sign: Wedding at Cana)
 
 約翰福音 2:1-12
@@ -20,9 +28,9 @@
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^第三日，在加利利的迦拿有一個婚宴，耶穌的母親在那裏。^2^耶穌和他的門徒也被邀請參加婚宴。^3^酒用盡了，耶穌的母親對他說：「他們沒有酒了。」^4^耶穌對她說：「母親，我與你何干呢？我的時候還沒有到。」^5^他母親對僕人說：「他吩咐你們甚麼，你們就做甚麼。」
+> ^1^第三日，在加利利的迦拿有一個婚宴，耶穌的母親在那裏。^2^耶穌和他的門徒也被邀請參加婚宴。^3^酒用盡了，耶穌的母親對他說：「他們沒有酒了。」^4^耶穌對她說：\jesus{「母親，我與你何干呢？我的時候還沒有到。」}^5^他母親對僕人說：「他吩咐你們甚麼，你們就做甚麼。」
 
-> ^6^照猶太人潔淨的規矩，有六口石缸擺在那裏，每口可以盛兩三桶水。^7^耶穌對僕人說：「把缸倒滿了水。」他們就倒滿了，直到缸口。^8^耶穌又對他們說：「現在可以舀出來，送給管宴席的。」他們就送了去。
+> ^6^照猶太人潔淨的規矩，有六口石缸擺在那裏，每口可以盛兩三桶水。^7^耶穌對僕人說：\jesus{「把缸倒滿了水。」}他們就倒滿了，直到缸口。^8^耶穌又對他們說：\jesus{「現在可以舀出來，送給管宴席的。」}他們就送了去。
 
 > ^9^管宴席的嘗了那變成酒的水，並不知道是從哪裏來的，只有舀水的僕人知道；管宴席的就叫新郎來，^10^對他說：「人家都是先擺上好酒，等客人喝醉了才擺上次等的，你倒把好酒留到現在！」
 
@@ -30,9 +38,9 @@
 
 ### English — ESV
 
-> ^1^On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. ^2^Jesus also was invited to the wedding with his disciples. ^3^When the wine ran out, the mother of Jesus said to him, "They have no wine." ^4^And Jesus said to her, "Woman, what does this have to do with me? My hour has not yet come." ^5^His mother said to the servants, "Do whatever he tells you."
+> ^1^On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. ^2^Jesus also was invited to the wedding with his disciples. ^3^When the wine ran out, the mother of Jesus said to him, "They have no wine." ^4^And Jesus said to her, \jesus{"Woman, what does this have to do with me? My hour has not yet come."} ^5^His mother said to the servants, "Do whatever he tells you."
 
-> ^6^Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. ^7^Jesus said to the servants, "Fill the jars with water." And they filled them up to the brim. ^8^And he said to them, "Now draw some out and take it to the master of the feast." So they took it.
+> ^6^Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. ^7^Jesus said to the servants, \jesus{"Fill the jars with water."} And they filled them up to the brim. ^8^And he said to them, \jesus{"Now draw some out and take it to the master of the feast."} So they took it.
 
 > ^9^When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom ^10^and said to him, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now."
 

@@ -1,3 +1,11 @@
+---
+title: 約翰福音研讀
+subtitle: Gospel of John Deep Study
+author: PubHub 三書精讀系統
+date: 2025年12月
+publisher: 三書精讀出版系統
+---
+
 # 十字架 (The Crucifixion)
 
 約翰福音 19:1-42
@@ -39,9 +47,9 @@
 
 > ^19^彼拉多又寫了一個牌子，釘在十字架上，寫的是：**「猶太人的王，拿撒勒人耶穌」**。
 
-> ^28^這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，他說：「我渴了。」
+> ^28^這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，他說：\jesus{「我渴了。」}
 
-> ^30^耶穌嘗了那醋，說：**「成了！」**便低下頭，把靈魂交付神了。
+> ^30^耶穌嘗了那醋，說：\jesus{**「成了！」**}便低下頭，把靈魂交付神了。
 
 > ^34^然而有一個士兵拿槍扎他的肋旁，立刻有血和水流出來。
 
@@ -51,7 +59,7 @@
 
 > ^19^Pilate also wrote an inscription and put it on the cross. It read, **"Jesus of Nazareth, the King of the Jews."**
 
-> ^30^When Jesus had received the sour wine, he said, **"It is finished,"** and he bowed his head and gave up his spirit.
+> ^30^When Jesus had received the sour wine, he said, \jesus{**"It is finished,"**} and he bowed his head and gave up his spirit.
 
 ---
 

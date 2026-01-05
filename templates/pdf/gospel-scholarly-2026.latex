@@ -1,0 +1,992 @@
+% ============================================================================
+% PubHub Gospel Scholarly Template 2026 - Critical Edition
+% 7×10" Academic Size with Apparatus Criticus, Manuscript Diagrams
+% Full CJK Bilingual + Red Letter Bible + Scholarly Charts
+% Requires XeLaTeX for CJK support
+% ============================================================================
+
+\documentclass[11pt,twoside,openright]{memoir}
+
+%% ============================================
+%% PAGE SIZE - 7×10" Academic/Scholarly
+%% ============================================
+\setstocksize{10in}{7in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+
+% Academic margins with space for marginal notes
+\setlrmarginsandblock{1in}{0.75in}{*}
+\setulmarginsandblock{0.875in}{1in}{*}
+\setheadfoot{0.5in}{0.5in}
+\setheaderspaces{*}{0.3in}{*}
+\checkandfixthelayout
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+% Main CJK fonts
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.2}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+%% ============================================
+%% COLOR SCHEME - Scholarly Edition
+%% ============================================
+\usepackage{xcolor}
+
+% Primary scholarly colors
+\definecolor{ScholarBlue}{RGB}{25,45,85}
+\definecolor{ScholarGray}{RGB}{80,80,80}
+\definecolor{ScholarRed}{RGB}{140,20,20}
+\definecolor{ApparatusGray}{RGB}{100,100,100}
+
+% RED LETTER BIBLE - Jesus's Words
+\definecolor{JesusRed}{RGB}{180,0,0}
+
+% Manuscript colors
+\definecolor{PapyrusColor}{RGB}{210,180,140}
+\definecolor{UncialColor}{RGB}{139,90,43}
+\definecolor{MinusculeColor}{RGB}{85,107,47}
+\definecolor{VersionColor}{RGB}{70,130,180}
+
+% Text-type colors
+\definecolor{Alexandrian}{RGB}{0,100,0}
+\definecolor{Western}{RGB}{180,0,0}
+\definecolor{Byzantine}{RGB}{128,0,128}
+\definecolor{Caesarean}{RGB}{255,140,0}
+
+% Map colors
+\definecolor{MapWater}{RGB}{173,216,230}
+\definecolor{MapLand}{RGB}{245,235,220}
+\definecolor{SeaDark}{RGB}{100,140,170}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}
+\definecolor{GreekBg}{RGB}{245,248,252}
+\definecolor{NoteBg}{RGB}{255,253,245}
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{
+  shapes,
+  shapes.geometric,
+  shapes.symbols,
+  arrows,
+  arrows.meta,
+  positioning,
+  fit,
+  backgrounds,
+  calc,
+  decorations.pathmorphing,
+  decorations.pathreplacing,
+  decorations.markings,
+  patterns,
+  trees,
+  shadows
+}
+
+%% ============================================
+%% RED LETTER BIBLE COMMAND
+%% ============================================
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
+
+%% ============================================
+%% SCHOLARLY COMMANDS
+%% ============================================
+
+% Verse numbering
+\newcommand{\vs}[1]{\textsuperscript{\textbf{\color{ScholarRed}#1}}\,}
+
+% Chapter number
+\newcommand{\chnum}[1]{%
+  \noindent{\LARGE\bfseries\color{ScholarBlue}#1}\quad%
+}
+
+% Manuscript sigla
+\newcommand{\ms}[1]{\textsc{#1}}
+
+% Greek text
+\newcommand{\gk}[1]{\textit{#1}}
+
+% Hebrew text
+\newcommand{\hb}[1]{\textit{#1}}
+
+% Latin text
+\newcommand{\lat}[1]{\textit{#1}}
+
+% Textual note marker
+\newcommand{\txtvar}[1]{\textsuperscript{\dag#1}}
+
+% Apparatus footnote style
+\newcommand{\apparatus}[1]{%
+  \footnote{\footnotesize\color{ApparatusGray}#1}%
+}
+
+% Section divider
+\newcommand{\sectiondiv}{%
+  \vspace{0.5em}
+  \noindent\hfil\rule{0.3\textwidth}{0.4pt}\hfil
+  \vspace{0.5em}
+}
+
+% Ornament divider
+\newcommand{\ornamentdiv}{%
+  \begin{center}
+    \vspace{0.3em}
+    {\color{ScholarBlue}\rule{0.25\textwidth}{0.5pt}%
+    \hspace{0.5em}\ensuremath{\diamond}\hspace{0.5em}%
+    \rule{0.25\textwidth}{0.5pt}}
+    \vspace{0.3em}
+  \end{center}
+}
+
+%% ============================================
+%% MANUSCRIPT FAMILY TREE (STEMMA)
+%% ============================================
+\newcommand{\stemmadiagram}{%
+\begin{tikzpicture}[
+  scale=0.85,
+  transform shape,
+  every node/.style={font=\footnotesize},
+  autograph/.style={circle, draw=ScholarBlue, fill=ScholarBlue!20, minimum size=22pt, font=\footnotesize\bfseries},
+  papyrus/.style={circle, draw=PapyrusColor!80!black, fill=PapyrusColor!40, minimum size=18pt},
+  uncial/.style={circle, draw=UncialColor, fill=UncialColor!30, minimum size=18pt},
+  minuscule/.style={circle, draw=MinusculeColor, fill=MinusculeColor!30, minimum size=16pt},
+  version/.style={rectangle, draw=VersionColor, fill=VersionColor!20, minimum width=22pt, minimum height=16pt},
+  texttype/.style={rectangle, rounded corners, draw, minimum width=55pt, minimum height=18pt, font=\footnotesize\scshape}
+]
+
+  % Autograph at top
+  \node[autograph] (auto) at (5,9.5) {A};
+  \node[above=2pt of auto, font=\tiny\itshape] {Autograph 原本};
+
+  % Early transmission (lost)
+  \node[font=\tiny, text=ScholarGray] at (5,8.5) {(lost ancestors 失傳抄本)};
+
+  % Text-type branches
+  \node[texttype, fill=Alexandrian!20, draw=Alexandrian] (alex) at (2,7) {Alexandrian 亞歷山大};
+  \node[texttype, fill=Western!20, draw=Western] (west) at (5,7) {Western 西方};
+  \node[texttype, fill=Byzantine!20, draw=Byzantine] (byz) at (8,7) {Byzantine 拜占庭};
+
+  % Draw connections to text-types
+  \draw[dashed, gray] (auto) -- (alex);
+  \draw[dashed, gray] (auto) -- (west);
+  \draw[dashed, gray] (auto) -- (byz);
+
+  % Alexandrian witnesses
+  \node[papyrus] (p66) at (0.5,5.5) {P\textsuperscript{66}};
+  \node[papyrus] (p75) at (1.5,5.5) {P\textsuperscript{75}};
+  \node[uncial] (B) at (1,4.3) {B};
+  \node[uncial] (aleph) at (2.5,4.3) {$$\aleph$$};
+  \node[uncial] (C) at (2,3.2) {C};
+
+  \draw[Alexandrian!60] (alex) -- (p66);
+  \draw[Alexandrian!60] (alex) -- (p75);
+  \draw[Alexandrian!60] (p75) -- (B);
+  \draw[Alexandrian!60] (p66) -- (aleph);
+  \draw[Alexandrian!60] (B) -- (C);
+
+  % Western witnesses
+  \node[uncial] (D) at (4.5,5) {D};
+  \node[version] (it) at (4,3.8) {\textit{it}};
+  \node[version] (sy) at (5.5,3.8) {\textit{sy}};
+
+  \draw[Western!60] (west) -- (D);
+  \draw[Western!60] (D) -- (it);
+  \draw[Western!60] (west) -- (sy);
+
+  % Byzantine witnesses
+  \node[uncial] (A) at (7,5) {A};
+  \node[uncial] (E) at (8,5) {E};
+  \node[minuscule] (min) at (7.5,3.8) {min};
+  \node[font=\tiny] at (8.5,3.8) {(majority)};
+
+  \draw[Byzantine!60] (byz) -- (A);
+  \draw[Byzantine!60] (byz) -- (E);
+  \draw[Byzantine!60] (A) -- (min);
+
+  % Legend
+  \node[font=\scriptsize\bfseries] at (5,1.8) {LEGEND 圖例};
+  \draw (3,1.4) -- (7,1.4);
+
+  \node[papyrus, minimum size=10pt] at (3.3,0.9) {};
+  \node[font=\tiny, right] at (3.5,0.9) {Papyrus 蒲草紙 (2nd--3rd c.)};
+
+  \node[uncial, minimum size=10pt] at (3.3,0.4) {};
+  \node[font=\tiny, right] at (3.5,0.4) {Uncial 大楷體 (4th--9th c.)};
+
+  \node[minuscule, minimum size=10pt] at (6,0.9) {};
+  \node[font=\tiny, right] at (6.2,0.9) {Minuscule 小楷體};
+
+  \node[version, minimum size=10pt] at (6,0.4) {};
+  \node[font=\tiny, right] at (6.2,0.4) {Version 譯本};
+
+  % Title
+  \node[font=\normalsize\bfseries, text=ScholarBlue] at (5,10.5) {STEMMA OF NT MANUSCRIPTS 新約抄本譜系};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% TEXTUAL TRANSMISSION TIMELINE
+%% ============================================
+\newcommand{\transmissiontimeline}{%
+\begin{tikzpicture}[scale=0.7, transform shape]
+  % Main timeline
+  \draw[line width=2pt, ScholarBlue!60] (0,0) -- (13,0);
+
+  % Century markers
+  \foreach \x/\century in {0/1st, 2/2nd, 4/3rd, 6/4th, 8/5th, 10/9th, 12/16th} {
+    \draw[line width=1pt] (\x,-0.2) -- (\x,0.2);
+    \node[font=\tiny, below] at (\x,-0.3) {\century c.};
+  }
+
+  % Era labels
+  \draw[decorate, decoration={brace, amplitude=5pt, mirror}] (0,-1) -- (2,-1);
+  \node[font=\tiny, below] at (1,-1.4) {Autographs 原本};
+
+  \draw[decorate, decoration={brace, amplitude=5pt, mirror}] (2,-1) -- (6,-1);
+  \node[font=\tiny, below] at (4,-1.4) {Papyri Era 蒲草紙時代};
+
+  \draw[decorate, decoration={brace, amplitude=5pt, mirror}] (6,-1) -- (10,-1);
+  \node[font=\tiny, below] at (8,-1.4) {Great Uncials 大楷體時代};
+
+  \draw[decorate, decoration={brace, amplitude=5pt, mirror}] (10,-1) -- (13,-1);
+  \node[font=\tiny, below] at (11.5,-1.4) {Print 印刷時代};
+
+  % Key manuscripts (above line)
+  \foreach \x/\msname/\date in {
+    2.5/{P\textsuperscript{52}}/c.125,
+    3.5/{P\textsuperscript{66}}/c.200,
+    4/{P\textsuperscript{75}}/c.225,
+    6/{$$\aleph$$ B}/c.350,
+    7/{A}/c.450
+  } {
+    \fill[ScholarRed] (\x,0) circle (3pt);
+    \draw[ScholarRed!60, line width=0.5pt] (\x,0) -- (\x,1.2);
+    \node[font=\tiny, above] at (\x,1.3) {\msname};
+    \node[font=\tiny\itshape, text=ScholarGray] at (\x,0.7) {\date};
+  }
+
+  % Key events
+  \foreach \x/\event in {
+    1/{NT Written 新約成書},
+    5.5/{Constantine 君士坦丁},
+    12/{Erasmus 1516}
+  } {
+    \fill[ScholarBlue] (\x,0) circle (2pt);
+    \node[font=\tiny\itshape, above, text=ScholarBlue] at (\x,0.3) {\event};
+  }
+
+  % Title
+  \node[font=\normalsize\bfseries, text=ScholarBlue] at (6.5,2.5) {TIMELINE OF TEXTUAL TRANSMISSION 經文傳遞時間線};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% GOSPEL OF JOHN STRUCTURE DIAGRAM
+%% ============================================
+\newcommand{\johnstructure}{%
+\begin{tikzpicture}[scale=0.8, transform shape]
+  % Main structure
+  \draw[line width=3pt, ScholarBlue!40] (0,0) -- (0,9);
+
+  % Major divisions
+  % Prologue
+  \fill[ScholarBlue!20] (0.2,8) rectangle (6,9);
+  \node[font=\footnotesize\bfseries] at (3.1,8.5) {PROLOGUE 序言 (1:1--18)};
+
+  % Book of Signs
+  \fill[Alexandrian!20] (0.2,3.5) rectangle (6,8);
+  \node[font=\footnotesize\bfseries, text=Alexandrian] at (3.1,7.5) {BOOK OF SIGNS 神蹟之書 (1:19--12:50)};
+  \node[font=\tiny, text width=5cm] at (3.5,5.5) {
+    \textbullet\ Seven Signs 七個神蹟\\
+    \textbullet\ Seven ``I Am'' 七個「我是」\\
+    \textbullet\ Dialogues 對話\\
+    \textbullet\ Festival Cycle 節期循環
+  };
+
+  % Book of Glory
+  \fill[ScholarRed!20] (0.2,1) rectangle (6,3.5);
+  \node[font=\footnotesize\bfseries, text=ScholarRed] at (3.1,3) {BOOK OF GLORY 榮耀之書 (13:1--20:31)};
+  \node[font=\tiny, text width=5cm] at (3.5,2) {
+    \textbullet\ Farewell Discourse 臨別講論\\
+    \textbullet\ Passion 受難\\
+    \textbullet\ Resurrection 復活
+  };
+
+  % Epilogue
+  \fill[Caesarean!20] (0.2,0) rectangle (6,1);
+  \node[font=\footnotesize\bfseries] at (3.1,0.5) {EPILOGUE 尾聲 (21:1--25)};
+
+  % Chapter labels
+  \node[font=\tiny] at (-0.4,8.5) {1};
+  \node[font=\tiny] at (-0.4,5.5) {6};
+  \node[font=\tiny] at (-0.4,3.5) {12};
+  \node[font=\tiny] at (-0.4,1) {20};
+  \node[font=\tiny] at (-0.4,0.5) {21};
+
+  % Title
+  \node[font=\normalsize\bfseries, text=ScholarBlue] at (3,10) {STRUCTURE OF JOHN 約翰福音結構};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% SEVEN SIGNS BOX
+%% ============================================
+\newcommand{\sevensignsbox}{%
+\begin{tikzpicture}[scale=0.75]
+  % Background
+  \fill[ScriptureBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+  \draw[ScholarBlue,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+
+  % Title
+  \node[font=\large\bfseries,color=ScholarBlue] at (4.1,4.3) {七個神蹟 Seven Signs};
+
+  % Divider
+  \draw[ScholarBlue,line width=0.8pt] (0.2,3.9) -- (8,3.9);
+
+  % Signs list
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {1. 水變酒 Water to Wine (2:1-11)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {2. 醫大臣之子 Healing Official's Son (4:46-54)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {3. 醫畢士大池旁病人 Healing at Bethesda (5:1-15)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {4. 五餅二魚 Feeding 5,000 (6:1-14)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.5) {5. 海面行走 Walking on Water (6:16-21)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.0) {6. 醫生來瞎眼的人 Healing Man Born Blind (9:1-41)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.5) {7. 拉撒路復活 Raising Lazarus (11:1-44)};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% SEVEN "I AM" STATEMENTS BOX
+%% ============================================
+\newcommand{\seveniambox}{%
+\begin{tikzpicture}[scale=0.75]
+  % Background
+  \fill[GreekBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+  \draw[JesusRed,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
+
+  % Title
+  \node[font=\large\bfseries,color=JesusRed] at (4.1,4.3) {七個「我是」 Seven "I AM"};
+
+  % Divider
+  \draw[JesusRed,line width=0.8pt] (0.2,3.9) -- (8,3.9);
+
+  % I AM statements
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {1. 生命的糧 Bread of Life (6:35)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {2. 世界的光 Light of the World (8:12)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {3. 羊的門 Door of the Sheep (10:7)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {4. 好牧人 Good Shepherd (10:11)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.5) {5. 復活和生命 Resurrection and Life (11:25)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.0) {6. 道路、真理、生命 Way, Truth, Life (14:6)};
+  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.5) {7. 真葡萄樹 True Vine (15:1)};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HOLY LAND MAP
+%% ============================================
+\newcommand{\holylandmap}{%
+\begin{tikzpicture}[scale=0.9]
+  % Background - Land
+  \fill[MapLand] (0,0) rectangle (10,11);
+
+  % Mediterranean Sea
+  \fill[MapWater] (-0.5,0) rectangle (1.8,11);
+  \draw[SeaDark,line width=0.8pt] (1.8,0) -- (1.8,11);
+  \node[font=\small,color=ScholarBlue,rotate=90] at (0.6,5.5) {Mediterranean Sea 地中海};
+
+  % Sea of Galilee
+  \fill[MapWater] (6.2,8.5) ellipse (0.9 and 1.1);
+  \draw[SeaDark,line width=0.5pt] (6.2,8.5) ellipse (0.9 and 1.1);
+  \node[font=\footnotesize,color=white] at (6.2,8.7) {Sea of Galilee};
+  \node[font=\footnotesize,color=white] at (6.2,8.2) {加利利海};
+
+  % Jordan River
+  \draw[MapWater,line width=2pt] (6.2,7.4)
+    .. controls (5.8,6.5) and (6.3,5.5) .. (6,4.5)
+    .. controls (5.7,3.5) and (6.2,2.5) .. (6,1.5);
+  \node[font=\tiny,color=SeaDark,rotate=-75] at (5.4,5) {Jordan 約旦河};
+
+  % Dead Sea
+  \fill[MapWater!70!SeaDark] (6,0.8) ellipse (0.6 and 0.7);
+  \node[font=\footnotesize,color=white] at (6,0.8) {Dead Sea};
+
+  % KEY LOCATIONS
+
+  % Cana
+  \fill[ScholarBlue] (4.8,9.5) circle (0.12);
+  \draw[ScholarBlue,line width=0.6pt] (4.8,9.5) circle (0.18);
+  \node[font=\small\bfseries,right,color=ScholarBlue] at (5,9.5) {Cana 迦拿};
+  \node[font=\tiny,right,color=TextGray] at (5,9.2) {Water to Wine (2:1-11)};
+
+  % Capernaum
+  \fill[ScholarBlue] (6.7,9.4) circle (0.12);
+  \node[font=\small\bfseries,right,color=ScholarBlue] at (6.9,9.4) {Capernaum};
+  \node[font=\tiny,right,color=TextGray] at (6.9,9.1) {迦百農 (4:46, 6:59)};
+
+  % Sychar (Samaria)
+  \fill[ScholarBlue] (5.5,6.5) circle (0.12);
+  \draw[ScholarBlue,line width=0.6pt] (5.5,6.5) circle (0.18);
+  \node[font=\small\bfseries,left,color=ScholarBlue] at (5.2,6.5) {Sychar 敘加};
+  \node[font=\tiny,left,color=TextGray] at (5.2,6.2) {Samaritan Woman (4:5)};
+
+  % Bethany near Jerusalem
+  \fill[ScholarBlue] (6.8,3.2) circle (0.12);
+  \draw[ScholarBlue,line width=0.6pt] (6.8,3.2) circle (0.18);
+  \node[font=\small\bfseries,right,color=ScholarBlue] at (7,3.2) {Bethany 伯大尼};
+  \node[font=\tiny,right,color=TextGray] at (7,2.9) {Lazarus Raised (11:1-44)};
+
+  % JERUSALEM - Central focus
+  \fill[JesusRed] (5.5,3.5) circle (0.18);
+  \draw[JesusRed,line width=1.2pt] (5.5,3.5) circle (0.26);
+  \node[font=\large\bfseries,left,color=JesusRed] at (5.2,3.5) {JERUSALEM};
+  \node[font=\normalsize,left,color=JesusRed] at (5.2,3.1) {耶路撒冷};
+  \node[font=\tiny,left,color=TextGray] at (5.2,2.7) {Temple, Passion, Resurrection};
+
+  % Compass
+  \draw[->,very thick,color=ScholarBlue] (9,9.5) -- (9,10.2);
+  \node[font=\small\bfseries,color=ScholarBlue] at (9,10.5) {N};
+
+  % Scale
+  \draw[very thick,color=TextGray] (2.5,0.3) -- (4.5,0.3);
+  \node[font=\tiny,color=TextGray] at (3.5,0.1) {50 km / 30 miles};
+
+  % Legend
+  \fill[ScriptureBg,rounded corners=3pt] (0.3,9.8) rectangle (2.8,10.8);
+  \draw[ScholarBlue,line width=0.6pt,rounded corners=3pt] (0.3,9.8) rectangle (2.8,10.8);
+  \node[font=\footnotesize\bfseries,color=ScholarBlue] at (1.55,10.5) {Legend 圖例};
+  \fill[JesusRed] (0.5,10.15) circle (0.06);
+  \node[font=\tiny,right,color=TextGray] at (0.65,10.15) {Jerusalem};
+  \fill[ScholarBlue] (0.5,9.95) circle (0.05);
+  \node[font=\tiny,right,color=TextGray] at (0.65,9.95) {Key Location};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% CANON FORMATION DIAGRAM
+%% ============================================
+\newcommand{\canondiagram}{%
+\begin{tikzpicture}[scale=0.75, transform shape]
+  % Timeline
+  \draw[line width=2pt, ScholarBlue!40] (0,0) -- (11,0);
+
+  % Date markers
+  \foreach \x/\date in {0/50, 2/100, 4/150, 6/200, 8/300, 10/397} {
+    \draw[line width=1pt] (\x,-0.15) -- (\x,0.15);
+    \node[font=\tiny] at (\x,-0.4) {AD \date};
+  }
+
+  % Categories
+  \node[font=\scriptsize\bfseries, text=Alexandrian] at (-1.2,2) {Undisputed};
+  \node[font=\scriptsize\bfseries, text=Alexandrian] at (-1.2,1.7) {公認};
+  \node[font=\scriptsize\bfseries, text=Caesarean] at (-1.2,1) {Disputed};
+  \node[font=\scriptsize\bfseries, text=Caesarean] at (-1.2,0.7) {爭議};
+  \node[font=\scriptsize\bfseries, text=Western] at (-1.2,-0.7) {Rejected};
+  \node[font=\scriptsize\bfseries, text=Western] at (-1.2,-1) {拒絕};
+
+  % Undisputed books (green, top)
+  \fill[Alexandrian!60] (0.5,1.5) rectangle (11,2.5);
+  \node[font=\tiny, text=white] at (5.75,2) {Four Gospels, Acts, Pauline Epistles, 1 Peter, 1 John};
+
+  % Disputed books (orange, middle)
+  \fill[Caesarean!40] (2,0.5) rectangle (11,1.5);
+  \node[font=\tiny] at (6.5,1) {Hebrews, James, 2 Peter, 2--3 John, Jude, Revelation};
+
+  % Rejected books (red, bottom)
+  \fill[Western!30] (2,-1.5) rectangle (7,-0.5);
+  \node[font=\tiny, text=white] at (4.5,-1) {Shepherd, Didache, etc.};
+
+  % Key councils
+  \draw[ScholarBlue, line width=1pt, dashed] (10,3) -- (10,-2);
+  \node[font=\tiny, rotate=90, above] at (10.3,0.5) {Carthage 397};
+
+  % Title
+  \node[font=\normalsize\bfseries, text=ScholarBlue] at (5.5,3.5) {FORMATION OF THE NT CANON 新約正典形成};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% SYNOPTIC PROBLEM DIAGRAM
+%% ============================================
+\newcommand{\synopticdiagram}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Gospel nodes
+  \node[circle, draw=ScholarBlue, fill=ScholarBlue!20, minimum size=45pt, font=\bfseries] (mark) at (4,4) {Mark 馬可};
+  \node[circle, draw=ScholarRed, fill=ScholarRed!20, minimum size=45pt, font=\bfseries] (matt) at (1,1) {Matthew 馬太};
+  \node[circle, draw=Alexandrian, fill=Alexandrian!20, minimum size=45pt, font=\bfseries] (luke) at (7,1) {Luke 路加};
+
+  % Q source
+  \node[rectangle, draw=Caesarean, fill=Caesarean!20, minimum width=35pt, minimum height=22pt, font=\bfseries] (Q) at (4,1) {Q};
+  \node[font=\tiny\itshape, below] at (Q.south) {(Sayings 語錄)};
+
+  % M and L sources
+  \node[rectangle, draw=ScholarGray, fill=ScholarGray!20, minimum width=25pt, minimum height=18pt, font=\small] (M) at (0,3) {M};
+  \node[rectangle, draw=ScholarGray, fill=ScholarGray!20, minimum width=25pt, minimum height=18pt, font=\small] (L) at (8,3) {L};
+
+  % Arrows
+  \draw[-{Stealth}, line width=1.5pt, ScholarBlue!60] (mark) -- (matt);
+  \draw[-{Stealth}, line width=1.5pt, ScholarBlue!60] (mark) -- (luke);
+  \draw[-{Stealth}, line width=1.5pt, Caesarean!60] (Q) -- (matt);
+  \draw[-{Stealth}, line width=1.5pt, Caesarean!60] (Q) -- (luke);
+  \draw[-{Stealth}, line width=1pt, ScholarGray!60] (M) -- (matt);
+  \draw[-{Stealth}, line width=1pt, ScholarGray!60] (L) -- (luke);
+
+  % Statistics
+  \node[font=\tiny, text=ScholarBlue] at (2.2,2.8) {90\%};
+  \node[font=\tiny, text=ScholarBlue] at (5.8,2.8) {50\%};
+
+  % Title
+  \node[font=\normalsize\bfseries, text=ScholarBlue] at (4,5.5) {THE TWO-SOURCE HYPOTHESIS 雙源假說};
+
+  % Legend
+  \node[font=\tiny] at (4,-0.3) {Arrows indicate literary dependence 箭頭表示文學依賴關係};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ScholarBlue,
+  urlcolor=ScholarRed,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfauthor={PubHub Three Books Project},
+  pdftitle={Gospel Scholarly 2026},
+  pdfsubject={Gospel of John - Critical Edition}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% MEMOIR CHAPTER STYLE - SCHOLARLY
+%% ============================================
+\makechapterstyle{scholarly}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapnamefont}{\normalfont\large\scshape\color{ScholarBlue}}
+  \renewcommand*{\chapnumfont}{\normalfont\fontsize{42}{46}\selectfont\bfseries\color{ScholarRed}}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\bfseries\color{ScholarBlue}}
+  \renewcommand*{\printchaptername}{\centering\chapnamefont Chapter}
+  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering\chaptitlefont ##1\par
+    \vskip 10pt
+    {\color{ScholarBlue}\rule{3.5in}{1.5pt}}
+  }
+  \setlength{\beforechapskip}{25pt}
+  \setlength{\afterchapskip}{30pt}
+}
+\chapterstyle{scholarly}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\setsecheadstyle{\normalfont\Large\bfseries\color{ScholarBlue}}
+\setsubsecheadstyle{\normalfont\large\bfseries\color{TextGray}}
+\setsubsubsecheadstyle{\normalfont\normalsize\bfseries\color{TextGray}}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\makepagestyle{scholarly}
+\makeevenhead{scholarly}{\small\thepage}{}{\small\scshape\color{LightGray}\leftmark}
+\makeoddhead{scholarly}{\small\scshape\color{LightGray}\rightmark}{}{\small\thepage}
+\makeheadrule{scholarly}{\textwidth}{0.5pt}
+\makeevenfoot{scholarly}{}{}{}
+\makeoddfoot{scholarly}{}{}{}
+\pagestyle{scholarly}
+
+% Plain style for chapter pages
+\makepagestyle{plain}
+\makeevenfoot{plain}{}{\small\thepage}{}
+\makeoddfoot{plain}{}{\small\thepage}{}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.4\baselineskip}%
+  \list{}{%
+    \leftmargin=0.6em
+    \rightmargin=0.4em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.4\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Half title page
+\begin{center}
+\vspace*{2in}
+{\fontsize{18}{20}\selectfont\scshape A Critical Edition of}\\[0.3cm]
+{\fontsize{24}{28}\selectfont\bfseries\color{ScholarBlue} The Holy Bible}\\[0.2cm]
+{\Large\itshape\color{LightGray} 聖經學術版}
+\vfill
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{center}
+\vspace*{0.5in}
+
+{\fontsize{14}{16}\selectfont\scshape A Critical Edition of}\\[0.3in]
+
+{\fontsize{36}{40}\selectfont\bfseries\color{ScholarBlue} THE HOLY BIBLE}\\[0.1in]
+{\fontsize{20}{24}\selectfont\color{ScholarBlue} 聖經}\\[0.2in]
+
+{\large\scshape With Apparatus Criticus, Manuscript Charts,\\
+and Scholarly Commentary}\\[0.1cm]
+{\normalsize 附文本鑑別、抄本圖表及學術註釋}\\[0.4in]
+
+\rule{3in}{1pt}\\[0.4in]
+
+% Subtitle
+{\fontsize{18}{22}\selectfont\bfseries 約翰福音研讀}\\[0.1cm]
+{\Large Gospel of John Deep Study}\\[0.1cm]
+{\normalsize Critical Edition 學術批判版}
+
+\vspace{0.4cm}
+
+% Key verse box
+\fcolorbox{ScholarBlue}{ScriptureBg}{%
+\begin{minipage}{3.5in}
+\centering
+\vspace{0.2cm}
+\normalsize\itshape\color{TextGray}
+\jesus{我就是道路、真理、生命；\\若不藉着我，沒有人能到父那裏去。}\\[0.1em]
+\small I am the way, and the truth, and the life.\\
+No one comes to the Father except through me.\\
+— John 14:6
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vfill
+
+$if(author)$
+{\normalsize $author$}\\[0.2cm]
+$endif$
+
+$if(publisher)$
+{\large\scshape $publisher$}\\[0.1cm]
+$endif$
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize \today}
+$endif$
+
+\vspace{0.3cm}
+
+\end{center}
+\cleardoublepage
+
+% Manuscript Stemma
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{ScholarBlue} Manuscript Transmission}\\[0.08cm]
+{\normalsize 抄本傳遞譜系}
+
+\vspace{0.4cm}
+
+\stemmadiagram
+
+\vspace{0.4cm}
+
+\transmissiontimeline
+
+\end{center}
+\cleardoublepage
+
+% Holy Land Map
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.2in}
+{\Large\bfseries\color{ScholarBlue} 約翰福音重要地點}\\[0.08cm]
+{\normalsize Key Locations in the Gospel of John}
+
+\vspace{0.3cm}
+
+\holylandmap
+
+\vspace{0.2cm}
+{\footnotesize\color{LightGray} \jesus{「我就是道路、真理、生命。」}— 約翰福音 14:6}
+\end{center}
+\cleardoublepage
+
+% Seven Signs and I AM page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{ScholarBlue} 約翰福音的核心記號}\\[0.08cm]
+{\normalsize Central Signs and Declarations in John's Gospel}
+
+\vspace{0.4cm}
+
+\sevensignsbox
+
+\vspace{0.35cm}
+
+\seveniambox
+
+\vspace{0.4cm}
+
+\johnstructure
+
+\vfill
+
+{\footnotesize\color{TextGray}\itshape
+「但記這些事，是要你們信耶穌是基督，是神的兒子，\\
+並且使你們信了，就可以因他的名得生命。」\\[0.08em]
+\footnotesize But these are written so that you may believe that Jesus is the Christ,\\
+the Son of God, and that by believing you may have life in his name.\\
+— 約翰福音 John 20:31}
+
+\vspace{0.25cm}
+\ornamentdiv
+\end{center}
+\cleardoublepage
+
+% Canon and Synoptic Problem
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{ScholarBlue} Scholarly Charts 學術圖表}
+
+\vspace{0.5cm}
+
+\canondiagram
+
+\vspace{0.6cm}
+
+\synopticdiagram
+
+\vfill
+
+{\footnotesize\color{LightGray}\itshape
+Note: The Gospel of John is read during Lent and Easter across all lectionary years.\\
+約翰福音在所有主日讀經循環的大齋期和復活期誦讀。}
+
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{聖經：約翰福音學術批判版}\\
+\textbf{The Holy Bible: Gospel of John - Critical Edition}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃牧師主日學 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur — Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan — \textit{The Gospel According to John}\\[0.8em]
+
+\textbf{Textual Sources}\\
+\textbullet\ Nestle-Aland, Novum Testamentum Graece, 28th ed.\\
+\textbullet\ UBS Greek New Testament, 5th ed.\\
+\textbullet\ Bruce M. Metzger, \textit{A Textual Commentary on the Greek NT}\\[0.8em]
+
+\textbf{Red Letter Bible}\\
+本書採用紅字聖經格式，以\textcolor{JesusRed}{紅色斜體}標示耶穌的話語。\\
+This edition uses Red Letter format with Jesus's words in \textcolor{JesusRed}{\textit{red italics}}.\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
+
+7×10" Academic Edition\\
+PubHub Publishing 2026
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{scholarly}
+{\color{ScholarBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+% Final page
+\cleardoublepage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+
+\rule{2in}{0.5pt}\\[1em]
+
+{\fontsize{16}{20}\selectfont\color{ScholarBlue}\bfseries 榮耀 = 恩典 + 真理}\\[0.15cm]
+{\Large\color{LightGray} Glory = Grace + Truth}
+
+\vspace{0.5cm}
+
+{\normalsize\color{TextGray}\itshape
+「認識你——獨一的真神，\\
+並且認識你所差來的耶穌基督，\\
+這就是永生。」\\[0.1em]
+— 約翰福音 17:3}
+
+\vspace{0.3cm}
+
+{\small\color{LightGray}
+"And this is eternal life, that they know you,\\
+the only true God, and Jesus Christ whom you have sent."\\
+— John 17:3}
+
+\vspace{0.6cm}
+
+\rule{2in}{0.5pt}\\[1em]
+
+{\small\scshape\color{ScholarBlue} Soli Deo Gloria}\\[0.1cm]
+{\footnotesize 唯獨榮耀神}
+
+\vspace{0.4cm}
+
+{\footnotesize\itshape\color{LightGray}
+Verbum Domini manet in aeternum\\
+主的道永遠常存}
+
+\end{center}
+\vspace*{\fill}
+
+\end{document}
