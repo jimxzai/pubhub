@@ -15,25 +15,25 @@ scripture: 馬太福音 14:22-36; 馬可福音 6:45-56; 約翰福音 6:16-21
 
 #### 馬太福音 14:22-33
 
-> ^22^耶穌隨即催門徒上船，在他之前先過到對岸去，等他遣散眾人。^23^他遣散了眾人，就獨自上山去禱告。到了晚上，只有他一人在那裏。^24^那時船已經離岸好幾里，因風不順，被浪搖撼。^25^夜裏四更天，耶穌在海面上向門徒走來。^26^門徒看見他在海面上走，就都驚慌了，說：「是個鬼怪！」他們就害怕得喊叫起來。^27^耶穌連忙對他們說：「放心！是我，不要怕！」
+> ^22^耶穌隨即催門徒上船，在他之前先過到對岸去，等他遣散眾人。^23^他遣散了眾人，就獨自上山去禱告。到了晚上，只有他一人在那裏。^24^那時船已經離岸好幾里，因風不順，被浪搖撼。^25^夜裏四更天，耶穌在海面上向門徒走來。^26^門徒看見他在海面上走，就都驚慌了，說：「是個鬼怪！」他們就害怕得喊叫起來。^27^耶穌連忙對他們說：<red>「放心！是我，不要怕！」</red>
 
-> ^28^彼得回答他：「主啊，如果是你，請叫我從水面上走到你那裏去。」^29^耶穌說：「來吧！」彼得就從船上下來，在水面上向耶穌走去。^30^但他一見風勢猛烈就害怕起來，快要沉下去的時候，他喊叫說：「主啊，救我！」^31^耶穌趕緊伸手拉住他，對他說：「你這小信的人哪，為甚麼懷疑呢？」^32^他們一上船，風就停了。^33^在船上的人都拜他，說：「你真是神的兒子！」
+> ^28^彼得回答他：「主啊，如果是你，請叫我從水面上走到你那裏去。」^29^耶穌說：<red>「來吧！」</red>彼得就從船上下來，在水面上向耶穌走去。^30^但他一見風勢猛烈就害怕起來，快要沉下去的時候，他喊叫說：「主啊，救我！」^31^耶穌趕緊伸手拉住他，對他說：<red>「你這小信的人哪，為甚麼懷疑呢？」</red>^32^他們一上船，風就停了。^33^在船上的人都拜他，說：「你真是神的兒子！」
 
 #### 約翰福音 6:16-21
 
-> ^16^到了晚上，他的門徒下到海邊，^17^上了船，要過海到迦百農去。天已經黑了，耶穌還沒有來到他們那裏。^18^忽然狂風大作，海面掀起大浪。^19^門徒搖櫓約行了五六公里，看見耶穌在海面上走，漸漸靠近船，他們就害怕。^20^耶穌對他們說：「是我，不要怕！」^21^門徒這才樂意接他上船，船立刻到了他們要去的地方。
+> ^16^到了晚上，他的門徒下到海邊，^17^上了船，要過海到迦百農去。天已經黑了，耶穌還沒有來到他們那裏。^18^忽然狂風大作，海面掀起大浪。^19^門徒搖櫓約行了五六公里，看見耶穌在海面上走，漸漸靠近船，他們就害怕。^20^耶穌對他們說：<red>「是我，不要怕！」</red>^21^門徒這才樂意接他上船，船立刻到了他們要去的地方。
 
-### English — ESV
+### English — NKJV
 
 #### Matthew 14:22-33
 
-> ^22^Immediately he made the disciples get into the boat and go before him to the other side, while he dismissed the crowds. ^23^And after he had dismissed the crowds, he went up on the mountain by himself to pray. When evening came, he was there alone, ^24^but the boat by this time was a long way from the land, beaten by the waves, for the wind was against them. ^25^And in the fourth watch of the night he came to them, walking on the sea. ^26^But when the disciples saw him walking on the sea, they were terrified, and said, "It is a ghost!" and they cried out in fear. ^27^But immediately Jesus spoke to them, saying, "Take heart; it is I. Do not be afraid."
+> ^22^Immediately Jesus made His disciples get into the boat and go before Him to the other side, while He sent the multitudes away. ^23^And when He had sent the multitudes away, He went up on the mountain by Himself to pray. Now when evening came, He was alone there. ^24^But the boat was now in the middle of the sea, tossed by the waves, for the wind was contrary. ^25^Now in the fourth watch of the night Jesus went to them, walking on the sea. ^26^And when the disciples saw Him walking on the sea, they were troubled, saying, "It is a ghost!" And they cried out for fear. ^27^But immediately Jesus spoke to them, saying, <red>"Be of good cheer! It is I; do not be afraid."</red>
 
-> ^28^And Peter answered him, "Lord, if it is you, command me to come to you on the water." ^29^He said, "Come." So Peter got out of the boat and walked on the water and came to Jesus. ^30^But when he saw the wind, he was afraid, and beginning to sink he cried out, "Lord, save me!" ^31^Jesus immediately reached out his hand and took hold of him, saying to him, "O you of little faith, why did you doubt?" ^32^And when they got into the boat, the wind ceased. ^33^And those in the boat worshiped him, saying, "Truly you are the Son of God."
+> ^28^And Peter answered Him and said, "Lord, if it is You, command me to come to You on the water." ^29^So He said, <red>"Come."</red> And when Peter had come down out of the boat, he walked on the water to go to Jesus. ^30^But when he saw that the wind was boisterous, he was afraid; and beginning to sink he cried out, saying, "Lord, save me!" ^31^And immediately Jesus stretched out His hand and caught him, and said to him, <red>"O you of little faith, why did you doubt?"</red> ^32^And when they got into the boat, the wind ceased. ^33^Then those who were in the boat came and worshiped Him, saying, "Truly You are the Son of God."
 
 #### John 6:16-21
 
-> ^16^When evening came, his disciples went down to the sea, ^17^got into a boat, and started across the sea to Capernaum. It was now dark, and Jesus had not yet come to them. ^18^The sea became rough because a strong wind was blowing. ^19^When they had rowed about three or four miles, they saw Jesus walking on the sea and coming near the boat, and they were frightened. ^20^But he said to them, "It is I; do not be afraid." ^21^Then they were glad to take him into the boat, and immediately the boat was at the land to which they were going.
+> ^16^Now when evening came, His disciples went down to the sea, ^17^got into the boat, and went over the sea toward Capernaum. And it was already dark, and Jesus had not come to them. ^18^Then the sea arose because a great wind was blowing. ^19^So when they had rowed about three or four miles, they saw Jesus walking on the sea and drawing near the boat; and they were afraid. ^20^But He said to them, <red>"It is I; do not be afraid."</red> ^21^Then they willingly received Him into the boat, and immediately the boat was at the land where they were going.
 
 ---
 

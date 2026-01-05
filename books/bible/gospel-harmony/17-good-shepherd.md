@@ -13,23 +13,23 @@ scripture: 約翰福音 10:1-42
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^「我實實在在地告訴你們，不從門進羊圈，倒從別處爬進去的，那人就是賊，就是強盜。^2^從門進去的才是羊的牧人。^3^看門的給他開門，羊也聽他的聲音。他按着名字叫自己的羊，把羊領出來。^4^他把自己的羊帶出來以後，就走在前頭，羊也跟隨他，因為認得他的聲音。^5^羊不跟隨陌生人，反而逃跑，因為不認得陌生人的聲音。」
+> ^1^<red>「我實實在在地告訴你們，不從門進羊圈，倒從別處爬進去的，那人就是賊，就是強盜。^2^從門進去的才是羊的牧人。^3^看門的給他開門，羊也聽他的聲音。他按着名字叫自己的羊，把羊領出來。^4^他把自己的羊帶出來以後，就走在前頭，羊也跟隨他，因為認得他的聲音。^5^羊不跟隨陌生人，反而逃跑，因為不認得陌生人的聲音。」</red>
 
-> ^7^耶穌又說：「我實實在在地告訴你們，我就是羊的門。^8^凡在我以前來的都是賊，都是強盜；羊卻不聽從他們。^9^我就是門；凡從我進來的，必然得救，並且出入得草吃。^10^盜賊來，無非要偷竊、殺害、毀壞；我來了，是要羊得生命，並且得的更豐盛。」
+> ^7^耶穌又說：<red>「我實實在在地告訴你們，我就是羊的門。^8^凡在我以前來的都是賊，都是強盜；羊卻不聽從他們。^9^我就是門；凡從我進來的，必然得救，並且出入得草吃。^10^盜賊來，無非要偷竊、殺害、毀壞；我來了，是要羊得生命，並且得的更豐盛。」</red>
 
-> ^11^「我是好牧人，好牧人為羊捨命。^12^那作雇工的，不是牧人，羊也不是他自己的，他看見狼來，就撇下羊逃走；狼抓住羊，把牠們趕散了。^13^雇工逃走，因為他是雇工，並不顧念羊。^14^我是好牧人；我認識我的羊，我的羊也認識我，^15^正如父認識我，我也認識父一樣；並且我為羊捨命。^16^我另外有羊，不在這圈裏。我必須領牠們來，牠們也要聽我的聲音，並且要合成一群，歸一個牧人。」
+> <red>^11^「我是好牧人，好牧人為羊捨命。^12^那作雇工的，不是牧人，羊也不是他自己的，他看見狼來，就撇下羊逃走；狼抓住羊，把牠們趕散了。^13^雇工逃走，因為他是雇工，並不顧念羊。^14^我是好牧人；我認識我的羊，我的羊也認識我，^15^正如父認識我，我也認識父一樣；並且我為羊捨命。^16^我另外有羊，不在這圈裏。我必須領牠們來，牠們也要聽我的聲音，並且要合成一群，歸一個牧人。」</red>
 
-> ^27^「我的羊聽我的聲音，我也認識牠們，牠們也跟隨我。^28^我又賜給牠們永生；牠們永不滅亡，誰也不能從我手裏把牠們奪去。^29^我父把牠們賜給我，他比萬有都大，誰也不能從我父手裏把牠們奪去。^30^我與父原為一。」
+> <red>^27^「我的羊聽我的聲音，我也認識牠們，牠們也跟隨我。^28^我又賜給牠們永生；牠們永不滅亡，誰也不能從我手裏把牠們奪去。^29^我父把牠們賜給我，他比萬有都大，誰也不能從我父手裏把牠們奪去。^30^我與父原為一。」</red>
 
-### English — ESV
+### English — NKJV
 
-> ^1^"Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber. ^2^But he who enters by the door is the shepherd of the sheep. ^3^To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out. ^4^When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. ^5^A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers."
+> ^1^<red>"Most assuredly, I say to you, he who does not enter the sheepfold by the door, but climbs up some other way, the same is a thief and a robber. ^2^But he who enters by the door is the shepherd of the sheep. ^3^To him the doorkeeper opens, and the sheep hear his voice; and he calls his own sheep by name and leads them out. ^4^And when he brings out his own sheep, he goes before them; and the sheep follow him, for they know his voice. ^5^Yet they will by no means follow a stranger, but will flee from him, for they do not know the voice of strangers."</red>
 
-> ^7^So Jesus again said to them, "Truly, truly, I say to you, I am the door of the sheep. ^8^All who came before me are thieves and robbers, but the sheep did not listen to them. ^9^I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture. ^10^The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly."
+> ^7^Then Jesus said to them again, <red>"Most assuredly, I say to you, I am the door of the sheep. ^8^All who ever came before Me are thieves and robbers, but the sheep did not hear them. ^9^I am the door. If anyone enters by Me, he will be saved, and will go in and out and find pasture. ^10^The thief does not come except to steal, and to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly."</red>
 
-> ^11^"I am the good shepherd. The good shepherd lays down his life for the sheep. ^12^He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. ^13^He flees because he is a hired hand and cares nothing for the sheep. ^14^I am the good shepherd. I know my own and my own know me, ^15^just as the Father knows me and I know the Father; and I lay down my life for the sheep. ^16^And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd."
+> <red>^11^"I am the good shepherd. The good shepherd gives His life for the sheep. ^12^But a hireling, he who is not the shepherd, one who does not own the sheep, sees the wolf coming and leaves the sheep and flees; and the wolf catches the sheep and scatters them. ^13^The hireling flees because he is a hireling and does not care about the sheep. ^14^I am the good shepherd; and I know My sheep, and am known by My own. ^15^As the Father knows Me, even so I know the Father; and I lay down My life for the sheep. ^16^And other sheep I have which are not of this fold; them also I must bring, and they will hear My voice; and there will be one flock and one shepherd."</red>
 
-> ^27^"My sheep hear my voice, and I know them, and they follow me. ^28^I give them eternal life, and they will never perish, and no one will snatch them out of my hand. ^29^My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father's hand. ^30^I and the Father are one."
+> <red>^27^"My sheep hear My voice, and I know them, and they follow Me. ^28^And I give them eternal life, and they shall never perish; neither shall anyone snatch them out of My hand. ^29^My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father's hand. ^30^I and My Father are one."</red>
 
 ---
 

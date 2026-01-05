@@ -13,19 +13,19 @@ scripture: 約翰福音 9:1-41
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^耶穌經過的時候，看見一個生來就失明的人。^2^門徒問耶穌：「拉比，這人生來失明，是誰犯了罪？是這人呢，還是他父母呢？」^3^耶穌回答：「既不是這人犯了罪，也不是他父母犯了罪，而是要在他身上顯出神的作為來。^4^趁着白日，我們必須做差我來那位的工作；黑夜來到，就沒有人能做工了。^5^我在世上的時候，是世上的光。」^6^耶穌說了這話，就吐唾沫在地上，用唾沫和了泥，抹在失明的人的眼睛上，^7^對他說：「你去西羅亞池子裏洗。」西羅亞翻出來就是「奉差遣」。於是他去，洗了，回來就看見了。
+> ^1^耶穌經過的時候，看見一個生來就失明的人。^2^門徒問耶穌：「拉比，這人生來失明，是誰犯了罪？是這人呢，還是他父母呢？」^3^耶穌回答：<red>「既不是這人犯了罪，也不是他父母犯了罪，而是要在他身上顯出神的作為來。^4^趁着白日，我們必須做差我來那位的工作；黑夜來到，就沒有人能做工了。^5^我在世上的時候，是世上的光。」</red>^6^耶穌說了這話，就吐唾沫在地上，用唾沫和了泥，抹在失明的人的眼睛上，^7^對他說：<red>「你去西羅亞池子裏洗。」</red>西羅亞翻出來就是「奉差遣」。於是他去，洗了，回來就看見了。
 
 > ^24^法利賽人第二次叫了那從前失明的人來，對他說：「你該把榮耀歸給神。我們知道這人是個罪人。」^25^他回答：「他是不是罪人，我不知道；有一件事我知道：從前我是失明的，現在我看見了。」
 
-> ^35^耶穌聽說他們把他趕出去，後來遇見他，就問他：「你信神的兒子嗎？」^36^他回答：「主啊，誰是神的兒子，好讓我信他呢？」^37^耶穌對他說：「你已經看見他了，現在和你說話的就是他。」^38^他說：「主啊，我信！」就拜耶穌。^39^耶穌說：「我為審判到這世上來，使不能看見的可以看見，能看見的反而失明。」^40^同他在那裏的法利賽人聽見這話，就對他說：「難道我們也是失明的嗎？」^41^耶穌對他們說：「你們若是失明的，就沒有罪了；但現在你們說『我們能看見』，你們的罪還在。」
+> ^35^耶穌聽說他們把他趕出去，後來遇見他，就問他：<red>「你信神的兒子嗎？」</red>^36^他回答：「主啊，誰是神的兒子，好讓我信他呢？」^37^耶穌對他說：<red>「你已經看見他了，現在和你說話的就是他。」</red>^38^他說：「主啊，我信！」就拜耶穌。^39^耶穌說：<red>「我為審判到這世上來，使不能看見的可以看見，能看見的反而失明。」</red>^40^同他在那裏的法利賽人聽見這話，就對他說：「難道我們也是失明的嗎？」^41^耶穌對他們說：<red>「你們若是失明的，就沒有罪了；但現在你們說『我們能看見』，你們的罪還在。」</red>
 
-### English — ESV
+### English — NKJV
 
-> ^1^As he passed by, he saw a man blind from birth. ^2^And his disciples asked him, "Rabbi, who sinned, this man or his parents, that he was born blind?" ^3^Jesus answered, "It was not that this man sinned, or his parents, but that the works of God might be displayed in him. ^4^We must work the works of him who sent me while it is day; night is coming, when no one can work. ^5^As long as I am in the world, I am the light of the world." ^6^Having said these things, he spit on the ground and made mud with the saliva. Then he anointed the man's eyes with the mud ^7^and said to him, "Go, wash in the pool of Siloam" (which means Sent). So he went and washed and came back seeing.
+> ^1^Now as Jesus passed by, He saw a man who was blind from birth. ^2^And His disciples asked Him, saying, "Rabbi, who sinned, this man or his parents, that he was born blind?" ^3^Jesus answered, <red>"Neither this man nor his parents sinned, but that the works of God should be revealed in him. ^4^I must work the works of Him who sent Me while it is day; the night is coming when no one can work. ^5^As long as I am in the world, I am the light of the world."</red> ^6^When He had said these things, He spat on the ground and made clay with the saliva; and He anointed the eyes of the blind man with the clay. ^7^And He said to him, <red>"Go, wash in the pool of Siloam"</red> (which is translated, Sent). So he went and washed, and came back seeing.
 
-> ^24^So for the second time they called the man who had been blind and said to him, "Give glory to God. We know that this man is a sinner." ^25^He answered, "Whether he is a sinner I do not know. One thing I know, that though I was blind, now I see."
+> ^24^So they again called the man who was blind, and said to him, "Give God the glory! We know that this Man is a sinner." ^25^He answered and said, "Whether He is a sinner or not I do not know. One thing I know: that though I was blind, now I see."
 
-> ^35^Jesus heard that they had cast him out, and having found him he said, "Do you believe in the Son of Man?" ^36^He answered, "And who is he, sir, that I may believe in him?" ^37^Jesus said to him, "You have seen him, and it is he who is speaking to you." ^38^He said, "Lord, I believe," and he worshiped him. ^39^Jesus said, "For judgment I came into this world, that those who do not see may see, and those who see may become blind." ^40^Some of the Pharisees near him heard these things, and said to him, "Are we also blind?" ^41^Jesus said to them, "If you were blind, you would have no guilt; but now that you say, 'We see,' your guilt remains."
+> ^35^Jesus heard that they had cast him out; and when He had found him, He said to him, <red>"Do you believe in the Son of God?"</red> ^36^He answered and said, "Who is He, Lord, that I may believe in Him?" ^37^And Jesus said to him, <red>"You have both seen Him and it is He who is talking with you."</red> ^38^Then he said, "Lord, I believe!" And he worshiped Him. ^39^And Jesus said, <red>"For judgment I have come into this world, that those who do not see may see, and that those who see may be made blind."</red> ^40^Then some of the Pharisees who were with Him heard these words, and said to Him, "Are we blind also?" ^41^Jesus said to them, <red>"If you were blind, you would have no sin; but now you say, 'We see.' Therefore your sin remains."</red>
 
 ---
 

@@ -13,23 +13,23 @@ scripture: 約翰福音 11:1-57
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^有一個患病的人，名叫拉撒路，住在伯大尼，就是馬利亞和她姐姐馬大的村莊。^2^這馬利亞就是那用香膏抹主，又用頭髮擦他腳的那人；患病的拉撒路是她的弟弟。^3^她姐妹倆打發人去見耶穌，說：「主啊，你所愛的人病了。」^4^耶穌聽見就說：「這病不至於死，而是為了神的榮耀，好讓神的兒子因此得榮耀。」
+> ^1^有一個患病的人，名叫拉撒路，住在伯大尼，就是馬利亞和她姐姐馬大的村莊。^2^這馬利亞就是那用香膏抹主，又用頭髮擦他腳的那人；患病的拉撒路是她的弟弟。^3^她姐妹倆打發人去見耶穌，說：「主啊，你所愛的人病了。」^4^耶穌聽見就說：<red>「這病不至於死，而是為了神的榮耀，好讓神的兒子因此得榮耀。」</red>
 
-> ^17^耶穌到了，發現拉撒路在墳墓裏已經四天了。^21^馬大對耶穌說：「主啊，你若早在這裏，我弟弟就不會死了。^22^但是，即使是現在，我也知道，你無論向神求甚麼，神都會賜給你。」^23^耶穌對她說：「你弟弟會復活的。」^24^馬大對他說：「我知道在末日復活的時候，他會復活。」^25^耶穌對她說：「復活在我，生命也在我。信我的人，雖然死了，也必復活。^26^凡活着信我的人必永遠不死。你信這話嗎？」^27^馬大對他說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
+> ^17^耶穌到了，發現拉撒路在墳墓裏已經四天了。^21^馬大對耶穌說：「主啊，你若早在這裏，我弟弟就不會死了。^22^但是，即使是現在，我也知道，你無論向神求甚麼，神都會賜給你。」^23^耶穌對她說：<red>「你弟弟會復活的。」</red>^24^馬大對他說：「我知道在末日復活的時候，他會復活。」^25^耶穌對她說：<red>「復活在我，生命也在我。信我的人，雖然死了，也必復活。^26^凡活着信我的人必永遠不死。你信這話嗎？」</red>^27^馬大對他說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
 
-> ^33^耶穌看見她哭，並看見與她同來的猶太人也在哭，就心裏悲嘆，又甚憂愁，^34^便說：「你們把他安放在哪裏？」他們說：「請主來看。」^35^耶穌哭了。
+> ^33^耶穌看見她哭，並看見與她同來的猶太人也在哭，就心裏悲嘆，又甚憂愁，^34^便說：<red>「你們把他安放在哪裏？」</red>他們說：「請主來看。」^35^耶穌哭了。
 
-> ^38^耶穌又心裏悲嘆，來到墳墓前；那墳墓是個洞，有一塊石頭擋着。^39^耶穌說：「把石頭挪開！」那死人的姐姐馬大對他說：「主啊，他現在必定臭了，因為他死了已經四天了。」^40^耶穌對她說：「我不是對你說過嗎？你若信，就必看見神的榮耀。」^41^他們就把石頭挪開。耶穌舉目望天，說：「父啊，我感謝你，因為你已經聽我。^42^我知道你常常聽我，但我說這話是為周圍站着的眾人，要使他們信是你差了我來。」^43^說了這些話，他大聲呼叫：「拉撒路，出來！」^44^那死人就出來了，手腳裹着布，臉上包着手巾。耶穌對他們說：「解開他，讓他走！」
+> ^38^耶穌又心裏悲嘆，來到墳墓前；那墳墓是個洞，有一塊石頭擋着。^39^耶穌說：<red>「把石頭挪開！」</red>那死人的姐姐馬大對他說：「主啊，他現在必定臭了，因為他死了已經四天了。」^40^耶穌對她說：<red>「我不是對你說過嗎？你若信，就必看見神的榮耀。」</red>^41^他們就把石頭挪開。耶穌舉目望天，說：<red>「父啊，我感謝你，因為你已經聽我。^42^我知道你常常聽我，但我說這話是為周圍站着的眾人，要使他們信是你差了我來。」</red>^43^說了這些話，他大聲呼叫：<red>「拉撒路，出來！」</red>^44^那死人就出來了，手腳裹着布，臉上包着手巾。耶穌對他們說：<red>「解開他，讓他走！」</red>
 
-### English — ESV
+### English — NKJV
 
-> ^1^Now a certain man was ill, Lazarus of Bethany, the village of Mary and her sister Martha. ^2^It was Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was ill. ^3^So the sisters sent to him, saying, "Lord, he whom you love is ill." ^4^But when Jesus heard it he said, "This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it."
+> ^1^Now a certain man was sick, Lazarus of Bethany, the town of Mary and her sister Martha. ^2^It was that Mary who anointed the Lord with fragrant oil and wiped His feet with her hair, whose brother Lazarus was sick. ^3^Therefore the sisters sent to Him, saying, "Lord, behold, he whom You love is sick." ^4^When Jesus heard that, He said, <red>"This sickness is not unto death, but for the glory of God, that the Son of God may be glorified through it."</red>
 
-> ^17^Now when Jesus came, he found that Lazarus had already been in the tomb four days. ^21^Martha said to Jesus, "Lord, if you had been here, my brother would not have died. ^22^But even now I know that whatever you ask from God, God will give you." ^23^Jesus said to her, "Your brother will rise again." ^24^Martha said to him, "I know that he will rise again in the resurrection on the last day." ^25^Jesus said to her, "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, ^26^and everyone who lives and believes in me shall never die. Do you believe this?" ^27^She said to him, "Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world."
+> ^17^So when Jesus came, He found that he had already been in the tomb four days. ^21^Now Martha said to Jesus, "Lord, if You had been here, my brother would not have died. ^22^But even now I know that whatever You ask of God, God will give You." ^23^Jesus said to her, <red>"Your brother will rise again."</red> ^24^Martha said to Him, "I know that he will rise again in the resurrection at the last day." ^25^Jesus said to her, <red>"I am the resurrection and the life. He who believes in Me, though he may die, he shall live. ^26^And whoever lives and believes in Me shall never die. Do you believe this?"</red> ^27^She said to Him, "Yes, Lord, I believe that You are the Christ, the Son of God, who is to come into the world."
 
-> ^33^When Jesus saw her weeping, and the Jews who had come with her also weeping, he was deeply moved in his spirit and greatly troubled. ^34^And he said, "Where have you laid him?" They said to him, "Lord, come and see." ^35^Jesus wept.
+> ^33^Therefore, when Jesus saw her weeping, and the Jews who came with her weeping, He groaned in the spirit and was troubled. ^34^And He said, <red>"Where have you laid him?"</red> They said to Him, "Lord, come and see." ^35^Jesus wept.
 
-> ^38^Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it. ^39^Jesus said, "Take away the stone." Martha, the sister of the dead man, said to him, "Lord, by this time there will be an odor, for he has been dead four days." ^40^Jesus said to her, "Did I not tell you that if you believed you would see the glory of God?" ^41^So they took away the stone. And Jesus lifted up his eyes and said, "Father, I thank you that you have heard me. ^42^I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me." ^43^When he had said these things, he cried out with a loud voice, "Lazarus, come out." ^44^The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, "Unbind him, and let him go."
+> ^38^Then Jesus, again groaning in Himself, came to the tomb. It was a cave, and a stone lay against it. ^39^Jesus said, <red>"Take away the stone."</red> Martha, the sister of him who was dead, said to Him, "Lord, by this time there is a stench, for he has been dead four days." ^40^Jesus said to her, <red>"Did I not say to you that if you would believe you would see the glory of God?"</red> ^41^Then they took away the stone from the place where the dead man was lying. And Jesus lifted up His eyes and said, <red>"Father, I thank You that You have heard Me. ^42^And I know that You always hear Me, but because of the people who are standing by I said this, that they may believe that You sent Me."</red> ^43^Now when He had said these things, He cried with a loud voice, <red>"Lazarus, come forth!"</red> ^44^And he who had died came out bound hand and foot with graveclothes, and his face was wrapped with a cloth. Jesus said to them, <red>"Loose him, and let him go."</red>
 
 ---
 

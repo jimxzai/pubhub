@@ -15,11 +15,11 @@ scripture: 約翰福音 7-8
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^37^節期的最後一天，就是最隆重的那一天，耶穌站着，高聲說：「人若渴了，到我這裏來喝！^38^信我的人，就如經上所說：『從他腹中將流出活水的江河來。』」^39^耶穌這話是指着信他的人要受聖靈說的。那時還沒有聖靈賜下來，因為耶穌尚未得着榮耀。
+> ^37^節期的最後一天，就是最隆重的那一天，耶穌站着，高聲說：<red>「人若渴了，到我這裏來喝！^38^信我的人，就如經上所說：『從他腹中將流出活水的江河來。』」</red>^39^耶穌這話是指着信他的人要受聖靈說的。那時還沒有聖靈賜下來，因為耶穌尚未得着榮耀。
 
-#### English — ESV
+#### English — NKJV
 
-> ^37^On the last day of the feast, the great day, Jesus stood up and cried out, "If anyone thirsts, let him come to me and drink. ^38^Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.'" ^39^Now this he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.
+> ^37^On the last day, that great day of the feast, Jesus stood and cried out, saying, <red>"If anyone thirsts, let him come to Me and drink. ^38^He who believes in Me, as the Scripture has said, out of his heart will flow rivers of living water."</red> ^39^But this He spoke concerning the Spirit, whom those believing in Him would receive; for the Holy Spirit was not yet given, because Jesus was not yet glorified.
 
 ---
 
@@ -27,11 +27,11 @@ scripture: 約翰福音 7-8
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^12^耶穌又對眾人說：「我是世界的光。跟從我的，必不在黑暗裏走，卻要得着生命的光。」
+> ^12^耶穌又對眾人說：<red>「我是世界的光。跟從我的，必不在黑暗裏走，卻要得着生命的光。」</red>
 
-#### English — ESV
+#### English — NKJV
 
-> ^12^Again Jesus spoke to them, saying, "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."
+> ^12^Then Jesus spoke to them again, saying, <red>"I am the light of the world. He who follows Me shall not walk in darkness, but have the light of life."</red>
 
 ---
 
@@ -39,11 +39,11 @@ scripture: 約翰福音 7-8
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^31^耶穌對信他的猶太人說：「你們若繼續遵守我的道，就真是我的門徒了。^32^你們將認識真理，真理會使你們自由。」^33^他們回答他：「我們是亞伯拉罕的後裔，從來沒有作過誰的奴隸，你怎麼說『你們將得自由』呢？」^34^耶穌回答他們：「我實實在在地告訴你們，所有犯罪的人就是罪的奴隸。^35^奴隸不能永遠住在家裏；兒子才永遠住在家裏。^36^所以，神的兒子若使你們自由，你們就真正自由了。」
+> ^31^耶穌對信他的猶太人說：<red>「你們若繼續遵守我的道，就真是我的門徒了。^32^你們將認識真理，真理會使你們自由。」</red>^33^他們回答他：「我們是亞伯拉罕的後裔，從來沒有作過誰的奴隸，你怎麼說『你們將得自由』呢？」^34^耶穌回答他們：<red>「我實實在在地告訴你們，所有犯罪的人就是罪的奴隸。^35^奴隸不能永遠住在家裏；兒子才永遠住在家裏。^36^所以，神的兒子若使你們自由，你們就真正自由了。」</red>
 
-#### English — ESV
+#### English — NKJV
 
-> ^31^So Jesus said to the Jews who had believed him, "If you abide in my word, you are truly my disciples, ^32^and you will know the truth, and the truth will set you free." ^33^They answered him, "We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, 'You will become free'?" ^34^Jesus answered them, "Truly, truly, I say to you, everyone who practices sin is a slave to sin. ^35^The slave does not remain in the house forever; the son remains forever. ^36^So if the Son sets you free, you will be free indeed."
+> ^31^Then Jesus said to those Jews who believed Him, <red>"If you abide in My word, you are My disciples indeed. ^32^And you shall know the truth, and the truth shall make you free."</red> ^33^They answered Him, "We are Abraham's descendants, and have never been in bondage to anyone. How can You say, 'You will be made free'?" ^34^Jesus answered them, <red>"Most assuredly, I say to you, whoever commits sin is a slave of sin. ^35^And a slave does not abide in the house forever, but a son abides forever. ^36^Therefore if the Son makes you free, you shall be free indeed."</red>
 
 ---
 
@@ -51,11 +51,11 @@ scripture: 約翰福音 7-8
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> ^56^「你們的祖宗亞伯拉罕歡歡喜喜地盼望看見我的日子；他看見了，就快樂。」^57^猶太人對他說：「你還沒有五十歲，怎能見過亞伯拉罕呢？」^58^耶穌對他們說：「我實實在在地告訴你們，還沒有亞伯拉罕就有了我。」^59^於是他們拿石頭要打他，耶穌卻躲藏起來，從殿裏出去了。
+> ^56^<red>「你們的祖宗亞伯拉罕歡歡喜喜地盼望看見我的日子；他看見了，就快樂。」</red>^57^猶太人對他說：「你還沒有五十歲，怎能見過亞伯拉罕呢？」^58^耶穌對他們說：<red>「我實實在在地告訴你們，還沒有亞伯拉罕就有了我。」</red>^59^於是他們拿石頭要打他，耶穌卻躲藏起來，從殿裏出去了。
 
-#### English — ESV
+#### English — NKJV
 
-> ^56^"Your father Abraham rejoiced that he would see my day. He saw it and was glad." ^57^So the Jews said to him, "You are not yet fifty years old, and have you seen Abraham?" ^58^Jesus said to them, "Truly, truly, I say to you, before Abraham was, I am." ^59^So they picked up stones to throw at him, but Jesus hid himself and went out of the temple.
+> ^56^<red>"Your father Abraham rejoiced to see My day, and he saw it and was glad."</red> ^57^Then the Jews said to Him, "You are not yet fifty years old, and have You seen Abraham?" ^58^Jesus said to them, <red>"Most assuredly, I say to you, before Abraham was, I AM."</red> ^59^Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.
 
 ---
 
