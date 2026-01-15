@@ -160,9 +160,9 @@
 |----|------|------|------|
 | 1:1-4 | 序言：生命之道 | `01-prologue.md` | ✅ |
 | 1:5-2:2 | 行在光中 | `02-walk-in-light.md` | ✅ |
-| 2:3-17 | 遵守誡命、不愛世界 | `03-commandments.md` | ⏳ |
-| 2:18-27 | 敵基督的警告 | `04-antichrist.md` | ⏳ |
-| 2:28-3:10 | 神的兒女 | `05-children-of-god.md` | ⏳ |
+| 2:3-17 | 遵守誡命、不愛世界 | `03-commandments.md` | ✅ |
+| 2:18-27 | 敵基督的警告 | `04-antichrist.md` | ✅ |
+| 2:28-3:10 | 神的兒女 | `05-children-of-god.md` | ✅ |
 | 3:11-24 | 彼此相愛 | `06-love-one-another.md` | ⏳ |
 | 4:1-6 | 試驗諸靈 | `07-test-spirits.md` | ⏳ |
 | 4:7-21 | 神就是愛 | `08-god-is-love.md` | ⏳ |
