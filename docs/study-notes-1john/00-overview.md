@@ -163,13 +163,13 @@
 | 2:3-17 | 遵守誡命、不愛世界 | `03-commandments.md` | ✅ |
 | 2:18-27 | 敵基督的警告 | `04-antichrist.md` | ✅ |
 | 2:28-3:10 | 神的兒女 | `05-children-of-god.md` | ✅ |
-| 3:11-24 | 彼此相愛 | `06-love-one-another.md` | ⏳ |
+| 3:11-24 | 彼此相愛 | `06-love-one-another.md` | ✅ |
 | 4:1-6 | 試驗諸靈 | `07-test-spirits.md` | ⏳ |
 | 4:7-21 | 神就是愛 | `08-god-is-love.md` | ⏳ |
 | 5:1-12 | 信心的得勝 | `09-victory-of-faith.md` | ⏳ |
 | 5:13-21 | 結語：永生的確據 | `10-assurance.md` | ⏳ |
 
-**進度**: 2/10 篇 (20%)
+**進度**: 6/10 篇 (60%)
 
 ---
 
