@@ -1,7 +1,7 @@
 {
   "name": "three-books-publishing",
-  "version": "1.0.0",
-  "description": "7年三书精读出版系统：孙子兵法、资治通鉴、圣经",
+  "version": "2.0.0",
+  "description": "7年三书精读出版系统：孙子兵法、资治通鉴、圣经 (Claude Skills + Coworkers)",
   "main": "index.js",
   "scripts": {
     "new-note": "node scripts/daily-template.js",

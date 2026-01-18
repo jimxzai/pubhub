@@ -2,6 +2,8 @@
 
 本目录包含所有 Claude Code AI 辅助的配置和规则，确保 AI 始终以最高质量标准协助项目。
 
+**版本**: v2.0.0 - 支持 Claude Skills 和 Coworker 协作
+
 ---
 
 ## 📁 目录结构
@@ -9,15 +11,16 @@
 ```
 .claude/
 ├── README.md                    # 本文件：配置系统说明
-├── settings.json                # 项目核心配置
+├── settings.json                # 项目核心配置 + Skills定义 + Coworkers定义
+├── coworkers.json              # 协作团队详细配置（新增）
 ├── CONTENT_RULES.md            # 内容质量规则
 ├── STYLE_GUIDE.md              # 代码与文档风格指南
-├── commands/                   # AI Agent 命令
-│   ├── master-editor.md        # Agent 1: 总编辑
-│   ├── annotate.md             # Agent 2: 注疏师
-│   ├── ai-parallels.md         # Agent 3: AI战略家
-│   ├── proofread.md            # Agent 4: 校对神
-│   └── publish.md              # Agent 5: 出书总管
+├── commands/                   # AI Skills (升级版命令)
+│   ├── master-editor.md        # Skill 1: 总编辑
+│   ├── annotate.md             # Skill 2: 注疏师
+│   ├── ai-parallels.md         # Skill 3: AI战略家
+│   ├── proofread.md            # Skill 4: 校对神
+│   └── publish.md              # Skill 5: 出书总管
 └── prompts/                    # 自定义提示词
     └── system-context.md       # 系统上下文（自动注入）
 ```
@@ -129,6 +132,123 @@ const minWords = settings.writingStandards.dailyNote.minWords;
 - **任务**: 生成周报、月报、年度书稿
 - **输出**: 整合所有素材，发现内在逻辑，生成可出版内容
 - **规则**: 注重内在逻辑而非简单拼接，质量优先于数量
+
+---
+
+## 🔧 Skills 系统 (v2.0 新增)
+
+### 什么是 Skills?
+
+Skills 是 Claude Code 的技能系统，每个 Skill 是一个专门的 AI 能力模块，包含:
+- **description**: 技能描述
+- **allowed-tools**: 该技能可使用的工具列表
+
+### Skills 配置
+
+在 `settings.json` 中定义:
+```json
+{
+  "skills": {
+    "master-editor": {
+      "description": "Agent 1 - 总编辑：分析并分类每日笔记",
+      "allowedTools": ["Read", "Glob", "Grep", "WebSearch"]
+    }
+  }
+}
+```
+
+在每个 Skill 文件 (`.claude/commands/*.md`) 的 frontmatter 中:
+```yaml
+---
+description: Agent 1 - 总编辑：分析并分类每日笔记
+allowed-tools: ["Read", "Glob", "Grep", "WebSearch"]
+---
+```
+
+### 工具权限说明
+
+| 工具 | 用途 | 适用场景 |
+|------|------|----------|
+| `Read` | 读取文件 | 所有 Skills |
+| `Glob` | 文件匹配 | 查找文件 |
+| `Grep` | 内容搜索 | 搜索代码/文本 |
+| `WebSearch` | 网络搜索 | 查找最新信息 |
+| `WebFetch` | 获取网页 | 读取在线资源 |
+| `Edit` | 编辑文件 | 校对、修改 |
+| `Write` | 写入文件 | 创建新文档 |
+| `Bash` | 执行命令 | 运行脚本 |
+
+---
+
+### 6. `coworkers.json` - 协作团队配置 (v2.0 新增)
+
+**作用**: 定义5个AI协作者(Coworkers)的详细配置，支持团队协作工作流
+
+**核心内容**:
+- 🤝 5个专业AI协作者的完整定义
+- 📋 每个协作者的职责、原则、输入输出格式
+- 🔄 日常/周度/月度协作工作流
+- 📚 注疏师的权威来源配置
+- 🎯 AI战略家的关注领域定义
+
+**使用方式**:
+```javascript
+// 读取协作者配置
+const coworkers = require('../.claude/coworkers.json');
+const workflow = coworkers.collaboration.dailyWorkflow;
+```
+
+---
+
+## 🤝 Coworker 协作系统 (v2.0 新增)
+
+### 什么是 Coworkers?
+
+Coworkers 是 Claude Code 的协作功能，允许多个专业AI角色协同工作。每个 Coworker 有自己的专长、职责和工具权限。
+
+### 5位 AI 协作者
+
+| 协作者 | 角色 | 专长 | 工具权限 |
+|--------|------|------|----------|
+| 📝 总编辑 | 内容分析师 | 分类、评估、建议 | Read, Glob, Grep, WebSearch |
+| 📚 注疏师 | 历史评注员 | 原文、注疏、中英对照 | Read, Glob, Grep, WebSearch, WebFetch |
+| 🎯 AI战略家 | 战略分析师 | AI案例映射、战略推演 | Read, Glob, Grep, WebSearch, WebFetch |
+| ✅ 校对神 | 语言校对师 | 润色、逻辑检查、引文核对 | Read, Glob, Grep, Edit, WebSearch |
+| 📖 出书总管 | 出版经理 | 周报、月报、书稿构建 | Read, Glob, Grep, Write, Edit, Bash |
+
+### 协作工作流
+
+**日常工作流** (4步):
+```
+注疏师 → AI战略家 → 总编辑 → 校对神
+  │          │          │         │
+提供注疏   映射AI案例   分析评估   最终润色
+```
+
+**周度工作流** (2步):
+```
+出书总管 → 校对神
+    │         │
+生成周总结   校对周总结
+```
+
+**月度工作流** (3步):
+```
+出书总管 → 校对神 → 总编辑
+    │         │        │
+生成月报   校对月报   整体评估
+```
+
+### 调用 Coworker
+
+使用 `/skill-name` 调用对应的 Skill:
+```bash
+/master-editor    # 调用总编辑
+/annotate         # 调用注疏师
+/ai-parallels     # 调用AI战略家
+/proofread        # 调用校对神
+/publish          # 调用出书总管
+```
 
 ---
 
@@ -352,6 +472,22 @@ A: 将长配置拆分为多个小文件，只在需要时引用特定部分。
 
 ---
 
-**版本**: v1.0.0
-**最后更新**: 2025-11-29
+**版本**: v2.0.0
+**最后更新**: 2026-01-15
 **维护者**: Jim Xiao
+
+---
+
+## 📝 更新日志
+
+### v2.0.0 (2026-01-15)
+- **新增** Skills 系统配置 (`settings.json` 中的 `skills` 字段)
+- **新增** Coworkers 协作配置 (`settings.json` 中的 `coworkers` 字段)
+- **新增** `coworkers.json` 协作团队详细定义
+- **升级** 所有命令文件添加 `allowed-tools` 元数据
+- **文档** 更新 README 添加 Coworker 使用说明
+
+### v1.0.0 (2025-11-29)
+- 初始版本
+- 5个 AI Agent 命令
+- 项目配置和质量规则

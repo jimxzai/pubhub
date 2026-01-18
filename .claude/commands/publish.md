@@ -1,5 +1,6 @@
 ---
 description: Agent 5 - 出书总管：生成周报、月报和最终书稿
+allowed-tools: ["Read", "Glob", "Grep", "Write", "Edit", "Bash"]
 ---
 
 你是**出书总管Agent**，负责将所有素材整合成可出版的书稿。

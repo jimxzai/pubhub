@@ -1,7 +1,112 @@
 {
   "projectName": "Three Books Publishing System",
-  "description": "7年三书精读出版系统：《孙子兵法》《资治通鉴》《圣经》AI时代注疏",
-  "version": "1.0.0",
+  "description": "7年三书精读出版系统：透视人性、出路、神的计划、争战",
+  "version": "3.0.0",
+
+  "writingSoul": {
+    "coreSpirit": "透视人性、出路、神的计划、争战",
+    "theologicalFramework": {
+      "progressiveRevelation": {
+        "principle": "神的启示是渐进的，如希伯来书1:1-2所述",
+        "stages": [
+          "创造与堕落",
+          "列祖时代",
+          "摩西律法",
+          "先知时代",
+          "基督道成肉身（启示高峰）",
+          "使徒时代",
+          "启示录（终末成全）"
+        ]
+      },
+      "christCentral": {
+        "roles": ["先知（神话语最终宣告者）", "祭司（新约永恒大祭司）", "君王（万王之王）"],
+        "ultimateRevelation": "神的儿子耶稣基督亲自启示，一次献上永远的赎罪祭",
+        "keyVerse": "希伯来书10:12"
+      },
+      "faithHopeLove": {
+        "faith": "因信称义，信是所望之事的实底",
+        "hope": "活泼的盼望，主必快来",
+        "love": "神就是爱，爱永不止息",
+        "ultimate": "如今常存的有信有望有爱，其中最大的是爱（林前13:13）"
+      },
+      "loveEndures": {
+        "principle": "当主再来，信变眼见，望变实际，唯有爱永远长存",
+        "application": "无论分析战略、历史还是信仰，最终都要回归爱的维度"
+      }
+    },
+    "fourPerspectives": {
+      "humanNature": "透视人性的堕落、软弱与可能",
+      "wayOut": "透视出路——人的智慧vs神的救赎",
+      "godsPlan": "透视神从创世到新天新地的宏大计划",
+      "spiritualWarfare": "透视可见与不可见的争战"
+    },
+    "threeBooksSynthesis": {
+      "sunzi": "智慧的边界——人类智慧的巅峰与局限",
+      "tongjian": "历史的循环——需要超越历史的救赎",
+      "bible": "救赎的历史——问题诊断、唯一出路、确定盼望、永恒之爱"
+    }
+  },
+
+  "skills": {
+    "master-editor": {
+      "description": "Agent 1 - 总编辑：分析并分类每日笔记",
+      "allowedTools": ["Read", "Glob", "Grep", "WebSearch"]
+    },
+    "annotate": {
+      "description": "Agent 2 - 注疏师：添加历史注疏和中英对照",
+      "allowedTools": ["Read", "Glob", "Grep", "WebSearch", "WebFetch"]
+    },
+    "ai-parallels": {
+      "description": "Agent 3 - AI战略家：映射到2025-2035年AI博弈战例",
+      "allowedTools": ["Read", "Glob", "Grep", "WebSearch", "WebFetch"]
+    },
+    "proofread": {
+      "description": "Agent 4 - 校对神：中英双语润色、逻辑检查、引文核对",
+      "allowedTools": ["Read", "Glob", "Grep", "Edit", "WebSearch"]
+    },
+    "publish": {
+      "description": "Agent 5 - 出书总管：生成周报、月报和最终书稿",
+      "allowedTools": ["Read", "Glob", "Grep", "Write", "Edit", "Bash"]
+    }
+  },
+
+  "coworkers": {
+    "总编辑": {
+      "name": "Master Editor",
+      "role": "Content analyst and quality evaluator",
+      "description": "分析每日笔记，分类到书籍/章节，评估质量（1-5分），提供改进建议",
+      "skill": "master-editor",
+      "specialties": ["内容分类", "质量评估", "改进建议", "标签推荐"]
+    },
+    "注疏师": {
+      "name": "Annotator",
+      "role": "Historical commentary and linguistic analysis",
+      "description": "提供权威版本原文、历代注疏、关键词中英对照、考古背景",
+      "skill": "annotate",
+      "specialties": ["原典引用", "历史注疏", "中英对照", "考古背景"]
+    },
+    "AI战略家": {
+      "name": "AI Strategist",
+      "role": "AI era case mapping and strategic analysis",
+      "description": "将古典智慧映射到2025-2035年AI博弈，提供战略推演和实践建议",
+      "skill": "ai-parallels",
+      "specialties": ["战略原则提炼", "AI案例映射", "未来推演", "实践启示"]
+    },
+    "校对神": {
+      "name": "Proofreader",
+      "role": "Linguistic polish and fact verification",
+      "description": "中英双语润色、逻辑检查、引文核对、格式规范",
+      "skill": "proofread",
+      "specialties": ["语言润色", "逻辑检查", "引文核对", "格式规范"]
+    },
+    "出书总管": {
+      "name": "Publisher",
+      "role": "Content aggregation and manuscript generation",
+      "description": "整合周报、月报、年度书稿，注重内在逻辑而非简单拼接",
+      "skill": "publish",
+      "specialties": ["周报生成", "月报生成", "书稿构建", "目录规划"]
+    }
+  },
   "startDate": "2025-11-29",
   "endDate": "2032-11-29",
 
