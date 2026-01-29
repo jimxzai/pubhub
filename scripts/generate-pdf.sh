@@ -228,6 +228,53 @@ main() {
             fi
             ;;
 
+        sunzi)
+            # 孫子兵法・三書對照
+            SUNZI_DIR="$PROJECT_ROOT/books/sunzi"
+            SUNZI_OUTPUT="$SUNZI_DIR/output"
+            mkdir -p "$SUNZI_OUTPUT"
+
+            echo -e "${BLUE}构建孫子兵法書稿...${NC}"
+            node "$SCRIPT_DIR/build-sunzi-book.js"
+
+            echo -e "${BLUE}生成PDF...${NC}"
+            pandoc "$SUNZI_OUTPUT/孫子兵法-三書對照.md" \
+                -o "$SUNZI_OUTPUT/孫子兵法-三書對照.pdf" \
+                --pdf-engine=xelatex \
+                -V mainfont="$MAIN_FONT" \
+                -V CJKmainfont="$MAIN_FONT" \
+                -V monofont="$MONO_FONT" \
+                -V geometry:margin=2.5cm \
+                -V papersize=a4 \
+                -V fontsize=11pt \
+                -V documentclass=book \
+                -V classoption=openany \
+                -V linkcolor=blue \
+                -V urlcolor=blue \
+                -V toccolor=black \
+                --toc \
+                --toc-depth=3 \
+                --number-sections \
+                --highlight-style=tango \
+                -V header-includes="\usepackage{fancyhdr}\pagestyle{fancy}\fancyhead[L]{孫子兵法}\fancyhead[R]{三書對照}"
+
+            if [ -f "$SUNZI_OUTPUT/孫子兵法-三書對照.pdf" ]; then
+                echo -e "${GREEN}✅ PDF生成成功!${NC}"
+                echo -e "${GREEN}   文件: $SUNZI_OUTPUT/孫子兵法-三書對照.pdf${NC}"
+                echo -e "${GREEN}   大小: $(du -h "$SUNZI_OUTPUT/孫子兵法-三書對照.pdf" | cut -f1)${NC}"
+                if [[ "$OSTYPE" == "darwin"* ]]; then
+                    read -p "是否打开PDF? [y/N] " -n 1 -r
+                    echo
+                    if [[ $REPLY =~ ^[Yy]$ ]]; then
+                        open "$SUNZI_OUTPUT/孫子兵法-三書對照.pdf"
+                    fi
+                fi
+            else
+                echo -e "${RED}❌ PDF生成失败${NC}"
+                exit 1
+            fi
+            ;;
+
         help|--help|-h)
             echo "三書出版系統 - PDF生成脚本"
             echo ""
@@ -240,6 +287,7 @@ main() {
             echo "  training      生成培训材料PDF"
             echo "  volume-N      生成第N卷PDF (N=1-8)"
             echo "  revelation    生成啟示錄導讀PDF"
+            echo "  sunzi         生成孫子兵法・三書對照PDF"
             echo ""
             echo "示例:"
             echo "  ./scripts/generate-pdf.sh"

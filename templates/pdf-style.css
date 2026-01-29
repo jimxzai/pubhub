@@ -1,0 +1,233 @@
+/**
+ * PDF 樣式模板
+ * 用於 md-to-pdf 或瀏覽器打印
+ */
+
+/* 頁面設置 */
+@page {
+  size: A4;
+  margin: 2.5cm;
+}
+
+/* 基本排版 */
+body {
+  font-family: "Noto Serif CJK TC", "Source Han Serif TC", "Times New Roman", serif;
+  font-size: 12pt;
+  line-height: 1.8;
+  color: #333;
+}
+
+/* 標題 */
+h1 {
+  font-size: 24pt;
+  font-weight: bold;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  page-break-before: always;
+  border-bottom: 2px solid #333;
+  padding-bottom: 0.5em;
+}
+
+h1:first-of-type {
+  page-break-before: avoid;
+}
+
+h2 {
+  font-size: 18pt;
+  font-weight: bold;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+  color: #444;
+}
+
+h3 {
+  font-size: 14pt;
+  font-weight: bold;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+h4 {
+  font-size: 12pt;
+  font-weight: bold;
+  margin-top: 1em;
+  margin-bottom: 0.5em;
+}
+
+/* 段落 */
+p {
+  margin-bottom: 1em;
+  text-align: justify;
+}
+
+/* 引用 */
+blockquote {
+  margin: 1.5em 2em;
+  padding: 0.5em 1em;
+  border-left: 4px solid #666;
+  background: #f9f9f9;
+  font-style: italic;
+}
+
+blockquote p {
+  margin-bottom: 0.5em;
+}
+
+/* 代碼塊 */
+pre {
+  background: #f4f4f4;
+  padding: 1em;
+  border-radius: 4px;
+  overflow-x: auto;
+  font-family: "Source Code Pro", "Consolas", monospace;
+  font-size: 10pt;
+  line-height: 1.4;
+}
+
+code {
+  font-family: "Source Code Pro", "Consolas", monospace;
+  background: #f4f4f4;
+  padding: 0.1em 0.3em;
+  border-radius: 2px;
+  font-size: 10pt;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+}
+
+/* 表格 */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  font-size: 11pt;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 0.6em 0.8em;
+  text-align: left;
+}
+
+th {
+  background: #f0f0f0;
+  font-weight: bold;
+}
+
+tr:nth-child(even) {
+  background: #fafafa;
+}
+
+/* 列表 */
+ul, ol {
+  margin: 1em 0;
+  padding-left: 2em;
+}
+
+li {
+  margin-bottom: 0.5em;
+}
+
+/* 水平線 */
+hr {
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 2em 0;
+}
+
+/* 強調 */
+strong {
+  font-weight: bold;
+}
+
+em {
+  font-style: italic;
+}
+
+/* 連結 */
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+/* 標籤 */
+.tags code {
+  display: inline-block;
+  background: #e0e0e0;
+  padding: 0.2em 0.5em;
+  margin: 0.2em;
+  border-radius: 3px;
+  font-size: 9pt;
+}
+
+/* 分頁 */
+.page-break {
+  page-break-after: always;
+}
+
+/* 目錄 */
+.toc {
+  page-break-after: always;
+}
+
+.toc h2 {
+  border-bottom: none;
+}
+
+.toc ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.toc li {
+  margin-bottom: 0.3em;
+}
+
+.toc a {
+  color: inherit;
+}
+
+/* 封面 */
+.cover {
+  text-align: center;
+  padding-top: 30%;
+}
+
+.cover h1 {
+  border: none;
+  font-size: 36pt;
+}
+
+.cover .subtitle {
+  font-size: 18pt;
+  color: #666;
+  margin-top: 1em;
+}
+
+.cover .meta {
+  margin-top: 3em;
+  font-size: 12pt;
+  color: #888;
+}
+
+/* 希臘文和希伯來文 */
+.greek, .hebrew {
+  font-family: "SBL Greek", "SBL Hebrew", "Times New Roman", serif;
+}
+
+/* 打印優化 */
+@media print {
+  body {
+    font-size: 11pt;
+  }
+
+  a {
+    color: inherit;
+  }
+
+  pre {
+    white-space: pre-wrap;
+  }
+}

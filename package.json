@@ -14,7 +14,9 @@
     "build:bible-tongjian:training": "node scripts/build-bible-tongjian-book.js --training",
     "pdf": "bash scripts/generate-pdf.sh",
     "pdf:academic": "bash scripts/generate-pdf.sh academic",
-    "pdf:training": "bash scripts/generate-pdf.sh training"
+    "pdf:training": "bash scripts/generate-pdf.sh training",
+    "build:revelation": "node scripts/build-revelation-book.js",
+    "pdf:revelation": "bash scripts/generate-pdf.sh revelation"
   },
   "keywords": [
     "sunzi",
