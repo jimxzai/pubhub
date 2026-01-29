@@ -7,8 +7,10 @@
 ### 前言與導讀
 
 - [序言：研讀約翰福音的邀請](./00-preface.md)
-- [神學框架：漸進啟示與永恆之愛](./00-progressive-revelation.md) ⭐ 新增
+- [神學框架：漸進啟示與永恆之愛](./00-progressive-revelation.md)
 - [導論：約翰福音的正典地位——承上啟下的完整啟示](./chapter-00-canonical-context.md)
+- [啟示錄導讀：七教會書信](./00-revelation-seven-churches.md) ⭐ 新增
+- [啟示錄導讀：天上寶座與羔羊](./00-revelation-throne-lamb.md) ⭐ 新增
 
 ---
 
