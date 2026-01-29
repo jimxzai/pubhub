@@ -8,7 +8,13 @@
     "weekly-summary": "node scripts/weekly-summary.js",
     "monthly-report": "node scripts/monthly-report.js",
     "build-book": "node scripts/build-book.js",
-    "stats": "node scripts/stats.js"
+    "stats": "node scripts/stats.js",
+    "build:bible-tongjian": "node scripts/build-bible-tongjian-book.js",
+    "build:bible-tongjian:academic": "node scripts/build-bible-tongjian-book.js --academic",
+    "build:bible-tongjian:training": "node scripts/build-bible-tongjian-book.js --training",
+    "pdf": "bash scripts/generate-pdf.sh",
+    "pdf:academic": "bash scripts/generate-pdf.sh academic",
+    "pdf:training": "bash scripts/generate-pdf.sh training"
   },
   "keywords": [
     "sunzi",
