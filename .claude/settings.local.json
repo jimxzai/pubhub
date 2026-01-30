@@ -34,7 +34,12 @@
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-scholarly.sh:*)",
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-harmony-liturgical.sh:*)",
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-niv-study.sh:*)",
-      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-macarthur.sh:*)"
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-gospel-macarthur.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-jesus-for-kids.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-jesus-for-kids-6plus.sh:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-jesus-for-teens.sh)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-bible-heroes-teens.sh)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-1cor.sh)"
     ]
   }
 }
