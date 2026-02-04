@@ -2,7 +2,6 @@
   "projectName": "Three Books Publishing System",
   "description": "7年三书精读出版系统：透视人性、出路、神的计划、争战",
   "version": "3.0.0",
-
   "writingSoul": {
     "coreSpirit": "透视人性、出路、神的计划、争战",
     "theologicalFramework": {
@@ -19,7 +18,11 @@
         ]
       },
       "christCentral": {
-        "roles": ["先知（神话语最终宣告者）", "祭司（新约永恒大祭司）", "君王（万王之王）"],
+        "roles": [
+          "先知（神话语最终宣告者）",
+          "祭司（新约永恒大祭司）",
+          "君王（万王之王）"
+        ],
         "ultimateRevelation": "神的儿子耶稣基督亲自启示，一次献上永远的赎罪祭",
         "keyVerse": "希伯来书10:12"
       },
@@ -47,98 +50,273 @@
     },
     "characterTreasury": {
       "bibleCharacters": {
-        "creation": ["亚当", "夏娃", "该隐", "挪亚"],
-        "patriarchs": ["亚伯拉罕", "以撒", "雅各", "约瑟"],
-        "exodus": ["摩西", "亚伦", "米利暗"],
-        "judges": ["基甸", "参孙", "底波拉", "路得"],
-        "kingdom": ["撒母耳", "大卫", "所罗门", "扫罗"],
-        "exile": ["但以理", "以斯帖", "以斯拉", "尼希米"],
-        "prophets": ["以赛亚", "耶利米", "以西结"],
-        "gospel": ["耶稣", "十二门徒", "马利亚"],
-        "apostolic": ["彼得", "保罗", "司提反"]
+        "creation": [
+          "亚当",
+          "夏娃",
+          "该隐",
+          "挪亚"
+        ],
+        "patriarchs": [
+          "亚伯拉罕",
+          "以撒",
+          "雅各",
+          "约瑟"
+        ],
+        "exodus": [
+          "摩西",
+          "亚伦",
+          "米利暗"
+        ],
+        "judges": [
+          "基甸",
+          "参孙",
+          "底波拉",
+          "路得"
+        ],
+        "kingdom": [
+          "撒母耳",
+          "大卫",
+          "所罗门",
+          "扫罗"
+        ],
+        "exile": [
+          "但以理",
+          "以斯帖",
+          "以斯拉",
+          "尼希米"
+        ],
+        "prophets": [
+          "以赛亚",
+          "耶利米",
+          "以西结"
+        ],
+        "gospel": [
+          "耶稣",
+          "十二门徒",
+          "马利亚"
+        ],
+        "apostolic": [
+          "彼得",
+          "保罗",
+          "司提反"
+        ]
       },
       "tongjianCharacters": {
-        "warringStates": ["苏秦", "张仪", "范雎", "白起"],
-        "qin": ["秦始皇", "李斯", "赵高"],
-        "chuHan": ["刘邦", "项羽", "韩信", "张良"],
-        "westernHan": ["汉武帝", "霍光", "司马迁"],
-        "threeKingdoms": ["曹操", "刘备", "孙权", "诸葛亮"],
-        "tang": ["唐太宗", "魏征", "武则天", "唐玄宗"]
+        "warringStates": [
+          "苏秦",
+          "张仪",
+          "范雎",
+          "白起"
+        ],
+        "qin": [
+          "秦始皇",
+          "李斯",
+          "赵高"
+        ],
+        "chuHan": [
+          "刘邦",
+          "项羽",
+          "韩信",
+          "张良"
+        ],
+        "westernHan": [
+          "汉武帝",
+          "霍光",
+          "司马迁"
+        ],
+        "threeKingdoms": [
+          "曹操",
+          "刘备",
+          "孙权",
+          "诸葛亮"
+        ],
+        "tang": [
+          "唐太宗",
+          "魏征",
+          "武则天",
+          "唐玄宗"
+        ]
       },
       "characterParallels": {
-        "founders": {"bible": ["摩西", "约书亚", "大卫"], "tongjian": ["刘邦", "李世民", "光武帝"]},
-        "counselors": {"bible": ["约瑟", "但以理"], "tongjian": ["张良", "诸葛亮"]},
-        "tragedies": {"bible": ["扫罗", "参孙"], "tongjian": ["项羽", "韩信"]},
-        "loyalists": {"bible": ["尼希米", "但以理"], "tongjian": ["魏征", "房玄龄"]},
-        "rebels": {"bible": ["押沙龙", "犹大"], "tongjian": ["王莽", "安禄山"]}
+        "founders": {
+          "bible": [
+            "摩西",
+            "约书亚",
+            "大卫"
+          ],
+          "tongjian": [
+            "刘邦",
+            "李世民",
+            "光武帝"
+          ]
+        },
+        "counselors": {
+          "bible": [
+            "约瑟",
+            "但以理"
+          ],
+          "tongjian": [
+            "张良",
+            "诸葛亮"
+          ]
+        },
+        "tragedies": {
+          "bible": [
+            "扫罗",
+            "参孙"
+          ],
+          "tongjian": [
+            "项羽",
+            "韩信"
+          ]
+        },
+        "loyalists": {
+          "bible": [
+            "尼希米",
+            "但以理"
+          ],
+          "tongjian": [
+            "魏征",
+            "房玄龄"
+          ]
+        },
+        "rebels": {
+          "bible": [
+            "押沙龙",
+            "犹大"
+          ],
+          "tongjian": [
+            "王莽",
+            "安禄山"
+          ]
+        }
       },
-      "narrativeTypes": ["英雄叙事", "悲剧叙事", "转化叙事", "救赎叙事", "忠心叙事", "悔改叙事"]
+      "narrativeTypes": [
+        "英雄叙事",
+        "悲剧叙事",
+        "转化叙事",
+        "救赎叙事",
+        "忠心叙事",
+        "悔改叙事"
+      ]
     }
   },
-
   "skills": {
     "master-editor": {
       "description": "Agent 1 - 总编辑：分析并分类每日笔记",
-      "allowedTools": ["Read", "Glob", "Grep", "WebSearch"]
+      "allowedTools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "WebSearch"
+      ]
     },
     "annotate": {
       "description": "Agent 2 - 注疏师：添加历史注疏和中英对照",
-      "allowedTools": ["Read", "Glob", "Grep", "WebSearch", "WebFetch"]
+      "allowedTools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "WebSearch",
+        "WebFetch"
+      ]
     },
     "ai-parallels": {
       "description": "Agent 3 - AI战略家：映射到2025-2035年AI博弈战例",
-      "allowedTools": ["Read", "Glob", "Grep", "WebSearch", "WebFetch"]
+      "allowedTools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "WebSearch",
+        "WebFetch"
+      ]
     },
     "proofread": {
       "description": "Agent 4 - 校对神：中英双语润色、逻辑检查、引文核对",
-      "allowedTools": ["Read", "Glob", "Grep", "Edit", "WebSearch"]
+      "allowedTools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Edit",
+        "WebSearch"
+      ]
     },
     "publish": {
       "description": "Agent 5 - 出书总管：生成周报、月报和最终书稿",
-      "allowedTools": ["Read", "Glob", "Grep", "Write", "Edit", "Bash"]
+      "allowedTools": [
+        "Read",
+        "Glob",
+        "Grep",
+        "Write",
+        "Edit",
+        "Bash"
+      ]
     }
   },
-
   "coworkers": {
     "总编辑": {
       "name": "Master Editor",
       "role": "Content analyst and quality evaluator",
       "description": "分析每日笔记，分类到书籍/章节，评估质量（1-5分），提供改进建议",
       "skill": "master-editor",
-      "specialties": ["内容分类", "质量评估", "改进建议", "标签推荐"]
+      "specialties": [
+        "内容分类",
+        "质量评估",
+        "改进建议",
+        "标签推荐"
+      ]
     },
     "注疏师": {
       "name": "Annotator",
       "role": "Historical commentary and linguistic analysis",
       "description": "提供权威版本原文、历代注疏、关键词中英对照、考古背景",
       "skill": "annotate",
-      "specialties": ["原典引用", "历史注疏", "中英对照", "考古背景"]
+      "specialties": [
+        "原典引用",
+        "历史注疏",
+        "中英对照",
+        "考古背景"
+      ]
     },
     "AI战略家": {
       "name": "AI Strategist",
       "role": "AI era case mapping and strategic analysis",
       "description": "将古典智慧映射到2025-2035年AI博弈，提供战略推演和实践建议",
       "skill": "ai-parallels",
-      "specialties": ["战略原则提炼", "AI案例映射", "未来推演", "实践启示"]
+      "specialties": [
+        "战略原则提炼",
+        "AI案例映射",
+        "未来推演",
+        "实践启示"
+      ]
     },
     "校对神": {
       "name": "Proofreader",
       "role": "Linguistic polish and fact verification",
       "description": "中英双语润色、逻辑检查、引文核对、格式规范",
       "skill": "proofread",
-      "specialties": ["语言润色", "逻辑检查", "引文核对", "格式规范"]
+      "specialties": [
+        "语言润色",
+        "逻辑检查",
+        "引文核对",
+        "格式规范"
+      ]
     },
     "出书总管": {
       "name": "Publisher",
       "role": "Content aggregation and manuscript generation",
       "description": "整合周报、月报、年度书稿，注重内在逻辑而非简单拼接",
       "skill": "publish",
-      "specialties": ["周报生成", "月报生成", "书稿构建", "目录规划"]
+      "specialties": [
+        "周报生成",
+        "月报生成",
+        "书稿构建",
+        "目录规划"
+      ]
     }
   },
   "startDate": "2025-11-29",
   "endDate": "2032-11-29",
-
   "contextRules": {
     "projectContext": [
       "这是一个7年（2557天）的长期知识积累项目",
@@ -146,7 +324,6 @@
       "每日工作量：60-90分钟，300-500字心得",
       "输出语言：中文为主，关键术语中英对照"
     ],
-
     "bookContext": {
       "sunzi": {
         "fullName": "孙子兵法",
@@ -173,7 +350,6 @@
         "focus": "信仰母题与AI伦理"
       }
     },
-
     "aiEraMapping": {
       "period": "2025-2035",
       "keyPlayers": [
@@ -195,7 +371,6 @@
       ]
     }
   },
-
   "writingStandards": {
     "dailyNote": {
       "minWords": 300,
@@ -210,7 +385,6 @@
       "noEmojis": true,
       "citationRequired": true
     },
-
     "weeklySummary": {
       "minWords": 1000,
       "maxWords": 2000,
@@ -221,7 +395,6 @@
         "下周阅读计划"
       ]
     },
-
     "monthlyReport": {
       "minWords": 5000,
       "maxWords": 7000,
@@ -233,38 +406,32 @@
       ]
     }
   },
-
   "agentBehaviorRules": {
     "masterEditor": {
       "priority": "客观评估，不过度夸赞",
       "scoring": "1-5分制，严格标准",
       "feedback": "具体、可执行、有深度"
     },
-
     "annotator": {
       "citationAccuracy": "必须核对原文，不可杜撰",
       "historicalContext": "提供考古证据和文本变迁",
       "bilingualRequired": true
     },
-
     "aiStrategist": {
       "caseMustBeReal": "只使用真实的AI事件，不可虚构",
       "timeRange": "2020-2035",
       "depth": "不仅描述现象，更要分析底层原理"
     },
-
     "proofreader": {
       "strictness": "high",
       "preserveVoice": "保持作者原有语言风格",
       "factCheck": "核对所有引用和数据"
     },
-
     "publisher": {
       "integration": "注重内容的内在逻辑，而非简单拼接",
       "quality": "宁缺毋滥，质量优先于数量"
     }
   },
-
   "forbiddenPatterns": {
     "language": [
       "避免空洞的溢美之词（'非常棒'、'太厉害了'等）",
@@ -272,21 +439,18 @@
       "避免AI腔调（'让我们一起'、'深入探讨'等套话）",
       "避免重复使用'赋能'、'颠覆'、'革命性'等商业术语"
     ],
-
     "content": [
       "不杜撰历史注疏",
       "不编造AI公司事件",
       "不过度简化复杂概念",
       "不脱离原文过度发挥"
     ],
-
     "structure": [
       "避免每段都用相同句式开头",
       "避免过度使用列表",
       "避免标题党式的章节名"
     ]
   },
-
   "qualityChecklist": {
     "beforePublish": [
       "原文引用是否准确？",
@@ -298,7 +462,6 @@
       "字数是否符合标准？"
     ]
   },
-
   "automationRules": {
     "dailyReminder": "每天早上7:00",
     "weeklySummary": "每周六8:00自动生成草稿",
@@ -306,14 +469,12 @@
     "backupFrequency": "每次提交自动推送到GitHub",
     "progressTracking": "自动统计字数、笔记数、完成百分比"
   },
-
   "fileNamingConvention": {
     "dailyNote": "YYYY-MM-DD.md",
     "weeklySummary": "YYYY-MM-WN.md (N为周数)",
     "monthlyReport": "YYYY-MM.md",
     "bookDraft": "书名-章节-vX.Y.md"
   },
-
   "gitCommitRules": {
     "dailyNote": "📝 Daily note: YYYY-MM-DD",
     "weeklySummary": "📊 Weekly summary: YYYY-MM-WN",
@@ -321,7 +482,6 @@
     "systemUpdate": "🔧 System update: 简短描述",
     "alwaysInclude": "🤖 Generated with Claude Code\\nCo-Authored-By: Claude <noreply@anthropic.com>"
   },
-
   "progressMilestones": {
     "daily": "每完成1篇笔记",
     "weekly": "每完成7篇笔记（1周）",
@@ -330,15 +490,27 @@
     "yearly": "每完成365篇笔记（1年），构建年度书稿",
     "final": "完成2557篇笔记（7年），出版传世之作"
   },
-
   "recommendedTools": {
-    "writing": ["VS Code", "Obsidian"],
-    "audioLearning": ["NotebookLM"],
-    "versionControl": ["Git", "GitHub"],
-    "automation": ["Node.js scripts", "GitHub Actions"],
-    "publishing": ["Pandoc", "LaTeX"]
+    "writing": [
+      "VS Code",
+      "Obsidian"
+    ],
+    "audioLearning": [
+      "NotebookLM"
+    ],
+    "versionControl": [
+      "Git",
+      "GitHub"
+    ],
+    "automation": [
+      "Node.js scripts",
+      "GitHub Actions"
+    ],
+    "publishing": [
+      "Pandoc",
+      "LaTeX"
+    ]
   },
-
   "customInstructions": {
     "whenAskedForHelp": "参考 GET_STARTED.md 和 QUICK_START.md，提供具体可执行的步骤",
     "whenAnalyzingNote": "使用 /master-editor 命令，按照质量清单严格评估",
@@ -346,5 +518,10 @@
     "whenMappingToAI": "使用 /ai-parallels 命令，只使用真实案例",
     "whenProofreading": "使用 /proofread 命令，保持作者语言风格",
     "whenGeneratingReport": "使用 /publish 命令，注重内在逻辑而非简单拼接"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)"
+    ]
   }
 }
