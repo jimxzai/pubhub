@@ -1,0 +1,688 @@
+\input{preamble}
+
+\begin{document}
+
+%% HALF TITLE
+\thispagestyle{empty}
+\vspace*{2.5in}
+\begin{center}
+{\Huge\bfseries The AI-Powered\\One-Person Company}
+\end{center}
+\newpage
+
+%% TITLE PAGE
+\thispagestyle{empty}
+\vspace*{1in}
+\begin{center}
+{\Huge\bfseries\color{oreilly-dark} The AI-Powered\\One-Person Company}
+
+\vspace{0.5in}
+
+{\Large\color{oreilly-gray} From Solopreneur to Scale}
+
+\vspace{0.3in}
+
+{\large\color{oreilly-gray} Building Your AI Agent Workforce for\\Sales, Marketing, CRM \& Operations}
+
+\vspace{1.2in}
+
+\includegraphics[width=3in]{../images/cover-animal.png}
+
+\vspace{1.2in}
+
+{\Large Jim Xiao}
+
+\vfill
+
+{\large\color{oreilly-red}\textbf{O'REILLY}}
+\end{center}
+\newpage
+
+%% COPYRIGHT
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{small}
+\noindent\textbf{The AI-Powered One-Person Company}\\
+\textit{From Solopreneur to Scale: Building Your AI Agent Workforce}\\
+by Jim Xiao
+
+\vspace{1.5em}
+\noindent Copyright \textcopyright\ 2026 Jim Xiao. All rights reserved.
+
+\vspace{1em}
+\noindent Printed in the United States of America.
+
+\vspace{1em}
+\noindent Published by O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472.
+
+\vspace{1em}
+\noindent O'Reilly books may be purchased for educational, business, or sales promotional use. Online editions are also available for most titles (\textit{https://oreilly.com}). For more information, contact our corporate/institutional sales department: 800-998-9938 or \textit{corporate@oreilly.com}.
+
+\vspace{1em}
+\noindent\textbf{Acquisitions Editor:} TBD\\
+\textbf{Development Editor:} TBD\\
+\textbf{Production Editor:} TBD\\
+\textbf{Copyeditor:} TBD\\
+\textbf{Proofreader:} TBD\\
+\textbf{Indexer:} TBD\\
+\textbf{Interior Designer:} TBD\\
+\textbf{Cover Designer:} TBD\\
+\textbf{Illustrator:} TBD
+
+\vspace{1em}
+\noindent January 2026: First Edition
+
+\vspace{1em}
+\noindent\textbf{Revision History for the First Edition}\\
+2026-01-15: First Release
+
+\vspace{1em}
+\noindent See \textit{https://oreilly.com/catalog/errata.csp?isbn=9781234567890} for release details.
+
+\vspace{1em}
+\noindent The O'Reilly logo is a registered trademark of O'Reilly Media, Inc. \textit{The AI-Powered One-Person Company}, the cover image, and related trade dress are trademarks of O'Reilly Media, Inc.
+
+\vspace{1em}
+\noindent The views expressed in this work are those of the author and do not represent the publisher's views. While the publisher and the author have used good faith efforts to ensure that the information and instructions contained in this work are accurate, the publisher and the author disclaim all responsibility for errors or omissions, including without limitation responsibility for damages resulting from the use of or reliance on this work. Use of the information and instructions contained in this work is at your own risk.
+
+\vspace{1em}
+\noindent 978-1-234-56789-0\\
+{[}LSI{]}
+\end{small}
+\newpage
+
+%% DEDICATION
+\thispagestyle{empty}
+\vspace*{2.5in}
+\begin{center}
+\textit{\large For every entrepreneur who dared to build alone,\\[0.5em]
+and for the AI partners who now stand beside them.}
+
+\vspace{2em}
+
+\textit{And to my family,\\[0.3em]
+who believed in this vision before anyone else could see it.}
+\end{center}
+\newpage
+
+%% ============================================================
+%% PREFACE
+%% ============================================================
+\chapter*{Preface}
+\addcontentsline{toc}{chapter}{Preface}
+
+\begin{center}
+\begin{tikzpicture}[scale=0.8]
+    % AI Agent illustration
+    \draw[thick, oreilly-red, fill=oreilly-red!10] (0,0) circle (1.5cm);
+    \node at (0,0) {\Large\textbf{AI}};
+
+    % Surrounding agents
+    \foreach \angle/\name in {60/Emma, 120/Sam, 180/Maya, 240/Casey, 300/Finn, 0/Oscar} {
+        \draw[thick, oreilly-gray] (\angle:2.5cm) circle (0.8cm);
+        \node[font=\small] at (\angle:2.5cm) {\name};
+        \draw[->, thick, oreilly-red!60] (\angle:1.6cm) -- (\angle:1.7cm);
+    }
+
+    % Central connection
+    \node[below] at (0,-3.5) {\textit{Your AI Agent Team}};
+\end{tikzpicture}
+\end{center}
+
+\vspace{1em}
+
+When I first started writing this book, I asked myself a simple question: if I could tell my past self everything I've learned about AI and business over the past three years, what would I say?
+
+The answer is the book you're holding.
+
+\vspace{0.5em}
+
+In 2023, I was like most entrepreneurs: overwhelmed by daily operations, working sixty to seventy hours a week, and feeling like I was always catching up. I knew AI was changing the world, but I didn't know how it could change \textit{my} world.
+
+\vspace{0.5em}
+
+Three years later, my business runs on six AI agents. I work thirty hours a week. My revenue has doubled. More importantly, I've rediscovered the original purpose of entrepreneurship---doing meaningful work, not being drowned by it.
+
+\vspace{0.5em}
+
+This book isn't about the future of AI. It's about the \textbf{present}---the concrete systems, proven methods, and practical tools you can implement today.
+
+\vspace{0.5em}
+
+Welcome to the new era of the one-person company.
+
+\vspace{2em}
+\begin{flushright}
+\textit{Jim Xiao}\\
+\textit{January 2026}
+\end{flushright}
+
+\newpage
+
+%% ============================================================
+%% INTRODUCTION: HOW TO USE THIS BOOK
+%% ============================================================
+\chapter*{Introduction: How to Use This Book}
+\addcontentsline{toc}{chapter}{Introduction: How to Use This Book}
+
+\section*{Book Structure}
+
+This book is divided into eight parts, designed to be read cover-to-cover or used as a reference manual:
+
+\begin{center}
+\begin{tikzpicture}[
+    node distance=0.7cm,
+    box/.style={rectangle, draw=oreilly-red, fill=oreilly-red!10, text width=5.5cm, minimum height=0.9cm, align=center, rounded corners=3pt, font=\small},
+    arrow/.style={->, thick, oreilly-gray}
+]
+    \node[box] (p1) {Part I: The Paradigm Shift\\(Chapters 1--3)};
+    \node[box, below=of p1] (p2) {Part II: Your AI Agent Team\\(Chapters 4--9)};
+    \node[box, below=of p2] (p3) {Part III: The AI-Native Business\\(Chapters 10--11)};
+    \node[box, below=of p3] (p4) {Part IV: Technical Infrastructure\\(Chapters 12--14)};
+    \node[box, below=of p4] (p5) {Parts V--VII: Playbooks \& Transformation\\(Chapters 15--18)};
+    \node[box, below=of p5] (p6) {Part VIII: The Next Frontier\\(Chapters 19--21)};
+
+    \draw[arrow] (p1) -- (p2);
+    \draw[arrow] (p2) -- (p3);
+    \draw[arrow] (p3) -- (p4);
+    \draw[arrow] (p4) -- (p5);
+    \draw[arrow] (p5) -- (p6);
+\end{tikzpicture}
+\end{center}
+
+\section*{Reading Recommendations}
+
+\begin{itemize}
+\item \textbf{Beginners:} Start from the beginning and read sequentially. Each chapter builds on the previous one.
+\item \textbf{Eager implementers:} Read Chapter 1 for the big picture, then skip to Chapter 18's 90-day plan, and come back to fill in the details.
+\item \textbf{Technical readers:} You can jump directly to Part IV (Technical Infrastructure), but we recommend skimming Chapter 2 first to understand the design philosophy.
+\item \textbf{Specific needs:} Each agent chapter (Chapters 4--9) is self-contained and can be read and implemented independently.
+\end{itemize}
+
+\section*{Conventions Used in This Book}
+
+\begin{note}[Note]
+Boxes like this contain supplementary information, background knowledge, or additional explanations.
+\end{note}
+
+\begin{tip}[Tip]
+Tip boxes contain practical advice and best practices.
+\end{tip}
+
+\begin{warning}[Warning]
+Warning boxes identify common pitfalls and mistakes to avoid.
+\end{warning}
+
+\begin{keyinsight}[Key Insight]
+Key insight boxes summarize the main takeaways from each chapter or section.
+\end{keyinsight}
+
+\newpage
+
+%% TABLE OF CONTENTS
+\tableofcontents
+\newpage
+
+%% ============================================================
+%% PART 1: THE PARADIGM SHIFT
+%% ============================================================
+\part{The Paradigm Shift}
+
+\input{chapters/ch01}
+\input{chapters/ch02}
+\input{chapters/ch03}
+
+%% ============================================================
+%% PART 2: YOUR AI AGENT TEAM
+%% ============================================================
+\part{Your AI Agent Team}
+
+\input{chapters/ch04}
+\input{chapters/ch05}
+\input{chapters/ch06}
+\input{chapters/ch07}
+\input{chapters/ch08}
+\input{chapters/ch09}
+
+%% ============================================================
+%% PART 3: THE AI-NATIVE BUSINESS
+%% ============================================================
+\part{The AI-Native Business}
+
+\input{chapters/ch10}
+\input{chapters/ch11}
+
+%% ============================================================
+%% PART 4: TECHNICAL INFRASTRUCTURE
+%% ============================================================
+\part{Technical Infrastructure}
+
+\input{chapters/ch12}
+\input{chapters/ch13}
+\input{chapters/ch14}
+
+%% ============================================================
+%% PART 5: ADVANCED PLAYBOOKS
+%% ============================================================
+\part{Advanced Playbooks}
+
+\input{chapters/ch15}
+\input{chapters/ch16}
+
+%% ============================================================
+%% PART 6: CASE STUDIES
+%% ============================================================
+\part{Case Studies}
+
+\input{chapters/ch17}
+
+%% ============================================================
+%% PART 7: YOUR TRANSFORMATION
+%% ============================================================
+\part{Your Transformation}
+
+\input{chapters/ch18}
+
+%% ============================================================
+%% PART 8: THE NEXT FRONTIER
+%% ============================================================
+\part{The Next Frontier}
+
+\input{chapters/ch19}
+\input{chapters/ch20}
+\input{chapters/ch21}
+
+%% ============================================================
+%% APPENDICES
+%% ============================================================
+\appendix
+
+\chapter{Tools and Resources}
+
+\section{AI Platforms}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{Tool} & \textbf{Use Case} & \textbf{Monthly Cost} & \textbf{Rating} \\
+\hline
+Claude Pro & Primary AI agent & \$20 & 5/5 \\
+ChatGPT Plus & Alternative AI & \$20 & 4/5 \\
+Gemini Advanced & Document processing & \$20 & 4/5 \\
+\hline
+\end{tabular}
+\caption{AI Platform Comparison}
+\end{table}
+
+\section{Automation Tools}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{Tool} & \textbf{Use Case} & \textbf{Monthly Cost} & \textbf{Best For} \\
+\hline
+n8n & Workflow automation & \$20+ & Technical users \\
+Make & Visual automation & \$9+ & Non-technical users \\
+Zapier & Simple integrations & \$20+ & Quick start \\
+\hline
+\end{tabular}
+\caption{Automation Tools Comparison}
+\end{table}
+
+\section{Knowledge Management}
+
+\begin{itemize}
+\item \textbf{Obsidian} (Free): The recommended knowledge base tool in this book
+\item \textbf{Notion}: Great for team collaboration
+\item \textbf{Logseq}: Open-source alternative
+\end{itemize}
+
+\chapter{Prompt Template Library}
+
+\section{Emma (Executive Assistant) Core Prompts}
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# Emma System Prompt
+
+You are Emma, an executive assistant AI agent.
+Your responsibilities:
+- Email triage and drafting
+- Calendar management
+- Meeting preparation
+- Routine communications
+
+## Decision Framework
+Priority 1: Client communications
+Priority 2: Revenue-related items
+Priority 3: Internal operations
+Priority 4: Everything else
+
+## Escalation Rules
+Always escalate:
+- Legal matters
+- Financial disputes > $1000
+- Unhappy VIP clients
+- Anything you're uncertain about
+\end{lstlisting}
+\end{codebox}
+
+\section{Sam (Sales) Core Prompts}
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# Sam System Prompt
+
+You are Sam, a sales development AI agent.
+Your responsibilities:
+- Lead qualification (BANT framework)
+- Initial outreach drafting
+- Pipeline management
+- Meeting scheduling
+
+## Qualification Criteria
+Hot (80-100): All BANT criteria met
+Warm (50-79): 3/4 criteria met
+Cold (<50): Fewer than 3 criteria
+\end{lstlisting}
+\end{codebox}
+
+\chapter{Frequently Asked Questions}
+
+\section{Getting Started}
+
+\textcolor{oreilly-dark}{\bfseries Q: Do I need programming skills?}
+
+\textcolor{black}{A: No. All systems in this book can be implemented using no-code tools. If you can write clear instructions, you can build AI agents.}
+
+\vspace{1em}
+
+\textcolor{oreilly-dark}{\bfseries Q: What's the initial investment required?}
+
+\textcolor{black}{A: Minimum viable setup is about \$60/month (Claude Pro + basic automation tools). Full setup is approximately \$300--500/month.}
+
+\vspace{1em}
+
+\textcolor{oreilly-dark}{\bfseries Q: How soon will I see results?}
+
+\textcolor{black}{A: In the first month, you should save 5--10 hours per week. After 90 days, expect to save 15--25 hours per week.}
+
+\section{Technical Questions}
+
+\textcolor{oreilly-dark}{\bfseries Q: Will AI replace my job?}
+
+\textcolor{black}{A: AI replaces tasks, not roles. Your job will transform from executor to conductor and strategist.}
+
+\vspace{1em}
+
+\textcolor{oreilly-dark}{\bfseries Q: What if AI makes mistakes?}
+
+\textcolor{black}{A: This is why we emphasize progressive trust. For the first 30 days, you review all output. After that, only exceptions need your attention.}
+
+\section{Security and Privacy}
+
+\textcolor{oreilly-dark}{\bfseries Q: Is my data safe?}
+
+\textcolor{black}{A: When using enterprise-grade AI services (like Claude, ChatGPT), your data is encrypted and protected. Avoid sending extremely sensitive information (passwords, financial credentials) directly to AI.}
+
+\chapter{References and Further Reading}
+
+\section{Foundational Books}
+
+\subsection{Business and Entrepreneurship}
+
+\begin{itemize}
+\item Jarvis, Paul. \textit{Company of One: Why Staying Small Is the Next Big Thing for Business}. Houghton Mifflin Harcourt, 2019. --- The philosophical foundation for building a sustainable solo business.
+
+\item Gerber, Michael E. \textit{The E-Myth Revisited: Why Most Small Businesses Don't Work and What to Do About It}. HarperCollins, 1995. --- Essential reading on systematizing business operations.
+
+\item Ferriss, Timothy. \textit{The 4-Hour Workweek: Escape 9-5, Live Anywhere, and Join the New Rich}. Crown, 2007. --- Pioneering work on automation and lifestyle design.
+
+\item Newport, Cal. \textit{Deep Work: Rules for Focused Success in a Distracted World}. Grand Central Publishing, 2016. --- Critical for understanding how to leverage AI for deep, meaningful work.
+\end{itemize}
+
+\subsection{Knowledge Management}
+
+\begin{itemize}
+\item Forte, Tiago. \textit{Building a Second Brain: A Proven Method to Organize Your Digital Life and Unlock Your Creative Potential}. Atria Books, 2022. --- The definitive guide to personal knowledge management.
+
+\item Ahrens, S\"{o}nke. \textit{How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking}. Independently published, 2017. --- The Zettelkasten method for connected note-taking.
+
+\item Sönmez, John. \textit{Soft Skills: The Software Developer's Life Manual}. Manning, 2014. --- Practical productivity systems for technical professionals.
+\end{itemize}
+
+\subsection{AI and Technology}
+
+\begin{itemize}
+\item Russell, Stuart and Peter Norvig. \textit{Artificial Intelligence: A Modern Approach}. 4th ed., Pearson, 2020. --- The comprehensive textbook on AI fundamentals.
+
+\item Ng, Andrew. \textit{AI For Everyone} (Coursera course). --- Accessible introduction to AI capabilities and limitations.
+
+\item Kaplan, Jerry. \textit{Artificial Intelligence: What Everyone Needs to Know}. Oxford University Press, 2016. --- Balanced overview of AI's societal implications.
+\end{itemize}
+
+\section{Key Research Papers}
+
+\subsection{Large Language Models}
+
+\begin{itemize}
+\item Brown, Tom B., et al. ``Language Models are Few-Shot Learners.'' \textit{Advances in Neural Information Processing Systems} 33 (2020): 1877--1901. --- The GPT-3 paper that demonstrated emergent capabilities.
+
+\item Ouyang, Long, et al. ``Training language models to follow instructions with human feedback.'' \textit{Advances in Neural Information Processing Systems} 35 (2022): 27730--27744. --- The InstructGPT paper on RLHF.
+
+\item Anthropic. ``Constitutional AI: Harmlessness from AI Feedback.'' arXiv preprint arXiv:2212.08073 (2022). --- Foundational paper on AI alignment techniques.
+
+\item Wei, Jason, et al. ``Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.'' \textit{Advances in Neural Information Processing Systems} 35 (2022). --- Key paper on prompting strategies.
+\end{itemize}
+
+\subsection{AI Agents and Autonomy}
+
+\begin{itemize}
+\item Yao, Shunyu, et al. ``ReAct: Synergizing Reasoning and Acting in Language Models.'' \textit{ICLR} 2023. --- Influential paper on reasoning-action loops in AI agents.
+
+\item Park, Joon Sung, et al. ``Generative Agents: Interactive Simulacra of Human Behavior.'' \textit{UIST} 2023. --- Research on autonomous AI agent behavior.
+
+\item Significant-Gravitas. ``Auto-GPT: An Autonomous GPT-4 Experiment.'' GitHub, 2023. --- Open-source autonomous agent framework.
+\end{itemize}
+
+\section{Industry Reports}
+
+\begin{itemize}
+\item McKinsey Global Institute. ``The Economic Potential of Generative AI: The Next Productivity Frontier.'' June 2023. --- Comprehensive analysis of AI's economic impact.
+
+\item Goldman Sachs. ``Generative AI Could Raise Global GDP by 7\%.'' March 2023. --- Economic projections for AI adoption.
+
+\item Gartner. ``Hype Cycle for Artificial Intelligence.'' Annual report. --- Technology maturity assessment.
+
+\item Stanford HAI. ``AI Index Report.'' Annual publication. --- Comprehensive tracking of AI progress and adoption.
+\end{itemize}
+
+\section{Technical Documentation}
+
+\subsection{AI Platforms}
+
+\begin{itemize}
+\item Anthropic. \textit{Claude Documentation}. \link{docs.anthropic.com}{https://docs.anthropic.com} --- Official Claude API and capabilities guide.
+
+\item OpenAI. \textit{API Reference}. \link{platform.openai.com/docs}{https://platform.openai.com/docs} --- GPT model documentation.
+
+\item Google. \textit{Gemini API Documentation}. \link{ai.google.dev}{https://ai.google.dev} --- Google's multimodal AI platform.
+\end{itemize}
+
+\subsection{Automation Tools}
+
+\begin{itemize}
+\item n8n. \textit{Documentation}. \link{docs.n8n.io}{https://docs.n8n.io} --- Open-source workflow automation.
+
+\item Make (formerly Integromat). \textit{Help Center}. \link{www.make.com/en/help}{https://www.make.com/en/help} --- Visual automation platform.
+
+\item Zapier. \textit{Help Documentation}. \link{zapier.com/help}{https://zapier.com/help} --- Integration platform guides.
+\end{itemize}
+
+\subsection{Knowledge Management}
+
+\begin{itemize}
+\item Obsidian. \textit{Help Vault}. \link{help.obsidian.md}{https://help.obsidian.md} --- Markdown-based knowledge management.
+
+\item Notion. \textit{Help \& Support}. \link{www.notion.so/help}{https://www.notion.so/help} --- Collaborative workspace documentation.
+\end{itemize}
+
+\section{Online Resources}
+
+\subsection{Newsletters and Blogs}
+
+\begin{itemize}
+\item \textit{The Batch} by Andrew Ng (deeplearning.ai) --- Weekly AI news and insights.
+
+\item \textit{Import AI} by Jack Clark --- Technical AI developments and policy.
+
+\item \textit{One Useful Thing} by Ethan Mollick --- Practical AI applications in business and education.
+
+\item \textit{Stratechery} by Ben Thompson --- Technology strategy analysis.
+\end{itemize}
+
+\subsection{Communities}
+
+\begin{itemize}
+\item r/LocalLLaMA (Reddit) --- Open-source AI model discussions.
+
+\item Hacker News (news.ycombinator.com) --- Technology and startup community.
+
+\item AI Discord servers (Anthropic, OpenAI communities) --- Real-time discussions and support.
+\end{itemize}
+
+\section{Chapter-Specific References}
+
+\subsection{Chapter 1: The One-Person Company Revolution}
+\begin{itemize}
+\item U.S. Census Bureau. ``Nonemployer Statistics.'' Annual data on solo businesses.
+\item Upwork. ``Freelance Forward'' annual report on independent work trends.
+\end{itemize}
+
+\subsection{Chapter 2: AI as Operating System}
+\begin{itemize}
+\item McAfee, Andrew and Erik Brynjolfsson. \textit{Machine, Platform, Crowd}. W.W. Norton, 2017.
+\item Davenport, Thomas H. and Julia Kirby. \textit{Only Humans Need Apply}. Harper Business, 2016.
+\end{itemize}
+
+\subsection{Chapter 3: The 2026 AI Landscape}
+\begin{itemize}
+\item Stanford HAI. ``AI Index Report 2024.'' --- Annual comprehensive AI progress metrics.
+\item Our World in Data. ``Artificial Intelligence'' dataset collection.
+\end{itemize}
+
+\subsection{Chapters 4--9: AI Agent Implementation}
+\begin{itemize}
+\item LangChain Documentation. \link{docs.langchain.com}{https://docs.langchain.com}
+\item Microsoft AutoGen Framework. \link{microsoft.github.io/autogen}{https://microsoft.github.io/autogen}
+\item CrewAI Documentation. \link{docs.crewai.com}{https://docs.crewai.com}
+\end{itemize}
+
+\subsection{Chapters 19--21: The Next Frontier}
+\begin{itemize}
+\item Anthropic. ``Model Card: Claude.'' --- Technical specifications and safety measures.
+\item OpenAI. ``GPT-4 Technical Report.'' arXiv:2303.08774 (2023).
+\item Model Context Protocol (MCP). \link{modelcontextprotocol.io}{https://modelcontextprotocol.io}
+\end{itemize}
+
+%% ============================================================
+%% BACK MATTER
+%% ============================================================
+
+%% ABOUT THE AUTHOR
+\newpage
+\thispagestyle{empty}
+\vspace*{0.5in}
+\begin{center}
+{\Large\bfseries About the Author}
+\end{center}
+
+\vspace{1em}
+
+\noindent\textbf{Jim Xiao} is an entrepreneur, technologist, and author who has spent the past decade at the intersection of business automation and artificial intelligence. After building and scaling multiple companies as a solo founder, he discovered how AI agents could transform the limitations of one-person operations into competitive advantages.
+
+\vspace{1em}
+
+\noindent Today, Jim runs his businesses with a workforce of AI agents handling sales, marketing, customer success, finance, and operations---allowing him to focus on strategy, relationships, and the work that truly matters.
+
+\vspace{1em}
+
+\noindent He writes about the future of work, AI-native business models, and the practical applications of artificial intelligence for entrepreneurs and small business owners.
+
+\vspace{1em}
+
+\noindent Connect with Jim:
+\begin{itemize}
+\item Website: xwire.ai
+\item Twitter/X: @jimxiao
+\item LinkedIn: linkedin.com/in/jimxiaoai
+\end{itemize}
+
+%% INDEX
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Index}
+\printindex
+
+%% BACK COVER
+\newpage
+\thispagestyle{empty}
+\vspace*{0.3in}
+
+\begin{center}
+{\Large\bfseries\color{oreilly-dark} The AI-Powered One-Person Company}
+\end{center}
+
+\vspace{0.5em}
+
+\begin{quote}
+\textit{``The most comprehensive guide to building a business that runs itself. Jim doesn't just theorize---he shows you exactly how to deploy AI agents that handle the work you used to do manually.''}
+
+\hfill---\textbf{Early Reader}
+\end{quote}
+
+\vspace{1em}
+
+\noindent What if you could run a business with the capabilities of a ten-person team, but without the overhead, management burden, or endless meetings?
+
+\vspace{0.8em}
+
+\noindent In \textbf{The AI-Powered One-Person Company}, Jim Xiao reveals the blueprint for building an AI agent workforce that handles sales, marketing, customer success, finance, and operations---while you focus on strategy and growth.
+
+\vspace{0.8em}
+
+\noindent\textbf{Inside, you'll discover:}
+
+\begin{itemize}
+\item How to deploy six AI agents that work 24/7 on your behalf
+\item The markdown-native infrastructure that makes it all possible
+\item Complete playbooks for sales automation, content marketing, and customer success
+\item Real case studies from founders who transformed their businesses
+\item A 90-day roadmap to implement everything in this book
+\end{itemize}
+
+\vspace{0.8em}
+
+\noindent Whether you're a solopreneur drowning in operational tasks or an entrepreneur ready to scale without hiring, this book gives you the practical tools to build a business that works harder than you do.
+
+\vspace{1em}
+
+\noindent\textbf{The future of business is AI-native. This book shows you how to get there.}
+
+\vfill
+
+\begin{center}
+\includegraphics[width=2in]{../images/cover-animal.png}
+
+\vspace{0.5em}
+
+{\large\color{oreilly-red}\textbf{O'REILLY}}
+
+\vspace{0.3em}
+
+{\small oreilly.com}
+\end{center}
+
+\end{document}

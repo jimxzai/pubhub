@@ -1,0 +1,820 @@
+\chapter{文件夹结构即操作程序}
+
+\section{47,000美元的发票改变了一切}
+
+那封邮件在一个周一早上到达：我们的年度企业软件续约。数据库托管、CRM许可证、项目管理工具、报表仪表板、文档存储。我已经付这些账单好几年了，几乎不看。这次，我看了。
+
+\textbf{47,000美元。每年。对于一个一人公司。}
+
+我开始分解它：
+
+\begin{itemize}
+\item Oracle数据库托管：\$8,400
+\item Salesforce许可证（三个席位``为了增长''但从未发生）：\$5,400
+\item Jira和Confluence：\$3,600
+\item Tableau，用于我可能一个月运行两次的报表：\$1,680
+\item SharePoint和Microsoft 365：\$1,800
+\item AWS基础设施：\$12,000
+\item Zapier和集成工具：\$2,400
+\item 各种SaaS订阅：\$11,000+
+\end{itemize}
+
+但钱甚至不是最糟糕的部分。是复杂性。
+
+我每个月大约花八个小时只是维护这些系统——更新权限、修复坏掉的集成、在互不通信的工具之间迁移数据、在供应商决定``改进''他们的产品时学习新界面、在单点登录不可避免地崩溃时与认证搏斗。
+
+我在为一人公司运行企业级基础设施。这种荒谬从未真正击中我，直到我看到那张发票。
+
+\section{意外的发现}
+
+启示来自一个不太可能的来源：一个经营成功独立软件公司的开发者朋友。
+
+我一直在抱怨我的Salesforce集成那个月第三次崩溃了。他问了一个奇怪的问题：``你为什么不直接用markdown文件？''
+
+我笑了。Markdown文件？用来经营业务？那是用来写文档和博客帖子的，不是客户数据和销售管道。
+
+他分享了他的屏幕。他整个业务都在他电脑上的一个文件夹结构中运行。客户文件。项目追踪。财务记录。一切都是纯文本，组织在文件夹中，用Git进行版本控制。
+
+``但你怎么查询？你怎么生成报表？''
+
+``AI读它，''他简单地说。``我问Claude关于我业务的问题，它读取文件并回答。不需要SQL。不需要配置仪表板。''
+
+我持怀疑态度。这肯定无法扩展。肯定有边缘情况。企业工具存在肯定是有原因的。
+
+然后他给我看了他的月度成本：\$187。Obsidian同步、GitHub和Claude API使用。
+
+我回家后无法停止思考它。
+
+\section{企业软件的肮脏秘密}
+
+以下是没人告诉你的关于企业工具的事：
+
+它们是为企业构建的。有数百名员工的公司。数据库管理员团队。专门的IT人员。采购部门通过谈判批量折扣来证明自己存在的价值。
+
+对于独立创始人或小团队，这些工具就像租一艘游轮过河。是的，技术上可行。但你为永远不会使用的能力付费，维护你不需要的复杂性，把时间花在当系统管理员而不是经营业务上。
+
+传统技术栈看起来像这样：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+THE ENTERPRISE TRAP                 # 企业陷阱
+
+Database:    Oracle, SQL Server, PostgreSQL
+             # 数据库：Oracle, SQL Server, PostgreSQL
+             (Because you "might need" relational queries)
+             # （因为你"可能需要"关系查询）
+
+CRM:         Salesforce, Dynamics
+             # CRM：Salesforce, Dynamics
+             (Because that's what "real businesses" use)
+             # （因为那是"真正的企业"使用的）
+
+ERP:         SAP, Oracle, NetSuite
+             # ERP：SAP, Oracle, NetSuite
+             (Because accountants asked for it once)
+             # （因为会计曾经要求过）
+
+Reporting:   Tableau, Power BI, Looker
+             # 报表：Tableau, Power BI, Looker
+             (Because dashboards look professional)
+             # （因为仪表板看起来专业）
+
+Projects:    Jira, Monday, Asana
+             # 项目：Jira, Monday, Asana
+             (Because agile requires software, apparently)
+             # （因为敏捷显然需要软件）
+
+Documents:   SharePoint, Box, Google Drive
+             # 文档：SharePoint, Box, Google Drive
+             (Because files need to live... somewhere)
+             # （因为文件需要存放...某个地方）
+
+Email:       Outlook, Gmail
+             # 邮件：Outlook, Gmail
+             (This one is actually necessary)
+             # （这个实际上是必要的）
+
+Integration: MuleSoft, Boomi, custom ETL
+             # 集成：MuleSoft, Boomi, 自定义ETL
+             (Because none of the above talk to each other)
+             # （因为上面没有一个能互相通信）
+
+TOTAL COST: $10,000-100,000+/month  # 总成本：$10,000-100,000+/月
+TEAM REQUIRED: 3-20 people to manage # 所需团队：3-20人管理
+IMPLEMENTATION: 6-18 months          # 实施：6-18个月
+ACTUAL VALUE: Maybe 10% of features used
+             # 实际价值：可能只用了10%的功能
+\end{lstlisting}
+\end{codebox}
+
+肮脏的秘密：百分之九十的企业不需要这种复杂性。你不需要Oracle。你不需要跨十七个表的关系数据库联接。你不需要商业智能平台。
+
+你需要能读纯文本的AI智能体。
+
+\section{新范式}
+
+在那次对话之后，我做了一个实验。我把一切从企业工具导出到markdown文件。客户变成了带有上下文文件的文件夹。项目变成了检查清单。财务记录变成了结构化文本。所有在数据库和仪表板中的东西现在都在我电脑上的一个文件夹中。
+
+然后我让我的AI智能体指向它。
+
+结果是立即且深刻的：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+THE LIBERATION                       # 解放
+
+Knowledge:   Obsidian, Notion, markdown files
+             # 知识：Obsidian, Notion, markdown文件
+             (Human-readable AND AI-readable)
+             # （人类可读且AI可读）
+
+Publishing:  Git, mdBook, Astro
+             # 发布：Git, mdBook, Astro
+             (Version-controlled, deployable anywhere)
+             # （版本控制，可部署到任何地方）
+
+Projects:    GitHub Issues, Linear, plain text
+             # 项目：GitHub Issues, Linear, 纯文本
+             (Checkboxes work surprisingly well)
+             # （复选框出奇地好用）
+
+Data:        Markdown tables, YAML, JSON
+             # 数据：Markdown表格, YAML, JSON
+             (Structured enough, flexible enough)
+             # （足够结构化，足够灵活）
+
+Reporting:   AI-generated from context
+             # 报表：从上下文AI生成
+             (Ask any question, get any answer)
+             # （问任何问题，得到任何答案）
+
+Integration: MCP, APIs, AI agents
+             # 集成：MCP, APIs, AI智能体
+             (Agents read files, no ETL needed)
+             # （智能体读文件，不需要ETL）
+
+Documents:   Markdown with AI assistance
+             # 文档：Markdown配合AI辅助
+             (Write once, use everywhere)
+             # （一次编写，到处使用）
+
+Email:       AI agents read/write
+             # 邮件：AI智能体读写
+             (Handled, not managed)
+             # （被处理，而不是被管理）
+
+TOTAL COST: $200-500/month           # 总成本：$200-500/月
+TEAM: You + AI agents                # 团队：你 + AI智能体
+IMPLEMENTATION: Days, not months     # 实施：几天，而不是几个月
+FLEXIBILITY: Infinite                # 灵活性：无限
+\end{lstlisting}
+\end{codebox}
+
+\section{为什么纯文本胜出}
+
+我逐渐理解为什么这种方式如此有效。纯文本具有企业软件花了几十年试图复制但做得很差的特性。
+
+人类可读性。打开一个markdown文件，你就知道里面有什么。不需要培训。不需要学习界面。不需要理解模式。客户文件读起来像文档，因为它就是文档。
+
+AI可读性。这是游戏规则改变者。AI模型理解自然语言。当你的业务数据存储为自然语言时，AI可以原生读取它。不需要连接器。不需要API。不需要数据转换。AI只是...读取你的文件。
+
+版本控制。Git永远追踪每个文件的每一个变化。谁改了什么，什么时候，为什么。回滚到历史上的任何一点。分支和合并。协作而不冲突。全部免费，使用开发者已经用了几十年的工具。
+
+可移植性。Markdown文件到处都能用。文本编辑器、笔记应用、网页浏览器、手机、AI助手。你永远不会被锁定。随时切换工具。你的数据始终是你的。
+
+速度。纯文本是即时的。不需要查询优化。不需要索引维护。不需要连接池。搜索就是grep。AI在毫秒内读取文件。
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{@{}lll@{}}
+\toprule
+\textbf{能力} & \textbf{企业技术栈} & \textbf{Markdown技术栈} \\
+\midrule
+人类可读 & 需要培训 & 任何人都能读 \\
+AI可读 & 需要定制集成 & 原生 \\
+版本控制 & 复杂（如果有的话） & Git \\
+搜索 & 需要授权工具 & grep \\
+可移植性 & 供应商锁定 & 通用 \\
+速度 & 慢（查询） & 即时 \\
+成本 & 数千美元/月 & 几乎免费 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{替代数据库}
+
+这是我最大的心理障碍。你肯定需要一个正式的数据库吧？你肯定不能用文本文件来经营业务吧？
+
+让我向你展示区别。
+
+\textbf{旧方式}——从传统数据库获取客户上下文：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+-- 7 tables, 15 joins to understand one customer
+-- 7个表，15个联接才能理解一个客户
+
+SELECT c.*, a.*, o.*, t.*, n.*, p.*, s.*
+FROM customers c
+LEFT JOIN addresses a ON c.id = a.customer_id
+LEFT JOIN orders o ON c.id = o.customer_id
+LEFT JOIN tickets t ON c.id = t.customer_id
+LEFT JOIN notes n ON c.id = n.customer_id
+LEFT JOIN payments p ON c.id = p.customer_id
+LEFT JOIN subscriptions s ON c.id = s.customer_id
+WHERE c.id = 12345;
+
+-- Result: JSON blob that needs parsing
+-- 结果：需要解析的JSON块
+-- Context: Lost across normalized tables
+-- 上下文：丢失在规范化表中
+-- AI readable: Only with custom integration
+-- AI可读：仅通过定制集成
+-- Time to understand: Minutes of analysis
+-- 理解时间：几分钟的分析
+\end{lstlisting}
+\end{codebox}
+
+\textbf{新方式}——markdown文件中的客户上下文：
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# John Smith - Acme Corp
+
+## Context
+## 背景
+VP of Engineering at Acme Inc. Referred by Sarah Chen.
+Active customer since March 2024. Champion user.
+# Acme Inc.工程副总裁。由Sarah Chen推荐。
+# 2024年3月起的活跃客户。支持者用户。
+
+## History
+## 历史
+
+### Deal (March 2024)
+### 交易（2024年3月）
+- Closed $24,000/year Pro plan    # 成交$24,000/年专业版
+- Decision made quickly after demo # 演示后快速决策
+- Key feature that sold him: API integrations
+  # 打动他的关键功能：API集成
+
+### Support (2024)
+### 支持（2024）
+- 3 tickets, all resolved same day # 3个工单，全部当天解决
+- CSAT: 5/5 on all three          # 满意度：全部5/5
+- Never escalated                  # 从未升级
+
+### Expansion (October 2024)
+### 扩展（2024年10月）
+- Added 5 seats ($500/mo additional) # 增加5个席位
+- Requested enterprise features    # 请求企业功能
+- Budget approved for Q1           # Q1预算已批准
+
+## Notes
+## 备注
+- Prefers async communication (email over calls)
+  # 偏好异步沟通（邮件优于电话）
+- Don't call before 10 AM Pacific  # 太平洋时间上午10点前不要打电话
+- Allergic to sales tactics        # 讨厌销售技巧
+- Will refer other customers if asked nicely
+  # 如果好好问会推荐其他客户
+
+## Linked
+## 关联
+- [[Orders/12345]]
+- [[Support/Ticket-789]]
+- [[Calls/2024-03-15]]
+\end{lstlisting}
+\end{codebox}
+
+AI读取这个文件就能理解一切。客户的性格。他们的沟通偏好。他们与你的历史。他们的扩展潜力。他们推荐的可能性。
+
+没有联接。没有模式。没有ORM。没有数据库管理。只有上下文，人类和AI都可读。
+
+\section{替代报表工具}
+
+这个转变最让我惊讶。我以为我需要Tableau或Power BI来生成报表。仪表板感觉很专业。图表感觉很重要。
+
+然后我发现了一件让人解放的事：AI从原始数据生成的报表比任何BI工具都好。
+
+\textbf{旧方式：}
+
+\begin{enumerate}
+\item 登录Tableau
+\item 导航到销售仪表板
+\item 设置日期过滤器为上周
+\item 等待查询执行
+\item 盯着图表，试图提取含义
+\item 导出为PDF
+\item 发邮件给利益相关者
+\item 总时间：十五到二十分钟
+\item 获得的洞察：可能一两个
+\end{enumerate}
+
+\textbf{新方式：}
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+You: "How did sales do last week compared to the
+previous week? What should I know?"
+# 你："上周销售和前一周相比怎么样？我应该知道什么？"
+
+AI Agent (reading markdown sales files):
+# AI智能体（读取markdown销售文件）：
+
+Last Week Performance:              # 上周表现：
+---------------------
+Revenue: $28,500 (+12% week-over-week)
+                                    # 收入：$28,500（周环比+12%）
+Deals closed: 8 (+3 from prior week)
+                                    # 成交：8单（比前一周+3）
+Average deal size: $3,562 (+$423)   # 平均单价：$3,562（+$423）
+Win rate: 32% (+5 percentage points)
+                                    # 赢单率：32%（+5个百分点）
+
+Notable Developments:               # 值得注意的发展：
+- Largest deal: TechCorp at $8,500  # 最大单：TechCorp $8,500
+- Fastest close: Martinez Design in 3 days
+                                    # 最快成交：Martinez Design 3天
+- Lost deals: 2 to Competitor X (pricing cited)
+                                    # 丢单：2单给竞争对手X（提到价格）
+
+By Tier:                            # 按级别：
+1. Enterprise: 4 deals, $22,000 (strong)
+                                    # 企业版：4单，$22,000（强劲）
+2. Pro: 3 deals, $5,500 (steady)    # 专业版：3单，$5,500（稳定）
+3. Starter: 1 deal, $1,000 (needs attention)
+                                    # 入门版：1单，$1,000（需关注）
+
+Recommendation: Enterprise pipeline is strong.
+Consider pushing Pro -> Enterprise upgrades.
+TechCorp might refer - they mentioned loving the
+product in their closing call.
+# 建议：企业版管道强劲。考虑推动专业版->企业版升级。
+# TechCorp可能会推荐——他们在成交电话中提到很喜欢产品。
+
+Risk: Two losses to Competitor X on price. May
+need to revisit pricing for competitive situations.
+# 风险：两单因价格输给竞争对手X。可能需要
+# 重新审视竞争情况下的定价。
+
+Time: 3 seconds                     # 时间：3秒
+Insights gained: Actionable, specific, contextual
+                                    # 获得的洞察：可行动、具体、有上下文
+\end{lstlisting}
+\end{codebox}
+
+AI不只是给我看数字。它告诉我什么重要。它给出建议。它连接我可能错过的点。它读取实际的笔记和上下文，而不只是聚合的指标。
+
+这才是报表本应有的样子。
+
+\section{替代项目管理}
+
+我曾经花在更新Jira上的时间比做实际工作还多。创建工单。链接史诗。更新状态。梳理待办事项。参加站会讨论Jira里有什么。
+
+项目管理软件已经变成了关于工作的工作。
+
+Markdown替代方案简单得几乎令人尴尬：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+/projects
+|-- active/                         # 活跃/
+|   |-- website-redesign.md         # 网站重设计.md
+|   |-- mobile-app.md               # 移动应用.md
+|   `-- email-migration.md          # 邮件迁移.md
+|-- completed/                      # 已完成/
+|   `-- q4-campaign.md              # Q4活动.md
+`-- ideas/                          # 想法/
+    `-- future-features.md          # 未来功能.md
+\end{lstlisting}
+\end{codebox}
+
+每个项目是一个文件：
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# Website Redesign
+# 网站重设计
+
+## Status: In Progress
+## 状态：进行中
+**Owner:** Me                       # 负责人：我
+**Started:** 2026-01-15             # 开始日期：2026-01-15
+**Target:** 2026-02-15              # 目标日期：2026-02-15
+
+## Why We're Doing This
+## 为什么要做这个
+Current site is slow (3.2s load time) and converts
+poorly (1.2% signup rate). Customers have complained.
+We're losing deals because the site looks dated.
+# 当前网站慢（3.2秒加载时间）且转化差（1.2%注册率）。
+# 客户抱怨过。我们因为网站看起来过时而丢单。
+
+## Success Looks Like
+## 成功的样子
+- Load time under 1 second          # 加载时间在1秒以内
+- Signup rate above 3%              # 注册率超过3%
+- Mobile-first design               # 移动优先设计
+- Blog integrated                   # 博客集成
+- Customers stop mentioning it in sales calls
+  # 客户不再在销售电话中提到它
+
+## Current Focus
+## 当前重点
+Week of Jan 27: Homepage complete, moving to product pages
+# 1月27日那周：首页完成，进入产品页
+
+## Tasks
+## 任务
+- [x] Design system in v0           # 在v0中的设计系统
+- [x] Homepage development          # 首页开发
+- [ ] Product page (in progress)    # 产品页（进行中）
+- [ ] About page                    # 关于页
+- [ ] Contact + forms               # 联系+表单
+- [ ] Blog integration              # 博客集成
+- [ ] Testing                       # 测试
+- [ ] Launch                        # 上线
+
+## Blockers
+## 阻碍
+None currently. Last blocker was hosting decision,
+resolved Jan 22 (going with Vercel).
+# 当前没有。上一个阻碍是托管决策，1月22日解决（选择Vercel）。
+
+## Notes
+## 笔记
+- 2026-01-20: v0 design approved by stakeholders
+  # 2026-01-20：v0设计被利益相关者批准
+- 2026-01-22: Homepage shipped to staging
+  # 2026-01-22：首页已部署到预发布
+- 2026-01-25: Product page 60% complete
+  # 2026-01-25：产品页60%完成
+
+## Links
+## 链接
+- [[Design/website-v2]]
+- [[Meetings/2026-01-18-kickoff]]
+\end{lstlisting}
+\end{codebox}
+
+AI读取这个就知道关于项目的一切。状态、阻碍、进度、上下文。不需要站会。不需要状态更新会议。只需问AI：``网站重设计的当前状态是什么？''
+
+它会带着完整的上下文回答，不只是一个状态字段。
+
+\section{基于Obsidian的业务}
+
+经过几个月的实验，我整个业务现在都在一个Obsidian库中运行。让我向你展示结构：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+/company (Obsidian Vault)           # /公司（Obsidian库）
+|
+|-- /customers                      # /客户
+|   |-- acme-corp.md
+|   |-- techflow.md
+|   `-- ... (one file per customer) # （每个客户一个文件）
+|
+|-- /sales                          # /销售
+|   |-- /pipeline (active deals)    # /管道（活跃交易）
+|   |-- /playbooks                  # /策略手册
+|   |-- /templates                  # /模板
+|   `-- README.md
+|
+|-- /marketing                      # /营销
+|   |-- /content (drafts, published) # /内容（草稿，已发布）
+|   |-- /campaigns                  # /活动
+|   `-- /analytics                  # /分析
+|
+|-- /operations                     # /运营
+|   |-- /orders                     # /订单
+|   |-- /vendors                    # /供应商
+|   `-- /inventory                  # /库存
+|
+|-- /finance                        # /财务
+|   |-- /invoices                   # /发票
+|   |-- /expenses                   # /费用
+|   `-- /reports                    # /报告
+|
+|-- /support                        # /支持
+|   |-- /tickets (open, resolved)   # /工单（打开，已解决）
+|   |-- /knowledge-base             # /知识库
+|   `-- /feedback                   # /反馈
+|
+|-- /team (AI agent configurations) # /团队（AI智能体配置）
+|   |-- emma-config.md
+|   |-- sam-config.md
+|   |-- maya-config.md
+|   |-- casey-config.md
+|   |-- finn-config.md
+|   `-- oscar-config.md
+|
+`-- /system                         # /系统
+    |-- command-center.md           # 命令中心.md
+    |-- daily-standup.md            # 每日站会.md
+    `-- metrics.md                  # 指标.md
+\end{lstlisting}
+\end{codebox}
+
+一切通过wiki风格的连接链接在一起。客户文件链接到他们的订单、发票、支持工单和通话记录。项目链接到它影响的客户。智能体配置链接到它遵循的策略手册。
+
+当Sam成交一单时，工作流看起来像这样：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+1. Creates [[customers/new-customer.md]]
+   # 创建 [[customers/new-customer.md]]
+2. Updates [[sales/pipeline/this-week.md]]
+   # 更新 [[sales/pipeline/this-week.md]]
+3. Notifies [[team/finn-config]] to invoice
+   # 通知 [[team/finn-config]] 开票
+4. Updates [[system/metrics.md]]
+   # 更新 [[system/metrics.md]]
+5. Links to [[orders/new-order.md]]
+   # 链接到 [[orders/new-order.md]]
+
+All files update. All context preserved.
+All agents can read the new state.
+# 所有文件更新。所有上下文保留。
+# 所有智能体可以读取新状态。
+\end{lstlisting}
+\end{codebox}
+
+\section{早晨的转变}
+
+让我向你展示我早晨例程的两个版本。
+
+\textbf{之前（工具巡游）：}
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+7:00 AM - Open Salesforce, check pipeline
+          # 打开Salesforce，检查管道
+7:15 AM - Log into Jira, review project status
+          # 登录Jira，查看项目状态
+7:30 AM - Launch Tableau, look at yesterday's metrics
+          # 启动Tableau，查看昨天的指标
+7:45 AM - Check email in Outlook
+          # 在Outlook中查看邮件
+8:00 AM - Review Slack messages (12 channels)
+          # 查看Slack消息（12个频道）
+8:15 AM - Open Google Drive, find that document
+          # 打开Google Drive，找那个文档
+8:30 AM - Still not actually working
+          # 还没有真正开始工作
+8:45 AM - Finally start first real task
+          # 终于开始第一个真正的任务
+
+Tools opened: 6+                    # 打开的工具：6+
+Time lost: 90+ minutes              # 损失的时间：90+分钟
+Context switches: Too many to count # 上下文切换：多到数不清
+Cognitive load: Exhausting before work begins
+                                    # 认知负荷：工作开始前就累了
+\end{lstlisting}
+\end{codebox}
+
+\textbf{之后（命令中心）：}
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+7:00 AM - Open Obsidian             # 打开Obsidian
+
+Daily note auto-generated:          # 每日笔记自动生成：
+
+# 2026-01-28 Tuesday
+# 2026-01-28 周二
+
+## Pipeline                         ## 管道
+- $85,000 active (5 deals)          # $85,000活跃（5单）
+- [[Acme Corp]] demo today at 10 AM # [[Acme Corp]]今天10点演示
+- [[TechFlow]] pending proposal response
+                                    # [[TechFlow]]等待提案回复
+
+## Projects                         ## 项目
+- [[Website Redesign]] - 70% complete, on track
+                                    # 网站重设计 - 70%完成，正常进行
+- [[Mobile App]] - Stitch generating, review tomorrow
+                                    # 移动应用 - Stitch生成中，明天审核
+
+## Yesterday's Metrics              ## 昨日指标
+- Revenue: $850                     # 收入：$850
+- New leads: 3 (all qualified by Sam)
+                                    # 新线索：3（全部由Sam筛选）
+- Support tickets: 2 (both resolved by Casey)
+                                    # 支持工单：2（都由Casey解决）
+
+## Today's Focus                    ## 今日重点
+1. Acme demo at 10 AM (prep notes linked)
+   # Acme 10点演示（准备笔记已链接）
+2. Review website staging (link to preview)
+   # 审核网站预发布（预览链接）
+3. Approve Maya's blog post (draft linked)
+   # 批准Maya的博客帖子（草稿已链接）
+
+## From Your Agents (overnight)     ## 来自你的智能体（夜间）
+- Sam: 3 leads qualified, 1 demo scheduled
+  # Sam：3条线索已筛选，1个演示已安排
+- Casey: All tickets resolved, NPS this week: 72
+  # Casey：所有工单已解决，本周NPS：72
+- Finn: Invoice #1048 paid ($4,500)
+  # Finn：发票#1048已支付（$4,500）
+- Maya: Blog post ready, 2 social posts drafted
+  # Maya：博客帖子准备好，2条社交帖子已起草
+- Oscar: Inventory alert - reorder SKU-456
+  # Oscar：库存警报 - 补货SKU-456
+
+7:15 AM - Actually working          # 真正开始工作
+
+Tools opened: 1                     # 打开的工具：1
+Time lost: 15 minutes               # 损失的时间：15分钟
+Context: Complete                   # 上下文：完整
+Energy: Preserved for real work     # 精力：为真正的工作保留
+\end{lstlisting}
+\end{codebox}
+
+我需要知道的一切都在一个地方。所有上下文。所有链接。我的AI团队的所有更新。一个应用。一个视图。完全清晰。
+
+\section{成本革命}
+
+让我分享我迁移后的真实数字。
+
+\textbf{之前（年度企业技术栈）：}
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Database (AWS RDS):           $3,600   # 数据库
+Salesforce (3 seats):         $5,400   # Salesforce（3席位）
+Jira + Confluence:            $3,600
+Tableau (2 seats):            $1,680   # Tableau（2席位）
+Microsoft 365:                $1,800
+AWS Infrastructure:          $12,000   # AWS基础设施
+Zapier:                         $588
+Misc. SaaS:                  $11,000+  # 其他SaaS
+                            --------
+TOTAL:                      $39,668/year # 总计：$39,668/年
+
+Plus: My time maintaining it (8 hrs/month)
+      = 96 hours/year of admin work
+# 加上：我维护的时间（8小时/月）= 96小时/年的管理工作
+\end{lstlisting}
+\end{codebox}
+
+\textbf{之后（Markdown原生技术栈）：}
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Obsidian Sync:                  $96    # Obsidian同步
+GitHub (private repos):          $0    # GitHub（私有仓库）
+Claude API:                  $1,200    # Claude API
+Vercel hosting:                $240    # Vercel托管
+Domain:                         $12    # 域名
+Backblaze backup:               $60    # Backblaze备份
+                            ------
+TOTAL:                      $1,608/year # 总计：$1,608/年
+
+Plus: My time maintaining it (1 hr/month)
+      = 12 hours/year of admin work
+# 加上：我维护的时间（1小时/月）= 12小时/年的管理工作
+\end{lstlisting}
+\end{codebox}
+
+\textbf{年度节省：\$38,060 + 84小时}
+
+这是真金白银和真实时间，返还给建设业务而不是维护基础设施。
+
+\section{迁移路径}
+
+如果你准备好进行这个转变，以下是如何在不干扰业务的情况下做到的。
+
+\textbf{第1周：导出和理解}
+
+从你当前的系统导出一切。先不要尝试转换——只是把数据拿出来。Salesforce到CSV。Jira到JSON。文档下载。理解你实际拥有什么，而不是你以为你拥有什么。
+
+大多数人发现他们只使用了企业工具能力的大约百分之十。这是解放。
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Export checklist:                   # 导出清单：
+- [ ] CRM: All accounts, contacts, opportunities
+      # CRM：所有账户、联系人、商机
+- [ ] PM tool: All projects, tasks, comments
+      # PM工具：所有项目、任务、评论
+- [ ] Documents: Everything, maintaining folders
+      # 文档：所有，保持文件夹结构
+- [ ] Email: Important threads (optional)
+      # 邮件：重要线程（可选）
+- [ ] Financial: Invoices, expenses, reports
+      # 财务：发票、费用、报告
+
+Revelation: Most of this data has never been read.
+# 启示：这些数据大部分从未被读过。
+\end{lstlisting}
+\end{codebox}
+
+\textbf{第2周：结构和转换}
+
+用干净的文件夹结构设置你的Obsidian库。将你的导出转换为markdown。从简单开始——你随时可以增加复杂性。
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Conversion priority:                # 转换优先级：
+1. Customers (most valuable context)
+   # 客户（最有价值的上下文）
+2. Active projects (immediate need)
+   # 活跃项目（即时需要）
+3. Recent deals (pipeline continuity)
+   # 最近的交易（管道连续性）
+4. Everything else (as needed)
+   # 其他（按需）
+
+Template tip: Create templates for each type
+before converting. Consistency helps AI.
+# 模板提示：在转换前为每种类型创建模板。
+# 一致性有助于AI。
+\end{lstlisting}
+\end{codebox}
+
+\textbf{第3周：训练和测试}
+
+让你的AI智能体指向新库。测试查询。验证准确性。让智能体读取客户文件并总结——他们理解上下文吗？
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Agent testing:                      # 智能体测试：
+- "Summarize our relationship with Acme Corp"
+  # "总结我们与Acme Corp的关系"
+- "What deals are closing this week?"
+  # "本周有什么交易要成交？"
+- "Who are our at-risk customers?"
+  # "谁是我们的风险客户？"
+- "Generate a weekly sales report"
+  # "生成每周销售报告"
+
+If answers are wrong, fix the data, not the AI.
+# 如果答案错了，修复数据，不是AI。
+\end{lstlisting}
+\end{codebox}
+
+\textbf{第4周：过渡和取消}
+
+上线。从新系统工作几天，同时保持旧系统只读。一旦有信心，取消企业订阅。
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Cancellation sequence:              # 取消顺序：
+- Day 1-3: Parallel operation (both systems)
+  # 第1-3天：并行运行（两个系统）
+- Day 4-5: Primary on markdown (old for reference)
+  # 第4-5天：主要在markdown（旧的作为参考）
+- Day 6-7: Cancel subscriptions
+  # 第6-7天：取消订阅
+- Month 2: Delete old accounts (after backup)
+  # 第2个月：删除旧账户（备份后）
+
+The hardest part: Believing it actually works.
+# 最难的部分：相信它真的有效。
+\end{lstlisting}
+\end{codebox}
+
+\section{我留下的东西}
+
+离开企业软件感觉有风险，直到我意识到我实际上留下的是什么：
+
+\textbf{Oracle。}我从不需要事务性数据库。Markdown表格处理我实际用数据做的一切。
+
+\textbf{Salesforce。}我从不需要每个联系人四十七个字段。我需要的是AI能理解的上下文。
+
+\textbf{Jira。}我从不需要故事点和速度追踪。我需要复选框和笔记。
+
+\textbf{Tableau。}我从不需要复杂的可视化。我需要问题的答案。
+
+\textbf{SharePoint。}我从不需要企业文档管理。我需要文件夹中的文件配合版本控制。
+
+\section{我获得的东西}
+
+收获让我惊讶：
+
+\textbf{速度。}一切都是即时的。不用等待查询。不用加载仪表板。不用同步延迟。
+
+\textbf{清晰。}我能读懂自己的数据。不用解释界面。不用抽象层。只有文本。
+
+\textbf{可移植性。}我的业务在一个文件夹中运行。我可以把它移到任何地方。没有供应商拥有我的数据。
+
+\textbf{AI原生。}每条信息都可以立即被AI智能体访问。不用集成项目。不用API连接器。只有文件。
+
+\textbf{专注。}我不再是系统管理员了。我开始成为企业主。
+
+\begin{keyinsight}[简单性悖论]
+最简单的技术（纯文本）结合最先进的技术（AI）击败了中间的所有复杂性。
+
+\textbf{Markdown + Git + AI智能体 = 现代业务技术栈}
+
+大多数企业不需要数据库。不需要BI工具——AI生成报表。不需要PM工具——复选框和AI追踪。不需要复杂集成——AI读文件。
+
+企业技术栈是为企业构建的。你不是企业。你是一个用AI作为团队建设有意义事物的人。
+
+那张47,000美元的发票是发生在我业务上最好的事情。它迫使我质疑一切并发现了更好的东西。
+\end{keyinsight}
+
+\textbf{下一章：}构建用markdown文件和智能代理替代Salesforce的AI原生CRM。

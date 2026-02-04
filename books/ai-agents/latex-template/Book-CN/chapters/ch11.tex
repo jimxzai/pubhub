@@ -1,0 +1,972 @@
+\chapter{构建AI原生CRM}
+
+\section{我意识到Salesforce在骗我的那一刻}
+
+我正在和一个潜在客户通话——一笔50,000美元的交易——我想不起来我们是怎么认识的。那个潜在客户提到``我们在大会上的对话''，我完全一片空白。哪个大会？我们讨论了什么？是我团队里的人先见了他们吗？
+
+我让他们稍等，然后疯狂地在Salesforce中搜索。找到了联系人记录：
+
+\begin{itemize}
+\item 姓名、邮箱、电话、公司——都有
+\item 线索来源：``大会''
+\item 最后活动：``已预约会议''
+\item 备注字段：\textit{空的}
+\end{itemize}
+
+没有上下文。没有历史。没有关系智能。只有数据字段，告诉我毫无用处的信息。
+
+我跌跌撞撞地完成了剩余的通话，假装我记得。他们看得出我不记得了。这笔交易凉了。
+
+那天晚上，我导出了整个Salesforce数据库。三年的客户数据。数千条联系人记录。数百个商机阶段。我发现的令人警醒：
+
+\begin{itemize}
+\item 百分之八十五的备注字段是空的
+\item 活动日志显示行动——``打了电话''、``发了邮件''——但没有结果
+\item 关系上下文分散在邮件、日历邀请和单独的应用中
+\item CRM已经变成了浅层数据的墓地
+\end{itemize}
+
+我每年为本质上是一个昂贵的通讯录支付1,800美元。
+
+\section{CRM悖论}
+
+以下是我关于传统CRM发现的：
+
+它们是伪装成智能的数据库。
+
+每个CRM都承诺关系管理。它们实际交付的是记录管理。一个存储联系人信息的地方。管道阶段。活动记录。你运行一次就再也不看的报表。
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+What CRMs Promise:                  # CRM承诺的：
+- Customer "relationship" management # 客户"关系"管理
+- 360-degree customer view          # 360度客户视图
+- Actionable insights               # 可行动的洞察
+- Improved sales outcomes           # 改善销售结果
+
+What CRMs Actually Deliver:         # CRM实际交付的：
+- A place to store contact data     # 存储联系人数据的地方
+- Pipeline stages                   # 管道阶段
+- Activity logging                  # 活动记录
+- Reports you never read            # 你永远不读的报表
+
+THE PARADOX: The more data you enter,
+the less useful it becomes.
+# 悖论：你输入的数据越多，它变得越没用。
+
+Why? Because nobody reads 47 fields per contact.
+Including AI - until now.
+# 为什么？因为没人读每个联系人47个字段。
+# 包括AI——直到现在。
+\end{lstlisting}
+\end{codebox}
+
+根本问题：CRM是在AI能读自然语言之前设计的。它们为结构化数据查询优化，而不是上下文理解。每条信息都必须适合预定义的字段，配合下拉选项和选择列表。
+
+但关系不适合选择列表。客户偏好邮件而不是电话、讨厌被销售、因为背部问题有一张站立式办公桌——这些上下文存在于笔记中，而不是字段中。而传统CRM中的备注字段是信息消亡的黑洞。
+
+\section{替代方案：智能，而非存储}
+
+如果你的CRM实际上能回答关于客户的问题呢？
+
+不是``给我看联系人记录''。真正的问题：
+
+``打电话给John之前我应该知道什么？''
+
+``这个月哪些客户可能流失？''
+
+``我们客户群中谁可以为医疗保健领域的潜在客户做推荐人？''
+
+``我们与Acme Corp的完整关系历史是什么，包括我们怎么认识的、解决了什么问题、可能存在什么机会？''
+
+传统CRM无法回答这些问题。它们可以给你看记录。它们可以运行报表。但它们无法将上下文综合成洞察。
+
+AI原生CRM可以。
+
+\section{从数据库到知识图谱}
+
+转变从你如何存储客户信息开始。
+
+\textbf{传统CRM：表格问题}
+
+在Salesforce中，客户作为表中的一行存在。四十七个字段。大多数是空的。上下文分散在相关对象中——账户、联系人、商机、活动、笔记——全部通过需要联接来查询的外键连接。
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Salesforce Data Model:              # Salesforce数据模型：
+
+Contact Record:                     # 联系人记录：
+|-- Name: John Smith                # 姓名
+|-- Email: john@acme.com            # 邮箱
+|-- Phone: 555-0123                 # 电话
+|-- Title: VP Engineering           # 职位：工程副总裁
+|-- Company: Acme Corp              # 公司
+|-- Lead Source: Website            # 线索来源：网站
+|-- Last Activity: 2026-01-15       # 最后活动
+`-- Notes: [Empty or forgotten]     # 备注：[空或被遗忘]
+
+Problems:                           # 问题：
+- Flat, no relationships visible    # 扁平，看不到关系
+- Context scattered across fields   # 上下文分散在字段中
+- Notes ignored (who reads them?)   # 备注被忽略（谁读它们？）
+- No intelligence, just storage     # 没有智能，只有存储
+- AI needs custom integration to read
+  # AI需要定制集成才能读取
+\end{lstlisting}
+\end{codebox}
+
+\textbf{AI原生CRM：上下文解决方案}
+
+在基于markdown的CRM中，客户作为文档存在。人类可读。AI可读。富含永远无法装进数据库字段的上下文。
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# Acme Corp
+
+## Company Context
+## 公司背景
+- Industry: SaaS (B2B)              # 行业：SaaS（B2B）
+- Size: 150 employees, growing fast # 规模：150员工，快速增长
+- Location: Austin, TX (remote-friendly)
+                                    # 地点：Austin, TX（远程友好）
+- Funding: Series B ($25M, led by Sequoia)
+                                    # 融资：B轮（$2500万，红杉领投）
+- Stack: AWS, React, Node.js        # 技术栈
+- Culture: Engineering-driven, values async communication
+                                    # 文化：工程驱动，重视异步沟通
+
+## Key People
+## 关键人物
+
+### John Smith (VP Engineering) [[contacts/john-smith]]
+### John Smith（工程副总裁）
+- Decision maker for technical purchases
+  # 技术采购决策者
+- Prefers async communication (email over calls)
+  # 偏好异步沟通（邮件优于电话）
+- Active on Twitter: @johnsmith (engage there)
+  # 活跃于Twitter（在那里互动）
+- Personal: Has a standing desk, runs marathons
+  # 个人：有站立式办公桌，跑马拉松
+- Communication style: Direct, data-driven
+  # 沟通风格：直接，数据驱动
+
+### Sarah Chen (CEO) [[contacts/sarah-chen]]
+- Final budget authority over $50K  # 超过$50K的最终预算权
+- Met at SaaStr 2025 (talked about scaling challenges)
+  # 在SaaStr 2025认识（谈到扩展挑战）
+- Referred us to [[customers/beta-corp]]
+  # 把我们推荐给[[customers/beta-corp]]
+- Easy to work with, respects directness
+  # 容易合作，尊重直接
+
+## Relationship History
+## 关系历史
+
+### How We Met
+### 我们如何认识
+Inbound from our blog post on API rate limiting.
+John found the article, shared with his team.
+They were experiencing the exact problem we solved.
+First call was 15 minutes - sold itself.
+# 来自我们关于API限流的博客帖子的入站。
+# John发现文章，分享给他的团队。
+# 他们正好遇到我们解决的问题。
+# 第一次通话15分钟——自然成交。
+
+### Deal (March 2024)
+### 交易（2024年3月）
+- Started: Pro trial (no friction)  # 开始：专业版试用（无阻力）
+- Converted: Pro plan at $500/mo in 3 days
+                                    # 转化：3天内$500/月专业版
+- Champion: John Smith              # 支持者：John Smith
+- Decision: Made after 15-min demo  # 决策：15分钟演示后做出
+- Key selling point: Our API documentation
+  # 关键卖点：我们的API文档
+- Competition: Evaluated Competitor X but found
+  our webhooks more reliable
+  # 竞争：评估了竞争对手X但发现我们的webhooks更可靠
+
+### Expansion (October 2024)
+### 扩展（2024年10月）
+- Added enterprise features         # 增加企业功能
+- New contract: $1,200/mo (140% growth)
+                                    # 新合同：$1,200/月（140%增长）
+- Reason: Needed SSO + audit logs for SOC 2
+  # 原因：SOC 2需要SSO + 审计日志
+- Smooth upgrade, no negotiation    # 顺利升级，无需谈判
+
+## Communication Style
+## 沟通风格
+- Email: Responds within 24h, prefers bullet points
+  # 邮件：24h内回复，偏好要点
+- Calls: Schedule 48h in advance, keep under 30 min
+  # 电话：提前48h安排，保持30分钟以内
+- Don't: Cold call, they hate it    # 不要：陌生电话，他们讨厌
+- Do: Share technical content, they love deep dives
+  # 要：分享技术内容，他们喜欢深度探讨
+- Best time: Tuesday-Thursday afternoons Pacific
+  # 最佳时间：太平洋时间周二到周四下午
+
+## Health Signals
+## 健康信号
+- Login frequency: Daily (power user) # 登录频率：每天（超级用户）
+- Feature usage: Top 10% of customers # 功能使用：前10%客户
+- Support: 2 tickets total, both fast resolution
+                                      # 支持：共2个工单，都快速解决
+- NPS: 9 (promoter)                   # NPS：9（推广者）
+- Renewal risk: Very low              # 续约风险：非常低
+
+## Opportunities
+## 机会
+- [[opportunities/acme-enterprise-upgrade]]
+- Potential: Team plan for marketing dept ($2K/mo)
+  # 潜力：营销部门团队计划（$2K/月）
+- John mentioned budget for Q2 expansion
+  # John提到Q2扩展预算
+
+## Notes (Chronological)
+## 笔记（按时间顺序）
+- 2024-03-15: Great demo, closed same call. John said
+  "this is exactly what we've been building internally"
+  # 很棒的演示，同一通电话成交。John说"这正是我们内部一直在建的"
+- 2024-06-20: John referred Beta Corp - send thank you
+  # John推荐了Beta Corp - 发感谢信
+- 2024-10-01: Enterprise upgrade smooth, Sarah approved
+  same day. Mentioned they're hiring, growing fast.
+  # 企业升级顺利，Sarah当天批准。提到他们在招人，快速增长。
+- 2025-01-10: John asked about API rate limits for
+  their growing usage. Might need custom tier soon.
+  # John问了他们增长使用量的API限流。可能很快需要定制层级。
+
+## Linked Records
+## 关联记录
+- [[orders/ORD-2024-089]]
+- [[invoices/INV-2024-089]]
+- [[support/tickets/456]]
+- [[calls/2024-03-15-demo]]
+- [[calls/2024-10-01-upgrade]]
+\end{lstlisting}
+\end{codebox}
+
+当我问我的AI智能体``打电话给Acme的John之前我应该知道什么？''它读取这个文件并给我一切：沟通偏好、关系历史、当前健康状况、潜在机会，甚至有助于建立融洽关系的个人背景。
+
+传统CRM做不到这一点。它们存储数据。这个存储知识。
+
+\section{统一的客户视图}
+
+当你所有的AI智能体共享相同的客户文件时，markdown CRM的力量成倍增长。
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Customer File: acme-corp.md         # 客户文件
+         |
+    +----+----+----+----+----+----+
+    |    |    |    |    |    |    |
+   SAM  EMMA MAYA CASEY FINN OSCAR
+ (Sales)(EA)(Mkt)(Succ)(Fin)(Ops)
+# （销售）（助理）（营销）（成功）（财务）（运营）
+
+Every agent reads the same file.    # 每个智能体读相同的文件。
+Every agent can update the file.    # 每个智能体可以更新文件。
+Every agent has full context.       # 每个智能体有完整上下文。
+\end{lstlisting}
+\end{codebox}
+
+让我向你展示这在实践中是什么样子。
+
+\textbf{场景：}客户John发邮件询问企业功能。
+
+\textbf{Emma（邮件智能体）}收到邮件：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+From: John Smith <john@acme.com>
+Subject: Quick question about Enterprise tier
+# 主题：关于企业版的快速问题
+
+Hey, I'm curious about the Enterprise features.
+Can we chat sometime this week?
+# 嘿，我对企业功能很好奇。这周我们能聊聊吗？
+\end{lstlisting}
+\end{codebox}
+
+Emma读取客户文件并理解：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Emma's Analysis (from acme-corp.md):
+# Emma的分析（来自acme-corp.md）：
+
+Customer: Acme Corp                 # 客户：Acme Corp
+Current Tier: Pro ($1,200/mo)       # 当前级别：专业版（$1,200/月）
+Health: Excellent (9 NPS, daily usage)
+                                    # 健康：优秀（NPS 9，每日使用）
+Potential: Enterprise noted as opportunity
+                                    # 潜力：企业版已标记为机会
+Relationship: Strong (John is champion)
+                                    # 关系：强（John是支持者）
+Last contact: 15 days ago           # 最后联系：15天前
+
+Intent: Expansion inquiry (high value)
+                                    # 意图：扩展咨询（高价值）
+Priority: High (revenue opportunity)
+                                    # 优先级：高（收入机会）
+Owner: Sam should handle sales conversation
+                                    # 负责人：Sam应该处理销售对话
+
+Action:                             # 行动：
+1. Acknowledge John's email warmly  # 热情确认John的邮件
+2. Forward to Sam with full context # 带完整上下文转给Sam
+3. Add note to customer file        # 在客户文件添加笔记
+4. Create opportunity if needed     # 如需要创建商机
+\end{lstlisting}
+\end{codebox}
+
+Emma回复John并提醒Sam：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+To: Sam (Sales Agent)
+Subject: FW: Enterprise inquiry from Acme Corp
+# 主题：转发：来自Acme Corp的企业版咨询
+
+Sam,
+
+John from Acme Corp is asking about Enterprise.
+Here's context from their file:
+# Acme Corp的John在问企业版。
+# 以下是他们文件的上下文：
+
+- Current: Pro at $1,200/mo         # 当前：专业版$1,200/月
+- Health: Excellent (daily usage, 9 NPS)
+                                    # 健康：优秀（每日使用，NPS 9）
+- History: Expanded once before (October, smooth)
+                                    # 历史：之前扩展过一次（10月，顺利）
+- Opportunity: Enterprise upgrade already flagged
+                                    # 机会：企业版升级已标记
+- Communication: Prefers email, hates cold calls
+                                    # 沟通：偏好邮件，讨厌陌生电话
+
+Recommend: Prioritize this. John is their champion
+and has budget authority up to $50K. This could be
+$3,000+/mo upgrade.
+# 建议：优先处理。John是他们的支持者，
+# 有最高$50K的预算权限。这可能是$3,000+/月的升级。
+
+Already added inquiry to their customer file.
+# 已将咨询添加到他们的客户文件。
+---
+
+To: John Smith
+Cc: [You]
+Subject: Re: Quick question about Enterprise tier
+# 主题：回复：关于企业版的快速问题
+
+Hi John!
+
+Great to hear from you. I've connected you with
+Sam who handles our Enterprise accounts - you'll
+hear from them within the hour.
+# 很高兴收到你的消息。我已经帮你联系了处理
+# 企业账户的Sam——你会在一小时内收到他们的回复。
+
+Is there a specific feature driving your interest?
+That'll help Sam come prepared for the conversation.
+# 有什么特定功能引起你的兴趣吗？
+# 这能帮Sam准备好对话。
+
+Talk soon,
+Emma
+\end{lstlisting}
+\end{codebox}
+
+Sam收到交接时有完整的上下文。不需要问John已经回答过的基本问题。不需要翻阅CRM记录。上下文随之流动。
+
+\section{关系智能}
+
+传统CRM给你看扁平的记录。AI原生CRM揭示关系网络。
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Relationship Map (built from markdown links):
+# 关系图（从markdown链接构建）：
+
+John Smith (Acme Corp)
+    |
+    |-- Reports to: Sarah Chen (CEO, Acme)
+    |   `-- Has budget authority, final approver
+    |       # 有预算权限，最终审批人
+    |
+    |-- Referred: Mike at Beta Corp
+    |   `-- Now a customer, good relationship
+    |       # 现在是客户，关系良好
+    |
+    |-- Knows: Lisa (CTO, Acme)
+    |   `-- New stakeholder, might be involved in deals
+    |       # 新的利益相关者，可能参与交易
+    |
+    |-- Network: YC batch 2019
+    |   `-- 12 companies, we have 3 as customers
+    |       # 12家公司，我们有3家是客户
+    |
+    `-- Former: TechCorp (2019-2022)
+        `-- We have 2 contacts there
+            # 我们在那里有2个联系人
+\end{lstlisting}
+\end{codebox}
+
+这个关系图从链接的markdown文件中自然涌现。当我在笔记中提到``John推荐了Beta Corp的Mike''时，这创建了一个可查询的连接。
+
+\textbf{AI查询：}``谁能介绍我认识TechCorp的人？''
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+AI Response (from relationship graph):
+# AI回复（来自关系图）：
+
+Warm paths to TechCorp:             # 到TechCorp的温暖路径：
+
+1. John Smith (Acme Corp)           # John Smith（Acme Corp）
+   - Worked at TechCorp 2019-2022   # 2019-2022在TechCorp工作
+   - Likely knows current leadership # 可能认识现任领导
+   - Strong relationship with us (NPS 9)
+     # 与我们关系良好（NPS 9）
+   - Ask directly - he's been helpful with intros
+     # 直接问——他在介绍方面一直很helpful
+
+2. Sarah Chen (Acme Corp)           # Sarah Chen（Acme Corp）
+   - Knows TechCorp CEO from YC network
+     # 从YC网络认识TechCorp CEO
+   - Could facilitate executive-level intro
+     # 可以促成高管级别介绍
+   - May require reciprocal value   # 可能需要互惠价值
+
+3. Mike (Beta Corp)                 # Mike（Beta Corp）
+   - Former TechCorp client         # 前TechCorp客户
+   - Can speak to their buying process
+     # 可以谈论他们的采购流程
+   - Less direct but useful context # 不那么直接但有用的背景
+
+Recommendation: Ask John. He's already referred
+one successful customer and offered to help
+with introductions in your last call.
+# 建议：问John。他已经推荐了一个成功客户，
+# 并在你上次通话中表示愿意帮忙介绍。
+\end{lstlisting}
+\end{codebox}
+
+这种智能在传统CRM中是不可能的。你需要专门的关系映射工具、为每个连接的数据输入、以及随着关系演变的手动维护。用markdown和AI，它从自然的笔记记录中涌现。
+
+\section{真正有效的活动记录}
+
+在传统CRM中，活动记录是手动苦差事。每次通话后，你应该：
+
+\begin{enumerate}
+\item 登录Salesforce
+\item 导航到联系人
+\item 添加活动
+\item 填写十二个字段
+\item 写摘要
+\item 记得保存
+\item 希望你没有忘记任何重要的事情
+\end{enumerate}
+
+现实：没人能始终如一地做到这一点。关键信息留在记忆中，记忆消退时就消亡了。
+
+\textbf{AI原生方式：}
+
+通话后，我给我的AI智能体发送语音留言或快速文字：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Me: "Just finished call with John from Acme.
+He's interested in Enterprise for the SSO and
+audit logs - they're doing SOC 2 certification.
+Budget approved by Sarah, wants proposal by Friday.
+New person named Lisa from their CTO office joined,
+she'll be technical evaluator. John wants SSO live
+by March 1st for their audit."
+# 我："刚和Acme的John通完电话。
+# 他对企业版的SSO和审计日志感兴趣——
+# 他们在做SOC 2认证。
+# Sarah批准了预算，周五前要提案。
+# 新人Lisa从他们CTO办公室加入了，
+# 她将是技术评估者。John希望SSO在
+# 3月1日前上线以配合他们的审计。"
+\end{lstlisting}
+\end{codebox}
+
+AI智能体自动更新客户文件：
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+## Notes (updated)
+## 笔记（已更新）
+- 2026-01-28 (Call with John):
+  - Enterprise interest confirmed   # 企业版兴趣确认
+  - Drivers: SSO + audit logs for SOC 2 certification
+    # 驱动因素：SOC 2认证的SSO + 审计日志
+  - Budget: Approved by Sarah       # 预算：Sarah已批准
+  - Timeline: Proposal by Friday, SSO live by March 1
+    # 时间线：周五提案，3月1日SSO上线
+  - New stakeholder: Lisa (CTO office) - technical evaluator
+    # 新利益相关者：Lisa（CTO办公室）- 技术评估者
+  - Added [[contacts/lisa-acme]] as influencer
+    # 添加[[contacts/lisa-acme]]为影响者
+
+## Opportunities (updated)
+## 商机（已更新）
+- [[opportunities/acme-enterprise-upgrade]]
+  - Status: Proposal stage          # 状态：提案阶段
+  - Value: ~$3,000/mo ($36K/year)   # 价值：约$3,000/月
+  - Close date: Feb 15 (based on March 1 SSO need)
+    # 成交日期：2月15日（基于3月1日SSO需求）
+  - Decision makers: John (champion), Sarah (approver),
+    Lisa (technical evaluator)
+    # 决策者：John（支持者）、Sarah（审批者）、Lisa（技术评估者）
+
+## Tasks Created
+## 已创建任务
+- [ ] Send Enterprise proposal by Friday (Jan 31)
+      # 周五前发送企业版提案（1月31日）
+- [ ] Schedule intro call with Lisa
+      # 安排与Lisa的介绍电话
+- [ ] Confirm SSO implementation timeline with eng
+      # 与工程确认SSO实施时间线
+\end{lstlisting}
+\end{codebox}
+
+所有活动都被记录。所有上下文都被保留。所有跟进都被创建。没有手动数据输入。没有遗忘的细节。
+
+\section{重新想象管道管理}
+
+传统管道给你看交易阶段。AI原生管道讲述故事。
+
+\textbf{传统管道视图：}
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Opportunity: Acme Corp - Enterprise # 商机：Acme Corp - 企业版
+Amount: $36,000                     # 金额：$36,000
+Stage: Proposal                     # 阶段：提案
+Close Date: 2026-02-15              # 成交日期：2026-02-15
+Probability: 60%                    # 概率：60%
+Next Step: Send proposal            # 下一步：发送提案
+
+(What's missing: Everything useful) # （缺少的：所有有用的东西）
+\end{lstlisting}
+\end{codebox}
+
+\textbf{AI原生管道视图：}
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# Acme Corp - Enterprise Upgrade
+# Acme Corp - 企业版升级
+
+## Quick Stats
+## 快速数据
+- Value: $3,000/mo ($36,000/year)   # 价值
+- Stage: Proposal                   # 阶段：提案
+- AI Confidence: 85%                # AI信心度：85%
+- Timeline: Decision by Feb 7, SSO by March 1
+  # 时间线：2月7日前决策，3月1日前SSO上线
+
+## Why 85% Confidence?
+## 为什么85%信心度？
+
+AI assessment from customer context:
+# AI根据客户上下文评估：
+
+Positive Signals:                   # 正面信号：
+- Customer health: Excellent (+20%) # 客户健康：优秀
+- Champion active: John engaged, responsive (+15%)
+  # 支持者活跃：John参与度高，响应快
+- Budget approved: Sarah confirmed (+20%)
+  # 预算批准：Sarah已确认
+- Timeline clear: SOC 2 audit driving urgency (+10%)
+  # 时间线清晰：SOC 2审计驱动紧迫性
+- History: Expanded smoothly before (+10%)
+  # 历史：之前顺利扩展过
+- Competition: None mentioned (+10%)
+  # 竞争：未提及
+
+Risk Factors:                       # 风险因素：
+- New stakeholder: Lisa untested (-5%)
+  # 新利益相关者：Lisa未测试
+- SSO timeline: Needs engineering confirmation (-5%)
+  # SSO时间线：需要工程确认
+
+## The Story
+## 故事
+
+John came inbound asking about Enterprise.
+Not a cold opportunity - organic expansion from
+a happy Pro customer. They're doing SOC 2 and
+need our SSO + audit log features by March 1.
+# John主动问企业版。不是冷商机——
+# 来自满意专业版客户的自然扩展。
+# 他们在做SOC 2，需要我们的SSO +
+# 审计日志功能在3月1日前。
+
+Sarah (CEO) already approved budget. This is
+John's initiative - he's the champion and
+wants to look good delivering this.
+# Sarah（CEO）已批准预算。这是John的倡议——
+# 他是支持者，想通过交付这个让自己出彩。
+
+New wrinkle: Lisa from CTO office is joining
+as technical evaluator. Unknown quantity - need
+to get her bought in early.
+# 新变数：来自CTO办公室的Lisa作为技术评估者加入。
+# 未知因素——需要尽早获得她的认可。
+
+## What Matters Now
+## 现在重要的是什么
+
+1. SSO timeline is critical - if we can't do
+   March 1, deal is at risk. Confirm with eng.
+   # SSO时间线关键——如果我们不能做到3月1日，
+   # 交易有风险。与工程确认。
+
+2. Lisa is new stakeholder - don't let her become
+   a blocker. Offer technical deep-dive.
+   # Lisa是新利益相关者——不要让她成为阻碍。
+   # 提供技术深度探讨。
+
+3. Proposal needs to emphasize SOC 2 value -
+   that's their driving need.
+   # 提案需要强调SOC 2价值——那是他们的驱动需求。
+
+## Next Actions
+## 下一步行动
+- [ ] Confirm SSO timeline (TODAY)  # 确认SSO时间线（今天）
+- [ ] Draft proposal (by Thursday)  # 起草提案（周四前）
+- [ ] Schedule Lisa intro (this week) # 安排Lisa介绍（本周）
+- [ ] Send proposal (Friday)        # 发送提案（周五）
+- [ ] Follow up Monday if no response # 如无回复周一跟进
+
+## Linked
+## 关联
+- [[customers/acme-corp]]
+- [[contacts/john-smith]]
+- [[contacts/lisa-acme]]
+- [[emails/enterprise-thread]]
+\end{lstlisting}
+\end{codebox}
+
+AI不只是显示概率——它解释为什么。它讲述交易的故事。它识别风险并建议行动。它将一切连接到更广泛的客户关系。
+
+每天早上，我都会收到一份像简报一样而不是电子表格一样的管道摘要：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+PIPELINE THIS WEEK                  # 本周管道
+
+Likely to Close ($56K at 80%+ confidence):
+# 可能成交（$56K，80%+信心度）：
+
+1. Acme Corp: $36K (85%)
+   - Proposal going Friday          # 周五发提案
+   - Risk: Confirm SSO timeline     # 风险：确认SSO时间线
+   - Action: Talk to engineering today
+     # 行动：今天和工程谈
+
+2. TechFlow: $12K (80%)
+   - Contract out for signature     # 合同待签
+   - No blockers, just waiting      # 无阻碍，只是等待
+   - Action: None needed            # 行动：不需要
+
+3. Beta Inc: $8K (90%)
+   - Verbal yes, sending agreement today
+     # 口头同意，今天发协议
+   - Action: Send DocuSign          # 行动：发送DocuSign
+
+Needs Attention:                    # 需要关注：
+
+1. Gamma Corp: $24K (45%)
+   - No response for 10 days        # 10天无回复
+   - Emails being opened, not replied
+     # 邮件被打开，未回复
+   - Recommendation: Phone call needed
+     # 建议：需要打电话
+   - Warning: May be shopping competitors
+     # 警告：可能在比较竞争对手
+
+2. Delta LLC: $18K (35%)
+   - Budget uncertainty surfaced    # 预算不确定性浮现
+   - Champion supportive but not decision maker
+     # 支持者支持但不是决策者
+   - Recommendation: Ask for executive intro
+     # 建议：请求高管介绍
+
+Today's Priority: Confirm Acme SSO timeline.
+This is your biggest deal and has a hard deadline.
+# 今日优先：确认Acme SSO时间线。
+# 这是你最大的交易，有硬性截止日期。
+\end{lstlisting}
+\end{codebox}
+
+\section{构建你的AI原生CRM}
+
+实施比你可能预期的更简单。
+
+\textbf{文件夹结构：}
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+/crm
+|-- /customers                      # /客户
+|   |-- acme-corp.md
+|   |-- beta-inc.md
+|   `-- ... (one file per company)  # （每家公司一个文件）
+|-- /contacts                       # /联系人
+|   |-- john-smith.md
+|   |-- sarah-chen.md
+|   `-- ... (one file per person)   # （每人一个文件）
+|-- /opportunities                  # /商机
+|   |-- acme-enterprise.md
+|   |-- beta-expansion.md
+|   `-- ... (one file per deal)     # （每笔交易一个文件）
+|-- /pipeline                       # /管道
+|   |-- this-week.md (auto-generated) # 本周（自动生成）
+|   |-- this-month.md               # 本月
+|   `-- forecast.md                 # 预测
+|-- /templates                      # /模板
+|   |-- customer.md                 # 客户
+|   |-- contact.md                  # 联系人
+|   `-- opportunity.md              # 商机
+`-- /reports                        # /报告
+    |-- weekly-summary.md (auto-generated)
+                                    # 周总结（自动生成）
+    `-- monthly-metrics.md          # 月度指标
+\end{lstlisting}
+\end{codebox}
+
+\textbf{客户模板：}
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# {{Company Name}}
+
+## Company Context
+## 公司背景
+- Industry:                         # 行业：
+- Size:                             # 规模：
+- Location:                         # 地点：
+- Website:                          # 网站：
+- Tech Stack:                       # 技术栈：
+
+## Key People
+## 关键人物
+<!-- Link to contact files -->
+<!-- 链接到联系人文件 -->
+
+## Relationship History
+## 关系历史
+
+### How We Met
+### 我们如何认识
+
+### Timeline
+### 时间线
+<!-- Key milestones -->
+<!-- 关键里程碑 -->
+
+## Communication Preferences
+## 沟通偏好
+
+## Health Signals
+## 健康信号
+- Login frequency:                  # 登录频率：
+- Feature usage:                    # 功能使用：
+- Support history:                  # 支持历史：
+- NPS:
+
+## Opportunities
+## 机会
+<!-- Active and potential -->
+<!-- 活跃和潜在的 -->
+
+## Notes
+## 笔记
+<!-- Chronological updates -->
+<!-- 按时间顺序更新 -->
+
+## Linked Records
+## 关联记录
+<!-- Orders, invoices, tickets, calls -->
+<!-- 订单、发票、工单、通话 -->
+\end{lstlisting}
+\end{codebox}
+
+\textbf{自动化规则：}
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+# What your AI agents do automatically
+# 你的AI智能体自动做什么
+
+On Email Received:                  # 收到邮件时：
+- Match to customer file            # 匹配到客户文件
+- Update last contact date          # 更新最后联系日期
+- Extract intent and priority       # 提取意图和优先级
+- Route if action needed            # 如需行动则路由
+- Add to notes if significant       # 如重要则添加到笔记
+
+On Call Completed:                  # 通话完成时：
+- Update customer file with summary # 用摘要更新客户文件
+- Create follow-up tasks            # 创建跟进任务
+- Update opportunity if relevant    # 如相关则更新商机
+- Flag if health signals changed    # 如健康信号变化则标记
+
+On Deal Stage Change:               # 交易阶段变化时：
+- Update opportunity file           # 更新商机文件
+- Recalculate AI confidence         # 重新计算AI信心度
+- Notify if won/lost                # 如赢/输则通知
+- Update pipeline forecast          # 更新管道预测
+
+Weekly (Auto-generated):            # 每周（自动生成）：
+- Pipeline summary with stories     # 带故事的管道摘要
+- At-risk account alerts            # 风险账户警报
+- Suggested follow-ups              # 建议跟进
+- Metrics comparison                # 指标对比
+
+Monthly:                            # 每月：
+- Revenue report                    # 收入报告
+- Health score audit                # 健康分数审计
+- Relationship map updates          # 关系图更新
+- Forecast accuracy review          # 预测准确性审核
+\end{lstlisting}
+\end{codebox}
+
+\section{从Salesforce迁移}
+
+如果你有现有的CRM数据，以下是迁移路径：
+
+\textbf{步骤1：导出所有内容}
+
+从Salesforce导出账户、联系人、商机、活动和笔记。你会得到包含结构化数据的CSV文件。
+
+\textbf{步骤2：转换为Markdown}
+
+一个简单的脚本将行转换为文档：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+# Basic conversion approach
+# 基本转换方法
+
+For each account:                   # 对于每个账户：
+1. Create customers/{{name}}.md     # 创建 customers/{{name}}.md
+2. Fill company context from fields # 从字段填充公司背景
+3. Link to contact files            # 链接到联系人文件
+4. Import notes chronologically     # 按时间导入笔记
+5. Create opportunity files if active
+   # 如活跃则创建商机文件
+
+For each contact:                   # 对于每个联系人：
+1. Create contacts/{{name}}.md      # 创建 contacts/{{name}}.md
+2. Fill personal context from fields # 从字段填充个人背景
+3. Link to company file             # 链接到公司文件
+4. Import activity history          # 导入活动历史
+\end{lstlisting}
+\end{codebox}
+
+\textbf{步骤3：用AI丰富}
+
+转换后，你的文件有结构化数据但上下文有限。让AI增强它们：
+
+\begin{codebox}
+\begin{lstlisting}[style=python]
+Prompt: "Review the customer file for Acme Corp.
+Based on our email history (attached) and activity
+log, enhance the following:
+# 提示："审核Acme Corp的客户文件。
+# 根据我们的邮件历史（附件）和活动日志，增强以下内容：
+
+1. Communication preferences (how do they like
+   to be contacted?)
+   # 沟通偏好（他们喜欢怎样被联系？）
+2. Relationship strength assessment
+   # 关系强度评估
+3. Potential opportunities we might be missing
+   # 我们可能遗漏的潜在机会
+4. Key dates and milestones to note
+   # 需要注意的关键日期和里程碑
+5. Health signals from engagement patterns"
+   # 从参与模式看的健康信号"
+
+AI enriches the file with derived intelligence
+that never existed in Salesforce.
+# AI用从未存在于Salesforce中的衍生智能丰富文件。
+\end{lstlisting}
+\end{codebox}
+
+\textbf{步骤4：训练你的智能体}
+
+让你的AI智能体指向新的知识库。他们需要理解：
+
+\begin{itemize}
+\item 客户文件在哪里
+\item 如何在互动后更新它们
+\item 何时创建新商机
+\item 如何生成报告
+\item 什么需要人工升级
+\end{itemize}
+
+\section{数字上的转变}
+
+\begin{table}[H]
+\centering
+\small
+\begin{tabular}{@{}llll@{}}
+\toprule
+\textbf{指标} & \textbf{Salesforce时代} & \textbf{AI原生CRM} & \textbf{变化} \\
+\midrule
+数据输入时间 & 3+小时/周 & 0（自动化） & -100\% \\
+上下文留存 & 40\% & 95\% & +138\% \\
+跟进一致性 & 60\% & 98\% & +63\% \\
+关系可见性 & 有限字段 & 完整上下文 & N/A \\
+查询能力 & 预定义报表 & 任何问题 & N/A \\
+成本 & \$150/用户/月 & \$50/月总计 & -90\%+ \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+但真正的转变是定性的。
+
+我曾经害怕登录Salesforce。现在我期待查看我的客户文件。信息是有用的。上下文是完整的。AI显示出我在传统报表中永远找不到的洞察。
+
+最重要的是：我再也没有因为想不起我们是怎么认识的而丢失一笔交易。
+
+\section{你的CRM应该实际做什么}
+
+这是测试。问你的CRM：
+
+``打电话给John之前我应该知道什么？''
+
+如果它给你显示一条联系人记录，有姓名、邮箱、电话和空的备注——那是存储，不是智能。
+
+如果它告诉你：``John偏好邮件而不是电话，是数据驱动的决策者，之前和你扩展过一次，目前对企业版感兴趣以符合SOC 2合规，预算已批准，希望SSO在3月1日前上线''——那才是CRM。
+
+第一个回答``John是谁？''第二个回答``我如何与John成功？''
+
+一个是数据库。另一个是智能。
+
+\begin{keyinsight}[CRM的启示]
+你的CRM应该回答问题，而不是存储数据。
+
+传统CRM为数据输入和报告优化——为经理监控销售人员设计的活动。AI原生CRM为关系智能优化——帮助你更好服务客户的上下文。
+
+\textbf{客户文件 + 关联知识 + AI智能体 = 智能，而非存储}
+
+每次互动都被捕获。每个关系都可见。每个洞察都被显示。每个跟进都被自动化。
+
+问题不是``你记录活动了吗？''问题是``你理解这段关系吗？''
+
+AI理解关系。数据库存储记录。选择智能。
+\end{keyinsight}
+
+\textbf{下一章：}你的90天行动计划——从阅读这本书到运营一个AI原生企业。
