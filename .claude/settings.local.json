@@ -39,7 +39,25 @@
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-jesus-for-kids-6plus.sh:*)",
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-jesus-for-teens.sh)",
       "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-bible-heroes-teens.sh)",
-      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-1cor.sh)"
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-1cor.sh)",
+      "Bash(find:*)",
+      "Bash(/Users/jimxiao/dev/2025/AI2025/pubhub/scripts/build-philemon.sh)",
+      "Bash(export PATH=\"/Library/TeX/texbin:/usr/local/bin:/opt/homebrew/bin:$PATH\")",
+      "Bash(export PATH=\"/Library/TeX/texbin:$PATH\")",
+      "Bash(./scripts/build-philemon.sh:*)",
+      "WebFetch(domain:www.studylight.org)",
+      "WebFetch(domain:www.gty.org)",
+      "WebFetch(domain:www.blueletterbible.org)",
+      "WebFetch(domain:www.swartzentrover.com)",
+      "WebFetch(domain:biblenotes.online)",
+      "WebFetch(domain:www.preceptaustin.org)",
+      "WebFetch(domain:bibleportal.com)",
+      "WebFetch(domain:www.truthaccordingtoscripture.com)",
+      "WebFetch(domain:www.bibliaplus.org)",
+      "Bash(for file in /Users/jimxiao/dev/2025/AI2025/pubhub/books/bible/1philimon/*.md)",
+      "Bash(do wc -l \"$file\")",
+      "Bash(python3:*)",
+      "Bash(awk:*)"
     ]
   }
 }
