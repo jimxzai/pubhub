@@ -3,14 +3,19 @@
 const fs = require('fs');
 const path = require('path');
 
-// 获取本周的所有每日笔记
-function getThisWeekNotes() {
-  const today = new Date();
+// 获取本周的开始日期（周一）
+function getWeekMonday(date = new Date()) {
+  const today = new Date(date);
   const dayOfWeek = today.getDay();
   const monday = new Date(today);
   monday.setDate(today.getDate() - dayOfWeek + (dayOfWeek === 0 ? -6 : 1));
+  return monday;
+}
 
-  const notesDir = path.join(__dirname, '../daily-notes/published');
+// 获取本周的所有每日笔记
+function getThisWeekNotes(baseDir = path.join(__dirname, '..'), dateOverride = null) {
+  const monday = getWeekMonday(dateOverride);
+  const notesDir = path.join(baseDir, 'daily-notes/published');
   const notes = [];
 
   if (!fs.existsSync(notesDir)) {
@@ -56,33 +61,44 @@ function countBookReading(notes) {
   return counts;
 }
 
+// 计算总字数
+function calculateWordCount(notes) {
+  return notes.reduce((sum, note) => {
+    // 简单估算：去除Markdown标记后的字符数
+    const text = note.content.replace(/[#*>\-`]/g, '');
+    return sum + text.length;
+  }, 0);
+}
+
+// 生成周范围字符串
+function getWeekRange(date = new Date()) {
+  const today = new Date(date);
+  const weekNum = Math.ceil((today.getDate()) / 7);
+  return `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-W${weekNum}`;
+}
+
 // 生成周总结
-function generateWeeklySummary() {
-  const notes = getThisWeekNotes();
+function generateWeeklySummary(baseDir = path.join(__dirname, '..'), dateOverride = null) {
+  const notes = getThisWeekNotes(baseDir, dateOverride);
+  const today = dateOverride ? new Date(dateOverride) : new Date();
 
   if (notes.length === 0) {
     console.log('❌ 本周没有已发布的笔记，无法生成周总结。');
-    process.exit(1);
+    return null;
   }
 
   const counts = countBookReading(notes);
-  const today = new Date();
-  const weekNum = Math.ceil((today.getDate()) / 7);
-  const weekRange = `${today.getFullYear()}-${String(today.getMonth() + 1).padStart(2, '0')}-W${weekNum}`;
+  const weekRange = getWeekRange(today);
 
   // 读取模板
-  const templatePath = path.join(__dirname, '../templates/weekly-summary.md');
+  const templatePath = path.join(baseDir, 'templates/weekly-summary.md');
   const template = fs.readFileSync(templatePath, 'utf-8');
 
   // 生成笔记列表
   const notesList = notes.map(note => `- [${note.date}](../daily-notes/published/${path.basename(note.path)})`).join('\n');
 
   // 计算总字数
-  const totalWords = notes.reduce((sum, note) => {
-    // 简单估算：去除Markdown标记后的字符数
-    const text = note.content.replace(/[#*>\-`]/g, '');
-    return sum + text.length;
-  }, 0);
+  const totalWords = calculateWordCount(notes);
 
   // 替换变量
   const content = template
@@ -96,7 +112,7 @@ function generateWeeklySummary() {
     .replace(/{{TIMESTAMP}}/g, new Date().toISOString());
 
   // 保存草稿
-  const outputDir = path.join(__dirname, '../weekly-summaries/drafts');
+  const outputDir = path.join(baseDir, 'weekly-summaries/drafts');
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
@@ -118,7 +134,24 @@ function generateWeeklySummary() {
   console.log(`   1. 打开草稿文件，完善核心主题和金句`);
   console.log(`   2. 可以使用 Claude Code 帮助润色和扩充`);
   console.log(`   3. 完成后移动到 weekly-summaries/published/`);
+
+  return { outputPath, notes, counts, totalWords, weekRange };
 }
 
-// 执行
-generateWeeklySummary();
+// 仅在直接执行时运行
+if (require.main === module) {
+  const result = generateWeeklySummary();
+  if (!result) {
+    process.exit(1);
+  }
+}
+
+// 导出供测试使用
+module.exports = {
+  getWeekMonday,
+  getThisWeekNotes,
+  countBookReading,
+  calculateWordCount,
+  getWeekRange,
+  generateWeeklySummary
+};
