@@ -1,0 +1,7 @@
+scripts/
+node_modules/
+.github/
+.claude/
+_meta/
+package.json
+package-lock.json
