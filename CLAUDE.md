@@ -104,6 +104,20 @@
 | 资治通鉴 | 胡三省音注本 | 伯克利英译本 | 历史规律与组织兴衰 |
 | 圣经 | 和合本修订版 | ESV/NIV | 信仰母题与AI伦理 |
 
+## 经文校对标准
+
+**圣经引文必须使用 [ai-eden.com/bible](https://ai-eden.com/bible) 逐字核对。**
+
+- URL 格式: `https://ai-eden.com/bible/{book}/{chapter}?t=CUV,ESV&cols=2`
+  - `t=` 选择译本（可选: NASB, CUV, ESV，逗号分隔）
+  - `cols=` 列数（1 或 2）
+  - 示例: `/bible/hebrews/8?t=CUV,ESV&cols=2`
+- 中文对照: CUV 和合本
+- 英文对照: ESV（EP 系列标准）和 NASB 均可用
+- **红字版**: ai-eden.com 使用红字标注耶稣的直接话语（Red Letter Edition）
+- `/proofread` 时必须 fetch 所有引用章节，用 `?t=CUV,ESV` 同时核对中英文引文
+- 引用耶稣直接话语时应注明（红字版经文），以区别于叙事经文
+
 ## AI时代映射 (2025-2035)
 
 **主要玩家**: OpenAI, Anthropic, xAI, Google DeepMind, Meta AI, 中国AI企业
