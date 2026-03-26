@@ -47,7 +47,7 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 ### Comparable Successful Titles
 - *"Company of One"* by Paul Jarvis — Business philosophy (this book provides the AI implementation)
 - *"The E-Myth Revisited"* — Systems thinking for small business (this updates for AI era)
-- *"Building a Second Brain"* by Tiago Forte — Knowledge management (Chapter 21 directly extends this)
+- *"Building a Second Brain"* by Tiago Forte — Knowledge management (Chapter 14 directly extends this)
 
 ---
 
@@ -56,7 +56,7 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 ### Part I: The Paradigm Shift (Chapters 1-3)
 **Chapter 1: The One-Person Company Revolution** (~20 pages)
 - The economics of AI agents vs. human teams
-- Case study: \$130K/year → \$4.5K/year
+- Case study: A solo consulting practice replaced 5 functional roles (executive assistant, bookkeeper, marketing coordinator, sales support, customer service) with AI agents—reducing operational cost from \$130K/year to \$4.5K/year in API and tooling costs over 12 months
 - The four principles of AI agent deployment
 
 **Chapter 2: AI as Operating System** (~18 pages)
@@ -100,7 +100,7 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 - Quality control
 - Vendor coordination
 
-### Part III: AI-Native Infrastructure (Chapters 10-11)
+### Part III: The AI-Native Business (Chapters 10-11)
 **Chapter 10: Building Your Knowledge Base** (~22 pages)
 - The PARA method for AI-native organization
 - Markdown as the universal format
@@ -117,17 +117,17 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 - API integration strategies
 - Error handling and fallbacks
 
-**Chapter 13: Prompt Engineering Handbook** (~25 pages)
-- Effective prompt structures
-- Context management
-- Testing and iteration
+**Chapter 13: Prompt Engineering & Monitoring** (~25 pages)
+- Effective prompt structures and context management
+- Quality metrics and cost tracking
+- Testing, iteration, and continuous improvement
 
-**Chapter 14: Monitoring & Debugging** (~22 pages)
-- Quality metrics
-- Cost tracking
-- Continuous improvement
+**Chapter 14: Your AI-Native Second Brain** (~25 pages)
+- Obsidian + MCP integration
+- Skills system for knowledge operations
+- The knowledge flywheel
 
-### Part V: Advanced Playbooks (Chapters 15-16)
+### Part V: Playbooks & Transformation (Chapters 15-17)
 **Chapter 15: Sales Automation Deep Dive** (~22 pages)
 - End-to-end sales funnel automation
 - Personalization at scale
@@ -136,32 +136,16 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 - Content production pipeline
 - Multi-channel orchestration
 
-### Part VI: Transformation (Chapter 17)
 **Chapter 17: The Complete Transformation Story** (~20 pages)
-- Before and after: A real business case study
+- Before and after: An illustrative business scenario
 - Lessons learned and mistakes made
+- Your 90-day action plan with week-by-week guide
 
-### Part VII: Implementation (Chapter 18)
-**Chapter 18: Your 90-Day Action Plan** (~25 pages)
-- Week-by-week implementation guide
-- Prioritization framework
-- Success metrics
-
-### Part VIII: The Next Frontier (Chapters 19-21)
-**Chapter 19: AI as Professional Expert** (~22 pages)
-- AI lawyers, doctors, accountants
-- Domain-specific agents
-- Compliance and limitations
-
-**Chapter 20: The Claude OS Revolution** (~22 pages)
-- MCP Apps and visual interfaces
-- Tool Search and context management
-- Claude Cowork for knowledge work
-
-**Chapter 21: Your AI-Native Second Brain** (~25 pages)
-- Obsidian + MCP integration
-- Skills system for knowledge operations
-- The knowledge flywheel
+### Part VI: The Next Frontier (Chapter 18)
+**Chapter 18: What's Next — AI Professionals & the Claude OS** (~25 pages)
+- AI lawyers, doctors, accountants: domain-specific agents
+- MCP Apps, visual interfaces, and Claude Cowork
+- The future of AI-native knowledge work
 
 ### Appendices
 - A: Tool & Resource Directory (~8 pages)
@@ -169,7 +153,9 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 - C: Troubleshooting FAQ (~8 pages)
 - D: References & Further Reading (~6 pages)
 
-**Total Estimated Pages: 500-550**
+**Total Estimated Pages: ~350**
+**Core content (Parts I-IV): ~275 pages — suitable for a focused O'Reilly title**
+**Extended playbooks (Parts V-VI): ~90 pages — also available as O'Reilly Learning companion content**
 
 ---
 
@@ -180,22 +166,22 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 **Professional Background**:
 - 15+ years in technology and business operations
 - Founder and operator of an AI-native consulting practice
-- Direct experience deploying AI agent systems in production
+- Direct experience deploying AI agent systems in production for multiple clients
 
 **Technical Credentials**:
 - Hands-on practitioner with Claude, GPT-4, and open-source models
 - Built and maintains the AI agent systems described in this book
-- Active contributor to AI tooling community
+- Active contributor to AI tooling community (MCP ecosystem, Claude Code)
 
 **Writing Experience**:
-- Technical documentation and tutorials
-- Business strategy content
-- This book manuscript is 90%+ complete (available for review)
+- Author of the complete manuscript (275+ pages, available for immediate review)
+- Bilingual author: full English and Chinese versions already written — positioning for international co-publication
+- Technical documentation and business strategy content
 
 **Platform & Reach**:
 - Active presence in AI/tech communities
-- Newsletter subscriber base
-- Speaking engagements on AI implementation
+- Newsletter and content platform at ai-eden.com
+- Speaking engagements on AI implementation for business audiences
 
 ---
 
@@ -214,8 +200,8 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 - Code samples as standalone, runnable files
 
 ### Current Status
-- **Manuscript**: 90%+ complete
-- **Both English and Chinese versions** already written
+- **Manuscript**: 275+ pages, complete
+- **Bilingual**: Both English and Chinese versions written — international co-publication ready
 - **PDF proofs**: Available for immediate review
 
 ---
@@ -236,14 +222,14 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 ## 7. Sample Material
 
 ### Available for Review
-1. **Complete PDF proofs** (English and Chinese)
+1. **Complete PDF proofs** — 275+ pages, both English and Chinese
 2. **Any chapter** for detailed review
 3. **Code samples** from the repository
 
 ### Recommended Sample Chapters
-- **Chapter 1**: Sets up the vision and economics
+- **Chapter 1**: Sets up the vision and economics (\$130K → \$4.5K case study)
 - **Chapter 5 (Sam)**: Demonstrates the agent playbook format
-- **Chapter 21**: Shows cutting-edge MCP/Cowork integration
+- **Chapter 14**: Shows cutting-edge MCP/Second Brain integration
 
 ---
 
@@ -252,18 +238,18 @@ Unlike theoretical AI books, this is a **practitioner's manual** based on actual
 1. **Brand Alignment**: O'Reilly's reputation for practical, authoritative technical content matches this book's approach
 2. **Audience Fit**: Your subscribers are exactly the practitioners who need this content
 3. **Timeliness**: This is a fast-moving space—O'Reilly's production speed matters
-4. **Platform Synergy**: Potential for companion online training, live courses, and O'Reilly Learning integration
+4. **Platform Synergy**: Parts V-VI are ideal for O'Reilly Learning companion courses, live training, and video content — extending the book's value beyond print
+5. **International Reach**: Chinese version ready for co-publication, tapping into the massive Chinese AI practitioner market
 
 ---
 
 ## Contact
 
 **Jim Xiao**
-- Email: [your email]
-- GitHub: [your GitHub]
-- LinkedIn: [your LinkedIn]
+- Email: info@xwire.ai
+- Web: ai-eden.com
 
 ---
 
-*Proposal prepared: February 2026*
-*Manuscript status: 90%+ complete, ready for review*
+*Proposal prepared: March 2026*
+*Manuscript status: Complete (275+ pages), ready for review*
