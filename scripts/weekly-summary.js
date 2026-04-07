@@ -111,8 +111,8 @@ function generateWeeklySummary(baseDir = path.join(__dirname, '..'), dateOverrid
     .replace(/{{WORD_COUNT}}/g, totalWords)
     .replace(/{{TIMESTAMP}}/g, new Date().toISOString());
 
-  // 保存草稿
-  const outputDir = path.join(baseDir, 'weekly-summaries/drafts');
+  // 保存到 weekly-summaries/
+  const outputDir = path.join(baseDir, 'weekly-summaries');
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
@@ -133,7 +133,7 @@ function generateWeeklySummary(baseDir = path.join(__dirname, '..'), dateOverrid
   console.log(`📝 接下来请:`);
   console.log(`   1. 打开草稿文件，完善核心主题和金句`);
   console.log(`   2. 可以使用 Claude Code 帮助润色和扩充`);
-  console.log(`   3. 完成后移动到 weekly-summaries/published/`);
+  console.log(`   3. 完成后 git commit`);
 
   return { outputPath, notes, counts, totalWords, weekRange };
 }

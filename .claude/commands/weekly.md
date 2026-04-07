@@ -85,8 +85,8 @@ allowed-tools: ["Read", "Glob", "Grep", "Write", "Edit", "Bash"]
 
 ### 5. 保存周总结
 
-- 将完整的周总结写入 `weekly-summaries/drafts/YYYY-WXX.md`
-- 提示作者审阅后移动到 `weekly-summaries/published/`
+- 将完整的周总结写入 `weekly-summaries/YYYY-WXX.md`
+- 提示作者审阅后 git commit
 
 ### 6. 输出摘要
 
@@ -97,13 +97,12 @@ allowed-tools: ["Read", "Glob", "Grep", "Write", "Edit", "Bash"]
    总字数: 约 XXXX 字
    核心主题: [关键词]
 
-📁 草稿位置: weekly-summaries/drafts/YYYY-WXX.md
+📁 位置: weekly-summaries/YYYY-WXX.md
 
 📝 接下来:
-   1. 审阅草稿内容
+   1. 审阅内容
    2. 可用 /proofread 润色
-   3. 移动到 weekly-summaries/published/
-   4. git commit
+   3. git commit
 ```
 
 ## 注意事项

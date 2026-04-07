@@ -10,7 +10,7 @@ function getThisMonthWeeklies(baseDir = path.join(__dirname, '..'), dateOverride
   const month = today.getMonth() + 1;
   const monthStr = String(month).padStart(2, '0');
 
-  const weekliesDir = path.join(baseDir, 'weekly-summaries/published');
+  const weekliesDir = path.join(baseDir, 'weekly-summaries');
   const weeklies = [];
 
   if (!fs.existsSync(weekliesDir)) {
@@ -74,7 +74,7 @@ function generateMonthlyReport(baseDir = path.join(__dirname, '..'), dateOverrid
   const template = fs.readFileSync(templatePath, 'utf-8');
 
   // 生成周总结列表
-  const weekliesList = weeklies.map(w => `- [${w.name}](../weekly-summaries/published/${w.name})`).join('\n');
+  const weekliesList = weeklies.map(w => `- [${w.name}](../weekly-summaries/${w.name})`).join('\n');
 
   // 计算总字数
   const totalWords = calculateTotalWords(weeklies);
@@ -96,8 +96,8 @@ function generateMonthlyReport(baseDir = path.join(__dirname, '..'), dateOverrid
     .replace(/{{TOTAL_DAYS}}/g, totalDays)
     .replace(/{{PROGRESS}}/g, progress);
 
-  // 保存草稿
-  const outputDir = path.join(baseDir, 'monthly-reports/drafts');
+  // 保存到 monthly-reports/
+  const outputDir = path.join(baseDir, 'monthly-reports');
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
@@ -116,7 +116,7 @@ function generateMonthlyReport(baseDir = path.join(__dirname, '..'), dateOverrid
   console.log(`📝 接下来请:`);
   console.log(`   1. 打开草稿文件，填写各个部分`);
   console.log(`   2. 使用 Claude Code 帮助整理和深度分析`);
-  console.log(`   3. 完成后移动到 monthly-reports/published/`);
+  console.log(`   3. 完成后 git commit`);
 
   return { outputPath, weeklies, totalWords, totalDays, progress };
 }

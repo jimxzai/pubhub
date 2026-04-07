@@ -17,7 +17,7 @@ allowed-tools: ["Read", "Glob", "Grep", "Write", "Edit", "Bash"]
 
 读取以下内容：
 - `daily-notes/published/` 中该月所有每日笔记
-- `weekly-summaries/published/` 中该月所有周总结
+- `weekly-summaries/` 中该月所有周总结
 - 上一期月报（了解上下文延续）
 
 ### 3. 全面分析

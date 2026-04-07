@@ -80,7 +80,7 @@ allowed-tools: ["Read", "Glob", "Grep", "Write", "Edit", "Bash"]
 基于本月的周总结，生成5000字的月度专章：
 
 ### 必做任务
-1. **阅读所有本月周总结** (weekly-summaries/published/)
+1. **阅读所有本月周总结** (weekly-summaries/)
 2. **整合四维透视** (人性、出路、神的计划、争战)
 3. **深化信望爱主题**
 4. **三书合论** (最重要！)
