@@ -150,11 +150,10 @@ npm run weekly-summary
 # 方式2: 使用Claude Code Agent
 # /publish --type weekly
 
-# 审阅并完善草稿
-code weekly-summaries/drafts/*.md
+# 审阅并完善
+code weekly-summaries/*.md
 
 # 发布
-mv weekly-summaries/drafts/*.md weekly-summaries/published/
 git add . && git commit -m "📊 Weekly summary" && git push
 ```
 
@@ -168,10 +167,9 @@ npm run monthly-report
 # /publish --type monthly
 
 # 深度完善月度专章（使用Claude Code各个Agent辅助）
-code monthly-reports/drafts/*.md
+code monthly-reports/*.md
 
 # 发布
-mv monthly-reports/drafts/*.md monthly-reports/published/
 git add . && git commit -m "📖 Monthly report" && git push
 ```
 
@@ -201,7 +199,7 @@ grep -r "#孙子兵法" daily-notes/published/
 ls daily-notes/published/ | wc -l
 
 # 查看总字数
-wc -w daily-notes/published/*.md weekly-summaries/published/*.md
+wc -w daily-notes/published/*.md weekly-summaries/*.md
 ```
 
 ### 4. 备份

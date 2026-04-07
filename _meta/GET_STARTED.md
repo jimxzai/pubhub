@@ -157,10 +157,9 @@ git push
 npm run weekly-summary
 
 # 打开并完善
-code weekly-summaries/drafts/*.md
+code weekly-summaries/*.md
 
-# 完善后发布
-mv weekly-summaries/drafts/*.md weekly-summaries/published/
+# 发布
 git add . && git commit -m "📊 Weekly summary" && git push
 ```
 
@@ -173,10 +172,9 @@ git add . && git commit -m "📊 Weekly summary" && git push
 npm run monthly-report
 
 # 深度完善（使用 Claude Code 各个 Agent）
-code monthly-reports/drafts/*.md
+code monthly-reports/*.md
 
-# 完善后发布
-mv monthly-reports/drafts/*.md monthly-reports/published/
+# 发布
 git add . && git commit -m "📖 Monthly report" && git push
 ```
 
@@ -220,7 +218,7 @@ open -a Obsidian .
 ls daily-notes/published/ | wc -l
 
 # 查看总字数
-wc -w daily-notes/published/*.md weekly-summaries/published/*.md monthly-reports/published/*.md
+wc -w daily-notes/published/*.md weekly-summaries/*.md monthly-reports/*.md
 
 # 计算进度百分比
 echo "当前进度: $(ls daily-notes/published/ | wc -l) / 2557 天"

@@ -180,19 +180,38 @@ npm run monthly
 pubhub/
 ├── daily-notes/           # 每日笔记
 │   ├── drafts/           # 草稿
-│   └── published/        # 已发布
-├── weekly-summaries/      # 周总结
-├── monthly-reports/       # 月报
+│   ├── published/        # 已发布
+│   ├── ai-outputs/       # AI 协作者输出
+│   └── todos/            # 待办事项
+├── weekly-summaries/      # 周总结 (扁平结构)
+├── monthly-reports/       # 月报 (扁平结构)
 ├── books/                 # 书稿
 │   ├── sunzi/            # 孙子兵法
 │   ├── zizhi-tongjian/   # 资治通鉴
-│   └── bible/            # 圣经
+│   ├── bible/            # 圣经
+│   │   ├── cor2/         # 哥林多后书 (24课)
+│   │   ├── matthew/      # 马太福音
+│   │   ├── revelation/   # 启示录
+│   │   └── john-thursday-wong/ # 约翰福音 (黄牧师)
+│   ├── bible-tongjian-parallel/ # 圣经×通鉴对读
+│   └── ai-agents/        # O'Reilly AI 书稿
 ├── docs/                  # 学习笔记
 │   ├── study-notes/      # 约翰福音 (22章)
-│   ├── study-notes-1john/ # 约翰一书 (5章)
-│   └── sermons/          # 讲道大纲 (10篇)
+│   ├── study-notes-john-epistles/ # 约翰书信 (1/2/3约翰)
+│   ├── study-notes-hebrews/      # 希伯来书
+│   ├── study-notes-revelation/   # 启示录
+│   ├── study-notes-sunzi/        # 孙子兵法
+│   ├── sermons/          # 讲道大纲 (10篇)
+│   └── archive/          # 归档
+├── _meta/                 # 项目文档
+│   ├── SEVEN_YEAR_ROADMAP.md
+│   ├── THEOLOGICAL_FRAMEWORK.md
+│   ├── WORKFLOW_GUIDE.md
+│   └── archive/          # 旧版设置文档
 ├── templates/             # 模板
 ├── scripts/               # 自动化脚本
+│   ├── __tests__/        # 测试
+│   └── archive/          # 归档脚本
 └── .claude/               # Claude配置
     ├── settings.json     # 核心配置
     ├── coworkers.json    # 协作者定义
@@ -205,5 +224,5 @@ pubhub/
 
 ---
 
-**版本**: v2.0.0
-**最后更新**: 2026-01-18
+**版本**: v3.0.0
+**最后更新**: 2026-04-05

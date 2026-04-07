@@ -207,10 +207,10 @@ Claude: （会读取本月所有周总结，生成5000字专章草稿）
 ls daily-notes/published/ | wc -l
 
 # 已写周总结数
-ls weekly-summaries/published/ | wc -l
+ls weekly-summaries/*.md | wc -l
 
 # 总字数（粗略）
-wc -w daily-notes/published/*.md weekly-summaries/published/*.md
+wc -w daily-notes/published/*.md weekly-summaries/*.md
 ```
 
 ### Git历史

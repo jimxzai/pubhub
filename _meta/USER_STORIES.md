@@ -117,7 +117,7 @@ User stories for the Three Books Deep Reading & Publishing System are organized 
 - [ ] Automatically triggered every Saturday 08:00
 - [ ] Summary reads 5-7 daily notes from past week
 - [ ] Output is 1,000-2,000 words
-- [ ] Summary created in `weekly-summaries/drafts/`
+- [ ] Summary created in `weekly-summaries/`
 - [ ] Includes thematic clustering of daily insights
 - [ ] Identifies cross-text patterns if applicable
 

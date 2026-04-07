@@ -2,6 +2,7 @@ scripts/
 node_modules/
 .github/
 .claude/
-_meta/
+_meta/archive/
+docs/archive/
 package.json
 package-lock.json

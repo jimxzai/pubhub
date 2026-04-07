@@ -185,31 +185,13 @@ function getJohnFiles() {
       .forEach(f => files.push(path.join(johnDir, f)));
   }
 
-  // 約翰一書
-  const john1Dir = path.join(baseDir, 'docs/study-notes-1john');
-  if (fs.existsSync(john1Dir)) {
-    fs.readdirSync(john1Dir)
+  // 約翰書信 (1/2/3 約翰)
+  const johnEpistlesDir = path.join(baseDir, 'docs/study-notes-john-epistles');
+  if (fs.existsSync(johnEpistlesDir)) {
+    fs.readdirSync(johnEpistlesDir)
       .filter(f => f.endsWith('.md'))
       .sort()
-      .forEach(f => files.push(path.join(john1Dir, f)));
-  }
-
-  // 約翰二書
-  const john2Dir = path.join(baseDir, 'docs/study-notes-2john');
-  if (fs.existsSync(john2Dir)) {
-    fs.readdirSync(john2Dir)
-      .filter(f => f.endsWith('.md'))
-      .sort()
-      .forEach(f => files.push(path.join(john2Dir, f)));
-  }
-
-  // 約翰三書
-  const john3Dir = path.join(baseDir, 'docs/study-notes-3john');
-  if (fs.existsSync(john3Dir)) {
-    fs.readdirSync(john3Dir)
-      .filter(f => f.endsWith('.md'))
-      .sort()
-      .forEach(f => files.push(path.join(john3Dir, f)));
+      .forEach(f => files.push(path.join(johnEpistlesDir, f)));
   }
 
   // 啟示錄
