@@ -213,9 +213,9 @@ pubhub/
 │   ├── __tests__/        # 测试
 │   └── archive/          # 归档脚本
 └── .claude/               # Claude配置
-    ├── settings.json     # 核心配置
-    ├── coworkers.json    # 协作者定义
-    └── commands/         # Skills定义
+    ├── settings.json     # 团队共享配置
+    ├── settings.local.json # 本地权限配置
+    └── commands/         # Slash commands / Skills
 ```
 
 ## 配置文件
@@ -224,5 +224,5 @@ pubhub/
 
 ---
 
-**版本**: v3.0.0
-**最后更新**: 2026-04-05
+**版本**: v3.1.0
+**最后更新**: 2026-04-30
