@@ -13,7 +13,7 @@
 - 将古典智慧映射到2025-2035年的AI博弈战例
 - 建立"经典原文 → 历代注疏 → AI时代应用"的完整知识图谱
 
-**当前进度**: 第 N 天 / 2557 天
+**当前进度**: Phase 4 — Luke, Acts, Johannine Epistles（约翰福音 21章已完成）
 
 ---
 
@@ -62,7 +62,12 @@
 - 2024-07: Google DeepMind AlphaProof在国际数学奥林匹克达银牌水平
 - 2024-09: OpenAI发布o1推理模型
 - 2024-10: NVIDIA因美国出口管制限制对华高端GPU销售
-- 2025预期: GPT-5、Gemini 2.0、Claude 4竞争白热化
+- 2024-12: Google发布Gemini 2.0 Flash，推出AI Agent生态
+- 2025-01: DeepSeek R1开源，性能比肩GPT-4o，震动全球AI市场
+- 2025-02: Anthropic Claude 3.7 Sonnet发布，推理能力大幅提升
+- 2025-03: OpenAI发布GPT-4.5和o3模型
+- 2025-04: Meta发布Llama 4，多模态开源模型新里程碑
+- 2025-05: Claude 4（Opus 4.7 / Sonnet 4.6）发布，Anthropic持续领跑安全AI
 
 ---
 

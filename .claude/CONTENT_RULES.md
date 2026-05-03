@@ -81,13 +81,19 @@
 - ❌ 避免"AI时代也是这样"的空泛总结
 
 **可用的真实AI案例库**:
-- OpenAI o1推理模型发布（2024年9月）
+- Sam Altman被OpenAI解雇又复职（2023年11月）
+- Musk创立xAI，发布Grok模型（2023年）
 - Anthropic Claude 3.5 Sonnet发布（2024年6月）
-- Sam Altman被解雇又复职事件（2023年11月）
-- Google DeepMind AlphaProof数学突破（2024年7月）
-- 中美AI芯片战（NVIDIA出口限制）
-- Musk创立xAI和Grok模型（2023年）
+- Google DeepMind AlphaProof数学突破，达IMO银牌（2024年7月）
 - Meta开源Llama 3.1（2024年7月）
+- OpenAI发布o1推理模型（2024年9月）
+- NVIDIA因美国出口管制限制对华H100销售（2024年10月）
+- Google Gemini 2.0 Flash发布，AI Agent生态启动（2024年12月）
+- DeepSeek R1开源震动全球，性能比肩GPT-4o（2025年1月）
+- Anthropic Claude 3.7 Sonnet，推理能力大幅提升（2025年2月）
+- OpenAI GPT-4.5 和 o3 模型发布（2025年3月）
+- Meta Llama 4多模态开源（2025年4月）
+- Anthropic Claude 4系列（Opus 4.7 / Sonnet 4.6）发布（2025年5月）
 
 #### 4. 对7年大业的启发
 **质量标准**:

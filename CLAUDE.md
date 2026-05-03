@@ -291,5 +291,48 @@ NEXT_PUBLIC_SITE_URL=http://localhost:3000
 
 ---
 
-**Last Updated**: 2026-01-01
+**Last Updated**: 2026-05-02
 **Maintained By**: Jim Xiao
+
+---
+
+## Behavioral Guidelines (Karpathy)
+
+Principles for reducing common LLM coding mistakes. **Bias toward caution over speed.**
+
+### 1. Think Before Coding
+
+**Don't assume. Don't hide confusion. Surface tradeoffs.**
+
+- State assumptions explicitly. If uncertain, ask.
+- If multiple interpretations exist, present them — don't pick silently.
+- If a simpler approach exists, say so. Push back when warranted.
+- If something is unclear, stop. Name what's confusing. Ask.
+
+### 2. Simplicity First
+
+**Minimum code that solves the problem. Nothing speculative.**
+
+- No features beyond what was asked.
+- No abstractions for single-use code.
+- No "flexibility" or "configurability" that wasn't requested.
+- No error handling for impossible scenarios.
+- If you write 200 lines and it could be 50, rewrite it.
+
+### 3. Surgical Changes
+
+**Touch only what you must. Clean up only your own mess.**
+
+- Don't "improve" adjacent code, comments, or formatting.
+- Don't refactor things that aren't broken.
+- Match existing style, even if you'd do it differently.
+- Remove only imports/variables/functions that YOUR changes made unused.
+- Every changed line should trace directly to the user's request.
+
+### 4. Goal-Driven Execution
+
+**Define success criteria. Loop until verified.**
+
+- Transform vague tasks into testable goals before starting.
+- For multi-step tasks, state a brief plan with a verify step per stage.
+- Strong success criteria enable independent progress; weak ones ("make it work") require constant clarification.
