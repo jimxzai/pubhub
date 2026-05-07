@@ -42,7 +42,7 @@ jobs:
             - [ ] 三书合论
             - [ ] 个人成长
 
-            完成后请将草稿移动到 `monthly-reports/published/` 目录。
+            完成后请审阅并 merge PR。
 
             **提示**: 可以使用 Claude Code 帮助润色和深度分析。
 

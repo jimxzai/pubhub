@@ -1,0 +1,684 @@
+\input{preamble}
+
+\begin{document}
+
+%% 书名页（简）
+\thispagestyle{empty}
+\vspace*{2.5in}
+\begin{center}
+{\Huge\bfseries AI赋能的一人公司}
+\end{center}
+\newpage
+
+%% 书名页（全）
+\thispagestyle{empty}
+\vspace*{1in}
+\begin{center}
+{\Huge\bfseries\color{oreilly-dark} AI赋能的一人公司}
+
+\vspace{0.5in}
+
+{\Large\color{oreilly-gray} 从个体创业者到规模化}
+
+\vspace{0.3in}
+
+{\large\color{oreilly-gray} 构建你的AI智能体团队\\销售、营销、客户关系管理与运营}
+
+\vspace{1.2in}
+
+\includegraphics[width=3in]{../images/cover-animal.png}
+
+\vspace{1.2in}
+
+{\Large 吉姆·萧}
+
+\vfill
+
+{\large\color{oreilly-red}\textbf{O'REILLY}}
+\end{center}
+\newpage
+
+%% 版权页
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{small}
+\noindent\textbf{AI赋能的一人公司}\\
+\textit{从个体创业者到规模化：构建你的AI智能体团队}\\
+作者：吉姆·萧
+
+\vspace{1.5em}
+\noindent 版权所有 \textcopyright\ 2026 吉姆·萧。保留所有权利。
+
+\vspace{1em}
+\noindent 由O'Reilly Media, Inc.出版，地址：1005 Gravenstein Highway North, Sebastopol, CA 95472.
+
+\vspace{1em}
+\noindent O'Reilly书籍可用于教育、商业或促销目的。大多数书籍也有在线版本（\textit{https://oreilly.com}）。如需更多信息，请联系：\textit{corporate@oreilly.com}
+
+\vspace{1em}
+\noindent\textbf{策划编辑：}待定\\
+\textbf{开发编辑：}待定\\
+\textbf{制作编辑：}待定\\
+\textbf{文字编辑：}待定\\
+\textbf{校对：}待定\\
+\textbf{排版设计：}待定\\
+\textbf{封面设计：}待定\\
+\textbf{插图：}待定
+
+\vspace{1em}
+\noindent 2026年1月：第一版
+
+\vspace{1em}
+\noindent\textbf{第一版修订历史}\\
+2026-01-15：首次发布
+
+\vspace{1em}
+\noindent O'Reilly标志是O'Reilly Media, Inc.的注册商标。《AI赋能的一人公司》、封面图片及相关装帧是O'Reilly Media, Inc.的商标。
+
+\vspace{1em}
+\noindent 本书中表达的观点是作者的观点，不代表出版商的观点。虽然出版商和作者已尽力确保本书中包含的信息和说明准确无误，但出版商和作者对任何错误或遗漏不承担责任，包括但不限于因使用或依赖本书而造成的损害。使用本书中包含的信息和说明需自担风险。
+
+\vspace{1em}
+\noindent ISBN: 978-1-234-56789-0
+\end{small}
+\newpage
+
+%% 献辞
+\thispagestyle{empty}
+\vspace*{2.5in}
+\begin{center}
+\textit{\large 献给每一位敢于独自创业的企业家，\\[0.5em]
+以及如今与他们并肩作战的AI伙伴。}
+
+\vspace{2em}
+
+\textit{也献给我的家人，\\[0.3em]
+他们在任何人看清这个愿景之前就已相信。}
+\end{center}
+\newpage
+
+%% ============================================================
+%% 序言
+%% ============================================================
+\chapter*{序言}
+\addcontentsline{toc}{chapter}{序言}
+
+\begin{center}
+\begin{tikzpicture}[scale=0.8]
+    % AI Agent illustration
+    \draw[thick, oreilly-red, fill=oreilly-red!10] (0,0) circle (1.5cm);
+    \node at (0,0) {\Large\textbf{AI}};
+
+    % Surrounding agents
+    \foreach \angle/\name in {60/Emma, 120/Sam, 180/Maya, 240/Casey, 300/Finn, 0/Oscar} {
+        \draw[thick, oreilly-gray] (\angle:2.5cm) circle (0.8cm);
+        \node[font=\small] at (\angle:2.5cm) {\name};
+        \draw[->, thick, oreilly-red!60] (\angle:1.6cm) -- (\angle:1.7cm);
+    }
+
+    % Central connection
+    \node[below] at (0,-3.5) {\textit{你的AI智能体团队}};
+\end{tikzpicture}
+\end{center}
+
+\vspace{1em}
+
+当我第一次开始写这本书时，我问自己一个简单的问题：如果我能把过去三年学到的关于AI和商业的一切都告诉三年前的自己，我会说什么？
+
+答案就是你手中的这本书。
+
+\vspace{0.5em}
+
+2023年，我和大多数企业家一样：被日常运营压得喘不过气，每周工作60-70小时，却感觉永远在追赶。我知道AI正在改变世界，但不知道它如何改变\textit{我的}世界。
+
+\vspace{0.5em}
+
+三年后的今天，我的业务由六个AI智能体运营。我每周工作30小时。我的收入翻了一番。更重要的是，我重新找回了创业的初心——做有意义的工作，而不是被工作淹没。
+
+\vspace{0.5em}
+
+这本书不是关于AI的未来。它是关于AI的\textbf{现在}——你今天就可以实施的具体系统、经过验证的方法和实用工具。
+
+\vspace{0.5em}
+
+欢迎来到一人公司的新时代。
+
+\vspace{2em}
+\begin{flushright}
+\textit{吉姆·萧}\\
+\textit{2026年1月}
+\end{flushright}
+
+\newpage
+
+%% ============================================================
+%% 引言：如何使用本书
+%% ============================================================
+\chapter*{引言：如何使用本书}
+\addcontentsline{toc}{chapter}{引言：如何使用本书}
+
+\section*{本书结构}
+
+本书分为八个部分，设计为既可以从头到尾阅读，也可以作为参考手册使用：
+
+\begin{center}
+\begin{tikzpicture}[
+    node distance=0.7cm,
+    box/.style={rectangle, draw=oreilly-red, fill=oreilly-red!10, text width=5.5cm, minimum height=0.9cm, align=center, rounded corners=3pt, font=\small},
+    arrow/.style={->, thick, oreilly-gray}
+]
+    \node[box] (p1) {第一部分：范式转变\\（第1-3章）};
+    \node[box, below=of p1] (p2) {第二部分：AI智能体团队\\（第4-9章）};
+    \node[box, below=of p2] (p3) {第三部分：AI原生企业\\（第10-11章）};
+    \node[box, below=of p3] (p4) {第四部分：技术基础设施\\（第12-14章）};
+    \node[box, below=of p4] (p5) {第五-七部分：实战与转型\\（第15-18章）};
+    \node[box, below=of p5] (p6) {第八部分：下一个前沿\\（第19-21章）};
+
+    \draw[arrow] (p1) -- (p2);
+    \draw[arrow] (p2) -- (p3);
+    \draw[arrow] (p3) -- (p4);
+    \draw[arrow] (p4) -- (p5);
+    \draw[arrow] (p5) -- (p6);
+\end{tikzpicture}
+\end{center}
+
+\section*{阅读建议}
+
+\begin{itemize}
+\item \textbf{新手：}从头开始，按顺序阅读。每章都建立在前一章的基础上。
+\item \textbf{急于实施者：}先读第1章了解全貌，然后跳到第18章的90天计划，再回来填补细节。
+\item \textbf{技术导向读者：}可以直接跳到第四部分（技术基础设施），但建议先浏览第2章了解设计哲学。
+\item \textbf{特定需求：}每个智能体章节（第4-9章）都是独立的，可以单独阅读和实施。
+\end{itemize}
+
+\section*{本书约定}
+
+\begin{note}[备注框]
+像这样的框包含补充信息、背景知识或额外的解释。
+\end{note}
+
+\begin{tip}[提示框]
+提示框包含实用建议和最佳实践。
+\end{tip}
+
+\begin{warning}[警告框]
+警告框标识常见陷阱和需要避免的错误。
+\end{warning}
+
+\begin{keyinsight}[核心洞见]
+核心洞见框总结每章或每节的关键要点。
+\end{keyinsight}
+
+\newpage
+
+%% 目录
+\tableofcontents
+\newpage
+
+%% ============================================================
+%% 第一部分：范式转变
+%% ============================================================
+\part{范式转变}
+
+\input{chapters/ch01}
+\input{chapters/ch02}
+\input{chapters/ch03}
+
+%% ============================================================
+%% 第二部分：你的AI智能体团队
+%% ============================================================
+\part{你的AI智能体团队}
+
+\input{chapters/ch04}
+\input{chapters/ch05}
+\input{chapters/ch06}
+\input{chapters/ch07}
+\input{chapters/ch08}
+\input{chapters/ch09}
+
+%% ============================================================
+%% 第三部分：AI原生企业
+%% ============================================================
+\part{AI原生企业}
+
+\input{chapters/ch10}
+\input{chapters/ch11}
+
+%% ============================================================
+%% 第四部分：技术基础设施
+%% ============================================================
+\part{技术基础设施}
+
+\input{chapters/ch12}
+\input{chapters/ch13}
+\input{chapters/ch14}
+
+%% ============================================================
+%% 第五部分：进阶实战手册
+%% ============================================================
+\part{进阶实战手册}
+
+\input{chapters/ch15}
+\input{chapters/ch16}
+
+%% ============================================================
+%% 第六部分：案例研究
+%% ============================================================
+\part{案例研究}
+
+\input{chapters/ch17}
+
+%% ============================================================
+%% 第七部分：你的转型之路
+%% ============================================================
+\part{你的转型之路}
+
+\input{chapters/ch18}
+
+%% ============================================================
+%% 第八部分：新前沿
+%% ============================================================
+\part{新前沿}
+
+\input{chapters/ch19}
+\input{chapters/ch20}
+\input{chapters/ch21}
+
+%% ============================================================
+%% 附录
+%% ============================================================
+\appendix
+
+\chapter{工具与资源清单}
+
+\section{AI平台}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{工具} & \textbf{用途} & \textbf{月费} & \textbf{推荐指数} \\
+\hline
+Claude Pro & 主要AI智能体 & \$20 & 5/5 \\
+ChatGPT Plus & 备选AI & \$20 & 4/5 \\
+Gemini Advanced & 文档处理 & \$20 & 4/5 \\
+\hline
+\end{tabular}
+\caption{AI平台对比}
+\end{table}
+
+\section{自动化工具}
+
+\begin{table}[h]
+\centering
+\begin{tabular}{|l|l|l|l|}
+\hline
+\textbf{工具} & \textbf{用途} & \textbf{月费} & \textbf{适合场景} \\
+\hline
+n8n & 工作流自动化 & \$20+ & 技术用户 \\
+Make & 可视化自动化 & \$9+ & 非技术用户 \\
+Zapier & 简单集成 & \$20+ & 快速入门 \\
+\hline
+\end{tabular}
+\caption{自动化工具对比}
+\end{table}
+
+\section{知识管理}
+
+\begin{itemize}
+\item \textbf{Obsidian}（免费）：本书推荐的知识库工具
+\item \textbf{Notion}：适合团队协作
+\item \textbf{Logseq}：开源替代品
+\end{itemize}
+
+\chapter{提示词模板库}
+
+\section{Emma（行政助理）核心提示词}
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# Emma System Prompt
+
+You are Emma, an executive assistant AI agent.
+Your responsibilities:
+- Email triage and drafting
+- Calendar management
+- Meeting preparation
+- Routine communications
+
+## Decision Framework
+Priority 1: Client communications
+Priority 2: Revenue-related items
+Priority 3: Internal operations
+Priority 4: Everything else
+
+## Escalation Rules
+Always escalate:
+- Legal matters
+- Financial disputes > $1000
+- Unhappy VIP clients
+- Anything you're uncertain about
+\end{lstlisting}
+\end{codebox}
+
+\section{Sam（销售）核心提示词}
+
+\begin{codebox}
+\begin{lstlisting}[style=bash]
+# Sam System Prompt
+
+You are Sam, a sales development AI agent.
+Your responsibilities:
+- Lead qualification (BANT framework)
+- Initial outreach drafting
+- Pipeline management
+- Meeting scheduling
+
+## Qualification Criteria
+Hot (80-100): All BANT criteria met
+Warm (50-79): 3/4 criteria met
+Cold (<50): Fewer than 3 criteria
+\end{lstlisting}
+\end{codebox}
+
+\chapter{常见问题解答}
+
+\section{入门问题}
+
+\textcolor{oreilly-dark}{\bfseries 问：我需要编程技能吗？}
+
+\textcolor{black}{答：不需要。本书中的所有系统都可以通过无代码工具实现。如果你会写清晰的指令，你就能构建AI智能体。}
+
+\vspace{1em}
+
+\textcolor{oreilly-dark}{\bfseries 问：初始投资需要多少？}
+
+\textcolor{black}{答：最小可行配置约\$60/月（Claude Pro + 基础自动化工具）。完整配置约\$300--500/月。}
+
+\vspace{1em}
+
+\textcolor{oreilly-dark}{\bfseries 问：多久能看到效果？}
+
+\textcolor{black}{答：第一个月你应该能节省5--10小时/周。90天后，预期节省15--25小时/周。}
+
+\section{技术问题}
+
+\textcolor{oreilly-dark}{\bfseries 问：AI会取代我的工作吗？}
+
+\textcolor{black}{答：AI取代的是任务，不是角色。你的工作将从执行者转变为指挥者和战略家。}
+
+\vspace{1em}
+
+\textcolor{oreilly-dark}{\bfseries 问：如果AI犯错怎么办？}
+
+\textcolor{black}{答：这就是为什么我们强调渐进式信任。前30天，你审核所有输出。之后，只有异常情况需要你的注意。}
+
+\section{安全与隐私}
+
+\textcolor{oreilly-dark}{\bfseries 问：我的数据安全吗？}
+
+\textcolor{black}{答：使用企业级AI服务（如Claude、ChatGPT）时，你的数据受到加密保护。避免将极其敏感的信息（如密码、财务凭证）直接发送给AI。}
+
+\chapter{参考文献与延伸阅读}
+
+\section{基础书籍}
+
+\subsection{商业与创业}
+
+\begin{itemize}
+\item Jarvis, Paul.《Company of One: Why Staying Small Is the Next Big Thing for Business》. Houghton Mifflin Harcourt, 2019. --- 构建可持续独立企业的哲学基础。
+
+\item Gerber, Michael E.《The E-Myth Revisited》（《创业必经的那些事》）. HarperCollins, 1995. --- 系统化商业运营的必读书籍。
+
+\item Ferriss, Timothy.《The 4-Hour Workweek》（《每周工作4小时》）. Crown, 2007. --- 自动化与生活方式设计的开创性著作。
+
+\item Newport, Cal.《Deep Work》（《深度工作》）. Grand Central Publishing, 2016. --- 理解如何利用AI进行深度、有意义工作的关键。
+\end{itemize}
+
+\subsection{知识管理}
+
+\begin{itemize}
+\item Forte, Tiago.《Building a Second Brain》（《打造第二大脑》）. Atria Books, 2022. --- 个人知识管理的权威指南。
+
+\item Ahrens, S\"{o}nke.《How to Take Smart Notes》（《卡片笔记写作法》）. 2017. --- 关联式笔记的卡片盒方法。
+
+\item 万维钢.《万万没想到：用理工科思维理解世界》. 电子工业出版社, 2014. --- 科学思维与知识管理。
+\end{itemize}
+
+\subsection{人工智能与技术}
+
+\begin{itemize}
+\item Russell, Stuart \& Peter Norvig.《Artificial Intelligence: A Modern Approach》（《人工智能：现代方法》）. 第4版, Pearson, 2020. --- AI基础的综合教材。
+
+\item 李开复.《AI未来》. 中信出版社, 2018. --- AI对社会和商业影响的全面分析。
+
+\item 吴军.《智能时代》. 中信出版社, 2016. --- 大数据与智能革命的深度解读。
+\end{itemize}
+
+\section{重要研究论文}
+
+\subsection{大语言模型}
+
+\begin{itemize}
+\item Brown, Tom B., et al. ``Language Models are Few-Shot Learners.'' \textit{NeurIPS} 2020. --- 展示涌现能力的GPT-3论文。
+
+\item Ouyang, Long, et al. ``Training language models to follow instructions with human feedback.'' \textit{NeurIPS} 2022. --- 关于RLHF的InstructGPT论文。
+
+\item Anthropic. ``Constitutional AI: Harmlessness from AI Feedback.'' arXiv:2212.08073 (2022). --- AI对齐技术的基础论文。
+
+\item Wei, Jason, et al. ``Chain-of-Thought Prompting Elicits Reasoning in Large Language Models.'' \textit{NeurIPS} 2022. --- 提示策略的关键论文。
+\end{itemize}
+
+\subsection{AI智能体与自主性}
+
+\begin{itemize}
+\item Yao, Shunyu, et al. ``ReAct: Synergizing Reasoning and Acting in Language Models.'' \textit{ICLR} 2023. --- AI智能体推理-行动循环的重要论文。
+
+\item Park, Joon Sung, et al. ``Generative Agents: Interactive Simulacra of Human Behavior.'' \textit{UIST} 2023. --- 自主AI智能体行为研究。
+
+\item Significant-Gravitas. ``Auto-GPT: An Autonomous GPT-4 Experiment.'' GitHub, 2023. --- 开源自主智能体框架。
+\end{itemize}
+
+\section{行业报告}
+
+\begin{itemize}
+\item 麦肯锡全球研究院.《生成式AI的经济潜力：下一个生产力前沿》. 2023年6月. --- AI经济影响的综合分析。
+
+\item 高盛.《生成式AI可能使全球GDP增长7\%》. 2023年3月. --- AI采用的经济预测。
+
+\item Gartner.《人工智能技术成熟度曲线》. 年度报告. --- 技术成熟度评估。
+
+\item 斯坦福HAI.《AI指数报告》. 年度出版物. --- AI进展和采用的综合追踪。
+
+\item 中国信息通信研究院.《人工智能发展白皮书》. 年度报告. --- 中国AI产业发展分析。
+\end{itemize}
+
+\section{技术文档}
+
+\subsection{AI平台}
+
+\begin{itemize}
+\item Anthropic. \textit{Claude文档}. \link{docs.anthropic.com}{https://docs.anthropic.com} --- 官方Claude API和能力指南。
+
+\item OpenAI. \textit{API参考}. \link{platform.openai.com/docs}{https://platform.openai.com/docs} --- GPT模型文档。
+
+\item 百度. \textit{文心一言API文档}. \link{cloud.baidu.com/doc/WENXINWORKSHOP}{https://cloud.baidu.com/doc/WENXINWORKSHOP} --- 国产大模型平台。
+
+\item 阿里云. \textit{通义千问文档}. \link{help.aliyun.com/product/2400256.html}{https://help.aliyun.com/product/2400256.html} --- 阿里AI助手文档。
+\end{itemize}
+
+\subsection{自动化工具}
+
+\begin{itemize}
+\item n8n. \textit{官方文档}. \link{docs.n8n.io}{https://docs.n8n.io} --- 开源工作流自动化。
+
+\item Make (原Integromat). \textit{帮助中心}. \link{www.make.com/en/help}{https://www.make.com/en/help} --- 可视化自动化平台。
+
+\item 飞书. \textit{开发者文档}. \link{open.feishu.cn/document}{https://open.feishu.cn/document} --- 国内企业协作平台API。
+\end{itemize}
+
+\subsection{知识管理}
+
+\begin{itemize}
+\item Obsidian. \textit{帮助库}. \link{help.obsidian.md}{https://help.obsidian.md} --- 基于Markdown的知识管理。
+
+\item 语雀. \textit{帮助文档}. \link{www.yuque.com/yuque/help}{https://www.yuque.com/yuque/help} --- 国产知识库工具。
+
+\item 思源笔记. \textit{用户指南}. \link{b3log.org/siyuan}{https://b3log.org/siyuan} --- 开源本地优先笔记工具。
+\end{itemize}
+
+\section{在线资源}
+
+\subsection{新闻通讯与博客}
+
+\begin{itemize}
+\item \textit{The Batch} by Andrew Ng (deeplearning.ai) --- 每周AI新闻与洞见。
+
+\item \textit{Import AI} by Jack Clark --- 技术AI发展与政策。
+
+\item \textit{One Useful Thing} by Ethan Mollick --- 商业和教育中的实用AI应用。
+
+\item 机器之心 (jiqizhixin.com) --- 中文AI行业资讯。
+
+\item 量子位 (qbitai.com) --- AI技术与产业报道。
+\end{itemize}
+
+\subsection{社区}
+
+\begin{itemize}
+\item r/LocalLLaMA (Reddit) --- 开源AI模型讨论。
+
+\item Hacker News (news.ycombinator.com) --- 技术与创业社区。
+
+\item 稀土掘金 (juejin.cn) --- 中文技术开发者社区。
+
+\item 即刻App ``AI探索'' 圈子 --- 中文AI实践交流。
+\end{itemize}
+
+\section{各章参考文献}
+
+\subsection{第1章：一人公司革命}
+\begin{itemize}
+\item 美国人口普查局. ``非雇主统计数据.'' --- 独立企业年度数据。
+\item 智联招聘. ``中国灵活用工发展报告.'' --- 国内自由职业趋势。
+\end{itemize}
+
+\subsection{第2章：AI即操作系统}
+\begin{itemize}
+\item McAfee \& Brynjolfsson.《Machine, Platform, Crowd》（《机器、平台、群众》）. 2017.
+\item Davenport \& Kirby.《Only Humans Need Apply》. 2016.
+\end{itemize}
+
+\subsection{第3章：2026年AI格局}
+\begin{itemize}
+\item 斯坦福HAI.《AI指数报告2024》. --- 年度综合AI进展指标。
+\item 艾瑞咨询. ``中国人工智能产业研究报告.'' --- 国内AI产业分析。
+\end{itemize}
+
+\subsection{第4--9章：AI智能体实施}
+\begin{itemize}
+\item LangChain文档. \link{docs.langchain.com}{https://docs.langchain.com}
+\item Microsoft AutoGen框架. \link{microsoft.github.io/autogen}{https://microsoft.github.io/autogen}
+\item CrewAI文档. \link{docs.crewai.com}{https://docs.crewai.com}
+\end{itemize}
+
+\subsection{第19--21章：下一个前沿}
+\begin{itemize}
+\item Anthropic. ``Model Card: Claude.'' --- 技术规格与安全措施。
+\item OpenAI. ``GPT-4 Technical Report.'' arXiv:2303.08774 (2023).
+\item 模型上下文协议 (MCP). \link{modelcontextprotocol.io}{https://modelcontextprotocol.io}
+\end{itemize}
+
+%% ============================================================
+%% 关于作者
+%% ============================================================
+\chapter*{关于作者}
+\addcontentsline{toc}{chapter}{关于作者}
+
+\noindent\textbf{吉姆·萧}是一位企业家、技术专家和作家，过去十年一直深耕于商业自动化与人工智能的交汇点。在作为独立创始人创建并扩展多家公司后，他发现AI智能体可以将一人公司的局限性转化为竞争优势。
+
+\vspace{1em}
+
+\noindent 如今，吉姆·萧用AI智能体团队运营他的企业——这些智能体负责销售、营销、客户成功、财务和运营——让他能够专注于战略、关系和真正重要的工作。
+
+\vspace{1em}
+
+\noindent 他撰写关于工作的未来、AI原生商业模式以及人工智能在企业家和小企业主中的实际应用的文章。
+
+\vspace{1em}
+
+\noindent 联系方式：
+\begin{itemize}
+\item 网站：xwire.ai
+\item Twitter/X：@jimxiao
+\item LinkedIn：linkedin.com/in/jimxiaoai
+\end{itemize}
+
+%% 索引
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{索引}
+\printindex
+
+%% ============================================================
+%% 封底
+%% ============================================================
+\newpage
+\thispagestyle{empty}
+\vspace*{0.3in}
+
+\begin{center}
+{\Large\bfseries\color{oreilly-dark} AI赋能的一人公司}
+\end{center}
+
+\vspace{0.5em}
+
+\begin{quote}
+\textit{「这是构建自动化运营企业的最全面指南。作者不只是理论分析——他向你展示如何部署AI智能体来处理你曾经手动完成的工作。」}
+
+\hfill---\textbf{早期读者}
+\end{quote}
+
+\vspace{1em}
+
+\noindent 如果你能用十人团队的能力运营一家公司，但无需承担管理负担、无尽会议和人力成本呢？
+
+\vspace{0.8em}
+
+\noindent 在\textbf{《AI赋能的一人公司》}中，吉姆·萧揭示了构建AI智能体团队的蓝图——这些智能体处理销售、营销、客户成功、财务和运营——而你专注于战略和增长。
+
+\vspace{0.8em}
+
+\noindent\textbf{在本书中，你将发现：}
+
+\begin{itemize}
+\item 如何部署六个全天候工作的AI智能体
+\item 使一切成为可能的Markdown原生基础设施
+\item 销售自动化、内容营销和客户成功的完整实战手册
+\item 来自转型成功创始人的真实案例研究
+\item 实施本书所有内容的90天路线图
+\end{itemize}
+
+\vspace{0.8em}
+
+\noindent 无论你是被运营任务淹没的个体创业者，还是准备在不招聘的情况下扩展业务的企业家，本书都为你提供实用工具，帮助你建立一个比你更努力工作的企业。
+
+\vspace{1em}
+
+\noindent\textbf{商业的未来是AI原生的。本书向你展示如何到达那里。}
+
+\vfill
+
+\begin{center}
+\includegraphics[width=2in]{../images/cover-animal.png}
+
+\vspace{0.5em}
+
+{\large\color{oreilly-red}\textbf{O'REILLY}}
+
+\vspace{0.3em}
+
+{\small oreilly.com}
+\end{center}
+
+\end{document}

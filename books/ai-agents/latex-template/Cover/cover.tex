@@ -1,0 +1,73 @@
+% O'Reilly Style Cover Page
+% Separate from main book for easier printing
+% ============================================================
+
+\documentclass[11pt,letterpaper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usepackage{geometry}
+% \usepackage{fontspec}  % Uncomment for XeLaTeX/LuaLaTeX
+
+%% Page setup - full bleed cover
+\geometry{
+    paperwidth=6.125in,
+    paperheight=9.25in,
+    margin=0pt
+}
+
+%% O'Reilly colors
+\definecolor{oreilly-red}{HTML}{C1272D}
+\definecolor{oreilly-dark}{HTML}{333333}
+\definecolor{oreilly-gray}{HTML}{666666}
+\definecolor{oreilly-cream}{HTML}{F5F5DC}
+
+\begin{document}
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+    % Background
+    \fill[oreilly-cream] (current page.south west) rectangle (current page.north east);
+
+    % Top banner
+    \fill[oreilly-red] ([yshift=-0.5in]current page.north west) rectangle ([yshift=-0.1in]current page.north east);
+
+    % O'Reilly logo area (top left)
+    \node[anchor=north west, text=white] at ([xshift=0.5in, yshift=-0.2in]current page.north west) {
+        \fontsize{14}{16}\selectfont\sffamily\bfseries O'REILLY
+    };
+
+    % Title
+    \node[anchor=north, text=oreilly-dark, align=center] at ([yshift=-1.2in]current page.north) {
+        \fontsize{32}{36}\selectfont\sffamily\bfseries
+        The AI\\[0.1in]
+        Workforce
+    };
+
+    % Subtitle
+    \node[anchor=north, text=oreilly-gray, align=center] at ([yshift=-2.2in]current page.north) {
+        \fontsize{14}{18}\selectfont\sffamily
+        Building Intelligent Agents\\
+        for the One-Person Company
+    };
+
+    % Animal illustration (center) - Octopus
+    \node[anchor=center] at ([yshift=0.5in]current page.center) {
+        \includegraphics[width=3in]{../images/cover-animal.png}
+    };
+
+    % Author
+    \node[anchor=south, text=oreilly-dark] at ([yshift=1.5in]current page.south) {
+        \fontsize{16}{20}\selectfont\sffamily
+        Jim Xiao
+    };
+
+    % Bottom red bar
+    \fill[oreilly-red] (current page.south west) rectangle ([yshift=0.4in]current page.south east);
+
+\end{tikzpicture}
+
+\end{document}

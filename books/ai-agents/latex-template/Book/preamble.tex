@@ -1,0 +1,202 @@
+% The AI-Powered One-Person Company
+% Preamble - shared settings
+% ============================================================
+
+\documentclass[letterpaper,headinclude=on,footinclude=on,12pt,oneside,open=any]{scrbook}
+
+%% PACKAGES
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{listings}
+\usepackage{hyperref}
+\usepackage{geometry}
+\usepackage{enumitem}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{tabularx}
+\usepackage{float}
+\usepackage{placeins}
+\usepackage{caption}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows, positioning, calc, decorations.pathreplacing}
+\usepackage{tcolorbox}
+\usepackage{parskip}
+\usepackage{etoolbox}
+\usepackage{pifont}
+\usepackage{amssymb}
+\usepackage{makeidx}
+\usepackage{scrlayer-scrpage}
+
+\tcbuselibrary{skins,breakable}
+
+%% COLORS
+\definecolor{monokaiPink}{HTML}{F92771}
+\definecolor{npmred}{HTML}{BB2E3E}
+\definecolor{codebackground}{HTML}{F2F2F2}
+\definecolor{oreilly-red}{HTML}{C1272D}
+\definecolor{oreilly-dark}{HTML}{333333}
+\definecolor{oreilly-gray}{HTML}{666666}
+\definecolor{tip-green}{HTML}{2E8B57}
+\definecolor{warning-orange}{HTML}{FF8C00}
+\definecolor{note-blue}{HTML}{4682B4}
+\definecolor{chaptergray}{HTML}{555555}
+
+%% PAGE GEOMETRY
+\geometry{
+    letterpaper,
+    left=1in,
+    right=1in,
+    top=1in,
+    bottom=1in,
+    headheight=14pt,
+    headsep=0.5in
+}
+
+%% HYPERLINKS
+\hypersetup{
+    colorlinks=true,
+    linkcolor=oreilly-dark,
+    citecolor=oreilly-dark,
+    urlcolor=monokaiPink,
+    bookmarksnumbered=true,
+    bookmarksopen=true,
+    pdfauthor={Jim Xiao},
+    pdftitle={The AI-Powered One-Person Company},
+    pdfsubject={From Solopreneur to Scale}
+}
+
+%% KOMA-SCRIPT STYLING
+\addtokomafont{chapter}{\color{chaptergray}}
+\addtokomafont{section}{\color{oreilly-dark}}
+\addtokomafont{subsection}{\color{oreilly-dark}}
+\setkomafont{chapterentry}{\bfseries}
+
+\renewcommand*{\chapterformat}{%
+    \mbox{\scalebox{2}{\color{oreilly-red}\thechapter}\hspace{10pt}\textcolor{oreilly-gray}{|}\hspace{10pt}}%
+}
+
+%% HEADERS & FOOTERS
+\pagestyle{scrheadings}
+\clearpairofpagestyles
+\ohead{\pagemark}
+\ihead{\headmark}
+\cfoot{}
+
+%% CODE LISTINGS
+\lstdefinestyle{codestyle}{
+    backgroundcolor=\color{codebackground},
+    basicstyle=\ttfamily\footnotesize,
+    keywordstyle=\color{monokaiPink}\bfseries,
+    stringstyle=\color{tip-green},
+    commentstyle=\color{oreilly-gray}\itshape,
+    numberstyle=\tiny\color{oreilly-gray},
+    numbers=left,
+    numbersep=8pt,
+    frame=none,
+    breaklines=true,
+    breakatwhitespace=true,
+    showstringspaces=false,
+    tabsize=4,
+    captionpos=b,
+    aboveskip=0.8em,
+    belowskip=0.8em,
+    xleftmargin=1em,
+    framexleftmargin=1em
+}
+
+\lstdefinestyle{python}{
+    style=codestyle,
+    language=Python,
+    morekeywords={async,await,self,True,False,None}
+}
+
+\lstdefinestyle{bash}{
+    style=codestyle,
+    language=bash,
+    morekeywords={pip,npm,brew,docker,git}
+}
+
+\lstset{style=python}
+
+%% CUSTOM COMMANDS
+\newcommand{\codeword}[1]{\texttt{\textbf{\textcolor{npmred}{#1}}}}
+\newcommand{\link}[2]{\textbf{\textcolor{monokaiPink}{\href{#2}{#1}}}}
+\newcommand{\agent}[1]{\textbf{\textcolor{oreilly-red}{#1}}}
+
+%% HIGHLIGHT BOXES
+\newtcolorbox{tip}[1][Tip]{
+    enhanced jigsaw,breakable,
+    colback=tip-green!8!white,colframe=tip-green!80!black,
+    coltitle=white,fonttitle=\bfseries,title=#1,
+    boxrule=1pt,arc=2pt,left=8pt,right=8pt,top=6pt,bottom=6pt
+}
+
+\newtcolorbox{note}[1][Note]{
+    enhanced jigsaw,breakable,
+    colback=note-blue!8!white,colframe=note-blue!80!black,
+    coltitle=white,fonttitle=\bfseries,title=#1,
+    boxrule=1pt,arc=2pt,left=8pt,right=8pt,top=6pt,bottom=6pt
+}
+
+\newtcolorbox{warning}[1][Warning]{
+    enhanced jigsaw,breakable,
+    colback=warning-orange!8!white,colframe=warning-orange!80!black,
+    coltitle=white,fonttitle=\bfseries,title=#1,
+    boxrule=1pt,arc=2pt,left=8pt,right=8pt,top=6pt,bottom=6pt
+}
+
+\newtcolorbox{keyinsight}[1][Key Insight]{
+    enhanced jigsaw,breakable,
+    colback=oreilly-red!8!white,colframe=oreilly-red!80!black,
+    coltitle=white,fonttitle=\bfseries,title=#1,
+    boxrule=1pt,arc=2pt,left=8pt,right=8pt,top=6pt,bottom=6pt
+}
+
+\newtcolorbox{codebox}[1][]{
+    enhanced,breakable,
+    colback=codebackground,colframe=oreilly-gray!30,
+    coltext=black,
+    boxrule=0.5pt,arc=2pt,left=0pt,right=0pt,top=0pt,bottom=0pt,
+    #1
+}
+
+%% FIX: Ensure text after tcolorboxes is black
+\AfterEndEnvironment{codebox}{\color{black}}
+\AfterEndEnvironment{tip}{\color{black}}
+\AfterEndEnvironment{note}{\color{black}}
+\AfterEndEnvironment{warning}{\color{black}}
+\AfterEndEnvironment{keyinsight}{\color{black}}
+
+%% LIST FORMATTING - ensure proper bullet rendering and BLACK text
+\setlist[itemize]{leftmargin=2em, itemsep=0.3em, parsep=0pt, topsep=0.5em, before={\color{black}}}
+\setlist[enumerate]{leftmargin=2em, itemsep=0.3em, parsep=0pt, topsep=0.5em, before={\color{black}}}
+\renewcommand{\labelitemi}{\textbullet}
+
+%% TYPOGRAPHY IMPROVEMENTS - O'Reilly Standards
+% Prevent orphans and widows
+\widowpenalty=10000
+\clubpenalty=10000
+\brokenpenalty=10000
+
+% Better paragraph spacing
+\setlength{\parskip}{0.5em plus 0.1em minus 0.1em}
+
+% Table improvements - better row spacing
+\renewcommand{\arraystretch}{1.4}
+
+% Reduce excessive blank space at page bottoms
+\raggedbottom
+
+%% ENSURE BLACK TEXT
+\AtBeginDocument{\color{black}}
+
+%% DOCUMENT INFO
+\title{The AI-Powered One-Person Company}
+\author{Jim Xiao}
+\date{2026}
+
+\makeindex

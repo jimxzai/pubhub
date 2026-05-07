@@ -76,4 +76,23 @@
 
 ---
 
-**最後更新**: 2025-12-28
+**最後更新**: 2025-01-04
+
+---
+
+## 系列完成狀態
+
+| 講道 | 檔案 | 狀態 |
+|------|------|------|
+| 01 神愛世人 | `01-god-so-loved.md` | ✅ |
+| 02 你必須重生 | `02-you-must-be-born-again.md` | ✅ |
+| 03 活水的邀請 | `03-living-water.md` | ✅ |
+| 04 世界的光 | `04-light-of-the-world.md` | ✅ |
+| 05 生命的糧 | `05-bread-of-life.md` | ✅ |
+| 06 好牧人 | `06-good-shepherd.md` | ✅ |
+| 07 復活與生命 | `07-resurrection-and-life.md` | ✅ |
+| 08 唯一的道路 | `08-the-only-way.md` | ✅ |
+| 09 常在基督裡 | `09-abiding-in-christ.md` | ✅ |
+| 10 十字架的愛 | `10-love-of-the-cross.md` | ✅ |
+
+**全系列 10/10 篇完成**

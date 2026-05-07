@@ -40,7 +40,7 @@ jobs:
             - [ ] 跨书关联
             - [ ] 下周计划
 
-            完成后请将草稿移动到 `weekly-summaries/published/` 目录。
+            完成后请审阅并 merge PR。
 
           labels: |
             automated
