@@ -1,0 +1,90 @@
+% California Real Estate Book Template - English Basic Version
+% For TexLive Basic - minimal package dependencies
+% Requires XeLaTeX
+
+\documentclass[11pt]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use professional fonts
+\setmainfont{Georgia}[
+  BoldFont=Georgia Bold,
+  ItalicFont=Georgia Italic
+]
+\setsansfont{Helvetica Neue}
+\setmonofont{Menlo}
+
+% Page geometry
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  top=1in,
+  bottom=1in,
+  left=1in,
+  right=1in
+}
+
+% Line spacing
+\linespread{1.2}
+
+% Colors
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{139,0,0}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=blue,
+  pdftitle={California Real Estate: The Art of War Approach},
+  pdfauthor={Jim Xiao}
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Table settings
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Metadata
+$if(title)$
+\title{\color{chaptercolor}\bfseries $title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+\date{\today}
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Title
+$if(title)$
+\maketitle
+$endif$
+
+% Table of contents
+\tableofcontents
+
+$body$
+
+\end{document}

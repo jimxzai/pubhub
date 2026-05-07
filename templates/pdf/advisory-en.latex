@@ -1,0 +1,367 @@
+% Advisory Book Template - English Version
+% Jim's Investment Memo - Professional Edition
+% Requires XeLaTeX
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Georgia}[
+  BoldFont=Georgia Bold,
+  ItalicFont=Georgia Italic
+]
+\setsansfont{Helvetica Neue}
+\setmonofont{Menlo}[Scale=0.9]
+
+%% ============================================
+%% PAGE GEOMETRY - 6x9 book format
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+%% ============================================
+%% COLOR SCHEME - Investment Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterRed}{RGB}{139,0,0}         % Deep red for chapters
+\definecolor{GoldAccent}{RGB}{165,125,55}      % Gold accent
+\definecolor{WisdomBrown}{RGB}{85,60,45}       % Warm brown
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Box colors
+\definecolor{QuoteBg}{RGB}{252,250,245}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS
+%% ============================================
+\usepackage{graphicx}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterRed,
+  urlcolor=GoldAccent,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfencoding=auto
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{GoldAccent}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterRed} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterRed} #1\par\nobreak
+    \vskip 12pt
+    {\color{GoldAccent}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterRed} #1\par\nobreak
+    \vskip 8pt
+    {\color{GoldAccent}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterRed}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{WisdomBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\itshape\color{WisdomBrown}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$else$
+\title{Jim's Investment Memo}
+$endif$
+$if(author)$
+\author{$author$}
+$else$
+\author{Jim Xiao}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{December 2025}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1.5cm}
+
+% Decorative line
+{\color{GoldAccent}\rule{3in}{1pt}}
+
+\vspace{0.8cm}
+
+% Main title
+$if(title)$
+{\fontsize{28}{34}\selectfont\bfseries\color{ChapterRed} $title$}
+$else$
+{\fontsize{28}{34}\selectfont\bfseries\color{ChapterRed} Jim's Investment Memo}
+$endif$
+
+\vspace{0.4cm}
+
+$if(subtitle)$
+{\Large\itshape\color{LightGray} $subtitle$}
+$else$
+{\Large\itshape\color{LightGray} 25 Years of Silicon Valley Survival Wisdom}
+$endif$
+
+\vspace{1.5cm}
+
+% Three Mentors Box
+\fcolorbox{GoldAccent}{QuoteBg}{%
+\begin{minipage}{3.5in}
+\centering
+\vspace{0.4cm}
+{\normalsize\bfseries\color{ChapterRed} Wisdom from Three Mentors}\\[0.3em]
+{\small\color{WisdomBrown}
+Sun Tzu · Benjamin Graham · The Bible\\[0.5em]
+\itshape
+``The skillful warrior wins battles that are easy to win''\\
+``Margin of safety is the foundation of investing''\\
+``The fear of the Lord is the beginning of wisdom''
+}
+\vspace{0.4cm}
+\end{minipage}
+}
+
+\vspace{1.5cm}
+
+% Key message
+{\large\color{TextGray} Mama said:}\\[0.3em]
+{\normalsize\itshape\color{WisdomBrown} ``Son, investing is simple. The hard part is doing it.''}
+
+\vfill
+
+% Author
+$if(author)$
+{\Large $author$}
+$else$
+{\Large Jim Xiao}
+$endif$
+
+\vspace{0.5cm}
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize December 2025}
+$endif$
+
+\vspace{0.5cm}
+
+{\color{GoldAccent}\rule{3in}{1pt}}
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+\textbf{Jim's Investment Memo}\\
+25 Years of Silicon Valley Survival Wisdom\\[0.8em]
+
+Copyright \copyright\ \the\year\ Jim Xiao\\
+All rights reserved.\\[0.8em]
+
+\textbf{Disclaimer}\\
+This book is for educational and informational purposes only\\
+and does not constitute investment advice.\\
+Investing involves risk. Please consult a professional advisor\\
+before making any investment decisions.\\[0.8em]
+
+\textbf{Three Mentors}\\
+\textbullet\ Sun Tzu --- \textit{The Art of War}\\
+\textbullet\ Benjamin Graham --- \textit{The Intelligent Investor}\\
+\textbullet\ The Bible --- Ancient Wisdom
+
+\end{flushleft}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{2.5cm}
+\begin{center}
+\Large\itshape\color{WisdomBrown}
+For Mama\\[0.8cm]
+\normalsize
+Who taught me real investing\\
+with a pot of Gumbo
+\end{center}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterRed}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+\end{document}

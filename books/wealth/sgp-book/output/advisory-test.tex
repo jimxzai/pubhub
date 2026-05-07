@@ -1,0 +1,6386 @@
+% SGP Book Template - Chinese Version (Simple)
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openright,twoside]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use macOS system fonts that support CJK
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{Heiti SC}
+\setmonofont{Menlo}
+
+% Enable CJK line breaking
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% Page geometry - book format (6x9 inches)
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.875in,
+  outer=0.625in
+}
+
+% Line spacing
+\linespread{1.3}
+
+% Colors
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{139,0,0}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=blue,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfencoding=auto
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Widow and orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Metadata
+\title{阿甘的投资备忘录}
+\author{Jim Xiao}
+\date{2025年12月}
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Front matter
+\frontmatter
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{3cm}
+\begin{center}
+{\Huge\bfseries 阿甘的投资备忘录}\\[1cm]
+{\Large\itshape 25年硅谷生存智慧 · 简单实用版}\\[2cm]
+{\Large Jim Xiao}\\[1cm]
+\vfill
+{\large 2025年12月}
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small
+版权所有 \copyright\ \the\year\ Jim Xiao\\
+保留所有权利。
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\tableofcontents
+\cleardoublepage
+
+% Main matter
+\mainmatter
+
+\section{阿甘的投资备忘录}\label{ux963fux7518ux7684ux6295ux8d44ux5907ux5fd8ux5f55}
+
+\begin{quote}
+\textbf{25 年硅谷生存智慧 · 简单实用版}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于本书}\label{ux5173ux4e8eux672cux4e66}
+
+这是《硅谷阿甘》的姊妹篇。
+
+如果说《硅谷阿甘》是一部电影，那这本书就是\textbf{电影手册}------把阿甘
+25 年的故事，提炼成你可以直接用的\textbf{简单规则}。
+
+\textbf{不讲理论，只讲做法。} \textbf{不讲为什么，只讲怎么做。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{书籍信息}\label{ux4e66ux7c4dux4fe1ux606f}
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{定位}：实用手册 · 新手友好
+\item
+  \textbf{阅读时间}：2 小时
+\item
+  \textbf{配套阅读}：\href{../silicon-jim.md}{硅谷阿甘（完整故事）}
+\item
+  \textbf{进阶阅读}：\href{../00-index.md}{兵法投资道（系统理论）}
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{目录}\label{ux76eeux5f55}
+
+\subsubsection{第一部分：基本功}\label{ux7b2cux4e00ux90e8ux5206ux57faux672cux529f}
+
+\begin{quote}
+``妈妈说：先学会不输，再学怎么赢。''
+\end{quote}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+章节 & 标题 & 核心 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+01 & \href{01-never-all-in.md}{永远不要全押一个篮子} & 分散投资 \\
+02 & \href{02-emergency-fund.md}{存够六个月生活费再说} & 安全垫 \\
+03 & \href{03-understand-first.md}{听不懂就不要投} & 能力圈 \\
+\end{longtable}
+}
+
+\subsubsection{第二部分：怎么买}\label{ux7b2cux4e8cux90e8ux5206ux600eux4e48ux4e70}
+
+\begin{quote}
+``Sarah 说：买什么不重要，重要的是什么时候买。''
+\end{quote}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+章节 & 标题 & 核心 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+04 & \href{04-fear-and-greed.md}{别人恐惧时贪婪} & 逆向投资 \\
+05 & \href{05-index-funds.md}{不知道买什么就买指数} & 简单策略 \\
+06 & \href{06-dollar-cost-averaging.md}{分批买入不择时} & 定投 \\
+\end{longtable}
+}
+
+\subsubsection{第三部分：怎么卖}\label{ux7b2cux4e09ux90e8ux5206ux600eux4e48ux5356}
+
+\begin{quote}
+``妈妈说：会买的是徒弟，会卖的才是师傅。''
+\end{quote}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+章节 & 标题 & 核心 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+07 & \href{07-hold-through.md}{持有是最难的事} & 长期持有 \\
+08 & \href{08-when-to-sell.md}{什么时候该走} & 卖出信号 \\
+09 & \href{09-no-chasing.md}{不要追涨杀跌} & 纪律 \\
+\end{longtable}
+}
+
+\subsubsection{第四部分：避坑指南}\label{ux7b2cux56dbux90e8ux5206ux907fux5751ux6307ux5357}
+
+\begin{quote}
+``Mike 说：我踩过的坑，你就不用再踩了。''
+\end{quote}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+章节 & 标题 & 真实案例 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+10 & \href{10-sock-puppet.md}{袜子木偶的教训} & 2000 互联网泡沫 \\
+11 & \href{11-enron.md}{安然式的创新} & 2001 安然 \\
+12 & \href{12-lehman.md}{大到不能倒也会倒} & 2008 雷曼 \\
+13 & \href{13-meme-stocks.md}{表情包不是投资} & 2021 GME/Crypto \\
+14 & \href{14-ftx.md}{有效利他还是有效挪用} & 2022 FTX \\
+\end{longtable}
+}
+
+\subsubsection{第五部分：职场生存}\label{ux7b2cux4e94ux90e8ux5206ux804cux573aux751fux5b58}
+
+\begin{quote}
+``妈妈说：不是每场仗都值得打。''
+\end{quote}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3125}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3750}}
+  >{\raggedright\arraybackslash}p{(\linewidth - 4\tabcolsep) * \real{0.3125}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+章节
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+标题
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+核心
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+15 & \href{15-dont-buy-company-stock.md}{别把人力资本和金融资本放一起} &
+工作与投资分开 \\
+16 & \href{16-plan-b.md}{永远要有 Plan B} & 存款、技能、人脉 \\
+17 & \href{17-best-revenge.md}{最好的报复是过得好} & 离开的智慧 \\
+\end{longtable}
+}
+
+\subsubsection{第六部分：子女教育}\label{ux7b2cux516dux90e8ux5206ux5b50ux5973ux6559ux80b2}
+
+\begin{quote}
+``妈妈说：最好的投资，是投资在孩子身上------但不是你想的那种。''
+\end{quote}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+章节 & 标题 & 核心 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+18 & \href{18-529-plan.md}{529 计划：税务利器} & 教育储蓄 \\
+19 & \href{19-public-vs-private.md}{公立还是私立} & 选择智慧 \\
+20 & \href{20-beyond-ivy.md}{爬藤不是唯一的路} & 多元路径 \\
+21 & \href{21-kids-financial-literacy.md}{财商教育从小开始} &
+言传身教 \\
+\end{longtable}
+}
+
+\subsubsection{第七部分：人生智慧}\label{ux7b2cux4e03ux90e8ux5206ux4ebaux751fux667aux6167}
+
+\begin{quote}
+``25 年后，我学到的最重要的事。''
+\end{quote}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+章节 & 标题 & 核心 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+22 & \href{22-compound-time.md}{复利需要时间} & 耐心 \\
+23 & \href{23-real-wealth.md}{真正的财富是时间} & 自由 \\
+24 & \href{24-listen-to-mama.md}{听妈妈的话} & 常识 \\
+\end{longtable}
+}
+
+\subsubsection{第八部分：退休规划}\label{ux7b2cux516bux90e8ux5206ux9000ux4f11ux89c4ux5212}
+
+\begin{quote}
+``Sarah 说：退休不是停止工作，是可以选择工作。''
+\end{quote}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+章节 & 标题 & 核心 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+25 & \href{25-retirement.md}{退休不是终点，是转折点} &
+401k/IRA/4\%法则 \\
+\end{longtable}
+}
+
+\subsubsection{附录}\label{ux9644ux5f55}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+附录 & 内容 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\href{appendix-a-checklist.md}{附录 A} & 投资决策检查清单 \\
+\href{appendix-b-rules.md}{附录 B} & 阿甘的 10 条铁律 \\
+\href{appendix-c-mama-says.md}{附录 C} & 妈妈语录全集 \\
+\href{appendix-d-sarah-says.md}{附录 D} & Sarah 语录全集 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么读这本书}\label{ux600eux4e48ux8bfbux8fd9ux672cux4e66}
+
+\textbf{如果你是新手：} - 从第一部分开始，一章章读 - 每章只有 3-5 分钟
+
+\textbf{如果你已经踩过坑：} - 直接翻到第四部分，看看你踩的是哪个 -
+然后读对应的解决方案
+
+\textbf{如果你只有 10 分钟：} - 直接翻到附录 B：《阿甘的 10 条铁律》
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{开始之前}\label{ux5f00ux59cbux4e4bux524d}
+
+妈妈说：
+
+\begin{quote}
+``儿子，投资很简单。难的是做到。''
+\end{quote}
+
+好了，翻开下一页。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{01-never-all-in.md}{第一章：永远不要全押一个篮子}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{版本}：v0.1 \textbf{更新日期}：2025-12-30
+
+\newpage
+
+\section{第一章：永远不要全押一个篮子}\label{ux7b2cux4e00ux7ae0ux6c38ux8fdcux4e0dux8981ux5168ux62bcux4e00ux4e2aux7beeux5b50}
+
+\begin{quote}
+``妈妈说：鸡蛋放一个篮子里，篮子掉了，全碎了。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b}
+
+Mike 在安然工作。
+
+公司给了他 5 万美元的 signing bonus。他全买了公司股票。
+
+``这是全美最创新的公司！'' 他说。
+
+2001 年，安然破产。他那 5 万块的股票，变成了 37 美分。
+
+后来他去了雷曼。又把所有钱押在曼哈顿的房子上。
+
+2008 年，雷曼倒闭。房子亏了 40\%。
+
+\textbf{Mike 犯了同一个错误两次。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219}
+
+\subsubsection{规则
+1：不要把所有钱放一个股票}\label{ux89c4ux5219-1ux4e0dux8981ux628aux6240ux6709ux94b1ux653eux4e00ux4e2aux80a1ux7968}
+
+不管你多相信一家公司，最多放 10\% 的钱。
+
+\subsubsection{规则
+2：不要买你工作的公司的股票}\label{ux89c4ux5219-2ux4e0dux8981ux4e70ux4f60ux5de5ux4f5cux7684ux516cux53f8ux7684ux80a1ux7968}
+
+你的工资已经押在那里了。如果公司倒了，你失业 +
+股票归零。这叫\textbf{双重风险}。
+
+\subsubsection{规则
+3：不要把所有钱放一家银行}\label{ux89c4ux5219-3ux4e0dux8981ux628aux6240ux6709ux94b1ux653eux4e00ux5bb6ux94f6ux884c}
+
+2023 年，硅谷银行 48 小时倒闭。很多创业公司差点发不出工资。
+
+FDIC 只保 25 万美元。超过这个数，分到两家银行。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么做}\label{ux600eux4e48ux505a}
+
+\subsubsection{最简单的分散法}\label{ux6700ux7b80ux5355ux7684ux5206ux6563ux6cd5}
+
+\begin{verbatim}
+你的投资 = 美股指数 + 美债 + 现金
+
+比例：
+- 年轻人：70% 股 + 20% 债 + 10% 现金
+- 中年人：50% 股 + 30% 债 + 20% 现金
+- 退休前：30% 股 + 50% 债 + 20% 现金
+\end{verbatim}
+
+\subsubsection{一句话}\label{ux4e00ux53e5ux8bdd}
+
+\begin{quote}
+\textbf{不要把所有鸡蛋放在一个篮子里，尤其是你工作的那个篮子。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  单只股票占比不超过 10\%
+\item[$\square$]
+  没有买自己公司的股票（或者很少）
+\item[$\square$]
+  存款分在两家银行以上
+\item[$\square$]
+  有股票、有债券、有现金
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{02-emergency-fund.md}{存够六个月生活费再说}
+
+\newpage
+
+\section{第二章：存够六个月生活费再说}\label{ux7b2cux4e8cux7ae0ux5b58ux591fux516dux4e2aux6708ux751fux6d3bux8d39ux518dux8bf4}
+
+\begin{quote}
+``Sarah 说：真正的安全感来自你银行账户里的数字。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-1}
+
+2011 年，NeuralMind 倒闭了。
+
+我的 0.05\% 期权变成了废纸。
+
+十一年的人生，装进一个纸箱。
+
+但我没有慌。
+
+因为我有存款。因为我的指数基金还在赚钱。
+
+Sarah
+说：``\textbf{看，这就是分散投资的意义。你的人力资本归零了，但你的金融资本还在。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-1}
+
+\subsubsection{规则
+1：先存紧急备用金}\label{ux89c4ux5219-1ux5148ux5b58ux7d27ux6025ux5907ux7528ux91d1}
+
+在投资任何东西之前，先存够 \textbf{6 个月的生活费}。
+
+这笔钱： - 放在随时能取的地方（货币基金或高息储蓄账户） - 不投资股票 -
+只在紧急情况用
+
+\subsubsection{规则
+2：紧急情况的定义}\label{ux89c4ux5219-2ux7d27ux6025ux60c5ux51b5ux7684ux5b9aux4e49}
+
+✅ 失业 ✅ 生病 ✅ 意外支出
+
+❌ 股市大跌想抄底 ❌ 想买新车 ❌ 想去旅游
+
+\subsubsection{规则
+3：存够再投资}\label{ux89c4ux5219-3ux5b58ux591fux518dux6295ux8d44}
+
+顺序很重要：
+
+\begin{verbatim}
+第一步：还清高息债务（信用卡）
+    ↓
+第二步：存够 6 个月紧急备用金
+    ↓
+第三步：开始投资
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么算}\label{ux600eux4e48ux7b97}
+
+\subsubsection{你的月支出}\label{ux4f60ux7684ux6708ux652fux51fa}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+项目 & 金额 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+房租/房贷 & \$\_\_\_\_\_\_ \\
+吃饭 & \$\_\_\_\_\_\_ \\
+交通 & \$\_\_\_\_\_\_ \\
+保险 & \$\_\_\_\_\_\_ \\
+其他必要支出 & \(______ |
+| **月总支出** | **\)\_\_\_\_\_\_** \\
+\end{longtable}
+}
+
+\subsubsection{你需要的紧急备用金}\label{ux4f60ux9700ux8981ux7684ux7d27ux6025ux5907ux7528ux91d1}
+
+\textbf{月总支出 × 6 = 紧急备用金}
+
+例子： - 月支出 \$5,000 - 紧急备用金 = \$5,000 × 6 = \textbf{\$30,000}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-1}
+
+\begin{quote}
+\textbf{没有安全垫，别上战场。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-1}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我知道我的月支出是多少
+\item[$\square$]
+  我有 6 个月的紧急备用金
+\item[$\square$]
+  这笔钱在我能随时取到的地方
+\item[$\square$]
+  我没有动用这笔钱去投资
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{03-understand-first.md}{听不懂就不要投}
+
+\newpage
+
+\section{第三章：听不懂就不要投}\label{ux7b2cux4e09ux7ae0ux542cux4e0dux61c2ux5c31ux4e0dux8981ux6295}
+
+\begin{quote}
+``妈妈说：如果一个人说的话你听不懂，要么他是天才，要么他是骗子。天才很少。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-2}
+
+\subsubsection{安然}\label{ux5b89ux7136}
+
+Mike 问 Sarah：``安然是做什么的？''
+
+``他们\ldots{} 创造价值。''
+
+``怎么创造？''
+
+``通过复杂的金融工具。''
+
+Sarah 的爸爸是
+CPA。他说：``\textbf{如果一个公司的财报需要天才才能看懂，要么他们在做诺贝尔奖级别的创新，要么他们在做牢狱级别的造假。}''
+
+安然倒闭了。CEO 进监狱了。
+
+\subsubsection{Theranos}\label{theranos}
+
+Elizabeth Holmes 说：``一滴血检测所有疾病！''
+
+猎头找我：``Theranos 在招 AI 工程师。''
+
+Sarah
+问她爸。她爸说：``这家医疗科技公司，没有发过一篇经过同行评审的论文。''
+
+我拒绝了那个 offer。
+
+Theranos 倒闭了。Holmes 被判欺诈。
+
+那台机器根本不工作。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-2}
+
+\subsubsection{规则
+1：三句话原则}\label{ux89c4ux5219-1ux4e09ux53e5ux8bddux539fux5219}
+
+如果你不能用三句话解释一个投资是怎么赚钱的，\textbf{不要买}。
+
+✅ 能通过： - ``苹果卖 iPhone，用户越多越赚钱'' -
+``指数基金买一篮子股票，经济涨它就涨'' - ``这套房子出租，每月租金 2000''
+
+❌ 不能通过： - ``它通过复杂的金融工具创造价值'' -
+``这是去中心化的元宇宙生态系统'' - ``他们用 AI 颠覆传统行业''
+
+\subsubsection{规则
+2：问三个问题}\label{ux89c4ux5219-2ux95eeux4e09ux4e2aux95eeux9898}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{它怎么赚钱？}
+\item
+  \textbf{为什么是它，不是别人？}
+\item
+  \textbf{如果我错了，会亏多少？}
+\end{enumerate}
+
+答不上来，就不要投。
+
+\subsubsection{规则 3：复杂 ≠
+高级}\label{ux89c4ux5219-3ux590dux6742-ux9ad8ux7ea7}
+
+骗子喜欢用复杂的词。
+
+真正懂的人可以把复杂的事情说简单。
+
+\textbf{如果对方说不清楚，要么他不懂，要么他在骗你。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{避开的信号}\label{ux907fux5f00ux7684ux4fe1ux53f7}
+
+当你听到这些话时，要小心：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+危险信号 & 翻译 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+``太复杂了你不会懂的'' & 我解释不清楚 \\
+``这是颠覆性创新'' & 我们还没赚钱 \\
+``错过这次就没有了'' & 我要你快点做决定 \\
+``回报率保证 20\%'' & 这很可能是骗局 \\
+``有效利他主义'' & 我用你的钱做慈善 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-2}
+
+\begin{quote}
+\textbf{能力圈之外的钱，不是你的钱。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-2}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我能用三句话解释这个投资怎么赚钱
+\item[$\square$]
+  我知道如果错了会亏多少
+\item[$\square$]
+  我没有被''复杂''或''专业''的词吓住
+\item[$\square$]
+  我没有被''错过就没有了''逼着做决定
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{04-fear-and-greed.md}{别人恐惧时贪婪}
+
+\newpage
+
+\section{第四章：别人恐惧时贪婪}\label{ux7b2cux56dbux7ae0ux522bux4ebaux6050ux60e7ux65f6ux8d2aux5a6a}
+
+\begin{quote}
+``Sarah 说：恐惧是最好的买入信号。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-3}
+
+2008 年 9 月，雷曼兄弟破产。
+
+全世界都在恐慌。
+
+Sarah 打电话给我：
+
+``Jim，你手上有多少现金？''
+
+``大概 15 万。''
+
+``现在是买股票的时候。''
+
+``你疯了？世界要完蛋了！''
+
+``\textbf{世界不会完蛋。恐惧是最好的买入信号。}''
+
+我用 10 万美元买了 S\&P 500 指数基金。那时候是 1,200 点。
+
+2009 年 3 月，跌到 666 点。我的 10 万变成了 5.5 万。
+
+我又加了 5 万。
+
+2024 年，S\&P 500 超过 5,000 点。
+
+\textbf{那 15 万，变成了 60 多万。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-3}
+
+\subsubsection{规则
+1：别人恐惧时贪婪，别人贪婪时恐惧}\label{ux89c4ux5219-1ux522bux4ebaux6050ux60e7ux65f6ux8d2aux5a6aux522bux4ebaux8d2aux5a6aux65f6ux6050ux60e7}
+
+这是巴菲特最有名的话。
+
+意思是：
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{大家都在卖} → 你应该考虑买
+\item
+  \textbf{大家都在买} → 你应该考虑卖
+\end{itemize}
+
+\subsubsection{规则
+2：但首先，你要有现金}\label{ux89c4ux5219-2ux4f46ux9996ux5148ux4f60ux8981ux6709ux73b0ux91d1}
+
+Sarah
+说：``\textbf{别人恐惧时贪婪。但首先你要有贪婪的资本------现金。}''
+
+如果你没有现金，股市跌的时候你只能看着。
+
+所以永远保持 10-20\% 的现金。
+
+\subsubsection{规则
+3：恐惧的信号}\label{ux89c4ux5219-3ux6050ux60e7ux7684ux4fe1ux53f7}
+
+当你看到这些，说明市场很恐惧：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+信号 & 例子 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+新闻头条全是坏消息 & ``股市崩盘！'' \\
+你的朋友都在卖股票 & ``我全清仓了'' \\
+专家说''这次不一样'' & ``经济要完蛋了'' \\
+VIX 恐慌指数 \textgreater{} 40 & 极度恐慌 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么做}\label{ux600eux4e48ux505a-1}
+
+\subsubsection{简单的方法}\label{ux7b80ux5355ux7684ux65b9ux6cd5}
+
+不用猜什么时候恐惧、什么时候贪婪。
+
+用\textbf{定投}：
+
+\begin{itemize}
+\tightlist
+\item
+  每个月固定买入一定金额
+\item
+  不管市场涨还是跌
+\item
+  自动做到''跌多买多，涨多买少''
+\end{itemize}
+
+\subsubsection{进阶方法}\label{ux8fdbux9636ux65b9ux6cd5}
+
+当市场大跌（\textgreater{} 20\%）时：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  检查：这是暂时的恐慌，还是公司/经济真的出问题了？
+\item
+  如果是暂时的恐慌：用你的现金储备加仓
+\item
+  不要一次 all in，分批买入
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{真实案例}\label{ux771fux5b9eux6848ux4f8b}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+恐惧时刻 & 当时 S\&P 500 & 5 年后 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+2008 金融危机 & 666 & 2,100 (+215\%) \\
+2020 新冠暴跌 & 2,200 & 4,800 (+118\%) \\
+\end{longtable}
+}
+
+\textbf{每一次''世界要完蛋了''，最后都没有完蛋。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-3}
+
+\begin{quote}
+\textbf{恐惧是打折的信号，但你要有钱才能买。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-3}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我手上有 10-20\% 的现金
+\item[$\square$]
+  我不会因为新闻头条恐慌而卖出
+\item[$\square$]
+  我有一个定投计划
+\item[$\square$]
+  当市场大跌时，我会考虑加仓，而不是清仓
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{05-index-funds.md}{不知道买什么就买指数}
+
+\newpage
+
+\section{第五章：不知道买什么就买指数}\label{ux7b2cux4e94ux7ae0ux4e0dux77e5ux9053ux4e70ux4ec0ux4e48ux5c31ux4e70ux6307ux6570}
+
+\begin{quote}
+``Sarah 说：当你不知道该买什么的时候，就买整个市场。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-4}
+
+2008 年，Sarah 给我建议：
+
+``买指数基金。别选股，就买 S\&P 500。''
+
+``为什么不选个股？''
+
+``\textbf{因为你不是巴菲特。99\% 的人也不是。}''
+
+``可是\ldots{}''
+
+``听着，职业基金经理有整个团队做研究，95\%
+的人长期跑不过指数。你一个人，能比他们强？''
+
+我买了 Vanguard S\&P 500 指数基金（VOO）。
+
+2024 年，Sarah 退休了。
+
+``你真的在 Google 干了 16 年？''
+
+``是啊。我的投资策略很无聊------\textbf{买指数，持有，不动。}''
+
+``就这样？''
+
+``\textbf{就这样。无聊才能赚钱。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-4}
+
+\subsubsection{规则 1：指数基金 \textgreater{}
+个股}\label{ux89c4ux5219-1ux6307ux6570ux57faux91d1-ux4e2aux80a1}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+个股 & 指数基金 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+要选对公司 & 买一篮子公司 \\
+可能归零 & 很难归零 \\
+需要研究 & 不需要研究 \\
+95\% 的人跑输市场 & 保证拿到市场平均回报 \\
+\end{longtable}
+}
+
+\subsubsection{规则
+2：费用很重要}\label{ux89c4ux5219-2ux8d39ux7528ux5f88ux91cdux8981}
+
+指数基金的费用差别很大：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+类型 & 年费率 & 10 万美元，30 年后损失 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+便宜的指数基金 & 0.03\% & \$900 \\
+贵的主动基金 & 1.5\% & \$45,000 \\
+\end{longtable}
+}
+
+\textbf{差了 5 万美元。}
+
+所以选低费率的： - Vanguard VOO: 0.03\% - Fidelity FXAIX: 0.015\% -
+iShares IVV: 0.03\%
+
+\subsubsection{规则
+3：不要过度分散}\label{ux89c4ux5219-3ux4e0dux8981ux8fc7ux5ea6ux5206ux6563}
+
+你只需要 2-4 个基金：
+
+\begin{verbatim}
+最简单版（1 个基金）：
+- 100%：VT（全球股票指数）
+
+简单版（2 个基金）：
+- 80%：VOO（美股指数）
+- 20%：BND（美债指数）
+
+进阶版（3 个基金）：
+- 60%：VOO（美股指数）
+- 20%：VXUS（国际股票）
+- 20%：BND（美债指数）
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{常见问题}\label{ux5e38ux89c1ux95eeux9898}
+
+\subsubsection{Q：我应该买哪个指数基金？}\label{qux6211ux5e94ux8be5ux4e70ux54eaux4e2aux6307ux6570ux57faux91d1}
+
+A：如果只买一个，买 \textbf{VOO}（或 SPY、IVV）。
+
+\subsubsection{Q：什么时候买？}\label{qux4ec0ux4e48ux65f6ux5019ux4e70}
+
+A：现在。然后每个月继续买。不要等。
+
+\subsubsection{Q：什么时候卖？}\label{qux4ec0ux4e48ux65f6ux5019ux5356}
+
+A：退休的时候。或者需要用钱的时候。不要因为涨了或跌了就卖。
+
+\subsubsection{Q：这样赚得少吧？}\label{qux8fd9ux6837ux8d5aux5f97ux5c11ux5427}
+
+A：S\&P 500 过去 30 年平均回报 \textasciitilde10\%/年。 10 万美元，30
+年后变成 170 万。 足够了。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-4}
+
+\begin{quote}
+\textbf{不要试图打败市场，做市场。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-4}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我有一个低费率的指数基金（费率 \textless{} 0.1\%）
+\item[$\square$]
+  我没有花时间选个股
+\item[$\square$]
+  我的投资组合不超过 4 个基金
+\item[$\square$]
+  我设置了自动定投
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{06-dollar-cost-averaging.md}{分批买入不择时}
+
+\newpage
+
+\section{第六章：分批买入不择时}\label{ux7b2cux516dux7ae0ux5206ux6279ux4e70ux5165ux4e0dux62e9ux65f6}
+
+\begin{quote}
+``妈妈说：慢慢来，才能快。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-5}
+
+2000 年，我刚到硅谷。
+
+机场大巴司机说他刚卖掉房子，全部买了网络股。
+
+``Pets.com 要上天了！''
+
+他择时了。他选在了最高点。
+
+那年 4 月，纳斯达克开始跌。跌了 80\%。
+
+司机亏光了。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+如果他换一种方法呢？
+
+不是一次 all in，而是每个月买一点：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+月份 & 纳斯达克 & 买入金额 & 买到份额 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 月 & 5,000 & \$1,000 & 0.20 \\
+4 月 & 4,000 & \$1,000 & 0.25 \\
+7 月 & 3,000 & \$1,000 & 0.33 \\
+10 月 & 2,000 & \$1,000 & 0.50 \\
+\end{longtable}
+}
+
+\textbf{跌得越多，同样的钱买得越多。}
+
+这叫\textbf{定投}（Dollar Cost Averaging）。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-5}
+
+\subsubsection{规则
+1：不要试图择时}\label{ux89c4ux5219-1ux4e0dux8981ux8bd5ux56feux62e9ux65f6}
+
+没有人知道明天市场涨还是跌。
+
+专家也不知道。 基金经理也不知道。 你也不知道。
+
+所以不要猜。
+
+\subsubsection{规则
+2：定期定额}\label{ux89c4ux5219-2ux5b9aux671fux5b9aux989d}
+
+每个月固定日期，固定金额，自动买入。
+
+\begin{itemize}
+\tightlist
+\item
+  发工资那天买
+\item
+  不管市场涨还是跌
+\item
+  不看新闻
+\item
+  不思考
+\end{itemize}
+
+\textbf{把决策权交给系统，不要交给情绪。}
+
+\subsubsection{规则 3：一次性 vs
+定投}\label{ux89c4ux5219-3ux4e00ux6b21ux6027-vs-ux5b9aux6295}
+
+如果你有一大笔钱（比如 10 万美元）：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+方法 & 优点 & 缺点 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+一次性买入 & 统计上回报更高 & 可能买在高点 \\
+12 个月定投 & 心理压力小 & 可能错过上涨 \\
+\end{longtable}
+}
+
+\textbf{新手建议：12 个月定投。}
+
+等你习惯了市场波动，再考虑一次性买入。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么设置自动定投}\label{ux600eux4e48ux8bbeux7f6eux81eaux52a8ux5b9aux6295}
+
+\subsubsection{美国券商}\label{ux7f8eux56fdux5238ux5546}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  登录 Fidelity / Schwab / Vanguard
+\item
+  找到 ``Automatic Investments''
+\item
+  设置：每月 X 日，买入 \$X 的 VOO
+\item
+  连接银行账户
+\item
+  完成
+\end{enumerate}
+
+\subsubsection{建议金额}\label{ux5efaux8baeux91d1ux989d}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+年收入 & 建议月定投 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\$50,000 & \$500-750 \\
+\$100,000 & \$1,000-1,500 \\
+\$150,000 & \$1,500-2,500 \\
+\$200,000+ & \$2,500-4,000 \\
+\end{longtable}
+}
+
+目标：每年投入年收入的 \textbf{15-20\%}。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-5}
+
+\begin{quote}
+\textbf{不要问什么时候买，问每个月买多少。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-5}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我设置了自动定投
+\item[$\square$]
+  每个月发工资后自动买入
+\item[$\square$]
+  我不会因为市场涨跌改变计划
+\item[$\square$]
+  我不看财经新闻做投资决策
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{07-hold-through.md}{持有是最难的事}
+
+\newpage
+
+\section{第七章：持有是最难的事}\label{ux7b2cux4e03ux7ae0ux6301ux6709ux662fux6700ux96beux7684ux4e8b}
+
+\begin{quote}
+``Sarah 说：投资最难的不是买入，是持有。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-6}
+
+2009 年 3 月，股市跌到谷底。
+
+我那 10 万块的指数基金，缩水成了 5.5 万。
+
+我打电话给 Sarah。
+
+``我是不是应该卖了？''
+
+``你疯了？\textbf{现在是加仓的时候。}''
+
+``可是我已经亏了 45\%。''
+
+``那只是纸面亏损。你看看那些公司------Apple、Google、Microsoft------他们的业务消失了吗？''
+
+``没有。''
+
+``那就别卖。''
+
+我没有卖。
+
+2024 年，那笔投资涨了 4 倍多。
+
+\textbf{如果我当时卖了，我会永远锁定 45\% 的亏损。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-6}
+
+\subsubsection{规则
+1：区分纸面亏损和真实亏损}\label{ux89c4ux5219-1ux533aux5206ux7eb8ux9762ux4e8fux635fux548cux771fux5b9eux4e8fux635f}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+类型 & 意思 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+纸面亏损 & 账户显示红色，但你没卖 \\
+真实亏损 & 你卖了，钱真的少了 \\
+\end{longtable}
+}
+
+\textbf{只要你不卖，就只是数字波动。}
+
+\subsubsection{规则
+2：看公司，不看股价}\label{ux89c4ux5219-2ux770bux516cux53f8ux4e0dux770bux80a1ux4ef7}
+
+股价跌了，问自己：
+
+\begin{itemize}
+\tightlist
+\item
+  公司还在赚钱吗？
+\item
+  产品还有人买吗？
+\item
+  长期竞争力还在吗？
+\end{itemize}
+
+如果答案是''是''------\textbf{那只是市场情绪波动，不是真的出问题了。}
+
+\subsubsection{规则
+3：时间是你的朋友}\label{ux89c4ux5219-3ux65f6ux95f4ux662fux4f60ux7684ux670bux53cb}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+持有时间 & 美股亏损概率 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 天 & \textasciitilde45\% \\
+1 年 & \textasciitilde30\% \\
+10 年 & \textasciitilde5\% \\
+20 年 & \textasciitilde0\% \\
+\end{longtable}
+}
+
+\textbf{持有得越久，亏损的可能性越低。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{持有期间会发生的事}\label{ux6301ux6709ux671fux95f4ux4f1aux53d1ux751fux7684ux4e8b}
+
+在你持有的 20 年里，你会经历：
+
+\begin{itemize}
+\tightlist
+\item
+  3-5 次 20\% 以上的下跌
+\item
+  1-2 次 40\% 以上的暴跌
+\item
+  无数次''这次不一样''的恐慌
+\item
+  无数次想卖掉的冲动
+\end{itemize}
+
+\textbf{这些都是正常的。}
+
+S\&P 500 历史上每次暴跌后都创了新高。每一次。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么做到}\label{ux600eux4e48ux505aux5230}
+
+\subsubsection{方法
+1：不看账户}\label{ux65b9ux6cd5-1ux4e0dux770bux8d26ux6237}
+
+设一个规则：每月只看一次账户。
+
+或者更狠：每年只看一次。
+
+\textbf{看得越少，做错事的机会越少。}
+
+\subsubsection{方法
+2：写下你的理由}\label{ux65b9ux6cd5-2ux5199ux4e0bux4f60ux7684ux7406ux7531}
+
+买入的时候，写下：
+
+\begin{quote}
+``我买 VOO 是因为我相信美国经济长期会增长。 我计划持有 20 年。 中途下跌
+50\% 我也不会卖。''
+\end{quote}
+
+跌的时候，拿出来读一读。
+
+\subsubsection{方法 3：自动化}\label{ux65b9ux6cd5-3ux81eaux52a8ux5316}
+
+设置自动定投，然后： - 删掉股票 App - 取消财经新闻订阅 -
+不要和朋友讨论股票
+
+\textbf{无聊是正确的感觉。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-6}
+
+\begin{quote}
+\textbf{会买的是徒弟，会持有的才是师傅。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-6}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我知道我持有的是好公司/好指数
+\item[$\square$]
+  我有明确的持有期限（至少 5 年）
+\item[$\square$]
+  我不会因为下跌 20-50\% 而卖出
+\item[$\square$]
+  我减少了查看账户的频率
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{08-when-to-sell.md}{什么时候该走}
+
+\newpage
+
+\section{第八章：什么时候该走}\label{ux7b2cux516bux7ae0ux4ec0ux4e48ux65f6ux5019ux8be5ux8d70}
+
+\begin{quote}
+``Sarah 说：后悔是投资者最大的敌人。做了决定就不要回头看。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-7}
+
+2004 年，Sarah 离开我们的小公司，去了 Google。
+
+她给了我一个机会：``Jim，你要不要一起来？''
+
+我没去。
+
+Google 上市后，Sarah 的期权值了几百万。
+
+那天晚上，我给 Sarah 打电话。
+
+``我后悔了。''
+
+``\textbf{后悔是投资者最大的敌人。做了决定就不要回头看。}''
+
+``这是谁说的？''
+
+``我爸。他炒股亏了很多钱之后说的。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-7}
+
+\subsubsection{规则
+1：该卖的三种情况}\label{ux89c4ux5219-1ux8be5ux5356ux7684ux4e09ux79cdux60c5ux51b5}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+情况 & 例子 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{需要用钱} & 买房、退休、紧急情况 \\
+\textbf{投资逻辑变了} & 公司基本面恶化、行业消失 \\
+\textbf{有更好的选择} & 机会成本更高 \\
+\end{longtable}
+}
+
+\subsubsection{规则
+2：不该卖的情况}\label{ux89c4ux5219-2ux4e0dux8be5ux5356ux7684ux60c5ux51b5}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+情况 & 为什么不该卖 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+股价跌了 & 可能只是情绪波动 \\
+新闻说要崩盘 & 新闻通常滞后 \\
+涨了很多想落袋为安 & 你会错过更多上涨 \\
+朋友都在卖 & 群体不一定对 \\
+\end{longtable}
+}
+
+\subsubsection{规则
+3：做了决定不要回头看}\label{ux89c4ux5219-3ux505aux4e86ux51b3ux5b9aux4e0dux8981ux56deux5934ux770b}
+
+卖了之后： - 不要看它后来涨了多少 - 不要计算''如果我没卖会怎样'' -
+不要后悔
+
+\textbf{钱已经不是你的了。向前看。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{卖出检查清单}\label{ux5356ux51faux68c0ux67e5ux6e05ux5355}
+
+在卖出之前，问自己：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  \textbf{我为什么买入？} 那个理由还成立吗？
+\item
+  \textbf{这是情绪还是理性？} 是因为恐惧/贪婪，还是真的有逻辑？
+\item
+  \textbf{卖出后钱去哪里？} 有更好的地方放吗？
+\item
+  \textbf{税的影响？} 短期持有税更高（美国：短期 = 收入税，长期 =
+  资本利得税 15-20\%）
+\item
+  \textbf{我会后悔吗？} 如果它之后涨了 50\%，我能接受吗？
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{指数基金卖出时机}\label{ux6307ux6570ux57faux91d1ux5356ux51faux65f6ux673a}
+
+如果你买的是指数基金，卖出时机很简单：
+
+\begin{verbatim}
+年轻时：不卖
+中年时：不卖
+退休时：每年卖 4%（4% rule）
+\end{verbatim}
+
+\textbf{就这么简单。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-7}
+
+\begin{quote}
+\textbf{卖出的理由只有三个：需要用钱、逻辑变了、有更好选择。其他都是借口。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-7}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我有明确的卖出理由（三个之一）
+\item[$\square$]
+  我不是因为情绪在卖
+\item[$\square$]
+  我考虑了税的影响
+\item[$\square$]
+  我做好了不后悔的准备
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{09-no-chasing.md}{不要追涨杀跌}
+
+\newpage
+
+\section{第九章：不要追涨杀跌}\label{ux7b2cux4e5dux7ae0ux4e0dux8981ux8ffdux6da8ux6740ux8dcc}
+
+\begin{quote}
+``Sarah 说：你总是在高点买，在低点卖。这叫追涨杀跌。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-8}
+
+Mike 的投资历史：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+年份 & 操作 & 结果 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+2000 & 高点买网络股 & 亏了 \\
+2007 & 高点买曼哈顿房子 & 亏了 40\% \\
+2021 & 儿子高点买 Zoom & 学费没了 \\
+\end{longtable}
+}
+
+Mike 的模式：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  看到什么涨，就去买
+\item
+  看到什么跌，就卖掉
+\item
+  重复
+\end{enumerate}
+
+\textbf{这叫追涨杀跌。这是亏钱的最可靠方法。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{为什么追涨杀跌会亏钱}\label{ux4e3aux4ec0ux4e48ux8ffdux6da8ux6740ux8dccux4f1aux4e8fux94b1}
+
+人类的本能：
+
+\begin{itemize}
+\tightlist
+\item
+  看到涨 → 觉得会继续涨 → 买
+\item
+  看到跌 → 觉得会继续跌 → 卖
+\end{itemize}
+
+但市场的规律是：
+
+\begin{itemize}
+\tightlist
+\item
+  涨太多 → 会跌
+\item
+  跌太多 → 会涨
+\end{itemize}
+
+\textbf{你的本能和市场规律是反的。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-8}
+
+\subsubsection{规则
+1：看到热门的，不买}\label{ux89c4ux5219-1ux770bux5230ux70edux95e8ux7684ux4e0dux4e70}
+
+当你听到所有人都在讨论一只股票：
+
+\begin{itemize}
+\tightlist
+\item
+  2000年：Pets.com
+\item
+  2020年：Zoom
+\item
+  2021年：GameStop
+\item
+  2021年：Dogecoin
+\item
+  2024年：Nvidia（要小心）
+\end{itemize}
+
+\textbf{等到你听说的时候，通常已经晚了。}
+
+\subsubsection{规则
+2：看到暴跌的，不卖}\label{ux89c4ux5219-2ux770bux5230ux66b4ux8dccux7684ux4e0dux5356}
+
+当新闻头条全是恐慌：
+
+\begin{itemize}
+\tightlist
+\item
+  2008年：金融危机
+\item
+  2020年：新冠暴跌
+\item
+  2022年：科技股暴跌
+\end{itemize}
+
+\textbf{这通常是机会，不是逃跑的时候。}
+
+\subsubsection{规则
+3：用系统代替情绪}\label{ux89c4ux5219-3ux7528ux7cfbux7edfux4ee3ux66ffux60c5ux7eea}
+
+不要根据感觉做决定。用规则：
+
+\begin{verbatim}
+买入规则：
+- 每月定投 $X
+- 不管涨跌
+- 自动执行
+
+卖出规则：
+- 只在需要用钱时卖
+- 只在投资逻辑变化时卖
+- 不因为涨跌而卖
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{自我检测：你是不是在追涨杀跌？}\label{ux81eaux6211ux68c0ux6d4bux4f60ux662fux4e0dux662fux5728ux8ffdux6da8ux6740ux8dcc}
+
+问自己这些问题：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+问题 & 如果是，你可能在追涨杀跌 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+你是在看到涨之后才买的吗？ & ✓ \\
+你是在看到跌之后想卖的吗？ & ✓ \\
+你是因为朋友在买才买的吗？ & ✓ \\
+你是因为新闻说要崩盘才卖的吗？ & ✓ \\
+你是在涨了之后后悔没早买吗？ & ✓ \\
+你是在跌了之后后悔没早卖吗？ & ✓ \\
+\end{longtable}
+}
+
+\textbf{如果有 2 个以上是''是''，你需要改变策略。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么改}\label{ux600eux4e48ux6539}
+
+\subsubsection{方法 1：定投}\label{ux65b9ux6cd5-1ux5b9aux6295}
+
+每月固定金额，不管涨跌。
+
+\textbf{把决策权从情绪手中拿走。}
+
+\subsubsection{方法
+2：不看新闻}\label{ux65b9ux6cd5-2ux4e0dux770bux65b0ux95fb}
+
+财经新闻的目的是吸引眼球，不是帮你赚钱。
+
+\textbf{删掉财经 App。}
+
+\subsubsection{方法
+3：写投资日记}\label{ux65b9ux6cd5-3ux5199ux6295ux8d44ux65e5ux8bb0}
+
+每次买卖之前，写下：
+
+\begin{itemize}
+\tightlist
+\item
+  我为什么买/卖？
+\item
+  我的情绪是什么？
+\item
+  这是系统决策还是冲动？
+\end{itemize}
+
+\textbf{强迫自己思考。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-8}
+
+\begin{quote}
+\textbf{市场奖励纪律，惩罚冲动。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-8}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我不会因为''大家都在买''而买
+\item[$\square$]
+  我不会因为''大家都在卖''而卖
+\item[$\square$]
+  我有一个系统化的买入/卖出规则
+\item[$\square$]
+  我不看财经新闻做投资决策
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{10-sock-puppet.md}{袜子木偶的教训}
+
+\newpage
+
+\section{第十章：袜子木偶的教训}\label{ux7b2cux5341ux7ae0ux889cux5b50ux6728ux5076ux7684ux6559ux8bad}
+
+\begin{quote}
+\textbf{2000 年互联网泡沫}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{发生了什么}\label{ux53d1ux751fux4e86ux4ec0ux4e48}
+
+2000 年，互联网公司遍地开花。
+
+Pets.com 卖狗粮。它的吉祥物是一只袜子木偶。
+
+公司上市，股价冲上天。
+
+机场大巴司机卖掉房子买网络股。他说：``Pets.com 要上天了！''
+
+2000 年 3 月，纳斯达克到了 5,000 点。
+
+4 月，开始跌。
+
+Pets.com 倒闭了。CEO
+在最后一次全员大会上挥舞着袜子木偶：``同志们，我们精神上颠覆了袜子行业！''
+
+纳斯达克跌了 80\%。
+
+\textbf{很多人的积蓄归零。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{为什么会发生}\label{ux4e3aux4ec0ux4e48ux4f1aux53d1ux751f}
+
+\subsubsection{1. 故事太好了}\label{ux6545ux4e8bux592aux597dux4e86}
+
+``互联网改变一切！''
+
+这个故事是对的。互联网确实改变了一切。
+
+但故事对 ≠ 股票能赚钱。
+
+\textbf{对的故事 + 错的价格 = 亏钱}
+
+\subsubsection{2.
+没有人看基本面}\label{ux6ca1ux6709ux4ebaux770bux57faux672cux9762}
+
+Pets.com 没有利润。甚至收入都很少。
+
+但所有人都在买。
+
+``谁在乎利润？这是未来！''
+
+\subsubsection{3. FOMO（错过恐惧）}\label{fomoux9519ux8fc7ux6050ux60e7}
+
+``隔壁老王赚了 100\%！''
+
+``我不买就亏了！''
+
+当所有人都在赚钱的时候，不赚钱感觉像亏钱。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{教训}\label{ux6559ux8bad}
+
+\subsubsection{教训
+1：故事不等于价值}\label{ux6559ux8bad-1ux6545ux4e8bux4e0dux7b49ux4e8eux4ef7ux503c}
+
+下次你听到''这是未来''的时候，问自己：
+
+\begin{itemize}
+\tightlist
+\item
+  这家公司赚钱吗？
+\item
+  如果不赚钱，什么时候会赚钱？
+\item
+  现在的股价合理吗？
+\end{itemize}
+
+\subsubsection{教训
+2：泡沫的特征}\label{ux6559ux8bad-2ux6ce1ux6cabux7684ux7279ux5f81}
+
+当你看到这些，要警惕：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+信号 & 2000 年例子 & 永恒的形式 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+司机在讨论股票 & ✓ & 不懂的人开始投资 \\
+公司没有利润但股价飞涨 & ✓ & 估值脱离现实 \\
+``这次不一样'' & ✓ & 新范式叙事 \\
+所有人都在赚钱 & ✓ & FOMO 蔓延 \\
+涨得最快的是最烂的公司 & ✓ & 投机盛行 \\
+\end{longtable}
+}
+
+\subsubsection{教训
+3：泡沫破裂后，好公司还在}\label{ux6559ux8bad-3ux6ce1ux6cabux7834ux88c2ux540eux597dux516cux53f8ux8fd8ux5728}
+
+2000 年泡沫破裂后：
+
+\begin{itemize}
+\tightlist
+\item
+  Pets.com → 倒闭
+\item
+  Amazon → 跌了 90\%，然后涨了 100 倍
+\item
+  Google → 2004 年上市，成为巨头
+\end{itemize}
+
+\textbf{泡沫杀死垃圾，但好公司会活下来。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么避免}\label{ux600eux4e48ux907fux514d}
+
+\subsubsection{避免方法
+1：不买没有利润的公司}\label{ux907fux514dux65b9ux6cd5-1ux4e0dux4e70ux6ca1ux6709ux5229ux6da6ux7684ux516cux53f8}
+
+或者至少，不要重仓。
+
+\subsubsection{避免方法
+2：问''司机问题''}\label{ux907fux514dux65b9ux6cd5-2ux95eeux53f8ux673aux95eeux9898}
+
+如果出租车司机、理发师、你不懂股票的亲戚都在讨论一只股票------
+
+\textbf{跑。}
+
+\subsubsection{避免方法
+3：买指数}\label{ux907fux514dux65b9ux6cd5-3ux4e70ux6307ux6570}
+
+指数里有好公司也有坏公司。
+
+泡沫破裂后，坏公司被踢出去，好公司留下来。
+
+\textbf{你不用自己选。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-9}
+
+\begin{quote}
+\textbf{当袜子木偶成为明星的时候，泡沫就快破了。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-9}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我不买没有利润的''概念股''
+\item[$\square$]
+  我不因为''所有人都在买''而买
+\item[$\square$]
+  我能区分好故事和好投资
+\item[$\square$]
+  我在泡沫中保持冷静
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{11-enron.md}{安然式的创新}
+
+\newpage
+
+\section{第十一章：安然式的创新}\label{ux7b2cux5341ux4e00ux7ae0ux5b89ux7136ux5f0fux7684ux521bux65b0}
+
+\begin{quote}
+\textbf{2001 年安然破产}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{发生了什么}\label{ux53d1ux751fux4e86ux4ec0ux4e48-1}
+
+安然是一家能源公司。
+
+它被评为''全美最创新的公司''------连续六年。
+
+Mike 在那里工作。他把 signing bonus 5 万美元全买了公司股票。
+
+``他们在做能源交易的革命！''
+
+我问：``你们具体做什么？''
+
+Mike 想了想：``我们\ldots{} 创造价值。''
+
+``怎么创造？''
+
+``通过复杂的金融工具。''
+
+``什么工具？''
+
+``太复杂了你不会懂的。''
+
+2001 年 11 月，安然破产。
+
+\textbf{原来''创新''的意思是''会计造假''。}
+
+Mike 那 5 万块的股票，变成了 37 美分。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{为什么会发生}\label{ux4e3aux4ec0ux4e48ux4f1aux53d1ux751f-1}
+
+\subsubsection{1. 财报太复杂}\label{ux8d22ux62a5ux592aux590dux6742}
+
+Sarah 的爸爸是 CPA。他说：
+
+\begin{quote}
+``如果一个公司的财报需要天才才能看懂，要么他们在做诺贝尔奖级别的创新，要么他们在做牢狱级别的造假。''
+\end{quote}
+
+安然的财报没有人能看懂。
+
+\subsubsection{2. 光环效应}\label{ux5149ux73afux6548ux5e94}
+
+\begin{itemize}
+\tightlist
+\item
+  连续六年''最创新公司''
+\item
+  CEO 是商业杂志的封面人物
+\item
+  所有人都说安然是好公司
+\end{itemize}
+
+\textbf{当所有人都说好的时候，没有人在认真检查。}
+
+\subsubsection{3.
+员工相信公司}\label{ux5458ux5de5ux76f8ux4fe1ux516cux53f8}
+
+Mike 把钱全押在安然。
+
+为什么？因为他相信公司。
+
+\textbf{相信 ≠ 正确。信任 ≠ 事实。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{教训}\label{ux6559ux8bad-1}
+
+\subsubsection{教训 1：听不懂 =
+危险}\label{ux6559ux8bad-1ux542cux4e0dux61c2-ux5371ux9669}
+
+如果一个公司的商业模式你听不懂：
+
+\begin{itemize}
+\tightlist
+\item
+  要么它太复杂，风险太高
+\item
+  要么它在骗人
+\end{itemize}
+
+无论哪种，\textbf{不要投}。
+
+\subsubsection{教训
+2：奖项不能当真}\label{ux6559ux8bad-2ux5956ux9879ux4e0dux80fdux5f53ux771f}
+
+``全美最创新''、``最受尊敬''、``最佳雇主''\ldots{}
+
+这些奖项不能保护你的钱。
+
+\textbf{看财务数据，不看奖杯。}
+
+\subsubsection{教训
+3：不要买公司股票}\label{ux6559ux8bad-3ux4e0dux8981ux4e70ux516cux53f8ux80a1ux7968}
+
+你在公司工作，已经把人力资本押进去了。
+
+如果再买公司股票，你在双重押注。
+
+公司倒了 → 失业 + 股票归零
+
+\textbf{这是 Mike 犯的错误。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{造假的信号}\label{ux9020ux5047ux7684ux4fe1ux53f7}
+
+当你看到这些，要警惕：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+信号 & 意思 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+财报特别复杂 & 可能在藏东西 \\
+解释不清楚怎么赚钱 & 可能没在赚钱 \\
+高管频繁卖股票 & 他们知道什么 \\
+审计师换了 & 可能有问题 \\
+利润增长但现金流没增长 & 利润可能是假的 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么避免}\label{ux600eux4e48ux907fux514d-1}
+
+\subsubsection{避免方法
+1：三句话测试}\label{ux907fux514dux65b9ux6cd5-1ux4e09ux53e5ux8bddux6d4bux8bd5}
+
+如果你不能用三句话解释一家公司怎么赚钱，不要买它的股票。
+
+\subsubsection{避免方法
+2：看现金流}\label{ux907fux514dux65b9ux6cd5-2ux770bux73b0ux91d1ux6d41}
+
+利润可以造假。现金流很难造假。
+
+公司赚钱了，钱在哪里？在银行账户里吗？
+
+\subsubsection{避免方法
+3：分散投资}\label{ux907fux514dux65b9ux6cd5-3ux5206ux6563ux6295ux8d44}
+
+就算你被骗了，如果只占投资组合的 5\%，你还能活。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-10}
+
+\begin{quote}
+\textbf{``创新''和''欺诈''有时候只差一份财报。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-10}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我能用三句话解释公司怎么赚钱
+\item[$\square$]
+  我看了现金流，不只是利润
+\item[$\square$]
+  我没有重仓任何一只股票
+\item[$\square$]
+  我没有买自己公司的股票
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{12-lehman.md}{大到不能倒也会倒}
+
+\newpage
+
+\section{第十二章：大到不能倒也会倒}\label{ux7b2cux5341ux4e8cux7ae0ux5927ux5230ux4e0dux80fdux5012ux4e5fux4f1aux5012}
+
+\begin{quote}
+\textbf{2008 年雷曼兄弟破产}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{发生了什么}\label{ux53d1ux751fux4e86ux4ec0ux4e48-2}
+
+2008 年 9 月 14 日，周日晚上。
+
+Mike 打电话给我：
+
+``Jim，Bear Stearns 已经被 JPMorgan 收购了。现在我在 Lehman Brothers。''
+
+``挺好的啊。''
+
+``明天可能就没了。''
+
+``什么意思？''
+
+``我们找不到买家。政府不救我们。''
+
+周一，Lehman Brothers 宣布破产。
+
+158 年历史。一夜之间倒闭。
+
+\textbf{全球金融危机正式开始。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{背景}\label{ux80ccux666f}
+
+\subsubsection{什么是次贷危机}\label{ux4ec0ux4e48ux662fux6b21ux8d37ux5371ux673a}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  银行给没有还款能力的人贷款买房
+\item
+  把这些贷款打包成''金融产品''卖给投资人
+\item
+  房价涨的时候，所有人都赚钱
+\item
+  房价跌了\ldots{} 所有人都完蛋了
+\end{enumerate}
+
+\subsubsection{为什么雷曼会倒}\label{ux4e3aux4ec0ux4e48ux96f7ux66fcux4f1aux5012}
+
+雷曼持有大量次贷相关产品。
+
+房价跌了，这些产品变成废纸。
+
+政府选择不救雷曼。
+
+\textbf{158 年的百年老店，48 小时内消失。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Mike 的故事}\label{mike-ux7684ux6545ux4e8b}
+
+Mike 安然之后去了雷曼。
+
+``华尔街才是真正的金融！百年老店！''
+
+他用所有 bonus 买了曼哈顿的房子。
+
+``房价永远涨，这是纽约！''
+
+2008 年，他失业了。房子亏了 40\%。
+
+他又出现在我的门口。
+
+Sarah 说：``Mike，你又犯了同样的错误。''
+
+``我知道。又把所有钱押在一个地方了。''
+
+``不只是这个。\textbf{你总是在高点买，在低点卖。这叫追涨杀跌。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{教训}\label{ux6559ux8bad-2}
+
+\subsubsection{教训
+1：大到不能倒也会倒}\label{ux6559ux8bad-1ux5927ux5230ux4e0dux80fdux5012ux4e5fux4f1aux5012}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+``不会倒''的东西 & 结果 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+安然 & 倒了 \\
+雷曼兄弟 & 倒了 \\
+硅谷银行 & 倒了 \\
+\end{longtable}
+}
+
+\textbf{没有什么是绝对安全的。}
+
+\subsubsection{教训
+2：政府不一定救你}\label{ux6559ux8bad-2ux653fux5e9cux4e0dux4e00ux5b9aux6551ux4f60}
+
+雷曼之后，政府救了 AIG、救了银行。
+
+但雷曼本身没被救。
+
+\textbf{不要把命运押在''政府会救''上。}
+
+\subsubsection{教训
+3：危机是机会}\label{ux6559ux8bad-3ux5371ux673aux662fux673aux4f1a}
+
+2008 年，Sarah 让我买指数基金。
+
+``现在是买股票的时候。''
+
+``你疯了？世界要完蛋了！''
+
+``\textbf{世界不会完蛋。恐惧是最好的买入信号。}''
+
+我买了。15 年后，涨了 4 倍多。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{危机中做什么}\label{ux5371ux673aux4e2dux505aux4ec0ux4e48}
+
+\subsubsection{如果你有钱}\label{ux5982ux679cux4f60ux6709ux94b1}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{不要恐慌卖出} --- 锁定亏损是最蠢的事
+\item
+  \textbf{考虑加仓} --- 如果你相信经济会复苏
+\item
+  \textbf{分批买入} --- 不要一次 all in
+\end{enumerate}
+
+\subsubsection{如果你没钱}\label{ux5982ux679cux4f60ux6ca1ux94b1}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{保护工作} --- 现金流比投资回报重要
+\item
+  \textbf{不要借钱投资} --- 这是赌博
+\item
+  \textbf{等待} --- 下一次机会会来
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-11}
+
+\begin{quote}
+\textbf{大到不能倒只是意味着倒得更慢，不是不会倒。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-11}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我不相信任何''绝对安全''的投资
+\item[$\square$]
+  我分散了投资，不把所有钱放一个地方
+\item[$\square$]
+  我有现金储备，可以在危机中加仓
+\item[$\square$]
+  我不会在恐慌中卖出
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{13-meme-stocks.md}{表情包不是投资}
+
+\newpage
+
+\section{第十三章：表情包不是投资}\label{ux7b2cux5341ux4e09ux7ae0ux8868ux60c5ux5305ux4e0dux662fux6295ux8d44}
+
+\begin{quote}
+\textbf{2021 年 GameStop 和加密货币狂潮}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{发生了什么}\label{ux53d1ux751fux4e86ux4ec0ux4e48-3}
+
+\subsubsection{GameStop (GME)}\label{gamestop-gme}
+
+2021 年，Reddit 上的散户决定联合起来。
+
+目标：让做空 GameStop 的华尔街空头爆仓。
+
+口号：\textbf{``To the moon！🚀''}
+
+GameStop 从 \$20 涨到 \$483。一周之内。
+
+Mike 的儿子 Tommy 把大学学费买了 GME。
+
+他赚了钱。然后亏了。然后又赚了。然后全亏了。
+
+``至少，'' Tommy 说，``我们发了一条信息。''
+
+``什么信息？''
+
+``呃\ldots{} 散户的力量？''
+
+\subsubsection{加密货币}\label{ux52a0ux5bc6ux8d27ux5e01}
+
+同一年，Elon Musk 在推特上发了一只狗。
+
+Dogecoin 从 \$0.01 涨到 \$0.70。
+
+Tommy 说：``Jim 叔叔，你必须买 Dogecoin。''
+
+``为什么？''
+
+``因为 Elon Musk 发了一只狗！''
+
+我没买。
+
+Dogecoin 现在 \$0.08。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{为什么会发生}\label{ux4e3aux4ec0ux4e48ux4f1aux53d1ux751f-2}
+
+\subsubsection{1. 疫情无聊}\label{ux75abux60c5ux65e0ux804a}
+
+2020-2021 年，大家都在家里。
+
+没事干，就炒股。
+
+\subsubsection{2. 免费交易}\label{ux514dux8d39ux4ea4ux6613}
+
+Robinhood 让交易变成游戏。
+
+没有手续费。点一下就买入。
+
+\textbf{太容易了，所以太随便了。}
+
+\subsubsection{3. 社交媒体}\label{ux793eux4ea4ux5a92ux4f53}
+
+Reddit、Twitter、TikTok\ldots{}
+
+``有人在 r/wallstreetbets 说要买这个！''
+
+\textbf{投资决策变成了从众行为。}
+
+\subsubsection{4. FOMO + 表情包}\label{fomo-ux8868ux60c5ux5305}
+
+🚀 💎 🙌
+
+\textbf{当投资用表情包表达的时候，那不是投资。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{教训}\label{ux6559ux8bad-3}
+
+\subsubsection{教训 1：运动 ≠
+投资}\label{ux6559ux8bad-1ux8fd0ux52a8-ux6295ux8d44}
+
+GME 散户想''打败华尔街''。
+
+这是社会运动，不是投资策略。
+
+\textbf{运动可能是对的，但你的钱可能是错的。}
+
+\subsubsection{教训
+2：表情包不是分析}\label{ux6559ux8bad-2ux8868ux60c5ux5305ux4e0dux662fux5206ux6790}
+
+``🚀 To the moon'' 不是投资理由。
+
+``💎🙌 Diamond hands'' 不是持有策略。
+
+\textbf{真正的投资需要数字，不是表情。}
+
+\subsubsection{教训
+3：短期交易是赌博}\label{ux6559ux8bad-3ux77edux671fux4ea4ux6613ux662fux8d4cux535a}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+投资 & 赌博 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+基于价值 & 基于运气 \\
+长期持有 & 短期波动 \\
+分析决策 & 情绪决策 \\
+大多数人能赢 & 大多数人会输 \\
+\end{longtable}
+}
+
+GME、Dogecoin 这种短期炒作，大多数人亏钱。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Sarah 的评价}\label{sarah-ux7684ux8bc4ux4ef7}
+
+Sarah 说：``\textbf{任何用表情包定价的东西，都不是投资，是赌博。}''
+
+她还说：``\textbf{因为他追的是热度，不是价值。永远在追，永远在接盘。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么避免}\label{ux600eux4e48ux907fux514d-2}
+
+\subsubsection{避免方法 1：不看 Reddit/Twitter
+做投资}\label{ux907fux514dux65b9ux6cd5-1ux4e0dux770b-reddittwitter-ux505aux6295ux8d44}
+
+社交媒体是娱乐，不是投资建议。
+
+\subsubsection{避免方法
+2：问自己''这是投资还是赌博''}\label{ux907fux514dux65b9ux6cd5-2ux95eeux81eaux5df1ux8fd9ux662fux6295ux8d44ux8fd8ux662fux8d4cux535a}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+问题 & 如果是，可能是赌博 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+我是因为表情包买的吗？ & ✓ \\
+我期望一周翻倍吗？ & ✓ \\
+我不知道这个公司做什么？ & ✓ \\
+我买是因为别人都在买？ & ✓ \\
+\end{longtable}
+}
+
+\subsubsection{避免方法
+3：设一个''赌博账户''}\label{ux907fux514dux65b9ux6cd5-3ux8bbeux4e00ux4e2aux8d4cux535aux8d26ux6237}
+
+如果你真的想玩，拿出投资组合的 5\% 当''赌博账户''。
+
+亏光了也不影响生活。
+
+\textbf{但剩下的 95\%，用来认真投资。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-12}
+
+\begin{quote}
+\textbf{表情包能带来笑声，但不能带来回报。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-12}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我不根据社交媒体热度买股票
+\item[$\square$]
+  我不期望一周翻倍
+\item[$\square$]
+  我能区分投资和赌博
+\item[$\square$]
+  我的''赌博账户''不超过 5\%
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{14-ftx.md}{有效利他还是有效挪用}
+
+\newpage
+
+\section{第十四章：有效利他还是有效挪用}\label{ux7b2cux5341ux56dbux7ae0ux6709ux6548ux5229ux4ed6ux8fd8ux662fux6709ux6548ux632aux7528}
+
+\begin{quote}
+\textbf{2022 年 FTX 破产}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{发生了什么}\label{ux53d1ux751fux4e86ux4ec0ux4e48-4}
+
+Sam Bankman-Fried，30 岁，身价 260 亿美元。
+
+他创办了 FTX，一个加密货币交易所。
+
+他说他信奉''有效利他主义''------赚钱是为了捐给慈善。
+
+他穿 T 恤短裤，住在巴哈马的''公社''里，和九个室友。
+
+``我们是简朴的理想主义者。''
+
+投资人排队给他送钱。红杉资本、软银、Tom Brady\ldots{}
+
+2022 年 11 月，FTX 破产。
+
+\textbf{客户的钱\ldots{} 不见了。}
+
+原来他用客户的存款去投资、去买房子、去给自己发薪水。
+
+``有效利他主义''变成了''有效挪用''。
+
+Tommy 也亏了钱。他把剩下的几千块放在 FTX 上。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{为什么会发生}\label{ux4e3aux4ec0ux4e48ux4f1aux53d1ux751f-3}
+
+\subsubsection{1. 光环太耀眼}\label{ux5149ux73afux592aux8000ux773c}
+
+\begin{itemize}
+\tightlist
+\item
+  30 岁，260 亿身价
+\item
+  登上杂志封面
+\item
+  和名人合影
+\item
+  说要把钱全捐给慈善
+\end{itemize}
+
+\textbf{谁会怀疑一个说要把钱全捐掉的人？}
+
+\subsubsection{2. 没有人审计}\label{ux6ca1ux6709ux4ebaux5ba1ux8ba1}
+
+加密货币行业几乎没有监管。
+
+没有人检查 FTX 的账本。
+
+等发现问题的时候，钱已经没了。
+
+\subsubsection{3.
+投资人没有做功课}\label{ux6295ux8d44ux4ebaux6ca1ux6709ux505aux529fux8bfe}
+
+红杉资本投了 FTX，但没有认真尽职调查。
+
+``他太聪明了，我们相信他。''
+
+\textbf{聪明 ≠ 诚实。光环 ≠ 能力。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{教训}\label{ux6559ux8bad-4}
+
+\subsubsection{教训
+1：看行动，不看口号}\label{ux6559ux8bad-1ux770bux884cux52a8ux4e0dux770bux53e3ux53f7}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+他说的 & 他做的 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+我要把钱全捐掉 & 用客户的钱买豪宅 \\
+我们是简朴的理想主义者 & 住在巴哈马的豪华公寓 \\
+我信奉有效利他主义 & 有效挪用客户资金 \\
+\end{longtable}
+}
+
+\textbf{当一个人说他赚钱是为了帮助别人时，先看看他怎么花自己的钱。}
+
+\subsubsection{教训
+2：监管存在是有原因的}\label{ux6559ux8bad-2ux76d1ux7ba1ux5b58ux5728ux662fux6709ux539fux56e0ux7684}
+
+传统银行有： - 存款保险（FDIC） - 定期审计 - 资本要求 - 监管检查
+
+加密货币交易所没有这些。
+
+\textbf{``去中心化''听起来很酷，但你的钱没有保障。}
+
+\subsubsection{教训
+3：不要把钱放在不受监管的地方}\label{ux6559ux8bad-3ux4e0dux8981ux628aux94b1ux653eux5728ux4e0dux53d7ux76d1ux7ba1ux7684ux5730ux65b9}
+
+如果一个平台： - 不受监管 - 不能证明钱在哪里 - 创始人说得太好听
+
+\textbf{那不是投资平台，那是赌博平台。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{危险信号}\label{ux5371ux9669ux4fe1ux53f7}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+信号 & 意思 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+创始人说要把钱全捐掉 & 可能在道德绑架 \\
+公司不受任何监管 & 你的钱没有保障 \\
+回报高得离谱 & 可能是庞氏骗局 \\
+审计报告不存在或可疑 & 钱可能不在那里 \\
+创始人穿得太随便 & 可能是刻意的形象包装 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么避免}\label{ux600eux4e48ux907fux514d-3}
+
+\subsubsection{避免方法
+1：只用受监管的平台}\label{ux907fux514dux65b9ux6cd5-1ux53eaux7528ux53d7ux76d1ux7ba1ux7684ux5e73ux53f0}
+
+在美国： - 银行：FDIC 保险 - 券商：SIPC 保险 - 加密货币：Coinbase
+是上市公司，有一定保障
+
+\subsubsection{避免方法
+2：不要把大量资金放在加密货币交易所}\label{ux907fux514dux65b9ux6cd5-2ux4e0dux8981ux628aux5927ux91cfux8d44ux91d1ux653eux5728ux52a0ux5bc6ux8d27ux5e01ux4ea4ux6613ux6240}
+
+用来交易可以，但买完就转到自己的钱包。
+
+``Not your keys, not your coins.''
+
+\subsubsection{避免方法
+3：对''好人''保持怀疑}\label{ux907fux514dux65b9ux6cd5-3ux5bf9ux597dux4ebaux4fddux6301ux6000ux7591}
+
+骗子最喜欢装成好人。
+
+\textbf{真正的好人不需要一直强调自己是好人。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-13}
+
+\begin{quote}
+\textbf{当一个人说他赚钱是为了帮助世界时，先检查他的账本。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-13}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我只用受监管的平台
+\item[$\square$]
+  我不把大量资金放在加密货币交易所
+\item[$\square$]
+  我对''太好的人''保持怀疑
+\item[$\square$]
+  我检查平台是否有审计和保险
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{15-dont-buy-company-stock.md}{别把人力资本和金融资本放一起}
+
+\newpage
+
+\section{第十五章：别把人力资本和金融资本放一起}\label{ux7b2cux5341ux4e94ux7ae0ux522bux628aux4ebaux529bux8d44ux672cux548cux91d1ux878dux8d44ux672cux653eux4e00ux8d77}
+
+\begin{quote}
+``Sarah 说：你已经把人力资本押在那里了，不要再押金融资本。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-9}
+
+Mike 在安然工作。
+
+公司给了他 5 万美元的 bonus。他全买了公司股票。
+
+``我相信公司啊。''
+
+2001 年，安然破产。
+
+Mike 失业了。
+
+Mike 的股票归零了。
+
+\textbf{双杀。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+后来，Mike 去了雷曼。
+
+他又把所有 bonus 放在公司。
+
+2008 年，雷曼破产。
+
+Mike 又失业了。
+
+Mike 的投资又缩水了。
+
+\textbf{同样的错误，犯了两次。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{为什么这是危险的}\label{ux4e3aux4ec0ux4e48ux8fd9ux662fux5371ux9669ux7684}
+
+\subsubsection{你在公司有两种资本}\label{ux4f60ux5728ux516cux53f8ux6709ux4e24ux79cdux8d44ux672c}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+资本类型 & 意思 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{人力资本} & 你的工资、技能、职业发展 \\
+\textbf{金融资本} & 你投资的钱 \\
+\end{longtable}
+}
+
+如果你买公司股票，你在\textbf{双重押注}同一家公司。
+
+\subsubsection{风险计算}\label{ux98ceux9669ux8ba1ux7b97}
+
+\begin{verbatim}
+正常情况：
+- 人力资本在公司 A
+- 金融资本分散在 A、B、C、D...
+- A 出问题 → 你失业，但投资还在
+
+Mike 的情况：
+- 人力资本在安然
+- 金融资本也在安然
+- 安然出问题 → 失业 + 投资归零
+\end{verbatim}
+
+\textbf{这是最糟糕的分散。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-9}
+
+\subsubsection{规则
+1：不要买公司股票}\label{ux89c4ux5219-1ux4e0dux8981ux4e70ux516cux53f8ux80a1ux7968}
+
+除非： - 公司给你的 RSU/ESPP 是免费的 - 买了立刻卖掉
+
+\subsubsection{规则 2：如果有
+RSU，尽早卖}\label{ux89c4ux5219-2ux5982ux679cux6709-rsuux5c3dux65e9ux5356}
+
+很多公司给员工 RSU（限制性股票单位）。
+
+\textbf{拿到就卖。}
+
+不要因为''我相信公司''而持有。
+
+你已经用你的时间和职业押在公司了，不要再用钱押注。
+
+\subsubsection{规则 3：如果有
+ESPP，买了就卖}\label{ux89c4ux5219-3ux5982ux679cux6709-esppux4e70ux4e86ux5c31ux5356}
+
+很多公司让员工用折扣买股票（通常 15\% 折扣）。
+
+策略： 1. 用最大额度买 2. 买到就卖 3. 锁定 15\% 收益
+
+\textbf{不要持有。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{例外情况}\label{ux4f8bux5916ux60c5ux51b5}
+
+\subsubsection{如果你在 FAANG
+呢？}\label{ux5982ux679cux4f60ux5728-faang-ux5462}
+
+``可是我在 Google/Apple/Meta 工作，股票一直涨啊！''
+
+问自己：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  你能预测公司 10 年后的股价吗？
+\item
+  如果股票跌 50\%，你还失业，你能承受吗？
+\item
+  你比市场更了解公司吗？
+\end{enumerate}
+
+\textbf{如果答案是''不确定''，就卖。}
+
+Sarah 在 Google 工作了 16 年，但她： - 定期卖出 RSU -
+用卖出的钱买指数基金 - 保持分散
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{真实数据}\label{ux771fux5b9eux6570ux636e}
+
+公司股票占投资组合的最大比例：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+风险承受力 & 最大占比 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+保守 & 5\% \\
+中等 & 10\% \\
+激进 & 15\% \\
+\end{longtable}
+}
+
+\textbf{超过这个比例就该卖了。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-14}
+
+\begin{quote}
+\textbf{你的工资已经押在公司了，别再用存款押注。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-14}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我没有持有大量公司股票（\textless{} 10\%）
+\item[$\square$]
+  我拿到 RSU 就卖
+\item[$\square$]
+  我参加 ESPP 是为了折扣，不是长期持有
+\item[$\square$]
+  我的人力资本和金融资本是分开的
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{16-plan-b.md}{永远要有 Plan B}
+
+\newpage
+
+\section{第十六章：永远要有 Plan
+B}\label{ux7b2cux5341ux516dux7ae0ux6c38ux8fdcux8981ux6709-plan-b}
+
+\begin{quote}
+``Sarah 说：在职场上，永远要有 Plan B。不要把你的命运完全交给别人。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-10}
+
+2011 年，我在 DataSphere 工作。
+
+老板是印度人。他的老板也是印度人。我不是他们的''自己人''。
+
+六个月后，绩效评估。
+
+``Jim，你的技术能力很好，但你的文化融合需要提升。''
+
+我明白了。我永远不会是他们中的一员。
+
+我辞职了。
+
+那天晚上，我给 Sarah 打电话。
+
+``我被赶出来了。''
+
+``\textbf{但你有 Plan B 吗？}''
+
+``什么 Plan B？''
+
+``\textbf{存款。技能。人脉。期权只是锦上添花，真正的安全感来自你银行账户里的数字。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{什么是 Plan B}\label{ux4ec0ux4e48ux662f-plan-b}
+
+Plan B 不是''万一被裁员怎么办''。
+
+Plan B 是\textbf{任何情况下你都能生存的底牌}。
+
+\subsubsection{Plan B
+的三个支柱}\label{plan-b-ux7684ux4e09ux4e2aux652fux67f1}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+支柱 & 内容 & 为什么重要 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\textbf{存款} & 6-12 个月生活费 & 给你时间找下一步 \\
+\textbf{技能} & 可转移的能力 & 让你有选择 \\
+\textbf{人脉} & 可以帮你的人 & 获得机会 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{存款：你的安全垫}\label{ux5b58ux6b3eux4f60ux7684ux5b89ux5168ux57ab}
+
+\subsubsection{规则}\label{ux89c4ux5219-10}
+
+\begin{itemize}
+\tightlist
+\item
+  至少 6 个月生活费
+\item
+  放在随时能取的地方
+\item
+  不用来投资
+\end{itemize}
+
+\subsubsection{为什么是 6
+个月}\label{ux4e3aux4ec0ux4e48ux662f-6-ux4e2aux6708}
+
+找工作平均需要 3-6 个月。
+
+如果经济不好，可能更久。
+
+\textbf{没有存款，你会被迫接受第一个 offer，哪怕很烂。}
+
+有存款，你可以挑。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{技能：你的可转移能力}\label{ux6280ux80fdux4f60ux7684ux53efux8f6cux79fbux80fdux529b}
+
+\subsubsection{什么是可转移技能}\label{ux4ec0ux4e48ux662fux53efux8f6cux79fbux6280ux80fd}
+
+不依赖某家公司的能力：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+不可转移 & 可转移 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+公司内部系统 & 编程语言 \\
+公司流程 & 解决问题能力 \\
+公司人脉 & 行业人脉 \\
+公司 title & 实际能力 \\
+\end{longtable}
+}
+
+\subsubsection{怎么积累}\label{ux600eux4e48ux79efux7d2f}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{学习通用技术} --- 不要只会公司的工具
+\item
+  \textbf{做 side project} --- 证明你能独立完成东西
+\item
+  \textbf{写作/演讲} --- 建立个人品牌
+\item
+  \textbf{考证书} --- 有时候有用
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{人脉：你的机会来源}\label{ux4ebaux8109ux4f60ux7684ux673aux4f1aux6765ux6e90}
+
+\subsubsection{统计}\label{ux7edfux8ba1}
+
+\begin{quote}
+70\% 的工作是通过人脉找到的，不是招聘网站。
+\end{quote}
+
+\subsubsection{怎么建立}\label{ux600eux4e48ux5efaux7acb}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{保持联系} --- 不要只在需要帮忙时才联系人
+\item
+  \textbf{帮助别人} --- 先给予，再索取
+\item
+  \textbf{参加行业活动} --- 线上线下都可以
+\item
+  \textbf{LinkedIn} --- 保持活跃，但不要太烦人
+\end{enumerate}
+
+\subsubsection{什么时候用}\label{ux4ec0ux4e48ux65f6ux5019ux7528}
+
+\textbf{不是在你需要工作的时候才开始建立人脉。}
+
+是在你不需要的时候就开始。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{2024 年的故事}\label{ux5e74ux7684ux6545ux4e8b}
+
+我被新公司 PIP 了。
+
+三个月后，HR 给我遣散方案。
+
+24 年的职业生涯，一张支票就结束了。
+
+但这次不一样。
+
+\textbf{这次我有存款。我有技能。我有人脉。}
+
+Sarah 说：``\textbf{这次你有钱了。你可以走了。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-15}
+
+\begin{quote}
+\textbf{不要把你的命运完全交给别人。你的安全感来自你自己。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-15}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我有 6-12 个月生活费的存款
+\item[$\square$]
+  我的技能在其他公司也有用
+\item[$\square$]
+  我有行业内的人脉
+\item[$\square$]
+  我不依赖这份工作生存
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{17-best-revenge.md}{最好的报复是过得好}
+
+\newpage
+
+\section{第十七章：最好的报复是过得好}\label{ux7b2cux5341ux4e03ux7ae0ux6700ux597dux7684ux62a5ux590dux662fux8fc7ux5f97ux597d}
+
+\begin{quote}
+``Sarah 说：最好的报复是过得好。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-11}
+
+DataSphere，八个月。
+
+每天的羞辱： - 我的设计被偷走 - 空降的''表妹''抢了我的项目 -
+绩效评估说我''文化融合不好''
+
+我辞职了。
+
+那天晚上，我想着那些人。想着我受到的不公平对待。想着要不要去 Glassdoor
+上写差评。想着要不要告诉所有人这家公司有多烂。
+
+妈妈说：\textbf{``儿子，有些地方不适合你。这不意味着你错了。是那个地方错了。''}
+
+Sarah 说：\textbf{``最好的报复是过得好。''}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+后来，我回到了 AI 领域。
+
+NeuralMind 2.0。我热爱的技术。尊重我的人。
+
+2024 年，公司被收购。我的期权变成了一套房子。
+
+我不知道 DataSphere 的那些人现在怎么样了。
+
+\textbf{我也不在乎。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{为什么''过得好''是最好的报复}\label{ux4e3aux4ec0ux4e48ux8fc7ux5f97ux597dux662fux6700ux597dux7684ux62a5ux590d}
+
+\subsubsection{1.
+愤怒消耗的是你的能量}\label{ux6124ux6012ux6d88ux8017ux7684ux662fux4f60ux7684ux80fdux91cf}
+
+当你花时间恨一个人、一家公司： - 你在想他们 - 你在给他们你的注意力 -
+你在浪费你的生命
+
+\textbf{他们不在乎。你在消耗自己。}
+
+\subsubsection{2.
+成功是沉默的}\label{ux6210ux529fux662fux6c89ux9ed8ux7684}
+
+你不需要告诉任何人你过得好。
+
+当你真的过得好的时候，他们自己会知道。
+
+\subsubsection{3.
+时间会证明一切}\label{ux65f6ux95f4ux4f1aux8bc1ux660eux4e00ux5207}
+
+DataSphere 后来怎么样了？我不知道。
+
+我只知道我过得挺好的。
+
+\textbf{这就够了。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么''过得好''}\label{ux600eux4e48ux8fc7ux5f97ux597d}
+
+\subsubsection{第一步：快速离开}\label{ux7b2cux4e00ux6b65ux5febux901fux79bbux5f00}
+
+不要纠缠。不要抗争。不要试图改变一个不值得的地方。
+
+\textbf{走就是了。}
+
+\subsubsection{第二步：专注自己}\label{ux7b2cux4e8cux6b65ux4e13ux6ce8ux81eaux5df1}
+
+离开后： - 不要在社交媒体上发负面内容 - 不要和每个人抱怨 - 不要活在过去
+
+\textbf{把精力放在下一步上。}
+
+\subsubsection{第三步：做好下一件事}\label{ux7b2cux4e09ux6b65ux505aux597dux4e0bux4e00ux4ef6ux4e8b}
+
+找到值得你付出的地方。
+
+做出成绩。
+
+\textbf{成功是最响亮的回应。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{什么时候该走}\label{ux4ec0ux4e48ux65f6ux5019ux8be5ux8d70}
+
+不是所有战斗都值得打。
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+值得打的仗 & 不值得打的仗 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+你能改变结果 & 结果已经决定了 \\
+有明确的利益 & 只是为了''争口气'' \\
+对方是讲理的人 & 对方根本不在乎 \\
+胜算 \textgreater{} 50\% & 注定会输 \\
+\end{longtable}
+}
+
+DataSphere 是一场不值得打的仗。
+
+走开，是最聪明的选择。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{妈妈的话}\label{ux5988ux5988ux7684ux8bdd}
+
+\begin{quote}
+``儿子，不是每一场仗都值得打。有时候最聪明的做法是走开。''
+\end{quote}
+
+\begin{quote}
+``有些地方不适合你。这不意味着你错了。是那个地方错了。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-16}
+
+\begin{quote}
+\textbf{活得好，是最有力的回应。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-16}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我不在社交媒体上发负面内容
+\item[$\square$]
+  我不花时间恨任何人
+\item[$\square$]
+  我把精力放在自己的成长上
+\item[$\square$]
+  我已经走出了过去
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{18-529-plan.md}{529 计划：税务利器}
+
+\newpage
+
+\section{第十八章：529
+计划：税务利器}\label{ux7b2cux5341ux516bux7ae0529-ux8ba1ux5212ux7a0eux52a1ux5229ux5668}
+
+\begin{quote}
+``妈妈说：给孩子最好的投资，不是房子，是教育。但别忘了，政府也可以帮忙。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{什么是 529 计划}\label{ux4ec0ux4e48ux662f-529-ux8ba1ux5212}
+
+529 计划是美国的教育储蓄账户。
+
+\textbf{简单说：投进去的钱用于教育时免税。}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+特点 & 说明 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+联邦税 & 增长和取出都免税（用于教育时） \\
+州税 & 很多州有额外减税优惠 \\
+用途 & 学费、住宿、书本、电脑 \\
+限制 & 只能用于教育，否则有罚款 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{为什么要用 529}\label{ux4e3aux4ec0ux4e48ux8981ux7528-529}
+
+\subsubsection{例子}\label{ux4f8bux5b50}
+
+假设你为孩子存 \$500/月，18 年：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+账户类型 & 18 年后总值 & 备注 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+普通投资账户 & \textasciitilde\$190,000 & 要交资本利得税 \\
+529 账户 & \textasciitilde\$220,000 & 全部免税 \\
+\end{longtable}
+}
+
+\textbf{差距：\$30,000}
+
+这是税的力量。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么开 529}\label{ux600eux4e48ux5f00-529}
+
+\subsubsection{第一步：选择州}\label{ux7b2cux4e00ux6b65ux9009ux62e9ux5dde}
+
+你可以开任何州的 529，但有些州给本州居民额外减税。
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+你住的州 & 建议 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+有州税减免的州 & 开本州的 529 \\
+没有州税的州（如 Texas） & 选费用最低的（如 Utah、Nevada） \\
+州税减免不多 & 选投资选项最好的 \\
+\end{longtable}
+}
+
+\subsubsection{第二步：开户}\label{ux7b2cux4e8cux6b65ux5f00ux6237}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  去州 529 官网
+\item
+  填写信息（你是账户持有人，孩子是受益人）
+\item
+  选择投资组合（推荐：目标日期基金）
+\item
+  设置自动转账
+\end{enumerate}
+
+\subsubsection{第三步：每月定投}\label{ux7b2cux4e09ux6b65ux6bcfux6708ux5b9aux6295}
+
+设一个自动转账：
+
+\begin{itemize}
+\tightlist
+\item
+  发工资 → 自动转 \$X 到 529
+\item
+  不要想，不要看，让它自己涨
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{常见问题}\label{ux5e38ux89c1ux95eeux9898-1}
+
+\subsubsection{Q：孩子不上大学怎么办？}\label{qux5b69ux5b50ux4e0dux4e0aux5927ux5b66ux600eux4e48ux529e}
+
+三个选择：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{转给其他家庭成员} --- 兄弟姐妹、侄子侄女、甚至你自己
+\item
+  \textbf{用于 K-12 私立学校} --- 每年最多 \$10,000
+\item
+  \textbf{取出来交罚款} --- 10\% 罚款 + 补税（不推荐）
+\end{enumerate}
+
+\subsubsection{Q：存多少够？}\label{qux5b58ux591aux5c11ux591f}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+学校类型 & 估算 4 年费用（2025年） & 每月定投 18 年 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+公立（州内） & \$100,000 & \textasciitilde\$300/月 \\
+公立（州外） & \$180,000 & \textasciitilde\$550/月 \\
+私立 & \$320,000 & \textasciitilde\$950/月 \\
+\end{longtable}
+}
+
+\textbf{不需要存满全部。有助学金、奖学金、学生贷款。}
+
+存能存的，不要有压力。
+
+\subsubsection{Q：影响助学金吗？}\label{qux5f71ux54cdux52a9ux5b66ux91d1ux5417}
+
+529 账户在助学金计算中影响很小。
+
+父母名下的 529 只算约 5.64\%。
+
+影响不大。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{规则}\label{ux89c4ux5219-11}
+
+\subsubsection{规则
+1：尽早开始}\label{ux89c4ux5219-1ux5c3dux65e9ux5f00ux59cb}
+
+复利需要时间。
+
+孩子出生就开 529，不要等。
+
+\subsubsection{规则 2：自动化}\label{ux89c4ux5219-2ux81eaux52a8ux5316}
+
+设置每月自动转账。
+
+不要靠意志力。
+
+\subsubsection{规则
+3：选择低费率}\label{ux89c4ux5219-3ux9009ux62e9ux4f4eux8d39ux7387}
+
+529 也有费率差异。
+
+选费率 \textless{} 0.5\% 的。
+
+\subsubsection{规则
+4：投资选择简单化}\label{ux89c4ux5219-4ux6295ux8d44ux9009ux62e9ux7b80ux5355ux5316}
+
+选''目标日期基金''（Target Date Fund）。
+
+孩子 2042 年上大学？选 ``2042 Target Date'' 基金。
+
+\textbf{自动调整风险，不用管。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-17}
+
+\begin{quote}
+\textbf{529 是最简单的税务优惠。能用就用。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-17}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我开了 529 账户
+\item[$\square$]
+  我设置了每月自动转账
+\item[$\square$]
+  我选择了低费率的投资选项
+\item[$\square$]
+  我不会为了存 529 影响自己的退休储蓄
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{19-public-vs-private.md}{公立还是私立}
+
+\newpage
+
+\section{第十九章：公立还是私立}\label{ux7b2cux5341ux4e5dux7ae0ux516cux7acbux8fd8ux662fux79c1ux7acb}
+
+\begin{quote}
+``妈妈说：花钱能买到好教育，但最好的老师是免费的------那就是你自己。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{问题}\label{ux95eeux9898}
+
+``公立学校还是私立学校？''
+
+这是每个硅谷家长的问题。
+
+答案不是''哪个更好''，而是''什么适合你''。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{数字说话}\label{ux6570ux5b57ux8bf4ux8bdd}
+
+\subsubsection{费用对比（加州 2025
+年）}\label{ux8d39ux7528ux5bf9ux6bd4ux52a0ux5dde-2025-ux5e74}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+类型 & 年费用 & K-12 总费用 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+公立 & \$0 & \$0 \\
+私立普通 & \$25,000-40,000 & \$325,000-520,000 \\
+私立顶尖 & \$50,000-65,000 & \$650,000-845,000 \\
+\end{longtable}
+}
+
+\textbf{私立 K-12 可能比大学还贵。}
+
+\subsubsection{机会成本}\label{ux673aux4f1aux6210ux672c}
+
+如果把 \$50,000/年 投到指数基金，18 年后：
+
+\begin{verbatim}
+每年 $50,000
+× 18 年
+× 7% 年化回报
+= ~$1,700,000
+\end{verbatim}
+
+\textbf{一百七十万美元。}
+
+这是选择私立学校的真实成本。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{什么时候值得}\label{ux4ec0ux4e48ux65f6ux5019ux503cux5f97}
+
+\subsubsection{公立学校足够好的情况}\label{ux516cux7acbux5b66ux6821ux8db3ux591fux597dux7684ux60c5ux51b5}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+条件 & 说明 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+你住在好学区 & Cupertino、Palo Alto、Fremont \\
+孩子没有特殊需求 & 标准课程能满足 \\
+你愿意补充课外 & 课后班、夏令营、家庭教育 \\
+\end{longtable}
+}
+
+\subsubsection{私立学校值得考虑的情况}\label{ux79c1ux7acbux5b66ux6821ux503cux5f97ux8003ux8651ux7684ux60c5ux51b5}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+条件 & 说明 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+孩子有特殊需求 & 学习障碍、天才儿童 \\
+公立学区很差 & 搬家成本太高 \\
+宗教/价值观 & 特定教育理念 \\
+你真的负担得起 & 不影响退休储蓄 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{隐藏的选项}\label{ux9690ux85cfux7684ux9009ux9879}
+
+\subsubsection{选项
+1：买房进好学区}\label{ux9009ux9879-1ux4e70ux623fux8fdbux597dux5b66ux533a}
+
+在好学区买房可能比私立学校更划算：
+
+\begin{verbatim}
+Cupertino 房子 vs Los Gatos 房子差价：~$500,000
+但这是资产，不是消费
+18 年后房子可能增值
+\end{verbatim}
+
+\textbf{房子会涨，学费不会回来。}
+
+\subsubsection{选项 2：公立 +
+补充}\label{ux9009ux9879-2ux516cux7acb-ux8865ux5145}
+
+公立学校 + 课外活动：
+
+\begin{verbatim}
+公立学校：$0
+钢琴课：$5,000/年
+编程课：$3,000/年
+夏令营：$5,000/年
+家教：$5,000/年
+---
+总计：~$18,000/年
+\end{verbatim}
+
+\textbf{比私立便宜一半，灵活度更高。}
+
+\subsubsection{选项
+3：只念私立高中}\label{ux9009ux9879-3ux53eaux5ff5ux79c1ux7acbux9ad8ux4e2d}
+
+有些家庭的策略：
+
+\begin{itemize}
+\tightlist
+\item
+  K-8：公立
+\item
+  9-12：私立
+\end{itemize}
+
+高中 4 年私立：\$200,000 vs K-12 私立：\$700,000
+
+\textbf{省了 \$500,000。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{真正的问题}\label{ux771fux6b63ux7684ux95eeux9898}
+
+问自己：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{为什么想让孩子上私立？}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    如果是''大家都上''，那不是好理由
+  \item
+    如果是''孩子有特殊需求''，那值得考虑
+  \end{itemize}
+\item
+  \textbf{这会影响你的财务安全吗？}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    如果要借钱、动用退休金 → 不值得
+  \item
+    如果轻松负担 → 可以考虑
+  \end{itemize}
+\item
+  \textbf{孩子真的需要吗？}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    有些孩子在任何环境都能成功
+  \item
+    有些孩子需要特定环境
+  \end{itemize}
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{妈妈的观点}\label{ux5988ux5988ux7684ux89c2ux70b9}
+
+妈妈在 Baton Rouge 的公立学校读书。
+
+她说：``\textbf{学校教知识，家庭教做人。好学校是加分，不是必须。}''
+
+Sarah 从 Berkeley 毕业，公立大学。
+
+她说：``\textbf{我认识的最成功的人，不是从最好的学校出来的。是那些最努力的人。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-18}
+
+\begin{quote}
+\textbf{教育投资要算账，但最好的投资是你花在孩子身上的时间。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-18}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我知道公立和私立的真实费用差异
+\item[$\square$]
+  我考虑了机会成本
+\item[$\square$]
+  我的选择不会影响退休储蓄
+\item[$\square$]
+  我问过孩子需要什么
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{20-beyond-ivy.md}{爬藤不是唯一的路}
+
+\newpage
+
+\section{第二十章：爬藤不是唯一的路}\label{ux7b2cux4e8cux5341ux7ae0ux722cux85e4ux4e0dux662fux552fux4e00ux7684ux8def}
+
+\begin{quote}
+``妈妈说：成功的路有很多条。藤校只是其中一条，还是最拥挤的那条。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{硅谷的焦虑}\label{ux7845ux8c37ux7684ux7126ux8651}
+
+在硅谷，有一种病叫''爬藤焦虑''。
+
+症状： - 从幼儿园开始规划''藤校路径'' - 花 \$500/小时找升学顾问 -
+让孩子学 10 种乐器和 5 种运动 - 凌晨 2 点还在改孩子的申请文书
+
+最终结果：
+
+\textbf{藤校录取率 \textless{} 5\%。}
+
+\textbf{95\% 的孩子会''失败''。}
+
+但他们真的失败了吗？
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{数字说话}\label{ux6570ux5b57ux8bf4ux8bdd-1}
+
+\subsubsection{藤校 vs
+州立大学}\label{ux85e4ux6821-vs-ux5ddeux7acbux5927ux5b66}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+学校 & 4 年费用 & 毕业后薪资 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+哈佛 & \$320,000 & \$90,000 起薪 \\
+UC Berkeley & \$120,000（州内） & \$85,000 起薪 \\
+差距 & \$200,000 & \$5,000/年 \\
+\end{longtable}
+}
+
+\textbf{要多少年才能赚回 \$200,000 的差价？}
+
+\subsubsection{真实的成功案例}\label{ux771fux5b9eux7684ux6210ux529fux6848ux4f8b}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+名字 & 学校 & 成就 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+Steve Jobs & Reed College（辍学） & Apple 创始人 \\
+Larry Ellison & UIUC（辍学） & Oracle 创始人 \\
+Jensen Huang & Oregon State & Nvidia 创始人 \\
+Sarah Chen & UC Berkeley & Google 退休，财务自由 \\
+\end{longtable}
+}
+
+\textbf{藤校不是成功的必要条件。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{真正重要的是什么}\label{ux771fux6b63ux91cdux8981ux7684ux662fux4ec0ux4e48}
+
+\subsubsection{1. 专业选择 \textgreater{}
+学校排名}\label{ux4e13ux4e1aux9009ux62e9-ux5b66ux6821ux6392ux540d}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+专业 & 州立大学薪资 & 藤校薪资 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+计算机 & \$110,000 & \$120,000 \\
+社会学 & \$45,000 & \$50,000 \\
+\end{longtable}
+}
+
+\textbf{计算机专业的州立毕业生比社会学的藤校毕业生赚得多。}
+
+\subsubsection{2. 技能 \textgreater{}
+学历}\label{ux6280ux80fd-ux5b66ux5386}
+
+雇主最看重的： 1. 能解决问题 2. 能和人合作 3. 能持续学习 4.
+有实际项目经验
+
+\textbf{学历只是敲门砖。能力才是护城河。}
+
+\subsubsection{3.
+人脉可以后天建立}\label{ux4ebaux8109ux53efux4ee5ux540eux5929ux5efaux7acb}
+
+``藤校的价值是人脉。''
+
+这是真的。但人脉也可以在工作中建立。
+
+Sarah 在 Google 16 年，她的人脉比任何藤校都强。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{更聪明的路径}\label{ux66f4ux806aux660eux7684ux8defux5f84}
+
+\subsubsection{路径 1：州立名校 +
+存钱}\label{ux8defux5f84-1ux5ddeux7acbux540dux6821-ux5b58ux94b1}
+
+去 UC Berkeley / UCLA / UT Austin / Georgia Tech。
+
+省下 \$200,000 差价。
+
+用这笔钱创业、投资、或者读研。
+
+\subsubsection{路径 2：社区大学 →
+转学}\label{ux8defux5f84-2ux793eux533aux5927ux5b66-ux8f6cux5b66}
+
+加州社区大学 → UC 系统转学。
+
+2 年社区大学：\$10,000 2 年 UC Berkeley：\$60,000 总计：\$70,000
+
+\textbf{一样的学位，三分之一的价格。}
+
+\subsubsection{路径
+3：技术路线}\label{ux8defux5f84-3ux6280ux672fux8defux7ebf}
+
+Coding Bootcamp：\$15,000-20,000 培训时间：3-6 个月
+起薪：\$80,000-120,000
+
+\textbf{4 年 vs 6 个月。\$300,000 vs \$20,000。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{给家长的话}\label{ux7ed9ux5bb6ux957fux7684ux8bdd}
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{别把你的焦虑传给孩子}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    你的面子不应该成为孩子的压力
+  \end{itemize}
+\item
+  \textbf{成功有很多定义}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    赚钱？快乐？有意义的工作？
+  \item
+    藤校不保证任何一个
+  \end{itemize}
+\item
+  \textbf{最好的投资是陪伴}
+
+  \begin{itemize}
+  \tightlist
+  \item
+    花 \$50 万请顾问 vs 每天陪孩子 1 小时
+  \item
+    后者的回报更高
+  \end{itemize}
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{妈妈的话}\label{ux5988ux5988ux7684ux8bdd-1}
+
+妈妈没读过大学。
+
+她在 Baton Rouge 开了一家餐馆，养大了我。
+
+她说：``\textbf{儿子，我没有给你藤校，但我给了你正确的价值观。这比任何学位都值钱。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-19}
+
+\begin{quote}
+\textbf{藤校是通往成功的一条路，但不是唯一的路，也不是最好的路。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-19}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我没有把自己的焦虑传给孩子
+\item[$\square$]
+  我考虑了投资回报率，不只是排名
+\item[$\square$]
+  我支持孩子找到适合自己的路
+\item[$\square$]
+  我知道成功的定义不只是名校
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{21-kids-financial-literacy.md}{财商教育从小开始}
+
+\newpage
+
+\section{第二十一章：财商教育从小开始}\label{ux7b2cux4e8cux5341ux4e00ux7ae0ux8d22ux5546ux6559ux80b2ux4eceux5c0fux5f00ux59cb}
+
+\begin{quote}
+``妈妈说：给孩子鱼，不如教孩子钓鱼。给孩子钱，不如教孩子理钱。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{问题}\label{ux95eeux9898-1}
+
+Tommy，Mike 的儿子。
+
+他用大学学费买了 GameStop。 他把剩下的钱放在 FTX 上。 他问爸爸借钱买
+Nvidia。
+
+为什么？
+
+\textbf{因为没有人教过他怎么理财。}
+
+学校不教。父母假设他''长大就会懂''。
+
+结果就是：一代又一代人在同样的地方踩同样的坑。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{什么时候开始}\label{ux4ec0ux4e48ux65f6ux5019ux5f00ux59cb}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+年龄 & 可以教的概念 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+3-5 岁 & 钱是什么，不同硬币的价值 \\
+6-8 岁 & 储蓄 vs 花费，想要 vs 需要 \\
+9-12 岁 & 预算，复利，目标储蓄 \\
+13-15 岁 & 打工赚钱，银行账户，借记卡 \\
+16-18 岁 & 投资基础，信用，税 \\
+\end{longtable}
+}
+
+\textbf{越早开始，习惯越容易形成。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{实际做法}\label{ux5b9eux9645ux505aux6cd5}
+
+\subsubsection{1.
+给零花钱，但有规则}\label{ux7ed9ux96f6ux82b1ux94b1ux4f46ux6709ux89c4ux5219}
+
+从 6 岁开始，每周固定零花钱。
+
+规则： - \textbf{存 30\%} --- 长期储蓄 - \textbf{捐 10\%} --- 慈善 -
+\textbf{花 60\%} --- 自由支配
+
+\textbf{让他们体验选择的代价。}
+
+\subsubsection{2. 三个罐子}\label{ux4e09ux4e2aux7f50ux5b50}
+
+买三个透明罐子：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+罐子 & 用途 & 规则 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+🏦 储蓄 & 长期目标 & 不能随便动 \\
+🎁 花费 & 日常想要的东西 & 可以自由花 \\
+❤️ 捐赠 & 帮助别人 & 定期捐出去 \\
+\end{longtable}
+}
+
+\textbf{可视化让孩子理解钱的流向。}
+
+\subsubsection{3. 让他们犯错}\label{ux8ba9ux4ed6ux4eecux72afux9519}
+
+孩子想用零花钱买一个垃圾玩具？
+
+\textbf{让他买。}
+
+三天后玩具坏了，他会学到教训。
+
+\textbf{10 块钱的教训比 10 万块钱的教训便宜多了。}
+
+\subsubsection{4.
+打开你的财务}\label{ux6253ux5f00ux4f60ux7684ux8d22ux52a1}
+
+很多家庭对钱讳莫如深。
+
+但孩子需要看到真实的数字：
+
+\begin{itemize}
+\tightlist
+\item
+  家庭收入多少
+\item
+  房贷多少
+\item
+  每月存多少
+\item
+  投资账户长什么样
+\end{itemize}
+
+\textbf{不是炫耀，是教育。}
+
+\subsubsection{5. 一起投资}\label{ux4e00ux8d77ux6295ux8d44}
+
+给孩子开一个托管账户（Custodial Account）。
+
+让他们选一只股票或 ETF。
+
+\begin{itemize}
+\tightlist
+\item
+  一起看财报（简化版）
+\item
+  一起讨论公司在做什么
+\item
+  一起经历涨跌
+\end{itemize}
+
+\textbf{体验是最好的老师。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关键对话}\label{ux5173ux952eux5bf9ux8bdd}
+
+\subsubsection{对话 1：想要 vs
+需要}\label{ux5bf9ux8bdd-1ux60f3ux8981-vs-ux9700ux8981}
+
+孩子：``我想要这个玩具！''
+
+你：``这是'想要'还是'需要'？''
+
+孩子：``想要。''
+
+你：``好，那你愿意用你的零花钱买吗？''
+
+\subsubsection{对话 2：复利}\label{ux5bf9ux8bdd-2ux590dux5229}
+
+用 \$100 解释复利：
+
+``如果你存 \$100，每年涨 10\%： - 1 年后：\$110 - 10 年后：\$259 - 30
+年后：\$1,745
+
+\textbf{你的钱会帮你赚钱。这就是为什么要早存。}''
+
+\subsubsection{对话 3：风险}\label{ux5bf9ux8bdd-3ux98ceux9669}
+
+``Tommy 叔叔买了 GameStop，赚了钱，又亏光了。为什么？''
+
+``因为那是赌博，不是投资。\textbf{投资是买好公司，长期持有。赌博是猜明天涨还是跌。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{推荐资源}\label{ux63a8ux8350ux8d44ux6e90}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+资源 & 适合年龄 & 类型 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+《小狗钱钱》 & 8-12 & 书 \\
+Greenlight 卡 & 8+ & 儿童借记卡 \\
+Stockpile & 13+ & 托管投资账户 \\
+``The Money Guy'' 播客 & 16+ & 播客 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-20}
+
+\begin{quote}
+\textbf{你能给孩子最好的遗产不是钱，是正确的金钱观。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-20}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  孩子有零花钱，并学会分配
+\item[$\square$]
+  我允许孩子犯小错误
+\item[$\square$]
+  我和孩子讨论家庭财务
+\item[$\square$]
+  孩子知道投资和赌博的区别
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{22-compound-time.md}{复利需要时间}
+
+\newpage
+
+\section{第二十二章：复利需要时间}\label{ux7b2cux4e8cux5341ux4e8cux7ae0ux590dux5229ux9700ux8981ux65f6ux95f4}
+
+\begin{quote}
+``妈妈说：慢慢来，才能快。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-12}
+
+2008 年，我用 15 万美元买了指数基金。
+
+2009 年，它跌到了 8 万。
+
+2024 年，它变成了 60 多万。
+
+\textbf{16 年。4 倍。}
+
+中间我做了什么？
+
+\textbf{什么都没做。}
+
+买入。持有。等待。
+
+这就是复利。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{复利的数学}\label{ux590dux5229ux7684ux6570ux5b66}
+
+\subsubsection{简单版}\label{ux7b80ux5355ux7248}
+
+假设年回报 10\%：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+年数 & \$10,000 变成 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 年 & \$11,000 \\
+5 年 & \$16,105 \\
+10 年 & \$25,937 \\
+20 年 & \$67,275 \\
+30 年 & \$174,494 \\
+40 年 & \$452,593 \\
+\end{longtable}
+}
+
+\textbf{最后 10 年赚的比前 30 年加起来还多。}
+
+这就是为什么时间这么重要。
+
+\subsubsection{72 法则}\label{ux6cd5ux5219}
+
+想知道多少年钱翻倍？
+
+\textbf{72 ÷ 年回报率 = 翻倍年数}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+年回报率 & 翻倍年数 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+6\% & 12 年 \\
+8\% & 9 年 \\
+10\% & 7.2 年 \\
+12\% & 6 年 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{时间 vs 金额}\label{ux65f6ux95f4-vs-ux91d1ux989d}
+
+\subsubsection{问题}\label{ux95eeux9898-2}
+
+谁最后有更多钱？
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lllll@{}}
+\toprule\noalign{}
+人物 & 开始年龄 & 每月投 & 投资年数 & 60 岁时 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A & 25 岁 & \$500 & 35 年 & \$1,150,000 \\
+B & 35 岁 & \$1,000 & 25 年 & \$790,000 \\
+\end{longtable}
+}
+
+\textbf{A 每个月只投一半，但最后多 36 万。}
+
+\textbf{因为 A 早开始了 10 年。}
+
+\subsubsection{教训}\label{ux6559ux8bad-5}
+
+\begin{itemize}
+\tightlist
+\item
+  开始比金额重要
+\item
+  早 10 年 \textgreater{} 多投一倍
+\item
+  最好的投资时机是 10 年前，其次是现在
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{复利的敌人}\label{ux590dux5229ux7684ux654cux4eba}
+
+\subsubsection{敌人 1：中断}\label{ux654cux4eba-1ux4e2dux65ad}
+
+停止定投，哪怕只有几年，损失巨大。
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+情况 & 60 岁时 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+25 岁开始，不中断 & \$1,150,000 \\
+25 岁开始，35-40 岁停了 5 年 & \$750,000 \\
+\end{longtable}
+}
+
+\textbf{损失 \$400,000。}
+
+\subsubsection{敌人 2：择时}\label{ux654cux4eba-2ux62e9ux65f6}
+
+试图''低买高卖''，结果错过最好的日子。
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+情况 & 20 年回报 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+一直持有 & \$64,000 → \$400,000 \\
+错过最好的 10 天 & \$64,000 → \$200,000 \\
+错过最好的 20 天 & \$64,000 → \$130,000 \\
+\end{longtable}
+}
+
+\textbf{错过 20 天，回报少了 68\%。}
+
+\subsubsection{敌人 3：高费率}\label{ux654cux4eba-3ux9ad8ux8d39ux7387}
+
+1\% 的费率差距，30 年后差 30\% 的回报。
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+费率 & \$100,000 30 年后 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+0.1\% & \$574,000 \\
+1.0\% & \$432,000 \\
+差距 & \$142,000 \\
+\end{longtable}
+}
+
+\textbf{选低费率的基金。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么利用复利}\label{ux600eux4e48ux5229ux7528ux590dux5229}
+
+\subsubsection{规则
+1：尽早开始}\label{ux89c4ux5219-1ux5c3dux65e9ux5f00ux59cb-1}
+
+不要等''有钱了再投资''。
+
+\textbf{今天开始。哪怕每月 \$100。}
+
+\subsubsection{规则
+2：永不中断}\label{ux89c4ux5219-2ux6c38ux4e0dux4e2dux65ad}
+
+自动化你的投资。
+
+发工资 → 自动转账 → 自动买入
+
+\textbf{把决策权从自己手里拿走。}
+
+\subsubsection{规则
+3：永不卖出}\label{ux89c4ux5219-3ux6c38ux4e0dux5356ux51fa}
+
+除非需要用钱，否则不卖。
+
+\textbf{每次卖出都打断复利。}
+
+\subsubsection{规则 4：低费率}\label{ux89c4ux5219-4ux4f4eux8d39ux7387}
+
+选费率 \textless{} 0.1\% 的指数基金。
+
+\textbf{Vanguard、Fidelity、Schwab。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-21}
+
+\begin{quote}
+\textbf{复利是世界第八大奇迹。但它需要时间。给它时间。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-21}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我已经开始投资了（不管金额多少）
+\item[$\square$]
+  我设置了自动定投
+\item[$\square$]
+  我不会中途停止
+\item[$\square$]
+  我选择了低费率的基金
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{23-real-wealth.md}{真正的财富是时间}
+
+\newpage
+
+\section{第二十三章：真正的财富是时间}\label{ux7b2cux4e8cux5341ux4e09ux7ae0ux771fux6b63ux7684ux8d22ux5bccux662fux65f6ux95f4}
+
+\begin{quote}
+``Sarah 说：真正的财富是时间，不是钱。钱可以买时间，但时间不能买回来。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{故事}\label{ux6545ux4e8b-13}
+
+2024 年，Sarah 给我打电话。
+
+``我上个月退休了。''
+
+``退休？你才 48 岁。''
+
+``\textbf{Google 的股票够我活三辈子。我想去画画了。}''
+
+她在 Google 工作了 16 年。选对了公司，拿了期权，持有，不动。
+
+现在她可以做任何想做的事。
+
+\textbf{这才是真正的财富------选择的自由。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{什么是''财务自由''}\label{ux4ec0ux4e48ux662fux8d22ux52a1ux81eaux7531}
+
+不是： - 拥有一千万美元 - 住豪宅开豪车 - 不用工作
+
+而是： - \textbf{可以不工作}，但选择做喜欢的事 -
+\textbf{不用担心钱}，可以专注于真正重要的事 -
+\textbf{有时间}，给家人、给自己、给世界
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{财务自由的数学}\label{ux8d22ux52a1ux81eaux7531ux7684ux6570ux5b66}
+
+\subsubsection{4\% 法则}\label{ux6cd5ux5219-1}
+
+你每年需要多少钱生活？
+
+\textbf{年支出 × 25 = 财务自由所需资金}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+年支出 & 需要的资金 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\$40,000 & \$1,000,000 \\
+\$80,000 & \$2,000,000 \\
+\$120,000 & \$3,000,000 \\
+\$200,000 & \$5,000,000 \\
+\end{longtable}
+}
+
+\subsubsection{为什么是 25 倍}\label{ux4e3aux4ec0ux4e48ux662f-25-ux500d}
+
+历史数据显示，每年取 4\%，大概率钱不会用完。
+
+这叫\textbf{安全取款率}。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{时间 vs 金钱}\label{ux65f6ux95f4-vs-ux91d1ux94b1}
+
+\subsubsection{问题}\label{ux95eeux9898-3}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+选项 A & 选项 B \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+年薪 \$200,000 & 年薪 \$150,000 \\
+每周工作 60 小时 & 每周工作 40 小时 \\
+通勤 1 小时 & 远程办公 \\
+没时间陪孩子 & 每天接孩子放学 \\
+\end{longtable}
+}
+
+\textbf{哪个更富有？}
+
+很多人选 A。
+
+但 A 的''时薪''其实更低。
+
+\subsubsection{真正的时薪}\label{ux771fux6b63ux7684ux65f6ux85aa}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+选项 & 年薪 & 实际工作时间 & 真实时薪 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+A & \$200,000 & 60h/周 + 10h 通勤 = 3,640h/年 & \$55/h \\
+B & \$150,000 & 40h/周 = 2,080h/年 & \$72/h \\
+\end{longtable}
+}
+
+\textbf{B 的时薪更高。而且有生活。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{时间的价值}\label{ux65f6ux95f4ux7684ux4ef7ux503c}
+
+你的时间值多少？
+
+\subsubsection{计算方法}\label{ux8ba1ux7b97ux65b9ux6cd5}
+
+你的年薪 ÷ 2,080 = 你的时薪
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+年薪 & 时薪 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\$100,000 & \$48 \\
+\$150,000 & \$72 \\
+\$200,000 & \$96 \\
+\end{longtable}
+}
+
+\subsubsection{用时薪做决策}\label{ux7528ux65f6ux85aaux505aux51b3ux7b56}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+任务 & 时间 & 花多少钱外包？ & 决策 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+打扫房子 & 3 小时 & \$100 & 外包（省 \$144） \\
+自己报税 & 10 小时 & \$500 & 外包（省 \$460） \\
+做饭 & 1 小时 & 但我喜欢 & 自己做（不是钱的问题） \\
+\end{longtable}
+}
+
+\textbf{有些事情花钱比花时间更值得。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{怎么买回时间}\label{ux600eux4e48ux4e70ux56deux65f6ux95f4}
+
+\subsubsection{1. 花钱买时间}\label{ux82b1ux94b1ux4e70ux65f6ux95f4}
+
+\begin{itemize}
+\tightlist
+\item
+  请清洁阿姨
+\item
+  用外卖省做饭时间（偶尔）
+\item
+  住近公司省通勤
+\item
+  请会计报税
+\end{itemize}
+
+\subsubsection{2.
+减少消费买时间}\label{ux51cfux5c11ux6d88ux8d39ux4e70ux65f6ux95f4}
+
+\begin{itemize}
+\tightlist
+\item
+  少买东西 = 少花钱 = 可以少工作
+\item
+  \$50,000 年支出 vs \$100,000 年支出
+\item
+  前者需要 \$1.25M 退休，后者需要 \$2.5M
+\end{itemize}
+
+\textbf{花得越少，越早自由。}
+
+\subsubsection{3. 投资买时间}\label{ux6295ux8d44ux4e70ux65f6ux95f4}
+
+\begin{itemize}
+\tightlist
+\item
+  今天投资 \$1,000
+\item
+  30 年后变成 \$17,000
+\item
+  那是几个月的自由
+\end{itemize}
+
+\textbf{今天的 \$1,000 = 未来的几个月。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-22}
+
+\begin{quote}
+\textbf{钱是工具，时间才是目的。用钱买时间，不要用时间换钱。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-22}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我知道我的''真实时薪''
+\item[$\square$]
+  我用时薪来做花钱决策
+\item[$\square$]
+  我在用钱买回时间
+\item[$\square$]
+  我知道我的财务自由数字
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{下一章}：\href{24-listen-to-mama.md}{听妈妈的话}
+
+\newpage
+
+\section{第二十四章：听妈妈的话}\label{ux7b2cux4e8cux5341ux56dbux7ae0ux542cux5988ux5988ux7684ux8bdd}
+
+\begin{quote}
+``妈妈总是对的。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{25 年后}\label{ux5e74ux540e}
+
+2025 年，我和 Mike、Sarah 在帕洛阿尔托的咖啡馆。
+
+我们都老了。Mike 头发白了，我腰不太好，Sarah 开始画画了。
+
+``25 年了，'' Mike 说。
+
+``是啊，25 年。''
+
+``你们学到了什么？'' Mike 问。
+
+我想了想。
+
+``听妈妈的话。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{妈妈的智慧}\label{ux5988ux5988ux7684ux667aux6167}
+
+这 25 年，我犯了很多错。但每次回头看，妈妈早就说过了。
+
+\subsubsection{关于投资}\label{ux5173ux4e8eux6295ux8d44}
+
+\begin{quote}
+``鸡蛋不要放一个篮子里。''
+\end{quote}
+
+分散投资。Mike 没听，亏了两次。
+
+\begin{quote}
+``泡沫就像可乐，喝的时候很爽，打嗝的时候很尴尬。''
+\end{quote}
+
+2000 年互联网泡沫，2021 年加密货币，每一代都有自己的泡沫。
+
+\begin{quote}
+``如果一个人说的话你听不懂，要么他是天才，要么他是骗子。天才很少。''
+\end{quote}
+
+安然、Theranos、FTX，每一个都在说''复杂的创新''。
+
+\subsubsection{关于人生}\label{ux5173ux4e8eux4ebaux751f}
+
+\begin{quote}
+``慢慢来，才能快。''
+\end{quote}
+
+复利需要时间。职业需要积累。没有捷径。
+
+\begin{quote}
+``不是每一场仗都值得打。有时候最聪明的做法是走开。''
+\end{quote}
+
+离开 DataSphere 是我做过最正确的决定之一。
+
+\begin{quote}
+``熬过冬天的树，根扎得最深。''
+\end{quote}
+
+2000 年泡沫、2008 年危机、2020 年疫情，每一次我都活下来了。
+
+\subsubsection{关于常识}\label{ux5173ux4e8eux5e38ux8bc6}
+
+\begin{quote}
+``当所有人都说一件事不可能发生的时候，它通常正在发生。''
+\end{quote}
+
+``房价不会跌。'' 2008 年跌了。 ``雷曼不会倒。'' 倒了。
+``加密货币是未来。'' FTX 没了。
+
+\begin{quote}
+``永远不要相信任何包含'永远'这个词的预测。''
+\end{quote}
+
+没有什么是永远的。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{常识 vs 聪明}\label{ux5e38ux8bc6-vs-ux806aux660e}
+
+华尔街有很多''聪明人''。
+
+他们有 MBA、博士、复杂的模型。
+
+但他们很多人亏得比普通人还惨。
+
+为什么？
+
+\textbf{因为他们太聪明了，聪明到忘记了常识。}
+
+妈妈没读过大学。她在 Baton Rouge 开餐馆。
+
+但她的建议比任何投资书都有用。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{简单的规则}\label{ux7b80ux5355ux7684ux89c4ux5219}
+
+25 年来，我学到的东西可以总结成几条：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{分散投资} --- 不要把所有鸡蛋放一个篮子
+\item
+  \textbf{长期持有} --- 复利需要时间
+\item
+  \textbf{听不懂就不投} --- 能力圈之外的钱不是你的
+\item
+  \textbf{别人恐惧时贪婪} --- 但首先要有现金
+\item
+  \textbf{不追涨杀跌} --- 系统比情绪可靠
+\item
+  \textbf{存钱} --- 真正的安全感来自银行账户
+\item
+  \textbf{人力资本和金融资本分开} --- 不买公司股票
+\item
+  \textbf{时间比钱重要} --- 钱是工具，不是目的
+\item
+  \textbf{教孩子理财} --- 最好的遗产是正确的价值观
+\item
+  \textbf{听妈妈的话} --- 常识胜过聪明
+\end{enumerate}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{最后的故事}\label{ux6700ux540eux7684ux6545ux4e8b}
+
+去年圣诞节，我回了一趟 Baton Rouge。
+
+妈妈的餐馆还在，虽然她已经不亲自掌勺了。
+
+我坐在老位置上，吃了一碗 Gumbo。
+
+Sarah 也在。她专门从旧金山飞来。
+
+``儿子，'' 妈妈问，``这是你女朋友吗？''
+
+我和 Sarah 对视了一眼，都笑了。
+
+``妈妈，我们认识 25 年了。''
+
+``那你还等什么？''
+
+Sarah 脸红了。
+
+我也脸红了。
+
+妈妈说：``\textbf{慢慢来没问题，但也不能慢到老死。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话}\label{ux4e00ux53e5ux8bdd-23}
+
+\begin{quote}
+\textbf{最复杂的问题，通常有最简单的答案。妈妈早就告诉你了。}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{检查清单}\label{ux68c0ux67e5ux6e05ux5355-23}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我遵循了简单的常识
+\item[$\square$]
+  我没有试图变得太''聪明''
+\item[$\square$]
+  我在重要的事情上花时间
+\item[$\square$]
+  我打电话给妈妈了
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{附录}：\href{appendix-b-rules.md}{阿甘的 10 条铁律}
+
+\newpage
+
+\section{25.
+退休不是终点，是转折点}\label{ux9000ux4f11ux4e0dux662fux7ec8ux70b9ux662fux8f6cux6298ux70b9}
+
+\begin{quote}
+\textbf{妈妈说：``儿子，退休不是停止工作，是可以选择工作。''}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{Sarah 的算术课}\label{sarah-ux7684ux7b97ux672fux8bfe}
+
+2020 年，Sarah 48 岁。
+
+``我要退休了。''
+
+``你疯了吗？你才 48。''
+
+``我算过了。''她拿出一张纸：
+
+\begin{verbatim}
+我的数学：
+
+Google 股票：够用 15 年
+指数基金：够用 10 年
+房子：付清了
+医保：ACA 搞定
+每年开支：$80,000
+
+结论：我可以活到 95 岁。
+\end{verbatim}
+
+``可是\ldots 你不怕没事做？''
+
+``\textbf{我要去画画。我等这一天等了 16 年。}''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{退休的三个数字}\label{ux9000ux4f11ux7684ux4e09ux4e2aux6570ux5b57}
+
+\subsubsection{数字一：你需要多少钱？}\label{ux6570ux5b57ux4e00ux4f60ux9700ux8981ux591aux5c11ux94b1}
+
+\textbf{简单公式}：
+
+\begin{verbatim}
+退休储蓄 = 年支出 × 25
+\end{verbatim}
+
+这叫 \textbf{4\% 法则}------每年从退休储蓄中提取 4\%，理论上可以用 30
+年以上。
+
+\textbf{举例}： - 年支出 \$60,000 → 需要 \$1,500,000 - 年支出 \$80,000 →
+需要 \$2,000,000 - 年支出 \$100,000 → 需要 \$2,500,000
+
+妈妈说： \textgreater{}
+``儿子，这只是理论。实际上，你不会花一样多的钱。60 岁和 80
+岁，开支完全不同。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{数字二：你还有多少时间？}\label{ux6570ux5b57ux4e8cux4f60ux8fd8ux6709ux591aux5c11ux65f6ux95f4}
+
+\textbf{复利的魔法}：
+
+\begin{verbatim}
+25 岁开始 vs 35 岁开始
+
+假设每月存 $500，年回报 7%：
+
+25 岁开始 → 65 岁有 $1,200,000
+35 岁开始 → 65 岁有 $567,000
+\end{verbatim}
+
+\textbf{10 年的差距 = 63 万美元}
+
+Sarah 说： \textgreater{} ``复利是时间的函数。开始得越早，终点越远。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{数字三：你的收入来源有几个？}\label{ux6570ux5b57ux4e09ux4f60ux7684ux6536ux5165ux6765ux6e90ux6709ux51e0ux4e2a}
+
+\textbf{理想的退休收入来源}：
+
+\begin{verbatim}
+1. 社保（Social Security）  —— 基础保障
+2. 退休账户（401k/IRA）    —— 税务优惠
+3. 投资收入（股息/利息）    —— 被动收入
+4. 兼职/顾问                —— 如果你想
+\end{verbatim}
+
+\textbf{Mike 的教训}： \textgreater{} ``我所有的钱都在 Enron
+股票里。退休金、401k、个人账户。 \textgreater{} 我以为我是百万富翁。
+\textgreater{} 三个月后，我一无所有。''
+
+\textbf{规则}：退休收入至少要有 2-3 个独立来源。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{退休账户：硅谷人的税务武器}\label{ux9000ux4f11ux8d26ux6237ux7845ux8c37ux4ebaux7684ux7a0eux52a1ux6b66ux5668}
+
+\subsubsection{401(k)：公司帮你存}\label{kux516cux53f8ux5e2eux4f60ux5b58}
+
+\begin{verbatim}
+2024 年限额：$23,000（50 岁以上 +$7,500）
+
+优点：
+✓ 税前存入，当年省税
+✓ 公司 Match（免费的钱！）
+✓ 自动扣款，无需纪律
+
+缺点：
+✗ 59.5 岁前取出要罚款
+✗ 取出时按收入纳税
+✗ 投资选择有限
+\end{verbatim}
+
+\textbf{妈妈的命令}： \textgreater{} ``儿子，401k 至少存到公司 Match
+的上限。不存就是白送钱给政府。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{Roth
+IRA：年轻人的最佳选择}\label{roth-iraux5e74ux8f7bux4ebaux7684ux6700ux4f73ux9009ux62e9}
+
+\begin{verbatim}
+2024 年限额：$7,000（50 岁以上 +$1,000）
+
+优点：
+✓ 税后存入，增长免税
+✓ 取出时完全免税
+✓ 退休后灵活度高
+✓ 没有强制取出要求
+
+缺点：
+✗ 收入太高不能存（$161k 单身 / $240k 夫妻）
+✗ 限额较低
+\end{verbatim}
+
+\textbf{Sarah 的建议}： \textgreater{} ``年轻时收入低，税率低。用 Roth
+IRA。 \textgreater{} 老了收入高，税率高。用 Traditional 401k。
+\textgreater{} 这叫税务套利。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{Backdoor
+Roth：高收入者的后门}\label{backdoor-rothux9ad8ux6536ux5165ux8005ux7684ux540eux95e8}
+
+如果收入超过 Roth IRA 限额：
+
+\begin{verbatim}
+步骤：
+1. 存入 Traditional IRA（非抵税）
+2. 立即转换成 Roth IRA
+3. 缴少量转换税
+4. 享受终身免税增长
+\end{verbatim}
+
+\textbf{注意}：要咨询税务专家，有 Pro Rata 规则。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{Peter Thiel 的 Roth IRA
+神话}\label{peter-thiel-ux7684-roth-ira-ux795eux8bdd}
+
+2021 年，ProPublica 爆出一个惊天秘密：
+
+\textbf{Peter Thiel 的 Roth IRA 账户里有 50 亿美元。}
+
+``等等，''Mike 说，``Roth IRA 每年限额才几千块，怎么可能变成 50 亿？''
+
+\textbf{答案：他买了自己公司的股票。}
+
+\begin{verbatim}
+Peter Thiel 的操作（1999 年）：
+
+1. 开设 Roth IRA 账户
+2. 用账户买入 PayPal 创始人股份
+3. 价格：每股 $0.001（是的，0.1 美分）
+4. 买入数量：170 万股
+5. 总成本：$1,700（在年度限额内）
+
+然后...
+
+2002 年：eBay 以 $15 亿收购 PayPal
+Peter Thiel 的股份价值：数千万美元
+
+继续...
+
+用 Roth IRA 投资 Facebook（2004 年）
+再投资 Palantir
+再投资其他创业公司
+
+2021 年：账户价值 $50 亿
+全部免税。
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Sarah 的分析}：
+
+\begin{quote}
+``这合法吗？技术上是合法的。
+
+但普通人能复制吗？不能。
+
+关键是他能用 \$0.001 买到自己创办的公司股票。 你我去买
+PayPal，要按市场价。
+
+这不是投资技巧，这是创始人特权。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{IRS 后来的反应}：
+
+\begin{verbatim}
+2021 年后，国会开始调查：
+
+拟议的限制（尚未通过）：
+- Roth IRA 超过 $10M 部分强制取出
+- 禁止买非公开交易的股票
+- 禁止买自己公司的股票
+
+现状（2024 年）：
+- 这些限制还没通过
+- 但 IRS 开始严查"低估值"交易
+- 创始人股份的估值必须合理
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{妈妈的评论}：
+
+\begin{quote}
+``儿子，Peter Thiel 是天才，但他的方法你学不来。
+
+与其羡慕别人的 50 亿， 不如老老实实每年存满 \$7,000。
+
+40 年后，你也有 100 万。 100 万免税，也很香了。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{阿甘的 Roth IRA 策略}：
+
+\begin{verbatim}
+普通人的正确姿势：
+
+1. 每年存满限额（$7,000）
+2. 投指数基金（不要瞎折腾）
+3. 40 年不动（复利做功）
+4. 退休后免税取出
+
+预期结果（7% 年回报）：
+25 岁开始 → 65 岁有 $1,500,000
+全部免税。
+
+不是 50 亿，但足够了。
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{退休的四个阶段}\label{ux9000ux4f11ux7684ux56dbux4e2aux9636ux6bb5}
+
+\subsubsection{第一阶段：积累期（25-45
+岁）}\label{ux7b2cux4e00ux9636ux6bb5ux79efux7d2fux671f25-45-ux5c81}
+
+\textbf{目标}：存得越多越好
+
+\begin{verbatim}
+策略：
+- 最大化 401k + Roth IRA
+- 投资主要放在股票
+- 承受波动，追求增长
+- 不要碰退休账户
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{第二阶段：过渡期（45-55
+岁）}\label{ux7b2cux4e8cux9636ux6bb5ux8fc7ux6e21ux671f45-55-ux5c81}
+
+\textbf{目标}：降低风险，保护本金
+
+\begin{verbatim}
+策略：
+- 逐步从股票转向债券
+- 开始规划退休后的生活
+- 计算你的"数字"
+- 考虑提前退休的可能
+\end{verbatim}
+
+Sarah 在 45 岁时： \textgreater{} ``我开始认真算了。股票从 80\% 降到
+60\%。债券从 10\% 升到 30\%。现金保持 10\%。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{第三阶段：退休初期（55-70
+岁）}\label{ux7b2cux4e09ux9636ux6bb5ux9000ux4f11ux521dux671f55-70-ux5c81}
+
+\textbf{目标}：活跃、自由、有选择
+
+\begin{verbatim}
+策略：
+- 健康是最大的投资
+- 可以做自己想做的事
+- 支出可能比工作时更高（旅行、爱好）
+- 保持一定的股票配置（对抗通胀）
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{第四阶段：退休后期（70
+岁以后）}\label{ux7b2cux56dbux9636ux6bb5ux9000ux4f11ux540eux671f70-ux5c81ux4ee5ux540e}
+
+\textbf{目标}：简化、安心、传承
+
+\begin{verbatim}
+策略：
+- 支出通常下降
+- 医疗费用上升
+- 考虑遗产规划
+- 简化投资组合
+\end{verbatim}
+
+妈妈说： \textgreater{}
+``儿子，到了这个年纪，钱不是最重要的了。重要的是有人陪你吃饭。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{提前退休？FIRE
+运动}\label{ux63d0ux524dux9000ux4f11fire-ux8fd0ux52a8}
+
+\textbf{FIRE = Financial Independence, Retire Early}
+
+\begin{verbatim}
+核心公式：
+储蓄率决定退休年限
+
+储蓄率 10% → 需要工作 51 年
+储蓄率 25% → 需要工作 32 年
+储蓄率 50% → 需要工作 17 年
+储蓄率 75% → 需要工作 7 年
+\end{verbatim}
+
+\textbf{Sarah 的看法}： \textgreater{} ``FIRE 很好，但不是每个人都适合。
+\textgreater{} 有些人需要工作的意义。 \textgreater{}
+有些人需要同事的社交。 \textgreater{} 财务自由只是工具，不是目的。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{比特币披萨：史上最贵的一餐}\label{ux6bd4ux7279ux5e01ux62abux8428ux53f2ux4e0aux6700ux8d35ux7684ux4e00ux9910}
+
+2010 年 5 月 22 日，程序员 Laszlo Hanyecz 在 Bitcoin Talk 论坛发帖：
+
+\begin{quote}
+``我愿意用 10,000 个比特币换两个披萨。''
+\end{quote}
+
+有人接单了。两个 Papa John's 披萨，价值 \$41。
+
+\textbf{那 10,000 个比特币今天值多少？}
+
+\begin{verbatim}
+比特币披萨的代价：
+
+2010 年：10,000 BTC = $41（两个披萨）
+2013 年：10,000 BTC = $1,000,000
+2017 年：10,000 BTC = $200,000,000
+2021 年：10,000 BTC = $690,000,000
+2024 年：10,000 BTC = $1,000,000,000
+
+这是人类历史上最贵的披萨。
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Mike 听完这个故事}：
+
+``所以我应该买比特币？''
+
+Sarah 说：
+
+\begin{quote}
+``你错过了重点。
+
+2010 年，Laszlo 有 10,000 个比特币。 2024 年，他还有比特币吗？
+
+\textbf{答案是：有。他还持有一些。}
+
+但大多数早期持有者？ 在 \$100 卖了。 在 \$1,000 卖了。 在 \$10,000
+卖了。
+
+\textbf{买对不难，拿住才难。}''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{妈妈的评论}：
+
+\begin{quote}
+``儿子，每个人都会讲'如果当年我买了 XXX'的故事。
+
+但没人告诉你： - 当年买了的人，99\% 早就卖了 - 拿住 14
+年不动的人，万中无一 - 那些讲故事的人，自己也没买
+
+\textbf{与其后悔没买比特币，不如想想你现在拿着什么能拿 14 年。}''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{阿甘的教训}：
+
+\begin{verbatim}
+比特币披萨的真正教训：
+
+1. 早买不如拿得住
+2. 涨 10 倍你会卖，涨 100 倍你早跑了
+3. 真正的财富来自时间，不是时机
+4. 指数基金涨得慢，但你真的能拿 40 年
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{中国资金大逃亡：谁推高了湾区房价}\label{ux4e2dux56fdux8d44ux91d1ux5927ux9003ux4ea1ux8c01ux63a8ux9ad8ux4e86ux6e7eux533aux623fux4ef7}
+
+2012 年，Sarah 想在 Palo Alto 买房。
+
+Open House 那天，她看到一个现象：
+
+\begin{quote}
+``房子标价 \$1,200,000。 来了 30 组人看房。 其中 20 组是中国人。
+最后成交价：\$1,680,000。 \textbf{全现金，无贷款。}''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{2010-2016：中国热钱涌入}\label{ux4e2dux56fdux70edux94b1ux6d8cux5165}
+
+\begin{verbatim}
+背景：
+
+2010 年：中国 GDP 超越日本，成为世界第二
+2012 年：习近平上台，反腐开始
+2013 年：中国富人开始"资产出海"
+2015 年：人民币贬值，资金加速外逃
+
+目的地：
+- 温哥华（太贵了）
+- 洛杉矶（华人太多）
+- 湾区（孩子要读书 + 科技圈）
+
+特别是：Palo Alto、Los Altos、Cupertino
+为什么？学区。
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{为什么是 Palo Alto 和 Los
+Altos？}\label{ux4e3aux4ec0ux4e48ux662f-palo-alto-ux548c-los-altos}
+
+\textbf{Mike 的观察}：
+
+\begin{quote}
+``2014 年，我去 Los Altos 看房。
+
+一栋 1960 年代的老房子，3000 sqft。 标价 \$2,800,000。
+
+我问经纪人：`这房子值这个价吗？'
+
+她说：`你不是在买房子，你是在买学区。 \textbf{Los Altos High School，API
+950+。 这个学区的房子，永远有人买。}'\,''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{中国买家的逻辑}：
+
+\begin{verbatim}
+中国家长的算法：
+
+1. 孩子要上好大学
+2. 好大学要好高中
+3. 好高中要好学区
+4. 好学区 = Palo Alto / Los Altos / Cupertino
+
+价格？不重要。
+贷款？不需要。
+房子旧？可以推倒重建。
+
+目标：让孩子进 Stanford / Berkeley / MIT
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{房价的疯狂年代}\label{ux623fux4ef7ux7684ux75afux72c2ux5e74ux4ee3}
+
+\begin{verbatim}
+Palo Alto 房价中位数：
+
+2010 年：$1,200,000
+2012 年：$1,500,000
+2014 年：$2,200,000
+2016 年：$2,800,000
+2018 年：$3,200,000
+
+8 年涨了 167%。
+同期标普 500 涨了 150%。
+
+但股票不能让你的孩子上好学校。
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{Sarah 的分析}：
+
+\begin{quote}
+``中国资金改变了湾区房产的游戏规则。
+
+以前：房价 = 收入 × 合理倍数 现在：房价 = 全球资金竞价
+
+你用贷款，人家全现金。 你按收入买，人家按资产买。
+你算投资回报，人家算孩子前途。
+
+\textbf{不同的游戏，不同的规则。}''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{2017
+年后：潮水退去}\label{ux5e74ux540eux6f6eux6c34ux9000ux53bb}
+
+\begin{verbatim}
+转折点：
+
+2017 年：中国加强外汇管制，每人每年 $50,000 限额
+2018 年：中美贸易战开始
+2020 年：疫情，中国买家无法来看房
+2022 年：利率暴涨，房价终于停滞
+
+结果：
+- 中国买家大幅减少
+- 但房价没跌多少
+- 因为库存也少了
+- 老业主有 Prop 13 保护，不想卖
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{David 的感慨}：
+
+\begin{quote}
+``我 1995 年花 \$300,000 买的房子， 2015 年值 \$2,500,000。
+
+我以为是我投资眼光好。 其实是中国人帮我抬的价。
+
+\textbf{我不是股神，我只是运气好。}''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{妈妈的总结}：
+
+\begin{quote}
+``儿子，房价这东西，短期看资金，长期看人口。
+
+中国资金来了，房价涨。 中国资金走了，房价稳。
+
+但硅谷的工作机会还在。 好学区的吸引力还在。 全世界想来美国的人还在。
+
+\textbf{你买不起？正常。这不是给工薪阶层准备的游戏。}''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{加州房产：退休的隐形炸弹}\label{ux52a0ux5ddeux623fux4ea7ux9000ux4f11ux7684ux9690ux5f62ux70b8ux5f39}
+
+2022 年，Mike 的邻居 David 要退休了。
+
+``我 1995 年买的房子，\$300,000。现在值 \$2,500,000。''
+
+``恭喜啊！''
+
+``\textbf{恭喜什么？我想卖掉搬去德州，但联邦资本利得税要交
+\$440,000。}''
+
+这就是加州退休的第一课：\textbf{你的房子可能是金手铐}。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{Prop
+13：加州最伟大的法案}\label{prop-13ux52a0ux5ddeux6700ux4f1fux5927ux7684ux6cd5ux6848}
+
+\textbf{1978 年的规则}：
+
+\begin{verbatim}
+Prop 13 核心：
+- 房产税基于购买价，不是市场价
+- 每年最多涨 2%
+- 房子不卖，税基不变
+\end{verbatim}
+
+\textbf{David 的例子}：
+
+\begin{verbatim}
+1995 年买入：$300,000
+2024 年市值：$2,500,000
+
+按 Prop 13：每年房产税 ≈ $5,000（基于调整后的购买价 ~$420,000）
+按市价算：每年房产税 ≈ $30,000
+
+每年省：$25,000
+\end{verbatim}
+
+妈妈说： \textgreater{}
+``儿子，在加州买房，就像买了终身打折卡。但你一卖，折扣就没了。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{1031
+Exchange：延税的艺术}\label{exchangeux5ef6ux7a0eux7684ux827aux672f}
+
+\textbf{联邦税法第 1031 条}：
+
+\begin{verbatim}
+规则：
+- 卖投资房产，买同类房产
+- 资本利得税可以延迟
+- 不是免税，是递延
+
+时间要求：
+- 45 天内确定新房产
+- 180 天内完成交易
+
+限制：
+- 只适用于投资房产
+- 不适用于自住房（有其他免税额）
+- 必须"同类交换"（Like-Kind）
+\end{verbatim}
+
+\textbf{David 的想法}： \textgreater{} ``我能不能用 1031 把 Palo Alto
+的房子换成德州的房子？''
+
+\textbf{答案}：可以。但你会失去 Prop 13
+的保护。而且德州虽然没有州税，但房产税是加州的 3 倍。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{Prop 19 陷阱：2020
+年的糖衣毒药}\label{prop-19-ux9677ux96312020-ux5e74ux7684ux7cd6ux8863ux6bd2ux836f}
+
+\textbf{表面的''好处''}：
+
+\begin{verbatim}
+Prop 19（2020 年生效）：
+
+"好处"：
+- 55 岁以上可以带税基搬家（全州范围）
+- 残疾人、灾民也可以
+- 最多可用 3 次
+
+听起来不错？等等...
+\end{verbatim}
+
+\textbf{真正的陷阱}：
+
+\begin{verbatim}
+Prop 19 的代价：
+
+旧规则（Prop 58）：
+- 父母房产传给子女，税基不变
+- 子女继承 $300,000 的税基
+- 继续享受低房产税
+
+新规则（Prop 19）：
+- 继承后如果不自住，重新评估市值
+- 子女继承 $2,500,000 市值的房子
+- 房产税从 $5,000 跳到 $30,000
+- 除非子女搬进去住
+\end{verbatim}
+
+\textbf{Mike 的分析}： \textgreater{} ``Prop 19 就是政府的把戏。
+\textgreater{} 表面上给老人搬家的便利。 \textgreater{}
+实际上取消了子女继承的税基保护。 \textgreater{}
+加州政府每年多收几十亿房产税。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{退休房产策略：三条路}\label{ux9000ux4f11ux623fux4ea7ux7b56ux7565ux4e09ux6761ux8def}
+
+\textbf{路线一：死守加州}
+
+\begin{verbatim}
+适合：
+- 喜欢加州气候
+- 子女在本地
+- 房子已经付清
+
+策略：
+- 继续享受 Prop 13
+- 用房子做 HELOC 应急
+- 让子女继承（如果他们愿意住）
+\end{verbatim}
+
+\textbf{路线二：1031 换房}
+
+\begin{verbatim}
+适合：
+- 有投资房产
+- 想换到其他州
+- 可以接受管理新房产
+
+策略：
+- 投资房用 1031 延税
+- 自住房用 $250k/$500k 免税额
+- 分批处理，分散税务冲击
+\end{verbatim}
+
+\textbf{路线三：直接卖掉}
+
+\begin{verbatim}
+适合：
+- 想彻底简化
+- 不在乎税
+- 子女不需要房子
+
+策略：
+- 卖房，交税，拿现金
+- 搬到低税州租房或买便宜房子
+- 用省下的生活费覆盖税
+
+算账：
+自住房卖 $2,500,000
+成本基础 $300,000
+增值 $2,200,000
+夫妻免税额 -$500,000
+应税增值 $1,700,000
+联邦税（20%） $340,000
+加州税（13.3%） $226,000
+总税 ~$566,000
+
+听起来很多？但如果你 75 岁，
+剩下的 $1,934,000 现金，
+搬到德州每年省 $25,000 房产税，
+活到 90 岁省 $375,000。
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{David
+的最终选择}\label{david-ux7684ux6700ux7ec8ux9009ux62e9}
+
+2023 年，David 65 岁。
+
+他算了三个月。
+
+最后他说：
+
+\begin{quote}
+``\textbf{我不搬了。}
+
+这房子我住了 30 年。 我老婆的骨灰撒在后院。 我女儿每周来吃晚饭。
+
+Prop 13 每年给我省 \$25,000。 这笔钱够我活得很好。
+
+我死后，让孩子们自己决定。 要么住进来，要么卖掉交税。
+那是他们的问题，不是我的。''
+\end{quote}
+
+妈妈说： \textgreater{} ``儿子，有时候最好的税务策略，是根本不卖。''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{退休的真正意义}\label{ux9000ux4f11ux7684ux771fux6b63ux610fux4e49}
+
+2024 年，Sarah 退休两年后。
+
+我问她：``退休后最大的发现是什么？''
+
+她说：
+
+\begin{quote}
+``\textbf{时间比钱贵。}
+
+我以前以为退休是关于钱的。 现在我知道，退休是关于时间的。
+
+钱可以再赚，时间不能。
+
+我现在每天画画四小时，比在 Google 开会快乐一百倍。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{阿甘的退休清单}\label{ux963fux7518ux7684ux9000ux4f11ux6e05ux5355}
+
+\begin{verbatim}
+退休账户：
+□ 401k 至少存到公司 Match 上限
+□ 开设 Roth IRA 或 Backdoor Roth
+□ 了解你的退休"数字"（年支出 × 25）
+□ 退休收入至少 2-3 个来源
+
+投资配置：
+□ 股债配置随年龄调整
+□ 不要把退休金全押一个股票
+□ 指数基金为核心，长期持有
+
+加州房产（如适用）：
+□ 理解 Prop 13 的价值
+□ 了解 Prop 19 对继承的影响
+□ 考虑 1031 Exchange 的利弊
+□ 计算卖房 vs 持有的税务成本
+
+心态准备：
+□ 想清楚退休后要做什么
+□ 买对不难，拿住才难
+□ 时间比钱贵
+\end{verbatim}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一句话总结}\label{ux4e00ux53e5ux8bddux603bux7ed3}
+
+\begin{quote}
+\textbf{妈妈说：``儿子，退休不是活够了。是终于可以好好活了。''}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{进一步阅读}\label{ux8fdbux4e00ux6b65ux9605ux8bfb}
+
+\begin{itemize}
+\tightlist
+\item
+  \href{01-never-all-in.md}{第 1 章：永远不要全押一个篮子} - 分散投资
+\item
+  \href{05-index-funds.md}{第 5 章：不知道买什么就买指数} - 简单策略
+\item
+  \href{22-compound-time.md}{第 22 章：复利需要时间} - 耐心
+\item
+  \href{23-real-wealth.md}{第 23 章：真正的财富是时间} - 自由
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{上一章}：\href{24-listen-to-mama.md}{第 24 章：听妈妈的话}
+\textbf{下一章}：\href{26-healthcare.md}{第 26
+章：医保是隐形的财富}（即将推出）
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{版本}：v0.1 \textbf{更新日期}：2025-12-30
+
+\newpage
+
+\section{附录
+A：投资决策检查清单}\label{ux9644ux5f55-aux6295ux8d44ux51b3ux7b56ux68c0ux67e5ux6e05ux5355}
+
+\begin{quote}
+每次投资前，过一遍这个清单。
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{投资前检查}\label{ux6295ux8d44ux524dux68c0ux67e5}
+
+\subsubsection{1. 基础条件 ✓}\label{ux57faux7840ux6761ux4ef6}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我有 6 个月以上的紧急备用金
+\item[$\square$]
+  我没有高息债务（信用卡等）
+\item[$\square$]
+  这是''闲钱''，5 年内不需要用
+\item[$\square$]
+  我设置了自动定投
+\end{itemize}
+
+\subsubsection{2. 理解检查 ✓}\label{ux7406ux89e3ux68c0ux67e5}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我能用三句话解释这个投资怎么赚钱
+\item[$\square$]
+  我知道如果错了会亏多少
+\item[$\square$]
+  我不是因为''别人都在买''而买
+\item[$\square$]
+  我没有被''复杂''的术语吓住
+\end{itemize}
+
+\subsubsection{3. 情绪检查 ✓}\label{ux60c5ux7eeaux68c0ux67e5}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  我不是在恐慌中卖出
+\item[$\square$]
+  我不是在狂热中买入
+\item[$\square$]
+  这是计划内的决策，不是冲动
+\item[$\square$]
+  我没有 FOMO（错过恐惧）
+\end{itemize}
+
+\subsubsection{4. 分散检查 ✓}\label{ux5206ux6563ux68c0ux67e5}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  这笔投资不超过总资产的 10\%
+\item[$\square$]
+  我没有买自己公司的股票（或很少）
+\item[$\square$]
+  我的投资组合是分散的
+\item[$\square$]
+  我有股票、债券、现金的配置
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{买入检查}\label{ux4e70ux5165ux68c0ux67e5}
+
+在点击''买入''之前：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+问题 & 答案 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+为什么买？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+持有多久？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+跌多少会卖？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+涨多少会卖？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+这是投资还是赌博？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{卖出检查}\label{ux5356ux51faux68c0ux67e5}
+
+在点击''卖出''之前：
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+问题 & 如果是''是''，可能不该卖 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+我是因为价格跌了而卖？ & ⚠️ \\
+我是因为新闻吓到了而卖？ & ⚠️ \\
+我是因为想落袋为安而卖？ & ⚠️ \\
+我是因为朋友都在卖而卖？ & ⚠️ \\
+\end{longtable}
+}
+
+\textbf{合理的卖出理由：} - {[} {]} 我需要用这笔钱 - {[} {]}
+投资逻辑发生了根本变化 - {[} {]} 有更好的投资机会
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{年度检查}\label{ux5e74ux5ea6ux68c0ux67e5}
+
+每年做一次：
+
+\subsubsection{资产配置}\label{ux8d44ux4ea7ux914dux7f6e}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+类别 & 目标占比 & 实际占比 & 需要调整 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+股票 & \_\_\_\% & \_\_\_\% & ☐ \\
+债券 & \_\_\_\% & \_\_\_\% & ☐ \\
+现金 & \_\_\_\% & \_\_\_\% & ☐ \\
+其他 & \_\_\_\% & \_\_\_\% & ☐ \\
+\end{longtable}
+}
+
+\subsubsection{费用检查}\label{ux8d39ux7528ux68c0ux67e5}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+账户 & 年费率 & 是否 \textless{} 0.5\%？ \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+\_\_\_\_\_\_\_ & \_\_\_\% & ☐ \\
+\_\_\_\_\_\_\_ & \_\_\_\% & ☐ \\
+\_\_\_\_\_\_\_ & \_\_\_\% & ☐ \\
+\end{longtable}
+}
+
+\subsubsection{安全检查}\label{ux5b89ux5168ux68c0ux67e5}
+
+\begin{itemize}
+\tightlist
+\item[$\square$]
+  紧急备用金还在
+\item[$\square$]
+  保险还有效
+\item[$\square$]
+  受益人信息是最新的
+\item[$\square$]
+  密码和 2FA 设置好了
+\end{itemize}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{危机时检查}\label{ux5371ux673aux65f6ux68c0ux67e5}
+
+当市场大跌（\textgreater{} 20\%）时：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\tightlist
+\item
+  \textbf{不要打开账户看数字}
+\item
+  \textbf{不要看财经新闻}
+\item
+  \textbf{问自己这些问题：}
+\end{enumerate}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+问题 & 答案 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+这是暂时的恐慌还是真的出问题了？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+我持有的公司还在赚钱吗？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+我有现金可以加仓吗？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+我能承受再跌 30\% 吗？ & \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \\
+\end{longtable}
+}
+
+\textbf{如果公司基本面没变，不要卖。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{打印这页}\label{ux6253ux5370ux8fd9ux9875}
+
+把这个检查清单打印出来。
+
+贴在你的电脑旁边。
+
+每次做投资决策前，过一遍。
+
+\textbf{纪律 \textgreater{} 情绪。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{返回}：\href{00-index.md}{目录}
+
+\newpage
+
+\section{附录 B：阿甘的 10
+条铁律}\label{ux9644ux5f55-bux963fux7518ux7684-10-ux6761ux94c1ux5f8b}
+
+\begin{quote}
+``25 年的智慧，浓缩成 10 条。''
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律一：分散投资}\label{ux94c1ux5f8bux4e00ux5206ux6563ux6295ux8d44}
+
+\begin{quote}
+\textbf{不要把所有鸡蛋放在一个篮子里，尤其是你工作的那个篮子。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  单只股票不超过 10\%
+\item
+  不买自己公司的股票
+\item
+  股票 + 债券 + 现金
+\end{itemize}
+
+\textbf{Mike 犯了两次错。你不要犯。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律二：安全第一}\label{ux94c1ux5f8bux4e8cux5b89ux5168ux7b2cux4e00}
+
+\begin{quote}
+\textbf{先存够六个月生活费，再想投资的事。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  紧急备用金放在随时能取的地方
+\item
+  不用这笔钱投资
+\item
+  这是你的安全垫
+\end{itemize}
+
+\textbf{没有安全垫，不要上战场。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律三：能力圈}\label{ux94c1ux5f8bux4e09ux80fdux529bux5708}
+
+\begin{quote}
+\textbf{听不懂就不要投。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  用三句话解释不清楚，不买
+\item
+  太复杂通常意味着太危险
+\item
+  大佬投资了 ≠ 安全
+\end{itemize}
+
+\textbf{安然、Theranos、FTX，都是''创新''。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律四：逆向思维}\label{ux94c1ux5f8bux56dbux9006ux5411ux601dux7ef4}
+
+\begin{quote}
+\textbf{别人恐惧时贪婪，别人贪婪时恐惧。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  市场暴跌时，考虑加仓
+\item
+  市场狂热时，保持警惕
+\item
+  但首先，你要有现金
+\end{itemize}
+
+\textbf{2008 年买入的人，赚了 4 倍。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律五：简单为王}\label{ux94c1ux5f8bux4e94ux7b80ux5355ux4e3aux738b}
+
+\begin{quote}
+\textbf{不知道买什么，就买指数基金。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  VOO / VTI / SPY
+\item
+  费率 \textless{} 0.1\%
+\item
+  买入，持有，不动
+\end{itemize}
+
+\textbf{无聊才能赚钱。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律六：自动化}\label{ux94c1ux5f8bux516dux81eaux52a8ux5316}
+
+\begin{quote}
+\textbf{把决策权从情绪手里拿走。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  每月定投，自动执行
+\item
+  不看新闻，不择时
+\item
+  设好规则，然后遵守
+\end{itemize}
+
+\textbf{系统 \textgreater{} 冲动。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律七：持有是关键}\label{ux94c1ux5f8bux4e03ux6301ux6709ux662fux5173ux952e}
+
+\begin{quote}
+\textbf{会买的是徒弟，会持有的才是师傅。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  不要因为跌了就卖
+\item
+  不要因为涨了就跑
+\item
+  复利需要时间
+\end{itemize}
+
+\textbf{16 年持有，4 倍回报。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律八：Plan B}\label{ux94c1ux5f8bux516bplan-b}
+
+\begin{quote}
+\textbf{永远不要把命运完全交给别人。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  存款：6-12 个月生活费
+\item
+  技能：可转移的能力
+\item
+  人脉：可以帮你的人
+\end{itemize}
+
+\textbf{期权是锦上添花，存款是雪中送炭。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律九：时间最贵}\label{ux94c1ux5f8bux4e5dux65f6ux95f4ux6700ux8d35}
+
+\begin{quote}
+\textbf{钱是工具，时间才是目的。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  用钱买时间，不要用时间换钱
+\item
+  财务自由 = 选择的自由
+\item
+  复利需要时间，给它时间
+\end{itemize}
+
+\textbf{Sarah 48 岁退休去画画。这才是富有。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{铁律十：听妈妈的话}\label{ux94c1ux5f8bux5341ux542cux5988ux5988ux7684ux8bdd}
+
+\begin{quote}
+\textbf{常识胜过聪明。}
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  简单的规则，长期遵守
+\item
+  不要试图变得太''聪明''
+\item
+  最复杂的问题，通常有最简单的答案
+\end{itemize}
+
+\textbf{妈妈没读过大学，但她的建议最有用。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{一页总结}\label{ux4e00ux9875ux603bux7ed3}
+
+{\def\LTcaptype{none} % do not increment counter
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+\# & 铁律 & 一句话 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & 分散投资 & 不要全押一个篮子 \\
+2 & 安全第一 & 先有安全垫 \\
+3 & 能力圈 & 听不懂就不投 \\
+4 & 逆向思维 & 恐惧时贪婪 \\
+5 & 简单为王 & 买指数基金 \\
+6 & 自动化 & 定投不择时 \\
+7 & 持有是关键 & 不要乱动 \\
+8 & Plan B & 存款技能人脉 \\
+9 & 时间最贵 & 用钱买时间 \\
+10 & 听妈妈的话 & 常识胜过聪明 \\
+\end{longtable}
+}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{打印这页}\label{ux6253ux5370ux8fd9ux9875-1}
+
+贴在你能看到的地方。
+
+每当你想做投资决策时，看一眼。
+
+\textbf{简单的规则，长期遵守，就能赢。}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{返回}：\href{00-index.md}{目录}
+
+\newpage
+
+\section{附录
+C：妈妈语录全集}\label{ux9644ux5f55-cux5988ux5988ux8bedux5f55ux5168ux96c6}
+
+\begin{quote}
+妈妈在 Baton Rouge 开餐馆。她没读过大学。但她的话比任何投资书都有用。
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于投资}\label{ux5173ux4e8eux6295ux8d44-1}
+
+\begin{quote}
+``鸡蛋不要放一个篮子里。''
+\end{quote}
+
+分散投资的最简单版本。
+
+\begin{quote}
+``泡沫就像可乐，喝的时候很爽，打嗝的时候很尴尬。''
+\end{quote}
+
+每一代人都有自己的泡沫。享受时小心，泡沫总会破。
+
+\begin{quote}
+``如果一个人说的话你听不懂，要么他是天才，要么他是骗子。天才很少。''
+\end{quote}
+
+安然、Theranos、FTX 的共同点：他们的商业模式没人能解释清楚。
+
+\begin{quote}
+``熬过冬天的树，根扎得最深。''
+\end{quote}
+
+2000 年、2008 年、2020 年的危机都过去了。活下来的人更强。
+
+\begin{quote}
+``当所有人都说一件事不可能发生的时候，它通常正在发生。''
+\end{quote}
+
+``房价不会跌''、``雷曼不会倒''------这些话说完没多久就应验了。
+
+\begin{quote}
+``永远不要相信任何包含'永远'这个词的预测。''
+\end{quote}
+
+没有什么是永远的。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于人生}\label{ux5173ux4e8eux4ebaux751f-1}
+
+\begin{quote}
+``慢慢来，才能快。''
+\end{quote}
+
+妈妈在我去硅谷时说的。复利需要时间。职业需要积累。没有捷径。
+
+\begin{quote}
+``不是每一场仗都值得打。有时候最聪明的做法是走开。''
+\end{quote}
+
+离开不适合你的地方，不是失败，是智慧。
+
+\begin{quote}
+``有些地方不适合你。这不意味着你错了。是那个地方错了。''
+\end{quote}
+
+DataSphere 的经历教会我这个道理。
+
+\begin{quote}
+``你种的树，不一定是你乘凉的树。但至少你种过。''
+\end{quote}
+
+关于 cross-training 那些年轻人。给予不一定有回报，但给予本身有意义。
+
+\begin{quote}
+``慢慢来没问题，但也不能慢到老死。''
+\end{quote}
+
+关于我和 Sarah 的关系。在重要的事情上，不要拖太久。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于常识}\label{ux5173ux4e8eux5e38ux8bc6-1}
+
+\begin{quote}
+``做生意就像熬 Gumbo，火候要对，材料要好，最重要的是------要有耐心。''
+\end{quote}
+
+耐心是一切的基础。
+
+\begin{quote}
+``机会来的时候，通常长得不像机会。''
+\end{quote}
+
+2004 年 Google 的 offer，2004 年 Kevin 去的
+Facebook。当时没人觉得是机会。
+
+\begin{quote}
+``当你因为一只狗的图片买股票时，你买的不是投资，是彩票。''
+\end{quote}
+
+关于 Dogecoin。表情包不是投资理由。
+
+\begin{quote}
+``当一个人说他赚钱是为了帮助别人时，先看看他怎么花自己的钱。''
+\end{quote}
+
+关于 SBF 和''有效利他主义''。行动比口号更真实。
+
+\begin{quote}
+``自信和能力是两回事。骗子通常自信满满，因为他们知道自己在骗你。''
+\end{quote}
+
+关于 Elizabeth Holmes 和 Theranos。自信不等于能力。
+
+\begin{quote}
+``银行就像医生------你觉得他们很可靠，直到你真正需要他们的时候。''
+\end{quote}
+
+2023 年硅谷银行倒闭。没有什么是绝对安全的。
+
+\begin{quote}
+``工具不会取代人，但会用工具的人会取代不会用工具的人。''
+\end{quote}
+
+关于 AI。学会使用新工具，不要害怕它们。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于教育}\label{ux5173ux4e8eux6559ux80b2}
+
+\begin{quote}
+``给孩子鱼，不如教孩子钓鱼。给孩子钱，不如教孩子理钱。''
+\end{quote}
+
+财商教育比留下遗产更重要。
+
+\begin{quote}
+``学校教知识，家庭教做人。好学校是加分，不是必须。''
+\end{quote}
+
+关于公立 vs 私立的争论。
+
+\begin{quote}
+``花钱能买到好教育，但最好的老师是免费的------那就是你自己。''
+\end{quote}
+
+父母的陪伴比学费更重要。
+
+\begin{quote}
+``儿子，我没有给你藤校，但我给了你正确的价值观。这比任何学位都值钱。''
+\end{quote}
+
+妈妈对教育的总结。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{最后一句}\label{ux6700ux540eux4e00ux53e5}
+
+\begin{quote}
+``儿子，你确定你在投资，不是在赌博？''
+\end{quote}
+
+每次做投资决策前，问自己这个问题。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{返回}：\href{00-index.md}{目录}
+
+\newpage
+
+\section{附录 D：Sarah
+语录全集}\label{ux9644ux5f55-dsarah-ux8bedux5f55ux5168ux96c6}
+
+\begin{quote}
+Sarah 在 Google 工作了 16 年。48
+岁退休去画画。她的投资建议比任何财经专家都靠谱。
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于投资}\label{ux5173ux4e8eux6295ux8d44-2}
+
+\begin{quote}
+``永远不要用你的工资去买你公司的股票。你已经把人力资本押在那里了，不要再押金融资本。''
+\end{quote}
+
+Mike 听了两次还没学会。你不要犯同样的错误。
+
+\begin{quote}
+``看，这就是分散投资的意义。你的人力资本归零了，但你的金融资本还在。''
+\end{quote}
+
+2011 年 NeuralMind 倒闭时说的。期权归零，但指数基金还在。
+
+\begin{quote}
+``世界不会完蛋。恐惧是最好的买入信号。''
+\end{quote}
+
+2008 年金融危机时说的。她让我买指数基金，那笔投资涨了 4 倍。
+
+\begin{quote}
+``别人恐惧时贪婪。但首先你要有贪婪的资本------现金。''
+\end{quote}
+
+逆向投资的前提是有钱。没有现金储备，机会来了也抓不住。
+
+\begin{quote}
+``当你不知道该买什么的时候，就买整个市场。''
+\end{quote}
+
+关于指数基金。不会选股？买 VOO 就行。
+
+\begin{quote}
+``投资最难的不是买入，是持有。''
+\end{quote}
+
+2009 年市场跌到谷底时说的。很多人在最低点卖出，错过了之后的反弹。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于卖出}\label{ux5173ux4e8eux5356ux51fa}
+
+\begin{quote}
+``后悔是投资者最大的敌人。做了决定就不要回头看。''
+\end{quote}
+
+2004 年我没去 Google。她说不要后悔，向前看。
+
+\begin{quote}
+``你不可能抓住每一个机会。重要的是抓住属于你的那个。''
+\end{quote}
+
+错过 Facebook、错过 Google，不重要。重要的是抓住了 AI。
+
+\begin{quote}
+``你总是在高点买，在低点卖。这叫追涨杀跌。''
+\end{quote}
+
+对 Mike 说的。他从安然到雷曼，每次都在高点进场。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于职场}\label{ux5173ux4e8eux804cux573a}
+
+\begin{quote}
+``在职场上，永远要有 Plan B。不要把你的命运完全交给别人。''
+\end{quote}
+
+DataSphere 之后说的。存款、技能、人脉是真正的安全感。
+
+\begin{quote}
+``期权只是锦上添花，真正的安全感来自你银行账户里的数字。''
+\end{quote}
+
+不要把希望寄托在期权上。大部分期权最后都是废纸。
+
+\begin{quote}
+``最好的报复是过得好。''
+\end{quote}
+
+关于离开不好的公司。不要浪费精力恨人，把精力放在自己身上。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于财务自由}\label{ux5173ux4e8eux8d22ux52a1ux81eaux7531}
+
+\begin{quote}
+``真正的财富是时间，不是钱。钱可以买时间，但时间不能买回来。''
+\end{quote}
+
+2025 年咖啡馆里说的。她 48 岁退休去画画，这才是真正的富有。
+
+\begin{quote}
+``硅谷最大的秘密是：真正有钱的人，不是创始人，是早期员工加上长期持有股票的人。''
+\end{quote}
+
+创始人要融资会被稀释。早期员工拿期权，上市后持有。复利。时间。耐心。
+
+\begin{quote}
+``Google 的股票够我活三辈子。我想去画画了。''
+\end{quote}
+
+财务自由的定义：可以做任何想做的事。
+
+\begin{quote}
+``找一家好公司，待很久，不乱动。''
+\end{quote}
+
+她的投资策略总结。无聊，但有效。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于判断}\label{ux5173ux4e8eux5224ux65ad}
+
+\begin{quote}
+``如果一个公司的财报需要天才才能看懂，要么他们在做诺贝尔奖级别的创新，要么他们在做牢狱级别的造假。''
+\end{quote}
+
+她爸是 CPA。这是关于安然的评价。
+
+\begin{quote}
+``当所有人都在用复杂的方法解释一个简单的问题时，那个问题通常不是他们说的那个问题。''
+\end{quote}
+
+关于次贷危机。复杂是用来掩盖真相的。
+
+\begin{quote}
+``这家医疗科技公司，没有发过一篇经过同行评审的论文。''
+\end{quote}
+
+关于 Theranos。技术公司没有技术论文，很可疑。
+
+\begin{quote}
+``任何用表情包定价的东西，都不是投资，是赌博。''
+\end{quote}
+
+关于 Dogecoin 和 meme 股票。
+
+\begin{quote}
+``因为他追的是热度，不是价值。永远在追，永远在接盘。''
+\end{quote}
+
+关于 Tommy 为什么总是亏钱。
+
+\begin{quote}
+``骗子的共同特点是：他们说的话你听不懂，但他们自己很自信。''
+\end{quote}
+
+如何识别骗子的简单方法。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{关于分散}\label{ux5173ux4e8eux5206ux6563}
+
+\begin{quote}
+``这就是为什么你要分散存款。永远不要把所有钱放在一家银行。''
+\end{quote}
+
+2023 年硅谷银行倒闭后说的。
+
+\begin{quote}
+``大佬有钱可以赌。你没有。''
+\end{quote}
+
+关于那些投资 Theranos 的名人。他们亏得起，你亏不起。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{最后一句}\label{ux6700ux540eux4e00ux53e5-1}
+
+\begin{quote}
+``泡沫和革命的区别是------革命最终会创造真正的价值。但在那之前，它们看起来一模一样。''
+\end{quote}
+
+关于 2000 年互联网泡沫和 2024 年 AI
+热潮。区分的方法：看公司是不是真的在赚钱。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\textbf{返回}：\href{00-index.md}{目录}
+
+\newpage
+
+\end{document}

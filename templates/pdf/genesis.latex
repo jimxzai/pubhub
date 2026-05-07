@@ -1,0 +1,763 @@
+% PubHub Genesis Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Hebrew font support - auto-switch for Hebrew Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Genesis/Creation Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Earth and sky theme
+\definecolor{ChapterBlue}{RGB}{35,65,90}        % Deep sky blue
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{95,70,50}    % Earth brown for commentary
+\definecolor{CreationGreen}{RGB}{55,95,65}      % Garden green
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}       % Sea/river blue
+\definecolor{LandBeige}{RGB}{245,235,220}       % Land color
+\definecolor{MountainBrown}{RGB}{180,160,140}   % Mountain shading
+\definecolor{DesertTan}{RGB}{220,200,170}       % Desert areas
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{HebrewBg}{RGB}{252,248,240}        % Light tan for Hebrew
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Olive branch decoration command
+\newcommand{\olivebranch}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=CreationGreen,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=CreationGreen,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Star decoration for patriarchs
+\newcommand{\starsymbol}{%
+\begin{tikzpicture}[scale=0.12]
+  \foreach \i in {0,72,...,288} {
+    \draw[color=ScriptureGold,line width=1pt] (0,0) -- (\i:1);
+  }
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative star and line
+\starsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 起初之書}\\[0.2cm]
+{\large\itshape\color{LightGray} The Book of Beginnings}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 創世記研讀}\\[0.15cm]
+{\normalsize A Study of Genesis}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+起初，神創造天地。\\[0.15em]
+\footnotesize In the beginning, God created the\\
+heavens and the earth. — Genesis 1:1
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Patriarch Journey Map (TikZ drawn)
+\begin{tikzpicture}[scale=0.55]
+  % Title
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (3,7.2) {族長之旅 Patriarchs' Journey};
+
+  % Mediterranean Sea (left side)
+  \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
+  \node[font=\tiny,color=ChapterBlue,rotate=90] at (-0.5,3.5) {Mediterranean};
+
+  % Land area
+  \fill[LandBeige] (0.5,0) rectangle (7,6.5);
+
+  % Mesopotamia (right side)
+  \fill[DesertTan] (5.5,4) rectangle (7,6.5);
+  \node[font=\tiny,color=CommentaryBrown] at (6.25,5.5) {Mesopotamia};
+
+  % Egypt (bottom left)
+  \fill[DesertTan] (0.5,0) rectangle (2.5,1.5);
+  \node[font=\tiny,color=CommentaryBrown] at (1.5,0.8) {Egypt};
+
+  % Rivers
+  \draw[WaterBlue,line width=1.5pt] (6.5,6.5) -- (6.3,5) -- (6.8,3.5);
+  \draw[WaterBlue,line width=1.5pt] (5.8,6.5) -- (5.5,5) -- (5.8,3.5);
+
+  % Jordan River
+  \draw[WaterBlue,line width=1pt] (3.5,4.5) -- (3.3,3) -- (3.5,1.5);
+
+  % Key locations
+  \fill[ScriptureGold] (6.2,5.8) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (6.3,5.8) {Ur 吾珥};
+
+  \fill[ScriptureGold] (5.5,5.2) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (5.4,5.2) {Haran 哈蘭};
+
+  \fill[ScriptureGold] (3.2,3.5) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (3.1,3.5) {Shechem 示劍};
+
+  \fill[ScriptureGold] (3.0,2.8) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (2.9,2.8) {Bethel 伯特利};
+
+  \fill[red!70!black] (2.8,2.2) circle (0.12);
+  \node[font=\tiny\bfseries,left,color=red!70!black] at (2.7,2.2) {Hebron 希伯崙};
+
+  \fill[ScriptureGold] (1.5,1.2) circle (0.1);
+  \node[font=\tiny,color=TextGray] at (1.5,0.5) {Goshen 歌珊};
+
+  % Journey arrows
+  \draw[->,color=CreationGreen,line width=1pt] (6.2,5.6) -- (5.6,5.3);
+  \draw[->,color=CreationGreen,line width=1pt] (5.4,5.0) -- (3.4,3.6);
+  \draw[->,color=CreationGreen,line width=1pt] (3.0,3.4) -- (2.9,2.4);
+  \draw[->,color=CreationGreen,line width=1pt,dashed] (2.7,2.0) -- (1.7,1.3);
+
+  % Compass
+  \draw[->,thick,color=ChapterBlue] (0.8,5.8) -- (0.8,6.3);
+  \node[font=\tiny,color=ChapterBlue] at (0.8,6.5) {N};
+
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Structure diagram (Toledot)
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.8) {Toledot Structure 家譜結構};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (-3,1.5) {Creation};
+  \node[font=\tiny,color=LightGray] at (-3,1.1) {1-2};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (-1,1.5) {Fall};
+  \node[font=\tiny,color=LightGray] at (-1,1.1) {3-11};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (1,1.5) {Abraham};
+  \node[font=\tiny,color=LightGray] at (1,1.1) {12-25};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (3,1.5) {Jacob};
+  \node[font=\tiny,color=LightGray] at (3,1.1) {25-36};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.5cm,font=\tiny] at (0,0.3) {Joseph 約瑟};
+  \node[font=\tiny,color=LightGray] at (0,-0.1) {37-50};
+
+  \draw[->,color=ScriptureGold,thick] (-2,1.5) -- (-1.8,1.5);
+  \draw[->,color=ScriptureGold,thick] (-0.2,1.5) -- (0.2,1.5);
+  \draw[->,color=ScriptureGold,thick] (1.8,1.5) -- (2.2,1.5);
+  \draw[->,color=ScriptureGold,thick] (0,0.85) -- (0,0.6);
+\end{tikzpicture}
+
+\vfill
+
+% Equation
+{\normalsize\color{ScriptureGold}\bfseries 創造 + 墮落 + 揀選 = 救贖}\\[0.1cm]
+{\footnotesize\color{LightGray} Creation + Fall + Election = Redemption}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\starsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
+
+\end{center}
+\end{titlepage}
+
+% Illustrations Page - Noah's Ark and Altar
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 創世記圖解}\\[0.1cm]
+{\normalsize Illustrations from Genesis}
+
+\vspace{0.5cm}
+
+% Noah's Ark
+{\large\bfseries\color{ChapterBlue} 挪亞方舟 Noah's Ark (Gen 6-8)}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.7]
+  % Water
+  \fill[WaterBlue!50] (-5,-1.5) rectangle (5,-0.5);
+  \draw[WaterBlue,line width=1pt,decorate,decoration={snake,amplitude=3pt,segment length=15pt}] (-5,-0.5) -- (5,-0.5);
+
+  % Ark hull
+  \fill[CommentaryBrown!80] (-3.5,0) .. controls (-4,-0.3) and (-4,-0.5) .. (-3.5,-0.5)
+    -- (3.5,-0.5) .. controls (4,-0.5) and (4,-0.3) .. (3.5,0) -- cycle;
+
+  % Ark body
+  \fill[CommentaryBrown!60] (-3.5,0) rectangle (3.5,1.5);
+  \draw[CommentaryBrown!90,line width=0.5pt] (-3.5,0.5) -- (3.5,0.5);
+  \draw[CommentaryBrown!90,line width=0.5pt] (-3.5,1) -- (3.5,1);
+
+  % Roof
+  \fill[CommentaryBrown!70] (-3.8,1.5) -- (0,2.5) -- (3.8,1.5) -- cycle;
+
+  % Window
+  \fill[ScriptureGold!50] (-0.3,2) rectangle (0.3,2.3);
+
+  % Door
+  \fill[CommentaryBrown!40] (2,0) rectangle (2.8,1.2);
+
+  % Dove with olive branch
+  \draw[ChapterBlue,line width=1pt] (4.5,2) -- (4.8,2.2) -- (5.2,2) -- (4.8,1.8) -- cycle;
+  \draw[CreationGreen,line width=1pt] (5.2,2) -- (5.5,2.1);
+  \fill[CreationGreen] (5.5,2.1) circle (0.08);
+  \fill[CreationGreen] (5.4,2.15) circle (0.05);
+
+  % Rainbow
+  \draw[red,line width=2pt] (-3,3) arc (180:0:3);
+  \draw[orange,line width=2pt] (-2.8,3) arc (180:0:2.8);
+  \draw[yellow,line width=2pt] (-2.6,3) arc (180:0:2.6);
+  \draw[CreationGreen,line width=2pt] (-2.4,3) arc (180:0:2.4);
+  \draw[ChapterBlue,line width=2pt] (-2.2,3) arc (180:0:2.2);
+  \draw[violet,line width=2pt] (-2,3) arc (180:0:2);
+
+  % Dimensions label
+  \node[font=\tiny,color=LightGray] at (0,-1.2) {長300肘 × 寬50肘 × 高30肘};
+  \node[font=\tiny,color=LightGray] at (0,-1.6) {(約 137m × 23m × 14m)};
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Altar Offering
+{\large\bfseries\color{ChapterBlue} 燔祭壇 The Altar (Gen 22)}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.7]
+  % Ground
+  \fill[DesertTan] (-4,-0.5) rectangle (4,0);
+
+  % Stone altar
+  \fill[MountainBrown] (-1.5,0) rectangle (1.5,1);
+  \fill[MountainBrown!80] (-1.3,1) rectangle (1.3,1.3);
+
+  % Wood on altar
+  \foreach \x in {-0.8,-0.4,0,0.4,0.8} {
+    \fill[CommentaryBrown!70] (\x,1.3) rectangle (\x+0.15,1.8);
+  }
+
+  % Fire
+  \fill[orange!80] (-0.5,1.8) -- (0,2.8) -- (0.5,1.8) -- cycle;
+  \fill[red!80] (-0.3,1.8) -- (0,2.5) -- (0.3,1.8) -- cycle;
+  \fill[yellow] (-0.15,1.8) -- (0,2.2) -- (0.15,1.8) -- cycle;
+
+  % Ram in thicket (to the side)
+  \fill[MountainBrown!50] (3,0) -- (3.5,0.8) -- (3.2,0.5) -- (3.8,0.6) -- (3.3,0) -- cycle;
+  \draw[CommentaryBrown,line width=0.8pt] (3.3,0.5) circle (0.15);
+  \draw[CommentaryBrown,line width=0.8pt] (3.2,0.65) -- (3.1,0.9);
+  \draw[CommentaryBrown,line width=0.8pt] (3.4,0.65) -- (3.5,0.9);
+  \node[font=\tiny,color=TextGray] at (3.3,-0.3) {公羊};
+
+  % Abraham figure (simple)
+  \fill[ChapterBlue!60] (-2.5,0) -- (-2.5,1) -- (-2.3,1) -- (-2.3,0.5) -- (-2.1,0.5) -- (-2.1,0) -- cycle;
+  \fill[ChapterBlue!60] (-2.4,1) circle (0.15);
+
+  % Label
+  \node[font=\tiny,color=LightGray] at (0,-0.3) {耶和華以勒 — 耶和華必預備};
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Jacob's Ladder
+{\large\bfseries\color{ChapterBlue} 雅各天梯 Jacob's Ladder (Gen 28)}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.6]
+  % Ground
+  \fill[DesertTan] (-3,-0.5) rectangle (5,0);
+
+  % Jacob sleeping
+  \fill[ChapterBlue!50] (-2,0) -- (-2,0.3) -- (-1,0.3) -- (-1,0) -- cycle;
+  \fill[ChapterBlue!50] (-1.5,0.3) circle (0.15);
+
+  % Stone pillow
+  \fill[MountainBrown] (-1.8,0) rectangle (-1.4,0.2);
+
+  % Ladder
+  \draw[ScriptureGold,line width=2pt] (0.5,0) -- (3,5);
+  \draw[ScriptureGold,line width=2pt] (1.5,0) -- (4,5);
+  \foreach \y in {0.5,1,1.5,2,2.5,3,3.5,4,4.5} {
+    \draw[ScriptureGold,line width=1pt] ({0.5+\y*0.5},\y) -- ({1.5+\y*0.5},\y);
+  }
+
+  % Angels (simplified)
+  \foreach \pos in {1.2,2.4,3.6} {
+    \fill[white] ({1+\pos*0.5},\pos) circle (0.12);
+    \draw[ScriptureGold,line width=0.5pt] ({0.85+\pos*0.5},{\pos-0.1}) -- ({0.7+\pos*0.5},{\pos-0.3});
+    \draw[ScriptureGold,line width=0.5pt] ({1.15+\pos*0.5},{\pos-0.1}) -- ({1.3+\pos*0.5},{\pos-0.3});
+  }
+
+  % Heaven glow
+  \fill[ScriptureGold!30] (2.5,4.5) ellipse (1.5 and 0.8);
+  \node[font=\tiny,color=ScriptureGold] at (2.5,4.5) {天};
+
+  % Labels
+  \node[font=\tiny,color=TextGray] at (-1.5,-0.3) {伯特利};
+  \node[font=\tiny,color=LightGray] at (2,-0.5) {神的使者上去下來};
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\footnotesize\color{LightGray} 「這地方何等可畏！這不是別的，乃是神的殿，也是天的門。」— 創 28:17}
+\end{center}
+\cleardoublepage
+
+% Timeline Page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.2cm}
+{\Large\bfseries\color{ChapterBlue} 創世記時間線與世界文明}\\[0.1cm]
+{\normalsize Timeline and World Civilizations}
+
+\vspace{0.4cm}
+
+\begin{tikzpicture}[scale=0.65]
+  % Main timeline
+  \draw[ChapterBlue,line width=2pt] (0,0) -- (14,0);
+
+  % Era markers
+  \foreach \x/\label/\year in {
+    0.5/創造/4004,
+    2/洪水/2348,
+    4/巴別/2200,
+    5.5/亞伯拉罕/2091,
+    7/以撒/2066,
+    8.5/雅各/2006,
+    10/約瑟被賣/1898,
+    12/約瑟去世/1805
+  } {
+    \fill[ScriptureGold] (\x,0) circle (0.15);
+    \node[font=\tiny,rotate=45,anchor=west,color=ChapterBlue] at (\x,0.3) {\label};
+    \node[font=\tiny,color=LightGray] at (\x,-0.4) {\year};
+  }
+
+  % BC label
+  \node[font=\footnotesize,color=LightGray] at (14.5,0) {BC};
+
+  % World civilizations (below)
+  \node[font=\small\bfseries,color=CommentaryBrown] at (7,-1.5) {同期世界文明};
+
+  % Mesopotamia
+  \fill[DesertTan!50] (0,-2.5) rectangle (6,-2);
+  \node[font=\tiny,color=CommentaryBrown] at (3,-2.25) {蘇美文明 Sumer};
+
+  \fill[DesertTan!70] (5,-3) rectangle (10,-2.5);
+  \node[font=\tiny,color=CommentaryBrown] at (7.5,-2.75) {古巴比倫 Babylon};
+
+  % Egypt
+  \fill[ScriptureGold!30] (1,-3.5) rectangle (5,-3);
+  \node[font=\tiny,color=CommentaryBrown] at (3,-3.25) {埃及古王國 金字塔};
+
+  \fill[ScriptureGold!50] (6,-4) rectangle (11,-3.5);
+  \node[font=\tiny,color=CommentaryBrown] at (8.5,-3.75) {埃及中王國 (約瑟時期)};
+
+  % China
+  \fill[red!20] (5,-4.5) rectangle (11,-4);
+  \node[font=\tiny,color=red!70!black] at (8,-4.25) {中國夏朝 Xia Dynasty};
+
+  % Indus
+  \fill[CreationGreen!30] (1,-5) rectangle (9,-4.5);
+  \node[font=\tiny,color=CreationGreen!70!black] at (5,-4.75) {印度河文明 Indus Valley};
+
+  % Legend
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (12.5,-2.5) {圖例};
+  \fill[DesertTan!50] (11.5,-3) rectangle (12,-2.8);
+  \node[font=\tiny,right,color=TextGray] at (12.1,-2.9) {美索不達米亞};
+  \fill[ScriptureGold!40] (11.5,-3.4) rectangle (12,-3.2);
+  \node[font=\tiny,right,color=TextGray] at (12.1,-3.3) {埃及};
+  \fill[red!20] (11.5,-3.8) rectangle (12,-3.6);
+  \node[font=\tiny,right,color=TextGray] at (12.1,-3.7) {中國};
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Key insight box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{5in}
+\small\color{CommentaryBrown}
+\textbf{神學意義}：當亞伯拉罕蒙召離開吾珥時，中國正進入夏朝，埃及正建造金字塔。神揀選一人、一族、一國，為要祝福「地上的萬族」（創12:3）。救贖歷史從一個家庭開始，終將涵蓋全人類。
+\end{minipage}
+}
+
+\vspace{0.6cm}
+
+% Patriarch journey map (larger)
+{\large\bfseries\color{ChapterBlue} 族長旅程圖 Patriarch Journey Map}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.85]
+  % Mediterranean Sea
+  \fill[WaterBlue] (-0.5,0) rectangle (1.5,8);
+  \node[font=\small,color=white,rotate=90] at (0.5,4) {地中海};
+
+  % Land
+  \fill[LandBeige] (1.5,0) rectangle (12,8);
+
+  % Mesopotamia
+  \fill[DesertTan] (9,5) rectangle (12,8);
+  \node[font=\footnotesize,color=CommentaryBrown] at (10.5,7.5) {美索不達米亞};
+
+  % Egypt
+  \fill[DesertTan] (1.5,0) rectangle (4,2.5);
+  \node[font=\footnotesize,color=CommentaryBrown] at (2.75,1.5) {埃及};
+
+  % Tigris & Euphrates
+  \draw[WaterBlue,line width=2pt] (10.5,8) -- (10.2,6) -- (10.8,4);
+  \draw[WaterBlue,line width=2pt] (11.2,8) -- (11,6) -- (11.5,4);
+  \node[font=\tiny,color=WaterBlue] at (11.5,5) {兩河};
+
+  % Jordan River
+  \draw[WaterBlue,line width=1.5pt] (5.5,6) -- (5.3,4) -- (5.5,2.5);
+
+  % Key locations
+  \fill[red!70!black] (10.5,6.5) circle (0.15);
+  \node[font=\small\bfseries,right,color=red!70!black] at (10.7,6.5) {吾珥 Ur};
+
+  \fill[ScriptureGold] (8,7) circle (0.12);
+  \node[font=\small,left,color=ChapterBlue] at (7.9,7) {哈蘭 Haran};
+
+  \fill[ScriptureGold] (5,5.5) circle (0.12);
+  \node[font=\small,left,color=ChapterBlue] at (4.9,5.5) {示劍 Shechem};
+
+  \fill[ScriptureGold] (4.8,4.8) circle (0.12);
+  \node[font=\small,left,color=ChapterBlue] at (4.7,4.8) {伯特利 Bethel};
+
+  \fill[red!70!black] (4.5,3.8) circle (0.15);
+  \node[font=\small\bfseries,left,color=red!70!black] at (4.4,3.8) {希伯崙 Hebron};
+
+  \fill[ScriptureGold] (3,1.8) circle (0.12);
+  \node[font=\small,color=ChapterBlue] at (3,1.3) {歌珊 Goshen};
+
+  % Journey arrows
+  \draw[->,CreationGreen,line width=2pt] (10.3,6.3) -- (8.2,6.9);
+  \draw[->,CreationGreen,line width=2pt] (7.8,6.8) -- (5.2,5.6);
+  \draw[->,CreationGreen,line width=2pt] (4.9,5.3) -- (4.6,4);
+  \draw[->,CreationGreen,line width=2pt,dashed] (4.4,3.6) -- (3.2,2);
+
+  % Journey labels
+  \node[font=\tiny,color=CreationGreen,fill=white] at (9.2,6.8) {亞伯拉罕};
+  \node[font=\tiny,color=CreationGreen,fill=white] at (3.8,2.8) {約瑟/雅各};
+
+  % Ararat
+  \fill[MountainBrown] (9,7.5) -- (9.5,8) -- (8.5,8) -- cycle;
+  \node[font=\tiny,color=MountainBrown] at (9,7.2) {亞拉臘};
+
+  % Compass
+  \draw[->,thick,color=ChapterBlue] (11,1) -- (11,1.8);
+  \node[font=\small\bfseries,color=ChapterBlue] at (11,2.1) {N};
+\end{tikzpicture}
+
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{創世記研讀 / Genesis Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃長老查經班 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Analyzed Bible\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

@@ -1,0 +1,288 @@
+% PubHub Johannine Epistles Template (1, 2, 3 John)
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Deep purple for love theme
+%% ============================================
+\usepackage{xcolor}
+
+\definecolor{ChapterPurple}{RGB}{75,35,95}
+\definecolor{ScriptureGold}{RGB}{165,125,55}
+\definecolor{CommentaryBrown}{RGB}{85,60,45}
+\definecolor{ScriptureBg}{RGB}{252,250,245}
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% PACKAGES
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterPurple,
+  urlcolor=ScriptureGold
+}
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterPurple} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterPurple}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN CONTROL
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\sloppy
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\begin{center}
+\vspace*{1cm}
+
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterPurple} 神就是愛}\\[0.3cm]
+{\large\itshape\color{LightGray} God Is Love}
+
+\vspace{0.8cm}
+
+{\fontsize{22}{28}\selectfont\bfseries 約翰書信研讀}\\[0.2cm]
+{\normalsize A Study of the Johannine Epistles (1, 2, 3 John)}
+
+\vspace{0.8cm}
+
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.4cm}
+\small\itshape\color{CommentaryBrown}
+神就是愛。住在愛裏面的，就住在神裏面，神也住在他裏面。\\[0.2em]
+\footnotesize God is love. Whoever abides in love abides in God,\\
+and God abides in him. — 1 John 4:16
+\vspace{0.4cm}
+\end{minipage}
+}
+
+\vspace{1cm}
+
+% Three tests diagram
+\begin{tikzpicture}[scale=0.8]
+  \node[font=\normalsize\bfseries,color=ChapterPurple] at (0,3) {Three Tests of Genuine Faith};
+  \node[font=\small,color=LightGray] at (0,2.5) {真信心的三個測試};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,font=\small] at (-3.5,1) {Moral Test 道德測試};
+  \node[font=\tiny,color=LightGray] at (-3.5,0.5) {Obedience 遵行命令};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,font=\small] at (0,1) {Social Test 社會測試};
+  \node[font=\tiny,color=LightGray] at (0,0.5) {Love 彼此相愛};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,font=\small] at (3.5,1) {Doctrinal Test 教義測試};
+  \node[font=\tiny,color=LightGray] at (3.5,0.5) {Belief 正確信仰};
+\end{tikzpicture}
+
+\vfill
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$endif$
+
+\end{center}
+\end{titlepage}
+
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+\textbf{約翰書信研讀 / Johannine Epistles Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ John Stott - The Letters of John (TNTC)\\[0.8em]
+
+本書為三書精讀項目成果之一。
+\end{flushleft}
+\cleardoublepage
+
+\pagestyle{fancy}
+{\color{ChapterPurple}\tableofcontents}
+\cleardoublepage
+
+\mainmatter
+
+$body$
+
+\end{document}

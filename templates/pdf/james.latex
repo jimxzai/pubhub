@@ -1,0 +1,486 @@
+% PubHub Epistle of James Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Professional Bible Study
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Deep forest green for James (practical wisdom)
+\definecolor{ChapterGreen}{RGB}{35,75,55}         % Deep forest green for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}      % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}      % Warm brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}       % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{245,248,252}           % Light blue for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}     % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterGreen,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterGreen} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterGreen} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterGreen} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterGreen}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.8cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterGreen} 信心行道}\\[0.2cm]
+{\large\itshape\color{LightGray} Faith in Action}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 雅各書研讀}\\[0.15cm]
+{\normalsize A Study of the Epistle of James}
+
+\vspace{0.6cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+你們要行道，不要單單聽道，自己欺騙自己。\\[0.2em]
+\footnotesize But be doers of the word, and not hearers only,\\
+deceiving yourselves. — James 1:22
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.8cm}
+
+% Book Structure diagram
+\begin{tikzpicture}[scale=0.7]
+  \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,3.5) {Book Structure 書卷結構};
+
+  % Five chapters as connected boxes
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (-4,2) {Ch 1: Trials};
+  \node[font=\tiny,color=LightGray] at (-4,1.5) {試煉與試探};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (-2,2) {Ch 2: Faith};
+  \node[font=\tiny,color=LightGray] at (-2,1.5) {信心與行為};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (0,2) {Ch 3: Tongue};
+  \node[font=\tiny,color=LightGray] at (0,1.5) {舌頭與智慧};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (2,2) {Ch 4: Humility};
+  \node[font=\tiny,color=LightGray] at (2,1.5) {謙卑順服};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (4,2) {Ch 5: Prayer};
+  \node[font=\tiny,color=LightGray] at (4,1.5) {忍耐與禱告};
+
+  % Arrows
+  \draw[->,color=ScriptureGold,thick] (-3,2) -- (-2.8,2);
+  \draw[->,color=ScriptureGold,thick] (-1,2) -- (-0.8,2);
+  \draw[->,color=ScriptureGold,thick] (1,2) -- (1.2,2);
+  \draw[->,color=ScriptureGold,thick] (3,2) -- (3.2,2);
+
+  % Core theme at bottom
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=4cm,minimum height=0.6cm,font=\small\bfseries] at (0,0.3) {True Faith = True Works};
+  \node[font=\tiny,color=LightGray] at (0,-0.2) {真信心 = 真行為};
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Key Themes
+\begin{tikzpicture}[scale=0.65]
+  \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,2.8) {Six Major Themes 六大主題};
+
+  % Theme boxes in 2 rows
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (-3,1.8) {1. Trials 試煉};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (0,1.8) {2. Faith+Works 信行};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (3,1.8) {3. Wisdom 智慧};
+
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (-3,0.8) {4. Tongue 舌頭};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (0,0.8) {5. Humility 謙卑};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (3,0.8) {6. Prayer 禱告};
+\end{tikzpicture}
+
+\vfill
+
+% Author info
+{\normalsize\color{ScriptureGold}\bfseries 作者：雅各，主的兄弟}\\[0.1cm]
+{\footnotesize\color{LightGray} Author: James, the Lord's Brother (c. AD 45-49)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% James and Paul Diagram Page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+{\Large\bfseries\color{ChapterGreen} 雅各書與保羅書信的和諧}\\[0.1cm]
+{\normalsize James and Paul: Complementary Teaching}
+
+\vspace{0.6cm}
+
+\begin{tikzpicture}[scale=0.9]
+  % Two circles for James and Paul
+  \draw[ChapterGreen,line width=2pt] (-3,0) circle (2.5);
+  \draw[ChapterGreen,line width=2pt] (3,0) circle (2.5);
+
+  % Labels
+  \node[font=\large\bfseries,color=ChapterGreen] at (-3,2) {雅各 James};
+  \node[font=\large\bfseries,color=ChapterGreen] at (3,2) {保羅 Paul};
+
+  % Content - James
+  \node[font=\small,color=TextGray,align=center] at (-3,0.5) {強調信心的\\明證};
+  \node[font=\small,color=TextGray,align=center] at (-3,-0.5) {Evidence\\of Faith};
+  \node[font=\tiny,color=LightGray] at (-3,-1.5) {雅 2:24};
+
+  % Content - Paul
+  \node[font=\small,color=TextGray,align=center] at (3,0.5) {強調稱義的\\根據};
+  \node[font=\small,color=TextGray,align=center] at (3,-0.5) {Basis of\\Justification};
+  \node[font=\tiny,color=LightGray] at (3,-1.5) {羅 3:28};
+
+  % Center - Common ground
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\small\bfseries,color=CommentaryBrown,align=center] at (0,-3.5) {共同真理 Common Truth:\\真信心必產生真行為\\True Faith Produces True Works};
+
+  % Arrows to center
+  \draw[->,ScriptureGold,line width=1.5pt] (-1.5,-1.8) -- (-0.5,-3);
+  \draw[->,ScriptureGold,line width=1.5pt] (1.5,-1.8) -- (0.5,-3);
+\end{tikzpicture}
+
+\vspace{1cm}
+
+% Sermon on the Mount Parallels
+{\Large\bfseries\color{ChapterGreen} 登山寶訓的迴響}\\[0.1cm]
+{\normalsize Echoes of the Sermon on the Mount}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}[scale=0.8]
+  % Left column - James
+  \node[font=\small\bfseries,color=ChapterGreen] at (-3,3) {雅各書 James};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (-3,2.2) {1:2 試煉中喜樂};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (-3,1.4) {1:5 祈求智慧};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (-3,0.6) {1:22 聽道行道};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (-3,-0.2) {2:13 憐憫};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (-3,-1) {5:12 不可起誓};
+
+  % Right column - Matthew
+  \node[font=\small\bfseries,color=ChapterGreen] at (3,3) {馬太福音 Matthew};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (3,2.2) {5:10-12 逼迫中喜樂};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (3,1.4) {7:7 祈求必得};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (3,0.6) {7:24 聰明人蓋房};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (3,-0.2) {5:7 憐恤的人};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,font=\tiny] at (3,-1) {5:34-37 不可起誓};
+
+  % Connecting arrows
+  \draw[->,ScriptureGold,thick] (-1.5,2.2) -- (1.5,2.2);
+  \draw[->,ScriptureGold,thick] (-1.5,1.4) -- (1.5,1.4);
+  \draw[->,ScriptureGold,thick] (-1.5,0.6) -- (1.5,0.6);
+  \draw[->,ScriptureGold,thick] (-1.5,-0.2) -- (1.5,-0.2);
+  \draw[->,ScriptureGold,thick] (-1.5,-1) -- (1.5,-1);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+{\footnotesize\color{LightGray} 「你們要行道，不要單單聽道。」— 雅各書 1:22}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{雅各書研讀 / Epistle of James Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ Douglas Moo - The Letter of James (PNTC)\\
+\textbullet\ D.A. Carson - New Bible Commentary\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterGreen}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

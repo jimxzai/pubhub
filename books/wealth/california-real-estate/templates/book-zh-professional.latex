@@ -1,0 +1,383 @@
+% California Real Estate Book Template - Professional Chinese Version
+% 加州地产兵法 专业版 LaTeX 模板
+% Based on Gospel of John template structure
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{PingFang SC}[Scale=0.9]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Art of War / Investment Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Deep red (兵法) and Gold (财富)
+\definecolor{ChapterRed}{RGB}{139,0,0}          % Deep red for chapters
+\definecolor{StrategyGold}{RGB}{165,125,55}     % Gold for strategy quotes
+\definecolor{WisdomBrown}{RGB}{85,60,45}        % Brown for wisdom
+
+% Investment theme colors
+\definecolor{MoneyGreen}{RGB}{34,139,34}        % Green for profits
+\definecolor{RiskRed}{RGB}{178,34,34}           % Red for warnings
+
+% Box colors
+\definecolor{SunTzuBg}{RGB}{252,248,240}        % Cream for Sun Tzu quotes
+\definecolor{CaseBg}{RGB}{245,250,245}          % Light green for cases
+\definecolor{WarningBg}{RGB}{255,250,245}       % Light red for warnings
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterRed,
+  urlcolor=StrategyGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdftitle={加州地产兵法},
+  pdfauthor={Jim Xiao},
+  pdfsubject={California Real Estate Investment}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{StrategyGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterRed} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterRed} #1\par\nobreak
+    \vskip 12pt
+    {\color{StrategyGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterRed} #1\par\nobreak
+    \vskip 8pt
+    {\color{StrategyGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterRed}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{WisdomBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - Sun Tzu quotes
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{StrategyGold}\itshape%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1cm}
+
+% Decorative line
+{\color{StrategyGold}\rule{3in}{1.5pt}}
+
+\vspace{0.8cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterRed} 加州地产兵法}\\[0.3cm]
+{\large\itshape\color{LightGray} California Real Estate: The Art of War Approach}
+
+\vspace{1cm}
+
+% Subtitle
+{\Large\bfseries 孙子兵法 × 价值投资 × 加州地产实战}\\[0.2cm]
+{\normalsize Sun Tzu Strategy × Value Investing × California Real Estate}
+
+\vspace{1cm}
+
+% Key quote box
+\fcolorbox{StrategyGold}{SunTzuBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.4cm}
+\small\itshape\color{WisdomBrown}
+「夫未战而庙算胜者，得算多也。」\\[0.2em]
+\footnotesize The general who wins makes many calculations\\
+before the battle is fought. — 《孙子兵法》
+\vspace{0.4cm}
+\end{minipage}
+}
+
+\vspace{1cm}
+
+% Five Factors diagram
+\begin{tikzpicture}[scale=0.7]
+  \node[font=\normalsize\bfseries,color=ChapterRed] at (0,3) {加州地产五事 Five Factors};
+
+  % Pentagon with five factors
+  \foreach \angle/\txt/\en in {
+    90/道/Policy,
+    162/天/Timing,
+    234/地/Location,
+    306/将/Team,
+    18/法/Structure
+  } {
+    \node[draw=ChapterRed,fill=SunTzuBg,circle,minimum size=1.2cm,
+          font=\small\bfseries,color=ChapterRed] at (\angle:2) {\txt};
+    \node[font=\tiny,color=LightGray] at (\angle:2.8) {\en};
+  }
+
+  % Connecting lines
+  \draw[StrategyGold,line width=0.8pt] (90:2) -- (162:2) -- (234:2) -- (306:2) -- (18:2) -- cycle;
+\end{tikzpicture}
+
+\vfill
+
+% Core formula
+{\normalsize\color{StrategyGold}\bfseries 安全边际 = 先胜后战}\\[0.1cm]
+{\footnotesize\color{LightGray} Margin of Safety = Victory Before Battle}
+
+\vspace{0.8cm}
+
+$if(author)$
+{\Large $author$}\\[0.5cm]
+$endif$
+
+$if(publisher)$
+{\normalsize $publisher$}\\[0.2cm]
+$endif$
+
+{\normalsize 财富智慧系列 · 第三书}\\[0.2cm]
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize \today}
+$endif$
+
+\vspace{0.5cm}
+{\color{StrategyGold}\rule{3in}{1.5pt}}
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{加州地产兵法}\\
+\textit{California Real Estate: The Art of War Approach}\\[0.8em]
+
+版权所有 Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+保留所有权利。All rights reserved.\\[0.8em]
+
+\textbf{核心理念 Core Principles}\\
+\textbullet\ 先胜后战 — Victory before battle\\
+\textbullet\ 知己知彼 — Know yourself and your enemy\\
+\textbullet\ 以逸待劳 — Wait for the right opportunity\\
+\textbullet\ 避实击虚 — Strike where they least expect\\[0.8em]
+
+\textbf{免责声明 Disclaimer}\\
+本书仅供教育参考，不构成投资建议。\\
+投资有风险，决策需谨慎。\\[0.8em]
+
+财富智慧系列 · 第三书\\
+Wealth Wisdom Series · Book 3
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterRed}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

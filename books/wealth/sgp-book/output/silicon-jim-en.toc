@@ -1,0 +1,87 @@
+\contentsline {chapter}{\numberline {1}Special Feature: Silicon Jim}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}My Name is Jim}{1}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}LSU and Mike}{2}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}The Offer}{3}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}The Airport}{4}{subsection.1.1.3}%
+\contentsline {section}{\numberline {1.2}Chapter 1: 2000 --- The Stanford AI Dream}{6}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}My First Day in Silicon Valley}{6}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}NeuralMind}{7}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Sarah}{8}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}The Madness}{10}{subsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.2.5}The First Winter}{11}{subsection.1.2.5}%
+\contentsline {subsection}{\numberline {1.2.6}The In-N-Out Conversation}{12}{subsection.1.2.6}%
+\contentsline {section}{\numberline {1.3}Chapter 2: 2001 --- When the World Changed}{14}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Mike Goes to Enron}{14}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Sarah's Warning}{16}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}September 11, 2001}{17}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}The Week After}{18}{subsection.1.3.4}%
+\contentsline {subsection}{\numberline {1.3.5}America Changed}{19}{subsection.1.3.5}%
+\contentsline {subsection}{\numberline {1.3.6}The Christmas Phone Call}{20}{subsection.1.3.6}%
+\contentsline {subsection}{\numberline {1.3.7}Dr.~Harlon Trailer's Sleeping Bag}{22}{subsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.3.8}Sarah's Lesson}{23}{subsection.1.3.8}%
+\contentsline {subsection}{\numberline {1.3.9}The Sleeping Bag Months}{24}{subsection.1.3.9}%
+\contentsline {section}{\numberline {1.4}Chapter 3: 2004 --- Missing Google}{26}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}The Recovery}{26}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Sarah's Choice}{26}{subsection.1.4.2}%
+\contentsline {subsection}{\numberline {1.4.3}The IPO}{28}{subsection.1.4.3}%
+\contentsline {subsection}{\numberline {1.4.4}Kevin}{30}{subsection.1.4.4}%
+\contentsline {section}{\numberline {1.5}Chapter 4: 2007 --- Mike Goes to Wall Street}{31}{section.1.5}%
+\contentsline {subsection}{\numberline {1.5.1}Bear Stearns}{31}{subsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.5.2}The New York Trip}{32}{subsection.1.5.2}%
+\contentsline {subsection}{\numberline {1.5.3}Sarah's Father}{33}{subsection.1.5.3}%
+\contentsline {subsection}{\numberline {1.5.4}The Party Before the Storm}{34}{subsection.1.5.4}%
+\contentsline {section}{\numberline {1.6}Chapter 5: 2008 --- Lehman Weekend}{35}{section.1.6}%
+\contentsline {subsection}{\numberline {1.6.1}The Cracks Appear}{35}{subsection.1.6.1}%
+\contentsline {subsection}{\numberline {1.6.2}The September Sunday}{36}{subsection.1.6.2}%
+\contentsline {subsection}{\numberline {1.6.3}Monday Morning}{37}{subsection.1.6.3}%
+\contentsline {subsection}{\numberline {1.6.4}Sarah's Call}{38}{subsection.1.6.4}%
+\contentsline {subsection}{\numberline {1.6.5}The Sleeping Bag, Again}{39}{subsection.1.6.5}%
+\contentsline {section}{\numberline {1.7}Chapter 6: 2009 --- Rock Bottom and Hope}{41}{section.1.7}%
+\contentsline {subsection}{\numberline {1.7.1}NeuralMind Survives}{41}{subsection.1.7.1}%
+\contentsline {subsection}{\numberline {1.7.2}The Bottom}{41}{subsection.1.7.2}%
+\contentsline {subsection}{\numberline {1.7.3}Mike's Recovery}{42}{subsection.1.7.3}%
+\contentsline {subsection}{\numberline {1.7.4}Kevin's Patience}{43}{subsection.1.7.4}%
+\contentsline {section}{\numberline {1.8}Chapter 7: 2011 --- The Humiliation}{44}{section.1.8}%
+\contentsline {subsection}{\numberline {1.8.1}NeuralMind Dies}{44}{subsection.1.8.1}%
+\contentsline {subsection}{\numberline {1.8.2}DataSphere}{45}{subsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.8.3}The Meeting}{46}{subsection.1.8.3}%
+\contentsline {subsection}{\numberline {1.8.4}Priya}{47}{subsection.1.8.4}%
+\contentsline {subsection}{\numberline {1.8.5}The Performance Review}{48}{subsection.1.8.5}%
+\contentsline {subsection}{\numberline {1.8.6}Leaving}{49}{subsection.1.8.6}%
+\contentsline {section}{\numberline {1.9}Chapter 8: 2012 --- Back to AI}{50}{section.1.9}%
+\contentsline {subsection}{\numberline {1.9.1}Kevin's Facebook IPO}{50}{subsection.1.9.1}%
+\contentsline {subsection}{\numberline {1.9.2}The Phone Call}{51}{subsection.1.9.2}%
+\contentsline {section}{\numberline {1.10}Chapter 9: 2015 --- Theranos Blood}{53}{section.1.10}%
+\contentsline {subsection}{\numberline {1.10.1}The New Goddess of Silicon Valley}{53}{subsection.1.10.1}%
+\contentsline {section}{\numberline {1.11}Chapter 10: 2020 --- Zoom In}{56}{section.1.11}%
+\contentsline {subsection}{\numberline {1.11.1}The World Stops}{56}{subsection.1.11.1}%
+\contentsline {subsection}{\numberline {1.11.2}NeuralMind's Spring}{57}{subsection.1.11.2}%
+\contentsline {subsection}{\numberline {1.11.3}Sarah's House}{58}{subsection.1.11.3}%
+\contentsline {subsection}{\numberline {1.11.4}The Zoom Bubble}{59}{subsection.1.11.4}%
+\contentsline {section}{\numberline {1.12}Chapter 11: 2021 --- GME and Crypto}{60}{section.1.12}%
+\contentsline {subsection}{\numberline {1.12.1}Tommy and the Meme Stocks}{60}{subsection.1.12.1}%
+\contentsline {subsection}{\numberline {1.12.2}The Crypto Craze}{61}{subsection.1.12.2}%
+\contentsline {section}{\numberline {1.13}Chapter 12: 2022 --- The Fall of FTX}{62}{section.1.13}%
+\contentsline {subsection}{\numberline {1.13.1}The Boy Genius}{62}{subsection.1.13.1}%
+\contentsline {subsection}{\numberline {1.13.2}The Collapse}{63}{subsection.1.13.2}%
+\contentsline {section}{\numberline {1.14}Chapter 13: 2023 --- Silicon Valley Bank's 48 Hours}{64}{section.1.14}%
+\contentsline {subsection}{\numberline {1.14.1}The Text Message}{64}{subsection.1.14.1}%
+\contentsline {subsection}{\numberline {1.14.2}The 48 Hours}{64}{subsection.1.14.2}%
+\contentsline {subsection}{\numberline {1.14.3}Sunday Night}{65}{subsection.1.14.3}%
+\contentsline {section}{\numberline {1.15}Chapter 14: 2024 --- The Age of AI}{66}{section.1.15}%
+\contentsline {subsection}{\numberline {1.15.1}ChatGPT}{66}{subsection.1.15.1}%
+\contentsline {subsection}{\numberline {1.15.2}The Acquisition}{66}{subsection.1.15.2}%
+\contentsline {subsection}{\numberline {1.15.3}Cross-Training}{67}{subsection.1.15.3}%
+\contentsline {subsection}{\numberline {1.15.4}The PIP}{69}{subsection.1.15.4}%
+\contentsline {subsection}{\numberline {1.15.5}Dignity}{69}{subsection.1.15.5}%
+\contentsline {subsection}{\numberline {1.15.6}The Call to Sarah}{70}{subsection.1.15.6}%
+\contentsline {subsection}{\numberline {1.15.7}Nvidia}{71}{subsection.1.15.7}%
+\contentsline {section}{\numberline {1.16}Chapter 15: 2025 --- Now}{71}{section.1.16}%
+\contentsline {subsection}{\numberline {1.16.1}The Coffee Shop}{71}{subsection.1.16.1}%
+\contentsline {subsection}{\numberline {1.16.2}The Ledger}{73}{subsection.1.16.2}%
+\contentsline {subsection}{\numberline {1.16.3}Mama's Words}{73}{subsection.1.16.3}%
+\contentsline {section}{\numberline {1.17}Epilogue: Advice for Young People}{74}{section.1.17}%
+\contentsline {subsection}{\numberline {1.17.1}About Work}{74}{subsection.1.17.1}%
+\contentsline {subsection}{\numberline {1.17.2}About Investing}{74}{subsection.1.17.2}%
+\contentsline {subsection}{\numberline {1.17.3}About Life}{75}{subsection.1.17.3}%
+\contentsline {subsection}{\numberline {1.17.4}Christmas in Baton Rouge}{75}{subsection.1.17.4}%

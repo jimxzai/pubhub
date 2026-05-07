@@ -1,0 +1,681 @@
+% PubHub Pauline Epistles Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Pauline Epistles Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Royal purple/gold for Paul's letters
+\definecolor{ChapterPurple}{RGB}{75,35,95}         % Deep purple for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}       % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}       % Warm brown for commentary
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}          % Sea/river blue
+\definecolor{LandBeige}{RGB}{245,235,220}          % Land color
+\definecolor{MountainBrown}{RGB}{180,160,140}      % Mountain shading
+\definecolor{RouteRed}{RGB}{180,50,50}             % Journey routes
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}        % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{248,245,252}            % Light purple for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}      % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing,decorations.pathreplacing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Scroll decoration command
+\newcommand{\scrolldecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Quill pen symbol
+\newcommand{\quillsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ChapterPurple,line width=1pt] (0,0) -- (0.5,1.5) -- (0.2,1.8) -- (-0.1,1.5) -- (0,0);
+  \draw[color=ChapterPurple,line width=0.5pt] (0.2,0) -- (0.2,-0.5);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterPurple,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterPurple} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterPurple}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterPurple} 使徒書信}\\[0.2cm]
+{\large\itshape\color{LightGray} The Apostolic Letters}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 保羅書信研讀}\\[0.15cm]
+{\normalsize A Study of the Pauline Epistles}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+我已經與基督同釘十字架，現在活著的不再是我，\\
+乃是基督在我裏面活著。\\[0.15em]
+\footnotesize I have been crucified with Christ. It is no longer I who live,\\
+but Christ who lives in me. — Galatians 2:20
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Paul's Missionary Journeys Map (TikZ drawn)
+\begin{tikzpicture}[scale=0.5]
+  % Title
+  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (5,7.5) {保羅宣教旅程 Paul's Missionary Journeys};
+
+  % Mediterranean Sea
+  \fill[WaterBlue] (0,0) rectangle (10,6);
+  \node[font=\tiny,color=ChapterPurple] at (2,0.5) {Mediterranean Sea 地中海};
+
+  % Land masses
+  \fill[LandBeige] (0,4) -- (3,4) -- (3,6) -- (0,6) -- cycle; % Italy
+  \fill[LandBeige] (4,3) -- (6,3) -- (7,5) -- (5,6) -- (3,5) -- cycle; % Greece
+  \fill[LandBeige] (7,2) -- (10,2) -- (10,6) -- (7,6) -- cycle; % Asia Minor
+
+  % Key cities
+  \fill[RouteRed] (1,5) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (1.2,5) {Rome 羅馬};
+
+  \fill[ScriptureGold] (4.5,4) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (4.3,4) {Philippi};
+
+  \fill[ScriptureGold] (4,3.5) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (3.8,3.5) {Thessalonica};
+
+  \fill[ScriptureGold] (4.5,3) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (4.3,3) {Corinth};
+
+  \fill[ScriptureGold] (7.5,3.5) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (7.7,3.5) {Ephesus};
+
+  \fill[ScriptureGold] (8.5,4.5) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (8.7,4.5) {Galatia};
+
+  \fill[ScriptureGold] (8,3) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (8.2,3) {Colossae};
+
+  % Journey routes (simplified)
+  \draw[RouteRed,line width=1pt,dashed] (7.5,3.5) -- (4.5,4) -- (4,3.5) -- (4.5,3);
+  \draw[RouteRed,line width=1pt,dashed] (4.5,3) -- (1,5);
+
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Classification diagram
+\begin{tikzpicture}[scale=0.55]
+  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,3) {13 Books 十三封書信};
+
+  % Categories
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.5cm,font=\tiny] at (-2.5,1.8) {Soteriological};
+  \node[font=\tiny,color=LightGray] at (-2.5,1.4) {Romans, Galatians};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.5cm,font=\tiny] at (0,1.8) {Ecclesiological};
+  \node[font=\tiny,color=LightGray] at (0,1.4) {1-2 Cor, Eph, Col};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.5cm,font=\tiny] at (2.5,1.8) {Eschatological};
+  \node[font=\tiny,color=LightGray] at (2.5,1.4) {1-2 Thess};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (-1,0.3) {Pastoral};
+  \node[font=\tiny,color=LightGray] at (-1,-0.1) {1-2 Tim, Titus};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (2,0.3) {Personal};
+  \node[font=\tiny,color=LightGray] at (2,-0.1) {Phil, Philemon};
+\end{tikzpicture}
+
+\vfill
+
+% Core teaching
+{\normalsize\color{ScriptureGold}\bfseries 因信稱義 · 在基督裏 · 聖靈充滿}\\[0.1cm]
+{\footnotesize\color{LightGray} Justification by Faith · In Christ · Spirit-Filled}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Map page (full page)
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterPurple} 保羅宣教旅程地圖}\\[0.1cm]
+{\normalsize Paul's Missionary Journeys}
+
+\vspace{0.4cm}
+
+% Larger detailed map
+\begin{tikzpicture}[scale=0.9]
+  % Background - Mediterranean
+  \fill[WaterBlue] (0,0) rectangle (12,10);
+
+  % Land masses
+  % Italy
+  \fill[LandBeige] (0,5) -- (2,5) -- (3,7) -- (2,9) -- (0,9) -- cycle;
+  \node[font=\small,color=ChapterPurple] at (1,7) {Italy};
+
+  % Greece/Macedonia
+  \fill[LandBeige] (4,4) -- (6,3) -- (7,5) -- (6,7) -- (4,6) -- cycle;
+  \node[font=\small,color=ChapterPurple] at (5,5) {Greece};
+
+  % Asia Minor
+  \fill[LandBeige] (7,3) -- (12,3) -- (12,10) -- (7,10) -- (8,7) -- cycle;
+  \node[font=\small,color=ChapterPurple] at (10,7) {Asia Minor};
+
+  % Crete
+  \fill[LandBeige] (5.5,2) ellipse (1 and 0.3);
+  \node[font=\tiny,color=ChapterPurple] at (5.5,2) {Crete 革哩底};
+
+  % Syria/Palestine
+  \fill[LandBeige] (11,0) rectangle (12,3);
+
+  %% KEY CITIES with epistle references
+
+  % Rome
+  \fill[RouteRed] (1.5,6) circle (0.18);
+  \node[font=\small\bfseries,right,color=ChapterPurple] at (1.8,6) {Rome 羅馬};
+  \node[font=\tiny,right,color=TextGray] at (1.8,5.5) {Romans, Prison Epistles};
+
+  % Philippi
+  \fill[ScriptureGold] (5.5,6.5) circle (0.15);
+  \node[font=\small\bfseries,left,color=ChapterPurple] at (5.3,6.5) {Philippi 腓立比};
+  \node[font=\tiny,left,color=TextGray] at (5.3,6.1) {Philippians};
+
+  % Thessalonica
+  \fill[ScriptureGold] (5,5.8) circle (0.15);
+  \node[font=\small\bfseries,left,color=ChapterPurple] at (4.8,5.8) {Thessalonica};
+  \node[font=\tiny,left,color=TextGray] at (4.8,5.4) {1-2 Thessalonians};
+
+  % Corinth
+  \fill[ScriptureGold] (5,4) circle (0.15);
+  \node[font=\small\bfseries,left,color=ChapterPurple] at (4.8,4) {Corinth 哥林多};
+  \node[font=\tiny,left,color=TextGray] at (4.8,3.6) {1-2 Corinthians};
+
+  % Ephesus
+  \fill[ScriptureGold] (8,5) circle (0.15);
+  \node[font=\small\bfseries,right,color=ChapterPurple] at (8.2,5) {Ephesus 以弗所};
+  \node[font=\tiny,right,color=TextGray] at (8.2,4.6) {Ephesians, 1-2 Timothy};
+
+  % Colossae
+  \fill[ScriptureGold] (9,4.5) circle (0.12);
+  \node[font=\small,right,color=ChapterPurple] at (9.2,4.5) {Colossae 歌羅西};
+  \node[font=\tiny,right,color=TextGray] at (9.2,4.1) {Colossians, Philemon};
+
+  % Galatia region
+  \fill[ScriptureGold] (10,7) circle (0.15);
+  \node[font=\small\bfseries,right,color=ChapterPurple] at (10.2,7) {Galatia 加拉太};
+  \node[font=\tiny,right,color=TextGray] at (10.2,6.6) {Galatians};
+
+  % Antioch (Syria)
+  \fill[ScriptureGold] (11.5,2) circle (0.12);
+  \node[font=\tiny,left,color=ChapterPurple] at (11.3,2) {Antioch};
+
+  % Tarsus
+  \fill[ScriptureGold] (10.5,5.5) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (10.7,5.5) {Tarsus 大數};
+
+  % Journey routes
+  \draw[RouteRed,line width=1.5pt,dashed,->] (11.5,2) -- (10,7) -- (8,5) -- (5.5,6.5) -- (5,5.8) -- (5,4);
+  \draw[RouteRed!70,line width=1pt,dashed,->] (5,4) -- (1.5,6);
+
+  % Compass
+  \draw[->,very thick,color=ChapterPurple] (0.5,8.5) -- (0.5,9.3);
+  \node[font=\small\bfseries,color=ChapterPurple] at (0.5,9.6) {N};
+
+  % Scale
+  \draw[very thick,color=TextGray] (7,0.5) -- (9,0.5);
+  \node[font=\small,color=TextGray] at (8,0.2) {500 km};
+
+  % Legend
+  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (1,1.5) {Legend 圖例};
+  \fill[RouteRed] (0.5,1) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (0.7,1) {Prison Letters};
+  \fill[ScriptureGold] (0.5,0.6) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (0.7,0.6) {Church Location};
+
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\footnotesize\color{LightGray} 「基督釋放了我們，叫我們得以自由。」— 加拉太書 5:1}
+\end{center}
+\cleardoublepage
+
+% Timeline page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterPurple} 保羅書信年表}\\[0.1cm]
+{\normalsize Chronology of Paul's Letters}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}[scale=0.8]
+  % Timeline base
+  \draw[ChapterPurple,line width=2pt] (0,0) -- (14,0);
+
+  % Year markers
+  \foreach \x/\year in {0/AD 49,2/51,4/55,6/57,8/60,10/62,12/65,14/67} {
+    \draw[ChapterPurple,line width=1pt] (\x,-0.2) -- (\x,0.2);
+    \node[font=\tiny,color=LightGray] at (\x,-0.5) {\year};
+  }
+
+  % Letters (staggered above and below)
+  % Galatians
+  \fill[ScriptureGold] (0,0) circle (0.2);
+  \node[font=\tiny\bfseries,color=ChapterPurple,above] at (0,0.4) {Galatians};
+  \node[font=\tiny,color=TextGray,above] at (0,0.8) {加拉太書};
+
+  % 1-2 Thessalonians
+  \fill[ScriptureGold] (2,0) circle (0.2);
+  \node[font=\tiny\bfseries,color=ChapterPurple,below] at (2,-0.7) {1-2 Thess};
+  \node[font=\tiny,color=TextGray,below] at (2,-1.1) {帖前後};
+
+  % 1 Corinthians
+  \fill[ScriptureGold] (4,0) circle (0.2);
+  \node[font=\tiny\bfseries,color=ChapterPurple,above] at (4,0.4) {1 Cor};
+  \node[font=\tiny,color=TextGray,above] at (4,0.8) {林前};
+
+  % 2 Corinthians
+  \fill[ScriptureGold] (5,0) circle (0.15);
+  \node[font=\tiny\bfseries,color=ChapterPurple,below] at (5,-0.7) {2 Cor};
+
+  % Romans
+  \fill[ScriptureGold] (6,0) circle (0.2);
+  \node[font=\tiny\bfseries,color=ChapterPurple,above] at (6,0.4) {Romans};
+  \node[font=\tiny,color=TextGray,above] at (6,0.8) {羅馬書};
+
+  % Prison Epistles
+  \fill[RouteRed] (9,0) circle (0.25);
+  \node[font=\tiny\bfseries,color=ChapterPurple,below] at (9,-0.7) {Prison Epistles};
+  \node[font=\tiny,color=TextGray,below] at (9,-1.1) {Eph, Phil, Col, Phm};
+
+  % Pastoral Epistles
+  \fill[RouteRed] (12,0) circle (0.2);
+  \node[font=\tiny\bfseries,color=ChapterPurple,above] at (12,0.4) {1 Tim, Titus};
+  \node[font=\tiny,color=TextGray,above] at (12,0.8) {提前、多};
+
+  % 2 Timothy
+  \fill[RouteRed] (14,0) circle (0.2);
+  \node[font=\tiny\bfseries,color=ChapterPurple,below] at (14,-0.7) {2 Timothy};
+  \node[font=\tiny,color=TextGray,below] at (14,-1.1) {提後 (遺書)};
+
+  % Period labels
+  \draw[decorate,decoration={brace,amplitude=5pt},ChapterPurple] (0,1.5) -- (6,1.5);
+  \node[font=\tiny,color=ChapterPurple] at (3,2) {Missionary Journeys 宣教旅程};
+
+  \draw[decorate,decoration={brace,amplitude=5pt},ChapterPurple] (8,1.5) -- (10,1.5);
+  \node[font=\tiny,color=ChapterPurple] at (9,2) {1st Imprisonment};
+
+  \draw[decorate,decoration={brace,amplitude=5pt},ChapterPurple] (11,1.5) -- (14,1.5);
+  \node[font=\tiny,color=ChapterPurple] at (12.5,2) {Release \& 2nd Imprisonment};
+
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+% Book classification
+{\large\bfseries\color{ChapterPurple} 書信分類 Classification of Epistles}
+
+\vspace{0.4cm}
+
+\begin{tikzpicture}[scale=0.75]
+  % Undisputed
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3.5cm,minimum height=1.2cm,font=\small\bfseries,color=ChapterPurple] at (0,2) {Undisputed 無爭議};
+  \node[font=\tiny,color=TextGray,align=center] at (0,1.2) {Rom, 1-2 Cor, Gal\\Phil, 1 Thess, Phm};
+
+  % Disputed
+  \node[draw=CommentaryBrown,fill=GreekBg,rounded corners,minimum width=3.5cm,minimum height=1.2cm,font=\small\bfseries,color=CommentaryBrown] at (5,2) {Disputed 有爭議};
+  \node[font=\tiny,color=TextGray,align=center] at (5,1.2) {Eph, Col, 2 Thess};
+
+  % Pastoral
+  \node[draw=ScriptureGold,fill=ApplicationBg,rounded corners,minimum width=3.5cm,minimum height=1.2cm,font=\small\bfseries,color=ScriptureGold] at (10,2) {Pastoral 教牧書信};
+  \node[font=\tiny,color=TextGray,align=center] at (10,1.2) {1-2 Tim, Titus};
+
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Core themes
+{\large\bfseries\color{ChapterPurple} 核心主題 Key Pauline Themes}
+
+\vspace{0.4cm}
+
+\begin{tikzpicture}[scale=0.7]
+  % Central Christ
+  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=2cm,line width=2pt,
+        font=\normalsize\bfseries,color=ChapterPurple] (center) at (0,0) {In Christ};
+
+  % Themes around
+  \foreach \angle/\txt/\ch in {
+    90/Justification by Faith/因信稱義,
+    30/Body of Christ/基督的身體,
+    -30/Spirit-Filled Life/聖靈充滿,
+    -90/New Covenant/新約,
+    -150/Grace vs Law/恩典與律法,
+    150/Eschatological Hope/末世盼望
+  } {
+    \node[draw=ChapterPurple,fill=white,rounded corners,minimum width=2.2cm,
+          font=\tiny,align=center] at (\angle:3.5) {\txt\\\color{LightGray}\ch};
+    \draw[ScriptureGold,line width=0.8pt] (center) -- (\angle:2.5);
+  }
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\footnotesize\color{LightGray} 「那美好的仗我已經打過了，當跑的路我已經跑盡了。」— 提後 4:7}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{保羅書信研讀 / Pauline Epistles Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ F.F. Bruce - Paul: Apostle of the Heart Set Free\\
+\textbullet\ N.T. Wright - Paul and the Faithfulness of God\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterPurple}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

@@ -1,0 +1,135 @@
+% SGP Book Template - English Version (Simple)
+% Requires XeLaTeX
+
+\documentclass[11pt,openright,twoside]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use professional fonts
+\setmainfont{Georgia}[
+  BoldFont=Georgia Bold,
+  ItalicFont=Georgia Italic
+]
+\setsansfont{Helvetica Neue}
+\setmonofont{Menlo}
+
+% Page geometry - book format (6x9 inches)
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.875in,
+  outer=0.625in
+}
+
+% Line spacing
+\linespread{1.15}
+
+% Colors
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{139,0,0}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=blue,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Widow and orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Metadata
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Front matter
+\frontmatter
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{3cm}
+\begin{center}
+$if(title)$
+{\Huge\bfseries $title$}\\[1cm]
+$endif$
+$if(subtitle)$
+{\Large\itshape $subtitle$}\\[2cm]
+$endif$
+$if(author)$
+{\Large $author$}\\[1cm]
+$endif$
+\vfill
+$if(publisher)$
+{\large $publisher$}\\[0.5cm]
+$endif$
+$if(date)$
+{\large $date$}
+$else$
+{\large \today}
+$endif$
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small
+$if(copyright)$
+$copyright$
+$else$
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.
+$endif$
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\tableofcontents
+\cleardoublepage
+
+% Main matter
+\mainmatter
+
+$body$
+
+\end{document}

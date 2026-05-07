@@ -1,0 +1,535 @@
+% PubHub Hebrews Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Hebrews Theme (Royal Purple/Gold)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Priestly theme
+\definecolor{ChapterBlue}{RGB}{75,0,130}         % Royal purple for chapters
+\definecolor{ScriptureGold}{RGB}{180,140,60}     % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{100,50,30}    % Rich brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}      % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{248,245,255}          % Light purple for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}    % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Diagram colors
+\definecolor{OldCovenantRed}{RGB}{180,60,60}     % Old covenant
+\definecolor{NewCovenantGreen}{RGB}{60,120,80}   % New covenant
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% High Priest symbol
+\newcommand{\priestsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ScriptureGold,line width=1pt] (0,0) -- (0,1.2);
+  \draw[color=ScriptureGold,line width=1pt] (-0.4,0.8) -- (0.4,0.8);
+  \draw[color=ScriptureGold,line width=0.8pt] (0,0.3) circle (0.2);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 神的終極啟示}\\[0.2cm]
+{\large\itshape\color{LightGray} God's Final Word to Man}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 希伯來書研讀}\\[0.15cm]
+{\normalsize A Study of the Epistle to the Hebrews}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+神在古時候，多次多方藉著先知向列祖說話，\\
+到了這末後的日子，卻藉著他的兒子向我們說話。\\[0.15em]
+\footnotesize Long ago God spoke to our fathers by the prophets,\\
+but in these last days he has spoken to us by his Son.\\
+— Hebrews 1:1-2
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+% Structure diagram - Christ's Supremacy
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,4) {基督的超越性 Christ's Supremacy};
+
+  % Old Covenant elements (left side)
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,2.5) {Angels 天使};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,1.5) {Moses 摩西};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,0.5) {Joshua 約書亞};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,-0.5) {Aaron 亞倫};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,-1.5) {Old Covenant 舊約};
+
+  % Christ in center
+  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=2cm,line width=2pt,font=\normalsize\bfseries,color=ChapterBlue] (christ) at (0,0.5) {CHRIST};
+
+  % New Covenant elements (right side)
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,2) {Better Covenant};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,1) {Better Sanctuary};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,0) {Better Sacrifice};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,-1) {Eternal Priest};
+
+  % Arrows showing superiority
+  \foreach \y in {2.5,1.5,0.5,-0.5,-1.5} {
+    \draw[->,thick,color=ScriptureGold] (-2,\y) -- (-0.8,0.5);
+  }
+  \foreach \y in {2,1,0,-1} {
+    \draw[->,thick,color=NewCovenantGreen] (0.8,0.5) -- (2,\y);
+  }
+
+  % Labels
+  \node[font=\tiny,color=OldCovenantRed] at (-3,-2.2) {舊約 Old};
+  \node[font=\tiny,color=NewCovenantGreen] at (3,-2.2) {新約 New};
+\end{tikzpicture}
+
+\vspace{0.4cm}
+
+% Tabernacle diagram
+\begin{tikzpicture}[scale=0.5]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (4,4.5) {會幕結構 Tabernacle Structure};
+
+  % Outer court
+  \draw[ChapterBlue,line width=1pt] (0,0) rectangle (8,3.5);
+  \node[font=\tiny,color=ChapterBlue] at (4,3.2) {Outer Court 外院};
+
+  % Holy Place
+  \fill[ScriptureBg] (4.5,0.5) rectangle (7.5,3);
+  \draw[ScriptureGold,line width=1.5pt] (4.5,0.5) rectangle (7.5,3);
+  \node[font=\tiny,color=CommentaryBrown] at (6,2.2) {Holy Place};
+  \node[font=\tiny,color=CommentaryBrown] at (6,1.7) {聖所};
+
+  % Most Holy Place
+  \fill[ChapterBlue!20] (6,0.5) rectangle (7.5,3);
+  \draw[ScriptureGold,line width=2pt] (6,0.5) -- (6,3);
+  \node[font=\tiny\bfseries,color=ChapterBlue] at (6.75,2.2) {Most};
+  \node[font=\tiny\bfseries,color=ChapterBlue] at (6.75,1.7) {Holy};
+  \node[font=\tiny,color=ChapterBlue] at (6.75,1.2) {至聖所};
+
+  % Altar
+  \fill[OldCovenantRed!50] (2,1.5) rectangle (2.8,2.3);
+  \node[font=\tiny,color=TextGray] at (2.4,1.1) {Altar};
+
+  % Veil arrow
+  \draw[->,very thick,color=ScriptureGold] (6,-0.3) -- (6,-0.8);
+  \node[font=\tiny,color=ScriptureGold] at (6,-1.2) {Veil Torn 幔子裂開};
+  \node[font=\tiny,color=ScriptureGold] at (6,-1.6) {Heb 10:20};
+\end{tikzpicture}
+
+\vfill
+
+% Core theme
+{\normalsize\color{ScriptureGold}\bfseries 更美之約的中保}\\[0.1cm]
+{\footnotesize\color{LightGray} Mediator of a Better Covenant (Heb 8:6)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Overview diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 希伯來書結構}\\[0.1cm]
+{\normalsize Structure of Hebrews}
+
+\vspace{0.5cm}
+
+% Three-part structure
+\begin{tikzpicture}[scale=0.9]
+  % Part 1
+  \node[draw=ChapterBlue,fill=ChapterBlue!10,rounded corners,minimum width=4cm,minimum height=2cm] at (0,0) {};
+  \node[font=\small\bfseries,color=ChapterBlue] at (0,0.5) {Part I: Supremacy};
+  \node[font=\footnotesize,color=TextGray] at (0,0) {基督的超越性};
+  \node[font=\tiny,color=LightGray] at (0,-0.5) {Chapters 1-4};
+
+  % Part 2
+  \node[draw=ScriptureGold,fill=ScriptureGold!10,rounded corners,minimum width=4cm,minimum height=2cm] at (5,0) {};
+  \node[font=\small\bfseries,color=ScriptureGold!80!black] at (5,0.5) {Part II: Priesthood};
+  \node[font=\footnotesize,color=TextGray] at (5,0) {基督的祭司職分};
+  \node[font=\tiny,color=LightGray] at (5,-0.5) {Chapters 5-10};
+
+  % Part 3
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=4cm,minimum height=2cm] at (10,0) {};
+  \node[font=\small\bfseries,color=NewCovenantGreen!80!black] at (10,0.5) {Part III: Faith};
+  \node[font=\footnotesize,color=TextGray] at (10,0) {信心的生活};
+  \node[font=\tiny,color=LightGray] at (10,-0.5) {Chapters 11-13};
+
+  % Arrows
+  \draw[->,thick,color=ScriptureGold] (2.2,0) -- (2.8,0);
+  \draw[->,thick,color=ScriptureGold] (7.2,0) -- (7.8,0);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Seven "Better" things
+{\large\bfseries\color{ChapterBlue} 七個「更美」 Seven "Better" Things}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.7]
+  \foreach \x/\num/\txt in {
+    0/1/Better Hope 更美的盼望,
+    2.5/2/Better Covenant 更美之約,
+    5/3/Better Promises 更美的應許,
+    7.5/4/Better Sacrifice 更美的祭物,
+    10/5/Better Possession 更美的產業,
+    12.5/6/Better Country 更美的家鄉,
+    15/7/Better Resurrection 更美的復活
+  } {
+    \fill[ScriptureGold] (\x,0) circle (0.3);
+    \node[font=\tiny\bfseries,color=white] at (\x,0) {\num};
+    \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (\x,-0.8) {\txt};
+  }
+  \draw[ScriptureGold,line width=1.5pt] (0.3,0) -- (14.7,0);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Five Warnings
+{\large\bfseries\color{OldCovenantRed} 五個警告 Five Warnings}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.8]
+  \foreach \x/\num/\ref/\txt in {
+    0/1/2:1-4/Neglect 忽略,
+    3/2/3:7-4:13/Unbelief 不信,
+    6/3/5:11-6:20/Falling Away 離棄,
+    9/4/10:26-39/Willful Sin 故意犯罪,
+    12/5/12:14-29/Refusing God 棄絕神
+  } {
+    \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=2.5cm,minimum height=1cm] at (\x,0) {};
+    \node[font=\tiny\bfseries,color=OldCovenantRed] at (\x,0.2) {Warning \num};
+    \node[font=\tiny,color=TextGray] at (\x,-0.2) {\txt};
+    \node[font=\tiny,color=LightGray] at (\x,-0.6) {\ref};
+  }
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} 「耶穌基督昨日、今日、一直到永遠是一樣的。」— 希伯來書 13:8}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{希伯來書研讀 / Hebrews Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ John MacArthur - MacArthur New Testament Commentary\\
+\textbullet\ G. Campbell Morgan - God's Last Word to Man\\
+\textbullet\ F.F. Bruce - NICNT Hebrews\\
+\textbullet\ John Owen - Exposition of Hebrews\\[0.8em]
+
+\textbf{核心主題 / Central Theme}\\
+基督超越一切，是更美之約的中保。\\
+Christ is superior to all; He is the mediator of a better covenant.\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

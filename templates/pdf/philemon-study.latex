@@ -1,0 +1,560 @@
+% PubHub Philemon Study Template
+% 腓利門書研讀 - Three Books Deep Reading Edition
+% Bilingual Chinese/English with Greek word studies
+% Theme: Grace, Redemption, Reconciliation
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+% Number sections and subsections, but not chapters
+% Chapter titles already contain Chinese numbers (第一章, 第二章...)
+\setcounter{secnumdepth}{2}
+\renewcommand{\thechapter}{}
+\renewcommand{\thesection}{\arabic{section}}
+\renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
+\renewcommand{\thesubsubsection}{\thesubsection.\arabic{subsubsection}}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Letter size
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=8.5in,
+  paperheight=11in,
+  top=0.85in,
+  bottom=0.85in,
+  inner=0.9in,
+  outer=0.75in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+%% ============================================
+%% COLOR SCHEME - Philemon Theme
+%% Redemption Red + Grace Gold
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{RedemptionRed}{RGB}{139,35,35}        % Deep burgundy
+\definecolor{GraceGold}{RGB}{184,134,11}           % Gold
+\definecolor{DeepBlue}{RGB}{40,60,100}             % Deep blue
+\definecolor{WisdomPurple}{RGB}{75,0,130}          % Purple
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}        % Cream for scripture
+\definecolor{GreekBg}{RGB}{248,245,252}            % Light purple for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}      % Light green
+\definecolor{NoteBg}{RGB}{255,253,245}             % Note background
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing,decorations.pathreplacing}
+
+%% ============================================
+%% TIKZ DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[line width=1pt,GraceGold] (0,-1) -- (0,1);
+  \draw[line width=1pt,GraceGold] (-0.6,0.3) -- (0.6,0.3);
+\end{tikzpicture}%
+}
+
+% Section divider with cross
+\newcommand{\sectiondiv}{%
+  \begin{center}
+    \vspace{0.3cm}
+    {\color{GraceGold}\rule{1.5in}{0.5pt}}%
+    \hspace{0.2cm}\crosssymbol\hspace{0.2cm}%
+    {\color{GraceGold}\rule{1.5in}{0.5pt}}
+    \vspace{0.3cm}
+  \end{center}
+}
+
+% Ornament divider
+\newcommand{\ornamentdiv}{%
+  \begin{center}
+    \vspace{0.2cm}
+    {\color{GraceGold}\ensuremath{\diamond}\quad\ensuremath{\diamond}\quad\ensuremath{\diamond}}
+    \vspace{0.2cm}
+  \end{center}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=DeepBlue,
+  urlcolor=GraceGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfauthor={PubHub Three Books Project},
+  pdftitle={Philemon Study 2026},
+  pdfsubject={Grace Redemption Reconciliation}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{colortbl}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.3}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% CHAPTER AND SECTION STYLING
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{DeepBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{GraceGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{DeepBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{GraceGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{DeepBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{RedemptionRed}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+
+% Chapter TOC entries: no number, just title with left padding
+% \@tempdima=0pt prevents empty \numberline{} from eating the first CJK character
+\renewcommand*\l@chapter[2]{%
+  \ifnum \c@tocdepth >\m@ne
+    \addpenalty{-\@highpenalty}%
+    \vskip 1.0em \@plus\p@
+    \setlength\@tempdima{0pt}%
+    \begingroup
+      \parindent \z@ \leftskip 0.5em \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode \large\bfseries\color{DeepBlue}%
+      #1\nobreak\hfil \nobreak\hb@xt@\@pnumwidth{\hss #2}\par
+      \penalty\@highpenalty
+    \endgroup
+  \fi}
+\makeatother
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\textsc{\color{LightGray}\leftmark}}
+\fancyhead[LO]{\textsc{\color{LightGray}\rightmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Plain style for chapter pages
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.5\baselineskip}%
+  \list{}{%
+    \leftmargin=0.8em
+    \rightmargin=0.4em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \large\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.5\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% COVER PAGE — Decorative full-page design with Psalm 131
+\begin{tikzpicture}[remember picture, overlay]
+  % Outer gold frame
+  \draw[GraceGold, line width=2pt, rounded corners=8pt]
+    ([shift={(0.5in,0.5in)}]current page.south west)
+    rectangle
+    ([shift={(-0.5in,-0.5in)}]current page.north east);
+  % Inner decorative frame
+  \draw[GraceGold!40, line width=0.5pt, rounded corners=6pt]
+    ([shift={(0.6in,0.6in)}]current page.south west)
+    rectangle
+    ([shift={(-0.6in,-0.6in)}]current page.north east);
+  % Corner crosses
+  \node at ([shift={(0.85in,-0.85in)}]current page.north west) {\crosssymbol};
+  \node at ([shift={(-0.85in,-0.85in)}]current page.north east) {\crosssymbol};
+  \node at ([shift={(0.85in,0.85in)}]current page.south west) {\crosssymbol};
+  \node at ([shift={(-0.85in,0.85in)}]current page.south east) {\crosssymbol};
+\end{tikzpicture}
+
+\vspace*{1.2in}
+
+\begin{center}
+
+{\fontsize{14}{18}\selectfont\scshape\color{GraceGold} 三書精讀系列}\\[0.15cm]
+{\small\color{LightGray} Three Books Deep Reading Series}
+
+\vspace{0.8cm}
+
+{\fontsize{56}{64}\selectfont\bfseries\color{RedemptionRed} 腓利門書}
+
+\vspace{0.3cm}
+
+{\fontsize{30}{36}\selectfont\color{DeepBlue}\bfseries 恩典的懷抱}
+
+\vspace{0.15cm}
+
+{\Large\itshape\color{LightGray} Philemon: The Embrace of Grace}
+
+\vspace{1cm}
+
+{\color{GraceGold}\rule{2.5in}{1pt}}
+
+\vspace{0.8cm}
+
+{\large\itshape\color{TextGray}
+「我的心平穩安靜，\\[0.15cm]
+好像斷過奶的孩子在他母親的懷中。」\\[0.3cm]
+\normalsize — 詩篇 131:2}
+
+\vfill
+
+{\normalsize\color{TextGray} 整合閱讀}\\[0.15cm]
+{\Large\scshape 《悲慘世界》\enspace\textperiodcentered\enspace《復活》}\\[0.1cm]
+{\small\itshape\color{LightGray} Les Mis\'{e}rables \enspace\textperiodcentered\enspace Resurrection}
+
+\vspace{0.5cm}
+
+{\color{GraceGold}\rule{1.5in}{0.5pt}}
+
+\vspace{0.3cm}
+
+{\normalsize\scshape\color{DeepBlue} PubHub}\\[0.05cm]
+{\small\color{LightGray} 2026}
+
+\end{center}
+\clearpage
+
+% Half title page
+\begin{center}
+\vspace*{1.5in}
+{\fontsize{16}{20}\selectfont\scshape\color{DeepBlue} 三書精讀系列}\\[0.3cm]
+{\fontsize{14}{18}\selectfont\color{LightGray} Three Books Deep Reading Series}\\[0.8cm]
+{\fontsize{48}{54}\selectfont\bfseries\color{RedemptionRed} 腓利門書}\\[0.2cm]
+{\fontsize{24}{28}\selectfont\color{DeepBlue} 恩典的懷抱}\\[0.5cm]
+{\Large\itshape\color{LightGray} The Embrace of Grace}
+\vfill
+\end{center}
+\clearpage
+
+% Title page
+\begin{center}
+\vspace*{0.3in}
+
+% Series header
+{\normalsize\scshape\color{DeepBlue} 三書精讀系列 · Three Books Deep Reading Series}
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{42}{48}\selectfont\color{RedemptionRed}\bfseries 腓利門書研讀}\\[0.15in]
+{\fontsize{26}{30}\selectfont\color{DeepBlue}\bfseries Philemon: The Embrace of Grace}
+
+\vspace{0.4cm}
+
+% Subtitle
+{\Large\color{DeepBlue}\textit{從保羅書信到世界文學中的救贖敘事}}\\[0.1cm]
+{\large\textit{From Paul's Epistle to World Literature's Redemption Narratives}}
+
+\vspace{0.3cm}
+
+% Gold line
+{\color{GraceGold}\rule{3in}{1pt}}
+
+\vspace{0.3cm}
+
+% Psalm 131:2-3 — Thematic grounding
+{\normalsize\itshape\color{TextGray}
+「我的心平穩安靜，好像斷過奶的孩子在他母親的懷中。」— 詩篇 131:2}
+
+\vspace{0.3cm}
+
+% Key verse box
+\fcolorbox{GraceGold}{ScriptureBg}{%
+\begin{minipage}{4.2in}
+\centering
+\vspace{0.25cm}
+\large\itshape\color{TextGray}
+「不再是奴僕，乃是高過奴僕，\\是親愛的兄弟。」\\[0.1em]
+\normalsize No longer as a bondservant but more than a bondservant,\\
+as a beloved brother.\\
+— 腓利門書 Philemon 16
+\vspace{0.25cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+{\large 整合閱讀}\\[0.1in]
+{\Large\scshape 《悲慘世界》 · 《復活》}\\[0.1in]
+{\normalsize\itshape Les Misérables · Resurrection}
+
+\vfill
+
+% Publisher info
+$if(author)$
+{\normalsize $author$}\\[0.2cm]
+$endif$
+
+$if(publisher)$
+{\large\scshape $publisher$}\\[0.1cm]
+$endif$
+
+$if(date)$
+{\normalsize $date$}
+$else$
+{\normalsize \today}
+$endif$
+
+\vspace{0.3cm}
+
+{\color{GraceGold}\rule{2in}{0.5pt}}
+
+\end{center}
+\clearpage
+
+% Copyright page
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+\textbf{腓利門書研讀——恩典的懷抱}\\
+\textbf{Philemon Study — Three Books Deep Reading Edition}\\[0.8em]
+
+Copyright \copyright\ \the\year\ Soli Deo Gloria — 唯獨榮耀神\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{文學作品 / Literary Works}\\
+\textbullet\ 《悲慘世界》— 維克多·雨果 (Victor Hugo, 1862)\\
+\textbullet\ 《復活》— 列夫·托爾斯泰 (Leo Tolstoy, 1899)\\[0.8em]
+
+\textbf{三書精讀方法}\\
+第一書：聖經經卷（腓利門書）— 永恆真理\\
+第二書：世界文學（悲慘世界、復活）— 歷史迴響\\
+第三書：生命實踐 — 當代應用\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
+
+8.5×11" Study Edition\\
+PubHub Publishing 2026
+
+\end{flushleft}
+\clearpage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{DeepBlue}\tableofcontents}
+\clearpage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+% Final page
+\clearpage
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+
+{\Large\color{GraceGold}\crosssymbol}
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{RedemptionRed}\bfseries 從「沒有益處」到「親愛的兄弟」}\\[0.15cm]
+{\Large\color{LightGray} From "Useless" to "Beloved Brother"}
+
+\vspace{0.5cm}
+
+{\normalsize\color{TextGray}\itshape
+「他若虧負你，或欠你甚麼，\\
+都歸在我的賬上。」\\[0.1em]
+— 腓利門書 18}
+
+\vspace{0.3cm}
+
+{\small\color{LightGray}
+"If he has wronged you at all, or owes you anything,\\
+charge that to my account."\\
+— Philemon 18}
+
+\vspace{0.6cm}
+
+\sectiondiv
+
+\vspace{0.4cm}
+
+{\small\scshape\color{DeepBlue} 三書精讀系列}\\[0.1cm]
+{\footnotesize Three Books Deep Reading Series}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{TextGray}
+腓利門書 · 悲慘世界 · 復活\\
+恩典 · 代贖 · 和好}
+
+\vspace{0.5cm}
+
+{\Large\color{GraceGold}\crosssymbol}
+
+\end{center}
+\vspace*{\fill}
+
+\end{document}

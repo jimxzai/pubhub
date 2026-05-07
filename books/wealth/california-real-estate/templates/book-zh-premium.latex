@@ -1,0 +1,261 @@
+% California Real Estate Book Template - Chinese Premium Version
+% 加州地产兵法 高级版 LaTeX 模板
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openright,twoside]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use premium macOS system fonts
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{SF Mono}
+
+% Enable CJK line breaking
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% Page geometry - book format (6x9 inches)
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.875in,
+  outer=0.625in
+}
+
+% Line spacing
+\linespread{1.3}
+
+% Colors - 古典兵法风格
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{128,0,0}
+\definecolor{quotecolor}{RGB}{70,70,70}
+\definecolor{suntzucolor}{RGB}{139,69,19}
+\definecolor{boxcolor}{RGB}{245,245,240}
+\definecolor{bordercolor}{RGB}{139,0,0}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=blue,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfencoding=auto,
+  pdftitle={加州地产兵法},
+  pdfauthor={Jim Xiao},
+  pdfsubject={California Real Estate Investment},
+  pdfkeywords={California, Real Estate, Sun Tzu, Investment}
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables with enhanced styling
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+\usepackage{colortbl}
+
+% Set table width
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.3}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\arrayrulecolor{bordercolor}\hline\hline}
+\renewcommand{\midrule}{\arrayrulecolor{bordercolor}\hline}
+\renewcommand{\bottomrule}{\arrayrulecolor{bordercolor}\hline\hline}
+
+% Chapter style - 经典兵法风格
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\huge\bfseries\color{chaptercolor}}
+  {\filleft\Large\color{suntzucolor}\chaptertitlename\ \thechapter}
+  {20pt}
+  {\Huge\filright}
+  [\vspace{2pt}\titlerule\vspace{2pt}\titlerule]
+\titlespacing*{\chapter}{0pt}{-30pt}{40pt}
+
+% Section styles
+\titleformat{\section}
+  {\normalfont\Large\bfseries\color{chaptercolor}}
+  {\thesection}{1em}{}
+\titleformat{\subsection}
+  {\normalfont\large\bfseries}
+  {\thesubsection}{1em}{}
+
+% Quote style - 孙子兵法引言专用
+\usepackage{csquotes}
+\usepackage{mdframed}
+\newmdenv[
+  skipabove=10pt,
+  skipbelow=10pt,
+  leftmargin=20pt,
+  rightmargin=20pt,
+  linewidth=2pt,
+  linecolor=suntzucolor,
+  backgroundcolor=boxcolor,
+  innertopmargin=10pt,
+  innerbottommargin=10pt
+]{suntzuquote}
+
+\renewenvironment{quote}
+  {\begin{suntzuquote}\color{suntzucolor}\itshape}
+  {\end{suntzuquote}}
+
+% Widow and orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Header and footer - 精致页眉页脚
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\thepage\quad\textcolor{bordercolor}{|}\quad\leftmark}
+\fancyhead[RO]{\rightmark\quad\textcolor{bordercolor}{|}\quad\thepage}
+\renewcommand{\headrulewidth}{0.5pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{bordercolor}\leaders\hrule height \headrulewidth\hfill}}
+
+% Code blocks
+\usepackage{listings}
+\lstset{
+  basicstyle=\small\ttfamily,
+  breaklines=true,
+  frame=single,
+  backgroundcolor=\color{boxcolor},
+  rulecolor=\color{bordercolor},
+  numbers=left,
+  numberstyle=\tiny\color{gray},
+  numbersep=5pt
+}
+
+% Drop caps for chapter beginnings
+\usepackage{lettrine}
+
+% Metadata
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Front matter
+\frontmatter
+
+% Half title page
+\thispagestyle{empty}
+\vspace*{3cm}
+\begin{center}
+{\huge\color{chaptercolor} 加州地产兵法}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{1.5cm}
+\begin{center}
+{\color{bordercolor}\rule{\textwidth}{2pt}}\\[0.5cm]
+$if(title)$
+{\Huge\bfseries\color{chaptercolor} $title$}\\[0.3cm]
+$endif$
+$if(subtitle)$
+{\Large\itshape $subtitle$}\\[0.5cm]
+$endif$
+{\color{bordercolor}\rule{\textwidth}{2pt}}\\[1.5cm]
+{\large\color{suntzucolor} 孙子兵法 × 价值投资 × 加州地产实战}\\[0.3cm]
+{\normalsize\color{suntzucolor} Sun Tzu Strategy × Value Investing × California Real Estate}\\[2.5cm]
+$if(author)$
+{\Large\bfseries $author$}\\[0.5cm]
+$endif$
+\vfill
+{\color{bordercolor}\rule{0.3\textwidth}{1pt}}\\[0.5cm]
+$if(publisher)$
+{\large $publisher$}\\[0.3cm]
+$endif$
+{\large 财富智慧系列 · 第三书}\\[0.3cm]
+$if(date)$
+{\large $date$}
+$else$
+{\large \today}
+$endif$
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small
+$if(copyright)$
+$copyright$
+$else$
+\textbf{加州地产兵法}\\
+\textit{California Real Estate: The Art of War Approach}\\[0.5cm]
+版权所有 \copyright\ \the\year\ $if(author)$$author$$endif$\\
+保留所有权利。未经许可不得复制或传播。\\[0.5cm]
+All rights reserved.\\[1cm]
+财富智慧系列 · 第三书\\
+Wealth Wisdom Series · Book 3\\[1cm]
+第一版\\
+First Edition
+$endif$
+\end{flushleft}
+\cleardoublepage
+
+% Dedication (optional)
+$if(dedication)$
+\thispagestyle{empty}
+\vspace*{3cm}
+\begin{center}
+\itshape
+$dedication$
+\end{center}
+\cleardoublepage
+$endif$
+
+% Table of contents
+\tableofcontents
+\cleardoublepage
+
+% Main matter
+\mainmatter
+
+$body$
+
+% Back matter
+\backmatter
+
+\end{document}

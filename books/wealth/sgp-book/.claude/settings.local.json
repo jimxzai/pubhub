@@ -1,0 +1,22 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /Users/jimxiao/dev/2025/AI2025/pubhub log --oneline -n 20 -- books/wealth/sgp-book/)",
+      "Bash(pandoc:*)",
+      "Bash(pip3 list:*)",
+      "Bash(typst --version:*)",
+      "Bash(pip3 install:*)",
+      "Bash(weasyprint:*)",
+      "Bash(ls:*)",
+      "Bash(file:*)",
+      "Bash(open silicon-jim-en.pdf silicon-jim-zh.pdf)",
+      "Bash(xelatex:*)",
+      "Bash(tlmgr install:*)",
+      "Bash(sudo tlmgr install:*)",
+      "Bash(open:*)",
+      "Bash(git -C /Users/jimxiao/dev/2025/AI2025/pubhub log --all --full-history -- \"**/*template*.tex\" \"**/silicon-jim*.tex\")",
+      "Bash(pdfinfo:*)",
+      "Bash(mdls:*)"
+    ]
+  }
+}
