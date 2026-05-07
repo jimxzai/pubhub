@@ -1,0 +1,179 @@
+% Gospel of John Template - Based on proven Silicon Jim simple template
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openright,twoside]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use macOS system fonts that support CJK
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{Heiti SC}
+\setmonofont{Menlo}
+
+% Enable CJK line breaking
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% Page geometry - book format (6x9 inches)
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.875in,
+  outer=0.625in
+}
+
+% Line spacing
+\linespread{1.4}
+
+% Colors - Gospel themed
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{25,25,112}        % Midnight blue (Truth)
+\definecolor{accentcolor}{RGB}{184,134,11}        % Dark golden (Glory)
+\definecolor{linkcolor}{RGB}{34,139,34}           % Forest green (Life)
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=accentcolor,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfencoding=auto
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{calc}
+
+% Math symbols (for checkboxes)
+\usepackage{amssymb}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Widow and orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Chapter styling
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\itshape\nouppercase{\leftmark}}
+\fancyhead[RO]{\small\itshape\nouppercase{\rightmark}}
+\fancyfoot[C]{\small\thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0pt}
+
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% Metadata
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Front matter
+\frontmatter
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{2.5cm}
+\begin{center}
+{\color{accentcolor}\rule{0.6\textwidth}{2pt}}
+
+\vspace{1.5cm}
+
+$if(title)$
+{\Huge\bfseries\color{chaptercolor} $title$}\\[1cm]
+$endif$
+$if(subtitle)$
+{\Large\itshape\color{chaptercolor} $subtitle$}\\[2.5cm]
+$endif$
+
+{\color{accentcolor}\rule{0.4\textwidth}{1pt}}
+
+\vspace{2cm}
+
+$if(author)$
+{\Large\color{chaptercolor} $author$}\\[1cm]
+$endif$
+\vfill
+
+{\color{accentcolor}\rule{0.6\textwidth}{2pt}}
+
+\vspace{0.5cm}
+
+$if(publisher)$
+{\large $publisher$}\\[0.5cm]
+$endif$
+$if(date)$
+{\large $date$}
+$else$
+{\large \today}
+$endif$
+
+\vspace{1cm}
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small
+$if(copyright)$
+$copyright$
+$else$
+版權所有 \copyright\ \the\year\ $if(author)$$author$$endif$\\
+保留所有權利。
+$endif$
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\tableofcontents
+\cleardoublepage
+
+% Main matter
+\mainmatter
+
+$body$
+
+\end{document}

@@ -1,0 +1,478 @@
+% PubHub Multi-Translation Bible Template
+% Gospel of John - Parallel Translation Study Bible
+% ESV (Red Letter), NKJV, NASB, NIV, CUV
+% Requires XeLaTeX for CJK support
+
+\documentclass[10pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Wider for multi-column text
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=8.5in,
+  paperheight=11in,
+  top=0.7in,
+  bottom=0.7in,
+  inner=0.7in,
+  outer=0.7in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.05}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.25em}
+
+%% ============================================
+%% COLOR SCHEME - Multi-Translation Bible
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterBlue}{RGB}{25,55,95}        % Deep navy for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
+
+% Red Letter Bible - Jesus's Words
+\definecolor{JesusRed}{RGB}{204,0,0}            % Classic red letter Bible (#CC0000)
+
+% Translation label colors
+\definecolor{ESVBlue}{RGB}{0,51,102}            % ESV brand blue
+\definecolor{NKJVPurple}{RGB}{102,51,153}       % NKJV purple
+\definecolor{NASBGreen}{RGB}{0,102,51}          % NASB green
+\definecolor{NIVOrange}{RGB}{204,102,0}         % NIV orange
+\definecolor{CUVRed}{RGB}{153,0,0}              % CUV Chinese red
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{245,248,252}         % Light blue for Greek
+\definecolor{TranslationBg}{RGB}{250,250,255}   % Light for translation boxes
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+\definecolor{VeryLightGray}{RGB}{240,240,240}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,backgrounds,decorations.pathmorphing}
+
+%% ============================================
+%% MULTI-COLUMN LAYOUT
+%% ============================================
+\usepackage{multicol}
+\setlength{\columnsep}{0.3in}
+\setlength{\columnseprule}{0.4pt}
+\def\columnseprulecolor{\color{VeryLightGray}}
+
+%% ============================================
+%% RED LETTER BIBLE COMMANDS
+%% ============================================
+
+% Primary command for Jesus's words - Red Letter
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+% Translation label commands
+\newcommand{\esvlabel}{\textcolor{ESVBlue}{\textbf{ESV}}}
+\newcommand{\nkjvlabel}{\textcolor{NKJVPurple}{\textbf{NKJV}}}
+\newcommand{\nasblabel}{\textcolor{NASBGreen}{\textbf{NASB}}}
+\newcommand{\nivlabel}{\textcolor{NIVOrange}{\textbf{NIV}}}
+\newcommand{\cuvlabel}{\textcolor{CUVRed}{\textbf{CUV/和合本}}}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}Multi-Translation Study Bible}
+\fancyhead[RE]{\small\itshape\color{LightGray}Gospel of John · 約翰福音}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{10pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \normalsize\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 6pt
+    \fi
+    \interlinepenalty\@M
+    \Large \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1pt}
+    \vskip 10pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{10pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \Large \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 6pt
+    {\color{ScriptureGold}\hrule height 1pt}
+    \vskip 10pt
+  }}
+
+% Section styling - smaller for compact layout
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2ex \@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus.2ex}%
+  {\normalfont\normalsize\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\small\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1ex\@plus -0.5ex \@minus -.2ex}%
+  {0.5ex \@plus .2ex}%
+  {\normalfont\small\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - for Scripture passages
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.2\baselineskip}%
+  \list{}{%
+    \leftmargin=0.3em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.2\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+% Shaded and Highlighting environments for code blocks (simple fallback)
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{%
+  \par\vspace{0.3\baselineskip}%
+  \small\ttfamily%
+}{%
+  \par\vspace{0.3\baselineskip}%
+}
+\newenvironment{Highlighting}{%
+  \ttfamily%
+}{%
+}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.77,0.63,0.00}{#1}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{\textbf{\textit{#1}}}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1cm}
+
+% Decorative line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{4in}{1.5pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.8cm}
+
+% Main title
+{\fontsize{32}{40}\selectfont\bfseries\color{ChapterBlue} Multi-Translation}\\[0.3cm]
+{\fontsize{32}{40}\selectfont\bfseries\color{ChapterBlue} Study Bible}\\[0.4cm]
+{\Large\itshape\color{LightGray} 多譯本研讀聖經}
+
+\vspace{0.8cm}
+
+% Book title
+{\fontsize{24}{30}\selectfont\bfseries Gospel of John}\\[0.2cm]
+{\Large 約翰福音}
+
+\vspace{0.6cm}
+
+% Red Letter badge
+\fcolorbox{JesusRed}{white}{%
+\begin{minipage}{2.5in}
+\centering
+\vspace{0.2cm}
+\textcolor{JesusRed}{\Large\bfseries Red Letter Edition}\\[0.1cm]
+\small Jesus's Words in Red
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vspace{0.8cm}
+
+% Translation list
+\begin{tikzpicture}
+  \node[font=\normalsize\bfseries,color=ChapterBlue] at (0,2) {Five Translations Compared};
+
+  \node[font=\small,color=ESVBlue] at (-2,1.2) {\textbf{ESV}};
+  \node[font=\tiny,color=TextGray] at (-2,0.9) {English Standard};
+
+  \node[font=\small,color=NKJVPurple] at (-0.5,1.2) {\textbf{NKJV}};
+  \node[font=\tiny,color=TextGray] at (-0.5,0.9) {New King James};
+
+  \node[font=\small,color=NASBGreen] at (1,1.2) {\textbf{NASB}};
+  \node[font=\tiny,color=TextGray] at (1,0.9) {New American Std};
+
+  \node[font=\small,color=NIVOrange] at (2.5,1.2) {\textbf{NIV}};
+  \node[font=\tiny,color=TextGray] at (2.5,0.9) {New International};
+
+  \node[font=\small,color=CUVRed] at (0,0.3) {\textbf{CUV 和合本}};
+  \node[font=\tiny,color=TextGray] at (0,0) {Chinese Union Version};
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+% Key verse
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+\jesus{For God so loved the world, that he gave his only Son,}\\
+\jesus{that whoever believes in him should not perish but have eternal life.}\\[0.2em]
+\footnotesize — John 3:16 (ESV)
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vfill
+
+% Formula and author info
+{\normalsize\color{ScriptureGold}\bfseries Glory = Grace + Truth}\\[0.2cm]
+{\footnotesize\color{LightGray} 榮耀 = 恩典 + 真理}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.5cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{4in}{1.5pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{Gospel of John Multi-Translation Study Bible}\\
+\textbf{約翰福音多譯本研讀聖經}\\[0.8em]
+
+Copyright \copyright\ \the\year\ PubHub 三書精讀系統\\
+All rights reserved.\\[0.8em]
+
+\textbf{Translations Used / 聖經版本}\\[0.3em]
+\textcolor{ESVBlue}{\textbullet\ \textbf{ESV}} — English Standard Version \copyright\ Crossway\\
+\textcolor{NKJVPurple}{\textbullet\ \textbf{NKJV}} — New King James Version \copyright\ Thomas Nelson\\
+\textcolor{NASBGreen}{\textbullet\ \textbf{NASB}} — New American Standard Bible \copyright\ Lockman Foundation\\
+\textcolor{NIVOrange}{\textbullet\ \textbf{NIV}} — New International Version \copyright\ Biblica\\
+\textcolor{CUVRed}{\textbullet\ \textbf{CUV}} — 和合本聖經 (Chinese Union Version) — Public Domain\\[0.8em]
+
+\textbf{Red Letter Edition}\\
+Jesus's words are displayed in \textcolor{JesusRed}{red} following the ESV text.\\[0.8em]
+
+Scripture quotations are used for personal study and educational purposes.\\
+For commercial use, please obtain proper licensing from each publisher.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

@@ -1,0 +1,1585 @@
+% ============================================================================
+% Bible Heroes for Teens - Liturgical Style Edition
+% 圣经英雄传 — 青少年版 (12岁以上)
+% Large Print (8.5×11" Letter) with Red Letter Bible
+% Bilingual Chinese-English
+% Based on Gospel Harmony Liturgical Template
+% Requires XeLaTeX for CJK support
+% ============================================================================
+
+\documentclass[12pt,twoside,openright]{memoir}
+
+%% ============================================
+%% PAGE SIZE - 8.5×11" Letter
+%% ============================================
+\setstocksize{11in}{8.5in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+
+% Generous margins for readability
+\setlrmarginsandblock{1.25in}{1in}{*}
+\setulmarginsandblock{1in}{1.25in}{*}
+\setheadfoot{0.5in}{0.5in}
+\setheaderspaces{*}{0.3in}{*}
+\checkandfixthelayout
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+% Main CJK fonts - large and readable
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% LINE SPACING - Large Print for Readability
+%% ============================================
+\linespread{1.35}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+%% ============================================
+%% COLOR SCHEME - Liturgical Edition
+%% ============================================
+\usepackage{xcolor}
+
+% Primary liturgical colors
+\definecolor{LiturgicalRed}{RGB}{165,30,30}       % Deep ceremonial red
+\definecolor{LiturgicalGold}{RGB}{184,134,11}     % Gold for ornaments
+\definecolor{LiturgicalBlue}{RGB}{40,60,100}      % Deep blue for headings
+\definecolor{RubricRed}{RGB}{180,40,40}           % Instructions in red
+
+% RED LETTER BIBLE - Jesus's Words
+\definecolor{JesusRed}{RGB}{180,0,0}              % Deep red letter Bible red
+
+% Liturgical season colors
+\definecolor{AdventBlue}{RGB}{75,0,130}           % Violet/Purple for Advent
+\definecolor{OrdinaryGreen}{RGB}{0,128,0}         % Green for Ordinary Time
+\definecolor{HolyWeekRed}{RGB}{139,0,0}           % Deep red for Passion
+\definecolor{EasterGold}{RGB}{255,215,0}          % Gold for Easter
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}       % Cream background
+\definecolor{ThinkBg}{RGB}{245,248,252}           % Light blue for reflection
+\definecolor{NoteBg}{RGB}{255,253,245}            % Note background
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Hero colors for different parts
+\definecolor{OTHeroColor}{RGB}{139,90,43}         % Bronze for OT heroes
+\definecolor{JesusColor}{RGB}{165,30,30}          % Red for Jesus section
+\definecolor{NTHeroColor}{RGB}{70,130,180}        % Steel blue for NT heroes
+
+%% ============================================
+%% GRAPHICS AND TIKZ
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{
+  shapes,
+  shapes.geometric,
+  arrows,
+  arrows.meta,
+  positioning,
+  calc,
+  decorations.pathmorphing,
+  patterns,
+  shadows
+}
+
+%% ============================================
+%% RED LETTER BIBLE COMMAND
+%% ============================================
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
+
+%% ============================================
+%% SCRIPTURE VERSE COMMAND
+%% ============================================
+\newcommand{\bibleverse}[1]{%
+  \vspace{0.5em}
+  \begin{center}
+  \fcolorbox{LiturgicalGold}{ScriptureBg}{%
+    \begin{minipage}{0.85\textwidth}
+      \centering
+      \vspace{0.3em}
+      \itshape\color{TextGray} #1
+      \vspace{0.3em}
+    \end{minipage}
+  }
+  \end{center}
+  \vspace{0.5em}
+}
+
+%% ============================================
+%% REFLECTION BOX COMMAND
+%% ============================================
+\newcommand{\thinkbox}[1]{%
+  \vspace{0.5em}
+  \begin{center}
+  \fcolorbox{LiturgicalBlue}{ThinkBg}{%
+    \begin{minipage}{0.85\textwidth}
+      \vspace{0.3em}
+      {\small\bfseries\color{LiturgicalBlue} 思考题 Think About It:}\\[0.3em]
+      \small\color{TextGray} #1
+      \vspace{0.3em}
+    \end{minipage}
+  }
+  \end{center}
+  \vspace{0.5em}
+}
+
+%% ============================================
+%% LITURGICAL COMMANDS
+%% ============================================
+
+% Section divider with cross
+\newcommand{\liturgicaldiv}{%
+  \begin{center}
+    \vspace{0.5em}
+    {\Large\color{LiturgicalGold}\ensuremath{\dagger}\quad\ensuremath{\dagger}\quad\ensuremath{\dagger}}
+    \vspace{0.5em}
+  \end{center}
+}
+
+% Ornamental divider
+\newcommand{\ornamentdiv}{%
+  \begin{center}
+    \vspace{0.3em}
+    \begin{tikzpicture}
+      \draw[LiturgicalGold, line width=1pt] (-2,0) -- (-0.5,0);
+      \node[color=LiturgicalGold] at (0,0) {\ensuremath{\diamond}};
+      \draw[LiturgicalGold, line width=1pt] (0.5,0) -- (2,0);
+    \end{tikzpicture}
+    \vspace{0.3em}
+  \end{center}
+}
+
+% Drop cap
+\newcommand{\dropcap}[1]{%
+  {\color{LiturgicalRed}\fontsize{42}{48}\selectfont\bfseries #1}%
+}
+
+%% ============================================
+%% HERO SCENE DIAGRAMS (TikZ)
+%% ============================================
+
+% Abraham and the Stars (God's Promise)
+\newcommand{\abrahamscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Night sky
+  \fill[blue!80!black] (0,2) rectangle (5,5);
+  % Stars (many, representing God's promise)
+  \foreach \x/\y in {0.3/4.5,0.8/3.8,1.2/4.2,1.7/3.5,2.2/4.8,2.8/4,3.3/4.5,3.8/3.7,4.2/4.3,4.7/4,
+                     0.5/3,1.5/2.8,2.5/3.2,3.5/2.5,4.5/3.3,1/4.7,2/3.9,3/4.6,4/4.1} {
+    \fill[yellow!90] (\x,\y) circle (0.06);
+  }
+  % Larger stars
+  \foreach \x/\y in {1.5/4.5,3/3.5,4/4.5} {
+    \fill[yellow!90] (\x,\y) circle (0.1);
+    \foreach \a in {0,72,144,216,288} {
+      \draw[yellow!90, line width=0.5pt] (\x,\y) -- ++(\a:0.15);
+    }
+  }
+  % Desert ground
+  \fill[yellow!40!brown!30] (0,0) rectangle (5,2);
+  % Abraham figure looking up
+  \fill[brown!60] (2.5,1.8) circle (0.25); % head
+  \fill[brown!50] (2.3,0.8) rectangle (2.7,1.6); % body
+  \fill[white!80] (2.2,1.6) -- (2.5,1.9) -- (2.8,1.6) -- cycle; % beard
+  % Arm raised to sky
+  \draw[brown!50, line width=3pt] (2.7,1.4) -- (3.2,2.2);
+  % Tent in background
+  \fill[brown!40] (0.5,0.5) -- (1.5,1.5) -- (2.5,0.5) -- cycle;
+  % Moon
+  \fill[yellow!30] (4.5,4.5) circle (0.25);
+  \fill[blue!80!black] (4.35,4.5) circle (0.2);
+\end{tikzpicture}%
+}
+
+% Jacob Wrestling with God
+\newcommand{\jacobscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Night sky with dawn breaking
+  \fill[blue!60!black] (0,3) rectangle (5,5);
+  \fill[orange!30] (0,3) rectangle (5,3.5);
+  % River (Jabbok)
+  \fill[blue!40] (0,0) rectangle (5,1);
+  % Riverbank
+  \fill[brown!30] (0,1) rectangle (5,3);
+  % Jacob wrestling (two figures intertwined)
+  % Angel figure (glowing)
+  \fill[white!80] (2.8,2.5) circle (0.3); % head
+  \fill[white!70] (2.6,1.5) rectangle (3,2.3); % body
+  \fill[yellow!30] (2.8,2.5) circle (0.5); % glow
+  % Jacob figure
+  \fill[brown!60] (2.2,2.3) circle (0.25); % head
+  \fill[brown!50] (2,1.3) rectangle (2.4,2.1); % body
+  % Arms locked in wrestling
+  \draw[brown!50, line width=3pt] (2.4,1.8) -- (2.6,1.8);
+  \draw[white!70, line width=3pt] (2.6,1.9) -- (2.4,1.9);
+  % Stars
+  \foreach \x/\y in {0.5/4,1.5/4.5,3.5/4.2,4.5/4.7} {
+    \fill[yellow!80] (\x,\y) circle (0.05);
+  }
+  % Rising sun hint
+  \fill[orange!60] (5,3.2) circle (0.3);
+\end{tikzpicture}%
+}
+
+% Joshua and Jericho Walls
+\newcommand{\joshuascene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky
+  \fill[blue!25] (0,3) rectangle (5,5);
+  % Ground
+  \fill[yellow!30] (0,0) rectangle (5,3);
+  % Jericho walls (crumbling)
+  \fill[brown!50] (3,1) rectangle (3.5,4);
+  \fill[brown!50] (3.5,1) rectangle (4,3.5);
+  \fill[brown!50] (4,1) rectangle (4.5,3);
+  % Falling blocks
+  \fill[brown!60] (3.8,2.5) rectangle (4.1,2.8);
+  \fill[brown!60] (4.2,2) rectangle (4.5,2.3);
+  \fill[brown!60] (3.6,1.5) rectangle (3.9,1.8);
+  % Cracks
+  \draw[black, line width=1pt] (3.2,2) -- (3.4,2.5) -- (3.3,3);
+  \draw[black, line width=1pt] (3.7,2.5) -- (3.9,3) -- (3.8,3.5);
+  % Joshua figure with sword raised
+  \fill[brown!60] (1.5,2.3) circle (0.25); % head
+  \fill[brown!50] (1.3,1.3) rectangle (1.7,2.1); % body
+  \draw[gray!70, line width=2pt] (1.7,2) -- (2.3,2.8); % sword
+  % Priests with trumpets (ark bearers)
+  \foreach \x in {0.5,0.9} {
+    \fill[white!80] (\x,2) circle (0.15);
+    \fill[white!70] (\x-0.08,1.3) rectangle (\x+0.08,1.85);
+    \draw[yellow!70, line width=1.5pt] (\x+0.1,1.7) -- (\x+0.4,1.9); % trumpet
+  }
+  % Ark of covenant
+  \fill[yellow!70] (2,1.5) rectangle (2.6,1.8);
+  \fill[yellow!80] (2.1,1.8) rectangle (2.5,2);
+  % Sun
+  \fill[yellow!80] (0.8,4.3) circle (0.3);
+\end{tikzpicture}%
+}
+
+% Esther Before the King
+\newcommand{\estherscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Palace interior
+  \fill[purple!20] (0,0) rectangle (5,5);
+  % Throne platform
+  \fill[purple!40] (0,0) rectangle (5,0.8);
+  % Columns
+  \fill[yellow!70] (0.3,0.8) rectangle (0.6,4.5);
+  \fill[yellow!70] (4.4,0.8) rectangle (4.7,4.5);
+  % Throne
+  \fill[purple!60] (3.5,1) rectangle (4.3,2.8);
+  \fill[yellow!80] (3.6,2.8) rectangle (4.2,3.2); % top
+  % King on throne
+  \fill[brown!50] (3.9,2.3) circle (0.2); % head
+  \fill[purple!70] (3.7,1.5) rectangle (4.1,2.1); % body
+  \fill[yellow!90] (3.75,2.4) -- (3.9,2.65) -- (4.05,2.4) -- cycle; % crown
+  % Scepter extended
+  \draw[yellow!90, line width=3pt] (3.7,1.8) -- (2.5,2.2);
+  % Esther approaching
+  \fill[brown!50] (1.5,2) circle (0.22); % head
+  \fill[blue!50] (1.3,1) -- (1.5,1.8) -- (1.7,1) -- (1.9,0.8) -- (1.1,0.8) -- cycle; % dress
+  % Crown on Esther
+  \fill[yellow!80] (1.4,2.15) -- (1.5,2.35) -- (1.6,2.15) -- cycle;
+  % Esther's outstretched hand toward scepter
+  \draw[brown!50, line width=2pt] (1.7,1.6) -- (2.3,2);
+  % Royal tapestry in background
+  \fill[red!40] (1.8,3.5) rectangle (3.2,4.5);
+  \draw[yellow!70, line width=1pt] (1.8,3.5) rectangle (3.2,4.5);
+  % Star symbol (Esther means "star")
+  \fill[yellow!90] (2.5,4) circle (0.15);
+  \foreach \a in {0,72,144,216,288} {
+    \draw[yellow!90, line width=1pt] (2.5,4) -- ++(\a:0.25);
+  }
+\end{tikzpicture}%
+}
+
+% Joseph's Coat of Many Colors
+\newcommand{\josephscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky
+  \fill[blue!20] (0,3) rectangle (5,5);
+  % Ground
+  \fill[yellow!30] (0,0) rectangle (5,3);
+  % Joseph figure with colorful coat
+  \fill[brown!60] (2.5,2) circle (0.3); % head
+  \fill[red!70] (2.2,0.5) -- (2.5,1.7) -- (2.8,0.5) -- cycle; % coat base
+  \fill[blue!60] (2.0,1.2) -- (2.3,1.5) -- (2.0,0.8) -- cycle; % left sleeve
+  \fill[green!60] (3.0,1.2) -- (2.7,1.5) -- (3.0,0.8) -- cycle; % right sleeve
+  \fill[yellow!70] (2.3,1.3) rectangle (2.7,0.8); % middle stripe
+  \fill[purple!60] (2.35,0.8) rectangle (2.65,0.5); % bottom stripe
+  % Sun
+  \fill[yellow!80] (4.2,4.2) circle (0.4);
+  \foreach \a in {0,45,...,315} {
+    \draw[yellow!80, line width=2pt] (4.2,4.2) -- ++(\a:0.6);
+  }
+  % Brothers in background
+  \foreach \x in {0.5,1,1.5,3.5,4,4.5} {
+    \fill[brown!40] (\x,2.2) circle (0.15);
+    \fill[brown!30] (\x-0.1,1.5) rectangle (\x+0.1,2.0);
+  }
+\end{tikzpicture}%
+}
+
+% Moses and the Red Sea
+\newcommand{\mosesscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky
+  \fill[blue!30] (0,3) rectangle (5,5);
+  % Water walls
+  \fill[blue!60] (0,0) rectangle (1.5,4);
+  \fill[blue!60] (3.5,0) rectangle (5,4);
+  % Dry path
+  \fill[yellow!40] (1.5,0) rectangle (3.5,4);
+  % Moses figure
+  \fill[brown!60] (2.5,3.5) circle (0.25); % head
+  \fill[brown!40] (2.3,2.2) rectangle (2.7,3.3); % body
+  % Staff raised
+  \draw[brown!70, line width=3pt] (2.7,2.5) -- (3.2,4.2);
+  % People following
+  \foreach \y in {1,1.5,2} {
+    \fill[brown!40] (2.5,\y) circle (0.12);
+  }
+  % Fish in water
+  \fill[gray!50] (0.7,2) ellipse (0.2 and 0.1);
+  \fill[gray!50] (4.3,2.5) ellipse (0.2 and 0.1);
+  % Cloud above
+  \fill[white] (2.5,4.6) ellipse (0.8 and 0.3);
+\end{tikzpicture}%
+}
+
+% Samson and the Pillars
+\newcommand{\samsonscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Background
+  \fill[gray!20] (0,0) rectangle (5,5);
+  % Pillars
+  \fill[gray!60] (1,0) rectangle (1.5,4.5);
+  \fill[gray!60] (3.5,0) rectangle (4,4.5);
+  % Roof blocks
+  \fill[gray!50] (0,4.3) rectangle (2,5);
+  \fill[gray!50] (3,4.3) rectangle (5,5);
+  % Samson figure (muscular, pushing)
+  \fill[brown!60] (2.5,2.8) circle (0.35); % head
+  \fill[brown!50] (2.1,1.2) rectangle (2.9,2.5); % body
+  % Long hair
+  \draw[black, line width=1.5pt] (2.2,3) .. controls (1.8,3.2) .. (1.5,2.8);
+  \draw[black, line width=1.5pt] (2.8,3) .. controls (3.2,3.2) .. (3.5,2.8);
+  % Arms pushing pillars
+  \draw[brown!50, line width=4pt] (2.1,2.2) -- (1.5,2.2);
+  \draw[brown!50, line width=4pt] (2.9,2.2) -- (3.5,2.2);
+  % Cracks in pillars
+  \draw[black, line width=1pt] (1.2,3) -- (1.3,3.5) -- (1.2,4);
+  \draw[black, line width=1pt] (3.7,3) -- (3.8,3.5) -- (3.7,4);
+\end{tikzpicture}%
+}
+
+% Ruth Gleaning in the Field
+\newcommand{\ruthscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky
+  \fill[blue!20] (0,3.5) rectangle (5,5);
+  % Field
+  \fill[yellow!50] (0,0) rectangle (5,3.5);
+  % Wheat stalks
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3,2.8,3.3,3.8,4.3,4.7} {
+    \draw[yellow!70!brown, line width=1.5pt] (\x,0) -- (\x,2.5);
+    \fill[yellow!80] (\x,2.5) ellipse (0.1 and 0.2);
+  }
+  % Ruth figure (bending to glean)
+  \fill[brown!50] (2.5,2.2) circle (0.25); % head
+  \fill[blue!40] (2.2,1.2) -- (2.5,2) -- (2.8,1.2) -- (3,0.8) -- (2,0.8) -- cycle; % dress
+  % Head covering
+  \fill[white!90] (2.3,2.3) .. controls (2.5,2.6) .. (2.7,2.3) -- cycle;
+  % Gathered wheat in hand
+  \fill[yellow!80] (3.2,1.5) ellipse (0.15 and 0.3);
+  % Sun
+  \fill[yellow!80] (4.2,4.3) circle (0.35);
+\end{tikzpicture}%
+}
+
+% David vs Goliath
+\newcommand{\davidscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky
+  \fill[blue!25] (0,3) rectangle (5,5);
+  % Ground
+  \fill[green!30] (0,0) rectangle (5,3);
+  % Goliath (big, falling)
+  \fill[gray!50] (3.8,3.2) circle (0.4); % head
+  \fill[gray!60] (3.5,1.5) rectangle (4.1,3); % body
+  \fill[gray!70] (3.8,3.6) -- (3.5,3.8) -- (4.1,3.8) -- cycle; % helmet
+  % Falling motion
+  \draw[red!60, line width=2pt] (3.8,3.2) circle (0.15); % hit mark on forehead
+  % David (small, victorious)
+  \fill[brown!50] (1.2,2.3) circle (0.2); % head
+  \fill[brown!40] (1,1.5) rectangle (1.4,2.1); % body
+  % Sling
+  \draw[brown!60, line width=1.5pt] (1.4,2) .. controls (1.8,2.5) .. (1.5,2.8);
+  % Stone trajectory
+  \draw[gray!60, dashed, line width=1pt] (1.5,2.8) -- (3.8,3.2);
+  \fill[gray!70] (2.5,3) circle (0.08); % stone
+  % Staff with sheep in background
+  \fill[white] (0.5,1.2) circle (0.15);
+  \fill[white] (0.8,1) circle (0.15);
+\end{tikzpicture}%
+}
+
+% Elijah and Fire from Heaven
+\newcommand{\elijahscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky (dark, dramatic)
+  \fill[blue!40] (0,3) rectangle (5,5);
+  % Ground
+  \fill[brown!30] (0,0) rectangle (5,3);
+  % Altar
+  \fill[gray!60] (2,0.5) rectangle (3,1.5);
+  \fill[gray!50] (1.8,1.5) rectangle (3.2,1.7);
+  % Wood on altar
+  \fill[brown!50] (2.1,1.7) rectangle (2.9,2);
+  % Fire from heaven
+  \fill[red!70] (2.5,2) -- (2,3.5) -- (2.5,3) -- (3,3.5) -- cycle;
+  \fill[yellow!80] (2.5,2.2) -- (2.2,3) -- (2.5,2.7) -- (2.8,3) -- cycle;
+  \fill[orange!80] (2.5,2) -- (2.3,2.8) -- (2.5,2.5) -- (2.7,2.8) -- cycle;
+  % Lightning from sky
+  \draw[yellow!90, line width=2pt] (2.5,5) -- (2.3,4) -- (2.7,3.5) -- (2.5,3);
+  % Elijah figure (kneeling, praying)
+  \fill[brown!50] (4,2) circle (0.2); % head
+  \fill[brown!40] (3.8,1.2) rectangle (4.2,1.8); % body
+  % Arms raised
+  \draw[brown!40, line width=3pt] (4,1.8) -- (4.3,2.5);
+  \draw[brown!40, line width=3pt] (4,1.8) -- (3.7,2.5);
+  % Water trenches
+  \fill[blue!50] (1.5,0.3) rectangle (3.5,0.5);
+\end{tikzpicture}%
+}
+
+% Peter Walking on Water
+\newcommand{\peterscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Night sky
+  \fill[blue!60] (0,3) rectangle (5,5);
+  % Stars
+  \foreach \x/\y in {0.5/4,1.2/4.5,2/4.2,3.5/4.7,4.3/4.1} {
+    \fill[white] (\x,\y) circle (0.05);
+  }
+  % Stormy water
+  \fill[blue!40] (0,0) rectangle (5,3);
+  \draw[blue!60, line width=1pt] (0,2.8) sin (1,3) cos (2,2.8) sin (3,3) cos (4,2.8) sin (5,3);
+  \draw[blue!50, line width=1pt] (0,2.3) sin (1,2.5) cos (2,2.3) sin (3,2.5) cos (4,2.3) sin (5,2.5);
+  % Jesus figure (glowing)
+  \fill[white!80] (1.5,2.2) circle (0.5); % glow
+  \fill[white!90] (1.5,2.5) circle (0.2); % head
+  \fill[white!80] (1.3,1.5) rectangle (1.7,2.3); % robe
+  % Peter walking toward Jesus
+  \fill[brown!50] (3.5,2.3) circle (0.2); % head
+  \fill[brown!40] (3.3,1.4) rectangle (3.7,2.1); % body
+  % Peter's arms reaching out
+  \draw[brown!40, line width=2pt] (3.3,2) -- (2.5,2.3);
+  % Boat in background
+  \fill[brown!60] (4.5,1.5) -- (4,1.8) -- (4,1.3) -- (5,1.3) -- (5,1.8) -- cycle;
+\end{tikzpicture}%
+}
+
+% Paul on the Damascus Road
+\newcommand{\paulscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky with bright light
+  \fill[blue!20] (0,3) rectangle (5,5);
+  % Blinding light from above
+  \fill[yellow!40] (2.5,5) -- (1,3) -- (4,3) -- cycle;
+  \fill[white!80] (2.5,4.5) circle (0.5);
+  % Light rays
+  \foreach \a in {-60,-30,0,30,60} {
+    \draw[yellow!80, line width=2pt] (2.5,4.5) -- ++(\a:-2);
+  }
+  % Road
+  \fill[brown!40] (0,0) -- (0,2) -- (5,1) -- (5,0) -- cycle;
+  % Saul fallen from horse
+  \fill[brown!50] (2.8,1.5) circle (0.2); % head
+  \fill[gray!40] (2.5,0.8) -- (2.8,1.3) -- (3.3,1) -- (3,0.5) -- cycle; % fallen body
+  % Horse
+  \fill[brown!60] (4,2) ellipse (0.4 and 0.25); % body
+  \fill[brown!60] (4.3,2.3) circle (0.15); % head
+  \draw[brown!60, line width=2pt] (3.7,1.8) -- (3.7,1.3); % legs
+  \draw[brown!60, line width=2pt] (4.2,1.8) -- (4.2,1.3);
+  % Companions standing confused
+  \fill[brown!40] (0.8,2) circle (0.15);
+  \fill[brown!30] (0.7,1.3) rectangle (0.9,1.8);
+  \fill[brown!40] (1.3,2.1) circle (0.15);
+  \fill[brown!30] (1.2,1.4) rectangle (1.4,1.9);
+\end{tikzpicture}%
+}
+
+% Jesus Teaching (Sermon on Mount)
+\newcommand{\jesusscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky
+  \fill[blue!20] (0,3.5) rectangle (5,5);
+  % Mountain/hill
+  \fill[green!40] (0,0) -- (0,2) -- (2.5,3.5) -- (5,2) -- (5,0) -- cycle;
+  % Jesus on the mount
+  \fill[white!90] (2.5,3.2) circle (0.3); % head with halo
+  \fill[white!80] (2.5,3.2) circle (0.25); % head
+  \fill[white!70] (2.2,2) rectangle (2.8,3); % robe
+  % Halo
+  \draw[yellow!80, line width=2pt] (2.5,3.2) circle (0.35);
+  % Crowd listening
+  \foreach \x/\y in {0.5/1,1/1.2,1.5/1.5,2/1.3,3/1.3,3.5/1.5,4/1.2,4.5/1} {
+    \fill[brown!40] (\x,\y) circle (0.12);
+  }
+  % Arms extended in teaching
+  \draw[white!70, line width=3pt] (2.2,2.7) -- (1.7,2.9);
+  \draw[white!70, line width=3pt] (2.8,2.7) -- (3.3,2.9);
+\end{tikzpicture}%
+}
+
+% Cross Scene
+\newcommand{\crossscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Dark sky
+  \fill[gray!40] (0,2.5) rectangle (5,5);
+  % Ground (Golgotha)
+  \fill[brown!40] (0,0) -- (0,2.5) -- (1,2) -- (2.5,2.8) -- (4,2) -- (5,2.5) -- (5,0) -- cycle;
+  % Three crosses
+  % Main cross (center, larger)
+  \fill[brown!70] (2.3,1.5) rectangle (2.7,4.5);
+  \fill[brown!70] (1.5,3.5) rectangle (3.5,3.8);
+  % Left cross
+  \fill[brown!60] (0.9,1.8) rectangle (1.1,3.8);
+  \fill[brown!60] (0.5,3) rectangle (1.5,3.2);
+  % Right cross
+  \fill[brown!60] (3.9,1.8) rectangle (4.1,3.8);
+  \fill[brown!60] (3.5,3) rectangle (4.5,3.2);
+  % Sun/moon (eclipse)
+  \fill[gray!60] (4,4.3) circle (0.3);
+  \fill[black!40] (4.1,4.3) circle (0.25);
+  % INRI sign
+  \fill[white] (2.1,4) rectangle (2.9,4.3);
+  \node[font=\tiny] at (2.5,4.15) {INRI};
+\end{tikzpicture}%
+}
+
+% Resurrection Scene
+\newcommand{\resurrectionscene}{%
+\begin{tikzpicture}[scale=0.8]
+  % Dawn sky
+  \fill[orange!30] (0,3) rectangle (5,5);
+  \fill[yellow!40] (0,4) rectangle (5,5);
+  % Garden
+  \fill[green!30] (0,0) rectangle (5,3);
+  % Empty tomb
+  \fill[gray!50] (1,1) -- (1,2.5) arc (180:0:0.8) -- (2.6,1) -- cycle;
+  \fill[black!30] (1.3,1) arc (180:0:0.5) -- (2.3,1) -- cycle; % opening
+  % Stone rolled away
+  \fill[gray!60] (3,1.2) circle (0.4);
+  % Risen Jesus (glowing figure)
+  \fill[yellow!30] (4,2.5) circle (0.8); % glow
+  \fill[white!95] (4,2.8) circle (0.2); % head
+  \fill[white!90] (3.8,1.8) rectangle (4.2,2.6); % robe
+  % Grave clothes in tomb
+  \fill[white!80] (1.5,1.2) rectangle (2.2,1.4);
+  % Light rays
+  \foreach \a in {0,30,60,90,120,150,180} {
+    \draw[yellow!60, line width=1pt] (4,2.5) -- ++(\a:1.2);
+  }
+  % Angels
+  \fill[white] (0.8,2.3) circle (0.12);
+  \fill[white] (2.4,2.3) circle (0.12);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HEROES OF FAITH TIMELINE
+%% ============================================
+\newcommand{\heroestimeline}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Main timeline axis
+  \draw[line width=2pt, LiturgicalGold] (-0.5,0) -- (15.5,0);
+
+  % Era backgrounds
+  \fill[OTHeroColor!20] (0,-1.8) rectangle (11.5,1.8);
+  \fill[JesusColor!20] (11.5,-1.8) rectangle (13,1.8);
+  \fill[NTHeroColor!20] (13,-1.8) rectangle (15.5,1.8);
+
+  % Timeline markers with heroes (expanded)
+  \foreach \x/\hero/\year in {
+    0.5/{亚伯拉罕}/{2000 BC},
+    1.5/{雅各}/{1900 BC},
+    2.5/{约瑟}/{1850 BC},
+    3.8/{摩西}/{1500 BC},
+    5/{约书亚}/{1400 BC},
+    6/{参孙}/{1100 BC},
+    7/{路得}/{1100 BC},
+    8.2/{大卫}/{1000 BC},
+    9.5/{以利亚}/{870 BC},
+    10.5/{以斯帖}/{480 BC},
+    12.2/{耶稣}/{4 BC-30},
+    14/{彼得}/{AD 30},
+    15/{保罗}/{AD 35}
+  } {
+    \fill[LiturgicalRed] (\x,0) circle (0.1);
+    \node[font=\tiny, above, text width=1cm, align=center] at (\x,0.25) {\hero};
+    \node[font=\tiny, below, color=LightGray] at (\x,-0.25) {\year};
+  }
+
+  % Era labels
+  \node[font=\small\bfseries, color=OTHeroColor] at (5.5,1.5) {旧约英雄 Old Testament Heroes};
+  \node[font=\small\bfseries, color=JesusColor] at (12.2,1.5) {基督};
+  \node[font=\small\bfseries, color=NTHeroColor] at (14.5,1.5) {使徒};
+
+  % Title
+  \node[font=\normalsize\bfseries, color=LiturgicalRed] at (7.5,-2.5) {HEROES OF FAITH 信心英雄时间轴};
+
+\end{tikzpicture}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=LiturgicalBlue,
+  urlcolor=LiturgicalGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdfauthor={PubHub Three Books Project},
+  pdftitle={Bible Heroes for Teens 2026},
+  pdfsubject={Heroes of the Bible - Teen Edition}
+}
+
+%% ============================================
+%% MEMOIR CHAPTER STYLE - LITURGICAL
+%% ============================================
+\makechapterstyle{liturgical}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapnamefont}{\normalfont\Large\scshape\color{LiturgicalBlue}}
+  \renewcommand*{\chapnumfont}{\normalfont\fontsize{48}{52}\selectfont\bfseries\color{LiturgicalRed}}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\bfseries\color{LiturgicalBlue}}
+  \renewcommand*{\printchaptername}{\centering\chapnamefont Chapter}
+  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering\chaptitlefont ##1\par
+    \vskip 10pt
+    {\color{LiturgicalGold}\rule{4in}{2pt}}
+  }
+  \setlength{\beforechapskip}{30pt}
+  \setlength{\afterchapskip}{35pt}
+}
+\chapterstyle{liturgical}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\setsecheadstyle{\normalfont\Large\bfseries\color{LiturgicalBlue}}
+\setsubsecheadstyle{\normalfont\large\bfseries\color{TextGray}}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\makepagestyle{liturgical}
+\makeevenhead{liturgical}{\Large\thepage}{}{\large\scshape\color{LightGray}\leftmark}
+\makeoddhead{liturgical}{\large\scshape\color{LightGray}\rightmark}{}{\Large\thepage}
+\makeheadrule{liturgical}{\textwidth}{1pt}
+\makeevenfoot{liturgical}{}{}{}
+\makeoddfoot{liturgical}{}{}{}
+\pagestyle{liturgical}
+
+% Plain style for chapter pages
+\makepagestyle{plain}
+\makeevenfoot{plain}{}{\Large\thepage}{}
+\makeoddfoot{plain}{}{\Large\thepage}{}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Half title page
+\begin{center}
+\vspace*{1.5in}
+{\fontsize{18}{22}\selectfont\scshape\color{LiturgicalBlue} Heroes of}\\[0.15cm]
+{\fontsize{56}{62}\selectfont\bfseries\color{LiturgicalRed} THE BIBLE}\\[0.25cm]
+{\fontsize{24}{28}\selectfont\scshape\color{LiturgicalBlue} for Teens}\\[0.3cm]
+{\Large\itshape\color{LightGray} 圣经英雄传}
+\vfill
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{center}
+\vspace*{0.25in}
+
+% Decorative header
+{\fontsize{16}{18}\selectfont\color{LiturgicalBlue}\scshape From Genesis to Acts}
+
+\vspace{0.3cm}
+
+% Main title - larger Chinese
+{\fontsize{48}{52}\selectfont\color{LiturgicalRed}\bfseries 圣经英雄传}\\[0.2in]
+{\fontsize{28}{32}\selectfont\color{LiturgicalBlue}\bfseries Heroes of the Bible}
+
+\vspace{0.4cm}
+
+% Subtitle
+{\Large\color{LiturgicalBlue}\textit{From Creation to the Early Church}}\\[0.1cm]
+{\large\textit{从创世到使徒 · 跨越千年的信仰之旅}}
+
+\vspace{0.4cm}
+
+% Gold line with cross
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=1.5pt] (-3,0) -- (-0.3,0);
+  \node[color=LiturgicalGold, font=\small] at (0,0) {\ensuremath{\dagger}};
+  \draw[LiturgicalGold, line width=1.5pt] (0.3,0) -- (3,0);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Key verse box
+\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\centering
+\vspace{0.25cm}
+\large\itshape\color{TextGray}
+「我们既有这许多的见证人，如同云彩围着我们，\\
+就当放下各样的重担，脱去容易缠累我们的罪，\\
+存心忍耐，奔那摆在我们前头的路程。」\\[0.1em]
+\normalsize Therefore, since we are surrounded by so great a cloud of witnesses...\\
+let us run with endurance the race that is set before us.\\
+— Hebrews 11:1 \& 12:1
+\vspace{0.25cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+{\large 亚伯拉罕 · 雅各 · 约瑟 · 摩西 · 约书亚}\\[0.05in]
+{\large 参孙 · 路得 · 大卫 · 以利亚 · 以斯帖}\\[0.1in]
+{\Large\scshape\color{JesusColor} 耶稣基督}\\[0.1in]
+{\large 彼得 · 保罗}
+
+\vfill
+
+% Publisher info
+{\normalsize Teen Edition 青少年版 (12+)}\\[0.2cm]
+{\large\scshape PubHub Publishing}\\[0.1cm]
+{\normalsize 2026}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=1.5pt] (-2.5,0) -- (-0.5,0);
+  \node[color=LiturgicalGold] at (0,0) {\ensuremath{\dagger}};
+  \draw[LiturgicalGold, line width=1.5pt] (0.5,0) -- (2.5,0);
+\end{tikzpicture}
+
+\end{center}
+\cleardoublepage
+
+% Heroes Timeline Page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5in}
+{\Large\bfseries\color{LiturgicalRed} Heroes of Faith Through History}\\[0.1cm]
+{\normalsize 信心英雄跨越历史}
+
+\vspace{0.8cm}
+
+\heroestimeline
+
+\vspace{0.8cm}
+
+{\normalsize\itshape\color{TextGray}
+``Now faith is the substance of things hoped for,\\
+the evidence of things not seen.''\\
+「信就是所望之事的实底，是未见之事的确据。」\\
+— Hebrews 11:1}
+
+\end{center}
+\cleardoublepage
+
+% Preface
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+{\Large\bfseries\color{LiturgicalBlue} 序言 Preface}
+\end{center}
+
+\vspace{0.3cm}
+
+{\large\dropcap{你}即将踏上一段跨越数千年的旅程——从古代近东的牧羊人，到罗马帝国的宣教士；从被卖为奴的少年，到海面上行走的渔夫。这些人生活在不同的时代，面对不同的挑战，却有一个共同点：他们相信那位看不见的神。}
+
+希伯来书第十一章被称为「信心名人堂」，列举了旧约中众多信心伟人的事迹。作者说，这些人「都是存着信心死的，并没有得着所应许的；却从远处望见，且欢喜迎接」（来11:13）。他们的信心，不是建立在眼见之上，而是建立在神的话语之上。
+
+本书精选了十三位圣经人物，分为三个部分：
+
+\begin{itemize}
+\item \textbf{第一部：旧约英雄}——从亚伯拉罕蒙召开始，经过雅各与神摔跤、约瑟在埃及的荣升、摩西带领出埃及、约书亚攻取应许之地，到参孙的力量与软弱、路得的忠贞、大卫的勇气、以利亚的孤独抗争、以斯帖的勇敢抉择。每个故事都展示神如何在平凡人身上成就非凡的计划。
+
+\item \textbf{第二部：耶稣基督}——整本圣经的核心。旧约的预言、应许、预表，都指向这一位。他不只是众英雄中的一位，而是赐下信心的源头，是「信心创始成终的耶稣」（来12:2）。
+
+\item \textbf{第三部：新约使徒}——彼得和保罗。他们亲眼见证了复活的基督，将福音从耶路撒冷传到地极。
+\end{itemize}
+
+读这些故事时，请思考：这些「英雄」其实都是普通人，有软弱、有失败、有恐惧。他们之所以被记念，不是因为他们有多完美，而是因为他们在软弱中信靠那位全能的神。
+
+愿这些故事激励你——不是成为「超级英雄」，而是成为一个真实地信靠神的人。
+
+\liturgicaldiv
+
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+\textbf{圣经英雄传——青少年版}\\
+\textbf{Heroes of the Bible — Teen Edition (Age 12+)}\\[0.8em]
+
+Copyright \copyright\ 2026 Soli Deo Gloria — 唯独荣耀神\\
+All rights reserved.\\[0.8em]
+
+\textbf{圣经版本 / Bible Versions}\\
+中文：和合本修订版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{Red Letter Bible}\\
+本书采用红字圣经格式，以\textcolor{JesusRed}{红色斜体}标示耶稣的话语。\\
+This edition uses Red Letter format with Jesus's words in \textcolor{JesusRed}{\textit{red italics}}.\\[0.8em]
+
+\textbf{Features}\\
+Large print (12pt) designed for comfortable reading.\\
+Bilingual Chinese-English with reflection questions.\\
+13 heroes: 10 OT + Jesus (5 chapters) + 2 NT Apostles.\\[0.8em]
+
+本书为七年三书精读项目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
+
+8.5×11" Teen Edition\\
+PubHub Publishing 2026
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{liturgical}
+{\color{LiturgicalBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+% ============================================
+% PART ONE: OLD TESTAMENT HEROES
+% ============================================
+\part{旧约英雄 Old Testament Heroes}
+
+% Chapter 1: Abraham
+\chapter{亚伯拉罕——信心之父}
+
+\begin{center}
+\scalebox{1.2}{\abrahamscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{亚}伯拉罕原名亚伯兰，住在富庶的吾珥城——当时世界上最先进的城市之一。然而，神呼召他离开熟悉的一切：
+
+\bibleverse{「你要离开本地、本族、父家，往我所要指示你的地去。我必叫你成为大国，我必赐福给你，叫你的名为大，你也要叫别人得福。」—— 创世记 12:1-2}
+
+七十五岁的亚伯兰带着妻子撒莱、侄儿罗得，走向一个他从未见过的地方。这就是信心——不是看见才相信，而是相信了才看见。
+
+但神的应许似乎遥遥无期。撒莱不能生育，年复一年过去，他们依然没有孩子。亚伯兰对神说：「我既然无子，你还赐我什么呢？」
+
+神把他带到户外，说：「你向天观看，数算众星，能数得过来吗？你的后裔将要如此。」亚伯兰仰望满天繁星，「信耶和华，耶和华就以此算为他的义」——这是圣经中第一次明确提到「因信称义」。
+
+二十五年后，当亚伯拉罕一百岁、撒拉九十岁时，应许的儿子以撒终于出生了。然而，神又给了他最难的考验：「你带着你的儿子，就是你独生的儿子，你所爱的以撒，往摩利亚地去，在我所要指示你的山上，把他献为燔祭。」
+
+亚伯拉罕没有争辩，第二天一早就带着以撒出发。当他举刀要杀儿子时，天使阻止了他。神说：「现在我知道你是敬畏神的了。」神为他预备了一只公羊代替以撒献祭。
+
+\thinkbox{亚伯拉罕等了二十五年才得到应许的儿子，又被要求献上他。他的顺服不是盲目的，而是基于对神信实的认识。当神的带领与你的期望不符时，你如何回应？}
+
+\clearpage
+
+% Chapter 2: Jacob
+\chapter{雅各——与神摔跤的人}
+
+\begin{center}
+\scalebox{1.2}{\jacobscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{雅}各的名字意思是「抓住脚跟的人」，也有「欺骗者」的含义。他的一生确实充满了欺骗与被欺骗。他趁哥哥以扫饥饿时，用一碗红豆汤换取了长子名分；又和母亲利百加合谋，冒充以扫骗取了父亲以撒的祝福。
+
+以扫发誓要杀雅各，雅各只好逃往舅舅拉班家。在路上，他在旷野中用石头枕着睡觉，梦见一个梯子立在地上，顶端直达天庭，神的使者在梯子上来去。神向他重申了给亚伯拉罕的应许。
+
+在拉班家，雅各为了娶心爱的拉结工作了十四年——因为拉班用大女儿利亚骗了他。欺骗者被欺骗了。但神使雅各的羊群极其繁盛，他带着两个妻子、两个妾、十一个儿子和大量牲畜，决定回迦南地。
+
+回程中，他得知以扫带着四百人来迎接他。二十年的恐惧涌上心头。那夜，他独自在雅博渡口，有一个人来和他摔跤，直到黎明。
+
+那人将他的大腿窝摸了一把，雅各的大腿脱臼了。但他死死抓住那人说：「你不给我祝福，我就不容你去！」
+
+那人说：「你的名不要再叫雅各，要叫以色列，因为你与神与人较力，都得了胜。」
+
+雅各给那地方起名叫毗努伊勒，意思是「神的面」，因为「我面对面见了神，我的性命仍得保全」。
+
+\bibleverse{「你的名不要再叫雅各，要叫以色列，因为你与神与人较力，都得了胜。」—— 创世记 32:28}
+
+\thinkbox{雅各一生都在「抓取」——抓取祝福、抓取财富、抓取安全。但直到他与神摔跤、大腿瘸了，他才真正被神改变。有时候，神要折断我们的「大腿」，好让我们不再靠自己奔跑，而是依靠他。你生命中有什么需要「被折断」的？}
+
+\clearpage
+
+% Chapter 3: Joseph
+\chapter{约瑟——从奴隶到宰相}
+
+\begin{center}
+\scalebox{1.2}{\josephscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{约}瑟是雅各最宠爱的儿子，父亲给他做了一件彩衣。他的十个哥哥妒忌他，把他卖给了过路的商队，又用羊血染了他的彩衣，骗父亲说他被野兽吃了。
+
+十七岁的约瑟被带到埃及，卖给法老的护卫长波提乏。他在波提乏家里勤勤恳恳地工作，神与他同在，凡他所做的尽都顺利。但波提乏的妻子诬告他，他被投入监狱。
+
+在监牢里，约瑟为法老的酒政和膳长解梦。两年后，法老做了一个没人能解的梦：七只肥牛被七只瘦牛吃掉，七个好穗子被七个细穗吞噬。酒政想起约瑟，把他推荐给法老。
+
+约瑟解释说，这梦预示着七年丰收之后将有七年饥荒。他建议法老囤积粮食。法老大为赏识，立约瑟为埃及宰相——仅次于法老的第二号人物。从奴隶到宰相，约瑟时年三十岁。
+
+饥荒来临时，约瑟的哥哥们来埃及买粮。他们俯伏在约瑟面前，正应验了约瑟少年时的梦。约瑟没有报复，反而流泪与他们相认，说出那句流传千古的话：
+
+\bibleverse{「从前你们的意思是要害我，但神的意思原是好的，要保全许多人的性命，成就今日的光景。」—— 创世记 50:20}
+
+\thinkbox{约瑟被哥哥出卖、被主母诬告、被关在监牢——他有无数理由怨恨。但他选择相信神有更大的计划。当你遭遇不公时，你如何看待神的主权？}
+
+\clearpage
+
+% Chapter 2: Moses
+\chapter{摩西——带领以色列出埃及}
+
+\begin{center}
+\scalebox{1.2}{\mosesscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{摩}西出生时，法老正下令杀死所有希伯来男婴。他的母亲把他放在蒲草箱里，漂在尼罗河上。法老的女儿发现了他，收他为养子。摩西在埃及王宫长大，学了埃及人一切的学问。
+
+四十岁时，摩西看见一个埃及人欺负希伯来同胞，一怒之下杀了那人。事情败露后，他逃到米甸旷野，成了一个牧羊人。在旷野的四十年里，神在预备他。
+
+八十岁那年，摩西在何烈山遇见了焚烧却不燃尽的荆棘。神从火焰中呼召他：「我是自有永有的。」神差派他回埃及，带领以色列人出离为奴之地。
+
+摩西多次推辞，说自己拙口笨舌。神说：「我必与你的口同在，指教你所当说的话。」
+
+十灾之后，法老终于放以色列人离去。当他们被困在红海边，后面追兵逼近时，摩西举起手杖，海水分开，以色列人从干地走过。当追兵跟进，海水复合，淹没了法老的军队。
+
+摩西带领以色列人在旷野四十年，在西奈山领受十诫，建造会幕。他被称为「神的仆人」，是旧约最伟大的先知。
+
+\bibleverse{「耶和华面对面认识的人，以后再也没有兴起过。」—— 申命记 34:10}
+
+\thinkbox{摩西年轻时凭血气行事，杀人逃亡；四十年旷野磨练后，神使用他成就伟大的事。神如何使用你生命中的「旷野时期」来预备你？}
+
+\clearpage
+
+% Chapter 5: Joshua
+\chapter{约书亚——攻取应许之地}
+
+\begin{center}
+\scalebox{1.2}{\joshuascene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{约}书亚原名何西阿，意思是「拯救」。摩西给他改名约书亚，意思是「耶和华拯救」——与希腊文的「耶稣」同义。他从年轻时就跟随摩西，是摩西最忠心的助手。
+
+当十二个探子窥探迦南地时，十个探子说：「那里的人高大，我们像蚱蜢一样。」只有约书亚和迦勒说：「有耶和华与我们同在，不要怕他们！」因为这信心，约书亚和迦勒是那一代人中唯一进入应许之地的。
+
+摩西死后，神对约书亚说：
+
+\bibleverse{「我的仆人摩西死了。现在你要起来，和众百姓过这约旦河，往我所要赐给以色列人的地去。你平生的日子，必无一人能在你面前站立得住。我怎样与摩西同在，也必照样与你同在。」—— 约书亚记 1:2,5}
+
+约书亚带领以色列人过约旦河，攻取耶利哥城。神给他一个奇特的作战计划：绑架着约柜，绕城七天，第七天绕城七次，然后吹号呐喊。
+
+这完全违反军事常识！但约书亚顺服了。第七天，当号角响起、百姓呐喊时，耶利哥城墙倒塌了。这不是以色列人的胜利，而是神的胜利。
+
+约书亚征战多年，将迦南地分给以色列十二支派。临终前，他召集所有支派，说出那句著名的宣告：「今日就可以选择所要事奉的是谁...至于我和我家，我们必定事奉耶和华。」
+
+\thinkbox{约书亚面对的是高墙坚城和强大敌人。神给他的策略看似愚拙，却要求完全的信心和顺服。有时神的方法与「常理」不同。你愿意顺服神看似不合理的带领吗？}
+
+\clearpage
+
+% Chapter 6: Samson
+\chapter{参孙——力大无穷的士师}
+
+\begin{center}
+\scalebox{1.2}{\samsonscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{参}孙是圣经中最具争议的英雄之一。他从出生前就被分别为圣，作拿细耳人，头发不可剃。神赐给他超自然的力量——他曾赤手空拳撕裂狮子，用驴腮骨杀死一千非利士人。
+
+但参孙有致命的弱点：他迷恋非利士女子。他爱上了大利拉，非利士人买通她，要她套出参孙力量的秘密。参孙三次欺骗大利拉，第四次终于告诉她：他的力量在于从未剃过的头发。
+
+大利拉趁他睡着时叫人剃了他的头发。「耶和华离开了他」——这是全书最悲哀的一句话。非利士人抓住他，剜了他的眼睛，用铜链锁住他，让他在监牢里推磨。
+
+然而，故事没有结束。参孙的头发渐渐长了。非利士人在大衮庙献祭庆祝时，把参孙带来戏耍。三千人在屋顶观看。参孙做了最后的祷告：「主耶和华啊，求你眷念我！」
+
+他抱住托房的两根柱子，说：「我情愿与非利士人同死！」然后尽力屈身，房子倒塌，压死了所有人。参孙死时杀的人，比他活着时杀的还多。
+
+\bibleverse{「参孙呼求耶和华说：『主耶和华啊，求你眷念我！』」—— 士师记 16:28}
+
+\thinkbox{参孙有恩赐，却没有品格；有能力，却缺乏智慧。他的故事警告我们：神的恩赐不能替代敬虔的生活。你有什么恩赐？你如何使用它们？}
+
+\clearpage
+
+% Chapter 4: Ruth
+\chapter{路得——外邦女子的信心}
+
+\begin{center}
+\scalebox{1.2}{\ruthscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{路}得是一个摩押女子，嫁给了一个因饥荒而迁居摩押的以色列人。十年后，她的丈夫、公公和小叔子都死了，只剩下她和婆婆拿俄米、嫂子俄珥巴三个寡妇。
+
+拿俄米决定回以色列。她劝两个儿媳留在摩押，各自改嫁。俄珥巴依依不舍地回去了，但路得说出了圣经中最动人的誓言之一：
+
+\bibleverse{「不要催我回去不跟随你。你往哪里去，我也往那里去；你在哪里住宿，我也在那里住宿。你的国就是我的国，你的神就是我的神。」—— 路得记 1:16}
+
+路得跟随拿俄米回到伯利恒，在田间拾取麦穗维生。她恰巧来到波阿斯的田里。波阿斯是拿俄米亡夫的亲属，按照以色列的律法，他有权利也有义务赎回拿俄米的产业并娶路得为妻。
+
+波阿斯被路得的品格所感动。他赞扬她：「愿耶和华照你所行的报答你，你来投靠在耶和华以色列神的翅膀下，愿你从他那里得到满足的报偿。」
+
+路得和波阿斯结婚，生了俄备得。俄备得生耶西，耶西生大卫——以色列最伟大的王。这个摩押女子成了耶稣基督家谱中的一员。
+
+\thinkbox{路得是外邦人，没有权利得到以色列神的恩典，但她选择了信靠。你是否也像路得一样，虽然不配，却选择投靠在神的翅膀下？}
+
+\clearpage
+
+% Chapter 5: David
+\chapter{大卫——合神心意的王}
+
+\begin{center}
+\scalebox{1.2}{\davidscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{大}卫是牧羊人耶西最小的儿子，当先知撒母耳来到伯利恒要膏立新王时，没有人想到会是他。但神对撒母耳说：「人是看外貌，耶和华是看内心。」
+
+年轻的大卫第一次登上历史舞台，是在以拉谷的战场。非利士巨人歌利亚身高近三米，全副武装，每天挑战以色列人。全军上下，包括扫罗王，都吓得发抖。
+
+大卫只是来给哥哥送饭的少年。他听见歌利亚的挑战，说：「这未受割礼的非利士人是谁，竟敢向永生神的军队骂阵呢？」
+
+他拒绝了扫罗的盔甲，只带着牧羊人的杖和甩石的机弦。歌利亚嘲笑他，大卫说：「你来攻击我，是靠着刀枪和铜戟；我来攻击你，是靠着万军之耶和华的名。」
+
+第一块石头就击中了歌利亚的额头。巨人仆倒，大卫用歌利亚自己的刀割下了他的头。
+
+大卫后来成为以色列最伟大的王，统一全国，攻取耶路撒冷，建立王朝。但他也犯了大罪——与拔示巴通奸，又谋杀她的丈夫乌利亚。当先知拿单指责他时，他痛彻心扉地悔改，写下了诗篇第五十一篇。
+
+尽管如此，神称大卫是「合我心意的人」。不是因为大卫完美，而是因为他始终回转归向神。
+
+\bibleverse{「这战役的胜败不在乎刀枪，因为耶和华使人得胜，不是用刀用枪。」—— 撒母耳记上 17:47}
+
+\thinkbox{大卫不是靠自己的能力战胜歌利亚，而是靠神的名。当你面对生命中的「巨人」——恐惧、压力、试探——你靠什么来面对？}
+
+\clearpage
+
+% Chapter 6: Elijah
+\chapter{以利亚——独战巴力先知}
+
+\begin{center}
+\scalebox{1.2}{\elijahscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{以}利亚是旧约最伟大的先知之一。他生活在以色列最黑暗的时代——亚哈王娶了西顿公主耶洗别，在以色列建立巴力崇拜。敬拜耶和华的先知被杀，百姓随从偶像。
+
+以利亚突然出现在亚哈面前，宣告审判：「我指着所事奉永生耶和华以色列的神起誓，这几年我若不祷告，必不降露，也不下雨。」
+
+三年半的干旱之后，以利亚向亚哈发出挑战：让巴力的四百五十个先知在迦密山上与他一决高下。规则很简单：各自预备祭物，不点火，然后各自祷告——哪位神降火，哪位就是真神。
+
+巴力的先知从早晨祷告到中午，又唱又跳，甚至用刀划伤自己。以利亚讽刺他们：「大声点呼叫吧！因为他是神，也许正在沉思，也许正在如厕，也许出了远门，也许睡着了要叫醒！」
+
+到了献晚祭的时候，以利亚用十二块石头筑了一座坛，把祭物放上去，又叫人倒水浸透一切。然后他简单地祷告：「耶和华啊，求你今日使人知道你是以色列的神。」
+
+火从天而降，烧尽祭物、木柴、石头、尘土，连沟里的水也烧干了。百姓俯伏在地：「耶和华是神！耶和华是神！」
+
+\bibleverse{「你们心持两意要到几时呢？若耶和华是神，就当顺从耶和华；若巴力是神，就当顺从巴力。」—— 列王纪上 18:21}
+
+\thinkbox{以利亚一人对抗四百五十人，因为他知道真理不是靠人数决定的。在你的生活中，有没有什么时候，你需要独自站在真理这一边？}
+
+\clearpage
+
+% Chapter 11: Esther
+\chapter{以斯帖——勇敢的王后}
+
+\begin{center}
+\scalebox{1.2}{\estherscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{以}斯帖是圣经中最富戏剧性的女英雄。她的希伯来名字是哈大沙，意思是「桃金娘」；波斯名字以斯帖意思是「星星」。她是被掳到波斯的犹太孤女，由堂兄末底改抚养长大。
+
+波斯王亚哈随鲁（即薛西斯一世）废掉了王后瓦实提，在全国选美。以斯帖因美貌被选入宫，最终成为王后——但她隐瞒了自己的犹太人身份。
+
+与此同时，朝中大臣哈曼因末底改不向他下拜而恼怒，竟设计要灭绝波斯帝国境内所有的犹太人。他掣签（普珥）选定了日期，王也批准了这道灭族法令。
+
+末底改得知后，穿上麻衣坐在城门口哀哭。他让人传话给以斯帖，恳求她为本族人向王求情。以斯帖犹豫了——因为未经召见就进见王是死罪。
+
+末底改说了那句千古名言：
+
+\bibleverse{「你莫想在王宫里强过一切犹太人，得免这祸。此时你若闭口不言，犹太人必从别处得解脱，蒙拯救；你和你父家必致灭亡。焉知你得了王后的位分不是为现今的机会吗？」—— 以斯帖记 4:13-14}
+
+以斯帖做出了决定。她让全城犹太人禁食三天，然后说：「我若死就死吧！」
+
+第三天，以斯帖穿上朝服，进入内院。王向她伸出金杖——她的性命保住了。在接下来的两次宴席中，以斯帖智慧地揭露了哈曼的阴谋。哈曼被挂在他自己为末底改准备的木架上，犹太人得到保护，反击仇敌。
+
+直到今天，犹太人仍在普珥节（Purim）庆祝这次拯救。以斯帖记是圣经中唯一没有直接提到「神」的书卷——但神的手在幕后掌管一切。
+
+\thinkbox{以斯帖「恰巧」成为王后，「恰巧」在灭族命令发布前。世上没有巧合，只有神的安排。你生命中有什么「恰巧」的位置，也许正是为了「现今的机会」？}
+
+\clearpage
+
+% ============================================
+% PART TWO: JESUS CHRIST
+% ============================================
+\part{耶稣基督 Jesus Christ}
+
+% Chapter 7: The Incarnation
+\chapter{道成肉身——神进入历史}
+
+\begin{center}
+\scalebox{1.2}{\jesusscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{约}翰福音以一段惊人的宣告开始：「太初有道，道与神同在，道就是神。」这里的「道」（希腊文 logos）指的就是耶稣基督。他不是被造的，而是从永恒就存在的神。
+
+然后约翰写下了整本圣经中最奇妙的一句话：
+
+\bibleverse{\jesus{「道成了肉身，住在我们中间，充充满满地有恩典，有真理。」}—— 约翰福音 1:14}
+
+神成为人。永恒者进入时间。无限者成为有限。这就是「道成肉身」的意义。
+
+耶稣由童女马利亚所生，在伯利恒的马槽里降世。天使向牧羊人宣告：「今天在大卫的城里，为你们生了救主，就是主基督。」东方的博士来朝拜他。
+
+耶稣在拿撒勒长大，三十岁开始公开传道。他行了无数神迹：变水为酒、医治病人、赶出污鬼、使死人复活。但神迹只是标记，指向更重要的真理——他是谁。
+
+耶稣宣称自己是「生命的粮」、「世界的光」、「好牧人」、「复活和生命」、「道路、真理、生命」。他说：「我与父原为一。」「还没有亚伯拉罕，就有了我。」
+
+这些宣称让我们只有三个选择：他是疯子、骗子、或者真的是神。
+
+\thinkbox{C.S.路易斯说：「耶稣没有给我们把他当作伟大人类教师的余地。他没有打算给我们这个选项。」你认为耶稣是谁？}
+
+\clearpage
+
+% Chapter 8: The Miracles
+\chapter{神迹奇事——五饼二鱼与复活}
+
+\begin{center}
+\scalebox{1.0}{%
+\begin{tikzpicture}[scale=0.8]
+  % Background - hillside
+  \fill[green!30] (0,0) rectangle (5,5);
+  \fill[blue!20] (0,3.5) rectangle (5,5);
+
+  % Crowd (many small figures)
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3,2.8,3.3,3.8,4.3,4.7} {
+    \foreach \y in {0.5,1,1.5,2} {
+      \fill[brown!40] (\x,\y) circle (0.08);
+    }
+  }
+
+  % Jesus figure
+  \fill[white!90] (2.5,3) circle (0.25);
+  \fill[white!80] (2.3,2.2) rectangle (2.7,2.8);
+
+  % Disciples distributing
+  \fill[brown!50] (1.2,2.5) circle (0.15);
+  \fill[brown!50] (3.8,2.5) circle (0.15);
+
+  % Baskets
+  \foreach \x in {0.5,1.5,2.5,3.5,4.5} {
+    \fill[brown!60] (\x,2.8) ellipse (0.15 and 0.1);
+  }
+
+  % Fish and bread
+  \fill[gray!50] (2.3,3.3) ellipse (0.15 and 0.08);
+  \fill[yellow!70] (2.7,3.3) ellipse (0.1 and 0.08);
+\end{tikzpicture}%
+}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{约}翰福音记载了耶稣的七个神迹，每一个都揭示他的身份。其中「五饼二鱼」是唯一被四卷福音书都记载的神迹（除了复活以外）。
+
+那天，五千多人聚集听耶稣讲道。天晚了，人群饥饿，却没有食物。门徒建议遣散众人，让他们自己去买吃的。
+
+耶稣问腓力：「我们从哪里买饼叫这些人吃呢？」这是试验腓力的话。腓力计算说，就是二百个银币的饼，每人也只能吃一点点。
+
+安德烈找到一个小男孩，有五个大麦饼和两条鱼。他说：「只是分给这许多人，还算什么呢？」
+
+耶稣说：\jesus{「你们叫众人坐下。」}他拿起饼，祝谢了，就分给坐着的人；鱼也照样分给他们，都随着他们所要的。每个人都吃饱了，还剩下十二篮零碎！
+
+第二天，人群来找耶稣，耶稣说：\jesus{「你们找我，不是因见了神迹，而是因吃饼得饱。不要为那必坏的食物劳力，要为那存到永生的食物劳力。」}
+
+然后他宣告：\jesus{「我就是生命的粮。到我这里来的，必定不饿；信我的，永远不渴。」}
+
+更震撼的是拉撒路复活。拉撒路死了四天，尸体已经腐烂。耶稣说：\jesus{「复活在我，生命也在我。信我的人，虽然死了，也必复活。」}然后他大声呼叫：\jesus{「拉撒路，出来！」}那死人竟然走出来了！
+
+\thinkbox{神迹不是魔术表演，而是「记号」，指向耶稣的身份。五饼二鱼指向他是生命的粮；拉撒路复活指向他是复活和生命。这些记号对你意味着什么？}
+
+\clearpage
+
+% Chapter 9: The Cross
+\chapter{十字架——代赎之死}
+
+\begin{center}
+\scalebox{1.2}{\crossscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{耶}稣的死不是意外，而是神从创世以前就定下的计划。他来到世界，正是为了这一刻——「人子来，不是要受人的服事，乃是要服事人，并且要舍命，作多人的赎价。」
+
+逾越节前夕，耶稣和门徒在耶路撒冷一间楼房里共进晚餐。他拿起饼，祝福，掰开，说：\jesus{「这是我的身体，为你们舍的。」}又拿起杯来说：\jesus{「这杯是用我血所立的新约，是为你们流出来的。」}
+
+晚餐后，耶稣在客西马尼园祷告，汗如血珠。犹大带着一队人来，用亲嘴为记号出卖了他。耶稣被捕，受审，被鞭打，被戴上荆棘冠冕。
+
+罗马巡抚彼拉多明知耶稣无罪，却屈服于群众的压力，判处他钉十字架——罗马帝国最残酷的刑罚。
+
+在十字架上，耶稣说了七句话。最震撼的是：\jesus{「我的神！我的神！为什么离弃我？」}在那一刻，无罪的神子承担了全人类的罪，与父神隔绝——好使我们能与神和好。
+
+最后，耶稣说：\jesus{「成了！」}这不是失败的叹息，而是得胜的宣告。救赎的工作完成了。
+
+\bibleverse{「神使那无罪的，替我们成为罪，好叫我们在他里面成为神的义。」—— 哥林多后书 5:21}
+
+\thinkbox{十字架不是悲剧，而是神爱的最高表达。耶稣的死是「代赎」——他替我们承担了罪的刑罚。你如何回应这份爱？}
+
+\clearpage
+
+% Chapter 10: The Resurrection
+\chapter{复活——空坟墓的证据}
+
+\begin{center}
+\scalebox{1.2}{\resurrectionscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{基}督教信仰的核心不在于耶稣的教导有多好，而在于一个历史事件——复活。使徒保罗说得很清楚：「基督若没有复活，你们的信便是徒然，你们仍在罪里。」
+
+耶稣死后第三天，清晨，抹大拉的马利亚和其他妇女来到坟墓，要用香料膏抹他的身体。她们发现封住墓门的大石头已经滚开，坟墓是空的！天使对她们说：「为什么在死人中找活人呢？他不在这里，已经复活了！」
+
+在接下来的四十天里，复活的耶稣多次向门徒显现：
+
+\begin{itemize}
+\item 向抹大拉的马利亚显现
+\item 向往以马忤斯去的两个门徒显现
+\item 向聚集的门徒显现（多马不在）
+\item 八天后再次向门徒显现（多马在场）
+\item 在加利利海边向七个门徒显现
+\item 向五百多人同时显现
+\end{itemize}
+
+多疑的多马说：「我非看见他手上的钉痕，用指头探入那钉痕，又用手探入他的肋旁，我总不信。」耶稣对他说：\jesus{「伸过你的指头来，摸我的手；伸出你的手来，探入我的肋旁。不要疑惑，总要信！」}多马俯伏说：「我的主！我的神！」
+
+这些原本因恐惧而躲藏的门徒，后来竟然冒着生命危险到处宣扬耶稣复活的消息。十二使徒中有十一位殉道。如果复活是谎言，他们为什么愿意为谎言而死？
+
+\bibleverse{「他不在这里，已经复活了。当记念他还在加利利的时候怎样告诉你们。」—— 路加福音 24:6}
+
+\thinkbox{如果耶稣真的从死里复活了，这意味着他所说的一切都是真的——他真的是神的儿子，他真的能赦免罪，他真的能赐永生。这对你意味着什么？}
+
+\clearpage
+
+% Chapter 11: The Great Commission
+\chapter{大使命——直到地极}
+
+\begin{center}
+\scalebox{1.0}{%
+\begin{tikzpicture}[scale=0.8]
+  % Sky with clouds
+  \fill[blue!30] (0,2) rectangle (5,5);
+  \fill[white] (1,4) ellipse (0.5 and 0.2);
+  \fill[white] (3,4.3) ellipse (0.6 and 0.25);
+  \fill[white] (4.2,3.8) ellipse (0.4 and 0.15);
+
+  % Mountain
+  \fill[green!40] (0,0) -- (0,2) -- (2.5,3.5) -- (5,2) -- (5,0) -- cycle;
+
+  % Jesus ascending (glowing figure)
+  \fill[yellow!30] (2.5,3.8) circle (0.6);
+  \fill[white!95] (2.5,4) circle (0.2);
+  \fill[white!90] (2.3,3.2) rectangle (2.7,3.8);
+
+  % Upward movement lines
+  \foreach \x in {2.2,2.5,2.8} {
+    \draw[yellow!60, line width=1pt] (\x,3) -- (\x,2.5);
+  }
+
+  % Disciples looking up
+  \foreach \x/\y in {0.8/1.8,1.5/2,2/1.7,3/1.7,3.5/2,4.2/1.8} {
+    \fill[brown!50] (\x,\y) circle (0.12);
+    \fill[brown!40] (\x-0.06,\y-0.5) rectangle (\x+0.06,\y-0.1);
+  }
+
+  % Two angels
+  \fill[white] (1,3) circle (0.1);
+  \fill[white] (4,3) circle (0.1);
+\end{tikzpicture}%
+}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{复}活后四十天，耶稣带领门徒来到橄榄山。他给他们留下最后的命令——这被称为「大使命」：
+
+\bibleverse{\jesus{「天上地下所有的权柄都赐给我了。所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗，凡我所吩咐你们的，都教训他们遵守。我就常与你们同在，直到世界的末了。」}—— 马太福音 28:18-20}
+
+接着，他给了他们另一个应许：\jesus{「但圣灵降临在你们身上，你们就必得着能力，并要在耶路撒冷、犹太全地、撒玛利亚，直到地极，作我的见证。」}
+
+然后，当门徒们注视着他的时候，耶稣被一朵云彩接上升天了。两个白衣天使出现，对门徒说：「这离开你们被接升天的耶稣，你们见他怎样往天上去，他还要怎样来。」
+
+故事没有结束。十天后的五旬节，圣灵降临，教会诞生。使徒们开始见证复活的基督。两千年来，这福音从耶路撒冷传到犹大全地，传到撒玛利亚，传到地极。今天，全世界有超过二十亿人称自己是基督徒。
+
+而耶稣的应许依然有效：他还要再来。
+
+\thinkbox{大使命不只是给使徒的，也是给每一个跟随耶稣的人的。你如何在你的生活中——学校、家庭、朋友圈——成为耶稣的见证人？}
+
+\clearpage
+
+% ============================================
+% PART THREE: NEW TESTAMENT APOSTLES
+% ============================================
+\part{新约使徒 New Testament Apostles}
+
+% Chapter 12: Peter
+\chapter{彼得——从渔夫到磐石}
+
+\begin{center}
+\scalebox{1.2}{\peterscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{彼}得原名西门，是加利利海边的渔夫。耶稣呼召他时说：「来跟从我，我要叫你得人如得鱼一样。」耶稣给他起名「彼得」（希腊文）或「矶法」（亚兰文），意思是「磐石」。
+
+彼得是十二门徒中最直率的一个。他常常冲动发言，有时说对，有时说错。当耶稣问门徒「你们说我是谁」时，彼得回答：「你是基督，是永生神的儿子。」耶稣说这是天父启示他的。
+
+但几分钟后，当耶稣预言自己要受难时，彼得拉住他说：「主啊，万不可如此！」耶稣严厉地责备他：「撒但，退我后边去吧！」
+
+彼得最著名的失败是三次不认主。耶稣被捕那夜，彼得跟在后面进了大祭司的院子。有人认出他是耶稣的门徒，他却三次否认。鸡叫的时候，耶稣转过身来看彼得。彼得出去痛哭。
+
+但故事没有结束。复活后，耶稣在加利利海边三次问彼得：\jesus{「你爱我吗？」}三次否认，三次恢复。耶稣对他说：\jesus{「你喂养我的羊。」}
+
+五旬节那天，曾经三次否认主的彼得站起来讲道，三千人信主。后来他成为耶路撒冷教会的领袖，最终在罗马殉道——据传统说，他要求倒钉十字架，因为他觉得自己不配像主一样死。
+
+\bibleverse{\jesus{「西门，西门！撒但想要得着你们，好筛你们像筛麦子一样；但我已经为你祈求，叫你不至于失了信心。你回头以后，要坚固你的弟兄。」}—— 路加福音 22:31-32}
+
+\thinkbox{彼得的故事告诉我们，失败不是终点。耶稣不只预知彼得会跌倒，也预知他会回转。你有没有经历过跌倒后被恢复的经历？}
+
+\clearpage
+
+% Chapter 13: Paul
+\chapter{保罗——从逼迫者到使徒}
+
+\begin{center}
+\scalebox{1.2}{\paulscene}
+\end{center}
+
+\vspace{0.5cm}
+
+\dropcap{扫}罗（后来的保罗）是法利赛人，受教于著名拉比迦玛列门下，是当时犹太教的精英。他热心维护祖宗的传统，把跟随耶稣的人视为异端，「残害教会，进各人的家，拉着男女下在监里」。
+
+司提反殉道时，扫罗就在旁边看守那些打死他的人的衣裳。他对教会的逼迫变本加厉，甚至向大祭司要文书，要去大马士革搜捕基督徒。
+
+就在去大马士革的路上，一道大光从天上照下来，扫罗仆倒在地。他听见有声音说：\jesus{「扫罗！扫罗！你为什么逼迫我？」}
+
+「主啊，你是谁？」
+
+\jesus{「我就是你所逼迫的耶稣。起来！进城去，你当做的事，必有人告诉你。」}
+
+扫罗眼睛瞎了三天，不吃不喝。神差遣门徒亚拿尼亚去为他按手祷告。亚拿尼亚很害怕——扫罗是来抓基督徒的！但神说：「你只管去！他是我所拣选的器皿，要在外邦人和君王并以色列人面前宣扬我的名。」
+
+扫罗眼睛上好像有鳞片掉下来，他重见光明，受了洗。从逼迫者变成了传道者。后来他改用罗马名字「保罗」，三次宣教旅行，建立了无数教会，写了新约圣经中十三卷书信。
+
+保罗最终在罗马殉道。临死前他写道：「那美好的仗我已经打过了，当跑的路我已经跑尽了，所信的道我已经守住了。从此以后，有公义的冠冕为我存留。」
+
+\bibleverse{「我今日成了何等人，是蒙神的恩才成的。」—— 哥林多前书 15:10}
+
+\thinkbox{保罗是基督教最大的敌人，却成了基督教最伟大的使徒。这告诉我们，没有人的过去坏到神不能改变。你相信神能改变任何人吗？}
+
+\clearpage
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+% Conclusion
+\chapter*{结语：你的选择}
+\addcontentsline{toc}{chapter}{结语 Conclusion}
+
+\dropcap{你}已经读完了这九位圣经英雄的故事。从约瑟到保罗，跨越近两千年，他们有一个共同点：他们相信那位看不见的神，并且按照这信仰活出了非凡的人生。
+
+但请注意——这些「英雄」其实都是普通人：
+
+\begin{itemize}
+\item 约瑟被家人出卖，在异乡做奴隶
+\item 摩西杀人逃亡，在旷野放羊四十年
+\item 参孙被情欲捆绑，最终被敌人剜眼
+\item 路得是外邦寡妇，没有地位和保障
+\item 大卫犯了通奸和谋杀的大罪
+\item 以利亚逃命时沮丧到想死
+\item 彼得三次否认主
+\item 保罗曾是教会最凶恶的逼迫者
+\end{itemize}
+
+他们之所以被记念，不是因为他们完美，而是因为他们在软弱中信靠那位全能的神。希伯来书作者说：「他们因着信，制伏了敌国，行了公义，得了应许，堵了狮子的口。」但他也说：「这些人都是因信得了美好的证据，却仍未得着所应许的。」
+
+他们所盼望的，是耶稣基督。旧约的一切预言、应许、预表，都指向他。新约的使徒亲眼见证了他的死和复活。整本圣经的核心信息就是：
+
+\begin{center}
+\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\large\itshape\color{TextGray}
+\jesus{「神爱世人，甚至将他的独生子赐给他们，\\
+叫一切信他的，不至灭亡，反得永生。」}\\
+— 约翰福音 3:16
+\vspace{0.3cm}
+\end{minipage}
+}
+\end{center}
+
+\vspace{0.5cm}
+
+这个邀请今天仍然有效。你愿意成为这「信心英雄」行列中的一员吗？
+
+\liturgicaldiv
+
+\vspace{0.5cm}
+
+\begin{center}
+{\Large — 完 —}
+\end{center}
+
+\clearpage
+
+% Scripture Index
+\chapter*{附录：经文索引}
+\addcontentsline{toc}{chapter}{附录 Appendix}
+
+\section*{旧约 Old Testament}
+
+\begin{tabular}{@{}p{4cm}p{5cm}@{}}
+\textbf{创世记 Genesis} & 约瑟的故事 (37-50章) \\
+\textbf{出埃及记 Exodus} & 摩西的故事 (1-40章) \\
+\textbf{士师记 Judges} & 参孙的故事 (13-16章) \\
+\textbf{路得记 Ruth} & 路得的故事 (1-4章) \\
+\textbf{撒母耳记上 1 Samuel} & 大卫与歌利亚 (17章) \\
+\textbf{列王纪上 1 Kings} & 以利亚的故事 (17-19章) \\
+\end{tabular}
+
+\section*{新约 New Testament}
+
+\begin{tabular}{@{}p{4cm}p{5cm}@{}}
+\textbf{马太福音 Matthew} & 耶稣生平、登山宝训 \\
+\textbf{马可福音 Mark} & 耶稣的神迹 \\
+\textbf{路加福音 Luke} & 耶稣的教导 \\
+\textbf{约翰福音 John} & 耶稣的身份、「我是」宣告 \\
+\textbf{使徒行传 Acts} & 彼得和保罗的事工 \\
+\textbf{希伯来书 Hebrews} & 信心英雄榜 (11章) \\
+\end{tabular}
+
+\vspace{1cm}
+
+\section*{推荐阅读}
+
+\begin{itemize}
+\item \textbf{整本圣经}——这本书只是入门，整本圣经才是真正的宝藏
+\item \textbf{《返璞归真》}——C.S.路易斯，基督教信仰入门经典
+\item \textbf{《认识神》}——巴刻，认识神的属性
+\item \textbf{《圣经导读》}——戈登·乔安妮斯，圣经整体脉络
+\end{itemize}
+
+\clearpage
+
+% Final page with contact
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+
+{\Large\color{LiturgicalRed}\bfseries 愿荣耀归于神}\\[0.3cm]
+{\large Soli Deo Gloria}
+
+\vspace{1cm}
+
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=2pt] (-2,0) -- (2,0);
+  \fill[LiturgicalRed] (0,-0.8) -- (-0.15,1.2) -- (0.15,1.2) -- cycle;
+  \fill[LiturgicalRed] (-0.8,0.3) -- (0.8,0.3) -- (0.8,0.5) -- (-0.8,0.5) -- cycle;
+\end{tikzpicture}
+
+\vspace{1cm}
+
+{\normalsize\color{TextGray}
+PubHub Publishing\\
+pubhub.ai-eden.com\\[0.5cm]
+Part of the 7-Year Three Books Project\\
+七年三书精读项目}
+
+\end{center}
+\vspace*{\fill}
+
+\end{document}

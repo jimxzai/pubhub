@@ -1,0 +1,178 @@
+#!/bin/bash
+# ============================================================================
+# Gospel Harmony PDF Builder - Devotional Edition
+# 耶穌基督完整生平 - The Complete Life of Jesus Christ
+# Uses the devotional standard template (6×9" Trade Paperback)
+# ============================================================================
+
+set -e
+
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
+INPUT_DIR="$PROJECT_ROOT/books/bible/gospel-harmony"
+OUTPUT_DIR="$PROJECT_ROOT/output"
+COMBINED_MD="$OUTPUT_DIR/gospel-harmony-combined.md"
+OUTPUT_PDF="$OUTPUT_DIR/gospel-harmony-devotional.pdf"
+TEMPLATE="$PROJECT_ROOT/templates/pdf/gospel-harmony-devotional.latex"
+
+echo "============================================"
+echo "Gospel Harmony PDF Generator"
+echo "耶穌基督完整生平"
+echo "The Complete Life of Jesus Christ"
+echo "============================================"
+echo ""
+echo "Format: 6×9\" Trade Paperback"
+echo "Template: gospel-harmony-devotional.latex"
+echo "Features: TikZ Maps, Red Letter Bible, Four Gospels Overview"
+echo ""
+
+# Verify template exists
+if [ ! -f "$TEMPLATE" ]; then
+    echo "ERROR: Template not found: $TEMPLATE"
+    exit 1
+fi
+
+# Create output directory
+mkdir -p "$OUTPUT_DIR"
+
+# Combine all markdown files
+echo "Combining chapters..."
+cat > "$COMBINED_MD" << 'HEADER'
+---
+title: "耶穌基督完整生平"
+subtitle: "The Complete Life of Jesus Christ - A Gospel Harmony"
+author: "PubHub 三書精讀系統"
+date: "2026年1月"
+publisher: "三書精讀出版系統"
+---
+
+HEADER
+
+# Add overview (convert # to ## to avoid chapter numbering)
+if [ -f "$INPUT_DIR/00-overview.md" ]; then
+    echo "  Adding: 00-overview.md (as front matter)"
+    awk 'BEGIN{skip=0} /^---$/{if(NR==1){skip=1;next}else if(skip){skip=0;next}} !skip{print}' "$INPUT_DIR/00-overview.md" \
+        | sed 's/^# /## /' >> "$COMBINED_MD"
+    printf '\n\n\\pagebreak\n\n' >> "$COMBINED_MD"
+fi
+
+# Add prologue (convert # to ## to avoid chapter numbering)
+if [ -f "$INPUT_DIR/00-prologue-logos.md" ]; then
+    echo "  Adding: 00-prologue-logos.md (as front matter)"
+    awk 'BEGIN{skip=0} /^---$/{if(NR==1){skip=1;next}else if(skip){skip=0;next}} !skip{print}' "$INPUT_DIR/00-prologue-logos.md" \
+        | sed 's/^# /## /' \
+        | sed 's/\^\([0-9]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
+    printf '\n\n\\pagebreak\n\n' >> "$COMBINED_MD"
+fi
+
+# Add all chapters in order (01-37)
+chapter_count=0
+for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37; do
+    chapter_file="$INPUT_DIR/$i-"*.md
+    for f in $chapter_file; do
+        if [ -f "$f" ]; then
+            echo "  Adding: $(basename "$f")"
+            # Skip YAML frontmatter and convert verse superscripts
+            awk 'BEGIN{skip=0} /^---$/{if(NR==1){skip=1;next}else if(skip){skip=0;next}} !skip{print}' "$f" \
+                | sed 's/\^\([0-9]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
+            printf '\n\n\\pagebreak\n\n' >> "$COMBINED_MD"
+            ((chapter_count++))
+            break  # Only process first match
+        fi
+    done
+done
+
+echo ""
+echo "Combined markdown created"
+echo "   Chapters: $chapter_count"
+echo "   Lines: $(wc -l < "$COMBINED_MD")"
+echo ""
+
+# Convert red letter markers for Jesus's words
+echo "Converting red letter markers..."
+sed -i '' \
+    -e 's/<red>/\\jesus{/g' \
+    -e 's/<\/red>/}/g' \
+    "$COMBINED_MD"
+
+# Convert emojis to text equivalents for PDF
+echo "Converting emojis to text..."
+sed -i '' \
+    -e 's/🦁/獅/g' \
+    -e 's/🐂/牛/g' \
+    -e 's/👤/人/g' \
+    -e 's/🦅/鷹/g' \
+    -e 's/📖/(Book)/g' \
+    -e 's/🙏/(Prayer)/g' \
+    -e 's/💡/(Insight)/g' \
+    -e 's/✝️/(Cross)/g' \
+    -e 's/🕊️/(Dove)/g' \
+    -e 's/⭐/(Star)/g' \
+    -e 's/🌟/(Star)/g' \
+    -e 's/❤️/(Heart)/g' \
+    -e 's/💖/(Heart)/g' \
+    -e 's/🔑/(Key)/g' \
+    -e 's/🎯/(Target)/g' \
+    -e 's/📝/(Note)/g' \
+    -e 's/✅/(Check)/g' \
+    -e 's/❌/(X)/g' \
+    -e 's/🤖/(AI)/g' \
+    -e 's/🌙/(Moon)/g' \
+    -e 's/☀️/(Sun)/g' \
+    -e 's/🌊/(Wave)/g' \
+    -e 's/🍞/(Bread)/g' \
+    -e 's/🍷/(Wine)/g' \
+    -e 's/🏛️/(Temple)/g' \
+    -e 's/⛪/(Church)/g' \
+    -e 's/🗣️/(Speaking)/g' \
+    -e 's/👁️/(Eye)/g' \
+    -e 's/🐑/(Sheep)/g' \
+    -e 's/🍇/(Grapes)/g' \
+    -e 's/✓/+/g' \
+    "$COMBINED_MD"
+
+# Generate PDF
+echo "Generating PDF with XeLaTeX..."
+echo ""
+
+pandoc "$COMBINED_MD" \
+    -o "$OUTPUT_PDF" \
+    --pdf-engine=xelatex \
+    --template="$TEMPLATE" \
+    --from=markdown-superscript-subscript \
+    --toc \
+    --toc-depth=2 \
+    --top-level-division=chapter
+
+if [ -f "$OUTPUT_PDF" ]; then
+    SIZE=$(ls -lh "$OUTPUT_PDF" | awk '{print $5}')
+    echo ""
+    echo "============================================"
+    echo "SUCCESS: Gospel Harmony PDF Generated!"
+    echo "============================================"
+    echo ""
+    echo "   Title: 耶穌基督完整生平"
+    echo "   Format: 6×9\" Trade Paperback"
+    echo "   File: $OUTPUT_PDF"
+    echo "   Size: $SIZE"
+    echo "   Chapters: $chapter_count"
+    echo ""
+    echo "   Features:"
+    echo "   - Red Letter Bible (Jesus's words in red)"
+    echo "   - TikZ Holy Land Map"
+    echo "   - Four Gospels Overview Box"
+    echo "   - Seven I AM Statements Box"
+    echo "   - Gospel Harmony Structure Diagram"
+    echo "   - Vine decorations"
+    echo "============================================"
+    echo ""
+
+    # Open the PDF
+    if command -v open &> /dev/null; then
+        echo "Opening PDF..."
+        open "$OUTPUT_PDF"
+    fi
+else
+    echo "FAILED: PDF not created"
+    exit 1
+fi

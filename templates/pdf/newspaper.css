@@ -1,0 +1,334 @@
+/* PubHub Newspaper Template - Multi-column Layout for Weekly Summaries */
+/* Use with Pandoc HTML output + wkhtmltopdf or WeasyPrint */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700&family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@400;600&display=swap');
+
+/* Page setup for print */
+@page {
+  size: A4 portrait;
+  margin: 1.5cm 1.5cm 2cm 1.5cm;
+
+  @top-center {
+    content: string(publication-name);
+    font-family: 'Playfair Display', serif;
+    font-size: 10pt;
+    color: #333;
+  }
+
+  @bottom-center {
+    content: counter(page);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 10pt;
+  }
+
+  @bottom-right {
+    content: string(issue-date);
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 9pt;
+    color: #666;
+  }
+}
+
+@page :first {
+  @top-center { content: none; }
+}
+
+/* Base styles */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Noto Serif SC', 'Source Sans Pro', Georgia, serif;
+  font-size: 10pt;
+  line-height: 1.5;
+  color: #1a1a1a;
+  text-align: justify;
+  hyphens: auto;
+}
+
+/* Masthead */
+.masthead {
+  text-align: center;
+  border-bottom: 3px double #000;
+  padding-bottom: 0.5cm;
+  margin-bottom: 0.5cm;
+  string-set: publication-name content();
+}
+
+.masthead h1 {
+  font-family: 'Playfair Display', 'Noto Serif SC', serif;
+  font-size: 36pt;
+  font-weight: 700;
+  margin: 0;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+
+.masthead .tagline {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 11pt;
+  font-style: italic;
+  color: #444;
+  margin-top: 0.3cm;
+}
+
+.masthead .issue-info {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 9pt;
+  color: #666;
+  margin-top: 0.2cm;
+  string-set: issue-date content();
+}
+
+/* Main content - 3 column layout */
+.content {
+  column-count: 3;
+  column-gap: 0.6cm;
+  column-rule: 1px solid #ccc;
+}
+
+/* Headlines */
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Playfair Display', 'Noto Serif SC', serif;
+  margin-top: 0;
+  line-height: 1.2;
+  break-after: avoid;
+}
+
+h1 {
+  font-size: 24pt;
+  font-weight: 700;
+  margin-bottom: 0.3cm;
+  column-span: all;
+  text-align: center;
+  border-bottom: 2px solid #000;
+  padding-bottom: 0.2cm;
+}
+
+h2 {
+  font-size: 16pt;
+  font-weight: 700;
+  margin-bottom: 0.2cm;
+  color: #1a1a1a;
+}
+
+h3 {
+  font-size: 12pt;
+  font-weight: 700;
+  margin-bottom: 0.15cm;
+}
+
+h4 {
+  font-size: 11pt;
+  font-weight: 600;
+  font-style: italic;
+  margin-bottom: 0.1cm;
+}
+
+/* Paragraphs */
+p {
+  margin: 0 0 0.3cm 0;
+  text-indent: 1.5em;
+}
+
+p:first-of-type,
+h1 + p,
+h2 + p,
+h3 + p,
+blockquote + p {
+  text-indent: 0;
+}
+
+/* Drop cap for first paragraph of article */
+.article:first-of-type p:first-of-type::first-letter {
+  font-family: 'Playfair Display', serif;
+  font-size: 3.5em;
+  float: left;
+  line-height: 0.8;
+  padding-right: 0.1em;
+  color: #000;
+}
+
+/* Articles */
+.article {
+  break-inside: avoid-column;
+  margin-bottom: 0.5cm;
+  padding-bottom: 0.3cm;
+  border-bottom: 1px solid #ddd;
+}
+
+.article:last-child {
+  border-bottom: none;
+}
+
+/* Byline */
+.byline {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 9pt;
+  font-style: italic;
+  color: #666;
+  margin-bottom: 0.2cm;
+}
+
+/* Pull quotes */
+blockquote {
+  font-family: 'Playfair Display', 'Noto Serif SC', serif;
+  font-size: 14pt;
+  font-style: italic;
+  text-align: center;
+  margin: 0.5cm 0;
+  padding: 0.3cm 0.5cm;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  column-span: all;
+}
+
+blockquote p {
+  text-indent: 0;
+  margin: 0;
+}
+
+/* Sidebar/Feature box */
+.feature-box {
+  background: #f5f5f5;
+  padding: 0.4cm;
+  margin: 0.3cm 0;
+  border-left: 4px solid #b8860b;
+  break-inside: avoid;
+}
+
+.feature-box h3 {
+  font-size: 11pt;
+  margin-bottom: 0.1cm;
+  color: #b8860b;
+}
+
+/* Lists */
+ul, ol {
+  margin: 0.2cm 0;
+  padding-left: 1.2em;
+}
+
+li {
+  margin-bottom: 0.1cm;
+}
+
+/* Images */
+figure {
+  margin: 0.3cm 0;
+  break-inside: avoid;
+}
+
+figure img {
+  width: 100%;
+  height: auto;
+}
+
+figcaption {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 8pt;
+  font-style: italic;
+  color: #666;
+  text-align: center;
+  margin-top: 0.1cm;
+}
+
+/* Full-width image */
+figure.full-width {
+  column-span: all;
+}
+
+/* Chinese text styling */
+.chinese-quote {
+  font-family: 'Noto Serif SC', STSong, SimSun, serif;
+  font-size: 12pt;
+}
+
+/* Code blocks */
+pre {
+  font-family: 'Menlo', 'Consolas', monospace;
+  font-size: 8pt;
+  background: #f8f8f8;
+  padding: 0.2cm;
+  overflow-x: auto;
+  break-inside: avoid;
+}
+
+code {
+  font-family: 'Menlo', 'Consolas', monospace;
+  font-size: 9pt;
+  background: #f0f0f0;
+  padding: 0.05cm 0.1cm;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 9pt;
+  margin: 0.3cm 0;
+  break-inside: avoid;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 0.15cm 0.2cm;
+  text-align: left;
+}
+
+th {
+  background: #f5f5f5;
+  font-weight: 600;
+}
+
+/* Footer section */
+.footer {
+  column-span: all;
+  border-top: 2px solid #000;
+  margin-top: 0.5cm;
+  padding-top: 0.3cm;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 9pt;
+  text-align: center;
+  color: #666;
+}
+
+/* Print-specific adjustments */
+@media print {
+  body {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
+  }
+
+  .no-print {
+    display: none;
+  }
+}
+
+/* Utility classes */
+.column-span-all {
+  column-span: all;
+}
+
+.break-before {
+  break-before: column;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-small {
+  font-size: 9pt;
+}
+
+.border-top {
+  border-top: 1px solid #000;
+  padding-top: 0.2cm;
+}

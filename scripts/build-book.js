@@ -1,242 +1,450 @@
 #!/usr/bin/env node
 
 /**
- * 書稿合併腳本
+ * PubHub Book Builder
+ * Compiles annual notes into a cohesive book manuscript
  *
- * 用法:
- *   node scripts/build-book.js hebrews     # 合併希伯來書
- *   node scripts/build-book.js sunzi       # 合併孫子兵法
- *   node scripts/build-book.js john        # 合併約翰五部曲
- *   node scripts/build-book.js all         # 合併所有
+ * Usage:
+ *   node scripts/build-book.js --book sunzi --year 2025
+ *   node scripts/build-book.js --book bible --year 2025 --format pdf
  */
 
-const fs = require('fs');
-const path = require('path');
+import fs from 'fs';
+import path from 'path';
+import { execSync } from 'child_process';
+import { fileURLToPath } from 'url';
 
-// 書籍配置
-const BOOKS = {
-  hebrews: {
-    name: '希伯來書研讀',
-    subtitle: '漸進啟示的高峰',
-    sourceDir: 'docs/study-notes-hebrews',
-    outputFile: 'books/hebrews-study-guide.md',
-    order: [
-      '00-overview.md',
-      '01-introduction.md',
-      '02-superior-to-angels.md',
-      '03-superior-to-moses.md',
-      '04-great-high-priest.md',
-      '05-better-covenant.md',
-      '06-draw-near.md',
-      '07-faith-hall.md',
-      '08-endurance.md',
-      '09-practical.md'
-    ]
-  },
-  sunzi: {
-    name: '孫子兵法・三書對照',
-    subtitle: 'AI時代的古典智慧',
-    sourceDir: 'docs/study-notes-sunzi',
-    outputFile: 'books/sunzi-three-books.md',
-    order: [
-      '01-shi-ji-beginning.md',
-      '02-zuo-zhan-warfare.md',
-      '03-mou-gong-strategy.md',
-      '04-xing-formation.md',
-      '05-shi-momentum.md',
-      '06-xu-shi-weakness.md',
-      '07-jun-zheng-maneuver.md',
-      '08-jiu-bian-adaptation.md',
-      '09-xing-jun-march.md',
-      '10-di-xing-terrain.md',
-      '11-jiu-di-situations.md',
-      '12-huo-gong-fire.md',
-      '13-yong-jian-spies.md'
-    ]
-  },
-  john: {
-    name: '約翰五部曲',
-    subtitle: '從太初有道到愛永遠長存',
-    sourceDir: 'docs',
-    outputFile: 'books/john-pentalogy.md',
-    customOrder: true
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+
+// Configuration
+const CONFIG = {
+  booksDir: path.join(__dirname, '..', 'books'),
+  dailyNotesDir: path.join(__dirname, '..', 'daily-notes', 'published'),
+  weeklyDir: path.join(__dirname, '..', 'weekly-summaries', 'published'),
+  monthlyDir: path.join(__dirname, '..', 'monthly-reports', 'published'),
+  outputDir: path.join(__dirname, '..', 'output'),
+  projectStart: new Date('2025-11-28'),
+  projectEnd: new Date('2032-11-28'),
+  books: {
+    sunzi: {
+      name: '孙子兵法',
+      englishName: 'The Art of War',
+      tag: '#孙子兵法',
+      chapters: 13
+    },
+    'zizhi-tongjian': {
+      name: '资治通鉴',
+      englishName: 'Comprehensive Mirror in Aid of Governance',
+      tag: '#资治通鉴',
+      volumes: 294
+    },
+    bible: {
+      name: '圣经',
+      englishName: 'The Holy Bible',
+      tag: '#圣经',
+      chapters: 1189
+    }
   }
 };
 
-// 書籍封面模板
-const COVER_TEMPLATE = `---
-title: "{{TITLE}}"
-subtitle: "{{SUBTITLE}}"
-author: "Thursday Wong Study Group"
-date: "{{DATE}}"
-lang: zh-TW
-documentclass: book
-fontsize: 12pt
-linestretch: 1.5
-geometry: margin=2.5cm
-toc: true
-toc-depth: 3
+// Parse command line arguments
+function parseArgs() {
+  const args = process.argv.slice(2);
+  const options = {
+    book: null,
+    year: new Date().getFullYear(),
+    format: 'markdown', // markdown, pdf, epub
+    output: null,
+    verbose: false,
+    help: false
+  };
+
+  for (let i = 0; i < args.length; i++) {
+    switch (args[i]) {
+      case '--book':
+      case '-b':
+        options.book = args[++i];
+        break;
+      case '--year':
+      case '-y':
+        options.year = parseInt(args[++i]);
+        break;
+      case '--format':
+      case '-f':
+        options.format = args[++i];
+        break;
+      case '--output':
+      case '-o':
+        options.output = args[++i];
+        break;
+      case '--verbose':
+      case '-v':
+        options.verbose = true;
+        break;
+      case '--help':
+      case '-h':
+        options.help = true;
+        break;
+    }
+  }
+
+  return options;
+}
+
+// Show help
+function showHelp() {
+  console.log(`
+PubHub Book Builder - Compile Annual Notes into Book Manuscripts
+
+Usage:
+  node scripts/build-book.js [options]
+
+Options:
+  -b, --book <name>      Book to compile: sunzi, zizhi-tongjian, bible
+  -y, --year <year>      Year to compile (default: current year)
+  -f, --format <type>    Output format: markdown, pdf, epub (default: markdown)
+  -o, --output <path>    Output file path
+  -v, --verbose          Show detailed output
+  -h, --help             Show this help message
+
+Examples:
+  # Build Art of War manuscript for 2025
+  node scripts/build-book.js --book sunzi --year 2025
+
+  # Build Bible manuscript as PDF
+  node scripts/build-book.js --book bible --year 2025 --format pdf
+
+  # Build all books for a year
+  node scripts/build-book.js --year 2025
+`);
+}
+
+// Collect notes for a specific book and year
+function collectNotes(bookKey, year) {
+  const bookConfig = CONFIG.books[bookKey];
+  const tag = bookConfig.tag;
+  const notes = [];
+
+  // Scan daily notes
+  if (fs.existsSync(CONFIG.dailyNotesDir)) {
+    const files = fs.readdirSync(CONFIG.dailyNotesDir)
+      .filter(f => f.startsWith(`${year}-`) && f.endsWith('.md'))
+      .sort();
+
+    for (const file of files) {
+      const filePath = path.join(CONFIG.dailyNotesDir, file);
+      const content = fs.readFileSync(filePath, 'utf8');
+
+      if (content.includes(tag)) {
+        notes.push({
+          type: 'daily',
+          date: file.replace('.md', ''),
+          file: filePath,
+          content: content
+        });
+      }
+    }
+  }
+
+  return notes;
+}
+
+// Collect monthly reports for a year
+function collectMonthlyReports(year) {
+  const reports = [];
+
+  if (fs.existsSync(CONFIG.monthlyDir)) {
+    const files = fs.readdirSync(CONFIG.monthlyDir)
+      .filter(f => f.startsWith(`${year}-`) && f.endsWith('.md'))
+      .sort();
+
+    for (const file of files) {
+      const filePath = path.join(CONFIG.monthlyDir, file);
+      const content = fs.readFileSync(filePath, 'utf8');
+      reports.push({
+        month: file.replace('.md', ''),
+        file: filePath,
+        content: content
+      });
+    }
+  }
+
+  return reports;
+}
+
+// Extract sections from a note
+function extractSections(content) {
+  const sections = {};
+  const lines = content.split('\n');
+  let currentSection = null;
+  let sectionContent = [];
+
+  for (const line of lines) {
+    const headerMatch = line.match(/^##\s+(.+)$/);
+    if (headerMatch) {
+      if (currentSection) {
+        sections[currentSection] = sectionContent.join('\n').trim();
+      }
+      currentSection = headerMatch[1];
+      sectionContent = [];
+    } else if (currentSection) {
+      sectionContent.push(line);
+    }
+  }
+
+  if (currentSection) {
+    sections[currentSection] = sectionContent.join('\n').trim();
+  }
+
+  return sections;
+}
+
+// Calculate project statistics
+function calculateStats(notes, year) {
+  const totalDays = Math.floor((new Date() - CONFIG.projectStart) / (1000 * 60 * 60 * 24));
+  const totalProjectDays = Math.floor((CONFIG.projectEnd - CONFIG.projectStart) / (1000 * 60 * 60 * 24));
+  const progress = ((totalDays / totalProjectDays) * 100).toFixed(2);
+
+  let totalWords = 0;
+  for (const note of notes) {
+    totalWords += note.content.length; // Rough character count
+  }
+
+  return {
+    notesCount: notes.length,
+    totalWords: totalWords,
+    projectProgress: progress,
+    daysElapsed: totalDays,
+    daysRemaining: totalProjectDays - totalDays
+  };
+}
+
+// Generate book frontmatter
+function generateFrontmatter(bookKey, year, stats) {
+  const bookConfig = CONFIG.books[bookKey];
+  const today = new Date().toISOString().split('T')[0];
+
+  return `---
+title: "${bookConfig.name} · AI时代注疏"
+english-title: "${bookConfig.englishName}: AI-Era Annotations"
+subtitle: "${year}年精读笔记集"
+author: "PubHub Project"
+date: "${today}"
+year: ${year}
+book: "${bookKey}"
+notes-count: ${stats.notesCount}
+total-words: ${stats.totalWords}
+project-progress: "${stats.projectProgress}%"
+days-elapsed: ${stats.daysElapsed}
+days-remaining: ${stats.daysRemaining}
+abstract: |
+  本书收录${year}年对《${bookConfig.name}》的精读笔记，
+  结合2025-2035年AI时代的战略案例进行古今对照分析。
+  这是一个为期七年的深度阅读与注疏项目的年度成果。
 ---
 
-# {{TITLE}}
+`;
+}
 
-> **{{SUBTITLE}}**
+// Generate table of contents
+function generateTOC(notes, monthlyReports) {
+  let toc = '# 目录 / Table of Contents\n\n';
+
+  // Group notes by month
+  const notesByMonth = {};
+  for (const note of notes) {
+    const month = note.date.substring(0, 7);
+    if (!notesByMonth[month]) {
+      notesByMonth[month] = [];
+    }
+    notesByMonth[month].push(note);
+  }
+
+  // Add monthly chapters
+  const months = Object.keys(notesByMonth).sort();
+  for (let i = 0; i < months.length; i++) {
+    const month = months[i];
+    const monthNotes = notesByMonth[month];
+    const monthName = new Date(month + '-01').toLocaleDateString('zh-CN', { year: 'numeric', month: 'long' });
+
+    toc += `## 第${i + 1}章 ${monthName}\n\n`;
+
+    for (const note of monthNotes) {
+      toc += `- ${note.date}: [笔记](#${note.date})\n`;
+    }
+    toc += '\n';
+  }
+
+  return toc;
+}
+
+// Compile book manuscript
+function compileBook(bookKey, year, options) {
+  const bookConfig = CONFIG.books[bookKey];
+  console.log(`\n📚 Compiling: ${bookConfig.name} (${year})`);
+
+  // Collect materials
+  const notes = collectNotes(bookKey, year);
+  const monthlyReports = collectMonthlyReports(year);
+  const stats = calculateStats(notes, year);
+
+  console.log(`   Found ${notes.length} daily notes`);
+  console.log(`   Found ${monthlyReports.length} monthly reports`);
+
+  if (notes.length === 0) {
+    console.log('   ⚠️  No notes found for this book and year');
+    return null;
+  }
+
+  // Generate manuscript
+  let manuscript = '';
+
+  // Add frontmatter
+  manuscript += generateFrontmatter(bookKey, year, stats);
+
+  // Add introduction
+  manuscript += `# 导言 / Introduction
+
+本书是七年三书精读项目的${year}年度成果集。
+
+**项目进度**: ${stats.projectProgress}% (第${stats.daysElapsed}天 / 共2557天)
+
+**本年统计**:
+- 精读笔记: ${stats.notesCount}篇
+- 总字数: 约${Math.floor(stats.totalWords / 1000)}千字
 
 ---
-
-**生成日期**: {{DATE}}
-
-**項目**: 七年三書精讀出版系統
-
----
-
-\\newpage
 
 `;
 
-// 讀取並合併文件
-function mergeFiles(bookKey) {
-  const book = BOOKS[bookKey];
-  if (!book) {
-    console.error(`未知的書籍: ${bookKey}`);
-    console.log('可用選項: ' + Object.keys(BOOKS).join(', '));
-    process.exit(1);
+  // Add table of contents
+  manuscript += generateTOC(notes, monthlyReports);
+  manuscript += '\n---\n\n';
+
+  // Add notes organized by month
+  const notesByMonth = {};
+  for (const note of notes) {
+    const month = note.date.substring(0, 7);
+    if (!notesByMonth[month]) {
+      notesByMonth[month] = [];
+    }
+    notesByMonth[month].push(note);
   }
 
-  const baseDir = path.join(process.cwd(), book.sourceDir);
+  const months = Object.keys(notesByMonth).sort();
+  for (let i = 0; i < months.length; i++) {
+    const month = months[i];
+    const monthNotes = notesByMonth[month];
+    const monthName = new Date(month + '-01').toLocaleDateString('zh-CN', { year: 'numeric', month: 'long' });
 
-  // 檢查目錄是否存在
-  if (!fs.existsSync(baseDir)) {
-    console.error(`目錄不存在: ${baseDir}`);
-    process.exit(1);
-  }
+    manuscript += `# 第${i + 1}章 ${monthName}\n\n`;
 
-  // 獲取文件列表
-  let files;
-  if (book.customOrder) {
-    // 約翰五部曲需要特殊處理
-    files = getJohnFiles();
-  } else {
-    // 按照預定順序獲取存在的文件
-    files = book.order
-      .map(f => path.join(baseDir, f))
-      .filter(f => fs.existsSync(f));
-  }
-
-  if (files.length === 0) {
-    console.error('找不到任何文件');
-    process.exit(1);
-  }
-
-  console.log(`📚 合併 ${book.name}...`);
-  console.log(`   找到 ${files.length} 個文件`);
-
-  // 生成封面
-  const date = new Date().toISOString().split('T')[0];
-  let output = COVER_TEMPLATE
-    .replace(/\{\{TITLE\}\}/g, book.name)
-    .replace(/\{\{SUBTITLE\}\}/g, book.subtitle)
-    .replace(/\{\{DATE\}\}/g, date);
-
-  // 合併所有文件
-  files.forEach((file, index) => {
-    const content = fs.readFileSync(file, 'utf-8');
-    const fileName = path.basename(file);
-
-    console.log(`   ✓ ${fileName}`);
-
-    // 添加分頁符（除了第一個文件）
-    if (index > 0) {
-      output += '\n\n\\newpage\n\n';
+    // Add monthly report if exists
+    const monthReport = monthlyReports.find(r => r.month === month);
+    if (monthReport) {
+      manuscript += `## 月度综述\n\n`;
+      // Extract summary from monthly report
+      const sections = extractSections(monthReport.content);
+      if (sections['核心主题'] || sections['Core Themes']) {
+        manuscript += sections['核心主题'] || sections['Core Themes'];
+        manuscript += '\n\n';
+      }
     }
 
-    // 移除 YAML front matter（如果有）
-    const cleanContent = content.replace(/^---[\s\S]*?---\n*/m, '');
+    // Add daily notes
+    for (const note of monthNotes) {
+      manuscript += `## ${note.date} {#${note.date}}\n\n`;
 
-    output += cleanContent + '\n\n';
-  });
+      // Clean up content (remove duplicate frontmatter)
+      let content = note.content;
+      content = content.replace(/^---[\s\S]*?---\n*/m, '');
+      content = content.replace(/^#\s+.*\n/m, ''); // Remove first H1
 
-  // 確保輸出目錄存在
-  const outputPath = path.join(process.cwd(), book.outputFile);
-  const outputDir = path.dirname(outputPath);
-  if (!fs.existsSync(outputDir)) {
-    fs.mkdirSync(outputDir, { recursive: true });
+      manuscript += content;
+      manuscript += '\n\n---\n\n';
+    }
   }
 
-  // 寫入合併後的文件
-  fs.writeFileSync(outputPath, output);
-  console.log(`\n✅ 已生成: ${book.outputFile}`);
-  console.log(`   字數估計: ~${Math.round(output.length / 2)} 字`);
+  // Add appendix
+  manuscript += `# 附录 / Appendix
 
-  return outputPath;
-}
+## 项目说明
 
-// 獲取約翰五部曲的文件
-function getJohnFiles() {
-  const baseDir = process.cwd();
-  const files = [];
+本项目始于2025年11月28日，计划于2032年11月28日完成。
+目标是完成对三部经典著作的深度阅读与AI时代注疏：
 
-  // 約翰福音
-  const johnDir = path.join(baseDir, 'docs/study-notes');
-  if (fs.existsSync(johnDir)) {
-    fs.readdirSync(johnDir)
-      .filter(f => f.endsWith('.md'))
-      .sort()
-      .forEach(f => files.push(path.join(johnDir, f)));
+1. **孙子兵法** - 战略智慧
+2. **资治通鉴** - 历史洞察
+3. **圣经** - 灵性与伦理
+
+每日精读300-500字的原文，结合2025-2035年AI时代的真实案例进行古今对照分析。
+
+## 版权声明
+
+© ${new Date().getFullYear()} PubHub Project. All rights reserved.
+`;
+
+  // Determine output path
+  const outputFilename = `${bookKey}-${year}`;
+  const markdownPath = options.output ||
+    path.join(CONFIG.booksDir, bookKey, 'published', `${outputFilename}.md`);
+
+  // Ensure directory exists
+  const dir = path.dirname(markdownPath);
+  if (!fs.existsSync(dir)) {
+    fs.mkdirSync(dir, { recursive: true });
   }
 
-  // 約翰書信 (1/2/3 約翰)
-  const johnEpistlesDir = path.join(baseDir, 'docs/study-notes-john-epistles');
-  if (fs.existsSync(johnEpistlesDir)) {
-    fs.readdirSync(johnEpistlesDir)
-      .filter(f => f.endsWith('.md'))
-      .sort()
-      .forEach(f => files.push(path.join(johnEpistlesDir, f)));
-  }
+  // Write markdown
+  fs.writeFileSync(markdownPath, manuscript);
+  console.log(`   ✓ Markdown: ${markdownPath}`);
 
-  // 啟示錄
-  const revDir = path.join(baseDir, 'docs/study-notes-revelation');
-  if (fs.existsSync(revDir)) {
-    fs.readdirSync(revDir)
-      .filter(f => f.endsWith('.md'))
-      .sort()
-      .forEach(f => files.push(path.join(revDir, f)));
-  }
-
-  return files;
-}
-
-// 主程序
-const args = process.argv.slice(2);
-const bookKey = args[0] || 'hebrews';
-
-if (bookKey === 'all') {
-  Object.keys(BOOKS).forEach(key => {
+  // Convert to PDF if requested
+  if (options.format === 'pdf') {
+    const pdfPath = markdownPath.replace('.md', '.pdf');
     try {
-      mergeFiles(key);
-    } catch (e) {
-      console.error(`合併 ${key} 時出錯: ${e.message}`);
+      execSync(`node "${path.join(__dirname, 'build-pdf.js')}" --format book --input "${markdownPath}" --output "${pdfPath}"`, {
+        stdio: options.verbose ? 'inherit' : 'pipe'
+      });
+      console.log(`   ✓ PDF: ${pdfPath}`);
+    } catch (error) {
+      console.error(`   ✗ PDF generation failed: ${error.message}`);
     }
-    console.log('');
-  });
-} else {
-  mergeFiles(bookKey);
+  }
+
+  return markdownPath;
 }
 
-console.log(`
-📖 下一步：生成 PDF
+// Main
+function main() {
+  const options = parseArgs();
 
-方法 1 - 使用 md-to-pdf (推薦):
-  npm install -g md-to-pdf
-  md-to-pdf books/hebrews-study-guide.md
+  if (options.help) {
+    showHelp();
+    process.exit(0);
+  }
 
-方法 2 - 使用 Pandoc + LaTeX:
-  brew install pandoc
-  brew install --cask mactex
-  pandoc books/hebrews-study-guide.md -o books/hebrews-study-guide.pdf
+  console.log('\n📖 PubHub Book Builder');
+  console.log(`   Year: ${options.year}`);
+  console.log(`   Format: ${options.format}`);
 
-方法 3 - 使用 VS Code 擴展:
-  安裝 "Markdown PDF" 擴展
-  打開合併後的 .md 文件
-  右鍵 > Markdown PDF: Export (pdf)
-`);
+  if (options.book) {
+    // Build specific book
+    if (!CONFIG.books[options.book]) {
+      console.error(`Error: Unknown book '${options.book}'`);
+      console.error(`Available: ${Object.keys(CONFIG.books).join(', ')}`);
+      process.exit(1);
+    }
+    compileBook(options.book, options.year, options);
+  } else {
+    // Build all books
+    for (const bookKey of Object.keys(CONFIG.books)) {
+      compileBook(bookKey, options.year, options);
+    }
+  }
+
+  console.log('\n✅ Book compilation complete!\n');
+}
+
+main();

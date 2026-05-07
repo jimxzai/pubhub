@@ -1,0 +1,334 @@
+% PubHub Silicon Valley Life Template
+% Professional Life & Parenting Book Layout
+% Bilingual Chinese/English
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{PingFang SC}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - 6x9 Book Format
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.15}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.4em}
+
+%% ============================================
+%% COLOR SCHEME - Silicon Valley Life Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterBrown}{RGB}{139,69,19}       % Warm brown for chapters
+\definecolor{AccentGold}{RGB}{178,134,11}        % Gold accent
+\definecolor{WisdomBlue}{RGB}{25,55,95}          % Deep blue for wisdom
+
+% Box colors
+\definecolor{QuoteBg}{RGB}{252,250,245}          % Cream for quotes
+\definecolor{TipBg}{RGB}{245,248,252}            % Light blue for tips
+\definecolor{StoryBg}{RGB}{248,252,248}          % Light green for stories
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS
+%% ============================================
+\usepackage{graphicx}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBrown,
+  urlcolor=WisdomBlue,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{AccentGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{20pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        \Large\bfseries\color{ChapterBrown} \@chapapp\space \thechapter
+        \par\nobreak
+        \vskip 10pt
+      \fi
+    \fi
+    \interlinepenalty\@M
+    \huge \bfseries\color{ChapterBrown} #1\par\nobreak
+    \vskip 15pt
+    {\color{AccentGold}\hrule height 1.5pt}
+    \vskip 20pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{20pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \huge \bfseries\color{ChapterBrown} #1\par\nobreak
+    \vskip 10pt
+    {\color{AccentGold}\hrule height 1.5pt}
+    \vskip 20pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\Large\bfseries\color{ChapterBrown}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\large\bfseries\color{WisdomBlue}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.4\baselineskip}%
+  \list{}{%
+    \leftmargin=0.8em
+    \rightmargin=0.3em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\itshape\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.4\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1cm}
+
+% Decorative line
+{\color{AccentGold}\rule{3in}{1.5pt}}
+
+\vspace{0.8cm}
+
+% Main title
+{\fontsize{36}{44}\selectfont\bfseries\color{ChapterBrown} 硅谷生活}\\[0.4cm]
+{\Large\color{LightGray} Silicon Valley Life}
+
+\vspace{1cm}
+
+% Subtitle
+{\large\itshape\color{TextGray} 在湾区生活、养娃、寻找社区}\\[0.3cm]
+{\normalsize\itshape\color{LightGray} Living, Raising Kids, and Finding Community in the Bay Area}
+
+\vspace{1.5cm}
+
+% Quote box
+\fcolorbox{AccentGold}{QuoteBg}{%
+\begin{minipage}{3.5in}
+\centering
+\vspace{0.4cm}
+\small\itshape\color{TextGray}
+妈妈说：\\[0.2em]
+「在硅谷养孩子，最贵的不是房子，是焦虑。」\\[0.3em]
+\footnotesize "The most expensive thing about raising kids\\
+in Silicon Valley isn't the house—it's the anxiety."
+\vspace{0.4cm}
+\end{minipage}
+}
+
+\vspace{2cm}
+
+% Series info
+{\Large\sffamily\color{ChapterBrown} 硅谷阿甘}\\[0.3cm]
+{\normalsize Silicon Valley Forrest Gump Series}\\[0.2cm]
+{\normalsize\color{LightGray} 第四本 · Book 4}
+
+\vfill
+
+% Date
+{\large 2025年12月}
+
+\vspace{0.5cm}
+{\color{AccentGold}\rule{3in}{1.5pt}}
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+\textbf{《硅谷生活》/ Silicon Valley Life}\\[0.8em]
+
+硅谷阿甘系列 · 第四本\\
+Silicon Valley Forrest Gump Series · Book 4\\[1em]
+
+版本：v0.1 (审阅稿)\\
+Version: v0.1 (Review Draft)\\[0.8em]
+
+日期：2025年12月\\[1.5em]
+
+\textbf{核心信息 / Core Messages}\\[0.3em]
+\textbullet\ 教会不只是信仰 — 是社区、支持系统、人生伙伴\\
+\textbullet\ 养娃要算总账 — 但最贵的成本是焦虑，不是钱\\
+\textbullet\ 课外活动要精不要多 — 深度胜过广度\\
+\textbullet\ 成功的定义可以不同 — 健康、快乐、有意义\\
+\textbullet\ 社区是真正的财富 — 钱会花完，人一辈子都在\\[1.5em]
+
+\textit{本书仅供审阅，请勿传播}\\
+\textit{For review only, please do not distribute}
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBrown}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+\end{document}

@@ -1,0 +1,35 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(sudo tlmgr:*)",
+      "Bash(bash:*)",
+      "Bash(grep:*)",
+      "Bash(find:*)",
+      "Bash(awk:*)",
+      "Bash(tee:*)",
+      "Bash(cat:*)",
+      "Bash(echo:*)",
+      "Bash(ln:*)",
+      "Bash(xargs:*)",
+      "Bash(python3:*)",
+      "Bash(osascript:*)",
+      "Bash(pdfinfo:*)",
+      "Bash(mdls:*)",
+      "Bash(export PATH=\"/Library/TeX/texbin:/usr/local/bin:/opt/homebrew/bin:$PATH\")",
+      "Bash(./scripts/*.sh:*)",
+      "mcp__claude-in-chrome__*",
+      "Skill(publish)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:www.gty.org)",
+      "WebFetch(domain:www.blueletterbible.org)",
+      "WebFetch(domain:www.studylight.org)",
+      "WebFetch(domain:www.preceptaustin.org)",
+      "WebFetch(domain:bibleportal.com)",
+      "WebFetch(domain:biblenotes.online)",
+      "WebFetch(domain:www.truthaccordingtoscripture.com)",
+      "WebFetch(domain:www.bibliaplus.org)",
+      "WebFetch(domain:www.swartzentrover.com)",
+      "WebFetch(domain:ai-eden.com)"
+    ]
+  }
+}

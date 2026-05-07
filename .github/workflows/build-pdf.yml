@@ -1,0 +1,157 @@
+name: Build PDF
+
+on:
+  # Manual trigger with format selection
+  workflow_dispatch:
+    inputs:
+      format:
+        description: 'PDF format to build'
+        required: true
+        default: 'journal'
+        type: choice
+        options:
+          - journal
+          - book
+          - newspaper
+          - brochure
+      input_file:
+        description: 'Input markdown file path (relative to repo root)'
+        required: true
+        default: 'monthly-reports/published/'
+      book_name:
+        description: 'Book name (for book format only): sunzi, zizhi-tongjian, bible'
+        required: false
+        default: 'sunzi'
+      year:
+        description: 'Year (for book format only)'
+        required: false
+        default: '2025'
+
+  # Trigger on monthly report publication
+  push:
+    paths:
+      - 'monthly-reports/published/*.md'
+    branches:
+      - main
+
+jobs:
+  build-pdf:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Pandoc
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc
+
+      - name: Install TeX Live (for XeLaTeX)
+        run: |
+          sudo apt-get install -y texlive-xetex texlive-fonts-recommended texlive-fonts-extra texlive-lang-chinese latexmk
+
+      - name: Install CJK fonts
+        run: |
+          sudo apt-get install -y fonts-noto-cjk fonts-noto-cjk-extra
+
+      - name: Create output directory
+        run: mkdir -p output
+
+      - name: Build PDF (Manual Trigger)
+        if: github.event_name == 'workflow_dispatch'
+        run: |
+          if [ "${{ inputs.format }}" = "book" ]; then
+            node scripts/build-book.js --book "${{ inputs.book_name }}" --year "${{ inputs.year }}" --format pdf
+          else
+            node scripts/build-pdf.js --format "${{ inputs.format }}" --input "${{ inputs.input_file }}"
+          fi
+
+      - name: Build PDF (Auto on Monthly Report)
+        if: github.event_name == 'push'
+        run: |
+          # Find the most recently modified monthly report
+          LATEST_REPORT=$(git diff --name-only HEAD~1 HEAD -- 'monthly-reports/published/*.md' | head -1)
+          if [ -n "$LATEST_REPORT" ]; then
+            echo "Building PDF for: $LATEST_REPORT"
+            node scripts/build-pdf.js --format journal --input "$LATEST_REPORT"
+          else
+            echo "No new monthly reports found"
+          fi
+
+      - name: Upload PDF artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: pdf-output-${{ github.run_number }}
+          path: output/*.pdf
+          retention-days: 30
+
+      - name: Create Release (for book format)
+        if: github.event_name == 'workflow_dispatch' && inputs.format == 'book'
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: book-${{ inputs.book_name }}-${{ inputs.year }}-${{ github.run_number }}
+          name: "${{ inputs.book_name }} Book - ${{ inputs.year }}"
+          files: |
+            output/*.pdf
+            books/${{ inputs.book_name }}/published/*.md
+          draft: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  # Annual book compilation job
+  annual-book:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'workflow_dispatch' && inputs.format == 'book'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 9
+
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+
+      - name: Install Pandoc and TeX Live
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-fonts-extra texlive-lang-chinese fonts-noto-cjk fonts-noto-cjk-extra
+
+      - name: Build Book
+        run: |
+          node scripts/build-book.js --book "${{ inputs.book_name }}" --year "${{ inputs.year }}" --format pdf --verbose
+
+      - name: Upload Book
+        uses: actions/upload-artifact@v4
+        with:
+          name: book-${{ inputs.book_name }}-${{ inputs.year }}
+          path: |
+            books/${{ inputs.book_name }}/published/*.pdf
+            books/${{ inputs.book_name }}/published/*.md
+          retention-days: 90

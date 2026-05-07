@@ -1,0 +1,106 @@
+% California Real Estate Book Template - Chinese Simple Version
+% 加州地产兵法 简化版 LaTeX 模板
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use macOS system fonts that support CJK
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{Heiti SC}
+\setmonofont{Menlo}
+
+% Enable CJK line breaking
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% Page geometry - A4 for simple reading
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  top=1in,
+  bottom=1in,
+  left=1in,
+  right=1in
+}
+
+% Line spacing
+\linespread{1.4}
+
+% Colors
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{139,0,0}
+\definecolor{quotecolor}{RGB}{85,85,85}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=blue,
+  pdfencoding=auto
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+
+% Table settings
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Chapter style
+\usepackage{titlesec}
+\titleformat{\chapter}[display]
+  {\normalfont\Large\bfseries\color{chaptercolor}}
+  {\chaptertitlename\ \thechapter}{16pt}{\LARGE}
+
+% Quote style
+\renewenvironment{quote}
+  {\list{}{\rightmargin=0.5cm\leftmargin=0.5cm}\item\relax\color{quotecolor}\itshape}
+  {\endlist}
+
+% Metadata
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+\date{\today}
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Title
+$if(title)$
+\maketitle
+$endif$
+
+% Table of contents
+\tableofcontents
+
+$body$
+
+\end{document}

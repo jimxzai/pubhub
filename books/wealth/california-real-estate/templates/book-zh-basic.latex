@@ -1,0 +1,100 @@
+% California Real Estate Book Template - Chinese Basic Version
+% 加州地产兵法 基础版 LaTeX 模板
+% For TexLive Basic - minimal package dependencies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use macOS system fonts that support CJK
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{Heiti SC}
+\setmonofont{PingFang SC}[Scale=0.9]
+
+% Enable CJK line breaking
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% Page geometry
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  top=1in,
+  bottom=1in,
+  left=1in,
+  right=1in
+}
+
+% Line spacing
+\linespread{1.4}
+
+% Colors
+\usepackage{xcolor}
+\definecolor{chaptercolor}{RGB}{139,0,0}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chaptercolor,
+  urlcolor=blue,
+  pdfencoding=auto,
+  pdftitle={加州地产兵法},
+  pdfauthor={Jim Xiao}
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Math symbols for checkboxes
+\usepackage{amssymb}
+\newcommand{\checkbox}{\square}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+
+% Table settings
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Metadata
+$if(title)$
+\title{\color{chaptercolor}\bfseries $title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+\date{\today}
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Title
+$if(title)$
+\maketitle
+$endif$
+
+% Table of contents
+\tableofcontents
+
+$body$
+
+\end{document}

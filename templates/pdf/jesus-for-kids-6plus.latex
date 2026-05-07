@@ -1,0 +1,1061 @@
+% 耶稣的故事 - 儿童绘本 (6岁以上)
+% Jesus Story Picture Book for Children (Age 6+)
+% 简体中文版 + 拼音注音 + TikZ简约插画 + 经文引用
+
+\documentclass[12pt,openany]{book}
+
+% 页面设置 - 正方形绘本格式
+\usepackage[paperwidth=8.5in, paperheight=8.5in, margin=0.7in]{geometry}
+
+% 字体设置 - 使用 fontspec (与其他模板一致)
+\usepackage{fontspec}
+\setmainfont{Songti SC}[
+  BoldFont={Songti SC Bold},
+  ItalicFont={Kaiti SC},
+  BoldItalicFont={Kaiti SC Bold},
+  Scale=1.0
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+% 拼音采用括号注音方式：生僻字 (pīn yīn)
+% 适合6岁以上儿童阅读
+
+% 经文引用样式
+\newcommand{\bibleverse}[1]{{\small\itshape「#1」}}
+
+% TikZ绘图
+\usepackage{tikz}
+\usetikzlibrary{shapes,decorations,patterns,calc,positioning,shadows,arrows.meta}
+
+% 颜色定义 - 温暖柔和的儿童色彩
+\definecolor{SkyBlue}{RGB}{135,206,235}
+\definecolor{SunYellow}{RGB}{255,223,0}
+\definecolor{GrassGreen}{RGB}{124,185,95}
+\definecolor{WarmBrown}{RGB}{165,113,78}
+\definecolor{SoftPink}{RGB}{255,182,193}
+\definecolor{CloudWhite}{RGB}{255,255,255}
+\definecolor{NightBlue}{RGB}{25,25,112}
+\definecolor{StarGold}{RGB}{255,215,0}
+\definecolor{WaterBlue}{RGB}{100,149,237}
+\definecolor{SandBeige}{RGB}{244,226,198}
+\definecolor{HeartRed}{RGB}{220,53,69}
+\definecolor{WoodBrown}{RGB}{139,90,43}
+
+% 无页眉页脚
+\pagestyle{empty}
+
+% 段落设置
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+% ============================================
+% TikZ 简约插画宏定义
+% ============================================
+
+% 1. 马槽里的婴儿耶稣 (诞生)
+\newcommand{\mangerscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 夜空背景
+  \fill[NightBlue] (0,0) rectangle (12,10);
+
+  % 星星
+  \foreach \x/\y in {1/9, 3/8.5, 5/9.2, 7/8, 9/9, 11/8.3, 2/7.5, 10/7.8} {
+    \fill[StarGold] (\x,\y) circle (0.08);
+  }
+
+  % 大星星 (伯利恒之星)
+  \fill[StarGold] (6,9) -- (6.3,8.3) -- (7,8.3) -- (6.4,7.8) -- (6.6,7) -- (6,7.5) -- (5.4,7) -- (5.6,7.8) -- (5,8.3) -- (5.7,8.3) -- cycle;
+
+  % 马棚
+  \fill[WoodBrown] (2,0) -- (2,4) -- (6,6) -- (10,4) -- (10,0) -- cycle;
+  \fill[WarmBrown!50] (3,0) rectangle (9,3.5);
+
+  % 马槽
+  \fill[WoodBrown] (4.5,1) -- (4.5,2) -- (7.5,2) -- (7.5,1) -- (7,0.8) -- (5,0.8) -- cycle;
+  \fill[SandBeige] (4.8,1.3) rectangle (7.2,1.9);
+
+  % 婴儿耶稣 (简化圆形)
+  \fill[SoftPink] (6,1.7) circle (0.4);
+  \fill[CloudWhite] (5.3,1.2) rectangle (6.7,1.6);
+
+  % 光环
+  \draw[StarGold, line width=2pt] (6,1.9) circle (0.6);
+
+  % 干草
+  \foreach \x in {4.9, 5.2, 5.5, 6.5, 6.8, 7.1} {
+    \draw[SandBeige, line width=1pt] (\x,1.3) -- (\x+0.1,1.8);
+  }
+
+  % 玛利亚 (简化)
+  \fill[blue!60] (3,0) -- (3,3) -- (4,3.5) -- (4.5,2) -- (4,0) -- cycle;
+  \fill[SoftPink] (3.5,3.3) circle (0.4);
+
+  % 约瑟 (简化)
+  \fill[WarmBrown!80] (8,0) -- (8,3.2) -- (9,3.5) -- (9.5,2) -- (9,0) -- cycle;
+  \fill[SoftPink] (8.5,3.5) circle (0.4);
+\end{tikzpicture}%
+}
+
+% 2. 牧羊人和天使
+\newcommand{\shepherdsscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 夜空
+  \fill[NightBlue] (0,5) rectangle (12,10);
+  % 草地
+  \fill[GrassGreen!70] (0,0) rectangle (12,5);
+
+  % 星星
+  \foreach \x/\y in {1/9, 3/8, 5/9, 9/8.5, 11/9} {
+    \fill[StarGold] (\x,\y) circle (0.1);
+  }
+
+  % 天使 (简化三角形+圆形)
+  \fill[CloudWhite] (6,8) -- (4.5,6) -- (7.5,6) -- cycle;
+  \fill[SoftPink] (6,8.5) circle (0.5);
+  % 翅膀
+  \fill[CloudWhite!90] (4,7) -- (5,7.5) -- (5,6.5) -- cycle;
+  \fill[CloudWhite!90] (8,7) -- (7,7.5) -- (7,6.5) -- cycle;
+  % 光芒
+  \draw[StarGold, line width=2pt] (6,7.5) circle (1.5);
+
+  % 牧羊人 (简化)
+  \fill[WarmBrown] (2,0) -- (2,2.5) -- (2.8,3) -- (3.2,2) -- (3,0) -- cycle;
+  \fill[SoftPink] (2.5,3.2) circle (0.35);
+  % 牧杖
+  \draw[WoodBrown, line width=3pt] (1.5,0) -- (1.5,3.5) arc (180:0:0.3);
+
+  % 羊
+  \fill[CloudWhite] (4,1) ellipse (0.6 and 0.4);
+  \fill[CloudWhite] (4.2,1.5) circle (0.25);
+  \fill[CloudWhite] (8,0.8) ellipse (0.5 and 0.35);
+  \fill[CloudWhite] (8.2,1.2) circle (0.2);
+  \fill[CloudWhite] (10,1.2) ellipse (0.55 and 0.38);
+  \fill[CloudWhite] (10.2,1.6) circle (0.22);
+\end{tikzpicture}%
+}
+
+% 3. 三博士送礼物
+\newcommand{\wisemenscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 沙漠背景
+  \fill[SkyBlue!50] (0,5) rectangle (12,10);
+  \fill[SandBeige] (0,0) rectangle (12,5);
+
+  % 太阳
+  \fill[SunYellow] (10,8) circle (1);
+
+  % 星星
+  \fill[StarGold] (3,9) -- (3.2,8.3) -- (3.9,8.3) -- (3.35,7.85) -- (3.55,7.1) -- (3,7.55) -- (2.45,7.1) -- (2.65,7.85) -- (2.1,8.3) -- (2.8,8.3) -- cycle;
+
+  % 三位博士 (不同颜色)
+  % 博士1 - 红色
+  \fill[HeartRed!80] (2,0) -- (2,2.8) -- (3,3.2) -- (3.5,2) -- (3,0) -- cycle;
+  \fill[SoftPink] (2.5,3.4) circle (0.4);
+  \fill[StarGold] (2.5,3.8) -- (2.3,3.6) -- (2.7,3.6) -- cycle; % 皇冠
+
+  % 博士2 - 蓝色
+  \fill[blue!60] (5,0) -- (5,3) -- (6,3.4) -- (6.5,2.2) -- (6,0) -- cycle;
+  \fill[SoftPink] (5.5,3.6) circle (0.4);
+  \fill[StarGold] (5.5,4) -- (5.3,3.8) -- (5.7,3.8) -- cycle;
+
+  % 博士3 - 绿色
+  \fill[GrassGreen!80] (8,0) -- (8,2.6) -- (9,3) -- (9.5,1.8) -- (9,0) -- cycle;
+  \fill[SoftPink] (8.5,3.2) circle (0.4);
+  \fill[StarGold] (8.5,3.6) -- (8.3,3.4) -- (8.7,3.4) -- cycle;
+
+  % 礼物盒子
+  \fill[StarGold] (2.8,1.5) rectangle (3.2,1.9);
+  \fill[StarGold] (6,1.8) rectangle (6.4,2.2);
+  \fill[StarGold] (8.8,1.3) rectangle (9.2,1.7);
+
+  % 骆驼 (简化)
+  \fill[WarmBrown] (10.5,1) ellipse (0.8 and 0.5);
+  \fill[WarmBrown] (11,1.8) -- (10.8,1.2) -- (11.2,1.2) -- cycle; % 驼峰
+  \fill[WarmBrown] (10.8,1.8) circle (0.25); % 头
+\end{tikzpicture}%
+}
+
+% 4. 耶稣受洗
+\newcommand{\baptismscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,5) rectangle (12,10);
+  % 河水
+  \fill[WaterBlue] (0,0) rectangle (12,5);
+
+  % 云朵
+  \fill[CloudWhite] (3,8) ellipse (1.2 and 0.5);
+  \fill[CloudWhite] (3.5,8.3) ellipse (0.8 and 0.4);
+  \fill[CloudWhite] (9,8.5) ellipse (1 and 0.45);
+
+  % 阳光从云中射下
+  \draw[SunYellow, line width=3pt] (6,10) -- (6,6);
+  \draw[SunYellow, line width=2pt] (5.5,10) -- (5.7,6.5);
+  \draw[SunYellow, line width=2pt] (6.5,10) -- (6.3,6.5);
+
+  % 鸽子 (圣灵)
+  \fill[CloudWhite] (6,7) ellipse (0.5 and 0.3);
+  \fill[CloudWhite] (5.5,7.2) -- (5,7.5) -- (5.5,7) -- cycle; % 翅膀
+  \fill[CloudWhite] (6.5,7.2) -- (7,7.5) -- (6.5,7) -- cycle;
+  \fill[CloudWhite] (6.3,7) circle (0.15); % 头
+
+  % 耶稣在水中
+  \fill[SoftPink] (6,4.5) circle (0.5); % 头
+  \fill[CloudWhite] (5.3,3) -- (6,4) -- (6.7,3) -- (6.5,1.5) -- (5.5,1.5) -- cycle; % 身体
+
+  % 光环
+  \draw[StarGold, line width=2pt] (6,4.8) circle (0.7);
+
+  % 约翰
+  \fill[WarmBrown!80] (3,1.5) -- (3,3.5) -- (4,4) -- (4.5,3) -- (4,1.5) -- cycle;
+  \fill[SoftPink] (3.5,4.2) circle (0.4);
+
+  % 河岸
+  \fill[SandBeige] (0,0) -- (0,1.5) -- (2,1) -- (0,0);
+  \fill[SandBeige] (12,0) -- (12,1.5) -- (10,1) -- (12,0);
+
+  % 水波纹
+  \draw[WaterBlue!70, line width=1pt] (2,2) to[bend left] (4,2.2) to[bend right] (6,2);
+  \draw[WaterBlue!70, line width=1pt] (6,2) to[bend left] (8,2.2) to[bend right] (10,2);
+\end{tikzpicture}%
+}
+
+% 5. 耶稣讲道 (山上宝训)
+\newcommand{\sermonscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,6) rectangle (12,10);
+  % 山丘
+  \fill[GrassGreen] (0,0) -- (0,4) -- (3,6) -- (6,7) -- (9,6) -- (12,4) -- (12,0) -- cycle;
+
+  % 太阳
+  \fill[SunYellow] (10,8.5) circle (0.8);
+
+  % 云
+  \fill[CloudWhite] (2,8) ellipse (1 and 0.4);
+  \fill[CloudWhite] (7,9) ellipse (0.8 and 0.35);
+
+  % 耶稣站在山上
+  \fill[CloudWhite] (6,4) -- (5.2,6.5) -- (6.8,6.5) -- cycle; % 白袍
+  \fill[SoftPink] (6,6.8) circle (0.45); % 头
+  \draw[StarGold, line width=2pt] (6,7.1) circle (0.6); % 光环
+  % 张开的手臂
+  \draw[SoftPink, line width=4pt] (5.2,5.5) -- (4.5,5.8);
+  \draw[SoftPink, line width=4pt] (6.8,5.5) -- (7.5,5.8);
+
+  % 听众 (简化的小圆形代表人群)
+  \foreach \x/\y in {2/2.5, 3/3, 4/3.2, 3.5/2, 4.5/2.5, 8/3, 9/2.8, 8.5/2, 9.5/2.5, 10/3} {
+    \fill[WarmBrown!60] (\x,\y) circle (0.25);
+    \fill[SoftPink] (\x,\y+0.4) circle (0.2);
+  }
+
+  % 花朵点缀
+  \fill[SoftPink] (1,1.5) circle (0.15);
+  \fill[SunYellow] (2,1) circle (0.12);
+  \fill[SoftPink] (10,1.8) circle (0.15);
+  \fill[SunYellow] (11,1.2) circle (0.12);
+\end{tikzpicture}%
+}
+
+% 6. 耶稣喂饱五千人 (五饼二鱼)
+\newcommand{\fiveloavesscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,5) rectangle (12,10);
+  % 草地
+  \fill[GrassGreen] (0,0) rectangle (12,5);
+
+  % 太阳
+  \fill[SunYellow] (2,8) circle (0.7);
+
+  % 云
+  \fill[CloudWhite] (7,8.5) ellipse (1.2 and 0.5);
+  \fill[CloudWhite] (10,8) ellipse (0.9 and 0.4);
+
+  % 耶稣
+  \fill[CloudWhite] (6,2) -- (5.3,4.5) -- (6.7,4.5) -- cycle;
+  \fill[SoftPink] (6,4.8) circle (0.4);
+  \draw[StarGold, line width=2pt] (6,5.1) circle (0.55);
+
+  % 篮子里的饼和鱼
+  \fill[WarmBrown] (5.5,1.8) arc (180:360:0.5) -- cycle; % 篮子
+  \fill[SandBeige] (5.6,2) ellipse (0.2 and 0.1); % 饼
+  \fill[SandBeige] (5.9,2.1) ellipse (0.2 and 0.1);
+  \fill[SandBeige] (6.2,2) ellipse (0.2 and 0.1);
+  \fill[WaterBlue!70] (5.7,2.2) ellipse (0.15 and 0.08); % 鱼
+  \fill[WaterBlue!70] (6.1,2.25) ellipse (0.15 and 0.08);
+
+  % 人群 (很多小人)
+  \foreach \x/\y in {1/1, 2/1.5, 3/1, 2.5/0.5, 1.5/2, 9/1.2, 10/1.5, 11/1, 10.5/0.5, 9.5/2, 3.5/2.5, 8.5/2.3, 4/1.5, 8/1.5} {
+    \fill[WarmBrown!50] (\x,\y) circle (0.18);
+    \fill[SoftPink] (\x,\y+0.3) circle (0.15);
+  }
+
+  % 更多篮子 (表示剩余)
+  \fill[WarmBrown] (2,3) arc (180:360:0.3) -- cycle;
+  \fill[WarmBrown] (3,3.2) arc (180:360:0.3) -- cycle;
+  \fill[WarmBrown] (9,3) arc (180:360:0.3) -- cycle;
+  \fill[WarmBrown] (10,3.2) arc (180:360:0.3) -- cycle;
+\end{tikzpicture}%
+}
+
+% 7. 耶稣爱小孩
+\newcommand{\childrenscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 背景
+  \fill[SkyBlue!50] (0,5) rectangle (12,10);
+  \fill[GrassGreen!60] (0,0) rectangle (12,5);
+
+  % 太阳
+  \fill[SunYellow] (10,8) circle (0.8);
+
+  % 树
+  \fill[WoodBrown] (1,0) rectangle (1.5,3);
+  \fill[GrassGreen!80] (1.25,3) circle (1.2);
+  \fill[WoodBrown] (10.5,0) rectangle (11,2.5);
+  \fill[GrassGreen!80] (10.75,2.5) circle (1);
+
+  % 耶稣坐着
+  \fill[CloudWhite] (6,1.5) -- (5,3.5) -- (7,3.5) -- cycle;
+  \fill[SoftPink] (6,3.8) circle (0.45);
+  \draw[StarGold, line width=2pt] (6,4.1) circle (0.6);
+  % 伸出的手臂
+  \draw[SoftPink, line width=4pt] (5,3) -- (4,3.3);
+  \draw[SoftPink, line width=4pt] (7,3) -- (8,3.3);
+
+  % 小孩子们
+  % 左边小孩
+  \fill[SoftPink] (3.5,2.5) circle (0.25);
+  \fill[HeartRed!60] (3.5,1.5) -- (3.2,2.3) -- (3.8,2.3) -- cycle;
+
+  % 右边小孩
+  \fill[SoftPink] (8.5,2.3) circle (0.25);
+  \fill[blue!50] (8.5,1.3) -- (8.2,2.1) -- (8.8,2.1) -- cycle;
+
+  % 耶稣身边的小孩
+  \fill[SoftPink] (4.5,2.8) circle (0.2);
+  \fill[GrassGreen!60] (4.5,2) -- (4.3,2.6) -- (4.7,2.6) -- cycle;
+
+  \fill[SoftPink] (7.5,2.8) circle (0.2);
+  \fill[SunYellow!70] (7.5,2) -- (7.3,2.6) -- (7.7,2.6) -- cycle;
+
+  % 花朵
+  \fill[SoftPink] (2,1) circle (0.15);
+  \fill[SunYellow] (3,0.8) circle (0.12);
+  \fill[SoftPink] (9,1.2) circle (0.15);
+  \fill[HeartRed!50] (10,0.9) circle (0.12);
+
+  % 爱心
+  \fill[HeartRed] (6,5.5) .. controls (6,6) and (5.3,6) .. (5.3,5.5) .. controls (5.3,5) and (6,4.5) .. (6,4.5) .. controls (6,4.5) and (6.7,5) .. (6.7,5.5) .. controls (6.7,6) and (6,6) .. (6,5.5);
+\end{tikzpicture}%
+}
+
+% 8. 耶稣在十字架上
+\newcommand{\crossscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 暗色天空
+  \fill[NightBlue!70] (0,4) rectangle (12,10);
+  % 地面
+  \fill[WarmBrown!50] (0,0) rectangle (12,4);
+
+  % 十字架
+  \fill[WoodBrown] (5.5,2) rectangle (6.5,8);
+  \fill[WoodBrown] (3.5,6) rectangle (8.5,7);
+
+  % 耶稣 (简化)
+  \fill[SoftPink] (6,7.5) circle (0.4); % 头
+  \fill[CloudWhite] (5.5,4.5) rectangle (6.5,7); % 身体
+  % 手臂
+  \draw[SoftPink, line width=5pt] (5.5,6.3) -- (3.8,6.3);
+  \draw[SoftPink, line width=5pt] (6.5,6.3) -- (8.2,6.3);
+
+  % 光环
+  \draw[StarGold, line width=2pt] (6,7.8) circle (0.55);
+
+  % 光芒从十字架发出
+  \draw[StarGold, line width=2pt] (6,5) -- (6,10);
+  \draw[StarGold, line width=1pt] (4,8) -- (8,8);
+  \draw[StarGold, line width=1pt] (4.5,4.5) -- (7.5,9);
+  \draw[StarGold, line width=1pt] (7.5,4.5) -- (4.5,9);
+
+  % 小十字架在两边
+  \fill[WoodBrown!70] (1.8,2) rectangle (2.2,5);
+  \fill[WoodBrown!70] (1,4) rectangle (3,4.4);
+
+  \fill[WoodBrown!70] (9.8,2) rectangle (10.2,5);
+  \fill[WoodBrown!70] (9,4) rectangle (11,4.4);
+
+  % 玛利亚 (简化，站在下面)
+  \fill[blue!60] (3,0) -- (3,2.5) -- (3.8,3) -- (4,2) -- (3.5,0) -- cycle;
+  \fill[SoftPink] (3.4,3.2) circle (0.3);
+
+  % 约翰
+  \fill[WarmBrown!70] (8,0) -- (8,2.3) -- (8.8,2.8) -- (9,1.8) -- (8.5,0) -- cycle;
+  \fill[SoftPink] (8.4,3) circle (0.3);
+\end{tikzpicture}%
+}
+
+% 9. 耶稣复活 (空坟墓)
+\newcommand{\resurrectionscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 日出天空
+  \fill[SkyBlue] (0,5) rectangle (12,10);
+  \fill[SunYellow!30] (0,5) rectangle (12,7);
+
+  % 太阳升起
+  \fill[SunYellow] (6,5) circle (1.5);
+
+  % 草地
+  \fill[GrassGreen] (0,0) rectangle (12,5);
+
+  % 山洞/坟墓
+  \fill[WarmBrown!80] (3,0) -- (3,5) -- (5,6) -- (9,6) -- (11,5) -- (11,0) -- cycle;
+  % 洞口
+  \fill[NightBlue!80] (5.5,0) arc (180:0:1.5) -- cycle;
+  \fill[NightBlue!80] (5.5,0) rectangle (8.5,3);
+
+  % 滚开的石头
+  \fill[gray!60] (9.5,1.5) circle (1);
+
+  % 光芒从洞中发出
+  \draw[StarGold, line width=3pt] (7,2) -- (7,7);
+  \draw[StarGold, line width=2pt] (5.5,3) -- (4,5);
+  \draw[StarGold, line width=2pt] (8.5,3) -- (10,5);
+
+  % 天使
+  \fill[CloudWhite] (4,3) -- (3.5,4.5) -- (4.5,4.5) -- cycle;
+  \fill[SoftPink] (4,4.7) circle (0.3);
+
+  % 花朵 (象征新生)
+  \fill[SoftPink] (1,1.5) circle (0.2);
+  \fill[SoftPink] (1.3,1.2) circle (0.18);
+  \fill[SunYellow] (2,0.8) circle (0.15);
+  \fill[SoftPink] (10,2) circle (0.2);
+  \fill[HeartRed!50] (10.5,1.5) circle (0.15);
+
+  % 蝴蝶 (象征重生)
+  \fill[SoftPink] (2,4) ellipse (0.3 and 0.15);
+  \fill[SoftPink] (1.7,4.2) ellipse (0.15 and 0.2);
+  \fill[SoftPink] (2.3,4.2) ellipse (0.15 and 0.2);
+\end{tikzpicture}%
+}
+
+% 10. 耶稣升天
+\newcommand{\ascensionscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,4) rectangle (12,10);
+  % 草地
+  \fill[GrassGreen] (0,0) rectangle (12,4);
+
+  % 云朵
+  \fill[CloudWhite] (2,7) ellipse (1.5 and 0.6);
+  \fill[CloudWhite] (10,7.5) ellipse (1.3 and 0.55);
+  \fill[CloudWhite] (6,8) ellipse (1.8 and 0.7);
+
+  % 耶稣升天 (在云中)
+  \fill[CloudWhite] (6,7) -- (5.2,8.8) -- (6.8,8.8) -- cycle;
+  \fill[SoftPink] (6,9.1) circle (0.4);
+  \draw[StarGold, line width=3pt] (6,9.4) circle (0.55);
+
+  % 光芒
+  \draw[StarGold, line width=2pt] (6,7) -- (6,10);
+  \draw[StarGold, line width=1.5pt] (4.5,8.5) -- (3,9.5);
+  \draw[StarGold, line width=1.5pt] (7.5,8.5) -- (9,9.5);
+
+  % 门徒们抬头看 (简化)
+  \foreach \x/\y in {2/2, 3/2.5, 4/2, 5/2.8, 7/2.8, 8/2, 9/2.5, 10/2} {
+    \fill[WarmBrown!60] (\x,\y-0.5) -- (\x-0.3,\y+0.3) -- (\x+0.3,\y+0.3) -- cycle;
+    \fill[SoftPink] (\x,\y+0.5) circle (0.25);
+  }
+
+  % 两个天使 (白衣人)
+  \fill[CloudWhite] (1,1) -- (0.5,2.5) -- (1.5,2.5) -- cycle;
+  \fill[SoftPink] (1,2.7) circle (0.2);
+
+  \fill[CloudWhite] (11,1) -- (10.5,2.5) -- (11.5,2.5) -- cycle;
+  \fill[SoftPink] (11,2.7) circle (0.2);
+\end{tikzpicture}%
+}
+
+% ============================================
+% 文档开始
+% ============================================
+
+\begin{document}
+
+% 封面
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.8in}
+
+\begin{tikzpicture}[scale=0.8]
+  % 彩虹背景
+  \fill[HeartRed!30] (0,0) arc (180:0:6) -- cycle;
+  \fill[SunYellow!30] (0.5,0) arc (180:0:5.5) -- cycle;
+  \fill[GrassGreen!30] (1,0) arc (180:0:5) -- cycle;
+  \fill[SkyBlue!30] (1.5,0) arc (180:0:4.5) -- cycle;
+
+  % 大星星
+  \fill[StarGold] (6,5) -- (6.5,3.5) -- (8,3.5) -- (6.8,2.3) -- (7.3,0.8) -- (6,1.8) -- (4.7,0.8) -- (5.2,2.3) -- (4,3.5) -- (5.5,3.5) -- cycle;
+\end{tikzpicture}
+
+\vspace{0.4in}
+
+{\fontsize{44}{54}\selectfont\bfseries 耶稣的故事}
+
+\vspace{0.2in}
+
+{\fontsize{22}{28}\selectfont 给小朋友的图画圣经}
+
+\vspace{0.15in}
+
+{\normalsize 6岁以上适读 · 含经文引用}
+
+\vspace{1in}
+
+{\large 三书精读出版}
+\end{center}
+\newpage
+
+% ============================================
+% 目录页
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5in}
+{\fontsize{28}{36}\selectfont\bfseries 故事目录}
+\vspace{0.4in}
+
+{\fontsize{18}{26}\selectfont
+\begin{tabular}{rl}
+一 & 耶稣诞生 \\[0.15in]
+二 & 牧羊人来拜 \\[0.15in]
+三 & 东方博士 \\[0.15in]
+四 & 耶稣受洗 \\[0.15in]
+五 & 山上教导 \\[0.15in]
+六 & 神迹奇事 \\[0.15in]
+七 & 耶稣爱小孩 \\[0.15in]
+八 & 医治病人 \\[0.15in]
+九 & 最后的晚餐 \\[0.15in]
+十 & 十字架上 \\[0.15in]
+十一 & 耶稣复活 \\[0.15in]
+十二 & 升天与应许 \\[0.15in]
+\end{tabular}
+}
+\end{center}
+\newpage
+
+% ============================================
+% 第一章：耶稣诞生
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 一、耶稣诞生}
+\vspace{0.1in}
+
+\mangerscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+两千多年前，在一个叫伯利恒 (bó lì héng) 的小镇，
+
+神的儿子耶稣 (yē sū) 降生在这个世界上。
+
+因为客栈 (kè zhàn) 里没有房间，
+
+他的妈妈马利亚把他放在马槽 (mǎ cáo) 里。
+
+天上有一颗明亮的星星在闪耀。
+}
+
+\vspace{0.15in}
+\bibleverse{她生了头胎的儿子，用布包起来，放在马槽里。—— 路加福音 2:7}
+\end{center}
+\newpage
+
+% ============================================
+% 第二章：牧羊人来拜
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 二、牧羊人来拜}
+\vspace{0.1in}
+
+\shepherdsscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+那天晚上，有牧 (mù) 羊人在野外看守羊群。
+
+忽然，天使 (tiān shǐ) 出现在他们面前，
+
+天上发出耀眼的光芒！天使说：
+
+「不要害怕！今天救主 (jiù zhǔ) 诞生了！
+
+你们会找到一个婴孩，躺在马槽里。」
+
+牧羊人赶紧去找，果然看见了小耶稣！
+}
+
+\vspace{0.15in}
+\bibleverse{今天为你们生了救主，就是主基督。—— 路加福音 2:11}
+\end{center}
+\newpage
+
+% ============================================
+% 第三章：东方博士
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 三、东方博士}
+\vspace{0.1in}
+
+\wisemenscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+在遥远的东方，有几位博 (bó) 士看见了一颗特别的星。
+
+他们知道这代表一位君王诞生了！
+
+他们骑着骆驼，跟着那颗星走了很远很远。
+
+终于找到了小耶稣，献上珍贵 (zhēn guì) 的礼物：
+
+黄金、乳香和没药。
+}
+
+\vspace{0.15in}
+\bibleverse{他们看见那星，就非常欢喜。—— 马太福音 2:10}
+\end{center}
+\newpage
+
+% ============================================
+% 第四章：耶稣受洗
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 四、耶稣受洗}
+\vspace{0.1in}
+
+\baptismscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+耶稣长大了。三十岁时，他来到约旦河边。
+
+施洗约翰正在河里给人施洗 (shī xǐ)。
+
+耶稣走进水里，约翰为他施洗。
+
+天忽然开了，圣灵像鸽 (gē) 子一样飞下来！
+
+天上有声音说：「这是我的爱子，我很喜悦他！」
+}
+
+\vspace{0.15in}
+\bibleverse{这是我的爱子，我所喜悦的。—— 马太福音 3:17}
+\end{center}
+\newpage
+
+% ============================================
+% 第五章：山上教导
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 五、山上教导}
+\vspace{0.1in}
+
+\sermonscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+耶稣走遍各城各村，教导人们认识神。
+
+有一天，他站在山上，
+
+对很多人讲述 (jiǎng shù) 天国的道理：
+
+「心里贫穷的人有福了，天国是他们的。
+
+温柔的人有福了，他们会承受地土。
+
+要爱你们的仇敌，为逼迫 (bī pò) 你们的人祷告。」
+}
+
+\vspace{0.15in}
+\bibleverse{要爱你们的仇敌，为逼迫你们的人祷告。—— 马太福音 5:44}
+\end{center}
+\newpage
+
+% ============================================
+% 第六章：神迹奇事
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 六、神迹奇事}
+\vspace{0.1in}
+
+\fiveloavesscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+有一天，五千多人来听耶稣讲道。
+
+天晚了，大家都饿 (è) 了，可是没有食物。
+
+一个小男孩拿来五个饼和两条鱼。
+
+耶稣拿起来祷 (dǎo) 告，然后分给大家。
+
+奇妙的事发生了——每个人都吃饱了！
+
+吃完后，还剩下十二篮子呢！
+}
+
+\vspace{0.15in}
+\bibleverse{他们吃饱了，剩下的零碎收拾起来，装满了十二个篮子。—— 约翰福音 6:12-13}
+\end{center}
+\newpage
+
+% ============================================
+% 第七章：耶稣爱小孩
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 七、耶稣爱小孩}
+\vspace{0.1in}
+
+\childrenscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+有些爸爸妈妈带着小孩子来见耶稣。
+
+门徒们说：「别打扰老师！」
+
+但耶稣说：「让小孩子到我这里来，
+
+不要阻止他们，因为天国属于这样的人。」
+
+耶稣抱着孩子们，为他们祝福 (zhù fú)。
+
+耶稣很爱小朋友，他也很爱你！
+}
+
+\vspace{0.15in}
+\bibleverse{让小孩子到我这里来，不要阻止他们。—— 马可福音 10:14}
+\end{center}
+\newpage
+
+% ============================================
+% 第八章：医治病人
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 八、医治病人}
+\vspace{0.1in}
+
+\baptismscene % 复用场景，表示医治
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+耶稣不但教导人，还医治 (yī zhì) 生病的人。
+
+瞎子来了，耶稣让他看见！
+
+瘸 (qué) 子来了，耶稣让他走路！
+
+有一个叫拉撒路的人死了四天，
+
+耶稣叫他从坟墓里出来——他就活了！
+
+耶稣有从神来的大能力。
+}
+
+\vspace{0.15in}
+\bibleverse{耶稣走遍各城各村，医治各样的病症。—— 马太福音 9:35}
+\end{center}
+\newpage
+
+% ============================================
+% 第九章：最后的晚餐
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 九、最后的晚餐}
+\vspace{0.1in}
+
+\sermonscene % 复用场景
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+逾越节 (yú yuè jié) 到了，耶稣和十二个门徒一起吃饭。
+
+耶稣拿起饼来，掰 (bāi) 开，分给大家，说：
+
+「这是我的身体，为你们舍的。」
+
+又拿起杯来说：「这是我的血，为你们流出来的。
+
+你们要常常这样做，来记念我。」
+
+那天晚上，耶稣知道自己快要受苦了。
+}
+
+\vspace{0.15in}
+\bibleverse{你们应当如此行，为的是记念我。—— 路加福音 22:19}
+\end{center}
+\newpage
+
+% ============================================
+% 第十章：十字架上
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 十、十字架上}
+\vspace{0.1in}
+
+\crossscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+有坏人不喜欢耶稣，把他抓住，
+
+把他钉 (dīng) 在十字架 (jià) 上。
+
+耶稣受了很大的痛苦，但他没有恨那些人。
+
+他说：「父啊，赦免 (shè miǎn) 他们！他们不知道自己做什么。」
+
+耶稣为我们的罪死了，
+
+因为他太爱我们了！
+}
+
+\vspace{0.15in}
+\bibleverse{神爱世人，甚至将他的独生子赐给他们。—— 约翰福音 3:16}
+\end{center}
+\newpage
+
+% ============================================
+% 第十一章：耶稣复活
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 十一、耶稣复活}
+\vspace{0.1in}
+
+\resurrectionscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+耶稣死了，被安放在坟墓 (fén mù) 里。
+
+第三天清晨，几个妇女来到坟墓，
+
+发现石头已经滚开了！坟墓是空的！
+
+天使对她们说：「他不在这里，他复 (fù) 活了！」
+
+耶稣真的活过来了！他战胜 (zhàn shèng) 了死亡！
+
+门徒们亲眼看见了复活的耶稣！
+}
+
+\vspace{0.15in}
+\bibleverse{他不在这里，已经复活了！—— 路加福音 24:6}
+\end{center}
+\newpage
+
+% ============================================
+% 第十二章：升天与应许
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1in}
+{\large\bfseries 十二、升天与应许}
+\vspace{0.1in}
+
+\ascensionscene
+
+\vspace{0.2in}
+
+{\fontsize{22}{30}\selectfont
+四十天后，耶稣带门徒到橄榄山上。
+
+他说：「你们要去，使万民作我的门徒。
+
+我要赐给你们能力，到世界各地为我作见证。
+
+我会再来的！」
+
+说完这话，耶稣被云彩接上天去了。
+
+门徒们望着天，心里充满了喜乐和盼望！
+}
+
+\vspace{0.15in}
+\bibleverse{我就常与你们同在，直到世界的末了。—— 马太福音 28:20}
+\end{center}
+\newpage
+
+% ============================================
+% 结语页
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.6in}
+
+\begin{tikzpicture}[scale=0.7]
+  % 大爱心
+  \fill[HeartRed] (6,3) .. controls (6,5) and (3,5) .. (3,3) .. controls (3,1) and (6,-1) .. (6,-1) .. controls (6,-1) and (9,1) .. (9,3) .. controls (9,5) and (6,5) .. (6,3);
+  % 十字架在心里
+  \fill[CloudWhite] (5.7,1) rectangle (6.3,4);
+  \fill[CloudWhite] (5,2.5) rectangle (7,3);
+\end{tikzpicture}
+
+\vspace{0.4in}
+
+{\fontsize{28}{36}\selectfont
+亲爱的小朋友，
+
+耶稣非常爱你！
+
+他为你而生，为你而死，又为你复活。
+
+\vspace{0.3in}
+
+你愿意相信他，
+
+成为他的好朋友吗？
+
+\vspace{0.3in}
+
+\bibleverse{神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生。—— 约翰福音 3:16}
+}
+
+\vspace{0.5in}
+
+{\large — 完 —}
+\end{center}
+\newpage
+
+% ============================================
+% 回应祷告页
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5in}
+{\fontsize{24}{32}\selectfont\bfseries 我想成为耶稣的朋友}
+
+\vspace{0.4in}
+
+{\fontsize{20}{28}\selectfont
+如果你想相信耶稣，可以这样祷告：
+
+\vspace{0.3in}
+
+{\itshape
+「亲爱的耶稣，
+
+谢谢你爱我，为我死在十字架上。
+
+我知道我有做错的事，请你原谅我。
+
+我相信你从死里复活了。
+
+请你住在我心里，做我最好的朋友。
+
+我愿意跟随你，听你的话。
+
+奉耶稣的名祷告，阿门。」
+}
+
+\vspace{0.4in}
+
+如果你做了这个祷告，
+
+恭喜你！你现在是神家里的孩子了！
+
+记得告诉爸爸妈妈这个好消息哦！
+}
+\end{center}
+\newpage
+
+% ============================================
+% 版权页
+% ============================================
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\small
+《耶稣的故事》儿童绘本
+
+\vspace{0.3in}
+
+三书精读出版系统
+
+\vspace{0.2in}
+
+简体中文版 · 6岁以上适读
+
+\vspace{0.3in}
+
+本书包含12个耶稣生平的重要故事
+
+每个故事配有圣经经文引用
+
+\vspace{0.3in}
+
+插画采用 TikZ 简约风格
+
+生僻字配有拼音注音
+
+\vspace{0.5in}
+
+\rule{3in}{0.5pt}
+
+\vspace{0.3in}
+
+榮耀 = 恩典 + 真理
+
+Glory = Grace + Truth
+
+\vspace{0.2in}
+
+「认识你独一的真神，
+
+并且认识你所差来的耶稣基督，
+
+这就是永生。」—— 约翰福音 17:3
+}
+\end{center}
+\vspace*{\fill}
+
+\end{document}

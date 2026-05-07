@@ -1,0 +1,804 @@
+% Developer Fast Track Guide - Professional Book Template
+% California Land Use & Development Practitioner's Guide
+% Requires XeLaTeX
+% 8.5x11 Letter Size for professional reference use
+
+\documentclass[11pt,openany,twoside]{book}
+
+% ============================================================
+% FONTS - Professional Book Typography
+% ============================================================
+\usepackage{fontspec}
+
+% Option 1: Libertinus (free, elegant, designed for books)
+% Uncomment if you have Libertinus fonts installed:
+% \setmainfont{Libertinus Serif}[
+%   Numbers=OldStyle,
+%   Ligatures=TeX,
+%   Ligatures=Common
+% ]
+% \setsansfont{Libertinus Sans}
+% \setmonofont{JetBrains Mono}[Scale=0.88]
+
+% Option 2: Palatino (Hermann Zapf classic, professional reference standard)
+% Clear lining numbers, excellent readability for technical/legal content
+\setmainfont{Palatino}[
+  BoldFont=Palatino Bold,
+  ItalicFont=Palatino Italic,
+  BoldItalicFont=Palatino Bold Italic,
+  Numbers=Lining,
+  Ligatures=TeX
+]
+\setsansfont{Avenir Next}[
+  BoldFont=Avenir Next Bold,
+  ItalicFont=Avenir Next Italic,
+  Scale=0.95
+]
+\setmonofont{Source Code Pro}[
+  Scale=0.85
+]
+
+% Option 3: EB Garamond (free classical elegance)
+% Uncomment if you have EB Garamond installed:
+% \setmainfont{EB Garamond}[
+%   Numbers=OldStyle,
+%   Ligatures=TeX
+% ]
+% \setsansfont{Source Sans 3}
+% \setmonofont{Source Code Pro}[Scale=0.88]
+
+% ============================================================
+% CJK FONT SUPPORT
+% ============================================================
+\usepackage{xeCJK}
+
+% CJK fonts - Use SC (Simplified Chinese) for better compatibility
+% These fonts are standard on macOS and cover all Chinese characters
+\setCJKmainfont{Songti SC}
+\setCJKsansfont{Heiti SC}
+\setCJKmonofont{Heiti SC}
+
+% CJK line breaking support
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% ============================================================
+% PROFESSIONAL TYPOGRAPHY
+% ============================================================
+\usepackage{microtype}
+\microtypesetup{
+  protrusion=true,
+  expansion=false,
+  tracking=false,
+  kerning=false,
+  spacing=false
+}
+
+% ============================================================
+% PAGE GEOMETRY
+% ============================================================
+\usepackage{geometry}
+\geometry{
+  letterpaper,
+  top=1in,
+  bottom=1in,
+  inner=1.25in,
+  outer=1.25in,
+  headheight=14pt,
+  headsep=0.3in,
+  footskip=0.4in
+}
+
+\linespread{1.15}
+
+% ============================================================
+% COLORS
+% ============================================================
+\usepackage{xcolor}
+\definecolor{chapterblue}{RGB}{0,51,102}
+\definecolor{sectionblue}{RGB}{0,76,153}
+\definecolor{accentgold}{RGB}{178,134,0}
+\definecolor{casegray}{RGB}{245,245,245}
+\definecolor{quoteblue}{RGB}{0,51,102}
+\definecolor{linkblue}{RGB}{0,102,204}
+\definecolor{shadecolor}{RGB}{245,245,245}
+\definecolor{tablerule}{RGB}{0,51,102}
+\definecolor{tablerulelight}{RGB}{160,185,210}
+\definecolor{bulletgold}{RGB}{178,134,0}
+
+% ============================================================
+% HYPERLINKS
+% ============================================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=chapterblue,
+  urlcolor=linkblue,
+  citecolor=chapterblue,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  bookmarksopen=true,
+  bookmarksopenlevel=1,
+  pdfstartview=FitH,
+  pdftitle={California Developer Fast Track Guide},
+  pdfauthor={Jim Xiao}
+}
+
+% ============================================================
+% GRAPHICS
+% ============================================================
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{tikz}
+\usetikzlibrary{decorations.pathmorphing,calc}
+
+% ============================================================
+% TABLES
+% ============================================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{8pt}
+\setlength{\LTpost}{8pt}
+\renewcommand{\arraystretch}{1.3}
+
+\renewcommand{\toprule}{\arrayrulecolor{tablerule}\specialrule{1.2pt}{0pt}{0pt}\arrayrulecolor{tablerulelight}}
+\renewcommand{\midrule}{\arrayrulecolor{tablerulelight}\specialrule{0.4pt}{0pt}{0pt}}
+\renewcommand{\bottomrule}{\arrayrulecolor{tablerule}\specialrule{1.2pt}{0pt}{0pt}\arrayrulecolor{tablerulelight}}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% ============================================================
+% MATH (for symbols)
+% ============================================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{colortbl}
+
+% ============================================================
+% HEADER & FOOTER - With decorative footer rule
+% ============================================================
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE]{\small\textcolor{chapterblue}{\nouppercase{\leftmark}}}
+\fancyhead[RO]{\small\textcolor{chapterblue}{\nouppercase{\rightmark}}}
+\fancyfoot[C]{\small\textcolor{chapterblue!60}{\thepage}}
+\fancyfoot[LE]{\footnotesize\textcolor{chapterblue!30}{\textit{California Developer Fast Track Guide}}}
+\fancyfoot[RO]{\footnotesize\textcolor{chapterblue!30}{\textit{Jim Xiao}}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{chapterblue!40}\leaders\hrule height \headrulewidth\hfill}}
+\renewcommand{\footrulewidth}{0.4pt}
+\renewcommand{\footrule}{\hbox to\headwidth{\color{accentgold!30}\leaders\hrule height \footrulewidth\hfill}}
+
+\fancypagestyle{plain}{
+  \fancyhf{}
+  \fancyfoot[C]{\small\textcolor{chapterblue!60}{\thepage}}
+  \fancyfoot[LE]{\footnotesize\textcolor{chapterblue!30}{\textit{California Developer Fast Track Guide}}}
+  \fancyfoot[RO]{\footnotesize\textcolor{chapterblue!30}{\textit{Jim Xiao}}}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% ============================================================
+% CHAPTER & SECTION STYLING - With TikZ corner ornaments
+% ============================================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{20\p@}%
+  {\parindent \z@ \raggedright \normalfont
+    % Top ornament
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=accentgold,line width=1.5pt] (0,0) -- (0.8,0);
+      \filldraw[color=accentgold] (0.9,0) circle (2pt);
+    \end{tikzpicture}%
+    \par\vskip 8\p@
+    \ifnum \c@secnumdepth >\m@ne
+      \if@mainmatter
+        {\color{accentgold}\rule{\textwidth}{2pt}}
+        \par\nobreak\vskip 15\p@
+        {\sffamily\LARGE\bfseries\color{chapterblue} \@chapapp\ \thechapter}
+        \par\nobreak
+        \vskip 10\p@
+      \fi
+    \fi
+    \interlinepenalty\@M
+    {\sffamily\Huge\bfseries\color{chapterblue} #1}
+    \par\nobreak
+    \vskip 8\p@
+    {\color{accentgold}\rule{\textwidth}{0.5pt}}
+    \vskip 30\p@
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{30\p@}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    {\color{accentgold}\rule{\textwidth}{2pt}}
+    \par\nobreak\vskip 15\p@
+    \interlinepenalty\@M
+    {\sffamily\Huge\bfseries\color{chapterblue} #1}
+    \par\nobreak
+    \vskip 8\p@
+    {\color{accentgold}\rule{\textwidth}{0.5pt}}
+    \vskip 30\p@
+  }}
+\makeatother
+
+\makeatletter
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-3.5ex \@plus -1ex \@minus -.2ex}%
+  {2.3ex \@plus.2ex}%
+  {\sffamily\Large\bfseries\color{sectionblue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-3.25ex\@plus -1ex \@minus -.2ex}%
+  {1.5ex \@plus .2ex}%
+  {\sffamily\large\bfseries\color{chapterblue}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-3.25ex\@plus -1ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\sffamily\normalsize\bfseries\color{chapterblue!80}}}
+\makeatother
+
+% ============================================================
+% PART PAGE STYLING - With TikZ corner ornaments
+% ============================================================
+\makeatletter
+\def\@part[#1]#2{%
+  \ifnum \c@secnumdepth >-2\relax
+    \refstepcounter{part}%
+    \addcontentsline{toc}{part}{\thepart\hspace{1em}#1}%
+  \else
+    \addcontentsline{toc}{part}{#1}%
+  \fi
+  \markboth{}{}%
+  \thispagestyle{empty}%
+  % Top corner ornaments
+  \begin{tikzpicture}[remember picture,overlay]
+    % Top left corner
+    \draw[color=accentgold,line width=1.5pt] (current page.north west) ++(1.5in,-1.5in) -- ++(0.8in,0);
+    \draw[color=accentgold,line width=1.5pt] (current page.north west) ++(1.5in,-1.5in) -- ++(0,0.8in);
+    % Top right corner
+    \draw[color=accentgold,line width=1.5pt] (current page.north east) ++(-1.5in,-1.5in) -- ++(-0.8in,0);
+    \draw[color=accentgold,line width=1.5pt] (current page.north east) ++(-1.5in,-1.5in) -- ++(0,0.8in);
+  \end{tikzpicture}%
+  \vspace*{2cm}%
+  \begin{center}%
+    {\color{accentgold}\rule{\textwidth}{3pt}}%
+    \par\vskip 25pt%
+    \ifnum \c@secnumdepth >-2\relax
+      {\sffamily\large\bfseries\color{chapterblue!60}\MakeUppercase{\partname}\ \thepart}%
+      \par\vskip 12pt%
+    \fi
+    {\sffamily\fontsize{32}{38}\selectfont\bfseries\color{chapterblue}#2}%
+    \par\vskip 25pt%
+    % TikZ decorative element
+    \begin{tikzpicture}
+      \draw[color=accentgold, line width=1.5pt] (0,0) -- (3,0);
+      \filldraw[color=accentgold] (3.2,0) -- (3.5,0.2) -- (3.8,0) -- (3.5,-0.2) -- cycle;
+      \draw[color=accentgold, line width=1.5pt] (3.8,0) -- (6.8,0);
+    \end{tikzpicture}%
+    \par\vskip 15pt%
+    {\color{accentgold}\rule{3cm}{0.5pt}}%
+  \end{center}%
+  % Bottom corner ornaments
+  \begin{tikzpicture}[remember picture,overlay]
+    % Bottom left corner
+    \draw[color=accentgold,line width=1.5pt] (current page.south west) ++(1.5in,1.5in) -- ++(0.8in,0);
+    \draw[color=accentgold,line width=1.5pt] (current page.south west) ++(1.5in,1.5in) -- ++(0,-0.8in);
+    % Bottom right corner
+    \draw[color=accentgold,line width=1.5pt] (current page.south east) ++(-1.5in,1.5in) -- ++(-0.8in,0);
+    \draw[color=accentgold,line width=1.5pt] (current page.south east) ++(-1.5in,1.5in) -- ++(0,-0.8in);
+  \end{tikzpicture}%
+  \@endpart}
+\def\@spart#1{%
+  \thispagestyle{empty}%
+  \vspace*{2cm}%
+  \begin{center}%
+    {\color{accentgold}\rule{\textwidth}{3pt}}%
+    \par\vskip 25pt%
+    {\sffamily\fontsize{32}{38}\selectfont\bfseries\color{chapterblue}#1}%
+    \par\vskip 25pt%
+    {\color{accentgold}\rule{6cm}{1.5pt}}%
+    \par\vskip 15pt%
+    {\color{accentgold}\rule{3cm}{0.5pt}}%
+  \end{center}%
+  \@endpart}
+\def\@endpart{\vfil\newpage}
+\makeatother
+
+% ============================================================
+% BLOCKQUOTE STYLING - Elegant with gold left border
+% ============================================================
+\usepackage{mdframed}
+\renewenvironment{quote}{%
+  \vskip 10pt
+  \begin{mdframed}[
+    linecolor=accentgold,
+    linewidth=3pt,
+    topline=false,
+    rightline=false,
+    bottomline=false,
+    backgroundcolor=casegray!30,
+    skipabove=8pt,
+    skipbelow=8pt,
+    innerleftmargin=12pt,
+    innerrightmargin=12pt,
+    innertopmargin=10pt,
+    innerbottommargin=10pt
+  ]
+  \itshape\color{quoteblue}
+}{%
+  \end{mdframed}
+  \vskip 10pt
+}
+
+% ============================================================
+% CUSTOM CONTENT BOXES - For 10/10 Quality Enhancement
+% ============================================================
+
+% Executive Summary box (chapter openings)
+\newenvironment{execsummary}{%
+  \vskip 12pt
+  \begin{mdframed}[
+    linecolor=chapterblue,
+    linewidth=2pt,
+    backgroundcolor=chapterblue!5,
+    roundcorner=5pt,
+    innerleftmargin=15pt,
+    innerrightmargin=15pt,
+    innertopmargin=12pt,
+    innerbottommargin=12pt,
+    skipabove=10pt,
+    skipbelow=10pt
+  ]
+  \noindent{\sffamily\large\bfseries\color{chapterblue}Executive Summary}
+  \par\vskip 8pt
+  \normalfont\normalsize
+}{%
+  \end{mdframed}
+  \vskip 12pt
+}
+
+% Key Takeaways box (chapter endings)
+\newenvironment{keytakeaways}{%
+  \vskip 12pt
+  \begin{mdframed}[
+    linecolor=accentgold,
+    linewidth=3pt,
+    topline=false,
+    rightline=false,
+    bottomline=false,
+    backgroundcolor=accentgold!8,
+    innerleftmargin=15pt,
+    innerrightmargin=15pt,
+    innertopmargin=12pt,
+    innerbottommargin=12pt,
+    skipabove=10pt,
+    skipbelow=10pt
+  ]
+  \noindent{\sffamily\large\bfseries\color{chapterblue}Key Takeaways}
+  \par\vskip 8pt
+  \normalfont\normalsize
+}{%
+  \end{mdframed}
+  \vskip 12pt
+}
+
+% See Also box (cross-references)
+\newenvironment{seealso}{%
+  \vskip 10pt
+  \begin{mdframed}[
+    linecolor=chapterblue!40,
+    linewidth=1pt,
+    backgroundcolor=chapterblue!3,
+    roundcorner=3pt,
+    innerleftmargin=12pt,
+    innerrightmargin=12pt,
+    innertopmargin=8pt,
+    innerbottommargin=8pt,
+    skipabove=8pt,
+    skipbelow=8pt
+  ]
+  \noindent{\small\sffamily\bfseries\color{chapterblue}See Also:}
+  \par\vskip 4pt
+  \small
+}{%
+  \end{mdframed}
+  \vskip 10pt
+}
+
+% Lessons Learned box (case studies)
+\newenvironment{lessonslearned}{%
+  \vskip 12pt
+  \begin{mdframed}[
+    linecolor=accentgold!60,
+    linewidth=2pt,
+    backgroundcolor=casegray!40,
+    roundcorner=4pt,
+    innerleftmargin=15pt,
+    innerrightmargin=15pt,
+    innertopmargin=12pt,
+    innerbottommargin=12pt,
+    skipabove=10pt,
+    skipbelow=10pt
+  ]
+  \noindent{\sffamily\bfseries\color{chapterblue}Lessons Learned}
+  \par\vskip 6pt
+  \normalfont\normalsize
+}{%
+  \end{mdframed}
+  \vskip 12pt
+}
+
+% HCD Guidance box (regulatory guidance)
+\newenvironment{hcdguidance}{%
+  \vskip 10pt
+  \begin{mdframed}[
+    linecolor=sectionblue,
+    linewidth=2pt,
+    backgroundcolor=sectionblue!5,
+    roundcorner=3pt,
+    innerleftmargin=12pt,
+    innerrightmargin=12pt,
+    innertopmargin=10pt,
+    innerbottommargin=10pt
+  ]
+  \noindent{\sffamily\bfseries\color{sectionblue}HCD Guidance}
+  \par\vskip 6pt
+  \small
+}{%
+  \end{mdframed}
+  \vskip 10pt
+}
+
+% Checklist box (chapter-end action items)
+\newenvironment{checklist}{%
+  \vskip 12pt
+  \begin{mdframed}[
+    linecolor=accentgold,
+    linewidth=2pt,
+    topline=false,
+    rightline=false,
+    bottomline=false,
+    backgroundcolor=white,
+    innerleftmargin=15pt,
+    innerrightmargin=15pt,
+    innertopmargin=12pt,
+    innerbottommargin=12pt
+  ]
+  \noindent{\sffamily\large\bfseries\color{chapterblue}Action Checklist}
+  \par\vskip 8pt
+}{%
+  \end{mdframed}
+  \vskip 12pt
+}
+
+% ============================================================
+% CODE BLOCKS
+% ============================================================
+\usepackage{listings}
+\lstset{
+  basicstyle=\ttfamily\small,
+  backgroundcolor=\color{casegray},
+  frame=single,
+  framerule=0.4pt,
+  rulecolor=\color{chapterblue!30},
+  breaklines=true,
+  breakatwhitespace=false,
+  showstringspaces=false,
+  tabsize=2,
+  xleftmargin=1em,
+  xrightmargin=1em,
+  aboveskip=8pt,
+  belowskip=8pt
+}
+
+% Pandoc verbatim / code block support
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\},fontsize=\small,xleftmargin=1em,frame=single,rulecolor=\color{chapterblue!30},framesep=4pt}
+% Shaded environment without framed package
+\newenvironment{Shaded}{%
+  \vskip 4pt
+  \noindent\colorbox{shadecolor}\bgroup
+  \minipage{\dimexpr\textwidth-2\fboxsep}
+}{%
+  \endminipage\egroup
+  \vskip 4pt
+}
+
+% ============================================================
+% TYPOGRAPHY
+% ============================================================
+\widowpenalty=10000
+\clubpenalty=10000
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+
+% ============================================================
+% TABLE OF CONTENTS STYLING
+% ============================================================
+\makeatletter
+% Part entries: bold, sans-serif, blue, uppercase
+\renewcommand*\l@part[2]{%
+  \ifnum \c@tocdepth >-2\relax
+    \addpenalty{-\@highpenalty}%
+    \addvspace{2em \@plus\p@}%
+    \setlength\@tempdima{3em}%
+    \begingroup
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      {\leavevmode
+        \sffamily\large\bfseries\color{chapterblue}#1\hfil
+        \hb@xt@\@pnumwidth{\hss\color{chapterblue}#2}}\par
+      \nobreak
+    \endgroup
+    \vskip 4pt
+    {\color{accentgold}\rule{\textwidth}{0.4pt}}
+    \vskip 4pt
+  \fi}
+% Chapter entries: bold, sans-serif, blue
+\renewcommand*\l@chapter[2]{%
+  \ifnum \c@tocdepth >\m@ne
+    \addpenalty{-\@highpenalty}%
+    \vskip 6\p@ \@plus\p@
+    \setlength\@tempdima{2.2em}%
+    \begingroup
+      \parindent \z@ \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode \sffamily\bfseries\color{chapterblue}%
+      \advance\leftskip\@tempdima
+      \hskip -\leftskip
+      #1\nobreak\hfil
+      \nobreak\hb@xt@\@pnumwidth{\hss #2\kern-\p@\kern\p@}\par
+      \penalty\@highpenalty
+    \endgroup
+  \fi}
+% Section entries: regular, indented, with dot leaders
+\renewcommand*\l@section[2]{%
+  \ifnum \c@tocdepth >\z@
+    \vskip 2\p@
+    \setlength\@tempdima{3em}%
+    \begingroup
+      \parindent \z@
+      \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode
+      \advance\leftskip 2.2em
+      \hskip -\leftskip
+      {\color{chapterblue!80}#1}\nobreak
+      {\color{accentgold!60}\leaders\hbox{$$\m@th
+        \mkern \@dotsep mu\hbox{.}\mkern \@dotsep mu$$}\hfill}%
+      \nobreak\hb@xt@\@pnumwidth{\hss\color{chapterblue!70}#2}\par
+    \endgroup
+  \fi}
+% Subsection entries: smaller, further indented
+\renewcommand*\l@subsection[2]{%
+  \ifnum \c@tocdepth >1
+    \vskip 1\p@
+    \setlength\@tempdima{3.8em}%
+    \begingroup
+      \parindent \z@
+      \rightskip \@pnumwidth
+      \parfillskip -\@pnumwidth
+      \leavevmode\small
+      \advance\leftskip 5.2em
+      \hskip -\leftskip
+      {\color{chapterblue!60}#1}\nobreak
+      {\color{accentgold!40}\leaders\hbox{$$\m@th
+        \mkern \@dotsep mu\hbox{.}\mkern \@dotsep mu$$}\hfill}%
+      \nobreak\hb@xt@\@pnumwidth{\hss\color{chapterblue!50}#2}\par
+    \endgroup
+  \fi}
+\makeatother
+
+% ============================================================
+% LIST STYLING
+% ============================================================
+\renewcommand{\labelitemi}{\textcolor{bulletgold}{\textbullet}}
+\renewcommand{\labelitemii}{\textcolor{chapterblue}{\textendash}}
+\renewcommand{\labelitemiii}{\textcolor{chapterblue!60}{\tiny$$\blacksquare$$}}
+\renewcommand{\labelenumi}{\textcolor{chapterblue}{\arabic{enumi}.}}
+\renewcommand{\labelenumii}{\textcolor{chapterblue!70}{\alph{enumii})}}
+
+% ============================================================
+% DECORATIVE SECTION SEPARATOR - TikZ diamond ornament
+% ============================================================
+\newcommand{\ornsep}{%
+  \par\vskip 12pt
+  \begin{center}
+  \begin{tikzpicture}
+    % Left line
+    \draw[color=accentgold!60, line width=0.5pt] (0,0) -- (2,0);
+    % Diamond
+    \filldraw[color=accentgold] (2.3,0) -- (2.5,0.15) -- (2.7,0) -- (2.5,-0.15) -- cycle;
+    % Right line
+    \draw[color=accentgold!60, line width=0.5pt] (2.7,0) -- (4.7,0);
+  \end{tikzpicture}
+  \end{center}
+  \par\vskip 12pt
+}
+
+% ============================================================
+% METADATA
+% ============================================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{2pt}\setlength{\parskip}{0pt}}
+
+% ============================================================
+% DOCUMENT
+% ============================================================
+\begin{document}
+
+\frontmatter
+\setcounter{secnumdepth}{-1}  % Suppress section numbers in front matter
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\newgeometry{margin=1.5in}
+
+\vspace*{0.5cm}
+\begin{center}
+
+{\color{accentgold}\rule{\textwidth}{3pt}}
+
+\vspace{1.2cm}
+
+{\sffamily\fontsize{36}{42}\selectfont\bfseries\color{chapterblue}
+California\\Developer\\Fast Track Guide}
+
+\vspace{0.6cm}
+
+{\sffamily\Large\color{chapterblue!70}
+A Practitioner's Guide to Residential, Hotel\\
+\& Modular Development in California}
+
+\vspace{0.8cm}
+
+{\color{accentgold}\rule{4cm}{1.5pt}}
+
+\vspace{1cm}
+
+{\large\itshape
+Land Use Law \textperiodcentered{} CEQA \textperiodcentered{} Entitlements\\[4pt]
+Hotel Development \textperiodcentered{} Modular Construction\\[4pt]
+Bay Area Case Studies \& Lessons Learned}
+
+\vfill
+
+{\sffamily\Large\bfseries Jim Xiao}
+
+\vspace{1cm}
+
+{\color{accentgold}\rule{4cm}{1.5pt}}
+
+\vspace{0.4cm}
+
+{\sffamily\large February 2026}
+
+\vspace{0.2cm}
+
+{\small\textcolor{chapterblue!50}{PubHub Publishing}}
+
+\vspace{0.4cm}
+
+{\color{accentgold}\rule{\textwidth}{3pt}}
+
+\end{center}
+\restoregeometry
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small
+\textbf{California Developer Fast Track Guide}\\
+A Practitioner's Guide to Residential, Hotel \& Modular Development\\[0.5cm]
+Copyright \copyright\ 2026 Jim Xiao\\
+All rights reserved.\\[0.5cm]
+This guide is intended for educational and professional reference purposes.\\
+Laws and regulations discussed are current as of February 2026.\\
+Always verify current statutes and consult legal counsel for specific projects.\\[1cm]
+\textit{Version 1.0 --- February 2026}\\[0.3cm]
+\textit{Built with PubHub Publishing System}
+\end{flushleft}
+\clearpage
+
+% TOC and \mainmatter are injected by build script
+$body$
+
+\backmatter
+
+% ============================================================
+% BACK COVER
+% ============================================================
+\cleardoublepage
+\thispagestyle{empty}
+\newgeometry{margin=1.5in}
+\pagecolor{chapterblue}
+\color{white}
+
+\vspace*{1.5cm}
+
+\begin{center}
+
+{\sffamily\LARGE\bfseries California Developer\\Fast Track Guide}
+
+\vspace{0.6cm}
+
+{\color{accentgold}\rule{4cm}{1.5pt}}
+
+\vspace{0.8cm}
+
+{\large\itshape
+The gap between developers who thrive in California\\
+and those who fail is not intelligence, capital, or connections.\\[6pt]
+It is \textbf{operational fluency} --- the ability to navigate\\
+California's regulatory labyrinth at speed.}
+
+\vspace{1cm}
+
+{\normalsize
+\begin{tabular}{rl}
+\textbullet & 16 chapters covering the full development lifecycle\\[4pt]
+\textbullet & 50+ Bay Area case studies with real numbers\\[4pt]
+\textbullet & 10 appendices of templates, checklists \& frameworks\\[4pt]
+\textbullet & 28 Bay Area jurisdiction profiles with strategy ratings\\[4pt]
+\textbullet & SB 35, SB 9, CEQA, density bonus mastery\\[4pt]
+\textbullet & Hotel, modular \& residential strategies\\[4pt]
+\textbullet & Pro forma decision framework with kill criteria\\
+\end{tabular}}
+
+\vspace{1.2cm}
+
+{\color{accentgold}\rule{4cm}{1.5pt}}
+
+\vspace{0.8cm}
+
+{\sffamily\large\bfseries Jim Xiao}
+
+\vspace{0.3cm}
+
+{\small Silicon Valley, California}
+
+\vfill
+
+{\small\color{white!70} PubHub Publishing \textperiodcentered{} February 2026}
+
+\vspace{0.5cm}
+
+{\color{accentgold}\rule{\textwidth}{2pt}}
+
+\end{center}
+
+\restoregeometry
+\nopagecolor
+
+\end{document}

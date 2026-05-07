@@ -1,0 +1,1482 @@
+% 圣经英雄传 - 青少年版 (12岁以上)
+% Heroes of the Bible for Teens (Age 12+)
+% 简体中文版 + TikZ插画 + 经文引用 + 思考问题
+% 涵盖旧约与新约的伟大人物：约瑟、摩西、参孙、路得、大卫、以利亚、耶稣、彼得、保罗
+
+\documentclass[11pt,openany]{book}
+
+% 页面设置 - 标准书籍格式
+\usepackage[paperwidth=6in, paperheight=9in, margin=0.75in]{geometry}
+
+% 字体设置
+\usepackage{fontspec}
+\setmainfont{Songti SC}[
+  BoldFont={Songti SC Bold},
+  ItalicFont={Kaiti SC},
+  BoldItalicFont={Kaiti SC Bold},
+  Scale=1.0
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+
+% 适合12岁以上青少年阅读，无需拼音
+
+% 经文引用样式
+\newcommand{\bibleverse}[1]{{\small\itshape「#1」}}
+
+% 思考问题样式
+\newcommand{\thinkbox}[1]{%
+\vspace{0.15in}
+\noindent\fbox{\parbox{0.95\textwidth}{%
+{\small\bfseries 思考一下：}\\[0.05in]
+{\small #1}
+}}
+\vspace{0.1in}
+}
+
+% TikZ绘图
+\usepackage{tikz}
+\usetikzlibrary{shapes,decorations,patterns,calc,positioning,shadows,arrows.meta}
+
+% 颜色定义 - 温暖柔和的儿童色彩
+\definecolor{SkyBlue}{RGB}{135,206,235}
+\definecolor{SunYellow}{RGB}{255,223,0}
+\definecolor{GrassGreen}{RGB}{124,185,95}
+\definecolor{WarmBrown}{RGB}{165,113,78}
+\definecolor{SoftPink}{RGB}{255,182,193}
+\definecolor{CloudWhite}{RGB}{255,255,255}
+\definecolor{NightBlue}{RGB}{25,25,112}
+\definecolor{StarGold}{RGB}{255,215,0}
+\definecolor{WaterBlue}{RGB}{100,149,237}
+\definecolor{SandBeige}{RGB}{244,226,198}
+\definecolor{HeartRed}{RGB}{220,53,69}
+\definecolor{WoodBrown}{RGB}{139,90,43}
+
+% 无页眉页脚
+\pagestyle{empty}
+
+% 段落设置
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+% ============================================
+% TikZ 简约插画宏定义
+% ============================================
+
+% 1. 马槽里的婴儿耶稣 (诞生)
+\newcommand{\mangerscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 夜空背景
+  \fill[NightBlue] (0,0) rectangle (12,10);
+
+  % 星星
+  \foreach \x/\y in {1/9, 3/8.5, 5/9.2, 7/8, 9/9, 11/8.3, 2/7.5, 10/7.8} {
+    \fill[StarGold] (\x,\y) circle (0.08);
+  }
+
+  % 大星星 (伯利恒之星)
+  \fill[StarGold] (6,9) -- (6.3,8.3) -- (7,8.3) -- (6.4,7.8) -- (6.6,7) -- (6,7.5) -- (5.4,7) -- (5.6,7.8) -- (5,8.3) -- (5.7,8.3) -- cycle;
+
+  % 马棚
+  \fill[WoodBrown] (2,0) -- (2,4) -- (6,6) -- (10,4) -- (10,0) -- cycle;
+  \fill[WarmBrown!50] (3,0) rectangle (9,3.5);
+
+  % 马槽
+  \fill[WoodBrown] (4.5,1) -- (4.5,2) -- (7.5,2) -- (7.5,1) -- (7,0.8) -- (5,0.8) -- cycle;
+  \fill[SandBeige] (4.8,1.3) rectangle (7.2,1.9);
+
+  % 婴儿耶稣 (简化圆形)
+  \fill[SoftPink] (6,1.7) circle (0.4);
+  \fill[CloudWhite] (5.3,1.2) rectangle (6.7,1.6);
+
+  % 光环
+  \draw[StarGold, line width=2pt] (6,1.9) circle (0.6);
+
+  % 干草
+  \foreach \x in {4.9, 5.2, 5.5, 6.5, 6.8, 7.1} {
+    \draw[SandBeige, line width=1pt] (\x,1.3) -- (\x+0.1,1.8);
+  }
+
+  % 玛利亚 (简化)
+  \fill[blue!60] (3,0) -- (3,3) -- (4,3.5) -- (4.5,2) -- (4,0) -- cycle;
+  \fill[SoftPink] (3.5,3.3) circle (0.4);
+
+  % 约瑟 (简化)
+  \fill[WarmBrown!80] (8,0) -- (8,3.2) -- (9,3.5) -- (9.5,2) -- (9,0) -- cycle;
+  \fill[SoftPink] (8.5,3.5) circle (0.4);
+\end{tikzpicture}%
+}
+
+% 2. 牧羊人和天使
+\newcommand{\shepherdsscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 夜空
+  \fill[NightBlue] (0,5) rectangle (12,10);
+  % 草地
+  \fill[GrassGreen!70] (0,0) rectangle (12,5);
+
+  % 星星
+  \foreach \x/\y in {1/9, 3/8, 5/9, 9/8.5, 11/9} {
+    \fill[StarGold] (\x,\y) circle (0.1);
+  }
+
+  % 天使 (简化三角形+圆形)
+  \fill[CloudWhite] (6,8) -- (4.5,6) -- (7.5,6) -- cycle;
+  \fill[SoftPink] (6,8.5) circle (0.5);
+  % 翅膀
+  \fill[CloudWhite!90] (4,7) -- (5,7.5) -- (5,6.5) -- cycle;
+  \fill[CloudWhite!90] (8,7) -- (7,7.5) -- (7,6.5) -- cycle;
+  % 光芒
+  \draw[StarGold, line width=2pt] (6,7.5) circle (1.5);
+
+  % 牧羊人 (简化)
+  \fill[WarmBrown] (2,0) -- (2,2.5) -- (2.8,3) -- (3.2,2) -- (3,0) -- cycle;
+  \fill[SoftPink] (2.5,3.2) circle (0.35);
+  % 牧杖
+  \draw[WoodBrown, line width=3pt] (1.5,0) -- (1.5,3.5) arc (180:0:0.3);
+
+  % 羊
+  \fill[CloudWhite] (4,1) ellipse (0.6 and 0.4);
+  \fill[CloudWhite] (4.2,1.5) circle (0.25);
+  \fill[CloudWhite] (8,0.8) ellipse (0.5 and 0.35);
+  \fill[CloudWhite] (8.2,1.2) circle (0.2);
+  \fill[CloudWhite] (10,1.2) ellipse (0.55 and 0.38);
+  \fill[CloudWhite] (10.2,1.6) circle (0.22);
+\end{tikzpicture}%
+}
+
+% 3. 三博士送礼物
+\newcommand{\wisemenscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 沙漠背景
+  \fill[SkyBlue!50] (0,5) rectangle (12,10);
+  \fill[SandBeige] (0,0) rectangle (12,5);
+
+  % 太阳
+  \fill[SunYellow] (10,8) circle (1);
+
+  % 星星
+  \fill[StarGold] (3,9) -- (3.2,8.3) -- (3.9,8.3) -- (3.35,7.85) -- (3.55,7.1) -- (3,7.55) -- (2.45,7.1) -- (2.65,7.85) -- (2.1,8.3) -- (2.8,8.3) -- cycle;
+
+  % 三位博士 (不同颜色)
+  % 博士1 - 红色
+  \fill[HeartRed!80] (2,0) -- (2,2.8) -- (3,3.2) -- (3.5,2) -- (3,0) -- cycle;
+  \fill[SoftPink] (2.5,3.4) circle (0.4);
+  \fill[StarGold] (2.5,3.8) -- (2.3,3.6) -- (2.7,3.6) -- cycle; % 皇冠
+
+  % 博士2 - 蓝色
+  \fill[blue!60] (5,0) -- (5,3) -- (6,3.4) -- (6.5,2.2) -- (6,0) -- cycle;
+  \fill[SoftPink] (5.5,3.6) circle (0.4);
+  \fill[StarGold] (5.5,4) -- (5.3,3.8) -- (5.7,3.8) -- cycle;
+
+  % 博士3 - 绿色
+  \fill[GrassGreen!80] (8,0) -- (8,2.6) -- (9,3) -- (9.5,1.8) -- (9,0) -- cycle;
+  \fill[SoftPink] (8.5,3.2) circle (0.4);
+  \fill[StarGold] (8.5,3.6) -- (8.3,3.4) -- (8.7,3.4) -- cycle;
+
+  % 礼物盒子
+  \fill[StarGold] (2.8,1.5) rectangle (3.2,1.9);
+  \fill[StarGold] (6,1.8) rectangle (6.4,2.2);
+  \fill[StarGold] (8.8,1.3) rectangle (9.2,1.7);
+
+  % 骆驼 (简化)
+  \fill[WarmBrown] (10.5,1) ellipse (0.8 and 0.5);
+  \fill[WarmBrown] (11,1.8) -- (10.8,1.2) -- (11.2,1.2) -- cycle; % 驼峰
+  \fill[WarmBrown] (10.8,1.8) circle (0.25); % 头
+\end{tikzpicture}%
+}
+
+% 4. 耶稣受洗
+\newcommand{\baptismscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,5) rectangle (12,10);
+  % 河水
+  \fill[WaterBlue] (0,0) rectangle (12,5);
+
+  % 云朵
+  \fill[CloudWhite] (3,8) ellipse (1.2 and 0.5);
+  \fill[CloudWhite] (3.5,8.3) ellipse (0.8 and 0.4);
+  \fill[CloudWhite] (9,8.5) ellipse (1 and 0.45);
+
+  % 阳光从云中射下
+  \draw[SunYellow, line width=3pt] (6,10) -- (6,6);
+  \draw[SunYellow, line width=2pt] (5.5,10) -- (5.7,6.5);
+  \draw[SunYellow, line width=2pt] (6.5,10) -- (6.3,6.5);
+
+  % 鸽子 (圣灵)
+  \fill[CloudWhite] (6,7) ellipse (0.5 and 0.3);
+  \fill[CloudWhite] (5.5,7.2) -- (5,7.5) -- (5.5,7) -- cycle; % 翅膀
+  \fill[CloudWhite] (6.5,7.2) -- (7,7.5) -- (6.5,7) -- cycle;
+  \fill[CloudWhite] (6.3,7) circle (0.15); % 头
+
+  % 耶稣在水中
+  \fill[SoftPink] (6,4.5) circle (0.5); % 头
+  \fill[CloudWhite] (5.3,3) -- (6,4) -- (6.7,3) -- (6.5,1.5) -- (5.5,1.5) -- cycle; % 身体
+
+  % 光环
+  \draw[StarGold, line width=2pt] (6,4.8) circle (0.7);
+
+  % 约翰
+  \fill[WarmBrown!80] (3,1.5) -- (3,3.5) -- (4,4) -- (4.5,3) -- (4,1.5) -- cycle;
+  \fill[SoftPink] (3.5,4.2) circle (0.4);
+
+  % 河岸
+  \fill[SandBeige] (0,0) -- (0,1.5) -- (2,1) -- (0,0);
+  \fill[SandBeige] (12,0) -- (12,1.5) -- (10,1) -- (12,0);
+
+  % 水波纹
+  \draw[WaterBlue!70, line width=1pt] (2,2) to[bend left] (4,2.2) to[bend right] (6,2);
+  \draw[WaterBlue!70, line width=1pt] (6,2) to[bend left] (8,2.2) to[bend right] (10,2);
+\end{tikzpicture}%
+}
+
+% 5. 耶稣讲道 (山上宝训)
+\newcommand{\sermonscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,6) rectangle (12,10);
+  % 山丘
+  \fill[GrassGreen] (0,0) -- (0,4) -- (3,6) -- (6,7) -- (9,6) -- (12,4) -- (12,0) -- cycle;
+
+  % 太阳
+  \fill[SunYellow] (10,8.5) circle (0.8);
+
+  % 云
+  \fill[CloudWhite] (2,8) ellipse (1 and 0.4);
+  \fill[CloudWhite] (7,9) ellipse (0.8 and 0.35);
+
+  % 耶稣站在山上
+  \fill[CloudWhite] (6,4) -- (5.2,6.5) -- (6.8,6.5) -- cycle; % 白袍
+  \fill[SoftPink] (6,6.8) circle (0.45); % 头
+  \draw[StarGold, line width=2pt] (6,7.1) circle (0.6); % 光环
+  % 张开的手臂
+  \draw[SoftPink, line width=4pt] (5.2,5.5) -- (4.5,5.8);
+  \draw[SoftPink, line width=4pt] (6.8,5.5) -- (7.5,5.8);
+
+  % 听众 (简化的小圆形代表人群)
+  \foreach \x/\y in {2/2.5, 3/3, 4/3.2, 3.5/2, 4.5/2.5, 8/3, 9/2.8, 8.5/2, 9.5/2.5, 10/3} {
+    \fill[WarmBrown!60] (\x,\y) circle (0.25);
+    \fill[SoftPink] (\x,\y+0.4) circle (0.2);
+  }
+
+  % 花朵点缀
+  \fill[SoftPink] (1,1.5) circle (0.15);
+  \fill[SunYellow] (2,1) circle (0.12);
+  \fill[SoftPink] (10,1.8) circle (0.15);
+  \fill[SunYellow] (11,1.2) circle (0.12);
+\end{tikzpicture}%
+}
+
+% 6. 耶稣喂饱五千人 (五饼二鱼)
+\newcommand{\fiveloavesscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,5) rectangle (12,10);
+  % 草地
+  \fill[GrassGreen] (0,0) rectangle (12,5);
+
+  % 太阳
+  \fill[SunYellow] (2,8) circle (0.7);
+
+  % 云
+  \fill[CloudWhite] (7,8.5) ellipse (1.2 and 0.5);
+  \fill[CloudWhite] (10,8) ellipse (0.9 and 0.4);
+
+  % 耶稣
+  \fill[CloudWhite] (6,2) -- (5.3,4.5) -- (6.7,4.5) -- cycle;
+  \fill[SoftPink] (6,4.8) circle (0.4);
+  \draw[StarGold, line width=2pt] (6,5.1) circle (0.55);
+
+  % 篮子里的饼和鱼
+  \fill[WarmBrown] (5.5,1.8) arc (180:360:0.5) -- cycle; % 篮子
+  \fill[SandBeige] (5.6,2) ellipse (0.2 and 0.1); % 饼
+  \fill[SandBeige] (5.9,2.1) ellipse (0.2 and 0.1);
+  \fill[SandBeige] (6.2,2) ellipse (0.2 and 0.1);
+  \fill[WaterBlue!70] (5.7,2.2) ellipse (0.15 and 0.08); % 鱼
+  \fill[WaterBlue!70] (6.1,2.25) ellipse (0.15 and 0.08);
+
+  % 人群 (很多小人)
+  \foreach \x/\y in {1/1, 2/1.5, 3/1, 2.5/0.5, 1.5/2, 9/1.2, 10/1.5, 11/1, 10.5/0.5, 9.5/2, 3.5/2.5, 8.5/2.3, 4/1.5, 8/1.5} {
+    \fill[WarmBrown!50] (\x,\y) circle (0.18);
+    \fill[SoftPink] (\x,\y+0.3) circle (0.15);
+  }
+
+  % 更多篮子 (表示剩余)
+  \fill[WarmBrown] (2,3) arc (180:360:0.3) -- cycle;
+  \fill[WarmBrown] (3,3.2) arc (180:360:0.3) -- cycle;
+  \fill[WarmBrown] (9,3) arc (180:360:0.3) -- cycle;
+  \fill[WarmBrown] (10,3.2) arc (180:360:0.3) -- cycle;
+\end{tikzpicture}%
+}
+
+% 7. 耶稣爱小孩
+\newcommand{\childrenscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 背景
+  \fill[SkyBlue!50] (0,5) rectangle (12,10);
+  \fill[GrassGreen!60] (0,0) rectangle (12,5);
+
+  % 太阳
+  \fill[SunYellow] (10,8) circle (0.8);
+
+  % 树
+  \fill[WoodBrown] (1,0) rectangle (1.5,3);
+  \fill[GrassGreen!80] (1.25,3) circle (1.2);
+  \fill[WoodBrown] (10.5,0) rectangle (11,2.5);
+  \fill[GrassGreen!80] (10.75,2.5) circle (1);
+
+  % 耶稣坐着
+  \fill[CloudWhite] (6,1.5) -- (5,3.5) -- (7,3.5) -- cycle;
+  \fill[SoftPink] (6,3.8) circle (0.45);
+  \draw[StarGold, line width=2pt] (6,4.1) circle (0.6);
+  % 伸出的手臂
+  \draw[SoftPink, line width=4pt] (5,3) -- (4,3.3);
+  \draw[SoftPink, line width=4pt] (7,3) -- (8,3.3);
+
+  % 小孩子们
+  % 左边小孩
+  \fill[SoftPink] (3.5,2.5) circle (0.25);
+  \fill[HeartRed!60] (3.5,1.5) -- (3.2,2.3) -- (3.8,2.3) -- cycle;
+
+  % 右边小孩
+  \fill[SoftPink] (8.5,2.3) circle (0.25);
+  \fill[blue!50] (8.5,1.3) -- (8.2,2.1) -- (8.8,2.1) -- cycle;
+
+  % 耶稣身边的小孩
+  \fill[SoftPink] (4.5,2.8) circle (0.2);
+  \fill[GrassGreen!60] (4.5,2) -- (4.3,2.6) -- (4.7,2.6) -- cycle;
+
+  \fill[SoftPink] (7.5,2.8) circle (0.2);
+  \fill[SunYellow!70] (7.5,2) -- (7.3,2.6) -- (7.7,2.6) -- cycle;
+
+  % 花朵
+  \fill[SoftPink] (2,1) circle (0.15);
+  \fill[SunYellow] (3,0.8) circle (0.12);
+  \fill[SoftPink] (9,1.2) circle (0.15);
+  \fill[HeartRed!50] (10,0.9) circle (0.12);
+
+  % 爱心
+  \fill[HeartRed] (6,5.5) .. controls (6,6) and (5.3,6) .. (5.3,5.5) .. controls (5.3,5) and (6,4.5) .. (6,4.5) .. controls (6,4.5) and (6.7,5) .. (6.7,5.5) .. controls (6.7,6) and (6,6) .. (6,5.5);
+\end{tikzpicture}%
+}
+
+% 8. 耶稣在十字架上
+\newcommand{\crossscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 暗色天空
+  \fill[NightBlue!70] (0,4) rectangle (12,10);
+  % 地面
+  \fill[WarmBrown!50] (0,0) rectangle (12,4);
+
+  % 十字架
+  \fill[WoodBrown] (5.5,2) rectangle (6.5,8);
+  \fill[WoodBrown] (3.5,6) rectangle (8.5,7);
+
+  % 耶稣 (简化)
+  \fill[SoftPink] (6,7.5) circle (0.4); % 头
+  \fill[CloudWhite] (5.5,4.5) rectangle (6.5,7); % 身体
+  % 手臂
+  \draw[SoftPink, line width=5pt] (5.5,6.3) -- (3.8,6.3);
+  \draw[SoftPink, line width=5pt] (6.5,6.3) -- (8.2,6.3);
+
+  % 光环
+  \draw[StarGold, line width=2pt] (6,7.8) circle (0.55);
+
+  % 光芒从十字架发出
+  \draw[StarGold, line width=2pt] (6,5) -- (6,10);
+  \draw[StarGold, line width=1pt] (4,8) -- (8,8);
+  \draw[StarGold, line width=1pt] (4.5,4.5) -- (7.5,9);
+  \draw[StarGold, line width=1pt] (7.5,4.5) -- (4.5,9);
+
+  % 小十字架在两边
+  \fill[WoodBrown!70] (1.8,2) rectangle (2.2,5);
+  \fill[WoodBrown!70] (1,4) rectangle (3,4.4);
+
+  \fill[WoodBrown!70] (9.8,2) rectangle (10.2,5);
+  \fill[WoodBrown!70] (9,4) rectangle (11,4.4);
+
+  % 玛利亚 (简化，站在下面)
+  \fill[blue!60] (3,0) -- (3,2.5) -- (3.8,3) -- (4,2) -- (3.5,0) -- cycle;
+  \fill[SoftPink] (3.4,3.2) circle (0.3);
+
+  % 约翰
+  \fill[WarmBrown!70] (8,0) -- (8,2.3) -- (8.8,2.8) -- (9,1.8) -- (8.5,0) -- cycle;
+  \fill[SoftPink] (8.4,3) circle (0.3);
+\end{tikzpicture}%
+}
+
+% 9. 耶稣复活 (空坟墓)
+\newcommand{\resurrectionscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 日出天空
+  \fill[SkyBlue] (0,5) rectangle (12,10);
+  \fill[SunYellow!30] (0,5) rectangle (12,7);
+
+  % 太阳升起
+  \fill[SunYellow] (6,5) circle (1.5);
+
+  % 草地
+  \fill[GrassGreen] (0,0) rectangle (12,5);
+
+  % 山洞/坟墓
+  \fill[WarmBrown!80] (3,0) -- (3,5) -- (5,6) -- (9,6) -- (11,5) -- (11,0) -- cycle;
+  % 洞口
+  \fill[NightBlue!80] (5.5,0) arc (180:0:1.5) -- cycle;
+  \fill[NightBlue!80] (5.5,0) rectangle (8.5,3);
+
+  % 滚开的石头
+  \fill[gray!60] (9.5,1.5) circle (1);
+
+  % 光芒从洞中发出
+  \draw[StarGold, line width=3pt] (7,2) -- (7,7);
+  \draw[StarGold, line width=2pt] (5.5,3) -- (4,5);
+  \draw[StarGold, line width=2pt] (8.5,3) -- (10,5);
+
+  % 天使
+  \fill[CloudWhite] (4,3) -- (3.5,4.5) -- (4.5,4.5) -- cycle;
+  \fill[SoftPink] (4,4.7) circle (0.3);
+
+  % 花朵 (象征新生)
+  \fill[SoftPink] (1,1.5) circle (0.2);
+  \fill[SoftPink] (1.3,1.2) circle (0.18);
+  \fill[SunYellow] (2,0.8) circle (0.15);
+  \fill[SoftPink] (10,2) circle (0.2);
+  \fill[HeartRed!50] (10.5,1.5) circle (0.15);
+
+  % 蝴蝶 (象征重生)
+  \fill[SoftPink] (2,4) ellipse (0.3 and 0.15);
+  \fill[SoftPink] (1.7,4.2) ellipse (0.15 and 0.2);
+  \fill[SoftPink] (2.3,4.2) ellipse (0.15 and 0.2);
+\end{tikzpicture}%
+}
+
+% 10. 耶稣升天
+\newcommand{\ascensionscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,4) rectangle (12,10);
+  % 草地
+  \fill[GrassGreen] (0,0) rectangle (12,4);
+
+  % 云朵
+  \fill[CloudWhite] (2,7) ellipse (1.5 and 0.6);
+  \fill[CloudWhite] (10,7.5) ellipse (1.3 and 0.55);
+  \fill[CloudWhite] (6,8) ellipse (1.8 and 0.7);
+
+  % 耶稣升天 (在云中)
+  \fill[CloudWhite] (6,7) -- (5.2,8.8) -- (6.8,8.8) -- cycle;
+  \fill[SoftPink] (6,9.1) circle (0.4);
+  \draw[StarGold, line width=3pt] (6,9.4) circle (0.55);
+
+  % 光芒
+  \draw[StarGold, line width=2pt] (6,7) -- (6,10);
+  \draw[StarGold, line width=1.5pt] (4.5,8.5) -- (3,9.5);
+  \draw[StarGold, line width=1.5pt] (7.5,8.5) -- (9,9.5);
+
+  % 门徒们抬头看 (简化)
+  \foreach \x/\y in {2/2, 3/2.5, 4/2, 5/2.8, 7/2.8, 8/2, 9/2.5, 10/2} {
+    \fill[WarmBrown!60] (\x,\y-0.5) -- (\x-0.3,\y+0.3) -- (\x+0.3,\y+0.3) -- cycle;
+    \fill[SoftPink] (\x,\y+0.5) circle (0.25);
+  }
+
+  % 两个天使 (白衣人)
+  \fill[CloudWhite] (1,1) -- (0.5,2.5) -- (1.5,2.5) -- cycle;
+  \fill[SoftPink] (1,2.7) circle (0.2);
+
+  \fill[CloudWhite] (11,1) -- (10.5,2.5) -- (11.5,2.5) -- cycle;
+  \fill[SoftPink] (11,2.7) circle (0.2);
+\end{tikzpicture}%
+}
+
+% ============================================
+% 旧约人物 TikZ 场景
+% ============================================
+
+% 11. 约瑟的彩衣 (Joseph's Coat)
+\newcommand{\josephscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 沙漠天空
+  \fill[SkyBlue!70] (0,5) rectangle (12,10);
+  \fill[SandBeige] (0,0) rectangle (12,5);
+
+  % 太阳
+  \fill[SunYellow] (10,8) circle (0.8);
+
+  % 约瑟穿彩衣 (中间)
+  \fill[HeartRed!80] (6,1) -- (5.5,3.5) -- (6.5,3.5) -- cycle;
+  \fill[SunYellow!80] (5.5,3.5) -- (5.2,3) -- (5.8,3) -- cycle;
+  \fill[GrassGreen!80] (6.5,3.5) -- (6.2,3) -- (6.8,3) -- cycle;
+  \fill[blue!60] (5.8,2.5) -- (5.5,2) -- (6,2) -- cycle;
+  \fill[SoftPink] (6,3.8) circle (0.4);
+
+  % 哥哥们 (嫉妒地看着)
+  \foreach \x in {2, 3.5, 8.5, 10} {
+    \fill[WarmBrown!70] (\x,0) -- (\x-0.3,2) -- (\x+0.3,2) -- cycle;
+    \fill[SoftPink] (\x,2.3) circle (0.25);
+  }
+
+  % 羊群
+  \fill[CloudWhite] (1,1) ellipse (0.5 and 0.3);
+  \fill[CloudWhite] (11,0.8) ellipse (0.4 and 0.25);
+\end{tikzpicture}%
+}
+
+% 12. 摩西分红海 (Moses Parts the Red Sea)
+\newcommand{\mosesscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[NightBlue!70] (0,6) rectangle (12,10);
+
+  % 分开的海水 (两边)
+  \fill[WaterBlue] (0,0) -- (0,8) -- (4,6) -- (4,0) -- cycle;
+  \fill[WaterBlue] (12,0) -- (12,8) -- (8,6) -- (8,0) -- cycle;
+
+  % 中间的干地
+  \fill[SandBeige] (4,0) rectangle (8,6);
+
+  % 摩西 (举杖)
+  \fill[WarmBrown!80] (6,1) -- (5.5,3.5) -- (6.5,3.5) -- cycle;
+  \fill[SoftPink] (6,3.8) circle (0.4);
+  \draw[WoodBrown, line width=3pt] (6.3,2) -- (7,5);
+
+  % 以色列人跟随
+  \foreach \x/\y in {4.5/1, 5/0.5, 7/0.5, 7.5/1} {
+    \fill[WarmBrown!60] (\x,\y) -- (\x-0.2,\y+0.8) -- (\x+0.2,\y+0.8) -- cycle;
+    \fill[SoftPink] (\x,\y+1) circle (0.15);
+  }
+
+  % 火柱
+  \fill[SunYellow] (6,7) -- (5.5,9) -- (6.5,9) -- cycle;
+  \fill[HeartRed!70] (6,7.5) -- (5.7,8.5) -- (6.3,8.5) -- cycle;
+
+  % 星星
+  \foreach \x/\y in {1/9, 3/8.5, 9/9, 11/8.5} {
+    \fill[StarGold] (\x,\y) circle (0.1);
+  }
+\end{tikzpicture}%
+}
+
+% 13. 参孙推倒柱子 (Samson and the Pillars)
+\newcommand{\samsonscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 室内背景
+  \fill[WarmBrown!30] (0,0) rectangle (12,10);
+
+  % 两根柱子
+  \fill[gray!60] (3,0) rectangle (4,9);
+  \fill[gray!60] (8,0) rectangle (9,9);
+
+  % 屋顶
+  \fill[WoodBrown] (0,8) -- (6,10) -- (12,8) -- (12,9) -- (6,10.5) -- (0,9) -- cycle;
+
+  % 参孙 (在中间推柱子)
+  \fill[WarmBrown!90] (6,1) -- (5.3,4) -- (6.7,4) -- cycle;
+  \fill[SoftPink] (6,4.4) circle (0.5);
+  % 长发
+  \draw[WarmBrown!80, line width=2pt] (5.7,4.5) -- (5.2,3.5);
+  \draw[WarmBrown!80, line width=2pt] (6.3,4.5) -- (6.8,3.5);
+  % 推柱子的手臂
+  \draw[SoftPink, line width=5pt] (5.5,3.5) -- (4,4);
+  \draw[SoftPink, line width=5pt] (6.5,3.5) -- (8,4);
+
+  % 非利士人 (上方观看)
+  \foreach \x in {1, 2, 10, 11} {
+    \fill[WarmBrown!50] (\x,6) -- (\x-0.2,7) -- (\x+0.2,7) -- cycle;
+    \fill[SoftPink] (\x,7.2) circle (0.15);
+  }
+
+  % 裂缝
+  \draw[black, line width=1pt] (3.5,5) -- (3.3,6) -- (3.6,7);
+  \draw[black, line width=1pt] (8.5,5) -- (8.7,6) -- (8.4,7);
+\end{tikzpicture}%
+}
+
+% 14. 路得拾麦穗 (Ruth Gleaning)
+\newcommand{\ruthscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,5) rectangle (12,10);
+  % 麦田
+  \fill[SunYellow!60] (0,0) rectangle (12,5);
+
+  % 太阳
+  \fill[SunYellow] (10,8) circle (0.8);
+
+  % 麦穗 (遍地)
+  \foreach \x in {0.5, 1.5, 2.5, 3.5, 4.5, 7.5, 8.5, 9.5, 10.5, 11.5} {
+    \draw[SunYellow!80, line width=2pt] (\x,0) -- (\x,3);
+    \fill[SunYellow!90] (\x,3) ellipse (0.15 and 0.4);
+  }
+
+  % 路得 (弯腰拾麦)
+  \fill[blue!50] (5.5,0.5) -- (5,2.5) -- (6,2.5) -- cycle;
+  \fill[SoftPink] (5.5,2.8) circle (0.35);
+  % 手中的麦穗
+  \draw[SunYellow!80, line width=2pt] (5.8,1.5) -- (6.3,2.5);
+
+  % 波阿斯 (远处站着)
+  \fill[WarmBrown!80] (9,1) -- (8.5,3.5) -- (9.5,3.5) -- cycle;
+  \fill[SoftPink] (9,3.8) circle (0.4);
+
+  % 云朵
+  \fill[CloudWhite] (2,8) ellipse (1 and 0.4);
+  \fill[CloudWhite] (7,8.5) ellipse (0.8 and 0.35);
+\end{tikzpicture}%
+}
+
+% 15. 大卫战歌利亚 (David vs Goliath)
+\newcommand{\davidscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue!70] (0,5) rectangle (12,10);
+  % 草地
+  \fill[GrassGreen!60] (0,0) rectangle (12,5);
+
+  % 歌利亚 (巨人，右边)
+  \fill[gray!70] (9,0) -- (8,5) -- (10,5) -- cycle; % 铠甲
+  \fill[SoftPink] (9,5.5) circle (0.6);
+  % 盾牌
+  \fill[WarmBrown!60] (7.5,3) ellipse (0.6 and 1);
+  % 矛
+  \draw[gray!80, line width=4pt] (10.5,1) -- (10.5,6);
+  \fill[gray!90] (10.5,6) -- (10.2,6.8) -- (10.8,6.8) -- cycle;
+
+  % 大卫 (年轻小个子，左边)
+  \fill[WarmBrown!70] (3,0) -- (2.7,2) -- (3.3,2) -- cycle;
+  \fill[SoftPink] (3,2.3) circle (0.3);
+  % 甩石机弦
+  \draw[WarmBrown, line width=1.5pt] (3.2,1.8) .. controls (4,2.5) .. (4.5,2);
+
+  % 石头飞向歌利亚
+  \fill[gray!50] (6,4) circle (0.15);
+  \draw[gray!50, dashed, line width=1pt] (4.5,2) -- (6,4) -- (9,5.3);
+
+  % 以色列军队 (左后方)
+  \foreach \x in {0.5, 1, 1.5} {
+    \fill[WarmBrown!50] (\x,2) -- (\x-0.15,2.8) -- (\x+0.15,2.8) -- cycle;
+    \fill[SoftPink] (\x,3) circle (0.12);
+  }
+\end{tikzpicture}%
+}
+
+% 16. 以利亚与火从天降 (Elijah and Fire from Heaven)
+\newcommand{\elijahscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空 (乌云)
+  \fill[gray!50] (0,6) rectangle (12,10);
+  % 山顶
+  \fill[WarmBrown!60] (0,0) -- (6,4) -- (12,0) -- cycle;
+
+  % 祭坛
+  \fill[gray!70] (5,2.5) rectangle (7,3.5);
+  \fill[WoodBrown] (5.2,3.5) rectangle (6.8,4);
+
+  % 火从天降
+  \fill[SunYellow] (6,5) -- (5,8) -- (7,8) -- cycle;
+  \fill[HeartRed!80] (6,4.5) -- (5.3,7) -- (6.7,7) -- cycle;
+  \fill[SunYellow!50] (6,4) -- (5.5,6) -- (6.5,6) -- cycle;
+
+  % 以利亚 (跪着祷告)
+  \fill[WarmBrown!80] (3,1.5) -- (2.5,2.8) -- (3.5,2.8) -- cycle;
+  \fill[SoftPink] (3,3) circle (0.3);
+
+  % 巴力先知们 (惊恐)
+  \foreach \x in {8, 9, 10} {
+    \fill[WarmBrown!50] (\x,1) -- (\x-0.2,2) -- (\x+0.2,2) -- cycle;
+    \fill[SoftPink] (\x,2.2) circle (0.15);
+  }
+
+  % 光芒
+  \draw[StarGold, line width=2pt] (6,8) -- (6,10);
+  \draw[StarGold, line width=1pt] (5,8.5) -- (4,9.5);
+  \draw[StarGold, line width=1pt] (7,8.5) -- (8,9.5);
+\end{tikzpicture}%
+}
+
+% 17. 彼得行在水面 (Peter Walks on Water)
+\newcommand{\peterscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 夜空
+  \fill[NightBlue] (0,5) rectangle (12,10);
+  % 海面
+  \fill[WaterBlue!80] (0,0) rectangle (12,5);
+
+  % 月亮
+  \fill[CloudWhite] (10,8) circle (0.6);
+
+  % 星星
+  \foreach \x/\y in {1/9, 3/8.5, 5/9, 8/8.5} {
+    \fill[StarGold] (\x,\y) circle (0.08);
+  }
+
+  % 波浪
+  \draw[WaterBlue!50, line width=2pt] (0,3) sin (3,4) cos (6,3) sin (9,4) cos (12,3);
+  \draw[WaterBlue!50, line width=2pt] (0,2) sin (2,2.5) cos (4,2) sin (6,2.5) cos (8,2) sin (10,2.5) cos (12,2);
+
+  % 耶稣 (在水上行走)
+  \fill[CloudWhite] (8,3) -- (7.3,5.5) -- (8.7,5.5) -- cycle;
+  \fill[SoftPink] (8,5.8) circle (0.4);
+  \draw[StarGold, line width=2pt] (8,6.1) circle (0.55);
+  % 伸出手
+  \draw[SoftPink, line width=4pt] (7.3,4.8) -- (6,4.5);
+
+  % 彼得 (下沉中)
+  \fill[WarmBrown!70] (5,1.5) -- (4.5,3.5) -- (5.5,3.5) -- cycle;
+  \fill[SoftPink] (5,3.8) circle (0.35);
+  % 伸手求救
+  \draw[SoftPink, line width=3pt] (5.3,3.2) -- (6,4);
+
+  % 船 (远处)
+  \fill[WoodBrown] (1,2) -- (0.5,3) -- (3.5,3) -- (3,2) -- cycle;
+  \draw[WarmBrown, line width=2pt] (2,3) -- (2,5);
+  \fill[CloudWhite!80] (2,3.5) -- (2,5) -- (3,4) -- cycle;
+\end{tikzpicture}%
+}
+
+% 18. 保罗在大马士革路上 (Paul on Damascus Road)
+\newcommand{\paulscene}{%
+\begin{tikzpicture}[scale=1.0]
+  % 天空
+  \fill[SkyBlue] (0,5) rectangle (12,10);
+  % 道路
+  \fill[SandBeige] (0,0) rectangle (12,5);
+  \fill[WarmBrown!40] (4,0) -- (5,5) -- (7,5) -- (8,0) -- cycle;
+
+  % 强光从天降
+  \fill[SunYellow!50] (0,6) -- (6,3) -- (12,6) -- (12,10) -- (0,10) -- cycle;
+  \fill[StarGold!30] (4,8) -- (6,2) -- (8,8) -- cycle;
+
+  % 扫罗/保罗 (倒在地上)
+  \fill[WarmBrown!70] (5.5,1) -- (4.5,1.5) -- (6.5,1.5) -- cycle;
+  \fill[SoftPink] (6.8,1.5) circle (0.3);
+
+  % 同伴们 (惊恐站立)
+  \foreach \x in {2, 3, 9, 10} {
+    \fill[WarmBrown!60] (\x,0.5) -- (\x-0.2,2) -- (\x+0.2,2) -- cycle;
+    \fill[SoftPink] (\x,2.2) circle (0.18);
+  }
+
+  % 光芒
+  \draw[StarGold, line width=3pt] (6,10) -- (6,3);
+  \foreach \angle in {-30,-15,0,15,30} {
+    \draw[StarGold, line width=1.5pt] (6,8) -- ++(\angle-90:3);
+  }
+
+  % 远处城市轮廓
+  \fill[gray!40] (0,5) rectangle (1,5.5);
+  \fill[gray!40] (0.5,5) rectangle (0.8,6);
+  \fill[gray!40] (11,5) rectangle (12,5.8);
+  \fill[gray!40] (11.3,5) rectangle (11.6,6.2);
+\end{tikzpicture}%
+}
+
+% ============================================
+% 文档开始
+% ============================================
+
+\begin{document}
+
+% 封面
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1in}
+
+\begin{tikzpicture}[scale=0.6]
+  % 圣经书本造型
+  \fill[WoodBrown!80] (-2,-1.5) -- (-2,2) -- (0,2.5) -- (2,2) -- (2,-1.5) -- (0,-1) -- cycle;
+  \fill[WoodBrown!60] (-2,2) -- (0,2.5) -- (0,-1) -- (-2,-1.5) -- cycle;
+  \fill[WoodBrown!40] (0,2.5) -- (2,2) -- (2,-1.5) -- (0,-1) -- cycle;
+  % 十字架在书上
+  \fill[StarGold] (-0.1,0) rectangle (0.1,1.8);
+  \fill[StarGold] (-0.6,1.2) rectangle (0.6,1.4);
+  % 光芒
+  \foreach \angle in {0,45,90,135,180,225,270,315} {
+    \draw[StarGold, line width=0.8pt] (0,1.3) -- ++(\angle:1.5);
+  }
+\end{tikzpicture}
+
+\vspace{0.4in}
+
+{\fontsize{28}{36}\selectfont\bfseries 圣经英雄传}
+
+\vspace{0.1in}
+
+{\fontsize{14}{20}\selectfont 从创世到使徒 · 跨越千年的信仰之旅}
+
+\vspace{0.15in}
+
+{\fontsize{12}{16}\selectfont 青少年版 · 12岁以上 · 含思考问题}
+
+\vspace{1in}
+
+{\small 约瑟 · 摩西 · 参孙 · 路得 · 大卫 · 以利亚}
+
+{\small 耶稣 · 彼得 · 保罗}
+
+\vspace{0.8in}
+
+{\normalsize 三书精读出版}
+\end{center}
+\newpage
+
+% ============================================
+% 序言页
+% ============================================
+\thispagestyle{empty}
+\vspace*{0.2in}
+{\large\bfseries 写在前面}
+
+\vspace{0.15in}
+
+亲爱的朋友：
+
+圣经不只是一本宗教书籍，它是人类历史上流传最广、影响最深的一本书。从创世到末世，从亚伯拉罕到保罗，圣经记载了跨越两千年的真实故事。
+
+这些故事的主角不是完美的超人，而是有血有肉、有软弱也有勇气的普通人。约瑟被亲兄弟出卖，却在埃及成为宰相；摩西是口吃的牧羊人，却带领以色列人出埃及；大卫是最小的儿子，却战胜了巨人歌利亚；路得是外邦寡妇，却成为大卫王的曾祖母；彼得三次否认耶稣，却成为教会的磐石；保罗曾经迫害基督徒，却成为福音最伟大的传播者。
+
+这些人的共同点是什么？他们都在人生的关键时刻遇见了神，并且选择了信靠。
+
+本书分为三个部分：旧约英雄（约瑟到以利亚）、耶稣基督（福音的核心）、新约使徒（彼得与保罗）。每一章都有思考问题，帮助你深入反思。
+
+\vspace{0.15in}
+\hfill {\itshape 愿这些故事激励你的人生。}
+\newpage
+
+% ============================================
+% 目录页
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.15in}
+{\large\bfseries 目录}
+\vspace{0.15in}
+
+{\small\bfseries 第一部分：旧约英雄}
+\vspace{0.08in}
+
+{\small
+\begin{tabular}{rl}
+第一章 & 约瑟——从奴隶到宰相 \\[0.05in]
+第二章 & 摩西——带领百姓出埃及 \\[0.05in]
+第三章 & 参孙——力量与软弱 \\[0.05in]
+第四章 & 路得——忠诚的外邦女子 \\[0.05in]
+第五章 & 大卫——牧童成为君王 \\[0.05in]
+第六章 & 以利亚——独立对抗四百五十人 \\[0.05in]
+\end{tabular}
+}
+
+\vspace{0.1in}
+{\small\bfseries 第二部分：耶稣基督}
+\vspace{0.08in}
+
+{\small
+\begin{tabular}{rl}
+第七章 & 道成肉身——耶稣的诞生 \\[0.05in]
+第八章 & 天国法则——登山宝训 \\[0.05in]
+第九章 & 神迹奇事——五饼二鱼与拉撒路 \\[0.05in]
+第十章 & 代赎之死——十字架 \\[0.05in]
+第十一章 & 空坟墓——复活的证据 \\[0.05in]
+\end{tabular}
+}
+
+\vspace{0.1in}
+{\small\bfseries 第三部分：新约使徒}
+\vspace{0.08in}
+
+{\small
+\begin{tabular}{rl}
+第十二章 & 彼得——从渔夫到磐石 \\[0.05in]
+第十三章 & 保罗——从逼迫者到使徒 \\[0.05in]
+\end{tabular}
+}
+\end{center}
+\newpage
+
+% ============================================
+% 第一部分：旧约英雄
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{2in}
+{\Large\bfseries 第一部分}
+
+\vspace{0.3in}
+
+{\fontsize{24}{32}\selectfont 旧约英雄}
+
+\vspace{0.2in}
+
+{\small 从约瑟到以利亚}
+\end{center}
+\newpage
+
+% ============================================
+% 第一章：约瑟——从奴隶到宰相
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第一章 \quad 约瑟——从奴隶到宰相}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\josephscene}
+\end{center}
+
+\vspace{0.15in}
+
+约瑟是雅各的第十一个儿子，也是最受宠爱的。父亲送给他一件彩色的外衣，这引起了哥哥们的嫉妒。约瑟还做了两个梦，梦见哥哥们向他下拜——这让他们更加愤恨。
+
+有一天，哥哥们把约瑟扔进坑里，然后卖给路过的商人。约瑟被带到埃及，成了奴隶。他被诬告入狱，在监牢里度过了多年。
+
+但神与约瑟同在。他为法老解梦，预言了七年丰年和七年饥荒。法老立他为埃及宰相，管理全国的粮食储备。饥荒来临时，约瑟的哥哥们来埃及买粮，俯伏在他面前——童年的梦应验了。
+
+约瑟没有报复，反而说：「你们的意思是要害我，但神的意思原是好的，要保全许多人的性命。」
+
+\bibleverse{从前你们的意思是要害我，但神的意思原是好的。—— 创世记 50:20}
+
+\thinkbox{约瑟经历了被出卖、被诬陷、被遗忘，却没有变得苦毒。是什么让他能够在逆境中保持信心？当你遭遇不公平对待时，你会如何回应？}
+\newpage
+
+% ============================================
+% 第二章：摩西——带领百姓出埃及
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第二章 \quad 摩西——带领百姓出埃及}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\mosesscene}
+\end{center}
+
+\vspace{0.15in}
+
+四百年后，以色列人在埃及沦为奴隶。法老下令杀死所有希伯来男婴。一个母亲把婴儿放在篮子里，藏在河边。法老的女儿发现了他，给他起名叫摩西，意思是「从水里拉出来」。
+
+摩西在王宫长大，却认同自己是希伯来人。四十岁时，他因杀死一个埃及人而逃亡旷野，成为牧羊人。八十岁时，神在燃烧的荆棘中向他显现，呼召他去带领以色列人出埃及。
+
+摩西说：「我是什么人，竟能去见法老？」他口吃，胆怯，觉得自己不够资格。但神说：「我必与你同在。」
+
+经过十场灾难，法老终于让以色列人离开。当埃及军队追赶时，摩西举起杖，红海分开，以色列人走干地过去。这成为圣经中最震撼的神迹之一。
+
+\bibleverse{耶和华必为你们争战，你们只管静默，不要作声。—— 出埃及记 14:14}
+
+\thinkbox{摩西觉得自己不够资格、能力不足。但神使用的往往不是最有能力的人，而是愿意顺服的人。你有没有因为觉得自己「不够好」而错过了什么机会？}
+\newpage
+
+% ============================================
+% 第三章：参孙——力量与软弱
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第三章 \quad 参孙——力量与软弱}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\samsonscene}
+\end{center}
+
+\vspace{0.15in}
+
+参孙是以色列的士师（领袖），神赐给他超乎常人的力量。只要他不剃头发，就有神的能力同在。他曾空手撕裂狮子，用驴腮骨击杀一千非利士人。
+
+然而，参孙有一个致命的弱点——他无法抵挡诱惑。他爱上了一个叫大利拉的女人。非利士人收买大利拉，让她套出参孙力量的秘密。大利拉天天缠磨他，参孙终于告诉她：力量在于他的头发。
+
+大利拉趁参孙睡着时剃掉他的头发。非利士人抓住他，挖出他的眼睛，把他关进监牢做苦工。
+
+但故事没有结束。参孙的头发慢慢长回来。在一次非利士人的庆典上，他们把参孙带出来取笑。参孙祷告说：「主啊，求你再赐我一次力量。」然后他推倒了神庙的柱子，与三千多非利士人同归于尽。
+
+\bibleverse{主耶和华啊，求你眷念我。神啊，求你赐我这一次的力量。—— 士师记 16:28}
+
+\thinkbox{参孙拥有超凡的能力，却败在自己的软弱上。你认为一个人最大的敌人是外在的挑战，还是内心的诱惑？}
+\newpage
+
+% ============================================
+% 第四章：路得——忠诚的外邦女子
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第四章 \quad 路得——忠诚的外邦女子}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\ruthscene}
+\end{center}
+
+\vspace{0.15in}
+
+路得是摩押人——以色列人的世仇。她嫁给了一个因饥荒逃到摩押的以色列人。十年后，她的丈夫和公公都死了，只剩下她和婆婆拿俄米。
+
+拿俄米决定返回以色列，劝路得留在本国改嫁。但路得说出了圣经中最美丽的话之一：「你往哪里去，我也往哪里去；你住哪里，我也住哪里；你的国就是我的国，你的神就是我的神。」
+
+路得跟随婆婆来到伯利恒，在田间捡拾收割后剩下的麦穗维生。田地的主人波阿斯注意到她的勤劳和对婆婆的孝顺，善待她。按照以色列的律法，波阿斯娶了路得，成为她的「至近的亲属」（救赎者）。
+
+路得和波阿斯的曾孙，就是大卫王。而大卫的后裔中，诞生了耶稣基督。一个外邦寡妇的忠诚，竟然被编织进救恩的故事里。
+
+\bibleverse{你的国就是我的国，你的神就是我的神。—— 路得记 1:16}
+
+\thinkbox{路得放弃了熟悉的环境、文化和信仰，选择跟随婆婆的神。你认为「忠诚」在今天这个变化迅速的时代还有价值吗？}
+\newpage
+
+% ============================================
+% 第五章：大卫——牧童成为君王
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第五章 \quad 大卫——牧童成为君王}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\davidscene}
+\end{center}
+
+\vspace{0.15in}
+
+大卫是耶西家最小的儿子，负责放羊——一个被忽视的孩子。当先知撒母耳来到他家膏立新王时，耶西甚至没有叫大卫来见客。但神对撒母耳说：「人是看外貌，耶和华是看内心。」大卫被膏立为以色列未来的王。
+
+年轻的大卫面对的第一个挑战是巨人歌利亚——一个身高三米的非利士勇士。以色列全军都害怕他，但大卫说：「这未受割礼的非利士人是谁，竟敢向永生神的军队骂阵？」
+
+大卫没有穿戴盔甲，只带着牧羊用的机弦和五颗石子。他对歌利亚说：「你来攻击我，是靠着刀枪和铜戟；我来攻击你，是靠着万军之耶和华的名。」一颗石子击中歌利亚的额头，巨人倒下了。
+
+大卫后来成为以色列最伟大的君王，也是诗篇的主要作者。但他并非完美——他犯过严重的罪。然而圣经称他为「合神心意的人」，因为他总是愿意悔改归向神。
+
+\bibleverse{你来攻击我，是靠着刀枪和铜戟；我来攻击你，是靠着万军之耶和华的名。—— 撒母耳记上 17:45}
+
+\thinkbox{大卫面对歌利亚时，他的武器是信心而不是装备。在你的生活中，有什么「巨人」是你需要靠信心去面对的？}
+\newpage
+
+% ============================================
+% 第六章：以利亚——独立对抗四百五十人
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第六章 \quad 以利亚——独立对抗四百五十人}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\elijahscene}
+\end{center}
+
+\vspace{0.15in}
+
+以利亚是以色列最伟大的先知之一。他生活在一个黑暗的时代——亚哈王和王后耶洗别带领全国拜偶像巴力，杀害耶和华的先知。
+
+以利亚独自站出来挑战四百五十个巴力先知。他在迦密山上提出一个测试：双方各建一座祭坛献祭，但不点火。「那降火显应的神，就是真神。」
+
+巴力先知从早到晚呼求巴力，又跳又喊，甚至用刀割自己——毫无回应。以利亚讽刺说：「大声点！也许你们的神睡着了。」
+
+轮到以利亚时，他让人往祭坛上倒水，直到水流满沟。然后他简单地祷告：「耶和华啊，求你今日使人知道你是以色列的神。」火从天而降，烧尽祭物、木柴、石头、尘土，连沟里的水也烧干了。
+
+众人俯伏在地说：「耶和华是神！耶和华是神！」
+
+然而，胜利之后以利亚却陷入深深的沮丧，甚至求死。神没有责备他，而是供应他食物和休息，然后轻声对他说话。
+
+\bibleverse{耶和华说：「你出来站在山上，在我面前。」—— 列王纪上 19:11}
+
+\thinkbox{以利亚在大胜之后反而陷入低谷。你有没有经历过「高峰之后的低谷」？神如何对待疲惫沮丧的以利亚，对你有什么启发？}
+\newpage
+
+% ============================================
+% 第二部分：耶稣基督
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{2in}
+{\Large\bfseries 第二部分}
+
+\vspace{0.3in}
+
+{\fontsize{24}{32}\selectfont 耶稣基督}
+
+\vspace{0.2in}
+
+{\small 福音的核心}
+\end{center}
+\newpage
+
+% ============================================
+% 第七章：道成肉身——耶稣的诞生
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第七章 \quad 道成肉身——耶稣的诞生}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\mangerscene}
+\end{center}
+
+\vspace{0.15in}
+
+约两千年前，罗马帝国统治着地中海世界。在巴勒斯坦地区一个名叫伯利恒的小镇，一件改变人类历史的事件悄然发生。
+
+一位名叫马利亚的年轻女子，在那里生下了一个婴孩。这不是普通的诞生——先知以赛亚在七百年前就预言过：「必有童女怀孕生子，给他起名叫以马内利」，意思是「神与我们同在」。
+
+因为城里挤满了回乡登记户口的人，客栈早已客满。这位天地的主宰，竟然降生在牲口住的地方，被放在喂牲口的马槽里。这是何等的降卑！创造宇宙的神，选择以最卑微的方式进入人间。
+
+旧约的所有英雄——约瑟、摩西、大卫、以利亚——都在等候这一刻。他们所信靠的神，终于亲自来到世间。
+
+\bibleverse{道成了肉身，住在我们中间，充充满满地有恩典有真理。—— 约翰福音 1:14}
+
+\thinkbox{为什么全能的神选择以婴孩的形式、在如此卑微的环境中降生？这对你理解神的性情有什么启发？}
+\newpage
+
+% ============================================
+% 第八章：天国法则——登山宝训
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第八章 \quad 天国法则——登山宝训}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\sermonscene}
+\end{center}
+
+\vspace{0.15in}
+
+耶稣的教导与当时的宗教领袖截然不同。在马太福音第五至七章记载的「登山宝训」中，耶稣彻底颠覆了人们对幸福和成功的定义。
+
+他说：「心灵贫穷的人有福了，因为天国是他们的。哀恸的人有福了，因为他们必得安慰。温柔的人有福了，因为他们必承受地土。」在这个崇尚强者、追逐财富的世界里，耶稣宣告谦卑、怜恤、清心、使人和睦的人才是真正蒙福的。
+
+更令人震惊的是，耶稣把律法的要求推向内心：「你们听过古人说『不可杀人』，但我告诉你们，凡向弟兄动怒的，也难逃审判。」外在的行为不够，神看重的是我们的内心动机。
+
+耶稣还说：「要爱你们的仇敌，为逼迫你们的人祷告。」这种「以善胜恶」的教导，至今仍然挑战着每一个人。
+
+\bibleverse{你们听见有话说「要爱你的邻舍，恨你的仇敌。」只是我告诉你们，要爱你们的仇敌。—— 马太福音 5:43-44}
+
+\thinkbox{「爱你的仇敌」——你认为这是软弱的表现，还是更高层次的力量？在实际生活中，这可能意味着什么？}
+\newpage
+
+% ============================================
+% 第九章：神迹奇事——五饼二鱼与拉撒路
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第九章 \quad 神迹奇事——五饼二鱼与拉撒路}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\fiveloavesscene}
+\end{center}
+
+\vspace{0.15in}
+
+耶稣行了许多神迹，其中「五饼二鱼」是唯一被四卷福音书都记载的（除了复活以外）。那天，五千多人聚集听道，天晚了却没有食物。一个小男孩献出五个饼和两条鱼。耶稣祝谢后分给众人——每个人都吃饱了，还剩下十二篮！
+
+更震撼的是拉撒路复活。拉撒路死了四天，尸体已经腐烂。耶稣却说：「复活在我，生命也在我。信我的人，虽然死了，也必复活。」然后他大声呼叫：「拉撒路，出来！」那死人竟然走出来了！
+
+这些神迹证明耶稣不只是好老师——他是生命的主宰，是创造天地的神。第二天，耶稣说：「我就是生命的粮，到我这里来的，必定不饿；信我的，永远不渴。」
+
+\bibleverse{耶稣说：「复活在我，生命也在我。信我的人，虽然死了，也必复活。」—— 约翰福音 11:25}
+
+\thinkbox{面对死亡，人类完全无能为力。耶稣声称自己就是「复活和生命」——如果这是真的，对你的人生观会有什么影响？}
+\newpage
+
+马大对耶稣说：「主啊，你若早在这里，我兄弟必不死。」耶稣说了一句惊人的话：「复活在我，生命也在我。信我的人，虽然死了，也必复活。」
+
+接着，耶稣来到坟墓前，大声呼叫：「拉撒路，出来！」那死了四天的人竟然走出来了！
+
+这个神迹证明耶稣不只是一位好老师或先知——他是生命的主宰，连死亡也要服从他的命令。
+
+\bibleverse{耶稣说：「复活在我，生命也在我。信我的人，虽然死了，也必复活。」—— 约翰福音 11:25}
+
+\thinkbox{面对死亡，人类是完全无能为力的。耶稣声称自己就是「复活和生命」——如果这是真的，对你的人生观会有什么影响？}
+\newpage
+
+% ============================================
+% 第九章：立约之夜——最后的晚餐
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第九章 \quad 立约之夜——最后的晚餐}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\sermonscene}
+\end{center}
+
+\vspace{0.15in}
+
+逾越节是犹太人最重要的节日，纪念神在埃及拯救他们的祖先脱离奴役。那天晚上，每个犹太家庭都要宰杀一只羊羔，全家一起吃逾越节晚餐。
+
+就在耶稣被捕的前夜，他和十二个门徒在耶路撒冷一间楼房里共进逾越节晚餐。这一餐后来被称为「最后的晚餐」。
+
+席间，耶稣做了一件令人惊讶的事：他脱去外衣，拿起毛巾，亲自为门徒洗脚——这本是奴仆的工作。他用行动教导门徒什么是真正的领袖：「我给你们作了榜样，叫你们照着我向你们所做的去做。」
+
+接着，耶稣拿起饼，祝谢后掰开，说：「这是我的身体，为你们舍的。」又拿起杯来说：「这杯是用我血所立的新约，是为你们流出来的。」这就是圣餐礼的起源——记念耶稣为我们的罪献上自己。
+
+\bibleverse{这是我的身体，为你们舍的。你们也应当如此行，为的是记念我。—— 路加福音 22:19}
+
+\thinkbox{耶稣——天地的主——亲自为门徒洗脚。这种「仆人式领导」与世界上普遍的权力观有什么不同？}
+\newpage
+
+% ============================================
+% 第十章：代赎之死——十字架
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第十章 \quad 代赎之死——十字架}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\crossscene}
+\end{center}
+
+\vspace{0.15in}
+
+最后晚餐之后，耶稣在客西马尼园被犹大出卖，被捕并受审。罗马巡抚彼拉多明知耶稣无罪，却屈服于群众的压力，判处他钉十字架——罗马帝国最残酷的死刑。
+
+十字架不只是痛苦的死法，更是羞辱的象征。耶稣被鞭打、被嘲笑、被戴上荆棘冠冕。兵丁把他钉在十字架上。在极度的痛苦中，耶稣却说：「父啊，赦免他们！因为他们所做的，他们不晓得。」
+
+从正午十二点到下午三点，遍地都黑暗了。耶稣大声喊着说：「我的神，我的神，为什么离弃我？」这是整本圣经中最令人心碎的时刻——圣洁的神子承担了全人类的罪，与父神隔绝，好使我们能与神和好。
+
+最后，耶稣说：「成了！」然后低下头，将灵魂交付神。这不是失败的结局，而是得胜的宣告——救赎的工作完成了。
+
+\bibleverse{神使那无罪的，替我们成为罪，好叫我们在他里面成为神的义。—— 哥林多后书 5:21}
+
+\thinkbox{耶稣的死是「代赎」——他替我们承担了罪的刑罚。如果有人愿意替你承担一切后果，你会如何回应？}
+\newpage
+
+% ============================================
+% 第十一章：空坟墓——复活的证据
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第十一章 \quad 空坟墓——复活的证据}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\resurrectionscene}
+\end{center}
+
+\vspace{0.15in}
+
+基督教信仰的核心不在于耶稣的教导有多好，而在于一个历史事件——复活。使徒保罗说得很清楚：「基督若没有复活，你们的信便是徒然。」
+
+耶稣死后第三天，清晨，几位妇女来到坟墓，要用香料膏抹他的身体。她们发现封住墓门的大石头已经滚开，坟墓是空的！天使对她们说：「为什么在死人中找活人呢？他不在这里，已经复活了！」
+
+在接下来的四十天里，复活的耶稣多次向门徒显现——有时在密室，有时在路上，有时在海边。他让多疑的多马摸他手上的钉痕。有一次，他甚至向五百多人同时显现。
+
+这些原本因恐惧而躲藏的门徒，后来竟然冒着生命危险到处宣扬耶稣复活的消息。其中十一位使徒中有十位最终殉道。如果复活是他们编造的谎言，他们为什么愿意为谎言而死？
+
+\bibleverse{他不在这里，已经复活了。当记念他还在加利利的时候怎样告诉你们。—— 路加福音 24:6}
+
+\thinkbox{如果耶稣真的从死里复活了，这对于你理解生命、死亡和永恒意味着什么？}
+\newpage
+
+% ============================================
+% 第十二章：荣耀升天——大使命
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.05in}
+{\large\bfseries 第十二章 \quad 荣耀升天——大使命}
+\end{center}
+
+\vspace{0.1in}
+
+\begin{center}
+\scalebox{0.7}{\ascensionscene}
+\end{center}
+
+\vspace{0.15in}
+
+复活后四十天，耶稣带领门徒来到橄榄山。他给他们留下最后的命令——大使命：「天上地下所有的权柄都赐给我了。所以，你们要去，使万民作我的门徒，奉父、子、圣灵的名给他们施洗，凡我所吩咐你们的，都教训他们遵守。」
+
+接着，他给了他们一个伟大的应许：「我就常与你们同在，直到世界的末了。」然后，当门徒们注视着他的时候，耶稣被一朵云彩接上升天了。
+
+两个白衣天使出现，对门徒说：「这离开你们被接升天的耶稣，你们见他怎样往天上去，他还要怎样来。」
+
+故事没有结束。两千年来，这福音从耶路撒冷传到犹大全地，传到撒玛利亚，传到地极。今天，全世界有超过二十亿人称自己是基督徒。而耶稣的应许依然有效：他还要再来。
+
+\bibleverse{我就常与你们同在，直到世界的末了。—— 马太福音 28:20}
+
+\thinkbox{耶稣把传扬福音的使命托付给他的门徒。如果这个故事是真的，你认为自己该如何回应？}
+\newpage
+
+% ============================================
+% 结语页
+% ============================================
+\thispagestyle{empty}
+\vspace*{0.3in}
+\begin{center}
+{\large\bfseries 结语：你的选择}
+\end{center}
+
+\vspace{0.2in}
+
+你已经读完了耶稣的故事。现在，让我们回到开头提出的问题：耶稣究竟是谁？
+
+历史告诉我们，耶稣确有其人。他的教导深刻而独特，影响了整个西方文明。他行的神迹有许多目击者。他的门徒愿意为他殉道。空坟墓至今没有合理的自然解释。
+
+但这些事实本身还不够。C.S.路易斯的逻辑依然有效：耶稣宣称自己是神。如果他不是神，他要么是疯子（真诚地相信自己是神但实际不是），要么是骗子（明知自己不是神却欺骗别人）。但他的智慧和品格似乎都不符合这两种情况。
+
+剩下的可能性是：他说的是真的。
+
+\vspace{0.15in}
+
+\begin{center}
+\begin{tikzpicture}[scale=0.5]
+  \fill[WoodBrown] (-0.2,-1.5) rectangle (0.2,2.5);
+  \fill[WoodBrown] (-1.2,1.2) rectangle (1.2,1.6);
+  \foreach \angle in {0,30,60,90,120,150,180,210,240,270,300,330} {
+    \draw[StarGold, line width=0.8pt] (0,1.4) -- ++(\angle:1.8);
+  }
+\end{tikzpicture}
+\end{center}
+
+\vspace{0.15in}
+
+如果耶稣真的是神的儿子，为拯救人类而死又复活，那么这不只是一个有趣的历史故事——这是关乎你永恒命运的最重要的真相。
+
+\bibleverse{神爱世人，甚至将他的独生子赐给他们，叫一切信他的，不至灭亡，反得永生。—— 约翰福音 3:16}
+
+\vspace{0.15in}
+
+这个邀请今天仍然有效。你愿意进一步认识耶稣吗？
+
+\vspace{0.2in}
+\begin{center}
+{\large — 完 —}
+\end{center}
+\newpage
+
+% ============================================
+% 回应页
+% ============================================
+\thispagestyle{empty}
+\vspace*{0.3in}
+\begin{center}
+{\large\bfseries 如果你想回应}
+\end{center}
+
+\vspace{0.2in}
+
+如果你被耶稣的故事触动，想要进一步回应，这里有一些建议：
+
+\vspace{0.15in}
+
+{\bfseries 1. 继续探索}
+
+读一读圣经中的福音书（马太、马可、路加、约翰），亲自了解耶稣说了什么、做了什么。可以从约翰福音开始——它是专门为初次接触信仰的人写的。
+
+\vspace{0.1in}
+
+{\bfseries 2. 提出问题}
+
+不要压抑你的疑问。好的信仰经得起质疑。找一位你信任的基督徒长辈或牧师，把你的问题提出来。
+
+\vspace{0.1in}
+
+{\bfseries 3. 尝试祷告}
+
+祷告不需要特别的仪式或用语。你可以用自己的话对神说话。如果你愿意，可以这样说：
+
+\vspace{0.1in}
+
+{\itshape
+「神啊，如果你是真实的，请让我认识你。我愿意敞开心来寻求真理。如果耶稣真的是你的儿子，为我而死又复活，请帮助我明白，并给我信心来回应。阿门。」
+}
+
+\vspace{0.15in}
+
+{\bfseries 4. 找到群体}
+
+信仰不是孤独的旅程。试着参加一间教会或青年团契，认识其他在寻求的人，一起学习和成长。
+
+\vspace{0.2in}
+
+\begin{center}
+{\small 愿你在寻求中找到真理，在真理中找到生命。}
+\end{center}
+\newpage
+
+% ============================================
+% 版权页
+% ============================================
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\small
+《耶稣的故事》青少年版
+
+\vspace{0.3in}
+
+三书精读出版系统
+
+\vspace{0.2in}
+
+简体中文版 · 12岁以上适读
+
+\vspace{0.3in}
+
+本书包含12章耶稣生平的重要事件
+
+每章配有圣经经文引用及思考问题
+
+适合个人阅读或小组讨论
+
+\vspace{0.3in}
+
+插画采用 TikZ 简约风格
+
+\vspace{0.5in}
+
+\rule{3in}{0.5pt}
+
+\vspace{0.3in}
+
+榮耀 = 恩典 + 真理
+
+Glory = Grace + Truth
+
+\vspace{0.2in}
+
+「认识你独一的真神，
+
+并且认识你所差来的耶稣基督，
+
+这就是永生。」—— 约翰福音 17:3
+}
+\end{center}
+\vspace*{\fill}
+
+\end{document}

@@ -1,228 +1,338 @@
-# PubHub - Claude Code 项目配置
+# CLAUDE.md - Project Instructions for Claude Code
 
-> 7年三书精读出版系统：《孙子兵法》《资治通鉴》《圣经》AI时代注疏
+## Project Overview
 
----
-
-## 核心异象 (Core Vision)
-
-> **「神既在古時藉著眾先知多次多方地曉諭列祖，就在這末世藉著他兒子曉諭我們。」**
-> — 希伯來書 1:1-2
-
-### 寫作的靈魂：漸進啟示 (Progressive Revelation)
-
-```
-時間線 ─────────────────────────────────────────────────→ 永恆
-   │                                                      │
-   ↓                                                      ↓
-眾先知 → 律法 → 詩篇 → 智慧書 → 基督道成肉身 → 教會 → 主再來
-                              ↓
-                        大祭司・新約・永恆救贖
-```
-
-**透視三大主題**：
-
-| 主題 | 問題 | 三書答案 |
-|------|------|----------|
-| **人性** | 人是什麼？ | 孫子察人心，通鑑見興亡，聖經揭罪性與神的形象 |
-| **出路** | 路在何方？ | 孫子求勝，通鑑求治，聖經指向基督是道路 |
-| **神的計劃** | 歷史往哪去？ | 孫子不論，通鑑循環，聖經直線向永恆 |
-| **爭戰** | 如何得勝？ | 孫子兵戰，通鑑權戰，聖經屬靈爭戰 |
-| **永恆** | 結局如何？ | 孫子沉默，通鑑興衰，聖經：愛永遠長存 |
-
-### 信・望・愛 (Faith, Hope, Love)
-
-> **「如今常存的有信、有望、有愛這三樣，其中最大的是愛。」**
-> — 哥林多前書 13:13
-
-- **信 (Faith)**: 回應神的啟示 — 從創世到基督
-- **望 (Hope)**: 等候主再來 — 啟示錄的盼望
-- **愛 (Love)**: 永遠長存 — 神就是愛，愛永不止息
-
-**時空觀 (Perspective)**：人需要時間和空間的座標才能理解啟示。這7年精讀，正是在時間中領受永恆的智慧。
+**Project Name**: 三書精讀出版系統 (Three Books Deep Reading & Publishing System)
+**Primary Focus (MVP)**: 約翰福音研讀 (Gospel of John Study) ✅ COMPLETE
+**Current Phase**: Phase 4 - Expansion (Luke, Acts, Johannine Epistles)
+**Timeline**: 7-year plan (2025-2032)
+**Tech Stack**: Next.js 16.1 + Tailwind 4 + Turbopack + pnpm + Claude AI
+**Version**: 3.0.0
 
 ---
 
-## 项目概览
+## Quick Reference
 
-- **时间跨度**: 2025-11-29 至 2032-11-29 (2557天)
-- **核心目标**: 深度阅读三部经典，透視人性、出路、神的計劃、爭戰、永恆
-- **每日工作量**: 60-90分钟，300-500字心得
-- **終極產出**: 3-4本AI时代注疏版传世之作
-
-## 5位 AI 协作者 (Coworkers)
-
-| Skill 命令 | 协作者 | 职责 | 何时使用 |
-|------------|--------|------|----------|
-| `/master-editor` | 总编辑 | 分析评估每日笔记 | 完成初稿后 |
-| `/annotate` | 注疏师 | 提供历史注疏和中英对照 | 需要深度注疏时 |
-| `/ai-parallels` | AI战略家 | 映射到2025-2035年AI博弈 | 寻找AI时代对应时 |
-| `/proofread` | 校对神 | 中英双语润色、引文核对 | 发布前 |
-| `/publish` | 出书总管 | 生成周报、月报、书稿 | 周六/月末 |
-
-## 每日工作流
-
-```
-1. 阅读原文 (30分钟)
-   ↓
-2. 写初稿 (30分钟)
-   npm run new-note
-   ↓
-3. 获取注疏 (可选)
-   /annotate → 提供章节名
-   ↓
-4. AI映射 (可选)
-   /ai-parallels → 提供笔记
-   ↓
-5. 分析评估
-   /master-editor → 获取评分和建议
-   ↓
-6. 最终润色
-   /proofread → 校对并润色
-   ↓
-7. 发布
-   git add && git commit && git push
-```
-
-## 周度/月度工作流
-
-**每周六** - 生成周总结:
-```
-/publish --type weekly
-```
-
-**每月1日** - 生成月报:
-```
-/publish --type monthly
-```
-
-## 三书权威版本
-
-| 书名 | 中文权威版 | 英文权威版 | 核心关注 |
-|------|-----------|-----------|---------|
-| 孙子兵法 | 十一家注本 | Griffith/Sawyer | 战略智慧与AI博弈 |
-| 资治通鉴 | 胡三省音注本 | 伯克利英译本 | 历史规律与组织兴衰 |
-| 圣经 | 和合本修订版 | ESV/NIV | 信仰母题与AI伦理 |
-
-## 经文校对标准
-
-**圣经引文必须使用 [ai-eden.com/bible](https://ai-eden.com/bible) 逐字核对。**
-
-- URL 格式: `https://ai-eden.com/bible/{book}/{chapter}?t=CUV,ESV&cols=2`
-  - `t=` 选择译本（可选: NASB, CUV, ESV，逗号分隔）
-  - `cols=` 列数（1 或 2）
-  - 示例: `/bible/hebrews/8?t=CUV,ESV&cols=2`
-- 中文对照: CUV 和合本
-- 英文对照: ESV（EP 系列标准）和 NASB 均可用
-- **红字版**: ai-eden.com 使用红字标注耶稣的直接话语（Red Letter Edition）
-- `/proofread` 时必须 fetch 所有引用章节，用 `?t=CUV,ESV` 同时核对中英文引文
-- 引用耶稣直接话语时应注明（红字版经文），以区别于叙事经文
-
-## AI时代映射 (2025-2035)
-
-**主要玩家**: OpenAI, Anthropic, xAI, Google DeepMind, Meta AI, 中国AI企业
-
-**关键战场**:
-- AGI安全与对齐
-- AI芯片战 (NVIDIA, 华为, 寒武纪)
-- 开源 vs 闭源模型
-- AI监管与政策
-- AI Agent生态
-
-## 质量标准
-
-### 每日笔记 (300-500字)
-- [ ] 原文引用准确 (中英对照)
-- [ ] 有个人独特洞见 (非常识)
-- [ ] AI案例真实可查
-- [ ] 逻辑连贯
-
-### 周总结 (1000-2000字)
-- 核心主题 (2-3个)
-- 金句精选 (3-5句)
-- 跨书关联
-- 下周计划
-
-### 月报 (5000+字)
-- 原典精读总结
-- AI时代深度解读
-- 三书合论
-- 个人成长反思
-
-## 禁止清单
-
-**语言**:
-- 空洞溢美词 ("非常棒"、"太厉害了")
-- AI腔调 ("让我们一起"、"深入探讨")
-- 商业术语 ("赋能"、"颠覆"、"革命性")
-
-**内容**:
-- 杜撰历史注疏
-- 编造AI公司事件
-- 脱离原文过度发挥
-
-## 快速命令
+### Build Commands
 
 ```bash
-# 创建新笔记
-npm run new-note
-
-# 生成周报
-npm run weekly
-
-# 生成月报
-npm run monthly
+pnpm install          # Install dependencies
+pnpm dev              # Start dev server with Turbopack
+pnpm build            # Production build
+pnpm start            # Start production server
+pnpm lint             # Run ESLint
+pnpm typecheck        # Run TypeScript check
+pnpm test             # Run tests with Vitest
+pnpm test:run         # Run tests once
+pnpm test:coverage    # Run tests with coverage
 ```
 
-## 目录结构
+### Claude Skills (Slash Commands)
+
+| Command | Agent | Function |
+|---------|-------|----------|
+| `/master-editor` | 總編輯 | Analyze and classify daily notes |
+| `/annotate` | 注疏師 | Add historical commentary, bilingual |
+| `/ai-parallels` | AI戰略家 | Map to 2025-2035 AI cases |
+| `/proofread` | 校對神 | Bilingual proofreading |
+| `/publish` | 出書總管 | Generate reports and manuscripts |
+
+---
+
+## Project Structure
 
 ```
 pubhub/
-├── daily-notes/           # 每日笔记
-│   ├── drafts/           # 草稿
-│   ├── published/        # 已发布
-│   ├── ai-outputs/       # AI 协作者输出
-│   └── todos/            # 待办事项
-├── weekly-summaries/      # 周总结 (扁平结构)
-├── monthly-reports/       # 月报 (扁平结构)
-├── books/                 # 书稿
-│   ├── sunzi/            # 孙子兵法
-│   ├── zizhi-tongjian/   # 资治通鉴
-│   ├── bible/            # 圣经
-│   │   ├── cor2/         # 哥林多后书 (24课)
-│   │   ├── matthew/      # 马太福音
-│   │   ├── revelation/   # 启示录
-│   │   └── john-thursday-wong/ # 约翰福音 (黄牧师)
-│   ├── bible-tongjian-parallel/ # 圣经×通鉴对读
-│   └── ai-agents/        # O'Reilly AI 书稿
-├── docs/                  # 学习笔记
-│   ├── study-notes/      # 约翰福音 (22章)
-│   ├── study-notes-john-epistles/ # 约翰书信 (1/2/3约翰)
-│   ├── study-notes-hebrews/      # 希伯来书
-│   ├── study-notes-revelation/   # 启示录
-│   ├── study-notes-sunzi/        # 孙子兵法
-│   ├── sermons/          # 讲道大纲 (10篇)
-│   └── archive/          # 归档
-├── _meta/                 # 项目文档
-│   ├── SEVEN_YEAR_ROADMAP.md
-│   ├── THEOLOGICAL_FRAMEWORK.md
-│   ├── WORKFLOW_GUIDE.md
-│   └── archive/          # 旧版设置文档
-├── templates/             # 模板
-├── scripts/               # 自动化脚本
-│   ├── __tests__/        # 测试
-│   └── archive/          # 归档脚本
-└── .claude/               # Claude配置
-    ├── settings.json     # 团队共享配置
-    ├── settings.local.json # 本地权限配置
-    └── commands/         # Slash commands / Skills
+├── CLAUDE.md                    # This file: Project instructions
+├── package.json                 # pnpm + Next.js 16.1 + Tailwind 4
+├── next.config.ts              # Turbopack configuration
+├── pnpm-lock.yaml              # pnpm lockfile
+├── .npmrc                      # pnpm settings
+│
+├── .claude/                    # Claude AI configuration
+│   ├── settings.json           # Project settings
+│   ├── CONTENT_RULES.md        # Content quality rules
+│   ├── STYLE_GUIDE.md          # Code & doc style guide
+│   ├── commands/               # AI Agent commands (skills)
+│   │   ├── master-editor.md
+│   │   ├── annotate.md
+│   │   ├── ai-parallels.md
+│   │   ├── proofread.md
+│   │   └── publish.md
+│   └── prompts/                # System prompts
+│       └── system-context.md
+│
+├── docs/                       # Documentation
+│   ├── BRD-gospel-of-john.md   # Business Requirements
+│   ├── PRD-gospel-of-john.md   # Product Requirements
+│   ├── study-notes/            # Study notes by chapter
+│   └── sermons/                # Sermon outlines
+│
+├── daily-notes/                # Daily devotional notes
+│   ├── drafts/
+│   │   └── thursday-wong/      # Elder Wong's materials
+│   └── published/
+│
+├── books/                      # Book manuscripts
+│   ├── sunzi/                  # 孫子兵法
+│   ├── zizhi-tongjian/         # 資治通鑑
+│   └── bible/                  # 聖經
+│       ├── gospel-of-john/     # ✅ 約翰福音 (21 chapters complete)
+│       ├── gospel-of-luke/     # 路加福音
+│       ├── acts/               # 使徒行傳
+│       ├── johannine-epistles/ # 約翰書信
+│       ├── james/              # 雅各書
+│       └── ...
+│
+├── templates/                  # Markdown templates
+├── scripts/                    # Automation scripts
+└── app/                        # Next.js App Router (future)
 ```
-
-## 配置文件
-
-详细配置见 `.claude/README.md`
 
 ---
 
-**版本**: v3.1.0
-**最后更新**: 2026-04-30
+## MVP Focus: Gospel of John
+
+### Core Resources (三方整合)
+
+1. **黃長老 (Elder Wong)** - 第一手教導
+   - 週四查經班 Zoom 錄影
+   - 查經筆記與大綱
+
+2. **gty.org** - John MacArthur
+   - 逐節解經講道
+   - MacArthur Study Bible
+
+3. **G. Campbell Morgan** - 解經王子
+   - *The Gospel According to John* (1909)
+   - 屬靈組織分析法
+
+### Daily Rhythm
+
+```
+📖 早晨 (45-60分鐘)
+├── 1. 禱告預備
+├── 2. 經文朗讀 (RCUV + ESV)
+├── 3. 黃長老教導
+├── 4. MacArthur 講道/注釋
+├── 5. Campbell Morgan 洞見
+└── 6. 筆記記錄
+
+🌙 晚間 (15分鐘)
+├── 回顧經文
+├── 反思應用
+└── 禱告回應
+```
+
+### Gospel of John Structure
+
+| Part | Chapters | Theme |
+|------|----------|-------|
+| 序言 | 1:1-18 | 道的本質 |
+| 公開事工 | 1:19-12:50 | 神蹟與講論 |
+| 私下教導 | 13-17 | 馬可樓上講論 |
+| 受難復活 | 18-21 | 榮耀的高峰 |
+
+**七個神蹟**: 水變酒、醫大臣子、醫瘸腿、五餅二魚、海面行走、醫瞎眼、拉撒路復活
+
+**七個「我是」**: 生命的糧、世界的光、羊的門、好牧人、復活/生命、道路/真理/生命、真葡萄樹
+
+---
+
+## Coding Standards
+
+### TypeScript
+
+- Strict mode enabled
+- Use `interface` over `type` for objects
+- Prefer `const` over `let`
+- Use descriptive variable names
+
+### File Naming
+
+- Components: `PascalCase.tsx`
+- Utilities: `camelCase.ts`
+- Constants: `SCREAMING_SNAKE_CASE`
+- Markdown: `kebab-case.md`
+
+### Content File Naming
+
+| Type | Pattern | Example |
+|------|---------|---------|
+| Daily Note | `YYYY-MM-DD.md` | `2026-01-01.md` |
+| Weekly Summary | `YYYY-WNN-weekly.md` | `2026-W01-weekly.md` |
+| Monthly Report | `YYYY-MM-monthly.md` | `2026-01-monthly.md` |
+| Study Note | `NN-chX-topic.md` | `01-ch1-prologue.md` |
+
+### Imports
+
+```typescript
+// 1. React/Next imports
+import { useState } from 'react'
+import Link from 'next/link'
+
+// 2. Third-party imports
+import { clsx } from 'clsx'
+
+// 3. Internal imports
+import { Button } from '@/components/ui/button'
+import { cn } from '@/lib/utils'
+```
+
+---
+
+## Content Rules
+
+### Bible References
+
+- **Format**: `約 1:1` or `John 1:1`
+- **Chinese Primary**: 和合本修訂版 (RCUV)
+- **Chinese Reference**: 新譯本 (CNV), 呂振中譯本
+- **English Primary**: ESV (English Standard Version)
+- **English Reference**: NIV, NASB, NET Bible
+- **Greek Reference**: NA28, UBS5
+
+### Commentary Citations
+
+- Must be verifiable
+- Include author, work, page/section
+- Format: `**[Author]**: "[Quote]" — [Source]`
+
+### Writing Standards
+
+| Type | Word Count | Key Sections |
+|------|-----------|--------------|
+| Daily Note | 300-500 | 經文、教導要點、洞見、應用 |
+| Weekly Summary | 1000-2000 | 核心主題、金句、跨書關聯、下週計劃 |
+| Monthly Report | 5000-7000 | 經文總結、神學要點、生命應用、展望 |
+
+### Agent Behavior Rules
+
+- **總編輯**: 客觀評估，1-5分制，不過度讚美
+- **注疏師**: 必須核對原文，不可杜撰，標明出處
+- **AI戰略家**: 只使用真實AI事件，不可虛構
+- **校對神**: 高標準，保持作者語言風格，核對所有引文
+- **出書總管**: 注重內容邏輯，質量優先於數量
+
+### Forbidden
+
+- Fabricated Scripture quotes (不杜撰經文)
+- Unverifiable commentary (不編造注疏)
+- Empty spiritual jargon (避免空洞套話)
+- AI-generated filler content (避免AI腔調)
+- Excessive emojis (避免過度使用emoji)
+
+---
+
+## Git Workflow
+
+### Commit Format
+
+```
+<emoji> <type>: <description>
+
+📝 docs: Update Gospel of John study notes
+✨ feat: Add new daily note template
+🐛 fix: Correct Scripture reference
+🔧 config: Update Claude settings
+📦 build: Upgrade Next.js to 15.1
+```
+
+### Branch Strategy
+
+- `main` - Production ready
+- `develop` - Development
+- `feature/*` - New features
+- `docs/*` - Documentation updates
+
+---
+
+## Environment Variables
+
+```env
+# .env.local (not committed)
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
+```
+
+---
+
+## Key Files to Know
+
+| File | Purpose |
+|------|---------|
+| `docs/BRD-gospel-of-john.md` | Business requirements, MVP definition |
+| `docs/PRD-gospel-of-john.md` | Product requirements, daily rhythm |
+| `.claude/settings.json` | AI behavior configuration |
+| `.claude/CONTENT_RULES.md` | Content quality standards |
+| `daily-notes/drafts/thursday-wong/` | Elder Wong's study materials |
+
+---
+
+## When Helping with This Project
+
+1. **Always reference** the MVP focus (Gospel of John only)
+2. **Use the three resources**: Elder Wong + gty.org + Campbell Morgan
+3. **Follow content rules** in `.claude/CONTENT_RULES.md`
+4. **Verify all Scripture** quotes against RCUV/ESV
+5. **Never fabricate** commentary or historical facts
+6. **Maintain bilingual** (繁體中文 + English) where appropriate
+
+---
+
+## Quality Checklist (Before Publish)
+
+- [ ] 聖經引文是否準確？(RCUV/ESV)
+- [ ] 中英對照是否完整？
+- [ ] 注疏引用是否可查證？
+- [ ] 邏輯是否連貫？
+- [ ] 是否有屬靈洞見（而非常識）？
+- [ ] 是否符合 MVP 焦點？
+- [ ] 格式是否符合規範？
+
+---
+
+**Last Updated**: 2026-05-02
+**Maintained By**: Jim Xiao
+
+---
+
+## Behavioral Guidelines (Karpathy)
+
+Principles for reducing common LLM coding mistakes. **Bias toward caution over speed.**
+
+### 1. Think Before Coding
+
+**Don't assume. Don't hide confusion. Surface tradeoffs.**
+
+- State assumptions explicitly. If uncertain, ask.
+- If multiple interpretations exist, present them — don't pick silently.
+- If a simpler approach exists, say so. Push back when warranted.
+- If something is unclear, stop. Name what's confusing. Ask.
+
+### 2. Simplicity First
+
+**Minimum code that solves the problem. Nothing speculative.**
+
+- No features beyond what was asked.
+- No abstractions for single-use code.
+- No "flexibility" or "configurability" that wasn't requested.
+- No error handling for impossible scenarios.
+- If you write 200 lines and it could be 50, rewrite it.
+
+### 3. Surgical Changes
+
+**Touch only what you must. Clean up only your own mess.**
+
+- Don't "improve" adjacent code, comments, or formatting.
+- Don't refactor things that aren't broken.
+- Match existing style, even if you'd do it differently.
+- Remove only imports/variables/functions that YOUR changes made unused.
+- Every changed line should trace directly to the user's request.
+
+### 4. Goal-Driven Execution
+
+**Define success criteria. Loop until verified.**
+
+- Transform vague tasks into testable goals before starting.
+- For multi-step tasks, state a brief plan with a verify step per stage.
+- Strong success criteria enable independent progress; weak ones ("make it work") require constant clarification.
