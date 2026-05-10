@@ -393,7 +393,7 @@ URL 格式：`/bible/{book}/{chapter}?t=CUV,ESV&cols=2`
 - **Ch 27** — 大祭司的禱告 (The High Priestly Prayer, John 17)
 - **Ch 28** — 客西馬尼園 (Gethsemane)
 - **Ch 29** — 審判 (The Trials of Jesus)
-- **Ch 30** — ✟ **釘十字架與架上七言** ✟ (The Crucifixion and the Seven Sayings) — **本卷的中心**
+- **Ch 30** — † **釘十字架與架上七言** † (The Crucifixion and the Seven Sayings) — **本卷的中心**
 - **Ch 31** — 埋葬 (The Burial of Jesus)
 
 ### 第五部 復活升天 Resurrection Glory

@@ -1,4 +1,4 @@
-# 第三十章 ✟ 釘十字架與架上七言 ✟
+# 第三十章 † 釘十字架與架上七言 †
 ## Chapter 30 — The Crucifixion and the Seven Sayings
 
 > 「**成了！**」

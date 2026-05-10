@@ -78,7 +78,7 @@ for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
             awk 'BEGIN{skip=0} /^---$/{if(NR==1){skip=1;next}else if(skip){skip=0;next}} !skip{print}' "$f" \
                 | sed 's/\^\([0-9]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
             printf '\n\n\\pagebreak\n\n' >> "$COMBINED_MD"
-            ((chapter_count++))
+            chapter_count=$((chapter_count + 1))
             break  # Only process first match
         fi
     done
@@ -92,14 +92,14 @@ echo ""
 
 # Convert red letter markers for Jesus's words
 echo "Converting red letter markers..."
-sed -i '' \
+sed -i.bak \
     -e 's/<red>/\\jesus{/g' \
     -e 's/<\/red>/}/g' \
     "$COMBINED_MD"
 
 # Convert emojis to text equivalents for PDF
 echo "Converting emojis to text..."
-sed -i '' \
+sed -i.bak \
     -e 's/🦁/獅/g' \
     -e 's/🐂/牛/g' \
     -e 's/👤/人/g' \
@@ -133,6 +133,42 @@ sed -i '' \
     -e 's/✓/+/g' \
     "$COMBINED_MD"
 
+# Clean up sed backup files (cross-platform sed -i.bak workaround)
+rm -f "${COMBINED_MD}.bak" 2>/dev/null || true
+
+# Linux-only workaround: substitute problematic CJK punctuation with ASCII equivalents
+# This is needed because Linux font stack (Droid Sans Fallback + DejaVu) has gaps in
+# Halfwidth/Fullwidth Forms transitions, especially in bold/italic contexts where
+# only regular-weight CJK font is available. Mac builds with Songti SC don't need this.
+if command -v fc-list &> /dev/null && ! fc-list 2>/dev/null | grep -qi "Songti SC"; then
+    echo "Substituting full-width punctuation for Linux build..."
+    sed -i.bak \
+        -e 's/）/)/g' \
+        -e 's/（/(/g' \
+        -e 's/，/,/g' \
+        -e 's/。/. /g' \
+        -e 's/：/:/g' \
+        -e 's/；/;/g' \
+        -e 's/！/!/g' \
+        -e 's/？/?/g' \
+        -e 's/．/./g' \
+        -e 's/、/, /g' \
+        "$COMBINED_MD"
+    rm -f "${COMBINED_MD}.bak" 2>/dev/null || true
+fi
+
+# Auto-detect platform: use Linux template if Songti SC unavailable
+TEMPLATE_USED="$TEMPLATE"
+if command -v fc-list &> /dev/null; then
+    if ! fc-list 2>/dev/null | grep -qi "Songti SC"; then
+        LINUX_TEMPLATE="$PROJECT_ROOT/templates/pdf/gospel-harmony-liturgical-linux.latex"
+        if [ -f "$LINUX_TEMPLATE" ]; then
+            echo "Songti SC not found — using Linux template with DejaVu + Droid Sans Fallback"
+            TEMPLATE_USED="$LINUX_TEMPLATE"
+        fi
+    fi
+fi
+
 # Generate PDF
 echo "Generating PDF with XeLaTeX..."
 echo ""
@@ -140,7 +176,7 @@ echo ""
 pandoc "$COMBINED_MD" \
     -o "$OUTPUT_PDF" \
     --pdf-engine=xelatex \
-    --template="$TEMPLATE" \
+    --template="$TEMPLATE_USED" \
     --from=markdown-superscript-subscript \
     --toc \
     --toc-depth=2 \

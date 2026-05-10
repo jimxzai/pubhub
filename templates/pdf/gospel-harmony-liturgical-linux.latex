@@ -23,53 +23,110 @@
 \checkandfixthelayout
 
 %% ============================================
-%% FONT SETUP WITH CJK LINE BREAKING - PREMIUM CALLIGRAPHY EDITION
-%% ============================================
-%% macOS native fonts used:
-%%   宋體 (Songti SC)      - main body text (readable serif)
-%%   楷體 (Kaiti SC)       - italic/emphasis (calligraphy brush style)
-%%   黑體 (PingFang SC)    - sans-serif headers (modern)
-%%   華文行楷 (STXingkai)  - decorative running script (for verse boxes)
-%%   華文仿宋 (STFangsong) - imitation Song (for poetry/quotes)
-%%   華文楷體 (STKaiti)    - alternative calligraphy
+%% FONT SETUP WITH CJK LINE BREAKING
 %% ============================================
 \usepackage{fontspec}
 
-% Main CJK fonts
-\setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
-  ItalicFont=Kaiti SC
-]
-\setsansfont{PingFang SC}
-\setmonofont{Menlo}
+% Latin fonts — using TeX Gyre Pagella (elegant Palatino-like) for refined typography.
+% TeX Gyre Pagella has excellent Latin + Greek coverage and a beautiful italic.
+\setmainfont{TeX Gyre Pagella}
+\setsansfont{TeX Gyre Heros}
+\setmonofont{DejaVu Sans Mono}
 
-% Calligraphy fonts for special use - 書法字型
-% \kaiti for elegant emphasis (楷體 - regular brush)
-\newfontfamily\kaiti{Kaiti SC}
-% \xingkai for flowing decorative quotes (行楷 - using Kaiti SC, STXingkai unavailable)
-\newfontfamily\xingkai{Kaiti SC}
-% \fangsong for poetry/literary quotes (仿宋 - imitation Song)
-\newfontfamily\fangsong{STFangsong}
-% \heiti for strong section titles (黑體 - bold)
-\newfontfamily\heiti{Heiti SC}
-% \stkaiti alternative calligraphy
-\newfontfamily\stkaiti{STKaiti}
-
-% Convenience macros for using these fonts
-\newcommand{\textkai}[1]{{\kaiti #1}}        % 用楷體 - elegant
-\newcommand{\textxing}[1]{{\xingkai #1}}     % 用行楷 - flowing
-\newcommand{\textfs}[1]{{\fangsong #1}}      % 用仿宋 - literary
-\newcommand{\texthei}[1]{{\heiti #1}}        % 用黑體 - strong
-
-%% Greek and Hebrew font support - auto-switch for Unicode blocks
+% CJK font - via ucharclasses Unicode block switching
 \usepackage{ucharclasses}
-\newfontfamily\greekfont{Times New Roman}[Script=Greek]
-\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
-\setTransitionsFor{Greek}{\greekfont}{\normalfont}
-\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
-\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+\newfontfamily\cjkfont{Droid Sans Fallback}[
+  BoldFont=Droid Sans Fallback,
+  ItalicFont=Droid Sans Fallback,
+  BoldItalicFont=Droid Sans Fallback
+]
+\newfontfamily\latinfont{TeX Gyre Pagella}        % Elegant Palatino-like serif
+\newfontfamily\latinsansfont{TeX Gyre Heros}      % Elegant Helvetica-like sans
+\newfontfamily\greekfont{DejaVu Serif}            % Full biblical Greek coverage incl. diacritics
+\newfontfamily\hebrewfont{DejaVu Sans}            % DejaVu Sans has full Hebrew coverage
 
-%% Enable CJK line breaking - critical for Chinese text
+% Carefully ordered transitions to handle CJK ↔ Latin and CJK ↔ CJK reliably.
+% Strategy:
+%   STEP 1: Set ALL CJK blocks with leave=\cjkfont so CJK→CJK transitions stay cjk
+%   STEP 2: Set Latin blocks with enter=\latinfont so Latin chars switch out
+%   STEP 3: Manually override CJK→Latin transitions to \latinfont (digits after Chinese)
+
+% STEP 1: ALL CJK blocks first — both directions stay in \cjkfont
+\setTransitionsFor{CJKUnifiedIdeographs}{\cjkfont}{\cjkfont}
+\setTransitionsFor{CJKUnifiedIdeographsExtensionA}{\cjkfont}{\cjkfont}
+\setTransitionsFor{CJKUnifiedIdeographsExtensionB}{\cjkfont}{\cjkfont}
+\setTransitionsFor{CJKSymbolsAndPunctuation}{\cjkfont}{\cjkfont}
+\setTransitionsFor{HalfwidthAndFullwidthForms}{\cjkfont}{\cjkfont}
+\setTransitionsFor{CJKCompatibility}{\cjkfont}{\cjkfont}
+\setTransitionsFor{CJKCompatibilityForms}{\cjkfont}{\cjkfont}
+\setTransitionsFor{CJKCompatibilityIdeographs}{\cjkfont}{\cjkfont}
+
+% STEP 2: Latin blocks AFTER CJK — entering Latin = \latinfont (correct for English chars)
+% This OVERRIDES CJK→Latin from step 1 (which was set to \cjkfont).
+% But that's fine because step 3 manually re-overrides specific CJK→Latin transitions.
+\setTransitionsFor{BasicLatin}{\latinfont}{\latinfont}
+\setTransitionsFor{LatinExtendedA}{\latinfont}{\latinfont}
+\setTransitionsFor{LatinExtendedB}{\latinfont}{\latinfont}
+\setTransitionsFor{LatinSupplement}{\latinfont}{\latinfont}
+
+% STEP 3: Manually fix specific transitions Latin→CJK that step 2 broke.
+% Step 2 (Latin call) overrode all Latin↔CJK to \latinfont. The CJK→Latin direction
+% (digit after Chinese) is correct as \latinfont. The Latin→CJK direction (Chinese
+% after digit) needs to be \cjkfont — fix it explicitly here.
+\XeTeXinterchartoks \csname BasicLatinClass\endcsname
+                    \csname CJKUnifiedIdeographsClass\endcsname = {\cjkfont}
+\XeTeXinterchartoks \csname BasicLatinClass\endcsname
+                    \csname CJKSymbolsAndPunctuationClass\endcsname = {\cjkfont}
+\XeTeXinterchartoks \csname BasicLatinClass\endcsname
+                    \csname HalfwidthAndFullwidthFormsClass\endcsname = {\cjkfont}
+\XeTeXinterchartoks \csname BasicLatinClass\endcsname
+                    \csname CJKUnifiedIdeographsExtensionAClass\endcsname = {\cjkfont}
+
+% STEP 4: Greek and Hebrew (last, overrides CJK↔Greek/Hebrew)
+\setTransitionsFor{GreekAndCoptic}{\greekfont}{\latinfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\latinfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\latinfont}
+
+% STEP 5: General punctuation (em-dash, ellipsis, bullet, etc.) — should use latinfont
+% Otherwise these end up looked up in cjkfont (Droid Sans Fallback) which lacks them.
+\setTransitionsFor{GeneralPunctuation}{\latinfont}{\latinfont}
+\setTransitionsFor{Arrows}{\latinfont}{\latinfont}
+\setTransitionsFor{LatinExtendedAdditional}{\latinfont}{\latinfont}
+
+% STEP 6: Re-fix specific transitions that step 5 broke (CJK chars after em-dash/ellipsis)
+\XeTeXinterchartoks \csname GeneralPunctuationClass\endcsname
+                    \csname CJKUnifiedIdeographsClass\endcsname = {\cjkfont}
+\XeTeXinterchartoks \csname GeneralPunctuationClass\endcsname
+                    \csname CJKUnifiedIdeographsExtensionAClass\endcsname = {\cjkfont}
+\XeTeXinterchartoks \csname GeneralPunctuationClass\endcsname
+                    \csname CJKSymbolsAndPunctuationClass\endcsname = {\cjkfont}
+\XeTeXinterchartoks \csname GeneralPunctuationClass\endcsname
+                    \csname HalfwidthAndFullwidthFormsClass\endcsname = {\cjkfont}
+% And the other direction: CJK → GeneralPunctuation should stay in latinfont (em-dash visible)
+\XeTeXinterchartoks \csname CJKUnifiedIdeographsClass\endcsname
+                    \csname GeneralPunctuationClass\endcsname = {\latinfont}
+\XeTeXinterchartoks \csname CJKSymbolsAndPunctuationClass\endcsname
+                    \csname GeneralPunctuationClass\endcsname = {\latinfont}
+\XeTeXinterchartoks \csname HalfwidthAndFullwidthFormsClass\endcsname
+                    \csname GeneralPunctuationClass\endcsname = {\latinfont}
+
+% STEP 7: Re-set LatinSupplement and Greek LAST so they override any prior conflicts
+% LatinSupplement chars (·, ©, ®, etc.) should always use latinfont
+\setTransitionsFor{LatinSupplement}{\latinfont}{\latinfont}
+% Greek transitions LAST so any↔Greek ends in greekfont
+\setTransitionsFor{GreekAndCoptic}{\greekfont}{\greekfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\greekfont}
+
+% Force TikZ nodes to start in cjkfont so CJK chars and full-width punctuation render
+% Latin characters in TikZ will switch to latinfont via ucharclasses transitions
+\AtBeginDocument{%
+  \tikzset{every node/.append style={execute at begin node={\cjkfont\upshape\selectfont}}}%
+  % Set default font to cjkfont so all text starts with CJK support; ucharclasses
+  % then transitions OUT to latinfont for ASCII runs (more reliable direction).
+  \cjkfont%
+}
+
+%% Enable CJK line breaking
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
 
@@ -153,10 +210,11 @@
 %% ============================================
 %% RED LETTER BIBLE COMMAND
 %% ============================================
-% Red letter Bible — Jesus's words.
-% On macOS, use Kaiti SC (楷體) for an elegant calligraphy brush feel.
-% \textit triggers Kaiti SC mapping (set above as ItalicFont of Songti SC).
-\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
+% Red letter Bible — Jesus's words. Linux note: italic CJK not available
+% (Droid Sans Fallback has no italic shape). \upshape resets any inherited italic
+% from outer scope; \cjkfont sets family; \selectfont commits the change before
+% any chars are typeset, so CJK chars in red contexts always render.
+\newcommand{\jesus}[1]{{\color{JesusRed}\upshape\cjkfont\selectfont #1}}
 
 %% ============================================
 %% LARGE VERSE NUMBERS FOR LECTERN READING
@@ -299,31 +357,31 @@
   % Left side (angles -90 to -270): rotate = -90 - angle (text reads left-to-right, flipped)
 
   % Advent (90-45, center=67.5) - RIGHT SIDE
-  \node[font=\scriptsize\bfseries, text=white, rotate=-22.5] at (67.5:3.6) {ADVENT 將臨期};
+  \node[font={\scriptsize\bfseries\cjkfont}, text=white, rotate=-22.5] at (67.5:3.6) {\cjkfont\upshape\selectfont ADVENT 將臨期};
 
   % Christmas (45-0, center=22.5) - RIGHT SIDE
-  \node[font=\scriptsize\bfseries, text=LiturgicalGold!80!black, rotate=-67.5] at (22.5:3.6) {CHRISTMAS 聖誕期};
+  \node[font={\scriptsize\bfseries\cjkfont}, text=LiturgicalGold!80!black, rotate=-67.5] at (22.5:3.6) {\cjkfont\upshape\selectfont CHRISTMAS 聖誕期};
 
   % Ordinary Time before Lent (0 to -45, center=-22.5) - BOTTOM RIGHT
-  \node[font=\scriptsize\bfseries, text=white, rotate=67.5] at (-22.5:3.6) {ORDINARY 常年期};
+  \node[font={\scriptsize\bfseries\cjkfont}, text=white, rotate=67.5] at (-22.5:3.6) {\cjkfont\upshape\selectfont ORDINARY 常年期};
 
   % Lent (-45 to -110, center=-77.5) - BOTTOM
-  \node[font=\scriptsize\bfseries, text=white, rotate=12.5] at (-77.5:3.6) {LENT 大齋期};
+  \node[font={\scriptsize\bfseries\cjkfont}, text=white, rotate=12.5] at (-77.5:3.6) {\cjkfont\upshape\selectfont LENT 大齋期};
 
   % Holy Week is too small for label (-110 to -130)
 
   % Easter (-130 to -200, center=-165) - LEFT SIDE (flip text direction)
-  \node[font=\scriptsize\bfseries, text=LiturgicalGold!80!black, rotate=105] at (-165:3.6) {EASTER 復活期};
+  \node[font={\scriptsize\bfseries\cjkfont}, text=LiturgicalGold!80!black, rotate=105] at (-165:3.6) {\cjkfont\upshape\selectfont EASTER 復活期};
 
   % Ordinary Time after Pentecost (-200 to -270, center=-235) - LEFT SIDE (rotated 90° clockwise)
-  \node[font=\scriptsize\bfseries, text=white, rotate=55] at (-235:3.6) {ORDINARY 常年期};
+  \node[font={\scriptsize\bfseries\cjkfont}, text=white, rotate=55] at (-235:3.6) {\cjkfont\upshape\selectfont ORDINARY 常年期};
 
   % Outer border
   \draw[LiturgicalGold, line width=2pt] (0,0) circle (\outerrad);
   \draw[LiturgicalGold, line width=1pt] (0,0) circle (\innerrad);
 
   % Title
-  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,-5.5) {THE LITURGICAL YEAR 教會年曆};
+  \node[font={\normalsize\bfseries\cjkfont}, text=LiturgicalRed] at (0,-5.5) {\cjkfont\upshape\selectfont THE LITURGICAL YEAR 教會年曆};
 
 \end{tikzpicture}
 }
@@ -340,47 +398,47 @@
   \fill[AdventBlue!70] (0,6) rectangle (0.8,6.7);
   \fill[LentPurple!60] (0.85,6) rectangle (1.6,6.7);
   \draw[black!50] (0,6) rectangle (1.6,6.7);
-  \node[font=\small\bfseries, right] at (1.8,6.35) {Violet/Purple};
-  \node[font=\small, right] at (4.5,6.35) {紫色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,6.35) {Advent, Lent 將臨期、大齋期};
+  \node[font={\small\bfseries\cjkfont}, right] at (1.8,6.35) {Violet/Purple};
+  \node[font={\small\cjkfont}, right] at (4.5,6.35) {\cjkfont\upshape\selectfont 紫色};
+  \node[font={\scriptsize\cjkfont}, right, text width=5.5cm] at (5.8,6.35) {\cjkfont\upshape\selectfont Advent, Lent 將臨期、大齋期};
 
   % Row 5 - White/Gold (Christmas and Easter)
   \fill[ChristmasWhite] (0,5.1) rectangle (1.6,5.8);
   \draw[LiturgicalGold, line width=1pt] (0,5.1) rectangle (1.6,5.8);
-  \node[font=\small\bfseries, right] at (1.8,5.45) {White (Gold)};
-  \node[font=\small, right] at (4.5,5.45) {白色金色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,5.45) {Christmas, Easter 聖誕、復活節};
+  \node[font={\small\bfseries\cjkfont}, right] at (1.8,5.45) {White (Gold)};
+  \node[font={\small\cjkfont}, right] at (4.5,5.45) {\cjkfont\upshape\selectfont 白色金色};
+  \node[font={\scriptsize\cjkfont}, right, text width=5.5cm] at (5.8,5.45) {\cjkfont\upshape\selectfont Christmas, Easter 聖誕、復活節};
 
   % Row 4 - Green (Ordinary Time)
   \fill[OrdinaryGreen!60] (0,4.2) rectangle (1.6,4.9);
   \draw[black!50] (0,4.2) rectangle (1.6,4.9);
-  \node[font=\small\bfseries, right] at (1.8,4.55) {Green};
-  \node[font=\small, right] at (4.5,4.55) {綠色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,4.55) {Ordinary Time 常年期};
+  \node[font={\small\bfseries\cjkfont}, right] at (1.8,4.55) {Green};
+  \node[font={\small\cjkfont}, right] at (4.5,4.55) {\cjkfont\upshape\selectfont 綠色};
+  \node[font={\scriptsize\cjkfont}, right, text width=5.5cm] at (5.8,4.55) {\cjkfont\upshape\selectfont Ordinary Time 常年期};
 
   % Row 3 - Red (Holy Week, Pentecost)
   \fill[HolyWeekRed!70] (0,3.3) rectangle (1.6,4.0);
   \draw[black!50] (0,3.3) rectangle (1.6,4.0);
-  \node[font=\small\bfseries, right] at (1.8,3.65) {Red};
-  \node[font=\small, right] at (4.5,3.65) {紅色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,3.65) {Holy Week, Pentecost 聖週、五旬節};
+  \node[font={\small\bfseries\cjkfont}, right] at (1.8,3.65) {Red};
+  \node[font={\small\cjkfont}, right] at (4.5,3.65) {\cjkfont\upshape\selectfont 紅色};
+  \node[font={\scriptsize\cjkfont}, right, text width=5.5cm] at (5.8,3.65) {\cjkfont\upshape\selectfont Holy Week, Pentecost 聖週、五旬節};
 
   % Row 2 - Black (Good Friday - optional)
   \fill[black] (0,2.4) rectangle (1.6,3.1);
   \draw[black!50] (0,2.4) rectangle (1.6,3.1);
-  \node[font=\small\bfseries, right] at (1.8,2.75) {Black};
-  \node[font=\small, right] at (4.5,2.75) {黑色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,2.75) {Good Friday 受難日};
+  \node[font={\small\bfseries\cjkfont}, right] at (1.8,2.75) {Black};
+  \node[font={\small\cjkfont}, right] at (4.5,2.75) {\cjkfont\upshape\selectfont 黑色};
+  \node[font={\scriptsize\cjkfont}, right, text width=5.5cm] at (5.8,2.75) {\cjkfont\upshape\selectfont Good Friday 受難日};
 
   % Row 1 - Rose
   \fill[pink] (0,1.5) rectangle (1.6,2.2);
   \draw[black!50] (0,1.5) rectangle (1.6,2.2);
-  \node[font=\small\bfseries, right] at (1.8,1.85) {Rose};
-  \node[font=\small, right] at (4.5,1.85) {玫瑰色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,1.85) {Gaudete, Laetare 喜樂主日};
+  \node[font={\small\bfseries\cjkfont}, right] at (1.8,1.85) {Rose};
+  \node[font={\small\cjkfont}, right] at (4.5,1.85) {\cjkfont\upshape\selectfont 玫瑰色};
+  \node[font={\scriptsize\cjkfont}, right, text width=5.5cm] at (5.8,1.85) {\cjkfont\upshape\selectfont Gaudete, Laetare 喜樂主日};
 
   % Title
-  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (5.5,7.3) {LITURGICAL COLORS 禮儀顏色};
+  \node[font={\normalsize\bfseries\cjkfont}, text=LiturgicalRed] at (5.5,7.3) {\cjkfont\upshape\selectfont LITURGICAL COLORS 禮儀顏色};
 
   % Border
   \draw[LiturgicalGold, line width=1.2pt] (-0.3,1.2) rectangle (12,7.7);
@@ -399,23 +457,23 @@
   % Year A
   \draw[LiturgicalRed, line width=3pt] (-2.8,0) circle (\rad);
   \fill[LiturgicalRed!20] (-2.8,0) circle (\rad);
-  \node[font=\Large\bfseries, text=LiturgicalRed] at (-2.8,0.6) {Year A};
-  \node[font=\normalsize] at (-2.8,0) {Matthew 馬太};
-  \node[font=\tiny\itshape] at (-2.8,-0.8) {2026, 2029...};
+  \node[font={\Large\bfseries\cjkfont}, text=LiturgicalRed] at (-2.8,0.6) {Year A};
+  \node[font={\normalsize\cjkfont}] at (-2.8,0) {\cjkfont\upshape\selectfont Matthew 馬太};
+  \node[font={\tiny\cjkfont}] at (-2.8,-0.8) {2026, 2029...};
 
   % Year B
   \draw[OrdinaryGreen!80!black, line width=3pt] (0,0) circle (\rad);
   \fill[OrdinaryGreen!20] (0,0) circle (\rad);
-  \node[font=\Large\bfseries, text=OrdinaryGreen!80!black] at (0,0.6) {Year B};
-  \node[font=\normalsize] at (0,0) {Mark 馬可};
-  \node[font=\tiny\itshape] at (0,-0.8) {2024, 2027...};
+  \node[font={\Large\bfseries\cjkfont}, text=OrdinaryGreen!80!black] at (0,0.6) {Year B};
+  \node[font={\normalsize\cjkfont}] at (0,0) {\cjkfont\upshape\selectfont Mark 馬可};
+  \node[font={\tiny\cjkfont}] at (0,-0.8) {2024, 2027...};
 
   % Year C
   \draw[LiturgicalBlue, line width=3pt] (2.8,0) circle (\rad);
   \fill[LiturgicalBlue!20] (2.8,0) circle (\rad);
-  \node[font=\Large\bfseries, text=LiturgicalBlue] at (2.8,0.6) {Year C};
-  \node[font=\normalsize] at (2.8,0) {Luke 路加};
-  \node[font=\tiny\itshape] at (2.8,-0.8) {2025, 2028...};
+  \node[font={\Large\bfseries\cjkfont}, text=LiturgicalBlue] at (2.8,0.6) {Year C};
+  \node[font={\normalsize\cjkfont}] at (2.8,0) {\cjkfont\upshape\selectfont Luke 路加};
+  \node[font={\tiny\cjkfont}] at (2.8,-0.8) {2025, 2028...};
 
   % Connecting arrows
   \draw[-{Stealth}, line width=1.5pt, gray] (-0.7,\rad*0.65) arc (125:55:1.4);
@@ -423,13 +481,13 @@
   \draw[-{Stealth}, line width=1.5pt, gray] (-2.8,-\rad-0.3) -- (-2.8,-\rad-0.7) -- (2.8,-\rad-0.7) -- (2.8,-\rad-0.3);
 
   % Note about John
-  \node[font=\footnotesize\itshape, text width=6cm, align=center] at (0,-3.8)
-       {The Gospel of John is read during Lent and Easter\\
+  \node[font={\footnotesize\cjkfont}, text width=6cm, align=center] at (0,-3.8)
+       {\cjkfont\upshape\selectfont The Gospel of John is read during Lent and Easter\\
         約翰福音在大齋期和復活期誦讀};
 
   % Title
-  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,3.3) {REVISED COMMON LECTIONARY};
-  \node[font=\small] at (0,2.8) {Three-Year Sunday Cycle 三年主日循環};
+  \node[font={\normalsize\bfseries\cjkfont}, text=LiturgicalRed] at (0,3.3) {REVISED COMMON LECTIONARY};
+  \node[font={\small\cjkfont}] at (0,2.8) {\cjkfont\upshape\selectfont Three-Year Sunday Cycle 三年主日循環};
 
 \end{tikzpicture}
 }
@@ -446,33 +504,33 @@
 
   % Hour markers
   \foreach \angle/\hour in {90/12, 60/1, 30/2, 0/3, -30/4, -60/5, -90/6, -120/7, -150/8, 180/9, 150/10, 120/11} {
-    \node[font=\small] at (\angle:2.8) {\hour};
+    \node[font={\small\cjkfont}] at (\angle:2.8) {\hour};
     \draw[gray] (\angle:2.5) -- (\angle:2.3);
   }
 
   % Office times (approximate)
   % Matins/Vigils - 3am
   \fill[AdventBlue!40] (0,0) -- (0:2.1) arc (0:-30:2.1) -- cycle;
-  \node[font=\tiny, text=AdventBlue] at (-15:1.6) {Matins 晨禱};
+  \node[font={\tiny\cjkfont}, text=AdventBlue] at (-15:1.6) {\cjkfont\upshape\selectfont Matins 晨禱};
 
   % Lauds - 6am
   \fill[LiturgicalGold!40] (0,0) -- (-90:2.1) arc (-90:-120:2.1) -- cycle;
-  \node[font=\tiny, text=LiturgicalGold!80!black] at (-105:1.6) {Lauds 讚美經};
+  \node[font={\tiny\cjkfont}, text=LiturgicalGold!80!black] at (-105:1.6) {\cjkfont\upshape\selectfont Lauds 讚美經};
 
   % Vespers - 6pm
   \fill[LiturgicalRed!30] (0,0) -- (-90:2.1) arc (-90:-70:2.1) -- cycle;
-  \node[font=\tiny, text=LiturgicalRed] at (-80:1.6) {Vespers 晚禱};
+  \node[font={\tiny\cjkfont}, text=LiturgicalRed] at (-80:1.6) {\cjkfont\upshape\selectfont Vespers 晚禱};
 
   % Compline - 9pm
   \fill[AdventBlue!30] (0,0) -- (-30:2.1) arc (-30:-50:2.1) -- cycle;
-  \node[font=\tiny, text=AdventBlue] at (-40:1.6) {Compline 夜禱};
+  \node[font={\tiny\cjkfont}, text=AdventBlue] at (-40:1.6) {\cjkfont\upshape\selectfont Compline 夜禱};
 
   % Clock center
   \fill[black] (0,0) circle (0.08);
 
   % Title
-  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,-4.2) {THE DAILY OFFICE 每日禮課};
-  \node[font=\footnotesize] at (0,-4.7) {Liturgy of the Hours 時辰禮儀};
+  \node[font={\normalsize\bfseries\cjkfont}, text=LiturgicalRed] at (0,-4.2) {\cjkfont\upshape\selectfont THE DAILY OFFICE 每日禮課};
+  \node[font={\footnotesize\cjkfont}] at (0,-4.7) {\cjkfont\upshape\selectfont Liturgy of the Hours 時辰禮儀};
 
 \end{tikzpicture}
 }
@@ -484,50 +542,50 @@
 % Optimized: width 12cm at scale 1.3 = 15.6cm, fits 15.9cm page width
 \begin{tikzpicture}[scale=1.3, transform shape]
   % Title - smaller font
-  \node[font=\normalsize\bfseries, text=LiturgicalBlue] at (5.5,6.5) {耶穌基督完整生平 七大時期};
-  \node[font=\small, text=TextGray] at (5.5,5.95) {The Complete Life of Jesus Christ · Seven Periods};
+  \node[font={\normalsize\bfseries\cjkfont}, text=LiturgicalBlue] at (5.5,6.5) {\cjkfont\upshape\selectfont 耶穌基督完整生平 七大時期};
+  \node[font={\small\cjkfont}, text=TextGray] at (5.5,5.95) {The Complete Life of Jesus Christ · Seven Periods};
 
   % Row 1: Prologue → Birth → Ministry → Holy Week (top row)
   \node[draw=LiturgicalGold,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.2cm,minimum height=0.85cm,font=\small\bfseries,
+        minimum width=2.2cm,minimum height=0.85cm,font={\small\bfseries\cjkfont},
         drop shadow={opacity=0.3}] (prologue) at (0,4.5) {序言};
-  \node[font=\scriptsize,color=LightGray] at (0,3.85) {Ch. 0};
+  \node[font={\scriptsize\cjkfont},color=LightGray] at (0,3.85) {Ch. 0};
 
   \node[draw=LiturgicalBlue,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.2cm,minimum height=0.85cm,font=\small\bfseries,
+        minimum width=2.2cm,minimum height=0.85cm,font={\small\bfseries\cjkfont},
         drop shadow={opacity=0.3}] (birth) at (2.75,4.5) {道成肉身};
-  \node[font=\scriptsize,color=LightGray] at (2.75,3.85) {Ch. 1-4};
+  \node[font={\scriptsize\cjkfont},color=LightGray] at (2.75,3.85) {Ch. 1-4};
 
   \node[draw=LiturgicalBlue,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.2cm,minimum height=0.85cm,font=\small\bfseries,
+        minimum width=2.2cm,minimum height=0.85cm,font={\small\bfseries\cjkfont},
         drop shadow={opacity=0.3}] (ministry) at (5.5,4.5) {加利利事工};
-  \node[font=\scriptsize,color=LightGray] at (5.5,3.85) {Ch. 5-15};
+  \node[font={\scriptsize\cjkfont},color=LightGray] at (5.5,3.85) {Ch. 5-15};
 
   \node[draw=LiturgicalBlue,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.2cm,minimum height=0.85cm,font=\small\bfseries,
+        minimum width=2.2cm,minimum height=0.85cm,font={\small\bfseries\cjkfont},
         drop shadow={opacity=0.3}] (jerusalem) at (8.25,4.5) {往耶路撒冷};
-  \node[font=\scriptsize,color=LightGray] at (8.25,3.85) {Ch. 16-24};
+  \node[font={\scriptsize\cjkfont},color=LightGray] at (8.25,3.85) {Ch. 16-24};
 
   % Row 2: Passion → Resurrection → Church → Glory (bottom row)
   \node[draw=JesusRed,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.2cm,minimum height=0.85cm,font=\small\bfseries,
+        minimum width=2.2cm,minimum height=0.85cm,font={\small\bfseries\cjkfont},
         drop shadow={opacity=0.3}] (passion) at (1.375,2.3) {受難週};
-  \node[font=\scriptsize,color=JesusRed] at (1.375,1.65) {Ch. 25-31};
+  \node[font={\scriptsize\cjkfont},color=JesusRed] at (1.375,1.65) {Ch. 25-31};
 
   \node[draw=LiturgicalGold,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.2cm,minimum height=0.85cm,font=\small\bfseries,
+        minimum width=2.2cm,minimum height=0.85cm,font={\small\bfseries\cjkfont},
         drop shadow={opacity=0.3}] (resurrection) at (4.125,2.3) {復活升天};
-  \node[font=\scriptsize,color=LiturgicalGold] at (4.125,1.65) {Ch. 32-34};
+  \node[font={\scriptsize\cjkfont},color=LiturgicalGold] at (4.125,1.65) {Ch. 32-34};
 
   \node[draw=PentecostRed,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.2cm,minimum height=0.85cm,font=\small\bfseries,
+        minimum width=2.2cm,minimum height=0.85cm,font={\small\bfseries\cjkfont},
         drop shadow={opacity=0.3}] (church) at (6.875,2.3) {教會誕生};
-  \node[font=\scriptsize,color=PentecostRed] at (6.875,1.65) {Ch. 35-36};
+  \node[font={\scriptsize\cjkfont},color=PentecostRed] at (6.875,1.65) {Ch. 35-36};
 
   \node[draw=LiturgicalGold,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.2cm,minimum height=0.85cm,font=\small\bfseries,
+        minimum width=2.2cm,minimum height=0.85cm,font={\small\bfseries\cjkfont},
         drop shadow={opacity=0.3}] (glory) at (9.625,2.3) {榮耀再臨};
-  \node[font=\scriptsize,color=LiturgicalGold] at (9.625,1.65) {Ch. 37};
+  \node[font={\scriptsize\cjkfont},color=LiturgicalGold] at (9.625,1.65) {Ch. 37};
 
   % Arrows - top row
   \draw[->,color=LiturgicalGold,line width=1.5pt] (prologue) -- (birth);
@@ -543,7 +601,7 @@
   \draw[->,color=LiturgicalGold,line width=1.5pt] (church) -- (glory);
 
   % Source note
-  \node[font=\scriptsize,color=TextGray,align=center] at (5.5,0.8) {整合四福音 + 使徒行傳 + 啟示錄\\The Total Gospel: Matthew, Mark, Luke, John, Acts \& Revelation};
+  \node[font={\scriptsize\cjkfont},color=TextGray,align=center] at (5.5,0.8) {\cjkfont\upshape\selectfont 整合四福音 + 使徒行傳 + 啟示錄\\The Total Gospel: Matthew, Mark, Luke, John, Acts \& Revelation};
 \end{tikzpicture}%
 }
 
@@ -558,29 +616,29 @@
   \draw[LiturgicalGold,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (13,6.0);
 
   % Title
-  \node[font=\Large\bfseries,color=LiturgicalBlue] at (6.35,5.5) {四福音概覽 Four Gospels Overview};
+  \node[font={\Large\bfseries\cjkfont},color=LiturgicalBlue] at (6.35,5.5) {\cjkfont\upshape\selectfont 四福音概覽 Four Gospels Overview};
 
   % Divider
   \draw[LiturgicalGold,line width=1pt] (0.2,5.0) -- (12.6,5.0);
 
   % Gospel details with symbols - larger font
-  \node[font=\normalsize\bfseries,anchor=west,color=LiturgicalRed] at (0.4,4.5) {獅 馬太 Matthew};
-  \node[font=\normalsize,anchor=west,color=TextGray] at (4.5,4.5) {基督是君王 Christ the King};
+  \node[font={\normalsize\bfseries\cjkfont},anchor=west,color=LiturgicalRed] at (0.4,4.5) {\cjkfont\upshape\selectfont 獅 馬太 Matthew};
+  \node[font={\normalsize\cjkfont},anchor=west,color=TextGray] at (4.5,4.5) {\cjkfont\upshape\selectfont 基督是君王 Christ the King};
 
-  \node[font=\normalsize\bfseries,anchor=west,color=LiturgicalRed] at (0.4,3.85) {牛 馬可 Mark};
-  \node[font=\normalsize,anchor=west,color=TextGray] at (4.5,3.85) {基督是僕人 Christ the Servant};
+  \node[font={\normalsize\bfseries\cjkfont},anchor=west,color=LiturgicalRed] at (0.4,3.85) {\cjkfont\upshape\selectfont 牛 馬可 Mark};
+  \node[font={\normalsize\cjkfont},anchor=west,color=TextGray] at (4.5,3.85) {\cjkfont\upshape\selectfont 基督是僕人 Christ the Servant};
 
-  \node[font=\normalsize\bfseries,anchor=west,color=LiturgicalRed] at (0.4,3.2) {人 路加 Luke};
-  \node[font=\normalsize,anchor=west,color=TextGray] at (4.5,3.2) {基督是人子 Christ the Son of Man};
+  \node[font={\normalsize\bfseries\cjkfont},anchor=west,color=LiturgicalRed] at (0.4,3.2) {\cjkfont\upshape\selectfont 人 路加 Luke};
+  \node[font={\normalsize\cjkfont},anchor=west,color=TextGray] at (4.5,3.2) {\cjkfont\upshape\selectfont 基督是人子 Christ the Son of Man};
 
-  \node[font=\normalsize\bfseries,anchor=west,color=LiturgicalRed] at (0.4,2.55) {鷹 約翰 John};
-  \node[font=\normalsize,anchor=west,color=TextGray] at (4.5,2.55) {基督是神子 Christ the Son of God};
+  \node[font={\normalsize\bfseries\cjkfont},anchor=west,color=LiturgicalRed] at (0.4,2.55) {\cjkfont\upshape\selectfont 鷹 約翰 John};
+  \node[font={\normalsize\cjkfont},anchor=west,color=TextGray] at (4.5,2.55) {\cjkfont\upshape\selectfont 基督是神子 Christ the Son of God};
 
   % Additional info
   \draw[LiturgicalGold,line width=0.5pt,dashed] (0.2,1.9) -- (12.6,1.9);
-  \node[font=\normalsize,anchor=west,color=TextGray] at (0.4,1.4) {本書整合四福音記載，呈現耶穌基督完整生平};
-  \node[font=\normalsize,anchor=west,color=TextGray] at (0.4,0.85) {This harmony integrates all four Gospels};
-  \node[font=\normalsize,anchor=west,color=TextGray] at (0.4,0.3) {to present the complete life of Jesus Christ};
+  \node[font={\normalsize\cjkfont},anchor=west,color=TextGray] at (0.4,1.4) {\cjkfont\upshape\selectfont 本書整合四福音記載，呈現耶穌基督完整生平};
+  \node[font={\normalsize\cjkfont},anchor=west,color=TextGray] at (0.4,0.85) {This harmony integrates all four Gospels};
+  \node[font={\normalsize\cjkfont},anchor=west,color=TextGray] at (0.4,0.3) {to present the complete life of Jesus Christ};
 \end{tikzpicture}%
 }
 
@@ -595,19 +653,19 @@
   \draw[LiturgicalGold,line width=1pt,rounded corners=5pt] (0,0) rectangle (11,5.2);
 
   % Title
-  \node[font=\normalsize\bfseries,color=LiturgicalBlue] at (5.5,4.7) {七個神蹟 Seven Signs (John)};
+  \node[font={\normalsize\bfseries\cjkfont},color=LiturgicalBlue] at (5.5,4.7) {\cjkfont\upshape\selectfont 七個神蹟 Seven Signs (John)};
 
   % Divider
   \draw[LiturgicalGold,line width=0.6pt] (0.3,4.2) -- (10.7,4.2);
 
   % Signs list
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,3.7) {1. 水變酒 Water to Wine (2:1-11)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,3.2) {2. 醫大臣之子 Healing Official's Son (4:46-54)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,2.7) {3. 醫畢士大池旁病人 Healing at Bethesda (5:1-15)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,2.2) {4. 五餅二魚 Feeding 5,000 (6:1-14)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,1.7) {5. 海面行走 Walking on Water (6:16-21)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,1.2) {6. 醫生來瞎眼的人 Healing Man Born Blind (9:1-41)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,0.7) {7. 拉撒路復活 Raising Lazarus (11:1-44)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,3.7) {\cjkfont\upshape\selectfont 1. 水變酒 Water to Wine (2:1-11)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,3.2) {\cjkfont\upshape\selectfont 2. 醫大臣之子 Healing Official's Son (4:46-54)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,2.7) {\cjkfont\upshape\selectfont 3. 醫畢士大池旁病人 Healing at Bethesda (5:1-15)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,2.2) {\cjkfont\upshape\selectfont 4. 五餅二魚 Feeding 5,000 (6:1-14)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,1.7) {\cjkfont\upshape\selectfont 5. 海面行走 Walking on Water (6:16-21)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,1.2) {\cjkfont\upshape\selectfont 6. 醫生來瞎眼的人 Healing Man Born Blind (9:1-41)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,0.7) {\cjkfont\upshape\selectfont 7. 拉撒路復活 Raising Lazarus (11:1-44)};
 \end{tikzpicture}%
 }
 
@@ -622,19 +680,19 @@
   \draw[LiturgicalBlue,line width=1pt,rounded corners=5pt] (0,0) rectangle (11,5.2);
 
   % Title
-  \node[font=\normalsize\bfseries,color=JesusRed] at (5.5,4.7) {七個「我是」 Seven "I AM" (John)};
+  \node[font={\normalsize\bfseries\cjkfont},color=JesusRed] at (5.5,4.7) {\cjkfont\upshape\selectfont 七個「我是」 Seven "I AM" (John)};
 
   % Divider
   \draw[LiturgicalBlue,line width=0.6pt] (0.3,4.2) -- (10.7,4.2);
 
   % I AM statements
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,3.7) {1. 生命的糧 Bread of Life (6:35)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,3.2) {2. 世界的光 Light of the World (8:12)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,2.7) {3. 羊的門 Door of the Sheep (10:7)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,2.2) {4. 好牧人 Good Shepherd (10:11)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,1.7) {5. 復活和生命 Resurrection and Life (11:25)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,1.2) {6. 道路、真理、生命 Way, Truth, Life (14:6)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,0.7) {7. 真葡萄樹 True Vine (15:1)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,3.7) {\cjkfont\upshape\selectfont 1. 生命的糧 Bread of Life (6:35)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,3.2) {\cjkfont\upshape\selectfont 2. 世界的光 Light of the World (8:12)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,2.7) {\cjkfont\upshape\selectfont 3. 羊的門 Door of the Sheep (10:7)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,2.2) {\cjkfont\upshape\selectfont 4. 好牧人 Good Shepherd (10:11)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,1.7) {\cjkfont\upshape\selectfont 5. 復活和生命 Resurrection and Life (11:25)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,1.2) {\cjkfont\upshape\selectfont 6. 道路、真理、生命 Way, Truth, Life (14:6)};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,0.7) {\cjkfont\upshape\selectfont 7. 真葡萄樹 True Vine (15:1)};
 \end{tikzpicture}%
 }
 
@@ -650,91 +708,91 @@
   % Mediterranean Sea (left strip)
   \fill[WaterBlue] (0,0) rectangle (2.5,14);
   \draw[SeaDark,line width=1pt] (2.5,0) -- (2.5,14);
-  \node[font=\small,color=LiturgicalBlue,rotate=90] at (1.25,7) {Mediterranean Sea 地中海};
+  \node[font={\small\cjkfont},color=LiturgicalBlue,rotate=90] at (1.25,7) {\cjkfont\upshape\selectfont Mediterranean Sea 地中海};
 
   % Sea of Galilee
   \fill[WaterBlue] (10,11) ellipse (1.4 and 1.6);
   \draw[SeaDark,line width=0.8pt] (10,11) ellipse (1.4 and 1.6);
-  \node[font=\small,color=SeaDark] at (10,11.3) {Sea of Galilee};
-  \node[font=\small,color=SeaDark] at (10,10.6) {加利利海};
+  \node[font={\small\cjkfont},color=SeaDark] at (10,11.3) {Sea of Galilee};
+  \node[font={\small\cjkfont},color=SeaDark] at (10,10.6) {\cjkfont\upshape\selectfont 加利利海};
 
   % Jordan River
   \draw[WaterBlue,line width=3pt] (10,9.4)
     .. controls (9.5,8) and (10,7) .. (9.7,6)
     .. controls (9.4,5) and (9.8,4) .. (9.5,3)
     .. controls (9.3,2) and (9.6,1.5) .. (9.5,1);
-  \node[font=\small,color=SeaDark,rotate=-70] at (10.5,6.5) {Jordan 約旦河};
+  \node[font={\small\cjkfont},color=SeaDark,rotate=-70] at (10.5,6.5) {\cjkfont\upshape\selectfont Jordan 約旦河};
 
   % Dead Sea
   \fill[WaterBlue!70!SeaDark] (9.5,0.8) ellipse (1.0 and 1.1);
   \draw[SeaDark,line width=0.8pt] (9.5,0.8) ellipse (1.0 and 1.1);
-  \node[font=\small,color=white] at (9.5,1) {Dead Sea};
-  \node[font=\small,color=white] at (9.5,0.5) {死海};
+  \node[font={\small\cjkfont},color=white] at (9.5,1) {Dead Sea};
+  \node[font={\small\cjkfont},color=white] at (9.5,0.5) {\cjkfont\upshape\selectfont 死海};
 
   % ========== KEY LOCATIONS FOR GOSPEL HARMONY ==========
 
   % Nazareth - Childhood (top left area)
   \fill[LiturgicalGold] (5,12) circle (0.2);
   \draw[LiturgicalGold,line width=1pt] (5,12) circle (0.32);
-  \node[font=\normalsize\bfseries,left,color=LiturgicalBlue] at (4.6,12) {Nazareth 拿撒勒};
-  \node[font=\small,left,color=TextGray] at (4.6,11.5) {Childhood 童年};
+  \node[font={\normalsize\bfseries\cjkfont},left,color=LiturgicalBlue] at (4.6,12) {\cjkfont\upshape\selectfont Nazareth 拿撒勒};
+  \node[font={\small\cjkfont},left,color=TextGray] at (4.6,11.5) {\cjkfont\upshape\selectfont Childhood 童年};
 
   % Cana (between Nazareth and Capernaum)
   \fill[LiturgicalGold] (7,12.8) circle (0.16);
-  \node[font=\small,above,color=TextGray] at (7,13) {Cana 迦拿};
+  \node[font={\small\cjkfont},above,color=TextGray] at (7,13) {\cjkfont\upshape\selectfont Cana 迦拿};
 
   % Capernaum - Ministry Base (near Sea of Galilee)
   \fill[LiturgicalGold] (12,12) circle (0.2);
   \draw[LiturgicalGold,line width=1pt] (12,12) circle (0.32);
-  \node[font=\normalsize\bfseries,right,color=LiturgicalBlue] at (12.4,12) {Capernaum};
-  \node[font=\small,right,color=TextGray] at (12.4,11.5) {迦百農};
+  \node[font={\normalsize\bfseries\cjkfont},right,color=LiturgicalBlue] at (12.4,12) {Capernaum};
+  \node[font={\small\cjkfont},right,color=TextGray] at (12.4,11.5) {\cjkfont\upshape\selectfont 迦百農};
 
   % Sychar (Samaria) - mid region
   \fill[LiturgicalGold] (5.5,7.5) circle (0.16);
-  \node[font=\small,left,color=TextGray] at (5.2,7.5) {Sychar 敘加};
-  \node[font=\scriptsize,left,color=TextGray] at (5.2,7) {Samaritan Woman};
+  \node[font={\small\cjkfont},left,color=TextGray] at (5.2,7.5) {\cjkfont\upshape\selectfont Sychar 敘加};
+  \node[font={\scriptsize\cjkfont},left,color=TextGray] at (5.2,7) {Samaritan Woman};
 
   % JERUSALEM - Central focus (prominent)
   \fill[JesusRed] (6.5,4.5) circle (0.28);
   \draw[JesusRed,line width=2pt] (6.5,4.5) circle (0.45);
-  \node[font=\large\bfseries,left,color=JesusRed] at (6,4.5) {JERUSALEM};
-  \node[font=\normalsize,left,color=JesusRed] at (6,3.9) {耶路撒冷};
+  \node[font={\large\bfseries\cjkfont},left,color=JesusRed] at (6,4.5) {JERUSALEM};
+  \node[font={\normalsize\cjkfont},left,color=JesusRed] at (6,3.9) {\cjkfont\upshape\selectfont 耶路撒冷};
 
   % Golgotha cross near Jerusalem
-  \node[font=\large,color=JesusRed] at (7.8,4.8) {\ensuremath{\dagger}};
+  \node[font={\large\cjkfont},color=JesusRed] at (7.8,4.8) {\ensuremath{\dagger}};
 
   % Bethlehem - Birth (south of Jerusalem)
   \fill[LiturgicalGold] (5.8,2.8) circle (0.2);
   \draw[LiturgicalGold,line width=1pt] (5.8,2.8) circle (0.32);
-  \node[font=\normalsize\bfseries,left,color=LiturgicalBlue] at (5.4,2.8) {Bethlehem 伯利恆};
-  \node[font=\small,left,color=TextGray] at (5.4,2.3) {Birth of Jesus 主降生};
+  \node[font={\normalsize\bfseries\cjkfont},left,color=LiturgicalBlue] at (5.4,2.8) {\cjkfont\upshape\selectfont Bethlehem 伯利恆};
+  \node[font={\small\cjkfont},left,color=TextGray] at (5.4,2.3) {\cjkfont\upshape\selectfont Birth of Jesus 主降生};
 
   % Bethany (east of Jerusalem)
   \fill[LiturgicalGold] (11.5,4.5) circle (0.16);
-  \node[font=\small,right,color=TextGray] at (11.8,4.5) {Bethany 伯大尼};
+  \node[font={\small\cjkfont},right,color=TextGray] at (11.8,4.5) {\cjkfont\upshape\selectfont Bethany 伯大尼};
 
   % Jericho (on the way to Jerusalem)
   \fill[LiturgicalGold] (11,6) circle (0.14);
-  \node[font=\small,right,color=TextGray] at (11.3,6) {Jericho 耶利哥};
+  \node[font={\small\cjkfont},right,color=TextGray] at (11.3,6) {\cjkfont\upshape\selectfont Jericho 耶利哥};
 
   % ========== COMPASS ==========
   \draw[->,very thick,color=LiturgicalBlue] (14,13) -- (14,13.7);
-  \node[font=\normalsize\bfseries,color=LiturgicalBlue] at (14,13.9) {N};
+  \node[font={\normalsize\bfseries\cjkfont},color=LiturgicalBlue] at (14,13.9) {N};
 
   % ========== SCALE ==========
   \draw[very thick,color=TextGray] (5,0.3) -- (9,0.3);
   \draw[thick,color=TextGray] (5,0.1) -- (5,0.5);
   \draw[thick,color=TextGray] (9,0.1) -- (9,0.5);
-  \node[font=\small,color=TextGray] at (7,-0.1) {50 km / 30 miles};
+  \node[font={\small\cjkfont},color=TextGray] at (7,-0.1) {50 km / 30 miles};
 
   % ========== LEGEND ==========
   \fill[ScriptureBg,rounded corners=5pt] (0.2,12.8) rectangle (4.5,14);
   \draw[LiturgicalGold,line width=1pt,rounded corners=5pt] (0.2,12.8) rectangle (4.5,14);
-  \node[font=\small\bfseries,color=LiturgicalBlue] at (2.35,13.7) {Legend 圖例};
+  \node[font={\small\bfseries\cjkfont},color=LiturgicalBlue] at (2.35,13.7) {\cjkfont\upshape\selectfont Legend 圖例};
   \fill[JesusRed] (0.5,13.3) circle (0.1);
-  \node[font=\scriptsize,right,color=TextGray] at (0.75,13.3) {Jerusalem 聖城};
+  \node[font={\scriptsize\cjkfont},right,color=TextGray] at (0.75,13.3) {\cjkfont\upshape\selectfont Jerusalem 聖城};
   \fill[LiturgicalGold] (0.5,12.95) circle (0.08);
-  \node[font=\scriptsize,right,color=TextGray] at (0.75,12.95) {Key Location 重要地點};
+  \node[font={\scriptsize\cjkfont},right,color=TextGray] at (0.75,12.95) {\cjkfont\upshape\selectfont Key Location 重要地點};
 \end{tikzpicture}%
 }
 
@@ -745,32 +803,32 @@
 \begin{tikzpicture}[scale=1.0, transform shape]
   % Main structure
   \node[rectangle, draw=LiturgicalRed, fill=LiturgicalRed!20,
-        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        minimum width=5cm, minimum height=0.8cm, font={\small\bfseries\cjkfont}]
         (sursum) at (0,6) {Sursum Corda 舉心向上};
 
   \node[rectangle, draw=LiturgicalGold, fill=LiturgicalGold!20,
-        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        minimum width=5cm, minimum height=0.8cm, font={\small\bfseries\cjkfont}]
         (preface) at (0,5) {Preface 頌謝文};
 
   \node[rectangle, draw=LiturgicalRed, fill=LiturgicalRed!20,
-        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        minimum width=5cm, minimum height=0.8cm, font={\small\bfseries\cjkfont}]
         (sanctus) at (0,4) {Sanctus 聖哉頌};
 
   \node[rectangle, draw=LiturgicalBlue, fill=LiturgicalBlue!20,
-        minimum width=5cm, minimum height=1.2cm, font=\small\bfseries,
+        minimum width=5cm, minimum height=1.2cm, font={\small\bfseries\cjkfont},
         text width=4.5cm, align=center]
         (eucharist) at (0,2.7) {Eucharistic Prayer\\感恩經};
 
   \node[rectangle, draw=LiturgicalRed, fill=LiturgicalRed!20,
-        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        minimum width=5cm, minimum height=0.8cm, font={\small\bfseries\cjkfont}]
         (mystery) at (0,1.4) {Mystery of Faith 信德奧蹟};
 
   \node[rectangle, draw=LiturgicalGold, fill=LiturgicalGold!20,
-        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        minimum width=5cm, minimum height=0.8cm, font={\small\bfseries\cjkfont}]
         (doxology) at (0,0.4) {Great Doxology 光榮頌};
 
   \node[rectangle, draw=LiturgicalRed, fill=LiturgicalRed!20,
-        minimum width=5cm, minimum height=0.8cm, font=\small\bfseries]
+        minimum width=5cm, minimum height=0.8cm, font={\small\bfseries\cjkfont}]
         (amen) at (0,-0.6) {Great Amen 阿們};
 
   % Connecting lines
@@ -782,16 +840,16 @@
   \draw[line width=1pt, gray] (doxology) -- (amen);
 
   % Labels
-  \node[font=\tiny\itshape, right] at (2.8,6) {``Lift up your hearts''};
-  \node[font=\tiny\itshape, right] at (2.8,5) {Proper to season};
-  \node[font=\tiny\itshape, right] at (2.8,4) {``Holy, Holy, Holy''};
-  \node[font=\tiny\itshape, right] at (2.8,2.7) {``This is my Body...''};
-  \node[font=\tiny\itshape, right] at (2.8,1.4) {``Christ has died...''};
-  \node[font=\tiny\itshape, right] at (2.8,0.4) {``Through him...''};
-  \node[font=\tiny\itshape, right] at (2.8,-0.6) {People's Amen};
+  \node[font={\tiny\cjkfont}, right] at (2.8,6) {``Lift up your hearts''};
+  \node[font={\tiny\cjkfont}, right] at (2.8,5) {Proper to season};
+  \node[font={\tiny\cjkfont}, right] at (2.8,4) {``Holy, Holy, Holy''};
+  \node[font={\tiny\cjkfont}, right] at (2.8,2.7) {``This is my Body...''};
+  \node[font={\tiny\cjkfont}, right] at (2.8,1.4) {``Christ has died...''};
+  \node[font={\tiny\cjkfont}, right] at (2.8,0.4) {``Through him...''};
+  \node[font={\tiny\cjkfont}, right] at (2.8,-0.6) {People's Amen};
 
   % Title
-  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,7.2) {EUCHARISTIC PRAYER 感恩經結構};
+  \node[font={\normalsize\bfseries\cjkfont}, text=LiturgicalRed] at (0,7.2) {\cjkfont\upshape\selectfont EUCHARISTIC PRAYER 感恩經結構};
 
 \end{tikzpicture}
 }
@@ -829,35 +887,35 @@
     14.5/{新天新地}/{永恆}/{Eternity}
   } {
     \fill[LiturgicalRed] (\x,0) circle (0.12);
-    \node[font=\tiny, above, text width=1.3cm, align=center] at (\x,0.3) {\event};
-    \node[font=\tiny, below, color=LightGray] at (\x,-0.3) {\year};
+    \node[font={\tiny\cjkfont}, above, text width=1.3cm, align=center] at (\x,0.3) {\event};
+    \node[font={\tiny\cjkfont}, below, color=LightGray] at (\x,-0.3) {\year};
   }
 
   % Era labels
-  \node[font=\footnotesize\bfseries, color=AdventBlue] at (1.25,1.5) {創造與墮落};
-  \node[font=\tiny, color=AdventBlue] at (1.25,1.1) {Creation \& Fall};
+  \node[font={\footnotesize\bfseries\cjkfont}, color=AdventBlue] at (1.25,1.5) {\cjkfont\upshape\selectfont 創造與墮落};
+  \node[font={\tiny\cjkfont}, color=AdventBlue] at (1.25,1.1) {Creation \& Fall};
 
-  \node[font=\footnotesize\bfseries, color=OrdinaryGreen!80!black] at (4,1.5) {族長與律法};
-  \node[font=\tiny, color=OrdinaryGreen!80!black] at (4,1.1) {Patriarchs \& Law};
+  \node[font={\footnotesize\bfseries\cjkfont}, color=OrdinaryGreen!80!black] at (4,1.5) {\cjkfont\upshape\selectfont 族長與律法};
+  \node[font={\tiny\cjkfont}, color=OrdinaryGreen!80!black] at (4,1.1) {Patriarchs \& Law};
 
-  \node[font=\footnotesize\bfseries, color=LentPurple] at (6.75,1.5) {王國與先知};
-  \node[font=\tiny, color=LentPurple] at (6.75,1.1) {Kingdom \& Prophets};
+  \node[font={\footnotesize\bfseries\cjkfont}, color=LentPurple] at (6.75,1.5) {\cjkfont\upshape\selectfont 王國與先知};
+  \node[font={\tiny\cjkfont}, color=LentPurple] at (6.75,1.1) {Kingdom \& Prophets};
 
-  \node[font=\footnotesize\bfseries, color=JesusRed] at (9.25,1.5) {道成肉身};
-  \node[font=\tiny, color=JesusRed] at (9.25,1.1) {Incarnation};
+  \node[font={\footnotesize\bfseries\cjkfont}, color=JesusRed] at (9.25,1.5) {\cjkfont\upshape\selectfont 道成肉身};
+  \node[font={\tiny\cjkfont}, color=JesusRed] at (9.25,1.1) {Incarnation};
 
-  \node[font=\footnotesize\bfseries, color=LiturgicalBlue] at (11.75,1.5) {教會時代};
-  \node[font=\tiny, color=LiturgicalBlue] at (11.75,1.1) {Church Age};
+  \node[font={\footnotesize\bfseries\cjkfont}, color=LiturgicalBlue] at (11.75,1.5) {\cjkfont\upshape\selectfont 教會時代};
+  \node[font={\tiny\cjkfont}, color=LiturgicalBlue] at (11.75,1.1) {Church Age};
 
-  \node[font=\footnotesize\bfseries, color=LiturgicalGold] at (14,1.5) {永恆國度};
-  \node[font=\tiny, color=LiturgicalGold] at (14,1.1) {Eternal Kingdom};
+  \node[font={\footnotesize\bfseries\cjkfont}, color=LiturgicalGold] at (14,1.5) {\cjkfont\upshape\selectfont 永恆國度};
+  \node[font={\tiny\cjkfont}, color=LiturgicalGold] at (14,1.1) {Eternal Kingdom};
 
   % Title
-  \node[font=\normalsize\bfseries, color=LiturgicalRed] at (7.5,-2.5) {GOD'S SALVATION HISTORY 神救贖歷史時間軸};
+  \node[font={\normalsize\bfseries\cjkfont}, color=LiturgicalRed] at (7.5,-2.5) {\cjkfont\upshape\selectfont GOD'S SALVATION HISTORY 神救贖歷史時間軸};
 
   % Key scripture references
-  \node[font=\tiny, color=TextGray, text width=14cm, align=center] at (7.5,-3.2)
-    {創1:1 創造 → 創3 墮落 → 創12 亞伯拉罕之約 → 出20 律法 → 撒下7 大衛之約 → 賽53 受苦僕人 → 約1:14 道成肉身 → 徒2 五旬節 → 啟21 新天新地};
+  \node[font={\tiny\cjkfont}, color=TextGray, text width=14cm, align=center] at (7.5,-3.2)
+    {\cjkfont\upshape\selectfont 創1:1 創造 → 創3 墮落 → 創12 亞伯拉罕之約 → 出20 律法 → 撒下7 大衛之約 → 賽53 受苦僕人 → 約1:14 道成肉身 → 徒2 五旬節 → 啟21 新天新地};
 
 \end{tikzpicture}
 }
@@ -870,23 +928,23 @@
 \begin{tikzpicture}[scale=1.0, transform shape]
   % Act boxes
   \node[rectangle, draw=LiturgicalGold, fill=LiturgicalGold!20,
-        minimum width=2.2cm, minimum height=1.5cm, font=\small\bfseries,
+        minimum width=2.2cm, minimum height=1.5cm, font={\small\bfseries\cjkfont},
         rounded corners=5pt, text width=2cm, align=center] (act1) at (0,0) {Act I\\創造};
 
   \node[rectangle, draw=JesusRed, fill=JesusRed!15,
-        minimum width=2.2cm, minimum height=1.5cm, font=\small\bfseries,
+        minimum width=2.2cm, minimum height=1.5cm, font={\small\bfseries\cjkfont},
         rounded corners=5pt, text width=2cm, align=center] (act2) at (3,0) {Act II\\墮落};
 
   \node[rectangle, draw=LiturgicalBlue, fill=LiturgicalBlue!15,
-        minimum width=2.2cm, minimum height=1.5cm, font=\small\bfseries,
+        minimum width=2.2cm, minimum height=1.5cm, font={\small\bfseries\cjkfont},
         rounded corners=5pt, text width=2cm, align=center] (act3) at (6,0) {Act III\\以色列};
 
   \node[rectangle, draw=JesusRed, fill=JesusRed!25,
-        minimum width=2.2cm, minimum height=1.5cm, font=\small\bfseries,
+        minimum width=2.2cm, minimum height=1.5cm, font={\small\bfseries\cjkfont},
         rounded corners=5pt, text width=2cm, align=center] (act4) at (9,0) {Act IV\\基督};
 
   \node[rectangle, draw=OrdinaryGreen!80!black, fill=OrdinaryGreen!20,
-        minimum width=2.2cm, minimum height=1.5cm, font=\small\bfseries,
+        minimum width=2.2cm, minimum height=1.5cm, font={\small\bfseries\cjkfont},
         rounded corners=5pt, text width=2cm, align=center] (act5) at (12,0) {Act V\\教會};
 
   % Arrows
@@ -896,18 +954,18 @@
   \draw[->, line width=1.5pt, JesusRed] (act4) -- (act5);
 
   % Scripture references below
-  \node[font=\tiny, color=TextGray] at (0,-1.2) {創1-2};
-  \node[font=\tiny, color=TextGray] at (3,-1.2) {創3-11};
-  \node[font=\tiny, color=TextGray] at (6,-1.2) {創12-瑪};
-  \node[font=\tiny, color=TextGray] at (9,-1.2) {四福音};
-  \node[font=\tiny, color=TextGray] at (12,-1.2) {徒-啟};
+  \node[font={\tiny\cjkfont}, color=TextGray] at (0,-1.2) {\cjkfont\upshape\selectfont 創1-2};
+  \node[font={\tiny\cjkfont}, color=TextGray] at (3,-1.2) {\cjkfont\upshape\selectfont 創3-11};
+  \node[font={\tiny\cjkfont}, color=TextGray] at (6,-1.2) {\cjkfont\upshape\selectfont 創12-瑪};
+  \node[font={\tiny\cjkfont}, color=TextGray] at (9,-1.2) {\cjkfont\upshape\selectfont 四福音};
+  \node[font={\tiny\cjkfont}, color=TextGray] at (12,-1.2) {\cjkfont\upshape\selectfont 徒-啟};
 
   % Future/Consummation arrow
   \draw[->, line width=1.5pt, LiturgicalGold, dashed] (act5.east) -- ++(1.5,0)
-    node[right, font=\small\bfseries, color=LiturgicalGold] {永恆 Eternity};
+    node[right, font={\small\bfseries\cjkfont}, color=LiturgicalGold] {永恆 Eternity};
 
   % Title
-  \node[font=\normalsize\bfseries, color=LiturgicalRed] at (6,2) {THE BIBLICAL DRAMA 聖經五幕劇};
+  \node[font={\normalsize\bfseries\cjkfont}, color=LiturgicalRed] at (6,2) {\cjkfont\upshape\selectfont THE BIBLICAL DRAMA 聖經五幕劇};
 
 \end{tikzpicture}
 }
@@ -915,46 +973,43 @@
 %% ============================================
 %% ACTS: GOSPEL OF THE SPIRIT
 %% 使徒行傳：聖靈的福音
+%% Reimplemented with regular LaTeX (mdframed-style box) for reliable CJK rendering
 %% ============================================
 \newcommand{\actsgospelspirit}{%
-\begin{tikzpicture}[scale=1.0, transform shape]
-  % Background - compact height (reduced bottom margin)
-  \fill[ScriptureBg,rounded corners=8pt] (-0.3,0.2) rectangle (12.5,6.8);
-  \draw[LiturgicalBlue,line width=1.5pt,rounded corners=8pt] (-0.3,0.2) rectangle (12.5,6.8);
+\begin{center}
+\fcolorbox{LiturgicalBlue}{ScriptureBg}{%
+\begin{minipage}{6.0in}
+\vspace{0.2cm}
+\begin{center}
+{\cjkfont\large\bfseries\color{LiturgicalBlue} 使徒行傳：聖靈的福音}\\[0.1em]
+{\cjkfont\small\color{TextGray} Acts: The Gospel of the Holy Spirit}
+\end{center}
+\textcolor{LiturgicalBlue}{\rule{\linewidth}{0.5pt}}\\[0.3em]
+{\cjkfont\small\bfseries\color{JesusRed} 徒 1:8 關鍵經文 Key Verse:}\\[0.2em]
+{\cjkfont\small\color{TextGray} 「但聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒瑪利亞，直到地極，作我的見證。」}\\[0.5em]
+\textcolor{LiturgicalGold}{\hrule height 0.4pt}
+\vspace{0.4em}
 
-  % Title
-  \node[font=\large\bfseries,color=LiturgicalBlue] at (6.1,6.3) {使徒行傳：聖靈的福音};
-  \node[font=\small,color=TextGray] at (6.1,5.8) {Acts: The Gospel of the Holy Spirit};
+\noindent\begin{minipage}[t]{0.48\linewidth}
+{\cjkfont\footnotesize\bfseries\color{LiturgicalBlue} 結構 Structure:}\\
+{\cjkfont\footnotesize\color{TextGray} 1-7章: 耶路撒冷 Jerusalem}\\
+{\cjkfont\footnotesize\color{TextGray} 8-12章: 猶太和撒瑪利亞 Judea \& Samaria}\\
+{\cjkfont\footnotesize\color{TextGray} 13-28章: 地極 Ends of the Earth}
+\end{minipage}\hfill
+\begin{minipage}[t]{0.48\linewidth}
+{\cjkfont\footnotesize\bfseries\color{LiturgicalBlue} 主題 Themes:}\\
+{\cjkfont\footnotesize\color{TextGray} 聖靈能力 Power of Spirit}\\
+{\cjkfont\footnotesize\color{TextGray} 福音擴展 Gospel Expansion}\\
+{\cjkfont\footnotesize\color{TextGray} 教會建立 Church Planting}
+\end{minipage}\\[0.5em]
 
-  % Divider (blue line under title)
-  \draw[LiturgicalBlue,line width=0.8pt] (0.2,5.4) -- (12.0,5.4);
-
-  % Key verse header
-  \node[font=\small\bfseries,anchor=west,color=JesusRed] at (0.3,5.0) {徒 1:8 關鍵經文 Key Verse:};
-
-  % Key verse content - single line
-  \node[font=\small,anchor=north west,color=TextGray,text width=11.5cm] at (0.3,4.6)
-    {「但聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒瑪利亞，直到地極，作我的見證。」};
-
-  % Divider (gold dashed line) - more space above it
-  \draw[LiturgicalGold,line width=0.5pt,dashed] (0.2,3.2) -- (12.0,3.2);
-
-  % Two-column layout - moved up slightly
-  % Left column - Structure
-  \node[font=\footnotesize\bfseries,anchor=west,color=LiturgicalBlue] at (0.3,2.8) {結構 Structure:};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (0.3,2.35) {1-7章: 耶路撒冷 Jerusalem};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (0.3,1.9) {8-12章: 猶太和撒瑪利亞 Judea \& Samaria};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (0.3,1.45) {13-28章: 地極 Ends of the Earth};
-
-  % Right column - Themes
-  \node[font=\footnotesize\bfseries,anchor=west,color=LiturgicalBlue] at (6.8,2.8) {主題 Themes:};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (6.8,2.35) {聖靈能力 Power of Spirit};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (6.8,1.9) {福音擴展 Gospel Expansion};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (6.8,1.45) {教會建立 Church Planting};
-
-  % Bottom note - closer to content
-  \node[font=\scriptsize\itshape,color=LightGray] at (6.1,0.6) {路加福音的續篇 — 從基督升天到保羅在羅馬};
-\end{tikzpicture}%
+\begin{center}
+{\cjkfont\scriptsize\color{LightGray} 路加福音的續篇 --- 從基督升天到保羅在羅馬}
+\end{center}
+\vspace{0.2cm}
+\end{minipage}%
+}
+\end{center}
 }
 
 %% ============================================
@@ -969,39 +1024,39 @@
   \draw[LiturgicalGold,line width=2pt,rounded corners=8pt] (-0.3,-0.3) rectangle (12.5,7.5);
 
   % Title
-  \node[font=\large\bfseries,color=LiturgicalGold] at (6.1,7.0) {啟示錄：榮耀再來};
-  \node[font=\small,color=TextGray] at (6.1,6.5) {Revelation: The Glorious Return};
+  \node[font={\large\bfseries\cjkfont},color=LiturgicalGold] at (6.1,7.0) {\cjkfont\upshape\selectfont 啟示錄：榮耀再來};
+  \node[font={\small\cjkfont},color=TextGray] at (6.1,6.5) {Revelation: The Glorious Return};
 
   % Divider
   \draw[LiturgicalGold,line width=0.8pt] (0.2,6.1) -- (12.0,6.1);
 
   % Key verse
-  \node[font=\small\bfseries,anchor=west,color=JesusRed] at (0.3,5.7) {啟22:20};
-  \node[font=\small\itshape,anchor=west,color=JesusRed,text width=11cm] at (0.3,5.2)
-    {「是的，我必快來！」阿們！主耶穌啊，我願你來！};
-  \node[font=\small,anchor=west,color=TextGray] at (0.3,4.7)
+  \node[font={\small\bfseries\cjkfont},anchor=west,color=JesusRed] at (0.3,5.7) {\cjkfont\upshape\selectfont 啟22:20};
+  \node[font={\small\cjkfont},anchor=west,color=JesusRed,text width=11cm] at (0.3,5.2)
+    {\cjkfont\upshape\selectfont 「是的，我必快來！」阿們！主耶穌啊，我願你來！};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.3,4.7)
     {"Surely I am coming soon." Amen. Come, Lord Jesus!};
 
   % Structure columns
   \draw[LiturgicalGold,line width=0.5pt,dashed] (0.2,4.2) -- (12.0,4.2);
 
-  % Left column - Structure
-  \node[font=\footnotesize\bfseries,anchor=west,color=LiturgicalBlue] at (0.3,3.75) {七教會 Seven Churches (1-3)};
-  \node[font=\footnotesize\bfseries,anchor=west,color=LiturgicalBlue] at (0.3,3.3) {七印七號 Seals \& Trumpets (4-11)};
-  \node[font=\footnotesize\bfseries,anchor=west,color=LiturgicalBlue] at (0.3,2.85) {龍與獸 Dragon \& Beast (12-14)};
-  \node[font=\footnotesize\bfseries,anchor=west,color=LiturgicalBlue] at (0.3,2.4) {七碗審判 Seven Bowls (15-16)};
-  \node[font=\footnotesize\bfseries,anchor=west,color=LiturgicalBlue] at (0.3,1.95) {巴比倫傾覆 Babylon Falls (17-18)};
-  \node[font=\footnotesize\bfseries,anchor=west,color=JesusRed] at (0.3,1.5) {基督得勝 Christ Victorious (19-20)};
-  \node[font=\footnotesize\bfseries,anchor=west,color=LiturgicalGold] at (0.3,1.05) {新天新地 New Heaven \& Earth (21-22)};
+  % Left column - Structure (narrower text width to prevent overflow into right column)
+  \node[font={\footnotesize\bfseries\cjkfont},anchor=west,color=LiturgicalBlue,text width=8.5cm] at (0.3,3.75) {\cjkfont\upshape\selectfont 七教會 Seven Churches (1-3)};
+  \node[font={\footnotesize\bfseries\cjkfont},anchor=west,color=LiturgicalBlue,text width=8.5cm] at (0.3,3.3) {\cjkfont\upshape\selectfont 七印七號 Seals \& Trumpets (4-11)};
+  \node[font={\footnotesize\bfseries\cjkfont},anchor=west,color=LiturgicalBlue,text width=8.5cm] at (0.3,2.85) {\cjkfont\upshape\selectfont 龍與獸 Dragon \& Beast (12-14)};
+  \node[font={\footnotesize\bfseries\cjkfont},anchor=west,color=LiturgicalBlue,text width=8.5cm] at (0.3,2.4) {\cjkfont\upshape\selectfont 七碗審判 Seven Bowls (15-16)};
+  \node[font={\footnotesize\bfseries\cjkfont},anchor=west,color=LiturgicalBlue,text width=8.5cm] at (0.3,1.95) {\cjkfont\upshape\selectfont 巴比倫傾覆 Babylon Falls (17-18)};
+  \node[font={\footnotesize\bfseries\cjkfont},anchor=west,color=JesusRed,text width=8.5cm] at (0.3,1.5) {\cjkfont\upshape\selectfont 基督得勝 Christ Victorious (19-20)};
+  \node[font={\footnotesize\bfseries\cjkfont},anchor=west,color=LiturgicalGold,text width=8.5cm] at (0.3,1.05) {\cjkfont\upshape\selectfont 新天新地 New Heaven \& Earth (21-22)};
 
-  % Right column - Themes (moved further right to prevent overlap with left column's last line)
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (9.5,3.75) {悔改與忠心};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (9.5,3.3) {天上敬拜};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (9.5,2.85) {屬靈爭戰};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (9.5,2.4) {神的公義};
-  \node[font=\footnotesize,anchor=west,color=TextGray] at (9.5,1.95) {世界體系};
-  \node[font=\footnotesize,anchor=west,color=JesusRed] at (9.5,1.5) {萬王之王};
-  \node[font=\footnotesize,anchor=west,color=LiturgicalGold] at (9.5,1.05) {永恆國度};
+  % Right column - Themes (moved further right to give left column more room)
+  \node[font={\footnotesize\cjkfont},anchor=west,color=TextGray] at (9.5,3.75) {\cjkfont\upshape\selectfont 悔改與忠心};
+  \node[font={\footnotesize\cjkfont},anchor=west,color=TextGray] at (9.5,3.3) {\cjkfont\upshape\selectfont 天上敬拜};
+  \node[font={\footnotesize\cjkfont},anchor=west,color=TextGray] at (9.5,2.85) {\cjkfont\upshape\selectfont 屬靈爭戰};
+  \node[font={\footnotesize\cjkfont},anchor=west,color=TextGray] at (9.5,2.4) {\cjkfont\upshape\selectfont 神的公義};
+  \node[font={\footnotesize\cjkfont},anchor=west,color=TextGray] at (9.5,1.95) {\cjkfont\upshape\selectfont 世界體系};
+  \node[font={\footnotesize\cjkfont},anchor=west,color=JesusRed] at (9.5,1.5) {\cjkfont\upshape\selectfont 萬王之王};
+  \node[font={\footnotesize\cjkfont},anchor=west,color=LiturgicalGold] at (9.5,1.05) {\cjkfont\upshape\selectfont 永恆國度};
 
 \end{tikzpicture}%
 }
@@ -1017,35 +1072,35 @@
   % Old Testament section (width: 7.3cm, x: 0 to 7.3)
   \fill[AdventBlue!15,rounded corners=8pt] (0,0) rectangle (7.3,5.5);
   \draw[AdventBlue,line width=2pt,rounded corners=8pt] (0,0) rectangle (7.3,5.5);
-  \node[font=\normalsize\bfseries,color=AdventBlue] at (3.65,4.8) {舊約 Old Testament (39)};
+  \node[font={\normalsize\bfseries\cjkfont},color=AdventBlue] at (3.65,4.8) {\cjkfont\upshape\selectfont 舊約 Old Testament (39)};
 
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,4.0) {律法書 Torah (5): 創出利民申};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.2) {歷史書 History (12): 書-斯};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.4) {詩歌智慧 Poetry (5): 伯詩箴傳歌};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.6) {大先知 Major Prophets (5): 賽耶哀結但};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.8) {小先知 Minor Prophets (12): 何-瑪};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.2,4.0) {\cjkfont\upshape\selectfont 律法書 Torah (5): 創出利民申};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.2,3.2) {\cjkfont\upshape\selectfont 歷史書 History (12): 書-斯};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.2,2.4) {\cjkfont\upshape\selectfont 詩歌智慧 Poetry (5): 伯詩箴傳歌};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.2,1.6) {\cjkfont\upshape\selectfont 大先知 Major Prophets (5): 賽耶哀結但};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (0.2,0.8) {\cjkfont\upshape\selectfont 小先知 Minor Prophets (12): 何-瑪};
 
   % New Testament section (width: 6cm, x: 9.3 to 15.3)
   \fill[JesusRed!15,rounded corners=8pt] (9.3,0) rectangle (15.3,5.5);
   \draw[JesusRed,line width=2pt,rounded corners=8pt] (9.3,0) rectangle (15.3,5.5);
-  \node[font=\normalsize\bfseries,color=JesusRed] at (12.3,4.8) {新約 New Testament (27)};
+  \node[font={\normalsize\bfseries\cjkfont},color=JesusRed] at (12.3,4.8) {\cjkfont\upshape\selectfont 新約 New Testament (27)};
 
-  \node[font=\small,anchor=west,color=TextGray] at (9.5,4.0) {福音書 Gospels (4): 太可路約};
-  \node[font=\small,anchor=west,color=TextGray] at (9.5,3.2) {歷史 History (1): 使徒行傳};
-  \node[font=\small,anchor=west,color=TextGray] at (9.5,2.4) {保羅書信 Pauline (13): 羅-門};
-  \node[font=\small,anchor=west,color=TextGray] at (9.5,1.6) {一般書信 General (8): 來-猶};
-  \node[font=\small,anchor=west,color=TextGray] at (9.5,0.8) {預言 Prophecy (1): 啟示錄};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (9.5,4.0) {\cjkfont\upshape\selectfont 福音書 Gospels (4): 太可路約};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (9.5,3.2) {\cjkfont\upshape\selectfont 歷史 History (1): 使徒行傳};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (9.5,2.4) {\cjkfont\upshape\selectfont 保羅書信 Pauline (13): 羅-門};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (9.5,1.6) {\cjkfont\upshape\selectfont 一般書信 General (8): 來-猶};
+  \node[font={\small\cjkfont},anchor=west,color=TextGray] at (9.5,0.8) {\cjkfont\upshape\selectfont 預言 Prophecy (1): 啟示錄};
 
   % Connection arrow (gap: 7.3 to 9.3 = 2cm)
   \draw[->,line width=4pt,LiturgicalGold] (7.3,2.75) -- (9.3,2.75);
-  \node[font=\small\bfseries,color=LiturgicalGold] at (8.3,2.0) {基督};
+  \node[font={\small\bfseries\cjkfont},color=LiturgicalGold] at (8.3,2.0) {\cjkfont\upshape\selectfont 基督};
 
   % Total (centered at 7.65)
-  \node[font=\small\bfseries,color=LiturgicalBlue] at (7.65,-0.6) {66卷書 · 40+作者 · 1500+年 · 一個故事};
-  \node[font=\scriptsize,color=TextGray] at (7.65,-1.1) {66 Books · 40+ Authors · 1500+ Years · One Story};
+  \node[font={\small\bfseries\cjkfont},color=LiturgicalBlue] at (7.65,-0.6) {\cjkfont\upshape\selectfont 66卷書 · 40+作者 · 1500+年 · 一個故事};
+  \node[font={\scriptsize\cjkfont},color=TextGray] at (7.65,-1.1) {66 Books · 40+ Authors · 1500+ Years · One Story};
 
   % Title (centered at 7.65)
-  \node[font=\large\bfseries,color=LiturgicalRed] at (7.65,6.3) {THE HOLY BIBLE 聖經正典};
+  \node[font={\large\bfseries\cjkfont},color=LiturgicalRed] at (7.65,6.3) {\cjkfont\upshape\selectfont THE HOLY BIBLE 聖經正典};
 
 \end{tikzpicture}
 }
@@ -1107,8 +1162,8 @@
     \vskip 10pt
     {\color{LiturgicalGold}\rule{4in}{2pt}}
   }
-  \setlength{\beforechapskip}{30pt}
-  \setlength{\afterchapskip}{35pt}
+  \setlength{\beforechapskip}{60pt}
+  \setlength{\afterchapskip}{40pt}
 }
 \chapterstyle{liturgical}
 
@@ -1200,7 +1255,6 @@ $endif$
 % HOLY COVER PAGE — Concept A: Classic Cross
 % Full-bleed parchment with central cross,
 % halo rays, INRI plaque, gold borders.
-% Mac edition uses Kaiti SC for the title brush.
 % ============================================
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture, overlay]
@@ -1216,7 +1270,7 @@ $endif$
     ([xshift=0.55in,yshift=0.55in]current page.south west)
     rectangle
     ([xshift=-0.55in,yshift=-0.55in]current page.north east);
-  % Corner ornaments
+  % Corner ornaments (small gold diamonds)
   \foreach \cnr in {south west, south east, north west, north east} {
     \fill[LiturgicalGold, rotate around={45:([xshift=0pt]current page.\cnr)}]
       ([xshift=0.5in,yshift=0.5in]current page.\cnr) rectangle
@@ -1228,9 +1282,9 @@ $endif$
 \vspace*{0.55in}
 
 % Top motif — series identifier
-{\footnotesize\scshape\color{LiturgicalBlue}
+{\footnotesize\scshape\color{LiturgicalBlue}\latinfont\selectfont
 Three Books Deep Reading \textbullet\ Liturgical Edition}\\[0.15cm]
-{\footnotesize\color{TextGray}
+{\footnotesize\color{TextGray}\cjkfont\upshape\selectfont
 三書精讀 \textbullet\ 禮儀誦讀版}
 
 \vspace{0.35cm}
@@ -1247,7 +1301,7 @@ Three Books Deep Reading \textbullet\ Liturgical Edition}\\[0.15cm]
 \vspace{0.45cm}
 
 % Series subtitle
-{\fontsize{14}{16}\selectfont\itshape\color{TextGray}
+{\fontsize{14}{16}\selectfont\itshape\color{TextGray}\latinfont\selectfont
 A Gospel Harmony of Matthew, Mark, Luke \& John}
 
 \vspace{0.7cm}
@@ -1292,16 +1346,16 @@ A Gospel Harmony of Matthew, Mark, Luke \& John}
 
 \vspace{0.55cm}
 
-% Main title — Chinese in calligraphy (Kaiti)
-{\fontsize{40}{46}\selectfont\bfseries\color{LiturgicalRed}\kaiti\selectfont
+% Main title — Chinese
+{\fontsize{40}{46}\selectfont\bfseries\color{LiturgicalRed}\cjkfont\upshape\selectfont
 耶穌基督}\\[0.15cm]
-{\fontsize{26}{30}\selectfont\bfseries\color{LiturgicalBlue}\kaiti\selectfont
+{\fontsize{26}{30}\selectfont\bfseries\color{LiturgicalBlue}\cjkfont\upshape\selectfont
 完整生平}
 
 \vspace{0.3cm}
 
 % Main title — English
-{\fontsize{20}{24}\selectfont\scshape\color{LiturgicalBlue}
+{\fontsize{20}{24}\selectfont\scshape\color{LiturgicalBlue}\latinfont\selectfont
 The Complete Life of Jesus Christ}
 
 \vspace{0.4cm}
@@ -1313,9 +1367,9 @@ The Complete Life of Jesus Christ}
 % Greek motto — Jesus's last word
 {\fontsize{16}{20}\selectfont\itshape\color{TextGray}\greekfont\selectfont
 Τετέλεσται}\\[0.1em]
-{\small\itshape\color{TextGray}
+{\small\itshape\color{TextGray}\latinfont\selectfont
 ``It is finished'' \textperiodcentered{} 成了}\\[0.05em]
-{\footnotesize\color{LiturgicalBlue}
+{\footnotesize\color{LiturgicalBlue}\latinfont\selectfont
 \textemdash\ John 19:30 \textemdash}
 
 \vfill
@@ -1325,13 +1379,13 @@ The Complete Life of Jesus Christ}
 \begin{minipage}{4.5in}
 \centering
 \vspace{0.2cm}
-{\small\color{JesusRed}\kaiti\selectfont
+{\small\color{JesusRed}\cjkfont\upshape\selectfont
 「我從父出來，到了世界；我又離開世界，往父那裡去。」}\\[0.15em]
-{\footnotesize\itshape\color{TextGray}
+{\footnotesize\itshape\color{TextGray}\latinfont\selectfont
 ``I came forth from the Father and have come into the world.\\
 Again, I leave the world and go to the Father.''}\\[0.15em]
-{\footnotesize\color{LiturgicalBlue} 約 16:28} \;
-{\footnotesize\color{LiturgicalBlue}\itshape John 16:28}
+{\footnotesize\color{LiturgicalBlue}\cjkfont\upshape\selectfont 約 16:28} \;
+{\footnotesize\color{LiturgicalBlue}\itshape\latinfont\selectfont John 16:28}
 \vspace{0.2cm}
 \end{minipage}}
 
@@ -1346,8 +1400,8 @@ Again, I leave the world and go to the Father.''}\\[0.15em]
 
 \vspace{0.25cm}
 
-{\footnotesize\scshape\color{LiturgicalBlue} Soli Deo Gloria}\\[0.05em]
-{\footnotesize\color{TextGray} 唯獨榮耀神}
+{\footnotesize\scshape\color{LiturgicalBlue}\latinfont\selectfont Soli Deo Gloria}\\[0.05em]
+{\footnotesize\color{TextGray}\cjkfont\upshape\selectfont 唯獨榮耀神}
 
 \vspace{0.55in}
 \end{center}
@@ -1377,22 +1431,22 @@ Again, I leave the world and go to the Father.''}\\[0.15em]
 % Gold line with cross
 \begin{tikzpicture}
   \draw[LiturgicalGold, line width=1.5pt] (-3,0) -- (-0.3,0);
-  \node[color=LiturgicalGold, font=\small] at (0,0) {\ensuremath{\dagger}};
+  \node[color=LiturgicalGold, font={\small\cjkfont}] at (0,0) {\ensuremath{\dagger}};
   \draw[LiturgicalGold, line width=1.5pt] (0.3,0) -- (3,0);
 \end{tikzpicture}
 
 \vspace{0.5cm}
 
-% Key verse box
+% Key verse box - explicit cjkfont + upshape on Chinese, italic only on English
 \fcolorbox{LiturgicalGold}{ScriptureBg}{%
 \begin{minipage}{4.5in}
 \centering
 \vspace{0.25cm}
-\large\itshape\color{TextGray}
-\jesus{「認識你——獨一的真神，\\並且認識你所差來的耶穌基督，這就是永生。」}\\[0.1em]
-\normalsize And this is eternal life, that they know you,\\
+{\large\color{JesusRed}\cjkfont\upshape\selectfont
+「認識你——獨一的真神，\\並且認識你所差來的耶穌基督，這就是永生。」}\\[0.1em]
+{\normalsize\color{TextGray}\itshape\latinfont\selectfont And this is eternal life, that they know you,\\
 the only true God, and Jesus Christ whom you have sent.\\
-— John 17:3
+— John 17:3}
 \vspace{0.25cm}
 \end{minipage}
 }
@@ -1433,20 +1487,22 @@ $endif$
 
 % ============================================
 % FRONTISPIECE: Christ's "Resume" — John 16:28
-% The framework verse for the entire book.
-% On macOS: Kaiti SC for the verse (calligraphy brush style).
-% Redesigned with TikZ liturgical cross + elegant layout.
+% The framework verse for the entire book
+% Redesigned with TikZ liturgical cross + elegant layout
 % ============================================
 \thispagestyle{empty}
 \begin{center}
 \vspace*{0.4in}
 
-% Top decorative liturgical cross (TikZ-drawn)
+% Top decorative liturgical cross (TikZ-drawn for guaranteed rendering)
 \begin{tikzpicture}
+  % Decorative golden frame above
   \draw[LiturgicalGold, line width=0.8pt] (-2.5,0.3) -- (-0.6,0.3);
   \draw[LiturgicalGold, line width=0.8pt] (0.6,0.3) -- (2.5,0.3);
-  \draw[LiturgicalRed, line width=2.2pt] (0,-0.55) -- (0,0.65);
-  \draw[LiturgicalRed, line width=2.2pt] (-0.32,0.30) -- (0.32,0.30);
+  % Liturgical cross with crossbeam
+  \draw[LiturgicalRed, line width=2.2pt] (0,-0.55) -- (0,0.65);    % vertical
+  \draw[LiturgicalRed, line width=2.2pt] (-0.32,0.30) -- (0.32,0.30); % horizontal
+  % Small flares at top and bottom of cross
   \fill[LiturgicalGold] (0,0.65) circle (0.05);
   \fill[LiturgicalGold] (0,-0.55) circle (0.05);
 \end{tikzpicture}
@@ -1454,49 +1510,53 @@ $endif$
 \vspace{0.4cm}
 
 % Title
-{\fontsize{26}{30}\selectfont\bfseries\color{LiturgicalRed} 基督的履歷}\\[0.25cm]
-{\fontsize{18}{22}\selectfont\scshape\color{LiturgicalBlue} Christ's Resume}\\[0.3cm]
-{\normalsize\color{TextGray}\itshape \textemdash\ One Verse · Whole Life \textemdash}
+{\fontsize{26}{30}\selectfont\bfseries\color{LiturgicalRed}\cjkfont\upshape\selectfont 基督的履歷}\\[0.25cm]
+{\fontsize{18}{22}\selectfont\scshape\color{LiturgicalBlue}\latinfont\selectfont Christ's Resume}\\[0.3cm]
+{\normalsize\color{TextGray}\itshape\latinfont\selectfont \textemdash\ One Verse · Whole Life \textemdash}
 
 \vspace{0.5cm}
 
+% Decorative gold flourish
 \textcolor{LiturgicalGold}{\rule{3.5in}{1pt}}
 
 \vspace{0.7cm}
 
-% Key verse box - Kaiti SC for elegant calligraphy on macOS
+% Key verse box - decorated with corner ornaments
 \fcolorbox{LiturgicalGold}{ScriptureBg}{%
 \begin{minipage}{5.2in}
 \centering
 \vspace{0.5cm}
+% Cross ornament at top of verse box
 \begin{tikzpicture}
   \draw[LiturgicalGold, line width=1.5pt] (0,-0.18) -- (0,0.18);
   \draw[LiturgicalGold, line width=1.5pt] (-0.12,0.08) -- (0.12,0.08);
 \end{tikzpicture}\\[0.3em]
 
-% The verse — Kaiti SC calligraphy brush style on Mac
-{\fontsize{16}{22}\selectfont\color{JesusRed}\kaiti
+% The verse — large, elegant
+{\fontsize{16}{22}\selectfont\color{JesusRed}\cjkfont\upshape\selectfont
 「我從父出來，到了世界；\\[0.15em]我又離開世界，往父那裡去。」}\\[0.6em]
 
-{\normalsize\color{TextGray}\itshape
+{\normalsize\color{TextGray}\itshape\latinfont\selectfont
 ``I came forth from the Father and have come into the world.\\
 Again, I leave the world and go to the Father.''}\\[0.3em]
 
 \textcolor{LiturgicalGold}{\rule{2in}{0.3pt}}\\[0.2em]
 
-{\small\color{LiturgicalBlue} 約翰福音 16:28} \;
-{\small\color{LiturgicalBlue}\itshape John 16:28}
+{\small\color{LiturgicalBlue}\cjkfont\upshape\selectfont 約翰福音 16:28} \;
+{\small\color{LiturgicalBlue}\itshape\latinfont\selectfont John 16:28}
 \vspace{0.5cm}
 \end{minipage}
 }
 
 \vspace{0.8cm}
 
-{\large\bfseries\color{LiturgicalBlue} 24 個字 · 4 個動詞 · 整部生平}\\[0.15cm]
-{\small\color{TextGray}\itshape 24 Characters · 4 Verbs · One Whole Life}
+% Subtitle for the table
+{\large\bfseries\color{LiturgicalBlue}\cjkfont\upshape\selectfont 24 個字 · 4 個動詞 · 整部生平}\\[0.15cm]
+{\small\color{TextGray}\itshape\latinfont\selectfont 24 Characters · 4 Verbs · One Whole Life}
 
 \vspace{0.5cm}
 
+% The four-fold arc table - clean and centered
 \noindent\begin{minipage}{5.5in}
 \centering
 \renewcommand{\arraystretch}{1.5}
@@ -1507,31 +1567,34 @@ Again, I leave the world and go to the Father.''}\\[0.3em]
 \textcolor{LiturgicalRed}{\bfseries 階段 / Stage} &
 \textcolor{LiturgicalRed}{\bfseries 章 / Chapter} \\
 \midrule
-\textbf{1} & {\kaiti\bfseries 我從父出來} & {\itshape Pre-existence}\,\,永恆 & \textbf{Ch 0} \\
-\textbf{2} & {\kaiti\bfseries 到了世界} & {\itshape Incarnation}\,\,道成肉身 & \textbf{Ch 1-4} \\
-\textbf{3} & {\kaiti\bfseries 我又離開世界} & {\itshape Passion}\,\,受難復活 & \textbf{Ch 25-32} \\
-\textbf{4} & {\kaiti\bfseries 往父那裡去} & {\itshape Ascension}\,\,升天歸榮 & \textbf{Ch 34} \\
+\textbf{1} & {\cjkfont\bfseries 我從父出來} & {\itshape\latinfont Pre-existence}\,\,永恆 & \textbf{Ch 0} \\
+\textbf{2} & {\cjkfont\bfseries 到了世界} & {\itshape\latinfont Incarnation}\,\,道成肉身 & \textbf{Ch 1-4} \\
+\textbf{3} & {\cjkfont\bfseries 我又離開世界} & {\itshape\latinfont Passion}\,\,受難復活 & \textbf{Ch 25-32} \\
+\textbf{4} & {\cjkfont\bfseries 往父那裡去} & {\itshape\latinfont Ascension}\,\,升天歸榮 & \textbf{Ch 34} \\
 \bottomrule
 \end{tabular}
 \end{minipage}
 
 \vspace{0.8cm}
 
-{\small\color{TextGray}\itshape
+% Closing reflection
+{\small\color{TextGray}\itshape\cjkfont\upshape\selectfont
 本書 37 章是這節經文的展開。}\\[0.1em]
-{\small\color{TextGray}\itshape
+{\small\color{TextGray}\itshape\latinfont\selectfont
 This book's 37 chapters unfold this single verse.}
 
 \vspace{0.6cm}
 
-{\footnotesize\color{LiturgicalBlue} 完整解讀：第 26 章 馬可樓講論}\\[0.1em]
-{\footnotesize\color{LiturgicalBlue}\itshape Full exposition: Chapter 26, The Upper Room Discourse}
+% Reference note
+{\footnotesize\color{LiturgicalBlue}\cjkfont\upshape\selectfont 完整解讀：第 26 章 馬可樓講論}\\[0.1em]
+{\footnotesize\color{LiturgicalBlue}\itshape\latinfont\selectfont Full exposition: Chapter 26, The Upper Room Discourse}
 
 \vfill
 
-% Bottom decoration with proper TikZ cross
+% Bottom decoration — TikZ liturgical cross with extending lines
 \begin{tikzpicture}
   \draw[LiturgicalGold, line width=1.2pt] (-2.5,0) -- (-0.5,0);
+  % Liturgical cross
   \draw[LiturgicalRed, line width=1.8pt] (0,-0.30) -- (0,0.30);
   \draw[LiturgicalRed, line width=1.8pt] (-0.18,0.10) -- (0.18,0.10);
   \draw[LiturgicalGold, line width=1.2pt] (0.5,0) -- (2.5,0);
@@ -1539,7 +1602,7 @@ This book's 37 chapters unfold this single verse.}
 
 \vspace{0.3cm}
 
-{\tiny\color{TextGray}\itshape Soli Deo Gloria}
+{\tiny\color{TextGray}\itshape\latinfont\selectfont Soli Deo Gloria}
 
 \end{center}
 \cleardoublepage
@@ -2017,7 +2080,6 @@ $body$
 % BACK COVER PAGE — Concept A matching design
 % Parchment, "It is finished" header, the Seven
 % Sayings panel, John 3:30 closing — single page.
-% Mac edition uses Kaiti SC for verse / Chinese.
 % ============================================
 \cleardoublepage
 \pagestyle{empty}
@@ -2045,9 +2107,9 @@ $body$
 % Greek climactic word
 {\fontsize{28}{32}\selectfont\bfseries\color{LiturgicalRed}\greekfont\selectfont
 Τετέλεσται}\\[0.10cm]
-{\fontsize{15}{18}\selectfont\scshape\color{LiturgicalBlue}
+{\fontsize{15}{18}\selectfont\scshape\color{LiturgicalBlue}\latinfont\selectfont
 ``It is finished''} \;\;
-{\fontsize{15}{18}\selectfont\bfseries\color{LiturgicalRed}\kaiti\selectfont
+{\fontsize{15}{18}\selectfont\bfseries\color{LiturgicalRed}\cjkfont\upshape\selectfont
 成了}
 
 \vspace{0.20cm}
@@ -2057,20 +2119,20 @@ $body$
 \vspace{0.30cm}
 
 % About this book
-{\normalsize\bfseries\color{LiturgicalBlue}\kaiti\selectfont
+{\normalsize\bfseries\color{LiturgicalBlue}\cjkfont\upshape\selectfont
 關於本書} \;\;
-{\footnotesize\scshape\color{LiturgicalBlue} About This Book}
+{\footnotesize\scshape\color{LiturgicalBlue}\latinfont\selectfont About This Book}
 
 \vspace{0.18cm}
 
 \noindent\begin{minipage}{4.7in}
 \footnotesize\color{TextGray}
-{本書將馬太、馬可、路加、約翰四福音
+{\cjkfont\upshape\selectfont 本書將馬太、馬可、路加、約翰四福音
 合編為三十七章的完整生平，按禮儀年節期編排，
 中英對照（和合本修訂版／NKJV），以紅字凸顯耶穌的話語。
 全書以約翰福音 16:28 為總綱：
 從父出來、到了世界、離開世界、往父那裡去。}\\[0.4em]
-{\itshape
+{\itshape\latinfont\selectfont
 A 37-chapter harmony of Matthew, Mark, Luke, and John,
 arranged by the liturgical year. Bilingual (RCUV / NKJV)
 Red-Letter format. Framed by John 16:28's four-fold arc:
@@ -2084,14 +2146,15 @@ from the Father, into the world, out of the world, back to the Father.}
 \begin{minipage}{4.7in}
 \centering
 \vspace{0.18cm}
+% Mini-cross ornament
 \begin{tikzpicture}
   \draw[LiturgicalRed, line width=1.4pt] (0,-0.15) -- (0,0.17);
   \draw[LiturgicalRed, line width=1.4pt] (-0.11,0.06) -- (0.11,0.06);
 \end{tikzpicture}\\[0.10em]
 
-{\normalsize\bfseries\color{LiturgicalRed}\kaiti\selectfont
+{\normalsize\bfseries\color{LiturgicalRed}\cjkfont\upshape\selectfont
 架上七言} \;\;
-{\footnotesize\scshape\color{LiturgicalBlue}
+{\footnotesize\scshape\color{LiturgicalBlue}\latinfont\selectfont
 Seven Sayings from the Cross}\\[0.20em]
 
 \textcolor{LiturgicalGold}{\rule{1.4in}{0.3pt}}\\[0.20em]
@@ -2100,13 +2163,13 @@ Seven Sayings from the Cross}\\[0.20em]
 \footnotesize\color{TextGray}
 \renewcommand{\arraystretch}{1.10}
 \begin{tabular}{@{}r@{\ \ }p{3.5in}@{}}
-\textbf{1.} & 父啊，赦免他們 \;{\itshape Forgive them} \;\textcolor{LightGray}{(路 23:34)}\\
-\textbf{2.} & 你今日要同我在樂園裡 \;{\itshape In Paradise} \;\textcolor{LightGray}{(路 23:43)}\\
-\textbf{3.} & 看，你的兒子！ \;{\itshape Behold your son} \;\textcolor{LightGray}{(約 19:26)}\\
-\textbf{4.} & 我的神，我的神 \;{\itshape Eli, Eli} \;\textcolor{LightGray}{(太 27:46)}\\
-\textbf{5.} & 我渴了 \;{\itshape I thirst} \;\textcolor{LightGray}{(約 19:28)}\\
-\textbf{6.} & \textcolor{LiturgicalRed}{\textbf{成了}} \;{\itshape \textcolor{LiturgicalRed}{\textbf{It is finished}}} \;\textcolor{LightGray}{(約 19:30)}\\
-\textbf{7.} & 父啊，我將靈魂交在你手裡 \;{\itshape Into Your hands} \;\textcolor{LightGray}{(路 23:46)}\\
+\textbf{1.} & {\cjkfont\upshape\selectfont 父啊，赦免他們} \;{\itshape\latinfont Forgive them} \;\textcolor{LightGray}{(路 23:34)}\\
+\textbf{2.} & {\cjkfont\upshape\selectfont 你今日要同我在樂園裡} \;{\itshape\latinfont In Paradise} \;\textcolor{LightGray}{(路 23:43)}\\
+\textbf{3.} & {\cjkfont\upshape\selectfont 看，你的兒子！} \;{\itshape\latinfont Behold your son} \;\textcolor{LightGray}{(約 19:26)}\\
+\textbf{4.} & {\cjkfont\upshape\selectfont 我的神，我的神} \;{\itshape\latinfont Eli, Eli} \;\textcolor{LightGray}{(太 27:46)}\\
+\textbf{5.} & {\cjkfont\upshape\selectfont 我渴了} \;{\itshape\latinfont I thirst} \;\textcolor{LightGray}{(約 19:28)}\\
+\textbf{6.} & {\cjkfont\upshape\selectfont \textcolor{LiturgicalRed}{\textbf{成了}}} \;{\itshape\latinfont \textcolor{LiturgicalRed}{\textbf{It is finished}}} \;\textcolor{LightGray}{(約 19:30)}\\
+\textbf{7.} & {\cjkfont\upshape\selectfont 父啊，我將靈魂交在你手裡} \;{\itshape\latinfont Into Your hands} \;\textcolor{LightGray}{(路 23:46)}\\
 \end{tabular}
 \end{minipage}
 \vspace{0.18cm}
@@ -2115,11 +2178,11 @@ Seven Sayings from the Cross}\\[0.20em]
 \vspace{0.30cm}
 
 % John 3:30 closing
-{\itshape\color{TextGray}\kaiti\selectfont
+{\itshape\color{TextGray}\cjkfont\upshape\selectfont
 「他必興旺，我必衰微。」} \;
-{\footnotesize\itshape\color{TextGray}
+{\footnotesize\itshape\color{TextGray}\latinfont\selectfont
 ``He must increase, but I must decrease.''}\\[0.05em]
-{\footnotesize\color{LiturgicalBlue} \textemdash\ John 3:30 \textemdash}
+{\footnotesize\color{LiturgicalBlue}\latinfont\selectfont \textemdash\ John 3:30 \textemdash}
 
 \vfill
 
@@ -2128,11 +2191,11 @@ Seven Sayings from the Cross}\\[0.20em]
 \begin{minipage}{3.6in}
 \centering
 \vspace{0.10cm}
-{\footnotesize\scshape\color{LiturgicalBlue}
+{\footnotesize\scshape\color{LiturgicalBlue}\latinfont\selectfont
 Three Books Deep Reading \& Publishing}\\[0.05em]
-{\footnotesize\color{TextGray}
+{\footnotesize\color{TextGray}\cjkfont\upshape\selectfont
 三書精讀出版系統}\\[0.18em]
-{\scriptsize\color{LightGray}
+{\scriptsize\color{LightGray}\latinfont\selectfont
 \textsection\ Liturgical Edition v3.0 \textsection\ 2026 \textsection}
 \vspace{0.10cm}
 \end{minipage}}
@@ -2149,8 +2212,8 @@ Three Books Deep Reading \& Publishing}\\[0.05em]
 
 \vspace{0.15cm}
 
-{\footnotesize\scshape\color{LiturgicalBlue} Soli Deo Gloria}\\[0.03em]
-{\footnotesize\color{TextGray} 唯獨榮耀神}
+{\footnotesize\scshape\color{LiturgicalBlue}\latinfont\selectfont Soli Deo Gloria}\\[0.03em]
+{\footnotesize\color{TextGray}\cjkfont\upshape\selectfont 唯獨榮耀神}
 
 \vspace{0.45in}
 \end{center}
