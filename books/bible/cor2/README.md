@@ -9,7 +9,7 @@
 
 ## 課程資訊
 
-- **教會**: 基督之家第四家 (CCIC Sunnyvale) 主日學
+- **教會**: 基督会堂 (CCIC Sunnyvale) 主日學
 - **時間**: 2026年3月 - 2026年8月 (24課)
 - **課程頁**: [主日學課程](https://www.ccic-sunnyvale.org/sunday-school#h.suerkdgqy9ei)
 - **教材**: [Google Drive](https://drive.google.com/drive/folders/11O1LnvKwyiw3ILxY3lV1q1-N4wgpN-fr)
