@@ -36,11 +36,14 @@ date: 2026-06-14
 > 另有導論、貫穿主線與史實附錄：
 > - [`00-introduction-the-key.md`](00-introduction-the-key.md) — 撒母耳記與歷代志·指向基督的鑰匙
 > - [`05-thread-kingship-and-covenant.md`](05-thread-kingship-and-covenant.md) — 主線·王與大衛之約
-> - [`06-close-readings.md`](06-close-readings.md) — 細讀·撒上16、撒下7、代下5
+> - [`05-thread-kingship-and-covenant.md`](05-thread-kingship-and-covenant.md) ／ [`20-threads-temple-and-exile.md`](20-threads-temple-and-exile.md) — 四條主線·王、大衛之約、聖殿／同在、被擄／歸回
+> - [`06-close-readings.md`](06-close-readings.md) ＋ [`19-close-readings-supplement.md`](19-close-readings-supplement.md) — 細讀·十二卷各一段山頂經文逐句默想
 > - [`15-kings-and-exile-reference.md`](15-kings-and-exile-reference.md) — **史實附錄·南北列王表、三次被擄、三次歸回、四大帝國**
 > - [`16-prophets-timeline.md`](16-prophets-timeline.md) — **先知書對照·把每位先知釘在列王表的王與年代上**
 > - [`17-maps-and-campaigns.md`](17-maps-and-campaigns.md) — **地圖與戰役·北國亡、南國亡、被擄與歸回路線**
 > - [`18-from-malachi-to-matthew.md`](18-from-malachi-to-matthew.md) — **封頂·四百年靜默期，史實接到「大衛的子孫」降生**
+> - [`19-close-readings-supplement.md`](19-close-readings-supplement.md) — **細讀（續）·書/士/得/王上下/拉/尼/斯 八卷的山頂經文**
+> - [`20-threads-temple-and-exile.md`](20-threads-temple-and-exile.md) — **主線（續）·聖殿／神同在 與 被擄／歸回**
 
 ---
 
@@ -92,7 +95,7 @@ date: 2026-06-14
 - **要史實**：先讀本 README 的「史實骨幹」表，再進各卷的「**史實骨幹 (The Hard Facts)**」段。
 - **要靈修**：按各卷「念→找→問→連→住與行」逐步默想，每卷末有一個禱告。
 - **要貫通**：讀 [`05-thread-kingship-and-covenant.md`](05-thread-kingship-and-covenant.md)（王與約兩條線）。
-- **要細嚼**：讀 [`06-close-readings.md`](06-close-readings.md)（三段山頂經文逐句默想）。
+- **要細嚼**：讀 [`06-close-readings.md`](06-close-readings.md) ＋ [`19-close-readings-supplement.md`](19-close-readings-supplement.md)（十二卷各一段山頂經文逐句默想）。
 
 ---
 
