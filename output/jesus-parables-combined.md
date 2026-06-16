@@ -1,7 +1,6 @@
 ---
 title: 耶穌的比喻 — 黃長老查經
 subtitle: The Parables of Jesus — Bible Study in the Voice of Elder Huang
-compiled: 2026-06-15
 edition: 第一版合輯(三輪)
 ---
 
@@ -15,7 +14,7 @@ edition: 第一版合輯(三輪)
 - **第二輪**(原文字義 + 約翰福音貫通):希臘文字義 + 七個「我是」/七個「兆頭」對照。
 - **第三輪**(對觀平行 + 歷史背景):三福音平行對照 + 第一世紀文化考據。
 
-> ⚠️ 出版前須核對:經文對照 RCUV/ESV 與 ai-eden.com;希臘文對照 NA28/UBS5 與 BDAG;背景對照 Jeremias / Bailey 等標準研究。
+> 出版前須核對:經文對照 RCUV/ESV 與 ai-eden.com;希臘文對照 NA28/UBS5 與 BDAG;背景對照 Jeremias / Bailey 等標準研究。
 
 ---
 
