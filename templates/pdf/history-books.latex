@@ -1,0 +1,156 @@
+% PubHub History-Books Template - Professional Book Layout
+% Variant of book.latex with a CJK-capable monospace font so that
+% Chinese labels inside fenced code-block maps/diagrams render.
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openright,twoside]{book}
+
+% Font setup with fontspec (XeLaTeX)
+\usepackage{fontspec}
+
+% Use macOS system fonts that support CJK
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+% CJK-capable monospace so map/diagram labels (e.g. 撒瑪利亞, 耶路撒冷) render.
+% PingFang SC covers both Latin and CJK; box-drawing alignment is approximate.
+\setmonofont{PingFang SC}
+
+% Enable CJK line breaking
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+% Page geometry - book format (6x9 inches)
+\usepackage{geometry}
+\geometry{
+  paperwidth=6in,
+  paperheight=9in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.875in,
+  outer=0.625in
+}
+
+% Line spacing
+\linespread{1.15}
+
+% Colors
+\usepackage{xcolor}
+
+% Hyperlinks
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=blue,
+  urlcolor=blue,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+% Graphics
+\usepackage{graphicx}
+
+% Tables
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+% Widow and orphan control
+\widowpenalty=10000
+\clubpenalty=10000
+
+% Metadata
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+% Pandoc tight list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+\begin{document}
+
+% Front matter
+\frontmatter
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{2cm}
+\begin{center}
+$if(title)$
+{\Huge\bfseries $title$}\\[1cm]
+$endif$
+$if(subtitle)$
+{\Large\itshape $subtitle$}\\[2cm]
+$endif$
+$if(author)$
+{\Large $author$}\\[1cm]
+$endif$
+\vfill
+$if(publisher)$
+{\large $publisher$}\\[0.5cm]
+$endif$
+$if(date)$
+{\large $date$}
+$else$
+{\large \today}
+$endif$
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small
+$if(copyright)$
+$copyright$
+$else$
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.
+$endif$
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\tableofcontents
+\cleardoublepage
+
+% Main matter
+\mainmatter
+
+$body$
+
+\end{document}
