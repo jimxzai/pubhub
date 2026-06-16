@@ -122,6 +122,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**論法利賽人的禱告,摩根說他「*prayed with himself. He was the centre of the circle, and its circumference.*」——《The Parables and Metaphors of Our Lord》。他是那個圓的圓心,也是圓周——神被關在圈外。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:

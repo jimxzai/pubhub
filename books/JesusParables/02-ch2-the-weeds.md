@@ -105,6 +105,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**論仇敵撒稗子,摩根有一句名言:「*The devil is a squatter.*(魔鬼是個強佔者)」——《The Parables and Metaphors of Our Lord》。強佔者佔了無權佔的地、為自己牟利;稗子正是仇敵在神的田裡非法的侵佔。
+
 ## 六、住——讓這話停在心裡
 
 > **帶領提問**:

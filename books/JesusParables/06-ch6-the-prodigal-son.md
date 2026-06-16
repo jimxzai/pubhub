@@ -146,6 +146,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**論大兒子,摩根一針見血——他是「*an unnatural son, who was upright and loyal by all the outward appearances of life, but who had no understanding of, or sympathy with, his father's heart.*」——《The Parables and Metaphors of Our Lord》。外表正直忠誠,卻全然不懂父親的心腸:這正是「家裡的浪子」。
+
 ## 九、住——讓這話停在心裡
 
 > **帶領提問**:

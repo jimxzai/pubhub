@@ -112,6 +112,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點破財主的致命錯:「*If you do not possess your own soul, you possess none of these things to which you are looking to satisfy your soul.*」——《The Parables and Metaphors of Our Lord》。你若失了自己的魂,你所積的一切,一樣也保不住。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:

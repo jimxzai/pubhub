@@ -91,6 +91,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根說,萬民受審判,問的其實是同一串問題:「*What are they doing with Jesus? ... What are they doing with His messengers?*」——《The Parables and Metaphors of Our Lord》。你怎樣對待祂的使者(最小的弟兄),就是怎樣對待祂。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:

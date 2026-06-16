@@ -106,6 +106,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根提醒,這比喻只有一位撒種者、一種土:「*there is one Sower, and one soil. The Sower is the Son of man.*」——《The Parables and Metaphors of Our Lord》。撒種的,就是人子;問題不在種子,在土如何回應。
+
 ## 六、住——讓這話停在心裡
 
 讀到這裡,先安靜一下。別急著下結論。

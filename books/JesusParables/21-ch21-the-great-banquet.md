@@ -72,6 +72,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根挖到推辭背後的根:「*The underlying reason of refusing to enter the Kingdom is hostility against God.*」——《The Parables and Metaphors of Our Lord》。種種藉口的底層,是對神的敵意;而神的國本是「*the place first of righteousness, then of joy, and of peace*」——一個有義、有喜樂、有平安的筵席。
+
 ## 七、住 & 行
 
 > **帶領提問**:

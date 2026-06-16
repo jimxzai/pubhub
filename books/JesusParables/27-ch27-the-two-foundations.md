@@ -89,6 +89,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根把分別說到最簡:「*He that heareth and doeth, builds on rock. He that heareth and doeth not, builds on sand.*」——《The Parables and Metaphors of Our Lord》。差別不在聽不聽,在聽了行不行。
+
 ## 八、住 & 行
 
 > **帶領提問**:

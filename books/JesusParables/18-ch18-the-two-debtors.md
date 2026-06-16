@@ -85,6 +85,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**論債主免了兩個欠債的,摩根說:「*there beams the glory of the grace of God.*(神恩典的榮光在此照耀)」——《The Parables and Metaphors of Our Lord》。免債的本相,是神白白的恩典。
+
 ## 七、住 & 行
 
 > **帶領提問**:

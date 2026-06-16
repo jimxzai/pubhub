@@ -81,6 +81,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根解作門徒代價之必要:基督要完成祂的建造與爭戰,「*He must have resources and men upon whom He could absolutely depend.*」——《The Parables and Metaphors of Our Lord》。祂的嚴格,是因為祂的使命需要絕對可靠的人。
+
 ## 七、住 & 行
 
 > **帶領提問**:

@@ -107,6 +107,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出工錢的原則:「*That payment is according to fidelity to opportunity.*」——《The Parables and Metaphors of Our Lord》。賞賜不按做工長短,按你對所領的機會忠不忠心。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:

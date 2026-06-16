@@ -77,6 +77,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根說得直白:「*The publican, the drunkard, the harlot ... who repents and turns to God, becomes God's son, God's child, God's instrument.*」——《The Parables and Metaphors of Our Lord》。真悔改回轉的罪人成了神的兒子;空有名分卻悖逆的,不是。
+
 ## 七、住 & 行
 
 > **帶領提問**:

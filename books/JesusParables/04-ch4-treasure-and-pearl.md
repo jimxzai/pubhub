@@ -103,6 +103,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根正是讀「買主即基督」:祂在世界裡看見「*imprisoned splendour*」(被囚的榮美);論珠子他說是基督「*by His action created the pearl*」——祂的受苦與捨己,把那傷害祂的,化成祂所尋的重價珠子。——《The Parables and Metaphors of Our Lord》。這與本章「主角是那變賣一切的買主」完全相合。
+
 ## 六、住——讓這話停在心裡
 
 > **帶領提問**:

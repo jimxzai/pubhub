@@ -103,6 +103,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根論末了的篩分:「*profession, with all its symbols and ritual, devoid of oil and light and power, will have no avail.*」——《The Parables and Metaphors of Our Lord》。空有外表的承認、記號與禮儀,卻沒有油、光與能力,到那日全然無用。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:

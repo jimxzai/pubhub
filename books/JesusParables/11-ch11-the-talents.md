@@ -115,6 +115,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根看「按才幹」一語的深意:神所給的恩賜,是按人天然的器量——天然的器量「*as preparation for the reception of a supernatural gift*」(作為領受超然恩賜的預備)。——《The Parables and Metaphors of Our Lord》。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:

@@ -91,6 +91,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出本喻的重心:「*The main value here is that of the fact of separation which follows the drawing in of the net at the end of the age.*」——《The Parables and Metaphors of Our Lord》。重點不在網,在末了那一次清清楚楚的「分別」。
+
 ## 六、住——讓這話停在心裡
 
 > **帶領提問**:

@@ -80,6 +80,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出全喻的鑰句:「*The spectacular and the miraculous will not have any effect upon the life of men and women if the moral has failed to appeal.*」——《The Parables and Metaphors of Our Lord》。神蹟奇事打動不了一顆連神的話都不肯聽的心。
+
 ## 七、住 & 行
 
 > **帶領提問**:

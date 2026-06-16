@@ -93,6 +93,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出園戶的罪根:「*ancient privilege is always unavailing when it departs from immediate and present responsibility.*」——《The Parables and Metaphors of Our Lord》。古老的特權一旦離了當下的責任,就毫無用處——這正是以色列領袖被奪去管理權的原因。
+
 ## 八、住 & 行
 
 > **帶領提問**:

@@ -94,6 +94,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根對這兩個比喻持較嚴格的讀法:芥菜種長成大樹是「*abnormal development*」(不正常的發展);論麵酵他說:「*If in this case leaven stands for good, it is the only case in the Bible which any expositor claims that it does so.*」——《The Parables and Metaphors of Our Lord》。他提醒酵在聖經中一貫是敗壞的象徵(本書第一輪採較中性的讀法,並陳兩說供參)。
+
 ## 六、住——讓這話停在心裡
 
 > **帶領提問**:

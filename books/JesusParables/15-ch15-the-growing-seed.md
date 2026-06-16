@@ -91,6 +91,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出人神的分工:「*Nature cannot sow, and it cannot reap. Man cannot give the increase.*」——《The Parables and Metaphors of Our Lord》。人能撒、能收,卻不能叫種子生長——生長是神的事。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:

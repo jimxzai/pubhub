@@ -136,6 +136,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根用一句話總結:「*Compassion is the inspiration of keeping law.*(慈心是守律法的動力)」——《The Parables and Metaphors of Our Lord》。律法的真正成全,不在守規條,在動了慈心。
+
 ## 九、住——讓這話停在心裡
 
 > **帶領提問**:

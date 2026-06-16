@@ -75,6 +75,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根總覽路加15章三喻:「*He saw humanity lost. Whether it was the sheep, or the drachma, or the son, in His view each was lost.*」——《The Parables and Metaphors of Our Lord》。羊、錢、兒子——在主眼中,都是「失喪」的人類。
+
 ## 六、住 & 行
 
 > **帶領提問**:

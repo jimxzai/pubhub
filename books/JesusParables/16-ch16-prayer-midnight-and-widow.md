@@ -89,6 +89,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**論不義的官與神的對比,摩根說:「*God is bound by the sanctions of what He is in Himself ... His righteousness, His holiness, His justice, His compassion.*」——《The Parables and Metaphors of Our Lord》。神不像那惡官;祂必伸冤,因祂受自己本性(公義、慈愛)的約束。
+
 ## 七、住 & 行——讓這話停在心裡,並且去行
 
 > **帶領提問**:

@@ -100,6 +100,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根把兩筆債算給我們聽:「*you owe all of two million, which you can never pay. But God in His compassion forgives you everything.*」——《The Parables and Metaphors of Our Lord》。你欠的是還不清的兩百萬,神卻全免;你竟向弟兄追討那一點點?
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:

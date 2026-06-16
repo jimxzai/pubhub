@@ -73,6 +73,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根澄清一個常見誤讀:「*There is no word there of approval for the action of the steward or his lord.*」——《The Parables and Metaphors of Our Lord》。主稱讚的是他的遠見,絕非他的不義。
+
 ## 六、住 & 行
 
 > **帶領提問**:

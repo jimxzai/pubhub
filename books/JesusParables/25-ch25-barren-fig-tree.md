@@ -75,6 +75,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根問得透:「*What is God looking for in man? What is He looking for in me? A man.*」——《The Parables and Metaphors of Our Lord》。神向無花果樹找果子,向人找的——是一個「真正的人」,活出受造的本意。
+
 ## 七、住 & 行
 
 > **帶領提問**:

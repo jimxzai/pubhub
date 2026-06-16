@@ -14,7 +14,7 @@ edition: 第一版合輯(三輪)
 - **第二輪**(原文字義 + 約翰福音貫通):希臘文字義 + 七個「我是」/七個「兆頭」對照。
 - **第三輪**(對觀平行 + 歷史背景):三福音平行對照 + 第一世紀文化考據。
 
-> 出版前須核對:經文對照 RCUV/ESV 與 ai-eden.com;希臘文對照 NA28/UBS5 與 BDAG;背景對照 Jeremias / Bailey 等標準研究。
+> 出版前須核對:經文對照 ai-eden.com/bible(和合本 / ESV / NKJV / NASB);希臘文對照 NA28/UBS5 與 BDAG;背景對照 Jeremias / Bailey;Campbell Morgan 引文出自《The Parables and Metaphors of Our Lord》。
 
 ---
 
@@ -263,6 +263,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根提醒,這比喻只有一位撒種者、一種土:「*there is one Sower, and one soil. The Sower is the Son of man.*」——《The Parables and Metaphors of Our Lord》。撒種的,就是人子;問題不在種子,在土如何回應。
+
 ## 六、住——讓這話停在心裡
 
 讀到這裡,先安靜一下。別急著下結論。
@@ -415,6 +417,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**論仇敵撒稗子,摩根有一句名言:「*The devil is a squatter.*(魔鬼是個強佔者)」——《The Parables and Metaphors of Our Lord》。強佔者佔了無權佔的地、為自己牟利;稗子正是仇敵在神的田裡非法的侵佔。
+
 ## 六、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -547,6 +551,8 @@ edition: 第一版合輯(三輪)
 - **約翰福音的貫通(一粒麥子)**——芥菜種「最小變最大」、麵酵「隱藏到充滿」,核心是「藉著死與隱藏,結出許多」。約翰用同一個 kokkos 講透:「**一粒麥子不落在地裡死了,仍舊是一粒;若是死了,就結出許多子粒來。**」(約 12:24)那粒最小、看似死了的種子,就是耶穌自己。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根對這兩個比喻持較嚴格的讀法:芥菜種長成大樹是「*abnormal development*」(不正常的發展);論麵酵他說:「*If in this case leaven stands for good, it is the only case in the Bible which any expositor claims that it does so.*」——《The Parables and Metaphors of Our Lord》。他提醒酵在聖經中一貫是敗壞的象徵(本書第一輪採較中性的讀法,並陳兩說供參)。
 
 ## 六、住——讓這話停在心裡
 
@@ -690,6 +696,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根正是讀「買主即基督」:祂在世界裡看見「*imprisoned splendour*」(被囚的榮美);論珠子他說是基督「*by His action created the pearl*」——祂的受苦與捨己,把那傷害祂的,化成祂所尋的重價珠子。——《The Parables and Metaphors of Our Lord》。這與本章「主角是那變賣一切的買主」完全相合。
+
 ## 六、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -819,6 +827,8 @@ edition: 第一版合輯(三輪)
 你看,從但以理到啟示錄,都指向同一個「坐下、揀選」的日子。撒網的比喻不是孤立的恐嚇,是整本聖經一致的見證。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根點出本喻的重心:「*The main value here is that of the fact of separation which follows the drawing in of the net at the end of the age.*」——《The Parables and Metaphors of Our Lord》。重點不在網,在末了那一次清清楚楚的「分別」。
 
 ## 六、住——讓這話停在心裡
 
@@ -1019,6 +1029,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**論大兒子,摩根一針見血——他是「*an unnatural son, who was upright and loyal by all the outward appearances of life, but who had no understanding of, or sympathy with, his father's heart.*」——《The Parables and Metaphors of Our Lord》。外表正直忠誠,卻全然不懂父親的心腸:這正是「家裡的浪子」。
+
 ## 九、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -1194,6 +1206,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根用一句話總結:「*Compassion is the inspiration of keeping law.*(慈心是守律法的動力)」——《The Parables and Metaphors of Our Lord》。律法的真正成全,不在守規條,在動了慈心。
+
 ## 九、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -1332,6 +1346,8 @@ edition: 第一版合輯(三輪)
 - **約翰福音的貫通(復活的主賜下赦免)**——我們能彼此赦免,源頭是那位先赦免我們、又把聖靈賜下的主。祂復活當晚向門徒吹氣說:「**你們受聖靈!你們赦免誰的罪,誰的罪就赦免了。**」(約 20:22-23)被免了一萬他連得的人,正是領受了「恩典和真理」(約 1:14, 17)的人——領受了赦免,才赦免得起。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根把兩筆債算給我們聽:「*you owe all of two million, which you can never pay. But God in His compassion forgives you everything.*」——《The Parables and Metaphors of Our Lord》。你欠的是還不清的兩百萬,神卻全免;你竟向弟兄追討那一點點?
 
 ## 八、住——讓這話停在心裡
 
@@ -1477,6 +1493,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出工錢的原則:「*That payment is according to fidelity to opportunity.*」——《The Parables and Metaphors of Our Lord》。賞賜不按做工長短,按你對所領的機會忠不忠心。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -1616,6 +1634,8 @@ edition: 第一版合輯(三輪)
 - **警醒**——「警醒」原文 γρηγορεῖτε (grēgoreite)。注意:警醒不是不睡(聰明的也睡了),是**預先把油備好**。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根論末了的篩分:「*profession, with all its symbols and ritual, devoid of oil and light and power, will have no avail.*」——《The Parables and Metaphors of Our Lord》。空有外表的承認、記號與禮儀,卻沒有油、光與能力,到那日全然無用。
 
 ## 八、住——讓這話停在心裡
 
@@ -1769,6 +1789,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根看「按才幹」一語的深意:神所給的恩賜,是按人天然的器量——天然的器量「*as preparation for the reception of a supernatural gift*」(作為領受超然恩賜的預備)。——《The Parables and Metaphors of Our Lord》。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -1896,6 +1918,8 @@ edition: 第一版合輯(三輪)
 - **約翰福音的貫通(我是好牧人)**——那位末了「分別綿羊山羊」的審判者,正是今日認識祂羊、為羊捨命的牧人:「**我是好牧人;我認識我的羊,我的羊也認識我。**」(約 10:14)祂把自己認同於羊群——你愛「最小的」一隻,就是愛這位好牧人自己。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根說,萬民受審判,問的其實是同一串問題:「*What are they doing with Jesus? ... What are they doing with His messengers?*」——《The Parables and Metaphors of Our Lord》。你怎樣對待祂的使者(最小的弟兄),就是怎樣對待祂。
 
 ## 八、住——讓這話停在心裡
 
@@ -2068,6 +2092,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**論法利賽人的禱告,摩根說他「*prayed with himself. He was the centre of the circle, and its circumference.*」——《The Parables and Metaphors of Our Lord》。他是那個圓的圓心,也是圓周——神被關在圈外。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -2219,6 +2245,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點破財主的致命錯:「*If you do not possess your own soul, you possess none of these things to which you are looking to satisfy your soul.*」——《The Parables and Metaphors of Our Lord》。你若失了自己的魂,你所積的一切,一樣也保不住。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -2349,6 +2377,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出人神的分工:「*Nature cannot sow, and it cannot reap. Man cannot give the increase.*」——《The Parables and Metaphors of Our Lord》。人能撒、能收,卻不能叫種子生長——生長是神的事。
+
 ## 八、住——讓這話停在心裡
 
 > **帶領提問**:
@@ -2475,6 +2505,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**論不義的官與神的對比,摩根說:「*God is bound by the sanctions of what He is in Himself ... His righteousness, His holiness, His justice, His compassion.*」——《The Parables and Metaphors of Our Lord》。神不像那惡官;祂必伸冤,因祂受自己本性(公義、慈愛)的約束。
+
 ## 七、住 & 行——讓這話停在心裡,並且去行
 
 > **帶領提問**:
@@ -2582,6 +2614,8 @@ edition: 第一版合輯(三輪)
 - **約翰福音的貫通(我是好牧人)**——迷羊比喻與約翰連結最直接:「你們中間誰……不去找那失去的羊,直到找著呢?」——約翰答:「**我是好牧人;好牧人為羊捨命……我另外有羊……我必須領他們來。**」(約 10:11, 16)那位撇下九十九隻、扛羊回家的,就是這位為羊捨命、必把失喪的領回的好牧人。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根總覽路加15章三喻:「*He saw humanity lost. Whether it was the sheep, or the drachma, or the son, in His view each was lost.*」——《The Parables and Metaphors of Our Lord》。羊、錢、兒子——在主眼中,都是「失喪」的人類。
 
 ## 六、住 & 行
 
@@ -2701,6 +2735,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**論債主免了兩個欠債的,摩根說:「*there beams the glory of the grace of God.*(神恩典的榮光在此照耀)」——《The Parables and Metaphors of Our Lord》。免債的本相,是神白白的恩典。
+
 ## 七、住 & 行
 
 > **帶領提問**:
@@ -2806,6 +2842,8 @@ edition: 第一版合輯(三輪)
 - **約翰福音的貫通(我是道路、真理、生命)**——這比喻的核心是「誰作你的主」。約翰:「**我是道路、真理、生命。**」(約 14:6)——生命的主權只能交給一位;瑪門要坐神的寶座,但唯有那位「道路真理生命」配作主。被祂得著的人,用今生會朽壞的瑪門,去結交「永存帳幕」裡的朋友。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根澄清一個常見誤讀:「*There is no word there of approval for the action of the steward or his lord.*」——《The Parables and Metaphors of Our Lord》。主稱讚的是他的遠見,絕非他的不義。
 
 ## 六、住 & 行
 
@@ -2920,6 +2958,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出全喻的鑰句:「*The spectacular and the miraculous will not have any effect upon the life of men and women if the moral has failed to appeal.*」——《The Parables and Metaphors of Our Lord》。神蹟奇事打動不了一顆連神的話都不肯聽的心。
+
 ## 七、住 & 行
 
 > **帶領提問**:
@@ -3024,6 +3064,8 @@ edition: 第一版合輯(三輪)
 - **約翰福音的貫通(我是生命的糧 / 我是門)**——大筵席的呼召是「請來吧!」核心是「到我這裡來」。約翰:「**我是生命的糧;到我這裡來的,必定不餓。**」(約 6:35)而那扇進筵席的門:「**我是門;凡從我進來的,必然得救。**」(約 10:9)那件不可少的「禮服」,正是基督的義——脫去自己的,披上祂的。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根挖到推辭背後的根:「*The underlying reason of refusing to enter the Kingdom is hostility against God.*」——《The Parables and Metaphors of Our Lord》。種種藉口的底層,是對神的敵意;而神的國本是「*the place first of righteousness, then of joy, and of peace*」——一個有義、有喜樂、有平安的筵席。
 
 ## 七、住 & 行
 
@@ -3139,6 +3181,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根解作門徒代價之必要:基督要完成祂的建造與爭戰,「*He must have resources and men upon whom He could absolutely depend.*」——《The Parables and Metaphors of Our Lord》。祂的嚴格,是因為祂的使命需要絕對可靠的人。
+
 ## 七、住 & 行
 
 > **帶領提問**:
@@ -3250,6 +3294,8 @@ edition: 第一版合輯(三輪)
 - **約翰福音的貫通(我的食物就是遵行)**——兩個兒子的核心:「遵行差我者旨意」的才算數。約翰一句話總結了那位「真兒子」:「**我的食物就是遵行差我來者的旨意,做成他的工。**」(約 4:34)小兒子說「我去」卻不去;耶穌卻把遵行父旨當作「食物」,一路順服到底——我們能從小兒子變大兒子,因有這位完全順服的真兒子。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根說得直白:「*The publican, the drunkard, the harlot ... who repents and turns to God, becomes God's son, God's child, God's instrument.*」——《The Parables and Metaphors of Our Lord》。真悔改回轉的罪人成了神的兒子;空有名分卻悖逆的,不是。
 
 ## 七、住 & 行
 
@@ -3377,6 +3423,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根點出園戶的罪根:「*ancient privilege is always unavailing when it departs from immediate and present responsibility.*」——《The Parables and Metaphors of Our Lord》。古老的特權一旦離了當下的責任,就毫無用處——這正是以色列領袖被奪去管理權的原因。
+
 ## 八、住 & 行
 
 > **帶領提問**:
@@ -3487,6 +3535,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根問得透:「*What is God looking for in man? What is He looking for in me? A man.*」——《The Parables and Metaphors of Our Lord》。神向無花果樹找果子,向人找的——是一個「真正的人」,活出受造的本意。
+
 ## 七、住 & 行
 
 > **帶領提問**:
@@ -3588,6 +3638,8 @@ edition: 第一版合輯(三輪)
 - **約翰福音的貫通(水變酒之兆頭)**——新布新酒袋的核心是「全新的,不是修補」。約翰把它放在**第一個兆頭**:水變酒(約 2:1-11)——耶穌一秒鐘成就上好的新酒,宣告新時代來臨。「舊事已過,都變成新的了」(林後 5:17)。祂不是給舊宗教打補丁,祂是那位把水(舊約律法的潔淨之水)變成新酒(新約恩典之喜樂)的主。
 
 ---
+
+> **【Campbell Morgan・解經王子】**摩根一語道破:「*He had come, not to mend an old garment, but to make a new one.*」——《The Parables and Metaphors of Our Lord》。主不是來修補舊衣,是來作一件全新的——所以需要全新的方法、全新的皮袋。
 
 ## 七、住 & 行
 
@@ -3711,6 +3763,8 @@ edition: 第一版合輯(三輪)
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根把分別說到最簡:「*He that heareth and doeth, builds on rock. He that heareth and doeth not, builds on sand.*」——《The Parables and Metaphors of Our Lord》。差別不在聽不聽,在聽了行不行。
+
 ## 八、住 & 行
 
 > **帶領提問**:
@@ -3787,7 +3841,7 @@ edition: 第一版合輯(三輪)
 > 黃長老查經 · 耶穌的比喻(第二輪)
 > 「你們若不信摩西的書,怎能信我的話呢?」(約 5:47)——讀比喻,最後要在每個故事裡遇見約翰福音裡那位宣告「我是」的主。
 
-> ⚠️ **原文核對說明**:本卷所列希臘文,均為標準、廣為查證的字詞(轉寫 transliteration 隨附)。按本專案「注疏師不可杜撰原文」之規,正式出版前仍應對照 NA28 / UBS5 及標準辭典(BDAG)逐一核實,如同經文須對照 RCUV/ESV 與 ai-eden.com。
+> ⚠️ **原文核對說明**:本卷所列希臘文,均為標準、廣為查證的字詞(轉寫 transliteration 隨附)。按本專案「注疏師不可杜撰原文」之規,正式出版前仍應對照 NA28 / UBS5 及標準辭典(BDAG)逐一核實,如同經文須對照 ai-eden.com/bible(和合本 / ESV / NKJV / NASB)。
 
 ---
 

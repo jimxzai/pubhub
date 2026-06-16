@@ -69,6 +69,8 @@
 
 ---
 
+> **【Campbell Morgan・解經王子】**摩根一語道破:「*He had come, not to mend an old garment, but to make a new one.*」——《The Parables and Metaphors of Our Lord》。主不是來修補舊衣,是來作一件全新的——所以需要全新的方法、全新的皮袋。
+
 ## 七、住 & 行
 
 > **帶領提問**:
