@@ -119,6 +119,11 @@ const CONFIG = {
       engine: 'xelatex',
       description: 'Professional Acts of the Apostles study book'
     },
+    'jesus-parables': {
+      template: 'jesus-parables.latex',
+      engine: 'xelatex',
+      description: 'Professional Jesus Parables study book'
+    },
     newspaper: {
       template: 'newspaper.css',
       engine: 'html',  // Uses HTML+CSS approach
@@ -518,7 +523,7 @@ function main() {
   console.log('');
 
   if (inputStat.isDirectory()) {
-    const dirFormats = ['book', 'genesis', 'samuel-chronicles', 'gospel-of-john', 'gospel-of-matthew', 'gospel-of-mark', 'gospel-of-luke', 'acts', '1-peter', '2-peter', 'pauline-epistles', 'james', 'johannine-epistles', 'revelation', 'hebrews', 'advisory-zh', 'advisory-en'];
+    const dirFormats = ['book', 'genesis', 'samuel-chronicles', 'gospel-of-john', 'gospel-of-matthew', 'gospel-of-mark', 'gospel-of-luke', 'acts', '1-peter', '2-peter', 'pauline-epistles', 'james', 'johannine-epistles', 'revelation', 'hebrews', 'advisory-zh', 'advisory-en', 'jesus-parables'];
     if (!dirFormats.includes(options.format)) {
       console.error('Error: Directory input only supported for book-style formats');
       process.exit(1);

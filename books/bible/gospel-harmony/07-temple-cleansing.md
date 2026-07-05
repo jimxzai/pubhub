@@ -9,23 +9,37 @@ scripture: 約翰福音 2:13-25
 
 約翰福音 2:13-25
 
+## 基督焦點 (Christ at the Center)
+
+潔淨聖殿，焦點不在被趕出的牛羊與兌錢的人，而在那位說「拆毀這殿，我三日內要再建立起來」的主。從祂的角度讀，祂為父的殿心裏焦急，因為祂自己就是那真聖殿——神與人相會之處。石頭的殿終必拆毀，祂的身體卻要從死裏復活，成為新的敬拜中心。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^13^猶太人的逾越節近了，耶穌就上耶路撒冷去。^14^他看見聖殿裏有賣牛羊鴿子的，還有兌換銀錢的人坐在那裏，^15^他就拿繩子做成鞭子，把牛羊都趕出聖殿，倒出兌換銀錢之人的錢幣，推翻他們的桌子，^16^又對賣鴿子的說：<red>「把這些東西拿去！不要把我父的殿當作買賣的地方。」</red>^17^他的門徒想起經上記着：「我為你的殿心裏焦急，如同火燒。」
+> ^13^猶太人的逾越節近了，耶穌就上耶路撒冷去。^14^祂看見聖殿裏有賣牛羊鴿子的，還有兌換銀錢的人坐在那裏，^15^祂就拿繩子做成鞭子，把牛羊都趕出聖殿，倒出兌換銀錢之人的錢幣，推翻他們的桌子，^16^又對賣鴿子的說：<red>「把這些東西拿去！不要把我父的殿當作買賣的地方。」</red>^17^祂的門徒想起經上記着：「我為祢的殿心裏焦急，如同火燒。」
 
-> ^18^猶太人就質問他說：「你既然做這些事，還顯甚麼神蹟給我們看呢？」^19^耶穌回答他們說：<red>「你們拆毀這殿，我三日內要把它重建。」</red>^20^猶太人就說：「這殿是四十六年才造成的，你三日內就能重建嗎？」^21^但耶穌是以他的身體為殿。^22^所以，到他從死人中復活以後，門徒想起他曾說過這話，就信了聖經和耶穌所說的話。
+> ^18^猶太人就質問祂說：「你既然做這些事，還顯甚麼神蹟給我們看呢？」^19^耶穌回答他們說：<red>「你們拆毀這殿，我三日內要把它重建。」</red>^20^猶太人就說：「這殿是四十六年才造成的，你三日內就能重建嗎？」^21^但耶穌是以祂的身體為殿。^22^所以，到祂從死人中復活以後，門徒想起祂曾說過這話，就信了聖經和耶穌所說的話。
 
-> ^23^耶穌在耶路撒冷過逾越節的時候，有許多人看見他所行的神蹟，就信了他的名。^24^耶穌卻不把自己交託他們，因為他知道萬人的心，^25^也用不着誰為人作見證，因為他知道人心裏所存的。
+> ^23^耶穌在耶路撒冷過逾越節的時候，有許多人看見祂所行的神蹟，就信了祂的名。^24^耶穌卻不把自己交託他們，因為祂知道萬人的心，^25^也用不着誰為人作見證，因為祂知道人心裏所存的。
 
-### English — NKJV
+### English — ESV (English Standard Version)
 
-> ^13^Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem. ^14^And He found in the temple those who sold oxen and sheep and doves, and the money changers doing business. ^15^When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables. ^16^And He said to those who sold doves, <red>"Take these things away! Do not make My Father's house a house of merchandise!"</red> ^17^Then His disciples remembered that it was written, "Zeal for Your house has eaten Me up."
+> ^13^The Passover of the Jews was at hand, and Jesus went up to Jerusalem. ^14^In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there. ^15^And making a whip of cords, he drove them all out of the temple, with the sheep and oxen. And he poured out the coins of the money-changers and overturned their tables. ^16^And he told those who sold the pigeons, <red>"Take these things away; do not make my Father's house a house of trade."</red> ^17^His disciples remembered that it was written, "Zeal for your house will consume me."
 
-> ^18^So the Jews answered and said to Him, "What sign do You show to us, since You do these things?" ^19^Jesus answered and said to them, <red>"Destroy this temple, and in three days I will raise it up."</red> ^20^Then the Jews said, "It has taken forty-six years to build this temple, and will You raise it up in three days?" ^21^But He was speaking of the temple of His body. ^22^Therefore, when He had risen from the dead, His disciples remembered that He had said this to them; and they believed the Scripture and the word which Jesus had said.
+> ^18^So the Jews said to him, "What sign do you show us for doing these things?" ^19^Jesus answered them, <red>"Destroy this temple, and in three days I will raise it up."</red> ^20^The Jews then said, "It has taken forty-six years to build this temple, and will you raise it up in three days?" ^21^But he was speaking about the temple of his body. ^22^When therefore he was raised from the dead, his disciples remembered that he had said this, and they believed the Scripture and the word that Jesus had spoken.
 
-> ^23^Now when He was in Jerusalem at the Passover, during the feast, many believed in His name when they saw the signs which He did. ^24^But Jesus did not commit Himself to them, because He knew all men, ^25^and had no need that anyone should testify of man, for He knew what was in man.
+> ^23^Now when he was in Jerusalem at the Passover Feast, many believed in his name when they saw the signs that he was doing. ^24^But Jesus on his part did not entrust himself to them, because he knew all people ^25^and needed no one to bear witness about man, for he himself knew what was in man.
+
+### English — NASB (New American Standard Bible)
+
+> ^13^The Passover of the Jews was near, and Jesus went up to Jerusalem. ^14^And He found in the temple those who were selling oxen and sheep and doves, and the money changers seated at their tables. ^15^And He made a scourge of cords, and drove them all out of the temple, with the sheep and the oxen; and He poured out the coins of the money changers and overturned their tables; ^16^and to those who were selling the doves He said, <red>"Take these things away; stop making My Father's house a place of business."</red> ^17^His disciples remembered that it was written, "Zeal for Your house will consume Me."
+
+> ^18^The Jews then said to Him, "What sign do You show us as your authority for doing these things?" ^19^Jesus answered them, <red>"Destroy this temple, and in three days I will raise it up."</red> ^20^The Jews then said, "It took forty-six years to build this temple, and will You raise it up in three days?" ^21^But He was speaking of the temple of His body. ^22^So when He was raised from the dead, His disciples remembered that He said this; and they believed the Scripture and the word which Jesus had spoken.
+
+> ^23^Now when He was in Jerusalem at the Passover, during the feast, many believed in His name, observing His signs which He was doing. ^24^But Jesus, on His part, was not entrusting Himself to them, for He knew all men, ^25^and because He did not need anyone to testify concerning man, for He Himself knew what was in man.
 
 ---
 
@@ -86,7 +100,7 @@ scripture: 約翰福音 2:13-25
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受與亮光 (Light Received)
 
 ### 1. 彌賽亞的權柄
 
@@ -142,7 +156,52 @@ scripture: 約翰福音 2:13-25
 
 **詩篇**：詩篇 69:9
 
-> 因我為你的殿心裏焦急，如同火燒，並且辱罵你之人的辱罵都落在我身上。
+> 因我為祢的殿心裏焦急，如同火燒，並且辱罵祢之人的辱罵都落在我身上。
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：祂是真聖殿。門徒想起詩 69:9「我為祢的殿心裡焦急」；耶穌說「拆毀這殿，我三日內要再建立」，指自己的身體（約 2:21）。會幕、聖殿都預表「神與人同住」——約 1:14「道……支搭帳棚在我們中間」，直到啟 21:3「神的帳幕在人間」。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「聖殿本是禱告的地方，當時變成了什麼？」
+- 再問：「耶穌說『拆毀這殿，三日內再建立』——祂指的是哪座殿？」
+- 追問：「若祂自己就是真聖殿，這對你今天去『哪裡敬拜』說什麼？」
+- 落到自己：「你的敬拜，是把神的殿當作買賣交換的場所，還是禱告的家？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天幾乎一切都被標了價、可被變現，連信仰、連注意力都成了生意。耶穌進到殿裡，第一件事是翻桌子。你心裡這座殿，有沒有也擺滿了交易的攤子——把神當成達成目的的工具？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求主潔淨你心這座殿，翻倒那些不該擺在裡面的桌子。
+- **晚上**：今天我對神的態度，比較像「交易」，還是「敬拜」？
+- **一個行動**：今天清出一段「不交易、不求回報」、純粹親近神的時間。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂為父的殿心裡焦急，因為祂自己就是那要被拆毀、又三日重建的真聖殿。
+
+**貫通全經**：會幕與聖殿都預表「神與人同住」→ 約1:14「道……支搭帳棚在我們中間」→ 啟21「神的帳幕在人間」。
+
+**無法迴避的問題**：「你的敬拜，是把神的殿當作買賣的場所，還是禱告的家？」
+
+> 「『我父的殿是禱告的殿』——你今天進入你的『殿』時，先帶進去的是禱告，還是手機？」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，祢為父的殿心裡焦急。求祢進到我心這座殿，翻倒一切把祢當工具的交易桌，潔淨我的敬拜，使它重新成為禱告的家。願祢—真聖殿—住在我裡面。阿們。
 
 ---
 

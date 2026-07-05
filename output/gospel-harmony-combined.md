@@ -9,6 +9,10 @@ publisher: "三書精讀出版系統"
 
 ## 耶穌基督完整生平 (The Complete Life of Jesus Christ)
 
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+無論翻到哪一卷、哪一章，這本書只有一位主角。四福音不是四本人物傳記，而是從四個角度照向同一位基督的四道光。讀祂的生平，最要緊的不是記住事件的先後，而是學會從祂的角度去看——那時，舊約的預表、神蹟的記號、十架的黑暗、空墳的晨光，都要一同照亮起來。
+
 ## 四福音合參概覽 (Gospel Harmony Overview)
 
 本書以四福音書為基礎，依據神的救贖計劃架構，呈現耶穌基督完整的一生。
@@ -79,7 +83,7 @@ publisher: "三書精讀出版系統"
 
 ---
 
-## 全書結構：耶穌生平六大時期 (Six Periods of Christ's Life)
+## 全書結構：耶穌生平七大時期 (Seven Periods of Christ's Life)
 
 | 部分 | 時期 | 章節 | 主題 | 主要來源 |
 |------|------|------|------|----------|
@@ -88,7 +92,9 @@ publisher: "三書精讀出版系統"
 | **第二部** | 加利利事工 | 5-15 | 神蹟與教導 | 四福音平行 |
 | **第三部** | 往耶路撒冷 | 16-24 | 門徒訓練 | 路 9:51-19:27 |
 | **第四部** | 受難週 | 25-31 | 十架救贖 | 四福音平行 |
-| **第五部** | 復活榮耀 | 32-34 | 復活升天 | 四福音結尾 |
+| **第五部** | 復活升天 | 32-34 | 復活顯現 | 四福音結尾 |
+| **第六部** | 教會誕生 | 35-36 | 五旬節與使命 | 使徒行傳 |
+| **第七部** | 榮耀再臨 | 37 | 最終審判 | 啟示錄 |
 
 ---
 
@@ -576,7 +582,9 @@ publisher: "三書精讀出版系統"
 | 3-6 | 加利利事工 | 5-15 |
 | 7-9 | 往耶路撒冷 | 16-24 |
 | 10-11 | 受難週 | 25-31 |
-| 12 | 復活榮耀 | 32-34 |
+| 12 | 復活升天 | 32-34 |
+| 13 | 教會誕生 | 35-36 |
+| 14 | 榮耀再臨 | 37 |
 
 ### 每章研讀模式
 
@@ -589,6 +597,67 @@ publisher: "三書精讀出版系統"
 | 5 | 禱告回應 | 5分鐘 |
 
 ---
+
+## 黃長老讀法：怎樣讀這本書
+
+讀耶穌的生平，黃長老只有一個定向：**主角永遠是耶穌**。記住事件的先後是「讀」；認出每一段裡的祂、讓祂的生命住進來，才是「領受」。
+
+**每一章，問這五個問題：**
+
+1. 這段話，讓你看見耶穌是誰？
+2. 這裡的人物、節期、器物、神蹟，在耶穌身上如何應驗？
+3. 這段話的主角若換成耶穌，說的是什麼？
+4. 耶穌在別處怎麼引用或回應這段話？
+5. 若這段看不見耶穌，必定還有一個角度沒看到——再看一次。
+
+**從「讀」到「領受」的六個層次：** 念（一口氣讀完）→ 找（關鍵詞、主句、結構）→ 問（讓感動停在心裡）→ 連（貫通整本聖經）→ 住（反芻默想）→ 行（化為每日的活祭）。
+
+> 「字句叫人死，精義叫人活。信徒先『住』在主的話裡，主的話才能『住』在信徒裡。」
+
+## 基督焦點全覽 (The Christ-Thread at a Glance)
+
+> 「整本聖經從頭到尾，主角只有一位。」每一章都是同一位基督的一道光——下表是這條貫穿全書的線。
+
+| 章 | 標題 | 在這章遇見的基督 | 開啟的鑰匙 |
+|----|------|------------------|------------|
+| 0 | 太初有道 | 永恆的道、創造主 | 創 1↔約 1↔啟 19 |
+| 1 | 天使報喜 | 那要來的主、大能者 | 尊主頌呼應哈拿之歌 |
+| 2 | 伯利恆之夜 | 降生馬槽的萬王之王 | 彌 5:2 生於伯利恆 |
+| 3 | 童年歲月 | 以父的事為念的真兒子 | 何 11:1 從埃及召出我兒子 |
+| 4 | 曠野預備 | 勝過試探的末後亞當 | 以神的話得勝（申命記） |
+| 5 | 首批門徒 | 先尋見人的主、雅各天梯 | 創 28:12 通天的梯 |
+| 6 | 迦拿婚宴 | 把好酒留到現在的真葡萄樹 | 第一個兆頭 |
+| 7 | 潔淨聖殿 | 真聖殿 | 會幕→約 1:14→啟 21 |
+| 8 | 尼哥底母 | 叫人重生的人子 | 民 21 銅蛇被舉起 |
+| 9 | 撒瑪利亞婦人 | 活水的泉源、那「我是」 | 耶 2:13 活水的泉源 |
+| 10 | 醫治神蹟 | 有赦罪權柄、掌管身體自然與罪的主 | 賽 53:4／太 8:17 |
+| 11 | 山上寶訓 | 頒布天國律法的新摩西、八福的本尊 | 出 19-20 西奈山 |
+| 12 | 五餅二魚 | 生命的糧 | 出 16 嗎哪 |
+| 13 | 水上行走 | 踏浪的「我是」 | 出 3:14 聖名 |
+| 14 | 生命的糧講論 | 把自己給出去的生命之糧 | 出 16；申 8:3 |
+| 15 | 住棚節講論 | 世界的光、活水、永恆的「我是」 | 出 13、17；約 8:58 |
+| 16 | 醫治瞎眼 | 開人靈眼的世界之光 | 賽 35:5 彌賽亞記號 |
+| 17 | 好牧人 | 羊的門、為羊捨命的好牧人 | 結 34 應許的牧人 |
+| 18 | 拉撒路復活 | 復活與生命 | 第七個兆頭；林前 15:55 |
+| 19 | 天國比喻 | 尋找失喪者的牧人與父 | 結 34:11；何 11:8 |
+| 20 | 財主與天國 | 該坐人心首位的主 | 出 20:3 第一誡 |
+| 21 | 登山變像 | 父所愛、律法先知都指向的子 | 申 18:15 那位先知 |
+| 22 | 榮耀進城 | 騎驢謙卑的王 | 亞 9:9 |
+| 23 | 潔淨聖殿（受難週） | 忽然進殿的審判者、殿的主人 | 瑪 3:1 |
+| 24 | 橄欖山講論 | 駕雲再來的人子 | 但 7:13-14 |
+| 25 | 最後晚餐 | 逾越節的羔羊 | 出 12；林前 5:7 |
+| 26 | 馬可樓講論 | 道路、真理、生命；真葡萄樹 | 賽 5／詩 80 葡萄園 |
+| 27 | 大祭司的禱告 | 永遠代求的大祭司 | 利 16；來 7:25 |
+| 28 | 客西馬尼 | 順服父旨、在園中得勝的末後亞當 | 賽 51:17 忿怒之杯 |
+| 29 | 審判 | 不開口的羔羊 | 賽 53:7 |
+| 30 | 十字架 | 喊「成了」的神羔羊 | 詩 22；賽 53 |
+| 31 | 埋葬 | 與財主同葬、安息的麥子 | 賽 53:9；約 12:24 |
+| 32 | 復活 | 勝過死亡、初熟的果子 | 詩 16:10；林前 15:20 |
+| 33 | 復活顯現 | 以經解經、復職彼得的主 | 路 24:27 |
+| 34 | 升天 | 得萬有權柄、登基的人子 | 但 7:14；詩 110:1 |
+| 35 | 五旬節 | 澆灌聖靈、被立為主為基督的主 | 珥 2:28；創 11 逆轉 |
+| 36 | 給七教會的信 | 行走在燈臺中間的主 | 啟 1:13-16 |
+| 37 | 榮耀再臨 | 坐寶座的羔羊、萬王之王 | 啟 19-22；創↔啟 |
 
 ## 默想問題
 
@@ -626,6 +695,14 @@ publisher: "三書精讀出版系統"
 
 約翰福音 1:1-18
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+在這卷書翻開以前，主角已經在場。約翰不從馬槽起筆，而從「太初」起筆——那位道成肉身的，就是與神同在、本是神的道。讀這段，不是讀一個嬰孩的傳記前言，而是認出創造萬有的主，如今親自進入祂所造的世界。光照進黑暗，因為光本是祂。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
@@ -640,17 +717,17 @@ publisher: "三書精讀出版系統"
 
 > \textsuperscript{15}約翰為他作見證，喊著說：「這就是我曾說：『那在我以後來的，反而成了在我以前的，因為他本來在我以前。』」\textsuperscript{16}從他的豐盛裏，我們都領受了恩典，而且恩上加恩。\textsuperscript{17}律法是藉著摩西頒佈的；恩典和真理卻是由耶穌基督來的。\textsuperscript{18}從來沒有人見過神，只有在父懷裏獨一的兒子把他彰顯出來。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}In the beginning was the Word, and the Word was with God, and the Word was God. \textsuperscript{2}He was in the beginning with God. \textsuperscript{3}All things were made through him, and without him was not any thing made that was made. \textsuperscript{4}In him was life, and the life was the light of men. \textsuperscript{5}The light shines in the darkness, and the darkness has not overcome it.
+> \textsuperscript{1}In the beginning was the Word, and the Word was with God, and the Word was God. \textsuperscript{2}He was in the beginning with God. \textsuperscript{3}All things were made through Him, and without Him nothing was made that was made. \textsuperscript{4}In Him was life, and the life was the light of men. \textsuperscript{5}And the light shines in the darkness, and the darkness did not comprehend it.
 
-> \textsuperscript{6}There was a man sent from God, whose name was John. \textsuperscript{7}He came as a witness, to bear witness about the light, that all might believe through him. \textsuperscript{8}He was not the light, but came to bear witness about the light.
+> \textsuperscript{6}There was a man sent from God, whose name was John. \textsuperscript{7}This man came for a witness, to bear witness of the Light, that all through him might believe. \textsuperscript{8}He was not that Light, but was sent to bear witness of that Light.
 
-> \textsuperscript{9}The true light, which gives light to everyone, was coming into the world. \textsuperscript{10}He was in the world, and the world was made through him, yet the world did not know him. \textsuperscript{11}He came to his own, and his own people did not receive him. \textsuperscript{12}But to all who did receive him, who believed in his name, he gave the right to become children of God, \textsuperscript{13}who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
+> \textsuperscript{9}That was the true Light which gives light to every man coming into the world. \textsuperscript{10}He was in the world, and the world was made through Him, and the world did not know Him. \textsuperscript{11}He came to His own, and His own did not receive Him. \textsuperscript{12}But as many as received Him, to them He gave the right to become children of God, to those who believe in His name: \textsuperscript{13}who were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
 
-> \textsuperscript{14}And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.
+> \textsuperscript{14}And the Word became flesh and dwelt among us, and we beheld His glory, the glory as of the only begotten of the Father, full of grace and truth.
 
-> \textsuperscript{15}(John bore witness about him, and cried out, "This was he of whom I said, 'He who comes after me ranks before me, because he was before me.'") \textsuperscript{16}For from his fullness we have all received, grace upon grace. \textsuperscript{17}For the law was given through Moses; grace and truth came through Jesus Christ. \textsuperscript{18}No one has ever seen God; the only God, who is at the Father's side, he has made him known.
+> \textsuperscript{15}John bore witness of Him and cried out, saying, \jesus{"This was He of whom I said, 'He who comes after me is preferred before me, for He was before me.'"} \textsuperscript{16}And of His fullness we have all received, and grace for grace. \textsuperscript{17}For the law was given through Moses, but grace and truth came through Jesus Christ. \textsuperscript{18}No one has seen God at any time. The only begotten Son, who is in the bosom of the Father, He has declared Him.
 
 ---
 
@@ -809,6 +886,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：摩西五經是根基。創世記「起初神說……要有光」（創 1:1-3）——道藉話語創造；約翰接著說「萬物是藉著祂造的」（約 1:3）。「起初」與「太初」首尾呼應，啟示錄收尾：「祂的名稱為神之道」（啟 19:13）。從創造到再來，主角同一位。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「『道』這個字，你以前怎麼理解？老子也用這個字。」
+- 再問：「約翰給『道』下了什麼定義？（道與神同在，道就是神）」
+- 追問：「這位創造萬有的道，做了一件最不可思議的事——是什麼？」
+- 落到自己：「祂住進了自己造的世界，也願意住進你裡面——你給祂留了位子嗎？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天我們最擅長「造」的，是話語——機器一秒能生成千言萬語。但要分清：人能製造資訊，唯有神能用話語創造生命。你天天被無數的「話」淹沒，還聽得見那一句使你重生的「道」嗎？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：起來第一件事，不是先滑手機收下千百句話，而是先讓「太初的道」對你說話。
+- **晚上**：回想今天，哪些話只是「字句」（消耗你），哪一句是「道」（餵養你）？
+- **一個行動**：選一節約翰福音第一章的經文背下來，讓道「住」進你。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：那位在「太初」創造萬有的道，竟「成了肉身」住進祂所造的世界——這一節序言，是全本聖經的縮影。
+
+**貫通全經**：創世記「起初神說」→ 約翰「太初有道」→ 啟示錄「那騎白馬的，名稱為神之道」。從頭到尾，主角只有一位。
+
+**無法迴避的問題**：「你研讀聖經，有沒有看見這位道？還是只讀進了字句、卻錯過了祂？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你是太初的道，萬有藉你而造，你竟成了肉身，住在我們中間。求你開我的眼，叫我在字句之外看見你的榮光；也求你進到我裡面，使我這被造的，被你的話重新創造。奉你的名禱告，阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 序言*
 
 
@@ -818,6 +940,14 @@ MacArthur 強調三重「道」的含義：
 # 天使報喜 (The Angelic Announcements)
 
 路加福音 1:5-56
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+報喜的對象是兩個嬰孩，焦點卻只有一位。施洗約翰在母腹中跳動，是為那位要來的歡呼；馬利亞的尊主頌所高舉的，不是自己的福分，而是那位「大能者為我成就大事」的主。從祂的角度讀，撒迦利亞的啞口、以利沙伯的問安、馬利亞的順服，都指向同一件事：神顧念祂的百姓，救主已在路上。
+
+---
 
 ## 經文 (Scripture)
 
@@ -835,15 +965,15 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{21}百姓等候撒迦利亞，詫異他許久在殿裏。\textsuperscript{22}他出來後，不能和他們說話，他們就知道他在殿裏見了異象。他只向他們打手勢，竟成了啞巴。\textsuperscript{23}他供職的日子滿了，就回家去了。\textsuperscript{24}這些日子以後，他的妻子伊利莎白懷了孕，隱藏了五個月，\textsuperscript{25}說：「主在眷顧我的日子這樣恩待我，要把我在人間的羞恥除掉。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{5}In the days of Herod, king of Judea, there was a priest named Zechariah, of the division of Abijah. And he had a wife from the daughters of Aaron, and her name was Elizabeth. \textsuperscript{6}And they were both righteous before God, walking blamelessly in all the commandments and statutes of the Lord. \textsuperscript{7}But they had no child, because Elizabeth was barren, and both were advanced in years.
+> \textsuperscript{5}There was in the days of Herod, the king of Judea, a certain priest named Zacharias, of the division of Abijah. His wife was of the daughters of Aaron, and her name was Elizabeth. \textsuperscript{6}And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless. \textsuperscript{7}But they had no child, because Elizabeth was barren, and they were both well advanced in years.
 
-> \textsuperscript{8}Now while he was serving as priest before God when his division was on duty, \textsuperscript{9}according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense. \textsuperscript{10}And the whole multitude of the people were praying outside at the hour of incense. \textsuperscript{11}And there appeared to him an angel of the Lord standing on the right side of the altar of incense. \textsuperscript{12}And Zechariah was troubled when he saw him, and fear fell upon him. \textsuperscript{13}But the angel said to him, "Do not be afraid, Zechariah, for your prayer has been heard, and your wife Elizabeth will bear you a son, and you shall call his name John. \textsuperscript{14}And you will have joy and gladness, and many will rejoice at his birth, \textsuperscript{15}for he will be great before the Lord. And he must not drink wine or strong drink, and he will be filled with the Holy Spirit, even from his mother's womb. \textsuperscript{16}And he will turn many of the children of Israel to the Lord their God, \textsuperscript{17}and he will go before him in the spirit and power of Elijah, to turn the hearts of the fathers to the children, and the disobedient to the wisdom of the just, to make ready for the Lord a people prepared."
+> \textsuperscript{8}So it was, that while he was serving as priest before God in the order of his division, \textsuperscript{9}according to the custom of the priesthood, his lot fell to burn incense when he went into the temple of the Lord. \textsuperscript{10}And the whole multitude of the people was praying outside at the hour of incense. \textsuperscript{11}Then an angel of the Lord appeared to him, standing on the right side of the altar of incense. \textsuperscript{12}And when Zacharias saw him, he was troubled, and fear fell upon him. \textsuperscript{13}But the angel said to him, "Do not be afraid, Zacharias, for your prayer is heard; and your wife Elizabeth will bear you a son, and you shall call his name John. \textsuperscript{14}And you will have joy and gladness, and many will rejoice at his birth. \textsuperscript{15}For he will be great in the sight of the Lord, and shall drink neither wine nor strong drink. He will also be filled with the Holy Spirit, even from his mother's womb. \textsuperscript{16}And he will turn many of the children of Israel to the Lord their God. \textsuperscript{17}He will also go before Him in the spirit and power of Elijah, 'to turn the hearts of the fathers to the children,' and the disobedient to the wisdom of the just, to make ready a people prepared for the Lord."
 
-> \textsuperscript{18}And Zechariah said to the angel, "How shall I know this? For I am an old man, and my wife is advanced in years." \textsuperscript{19}And the angel answered him, "I am Gabriel. I stand in the presence of God, and I was sent to speak to you and to bring you this good news. \textsuperscript{20}And behold, you will be silent and unable to speak until the day that these things take place, because you did not believe my words, which will be fulfilled in their time."
+> \textsuperscript{18}And Zacharias said to the angel, "How shall I know this? For I am an old man, and my wife is well advanced in years." \textsuperscript{19}And the angel answered and said to him, "I am Gabriel, who stands in the presence of God, and was sent to speak to you and bring you these glad tidings. \textsuperscript{20}But behold, you will be mute and not able to speak until the day these things take place, because you did not believe my words which will be fulfilled in their own time."
 
-> \textsuperscript{21}And the people were waiting for Zechariah, and they were wondering at his delay in the temple. \textsuperscript{22}And when he came out, he was unable to speak to them, and they realized that he had seen a vision in the temple. And he kept making signs to them and remained mute. \textsuperscript{23}And when his time of service was ended, he went to his home. \textsuperscript{24}After these days his wife Elizabeth conceived, and for five months she kept herself hidden, saying, \textsuperscript{25}"Thus the Lord has done for me in the days when he looked on me, to take away my reproach among people."
+> \textsuperscript{21}And the people waited for Zacharias, and marveled that he lingered so long in the temple. \textsuperscript{22}But when he came out, he could not speak to them; and they perceived that he had seen a vision in the temple, for he beckoned to them and remained speechless. \textsuperscript{23}So it was, as soon as the days of his service were completed, that he departed to his own house. \textsuperscript{24}Now after those days his wife Elizabeth conceived; and she hid herself five months, saying, \textsuperscript{25}"Thus the Lord has dealt with me, in the days when He looked on me, to take away my reproach among people."
 
 ---
 
@@ -857,11 +987,11 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{34}馬利亞對天使說：「我沒有出嫁，怎麼會有這事呢？」\textsuperscript{35}天使回答她說：「聖靈要臨到你身上，至高者的能力要庇蔭你，因此，那要出生的聖者要稱為神的兒子。\textsuperscript{36}看哪，你的親戚伊利莎白，就是那素來稱為不生育的，在年老的時候也懷了男胎，現在已經六個月了。\textsuperscript{37}因為，出於神的話，沒有一句不帶能力的。」\textsuperscript{38}馬利亞說：「我是主的使女，願意照你的話實現在我身上。」天使就離開她去了。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{26}In the sixth month the angel Gabriel was sent from God to a city of Galilee named Nazareth, \textsuperscript{27}to a virgin betrothed to a man whose name was Joseph, of the house of David. And the virgin's name was Mary. \textsuperscript{28}And he came to her and said, "Greetings, O favored one, the Lord is with you!" \textsuperscript{29}But she was greatly troubled at the saying, and tried to discern what sort of greeting this might be. \textsuperscript{30}And the angel said to her, "Do not be afraid, Mary, for you have found favor with God. \textsuperscript{31}And behold, you will conceive in your womb and bear a son, and you shall call his name Jesus. \textsuperscript{32}He will be great and will be called the Son of the Most High. And the Lord God will give to him the throne of his father David, \textsuperscript{33}and he will reign over the house of Jacob forever, and of his kingdom there will be no end."
+> \textsuperscript{26}Now in the sixth month the angel Gabriel was sent by God to a city of Galilee named Nazareth, \textsuperscript{27}to a virgin betrothed to a man whose name was Joseph, of the house of David. The virgin's name was Mary. \textsuperscript{28}And having come in, the angel said to her, "Rejoice, highly favored one, the Lord is with you; blessed are you among women!" \textsuperscript{29}But when she saw him, she was troubled at his saying, and considered what manner of greeting this was. \textsuperscript{30}Then the angel said to her, "Do not be afraid, Mary, for you have found favor with God. \textsuperscript{31}And behold, you will conceive in your womb and bring forth a Son, and shall call His name Jesus. \textsuperscript{32}He will be great, and will be called the Son of the Highest; and the Lord God will give Him the throne of His father David. \textsuperscript{33}And He will reign over the house of Jacob forever, and of His kingdom there will be no end."
 
-> \textsuperscript{34}And Mary said to the angel, "How will this be, since I am a virgin?" \textsuperscript{35}And the angel answered her, "The Holy Spirit will come upon you, and the power of the Most High will overshadow you; therefore the child to be born will be called holy—the Son of God. \textsuperscript{36}And behold, your relative Elizabeth in her old age has also conceived a son, and this is the sixth month with her who was called barren. \textsuperscript{37}For nothing will be impossible with God." \textsuperscript{38}And Mary said, "Behold, I am the servant of the Lord; let it be to me according to your word." And the angel departed from her.
+> \textsuperscript{34}Then Mary said to the angel, "How can this be, since I do not know a man?" \textsuperscript{35}And the angel answered and said to her, "The Holy Spirit will come upon you, and the power of the Highest will overshadow you; therefore, also, that Holy One who is to be born will be called the Son of God. \textsuperscript{36}Now indeed, Elizabeth your relative has also conceived a son in her old age; and this is now the sixth month for her who was called barren. \textsuperscript{37}For with God nothing will be impossible." \textsuperscript{38}Then Mary said, "Behold the maidservant of the Lord! Let it be to me according to your word." And the angel departed from her.
 
 ---
 
@@ -877,13 +1007,13 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{56}馬利亞和伊利莎白同住約有三個月，就回家去了。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{39}In those days Mary arose and went with haste into the hill country, to a town in Judah, \textsuperscript{40}and she entered the house of Zechariah and greeted Elizabeth. \textsuperscript{41}And when Elizabeth heard the greeting of Mary, the baby leaped in her womb. And Elizabeth was filled with the Holy Spirit, \textsuperscript{42}and she exclaimed with a loud cry, "Blessed are you among women, and blessed is the fruit of your womb! \textsuperscript{43}And why is this granted to me that the mother of my Lord should come to me? \textsuperscript{44}For behold, when the sound of your greeting came to my ears, the baby in my womb leaped for joy. \textsuperscript{45}And blessed is she who believed that there would be a fulfillment of what was spoken to her from the Lord."
+> \textsuperscript{39}Now Mary arose in those days and went into the hill country with haste, to a city of Judah, \textsuperscript{40}and entered the house of Zacharias and greeted Elizabeth. \textsuperscript{41}And it happened, when Elizabeth heard the greeting of Mary, that the babe leaped in her womb; and Elizabeth was filled with the Holy Spirit. \textsuperscript{42}Then she spoke out with a loud voice and said, "Blessed are you among women, and blessed is the fruit of your womb! \textsuperscript{43}But why is this granted to me, that the mother of my Lord should come to me? \textsuperscript{44}For indeed, as soon as the voice of your greeting sounded in my ears, the babe leaped in my womb for joy. \textsuperscript{45}Blessed is she who believed, for there will be a fulfillment of those things which were told her from the Lord."
 
-> \textsuperscript{46}And Mary said, "My soul magnifies the Lord, \textsuperscript{47}and my spirit rejoices in God my Savior, \textsuperscript{48}for he has looked on the humble estate of his servant. For behold, from now on all generations will call me blessed; \textsuperscript{49}for he who is mighty has done great things for me, and holy is his name. \textsuperscript{50}And his mercy is for those who fear him from generation to generation. \textsuperscript{51}He has shown strength with his arm; he has scattered the proud in the thoughts of their hearts; \textsuperscript{52}he has brought down the mighty from their thrones and exalted those of humble estate; \textsuperscript{53}he has filled the hungry with good things, and the rich he has sent away empty. \textsuperscript{54}He has helped his servant Israel, in remembrance of his mercy, \textsuperscript{55}as he spoke to our fathers, to Abraham and to his offspring forever."
+> \textsuperscript{46}And Mary said: "My soul magnifies the Lord, \textsuperscript{47}And my spirit has rejoiced in God my Savior. \textsuperscript{48}For He has regarded the lowly state of His maidservant; For behold, henceforth all generations will call me blessed. \textsuperscript{49}For He who is mighty has done great things for me, And holy is His name. \textsuperscript{50}And His mercy is on those who fear Him From generation to generation. \textsuperscript{51}He has shown strength with His arm; He has scattered the proud in the imagination of their hearts. \textsuperscript{52}He has put down the mighty from their thrones, And exalted the lowly. \textsuperscript{53}He has filled the hungry with good things, And the rich He has sent away empty. \textsuperscript{54}He has helped His servant Israel, In remembrance of His mercy, \textsuperscript{55}As He spoke to our fathers, To Abraham and to his seed forever."
 
-> \textsuperscript{56}And Mary remained with her about three months and returned to her home.
+> \textsuperscript{56}And Mary remained with her about three months, and returned to her house.
 
 ---
 
@@ -1018,6 +1148,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：舊約的回響與應驗。馬利亞的尊主頌（路 1:46-55）幾乎句句呼應哈拿之歌（撒上 2:1-10）——卑微的得高舉，飢餓的得飽足。施洗約翰應驗瑪 3:1 與賽 40:3「在曠野預備主的道」的先鋒預言。神揀選卑微的使女，正是林前 1:27-28 的法則。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「天使向撒迦利亞和馬利亞都報喜，兩人的反應有什麼不同？」
+- 再問：「為什麼撒迦利亞啞了，馬利亞卻得了祝福？」
+- 追問：「『在神沒有一件不能的事』——這句話臨到你最近哪個『不可能』？」
+- 落到自己：「神對你說的話你還沒看見成就——你選擇質疑，還是說『情願照你的話成就』？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天凡事先看數據、先問「有什麼證據」才肯信。馬利亞沒有證據，只有一句話，就順服了。在一個「眼見為實、算法說了算」的時代，你還願意憑神的話而信嗎？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把今天一件「還看不見結果」的事交託，學馬利亞說：「情願照你的話成就。」
+- **晚上**：今天我有沒有像撒迦利亞，因為事情「不合理」就不信神的話？
+- **一個行動**：為一個你等了很久、還沒應驗的禱告，再一次安靜交託，不催逼。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：救主還未出生，眾人已圍著那一位歡呼——約翰在母腹跳動，馬利亞口唱尊主頌。
+
+**貫通全經**：撒迦利亞的啞口（不信）對照馬利亞的「情願照你的話成就」（信）——哪裡有信，哪裡就有聖靈的工作。
+
+**無法迴避的問題**：「神對你說一句你還不明白的話，你會像撒迦利亞質疑，還是像馬利亞順服？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你顧念卑微的使女，也顧念卑微的我。當你的話臨到、我卻看不明白時，求你給我馬利亞的心，說「情願照你的話成就」。願我一聽見你，就像腹中的嬰孩歡喜跳動。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第一章*
 
 
@@ -1027,6 +1202,14 @@ MacArthur 強調三重「道」的含義：
 # 伯利恆之夜 (The Night in Bethlehem)
 
 馬太福音 1:18-2:12, 路加福音 2:1-20
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+伯利恆的夜晚有兩種人在尋找：牧人循著天使的指引，博士循著星宿的引導。他們所朝向的中心是同一位——躺在馬槽裏的萬王之王。從祂的角度讀，凱撒的戶口名冊不過是為了把祂送到先知所指的城；卑微的馬槽不是意外，而是「道成肉身，住在我們中間」的起點。
+
+---
 
 ## 經文 (Scripture)
 
@@ -1038,9 +1221,9 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{18}耶穌基督降生的事是這樣的：他母親馬利亞已經許配了約瑟，還沒有迎娶，馬利亞就從聖靈懷了孕。\textsuperscript{19}她丈夫約瑟是個義人，不願意公開羞辱她，想要暗暗地把她休了。\textsuperscript{20}正思念這些事的時候，忽然有主的使者在夢中向他顯現，說：「大衛的子孫約瑟，不要怕，只管把你的妻子馬利亞娶過來，因為她所懷的孕是從聖靈來的。\textsuperscript{21}她將要生一個兒子，你要給他起名叫耶穌，因為他要把自己的百姓從罪惡中拯救出來。」\textsuperscript{22}這一切的事成就，是要應驗主藉先知所說的話：\textsuperscript{23}「看哪，必有童女懷孕生子，人要稱他的名為以馬內利。」（以馬內利翻出來就是「神與我們同在」。）\textsuperscript{24}約瑟醒了，起來，就遵照主的使者所吩咐的，把妻子娶過來，\textsuperscript{25}只是沒有和她同房，等她生了兒子，就給他起名叫耶穌。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{18}Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit. \textsuperscript{19}And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. \textsuperscript{20}But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. \textsuperscript{21}She will bear a son, and you shall call his name Jesus, for he will save his people from their sins." \textsuperscript{22}All this took place to fulfill what the Lord had spoken by the prophet: \textsuperscript{23}"Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel" (which means, God with us). \textsuperscript{24}When Joseph woke from sleep, he did as the angel of the Lord commanded him: he took his wife, \textsuperscript{25}but knew her not until she had given birth to a son. And he called his name Jesus.
+> \textsuperscript{18}Now the birth of Jesus Christ was as follows: After His mother Mary was betrothed to Joseph, before they came together, she was found with child of the Holy Spirit. \textsuperscript{19}Then Joseph her husband, being a just man, and not wanting to make her a public example, was minded to put her away secretly. \textsuperscript{20}But while he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take to you Mary your wife, for that which is conceived in her is of the Holy Spirit. \textsuperscript{21}And she will bring forth a Son, and you shall call His name Jesus, for He will save His people from their sins." \textsuperscript{22}So all this was done that it might be fulfilled which was spoken by the Lord through the prophet, saying: \textsuperscript{23}"Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel," which is translated, "God with us." \textsuperscript{24}Then Joseph, being aroused from sleep, did as the angel of the Lord commanded him and took to him his wife, \textsuperscript{25}and did not know her till she had brought forth her firstborn Son. And he called His name Jesus.
 
 ---
 
@@ -1058,15 +1241,15 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{15}眾天使離開他們，升天去了。牧羊人彼此說：「我們往伯利恆去，看看所成就的事，就是主所指示我們的。」\textsuperscript{16}他們急忙去了，找到馬利亞和約瑟，還有那嬰孩臥在馬槽裏。\textsuperscript{17}他們看見後，就把天使論這孩子的話傳開了。\textsuperscript{18}凡聽見的，都對牧羊人所說的事感到驚奇。\textsuperscript{19}馬利亞卻把這一切的事存在心裏，反覆思考。\textsuperscript{20}牧羊人回去了，因所聽見所看見的一切事正如天使對他們所說的，就歸榮耀與神，讚美他。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}In those days a decree went out from Caesar Augustus that all the world should be registered. \textsuperscript{2}This was the first registration when Quirinius was governor of Syria. \textsuperscript{3}And all went to be registered, each to his own town. \textsuperscript{4}And Joseph also went up from Galilee, from the town of Nazareth, to Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, \textsuperscript{5}to be registered with Mary, his betrothed, who was with child. \textsuperscript{6}And while they were there, the time came for her to give birth. \textsuperscript{7}And she gave birth to her firstborn son and wrapped him in swaddling cloths and laid him in a manger, because there was no place for them in the inn.
+> \textsuperscript{1}And it came to pass in those days that a decree went out from Caesar Augustus that all the world should be registered. \textsuperscript{2}This census first took place while Quirinius was governing Syria. \textsuperscript{3}So all went to be registered, everyone to his own city. \textsuperscript{4}Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, \textsuperscript{5}to be registered with Mary, his betrothed wife, who was with child. \textsuperscript{6}So it was, that while they were there, the days were completed for her to be delivered. \textsuperscript{7}And she brought forth her firstborn Son, and wrapped Him in swaddling cloths, and laid Him in a manger, because there was no room for them in the inn.
 
-> \textsuperscript{8}And in the same region there were shepherds out in the field, keeping watch over their flock by night. \textsuperscript{9}And an angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were filled with great fear. \textsuperscript{10}And the angel said to them, "Fear not, for behold, I bring you good news of great joy that will be for all the people. \textsuperscript{11}For unto you is born this day in the city of David a Savior, who is Christ the Lord. \textsuperscript{12}And this will be a sign for you: you will find a baby wrapped in swaddling cloths and lying in a manger." \textsuperscript{13}And suddenly there was with the angel a multitude of the heavenly host praising God and saying,
+> \textsuperscript{8}Now there were in the same country shepherds living out in the fields, keeping watch over their flock by night. \textsuperscript{9}And behold, an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were greatly afraid. \textsuperscript{10}Then the angel said to them, "Do not be afraid, for behold, I bring you good tidings of great joy which will be to all people. \textsuperscript{11}For there is born to you this day in the city of David a Savior, who is Christ the Lord. \textsuperscript{12}And this will be the sign to you: You will find a Babe wrapped in swaddling cloths, lying in a manger." \textsuperscript{13}And suddenly there was with the angel a multitude of the heavenly host praising God and saying:
 
-> \textsuperscript{14}"Glory to God in the highest, and on earth peace among those with whom he is pleased!"
+> \textsuperscript{14}"Glory to God in the highest, and on earth peace, goodwill toward men!"
 
-> \textsuperscript{15}When the angels went away from them into heaven, the shepherds said to one another, "Let us go over to Bethlehem and see this thing that has happened, which the Lord has made known to us." \textsuperscript{16}And they went with haste and found Mary and Joseph, and the baby lying in a manger. \textsuperscript{17}And when they saw it, they made known the saying that had been told them concerning this child. \textsuperscript{18}And all who heard it wondered at what the shepherds told them. \textsuperscript{19}But Mary treasured up all these things, pondering them in her heart. \textsuperscript{20}And the shepherds returned, glorifying and praising God for all they had heard and seen, as it had been told them.
+> \textsuperscript{15}So it was, when the angels had gone away from them into heaven, that the shepherds said to one another, "Let us now go to Bethlehem and see this thing that has come to pass, which the Lord has made known to us." \textsuperscript{16}And they came with haste and found Mary and Joseph, and the Babe lying in a manger. \textsuperscript{17}Now when they had seen Him, they made widely known the saying which was told them concerning this Child. \textsuperscript{18}And all those who heard it marveled at those things which were told them by the shepherds. \textsuperscript{19}But Mary kept all these things and pondered them in her heart. \textsuperscript{20}Then the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told them.
 
 ---
 
@@ -1080,11 +1263,11 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{7}當時希律暗暗地召了博士來，仔細查問那星出現的時間，\textsuperscript{8}就派他們往伯利恆去，說：「你們去仔細尋訪那小孩子，找到了，就來報信，我也好去拜他。」\textsuperscript{9}他們聽了王的話就去了。忽然，在東方所看見的那顆星在前面引領他們，一直行到小孩子所在地方的上方就停住了。\textsuperscript{10}他們看見那星，就非常歡喜。\textsuperscript{11}進了房子，看見小孩子和他母親馬利亞，就俯伏拜那小孩子，揭開寶盒，拿出黃金、乳香、沒藥，作為禮物獻給他。\textsuperscript{12}因為在夢中得到主的指示不要回去見希律，他們就從別的路回自己的家鄉去了。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the east came to Jerusalem, \textsuperscript{2}saying, "Where is he who has been born king of the Jews? For we saw his star when it rose and have come to worship him." \textsuperscript{3}When Herod the king heard this, he was troubled, and all Jerusalem with him; \textsuperscript{4}and assembling all the chief priests and scribes of the people, he inquired of them where the Christ was to be born. \textsuperscript{5}They told him, "In Bethlehem of Judea, for so it is written by the prophet: \textsuperscript{6}'And you, O Bethlehem, in the land of Judah, are by no means least among the rulers of Judah; for from you shall come a ruler who will shepherd my people Israel.'"
+> \textsuperscript{1}Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem, \textsuperscript{2}saying, "Where is He who has been born King of the Jews? For we have seen His star in the East and have come to worship Him." \textsuperscript{3}When Herod the king heard this, he was troubled, and all Jerusalem with him. \textsuperscript{4}And when he had gathered all the chief priests and scribes of the people together, he inquired of them where the Christ was to be born. \textsuperscript{5}So they said to him, "In Bethlehem of Judea, for thus it is written by the prophet: \textsuperscript{6}'But you, Bethlehem, in the land of Judah, are not the least among the rulers of Judah; for out of you shall come a Ruler who will shepherd My people Israel.'"
 
-> \textsuperscript{7}Then Herod summoned the wise men secretly and ascertained from them what time the star had appeared. \textsuperscript{8}And he sent them to Bethlehem, saying, "Go and search diligently for the child, and when you have found him, bring me word, that I too may come and worship him." \textsuperscript{9}After listening to the king, they went on their way. And behold, the star that they had seen when it rose went before them until it came to rest over the place where the child was. \textsuperscript{10}When they saw the star, they rejoiced exceedingly with great joy. \textsuperscript{11}And going into the house, they saw the child with Mary his mother, and they fell down and worshiped him. Then, opening their treasures, they offered him gifts, gold and frankincense and myrrh. \textsuperscript{12}And being warned in a dream not to return to Herod, they departed to their own country by another way.
+> \textsuperscript{7}Then Herod, when he had secretly called the wise men, determined from them what time the star appeared. \textsuperscript{8}And he sent them to Bethlehem and said, "Go and search carefully for the young Child, and when you have found Him, bring back word to me, that I may come and worship Him also." \textsuperscript{9}When they heard the king, they departed; and behold, the star which they had seen in the East went before them, till it came and stood over where the young Child was. \textsuperscript{10}When they saw the star, they rejoiced with exceedingly great joy. \textsuperscript{11}And when they had come into the house, they saw the young Child with Mary His mother, and fell down and worshiped Him. And when they had opened their treasures, they presented gifts to Him: gold, frankincense, and myrrh. \textsuperscript{12}Then, being divinely warned in a dream that they should not return to Herod, they departed for their own country another way.
 
 ---
 
@@ -1215,6 +1398,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：預表與預言的應驗。彌 5:2 早指明祂生於伯利恆；伯利恆原意「糧倉之家」，那「生命的糧」就降生在此。博士所循的星，應驗民 24:17「有星要出於雅各」；賽 9:6「有一嬰孩為我們而生……祂名稱為……和平的君」。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「萬王之王要降生，你會替祂選什麼樣的出生地？」
+- 再問：「神卻選了馬槽——這說明祂是怎樣的一位王？」
+- 追問：「先找到祂的，是有學問的博士，還是夜間的牧人？這給你什麼提醒？」
+- 落到自己：「牧人連夜去找、博士走萬里來拜——你願意付什麼代價尋見祂？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+我們的注意力被訓練成只追逐熱門、有名、有權勢的。神卻在一個無人留意的小鎮、一個牲口槽裡降生。在一個人人想「被看見、上熱搜」的時代，你會不會錯過那位選擇默默無聞臨到的主？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求主給你一雙能在「卑微、不起眼」之處看見祂的眼睛。
+- **晚上**：今天我把注意力給了哪些「熱門」？有沒有留一點給那位降生馬槽的主？
+- **一個行動**：今天刻意關心一個被忽略、不起眼的人——像主臨到卑微的人那樣。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：萬王之王降生在馬槽——最大的尊貴，藏在最深的卑微裡。
+
+**貫通全經**：彌迦書5:2早已指明伯利恆；那「糧倉之城」如今降生了生命的糧。
+
+**無法迴避的問題**：「牧人連夜去找祂、博士走萬里來拜祂——你願意付什麼代價去尋見祂？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，萬王之王，你竟降生在馬槽。求你叫我不被熱鬧與名聲奪去眼目，能像牧人連夜、像博士遠行，定意尋見你；也叫我在卑微不起眼之處，迎接你的到來。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二章*
 
 
@@ -1224,6 +1452,14 @@ MacArthur 強調三重「道」的含義：
 # 童年歲月 (The Childhood Years)
 
 馬太福音 2:13-23, 路加福音 2:21-52
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+逃往埃及、定居拿撒勒、十二歲在聖殿——這些看似平凡的童年片段，主角始終是那位「以我父的事為念」的少年。從祂的角度讀，希律的刀劍攔不住祂，先知的話必然應驗；連祂「智慧和身量，並神和人喜愛他的心，都一齊增長」，都是真神真人、虛己卻不失其神性的見證。
+
+---
 
 ## 經文 (Scripture)
 
@@ -1237,11 +1473,11 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{16}希律見自己被博士愚弄，極其憤怒，差人把伯利恆城裏和四境所有兩歲以內的男孩，照着他從博士仔細查問到的時間，都殺盡了。\textsuperscript{17}這就應驗了先知耶利米所說的話：\textsuperscript{18}「在拉瑪聽見號咷大哭的聲音，是拉結在為她的兒女哭泣，不肯受安慰，因為他們都不在了。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{13}Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream and said, "Rise, take the child and his mother, and flee to Egypt, and remain there until I tell you, for Herod is about to search for the child, to destroy him." \textsuperscript{14}And he rose and took the child and his mother by night and departed to Egypt \textsuperscript{15}and remained there until the death of Herod. This was to fulfill what the Lord had spoken by the prophet, "Out of Egypt I called my son."
+> \textsuperscript{13}Now when they had departed, behold, an angel of the Lord appeared to Joseph in a dream, saying, "Arise, take the young Child and His mother, flee to Egypt, and stay there until I bring you word; for Herod will seek the young Child to destroy Him." \textsuperscript{14}When he arose, he took the young Child and His mother by night and departed for Egypt, \textsuperscript{15}and was there until the death of Herod, that it might be fulfilled which was spoken by the Lord through the prophet, saying, "Out of Egypt I called My Son."
 
-> \textsuperscript{16}Then Herod, when he saw that he had been tricked by the wise men, became furious, and he sent and killed all the male children in Bethlehem and in all that region who were two years old or under, according to the time that he had ascertained from the wise men. \textsuperscript{17}Then was fulfilled what was spoken by the prophet Jeremiah: \textsuperscript{18}"A voice was heard in Ramah, weeping and loud lamentation, Rachel weeping for her children; she refused to be comforted, because they are no more."
+> \textsuperscript{16}Then Herod, when he saw that he was deceived by the wise men, was exceedingly angry; and he sent forth and put to death all the male children who were in Bethlehem and in all its districts, from two years old and under, according to the time which he had determined from the wise men. \textsuperscript{17}Then was fulfilled what was spoken by Jeremiah the prophet, saying: \textsuperscript{18}"A voice was heard in Ramah, lamentation, weeping, and great mourning, Rachel weeping for her children, refusing to be comforted, because they are no more."
 
 ---
 
@@ -1253,9 +1489,9 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{19}希律死後，忽然有主的使者在埃及夢中向約瑟顯現，說：\textsuperscript{20}「起來！帶着小孩子和他母親回以色列地去，因為要害這小孩子性命的人已經死了。」\textsuperscript{21}約瑟就起來，把小孩子和他母親帶到以色列地去；\textsuperscript{22}只因聽見亞基老接續他父親希律作了猶太王，就怕往那裏去。又在夢中得到指示，就轉往加利利地區去了，\textsuperscript{23}到了一座城，名叫拿撒勒，就住在那裏。這是要應驗先知所說「他將稱為拿撒勒人」的話。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{19}But when Herod died, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, \textsuperscript{20}saying, "Rise, take the child and his mother and go to the land of Israel, for those who sought the child's life are dead." \textsuperscript{21}And he rose and took the child and his mother and went to the land of Israel. \textsuperscript{22}But when he heard that Archelaus was reigning over Judea in place of his father Herod, he was afraid to go there, and being warned in a dream he withdrew to the district of Galilee. \textsuperscript{23}And he went and lived in a city called Nazareth, so that what was spoken by the prophets might be fulfilled, that he would be called a Nazarene.
+> \textsuperscript{19}Now when Herod was dead, behold, an angel of the Lord appeared in a dream to Joseph in Egypt, \textsuperscript{20}saying, "Arise, take the young Child and His mother, and go to the land of Israel, for those who sought the young Child's life are dead." \textsuperscript{21}Then he arose, took the young Child and His mother, and came into the land of Israel. \textsuperscript{22}But when he heard that Archelaus was reigning over Judea instead of his father Herod, he was afraid to go there. And being warned by God in a dream, he turned aside into the region of Galilee. \textsuperscript{23}And he came and dwelt in a city called Nazareth, that it might be fulfilled which was spoken by the prophets, "He shall be called a Nazarene."
 
 ---
 
@@ -1273,15 +1509,15 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{33}孩子的父母因所論及他的這些話感到驚奇。\textsuperscript{34}西面給他們祝福，又對他母親馬利亞說：「這孩子被立，是要叫以色列中許多人跌倒，許多人興起；又要作毀謗的記號，\textsuperscript{35}叫許多人心裏的意念顯露出來；你自己的心也要被刀刺透。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{21}And at the end of eight days, when he was circumcised, he was called Jesus, the name given by the angel before he was conceived in the womb. \textsuperscript{22}And when the time came for their purification according to the Law of Moses, they brought him up to Jerusalem to present him to the Lord \textsuperscript{23}(as it is written in the Law of the Lord, "Every male who first opens the womb shall be called holy to the Lord") \textsuperscript{24}and to offer a sacrifice according to what is said in the Law of the Lord, "a pair of turtledoves, or two young pigeons."
+> \textsuperscript{21}And when eight days were completed for the circumcision of the Child, His name was called Jesus, the name given by the angel before He was conceived in the womb. \textsuperscript{22}Now when the days of her purification according to the law of Moses were completed, they brought Him to Jerusalem to present Him to the Lord \textsuperscript{23}(as it is written in the law of the Lord, "Every male who opens the womb shall be called holy to the Lord"), \textsuperscript{24}and to offer a sacrifice according to what is said in the law of the Lord, "A pair of turtledoves or two young pigeons."
 
-> \textsuperscript{25}Now there was a man in Jerusalem, whose name was Simeon, and this man was righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him. \textsuperscript{26}And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ. \textsuperscript{27}And he came in the Spirit into the temple, and when the parents brought in the child Jesus, to do for him according to the custom of the Law, \textsuperscript{28}he took him up in his arms and blessed God and said,
+> \textsuperscript{25}And behold, there was a man in Jerusalem whose name was Simeon, and this man was just and devout, waiting for the Consolation of Israel, and the Holy Spirit was upon him. \textsuperscript{26}And it had been revealed to him by the Holy Spirit that he would not see death before he had seen the Lord's Christ. \textsuperscript{27}So he came by the Spirit into the temple. And when the parents brought in the Child Jesus, to do for Him according to the custom of the law, \textsuperscript{28}he took Him up in his arms and blessed God and said:
 
-> \textsuperscript{29}"Lord, now you are letting your servant depart in peace, according to your word; \textsuperscript{30}for my eyes have seen your salvation \textsuperscript{31}that you have prepared in the presence of all peoples, \textsuperscript{32}a light for revelation to the Gentiles, and for glory to your people Israel."
+> \textsuperscript{29}"Lord, now You are letting Your servant depart in peace, according to Your word; \textsuperscript{30}for my eyes have seen Your salvation \textsuperscript{31}which You have prepared before the face of all peoples, \textsuperscript{32}a light to bring revelation to the Gentiles, and the glory of Your people Israel."
 
-> \textsuperscript{33}And his father and his mother marveled at what was said about him. \textsuperscript{34}And Simeon blessed them and said to Mary his mother, "Behold, this child is appointed for the fall and rising of many in Israel, and for a sign that is opposed \textsuperscript{35}(and a sword will pierce through your own soul also), so that thoughts from many hearts may be revealed."
+> \textsuperscript{33}And Joseph and His mother marveled at those things which were spoken of Him. \textsuperscript{34}Then Simeon blessed them, and said to Mary His mother, "Behold, this Child is destined for the fall and rising of many in Israel, and for a sign which will be spoken against \textsuperscript{35}(yes, a sword will pierce through your own soul also), that the thoughts of many hearts may be revealed."
 
 ---
 
@@ -1295,11 +1531,11 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{39}約瑟和馬利亞照主的律法辦完了一切的事，就回加利利，到自己的城拿撒勒去了。\textsuperscript{40}孩子漸漸長大，強健起來，充滿智慧，又有神的恩典在他身上。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{36}And there was a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was advanced in years, having lived with her husband seven years from when she was a virgin, \textsuperscript{37}and then as a widow until she was eighty-four. She did not depart from the temple, worshiping with fasting and prayer night and day. \textsuperscript{38}And coming up at that very hour she began to give thanks to God and to speak of him to all who were waiting for the redemption of Jerusalem.
+> \textsuperscript{36}Now there was one, Anna, a prophetess, the daughter of Phanuel, of the tribe of Asher. She was of a great age, and had lived with a husband seven years from her virginity; \textsuperscript{37}and this woman was a widow of about eighty-four years, who did not depart from the temple, but served God with fastings and prayers night and day. \textsuperscript{38}And coming in that instant she gave thanks to the Lord, and spoke of Him to all those who looked for redemption in Jerusalem.
 
-> \textsuperscript{39}And when they had performed everything according to the Law of the Lord, they returned into Galilee, to their own town of Nazareth. \textsuperscript{40}And the child grew and became strong, filled with wisdom. And the favor of God was upon him.
+> \textsuperscript{39}So when they had performed all things according to the law of the Lord, they returned to Galilee, to their own city, Nazareth. \textsuperscript{40}And the Child grew and became strong in spirit, filled with wisdom; and the grace of God was upon Him.
 
 ---
 
@@ -1309,15 +1545,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{41}每年到逾越節，他父母就上耶路撒冷去。\textsuperscript{42}當他十二歲的時候，他們按着節期的慣例上去。\textsuperscript{43}守滿了節期，他們回去，孩童耶穌仍舊在耶路撒冷。他的父母並不知道，\textsuperscript{44}以為他在同行的人當中，走了一天的路程，就在親族和熟識的人中找他，\textsuperscript{45}既找不着，就回耶路撒冷去找他。\textsuperscript{46}過了三天，他們發現他在聖殿裏，坐在教師中間，一面聽，一面問。\textsuperscript{47}凡聽見他的人都對他的聰明和他的應對感到驚奇。\textsuperscript{48}他父母看見就很驚訝。他母親對他說：「孩子，為甚麼這樣對待我們呢？你看，你父親和我很焦急，到處找你！」\textsuperscript{49}耶穌對他們說：「為甚麼找我呢？難道你們不知道我應當在我父的家裏嗎？」\textsuperscript{50}他所說的這話，他們不明白。
+> \textsuperscript{41}每年到逾越節，他父母就上耶路撒冷去。\textsuperscript{42}當他十二歲的時候，他們按着節期的慣例上去。\textsuperscript{43}守滿了節期，他們回去，孩童耶穌仍舊在耶路撒冷。他的父母並不知道，\textsuperscript{44}以為他在同行的人當中，走了一天的路程，就在親族和熟識的人中找他，\textsuperscript{45}既找不着，就回耶路撒冷去找他。\textsuperscript{46}過了三天，他們發現他在聖殿裏，坐在教師中間，一面聽，一面問。\textsuperscript{47}凡聽見他的人都對他的聰明和他的應對感到驚奇。\textsuperscript{48}他父母看見就很驚訝。他母親對他說：「孩子，為甚麼這樣對待我們呢？你看，你父親和我很焦急，到處找你！」\textsuperscript{49}耶穌對他們說：\jesus{「為甚麼找我呢？難道你們不知道我應當在我父的家裏嗎？」}\textsuperscript{50}他所說的這話，他們不明白。
 
 > \textsuperscript{51}他就同他們下去，回到拿撒勒，並且順從他們。他母親把這一切的事都存在心裏。\textsuperscript{52}耶穌的智慧和身量，以及神和人對他的喜愛，都一齊增長。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{41}Now his parents went to Jerusalem every year at the Feast of the Passover. \textsuperscript{42}And when he was twelve years old, they went up according to custom. \textsuperscript{43}And when the feast was ended, as they were returning, the boy Jesus stayed behind in Jerusalem. His parents did not know it, \textsuperscript{44}but supposing him to be in the group they went a day's journey, but then they began to search for him among their relatives and acquaintances, \textsuperscript{45}and when they did not find him, they returned to Jerusalem, searching for him. \textsuperscript{46}After three days they found him in the temple, sitting among the teachers, listening to them and asking them questions. \textsuperscript{47}And all who heard him were amazed at his understanding and his answers. \textsuperscript{48}And when his parents saw him, they were astonished. And his mother said to him, "Son, why have you treated us so? Behold, your father and I have been searching for you in great distress." \textsuperscript{49}And he said to them, "Why were you looking for me? Did you not know that I must be in my Father's house?" \textsuperscript{50}And they did not understand the saying that he spoke to them.
+> \textsuperscript{41}His parents went to Jerusalem every year at the Feast of the Passover. \textsuperscript{42}And when He was twelve years old, they went up to Jerusalem according to the custom of the feast. \textsuperscript{43}When they had finished the days, as they returned, the Boy Jesus lingered behind in Jerusalem. And Joseph and His mother did not know it; \textsuperscript{44}but supposing Him to have been in the company, they went a day's journey, and sought Him among their relatives and acquaintances. \textsuperscript{45}So when they did not find Him, they returned to Jerusalem, seeking Him. \textsuperscript{46}Now so it was that after three days they found Him in the temple, sitting in the midst of the teachers, both listening to them and asking them questions. \textsuperscript{47}And all who heard Him were astonished at His understanding and answers. \textsuperscript{48}So when they saw Him, they were amazed; and His mother said to Him, "Son, why have You done this to us? Look, Your father and I have sought You anxiously." \textsuperscript{49}And He said to them, \jesus{"Why did you seek Me? Did you not know that I must be about My Father's business?"} \textsuperscript{50}But they did not understand the statement which He spoke to them.
 
-> \textsuperscript{51}And he went down with them and came to Nazareth and was submissive to them. And his mother treasured up all these things in her heart. \textsuperscript{52}And Jesus increased in wisdom and in stature and in favor with God and man.
+> \textsuperscript{51}Then He went down with them and came to Nazareth, and was subject to them, but His mother kept all these things in her heart. \textsuperscript{52}And Jesus increased in wisdom and stature, and in favor with God and men.
 
 ---
 
@@ -1446,6 +1682,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：以色列的故事在真兒子身上重演。「我從埃及召出我的兒子」（何 11:1）原指以色列，馬太卻指向逃埃及又歸回的耶穌（太 2:15）；定居拿撒勒，應驗「先知所說，他將稱為拿撒勒人」（太 2:23）。十二歲「以我父的事為念」，預示路 2:49 那永恆的父子關係。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「福音書為什麼幾乎不記耶穌的童年？只留下十二歲這一段？」
+- 再問：「十二歲的祂說『豈不知我應當以我父的事為念』——祂早知道自己是誰嗎？」
+- 追問：「祂用了三十年隱藏的歲月才出來事奉，這對急著『出頭』的我們說什麼？」
+- 落到自己：「你那些沒有人看見的、平凡的日子，是不是也『以父的事為念』？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的文化要你即時被看見、經營人設、隨時曬成果。耶穌卻甘心隱藏三十年。在一個「不曝光就等於不存在」的時代，你願意在無人看見之處，先向父忠心嗎？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把今天那些「沒有人會看見」的本分，獻給那位看見隱密處的父。
+- **晚上**：今天我做事，是為了被人看見，還是為了「父的事」？
+- **一個行動**：今天默默做一件好事，不告訴任何人，也不發到網上。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：十二歲的少年說「豈不知我應當以我父的事為念嗎」——祂從起初就知道自己是誰。
+
+**貫通全經**：「我從埃及召出我的兒子」（何11:1）——以色列的故事，在這位真兒子身上重演並成全。
+
+**無法迴避的問題**：「你那些隱藏、平凡的歲月，是不是也『以父的事為念』？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你曾甘心隱藏三十年，以父的事為念。在無人看見的日子裡，求你叫我也忠心於你，不為被人看見，只為討你喜悅。願我的隱密處，成為你所喜悅的祭壇。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第三章*
 
 
@@ -1455,6 +1736,14 @@ MacArthur 強調三重「道」的含義：
 # 曠野預備 (Wilderness Preparation)
 
 馬太福音 3-4, 馬可福音 1:1-13, 路加福音 3-4:13, 約翰福音 1:19-34
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+曠野裏有呼喊的聲音，但聲音不是主角，那位「在我以後來、能力比我更大」的才是。從祂的角度讀，約翰的洗禮指向祂，父的聲音為祂作證「這是我的愛子」，聖靈降在祂身上。當祂在曠野勝過試探，祂是那位代替失敗的亞當、代替悖逆的以色列、單以神的話語得勝的真兒子。
+
+---
 
 ## 經文 (Scripture)
 
@@ -1470,13 +1759,13 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{7}約翰看見許多法利賽人和撒都該人也來受洗，就對他們說：「毒蛇的孽種！誰指示你們逃避那將要來的憤怒呢？\textsuperscript{8}你們要結出果子來，和悔改的心相稱。\textsuperscript{9}不要自己心裏說：『有亞伯拉罕為我們的祖宗。』我告訴你們，神能從這些石頭中給亞伯拉罕興起子孫來。\textsuperscript{10}現在斧子已經放在樹根上，凡不結好果子的樹，就砍下來，丟在火裏。\textsuperscript{11}我是用水給你們施洗，叫你們悔改；但那在我以後來的，能力比我更大，我就是給他提鞋子也不配。他要用聖靈與火給你們施洗。\textsuperscript{12}他手裏拿着簸箕，要揚淨他的穀場，把麥子收在倉裏，把糠用不滅的火燒盡。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}In those days John the Baptist came preaching in the wilderness of Judea, \textsuperscript{2}"Repent, for the kingdom of heaven is at hand." \textsuperscript{3}For this is he who was spoken of by the prophet Isaiah when he said, "The voice of one crying in the wilderness: 'Prepare the way of the Lord; make his paths straight.'"
+> \textsuperscript{1}In those days John the Baptist came preaching in the wilderness of Judea, \textsuperscript{2}and saying, "Repent, for the kingdom of heaven is at hand!" \textsuperscript{3}For this is he who was spoken of by the prophet Isaiah, saying: "The voice of one crying in the wilderness: 'Prepare the way of the Lord; make His paths straight.'"
 
-> \textsuperscript{4}Now John wore a garment of camel's hair and a leather belt around his waist, and his food was locusts and wild honey. \textsuperscript{5}Then Jerusalem and all Judea and all the region about the Jordan were going out to him, \textsuperscript{6}and they were baptized by him in the river Jordan, confessing their sins.
+> \textsuperscript{4}Now John himself was clothed in camel's hair, with a leather belt around his waist; and his food was locusts and wild honey. \textsuperscript{5}Then Jerusalem, all Judea, and all the region around the Jordan went out to him \textsuperscript{6}and were baptized by him in the Jordan, confessing their sins.
 
-> \textsuperscript{7}But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, "You brood of vipers! Who warned you to flee from the wrath to come? \textsuperscript{8}Bear fruit in keeping with repentance. \textsuperscript{9}And do not presume to say to yourselves, 'We have Abraham as our father,' for I tell you, God is able from these stones to raise up children for Abraham. \textsuperscript{10}Even now the axe is laid to the root of the trees. Every tree therefore that does not bear good fruit is cut down and thrown into the fire. \textsuperscript{11}"I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire. \textsuperscript{12}His winnowing fork is in his hand, and he will clear his threshing floor and gather his wheat into the barn, but the chaff he will burn with unquenchable fire."
+> \textsuperscript{7}But when he saw many of the Pharisees and Sadducees coming to his baptism, he said to them, "Brood of vipers! Who warned you to flee from the wrath to come? \textsuperscript{8}Therefore bear fruits worthy of repentance, \textsuperscript{9}and do not think to say to yourselves, 'We have Abraham as our father.' For I say to you that God is able to raise up children to Abraham from these stones. \textsuperscript{10}And even now the ax is laid to the root of the trees. Therefore every tree which does not bear good fruit is cut down and thrown into the fire. \textsuperscript{11}I indeed baptize you with water unto repentance, but He who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire. \textsuperscript{12}His winnowing fan is in His hand, and He will thoroughly clean out His threshing floor, and gather His wheat into the barn; but He will burn up the chaff with unquenchable fire."
 
 ---
 
@@ -1486,11 +1775,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{13}當時，耶穌從加利利來到約旦河，到了約翰那裏，要受他的洗。\textsuperscript{14}約翰想要攔住他，說：「我應該受你的洗，你反倒到我這裏來嗎？」\textsuperscript{15}耶穌回答他說：「暫且這樣做吧，因為我們理當這樣履行全部的義。」於是約翰答應了他。\textsuperscript{16}耶穌受了洗，隨即從水裏上來。忽然，天為他開了，他看見神的靈，彷彿鴿子降下，落在他身上。\textsuperscript{17}這時候，從天上有聲音說：「這是我的愛子，我所喜悅的。」
+> \textsuperscript{13}當時，耶穌從加利利來到約旦河，到了約翰那裏，要受他的洗。\textsuperscript{14}約翰想要攔住他，說：「我應該受你的洗，你反倒到我這裏來嗎？」\textsuperscript{15}耶穌回答他說：\jesus{「暫且這樣做吧，因為我們理當這樣履行全部的義。」}於是約翰答應了他。\textsuperscript{16}耶穌受了洗，隨即從水裏上來。忽然，天為他開了，他看見神的靈，彷彿鴿子降下，落在他身上。\textsuperscript{17}這時候，從天上有聲音說：「這是我的愛子，我所喜悅的。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{13}Then Jesus came from Galilee to the Jordan to John, to be baptized by him. \textsuperscript{14}John would have prevented him, saying, "I need to be baptized by you, and do you come to me?" \textsuperscript{15}But Jesus answered him, "Let it be so now, for thus it is fitting for us to fulfill all righteousness." Then he consented. \textsuperscript{16}And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; \textsuperscript{17}and behold, a voice from heaven said, "This is my beloved Son, with whom I am well pleased."
+> \textsuperscript{13}Then Jesus came from Galilee to John at the Jordan to be baptized by him. \textsuperscript{14}And John tried to prevent Him, saying, "I need to be baptized by You, and are You coming to me?" \textsuperscript{15}But Jesus answered and said to him, \jesus{"Permit it to be so now, for thus it is fitting for us to fulfill all righteousness."} Then he allowed Him. \textsuperscript{16}When He had been baptized, Jesus came up immediately from the water; and behold, the heavens were opened to Him, and He saw the Spirit of God descending like a dove and alighting upon Him. \textsuperscript{17}And suddenly a voice came from heaven, saying, "This is My beloved Son, in whom I am well pleased."
 
 ---
 
@@ -1500,19 +1789,19 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}當時，耶穌被聖靈引到曠野，受魔鬼的試探。\textsuperscript{2}他禁食四十晝夜，後來就餓了。\textsuperscript{3}試探者前來，對他說：「你若是神的兒子，叫這些石頭變成食物吧！」\textsuperscript{4}耶穌卻回答：「經上記着：『人活着，不是單靠食物，乃是靠神口裏所出的一切話。』」
+> \textsuperscript{1}當時，耶穌被聖靈引到曠野，受魔鬼的試探。\textsuperscript{2}他禁食四十晝夜，後來就餓了。\textsuperscript{3}試探者前來，對他說：「你若是神的兒子，叫這些石頭變成食物吧！」\textsuperscript{4}耶穌卻回答：\jesus{「經上記着：『人活着，不是單靠食物，乃是靠神口裏所出的一切話。』」}
 
-> \textsuperscript{5}魔鬼就帶他進了聖城，叫他站在殿的最高處，\textsuperscript{6}對他說：「你若是神的兒子，就跳下去！因為經上記着：『主要為你吩咐他的使者，用手托着你，免得你的腳碰在石頭上。』」\textsuperscript{7}耶穌對他說：「經上又記着：『不可試探主你的神。』」
+> \textsuperscript{5}魔鬼就帶他進了聖城，叫他站在殿的最高處，\textsuperscript{6}對他說：「你若是神的兒子，就跳下去！因為經上記着：『主要為你吩咐他的使者，用手托着你，免得你的腳碰在石頭上。』」\textsuperscript{7}耶穌對他說：\jesus{「經上又記着：『不可試探主你的神。』」}
 
-> \textsuperscript{8}魔鬼又帶他上了一座極高的山，把世上的萬國和萬國的榮華都指給他看，\textsuperscript{9}對他說：「你若俯伏拜我，我就把這一切都給你。」\textsuperscript{10}耶穌說：「撒但，退去！因為經上記着：『要拜主你的神，惟獨事奉他。』」\textsuperscript{11}於是魔鬼離開了耶穌，立刻有天使來伺候他。
+> \textsuperscript{8}魔鬼又帶他上了一座極高的山，把世上的萬國和萬國的榮華都指給他看，\textsuperscript{9}對他說：「你若俯伏拜我，我就把這一切都給你。」\textsuperscript{10}耶穌說：\jesus{「撒但，退去！因為經上記着：『要拜主你的神，惟獨事奉他。』」}\textsuperscript{11}於是魔鬼離開了耶穌，立刻有天使來伺候他。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. \textsuperscript{2}And after fasting forty days and forty nights, he was hungry. \textsuperscript{3}And the tempter came and said to him, "If you are the Son of God, command these stones to become loaves of bread." \textsuperscript{4}But he answered, "It is written, 'Man shall not live by bread alone, but by every word that comes from the mouth of God.'"
+> \textsuperscript{1}Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil. \textsuperscript{2}And when He had fasted forty days and forty nights, afterward He was hungry. \textsuperscript{3}Now when the tempter came to Him, he said, "If You are the Son of God, command that these stones become bread." \textsuperscript{4}But He answered and said, \jesus{"It is written, 'Man shall not live by bread alone, but by every word that proceeds from the mouth of God.'"}
 
-> \textsuperscript{5}Then the devil took him to the holy city and set him on the pinnacle of the temple \textsuperscript{6}and said to him, "If you are the Son of God, throw yourself down, for it is written, 'He will command his angels concerning you,' and 'On their hands they will bear you up, lest you strike your foot against a stone.'" \textsuperscript{7}Jesus said to him, "Again it is written, 'You shall not put the Lord your God to the test.'"
+> \textsuperscript{5}Then the devil took Him up into the holy city, set Him on the pinnacle of the temple, \textsuperscript{6}and said to Him, "If You are the Son of God, throw Yourself down. For it is written: 'He shall give His angels charge over you,' and, 'In their hands they shall bear you up, lest you dash your foot against a stone.'" \textsuperscript{7}Jesus said to him, \jesus{"It is written again, 'You shall not tempt the Lord your God.'"}
 
-> \textsuperscript{8}Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their glory. \textsuperscript{9}And he said to him, "All these I will give you, if you will fall down and worship me." \textsuperscript{10}Then Jesus said to him, "Be gone, Satan! For it is written, 'You shall worship the Lord your God and him only shall you serve.'" \textsuperscript{11}Then the devil left him, and behold, angels came and were ministering to him.
+> \textsuperscript{8}Again, the devil took Him up on an exceedingly high mountain, and showed Him all the kingdoms of the world and their glory. \textsuperscript{9}And he said to Him, "All these things I will give You if You will fall down and worship me." \textsuperscript{10}Then Jesus said to him, \jesus{"Away with you, Satan! For it is written, 'You shall worship the Lord your God, and Him only you shall serve.'"} \textsuperscript{11}Then the devil left Him, and behold, angels came and ministered to Him.
 
 ---
 
@@ -1524,9 +1813,9 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{29}次日，約翰看見耶穌來到他那裏，就說：「看哪，神的羔羊，除去世人罪孽的！\textsuperscript{30}這就是我曾說：『有一位在我以後來，反而成了在我以前的，因為他本來在我以前。』\textsuperscript{31}我先前不認識他，如今我來用水施洗，為要使他顯明給以色列人。」\textsuperscript{32}約翰又作見證說：「我曾看見聖靈彷彿鴿子從天降下，停留在他身上。\textsuperscript{33}我先前不認識他，只是那差我來用水施洗的對我說：『你看見聖靈降下來，停留在誰身上，誰就是用聖靈施洗的。』\textsuperscript{34}我看見了，就證明這是神的兒子。」
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{29}The next day he saw Jesus coming toward him, and said, "Behold, the Lamb of God, who takes away the sin of the world! \textsuperscript{30}This is he of whom I said, 'After me comes a man who ranks before me, because he was before me.' \textsuperscript{31}I myself did not know him, but for this purpose I came baptizing with water, that he might be revealed to Israel." \textsuperscript{32}And John bore witness: "I saw the Spirit descend from heaven like a dove, and it remained on him. \textsuperscript{33}I myself did not know him, but he who sent me to baptize with water said to me, 'He on whom you see the Spirit descend and remain, this is he who baptizes with the Holy Spirit.' \textsuperscript{34}And I have seen and have borne witness that this is the Son of God."
+> \textsuperscript{29}The next day John saw Jesus coming toward him, and said, "Behold! The Lamb of God who takes away the sin of the world! \textsuperscript{30}This is He of whom I said, 'After me comes a Man who is preferred before me, for He was before me.' \textsuperscript{31}I did not know Him; but that He should be revealed to Israel, therefore I came baptizing with water." \textsuperscript{32}And John bore witness, saying, "I saw the Spirit descending from heaven like a dove, and He remained upon Him. \textsuperscript{33}I did not know Him, but He who sent me to baptize with water said to me, 'Upon whom you see the Spirit descending, and remaining on Him, this is He who baptizes with the Holy Spirit.' \textsuperscript{34}And I have seen and testified that this is the Son of God."
 
 ---
 
@@ -1655,6 +1944,79 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 重要事件深度啟示：三重試探 (Key Event Deep Revelation: The Three Temptations)
+
+### 第一試探：肉身的試探 — 石頭變餅
+
+**經文**：太 4:3 「你若是神的兒子，可以吩咐這些石頭變成食物。」
+
+**表面**：飢餓 40 天後，撒但要耶穌用神蹟解決自己的需要。
+**深層**：撒但攻擊**身份的安全感**——「**你若是**神的兒子」。要耶穌用能力**證明**自己。
+
+**耶穌的回答** (申 8:3)：「人活著不是單靠食物，乃是靠神口裡所出的一切話。」
+
+**啟示**：
+- **第一亞當**：看見悅人眼目的食物，**沒有等候神**就吃了 → 失敗
+- **第二亞當**：飢餓中**等候父神的時候**，不靠自己解決 → 得勝
+- **核心**：**不是「能不能」做，而是「該不該」做**。基督有能力把石頭變餅，但**那不是父神的旨意**。
+
+> **應用**：你的「肉身需要」常常合法。但合法不等於合神旨。你願意在「我可以」之上加「父願不願」嗎？
+
+---
+
+### 第二試探：屬靈的試探 — 從聖殿頂跳下
+
+**經文**：太 4:5-6 「魔鬼帶他進了聖城……說：你若是神的兒子，可以跳下去！」
+
+**地點**：聖殿頂（最神聖之處）。
+**陷阱**：撒但**引用聖經**（詩 91:11-12）—— 但**斷章取義**。
+
+**深層**：這是「**屬靈表演**」的試探——
+- **跳下展示神的保護** → 強迫人相信
+- **試探神**而不是**信靠神**
+
+**耶穌的回答** (申 6:16)：「不可試探主你的神。」
+
+**啟示**：
+- 撒但的最高試探不是叫人**離開**聖經，是叫人**斷章使用**聖經
+- **真信心**：在神話語中**信靠**祂
+- **假信心**：在不確定中**逼迫**祂顯出
+
+> **應用**：「神若愛我，就應該……」這個句式是試探的形狀。**信靠**不等於**勒索**。
+
+---
+
+### 第三試探：權柄的試探 — 萬國的榮華
+
+**經文**：太 4:8-9 「魔鬼帶他上了一座最高的山……都賜給你，你若俯伏拜我！」
+
+**深層**：撒但提供的萬國**是真的**——他被稱為「**這世界的神**」（林後 4:4）。耶穌可以走兩條路得萬國：
+- **撒但的捷徑**：拜偶像 → 立刻得權柄（**沒有十字架**）
+- **十字架的長路**：受死 → 憑復活得萬國
+
+**耶穌的回答** (申 6:13)：「**撒但，退去吧**！當拜主你的神，單要事奉他。」
+
+**啟示**：
+- 三年半後在加利利山上：「**天上地下所有的權柄都賜給我了**」（太 28:18）
+- 撒但提供的「萬國」，基督憑十字架**已得**——而且**超越無限倍**
+- **沒有捷徑能取代十字架**
+
+> **應用**：你想用什麼「捷徑」逃避你的十字架？事業？關係？聲名？問自己：**我願意跟撒但握手，還是跟基督背十架？**
+
+---
+
+### 三層試探對照
+
+| 試探 | 對應人性 | 對應約壹 2:16 | 第一亞當 | 第二亞當 |
+|---|---|---|---|---|
+| 石頭變餅 | 肉體 | 肉體的情慾 | 吃了禁果 | 「不單靠食物」 |
+| 跳下聖殿 | 魂 | 今生的驕傲 | 想「如神」 | 「不可試探神」 |
+| 萬國權柄 | 靈 | 眼目的情慾 | 看見悅人眼目 | 「單要事奉他」 |
+
+**整本聖經的縮影**：第一亞當在豐盛中失敗；第二亞當在曠野中得勝。**新人類的元首**從這一刻立定。
+
+---
+
 ## 配詩 (Hymns & Psalms)
 
 **聖詩**：*A Mighty Fortress Is Our God* (堅固保障歌)
@@ -1671,6 +2033,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：末後的亞當勝過試探。三次試探，耶穌三次引用申命記（申 8:3、6:16、6:13）回擊——以色列在曠野四十年失敗的，祂在四十天裡以神的話得勝。約翰是賽 40:3 的先鋒；父的聲音「這是我的愛子」呼應詩 2:7。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「魔鬼三次試探，耶穌每次用什麼回擊？」
+- 再問：「祂大可以用神能勝過，為什麼偏偏只說『經上記著說』？」
+- 追問：「以色列在曠野失敗，耶穌卻得勝——這說明祂是誰？」
+- 落到自己：「試探臨到時，你手上有沒有神的話？還是只有自己的理由？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的試探不需等四十天，一個滑動、一個彈窗就到——即時滿足、即時供應、即時成名，正是當年那三樣試探的翻版。你抵擋它們，靠的是更強的自制力，還是「經上記著說」？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：先存一節經文在心裡，作今天面對試探時的兵器。
+- **晚上**：今天哪一刻被「即時滿足」勝過了？我當時想起神的話了嗎？
+- **一個行動**：今天遇到一次衝動的試探，停三秒，默念一節經文再決定。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：第一個亞當在豐盛的園中失敗，末後的亞當在飢餓的曠野得勝——靠的是「經上記著說」。
+
+**貫通全經**：以色列在曠野四十年悖逆，耶穌在曠野四十天以神的話得勝——祂是那位真以色列。
+
+**無法迴避的問題**：「試探臨到時，你手上有沒有神的話？還是只有自己的理由？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你在曠野以「經上記著說」勝過試探。當即時的引誘臨到，求你把你的話放在我心裡作兵器，叫我不憑自己的意志，乃靠你的話得勝。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第四章*
 
 
@@ -1681,6 +2088,14 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 1:35-51, 馬太福音 4:18-22
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+門徒的呼召，焦點不在門徒「撇下所有跟從」的決心，而在那位值得撇下一切去跟從的主。從祂的角度讀，安得烈找到的是「彌賽亞」，腓力遇見的是「摩西和眾先知所記的那一位」，拿但業所認的是「神的兒子、以色列的王」。耶穌應許他們要看見「天開了」——祂自己就是連接天地的雅各天梯。
+
+---
+
 ## 經文 (Scripture)
 
 ### 一、施洗約翰的門徒跟從耶穌 (John's Disciples Follow Jesus)
@@ -1689,11 +2104,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{35}再次日，約翰和兩個門徒站在那裏。\textsuperscript{36}他見耶穌行走，就說：「看哪，神的羔羊！」\textsuperscript{37}兩個門徒聽見他的話，就跟從了耶穌。\textsuperscript{38}耶穌轉過身來，看見他們跟着，就問他們說：「你們要甚麼？」他們說：「拉比（「拉比」翻出來就是「老師」），你住在哪裏？」\textsuperscript{39}耶穌說：「你們來看。」他們就去看他住的地方，這一天便跟他住在一起。那時大約是下午四點鐘。\textsuperscript{40}聽見約翰的話而跟從耶穌的那兩個人，一個是西門彼得的弟弟安得烈。\textsuperscript{41}他先找到自己的哥哥西門，對他說：「我們遇見彌賽亞了。」（「彌賽亞」翻出來就是「基督」）\textsuperscript{42}於是他帶着西門去見耶穌。耶穌看着他說：「你是約翰的兒子西門，你要稱為磯法。」（「磯法」翻出來就是「彼得」）
+> \textsuperscript{35}再次日，約翰和兩個門徒站在那裏。\textsuperscript{36}他見耶穌行走，就說：「看哪，神的羔羊！」\textsuperscript{37}兩個門徒聽見他的話，就跟從了耶穌。\textsuperscript{38}耶穌轉過身來，看見他們跟着，就問他們說：\jesus{「你們要甚麼？」}他們說：「拉比（「拉比」翻出來就是「老師」），你住在哪裏？」\textsuperscript{39}耶穌說：\jesus{「你們來看。」}他們就去看他住的地方，這一天便跟他住在一起。那時大約是下午四點鐘。\textsuperscript{40}聽見約翰的話而跟從耶穌的那兩個人，一個是西門彼得的弟弟安得烈。\textsuperscript{41}他先找到自己的哥哥西門，對他說：「我們遇見彌賽亞了。」（「彌賽亞」翻出來就是「基督」）\textsuperscript{42}於是他帶着西門去見耶穌。耶穌看着他說：\jesus{「你是約翰的兒子西門，你要稱為磯法。」}（「磯法」翻出來就是「彼得」）
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{35}The next day again John was standing with two of his disciples, \textsuperscript{36}and he looked at Jesus as he walked by and said, "Behold, the Lamb of God!" \textsuperscript{37}The two disciples heard him say this, and they followed Jesus. \textsuperscript{38}Jesus turned and saw them following and said to them, "What are you seeking?" And they said to him, "Rabbi" (which means Teacher), "where are you staying?" \textsuperscript{39}He said to them, "Come and you will see." So they came and saw where he was staying, and they stayed with him that day, for it was about the tenth hour. \textsuperscript{40}One of the two who heard John speak and followed Jesus was Andrew, Simon Peter's brother. \textsuperscript{41}He first found his own brother Simon and said to him, "We have found the Messiah" (which means Christ). \textsuperscript{42}He brought him to Jesus. Jesus looked at him and said, "You are Simon the son of John. You shall be called Cephas" (which means Peter).
+> \textsuperscript{35}Again, the next day, John stood with two of his disciples. \textsuperscript{36}And looking at Jesus as He walked, he said, "Behold the Lamb of God!" \textsuperscript{37}The two disciples heard him speak, and they followed Jesus. \textsuperscript{38}Then Jesus turned, and seeing them following, said to them, \jesus{"What do you seek?"} They said to Him, "Rabbi" (which is to say, when translated, Teacher), "where are You staying?" \textsuperscript{39}He said to them, \jesus{"Come and see."} They came and saw where He was staying, and remained with Him that day (now it was about the tenth hour). \textsuperscript{40}One of the two who heard John speak, and followed Him, was Andrew, Simon Peter's brother. \textsuperscript{41}He first found his own brother Simon, and said to him, "We have found the Messiah" (which is translated, the Christ). \textsuperscript{42}And he brought him to Jesus. Now when Jesus looked at him, He said, \jesus{"You are Simon the son of Jonah. You shall be called Cephas"} (which is translated, A Stone).
 
 ---
 
@@ -1703,11 +2118,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{43}再次日，耶穌想要往加利利去，遇見腓力，就對他說：「來跟從我吧！」\textsuperscript{44}這腓力是伯賽大人，和安得烈、彼得同城。\textsuperscript{45}腓力找到拿但業，對他說：「摩西在律法上所寫的，和眾先知所記的那一位，我們遇見了，就是約瑟的兒子拿撒勒人耶穌。」\textsuperscript{46}拿但業對他說：「拿撒勒還能出甚麼好的嗎？」腓力說：「你來看！」\textsuperscript{47}耶穌看見拿但業向他走來，就論到他說：「看哪，這是個真以色列人，他心裏是沒有詭詐的。」\textsuperscript{48}拿但業對他說：「你從哪裏認識我呢？」耶穌回答他說：「腓力還沒有招呼你，你在無花果樹底下，我就看見你了。」\textsuperscript{49}拿但業回答他：「拉比，你是神的兒子，你是以色列的王！」\textsuperscript{50}耶穌回答他說：「因為我說在無花果樹底下看見你，你就信嗎？你將要看見比這更大的事！」\textsuperscript{51}他又說：「我實實在在地告訴你們，你們將要看見天開了，神的使者上去下來在人子身上。」
+> \textsuperscript{43}再次日，耶穌想要往加利利去，遇見腓力，就對他說：\jesus{「來跟從我吧！」}\textsuperscript{44}這腓力是伯賽大人，和安得烈、彼得同城。\textsuperscript{45}腓力找到拿但業，對他說：「摩西在律法上所寫的，和眾先知所記的那一位，我們遇見了，就是約瑟的兒子拿撒勒人耶穌。」\textsuperscript{46}拿但業對他說：「拿撒勒還能出甚麼好的嗎？」腓力說：「你來看！」\textsuperscript{47}耶穌看見拿但業向他走來，就論到他說：\jesus{「看哪，這是個真以色列人，他心裏是沒有詭詐的。」}\textsuperscript{48}拿但業對他說：「你從哪裏認識我呢？」耶穌回答他說：\jesus{「腓力還沒有招呼你，你在無花果樹底下，我就看見你了。」}\textsuperscript{49}拿但業回答他：「拉比，你是神的兒子，你是以色列的王！」\textsuperscript{50}耶穌回答他說：\jesus{「因為我說在無花果樹底下看見你，你就信嗎？你將要看見比這更大的事！」}\textsuperscript{51}他又說：\jesus{「我實實在在地告訴你們，你們將要看見天開了，神的使者上去下來在人子身上。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{43}The next day Jesus decided to go to Galilee. He found Philip and said to him, "Follow me." \textsuperscript{44}Now Philip was from Bethsaida, the city of Andrew and Peter. \textsuperscript{45}Philip found Nathanael and said to him, "We have found him of whom Moses in the Law and also the prophets wrote, Jesus of Nazareth, the son of Joseph." \textsuperscript{46}Nathanael said to him, "Can anything good come out of Nazareth?" Philip said to him, "Come and see." \textsuperscript{47}Jesus saw Nathanael coming toward him and said of him, "Behold, an Israelite indeed, in whom there is no deceit!" \textsuperscript{48}Nathanael said to him, "How do you know me?" Jesus answered him, "Before Philip called you, when you were under the fig tree, I saw you." \textsuperscript{49}Nathanael answered him, "Rabbi, you are the Son of God! You are the King of Israel!" \textsuperscript{50}Jesus answered him, "Because I said to you, 'I saw you under the fig tree,' do you believe? You will see greater things than these." \textsuperscript{51}And he said to him, "Truly, truly, I say to you, you will see heaven opened, and the angels of God ascending and descending on the Son of Man."
+> \textsuperscript{43}The following day Jesus wanted to go to Galilee, and He found Philip and said to him, \jesus{"Follow Me."} \textsuperscript{44}Now Philip was from Bethsaida, the city of Andrew and Peter. \textsuperscript{45}Philip found Nathanael and said to him, "We have found Him of whom Moses in the law, and also the prophets, wrote—Jesus of Nazareth, the son of Joseph." \textsuperscript{46}And Nathanael said to him, "Can anything good come out of Nazareth?" Philip said to him, "Come and see." \textsuperscript{47}Jesus saw Nathanael coming toward Him, and said of him, \jesus{"Behold, an Israelite indeed, in whom is no deceit!"} \textsuperscript{48}Nathanael said to Him, "How do You know me?" Jesus answered and said to him, \jesus{"Before Philip called you, when you were under the fig tree, I saw you."} \textsuperscript{49}Nathanael answered and said to Him, "Rabbi, You are the Son of God! You are the King of Israel!" \textsuperscript{50}Jesus answered and said to him, \jesus{"Because I said to you, 'I saw you under the fig tree,' do you believe? You will see greater things than these."} \textsuperscript{51}And He said to him, \jesus{"Most assuredly, I say to you, hereafter you shall see heaven open, and the angels of God ascending and descending upon the Son of Man."}
 
 ---
 
@@ -1717,11 +2132,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{18}耶穌在加利利海邊行走，看見兄弟二人，就是那稱呼彼得的西門和他弟弟安得烈，正往海裏撒網；他們本是打魚的。\textsuperscript{19}耶穌對他們說：「來跟從我，我要叫你們得人如得魚一樣。」\textsuperscript{20}他們立刻捨了網，跟從了他。\textsuperscript{21}從那裏往前走，他又看見另外兩個兄弟，就是西庇太的兒子雅各和他弟弟約翰，同他們的父親西庇太在船上補網，耶穌就呼召他們。\textsuperscript{22}他們立刻捨了船，別了父親，跟從了耶穌。
+> \textsuperscript{18}耶穌在加利利海邊行走，看見兄弟二人，就是那稱呼彼得的西門和他弟弟安得烈，正往海裏撒網；他們本是打魚的。\textsuperscript{19}耶穌對他們說：\jesus{「來跟從我，我要叫你們得人如得魚一樣。」}\textsuperscript{20}他們立刻捨了網，跟從了他。\textsuperscript{21}從那裏往前走，他又看見另外兩個兄弟，就是西庇太的兒子雅各和他弟弟約翰，同他們的父親西庇太在船上補網，耶穌就呼召他們。\textsuperscript{22}他們立刻捨了船，別了父親，跟從了耶穌。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{18}While walking by the Sea of Galilee, he saw two brothers, Simon (who is called Peter) and Andrew his brother, casting a net into the sea, for they were fishermen. \textsuperscript{19}And he said to them, "Follow me, and I will make you fishers of men." \textsuperscript{20}Immediately they left their nets and followed him. \textsuperscript{21}And going on from there he saw two other brothers, James the son of Zebedee and John his brother, in the boat with Zebedee their father, mending their nets, and he called them. \textsuperscript{22}Immediately they left the boat and their father and followed him.
+> \textsuperscript{18}And Jesus, walking by the Sea of Galilee, saw two brothers, Simon called Peter, and Andrew his brother, casting a net into the sea; for they were fishermen. \textsuperscript{19}Then He said to them, \jesus{"Follow Me, and I will make you fishers of men."} \textsuperscript{20}They immediately left their nets and followed Him. \textsuperscript{21}Going on from there, He saw two other brothers, James the son of Zebedee, and John his brother, in the boat with Zebedee their father, mending their nets. He called them, \textsuperscript{22}and immediately they left the boat and their father, and followed Him.
 
 ---
 
@@ -1840,6 +2255,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：祂是雅各的天梯。腓力說找到了「摩西和眾先知所記的那一位」（約 1:45）；耶穌對拿但業應許「你們將要看見天開了」（約 1:51），正指創 28:12 雅各夢中那通天的梯子——祂自己就是連接天地的階梯。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「拿但業起初怎麼說拿撒勒？他後來為什麼改口？」
+- 再問：「耶穌說『我看見你在無花果樹底下』——這對拿但業意味著什麼？」
+- 追問：「到底是門徒找到了主，還是主先看見、先尋見了他們？」
+- 落到自己：「你以為是你揀選了主嗎？還是祂早已看見你、揀選了你？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天我們習慣「追蹤」自己挑的人——挑網紅、挑意見領袖，按一個鍵就跟。但跟隨基督不是你挑了祂，是祂先看見你、呼召你。你的「跟隨」，是按一個鍵的輕省，還是撇下所有的擺上？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：謝謝主，在你還不認識祂以先，祂已看見你、揀選你。
+- **晚上**：今天我「跟隨」了多少人的聲音？我跟隨主的聲音有多少？
+- **一個行動**：今天為一個還不認識主的朋友禱告，像安得烈去找彼得那樣，帶他來見主。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：門徒以為自己在尋找彌賽亞，其實是那位「早看見拿但業在無花果樹下」的主先尋見了他們。
+
+**貫通全經**：雅各夢見天梯（創28），耶穌說「你們將要看見天開了」——祂自己就是那通天的梯。
+
+**無法迴避的問題**：「你以為是你揀選了主嗎？還是祂早已看見你、揀選了你？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，是你先看見我、先呼召我，謝謝你揀選了我這不配的人。求你叫我聽見你呼召的聲音，撇下手中所抓的起來跟從你；也叫我像安得烈，去把別人帶來見你。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第五章*
 
 
@@ -1850,23 +2310,31 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 2:1-12
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+水變酒的神蹟，主角不是缺酒的窘境，也不是馬利亞的請求，而是那位把「好酒留到現在」的主。從祂的角度讀，六口潔淨禮的石缸盛不下的，祂用滿溢的新酒成全；舊約的禮儀指向祂，婚宴的喜樂預表祂作新郎的筵席。這「頭一件神蹟……顯出他的榮耀」，門徒所信的，正是這位榮耀的主。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}第三日，在加利利的迦拿有人舉行婚宴，耶穌的母親在那裏。\textsuperscript{2}耶穌和他的門徒也被請去赴宴。\textsuperscript{3}酒用完了，耶穌的母親對他說：「他們沒有酒了。」\textsuperscript{4}耶穌說：「母親，我與你何干？我的時候還沒有到。」\textsuperscript{5}他母親對用人說：「他告訴你們甚麼，你們就做甚麼。」
+> \textsuperscript{1}第三日，在加利利的迦拿有人舉行婚宴，耶穌的母親在那裏。\textsuperscript{2}耶穌和他的門徒也被請去赴宴。\textsuperscript{3}酒用完了，耶穌的母親對他說：「他們沒有酒了。」\textsuperscript{4}耶穌說：\jesus{「母親，我與你何干？我的時候還沒有到。」}\textsuperscript{5}他母親對用人說：「他告訴你們甚麼，你們就做甚麼。」
 
-> \textsuperscript{6}照猶太人潔淨禮的規矩，有六口石缸擺在那裏，每口可盛兩三桶水。\textsuperscript{7}耶穌對用人說：「把缸倒滿水。」他們就倒滿了，直到缸口。\textsuperscript{8}耶穌又對他們說：「現在舀出來，送給宴席總管。」他們就送了去。\textsuperscript{9}宴席總管嘗了那水變的酒，不知道是從哪裏來的，只有舀水的用人知道。宴席總管便叫新郎來，\textsuperscript{10}對他說：「人家都是先擺上好酒，等客人喝夠了才擺上次的，你倒把好酒留到現在！」
+> \textsuperscript{6}照猶太人潔淨禮的規矩，有六口石缸擺在那裏，每口可盛兩三桶水。\textsuperscript{7}耶穌對用人說：\jesus{「把缸倒滿水。」}他們就倒滿了，直到缸口。\textsuperscript{8}耶穌又對他們說：\jesus{「現在舀出來，送給宴席總管。」}他們就送了去。\textsuperscript{9}宴席總管嘗了那水變的酒，不知道是從哪裏來的，只有舀水的用人知道。宴席總管便叫新郎來，\textsuperscript{10}對他說：「人家都是先擺上好酒，等客人喝夠了才擺上次的，你倒把好酒留到現在！」
 
 > \textsuperscript{11}這是耶穌所行的第一個神蹟，是在加利利的迦拿行的，顯出了他的榮耀來，他的門徒就信他了。\textsuperscript{12}這事以後，耶穌與他的母親、弟弟和門徒都下迦百農去，在那裏住了不多幾天。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. \textsuperscript{2}Jesus also was invited to the wedding with his disciples. \textsuperscript{3}When the wine ran out, the mother of Jesus said to him, "They have no wine." \textsuperscript{4}And Jesus said to her, "Woman, what does this have to do with me? My hour has not yet come." \textsuperscript{5}His mother said to the servants, "Do whatever he tells you."
+> \textsuperscript{1}On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there. \textsuperscript{2}Now both Jesus and His disciples were invited to the wedding. \textsuperscript{3}And when they ran out of wine, the mother of Jesus said to Him, "They have no wine." \textsuperscript{4}Jesus said to her, \jesus{"Woman, what does your concern have to do with Me? My hour has not yet come."} \textsuperscript{5}His mother said to the servants, "Whatever He says to you, do it."
 
-> \textsuperscript{6}Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. \textsuperscript{7}Jesus said to the servants, "Fill the jars with water." And they filled them up to the brim. \textsuperscript{8}And he said to them, "Now draw some out and take it to the master of the feast." So they took it. \textsuperscript{9}When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom \textsuperscript{10}and said to him, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now."
+> \textsuperscript{6}Now there were set there six waterpots of stone, according to the manner of purification of the Jews, containing twenty or thirty gallons apiece. \textsuperscript{7}Jesus said to them, \jesus{"Fill the waterpots with water."} And they filled them up to the brim. \textsuperscript{8}And He said to them, \jesus{"Draw some out now, and take it to the master of the feast."} And they took it. \textsuperscript{9}When the master of the feast had tasted the water that was made wine, and did not know where it came from (but the servants who had drawn the water knew), the master of the feast called the bridegroom. \textsuperscript{10}And he said to him, "Every man at the beginning sets out the good wine, and when the guests have well drunk, then the inferior. You have kept the good wine until now!"
 
-> \textsuperscript{11}This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him. \textsuperscript{12}After this he went down to Capernaum, with his mother and his brothers and his disciples, and they stayed there for a few days.
+> \textsuperscript{11}This beginning of signs Jesus did in Cana of Galilee, and manifested His glory; and His disciples believed in Him. \textsuperscript{12}After this He went down to Capernaum, He, His mother, His brothers, and His disciples; and they did not stay there many days.
 
 ---
 
@@ -1985,6 +2453,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：兆頭指向耶穌是誰。水變酒是約翰所記第一個「兆頭」，指向祂是真葡萄樹（約 15:1）；潔淨禮的六口石缸盛的是舊約禮儀的水，祂卻換成新酒——舊約的影兒讓位給「滿有恩典」的實體（約 1:17）。先知早應許末世必有新酒湧流（摩 9:13；珥 3:18）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「宴席總管說『你倒把好酒留到現在』——這句話你聽出什麼？」
+- 再問：「世界給東西的次序是什麼？基督給的次序又是什麼？」
+- 追問：「那六口『潔淨禮』的石缸，為什麼是關鍵？它預表什麼？」
+- 落到自己：「你覺得人生越過越淡、好酒已過？還是相信祂把最好的留到現在？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+消費文化天天告訴你：最新的最好，現在就要，過了就沒了。於是人總在追下一個版本、下一段刺激，越追越空。基督卻反過來——祂把最好的留到後頭。你信不信，跟隨祂的生命是越來越豐盛，不是越來越枯乾？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把今天的「缺乏」交給那位能把水變成好酒的主。
+- **晚上**：今天我有沒有被「現在就要」的急躁，奪去了等候主時候的安息？
+- **一個行動**：今天在一件事上順服等候神的時間，不靠自己強求結果。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂把人留到最後的次酒，換成「留到現在的好酒」——基督所到之處，最好的總在後頭。
+
+**貫通全經**：水變酒這「兆頭」指向祂是真葡萄樹（約15），恩典（滿足缺乏）與真理（創造大能）一同彰顯。
+
+**無法迴避的問題**：「你覺得人生越過越淡、好酒已過？還是相信祂把最好的留到現在？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你把好酒留到現在。當我覺得人生越過越淡、喜樂將盡，求你叫我相信你的恩典是滿溢的，最好的還在後頭。把我心裡空了的缸，倒滿你的新酒。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第六章*
 
 
@@ -1995,23 +2508,31 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 2:13-25
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+潔淨聖殿，焦點不在被趕出的牛羊與兌錢的人，而在那位說「拆毀這殿，我三日內要再建立起來」的主。從祂的角度讀，祂為父的殿心裏焦急，因為祂自己就是那真聖殿——神與人相會之處。石頭的殿終必拆毀，祂的身體卻要從死裏復活，成為新的敬拜中心。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{13}猶太人的逾越節近了，耶穌就上耶路撒冷去。\textsuperscript{14}他看見聖殿裏有賣牛羊鴿子的，還有兌換銀錢的人坐在那裏，\textsuperscript{15}他就拿繩子做成鞭子，把牛羊都趕出聖殿，倒出兌換銀錢之人的錢幣，推翻他們的桌子，\textsuperscript{16}又對賣鴿子的說：「把這些東西拿去！不要把我父的殿當作買賣的地方。」\textsuperscript{17}他的門徒想起經上記着：「我為你的殿心裏焦急，如同火燒。」
+> \textsuperscript{13}猶太人的逾越節近了，耶穌就上耶路撒冷去。\textsuperscript{14}他看見聖殿裏有賣牛羊鴿子的，還有兌換銀錢的人坐在那裏，\textsuperscript{15}他就拿繩子做成鞭子，把牛羊都趕出聖殿，倒出兌換銀錢之人的錢幣，推翻他們的桌子，\textsuperscript{16}又對賣鴿子的說：\jesus{「把這些東西拿去！不要把我父的殿當作買賣的地方。」}\textsuperscript{17}他的門徒想起經上記着：「我為你的殿心裏焦急，如同火燒。」
 
-> \textsuperscript{18}猶太人就質問他說：「你既然做這些事，還顯甚麼神蹟給我們看呢？」\textsuperscript{19}耶穌回答他們說：「你們拆毀這殿，我三日內要把它重建。」\textsuperscript{20}猶太人就說：「這殿是四十六年才造成的，你三日內就能重建嗎？」\textsuperscript{21}但耶穌是以他的身體為殿。\textsuperscript{22}所以，到他從死人中復活以後，門徒想起他曾說過這話，就信了聖經和耶穌所說的話。
+> \textsuperscript{18}猶太人就質問他說：「你既然做這些事，還顯甚麼神蹟給我們看呢？」\textsuperscript{19}耶穌回答他們說：\jesus{「你們拆毀這殿，我三日內要把它重建。」}\textsuperscript{20}猶太人就說：「這殿是四十六年才造成的，你三日內就能重建嗎？」\textsuperscript{21}但耶穌是以他的身體為殿。\textsuperscript{22}所以，到他從死人中復活以後，門徒想起他曾說過這話，就信了聖經和耶穌所說的話。
 
 > \textsuperscript{23}耶穌在耶路撒冷過逾越節的時候，有許多人看見他所行的神蹟，就信了他的名。\textsuperscript{24}耶穌卻不把自己交託他們，因為他知道萬人的心，\textsuperscript{25}也用不着誰為人作見證，因為他知道人心裏所存的。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{13}The Passover of the Jews was at hand, and Jesus went up to Jerusalem. \textsuperscript{14}In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there. \textsuperscript{15}And making a whip of cords, he drove them all out of the temple, with the sheep and oxen. And he poured out the coins of the money-changers and overturned their tables. \textsuperscript{16}And he told those who sold the pigeons, "Take these things away; do not make my Father's house a house of trade." \textsuperscript{17}His disciples remembered that it was written, "Zeal for your house will consume me."
+> \textsuperscript{13}Now the Passover of the Jews was at hand, and Jesus went up to Jerusalem. \textsuperscript{14}And He found in the temple those who sold oxen and sheep and doves, and the money changers doing business. \textsuperscript{15}When He had made a whip of cords, He drove them all out of the temple, with the sheep and the oxen, and poured out the changers' money and overturned the tables. \textsuperscript{16}And He said to those who sold doves, \jesus{"Take these things away! Do not make My Father's house a house of merchandise!"} \textsuperscript{17}Then His disciples remembered that it was written, "Zeal for Your house has eaten Me up."
 
-> \textsuperscript{18}So the Jews said to him, "What sign do you show us for doing these things?" \textsuperscript{19}Jesus answered them, "Destroy this temple, and in three days I will raise it up." \textsuperscript{20}The Jews then said, "It has taken forty-six years to build this temple, and will you raise it up in three days?" \textsuperscript{21}But he was speaking about the temple of his body. \textsuperscript{22}When therefore he was raised from the dead, his disciples remembered that he had said this, and they believed the Scripture and the word that Jesus had spoken.
+> \textsuperscript{18}So the Jews answered and said to Him, "What sign do You show to us, since You do these things?" \textsuperscript{19}Jesus answered and said to them, \jesus{"Destroy this temple, and in three days I will raise it up."} \textsuperscript{20}Then the Jews said, "It has taken forty-six years to build this temple, and will You raise it up in three days?" \textsuperscript{21}But He was speaking of the temple of His body. \textsuperscript{22}Therefore, when He had risen from the dead, His disciples remembered that He had said this to them; and they believed the Scripture and the word which Jesus had said.
 
-> \textsuperscript{23}Now when he was in Jerusalem at the Passover Feast, many believed in his name when they saw the signs that he was doing. \textsuperscript{24}But Jesus on his part did not entrust himself to them, because he knew all people \textsuperscript{25}and needed no one to bear witness about man, for he himself knew what was in man.
+> \textsuperscript{23}Now when He was in Jerusalem at the Passover, during the feast, many believed in His name when they saw the signs which He did. \textsuperscript{24}But Jesus did not commit Himself to them, because He knew all men, \textsuperscript{25}and had no need that anyone should testify of man, for He knew what was in man.
 
 ---
 
@@ -2132,6 +2653,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：祂是真聖殿。門徒想起詩 69:9「我為你的殿心裡焦急」；耶穌說「拆毀這殿，我三日內要再建立」，指自己的身體（約 2:21）。會幕、聖殿都預表「神與人同住」——約 1:14「道……支搭帳棚在我們中間」，直到啟 21:3「神的帳幕在人間」。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「聖殿本是禱告的地方，當時變成了什麼？」
+- 再問：「耶穌說『拆毀這殿，三日內再建立』——祂指的是哪座殿？」
+- 追問：「若祂自己就是真聖殿，這對你今天去『哪裡敬拜』說什麼？」
+- 落到自己：「你的敬拜，是把神的殿當作買賣交換的場所，還是禱告的家？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天幾乎一切都被標了價、可被變現，連信仰、連注意力都成了生意。耶穌進到殿裡，第一件事是翻桌子。你心裡這座殿，有沒有也擺滿了交易的攤子——把神當成達成目的的工具？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求主潔淨你心這座殿，翻倒那些不該擺在裡面的桌子。
+- **晚上**：今天我對神的態度，比較像「交易」，還是「敬拜」？
+- **一個行動**：今天清出一段「不交易、不求回報」、純粹親近神的時間。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂為父的殿心裡焦急，因為祂自己就是那要被拆毀、又三日重建的真聖殿。
+
+**貫通全經**：會幕與聖殿都預表「神與人同住」→ 約1:14「道……支搭帳棚在我們中間」→ 啟21「神的帳幕在人間」。
+
+**無法迴避的問題**：「你的敬拜，是把神的殿當作買賣的場所，還是禱告的家？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你為父的殿心裡焦急。求你進到我心這座殿，翻倒一切把你當工具的交易桌，潔淨我的敬拜，使它重新成為禱告的家。願你—真聖殿—住在我裡面。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第七章*
 
 
@@ -2142,23 +2708,31 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 3:1-21
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+夜裏來訪的是尼哥底母，談話的中心卻是那位「從天降下、仍舊在天的人子」。從祂的角度讀，重生不是人努力的成果，而是聖靈藉著那被舉起的人子所賜的生命；摩西在曠野舉蛇預表祂被釘，「神愛世人」的最高表達，就是賜下祂的獨生子。光來到世間——這光就是祂。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}有一個法利賽人，名叫尼哥底母，是猶太人的官。\textsuperscript{2}這人夜裏來見耶穌，對他說：「拉比，我們知道你是由神那裏來作教師的，因為你所行的神蹟，若沒有神同在，無人能行。」\textsuperscript{3}耶穌回答他說：「我實實在在地告訴你：人若不重生，就不能見神的國。」\textsuperscript{4}尼哥底母對他說：「人已經老了，如何能重生呢？豈能再進母腹生出來嗎？」\textsuperscript{5}耶穌回答：「我實實在在地告訴你：人若不是從水和聖靈生的，就不能進神的國。\textsuperscript{6}從肉身生的就是肉身；從靈生的就是靈。\textsuperscript{7}我說『你們必須重生』，你不要驚訝。\textsuperscript{8}風隨着意思吹，你聽見風的聲音，卻不知道是從哪裏來，往哪裏去；凡從聖靈生的也是如此。」
+> \textsuperscript{1}有一個法利賽人，名叫尼哥底母，是猶太人的官。\textsuperscript{2}這人夜裏來見耶穌，對他說：「拉比，我們知道你是由神那裏來作教師的，因為你所行的神蹟，若沒有神同在，無人能行。」\textsuperscript{3}耶穌回答他說：\jesus{「我實實在在地告訴你：人若不重生，就不能見神的國。」}\textsuperscript{4}尼哥底母對他說：「人已經老了，如何能重生呢？豈能再進母腹生出來嗎？」\textsuperscript{5}耶穌回答：\jesus{「我實實在在地告訴你：人若不是從水和聖靈生的，就不能進神的國。\textsuperscript{6}從肉身生的就是肉身；從靈生的就是靈。\textsuperscript{7}我說『你們必須重生』，你不要驚訝。\textsuperscript{8}風隨着意思吹，你聽見風的聲音，卻不知道是從哪裏來，往哪裏去；凡從聖靈生的也是如此。」}
 
-> \textsuperscript{9}尼哥底母問他：「怎麼能有這些事呢？」\textsuperscript{10}耶穌回答他說：「你是以色列人的教師，還不明白這些事嗎？\textsuperscript{11}我實實在在地告訴你：我們所說的是我們知道的，我們所見證的是我們見過的，你們卻不領受我們的見證。\textsuperscript{12}我對你們說地上的事，你們尚且不信；若對你們說天上的事，如何能信呢？\textsuperscript{13}除了從天降下的人子，沒有人升過天。\textsuperscript{14}摩西在曠野怎樣舉蛇，人子也必須照樣被舉起來，\textsuperscript{15}要使一切信他的人都得永生。」
+> \textsuperscript{9}尼哥底母問他：「怎麼能有這些事呢？」\textsuperscript{10}耶穌回答他說：\jesus{「你是以色列人的教師，還不明白這些事嗎？\textsuperscript{11}我實實在在地告訴你：我們所說的是我們知道的，我們所見證的是我們見過的，你們卻不領受我們的見證。\textsuperscript{12}我對你們說地上的事，你們尚且不信；若對你們說天上的事，如何能信呢？\textsuperscript{13}除了從天降下的人子，沒有人升過天。\textsuperscript{14}摩西在曠野怎樣舉蛇，人子也必須照樣被舉起來，\textsuperscript{15}要使一切信他的人都得永生。」}
 
-> \textsuperscript{16}「神愛世人，甚至將他獨一的兒子賜給他們，叫一切信他的人不致滅亡，反得永生。\textsuperscript{17}因為神差他的兒子到世上來，不是要定世人的罪，而是要使世人因他得救。\textsuperscript{18}信他的人不被定罪；不信的人已經被定罪了，因為他不信神獨一兒子的名。\textsuperscript{19}光來到世上，世人因自己的行為是惡的，不愛光，倒愛黑暗，這就定了他們的罪。\textsuperscript{20}凡作惡的人都恨光，不來接近光，恐怕他的行為被暴露。\textsuperscript{21}但行真理的人就來接近光，要顯明他所做的事是靠神而做的。」
+> \jesus{\textsuperscript{16}「神愛世人，甚至將他獨一的兒子賜給他們，叫一切信他的人不致滅亡，反得永生。\textsuperscript{17}因為神差他的兒子到世上來，不是要定世人的罪，而是要使世人因他得救。\textsuperscript{18}信他的人不被定罪；不信的人已經被定罪了，因為他不信神獨一兒子的名。\textsuperscript{19}光來到世上，世人因自己的行為是惡的，不愛光，倒愛黑暗，這就定了他們的罪。\textsuperscript{20}凡作惡的人都恨光，不來接近光，恐怕他的行為被暴露。\textsuperscript{21}但行真理的人就來接近光，要顯明他所做的事是靠神而做的。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}Now there was a man of the Pharisees named Nicodemus, a ruler of the Jews. \textsuperscript{2}This man came to Jesus by night and said to him, "Rabbi, we know that you are a teacher come from God, for no one can do these signs that you do unless God is with him." \textsuperscript{3}Jesus answered him, "Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God." \textsuperscript{4}Nicodemus said to him, "How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?" \textsuperscript{5}Jesus answered, "Truly, truly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. \textsuperscript{6}That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. \textsuperscript{7}Do not marvel that I said to you, 'You must be born again.' \textsuperscript{8}The wind blows where it wishes, and you hear its sound, but you do not know where it comes from or where it goes. So it is with everyone who is born of the Spirit."
+> \textsuperscript{1}There was a man of the Pharisees named Nicodemus, a ruler of the Jews. \textsuperscript{2}This man came to Jesus by night and said to Him, "Rabbi, we know that You are a teacher come from God; for no one can do these signs that You do unless God is with him." \textsuperscript{3}Jesus answered and said to him, \jesus{"Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God."} \textsuperscript{4}Nicodemus said to Him, "How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?" \textsuperscript{5}Jesus answered, \jesus{"Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. \textsuperscript{6}That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. \textsuperscript{7}Do not marvel that I said to you, 'You must be born again.' \textsuperscript{8}The wind blows where it wishes, and you hear the sound of it, but cannot tell where it comes from and where it goes. So is everyone who is born of the Spirit."}
 
-> \textsuperscript{9}Nicodemus said to him, "How can these things be?" \textsuperscript{10}Jesus answered him, "Are you the teacher of Israel and yet you do not understand these things? \textsuperscript{11}Truly, truly, I say to you, we speak of what we know, and bear witness to what we have seen, but you do not receive our testimony. \textsuperscript{12}If I have told you earthly things and you do not believe, how can you believe if I tell you heavenly things? \textsuperscript{13}No one has ascended into heaven except he who descended from heaven, the Son of Man. \textsuperscript{14}And as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up, \textsuperscript{15}that whoever believes in him may have eternal life.
+> \textsuperscript{9}Nicodemus answered and said to Him, "How can these things be?" \textsuperscript{10}Jesus answered and said to him, \jesus{"Are you the teacher of Israel, and do not know these things? \textsuperscript{11}Most assuredly, I say to you, We speak what We know and testify what We have seen, and you do not receive Our witness. \textsuperscript{12}If I have told you earthly things and you do not believe, how will you believe if I tell you heavenly things? \textsuperscript{13}No one has ascended to heaven but He who came down from heaven, that is, the Son of Man who is in heaven. \textsuperscript{14}And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, \textsuperscript{15}that whoever believes in Him should not perish but have eternal life.}
 
-> \textsuperscript{16}"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life. \textsuperscript{17}For God did not send his Son into the world to condemn the world, but in order that the world might be saved through him. \textsuperscript{18}Whoever believes in him is not condemned, but whoever does not believe is condemned already, because he has not believed in the name of the only Son of God. \textsuperscript{19}And this is the judgment: the light has come into the world, and people loved the darkness rather than the light because their works were evil. \textsuperscript{20}For everyone who does wicked things hates the light and does not come to the light, lest his works should be exposed. \textsuperscript{21}But whoever does what is true comes to the light, so that it may be clearly seen that his works have been carried out in God."
+> \jesus{\textsuperscript{16}For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life. \textsuperscript{17}For God did not send His Son into the world to condemn the world, but that the world through Him might be saved. \textsuperscript{18}He who believes in Him is not condemned; but he who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God. \textsuperscript{19}And this is the condemnation, that the light has come into the world, and men loved darkness rather than light, because their deeds were evil. \textsuperscript{20}For everyone practicing evil hates the light and does not come to the light, lest his deeds should be exposed. \textsuperscript{21}But he who does the truth comes to the light, that his deeds may be clearly seen, that they have been done in God."}
 
 ---
 
@@ -2295,6 +2869,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：預表的成就。摩西在曠野舉銅蛇，叫被咬的一望就活（民 21:9）；耶穌說「人子也必照樣被舉起來」（約 3:14）。重生之水與靈，呼應結 36:25-27「我必用清水灑在你們身上……賜給你們新心」。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「尼哥底母是有學問的教師，他卻缺了什麼？」
+- 再問：「『重生』是人努力修出來的，還是聖靈生出來的？」
+- 追問：「摩西舉銅蛇，和耶穌被舉起來釘十架，有什麼關連？」
+- 落到自己：「你是『重新生了』，還是只是宗教上的尼哥底母——懂得很多，卻還在夜裡？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天我們深信：知識越多、技能越強、自我優化越好，人就越好。尼哥底母正是那個時代的「優等生」，主卻對他說：你必須重生。再多的資訊與自我提升，也生不出新生命——那是聖靈的工作。
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：承認自己無力改變自己，求聖靈在你裡面動工。
+- **晚上**：今天我倚靠的是自己的本事，還是聖靈的更新？
+- **一個行動**：今天放下一個「靠自己努力就好」的執念，具體地交給神。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：宗教的夜訪者需要的不是更多知識，而是重新出生——重生是聖靈的工作，不是人的努力。
+
+**貫通全經**：摩西在曠野舉銅蛇（民21:9），人子也必照樣被舉起——望那被舉起的就活。
+
+**無法迴避的問題**：「你是『重新生了』，還是只是宗教上的尼哥底母——懂得很多，卻還在夜裡？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，我承認再多的知識也生不出新生命。求你的聖靈在我裡面重新生我，叫我不只是宗教的尼哥底母，乃是真在你裡面重生的人。我仰望那被舉起的你，因你而活。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第八章*
 
 
@@ -2305,43 +2924,51 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 4:1-42
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+井旁的對話，主角不是那打水的婦人，而是那位口渴卻能賜「活水」的主。從祂的角度讀，她五個丈夫的破碎、撒瑪利亞與猶太的隔閡，都在祂面前被一句「我就是」所穿透——祂正是要來的彌賽亞。真敬拜不在這山也不在耶路撒冷，而在認識這位「用心靈和誠實」可親近的主。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 > \textsuperscript{1}主知道法利賽人聽見他收門徒、施洗比約翰還多——\textsuperscript{2}其實不是耶穌親自施洗，而是他的門徒施洗——\textsuperscript{3}他就離開猶太，再往加利利去。\textsuperscript{4}他必須經過撒瑪利亞。\textsuperscript{5}於是他來到撒瑪利亞的一座城，名叫敘加，靠近雅各給他兒子約瑟的那塊地。\textsuperscript{6}雅各井就在那裏；耶穌因走路疲乏，就坐在井旁。那時約是正午。
 
-> \textsuperscript{7}有一個撒瑪利亞的婦人來打水，耶穌對她說：「請給我水喝。」\textsuperscript{8}那時門徒進城買食物去了。\textsuperscript{9}撒瑪利亞的婦人對他說：「你既是猶太人，怎麼向我一個撒瑪利亞的婦人要水喝呢？」原來猶太人和撒瑪利亞人沒有來往。\textsuperscript{10}耶穌回答她說：「你若知道神的恩賜，和對你說『給我水喝』的是誰，你必早求他，他也必早給了你活水。」
+> \textsuperscript{7}有一個撒瑪利亞的婦人來打水，耶穌對她說：\jesus{「請給我水喝。」}\textsuperscript{8}那時門徒進城買食物去了。\textsuperscript{9}撒瑪利亞的婦人對他說：「你既是猶太人，怎麼向我一個撒瑪利亞的婦人要水喝呢？」原來猶太人和撒瑪利亞人沒有來往。\textsuperscript{10}耶穌回答她說：\jesus{「你若知道神的恩賜，和對你說『給我水喝』的是誰，你必早求他，他也必早給了你活水。」}
 
-> \textsuperscript{11}婦人說：「先生，你沒有打水的器具，井又深，你從哪裏得活水呢？\textsuperscript{12}我們的祖宗雅各把這井留給我們，他自己和兒子以及牲畜都喝這井的水，難道你比他還大嗎？」\textsuperscript{13}耶穌回答：「凡喝這水的，還要再渴；\textsuperscript{14}人若喝我所賜的水，就永遠不渴。我所賜的水要在他裏面成為泉源，直湧到永生。」\textsuperscript{15}婦人說：「先生，請把這水賜給我，使我不渴，也不用來這麼遠打水。」
+> \textsuperscript{11}婦人說：「先生，你沒有打水的器具，井又深，你從哪裏得活水呢？\textsuperscript{12}我們的祖宗雅各把這井留給我們，他自己和兒子以及牲畜都喝這井的水，難道你比他還大嗎？」\textsuperscript{13}耶穌回答：\jesus{「凡喝這水的，還要再渴；\textsuperscript{14}人若喝我所賜的水，就永遠不渴。我所賜的水要在他裏面成為泉源，直湧到永生。」}\textsuperscript{15}婦人說：「先生，請把這水賜給我，使我不渴，也不用來這麼遠打水。」
 
-> \textsuperscript{16}耶穌說：「你去叫你丈夫，然後回到這裏來。」\textsuperscript{17}婦人回答：「我沒有丈夫。」耶穌說：「你說沒有丈夫是對的。\textsuperscript{18}你已經有五個丈夫，你現在有的並不是你的丈夫。你這話是真的。」\textsuperscript{19}婦人說：「先生，我看你是先知。\textsuperscript{20}我們的祖宗在這山上敬拜神，你們倒說，應當敬拜的地方是在耶路撒冷。」
+> \textsuperscript{16}耶穌說：\jesus{「你去叫你丈夫，然後回到這裏來。」}\textsuperscript{17}婦人回答：「我沒有丈夫。」耶穌說：\jesus{「你說沒有丈夫是對的。\textsuperscript{18}你已經有五個丈夫，你現在有的並不是你的丈夫。你這話是真的。」}\textsuperscript{19}婦人說：「先生，我看你是先知。\textsuperscript{20}我們的祖宗在這山上敬拜神，你們倒說，應當敬拜的地方是在耶路撒冷。」
 
-> \textsuperscript{21}耶穌說：「婦人，你要信我。時候將到，你們敬拜父不在這山上，也不在耶路撒冷。\textsuperscript{22}你們所敬拜的，你們不知道；我們所敬拜的，我們知道，因為救恩是從猶太人出來的。\textsuperscript{23}時候將到，現在就是了，那真正敬拜父的，要用心靈和誠實敬拜他，因為父要這樣的人敬拜他。\textsuperscript{24}神是靈，所以敬拜他的必須用心靈和誠實敬拜他。」\textsuperscript{25}婦人對他說：「我知道彌賽亞——就是那稱為基督的——要來；他來了，會把一切的事都告訴我們。」\textsuperscript{26}耶穌對她說：「我就是，正在跟你說話呢！」
+> \textsuperscript{21}耶穌說：\jesus{「婦人，你要信我。時候將到，你們敬拜父不在這山上，也不在耶路撒冷。\textsuperscript{22}你們所敬拜的，你們不知道；我們所敬拜的，我們知道，因為救恩是從猶太人出來的。\textsuperscript{23}時候將到，現在就是了，那真正敬拜父的，要用心靈和誠實敬拜他，因為父要這樣的人敬拜他。\textsuperscript{24}神是靈，所以敬拜他的必須用心靈和誠實敬拜他。」}\textsuperscript{25}婦人對他說：「我知道彌賽亞——就是那稱為基督的——要來；他來了，會把一切的事都告訴我們。」\textsuperscript{26}耶穌對她說：\jesus{「我就是，正在跟你說話呢！」}
 
 > \textsuperscript{27}正在這時候，門徒回來了，就驚訝耶穌和一個婦人說話；只是沒有人問「你要甚麼？」或問「你為甚麼和她說話？」\textsuperscript{28}那婦人就留下水罐，進城去對城裏的人說：\textsuperscript{29}「你們來看！有一個人把我一切所做的事都說了出來，莫非這就是基督嗎？」\textsuperscript{30}眾人就出城來找耶穌。
 
-> \textsuperscript{31}這其間，門徒求耶穌說：「拉比，請吃。」\textsuperscript{32}耶穌對他們說：「我有食物吃，是你們不知道的。」\textsuperscript{33}門徒就彼此說：「莫非有人拿甚麼給他吃嗎？」\textsuperscript{34}耶穌對他們說：「我的食物就是遵行差我來者的旨意，完成他的工作。\textsuperscript{35}你們不是說『還有四個月才到收割的時候』嗎？我告訴你們，舉目向田觀看，莊稼熟了，可以收割了。\textsuperscript{36}收割的人得工錢，收積五穀到永生，使撒種的和收割的一同快樂。\textsuperscript{37}這話是真的：『那人撒種，這人收割。』\textsuperscript{38}我差你們去收你們所沒有勞苦的；別人勞苦，你們享受他們勞苦的成果。」
+> \textsuperscript{31}這其間，門徒求耶穌說：「拉比，請吃。」\textsuperscript{32}耶穌對他們說：\jesus{「我有食物吃，是你們不知道的。」}\textsuperscript{33}門徒就彼此說：「莫非有人拿甚麼給他吃嗎？」\textsuperscript{34}耶穌對他們說：\jesus{「我的食物就是遵行差我來者的旨意，完成他的工作。\textsuperscript{35}你們不是說『還有四個月才到收割的時候』嗎？我告訴你們，舉目向田觀看，莊稼熟了，可以收割了。\textsuperscript{36}收割的人得工錢，收積五穀到永生，使撒種的和收割的一同快樂。\textsuperscript{37}這話是真的：『那人撒種，這人收割。』\textsuperscript{38}我差你們去收你們所沒有勞苦的；別人勞苦，你們享受他們勞苦的成果。」}
 
-> \textsuperscript{39}那城裏有好些撒瑪利亞人信了耶穌，因為那婦人作見證說：「他把我一切所做的事都說了出來。」\textsuperscript{40}於是撒瑪利亞人來見耶穌，求他在他們那裏住下，他就在那裏住了兩天。\textsuperscript{41}因耶穌的話，信的人就更多了。\textsuperscript{42}他們對那婦人說：「現在我們信，不再是因為你的話，而是因為我們親自聽見了，知道這人真是世人的救主。」
+> \textsuperscript{39}那城裏有好些撒瑪利亞人信了耶穌，因為那婦人作見證說：「他把我一切所做的事都說了出來。」\textsuperscript{40}於是撒瑪利亞人來見耶穌，求他在他們那裏住下，他就在那裏住了兩天。\textsuperscript{41}因耶穌的話，信的人就更多了。\textsuperscript{42}他們對那婦人說：「現在我們信，不再是因為你的話，而是因為我們親自聯見了，知道這人真是世人的救主。」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}Now when Jesus learned that the Pharisees had heard that Jesus was making and baptizing more disciples than John \textsuperscript{2}(although Jesus himself did not baptize, but only his disciples), \textsuperscript{3}he left Judea and departed again for Galilee. \textsuperscript{4}And he had to pass through Samaria. \textsuperscript{5}So he came to a town of Samaria called Sychar, near the field that Jacob had given to his son Joseph. \textsuperscript{6}Jacob's well was there; so Jesus, wearied as he was from his journey, was sitting beside the well. It was about the sixth hour.
+> \textsuperscript{1}Therefore, when the Lord knew that the Pharisees had heard that Jesus made and baptized more disciples than John \textsuperscript{2}(though Jesus Himself did not baptize, but His disciples), \textsuperscript{3}He left Judea and departed again to Galilee. \textsuperscript{4}But He needed to go through Samaria. \textsuperscript{5}So He came to a city of Samaria which is called Sychar, near the plot of ground that Jacob gave to his son Joseph. \textsuperscript{6}Now Jacob's well was there. Jesus therefore, being wearied from His journey, sat thus by the well. It was about the sixth hour.
 
-> \textsuperscript{7}A woman from Samaria came to draw water. Jesus said to her, "Give me a drink." \textsuperscript{8}(For his disciples had gone away into the city to buy food.) \textsuperscript{9}The Samaritan woman said to him, "How is it that you, a Jew, ask for a drink from me, a woman of Samaria?" (For Jews have no dealings with Samaritans.) \textsuperscript{10}Jesus answered her, "If you knew the gift of God, and who it is that is saying to you, 'Give me a drink,' you would have asked him, and he would have given you living water."
+> \textsuperscript{7}A woman of Samaria came to draw water. Jesus said to her, \jesus{"Give Me a drink."} \textsuperscript{8}For His disciples had gone away into the city to buy food. \textsuperscript{9}Then the woman of Samaria said to Him, "How is it that You, being a Jew, ask a drink from me, a Samaritan woman?" For Jews have no dealings with Samaritans. \textsuperscript{10}Jesus answered and said to her, \jesus{"If you knew the gift of God, and who it is who says to you, 'Give Me a drink,' you would have asked Him, and He would have given you living water."}
 
-> \textsuperscript{11}The woman said to him, "Sir, you have nothing to draw water with, and the well is deep. Where do you get that living water? \textsuperscript{12}Are you greater than our father Jacob? He gave us the well and drank from it himself, as did his sons and his livestock." \textsuperscript{13}Jesus said to her, "Everyone who drinks of this water will be thirsty again, \textsuperscript{14}but whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life." \textsuperscript{15}The woman said to him, "Sir, give me this water, so that I will not be thirsty or have to come here to draw water."
+> \textsuperscript{11}The woman said to Him, "Sir, You have nothing to draw with, and the well is deep. Where then do You get that living water? \textsuperscript{12}Are You greater than our father Jacob, who gave us the well, and drank from it himself, as well as his sons and his livestock?" \textsuperscript{13}Jesus answered and said to her, \jesus{"Whoever drinks of this water will thirst again, \textsuperscript{14}but whoever drinks of the water that I shall give him will never thirst. But the water that I shall give him will become in him a fountain of water springing up into everlasting life."} \textsuperscript{15}The woman said to Him, "Sir, give me this water, that I may not thirst, nor come here to draw."
 
-> \textsuperscript{16}Jesus said to her, "Go, call your husband, and come here." \textsuperscript{17}The woman answered him, "I have no husband." Jesus said to her, "You are right in saying, 'I have no husband'; \textsuperscript{18}for you have had five husbands, and the one you now have is not your husband. What you have said is true." \textsuperscript{19}The woman said to him, "Sir, I perceive that you are a prophet. \textsuperscript{20}Our fathers worshiped on this mountain, but you say that in Jerusalem is the place where people ought to worship."
+> \textsuperscript{16}Jesus said to her, \jesus{"Go, call your husband, and come here."} \textsuperscript{17}The woman answered and said, "I have no husband." Jesus said to her, \jesus{"You have well said, 'I have no husband,' \textsuperscript{18}for you have had five husbands, and the one whom you now have is not your husband; in that you spoke truly."} \textsuperscript{19}The woman said to Him, "Sir, I perceive that You are a prophet. \textsuperscript{20}Our fathers worshiped on this mountain, and you Jews say that in Jerusalem is the place where one ought to worship."
 
-> \textsuperscript{21}Jesus said to her, "Woman, believe me, the hour is coming when neither on this mountain nor in Jerusalem will you worship the Father. \textsuperscript{22}You worship what you do not know; we worship what we know, for salvation is from the Jews. \textsuperscript{23}But the hour is coming, and is now here, when the true worshipers will worship the Father in spirit and truth, for the Father is seeking such people to worship him. \textsuperscript{24}God is spirit, and those who worship him must worship in spirit and truth." \textsuperscript{25}The woman said to him, "I know that Messiah is coming (he who is called Christ). When he comes, he will tell us all things." \textsuperscript{26}Jesus said to her, "I who speak to you am he."
+> \textsuperscript{21}Jesus said to her, \jesus{"Woman, believe Me, the hour is coming when you will neither on this mountain, nor in Jerusalem, worship the Father. \textsuperscript{22}You worship what you do not know; we know what we worship, for salvation is of the Jews. \textsuperscript{23}But the hour is coming, and now is, when the true worshipers will worship the Father in spirit and truth; for the Father is seeking such to worship Him. \textsuperscript{24}God is Spirit, and those who worship Him must worship in spirit and truth."} \textsuperscript{25}The woman said to Him, "I know that Messiah is coming" (who is called Christ). "When He comes, He will tell us all things." \textsuperscript{26}Jesus said to her, \jesus{"I who speak to you am He."}
 
-> \textsuperscript{27}Just then his disciples came back. They marveled that he was talking with a woman, but no one said, "What do you seek?" or, "Why are you talking with her?" \textsuperscript{28}So the woman left her water jar and went away into town and said to the people, \textsuperscript{29}"Come, see a man who told me all that I ever did. Can this be the Christ?" \textsuperscript{30}They went out of the town and were coming to him.
+> \textsuperscript{27}And at this point His disciples came, and they marveled that He talked with a woman; yet no one said, "What do You seek?" or, "Why are You talking with her?" \textsuperscript{28}The woman then left her waterpot, went her way into the city, and said to the men, \textsuperscript{29}"Come, see a Man who told me all things that I ever did. Could this be the Christ?" \textsuperscript{30}Then they went out of the city and came to Him.
 
-> \textsuperscript{31}Meanwhile the disciples were urging him, saying, "Rabbi, eat." \textsuperscript{32}But he said to them, "I have food to eat that you do not know about." \textsuperscript{33}So the disciples said to one another, "Has anyone brought him something to eat?" \textsuperscript{34}Jesus said to them, "My food is to do the will of him who sent me and to accomplish his work. \textsuperscript{35}Do you not say, 'There are yet four months, then comes the harvest'? Look, I tell you, lift up your eyes, and see that the fields are white for harvest. \textsuperscript{36}Already the one who reaps is receiving wages and gathering fruit for eternal life, so that sower and reaper may rejoice together. \textsuperscript{37}For here the saying holds true, 'One sows and another reaps.' \textsuperscript{38}I sent you to reap that for which you did not labor. Others have labored, and you have entered into their labor."
+> \textsuperscript{31}In the meantime His disciples urged Him, saying, "Rabbi, eat." \textsuperscript{32}But He said to them, \jesus{"I have food to eat of which you do not know."} \textsuperscript{33}Therefore the disciples said to one another, "Has anyone brought Him anything to eat?" \textsuperscript{34}Jesus said to them, \jesus{"My food is to do the will of Him who sent Me, and to finish His work. \textsuperscript{35}Do you not say, 'There are still four months and then comes the harvest'? Behold, I say to you, lift up your eyes and look at the fields, for they are already white for harvest! \textsuperscript{36}And he who reaps receives wages, and gathers fruit for eternal life, that both he who sows and he who reaps may rejoice together. \textsuperscript{37}For in this the saying is true: 'One sows and another reaps.' \textsuperscript{38}I sent you to reap that for which you have not labored; others have labored, and you have entered into their labors."}
 
-> \textsuperscript{39}Many Samaritans from that town believed in him because of the woman's testimony, "He told me all that I ever did." \textsuperscript{40}So when the Samaritans came to him, they asked him to stay with them, and he stayed there two days. \textsuperscript{41}And many more believed because of his word. \textsuperscript{42}They said to the woman, "It is no longer because of what you said that we believe, for we have heard for ourselves, and we know that this is indeed the Savior of the world."
+> \textsuperscript{39}And many of the Samaritans of that city believed in Him because of the word of the woman who testified, "He told me all that I ever did." \textsuperscript{40}So when the Samaritans had come to Him, they urged Him to stay with them; and He stayed there two days. \textsuperscript{41}And many more believed because of His own word. \textsuperscript{42}Then they said to the woman, "Now we believe, not because of what you said, for we ourselves have heard Him and we know that this is indeed the Christ, the Savior of the world."
 
 ---
 
@@ -2491,6 +3118,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：祂是活水的泉源。雅各井旁的水止不住渴，耶和華卻自稱「活水的泉源」（耶 2:13），人卻離棄祂去鑿破裂的池子。賽 12:3「你們必從救恩的泉源歡然取水」，在這井旁應驗——這位說「我就是」的，正是要來的彌賽亞。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「她為什麼正午一個人來打水，而不是清早跟眾人一起？」
+- 再問：「耶穌說的『活水』，和井裡的水有什麼不同？」
+- 追問：「她換過五個丈夫——她真正渴的是什麼？」
+- 落到自己：「你一直在用什麼來解你裡面的渴？那口井，真能止住你的渴嗎？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天解渴的「井」很多：刷不完的影片、收不完的讚、買不完的東西。喝的時候解一時，過後更渴。撒瑪利亞婦人換了五個丈夫仍空虛——你換了多少個「井」，裡面那份渴還在嗎？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：對主說：我裡面的渴，今天我要來你這活水的泉源支取，不再去鑿破裂的池子。
+- **晚上**：今天我為了「解渴」，重複去了哪一口止不住渴的井？
+- **一個行動**：今天刻意減一次「越喝越渴」的習慣（如無意識的滑手機），改成親近主。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：一個換過五個丈夫、正午獨自打水的婦人，遇見那位說「我就是」的主，井邊就成了她重生之地。
+
+**貫通全經**：雅各井旁的水止不住渴 → 「我是活水的泉源」（耶2:13）→ 祂就是那永不枯竭的活水。
+
+**無法迴避的問題**：「你一直在用什麼來解你裡面的渴？那口井，真能止住你的渴嗎？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，我曾用許多破裂的池子解渴，喝了還渴。今天我來到你這活水的泉源，求你賜下湧流到永生的活水，止住我裡面最深的渴，叫我用心靈和誠實敬拜你。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第九章*
 
 
@@ -2501,17 +3173,25 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 8-9 精選; 約翰福音 4:46-5:18
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+一連串的醫治與趕鬼，焦點不在病得醫治的人，而在那位「連風和海也聽從祂」、能說「你的罪赦了」的主。從祂的角度讀，潔淨大痲瘋的、平靜風浪的、赦免癱子的，是同一位掌管身體、自然與罪的主。神蹟不是目的，而是記號——指明人子在地上有赦罪的權柄，神的國已隨祂臨到。
+
+---
+
 ## 經文 (Scripture)
 
 ### 大臣之子得醫治 (約翰福音 4:46-54)
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{46}耶穌又到了加利利的迦拿，就是他從前變水為酒的地方。有一個大臣，他的兒子在迦百農患病。\textsuperscript{47}他聽見耶穌從猶太到了加利利，就來見他，求他下去醫治他的兒子，因為他兒子快要死了。\textsuperscript{48}耶穌對他說：「若不看見神蹟奇事，你們總是不信。」\textsuperscript{49}那大臣對他說：「先生，求你趁我的孩子還沒有死就下去。」\textsuperscript{50}耶穌對他說：「回去吧，你的兒子活了！」那人信耶穌所說的話，就回去了。\textsuperscript{51}正下去的時候，他的僕人迎見他，說他的孩子活了。\textsuperscript{52}他就問甚麼時候好轉的。他們說：「昨天下午一點鐘熱就退了。」\textsuperscript{53}父親知道那正是耶穌對他說「你的兒子活了」的時候，他和全家就都信了。\textsuperscript{54}這是耶穌從猶太回到加利利所行的第二個神蹟。
+> \textsuperscript{46}耶穌又到了加利利的迦拿，就是他從前變水為酒的地方。有一個大臣，他的兒子在迦百農患病。\textsuperscript{47}他聽見耶穌從猶太到了加利利，就來見他，求他下去醫治他的兒子，因為他兒子快要死了。\textsuperscript{48}耶穌對他說：\jesus{「若不看見神蹟奇事，你們總是不信。」}\textsuperscript{49}那大臣對他說：「先生，求你趁我的孩子還沒有死就下去。」\textsuperscript{50}耶穌對他說：\jesus{「回去吧，你的兒子活了！」}那人信耶穌所說的話，就回去了。\textsuperscript{51}正下去的時候，他的僕人迎見他，說他的孩子活了。\textsuperscript{52}他就問甚麼時候好轉的。他們說：「昨天下午一點鐘熱就退了。」\textsuperscript{53}父親知道那正是耶穌對他說「你的兒子活了」的時候，他和全家就都信了。\textsuperscript{54}這是耶穌從猶太回到加利利所行的第二個神蹟。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{46}So he came again to Cana in Galilee, where he had made the water wine. And at Capernaum there was an official whose son was ill. \textsuperscript{47}When this man heard that Jesus had come from Judea to Galilee, he went to him and asked him to come down and heal his son, for he was at the point of death. \textsuperscript{48}So Jesus said to him, "Unless you see signs and wonders you will not believe." \textsuperscript{49}The official said to him, "Sir, come down before my child dies." \textsuperscript{50}Jesus said to him, "Go; your son will live." The man believed the word that Jesus spoke to him and went on his way. \textsuperscript{51}As he was going down, his servants met him and told him that his son was recovering. \textsuperscript{52}So he asked them the hour when he began to get better, and they said to him, "Yesterday at the seventh hour the fever left him." \textsuperscript{53}The father knew that was the hour when Jesus had said to him, "Your son will live." And he himself believed, and all his household. \textsuperscript{54}This was now the second sign that Jesus did when he had come from Judea to Galilee.
+> \textsuperscript{46}So Jesus came again to Cana of Galilee where He had made the water wine. And there was a certain nobleman whose son was sick at Capernaum. \textsuperscript{47}When he heard that Jesus had come out of Judea into Galilee, he went to Him and implored Him to come down and heal his son, for he was at the point of death. \textsuperscript{48}Then Jesus said to him, \jesus{"Unless you people see signs and wonders, you will by no means believe."} \textsuperscript{49}The nobleman said to Him, "Sir, come down before my child dies!" \textsuperscript{50}Jesus said to him, \jesus{"Go your way; your son lives."} So the man believed the word that Jesus spoke to him, and he went his way. \textsuperscript{51}And as he was now going down, his servants met him and told him, saying, "Your son lives!" \textsuperscript{52}Then he inquired of them the hour when he got better. And they said to him, "Yesterday at the seventh hour the fever left him." \textsuperscript{53}So the father knew that it was at the same hour in which Jesus said to him, "Your son lives." And he himself believed, and his whole household. \textsuperscript{54}This again is the second sign Jesus did when He had come out of Judea into Galilee.
 
 ---
 
@@ -2519,15 +3199,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}這些事以後，到了猶太人的一個節期，耶穌就上耶路撒冷去。\textsuperscript{2}在耶路撒冷，靠近羊門有一個池子，希伯來話叫作畢士大，旁邊有五個廊子。\textsuperscript{3}裏面躺着瞎眼的、瘸腿的、血氣枯乾的許多病人。\textsuperscript{5}在那裏有一個人，病了三十八年。\textsuperscript{6}耶穌看見他躺着，知道他病了很久，就問他：「你要痊癒嗎？」\textsuperscript{7}病人回答：「先生，水動的時候，沒有人把我放在池子裏；我正要去的時候，別人比我先下去了。」\textsuperscript{8}耶穌對他說：「起來，拿起你的褥子走吧！」\textsuperscript{9}那人立刻痊癒，就拿起褥子走了。
+> \textsuperscript{1}這些事以後，到了猶太人的一個節期，耶穌就上耶路撒冷去。\textsuperscript{2}在耶路撒冷，靠近羊門有一個池子，希伯來話叫作畢士大，旁邊有五個廊子。\textsuperscript{3}裏面躺着瞎眼的、瘸腿的、血氣枯乾的許多病人。\textsuperscript{5}在那裏有一個人，病了三十八年。\textsuperscript{6}耶穌看見他躺着，知道他病了很久，就問他：\jesus{「你要痊癒嗎？」}\textsuperscript{7}病人回答：「先生，水動的時候，沒有人把我放在池子裏；我正要去的時候，別人比我先下去了。」\textsuperscript{8}耶穌對他說：\jesus{「起來，拿起你的褥子走吧！」}\textsuperscript{9}那人立刻痊癒，就拿起褥子走了。
 
-> \textsuperscript{10}那天是安息日，所以猶太人對那醫好的人說：「今天是安息日，你拿褥子是不合法的。」\textsuperscript{11}他卻回答他們：「那使我痊癒的對我說：『拿起你的褥子走吧！』」\textsuperscript{12}他們問他：「對你說『拿起來走』的是甚麼人？」\textsuperscript{13}那醫好的人不知道是誰，因為那裏人很多，耶穌已經避開了。\textsuperscript{14}後來耶穌在聖殿裏找到他，對他說：「你已經痊癒了，不要再犯罪，恐怕你遭遇的更加厲害。」\textsuperscript{15}那人就去告訴猶太人，使他痊癒的是耶穌。\textsuperscript{16}所以猶太人迫害耶穌，因為他在安息日做了這些事。\textsuperscript{17}耶穌就對他們說：「我父做事直到如今，我也做事。」\textsuperscript{18}為了這緣故，猶太人越發想要殺他，因為他不但犯了安息日，而且稱神為他的父，把自己和神看為同等。
+> \textsuperscript{10}那天是安息日，所以猶太人對那醫好的人說：「今天是安息日，你拿褥子是不合法的。」\textsuperscript{11}他卻回答他們：「那使我痊癒的對我說：『拿起你的褥子走吧！』」\textsuperscript{12}他們問他：「對你說『拿起來走』的是甚麼人？」\textsuperscript{13}那醫好的人不知道是誰，因為那裏人很多，耶穌已經避開了。\textsuperscript{14}後來耶穌在聖殿裏找到他，對他說：\jesus{「你已經痊癒了，不要再犯罪，恐怕你遭遇的更加厲害。」}\textsuperscript{15}那人就去告訴猶太人，使他痊癒的是耶穌。\textsuperscript{16}所以猶太人迫害耶穌，因為他在安息日做了這些事。\textsuperscript{17}耶穌就對他們說：\jesus{「我父做事直到如今，我也做事。」}\textsuperscript{18}為了這緣故，猶太人越發想要殺他，因為他不但犯了安息日，而且稱神為他的父，把自己和神看為同等。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}After this there was a feast of the Jews, and Jesus went up to Jerusalem. \textsuperscript{2}Now there is in Jerusalem by the Sheep Gate a pool, in Aramaic called Bethesda, which has five roofed colonnades. \textsuperscript{3}In these lay a multitude of invalids—blind, lame, and paralyzed. \textsuperscript{5}One man was there who had been an invalid for thirty-eight years. \textsuperscript{6}When Jesus saw him lying there and knew that he had already been there a long time, he said to him, "Do you want to be healed?" \textsuperscript{7}The sick man answered him, "Sir, I have no one to put me into the pool when the water is stirred up, and while I am going another steps down before me." \textsuperscript{8}Jesus said to him, "Get up, take up your bed, and walk." \textsuperscript{9}And at once the man was healed, and he took up his bed and walked.
+> \textsuperscript{1}After this there was a feast of the Jews, and Jesus went up to Jerusalem. \textsuperscript{2}Now there is in Jerusalem by the Sheep Gate a pool, which is called in Hebrew, Bethesda, having five porches. \textsuperscript{3}In these lay a great multitude of sick people, blind, lame, paralyzed, waiting for the moving of the water. \textsuperscript{5}Now a certain man was there who had an infirmity thirty-eight years. \textsuperscript{6}When Jesus saw him lying there, and knew that he already had been in that condition a long time, He said to him, \jesus{"Do you want to be made well?"} \textsuperscript{7}The sick man answered Him, "Sir, I have no man to put me into the pool when the water is stirred up; but while I am coming, another steps down before me." \textsuperscript{8}Jesus said to him, \jesus{"Rise, take up your bed and walk."} \textsuperscript{9}And immediately the man was made well, took up his bed, and walked.
 
-> Now that day was the Sabbath. \textsuperscript{10}So the Jews said to the man who had been healed, "It is the Sabbath, and it is not lawful for you to take up your bed." \textsuperscript{11}But he answered them, "The man who healed me, that man said to me, 'Take up your bed, and walk.'" \textsuperscript{12}They asked him, "Who is the man who said to you, 'Take up your bed and walk'?" \textsuperscript{13}Now the man who had been healed did not know who it was, for Jesus had withdrawn, as there was a crowd in the place. \textsuperscript{14}Afterward Jesus found him in the temple and said to him, "See, you are well! Sin no more, that nothing worse may happen to you." \textsuperscript{15}The man went away and told the Jews that it was Jesus who had healed him. \textsuperscript{16}And this was why the Jews were persecuting Jesus, because he was doing these things on the Sabbath. \textsuperscript{17}But Jesus answered them, "My Father is working until now, and I am working." \textsuperscript{18}This was why the Jews were seeking all the more to kill him, because not only was he breaking the Sabbath, but he was even calling God his own Father, making himself equal with God.
+> And that day was the Sabbath. \textsuperscript{10}The Jews therefore said to him who was cured, "It is the Sabbath; it is not lawful for you to carry your bed." \textsuperscript{11}He answered them, "He who made me well said to me, 'Take up your bed and walk.'" \textsuperscript{12}Then they asked him, "Who is the Man who said to you, 'Take up your bed and walk'?" \textsuperscript{13}But the one who was healed did not know who it was, for Jesus had withdrawn, a multitude being in that place. \textsuperscript{14}Afterward Jesus found him in the temple, and said to him, \jesus{"See, you have been made well. Sin no more, lest a worse thing come upon you."} \textsuperscript{15}The man departed and told the Jews that it was Jesus who had made him well. \textsuperscript{16}For this reason the Jews persecuted Jesus, and sought to kill Him, because He had done these things on the Sabbath. \textsuperscript{17}But Jesus answered them, \jesus{"My Father has been working until now, and I have been working."} \textsuperscript{18}Therefore the Jews sought all the more to kill Him, because He not only broke the Sabbath, but also said that God was His Father, making Himself equal with God.
 
 ---
 
@@ -2645,6 +3325,98 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 重要事件深度啟示：神蹟與七記號 (Key Event Deep Revelation: Miracles and the Seven Signs)
+
+### 神蹟的目的：不是表演，是啟示
+
+| 表面 | 深層 |
+|---|---|
+| 治好身體 | 證明祂是誰 |
+| 解除痛苦 | 啟示赦罪的權柄 |
+| 行善 | 預表新天新地（沒有疾病、死亡、痛苦）|
+
+**神蹟不是目的本身——是指向更大實體的記號**。
+
+---
+
+### 約翰福音的「七個記號」(Seven Signs)
+
+約翰刻意不用 δύναμις（能力，對觀福音常用）而用 **σημεῖον**（記號，sign）—— 強調神蹟**指向更深的意義**。
+
+| # | 記號 | 經文 | 對應「我是」| 啟示 |
+|---|---|---|---|---|
+| 1 | 水變酒 | 約 2:1-11 | — | 從舊約到新約 |
+| 2 | 醫治大臣的兒子 | 約 4:46-54 | — | 話的權柄 |
+| 3 | 醫畢士大池子病人 | 約 5:1-15 | — | 安息日的主 |
+| 4 | 五餅二魚 | 約 6:1-15 | 生命的糧 | 天國的飽足 |
+| 5 | 海上行走 | 約 6:16-21 | — | 創造主的權柄 |
+| 6 | 醫生來瞎眼者 | 約 9:1-12 | 世界的光 | 新眼看新天 |
+| 7 | 拉撒路復活 | 約 11:1-44 | 復活和生命 | 死亡被勝 |
+
+**七記號的高峰是復活拉撒路**——直接導致公會決定殺基督。**最大的生命神蹟引出最大的死亡計謀**——這是世界對神蹟的反應。
+
+---
+
+### 神蹟的多樣分類
+
+加利利時期的醫治涵蓋**所有可能的疾病**：
+- **癱瘓**（中風、癱子）
+- **痲瘋**（被視為「活著的死亡」）
+- **發燒**（彼得岳母）
+- **血漏**（12 年）
+- **瞎眼、聾啞**
+- **被鬼附**
+- **死了的**（拿因寡婦之子、睚魯之女、拉撒路）
+
+**沒有一種疾病基督不能醫治；也沒有一種疾病基督必須醫治**。
+
+---
+
+### 「動了慈心」(*splangchnistheis*)
+
+希臘文 σπλαγχνίζομαι = 字面是「**腸子被攪動**」—— 猶太人認為腸子是憐憫的所在。
+基督的醫治**不是冷漠的能力展示**，是**從內裡被攪動的愛**的湧流。
+
+---
+
+### 觸摸不潔者的悖論
+
+| 通常 | 基督 |
+|---|---|
+| 摸不潔者 → 變不潔 | 摸不潔者 → 不潔者變潔淨 |
+| 律法傳染力 | 恩典傳染力 |
+
+**基督的潔淨是會傳染的**——他摸罪人，罪人不污染他，他**潔淨**罪人。
+這是十字架的預演——**他擔當不潔，使我們得潔**。
+
+---
+
+### 信心的多樣
+
+| 類型 | 例子 | 信心的形狀 |
+|---|---|---|
+| 權柄之信 | 百夫長 | 「祢只說一句話」 |
+| 代求之信 | 四友抬癱子 | 「拆屋頂」 |
+| 順服之信 | 痲瘋 | 「祢若肯」 |
+| 隱藏之信 | 血漏婦人 | 「摸繸子」 |
+| 持續之信 | 迦南婦人 | 「狗也吃碎渣」 |
+
+**沒有一種是「標準」的信** —— 基督回應**每一種真實的信**。
+
+---
+
+### 神蹟與十字架
+
+每一個神蹟都是**十字架前的預演**：
+- 治癱子 → **赦罪的權柄**（將在十字架上彰顯）
+- 醫痲瘋 → **不潔被潔淨**（基督擔當我們的不潔）
+- 風浪止息 → **混亂被治理**（新創造）
+- 拉撒路復活 → **死亡被勝**（基督復活的預表）
+
+**讀神蹟若不連到十字架，就讀錯了神蹟**。
+
+---
+
 ## 配詩 (Hymns & Psalms)
 
 **聖詩**：*At the Name of Jesus* (奉耶穌的名)
@@ -2661,6 +3433,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：兆頭顯明祂的權柄。祂醫病趕鬼，應驗賽 53:4「他代替我們的軟弱，擔當我們的疾病」（太 8:17）；祂赦免癱子的罪，做了惟有神能做的事（可 2:7）。醫治的根，是十架的擔當。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「耶穌對癱子先說什麼？是『起來行走』，還是『你的罪赦了』？」
+- 再問：「文士為什麼說這是僭妄？（因為赦罪只有神能）」
+- 追問：「祂醫身體，是為了證明祂有權柄做哪一件更大的事？」
+- 落到自己：「你來到祂面前，是只求身體的醫治，還是也求那更深的——罪得赦免？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天我們極力優化身體：監測睡眠、追蹤數據、追求更長壽更健康。這些不壞，卻容易讓我們只顧那看得見的病，忽略那看不見、卻致命的病——罪。你肯讓主醫的，只是身體，還是也包括你的心？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把今天的軟弱與疾病交託，也把那更深的「罪的軟弱」一同帶到主前。
+- **晚上**：今天我花多少心思顧身體？花多少心思顧靈魂？
+- **一個行動**：今天向主認一個你一直擱著沒處理的具體的罪，求祂赦免。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂潔淨痲瘋、平靜風浪、赦免癱子——同一位主，掌管身體、自然、與罪。
+
+**貫通全經**：「他代替我們的軟弱，擔當我們的疾病」（賽53:4／太8:17）——醫治的根，是十架的擔當。
+
+**無法迴避的問題**：「你來到祂面前，是只求身體的醫治，還是也求那更深的——罪得赦免？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你不但醫我的身體，更赦免我的罪。我把我的軟弱與疾病交給你，也把我擱置已久的罪帶到你面前；求你說那句「你的罪赦了」，醫治我最深的病。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十章*
 
 
@@ -2671,6 +3488,14 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 5-7
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+山上寶訓，主角不是一套更高的倫理，而是那位坐在山上、像新摩西般頒布天國律法的王。從祂的角度讀，八福描繪的是祂自己的樣式，「我來不是要廢掉，乃是要成全」律法的也是祂。這些話之所以有權柄，因為說話的是那位「把房子蓋在磐石上」所指向的磐石——聽祂並遵行的，就是有根基的人。
+
+---
+
 ## 經文 (Scripture)
 
 ### 八福 (The Beatitudes) — 馬太福音 5:1-12
@@ -2679,7 +3504,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{1}耶穌看見這一群人，就上了山，坐下後，門徒到他跟前來，\textsuperscript{2}他開口教導他們，說：
 >
-> \textsuperscript{3}「心靈貧窮的人有福了！因為天國是他們的。
+> \jesus{\textsuperscript{3}「心靈貧窮的人有福了！因為天國是他們的。
 > \textsuperscript{4}哀慟的人有福了！因為他們必得安慰。
 > \textsuperscript{5}謙和的人有福了！因為他們必承受土地。
 > \textsuperscript{6}飢渴慕義的人有福了！因為他們必得飽足。
@@ -2687,21 +3512,21 @@ MacArthur 強調三重「道」的含義：
 > \textsuperscript{8}清心的人有福了！因為他們必得見神。
 > \textsuperscript{9}締造和平的人有福了！因為他們必稱為神的兒子。
 > \textsuperscript{10}為義受迫害的人有福了！因為天國是他們的。
-> \textsuperscript{11}人若因我辱罵你們，迫害你們，捏造各樣壞話毀謗你們，你們就有福了！\textsuperscript{12}要歡喜快樂，因為你們在天上的賞賜是很多的。在你們以前的先知，人也是這樣迫害他們。」
+> \textsuperscript{11}人若因我辱罵你們，迫害你們，捏造各樣壞話毀謗你們，你們就有福了！\textsuperscript{12}要歡喜快樂，因為你們在天上的賞賜是很多的。在你們以前的先知，人也是這樣迫害他們。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{1}Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him. \textsuperscript{2}And he opened his mouth and taught them, saying:
+> \textsuperscript{1}And seeing the multitudes, He went up on a mountain, and when He was seated His disciples came to Him. \textsuperscript{2}Then He opened His mouth and taught them, saying:
 >
-> \textsuperscript{3}"Blessed are the poor in spirit, for theirs is the kingdom of heaven.
+> \jesus{\textsuperscript{3}"Blessed are the poor in spirit, for theirs is the kingdom of heaven.
 > \textsuperscript{4}Blessed are those who mourn, for they shall be comforted.
 > \textsuperscript{5}Blessed are the meek, for they shall inherit the earth.
-> \textsuperscript{6}Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.
-> \textsuperscript{7}Blessed are the merciful, for they shall receive mercy.
+> \textsuperscript{6}Blessed are those who hunger and thirst for righteousness, for they shall be filled.
+> \textsuperscript{7}Blessed are the merciful, for they shall obtain mercy.
 > \textsuperscript{8}Blessed are the pure in heart, for they shall see God.
 > \textsuperscript{9}Blessed are the peacemakers, for they shall be called sons of God.
 > \textsuperscript{10}Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.
-> \textsuperscript{11}Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account. \textsuperscript{12}Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."
+> \textsuperscript{11}Blessed are you when they revile and persecute you, and say all kinds of evil against you falsely for My sake. \textsuperscript{12}Rejoice and be exceedingly glad, for great is your reward in heaven, for so they persecuted the prophets who were before you."}
 
 ---
 
@@ -2709,7 +3534,7 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{9}「所以，你們要這樣禱告：
+> \jesus{\textsuperscript{9}「所以，你們要這樣禱告：
 > 『我們在天上的父：
 > 願人都尊你的名為聖。
 > \textsuperscript{10}願你的國降臨；
@@ -2719,21 +3544,22 @@ MacArthur 強調三重「道」的含義：
 > \textsuperscript{12}免我們的債，
 > 如同我們免了人的債。
 > \textsuperscript{13}不叫我們陷入試探；
-> 救我們脫離那惡者。』」
+> 救我們脫離那惡者。』」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{9}"Pray then like this:
-> 'Our Father in heaven,
-> hallowed be your name.
-> \textsuperscript{10}Your kingdom come,
-> your will be done,
-> on earth as it is in heaven.
-> \textsuperscript{11}Give us this day our daily bread,
-> \textsuperscript{12}and forgive us our debts,
-> as we also have forgiven our debtors.
-> \textsuperscript{13}And lead us not into temptation,
-> but deliver us from evil.'"
+> \jesus{\textsuperscript{9}"In this manner, therefore, pray:
+> Our Father in heaven,
+> Hallowed be Your name.
+> \textsuperscript{10}Your kingdom come.
+> Your will be done
+> On earth as it is in heaven.
+> \textsuperscript{11}Give us this day our daily bread.
+> \textsuperscript{12}And forgive us our debts,
+> As we forgive our debtors.
+> \textsuperscript{13}And do not lead us into temptation,
+> But deliver us from the evil one.
+> For Yours is the kingdom and the power and the glory forever. Amen."}
 
 ---
 
@@ -2741,15 +3567,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{13}「你們要進窄門。因為引到滅亡，那門是寬的，路是大的，進去的人也多；\textsuperscript{14}引到生命，那門是窄的，路是小的，找着的人也少。」
+> \jesus{\textsuperscript{13}「你們要進窄門。因為引到滅亡，那門是寬的，路是大的，進去的人也多；\textsuperscript{14}引到生命，那門是窄的，路是小的，找着的人也少。」}
 
-> \textsuperscript{24}「所以，凡聽了我這些話又去做的，好比一個聰明人把房子蓋在磐石上。\textsuperscript{25}雨淋，水沖，風吹，撞着那房子，房子總不倒塌，因為根基立在磐石上。\textsuperscript{26}凡聽了我這些話不去做的，好比一個愚蠢人把房子蓋在沙土上。\textsuperscript{27}雨淋，水沖，風吹，撞着那房子，房子就倒塌了，並且倒塌得很厲害。」
+> \jesus{\textsuperscript{24}「所以，凡聽了我這些話又去做的，好比一個聰明人把房子蓋在磐石上。\textsuperscript{25}雨淋，水沖，風吹，撞着那房子，房子總不倒塌，因為根基立在磐石上。\textsuperscript{26}凡聽了我這些話不去做的，好比一個愚蠢人把房子蓋在沙土上。\textsuperscript{27}雨淋，水沖，風吹，撞着那房子，房子就倒塌了，並且倒塌得很厲害。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{13}"Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many. \textsuperscript{14}For the gate is narrow and the way is hard that leads to life, and those who find it are few."
+> \jesus{\textsuperscript{13}"Enter by the narrow gate; for wide is the gate and broad is the way that leads to destruction, and there are many who go in by it. \textsuperscript{14}Because narrow is the gate and difficult is the way which leads to life, and there are few who find it."}
 
-> \textsuperscript{24}"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock. \textsuperscript{25}And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock. \textsuperscript{26}And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand. \textsuperscript{27}And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it."
+> \jesus{\textsuperscript{24}"Therefore whoever hears these sayings of Mine, and does them, I will liken him to a wise man who built his house on the rock: \textsuperscript{25}and the rain descended, the floods came, and the winds blew and beat on that house; and it did not fall, for it was founded on the rock. \textsuperscript{26}But everyone who hears these sayings of Mine, and does not do them, will be like a foolish man who built his house on the sand: \textsuperscript{27}and the rain descended, the floods came, and the winds blew and beat on that house; and it fell. And great was its fall."}
 
 ---
 
@@ -2920,6 +3746,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：把主語換成耶穌來讀。摩西上西奈山領受律法（出 19-20），新摩西上山頒布天國律法，並說「我來不是要廢掉，乃是要成全」（太 5:17）。八福不是你我修得到的標準——把它的主語換成耶穌讀，你看見的正是祂自己的生命。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「八福描寫的『虛心、哀慟、溫柔、為義受逼迫』的人，最像誰？」
+- 再問：「如果把八福的主語換成『耶穌』，讀得通嗎？」
+- 追問：「那麼這些話是要我們咬牙做到，還是要那位活出八福的主在我們裡面活出來？」
+- 落到自己：「你把山上寶訓當作做不到的高標準，還是當作主要在你裡面成全的應許？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天滿是「自我提升」「人生攻略」的教導，把美德變成又一套要靠意志達標的指標。山上寶訓不是更高的攻略，而是一位君王的生命寫照。你是靠自己「衝指標」，還是讓基督的生命在你裡面長出來？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：讀一段八福，求那位活出八福的主，今天在你裡面活出一條。
+- **晚上**：今天我活出來的，比較像「靠己達標」，還是「主在我裡面」？
+- **一個行動**：今天在一處「為義」的小事上選擇順服，哪怕吃虧。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：登山的不是一位更嚴的立法者，而是那位先活出八福、再頒布天國律法的王。
+
+**貫通全經**：摩西上西奈山頒律法（出19-20）→ 新摩西上山宣告天國，「我來不是要廢掉，乃是要成全」。把八福的主語換成耶穌讀，你看見的正是祂自己。
+
+**無法迴避的問題**：「你把這些話當作做不到的高標準，還是當作那位要在你裡面活出它的主的應許？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，八福原是你自己生命的寫照。我無力靠自己達到，求你—活出八福的主—在我裡面活出來；叫我今天在一件小事上，為義而順服，哪怕吃虧。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十一章*
 
 
@@ -2930,23 +3801,31 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 6:1-15（四福音皆記載的唯一神蹟，除復活外）
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+五餅二魚餵飽五千人，焦點不在那獻上餅魚的孩童，也不在飽足的群眾，而在那位「拿起餅來祝謝」的主。從祂的角度讀，這神蹟是一個記號——指向祂自己就是從天降下的生命的糧。曠野中嗎哪所預表的，如今親自站在他們面前；祂不只供應今生的飽足，更要賜下永生。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}這些事以後，耶穌渡過加利利海，就是提比哩亞海。\textsuperscript{2}有一大群人因為看見他在病人身上所行的神蹟，就跟隨他。\textsuperscript{3}耶穌上了山，和門徒一同坐在那裏。\textsuperscript{4}那時猶太人的逾越節近了。\textsuperscript{5}耶穌舉目看見一大群人來，就對腓力說：「我們從哪裏買餅給這些人吃呢？」\textsuperscript{6}他說這話是要考驗腓力，他自己原知道要怎樣做。\textsuperscript{7}腓力回答他：「就是二百個銀幣的餅也不夠，讓他們每人吃一點點吧。」
+> \textsuperscript{1}這些事以後，耶穌渡過加利利海，就是提比哩亞海。\textsuperscript{2}有一大群人因為看見他在病人身上所行的神蹟，就跟隨他。\textsuperscript{3}耶穌上了山，和門徒一同坐在那裏。\textsuperscript{4}那時猶太人的逾越節近了。\textsuperscript{5}耶穌舉目看見一大群人來，就對腓力說：\jesus{「我們從哪裏買餅給這些人吃呢？」}\textsuperscript{6}他說這話是要考驗腓力，他自己原知道要怎樣做。\textsuperscript{7}腓力回答他：「就是二百個銀幣的餅也不夠，讓他們每人吃一點點吧。」
 
-> \textsuperscript{8}有一個門徒，就是西門．彼得的兄弟安德烈，對耶穌說：\textsuperscript{9}「這裏有一個孩子，帶着五個大麥餅和兩條魚，只是分給這麼多人還算甚麼呢？」\textsuperscript{10}耶穌說：「你們叫眾人坐下。」原來那地方的草很多，眾人就坐下，男人約有五千。\textsuperscript{11}耶穌拿起餅來，祝謝了，分給坐着的人；分魚也是這樣，都隨着他們所要的。\textsuperscript{12}他們吃飽了，耶穌對門徒說：「把剩下的碎屑收拾起來，免得浪費。」\textsuperscript{13}他們就把眾人吃了的五個大麥餅的碎屑收拾起來，裝滿了十二個籃子。
+> \textsuperscript{8}有一個門徒，就是西門．彼得的兄弟安德烈，對耶穌說：\textsuperscript{9}「這裏有一個孩子，帶着五個大麥餅和兩條魚，只是分給這麼多人還算甚麼呢？」\textsuperscript{10}耶穌說：\jesus{「你們叫眾人坐下。」}原來那地方的草很多，眾人就坐下，男人約有五千。\textsuperscript{11}耶穌拿起餅來，祝謝了，分給坐着的人；分魚也是這樣，都隨着他們所要的。\textsuperscript{12}他們吃飽了，耶穌對門徒說：\jesus{「把剩下的碎屑收拾起來，免得浪費。」}\textsuperscript{13}他們就把眾人吃了的五個大麥餅的碎屑收拾起來，裝滿了十二個籃子。
 
 > \textsuperscript{14}眾人看見耶穌所行的神蹟，就說：「這真是那要到世上來的先知！」\textsuperscript{15}耶穌知道他們要來強迫他作王，就獨自又退到山上去了。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}After this Jesus went away to the other side of the Sea of Galilee, which is the Sea of Tiberias. \textsuperscript{2}And a large crowd was following him, because they saw the signs that he was doing on the sick. \textsuperscript{3}Jesus went up on the mountain, and there he sat down with his disciples. \textsuperscript{4}Now the Passover, the feast of the Jews, was at hand. \textsuperscript{5}Lifting up his eyes, then, and seeing that a large crowd was coming toward him, Jesus said to Philip, "Where are we to buy bread to feed these people?" \textsuperscript{6}He said this to test him, for he himself knew what he would do. \textsuperscript{7}Philip answered him, "Two hundred denarii worth of bread would not be enough for each of them to get a little."
+> \textsuperscript{1}After these things Jesus went over the Sea of Galilee, which is the Sea of Tiberias. \textsuperscript{2}Then a great multitude followed Him, because they saw His signs which He performed on those who were diseased. \textsuperscript{3}And Jesus went up on the mountain, and there He sat with His disciples. \textsuperscript{4}Now the Passover, a feast of the Jews, was near. \textsuperscript{5}Then Jesus lifted up His eyes, and seeing a great multitude coming toward Him, He said to Philip, \jesus{"Where shall we buy bread, that these may eat?"} \textsuperscript{6}But this He said to test him, for He Himself knew what He would do. \textsuperscript{7}Philip answered Him, "Two hundred denarii worth of bread is not sufficient for them, that every one of them may have a little."
 
-> \textsuperscript{8}One of his disciples, Andrew, Simon Peter's brother, said to him, \textsuperscript{9}"There is a boy here who has five barley loaves and two fish, but what are these for so many?" \textsuperscript{10}Jesus said, "Have the people sit down." Now there was much grass in the place. So the men sat down, about five thousand in number. \textsuperscript{11}Jesus then took the loaves, and when he had given thanks, he distributed them to those who were seated. So also the fish, as much as they wanted. \textsuperscript{12}And when they had eaten their fill, he told his disciples, "Gather up the leftover fragments, that nothing may be lost." \textsuperscript{13}So they gathered them up and filled twelve baskets with fragments from the five barley loaves left by those who had eaten.
+> \textsuperscript{8}One of His disciples, Andrew, Simon Peter's brother, said to Him, \textsuperscript{9}"There is a lad here who has five barley loaves and two small fish, but what are they among so many?" \textsuperscript{10}Then Jesus said, \jesus{"Make the people sit down."} Now there was much grass in the place. So the men sat down, in number about five thousand. \textsuperscript{11}And Jesus took the loaves, and when He had given thanks He distributed them to the disciples, and the disciples to those sitting down; and likewise of the fish, as much as they wanted. \textsuperscript{12}So when they were filled, He said to His disciples, \jesus{"Gather up the fragments that remain, so that nothing is lost."} \textsuperscript{13}Therefore they gathered them up, and filled twelve baskets with the fragments of the five barley loaves which were left over by those who had eaten.
 
-> \textsuperscript{14}When the people saw the sign that he had done, they said, "This is indeed the Prophet who is to come into the world!" \textsuperscript{15}Perceiving then that they were about to come and take him by force to make him king, Jesus withdrew again to the mountain by himself.
+> \textsuperscript{14}Then those men, when they had seen the sign that Jesus did, said, "This is truly the Prophet who is to come into the world." \textsuperscript{15}Therefore when Jesus perceived that they were about to come and take Him by force to make Him king, He departed again to the mountain by Himself alone.
 
 ---
 
@@ -3088,6 +3967,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：兆頭指向「我是生命的糧」。曠野的嗎哪天天從天降下（出 16），摩西說「人活著不是單靠食物」（申 8:3）；如今那真糧親自站在他們面前（約 6:35）。這也呼應以利沙二十個餅餵飽百人有餘（王下 4:42-44）的放大成就。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「群眾吃飽後想做什麼？（要強逼祂作王）他們要的是什麼？」
+- 再問：「耶穌行這神蹟，最終要他們看見什麼？（祂是生命的糧）」
+- 追問：「曠野的嗎哪和這餅，指向同一位嗎？」
+- 落到自己：「你追著祂，是為了吃餅得飽，還是為了祂這位『糧』的本身？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天我們不停「餵」自己——刷內容、追更新、收資訊，像那群只想再吃一餐餅的人。餵得越多，心越餓。因為那真能飽足靈魂的，不是下一條內容，是那位生命的糧。你追的是餅，還是賜餅的主？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：今天先用神的話「吃早餐」，再去面對一天的資訊洪流。
+- **晚上**：今天我「餵」了自己多少內容？哪些真餵養了我的靈魂？
+- **一個行動**：今天禁一樣「停不下來的內容」一段時間，用那段時間親近主。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂掰開五餅餵飽五千——這「兆頭」不是要解決一頓午餐，是要宣告「我就是生命的糧」。
+
+**貫通全經**：曠野的嗎哪（出16）天天降下 → 「我是生命的糧」（約6:35），如今親自站在他們面前。
+
+**無法迴避的問題**：「你追著祂，是為了吃餅得飽，還是為了祂這位『糧』的本身？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你就是生命的糧。我常追逐那不能飽足的東西，越追越餓；求你叫我來到你面前得真飽足，不是為著你手中的餅，乃是為著你自己。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十二章*
 
 
@@ -3098,31 +4022,39 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 14:22-36; 約翰福音 6:16-21
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+風浪中的水上行走，主角不是驚惶的門徒，而是那位踏浪而來、說「是我，不要怕」的主。從祂的角度讀，「是我」(ἐγώ εἰμι) 正是神向摩西啟示的聖名——祂是掌管混沌深水的創造主。當祂上了船，風就止住；認出祂是誰，懼怕就化為敬拜。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 #### 馬太福音 14:22-33
 
-> \textsuperscript{22}耶穌隨即催門徒上船，在他之前先過到對岸去，等他遣散眾人。\textsuperscript{23}他遣散了眾人，就獨自上山去禱告。到了晚上，只有他一人在那裏。\textsuperscript{24}那時船已經離岸好幾里，因風不順，被浪搖撼。\textsuperscript{25}夜裏四更天，耶穌在海面上向門徒走來。\textsuperscript{26}門徒看見他在海面上走，就都驚慌了，說：「是個鬼怪！」他們就害怕得喊叫起來。\textsuperscript{27}耶穌連忙對他們說：「放心！是我，不要怕！」
+> \textsuperscript{22}耶穌隨即催門徒上船，在他之前先過到對岸去，等他遣散眾人。\textsuperscript{23}他遣散了眾人，就獨自上山去禱告。到了晚上，只有他一人在那裏。\textsuperscript{24}那時船已經離岸好幾里，因風不順，被浪搖撼。\textsuperscript{25}夜裏四更天，耶穌在海面上向門徒走來。\textsuperscript{26}門徒看見他在海面上走，就都驚慌了，說：「是個鬼怪！」他們就害怕得喊叫起來。\textsuperscript{27}耶穌連忙對他們說：\jesus{「放心！是我，不要怕！」}
 
-> \textsuperscript{28}彼得回答他：「主啊，如果是你，請叫我從水面上走到你那裏去。」\textsuperscript{29}耶穌說：「來吧！」彼得就從船上下來，在水面上向耶穌走去。\textsuperscript{30}但他一見風勢猛烈就害怕起來，快要沉下去的時候，他喊叫說：「主啊，救我！」\textsuperscript{31}耶穌趕緊伸手拉住他，對他說：「你這小信的人哪，為甚麼懷疑呢？」\textsuperscript{32}他們一上船，風就停了。\textsuperscript{33}在船上的人都拜他，說：「你真是神的兒子！」
+> \textsuperscript{28}彼得回答他：「主啊，如果是你，請叫我從水面上走到你那裏去。」\textsuperscript{29}耶穌說：\jesus{「來吧！」}彼得就從船上下來，在水面上向耶穌走去。\textsuperscript{30}但他一見風勢猛烈就害怕起來，快要沉下去的時候，他喊叫說：「主啊，救我！」\textsuperscript{31}耶穌趕緊伸手拉住他，對他說：\jesus{「你這小信的人哪，為甚麼懷疑呢？」}\textsuperscript{32}他們一上船，風就停了。\textsuperscript{33}在船上的人都拜他，說：「你真是神的兒子！」
 
 #### 約翰福音 6:16-21
 
-> \textsuperscript{16}到了晚上，他的門徒下到海邊，\textsuperscript{17}上了船，要過海到迦百農去。天已經黑了，耶穌還沒有來到他們那裏。\textsuperscript{18}忽然狂風大作，海面掀起大浪。\textsuperscript{19}門徒搖櫓約行了五六公里，看見耶穌在海面上走，漸漸靠近船，他們就害怕。\textsuperscript{20}耶穌對他們說：「是我，不要怕！」\textsuperscript{21}門徒這才樂意接他上船，船立刻到了他們要去的地方。
+> \textsuperscript{16}到了晚上，他的門徒下到海邊，\textsuperscript{17}上了船，要過海到迦百農去。天已經黑了，耶穌還沒有來到他們那裏。\textsuperscript{18}忽然狂風大作，海面掀起大浪。\textsuperscript{19}門徒搖櫓約行了五六公里，看見耶穌在海面上走，漸漸靠近船，他們就害怕。\textsuperscript{20}耶穌對他們說：\jesus{「是我，不要怕！」}\textsuperscript{21}門徒這才樂意接他上船，船立刻到了他們要去的地方。
 
-### English — ESV
+### English — NKJV
 
 #### Matthew 14:22-33
 
-> \textsuperscript{22}Immediately he made the disciples get into the boat and go before him to the other side, while he dismissed the crowds. \textsuperscript{23}And after he had dismissed the crowds, he went up on the mountain by himself to pray. When evening came, he was there alone, \textsuperscript{24}but the boat by this time was a long way from the land, beaten by the waves, for the wind was against them. \textsuperscript{25}And in the fourth watch of the night he came to them, walking on the sea. \textsuperscript{26}But when the disciples saw him walking on the sea, they were terrified, and said, "It is a ghost!" and they cried out in fear. \textsuperscript{27}But immediately Jesus spoke to them, saying, "Take heart; it is I. Do not be afraid."
+> \textsuperscript{22}Immediately Jesus made His disciples get into the boat and go before Him to the other side, while He sent the multitudes away. \textsuperscript{23}And when He had sent the multitudes away, He went up on the mountain by Himself to pray. Now when evening came, He was alone there. \textsuperscript{24}But the boat was now in the middle of the sea, tossed by the waves, for the wind was contrary. \textsuperscript{25}Now in the fourth watch of the night Jesus went to them, walking on the sea. \textsuperscript{26}And when the disciples saw Him walking on the sea, they were troubled, saying, "It is a ghost!" And they cried out for fear. \textsuperscript{27}But immediately Jesus spoke to them, saying, \jesus{"Be of good cheer! It is I; do not be afraid."}
 
-> \textsuperscript{28}And Peter answered him, "Lord, if it is you, command me to come to you on the water." \textsuperscript{29}He said, "Come." So Peter got out of the boat and walked on the water and came to Jesus. \textsuperscript{30}But when he saw the wind, he was afraid, and beginning to sink he cried out, "Lord, save me!" \textsuperscript{31}Jesus immediately reached out his hand and took hold of him, saying to him, "O you of little faith, why did you doubt?" \textsuperscript{32}And when they got into the boat, the wind ceased. \textsuperscript{33}And those in the boat worshiped him, saying, "Truly you are the Son of God."
+> \textsuperscript{28}And Peter answered Him and said, "Lord, if it is You, command me to come to You on the water." \textsuperscript{29}So He said, \jesus{"Come."} And when Peter had come down out of the boat, he walked on the water to go to Jesus. \textsuperscript{30}But when he saw that the wind was boisterous, he was afraid; and beginning to sink he cried out, saying, "Lord, save me!" \textsuperscript{31}And immediately Jesus stretched out His hand and caught him, and said to him, \jesus{"O you of little faith, why did you doubt?"} \textsuperscript{32}And when they got into the boat, the wind ceased. \textsuperscript{33}Then those who were in the boat came and worshiped Him, saying, "Truly You are the Son of God."
 
 #### John 6:16-21
 
-> \textsuperscript{16}When evening came, his disciples went down to the sea, \textsuperscript{17}got into a boat, and started across the sea to Capernaum. It was now dark, and Jesus had not yet come to them. \textsuperscript{18}The sea became rough because a strong wind was blowing. \textsuperscript{19}When they had rowed about three or four miles, they saw Jesus walking on the sea and coming near the boat, and they were frightened. \textsuperscript{20}But he said to them, "It is I; do not be afraid." \textsuperscript{21}Then they were glad to take him into the boat, and immediately the boat was at the land to which they were going.
+> \textsuperscript{16}Now when evening came, His disciples went down to the sea, \textsuperscript{17}got into the boat, and went over the sea toward Capernaum. And it was already dark, and Jesus had not come to them. \textsuperscript{18}Then the sea arose because a great wind was blowing. \textsuperscript{19}So when they had rowed about three or four miles, they saw Jesus walking on the sea and drawing near the boat; and they were afraid. \textsuperscript{20}But He said to them, \jesus{"It is I; do not be afraid."} \textsuperscript{21}Then they willingly received Him into the boat, and immediately the boat was at the land where they were going.
 
 ---
 
@@ -3280,6 +4212,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：「我是」是神的聖名。耶穌踏浪而來說「是我（ἐγώ εἰμι），不要怕」——這正是出 3:14 神向摩西啟示的名。詩 107:29「祂使狂風止息」、伯 9:8「祂……步行在海浪之上」，都是惟有神能做的事。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「門徒搖櫓甚苦，是什麼讓他們更害怕——是風浪，還是水面上的身影？」
+- 再問：「耶穌說的『是我』，在舊約是誰的名字？」
+- 追問：「祂一上船，發生了什麼？認出祂是誰，懼怕就怎樣了？」
+- 落到自己：「你生命的風浪裡，你聽見的是恐懼的聲音，還是那句『是我，不要怕』？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的「風浪」常是一條接一條的壞消息、推播、提醒——焦慮被一刻不停地餵養。門徒怕的不只是風浪，是看不清那是誰。在資訊掀起的驚惶裡，你能不能認出，那踏浪而來的，是那位掌管一切的主？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把今天會掀起你焦慮的事先點名交託，預先聽那句「是我，不要怕」。
+- **晚上**：今天哪一刻我被驚惶勝過？我有沒有抬頭看那位在浪上的主？
+- **一個行動**：今天為焦慮設一個界限（例如固定時間才看消息），把心定在主身上。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂踏著風浪而來，說「是我（I AM），不要怕」——掌管深水的創造主，上了他們的船。
+
+**貫通全經**：「是我」(ἐγώ εἰμι) 正是出3:14神向摩西啟示的聖名；「祂使狂風止息」（詩107:29）。
+
+**無法迴避的問題**：「你生命的風浪裡，你聽見的是恐懼的聲音，還是那句『是我，不要怕』？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，在我生命的風浪裡，求你叫我聽見你的聲音：「是我，不要怕。」你既是掌管深水的主，就求你上我的船，平靜我裡面的驚惶，叫懼怕化為敬拜。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十三章*
 
 
@@ -3290,31 +4267,39 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 6:22-71
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+生命的糧講論，焦點不在群眾「要吃餅得飽」的追求，而在那位宣告「我就是生命的糧」的主。從祂的角度讀，他們追問神蹟、論及嗎哪，祂卻把一切指向自己——到祂這裏來的必不餓，信祂的必不渴。這話叫許多人退去，因為主角從來不是免費的餅，而是那位捨己賜生命的主。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{26}耶穌回答他們：「我實實在在地告訴你們，你們找我，不是因為看見了神蹟，而是因為吃餅吃飽了。\textsuperscript{27}不要為那會壞的食物操勞，要為那存到永生的食物操勞，就是人子要賜給你們的，因為人子是父神所印證的。」
+> \textsuperscript{26}耶穌回答他們：\jesus{「我實實在在地告訴你們，你們找我，不是因為看見了神蹟，而是因為吃餅吃飽了。\textsuperscript{27}不要為那會壞的食物操勞，要為那存到永生的食物操勞，就是人子要賜給你們的，因為人子是父神所印證的。」}
 
-> \textsuperscript{32}耶穌對他們說：「我實實在在地告訴你們，不是摩西把那從天上來的糧賜給你們，而是我父把那從天上來的真糧賜給你們。\textsuperscript{33}因為神的糧就是那從天上降下來賜生命給世人的。」\textsuperscript{34}他們對他說：「主啊，常常把這糧賜給我們！」\textsuperscript{35}耶穌對他們說：「我就是生命的糧。到我這裏來的，必定不餓；信我的，永遠不渴。」
+> \textsuperscript{32}耶穌對他們說：\jesus{「我實實在在地告訴你們，不是摩西把那從天上來的糧賜給你們，而是我父把那從天上來的真糧賜給你們。\textsuperscript{33}因為神的糧就是那從天上降下來賜生命給世人的。」}\textsuperscript{34}他們對他說：「主啊，常常把這糧賜給我們！」\textsuperscript{35}耶穌對他們說：\jesus{「我就是生命的糧。到我這裏來的，必定不餓；信我的，永遠不渴。」}
 
-> \textsuperscript{47}「我實實在在地告訴你們，信的人有永生。\textsuperscript{48}我就是生命的糧。\textsuperscript{49}你們的祖宗在曠野吃過嗎哪，還是死了。\textsuperscript{50}這是從天上降下來的糧，使人吃了就不死。\textsuperscript{51}我是從天上降下來的活糧。人若吃這糧，必永遠活着。我所要賜的糧就是我的肉，是為世人的生命所賜的。」
+> \textsuperscript{47}\jesus{「我實實在在地告訴你們，信的人有永生。\textsuperscript{48}我就是生命的糧。\textsuperscript{49}你們的祖宗在曠野吃過嗎哪，還是死了。\textsuperscript{50}這是從天上降下來的糧，使人吃了就不死。\textsuperscript{51}我是從天上降下來的活糧。人若吃這糧，必永遠活着。我所要賜的糧就是我的肉，是為世人的生命所賜的。」}
 
-> \textsuperscript{53}耶穌對他們說：「我實實在在地告訴你們，你們若不吃人子的肉，不喝人子的血，就沒有生命在你們裏面。\textsuperscript{54}吃我肉、喝我血的人就有永生，在末日我要使他復活。\textsuperscript{55}我的肉是真正的食物，我的血是真正的飲料。\textsuperscript{56}吃我肉、喝我血的人常在我裏面，我也常在他裏面。\textsuperscript{57}永活的父怎樣差我來，我又怎樣因父活着，照樣，吃我的人也要因我活着。\textsuperscript{58}這就是從天上降下來的糧，不像你們的祖宗吃過，還是死了；吃這糧的人將永遠活着。」
+> \textsuperscript{53}耶穌對他們說：\jesus{「我實實在在地告訴你們，你們若不吃人子的肉，不喝人子的血，就沒有生命在你們裏面。\textsuperscript{54}吃我肉、喝我血的人就有永生，在末日我要使他復活。\textsuperscript{55}我的肉是真正的食物，我的血是真正的飲料。\textsuperscript{56}吃我肉、喝我血的人常在我裏面，我也常在他裏面。\textsuperscript{57}永活的父怎樣差我來，我又怎樣因父活着，照樣，吃我的人也要因我活着。\textsuperscript{58}這就是從天上降下來的糧，不像你們的祖宗吃過，還是死了；吃這糧的人將永遠活着。」}
 
-> \textsuperscript{66}從此，他門徒中有很多人退去了，不再和他同行。\textsuperscript{67}耶穌就對那十二個門徒說：「你們也要離開嗎？」\textsuperscript{68}西門．彼得回答他：「主啊，你有永生之道，我們還跟從誰呢？\textsuperscript{69}我們已經信了，又知道你是神的聖者。」
+> \textsuperscript{66}從此，他門徒中有很多人退去了，不再和他同行。\textsuperscript{67}耶穌就對那十二個門徒說：\jesus{「你們也要離開嗎？」}\textsuperscript{68}西門．彼得回答他：「主啊，你有永生之道，我們還跟從誰呢？\textsuperscript{69}我們已經信了，又知道你是神的聖者。」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{26}Jesus answered them, "Truly, truly, I say to you, you are seeking me, not because you saw signs, but because you ate your fill of the loaves. \textsuperscript{27}Do not work for the food that perishes, but for the food that endures to eternal life, which the Son of Man will give to you. For on him God the Father has set his seal."
+> \textsuperscript{26}Jesus answered them and said, \jesus{"Most assuredly, I say to you, you seek Me, not because you saw the signs, but because you ate of the loaves and were filled. \textsuperscript{27}Do not labor for the food which perishes, but for the food which endures to everlasting life, which the Son of Man will give you, because God the Father has set His seal on Him."}
 
-> \textsuperscript{32}Jesus then said to them, "Truly, truly, I say to you, it was not Moses who gave you the bread from heaven, but my Father gives you the true bread from heaven. \textsuperscript{33}For the bread of God is he who comes down from heaven and gives life to the world." \textsuperscript{34}They said to him, "Sir, give us this bread always." \textsuperscript{35}Jesus said to them, "I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."
+> \textsuperscript{32}Then Jesus said to them, \jesus{"Most assuredly, I say to you, Moses did not give you the bread from heaven, but My Father gives you the true bread from heaven. \textsuperscript{33}For the bread of God is He who comes down from heaven and gives life to the world."} \textsuperscript{34}Then they said to Him, "Lord, give us this bread always." \textsuperscript{35}And Jesus said to them, \jesus{"I am the bread of life. He who comes to Me shall never hunger, and he who believes in Me shall never thirst."}
 
-> \textsuperscript{47}"Truly, truly, I say to you, whoever believes has eternal life. \textsuperscript{48}I am the bread of life. \textsuperscript{49}Your fathers ate the manna in the wilderness, and they died. \textsuperscript{50}This is the bread that comes down from heaven, so that one may eat of it and not die. \textsuperscript{51}I am the living bread that came from heaven. If anyone eats of this bread, he will live forever. And the bread that I will give for the life of the world is my flesh."
+> \textsuperscript{47}\jesus{"Most assuredly, I say to you, he who believes in Me has everlasting life. \textsuperscript{48}I am the bread of life. \textsuperscript{49}Your fathers ate the manna in the wilderness, and are dead. \textsuperscript{50}This is the bread which comes down from heaven, that one may eat of it and not die. \textsuperscript{51}I am the living bread which came down from heaven. If anyone eats of this bread, he will live forever; and the bread that I shall give is My flesh, which I shall give for the life of the world."}
 
-> \textsuperscript{53}So Jesus said to them, "Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink his blood, you have no life in you. \textsuperscript{54}Whoever feeds on my flesh and drinks my blood has eternal life, and I will raise him up on the last day. \textsuperscript{55}For my flesh is true food, and my blood is true drink. \textsuperscript{56}Whoever feeds on my flesh and drinks my blood abides in me, and I in him. \textsuperscript{57}As the living Father sent me, and I live because of the Father, so whoever feeds on me, he also will live because of me. \textsuperscript{58}This is the bread that came from heaven, not like the bread the fathers ate, and died. Whoever feeds on this bread will live forever."
+> \textsuperscript{53}Then Jesus said to them, \jesus{"Most assuredly, I say to you, unless you eat the flesh of the Son of Man and drink His blood, you have no life in you. \textsuperscript{54}Whoever eats My flesh and drinks My blood has eternal life, and I will raise him up at the last day. \textsuperscript{55}For My flesh is food indeed, and My blood is drink indeed. \textsuperscript{56}He who eats My flesh and drinks My blood abides in Me, and I in him. \textsuperscript{57}As the living Father sent Me, and I live because of the Father, so he who feeds on Me will live because of Me. \textsuperscript{58}This is the bread which came down from heaven—not as your fathers ate the manna, and are dead. He who eats this bread will live forever."}
 
-> \textsuperscript{66}After this many of his disciples turned back and no longer walked with him. \textsuperscript{67}So Jesus said to the twelve, "Do you want to go away as well?" \textsuperscript{68}Simon Peter answered him, "Lord, to whom shall we go? You have the words of eternal life, \textsuperscript{69}and we have believed, and have come to know, that you are the Holy One of God."
+> \textsuperscript{66}From that time many of His disciples went back and walked with Him no more. \textsuperscript{67}Then Jesus said to the twelve, \jesus{"Do you also want to go away?"} \textsuperscript{68}But Simon Peter answered Him, "Lord, to whom shall we go? You have the words of eternal life. \textsuperscript{69}Also we have come to believe and know that You are the Christ, the Son of the living God."
 
 ---
 
@@ -3478,6 +4463,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：第一個「我是」。「我就是生命的糧」（約 6:35）——嗎哪只能養今生（出 16），這糧卻賜永生。祂說要吃祂的肉、喝祂的血，預指十架的捨身與立約的血（路 22:19-20）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「昨天還要擁祂作王的群眾，今天為什麼退去了？」
+- 再問：「耶穌的話哪裡『難』了？（祂要的不是給東西，是給自己）」
+- 追問：「當眾人都走了，彼得說了什麼？」
+- 落到自己：「這話若叫眾人都退去，你呢——『主啊，你有永生之道，我們還歸從誰？』」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的人對信仰常問：「這對我有什麼用？能解決什麼？」——把主當成一項服務、一個功能。一旦祂的話開始要求代價，許多人就像當年的群眾，退去了。你跟隨的，是一位有用的工具，還是一位值得捨命跟從的主？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：對主說：我跟隨你，不是因為你「有用」，是因為你就是生命的糧。
+- **晚上**：今天我對主的態度，比較像「祂能給我什麼」，還是「祂是誰」？
+- **一個行動**：今天為主做一件「對自己沒好處」的順服，單因祂是主。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「我就是生命的糧」——祂不是賜下一樣東西，祂把自己給了出去；許多人因此退去。
+
+**貫通全經**：嗎哪（出16）只能養今生，「人活著不是單靠食物」（申8:3）；這糧卻能賜永生。
+
+**無法迴避的問題**：「這話若叫眾人都退去，你呢——「主啊，你有永生之道，我們還歸從誰？」」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，當跟從你需要付代價，許多人退去了。求你叫我不把你當作有用的工具，乃認定你有永生之道；縱然不明白、縱然艱難，我仍要說：我還歸從誰呢？阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十四章*
 
 
@@ -3488,17 +4518,25 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 7:1-8:59
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+住棚節的爭論，主角不是分裂議論的眾人，而是那位在節期高聲喊「人若渴了，可以到我這裏來喝」的主。從祂的角度讀，住棚節的倒水禮指向祂所賜的活水，燃燈禮指向祂——「世界的光」。當祂說「還沒有亞伯拉罕，就有了我」，祂用神的聖名宣告自己的永恆神性。
+
+---
+
 ## 經文 (Scripture)
 
 ### 活水江河 (約翰福音 7:37-39)
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{37}節期的最後一天，就是最隆重的那一天，耶穌站着，高聲說：「人若渴了，到我這裏來喝！\textsuperscript{38}信我的人，就如經上所說：『從他腹中將流出活水的江河來。』」\textsuperscript{39}耶穌這話是指着信他的人要受聖靈說的。那時還沒有聖靈賜下來，因為耶穌尚未得着榮耀。
+> \textsuperscript{37}節期的最後一天，就是最隆重的那一天，耶穌站着，高聲說：\jesus{「人若渴了，到我這裏來喝！\textsuperscript{38}信我的人，就如經上所說：『從他腹中將流出活水的江河來。』」}\textsuperscript{39}耶穌這話是指着信他的人要受聖靈說的。那時還沒有聖靈賜下來，因為耶穌尚未得着榮耀。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{37}On the last day of the feast, the great day, Jesus stood up and cried out, "If anyone thirsts, let him come to me and drink. \textsuperscript{38}Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.'" \textsuperscript{39}Now this he said about the Spirit, whom those who believed in him were to receive, for as yet the Spirit had not been given, because Jesus was not yet glorified.
+> \textsuperscript{37}On the last day, that great day of the feast, Jesus stood and cried out, saying, \jesus{"If anyone thirsts, let him come to Me and drink. \textsuperscript{38}He who believes in Me, as the Scripture has said, out of his heart will flow rivers of living water."} \textsuperscript{39}But this He spoke concerning the Spirit, whom those believing in Him would receive; for the Holy Spirit was not yet given, because Jesus was not yet glorified.
 
 ---
 
@@ -3506,11 +4544,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{12}耶穌又對眾人說：「我是世界的光。跟從我的，必不在黑暗裏走，卻要得着生命的光。」
+> \textsuperscript{12}耶穌又對眾人說：\jesus{「我是世界的光。跟從我的，必不在黑暗裏走，卻要得着生命的光。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{12}Again Jesus spoke to them, saying, "I am the light of the world. Whoever follows me will not walk in darkness, but will have the light of life."
+> \textsuperscript{12}Then Jesus spoke to them again, saying, \jesus{"I am the light of the world. He who follows Me shall not walk in darkness, but have the light of life."}
 
 ---
 
@@ -3518,11 +4556,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{31}耶穌對信他的猶太人說：「你們若繼續遵守我的道，就真是我的門徒了。\textsuperscript{32}你們將認識真理，真理會使你們自由。」\textsuperscript{33}他們回答他：「我們是亞伯拉罕的後裔，從來沒有作過誰的奴隸，你怎麼說『你們將得自由』呢？」\textsuperscript{34}耶穌回答他們：「我實實在在地告訴你們，所有犯罪的人就是罪的奴隸。\textsuperscript{35}奴隸不能永遠住在家裏；兒子才永遠住在家裏。\textsuperscript{36}所以，神的兒子若使你們自由，你們就真正自由了。」
+> \textsuperscript{31}耶穌對信他的猶太人說：\jesus{「你們若繼續遵守我的道，就真是我的門徒了。\textsuperscript{32}你們將認識真理，真理會使你們自由。」}\textsuperscript{33}他們回答他：「我們是亞伯拉罕的後裔，從來沒有作過誰的奴隸，你怎麼說『你們將得自由』呢？」\textsuperscript{34}耶穌回答他們：\jesus{「我實實在在地告訴你們，所有犯罪的人就是罪的奴隸。\textsuperscript{35}奴隸不能永遠住在家裏；兒子才永遠住在家裏。\textsuperscript{36}所以，神的兒子若使你們自由，你們就真正自由了。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{31}So Jesus said to the Jews who had believed him, "If you abide in my word, you are truly my disciples, \textsuperscript{32}and you will know the truth, and the truth will set you free." \textsuperscript{33}They answered him, "We are offspring of Abraham and have never been enslaved to anyone. How is it that you say, 'You will become free'?" \textsuperscript{34}Jesus answered them, "Truly, truly, I say to you, everyone who practices sin is a slave to sin. \textsuperscript{35}The slave does not remain in the house forever; the son remains forever. \textsuperscript{36}So if the Son sets you free, you will be free indeed."
+> \textsuperscript{31}Then Jesus said to those Jews who believed Him, \jesus{"If you abide in My word, you are My disciples indeed. \textsuperscript{32}And you shall know the truth, and the truth shall make you free."} \textsuperscript{33}They answered Him, "We are Abraham's descendants, and have never been in bondage to anyone. How can You say, 'You will be made free'?" \textsuperscript{34}Jesus answered them, \jesus{"Most assuredly, I say to you, whoever commits sin is a slave of sin. \textsuperscript{35}And a slave does not abide in the house forever, but a son abides forever. \textsuperscript{36}Therefore if the Son makes you free, you shall be free indeed."}
 
 ---
 
@@ -3530,11 +4568,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{56}「你們的祖宗亞伯拉罕歡歡喜喜地盼望看見我的日子；他看見了，就快樂。」\textsuperscript{57}猶太人對他說：「你還沒有五十歲，怎能見過亞伯拉罕呢？」\textsuperscript{58}耶穌對他們說：「我實實在在地告訴你們，還沒有亞伯拉罕就有了我。」\textsuperscript{59}於是他們拿石頭要打他，耶穌卻躲藏起來，從殿裏出去了。
+> \textsuperscript{56}\jesus{「你們的祖宗亞伯拉罕歡歡喜喜地盼望看見我的日子；他看見了，就快樂。」}\textsuperscript{57}猶太人對他說：「你還沒有五十歲，怎能見過亞伯拉罕呢？」\textsuperscript{58}耶穌對他們說：\jesus{「我實實在在地告訴你們，還沒有亞伯拉罕就有了我。」}\textsuperscript{59}於是他們拿石頭要打他，耶穌卻躲藏起來，從殿裏出去了。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{56}"Your father Abraham rejoiced that he would see my day. He saw it and was glad." \textsuperscript{57}So the Jews said to him, "You are not yet fifty years old, and have you seen Abraham?" \textsuperscript{58}Jesus said to them, "Truly, truly, I say to you, before Abraham was, I am." \textsuperscript{59}So they picked up stones to throw at him, but Jesus hid himself and went out of the temple.
+> \textsuperscript{56}\jesus{"Your father Abraham rejoiced to see My day, and he saw it and was glad."} \textsuperscript{57}Then the Jews said to Him, "You are not yet fifty years old, and have You seen Abraham?" \textsuperscript{58}Jesus said to them, \jesus{"Most assuredly, I say to you, before Abraham was, I AM."} \textsuperscript{59}Then they took up stones to throw at Him; but Jesus hid Himself and went out of the temple, going through the midst of them, and so passed by.
 
 ---
 
@@ -3702,6 +4740,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：節期都指向祂。住棚節有倒水禮與燃燈禮，記念曠野的磐石出水與雲柱火柱（出 13、17）。耶穌就在這節期高喊「人若渴了，可以到我這裡來喝」「我是世界的光」，又用神的聖名說「還沒有亞伯拉罕，就有了我」（約 8:58；出 3:14）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「住棚節在倒水、點燈——耶穌偏在這時說『活水』『光』，是巧合嗎？」
+- 再問：「『還沒有亞伯拉罕，就有了我』——祂在宣告自己是誰？」
+- 追問：「猶太人為什麼立刻拿石頭要打祂？（他們聽懂了那是神的名）」
+- 落到自己：「『還沒有亞伯拉罕就有了我』——你聽見的是狂言，還是神的聖名？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天流行說「這是你的真理，那是我的真理」，真理被切成各說各話的碎片。耶穌卻不說「一個光」，祂說「我是世界的光」；不說「一條路」，祂用神的名宣告自己。在人人都有「自己的真理」的時代，你敢不敢承認真理是一位，不是一堆？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求主作你今天的光，照亮你要走的每一步。
+- **晚上**：今天我有沒有把真理變成「合我口味」的版本？
+- **一個行動**：今天在一件事上順服聖經明說的真理，哪怕它不合潮流。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：節期的倒水禮與燃燈禮所預表的，祂一句道破：「我是世界的光」「到我這裡來喝」——「還沒有亞伯拉罕，就有了我」。
+
+**貫通全經**：住棚節記念曠野的雲柱火柱與磐石出水（出13、17）→ 祂就是那光、那活水的磐石。
+
+**無法迴避的問題**：「『還沒有亞伯拉罕就有了我』——你聽見的是狂言，還是神的聖名？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你是世界的光、是活水。在這真理被切碎、人人各執一詞的世代，求你叫我認定真理是一位—就是你；求你照亮我的腳步，叫我渴了就到你這裡來喝。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十五章*
 
 
@@ -3712,23 +4795,31 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 9:1-41
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+醫治生來瞎眼的人，焦點不在「誰犯了罪」的爭辯，而在那位說「我在世上的時候，是世上的光」的主。從祂的角度讀，肉眼的開啟是記號，真正的神蹟是那人從「不知道祂是誰」到俯伏敬拜「主啊，我信」。自以為看得見的法利賽人反成了瞎眼，因為他們不認得站在面前的光。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}耶穌經過的時候，看見一個生來就失明的人。\textsuperscript{2}門徒問耶穌：「拉比，這人生來失明，是誰犯了罪？是這人呢，還是他父母呢？」\textsuperscript{3}耶穌回答：「既不是這人犯了罪，也不是他父母犯了罪，而是要在他身上顯出神的作為來。\textsuperscript{4}趁着白日，我們必須做差我來那位的工作；黑夜來到，就沒有人能做工了。\textsuperscript{5}我在世上的時候，是世上的光。」\textsuperscript{6}耶穌說了這話，就吐唾沫在地上，用唾沫和了泥，抹在失明的人的眼睛上，\textsuperscript{7}對他說：「你去西羅亞池子裏洗。」西羅亞翻出來就是「奉差遣」。於是他去，洗了，回來就看見了。
+> \textsuperscript{1}耶穌經過的時候，看見一個生來就失明的人。\textsuperscript{2}門徒問耶穌：「拉比，這人生來失明，是誰犯了罪？是這人呢，還是他父母呢？」\textsuperscript{3}耶穌回答：\jesus{「既不是這人犯了罪，也不是他父母犯了罪，而是要在他身上顯出神的作為來。\textsuperscript{4}趁着白日，我們必須做差我來那位的工作；黑夜來到，就沒有人能做工了。\textsuperscript{5}我在世上的時候，是世上的光。」}\textsuperscript{6}耶穌說了這話，就吐唾沫在地上，用唾沫和了泥，抹在失明的人的眼睛上，\textsuperscript{7}對他說：\jesus{「你去西羅亞池子裏洗。」}西羅亞翻出來就是「奉差遣」。於是他去，洗了，回來就看見了。
 
 > \textsuperscript{24}法利賽人第二次叫了那從前失明的人來，對他說：「你該把榮耀歸給神。我們知道這人是個罪人。」\textsuperscript{25}他回答：「他是不是罪人，我不知道；有一件事我知道：從前我是失明的，現在我看見了。」
 
-> \textsuperscript{35}耶穌聽說他們把他趕出去，後來遇見他，就問他：「你信神的兒子嗎？」\textsuperscript{36}他回答：「主啊，誰是神的兒子，好讓我信他呢？」\textsuperscript{37}耶穌對他說：「你已經看見他了，現在和你說話的就是他。」\textsuperscript{38}他說：「主啊，我信！」就拜耶穌。\textsuperscript{39}耶穌說：「我為審判到這世上來，使不能看見的可以看見，能看見的反而失明。」\textsuperscript{40}同他在那裏的法利賽人聽見這話，就對他說：「難道我們也是失明的嗎？」\textsuperscript{41}耶穌對他們說：「你們若是失明的，就沒有罪了；但現在你們說『我們能看見』，你們的罪還在。」
+> \textsuperscript{35}耶穌聽說他們把他趕出去，後來遇見他，就問他：\jesus{「你信神的兒子嗎？」}\textsuperscript{36}他回答：「主啊，誰是神的兒子，好讓我信他呢？」\textsuperscript{37}耶穌對他說：\jesus{「你已經看見他了，現在和你說話的就是他。」}\textsuperscript{38}他說：「主啊，我信！」就拜耶穌。\textsuperscript{39}耶穌說：\jesus{「我為審判到這世上來，使不能看見的可以看見，能看見的反而失明。」}\textsuperscript{40}同他在那裏的法利賽人聽見這話，就對他說：「難道我們也是失明的嗎？」\textsuperscript{41}耶穌對他們說：\jesus{「你們若是失明的，就沒有罪了；但現在你們說『我們能看見』，你們的罪還在。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}As he passed by, he saw a man blind from birth. \textsuperscript{2}And his disciples asked him, "Rabbi, who sinned, this man or his parents, that he was born blind?" \textsuperscript{3}Jesus answered, "It was not that this man sinned, or his parents, but that the works of God might be displayed in him. \textsuperscript{4}We must work the works of him who sent me while it is day; night is coming, when no one can work. \textsuperscript{5}As long as I am in the world, I am the light of the world." \textsuperscript{6}Having said these things, he spit on the ground and made mud with the saliva. Then he anointed the man's eyes with the mud \textsuperscript{7}and said to him, "Go, wash in the pool of Siloam" (which means Sent). So he went and washed and came back seeing.
+> \textsuperscript{1}Now as Jesus passed by, He saw a man who was blind from birth. \textsuperscript{2}And His disciples asked Him, saying, "Rabbi, who sinned, this man or his parents, that he was born blind?" \textsuperscript{3}Jesus answered, \jesus{"Neither this man nor his parents sinned, but that the works of God should be revealed in him. \textsuperscript{4}I must work the works of Him who sent Me while it is day; the night is coming when no one can work. \textsuperscript{5}As long as I am in the world, I am the light of the world."} \textsuperscript{6}When He had said these things, He spat on the ground and made clay with the saliva; and He anointed the eyes of the blind man with the clay. \textsuperscript{7}And He said to him, \jesus{"Go, wash in the pool of Siloam"} (which is translated, Sent). So he went and washed, and came back seeing.
 
-> \textsuperscript{24}So for the second time they called the man who had been blind and said to him, "Give glory to God. We know that this man is a sinner." \textsuperscript{25}He answered, "Whether he is a sinner I do not know. One thing I know, that though I was blind, now I see."
+> \textsuperscript{24}So they again called the man who was blind, and said to him, "Give God the glory! We know that this Man is a sinner." \textsuperscript{25}He answered and said, "Whether He is a sinner or not I do not know. One thing I know: that though I was blind, now I see."
 
-> \textsuperscript{35}Jesus heard that they had cast him out, and having found him he said, "Do you believe in the Son of Man?" \textsuperscript{36}He answered, "And who is he, sir, that I may believe in him?" \textsuperscript{37}Jesus said to him, "You have seen him, and it is he who is speaking to you." \textsuperscript{38}He said, "Lord, I believe," and he worshiped him. \textsuperscript{39}Jesus said, "For judgment I came into this world, that those who do not see may see, and those who see may become blind." \textsuperscript{40}Some of the Pharisees near him heard these things, and said to him, "Are we also blind?" \textsuperscript{41}Jesus said to them, "If you were blind, you would have no guilt; but now that you say, 'We see,' your guilt remains."
+> \textsuperscript{35}Jesus heard that they had cast him out; and when He had found him, He said to him, \jesus{"Do you believe in the Son of God?"} \textsuperscript{36}He answered and said, "Who is He, Lord, that I may believe in Him?" \textsuperscript{37}And Jesus said to him, \jesus{"You have both seen Him and it is He who is talking with you."} \textsuperscript{38}Then he said, "Lord, I believe!" And he worshiped Him. \textsuperscript{39}And Jesus said, \jesus{"For judgment I have come into this world, that those who do not see may see, and that those who see may be made blind."} \textsuperscript{40}Then some of the Pharisees who were with Him heard these words, and said to Him, "Are we blind also?" \textsuperscript{41}Jesus said to them, \jesus{"If you were blind, you would have no sin; but now you say, 'We see.' Therefore your sin remains."}
 
 ---
 
@@ -3881,6 +4972,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：兆頭的靈意。「使瞎子看見」是彌賽亞的記號（賽 35:5；42:7）。肉眼的開啟，指向靈眼的開啟——那人從「不知道祂是誰」一路到俯伏敬拜「主啊，我信」。自稱看得見的法利賽人，反成了真瞎子（約 9:41）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「這一章裡，誰真正『瞎』？門徒、父母、法利賽人，還是那瞎子？」
+- 再問：「瞎子得了兩次看見——眼睛，還有什麼？」
+- 追問：「為什麼耶穌說『自稱能看見的，罪還在』？」
+- 落到自己：「你自以為『看得見』嗎？耶穌說，這樣的人，罪還在。」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天資訊唾手可得，我們很容易以為自己「什麼都看得清」。但演算法只餵你愛看的，把你關進越來越窄的同溫層——看得越多，越只看見自己。在一個自以為「全知」的時代，你肯承認自己其實是瞎的，求主開你的眼嗎？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：禱告：「主啊，我是瞎的，求你今天開我的眼，叫我看見你。」
+- **晚上**：今天我有沒有自以為「我看得清」，其實漏看了主的作為？
+- **一個行動**：今天刻意聽一個與你想法不同的人把話說完，操練謙卑。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：那生來瞎眼的得了兩次看見——眼睛，與心；自稱看得見的法利賽人，反倒是真瞎子。
+
+**貫通全經**：「使瞎子看見」是彌賽亞的記號（賽35:5；42:7）——肉眼的開啟，指向靈眼的開啟。
+
+**無法迴避的問題**：「你自以為『看得見』嗎？耶穌說，這樣的人，罪還在。」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，我承認我是瞎的，求你開我的眼。叫我不自以為看得清，乃謙卑領受你的光照；願我從「不認得你」，到俯伏敬拜說：「主啊，我信！」阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十六章*
 
 
@@ -3891,27 +5027,35 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 10:1-42
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+好牧人的講論，主角不是迷失的羊，而是那位「為羊捨命」的牧人。從祂的角度讀，祂既是羊圈的門——進入救恩的唯一入口，也是認得羊、羊也認得祂聲音的牧人。雇工見狼來就逃跑，祂卻甘心捨命，又有權柄取回來；以西結所應許那位大衛子孫的好牧人，如今親自來牧養。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}「我實實在在地告訴你們，不從門進羊圈，倒從別處爬進去的，那人就是賊，就是強盜。\textsuperscript{2}從門進去的才是羊的牧人。\textsuperscript{3}看門的給他開門，羊也聽他的聲音。他按着名字叫自己的羊，把羊領出來。\textsuperscript{4}他把自己的羊帶出來以後，就走在前頭，羊也跟隨他，因為認得他的聲音。\textsuperscript{5}羊不跟隨陌生人，反而逃跑，因為不認得陌生人的聲音。」
+> \textsuperscript{1}\jesus{「我實實在在地告訴你們，不從門進羊圈，倒從別處爬進去的，那人就是賊，就是強盜。\textsuperscript{2}從門進去的才是羊的牧人。\textsuperscript{3}看門的給他開門，羊也聽他的聲音。他按着名字叫自己的羊，把羊領出來。\textsuperscript{4}他把自己的羊帶出來以後，就走在前頭，羊也跟隨他，因為認得他的聲音。\textsuperscript{5}羊不跟隨陌生人，反而逃跑，因為不認得陌生人的聲音。」}
 
-> \textsuperscript{7}耶穌又說：「我實實在在地告訴你們，我就是羊的門。\textsuperscript{8}凡在我以前來的都是賊，都是強盜；羊卻不聽從他們。\textsuperscript{9}我就是門；凡從我進來的，必然得救，並且出入得草吃。\textsuperscript{10}盜賊來，無非要偷竊、殺害、毀壞；我來了，是要羊得生命，並且得的更豐盛。」
+> \textsuperscript{7}耶穌又說：\jesus{「我實實在在地告訴你們，我就是羊的門。\textsuperscript{8}凡在我以前來的都是賊，都是強盜；羊卻不聽從他們。\textsuperscript{9}我就是門；凡從我進來的，必然得救，並且出入得草吃。\textsuperscript{10}盜賊來，無非要偷竊、殺害、毀壞；我來了，是要羊得生命，並且得的更豐盛。」}
 
-> \textsuperscript{11}「我是好牧人，好牧人為羊捨命。\textsuperscript{12}那作雇工的，不是牧人，羊也不是他自己的，他看見狼來，就撇下羊逃走；狼抓住羊，把牠們趕散了。\textsuperscript{13}雇工逃走，因為他是雇工，並不顧念羊。\textsuperscript{14}我是好牧人；我認識我的羊，我的羊也認識我，\textsuperscript{15}正如父認識我，我也認識父一樣；並且我為羊捨命。\textsuperscript{16}我另外有羊，不在這圈裏。我必須領牠們來，牠們也要聽我的聲音，並且要合成一群，歸一個牧人。」
+> \jesus{\textsuperscript{11}「我是好牧人，好牧人為羊捨命。\textsuperscript{12}那作雇工的，不是牧人，羊也不是他自己的，他看見狼來，就撇下羊逃走；狼抓住羊，把牠們趕散了。\textsuperscript{13}雇工逃走，因為他是雇工，並不顧念羊。\textsuperscript{14}我是好牧人；我認識我的羊，我的羊也認識我，\textsuperscript{15}正如父認識我，我也認識父一樣；並且我為羊捨命。\textsuperscript{16}我另外有羊，不在這圈裏。我必須領牠們來，牠們也要聽我的聲音，並且要合成一群，歸一個牧人。」}
 
-> \textsuperscript{27}「我的羊聽我的聲音，我也認識牠們，牠們也跟隨我。\textsuperscript{28}我又賜給牠們永生；牠們永不滅亡，誰也不能從我手裏把牠們奪去。\textsuperscript{29}我父把牠們賜給我，他比萬有都大，誰也不能從我父手裏把牠們奪去。\textsuperscript{30}我與父原為一。」
+> \jesus{\textsuperscript{27}「我的羊聽我的聲音，我也認識牠們，牠們也跟隨我。\textsuperscript{28}我又賜給牠們永生；牠們永不滅亡，誰也不能從我手裏把牠們奪去。\textsuperscript{29}我父把牠們賜給我，他比萬有都大，誰也不能從我父手裏把牠們奪去。\textsuperscript{30}我與父原為一。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}"Truly, truly, I say to you, he who does not enter the sheepfold by the door but climbs in by another way, that man is a thief and a robber. \textsuperscript{2}But he who enters by the door is the shepherd of the sheep. \textsuperscript{3}To him the gatekeeper opens. The sheep hear his voice, and he calls his own sheep by name and leads them out. \textsuperscript{4}When he has brought out all his own, he goes before them, and the sheep follow him, for they know his voice. \textsuperscript{5}A stranger they will not follow, but they will flee from him, for they do not know the voice of strangers."
+> \textsuperscript{1}\jesus{"Most assuredly, I say to you, he who does not enter the sheepfold by the door, but climbs up some other way, the same is a thief and a robber. \textsuperscript{2}But he who enters by the door is the shepherd of the sheep. \textsuperscript{3}To him the doorkeeper opens, and the sheep hear his voice; and he calls his own sheep by name and leads them out. \textsuperscript{4}And when he brings out his own sheep, he goes before them; and the sheep follow him, for they know his voice. \textsuperscript{5}Yet they will by no means follow a stranger, but will flee from him, for they do not know the voice of strangers."}
 
-> \textsuperscript{7}So Jesus again said to them, "Truly, truly, I say to you, I am the door of the sheep. \textsuperscript{8}All who came before me are thieves and robbers, but the sheep did not listen to them. \textsuperscript{9}I am the door. If anyone enters by me, he will be saved and will go in and out and find pasture. \textsuperscript{10}The thief comes only to steal and kill and destroy. I came that they may have life and have it abundantly."
+> \textsuperscript{7}Then Jesus said to them again, \jesus{"Most assuredly, I say to you, I am the door of the sheep. \textsuperscript{8}All who ever came before Me are thieves and robbers, but the sheep did not hear them. \textsuperscript{9}I am the door. If anyone enters by Me, he will be saved, and will go in and out and find pasture. \textsuperscript{10}The thief does not come except to steal, and to kill, and to destroy. I have come that they may have life, and that they may have it more abundantly."}
 
-> \textsuperscript{11}"I am the good shepherd. The good shepherd lays down his life for the sheep. \textsuperscript{12}He who is a hired hand and not a shepherd, who does not own the sheep, sees the wolf coming and leaves the sheep and flees, and the wolf snatches them and scatters them. \textsuperscript{13}He flees because he is a hired hand and cares nothing for the sheep. \textsuperscript{14}I am the good shepherd. I know my own and my own know me, \textsuperscript{15}just as the Father knows me and I know the Father; and I lay down my life for the sheep. \textsuperscript{16}And I have other sheep that are not of this fold. I must bring them also, and they will listen to my voice. So there will be one flock, one shepherd."
+> \jesus{\textsuperscript{11}"I am the good shepherd. The good shepherd gives His life for the sheep. \textsuperscript{12}But a hireling, he who is not the shepherd, one who does not own the sheep, sees the wolf coming and leaves the sheep and flees; and the wolf catches the sheep and scatters them. \textsuperscript{13}The hireling flees because he is a hireling and does not care about the sheep. \textsuperscript{14}I am the good shepherd; and I know My sheep, and am known by My own. \textsuperscript{15}As the Father knows Me, even so I know the Father; and I lay down My life for the sheep. \textsuperscript{16}And other sheep I have which are not of this fold; them also I must bring, and they will hear My voice; and there will be one flock and one shepherd."}
 
-> \textsuperscript{27}"My sheep hear my voice, and I know them, and they follow me. \textsuperscript{28}I give them eternal life, and they will never perish, and no one will snatch them out of my hand. \textsuperscript{29}My Father, who has given them to me, is greater than all, and no one is able to snatch them out of the Father's hand. \textsuperscript{30}I and the Father are one."
+> \jesus{\textsuperscript{27}"My sheep hear My voice, and I know them, and they follow Me. \textsuperscript{28}And I give them eternal life, and they shall never perish; neither shall anyone snatch them out of My hand. \textsuperscript{29}My Father, who has given them to Me, is greater than all; and no one is able to snatch them out of My Father's hand. \textsuperscript{30}I and My Father are one."}
 
 ---
 
@@ -4071,6 +5215,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：預言中的好牧人。以西結 34 章責備假牧人、應許神親自牧養、又立大衛的後裔作一個牧人；詩 23「耶和華是我的牧者」。如今這位說「我是好牧人，為羊捨命」的，正是那位應許要來的牧人。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「好牧人和雇工，遇見狼來時有什麼不同？」
+- 再問：「『羊也認得祂的聲音』——羊怎麼分得出主人的聲音？（天天聽慣了）」
+- 追問：「祂既是『門』又是『牧人』，這兩個身份各說明什麼？」
+- 落到自己：「你跟隨的是見狼就逃的雇工，還是肯為你捨命的牧人？你認得祂的聲音嗎？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天太多聲音爭著要牧養你——演算法、網紅、各種「導師」，他們大多是雇工：狼一來，或無利可圖，就走了。羊認得牧人的聲音，是因為天天聽慣了。在眾聲喧嘩裡，你還分得出主的聲音嗎？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求主今天讓你在眾多聲音中，認得祂的聲音、跟祂走。
+- **晚上**：今天我聽最多的是誰的聲音？牧人的聲音佔多少？
+- **一個行動**：今天定一段安靜，只讀經、只聽主，把雜音關掉。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂既是羊圈唯一的門，又是為羊捨命的牧人——進來得救，是藉著祂；得生命，是因祂捨命。
+
+**貫通全經**：以西結34章責備假牧人、應許神親自牧養、立大衛的後裔作牧人——這位好牧人如今來了。
+
+**無法迴避的問題**：「你跟隨的是見狼就逃的雇工，還是那位認得你、肯為你捨命的牧人？你認得祂的聲音嗎？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你是為羊捨命的好牧人。在眾聲喧嘩裡，求你叫我分辨得出你的聲音，跟隨你、不跟雇工。謝謝你認得我、為我捨命；我願一生作你手中的羊。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十七章*
 
 
@@ -4081,27 +5270,35 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 11:1-57
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+拉撒路從墳墓裏出來，焦點不在死了四天的拉撒路，而在那位宣告「復活在我，生命也在我」的主。從祂的角度讀，馬大盼望末日的復活，耶穌卻把盼望聚焦於祂自己的位格——信祂的人雖然死了，也必復活。這最大的記號預示祂自己的復活，也成了祂被釘的導火線：賜生命的，將為眾人捨命。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}有一個患病的人，名叫拉撒路，住在伯大尼，就是馬利亞和她姐姐馬大的村莊。\textsuperscript{2}這馬利亞就是那用香膏抹主，又用頭髮擦他腳的那人；患病的拉撒路是她的弟弟。\textsuperscript{3}她姐妹倆打發人去見耶穌，說：「主啊，你所愛的人病了。」\textsuperscript{4}耶穌聽見就說：「這病不至於死，而是為了神的榮耀，好讓神的兒子因此得榮耀。」
+> \textsuperscript{1}有一個患病的人，名叫拉撒路，住在伯大尼，就是馬利亞和她姐姐馬大的村莊。\textsuperscript{2}這馬利亞就是那用香膏抹主，又用頭髮擦他腳的那人；患病的拉撒路是她的弟弟。\textsuperscript{3}她姐妹倆打發人去見耶穌，說：「主啊，你所愛的人病了。」\textsuperscript{4}耶穌聽見就說：\jesus{「這病不至於死，而是為了神的榮耀，好讓神的兒子因此得榮耀。」}
 
-> \textsuperscript{17}耶穌到了，發現拉撒路在墳墓裏已經四天了。\textsuperscript{21}馬大對耶穌說：「主啊，你若早在這裏，我弟弟就不會死了。\textsuperscript{22}但是，即使是現在，我也知道，你無論向神求甚麼，神都會賜給你。」\textsuperscript{23}耶穌對她說：「你弟弟會復活的。」\textsuperscript{24}馬大對他說：「我知道在末日復活的時候，他會復活。」\textsuperscript{25}耶穌對她說：「復活在我，生命也在我。信我的人，雖然死了，也必復活。\textsuperscript{26}凡活着信我的人必永遠不死。你信這話嗎？」\textsuperscript{27}馬大對他說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
+> \textsuperscript{17}耶穌到了，發現拉撒路在墳墓裏已經四天了。\textsuperscript{21}馬大對耶穌說：「主啊，你若早在這裏，我弟弟就不會死了。\textsuperscript{22}但是，即使是現在，我也知道，你無論向神求甚麼，神都會賜給你。」\textsuperscript{23}耶穌對她說：\jesus{「你弟弟會復活的。」}\textsuperscript{24}馬大對他說：「我知道在末日復活的時候，他會復活。」\textsuperscript{25}耶穌對她說：\jesus{「復活在我，生命也在我。信我的人，雖然死了，也必復活。\textsuperscript{26}凡活着信我的人必永遠不死。你信這話嗎？」}\textsuperscript{27}馬大對他說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
 
-> \textsuperscript{33}耶穌看見她哭，並看見與她同來的猶太人也在哭，就心裏悲嘆，又甚憂愁，\textsuperscript{34}便說：「你們把他安放在哪裏？」他們說：「請主來看。」\textsuperscript{35}耶穌哭了。
+> \textsuperscript{33}耶穌看見她哭，並看見與她同來的猶太人也在哭，就心裏悲嘆，又甚憂愁，\textsuperscript{34}便說：\jesus{「你們把他安放在哪裏？」}他們說：「請主來看。」\textsuperscript{35}耶穌哭了。
 
-> \textsuperscript{38}耶穌又心裏悲嘆，來到墳墓前；那墳墓是個洞，有一塊石頭擋着。\textsuperscript{39}耶穌說：「把石頭挪開！」那死人的姐姐馬大對他說：「主啊，他現在必定臭了，因為他死了已經四天了。」\textsuperscript{40}耶穌對她說：「我不是對你說過嗎？你若信，就必看見神的榮耀。」\textsuperscript{41}他們就把石頭挪開。耶穌舉目望天，說：「父啊，我感謝你，因為你已經聽我。\textsuperscript{42}我知道你常常聽我，但我說這話是為周圍站着的眾人，要使他們信是你差了我來。」\textsuperscript{43}說了這些話，他大聲呼叫：「拉撒路，出來！」\textsuperscript{44}那死人就出來了，手腳裹着布，臉上包着手巾。耶穌對他們說：「解開他，讓他走！」
+> \textsuperscript{38}耶穌又心裏悲嘆，來到墳墓前；那墳墓是個洞，有一塊石頭擋着。\textsuperscript{39}耶穌說：\jesus{「把石頭挪開！」}那死人的姐姐馬大對他說：「主啊，他現在必定臭了，因為他死了已經四天了。」\textsuperscript{40}耶穌對她說：\jesus{「我不是對你說過嗎？你若信，就必看見神的榮耀。」}\textsuperscript{41}他們就把石頭挪開。耶穌舉目望天，說：\jesus{「父啊，我感謝你，因為你已經聽我。\textsuperscript{42}我知道你常常聽我，但我說這話是為周圍站着的眾人，要使他們信是你差了我來。」}\textsuperscript{43}說了這些話，他大聲呼叫：\jesus{「拉撒路，出來！」}\textsuperscript{44}那死人就出來了，手腳裹着布，臉上包着手巾。耶穌對他們說：\jesus{「解開他，讓他走！」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}Now a certain man was ill, Lazarus of Bethany, the village of Mary and her sister Martha. \textsuperscript{2}It was Mary who anointed the Lord with ointment and wiped his feet with her hair, whose brother Lazarus was ill. \textsuperscript{3}So the sisters sent to him, saying, "Lord, he whom you love is ill." \textsuperscript{4}But when Jesus heard it he said, "This illness does not lead to death. It is for the glory of God, so that the Son of God may be glorified through it."
+> \textsuperscript{1}Now a certain man was sick, Lazarus of Bethany, the town of Mary and her sister Martha. \textsuperscript{2}It was that Mary who anointed the Lord with fragrant oil and wiped His feet with her hair, whose brother Lazarus was sick. \textsuperscript{3}Therefore the sisters sent to Him, saying, "Lord, behold, he whom You love is sick." \textsuperscript{4}When Jesus heard that, He said, \jesus{"This sickness is not unto death, but for the glory of God, that the Son of God may be glorified through it."}
 
-> \textsuperscript{17}Now when Jesus came, he found that Lazarus had already been in the tomb four days. \textsuperscript{21}Martha said to Jesus, "Lord, if you had been here, my brother would not have died. \textsuperscript{22}But even now I know that whatever you ask from God, God will give you." \textsuperscript{23}Jesus said to her, "Your brother will rise again." \textsuperscript{24}Martha said to him, "I know that he will rise again in the resurrection on the last day." \textsuperscript{25}Jesus said to her, "I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, \textsuperscript{26}and everyone who lives and believes in me shall never die. Do you believe this?" \textsuperscript{27}She said to him, "Yes, Lord; I believe that you are the Christ, the Son of God, who is coming into the world."
+> \textsuperscript{17}So when Jesus came, He found that he had already been in the tomb four days. \textsuperscript{21}Now Martha said to Jesus, "Lord, if You had been here, my brother would not have died. \textsuperscript{22}But even now I know that whatever You ask of God, God will give You." \textsuperscript{23}Jesus said to her, \jesus{"Your brother will rise again."} \textsuperscript{24}Martha said to Him, "I know that he will rise again in the resurrection at the last day." \textsuperscript{25}Jesus said to her, \jesus{"I am the resurrection and the life. He who believes in Me, though he may die, he shall live. \textsuperscript{26}And whoever lives and believes in Me shall never die. Do you believe this?"} \textsuperscript{27}She said to Him, "Yes, Lord, I believe that You are the Christ, the Son of God, who is to come into the world."
 
-> \textsuperscript{33}When Jesus saw her weeping, and the Jews who had come with her also weeping, he was deeply moved in his spirit and greatly troubled. \textsuperscript{34}And he said, "Where have you laid him?" They said to him, "Lord, come and see." \textsuperscript{35}Jesus wept.
+> \textsuperscript{33}Therefore, when Jesus saw her weeping, and the Jews who came with her weeping, He groaned in the spirit and was troubled. \textsuperscript{34}And He said, \jesus{"Where have you laid him?"} They said to Him, "Lord, come and see." \textsuperscript{35}Jesus wept.
 
-> \textsuperscript{38}Then Jesus, deeply moved again, came to the tomb. It was a cave, and a stone lay against it. \textsuperscript{39}Jesus said, "Take away the stone." Martha, the sister of the dead man, said to him, "Lord, by this time there will be an odor, for he has been dead four days." \textsuperscript{40}Jesus said to her, "Did I not tell you that if you believed you would see the glory of God?" \textsuperscript{41}So they took away the stone. And Jesus lifted up his eyes and said, "Father, I thank you that you have heard me. \textsuperscript{42}I knew that you always hear me, but I said this on account of the people standing around, that they may believe that you sent me." \textsuperscript{43}When he had said these things, he cried out with a loud voice, "Lazarus, come out." \textsuperscript{44}The man who had died came out, his hands and feet bound with linen strips, and his face wrapped with a cloth. Jesus said to them, "Unbind him, and let him go."
+> \textsuperscript{38}Then Jesus, again groaning in Himself, came to the tomb. It was a cave, and a stone lay against it. \textsuperscript{39}Jesus said, \jesus{"Take away the stone."} Martha, the sister of him who was dead, said to Him, "Lord, by this time there is a stench, for he has been dead four days." \textsuperscript{40}Jesus said to her, \jesus{"Did I not say to you that if you would believe you would see the glory of God?"} \textsuperscript{41}Then they took away the stone from the place where the dead man was lying. And Jesus lifted up His eyes and said, \jesus{"Father, I thank You that You have heard Me. \textsuperscript{42}And I know that You always hear Me, but because of the people who are standing by I said this, that they may believe that You sent Me."} \textsuperscript{43}Now when He had said these things, He cried with a loud voice, \jesus{"Lazarus, come forth!"} \textsuperscript{44}And he who had died came out bound hand and foot with graveclothes, and his face was wrapped with a cloth. Jesus said to them, \jesus{"Loose him, and let him go."}
 
 ---
 
@@ -4261,6 +5458,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：第五個「我是」。「復活在我，生命也在我」（約 11:25）。這第七個、也是最大的兆頭，預示祂自己的復活（正如保羅後來的宣告：「死啊，你得勝的權勢在哪裡？」林前 15:55）；卻也成了宗教領袖定意殺祂的導火線——賜生命的，將為人捨命。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「馬大說『末日復活的時候，他必復活』——她的盼望放在哪裡？」
+- 再問：「耶穌怎麼回答？祂把盼望從『一件事』轉到哪裡？」
+- 追問：「祂明知去救拉撒路會招來殺身之禍，為什麼還去？」
+- 落到自己：「你的盼望，釘在『將來會復活』這件事上，還是釘在這位『我就是復活』的主身上？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天人把勝過死亡的盼望，押在醫療、科技、甚至「數位永生」的構想上——盼望被釘在「某件事終會解決死亡」上。但耶穌沒說「我會給你一個方法」，祂說「復活在我」。你的盼望，是一個將來的方案，還是一位現在就站在你面前的主？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把你最怕的「死亡」（親人、夢想、可能性的死）交給這位復活的主。
+- **晚上**：今天我面對「沒指望」的事時，盼望放在方法上，還是放在主身上？
+- **一個行動**：今天去安慰一個正在「墳墓邊」哀傷的人，把復活的盼望帶給他。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂沒有先說「我會叫他復活」，祂說「復活在我，生命也在我」——盼望不是一件事，是一位主。
+
+**貫通全經**：這第七個、也是最大的「兆頭」預示祂自己的復活；卻也成了宗教領袖定意殺祂的導火線——賜生命的，將為人捨命。
+
+**無法迴避的問題**：「你的盼望，釘在『將來會復活』這件事上，還是釘在這位『我就是復活』的主身上？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你說「復活在我，生命也在我」。當我站在絕望的墳墓邊，求你叫我的盼望不是釘在某個方法上，乃是釘在你這位主身上；你既是復活，死亡就不是終局。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十八章*
 
 
@@ -4271,15 +5513,23 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 13:1-52; 路加福音 15:1-32
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+天國的比喻，主角不是撒出的種子或失而復得的羊，而是那位撒種、尋找、歡喜接納的主。從祂的角度讀，撒種的是祂，天國的奧秘藉祂顯明；浪子的父親、尋羊的牧人、找錢的婦人，畫的正是祂尋找拯救失喪者的心腸。比喻向自高的人隱藏，卻向虛心的人開啟天國——因為天國就在祂身上臨到。
+
+---
+
 ## 經文 (Scripture)
 
 ### 撒種的比喻 (馬太福音 13:3-9, 18-23)
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{3}耶穌用比喻對他們講許多事，說：「看哪，有一個撒種的出去撒種。\textsuperscript{4}撒的時候，有的落在路旁，飛鳥來吃掉了。\textsuperscript{5}有的落在土淺的石地上，因為土不深，很快就長起來；\textsuperscript{6}太陽出來一曬，就枯乾了，因為沒有根。\textsuperscript{7}有的落在荊棘裏，荊棘長起來，把它擠住了。\textsuperscript{8}又有的落在好土裏，就結果實，有一百倍的，有六十倍的，有三十倍的。\textsuperscript{9}有耳的，就應當聽！」
+> \textsuperscript{3}耶穌用比喻對他們講許多事，說：\jesus{「看哪，有一個撒種的出去撒種。\textsuperscript{4}撒的時候，有的落在路旁，飛鳥來吃掉了。\textsuperscript{5}有的落在土淺的石地上，因為土不深，很快就長起來；\textsuperscript{6}太陽出來一曬，就枯乾了，因為沒有根。\textsuperscript{7}有的落在荊棘裏，荊棘長起來，把它擠住了。\textsuperscript{8}又有的落在好土裏，就結果實，有一百倍的，有六十倍的，有三十倍的。\textsuperscript{9}有耳的，就應當聽！」}
 
-> \textsuperscript{18}「所以，你們要聽這撒種的比喻。\textsuperscript{19}凡聽見天國的道理不明白的，那惡者就來，把撒在他心裏的奪了去，這就是撒在路旁的。\textsuperscript{20}撒在土淺石地上的，就是人聽了道，立刻歡喜領受，\textsuperscript{21}只是心裏沒有根，不過是暫時的，一旦為道遭受患難或迫害，立刻就跌倒了。\textsuperscript{22}撒在荊棘裏的，就是人聽了道，後來有世上的憂慮和財富的迷惑把道擠住了，結不出果實。\textsuperscript{23}撒在好土裏的，就是人聽了道明白了，結出果實來，有一百倍的，有六十倍的，有三十倍的。」
+> \jesus{\textsuperscript{18}「所以，你們要聽這撒種的比喻。\textsuperscript{19}凡聽見天國的道理不明白的，那惡者就來，把撒在他心裏的奪了去，這就是撒在路旁的。\textsuperscript{20}撒在土淺石地上的，就是人聽了道，立刻歡喜領受，\textsuperscript{21}只是心裏沒有根，不過是暫時的，一旦為道遭受患難或迫害，立刻就跌倒了。\textsuperscript{22}撒在荊棘裏的，就是人聽了道，後來有世上的憂慮和財富的迷惑把道擠住了，結不出果實。\textsuperscript{23}撒在好土裏的，就是人聽了道明白了，結出果實來，有一百倍的，有六十倍的，有三十倍的。」}
 
 ---
 
@@ -4287,15 +5537,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{11}耶穌又說：「一個人有兩個兒子。\textsuperscript{12}小兒子對父親說：『父親，請你把我應得的家產給我。』他父親就把財產分給他們。\textsuperscript{13}過了不多幾天，小兒子把他一切所有的都收拾起來，往遠方去了。在那裏他任意放蕩，浪費資財。\textsuperscript{14}他耗盡了一切所有的，又遇上那地方有大飢荒，就窮困起來。\textsuperscript{15}於是他去投靠那地方的一個居民；那人打發他到田裏去放豬。\textsuperscript{16}他恨不得拿豬所吃的豆莢來充飢，也沒有人給他甚麼。
+> \textsuperscript{11}耶穌又說：\jesus{「一個人有兩個兒子。\textsuperscript{12}小兒子對父親說：『父親，請你把我應得的家產給我。』他父親就把財產分給他們。\textsuperscript{13}過了不多幾天，小兒子把他一切所有的都收拾起來，往遠方去了。在那裏他任意放蕩，浪費資財。\textsuperscript{14}他耗盡了一切所有的，又遇上那地方有大飢荒，就窮困起來。\textsuperscript{15}於是他去投靠那地方的一個居民；那人打發他到田裏去放豬。\textsuperscript{16}他恨不得拿豬所吃的豆莢來充飢，也沒有人給他甚麼。
 
-> \textsuperscript{17}他醒悟過來，就說：『我父親有多少僱工，糧食有餘，我倒在這裏餓死嗎？\textsuperscript{18}我要起來，到我父親那裏去，對他說：父親！我得罪了天，也得罪了你。\textsuperscript{19}從今以後，我不配稱為你的兒子，把我當作一個僱工吧！』\textsuperscript{20}於是他起來，往他父親那裏去。相離還遠，他父親看見，就動了慈心，跑去擁抱他，連連親他。\textsuperscript{21}兒子對他說：『父親！我得罪了天，也得罪了你。從今以後，我不配稱為你的兒子。』\textsuperscript{22}父親卻吩咐僕人：『快把那上好的袍子拿出來給他穿，把戒指戴在他手上，把鞋穿在他腳上，\textsuperscript{23}把那肥牛犢牽來宰了，我們來吃喝慶祝；\textsuperscript{24}因為我這個兒子是死而復活，失而復得的。』他們就慶祝起來。」
+> \textsuperscript{17}他醒悟過來，就說：『我父親有多少僱工，糧食有餘，我倒在這裏餓死嗎？\textsuperscript{18}我要起來，到我父親那裏去，對他說：父親！我得罪了天，也得罪了你。\textsuperscript{19}從今以後，我不配稱為你的兒子，把我當作一個僱工吧！』\textsuperscript{20}於是他起來，往他父親那裏去。相離還遠，他父親看見，就動了慈心，跑去擁抱他，連連親他。\textsuperscript{21}兒子對他說：『父親！我得罪了天，也得罪了你。從今以後，我不配稱為你的兒子。』\textsuperscript{22}父親卻吩咐僕人：『快把那上好的袍子拿出來給他穿，把戒指戴在他手上，把鞋穿在他腳上，\textsuperscript{23}把那肥牛犢牽來宰了，我們來吃喝慶祝；\textsuperscript{24}因為我這個兒子是死而復活，失而復得的。』他們就慶祝起來。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{11}And he said, "There was a man who had two sons. \textsuperscript{12}And the younger of them said to his father, 'Father, give me the share of property that is coming to me.' And he divided his property between them. \textsuperscript{13}Not many days later, the younger son gathered all he had and took a journey into a far country, and there he squandered his property in reckless living. \textsuperscript{14}And when he had spent everything, a severe famine arose in that country, and he began to be in need. \textsuperscript{15}So he went and hired himself out to one of the citizens of that country, who sent him into his fields to feed pigs. \textsuperscript{16}And he was longing to be fed with the pods that the pigs ate, and no one gave him anything.
+> \textsuperscript{11}Then He said: \jesus{"A certain man had two sons. \textsuperscript{12}And the younger of them said to his father, 'Father, give me the portion of goods that falls to me.' So he divided to them his livelihood. \textsuperscript{13}And not many days after, the younger son gathered all together, journeyed to a far country, and there wasted his possessions with prodigal living. \textsuperscript{14}But when he had spent all, there arose a severe famine in that land, and he began to be in want. \textsuperscript{15}Then he went and joined himself to a citizen of that country, and he sent him into his fields to feed swine. \textsuperscript{16}And he would gladly have filled his stomach with the pods that the swine ate, and no one gave him anything.
 
-> \textsuperscript{17}"But when he came to himself, he said, 'How many of my father's hired servants have more than enough bread, but I perish here with hunger! \textsuperscript{18}I will arise and go to my father, and I will say to him, "Father, I have sinned against heaven and before you. \textsuperscript{19}I am no longer worthy to be called your son. Treat me as one of your hired servants."' \textsuperscript{20}And he arose and came to his father. But while he was still a long way off, his father saw him and felt compassion, and ran and embraced him and kissed him. \textsuperscript{21}And the son said to him, 'Father, I have sinned against heaven and before you. I am no longer worthy to be called your son.' \textsuperscript{22}But the father said to his servants, 'Bring quickly the best robe, and put it on him, and put a ring on his hand, and shoes on his feet. \textsuperscript{23}And bring the fattened calf and kill it, and let us eat and celebrate. \textsuperscript{24}For this my son was dead, and is alive again; he was lost, and is found.' And they began to celebrate."
+> \textsuperscript{17}But when he came to himself, he said, 'How many of my father's hired servants have bread enough and to spare, and I perish with hunger! \textsuperscript{18}I will arise and go to my father, and will say to him, "Father, I have sinned against heaven and before you, \textsuperscript{19}and I am no longer worthy to be called your son. Make me like one of your hired servants."' \textsuperscript{20}And he arose and came to his father. But when he was still a great way off, his father saw him and had compassion, and ran and fell on his neck and kissed him. \textsuperscript{21}And the son said to him, 'Father, I have sinned against heaven and in your sight, and am no longer worthy to be called your son.' \textsuperscript{22}But the father said to his servants, 'Bring out the best robe and put it on him, and put a ring on his hand and sandals on his feet. \textsuperscript{23}And bring the fatted calf here and kill it, and let us eat and be merry; \textsuperscript{24}for this my son was dead and is alive again; he was lost and is found.' And they began to be merry."}
 
 ---
 
@@ -4426,6 +5676,109 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 重要事件深度啟示：天國比喻的鑰匙 (Key Event Deep Revelation: Keys to the Parables)
+
+### 為什麼用比喻？
+
+> 「他們**看也看不見**，**聽也聽不見**，也不明白」(太 13:13)
+
+比喻是**雙重的**：
+- 對渴慕者是**啟示**（門徒問了，主就解釋）
+- 對抗拒者是**遮蓋**（外人不問，就無從明白）
+
+**比喻不是教學工具，是篩選器**——分開**真求知者**與**好奇看熱鬧的人**。
+
+---
+
+### 七個天國比喻的整體結構（太 13）
+
+| # | 比喻 | 教導 | 重點 |
+|---|---|---|---|
+| 1 | 撒種 | 神的話遇上四種土壤 | 入門 |
+| 2 | 稗子 | 仇敵在好麥子中撒稗子 | 屬靈爭戰 |
+| 3 | 芥菜種 | 天國從極小變大 | 成長 |
+| 4 | 麵酵 | 天國默默滲透 | 滲透 |
+| 5 | 藏寶 | 變賣一切去買 | 個人回應 |
+| 6 | 重價的珠子 | 變賣一切去買 | 個人回應 |
+| 7 | 撒網 | 末日的審判 | 結局 |
+
+七喻的對稱：
+- **1 (撒種) + 7 (撒網)** = 開始與結局
+- **2 + 3 + 4** = 天國在歷史中的成長與爭戰
+- **5 + 6** = 個人對天國的回應
+
+---
+
+### 撒種的比喻：神話語的旅程
+
+| 土壤 | 什麼擋住 | 結局 |
+|---|---|---|
+| 路旁 | **撒但**奪走 | 道未進心 |
+| 石頭地 | **逼迫**枯乾 | 沒有根 |
+| 荊棘 | **世界**擠住 | 三件事擠走道：思慮、錢財、宴樂 |
+| 好土 | 結果子 | 30、60、100 倍 |
+
+**問題從來不是種子**——種子（神的話）是好的、有能力的。
+**問題在土壤**——人心的狀態。
+**真信徒的記號**不是「沒有荊棘」，是「**結果子**」。
+
+---
+
+### 三個失而復得（路 15）：神的心
+
+| # | 失 | 比例 | 程度 |
+|---|---|---|---|
+| 1 | 100 隻羊失 1 | 1% | 物 |
+| 2 | 10 個錢失 1 | 10% | 寶 |
+| 3 | 2 個兒子失 1 | 50% | 命 |
+
+每一個比例都比上一個更**個人化**——**人比羊比錢更貴重**。
+共同點：**失主主動尋找**——這是恩典的本質。
+
+### 浪子的比喻：兩個浪子
+
+| 小兒子 | 大兒子 |
+|---|---|
+| **走遠**了 | **在家**沒走 |
+| 罪是**離家** | 罪是**冷漠** |
+| 終於**回家** | 終於**生氣** |
+| 父親**跑去抱** | 父親**出去勸** |
+| 對應**稅吏與罪人** | 對應**法利賽人** |
+
+**核心**：父親愛**兩個**兒子。**對兩個都呼喚**。
+浪子不是這比喻的核心；**父親的心**才是。
+
+---
+
+### 比喻的全圖
+
+天國的成長悖論：
+- 像**芥菜種**——從極小開始
+- 像**麵酵**——默默滲透
+- 像**田中寶藏**——值得變賣一切
+
+天國的爭戰：
+- 麥子和**稗子**並存——直到收割才分開
+- 撒但**並沒有放棄**這場爭戰
+
+天國的選擇：
+- **窄門小路** vs 寬門大路
+- **好樹** vs 壞樹
+- **磐石根基** vs 沙土根基
+- 結局見真章
+
+---
+
+### 給你的問題
+
+1. 你是哪種土壤？路旁、石頭地、荊棘、好土？
+2. 神的話你**結果子**了嗎？什麼樣的果子？
+3. 你是浪子的「**小兒子**」（曾遠離後悔改）還是「**大兒子**」（從未走，但心冷漠）？
+4. 「**藏寶**」「**珠子**」—— 你**變賣**了什麼去得天國？
+5. 「**父親跑去抱**」—— 你想象中的神，是這樣的父嗎？
+
+---
+
 ## 配詩 (Hymns & Psalms)
 
 **聖詩**：*Softly and Tenderly* (柔聲催促)
@@ -4447,6 +5800,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：比喻畫出神的心腸。「我必親自尋找我的羊」（結 34:11）在尋羊的比喻裡成形；浪子的父親天天望路，正是何 11:8「我怎能捨棄你」的父心。比喻向自高的隱藏、向虛心的開啟（賽 6:9-10；太 13:13-15）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「尋羊、找錢、等浪子——三個比喻共同的動作是什麼？（尋找、歡喜）」
+- 再問：「失而復得時，天上的反應是什麼？」
+- 追問：「大兒子站在門外不肯進去——他失落了沒有？」
+- 落到自己：「你是那個被父親跑著迎接的浪子，還是站在門外、不肯進去的大兒子？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的世界擅長「分類、評分、取消」——把人歸檔、按表現定價、犯錯就抹除。神的國卻反過來：祂撇下九十九隻去尋那一隻，為一個回頭的浪子擺筵席。在一個動輒「取消」人的時代，你的心腸像那尋找的父親，還是像那定罪的大兒子？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：謝謝主像尋羊的牧人一樣，曾尋回了你。
+- **晚上**：今天我對失敗的人、得罪我的人，是「尋回」還是「取消」？
+- **一個行動**：今天主動向一個你心裡「定了罪」的人釋出善意。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：撒種的、尋羊的、等浪子的——比喻畫的不是道理，是那位尋找拯救失喪者的主自己的心腸。
+
+**貫通全經**：「我必親自尋找我的羊」（結34:11）→ 路15的牧人；天國的奧秘向虛心的開、向自高的藏。
+
+**無法迴避的問題**：「你是那個失而復得、被父親跑著迎接的浪子，還是站在門外、不肯進去的大兒子？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你是那撇下九十九隻來尋我的牧人，是那跑著迎接浪子的父親，謝謝你尋回了我。求你把你尋找失喪者的心腸放在我裡面，叫我不定罪人，乃為失而復得歡喜。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第十九章*
 
 
@@ -4457,23 +5855,31 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 19:16-30; 馬可福音 10:17-31; 路加福音 18:18-30
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+財主的故事，焦點不在他「從小都遵守了」的義，而在那位對他說「來跟從我」的主。從祂的角度讀，「除了神一位之外，再沒有良善的」這句話，正是要他認出站在面前的是誰；他所缺的不是一件善行，而是以基督取代財寶的心。駱駝穿針眼是不可能的，但「在神凡事都能」——救恩始終是主自己的工作。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{16}有一個人來見耶穌，說：「老師，我該做甚麼善事才能得永生？」\textsuperscript{17}耶穌對他說：「你為甚麼以善事問我呢？只有一位是善的。你若要進入永生，就當遵守誡命。」\textsuperscript{18}他說：「哪些誡命？」耶穌說：「就是不可殺人；不可姦淫；不可偷盜；不可作假見證；\textsuperscript{19}當孝敬父母；又當愛鄰如己。」\textsuperscript{20}那年輕人對他說：「這一切我都遵守了，還缺少甚麼呢？」\textsuperscript{21}耶穌對他說：「你若願意作完全人，去變賣你所擁有的，分給窮人，就必有財寶在天上；然後來跟從我。」\textsuperscript{22}那年輕人聽見這話，就憂憂愁愁地走了，因為他的財產很多。
+> \textsuperscript{16}有一個人來見耶穌，說：「老師，我該做甚麼善事才能得永生？」\textsuperscript{17}耶穌對他說：\jesus{「你為甚麼以善事問我呢？只有一位是善的。你若要進入永生，就當遵守誡命。」}\textsuperscript{18}他說：「哪些誡命？」耶穌說：\jesus{「就是不可殺人；不可姦淫；不可偷盜；不可作假見證；\textsuperscript{19}當孝敬父母；又當愛鄰如己。」}\textsuperscript{20}那年輕人對他說：「這一切我都遵守了，還缺少甚麼呢？」\textsuperscript{21}耶穌對他說：\jesus{「你若願意作完全人，去變賣你所擁有的，分給窮人，就必有財寶在天上；然後來跟從我。」}\textsuperscript{22}那年輕人聽見這話，就憂憂愁愁地走了，因為他的財產很多。
 
-> \textsuperscript{23}耶穌對門徒說：「我實在告訴你們，財主進天國是難的。\textsuperscript{24}我再告訴你們，駱駝穿過針眼比財主進神的國還容易呢！」\textsuperscript{25}門徒聽見這話就非常驚訝，說：「這樣誰能得救呢？」\textsuperscript{26}耶穌看着他們，說：「在人這是不能的，在神凡事都能。」
+> \textsuperscript{23}耶穌對門徒說：\jesus{「我實在告訴你們，財主進天國是難的。\textsuperscript{24}我再告訴你們，駱駝穿過針眼比財主進神的國還容易呢！」}\textsuperscript{25}門徒聽見這話就非常驚訝，說：「這樣誰能得救呢？」\textsuperscript{26}耶穌看着他們，說：\jesus{「在人這是不能的，在神凡事都能。」}
 
 #### 馬可福音 10:21 補充
 
 > 「耶穌看着他，就愛他，對他說...」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{16}And behold, a man came up to him, saying, "Teacher, what good deed must I do to have eternal life?" \textsuperscript{17}And he said to him, "Why do you ask me about what is good? There is only one who is good. If you would enter life, keep the commandments." \textsuperscript{18}He said to him, "Which ones?" And Jesus said, "You shall not murder, You shall not commit adultery, You shall not steal, You shall not bear false witness, \textsuperscript{19}Honor your father and mother, and, You shall love your neighbor as yourself." \textsuperscript{20}The young man said to him, "All these I have kept. What do I still lack?" \textsuperscript{21}Jesus said to him, "If you would be perfect, go, sell what you possess and give to the poor, and you will have treasure in heaven; and come, follow me." \textsuperscript{22}When the young man heard this he went away sorrowful, for he had great possessions.
+> \textsuperscript{16}Now behold, one came and said to Him, "Good Teacher, what good thing shall I do that I may have eternal life?" \textsuperscript{17}So He said to him, \jesus{"Why do you call Me good? No one is good but One, that is, God. But if you want to enter into life, keep the commandments."} \textsuperscript{18}He said to Him, "Which ones?" Jesus said, \jesus{"'You shall not murder,' 'You shall not commit adultery,' 'You shall not steal,' 'You shall not bear false witness,' \textsuperscript{19}'Honor your father and your mother,' and, 'You shall love your neighbor as yourself.'"} \textsuperscript{20}The young man said to Him, "All these things I have kept from my youth. What do I still lack?" \textsuperscript{21}Jesus said to him, \jesus{"If you want to be perfect, go, sell what you have and give to the poor, and you will have treasure in heaven; and come, follow Me."} \textsuperscript{22}But when the young man heard that saying, he went away sorrowful, for he had great possessions.
 
-> \textsuperscript{23}And Jesus said to his disciples, "Truly, I say to you, only with difficulty will a rich person enter the kingdom of heaven. \textsuperscript{24}Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God." \textsuperscript{25}When the disciples heard this, they were greatly astonished, saying, "Who then can be saved?" \textsuperscript{26}But Jesus looked at them and said, "With man this is impossible, but with God all things are possible."
+> \textsuperscript{23}Then Jesus said to His disciples, \jesus{"Assuredly, I say to you that it is hard for a rich man to enter the kingdom of heaven. \textsuperscript{24}And again I say to you, it is easier for a camel to go through the eye of a needle than for a rich man to enter the kingdom of God."} \textsuperscript{25}When His disciples heard it, they were greatly astonished, saying, "Who then can be saved?" \textsuperscript{26}But Jesus looked at them and said to them, \jesus{"With men this is impossible, but with God all things are possible."}
 
 ---
 
@@ -4640,6 +6046,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：律法是引到基督的師傅。第一條誡命「除我以外，不可有別的神」（出 20:3）照出財主真正的神是錢財。律法把他逼到盡頭——「你還缺少一件」，叫他看見惟有跟從基督才是出路（加 3:24）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「財主說誡命他從小都遵守了——耶穌為什麼還說他『缺少一件』？」
+- 再問：「那『一件』真的是『變賣所有』嗎，還是更深的東西？」
+- 追問：「『駱駝穿針眼』之後，門徒驚問『這樣誰能得救』，耶穌怎麼回答？」
+- 落到自己：「主說『來跟從我』，你手裡正抓著什麼放不下？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天人的身分常被「淨資產、粉絲數、頭銜」定義——擁有的，成了你是誰。財主走憂愁了，因為財寶坐在他心裡主該坐的位子。你願不願意鬆手，讓主、而不是你的「數字」，來定義你是誰？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把你最放不下的那一樣，先在主面前鬆開手交出來。
+- **晚上**：今天我的安全感，建在「我有多少」上，還是建在「主是誰」上？
+- **一個行動**：今天具體地施捨或放下一樣東西，操練「財寶不是我的神」。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：他缺的不是一件善行，是一位主——財寶坐在他心裡耶穌該坐的位子上。
+
+**貫通全經**：第一條誡命「除我以外，不可有別的神」→ 律法是師傅，照出他真正的神是錢財。
+
+**無法迴避的問題**：「主說『來跟從我』，你手裡正抓著什麼放不下？駱駝過不了針眼，但『在神凡事都能』。」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，我手裡常抓著放不下的東西，叫它坐了你該坐的位子。求你幫助我鬆手，讓你—而不是我的擁有—來定義我是誰；在我以為不可能之處，求你成就，因在你凡事都能。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十章*
 
 
@@ -4650,23 +6101,31 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 17:1-13; 馬可福音 9:2-13; 路加福音 9:28-36
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+登山變像，主角不是摩西和以利亞，也不是要搭三座棚的彼得，而是那位面貌如日頭發光、衣裳潔白的主。從祂的角度讀，律法（摩西）與先知（以利亞）都來與祂談論祂在耶路撒冷將成的「去世」；父的聲音一錘定音：「這是我的愛子……你們要聽他。」短暫揭開的榮耀，是祂受難之前對神子身份的印證。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}過了六天，耶穌帶着彼得、雅各和雅各的弟弟約翰，領他們悄悄地上了高山。\textsuperscript{2}他在他們面前變了形像，臉面明亮如日頭，衣裳潔白如光。\textsuperscript{3}忽然，摩西和以利亞向他們顯現，跟耶穌說話。\textsuperscript{4}彼得對耶穌說：「主啊，我們在這裏真好！你若願意，我就在這裏搭三座棚，一座為你，一座為摩西，一座為以利亞。」\textsuperscript{5}他還在說話的時候，忽然有一朵燦爛的雲彩遮蓋他們，看哪，雲彩裏有聲音說：「這是我的愛子，我所喜愛的，你們要聽從他！」\textsuperscript{6}門徒聽見，就臉伏在地，非常害怕。\textsuperscript{7}耶穌進前來，摸他們，說：「起來，不要怕！」\textsuperscript{8}他們舉目一看，只見耶穌，不見別人。
+> \textsuperscript{1}過了六天，耶穌帶着彼得、雅各和雅各的弟弟約翰，領他們悄悄地上了高山。\textsuperscript{2}他在他們面前變了形像，臉面明亮如日頭，衣裳潔白如光。\textsuperscript{3}忽然，摩西和以利亞向他們顯現，跟耶穌說話。\textsuperscript{4}彼得對耶穌說：「主啊，我們在這裏真好！你若願意，我就在這裏搭三座棚，一座為你，一座為摩西，一座為以利亞。」\textsuperscript{5}他還在說話的時候，忽然有一朵燦爛的雲彩遮蓋他們，看哪，雲彩裏有聲音說：「這是我的愛子，我所喜愛的，你們要聽從他！」\textsuperscript{6}門徒聽見，就臉伏在地，非常害怕。\textsuperscript{7}耶穌進前來，摸他們，說：\jesus{「起來，不要怕！」}\textsuperscript{8}他們舉目一看，只見耶穌，不見別人。
 
-> \textsuperscript{9}他們下山的時候，耶穌吩咐他們：「人子還沒有從死人中復活，你們不要把所看見的告訴任何人。」
+> \textsuperscript{9}他們下山的時候，耶穌吩咐他們：\jesus{「人子還沒有從死人中復活，你們不要把所看見的告訴任何人。」}
 
 #### 路加福音 9:31 補充
 
 > 「他們在榮耀中顯現，談論耶穌將要在耶路撒冷完成的事。」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}And after six days Jesus took with him Peter and James, and John his brother, and led them up a high mountain by themselves. \textsuperscript{2}And he was transfigured before them, and his face shone like the sun, and his clothes became white as light. \textsuperscript{3}And behold, there appeared to them Moses and Elijah, talking with him. \textsuperscript{4}And Peter said to Jesus, "Lord, it is good that we are here. If you wish, I will make three tents here, one for you and one for Moses and one for Elijah." \textsuperscript{5}He was still speaking when, behold, a bright cloud overshadowed them, and a voice from the cloud said, "This is my beloved Son, with whom I am well pleased; listen to him." \textsuperscript{6}When the disciples heard this, they fell on their faces and were terrified. \textsuperscript{7}But Jesus came and touched them, saying, "Rise, and have no fear." \textsuperscript{8}And when they lifted up their eyes, they saw no one but Jesus only.
+> \textsuperscript{1}Now after six days Jesus took Peter, James, and John his brother, led them up on a high mountain by themselves; \textsuperscript{2}and He was transfigured before them. His face shone like the sun, and His clothes became as white as the light. \textsuperscript{3}And behold, Moses and Elijah appeared to them, talking with Him. \textsuperscript{4}Then Peter answered and said to Jesus, "Lord, it is good for us to be here; if You wish, let us make here three tabernacles: one for You, one for Moses, and one for Elijah." \textsuperscript{5}While he was still speaking, behold, a bright cloud overshadowed them; and suddenly a voice came out of the cloud, saying, "This is My beloved Son, in whom I am well pleased. Hear Him!" \textsuperscript{6}And when the disciples heard it, they fell on their faces and were greatly afraid. \textsuperscript{7}But Jesus came and touched them and said, \jesus{"Arise, and do not be afraid."} \textsuperscript{8}When they had lifted up their eyes, they saw no one but Jesus only.
 
-> \textsuperscript{9}And as they were coming down the mountain, Jesus commanded them, "Tell no one the vision, until the Son of Man is raised from the dead."
+> \textsuperscript{9}Now as they came down from the mountain, Jesus commanded them, saying, \jesus{"Tell the vision to no one until the Son of Man is risen from the dead."}
 
 ---
 
@@ -4812,6 +6271,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：律法與先知都指向祂。摩西（律法）與以利亞（先知）來與祂談祂在耶路撒冷將成的「去世」（路 9:31）。父的聲音「這是我的愛子……你們要聽他」（呼應申 18:15「那位先知」），一錘定音：律法先知都讓位給祂。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「彼得想搭三座棚，給摩西、以利亞、耶穌各一座——這有什麼問題？」
+- 再問：「父的聲音打斷了他，只說了什麼？」
+- 追問：「為什麼說完之後，門徒『不見一人，只見耶穌』？」
+- 落到自己：「你忙著把耶穌和別的聲音『並列』嗎？父說：只聽那一位。」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天你的耳邊有無數「導師」「大師」「人生教練」，個個都要你聽他。彼得想給耶穌也搭一座並列的棚，父卻說：只聽我的愛子。在一個人人爭奪你「聽從」的時代，你把耶穌擺在眾聲之一，還是眾聲之上？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：定意今天「只見耶穌、只聽那一位」，把祂擺在眾聲之上。
+- **晚上**：今天最影響我決定的「聲音」是誰？是主嗎？
+- **一個行動**：今天減少一個總在你耳邊吵嚷的聲音來源，多給主一點安靜。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：山上短暫揭開的榮光，是要叫門徒在祂走向十架之前，先確知這位是「我的愛子」。
+
+**貫通全經**：摩西（律法）與以利亞（先知）來與祂談祂的「去世」——律法和先知都指向、也都讓位給祂；父說「你們要聽他」。
+
+**無法迴避的問題**：「你忙著為摩西、以利亞、耶穌各搭一座棚（把祂與眾人並列）嗎？父說：只聽那一位。」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，求你叫我「只見耶穌、只聽那一位」。在眾多爭奪我聽從的聲音裡，叫我不把你與別的並列，乃單單聽你—父所愛的兒子；願你的榮耀堅固我，走過將來的低谷。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十一章*
 
 
@@ -4822,13 +6326,21 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 21:1-11; 約翰福音 12:12-19
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+榮耀進城，焦點不在揮舞棕樹枝、高呼和散那的群眾，而在那位騎著驢駒、謙謙和和進城的王。從祂的角度讀，撒迦利亞的預言「你的王來到你這裏……騎著驢」在祂身上應驗；祂不是群眾期待的政治君王，而是要上十字架的彌賽亞。歡呼的人不久就喊「釘他十字架」，但祂進城的腳步，始終朝向那為人捨命的時候。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 #### 馬太福音 21:1-11
 
-> \textsuperscript{1}耶穌和門徒快到耶路撒冷，進了橄欖山附近的伯法其，耶穌就打發兩個門徒，\textsuperscript{2}對他們說：「你們往對面村子裏去，立刻會看見一匹驢拴在那裏，還有驢駒同在一起，解開牠們，牽到我這裏來。\textsuperscript{3}若有人對你們說甚麼，你們就說：『主要用牠們。』他會立刻讓你們牽來。」\textsuperscript{4}這事發生是要應驗先知所說的話：
+> \textsuperscript{1}耶穌和門徒快到耶路撒冷，進了橄欖山附近的伯法其，耶穌就打發兩個門徒，\textsuperscript{2}對他們說：\jesus{「你們往對面村子裏去，立刻會看見一匹驢拴在那裏，還有驢駒同在一起，解開牠們，牽到我這裏來。\textsuperscript{3}若有人對你們說甚麼，你們就說：『主要用牠們。』他會立刻讓你們牽來。」}\textsuperscript{4}這事發生是要應驗先知所說的話：
 
 > \textsuperscript{5}「要對錫安的兒女說：
 > 看哪，你的王來到你這裏，
@@ -4844,22 +6356,22 @@ MacArthur 強調三重「道」的含義：
 
 #### 路加福音 19:41-44
 
-> \textsuperscript{41}耶穌快到耶路撒冷，看見那城，就為它哀哭，\textsuperscript{42}說：「巴不得你在這日子知道有關你平安的事；無奈這事現在是隱藏的，你的眼睛看不出來。\textsuperscript{43}因為日子將到，你的仇敵要築起土壘包圍你，四面困住你，\textsuperscript{44}並要把你和你裏面的兒女都踏在地上。在你中間，他們不會留下一塊石頭在另一塊石頭上，因為你不知道你蒙眷顧的時候。」
+> \textsuperscript{41}耶穌快到耶路撒冷，看見那城，就為它哀哭，\textsuperscript{42}說：\jesus{「巴不得你在這日子知道有關你平安的事；無奈這事現在是隱藏的，你的眼睛看不出來。\textsuperscript{43}因為日子將到，你的仇敵要築起土壘包圍你，四面困住你，\textsuperscript{44}並要把你和你裏面的兒女都踏在地上。在你中間，他們不會留下一塊石頭在另一塊石頭上，因為你不知道你蒙眷顧的時候。」}
 
-### English — ESV
+### English — NKJV
 
 #### Matthew 21:1-11
 
-> \textsuperscript{1}Now when they drew near to Jerusalem and came to Bethphage, to the Mount of Olives, then Jesus sent two disciples, \textsuperscript{2}saying to them, "Go into the village in front of you, and immediately you will find a donkey tied, and a colt with her. Untie them and bring them to me. \textsuperscript{3}If anyone says anything to you, you shall say, 'The Lord needs them,' and he will send them at once." \textsuperscript{4}This took place to fulfill what was spoken by the prophet, saying,
+> \textsuperscript{1}Now when they drew near Jerusalem, and came to Bethphage, at the Mount of Olives, then Jesus sent two disciples, \textsuperscript{2}saying to them, \jesus{"Go into the village opposite you, and immediately you will find a donkey tied, and a colt with her. Loose them and bring them to Me. \textsuperscript{3}And if anyone says anything to you, you shall say, 'The Lord has need of them,' and immediately he will send them."} \textsuperscript{4}All this was done that it might be fulfilled which was spoken by the prophet, saying:
 
-> \textsuperscript{5}"Say to the daughter of Zion,
-> 'Behold, your king is coming to you,
-> humble, and mounted on a donkey,
-> on a colt, the foal of a beast of burden.'"
+> \textsuperscript{5}"Tell the daughter of Zion,
+> 'Behold, your King is coming to you,
+> Lowly, and sitting on a donkey,
+> A colt, the foal of a donkey.'"
 
-> \textsuperscript{6}The disciples went and did as Jesus had directed them. \textsuperscript{7}They brought the donkey and the colt and put on them their cloaks, and he sat on them. \textsuperscript{8}Most of the crowd spread their cloaks on the road, and others cut branches from the trees and spread them on the road. \textsuperscript{9}And the crowds that went before him and that followed him were shouting, "Hosanna to the Son of David! Blessed is he who comes in the name of the Lord! Hosanna in the highest!"
+> \textsuperscript{6}So the disciples went and did as Jesus commanded them. \textsuperscript{7}They brought the donkey and the colt, laid their clothes on them, and set Him on them. \textsuperscript{8}And a very great multitude spread their clothes on the road; others cut down branches from the trees and spread them on the road. \textsuperscript{9}Then the multitudes who went before and those who followed cried out, saying: "Hosanna to the Son of David! 'Blessed is He who comes in the name of the LORD!' Hosanna in the highest!"
 
-> \textsuperscript{10}And when he entered Jerusalem, the whole city was stirred up, saying, "Who is this?" \textsuperscript{11}And the crowds said, "This is the prophet Jesus, from Nazareth of Galilee."
+> \textsuperscript{10}And when He had come into Jerusalem, all the city was moved, saying, "Who is this?" \textsuperscript{11}So the multitudes said, "This is Jesus, the prophet from Nazareth of Galilee."
 
 ---
 
@@ -5010,6 +6522,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：預言字字應驗。撒迦利亞 9:9「你的王來到你這裡……謙謙和和地騎著驢」在此成就；群眾高呼的「和散那」出自詩 118:25-26。但這位王不是來奪政權，是來上十架——五日後同一群口喊「釘他十字架」。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「王進城通常騎什麼？耶穌騎的是什麼？這說明祂是怎樣的王？」
+- 再問：「群眾為祂歡呼，他們期待的是什麼樣的王？」
+- 追問：「同一群人，幾天後喊的是什麼？為什麼變這麼快？」
+- 落到自己：「你歡迎的，是能滿足你期望的王，還是那位定意上十架、甚至會拆毀你期望的王？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的掌聲來得快、去得也快——今天上熱搜被追捧，明天就被翻舊帳、被「取消」。群眾的「和散那」轉眼成了「釘他」。你跟隨主，是因為祂此刻給你想要的，還是即使祂拆毀你的期望、走向十架，你仍跟定祂？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：對主說：不管你合不合我的期望，我今天仍要跟從你這位謙卑的王。
+- **晚上**：今天我對主的忠心，有沒有隨「祂合不合我意」而上下浮動？
+- **一個行動**：今天在一件「主的心意和我的期望相左」的事上，選擇順服祂。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：群眾要一位騎馬的君王，祂卻騎著驢駒進城——祂來不是要奪權，是要捨命。
+
+**貫通全經**：撒迦利亞9:9「你的王……騎著驢」字字應驗；高喊「和散那」的口，五日後喊「釘他十字架」。
+
+**無法迴避的問題**：「你歡迎的，是能滿足你期望的王，還是那位定意上十架、甚至會拆毀你期望的王？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你騎著驢駒謙卑進城，定意走向十架。求你叫我跟從你，不是因你滿足我的期望，乃因你是配得的王；縱然你拆毀我的期望，我仍要為你歡呼，跟你到底。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十二章*
 
 
@@ -5020,23 +6577,31 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 21:12-17; 馬可福音 11:15-19
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+受難週的潔淨聖殿，主角不是做買賣的商販，而是那位以「我的殿必稱為禱告的殿」宣告主權的主。從祂的角度讀，瑪拉基所預言「你們所尋求的主，必忽然進入他的殿」在此應驗；祂以審判者的身分潔淨父的家，又在殿裏醫治瞎子瘸子、接納孩童的讚美——真正的敬拜要歸回那位殿的主人。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{12}耶穌進了神的殿，趕出殿裏一切作買賣的人，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，\textsuperscript{13}對他們說：「經上記着：『我的殿要稱為禱告的殿』，你們倒使它成為『賊窩』了！」
+> \textsuperscript{12}耶穌進了神的殿，趕出殿裏一切作買賣的人，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，\textsuperscript{13}對他們說：\jesus{「經上記着：『我的殿要稱為禱告的殿』，你們倒使它成為『賊窩』了！」}
 
-> \textsuperscript{14}在殿裏有失明的和瘸腿的到耶穌面前，他就治好了他們。\textsuperscript{15}祭司長和文士看見耶穌所做的奇事，又聽見孩子們在殿裏喊着說「和散那歸於大衛的子孫！」就很生氣，\textsuperscript{16}對他說：「他們說的這些話，你聽見了嗎？」耶穌對他們說：「是的。『你從嬰孩和吃奶的口中得到了讚美』，這話你們沒有念過嗎？」\textsuperscript{17}於是離開他們，出城到伯大尼去，在那裏住宿。
+> \textsuperscript{14}在殿裏有失明的和瘸腿的到耶穌面前，他就治好了他們。\textsuperscript{15}祭司長和文士看見耶穌所做的奇事，又聽見孩子們在殿裏喊着說「和散那歸於大衛的子孫！」就很生氣，\textsuperscript{16}對他說：「他們說的這些話，你聽見了嗎？」耶穌對他們說：\jesus{「是的。『你從嬰孩和吃奶的口中得到了讚美』，這話你們沒有念過嗎？」}\textsuperscript{17}於是離開他們，出城到伯大尼去，在那裏住宿。
 
 #### 馬可福音 11:17 補充
 
-> 「他教導他們說：『經上不是記着：我的殿要稱為萬國禱告的殿嗎？你們倒使它成為賊窩了！』」
+> 「他教導他們說：\jesus{『經上不是記着：我的殿要稱為萬國禱告的殿嗎？你們倒使它成為賊窩了！』}」
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{12}And Jesus entered the temple and drove out all who sold and bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. \textsuperscript{13}He said to them, "It is written, 'My house shall be called a house of prayer,' but you make it a den of robbers."
+> \textsuperscript{12}Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. \textsuperscript{13}And He said to them, \jesus{"It is written, 'My house shall be called a house of prayer,' but you have made it a 'den of thieves.'"}
 
-> \textsuperscript{14}And the blind and the lame came to him in the temple, and he healed them. \textsuperscript{15}But when the chief priests and the scribes saw the wonderful things that he did, and the children crying out in the temple, "Hosanna to the Son of David!" they were indignant, \textsuperscript{16}and they said to him, "Do you hear what these are saying?" And Jesus said to them, "Yes; have you never read, 'Out of the mouth of infants and nursing babies you have prepared praise'?" \textsuperscript{17}And leaving them, he went out of the city to Bethany and lodged there.
+> \textsuperscript{14}Then the blind and the lame came to Him in the temple, and He healed them. \textsuperscript{15}But when the chief priests and scribes saw the wonderful things that He did, and the children crying out in the temple and saying, "Hosanna to the Son of David!" they were indignant \textsuperscript{16}and said to Him, "Do You hear what these are saying?" And Jesus said to them, \jesus{"Yes. Have you never read, 'Out of the mouth of babes and nursing infants You have perfected praise'?"} \textsuperscript{17}Then He left them and went out of the city to Bethany, and He lodged there.
 
 ---
 
@@ -5182,6 +6747,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：主忽然進入祂的殿。瑪 3:1「你們所尋求的主，必忽然進入他的殿」在此應驗；祂引賽 56:7「我的殿必稱為禱告的殿」與耶 7:11「賊窩」。受難週祂做的第一件事，是潔淨父的家。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「受難週這麼短，耶穌為什麼第一件事是去翻聖殿的桌子？」
+- 再問：「『禱告的殿』變成了『賊窩』——問題出在哪裡？」
+- 追問：「祂趕走買賣的人之後，殿裡發生了什麼？（瞎子瘸子來、得醫治；孩童讚美）」
+- 落到自己：「若主今天進入你心這座殿，祂要先翻倒哪幾張桌子？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天連敬拜都可能被「績效化、流量化」——聚會看數據，靈修變打卡，神被擺在達成目的的攤位上。耶穌進殿，先翻桌子，再醫治、再接納讚美。你心裡這座殿，需要主先翻掉哪一張「把神當工具」的交易桌？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求主進入你心的殿，潔淨那些把信仰變成交易的攤子。
+- **晚上**：今天我親近神，是真敬拜，還是只是完成一項「指標」？
+- **一個行動**：今天有一段純粹的禱告，不求什麼，只為與主同在。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：受難週祂做的第一件事，是潔淨父的家——「我的殿必稱為禱告的殿」，主先要潔淨敬拜。
+
+**貫通全經**：瑪拉基3:1「你們所尋求的主，必忽然進入他的殿」→ 祂以審判者的身分臨到自己的殿。
+
+**無法迴避的問題**：「若主今天進入你心這座殿，祂要先翻倒哪幾張桌子？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，求你今天進入我心的殿，翻倒那把信仰變成績效與交易的桌子。潔淨我的敬拜，叫它單純為著與你同在；願我的心成為你—殿的主人—所喜悅的禱告之所。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十三章*
 
 
@@ -5192,39 +6802,47 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 24:1-51; 馬可福音 13:1-37
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+橄欖山的末世講論，焦點不在聖殿石頭的拆毀或災難的徵兆，而在那位「駕著天上的雲，有能力，有大榮耀」再來的人子。從祂的角度讀，警醒、忠心、預備，都是因為主必再來；十童女、按才幹受託、分別綿羊山羊，最終都聚焦於與祂的關係。歷史不是循環，而是奔向祂的再臨與審判。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 #### 聖殿毀滅的預言（太24:1-2）
 
-> \textsuperscript{1}耶穌出了聖殿，正往前走的時候，門徒前來，把聖殿的建築指給他看。\textsuperscript{2}耶穌對他們說：「你們不是看見這一切嗎？我實在告訴你們，這裏將沒有一塊石頭留在另一塊石頭上面不被拆毀的。」
+> \textsuperscript{1}耶穌出了聖殿，正往前走的時候，門徒前來，把聖殿的建築指給他看。\textsuperscript{2}耶穌對他們說：\jesus{「你們不是看見這一切嗎？我實在告訴你們，這裏將沒有一塊石頭留在另一塊石頭上面不被拆毀的。」}
 
 #### 末世的預兆（太24:4-14）
 
-> \textsuperscript{4}耶穌回答他們：「你們要謹慎，免得有人迷惑你們。\textsuperscript{5}因為將有許多人冒我的名來，說『我是基督』，並且要迷惑許多人。\textsuperscript{6}你們將聽見戰爭和戰爭的風聲，不要驚慌！因為這些事必須發生，但這還不是終結。\textsuperscript{7}民要攻打民，國要攻打國；多處必有飢荒、地震。\textsuperscript{8}這一切不過是災難的起頭。」
+> \textsuperscript{4}耶穌回答他們：\jesus{「你們要謹慎，免得有人迷惑你們。\textsuperscript{5}因為將有許多人冒我的名來，說『我是基督』，並且要迷惑許多人。\textsuperscript{6}你們將聽見戰爭和戰爭的風聲，不要驚慌！因為這些事必須發生，但這還不是終結。\textsuperscript{7}民要攻打民，國要攻打國；多處必有飢荒、地震。\textsuperscript{8}這一切不過是災難的起頭。」}
 
-> \textsuperscript{14}「這天國的福音要傳遍天下，對萬民作見證，然後終結才來到。」
+> \textsuperscript{14}\jesus{「這天國的福音要傳遍天下，對萬民作見證，然後終結才來到。」}
 
 #### 人子再來（太24:29-31）
 
-> \textsuperscript{29}「那些日子的災難一過去，日頭就變黑了，月亮也不放光，星辰要從天上墜落，天上的萬象都要震動。\textsuperscript{30}那時，人子的預兆要顯在天上，地上的萬族都要哀哭。他們要看見人子帶着能力和大榮耀，駕着天上的雲來臨。\textsuperscript{31}他要差遣使者，用大聲的號角，把他的選民從四方，從天這邊到天那邊，都招聚了來。」
+> \textsuperscript{29}\jesus{「那些日子的災難一過去，日頭就變黑了，月亮也不放光，星辰要從天上墜落，天上的萬象都要震動。\textsuperscript{30}那時，人子的預兆要顯在天上，地上的萬族都要哀哭。他們要看見人子帶着能力和大榮耀，駕着天上的雲來臨。\textsuperscript{31}他要差遣使者，用大聲的號角，把他的選民從四方，從天這邊到天那邊，都招聚了來。」}
 
 #### 警醒的命令（太24:42-44）
 
-> \textsuperscript{42}「所以，你們要警醒，因為不知道你們的主哪一天來到。\textsuperscript{43}家主若知道幾更天有盜賊來，他就會警醒，不讓人挖穿房屋；這是你們所知道的。\textsuperscript{44}所以，你們也要預備，因為在你們想不到的時候，人子就來了。」
+> \textsuperscript{42}\jesus{「所以，你們要警醒，因為不知道你們的主哪一天來到。\textsuperscript{43}家主若知道幾更天有盜賊來，他就會警醒，不讓人挖穿房屋；這是你們所知道的。\textsuperscript{44}所以，你們也要預備，因為在你們想不到的時候，人子就來了。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}Jesus left the temple and was going away, when his disciples came to point out to him the buildings of the temple. \textsuperscript{2}But he answered them, "You see all these, do you not? Truly, I say to you, there will not be left here one stone upon another that will not be thrown down."
+> \textsuperscript{1}Then Jesus went out and departed from the temple, and His disciples came up to show Him the buildings of the temple. \textsuperscript{2}And Jesus said to them, \jesus{"Do you not see all these things? Assuredly, I say to you, not one stone shall be left here upon another, that shall not be thrown down."}
 
-> \textsuperscript{4}And Jesus answered them, "See that no one leads you astray. \textsuperscript{5}For many will come in my name, saying, 'I am the Christ,' and they will lead many astray. \textsuperscript{6}And you will hear of wars and rumors of wars. See that you are not alarmed, for this must take place, but the end is not yet. \textsuperscript{7}For nation will rise against nation, and kingdom against kingdom, and there will be famines and earthquakes in various places. \textsuperscript{8}All these are but the beginning of the birth pains."
+> \textsuperscript{4}And Jesus answered and said to them: \jesus{"Take heed that no one deceives you. \textsuperscript{5}For many will come in My name, saying, 'I am the Christ,' and will deceive many. \textsuperscript{6}And you will hear of wars and rumors of wars. See that you are not troubled; for all these things must come to pass, but the end is not yet. \textsuperscript{7}For nation will rise against nation, and kingdom against kingdom. And there will be famines, pestilences, and earthquakes in various places. \textsuperscript{8}All these are the beginning of sorrows."}
 
-> \textsuperscript{14}"And this gospel of the kingdom will be proclaimed throughout the whole world as a testimony to all nations, and then the end will come."
+> \textsuperscript{14}\jesus{"And this gospel of the kingdom will be preached in all the world as a witness to all the nations, and then the end will come."}
 
-> \textsuperscript{29}"Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light, and the stars will fall from heaven, and the powers of the heavens will be shaken. \textsuperscript{30}Then will appear in heaven the sign of the Son of Man, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory. \textsuperscript{31}And he will send out his angels with a loud trumpet call, and they will gather his elect from the four winds, from one end of heaven to the other."
+> \textsuperscript{29}\jesus{"Immediately after the tribulation of those days the sun will be darkened, and the moon will not give its light; the stars will fall from heaven, and the powers of the heavens will be shaken. \textsuperscript{30}Then the sign of the Son of Man will appear in heaven, and then all the tribes of the earth will mourn, and they will see the Son of Man coming on the clouds of heaven with power and great glory. \textsuperscript{31}And He will send His angels with a great sound of a trumpet, and they will gather together His elect from the four winds, from one end of heaven to the other."}
 
-> \textsuperscript{42}"Therefore, stay awake, for you do not know on what day your Lord is coming. \textsuperscript{43}But know this, that if the master of the house had known in what part of the night the thief was coming, he would have stayed awake and would not have let his house be broken into. \textsuperscript{44}Therefore you also must be ready, for the Son of Man is coming at an hour you do not expect."
+> \textsuperscript{42}\jesus{"Watch therefore, for you do not know what hour your Lord is coming. \textsuperscript{43}But know this, that if the master of the house had known what hour the thief would come, he would have watched and not allowed his house to be broken into. \textsuperscript{44}Therefore you also be ready, for the Son of Man is coming at an hour you do not expect."}
 
 ---
 
@@ -5384,6 +7002,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：那要再來的人子。「人子駕著天上的雲降臨」（但 7:13-14）是這篇講論的核心；十童女、按才幹受託、分別綿羊山羊（太 25），都聚焦於與祂的關係與祂的再臨。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「門徒問『什麼時候』，耶穌主要回答的是『幾時』，還是『你要怎樣預備』？」
+- 再問：「三個比喻（十童女、才幹、綿羊山羊）共同要我們做什麼？」
+- 追問：「忠心的僕人和懶惰的僕人，差別在哪裡？」
+- 落到自己：「主若今夜就來，祂遇見的你，是儆醒點燈的，還是埋了銀子的？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的資訊餵養末日焦慮——危機、預測、倒數，叫人不停刷、不停慌。但主講末世，重點從來不是讓你「算出日子」，是叫你「預備好自己」。在一個被災難頭條牽著走的時代，你是忙著預測，還是忠心預備？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把今天當作「主可能今天就來」的一天，忠心去活。
+- **晚上**：今天我有沒有把主交託我的「銀子」（恩賜、時間）拿出來用？
+- **一個行動**：今天動用一個你一直「埋著」的恩賜，去服事一個人。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：講論的核心不是預測末日的日期，是預備迎見那必再來的人子——所以要警醒、要忠心。
+
+**貫通全經**：但以理7:13「人子駕著天雲」→ 祂要這樣再來；十童女、按才幹受託、分綿羊山羊，都聚焦於與祂的關係。
+
+**無法迴避的問題**：「主若今夜就來，祂遇見的你，是儆醒點燈的，還是埋了銀子的？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你必再來。求你叫我不被末世的焦慮牽著走，乃忠心預備、儆醒點燈，把你交託我的恩賜拿出來使用；願你來的時候，遇見我正在忠心做你的工。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十四章*
 
 
@@ -5394,6 +7057,14 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 26:17-30; 約翰福音 13:1-30
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+最後晚餐，主角不是逾越節的筵席，而是那位拿起餅與杯說「這是我的身體……這是我立約的血」的主。從祂的角度讀，千年逾越節羔羊所預表的，如今親自坐席——祂就是那為我們被殺的羔羊。祂為門徒洗腳，把舊約的節期更新為記念祂捨身的聖餐；新約在祂的血裏設立。
+
+---
+
 ## 經文 (Scripture)
 
 ### 洗門徒的腳（約翰福音 13:1-17）
@@ -5402,7 +7073,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{1}逾越節以前，耶穌知道自己離開這世界回到父那裏去的時候到了。他既然愛世間屬自己的人，就愛他們到底。\textsuperscript{2}吃晚飯的時候，魔鬼已把出賣耶穌的意思放在西門的兒子加略人猶大心裏。\textsuperscript{3}耶穌知道父已把萬有交在他手裏，並知道自己是從神而來，又要回到神那裏去，\textsuperscript{4}就離席站起來，脫了外衣，拿一條毛巾束腰，\textsuperscript{5}隨後把水倒在盆裏，開始洗門徒的腳，並用束腰的毛巾擦乾。
 
-> \textsuperscript{12}耶穌洗完了他們的腳，就穿上外衣，再坐下來，對他們說：「我對你們所做的，你們明白嗎？\textsuperscript{13}你們稱呼我『老師』，稱呼我『主』，你們說得對，我本來就是。\textsuperscript{14}我是你們的主，你們的老師，尚且洗你們的腳，你們也應當彼此洗腳。\textsuperscript{15}我給你們作了榜樣，為要你們照着我對你們所做的去做。\textsuperscript{16}我實實在在地告訴你們，僕人不能大於主人，奉差遣的也不能大於差他的人。\textsuperscript{17}你們既知道這些事，若是去做就有福了。」
+> \textsuperscript{12}耶穌洗完了他們的腳，就穿上外衣，再坐下來，對他們說：\jesus{「我對你們所做的，你們明白嗎？\textsuperscript{13}你們稱呼我『老師』，稱呼我『主』，你們說得對，我本來就是。\textsuperscript{14}我是你們的主，你們的老師，尚且洗你們的腳，你們也應當彼此洗腳。\textsuperscript{15}我給你們作了榜樣，為要你們照着我對你們所做的去做。\textsuperscript{16}我實實在在地告訴你們，僕人不能大於主人，奉差遣的也不能大於差他的人。\textsuperscript{17}你們既知道這些事，若是去做就有福了。」}
 
 ---
 
@@ -5410,11 +7081,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{26}他們吃的時候，耶穌拿起餅來，祝福了，就擘開，遞給門徒，說：「你們拿去，吃吧！這是我的身體。」\textsuperscript{27}他又拿起杯來，祝謝了，遞給他們，說：「你們都喝這個，\textsuperscript{28}因為這是我立約的血，為許多人流出來，使罪得赦。\textsuperscript{29}但我告訴你們，從今以後我不再喝這葡萄樹的果汁，直到我在我父的國裏同你們喝新的那日子。」
+> \textsuperscript{26}他們吃的時候，耶穌拿起餅來，祝福了，就擘開，遞給門徒，說：\jesus{「你們拿去，吃吧！這是我的身體。」}\textsuperscript{27}他又拿起杯來，祝謝了，遞給他們，說：\jesus{「你們都喝這個，\textsuperscript{28}因為這是我立約的血，為許多人流出來，使罪得赦。\textsuperscript{29}但我告訴你們，從今以後我不再喝這葡萄樹的果汁，直到我在我父的國裏同你們喝新的那日子。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{26}Now as they were eating, Jesus took bread, and after blessing it broke it and gave it to the disciples, and said, "Take, eat; this is my body." \textsuperscript{27}And he took a cup, and when he had given thanks he gave it to them, saying, "Drink of it, all of you, \textsuperscript{28}for this is my blood of the covenant, which is poured out for many for the forgiveness of sins. \textsuperscript{29}I tell you I will not drink again of this fruit of the vine until that day when I drink it new with you in my Father's kingdom."
+> \textsuperscript{26}And as they were eating, Jesus took bread, blessed and broke it, and gave it to the disciples and said, \jesus{"Take, eat; this is My body."} \textsuperscript{27}Then He took the cup, and gave thanks, and gave it to them, saying, \jesus{"Drink from it, all of you. \textsuperscript{28}For this is My blood of the new covenant, which is shed for many for the remission of sins. \textsuperscript{29}But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in My Father's kingdom."}
 
 ---
 
@@ -5571,6 +7242,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：祂是逾越節的羔羊。出 12 逾越節羔羊的血，叫滅命的越過；保羅說「我們逾越節的羔羊基督已經被殺」（林前 5:7）。祂拿起餅與杯，把舊約的節期更新為記念祂捨身的聖餐，立下耶 31:31 所應許的「新約」。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「這頓飯本是逾越節——記念神領以色列出埃及。耶穌卻把焦點轉到哪裡？」
+- 再問：「『這是我的身體……我立約的血』——千年的羔羊預表，此刻指向誰？」
+- 追問：「祂先為門徒洗腳，才設立聖餐——這次序說明什麼？」
+- 落到自己：「你領聖餐，是守一個形式，還是真在記念那位為你被擘開、被傾倒的主？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天我們把太多事做成了「走流程」——點讚、打卡、例行公事，動作還在，意義早已抽乾。聖餐也可能淪為形式。耶穌卻說「你們要如此行，為的是記念我」。你掰餅時，記念的是儀式，還是那為你裂開的身體？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：默想主為你捨身流血，讓今天的一切從「被愛」出發。
+- **晚上**：今天我有多少事只是「走流程」，失了與主真實的相交？
+- **一個行動**：今天為一個人「洗腳」——做一件謙卑服事的小事。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：千年逾越節所殺的羔羊，如今親自坐席——祂拿起餅與杯說「這是我的身體……我立約的血」。
+
+**貫通全經**：出12逾越節羔羊的血叫滅命的越過 →「我們逾越節的羔羊基督已經被殺」（哥前5:7）。
+
+**無法迴避的問題**：「你領聖餐，是守一個形式，還是真在記念那位為你被擘開、被傾倒的主？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你是為我被殺的逾越節羔羊。當我掰餅領杯，求你叫我不只走一個流程，乃真實記念你為我裂開的身體、傾倒的寶血；願我也存謙卑的心，為人洗腳。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十五章*
 
 
@@ -5581,13 +7297,21 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 14-16
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+馬可樓上的離別講論，焦點不在門徒的憂愁，而在那位說「我就是道路、真理、生命」的主。從祂的角度讀，到父那裏去的唯一道路是祂；與祂生命聯合如枝子連於真葡萄樹，才能結果子。祂應許賜下保惠師聖靈，叫門徒在祂離去後仍與祂同在——一切的安慰，都根源於祂。
+
+---
+
 ## 經文 (Scripture)
 
 ### 道路、真理、生命（約翰福音 14:1-6）
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}「你們心裏不要憂愁；你們信神，也要信我。\textsuperscript{2}在我父的家裏有許多住處；若是沒有，我早就告訴你們了。我去是為你們預備地方。\textsuperscript{3}我若去為你們預備地方，就必再來接你們到我那裏去，好讓我在哪裏，你們也在哪裏。\textsuperscript{4}我去的地方，那條路你們知道。」\textsuperscript{5}多馬對他說：「主啊，我們不知道你去哪裏，怎麼知道那條路呢？」\textsuperscript{6}耶穌對他說：「我就是道路、真理、生命；若不藉着我，沒有人能到父那裏去。」
+> \textsuperscript{1}\jesus{「你們心裏不要憂愁；你們信神，也要信我。\textsuperscript{2}在我父的家裏有許多住處；若是沒有，我早就告訴你們了。我去是為你們預備地方。\textsuperscript{3}我若去為你們預備地方，就必再來接你們到我那裏去，好讓我在哪裏，你們也在哪裏。\textsuperscript{4}我去的地方，那條路你們知道。」}\textsuperscript{5}多馬對他說：「主啊，我們不知道你去哪裏，怎麼知道那條路呢？」\textsuperscript{6}耶穌對他說：\jesus{「我就是道路、真理、生命；若不藉着我，沒有人能到父那裏去。」}
 
 ---
 
@@ -5595,7 +7319,7 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{1}「我是真葡萄樹，我父是栽培的人。\textsuperscript{2}凡屬我不結果子的枝子，他就剪掉；凡結果子的，他就修剪乾淨，使枝子結果子更多。\textsuperscript{3}現在你們因我對你們所講的道，已經乾淨了。\textsuperscript{4}你們要常在我裏面，我也常在你們裏面。枝子若不常在葡萄樹上，自己就不能結果子；你們若不常在我裏面，也是這樣。\textsuperscript{5}我是葡萄樹，你們是枝子。常在我裏面的，我也常在他裏面，這人就多結果子；因為離了我，你們就不能做甚麼。」
+> \textsuperscript{1}\jesus{「我是真葡萄樹，我父是栽培的人。\textsuperscript{2}凡屬我不結果子的枝子，他就剪掉；凡結果子的，他就修剪乾淨，使枝子結果子更多。\textsuperscript{3}現在你們因我對你們所講的道，已經乾淨了。\textsuperscript{4}你們要常在我裏面，我也常在你們裏面。枝子若不常在葡萄樹上，自己就不能結果子；你們若不常在我裏面，也是這樣。\textsuperscript{5}我是葡萄樹，你們是枝子。常在我裏面的，我也常在他裏面，這人就多結果子；因為離了我，你們就不能做甚麼。」}
 
 ---
 
@@ -5603,13 +7327,13 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{7}「然而我把真情告訴你們，我去對你們是有益的；我若不去，保惠師就不會到你們這裏來；我若去，就差他來。\textsuperscript{8}他來了，要叫世人知道自己有罪，知道神是公義的，知道將來有審判。\textsuperscript{9}因為他們不信我，他們有罪了；\textsuperscript{10}因為我去到父那裏，你們將不再見到我，就顯出神的義了；\textsuperscript{11}因為這世界的統治者已受了審判，就確定將來有審判了。」
+> \textsuperscript{7}\jesus{「然而我把真情告訴你們，我去對你們是有益的；我若不去，保惠師就不會到你們這裏來；我若去，就差他來。\textsuperscript{8}他來了，要叫世人知道自己有罪，知道神是公義的，知道將來有審判。\textsuperscript{9}因為他們不信我，他們有罪了；\textsuperscript{10}因為我去到父那裏，你們將不再見到我，就顯出神的義了；\textsuperscript{11}因為這世界的統治者已受了審判，就確定將來有審判了。」}
 
-> \textsuperscript{13}「只等真理的靈來了，他要引導你們進入一切的真理；因為他不是憑自己說的，而是把他所聽見的都說出來，並且要把將來的事告訴你們。\textsuperscript{14}他要榮耀我，因為他要把從我領受的告訴你們。\textsuperscript{15}凡父所有的，都是我的；所以我說，他要把從我領受的告訴你們。」
+> \textsuperscript{13}\jesus{「只等真理的靈來了，他要引導你們進入一切的真理；因為他不是憑自己說的，而是把他所聽見的都說出來，並且要把將來的事告訴你們。\textsuperscript{14}他要榮耀我，因為他要把從我領受的告訴你們。\textsuperscript{15}凡父所有的，都是我的；所以我說，他要把從我領受的告訴你們。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}"Let not your hearts be troubled. Believe in God; believe also in me. \textsuperscript{2}In my Father's house are many rooms. If it were not so, would I have told you that I go to prepare a place for you? \textsuperscript{3}And if I go and prepare a place for you, I will come again and will take you to myself, that where I am you may be also. \textsuperscript{4}And you know the way to where I am going." \textsuperscript{5}Thomas said to him, "Lord, we do not know where you are going. How can we know the way?" \textsuperscript{6}Jesus said to him, "I am the way, and the truth, and the life. No one comes to the Father except through me."
+> \textsuperscript{1}\jesus{"Let not your heart be troubled; you believe in God, believe also in Me. \textsuperscript{2}In My Father's house are many mansions; if it were not so, I would have told you. I go to prepare a place for you. \textsuperscript{3}And if I go and prepare a place for you, I will come again and receive you to Myself; that where I am, there you may be also. \textsuperscript{4}And where I go you know, and the way you know."} \textsuperscript{5}Thomas said to Him, "Lord, we do not know where You are going, and how can we know the way?" \textsuperscript{6}Jesus said to him, \jesus{"I am the way, the truth, and the life. No one comes to the Father except through Me."}
 
 ---
 
@@ -5744,6 +7468,122 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## † 重要事件深度啟示：基督的「履歷」(Christ's Resume) — 約翰福音 16:28
+
+> **「我從父出來，到了世界；我又離開世界，往父那裡去。」**
+>
+> *"I came forth from the Father and have come into the world. Again, I leave the world and go to the Father."*
+>
+> — 約翰福音 16:28 / John 16:28
+
+### 一節經文，整部生平 (One Verse, Whole Life)
+
+這是新約聖經中**最簡潔卻最完整**的基督自傳——耶穌用**24 個中文字、4 個動詞**，總結了**祂從永恆到永恆的全部弧線**。
+
+| # | 動詞 | 階段 | 對應書中章節 |
+|---|---|---|---|
+| 1 | **「我從父出來」** | 永恆的太初 (Pre-existence) | **第 0 章** 序言：太初有道 |
+| 2 | **「到了世界」** | 道成肉身 (Incarnation) | **第 1-4 章** 道成肉身 |
+| 3 | **「我又離開世界」** | 受難與復活 (Passion & Resurrection) | **第 25-32 章** 受難週 + 復活 |
+| 4 | **「往父那裡去」** | 升天歸榮 (Ascension to Glory) | **第 34 章** 升天與大使命 |
+
+**這一節是整本《耶穌基督完整生平》的框架經文**——**全書 37 章只是這 24 個字的展開**。
+
+---
+
+### 四重弧線 (The Four-Fold Arc)
+
+#### 1. 「我從父出來」 — 永恆的根源 (From the Father)
+
+希臘文：**ἐξῆλθον παρὰ τοῦ πατρός** (*exēlthon para tou patros*)
+
+- **ἐξῆλθον**（出來）— 不定過去時，**完成的動作**：祂從父出來，**已經出來了**
+- **παρὰ τοῦ πατρός**（從父身邊）— 不只是「從父」(*ek*)，更是「**從父身邊**」(*para*)，意味**親密同在**
+
+> 「**太初有道，道與神同在，道就是神**」（約 1:1）—— 這個「**同在**」(*pros*) 就是「**從父出來**」的起點。
+>
+> 基督**不是被父創造**，是**從父而出**。**祂從**永遠**就在父懷裡**（約 1:18）。
+
+#### 2. 「到了世界」 — 道成肉身 (Came into the World)
+
+希臘文：**ἐλήλυθα εἰς τὸν κόσμον** (*elēlytha eis ton kosmon*)
+
+- **ἐλήλυθα**（已經來）— 完成式，**過去的動作，現在的結果**：祂**來了**，且**仍在這裡**
+- **εἰς τὸν κόσμον**（進入這世界）— 進入**敵對的、墮落的、需要救贖的**世界
+
+> 「**道成了肉身，住在我們中間**」（約 1:14）
+>
+> **道**(λόγος) — 永恆的存在
+> **肉身**(σάρξ) — 有限的人性
+> 兩者在伯利恆的馬槽中**合一**
+
+#### 3. 「我又離開世界」 — 死亡與復活 (Leaving the World)
+
+希臘文：**ἀφίημι τὸν κόσμον** (*aphiēmi ton kosmon*)
+
+- **ἀφίημι**（離開／放下）— 現在時，**正在進行**：耶穌說這話時，**正走向客西馬尼**
+
+> 注意：這節在**馬可樓講論**（最後晚餐）中說出，幾小時後祂被捕、釘十字架。
+>
+> 「**離開世界**」不是悲哀的告別——是**勝利的離開**：
+> - 完成了使命（**Tetelestai 成了**！約 19:30）
+> - 勝過了死亡（**復活**）
+> - 拆毀了隔絕的牆（**幔子裂為兩半**）
+
+#### 4. 「往父那裡去」 — 升天歸榮 (Going to the Father)
+
+希臘文：**πορεύομαι πρὸς τὸν πατέρα** (*poreuomai pros ton patera*)
+
+- **πορεύομαι**（去）— 現在時，**意向已定**：祂正在**回家**
+- **πρὸς τὸν πατέρα**（往父那裡）— **回到約 1:1 的同在**（同樣用 *pros*）
+
+> 「**我在哪裡，叫服事我的人也在那裡**」（約 12:26）
+> 「**我去原是為你們預備地方**……**我在哪裡，叫你們也在那裡**」（約 14:2-3）
+>
+> **基督的歸回**=**信徒最終歸宿的保證**
+
+---
+
+### 整本聖經的中心句
+
+許多神學家稱**約 16:28** 為「**基督生平的精華**」(The Essence of Christ's Life)：
+
+| 大段落 | 關鍵句 |
+|---|---|
+| 創 1:1 — 「**起初神創造**」 | 創造 |
+| 約 1:1 — 「**太初有道**」 | 永恆 |
+| **約 16:28 — 「我從父出來，到了世界；我又離開世界，往父那裡去」** | **基督生平** |
+| 啟 22:20 — 「**我必快來**」 | 主再來 |
+
+**這四節經文**就是**整本聖經的縮影**。
+
+---
+
+### 給讀者的反思 (Reflection)
+
+1. **對比你的人生**：你「**從哪裡來**」？「**正往哪裡去**」？基督的生命有清楚的方向；你有嗎？
+2. **效法基督的軌跡**：「**從父出**」→「**到世界**」→「**離世界**」→「**回父家**」—— 每個信徒**也走這條路**（約 17:18：「**你怎樣差我到世上，我也照樣差他們到世上**」）。
+3. **為主再來預備**：基督「**往父那裡去**」是為了「**再來接你們到他那裡**」（約 14:3）。**你準備好了嗎？**
+
+---
+
+### 默想 (Meditation)
+
+> 一切都從父開始，
+> 一切都歸父結束。
+> 中間的一切——
+> 馬槽、加利利、十架、空墳——
+> 都只是**父懷與父懷之間**的旅程。
+>
+> 而你的生命，
+> 也是同樣的旅程：
+> **從神而出，住在世間，回到神懷**。
+>
+> **這就是約翰福音 16:28 的奧秘**——
+> 也是**整本《耶穌基督完整生平》的開幕詞與閉幕詞**。
+
+---
+
 ## 配詩 (Hymns & Psalms)
 
 **聖詩**：*Abide with Me* (與我同住)
@@ -5761,6 +7601,18 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「我就是道路、真理、生命」——到父那裡去，不是靠一條路，是靠這一位。
+
+**貫通全經**：枝子連於真葡萄樹才能結果（約15）——不是你使勁結果，是住在祂裡面，祂的生命在你裡面長出果子。
+
+**無法迴避的問題**：「你是靠自己『使勁結果子』，還是『常在祂裡面』？離了祂，你能做什麼？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十六章*
 
 
@@ -5771,29 +7623,37 @@ MacArthur 強調三重「道」的含義：
 
 約翰福音 17:1-26
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+大祭司的禱告，主角是那位在受難前夜為門徒、為歷世歷代信徒代求的主。從祂的角度讀，祂求父榮耀祂、好叫祂榮耀父；祂為屬祂的人祈求合一、成聖與同享榮耀。這禱告顯明祂是那位「長遠活著，替我們祈求」的大祭司——救恩不僅成就在十架，也托住在祂不止息的代求裏。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 #### 為自己禱告（17:1-5）
 
-> \textsuperscript{1}耶穌說了這些話，就舉目望天說：「父啊，時候到了，願你榮耀你的兒子，使兒子也榮耀你；\textsuperscript{2}正如你曾賜給他權柄管理凡有血肉的，使他將永生賜給你所賜給他的人。\textsuperscript{3}認識你——獨一的真神，並且認識你所差來的耶穌基督，這就是永生。\textsuperscript{4}我在地上已經榮耀你，你交給我要做的工作，我已完成了。\textsuperscript{5}父啊，現在求你使我在你面前得榮耀，就是在未有世界以前，我同你享有的榮耀。」
+> \textsuperscript{1}耶穌說了這些話，就舉目望天說：\jesus{「父啊，時候到了，願你榮耀你的兒子，使兒子也榮耀你；\textsuperscript{2}正如你曾賜給他權柄管理凡有血肉的，使他將永生賜給你所賜給他的人。\textsuperscript{3}認識你——獨一的真神，並且認識你所差來的耶穌基督，這就是永生。\textsuperscript{4}我在地上已經榮耀你，你交給我要做的工作，我已完成了。\textsuperscript{5}父啊，現在求你使我在你面前得榮耀，就是在未有世界以前，我同你享有的榮耀。」}
 
 #### 為門徒禱告（17:6-19）
 
-> \textsuperscript{9}「我為他們祈求，不為世人祈求，卻為你所賜給我的人祈求，因為他們本是你的...\textsuperscript{11}從今以後，我不再在世上，他們卻在世上；我要到你那裏去。聖父啊，求你因你的名，就是你所賜給我的名，保守他們，使他們合而為一，像我們一樣。\textsuperscript{15}我不求你讓他們離開世界，只求你保守他們脫離那惡者。\textsuperscript{17}求你用真理使他們成聖；你的道就是真理。」
+> \textsuperscript{9}\jesus{「我為他們祈求，不為世人祈求，卻為你所賜給我的人祈求，因為他們本是你的...\textsuperscript{11}從今以後，我不再在世上，他們卻在世上；我要到你那裏去。聖父啊，求你因你的名，就是你所賜給我的名，保守他們，使他們合而為一，像我們一樣。\textsuperscript{15}我不求你讓他們離開世界，只求你保守他們脫離那惡者。\textsuperscript{17}求你用真理使他們成聖；你的道就是真理。」}
 
 #### 為所有信徒禱告（17:20-26）
 
-> \textsuperscript{20}「我不但為這些人祈求，也為那些藉着他們的話信我的人祈求，\textsuperscript{21}使他們都合而為一。正如父你在我裏面，我在你裏面，使他們也在我們裏面，好讓世人信你差了我來。\textsuperscript{22}你所賜給我的榮耀，我已賜給他們，使他們合而為一，像我們合而為一。\textsuperscript{23}我在他們裏面，你在我裏面，使他們完完全全合而為一，讓世人知道你差了我來，也知道你愛他們如同愛我一樣。」
+> \textsuperscript{20}\jesus{「我不但為這些人祈求，也為那些藉着他們的話信我的人祈求，\textsuperscript{21}使他們都合而為一。正如父你在我裏面，我在你裏面，使他們也在我們裏面，好讓世人信你差了我來。\textsuperscript{22}你所賜給我的榮耀，我已賜給他們，使他們合而為一，像我們合而為一。\textsuperscript{23}我在他們裏面，你在我裏面，使他們完完全全合而為一，讓世人知道你差了我來，也知道你愛他們如同愛我一樣。」}
 
-> \textsuperscript{24}「父啊，我在哪裏，願你所賜給我的人也同我在哪裏，讓他們看見你所賜給我的榮耀，因為創世以前，你已經愛我了。\textsuperscript{25}公義的父啊，世人雖不認識你，我卻認識你，這些人也知道你差了我來。\textsuperscript{26}我已經讓他們認識你的名，還要讓他們認識，使你愛我的愛在他們裏面，我也在他們裏面。」
+> \textsuperscript{24}\jesus{「父啊，我在哪裏，願你所賜給我的人也同我在哪裏，讓他們看見你所賜給我的榮耀，因為創世以前，你已經愛我了。\textsuperscript{25}公義的父啊，世人雖不認識你，我卻認識你，這些人也知道你差了我來。\textsuperscript{26}我已經讓他們認識你的名，還要讓他們認識，使你愛我的愛在他們裏面，我也在他們裏面。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{1}When Jesus had spoken these words, he lifted up his eyes to heaven, and said, "Father, the hour has come; glorify your Son that the Son may glorify you, \textsuperscript{2}since you have given him authority over all flesh, to give eternal life to all whom you have given him. \textsuperscript{3}And this is eternal life, that they know you, the only true God, and Jesus Christ whom you have sent."
+> \textsuperscript{1}Jesus spoke these words, lifted up His eyes to heaven, and said: \jesus{"Father, the hour has come. Glorify Your Son, that Your Son also may glorify You, \textsuperscript{2}as You have given Him authority over all flesh, that He should give eternal life to as many as You have given Him. \textsuperscript{3}And this is eternal life, that they may know You, the only true God, and Jesus Christ whom You have sent."}
 
-> \textsuperscript{20}"I do not ask for these only, but also for those who will believe in me through their word, \textsuperscript{21}that they may all be one, just as you, Father, are in me, and I in you, that they also may be in us, so that the world may believe that you have sent me."
+> \textsuperscript{20}\jesus{"I do not pray for these alone, but also for those who will believe in Me through their word; \textsuperscript{21}that they all may be one, as You, Father, are in Me, and I in You; that they also may be one in Us, that the world may believe that You sent Me."}
 
 ---
 
@@ -5947,6 +7807,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：祂是永遠的大祭司。亞倫一年一次進至聖所為百姓代求（利 16）；這位大祭司卻「長遠活著，替我們祈求」（來 7:25）。祂在受難前夜不為自己求脫離，反為門徒、為歷世歷代信徒祈求合一與成聖。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「受難前最後的夜晚，耶穌花時間做的，竟是為別人禱告——這說明祂的心在哪裡？」
+- 再問：「祂為信徒求的三件事是什麼？（合一、成聖、同享榮耀）」
+- 追問：「祂如今在父右邊還在做什麼？（替我們祈求）」
+- 落到自己：「你以為禱告全靠自己撐？此刻有一位正在父右邊，題你的名代求——你信嗎？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天人人都在「自我負責、自我驅動」，連屬靈生活也想靠意志硬撐，撐到耗盡。但你不是獨自在撐——有一位大祭司，此刻正題你的名代求。在一個讓人精疲力竭的時代，這是何等的安息：祂的禱告，托住你的軟弱。
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：安息在「主正在為我代求」這件事上，不靠自己硬撐去開始一天。
+- **晚上**：今天我有沒有為別人代求，像主為我代求那樣？
+- **一個行動**：今天具體地為一個人、題名禱告，效法主代求的心。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：受難前夜，大祭司不為自己求脫離，反為你我代求——救恩不只成在十架，也托在祂不止息的代求裡。
+
+**貫通全經**：亞倫一年一次進至聖所代求（利16）→ 這位大祭司「長遠活著，替我們祈求」（來7:25）。
+
+**無法迴避的問題**：「你以為禱告全靠自己撐？此刻有一位正在父右邊，題你的名代求——你信嗎？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，謝謝你—我的大祭司—此刻仍在父右邊，題我的名為我代求。當我精疲力竭、靠自己撐不住時，求你叫我安息在你的代求裡；也叫我學你的樣式，為別人代求。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十七章*
 
 
@@ -5957,17 +7862,25 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 26:36-56; 路加福音 22:39-53
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+客西馬尼的禱告，焦點不在沉睡的門徒或賣主的猶大，而在那位汗如血滴、卻說「不要照我的意思，只要照你的意思」的主。從祂的角度讀，祂所懼怕的那「杯」，是擔當世人罪孽、承受神忿怒的杯；祂順服至死的抉擇，正是第二亞當在園中的得勝。祂被捆綁，是為了讓我們得釋放。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 #### 掙扎禱告（太26:36-46）
 
-> \textsuperscript{36}耶穌和門徒來到一個地方，名叫客西馬尼，他對他們說：「你們坐在這裏，我到那邊去禱告。」\textsuperscript{37}於是他帶着彼得和西庇太的兩個兒子一起去，就憂愁起來，非常難過，\textsuperscript{38}對他們說：「我心裏非常憂傷，幾乎要死；你們留在這裏，和我一同警醒。」\textsuperscript{39}他就稍往前走，俯伏在地，禱告說：「我父啊，如果可能，求你使這杯離開我。然而，不是照我的意思，而是照你的意思。」
+> \textsuperscript{36}耶穌和門徒來到一個地方，名叫客西馬尼，他對他們說：\jesus{「你們坐在這裏，我到那邊去禱告。」}\textsuperscript{37}於是他帶着彼得和西庇太的兩個兒子一起去，就憂愁起來，非常難過，\textsuperscript{38}對他們說：\jesus{「我心裏非常憂傷，幾乎要死；你們留在這裏，和我一同警醒。」}\textsuperscript{39}他就稍往前走，俯伏在地，禱告說：\jesus{「我父啊，如果可能，求你使這杯離開我。然而，不是照我的意思，而是照你的意思。」}
 
-> \textsuperscript{40}他回到門徒那裏，見他們睡着了，就對彼得說：「怎麼樣？你們不能同我警醒一小時嗎？\textsuperscript{41}要警醒禱告，免得陷入試探。你們心靈固然願意，肉體卻軟弱了。」
+> \textsuperscript{40}他回到門徒那裏，見他們睡着了，就對彼得說：\jesus{「怎麼樣？你們不能同我警醒一小時嗎？\textsuperscript{41}要警醒禱告，免得陷入試探。你們心靈固然願意，肉體卻軟弱了。」}
 
-> \textsuperscript{42}他第二次又去禱告說：「我父啊，這杯若不能撤去，一定要我喝，願你的旨意成全。」
+> \textsuperscript{42}他第二次又去禱告說：\jesus{「我父啊，這杯若不能撤去，一定要我喝，願你的旨意成全。」}
 
 #### 路加福音 22:43-44 補充
 
@@ -5975,15 +7888,15 @@ MacArthur 強調三重「道」的含義：
 
 #### 被捕（太26:47-56）
 
-> \textsuperscript{47}他還在說話的時候，十二使徒中的猶大來了，還有一大群帶着刀棒的人，是從祭司長和民間的長老那裏來的。\textsuperscript{48}出賣耶穌的人給了他們一個暗號，說：「我跟誰親嘴，誰就是他。你們把他抓住。」\textsuperscript{49}他立刻走到耶穌面前，說：「老師，你好！」就熱情地跟他親嘴。\textsuperscript{50}耶穌對他說：「朋友，你來做的事就做吧！」於是那些人上前，動手拿住耶穌。
+> \textsuperscript{47}他還在說話的時候，十二使徒中的猶大來了，還有一大群帶着刀棒的人，是從祭司長和民間的長老那裏來的。\textsuperscript{48}出賣耶穌的人給了他們一個暗號，說：「我跟誰親嘴，誰就是他。你們把他抓住。」\textsuperscript{49}他立刻走到耶穌面前，說：「老師，你好！」就熱情地跟他親嘴。\textsuperscript{50}耶穌對他說：\jesus{「朋友，你來做的事就做吧！」}於是那些人上前，動手拿住耶穌。
 
-> \textsuperscript{52}耶穌對他說：「收刀入鞘吧！因為凡動刀的，必死在刀下。\textsuperscript{53}你以為我不能求我父立刻為我調派十二營多天使來嗎？\textsuperscript{54}若是這樣，經上所說事情必須如此發生的話怎麼應驗呢？」\textsuperscript{55}那時，耶穌對眾人說：「你們帶着刀棒出來拿我，如同拿強盜嗎？我天天坐在聖殿裏教導人，你們並沒有抓我。\textsuperscript{56}但這一切的事發生是要應驗先知書上的話。」當時，門徒都離開他，逃走了。
+> \textsuperscript{52}耶穌對他說：\jesus{「收刀入鞘吧！因為凡動刀的，必死在刀下。\textsuperscript{53}你以為我不能求我父立刻為我調派十二營多天使來嗎？\textsuperscript{54}若是這樣，經上所說事情必須如此發生的話怎麼應驗呢？」}\textsuperscript{55}那時，耶穌對眾人說：\jesus{「你們帶着刀棒出來拿我，如同拿強盜嗎？我天天坐在聖殿裏教導人，你們並沒有抓我。\textsuperscript{56}但這一切的事發生是要應驗先知書上的話。」}當時，門徒都離開他，逃走了。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{39}And going a little farther he fell on his face and prayed, saying, "My Father, if it be possible, let this cup pass from me; nevertheless, not as I will, but as you will."
+> \textsuperscript{39}He went a little farther and fell on His face, and prayed, saying, \jesus{"O My Father, if it is possible, let this cup pass from Me; nevertheless, not as I will, but as You will."}
 
-> \textsuperscript{42}Again, for the second time, he went away and prayed, "My Father, if this cannot pass unless I drink it, your will be done."
+> \textsuperscript{42}Again, a second time, He went away and prayed, saying, \jesus{"O My Father, if this cup cannot pass away from Me unless I drink it, Your will be done."}
 
 ---
 
@@ -6130,6 +8043,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：末後的亞當在園中得勝。第一個亞當在伊甸園「隨自己的意思」而墮落；末後的亞當在客西馬尼園說「不要照我的意思，只要照你的意思」而得勝。祂所懼怕的那「杯」，是承受神忿怒的杯（賽 51:17；詩 75:8）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「耶穌汗如血滴，祂懼怕的『杯』，是釘子的痛，還是別的？」
+- 再問：「那杯是什麼？（擔當世人的罪、承受神的忿怒）」
+- 追問：「第一個亞當在園中說『照我的』，末後的亞當在園中說什麼？」
+- 落到自己：「『不要照我的意思，只要照你的意思』——這句禱告你敢禱告嗎？哪件事上你還在說『照我的』？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天最高的價值是「自主」——我的人生我作主，凡事可訂製、可掌控。客西馬尼卻把人帶到一個更深的地方：把自主權交回給神。在一個高舉「照我的意思」的時代，你能不能在那件最難的事上，學主說一句「照你的意思」？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把今天一件你最想「照自己意思」的事，先交給父，說「願你的意思成全」。
+- **晚上**：今天哪件事上我堅持「照我的」，沒給神留餘地？
+- **一個行動**：今天在一個決定上，刻意先問「神的意思」，再問「我想要的」。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂在園中所懼怕的「杯」，不是釘子，是擔當你我的罪、承受神忿怒的杯；祂卻說「願你的意思成全」。
+
+**貫通全經**：第一個亞當在伊甸園「隨自己的意思」而墮落，末後的亞當在客西馬尼園「照你的意思」而得勝。
+
+**無法迴避的問題**：「『不要照我的意思，只要照你的意思』——這句禱告你敢禱告嗎？哪件事上你還在說『照我的』？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你在園中喝下那忿怒的杯，為要叫我得釋放。求你給我順服的心，在那件最難的事上，學你說：「不要照我的意思，只要照你的意思。」願你的旨意成全在我身上。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十八章*
 
 
@@ -6139,6 +8097,14 @@ MacArthur 強調三重「道」的含義：
 # 審判 (The Trials of Jesus)
 
 馬太福音 26:57-27:26; 約翰福音 18:13-19:16
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+六次審判，主角不是該亞法、彼拉多或希律，而是那位「像羊羔被牽到宰殺之地，卻不開口」的主。從祂的角度讀，受審的看似是祂，真正受審的卻是拒絕祂的世界；當祂承認自己是基督、是神的兒子、是王，祂正走向先知所預言受苦僕人的道路。審判者站在被告席上，為要叫有罪的得稱為義。
+
+---
 
 ## 經文 (Scripture)
 
@@ -6158,7 +8124,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{59}祭司長和全公會尋找假見證控告耶穌，要置他於死地。\textsuperscript{60}雖然有好些假證人上前來，仍找不着真憑實據。末後，有兩個人上前來，說：\textsuperscript{61}「這個人曾說：『我能拆毀神的殿，三日內把它重建起來。』」
 
-> \textsuperscript{62}大祭司就站起來，對耶穌說：「你甚麼都不回答嗎？這些人作見證告你的是甚麼呢？」\textsuperscript{63}耶穌卻不作聲。大祭司對他說：「我指着永生神命令你起誓告訴我們，你是不是基督，是神的兒子？」\textsuperscript{64}耶穌對他說：「是的，正如你說的。然而，我告訴你們，後來你們要看見人子坐在權能者的右邊，駕着天上的雲來臨。」\textsuperscript{65}大祭司就撕裂衣服，說：「他說了褻瀆的話，我們何必再找證人呢？這褻瀆的話，你們已經聽見了。\textsuperscript{66}你們的意見如何？」他們回答：「他該死！」
+> \textsuperscript{62}大祭司就站起來，對耶穌說：「你甚麼都不回答嗎？這些人作見證告你的是甚麼呢？」\textsuperscript{63}耶穌卻不作聲。大祭司對他說：「我指着永生神命令你起誓告訴我們，你是不是基督，是神的兒子？」\textsuperscript{64}耶穌對他說：\jesus{「是的，正如你說的。然而，我告訴你們，後來你們要看見人子坐在權能者的右邊，駕着天上的雲來臨。」}\textsuperscript{65}大祭司就撕裂衣服，說：「他說了褻瀆的話，我們何必再找證人呢？這褻瀆的話，你們已經聽見了。\textsuperscript{66}你們的意見如何？」他們回答：「他該死！」
 
 ---
 
@@ -6166,13 +8132,13 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{33}彼拉多又進了總督府，叫耶穌來，對他說：「你是猶太人的王嗎？」\textsuperscript{36}耶穌回答：「我的國不屬於這世界；我的國若屬於這世界，我的部下就會為我爭戰，使我不致被交給猶太人。只是，我的國不是這世界的。」\textsuperscript{37}彼拉多對他說：「那麼，你是王了？」耶穌回答：「你說我是王。我為此而生，也為此來到世界，為了給真理作見證。凡屬真理的人都聽我的話。」\textsuperscript{38}彼拉多對他說：「真理是甚麼？」
+> \textsuperscript{33}彼拉多又進了總督府，叫耶穌來，對他說：「你是猶太人的王嗎？」\textsuperscript{36}耶穌回答：\jesus{「我的國不屬於這世界；我的國若屬於這世界，我的部下就會為我爭戰，使我不致被交給猶太人。只是，我的國不是這世界的。」}\textsuperscript{37}彼拉多對他說：「那麼，你是王了？」耶穌回答：\jesus{「你說我是王。我為此而生，也為此來到世界，為了給真理作見證。凡屬真理的人都聽我的話。」}\textsuperscript{38}彼拉多對他說：「真理是甚麼？」
 
-> \textsuperscript{10}彼拉多對他說：「你不對我說話嗎？難道你不知道我有權柄釋放你，也有權柄把你釘十字架嗎？」\textsuperscript{11}耶穌回答：「若不是從上面賜給你的，你就毫無權柄辦我。所以，把我交給你的那人罪更重。」
+> \textsuperscript{10}彼拉多對他說：「你不對我說話嗎？難道你不知道我有權柄釋放你，也有權柄把你釘十字架嗎？」\textsuperscript{11}耶穌回答：\jesus{「若不是從上面賜給你的，你就毫無權柄辦我。所以，把我交給你的那人罪更重。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{36}Jesus answered, "My kingdom is not of this world. If my kingdom were of this world, my servants would have been fighting, that I might not be delivered over to the Jews. But my kingdom is not from the world." \textsuperscript{37}Then Pilate said to him, "So you are a king?" Jesus answered, "You say that I am a king. For this purpose I was born and for this purpose I have come into the world—to bear witness to the truth. Everyone who is of the truth listens to my voice." \textsuperscript{38}Pilate said to him, "What is truth?"
+> \textsuperscript{36}Jesus answered, \jesus{"My kingdom is not of this world. If My kingdom were of this world, My servants would fight, so that I should not be delivered to the Jews; but now My kingdom is not from here."} \textsuperscript{37}Pilate therefore said to Him, "Are You a king then?" Jesus answered, \jesus{"You say rightly that I am a king. For this cause I was born, and for this cause I have come into the world, that I should bear witness to the truth. Everyone who is of the truth hears My voice."} \textsuperscript{38}Pilate said to Him, "What is truth?"
 
 ---
 
@@ -6322,6 +8288,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：不開口的羔羊。「他被欺壓……卻不開口，像羊羔被牽到宰殺之地」（賽 53:7）在六次審判中應驗。受審的看似是祂，真正受審的，是拒絕祂的世界。彼得三次不認，應驗耶穌的預言（路 22:34）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「面對誣告，耶穌大可以為自己辯護，祂卻多半沉默——為什麼？」
+- 再問：「彼得在火邊三次不認主，他是什麼時候開始跌倒的？（遠遠地跟著、在火邊取暖）」
+- 追問：「真正在受審的，是站在被告席的主，還是審判祂的人？」
+- 落到自己：「壓力臨到，你是站在主這邊，還是站在取暖的火邊？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天表態的壓力無所不在——一個風向、一片群情，就能逼人「跟著喊」或「噤聲」。彼得不是在大難中跌倒，是在火邊圖一點溫暖時三次不認主。在一個容易被群情裹挾的時代，你會為了取暖、為了合群，悄悄不認你的主嗎？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求主給你勇氣，今天無論在哪裡，都不因怕人而不認祂。
+- **晚上**：今天我有沒有為了「合群、取暖」，淡化或隱藏了自己的信仰？
+- **一個行動**：今天在一個合適的場合，不迴避地承認自己是屬主的。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：受審的看似是祂，真正受審的，卻是拒絕祂的世界；那「不開口」的羔羊，正走向救贖。
+
+**貫通全經**：賽53:7「像羊羔被牽到宰殺之地……卻不開口」——祂的沉默，成全了預言。
+
+**無法迴避的問題**：「彼得在火邊三次不認主——壓力臨到，你是站在主這邊，還是站在取暖的火邊？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你像羊羔被牽到宰殺之地卻不開口，為我擔當一切。當我面對表態的壓力、怕人的試探，求你給我勇氣，不在火邊不認你，乃甘心站在你這一邊。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第二十九章*
 
 
@@ -6331,6 +8342,14 @@ MacArthur 強調三重「道」的含義：
 # 釘十字架 (The Crucifixion)
 
 馬太福音 27:27-56; 約翰福音 19:17-37
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+十字架，焦點不在兵丁、群眾或同釘的強盜，而在那位高喊「成了」的主。從祂的角度讀，詩篇二十二篇與以賽亞五十三章的每一筆都在祂身上應驗：分外衣、被戲笑、扎手腳、為罪人代死。「神的羔羊」在此除去世人的罪孽；那一聲「成了」，宣告救贖大功完全成就。
+
+---
 
 ## 經文 (Scripture)
 
@@ -6346,13 +8365,13 @@ MacArthur 強調三重「道」的含義：
 
 | 序 | 話語 | 經文 |
 |---|------|------|
-| 1 | 「父啊，赦免他們！因為他們所做的，他們不知道。」 | 路23:34 |
-| 2 | 「我實在告訴你，今日你要同我在樂園裏了。」 | 路23:43 |
-| 3 | 「母親，看，你的兒子！...看，你的母親！」 | 約19:26-27 |
-| 4 | 「我的神！我的神！為甚麼離棄我？」 | 太27:46 |
-| 5 | 「我渴了。」 | 約19:28 |
-| 6 | 「成了！」 | 約19:30 |
-| 7 | 「父啊，我將我的靈魂交在你手裏。」 | 路23:46 |
+| 1 | \jesus{「父啊，赦免他們！因為他們所做的，他們不知道。」} | 路23:34 |
+| 2 | \jesus{「我實在告訴你，今日你要同我在樂園裏了。」} | 路23:43 |
+| 3 | \jesus{「母親，看，你的兒子！...看，你的母親！」} | 約19:26-27 |
+| 4 | \jesus{「我的神！我的神！為甚麼離棄我？」} | 太27:46 |
+| 5 | \jesus{「我渴了。」} | 約19:28 |
+| 6 | \jesus{「成了！」} | 約19:30 |
+| 7 | \jesus{「父啊，我將我的靈魂交在你手裏。」} | 路23:46 |
 
 ---
 
@@ -6360,11 +8379,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{28}這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，就說：「我渴了。」\textsuperscript{29}有一個盛滿了醋的罐子放在那裏，他們就拿海綿蘸滿了醋，綁在牛膝草上，送到他口邊。\textsuperscript{30}耶穌嘗了那醋，就說：「成了！」便低下頭，將靈魂交付神了。
+> \textsuperscript{28}這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，就說：\jesus{「我渴了。」}\textsuperscript{29}有一個盛滿了醋的罐子放在那裏，他們就拿海綿蘸滿了醋，綁在牛膝草上，送到他口邊。\textsuperscript{30}耶穌嘗了那醋，就說：\jesus{「成了！」}便低下頭，將靈魂交付神了。
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{28}After this, Jesus, knowing that all was now finished, said (to fulfill the Scripture), "I thirst." \textsuperscript{29}A jar full of sour wine stood there, so they put a sponge full of the sour wine on a hyssop branch and held it to his mouth. \textsuperscript{30}When Jesus had received the sour wine, he said, "It is finished," and he bowed his head and gave up his spirit.
+> \textsuperscript{28}After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, \jesus{"I thirst!"} \textsuperscript{29}Now a vessel full of sour wine was sitting there; and they filled a sponge with sour wine, put it on hyssop, and put it to His mouth. \textsuperscript{30}So when Jesus had received the sour wine, He said, \jesus{"It is finished!"} And bowing His head, He gave up His spirit.
 
 ---
 
@@ -6507,6 +8526,179 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 重要事件深度啟示：架上七言完整解讀 (Key Event Deep Revelation: The Seven Sayings)
+
+> 從上午 9 時到下午 3 時，整整六小時，耶穌只說了**七句話**。每一句都是聖靈藉著痛苦保留下來，要叫世世代代的人從這七句話聽見**全部福音**。
+
+### 三組結構
+
+**第一組（前 3 言）面向他人 — 黑暗未到之前的恩典**
+1. **饒恕之言**：「父啊，赦免他們」(路 23:34)
+2. **救恩之言**：「你今日要同我在樂園裡」(路 23:43)
+3. **託付之言**：「看你的母親 / 看你的兒子」(約 19:26-27)
+
+**第二組（中間 1 言）面向父神 — 黑暗中的吶喊**
+
+4. **棄絕之言**：「我的神，為什麼離棄我」(太 27:46)
+
+**第三組（後 3 言）走向完成 — 黑暗過後的勝利**
+
+5. **肉身之言**：「我渴了」(約 19:28)
+6. **完成之言**：「成了！」(約 19:30)
+7. **交付之言**：「父啊，我將靈魂交在你手裡」(路 23:46)
+
+整體形狀：**從外到內，再從內到外** — 從關懷他人，到深入與父神的爭戰，再走出來完成救恩。
+
+---
+
+### 第一言：饒恕
+
+> 「父啊！赦免他們；因為他們所做的，他們不曉得。」
+
+**第一句話**——在手腳被釘那一刻所說。
+不是咒詛，不是抗議。**是禱告。是饒恕。是代求**。
+
+「他們」是誰？兵丁、宗教領袖、群眾、猶大、彼得、所有逃跑的門徒——**也是 2000 年來每一個因罪而參與釘他十架的我和你**。
+
+**這句話奠定了基督教的核心倫理：饒恕**。
+
+---
+
+### 第二言：救恩
+
+> 「我實在告訴你，今日你要同我在樂園裡了。」
+
+最簡潔的福音宣告——
+強盜**沒受洗、沒守聖餐、沒做善工、沒時間悔改**。他只說：「**主啊，記念我**」。
+
+耶穌的回答**超越他所求**：
+- 他求「**將來**」 → 主應「**今日**」
+- 他求「**記念**」 → 主應「**同在樂園**」
+
+**奧古斯丁**：「一個臨終悔改的，免得我們絕望；只有一個臨終悔改的，免得我們驕傲。」
+
+---
+
+### 第三言：託付
+
+> 「母親，看，你的兒子！...看，你的母親！」
+
+**新家庭的雛形**——肉身的母子關係轉換為**屬靈的母子關係**。
+**信主的就是兄弟姐妹**。教會在十字架腳下誕生。
+
+---
+
+### 黑暗降臨（中午 12 時 - 下午 3 時）
+
+> 「從午正到申初，遍地都黑暗了」（太 27:45）
+
+**超自然的黑暗**——大自然在見證**世界的光被拒絕**。
+這三小時內，神的兒子承擔人類所有的罪——而**父神的審判之眼必須轉開**。
+**這是地獄**。基督在這三小時內**經歷了地獄**——好叫信他的人永遠不必經歷地獄。
+
+---
+
+### 第四言：棄絕（最深的吶喊）
+
+> 「我的神，我的神，為甚麼離棄我？」
+
+**唯一不稱「父」而稱「神」**的一言。
+他成了罪本身（林後 5:21）；擔當了詛咒（加 3:13）；飲下了忿怒的杯。
+這是**整本聖經中最深的吶喊**——也是**最深的代贖**。
+
+引用**詩篇 22:1**——詩 22 整篇是基督被釘的鏡像：手腳被扎、骨頭可數、衣裳被分。詩篇後半段是**勝利的宣告**——希伯來文最後是 *kī ʿāśâh* = 「**他成了**」（與 19:30 同根）。
+
+**第四言不是絕望的吶喊，是已知結局的痛苦**——他正穿過深淵，但**他知道彼岸**。
+
+---
+
+### 第五言：肉身
+
+> 「我渴了。」
+
+**真實的肉身** — 駁斥幻影論。**他真的渴了**。
+**應驗詩篇** — 詩 22:15；詩 69:21。
+**諷刺對比** — 賜活水的他自己渴了，**為要人類永不渴**。
+
+牛膝草 (出 12:22 逾越節羔羊的血用牛膝草塗門框) — **塗血的工具**送到神的羔羊口邊。
+
+---
+
+### 第六言：成了！(Tetelestai)
+
+**Τετέλεσται** — 完成式被動，意思是「**已經完成，並且效果永遠持續**」。
+
+**這字在當時的日常用語中**：
+- 僕人完工：「任務完成了」
+- 大祭司獻完祭：「祭已獻完，神接納了」
+- 藝術家完工：「作品成了」
+- 商人收款：「債已還清」
+- 皇帝征服城門：「勝利了」
+
+每一用法都應驗在十字架上：
+- 父交給子的救贖之工**完成了**
+- 永遠的贖罪祭已**獻上**
+- 罪債**全付清了**
+- 撒但和死亡**被擊敗了**
+
+**「成了」不是「我完了」——是「我成功了」。**
+
+從亞當墮落起，神的計劃指向這一句。
+從亞伯拉罕應許起，神的拯救指向這一句。
+**整本聖經的中心句**。
+
+---
+
+### 第七言：交付
+
+> 「父啊！我將我的靈魂交在你手裡。」
+
+**重新稱「父」** — 父子關係立刻恢復。罪已被除盡，通往父的道路重新打開。
+引用**詩篇 31:5** — 敬虔猶太兒童每晚就寢前的禱告。
+**他用一個孩子睡前的禱告作為他最後的話**。
+
+**主動的最後宣告** —「沒有人奪我的命，是我自己捨的」(約 10:18)。
+**他主動把靈魂交還父神**。
+
+---
+
+### 七言所完成的「五大救贖」
+
+| 救贖 | 七言 |
+|---|---|
+| 罪得赦免 | 第一言 + 第六言 |
+| 人神和好 | 第四言 + 殿幔裂開 |
+| 撒但被破 | 第六言 (來 2:14) |
+| 死亡被勝 | 第七言 (預備復活) |
+| 新群體誕生 | 第三言 (馬利亞與約翰) |
+
+---
+
+### 死時的記號
+
+| 記號 | 意義 |
+|---|---|
+| 殿幔從上到下裂為兩半 | 通往神的道路打開；舊聖殿時代結束 |
+| 地震、磐石崩裂 | 大自然見證宇宙性事件 |
+| 墳墓開了，聖徒復活 | 死亡的權勢開始崩潰 |
+| 百夫長認信「真是神的兒子」 | 第一個外邦人認信 |
+
+---
+
+### 從十字架反觀整個基督生平
+
+讀完七言，再看基督的生平：**整個基督生平的全部能量，聚焦在這六小時。整個基督生平的全部意義，由這七言宣告。**
+
+- 道成肉身 — 為了**這一刻**
+- 30 年隱藏 — 為了**這一刻**
+- 受洗認同罪人 — 為了**這一刻**
+- 40 天試探 — 為了**這一刻**
+- 五餅二魚 — 為了**這一刻**
+- 變像 — 為了**這一刻**
+- 客西馬尼 — 為了**這一刻**
+
+---
+
 ## 配詩 (Hymns & Psalms)
 
 **聖詩**：*When I Survey the Wondrous Cross* (每逢思想奇妙十架)
@@ -6529,6 +8721,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：詩 22 與賽 53 的應驗。分外衣、被戲笑、扎手腳（詩 22:1、7、16、18），為罪人代死、與罪犯同列（賽 53:5、12），字字成就在十架上。「神的羔羊，除去世人罪孽的」（約 1:29）在此完工——那一聲「成了」（τετέλεσται）是得勝的宣告。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「『成了』這句話，是失敗的呻吟，還是得勝的宣告？」
+- 再問：「『成了』是什麼成了？（救贖大功、罪債一次付清）」
+- 追問：「詩篇 22、以賽亞 53 寫在數百上千年前，怎麼會與十架的細節一一吻合？」
+- 落到自己：「既然祂都『成了』，你還想加上自己的什麼功勞，來換取救恩？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的人活在無休止的「自我證明」裡——靠成績、靠表現、靠別人的肯定來換取價值，永遠覺得「還不夠」。十架卻喊出一句「成了」：該付的，主全付了；該做的，主全做了。在一個逼人不停證明自己的時代，你肯不肯安息在「成了」裡？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：默想「成了」二字，今天不靠表現去賺神的接納，而是從「已被接納」出發。
+- **晚上**：今天我有沒有又落回「靠自己證明、靠功勞換愛」的老路？
+- **一個行動**：今天停止一個「靠表現換肯定」的努力，單單安息在主已成就的恩典裡。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：那一聲「成了」（τετέλεσται）不是斷氣的呻吟，是得勝的宣告——救贖大功，一次完成。
+
+**貫通全經**：詩22與賽53每一筆（分外衣、扎手腳、與罪犯同列）字字應驗；「神的羔羊除去世人的罪孽」（約1:29）。
+
+**無法迴避的問題**：「『成了』——既然祂都成了，你還想加上自己的什麼功勞，來換取救恩？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你在十架上喊「成了」—該付的你全付了。求你叫我不再靠自己的表現去賺取你的接納，乃安息在你已成就的恩典裡；我把一切重擔交給那位為我成就一切的主。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第三十章*
 
 
@@ -6538,6 +8775,14 @@ MacArthur 強調三重「道」的含義：
 # 埋葬 (The Burial of Jesus)
 
 馬太福音 27:57-66; 約翰福音 19:38-42
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+埋葬，主角不是亞利馬太的約瑟或尼哥底母的香料，而是那位安葬在財主墳墓裏、應驗以賽亞預言的主。從祂的角度讀，這不是故事的結束，而是「一粒麥子落在地裏死了」的安息；安息日祂在墳墓中靜默，正如創造之工後神的安息。死亡看似得勝，其實是復活的前夜。
+
+---
 
 ## 經文 (Scripture)
 
@@ -6551,9 +8796,9 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{62}第二天，就是預備日的次日，祭司長和法利賽人聚集來見彼拉多，說：\textsuperscript{63}「大人，我們記得那迷惑人的還活着的時候曾說：『三日後我要復活。』\textsuperscript{64}因此，請吩咐人將墳墓把守妥當，直到第三日，恐怕他的門徒來把他偷了去，然後告訴百姓說：『他從死人中復活了。』這樣，那後來的欺騙比先前的更厲害了！」\textsuperscript{65}彼拉多說：「你們有看守的人，去吧！盡你們所能的把守妥當。」\textsuperscript{66}他們就帶着看守的人同去，封了石頭，把墳墓把守妥當。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{38}After these things Joseph of Arimathea, who was a disciple of Jesus, but secretly for fear of the Jews, asked Pilate that he might take away the body of Jesus, and Pilate gave him permission. So he came and took away his body. \textsuperscript{39}Nicodemus also, who earlier had come to Jesus by night, came bringing a mixture of myrrh and aloes, about seventy-five pounds in weight. \textsuperscript{40}So they took the body of Jesus and bound it in linen cloths with the spices, as is the burial custom of the Jews. \textsuperscript{41}Now in the place where he was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid. \textsuperscript{42}So because of the Jewish day of Preparation, since the tomb was close at hand, they laid Jesus there.
+> \textsuperscript{38}After this, Joseph of Arimathea, being a disciple of Jesus, but secretly, for fear of the Jews, asked Pilate that he might take away the body of Jesus; and Pilate gave him permission. So he came and took the body of Jesus. \textsuperscript{39}And Nicodemus, who at first came to Jesus by night, also came, bringing a mixture of myrrh and aloes, about a hundred pounds. \textsuperscript{40}Then they took the body of Jesus, and bound it in strips of linen with the spices, as the custom of the Jews is to bury. \textsuperscript{41}Now in the place where He was crucified there was a garden, and in the garden a new tomb in which no one had yet been laid. \textsuperscript{42}So there they laid Jesus, because of the Jews' Preparation Day, for the tomb was nearby.
 
 ---
 
@@ -6716,6 +8961,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：與財主同葬。「他……與財主同葬」（賽 53:9）藉亞利馬太的約瑟應驗。安息日祂在墓中靜默，正如神在創造之工後安息（創 2:2）；這也是「一粒麥子落在地裡死了」的安息（約 12:24）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「主死了，葬在墳墓裡——這是故事的結束，還是另有意思？」
+- 再問：「安息日祂在墓中『靜默』，這讓你想起創造後的哪一天？」
+- 追問：「『一粒麥子落在地裡死了』之後會怎樣？」
+- 落到自己：「在你看不見動靜的『安息日』——那些等候、沉默、看似神不作為的日子——你還信祂在工作嗎？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天我們被訓練成受不了「等待」——進度條多轉一秒都焦躁，凡事要即時、要看得見回應。但門徒經歷的那個安息日，神看似完全沉默。在一個「即時」上癮的時代，你能不能在神看似不作為的「週六」，仍然信祂在暗中動工？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把一件「等了很久、還沒動靜」的事交給那位在沉默中仍動工的主。
+- **晚上**：今天我面對「神好像沒回應」時，是焦躁，還是安息？
+- **一個行動**：今天刻意操練一次「安靜等候」，不急著自己動手解決。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂葬在財主的新墳裡，安息日靜默在墓中——不是故事的結束，是「一粒麥子落在地裡」的安息。
+
+**貫通全經**：賽53:9「他……與財主同葬」字字應驗；正如神在創造之工後安息，這位創造主在救贖之工後也安息了一日。
+
+**無法迴避的問題**：「在你看不見動靜的『安息日』——那些等候、沉默、看似神不作為的日子——你還信祂在工作嗎？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，在那看不見動靜的安息日，你仍在工作。當我面對沉默、等候、似乎你不作為的日子，求你叫我仍然相信—那落在地裡的麥子，必要結出許多子粒來。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第三十一章*
 
 
@@ -6725,6 +9015,14 @@ MacArthur 強調三重「道」的含義：
 # 復活 (The Resurrection)
 
 馬太福音 28:1-15; 約翰福音 20:1-18
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+空墳墓，焦點不在驚惶的婦女或守墓的兵丁，而在那位「不在這裏，已經復活了」的主。從祂的角度讀，復活不是復甦，而是祂勝過死亡、成為「睡了之人初熟的果子」；祂先前所說「三日要再建立起來」的話，如今應驗。墳墓空了，因為主角從來不被死亡留住——祂活著，直到永永遠遠。
+
+---
 
 ## 經文 (Scripture)
 
@@ -6740,11 +9038,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{11}馬利亞卻站在墳墓外面哭。她一面哭，一面低頭往墳墓裏看，\textsuperscript{12}看見兩個穿白衣的天使坐在安放耶穌身體的地方，一個在頭，一個在腳。\textsuperscript{13}天使對她說：「女人，你為甚麼哭？」她說：「因為有人把我主移走了，我不知道他們把他放在哪裏。」\textsuperscript{14}說了這話，她轉過身來，看見耶穌站在那裏，卻不知道那是耶穌。\textsuperscript{15}耶穌問她：「女人，你為甚麼哭？你找誰？」馬利亞以為是園丁，就對他說：「先生，若是你把他移走了，請告訴我你把他放在哪裏，我去把他移回來。」\textsuperscript{16}耶穌對她說：「馬利亞！」馬利亞轉過身來，用希伯來話對他說：「拉波尼！」——就是「老師」的意思。\textsuperscript{17}耶穌對她說：「不要拉住我，因為我還沒有升上去見我的父。你去到我的弟兄那裏，告訴他們我要升上去見我的父，也是你們的父，見我的神，也是你們的神。」\textsuperscript{18}抹大拉的馬利亞就去告訴門徒：「我已經看見了主！」她又把主對她說的話告訴他們。
+> \textsuperscript{11}馬利亞卻站在墳墓外面哭。她一面哭，一面低頭往墳墓裏看，\textsuperscript{12}看見兩個穿白衣的天使坐在安放耶穌身體的地方，一個在頭，一個在腳。\textsuperscript{13}天使對她說：「女人，你為甚麼哭？」她說：「因為有人把我主移走了，我不知道他們把他放在哪裏。」\textsuperscript{14}說了這話，她轉過身來，看見耶穌站在那裏，卻不知道那是耶穌。\textsuperscript{15}耶穌問她：\jesus{「女人，你為甚麼哭？你找誰？」}馬利亞以為是園丁，就對他說：「先生，若是你把他移走了，請告訴我你把他放在哪裏，我去把他移回來。」\textsuperscript{16}耶穌對她說：\jesus{「馬利亞！」}馬利亞轉過身來，用希伯來話對他說：「拉波尼！」——就是「老師」的意思。\textsuperscript{17}耶穌對她說：\jesus{「不要拉住我，因為我還沒有升上去見我的父。你去到我的弟兄那裏，告訴他們我要升上去見我的父，也是你們的父，見我的神，也是你們的神。」}\textsuperscript{18}抹大拉的馬利亞就去告訴門徒：「我已經看見了主！」她又把主對她說的話告訴他們。
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{15}Jesus said to her, "Woman, why are you weeping? Whom are you seeking?" Supposing him to be the gardener, she said to him, "Sir, if you have carried him away, tell me where you have laid him, and I will take him away." \textsuperscript{16}Jesus said to her, "Mary." She turned and said to him in Aramaic, "Rabboni!" (which means Teacher). \textsuperscript{17}Jesus said to her, "Do not cling to me, for I have not yet ascended to the Father; but go to my brothers and say to them, 'I am ascending to my Father and your Father, to my God and your God.'" \textsuperscript{18}Mary Magdalene went and announced to the disciples, "I have seen the Lord"—and that he had said these things to her.
+> \textsuperscript{15}Jesus said to her, \jesus{"Woman, why are you weeping? Whom are you seeking?"} She, supposing Him to be the gardener, said to Him, "Sir, if You have carried Him away, tell me where You have laid Him, and I will take Him away." \textsuperscript{16}Jesus said to her, \jesus{"Mary!"} She turned and said to Him, "Rabboni!" (which is to say, Teacher). \textsuperscript{17}Jesus said to her, \jesus{"Do not cling to Me, for I have not yet ascended to My Father; but go to My brethren and say to them, 'I am ascending to My Father and your Father, and to My God and your God.'"} \textsuperscript{18}Mary Magdalene came and told the disciples that she had seen the Lord, and that He had spoken these things to her.
 
 ---
 
@@ -6881,6 +9179,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：預言的復活。「不叫你的聖者見朽壞」（詩 16:10，徒 2:27 引用）；約拿三日三夜在魚腹（拿 1:17；太 12:40）預表三日復活。祂成了「睡了之人初熟的果子」（林前 15:20）——死亡留不住生命的主。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「天使說『他不在這裡』——這句話是壞消息，還是最好的消息？」
+- 再問：「復活和『復甦、急救回來』有什麼不同？」
+- 追問：「祂先前說『三日要再建立起來』，這時應驗了——這證明祂的話怎樣？」
+- 落到自己：「祂活著——這不只是復活節的信條，這對你今天的懼怕、你今天的墳墓，意味著什麼？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天人想盡辦法否認、延緩死亡——從養生到延壽研究，盼著科技終有一天「解決」死亡。但沒有一樣能讓人勝過死亡，惟有一座空墳墓做到了。在一個忌諱談死、又拿死沒辦法的時代，復活的主是你唯一真實、活著的盼望。
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：因祂活著，把今天的懼怕交給祂——「祂既勝過死亡，這件事還難得倒祂嗎？」
+- **晚上**：今天我活得像「主已復活、掌權」，還是像墳墓還封著？
+- **一個行動**：今天為一件你以為「死透了、沒指望」的事，重新獻上盼望的禱告。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「他不在這裡，已經復活了」——死亡留不住生命的主；祂是睡了之人初熟的果子。
+
+**貫通全經**：詩16:10「不叫你的聖者見朽壞」；約拿三日三夜在魚腹（太12:40）預表三日復活。
+
+**無法迴避的問題**：「祂活著——這不只是復活節的信條，這對你今天的懼怕、你今天的墳墓，意味著什麼？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你已經復活，死亡留不住你。因你活著，求你叫我也勝過懼怕；對著我以為死透了、再沒指望的事，求你叫我重新獻上盼望—你既勝過死亡，這事還難得倒你嗎？阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第三十二章*
 
 
@@ -6891,6 +9234,14 @@ MacArthur 強調三重「道」的含義：
 
 路加福音 24:13-49; 約翰福音 20:19-21:25
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+復活顯現，主角不是多疑的多馬或灰心的兩個門徒，而是那位親自走近、擘餅、給人看釘痕的主。從祂的角度讀，以馬忤斯路上祂從摩西和眾先知講解「指著自己的話」，多馬俯伏稱祂「我的主，我的神」，彼得三次被問「你愛我嗎」而得復職。復活的主仍主動尋找祂的羊，叫憂愁的心火熱、跌倒的人重新得力。
+
+---
+
 ## 經文 (Scripture)
 
 ### 以馬忤斯路上（路加福音 24:13-35）
@@ -6899,7 +9250,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{13}就在那一天，門徒中有兩個人往一個村子去；這村子名叫以馬忤斯，離耶路撒冷約有二十五里。\textsuperscript{14}他們彼此談論所發生的這一切事。\textsuperscript{15}正談話討論的時候，耶穌親自走近他們，和他們同行；\textsuperscript{16}可是他們的眼睛被蒙蔽，認不出他來。
 
-> \textsuperscript{25}耶穌對他們說：「無知的人哪，先知所說的一切話，你們的心竟遲鈍，不能相信！\textsuperscript{26}基督不是必須受這些苦難，然後進入他的榮耀嗎？」\textsuperscript{27}於是他從摩西和眾先知起，凡經上所指着自己的話都給他們作了解釋。
+> \textsuperscript{25}耶穌對他們說：\jesus{「無知的人哪，先知所說的一切話，你們的心竟遲鈍，不能相信！\textsuperscript{26}基督不是必須受這些苦難，然後進入他的榮耀嗎？」}\textsuperscript{27}於是他從摩西和眾先知起，凡經上所指着自己的話都給他們作了解釋。
 
 > \textsuperscript{30}到了坐席的時候，耶穌拿起餅來，祝福了，擘開，遞給他們。\textsuperscript{31}他們的眼睛開了，這才認出他來。忽然耶穌不見了。\textsuperscript{32}他們彼此說：「在路上他和我們說話，給我們講解聖經的時候，我們的心豈不是火熱的嗎？」
 
@@ -6911,7 +9262,7 @@ MacArthur 強調三重「道」的含義：
 
 > \textsuperscript{24}那十二個門徒中有一個叫多馬，又稱為低土馬；耶穌來的時候，他沒有和他們在一起。\textsuperscript{25}其他的門徒對他說：「我們已經看見主了。」多馬卻對他們說：「除非我看見他手上的釘痕，用我的指頭探入那釘痕，用我的手探入他的肋旁，我絕不信。」
 
-> \textsuperscript{26}過了八天，門徒又在屋裏，多馬也和他們在一起。門都關了，耶穌來，站在當中，說：「願你們平安！」\textsuperscript{27}然後他對多馬說：「把你的指頭伸到這裏來，看看我的手；把你的手伸過來，探入我的肋旁。不要疑惑，總要信！」\textsuperscript{28}多馬回答，對他說：「我的主！我的神！」\textsuperscript{29}耶穌對他說：「你因看見了我才信嗎？那沒有看見卻信的有福了！」
+> \textsuperscript{26}過了八天，門徒又在屋裏，多馬也和他們在一起。門都關了，耶穌來，站在當中，說：\jesus{「願你們平安！」}\textsuperscript{27}然後他對多馬說：\jesus{「把你的指頭伸到這裏來，看看我的手；把你的手伸過來，探入我的肋旁。不要疑惑，總要信！」}\textsuperscript{28}多馬回答，對他說：「我的主！我的神！」\textsuperscript{29}耶穌對他說：\jesus{「你因看見了我才信嗎？那沒有看見卻信的有福了！」}
 
 ---
 
@@ -6919,11 +9270,11 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{15}他們吃完了早飯，耶穌對西門．彼得說：「約翰的兒子西門，你愛我比這些更深嗎？」彼得對他說：「主啊，是的，你知道我愛你。」耶穌說：「你餵養我的小羊。」\textsuperscript{16}耶穌第二次又對他說：「約翰的兒子西門，你愛我嗎？」彼得對他說：「主啊，是的，你知道我愛你。」耶穌說：「你牧養我的羊。」\textsuperscript{17}耶穌第三次對他說：「約翰的兒子西門，你愛我嗎？」彼得因為耶穌第三次對他說「你愛我嗎」，就憂愁起來，對耶穌說：「主啊，你無所不知，你知道我愛你。」耶穌說：「你餵養我的羊。」
+> \textsuperscript{15}他們吃完了早飯，耶穌對西門．彼得說：\jesus{「約翰的兒子西門，你愛我比這些更深嗎？」}彼得對他說：「主啊，是的，你知道我愛你。」耶穌說：\jesus{「你餵養我的小羊。」}\textsuperscript{16}耶穌第二次又對他說：\jesus{「約翰的兒子西門，你愛我嗎？」}彼得對他說：「主啊，是的，你知道我愛你。」耶穌說：\jesus{「你牧養我的羊。」}\textsuperscript{17}耶穌第三次對他說：\jesus{「約翰的兒子西門，你愛我嗎？」}彼得因為耶穌第三次對他說「你愛我嗎」，就憂愁起來，對耶穌說：「主啊，你無所不知，你知道我愛你。」耶穌說：\jesus{「你餵養我的羊。」}
 
-### English — ESV
+### English — NKJV
 
-> \textsuperscript{27}Then he said to Thomas, "Put your finger here, and see my hands; and put out your hand, and place it in my side. Do not disbelieve, but believe." \textsuperscript{28}Thomas answered him, "My Lord and my God!" \textsuperscript{29}Jesus said to him, "Have you believed because you have seen me? Blessed are those who have not seen and yet have believed."
+> \textsuperscript{27}Then He said to Thomas, \jesus{"Reach your finger here, and look at My hands; and reach your hand here, and put it into My side. Do not be unbelieving, but believing."} \textsuperscript{28}And Thomas answered and said to Him, "My Lord and my God!" \textsuperscript{29}Jesus said to him, \jesus{"Thomas, because you have seen Me, you have believed. Blessed are those who have not seen and yet have believed."}
 
 ---
 
@@ -7084,6 +9435,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：以經解經的主。在以馬忤斯路上，祂「從摩西和眾先知起，凡指著自己的話都給他們講解明白」（路 24:27）——全本舊約都是指著祂。多馬摸著釘痕，俯伏稱祂「我的主，我的神」（約 20:28）；彼得三次被問「你愛我嗎」而得復職（約 21）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「兩個門徒灰心走向以馬忤斯，耶穌怎麼挽回他們？（講解聖經，叫心火熱）」
+- 再問：「彼得三次不認主，主就三次問什麼？這次序有什麼用意？」
+- 追問：「復活的主大可以責備、定罪，祂卻做了什麼？」
+- 落到自己：「彼得三次不認，主三次問『你愛我嗎』——主給你的，是定罪，還是復職的恩典？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天是「記錄永不消失、犯錯就被翻舊帳」的時代——失敗被截圖、被存檔、被反覆提起。彼得當眾跌倒，復活的主卻不翻舊帳，反而三次給他復職的機會。在一個難以饒恕、難被饒恕的時代，主的恩典是：失敗不是你的終點。
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：把你過去的一次失敗交給主，接受祂「復職」的恩典，不再被它定義。
+- **晚上**：今天我對待別人的失敗，是「翻舊帳」，還是給他重來的機會？
+- **一個行動**：今天饒恕一個你一直記著他過錯的人，或放過一次自己的舊錯。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：復活的主主動走近——向多馬伸出釘痕，向灰心的兩人講解聖經，向跌倒的彼得三問「你愛我嗎」。
+
+**貫通全經**：祂「從摩西和眾先知起，凡指著自己的話都給他們講解明白」（路24:27）——全本舊約都是指著祂。
+
+**無法迴避的問題**：「彼得三次不認，主就三次問『你愛我嗎』——主給你的，是定罪，還是復職的恩典？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你向跌倒的彼得三次問「你愛我嗎」，不是定罪，乃是復職。謝謝你不翻我的舊帳。求你叫我接受你復職的恩典，不再被過去的失敗定義，也照樣以恩典待別人。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第三十三章*
 
 
@@ -7094,17 +9490,25 @@ MacArthur 強調三重「道」的含義：
 
 馬太福音 28:16-20; 使徒行傳 1:1-11
 
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+升天與大使命，焦點不在仰望天空的門徒，而在那位宣告「天上地下所有的權柄都賜給我了」的主。從祂的角度讀，使萬民作門徒的命令之所以能成，是因為差遣的主擁有萬有的權柄、又應許「我就常與你們同在」。祂升上高天坐在父右邊，不是離開，而是以君王的身分掌權，並要照樣再來。
+
+---
+
 ## 經文 (Scripture)
 
 ### 大使命（馬太福音 28:16-20）
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{16}十一個門徒往加利利去，到了耶穌指定的山上。\textsuperscript{17}他們見了耶穌就拜他，然而還有人懷疑。\textsuperscript{18}耶穌進前來，對他們說：「天上地下所有的權柄都賜給我了。\textsuperscript{19}所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗，\textsuperscript{20}凡我所吩咐你們的，都教導他們遵守。看哪，我天天與你們同在，直到世界的末了。」
+> \textsuperscript{16}十一個門徒往加利利去，到了耶穌指定的山上。\textsuperscript{17}他們見了耶穌就拜他，然而還有人懷疑。\textsuperscript{18}耶穌進前來，對他們說：\jesus{「天上地下所有的權柄都賜給我了。\textsuperscript{19}所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗，\textsuperscript{20}凡我所吩咐你們的，都教導他們遵守。看哪，我天天與你們同在，直到世界的末了。」}
 
-#### English — ESV
+#### English — NKJV
 
-> \textsuperscript{18}And Jesus came and said to them, "All authority in heaven and on earth has been given to me. \textsuperscript{19}Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, \textsuperscript{20}teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."
+> \textsuperscript{18}And Jesus came and spoke to them, saying, \jesus{"All authority has been given to Me in heaven and on earth. \textsuperscript{19}Go therefore and make disciples of all the nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, \textsuperscript{20}teaching them to observe all things that I have commanded you; and lo, I am with you always, even to the end of the age."} Amen.
 
 ---
 
@@ -7112,7 +9516,7 @@ MacArthur 強調三重「道」的含義：
 
 #### 中文 — 和合本修訂版 (RCUV)
 
-> \textsuperscript{6}他們聚集的時候，問耶穌：「主啊，你就要在這時候復興以色列國嗎？」\textsuperscript{7}耶穌對他們說：「父憑着自己的權柄所定的時候或日期，不是你們可以知道的。\textsuperscript{8}但聖靈降臨在你們身上，你們就必得着能力，並要在耶路撒冷、猶太全地、撒瑪利亞，直到地極，作我的見證。」
+> \textsuperscript{6}他們聚集的時候，問耶穌：「主啊，你就要在這時候復興以色列國嗎？」\textsuperscript{7}耶穌對他們說：\jesus{「父憑着自己的權柄所定的時候或日期，不是你們可以知道的。\textsuperscript{8}但聖靈降臨在你們身上，你們就必得着能力，並要在耶路撒冷、猶太全地、撒瑪利亞，直到地極，作我的見證。」}
 
 > \textsuperscript{9}說了這些話，他們正看的時候，他就被接上升，有一朵雲彩把他接去，他們看不見他了。\textsuperscript{10}當他往上去，他們定睛望天的時候，忽然有兩個穿白衣的人站在旁邊，說：\textsuperscript{11}「加利利人哪，你們為甚麼站着望天呢？這離開你們被接升天的耶穌，你們見他怎樣往天上去，他還要怎樣來。」
 
@@ -7306,6 +9710,51 @@ MacArthur 強調三重「道」的含義：
 
 ---
 
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：登基掌權的人子。「人子得了權柄、榮耀、國度」（但 7:14）；「你坐在我的右邊」（詩 110:1）。升天不是離開，是登基——祂以萬有的權柄差遣門徒，並應許「我就常與你們同在」，且要照樣再來（徒 1:11）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「大使命的命令『你們要去』，前面那句根據是什麼？（天上地下所有的權柄都賜給我了）」
+- 再問：「祂升天『離開』了，為什麼反而說『我常與你們同在』？」
+- 追問：「祂如今在哪裡、做什麼？（坐在父右邊掌權）」
+- 落到自己：「你還在用自己的『不能』，推辭祂的『你們要去』嗎？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天太多人活在「無力感」裡——世界這麼大、問題這麼多，我能做什麼？但大使命的根據不是你的能力，是那位差遣你的主握有萬有的權柄。在一個讓人覺得渺小無力的時代，你的「去」，靠的不是自己的足夠，是祂的權柄與同在。
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：承認自己的「不能」，支取那位掌權之主的「都賜給我了」，帶著祂的同在出門。
+- **晚上**：今天我有沒有用「我不行」推掉了主要我去做的事？
+- **一個行動**：今天向一個人具體地見證主，或服事一個人，憑祂的權柄而非自己的能力。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：祂升天不是離開，是登基——「天上地下所有的權柄都賜給我了」，所以「你們要去」。
+
+**貫通全經**：但以理7:14人子得了權柄、榮耀、國度；詩110:1「你坐在我的右邊」——升天的主如今掌權，並要照樣再來。
+
+**無法迴避的問題**：「大使命之所以能成，是因差遣的主握有萬有的權柄——你還在用自己的『不能』，推辭祂的『你們要去』嗎？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你升天作王，天上地下所有的權柄都在你手中。當我覺得渺小無力，求你叫我不再用「我不能」推辭你的「你們要去」；靠你的權柄與同在，我願去作你的見證。阿們。
+
+---
+
 *三書精讀項目 · 耶穌基督完整生平 · 第三十四章 · 完*
 
 ---
@@ -7317,6 +9766,883 @@ MacArthur 強調三重「道」的含義：
 > — 約翰福音 1:14
 
 ---
+
+
+\pagebreak
+
+
+# 五旬節 (Pentecost)
+
+使徒行傳 Acts 1-2
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+五旬節，主角不是火舌或方言的神蹟，而是那位升天後「從父領受了所應許的聖靈」、將之澆灌下來的主。從祂的角度讀，彼得講道的結論是「神已經立他為主、為基督了」；聖靈降臨不是取代基督，而是高舉並見證這位被釘又復活的主。教會的誕生，是升天之王在地上工作的延續。
+
+---
+
+## 經文 (Scripture)
+
+### 一、升天與應許 (The Ascension and Promise)
+
+使徒行傳 1:1-11
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{1}提阿非羅啊，我已經作了前書，論到耶穌開頭一切所行所教導的，\textsuperscript{2}直到他藉着聖靈吩咐所揀選的使徒後被接上升的日子。\textsuperscript{3}他受害以後，用許多確據向使徒顯明自己是活着的，四十天之久向他們顯現，講論神國的事。
+
+> \textsuperscript{4}耶穌和他們聚集的時候，囑咐他們說：\jesus{「不要離開耶路撒冷，要等候父的應許，就是你們聽我說過的。\textsuperscript{5}約翰是用水施洗，但不多幾日，你們要受聖靈的洗。」}
+
+> \textsuperscript{6}他們聚集的時候，問耶穌說：「主啊，你復興以色列國就在這時候嗎？」\textsuperscript{7}耶穌對他們說：\jesus{「父憑着自己的權柄所定的時候或日期，不是你們可以知道的。\textsuperscript{8}但聖靈降臨在你們身上，你們就必得着能力，並要在耶路撒冷、猶太全地和撒瑪利亞，直到地極，作我的見證。」}
+
+> \textsuperscript{9}說了這些話，他們正看的時候，他被取上升，有一朵雲彩把他接去，便看不見他了。\textsuperscript{10}他往上升的時候，他們定睛望天，忽然有兩個穿白衣的人站在他們旁邊，\textsuperscript{11}說：「加利利人哪，你們為甚麼站着望天呢？這離開你們被接升天的耶穌，你們見他怎樣往天上去，他還要怎樣來。」
+
+#### English — NKJV
+
+> \textsuperscript{1}The former account I made, O Theophilus, of all that Jesus began both to do and teach, \textsuperscript{2}until the day in which He was taken up, after He through the Holy Spirit had given commandments to the apostles whom He had chosen, \textsuperscript{3}to whom He also presented Himself alive after His suffering by many infallible proofs, being seen by them during forty days and speaking of the things pertaining to the kingdom of God.
+
+> \textsuperscript{4}And being assembled together with them, He commanded them not to depart from Jerusalem, but to wait for the Promise of the Father, "which," He said, \jesus{"you have heard from Me; \textsuperscript{5}for John truly baptized with water, but you shall be baptized with the Holy Spirit not many days from now."}
+
+> \textsuperscript{6}Therefore, when they had come together, they asked Him, saying, "Lord, will You at this time restore the kingdom to Israel?" \textsuperscript{7}And He said to them, \jesus{"It is not for you to know times or seasons which the Father has put in His own authority. \textsuperscript{8}But you shall receive power when the Holy Spirit has come upon you; and you shall be witnesses to Me in Jerusalem, and in all Judea and Samaria, and to the end of the earth."}
+
+> \textsuperscript{9}Now when He had spoken these things, while they watched, He was taken up, and a cloud received Him out of their sight. \textsuperscript{10}And while they looked steadfastly toward heaven as He went up, behold, two men stood by them in white apparel, \textsuperscript{11}who also said, "Men of Galilee, why do you stand gazing up into heaven? This same Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven."
+
+---
+
+### 二、五旬節聖靈降臨 (The Coming of the Holy Spirit)
+
+使徒行傳 2:1-13
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{1}五旬節那日到了，門徒都聚集在一處。\textsuperscript{2}忽然，從天上有響聲下來，好像一陣大風吹過，充滿了他們所坐的整座屋子；\textsuperscript{3}又有舌頭如火焰向他們顯現，分開落在他們每個人身上。\textsuperscript{4}他們都被聖靈充滿，就按着聖靈所賜的口才說起別國的話來。
+
+> \textsuperscript{5}那時，有從天下各國來的虔誠的猶太人，住在耶路撒冷。\textsuperscript{6}這聲音一響，眾人都來聚集，各人聽見門徒用他們各人的鄉談說話，就甚納悶，\textsuperscript{7}都詫異驚奇說：「看哪，這些說話的不都是加利利人嗎？\textsuperscript{8}我們各人怎麼聽見他們說我們生來所用的鄉談呢？」
+
+> \textsuperscript{12}眾人都驚訝困惑，彼此說：「這是甚麼意思呢？」\textsuperscript{13}還有人譏諷說：「他們是灌滿了新酒吧！」
+
+#### English — NKJV
+
+> \textsuperscript{1}When the Day of Pentecost had fully come, they were all with one accord in one place. \textsuperscript{2}And suddenly there came a sound from heaven, as of a rushing mighty wind, and it filled the whole house where they were sitting. \textsuperscript{3}Then there appeared to them divided tongues, as of fire, and one sat upon each of them. \textsuperscript{4}And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit gave them utterance.
+
+> \textsuperscript{5}And there were dwelling in Jerusalem Jews, devout men, from every nation under heaven. \textsuperscript{6}And when this sound occurred, the multitude came together, and were confused, because everyone heard them speak in his own language. \textsuperscript{7}Then they were all amazed and marveled, saying to one another, "Look, are not all these who speak Galileans? \textsuperscript{8}And how is it that we hear, each in our own language in which we were born?"
+
+> \textsuperscript{12}So they were all amazed and perplexed, saying to one another, "Whatever could this mean?" \textsuperscript{13}Others mocking said, "They are full of new wine."
+
+---
+
+### 三、彼得的講道 (Peter's Sermon)
+
+使徒行傳 2:14-41
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{14}彼得和十一個使徒站起來，他就高聲向眾人說：「猶太人和所有住在耶路撒冷的人哪，這件事你們要知道，要側耳聽我的話。\textsuperscript{15}這些人並非像你們所想的喝醉了，因為現在才早晨九點鐘。\textsuperscript{16}這正是藉先知約珥所說的：
+
+> \textsuperscript{17}『神說：在末後的日子，我要將我的靈澆灌凡有血肉的。你們的兒女要說預言，你們的年輕人要見異象，你們的老年人要做異夢。\textsuperscript{18}在那些日子，我要將我的靈澆灌我的僕人和婢女，他們就要說預言。』
+
+> \textsuperscript{22}「以色列人哪，你們要聽我這些話：拿撒勒人耶穌就是神用異能、奇事、神蹟向你們證明出來的人，這些事是神藉着耶穌在你們中間施行的，正如你們自己知道的。\textsuperscript{23}他既按着神確定的旨意和預知被交給你們，你們就藉着不法之人的手把他釘在十字架上，殺了。\textsuperscript{24}神卻將死的痛苦解除，使他復活了，因為他原不能被死拘禁。」
+
+> \textsuperscript{36}「所以，以色列全家應當確確實實地知道，你們釘在十字架上的這位耶穌，神已經立他為主、為基督了。」
+
+> \textsuperscript{37}眾人聽見這話，覺得扎心，就對彼得和其餘的使徒說：「弟兄們，我們該怎樣做？」\textsuperscript{38}彼得對他們說：「你們各人要悔改，奉耶穌基督的名受洗，使你們的罪得赦免，就會領受所賜的聖靈。\textsuperscript{39}因為這應許是給你們和你們的兒女，並一切在遠方的人，就是給所有主——我們神所召來的人。」
+
+> \textsuperscript{41}於是，領受他話的人都受了洗。那一天，門徒約添了三千人。
+
+#### English — NKJV
+
+> \textsuperscript{14}But Peter, standing up with the eleven, raised his voice and said to them, "Men of Judea and all who dwell in Jerusalem, let this be known to you, and heed my words. \textsuperscript{15}For these are not drunk, as you suppose, since it is only the third hour of the day. \textsuperscript{16}But this is what was spoken by the prophet Joel:
+
+> \textsuperscript{17}'And it shall come to pass in the last days, says God, That I will pour out of My Spirit on all flesh; Your sons and your daughters shall prophesy, Your young men shall see visions, Your old men shall dream dreams. \textsuperscript{18}And on My menservants and on My maidservants I will pour out My Spirit in those days; And they shall prophesy.'
+
+> \textsuperscript{22}"Men of Israel, hear these words: Jesus of Nazareth, a Man attested by God to you by miracles, wonders, and signs which God did through Him in your midst, as you yourselves also know— \textsuperscript{23}Him, being delivered by the determined purpose and foreknowledge of God, you have taken by lawless hands, have crucified, and put to death; \textsuperscript{24}whom God raised up, having loosed the pains of death, because it was not possible that He should be held by it."
+
+> \textsuperscript{36}"Therefore let all the house of Israel know assuredly that God has made this Jesus, whom you crucified, both Lord and Christ."
+
+> \textsuperscript{37}Now when they heard this, they were cut to the heart, and said to Peter and the rest of the apostles, "Men and brethren, what shall we do?" \textsuperscript{38}Then Peter said to them, "Repent, and let every one of you be baptized in the name of Jesus Christ for the remission of sins; and you shall receive the gift of the Holy Spirit. \textsuperscript{39}For the promise is to you and to your children, and to all who are afar off, as many as the Lord our God will call."
+
+> \textsuperscript{41}Then those who gladly received his word were baptized; and that day about three thousand souls were added to them.
+
+---
+
+## 背景 (Context)
+
+### 五旬節的意義
+
+| 層面 | 舊約意義 | 新約應驗 |
+|------|----------|----------|
+| 時間 | 逾越節後50天 | 復活後50天 |
+| 農業 | 初熟節、收割節 | 教會的初熟果子 |
+| 歷史 | 西奈山賜律法 | 賜下聖靈 |
+| 群體 | 以色列民 | 萬國萬民 |
+
+### 徒1:8的結構
+
+使徒行傳的地理擴展正好呼應這節經文：
+
+| 經文 | 地區 | 使徒行傳章節 |
+|------|------|--------------|
+| 耶路撒冷 | Jerusalem | 1-7 |
+| 猶太和撒瑪利亞 | Judea & Samaria | 8-12 |
+| 直到地極 | Ends of the Earth | 13-28 |
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出處 |
+|--------|------|------|------|
+| πεντηκοστή | pentēkostē | 五旬節（第五十）| 徒2:1 |
+| πνεῦμα | pneuma | 風／靈（雙關）| 徒2:2-4 |
+| γλῶσσαι | glōssai | 舌頭／語言（雙關）| 徒2:3 |
+| ἐκκλησία | ekklēsia | 教會（蒙召出來的群體）| 徒2:47 |
+| δύναμις | dynamis | 能力（為見證的能力）| 徒1:8 |
+| μάρτυς | martys | 見證人（後來引申為「殉道者」）| 徒1:8 |
+
+### 「**舌頭如火焰**」(γλῶσσαι ὡσεὶ πυρός)
+
+- **火** — 神同在的記號（出 3 荊棘火、王上 18 以利亞火、出 13 火柱）
+- **舌頭** — 講道、語言
+
+**聖靈把神的同在分給每一個信徒**——而**每個人身上的記號是「能說別國的話」**（普世福音的預表）。
+
+---
+
+## 解經洞見 (Commentary)
+
+### John MacArthur 論彼得的轉變
+
+「幾週前否認主的彼得，這一天站起來向幾千人講道，不怕當權者。**這個轉變**是復活和聖靈的雙重證據。**沒有復活+沒有聖靈**，就**沒有彼得這樣的轉變**。所以——當你看見一個基督徒**真正改變**（不是改善行為，是**本質性轉變**），你正看見**復活和聖靈在工作**。」 *(adapted from MacArthur, Acts 1-12)*
+
+### G. Campbell Morgan 論「**該怎樣行**」
+
+「『**諸位弟兄，我們該怎樣行**』——**覺得扎心**之後**自然**問這個問題。**真正的講道效果**就是這個——**叫人不能再問『有什麼新鮮的觀念』**而**只能問『我該怎樣行』**。彼得的回答**簡潔**：『**悔改、受洗、得赦、領受聖靈**』——這個**四步福音公式**從那天起**塑造了基督教兩千年**。」 *(adapted from Morgan, The Acts of the Apostles)*
+
+---
+
+## 神學要點 (Theological Points)
+
+### 1. 聖靈的工作
+
+- **能力 (δύναμις)** — 為基督作見證的能力
+- **充滿** — 不是一次性，而是持續的經歷
+- **方言** — 為了傳福音給萬國
+
+### 2. 教會的誕生
+
+五旬節標誌著：
+- 新約教會的開始
+- 聖靈內住信徒的時代
+- 福音向萬國擴展的開始
+
+### 3. 彼得講道的核心
+
+- 耶穌是彌賽亞
+- 祂被釘十架是神的計劃
+- 祂從死裡復活
+- 祂被高舉為主、為基督
+
+---
+
+## 個人反思 (Personal Reflection)
+
+1. **你被聖靈充滿嗎？** 聖靈的能力不是為了個人榮耀，而是為了作見證。
+
+2. **你是否順從聖靈的引導？** 聖靈要引導我們進入一切真理。
+
+3. **你在哪裡作見證？** 從耶路撒冷（你的家）開始，直到地極。
+
+---
+
+## 配詩 (Hymns)
+
+**聖詩**：*Spirit of God, Descend Upon My Heart*
+
+> Spirit of God, descend upon my heart;
+> Wean it from earth, through all its pulses move;
+> Stoop to my weakness, mighty as Thou art,
+> And make me love Thee as I ought to love.
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：應許的成就與巴別的逆轉。「我要將我的靈澆灌凡有血氣的」（珥 2:28）在五旬節應驗；巴別塔口音變亂、人被分散（創 11），五旬節卻叫萬人各聽見本鄉的話，福音把分散的重新聚合。彼得的結論：「神已立他為主、為基督」（徒 2:36）。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「五旬節最叫人注目的是火舌、是方言——但彼得講道的結論落在誰身上？」
+- 再問：「聖靈降臨，是要高舉信徒自己的經歷，還是要見證一位？」
+- 追問：「巴別塔叫人分散，五旬節叫人怎樣？這對照說明什麼？」
+- 落到自己：「聖靈在你身上的工作，是高舉你自己，還是高舉基督？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天人追求強烈的「體驗、感受、現象」，連信仰也容易變成追逐刺激的場域。但聖靈降臨的果效，不是叫人迷上經歷本身，是高舉那位被釘又復活的基督、並把分散的人聚成一個身體。你渴慕聖靈，是為了體驗，還是為了更認識、更高舉基督？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求聖靈今天充滿你，目的不是叫你「有感覺」，是叫你高舉基督。
+- **晚上**：今天我所追求的屬靈經歷，把焦點放在自己，還是放在主？
+- **一個行動**：今天靠聖靈做一件「高舉基督、合一建造」的事——和好、服事、或作見證。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：五旬節的主角不是火舌、不是方言，是那位升天後澆灌聖靈的主——聖靈來，是要高舉、見證祂。
+
+**貫通全經**：約珥書2:28「我要將我的靈澆灌凡有血氣的」應驗；巴別塔口音變亂（創11）→ 五旬節萬人各聽見本鄉話，福音叫分散的重新聚合。
+
+**無法迴避的問題**：「彼得的結論是『神已立他為主、為基督』——聖靈在你身上的工作，是高舉你自己，還是高舉基督？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，求你的聖靈充滿我，目的不是叫我迷戀經歷，乃是叫我高舉那位被釘又復活的基督；願我所領受的，都用來見證你、建造你的身體，叫分散的因你而合一。阿們。
+
+---
+
+*三書精讀項目 · 耶穌基督完整生平 · 第三十五章*
+
+
+\pagebreak
+
+
+# 給七教會的信 (Letters to the Seven Churches)
+
+啟示錄 Revelation 1-3
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+給七教會的信，焦點不在教會的成敗，而在那位行走在七個金燈臺中間、右手拿著七星的主。從祂的角度讀，每一封信都以祂的自我啟示開頭、以對得勝者的應許結尾；祂是「首先的、末後的，是那死過又活的」。教會的盼望不在自己的光景，而在那位察看人心、又與她同在的榮耀之主。
+
+---
+
+## 經文 (Scripture)
+
+### 一、榮耀基督的異象 (The Vision of the Glorified Christ)
+
+啟示錄 1:9-18
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{9}我約翰，你們的弟兄，和你們在耶穌裏一同在患難、國度、忍耐中有份的，為神的道和為耶穌作的見證，曾在那名叫拔摩的海島上。\textsuperscript{10}在主日，我被聖靈感動，聽見在我後面有大聲音如吹號，\textsuperscript{11}說：\jesus{「你所看見的要寫在書上，寄給以弗所、士每拿、別迦摩、推雅推喇、撒狄、非拉鐵非、老底嘉七個教會。」}
+
+> \textsuperscript{12}我轉過身來，要看看是誰的聲音在跟我說話；既轉過來，就看見七個金燈臺。\textsuperscript{13}在燈臺中間有一位好像人子，身穿長衣，直垂到腳，胸間束著金帶。\textsuperscript{14}他的頭與髮皆白，如白羊毛、如雪，眼目如同火焰，\textsuperscript{15}腳好像在爐中鍛鍊發亮的銅，聲音如同眾水的聲音。\textsuperscript{16}他右手拿著七顆星，從他口中出來一把兩刃的利劍，面貌如同烈日放光。
+
+> \textsuperscript{17}我一看見，就仆倒在他腳前，像死了一樣。他用右手按著我，說：\jesus{「不要懼怕！我是首先的，我是末後的，\textsuperscript{18}又是那活著的。我曾死過，看哪，現在又活了，直活到永永遠遠，並且拿著死亡和陰間的鑰匙。」}
+
+#### English — NKJV
+
+> \textsuperscript{9}I, John, both your brother and companion in the tribulation and kingdom and patience of Jesus Christ, was on the island that is called Patmos for the word of God and for the testimony of Jesus Christ. \textsuperscript{10}I was in the Spirit on the Lord's Day, and I heard behind me a loud voice, as of a trumpet, \textsuperscript{11}saying, \jesus{"I am the Alpha and the Omega, the First and the Last,"} and, \jesus{"What you see, write in a book and send it to the seven churches which are in Asia."}
+
+> \textsuperscript{12}Then I turned to see the voice that spoke with me. And having turned I saw seven golden lampstands, \textsuperscript{13}and in the midst of the seven lampstands One like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band. \textsuperscript{14}His head and hair were white like wool, as white as snow, and His eyes like a flame of fire; \textsuperscript{15}His feet were like fine brass, as if refined in a furnace, and His voice as the sound of many waters; \textsuperscript{16}He had in His right hand seven stars, out of His mouth went a sharp two-edged sword, and His countenance was like the sun shining in its strength.
+
+> \textsuperscript{17}And when I saw Him, I fell at His feet as dead. But He laid His right hand on me, saying to me, \jesus{"Do not be afraid; I am the First and the Last. \textsuperscript{18}I am He who lives, and was dead, and behold, I am alive forevermore. Amen. And I have the keys of Hades and of Death."}
+
+---
+
+### 二、給以弗所教會的信 (Letter to Ephesus)
+
+啟示錄 2:1-7
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{1}\jesus{「你要寫信給以弗所教會的使者，說：『那右手拿著七顆星、在七個金燈臺中間行走的說：\textsuperscript{2}我知道你的行為、勞碌、忍耐，也知道你不能容忍惡人。你曾試驗那自稱為使徒卻不是使徒的，看出他們是假的來。\textsuperscript{3}你也能忍耐，曾為我的名勞苦，並不乏倦。}
+
+> \jesus{\textsuperscript{4}然而，我有一件事要責備你，就是你把起初的愛心離棄了。\textsuperscript{5}所以，要回想你是從哪裏墜落的，並要悔改，做起初所做的事。你若不悔改，我就要臨到你那裏，把你的燈臺從原處移去。\textsuperscript{6}然而你還有一件可取的事，就是你恨惡尼哥拉黨的行為，這也是我所恨惡的。\textsuperscript{7}聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將神樂園中生命樹的果子賜給他吃。』」}
+
+#### English — NKJV
+
+> \textsuperscript{1}\jesus{"To the angel of the church of Ephesus write, 'These things says He who holds the seven stars in His right hand, who walks in the midst of the seven golden lampstands: \textsuperscript{2}I know your works, your labor, your patience, and that you cannot bear those who are evil. And you have tested those who say they are apostles and are not, and have found them liars; \textsuperscript{3}and you have persevered and have patience, and have labored for My name's sake and have not become weary.}
+
+> \jesus{\textsuperscript{4}Nevertheless I have this against you, that you have left your first love. \textsuperscript{5}Remember therefore from where you have fallen; repent and do the first works, or else I will come to you quickly and remove your lampstand from its place—unless you repent. \textsuperscript{6}But this you have, that you hate the deeds of the Nicolaitans, which I also hate. \textsuperscript{7}He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes I will give to eat from the tree of life, which is in the midst of the Paradise of God.'"}
+
+---
+
+### 三、給士每拿教會的信 (Letter to Smyrna)
+
+啟示錄 2:8-11
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{8}\jesus{「你要寫信給士每拿教會的使者，說：『那首先的、末後的、死過又活的說：\textsuperscript{9}我知道你的患難、貧窮——其實你是富足的，也知道那自稱是猶太人所說的毀謗話，其實他們不是猶太人，而是撒但的會眾。\textsuperscript{10}你將要受的苦你不用怕。魔鬼要把你們中間幾個人下在監裏，叫你們受考驗，你們必受患難十日。你務要至死忠心，我就賜給你那生命的冠冕。\textsuperscript{11}聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，必不受第二次死的害。』」}
+
+#### English — NKJV
+
+> \textsuperscript{8}\jesus{"And to the angel of the church in Smyrna write, 'These things says the First and the Last, who was dead, and came to life: \textsuperscript{9}I know your works, tribulation, and poverty (but you are rich); and I know the blasphemy of those who say they are Jews and are not, but are a synagogue of Satan. \textsuperscript{10}Do not fear any of those things which you are about to suffer. Indeed, the devil is about to throw some of you into prison, that you may be tested, and you will have tribulation ten days. Be faithful until death, and I will give you the crown of life. \textsuperscript{11}He who has an ear, let him hear what the Spirit says to the churches. He who overcomes shall not be hurt by the second death.'"}
+
+---
+
+### 四、給非拉鐵非教會的信 (Letter to Philadelphia)
+
+啟示錄 3:7-13
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{7}\jesus{「你要寫信給非拉鐵非教會的使者，說：『那聖潔、真實、拿著大衛的鑰匙、開了就沒有人能關、關了就沒有人能開的說：\textsuperscript{8}我知道你的行為。看哪，我在你面前給你一個敞開的門，是沒有人能關的。因為你稍微有一點力量，也遵守我的道，沒有否認我的名。}
+
+> \jesus{\textsuperscript{10}你既遵守我忍耐的道，我必在普天下人受試煉的時候，保守你免去你的試煉。\textsuperscript{11}我必快來，你要持守你所有的，免得有人奪去你的冠冕。\textsuperscript{12}得勝的，我要叫他在我神殿中作柱子，他也不再從那裏出去。我又要將我神的名和我神城的名——這城就是從天上、從我神那裏降下來的新耶路撒冷——並我的新名，都寫在他上面。\textsuperscript{13}聖靈向眾教會所說的話，凡有耳的，就應當聽！』」}
+
+#### English — NKJV
+
+> \textsuperscript{7}\jesus{"And to the angel of the church in Philadelphia write, 'These things says He who is holy, He who is true, He who has the key of David, He who opens and no one shuts, and shuts and no one opens: \textsuperscript{8}I know your works. See, I have set before you an open door, and no one can shut it; for you have a little strength, have kept My word, and have not denied My name.}
+
+> \jesus{\textsuperscript{10}Because you have kept My command to persevere, I also will keep you from the hour of trial which shall come upon the whole world, to test those who dwell on the earth. \textsuperscript{11}Behold, I am coming quickly! Hold fast what you have, that no one may take your crown. \textsuperscript{12}He who overcomes, I will make him a pillar in the temple of My God, and he shall go out no more. I will write on him the name of My God and the name of the city of My God, the New Jerusalem, which comes down out of heaven from My God. And I will write on him My new name. \textsuperscript{13}He who has an ear, let him hear what the Spirit says to the churches.'"}
+
+---
+
+### 五、給老底嘉教會的信 (Letter to Laodicea)
+
+啟示錄 3:14-22
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{14}\jesus{「你要寫信給老底嘉教會的使者，說：『那為阿們的，為誠信真實見證的，在神創造萬物之上為元首的說：\textsuperscript{15}我知道你的行為，你也不冷也不熱；我巴不得你或冷或熱。\textsuperscript{16}你既如溫水，也不冷也不熱，所以我要從我口中把你吐出去。}
+
+> \jesus{\textsuperscript{17}你說「我是富足的，已經發了財，一樣都不缺」，卻不知道你是困苦、可憐、貧窮、瞎眼、赤身的。\textsuperscript{18}我勸你向我買火煉的金子，使你富足；又買白衣穿上，使你赤身的羞恥不露出來；又買眼藥擦你的眼睛，使你能看見。\textsuperscript{19}凡我所愛的，我就責備管教；所以你要發熱心，也要悔改。}
+
+> \jesus{\textsuperscript{20}看哪，我站在門外叩門，若有聽見我聲音而開門的，我要進到他那裏去，我與他，他與我，一起吃飯。\textsuperscript{21}得勝的，我要賜他在我寶座上與我同坐，就如我得了勝，在我父的寶座上與他同坐一般。\textsuperscript{22}聖靈向眾教會所說的話，凡有耳的，就應當聽！』」}
+
+#### English — NKJV
+
+> \textsuperscript{14}\jesus{"And to the angel of the church of the Laodiceans write, 'These things says the Amen, the Faithful and True Witness, the Beginning of the creation of God: \textsuperscript{15}I know your works, that you are neither cold nor hot. I could wish you were cold or hot. \textsuperscript{16}So then, because you are lukewarm, and neither cold nor hot, I will vomit you out of My mouth.}
+
+> \jesus{\textsuperscript{17}Because you say, "I am rich, have become wealthy, and have need of nothing"—and do not know that you are wretched, miserable, poor, blind, and naked— \textsuperscript{18}I counsel you to buy from Me gold refined in the fire, that you may be rich; and white garments, that you may be clothed, that the shame of your nakedness may not be revealed; and anoint your eyes with eye salve, that you may see. \textsuperscript{19}As many as I love, I rebuke and chasten. Therefore be zealous and repent.}
+
+> \jesus{\textsuperscript{20}Behold, I stand at the door and knock. If anyone hears My voice and opens the door, I will come in to him and dine with him, and he with Me. \textsuperscript{21}To him who overcomes I will grant to sit with Me on My throne, as I also overcame and sat down with My Father on His throne. \textsuperscript{22}He who has an ear, let him hear what the Spirit says to the churches.'"}
+
+---
+
+## 背景 (Context)
+
+### 七教會的位置與特徵
+
+| 教會 | 位置 | 基督的自稱 | 評價 | 應許 |
+|------|------|-----------|------|------|
+| 以弗所 | 亞細亞首府 | 拿著七星 | 離棄起初的愛 | 生命樹果子 |
+| 士每拿 | 富裕港口 | 首先末後 | 貧窮卻富足 | 生命冠冕 |
+| 別迦摩 | 撒但座位 | 兩刃利劍 | 容忍假教導 | 隱藏嗎哪 |
+| 推雅推喇 | 商業中心 | 火焰眼目 | 容忍耶洗別 | 晨星 |
+| 撒狄 | 死城 | 七靈七星 | 名活實死 | 白衣 |
+| 非拉鐵非 | 弟兄之愛 | 大衛鑰匙 | 遵守主道 | 作殿中柱 |
+| 老底嘉 | 銀行中心 | 阿們 | 不冷不熱 | 同坐寶座 |
+
+### 基督的七重身份
+
+從這些書信中，我們看到榮耀基督的全面啟示：
+
+| 身份 | 意義 |
+|------|------|
+| 首先的、末後的 | 永恆的主 |
+| 死過又活的 | 復活的主 |
+| 拿著七星的 | 教會的主 |
+| 口出利劍的 | 審判的主 |
+| 大衛鑰匙的 | 掌權的主 |
+| 阿們的 | 誠實的主 |
+| 創造元首 | 萬有的主 |
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出處 |
+|--------|------|------|------|
+| ἐκκλησία | ekklēsia | 教會（蒙召出來的群體）| 啟1:4 |
+| νικάω | nikaō | 得勝 | 啟2:7, 11... |
+| μετανοέω | metanoeō | 悔改 | 啟2:5, 16... |
+| χλιαρός | chliaros | 不冷不熱 | 啟3:16 |
+| Ἀμήν | Amēn | 阿們（誠實的、確實的）| 啟3:14 |
+| πύλη | pylē | 門 | 啟3:8 |
+
+### 「**得勝者**」(*ho nikōn*)
+
+每一封信都有**對得勝者的應許**。
+「**得勝**」 = 持守信仰到底 = **真信徒**的記號。
+
+得勝者七大應許：
+| 教會 | 應許 |
+|---|---|
+| 以弗所 | 吃生命樹的果子 |
+| 士每拿 | 不受第二次的死 |
+| 別迦摩 | 隱藏的嗎哪 + 白石新名 |
+| 推雅推喇 | 賜權柄制伏列國 |
+| 撒狄 | 穿白衣，名字不從生命冊塗抹 |
+| 非拉鐵非 | 作神殿中的柱子 |
+| 老底嘉 | 與基督同坐寶座 |
+
+---
+
+## 解經洞見 (Commentary)
+
+### John MacArthur 論七教會
+
+「啟示錄 2-3 是**復活的基督對教會的最後信息**。注意基督**走在七燈台中間**（啟 2:1）—— **他在他的教會中行走**，**仔細察看**。每一封信開始於『**我知道**』——基督**知道**每個教會（也知道每個信徒）的真實狀況。**沒有任何外表能瞞過他**。當教會**自以為富足**（老底嘉），他知道是**赤身露體**；當教會**被認為快死**（撒狄），他知道**真實狀態**。**這是極大的安慰也是極深的警告**。」 *(adapted from MacArthur, Revelation 1-11)*
+
+### G. Campbell Morgan 論「**站在門外叩門**」
+
+「『**看哪，我站在門外叩門；若有聽見我聲音就開門的，我要進到他那裡去，我與他，他與我一同坐席**』（啟 3:20）—— **這節經文常被用作福音邀請**，但它的**原始上下文**是**對教會的勸勉**——對**老底嘉教會**！這意味著**基督可能站在自己教會的門外**。**這是極可怕的圖畫**：**教會在裡面忙碌，基督卻在外面叩門**。**今天有多少教會的活動進行得轟轟烈烈，而基督卻不在裡面**？」 *(adapted from Morgan, Revelation)*
+
+---
+
+## 神學要點 (Theological Points)
+
+### 1. 復活基督的榮耀
+
+約翰在福音書中曾靠在耶穌胸膛上，但在這裏看見榮耀的基督，就「仆倒在他腳前，像死了一樣」。
+
+| 福音書中的耶穌 | 啟示錄中的基督 |
+|--------------|--------------|
+| 道成肉身 | 榮耀升天 |
+| 溫柔謙卑 | 威嚴可畏 |
+| 服事人 | 審判人 |
+| 被釘十架 | 得勝坐寶座 |
+
+### 2. 基督對教會的認識
+
+「我知道」(Οἶδα) — 基督對每個教會的認識是完全的：
+- 知道他們的行為
+- 知道他們的患難
+- 知道他們的軟弱
+- 知道他們的假冒
+
+### 3. 悔改的呼召
+
+七封信中有五封呼召悔改。基督的警告出於愛：
+> 「凡我所愛的，我就責備管教」(啟3:19)
+
+### 4. 得勝者的應許
+
+| 教會 | 應許 |
+|------|------|
+| 以弗所 | 吃生命樹果子 |
+| 士每拿 | 不受第二次死 |
+| 別迦摩 | 隱藏的嗎哪、白石新名 |
+| 推雅推喇 | 制伏列國的權柄、晨星 |
+| 撒狄 | 穿白衣、名不塗抹 |
+| 非拉鐵非 | 作殿中柱、得新名 |
+| 老底嘉 | 與基督同坐寶座 |
+
+---
+
+## 個人反思 (Personal Reflection)
+
+1. **你是否離棄了起初的愛？** 以弗所教會有勞碌、有忍耐，卻失去了愛。你對基督的愛是否仍如起初火熱？
+
+2. **你是不冷不熱嗎？** 老底嘉的問題不是太冷，而是自滿。你的屬靈生命是否在舒適區中變得麻木？
+
+3. **基督在門外叩門** — 這驚人的圖畫：基督竟站在自己教會的門外！你有讓祂進入你生命的每一個領域嗎？
+
+4. **你是得勝者嗎？** 每封信都以應許給「得勝的」結束。在今天的爭戰中，你靠基督得勝嗎？
+
+---
+
+## 配詩 (Hymns)
+
+**聖詩**：*Crown Him with Many Crowns*
+
+> Crown Him with many crowns,
+> The Lamb upon His throne;
+> Hark! how the heav'nly anthem drowns
+> All music but its own!
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：行走在燈臺中間的主。榮耀的基督右手拿著七星、行走在七個金燈臺中間（啟 1:13-16），自稱「首先的、末後的，是那死過又活的」——呼應約 8:58 的「我是」和但 7 的人子。祂從未離開祂的教會。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「七封信，幾乎每封都以耶穌的哪種話開頭、又以對誰的應許結尾？（祂的自我啟示；得勝者）」
+- 再問：「祂稱讚、也責備——祂是憑什麼察看教會？（祂行走在燈臺中間，鑒察人心）」
+- 追問：「以弗所教會『把起初的愛心離棄了』——勞苦、忍耐都在，缺的是什麼？」
+- 落到自己：「主察看你這座燈臺，祂要稱讚你什麼？又要對你說哪一句『然而有一件事我要責備你』？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天我們活在各種「儀表板、KPI、數據面板」裡，習慣用指標衡量自己做得好不好。但主察看教會，看的不是出席人數或活動產出，是「起初的愛心」還在不在。在一個用數據評估一切的時代，你和神的關係，禁得起祂——而不是儀表板——的察看嗎？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：求主察看你的「燈臺」，照出你需要稱讚的、也需要悔改的。
+- **晚上**：今天我衡量自己屬靈光景，是用「數據、活動量」，還是用「對主的愛」？
+- **一個行動**：今天回到「起初的愛心」——做一件單純因為愛主而做的事。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：榮耀的主行走在七個金燈臺中間、右手拿著七星——祂從未離開祂的教會。
+
+**貫通全經**：啟示錄的基督是「首先的、末後的，是那死過又活的」——呼應約8:58那句「我是」。
+
+**無法迴避的問題**：「主察看你這座燈臺，祂要稱讚你什麼？又要對你說哪一句『然而有一件事我要責備你』？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主耶穌，你行走在金燈臺中間，鑒察我的心。求你照出我需要悔改的，也叫我尋回那起初的愛心；我不願只在數據上忙碌，乃願在愛你的事上得你稱讚。阿們。
+
+---
+
+*三書精讀項目 · 耶穌基督完整生平 · 第三十六章*
+
+
+\pagebreak
+
+
+# 榮耀再臨 (The Glorious Return)
+
+啟示錄 Revelation 19-22
+
+## 基督焦點 (Christ at the Center)
+
+> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
+
+榮耀再臨，主角是那位騎白馬而來、名稱為「萬王之王，萬主之主」的主。從祂的角度讀，整本聖經的結局聚焦於祂——被殺的羔羊如今坐在寶座上，擦去一切眼淚，與祂的子民同住。祂是「阿拉法和俄梅戛，是初，是終」；全書以祂的應許收尾：「是了，我必快來。」主耶穌啊，我願你來！
+
+---
+
+## 經文 (Scripture)
+
+### 一、萬王之王的降臨 (The King of Kings Descends)
+
+啟示錄 19:11-16
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{11}我看見天開了，看哪，有一匹白馬，騎在馬上的稱為「誠信」、「真實」；他憑公義審判、爭戰。\textsuperscript{12}他的眼睛如火焰，頭上戴著許多冠冕，又有寫著的名字，除了他自己沒有人知道。\textsuperscript{13}他穿著濺了血的衣服，他被稱為「神的道」。
+
+> \textsuperscript{14}在天上的眾軍騎著白馬，穿著細麻衣，又白又潔，跟隨他。\textsuperscript{15}有利劍從他口中出來，可以擊殺列國。他必用鐵杖管轄他們，並要踹全能神烈怒的榨酒池。\textsuperscript{16}在他衣服和大腿上有名寫著：「萬王之王，萬主之主」。
+
+#### English — NKJV
+
+> \textsuperscript{11}Now I saw heaven opened, and behold, a white horse. And He who sat on him was called Faithful and True, and in righteousness He judges and makes war. \textsuperscript{12}His eyes were like a flame of fire, and on His head were many crowns. He had a name written that no one knew except Himself. \textsuperscript{13}He was clothed with a robe dipped in blood, and His name is called The Word of God.
+
+> \textsuperscript{14}And the armies in heaven, clothed in fine linen, white and clean, followed Him on white horses. \textsuperscript{15}Now out of His mouth goes a sharp sword, that with it He should strike the nations. And He Himself will rule them with a rod of iron. He Himself treads the winepress of the fierceness and wrath of Almighty God. \textsuperscript{16}And He has on His robe and on His thigh a name written: KING OF KINGS AND LORD OF LORDS.
+
+---
+
+### 二、白色大寶座審判 (The Great White Throne Judgment)
+
+啟示錄 20:11-15
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{11}我又看見一個白色的大寶座和那坐在上面的。從他面前天地都逃避，再也找不到它們的位置了。\textsuperscript{12}我又看見死了的人，無論大小，都站在寶座前。案卷都展開了，又有另一卷展開，就是生命冊。死了的人都憑著這些案卷所記載的，照他們所行的受審判。
+
+> \textsuperscript{13}於是海交出其中的死人，死亡和陰間也交出其中的死人。他們都照各人所行的受審判。\textsuperscript{14}死亡和陰間也被扔進火湖裏。這火湖就是第二次的死。\textsuperscript{15}凡沒有記在生命冊上的人，他就被扔進火湖裏。
+
+#### English — NKJV
+
+> \textsuperscript{11}Then I saw a great white throne and Him who sat on it, from whose face the earth and the heaven fled away. And there was found no place for them. \textsuperscript{12}And I saw the dead, small and great, standing before God, and books were opened. And another book was opened, which is the Book of Life. And the dead were judged according to their works, by the things which were written in the books.
+
+> \textsuperscript{13}The sea gave up the dead who were in it, and Death and Hades delivered up the dead who were in them. And they were judged, each one according to his works. \textsuperscript{14}Then Death and Hades were cast into the lake of fire. This is the second death. \textsuperscript{15}And anyone not found written in the Book of Life was cast into the lake of fire.
+
+---
+
+### 三、新天新地 (The New Heaven and New Earth)
+
+啟示錄 21:1-7
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{1}我又看見一個新天新地，因為先前的天和先前的地已經過去了，海也不再有了。\textsuperscript{2}我又看見聖城新耶路撒冷從天上、從神那裏降下來，預備好了，好像新娘打扮整齊等候丈夫。
+
+> \textsuperscript{3}我聽見有大聲音從寶座出來，說：「看哪，神的帳幕在人間！他要和他們同住，他們要作他的子民。神要親自與他們同在。\textsuperscript{4}神要擦去他們一切的眼淚；不再有死亡，也不再有悲哀、哭號、痛苦，因為先前的事都過去了。」
+
+> \textsuperscript{5}那坐寶座的說：\jesus{「看哪，我把一切都更新了！」}又說：\jesus{「你要寫下來，因為這些話是可信靠的，是真實的。」}\textsuperscript{6}他又對我說：\jesus{「成了！我是阿拉法，我是俄梅戛；我是開始，我是終結。我要把生命的泉水白白賜給那口渴的人喝。\textsuperscript{7}得勝的必承受這些為業：我要作他的神，他要作我的兒子。」}
+
+#### English — NKJV
+
+> \textsuperscript{1}Now I saw a new heaven and a new earth, for the first heaven and the first earth had passed away. Also there was no more sea. \textsuperscript{2}Then I, John, saw the holy city, New Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband.
+
+> \textsuperscript{3}And I heard a loud voice from heaven saying, "Behold, the tabernacle of God is with men, and He will dwell with them, and they shall be His people. God Himself will be with them and be their God. \textsuperscript{4}And God will wipe away every tear from their eyes; there shall be no more death, nor sorrow, nor crying. There shall be no more pain, for the former things have passed away."
+
+> \textsuperscript{5}Then He who sat on the throne said, \jesus{"Behold, I make all things new."} And He said to me, \jesus{"Write, for these words are true and faithful."} \textsuperscript{6}And He said to me, \jesus{"It is done! I am the Alpha and the Omega, the Beginning and the End. I will give of the fountain of the water of life freely to him who thirsts. \textsuperscript{7}He who overcomes shall inherit all things, and I will be his God and he shall be My son."}
+
+---
+
+### 四、聖城新耶路撒冷 (The New Jerusalem)
+
+啟示錄 21:22-27
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{22}我未見城內有殿，因主神——全能者和羔羊就是城的殿。\textsuperscript{23}那城不用日月光照，因為有神的榮耀光照它，又有羔羊為城的燈。\textsuperscript{24}列國要藉著城的光行走；地上的君王要把自己的榮耀帶進那城。
+
+> \textsuperscript{25}城門白晝總不關閉，在那裏沒有黑夜。\textsuperscript{26}人要把列國的榮耀、尊貴帶進那城。\textsuperscript{27}凡不潔淨的，和那行可憎事、說謊話的，都不得進那城；只有名字寫在羔羊生命冊上的才得進去。
+
+#### English — NKJV
+
+> \textsuperscript{22}But I saw no temple in it, for the Lord God Almighty and the Lamb are its temple. \textsuperscript{23}The city had no need of the sun or of the moon to shine in it, for the glory of God illuminated it. The Lamb is its light. \textsuperscript{24}And the nations of those who are saved shall walk in its light, and the kings of the earth bring their glory and honor into it.
+
+> \textsuperscript{25}Its gates shall not be shut at all by day (there shall be no night there). \textsuperscript{26}And they shall bring the glory and the honor of the nations into it. \textsuperscript{27}But there shall by no means enter it anything that defiles, or causes an abomination or a lie, but only those who are written in the Lamb's Book of Life.
+
+---
+
+### 五、生命河與生命樹 (The River and Tree of Life)
+
+啟示錄 22:1-5
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{1}天使又指給我看在城內街道中央一道生命水的河，明亮如水晶，從神和羔羊的寶座流出來。\textsuperscript{2}在河這邊與那邊有生命樹，結十二種果子，每月結新果；樹的葉子是為萬民醫治用的。
+
+> \textsuperscript{3}再也沒有詛咒。在城裏有神和羔羊的寶座，他的僕人都要事奉他，\textsuperscript{4}也要見他的面。他的名字要寫在他們的額上。\textsuperscript{5}不再有黑夜，他們也不用燈光、日光，因為主神要光照他們，他們要作王，直到永永遠遠。
+
+#### English — NKJV
+
+> \textsuperscript{1}And he showed me a pure river of water of life, clear as crystal, proceeding from the throne of God and of the Lamb. \textsuperscript{2}In the middle of its street, and on either side of the river, was the tree of life, which bore twelve fruits, each tree yielding its fruit every month. The leaves of the tree were for the healing of the nations.
+
+> \textsuperscript{3}And there shall be no more curse, but the throne of God and of the Lamb shall be in it, and His servants shall serve Him. \textsuperscript{4}They shall see His face, and His name shall be on their foreheads. \textsuperscript{5}There shall be no night there: They need no lamp nor light of the sun, for the Lord God gives them light. And they shall reign forever and ever.
+
+---
+
+### 六、基督必再來 (Christ Will Return)
+
+啟示錄 22:12-21
+
+#### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{12}\jesus{「看哪，我必快來！賞罰在我，要照各人所行的報應他。\textsuperscript{13}我是阿拉法，我是俄梅戛；我是首先的，我是末後的；我是開始，我是終結。」}
+
+> \textsuperscript{16}\jesus{「我耶穌差遣我的使者為眾教會向你們證明這些事。我是大衛的根，也是他的後裔，是明亮的晨星。」}\textsuperscript{17}聖靈和新娘都說：「來！」聽見的人也該說：「來！」口渴的人也當來；願意的人都可以白白取生命的水喝。
+
+> \textsuperscript{20}證明這些事的說：\jesus{「是的，我必快來！」}阿們！主耶穌啊，我願你來！
+
+> \textsuperscript{21}願主耶穌的恩惠與眾聖徒同在。阿們！
+
+#### English — NKJV
+
+> \textsuperscript{12}\jesus{"And behold, I am coming quickly, and My reward is with Me, to give to every one according to his work. \textsuperscript{13}I am the Alpha and the Omega, the Beginning and the End, the First and the Last."}
+
+> \textsuperscript{16}\jesus{"I, Jesus, have sent My angel to testify to you these things in the churches. I am the Root and the Offspring of David, the Bright and Morning Star."} \textsuperscript{17}And the Spirit and the bride say, "Come!" And let him who hears say, "Come!" And let him who thirsts come. Whoever desires, let him take the water of life freely.
+
+> \textsuperscript{20}He who testifies to these things says, \jesus{"Surely I am coming quickly."} Amen. Even so, come, Lord Jesus!
+
+> \textsuperscript{21}The grace of our Lord Jesus Christ be with you all. Amen.
+
+---
+
+## 背景 (Context)
+
+### 從創世記到啟示錄
+
+聖經以樂園開始，以樂園結束：
+
+| 創世記 1-3 | 啟示錄 21-22 |
+|-----------|-------------|
+| 天地被造 | 新天新地 |
+| 人與神同住 | 神的帳幕在人間 |
+| 生命樹 | 生命樹復原 |
+| 生命河 | 生命水的河 |
+| 詛咒進入 | 再無詛咒 |
+| 死亡進入 | 再無死亡 |
+| 撒但引誘 | 撒但被扔火湖 |
+
+### 基督的五重名號（啟19）
+
+| 名號 | 意義 |
+|------|------|
+| 誠信 (Faithful) | 守約的神 |
+| 真實 (True) | 真理本身 |
+| 神的道 (Word of God) | 與約翰福音1:1呼應 |
+| 萬王之王 | 至高主權 |
+| 萬主之主 | 絕對統治 |
+
+---
+
+## 神學要點 (Theological Points)
+
+### 1. 救恩歷史的完成
+
+啟示錄不是新故事的開始，而是救恩故事的圓滿結局：
+
+| 階段 | 事件 |
+|------|------|
+| 創造 | 神創造天地，人住樂園 |
+| 墮落 | 罪進入，與神隔絕 |
+| 救贖 | 基督道成肉身、十架、復活 |
+| 教會 | 聖靈內住，福音傳開 |
+| 完成 | 基督再來，萬物更新 |
+
+### 2. 羔羊與寶座
+
+「神和羔羊的寶座」(啟22:1,3) — 羔羊與神共享寶座，這是何等奧秘：
+
+- 曾被殺的羔羊 (啟5:6)
+- 現在坐在寶座上 (啟7:17)
+- 是城的殿、是城的光 (啟21:22-23)
+
+### 3. 「成了」的宣告
+
+> 「成了！」(啟21:6)
+
+這呼應十架上的「成了」(約19:30)：
+
+| 十架上 | 寶座上 |
+|--------|--------|
+| 救贖成了 | 萬物更新成了 |
+| 罪債還清 | 詛咒除盡 |
+| 通往父的路開了 | 神與人永遠同住 |
+
+### 4. 生命冊
+
+生命冊決定永恆去處：
+- 名在其中 → 進入新耶路撒冷
+- 名不在其中 → 火湖，第二次的死
+
+生命冊是羔羊的生命冊 (啟13:8) — 從創世以來被殺之羔羊的冊。
+
+---
+
+## 解經洞見 (Commentary)
+
+### John MacArthur 論基督再來
+
+> 「啟示錄19章描繪的不是柔弱的嬰孩基督，而是威嚴的審判者基督。祂第一次來是騎驢謙卑進城；第二次來是騎白馬得勝而歸。祂第一次來是被定罪受死；第二次來是審判列國。這兩次降臨都是真實的，都是必然的。我們現在活在兩次降臨之間。」
+> — John MacArthur, *Revelation 12-22*
+
+### G. Campbell Morgan 論新耶路撒冷
+
+> 「新耶路撒冷不只是一個地方，更是神與人完美相交的境界。聖經以伊甸園開始——神與人同在的樂園；以新耶路撒冷結束——神的帳幕在人間。整本聖經的故事，就是神如何恢復、重建、更新這同住的關係。在新天新地裏，這關係將是完美的、永恆的、再無任何阻隔。」
+> — G. Campbell Morgan
+
+---
+
+## 約翰福音與啟示錄的呼應
+
+| 約翰福音 | 啟示錄 |
+|---------|-------|
+| 道成了肉身 (1:14) | 神的道 (19:13) |
+| 神的羔羊 (1:29) | 寶座上的羔羊 (5:6) |
+| 生命的水 (4:14) | 生命水的河 (22:1) |
+| 世界的光 (8:12) | 羔羊為城的光 (21:23) |
+| 復活是我 (11:25) | 首先末後，活到永遠 (1:18) |
+| 我必再來 (14:3) | 我必快來 (22:20) |
+
+---
+
+## 個人反思 (Personal Reflection)
+
+1. **你的名在生命冊上嗎？** 這是最重要的問題。不在乎你做了多少好事，只在乎你是否信靠被殺的羔羊。
+
+2. **「主耶穌啊，我願你來」** — 這是聖經最後的禱告。你的心渴慕祂的再來嗎？
+
+3. **萬物都要更新** — 現今的痛苦、眼淚、死亡都是暫時的。你是否活在這永恆盼望中？
+
+4. **「口渴的人也當來」** — 直到最後一章，救恩的邀請仍然敞開。你回應了這邀請嗎？
+
+---
+
+## 配詩 (Hymns)
+
+**聖詩**：*Lo! He Comes with Clouds Descending*
+
+> Lo! He comes with clouds descending,
+> Once for favored sinners slain;
+> Thousand thousand saints attending
+> Swell the triumph of His train:
+> Alleluia! Alleluia!
+> God appears on earth to reign.
+
+**讚美詩**：*The King Is Coming*
+
+> The King is coming, the King is coming!
+> I just heard the trumpet sounding,
+> And now His face I see;
+> The King is coming, the King is coming!
+> Praise God, He's coming for me!
+
+---
+
+## 結語：從馬槽到寶座
+
+耶穌基督的完整生平：
+
+| 階段 | 事件 | 福音書/使徒行傳/啟示錄 |
+|------|------|---------------------|
+| 降臨 | 道成肉身，生於馬槽 | 太1-2, 路1-2, 約1 |
+| 事工 | 教導、醫治、神蹟 | 四福音 |
+| 受死 | 為罪人釘十架 | 四福音 |
+| 復活 | 第三日從死裏復活 | 四福音 |
+| 升天 | 坐在父的右邊 | 路24, 徒1 |
+| 差聖靈 | 五旬節聖靈降臨 | 徒2 |
+| 再來 | 榮耀降臨，審判萬民 | 啟19 |
+| 永恆 | 萬物更新，神人同住 | 啟21-22 |
+
+> 「證明這些事的說：是的，我必快來！阿們！主耶穌啊，我願你來！」
+> (啟示錄 22:20)
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：整本聖經在祂身上收尾。創世記失去的（生命樹、與神同行）在啟 22 全數復得；「神之道」騎白馬而來，名稱「萬王之王，萬主之主」（啟 19:13-16）。被殺的羔羊坐在寶座上，擦去一切眼淚（啟 21:4）。祂是「阿拉法和俄梅戛，是初，是終」。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「整本聖經從創世記到啟示錄，從頭到尾的主角是誰？」
+- 再問：「創世記失去的（生命樹、與神同住），啟示錄怎麼收尾？」
+- 追問：「全書最後的應許是哪一句？（『是了，我必快來』）」
+- 落到自己：「『主耶穌啊，我願你來』——這句禱告，是你心裡真實的渴望，還是只是書頁上的一句結語？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的世界看似走向更亂、更不確定，許多人活在沒有結局的焦慮裡。但聖經明明寫出了結局：羔羊得勝，坐在寶座上，與祂的子民同住，擦去一切眼淚。在一個看不見盼望的時代，你是活在「沒有結局」的恐慌裡，還是活在「我必快來」的應許裡？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：以「主必再來、必得勝」的眼光，安排今天的優先次序。
+- **晚上**：今天我活得像「結局是羔羊得勝」，還是像「前途一片渺茫」？
+- **一個行動**：今天為主的再來，做一件有永恆價值的事；並真誠禱告：「主耶穌啊，我願你來。」
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：全本聖經的結局聚焦於一位——被殺的羔羊坐在寶座上，擦去一切眼淚；祂說「我必快來」。
+
+**貫通全經**：創世記失去的（生命樹、與神同行）在啟22全數復得；「神之道」騎白馬而來，名稱萬王之王——主角自始至終只有一位。
+
+**無法迴避的問題**：「『主耶穌啊，我願你來』——這句禱告，是你心裡真實的渴望，還是只是書頁上的一句結語？」
+
+> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+
+---
+
+## 回應禱告 (A Prayer to Pray)
+
+> 主啊，你是阿拉法、俄梅戛，是初、是終。在這看不見盼望的世代，求你叫我活在「你必快來」的應許裡，存得勝的盼望，做有永恆價值的事。主耶穌啊，我願你來！阿們。
+
+---
+
+*三書精讀項目 · 耶穌基督完整生平 · 第三十七章 · 終章*
 
 
 \pagebreak

@@ -35,12 +35,13 @@
 %% ============================================
 \usepackage{fontspec}
 
-% Main CJK fonts
+% Main CJK fonts — Ligatures=TeX enables ``''→curly quotes + ---→em-dash
 \setmainfont{Songti SC}[
   BoldFont=Songti SC Bold,
-  ItalicFont=Kaiti SC
+  ItalicFont=Kaiti SC,
+  Ligatures=TeX
 ]
-\setsansfont{PingFang SC}
+\setsansfont[Ligatures=TeX]{PingFang SC}
 \setmonofont{Menlo}
 
 % Calligraphy fonts for special use - 書法字型
@@ -332,58 +333,56 @@
 %% LITURGICAL COLORS CHART
 %% ============================================
 \newcommand{\colorschart}{%
-% Compact: scale 0.55 for side-by-side layout with wheel
+% Wider column layout: swatch | English | Chinese | When
 \begin{tikzpicture}[scale=0.55, transform shape]
-  % Color swatches matching the liturgical wheel colors exactly
-
-  % Row 6 - Violet/Purple (Advent uses AdventBlue, Lent uses LentPurple)
+  % Row 6 - Violet/Purple
   \fill[AdventBlue!70] (0,6) rectangle (0.8,6.7);
   \fill[LentPurple!60] (0.85,6) rectangle (1.6,6.7);
   \draw[black!50] (0,6) rectangle (1.6,6.7);
-  \node[font=\small\bfseries, right] at (1.8,6.35) {Violet/Purple};
-  \node[font=\small, right] at (4.5,6.35) {紫色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,6.35) {Advent, Lent 將臨期、大齋期};
+  \node[font=\small\bfseries, anchor=west] at (1.9,6.35) {Violet/Purple};
+  \node[font=\small, anchor=west] at (4.9,6.35) {紫色};
+  \node[font=\scriptsize, anchor=west, text width=6.5cm] at (7.0,6.35) {Advent, Lent \;\textperiodcentered\; 將臨期、大齋期};
 
-  % Row 5 - White/Gold (Christmas and Easter)
+  % Row 5 - White/Gold
   \fill[ChristmasWhite] (0,5.1) rectangle (1.6,5.8);
   \draw[LiturgicalGold, line width=1pt] (0,5.1) rectangle (1.6,5.8);
-  \node[font=\small\bfseries, right] at (1.8,5.45) {White (Gold)};
-  \node[font=\small, right] at (4.5,5.45) {白色金色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,5.45) {Christmas, Easter 聖誕、復活節};
+  \node[font=\small\bfseries, anchor=west] at (1.9,5.45) {White / Gold};
+  \node[font=\small, anchor=west] at (4.9,5.45) {白色};
+  \node[font=\scriptsize, anchor=west, text width=6.5cm] at (7.0,5.45) {Christmas, Easter \;\textperiodcentered\; 聖誕、復活節};
 
-  % Row 4 - Green (Ordinary Time)
+  % Row 4 - Green
   \fill[OrdinaryGreen!60] (0,4.2) rectangle (1.6,4.9);
   \draw[black!50] (0,4.2) rectangle (1.6,4.9);
-  \node[font=\small\bfseries, right] at (1.8,4.55) {Green};
-  \node[font=\small, right] at (4.5,4.55) {綠色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,4.55) {Ordinary Time 常年期};
+  \node[font=\small\bfseries, anchor=west] at (1.9,4.55) {Green};
+  \node[font=\small, anchor=west] at (4.9,4.55) {綠色};
+  \node[font=\scriptsize, anchor=west, text width=6.5cm] at (7.0,4.55) {Ordinary Time \;\textperiodcentered\; 常年期};
 
-  % Row 3 - Red (Holy Week, Pentecost)
+  % Row 3 - Red
   \fill[HolyWeekRed!70] (0,3.3) rectangle (1.6,4.0);
   \draw[black!50] (0,3.3) rectangle (1.6,4.0);
-  \node[font=\small\bfseries, right] at (1.8,3.65) {Red};
-  \node[font=\small, right] at (4.5,3.65) {紅色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,3.65) {Holy Week, Pentecost 聖週、五旬節};
+  \node[font=\small\bfseries, anchor=west] at (1.9,3.65) {Red};
+  \node[font=\small, anchor=west] at (4.9,3.65) {紅色};
+  \node[font=\scriptsize, anchor=west, text width=6.5cm] at (7.0,3.65) {Holy Week, Pentecost \;\textperiodcentered\; 聖週、五旬節};
 
-  % Row 2 - Black (Good Friday - optional)
+  % Row 2 - Black
   \fill[black] (0,2.4) rectangle (1.6,3.1);
   \draw[black!50] (0,2.4) rectangle (1.6,3.1);
-  \node[font=\small\bfseries, right] at (1.8,2.75) {Black};
-  \node[font=\small, right] at (4.5,2.75) {黑色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,2.75) {Good Friday 受難日};
+  \node[font=\small\bfseries, anchor=west] at (1.9,2.75) {Black};
+  \node[font=\small, anchor=west] at (4.9,2.75) {黑色};
+  \node[font=\scriptsize, anchor=west, text width=6.5cm] at (7.0,2.75) {Good Friday \;\textperiodcentered\; 受難日};
 
   % Row 1 - Rose
   \fill[pink] (0,1.5) rectangle (1.6,2.2);
   \draw[black!50] (0,1.5) rectangle (1.6,2.2);
-  \node[font=\small\bfseries, right] at (1.8,1.85) {Rose};
-  \node[font=\small, right] at (4.5,1.85) {玫瑰色};
-  \node[font=\scriptsize, right, text width=5.5cm] at (5.8,1.85) {Gaudete, Laetare 喜樂主日};
+  \node[font=\small\bfseries, anchor=west] at (1.9,1.85) {Rose};
+  \node[font=\small, anchor=west] at (4.9,1.85) {玫瑰色};
+  \node[font=\scriptsize, anchor=west, text width=6.5cm] at (7.0,1.85) {Gaudete, Laetare \;\textperiodcentered\; 喜樂主日};
 
   % Title
-  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (5.5,7.3) {LITURGICAL COLORS 禮儀顏色};
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (6.8,7.3) {LITURGICAL COLORS 禮儀顏色};
 
-  % Border
-  \draw[LiturgicalGold, line width=1.2pt] (-0.3,1.2) rectangle (12,7.7);
+  % Border (widened)
+  \draw[LiturgicalGold, line width=1.2pt] (-0.3,1.2) rectangle (13.7,7.7);
 
 \end{tikzpicture}
 }
@@ -393,43 +392,48 @@
 %% ============================================
 \newcommand{\lectionarycycle}{%
 \begin{tikzpicture}[scale=1.0, transform shape]
-  % Three-year cycle circles
-  \def\rad{2.3}
+  % Three-year cycle circles — separated for readability
+  \def\rad{1.95}
+  \def\cx{3.7}
 
   % Year A
-  \draw[LiturgicalRed, line width=3pt] (-2.8,0) circle (\rad);
-  \fill[LiturgicalRed!20] (-2.8,0) circle (\rad);
-  \node[font=\Large\bfseries, text=LiturgicalRed] at (-2.8,0.6) {Year A};
-  \node[font=\normalsize] at (-2.8,0) {Matthew 馬太};
-  \node[font=\tiny\itshape] at (-2.8,-0.8) {2026, 2029...};
+  \fill[LiturgicalRed!20] (-\cx,0) circle (\rad);
+  \draw[LiturgicalRed, line width=3pt] (-\cx,0) circle (\rad);
+  \node[font=\Large\bfseries, text=LiturgicalRed] at (-\cx,0.75) {Year A};
+  \node[font=\normalsize] at (-\cx,-0.05) {Matthew 馬太};
+  \node[font=\tiny\itshape, text=TextGray] at (-\cx,-0.9) {2026, 2029, 2032...};
 
   % Year B
-  \draw[OrdinaryGreen!80!black, line width=3pt] (0,0) circle (\rad);
   \fill[OrdinaryGreen!20] (0,0) circle (\rad);
-  \node[font=\Large\bfseries, text=OrdinaryGreen!80!black] at (0,0.6) {Year B};
-  \node[font=\normalsize] at (0,0) {Mark 馬可};
-  \node[font=\tiny\itshape] at (0,-0.8) {2024, 2027...};
+  \draw[OrdinaryGreen!80!black, line width=3pt] (0,0) circle (\rad);
+  \node[font=\Large\bfseries, text=OrdinaryGreen!80!black] at (0,0.75) {Year B};
+  \node[font=\normalsize] at (0,-0.05) {Mark 馬可};
+  \node[font=\tiny\itshape, text=TextGray] at (0,-0.9) {2024, 2027, 2030...};
 
   % Year C
-  \draw[LiturgicalBlue, line width=3pt] (2.8,0) circle (\rad);
-  \fill[LiturgicalBlue!20] (2.8,0) circle (\rad);
-  \node[font=\Large\bfseries, text=LiturgicalBlue] at (2.8,0.6) {Year C};
-  \node[font=\normalsize] at (2.8,0) {Luke 路加};
-  \node[font=\tiny\itshape] at (2.8,-0.8) {2025, 2028...};
+  \fill[LiturgicalBlue!20] (\cx,0) circle (\rad);
+  \draw[LiturgicalBlue, line width=3pt] (\cx,0) circle (\rad);
+  \node[font=\Large\bfseries, text=LiturgicalBlue] at (\cx,0.75) {Year C};
+  \node[font=\normalsize] at (\cx,-0.05) {Luke 路加};
+  \node[font=\tiny\itshape, text=TextGray] at (\cx,-0.9) {2025, 2028, 2031...};
 
-  % Connecting arrows
-  \draw[-{Stealth}, line width=1.5pt, gray] (-0.7,\rad*0.65) arc (125:55:1.4);
-  \draw[-{Stealth}, line width=1.5pt, gray] (3.5,-\rad*0.65) arc (-55:-125:1.4);
-  \draw[-{Stealth}, line width=1.5pt, gray] (-2.8,-\rad-0.3) -- (-2.8,-\rad-0.7) -- (2.8,-\rad-0.7) -- (2.8,-\rad-0.3);
+  % Connecting arrows — top arcs A→B and B→C
+  \draw[-{Stealth}, line width=1.5pt, gray]
+    ([xshift=0.55cm,yshift=0.6cm]-\cx,0) to[bend left=25] ([xshift=-0.55cm,yshift=0.6cm]0,0);
+  \draw[-{Stealth}, line width=1.5pt, gray]
+    ([xshift=0.55cm,yshift=0.6cm]0,0) to[bend left=25] ([xshift=-0.55cm,yshift=0.6cm]\cx,0);
+  % Bottom return arrow C→A
+  \draw[-{Stealth}, line width=1.5pt, gray]
+    (\cx,-\rad-0.35) -- (\cx,-\rad-0.65) -- (-\cx,-\rad-0.65) -- (-\cx,-\rad-0.35);
 
   % Note about John
-  \node[font=\footnotesize\itshape, text width=6cm, align=center] at (0,-3.8)
-       {The Gospel of John is read during Lent and Easter\\
-        約翰福音在大齋期和復活期誦讀};
+  \node[font=\footnotesize\itshape, text width=8cm, align=center] at (0,-3.7)
+       {The Gospel of John is read during Lent \& Easter\\
+        約翰福音於大齋期和復活期誦讀};
 
   % Title
-  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,3.3) {REVISED COMMON LECTIONARY};
-  \node[font=\small] at (0,2.8) {Three-Year Sunday Cycle 三年主日循環};
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,3.1) {REVISED COMMON LECTIONARY};
+  \node[font=\small] at (0,2.55) {Three-Year Sunday Cycle \;\textperiodcentered\; 三年主日循環};
 
 \end{tikzpicture}
 }
@@ -438,41 +442,58 @@
 %% DAILY OFFICE HOURS DIAGRAM
 %% ============================================
 \newcommand{\dailyoffice}{%
-% Full page: scale 1.0
+% 24-hour clock: 0h top, 6h east, 12h south, 18h west. Angle = 90 - 15*hour.
 \begin{tikzpicture}[scale=1.0, transform shape]
   % Clock face
   \draw[LiturgicalGold, line width=2pt] (0,0) circle (3.3);
   \fill[white] (0,0) circle (3.2);
 
-  % Hour markers
-  \foreach \angle/\hour in {90/12, 60/1, 30/2, 0/3, -30/4, -60/5, -90/6, -120/7, -150/8, 180/9, 150/10, 120/11} {
-    \node[font=\small] at (\angle:2.8) {\hour};
-    \draw[gray] (\angle:2.5) -- (\angle:2.3);
+  % 24-hour markers (every 3 hours)
+  \foreach \h in {0,3,6,9,12,15,18,21} {
+    \pgfmathsetmacro{\ang}{90 - 15*\h}
+    \node[font=\footnotesize] at (\ang:2.85) {\h};
+    \draw[gray, line width=0.4pt] (\ang:2.55) -- (\ang:2.35);
+  }
+  \foreach \h in {1,2,4,5,7,8,10,11,13,14,16,17,19,20,22,23} {
+    \pgfmathsetmacro{\ang}{90 - 15*\h}
+    \draw[gray, line width=0.3pt] (\ang:2.50) -- (\ang:2.40);
   }
 
-  % Office times (approximate)
-  % Matins/Vigils - 3am
-  \fill[AdventBlue!40] (0,0) -- (0:2.1) arc (0:-30:2.1) -- cycle;
-  \node[font=\tiny, text=AdventBlue] at (-15:1.6) {Matins 晨禱};
+  % AM/PM dividers
+  \draw[gray, dashed, line width=0.3pt] (0,0) -- (90:2.20);
+  \draw[gray, dashed, line width=0.3pt] (0,0) -- (-90:2.20);
+  \node[font=\scriptsize, text=gray] at (0,2.05) {midnight};
+  \node[font=\scriptsize, text=gray] at (0,-2.05) {noon};
 
-  % Lauds - 6am
-  \fill[LiturgicalGold!40] (0,0) -- (-90:2.1) arc (-90:-120:2.1) -- cycle;
-  \node[font=\tiny, text=LiturgicalGold!80!black] at (-105:1.6) {Lauds 讚美經};
-
-  % Vespers - 6pm
-  \fill[LiturgicalRed!30] (0,0) -- (-90:2.1) arc (-90:-70:2.1) -- cycle;
-  \node[font=\tiny, text=LiturgicalRed] at (-80:1.6) {Vespers 晚禱};
-
-  % Compline - 9pm
-  \fill[AdventBlue!30] (0,0) -- (-30:2.1) arc (-30:-50:2.1) -- cycle;
-  \node[font=\tiny, text=AdventBlue] at (-40:1.6) {Compline 夜禱};
+  % Matins 3am
+  \fill[AdventBlue!40]       (0,0) -- (52.5:2.20) arc (52.5:37.5:2.20) -- cycle;
+  \node[font=\scriptsize, text=AdventBlue, anchor=west] at (45:2.95) {Matins 晨禱};
+  % Lauds 6am
+  \fill[LiturgicalGold!50]   (0,0) -- (7.5:2.20) arc (7.5:-7.5:2.20) -- cycle;
+  \node[font=\scriptsize, text=LiturgicalGold!80!black, anchor=west] at (0:2.95) {Lauds 讚美經};
+  % Terce 9am
+  \fill[OrdinaryGreen!40]    (0,0) -- (-37.5:2.20) arc (-37.5:-52.5:2.20) -- cycle;
+  \node[font=\scriptsize, text=OrdinaryGreen!70!black, anchor=west] at (-45:2.95) {Terce 第三時};
+  % Sext noon
+  \fill[LiturgicalRed!30]    (0,0) -- (-82.5:2.20) arc (-82.5:-97.5:2.20) -- cycle;
+  \node[font=\scriptsize, text=LiturgicalRed, anchor=north] at (-90:2.95) {Sext 第六時};
+  % None 3pm
+  \fill[LiturgicalGold!50]   (0,0) -- (-127.5:2.20) arc (-127.5:-142.5:2.20) -- cycle;
+  \node[font=\scriptsize, text=LiturgicalGold!80!black, anchor=east] at (-135:2.95) {None 第九時};
+  % Vespers 6pm
+  \fill[LiturgicalRed!40]    (0,0) -- (187.5:2.20) arc (187.5:172.5:2.20) -- cycle;
+  \node[font=\scriptsize, text=LiturgicalRed, anchor=east] at (180:2.95) {Vespers 晚禱};
+  % Compline 9pm
+  \fill[AdventBlue!30]       (0,0) -- (142.5:2.20) arc (142.5:127.5:2.20) -- cycle;
+  \node[font=\scriptsize, text=AdventBlue, anchor=east] at (135:2.95) {Compline 夜禱};
 
   % Clock center
-  \fill[black] (0,0) circle (0.08);
+  \fill[LiturgicalGold] (0,0) circle (0.10);
+  \fill[LiturgicalRed]  (0,0) circle (0.06);
 
-  % Title
-  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,-4.2) {THE DAILY OFFICE 每日禮課};
-  \node[font=\footnotesize] at (0,-4.7) {Liturgy of the Hours 時辰禮儀};
+  % Title below
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,-4.0) {THE DAILY OFFICE 每日禮課};
+  \node[font=\footnotesize] at (0,-4.5) {Liturgy of the Hours \;\textperiodcentered\; 時辰禮儀 \;\textperiodcentered\; 24-hour cycle};
 
 \end{tikzpicture}
 }
@@ -978,7 +999,7 @@
   % Key verse
   \node[font=\small\bfseries,anchor=west,color=JesusRed] at (0.3,5.7) {啟22:20};
   \node[font=\small\itshape,anchor=west,color=JesusRed,text width=11cm] at (0.3,5.2)
-    {「是的，我必快來！」阿們！主耶穌啊，我願你來！};
+    {「是的，我必快來！」阿們！主耶穌啊，我願祢來！};
   \node[font=\small,anchor=west,color=TextGray] at (0.3,4.7)
     {"Surely I am coming soon." Amen. Come, Lord Jesus!};
 
@@ -1204,36 +1225,39 @@ $endif$
 % ============================================
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture, overlay]
-  % Parchment background (full page)
   \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  % Outer gold border
-  \draw[LiturgicalGold, line width=2.5pt]
-    ([xshift=0.45in,yshift=0.45in]current page.south west)
+  \draw[LiturgicalGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
     rectangle
-    ([xshift=-0.45in,yshift=-0.45in]current page.north east);
-  % Inner gold border (double-line effect)
-  \draw[LiturgicalGold, line width=0.6pt]
-    ([xshift=0.55in,yshift=0.55in]current page.south west)
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[LiturgicalGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
     rectangle
-    ([xshift=-0.55in,yshift=-0.55in]current page.north east);
-  % Corner ornaments
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[LiturgicalBlue, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
   \foreach \cnr in {south west, south east, north west, north east} {
-    \fill[LiturgicalGold, rotate around={45:([xshift=0pt]current page.\cnr)}]
-      ([xshift=0.5in,yshift=0.5in]current page.\cnr) rectangle
-      ([xshift=0.6in,yshift=0.6in]current page.\cnr);
+    \fill[LiturgicalGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
   }
 \end{tikzpicture}
 
 \begin{center}
-\vspace*{0.55in}
+\vspace*{0.38in}
 
 % Top motif — series identifier
 {\footnotesize\scshape\color{LiturgicalBlue}
-Three Books Deep Reading \textbullet\ Liturgical Edition}\\[0.15cm]
+Three Books Deep Reading \textbullet\ Liturgical Edition}\\[0.08cm]
 {\footnotesize\color{TextGray}
 三書精讀 \textbullet\ 禮儀誦讀版}
 
-\vspace{0.35cm}
+\vspace{0.18cm}
 
 % Decorative top flourish
 \begin{tikzpicture}
@@ -1244,112 +1268,129 @@ Three Books Deep Reading \textbullet\ Liturgical Edition}\\[0.15cm]
   \draw[LiturgicalGold, line width=0.8pt] (0.5,0) -- (2.6,0);
 \end{tikzpicture}
 
-\vspace{0.45cm}
+\vspace{0.20cm}
 
 % Series subtitle
-{\fontsize{14}{16}\selectfont\itshape\color{TextGray}
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray}
 A Gospel Harmony of Matthew, Mark, Luke \& John}
 
-\vspace{0.7cm}
+\vspace{0.25cm}
 
-% ===== CENTRAL CROSS WITH HALO + INRI =====
-\begin{tikzpicture}[scale=1.0, transform shape]
-  % Halo (concentric golden rings)
-  \draw[LiturgicalGold, line width=0.5pt, opacity=0.35] (0,1.05) circle (1.55);
-  \draw[LiturgicalGold, line width=0.4pt, opacity=0.25] (0,1.05) circle (1.85);
-  \draw[LiturgicalGold, line width=0.3pt, opacity=0.15] (0,1.05) circle (2.15);
-  % Radiating rays from halo center
-  \foreach \ang in {0,15,30,...,345} {
-    \draw[LiturgicalGold, line width=0.35pt, opacity=0.40]
+% ===== CENTRAL CROSS WITH HALO + INRI (upgraded, compact) =====
+\begin{tikzpicture}[scale=0.78, transform shape]
+  % Halo — outermost soft glow
+  \draw[LiturgicalGold, line width=0.3pt, opacity=0.10] (0,1.05) circle (2.30);
+  \draw[LiturgicalGold, line width=0.3pt, opacity=0.15] (0,1.05) circle (2.10);
+  \draw[LiturgicalGold, line width=0.4pt, opacity=0.22] (0,1.05) circle (1.85);
+  \draw[LiturgicalGold, line width=0.5pt, opacity=0.32] (0,1.05) circle (1.55);
+  % Dense radiating rays
+  \foreach \ang in {0,10,20,...,350} {
+    \draw[LiturgicalGold, line width=0.35pt, opacity=0.42]
       ({1.05*cos(\ang)}, {1.05+1.05*sin(\ang)}) -- ({1.55*cos(\ang)}, {1.05+1.55*sin(\ang)});
   }
-  % Halo solid ring (highlight)
+  \foreach \ang in {0,90,180,270} {
+    \draw[LiturgicalGold, line width=0.55pt, opacity=0.55]
+      ({1.05*cos(\ang)}, {1.05+1.05*sin(\ang)}) -- ({1.80*cos(\ang)}, {1.05+1.80*sin(\ang)});
+  }
   \draw[LiturgicalGold, line width=1.0pt] (0,1.05) circle (1.05);
+  \draw[LiturgicalGold, line width=0.4pt, opacity=0.45] (0,1.05) circle (0.95);
 
-  % INRI plaque (titulus) above the cross
-  \fill[ScriptureBg, draw=LiturgicalGold, line width=0.6pt]
+  % INRI plaque with shadow
+  \fill[LiturgicalBlue, opacity=0.20] (-0.54,2.53) rectangle (0.56,2.93);
+  \fill[ScriptureBg, draw=LiturgicalGold, line width=0.7pt]
     (-0.55,2.55) rectangle (0.55,2.95);
   \node[font=\tiny\bfseries, color=LiturgicalRed] at (0,2.75) {I.N.R.I.};
 
-  % Vertical beam (tall)
+  % Cross shadow
+  \fill[LiturgicalBlue, opacity=0.18] (-0.12,-1.84) rectangle (0.14,2.56);
+  \fill[LiturgicalBlue, opacity=0.18] (-1.04,1.43) rectangle (1.06,1.69);
+
+  % Cross beams
   \fill[LiturgicalRed] (-0.13,-1.85) rectangle (0.13,2.55);
-  % Horizontal crossbeam
+  \fill[LiturgicalRed, opacity=0.55] (-0.05,-1.85) rectangle (0.02,2.55);
   \fill[LiturgicalRed] (-1.05,1.42) rectangle (1.05,1.68);
-  % Cross flares (gold tips)
-  \fill[LiturgicalGold] (0,2.55) circle (0.10);
-  \fill[LiturgicalGold] (0,-1.85) circle (0.10);
-  \fill[LiturgicalGold] (-1.05,1.55) circle (0.08);
-  \fill[LiturgicalGold] (1.05,1.55) circle (0.08);
-  % Central jewel where beams cross
-  \fill[LiturgicalGold] (0,1.55) circle (0.13);
-  \fill[LiturgicalRed] (0,1.55) circle (0.07);
+  \fill[LiturgicalRed, opacity=0.55] (-1.05,1.58) rectangle (1.05,1.63);
+
+  % Trefoil tips
+  \fill[LiturgicalGold] (0,2.55) circle (0.12);
+  \fill[LiturgicalGold] (-0.10,2.62) circle (0.06);
+  \fill[LiturgicalGold] (0.10,2.62) circle (0.06);
+  \fill[LiturgicalGold] (0,-1.85) circle (0.12);
+  \fill[LiturgicalGold] (-0.10,-1.92) circle (0.06);
+  \fill[LiturgicalGold] (0.10,-1.92) circle (0.06);
+  \fill[LiturgicalGold] (-1.05,1.55) circle (0.10);
+  \fill[LiturgicalGold] (-1.12,1.45) circle (0.05);
+  \fill[LiturgicalGold] (-1.12,1.65) circle (0.05);
+  \fill[LiturgicalGold] (1.05,1.55) circle (0.10);
+  \fill[LiturgicalGold] (1.12,1.45) circle (0.05);
+  \fill[LiturgicalGold] (1.12,1.65) circle (0.05);
+
+  % Central jewel — 3-layered
+  \fill[LiturgicalGold] (0,1.55) circle (0.17);
+  \fill[LiturgicalRed] (0,1.55) circle (0.10);
+  \fill[LiturgicalGold, opacity=0.85] (0,1.58) circle (0.025);
 \end{tikzpicture}
 
-\vspace{0.7cm}
+\vspace{0.30cm}
 
 % Decorative middle flourish
 \textcolor{LiturgicalGold}{\rule{2.8in}{0.8pt}}
 
-\vspace{0.55cm}
+\vspace{0.25cm}
 
 % Main title — Chinese in calligraphy (Kaiti)
-{\fontsize{40}{46}\selectfont\bfseries\color{LiturgicalRed}\kaiti\selectfont
-耶穌基督}\\[0.15cm]
-{\fontsize{26}{30}\selectfont\bfseries\color{LiturgicalBlue}\kaiti\selectfont
+{\fontsize{36}{42}\selectfont\bfseries\color{LiturgicalRed}\kaiti\selectfont
+耶穌基督}\\[0.08cm]
+{\fontsize{22}{26}\selectfont\bfseries\color{LiturgicalBlue}\kaiti\selectfont
 完整生平}
 
-\vspace{0.3cm}
+\vspace{0.18cm}
 
 % Main title — English
-{\fontsize{20}{24}\selectfont\scshape\color{LiturgicalBlue}
+{\fontsize{18}{22}\selectfont\scshape\color{LiturgicalBlue}
 The Complete Life of Jesus Christ}
 
-\vspace{0.4cm}
+\vspace{0.20cm}
 
 \textcolor{LiturgicalGold}{\rule{1.6in}{0.4pt}}
 
-\vspace{0.4cm}
+\vspace{0.20cm}
 
 % Greek motto — Jesus's last word
-{\fontsize{16}{20}\selectfont\itshape\color{TextGray}\greekfont\selectfont
-Τετέλεσται}\\[0.1em]
-{\small\itshape\color{TextGray}
-``It is finished'' \textperiodcentered{} 成了}\\[0.05em]
-{\footnotesize\color{LiturgicalBlue}
-\textemdash\ John 19:30 \textemdash}
+{\fontsize{14}{18}\selectfont\itshape\color{TextGray}\greekfont\selectfont
+Τετέλεσται}\\[0.05em]
+{\footnotesize\itshape\color{TextGray}
+``It is finished'' \textperiodcentered{} 成了 \;\textendash\ John 19:30}
 
 \vfill
 
-% Bottom — framework verse
+% Bottom — framework verse (compact, fits inside gold border)
 \fcolorbox{LiturgicalGold}{ScriptureBg}{%
-\begin{minipage}{4.5in}
+\begin{minipage}{4.3in}
 \centering
-\vspace{0.2cm}
-{\small\color{JesusRed}\kaiti\selectfont
-「我從父出來，到了世界；我又離開世界，往父那裡去。」}\\[0.15em]
-{\footnotesize\itshape\color{TextGray}
-``I came forth from the Father and have come into the world.\\
-Again, I leave the world and go to the Father.''}\\[0.15em]
-{\footnotesize\color{LiturgicalBlue} 約 16:28} \;
-{\footnotesize\color{LiturgicalBlue}\itshape John 16:28}
-\vspace{0.2cm}
+\vspace{0.12cm}
+{\footnotesize\color{JesusRed}\kaiti\selectfont
+「我從父出來，到了世界；我又離開世界，往父那裡去。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``I came forth from the Father and have come into the world.
+Again, I leave the world and go to the Father.''}\\[0.10em]
+{\scriptsize\color{LiturgicalBlue} 約 16:28} \;
+{\scriptsize\color{LiturgicalBlue}\itshape John 16:28}
+\vspace{0.12cm}
 \end{minipage}}
 
-\vspace{0.35cm}
+\vspace{0.10cm}
 
-% Bottom flourish
+% Bottom flourish — small jeweled cross between rules
 \begin{tikzpicture}
-  \draw[LiturgicalGold, line width=0.8pt] (-2.6,0) -- (-0.4,0);
-  \fill[LiturgicalGold] (0,0) circle (0.07);
-  \draw[LiturgicalGold, line width=0.8pt] (0.4,0) -- (2.6,0);
+  \draw[LiturgicalGold, line width=0.7pt] (-2.0,0) -- (-0.30,0);
+  \draw[LiturgicalRed, line width=1.1pt] (0,-0.10) -- (0,0.10);
+  \draw[LiturgicalRed, line width=1.1pt] (-0.09,0.03) -- (0.09,0.03);
+  \fill[LiturgicalGold] (0,0.03) circle (0.022);
+  \draw[LiturgicalGold, line width=0.7pt] (0.30,0) -- (2.0,0);
 \end{tikzpicture}
 
-\vspace{0.25cm}
-
-{\footnotesize\scshape\color{LiturgicalBlue} Soli Deo Gloria}\\[0.05em]
-{\footnotesize\color{TextGray} 唯獨榮耀神}
-
-\vspace{0.55in}
+\vspace{0.25in}
 \end{center}
 \cleardoublepage
 
@@ -1389,7 +1430,7 @@ Again, I leave the world and go to the Father.''}\\[0.15em]
 \centering
 \vspace{0.25cm}
 \large\itshape\color{TextGray}
-\jesus{「認識你——獨一的真神，\\並且認識你所差來的耶穌基督，這就是永生。」}\\[0.1em]
+\jesus{「認識祢——獨一的真神，\\並且認識祢所差來的耶穌基督，這就是永生。」}\\[0.1em]
 \normalsize And this is eternal life, that they know you,\\
 the only true God, and Jesus Christ whom you have sent.\\
 — John 17:3
@@ -1399,9 +1440,27 @@ the only true God, and Jesus Christ whom you have sent.\\
 
 \vspace{0.5cm}
 
-{\large Harmonizing the Four Gospels}\\[0.15in]
-{\Large\scshape Matthew · Mark · Luke · John}\\[0.1in]
-{\large\itshape 37 Chapters · The Total Gospel}
+\vspace{0.35cm}
+
+{\normalsize\itshape 37 Chapters \textperiodcentered\ The Total Gospel}
+
+\vspace{0.5cm}
+
+% Master reading key for the whole book — Elder Wong style
+\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont
+讀經之鑰 \;\textperiodcentered\; How to Read This Book}\\[0.35em]
+{\footnotesize\color{TextGray}\kaiti\selectfont
+不是來讀一本書，是來認識一位活著的主。\\
+若你讀完37章還沒看見祂——請從頭再讀。\\
+這次，把主角放回正確的位子上。}\\[0.25em]
+{\scriptsize\itshape\color{TextGray}
+You are not reading a book — you are meeting a Person.\\
+If after 37 chapters you have not yet seen Him, read it again.}
+\vspace{0.18cm}
+\end{minipage}}
 
 \vfill
 
@@ -1585,13 +1644,45 @@ This book's 37 chapters unfold this single verse.}
 % Daily Office - FULL PAGE
 \thispagestyle{empty}
 \begin{center}
-\vspace*{0.5in}
+\vspace*{0.4in}
 {\Large\bfseries\color{LiturgicalRed} Daily Office Hours}\\[0.1cm]
 {\normalsize 每日禮課}
 
-\vspace{0.6cm}
+\vspace{0.45cm}
 
 \dailyoffice
+
+\vspace{0.5cm}
+
+% Source-citation box — distinguishing biblical roots from church tradition
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{5.6in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont
+這從哪裡來？\;\textperiodcentered\; Where Does This Come From?}\\[0.4em]
+
+\begin{minipage}{2.55in}
+\raggedright\footnotesize\color{TextGray}
+{\bfseries\color{JesusRed}\textcolor{JesusRed}{\checkmark}\;聖經根 Biblical Roots}\\[0.2em]
+\textbullet\ \textbf{詩 119:164}：「一天七次讚美祢」\\
+\textbullet\ \textbf{詩 55:17}：「晚上、早晨、晌午」\\
+\textbullet\ \textbf{但 6:10}：但以理一日三次禱告\\
+\textbullet\ \textbf{徒 3:1; 10:9}：使徒在固定時辰禱告
+\end{minipage}\hfill
+\begin{minipage}{2.55in}
+\raggedright\footnotesize\color{TextGray}
+{\bfseries\color{LiturgicalBlue}\textcolor{LiturgicalBlue}{\checkmark}\;教會傳統 Church Tradition}\\[0.2em]
+\textbullet\ \textit{Didache}（2世紀）：日三次\\
+\textbullet\ Egeria 朝聖記（4世紀）\\
+\textbullet\ 本篤《會規》（6世紀）：八時禱告\\
+\textbullet\ 公禱書（1549）：晨禱+晚禱
+\end{minipage}
+
+\vspace{0.35em}
+{\footnotesize\itshape\color{TextGray}
+「固定時辰禱告」是聖經的；\textit{具體編排（八時/七時/兩時）是教會歷史的有益形式。}}
+\vspace{0.18cm}
+\end{minipage}}
 
 \end{center}
 \cleardoublepage
@@ -1666,12 +1757,44 @@ This book's 37 chapters unfold this single verse.}
 
 \eucharisticstructure
 
-\vspace{0.8cm}
+\vspace{0.5cm}
 
 {\normalsize\itshape\color{TextGray}
 ``Do this in remembrance of me.''\\
 「你們應這樣行，為的是紀念我。」\\
 — Luke 22:19}
+
+\vspace{0.55cm}
+
+% Source-citation box — distinguishing biblical roots from church tradition
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{5.6in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont
+這從哪裡來？\;\textperiodcentered\; Where Does This Come From?}\\[0.4em]
+
+\begin{minipage}{2.55in}
+\raggedright\footnotesize\color{TextGray}
+{\bfseries\color{JesusRed}\textcolor{JesusRed}{\checkmark}\;聖經根 Biblical Roots}\\[0.2em]
+\textbullet\ \textbf{太 26:26-28; 可 14:22; 路 22:19; 林前 11:23-26}\\
+\textbullet\ \jesus{}「拿起餅來祝謝了」(εὐχαριστήσας)\\
+\textbullet\ Eucharist 一詞直接從原文「祝謝」來\\
+\textbullet\ \textbf{林前 11:26}「直等到祂來」
+\end{minipage}\hfill
+\begin{minipage}{2.55in}
+\raggedright\footnotesize\color{TextGray}
+{\bfseries\color{LiturgicalBlue}\textcolor{LiturgicalBlue}{\checkmark}\;教會傳統 Church Tradition}\\[0.2em]
+\textbullet\ \textit{Didache} 9-10（1世紀末）\\
+\textbullet\ Justin Martyr《護教辭》（150）\\
+\textbullet\ Hippolytus《使徒傳承》（215）\\
+\textbullet\ St. James/Basil/Chrysostom 禮儀（4世紀）
+\end{minipage}
+
+\vspace{0.35em}
+{\footnotesize\itshape\color{TextGray}
+「拿餅、祝謝、擘開、分給」是主親自設立的；\textit{結構（anamnesis 紀念 + epiclesis 呼求聖靈）是教會發展出的有益形式。}}
+\vspace{0.18cm}
+\end{minipage}}
 
 \vfill
 
@@ -1699,7 +1822,7 @@ This book's 37 chapters unfold this single verse.}
 
 {\footnotesize\color{TextGray}\itshape
 「神既在古時藉著眾先知多次多方地曉諭列祖，\\
-就在這末世藉著他兒子曉諭我們。」\\[0.08em]
+就在這末世藉著祂兒子曉諭我們。」\\[0.08em]
 Long ago, at many times and in many ways, God spoke to our fathers by the prophets,\\
 but in these last days he has spoken to us by his Son.\\
 — 希伯來書 Hebrews 1:1-2}
@@ -1772,8 +1895,8 @@ spread the Gospel through the Church from Jerusalem to the ends of the earth.}
 \vspace{0.5cm}
 
 {\footnotesize\color{TextGray}\itshape
-「看哪，他駕雲降臨！眾目要看見他，\\
-連刺他的人也要看見他，地上的萬族都要因他哀哭。」\\[0.08em]
+「看哪，祂駕雲降臨！眾目要看見祂，\\
+連刺祂的人也要看見祂，地上的萬族都要因祂哀哭。」\\[0.08em]
 Behold, he is coming with the clouds, and every eye will see him,\\
 even those who pierced him, and all tribes of the earth will wail on account of him.\\
 — 啟示錄 Revelation 1:7}
@@ -1842,6 +1965,91 @@ $body$
 %% --------------------------------------------
 \backmatter
 \pagestyle{plain}      % suppress leaked Ch 37 running header on appendix pages
+
+%% ============================================
+%% 跋 — CODA: A LETTER TO THE READER WHO HAS CLOSED THE BOOK
+%% ============================================
+\cleardoublepage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.6in}
+
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=0.7pt] (-2.3,0) -- (-0.35,0);
+  \draw[LiturgicalRed, line width=1.4pt] (0,-0.18) -- (0,0.22);
+  \draw[LiturgicalRed, line width=1.4pt] (-0.13,0.06) -- (0.13,0.06);
+  \fill[LiturgicalGold] (0,0.06) circle (0.030);
+  \draw[LiturgicalGold, line width=0.7pt] (0.35,0) -- (2.3,0);
+\end{tikzpicture}
+
+\vspace{0.45cm}
+
+{\fontsize{30}{34}\selectfont\bfseries\color{LiturgicalRed}\kaiti\selectfont 跋}\\[0.1cm]
+{\fontsize{18}{22}\selectfont\scshape\color{LiturgicalBlue} Coda}\\[0.20cm]
+{\normalsize\itshape\color{TextGray}\kaiti\selectfont 給合上書的你}\\[0.05em]
+{\footnotesize\itshape\color{TextGray} To the one who has just closed this book}
+
+\vspace{0.45cm}
+\textcolor{LiturgicalGold}{\rule{2.5in}{0.6pt}}
+\vspace{0.55cm}
+
+\noindent\begin{minipage}{4.9in}
+\setlength{\parskip}{0.55em}
+\small\color{TextGray}
+
+\textbf{合上這本書，請先安靜一刻。}
+
+37章的旅程，從太初的道開始，到啟示錄那位騎白馬的結束——你走過了一遍。
+但你應當知道：你\textit{讀完}的，不過是\textit{紙上的字}；
+你\textit{遇見}的——願是\textit{那位字背後的主}。
+
+如果你讀完了，發現自己只是「多懂了一些聖經知識」——
+那麼，請從第1章再讀一遍。\\
+這次，把主角放回正確的位子上。\\
+聖經不為認識祂以外的目的而存在。
+
+如果你讀完了，發現自己\textit{遇見了祂}——
+那麼，這本書的使命已經完成。\\
+請把它放下，去傳。
+\jesus{}「白白地得來，也要白白地捨去。」（太10:8）
+
+\vspace{0.4em}
+
+不是教會缺乏聖經知識的人——\\
+\textbf{教會缺乏被祂的話改變了生命的人。}\\
+你是其中一個嗎？
+
+\vspace{0.4em}
+
+\hfill {\itshape — In Him alone, the same yesterday, today, and forever (Heb 13:8)}
+
+\end{minipage}
+
+\vspace{0.85cm}
+\textcolor{LiturgicalGold}{\rule{2.5in}{0.6pt}}
+\vspace{0.35cm}
+
+{\small\color{JesusRed}\kaiti\selectfont
+\jesus{}「來跟從我！」}\\[0.05em]
+{\footnotesize\itshape\color{TextGray}
+``Follow Me.''}\\[0.05em]
+{\scriptsize\color{LiturgicalBlue} — Matthew 4:19 —}
+
+\end{center}
+\vspace*{\fill}
+
+% Blank reflection page
+\cleardoublepage
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.7in}
+{\footnotesize\itshape\color{LightGray}\kaiti\selectfont
+這一頁留白——\textit{給你寫下今天，祂對你說的那一句話。}}\\[0.05em]
+{\scriptsize\itshape\color{LightGray}
+This page is left blank — for you to write down the one word He spoke to you today.}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
 
 %% ============================================
 %% APPENDIX A: SCRIPTURE INDEX
@@ -2013,6 +2221,847 @@ $body$
 
 \pagebreak
 
+%% ============================================
+%% APPENDIX E: FOUR GOSPELS DISTINCTIVES
+%% ============================================
+\chapter*{Appendix E: Four Gospels Distinctives\\四福音書的獨特信息}
+\addcontentsline{toc}{chapter}{Appendix E: Four Gospels Distinctives 四福音書的獨特信息}
+\markboth{}{}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}\kaiti\selectfont
+獅、牛、人、鷹——四個角度，一位基督。\\
+把四本合在一起，你才看見\textit{完整的祂}。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\section*{馬太福音 Matthew\quad\textemdash\ \textit{The King and His Kingdom of Heaven}}
+
+\noindent\textbf{對象 Audience:} 猶太讀者 \;/\; Jewish readers \\
+\noindent\textbf{象徵 Symbol:} 獅子（猶大支派） \;/\; The Lion (Tribe of Judah) \\
+\noindent\textbf{主題 Theme:} 天國的王 \;/\; The promised Messianic King \\
+\noindent\textbf{關鍵詞 Key Phrase:} \textit{βασιλεία τῶν οὐρανῶν} ``Kingdom of Heaven'' — 32次，馬太獨用 / used 32 times, unique to Matthew
+
+\vspace{0.2cm}
+
+\noindent\textbf{五大講論 Five Great Discourses}（馬太的結構骨幹）:
+
+\begin{small}
+\begin{tabular}{@{}p{1.0cm}p{4.0cm}p{6.5cm}@{}}
+\textbf{5-7} & 登山寶訓 Sermon on the Mount & 天國子民的品格 / Character of citizens \\
+\textbf{10}  & 差遣講論 Mission Discourse    & 天國的使命 / Sending the Twelve \\
+\textbf{13}  & 天國比喻 Kingdom Parables    & 撒種、稗子、芥菜種、麵酵、藏寶、珠子、撒網 \\
+\textbf{18}  & 教會講論 Church Order        & 天國中的弟兄關係 / Forgiveness in community \\
+\textbf{24-25} & 橄欖山講論 Olivet Discourse & 天國的成全 / Consummation \\
+\end{tabular}
+\end{small}
+
+\vspace{0.15cm}
+
+\noindent\textbf{天國的教導 Teaching on Heaven}（馬太獨有的深度）:
+
+\begin{itemize}
+\setlength\itemsep{0.05em}
+\item \textbf{天國像藏寶、像珠子、像撒網} (13:44-50) — 至寶換一切
+\item \textbf{虛心的人有福了，因為天國是他們的} (5:3) — entered by humility
+\item \textbf{若不回轉，變成小孩子的樣式} (18:3) — entered by childlike trust
+\item \textbf{天國近了，你們應當悔改} (4:17) — entered by repentance
+\item \textbf{義要勝於文士和法利賽人} (5:20) — exceeding righteousness
+\item \textbf{為義受逼迫的人有福了} (5:10) — entered through persecution
+\end{itemize}
+
+\noindent\textbf{舊約應驗 Fulfillment Formula:}「這是要應驗主藉著先知所說的話」共16次以上——馬太是\textit{舊約—新約之橋}.
+
+\vspace{0.3cm}
+
+\section*{馬可福音 Mark\quad\textemdash\ \textit{The Suffering Servant who is the Son of God}}
+
+\noindent\textbf{對象:} 羅馬讀者 \;/\; Roman readers \quad\textbf{象徵:} 牛（僕人） \;/\; The Ox \\
+\noindent\textbf{主題:} \jesus{}神的兒子作了僕人 \;/\; The Son of God who serves \\
+\noindent\textbf{關鍵詞:} \textit{εὐθύς} ``immediately'' — 42次 — gospel of action
+
+\vspace{0.2cm}
+
+\noindent\textbf{開卷宣告 Opening Declaration} (Mark 1:1):
+
+\begin{center}
+\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\centering\vspace{0.15cm}
+{\small\color{TextGray}\kaiti\selectfont
+「神的兒子，耶穌基督福音的起頭。」}\\[0.10em]
+{\footnotesize\itshape\color{TextGray}
+``The beginning of the gospel of Jesus Christ, the Son of God.''}\\[0.10em]
+{\scriptsize\color{LiturgicalBlue} \textemdash\ Mark 1:1 \textemdash}
+\vspace{0.15cm}
+\end{minipage}}
+\end{center}
+
+\noindent\textbf{希伯來書的框架 The Hebrews Framework} (Heb 1-3) — 馬可所宣告的順序，正是希伯來書所論證的次序：
+
+\begin{itemize}
+\setlength\itemsep{0.08em}
+\item \textbf{先是兒子 First the Son:}「就在這末世藉著祂兒子曉諭我們」(來1:1-2)
+\item \textbf{兒子超越天使:}「神對哪一個天使說過：你是我的兒子？」(來1:5)
+\item \textbf{後作僕人 Then the Servant:}「摩西為僕人，在神的全家盡忠；但基督為兒子，治理神的家」(來3:5-6)
+\item \textbf{神家中盡忠的兒子:}「我們若將可誇的盼望和膽量堅持到底，便是祂的家了」(來3:6)
+\end{itemize}
+
+\vspace{0.1cm}
+
+\noindent\textbf{給我們的榜樣 The Pattern for Us} — 先為兒子，後作僕人。我們因信被收納為神的兒女（約1:12），然後在教會中作彼此的僕人（可10:43-45）。\textit{Not servants striving to become sons, but sons set free to serve.}
+
+\vspace{0.2cm}
+
+\noindent\textbf{馬可的特色:}\;無家譜（僕人不需血統）\;\textbullet\;多神蹟少比喻\;\textbullet\;短促有力的敘述（彼得講道風格）\;\textbullet\;大使命結尾「往普天下去」(16:15)
+
+\pagebreak
+
+\section*{路加福音 Luke\quad\textemdash\ \textit{The Universal Savior of All}}
+
+\noindent\textbf{對象:} 提阿非羅（希臘讀者）\quad\textbf{象徵:} 人（完全的人子）\quad\textbf{作者:} 路加，醫生（西4:14），唯一外邦人作者
+
+\vspace{0.15cm}
+
+\noindent\textbf{家譜:} 追溯至亞當——\textit{全人類的救主}.
+
+\vspace{0.2cm}
+
+\noindent\textbf{路加獨有的18個比喻 Parables Found ONLY in Luke:}
+
+{\small
+\begin{longtable}{@{}p{0.6cm}p{5.5cm}p{4.5cm}@{}}
+\endfirsthead
+\multicolumn{3}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\endhead
+10:25 & 好撒馬利亞人 Good Samaritan & 真鄰舍是憐憫人的 \\
+11:5  & 半夜的朋友 Friend at Midnight & 切迫的禱告 \\
+12:16 & 無知的財主 The Rich Fool & 在神面前富足 \\
+13:6  & 不結果子的無花果樹 Barren Fig Tree & 寬容期 \\
+14:7  & 婚筵上的客人 The Lowest Seat & 謙卑必升高 \\
+14:16 & 大筵席 The Great Banquet & 神的邀請被拒 \\
+14:28 & 蓋樓與打仗 Building \& War & 計算代價 \\
+15:8  & 失錢的婦人 The Lost Coin & 神尋找罪人 \\
+15:11 & 浪子的比喻 The Prodigal Son & 父親奔向兒子 \\
+16:1  & 不義的管家 Unjust Steward & 善用今世錢財 \\
+16:19 & 財主與拉撒路 Rich Man \& Lazarus & 死後永恆 \\
+17:7  & 無用的僕人 Unprofitable Servant & 盡了本分 \\
+18:1  & 不義的官 Persistent Widow & 恆切禱告 \\
+18:9  & 法利賽人與稅吏 Pharisee \& Tax Collector & 謙卑得稱義 \\
+19:11 & 十錠銀子 The Ten Minas & 善用恩賜 \\
+\end{longtable}
+}
+
+\vspace{0.2cm}
+
+\noindent\textbf{路加獨有的主題:}
+
+\begin{itemize}
+\setlength\itemsep{0.05em}
+\item \textbf{婦女:} 馬利亞、亞拿、馬大馬利亞、寡婦的兩個小錢、抹大拉的馬利亞
+\item \textbf{禱告:} 耶穌的7次禱告唯路加記載
+\item \textbf{聖靈:} 提及聖靈次數超過其他三福音總和
+\item \textbf{貧窮人與外邦人:} 撒馬利亞人、稅吏、寡婦、痲瘋病人——救恩臨到被棄絕者
+\item \textbf{喜樂與詩歌:} 馬利亞尊主頌、撒迦利亞頌、天使榮耀頌、西面頌——\textit{Gospel of Songs}
+\item \textbf{連續性:} 路加福音與使徒行傳是上下卷——從基督到教會
+\end{itemize}
+
+\vspace{0.3cm}
+
+\section*{約翰福音 John\quad\textemdash\ \textit{The Divine Son of God}}
+
+\noindent\textbf{對象:} 普世所有相信者 \quad\textbf{象徵:} 鷹（天上的視角） \quad\textbf{主題:} 神的兒子，道成肉身
+
+\vspace{0.1cm}
+
+\noindent\textbf{宗旨:}「但記這些事，要叫你們信耶穌是基督，是神的兒子，並且叫你們信了祂，就可以因祂的名得生命」(約20:31)
+
+\vspace{0.2cm}
+
+\noindent\textbf{七大神蹟 Seven Signs} (σημεῖα) — \textit{詳見 Appendix G}
+
+\vspace{0.1cm}
+
+\noindent\textbf{七大「我是」宣告 Seven I AM Statements} (Ἐγώ εἰμι — divine claims):
+
+\begin{small}
+\begin{tabular}{@{}r@{\ \ }p{4.5cm}p{4.2cm}@{}}
+\textbf{1.} & 我是生命的糧 & I am the Bread of Life (6:35) \\
+\textbf{2.} & 我是世界的光 & I am the Light of the World (8:12) \\
+\textbf{3.} & 我是羊的門 & I am the Door of the Sheep (10:7) \\
+\textbf{4.} & 我是好牧人 & I am the Good Shepherd (10:11) \\
+\textbf{5.} & 我是復活，我是生命 & I am the Resurrection \& Life (11:25) \\
+\textbf{6.} & 我是道路、真理、生命 & I am the Way, Truth, Life (14:6) \\
+\textbf{7.} & 我是真葡萄樹 & I am the True Vine (15:1) \\
+\end{tabular}
+\end{small}
+
+\vspace{0.15cm}
+
+\noindent\textbf{約翰的特色:}\;永恆家譜（「太初有道」）\;\textbullet\;無比喻而是直接的神學宣告\;\textbullet\;全書一半（12-21章）為受難週\;\textbullet\;90\%內容不見於前三福音
+
+\vspace{0.3cm}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}
+\centering\vspace{0.2cm}
+{\footnotesize\color{TextGray}\kaiti\selectfont
+\textbf{總結 Synthesis:} 馬太呈獻王（看祂的權柄），馬可呈獻僕人（看祂的工作），
+路加呈獻人子（看祂的憐憫），約翰呈獻神子（看祂的榮耀）。\\
+\textit{Matthew shows His authority, Mark His work,
+Luke His compassion, John His glory — four faces, one Christ.}}
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textbf{帶領提問 Leading Question}\\[0.2em]
+\textit{你最常讀哪一本福音書？少讀的那本，正是你還沒看見的耶穌的那一面。\\
+Which Gospel do you read most? The one you neglect is the face of Christ you have not yet seen.}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX F: PARABLES OF JESUS
+%% ============================================
+\chapter*{Appendix F: Parables of Jesus 耶穌的比喻}
+\addcontentsline{toc}{chapter}{Appendix F: Parables of Jesus 耶穌的比喻}
+\markboth{}{}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}\kaiti\selectfont
+比喻不是道德故事——是\textit{天國的奧祕}（太13:11）。\\
+路加15章的三個比喻揭示\textit{父神的心}；馬太13章的七個比喻揭示\textit{天國的本質}。\\
+若沒有看見\textbf{父神}和\textbf{天國}，比喻只是好聽的故事。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textit{耶穌用比喻教導，叫天國的奧祕向小孩子顯明，向自以為聰明的隱藏。
+Jesus taught in parables — concealing truth from the proud, revealing it to the childlike (Mt 11:25).}
+
+\vspace{0.3cm}
+
+\section*{天國的比喻 Parables of the Kingdom (Matthew 13)}
+
+\begin{small}
+\begin{tabular}{@{}p{3.8cm}p{2.0cm}p{6.0cm}@{}}
+\textbf{Parable 比喻} & \textbf{Reference} & \textbf{Key Truth 核心真理} \\
+\midrule
+撒種的比喻 Sower         & Mt 13:3-23   & 道種落在四種土壤——心的回應決定收成 \\
+稗子的比喻 Wheat \& Tares & Mt 13:24-30 & 善惡並存至末日；勿急於拔除 \\
+芥菜種 Mustard Seed       & Mt 13:31-32 & 從微小到龐大——天國的擴展 \\
+麵酵 Leaven               & Mt 13:33   & 內在滲透——天國的影響力 \\
+藏寶 Hidden Treasure      & Mt 13:44   & 至寶可換一切——天國的價值 \\
+珠子 Pearl of Great Price & Mt 13:45-46 & 全力以赴——天國的尋求 \\
+撒網 Dragnet              & Mt 13:47-50 & 末日的分別——善惡終必分開 \\
+\end{tabular}
+\end{small}
+
+\section*{失而復得的比喻 Parables of the Lost (Luke 15) \quad\textemdash\ \textit{The Father's Heart}}
+
+\noindent\textit{路加15章三個比喻不是三個故事，是\textbf{父神尋找罪人}的三幅圖畫。
+The three parables of Luke 15 are not three stories — they are three portraits of the Father seeking the lost.}
+
+\vspace{0.15cm}
+
+\begin{small}
+\begin{tabular}{@{}p{3.8cm}p{2.0cm}p{6.0cm}@{}}
+失羊 Lost Sheep      & Lk 15:3-7   & 牧人撇下九十九尋找一隻——\textit{子}尋找 \\
+失錢 Lost Coin       & Lk 15:8-10  & 婦人點燈打掃——\textit{聖靈}尋找 \\
+浪子 Prodigal Son    & Lk 15:11-32 & 父親奔向回頭的兒子——\textit{父}尋找；\jesus{}「父」的形象巔峰 \\
+\end{tabular}
+\end{small}
+
+\vspace{0.1cm}
+
+\noindent{\footnotesize\itshape\color{TextGray}三位一體都在尋找你 —— Triune God seeking the lost: Son, Spirit, Father.}
+
+\section*{管家與職分的比喻 Parables of Stewardship}
+
+\begin{small}
+\begin{tabular}{@{}p{3.8cm}p{2.0cm}p{6.0cm}@{}}
+才幹 Talents          & Mt 25:14-30 & 五千、二千、一千——按才幹交託 \\
+十錠銀子 Ten Minas    & Lk 19:11-27 & 一錠賺十錠——忠心倍增 \\
+不義的管家 Unjust Steward & Lk 16:1-13 & 用今世錢財結交永遠朋友 \\
+無用的僕人 Unprofitable Servant & Lk 17:7-10 & 盡了本分仍說「無用的僕人」 \\
+忠心的管家 Faithful Steward & Lk 12:42-48 & 主回來看見他這樣行就有福 \\
+\end{tabular}
+\end{small}
+
+\section*{禱告的比喻 Parables of Prayer}
+
+\begin{small}
+\begin{tabular}{@{}p{3.8cm}p{2.0cm}p{6.0cm}@{}}
+半夜的朋友 Friend at Midnight & Lk 11:5-13 & 切迫的祈求——神的應允 \\
+不義的官 Persistent Widow    & Lk 18:1-8   & 常常禱告，不可灰心 \\
+法利賽人與稅吏 Pharisee \& Tax Collector & Lk 18:9-14 & 唯有謙卑悔罪者得稱義 \\
+\end{tabular}
+\end{small}
+
+\section*{憐憫與恩典的比喻 Parables of Mercy}
+
+\begin{small}
+\begin{tabular}{@{}p{3.8cm}p{2.0cm}p{6.0cm}@{}}
+好撒馬利亞人 Good Samaritan  & Lk 10:25-37 & 真鄰舍是憐憫人的 \\
+不饒恕的僕人 Unforgiving Servant & Mt 18:21-35 & 蒙赦免者當赦免人 \\
+葡萄園的工人 Vineyard Laborers & Mt 20:1-16 & 神主權的恩典 \\
+\end{tabular}
+\end{small}
+
+\section*{審判與末世的比喻 Parables of Judgment}
+
+\begin{small}
+\begin{tabular}{@{}p{3.8cm}p{2.0cm}p{6.0cm}@{}}
+十童女 Ten Virgins  & Mt 25:1-13  & 預備油——警醒等候 \\
+綿羊與山羊 Sheep \& Goats & Mt 25:31-46 & 行在小弟兄身上 \\
+惡園戶 Wicked Tenants    & Mt 21:33-46 & 殺害愛子的結局 \\
+無花果樹 Barren Fig Tree & Lk 13:6-9   & 寬容期之後的審判 \\
+財主與拉撒路 Rich Man \& Lazarus & Lk 16:19-31 & 死後永恆——大鴻溝 \\
+婚筵的衣服 Wedding Garment & Mt 22:1-14 & 被召的多，選上的少 \\
+\end{tabular}
+\end{small}
+
+\section*{筵席與邀請的比喻 Parables of Invitation}
+
+\begin{small}
+\begin{tabular}{@{}p{3.8cm}p{2.0cm}p{6.0cm}@{}}
+大筵席 Great Banquet     & Lk 14:16-24 & 邀請被拒——轉向卑微者 \\
+婚筵的客人 Wedding Feast & Mt 22:1-14  & 王子的婚宴 \\
+\end{tabular}
+\end{small}
+
+\vspace{0.2cm}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}
+\centering\vspace{0.2cm}
+{\footnotesize\color{TextGray}\kaiti\selectfont
+\textbf{比喻共計約40多個} \;/\; \textit{Approximately 40+ parables recorded in the Synoptics.}
+\textbf{約翰福音不用比喻} \;/\; \textit{John uses no parables — only the seven I AM declarations.}}
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textbf{帶領提問 Leading Question}\\[0.2em]
+\textit{在這40多個比喻中，哪一個你以為熟悉，卻從未真正聽進去？\\
+今天，再讀一次，問：耶穌借這比喻在向我說什麼？\\
+Which of these parables do you assume you know, but have never truly heard?\\
+Read it once more today — and ask: what is Jesus saying to me through it?}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX G: SEVEN SIGNS OF JOHN
+%% ============================================
+\chapter*{Appendix G: Seven Signs of John 約翰福音七大神蹟}
+\addcontentsline{toc}{chapter}{Appendix G: Seven Signs of John 約翰福音七大神蹟}
+\markboth{}{}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}\kaiti\selectfont
+sēmeion 是\textit{記號}，不是\textit{表演}。\\
+每個記號都在問你同一個問題——\textbf{你有沒有看見祂的榮光？}（約1:14）}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textit{約翰沒有用「神蹟」(dynamis/miracle) 一詞，而用「神蹟」(sēmeion/sign)——
+這些神蹟是\textbf{指向耶穌身份的記號}。
+John never uses ``miracle'' (dynamis), but ``sign'' (sēmeion) — indicators pointing to who Jesus is.}
+
+\vspace{0.3cm}
+
+\noindent\textbf{總綱經文 The Framing Verse} (John 20:30-31):
+
+\begin{center}
+\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{5.5in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{TextGray}\kaiti\selectfont
+「耶穌在門徒面前另外行了許多神蹟，沒有記在這書上。但記這些事，要叫你們信
+耶穌是基督，是神的兒子，並且叫你們信了祂，就可以因祂的名得生命。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``Many other signs Jesus did... but these are written that you may believe...''}\\[0.05em]
+{\scriptsize\color{LiturgicalBlue} \textemdash\ John 20:30-31 \textemdash}
+\vspace{0.15cm}
+\end{minipage}}
+\end{center}
+
+\vspace{0.3cm}
+
+\section*{1. 水變酒 Water into Wine\quad(John 2:1-11)}
+\noindent\textbf{地點:} 加利利的迦拿婚宴 \;/\; Wedding at Cana \\
+\noindent\textbf{記載:}「這是耶穌所行的頭一件神蹟，是在加利利的迦拿行的，顯出祂的榮耀來」(2:11) \\
+\noindent\textbf{屬靈意義:} 舊約律法的水變為新約恩典的酒——\jesus{}「我來不是要廢掉，乃是要成全」。婚宴象徵末世彌賽亞的喜宴；耶穌就是真新郎。\\
+\textit{Old Covenant water transformed into New Covenant wine. The marriage feast prefigures the Messianic banquet; Jesus is the true Bridegroom.}
+
+\vspace{0.2cm}
+
+\section*{2. 醫治大臣之子 Healing the Nobleman's Son\quad(John 4:46-54)}
+\noindent\textbf{記載:}「這是耶穌在加利利行的第二件神蹟」(4:54) \\
+\noindent\textbf{屬靈意義:} 耶穌的話語超越空間——\textit{just one word from Christ heals across distance.}信心不在乎眼見，而在乎話語。「你回去吧，你的兒子活了！」
+
+\vspace{0.2cm}
+
+\section*{3. 醫治三十八年的癱子 Healing at Bethesda\quad(John 5:1-15)}
+\noindent\textbf{地點:} 耶路撒冷畢士大池——安息日爭議的神蹟 \\
+\noindent\textbf{屬靈意義:} 律法（池水）救不了，唯有耶穌的話。本章後續是耶穌與神同等的宣告（5:18-30）。
+
+\vspace{0.2cm}
+
+\section*{4. 五餅二魚餵飽五千 Feeding the 5000\quad(John 6:1-14)}
+\noindent\textbf{唯一四福音都記載的神蹟 The only sign in all 4 Gospels} \\
+\noindent\textbf{屬靈意義:} 接著宣告\jesus{}「我就是生命的糧」(6:35)。耶穌不僅給糧，祂\textit{就是}糧。
+
+\vspace{0.2cm}
+
+\section*{5. 海面行走 Walking on Water\quad(John 6:15-21)}
+\noindent\textbf{記載:} \jesus{}「是我，不要怕」（希臘原文 Ἐγώ εἰμι — \textbf{我是}）\\
+\noindent\textbf{屬靈意義:} 此處第一次出現約翰福音的「我是」——耶和華的名（出3:14）。海與風是創造之物，順服創造者。
+
+\vspace{0.2cm}
+
+\section*{6. 醫治生來瞎眼的 Healing the Man Born Blind\quad(John 9:1-41)}
+\noindent\textbf{地點:} 西羅亞池（譯出來就是「奉差遣」）\\
+\noindent\textbf{屬靈意義:} 緊接著\jesus{}「我是世界的光」(9:5)。物質之光開瞎子的眼，屬靈之光開靈魂的眼。\textit{瞎子終於認出光，法利賽人卻在光中盲目}。
+
+\vspace{0.2cm}
+
+\section*{7. 拉撒路復活 Raising Lazarus\quad(John 11:1-44)}
+\noindent\textbf{記載:} \jesus{}「復活在我，生命也在我」(11:25) \\
+\noindent\textbf{屬靈意義:} 七神蹟的高峰——\textit{the apex sign.}不僅治病、不僅供應，乃是\textbf{勝過死亡}。約翰福音中神性宣告的頂點。
+
+\vspace{0.3cm}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}
+\centering\vspace{0.2cm}
+{\footnotesize\color{TextGray}\kaiti\selectfont
+\textbf{七神蹟的結構:} 神蹟1（水變酒）與神蹟7（拉撒路復活）皆是「無到有」的創造行動；中間五個神蹟是「殘缺到完整」的醫治。\\
+\textit{Signs 1 \& 7 are creative ``out-of-nothing'' acts; the middle five are restorative healings.}}
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textbf{帶領提問 Leading Question}\\[0.2em]
+\textit{你曾為缺乏神蹟而失望嗎？\\
+你忘了——神蹟是\textbf{記號}，不是\textbf{目的}。記號指向祂的榮光。\\
+今天，從哪一個記號裡，你看見了祂？\\
+Have you been disappointed for the lack of miracles?\\
+You forgot — a sign points beyond itself. Through which sign do you see Him today?}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX H: PSALMS & OT MESSIANIC PROPHECIES
+%% ============================================
+\chapter*{Appendix H: Psalms \& OT Messianic Prophecies 詩篇與舊約彌賽亞預言}
+\addcontentsline{toc}{chapter}{Appendix H: Psalms \& OT Messianic Prophecies 詩篇與舊約彌賽亞預言}
+\markboth{}{}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\small\color{JesusRed}\kaiti\selectfont
+「你們若信摩西，也必信我，因為他書上有指著我寫的話。」}\\
+{\footnotesize\itshape\color{TextGray}
+``If you believed Moses, you would believe Me — for he wrote of Me.''}\\[0.15em]
+{\scriptsize\color{LiturgicalBlue} — John 5:46 —}\\[0.3em]
+{\footnotesize\color{TextGray}\kaiti\selectfont
+不是\textit{舊約預言→新約應驗}的兩本書——\\
+是\textbf{一本書}，從頭到尾的\textit{主角只有一位}。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textit{舊約是\textbf{影兒}，新約是\textbf{形體}（西2:17）。
+The Old Testament is the shadow; the New is the substance — Christ veiled in the Old, unveiled in the New.}
+
+\vspace{0.3cm}
+
+\section*{詩篇中的基督 Christ in the Psalms \quad\textemdash\ \textit{The Hidden Protagonist}}
+
+\noindent\textit{讀詩篇最常見的誤解：把詩篇當成\textbf{信徒應達到的標準}。\\
+其實——詩篇的主角是\textbf{耶穌基督}，不是你我。\\
+詩篇1篇的「義人，如一棵栽在溪水旁的樹」——這說的是耶穌；\\
+信徒的狀態，更像「惡人如風吹糠秕一樣」。\\
+詩篇23篇的牧者不是別人，正是好牧人耶穌。\\
+從這個角度讀詩篇，你才能看見光。}
+
+\vspace{0.15cm}
+
+\noindent\textbf{彌賽亞詩篇} — 詩篇是基督預言的寶庫；耶穌復活後親自向以馬忤斯路上的門徒解釋（路24:44）。\textit{The Psalms are the great treasury of Messianic prophecy — Christ Himself opened them on the Emmaus Road.}
+
+\vspace{0.2cm}
+
+{\small
+\begin{longtable}{@{}p{1.7cm}p{5.0cm}p{4.5cm}@{}}
+\textbf{詩篇} & \textbf{預言內容 Prophecy} & \textbf{應驗 Fulfillment} \\
+\midrule\endfirsthead
+\multicolumn{3}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{詩篇} & \textbf{預言內容 Prophecy} & \textbf{應驗 Fulfillment} \\
+\midrule\endhead
+\textbf{詩2}    & 神的兒子，受膏君王 & 太3:17;\; 徒13:33;\; 來1:5 \\
+\textbf{詩8}    & 人子被冠以榮耀尊貴 & 來2:6-9 \\
+\textbf{詩16}   & 不見朽壞，從死裡復活 & 徒2:25-31;\; 徒13:35 \\
+\textbf{詩22}   & 「我的神，為甚麼離棄我」+ 被刺手腳 + 分衣 & 太27:46;\; 約19:23-24;\; 約20:25 \\
+\textbf{詩34:20} & 骨頭一根也不折斷 & 約19:36 \\
+\textbf{詩40:7-8} & 「我來了，為要照祢的旨意行」 & 來10:5-7 \\
+\textbf{詩41:9} & 與我同食者，用腳踢我 & 約13:18 \\
+\textbf{詩45}   & 神膏王，永遠的寶座 & 來1:8-9 \\
+\textbf{詩68:18} & 「升上高天的時候，擄掠了仇敵」 & 弗4:8 \\
+\textbf{詩69:9} & 「為祢的殿心裡焦急」+ 苦膽和醋 & 約2:17;\; 太27:34, 48 \\
+\textbf{詩72}   & 萬王之王，遍地公義 & 太2:11 (尊貴的禮物) \\
+\textbf{詩110}  & 「坐在我的右邊」+ 永遠的祭司，照麥基洗德 & 太22:44;\; 來5:6;\; 來7 \\
+\textbf{詩118:22-23} & 「匠人所棄的石頭，已成了房角石」 & 太21:42;\; 徒4:11;\; 彼前2:7 \\
+\textbf{詩118:26} & 「奉主名來的，是應當稱頌的」 & 太21:9 (進耶路撒冷) \\
+\end{longtable}
+}
+
+\section*{以賽亞書中的基督 Christ in Isaiah}
+
+{\small
+\begin{longtable}{@{}p{1.7cm}p{5.0cm}p{4.5cm}@{}}
+\textbf{經文} & \textbf{預言} & \textbf{應驗} \\
+\midrule\endfirsthead
+\multicolumn{3}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{經文} & \textbf{預言} & \textbf{應驗} \\
+\midrule\endhead
+\textbf{賽7:14}   & 童女懷孕生子，名為以馬內利 & 太1:23;\; 路1:34-35 \\
+\textbf{賽9:6-7}  & 奇妙、策士、全能的神、永在的父、和平的君 & 太1:21-23;\; 路2:11 \\
+\textbf{賽11:1-2} & 耶西的根，被聖靈充滿 & 太3:16;\; 啟5:5 \\
+\textbf{賽40:3}   & 曠野有人聲喊著預備主的道 & 太3:3 (施洗約翰) \\
+\textbf{賽42:1-4} & 神的僕人，外邦人之光 & 太12:17-21 \\
+\textbf{賽50:6}   & 任人打背鬚，不掩面躲避羞辱 & 太26:67;\; 太27:30 \\
+\textbf{賽53}     & \textbf{受苦的僕人}：擔當憂患，鞭傷得醫治 & 太8:17;\; 約12:38;\; 徒8:32;\; 彼前2:24-25 \\
+\textbf{賽61:1-2} & 被膏傳福音給貧窮人 & 路4:17-21 (拿撒勒會堂自宣) \\
+\end{longtable}
+}
+
+\section*{先知書中的基督 Christ in the Other Prophets}
+
+{\small
+\begin{longtable}{@{}p{1.9cm}p{5.0cm}p{4.5cm}@{}}
+\textbf{經文} & \textbf{預言} & \textbf{應驗} \\
+\midrule\endfirsthead
+\multicolumn{3}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{經文} & \textbf{預言} & \textbf{應驗} \\
+\midrule\endhead
+\textbf{彌5:2}        & 出生於伯利恆，從亙古就有 & 太2:1, 5-6;\; 約7:42 \\
+\textbf{何11:1}       & 「從埃及召出我的兒子來」 & 太2:15 \\
+\textbf{亞9:9}        & 騎驢駒進耶路撒冷，溫柔謙和 & 太21:5;\; 約12:14-15 \\
+\textbf{亞11:12-13}   & 三十塊銀子，扔在窯戶的地 & 太26:15;\; 太27:9-10 \\
+\textbf{亞12:10}      & 「他們必仰望我，就是他們所扎的」 & 約19:37;\; 啟1:7 \\
+\textbf{亞13:7}       & 牧人被擊打，羊就分散 & 太26:31 \\
+\textbf{但7:13-14}    & 人子駕雲而來，得權柄、榮耀、國度 & 太26:64;\; 啟1:7 \\
+\textbf{但9:24-27}    & 七十個七——彌賽亞被剪除 & 受難週的精確時間 \\
+\textbf{瑪3:1}        & 「我要差遣我的使者，預備道路」 & 太11:10 \\
+\textbf{瑪4:2}        & 公義的日頭，醫治在祂翅膀有 & 路1:78-79 \\
+\end{longtable}
+}
+
+\section*{律法書中的基督 Christ in the Pentateuch}
+
+{\small
+\begin{longtable}{@{}p{1.9cm}p{5.0cm}p{4.5cm}@{}}
+\textbf{經文} & \textbf{預表} & \textbf{應驗} \\
+\midrule\endfirsthead
+\multicolumn{3}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{經文} & \textbf{預表} & \textbf{應驗} \\
+\midrule\endhead
+\textbf{創3:15}       & 女人的後裔傷蛇的頭 & 加4:4;\; 約壹3:8 \\
+\textbf{創22}         & 亞伯拉罕獻以撒——預表父神獻子 & 約3:16;\; 羅8:32 \\
+\textbf{出12}         & 逾越節羔羊，骨頭不可折斷 & 約1:29;\; 林前5:7;\; 約19:36 \\
+\textbf{利16}         & 贖罪日大祭司獻祭 & 來9-10 \\
+\textbf{民21:9}       & 銅蛇舉在杆上 & 約3:14-15 \\
+\textbf{申18:15-19}   & 像摩西的先知要興起 & 徒3:22;\; 約6:14 \\
+\end{longtable}
+}
+
+\vspace{0.3cm}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}
+\centering\vspace{0.2cm}
+{\footnotesize\color{TextGray}\kaiti\selectfont
+\textbf{總計:} 舊約中關於彌賽亞的預言超過\textbf{300處}；
+耶穌一生應驗其中超過60項主要預言。
+\textit{Over 300 Messianic prophecies in the OT — Jesus fulfilled more than 60 major ones.}\\[0.3em]
+\jesus{}「摩西的律法、先知的書，和詩篇上所記的，凡指著我的話，都必須應驗。」}\;\;
+{\scriptsize\itshape\color{TextGray} (Lk 24:44)}
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textbf{帶領提問 Leading Question}\\[0.2em]
+\textit{下一次你打開詩篇——\\
+試著把主角換成耶穌，再讀一遍。\\
+你會發現，這從來不是你在唱給神，\\
+是神的兒子向父神獻上祂的歌。\\
+Next time you open the Psalms — read it with Jesus as the speaker.\\
+You will hear what you never heard: the Son singing to the Father.}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX I: GREEK & HEBREW GLOSSARY
+%% ============================================
+\chapter*{Appendix I: Greek \& Hebrew Glossary\\希英重要原文詞彙}
+\addcontentsline{toc}{chapter}{Appendix I: Greek \& Hebrew Glossary 希英重要原文詞彙}
+\markboth{}{}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}\kaiti\selectfont
+原文不是給學者炫耀的——是給每個信徒\textit{聽到}耶穌親口說了什麼。\\
+中文翻譯有時把不同的希臘字譯成同一個中文字，反之亦然。\\
+這些詞，是聖經宇宙的「關鍵字」——認識它們，認識祂深一層。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\section*{新約希臘語 New Testament Greek}
+
+{\small
+\renewcommand{\arraystretch}{1.35}
+\begin{longtable}{@{}p{2.2cm}p{2.4cm}p{8.6cm}@{}}
+\textbf{原文} & \textbf{Transliteration} & \textbf{含義 \;/\; Meaning} \\
+\midrule\endfirsthead
+\multicolumn{3}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{原文} & \textbf{Transliteration} & \textbf{含義 \;/\; Meaning} \\
+\midrule\endhead
+\textbf{λόγος}        & \textit{lógos}        & 道、話語、邏輯。約1:1「太初有道」。 \\
+\textbf{ζωή}          & \textit{zōḗ}          & 神聖永恆的生命。約1:4。 \\
+\textbf{φῶς}          & \textit{phōs}         & 光——彰顯、揭穿、引導。約1:9。 \\
+\textbf{ἀλήθεια}      & \textit{alḗtheia}     & 真理——原意「無遮蔽」。約14:6。 \\
+\textbf{χάρις}        & \textit{cháris}       & 恩典——白白的禮物。約1:14。 \\
+\textbf{ἀγάπη}        & \textit{agápē}        & 神聖無條件的愛。約3:16。 \\
+\textbf{φιλέω}        & \textit{philéō}       & 朋友間情感的愛。約21彼得三問。 \\
+\textbf{Ἐγώ εἰμι}     & \textit{Egṓ eimi}     & 「我是」——出3:14神的名。約8:58。 \\
+\textbf{σημεῖον}      & \textit{sēmeîon}      & 神蹟、記號——指向耶穌身份。約翰福音。 \\
+\textbf{δύναμις}      & \textit{dýnamis}      & 大能、能力的彰顯。馬可福音。 \\
+\textbf{παράκλητος}   & \textit{paráklētos}   & 保惠師。約14:16聖靈、約壹2:1基督。 \\
+\textbf{βαπτίζω}      & \textit{baptízō}      & 浸入、洗禮（羅6:3-4）。 \\
+\textbf{μετάνοια}     & \textit{metánoia}     & 悔改——「思想的轉變」。 \\
+\textbf{πίστις}       & \textit{pístis}       & 信心——信賴與忠信。約3:16。 \\
+\textbf{δικαιοσύνη}   & \textit{dikaiosýnē}   & 義——藉信與基督相連被算為義。 \\
+\textbf{τετέλεσται}   & \textit{tetélestai}   & 「成了」——商業 \textit{paid in full}。約19:30。 \\
+\textbf{ἀνάστασις}    & \textit{anástasis}    & 復活——「起來、站起」。 \\
+\textbf{παρουσία}     & \textit{parousía}     & 來臨、同在——基督再來。 \\
+\textbf{εὐαγγέλιον}   & \textit{euaggélion}   & 福音——「好消息」、戰勝的捷報。 \\
+\textbf{μυστήριον}    & \textit{mystḗrion}    & 奧祕——基督裡顯明的計劃（弗3）。 \\
+\end{longtable}
+}
+
+\vspace{0.3cm}
+
+\section*{舊約希伯來語 Old Testament Hebrew}
+
+{\small
+\renewcommand{\arraystretch}{1.35}
+\begin{longtable}{@{}p{2.2cm}p{2.4cm}p{8.6cm}@{}}
+\textbf{原文} & \textbf{Transliteration} & \textbf{含義 \;/\; Meaning} \\
+\midrule\endfirsthead
+\multicolumn{3}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{原文} & \textbf{Transliteration} & \textbf{含義 \;/\; Meaning} \\
+\midrule\endhead
+\textbf{יהוה}         & \textit{YHWH}         & 耶和華——出3:14的聖名。 \\
+\textbf{אֱלֹהִים}      & \textit{Elohim}       & 神——複數形預表三位一體。創1:1。 \\
+\textbf{אָדוֹן}        & \textit{Adon/Adonai}  & 主——擁有者、主宰。 \\
+\textbf{מָשִׁיחַ}      & \textit{Mashiach}     & 彌賽亞——「受膏者」即 Christos。 \\
+\textbf{בְּרִית}       & \textit{Berit}        & 約——亞伯拉罕、摩西、大衛，到基督新約。 \\
+\textbf{חֶסֶד}         & \textit{Hesed}        & 慈愛、信實的愛。詩136「永遠長存」。 \\
+\textbf{אֱמֶת}         & \textit{Emet}         & 真實、信實——alētheia 的舊約根。 \\
+\textbf{שָׁלוֹם}       & \textit{Shalom}       & 平安——\textit{完整、興盛、與神和好}。 \\
+\textbf{תּוֹרָה}       & \textit{Torah}        & 律法、教導——摩西五經。 \\
+\textbf{קָדוֹשׁ}       & \textit{Qadosh}       & 聖——「分別出來」。賽6:3。 \\
+\textbf{רוּחַ}         & \textit{Ruach}        & 靈、風、氣息——新約 \textit{pneuma}。 \\
+\textbf{נֶפֶשׁ}        & \textit{Nephesh}      & 魂、生命——有靈的活人（創2:7）。 \\
+\textbf{הוֹשַׁע נָא}   & \textit{Hoshia-na}    & 「求祢拯救」——和散那（太21:9）。 \\
+\textbf{אָמֵן}         & \textit{Amen}         & 阿們——啟3:14「那位阿們的」。 \\
+\textbf{הַלְלוּיָהּ}    & \textit{Hallelu-Yah}  & 哈利路亞——讚美耶和華。 \\
+\textbf{עִמָּנוּאֵל}    & \textit{Immanu-El}    & 以馬內利——神與我們同在。 \\
+\end{longtable}
+}
+
+\vspace{0.3cm}
+
+\noindent\textbf{帶領提問 Leading Question}\\[0.2em]
+\textit{學原文不是炫耀知識——是把耶穌親口說的話聽得更清楚。\\
+這20多個詞中，哪一個今天感動你？\\
+Of these 20+ words, which one moves you today?}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX J: 60-DAY READING PLAN
+%% ============================================
+\chapter*{Appendix J: 60-Day Reading Plan\\六十日讀經計劃}
+\addcontentsline{toc}{chapter}{Appendix J: 60-Day Reading Plan 六十日讀經計劃}
+\markboth{}{}
+
+\noindent\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{LiturgicalRed}\kaiti\selectfont 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}\kaiti\selectfont
+60天，37章，每日 8-12 頁——一杯咖啡的時間。\\
+重要的不是\textit{讀完}，是\textit{遇見}。\\
+若某一日的話打中你——\textbf{停下來，在那裡住一天}。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textit{此計劃以禮儀年週期分配；受難週、復活、十架重點章節給予兩天反芻時間。
+Plan follows the liturgical year; Passion Week receives double days for meditation.}
+
+\vspace{0.4cm}
+
+\section*{第一階段：道成肉身 \;\textperiodcentered\; Days 1-10 (Advent \& Christmastide)}
+
+{\small
+\renewcommand{\arraystretch}{1.20}
+\begin{longtable}{@{}p{1.3cm}p{3.7cm}p{2.0cm}p{6.0cm}@{}}
+\textbf{Day} & \textbf{Chapter} & \textbf{Ref} & \textbf{反芻句} \\
+\midrule\endfirsthead
+\multicolumn{4}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{Day} & \textbf{Chapter} & \textbf{Ref} & \textbf{反芻句} \\
+\midrule\endhead
+1  & 序 太初有道           & 約1:1-18     & 「道成了肉身，住在我們中間。」 \\
+2  & 1 天使報喜            & 路1          & 「在神沒有一件不能的事。」 \\
+3  & 2 伯利恆之夜          & 路2          & 「客店裡沒有地方。」（你心裡呢？） \\
+4  & 3 童年歲月            & 路2:41-52   & 「以我父的事為念。」 \\
+5  & 4 曠野預備            & 太4          & 「人活著不是單靠食物。」 \\
+6  & 5 首批門徒            & 約1:35-51   & 「拿但業，我看見你了。」 \\
+7  & 6 迦拿婚宴            & 約2          & 真葡萄樹——好酒留到最後。 \\
+8  & 7 潔淨聖殿 I          & 約2          & 「我父的殿是禱告的殿。」 \\
+9  & 8 尼哥底母            & 約3          & 「人若不重生，就不能見神的國。」 \\
+10 & 9 撒瑪利亞婦人        & 約4          & 你心裡那口井叫什麼名字？ \\
+\end{longtable}
+}
+
+\section*{第二階段：公開事工 \;\textperiodcentered\; Days 11-30 (Ordinary Time)}
+
+{\small
+\renewcommand{\arraystretch}{1.20}
+\begin{longtable}{@{}p{1.3cm}p{3.7cm}p{2.0cm}p{6.0cm}@{}}
+\textbf{Day} & \textbf{Chapter} & \textbf{Ref} & \textbf{反芻句} \\
+\midrule\endfirsthead
+\multicolumn{4}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{Day} & \textbf{Chapter} & \textbf{Ref} & \textbf{反芻句} \\
+\midrule\endhead
+11 & 10 醫治神蹟          & 太8-9        & 問題不在「能不能」，在你「要不要」。 \\
+12 & 11 山上寶訓 上       & 太5          & 八福：基督生命的寫照。 \\
+13 & 11 山上寶訓 下       & 太6-7        & 「你的財寶在哪裡，你的心也在哪裡。」 \\
+14 & 12 五餅二魚          & 約6:1-14    & 你手裡的五餅二魚是什麼？ \\
+15 & 13 海面行走          & 約6:15-21   & Ἐγώ εἰμι——「我是」。 \\
+16 & 14 生命的糧          & 約6:22-71   & 不是「給」糧，祂\textit{就是}糧。 \\
+17 & 15 住棚節            & 約7-8       & 「人若渴了，可以到我這裡來喝。」 \\
+18 & 16 醫治瞎眼          & 約9          & 全章誰是瞎子？答案是所有人。 \\
+19 & 17 好牧人            & 約10         & 「我的羊聽我的聲音。」 \\
+20 & 18 拉撒路復活        & 約11         & 「復活在我，生命也在我。」 \\
+21 & 19 天國比喻 上       & 太13         & 天國的奧祕——向自高隱藏。 \\
+22 & 19 天國比喻 下       & 路15         & 三位一體都在尋找你。 \\
+23 & 20 財主與天國        & 太19         & 他憂憂愁愁地走了——耶穌沒有改變祂的話。 \\
+24 & 21 登山變像          & 太17         & 神要的是「唯獨耶穌」。 \\
+25 & 22 榮耀進城          & 太21         & 撒迦利亞9:9寫了五百年的劇本。 \\
+26 & 23 潔淨聖殿 II      & 太21         & 同一件事，三年後再做一次。 \\
+27 & 24 橄欖山講論        & 太24-25     & 命令不是「計算」，是「儆醒」。 \\
+28 & 25 最後晚餐          & 太26         & 祂明知道猶大的腳，照樣洗了。 \\
+29 & 26 馬可樓講論        & 約13-17     & 約16:28 —— 24個字的整本福音書。 \\
+30 & 27 大祭司禱告        & 約17         & 在被賣同夜，禱告「合而為一」。 \\
+\end{longtable}
+}
+
+\pagebreak
+
+\section*{第三階段：受難復活 \;\textperiodcentered\; Days 31-50 (Lent \& Easter — double days)}
+
+{\small
+\renewcommand{\arraystretch}{1.20}
+\begin{longtable}{@{}p{1.3cm}p{3.7cm}p{2.0cm}p{6.0cm}@{}}
+\textbf{Day} & \textbf{Chapter} & \textbf{Ref} & \textbf{反芻句} \\
+\midrule\endfirsthead
+\multicolumn{4}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{Day} & \textbf{Chapter} & \textbf{Ref} & \textbf{反芻句} \\
+\midrule\endhead
+31 & 28 客西馬尼 I        & 太26:36-46  & 第一亞當：「隨自己的意思」。 \\
+32 & 28 客西馬尼 II       & 太26:36-46  & 末後亞當：「照你的意思」。 \\
+33 & 29 審判 I            & 太26:57+    & 祂沉默不是無話，是不必再說。 \\
+34 & 29 審判 II           & 太27:11+    & 被審判的是聽審者。 \\
+35 & 30 釘十字架 I        & 太27        & τετέλεσται —— paid in full. \\
+36 & 30 架上七言（前三）  & 太27/路23   & 父啊赦免 \;\textbullet\; 樂園 \;\textbullet\; 看你的母 \\
+37 & 30 架上七言（中二）  & 太27/約19   & 我的神我的神 \;\textbullet\; 我渴了 \\
+38 & 30 架上七言（後二）  & 約19/路23   & 成了 \;\textbullet\; 父啊我將靈魂交在祢手 \\
+39 & 31 埋葬              & 約19:38-42  & 十字架顯出隱藏的信徒。 \\
+40 & 31 安息日            & --          & 那看不見動靜的一天——\textit{安息}。 \\
+41 & 32 復活 I            & 約20:1-10   & 封條從外面封進去，從裡面打開出來。 \\
+42 & 32 復活 II           & 約20:11-18  & 「馬利亞」——叫名字的聲音。 \\
+43 & 33 復活顯現 I        & 路24:13-35  & 以馬忤斯路——擘餅那一刻。 \\
+44 & 33 復活顯現 II       & 約20:19-29  & 「我的主！我的神！」 \\
+45 & 33 復活顯現 III      & 約21        & 「彼得，你愛我比這些更深嗎？」 \\
+46 & 34 升天與使命        & 徒1:1-11   & 「你們仰望天作什麼？去吧。」 \\
+47 & 35 五旬節            & 徒2          & 收割節——第一批莊稼。 \\
+48 & 36 七教會 I          & 啟2:1-17    & 以弗所、士每拿、別迦摩 \\
+49 & 36 七教會 II         & 啟2:18-29   & 推雅推喇 \\
+50 & 36 七教會 III        & 啟3          & 撒狄、非拉鐵非、老底嘉 \\
+\end{longtable}
+}
+
+\section*{第四階段：榮耀再臨 \;\textperiodcentered\; Days 51-60 (Reign of Christ)}
+
+{\small
+\renewcommand{\arraystretch}{1.20}
+\begin{longtable}{@{}p{1.3cm}p{3.7cm}p{2.0cm}p{6.0cm}@{}}
+\textbf{Day} & \textbf{Chapter} & \textbf{Ref} & \textbf{反芻句} \\
+\midrule\endfirsthead
+\multicolumn{4}{@{}l}{\small\itshape\color{TextGray}（接上頁 / continued）}\\[0.2em]
+\textbf{Day} & \textbf{Chapter} & \textbf{Ref} & \textbf{反芻句} \\
+\midrule\endhead
+51 & 37 榮耀再臨 I        & 啟19         & 那騎白馬的，名字叫神之道。 \\
+52 & 37 新天新地          & 啟21         & 「神的帳幕在人間。」 \\
+53 & 37 生命河            & 啟22:1-5    & 「再沒有黑夜……主神要光照他們。」 \\
+54 & 37 最後的呼召        & 啟22:6-21   & 「主耶穌啊，我願祢來！」 \\
+55 & 跋 Coda              & --          & 給合上書的你。 \\
+56-58 & 重讀 Re-reading   & --          & 從第1章再讀一遍——這次，把主角放回正確位子。 \\
+59 & 默想：架上七言整段   & --          & 七言一氣呵成，讓它住在你裡面。 \\
+60 & 默想：約16:28 整本綱要 & --        & 「我從父出來……往父那裡去。」 \\
+\end{longtable}
+}
+
+\vspace{0.3cm}
+
+\noindent\textbf{帶領提問 Leading Question}\\[0.2em]
+\textit{60天後，再回頭問自己一次：\\
+我是\textit{讀完}了這本書，還是\textit{遇見}了書中的那位主？\\
+After 60 days, ask yourself again:\\
+Did I just finish a book, or did I meet the Person within it?}
+
+\pagebreak
+
 % ============================================
 % BACK COVER PAGE — Concept A matching design
 % Parchment, "It is finished" header, the Seven
@@ -2024,18 +3073,25 @@ $body$
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture, overlay]
   \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  \draw[LiturgicalGold, line width=2.5pt]
-    ([xshift=0.45in,yshift=0.45in]current page.south west)
+  \draw[LiturgicalGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
     rectangle
-    ([xshift=-0.45in,yshift=-0.45in]current page.north east);
-  \draw[LiturgicalGold, line width=0.6pt]
-    ([xshift=0.55in,yshift=0.55in]current page.south west)
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[LiturgicalGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
     rectangle
-    ([xshift=-0.55in,yshift=-0.55in]current page.north east);
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[LiturgicalBlue, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
   \foreach \cnr in {south west, south east, north west, north east} {
-    \fill[LiturgicalGold, rotate around={45:([xshift=0pt]current page.\cnr)}]
-      ([xshift=0.5in,yshift=0.5in]current page.\cnr) rectangle
-      ([xshift=0.6in,yshift=0.6in]current page.\cnr);
+    \fill[LiturgicalGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
   }
 \end{tikzpicture}
 
@@ -2106,7 +3162,7 @@ Seven Sayings from the Cross}\\[0.20em]
 \textbf{4.} & 我的神，我的神 \;{\itshape Eli, Eli} \;\textcolor{LightGray}{(太 27:46)}\\
 \textbf{5.} & 我渴了 \;{\itshape I thirst} \;\textcolor{LightGray}{(約 19:28)}\\
 \textbf{6.} & \textcolor{LiturgicalRed}{\textbf{成了}} \;{\itshape \textcolor{LiturgicalRed}{\textbf{It is finished}}} \;\textcolor{LightGray}{(約 19:30)}\\
-\textbf{7.} & 父啊，我將靈魂交在你手裡 \;{\itshape Into Your hands} \;\textcolor{LightGray}{(路 23:46)}\\
+\textbf{7.} & 父啊，我將靈魂交在祢手裡 \;{\itshape Into Your hands} \;\textcolor{LightGray}{(路 23:46)}\\
 \end{tabular}
 \end{minipage}
 \vspace{0.18cm}
@@ -2116,7 +3172,7 @@ Seven Sayings from the Cross}\\[0.20em]
 
 % John 3:30 closing
 {\itshape\color{TextGray}\kaiti\selectfont
-「他必興旺，我必衰微。」} \;
+「祂必興旺，我必衰微。」} \;
 {\footnotesize\itshape\color{TextGray}
 ``He must increase, but I must decrease.''}\\[0.05em]
 {\footnotesize\color{LiturgicalBlue} \textemdash\ John 3:30 \textemdash}
