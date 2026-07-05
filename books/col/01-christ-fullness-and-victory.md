@@ -8,7 +8,7 @@ scripture: 歌羅西書 1:15-20; 2:9-15
 
 # 歌羅西書：基督的豐富與得勝
 
-> 因為神本性一切的豐盛，都有形有體的居住在基督裡面，你們在他裡面也得了豐盛。他是各樣執政掌權者的元首。
+> 因為神本性一切的豐盛都有形有體的居住在基督裡面，你們在他裡面也得了豐盛。他是各樣執政掌權者的元首。
 > — 歌羅西書 2:9-10（和合本 CUV）
 >
 > *For in Him all the fullness of Deity dwells in bodily form, and in Him you have been made complete, and He is the head over all rule and authority.*
@@ -34,7 +34,7 @@ scripture: 歌羅西書 1:15-20; 2:9-15
 
 **歌羅西書 2:9-15**（本日重點譯本：NASB，對照和合本 CUV）
 
-> **9** 因為神本性一切的豐盛，都有形有體的居住在基督裡面，
+> **9** 因為神本性一切的豐盛都有形有體的居住在基督裡面，
 > ***9** For in Him all the fullness of Deity dwells in bodily form,* — NASB
 >
 > **10** 你們在他裡面也得了豐盛。他是各樣執政掌權者的元首。
@@ -46,7 +46,7 @@ scripture: 歌羅西書 1:15-20; 2:9-15
 > **12** 你們既受洗與他一同埋葬，也就在此與他一同復活，都因信那叫他從死裡復活神的功用。
 > ***12** having been buried with Him in baptism, in which you were also raised up with Him through faith in the working of God, who raised Him from the dead.* — NASB
 >
-> **13** 你們從前在過犯和未受割禮的肉體中死了，神赦免了你們（或作：我們）一切過犯，便叫你們與基督一同活過來；
+> **13** 你們從前在過犯和未受割禮的肉體中死了，神赦免了你們（或作：我們）一切過犯，便叫你們與基督一同活過來，
 > ***13** When you were dead in your transgressions and the uncircumcision of your flesh, He made you alive together with Him, having forgiven us all our transgressions,* — NASB
 >
 > **14** 又塗抹了在律例上所寫攻擊我們，有礙於我們的字據，把他撤去，釘在十字架上。
