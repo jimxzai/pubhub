@@ -57,12 +57,7 @@ fi
 CJK_FONT="${CJK_FONT:-PingFang SC}"
 MAIN_FONT="${MAIN_FONT:-Times New Roman}"
 if command -v pandoc >/dev/null 2>&1 && command -v xelatex >/dev/null 2>&1; then
-  pandoc "$OUT_MD" -o "$OUT_PDF" \
-    --pdf-engine=xelatex --toc --toc-depth=1 \
-    -V documentclass=report -V geometry:margin=2.3cm \
-    -V CJKmainfont="$CJK_FONT" -V mainfont="$MAIN_FONT" \
-    || echo "… PDF build failed (check fonts: CJK_FONT='$CJK_FONT', MAIN_FONT='$MAIN_FONT')"
-  [ -f "$OUT_PDF" ] && echo "✓ PDF → $OUT_PDF"
+  node "$ROOT/scripts/build-pdf.js" --format jesus-parables --input "$DIR" --output "$OUT_PDF"
 else
   echo "… pandoc or xelatex not found; skipping PDF"
 fi

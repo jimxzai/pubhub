@@ -39,6 +39,11 @@ private/
 # Temporary files
 *.tmp
 *.temp
+*.bak
+*.theobak
+
+# Debug render output
+output/*.png
 
 # TypeScript
 *.tsbuildinfo

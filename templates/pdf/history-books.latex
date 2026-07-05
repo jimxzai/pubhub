@@ -1,0 +1,698 @@
+% PubHub History-Books Template — Kings Edition
+% 歷史書系列 PDF 模板 (撒母耳記、列王紀、歷代志等)
+% Requires XeLaTeX + ucharclasses for Hebrew/Greek auto-switching
+
+\documentclass[11pt,openright,twoside]{book}
+
+%%============================================================
+%% FONTS (fontspec + ucharclasses for CJK / Hebrew / Greek)
+%%============================================================
+\usepackage{fontspec}
+
+% Primary fonts — macOS system calligraphy fonts
+\setmainfont{Songti SC}[
+  BoldFont   = Songti SC Bold,
+  ItalicFont = Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{PingFang SC}
+
+% Supplementary CJK families (for emphasis / decoration)
+\newfontfamily\kaiti{Kaiti SC}
+\newfontfamily\heiti{Heiti SC}
+\newcommand{\textkai}[1]{{\kaiti #1}}
+\newcommand{\texthei}[1]{{\heiti #1}}
+
+% Hebrew & Greek — Times New Roman covers both scripts on macOS
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew, Scale=1.05]
+\newfontfamily\greekfont{Times New Roman}[Script=Greek,  Scale=1.0]
+
+% Automatic script switching so embedded Hebrew/Greek renders correctly
+\usepackage{ucharclasses}
+\setTransitionsFor{Hebrew}{\begingroup\hebrewfont}{\endgroup}
+\setTransitionsFor{GreekExtended}{\begingroup\greekfont}{\endgroup}
+\setTransitionsFor{BasicGreek}{\begingroup\greekfont}{\endgroup}
+
+% CJK line-breaking
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%%============================================================
+%% PAGE GEOMETRY  (6 × 9 inch book)
+%%============================================================
+\usepackage{geometry}
+\geometry{
+  paperwidth  = 6in,
+  paperheight = 9in,
+  top         = 0.75in,
+  bottom      = 0.75in,
+  inner       = 0.875in,
+  outer       = 0.625in
+}
+
+\linespread{1.15}
+
+%%============================================================
+%% COLOURS — Kings / History palette
+%%============================================================
+\usepackage{xcolor}
+
+% Chapter & section headings
+\definecolor{KingsNavy}{RGB}{20, 45, 85}        % deep royal navy
+\definecolor{CovenantGold}{RGB}{160, 120, 45}   % covenant gold
+\definecolor{TempleBlue}{RGB}{35, 75, 140}      % temple / section blue
+\definecolor{ProphetBrown}{RGB}{90, 60, 40}     % prophetic commentary
+
+% Scripture boxes
+\definecolor{ScriptureCream}{RGB}{252, 250, 244}
+\definecolor{HebrewBg}{RGB}{248, 244, 235}
+\definecolor{ApplicationBg}{RGB}{245, 250, 245}
+
+% Text utility
+\definecolor{TextGray}{RGB}{50, 50, 50}
+\definecolor{LightGray}{RGB}{130, 130, 130}
+
+% Red-letter (Jesus's words)
+\definecolor{JesusRed}{RGB}{204, 0, 0}
+
+% Throne / crown decorative colour
+\definecolor{ThroneGold}{RGB}{180, 140, 30}
+
+%%============================================================
+%% HYPERLINKS
+%%============================================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks      = true,
+  linkcolor       = TempleBlue,
+  urlcolor        = TempleBlue,
+  bookmarks       = true,
+  bookmarksnumbered = true
+}
+
+%%============================================================
+%% GRAPHICS, TIKZ MAPS, TABLES
+%%============================================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,calc,backgrounds,shadows}
+
+% Map color palette (matches Gospel Harmony style)
+\definecolor{WaterBlue}{RGB}{180,210,230}
+\definecolor{WaterDark}{RGB}{100,140,170}
+\definecolor{LandBeige}{RGB}{245,235,218}
+\definecolor{MtnBrown}{RGB}{185,165,140}
+\definecolor{MarkerGold}{RGB}{165,125,55}
+\definecolor{JerusalemRed}{RGB}{190,30,30}
+\definecolor{RouteGreen}{RGB}{50,100,60}
+\definecolor{EmpireGray}{RGB}{140,130,120}
+
+%%------------------------------------------------------------
+%% BASE GEOGRAPHY (shared by all 4 maps)
+%%------------------------------------------------------------
+% Usage: \drawbasegeo
+\newcommand{\drawbasegeo}{%
+  % Land background
+  \fill[LandBeige] (0,0) rectangle (10,12);
+  % Mediterranean Sea (left strip)
+  \fill[WaterBlue] (-0.5,0) rectangle (1.7,12);
+  \draw[WaterDark,line width=0.6pt] (1.7,0) -- (1.7,12);
+  \node[font=\footnotesize,color=WaterDark,rotate=90] at (0.6,6)
+    {Mediterranean Sea 地中海};
+  % Jordan River
+  \draw[WaterBlue,line width=2.5pt]
+    (6.3,10.5)
+    .. controls (6.1,9.5) and (6.4,8.5) .. (6.2,7.5)
+    .. controls (6.0,6.5) and (6.3,5.5) .. (6.1,4.5)
+    .. controls (5.9,3.8) and (6.1,3.2) .. (6.0,2.5);
+  \node[font=\tiny,color=WaterDark,rotate=-80] at (5.5,6.2)
+    {Jordan River 約旦河};
+  % Sea of Galilee
+  \fill[WaterBlue] (6.3,10.2) ellipse (0.85 and 1.1);
+  \draw[WaterDark,line width=0.4pt] (6.3,10.2) ellipse (0.85 and 1.1);
+  \node[font=\tiny,color=white] at (6.3,10.4) {Sea of Galilee};
+  \node[font=\tiny,color=white] at (6.3,9.9) {加利利海};
+  % Dead Sea
+  \fill[WaterBlue!80!WaterDark] (6.0,2.5) ellipse (0.7 and 1.1);
+  \draw[WaterDark,line width=0.4pt] (6.0,2.5) ellipse (0.7 and 1.1);
+  \node[font=\tiny,color=white] at (6.0,2.6) {Dead Sea};
+  \node[font=\tiny,color=white] at (6.0,2.1) {死海};
+  % Gentle hill shading
+  \fill[MtnBrown!18] (4.5,7.0) ellipse (1.8 and 2.5);
+  \fill[MtnBrown!15] (5.0,4.5) ellipse (1.4 and 1.8);
+  % Compass rose
+  \draw[->,thick,color=KingsNavy] (8.8,10.8) -- (8.8,11.5);
+  \node[font=\small\bfseries,color=KingsNavy] at (8.8,11.8) {N};
+  % Scale bar
+  \draw[very thick,color=TextGray] (2.0,0.4) -- (4.0,0.4);
+  \draw[thick,color=TextGray] (2.0,0.25) -- (2.0,0.55);
+  \draw[thick,color=TextGray] (4.0,0.25) -- (4.0,0.55);
+  \node[font=\tiny,color=TextGray] at (3.0,0.1) {~40 km / 25 miles};
+}
+
+%%------------------------------------------------------------
+%% MAP 1 — 1 Samuel: The Question of Kingship
+%%------------------------------------------------------------
+\newcommand{\samuelonemap}{%
+\begin{center}
+{\large\bfseries\color{KingsNavy} 撒母耳記上 — 關鍵地點}\\[2pt]
+{\small\color{ProphetBrown} 1 Samuel — Key Locations}
+\end{center}
+\begin{tikzpicture}[scale=0.88]
+  \drawbasegeo
+  % ── Philistine cities (west) ──
+  \fill[EmpireGray] (2.1,8.3) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (2.0,8.3) {Ashdod 亞實突};
+  \node[font=\tiny,left,color=TextGray] at (2.0,7.9) {\color{LightGray}(約槳被擄 5)};
+  \fill[EmpireGray] (2.0,7.5) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (1.9,7.5) {Ekron 以革倫};
+  \node[font=\tiny,left,color=TextGray] at (1.9,7.1) {\color{LightGray}(約槳瘟疫 5)};
+  \fill[EmpireGray] (2.4,6.7) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (2.3,6.7) {Gath 迦特};
+  \node[font=\tiny,left,color=TextGray] at (2.3,6.3) {\color{LightGray}(歌利亞; 大衛 27)};
+  \fill[EmpireGray] (2.2,5.5) circle (0.11);
+  \node[font=\tiny,left,color=TextGray] at (2.1,5.5) {Ashkelon};
+  % Ziklag (David's Philistine base)
+  \fill[MarkerGold!70] (2.6,4.2) circle (0.13);
+  \node[font=\tiny,left,color=TextGray] at (2.5,4.2) {Ziklag 洗革拉};
+  \node[font=\tiny,left,color=TextGray] at (2.5,3.85) {\color{LightGray}(大衛基地 27-30)};
+  % ── Central highlands ──
+  % Mt Gilboa (north, where Saul died)
+  \fill[MarkerGold] (5.8,9.3) circle (0.14);
+  \draw[MarkerGold,line width=0.7pt] (5.8,9.3) circle (0.22);
+  \node[font=\tiny,right,color=KingsNavy] at (6.0,9.3) {Mt. Gilboa 基利波山};
+  \node[font=\tiny,right,color=LightGray] at (6.0,8.95) {掃羅戰死 (31章)};
+  % Shiloh
+  \fill[MarkerGold] (5.0,8.2) circle (0.15);
+  \draw[MarkerGold,line width=0.8pt] (5.0,8.2) circle (0.24);
+  \node[font=\small\bfseries,right,color=KingsNavy] at (5.2,8.2) {① 示羅 Shiloh};
+  \node[font=\tiny,right,color=TextGray] at (5.2,7.85) {約槳原址・撒母耳成長 (1-4)};
+  % Ramah
+  \fill[MarkerGold] (4.4,7.6) circle (0.14);
+  \node[font=\small\bfseries,left,color=KingsNavy] at (4.3,7.6) {② 拉瑪 Ramah};
+  \node[font=\tiny,left,color=TextGray] at (4.3,7.25) {撒母耳故鄉 (1,7,8)};
+  % Mizpah
+  \fill[MarkerGold] (4.5,7.0) circle (0.13);
+  \node[font=\small\bfseries,left,color=KingsNavy] at (4.3,7.0) {③ 米斯巴 Mizpah};
+  \node[font=\tiny,left,color=TextGray] at (4.3,6.65) {復興大會・立王 (7,10)};
+  % Gibeah (Saul's capital)
+  \fill[EmpireGray!60] (5.3,6.7) circle (0.15);
+  \draw[EmpireGray,line width=0.8pt] (5.3,6.7) circle (0.23);
+  \node[font=\small\bfseries,right,color=TextGray] at (5.5,6.7) {④ 基比亞 Gibeah};
+  \node[font=\tiny,right,color=LightGray] at (5.5,6.35) {掃羅首都 (9-31)};
+  % Bethlehem
+  \fill[MarkerGold] (5.2,5.8) circle (0.14);
+  \draw[MarkerGold,line width=0.7pt] (5.2,5.8) circle (0.22);
+  \node[font=\small\bfseries,right,color=KingsNavy] at (5.4,5.8) {⑤ 伯利恆 Bethlehem};
+  \node[font=\tiny,right,color=TextGray] at (5.4,5.45) {大衛受膏 (16章)};
+  % Valley of Elah
+  \fill[MarkerGold] (3.5,6.0) circle (0.13);
+  \node[font=\tiny,right,color=KingsNavy] at (3.65,6.0) {⑥ 以拉谷 Elah};
+  \node[font=\tiny,right,color=TextGray] at (3.65,5.65) {大衛勝歌利亞 (17)};
+  % Adullam cave
+  \fill[MarkerGold] (3.2,5.3) circle (0.13);
+  \node[font=\tiny,right,color=KingsNavy] at (3.35,5.3) {⑦ 亞杜蘭洞 Adullam};
+  \node[font=\tiny,right,color=TextGray] at (3.35,4.95) {失喪者聚集 (22)};
+  % En Gedi (by Dead Sea)
+  \fill[MarkerGold] (6.8,4.0) circle (0.13);
+  \node[font=\tiny,left,color=KingsNavy] at (6.7,4.0) {⑧ 隱基底 En Gedi};
+  \node[font=\tiny,left,color=TextGray] at (6.7,3.65) {大衛饒恕掃羅 (24)};
+  % Jabesh-Gilead (east of Jordan)
+  \fill[MarkerGold] (7.8,8.2) circle (0.11);
+  \node[font=\tiny,right,color=TextGray] at (7.95,8.2) {基列雅比 Jabesh};
+  \node[font=\tiny,right,color=TextGray] at (7.95,7.85) {(掃羅救援 11; 送葬 31)};
+  % David exile route (dashed arrow)
+  \draw[RouteGreen,line width=0.7pt,dashed,->]
+    (5.3,6.7) .. controls (4.0,6.5) and (3.5,5.5) .. (3.2,5.3);
+  \draw[RouteGreen,line width=0.7pt,dashed,->]
+    (3.2,5.3) .. controls (3.0,4.8) and (6.5,4.2) .. (6.8,4.0);
+  \draw[RouteGreen,line width=0.7pt,dashed,->]
+    (6.8,4.0) .. controls (5.0,3.5) and (3.0,3.5) .. (2.6,4.2);
+  % Route label
+  \node[font=\tiny,color=RouteGreen] at (4.5,3.5)
+    {大衛逃亡路線 David's exile path};
+  % Legend
+  \fill[ScriptureCream,rounded corners=3pt] (0.1,11.2) rectangle (3.5,12.2);
+  \draw[CovenantGold,line width=0.7pt,rounded corners=3pt]
+    (0.1,11.2) rectangle (3.5,12.2);
+  \node[font=\small\bfseries,color=KingsNavy] at (1.8,11.9) {圖例 Legend};
+  \fill[MarkerGold] (0.35,11.5) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (0.5,11.5) {以色列/大衛地點};
+  \fill[EmpireGray] (0.35,11.2) circle (0.09);
+  \node[font=\tiny,right,color=TextGray] at (0.5,11.2) {非利士城市};
+\end{tikzpicture}%
+}
+
+%%------------------------------------------------------------
+%% MAP 2 — 2 Samuel: David's Kingdom & Covenant
+%%------------------------------------------------------------
+\newcommand{\samueltwomap}{%
+\begin{center}
+{\large\bfseries\color{KingsNavy} 撒母耳記下 — 大衛的王國}\\[2pt]
+{\small\color{ProphetBrown} 2 Samuel — David's Kingdom \& Covenant}
+\end{center}
+\begin{tikzpicture}[scale=0.88]
+  \drawbasegeo
+  % Aram / Damascus label (far NE, off-grid reference)
+  \node[font=\tiny,color=EmpireGray] at (8.5,11.5)
+    {★ 大馬色 Damascus [NE]};
+  \node[font=\tiny,color=LightGray] at (8.5,11.1)
+    {亞蘭被征服 (8:3-8)};
+  % Rabbah / Ammon (east)
+  \fill[EmpireGray!70] (8.8,7.8) circle (0.13);
+  \node[font=\tiny,right,color=TextGray] at (9.0,7.8) {拉巴 Rabbah};
+  \node[font=\tiny,right,color=TextGray] at (9.0,7.45) {亞捫首都};
+  \node[font=\tiny,right,color=LightGray] at (9.0,7.1) {烏利亞戰死 (11)};
+  % ── Kiriath-jearim (Ark depot) ──
+  \fill[MarkerGold] (4.5,7.0) circle (0.13);
+  \node[font=\tiny,left,color=KingsNavy] at (4.4,7.0) {基列耶琳};
+  \node[font=\tiny,left,color=TextGray] at (4.4,6.65) {約槳 20年 (6:1)};
+  % Ark route arrow
+  \draw[RouteGreen,line width=1pt,->]
+    (4.5,7.0) -- (5.2,6.7);
+  % ── JERUSALEM (central focus) ──
+  \fill[JerusalemRed] (5.4,6.6) circle (0.22);
+  \draw[JerusalemRed,line width=1.5pt] (5.4,6.6) circle (0.34);
+  \node[font=\normalsize\bfseries,right,color=JerusalemRed] at (5.8,6.6)
+    {耶路撒冷 Jerusalem};
+  \node[font=\tiny,right,color=TextGray] at (5.8,6.2)
+    {·大衛城 · 錫安山約槳};
+  \node[font=\tiny,right,color=TextGray] at (5.8,5.85)
+    {·大衛之約 (7) · 橄欖山};
+  \node[font=\tiny,right,color=TextGray] at (5.8,5.5)
+    {·亞勞拿禾場 → 聖殿 (24)};
+  % Mt of Olives label
+  \fill[MarkerGold!70] (5.9,6.3) circle (0.09);
+  \node[font=\tiny,right,color=LightGray] at (6.05,6.3)
+    {橄欖山 Olives};
+  % Hebron (first capital, south)
+  \fill[MarkerGold] (4.9,5.0) circle (0.15);
+  \draw[MarkerGold,line width=0.8pt] (4.9,5.0) circle (0.24);
+  \node[font=\small\bfseries,left,color=KingsNavy] at (4.7,5.0)
+    {希伯崙 Hebron};
+  \node[font=\tiny,left,color=TextGray] at (4.7,4.65)
+    {大衛首都 7年半 (2:1)};
+  \node[font=\tiny,left,color=TextGray] at (4.7,4.3)
+    {押沙龍叛亂起點 (15)};
+  % Arrow: Hebron → Jerusalem (David's move)
+  \draw[MarkerGold,line width=0.8pt,->]
+    (4.9,5.2) -- (5.3,6.3);
+  \node[font=\tiny,color=CovenantGold] at (4.5,5.8)
+    {首都遷移};
+  % Mahanaim (David's refuge, east)
+  \fill[MarkerGold!70] (7.8,7.5) circle (0.13);
+  \node[font=\tiny,right,color=KingsNavy] at (7.95,7.5)
+    {瑪哈念 Mahanaim};
+  \node[font=\tiny,right,color=TextGray] at (7.95,7.15)
+    {大衛避難 (17:24)};
+  % Forest of Ephraim
+  \fill[RouteGreen!60] (6.8,7.2) circle (0.11);
+  \node[font=\tiny,right,color=TextGray] at (6.95,7.2)
+    {以法蓮樹林};
+  \node[font=\tiny,right,color=TextGray] at (6.95,6.85)
+    {押沙龍被殺 (18)};
+  % Exile route (Mt Olives → Jordan → Mahanaim)
+  \draw[EmpireGray,line width=0.8pt,dashed,->]
+    (5.5,6.4) .. controls (6.0,6.6) and (6.5,7.0) .. (7.8,7.5);
+  \node[font=\tiny,color=EmpireGray] at (6.5,6.4)
+    {橄欖山出走路線};
+  % Legend
+  \fill[ScriptureCream,rounded corners=3pt] (0.1,11.2) rectangle (3.8,12.2);
+  \draw[CovenantGold,line width=0.7pt,rounded corners=3pt]
+    (0.1,11.2) rectangle (3.8,12.2);
+  \node[font=\small\bfseries,color=KingsNavy] at (1.95,11.9)
+    {圖例 Legend};
+  \fill[JerusalemRed] (0.35,11.5) circle (0.1);
+  \node[font=\tiny,right,color=TextGray] at (0.5,11.5)
+    {Jerusalem 耶路撒冷};
+  \fill[MarkerGold] (0.35,11.2) circle (0.09);
+  \node[font=\tiny,right,color=TextGray] at (0.5,11.2)
+    {大衛地點 David location};
+\end{tikzpicture}%
+}
+
+%%------------------------------------------------------------
+%% MAP 3 — 1 Chronicles: The Priest's View
+%%------------------------------------------------------------
+\newcommand{\chroniclesonemap}{%
+\begin{center}
+{\large\bfseries\color{KingsNavy} 歷代志上 — 聖殿的準備}\\[2pt]
+{\small\color{ProphetBrown} 1 Chronicles — Preparing the House of God}
+\end{center}
+\begin{tikzpicture}[scale=0.88]
+  \drawbasegeo
+  % Damascus reference (NE)
+  \node[font=\tiny,color=EmpireGray] at (8.5,11.5)
+    {★ 大馬色 Damascus [NE]};
+  \node[font=\tiny,color=LightGray] at (8.5,11.1)
+    {亞蘭被制服 (18:5-6)};
+  % Mt Gilboa (Saul's death opens the book)
+  \fill[EmpireGray!60] (5.8,9.0) circle (0.12);
+  \node[font=\tiny,right,color=LightGray] at (5.95,9.0)
+    {基利波山 — 掃羅戰死 (10章)};
+  % Kiriath-jearim (Ark starting point)
+  \fill[MarkerGold] (4.4,6.9) circle (0.14);
+  \draw[MarkerGold,line width=0.7pt] (4.4,6.9) circle (0.22);
+  \node[font=\small\bfseries,left,color=KingsNavy] at (4.3,6.9)
+    {① 基列耶琳};
+  \node[font=\tiny,left,color=TextGray] at (4.3,6.55)
+    {約槳在此 20年 (13:5)};
+  % Obed-edom (Ark rested 3 months)
+  \fill[MarkerGold!70] (4.8,6.5) circle (0.11);
+  \node[font=\tiny,right,color=TextGray] at (4.95,6.5)
+    {俄別以東家 (3月)};
+  % Ark journey arrows
+  \draw[RouteGreen,line width=1.0pt,->]
+    (4.4,6.7) -- (4.8,6.55);
+  \draw[RouteGreen,line width=1.0pt,->]
+    (4.85,6.45) -- (5.3,6.5);
+  \node[font=\tiny,color=RouteGreen] at (4.5,6.2)
+    {約槳旅程};
+  % Gibeon (burnt offering altar)
+  \fill[MarkerGold] (4.8,6.8) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (4.95,6.85)
+    {基遍 Gibeon — 燔祭壇 (16:39)};
+  % JERUSALEM — central focus
+  \fill[JerusalemRed] (5.4,6.5) circle (0.25);
+  \draw[JerusalemRed,line width=1.5pt] (5.4,6.5) circle (0.38);
+  \node[font=\Large\bfseries,right,color=JerusalemRed] at (5.85,6.5)
+    {耶路撒冷};
+  \node[font=\small,right,color=JerusalemRed] at (5.85,6.1)
+    {Jerusalem};
+  \node[font=\tiny,right,color=TextGray] at (5.85,5.75)
+    {·大衛城 (11章)};
+  \node[font=\tiny,right,color=TextGray] at (5.85,5.45)
+    {·約槳帳幕 (15-16章)};
+  \node[font=\tiny,right,color=TextGray] at (5.85,5.15)
+    {·亞勞拿禾場=聖殿地 (21章)};
+  \node[font=\tiny,right,color=TextGray] at (5.85,4.85)
+    {·聖殿籌備 (22-29章)};
+  % Hebron (David crowned here)
+  \fill[MarkerGold] (4.9,5.0) circle (0.14);
+  \draw[MarkerGold,line width=0.7pt] (4.9,5.0) circle (0.22);
+  \node[font=\small\bfseries,left,color=KingsNavy] at (4.8,5.0)
+    {希伯崙 Hebron};
+  \node[font=\tiny,left,color=TextGray] at (4.8,4.65)
+    {大衛立王 7年半 (11:1)};
+  % Arrow Hebron → Jerusalem
+  \draw[MarkerGold,line width=0.7pt,->]
+    (4.9,5.2) -- (5.2,6.2);
+  % Military expansion borders (dashed rectangle)
+  \draw[EmpireGray,line width=0.8pt,dashed,rounded corners=5pt]
+    (1.8,2.0) rectangle (9.2,11.0);
+  \node[font=\tiny,color=EmpireGray] at (5.5,11.2)
+    {大衛王國最大版圖 (18-20章)};
+  % Legend
+  \fill[ScriptureCream,rounded corners=3pt] (0.1,11.2) rectangle (3.8,12.2);
+  \draw[CovenantGold,line width=0.7pt,rounded corners=3pt]
+    (0.1,11.2) rectangle (3.8,12.2);
+  \node[font=\small\bfseries,color=KingsNavy] at (1.95,11.9)
+    {圖例 Legend};
+  \fill[JerusalemRed] (0.35,11.5) circle (0.11);
+  \node[font=\tiny,right,color=TextGray] at (0.5,11.5)
+    {Jerusalem / 聖殿中心};
+  \draw[RouteGreen,line width=1pt,->] (0.25,11.2) -- (0.55,11.2);
+  \node[font=\tiny,right,color=TextGray] at (0.6,11.2)
+    {約槳旅程 Ark journey};
+\end{tikzpicture}%
+}
+
+%%------------------------------------------------------------
+%% MAP 4 — 2 Chronicles: 384 Years of Seeking
+%%------------------------------------------------------------
+\newcommand{\chroniclestwomap}{%
+\begin{center}
+{\large\bfseries\color{KingsNavy} 歷代志下 — 尋求與離棄}\\[2pt]
+{\small\color{ProphetBrown} 2 Chronicles — 384 Years: Seeking God}
+\end{center}
+\begin{tikzpicture}[scale=0.88]
+  \drawbasegeo
+  % External power labels (directional)
+  % NW: Tyre
+  \node[font=\tiny,color=EmpireGray] at (0.5,11.3)
+    {★ 推羅 Tyre [NW]};
+  \node[font=\tiny,color=LightGray] at (0.5,10.95)
+    {建殿木材 (2章)};
+  % NE: Assyria
+  \node[font=\tiny,color=EmpireGray] at (9.0,11.3)
+    {★ 亞述 Assyria [NE]};
+  \node[font=\tiny,color=LightGray] at (9.0,10.95)
+    {西拿基立被擊潰 (32章)};
+  % E: Babylon
+  \node[font=\tiny,color=EmpireGray] at (9.5,7.0)
+    {★ 巴比倫};
+  \node[font=\tiny,color=LightGray] at (9.5,6.65)
+    {Babylon [E]};
+  \node[font=\tiny,color=LightGray] at (9.5,6.3)
+    {三次入侵 (36章)};
+  % SE: Persia (further east)
+  \node[font=\tiny,color=RouteGreen] at (9.5,4.5)
+    {★ 波斯 Persia};
+  \node[font=\tiny,color=RouteGreen] at (9.5,4.15)
+    {古列詔令 (36:23)};
+  \node[font=\tiny\bfseries,color=RouteGreen] at (9.5,3.8)
+    {「可以上去！」};
+  % S: Egypt
+  \node[font=\tiny,color=EmpireGray] at (2.0,0.9)
+    {★ 埃及 Egypt [S]};
+  \node[font=\tiny,color=LightGray] at (2.0,0.6)
+    {示撒 (12) · 尼哥 (35)};
+  % External power arrows pointing to Jerusalem
+  \draw[EmpireGray!60,line width=0.7pt,->]
+    (8.5,10.8) -- (6.0,7.2);
+  \draw[EmpireGray!60,line width=0.7pt,->]
+    (9.2,6.8) -- (6.5,6.8);
+  \draw[EmpireGray!60,line width=0.7pt,->]
+    (2.5,1.2) -- (5.0,5.5);
+  \draw[RouteGreen,line width=0.8pt,->]
+    (9.2,4.3) -- (6.0,6.3);
+  % Gibeon
+  \fill[MarkerGold] (4.9,7.0) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (4.8,7.0)
+    {基遍 Gibeon};
+  \node[font=\tiny,left,color=TextGray] at (4.8,6.65)
+    {所羅門求智慧 (1:3)};
+  % JERUSALEM — supreme center
+  \fill[JerusalemRed] (5.4,6.6) circle (0.30);
+  \draw[JerusalemRed,line width=2pt] (5.4,6.6) circle (0.45);
+  \node[font=\large\bfseries,color=JerusalemRed] at (5.4,8.0)
+    {耶路撒冷};
+  \node[font=\small,color=JerusalemRed] at (5.4,7.65)
+    {Jerusalem};
+  % Temple Mount detail box
+  \draw[CovenantGold,line width=1pt,rounded corners=4pt]
+    (4.0,5.2) rectangle (7.0,6.2);
+  \fill[ScriptureCream] (4.0,5.2) rectangle (7.0,6.2);
+  \node[font=\tiny\bfseries,color=KingsNavy] at (5.5,6.0)
+    {摩利亞山 Temple Mount};
+  \node[font=\tiny,color=TextGray] at (5.5,5.75)
+    {所羅門聖殿 (2-7) · 榮光充滿 (5:13)};
+  \node[font=\tiny,color=TextGray] at (5.5,5.5)
+    {希西家水道 (32:30) · 聖殿被燒 (36:19)};
+  \node[font=\tiny\bfseries,color=RouteGreen] at (5.5,5.25)
+    {→「可以上去」— 古列詔令應驗};
+  % Joppa (port for Tyre's wood)
+  \fill[MarkerGold!70] (2.0,7.5) circle (0.11);
+  \node[font=\tiny,right,color=TextGray] at (2.15,7.5)
+    {約帕 Joppa (木材入口)};
+  % Mareshah (Asa's battle)
+  \fill[MarkerGold] (3.5,5.8) circle (0.12);
+  \node[font=\tiny,left,color=KingsNavy] at (3.4,5.8)
+    {瑪利沙 Mareshah};
+  \node[font=\tiny,left,color=TextGray] at (3.4,5.45)
+    {亞撒擊古實 (14:9)};
+  % Valley of Beracah (Jehoshaphat's victory)
+  \fill[MarkerGold] (4.5,5.5) circle (0.11);
+  \node[font=\tiny,left,color=TextGray] at (4.4,5.5)
+    {伯拉家谷 (20:26)};
+  \node[font=\tiny,left,color=LightGray] at (4.4,5.15)
+    {約沙法讚美得勝};
+  % Hebron
+  \fill[MarkerGold!70] (4.9,4.9) circle (0.11);
+  \node[font=\tiny,left,color=TextGray] at (4.8,4.9)
+    {希伯崙 Hebron};
+  % Legend
+  \fill[ScriptureCream,rounded corners=3pt] (0.1,9.0) rectangle (3.8,10.2);
+  \draw[CovenantGold,line width=0.7pt,rounded corners=3pt]
+    (0.1,9.0) rectangle (3.8,10.2);
+  \node[font=\small\bfseries,color=KingsNavy] at (1.95,9.9)
+    {圖例 Legend};
+  \fill[JerusalemRed] (0.35,9.55) circle (0.11);
+  \node[font=\tiny,right,color=TextGray] at (0.5,9.55)
+    {Jerusalem 聖殿中心};
+  \fill[EmpireGray] (0.35,9.2) circle (0.09);
+  \node[font=\tiny,right,color=TextGray] at (0.5,9.2)
+    {外邦列強 Foreign Powers};
+\end{tikzpicture}%
+}
+
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+\usepackage{amssymb}
+
+% Table geometry
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.25}
+
+% Pandoc 3.x longtable patch
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%%============================================================
+%% WIDOW / ORPHAN CONTROL
+%%============================================================
+\widowpenalty=10000
+\clubpenalty=10000
+
+%%============================================================
+%% HEADERS & FOOTERS
+%%============================================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{%
+  \hbox to\headwidth{\color{CovenantGold}\leaders\hrule height\headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}%
+  \fancyfoot[C]{\small\thepage}%
+  \renewcommand{\headrulewidth}{0pt}}
+
+%%============================================================
+%% SECTION STYLING
+%%============================================================
+\makeatletter
+
+% Chapter head
+\def\@makechapterhead#1{%
+  \vspace*{18pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \color{KingsNavy}\Huge\bfseries \thechapter\quad #1
+    \par\nobreak
+    \vskip 4pt
+    {\color{CovenantGold}\hrule height 1.2pt}
+    \vskip 18pt}}
+
+\def\@makeschapterhead#1{%
+  \vspace*{18pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \color{KingsNavy}\Huge\bfseries #1
+    \par\nobreak
+    \vskip 4pt
+    {\color{CovenantGold}\hrule height 1.2pt}
+    \vskip 18pt}}
+
+\renewcommand\section{\@startsection{section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.4ex \@plus .2ex}%
+  {\normalfont\large\bfseries\color{TempleBlue}}}
+
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex \@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{ProphetBrown}}}
+
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex \@plus -0.3ex \@minus -.2ex}%
+  {0.7ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+
+\makeatother
+
+%%============================================================
+%% CUSTOM COMMANDS
+%%============================================================
+
+% Jesus's spoken words (red-letter)
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+% Inline Hebrew word (auto switches font via ucharclasses; this is a
+% convenience wrapper for manual override / labelling)
+\newcommand{\heb}[1]{{\hebrewfont #1}}
+
+% Inline Greek word
+\newcommand{\grk}[1]{{\greekfont #1}}
+
+% Scripture reference inline
+\newcommand{\sref}[1]{\textcolor{CovenantGold}{\small(#1)}}
+
+% Elder Wong teaching pull-quote
+\newcommand{\elderwong}[1]{%
+  \begin{quote}\itshape\color{ProphetBrown}
+  \textbf{黃長老：}\ #1
+  \end{quote}}
+
+% Covenant emphasis
+\newcommand{\covenant}[1]{\textcolor{TempleBlue}{\textbf{#1}}}
+
+%%============================================================
+%% METADATA
+%%============================================================
+$if(title)$\title{$title$}$endif$
+$if(author)$\author{$author$}$endif$
+$if(date)$\date{$date$}$else$\date{\today}$endif$
+
+% Pandoc tight-list fix
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%%============================================================
+%% DOCUMENT
+%%============================================================
+\begin{document}
+
+\frontmatter
+
+% ── Title page ──────────────────────────────────────────────
+\begin{titlepage}
+\thispagestyle{empty}
+\vspace*{2cm}
+\begin{center}
+$if(title)${\Huge\bfseries\color{KingsNavy} $title$}\\[1cm]$endif$
+$if(subtitle)${\Large\itshape\color{CovenantGold} $subtitle$}\\[2cm]$endif$
+$if(author)${\Large $author$}\\[1cm]$endif$
+\vfill
+$if(publisher)${\large $publisher$}\\[0.5cm]$endif$
+$if(date)${\large $date$}$else${\large \today}$endif$
+\end{center}
+\end{titlepage}
+
+% ── Copyright ───────────────────────────────────────────────
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}\small
+$if(copyright)$
+$copyright$
+$else$
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.
+$endif$
+\end{flushleft}
+\cleardoublepage
+
+% ── Table of Contents ───────────────────────────────────────
+\tableofcontents
+\cleardoublepage
+
+\mainmatter
+
+$body$
+
+\end{document}

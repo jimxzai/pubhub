@@ -11,8 +11,6 @@ scripture: 約翰福音 2:1-12
 
 ## 基督焦點 (Christ at the Center)
 
-> 「主角永遠是耶穌。從祂的角度讀，光就照進來。」
-
 水變酒的神蹟，主角不是缺酒的窘境，也不是馬利亞的請求，而是那位把「好酒留到現在」的主。從祂的角度讀，六口潔淨禮的石缸盛不下的，祂用滿溢的新酒成全；舊約的禮儀指向祂，婚宴的喜樂預表祂作新郎的筵席。這「頭一件神蹟……顯出他的榮耀」，門徒所信的，正是這位榮耀的主。
 
 ---
@@ -21,19 +19,27 @@ scripture: 約翰福音 2:1-12
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^第三日，在加利利的迦拿有人舉行婚宴，耶穌的母親在那裏。^2^耶穌和他的門徒也被請去赴宴。^3^酒用完了，耶穌的母親對他說：「他們沒有酒了。」^4^耶穌說：<red>「母親，我與你何干？我的時候還沒有到。」</red>^5^他母親對用人說：「他告訴你們甚麼，你們就做甚麼。」
+> ^1^第三日，在加利利的迦拿有人舉行婚宴，耶穌的母親在那裏。^2^耶穌和祂的門徒也被請去赴宴。^3^酒用完了，耶穌的母親對祂說：「他們沒有酒了。」^4^耶穌說：<red>「母親，我與你何干？我的時候還沒有到。」</red>^5^祂母親對用人說：「祂告訴你們甚麼，你們就做甚麼。」
 
 > ^6^照猶太人潔淨禮的規矩，有六口石缸擺在那裏，每口可盛兩三桶水。^7^耶穌對用人說：<red>「把缸倒滿水。」</red>他們就倒滿了，直到缸口。^8^耶穌又對他們說：<red>「現在舀出來，送給宴席總管。」</red>他們就送了去。^9^宴席總管嘗了那水變的酒，不知道是從哪裏來的，只有舀水的用人知道。宴席總管便叫新郎來，^10^對他說：「人家都是先擺上好酒，等客人喝夠了才擺上次的，你倒把好酒留到現在！」
 
-> ^11^這是耶穌所行的第一個神蹟，是在加利利的迦拿行的，顯出了他的榮耀來，他的門徒就信他了。^12^這事以後，耶穌與他的母親、弟弟和門徒都下迦百農去，在那裏住了不多幾天。
+> ^11^這是耶穌所行的第一個神蹟，是在加利利的迦拿行的，顯出了祂的榮耀來，祂的門徒就信祂了。^12^這事以後，耶穌與祂的母親、弟弟和門徒都下迦百農去，在那裏住了不多幾天。
 
-### English — NKJV
+### English — ESV (English Standard Version)
 
-> ^1^On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there. ^2^Now both Jesus and His disciples were invited to the wedding. ^3^And when they ran out of wine, the mother of Jesus said to Him, "They have no wine." ^4^Jesus said to her, <red>"Woman, what does your concern have to do with Me? My hour has not yet come."</red> ^5^His mother said to the servants, "Whatever He says to you, do it."
+> ^1^On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. ^2^Jesus also was invited to the wedding with his disciples. ^3^When the wine ran out, the mother of Jesus said to him, "They have no wine." ^4^And Jesus said to her, <red>"Woman, what does this have to do with me? My hour has not yet come."</red> ^5^His mother said to the servants, "Do whatever he tells you."
 
-> ^6^Now there were set there six waterpots of stone, according to the manner of purification of the Jews, containing twenty or thirty gallons apiece. ^7^Jesus said to them, <red>"Fill the waterpots with water."</red> And they filled them up to the brim. ^8^And He said to them, <red>"Draw some out now, and take it to the master of the feast."</red> And they took it. ^9^When the master of the feast had tasted the water that was made wine, and did not know where it came from (but the servants who had drawn the water knew), the master of the feast called the bridegroom. ^10^And he said to him, "Every man at the beginning sets out the good wine, and when the guests have well drunk, then the inferior. You have kept the good wine until now!"
+> ^6^Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. ^7^Jesus said to the servants, <red>"Fill the jars with water."</red> And they filled them up to the brim. ^8^And he said to them, <red>"Now draw some out and take it to the master of the feast."</red> So they took it. ^9^When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom ^10^and said to him, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now."
 
-> ^11^This beginning of signs Jesus did in Cana of Galilee, and manifested His glory; and His disciples believed in Him. ^12^After this He went down to Capernaum, He, His mother, His brothers, and His disciples; and they did not stay there many days.
+> ^11^This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him. ^12^After this he went down to Capernaum, with his mother and his brothers and his disciples, and they stayed there for a few days.
+
+### English — NASB (New American Standard Bible)
+
+> ^1^On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there; ^2^and both Jesus and His disciples were invited to the wedding. ^3^When the wine ran out, the mother of Jesus said to Him, "They have no wine." ^4^And Jesus said to her, <red>"Woman, what does that have to do with us? My hour has not yet come."</red> ^5^His mother said to the servants, "Whatever He says to you, do it."
+
+> ^6^Now there were six stone waterpots set there for the Jewish custom of purification, containing twenty or thirty gallons each. ^7^Jesus said to them, <red>"Fill the waterpots with water."</red> So they filled them up to the brim. ^8^And He said to them, <red>"Draw some out now and take it to the headwaiter."</red> So they took it to him. ^9^When the headwaiter tasted the water which had become wine, and did not know where it came from (but the servants who had drawn the water knew), the headwaiter called the bridegroom, ^10^and said to him, "Every man serves the good wine first, and when the people have drunk freely, then he serves the poorer wine; but you have kept the good wine until now."
+
+> ^11^This beginning of His signs Jesus did in Cana of Galilee, and manifested His glory, and His disciples believed in Him. ^12^After this He went down to Capernaum, He and His mother and His brothers and His disciples; and they stayed there a few days.
 
 ---
 
@@ -91,7 +97,7 @@ scripture: 約翰福音 2:1-12
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受與亮光 (Light Received)
 
 ### 1. 第一個神蹟的選擇
 
@@ -120,7 +126,7 @@ scripture: 約翰福音 2:1-12
 - 1:14 — 我們見過祂的榮光
 - 2:11 — 顯出了祂的榮耀（迦拿神蹟）
 - 11:4 — 這病是為神的榮耀（拉撒路復活）
-- 17:1 — 願你榮耀你的兒子
+- 17:1 — 願祢榮耀祢的兒子
 
 神蹟的目的不是解決問題，而是顯明基督的榮耀。
 
@@ -152,7 +158,7 @@ scripture: 約翰福音 2:1-12
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Huang)
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -187,13 +193,13 @@ scripture: 約翰福音 2:1-12
 
 **無法迴避的問題**：「你覺得人生越過越淡、好酒已過？還是相信祂把最好的留到現在？」
 
-> 「先別讓我說——你覺得這段話最重要的一句是什麼？把它圈出來，讓它住在你裡面。字句叫人死，精義叫人活。」
+> 「祂用一秒鐘做出十二年才有的好酒——這不是表演，是宣告:真葡萄樹站在這裡。」
 
 ---
 
 ## 回應禱告 (A Prayer to Pray)
 
-> 主耶穌，你把好酒留到現在。當我覺得人生越過越淡、喜樂將盡，求你叫我相信你的恩典是滿溢的，最好的還在後頭。把我心裡空了的缸，倒滿你的新酒。阿們。
+> 主耶穌，祢把好酒留到現在。當我覺得人生越過越淡、喜樂將盡，求祢叫我相信祢的恩典是滿溢的，最好的還在後頭。把我心裡空了的缸，倒滿祢的新酒。阿們。
 
 ---
 
