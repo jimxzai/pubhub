@@ -577,4 +577,704 @@ $endif$
 
 $body$
 
+%% ============================================
+%% BACK MATTER — APPENDICES
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% APPENDIX A: SCRIPTURE INDEX
+%% ============================================
+\chapter*{附錄一：經文索引 (Appendix A: Scripture Index)}
+\addcontentsline{toc}{chapter}{附錄一：經文索引 (Appendix A: Scripture Index)}
+\markboth{}{}
+
+\noindent 本索引收錄本書研讀中實際引用、且在約翰福音經文本身有直接呼應或引述關係的舊約與新約經文，依書卷順序排列。
+
+\section*{舊約 Old Testament}
+
+{\small
+\begin{longtable}{@{}p{3.2cm}p{4.2cm}p{6.6cm}@{}}
+\toprule
+\textbf{經文} & \textbf{主題} & \textbf{與約翰福音的連結} \\
+\midrule
+\endhead
+創世記 1:1-3 & 起初；神說，就有了光 & 約1:1「太初有道」——道創造 vs. 道成肉身 \\
+創世記 2:7 & 神用塵土捏人 & 約9:6 耶穌用唾沫和泥抹瞎子眼睛，呼應創造 \\
+創世記 3:15 & 女人的後裔傷蛇的頭 & 第一個福音應許，指向除罪的羔羊（約1:29） \\
+創世記 15:6 & 亞伯拉罕信神，就算為他的義 & 約8:56「亞伯拉罕歡歡喜喜仰望我的日子」 \\
+創世記 22:8 & 「燔祭的羊羔，神必自己預備」 & 約1:29「看哪，神的羔羊」 \\
+創世記 28:12 & 雅各夢見天梯，天使上去下來 & 約1:51 耶穌自稱是那天梯 \\
+創世記 40:34-35 & 神的榮耀充滿會幕 & 約1:14「支搭帳幕」住在我們中間 \\
+出埃及記 3:14 & 「我是自有永有的」 & 約8:58 等七次「我是」（ἐγώ εἰμι）宣告的根源 \\
+出埃及記 12:46 & 逾越節羊羔的骨頭一根也不可折斷 & 約19:36 明文引用，應驗在十架上 \\
+出埃及記 16:4, 15 & 曠野的嗎哪 & 約6:31-35「我是生命的糧」 \\
+出埃及記 33:20 & 人見神的面不能存活 & 約1:18「從來沒有人見過神」 \\
+出埃及記 34:6 & 耶和華有豐盛的慈愛和誠實 & 約1:14「充充滿滿地有恩典有真理」 \\
+利未記 16 & 大祭司一年一次代求 & 約17章大祭司的禱告；來7:25 \\
+利未記 17:11 & 血裏有生命，用以贖罪 & 約19:34 血和水從肋旁流出 \\
+利未記 19:18 & 愛人如己 & 約13:34 新命令：「愛人如我愛你們」 \\
+民數記 21:9 & 摩西舉起銅蛇 & 約3:14「人子也必須照樣被舉起來」 \\
+申命記 18:15 & 神要興起一位先知像摩西 & 約1:21, 45；6:14「那先知」 \\
+詩篇 2:2 & 世上的君王一同抵擋耶和華的受膏者 & 約19章猶太當權者聯合定耶穌死罪 \\
+詩篇 16:10 & 「你必不將我的靈魂撇在陰間」 & 約20章復活；徒2:27 彼得引用應驗 \\
+詩篇 22:1, 18 & 「我的神，為甚麼離棄我」；分我的外衣 & 約19:23-24 明文引用兵丁拈鬮分衣 \\
+詩篇 23 & 耶和華是我的牧者 & 約10章「我是好牧人」 \\
+詩篇 33:6 & 諸天藉耶和華的話而造 & 約1:1-3 道創造萬有 \\
+詩篇 34:20 & 「他保全他一切的骨頭，一根也不折斷」 & 約19:36 明文引用 \\
+詩篇 35:19; 69:4 & 「無故恨我的」 & 約15:25 明文引用 \\
+詩篇 41:9 & 「同我吃飯的人用腳踢我」 & 約13:18 明文引用猶大的背叛 \\
+詩篇 69:9 & 「我為你的殿心裏焦急，如同火燒」 & 約2:17 潔淨聖殿時門徒想起這話 \\
+詩篇 69:21 & 「他們拿苦膽給我吃，我渴了，拿醋給我喝」 & 約19:28-29「我渴了」 \\
+詩篇 78:24 & 神從天上降下嗎哪給他們吃 & 約6:31 群眾引用此類經文求餅 \\
+詩篇 80:8-16 & 神從埃及挪出一棵葡萄樹 & 約15:1「我是真葡萄樹」——以色列失敗之處，祂是那真的 \\
+詩篇 82:6 & 「我曾說你們是神」 & 約10:34 耶穌引用回應「褻瀆」的指控 \\
+詩篇 110:4 & 「你是照麥基洗德的等次永遠為祭司」 & 約17章大祭司的禱告 \\
+詩篇 118:25-26 & 「和散那！奉主名來的是應當稱頌的」 & 約12:13 群眾迎接時明文引用 \\
+詩篇 133:1 & 弟兄和睦同居，何等地善、何等地美 & 約17:21「使他們都合而為一」 \\
+以賽亞書 5:1-7 & 葡萄園之歌——耶和華的葡萄園結野葡萄 & 約15:1「我是真葡萄樹」 \\
+以賽亞書 6:5, 10 & 「禍哉，我滅亡了」；使這百姓心蒙脂油 & 約12:40 明文引用，解釋猶太人不信 \\
+以賽亞書 40:3 & 「曠野有人聲喊著：預備主的道」 & 約1:23 施洗約翰自我指認 \\
+以賽亞書 53:1, 7 & 「我們所傳的，有誰信呢」；像羊羔被牽到宰殺之地 & 約12:38 明文引用；約1:29 神的羔羊 \\
+但以理書 7:13-14 & 人子駕雲而來，得國、得權柄、得榮耀 & 約1:51 等處耶穌自稱「人子」 \\
+但以理書 9:25-26 & 受膏君要來，然而受膏者必被剪除 & 約1:41「彌賽亞」稱號的張力：得勝與受苦 \\
+撒迦利亞書 9:9 & 王來了，是謙謙和和地騎著驢駒子 & 約12:14-15 明文引用，榮耀進城 \\
+撒迦利亞書 12:10 & 「他們必仰望我，就是他們所扎的」 & 約19:37 明文引用，兵丁的槍扎耶穌的肋旁 \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{新約平行與呼應 New Testament Parallels}
+
+{\small
+\begin{longtable}{@{}p{3.2cm}p{10.8cm}@{}}
+\toprule
+\textbf{經文} & \textbf{與約翰福音的連結} \\
+\midrule
+\endhead
+太1章；路1-3章 & 家譜與降生——馬太從亞伯拉罕，路加追溯到亞當；約翰從「太初」起筆，四福音四個角度 \\
+路5:1-11 & 彼得初次蒙召的打魚神蹟——約21章復活後的第二次同一神蹟，領彼得回到起初 \\
+路24:27 & 「從摩西和眾先知起，凡指著自己的話都給他們講解明白」——整本舊約都指著基督 \\
+徒2:27 & 彼得引用詩16:10論復活，印證約20章 \\
+徒4:11 & 彼得引用詩118:22「匠人所棄的石頭」，呼應約12:13同一詩篇 \\
+羅馬書 1:17 & 「義人必因信得生」——與約20:31「信而得生命」呼應 \\
+羅馬書 3:25 & 神設立耶穌作挽回祭——與約1:29「神的羔羊」呼應 \\
+羅馬書 4章 & 亞伯拉罕因信稱義——與約8:56 呼應同一位先祖 \\
+羅馬書 8:34 & 基督在父右邊替我們祈求——與約17章大祭司禱告呼應 \\
+哥林多前書 5:7 & 「我們逾越節的羔羊基督已經被殺獻祭了」 \\
+哥林多前書 15:45 & 末後的亞當——約翰福音道成肉身神學的延伸 \\
+腓立比書 2:6-9 & 「反倒虛己」——與約1:14「道成了肉身」互相解釋 \\
+歌羅西書 1:15-17 & 「他是那不能看見之神的像」——與約1:1-3 平行表述 \\
+希伯來書 1:1-2 & 「這末世藉著他兒子曉諭我們」——與約1:1-18 序言呼應 \\
+希伯來書 4:15 & 「祂也曾凡事受過試探，與我們一樣」——約翰福音基督完全人性的神學根據 \\
+希伯來書 7:25 & 「他長遠活著，替他們祈求」——約17章大祭司禱告的延伸 \\
+希伯來書 10:19-20 & 又新又活的路，是藉著祂的身體開的——與約14:6「我就是道路」呼應 \\
+彼得前書 1:19 & 「無瑕疵、無玷污的羔羊之血」——與約1:29 呼應 \\
+約壹1:1 & 「論到從起初原有的生命之道」——約翰書信對約1:1的自我引用 \\
+約壹4:9-10 & 「神差他獨生子到世間來」——與約3:16 呼應 \\
+啟示錄 5:6, 12 & 「羔羊站立，像是被殺過的」——與約1:29「神的羔羊」首尾呼應 \\
+啟示錄 19:9, 13 & 羔羊的婚宴；他的名稱為神之道——分別呼應約2章迦拿婚宴、約1:1 \\
+啟示錄 21:3-4 & 神的帳幕在人間——與約1:14「支搭帳幕」呼應 \\
+啟示錄 22:1, 4, 17 & 生命水的河；也要見他的面；口渴的人也當來——分別呼應約4:14、1:18、7:37 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX B: KEY THEMES INDEX
+%% ============================================
+\chapter*{附錄二：主題索引 (Appendix B: Key Themes Index)}
+\addcontentsline{toc}{chapter}{附錄二：主題索引 (Appendix B: Key Themes Index)}
+\markboth{}{}
+
+\section*{基督論 Christology}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+道成肉身 Incarnation & 1:1-18；14:9 \\
+基督的先存性 Pre-existence & 1:1-2；8:58；17:5 \\
+基督的神性 Deity of Christ & 1:1；5:18；8:58；10:30；20:28 \\
+基督的人性 Humanity & 1:14；4:6；11:35；19:28 \\
+彌賽亞 Messiah & 1:41；4:25-26；11:27 \\
+神的羔羊 Lamb of God & 1:29, 36；19:36 \\
+七個「我是」 Seven ``I Am'' Sayings & 6:35；8:12；10:7,9；10:11,14；11:25；14:6；15:1,5 \\
+七個兆頭 Seven Signs & 2:1-11；4:46-54；5:1-15；6:1-14；6:16-21；9:1-41；11:1-44 \\
+人子 Son of Man & 1:51；3:14；12:23 \\
+受苦僕人 Suffering Servant & 12:38（引賽53:1）；19章 \\
+復活 Resurrection & 11:25；20:1-18 \\
+榮耀 Glory & 1:14；2:11；12:23-28；17:1-5, 24 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{救恩論 Soteriology}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+恩典與真理 Grace and Truth & 1:14, 16-17 \\
+信 Faith/Belief & 全書近百次；3:16；20:31 \\
+重生 New Birth & 3:3-7 \\
+永生 Eternal Life & 3:15-16；5:24；17:3 \\
+活水 Living Water & 4:10-14；7:37-39 \\
+赦罪與恩典 Grace and Forgiveness & 8:1-11 \\
+揀選與吸引 Election and Drawing & 6:37, 44, 65 \\
+稱義的根據 Ground of Life & 20:31（目的經文） \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{聖靈論 Pneumatology}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+保惠師 Paraclete & 14:16-17, 26；15:26；16:7-15 \\
+另一位保惠師 ``Another'' Comforter & 14:16（同類的另一位） \\
+聖靈的三重工作 Threefold Ministry & 16:8-11（為罪、為義、為審判自責） \\
+聖靈與重生 Spirit and New Birth & 3:5-8 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{教會論與門徒論 Ecclesiology \& Discipleship}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+新命令：彼此相愛 New Commandment & 13:34-35 \\
+真葡萄樹與枝子 True Vine and Branches & 15:1-8 \\
+合一 Unity & 17:11, 21-23 \\
+見證 Witness & 1:7-8, 19-34；5:31-39（貫穿全書） \\
+差遣 Mission/Sending & 17:18；20:21 \\
+彼得的恢復與牧養 Peter's Restoration & 21:15-19 \\
+\bottomrule
+\end{tabular}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX C: REFERENCES
+%% ============================================
+\chapter*{附錄三：參考資料 (Appendix C: References)}
+\addcontentsline{toc}{chapter}{附錄三：參考資料 (Appendix C: References)}
+\markboth{}{}
+
+\noindent 本書「歷代注疏」與「三大資源深度整合」各節所引用的注釋家與著作如下，依時代排列。
+
+\section*{教父時期 Patristic Era}
+
+\begin{itemize}
+\item Origen (俄利根, 185--254). \textit{Commentary on the Gospel of John}.
+\item Chrysostom, John (屈梭多模, 347--407). \textit{Homilies on the Gospel of John}.
+\item Augustine of Hippo (奧古斯丁, 354--430). \textit{Tractates on the Gospel of John}.
+\end{itemize}
+
+\section*{改教與改革宗時期 Reformation Era}
+
+\begin{itemize}
+\item Calvin, John (加爾文, 1509--1564). \textit{Commentary on the Gospel According to John}.
+\end{itemize}
+
+\section*{近代與當代釋經 Modern \& Contemporary Commentary}
+
+\begin{itemize}
+\item Morgan, G. Campbell (1863--1945). \textit{The Gospel According to John}. 1909.
+\item MacArthur, John (b. 1939). \textit{The MacArthur New Testament Commentary: John 1--11, 12--21}. Chicago: Moody Publishers. \\ 講道系列 "Jesus: The Divine Word" 等，錄音與講章見 gty.org。
+\item Morris, Leon. \textit{The Gospel According to John}. NICNT. Grand Rapids: Eerdmans.
+\item Carson, D.A. \textit{The Gospel According to John}. PNTC. Grand Rapids: Eerdmans, 1991.
+\item Köstenberger, Andreas. \textit{John}. BECNT. Grand Rapids: Baker Academic, 2004.
+\end{itemize}
+
+\section*{中文查經資源 Chinese-Language Bible Study Resources}
+
+\begin{itemize}
+\item 黃長老（Elder Wong）。《生命之道——約翰福音》查經班教導，Thursday Wong Study Group 整理。
+\end{itemize}
+
+\section*{聖經版本 Bible Versions Used}
+
+\begin{itemize}
+\item 中文：和合本修訂版 (Revised Chinese Union Version, RCUV)
+\item English: English Standard Version (ESV); New American Standard Bible (NASB) where noted
+\item 原文參考：Nestle-Aland 28th Edition (NA28); UBS Greek New Testament 5th Edition
+\end{itemize}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX D: ABOUT RED LETTER BIBLE
+%% ============================================
+\chapter*{附錄四：紅字聖經說明 (Appendix D: About the Red Letter Format)}
+\addcontentsline{toc}{chapter}{附錄四：紅字聖經說明 (Appendix D: About the Red Letter Format)}
+\markboth{}{}
+
+\section*{什麼是紅字聖經？}
+
+紅字聖經是一種聖經印刷傳統，將耶穌基督親口所說的話用\textcolor{JesusRed}{紅色}印刷，以區別於敘事文字與他人話語。這種格式起源於1899年，由 Louis Klopsch 首先用於英文聖經。
+
+\section*{本書的紅字標記}
+
+\begin{itemize}
+\item \textcolor{JesusRed}{\textit{耶穌直接說的話}} —— 紅色標示
+\item 敘事文字、他人話語 —— 黑色正體
+\item 舊約引文 —— 保留原樣，不作紅字處理
+\end{itemize}
+
+\section*{紅字的神學意義}
+
+\begin{enumerate}
+\item 耶穌的話語帶著神自己的權柄——「神既在古時藉著眾先知……就在這末世藉著他兒子曉諭我們」（來1:1-2）。
+\item 約翰福音记载耶穌的話語比例極高，尤其13-17章幾乎整段都是紅字——這是祂向門徒掏心的那一夜。
+\item 紅字提醒讀者：這不是一段引言，是「道」自己在說話。
+\end{enumerate}
+
+\vspace{0.5cm}
+\begin{center}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.2in}
+\centering\vspace{0.2cm}
+\textcolor{JesusRed}{\textit{「我就是道路、真理、生命；\\
+若不藉著我，沒有人能到父那裏去。」}}\\[0.3em]
+\small — 約翰福音 14:6
+\vspace{0.2cm}
+\end{minipage}}
+\end{center}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX E: FOUR GOSPELS DISTINCTIVES (SIMPLIFIED)
+%% ============================================
+\chapter*{附錄五：約翰福音在四福音中的獨特性 (Appendix E: John Among the Four Gospels)}
+\addcontentsline{toc}{chapter}{附錄五：約翰福音在四福音中的獨特性 (Appendix E: John Among the Four Gospels)}
+\markboth{}{}
+
+\section*{四福音四活物——四個角度寫同一位耶穌}
+
+{\small
+\begin{tabular}{@{}p{2.0cm}p{1.6cm}p{3.4cm}p{2.0cm}p{2.5cm}@{}}
+\toprule
+\textbf{福音書} & \textbf{活物} & \textbf{身份} & \textbf{開卷起點} & \textbf{家譜} \\
+\midrule
+馬太 & 獅子 & 王（大衛的子孫） & 亞伯拉罕 & 有（往下數到耶穌） \\
+馬可 & 牛 & 僕人 & 施洗約翰出來 & 無（僕人不需家譜） \\
+路加 & 人 & 完全人（末後的亞當） & 亞當 & 有（往上追到神） \\
+\textbf{約翰} & \textbf{鷹} & \textbf{神（永恆的道）} & \textbf{太初} & \textbf{無（神沒有家譜）} \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{約翰獨有、對觀福音沒有的材料}
+
+\begin{itemize}
+\item 序言（1:1-18「太初有道」）
+\item 七個「我是」宣告
+\item 尼哥底母、撒瑪利亞婦人的私人長談
+\item 洗門徒的腳（13章）、樓上五章講論（13-17章）
+\item 拉撒路復活（11章）
+\item 大祭司的禱告（17章）
+\end{itemize}
+
+\section*{對觀福音有、約翰沒有的材料}
+
+\begin{itemize}
+\item 耶穌的降生、受洗場面、曠野受試探
+\item 比喻——約翰福音一個比喻也沒有記載
+\item 登山變像
+\item 設立聖餐的敘述（約翰記洗腳取代之）
+\item 客西馬尼的掙扎禱告細節
+\end{itemize}
+
+\noindent 約翰晚年寫作（約主後85-95年），對觀福音已流傳；他不是重寫，是\textbf{補足與升高}：對觀福音多記加利利事工，約翰多記耶路撒冷與猶太節期；對觀福音記「國度的福音」，約翰記「生命的福音」。三年半的事工年表，正是靠約翰所記的三個逾越節（2:13；6:4；11:55）才立起來的。
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX F: SEVEN SIGNS OF JOHN
+%% ============================================
+\chapter*{附錄六：約翰福音七大兆頭 (Appendix F: The Seven Signs of John)}
+\addcontentsline{toc}{chapter}{附錄六：約翰福音七大兆頭 (Appendix F: The Seven Signs of John)}
+\markboth{}{}
+
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{ChapterBlue} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}
+約翰不用「神蹟」(\textit{dynamis}，權能的作為)，而用「兆頭」(\textit{sēmeion})——
+每個兆頭都是\textbf{指向耶穌身份的記號}，不是用來炫耀的表演。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textbf{總綱經文}（約20:30-31）：
+
+\begin{center}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{5.5in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{TextGray}
+「耶穌在門徒面前另外行了許多神蹟，沒有記在這書上。但記載這些事是要使你們信耶穌是基督，是神的兒子，並且使你們信了，就可以因他的名得生命。」\\[0.15em]
+\scriptsize — 約翰福音 20:30-31}
+\vspace{0.15cm}
+\end{minipage}}
+\end{center}
+
+\vspace{0.3cm}
+
+\section*{1. 水變酒 (2:1-11)}
+\noindent\textbf{地點：}加利利的迦拿婚宴\\
+\noindent\textbf{記載：}「這是耶穌所行的頭一件兆頭，是在加利利的迦拿行的，顯出他的榮耀來」(2:11)\\
+\noindent\textbf{屬靈意義：}六口猶太潔淨規矩用的石缸變成上好的酒——恩典（滿足需要）與真理（創造主大能）同時彰顯，遙相呼應15章「我是真葡萄樹」。
+
+\vspace{0.2cm}
+\section*{2. 醫治大臣之子 (4:46-54)}
+\noindent\textbf{記載：}「這是耶穌從猶太到加利利以後所行的第二件神蹟」(4:54)\\
+\noindent\textbf{屬靈意義：}耶穌的話語超越空間，隔空生效。信心不在乎眼見，而在乎所信的那句話。
+
+\vspace{0.2cm}
+\section*{3. 醫治畢士大池三十八年的病人 (5:1-15)}
+\noindent\textbf{地點：}耶路撒冷畢士大池，安息日\\
+\noindent\textbf{屬靈意義：}「你要痊癒嗎？」——律法（池水）救不了人，唯有耶穌的話。引出耶穌與父同工、同等的宣告（5:17-18）。
+
+\vspace{0.2cm}
+\section*{4. 五餅二魚餵飽五千人 (6:1-14)}
+\noindent\textbf{唯一四福音都記載的兆頭}\\
+\noindent\textbf{屬靈意義：}緊接著宣告「我是生命的糧」(6:35)——耶穌不僅供應糧，祂自己\textit{就是}糧。
+
+\vspace{0.2cm}
+\section*{5. 海面行走 (6:16-21)}
+\noindent\textbf{記載：}「是我，不要怕」——原文 ἐγώ εἰμι，「我是」\\
+\noindent\textbf{屬靈意義：}約翰福音第一次出現「我是」——出埃及記3:14耶和華的名字。海與風是受造之物，順服那創造者。
+
+\vspace{0.2cm}
+\section*{6. 醫治生來瞎眼的人 (9:1-41)}
+\noindent\textbf{地點：}西羅亞池（譯出來就是「奉差遣」）\\
+\noindent\textbf{屬靈意義：}緊接第8章「我是世界的光」。物質之光開了瞎子的眼，屬靈之光要開的是靈魂的眼——本章結尾，自稱看得見的法利賽人，才是真正的瞎子。
+
+\vspace{0.2cm}
+\section*{7. 拉撒路復活 (11:1-44)}
+\noindent\textbf{記載：}「復活在我，生命也在我」(11:25)——這句話說在叫死人出來\textbf{之前}\\
+\noindent\textbf{屬靈意義：}七兆頭的頂峰——不僅治病、不僅供應，乃是\textbf{勝過死亡}。這神蹟本身，也定了耶穌自己的死案（11:47-53）。
+
+\vspace{0.3cm}
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}
+\centering\vspace{0.2cm}
+{\footnotesize\color{TextGray}
+\textbf{結構觀察：}兆頭1（水變酒）與兆頭7（拉撒路復活）都是「無到有」的創造性作為；中間五個兆頭，是「殘缺到完整」的醫治與供應。}
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+\noindent\textbf{帶領提問：}你曾為缺乏神蹟而失望嗎？兆頭是\textbf{記號}，不是\textbf{目的}——記號指向祂的榮光。今天，從哪一個兆頭裡，你看見了祂？
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX G: PSALMS & OT MESSIANIC PROPHECIES
+%% ============================================
+\chapter*{附錄七：詩篇與舊約彌賽亞預言 (Appendix G: Psalms \& OT Messianic Prophecies)}
+\addcontentsline{toc}{chapter}{附錄七：詩篇與舊約彌賽亞預言 (Appendix G: Psalms \& OT Messianic Prophecies)}
+\markboth{}{}
+
+\noindent 以下所列，均為約翰福音經文\textbf{明文引用}的舊約預言，依約翰福音章節順序排列——不是泛泛的相似，而是約翰或耶穌自己親口指明的應驗關係。
+
+{\small
+\begin{longtable}{@{}p{2.0cm}p{4.5cm}p{2.2cm}p{4.9cm}@{}}
+\toprule
+\textbf{約翰福音} & \textbf{內容} & \textbf{舊約出處} & \textbf{應驗方式} \\
+\midrule
+\endhead
+1:23 & 施洗約翰自我指認 & 賽40:3 & 「我就是那在曠野呼喊者的聲音」——明文引用 \\
+2:17 & 潔淨聖殿，門徒想起經上的話 & 詩69:9 & 「我為你的殿心裏焦急，如同火燒」 \\
+6:31 & 群眾求餅，引用經上的話 & 出16:4；詩78:24 & 「他從天上賜下糧食給他們吃」 \\
+10:34 & 耶穌回應「你是人，自命為神」的指控 & 詩82:6 & 「我曾說你們是神」 \\
+12:13-15 & 榮耀進城 & 亞9:9；詩118:25-26 & 「和散那」；「你的王來了，騎著驢駒子」——雙重明文引用 \\
+12:38 & 猶太人不信的原因 & 賽53:1 & 「主啊，我們所傳的，有誰信呢」 \\
+12:40 & 猶太人不能信的原因 & 賽6:10 & 「主叫他們瞎了眼，硬了心」 \\
+13:18 & 猶大的背叛 & 詩41:9 & 「同我吃飯的人用腳踢我」 \\
+15:25 & 世界無故恨惡耶穌 & 詩35:19；69:4 & 「他們無故地恨我」 \\
+19:24 & 兵丁拈鬮分耶穌的外衣 & 詩22:18 & 「他們分我的外衣，為我的裏衣拈鬮」 \\
+19:28 & 「我渴了」 & 詩69:21 & 「我渴了，他們拿醋給我喝」 \\
+19:36 & 兵丁不打斷耶穌的腿 & 出12:46；詩34:20 & 「他的骨頭一根也不可折斷」——呼應逾越節羊羔條例 \\
+19:37 & 兵丁用槍扎耶穌的肋旁 & 亞12:10 & 「他們要仰望自己所扎的人」 \\
+\bottomrule
+\end{longtable}
+}
+
+\vspace{0.3cm}
+\noindent\textbf{未明文引用、但貫穿全書的預表：}逾越節羊羔（出12章 → 約1:29, 19:36）；銅蛇（民21:9 → 約3:14）；雅各天梯（創28:12 → 約1:51）；大祭司（利16章 → 約17章）；「那先知」（申18:15 → 約1:21, 45；6:14）。
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX H: GREEK WORD GLOSSARY
+%% ============================================
+\chapter*{附錄八：希臘文原文詞彙表 (Appendix H: Greek Word Glossary)}
+\addcontentsline{toc}{chapter}{附錄八：希臘文原文詞彙表 (Appendix H: Greek Word Glossary)}
+\markboth{}{}
+
+\noindent 本表彙整全書各章「原文研讀」與「希臘文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
+
+{\small
+\begin{longtable}{@{}p{2.6cm}p{2.6cm}p{3.0cm}p{5.4cm}@{}}
+\toprule
+\textbf{希臘文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
+\midrule
+\endhead
+ἀγαπάω / φιλέω & agapaō / phileō & 愛（神聖的愛／友誼的愛） & 21:15-17 彼得三問三答中交替使用 \\
+ἁμαρτωλός & hamartōlos & 罪人 & 9:16, 24-25, 31 生來瞎眼章的核心爭論 \\
+ἀλήθεια & alētheia & 真理、實在 & 全書25次；8:32；14:6 \\
+ἀμνός & amnos & 羔羊 & 1:29, 36 \\
+ἀναμάρτητος & anamartētos & 沒有罪的 & 8:7，全新約僅此一次 \\
+ἀνωθεν & anōthen & 從上頭／重新 & 3:3 雙關語：from above / again \\
+ἀρχή & archē & 起初、太初 & 1:1，強調永恆存在 \\
+ἄρτος & artos & 餅／糧 & 6:35 \\
+γεννάω & gennaō & 生 & 3:3-7，被動語態：被生出來 \\
+γινώσκω & ginōskō & 認識 & 17:3，經驗性、關係性的認識 \\
+δοξάζω & doxazō & 榮耀／使得榮耀 & 7:39；12:23, 28；17章 \\
+δοῦλος & doulos & 奴僕 & 8:34，罪的奴僕 \\
+ἐγώ εἰμι & egō eimi & 我是 & 6:20；8:24, 28, 58；18:5-6，呼應出3:14神的名 \\
+εἰς τέλος & eis telos & 到底 & 13:1，雙關：時間的終點／程度的極限 \\
+ἐλευθερόω & eleutheroō & 使自由 & 8:32, 36 \\
+ἐξηγέομαι & exēgeomai & 表明、詮釋 & 1:18，英文 exegesis 字源 \\
+ἔργαζομαι & ergazomai & 做工 & 5:17，父與子持續的工作 \\
+ζωή & zōē & 生命 & 全書36次；區別於 bios（生存） \\
+ἡλκω & helkō & 吸引 & 6:44，父的主權吸引 \\
+θύρα & thyra & 門 & 10:7, 9 \\
+ἴσος & isos & 同等 & 5:18，與神同等的宣告 \\
+κόσμος & kosmos & 世界 & 全書78次 \\
+κράβαττος & krabbatos & 褥子 & 5:8-9 \\
+κρίσις & krisis & 審判 & 5:22, 24, 27 \\
+λόγος & logos & 道、話語、理性 & 1:1，全書40次 \\
+μαρτυρέω & martyreō & 作見證 & 全書47次；5:31-39 四重見證 \\
+μένω & menō & 常在／住 & 15:4-10，11次出現於本章 \\
+μονογενής & monogenēs & 獨一的、獨生的 & 1:14, 18；3:16 \\
+νάρδος & nardos & 哪噠香膏 & 12:3，約值一年工資 \\
+παράκλητος & paraklētos & 保惠師 & 14:16, 26；15:26；16:7 \\
+πηλός & pēlos & 泥 & 9:6，呼應創2:7 \\
+πιστεύω & pisteuō & 信 & 全書近百次，動詞為主，強調持續的動作 \\
+πνεῦμα & pneuma & 靈／風 & 3:8 雙關語；4:24「神是靈」 \\
+ποιμήν & poimēn & 牧人 & 10:11, 14 \\
+προσκυνέω & proskyneō & 敬拜 & 9:38；4:23-24 \\
+σάρξ & sarx & 肉身 & 1:14；6:51-56 \\
+σημεῖον & sēmeion & 兆頭、記號 & 約翰從不用「奇事」，全書用此字 \\
+σκηνόω & skēnoō & 支搭帳幕、住 & 1:14，呼應出埃及記會幕 \\
+τετέλεσται & tetelestai & 成了 & 19:30，完成時態：已完成、永遠完成 \\
+τηρέω & tēreō & 保守 & 17:11-12, 15 \\
+τρώγω & trōgō & 咀嚼、真實地吃 & 6:54-58 \\
+ὑγιής & hygiēs & 痊癒、完全 & 5:6, 9, 14 \\
+ὑψόω & hypsoō & 被舉起 & 3:14；8:28；12:32，雙關語：釘十架與升為至高 \\
+χάρις & charis & 恩典 & 1:14, 16-17 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX I: READING PLAN
+%% ============================================
+\chapter*{附錄九：約翰福音讀經計劃 (Appendix I: A Reading Plan for the Gospel of John)}
+\addcontentsline{toc}{chapter}{附錄九：約翰福音讀經計劃 (Appendix I: A Reading Plan for the Gospel of John)}
+\markboth{}{}
+
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{ChapterBlue} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}
+重要的不是\textit{讀完}，是\textit{遇見}。\\
+若某一日的話打中你——停下來，在那裡住一天。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+\noindent 本計劃依全書五部結構分為五週，並在第一週提供序言的七日精讀法。
+
+\section*{第一週：序言精讀 (1:1-18) —— 七日七個焦點}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.0cm}p{4.5cm}p{8.1cm}@{}}
+\toprule
+\textbf{日} & \textbf{焦點} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+1 & 生命 & 「生命在他裏頭」——這生命與我的關係是什麼？ \\
+2 & 光 & 光照在黑暗裏——我今天活在光中，還是暗中？ \\
+3 & 見證 & 施洗約翰只是聲音——我的生命是否也在見證真光？ \\
+4 & 接待／跟從 & 「凡接待他的……」——我真正接待了他嗎？ \\
+5 & 十一個稱號 & 一章之內十一個稱號——哪一個最觸動我？ \\
+6 & 時間標記 & 次日、再次日、又次日——約翰記得那麼清楚，我呢？ \\
+7 & 「看見耶穌是誰」 & 讀完這一章，我看見的耶穌是誰？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第二週：兆頭之書·上 (2-6章)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+2 & 迦拿婚宴／潔淨聖殿 & 這個兆頭指向的屬靈實在是什麼？ \\
+3 & 尼哥底母夜訪 & 我是「信主」了，還是「重生」了？ \\
+4 & 撒瑪利亞婦人 & 遇見主之後，我放下了什麼「水罐」？ \\
+5 & 畢士大池的醫治 & 「你要痊癒嗎？」——我真的要改變嗎？ \\
+6 & 生命的糧 & 我跟從主，是為了餅，還是為了祂？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第三週：兆頭之書·下 (7-12章)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+7 & 住棚節的講論 & 我的信仰是蓄水池，還是流出去的江河？ \\
+8 & 世界的光 & 恩典和真理，我只要了哪一半？ \\
+9 & 醫好生來瞎眼的 & 誰是瞎子？我的「這件事」是什麼？ \\
+10 & 好牧人 & 我認得祂的聲音嗎，還是只認得道理？ \\
+11 & 拉撒路復活 & 我的信要等到看見才信嗎？ \\
+12 & 榮耀進城與一粒麥子 & 我抓在手裡不肯落地的那粒麥子是什麼？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第四週：樓上私語 (13-17章)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+13 & 洗門徒的腳 & 我肯洗的，是誰的腳？ \\
+14 & 道路、真理、生命 & 我的心「憂愁」時，是找辦法，還是信靠祂？ \\
+15 & 真葡萄樹 & 我是在「為主做工」，還是在「住在主裏」？ \\
+16 & 聖靈的工作 & 我放心的根據，是環境，還是這句應許？ \\
+17 & 大祭司的禱告 & 主為我代求——我信嗎？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第五週：受難復活與跋 (18-21章)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+18 & 被捕與受審 & 我在哪個「炭火」旁？ \\
+19 & 十字架 & 「成了」——我還在補做什麼？ \\
+20 & 空墳與復活顯現 & 「沒有看見就信的有福了」——我是哪一種？ \\
+21 & 尾聲：加利利海的顯現 & 「你愛我比這些更深嗎？」——我的「這些」是什麼？ \\
+\bottomrule
+\end{longtable}
+}
+
+%% ============================================
+%% BACK COVER PAGE
+%% ============================================
+\cleardoublepage
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.2pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ChapterBlue, line width=0.4pt, opacity=0.6]
+    ([xshift=0.52in,yshift=0.52in]current page.south west)
+    rectangle
+    ([xshift=-0.52in,yshift=-0.52in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[JesusRed] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.016in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{\fill}
+
+{\fontsize{15}{18}\selectfont\scshape\color{ChapterBlue} Ἐγώ εἰμι}\\[0.10cm]
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``I Am'' \;\;
+\bfseries\color{JesusRed} 我是}
+
+\vspace{0.25cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.35cm}
+
+{\normalsize\bfseries\color{ChapterBlue} 關於本書 \;\; \footnotesize\scshape About This Book}
+
+\vspace{0.2cm}
+\noindent\begin{minipage}{4.7in}
+\footnotesize\color{TextGray}
+本書逐章研讀約翰福音二十一章，整合黃長老查經教導、
+John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
+並貫通四福音、羅馬書與啟示錄。
+全書以約翰福音 20:31 為總綱：
+「但記載這些事是要使你們信耶穌是基督，是神的兒子，
+並且使你們信了，就可以因他的名得生命。」\\[0.4em]
+{\itshape
+A chapter-by-chapter study of all 21 chapters of John's Gospel,
+integrating Elder Wong's teaching, John MacArthur's verse-by-verse
+exposition, and G. Campbell Morgan's spiritual analysis —
+framed by John 20:31's purpose: that you may believe, and believing,
+have life in His name.}
+\end{minipage}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterBlue} 七個「我是」 \;\; Seven ``I Am'' Sayings}\\[0.3em]
+{\footnotesize\color{TextGray}
+生命的糧 (6:35) \textbullet\ 世界的光 (8:12) \textbullet\ 羊的門 (10:7,9)\\
+好牧人 (10:11,14) \textbullet\ 復活與生命 (11:25)\\
+道路、真理、生命 (14:6) \textbullet\ 真葡萄樹 (15:1,5)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「太初有道，道與神同在，道就是神……道成了肉身，住在我們中間，\\
+充充滿滿地有恩典有真理。」}\\[0.15cm]
+{\scriptsize\color{ChapterBlue} — 約翰福音 1:1, 14}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
 \end{document}
