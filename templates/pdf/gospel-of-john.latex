@@ -25,6 +25,9 @@
 \setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
 \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
 
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}
+
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
@@ -279,6 +282,186 @@ $endif$
 %% --------------------------------------------
 \frontmatter
 \pagestyle{empty}
+
+%% ============================================
+%% COVER ART PAGE — the eagle (約翰＝鷹), radiating glory,
+%% the seven-fold "I Am" name. Full-bleed, gold-bordered,
+%% matching the appendix/back-cover palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterBlue, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[JesusRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterBlue} Three Books Deep Reading \textbullet\ Gospel of John}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 約翰福音深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} The Fourth Gospel \textperiodcentered\ 鷹的視角：從太初看見神子}
+
+\vspace{0.30cm}
+
+% ===== EAGLE WITH HALO OF GLORY (約翰的活物記號) =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Halo — radiating glory rays
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.10] (0,0.3) circle (2.15);
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.16] (0,0.3) circle (1.90);
+  \draw[ScriptureGold, line width=0.4pt, opacity=0.24] (0,0.3) circle (1.65);
+  \draw[ScriptureGold, line width=0.5pt, opacity=0.34] (0,0.3) circle (1.35);
+  \foreach \ang in {0,15,...,345} {
+    \draw[ScriptureGold, line width=0.35pt, opacity=0.40]
+      ({1.35*cos(\ang)}, {0.3+1.35*sin(\ang)}) -- ({1.75*cos(\ang)}, {0.3+1.75*sin(\ang)});
+  }
+  \draw[ScriptureGold, line width=1.0pt] (0,0.3) circle (1.35);
+
+  % Eagle — spread wings, iconographic (約翰＝鷹)
+  \fill[ChapterBlue] (0,0.55) -- (-1.55,1.05) -- (-1.35,0.55) -- (-1.05,0.72) -- (-0.72,0.40) -- (-0.35,0.55) -- (0,0.30) -- cycle;
+  \fill[ChapterBlue] (0,0.55) --  (1.55,1.05) --  (1.35,0.55) --  (1.05,0.72) --  (0.72,0.40) --  (0.35,0.55) -- (0,0.30) -- cycle;
+  \fill[ScriptureGold,opacity=0.55] (0,0.55) -- (-1.05,0.80) -- (-0.90,0.52) -- (-0.62,0.62) -- (0,0.42) -- cycle;
+  \fill[ScriptureGold,opacity=0.55] (0,0.55) --  (1.05,0.80) --  (0.90,0.52) --  (0.62,0.62) -- (0,0.42) -- cycle;
+  % head + body
+  \fill[JesusRed] (0,0.62) circle (0.16);
+  \fill[ChapterBlue] (-0.10,0.15) -- (0.10,0.15) -- (0.05,0.55) -- (-0.05,0.55) -- cycle;
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterBlue}\kaiti\selectfont 生命之道}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} The Word of Life}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 約翰福音研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Gospel of John}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterBlue} Ἐγώ εἰμι}\quad
+{\footnotesize\scshape\color{CommentaryBrown} ``I Am''}\quad
+{\footnotesize\bfseries\color{JesusRed} 我是}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{JesusRed}\kaiti\selectfont
+「太初有道，道與神同在，道就是神……道成了肉身，住在我們中間。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``In the beginning was the Word... and the Word became flesh and dwelt among us.''}\\[0.10em]
+{\scriptsize\color{ChapterBlue} 約翰福音 1:1, 14 \textperiodcentered\ John 1:1, 14}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on John's
+%% own stated purpose verse (20:31), not a borrowed
+%% framework verse from another book.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterBlue} 全書一句話 \textperiodcentered\ The Whole Book in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+但記載這些事是要使你們\textbf{\color{JesusRed}信}耶穌是基督，是神的兒子，\\
+並且使你們信了，就可以因祂的名得\textbf{\color{JesusRed}生命}。\\[0.5em]
+\footnotesize\itshape
+But these are written so that you may \textbf{believe} that Jesus is the Christ,\\
+the Son of God, and that by believing you may have \textbf{life} in his name.\\[0.4em]
+\small\color{ChapterBlue} 約翰福音 20:31 \textperiodcentered\ John 20:31
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 一節經文 \textperiodcentered\ 兩個動詞 \textperiodcentered\ 整卷福音書\\
+\textit{One verse \textperiodcentered\ two verbs \textperiodcentered\ the whole Gospel}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{1.4cm}p{3.0cm}p{4.6cm}@{}}
+\toprule
+\textbf{動詞} & \textbf{階段} & \textbf{在全書的展開} \\
+\midrule
+信 & 兆頭之書 & 1:19-12:50 —— 七個兆頭、七個「我是」，逐步分開信與不信 \\
+得生命 & 榮耀之書 & 13-21 章 —— 樓上的愛、十架的「成了」、空墳的復活，生命親自向人顯明 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterBlue} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一卷書，是來認識一位活著的主。\\
+若你讀完二十一章還沒看見祂——請從頭再讀，\\
+這次把主角放回正確的位子上。\\[0.5em]
+\textit{\footnotesize
+You are not reading a book — you are meeting a Person.\\
+If after twenty-one chapters you have not yet seen Him, read it again.\\
+This time, put the main character back where He belongs.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
 
 % Title page
 \begin{titlepage}
