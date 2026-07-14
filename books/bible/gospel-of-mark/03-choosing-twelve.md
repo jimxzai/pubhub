@@ -1,0 +1,260 @@
+---
+title: 馬可福音研讀
+subtitle: Gospel of Mark Deep Study
+author: PubHub 三書精讀系統
+date: 2026年7月
+publisher: 三書精讀出版系統
+---
+
+# 第三章：揀選十二使徒 (Choosing the Twelve)
+
+馬可福音 3:7-35
+
+**經文核對**：[ai-eden.com/bible/mark/3](https://www.ai-eden.com/bible/mark/3?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+群眾越聚越多，多到耶穌必須預備小船才不致被擠壓；但馬可的鏡頭沒有停留在群眾的壯觀場面上，而是轉向山上——耶穌親自揀選十二個平凡人，將自己的事工託付在他們手中。緊接著，最激烈的衝突接踵而至：耶路撒冷來的文士指控祂靠鬼王趕鬼，祂自己的家人則以為祂癲狂了。馬可把「揀選」與「拒絕」並排陳列——十二個被召的，與許多拒絕祂的人，包括祂血緣上的至親。馬可要讀者看見：真正屬於基督的家人，不是靠血緣，而是靠遵行神的旨意。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Blest Be the Tie That Binds**
+> *John Fawcett, 1782*
+>
+> Blest be the tie that binds
+> our hearts in Christian love;
+> the fellowship of kindred minds
+> is like to that above.
+>
+> 何等美妙這連結，聯合心靈於基督的愛；
+> 這相通的情誼，恰如天上聖徒的相交。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+> ^7^耶穌和門徒退到海邊去，有許多人從加利利跟隨他。^8^還有許多人聽見他所做的事，就從猶太、耶路撒冷、以土買、約旦河的東邊，以及推羅和西頓的附近地方來到他那裏。^9^因為人多，他吩咐門徒為他預備一隻小船，免得眾人擁擠他。^10^他治好了許多人，所以凡有疾病的，都擠著要摸他。^11^每當污靈看見他，就俯伏在他面前，喊著說：「你是神的兒子。」^12^耶穌再三囑咐他們不要把他宣揚出去。
+
+> ^13^耶穌上了山，把自己所要的人召來，他們就來到他那裏。^14^於是他設立十二個人，又稱他們為使徒，要他們常和自己同在，也要差他們去傳道，^15^並給他們權柄趕鬼。^16^他設立的十二個人有西門—耶穌又給他起名叫彼得；^17^還有西庇太的兒子雅各和雅各的弟弟約翰—耶穌又給他們起名叫半尼其（就是雷子的意思）；^18^又有安得烈、腓力、巴多羅買、馬太、多馬、亞勒腓的兒子雅各、達太和激進黨的西門；^19^還有出賣耶穌的加略人猶大。
+
+> ^20^耶穌進了屋子，眾人又聚集，甚至他連飯也顧不得吃。^21^耶穌的家人聽見，就出來要拉住他，因為他們說他癲狂了。^22^從耶路撒冷下來的文士說：「他是被別西卜附身的」，又說：「他是靠著鬼王趕鬼的。」^23^耶穌叫他們來，用比喻對他們說：<red>「撒但怎能趕出撒但呢？^24^一國若自相紛爭，那國就立不住；^25^一家若自相紛爭，那家就立不住。^26^撒但若自相攻打紛爭，他就立不住，必定滅亡。^27^沒有人能進壯士家裏，搶奪他的東西；除非先綁住那壯士，否則無法搶奪他的家。^28^我實在告訴你們，世人一切的罪和一切褻瀆的話都可以得到赦免；^29^凡褻瀆聖靈的，卻永不得赦免，而要擔當永遠的罪。」</red>^30^因為他們說：「他是被污靈附身的。」
+
+> ^31^那時，耶穌的母親和他兄弟來，站在外邊，打發人去叫他。^32^有許多人在耶穌周圍坐著，他們就告訴他說：「看哪！你母親、你兄弟和你姊妹在外邊找你。」^33^耶穌回答他們：<red>「誰是我的母親？誰是我的兄弟？」</red>^34^就環視那周圍坐著的人，說：<red>「看哪，我的母親，我的兄弟！^35^凡遵行神旨意的人就是我的兄弟姊妹和母親。」</red>
+
+### English — ESV
+
+> ^7^Jesus withdrew with his disciples to the sea, and a great crowd followed, from Galilee and Judea ^8^and Jerusalem and Idumea and from beyond the Jordan and from around Tyre and Sidon. When the great crowd heard all that he was doing, they came to him. ^9^And he told his disciples to have a boat ready for him because of the crowd, lest they crush him, ^10^for he had healed many, so that all who had diseases pressed around him to touch him. ^11^And whenever the unclean spirits saw him, they fell down before him and cried out, "You are the Son of God." ^12^And he strictly ordered them not to make him known.
+
+> ^13^And he went up on the mountain and called to him those whom he desired, and they came to him. ^14^And he appointed twelve (whom he also named apostles) so that they might be with him and he might send them out to preach ^15^and have authority to cast out demons. ^16^He appointed the twelve: Simon (to whom he gave the name Peter); ^17^James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder); ^18^Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot, ^19^and Judas Iscariot, who betrayed him.
+
+> ^20^Then he went home, and the crowd gathered again, so that they could not even eat. ^21^And when his family heard it, they went out to seize him, for they were saying, "He is out of his mind." ^22^And the scribes who came down from Jerusalem were saying, "He is possessed by Beelzebul," and "by the prince of demons he casts out the demons." ^23^And he called them to him and said to them in parables, <red>"How can Satan cast out Satan? ^24^If a kingdom is divided against itself, that kingdom cannot stand. ^25^And if a house is divided against itself, that house will not be able to stand. ^26^And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. ^27^But no one can enter a strong man's house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house. ^28^Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, ^29^but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin"</red>— ^30^for they were saying, "He has an unclean spirit."
+
+> ^31^And his mother and his brothers came, and standing outside they sent to him and called him. ^32^And a crowd was sitting around him, and they said to him, "Your mother and your brothers are outside, seeking you." ^33^And he answered them, <red>"Who are my mother and my brothers?"</red> ^34^And looking about at those who sat around him, he said, <red>"Here are my mother and my brothers! ^35^For whoever does the will of God, he is my brother and sister and mother."</red>
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+7-8節列出的地名——加利利、猶太、耶路撒冷、以土買（希律家族的老家）、約旦河東、推羅和西頓（腓尼基沿海外邦地區）——構成一幅涵蓋猶太人與外邦人、南北全境的地圖，顯明耶穌的名聲此時已超越加利利本地，吸引了整個近東地區的關注。「揀選十二」呼應以色列十二支派——這不是巧合，而是宣告：耶穌正在建立一個新以色列的核心。
+
+### 文學結構：三明治式的敘事 (Markan Sandwich)
+
+3:20-35是馬可福音典型的「三明治結構」（intercalation）：A（20-21節，家人認為祂癲狂）→ B（22-30節，文士指控祂靠鬼王趕鬼）→ A'（31-35節，家人前來找祂）。馬可把兩段關於「家人」的敘述包裹住中間關於「文士指控」的段落，讓兩者互相解讀：家人的懷疑與文士的指控，其實出於同一種盲目——都因看不清真相，而對耶穌的身分做出錯誤的判斷。35節「凡遵行神旨意的人就是我的兄弟姊妹和母親」，正是對這兩種盲目的共同回應。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *apostolous* | apostolous | 使徒、受差遣者 | 14節，唯獨馬可、路加明確記載耶穌「稱他們為使徒」 |
+| *exestē* | exestē | 癲狂、失去理智 | 21節，字面指「站到自己之外」，親屬對耶穌的判斷 |
+| *Beelzeboul* | Beelzeboul | 別西卜 | 鬼王的別稱，字源不確定，可能源自「屋子的主人」或帶貶意的「污穢之主」 |
+| *blasphēmia* | blasphēmia | 褻瀆 | 28-29節，唯一被列為「永不得赦免」的罪 |
+| *aiōniou hamartēmatos* | aiōniou hamartēmatos | 永遠的罪 | 29節，直譯「永世的罪」，強調後果的永恆性 |
+
+### 「壯士的比喻」的邏輯
+
+27節「壯士」的比喻，是耶穌對文士指控最有力的反駁：若祂真是靠撒但的能力趕鬼，那正是撒但的國「自相紛爭」，必然瓦解；但實情恰恰相反——祂能趕鬼，正證明有一位比撒但更強的已經「先綁住壯士」，正在「搶奪他的家」。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 主權的揀選 (Sovereign Election)
+
+「把自己所要的人召來」——揀選的主動權完全在耶穌，不是門徒自薦，也不是按才幹篩選出來的精英團隊。
+
+### 2. 「常和自己同在」先於「差遣出去」(Being With Him Precedes Being Sent by Him)
+
+使徒的兩項職分——傳道、趕鬼——都建立在第一項、也是最基礎的呼召上：「常和自己同在」。
+
+### 3. 十二使徒的真實與軟弱 (The Twelve's Raw Humanity)
+
+名單中包括後來三次不認主的彼得、綽號「雷子」性情火爆的雅各與約翰、身分立場對立的稅吏馬太與激進黨人西門、以及最終出賣耶穌的加略人猶大。馬可毫不掩飾地記下這份名單，恰恰印證了福音書記載的誠實。
+
+### 4. 褻瀆聖靈的嚴重性 (The Gravity of Blasphemy against the Spirit)
+
+文士明明看見鬼被趕出，卻堅持將聖靈的作為歸給撒但——這不是一時的無知，而是在充分證據面前，故意將光明稱為黑暗的心硬。
+
+### 5. 屬靈的家人超越血緣 (Spiritual Family Transcends Bloodline)
+
+耶穌並非否定祂與馬利亞、兄弟們的血緣關係，而是宣告一個更高、更持久的聯結——「遵行神旨意」所建立的屬靈家庭。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到十二使徒的名單（馬太福音平行記載），屈梭多模指出：「這是何等樣的人？漁夫、稅吏——十二人中有四位是漁夫，兩位是稅吏，馬太與雅各，還有一位甚至是出賣者」，「居首、位列合唱團領班的，正是那不學無術、無知的人」。論到猶大被列入名單卻毫不隱諱，他寫道：「他沒有說『那不聖潔的、那極不聖潔的』，而是按著猶大的家鄉稱呼他——加略人猶大」，「他們何等不曾隱瞞任何看似有損顏面之事」。論到耶穌對家人的回應（馬太平行經文），他指出：「我曾說過，年紀、天性，甚至住在曠野，這一切若沒有良善的心思，都是無益的；但今天我們還學到另一件事：即使懷過基督、生下那奇妙的誕生，若沒有德行，也是無益的」；「祂沒有說『她不是我的母親，他們也不是我的弟兄』，因為她確實是；祂也沒有宣判定她的罪，而是仍留給她選擇的餘地，用祂特有的溫和說話」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 32 (on Matt 10:1-4) and Homily 44 (on Matt 12:46-50), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到揀選十二使徒，加爾文強調：「藉著這次揀選，祂尚未立即委任他們履行使徒職分，僅僅是准許他們親近祂、接受私下教導，為要預備日後的使徒職分」；他也指出這是教會揀選教牧同工應當效法的榜樣：「這個範例應當被我們視為永恆的準則，當我們要為教會揀選牧者時，應當以禱告為先——否則我們所嘗試的事，都不會順利成功」。論到褻瀆聖靈的罪，加爾文清楚劃定範圍：「那些惡意地將聖靈向他啟示、原當歸榮耀給神的完美屬性，扭曲、歸咎於褻瀆的人，才是干犯聖靈的罪，他們與撒但一同，成了神榮耀公然的仇敵」；「這節經文也駁斥了那種以為，凡是明知故犯、違背良心所犯的罪都是不可赦免之罪的錯誤看法」；「凡尚未蒙聖靈光照的人，無論他們如何貶損聖靈的榮耀，都不至於被定為犯了這樣的罪」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到十二使徒的組成，麥克阿瑟強調：「事實上，他們最顯著的共同點只有一個——就是平凡」，「沒有一位以學問著稱，沒有一位以博學著稱」；「權能不在於這個人身上，權能是與祂同在的」；他也指出這十二人「構成了以色列新的屬靈領導核心」，並提醒今天的信徒：「作為今天的信徒，你也承接了他們的產業，因為大使命同樣是給你的」。論到褻瀆聖靈的罪，麥克阿瑟解釋：「對他們而言，那不可赦免的罪就是：『耶穌是靠鬼附的』——他們正是為此下了地獄」；「若這是你在充分啟示之下所作出的最終結論……你就永不能得赦免」；他特別強調這罪之所以獨特，是因為「這是聖靈藉著祂所做的工作——聖靈在祂受洗時就降在祂身上」，「不得赦免的，是那種得著完全啟示、完全的福音、完全的真理，卻仍作出最終結論說『這不是真的，我拒絕基督』的背道者」。
+> — John MacArthur, *Twelve Ordinary Men* (41-14), *The Unforgivable Sin* (41-16), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到揀選十二使徒，摩根指出：「這是預先的行動，是在祂被捕與受難的時刻來到之前，為更廣泛的事工所作的預備」；他指出三件當留意的事：「首先，祂對十二人的揀選——『祂召自己所要的人來，他們就到祂那裏去』；其次，祂對所揀選之人的委任——『祂設立他們，要他們常和自己同在，也要差他們出去傳道，並有權柄趕鬼』；最後，祂在十二人當中所作的區分——三人被賜予別名，其餘則沒有」。論到「祂自己所要的」，他寫道：「這詞暗示一種出於主體衝動而生的主動抉擇……這詞表明一種源自內在的自我決定的主權；一種出於祂自己主權的揀選，因此祂為自己所做的事承擔全部責任」；「誠然，這是一群奇特而混雜的人；不多是有能力的，不多是有智慧的……然而他們是祂的揀選，祂為著這工作的緣故揀選了他們——祂揀選他們，是因為他們已經具備了祂所需要的能力」。論到文士的指控，摩根強調文士的罪不在於一時的無知：「任何人所犯最終極的罪，就是曲解他弟兄的動機……神是察驗動機的神，唯獨祂能衡量與稱量人的動機……他們正試圖解釋祂的動機；他們正侵入那內在、隱密、孤獨、聖潔的至聖所——祂如此行的理由……其實是他們、而非祂，與魔鬼結盟」。論到耶穌對家人的回應，摩根寫道：「耶穌環視那十二人……祂看見一人，被恐懼所轄制、因懦弱而自保，將在夜的黑暗中起誓說他根本不認識祂；祂也看見另外十人，將在祂受難的極致時刻逃跑……然而祂所看見的，是那些在生命最深的事實上——正是動機的領域——已經分別為聖歸給神、歸給祂的人」；「祂由此顯明一種屬靈的關係，其崇高遠超血緣的親屬關係……瑪利亞與祂的兄弟們後來也進入了這崇高的關係，但不是立刻」。
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 133:1-3
+
+> 看哪，弟兄和睦同居是何等地善，何等地美！
+> 這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他衣服的領子。
+> 又好比黑門的甘露降在錫安山；因為在那裏有耶和華所命定的福，就是永遠的生命。
+
+### 詩篇 25:14
+
+> 耶和華與敬畏他的人親密；他必將自己的約指示他們。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### I Have Decided to Follow Jesus
+
+> I have decided to follow Jesus;
+> no turning back, no turning back.
+> The world behind me, the cross before me;
+> no turning back, no turning back.
+>
+> 我已決定跟從耶穌，永不回頭，永不回頭；
+> 世界在我身後，十架在我前面，永不回頭，永不回頭。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：揀選十二使徒 (Ask Elder Wong)
+
+**精義一句話**：十二個平凡人被基督揀選、與祂同在、又被祂差遣——這就是教會最初的樣式：不是憑資格被選上，而是憑恩典被召，然後才配得被差。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一整段的主句是35節：「凡遵行神旨意的人就是我的兄弟姊妹和母親。」十二使徒的揀選、家人與文士的誤判，都在為這一句話鋪墊——真正屬乎基督的關係，不是靠血緣，也不是靠學問地位，而是靠「遵行神的旨意」。
+- **十二使徒的名單裏，有漁夫、稅吏、激進黨人、後來出賣主的人**——這樣一份「不完美」的名單，對你今天看待「被神使用的資格」有什麼提醒？
+- **耶穌的家人說祂「癲狂」，文士說祂「被鬼附」**——同一個人，同樣被誤解，卻用了完全不同的態度回應：對文士，祂用邏輯駁斥；對家人，祂沒有反擊。你覺得為什麼？
+
+**整本聖經的連結**：創世記記載雅各的十二個兒子成為以色列十二支派的先祖（創49章）；如今耶穌「設立十二個人」，不是巧合的數字，而是宣告一個新以色列核心的誕生——這條線索一路貫穿到啟示錄21:14，新耶路撒冷的城牆有十二根基石，上面寫著羔羊十二使徒的名字。另一條線索：出埃及記33:11「耶和華與摩西面對面說話，好像人與朋友說話一般」——摩西的能力，源自與神面對面的相交；如今耶穌揀選十二人，第一要務也是「常和自己同在」，而非立刻差遣，正如約翰福音15:4「你們要常在我裏面，我也常在你們裏面」——結果子的根基，永遠是「同在」，而非「做工」。
+
+**讓話語住在裡面**：文士們親眼見證聖靈的大能運行在眼前，卻選擇將其歸給污靈——這提醒我們：良心若一再壓抑真相，終將麻木到無法辨識神的作為。默想：我有沒有一再用「合理的解釋」壓過聖靈微小的聲音？今天的實踐：為一位你曾論斷其動機、卻其實不明真相的人，重新以憐憫的眼光看待他。
+
+**你看見耶穌了嗎**：在揀選平凡人為使徒、在被至親誤解為癲狂、在被指控靠鬼王趕鬼的重重張力中，你看見的，是那位甘願被誤解、卻依然揀選並差遣软弱之人的基督——祂重新定義了「家人」，而祂邀請你，藉著遵行父的旨意，進入這個超越血緣的家。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「凡遵行神旨意的人就是我的兄弟姊妹和母親」——十二使徒的揀選、家人與文士的誤判，都在為這一句話鋪墊：真正屬乎基督的關係，不靠血緣，只靠遵行神的旨意。
+
+**貫通全經**：雅各十二個兒子成為以色列十二支派的先祖（創49章）；耶穌「設立十二個人」，宣告一個新以色列核心的誕生，這條線索一路貫穿到啟示錄21:14，新耶路撒冷城牆的十二根基石。
+
+**無法迴避的問題**：耶穌的家人說祂「癲狂」，文士說祂「被鬼附」——同一個人，同樣被誤解，你今天面對他人的誤解，是選擇用邏輯駁斥，還是選擇沉默等候？
+
+> 「祂重新定義了『家人』——不是血緣的親屬，是遵行天父旨意的同伴。」
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **3:14「常和自己同在」**：門訓的核心是關係，不是課程或訓練材料——這對習慣以「上了多少課、讀了多少書」衡量門徒訓練成效的華人教會文化，是一個提醒：門徒的塑造，發生在與主、與帶領者長時間同在的生命連結裏。
+- **3:35 屬靈家庭超越血緣**：對華人根深柢固的家族觀念（重視血緣、宗族、輩分），耶穌這句話帶來根本性的更新——教會裏的屬靈連結，其分量不亞於、甚至可能超越血緣的家族關係。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Blest Be the Tie That Binds*（何等美妙這連結）
+
+> Blest be the tie that binds our hearts in Christian love;
+> the fellowship of kindred minds is like to that above.
+>
+> — John Fawcett (1782)
+
+**詩篇**：詩篇 133:1-3
+
+> 看哪，弟兄和睦同居是何等地善，何等地美！
+> 這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他衣服的領子。
+> 又好比黑門的甘露降在錫安山；因為在那裏有耶和華所命定的福，就是永遠的生命。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **揀選的恩典**：十二使徒沒有一位是「完美的候選人」，卻都蒙耶穌親自揀選。你今天是否常因自覺不夠資格，而遲疑回應神的呼召？
+
+2. **同在先於差遣**：使徒的第一項職分是「常和自己同在」，其次才是傳道趕鬼。你的服事，是否也建立在與基督親密相交的根基上？
+
+3. **面對誤解的智慧**：耶穌面對家人的誤解與文士的敵意，用了不同的態度回應。你今天在面對「善意的誤解」與「惡意的攻擊」時，能否分辨並用相稱的態度回應？
+
+4. **屬靈的家人**：「遵行神旨意的人就是我的兄弟姊妹和母親。」在你的教會、團契中，有沒有這樣一位「屬靈家人」，是你可以主動去建立、去珍惜的？
+
+### 禱告回應
+
+> 主啊，感謝你揀選軟弱不完全的人，成為你國度的根基。
+> 求你使我的事奉，先建立在與你同在的根基上，而非單靠自己的努力。
+> 求你賜我智慧，能分辨並恰當回應生命中善意的誤解與惡意的攻擊。
+> 願我真實遵行你的旨意，成為你眼中的兄弟姊妹。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 揀選十二使徒 | 3:13-19 | 太10:1-4、路6:12-16、創49章（十二支派） |
+| 常和自己同在 | 3:14 | 約15:4-5 |
+| 別西卜的指控 | 3:22-27 | 太12:22-29、路11:14-23 |
+| 褻瀆聖靈不得赦免 | 3:28-30 | 太12:31-32、路12:10 |
+| 屬靈家人 | 3:31-35 | 太12:46-50、路8:19-21 |
+| 十二使徒的名字 | 3:16-19 | 太10:2-4、路6:14-16、徒1:13、啟21:14 |
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*

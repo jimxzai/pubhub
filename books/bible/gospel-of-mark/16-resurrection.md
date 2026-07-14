@@ -1,0 +1,309 @@
+---
+title: 馬可福音研讀
+subtitle: Gospel of Mark Deep Study
+author: PubHub 三書精讀系統
+date: 2026年7月
+publisher: 三書精讀出版系統
+---
+
+# 第十六章：復活、顯現、升天 (Resurrection, Appearances, Ascension)
+
+馬可福音 16:1-20
+
+**經文核對**：[ai-eden.com/bible/mark/16](https://www.ai-eden.com/bible/mark/16?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+安息日一過，幾個婦女帶著香料，要去膏耶穌的身體——她們以為自己要面對的是一具屍體，卻在墳墓裏遇見一位穿白袍的少年人，聽見一句翻轉一切的宣告：「你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏。」馬可福音在最古老的抄本中，以婦女們「又發抖又驚訝……甚麼也沒有告訴人，因為她們害怕」戛然而止——這個看似未完成的結尾，本身就是一種深刻的邀請：復活的信息，需要讀者自己去回應、去傳揚。後期抄本補上的「長結語」（9-20節），則進一步記載了主復活後的顯現、大使命的頒布，以及祂被接升天，坐在神的右邊。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Christ the Lord Is Risen Today**
+> *Charles Wesley, 1739*
+>
+> Christ the Lord is risen today, Alleluia!
+> Sons of men and angels say, Alleluia!
+> Raise your joys and triumphs high, Alleluia!
+> Sing, ye heavens, and earth reply, Alleluia!
+>
+> 今日基督已復活，哈利路亞！
+> 天使世人齊聲誇，哈利路亞！
+> 歡呼快樂聲高揚，哈利路亞！
+> 諸天大地齊頌揚，哈利路亞！
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**空墳墓、天使的宣告**
+
+> ^1^過了安息日，抹大拉的馬利亞、雅各的母親馬利亞，和撒羅米，買了香料，要去膏耶穌的身體。^2^七日的第一日清早，太陽出來後，她們來到墳墓那裏，^3^彼此說：「誰要替我們把石頭從墓門滾開呢？」^4^她們抬頭一看，看見石頭已經滾開了，原來那石頭很大。^5^她們進了墳墓，看見一個年輕人坐在右邊，穿著白袍，就很驚奇。^6^那年輕人對她們說：「不要驚慌！你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏。來看安放他的地方。^7^你們去，對他的門徒和彼得說：『他要比你們先到加利利去，在那裏你們會看見他，正如他從前所告訴你們的。』」^8^於是她們出來，從墳墓那裏逃走，又發抖又驚訝，甚麼也沒有告訴人，因為她們害怕。
+
+**（有些古卷有下列結語）**
+
+**短結語**
+
+> 她們把耶穌所吩咐的一切話，都簡略地告訴彼得和跟他一起的人。此後，耶穌藉著門徒親自把從東到西那神聖不朽、永恆救恩的信息傳揚出去。阿們。
+
+**長結語**
+
+> ^9^在七日的第一日清晨，耶穌復活後，先向抹大拉的馬利亞顯現，耶穌曾從她身上趕出七個鬼。^10^她就去告訴那向來跟隨耶穌的人；那時他們正悲哀哭泣。^11^他們聽見耶穌活了，被馬利亞看見，卻是不信。^12^這事以後，門徒中有兩個人往鄉下去，走路的時候，耶穌用另一種形像向他們顯現，^13^他們就去告訴其餘的門徒；其餘的門徒也是不信。^14^後來，十一個使徒坐席的時候，耶穌向他們顯現，責備他們不信，心裏剛硬，因為他們不信那些在他復活以後看見他的人。^15^他又對他們說：<red>「你們往普天下去，向萬民傳福音。^16^信而受洗的必得救；不信的必被定罪。^17^信的人必有神蹟隨著他們，就是奉我的名趕鬼；說新方言；^18^手能拿蛇；若喝了甚麼致命的毒物，也絕不受害；手按病人，病人就必好了。」</red>^19^主耶穌向他們說了這些話以後，就被接到天上，坐在神的右邊。^20^門徒出去，到處傳福音，主和他們同工，藉著伴隨的神蹟證實所傳的道。
+
+*（人名附註：本章開頭的「雅各的母親馬利亞」與15:40「小雅各和約西的母親馬利亞」為同一人。經文附註：現存最古老、最可靠的抄本——包括西奈抄本與梵蒂岡抄本——均止於第8節；9-20節的「長結語」與另有的「短結語」，同見於後期較晚的抄本傳統。和合本修訂版依循國際慣例，以標題「有些古卷有下列結語」明確標示這段文字的抄本地位，不與1-8節同等視之，供讀者知悉並自行判斷。）*
+
+### English — ESV
+
+> ^1^When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him. ^2^And very early on the first day of the week, when the sun had risen, they went to the tomb. ^3^And they were saying to one another, "Who will roll away the stone for us from the entrance of the tomb?" ^4^And looking up, they saw that the stone had been rolled back—it was very large. ^5^And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. ^6^And he said to them, "Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him. ^7^But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you." ^8^And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid.
+
+> **[[Some of the earliest manuscripts do not include 16:9–20.]]**
+
+> ^9^Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons. ^10^She went and told those who had been with him, as they mourned and wept. ^11^But when they heard that he was alive and had been seen by her, they would not believe it. ^12^After these things he appeared in another form to two of them, as they were walking into the country. ^13^And they went back and told the rest, but they did not believe them. ^14^Afterward he appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had not believed those who saw him after he had risen. ^15^And he said to them, <red>"Go into all the world and proclaim the gospel to the whole creation. ^16^Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. ^17^And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; ^18^they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover."</red> ^19^So then the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God. ^20^And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景與經文校勘的重要說明
+
+在深入這一章之前，有一個誠實面對經文本身的責任：現存最古老、最可靠的兩部希臘文抄本——西奈抄本（Codex Sinaiticus）與梵蒂岡抄本（Codex Vaticanus），成書於主後四世紀——馬可福音都止於16:8。9-20節這段「長結語」，以及教會傳統中另有的一段更短的「短結語」，都只見於較晚期的抄本傳統，且在詞彙與文風上與馬可福音其餘部分有明顯差異（例如使用了馬可從未使用過的詞彙）。這是新約經文鑑別學裏最著名、也研究最透徹的案例之一。歷代學者對此意見不一：G. Campbell Morgan本人「極力持守這段是真實可靠的」，而John MacArthur等當代學者則主張16:8戛然而止的結尾，正是馬可一貫風格「以懸念與敬畏收尾」的手法，9-20節是後人添加的文字。本書按著和合本修訂版與大多數現代譯本的慣例，忠實標示這段文字的抄本地位，讓讀者自行知悉並判斷，而不隱藏或迴避這項經文鑑別上的事實。
+
+### 文學結構：以懸念作結，或以大使命作結？
+
+若馬可福音確實止於16:8，這卷「最急促」的福音書便以一個極不尋常、卻極具張力的方式收尾：婦女因「發抖又驚訝」而「甚麼也沒有告訴人」——讀者被留在一個尚待完成的敘事裏，彷彿被邀請親自去回應「你們也要去告訴人」的使命。若納入9-20節，全書則以主復活後的顯現、大使命「你們往普天下去，向萬民傳福音」，以及升天坐在神右邊作結——這與馬可福音開卷「神的兒子，耶穌基督福音的起頭」（1:1）首尾呼應：福音的「起頭」在1:1，福音「向普天下」的傳揚使命在16:15，全書的敘事弧線由此完整。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *ēgerthē* | ēgerthē | 已經復活了 | 6節，被動語態完成式，強調復活已經完成且持續有效的事實 |
+| *tromos kai ekstasis* | tromos kai ekstasis | 發抖又驚訝 | 8節，形容婦女面對空墳墓時，一種混合著敬畏與震驚的複雜情感反應 |
+| *kēryxate to euangelion* | kēryxate to euangelion | 傳福音 | 15節（長結語），呼應1:1, 1:14耶穌自己「宣講神的福音」的用詞 |
+| *analēmphthē* | analēmphthē | 被接（到天上） | 19節，字面「被接上去」，暗示這是神主動的作為，而非耶穌自行升天 |
+| *synergountos* | synergountos | 同工 | 20節，字面「一同做工」，門徒傳道時主親自與他們同工 |
+
+### 「不在這裏」的簡潔宣告
+
+天使的宣告「他已經復活了，不在這裏」，用最精簡的希臘文表達了整本新約信仰最核心的事實——空墳墓本身不是福音，天使的解釋才是福音：那位被釘十字架的，如今活著。這句宣告的簡潔，恰恰呼應了馬可福音一貫「省略言語、聚焦行動」的敘事風格——全書最重大的宣告，用最少的字句道出。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 空墳墓是復活信仰不可或缺的歷史根基 (The Empty Tomb Is the Historical Foundation of Resurrection Faith)
+
+婦女、天使、後來門徒的親眼見證，共同指向一個具體、可查驗的歷史事實：墳墓確實是空的——這不是一個屬靈的比喻或內心的經歷，而是一個發生在歷史中、有見證人的真實事件。
+
+### 2. 誠實面對經文鑑別的問題，不損害信仰的根基 (Honestly Facing Textual Criticism Does Not Undermine the Foundation of Faith)
+
+無論16:9-20是否為馬可原著的一部分，整本新約其他書卷（保羅書信、其他三卷福音書）都獨立且充分地見證了基督復活、顯現、升天的事實——經文鑑別上的誠實，從未動搖福音的核心真理。
+
+### 3. 敬畏與懼怕是面對復活奇蹟最誠實的反應 (Awe and Fear Are the Most Honest Response to the Resurrection)
+
+婦女「發抖又驚訝」的反應，沒有被馬可修飾成立即的喜樂與信心——這種誠實的記載，恰恰印證了福音書記載的可靠性：面對超越人類經驗的復活奇蹟，敬畏懼怕是完全合理、甚至是必要的第一反應。
+
+### 4. 大使命是普世性的、跨越萬民的呼召 (The Great Commission Is a Universal Call to All Nations)
+
+「你們往普天下去，向萬民傳福音」（若按16:15）延續了馬可福音一貫的普世異象——從外邦人蒙恩（敘利亞腓尼基婦人、低加坡里的十城區）到百夫長的宣告，福音從來不是為單一族群保留的信息。
+
+### 5. 主與傳福音的人同工 (The Lord Works Alongside Those Who Preach)
+
+「主和他們同工」（20節）宣告：福音的廣傳從來不是門徒單靠己力完成的任務，而是那位已經升天、坐在神右邊的主，親自與祂的教會同工，直到今日。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到天使向婦女的宣告（馬太平行經文），屈梭多模引證：「不要害怕：因為我知道你們是尋找那釘十字架的耶穌。他不在這裏，照他所說的，已經復活了。你們來看安放主的地方……快去告訴他的門徒，他從死裏復活了；他要比你們先到加利利去，在那裏你們要見他」。論到門徒在路上遇見復活的耶穌，他寫道：「耶穌迎著她們，說：願你們平安！她們就上前抱住他的腳拜他」——這觸摸本身，「是復活無可辯駁的憑據」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 89 (on Matt 28:1-10) and Homily 90 (on Matt 28:11-20), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到復活，加爾文寫道：「我們如今來到我們救贖的最終場景。因為我們與神和好之確據的活潑保證，正在於基督已經作為得勝死亡的征服者，從陰間歸回」。論到婦女的懼怕，他將其理解為「神體恤人性軟弱的一種恩慈安排」，而非信心的缺乏。論到天使賜給婦女的使命，他指出：「神在此藉著天使，將格外的尊榮賜給這些婦女，吩咐她們親自向使徒宣告我們救恩的核心要義」——這是刻意讓那些男性使徒感到謙卑的安排，因他們自己起初曾表現出的冷漠與不信。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到空墳墓，麥克阿瑟強調：「復活不僅僅是福音的一個組成部分，它就是核心事件本身」；「從來沒有人指出過一座仍然有屍體的墳墓。從來沒有人否認耶穌的墳墓是空的」；他列舉三重見證：空墳墓、天使的見證、目擊者的見證；「這一切都在那一週的第一天改變了——這正是教會從此在這一天聚會的原因」。論到16:9-20經文鑑別的問題，麥克阿瑟提出與摩根相反的立場：「這是一段變異的文字，是後來添加到馬可福音裏的文字」；他指出：「西奈抄本與梵蒂岡抄本，以及其他最古老的抄本，都止於第8節」；「從第8節到第9節的過渡是生硬的」，且包含「十八個馬可從未在別處使用過的詞彙」；他為止於第8節的結尾辯護：「它以敬畏懼怕作結，這完全符合馬可一貫的筆法——這正是他的寫作模式」。讀者在此看到兩位當代與歷史上受敬重之解經家的真實分歧，這正是誠實面對經文鑑別問題時，應當呈現、而非隱藏的張力。
+> — John MacArthur, *Amazement at the Empty Tomb* (41-84), *The Fitting End to Mark's Gospel* (41-85), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到婦女的疑問「誰要替我們把石頭滾開呢」，摩根寫道，隨後「她們看見石頭已經滾開了」。論到天使的宣告，他引證：「你們尋找的是拿撒勒人耶穌……他已經復活了，不在這裏」。論到馬可福音最後十二節經文的經文鑑別問題，摩根明確表達他的立場：「這最後十二節經文，構成了經文鑑別學上的一個戰場，許多學者將其視為並非真本。我極其堅定地持守它們確實是真實可靠的，無論是外在或內在的證據，都使我得出這個結論」——摩根的立場與麥克阿瑟等當代學者相左，本書如實呈現這項學術分歧，而非以單一立場強加於讀者。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapter XXX
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 16:9-11
+
+> 因此我的心歡喜，我的靈快樂；我的肉身也要安然居住。
+> **因為你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞。**
+> 你必將生命的道路指示我。在你面前有滿足的喜樂；在你右手中有永遠的福樂。
+
+使徒行傳2:27、13:35都引用這節詩篇，宣告基督的復活正是這古老應許的成就——祂的身體沒有見朽壞，祂從死裏得勝。
+
+### 詩篇 118:22-24
+
+> 匠人所棄的石頭已成了房角的頭塊石頭。這是耶和華所做的，在我們眼中看為稀奇。
+> 這是耶和華所定的日子，我們在其中要高興歡喜！
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Thine Be the Glory
+
+> Thine be the glory, risen, conquering Son,
+> endless is the victory Thou o'er death hast won;
+> angels in bright raiment rolled the stone away,
+> kept the folded grave-clothes where Thy body lay.
+
+天使滾開的石頭，不是為了讓耶穌出來——祂已經復活，不需要石頭挪開才能離開墳墓；石頭滾開，是為了讓見證人可以進去，親眼看見墳墓是空的。默想這一點：復活的證據，從一開始就是為了「讓你看見」，不是為了「讓祂出來」。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：復活、顯現、升天 (Ask Elder Wong)
+
+**精義一句話**：「他已經復活了，不在這裏」——這是全本聖經最簡潔、也最具翻轉性的一句宣告；一切因十字架而破碎的盼望，都在這句話裏重新被建立。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：6節「你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏」是全本福音書的核心宣告。如果只能留一句話總結整卷馬可福音，會不會就是這一句？
+- **婦女面對空墳墓的第一反應，是「發抖又驚訝……害怕」，而不是立刻的喜樂**——你覺得，誠實記載這種「還沒有整理好情緒」的懼怕，對福音書記載的可靠性，說明了什麼？
+- **馬可福音（按最古老抄本）以懸念作結，沒有交代婦女後來如何**——如果這卷書的結尾，是邀請你自己去回應「你會不會去告訴人」，你今天會怎麼回應？
+
+**整本聖經的連結**：詩篇16:10「因為你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞」——這節經文被使徒行傳2:27、13:35反覆引用，宣告基督的復活是舊約早已預言、且必然成就的應許。另一條線索：耶穌對門徒說「他要比你們先到加利利去」——這呼應馬可福音開卷第一章耶穌在加利利呼召門徒的起點（1:16-20），復活的主要與門徒在事工開始的地方重新聚集，暗示著一個全新的開始：舊有的失敗（門徒逃走、彼得不認主）不是終點，復活的主親自要在同一個地方，重新裝備、重新差遣他們。
+
+**讓話語住在裡面**：無論16:9-20是否為原文，整本新約都清楚見證：復活的主呼召祂的教會「往普天下去，向萬民傳福音」，且應許「主和他們同工」。默想：我今天的生活，是否活出「主與我同工」的確據，還是單靠自己的努力去承擔福音的使命？今天的實踐：主動向一個人分享一次你經歷復活的主如何在你生命中做工的具體見證。
+
+**你看見耶穌了嗎**：在空墳墓的宣告裏、在對懼怕之婦女的溫柔差遣裏、在向不信之門徒顯現的耐心裏、在頒布大使命的權柄裏、在升天坐於神右邊的尊榮裏，你看見的，是那位真正勝過死亡、如今活著、且應許與祂的教會同工直到世界的末了的基督——馬可福音的最後一個字，無論停在懼怕的敬畏裏，還是延伸到普世的大使命裏，都指向同一個確據：祂已經復活了，不在這裏。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **16:6「他已經復活了」**：整個基督教信仰的根基——華人文化裏，「死而復生」往往被視為神話或迷信，這節經文卻邀請我們，誠實面對這是有歷史見證人、有空墳墓為據的真實事件，而非傳說。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+詩篇16:10「不叫你的聖者見朽壞」——這節經文是彼得（徒2:27）與保羅（徒13:35）向猶太人、外邦人講道時共同的根基經文；復活不是新約獨創的教義，是舊約早已埋下、如今才顯明的伏筆。約拿在魚腹三日（拿1:17）也早被耶穌自己引用為「唯一的兆頭」（太12:39-40）——復活不是意外的神蹟，是計劃中的兆頭。
+
+### 提問式對話 (Let the Reader Speak)
+
+- 先問：「婦女帶著香料要膏一具屍體——她們預期會看見什麼？」
+- 再問：「天使沒有說『不要哭』，說的是『不要驚慌』——這兩者有什麼不同？」
+- 追問：「馬可（按最古老抄本）以婦女的沉默和懼怕收筆——這是不是很奇怪的結尾？」
+- 落到自己：「你們也要去告訴人」——如果這卷書的結尾是留給你來完成，你今天打算怎麼回應？
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的人習慣用「證據」和「數據」去驗證一切，卻常常把復活這件事，歸類為「不可驗證、姑且信之」的宗教想像。但馬可記載的，是有名有姓的見證人（抹大拉的馬利亞、雅各的母親馬利亞、撒羅米）、有具體地點（那空的墳墓）、有具體反應（發抖、驚訝、懼怕）的歷史事件。在一個凡事講求可查證的時代，福音書提供的正是這種可被查驗的見證，而非模糊的靈性感覺。
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：對主說：我今天的信心，不是建立在感覺上，是建立在你確實復活這件歷史事實上。
+- **晚上**：今天我有沒有一次，因為害怕別人的反應，而把復活的好消息藏在心裏，沒有告訴人？
+- **一個行動**：今天向一個人，具體地見證一次復活的主如何在你生命中做工。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏」——這句話，是整卷馬可福音、也是整本聖經最終的答案。
+
+**貫通全經**：詩篇16:10「不叫你的聖者見朽壞」——這應許在空墳墓裏得著了眼見為憑的成就。
+
+**無法迴避的問題**：婦女出了墳墓，「甚麼也沒有告訴人，因為她們害怕」——這卷書把最後一步，留給了讀者：你會不會去告訴人？
+
+> 「墳墓是空的，不是因為屍體被偷走，是因為死亡本身，再也關不住那一位。」
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Christ the Lord Is Risen Today*（今日基督已復活）
+
+> Christ the Lord is risen today, Alleluia!
+> sons of men and angels say, Alleluia!
+> Raise your joys and triumphs high, Alleluia!
+> sing, ye heavens, and earth reply, Alleluia!
+>
+> — Charles Wesley (1739)
+
+**詩篇**：詩篇 24:1-2, 7-10
+
+> 地和其中所充滿的，世界和住在其中的，都屬耶和華。
+> 他把地建立在海上，安定在大水之上。
+> 眾城門哪，你們要抬起頭來！永久的門戶，你們要被舉起！那榮耀的王將要進來！
+> 榮耀的王是誰呢？就是有力有能的耶和華，在戰場上有能力的耶和華！
+> 眾城門哪，你們要抬起頭來！永久的門戶，你們要把頭抬起！那榮耀的王將要進來！
+> 榮耀的王是誰呢？萬軍之耶和華，他是榮耀的王！
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **復活的歷史真實性**：空墳墓、天使的見證、門徒的親眼所見——你今天對復活的信心，是建立在真實的歷史根基上，還是僅僅停留在情感或傳統的層面？
+
+2. **誠實面對懼怕**：婦女面對復活的奇蹟，第一反應是懼怕而非喜樂——你是否也曾在經歷神奇妙作為的當下，感到懼怕、困惑，甚至說不出話來？這是否也是一種誠實而合理的信心反應？
+
+3. **重新開始的恩典**：復活的主呼召門徒回到加利利——那個他們最初蒙召、也曾軟弱失敗的地方。你生命中有沒有一個「失敗的加利利」，是復活的主願意與你重新開始的地方？
+
+4. **大使命的回應**：「你們往普天下去，向萬民傳福音」——今天，你在自己的「普天下」（家庭、職場、社區）裏，如何具體回應這個使命？
+
+### 禱告回應
+
+> 主啊，感謝你已經復活了，勝過死亡的權勢，使我們的信仰有真實的根基。
+> 求你赦免我常常像那些婦女一樣，在你奇妙的作為面前，只有懼怕卻遲遲不敢見證。
+> 求你使我在自己軟弱失敗的「加利利」裏，重新經歷你恢復與差遣的恩典。
+> 求你使用我，在我的普天下裏，成為傳揚復活好消息的見證人，並且求你親自與我同工。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 復活的應許 | 16:6 | 詩16:10、徒2:27, 13:35 |
+| 約拿的兆頭 | 16:6（三日） | 拿1:17、太12:39-40 |
+| 大使命 | 16:15 | 太28:18-20、路24:47、徒1:8 |
+| 升天坐右邊 | 16:19 | 詩110:1、來1:3、徒1:9-11 |
+| 加利利的重聚 | 16:7 | 可1:16-20（起初的呼召） |
+| 平行敘事 | 16:1-8 | 太28:1-10、路24:1-12、約20:1-18 |
+
+---
+
+## 全書的句號：僕人的贖價完成了
+
+馬可福音以「神的兒子，耶穌基督福音的起頭」（1:1）開卷，中間一路記載這位僕人基督「不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價」（10:45）——如今，這贖價在各各他付清，這服事在空墳墓裏得著了神的印證。無論全書停在16:8婦女的懼怕與沉默裏，還是延伸到16:20普世的差遣與同工，答案都是同一個：那位服事到底、捨命到底的僕人，如今活著，且仍與祂的教會同工，直到今日。
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+---
+
+*全書完 · 馬可福音研讀 · 三書精讀出版系統 · 2026*

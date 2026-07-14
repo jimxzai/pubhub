@@ -15,7 +15,15 @@
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Heiti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -66,6 +74,10 @@
 % Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
+
+% Red Letter Bible (Jesus's words)
+\definecolor{JesusRed}{RGB}{204,0,0}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
 
 %% ============================================
 %% MATH AND SYMBOLS

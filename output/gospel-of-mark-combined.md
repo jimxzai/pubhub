@@ -1,0 +1,5528 @@
+---
+title: "馬可福音研讀"
+subtitle: "Gospel of Mark Deep Study"
+author: "PubHub 三書精讀系統"
+date: "2026年7月"
+publisher: "三書精讀出版系統"
+copyright: |
+  版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
+
+  **三大核心資源整合：**
+
+  • **黃長老查經法** — 整本聖經脈絡的深度領受
+
+  • **John MacArthur** — 逐節解經講道 (gty.org)
+
+  • **G. Campbell Morgan** — 解經王子 (*The Gospel According to Mark*, 1927)
+
+  **僕人基督——服事者的典範**
+
+  「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」——馬可福音 10:45
+
+  All rights reserved.
+---
+
+
+# 馬可福音概覽 (Gospel of Mark Overview)
+
+## 書卷簡介
+
+**作者**：馬可 (John Mark)
+**寫作日期**：約主後 50-70 年
+**寫作地點**：羅馬 (Rome)
+**對象**：羅馬外邦信徒 (Roman Gentile Believers)
+**主題**：耶穌是受苦的僕人
+
+### 作者背景
+
+馬可又稱「約翰馬可」（徒12:12, 25; 15:37, 39），是使徒彼得的親密同工。早期教父帕皮亞（Papias，約主後140年）記載：馬可成為「彼得的傳譯者」，準確記錄彼得所傳講的內容。
+
+馬可曾在保羅第一次宣教旅程中離隊返回耶路撒冷（徒13:13），導致保羅與巴拿巴分開（徒15:38-40）。但他後來成長成熟，連保羅也認可他的事工價值（提後4:11：「你來的時候，要把馬可帶來，因為他在傳道的事上於我有益處」）。
+
+---
+
+## 核心經文 (Key Verse)
+
+> \jesus{因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。}
+> — 馬可福音 10:45
+
+> \jesus{For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.}
+> — Mark 10:45 (ESV)
+
+---
+
+## 全書結構與配詩 (Book Structure with Psalms & Hymns)
+
+| 部分 | 章節 | 主題 | 配詩 | 聖詩 |
+|------|------|------|------|------|
+| **序言** | 1:1-13 | 預備道路 | 詩篇 40 | *On Jordan's Bank* |
+| **第一部：加利利事工** | 1:14-8:26 | 僕人的服事 | 詩篇 103 | *O for a Thousand Tongues* |
+| **第二部：走向耶路撒冷** | 8:27-10:52 | 僕人的道路 | 詩篇 25 | *Take Up Thy Cross* |
+| **第三部：受難與復活** | 11:1-16:20 | 僕人的犧牲 | 詩篇 22 | *O Sacred Head, Now Wounded* |
+
+---
+
+## 馬可福音特色 (Distinctive Features)
+
+### 1. 行動導向 (Action-Oriented)
+
+- **「立刻」(*euthys*)** 出現約40次，強調緊迫感與行動力
+- 簡潔有力的敘事風格，省略長篇講論
+- 強調耶穌的作為（神蹟）而非言論（比喻）
+- 沒有家譜記載、沒有出生敘事——直接從曠野事工開始
+
+### 2. 僕人基督 (Servant Christ)
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+> 「馬可將耶穌呈現為『主的受苦僕人』（10:45）。他的焦點在於耶穌的行為而非教導，特別強調服事與犧牲。」
+> — *MacArthur Bible Commentary*
+
+- 沒有家譜記載（僕人不需要家譜）
+- 強調服事與受苦——受難敘事佔全書極大篇幅
+- 高潮在十字架的救贖
+
+### 3. 基督的人性 (Humanity of Christ)
+
+麥克乾瑟指出，馬可比其他福音書更清楚地展現基督的人性：
+
+- **人的情感**：憐憫（1:41）、義怒（3:5）、嘆息（8:12）
+- **人的限制**：疲倦睡著（4:38）、飢餓（11:12）、不知道那日那時（13:32）
+- **生動細節**：展現道成肉身的真實性
+
+### 4. 彼得的見證 (Peter's Perspective)
+
+- 教父傳統一致認為馬可記錄彼得的教導
+- 生動的細節與第一人稱視角
+- 坦誠記錄門徒的軟弱（包括彼得三次不認主）
+
+### 5. 針對外邦讀者 (Written for Gentiles)
+
+- 翻譯亞蘭文詞語給讀者（5:41, 7:34, 15:34）
+- 使用拉丁表達而非希臘對等詞
+- 較少引用舊約經文
+
+---
+
+## 重要神蹟與事件 (Key Miracles & Events)
+
+| 類別 | 事件 | 經文 |
+|------|------|------|
+| **自然神蹟** | 平靜風浪 | 4:35-41 |
+| | 五餅二魚 | 6:30-44 |
+| | 水上行走 | 6:45-52 |
+| **醫治神蹟** | 潔淨長大痲瘋者 | 1:40-45 |
+| | 癱子得醫治 | 2:1-12 |
+| | 血漏婦人 | 5:25-34 |
+| | 瞎子巴底買 | 10:46-52 |
+| **趕鬼神蹟** | 會堂污鬼 | 1:21-28 |
+| | 格拉森被鬼附者 | 5:1-20 |
+| **復活神蹟** | 睚魯女兒 | 5:35-43 |
+
+---
+
+## 三次預言受難 (Three Passion Predictions)
+
+| # | 經文 | 內容 | 門徒反應 |
+|---|------|------|----------|
+| 1 | 8:31-33 | 被殺，三日後復活 | 彼得責備耶穌 |
+| 2 | 9:30-32 | 被交在人手裏 | 門徒不明白，又害怕 |
+| 3 | 10:32-34 | 詳細預言受難過程 | 雅各約翰求坐寶座 |
+
+---
+
+## 馬可福音的「彌賽亞秘密」(Messianic Secret)
+
+耶穌多次吩咐人不要傳揚祂的身份和神蹟：
+
+| 經文 | 對象 | 吩咐 |
+|------|------|------|
+| 1:44 | 大痲瘋者 | 不要告訴人 |
+| 3:12 | 污鬼 | 不要把祂顯露出來 |
+| 5:43 | 睚魯家人 | 不要叫人知道 |
+| 7:36 | 被醫治的聾啞者 | 不要告訴人 |
+| 8:30 | 門徒 | 不要告訴人祂是基督 |
+| 9:9 | 彼得、雅各、約翰 | 登山變像，下山前不要告訴人 |
+
+**領受的重點**：耶穌的彌賽亞身份只有在十字架的光照下才能正確領受。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### G. Campbell Morgan 的洞見
+
+**僕人的溫柔與權柄**：
+
+> 「大痲瘋者的故事充滿微妙的魅力，永不失其對人心的吸引力。耶穌迅速的『我肯』，那觸摸同時展現祂對病人極大的溫柔，以及對自己完全的信心——這些都是這位『眾人僕人』恩典與溫柔的精美例證。」
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+**對人類苦難的敏銳**：
+
+Morgan 強調馬可福音的敘事「至高無上地啟示了神僕人對人類苦難的敏銳感知，以及祂隨時、甚至迫切的回應。」
+
+**勝過邪惡**：
+
+Morgan 指出污鬼的告白——「你是神的聖者」——證實了基督對邪惡的絕對勝利。儘管受到魔鬼的攻擊，祂仍「未被觸及，未被邪惡所傷」。
+
+### 馬可福音的結構（Morgan 分析）
+
+| 部分 | 內容 | 章節 |
+|------|------|------|
+| **引言** | 神僕人的來臨 | 1:1-13 |
+| **加利利事工開始** | 呼召與衝突 | 1:14-3:6 |
+| **主體：僕人與先知的事工** | 神蹟、教導、差遣 | 3:7-10:52 |
+| **耶路撒冷事工結束** | 受難週 | 11-15 |
+| **結語** | 神僕人的高升 | 16 |
+
+---
+
+## 章節目錄 (Chapter Index)
+
+### 第一部分：序言 (Prologue) 1:1-13
+
+| 段落 | 標題 | 經文 | 配詩 | 聖詩 |
+|------|------|------|------|------|
+| 1a | 施洗約翰預備 | 1:1-8 | 詩篇 40:1-5 | *On Jordan's Bank* |
+| 1b | 耶穌受洗 | 1:9-11 | 詩篇 2:7-8 | *Down to the River to Pray* |
+| 1c | 曠野試探 | 1:12-13 | 詩篇 91 | *A Mighty Fortress* |
+
+### 第二部分：加利利事工 (Galilean Ministry) 1:14-8:26
+
+| 章 | 標題 | 經文 | 配詩 | 聖詩 |
+|----|------|------|------|------|
+| 1 | 呼召門徒、醫病趕鬼 | 1:14-45 | 詩篇 103 | *I Have Decided to Follow Jesus* |
+| 2 | 五次衝突 | 2:1-3:6 | 詩篇 32 | *Amazing Grace* |
+| 3 | 揀選十二使徒 | 3:7-35 | 詩篇 133 | *Blest Be the Tie That Binds* |
+| 4 | 天國比喻、平靜風浪 | 4:1-41 | 詩篇 107:23-32 | *It Is Well with My Soul* |
+| 5 | 格拉森鬼附、睚魯女兒 | 5:1-43 | 詩篇 30 | *Because He Lives* |
+| 6 | 被拿撒勒厭棄、差遣十二 | 6:1-56 | 詩篇 78 | *Break Thou the Bread of Life* |
+| 7 | 潔淨的真義 | 7:1-37 | 詩篇 51 | *Create in Me a Clean Heart* |
+| 8a | 四千人吃飽 | 8:1-26 | 詩篇 145 | *Guide Me, O Thou Great Jehovah* |
+
+### 第三部分：走向耶路撒冷 (Journey to Jerusalem) 8:27-10:52
+
+| 章 | 標題 | 經文 | 配詩 | 聖詩 |
+|----|------|------|------|------|
+| 8b | 彼得認信、第一次預言受難 | 8:27-38 | 詩篇 16 | *Take Up Thy Cross* |
+| 9 | 登山變像、第二次預言受難 | 9:1-50 | 詩篇 99 | *Immortal, Invisible, God Only Wise* |
+| 10 | 休妻論、財主、第三次預言受難 | 10:1-52 | 詩篇 25 | *Have Thine Own Way, Lord* |
+
+### 第四部分：受難與復活 (Passion & Resurrection) 11:1-16:20
+
+| 章 | 標題 | 經文 | 配詩 | 聖詩 |
+|----|------|------|------|------|
+| 11 | 榮進耶路撒冷、潔淨聖殿 | 11:1-33 | 詩篇 118 | *All Glory, Laud, and Honor* |
+| 12 | 兇惡園戶、辯論問答 | 12:1-44 | 詩篇 80 | *The Church's One Foundation* |
+| 13 | 橄欖山末世講論 | 13:1-37 | 詩篇 90 | *Lo! He Comes with Clouds Descending* |
+| 14 | 最後晚餐、客西馬尼、被捕 | 14:1-72 | 詩篇 55 | *'Tis Midnight, and on Olive's Brow* |
+| 15 | 審判、十字架、埋葬 | 15:1-47 | 詩篇 22 | *O Sacred Head, Now Wounded* |
+| 16 | 復活、顯現、升天 | 16:1-20 | 詩篇 24 | *Christ the Lord Is Risen Today* |
+
+---
+
+## 研讀資源 (Study Resources)
+
+### 主要參考
+
+1. **黃長老查經班** — 週四查經教導
+2. **John MacArthur** — Grace to You (gty.org)
+3. **G. Campbell Morgan** — *The Gospel According to Mark*
+4. **R.C. Sproul** — *Mark: An Expositional Commentary*
+
+---
+
+## 每日靈修節奏 (Daily Rhythm)
+
+### 早晨研讀 (Morning Study, 45-60 min)
+
+| 步驟 | 內容 | 說明 |
+|------|------|------|
+| 1 | 禱告預備 | 求主開眼 |
+| 2 | 經文朗讀 | 中英對照 (RCUV + ESV) |
+| 3 | 三方資源 | 黃長老 + MacArthur + Morgan |
+| 4 | 筆記記錄 | 使用標準模板 |
+| 5 | 默想回應 | 思想僕人基督的榜樣 |
+
+### 晚間省思 (Evening Reflection, 15 min)
+
+| 步驟 | 內容 |
+|------|------|
+| 1 | 回顧經文 |
+| 2 | 反思應用 |
+| 3 | 禱告回應 |
+
+---
+
+*三書精讀項目 · 馬可福音研讀 · 2025*
+
+
+\newpage
+
+
+# 序言之一：施洗約翰預備道路 (The Herald Prepares the Way)
+
+馬可福音 1:1-8
+
+**經文核對**：[ai-eden.com/bible/mark/1](https://www.ai-eden.com/bible/mark/1?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+馬可不寫家譜，不寫馬槽，甚至不寫一句解釋——他劈頭就是一句宣告：「神的兒子，耶穌基督福音的起頭。」這卷全福音書中最短、步調最急促的一卷，用一句話就交出了底牌：這不是傳記，是「福音」（好消息），而這好消息的主角，從第一個字開始就是神的兒子。馬可接著讓鏡頭轉向曠野一個穿駱駝毛衣服的人——但即使聚焦在施洗約翰身上，整段經文的重心仍然不在約翰，而在約翰所指向的那一位。僕人的書卷，從第一頁就宣告了主人的身份。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> On Jordan's bank the Baptist's cry announces that the Lord is nigh;
+> awake and hearken, for he brings glad tidings of the King of kings.
+>
+> — Charles Coffin (1736), trans. John Chandler (1837)
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{1}神的兒子，耶穌基督福音的起頭。\textsuperscript{2}正如以賽亞先知書上記著：「看哪，我要差遣我的使者在你面前，他要為你預備道路。\textsuperscript{3}在曠野有聲音呼喊著：預備主的道，修直他的路。」
+
+> \textsuperscript{4}照這話，施洗約翰來到曠野，宣講悔改的洗禮，使罪得赦。\textsuperscript{5}猶太全地和全耶路撒冷的人都出去，到約翰那裏，承認他們的罪，在約旦河裏受他的洗。\textsuperscript{6}約翰穿駱駝毛的衣服，腰束皮帶，吃的是蝗蟲和野蜜。
+
+> \textsuperscript{7}他宣講，說：「有一位在我以後來的，能力比我更大，我就是彎腰給他解鞋帶也不配。\textsuperscript{8}我用水給你們施洗，他卻要用聖靈給你們施洗。」
+
+### English — ESV
+
+> \textsuperscript{1}The beginning of the gospel of Jesus Christ, the Son of God. \textsuperscript{2}As it is written in Isaiah the prophet, "Behold, I send my messenger before your face, who will prepare your way, \textsuperscript{3}the voice of one crying in the wilderness: 'Prepare the way of the Lord, make his paths straight.'"
+
+> \textsuperscript{4}John appeared, baptizing in the wilderness and proclaiming a baptism of repentance for the forgiveness of sins. \textsuperscript{5}And all the country of Judea and all Jerusalem were going out to him and were being baptized by him in the river Jordan, confessing their sins. \textsuperscript{6}Now John was clothed with camel's hair and wore a leather belt around his waist and ate locusts and wild honey.
+
+> \textsuperscript{7}And he preached, saying, "After me comes he who is mightier than I, the strap of whose sandals I am not worthy to stoop down and untie. \textsuperscript{8}I have baptized you with water, but he will baptize you with the Holy Spirit."
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+馬可福音一般認為成書於主後50-70年間，很可能是四福音書中最早寫成的一卷。早期教父帕皮亞（Papias）記載，馬可是彼得的「傳譯者」（interpreter），將彼得傳講耶穌事蹟的內容忠實記錄下來。全書針對羅馬的外邦讀者而寫——這解釋了為何馬可要特別翻譯亞蘭文詞語（5:41, 7:34, 15:34），也解釋了他為何較少引用舊約經文卻仍在開卷就引用以賽亞書：因為這一處引用不是為了向猶太讀者論證，而是為了立刻交代耶穌事工的神聖起源。
+
+### 文學結構
+
+馬可用「起頭」（*archē*）開篇，呼應了創世記1:1「起初」與約翰福音1:1「太初」——三卷書都以同一個詞起筆，但走的是同一條敘事弧線的不同段落：創世記是萬物的起頭，約翰福音是道成肉身的起頭，馬可福音則是「福音」——那使萬有進入救贖的好消息——的起頭。1:1-13可視為全書的序幕，其內部又可再分三段：施洗約翰的預備工作（1:1-8）、耶穌受洗蒙父印證（1:9-11）、曠野中受試探得勝（1:12-13）。三段合起來，構成馬可對「僕人基督登場」的完整交代：祂被預告、被印證、被試驗——然後才正式開始祂的公開事工（1:14起）。
+
+值得注意的是，馬可在2節引用的其實是兩處經文的組合——瑪拉基書3:1（「我要差遣我的使者」）與以賽亞書40:3（「在曠野有人聲喊著」）——卻只標明「以賽亞先知書」，因為以賽亞書在猶太傳統中常被視為代表整個先知書卷，馬可依循的是當時常見的引用慣例。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *euangelion* | euangelion | 福音、好消息 | 馬可福音7次，是全書的關鍵詞；原指皇帝登基或戰爭得勝的官方喜訊 |
+| *archē* | archē | 起頭、起初 | 呼應創1:1（LXX ἐν ἀρχῇ）與約1:1 |
+| *kēryssō* | kēryssō | 宣講、宣告 | 用於約翰（4, 7節）與後來耶穌自己的事工（1:14），顯明兩者的延續與超越 |
+| *metanoia* | metanoia | 悔改 | 字面意為「心思的轉向」，不只是後悔，而是整個生命方向的翻轉 |
+| *erēmos* | erēmos | 曠野 | 全章出現三次（3, 4, 12節），是馬可預備主題的舞台 |
+| *ischyroteros* | ischyroteros | 更有能力的、更強壯的 | 比較級，約翰用以自貶並高舉那將要來的一位 |
+| *hikanos* | hikanos | 配得、足夠 | 「我就是彎腰給他解鞋帶也不配」——連奴僕的工作都擔當不起的謙卑 |
+
+### 「福音」(euangelion) 的分量
+
+在羅馬世界，*euangelion* 是官方用詞，宣告皇帝登基、軍隊得勝的喜訊，會由信使快馬傳遍全國。馬可對羅馬讀者使用這個詞，等於是宣告：真正的凱旋喜訊，不是凱撒的加冕，而是拿撒勒人耶穌——神的兒子——的到來。這個詞為全書定了調：馬可福音不是一套教訓的彙編，而是一則需要被「宣告」的喜訊。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 開卷即宣告基督的神性 (Christ's Deity Declared from Verse One)
+
+馬可全書沒有家譜、沒有降生敘事，第一句話直接宣告「神的兒子」（*huios theou*）。這不是後來才發展出的信仰結論，而是全書的起點與詮釋框架——後面每一個神蹟、每一次趕鬼、每一場衝突，都要在這個宣告之下理解。
+
+### 2. 舊約先知應驗的連續性 (Continuity of Prophetic Fulfillment)
+
+瑪拉基書應許有一位「使者」要在耶和華大而可畏的日子以前來到（瑪3:1, 4:5），以賽亞書應許曠野中有預備道路的呼聲（賽40:3）。馬可將兩處合併引用，宣告：等候了幾百年的應許，如今在施洗約翰身上應驗了。
+
+### 3. 悔改先於恩典的降臨 (Repentance Precedes the Coming of Grace)
+
+約翰「宣講悔改的洗禮，使罪得赦」——這不是說悔改本身能帶來赦免，而是說悔改是預備人心接受即將來到之赦罪恩典的必要姿態。約翰的洗禮本身不能除罪，只能「預備道路」；除罪的能力屬於那位要用聖靈施洗的。
+
+### 4. 謙卑的先鋒與更大的那一位 (The Humble Forerunner and the Greater One)
+
+約翰在猶太曠野吸引了「猶太全地和全耶路撒冷的人」，聲望一時無兩，但他毫不含糊地指向自己之外：「有一位在我以後來的，能力比我更大。」解鞋帶是奴僕才做的卑微工作，約翰卻說自己連這資格都沒有——這是聖經中最徹底的自我謙卑宣告之一。
+
+### 5. 兩種洗禮的對比 (Two Baptisms Contrasted)
+
+水的洗禮是外在的記號，指向內心的悔改；聖靈的洗禮才是真正的更新工作。約翰清楚劃分這兩者的界線，為五旬節聖靈澆灌預留了領受的空間（參徒1:5, 11:16）。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到施洗約翰的衣著與生活方式，屈梭多模在他的《馬太福音講道集》中指出，約翰的裝束與生活直接承接以利亞的先知傳統——粗糙的衣著與曠野的生活方式，本身就是一種無聲的宣告：這人不屬於這世界的體系，他的權柄不是來自世俗的認可，而是來自神的差遣。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 10 (NPNF1-10)
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+加爾文在他的《福音書合參注釋》中強調，約翰的悔改洗禮與基督的救贖工作是連貫而非對立的：施洗約翰所傳的悔改，其目的正是要指向那位真正能賜下赦免與聖靈的基督，兩者的職事一氣呵成，而非兩套彼此獨立的救法。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+> 「馬可用一句簡潔的引言開卷：『神的兒子，耶穌基督福音的起頭。』這句話不僅開啟了全書，也點出了貫穿前八章、直到彼得在該撒利亞腓立比宣告『你是基督』（8:29）才達到高潮的核心主題。」
+> — John MacArthur, *The MacArthur New Testament Commentary: Mark 1-8*
+
+> 「新約聖經中，『福音』從來不是指一本書，而總是指那救恩的信息本身。」
+> — John MacArthur, *The MacArthur New Testament Commentary: Mark 1-8*
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+> 「『神的兒子耶穌基督福音的起頭，正如先知以賽亞書上所記』——這是理解全卷福音書的鑰匙，我們必須在此駐足。」
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+> 「約翰一直傳講的是『為罪得赦而悔改』（repentance unto remission of sins），而不是『為罪得赦所以悔改』（repentance for remission of sins）」——這一字之差，劃清了預備工作與救贖工作的界線：約翰能叫人悔改，卻不能賜下赦免；赦免只屬於他所指向的那一位。
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：施洗約翰預備道路 (Ask Elder Wong)
+
+**精義一句話**：施洗約翰所做的每一件事，都只是在為一句話鋪路——「神的兒子，耶穌基督福音的起頭。」先鋒的全部價值，就在於他所指向的那一位。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：一段經文裡往往有一句話，其餘都是對它的解釋或印證。這段的主句正是第1節，第2-8節所有關於約翰的敘述——他的裝扮、他的宣講、他的謙卑——都只是在印證這一句話。用這方法讀，就不會迷失在「約翰是誰」的細節裡，而能一直扣住「這位福音的主角是誰」。你讀完這段，若把第1節拿掉，其餘的話還站得住嗎？
+- **約翰有極大的群眾聲望**——「猶太全地和全耶路撒冷的人都出去到他那裏」——他為什麼不趁勢建立自己的名聲，反而說「有一位比我更大」？
+- **約翰說自己「解鞋帶也不配」**——這在當時是奴僕的工作。你今天的服事裡，有沒有「解鞋帶」的心態，還是總想站在鏡頭前？
+
+**整本聖經的連結**：創世記1:1「起初」（*archē*，LXX）→ 約翰福音1:1「太初」（同一個希臘詞）→ 馬可福音1:1「起頭」（同一個詞）。三卷書用同一個詞起筆，分別交代創造的起頭、道成肉身的起頭、福音宣告的起頭——從創造萬有的道，到道成肉身的那位，到如今被宣告為好消息的那位，貫穿三卷書的是同一位耶穌基督，整本聖經只有一位主角。另一條線索：以色列出埃及後在曠野漂流四十年（多因不信而失敗），以利亞逃亡曠野四十晝夜（王上19:8），如今施洗約翰「在曠野」宣講——曠野在聖經敘事中反覆成為「神預備祂百姓／祂僕人」的場景，不是懲罰之地，而是熬煉與裝備之地（這條線索1:12-13再深入）。
+
+**讓話語住在裡面**：今天最容易被追捧、被演算法放大的，是那個「站在鏡頭前的人」。施洗約翰有機會成為眾人矚目的中心——群眾親自出去找他——但他把每一次聚光燈都轉向了另一位。默想：你的社群媒體帳號、你的事奉平台，是把目光導向自己，還是導向那位「比我更大」的？今天的實踐：把一次可以歸功於自己的機會，明確地歸榮耀給神。
+
+**你看見耶穌了嗎**：透過施洗約翰甘心退到後面的身影，你看見的，是一位配得萬人謙卑指向、卻又願意親自降卑受洗的基督——如果馬可福音是關於「僕人基督」的書，施洗約翰正是第一位為我們示範「僕人的先鋒」該有何等姿態的人。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **馬可的「立刻」對華人信徒**：僕人行動迅速、不拖延——這對容易「三思而後行」到遲遲不行動的華人信徒文化，是一種挑戰。
+- **1:17「來跟從我」**：呼召的簡潔，沒有冗長討論——對比華人文化裏決策前常需的層層請示與商議，耶穌的呼召直接訴諸當下的回應。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 40:1-5
+
+> 我曾耐性等候耶和華，他垂聽我的呼求。
+> 他從禍坑裏，從淤泥中把我拉上來，使我的腳立在磐石上，使我腳步穩健。
+> 他使我口唱新歌，就是讚美我們神的話。許多人必看見而懼怕，並要倚靠耶和華。
+
+大衛「耐性等候」之後才「被拉上來」——這正是曠野幾百年沉默之後，神差遣使者的節奏。等候不是神的缺席，是神預備的時間。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### On Jordan's Bank the Baptist's Cry
+
+> Then cleansed be every life from sin: make straight the way for God within,
+> and let us all our hearts prepare for Christ to come and enter there.
+>
+> — Charles Coffin (1736), trans. John Chandler (1837)
+
+這首聖詩把施洗約翰的呼聲從歷史事件轉為個人邀請——「使每個生命都潔淨脫離罪」不再只是猶太曠野裏的呼喊，而是向每一位讀者發出的邀請：你心裏是否也有一條需要「修直」的路，好讓基督進來？
+
+---
+
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+「起初」（*archē*）這個詞，把馬可福音1:1、約翰福音1:1、創世記1:1牢牢繫在一起——三卷書都從同一個字起筆，卻分別交代創造的起頭、道成肉身的起頭、福音宣告的起頭。你若把三處經文並排讀一次，會發現整本聖經其實只有一個主角，從創造萬有的道，到道成肉身的那位，到如今被傳講為好消息的那位——祂從未換過身份，只是在歷史裏一層一層地顯明自己。
+
+### 提問式對話 (Let the Reader Speak)
+
+先問：施洗約翰在曠野吸引了「猶太全地和全耶路撒冷的人」，你覺得他當時心裡有沒有一絲「這聲望是我的」的誘惑？
+再問：他選擇說「有一位比我更大」，而不是「我還可以做得更大」——這個選擇容易嗎？
+再問：你今天手上握有的，無論大小，是舞台，還是指向的手指？
+先別讓我說——你覺得這段經文最重要的一句是哪一句？為什麼？
+
+### 活在今天．AI時代 (Living It Today)
+
+演算法會把注意力導向最會「表演」的那個帳號，越會凸顯自己，越被放大。施洗約翰活在一個沒有演算法的曠野，卻示範了與演算法完全相反的邏輯：他有機會把自己變成中心，卻選擇把每一次聚光燈都轉手讓出去。今天最稀有的屬靈操練，或許不是「被看見」，而是甘心「被略過」。
+
+### 今天的祭壇 (Today's Altar)
+
+今天具體做一件事：把一次原本會被記在自己名下的功勞或稱讚，公開、清楚地歸給神，或歸給另一位同工。不是含糊地說「感謝主」，而是具體說出「這是神做的，不是我」。
+
+## 黃長老精義 (The Distilled Key)
+
+先鋒的全部價值，不在於他自己站得多高，而在於他所指的方向對不對——約翰的一生只做一件事：把手指向那位「以後來的」。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **辨認你的「曠野」**：施洗約翰的呼聲從曠野發出，而不是從聖殿或市集。神有沒有在你生命中一個看似荒涼的季節裏，預備你成為祂話語的出口？
+
+2. **檢視你的謙卑**：約翰擁有群眾、擁有影響力，卻主動退居幕後。你手上正握著的「影響力」——無論大小——是用來高舉自己，還是指向基督？
+
+3. **兩種洗禮的分別**：你的信仰生活是停留在「外在悔改的記號」，還是已經經歷聖靈真正的更新？
+
+4. **預備道路**：約翰的工作是「修直祂的路」。今天在你的家庭、職場、朋友圈中，有沒有需要你去「修直」、去除障礙，好讓人更容易認識基督的地方？
+
+### 禱告回應
+
+> 主啊，感謝你差遣使者為你預備道路，也感謝你按時差遣你的兒子親自成就救恩。
+> 求你賜我像施洗約翰一樣的謙卑，甘心退到後面，讓基督被高舉。
+> 求你的聖靈真實地更新我，不只讓我停留在外在的悔改，而是進入生命的翻轉。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 馬可為什麼選擇用「福音」（好消息）這個詞來為全書定調？這個詞在當時的羅馬社會有什麼特別的政治／文化含義？
+
+2. 瑪拉基書與以賽亞書的應許，如何在施洗約翰身上應驗？這對我們理解神信實的性情有什麼幫助？
+
+3. 「悔改的洗禮，使罪得赦」與「聖靈的洗禮」有何不同？這個分別對今天教會的洗禮觀有什麼提醒？
+
+4. 施洗約翰享有極大的群眾聲望，卻選擇徹底指向基督。今天教會或個人事奉中，有哪些「戀棧鎂光燈」的試探？
+
+5. 「有一位在我以後來的，能力比我更大」——這句自我謙卑的宣告，對你今天的服事心態有什麼挑戰？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 序言之二：耶穌受洗 (The Baptism of Jesus)
+
+馬可福音 1:9-11
+
+**經文核對**：[ai-eden.com/bible/mark/1](https://www.ai-eden.com/bible/mark/1?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+三節經文，卻是三一神論在歷史舞台上最清晰的一次同框顯現：子降入約旦河水中，聖靈彷彿鴿子降在祂身上，父的聲音從天上宣告祂的兒子身份。這不是耶穌「成為」神子的那一刻——祂從太初就是——而是天父公開「印證」祂兒子身份的時刻。馬可用最精簡的筆法，把全本聖經最深奧的教義，濃縮進一個發生在水邊的畫面裡。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{9}那時，耶穌從加利利的拿撒勒來，在約旦河裏受了約翰的洗。\textsuperscript{10}他從水裏一上來，就看見天裂開了，聖靈彷彿鴿子降在他身上。\textsuperscript{11}又有聲音從天上來，說：「你是我的愛子，我喜愛你。」
+
+### English — ESV
+
+> \textsuperscript{9}In those days Jesus came from Nazareth of Galilee and was baptized by John in the Jordan. \textsuperscript{10}And when he came up out of the water, immediately he saw the heavens being torn open and the Spirit descending on him like a dove. \textsuperscript{11}And a voice came from heaven, "You are my beloved Son; with you I am well pleased."
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+拿撒勒是加利利一個名不見經傳的小鎮（參約1:46「拿撒勒還能出甚麼好的嗎？」），馬可特意交代耶穌的出身地，正是要凸顯這位「神的兒子」以何等卑微、何等不起眼的身分登場。約旦河是以色列民族記憶中意義深重的地標——約書亞曾帶領百姓過約旦河進入應許之地（書3章），以利沙也曾在約旦河潔淨乃縵的痲瘋（王下5章）。耶穌在此受洗，等於在民族最重要的地理座標上，開啟一次新的「過河」——不是進入迦南地，而是開啟神國度在地上的新篇章。
+
+### 文學結構
+
+馬可用「天裂開了」（*schizomenous*，被撕裂）這個相對強烈的動詞，比馬太、路加所用「天開了」更具張力。值得注意的是，同一個希臘動詞 *schizō* 在馬可福音只再出現一次——15:38，耶穌斷氣的那一刻，「殿裏的幔子從上到下裂為兩半」。全書首尾兩次「裂開」——一次是天為子的降卑而裂開，一次是殿的幔子為子的捨命而裂開——形成一組遙相呼應的文學記號：天父在受洗時親自為子開路，聖殿的幔子在十架上為眾人開了一條又新又活的路（參來10:19-20）。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *baptizō* | baptizō | 施洗、浸入 | 字根意為「浸入水中」，強調完全的浸沒 |
+| *schizō* | schizō (schizomenous) | 撕裂、裂開 | 馬可僅用於1:10與15:38，形成首尾呼應 |
+| *peristera* | peristera | 鴿子 | 舊約中鴿子是窮人可獻的贖罪祭（利5:7, 12:8） |
+| *agapētos* | agapētos | 蒙愛的、獨一所愛的 | 呼應創22:2「你的獨生的兒子，就是你所愛的以撒」 |
+| *eudokēsa* | eudokēsa | 我喜悅、我喜愛 | 過去式，表達永恆不變、早已存在的喜悅，非因受洗才產生 |
+
+### 天上聲音的雙重引用
+
+「你是我的愛子，我喜愛你」實際上是兩處舊約經文的合併：詩篇2:7「你是我的兒子，我今日生你」（君王的加冕詩篇）與以賽亞書42:1「我的僕人……我心裏所喜悅的」（第一首僕人之歌）。馬可藉這一句宣告，把「君王」與「僕人」兩條彌賽亞線索合而為一——這正是全卷馬可福音要我們領受的核心主軸：耶穌是那位「作王的僕人」，祂的寶座是十字架，祂的加冕是捨命。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 三一神論的歷史顯現 (Trinity Historically Manifested)
+
+子在水中，聖靈降在祂身上，父的聲音從天上說話——三個位格同時、清楚地在同一個歷史事件中顯現，是全本聖經中最直接的三一神啟示場景之一。
+
+### 2. 認同罪人的洗禮 (Baptism of Identification, Not Confession)
+
+約翰的洗禮本是「悔改的洗禮，使罪得赦」（1:4），無罪的耶穌卻主動受洗——祂不是因自己有罪而悔改，而是主動認同那些排隊等候悔改的罪人，把自己算在他們中間，為要「盡諸般的義」（太3:15）。
+
+### 3. 聖靈降臨的印證 (The Spirit's Descent as Anointing)
+
+聖靈「彷彿鴿子」降在耶穌身上，是彌賽亞受膏就職的記號（參賽11:2, 61:1）。這不是耶穌第一次擁有聖靈，而是聖靈在祂公開事工開始之際，以看得見的方式印證與加力。
+
+### 4. 父的宣告：兒子身份先於工作 (Sonship Precedes Service)
+
+天父的宣告發生在耶穌尚未行一件神蹟、傳一篇道之前——「你是我的愛子，我喜愛你」不是因為祂「做了」什麼而蒙悅納，而是因祂「是」誰而蒙悅納。這對信徒的身分認同有深遠的提醒：蒙愛在先，事奉在後。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到耶穌受洗的意義，屈梭多模指出這洗禮同時兼有舊與新兩個時代的記號：由先知（施洗約翰）施洗，屬於舊約先知傳統的延續；而聖靈以看得見的形式降下，則預表了新約時代的開啟——這一刻正是舊約與新約的交界點。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 12 (NPNF1-10)
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+> 「基督受洗的一般原因，是為了向父完全獻上順服；而特別的原因，則是要親自在自己的身體上為洗禮立下聖禮的意義，使我們能與祂共同領受這洗禮。」
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+加爾文也指出，施洗約翰起初認為耶穌不需要受洗，但加爾文解釋：「正是為了別人的緣故，這洗禮才被求受」——耶穌受洗不是為自己的需要，而是為要成全律法所要求的公義，也為後世信徒立下榜樣。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+> 「容許這樣做吧，因為我們理當這樣盡諸般的義。」（太3:15）——麥克阿瑟指出，這句話顯明主耶穌的心志：「無論神吩咐什麼，我都要去做」——即使祂本身毫無罪咎，仍甘願完全順服。
+> — John MacArthur, *The Significance of Jesus' Baptism*, gty.org, sermon 41-3
+
+麥克阿瑟進一步將「盡諸般的義」分為兩個層面：**主動的義**——「基督以完全的順服活出完全的生命，遵行神所吩咐的一切，包括受洗，為要使祂完全的生命可以歸算在你的帳上」；**被動的義**——「公義要求刑罰必須償還，公義要維護律法，律法必須被滿足，罪必須被懲罰」。這場面同時展現三一神：父的聲音印證，聖靈可見地降臨，子甘心順服——構成一幅三一神論的加冕場景。
+> — John MacArthur, *The Significance of Jesus' Baptism*, gty.org, sermon 41-3
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+> 「祂從水裏一上來，就看見天裂開了，聖靈彷彿鴿子降在祂身上：又有聲音從天上來說，你是我的愛子，我所喜悅的。」
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+摩根解釋鴿子的象徵：「這本身就暗示了最低層次的獻祭……那些一無所有、無法帶來其他祭物的窮人，才被准許帶一隻鴿子作為贖罪祭。」耶穌以最卑微的獻祭記號印證祂的受膏——完全認同祂所要拯救的貧窮罪人。摩根也強調，耶穌受洗是主動「背負人類罪的重擔，將其算作彷彿是自己的罪」，這正是祂與那些成群結隊湧向約翰受洗的群眾徹底認同的行動。
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：耶穌受洗 (Ask Elder Wong)
+
+**精義一句話**：天父的宣告「你是我的愛子，我喜愛你」，發生在耶穌尚未行一件神蹟、傳一篇道之前——蒙愛在先，事奉在後；身分先於工作。
+
+**黃長老這樣帶你讀**：
+
+- **濃縮全段的一句話**：如果只能留一句話，就是11節。這句話同時合併了詩篇2篇（君王的加冕）與以賽亞書42章（僕人之歌）——馬可福音的核心張力，從這一句話就已經定調：這位主角，是「作王的僕人」，祂的權柄與祂的卑微同時真實。
+- **耶穌沒有罪，祂為什麼要接受「悔改的洗禮」？**
+- **天父的宣告發生在耶穌「還沒有」行一件神蹟、傳一篇道理之前**——這對「先做後蒙悅納」還是「先蒙悅納後做」，說明了什麼？你今天在事奉、在工作上的價值感，是建立在「我做了什麼」，還是「我是誰」？
+
+**整本聖經的連結**：約旦河對以色列人而言，是「過去」與「應許之地」的分界線——約書亞記3章百姓過約旦河，象徵舊時代的結束、新時代的開始。如今耶穌在同一條河裏受洗，是另一次「過河」——祂親自走進罪人所站的位置，然後從水裏「上來」，開啟一個新的出埃及、新的進迦南。創世記22:2「你的獨生的兒子，就是你所愛的以撒」與馬可1:11「你是我的愛子」遙相呼應——亞伯拉罕獻以撒是一個預表，天父如今親自把「愛子」交出，成就那預表所指向的真實獻祭。
+
+**讓話語住在裡面**：這個時代習慣用「產出」衡量一個人的價值——你發了多少貼文、完成了多少項目、賺了多少業績。但天父對耶穌的宣告，發生在祂公開事工的「零時刻」，尚未有一件可以拿出來評估的「成果」。默想：如果你今天什麼都沒做成，天父對你的愛會不會因此減少一分？今天的實踐：向一位讓你感到「必須表現才能被愛」的人，示範一次「無條件的接納」。
+
+**你看見耶穌了嗎**：水中的子、降臨的靈、宣告的父——三一神同時顯現，你看見的，是那位甘願先降卑認同罪人、後才展開事工的基督。祂的身分不是靠工作換來的，你的身分也是。
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Down to the River to Pray*（下到河邊禱告）——美國傳統聖詩，常用於受洗場合，歌詞呼應信徒藉受洗與基督認同、與祂一同下到水裏、一同從水裏上來得新生命的圖畫。
+
+> As I went down in the river to pray, studying about that good old way
+> and who shall wear the starry crown, good Lord, show me the way!
+>
+> — Traditional American Hymn (Appalachian folk tradition)
+
+**詩篇**：詩篇 2:7-8
+
+> 我要傳耶和華的旨意，他對我說：「你是我的兒子，我今日生了你。
+> 你求我，我就將列國賜你為基業，將地極賜你為田產。」
+
+---
+
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+約旦河不是隨便一條河——約書亞記3章，百姓過約旦河，就此結束曠野漂流、進入應許之地。如今耶穌下到同一條河裡受洗，再從水裡「上來」，是另一次「過河」：祂親自走進罪人所站的位置，然後帶著蒙父印證的身分，開啟一個新的出埃及。你若把約書亞記3章和馬可1:9-11並讀，會發現同一位神，正在重演祂拯救百姓的模式，只是這一次，走在最前面過河的，是神的兒子自己。
+
+### 提問式對話 (Let the Reader Speak)
+
+先問：耶穌沒有罪，祂下到水裡，和排隊等候悔改的罪人站在同一條線上——這對你理解「認同」兩個字，有什麼衝擊？
+再問：天父的宣告「你是我的愛子」發生在耶穌還沒有行一件神蹟之前——如果蒙悅納不是靠表現，那你今天緊抓不放的「表現焦慮」，是從哪裡來的？
+再問：如果今天早上神親口對你說一次「你是我所愛的」，你覺得那會改變你今天要做的哪一件事？
+
+### 活在今天．AI時代 (Living It Today)
+
+這個時代習慣用「產出」給人打分——貼文、業績、履歷上的條目。天父對耶穌的宣告，卻發生在祂公開事工的「零時刻」，還沒有一件事可以被拿出來評估。一個人真正的身分，從來不是演算法能計算出來的指標，而是神在他還沒有做任何事之前，就已經說出的那句話。
+
+### 今天的祭壇 (Today's Altar)
+
+今天向一位讓你感到「必須表現才能被愛」的人，具體示範一次「無條件的接納」——不是因為他做了什麼，而是單單因為他是誰。
+
+## 黃長老精義 (The Distilled Key)
+
+蒙愛在先，事奉在後；身分先於工作——這是全本聖經對「你是誰」最溫柔、也最堅定的回答。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **認同的恩典**：耶穌無罪卻主動認同罪人，下到水裏。祂今天以什麼方式，繼續認同你生命中最軟弱、最不堪的部分？
+
+2. **身分先於事工**：天父的宣告發生在耶穌尚未做任何事之前。你今天服事神、服事人的動力，是出於「我已蒙悅納」的確據，還是出於想要「贏得悅納」的焦慮？
+
+3. **三一神的同工**：父宣告、子順服、聖靈降臨——三個位格在同一刻同工。這對你理解禱告、事奉、教會生活中「聖父聖子聖靈如何同工」有什麼幫助？
+
+4. **鴿子的記號**：鴿子是窮人的祭物。耶穌以最卑微的記號印證祂的受膏，這對你如何看待「屬靈的偉大」有什麼挑戰？
+
+### 禱告回應
+
+> 天父，感謝你藉著你兒子的受洗，親自向世人宣告祂的身分，也向我宣告：因祂的緣故，我也是你所愛的兒女。
+> 求你使我的服事，出於蒙愛的確據，而不是出於想贏得愛的焦慮。
+> 求聖靈今天也降在我身上，加給我力量，走完你為我預備的道路。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 耶穌無罪，為何仍要接受「悔改的洗禮」？這對我們在生命領受上理解「認同」（identification）有何幫助？
+
+2. 天上的聲音合併了詩篇2篇（君王）與以賽亞書42章（僕人）——這兩個身分如何同時在耶穌身上成就？對馬可福音「僕人基督」的主題有何呼應？
+
+3. 「天裂開了」（1:10）與「殿的幔子裂為兩半」（15:38）在原文用了同一個動詞——這個文學記號對你理解耶穌一生的軌跡（從受洗到十架）有何啟發？
+
+4. 天父的宣告「你是我的愛子，我喜愛你」發生在耶穌尚未展開公開事工之前。這對我們今天「先蒙恩典、後做工」的信仰次序有何提醒？
+
+5. 聖靈以鴿子的形象降下——鴿子在舊約律法中是窮人所獻的贖罪祭。這個記號如何印證耶穌與貧窮、卑微之人的認同？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 序言之三：曠野試探 (The Wilderness Temptation)
+
+馬可福音 1:12-13
+
+**經文核對**：[ai-eden.com/bible/mark/1](https://www.ai-eden.com/bible/mark/1?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+天上的聲音才剛剛宣告「你是我的愛子」，聖靈立刻把這位愛子「催逼」進曠野，交給撒但整整四十天的試探。馬可只用兩節經文交代這整個過程——沒有對話、沒有三個具體試探的細節（那是馬太、路加的寫法）——只留下一幅濃縮到極致的畫面：曠野、猛獸、撒但、天使。這正是馬可一貫的筆法：省略言語，聚焦行動。而這行動要說的是：蒙愛的兒子，在正式開始服事之前，先在最荒涼、最孤獨的地方，獨自面對那惡者，並且得勝。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> Guide me, O thou great Jehovah,
+> Pilgrim through this barren land;
+> I am weak, but thou art mighty;
+> Hold me with thy powerful hand.
+>
+> — *Guide Me, O Thou Great Jehovah*, William Williams (1745)
+
+「曠野」（barren land）與「朝聖者」（pilgrim）——這首威爾斯古老聖詩，正是為曠野行走的旅人而寫；耶穌在曠野的四十天，是每一位在自己曠野中前行之人的先行者。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{12}聖靈立刻把耶穌催促到曠野裏去。\textsuperscript{13}他在曠野四十天，受撒但的試探，並與野獸同在一起，且有天使來伺候他。
+
+### English — ESV
+
+> \textsuperscript{12}The Spirit immediately drove him out into the wilderness. \textsuperscript{13}And he was in the wilderness forty days, being tempted by Satan. And he was with the wild animals, and the angels were ministering to him.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+猶太曠野地形險峻、氣候酷熱、幾乎寸草不生，傳統上被認為是耶穌受試探的所在地（今日仍有「試探山」Mount of Temptation 之稱，鄰近耶利哥）。四十天不進食，在缺水乾旱的荒漠環境中，是對人體極限的真實考驗，絕非象徵性的修辭。
+
+### 文學結構
+
+馬可在此展現他一貫「省略對話、聚焦動作」的敘事風格——馬太福音用了11節（4:1-11）、路加福音用了13節（4:1-13）詳述三個具體的試探內容，馬可卻只用短短兩節帶過整件事。這種簡省不是資料不足，而是編輯上的刻意選擇：馬可要讀者的目光快速移動，從受洗直奔加利利事工的正式展開（1:14），試探的插曲只是這段旅程中一個必經、卻不容许人停留太久的關口。「立刻」（*euthys*）一詞在此首次出現，此後將貫穿全書近四十次，成為馬可福音的招牌用詞，塑造出一種馬不停蹄、事事緊急的敘事節奏。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *ekballei* | ekballei | 催逼、趕出、驅使 | 字面意為「拋出、驅趕」，比馬太、路加所用「被聖靈引到」（*anēchthē*）語氣強烈得多 |
+| *peirazomenos* | peirazomenos | 受試探、受考驗 | 現在分詞，表達持續進行的試探過程，橫跨整整四十天 |
+| *thēria* | thēria | 野獸 | 唯獨馬可記載此細節，馬太、路加均未提及 |
+| *diēkonoun* | diēkonoun | 伺候、服事 | 未完成式，表達持續不斷的服事，而非一次性的探訪 |
+| *satanas* | satanas | 撒但 | 亞蘭文借詞，原意為「控告者、敵對者」 |
+
+### 「催逼」(ekballei) 的力度
+
+馬可用來描述聖靈行動的動詞 *ekballō*，在新約中最常見的用法是「趕鬼」（如1:34, 39, 43節即將出現的用法）。和合本修訂版將此處譯為較溫和的「催促」，但原文語氣遠比中譯強烈，顯明這不是一次溫和的引導，而近乎一種不容抗拒的差遣——聖靈的工作，與試探本身一樣真實而劇烈。本章以下的分析段落沿用「催逼」一詞，以保留原文的力度。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 蒙愛之後，仍要經歷試煉 (Sonship Does Not Exempt from Testing)
+
+天父剛宣告「你是我的愛子」，聖靈隨即把祂引向試探的曠野——蒙愛的身分不是逃避考驗的護身符，反而是預備進入考驗的裝備。這對信徒是重要的提醒：蒙恩與受試煉，在神的計劃裡從不互相排斥。
+
+### 2. 真實的試探，真實的得勝 (Real Temptation, Real Victory)
+
+若耶穌所受的試探不是真實的引誘，祂的得勝也就毫無意義。希伯來書4:15說祂「凡事受過試探，與我們一樣，只是他沒有犯罪」——這節經文與馬可1:13合讀，讓我們確知：基督的得勝，是在真實的引誘壓力下贏得的得勝，而非演出來的姿態。
+
+### 3. 末後的亞當，得勝之地 (The Last Adam Prevails)
+
+第一個亞當在滿有供應、毫無缺乏的伊甸園中，卻向試探屈服；末後的亞當在一無所有、飢餓四十天的曠野中，卻得勝有餘（參林前15:45, 羅5:12-19）。地點的對比（園子 vs. 曠野）與條件的對比（豐富 vs. 缺乏），使這場得勝格外顯出基督的完全順服。
+
+### 4. 曠野中的伊甸記號 (Signs of Eden Restored)
+
+「與野獸同在一處，且有天使來伺候他」——這幅畫面，正是以賽亞書所預言的復和景象的預嚐：「豺狼必與綿羊羔同居……」（賽11:6-9）。人類墮落後失去了對受造界的和平掌管，末後的亞當卻在曠野中先行展示了這掌管的恢復。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+屈梭多模指出，耶穌是「照著救恩經世的原則被引上去」（led up according to the principle of the Economy）受試探，其中的教訓是：我們不應該主動撲向試探，而應當是「被拖入試探之中時，仍要剛強站立」——這對信徒面對試煉的心態，提供了重要的分判：不主動尋求試探，但一旦臨到，便要效法基督站立得住。他也特別留意馬可記載耶穌「與野獸同在」的細節，指出這是曠野無路可行、極其荒涼險惡的寫照。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 13 (NPNF1-10)
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+加爾文在《福音書合參注釋》中論到基督受試探時強調：基督甘願進入試探的爭戰，並非因祂自身軟弱有被勝過的危險，而是要藉此在凡事上與祂的百姓認同，並且親自為他們贏得得勝的實據，使信徒可以在祂的得勝中得力、在自己的試探中不至孤立無援。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+> 「聖靈立刻催逼祂到曠野去」——麥克阿瑟解釋，原文動詞 *ekballō* 意為「拋出、驅趕」，「字面意思就是把耶穌趕了出去」，語氣之強烈值得留意。
+> — John MacArthur, *Jesus' Strategy for Effective Ministry*, gty.org, sermon 41-4
+
+麥克阿瑟指出曠野試探的處境：「耶穌在此遠離眾人、遠離一切外在的幫助……完全孤身一人」，為要在毫無外援的狀況下，展現祂勝過撒但的能力；「四十天孤身一人，四十天與世隔絕，四十天身處危險而致命的境地，四十天沒有任何食物」，處於祂身體最軟弱的狀態。他也強調天使服事的意義：「神差遣聖潔的天使前來伺候祂，這正是神對祂得勝試探與試煉之聖潔凱旋的印證」。麥克阿瑟總結：「有效的事奉，是由那些在試探與罪上得勝的人來完成的。」
+> — John MacArthur, *Jesus' Strategy for Effective Ministry*, gty.org, sermon 41-4
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+> 「聖靈把祂催逼出去」——摩根指出這動詞表達耶穌是「被不可抗拒地催逼」進入曠野的試煉。
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+論到試探的真實性，摩根寫道：「除非祂真的受試探，否則祂就沒有受試探；除非祂真實感受到那些引誘的吸引力，否則就沒有試探可言！」——這句話直指試探敘事的核心：若沒有真實的拉力，得勝便無從談起。摩根對「與野獸同在，且有天使伺候祂」一句，作出詩意的詮釋：「祂是神原型的人（archetypal Man），實現了神起初對受造界完美而仁慈掌管的心意。」
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：曠野試探 (Ask Elder Wong)
+
+**精義一句話**：聖靈剛印證耶穌是「蒙愛的兒子」，隨即把祂催逼進試探的曠野——蒙恩不是免試的護身符，而是受試的裝備；末後的亞當，在缺乏之地得勝有餘。
+
+**黃長老這樣帶你讀**：
+
+- **用一個意象濃縮全段**：這兩節經文最濃縮的畫面，就是「與野獸同在一處，且有天使來伺候他」——這幅畫面同時裝著失落的伊甸園（人與受造界和平共處）與末後榮耀的應許（以賽亞書11章豺狼與綿羊羔同居的異象）。如果用一幅畫代表這段經文，你會畫什麼？
+- **聖靈剛印證耶穌是「蒙愛的兒子」，為什麼緊接著就把祂「催逼」進試探的曠野？**這對「蒙恩」與「受試煉」的關係說明了什麼？
+- **馬可只用兩節經文交代整個試探過程**，卻特別提到「與野獸同在」——這個看似多餘的細節，可能在說什麼？
+
+**整本聖經的連結**：摩西在西奈山四十晝夜不吃不喝，領受律法（出34:28）；以利亞四十晝夜走到何烈山，重新領受呼召（王上19:8）；以色列全會眾在曠野漂流四十年，卻因不信一再跌倒（民14:33-34）。如今耶穌在曠野四十天面對撒但的試探——祂不是重複以色列的失敗，而是作為「真以色列」「末後的亞當」，成就了摩西、以利亞、以色列全會眾都未能完全成就的得勝。從創世記的伊甸（第一個亞當跌倒之地），到馬可福音的曠野（末後的亞當得勝之地），主角只有一位，但結局徹底翻轉。
+
+**讓話語住在裡面**：這個時代最擅長把「曠野」包裝成失敗——沒有產出、沒有曝光、沒有立即的成果，就被演算法判定為「不值得關注」。但耶穌公開事工前最重要的裝備，恰恰發生在一個沒有觀眾、沒有掌聲、甚至沒有食物的曠野裏。默想：你人生中有沒有一段「曠野」的季節？回頭看，那段日子裏有沒有「天使伺候」的記號——當時看不見，現在才明白的供應？今天的實踐：為身邊正處於「曠野」季節的一位弟兄姊妹，具體地做一件「伺候」的事——一通電話、一頓飯、一次代禱。
+
+**你看見耶穌了嗎**：在一無所有的曠野裏，你看見的，是那位不靠環境、只靠父的話站立得住的基督——祂勝過的試探，如今也成了你我試探中的倚靠：祂知道曠野的滋味，也差天使伺候在你我看不見的地方。
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*A Mighty Fortress Is Our God*（堅固保障）——馬丁路德所作，歌詞正面對抗那試探人的惡者，宣告基督已為我們爭戰得勝。
+
+> A mighty fortress is our God, a bulwark never failing;
+> our helper he, amid the flood of mortal ills prevailing.
+> For still our ancient foe doth seek to work us woe;
+> his craft and power are great, and armed with cruel hate,
+> on earth is not his equal.
+>
+> — Martin Luther (1529), trans. Frederick H. Hedge
+
+**詩篇**：詩篇 91:1-2, 11-12
+
+> 住在至高者隱密處的，必住在全能者的蔭下。
+> 我要向耶和華說：「你是我的避難所，是我的山寨，是我的神，我所倚靠的。」
+> 因他要為你吩咐他的使者，在你行的一切道路上保護你。他們要用手托著你，免得你的腳碰在石頭上。
+
+---
+
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+第一個亞當在滿有供應的伊甸園裡向試探屈服；末後的亞當在一無所有的曠野裡得勝有餘（林前15:45）。你把創世記3章和馬可1:12-13並排讀一次：一個是「園子」，一個是「曠野」；一個是「豐富」，一個是「缺乏」——地點與條件完全對調，結局卻徹底翻轉。這條線索一路延伸到羅馬書5:12-19「因一人的悖逆，眾人成為罪人；照樣，因一人的順從，眾人也成為義了」——馬可用兩節經文，濃縮了整本聖經最核心的一組對照。
+
+### 提問式對話 (Let the Reader Speak)
+
+先問：聖靈剛剛才印證耶穌是「蒙愛的兒子」，為什麼緊接著就把祂「催逼」進試探的曠野？
+再問：如果蒙恩等於免試，這對你理解神對待祂所愛之人的方式，說明了什麼？
+再問：你人生中有沒有一段「曠野」，是事後才看懂那是神在裝備你、而不是懲罰你？
+
+### 活在今天．AI時代 (Living It Today)
+
+這個時代把「曠野」——沒有產出、沒有曝光、沒有立即成果的季節——直接判定為「不值得關注」，演算法只會放大有內容可看的時刻。但耶穌公開事工前最關鍵的裝備，恰恰發生在一個沒有觀眾、沒有掌聲、甚至沒有食物的地方。屬靈的裝備，常常發生在演算法看不見的地方。
+
+### 今天的祭壇 (Today's Altar)
+
+為身邊正處於「曠野」季節的一位弟兄姊妹，具體做一件「伺候」的事——一通電話、一頓飯、一次代禱，而不只是一句「我在為你禱告」。
+
+## 黃長老精義 (The Distilled Key)
+
+蒙恩不是免試的護身符，而是受試的裝備——末後的亞當，在缺乏之地得勝有餘。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **蒙愛與受試煉並存**：天父剛宣告祂的愛，聖靈隨即引導祂進入試煉。你是否曾誤以為「蒙福的人生」等於「無風無浪的人生」？聖經在這裏給了什麼修正？
+
+2. **真實的爭戰**：若耶穌的試探不是真實的，祂的得勝也就沒有意義。你面對試探時，有沒有輕看試探的真實力度，因而輕忽了警醒的必要？
+
+3. **末後亞當的得勝**：第一個亞當在豐富裏跌倒，末後的亞當在缺乏裏得勝。這對你面對「順境試探」與「逆境試探」分別有什麼提醒？
+
+4. **看不見的服事**：曠野裏有天使伺候，即使耶穌當下未必「感覺到」安慰。你今天的「曠野」季節裏，會不會也有你尚未察覺的供應與服事？
+
+### 禱告回應
+
+> 主啊，感謝你在曠野裏勝過了試探，也親自明白試煉中的孤單與艱難。
+> 求你在我面對試探的時候，賜給我像你一樣倚靠聖靈、持守神話語的心志。
+> 求你開我的眼睛，看見在我曠野季節裏，那些看不見卻真實的服事與供應。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 馬可省略了具體的三個試探內容，只用兩節經文交代整件事——這個敘事上的簡省，對讀者的注意力產生了什麼效果？
+
+2. 「聖靈催逼耶穌」與「撒但試探耶穌」在同一段經文中並存——這對我們理解神的主權與試探的實際發生，有什麼領受上的平衡提醒？
+
+3. 「與野獸同在，且有天使來伺候他」——這幅畫面如何呼應創世記中失落的伊甸園，又如何指向以賽亞書11章所預言的復和？
+
+4. 摩西、以利亞、以色列全會眾都曾在曠野四十（天／年），耶穌的曠野經歷與他們有何相同與不同？這對「末後的亞當」這個身分有何印證？
+
+5. 耶穌得勝之後，才正式展開公開事工（1:14）。這對今天教會或個人在開展重要服事之前，是否也應當先經歷「曠野的裝備」，有什麼提醒？
+
+---
+
+## 與其他經文的關聯
+
+- **馬太福音 4:1-11；路加福音 4:1-13**——平行記載，兩卷書都詳述三個具體試探的內容與耶穌以申命記回應的話語
+- **希伯來書 4:15**——「他也曾凡事受過試探，與我們一樣，只是他沒有犯罪」，直接呼應本段的核心信息
+- **創世記 3章**——第一個亞當在豐富的伊甸園中向試探屈服，與末後的亞當在曠野的得勝形成對比
+- **以賽亞書 11:6-9**——豺狼與綿羊羔同居的復和異象，正是「與野獸同在」一句的先知背景
+- **出埃及記 34:28；列王紀上 19:8**——摩西、以利亞同樣經歷四十晝夜，構成本段「曠野四十」母題的舊約脈絡
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第一章：呼召門徒、醫病趕鬼 (Calling Disciples, Works of Power)
+
+馬可福音 1:14-45
+
+**經文核對**：[ai-eden.com/bible/mark/1](https://www.ai-eden.com/bible/mark/1?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+序言結束，僕人正式開工。短短三十二節經文裏，馬可讓耶穌宣講、呼召、教導、趕鬼、醫治、禱告、又醫治——幾乎沒有喘息的空間。「立刻」（*euthys*）一詞在這段裏反覆敲擊，彷彿一面鼓，催促敘事向前推進。但在這一連串行動的正中央，馬可安插了一個看似打斷節奏的畫面：耶穌天未亮就起來，獨自到曠野禱告（1:35）。這正是全章的鑰匙——僕人的忙碌，源自僕人與父的相交；祂的權柄，不是靠著馬不停蹄的工作證明，而是靠著與神不間斷的交通支撐。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> I have decided to follow Jesus,
+> I have decided to follow Jesus,
+> I have decided to follow Jesus,
+> No turning back, no turning back.
+>
+> — *I Have Decided to Follow Jesus*（印度聖詩，19世紀）
+
+四個漁夫「立刻捨了網」跟從耶穌——這首源自印度的古老聖詩，正唱出了1:16-20那個毫不遲疑的回應。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{14}約翰下監以後，耶穌來到加利利，宣講神的福音，\textsuperscript{15}說：\jesus{「日期滿了，神的國近了。你們要悔改，信福音！」}
+
+> \textsuperscript{16}耶穌沿著加利利的海邊走，看見西門和西門的弟弟安得烈在海上撒網；他們本是打魚的。\textsuperscript{17}耶穌對他們說：\jesus{「來跟從我，我要叫你們得人如得魚一樣。」}\textsuperscript{18}他們立刻捨了網，跟從他。\textsuperscript{19}耶穌稍往前走，又見西庇太的兒子雅各和他弟弟約翰在船上補網。\textsuperscript{20}耶穌隨即呼召他們，他們就把父親西庇太和雇工留在船上，跟從了耶穌。
+
+> \textsuperscript{21}他們到了迦百農，耶穌就在安息日進了會堂教導人。\textsuperscript{22}他們對他的教導感到很驚奇，因為他教導他們正像有權柄的人，不像文士。\textsuperscript{23}當時，會堂裏有一個污靈附身的人，他在喊叫，\textsuperscript{24}說：「拿撒勒人耶穌，你為甚麼干擾我們？你來消滅我們嗎？我知道你是誰，你是神的聖者。」\textsuperscript{25}耶穌斥責他說：\jesus{「不要作聲，從這人身上出來吧！」}\textsuperscript{26}污靈使那人抽了一陣風，大聲喊叫，就出來了。\textsuperscript{27}眾人都驚訝，以致彼此對問：「這是甚麼事？是個新的教導啊！他用權柄命令污靈，連污靈也聽從了他。」\textsuperscript{28}於是耶穌的名聲立刻傳遍了全加利利周圍地區。
+
+> \textsuperscript{29}他們一出會堂，就同雅各和約翰進了西門和安得烈的家。\textsuperscript{30}西門的岳母正發燒躺著，就有人告訴耶穌。\textsuperscript{31}耶穌進前拉著她的手，扶她起來，燒就退了，於是她服事他們。\textsuperscript{32}傍晚日落的時候，有人帶著一切害病的和被鬼附的，來到耶穌跟前。\textsuperscript{33}全城的人都聚集在門前。\textsuperscript{34}耶穌治好了許多害各樣病的人，又趕出許多鬼，不許鬼說話，因為鬼認識他。
+
+> \textsuperscript{35}次日早晨，天未亮的時候，耶穌起來，到曠野地方去，在那裏禱告。\textsuperscript{36}西門和同伴出去找他，\textsuperscript{37}找到了就對他說：「眾人都在找你！」\textsuperscript{38}耶穌對他們說：\jesus{「讓我們往別處去，到鄰近的鄉村，我也好在那裏傳道，因為我是為這事出來的。」}\textsuperscript{39}於是他走遍全加利利，在他們的會堂傳道，並且趕鬼。
+
+> \textsuperscript{40}有一個痲瘋病人來求耶穌，向他跪下，說：「你若肯，你能使我潔淨。」\textsuperscript{41}耶穌動了慈心，就伸手摸他，說：\jesus{「我肯，你潔淨了吧！」}\textsuperscript{42}痲瘋病立刻離開他，他就潔淨了。\textsuperscript{43}耶穌嚴嚴地叮囑他，立刻打發他走，\textsuperscript{44}對他說：\jesus{「你要注意，千萬不可告訴任何人，只要去，讓祭司為你檢查，又因為你已經潔淨，獻上摩西所吩咐的祭物，作為證據給眾人看。」}\textsuperscript{45}那人出去，倒說許多的話，把這件事傳揚開了，使耶穌不能再公開進城，只好留在外邊曠野地方，人從各處都到他跟前來。
+
+### English — ESV
+
+> \textsuperscript{14}Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, \textsuperscript{15}and saying, \jesus{"The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel."}
+
+> \textsuperscript{16}Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea, for they were fishermen. \textsuperscript{17}And Jesus said to them, \jesus{"Follow me, and I will make you become fishers of men."} \textsuperscript{18}And immediately they left their nets and followed him. \textsuperscript{19}And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets. \textsuperscript{20}And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him.
+
+> \textsuperscript{21}And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. \textsuperscript{22}And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes. \textsuperscript{23}And immediately there was in their synagogue a man with an unclean spirit. And he cried out, \textsuperscript{24}"What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God." \textsuperscript{25}But Jesus rebuked him, saying, \jesus{"Be silent, and come out of him!"} \textsuperscript{26}And the unclean spirit, convulsing him and crying out with a loud voice, came out of him. \textsuperscript{27}And they were all amazed, so that they questioned among themselves, saying, "What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him." \textsuperscript{28}And at once his fame spread everywhere throughout all the surrounding region of Galilee.
+
+> \textsuperscript{29}And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. \textsuperscript{30}Now Simon's mother-in-law lay ill with a fever, and immediately they told him about her. \textsuperscript{31}And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them. \textsuperscript{32}That evening at sundown they brought to him all who were sick or oppressed by demons. \textsuperscript{33}And the whole city was gathered together at the door. \textsuperscript{34}And he healed many who were sick with various diseases, and cast out many demons. And he would not permit the demons to speak, because they knew him.
+
+> \textsuperscript{35}And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed. \textsuperscript{36}And Simon and those who were with him searched for him, \textsuperscript{37}and they found him and said to him, "Everyone is looking for you." \textsuperscript{38}And he said to them, \jesus{"Let us go on to the next towns, that I may preach there also, for that is why I came out."} \textsuperscript{39}And he went throughout all Galilee, preaching in their synagogues and casting out demons.
+
+> \textsuperscript{40}And a leper came to him, imploring him, and kneeling said to him, "If you will, you can make me clean." \textsuperscript{41}Moved with pity, he stretched out his hand and touched him and said to him, \jesus{"I will; be clean."} \textsuperscript{42}And immediately the leprosy left him, and he was made clean. \textsuperscript{43}And Jesus sternly charged him and sent him away at once, \textsuperscript{44}and said to him, \jesus{"See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them."} \textsuperscript{45}But he went out and began to talk freely about it, and to spread the news, so that Jesus could no longer openly enter a town, but was out in desolate places, and people were coming to him from every quarter.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+「約翰下監以後」——馬可用一句附屬子句，就把施洗約翰的下場與耶穌事工的開始銜接起來（約翰的死要到6:14-29才詳述）。這個銜接本身帶著警示：先鋒下監，正是接棒者出場的時刻；為神說話，從一開始就伴隨著代價。迦百農是加利利海西北岸的漁業重鎮，位於通往大馬士革的商道上，考古證實此地確有一世紀會堂遺址（現存的白色石灰岩會堂建於較晚，但座落在黑玄武岩的一世紀會堂地基之上），符合馬可的地理描述。
+
+### 文學結構
+
+這一整段（1:14-45）由五個場景組成，馬可用「立刻」（*euthys*）將它們串成一氣呵成的敘事鏈：呼召門徒（立刻捨網）、會堂趕鬼（立刻傳開名聲）、治病（立刻退燒）、曠野禱告（打斷忙碌的節奏）、潔淨痲瘋病人（立刻潔淨）。這種緊湊的節奏本身就是一個要我們領受的宣告：神的國「近了」不是一句抽象的宣告，而是具體地、一件接一件地在拿撒勒人耶穌的言行中發生。值得注意的是，35-39節的禱告插曲，是這整段唯一「慢下來」的地方——馬可用這個對比告訴讀者：外在事奉的節奏雖然急促，內在與父相交的節奏卻不能省略。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *euthys* | euthys | 立刻、隨即 | 本段出現8次以上（18, 20, 21, 23, 28, 29, 30, 31, 42, 43節），馬可招牌用詞 |
+| *exousia* | exousia | 權柄 | 22, 27節，與文士的教導方式（引經據典）形成對比 |
+| *splanchnistheis* | splanchnistheis | 動了慈心 | 字面指「內臟被翻攪」，是新約中形容憐憫最強烈的詞彙之一 |
+| *katharisthēti* | katharisthēti | 潔淨了吧 | 命令式，耶穌一句話直接成就痲瘋的潔淨 |
+| *ērxato kēryssein* | ērxato kēryssein | 開始傳講 | 45節，痲瘋病人「開始傳講」，與耶穌自己「宣講神的福音」（14節）用了同一組詞根，形成反諷：病人該噤聲卻大肆宣揚 |
+
+### 「動了慈心」(splanchnistheis) 的分量
+
+這個詞的字根 *splanchna* 指人的內臟，是希伯來文化中情感最深處的所在（相當於中文說「心腸」）。耶穌面對痲瘋病人時，不是禮貌性的同情，而是整個人被憐憫翻攪——這解釋了祂為何甘願打破常規，親手觸摸一個按律法「不潔淨」、理當被隔離的人。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 神國近了：宣告的迫切性 (The Kingdom Has Drawn Near)
+
+「日期滿了」（*peplērōtai ho kairos*）宣告：舊約所有的等候，如今在時間裏走到了成熟的一刻。「悔改，信福音」是唯一恰當的回應——不是先悔改、後來才信，而是同一個轉向：離開舊的效忠對象，投向這好消息的內容。
+
+### 2. 呼召帶著權柄，回應毫不猶疑 (Authoritative Call, Immediate Response)
+
+耶穌對漁夫說「來跟從我」，沒有解釋、沒有辯論，漁夫卻「立刻捨了網」。這種毫不猶疑的順服，本身就是對呼召者身分的無聲見證——唯有神自己的呼召，才配得這樣的回應。
+
+### 3. 教訓與趕鬼同顯權柄 (Authority in Word and Deed Alike)
+
+文士的教導引用拉比傳統為依據；耶穌的教導卻「像有權柄的人」——祂的話語本身就是權柄的來源。緊接著趕鬼一幕印證了這一點：污靈不必經過任何咒語或儀式，一句斥責就順服退去。
+
+### 4. 醫治伴隨服事，不止於恢復 (Healing unto Service, Not Mere Restoration)
+
+彼得岳母得醫治後「就服事他們」——這細節容易被忽略，卻點出馬可對服事的領受：蒙恩的目的，是要進入服事，而不只是恢復個人的舒適。
+
+### 5. 禱告優先於群眾的需要 (Prayer Precedes the Crowd's Demands)
+
+眾人聲勢浩大地尋找耶穌，祂卻已經退到曠野禱告，並且以此為據，決定下一步的方向（「讓我們往別處去」）——事奉的節奏由與父的交通決定，而非群眾的期待或聲量決定。
+
+### 6. 觸摸不潔淨者，反使不潔淨變潔淨 (Touching the Unclean Reverses Contagion)
+
+按摩西律法，觸摸痲瘋病人會使觸摸者染上禮儀上的不潔（利13-14章）。耶穌伸手觸摸，潔淨卻沒有反被玷污，反而是病人立刻潔淨——這預表了福音的邏輯：基督親自接觸罪人的污穢，帶來的不是祂被玷污，而是罪人被潔淨。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到呼召漁夫，屈梭多模指出這幾位門徒的信心尤其可貴：「他們尚未見過一個神蹟，就已經相信了如此浩大的應許」，且他們蒙召時正在工作最緊要的時刻（撒網之際），卻毫不遲延地撇下一切。論到潔淨痲瘋病人，他指出耶穌「伸手摸他」是特意值得留心之舉——「祂的手並沒有因痲瘋而變得不潔淨，反倒是痲瘋的身體因祂聖潔的手而變得潔淨」，藉此顯明祂不是在律法之下、而是在律法之上的那一位。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 14 (on Matt 4:18-22) and Homily 25 (on Matt 8:1-4), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到呼召門徒，加爾文指出：「人在世上漂流，如同在浩大而動盪的海洋中，直到被福音聚集起來」；門徒毫不猶疑的順服，見證了「主所要引導、吸引歸向自己的人，內心已被祂的靈感動，因而順從祂的聲音」。論到彼得岳母的醫治與其後的服事，加爾文特別留意馬可記載「只有四個門徒隨行」的細節，並指出耶穌其後退到曠野禱告，是因為「祂必須在短時間內走遍猶太全地，如同用號角的聲音四面喚醒眾人的心，使他們聽從福音」。論到痲瘋病人，加爾文寫道：「他對基督的能力深信不疑，毫不懷疑基督有能力潔淨痲瘋」，而耶穌「伸出手來，正是祂無限恩典與良善的表達與記號」；論到45節耶穌反被傳揚而不得再公開進城，加爾文解釋耶穌本意是「為要有更充分、更自由的機會教導人」，「祂希望眾人更留心於道，而非留心於神蹟」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到呼召門徒的策略，麥克阿瑟指出耶穌事工策略的三個要素：「靈魂的聖潔、信息的簡明、以及接班人的甄選」；門徒「立刻捨了網，跟從了他」，正顯明「這裏沒有複雜的信息」。論到會堂趕鬼，他強調鬼魔對耶穌身分的認識遠超常人：「這些鬼魔知道祂是誰——他們自受造之時就認識祂了」，而耶穌的權柄是「宇宙性的權柄，超越人的權柄，超越這短暫世界的權柄」；祂命令鬼魔，「沒有對話、沒有談判、沒有公式、沒有禱告儀式——純粹的權柄」。論到醫治與趕鬼的高潮，他指出：「神只有一位兒子，而祂是一位傳道人。這正是祂來的目的——為要傳道」，「醫治大爆發的目的不是要提供健康，而是要印證真實的福音與真實的彌賽亞」。
+> — John MacArthur, *Jesus' Strategy for Effective Ministry* (41-4), *Cosmic Authority* (41-5), *Kingdom Power* (41-6), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+摩根論到呼召的話語「來跟從我，我要叫你們得人如得魚一樣」，指出耶穌總是按著聽眾的處境調整祂呼召的意象——對漁夫用打魚的圖畫，對其他人則用「莊稼已經熟了」的農務圖畫。論到會堂裏的教導，他強調「他們驚訝，因為祂教導他們像有權柄的人，不像文士」——這權柄的根源，「乃是絕對完全的一位人，藉著祂所說出的赤裸裸、永恆的真理本身所具有的權柄」，而非源於教導的方式或職位。論到曠野禱告，摩根指出這段與父的交通，正是耶穌隨後展開更廣泛加利利事工的裝備所在。
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：呼召門徒、醫病趕鬼 (Ask Elder Wong)
+
+**精義一句話**：「日期滿了，神的國近了，你們要悔改，信福音」——其後每一個場景（呼召、趕鬼、醫治、禱告、潔淨痲瘋）都是這句宣告的具體示範；而僕人的忙碌，源自僕人與父不間斷的相交，不是靠工作證明自己。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一整段最關鍵的一句話是15節。其後每一個動作，都只是把「神的國近了」這句抽象宣告，活生生地演給你看。如果拿掉15節，其餘的敘事還說得通嗎？
+- **彼得、安得烈、雅各、約翰，沒有看見一件神蹟，就「立刻」捨網跟從**——這對「信心先於證據」說明了什麼？
+- **耶穌在眾人聲勢浩大地尋找祂的時候，卻已經在曠野禱告**——這對你安排「事奉」與「安靜親近神」的優先次序，有什麼挑戰？
+- **痲瘋病人被醫治後，耶穌吩咐他不要張揚，他卻大肆宣揚**——你自己蒙恩之後，是選擇順服的安靜見證，還是難以自制的宣揚？
+
+**整本聖經的連結**：馬可全書近四十次使用「立刻」（*euthys*），本段就佔了將近四分之一——這種急促的敘事節奏，正是「神的國近了」的文學實現。與此相對，35節「天未亮」耶穌卻悄悄退去禱告，呼應詩篇5:3「耶和華啊，早晨你必聽我的聲音」——僕人基督的清晨禱告，是祂一切公開行動的根源。另一條線索：利未記13-14章規定痲瘋病人必須與人隔離、被判定為「不潔淨」，耶穌卻主動伸手觸摸，潔淨沒有被玷污，反而使病人潔淨——這條線索一直延伸到馬可福音5章血漏婦人摸耶穌衣裳繸子的同一個邏輯，也預表了福音的核心：基督親自「成為罪」（林後5:21），為要使罪人得潔淨，自己卻毫不被玷污。
+
+**讓話語住在裡面**：這個時代崇尚「不停產出」，連軸轉的行程表被視為成功的證明。但馬可筆下最忙碌的一天，正中央卻是一段「天未亮，退到無人之處」的沉默。默想：我的服事有沒有先經過與神的交通，還是純粹被群眾的需要牽著走？今天的實踐：主動接觸一位在你生活圈中被邊緣化、被視為「不潔淨」的人，用具體的行動而非距離回應他。
+
+**你看見耶穌了嗎**：在呼召的權柄裏、在趕鬼醫病的大能裏、在天未亮獨自禱告的身影裏，你看見的，是那位事奉節奏由與父的交通決定、而非群眾聲量決定的僕人基督——祂觸摸不潔淨的，不是被玷污，而是使人潔淨。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **馬可的「立刻」對華人信徒**：僕人行動迅速、不拖延——這對容易「三思而後行」到遲遲不行動的華人信徒文化，是一種挑戰。
+- **1:17「來跟從我」**：呼召的簡潔，沒有冗長討論——對比華人文化裏決策前常需的層層請示與商議，耶穌的呼召直接訴諸當下的回應。
+- **1:35 即使最忙也要禱告**：對華人繁忙生活的提醒——「忙到沒有時間禱告」往往正是最需要禱告的警訊。
+- **1:41「動了慈心」**：慈心是基督服事的核心動力，不是效率或成果。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*I Have Decided to Follow Jesus*（我已決定跟從耶穌）
+
+> I have decided to follow Jesus; I have decided to follow Jesus;
+> I have decided to follow Jesus; no turning back, no turning back.
+>
+> — Traditional (adapted from an Assamese folk hymn, India, 19th century)
+
+**詩篇**：詩篇 103:1-5
+
+> 我的心哪，你要稱頌耶和華！在我裏面的一切，都要稱頌他的聖名！
+> 我的心哪，你要稱頌耶和華，不可忘記他的一切恩惠！
+> 他赦免你的一切罪孽，醫治你的一切疾病。
+> 他救贖你的命脫離死亡，以仁愛和憐憫救贖你。
+
+---
+
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+利未記13-14章規定，觸摸痲瘋病人會使觸摸者染上禮儀上的不潔——這是舊約律法保護群體聖潔的機制。耶穌伸手觸摸痲瘋病人，卻沒有被玷污，反而是病人立刻潔淨。這條線索一路延伸到馬可福音5章血漏婦人摸耶穌衣裳繸子的同一個邏輯，也預表了哥林多後書5:21「神使那無罪的，替我們成為罪，好叫我們在他裏面成為神的義」——福音的核心邏輯，從第一章就已經示範出來：基督親自接觸罪人的污穢，帶來的不是祂被玷污，而是罪人被潔淨。
+
+### 提問式對話 (Let the Reader Speak)
+
+先問：門徒「立刻」捨網跟從，沒有看見一個神蹟——你覺得是什麼讓他們如此毫不猶疑？
+再問：耶穌在眾人聲勢浩大地尋找祂的時候，卻已經退到曠野禱告——如果你是門徒，你會不會催促祂「快回去，眾人都在等」？
+再問：你今天的行程表裡，禱告是排在事情做完之後的獎賞，還是決定事情怎麼做的起點？
+
+### 活在今天．AI時代 (Living It Today)
+
+這個時代崇尚「不停產出」，行事曆排得密密麻麻被當作認真生活的證明。但馬可筆下耶穌最忙碌的一天，正中央卻是一段「天未亮，退到無人之處」的沉默。連線的世界最缺的，往往不是更多的行動，而是像耶穌一樣，甘願先斷線、後行動。
+
+### 今天的祭壇 (Today's Altar)
+
+主動接觸一位在你生活圈中被邊緣化、被視為「不潔淨」或「麻煩」的人，用具體的行動而非保持距離回應他——一通電話、一次同桌吃飯、一句主動的問候。
+
+## 黃長老精義 (The Distilled Key)
+
+僕人的忙碌，源自僕人與父不間斷的相交——祂的權柄，不是靠工作證明，而是靠禱告支撐。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **毫不猶疑的順服**：門徒「立刻」捨網跟從，沒有猶豫，沒有討價還價。今天神呼召你做的某件事，你是否也能給出這樣毫不猶疑的回應？
+
+2. **權柄的來源**：耶穌的教導「像有權柄的人」——這權柄源自祂自己，而非引用他人。你今天引導他人（家庭、職場、教會）時，是仰賴自己的角色地位，還是仰賴神話語本身的權柄？
+
+3. **禱告先於忙碌**：耶穌在眾人聲勢浩大的尋找中，仍優先選擇曠野的禱告。你今天的行程表裏，有沒有為「與神獨處」留出不可被擠壓的空間？
+
+4. **觸摸不潔淨者**：耶穌主動伸手摸痲瘋病人。你生命中有沒有一位「不潔淨」、被排斥的人，是你被呼召去主動接觸、而非保持距離的？
+
+### 禱告回應
+
+> 主啊，感謝你在忙碌的服事中，仍優先與父親密相交。
+> 求你賜我像門徒一樣毫不猶疑的順服，也賜我像你一樣，天未亮就起來親近你的心志。
+> 求你使用我，成為觸摸「不潔淨」之人、傳遞你潔淨恩典的器皿。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「日期滿了，神的國近了」——這句宣告如何理解？神的國「近了」與「已經來到」有何不同？
+
+2. 門徒毫不猶疑地捨網跟從，你認為這反映了耶穌呼召本身怎樣的權柄與吸引力？
+
+3. 會堂趕鬼一幕中，污靈準確地說出耶穌的身分（「神的聖者」），但耶穌卻斥責牠不可作聲——這對「認識耶穌」與「順服耶穌」之間的分別，有什麼提醒？
+
+4. 耶穌在群眾尋找祂的高峰期選擇退到曠野禱告，並以此決定下一步的方向。這對今天教會或個人事奉中「以群眾需求」還是「以神旨意」為優先，有何挑戰？
+
+5. 痲瘋病人蒙潔淨後違背耶穌的吩咐，四處宣揚，以致耶穌的行動反而受限。這對「見證」與「順服」之間可能產生的張力，有什麼提醒？
+
+---
+
+## 與其他經文的關聯
+
+- **馬太福音 4:18-22; 8:2-4, 14-17**——平行記載，馬太多記一句「你若肯，必能叫我潔淨了」的細節鋪陳
+- **路加福音 4:31-5:16**——路加把呼召彼得（5:1-11）安排在治好岳母之後，順序與馬可不同，值得對讀
+- **利未記 13-14章**——痲瘋病的潔淨條例，正是耶穌吩咐痲瘋病人「獻上摩西所吩咐的祭物」的背景
+- **以賽亞書 61:1**——「主耶和華的靈在我身上……差遣我醫好傷心的人」，耶穌宣講「神的國近了」正是這使命的展開
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第二章：五次衝突 (Five Conflicts)
+
+馬可福音 2:1-3:6
+
+**經文核對**：[ai-eden.com/bible/mark/2](https://www.ai-eden.com/bible/mark/2?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+服事的高峰過後，反對的暗流開始浮現。馬可精心排列五個衝突場景——赦罪的權柄、與罪人同席、禁食的問題、安息日摘穗、安息日治病——每一場衝突都圍繞著同一個核心問題：這人到底憑什麼權柄，把神的律法與傳統重新定義？五個場景的張力層層升級，從文士心裏的暗自議論，到法利賽人出去與希律黨商議「怎樣除掉耶穌」（3:6）——服事之路的盡頭，早已埋下十字架的伏筆。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Amazing Grace**
+> *John Newton, 1779*
+>
+> Amazing grace! how sweet the sound,
+> that saved a wretch like me!
+> I once was lost, but now am found,
+> was blind, but now I see.
+>
+> 奇異恩典，何等甘甜，我罪已得赦免；
+> 前我失喪，今被尋回，瞎眼今得看見。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**治好癱子**
+
+> \textsuperscript{1}過了些日子，耶穌又進了迦百農。人聽說他在屋裏，\textsuperscript{2}於是許多人聚集，甚至連門前都沒有空地；耶穌就對他們講道。\textsuperscript{3}有人帶著一個癱子來見耶穌，是由四個人抬來的；\textsuperscript{4}因為人多，無法抬到耶穌跟前，就把他所在那房子的屋頂拆了，既拆通了，就把癱子連所躺臥的褥子都縋下去。\textsuperscript{5}耶穌見他們的信心，就對癱子說：\jesus{「孩子，你的罪赦了。」}\textsuperscript{6}有幾個文士坐在那裏，心裏議論，說：\textsuperscript{7}「這個人為甚麼這樣說呢？他說褻瀆的話了。除了神一位之外，誰能赦罪呢？」\textsuperscript{8}耶穌心中立刻知道他們心裏這樣議論，就說：\jesus{「你們心裏為甚麼這樣議論呢？\textsuperscript{9}對癱子說『你的罪赦了』，或說『起來！拿你的褥子行走』，哪一樣容易呢？\textsuperscript{10}但要讓你們知道，人子在地上有赦罪的權柄。」}就對癱子說：\textsuperscript{11}\jesus{「我吩咐你，起來！拿你的褥子回家去吧。」}\textsuperscript{12}那人就起來，立刻拿著褥子，當著眾人面前出去了，以致眾人都驚奇，歸榮耀給神，說：「我們從來沒有見過這樣的事！」
+
+**呼召利未**
+
+> \textsuperscript{13}耶穌又到海邊去，眾人都到他跟前來，他就教導他們。\textsuperscript{14}耶穌往前走，看見亞勒腓的兒子利未在稅關坐著，就對他說：\jesus{「來跟從我！」}他就起來跟從耶穌。\textsuperscript{15}耶穌在利未家裏坐席的時候，有好些稅吏和罪人與耶穌和他的門徒一同坐席，因為有很多人也跟隨耶穌。\textsuperscript{16}法利賽人中的文士看見耶穌與罪人和稅吏一同吃飯，就對他的門徒說：「他與稅吏和罪人一同吃飯嗎？」\textsuperscript{17}耶穌聽見，就對他們說：\jesus{「健康的人用不著醫生，有病的人才用得著。我不是來召義人，而是召罪人。」}
+
+**禁食的問題**
+
+> \textsuperscript{18}那時，約翰的門徒和法利賽人都禁食。他們來問耶穌說：「約翰的門徒和法利賽人的門徒禁食，你的門徒卻不禁食，這是為甚麼呢？」\textsuperscript{19}耶穌對他們說：\jesus{「新郎和賓客在一起的時候，賓客怎麼能禁食呢？只要新郎和他們在一起，他們不能禁食。\textsuperscript{20}但日子將到，新郎要被帶走，那日他們就要禁食了。\textsuperscript{21}沒有人把新布縫在舊衣服上，若是這樣，所補上的新布會撕破舊衣服，裂口就更大了。\textsuperscript{22}也沒有人把新酒裝在舊皮袋裏，若是這樣，酒會脹破皮袋，酒和皮袋都糟蹋了。相反地，新酒要裝在新皮袋裏。」}
+
+**在安息日摘麥穗**
+
+> \textsuperscript{23}有一個安息日，耶穌從麥田經過。他的門徒走路的時候，摘起麥穗來。\textsuperscript{24}法利賽人對耶穌說：「看哪！他們為甚麼做安息日不合法的事呢？」\textsuperscript{25}耶穌對他們說：\jesus{「大衛和跟從他的人飢餓需要食物時所做的事，你們沒有念過嗎？\textsuperscript{26}他在亞比亞他作大祭司的時候，怎麼進了神的居所，吃了供餅，又給跟從他的人吃呢？這餅除了祭司以外，人都不可以吃。」}\textsuperscript{27}他又對他們說：\jesus{「安息日是為人設立的，人不是為安息日設立的。\textsuperscript{28}所以，人子也是安息日的主。」}
+
+**治好萎縮了的手**
+
+> \textsuperscript{1}耶穌又進了會堂，在那裏有一個人，他的一隻手萎縮了。\textsuperscript{2}眾人為了要控告耶穌，就窺探他會不會在安息日醫治那人。\textsuperscript{3}耶穌對那手萎縮了的人說：\jesus{「起來站在當中！」}\textsuperscript{4}他又問眾人：\jesus{「在安息日行善行惡，救命害命，哪樣是合法的呢？」}他們都不作聲。\textsuperscript{5}耶穌怒目環視他們，因他們的心剛硬而憂傷，就對那人說：\jesus{「伸出手來！」}他把手一伸，手就復原了。\textsuperscript{6}法利賽人出去，立刻同希律一黨的人商議怎樣除掉耶穌。
+
+### English — ESV
+
+> \textsuperscript{1}And when he returned to Capernaum after some days, it was reported that he was at home. \textsuperscript{2}And many were gathered together, so that there was no more room, not even at the door. And he was preaching the word to them. \textsuperscript{3}And they came, bringing to him a paralytic carried by four men. \textsuperscript{4}And when they could not get near him because of the crowd, they removed the roof above him, and when they had made an opening, they let down the bed on which the paralytic lay. \textsuperscript{5}And when Jesus saw their faith, he said to the paralytic, \jesus{"Son, your sins are forgiven."} \textsuperscript{6}Now some of the scribes were sitting there, questioning in their hearts, \textsuperscript{7}"Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?" \textsuperscript{8}And immediately Jesus, perceiving in his spirit that they thus questioned within themselves, said to them, \jesus{"Why do you question these things in your hearts? \textsuperscript{9}Which is easier, to say to the paralytic, 'Your sins are forgiven,' or to say, 'Rise, take up your bed and walk'? \textsuperscript{10}But that you may know that the Son of Man has authority on earth to forgive sins"}—he said to the paralytic— \textsuperscript{11}\jesus{"I say to you, rise, pick up your bed, and go home."} \textsuperscript{12}And he rose and immediately picked up his bed and went out before them all, so that they were all amazed and glorified God, saying, "We never saw anything like this!"
+
+> \textsuperscript{13}He went out again beside the sea, and all the crowd was coming to him, and he was teaching them. \textsuperscript{14}And as he passed by, he saw Levi the son of Alphaeus sitting at the tax booth, and he said to him, \jesus{"Follow me."} And he rose and followed him. \textsuperscript{15}And as he reclined at table in his house, many tax collectors and sinners were reclining with Jesus and his disciples, for there were many who followed him. \textsuperscript{16}And the scribes of the Pharisees, when they saw that he was eating with sinners and tax collectors, said to his disciples, "Why does he eat with tax collectors and sinners?" \textsuperscript{17}And when Jesus heard it, he said to them, \jesus{"Those who are well have no need of a physician, but those who are sick. I came not to call the righteous, but sinners."}
+
+> \textsuperscript{18}Now John's disciples and the Pharisees were fasting. And people came and said to him, "Why do John's disciples and the disciples of the Pharisees fast, but your disciples do not fast?" \textsuperscript{19}And Jesus said to them, \jesus{"Can the wedding guests fast while the bridegroom is with them? As long as they have the bridegroom with them, they cannot fast. \textsuperscript{20}The days will come when the bridegroom is taken away from them, and then they will fast in that day. \textsuperscript{21}No one sews a piece of unshrunk cloth on an old garment. If he does, the patch tears away from it, the new from the old, and a worse tear is made. \textsuperscript{22}And no one puts new wine into old wineskins. If he does, the wine will burst the skins—and the wine is destroyed, and so are the skins. But new wine is for fresh wineskins."}
+
+> \textsuperscript{23}One Sabbath he was going through the grainfields, and as they made their way, his disciples began to pluck heads of grain. \textsuperscript{24}And the Pharisees were saying to him, "Look, why are they doing what is not lawful on the Sabbath?" \textsuperscript{25}And he said to them, \jesus{"Have you never read what David did, when he was in need and was hungry, he and those who were with him: \textsuperscript{26}how he entered the house of God, in the time of Abiathar the high priest, and ate the bread of the Presence, which it is not lawful for any but the priests to eat, and also gave it to those who were with him?"} \textsuperscript{27}And he said to them, \jesus{"The Sabbath was made for man, not man for the Sabbath. \textsuperscript{28}So the Son of Man is lord even of the Sabbath."}
+
+> \textsuperscript{1}Again he entered the synagogue, and a man was there with a withered hand. \textsuperscript{2}And they watched Jesus, to see whether he would heal him on the Sabbath, so that they might accuse him. \textsuperscript{3}And he said to the man with the withered hand, \jesus{"Come here."} \textsuperscript{4}And he said to them, \jesus{"Is it lawful on the Sabbath to do good or to do harm, to save life or to kill?"} But they were silent. \textsuperscript{5}And he looked around at them with anger, grieved at their hardness of heart, and said to the man, \jesus{"Stretch out your hand."} He stretched it out, and his hand was restored. \textsuperscript{6}The Pharisees went out and immediately held counsel with the Herodians against him, how to destroy him.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+迦百農是耶穌加利利事工的根據地，房屋多為平頂泥磚結構，屋頂可由外部樓梯直接上下——四人拆開屋頂縋下癱子，在建築構造上完全可行，且反映出他們何等迫切的信心。稅吏在猶太社會中因為羅馬政權收稅、又常敲詐勒索而被視為罪人的同類，與稅吏同席被視為極大的禮儀與道德污點。法利賽人與希律黨向來政治立場對立（前者反對羅馬統治，後者依附希律王朝），如今卻因反對耶穌而破天荒地聯手商議「怎樣除掉他」（3:6）——這個不尋常的政治聯盟，本身就是耶穌所造成之衝擊有多大的明證。
+
+### 文學結構：五個場景，一條升高的張力線
+
+這五個衝突場景在結構上刻意排列：第一（治癱子）與第五（治萎縮的手）都以醫治神蹟為場景，形成首尾呼應的框架；中間三個場景（呼召利未、禁食問題、摘麥穗）則層層深入律法與傳統的核心議題。反對者的態度也隨場景遞進而升級：從「心裏議論」（6節，未說出口），到「對門徒發問」（16, 18節，間接質疑），到「直接對耶穌發問」（24節），最終到「窺探定罪、商議除滅」（3:2, 6節）——馬可用這條清晰的升溫曲線，鋪陳出通往十字架之路的第一段伏筆。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *apheōntai* | apheōntai | 罪赦了 | 5節，完成式被動語態，強調赦免已經完成且持續有效 |
+| *blasphēmei* | blasphēmei | 說褻瀆的話 | 7節，文士的指控——唯有神能赦罪，耶穌卻宣告自己有此權柄 |
+| *ho huios tou anthrōpou* | ho huios tou anthrōpou | 人子 | 10, 28節，取自但以理書7:13-14，兼具卑微人性與神聖權柄的雙重意涵 |
+| *hamartōloi* | hamartōloi | 罪人 | 15-17節，法利賽人眼中的道德棄民類別 |
+| *nymphios* | nymphios | 新郎 | 19-20節，耶穌以此自稱，隱含彌賽亞婚宴的意象（參何2:19-20） |
+| *kyrios...tou sabbatou* | kyrios...tou sabbatou | 安息日的主 | 28節，全章的高潮宣告 |
+
+### 「人子」稱號的雙重分量
+
+「人子」（*ho huios tou anthrōpou*）一詞取自但以理書7:13-14異象中「有一位像人子的，駕著天雲而來」，被賜「權柄、榮耀、國度」，永不廢去。耶穌選用這個稱號自稱，看似謙卑（「人」的兒子），實則宣告自己正是那位要來執掌永遠國度、擁有神聖權柄的一位——祂在2:10、2:28兩次使用這稱號，分別宣告「赦罪的權柄」與「安息日的主權」，正是但以理書異象在地上的具體展現。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 唯獨神能赦罪，耶穌卻行使這權柄 (Only God Forgives Sin—Yet Jesus Does)
+
+文士的邏輯無懈可擊：「除了神一位之外，誰能赦罪呢？」耶穌沒有否認這個前提，反而用醫治癱子的神蹟，證明「人子在地上有赦罪的權柄」——祂等於公開宣告自己的神性。
+
+### 2. 呼召的對象是罪人，不是義人 (Christ Calls Sinners, Not the Righteous)
+
+「我不是來召義人，而是召罪人」——這不是說世上真有不需要醫治的「義人」，而是諷刺法利賽人自以為義的盲點：唯有承認自己有病的人，才能來到醫生面前。
+
+### 3. 新酒需要新皮袋：福音帶來全新的秩序 (New Wine Requires New Wineskins)
+
+耶穌的到來不是為舊有的宗教體系打補丁，而是開啟一個全新的時代——祂的同在本身就是喜慶的理由，禁食的意義只有在「新郎離去」之後才顯明。
+
+### 4. 安息日是為人設立的祝福，不是捆綁人的重擔 (The Sabbath Serves Man, Not the Reverse)
+
+大衛在急難中吃陳設餅的先例，證明律法的施行必須考量人的實際需要——安息日的本意是賜生命、賜安息的祝福，而非變成阻擋憐憫與生命的規條。
+
+### 5. 人子是安息日的主 (The Son of Man Is Lord of the Sabbath)
+
+這是全章的高潮宣告：既然安息日的設立本為服事人，而耶穌又是那賜下安息日律法的主，祂自然有權柄定義安息日真正的意義與用途。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到癱子的醫治（馬太平行經文），屈梭多模寫道：「因為靈魂比身體寶貴多少，除去罪過就比這醫治更大多少倍；只是因為前者不可見，後者顯而易見，我便加上這較次的一件，使它雖是較低之事，卻更容易被感官察覺」；論到耶穌宣告赦罪的權柄：「你看祂何等不願被視為與父不相等？」論到呼召利未與禁食問題，他引證：「耶穌從那裏往前走，看見一個人坐在稅關上，名叫馬太，就對他說：跟從我來」；論到新郎的比喻：「新郎的賓客豈能哀哭，只要新郎和他們同在？」論到摘麥穗，他寫道：「祂既預知這一切，為何仍容讓他們這樣行，除非是祂的旨意，要讓安息日被打破？」論到萎縮的手，他指出：「凡不見有何偉大善行成就之處，他們便安靜；但凡見有人得痊癒，他們便狂怒、自我折磨」；「他們豈不是比祭司更大嗎？因為聖殿的主，正在此處；是真體，而非預表。」
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 29 (on Matt 9:1-8), Homily 30 (on Matt 9:9-17), Homily 39 (on Matt 12:1-8), and Homily 40 (on Matt 12:9-14), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到癱子得赦罪，加爾文寫道：「毫無疑問，唯獨神有權柄與能力赦免罪——但他們錯就錯在，斷定這權柄不屬於基督，因為祂正是道成肉身、顯現於世的神」；「基督藉這些話宣告，祂不僅是這恩典的僕人與見證人，更是這恩典的創始者」。論到呼召利未，他寫道：「在馬太被揀選出那個地方——不僅被接納進入基督的家，甚至蒙召擔任使徒的職分——我們看見神恩典何等顯著的例證」；「基督恩典之於我們毫無益處，除非我們自覺有罪、在重擔之下呻吟，謙卑地就近祂」。論到摘麥穗，他總結：「由此可知，律法的禮儀部分，並不因不敬虔而被違犯，只要沒有妨礙敬虔」；「若大衛企圖行違背律法之事，基督引他為例，便是徒然」。論到萎縮的手，他指出：「當神設立安息日，祂並非為自己立法，也並非約束自己不得在安息日行事，一如祂在其他日子那樣，只要祂認為適宜」；「馬可解釋祂忿怒的原因，是因祂為他們心裏的盲目而憂傷」；「人的價值既遠超過一隻羊，我們就更有理由幫助人的緣故」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到癱子的醫治，麥克阿瑟指出：「每個靈魂最大的需要，就是神聖的赦罪；基督信仰最大的益處，就是這完全赦免的供應」；「祂要麼是那能赦罪的一位，要麼不是。若能，祂就是神；若不能，祂就是說謊者，聲稱能做自己做不到的事，是個騙子——沒有中間地帶」。論到呼召利未，他指出：「祂稱義了不敬虔的人。這就是福音」；「這教會，耶穌基督的教會，不是由好人組成，而是由壞人組成」。論到禁食的問題，他強調：「主耶穌基督的福音是絕對獨特、無與倫比、排他性的」；「你不能把基督的福音，倒入猶太教那陳舊、易碎、破裂、無用的舊皮袋裏」。論到摘麥穗，他指出：「祂要麼是自稱為神的那一位，要麼就是那至高的褻瀆者」；「安息日的設立，是為了安息、祝福、喜樂、憐憫，以及需要的滿足」；「我是這日子的主宰，我設計了這日子，我就是那創造者」。論到萎縮的手，他總結：「人越是虔誠，越以自己的宗教為傲，就越發抗拒恩典的福音」；「祂同時忿怒又憂傷——祂因他們的不信與拒絕而忿怒，也因隨之而來的後果而憂傷」。
+> — John MacArthur, *Jesus' Authority to Forgive Sin* (41-8), *The Scandal of Grace* (41-9), *The Matchless Distinctiveness of the Gospel* (41-10), *Jesus Is Lord of the Sabbath, Part 1 & 2* (41-11, 41-12), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+摩根將2:13-3:6視為一個整體單元，以3:6為其高潮句。論到癱子，他寫道：「在這第二個事件——癱子的事件中，同樣顯出這兩個領域：首先是聖潔，『你的罪赦了』；其次是健康，『拿起你的褥子行走』」；論到文士「拆通了屋頂」，他指出：「修訂本譯作『他們把屋頂揭開』，這譯法極易令人誤解。這個詞的力量在於，他們把房子的屋頂拆毀，撕裂了建築結構，為要把這人連同他的臥褥縋到耶穌面前」。論到呼召利未，他寫道：「我們的主接受了馬太的款待，親自成為這些人——這群被聚集的稅吏與罪人，馬太的舊友——中間真實的主人」；「祂藉此宣告，祂關心到一個地步，要來醫治這些人靈裏的疾病」。論到禁食問題，他指出：「祂立刻採用婚筵的意象，稱自己為新郎，宣告只要新郎仍與他們同在，這些人就絕不可能哀傷」；「祂隨即用布與酒袋的比喻申明這點：新布不能補在舊衣上，會撕裂它；新酒不能裝入舊皮袋，會脹破它」。論到摘麥穗，他寫道：「摘麥穗、揉搓、吃食本身並無過錯。這些人所犯的錯，如同這些人所見的，乃是門徒在耶穌的影響下，未能分辨那神聖之日與那世俗之舉」；「渴求食物是健康的記號，因此是聖潔的。凡身體所需要的，本質上都是聖潔的……安息日確實是神聖的，但它的神聖何在？它是神聖的，因為它是為人而設；人不是為它而設。它是為了人而設，為要服事他的需要」；「所以人子，那不是來受人服事、乃是來服事人的一位，正是安息日的主；安息日必須服事祂，如同祂服事人類一般，因此也必須被引導去服事人類」。論到萎縮的手，他總結：「最後，我們來看那會堂裏的場景，那不再訴諸言語、卻更加危險的敵意——因它已變得沉默；那敵意正伺機而動，窺視祂是否會醫治，好找到控告的把柄」；「祂對他們說：在安息日行善，或行惡，哪樣是合法的？救命，或是害命？……基督實際上是說，面對人的殘疾與需要，沒有中間地帶。我們若不是在他有需要時向他行善，就是向他行惡」；「祂向那人行了善，祂拯救了他。他們，即使在安息日，卻試圖加害於祂，甚至要殺害祂……他們跨過了會堂的門檻，結成不聖潔的聯盟，為要毀滅祂。天上的抉擇，從不容許任何妥協。」
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 32:1, 5
+
+> 得赦免其過、遮蓋其罪的，這人有福了！
+> 我向你陳明我的罪，不隱瞞我的惡；我說：「我要向耶和華承認我的過犯」，你就赦免我的罪惡。
+
+### 詩篇 103:2-3
+
+> 我的心哪，要稱頌耶和華！不可忘記他的一切恩惠！
+> 他赦免你的一切罪孽，醫治你的一切疾病。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Come, Ye Sinners, Poor and Needy
+
+> Come, ye sinners, poor and needy,
+> weak and wounded, sick and sore;
+> Jesus ready stands to save you,
+> full of pity, love, and power.
+>
+> 來吧罪人，貧窮困乏，軟弱受傷、滿身疾病；
+> 耶穌預備隨時拯救，滿有憐憫、愛與能力。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：五次衝突 (Ask Elder Wong)
+
+**精義一句話**：五個衝突場景反覆問同一個問題——這人到底憑什麼權柄？答案就藏在祂自己的宣告裏：「人子在地上有赦罪的權柄」「人子也是安息日的主」——祂不是在挑戰律法，而是在宣告自己就是律法的主。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：3:6「法利賽人出去，立刻同希律一黨的人商議怎樣除掉耶穌」是這一整段的收束句——五個衝突場景層層升高，最終指向十字架的伏筆。你若把這句話放在段落最前面重讀一次，會不會發現每個衝突場景都在朝這裏推進？
+- **文士的邏輯完全正確**——「除了神一位之外，誰能赦罪呢？」耶穌沒有否認這個前提，反而用醫治印證了自己的神性。這對你今天理解「合乎邏輯的反對」也可能建立在錯誤的結論上，有什麼提醒？
+- **「我不是來召義人，而是召罪人」**——法利賽人自認為「義人」，因此把自己排除在耶穌的呼召之外。你有沒有在某個時刻，因為自認為「還不錯」，而錯過了耶穌對你的呼召？
+
+**整本聖經的連結**：耶穌兩次自稱「人子」（2:10, 2:28），取自但以理書7:13-14「有一位像人子的，駕著天雲而來……得了權柄、榮耀、國度，使各方、各國、各族的人都事奉他」——這個異象原本指向末後的審判與掌權，耶穌卻在加利利的日常衝突中，親自宣告這身分已經臨到。另一條線索：耶穌自稱「新郎」，呼應何西阿書2:19-20神應許「聘你永遠歸我」的婚姻意象——舊約反覆用婚姻描繪神與百姓的盟約關係，耶穌親自應驗了這幅圖畫：祂的同在，就是婚宴已經開始的記號。
+
+**讓話語住在裡面**：法利賽人「窺探」耶穌是否會在安息日醫治，為要找把柄控告祂——這種帶著論斷眼光看人的心態，離憐憫何等遙遠。默想：我是否也曾用「窺探」的眼光看別人的軟弱，只為了證明自己是對的？今天的實踐：面對一個你原本想論斷的處境，試著先問「這是行善還是行惡、救命還是害命」，而非「這合不合規矩」。
+
+**你看見耶穌了嗎**：在赦免癱子的權柄裏、在與罪人同席的憐憫裏、在宣告自己是安息日之主的權柄裏，你看見的，是那位甘願被誤解為褻瀆者、也要親自成就赦罪與安息之工的基督——祂沒有廢掉律法，祂就是律法真正的主。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「人子在地上有赦罪的權柄」「人子也是安息日的主」——五個衝突場景反覆問同一個問題，答案都藏在這兩句宣告裏：祂不是在挑戰律法，祂就是律法的主。
+
+**貫通全經**：文士的邏輯「除了神一位之外，誰能赦罪呢」完全正確（詩130:4；賽43:25）——耶穌沒有否認這前提，反而用醫治印證了自己的神性。
+
+**無法迴避的問題**：法利賽人自認為「義人」，因此把自己排除在耶穌的呼召之外——你有沒有在某個時刻，因為自認為「還不錯」，而錯過了耶穌對你的呼召？
+
+> 「祂沒有廢掉律法，祂就是律法真正的主——安息日是為人設立的，而祂正是設立安息日的那一位。」
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **2:17 對華人教會**：不要只服事「好人」，更要走向罪人——華人教會有時因看重體面、避免沾染「壞名聲」，反而疏遠了最需要福音的人。
+- **2:27 對華人教會律法主義傾向的提醒**：規條本為服事人而設，不是要人服事規條——這對重視規矩、面子、傳統的華人信仰群體，是根本性的提醒。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Amazing Grace*（奇異恩典）——約翰·牛頓（John Newton）所作，見證那曾是「罪人」的自己，如何蒙耶穌親自尋回赦免。
+
+> Amazing grace, how sweet the sound, that saved a wretch like me;
+> I once was lost, but now am found, was blind but now I see.
+>
+> — John Newton (1779)
+
+**詩篇**：詩篇 32:1, 3, 5
+
+> 得赦免其過、遮蓋其罪的，這人有福了！
+> 我閉口不認罪的時候，因終日呻吟而骨頭枯乾。
+> 我向你陳明我的罪，不隱瞞我的惡；我說：「我要向耶和華承認我的過犯」，你就赦免我的罪惡。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **赦罪的權柄**：耶穌宣告自己有赦罪的權柄——你是否真正相信，你的罪已經被完全赦免，不需要靠自己的努力去補償或掙得？
+
+2. **呼召罪人**：「我不是來召義人，而是召罪人」——你是否曾像法利賽人一樣，因為自認還不錯，而與耶穌的恩典保持距離？
+
+3. **新酒新皮袋**：耶穌的福音需要全新的心思去承載，而非嵌入舊有的宗教框架。你的信仰生活裏，有沒有仍然被「舊皮袋」（老舊的宗教習慣、僵化的規條）捆綁的地方？
+
+4. **安息日為人而設**：你如何在忙碌的生活中，實踐安息日「為人設立」的原意——安息、恢復、與神親近，而非變成另一項必須完成的宗教義務？
+
+### 禱告回應
+
+> 主啊，感謝你有赦罪的權柄，也感謝你親自宣告我的罪已經得赦。
+> 求你光照我心中「自以為義」的角落，使我謙卑地承認自己需要你。
+> 求你更新我對安息與規條的理解，使我活出真自由，而非被儀文捆綁。
+> 求你使我像你一樣，用憐憫而非論斷的眼光看待身邊的軟弱者。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 赦罪的權柄 | 2:1-12 | 太9:1-8、路5:17-26、詩130:4 |
+| 呼召罪人 | 2:13-17 | 太9:9-13、路5:27-32、何6:6 |
+| 新酒新皮袋 | 2:18-22 | 太9:14-17、路5:33-39 |
+| 安息日的主 | 2:23-28 | 太12:1-8、路6:1-5、撒上21:1-6 |
+| 治好萎縮的手 | 3:1-6 | 太12:9-14、路6:6-11 |
+| 人子的稱號 | 2:10, 28 | 但7:13-14、可8:31、可14:62 |
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第三章：揀選十二使徒 (Choosing the Twelve)
+
+馬可福音 3:7-35
+
+**經文核對**：[ai-eden.com/bible/mark/3](https://www.ai-eden.com/bible/mark/3?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+群眾越聚越多，多到耶穌必須預備小船才不致被擠壓；但馬可的鏡頭沒有停留在群眾的壯觀場面上，而是轉向山上——耶穌親自揀選十二個平凡人，將自己的事工託付在他們手中。緊接著，最激烈的衝突接踵而至：耶路撒冷來的文士指控祂靠鬼王趕鬼，祂自己的家人則以為祂癲狂了。馬可把「揀選」與「拒絕」並排陳列——十二個被召的，與許多拒絕祂的人，包括祂血緣上的至親。馬可要讀者看見：真正屬於基督的家人，不是靠血緣，而是靠遵行神的旨意。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Blest Be the Tie That Binds**
+> *John Fawcett, 1782*
+>
+> Blest be the tie that binds
+> our hearts in Christian love;
+> the fellowship of kindred minds
+> is like to that above.
+>
+> 何等美妙這連結，聯合心靈於基督的愛；
+> 這相通的情誼，恰如天上聖徒的相交。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{7}耶穌和門徒退到海邊去，有許多人從加利利跟隨他。\textsuperscript{8}還有許多人聽見他所做的事，就從猶太、耶路撒冷、以土買、約旦河的東邊，以及推羅和西頓的附近地方來到他那裏。\textsuperscript{9}因為人多，他吩咐門徒為他預備一隻小船，免得眾人擁擠他。\textsuperscript{10}他治好了許多人，所以凡有疾病的，都擠著要摸他。\textsuperscript{11}每當污靈看見他，就俯伏在他面前，喊著說：「你是神的兒子。」\textsuperscript{12}耶穌再三囑咐他們不要把他宣揚出去。
+
+> \textsuperscript{13}耶穌上了山，把自己所要的人召來，他們就來到他那裏。\textsuperscript{14}於是他設立十二個人，又稱他們為使徒，要他們常和自己同在，也要差他們去傳道，\textsuperscript{15}並給他們權柄趕鬼。\textsuperscript{16}他設立的十二個人有西門—耶穌又給他起名叫彼得；\textsuperscript{17}還有西庇太的兒子雅各和雅各的弟弟約翰—耶穌又給他們起名叫半尼其（就是雷子的意思）；\textsuperscript{18}又有安得烈、腓力、巴多羅買、馬太、多馬、亞勒腓的兒子雅各、達太和激進黨的西門；\textsuperscript{19}還有出賣耶穌的加略人猶大。
+
+> \textsuperscript{20}耶穌進了屋子，眾人又聚集，甚至他連飯也顧不得吃。\textsuperscript{21}耶穌的家人聽見，就出來要拉住他，因為他們說他癲狂了。\textsuperscript{22}從耶路撒冷下來的文士說：「他是被別西卜附身的」，又說：「他是靠著鬼王趕鬼的。」\textsuperscript{23}耶穌叫他們來，用比喻對他們說：\jesus{「撒但怎能趕出撒但呢？\textsuperscript{24}一國若自相紛爭，那國就立不住；\textsuperscript{25}一家若自相紛爭，那家就立不住。\textsuperscript{26}撒但若自相攻打紛爭，他就立不住，必定滅亡。\textsuperscript{27}沒有人能進壯士家裏，搶奪他的東西；除非先綁住那壯士，否則無法搶奪他的家。\textsuperscript{28}我實在告訴你們，世人一切的罪和一切褻瀆的話都可以得到赦免；\textsuperscript{29}凡褻瀆聖靈的，卻永不得赦免，而要擔當永遠的罪。」}\textsuperscript{30}因為他們說：「他是被污靈附身的。」
+
+> \textsuperscript{31}那時，耶穌的母親和他兄弟來，站在外邊，打發人去叫他。\textsuperscript{32}有許多人在耶穌周圍坐著，他們就告訴他說：「看哪！你母親、你兄弟和你姊妹在外邊找你。」\textsuperscript{33}耶穌回答他們：\jesus{「誰是我的母親？誰是我的兄弟？」}\textsuperscript{34}就環視那周圍坐著的人，說：\jesus{「看哪，我的母親，我的兄弟！\textsuperscript{35}凡遵行神旨意的人就是我的兄弟姊妹和母親。」}
+
+### English — ESV
+
+> \textsuperscript{7}Jesus withdrew with his disciples to the sea, and a great crowd followed, from Galilee and Judea \textsuperscript{8}and Jerusalem and Idumea and from beyond the Jordan and from around Tyre and Sidon. When the great crowd heard all that he was doing, they came to him. \textsuperscript{9}And he told his disciples to have a boat ready for him because of the crowd, lest they crush him, \textsuperscript{10}for he had healed many, so that all who had diseases pressed around him to touch him. \textsuperscript{11}And whenever the unclean spirits saw him, they fell down before him and cried out, "You are the Son of God." \textsuperscript{12}And he strictly ordered them not to make him known.
+
+> \textsuperscript{13}And he went up on the mountain and called to him those whom he desired, and they came to him. \textsuperscript{14}And he appointed twelve (whom he also named apostles) so that they might be with him and he might send them out to preach \textsuperscript{15}and have authority to cast out demons. \textsuperscript{16}He appointed the twelve: Simon (to whom he gave the name Peter); \textsuperscript{17}James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder); \textsuperscript{18}Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot, \textsuperscript{19}and Judas Iscariot, who betrayed him.
+
+> \textsuperscript{20}Then he went home, and the crowd gathered again, so that they could not even eat. \textsuperscript{21}And when his family heard it, they went out to seize him, for they were saying, "He is out of his mind." \textsuperscript{22}And the scribes who came down from Jerusalem were saying, "He is possessed by Beelzebul," and "by the prince of demons he casts out the demons." \textsuperscript{23}And he called them to him and said to them in parables, \jesus{"How can Satan cast out Satan? \textsuperscript{24}If a kingdom is divided against itself, that kingdom cannot stand. \textsuperscript{25}And if a house is divided against itself, that house will not be able to stand. \textsuperscript{26}And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. \textsuperscript{27}But no one can enter a strong man's house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house. \textsuperscript{28}Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, \textsuperscript{29}but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin"}— \textsuperscript{30}for they were saying, "He has an unclean spirit."
+
+> \textsuperscript{31}And his mother and his brothers came, and standing outside they sent to him and called him. \textsuperscript{32}And a crowd was sitting around him, and they said to him, "Your mother and your brothers are outside, seeking you." \textsuperscript{33}And he answered them, \jesus{"Who are my mother and my brothers?"} \textsuperscript{34}And looking about at those who sat around him, he said, \jesus{"Here are my mother and my brothers! \textsuperscript{35}For whoever does the will of God, he is my brother and sister and mother."}
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+7-8節列出的地名——加利利、猶太、耶路撒冷、以土買（希律家族的老家）、約旦河東、推羅和西頓（腓尼基沿海外邦地區）——構成一幅涵蓋猶太人與外邦人、南北全境的地圖，顯明耶穌的名聲此時已超越加利利本地，吸引了整個近東地區的關注。「揀選十二」呼應以色列十二支派——這不是巧合，而是宣告：耶穌正在建立一個新以色列的核心。
+
+### 文學結構：三明治式的敘事 (Markan Sandwich)
+
+3:20-35是馬可福音典型的「三明治結構」（intercalation）：A（20-21節，家人認為祂癲狂）→ B（22-30節，文士指控祂靠鬼王趕鬼）→ A'（31-35節，家人前來找祂）。馬可把兩段關於「家人」的敘述包裹住中間關於「文士指控」的段落，讓兩者互相解讀：家人的懷疑與文士的指控，其實出於同一種盲目——都因看不清真相，而對耶穌的身分做出錯誤的判斷。35節「凡遵行神旨意的人就是我的兄弟姊妹和母親」，正是對這兩種盲目的共同回應。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *apostolous* | apostolous | 使徒、受差遣者 | 14節，唯獨馬可、路加明確記載耶穌「稱他們為使徒」 |
+| *exestē* | exestē | 癲狂、失去理智 | 21節，字面指「站到自己之外」，親屬對耶穌的判斷 |
+| *Beelzeboul* | Beelzeboul | 別西卜 | 鬼王的別稱，字源不確定，可能源自「屋子的主人」或帶貶意的「污穢之主」 |
+| *blasphēmia* | blasphēmia | 褻瀆 | 28-29節，唯一被列為「永不得赦免」的罪 |
+| *aiōniou hamartēmatos* | aiōniou hamartēmatos | 永遠的罪 | 29節，直譯「永世的罪」，強調後果的永恆性 |
+
+### 「壯士的比喻」的邏輯
+
+27節「壯士」的比喻，是耶穌對文士指控最有力的反駁：若祂真是靠撒但的能力趕鬼，那正是撒但的國「自相紛爭」，必然瓦解；但實情恰恰相反——祂能趕鬼，正證明有一位比撒但更強的已經「先綁住壯士」，正在「搶奪他的家」。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 主權的揀選 (Sovereign Election)
+
+「把自己所要的人召來」——揀選的主動權完全在耶穌，不是門徒自薦，也不是按才幹篩選出來的精英團隊。
+
+### 2. 「常和自己同在」先於「差遣出去」(Being With Him Precedes Being Sent by Him)
+
+使徒的兩項職分——傳道、趕鬼——都建立在第一項、也是最基礎的呼召上：「常和自己同在」。
+
+### 3. 十二使徒的真實與軟弱 (The Twelve's Raw Humanity)
+
+名單中包括後來三次不認主的彼得、綽號「雷子」性情火爆的雅各與約翰、身分立場對立的稅吏馬太與激進黨人西門、以及最終出賣耶穌的加略人猶大。馬可毫不掩飾地記下這份名單，恰恰印證了福音書記載的誠實。
+
+### 4. 褻瀆聖靈的嚴重性 (The Gravity of Blasphemy against the Spirit)
+
+文士明明看見鬼被趕出，卻堅持將聖靈的作為歸給撒但——這不是一時的無知，而是在充分證據面前，故意將光明稱為黑暗的心硬。
+
+### 5. 屬靈的家人超越血緣 (Spiritual Family Transcends Bloodline)
+
+耶穌並非否定祂與馬利亞、兄弟們的血緣關係，而是宣告一個更高、更持久的聯結——「遵行神旨意」所建立的屬靈家庭。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到十二使徒的名單（馬太福音平行記載），屈梭多模指出：「這是何等樣的人？漁夫、稅吏——十二人中有四位是漁夫，兩位是稅吏，馬太與雅各，還有一位甚至是出賣者」，「居首、位列合唱團領班的，正是那不學無術、無知的人」。論到猶大被列入名單卻毫不隱諱，他寫道：「他沒有說『那不聖潔的、那極不聖潔的』，而是按著猶大的家鄉稱呼他——加略人猶大」，「他們何等不曾隱瞞任何看似有損顏面之事」。論到耶穌對家人的回應（馬太平行經文），他指出：「我曾說過，年紀、天性，甚至住在曠野，這一切若沒有良善的心思，都是無益的；但今天我們還學到另一件事：即使懷過基督、生下那奇妙的誕生，若沒有德行，也是無益的」；「祂沒有說『她不是我的母親，他們也不是我的弟兄』，因為她確實是；祂也沒有宣判定她的罪，而是仍留給她選擇的餘地，用祂特有的溫和說話」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 32 (on Matt 10:1-4) and Homily 44 (on Matt 12:46-50), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到揀選十二使徒，加爾文強調：「藉著這次揀選，祂尚未立即委任他們履行使徒職分，僅僅是准許他們親近祂、接受私下教導，為要預備日後的使徒職分」；他也指出這是教會揀選教牧同工應當效法的榜樣：「這個範例應當被我們視為永恆的準則，當我們要為教會揀選牧者時，應當以禱告為先——否則我們所嘗試的事，都不會順利成功」。論到褻瀆聖靈的罪，加爾文清楚劃定範圍：「那些惡意地將聖靈向他啟示、原當歸榮耀給神的完美屬性，扭曲、歸咎於褻瀆的人，才是干犯聖靈的罪，他們與撒但一同，成了神榮耀公然的仇敵」；「這節經文也駁斥了那種以為，凡是明知故犯、違背良心所犯的罪都是不可赦免之罪的錯誤看法」；「凡尚未蒙聖靈光照的人，無論他們如何貶損聖靈的榮耀，都不至於被定為犯了這樣的罪」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到十二使徒的組成，麥克阿瑟強調：「事實上，他們最顯著的共同點只有一個——就是平凡」，「沒有一位以學問著稱，沒有一位以博學著稱」；「權能不在於這個人身上，權能是與祂同在的」；他也指出這十二人「構成了以色列新的屬靈領導核心」，並提醒今天的信徒：「作為今天的信徒，你也承接了他們的產業，因為大使命同樣是給你的」。論到褻瀆聖靈的罪，麥克阿瑟解釋：「對他們而言，那不可赦免的罪就是：『耶穌是靠鬼附的』——他們正是為此下了地獄」；「若這是你在充分啟示之下所作出的最終結論……你就永不能得赦免」；他特別強調這罪之所以獨特，是因為「這是聖靈藉著祂所做的工作——聖靈在祂受洗時就降在祂身上」，「不得赦免的，是那種得著完全啟示、完全的福音、完全的真理，卻仍作出最終結論說『這不是真的，我拒絕基督』的背道者」。
+> — John MacArthur, *Twelve Ordinary Men* (41-14), *The Unforgivable Sin* (41-16), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到揀選十二使徒，摩根指出：「這是預先的行動，是在祂被捕與受難的時刻來到之前，為更廣泛的事工所作的預備」；他指出三件當留意的事：「首先，祂對十二人的揀選——『祂召自己所要的人來，他們就到祂那裏去』；其次，祂對所揀選之人的委任——『祂設立他們，要他們常和自己同在，也要差他們出去傳道，並有權柄趕鬼』；最後，祂在十二人當中所作的區分——三人被賜予別名，其餘則沒有」。論到「祂自己所要的」，他寫道：「這詞暗示一種出於主體衝動而生的主動抉擇……這詞表明一種源自內在的自我決定的主權；一種出於祂自己主權的揀選，因此祂為自己所做的事承擔全部責任」；「誠然，這是一群奇特而混雜的人；不多是有能力的，不多是有智慧的……然而他們是祂的揀選，祂為著這工作的緣故揀選了他們——祂揀選他們，是因為他們已經具備了祂所需要的能力」。論到文士的指控，摩根強調文士的罪不在於一時的無知：「任何人所犯最終極的罪，就是曲解他弟兄的動機……神是察驗動機的神，唯獨祂能衡量與稱量人的動機……他們正試圖解釋祂的動機；他們正侵入那內在、隱密、孤獨、聖潔的至聖所——祂如此行的理由……其實是他們、而非祂，與魔鬼結盟」。論到耶穌對家人的回應，摩根寫道：「耶穌環視那十二人……祂看見一人，被恐懼所轄制、因懦弱而自保，將在夜的黑暗中起誓說他根本不認識祂；祂也看見另外十人，將在祂受難的極致時刻逃跑……然而祂所看見的，是那些在生命最深的事實上——正是動機的領域——已經分別為聖歸給神、歸給祂的人」；「祂由此顯明一種屬靈的關係，其崇高遠超血緣的親屬關係……瑪利亞與祂的兄弟們後來也進入了這崇高的關係，但不是立刻」。
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 133:1-3
+
+> 看哪，弟兄和睦同居是何等地善，何等地美！
+> 這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他衣服的領子。
+> 又好比黑門的甘露降在錫安山；因為在那裏有耶和華所命定的福，就是永遠的生命。
+
+### 詩篇 25:14
+
+> 耶和華與敬畏他的人親密；他必將自己的約指示他們。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### I Have Decided to Follow Jesus
+
+> I have decided to follow Jesus;
+> no turning back, no turning back.
+> The world behind me, the cross before me;
+> no turning back, no turning back.
+>
+> 我已決定跟從耶穌，永不回頭，永不回頭；
+> 世界在我身後，十架在我前面，永不回頭，永不回頭。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：揀選十二使徒 (Ask Elder Wong)
+
+**精義一句話**：十二個平凡人被基督揀選、與祂同在、又被祂差遣——這就是教會最初的樣式：不是憑資格被選上，而是憑恩典被召，然後才配得被差。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一整段的主句是35節：「凡遵行神旨意的人就是我的兄弟姊妹和母親。」十二使徒的揀選、家人與文士的誤判，都在為這一句話鋪墊——真正屬乎基督的關係，不是靠血緣，也不是靠學問地位，而是靠「遵行神的旨意」。
+- **十二使徒的名單裏，有漁夫、稅吏、激進黨人、後來出賣主的人**——這樣一份「不完美」的名單，對你今天看待「被神使用的資格」有什麼提醒？
+- **耶穌的家人說祂「癲狂」，文士說祂「被鬼附」**——同一個人，同樣被誤解，卻用了完全不同的態度回應：對文士，祂用邏輯駁斥；對家人，祂沒有反擊。你覺得為什麼？
+
+**整本聖經的連結**：創世記記載雅各的十二個兒子成為以色列十二支派的先祖（創49章）；如今耶穌「設立十二個人」，不是巧合的數字，而是宣告一個新以色列核心的誕生——這條線索一路貫穿到啟示錄21:14，新耶路撒冷的城牆有十二根基石，上面寫著羔羊十二使徒的名字。另一條線索：出埃及記33:11「耶和華與摩西面對面說話，好像人與朋友說話一般」——摩西的能力，源自與神面對面的相交；如今耶穌揀選十二人，第一要務也是「常和自己同在」，而非立刻差遣，正如約翰福音15:4「你們要常在我裏面，我也常在你們裏面」——結果子的根基，永遠是「同在」，而非「做工」。
+
+**讓話語住在裡面**：文士們親眼見證聖靈的大能運行在眼前，卻選擇將其歸給污靈——這提醒我們：良心若一再壓抑真相，終將麻木到無法辨識神的作為。默想：我有沒有一再用「合理的解釋」壓過聖靈微小的聲音？今天的實踐：為一位你曾論斷其動機、卻其實不明真相的人，重新以憐憫的眼光看待他。
+
+**你看見耶穌了嗎**：在揀選平凡人為使徒、在被至親誤解為癲狂、在被指控靠鬼王趕鬼的重重張力中，你看見的，是那位甘願被誤解、卻依然揀選並差遣软弱之人的基督——祂重新定義了「家人」，而祂邀請你，藉著遵行父的旨意，進入這個超越血緣的家。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「凡遵行神旨意的人就是我的兄弟姊妹和母親」——十二使徒的揀選、家人與文士的誤判，都在為這一句話鋪墊：真正屬乎基督的關係，不靠血緣，只靠遵行神的旨意。
+
+**貫通全經**：雅各十二個兒子成為以色列十二支派的先祖（創49章）；耶穌「設立十二個人」，宣告一個新以色列核心的誕生，這條線索一路貫穿到啟示錄21:14，新耶路撒冷城牆的十二根基石。
+
+**無法迴避的問題**：耶穌的家人說祂「癲狂」，文士說祂「被鬼附」——同一個人，同樣被誤解，你今天面對他人的誤解，是選擇用邏輯駁斥，還是選擇沉默等候？
+
+> 「祂重新定義了『家人』——不是血緣的親屬，是遵行天父旨意的同伴。」
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **3:14「常和自己同在」**：門訓的核心是關係，不是課程或訓練材料——這對習慣以「上了多少課、讀了多少書」衡量門徒訓練成效的華人教會文化，是一個提醒：門徒的塑造，發生在與主、與帶領者長時間同在的生命連結裏。
+- **3:35 屬靈家庭超越血緣**：對華人根深柢固的家族觀念（重視血緣、宗族、輩分），耶穌這句話帶來根本性的更新——教會裏的屬靈連結，其分量不亞於、甚至可能超越血緣的家族關係。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Blest Be the Tie That Binds*（何等美妙這連結）
+
+> Blest be the tie that binds our hearts in Christian love;
+> the fellowship of kindred minds is like to that above.
+>
+> — John Fawcett (1782)
+
+**詩篇**：詩篇 133:1-3
+
+> 看哪，弟兄和睦同居是何等地善，何等地美！
+> 這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他衣服的領子。
+> 又好比黑門的甘露降在錫安山；因為在那裏有耶和華所命定的福，就是永遠的生命。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **揀選的恩典**：十二使徒沒有一位是「完美的候選人」，卻都蒙耶穌親自揀選。你今天是否常因自覺不夠資格，而遲疑回應神的呼召？
+
+2. **同在先於差遣**：使徒的第一項職分是「常和自己同在」，其次才是傳道趕鬼。你的服事，是否也建立在與基督親密相交的根基上？
+
+3. **面對誤解的智慧**：耶穌面對家人的誤解與文士的敵意，用了不同的態度回應。你今天在面對「善意的誤解」與「惡意的攻擊」時，能否分辨並用相稱的態度回應？
+
+4. **屬靈的家人**：「遵行神旨意的人就是我的兄弟姊妹和母親。」在你的教會、團契中，有沒有這樣一位「屬靈家人」，是你可以主動去建立、去珍惜的？
+
+### 禱告回應
+
+> 主啊，感謝你揀選軟弱不完全的人，成為你國度的根基。
+> 求你使我的事奉，先建立在與你同在的根基上，而非單靠自己的努力。
+> 求你賜我智慧，能分辨並恰當回應生命中善意的誤解與惡意的攻擊。
+> 願我真實遵行你的旨意，成為你眼中的兄弟姊妹。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 揀選十二使徒 | 3:13-19 | 太10:1-4、路6:12-16、創49章（十二支派） |
+| 常和自己同在 | 3:14 | 約15:4-5 |
+| 別西卜的指控 | 3:22-27 | 太12:22-29、路11:14-23 |
+| 褻瀆聖靈不得赦免 | 3:28-30 | 太12:31-32、路12:10 |
+| 屬靈家人 | 3:31-35 | 太12:46-50、路8:19-21 |
+| 十二使徒的名字 | 3:16-19 | 太10:2-4、路6:14-16、徒1:13、啟21:14 |
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第四章：天國比喻、平靜風浪 (Kingdom Parables, Calming the Storm)
+
+馬可福音 4:1-41
+
+**經文核對**：[ai-eden.com/bible/mark/4](https://www.ai-eden.com/bible/mark/4?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+反對的聲浪升高後，耶穌的教導方式也隨之轉變——祂開始用比喻說話。這不是為了讓真理更淺白，而是恰恰相反：比喻同時啟示與隱藏，向願意的心敞開奧祕，向硬著頸項的心留下謎題。這一章以四個關於神國的比喻收束於一個問題：「這到底是誰？連風和海都聽從他。」門徒還在學習「聽道」的功課，海上的一夜卻讓他們措手不及地遇見：那位教導撒種比喻的老師，原來就是那創造風與海、且能一句話使萬物噤聲的主。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{1}耶穌又在海邊教導人。有一大群人到他那裏聚集，他只好上船坐下。船在海裏，眾人都靠近海，站在岸上。\textsuperscript{2}耶穌就用許多比喻教導他們。在教導的時候，他對他們說：\textsuperscript{3}\jesus{「你們聽啊，有一個撒種的出去撒種。\textsuperscript{4}他撒的時候，有的落在路旁，飛鳥來把它吃掉了。\textsuperscript{5}有的落在土淺的石頭地上，因為土不深，很快就長出苗來，\textsuperscript{6}太陽出來一曬，因為沒有根就枯乾了。\textsuperscript{7}有的落在荊棘裏，荊棘長起來，把它擠住了，就結不出果實。\textsuperscript{8}又有的落在好土裏，就發芽長大，結出果實，有三十倍的，有六十倍的，有一百倍的。」}\textsuperscript{9}耶穌又說：\jesus{「有耳可聽的，就應當聽！」}
+
+> \textsuperscript{10}耶穌獨自一人的時候，跟隨他的人和十二使徒問他這些比喻的意思。\textsuperscript{11}耶穌對他們說：\jesus{「神國的奧祕只讓你們知道，若是對外人講，凡事就用比喻，\textsuperscript{12}要他們看了又看，卻看不清，聽了又聽，卻不明白，免得他們回轉過來，獲得赦免。」}\textsuperscript{13}耶穌又對他們說：\jesus{「你們不明白這比喻嗎？這樣怎能明白一切的比喻呢？\textsuperscript{14}撒種的人所撒的就是道。\textsuperscript{15}那撒在路旁的種子，就是人聽了道，撒但立刻來，把撒在他們心裏的道奪了去。\textsuperscript{16}那撒在石頭地上的，就是人聽了道，立刻歡喜領受，\textsuperscript{17}因心裏沒有根，不過是暫時的，一旦為道遭受患難或迫害，立刻就跌倒。\textsuperscript{18}還有那撒在荊棘裏的，就是人聽了道，\textsuperscript{19}後來有世上的憂慮、錢財的迷惑，和別樣的私慾進來，把道擠住了，結不出果實。\textsuperscript{20}那撒在好土裏的，就是人聽了道，領受了，並且結了果實，有三十倍的，有六十倍的，有一百倍的。」}
+
+> \textsuperscript{21}耶穌又對他們說：\jesus{「人拿燈來，難道是要放在斗底下，床底下，而不放在燈臺上嗎？\textsuperscript{22}因為掩藏的事沒有不顯出來的，隱瞞的事也沒有不露出來的。\textsuperscript{23}有耳可聽的，就應當聽！」}\textsuperscript{24}他又說：\jesus{「你們要留心所聽的。你們用甚麼量器來量，也將要用甚麼來量給你們，並且要多給你們。\textsuperscript{25}因為有的，還要給他；沒有的，連他所有的也要奪去。」}
+
+> \textsuperscript{26}耶穌又說：\jesus{「神的國如同人把種子撒在地上，\textsuperscript{27}黑夜睡覺，白日起來，這種子就發芽生長，那人卻不知道如何會這樣。\textsuperscript{28}土地自然而然地出產五穀，先發苗，後長穗，然後穗上結成飽滿的穀子。\textsuperscript{29}五穀熟了，就用鐮刀去割，因為收成的時候到了。」}
+
+> \textsuperscript{30}耶穌又說：\jesus{「我們可用甚麼來比擬神的國呢？可用甚麼比喻來說明呢？\textsuperscript{31}它像一粒芥菜種，種在地裏的時候，雖比地上所有的種子都小，\textsuperscript{32}但種下去以後，它長起來，比各樣的菜都大，又長出大枝，以致天上的飛鳥可以在它的蔭下築巢。」}\textsuperscript{33}耶穌用許多這樣的比喻，照他們所能聽的，對他們講道；\textsuperscript{34}若不用比喻，他就不對他們講，但私下沒有人的時候，就把一切的道講給門徒聽。
+
+> \textsuperscript{35}那天晚上，耶穌對門徒說：\jesus{「我們渡到對岸去吧。」}\textsuperscript{36}門徒離開眾人，耶穌已在船上，他們就請他一同去；也有別的船和他同行。\textsuperscript{37}忽然狂風大作，波浪打入船內，以致船灌滿了水。\textsuperscript{38}耶穌在船尾上，枕著枕頭睡覺。門徒叫醒他，說：「老師！我們快沒命了，你不管嗎？」\textsuperscript{39}耶穌醒了，斥責那風，向海說：\jesus{「住了吧！靜了吧！」}風就止住，大大平靜了。\textsuperscript{40}耶穌對他們說：\jesus{「為甚麼膽怯？你們還沒有信心嗎？」}\textsuperscript{41}他們就非常懼怕，彼此說：「這到底是誰？連風和海都聽從他。」
+
+### English — ESV
+
+> \textsuperscript{1}Again he began to teach beside the sea. And a very large crowd gathered about him, so that he got into a boat and sat in it on the sea, and the whole crowd was beside the sea on the land. \textsuperscript{2}And he was teaching them many things in parables, and in his teaching he said to them: \textsuperscript{3}\jesus{"Listen! Behold, a sower went out to sow. \textsuperscript{4}And as he sowed, some seed fell along the path, and the birds came and devoured it. \textsuperscript{5}Other seed fell on rocky ground, where it did not have much soil, and immediately it sprang up, since it had no depth of soil. \textsuperscript{6}And when the sun rose, it was scorched, and since it had no root, it withered away. \textsuperscript{7}Other seed fell among thorns, and the thorns grew up and choked it, and it yielded no grain. \textsuperscript{8}And other seeds fell into good soil and produced grain, growing up and increasing and yielding thirtyfold and sixtyfold and a hundredfold."} \textsuperscript{9}And he said, \jesus{"He who has ears to hear, let him hear."}
+
+> \textsuperscript{10}And when he was alone, those around him with the twelve asked him about the parables. \textsuperscript{11}And he said to them, \jesus{"To you has been given the secret of the kingdom of God, but for those outside everything is in parables, \textsuperscript{12}so that they may indeed see but not perceive, and may indeed hear but not understand, lest they should turn and be forgiven."}
+
+> \textsuperscript{13}And he said to them, \jesus{"Do you not understand this parable? How then will you understand all the parables? \textsuperscript{14}The sower sows the word. \textsuperscript{15}And these are the ones along the path, where the word is sown: when they hear, Satan immediately comes and takes away the word that is sown in them. \textsuperscript{16}And these are the ones sown on rocky ground: the ones who, when they hear the word, immediately receive it with joy. \textsuperscript{17}And they have no root in themselves, but endure for a while; then, when tribulation or persecution arises on account of the word, immediately they fall away. \textsuperscript{18}And others are the ones sown among thorns. They are those who hear the word, \textsuperscript{19}but the cares of the world and the deceitfulness of riches and the desires for other things enter in and choke the word, and it proves unfruitful. \textsuperscript{20}But those that were sown on the good soil are the ones who hear the word and accept it and bear fruit, thirtyfold and sixtyfold and a hundredfold."}
+
+> \textsuperscript{21}And he said to them, \jesus{"Is a lamp brought in to be put under a basket, or under a bed, and not on a stand? \textsuperscript{22}For nothing is hidden except to be made manifest; nor is anything secret except to come to light. \textsuperscript{23}If anyone has ears to hear, let him hear."} \textsuperscript{24}And he said to them, \jesus{"Pay attention to what you hear: with the measure you use, it will be measured to you, and still more will be added to you. \textsuperscript{25}For to the one who has, more will be given, and from the one who has not, even what he has will be taken away."}
+
+> \textsuperscript{26}And he said, \jesus{"The kingdom of God is as if a man should scatter seed on the ground. \textsuperscript{27}He sleeps and rises night and day, and the seed sprouts and grows; he knows not how. \textsuperscript{28}The earth produces by itself, first the blade, then the ear, then the full grain in the ear. \textsuperscript{29}But when the grain is ripe, at once he puts in the sickle, because the harvest has come."}
+
+> \textsuperscript{30}And he said, \jesus{"With what can we compare the kingdom of God, or what parable shall we use for it? \textsuperscript{31}It is like a grain of mustard seed, which, when sown on the ground, is the smallest of all the seeds on earth, \textsuperscript{32}yet when it is sown it grows up and becomes larger than all the garden plants and puts out large branches, so that the birds of the air can make nests in its shade."} \textsuperscript{33}With many such parables he spoke the word to them, as they were able to hear it. \textsuperscript{34}He did not speak to them without a parable, but privately to his own disciples he explained everything.
+
+> \textsuperscript{35}On that day, when evening had come, he said to them, \jesus{"Let us go across to the other side."} \textsuperscript{36}And leaving the crowd, they took him with them in the boat, just as he was. And other boats were with him. \textsuperscript{37}And a great windstorm arose, and the waves were breaking into the boat, so that the boat was already filling. \textsuperscript{38}But he was in the stern, asleep on the cushion. And they woke him and said to him, "Teacher, do you not care that we are perishing?" \textsuperscript{39}And he awoke and rebuked the wind and said to the sea, \jesus{"Peace! Be still!"} And the wind ceased, and there was a great calm. \textsuperscript{40}He said to them, \jesus{"Why are you so afraid? Have you still no faith?"} \textsuperscript{41}And they were filled with great fear and said to one another, "Who then is this, that even the wind and the sea obey him?"
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+耶穌在海邊教導，人多到必須「上船坐下」——這是加利利海沿岸常見的自然擴音場景：水面能將聲音傳得更遠，船上的位置也讓祂能面對整片沿岸的群眾。撒種、燈臺、芥菜種——這些比喻取材自加利利農村生活最尋常的景象，正符合馬可對外邦讀者「用聽得懂的話講道」的一貫筆法。
+
+### 文學結構：比喻的轉折點
+
+馬可4章是耶穌事工方法論的轉捩點——這是祂第一次系統性地用比喻教導群眾。10-12節解釋了轉變的原因：對「跟隨他的人」，比喻是揭開奧祕的鑰匙；對「外人」，比喻卻成了審判性的謎語——這呼應了3章反對勢力升高後的處境。全章以「祂私下把一切的道講給門徒聽」（34節）收束比喻部分，隨即銜接一個行動場景——平靜風浪（35-41節），讓「聽道」的教訓立刻在門徒生命中受考驗：他們聽懂了比喻，卻還沒學會在風浪中信靠那位講比喻的主。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *sporos* / *speirōn* | sporos / speirōn | 種子／撒種的人 | 貫穿整個比喻，也用於15-20節的解釋 |
+| *mystērion* | mystērion | 奧祕 | 11節「神國的奧祕」，指向唯獨向蒙揀選之人開啟的啟示 |
+| *automatē* | automatē | 自然而然地 | 28節，字面即英文automatic的字源，強調神國生長的奧祕不倚賴人的操縱 |
+| *lampada* | lampada | 燈 | 21節，與「奧祕」形成對比——隱藏的終必顯明 |
+| *epitimaō* | epitimaō | 斥責 | 39節，耶穌斥責風，如同斥責污靈（1:25），暗示風浪背後的黑暗權勢 |
+| *siōpa, pephimōso* | siōpa, pephimōso | 住了吧、靜了吧 | 39節命令式，「靜了吧」字面為「被塞住嘴」，與趕鬼命令用詞相同 |
+
+### 「斥責」風浪的深意
+
+耶穌對風的動詞（*epitimaō*，斥責）與稍早祂對污靈說話的動詞（1:25）完全相同；「靜了吧」（*pephimōso*）更是直譯「被塞住嘴」，正是趕鬼時所用的命令式。這種用詞上的呼應，暗示馬可要讀者將這場風暴理解為不僅是自然現象，更帶著黑暗權勢的背景——而耶穌的一句話，勝過這一切。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 比喻的雙重功能：啟示與隱藏 (Parables Reveal and Conceal)
+
+比喻對願意的心是恩典的教學法，對硬心抗拒真理的人卻成了審判——不是神刻意要人滅亡，而是持續拒絕光的心，終將連僅有的機會也失去。
+
+### 2. 聽道之後的責任 (Responsibility After Hearing)
+
+「你們用甚麼量器來量，也將要用甚麼來量給你們」——聽道不是被動的接收，而帶著相應的責任：越忠心回應已經領受的真理，越蒙加添更深的悟性。
+
+### 3. 神國生長的奧祕與確據 (The Mystery and Certainty of Kingdom Growth)
+
+「土地自然而然地出產」——神國的擴展不倚賴人的操縱或催逼，撒種之後的生長過程超乎人的理解，卻按著神所定的時候，必然結出收成。
+
+### 4. 微小的開始，宏大的終局 (Small Beginnings, Vast Endings)
+
+芥菜種雖小，長成後卻能讓飛鳥宿在其蔭下——神國此刻的規模雖然微小（幾個漁夫跟隨一位拿撒勒木匠），終將擴展覆庇萬國。
+
+### 5. 基督真實的位格：勝過風與海的主 (Christ's True Identity: Master over Wind and Sea)
+
+門徒的問題「這到底是誰？連風和海都聽從他？」正是全書要引導讀者共同提出、並在下文逐步得到解答的核心問題——唯有創造主自己，才能對受造之物如此發令。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到撒種的比喻（馬太平行經文），屈梭多模寫道：「祂在這裏所指的道，就是祂的教訓；地，就是人的靈魂；撒種的，就是祂自己」；論到路旁的種子，他指出：「那些像路旁之地的人，乃是心思粗糙、漠不關心、毫無戒備的人」；論到石頭地上的信心，他寫道：「那些如同石頭地一般的人，僅僅因軟弱而跌倒……一旦為道遭遇患難或逼迫，立刻就跌倒了」；論到荊棘裏的種子，他強調「當受責備的不是農夫，也不是種子，而是接受種子的土地」。論到平靜風浪，他指出：「因此祂睡著了，為要給他們懼怕的機會，使他們對所發生的事有更清楚的知覺」；並特別留意耶穌先斥責門徒、後斥責風浪的次序：「祂在斥責海之前，先斥責了他們」；「祂醒著時能斥責風浪的能力，他們已經知道，但祂睡著時仍能如此行，他們卻還不知道」；「祂沒有像摩西一樣舉杖，……而是像一位主人吩咐自己的婢女一般，只用言語與命令，就使風浪平靜、受約束」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 44 (on Matt 13:1-23) and Homily 28 (on Matt 8:23-27), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到撒種的比喻，加爾文寫道：「道理的種子雖然被廣泛撒播，卻不是處處都結果實，因為它並不總是遇見肥沃而耕耘良好的土壤」；論到荊棘地的聽者，他指出：「肉體罪惡的情慾勝過人心裏的信心」；論到比喻的目的，他解釋：「基督宣告祂故意說得隱晦，為要使祂的話對許多人成為一個謎」。論到芥菜種的比喻，他寫道：「基督鼓勵祂的門徒，不要因福音卑微的開端而心生嫌棄、轉身退後」。論到平靜風浪，加爾文論到門徒的懼怕：「並非每一種懼怕都與信心相牴觸……唯獨那種擾亂良心平安的懼怕，才是與信心相對立的」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到撒種的比喻，麥克阿瑟指出：「這幫助你從福音角度理解我們所處的這個世代」；「這是一個關於土壤的比喻，一共有六種不同的土壤：三種壞的，三種好的」；他強調比喻的雙重性：「比喻的設計，既是為了揭示，也是為了隱藏……對信徒而言，是恩典的工作，使屬靈的真理清晰；對非信徒而言，卻是審判的工作，使真理更加隱晦」；「撒種的人撒的是道……種子就是神的話、福音、天國的信息」。論到燈臺、量器、生長的種子、芥菜種等比喻，他指出：「整個過程是神聖而自動運行的。你不能啟動它，也不能停止它」。論到平靜風浪，他強調基督位格的雙重性：「基督是宇宙的創造主；萬物因祂而存在，萬物也因祂的托住而維繫」，同時「祂是真實的人，一位真實的人；祂明白疲乏，祂如此疲憊，以致在海浪拍打入船的時候仍然睡著」；「這是一堂信心的功課。這裏的重點是，我們的主要教導門徒：在最具威脅性的處境中，祂仍然是可信靠的」；「祂對風說話，風立刻止住；祂對水說話，水立刻止住。風與水都認得他們創造主的聲音」；「他們變得極其懼怕。為什麼？因為比船外的風暴更可怕的，是船裏有神——這足以使人驚慌失措」。
+> — John MacArthur, *A Survey of the Soils* (41-17), *How to Listen to the Lord* (41-20), *Calming the Storm* (41-21), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到比喻教導的轉折，摩根指出：「三卷福音書一致公認，耶穌所講的第一個完整比喻，就是撒種的比喻……祂如今用比喻對眾人說話——正如馬可明確宣告的：『若不用比喻，祂就不對他們講』」，並將這個轉變與法利賽人心地剛硬（3:5）相連。論到「神國的奧祕只賜給你們」，摩根解釋：「賜給你們的是奧祕，是隱藏的事、隱密的事、深奧的事、事物的終極意義；但對那外人，賜下的卻是比喻，是圖畫」；他也謹慎處理「免得他們回轉得赦免」一句的難解之處：「我相信馬太必須用來解釋馬可，因為馬太的處理方式，與基督在世上使命的整體事實相符合。祂來，不是為了審判……而是為了憐憫，為要使人能看見而活……我反倒相信，馬可這裏的記載是經過高度濃縮的，我們的困難完全是這濃縮所造成的」。論到平靜風浪，摩根寫道：「馬可所記『他們就大大懼怕』一語，若直譯，應是『他們以極大的懼怕懼怕』——而這懼怕不是風暴造成的，乃是平靜造成的」；「祂在船尾，頭枕著那唯一的枕頭睡著了」；論到「斥責」一詞：「這是一個非常強烈的詞。有古代譯者將其譯為『祂恐嚇那風』」；「我無法理解耶穌竟以近乎忿怒的語氣對一陣風說話。祂斥責那風；我也無法理解祂對海說『住口』。我相信祂知道這場風暴，其根源正是那幽暗的權勢、那罪惡的地底世界」；他最後總結：「這故事向我們顯明：那能使風暴平靜的大能者，正面對著人的靈魂，說『你們為何膽怯』。換言之，這故事所暗示的，神所要面對的難題，並非平靜海上的風暴，而是平靜人心裏的風暴——而那才是神更艱難的工作！」
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：天國比喻與平靜風浪 (Ask Elder Wong)
+
+**精義一句話**：比喻教人「聽」，風浪的神蹟教人「信」——那位講論神國隱藏生長之奧祕的主，正是那能命令風與海的創造主自己。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一章的高潮句是41節：「這到底是誰？連風和海都聽從他。」四個比喻鋪陳了神國隱藏而確實的生長，平靜風浪則具體印證了這位講論者的真實身分。
+- **四種土壤，你覺得自己此刻的心，比較像哪一種？**路旁、石頭地、荊棘地，還是好土？
+- **門徒已經聽過撒種、燈臺、芥菜種的比喻**——為什麼一遇到真實的風浪，還是驚慌失措、質疑耶穌「不管」他們？「連風和海都聽從他」——如果耶穌真的擁有這樣的權柄，這對你此刻正面臨的「風浪」（財務、健康、關係），意味著什麼？
+
+**整本聖經的連結**：詩篇104:7「你的斥責一發，水便奔逃」——舊約早已宣告，耶和華一發聲斥責，水就順服奔逃。如今耶穌向風與海說話，用的是同一個「斥責」的動詞（也用於祂趕鬼時，1:25）——這位曾在門徒眼中只是「老師」的人，此刻正在做只有創造主耶和華才能做的事；約伯記38:11神對海說「你只可到這裏，不可越過」，如今耶穌一句話就成就了神在約伯記裏親口宣告的主權。另一條線索：以賽亞書55:10-11「雨雪從天而降……我口所出的話也必如此，決不徒然返回」——撒種的比喻正是這段預言的具體圖畫：土壤雖有四種光景，但那結實百倍的好土，正應驗了「神的話決不徒然返回」的應許。
+
+**讓話語住在裡面**：這個時代習慣把一切「加速」、「量化」、「可控化」，連屬靈生命的成長也常被簡化為可優化的成果指標。但耶穌說，神國的生長「自然而然」，撒種的人「卻不知道如何會這樣」。默想：我的心像哪一種土壤來領受神的話？今天的實踐：為一位正在經歷「人生風浪」的朋友禱告，提醒他/她「連風和海都聽從祂」。
+
+**你看見耶穌了嗎**：在撒種者的耐心裏，在燈臺終必顯明的應許裏，在風浪頓時止息的斥責裏，你看見的，是那位既掌管神國隱藏生長的節奏、又掌管風與海之主權的基督——祂沒有應許無風無浪的航程，但祂應許與你同船。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **4:13 撒種比喻是理解所有比喻的鑰匙**：先弄懂這一個比喻的解讀方法，其餘比喻才能迎刃而解。
+- **4:20「聽道，又領受，又結實」——你是哪一種土地？**：華人教會常以「聚會出席率」衡量委身程度，但耶穌所看重的，是道是否真正「結實」。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*It Is Well with My Soul*（我心靈得平安）
+
+> When peace, like a river, attendeth my way,
+> when sorrows like sea billows roll;
+> whatever my lot, Thou hast taught me to say,
+> it is well, it is well with my soul.
+>
+> — Horatio Spafford (1873)
+
+**詩篇**：詩篇 107:23-30
+
+> 那些搭船出海，在大水中經理事務的，
+> 他們看見耶和華的作為，並他在深水中的奇事。
+> 因他一吩咐，狂風就起，波浪就揚起。
+> 他們就搖搖晃晃，東倒西歪，好像醉酒的人，他們的智慧無用武之地。
+> 於是他們在急難中哀求耶和華，他就使他們脫離禍患。
+> 他使狂風止息，波浪就平靜。他們因風平浪靜就歡喜；他就引他們到所願去的碼頭。
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+詩篇104:7「你的斥責一發，水便奔逃」——舊約早已宣告，耶和華一發聲斥責，水就順服奔逃；約伯記38:11神對海說「你只可到這裏，不可越過」。如今耶穌向風與海說話，用的是與祂趕鬼時（1:25）完全相同的「斥責」動詞——這位曾在門徒眼中只是「老師」的人，此刻正在做只有創造主耶和華才能做的事。你把這幾處經文並排讀一次：詩篇、約伯記、馬可福音，同一個動作，同一位主角。
+
+### 提問式對話 (Let the Reader Speak)
+
+先問：門徒已經聽過撒種、燈臺、芥菜種的比喻，為什麼一遇到真實的風浪，還是驚慌失措？
+再問：「知道」神國的道理，和「信靠」那位掌管風浪的主，是不是兩件不同的事？
+再問：你此刻正面對的「風浪」——財務、健康、關係——如果耶穌真的擁有斥責風浪的權柄，這對你意味著什麼？
+
+### 活在今天 · AI時代 (Living It Today)
+
+這個時代習慣把一切「加速」「量化」「可控化」，連屬靈生命的成長也常被簡化為可優化的成果指標。但耶穌說，神國的生長「自然而然」，撒種的人「卻不知道如何會這樣」——有些真理，是演算法永遠算不出來的：它不能被催熟，只能被信靠。
+
+### 今天的祭壇 (Today's Altar)
+
+為一位正在經歷「人生風浪」的朋友具體代禱，並且對他/她說一句：「連風和海都聽從祂」——不是空泛的安慰，而是指名道姓地把這句經文說給他聽。
+
+## 黃長老精義 (The Distilled Key)
+
+比喻教人「聽」，風浪的神蹟教人「信」——那位講論神國隱藏生長之奧祕的主，正是那能命令風與海的創造主自己。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **土壤的省察**：四種土壤代表四種對神話語的回應。誠實省察，你此刻的生命光景，最接近哪一種？需要怎樣的悔改或調整？
+
+2. **從聽道到信靠**：門徒聽懂了比喻的道理，卻在風浪中顯出信心的軟弱。你今天生活中，有沒有「知道」卻還未真正「信靠」的功課？
+
+3. **微小的忠心**：芥菜種微小卻終必長大。你手上正做的、看似微不足道的服事或委身，是否也承載著神國度長遠的果效？
+
+4. **風浪中的主權**：「連風和海都聽從他」——今天你生命中最大的「風浪」是什麼？你相信這位主也同樣掌管這場風浪嗎？
+
+### 禱告回應
+
+> 主啊，求你使我的心成為好土，領受你的話並結出果實。
+> 求你赦免我常常「知道」道理卻不肯真實「信靠」你的軟弱。
+> 主啊，我此刻生命中的風浪，你都知道——求你如同斥責風與海一樣，使我心裏的懼怕止息，使我的信心堅固。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 撒種比喻中的四種土壤，分別代表哪四種對神話語的回應？這對今天教會傳福音、栽培門徒有什麼提醒？
+
+2. 「神國的奧祕只賜給你們，若對外人講，凡事就用比喻」——比喻同時具有啟示與隱藏的功能，這對我們理解神的公義與憐憫有何幫助？
+
+3. 「土地自然而然地出產五穀」——這幅圖畫如何幫助我們理解事奉、栽培生命時，哪些是我們當盡的責任，哪些當交託給神？
+
+4. 門徒在風浪中質問耶穌「你不管嗎？」——這反映了他們怎樣的信心光景？你是否也曾在艱難中，向神提出類似的質問？
+
+5. 「這到底是誰？連風和海都聽從他？」——這個問題是全書反覆出現的核心提問。讀到這裏，你會如何回答這個問題？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第五章：格拉森鬼附、睚魯女兒 (The Gerasene Demoniac, Jairus' Daughter)
+
+馬可福音 5:1-43
+
+**經文核對**：[ai-eden.com/bible/mark/5](https://www.ai-eden.com/bible/mark/5?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+一夜的風浪剛剛平息，耶穌一下船，就迎面遇見一個比風浪更駭人的景象——一個被群鬼轄制、無人能捆綁、晝夜在墳塋間哀嚎自傷的人。緊接著，馬可用他招牌的「三明治」筆法，把睚魯女兒的故事與血漏婦人的故事交織在一起。三個故事、三種絕境——群鬼的轄制、十二年不止的血漏、瀕死的女孩——馬可要讀者看見：無論是最駭人的靈界權勢、最漫長的病痛羞辱，還是死亡本身，都在耶穌一句話、一次觸摸面前俯首讓步。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**治好格拉森污靈附身的人**
+
+> \textsuperscript{1}他們渡到海的對岸，到格拉森人的地區。\textsuperscript{2}耶穌一下船，就有一個污靈附身的人從墳墓迎著他走來。\textsuperscript{3}那人常住在墳墓裏，沒有人能捆住他，就是用鐵鏈也不能；\textsuperscript{4}因為人屢次用腳鐐和鐵鏈捆鎖他，鐵鏈被他掙斷，腳鐐也被他弄碎了，總沒有人能制伏他。\textsuperscript{5}他晝夜常在墳墓裏和山中喊叫，又用石頭打自己。\textsuperscript{6}他遠遠看見耶穌，就跑過來拜他，\textsuperscript{7}大聲呼叫說：「至高神的兒子耶穌，你為甚麼干擾我？我指著神懇求你，不要叫我受苦！」\textsuperscript{8}這是因耶穌曾吩咐他說：\jesus{「污靈啊，從這人身上出來！」}\textsuperscript{9}耶穌問他：\jesus{「你叫甚麼名字？」}他說：「我名叫群，因為我們數目眾多。」\textsuperscript{10}他就再三求耶穌不要叫他們離開那地方。
+
+> \textsuperscript{11}在山坡那裏，有一大群豬正在吃食；\textsuperscript{12}污靈就央求耶穌，說：「求你打發我們進入豬群，好附著牠們。」\textsuperscript{13}耶穌准了他們，污靈就出來，進入豬裏，那群豬就闖下山崖，投進海裏，淹死了。豬的數目約有二千。\textsuperscript{14}放豬的逃跑了，去告訴城裏和鄉下的人。眾人就來，要看發生了甚麼事。\textsuperscript{15}他們來到耶穌那裏，看見那被鬼附的人，就是曾被群鬼所附的，坐著，穿著衣服，神智清醒，他們就害怕。\textsuperscript{16}看見這事的人把被鬼附的人所遇見的，和那群豬的事，都告訴了眾人，\textsuperscript{17}眾人就央求耶穌離開他們的地區。\textsuperscript{18}耶穌上船的時候，那曾被鬼附的人懇求要和耶穌在一起。\textsuperscript{19}耶穌不許，卻對他說：\jesus{「你回家去，到你的親友那裏，將主為你所做多麼大的事和他怎樣憐憫你，都告訴他們。」}\textsuperscript{20}那人就走了，開始在低加坡里傳揚耶穌為他做了多麼大的事，眾人就都驚訝。
+
+**睚魯的女兒和經血不止的女人**
+
+> \textsuperscript{21}耶穌又坐船渡到對岸，有一大群人聚集到他身邊；他正在海邊。\textsuperscript{22}有一個會堂主管，名叫葉魯，也來了，一見到耶穌，就俯伏在他腳前，\textsuperscript{23}再三求他，說：「我的小女兒快要死了，求你去為她按手，使她痊癒，可以活下去。」\textsuperscript{24}耶穌就和他同去。有一大群人跟隨他，擁擠著他。\textsuperscript{25}有一個女人，患了經血不止的病有十二年，\textsuperscript{26}在好多醫生手裏受了許多苦，又花盡了她所有的，一點也不見好，反而更重了。\textsuperscript{27}她聽見耶穌的事，就夾在眾人中間，從後面來摸耶穌的衣裳，\textsuperscript{28}因她想：「我只摸到他的衣裳，就會痊癒。」\textsuperscript{29}於是她的流血立刻止住，她覺得身上的疾病好了。\textsuperscript{30}耶穌頓時心裏覺得有能力從自己身上出去，就在眾人中間轉過來，說：\jesus{「誰摸我的衣裳？」}\textsuperscript{31}門徒對他說：「你看眾人擁擠著你，還說『誰摸我』呢？」\textsuperscript{32}耶穌周圍觀看，要見做這事的女人。\textsuperscript{33}那女人知道在自己身上所成的事，就恐懼戰兢，來俯伏在耶穌跟前，將實情全告訴他。\textsuperscript{34}耶穌對她說：\jesus{「女兒，你的信救了你，平安地回去吧！你的疾病痊癒了。」}
+
+> \textsuperscript{35}耶穌還在說話的時候，有人從會堂主管的家裏來，說：「你的女兒死了，何必還勞駕老師呢？」\textsuperscript{36}耶穌不理會他們所說的話，就對會堂主管說：\jesus{「不要怕，只要信！」}\textsuperscript{37}於是他帶著彼得、雅各和雅各的弟弟約翰同去，不許別人跟著他。\textsuperscript{38}他們來到會堂主管的家裏，耶穌看到一片吵鬧，並有人大聲哭泣哀號，\textsuperscript{39}就進到裏面，對他們說：\jesus{「為甚麼大吵大哭呢？孩子不是死了，是睡著了。」}\textsuperscript{40}他們就嘲笑耶穌。耶穌把他們都趕出去，帶著孩子的父母和跟隨的人進了孩子所在的地方，\textsuperscript{41}就拉著孩子的手，對她說：\jesus{「大利大，古米！」}翻出來就是說：\jesus{「女孩，我吩咐你，起來！」}\textsuperscript{42}那女孩子立刻起來走動，她已經十二歲了；他們就非常驚奇。\textsuperscript{43}耶穌切切地囑咐他們，不要讓人知道這事，又吩咐給她東西吃。
+
+### English — ESV
+
+> \textsuperscript{1}They came to the other side of the sea, to the country of the Gerasenes. \textsuperscript{2}And when Jesus had stepped out of the boat, immediately there met him out of the tombs a man with an unclean spirit. \textsuperscript{3}He lived among the tombs. And no one could bind him anymore, not even with a chain, \textsuperscript{4}for he had often been bound with shackles and chains, but he wrenched the chains apart, and he broke the shackles in pieces. No one had the strength to subdue him. \textsuperscript{5}Night and day among the tombs and on the mountains he was always crying out and cutting himself with stones. \textsuperscript{6}And when he saw Jesus from afar, he ran and fell down before him. \textsuperscript{7}And crying out with a loud voice, he said, "What have you to do with me, Jesus, Son of the Most High God? I adjure you by God, do not torment me." \textsuperscript{8}For he was saying to him, \jesus{"Come out of the man, you unclean spirit!"} \textsuperscript{9}And Jesus asked him, \jesus{"What is your name?"} He replied, "My name is Legion, for we are many." \textsuperscript{10}And he begged him earnestly not to send them out of the country.
+
+> \textsuperscript{11}Now a great herd of pigs was feeding there on the hillside, \textsuperscript{12}and they begged him, saying, "Send us to the pigs; let us enter them." \textsuperscript{13}So he gave them permission. And the unclean spirits came out and entered the pigs; and the herd, numbering about two thousand, rushed down the steep bank into the sea and drowned in the sea. \textsuperscript{14}The herdsmen fled and told it in the city and in the country. And people came to see what it was that had happened. \textsuperscript{15}And they came to Jesus and saw the demon-possessed man, the one who had had the legion, sitting there, clothed and in his right mind, and they were afraid. \textsuperscript{16}And those who had seen it described to them what had happened to the demon-possessed man and to the pigs. \textsuperscript{17}And they began to beg Jesus to depart from their region. \textsuperscript{18}As he was getting into the boat, the man who had been possessed with demons begged him that he might be with him. \textsuperscript{19}And he did not permit him but said to him, \jesus{"Go home to your friends and tell them how much the Lord has done for you, and how he has had mercy on you."} \textsuperscript{20}And he went away and began to proclaim in the Decapolis how much Jesus had done for him, and everyone marveled.
+
+> \textsuperscript{21}And when Jesus had crossed again in the boat to the other side, a great crowd gathered about him, and he was beside the sea. \textsuperscript{22}Then came one of the rulers of the synagogue, Jairus by name, and seeing him, he fell at his feet \textsuperscript{23}and implored him earnestly, saying, "My little daughter is at the point of death. Come and lay your hands on her, so that she may be made well and live." \textsuperscript{24}And he went with him. And a great crowd followed him and thronged about him. \textsuperscript{25}And there was a woman who had had a discharge of blood for twelve years, \textsuperscript{26}and who had suffered much under many physicians, and had spent all that she had, and was no better but rather grew worse. \textsuperscript{27}She had heard the reports about Jesus and came up behind him in the crowd and touched his garment. \textsuperscript{28}For she said, "If I touch even his garments, I will be made well." \textsuperscript{29}And immediately the flow of blood dried up, and she felt in her body that she was healed of her disease. \textsuperscript{30}And Jesus, perceiving in himself that power had gone out from him, immediately turned about in the crowd and said, \jesus{"Who touched my garments?"} \textsuperscript{31}And his disciples said to him, "You see the crowd pressing around you, and yet you say, 'Who touched me?'" \textsuperscript{32}And he looked around to see who had done it. \textsuperscript{33}But the woman, knowing what had happened to her, came in fear and trembling and fell down before him and told him the whole truth. \textsuperscript{34}And he said to her, \jesus{"Daughter, your faith has made you well; go in peace, and be healed of your disease."}
+
+> \textsuperscript{35}While he was still speaking, there came from the ruler's house some who said, "Your daughter is dead. Why trouble the Teacher any further?" \textsuperscript{36}But overhearing what they said, Jesus said to the ruler of the synagogue, \jesus{"Do not fear, only believe."} \textsuperscript{37}And he allowed no one to follow him except Peter and James and John the brother of James. \textsuperscript{38}They came to the house of the ruler of the synagogue, and Jesus saw a commotion, people weeping and wailing loudly. \textsuperscript{39}And when he had entered, he said to them, \jesus{"Why are you making a commotion and weeping? The child is not dead but sleeping."} \textsuperscript{40}And they laughed at him. But he put them all outside and took the child's father and mother and those who were with him and went in where the child was. \textsuperscript{41}Taking her by the hand he said to her, \jesus{"Talitha cumi,"} which means, \jesus{"Little girl, I say to you, arise."} \textsuperscript{42}And immediately the girl got up and began walking (for she was twelve years of age), and they were immediately overcome with amazement. \textsuperscript{43}And he strictly charged them that no one should know this, and told them to give her something to eat.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+格拉森（或作格各森、加大拉，抄本間地名略有差異）是低加坡里（Decapolis，「十城區」）的外邦地區，養豬本身已顯明此地是猶太律法視為不潔的外邦領土——耶穌一下船，就踏入了猶太人眼中「污穢」的地界，卻在那裏施展祂潔淨的大能。「墳墓」是死亡與禮儀不潔的場所，這人晝夜住在其中、無人能捆綁——馬可用最強烈的筆法，描繪出一個被黑暗權勢徹底轄制、超乎人力所能挽救的光景。
+
+**人名附註**：本章標題沿用傳統譯名「睚魯」（舊版和合本譯法，也是本書全書大綱的慣用稱呼）；和合本修訂版（RCUV）經文本身則譯作「葉魯」，兩者指同一人，經文引用以RCUV原文「葉魯」為準。
+
+### 文學結構：三明治敘事再現
+
+21-43節再次採用馬可典型的「三明治結構」：睚魯求耶穌醫治垂死的女兒（21-24節）→ 血漏婦人的插曲（25-34節）→ 睚魯女兒的故事繼續、直到復活（35-43節）。兩個故事彼此解讀：血漏婦人「十二年」的病程，與睚魯女兒「十二歲」的年紀，形成數字上的呼應；婦人的信心「你的信救了你」，也預先印證了耶穌接著對睚魯所說「不要怕，只要信」——婦人的故事成為睚魯故事的活生生範例，教導他在絕望中仍要單純地信靠。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *Legiōn* | Legiōn | 群、羅馬軍團 | 拉丁詞借用，一個軍團可達六千人，形容附身之鬼數目極多 |
+| *sōphronounta* | sōphronounta | 神智清醒 | 15節，與先前瘋狂自傷的光景形成強烈對比 |
+| *haimorroousa* | haimorroousa | 患血漏的（女人） | 25節，字面「血流不止」 |
+| *sesōken* | sesōken | 救了、治好了 | 34節「你的信救了你」，此動詞兼有「肉身痊癒」與「靈魂得救」的雙重意涵 |
+| *Talitha cum* | Talitha cum | 大利大，古米 | 亞蘭文，馬可少數保留耶穌原本說話語言的例子之一（另見7:34, 15:34） |
+
+### 「你的信救了你」(sesōken) 的雙重意涵
+
+*sōzō*（救）這個動詞在新約中既可指肉身的痊癒，也可指靈魂全備的救恩。耶穌對血漏婦人說「你的信救了你」，用的正是這個雙義詞——她所經歷的，不只是十二年血漏的止息，更是整個人被接納、被醫治、被稱為「女兒」的完整救恩圖畫。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 基督的權柄勝過群鬼的轄制 (Christ's Authority over Legions of Darkness)
+
+無論轄制人的黑暗權勢有多龐大（「群」——一整個軍團之數），都在耶穌一句命令前俯首讓步。人的鐵鏈捆不住的，耶穌的話語卻能立即釋放。
+
+### 2. 生命的價值高於財產的損失 (A Soul's Worth Above Property)
+
+格拉森人因二千頭豬的損失而懼怕，甚至求耶穌離開——這對比出一個嚴肅的提醒：世人常常更看重財產的損失，而非一個生命得著釋放的喜樂。
+
+### 3. 蒙恩者的使命：向自己的群體作見證 (The Healed Man's Mission: Witness to His Own People)
+
+耶穌不許這人跟隨自己，卻差他回到自己的親友當中作見證——這提醒我們：蒙恩得救之後最首要的使命工場，往往就是自己最熟悉、也最了解我們過去光景的家人朋友。
+
+### 4. 卑微而堅忍的信心 (Humble, Persistent Faith)
+
+血漏婦人因禮儀不潔而不敢公開求助，只能「夾在眾人中間，從後面來摸」——她的信心雖顯得卑微、甚至帶著近乎迷信的成分，耶穌卻毫不輕視，反而稱許：「你的信救了你」。
+
+### 5. 「不要怕，只要信」：信心優先於恐懼的證據 (Faith Prevails over the Evidence of Fear)
+
+當眾人已經宣告「你的女兒死了」，耶穌卻對睚魯說「不要怕，只要信」——祂沒有否認死亡的事實，而是宣告：即使在死亡的證據面前，信心仍有立足之地，因為祂掌管生死的界線。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到格拉森人的反應（馬太平行經文），屈梭多模指出：「他准許了他們的請求，並非順從他們，而是為了成就許多目的：其一，教導那些從惡者暴政下得釋放的人，明白那些陰險仇敵何等的惡毒；其二，使眾人明白，若非祂許可，牠們甚至不敢對豬群下手」；他也駁斥一種錯誤觀念：「他們試圖向眾人灌輸一種有害的看法，以為死人的靈魂會變成鬼——這是我們絕不能接受的觀念」。論到睚魯的女兒，屈梭多模指出耶穌「兩件事都要求：親自臨在，以及按手」；論到耶穌刻意等候女孩死去才到達：「祂也是刻意等候死亡臨到，然後才到達，為要使復活的憑據更加清楚無疑」；「祂不僅使她復活，還吩咐給她東西吃，免得這事顯得只是幻象」。論到血漏婦人，他寫道：「她因自己的病症而感到羞愧，自覺是不潔淨的」；「她並非公開，而是暗中懷著信心觸摸祂的衣裳」；「祂使她顯明在眾人面前，為要成就許多目的」；「你的信救了你……祂也賜給她繼續前行的糧食，因為祂說：平安地去吧」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 28 (on Matt 8:28-34) and Homily 31 (on Matt 9:18-26), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到格拉森人的懼怕，加爾文寫道：「格拉森人見了這神蹟就懼怕，因為神的威嚴在基督身上光彩四射。這一點他們做得對；但如今他們卻求祂離開他們的地界，還有甚麼比這更糟的事呢？……這些人竟是何等可恥的麻木不仁：豬群的損失，反倒比他們自己靈魂的得救，更叫他們驚恐」。論到「群」這個名稱，他指出：「魔鬼是被基督所迫，才說出這個詞，為要更完全地彰顯祂恩典的浩大……『群』一詞在此並非指確切的人數，而僅僅指極大的數目」。論到睚魯的信心，加爾文寫道：「若將這位會堂主管與那百夫長相比……你會說，信心的全備光輝照耀在百夫長身上，而在這位主管身上，幾乎看不見一絲信心的蹤影……然而基督仍然應允他的祈求……縱然我們沒有那樣豐盛的信心，也沒有理由因此讓我們的軟弱驅趕我們、使我們灰心，而不去禱告」。論到血漏婦人，他指出：「這位女人的信心中，或許也摻雜著罪與錯誤，但基督仍以恩慈承受、赦免」；「然而基督對她的信心給予高度的稱許……神以慈愛溫柔待祂的百姓——接納他們不完全、軟弱的信心」。論到「不要怕，只要信」，加爾文寫道：「基督囑咐他，要小心不因懼怕或不信而將那恩典拒之門外——縱然死亡本身，對這恩典也毫無阻攔之力」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到格拉森被鬼附的人，麥克阿瑟描述：「他是個瘋狂的人，無法被控制……晝夜不停……在墳墓間和山中喊叫，又用石頭割自己」；論到「群」，他解釋：「這是一個軍事單位，指多達六千名士兵……為要彰顯祂勝過鬼魔那極其廣大的權柄」；論到當地人的反應，他指出他們「沒有一句感謝的話……沒有一絲喜樂的表示」，只有懼怕與逐客的請求；論到耶穌交付的使命：「回到你的親友那裏，將主為你所做何等大的事，並祂怎樣憐憫了你，都告訴他們」。論到血漏婦人與睚魯的女兒，他歸納耶穌一貫展現的六種特質：「隨時可親、隨時可及、樂意被打斷、堅韌不拔的心志、處變不驚，以及對困苦人的憐恤」；論到血漏婦人：「『你的信救了你』——這不只是肉身的醫治，更是她從罪中得了拯救」；論到報信的人質疑「何必還勞駕老師」，他指出報信者「懷疑耶穌是否有能力叫死人復活」；論到「大利大，古米」：「立刻，女孩就站起來，開始行走」。
+> — John MacArthur, *Dominating Powers, Part 2* (41-23), *The Power and Pity of Jesus, Part 1 & 2* (41-24, 41-25), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到格拉森人的反應，摩根指出：「格拉森人竟開始央求祂離開他們的地界——代價太過昂貴了；他們的豬被毀了」。論到睚魯與血漏婦人，他寫道：「這裏有心碎之處。睚魯俯伏在祂腳前，說：『我的小女兒快要死了。』『耶穌就和他同去。』祂當然去了！解說在此都是多餘的」；「這行列在往睚魯家去的路上停頓了。主心裏深沉的憐憫，不能不與這位可憐、破碎、孤獨、被排斥的女人有極親密的接觸——然而使人得醫治的接觸，終必引至榮耀神的承認」。論到報信之人與睚魯女兒的復活，他寫道：「『你的女兒死了。』耶穌的反應和苦難的打擊一樣迅速——『不要怕，只要信。』『孩子沒有死，是睡了。』『大利大，古米。』被這樣的聲音所吸引，孩子的靈魂必從最遙遠之處歸回」。
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：格拉森鬼附、睚魯女兒 (Ask Elder Wong)
+
+**精義一句話**：格拉森人被鬼轄制、血漏婦人的十二年病痛、睚魯女兒的死亡——三種絕境，卻共同指向同一個回應：「你的信救了你」「不要怕，只要信」，唯有單純地信靠這位主，絕境才有出路。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一章三個故事的共同主句，是34節與36節。三種絕境都在問同一個問題：你能不能在證據看似絕望的時候，仍然選擇信？
+- **格拉森人因為損失了兩千頭豬而懼怕、趕走耶穌**——他們看重豬群，勝過看重一個人得釋放的喜樂。你今天是否也曾因為「代價」而拒絕神在你生命中要做的釋放工作？
+- **血漏婦人不敢正面求問，只敢「從後面摸耶穌的衣裳」**——這種帶著羞愧、卻仍然堅持接近耶穌的信心，對你有什麼啟發？
+- **睚魯在「女兒已死」的壞消息面前，耶穌卻說「不要怕，只要信」**——你此刻生命中，有沒有一個已經被「宣告死亡」的處境，卻仍然可以憑信心交托給主？
+
+**整本聖經的連結**：污靈自稱「群」，數目多達一支羅馬軍團——這幅圖畫呼應出埃及記中法老率領的軍隊追趕以色列人，最終卻全軍覆沒於紅海（出14章）；如今污靈「群」被趕入豬群、投海淹死，同一個「大軍全軍覆沒於水中」的圖畫再次出現，宣告：凡與神百姓為敵的權勢，終必如法老的軍隊一樣潰敗。另一條線索：血漏婦人患病「十二年」，睚魯女兒正是「十二歲」——這個數字的呼應讓兩個故事緊密相連：女孩的一生，恰好是婦人受苦的整個歲月，神眷顧祂百姓中每一個個體的生命故事。
+
+**讓話語住在裡面**：格拉森人衡量「值不值得」的標準，是二千頭豬的市場價值；一個人的釋放，反而顯得無足輕重。這個時代同樣習慣用數據、效益、成本衡量一切決策，但耶穌從不用這套邏輯衡量一個生命。默想：我是否也曾像格拉森人一樣，因為代價太大，而抗拒神在我生命中要成就的釋放？今天的實踐：向自己最熟悉的家人或朋友，具體分享一次神在你生命中所做的釋放或醫治的見證。
+
+**你看見耶穌了嗎**：在被群鬼轄制之人重獲神智清醒的畫面裏，在血漏婦人一句「你的信救了你」裏，在死而復活的女孩重新起身行走裏，你看見的，是那位願意為一個人承受整城驅逐、也願意在擁擠人群中為一次觸摸停下腳步的基督——祂看重的，從來不是代價，而是那個人。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **5:36「不要怕，只要信」**：對面對困難的華人信徒的鼓勵——華人文化常以「忍耐」和「硬撐」面對絕境，這句話提供了一個不同的姿態：不是靠自己撐住，而是把恐懼交給信心。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Because He Lives*（因祂活著）
+
+> Because He lives, I can face tomorrow; because He lives, all fear is gone;
+> because I know He holds the future, and life is worth the living, just because He lives.
+>
+> — Bill and Gloria Gaither (1971)
+
+**詩篇**：詩篇 30:2, 5, 11-12
+
+> 耶和華—我的神啊，我曾呼求你，你就醫治我。
+> 一宿雖然有哭泣，早晨便必歡呼。
+> 你將我的悲哀變為跳舞，將我的麻衣脫去，給我披上喜樂，
+> 好叫我的靈歌頌你，並不住聲。耶和華—我的神啊，我要稱謝你，直到永遠！
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+污靈自稱「群」，數目多達一支羅馬軍團——這幅圖畫呼應出埃及記中法老率領的軍隊追趕以色列人，最終全軍覆沒於紅海（出14章）；如今污靈「群」被趕入豬群、投海淹死，同一個「大軍全軍覆沒於水中」的圖畫再次出現，宣告：凡與神百姓為敵的權勢，終必潰敗。另一條線索：血漏婦人患病「十二年」，睚魯女兒正是「十二歲」——這個數字的呼應，讓兩個故事緊密相連：女孩的一生，恰好是婦人受苦的整個歲月，神眷顧祂百姓中每一個個體的生命故事。
+
+### 提問式對話 (Let the Reader Speak)
+
+先問：格拉森人因為損失了兩千頭豬而懼怕、趕走耶穌——他們看重豬群，勝過看重一個人得釋放的喜樂，你覺得他們錯過了什麼？
+再問：血漏婦人不敢正面求問，只敢「從後面摸耶穌的衣裳」——這算不算信心？還是要等到「配得」才敢親近神？
+再問：你此刻生命中，有沒有一個已經被「宣告死亡」的處境，卻仍然可以憑信心交託給主？
+
+### 活在今天 · AI時代 (Living It Today)
+
+格拉森人衡量「值不值得」的標準，是二千頭豬的市場價值；一個人的釋放，反而顯得無足輕重。這個時代同樣習慣用數據、效益、成本衡量一切決策，但耶穌從不用這套邏輯衡量一個生命——祂看重的，從來不是可以被計算的代價。
+
+### 今天的祭壇 (Today's Altar)
+
+向自己最熟悉的家人或朋友，具體分享一次神在你生命中所做的釋放或醫治的見證——就像那位被差回自己家鄉的格拉森人一樣。
+
+## 黃長老精義 (The Distilled Key)
+
+格拉森人被鬼轄制、血漏婦人的十二年病痛、睚魯女兒的死亡——三種絕境，卻共同指向同一個回應：「你的信救了你」「不要怕，只要信」，唯有單純地信靠這位主，絕境才有出路。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **代價與釋放**：格拉森人因財產損失而拒絕耶穌的同在。你生命中是否也曾因為害怕「代價」，而抗拒神要在你身上動的工？
+
+2. **卑微而堅忍的信心**：血漏婦人的信心帶著羞愧、卻仍不放棄地伸手觸摸。你今天的信心，是等到「配得」才敢親近神，還是願意帶著軟弱仍然伸手？
+
+3. **在壞消息中持守信心**：「你的女兒死了，何必還勞駕老師呢？」耶穌卻說「不要怕，只要信」。你此刻生命中，有沒有一個已被宣判「沒有希望」的處境，是你需要重新憑信心交托的？
+
+4. **回到自己的群體作見證**：蒙恩的格拉森人被差回自己熟悉的群體。你是否也願意在自己最了解你過去光景的人當中，見證神的作為？
+
+### 禱告回應
+
+> 主啊，感謝你的權柄勝過一切黑暗的轄制，也感謝你紀念每一個被病痛、羞辱、絕望所困的生命。
+> 求你賜我像血漏婦人一樣，縱然帶著軟弱和羞愧，仍願意伸手觸摸你的信心。
+> 求你在我生命中一切看似絕望的處境裏，提醒我「不要怕，只要信」。
+> 求你使用我，在自己最熟悉的群體中，見證你在我生命中所做的大事。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 格拉森人因為二千頭豬的損失而懼怕，反而求耶穌離開他們的地界——這對我們今天衡量「屬靈的得著」與「世俗的代價」有什麼提醒？
+
+2. 耶穌不許蒙恩的格拉森人跟隨自己，卻差他回到自己的家鄉作見證——這對今天教會裝備信徒在自己最熟悉的處境中作見證，有什麼啟發？
+
+3. 血漏婦人「十二年」的病程與睚魯女兒「十二歲」的年紀彼此呼應——馬可將這兩個故事交織敘述，對我們理解神眷顧個別生命的方式，有什麼提醒？
+
+4. 「不要怕，只要信」——在死亡的證據已經擺在眼前時，耶穌仍如此宣告。這對我們今天在絕望處境中持守信心，有什麼實際的幫助？
+
+5. 耶穌吩咐睚魯的女兒復活後「給她東西吃」——這個看似瑣碎的細節，對我們理解神蹟的真實性、以及神對日常生活細節的關顧，有什麼提醒？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第六章：被拿撒勒厭棄、差遣十二 (Rejected at Nazareth, Sending the Twelve)
+
+馬可福音 6:1-56
+
+**經文核對**：[ai-eden.com/bible/mark/6](https://www.ai-eden.com/bible/mark/6?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+這一章把僕人基督推向事工的另一個高峰，也帶讀者經歷祂事工中最尖銳的一次挫敗——在自己的家鄉，祂「不能行甚麼異能」，只能「詫異他們不信」。但拒絕沒有攔阻使命：祂隨即差遣十二使徒兩個兩個出去，又親眼目睹祂的先鋒施洗約翰死於一場荒唐的生日宴會，然後以五餅二魚餵飽五千人、在海面上行走，向門徒一次又一次啟示祂真實的身分。從被厭棄到被高舉、從殉道者的死到創造主的行走水面，馬可讓讀者看見：人的拒絕與死亡的威脅，都不能阻擋神國度的前進。
+
+---
+
+## 配詩 (Opening Hymn)
+
+**《求主擘開生命之糧》(Break Thou the Bread of Life)**
+
+> Break Thou the bread of life, dear Lord, to me,
+> as Thou didst break the loaves beside the sea;
+> beyond the sacred page I seek Thee, Lord;
+> my spirit pants for Thee, O living Word.
+>
+> — Mary A. Lathbury (1877)
+
+未讀這一章之前，先唱這首詩：一個熟悉耶穌長大、卻厭棄祂的家鄉；一群兩手空空被差遣出去的使徒；一片荒野之地，五個餅、兩條魚，卻擘出夠五千人吃飽的糧食。求主在你翻開經文之前，先擘開屬天的糧，讓你不只是讀一段熟悉的故事，乃是在其中再次遇見那賜糧的主。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**拿撒勒人厭棄耶穌**
+
+> \textsuperscript{1}耶穌離開那裏，來到自己的家鄉；門徒也跟從他。\textsuperscript{2}到了安息日，他在會堂裏教導人。眾人聽見，就很驚奇，說：「這人哪來這本事呢？所賜給他的是甚麼智慧？他手所做的是何等的異能呢？\textsuperscript{3}這不是那木匠嗎？不是馬利亞的兒子雅各、約西、猶大、西門的長兄嗎？他姊妹們不也是在我們這裏嗎？」他們就厭棄他。\textsuperscript{4}耶穌對他們說：\jesus{「先知除了在本鄉、本族和自己的家之外，沒有不被尊敬的。」}\textsuperscript{5}耶穌在那裏不能行甚麼異能，不過為幾個病人按手，治好他們。\textsuperscript{6}他也詫異他們不信。
+
+**差遣十二使徒**
+
+> 他又走遍周圍鄉村教導人。\textsuperscript{7}他叫了十二個使徒來，差遣他們兩個兩個地出去，也賜給他們權柄制伏污靈，\textsuperscript{8}並且吩咐他們：途中不要帶食物和行囊，腰袋裏也不要帶錢，除了手杖以外，甚麼都不要帶；\textsuperscript{9}只要穿鞋子，也不要穿兩件內衣。\textsuperscript{10}他又對他們說：\jesus{「你們無論到何處，進哪家，就住在哪裏，直到離開那地方。\textsuperscript{11}若有甚麼地方的人不接待你們，不聽你們，你們離開那裏的時候，要跺掉你們腳上的塵土，證明他們的不是。」}\textsuperscript{12}使徒就出去傳道，叫人悔改，\textsuperscript{13}又趕出許多鬼，用油抹了許多病人，治好他們。
+
+**希律與施洗約翰之死**
+
+> \textsuperscript{14}耶穌的名聲傳開了，希律王也聽見。有人說：「施洗的約翰從死人中復活了，因此才有這些異能在他裏面運行。」\textsuperscript{15}但別人說：「他是以利亞。」又有人說：「是先知，正如先知中的一位。」\textsuperscript{16}希律聽見卻說：「是我所斬的約翰，他復活了。」\textsuperscript{17}原來，希律為他兄弟腓力的妻子希羅底的緣故，派人去抓了約翰，把他綁了在監獄裏，因為希律已經娶了那婦人。\textsuperscript{18}約翰曾對希律說：「你佔有你兄弟的妻子是不合法的。」\textsuperscript{19}於是希羅底懷恨他，想要殺他，只是不能。\textsuperscript{20}因為希律怕約翰，知道他是義人，是聖人，所以就保護他，雖然聽了他的講論十分困惑，仍然樂意聽他。\textsuperscript{21}有一天，恰巧是希律的生日，希律擺設宴席，請了大臣、千夫長和加利利的領袖。\textsuperscript{22}他的女兒希羅底進來跳舞，使希律和同席的人都很高興。王就對女孩說：「無論你要甚麼，向我求，我都會給你」；\textsuperscript{23}又對她多次起誓說：「無論你向我求甚麼，就是我國家的一半，我也會給你。」\textsuperscript{24}她就出去對她母親說：「我該求甚麼呢？」她母親說：「施洗約翰的頭。」\textsuperscript{25}她就急忙進去見王，求他說：「我願王立刻把施洗約翰的頭放在盤子裏給我。」\textsuperscript{26}王就很憂愁，然而因他所發的誓，又因同席的人，不願食言，\textsuperscript{27}就立刻派一個衛兵，吩咐拿約翰的頭來。衛兵就去，在監獄裏斬了約翰，\textsuperscript{28}把頭放在盤子裏，拿來給那女孩，她就給她母親。\textsuperscript{29}約翰的門徒聽到了，就來把他的屍體領去，放在墳墓裏。
+
+**五餅二魚餵飽五千人**
+
+> \textsuperscript{30}使徒們聚集到耶穌那裏，把一切所做的事、所傳的道全告訴他。\textsuperscript{31}他就說：\jesus{「你們來，同我私下到荒野的地方去歇一歇。」}這是因為來往的人多，他們連吃飯的時間也沒有。\textsuperscript{32}他們就坐船，私下往荒野的地方去。\textsuperscript{33}眾人看見他們走了，有許多認識他們的，就從各城步行，一同跑到那裏，比他們先趕到了。\textsuperscript{34}耶穌出來，見有一大群的人，就憐憫他們，因為他們如同羊沒有牧人一般，於是開始教導他們許多事。\textsuperscript{35}天已經很晚，門徒進前來，說：「這地方偏僻，而且天已經很晚了，\textsuperscript{36}請叫眾人散去，他們好往四面的鄉鎮村莊去，自己買些東西吃。」\textsuperscript{37}耶穌回答他們說：\jesus{「你們給他們吃吧！」}門徒對他說：「我們要拿兩百個銀幣去買餅給他們吃嗎？」\textsuperscript{38}耶穌說：\jesus{「你們有多少餅？去看看。」}他們知道後就說：「有五個，還有兩條魚。」\textsuperscript{39}耶穌吩咐他們，叫眾人一組一組地坐在青草地上。\textsuperscript{40}眾人就一群一群地坐下，有一百的，有五十的。\textsuperscript{41}耶穌拿著這五個餅和兩條魚，望著天祝福，擘開餅，遞給門徒，擺在眾人面前，也把那兩條魚分給眾人。\textsuperscript{42}他們都吃，並且吃飽了。\textsuperscript{43}門徒把餅和魚的碎屑收拾起來，裝滿了十二個籃子。\textsuperscript{44}吃餅的男人共有五千。
+
+**耶穌在海面上行走**
+
+> \textsuperscript{45}耶穌隨即催門徒上船，先渡到對岸，到伯賽大去，等他叫眾人散去。\textsuperscript{46}他辭別了他們，就往山上去禱告。\textsuperscript{47}到了晚上，船在海中，耶穌獨自在岸上。\textsuperscript{48}他看見門徒因風不順，搖櫓很苦。天快亮的時候，他在海面上走，往他們那裏去，想要超過他們。\textsuperscript{49}但門徒看見他在海面上走，以為是鬼怪，就喊叫起來；\textsuperscript{50}因為他們都看見了他，甚為驚慌。耶穌連忙對他們說：\jesus{「放心！是我，不要怕！」}\textsuperscript{51}於是他到他們那裏，一上船，風就停了；他們心裏十分驚奇。\textsuperscript{52}這是因為他們不明白那分餅的事，心裏還是愚頑。
+
+**革尼撒勒的醫治**
+
+> \textsuperscript{53}他們渡過了海，在革尼撒勒靠岸，泊了船，\textsuperscript{54}他們一下來，眾人立刻認出是耶穌，\textsuperscript{55}就跑遍那整個地區，聽到他在哪裏，就把有病的人用褥子抬到哪裏。\textsuperscript{56}耶穌所到的地方，或村中、或城裏、或鄉間，他們都把病人放在街市上，求耶穌讓他們摸一摸他的衣裳繸子，摸著的人就都好了。
+
+### English — ESV
+
+> \textsuperscript{1}He went away from there and came to his hometown, and his disciples followed him. \textsuperscript{2}And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, "Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands? \textsuperscript{3}Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us?" And they took offense at him. \textsuperscript{4}And Jesus said to them, \jesus{"A prophet is not without honor, except in his hometown and among his relatives and in his own household."} \textsuperscript{5}And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. \textsuperscript{6}And he marveled because of their unbelief.
+
+> And he went about among the villages teaching. \textsuperscript{7}And he called the twelve and began to send them out two by two, and gave them authority over the unclean spirits. \textsuperscript{8}He charged them to take nothing for their journey except a staff—no bread, no bag, no money in their belts— \textsuperscript{9}but to wear sandals and not put on two tunics. \textsuperscript{10}And he said to them, \jesus{"Whenever you enter a house, stay there until you depart from there. \textsuperscript{11}And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them."} \textsuperscript{12}So they went out and proclaimed that people should repent. \textsuperscript{13}And they cast out many demons and anointed with oil many who were sick and healed them.
+
+> \textsuperscript{14}King Herod heard of it, for Jesus' name had become known. Some said, "John the Baptist has been raised from the dead. That is why these miraculous powers are at work in him." \textsuperscript{15}But others said, "He is Elijah." And others said, "He is a prophet, like one of the prophets of old." \textsuperscript{16}But when Herod heard of it, he said, "John, whom I beheaded, has been raised." \textsuperscript{17}For it was Herod who had sent and seized John and bound him in prison for the sake of Herodias, his brother Philip's wife, because he had married her. \textsuperscript{18}For John had been saying to Herod, "It is not lawful for you to have your brother's wife." \textsuperscript{19}And Herodias had a grudge against him and wanted to put him to death. But she could not, \textsuperscript{20}for Herod feared John, knowing that he was a righteous and holy man, and he kept him safe. When he heard him, he was greatly perplexed, and yet he heard him gladly. \textsuperscript{21}But an opportunity came when Herod on his birthday gave a banquet for his nobles and military commanders and the leading men of Galilee. \textsuperscript{22}For when Herodias's daughter came in and danced, she pleased Herod and his guests. And the king said to the girl, "Ask me for whatever you wish, and I will give it to you." \textsuperscript{23}And he vowed to her, "Whatever you ask me, I will give you, up to half my kingdom." \textsuperscript{24}And she went out and said to her mother, "For what should I ask?" And she said, "The head of John the Baptist." \textsuperscript{25}And she came in immediately with haste to the king and asked, saying, "I want you to give me at once the head of John the Baptist on a platter." \textsuperscript{26}And the king was exceedingly sorry, but because of his oaths and his guests he did not want to break his word to her. \textsuperscript{27}And immediately the king sent an executioner with orders to bring John's head. He went and beheaded him in the prison \textsuperscript{28}and brought his head on a platter and gave it to the girl, and the girl gave it to her mother. \textsuperscript{29}When his disciples heard of it, they came and took his body and laid it in a tomb.
+
+> \textsuperscript{30}The apostles returned to Jesus and told him all that they had done and taught. \textsuperscript{31}And he said to them, \jesus{"Come away by yourselves to a desolate place and rest a while."} For many were coming and going, and they had no leisure even to eat. \textsuperscript{32}And they went away in the boat to a desolate place by themselves. \textsuperscript{33}Now many saw them going and recognized them, and they ran there on foot from all the towns and got there ahead of them. \textsuperscript{34}When he went ashore he saw a great crowd, and he had compassion on them, because they were like sheep without a shepherd. And he began to teach them many things. \textsuperscript{35}And when it grew late, his disciples came to him and said, "This is a desolate place, and the hour is now late. \textsuperscript{36}Send them away to go into the surrounding countryside and villages and buy themselves something to eat." \textsuperscript{37}But he answered them, \jesus{"You give them something to eat."} And they said to him, "Shall we go and buy two hundred denarii worth of bread and give it to them to eat?" \textsuperscript{38}And he said to them, \jesus{"How many loaves do you have? Go and see."} And when they had found out, they said, "Five, and two fish." \textsuperscript{39}Then he commanded them all to sit down in groups on the green grass. \textsuperscript{40}So they sat down in groups, by hundreds and by fifties. \textsuperscript{41}And taking the five loaves and the two fish, he looked up to heaven and said a blessing and broke the loaves and gave them to the disciples to set before the people. And he divided the two fish among them all. \textsuperscript{42}And they all ate and were satisfied. \textsuperscript{43}And they took up twelve baskets full of broken pieces and of the fish. \textsuperscript{44}And those who ate the loaves were five thousand men.
+
+> \textsuperscript{45}Immediately he made his disciples get into the boat and go before him to the other side, to Bethsaida, while he dismissed the crowd. \textsuperscript{46}And after he had taken leave of them, he went up on the mountain to pray. \textsuperscript{47}And when evening came, the boat was out on the sea, and he was alone on the land. \textsuperscript{48}And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, walking on the sea. He meant to pass by them, \textsuperscript{49}but when they saw him walking on the sea they thought it was a ghost, and cried out, \textsuperscript{50}for they all saw him and were terrified. But immediately he spoke to them and said, \jesus{"Take heart; it is I. Do not be afraid."} \textsuperscript{51}And he got into the boat with them, and the wind ceased. And they were utterly astounded, \textsuperscript{52}for they did not understand about the loaves, but their hearts were hardened.
+
+> \textsuperscript{53}When they had crossed over, they came to land at Gennesaret and moored to the shore. \textsuperscript{54}And when they got out of the boat, the people immediately recognized him \textsuperscript{55}and ran about the whole region and began to bring the sick people on their beds to wherever they heard he was. \textsuperscript{56}And wherever he came, in villages, cities, or countryside, they laid the sick in the marketplaces and implored him that they might touch even the fringe of his garment. And as many as touched it were made well.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+拿撒勒是耶穌成長之地，鄰里都熟悉祂「木匠」的身分與家族——正因太熟悉，反而成了信心的攔阻。差遣十二使徒「不要帶錢囊」的指示，反映當時猶太文化中旅行者仰賴當地款待的常規；「跺掉腳上的塵土」則是猶太人從外邦地區返回時的潔淨儀式，用在此處，是宣告某地拒絕福音、當自負其責。希律安提帕是希律大帝之子，加利利與比利亞的分封王；他娶了兄弟腓力的妻子希羅底，正觸犯了利未記18:16、20:21禁止的亂倫律法，這正是施洗約翰公開指責他的緣由。
+
+### 文學結構
+
+這一章以「拒絕」開篇（拿撒勒人厭棄耶穌），卻以「差遣」延續使命（十二使徒出去傳道）；中間插入施洗約翰殉道的倒敘，既解釋了希律對耶穌名聲的驚恐反應，也預告了忠心傳道者可能付上的終極代價；隨後五餅二魚與海面行走兩個神蹟，將讀者的注意力重新拉回耶穌自己的身分——祂正是那能使荒野變為筵席、能在深海之上行走如履平地的那一位。52節「這是因為他們不明白那分餅的事，心裏還是愚頑」是全章的關鍵評語：門徒雖然親眼見過五餅二魚的神蹟，卻仍未真正領悟其中所啟示的基督位格，因而在海上風浪中依然驚慌失措。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *eskandalizonto* | eskandalizonto | 厭棄、跌倒 | 3節，字面「被絆倒」，拿撒勒人因太熟悉耶穌的出身而跌倒 |
+| *ethaumazen* | ethaumazen | 詫異、驚訝 | 6節，唯獨此處記載耶穌「詫異」，且是因人的不信而詫異 |
+| *dyo dyo* | dyo dyo | 兩個兩個地 | 7節，希伯來式重複語法表達「一對一對」，暗示互相扶持、彼此見證的原則 |
+| *splanchnisthē* | splanchnisthē | 動了憐憫的心 | 34節，與1:41醫治痲瘋病人用的是同一詞根 |
+| *egō eimi* | egō eimi | 是我 | 50節「是我，不要怕」，字面即「我是」，呼應出埃及記3:14神向摩西自稱的名字 |
+| *pepōrōmenē* | pepōrōmenē | 剛硬、麻木 | 52節「心裏還是愚頑」，字面指心臟外層組織變得堅硬麻木 |
+
+### 「是我」(egō eimi) 的神聖分量
+
+耶穌對驚慌的門徒說「放心！是我，不要怕！」——這句話原文正是 *egō eimi*，與神在出埃及記3:14向摩西自稱「我是自有永有的」用了同樣的表達方式。門徒以為看見鬼怪，耶穌卻用這句話同時安撫他們的恐懼，也隱然宣告：站在海面上的這一位，正是那位曾對摩西啟示自己名字的耶和華神。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 熟悉可能成為信心的攔阻 (Familiarity Can Obstruct Faith)
+
+拿撒勒人因太熟悉耶穌的家庭背景，反而看不見祂真正的身分——「先知在本鄉不被尊敬」提醒我們：屬靈的洞察力，往往被人的成見與熟悉感所蒙蔽。
+
+### 2. 差遣伴隨簡樸與倚靠 (Sending Comes with Simplicity and Dependence)
+
+十二使徒被差遣時幾乎「兩手空空」——這不是苦行的操練，而是要他們學習全然倚靠神的供應與當地人的接待，而非自己預備的資源。
+
+### 3. 忠心的代價：施洗約翰之死 (The Cost of Faithfulness: John's Martyrdom)
+
+施洗約翰因堅持指出罪、不肯妥協而付上性命的代價——他的死亡插入在門徒被差遣傳道悔改之後，提醒讀者：忠心傳講真理，可能招致世俗權柄的敵視乃至殺害。
+
+### 4. 憐憫先於教導，教導先於神蹟 (Compassion Precedes Teaching, Teaching Precedes the Miracle)
+
+耶穌見群眾「如同羊沒有牧人」，先「動了憐憫的心」，然後「教導他們許多事」，最後才行神蹟餵飽他們——神蹟不是目的本身，而是憐憫與教導這更深層需要的延伸供應。
+
+### 5. 認識「是我」的功課：從神蹟到位格的認識 (Knowing "It Is I": From Miracle to Person)
+
+門徒經歷了五餅二魚的神蹟，卻「不明白那分餅的事，心裏還是愚頑」，以致在海面行走的神蹟前仍然驚慌——馬可提醒讀者：經歷神蹟不等於真正認識神蹟背後的那一位；唯有心不再剛硬，才能真正「明白」。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到拿撒勒人的厭棄（馬太平行經文），屈梭多模引證：「這不是那木匠的兒子嗎？他們就厭棄他」；他指出耶穌「因他們不信而未多行異能」，並提醒「先知除了在本地、本家之外，沒有不被尊敬的」——這句話本身早有先例，「大衛不過是個卑微農夫耶西的兒子，阿摩司不過是個牧羊人的孩子」，可見卑微的出身從不應成為拒絕神所立之人的理由，故他們的跌倒是當受責備的，而非合理的反應；他也指出耶穌的節制：「當這方法未能成功時，祂便不再顧及自己受何等對待，為要不加重他們的刑罰」——即耶穌部分程度上減少在當地行神蹟，也是出於憐憫，免得加重他們拒絕真理的罪責。論到五餅二魚，他指出：「耶穌出來，看見一大群人，就憐憫他們，醫治他們的病人」；論到門徒的軟弱：他們「仍然相當軟弱」，尚未預備好期待這樣一個倍增的神蹟；他也指出耶穌特意使用門徒自己僅有的食物而非憑空創造，是要讓門徒「親手」見證這神蹟，成為見證的憑據。論到海面行走，屈梭多模寫道：「這是要教導我們，獨處與退隱，正是禱告的美好時機」；論到彼得的請求「求你叫我從水面上走到你那裏去」，他指出：「祂沒有說『求告與懇求』，而是說『吩咐』——你看，他何等火熱，何等大的信心！因為沒有人這樣愛耶穌」；論到彼得的失敗，他指出：「不是風的猛烈，而是他信心的缺乏，使他傾覆」；最終「他們進了船，風就止住了」，門徒敬拜祂說：「你真是神的兒子了」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 48 (on Matt 13:53-58), Homily 49 (on Matt 14:13-21), and Homily 50 (on Matt 14:22-33), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到希律殺害施洗約翰，加爾文寫道：「約翰被捕，是因為他曾公開譴責希律奪取希羅底、行那亂倫的婚姻」；論到那舞蹈：「一個適婚的年輕女子竟公開跳舞，本身就是可恥的展示」；論到那誓言：「酒的熱力對希律產生了如此的影響，以致他忘卻了莊重與審慎」，甚至許諾「就是國家的一半」；論到希律的懦弱：「他既懼怕失去名聲，又懼怕實際的傷害」，卻「沒有勇氣拒絕一個跳舞女孩的請求」。論到五餅二魚，他指出：「祂特意將原本要行的神蹟延遲到此刻，為要使門徒更加專注地思想這事，從而得著更大的益處」；祂的憐憫是因百姓「如同沒有牧人的羊」，門徒也親手從基督那裏領受餅，得以親眼見證這增添的神蹟。論到海面行走，他寫道：「祂獨自上山去，我毫不懷疑，神的兒子在禱告之中，也沒有忽略祂門徒的安全」；論到門徒的心「仍然愚頑」：「他們不明白那分餅的神蹟；因為那神蹟早已充分證明基督擁有神聖的能力」；論到彼得：「小信的人哪，為甚麼疑惑呢？」
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到拿撒勒人的不信，麥克阿瑟指出：「不信使人看不見顯而易見的事，高舉無關緊要的瑣事，並且憎恨那報信的人」；「一個先知，除了在本鄉、在自己的親屬中間、在自己家裏之外，沒有不被尊敬的」；「祂詫異他們的不信」。論到差遣十二使徒，他強調兩個兩個差遣的用意，並指出「他們出去，宣講人要悔改」。論到希律殺害施洗約翰，他寫道：「『我所斬的約翰，他復活了』……這正投射出他內心最深的焦慮，他最大的恐懼，他最大的懼怕」；論到希律的誓言：「無論你向我求甚麼，直到我國的一半，我都給你——這是何等的愚妄，是過度誇大的自誇之詞」；他總結：「因懼怕一個女人，因懼怕失去王位，因愚昧的驕傲，他斷送了自己的靈魂」。論到五餅二魚，他指出：「這是群眾，約有二萬到二萬五千人，或許更多」，並強調「這是創造主所行的創造——祂自己百姓的信心因此得著堅固」。論到海面行走，他指出：「他們對餅的神蹟毫無領悟，他們的心仍然剛硬」；「放心，是我，不要害怕」；「餵飽的神蹟沒有使他們明白，但這件事卻使他們明白了——那一夜，他們從懼怕轉向了信心」。
+> — John MacArthur, *Amazing Unbelief* (41-26), *Ordinary Men, Extraordinary Calling* (41-27), *The Murder of the Greatest Prophet* (41-29), *The Creator Provides* (41-30), *Jesus Walks on Water* (41-31), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到拿撒勒人的厭棄，摩根指出：「祂在那裏不能行甚麼異能」——「這是全能者的癱瘓。為何祂在那裏不能行異能？因為神已被排除在他們生命的中心渴望與動機之外」；他將此與耶路撒冷人的質疑對照：「這人沒有學過，怎麼會念書呢？」耶穌的回答是：「我的教訓不是我自己的，乃是那差我來者的……若有人立志遵著他的旨意行，就必知道這教訓」——摩根總結：「拿撒勒這些人正缺乏這樣的心志；生命的中心動機是錯的。他們不是想要遵行神的旨意，而是想要討自己的喜悅」；「『祂詫異』，不是『詫異於他們的不信』，而是『因他們的不信而詫異』；他們的不信不是祂詫異的對象，而是詫異的原因」。摩根引用耶利米書2:12-13：「諸天哪，要因此驚奇……我的百姓離棄我這活水的泉源，為自己鑿出池子，是破裂不能存水的池子」。摩根特別聲明對希律殺害約翰一事「此刻我並不特別關注，除非它與這段默想有所關連」，僅將其視為耶穌名聲已經傳開的證據。論到五餅二魚與海面行走，他指出：「這是君王對祂百姓的憐憫……祂看他們如同沒有牧人的羊」；論到差遣兩個兩個：「我們的主從不曾差遣任何一人單獨前往艱難的工場。我們卻常常這樣做，且至今仍是如此，如此便違背了一項根本的原則」；論到「你們自己來，暫且歇一歇」：「我們切勿在通篇屬靈化這句話時，剝奪了它原有的美——祂留意到他們肉身的疲乏，便從那裏開始」；論到海上風暴：「這裏用了一個強烈的詞，我們譯作『艱苦』，但更直譯的說法，應是他們『搖櫓極其勞苦』……他們為何不轉回？……風不順；他們是在順服的道路上遭遇艱難的」；「門徒的心是剛硬的，這意味著他們遲鈍、愚昧，因此不明白餅的神蹟，以致驚訝於祂對元素的掌管」；他總結十二使徒：「祂揀選他們，是何等奇妙的事！祂裝備他們，是何等奇妙的事！祂使用他們，是何等奇妙的事！……在一切的事奉中，我們都當說：『耶和華啊，不是我們，不是我們，要將榮耀歸與你的名。』」
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 78:19-20, 23-25, 52-53
+
+> 他們妄論神說：「神在曠野豈能擺設筵席嗎？」
+> 他一擊打磐石，水就湧出，成了江河。他還能賜糧食嗎？還能為他的百姓預備肉嗎？
+> 他卻吩咐天空，敞開天上的門，降嗎哪，像雨給他們吃，將天上的糧食賜給他們。
+> 他卻領出自己的百姓如羊群，在曠野引導他們如羊群一般。
+> 他領他們穩穩妥妥地，使他們不致害怕；海卻淹沒他們的仇敵。
+
+以色列人在曠野質疑「神在曠野豈能擺設筵席」，神卻用嗎哪回答他們的不信；如今耶穌在同一片曠野之地，用五個餅、兩條魚擺設筵席，餵飽五千人。詩篇78篇歷數以色列人一次次的懷疑與神一次次信實的供應——這正是6章要說的：神的供應從不因人的懷疑而止息。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Break Thou the Bread of Life（求主擘開生命之糧）
+
+> Break Thou the bread of life, dear Lord, to me,
+> as Thou didst break the loaves beside the sea;
+> beyond the sacred page I seek Thee, Lord;
+> my spirit pants for Thee, O living Word.
+>
+> — Mary A. Lathbury (1877)
+
+Lathbury寫這首詩時，正是以五餅二魚的神蹟為喻：讀經若只停在「聖言的書頁」，卻沒有遇見那擘餅的主自己，讀經就只是知識的累積。「我的靈渴慕你」——這正是拿撒勒人所缺乏的渴慕：他們太熟悉耶穌的書頁（祂的家世、祂的職業），卻從未真正渴慕認識書頁背後那一位。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：被拿撒勒厭棄、差遣十二 (Ask Elder Wong)
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一章最關鍵的一句評語，是52節：「這是因為他們不明白那分餅的事，心裏還是愚頑。」如果拿掉這一句，你還能看懂門徒為何在海面行走的神蹟前依然驚慌嗎？
+- **拿撒勒人因為太熟悉耶穌的家庭背景，反而看不見祂的身分**——你是否也曾因為太熟悉某個人（家人、老朋友），而看不見神可能正在他們身上做的工作？
+- **十二使徒被差遣時幾乎兩手空空**——這對你倚靠自己的資源、還是倚靠神的供應，有什麼提醒？
+- **門徒經歷了五餅二魚的神蹟，卻仍在風浪中驚慌失措**——你是否也曾「見過神的作為」，卻在下一次的難處中，仍然忘記倚靠祂？
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **6:31「你們來……歇一歇」**：對華人過度勞碌者的牧者關懷——華人文化常把「休息」視為懶惰或不夠拚搏，耶穌卻主動命令門徒停下來安歇。
+- **6:37「你們給他們吃吧」**：我們是管道，不是來源——這提醒常憑一己之力硬撐服事的華人信徒：資源的有限不是拒絕服事的理由，因為供應的源頭從來不是我們自己。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+| 主題 | 詩篇／聖詩 | 經文連結 |
+|------|-----------|----------|
+| 曠野的筵席 | 詩篇 78:19-25 | 神在曠野降嗎哪，如今耶穌在荒野擺設筵席 |
+| 領受生命之糧 | *Break Thou the Bread of Life* | 求主擘開，不只讀書頁，更遇見那賜糧的主 |
+| 安然倚靠 | 詩篇 91 | 「你不怕黑夜的驚駭」——呼應海面行走時「不要怕」 |
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+耶穌在海面上對門徒說「是我」（*egō eimi*），正是出埃及記3:14神向摩西自稱「我是自有永有的」的同一表達——這條線索一路延伸到約翰福音耶穌七次「我是」的宣告，貫穿整本聖經，指向同一位創造主。另一條線索：出埃及記16章神在曠野降下嗎哪餵養以色列全會眾；如今耶穌在「荒野的地方」用五餅二魚餵飽五千人——摩西不能使百姓的糧食憑空倍增，耶穌卻能使五個餅、兩條魚足夠餵飽數千人，還剩下十二籃，祂正是那位比摩西更大的供應者。
+
+### 提問式對話 (Let the Reader Speak)
+
+先別讓我說——你覺得這一章最讓你意外的一句話是哪一句？是「先知在本鄉不被尊敬」，還是「他也詫異他們不信」？再想想：一位創造宇宙的神，竟然會「詫異」——這對你認識神的本性，有什麼衝擊？
+
+### 活在今天 · AI時代 (Living It Today)
+
+這個時代習慣把熟悉等同於了解——演算法根據你過去的偏好，不斷推送你已經熟悉的內容，讓你越來越難遇見真正嶄新的啟示。拿撒勒人正落入這樣的陷阱：太熟悉耶穌，以致看不見祂真正的身分。你今天接收信息的方式，是否也讓你越來越只看見自己已經同意的東西，卻越來越難被真理挑戰？
+
+### 今天的祭壇 (Today's Altar)
+
+默想：我是否也曾像門徒一樣，經歷神的供應卻仍然心裏剛硬？今天的實踐：效法被差遣的門徒，簡樸地倚靠神的供應去服事一個人，而非仰賴自己充分的預備。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+拿撒勒人因熟悉而看不見耶穌，門徒因剛硬而看不透神蹟的意義——全章其實是關於「看不見」與「看得見」的對比：唯有謙卑受教的心，才能真正認出神的作為。在拿撒勒的拒絕裏、在十二使徒的簡樸差遣裏、在曠野筵席與海面行走裏，你看見的，是那位不因人的厭棄而收回使命、反而讓拒絕成為更廣差遣之契機的基督——祂是那位比摩西更大的供應者，也是那位親口對驚慌之人說「是我，不要怕」的創造主。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **熟悉的攔阻**：拿撒勒人因太熟悉耶穌而厭棄祂。你生活中有沒有因為「太熟悉」而看不見神作為的人或處境？
+
+2. **簡樸的倚靠**：十二使徒被差遣時幾乎兩手空空。今天你是否願意放下對自己資源的倚賴，單單信靠神的供應？
+
+3. **忠心的代價**：施洗約翰因堅持真理而付上性命。你在生活中是否也曾因為顧忌代價，而在應該指出真理時選擇了沉默？
+
+4. **從神蹟到認識**：門徒經歷了神蹟卻仍心裏剛硬。你今天是否願意求神光照，讓你不只是「經歷」神的作為，更能真正「認識」祂自己？
+
+### 禱告回應
+
+> 主啊，求你光照我心中「太熟悉」而看不見你作為的地方。
+> 求你教導我像十二使徒一樣，簡樸地倚靠你的供應而非自己的預備。
+> 求你賜我像施洗約翰一樣持守真理的勇氣，即使代價高昂。
+> 求你除去我心中的剛硬，讓我不僅經歷你的神蹟，更真實地認識你自己。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 拿撒勒人因熟悉耶穌的家庭背景而厭棄祂——這對我們今天看待身邊熟悉的人可能蒙神使用，有什麼提醒？
+
+2. 耶穌差遣十二使徒時吩咐他們幾乎不帶任何裝備——這對今天教會或個人事奉時，過度倚賴資源與計劃、卻疏於倚靠神的供應，有什麼提醒？
+
+3. 施洗約翰因指責希律的罪而被囚禁、殺害——這對今天教會在面對世俗權勢時，是否仍願意堅持真理、承擔可能的代價，有什麼挑戰？
+
+4. 「這是因為他們不明白那分餅的事，心裏還是愚頑」——門徒經歷神蹟卻仍未真正認識耶穌的身分，這對我們今天「經歷神」與「認識神」之間的差距，有什麼提醒？
+
+5. 「是我，不要怕」——耶穌在海面上的宣告，呼應出埃及記神向摩西啟示的名字。這對你理解耶穌的神性，有什麼幫助？
+
+---
+
+## 與其他經文的關聯
+
+- **馬太福音13:53-58；路加福音4:16-30**——平行經文，路加特別記載拿撒勒會堂當日群眾激憤到要將耶穌推下山崖。
+- **馬太福音10:1-15**——差遣十二使徒的平行記載，指示更為詳盡。
+- **馬太福音14:1-21；路加福音9:7-17**——希律的困惑與五餅二魚的平行記載。
+- **約翰福音6:1-21**——五餅二魚與海面行走的平行記載，並帶出「我是生命的糧」的講論。
+- **出埃及記3:14；約翰福音8:58**——「我是」(*egō eimi*) 的神聖宣告，貫穿舊約與新約。
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第七章：潔淨的真義 (True Purity)
+
+馬可福音 7:1-37
+
+**經文核對**：[ai-eden.com/bible/mark/7](https://www.ai-eden.com/bible/mark/7?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+法利賽人與文士千里迢迢從耶路撒冷南下，帶著一個看似瑣碎的問題——門徒吃飯前沒有照傳統洗手。耶穌卻藉此揭開了一個關乎全人類的核心問題：污穢究竟從哪裏來？祂宣告：真正玷污人的，不是進入口中的食物，而是從心裏發出的惡念。緊接著，馬可安排兩個外邦人的故事——敘利亞腓尼基婦人與低加坡里的聾啞人——讓讀者看見：這位被猶太宗教領袖挑剔「不潔淨」的耶穌，卻正在向外邦人——猶太傳統眼中「真正不潔淨」的群體——傾倒祂的憐憫與大能。
+
+---
+
+## 配詩 (Opening Hymn)
+
+**《求你為我造清潔的心》(Create in Me a Clean Heart)**
+
+> Create in me a clean heart, O God,
+> and renew a right spirit within me.
+> Cast me not away from Thy presence, O Lord,
+> and take not Thy Holy Spirit from me.
+>
+> — Based on Psalm 51:10-11
+
+未讀這一章之前，先唱這首詩：文士關心的是手洗淨了沒有，大衛所求的卻是心潔淨了沒有。求主在你翻開這段經文之前，先為你造一顆清潔的心，使你讀到「從裏面出來的才玷污人」時，不是聽一堂道理，而是甘心讓主察驗自己的心。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**論潔淨的傳統**
+
+> \textsuperscript{1}有法利賽人和幾個從耶路撒冷來的文士聚集到耶穌那裏。\textsuperscript{2}他們曾看見他的門徒中有人用不潔淨的手，就是沒有洗的手吃飯。\textsuperscript{3}法利賽人和所有的猶太人都拘守古人的傳統，若不按規矩洗手就不吃飯；\textsuperscript{4}從市場來，若不洗淨也不吃飯；他們還拘守好些別的規矩，如洗杯、罐、銅器、床鋪等。\textsuperscript{5}法利賽人和文士問他說：「你的門徒為甚麼不照古人的傳統，竟然用不潔淨的手吃飯呢？」\textsuperscript{6}耶穌對他們說：\jesus{「以賽亞指著你們假冒為善的人所預言的說得好。如經上所記：『這百姓用嘴唇尊敬我，心卻遠離我；\textsuperscript{7}他們把人的規條當作教義教導人，所以拜我也是枉然。』\textsuperscript{8}你們是離棄神的誡命，拘守人的傳統。」}\textsuperscript{9}耶穌又說：\jesus{「你們誠然是廢棄神的誡命，為要守自己的傳統。\textsuperscript{10}摩西說：『當孝敬父母』；又說：『咒罵父母的，必須處死。』\textsuperscript{11}你們倒說：『人若對父母說：我所當供奉你的已經作了各耳板』（各耳板就是奉獻的意思），\textsuperscript{12}你們就容許他不必再奉養父母。\textsuperscript{13}這就是你們藉著繼承傳統，廢了神的話。你們還做許多這樣的事。」}
+
+> \textsuperscript{14}耶穌又叫眾人來，對他們說：\jesus{「你們都要聽我的話，也要明白。\textsuperscript{15}從外面進去的不能玷污人，惟有從裏面出來的才玷污人。」}\textsuperscript{17}耶穌離開眾人，進了屋子，門徒就問他這比喻的意思。\textsuperscript{18}耶穌對他們說：\jesus{「你們也是這樣不明白嗎？難道你們不了解，凡從外面進去的不能玷污人嗎？\textsuperscript{19}因為不是進入他的心，而是進入他的肚子，又排入廁所。」}（這是說，各樣的食物都是潔淨的。）\textsuperscript{20}耶穌又說：\jesus{「從人裏面出來的，那才玷污人；\textsuperscript{21}因為從人心裏發出種種惡念，如淫亂、偷盜、兇殺、\textsuperscript{22}姦淫、貪婪、邪惡、詭詐、淫蕩、嫉妒、毀謗、驕傲、狂妄。\textsuperscript{23}這一切的惡都是從裏面出來，且能玷污人。」}
+
+**敘利亞腓尼基婦人的信心**
+
+> \textsuperscript{24}耶穌從那裏起身，往推羅境內去，進了一家，他不願意人知道，卻隱藏不住。\textsuperscript{25}立刻有一個婦人，她的小女兒被污靈附著，一聽見耶穌的事，就來俯伏在他腳前。\textsuperscript{26}這婦人是希臘人，屬敘利亞的腓尼基族。她求耶穌從她女兒身上趕出那鬼。\textsuperscript{27}耶穌對她說：\jesus{「讓孩子們先吃飽，拿孩子的餅丟給小狗吃是不妥的。」}\textsuperscript{28}婦人回答：「主啊，桌子底下的小狗也吃小孩子的碎屑呀！」\textsuperscript{29}耶穌對她說：\jesus{「憑著這句話，你回去吧，鬼已經離開你的女兒了。」}\textsuperscript{30}她就回家去，見小孩子躺在床上，鬼已經出去了。
+
+**醫治耳聾舌結的人**
+
+> \textsuperscript{31}耶穌又離開了推羅地區，經過西頓，就從低加坡里境內來到加利利海。\textsuperscript{32}有人帶著一個耳聾舌結的人來見耶穌，求他為他按手。\textsuperscript{33}耶穌領他離開眾人，到一邊去，就用指頭探他的耳朵，吐唾沫抹他的舌頭，\textsuperscript{34}望天嘆息，對他說：\jesus{「以法大！」}就是說「開了吧！」\textsuperscript{35}他的耳朵立刻開了，舌結也解了，他說話也清楚了。\textsuperscript{36}耶穌囑咐他們不要告訴人；但他越囑咐，他們越發傳揚。\textsuperscript{37}眾人分外驚奇，說：「他所做的事樣樣都好，他甚至使聾子聽見，啞巴說話。」
+
+### English — ESV
+
+> \textsuperscript{1}Now when the Pharisees gathered to him, with some of the scribes who had come from Jerusalem, \textsuperscript{2}they saw that some of his disciples ate with hands that were defiled, that is, unwashed. \textsuperscript{3}(For the Pharisees and all the Jews do not eat unless they wash their hands properly, holding to the tradition of the elders, \textsuperscript{4}and when they come from the marketplace, they do not eat unless they wash. And there are many other traditions that they observe, such as the washing of cups and pots and copper vessels and dining couches.) \textsuperscript{5}And the Pharisees and the scribes asked him, "Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands?" \textsuperscript{6}And he said to them, \jesus{"Well did Isaiah prophesy of you hypocrites, as it is written, 'This people honors me with their lips, but their heart is far from me; \textsuperscript{7}in vain do they worship me, teaching as doctrines the commandments of men.' \textsuperscript{8}You leave the commandment of God and hold to the tradition of men."} \textsuperscript{9}And he said to them, \jesus{"You have a fine way of rejecting the commandment of God in order to establish your tradition! \textsuperscript{10}For Moses said, 'Honor your father and your mother'; and, 'Whoever reviles father or mother must surely die.' \textsuperscript{11}But you say, 'If a man tells his father or his mother, Whatever you would have gained from me is Corban (that is, given to God)—' \textsuperscript{12}then you no longer permit him to do anything for his father or mother, \textsuperscript{13}thus making void the word of God by your tradition that you have handed down. And many such things you do."}
+
+> \textsuperscript{14}And he called the people to him again and said to them, \jesus{"Hear me, all of you, and understand: \textsuperscript{15}There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him."} \textsuperscript{17}And when he had entered the house and left the people, his disciples asked him about the parable. \textsuperscript{18}And he said to them, \jesus{"Then are you also without understanding? Do you not see that whatever goes into a person from outside cannot defile him, \textsuperscript{19}since it enters not his heart but his stomach, and is expelled?"} (Thus he declared all foods clean.) \textsuperscript{20}And he said, \jesus{"What comes out of a person is what defiles him. \textsuperscript{21}For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, \textsuperscript{22}coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness. \textsuperscript{23}All these evil things come from within, and they defile a person."}
+
+> \textsuperscript{24}And from there he arose and went away to the region of Tyre and Sidon. And he entered a house and did not want anyone to know, yet he could not be hidden. \textsuperscript{25}But immediately a woman whose little daughter had an unclean spirit heard of him and came and fell down at his feet. \textsuperscript{26}Now the woman was a Gentile, a Syrophoenician by birth. And she begged him to cast the demon out of her daughter. \textsuperscript{27}And he said to her, \jesus{"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs."} \textsuperscript{28}But she answered him, "Yes, Lord; yet even the dogs under the table eat the children's crumbs." \textsuperscript{29}And he said to her, \jesus{"For this statement you may go your way; the demon has left your daughter."} \textsuperscript{30}And she went home and found the child lying in bed and the demon gone.
+
+> \textsuperscript{31}Then he returned from the region of Tyre and went through Sidon to the Sea of Galilee, in the region of the Decapolis. \textsuperscript{32}And they brought to him a man who was deaf and had a speech impediment, and they begged him to lay his hand on him. \textsuperscript{33}And taking him aside from the crowd privately, he put his fingers into his ears, and after spitting touched his tongue. \textsuperscript{34}And looking up to heaven, he sighed and said to him, \jesus{"Ephphatha,"} that is, "Be opened." \textsuperscript{35}And his ears were opened, his tongue was released, and he spoke plainly. \textsuperscript{36}And Jesus charged them to tell no one. But the more he charged them, the more zealously they proclaimed it. \textsuperscript{37}And they were astonished beyond measure, saying, "He has done all things well. He even makes the deaf hear and the mute speak."
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+「古人的傳統」指口傳律法（後成書為《米示拿》），這些規條在第二聖殿晚期逐漸發展成幾乎與摩西律法並列的權威。「各耳板」（Corban）是宣告財物已奉獻歸神、因而不能挪作他用的誓言——文士容許人用這誓言規避奉養父母的責任，正是耶穌所指控「藉傳統廢了神的話」的具體案例。推羅、西頓是外邦腓尼基沿海城市，低加坡里（「十城區」）是加利利東南的外邦聯盟城邦——耶穌此行深入外邦境內，正呼應本章「潔淨真義」的主題：真正的潔淨與污穢，從不取決於族裔或地域的界線。
+
+### 文學結構
+
+本章由三個場景組成，彼此呼應：論潔淨的爭辯（1-23節）確立了「污穢從心裏出來，而非從外在的儀文而來」的原則；敘利亞腓尼基婦人（24-30節）與聾啞人（31-37節）的故事，則是這原則的具體示範——耶穌向猶太傳統視為「不潔淨」的外邦人施展憐憫與大能，證明神的恩典不受人為的潔淨規條限制。19節括號內的旁白「這是說，各樣的食物都是潔淨的」，是馬可（而非耶穌本人的話）向讀者插入的領受結論，顯明馬可已經理解：這段話徹底廢除了舊約禮儀律法中潔淨與不潔淨食物的分別（參利未記11章）。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *koinais* | koinais | 俗手、不潔淨的（手） | 2節，字面「俗常的」，與「聖別」相對 |
+| *Korban* | Korban | 各耳板 | 11節，亞蘭文借詞，意為「奉獻之物」 |
+| *koinoi* | koinoi | 玷污 | 15, 18, 20, 23節，「使變為俗」 |
+| *Syrophoinikissa* | Syrophoinikissa | 敘利亞腓尼基婦人 | 26節，強調她的外邦人身分 |
+| *kynaria* | kynaria | 小狗 | 27-28節，指家中飼養的寵物小狗，而非街頭野狗，語氣較為溫和 |
+| *Ephphatha* | Ephphatha | 以法大 | 34節，亞蘭文，「開了吧」，馬可少數保留耶穌原話的例子之一 |
+
+### 「小狗」(kynaria) 的溫柔語氣
+
+耶穌對婦人所用的「小狗」一詞（*kynaria*），是指家庭豢養、可親近的小狗，而非街頭野狗（*kynes*）的貶意用詞。這個細微的字義差別，讓整段對話帶著一種近乎慈愛的試驗語氣，而非單純的種族歧視性拒絕——婦人也正是抓住這個溫柔的縫隙，以機智而謙卑的信心回應：「桌子底下的小狗也吃小孩子的碎屑呀！」
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 污穢的真正源頭在人心 (Defilement Originates in the Heart)
+
+耶穌宣告「從外面進去的不能玷污人，惟有從裏面出來的才玷污人」，徹底顛覆了以外在儀文界定潔淨與否的宗教邏輯——真正的問題不在於手洗了沒有，而在於心是否被更新。
+
+### 2. 傳統可能廢棄神的話 (Human Tradition Can Void God's Word)
+
+「各耳板」的例子顯明：人為的宗教傳統，若被抬高到與神的誡命同等甚至更高的地位，反而可能成為逃避神命令的工具。
+
+### 3. 一切食物都是潔淨的 (All Foods Are Declared Clean)
+
+19節的旁白宣告舊約禮儀性潔淨食物條例的終結——這為日後外邦人歸入教會、猶太人與外邦人同席共食（參徒10章彼得的異象、加2章保羅與彼得的衝突）鋪下領受的基礎。
+
+### 4. 恩典臨到猶太傳統眼中的「不潔淨者」(Grace Reaches the Ritually "Unclean")
+
+敘利亞腓尼基婦人是外邦人，聾啞人在低加坡里（外邦地區）——耶穌剛剛宣告「污穢不在於外在」，隨即用行動印證：祂的憐憫向著猶太傳統認為「不潔淨」的外邦人完全敞開。
+
+### 5. 謙卑而機智的信心蒙悅納 (Humble, Persistent Faith Is Honored)
+
+婦人沒有因耶穌起初看似拒絕的回應而退縮，反而以謙卑卻機智的信心回應，最終得著所求的——這信心的樣式，成為外邦人蒙恩的典範。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到潔淨的爭辯（馬太平行經文），屈梭多模指出馬可特別記載了「各耳板」一詞的解釋：「這就是說，無論你從我這裏得著甚麼益處，都已經作了供物」；他勉勵讀者從這裏學習真正玷污人的事：「讓我們學習甚麼是玷污人的事；讓我們學習，並且逃避它們……口的污穢，就是惡言、褻瀆、辱罵、忿怒的言語、污穢的言談、放蕩的笑鬧與戲謔」。論到敘利亞腓尼基婦人（迦南婦人），他寫道：「福音書作者特意指出這婦人的身分，為要更加彰顯她那奇妙的作為，並且更加稱揚她」；「你看這婦人的智慧了嗎？她既不因這話而以為受辱，也不因旁人所受的稱讚而受了刺激，也不因被拒絕而心生忿怒」；「基督之所以如此推辭她，正是因為祂知道她將如此回答；祂拒絕她的請求，正是要顯明她那過人的自制」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 51 (on Matt 15:1-20) and Homily 52 (on Matt 15:21-28), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到潔淨的傳統，加爾文寫道：「這段經文教導我們，第一，人所發明的各種敬拜方式，都是神所不悅的；第二，那些不滿足於神獨一律法的人，都是徒然勞碌」。論到污穢從裏面而出，他解釋：「這是一個總括性的宣告：污穢並非從外而入於人，乃是那源頭隱藏在人裏面」；論到「潔淨」（*koinos*）一詞：「凡與這聖潔不相稱的，都被稱為『俗』，也就是『不聖潔』的」。論到敘利亞腓尼基婦人，他寫道：「在這迦南婦人身上，向我們呈現了一幅信心的傑出圖畫……基督沉默的目的，並非要熄滅這婦人的信心，而是要磨礪她的熱切、激發她的迫切」；「這正是信心真確的憑據：我們不容那建立在神話語上的救恩最初的萌芽，被任何方式從我們手中奪去」。論到以法大的醫治，他寫道：「馬可特意插入那迦勒底文詞語『以法大』（開了吧），並非沒有緣故，而是要見證基督神聖的能力」；「祂用唾沫觸摸他的舌頭，意在指明，惟獨祂自己能賜下說話的能力；祂又用手指探入他的耳朵，顯明開通聾者耳朵之事，本屬於祂的職分」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到潔淨的爭辯，麥克阿瑟指出：「這無關聖經怎麼說，這無關衛生——這是傳統」；「你們用自己的傳統，廢棄了神的話」；他總結核心信息：「宗教不是通往神的道路，敬拜的心才是。宗教是通往地獄的道路」。論到污穢從裏面而出，他強調：「問題不在你外面，問題在你裏面」；「你需要一顆新心……你需要重生」；「問題出在我們裏面，唯有藉著新心、新靈、內在的洗淨……才能得著解決」。論到敘利亞腓尼基婦人，他歸納她信心的三個特質：「是懇切的……是敬畏的……也是堅忍不拔的」；並指出：「因這句話，你回去吧——鬼已經離開你的女兒了」。論到聾啞人的醫治，他強調這醫治「是瞬間、完全的……不需要任何療程或學習期」，顯明祂作為創造主的權能。
+> — John MacArthur, *Scripture-Twisting Tradition* (41-32), *The Inside Story on Defilement* (41-33), *Food from the Master's Table* (41-34), *To Speak or Not to Speak* (41-35), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到傳統與神誡命的衝突，摩根指出耶穌「清楚表明，人的傳統無法達成它自己的目的。人雖屢屢洗手，內心卻從未因此得潔淨。外在的禮儀，從不能觸及內在的生命」；論到各耳板，他寫道：「請看基督所呈現的圖畫：一個對物質之事負有責任的人，對父親和母親本應盡的供養，卻藉宣稱那本可供養他們之物已經奉獻給聖殿，而逃避了責任。何等的忿怒，何等的鄙視，是出於耶穌！」論到敘利亞腓尼基婦人，摩根寫道：「這裏至高地呈現出一位母親的憂傷……她是希臘人，不是希伯來人，但她是一位母親！」論到「小狗」一詞：「有狗也有狗……也有家中所豢養的小狗，那微小的狗。主此處所用的正是這類指小詞——而指小詞裏，蘊藏著多少深情！我確信耶穌在此語氣中，帶著溫柔」；他總結：「祂使她從那錯誤的特權觀念的枷鎖中得了自由……這是藉著愛運行的信心」。論到聾啞人的醫治，摩根將其與伯賽大瞎子的醫治並列為「醫治的過程」：「祂從未以相同的方式行兩件事……祂的作為，總有無盡的變化，正顯明祂對人各樣需要之豐富多變的體恤與適應」；「當祂正要開啟這人的耳朵時，『祂嘆息』……看哪，一位『多受痛苦、常經憂患』的人！」
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 51:6, 10, 17
+
+> 你所喜愛的是內心誠實；求你在我隱密處使我得智慧。
+> 神啊，求你為我造清潔的心，使我裏面重新有正直的靈。
+> 神所要的祭就是憂傷的靈；神啊，憂傷痛悔的心，你必不輕看。
+
+大衛在拔示巴事件之後所求的，不是重新學一套獻祭的儀文，而是「清潔的心」——這正是耶穌在本章要對文士說的話：你們把洗手的規矩守得再精細，若心不更新，仍然「污穢」。詩篇51篇是7章最好的禱告版本。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Create in Me a Clean Heart（求你為我造清潔的心）
+
+> Create in me a clean heart, O God,
+> and renew a right spirit within me.
+> Cast me not away from Thy presence, O Lord,
+> and take not Thy Holy Spirit from me.
+>
+> — Based on Psalm 51:10-11
+
+這首詩直接取自詩篇51篇，是教會歷代認罪禱告中最常用的旋律之一。它提醒我們：潔淨從來不是我們自己「造」出來的，是求神「造」的——正如7:15「從裏面出來的才玷污人」所指向的，唯有神能造一顆新心，人自己的洗手傳統再周密，也造不出裏面的潔淨。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：潔淨的真義 (Ask Elder Wong)
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一章最關鍵的一句話是15節。文士對洗手傳統的堅持、耶穌對外邦婦人與聾啞人的憐憫，都在為這句話作註腳。
+- **文士堅持洗手的傳統，耶穌卻說污穢從心裏出來**——你今天的信仰生活裏，有沒有某些「外在儀式」取代了「內心真實悔改」的位置？
+- **敘利亞腓尼基婦人在看似被拒絕的回應中，仍然謙卑而機智地堅持**——你面對神看似「沉默」或「延遲」的回應時，是選擇放棄，還是像她一樣持守信心？
+- **耶穌對聾啞人的醫治，帶著「嘆息」**——這對你理解耶穌對人類苦難的深切體恤，有什麼觸動？
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **7:20-23 罪的根源在心裏**：華人文化注重外在（面子、禮儀、規矩），基督卻注重內心——這對以「守規矩」衡量屬靈光景的華人教會文化，是根本性的提醒。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+| 主題 | 詩篇／聖詩 | 經文連結 |
+|------|-----------|----------|
+| 清潔的心 | 詩篇 51:10 | 「神啊，求你為我造清潔的心」——回應7:15「從裏面出來的才玷污人」 |
+| 憂傷痛悔的心 | 詩篇 51:17 | 神所要的祭不是儀文，是憂傷痛悔的心 |
+| 謙卑的信心 | *Create in Me a Clean Heart* | 求神造心，而非人自造潔淨 |
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+耶穌引用以賽亞書29:13「這百姓用嘴唇尊敬我，心卻遠離我」，直指假冒為善的敬拜——這條線索呼應撒母耳記上16:7「耶和華不像人看人，人是看外貌，耶和華是看內心」，貫穿整本聖經，神所看重的從來是人裏面的光景。另一條線索：路得記中，摩押女子路得因信靠以色列的神而被接納，成為大衛的曾祖母；如今耶穌向敘利亞腓尼基婦人、低加坡里的外邦人施展恩典——這條線索一路延伸到使徒行傳10章彼得蒙異象「神在各國中，那敬畏他、行義的人都為他所悅納」，以及以弗所書2:14「基督拆毀了中間隔絕的牆」。
+
+### 提問式對話 (Let the Reader Speak)
+
+先別讓我說——你覺得耶穌對敘利亞腓尼基婦人說「拿孩子的餅丟給小狗吃是不妥的」，聽起來像不像拒絕？再想一想：如果這真是拒絕，婦人為什麼還敢回話？她聽出了什麼，是你我沒聽出來的？
+
+### 活在今天 · AI時代 (Living It Today)
+
+這個時代同樣容易把「形式」誤認作「實質」——打卡讀經、轉發金句、參加線上聚會，這些動作可以被算法記錄、被朋友圈看見，卻未必觸及心。你今天的屬靈操練，有多少是給人看的「嘴唇尊敬」，有多少是只有神知道的「心裏的敬拜」？
+
+### 今天的祭壇 (Today's Altar)
+
+默想：我所做的屬靈操練，是心與神真實相交的流露，還是僅僅是「用嘴唇尊敬」的表演？今天的實踐：向一位與自己背景、立場不同的人，主動釋出接納與善意，如同耶穌向敘利亞腓尼基婦人所行的。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+「從外面進去的不能玷污人，惟有從裏面出來的才玷污人」——真正的潔淨，從來不是靠外在的儀文界定，而是關乎心的更新，也關乎神的恩典能否越過人為劃定的潔淨界線。在對假冒為善之敬拜的斥責裏、在向外邦婦人俯就的憐憫裏、在對聾啞人的嘆息與觸摸裏，你看見的，是那位看重心過於儀文、看重憐憫過於界線的基督——祂觸摸「不潔淨」的外邦人，不是被玷污，而是使人得潔淨、得聽見、得說話。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **內心的潔淨**：耶穌宣告污穢從心裏出來。你今天是否更關注外在的宗教形式，而忽略了內心是否真正被神更新？
+
+2. **傳統與神的話**：「各耳板」的例子顯明人的傳統可能廢棄神的誡命。你的生活或教會中，有沒有類似「以傳統之名迴避神命令」的情況？
+
+3. **持守信心**：敘利亞腓尼基婦人在看似被拒絕的處境中仍堅持謙卑求告。你今天是否也需要這樣不輕言放棄的信心？
+
+4. **需要「開了吧」的部分**：聾啞人需要耶穌親自觸摸才能說話清楚。你生命中有沒有某個「說不清楚」的部分（見證、饒恕、真話），需要主對你說「以法大」？
+
+### 禱告回應
+
+> 主啊，求你察驗我的心，讓我不只在外表上敬虔，更在內心真實地愛你、順服你。
+> 求你赦免我曾用人的傳統，取代你話語的地方。
+> 求你賜我像迦南婦人一樣，謙卑而堅忍的信心。
+> 求你對我生命中「說不出口」的部分說一聲「以法大」，使我得著自由與清晰的見證。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 耶穌宣告「從外面進去的不能玷污人，惟有從裏面出來的才玷污人」——這對我們今天理解「屬靈」與「宗教」的分別，有什麼提醒？
+
+2. 「各耳板」的例子顯示人的傳統可能廢棄神的誡命。今天教會或個人生活中，有哪些類似的情況值得警惕？
+
+3. 敘利亞腓尼基婦人以謙卑而機智的信心回應耶穌看似拒絕的話語——這對我們今天在禱告中面對神看似的「沉默」，有什麼激勵？
+
+4. 耶穌向外邦人（敘利亞腓尼基婦人、低加坡里的聾啞人）施展憐憫與大能——這對今天教會跨越文化、族裔的界線傳揚福音，有什麼提醒？
+
+5. 「他所做的事樣樣都好」——這句讚嘆呼應了創世記1章神造萬物後「看著是好的」的宣告。這對我們理解耶穌的救贖工作與創造工作之間的連結，有什麼啟發？
+
+---
+
+## 與其他經文的關聯
+
+- **馬太福音15:1-28**——平行經文，論潔淨傳統與迦南婦人的信心，記載大致相同。
+- **利未記11章**——舊約潔淨/不潔淨食物條例，被7:19「這是說，各樣的食物都是潔淨的」正式宣告終結。
+- **以賽亞書29:13**——「這百姓用嘴唇尊敬我，心卻遠離我」，耶穌引用以指控假冒為善的敬拜。
+- **使徒行傳10章**——彼得潔淨/不潔淨異象，與本章「一切食物都是潔淨的」遙相呼應，同樣指向猶太人與外邦人界線的拆除。
+- **以弗所書2:14**——「基督拆毀了中間隔絕的牆」，是敘利亞腓尼基婦人蒙恩故事最終要領受的總結。
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第八章上：四千人吃飽 (Feeding the Four Thousand)
+
+馬可福音 8:1-26
+
+**經文核對**：[ai-eden.com/bible/mark/8](https://www.ai-eden.com/bible/mark/8?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+第二次的餵飽神蹟，卻沒有帶來門徒更深的悟性——他們竟再次擔憂「哪裏有餅」，彷彿五餅二魚的記憶已被風浪沖散。這一章把三個場景並排陳列：憐憫供應飢餓群眾的基督、拒絕向硬心之人顯神蹟的基督、用漸進方式開啟一個瞎子雙眼的基督。三者共同指向同一個提醒：屬靈的眼盲，比肉身的失明更難醫治，而醫治的過程，往往不是一蹴而就，乃是循序漸進、按著人的光景量身而行。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**四千人吃飽**
+
+> \textsuperscript{1}那時，又有一大群人聚集，沒有甚麼吃的。耶穌叫門徒來，說：\jesus{\textsuperscript{2}「我憐憫這群人，因為他們同我在這裏已經三天，沒有吃的東西了。\textsuperscript{3}我若叫他們餓著回家，他們會在路上餓昏，因為其中有從遠處來的。」}\textsuperscript{4}門徒回答：「在這野地，從哪裏能得餅使這些人吃飽呢？」\textsuperscript{5}耶穌問他們：\jesus{「你們有多少餅？」}他們說：「七個。」\textsuperscript{6}他吩咐眾人坐在地上，就拿著這七個餅祝謝了，擘開，遞給門徒，叫他們擺開，門徒就擺在眾人面前。\textsuperscript{7}他們還有幾條小魚；耶穌祝謝了，就吩咐也擺在眾人面前。\textsuperscript{8}他們都吃，並且吃飽了，收拾剩下的碎屑，有七筐子。\textsuperscript{9}人數約有四千。耶穌打發他們走了，\textsuperscript{10}隨即同門徒上船，來到大瑪努他境內。
+
+**法利賽人求神蹟**
+
+> \textsuperscript{11}法利賽人出來盤問耶穌，要求他從天上顯個神蹟給他們看，想要試探他。\textsuperscript{12}耶穌心裏深深嘆息，說：\jesus{「這世代為甚麼求神蹟呢？我實在告訴你們，沒有神蹟給這世代看。」}\textsuperscript{13}他就離開他們，又上船往海的對岸去了。
+
+**法利賽人和希律的酵**
+
+> \textsuperscript{14}門徒忘了帶餅，在船上除了一個餅，沒有別的食物。\textsuperscript{15}耶穌囑咐他們說：\jesus{「你們要謹慎，要防備法利賽人的酵和希律的酵。」}\textsuperscript{16}他們彼此議論說：「這是因為我們沒有餅吧。」\textsuperscript{17}耶穌知道了，就說：\jesus{「你們為甚麼因為沒有餅就議論呢？你們還不領悟，還不明白嗎？你們的心還是愚頑嗎？\textsuperscript{18}你們有眼睛，看不見嗎？有耳朵，聽不到嗎？也不記得嗎？\textsuperscript{19}我擘開那五個餅分給五千人，你們收拾的碎屑裝滿了多少個籃子呢？」}他們說：「十二個。」\textsuperscript{20}\jesus{「又擘開那七個餅分給四千人，你們收拾的碎屑裝滿了多少個筐子呢？」}他們說：「七個。」\textsuperscript{21}耶穌說：\jesus{「你們還不明白嗎？」}
+
+**醫治伯賽大的盲人**
+
+> \textsuperscript{22}他們來到伯賽大，有人帶一個盲人來，求耶穌摸他。\textsuperscript{23}耶穌拉著盲人的手，領他到村外，就吐唾沫在他眼睛上，為他按手，問他：\jesus{「你看見甚麼？」}\textsuperscript{24}他抬頭一看，說：「我看見人，他們好像樹木，並且行走。」\textsuperscript{25}隨後耶穌又按手在他眼睛上，他定睛一看，就復原了，樣樣都看得清楚了。\textsuperscript{26}耶穌打發他回家，說：\jesus{「連這村子你也不要進去。」}
+
+### English — ESV
+
+> \textsuperscript{1}In those days, when again a great crowd had gathered, and they had nothing to eat, he called his disciples to him and said to them, \jesus{\textsuperscript{2}"I have compassion on the crowd, because they have been with me now three days and have nothing to eat. \textsuperscript{3}And if I send them away hungry to their homes, they will faint on the way. And some of them have come from far away."} \textsuperscript{4}And his disciples answered him, "How can one feed these people with bread here in this desolate place?" \textsuperscript{5}And he asked them, \jesus{"How many loaves do you have?"} They said, "Seven." \textsuperscript{6}And he directed the crowd to sit down on the ground. And he took the seven loaves, and having given thanks, he broke them and gave them to his disciples to set before the people; and they set them before the crowd. \textsuperscript{7}And they had a few small fish. And having blessed them, he said that these also should be set before them. \textsuperscript{8}And they ate and were satisfied. And they took up the broken pieces left over, seven baskets full. \textsuperscript{9}And there were about four thousand people. And he sent them away. \textsuperscript{10}And immediately he got into the boat with his disciples and went to the district of Dalmanutha.
+
+> \textsuperscript{11}The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him. \textsuperscript{12}And he sighed deeply in his spirit and said, \jesus{"Why does this generation seek a sign? Truly, I say to you, no sign will be given to this generation."} \textsuperscript{13}And he left them, got into the boat again, and went to the other side.
+
+> \textsuperscript{14}Now they had forgotten to bring bread, and they had only one loaf with them in the boat. \textsuperscript{15}And he cautioned them, saying, \jesus{"Watch out; beware of the leaven of the Pharisees and the leaven of Herod."} \textsuperscript{16}And they began discussing with one another the fact that they had no bread. \textsuperscript{17}And Jesus, aware of this, said to them, \jesus{"Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened? \textsuperscript{18}Having eyes do you not see, and having ears do you not hear? And do you not remember? \textsuperscript{19}When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you take up?"} They said to him, "Twelve." \textsuperscript{20}\jesus{"And the seven for the four thousand, how many baskets full of broken pieces did you take up?"} And they said to him, "Seven." \textsuperscript{21}And he said to them, \jesus{"Do you not yet understand?"}
+
+> \textsuperscript{22}And they came to Bethsaida. And some people brought to him a blind man and begged him to touch him. \textsuperscript{23}And he took the blind man by the hand and led him out of the village, and when he had spit on his eyes and laid his hands on him, he asked him, \jesus{"Do you see anything?"} \textsuperscript{24}And he looked up and said, "I see people, but they look like trees, walking." \textsuperscript{25}Then Jesus laid his hands on his eyes again; and he opened his eyes, his sight was restored, and he saw everything clearly. \textsuperscript{26}And he sent him to his home, saying, \jesus{"Do not even enter the village."}
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+這是馬可福音記載的第二次「餵飽神蹟」——與6章五餅二魚餵飽五千人的事件並非同一事件的重複記述，而是兩個獨立的神蹟：原文用詞有別（五千人用 *kophinos*「小提籃」，四千人用 *spuris*「大筐」），且耶穌在17-20節親自將兩件事並列詢問門徒，顯明祂自己確認這是兩次不同的神蹟。伯賽大是加利利海北岸的城鎮，是彼得、安得烈、腓力的家鄉（約1:44），卻也是耶穌曾嚴厲責備「不肯悔改」的城市之一（太11:21）——這正是本章瞎子醫治「漸進」且耶穌吩咐他「連這村子也不要進去」的背景。
+
+### 文學結構
+
+本章四個場景層層遞進：憐憫供應（1-10節）展現基督的憐憫與大能；法利賽人求神蹟（11-13節）與門徒因缺餅而困惑（14-21節）並列，形成強烈對比——法利賽人「明明看見神蹟卻不信」，門徒則「看見了神蹟卻不明白」，兩者都是屬靈眼盲的樣式；伯賽大瞎子的「兩階段醫治」（22-26節）則成為前面屬靈眼盲主題的具體圖畫與解答——馬可藉這神蹟宣告：屬靈的眼盲和肉身的眼盲一樣，可能需要一個漸進的過程，才能「看得清楚」。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *splanchnizomai* | splanchnizomai | 憐憫 | 2節，唯一以第一人稱直接說出「我憐憫」的地方 |
+| *kophinos* / *spuris* | kophinos / spuris | 小籃子／大筐子 | 分別指五千人與四千人神蹟中收集碎屑所用的不同容器，證明是兩次不同事件 |
+| *anastenaxas* | anastenaxas | 深深嘆息 | 12節，情感強烈的嘆息，反映耶穌對這世代頑梗求神蹟之心的深沉悲痛 |
+| *zymē* | zymē | 酵 | 15節，象徵擴散滲透的敗壞影響——法利賽人的假冒為善，希律的世俗妥協 |
+| *pepōrōmenē* | pepōrōmenē | 剛硬、麻木 | 17節，字面指心臟外層組織變得堅硬麻木，與4:12呼應 |
+| *tēlaugōs* | tēlaugōs | 清楚地 | 25節，字面「從遠處清晰可見」，形容瞎子完全復原後所見的清晰程度 |
+
+### 兩次餵飽神蹟的證據
+
+「小籃子」（*kophinos*，猶太人常用的隨身午餐籃）與「大筐子」（*spuris*，容量大得多的筐子）在原文中是兩個不同的詞——耶穌在19-20節親自逐一詢問門徒兩次神蹟所用的籃子種類與數目，顯明祂自己清楚地將這兩件事區分為獨立的兩次神蹟，而非同一事件的兩種記載版本。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 基督的憐憫延伸至外邦地區 (Christ's Compassion Extends to Gentile Territory)
+
+四千人神蹟發生在低加坡里一帶的外邦地區——這是繼上一章向敘利亞腓尼基婦人、低加坡里聾啞人施恩之後，馬可再次見證：基督的憐憫並不局限於猶太百姓。
+
+### 2. 拒絕向頑梗之心顯神蹟 (No Sign for a Hardened Generation)
+
+法利賽人已經見過無數神蹟，卻仍「試探」耶穌要求顯神蹟——耶穌拒絕，因為他們的問題不在缺乏證據，而在於刻意不信的心。
+
+### 3. 「酵」的滲透性影響 (The Pervasive Influence of Leaven)
+
+法利賽人的酵（假冒為善、外在形式主義）與希律的酵（世俗妥協、道德敗壞）看似不同，卻都具有酵一般悄然滲透、敗壧全團的危險性。
+
+### 4. 屬靈的眼盲比肉身的眼盲更難察覺 (Spiritual Blindness More Insidious than Physical)
+
+門徒親眼見過兩次餵飽神蹟，卻仍因缺一個餅而心生憂慮——耶穌用「你們有眼睛看不見嗎」直指他們屬靈感知力的遲鈍，遠比肉身視力的缺失更值得警惕。
+
+### 5. 醫治可以是漸進的過程 (Healing Can Be a Gradual Process)
+
+伯賽大瞎子的醫治分為兩個階段——這不是耶穌能力不足的表現，而是祂按著這人獨特的光景，量身定制醫治的節奏，也預表了屬靈眼睛的開啟，有時同樣需要一個過程。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到四千人吃飽（馬太平行經文），屈梭多模指出門徒儘管先前已見過五千人的神蹟，卻仍問：「我們在曠野哪裏有這麼多的餅呢？」——他評論門徒此時的光景「仍相當不完全」；論到兩次神蹟籃子數目的差異，他指出：「或許是因為這次所用的筐子，比先前所用的更大」，又或者基督刻意使兩次的碎屑數目有所不同，「好叫他們藉著這數目上的差異，同時記念這兩次神蹟」。論到法利賽人與撒都該人的酵，他直接引用經文闡述：「你們這小信的人，為甚麼因為沒有帶餅彼此議論呢？你們還不明白嗎？也不記得那五個餅分給五千人、你們收拾了多少籃子的零碎嗎？」；門徒最終「明白了他所說的，不是叫他們防備餅的酵，乃是防備法利賽人和撒都該人的教訓」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 52 (on Matt 15:29-16:12), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到法利賽人與撒都該人求神蹟，加爾文寫道：「值得我們留意的是，儘管撒都該人與法利賽人彼此視若仇敵，他們卻聯手結成一黨，共同對抗基督。同樣，儘管不敬虔的人彼此相爭，他們的內鬥卻從不妨礙他們聯手抵擋神」；論到「試探」一詞，他解釋：「這詞在此的意思是，他們並非出於誠實的動機，也不是渴望受教，而是出於狡詐與詭計，要求那他們料想基督必會拒絕之事」；論到耶穌「心裏嘆息」，他指出：「這詞在此的意思，是要告訴我們，這嘆息乃是出自祂內心深處最真切的情感，免得有詭辯者藉口說，基督只是外在裝出悲傷的姿態，內心卻毫無感觸」。論到門徒的健忘，他寫道：「他們早已親眼見過餅從無變有、且足以飽足數千人——甚至兩次如此——如今卻仍為著餅而憂慮，彷彿他們的主向來沒有同樣的能力，這是何等可恥的忘恩負義」。論到伯賽大瞎子的漸進醫治，他寫道：「這神蹟為其他兩卷福音書所省略，馬可之所以記載，主要是因為這一個情節：基督並非如祂通常所行的那樣，瞬間使這瞎子得見光明，而是以漸進的方式醫治他……祂如此行，極可能是要藉這人為證，顯明祂在行事的方式上，擁有完全的自由，並不受限於固定不變的規則」；論到「我看見人，好像樹木」一句，他解釋：「他只能憑猜測說自己看見了人……他的視力尚未清晰到能分辨人與樹木，但他已經獲得了某種程度的視覺能力」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到四千人吃飽，麥克阿瑟指出這是馬可福音唯一一處耶穌以第一人稱直接說「我憐憫」的地方；他也特別指出兩次神蹟所用籃子詞彙不同——「*kophinos*……是一個午餐提籃……這裏用的詞是*spuris*，指一種容量大得多的筐子」，並總結：「耶穌承認這是兩起分開的事件，並用兩個不同的詞來描述兩次事件中不同的籃子——這證明有兩次餵飽神蹟；耶穌自己這樣說」；他也指出這神蹟的信息：「救恩是為外邦人存留的，神的憐憫是向外邦人敞開的，神的憐憫並不限於以色列」。論到法利賽人求神蹟與酵的警告，他指出耶穌拒絕的堅決語氣，並引用經文直接闡明門徒剛硬的心；論到伯賽大瞎子的醫治，他問：「為甚麼要分兩個步驟？我在經文中讀不出解釋，你呢？」並將這現象與門徒本身逐步覺悟的屬靈光景相連；論到「好像樹木行走」，他解釋：「他們無法從樹木中清楚辨認出來，這意味著視力尚未聚焦，是模糊而不完整的視覺」；他總結：「如同這些瞎子，門徒……有眼卻看不見……他們無論是肉身或屬靈的視力，都是神所賜的恩典，而非人自身的能力」。
+> — John MacArthur, *Our Compassionate Provider* (41-36), *Spiritual Blindness, Part 1 & 2* (41-37, 41-38), *Jesus' Power over Blindness* (41-39), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+摩根將整段7:24至8:26視為一體，總題為「祂所做的事都好」（引自7:37）：「這段所包含的故事，可以分為兩部分。第一部分記載了耶穌向外邦人所行的一次事工……第二部分則從第八章第十節開始，直到第二十六節結束，把我們再次帶回一個帶著敵意的氛圍」。論到四千人吃飽，他寫道：「下一幅圖畫充滿了生命力、色彩與動感。這是至少四千人聚集的一大群人；而這是一幅描繪他們飢餓的圖畫。不要太快將這詞屬靈化……讓我們從真實的層面開始——那是真實的飢餓，肉身的飢餓，對食物的真實需要」。論到法利賽人求神蹟，他指出：「這幅圖畫至高的啟示，是儘管享有優勢，卻仍陷於屬靈的低劣……這些人求神蹟，他們卻早已見過祂所行的神蹟……然而這些人仍說：『給我們看一個神蹟』」；「主拒絕了他們所求的：首先，因為他們的動機是錯的；其次，因為就算給了神蹟，也不能使他們信服——他們已經見過神蹟，卻仍是故意地盲目」。論到門徒因缺餅而困惑，他寫道：「這是一幅描繪忠心之人誤解的圖畫。這是一幅描繪那些愛主、忠於主的人的圖畫……但他們仍未真正明白祂……祂所發出、顯然是極其需要的屬靈警告，祂忠心的門徒，所愛主的人，想到的卻是餅」。論到伯賽大瞎子的醫治：「更奇特的，是這瞎子的例子，祂行這神蹟的方式，似乎是漸進的：先是撫觸帶著按手，再問他『你看見甚麼』，得著回答『我看見人，如同看見樹木行走』之後，才再一次按手，使他完全復原」；摩根總結：「我們切不可以為，在耶穌這些作法裏，顯明了祂能力的減弱……在每一個個案裏，基督都是按著那人的需要調整自己……祂從未以完全相同的方式醫治兩個瞎子……差異之中，正顯明了人類經歷之豐富多樣，也因而顯明了我們主對這豐富多樣經歷的奇妙適應力」。
+> — G. Campbell Morgan, *The Gospel According to Mark*
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：四千人吃飽 (Ask Elder Wong)
+
+**精義一句話**：法利賽人求神蹟卻不信、門徒經歷神蹟卻不明白，兩者都指向同一個屬靈眼盲的困境；伯賽大瞎子的漸進醫治，正是這困境的解答圖畫——眼睛的開啟，可以是一個過程。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一章最核心的問題，是耶穌對門徒的質問：「你們有眼睛，看不見嗎？有耳朵，聽不到嗎？也不記得嗎？」（18節）如果你是那位門徒，會如何回答這個問題？
+- **門徒已經經歷過兩次餵飽神蹟，為什麼還會因為「忘了帶餅」而擔憂？**這對你經歷神的信實之後，是否仍會重蹈同樣的憂慮，有什麼提醒？
+- **法利賽人已經見過無數神蹟，卻仍「試探」耶穌要求顯神蹟**——這與「渴慕真理」的求問有何不同？你今天向神提出的問題，是出於真誠的尋求，還是心裏早已定意不信？
+- **伯賽大瞎子的醫治分兩個階段**——你生命中有沒有一個屬靈的功課，也是「漸漸看得清楚」的過程，而非一步到位？
+
+**整本聖經的連結**：出埃及記16章，神在曠野中一次又一次降下嗎哪，日日都有，從不間斷；如今耶穌兩次在曠野以餅餵養群眾——這重複的供應，正呼應神在曠野中信實而不間斷地供應祂百姓的作為，門徒卻仍因「忘了帶餅」而憂慮，恰如以色列人日日領受嗎哪，卻仍懷疑「神能否在曠野擺設筵席」（詩78:19）。另一條線索：出埃及記12章逾越節前以色列人要除去家中所有的酵，象徵除淨罪惡；哥林多前書5:6-8保羅同樣以「酵」比喻罪惡的滲透性——耶穌警告門徒防備「法利賽人的酵和希律的酵」，延續著這條聖經一貫的圖畫：屬靈的敗壞，往往不是一次性的巨大跌倒，而是悄然滲透、逐漸擴散的過程。
+
+**讓話語住在裡面**：這個時代習慣要求「立即的證據」才願意相信，但法利賽人正是這種心態的縮影：他們不缺乏證據，只缺乏願意相信的心。默想：我心中的「酵」——無論是宗教的虛偽形式，還是世俗的妥協——有沒有悄悄滋長的跡象？今天的實踐：為一個屬靈的功課，仍在「漸漸看清楚」的過程中——不急躁、不氣餒，繼續倚靠主，記錄下今天看得更清楚的一小步。
+
+**你看見耶穌了嗎**：在憐憫外邦飢餓群眾的供應裏、在拒絕心硬之人索求神蹟的嘆息裏、在兩階段醫治瞎子的耐心裏，你看見的，是那位不厭其煩、一次又一次觸摸遲鈍之心與模糊之眼的基督——祂等候的，不是你一次到位的明白，而是你願意繼續讓祂觸摸。
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Guide Me, O Thou Great Jehovah*（懇求萬能主耶和華）
+
+> Guide me, O Thou great Jehovah, pilgrim through this barren land;
+> I am weak, but Thou art mighty; hold me with Thy powerful hand.
+> Bread of heaven, Bread of heaven, feed me till I want no more.
+>
+> — William Williams (1745), trans. Peter Williams
+
+**詩篇**：詩篇 145:15-16, 18-19
+
+> 眾人的眼目都仰望你；你隨時給他們食物。
+> 你張手，使有生氣的都隨願飽足。
+> 凡求告耶和華的，就是誠心求告他的，耶和華便與他們相近。
+> 敬畏他的，他必成就他們的心願，也必聽他們的呼求，拯救他們。
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+出埃及記16章，神在曠野一次又一次降下嗎哪，日日都有，從不間斷；如今耶穌兩次在曠野以餅餵養群眾——這重複的供應，正呼應神在曠野中信實不間斷的作為，門徒卻仍因「忘了帶餅」而憂慮，恰如以色列人日日領受嗎哪，卻仍懷疑「神能否在曠野擺設筵席」（詩78:19）。另一條線索：出埃及記12章逾越節前以色列人要除去家中所有的酵；哥林多前書5:6-8保羅同樣以「酵」比喻罪惡的滲透性——耶穌警告門徒防備「法利賽人的酵和希律的酵」，延續著同一條聖經一貫的圖畫。
+
+### 提問式對話 (Let the Reader Speak)
+
+先問：門徒已經經歷過兩次餵飽神蹟，為什麼還會因為「忘了帶餅」而擔憂？
+再問：法利賽人已經見過無數神蹟，卻仍「試探」耶穌要求顯神蹟——這與「渴慕真理」的求問有何不同？
+再問：伯賽大瞎子的醫治分兩個階段——你生命中有沒有一個屬靈的功課，也是「漸漸看得清楚」的過程，而非一步到位？
+
+### 活在今天 · AI時代 (Living It Today)
+
+這個時代習慣要求「立即的證據」才願意相信，但法利賽人正是這種心態的縮影：他們不缺乏證據，只缺乏願意相信的心。演算法給你的是即時反饋，卻無法給你「等候」與「漸進」的操練——而屬靈的眼睛，往往需要後者。
+
+### 今天的祭壇 (Today's Altar)
+
+為一個屬靈的功課，仍在「漸漸看清楚」的過程中——不急躁、不氣餒，繼續倚靠主，具體記錄下今天看得更清楚的一小步。
+
+## 黃長老精義 (The Distilled Key)
+
+法利賽人求神蹟卻不信、門徒經歷神蹟卻不明白，兩者都指向同一個屬靈眼盲的困境；伯賽大瞎子的漸進醫治，正是這困境的解答圖畫——眼睛的開啟，可以是一個過程。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **憐憫的延伸**：耶穌的憐憫延伸到外邦地區的群眾。你今天是否也願意讓神的愛，透過你延伸到與自己不同群體、文化的人身上？
+
+2. **不憑證據，只憑心硬**：法利賽人縱有充分證據仍不信。你今天面對神的作為，是否也曾因心裏預設的抗拒，而拒絕承認明顯的證據？
+
+3. **屬靈的健忘**：門徒兩度經歷神蹟仍心生憂慮。回想神過去在你生命中信實的供應，這對你今天面對的難處，有什麼提醒？
+
+4. **接受漸進的醫治**：伯賽大瞎子的醫治分兩階段完成。你是否願意接納，自己生命中某些屬靈功課，也需要一個過程才能完全看清？
+
+### 禱告回應
+
+> 主啊，感謝你的憐憫延伸到每一個角落，不分族裔、文化的界限。
+> 求你光照我心中因預設立場而拒絕相信你作為的地方。
+> 求你幫助我記念你過去信實的供應，不再因眼前的缺乏而心生憂慮。
+> 求你耐心地在我生命中，一步一步開啟我屬靈的眼睛，使我看得越來越清楚。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 四千人吃飽的神蹟發生在外邦地區——這對我們今天理解神的憐憫超越族裔與地域的界限，有什麼提醒？
+
+2. 法利賽人明明見過眾多神蹟，卻仍「試探」耶穌要求顯神蹟——這對我們分辨「真誠尋求」與「心存懷疑的試探」，有什麼幫助？
+
+3. 「法利賽人的酵和希律的酵」分別代表宗教的虛偽形式主義與世俗的道德妥協——今天教會或個人生命中，這兩種「酵」分別以什麼形式出現？
+
+4. 門徒兩度經歷餵飽神蹟卻仍因缺餅而憂慮——這對我們今天在神已顯明信實供應之後，仍然容易再度陷入憂慮，有什麼提醒？
+
+5. 伯賽大瞎子的醫治以漸進方式完成——這對我們今天看待自己或他人屬靈生命成長的速度與過程，有什麼實際的應用？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第八章下：彼得認信、第一次預言受難 (Peter's Confession, the First Passion Prediction)
+
+馬可福音 8:27-38
+
+**經文核對**：[ai-eden.com/bible/mark/8](https://www.ai-eden.com/bible/mark/8?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+這是馬可福音的轉捩點。八章的時間裏，門徒見過神蹟、聽過教導、經歷過風浪，如今耶穌終於問出那個貫穿全書的問題：「你們說我是誰？」彼得脫口而出：「你是基督。」——這是全書第一次由人的口（而非污靈）宣告耶穌的身分。然而，正當認信的高峰到來，耶穌立刻轉向十字架：「人子必須受許多的苦……並且被殺。」彼得無法接受，耶穌卻用最嚴厲的話斥責他：「撒但，退到我後邊去！」這一章把「認識基督是誰」與「認識基督要做什麼」緊緊焊接在一起——認信若不能接受十字架，就仍然只是半個認信。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+> \textsuperscript{27}耶穌和門徒出去，往凱撒利亞‧腓立比附近的村莊去。在路上，他問門徒：\jesus{「人們說我是誰？」}\textsuperscript{28}他們對他說：「是施洗的約翰；有人說是以利亞；又有人說是先知中的一位。」\textsuperscript{29}他又問他們：\jesus{「你們說我是誰？」}彼得回答他：「你是基督。」\textsuperscript{30}於是耶穌切切地囑咐他們不可對任何人說起他。
+
+> \textsuperscript{31}從此，他教導他們說：\jesus{「人子必須受許多的苦，被長老、祭司長和文士棄絕，並且被殺，三天後復活。」}\textsuperscript{32}耶穌明白地說了這話，彼得就拉著他，責備他。\textsuperscript{33}耶穌轉過來看著門徒，斥責彼得說：\jesus{「撒但，退到我後邊去！因為你不體會神的心意，而是體會人的意思。」}
+
+> \textsuperscript{34}於是他叫眾人和門徒來，對他們說：\jesus{「若有人要跟從我，就當捨己，背起自己的十字架來跟從我。\textsuperscript{35}因為凡要救自己生命的，必喪失生命；凡為我和福音喪失生命的，必救自己的生命。\textsuperscript{36}人就是賺得全世界，賠上自己的生命，有甚麼益處呢？\textsuperscript{37}人還能拿甚麼換生命呢？\textsuperscript{38}凡在這淫亂罪惡的世代，把我和我的道當作可恥的，人子在他父的榮耀裏與聖天使一同來臨的時候，也要把那人當作可恥的。」}
+
+### English — ESV
+
+> \textsuperscript{27}And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, \jesus{"Who do people say that I am?"} \textsuperscript{28}And they told him, "John the Baptist; and others say, Elijah; and others, one of the prophets." \textsuperscript{29}And he asked them, \jesus{"But who do you say that I am?"} Peter answered him, "You are the Christ." \textsuperscript{30}And he strictly charged them to tell no one about him.
+
+> \textsuperscript{31}And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again. \textsuperscript{32}And he said this plainly. And Peter took him aside and began to rebuke him. \textsuperscript{33}But turning and seeing his disciples, he rebuked Peter and said, \jesus{"Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man."}
+
+> \textsuperscript{34}And calling the crowd to him with his disciples, he said to them, \jesus{"If anyone would come after me, let him deny himself and take up his cross and follow me. \textsuperscript{35}For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it. \textsuperscript{36}For what does it profit a man to gain the whole world and forfeit his soul? \textsuperscript{37}For what can a man give in return for his soul? \textsuperscript{38}For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels."}
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+凱撒利亞‧腓立比位於黑門山腳下，是加利利以北約40公里的外邦城市，以敬拜希臘牧神潘（Pan）與羅馬皇帝崇拜著稱——城中有一處著名的「潘神洞穴」，被視為異教諸神的居所。耶穌選擇在這樣一個充斥著假神與皇帝崇拜的地方，向門徒發問「我是誰」，格外具有對照的張力：在人所膜拜的眾假神與凱撒的陰影之下，門徒卻要在此宣告，誰才是真正的王。
+
+### 文學結構：全書的樞紐
+
+8:27-38是馬可福音結構上的分水嶺。全書前八章反覆出現「祂是誰」的問題（1:27, 4:41, 6:3），如今終於在人的口中得到答案；而從這一刻起，敘事的重心從「加利利事工」轉向「走向耶路撒冷、走向十字架」——8:31是全書第一次明確的受難預言，此後還有兩次（9:31, 10:33-34），每一次都緊接著門徒的誤解與耶穌對「捨己跟從」的教導，形成一組反覆出現的教學模式：預言受難→門徒誤解→耶穌教導真門徒之道。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *ho Christos* | ho Christos | 基督 | 29節，彼得的宣告，希伯來文「彌賽亞」的希臘文對應詞，意為「受膏者」 |
+| *epitimēsen* | epitimēsen | 斥責 | 33節，耶穌斥責彼得所用的動詞，與祂斥責污靈、斥責風浪用的是同一個詞 |
+| *hypage opisō mou* | hypage opisō mou | 退到我後邊去 | 33節，字面「到我背後去」——原本應是門徒跟隨的位置，如今用以斥退彼得逾越本分的攔阻 |
+| *aparnēsasthō* | aparnēsasthō | 捨己 | 34節，字面「完全否認自己」，比一般「自我犧牲」的說法更為徹底 |
+| *stauros* | stauros | 十字架 | 34節，當時羅馬處決重犯的刑具，聽者立刻明白這意味著什麼樣的代價 |
+| *zēmiōthēnai* | zēmiōthēnai | 賠上、虧損 | 36節，商業用語，「遭受損失」，與「賺得」形成鮮明對比 |
+
+### 「退到我後邊去」的雙重意涵
+
+耶穌對彼得說「撒但，退到我後邊去」（*hypage opisō mou*），這句話原本正是呼召門徒的用語——「跟從我」在原文常以類似的介詞片語表達「在我後面」的位置。耶穌等於是說：你原本的位置是跟隨者，如今卻想走到我前面來指揮我的道路——退回你該站的位置。這不僅是斥責，更是重新校正彼得對「跟從」真正涵義的理解。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 認信的高峰：人子是基督 (The Peak of Confession: The Son of Man Is the Christ)
+
+彼得的宣告「你是基督」是全書第一次由人親口說出耶穌的彌賽亞身分——此前只有污靈（1:24, 3:11, 5:7）和天上的聲音（1:11, 9:7）如此宣告。這標誌著門徒的認識終於從「行異能者」躍升到「受膏的彌賽亞」。
+
+### 2. 正確的認信仍可能誤解使命 (Right Confession, Wrong Expectations)
+
+彼得認出耶穌是基督，卻無法接受這位基督必須受苦被殺——當時猶太人普遍期待的彌賽亞是得勝的君王，而非受苦的僕人。認信的內容正確，卻可能仍然裝著錯誤的期待。
+
+### 3. 人的意思與神的心意相對立 (Human Thinking versus Divine Purpose)
+
+耶穌對彼得的斥責何等嚴厲——「撒但」——顯明企圖攔阻十字架之路，無論出於何等良善的動機（彼得顯然是出於愛主之心），本質上都是與神的救贖計劃為敵。
+
+### 4. 捨己與背十字架是跟從的代價 (Self-Denial and Cross-Bearing Are the Cost of Discipleship)
+
+「背起自己的十字架」在當時的聽眾耳中，絕不是溫和的隱喻，而是走向處決刑場的畫面——耶穌清楚地告訴群眾，跟從祂需要付上生死的代價，而非僅僅是心靈上的認同。
+
+### 5. 生命的悖論：喪失才能得著 (The Paradox of Losing to Find)
+
+「凡要救自己生命的，必喪失生命；凡為我和福音喪失生命的，必救自己的生命」——這是整本福音書最核心的悖論：緊抓地上的生命，終必失去永恆的生命；為基督捨棄地上的生命，反而尋得真正的生命。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到彼得的認信（馬太平行經文），屈梭多模指出：「這不是出於血肉，乃是我在天上的父指示你的」——他強調彼得的宣告並非出於人的推理，而是出於神親自的啟示；他也對照此前群眾較膚淺的「神的兒子」稱呼「並未蒙受稱許」，唯獨彼得這次真正認識的宣告才蒙耶穌稱許。論到耶穌對彼得的斥責，他寫道：「你不體會神的事，只體會人的事」——彼得是用屬肉體的思維、而非屬神的眼光衡量這件事；他的反對，「乃是屬肉體的心思」。論到背十字架的教訓，屈梭多模總結：「十字架是我們的榮耀，是我們一切福分的總和，是我們的信心，也是我們一切的冠冕」；他勸勉信徒「要向世界被釘十字架，與地上的事毫無關聯」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 54 (on Matt 16:13-28), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到彼得的認信，加爾文寫道：「這句話雖然簡短，卻涵蓋了我們救恩的一切內容；因為『基督』或『受膏者』這個稱號，同時包含了永遠的國度與永遠的祭司職分」。論到受難預言，他指出：「門徒心裏所想像的，是基督要為他們取得屬地的福樂」；然而基督「必須以卑微屈辱的死，而非以浮華的排場，開展祂的統治」。論到耶穌對彼得的斥責，加爾文寫道：「基督將這門徒推遠，因為他出於考慮不周的熱心，扮演了撒但的角色」；「他所體會的，不是屬神的事，而是屬人的事」。論到捨己與背十字架，他總結：「我們必須棄絕自己天然的傾向，與肉體的一切情慾斷絕關係」；「甘心為基督的緣故受死之人，所得的安慰是：他們正是藉此真正得著生命」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到彼得的認信，麥克阿瑟指出：這是在耶穌兩年半的公開事工之後，「第一次由人（而非鬼魔）宣告」祂的身分；他引用哥林多前書12:3強調：「若不是被聖靈感動的，也沒有能說耶穌是主的」——真正的認信必須出於神的啟示，而非人的推理。論到耶穌對彼得的斥責，他指出：「你所體會的不是神的事，而是人的事」，彼得對十字架的反對，被直接定性為出於撒但的攔阻。論到捨己，他解釋：「我棄絕自己……我不再想與那個人有任何關係」；論到背十字架，他強調：「若你想跟從我，你就必須跟隨我所受的羞辱」——背十字架的意義是甘願承受羞辱與苦難，而不僅僅是肉身的死亡；論到喪失生命，他寫道：「若你想抓住它、控制它、按自己的方式生活……你就必永遠喪失它，那就是地獄」；論到靈魂的價值：「你的靈魂比這世上的一切更寶貴，因為這世界終將被焚燒」。
+> — John MacArthur, *The Ultimate Good News/Bad News* (41-40), *Losing Your Life to Save It* (41-41), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到耶穌兩次發問「人們說我是誰」與「你們說我是誰」，摩根指出彼得的回答意味著：「你不是施洗約翰，不是以利亞，不是耶利米，也不是眾先知中的一位；你是基督，是永生神的兒子」——這是承認耶穌是「末後、終極的那一位」，是「彌賽亞、受膏的君王」。論到受難預言，摩根強調這教導「對門徒而言完全是嶄新的」——他們從未想過彌賽亞必須受苦。論到耶穌的斥責，他引證：「撒但，退到我後邊去：你是絆倒我的，因為你不體會神的事，只體會人的事」。論到背十字架的教訓，摩根總結：神的國度「唯有藉著十字架的道路，才能以能力降臨」。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapter XVI
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：彼得認信、第一次預言受難 (Ask Elder Wong)
+
+**精義一句話**：彼得認出了「祂是誰」，卻還沒有預備好接受「祂要做什麼」——真正的認信，必須包括接受十字架的道路。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一整段的主句，是29節與31節的並列——「你是基督」與「人子必須受許多的苦……並且被殺」。你若把31節拿掉，29節的認信會不會顯得不完整？
+- **彼得正確地認出耶穌是基督，卻無法接受祂必須受苦**——你今天對耶穌的認識，會不會也停留在「祂是誰」，卻迴避「祂要我付上什麼代價」？
+- **耶穌對彼得的斥責何等嚴厲**——「撒但，退到我後邊去」——這對你我出於「愛主的好意」、卻攔阻神旨意的時刻，有什麼提醒？
+- **「背起自己的十字架」在當時是走向刑場的畫面**——你今天願意為跟從基督付上的代價，是輕描淡寫的犧牲，還是真實會痛的捨棄？
+
+**整本聖經的連結**：彼得宣告「你是基督」，這稱號源自詩篇2篇「受膏者」的君王意象與詩篇110篇「耶和華對我主說：你坐在我的右邊」的至高君王預言。然而耶穌立刻用受難預言重新定義了這位「基督」的樣式——祂的寶座不是憑武力奪得的地上王位，而是十字架；以賽亞書53章「受苦的僕人」的預言，此刻與詩篇中「君王彌賽亞」的預言合而為一：這位基督，是「作王的僕人」。另一條線索：創世記22章，亞伯拉罕帶著以撒上摩利亞山，以撒問「祭牲在哪裏」，亞伯拉罕回答「神必自己預備」——這預表了神自己預備的羔羊；如今耶穌宣告「人子必須……被殺」，正是那預表所指向的真實應驗。
+
+**讓話語住在裡面**：這個時代崇尚「贏家」的敘事——賺得全世界、獲得最多關注與資源，被視為成功的頂點。但耶穌卻反問：賺得全世界、賠上生命，有什麼益處？默想：你生命中，有沒有正在用靈魂的重量，換取某個轉眼即逝的「全世界」？今天的實踐：為一件需要「捨己」才能順服神的具體之事，做出實際的行動，而非停留在口頭認信。
+
+**你看見耶穌了嗎**：在彼得的認信裏、在受難預言的宣告裏、在對捨己背十架的呼召裏，你看見的，是那位甘願被誤解、也堅持走上十字架道路的基督——祂是君王，但祂的寶座是十字架；祂邀請你，不只認識祂是誰，更要跟從祂所走的路。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **8:34「背起十字架」**：跟從基督有代價——這對華人文化裏常將信仰簡化為「保平安、求福氣」的傾向，是一個根本性的提醒：福音不是免代價的祝福清單。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Take Up Thy Cross*（背起你的十字架）
+
+> Take up thy cross, the Savior said, if thou wouldst my disciple be;
+> deny thyself, the world forsake, and humbly follow after me.
+>
+> — Charles W. Everest (1833)
+
+**詩篇**：詩篇 16:5-6, 11
+
+> 耶和華是我的產業，是我杯中的分；我所得的，你為我持守。
+> 用繩量給我的地界，坐落在佳美之處；我的產業實在美好。
+> 你必將生命的道路指示我；在你面前有滿足的喜樂，在你右手中有永遠的福樂。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **完整的認信**：彼得認出耶穌是基督，卻拒絕接受祂受苦的道路。你對耶穌的認信，是否也只接受「祂是誰」帶來的好處，卻迴避「跟從祂」所要求的代價？
+
+2. **好意可能成為攔阻**：彼得出於愛主的心，卻被稱為「撒但」。你有沒有檢視過，自己出於好意的建議或行動，是否有時反而攔阻了神的心意？
+
+3. **捨己的實際內容**：「捨己」不是模糊的宗教語言，而是具體的生命抉擇。今天，「捨己跟從主」對你來說，具體指的是什麼？
+
+4. **衡量得失的天平**：「賺得全世界，賠上自己的生命」——今天你生命中，有沒有正在追逐的「全世界」，其代價可能是你不願意承認的靈魂虧損？
+
+### 禱告回應
+
+> 主啊，我宣告你是基督，是永生神的兒子。
+> 求你赦免我只想要你所賜的好處，卻逃避跟從你所要求的代價。
+> 求你光照我心中，那些出於好意卻攔阻你旨意的地方。
+> 求你賜我捨己的力量，甘心背起你要我背的十字架，跟從你，直到底。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 彼得的認信「你是基督」是全書第一次由人親口宣告耶穌的身分——這對你今天如何在生活中親口見證耶穌的身分，有什麼激勵？
+
+2. 耶穌對彼得說「撒但，退到我後邊去」——這句話的嚴厲程度，對我們理解攔阻神救贖計劃的嚴重性，有什麼提醒？
+
+3. 「捨己，背起自己的十字架」在當時聽眾耳中意味著走向刑場——今天教會若把這句話過度「柔化」為一般的自我犧牲，可能會失去什麼？
+
+4. 「凡要救自己生命的，必喪失生命；凡為我和福音喪失生命的，必救自己的生命」——這個生命的悖論，如何具體應用在你目前的人生抉擇中？
+
+5. 這一章是馬可福音結構上的轉捩點，從「加利利事工」轉向「走向耶路撒冷」——這對我們理解整卷福音書「認識基督」到「跟從基督受苦」的敘事弧線，有什麼幫助？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第九章：登山變像、第二次預言受難 (The Transfiguration, the Second Passion Prediction)
+
+馬可福音 9:1-50
+
+**經文核對**：[ai-eden.com/bible/mark/9](https://www.ai-eden.com/bible/mark/9?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+六天前，耶穌才剛宣告祂必須受苦被殺；如今祂帶著彼得、雅各、約翰上了高山，讓他們親眼看見祂真實的榮耀——衣服潔白發光，摩西與以利亞前來與祂說話，天父的聲音再次印證：「這是我的愛子，你們要聽從他！」這一幕本該讓門徒永遠記住這份榮耀，然而下山之後，等待他們的卻是一個被鬼附、連門徒都無法趕出的男孩，以及父親絕望的呼喊：「我信，求你幫助我的不信！」馬可把「山上的榮耀」與「山下的軟弱」並排陳列，又緊接著第二次受難預言、門徒爭論誰為大——這一章要讀者看見：認識基督的榮耀，與活出捨己服事的樣式，必須同時發生。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**登山變像**
+
+> \textsuperscript{1}耶穌又對他們說：\jesus{「我實在告訴你們，站在這裏的，有人在沒經歷死亡以前，必定看見神的國帶著能力臨到。」}\textsuperscript{2}過了六天，耶穌帶著彼得、雅各、約翰，領他們悄悄地上了高山。他在他們面前變了形像，\textsuperscript{3}衣服放光，極其潔白，地上漂布的人沒有一個能漂得那樣白。\textsuperscript{4}有以利亞和摩西向他們顯現，並且與耶穌說話。\textsuperscript{5}彼得對耶穌說：「拉比，我們在這裏真好！我們來搭三座棚，一座為你，一座為摩西，一座為以利亞。」\textsuperscript{6}彼得不知道說甚麼才好，因為他們很害怕。\textsuperscript{7}有一朵雲彩來遮蓋他們，又有聲音從雲彩裏出來，說：「這是我的愛子，你們要聽從他！」\textsuperscript{8}門徒連忙向周圍觀看，不再看見任何人，只見耶穌同他們在一起。
+
+> \textsuperscript{9}下山的時候，耶穌囑咐他們說：\jesus{「人子還沒有從死人中復活，你們不要把所看到的告訴人。」}\textsuperscript{10}門徒將這話存記在心，彼此議論「從死人中復活」是甚麼意思。\textsuperscript{11}他們就問耶穌：「文士為甚麼說以利亞必須先來？」\textsuperscript{12}耶穌說：\jesus{「以利亞的確先來復興萬事。經上不是指著人子說，他要受許多的苦和被人輕慢嗎？\textsuperscript{13}我告訴你們，以利亞已經來了，他們任意待他，正如經上指著他說的。」}
+
+**醫治被鬼附的孩子**
+
+> \textsuperscript{14}他們到了門徒那裏，看見有一大群人圍著他們，又有文士和他們辯論。\textsuperscript{15}眾人一見耶穌，都很驚奇，就跑上去向他問安。\textsuperscript{16}耶穌問他們：\jesus{「你們和他們辯論甚麼？」}\textsuperscript{17}眾人中的一個回答：「老師，我帶了我的兒子到你這裏來，他被啞巴的靈附著。\textsuperscript{18}無論在哪裏，那靈拿住他，把他摔倒，他就口吐白沫，牙關緊鎖，身體僵硬。我請過你的門徒把那靈趕出去，他們卻不能。」\textsuperscript{19}耶穌回答：\jesus{「唉！這不信的世代啊，我和你們在一起要到幾時呢？我忍耐你們要到幾時呢？把他帶到我這裏！」}\textsuperscript{20}他們就帶了他來。那靈一見耶穌，就使他重重地抽風，倒在地上，翻來覆去，口吐白沫。\textsuperscript{21}耶穌問他父親：\jesus{「他得這病有多久了呢？」}父親說：「從小的時候。\textsuperscript{22}那靈屢次把他扔在火裏、水裏，要治死他。你若能做甚麼，求你憐憫我們，幫助我們。」\textsuperscript{23}耶穌對他說：\jesus{「『你若能』，在信的人，凡事都能。」}\textsuperscript{24}孩子的父親立刻喊著說：「我信；求你幫助我的不信！」\textsuperscript{25}耶穌看見眾人都跑上來，就斥責那污靈說：\jesus{「你這聾啞的靈，我命令你從他裏頭出來，再不要進去！」}\textsuperscript{26}那靈大喊一聲，使孩子猛烈地抽了一陣風，就出來了。孩子好像死了一般，以致眾人多半說：「他死了。」\textsuperscript{27}但耶穌拉著他的手，扶他起來，他就站起來了。\textsuperscript{28}耶穌進了屋子，門徒就私下問他：「我們為甚麼不能趕出那靈呢？」\textsuperscript{29}耶穌對他們說：\jesus{「非用禱告，這一類的邪靈總趕不出來。」}
+
+**第二次預言受難、誰最大**
+
+> \textsuperscript{30}他們離開那地方，經過加利利；耶穌不願意人知道，\textsuperscript{31}因為他正教導門徒說：\jesus{「人子將要被交在人手裏，他們要殺害他；被殺以後，三天後他要復活。」}\textsuperscript{32}門徒卻不明白這話，又不敢問他。
+
+> \textsuperscript{33}他們來到迦百農。耶穌在屋裏問門徒說：\jesus{「你們在路上議論的是甚麼？」}\textsuperscript{34}門徒不作聲，因為他們在路上彼此爭論誰最大。\textsuperscript{35}耶穌坐下，叫十二個使徒來，說：\jesus{「若有人願意為首，他要作眾人之後，作眾人的用人。」}\textsuperscript{36}於是耶穌領一個小孩過來，讓他站在門徒當中，又抱起他來，對他們說：\textsuperscript{37}\jesus{「凡為我的名接納一個像這小孩子的，就是接納我；凡接納我的，不是接納我，而是接納那差我來的。」}
+
+**論異己趕鬼者、跌人犯罪**
+
+> \textsuperscript{38}約翰對耶穌說：「老師，我們看見一個人奉你的名趕鬼，我們就阻止他，因為他不跟從我們。」\textsuperscript{39}耶穌說：\jesus{「不要阻止他，因為沒有人奉我的名行異能，反倒輕易毀謗我。\textsuperscript{40}不抵擋我們的，就是幫助我們的。\textsuperscript{41}凡因你們是屬基督，給你們一杯水喝的，我實在告訴你們，他一定會得到賞賜。」}
+
+> \jesus{\textsuperscript{42}「凡使這些信我的小子中的一個跌倒的，倒不如把大磨石拴在這人的頸項上，扔在海裏。\textsuperscript{43}如果你一隻手使你跌倒，就把它砍下來；你缺一隻手進入永生，比有兩隻手落到地獄，入那不滅的火裏去還好。\textsuperscript{45}如果你一隻腳使你跌倒，就把它砍下來；你瘸腿進入永生，比有兩隻腳被扔進地獄裏還好。\textsuperscript{47}如果你一隻眼使你跌倒，就去掉它；你只有一隻眼進入神的國，比有兩隻眼被扔進地獄裏還好。\textsuperscript{48}在那裏，蟲是不死的，火是不滅的。\textsuperscript{49}因為每個人必被火像鹽一般醃起來。\textsuperscript{50}鹽本是好的，若失了鹹味，你們怎能用它調味呢？你們中間要有鹽，彼此和睦。」}
+
+*（第44、46節缺，和合本修訂版依照最古老抄本，未收錄後期抄本重複第48節的插句。）*
+
+### English — ESV
+
+> \jesus{\textsuperscript{1}Truly, I say to you, there are some standing here who will not taste death until they see the kingdom of God after it has come with power.}
+
+> \textsuperscript{2}And after six days Jesus took with him Peter and James and John, and led them up a high mountain by themselves. And he was transfigured before them, \textsuperscript{3}and his clothes became radiant, intensely white, as no one on earth could bleach them. \textsuperscript{4}And there appeared to them Elijah with Moses, and they were talking with Jesus. \textsuperscript{5}And Peter said to Jesus, "Rabbi, it is good that we are here. Let us make three tents, one for you and one for Moses and one for Elijah." \textsuperscript{6}For he did not know what to say, for they were terrified. \textsuperscript{7}And a cloud overshadowed them, and a voice came out of the cloud, "This is my beloved Son; listen to him." \textsuperscript{8}And suddenly, looking around, they no longer saw anyone with them but Jesus only.
+
+> \textsuperscript{9}And as they were coming down the mountain, he charged them to tell no one what they had seen, until the Son of Man had risen from the dead. \textsuperscript{10}So they kept the matter to themselves, questioning what this rising from the dead might mean. \textsuperscript{11}And they asked him, "Why do the scribes say that first Elijah must come?" \textsuperscript{12}And he said to them, \jesus{"Elijah does come first to restore all things. And how is it written of the Son of Man that he should suffer many things and be treated with contempt? \textsuperscript{13}But I tell you that Elijah has come, and they did to him whatever they pleased, as it is written of him."}
+
+> \textsuperscript{14}And when they came to the disciples, they saw a great crowd around them, and scribes arguing with them. \textsuperscript{15}And immediately all the crowd, when they saw him, were greatly amazed and ran up to him and greeted him. \textsuperscript{16}And he asked them, \jesus{"What are you arguing about with them?"} \textsuperscript{17}And someone from the crowd answered him, "Teacher, I brought my son to you, for he has a spirit that makes him mute. \textsuperscript{18}And whenever it seizes him, it throws him down, and he foams and grinds his teeth and becomes rigid. So I asked your disciples to cast it out, and they were not able." \textsuperscript{19}And he answered them, \jesus{"O faithless generation, how long am I to be with you? How long am I to bear with you? Bring him to me."} \textsuperscript{20}And they brought the boy to him. And when the spirit saw him, immediately it convulsed the boy, and he fell on the ground and rolled about, foaming at the mouth. \textsuperscript{21}And Jesus asked his father, \jesus{"How long has this been happening to him?"} And he said, "From childhood. \textsuperscript{22}And it has often cast him into fire and into water, to destroy him. But if you can do anything, have compassion on us and help us." \textsuperscript{23}And Jesus said to him, \jesus{"'If you can'! All things are possible for one who believes."} \textsuperscript{24}Immediately the father of the child cried out and said, "I believe; help my unbelief!" \textsuperscript{25}And when Jesus saw that a crowd came running together, he rebuked the unclean spirit, saying to it, \jesus{"You mute and deaf spirit, I command you, come out of him and never enter him again."} \textsuperscript{26}And after crying out and convulsing him terribly, it came out, and the boy was like a corpse, so that most of them said, "He is dead." \textsuperscript{27}But Jesus took him by the hand and lifted him up, and he arose. \textsuperscript{28}And when he had entered the house, his disciples asked him privately, "Why could we not cast it out?" \textsuperscript{29}And he said to them, \jesus{"This kind cannot be driven out by anything but prayer."}
+
+> \textsuperscript{30}They went on from there and passed through Galilee. And he did not want anyone to know, \textsuperscript{31}for he was teaching his disciples, saying to them, \jesus{"The Son of Man is going to be delivered into the hands of men, and they will kill him. And when he is killed, after three days he will rise."} \textsuperscript{32}But they did not understand the saying, and were afraid to ask him.
+
+> \textsuperscript{33}And they came to Capernaum. And when he was in the house he asked them, \jesus{"What were you discussing on the way?"} \textsuperscript{34}But they kept silent, for on the way they had argued with one another about who was the greatest. \textsuperscript{35}And he sat down and called the twelve. And he said to them, \jesus{"If anyone would be first, he must be last of all and servant of all."} \textsuperscript{36}And he took a child and put him in the midst of them, and taking him in his arms, he said to them, \textsuperscript{37}\jesus{"Whoever receives one such child in my name receives me, and whoever receives me, receives not me but him who sent me."}
+
+> \textsuperscript{38}John said to him, "Teacher, we saw someone casting out demons in your name, and we tried to stop him, because he was not following us." \textsuperscript{39}But Jesus said, \jesus{"Do not stop him, for no one who does a mighty work in my name will be able soon afterward to speak evil of me. \textsuperscript{40}For the one who is not against us is for us. \textsuperscript{41}For truly, I say to you, whoever gives you a cup of water to drink because you belong to Christ will by no means lose his reward."}
+
+> \jesus{\textsuperscript{42}"Whoever causes one of these little ones who believe in me to sin, it would be better for him if a great millstone were hung around his neck and he were thrown into the sea. \textsuperscript{43}And if your hand causes you to sin, cut it off. It is better for you to enter life crippled than with two hands to go to hell, to the unquenchable fire. \textsuperscript{45}And if your foot causes you to sin, cut it off. It is better for you to enter life lame than with two feet to be thrown into hell. \textsuperscript{47}And if your eye causes you to sin, tear it out. It is better for you to enter the kingdom of God with one eye than with two eyes to be thrown into hell, \textsuperscript{48}'where their worm does not die and the fire is not quenched.' \textsuperscript{49}For everyone will be salted with fire. \textsuperscript{50}Salt is good, but if the salt has lost its saltiness, how will you make it salty again? Have salt in yourselves, and be at peace with one another."}
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+雖然馬可沒有指明變像山的地名，傳統多認為是黑門山（鄰近凱撒利亞‧腓立比）或他泊山。摩西與以利亞的出現極具象徵意義：摩西代表律法，以利亞代表先知，兩者皆親身經歷神在西奈山／何烈山的顯現，如今卻一同來與耶穌「談論」——路加福音9:31明說，他們談的是耶穌「將要在耶路撒冷成的事」，也就是祂的受難。彼得提議搭「三座棚」，反映住棚節（Sukkot）的傳統，猶太人相信末世彌賽亞降臨時會有新的住棚節慶典——彼得的提議顯明他把這一刻誤認作末世榮耀已經完全來到，卻忽略了十架的道路尚未走完。
+
+### 文學結構：山上與山下的對照
+
+9:1-50由三個場景組成，彼此形成強烈對照：山上的變像榮耀（2-8節）、山下對付被鬼附之男孩的無力（14-29節）、以及門徒爭論誰為大的屬靈幼稚（33-37節）。馬可刻意把「至高的啟示」與「最深的軟弱」並列，讓讀者看見：認識基督的榮耀，若不能落實在服事最卑微者的謙卑裏，仍然只是屬靈的驕傲。9:38-50延續「小子」的主題——不可跌倒信主的「小子」（42節），不可攔阻奉主名趕鬼的「異己者」（38-40節），呼應37節「接待一個像這小孩子的」的教導，形成一組完整的「誰是大」的領受。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *metemorphōthē* | metemorphōthē | 變了形像 | 2節，字面即英文「metamorphosis」的字源，表達本質性的改變顯現 |
+| *skēnas* | skēnas | 棚、帳幕 | 5節，呼應住棚節與舊約會幕，彼得想要延續這神聖的一刻 |
+| *apiston* | apiston | 不信的 | 19節，耶穌對「這世代」的嘆息，涵蓋文士、群眾，甚至門徒 |
+| *pisteuō, apistia* | pisteuō, apistia | 信、不信 | 23-24節，同一句話中信與不信並存，是全新約最誠實的信心告白之一 |
+| *diakonos* | diakonos | 用人、僕人 | 35節，耶穌對「為首」的重新定義 |
+| *skandalisē* | skandalisē | 使跌倒 | 42節，字面指「設下絆腳的機關」 |
+
+### 「我信，求你幫助我的不信」的分量
+
+這句話（*pisteuō, boēthei mou tē apistia*）以最簡潔的方式，道出了信心的真實樣式——不是毫無疑惑的完美信心，而是在信與不信並存的張力中，仍然向耶穌伸手。這句禱告成為歷世歷代信徒最誠實、也最蒙應允的禱告典範之一。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 變像是十字架前的榮耀預告 (The Transfiguration Previews Glory Before the Cross)
+
+六天前耶穌才剛宣告受難預言，如今卻讓三位門徒看見祂真實的榮耀——這不是取消十字架的道路，而是讓門徒在苦難來臨之前，先確知這條路的終點是榮耀，不是失敗。
+
+### 2. 天父再次印證「要聽從他」(The Father Again Commands: "Listen to Him")
+
+天父的聲音第二次出現於馬可福音（首次在1:11），這一次多加了一句「你們要聽從他」——直接回應彼得剛才魯莽的提議：不要想著搭棚留住這一刻的榮耀，而要聽從耶穌接下來所說有關十字架的教導。
+
+### 3. 誠實的信心勝過完美的信心 (Honest Faith over Perfect Faith)
+
+孩子的父親在「我信」與「我的不信」之間誠實掙扎——耶穌沒有要求他先解決心裏的疑惑才肯醫治，而是接納這帶著掙扎的信心，並且應允了他的祈求。
+
+### 4. 這一類的邪靈非用禱告不能趕出 (This Kind Requires Prayer)
+
+門徒無法趕出這個污靈，耶穌指出原因在於「禱告」——這提醒服事者，屬靈的爭戰不能單靠過去的成功經驗或既有的權柄公式，而必須持續倚靠與神的相交。
+
+### 5. 為首的必作眾人的用人 (The First Must Be the Servant of All)
+
+門徒剛從山上下來，卻在路上爭論「誰最大」——耶穌用「接待一個小孩子」的具體行動，重新定義偉大：真正的偉大不是被服事，而是甘願服事最微小、最無地位的人。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到登山變像（馬太平行經文），屈梭多模記載天父的聲音「這是我的愛子」，並指出這句宣告，正是要糾正彼得先前的錯誤提議——彼得把耶穌與摩西、以利亞相提並論，天父卻藉這聲音重新確立耶穌獨一無二的地位；他也論到門徒因懼怕而俯伏在地。論到跌人犯罪與地獄的警告一段（太18:7-14），屈梭多模引證：「這世界有禍了，因為將人絆倒！」他強調基督對「小子」何等看重：「你們要謹慎，不可輕看這小子裏的一個」；他也論到失喪的羊的比喻，指出天父不願一人沉淪的心意，並將「砍下使你跌倒的手」理解為對親密卻帶來屬靈危害之關係的斷然切割。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 56 (on Matt 16:28-17:8) and Homily 59 (on Matt 18:7-14), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到登山變像，加爾文指出基督這樣做的目的：「祂並非不情願地被拖向死亡，而是甘心樂意地邁向前去」；論到摩西與以利亞的顯現，他寫道：「唯獨基督是律法與先知的終極目標」。論到孩子父親的禱告「我信，求你幫助我的不信」，加爾文寫道：「我們當中沒有一個人，不是同時在自己裏面經歷這兩者」；他勸勉信徒：「神因著我們信心中那一小部分的存留，就算我們為信者，赦免了我們信心的缺乏」。論到彼得在變像山上的提議，加爾文批評：「他的願望是愚昧的……他荒謬地把僕人與他們的主放在同等的地位」；真正的謙卑「既不誇耀自己的功德，也不驕傲地藐視弟兄」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到登山變像，麥克阿瑟指出其目的：「是要讓他們對即將來臨的榮耀有信心的根基，好面對即將來臨的苦難」；他強調：「十字架並未取消未來的榮耀……那榮耀始終都在計劃之中」。論到天父糾正彼得的聲音，他寫道：「要聽從他。閉上你的嘴，彼得」。論到被鬼附孩子的醫治，他指出核心信息：「凡信的人，凡事都能」是「這功課的核心，是信心的挑戰」；論到父親的呼喊，他稱之為「一個誠實人的告白」；他也強調：「主從未期待完全的信心……祂只期待不完美的信心，因為那是我們唯一能給的」；論到禱告的必要，他解釋：這顯明的是倚靠，而非自恃。論到誰為大的教導，他總結：「學習謙卑，本質上就是找到成聖的根基」；「驕傲破壞合一……驕傲喪失尊榮……驕傲拒絕神」。
+> — John MacArthur, *The Unveiled Son* (41-43), *All Things Possible* (41-45), *The Virtue of Being Last* (41-46), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到登山變像，摩根寫道：「他們看見主變了形像」，更精確的翻譯應是「變質」（metamorphosed）；論到彼得搭棚的提議，他指出：「他們不知道自己在做什麼，也不知道該說什麼」；論到天上的聲音：「這是我的愛子：你們要聽祂」。摩根將整段9:1-13的核心，定位在「有關十字架的談話，以及神聖聲音對這談話與計劃的批准」。論到被鬼附孩子的醫治，摩根以耶穌的呼喊「這不信的世代啊，我還要和你們在一起多久？我還要忍耐你們多久？」為全段的框架——不信同時存在於文士、父親、孩子，也存在於門徒身上；他稱父親的呼喊「我信，求你幫助我的不信」為「所能有的最偉大的信心，最精湛的信心操練」；論到禱告，他寫道：「那是靈魂安息在耶穌裏、最終安息在神旨意裏的狀態」。論到誰為大，他引證：「若有人願為首，他必作眾人末後的，作眾人的用人」——這是「祂國度裏偉大的真正祕訣」。論到異己趕鬼者，他寫道：「不要禁止他：因為沒有人奉我的名行異能，會輕易毀謗我」。論到鹽的教導，他解釋鹽代表神聖的潔淨，「一種微妙、滲透、能搜出一切敗壞元素的火焰」；真正的和睦，必須以個人的純淨為先。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapters XVI-XVIII
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：登山變像、第二次預言受難 (Ask Elder Wong)
+
+**精義一句話**：山上的榮耀確認了十字架的終點，山下的軟弱暴露了門徒的不信——這一章要教會我們的，是把「認識祂的榮耀」與「服事最小的一個」焊接在一起，因為真正的偉大，是作眾人的用人。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：7節天父的聲音「這是我的愛子，你們要聽從他」是全章的鑰匙——不只是要門徒認識耶穌的榮耀，更是要他們「聽從」祂接下來一切關於十字架、關於服事的教導。若拿掉這句話，接下來的受難預言與誰為大的教導，會不會顯得突兀？
+- **孩子的父親說「我信，求你幫助我的不信」**——這句話同時承認信心與不信。你今天的禱告，是否也允許自己誠實地承認「我信，但也有不信」，還是你覺得必須先解決疑惑才能禱告？
+- **門徒剛從變像山下來，就在路上爭論誰最大**——屬靈高峰的經歷，為什麼沒有立刻轉化為謙卑？你有沒有經歷過類似的落差——剛經歷神同在的高峰，卻很快又落入屬肉體的爭競？
+
+**整本聖經的連結**：摩西曾在西奈山上，臉上發光下山（出34:29-35）；以利亞曾在何烈山上經歷神的顯現（王上19章）；如今耶穌在變像山上，不僅臉上發光，衣服也發光，而且摩西與以利亞親自前來與祂說話——這一幕宣告：耶穌不只是延續律法與先知的傳統，祂就是律法與先知所指向的那一位。另一條線索：「凡使這些信我的小子中的一個跌倒的」呼應以西結書34章「牧人」的責任——真正的牧者不可讓羊跌倒，反倒要尋找失喪的（結34:16）；耶穌對「小子」的看重，正是這位好牧人心腸的延續。
+
+**讓話語住在裡面**：門徒剛經歷變像山的榮耀，卻無法趕出一個污靈，也在路上爭論誰為大——這提醒我們，屬靈的高峰經歷若沒有持續倚靠神（禱告）與謙卑服事的操練，很快就會顯出軟弱。默想：我最近一次經歷神同在的高峰之後，是否也很快落入了屬肉體的爭競或無力？今天的實踐：找一個「像小孩子」一樣、在群體中地位最微小的人，具體地接待、服事他。
+
+**你看見耶穌了嗎**：在變像山上發光的衣服裏，在山下對被鬼附之孩子的醫治裏，在對誰為大之爭論的溫柔糾正裏，你看見的，是那位既有榮耀、又甘願俯就服事最小之人的基督——祂配得三座帳棚的敬拜，卻寧願先下山，服事一個絕望父親的呼求。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **9:24 承認信心不足不是羞恥，是誠實**：華人文化常把「軟弱」與「失敗」畫上等號，這句禱告卻示範了：向神誠實承認自己的不信，本身就是信心的表現。
+- **9:35 顛覆華人「爭首先」的文化**：華人社會重視輩分、地位、面子上的「爭先」，耶穌卻說「若有人願意為首，他要作眾人之後，作眾人的用人」——這對華人教會的服事文化，是根本性的顛覆。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Immortal, Invisible, God Only Wise*（永生保守萬有的真神）
+
+> Immortal, invisible, God only wise, in light inaccessible hid from our eyes,
+> most blessed, most glorious, the Ancient of Days, almighty, victorious, Thy great name we praise.
+>
+> — Walter Chalmers Smith (1867)
+
+**詩篇**：詩篇 99:1-3, 9
+
+> 耶和華作王；萬民當戰抖！他坐在基路伯上，地當動搖。
+> 耶和華在錫安為大，他超乎萬民之上。
+> 願他們稱讚你大而可畏的名；他本為聖！
+> 你們要尊崇耶和華—我們的神，在他的聖山下拜，因為耶和華—我們的神本為聖！
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **榮耀與十架並存**：變像山的榮耀緊接著受難預言而來——你如何在自己的信仰生活中，同時持守「認識基督的榮耀」與「跟從祂受苦的道路」？
+
+2. **誠實的信心**：孩子的父親禱告「我信，求你幫助我的不信」——你今天願不願意向神誠實承認自己信心裏的軟弱，而不是假裝自己毫無疑惑？
+
+3. **禱告作為爭戰的根基**：門徒無法趕出污靈，耶穌指出「非用禱告不能」——你今天面對的屬靈爭戰，是倚靠過去的經驗和方法，還是持續倚靠與神的相交？
+
+4. **重新定義偉大**：門徒爭論誰最大，耶穌卻抱起一個小孩作示範——今天你衡量「成功」與「偉大」的標準，與耶穌的標準有多大的差距？
+
+### 禱告回應
+
+> 主啊，感謝你讓門徒（也讓我）看見你的榮耀，也感謝你耐心地面對我信心裏的軟弱。
+> 我信，求你幫助我的不信。
+> 求你教導我，讓禱告成為我倚靠你、而非倚靠自己的根基。
+> 求你重新塑造我對偉大的定義，使我甘心成為眾人的用人，如同你甘心服事我們。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 變像山的榮耀與受難預言緊密相連——這對我們理解基督的榮耀與祂的受苦之間不可分割的關係，有什麼幫助？
+
+2. 天父再次宣告「這是我的愛子，你們要聽從他」——這句話在變像山上的處境中，特別要糾正的是什麼樣的錯誤？
+
+3. 「我信，求你幫助我的不信」——這句禱告對我們今天面對懷疑與信心並存的處境，提供了什麼樣的榜樣？
+
+4. 門徒剛從屬靈的高峰經歷下來，卻立刻陷入「誰最大」的爭競——這對我們今天教會或個人在經歷復興、感動之後，如何持續活出謙卑的樣式，有什麼提醒？
+
+5. 「凡接待一個像這小孩子的，就是接待我」——耶穌用接待孩子重新定義偉大，這對今天教會如何對待群體中地位最卑微、最沒有影響力的人，有什麼實際的應用？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第十章：休妻論、財主、第三次預言受難 (Divorce, the Rich Young Ruler, the Third Passion Prediction)
+
+馬可福音 10:1-52
+
+**經文核對**：[ai-eden.com/bible/mark/10](https://www.ai-eden.com/bible/mark/10?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+這一章把全馬可福音的中心經文安放在最核心的位置——10:45：「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」在此之前，耶穌教導婚姻的神聖、迎接孩童的天真、面對一位滿有產業卻無法撇下財富的少年官；在此之後，祂第三次預言受難，門徒雅各、約翰卻求祂賜座位；最後，一位瞎眼的乞丐巴底買喊著「大衛之子，可憐我吧」，成為全書唯一一位「跟隨耶穌走上耶路撒冷之路」的蒙醫治者。這一章要讀者看見：僕人基督的服事，貫穿婚姻倫理、財富取捨、權位野心，直到十字架本身——祂捨命，是為了「多人」的贖價，而巴底買，正是那許多人中間第一個睜開眼睛、看見這一切、並且跟從的人。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Take Up Thy Cross**
+> *Charles W. Everest, 1833*
+>
+> Take up thy cross, and follow Christ,
+> Nor think till death to lay it down;
+> For only he who bears the cross
+> May hope to wear the glorious crown.
+>
+> 背起你的十字架，跟從基督；
+> 至死不要放下這十架；
+> 惟有背十架的人，
+> 才有指望戴上榮耀冠冕。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**論休妻、迎接小孩子**
+
+> \textsuperscript{1}耶穌從那裏起身，來到猶太的境內，約旦河的東邊。眾人又聚集到他那裏，他又照常教導他們。\textsuperscript{2}有法利賽人來問他說：「男人休妻合不合法？」意思是要試探他。\textsuperscript{3}耶穌回答他們說：\jesus{「摩西吩咐你們的是甚麼？」}\textsuperscript{4}他們說：「摩西准許寫了休書就可以休妻。」\textsuperscript{5}耶穌對他們說：\jesus{「摩西因為你們的心硬，所以寫這誡命給你們。\textsuperscript{6}但從起初創造的時候，神造人是造男造女。\textsuperscript{7}因此，人要離開他的父母，與妻子結合，\textsuperscript{8}二人成為一體。既然如此，夫妻不再是兩個人，而是一體的了。\textsuperscript{9}所以，神配合的，人不可分開。」}\textsuperscript{10}他們到了屋裏，門徒又問他這事。\textsuperscript{11}耶穌對他們說：\jesus{「凡休妻另娶的，就是犯姦淫，辜負他的妻子；\textsuperscript{12}妻子若離棄丈夫另嫁，也是犯姦淫了。」}
+
+> \textsuperscript{13}有人帶著小孩子來見耶穌，要他摸他們，門徒就責備那些人。\textsuperscript{14}耶穌看見就很生氣，對門徒說：\jesus{「讓小孩到我這裏來，不要阻止他們，因為在神國的正是這樣的人。\textsuperscript{15}我實在告訴你們，凡要接受神國的，若不像小孩子，絕不能進去。」}\textsuperscript{16}於是他抱著小孩子，給他們按手，為他們祝福。
+
+**財主與神的國**
+
+> \textsuperscript{17}耶穌剛上路的時候，有一個人跑來，跪在他面前，問他：「善良的老師，我該做甚麼事才能承受永生？」\textsuperscript{18}耶穌對他說：\jesus{「你為甚麼稱我是善良的？除了神一位之外，再沒有善良的。\textsuperscript{19}誡命你是知道的：『不可殺人；不可姦淫；不可偷盜；不可作假見證；不可虧負人；當孝敬父母。』」}\textsuperscript{20}他對耶穌說：「老師，這一切我從小都遵守了。」\textsuperscript{21}耶穌看著他，就愛他，對他說：\jesus{「你還缺少一件：去變賣你所有的，分給窮人，就必有財寶在天上；然後來跟從我。」}\textsuperscript{22}他聽見這話，臉就變了色，憂憂愁愁地走了，因為他的產業很多。
+
+> \textsuperscript{23}耶穌看了看周圍，對門徒說：\jesus{「有錢財的人進神的國是何等的難哪！」}\textsuperscript{24}門徒對他的話非常驚奇。耶穌又對他們說：\jesus{「孩子們，要進神的國是何等的難哪！\textsuperscript{25}駱駝穿過針眼比財主進神的國還容易呢！」}\textsuperscript{26}門徒就更為驚訝，彼此對問：「這樣，誰能得救呢？」\textsuperscript{27}耶穌看著他們，說：\jesus{「在人不能，在神卻不然，因為在神凡事都能。」}\textsuperscript{28}彼得就對他說：「看哪，我們已經撇下一切跟從你了。」\textsuperscript{29}耶穌說：\jesus{「我實在告訴你們，凡為我和福音撇下房屋，或是兄弟、姊妹、父親、母親、兒女、田地，\textsuperscript{30}沒有不在今世得百倍的，就是房屋、兄弟、姊妹、母親、兒女、田地，並且要受迫害，在來世得永生。\textsuperscript{31}然而，有許多在前的，將要在後；在後的，將要在前。」}
+
+**第三次預言受難、雅各約翰求座位**
+
+> \textsuperscript{32}他們行路上耶路撒冷去。耶穌在前頭走，他們很驚訝，跟從的人也害怕。耶穌又叫十二使徒來，把自己將要遭遇的事告訴他們，\textsuperscript{33}說：\jesus{「看哪，我們上耶路撒冷去，人子將被交給祭司長和文士；他們要定他死罪，又交給外邦人。\textsuperscript{34}他們要戲弄他，向他吐唾沫，鞭打他，殺害他；三天後，他要復活。」}
+
+> \textsuperscript{35}西庇太的兒子雅各和約翰進前來，對耶穌說：「老師，我們無論求你甚麼，願你為我們做。」\textsuperscript{36}耶穌對他們說：\jesus{「要我為你們做甚麼？」}\textsuperscript{37}他們對他說：「在你的榮耀裏，請賜我們一個坐在你右邊，一個坐在你左邊。」\textsuperscript{38}耶穌對他們說：\jesus{「你們不知道所求的是甚麼。我所喝的杯，你們能喝嗎？我所受的洗，你們能受嗎？」}\textsuperscript{39}他們對他說：「我們能。」耶穌對他們說：\jesus{「我所喝的杯，你們要喝；我所受的洗，你們也要受。\textsuperscript{40}可是坐在我的左右，不是我可以賜的，而是為誰預備就賜給誰。」}\textsuperscript{41}其餘十個門徒聽見，就對雅各和約翰很生氣。\textsuperscript{42}耶穌叫了他們來，對他們說：\jesus{「你們知道，外邦人有君王作主治理他們，有大臣操權管轄他們。\textsuperscript{43}但是在你們中間，不可這樣。你們中間誰願為大，就要作你們的用人；\textsuperscript{44}在你們中間誰願為首，就要作眾人的僕人。\textsuperscript{45}因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」}
+
+**醫治瞎眼的巴底買**
+
+> \textsuperscript{46}他們到了耶利哥。耶穌同門徒並許多人離開耶利哥的時候，有一個討飯的盲人，是底買的兒子巴底買，坐在路旁。\textsuperscript{47}他聽見是拿撒勒的耶穌，就喊了起來，說：「大衛之子耶穌啊，可憐我吧！」\textsuperscript{48}有許多人責備他，不許他作聲，他卻越發喊著：「大衛之子啊，可憐我吧！」\textsuperscript{49}耶穌就站住，說：\jesus{「叫他過來。」}他們就叫那盲人，對他說：「放心，起來！他在叫你啦。」\textsuperscript{50}盲人就丟下衣服，跳起來，走到耶穌那裏。\textsuperscript{51}耶穌回答他說：\jesus{「你要我為你做甚麼？」}盲人對他說：「拉波尼，我要能看見。」\textsuperscript{52}耶穌對他說：\jesus{「你去吧！你的信救了你。」}盲人立刻看得見，就在路上跟隨耶穌。
+
+### English — ESV
+
+> \textsuperscript{1}And he left there and went to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them. \textsuperscript{2}And Pharisees came up and in order to test him asked, "Is it lawful for a man to divorce his wife?" \textsuperscript{3}He answered them, \jesus{"What did Moses command you?"} \textsuperscript{4}They said, "Moses allowed a man to write a certificate of divorce and to send her away." \textsuperscript{5}And Jesus said to them, \jesus{"Because of your hardness of heart he wrote you this commandment. \textsuperscript{6}But from the beginning of creation, 'God made them male and female.' \textsuperscript{7}'Therefore a man shall leave his father and mother and hold fast to his wife, \textsuperscript{8}and the two shall become one flesh.' So they are no longer two but one flesh. \textsuperscript{9}What therefore God has joined together, let not man separate."} \textsuperscript{10}And in the house the disciples asked him again about this matter. \textsuperscript{11}And he said to them, \jesus{"Whoever divorces his wife and marries another commits adultery against her, \textsuperscript{12}and if she divorces her husband and marries another, she commits adultery."}
+
+> \textsuperscript{13}And they were bringing children to him that he might touch them, and the disciples rebuked them. \textsuperscript{14}But when Jesus saw it, he was indignant and said to them, \jesus{"Let the children come to me; do not hinder them, for to such belongs the kingdom of God. \textsuperscript{15}Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it."} \textsuperscript{16}And he took them in his arms and blessed them, laying his hands on them.
+
+> \textsuperscript{17}And as he was setting out on his journey, a man ran up and knelt before him and asked him, "Good Teacher, what must I do to inherit eternal life?" \textsuperscript{18}And Jesus said to him, \jesus{"Why do you call me good? No one is good except God alone. \textsuperscript{19}You know the commandments: 'Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.'"} \textsuperscript{20}And he said to him, "Teacher, all these I have kept from my youth." \textsuperscript{21}And Jesus, looking at him, loved him, and said to him, \jesus{"You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me."} \textsuperscript{22}Disheartened by the saying, he went away sorrowful, for he had great possessions.
+
+> \textsuperscript{23}And Jesus looked around and said to his disciples, \jesus{"How difficult it will be for those who have wealth to enter the kingdom of God!"} \textsuperscript{24}And the disciples were amazed at his words. But Jesus said to them again, \jesus{"Children, how difficult it is to enter the kingdom of God! \textsuperscript{25}It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."} \textsuperscript{26}And they were exceedingly astonished, and said to him, "Then who can be saved?" \textsuperscript{27}Jesus looked at them and said, \jesus{"With man it is impossible, but not with God. For all things are possible with God."} \textsuperscript{28}Peter began to say to him, "See, we have left everything and followed you." \textsuperscript{29}Jesus said, \jesus{"Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, \textsuperscript{30}who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life. \textsuperscript{31}But many who are first will be last, and the last first."}
+
+> \textsuperscript{32}And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. And they were amazed, and those who followed were afraid. And taking the twelve again, he began to tell them what was to happen to him, \textsuperscript{33}saying, \jesus{"See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. \textsuperscript{34}And they will mock him and spit on him, and flog him and kill him. And after three days he will rise."}
+
+> \textsuperscript{35}And James and John, the sons of Zebedee, came up to him and said to him, "Teacher, we want you to do for us whatever we ask of you." \textsuperscript{36}And he said to them, \jesus{"What do you want me to do for you?"} \textsuperscript{37}And they said to him, "Grant us to sit, one at your right hand and one at your left, in your glory." \textsuperscript{38}Jesus said to them, \jesus{"You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?"} \textsuperscript{39}And they said to him, "We are able." And Jesus said to them, \jesus{"The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized, \textsuperscript{40}but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared."} \textsuperscript{41}And when the ten heard it, they began to be indignant at James and John. \textsuperscript{42}And Jesus called them to him and said to them, \jesus{"You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. \textsuperscript{43}But it shall not be so among you. But whoever would be great among you must be your servant, \textsuperscript{44}and whoever would be first among you must be slave of all. \textsuperscript{45}For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many."}
+
+> \textsuperscript{46}And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, a blind beggar, the son of Timaeus, was sitting by the roadside. \textsuperscript{47}And when he heard that it was Jesus of Nazareth, he began to cry out and say, "Jesus, Son of David, have mercy on me!" \textsuperscript{48}And many rebuked him, telling him to be silent. But he cried out all the more, "Son of David, have mercy on me!" \textsuperscript{49}And Jesus stopped and said, \jesus{"Call him."} And they called the blind man, saying to him, "Take heart. Get up; he is calling you." \textsuperscript{50}And throwing off his cloak, he sprang up and came to Jesus. \textsuperscript{51}And Jesus said to him, \jesus{"What do you want me to do for you?"} And the blind man said to him, "Rabbi, let me recover my sight." \textsuperscript{52}And Jesus said to him, \jesus{"Go your way; your faith has made you well."} And immediately he recovered his sight and followed him on the way.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+「約旦河的東邊」指比利亞地區，是希律安提帕的轄地——耶穌一離開加利利便進入這個對婚姻倫理格外敏感的地界，因為施洗約翰正是在此因指責希律的婚姻而被囚殺（6:17-29）。當時猶太拉比對申命記24:1「休書」的解釋分成寬嚴兩派（沙買派主張僅因嚴重過犯，希列派主張幾乎任何理由皆可休妻），法利賽人的提問正是要引誘耶穌捲入這場爭議。耶利哥是通往耶路撒冷的最後一站，位於死海北端、地勢極低，是當時猶太朝聖者上耶路撒冷過逾越節的必經之地——巴底買坐在路旁行乞，正是在這條通往聖城與十字架的道路上，成為蒙耶穌眷顧、且願意付代價跟從的最後一位個人蒙恩者。
+
+### 文學結構：全書的領受中心
+
+10:45「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價」，是全馬可福音的領受核心——這節經文濃縮了全書「僕人基督」的主題，也直接解釋了為何耶穌三次預言受難卻仍堅定前行。這一章環繞這節經文，前後呼應：財主無法「撇下」財富跟從（17-22節），門徒卻已經「撇下一切」跟從（28節）；雅各、約翰求「坐在你的榮耀裏」（37節），耶穌卻教導「為首的要作眾人的僕人」（44節）；最終，瞎眼的巴底買「丟下」衣服（可能是他行乞唯一的財產），跳起來跟從耶穌「在路上」（52節）——這條「路」，正是通往耶路撒冷、通往十字架的道路。全章環繞「撇下什麼、才能真正跟從」這個問題，一步步推進到最核心的答案：跟從那位捨命的僕人君王。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *sklērokardian* | sklērokardian | 心硬 | 5節，字面「心的堅硬」，摩西容許休書的原因 |
+| *ēgapēsen* | ēgapēsen | 就愛他 | 21節，耶穌對財主的凝視與愛，先於祂的挑戰性呼召 |
+| *rhaphidos* | rhaphidos | 針 | 25節，縫衣針的針眼，用以強調財主進神國之難的誇張修辭 |
+| *diakonos, doulos* | diakonos, doulos | 用人、僕人 | 43-44節，兩個表達服事的詞彙依序遞進，強調服事的徹底性 |
+| *lytron anti pollōn* | lytron anti pollōn | 作多人的贖價 | 45節，*lytron* 指贖回奴隸或俘虜所付的價銀，*anti* 表達替代的介詞 |
+| *Rabbouni* | Rabbouni | 拉波尼 | 51節，亞蘭文，比「拉比」更尊崇的稱呼，僅此處與約20:16（抹大拉的馬利亞對復活主的稱呼）使用 |
+
+### 「贖價」(lytron) 的分量
+
+*lytron* 是當時解放奴隸或戰俘所支付的贖金——這個詞把耶穌的捨命放進一個具體的商業與社會場景：祂的死亡是為了「買回」原本被罪與死轄制的人。介詞 *anti*（代替）進一步強化這層意義：耶穌的死不只是為了眾人的益處，更是代替眾人承擔了本該由他們承受的刑罰。「多人」（*pollōn*）呼應以賽亞書53:11-12「他要看見自己勞苦的功效，便心滿意足……又替罪犯代求」，明確地把馬可10:45與以賽亞書的受苦僕人異象連結起來。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 婚姻的神聖源於創造的設計 (Marriage's Sanctity Rooted in Creation)
+
+耶穌回到「起初創造」的次序（創1:27, 2:24），而非停留在摩西因人心剛硬而作的讓步條例——這提醒我們，理解神對婚姻的心意，必須回到創造的藍圖，而非僅僅停留在律法對墮落世界的權宜規範。
+
+### 2. 承受神國必須像小孩子一樣 (Receiving the Kingdom Requires Childlike Trust)
+
+小孩子在當時社會中毫無地位、毫無成就可誇——耶穌卻說承受神國必須像他們一樣，強調的是全然的依賴與謙卑，而非孩童天真無邪的品格本身。
+
+### 3. 誡命的遵守不能取代捨己跟從 (Keeping Commandments Cannot Substitute for Self-Denying Discipleship)
+
+財主自稱從小遵守誡命，耶穌卻指出他「缺少一件」——這顯明道德上的自我完成，無法取代真正的跟從；真正的跟從要求撇下那攔阻我們全心倚靠神的事物，無論那是財富、地位，或任何其他偶像。
+
+### 4. 人不能靠自己得救，唯獨神能 (Salvation Is Impossible for Man, Possible with God)
+
+「駱駝穿過針眼比財主進神的國還容易」——這句誇張的比喻宣告：得救從來不是靠人自己的努力或條件達成，而完全是神主權的恩典作為。
+
+### 5. 人子來是要服事人、捨命作贖價 (The Son of Man Came to Serve and Give His Life as a Ransom)
+
+10:45是全書的領受核心——耶穌清楚宣告自己使命的本質：不是接受服事，而是服事到底，甚至捨命，為要付出「贖價」，使「多人」得贖。這節經文同時定義了基督的位格（人子）與祂的工作（捨命贖罪），是理解整卷馬可福音「僕人基督」主題的鑰匙。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到休妻的問題（馬太平行經文），屈梭多模引證：「神配合的，人不可分開」；「摩西因你們心硬，才准你們休妻」——他強調摩西的容許並非反映創造的心意，而是對人心敗壞的讓步。論到財主，他引證：「善良的夫子，我當做甚麼善事才能得永生？」及「駱駝穿過針的眼，比財主進神的國還容易呢！」——屈梭多模以此凸顯財富對進入神國何等巨大的攔阻。論到第三次受難預言、雅各約翰的請求，以及贖價的宣告，他引證：「正如人子來，不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價」——他將這節經文理解為：真正的偉大透過自我犧牲而非享有特權地位彰顯出來，母親（在馬太平行經文中為兒子求座位的）的請求，反映出對屬世尊榮的錯誤渴望，而非對十架道路的真實理解。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 62 (on Matt 19:1-15), Homily 63 (on Matt 19:16-30), and Homily 65 (on Matt 20:17-28), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到休妻，加爾文寫道：「神所配合的，人不可分開」，這句話「約束了丈夫的任性妄為，使他們不可……硬生生扯斷這神聖的結」；論到摩西的容許，他解釋摩西「並非嚴厲禁止」離婚，而是對人性敗壞的一種讓步，並非神心意的核准。論到財主，他指出：「他夢想憑功德，領受永生作為當得的報償」；財主變賣所有分給窮人，「不是律法之外的附加要求，而是要察驗一項隱藏的惡——貪婪，卻披著外在順服的外衣」。論到10:45的贖價宣告，加爾文將其理解為彰顯「基督甘心樂意的自我犧牲，以及祂受苦背後救贖的目的」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到休妻，麥克阿瑟引用瑪拉基書2:16：「我恨惡休妻的事」，並指出：「神所配合的，人不可分開」；他將今日婚姻的衝突追溯到創世記3章的咒詛。論到財主，他強調：「除了神一位之外，沒有一個是良善的」——這句話定義了「良善」是「絕對的，而非相對的」；他指出律法的目的：「是要致人於死，要粉碎人，要顯明神何等完全地良善，人何等徹底地邪惡」；論到財主真正的問題：「他擁有許多的什麼？產業？他有一個偶像」；他也強調：「你無法到達福音……直到有人先接受了壞消息」。論到10:45，麥克阿瑟解釋希臘文*lytron*（贖價）：「是為釋放一個奴隸所付出的價銀」；他將神描繪為「那位必須被滿足的審判者……那位必須被安撫、被平息的行刑者」；他總結：「神恨惡驕傲，尊榮謙卑」；耶穌「不像世上所有的君王那樣，來受人服事；祂來是要服事人」。論到巴底買，他指出：「你的信救了你」使用的是*sōzō*（拯救），而非僅僅指肉身醫治的*iaomai*；他將這醫治與十字架相連：「正是十字架使這一切成為可能」。
+> — John MacArthur, *The Truth About Divorce, Part 1* (41-48), *The Blasphemy of the Rich Young Ruler* (41-51), *The Greatness of Being a Slave* (41-54), *The Final Miracle of Mercy* (41-55), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到婚姻的教導，摩根引證：「從起初創造，神造人是造男造女……所以神配合的，人不可分開」；他寫道：「我們主所啟示的婚姻理想若得以實現，離婚便是不可想像、無以名之的事」。論到孩子，他指出這是少數記載「耶穌發怒」的場合之一，這忿怒「因那些攔阻孩子親近祂之人而發，其言語充滿雷霆般的憤慨」。論到財主，摩根寫道：「他的問題出於一種高貴的衝動，源自真實的熱切渴望，以及深切的缺乏感」；「這一切我從小都遵守了」並非空洞的誇口，而是誠實坦白的陳述；然而基督的要求「是帝王般的、君尊的、絕對的、專制的」——祂「將自己置於神在這人靈魂中所當有的位置」；他總結：永生「在於靈魂與神之間關係的正確」。論到第三次受難預言與雅各、約翰的請求，摩根寫道：「耶穌決然地在前頭行走，獨自一人；然後跟隨其後、相距一段距離的，是十二使徒，滿心驚訝；再往後，是眾人，滿心懼怕」；論到門徒的請求，他提醒：「在我們批評他們之前，讓我們記得當時的氛圍」；基督的回答是：「是的，你們必要喝我所喝的杯，受我所受的洗！」論到巴底買，摩根寫道：「偉大總是在微小之處運行……在往耶路撒冷去的路上，祂仍願停下腳步，回應一個瞎眼乞丐的呼求」；「在祂國度之偉大裏有份，其條件正是在祂的杯、祂的洗、祂的犧牲裏有份」。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapters XIX-XXI
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 49:6-8, 16-17
+
+> 那些倚仗財貨自誇錢財多的人，
+> 一個也無法贖自己的弟兄，也不能替他將贖價給神，
+> 叫他長遠活著，不見朽壞——因為贖他生命的價值極貴。
+> 見人享大富、其家日益威榮，不要害怕；
+> 因為他死的時候，甚麼也不能帶去，他的榮耀不能隨他下去。
+
+### 詩篇 25:9-10
+
+> **他必按公平引領謙卑人，將他的道教訓他們。**
+> 凡遵守他的約和他法度的人，耶和華都以慈愛誠實待他。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Have Thine Own Way, Lord
+
+> Have Thine own way, Lord! Have Thine own way!
+> Thou art the potter, I am the clay.
+> Mold me and make me after Thy will,
+> **while I am waiting, yielded and still.**
+
+財主無法「交在陶匠手中」，因為他捨不得那塊被自己緊握的泥土；巴底買卻丟下唯一的外衣，任憑主的手把他重新塑造。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：休妻論、財主、第三次預言受難 (Ask Elder Wong)
+
+**精義一句話**：10:45是整卷馬可福音的心臟——「人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價」；這一章前後的每一個場景，都是這句宣告的具體演繹：撇下財富跟從、撇下地位服事、撇下衣服起來，都是同一條「路」上的腳步。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一整章若只能留一節，就是45節。財主無法撇下財富（17-22節），門徒卻已撇下一切（28節）；雅各約翰求坐在榮耀裏（37節），耶穌卻教導為首的要作僕人（44節）；瞎子巴底買丟下衣服跟從（50, 52節）——全都圍繞著「撇下什麼，才能真正跟從那位捨命的僕人」這個問題展開。
+- **財主自稱從小遵守誡命，耶穌卻說他「缺少一件」**——你有沒有也像財主一樣，在道德與宗教操練上自認及格，卻迴避了那要求你「變賣、跟從」的一件事？
+- **雅各、約翰在耶穌第三次預言受難之後，立刻求「坐在你的榮耀裏」**——這種對地位的渴望，與耶穌剛說的十字架道路，形成何等強烈的對比？你的服事動機裏，有沒有類似「求座位」的成分？
+
+**整本聖經的連結**：耶穌用「贖價」（*lytron*）描述自己的死，直接呼應以賽亞書53:10-12「他為百姓的過犯被剪除……他卻擔當多人的罪，又為罪犯代求」——受苦僕人的異象，如今由耶穌親口宣告成就。另一條線索：出埃及記21章與利未記25章記載「贖回」奴隸或土地所需支付的價銀（*pidyon*）；耶穌的捨命正是這個舊約贖回制度的終極應驗——祂親自付上贖價，把被罪奴役的人買贖回來，成為神的兒女。
+
+**讓話語住在裡面**：財主憂憂愁愁地離開，因為他「產業很多」——這提醒我們：跟從基督最深的攔阻，往往不是明顯的罪惡，而是我們捨不得放下的「好東西」。默想：我生命中有沒有一件「產業」，是我知道耶穌要我變賣、卻遲遲不肯放手的？今天的實踐：具體地為一件「捨己」的行動做出選擇，哪怕只是很小的一步。
+
+**你看見耶穌了嗎**：在論婚姻的神聖裏、在擁抱孩童的溫柔裏、在看著財主就愛他的眼神裏、在宣告自己來是要服事並捨命贖罪的話語裏、在停下腳步回應瞎眼乞丐呼求的憐憫裏，你看見的，是那位貫穿全馬可福音的僕人基督——祂的寶座是十字架，祂的加冕是捨命，而祂邀請你，撇下攔阻你的那一件事，起來，跟從祂走上這條路。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **10:17-22 你最不願放下的是什麼？那可能就是偶像**：華人文化重視積累財富、傳承家業，這段經文挑戰我們誠實省察：財富、房產、事業的傳承，有沒有在不知不覺中成了攔阻我們全心跟從的偶像？
+- **10:45 對華人教會領袖**：職分是服事，不是被服事——華人教會文化裏「長執」「牧者」的頭銜，有時無意間強化了階級與被服事的心態，這節經文根本性地翻轉了這種期待。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Have Thine Own Way, Lord*（求主成就你的旨意）
+
+> Have Thine own way, Lord! Have Thine own way!
+> Thou art the potter, I am the clay.
+> Mold me and make me after Thy will,
+> while I am waiting, yielded and still.
+>
+> — Adelaide A. Pollard (1907)
+
+**詩篇**：詩篇 25:4-5, 9-10
+
+> 耶和華啊，求你將你的道指示我，將你的路教訓我！
+> 求你以你的真理引導我，教訓我，因為你是救我的神。我終日等候你。
+> 他必按公平引領謙卑人，將他的道教訓他們。
+> 凡遵守他的約和他法度的人，耶和華都以慈愛誠實待他。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **婚姻的神聖**：耶穌回到創造的次序理解婚姻——你今天對婚姻的看法，是建立在神創造的心意，還是社會文化不斷變動的標準？
+
+2. **像小孩子一樣**：承受神國需要像小孩子一樣毫無所恃地依賴——你在信仰生活中，是否還帶著這種全然依靠、而非靠自己成就的心？
+
+3. **缺少的一件**：財主遵守了誡命，卻缺少「變賣跟從」的一件事——今天，有沒有一件具體的事，是耶穌正在對你說「你還缺少一件」？
+
+4. **10:45的呼召**：「人子來，並不是要受人的服事，乃是要服事人」——這節經文如何具體地挑戰你今天在家庭、職場、教會中對「服事」與「被服事」的態度？
+
+5. **巴底買的榜樣**：瞎子丟下衣服、起來、跟從耶穌「在路上」——你今天願意「丟下」什麼，好跟從耶穌走上祂所走的道路？
+
+### 禱告回應
+
+> 主啊，感謝你來，不是要受服事，而是要服事我們，並且捨命作我們的贖價。
+> 求你光照我生命中不肯撇下的「產業」，賜我像巴底買一樣，願意丟下一切跟從你的心志。
+> 求你破除我心中對地位、尊榮的渴望，讓我甘心成為眾人的用人。
+> 求你使我像小孩子一樣，全心依靠你，而非依靠自己的努力與成就。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 婚姻的創造次序 | 10:6-9 | 創1:27、2:24、太19:4-6 |
+| 像小孩子承受神國 | 10:14-15 | 太18:3-4、路18:16-17 |
+| 變賣所有跟從主 | 10:21 | 太6:19-21、路12:33、腓3:7-8 |
+| 駱駝穿針眼 | 10:25 | 太19:24、路18:25 |
+| 撇下一切的百倍賞賜 | 10:29-30 | 太19:29、路18:29-30 |
+| 贖價（*lytron*） | 10:45 | 賽53:10-12、提前2:6、多2:14 |
+| 為首的作僕人 | 10:43-44 | 太20:26-27、太23:11、腓2:5-8 |
+| 巴底買的信心 | 10:52 | 太20:29-34、路18:35-43、可8:22-26（另一位瞎子） |
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第十一章：榮進耶路撒冷、潔淨聖殿 (Triumphal Entry, Cleansing the Temple)
+
+馬可福音 11:1-33
+
+**經文核對**：[ai-eden.com/bible/mark/11](https://www.ai-eden.com/bible/mark/11?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+僕人基督終於進了耶路撒冷——不是騎著戰馬、率領軍隊，而是騎著一匹從未有人騎過的驢駒，眾人鋪衣服、鋪樹枝，喊著「和散那」。這是一次刻意安排的加冕，卻是僕人式的加冕。次日，祂咒詛了一棵只有葉子沒有果子的無花果樹，隨即進入聖殿，趕出做買賣的人，宣告「我的殿必稱為萬國禱告的殿，你們倒使它成為賊窩了」。這一章把「榮耀的入城」與「憤怒的潔淨」並排陳列——馬可要讀者看見：那被群眾歡呼為王的，正是那位有權柄審判祂父家、審判一切徒有其表卻無生命果子之宗教的主。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **All Glory, Laud, and Honor**
+> *Theodulph of Orleans, c. 820*
+>
+> All glory, laud, and honor to Thee, Redeemer, King,
+> to whom the lips of children made sweet hosannas ring.
+> Thou art the King of Israel, Thou David's royal Son,
+> who in the Lord's name comest, the King and Blessed One.
+>
+> 一切榮耀、頌讚、尊貴，都歸與你，救贖之王；
+> 孩童的嘴唇向你，發出甜美的和散那頌讚。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**榮進耶路撒冷**
+
+> \textsuperscript{1}耶穌和門徒快到耶路撒冷，到了伯法其和伯大尼，在橄欖山那裏，耶穌就打發兩個門徒，\textsuperscript{2}對他們說：\jesus{「你們往對面村子裏去，一進去的時候，會看見一匹驢駒拴在那裏，是從來沒有人騎過的，把牠解開，牽來。\textsuperscript{3}若有人對你們說：『為甚麼做這事？』你們就說：『主要用牠，用完了會立刻牽回來給你們。』」}\textsuperscript{4}他們去了，便看見一匹驢駒拴在門外街道上，就把牠解開。\textsuperscript{5}在那裏站著的人，有幾個對他們說：「你們解驢駒做甚麼？」\textsuperscript{6}門徒照著耶穌所說的回答，那些人就任憑他們牽走了。\textsuperscript{7}他們把驢駒牽到耶穌那裏，把自己的衣服搭在上面，耶穌就騎上。\textsuperscript{8}許多人把衣服鋪在路上，也有人把田間的樹枝砍下來鋪在路上。\textsuperscript{9}前行後隨的人都喊著說：「和散那！奉主名來的是應當稱頌的！\textsuperscript{10}那將要來的我祖先大衛之國是應當稱頌的！至高無上的，和散那！」\textsuperscript{11}耶穌進了耶路撒冷，入了聖殿，周圍看了各樣物件；天色已晚，就和十二使徒出城，往伯大尼去了。
+
+**咒詛無花果樹、潔淨聖殿**
+
+> \textsuperscript{12}第二天，他們從伯大尼出來，耶穌餓了。\textsuperscript{13}他遠遠地看見一棵無花果樹，樹上有葉子，就走過去，看是否可以在樹上找到甚麼。到了樹下，竟找不到甚麼，只有葉子，因為不是收無花果的時候。\textsuperscript{14}耶穌就對樹說：\jesus{「從今以後，永沒有人吃你的果子！」}他的門徒都聽見了。
+
+> \textsuperscript{15}他們來到耶路撒冷。耶穌進入聖殿，開始把在聖殿裏做買賣的人趕出去，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，\textsuperscript{16}也不許人拿著器具從聖殿經過。\textsuperscript{17}他教導他們說：\jesus{「經上不是記著：『我的殿必稱為萬國禱告的殿』嗎？你們倒使它成為賊窩了。」}\textsuperscript{18}祭司長和文士聽見這事，就想法子要除滅耶穌，卻又怕他，因為眾人都詫異他的教導。\textsuperscript{19}每天晚上，耶穌出城去。
+
+**無花果樹枯乾、論信心與饒恕**
+
+> \textsuperscript{20}早晨，他們經過的時候，看見無花果樹連根都枯乾了。\textsuperscript{21}彼得想起耶穌的話來，就對他說：「拉比，請看！你所詛咒的無花果樹已經枯乾了。」\textsuperscript{22}耶穌回應他們：\jesus{「要對神有信心。\textsuperscript{23}我實在告訴你們，無論誰對這座山說：『挪開，投在海裏！』他若心裏不疑惑，只信他所說的必成，就必為他實現。\textsuperscript{24}所以我告訴你們，凡你們禱告祈求的，無論是甚麼，只要信是得著的，就必得著。\textsuperscript{25}你們站著禱告的時候，若想起有人得罪你們，就要饒恕他，好讓你們在天上的父也饒恕你們的過犯。」}
+
+**論耶穌的權柄**
+
+> \textsuperscript{27}他們又來到耶路撒冷。耶穌在聖殿裏行走的時候，祭司長、文士和長老來到他跟前，\textsuperscript{28}問他：「你憑甚麼權柄做這些事？給你權柄做這些事的是誰呢？」\textsuperscript{29}耶穌對他們說：\jesus{「我要問你們一句話，你們回答我，我就告訴你們我憑甚麼權柄做這些事。\textsuperscript{30}約翰的洗禮是從天上來的，還是從人間來的呢？你們回答我！」}\textsuperscript{31}他們彼此商議說：「我們若說『從天上來』，他會說：『那麼，你們為甚麼不信他呢？』\textsuperscript{32}但我們說『從人間來』」——他們懼怕百姓，因為眾人都認為約翰真是一位先知——\textsuperscript{33}於是他們回答耶穌說：「我們不知道。」耶穌對他們說：\jesus{「我也不告訴你們我憑甚麼權柄做這些事。」}
+
+*（第26節缺，和合本修訂版依照最古老抄本，未收錄後期抄本補入之「你們若不饒恕人，你們在天上的父也不饒恕你們的過犯」一句。）*
+
+### English — ESV
+
+> \textsuperscript{1}Now when they drew near to Jerusalem, to Bethphage and Bethany, at the Mount of Olives, Jesus sent two of his disciples \textsuperscript{2}and said to them, \jesus{"Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it. \textsuperscript{3}If anyone says to you, 'Why are you doing this?' say, 'The Lord has need of it and will send it back here immediately.'"} \textsuperscript{4}And they went away and found a colt tied at a door outside in the street, and they untied it. \textsuperscript{5}And some of those standing there said to them, "What are you doing, untying the colt?" \textsuperscript{6}And they told them what Jesus had said, and they let them go. \textsuperscript{7}And they brought the colt to Jesus and threw their cloaks on it, and he sat on it. \textsuperscript{8}And many spread their cloaks on the road, and others spread leafy branches that they had cut from the fields. \textsuperscript{9}And those who went before and those who followed were shouting, "Hosanna! Blessed is he who comes in the name of the Lord! \textsuperscript{10}Blessed is the coming kingdom of our father David! Hosanna in the highest!" \textsuperscript{11}And he entered Jerusalem and went into the temple. And when he had looked around at everything, as it was already late, he went out to Bethany with the twelve.
+
+> \textsuperscript{12}On the following day, when they came from Bethany, he was hungry. \textsuperscript{13}And seeing in the distance a fig tree in leaf, he went to see if he could find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs. \textsuperscript{14}And he said to it, \jesus{"May no one ever eat fruit from you again."} And his disciples heard it.
+
+> \textsuperscript{15}And they came to Jerusalem. And he entered the temple and began to drive out those who sold and those who bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. \textsuperscript{16}And he would not allow anyone to carry anything through the temple. \textsuperscript{17}And he was teaching them and saying to them, \jesus{"Is it not written, 'My house shall be called a house of prayer for all the nations'? But you have made it a den of robbers."} \textsuperscript{18}And the chief priests and the scribes heard it and were seeking a way to destroy him, for they feared him, because all the crowd was astonished at his teaching. \textsuperscript{19}And when evening came they went out of the city.
+
+> \textsuperscript{20}As they passed by in the morning, they saw the fig tree withered away to its roots. \textsuperscript{21}And Peter remembered and said to him, "Rabbi, look! The fig tree that you cursed has withered." \textsuperscript{22}And Jesus answered them, \jesus{"Have faith in God. \textsuperscript{23}Truly, I say to you, whoever says to this mountain, 'Be taken up and thrown into the sea,' and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him. \textsuperscript{24}Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours. \textsuperscript{25}And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses."}
+
+> \textsuperscript{27}And they came again to Jerusalem. And as he was walking in the temple, the chief priests and the scribes and the elders came to him, \textsuperscript{28}and they said to him, "By what authority are you doing these things, or who gave you this authority to do them?" \textsuperscript{29}Jesus said to them, \jesus{"I will ask you one question; answer me, and I will tell you by what authority I do these things. \textsuperscript{30}Was the baptism of John from heaven or from man? Answer me."} \textsuperscript{31}And they discussed it with one another, saying, "If we say, 'From heaven,' he will say, 'Why then did you not believe him?' \textsuperscript{32}But shall we say, 'From man'?"—they were afraid of the people, for they all held that John really was a prophet. \textsuperscript{33}So they answered Jesus, "We do not know." And Jesus said to them, \jesus{"Neither will I tell you by what authority I do these things."}
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+騎驢進城直接應驗撒迦利亞書9:9「看哪，你的王來到你這裏……謙謙和和地騎著驢」——在古代近東，君王若騎馬象徵出征作戰，騎驢則象徵和平的來臨。「和散那」原意為「求你拯救」（詩118:25），此刻卻被當作歡呼用語，群眾期待的是一位政治性的彌賽亞，能推翻羅馬統治、恢復大衛的國度。聖殿的「外邦人院」當時充斥著兌換銀錢（將羅馬錢幣換成聖殿專用貨幣）與販賣祭牲的商業活動，這些交易理當服務朝聖者的敬拜需要，卻因祭司集團的貪婪而變質，也侵佔了外邦人唯一可以禱告親近神的空間。
+
+### 文學結構：三明治敘事再現——無花果樹包夾聖殿潔淨
+
+馬可再次使用他招牌的「三明治結構」：咒詛無花果樹（12-14節）→ 潔淨聖殿（15-19節）→ 無花果樹枯乾、信心與饒恕的教導（20-25節）。無花果樹「有葉子卻沒有果子」的光景，正是聖殿當下光景的具體寫照——外表繁盛（宏偉的建築、熱鬧的祭祀活動），內裏卻結不出神所期待的「禱告」與「公義」的果子。耶穌對這棵樹的咒詛，實質上是對聖殿體系的審判性宣告——這在下一章（12:1-12，兇惡園戶的比喻）與13章（聖殿被毀的預言）中將進一步展開。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *hōsanna* | hōsanna | 和散那 | 9-10節，音譯自希伯來文「求你拯救」（詩118:25），此處已轉為歡呼語 |
+| *pōlon* | pōlon | 驢駒 | 2, 7節，應驗亞9:9「騎著驢，就是騎著驢的駒子」 |
+| *oikos proseuchēs* | oikos proseuchēs | 禱告的殿 | 17節，引自賽56:7，強調聖殿本應是「萬國」都能親近神之處 |
+| *spēlaion lēstōn* | spēlaion lēstōn | 賊窩 | 17節，引自耶7:11，指宗教場所淪為掩護不義行為的巢穴 |
+| *exēranthē* | exēranthē | 枯乾了 | 20節，無花果樹連根枯乾，象徵徹底的審判 |
+| *exousia* | exousia | 權柄 | 28-33節出現5次，是這場對質的核心詞彙 |
+
+### 兩處先知書引文的並置
+
+耶穌在17節將以賽亞書56:7（「我的殿必稱為萬民禱告的殿」）與耶利米書7:11（「這稱為我名下的殿在你們眼中豈可看為賊窩嗎」）並置引用——以賽亞書強調聖殿原本的普世性使命（萬國都可親近神），耶利米書則是先知對聖殿淪為虛假安全感、掩護不義之所的嚴厲控訴。耶穌把這兩處經文放在一起，宣告：聖殿不僅辜負了它原本的呼召，更墮落成耶利米所警告的那種光景。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 謙卑的君王，應驗先知的預言 (A Humble King Fulfilling Prophecy)
+
+耶穌騎驢進城，刻意應驗撒迦利亞書的預言，宣告自己是那位「謙和」的王——祂的國度不是靠武力建立，卻真實地要求人俯伏敬拜。
+
+### 2. 無花果樹是聖殿命運的預表 (The Fig Tree Prefigures the Temple's Fate)
+
+樹上有葉無果，正如聖殿有儀式卻無公義與信心的果子——耶穌的咒詛不是任性之舉，而是先知性的審判記號，預告聖殿即將面臨的毀滅（參13:2）。
+
+### 3. 聖殿本為萬國禱告的殿，卻被據為己用 (The Temple, Meant for All Nations, Was Co-opted)
+
+耶穌潔淨聖殿的核心關切，不僅是商業行為的不當，更是外邦人敬拜空間被侵佔——這預告了福音將要臨到萬民、打破猶太人與外邦人界線的普世異象。
+
+### 4. 信心與饒恕是禱告蒙應允的根基 (Faith and Forgiveness Undergird Effective Prayer)
+
+耶穌從無花果樹的枯乾，教導門徒「對神有信心」，並且將赦免他人列為禱告蒙應允不可或缺的條件——信心與饒恕，是同一顆與神相交之心的兩面。
+
+### 5. 拒絕誠實回答的心，終將自食其果 (A Heart That Refuses Honest Answers Reaps Its Own Confusion)
+
+祭司長、文士、長老明知約翰是真先知，卻因懼怕百姓而假裝「不知道」——他們的政治算計，使他們錯失了耶穌願意向誠實提問者顯明的答案。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到潔淨聖殿（馬太平行經文），屈梭多模指出，耶穌兩次潔淨聖殿（一次在事工之初，一次在事工將盡之時），顯明祂對聖殿聖潔的持續關切，而非一時的義憤；他強調基督引用先知的話「我的殿必稱為禱告的殿」，是要提醒眾人聖殿原初的呼召，而非僅僅責備商業行為本身。論到無花果樹的咒詛，他寫道，這神蹟「是為了門徒的緣故」而行，為要使他們在即將面對的十字架考驗中，能因這神蹟而堅固信心。論到權柄的詰問，他指出宗教領袖「因懼怕百姓」而不敢誠實回答，顯明他們追求的是自保，而非追求真理。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 67 (on Matt 21), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到榮進耶路撒冷，加爾文指出，耶穌選擇騎驢進城，是要向眾人顯明「祂國度的性質」——謙卑而非世俗的威嚴。論到無花果樹的咒詛，他寫道，基督「完全預知這事的結果」，這咒詛乃是「向假冒為善之人所預示的外在記號，警告他們終將面臨的結局」。論到潔淨聖殿，他指出，這行動同時彰顯基督「既是君王，也是大祭司」的雙重身分——祂有權柄潔淨祂父的殿。論到權柄的詰問，加爾文寫道，宗教領袖「懷著惡意與奸詐」發問，基督卻「使他們羞愧、無言以對」地退去。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到榮進耶路撒冷，麥克阿瑟稱這是「真君王的假加冕」——「這是一次早熟的加冕」，與祂未來真實再來時「騎著白馬」的景象形成對比。論到無花果樹與潔淨聖殿，他指出：「整個聖殿的運作，不過是些葉子而已」；「真正的敬拜，不可能在聖殿裏找到，只能在十字架前找到」。論到權柄的詰問，他強調：「耶穌從不曾向任何人請求許可去做任何事，從來沒有」；宗教領袖「從未真心尋求真理，只尋求自我保護」。
+> — John MacArthur, *The False Coronation of the True King* (41-56), *Nothing but Leaves* (41-57), *The Confrontation Over Authority* (41-59), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到榮進耶路撒冷，摩根寫道：「祂以極大的謙卑之尊嚴騎行，脫去了人類向來與君王身分聯繫在一起的一切事物」。論到耶穌在聖殿裏「周圍看了各樣物件」，他形容這是「察驗與審視的目光」。論到無花果樹，他指出：「這樹早熟地長出葉子，這早熟的葉子證明了它不可能結出果子」——這棵樹「既是中心，也是象徵」。論到聖殿，摩根寫道，它已成為「賊窩……是披著宗教外衣的邪惡尋求庇護之處」，根本問題在於「信心的死亡」；他總結：「對神的信心，是結出豐盛生命之果子的祕訣」。論到權柄的詰問，摩根指出，宗教領袖「承認祂所做的事，卻質疑祂做這些事的權利」；基督的方法是雙重的——先揭露他們對施洗約翰之洗禮的不誠實，再藉園戶的比喻回答，顯明「祂的權柄，正在於祂是神的兒子」。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapters XXII-XXIII
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 118:25-26
+
+> **耶和華啊，求你拯救！耶和華啊，求你使我們亨通！**
+> 奉耶和華名來的是應當稱頌的！我們從耶和華的殿中為你們祝福！
+
+### 詩篇 80:8-9, 15-16
+
+> 你從埃及挪出一棵葡萄樹，趕出外邦人，把這樹栽上。
+> 你為這樹清了地，它就深深扎根，長滿了地。
+> 這樹又被火燒，又被刀砍，他們因你臉上的怒容就滅亡了。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Hosanna, Loud Hosanna
+
+> Hosanna, loud hosanna, the little children sang;
+> through pillared court and temple the lovely anthem rang.
+> To Jesus, who had blessed them, close folded to His breast,
+> **the children sang their praises, the simplest and the best.**
+
+孩童純真的和散那，與祭司長算計的沉默恰成對比——那配得敬拜的君王，垂聽的往往是最單純的讚美。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：榮進耶路撒冷、潔淨聖殿 (Ask Elder Wong)
+
+**精義一句話**：騎驢進城的謙卑君王，隔天卻在聖殿裏發出審判性的憤怒——祂配得「和散那」的歡呼，也有權柄審判一切徒有其表、卻結不出信心與公義之果子的宗教。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：17節「我的殿必稱為萬國禱告的殿，你們倒使它成為賊窩了」是這一章的核心宣告。無花果樹的咒詛（12-14, 20-21節）包夾著這句宣告，形成一幅完整的圖畫：有葉無果的樹，正是有儀式無生命之宗教的寫照。
+- **群眾歡呼「和散那」，期待的是政治性的拯救者**——他們幾天後卻喊著「釘他十字架」。你對耶穌的期待，是否也曾建立在祂能為你做什麼、而非祂真正是誰？
+- **祭司長、文士、長老明知約翰是真先知，卻假裝「不知道」**——你有沒有為了自保，故意迴避一個你其實心裏早已知道答案的問題？
+
+**整本聖經的連結**：撒迦利亞書9:9「你的王來到你這裏……謙謙和和地騎著驢」——這預言直接在耶穌騎驢進城的畫面中應驗；以賽亞書56:7「我的殿必稱為萬民禱告的殿」與耶利米書7:11「這殿豈可看為賊窩」被耶穌並置引用，宣告聖殿不僅辜負了普世敬拜的使命，更墮落成先知所警告的光景。另一條線索：無花果樹的審判呼應何西阿書9:10「我看見以色列如葡萄樹上春季初結的果子」——神起初對祂百姓的期待是豐盛的果子，如今卻只見葉子，這條「尋找果子卻遍尋不著」的失望，貫穿先知書直到耶穌本人。
+
+**讓話語住在裡面**：無花果樹「有葉子卻沒有果子」的光景，是每個信徒都需要誠實省察的鏡子——外在的宗教活動與內在生命的果子，是否一致？默想：我生命中，有沒有「有葉無果」的部分——看起來很屬靈，卻結不出真實信心與饒恕的果子？今天的實踐：具體饒恕一個你心裏仍然懷怨的人，讓禱告與饒恕成為同一顆心的兩面。
+
+**你看見耶穌了嗎**：在謙卑騎驢的君王裏、在對無花果樹的審判裏、在潔淨聖殿的義怒裏、在拒絕回答假意提問者的沉默裏，你看見的，是那位配得敬拜、也有權柄審判一切虛假宗教的基督——祂邀請你的敬拜，是帶著真實生命果子的敬拜，而非徒具形式的「有葉無果」。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+*（本章對應 ai-eden.com 第5段落 10:1-13:37 的沈保羅牧師洞見，已在第十章列出10:17-22、10:45兩點；本章「有葉無果」的無花果樹與潔淨聖殿，可與該段落第三點「12:41-44寡婦的兩個小錢」合併默想：外在儀式的豐盛，從來不能取代內心真實的委身與奉獻。）*
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*All Glory, Laud, and Honor*（榮耀、頌讚、尊貴）
+
+> All glory, laud, and honor to Thee, Redeemer, King,
+> to whom the lips of children made sweet hosannas ring.
+> Thou art the King of Israel, Thou David's royal Son,
+> who in the Lord's name comest, the King and Blessed One.
+>
+> — Theodulph of Orleans (c. 820), trans. John Mason Neale
+
+**詩篇**：詩篇 118:22-26
+
+> 匠人所丟棄的石頭已成了房角的頭塊石頭。
+> 這是耶和華所做的，在我們眼中看為奇妙。
+> 這是耶和華所定的日子，我們在其中要高興歡喜！
+> 耶和華啊，求你拯救！耶和華啊，求你使我們亨通！
+> 奉耶和華名來的是應當稱頌的！我們從耶和華的殿中為你們祝福！
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **謙卑的王**：耶穌選擇騎驢而非戰馬進城——你對「得勝」「掌權」的理解，是否也需要被耶穌謙卑的樣式重新校正？
+
+2. **有葉無果的省察**：無花果樹外表繁茂卻無果子——你今天的信仰生活，外在的宗教活動與內心真實的生命，是否一致？
+
+3. **禱告與饒恕**：耶穌將饒恕列為蒙應允禱告的條件——你心裏有沒有一個懷怨的對象，是你需要今天就饒恕的？
+
+4. **誠實面對問題**：宗教領袖因懼怕百姓而假裝不知道答案——你在信仰或生活的抉擇上，有沒有因為害怕代價，而迴避自己心裏已經知道的答案？
+
+### 禱告回應
+
+> 主啊，我今天要像當日的群眾一樣，向你獻上「和散那」的敬拜，但求你使這敬拜不只是口號，而是真實委身的生命。
+> 求你光照我生命中「有葉無果」的部分，使我結出信心、公義、憐憫的果子。
+> 求你賜我饒恕的心，使我的禱告不被積怨攔阻。
+> 求你賜我誠實面對真理的勇氣，不因懼怕代價而迴避你向我顯明的答案。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 騎驢進城應驗預言 | 11:1-10 | 亞9:9、太21:4-5、約12:14-15 |
+| 和散那 | 11:9-10 | 詩118:25-26 |
+| 無花果樹的審判 | 11:12-14, 20-21 | 何9:10、太21:19-20、路13:6-9 |
+| 潔淨聖殿 | 11:15-17 | 賽56:7、耶7:11、約2:14-16 |
+| 信心與挪山 | 11:22-23 | 太17:20、路17:6、林前13:2 |
+| 禱告與饒恕 | 11:25 | 太6:14-15、太18:21-35 |
+| 論耶穌的權柄 | 11:27-33 | 太21:23-27、路20:1-8 |
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第十二章：兇惡園戶、辯論問答 (The Wicked Tenants, Debates in the Temple)
+
+馬可福音 12:1-44
+
+**經文核對**：[ai-eden.com/bible/mark/12](https://www.ai-eden.com/bible/mark/12?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+耶穌用一個園戶的比喻，把祂與宗教領袖之間的整個衝突濃縮成一則故事——園主一次又一次差遣僕人收取果子，卻一次又一次被拒絕、被毆打、被殺害，最後園主差遣了自己「愛子」，園戶卻說「來，我們殺了他，產業就歸我們了」。這則比喻幾乎是一則預言性的自白：宗教領袖聽懂了，「知道這比喻是指著他們說的」。緊接著，法利賽人、希律黨人、撒都該人輪番上陣，企圖用稅務、復活、誡命的問題陷害耶穌，卻一次又一次被祂的智慧折服，「從此以後，沒有人敢再問他甚麼」。這一章的高潮，卻落在一個毫不起眼的窮寡婦身上——她投入銀庫的兩個小錢，被耶穌稱許為「比眾人所投的更多」。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **The Church's One Foundation**
+> *Samuel John Stone, 1866*
+>
+> The Church's one foundation is Jesus Christ her Lord;
+> she is His new creation, by water and the Word.
+> From heaven He came and sought her to be His holy bride;
+> with His own blood He bought her, and for her life He died.
+>
+> 教會惟一的根基，就是耶穌基督我主；
+> 她是祂用水和道所造的新造之人；
+> 祂從天降臨、尋找她作祂聖潔的新婦；
+> 用自己的寶血買贖她，又為她的生命捨命。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**兇惡園戶的比喻**
+
+> \textsuperscript{1}耶穌就用比喻對他們說：\jesus{「有人開墾了一個葡萄園，四周圍上籬笆，挖了一個醡酒池，蓋了一座守望樓，租給園戶，就出外遠行去了。\textsuperscript{2}到了時候，他打發一個僕人到園戶那裏，要向他們收葡萄園的果子。\textsuperscript{3}他們拿住他，打了他，叫他空手回去。\textsuperscript{4}園主再打發一個僕人到他們那裏。他們打傷他的頭，並且侮辱他。\textsuperscript{5}園主又打發一個僕人去，他們就殺了他。以後又打發好些僕人去，有的被他們打了，有的被他們殺了。\textsuperscript{6}園主還有一位，是他的愛子，最後又打發他去，說：『他們會尊敬我的兒子。』\textsuperscript{7}那些園戶卻彼此說：『這是承受產業的。來，我們殺了他，產業就歸我們了！』\textsuperscript{8}於是他們拿住他，殺了他，把他扔出葡萄園。\textsuperscript{9}這樣，葡萄園主要怎麼做呢？他要來除滅那些園戶，將葡萄園轉給別人。\textsuperscript{10}『匠人所丟棄的石頭已作了房角的頭塊石頭。\textsuperscript{11}這是主所做的，在我們眼中看為奇妙。』這段經你們沒有念過嗎？」}\textsuperscript{12}他們看出這比喻是指著他們說的，就想要捉拿他，但是懼怕眾人，於是離開他走了。
+
+**論納稅給凱撒**
+
+> \textsuperscript{13}後來，他們打發幾個法利賽人和希律黨人到耶穌那裏，要用他自己的話陷害他。\textsuperscript{14}他們來了，就對他說：「老師，我們知道你是誠實的，無論誰你都一視同仁；因為你不看人的面子，而是誠誠實實傳神的道。納稅給凱撒合不合法？我們該不該納？」\textsuperscript{15}耶穌知道他們的虛偽，就對他們說：\jesus{「你們為甚麼試探我？拿一個銀幣來給我看。」}\textsuperscript{16}他們就拿了來。耶穌問他們：\jesus{「這像和這名號是誰的？」}他們對他說：「是凱撒的。」\textsuperscript{17}耶穌對他們說：\jesus{「凱撒的歸凱撒；神的歸神。」}他們對他非常驚訝。
+
+**論復活的問題**
+
+> \textsuperscript{18}撒都該人來見耶穌。他們說沒有復活這回事，於是問耶穌：\textsuperscript{19}「老師，摩西為我們寫下這話：『某人的哥哥若死了，撇下妻子，沒有孩子，他該娶哥哥的妻子，為哥哥生子立後。』\textsuperscript{20}那麼，有兄弟七人，第一個娶了妻，死了，沒有留下孩子。\textsuperscript{21}第二個娶了她，也死了，沒有留下孩子。第三個也是這樣。\textsuperscript{22}那七個人都沒有留下孩子。最後，那婦人也死了。\textsuperscript{23}在復活的時候，她是哪一個的妻子呢？因為他們七個人都娶過她。」\textsuperscript{24}耶穌說：\jesus{「你們錯了，不正是因為不明白聖經，也不知道神的大能嗎？\textsuperscript{25}當人從死人中復活後，也不娶也不嫁，而是像天上的天使一樣。\textsuperscript{26}論到死人復活，你們沒有念過摩西書中《荊棘篇》上所記載的嗎？神對摩西說：『我是亞伯拉罕的神，以撒的神，雅各的神。』\textsuperscript{27}神不是死人的神，而是活人的神。你們是大錯了。」}
+
+**論最大的誡命、大衛之主**
+
+> \textsuperscript{28}有一個文士來，聽見他們的辯論，知道耶穌回答得好，就問他說：「誡命中哪一條是第一呢？」\textsuperscript{29}耶穌回答：\jesus{「第一是：『以色列啊，你要聽，主—我們的神是獨一的主。\textsuperscript{30}你要盡心、盡性、盡意、盡力愛主—你的神。』\textsuperscript{31}第二是：『要愛鄰如己。』再沒有比這兩條誡命更大的了。」}\textsuperscript{32}那文士對耶穌說：「好，老師，你說得對，神是一位，除了他以外，再沒有別的了；\textsuperscript{33}並且盡心、盡智、盡力愛他，又愛鄰如己，要比一切燔祭和祭祀好得多。」\textsuperscript{34}耶穌見他回答得有智慧，就對他說：\jesus{「你離神的國不遠了。」}從此以後，沒有人敢再問他甚麼。
+
+> \textsuperscript{35}耶穌在聖殿裏教導人，問他們說：\jesus{「文士怎麼說基督是大衛的後裔呢？\textsuperscript{36}大衛被聖靈感動，說：『主對我主說：你坐在我的右邊，等我把你的仇敵放在你腳下。』\textsuperscript{37}大衛親自稱他為主，他怎麼又是大衛的後裔呢？」}一大群的人都喜歡聽他。
+
+**防備文士、寡婦的奉獻**
+
+> \textsuperscript{38}\jesus{「你們要防備文士。他們好穿長袍走來走去，喜歡人們在街市上向他們問安，\textsuperscript{39}又喜愛會堂裏的高位，宴席上的首座。\textsuperscript{40}他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的懲罰！」}
+
+> \textsuperscript{41}耶穌面向聖殿銀庫坐著，看眾人怎樣把錢投入銀庫。有好些財主投了許多錢。\textsuperscript{42}有一個窮寡婦來，投了兩個小文錢，就是一個大文錢。\textsuperscript{43}耶穌叫門徒來，對他們說：\jesus{「我實在告訴你們，這窮寡婦投入銀庫裏的比眾人所投的更多。\textsuperscript{44}因為，眾人都是拿有餘的捐獻，但這寡婦，雖然自己不足，卻把她一生所有的全都投進去了。」}
+
+### English — ESV
+
+> \textsuperscript{1}\jesus{A man planted a vineyard and put a fence around it and dug a pit for the winepress and built a tower, and leased it to tenants and went into another country. \textsuperscript{2}When the season came, he sent a servant to the tenants to get from them some of the fruit of the vineyard. \textsuperscript{3}And they took him and beat him and sent him away empty-handed. \textsuperscript{4}Again he sent to them another servant, and they struck him on the head and treated him shamefully. \textsuperscript{5}And he sent another, and him they killed. And so with many others: some they beat, and some they killed. \textsuperscript{6}He had still one other, a beloved son. Finally he sent him to them, saying, "They will respect my son." \textsuperscript{7}But those tenants said to one another, "This is the heir. Come, let us kill him, and the inheritance will be ours." \textsuperscript{8}And they took him and killed him and threw him out of the vineyard. \textsuperscript{9}What will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others. \textsuperscript{10}Have you not read this Scripture: "'The stone that the builders rejected has become the cornerstone; \textsuperscript{11}this was the Lord's doing, and it is marvelous in our eyes'"?}\textsuperscript{12}And they were seeking to arrest him but feared the people, for they perceived that he had told the parable against them. So they left him and went away.
+
+> \textsuperscript{13}And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk. \textsuperscript{14}And they came and said to him, "Teacher, we know that you are true and do not care about anyone's opinion. For you are not swayed by appearances, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?" \textsuperscript{15}But, knowing their hypocrisy, he said to them, \jesus{"Why put me to the test? Bring me a denarius and let me look at it."} \textsuperscript{16}And they brought one. And he said to them, \jesus{"Whose likeness and inscription is this?"} They said to him, "Caesar's." \textsuperscript{17}Jesus said to them, \jesus{"Render to Caesar the things that are Caesar's, and to God the things that are God's."} And they marveled at him.
+
+> \textsuperscript{18}And Sadducees came to him, who say that there is no resurrection. And they asked him a question, saying, \textsuperscript{19}"Teacher, Moses wrote for us that if a man's brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother. \textsuperscript{20}There were seven brothers; the first took a wife, and when he died left no offspring. \textsuperscript{21}And the second took her, and died, leaving no offspring. And the third likewise. \textsuperscript{22}And the seven left no offspring. Last of all the woman also died. \textsuperscript{23}In the resurrection, when they rise again, whose wife will she be? For the seven had her as wife." \textsuperscript{24}Jesus said to them, \jesus{"Is this not the reason you are wrong, because you know neither the Scriptures nor the power of God? \textsuperscript{25}For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven. \textsuperscript{26}And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? \textsuperscript{27}He is not God of the dead, but of the living. You are quite wrong."}
+
+> \textsuperscript{28}And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, "Which commandment is the most important of all?" \textsuperscript{29}Jesus answered, \jesus{"The most important is, 'Hear, O Israel: The Lord our God, the Lord is one. \textsuperscript{30}And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.' \textsuperscript{31}The second is this: 'You shall love your neighbor as yourself.' There is no other commandment greater than these."} \textsuperscript{32}And the scribe said to him, "You are right, Teacher. You have truly said that he is one, and there is no other besides him. \textsuperscript{33}And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices." \textsuperscript{34}And when Jesus saw that he answered wisely, he said to him, \jesus{"You are not far from the kingdom of God."} And after that no one dared to ask him any more questions.
+
+> \textsuperscript{35}And as Jesus taught in the temple, he said, \jesus{"How can the scribes say that the Christ is the son of David? \textsuperscript{36}David himself, in the Holy Spirit, declared, 'The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet.' \textsuperscript{37}David himself calls him Lord. So how is he his son?"} And the great throng heard him gladly.
+
+> \textsuperscript{38}And in his teaching he said, \jesus{"Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces \textsuperscript{39}and have the best seats in the synagogues and the places of honor at feasts, \textsuperscript{40}who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation."}
+
+> \textsuperscript{41}And he sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums. \textsuperscript{42}And a poor widow came and put in two small copper coins, which make a penny. \textsuperscript{43}And he called his disciples to him and said to them, \jesus{"Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box. \textsuperscript{44}For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on."}
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+葡萄園的意象在舊約中反覆象徵以色列（賽5:1-7，詩80:8-16）——耶穌的比喻正是直接取材自以賽亞書5章的「葡萄園之歌」，聽眾一聽便知這是在講以色列與神的關係。羅馬銀幣（*dēnarion*）上鑄有凱撒的頭像與「神聖奧古斯都之子提庇留該撒」的字樣，對猶太人而言，使用這錢幣本身已隱含對凱撒神格的默認，法利賽人企圖用這個政治敏感的問題陷害耶穌——若說「不當納稅」便是煽動叛亂，若說「應當納稅」便可能被視為向羅馬妥協。撒都該人不信復活、也不信天使或靈魂（徒23:8），他們提出的「一妻嫁七兄弟」情境，是引申自申命記25:5-6的利未拉婚制度，意圖用一個荒謬的極端案例，證明復活的教義站不住腳。
+
+### 文學結構：三場詰問，三次得勝
+
+12:13-34由三場輪番上陣的詰問組成：法利賽人與希律黨人（稅務問題）、撒都該人（復活問題）、文士（誡命問題）——這三個群體平時彼此對立，此刻卻輪流出擊，形成對耶穌的車輪戰。耶穌每一次都以超凡的智慧化解陷阱，直到「沒有人敢再問他甚麼」（34節）。隨後耶穌反守為攻，質問「大衛之子」與「大衛之主」的難題（35-37節），並公開譴責文士的假冒為善（38-40節）——最終，全章以窮寡婦的奉獻作結，與開篇的葡萄園比喻遙相呼應：園戶「拿有餘的」尚且悖逆神，寡婦卻「把一生所有的全都投進去」，這幅對比揭示了全章「誰才是真正忠心的僕人」的核心命題。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *agapēton* | agapēton | 愛子 | 6節，呼應1:11, 9:7天父對耶穌的稱呼 |
+| *kephalēn gōnias* | kephalēn gōnias | 房角的頭塊石頭 | 10節，引自詩118:22，指建築物結構的關鍵基石 |
+| *hypokrisin* | hypokrisin | 虛偽 | 15節，耶穌看穿試探者表面恭維、實則陷害的動機 |
+| *planasthe* | planasthe | 錯了 | 24, 27節，字面「被引入歧途」，指撒都該人根本性的誤解 |
+| *lepta dyo* | lepta dyo | 兩個小文錢 | 42節，*lepton* 是當時流通貨幣中最小的單位 |
+| *hysterēseōs* | hysterēseōs | 不足、缺乏 | 44節，寡婦「自己不足」卻仍全然奉獻 |
+
+### 「凱撒的歸凱撒，神的歸神」的深意
+
+這句回答之所以令陷害者「非常驚訝」，是因為它同時避開了「效忠羅馬」與「煽動叛亂」兩個極端，卻又提出了一個更深刻的原則：銀幣上有凱撒的「像」（*eikōn*），理當歸凱撒；但人是照著神的「像」（創1:27, 同一個詞根）所造，理當完全歸給神。耶穌不只是在談政治與宗教的分野，更在暗示：人本身就該完全歸屬那造他之神。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 比喻是耶穌對自己身分與命運的預告 (The Parable Foretells Christ's Own Identity and Fate)
+
+園主差遣「愛子」、園戶「殺了他」——這則比喻幾乎是耶穌對自己即將受難的公開預告，宗教領袖也「看出這比喻是指著他們說的」，卻仍選擇殺害那愛子，親自應驗了比喻的內容。
+
+### 2. 屬地權柄與屬神權柄各有其位 (Civil Authority and Divine Authority Each Have Their Place)
+
+「凱撒的歸凱撒，神的歸神」確立了一項重要原則：屬地的政權與屬神的權柄並非彼此取代，但神的權柄涵蓋一切——包括人对政權應盡的本分。
+
+### 3. 復活的生命超越今生的類比 (Resurrection Life Transcends Earthly Categories)
+
+撒都該人的問題建立在把復活後的生命等同於今生婚姻關係的錯誤假設上——耶穌澄清復活後的生命「像天上的天使一樣」，是一種全新的存在樣式，不能簡單套用今生的範疇。
+
+### 4. 愛神愛人是律法的總綱 (Love for God and Neighbor Summarizes the Law)
+
+耶穌將申命記6:5與利未記19:18並列為「最大的誡命」，宣告一切律法、祭祀、宗教儀式，若沒有這兩條誡命作根基，都失去了意義——這正是那位文士所領悟、也蒙耶穌稱許「離神的國不遠」的洞見。
+
+### 5. 微小的奉獻，因全心的委身而顯出更大的分量 (A Small Gift, Weighed by Wholehearted Devotion, Outweighs Abundance)
+
+寡婦投入的兩個小錢在數量上微不足道，卻因「把一生所有的全都投進去」，在神眼中的價值遠超過財主們「拿有餘的」捐獻——神所看重的，從來是奉獻背後的委身程度，而非奉獻本身的數額。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到兇惡園戶的比喻（馬太平行經文），屈梭多模指出：「這比喻同時顯明許多事：神從起初就向他們所施的眷顧，以及他們從起初就有的兇殺傾向」；論到園主的預備：「圈籬笆、掘壓酒池，以及其餘的一切，祂幾乎沒有留下甚麼工作給他們自己去做」；論到園戶的頑梗：「當他們本該跑去、本該為自己的罪過懇求赦免的時候，他們反倒更堅持先前的罪惡」。論到納稅問題與復活問題，他引證：「凱撒的物當歸給凱撒，神的物當歸給神」；「你們錯了，是因為不明白聖經，也不知道神的大能」；「他不是死人的神，乃是活人的神」。論到最大的誡命，他引證：「你要盡心、盡性、盡意愛主你的神……這是誡命中的第一，且是最大的。第二也相倣，就是要愛人如己。這兩條誡命是律法和先知一切道理的總綱」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 68 (on Matt 21:33-44), Homily 70 (on Matt 22:15-33), and Homily 71 (on Matt 22:34-46), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到兇惡園戶的比喻，加爾文指出葡萄園「裝備齊全、狀況極佳」，這使園戶的忘恩負義「格外深重」；論到那被棄的石頭，他寫道：基督「仍要保有天父為祂所指定的地位」。論到納稅問題，他解釋：「凱撒的物當歸給凱撒，神的物當歸給神」確立了「屬靈治理與屬世治理之間清楚的分野」，但這並不妨礙我們「在神面前存有自由的良心」。論到復活的問題，他指出：復活的人「不娶也不嫁，乃像天上的天使一樣」，脫離「今生一切的軟弱」；「神不是死人的神，乃是活人的神」——這一點藉列祖的例證得到證實。論到最大的誡命，他總結：愛神愛人「涵蓋了公義的極致完全」；「愛就是律法的總結」。論到寡婦的奉獻，加爾文寫道：「窮人雖然似乎沒有能力行善，我們的主卻鼓勵他們，不要因自己微薄的資源而遲疑，仍要甘心樂意地表達他們的心意……他們看似微小、毫無價值的奉獻，其價值並不亞於那些奉獻更多之人」；「凡人向神所獻的，其價值的衡量標準，不在於外在的分量，而僅僅在於內心的態度」。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到兇惡園戶的比喻，麥克阿瑟指出：「比喻的設計，本是要使真理變得晦澀難明……祂之所以隱藏真理，是因為百姓已經棄絕了祂」；然而「有一個比喻，他們卻是聽懂了。在這層意義上，這是一個罕見而獨特的比喻」；他解釋葡萄園代表以色列，園戶代表歷代宗教領袖，僕人代表眾先知，而「那愛子」正是基督——「神所擁有的獨一之子」；園戶對「除滅他們」之審判的自我宣判，諷刺地正是他們自己的定罪。論到最大的誡命，他強調：「愛神，既是與神建立關係的起點，也是終點。這就是作一個神的信徒的意義」；「世上只有兩種人……你要嘛恨神，要嘛愛神」。論到寡婦的奉獻，麥克阿瑟提出一個與傳統理解相反的觀察：「她是受害者；她是一個受害者。受害於甚麼？她是這整個宗教體制的受害者」，「這段經文裏，找不到一個字支持『這是慷慨奉獻之典範』的解讀」——他將這段經文理解為耶穌對文士「侵吞寡婦家產」之腐敗體制的揭露，而非對她奉獻行為的稱許；這一解讀與加爾文等傳統理解形成鮮明對比，讀者可自行比較兩種詮釋進路的差異與依據。
+> — John MacArthur, *The Parable of the Murdered Son*, *Loving God* (41-63), *Religion and Its Victims* (41-65), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到耶穌對權柄詰問的回應，摩根指出祂「以推論的方式回答，藉著葡萄園的比喻，以及園主差遣使者，直到最終差遣了兒子」，這比喻顯明「祂的權柄，正在於祂是神的兒子」。論到納稅問題，摩根引證耶穌的回答：「凱撒的物當歸給凱撒，神的物當歸給神」，指出這句話為「人生哲學提供了至高而終極的解答」，同時定了雙方的罪——未能盡忠於神，也未能正確地納稅。論到復活問題，摩根寫道，耶穌一舉掃除了撒都該人問題的前提：「他們也不娶也不嫁」，並宣告神「不是死人的神，乃是活人的神」，就此解決了永生的問題。論到最大的誡命，摩根指出這位文士的發問是真誠的，耶穌從希伯來律法中選出：「你要盡心、盡性、盡意、盡力，愛主你的神……又要愛鄰如己」；耶穌回應「毫無嚴厲，毫無責備」，並對他說：「你離神的國不遠了」。論到寡婦的奉獻，摩根寫道：「耶穌對銀庫而坐，觀看眾人怎樣投錢入庫」——祂所看的不是他們的行動，而是「他們怎樣奉獻」的心；那寡婦「投入的比眾人所投的更多」，因為眾人是「拿有餘的」奉獻，她卻是「拿她一切養生的都投上了」。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapter XXIII (covering 11:27-33 and all of chapter 12)
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 118:22-23
+
+> 匠人所丟棄的石頭已作了房角的頭塊石頭。
+> 這是耶和華所做的，在我們眼中看為奇妙。
+
+### 詩篇 110:1
+
+> 耶和華對我主說：「你坐在我的右邊，
+> 等我使你的仇敵作你的腳凳。」
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### All Hail the Power of Jesus' Name
+
+> Crown Him with many crowns,
+> the Lamb upon His throne;
+> hark, how the heavenly anthem drowns
+> all music but its own!
+> **Awake, my soul, and sing**
+> **of Him who died for thee.**
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：兇惡園戶、辯論問答 (Ask Elder Wong)
+
+**精義一句話**：園戶殺害愛子、卻自以為能奪取產業，正是宗教領袖即將對耶穌所做之事的預告；而全章結束在寡婦傾盡所有的奉獻裏——真正的忠心，不在乎產業的多寡，而在乎是否全然歸給那位差遣愛子的主。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：這一整章的張力，濃縮在7節「這是承受產業的。來，我們殺了他，產業就歸我們了！」與44節「這寡婦……把她一生所有的全都投進去了」之間——一個是奪取式的悖逆，一個是全然的委身。你覺得自己面對神的產業（時間、金錢、恩賜），比較像哪一種態度？
+- **法利賽人、希律黨人、撒都該人平時彼此對立，此刻卻輪番向耶穌發難**——這對你今天觀察「共同的敵意」有時如何促成不尋常的聯盟，有什麼提醒？
+- **那位文士誠心發問「哪一條誡命是第一」，耶穌卻說他「離神的國不遠了」**——「不遠」卻也「不是」已經在裏面。你今天對神的認識，是「懂道理」，還是「真正進入」神的國？
+
+**整本聖經的連結**：葡萄園的比喻直接取材自以賽亞書5:1-7「葡萄園之歌」——神栽種、看顧祂的葡萄園（以色列），期待結出好葡萄，卻只結出野葡萄；耶穌的比喻把這條先知傳統推向終極的應驗：園主最後差遣的不再是先知，而是祂的獨生愛子。另一條線索：詩篇110:1「耶和華對我主說：你坐在我的右邊」——耶穌引用這節經文，指出大衛稱彌賽亞為「我主」，宣告那要來的彌賽亞不僅是大衛的後裔，更是大衛所敬拜的主——這節經文後來成為新約書信中被引用次數最多的舊約經文之一，用以宣告基督升天後坐在父神右邊的至高地位。
+
+**讓話語住在裡面**：寡婦的兩個小錢在旁人眼中微不足道，耶穌卻看見她「把一生所有的全都投進去」的心。默想：我的奉獻——時間、金錢、才幹——是「拿有餘的」，還是願意「全然擺上」？今天的實踐：找一件你一直「拿有餘的」在做的服事，今天嘗試更全心地投入其中。
+
+**你看見耶穌了嗎**：在園戶比喻裏預告自己受難的坦然裏、在「凱撒的歸凱撒，神的歸神」的智慧裏、在宣告「神是活人的神」的權柄裏、在稱許窮寡婦全然奉獻的眼光裏，你看見的，是那位既能看透試探者的詭詐、又能看見一顆全然委身之心的基督——祂邀請你的奉獻，不是計算得失的交易，而是全心的委身。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **12:41-44 寡婦的兩個小錢**：「從自己不足之中全投上了」——華人文化重視「量力而為」的奉獻觀，這段經文卻挑戰我們：神看重的不是奉獻的數額，而是奉獻背後有沒有保留。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+葡萄園之歌（賽5:1-7）是這一章的鑰匙：神栽種、看顧祂的葡萄園，卻只結出野葡萄；耶穌把這條先知傳統推到極致——園主最後差遣的不再是先知，是祂的獨生愛子。詩篇118:22「匠人所棄的石頭」與詩篇110:1「耶和華對我主說」，都是耶穌自己引用來說明祂的身分——一個關乎受死，一個關乎升高。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「園主一次又一次差遣僕人，換了你，第三次還會再差遣嗎？」
+- 再問：「園戶說『這是承受產業的，我們殺了他』——他們錯在哪裏？」
+- 追問：「文士問誡命哪一條是第一，耶穌卻說他『離神的國不遠了』——不遠，是不是已經在裏面？」
+- 落到自己：「窮寡婦投的兩個小錢，比眾人投的都多——你的奉獻，是拿有餘的，還是全然的？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的人也常把神當作「凱撒與神」二選一的問題——把生活分成「屬世的」與「屬靈的」兩個互不相干的格子。耶穌的回答卻是：凱撒的歸凱撒，但人本身是照著神的形像造的，理當完全歸神。在一個把「工作」與「信仰」切割開來的時代，你今天的時間、才幹、注意力，有沒有一塊是自認為「不歸神管」的？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：對主說：我今天所有的產業——時間、金錢、恩賜——都是你的，不是我暫時保管、將來要據為己有的。
+- **晚上**：今天我像拿有餘的財主，還是像那全然擺上的寡婦？
+- **一個行動**：今天找一件「拿有餘的」在做的服事，嘗試更全心地投入。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：園戶殺害愛子、自以為能奪產業；寡婦傾盡所有、卻得主的稱許——真正的忠心，不在乎產業的多寡，而在乎是否全然歸給那位差遣愛子的主。
+
+**貫通全經**：葡萄園之歌（賽5:1-7）到愛子被殺，是先知傳統的終極應驗；詩篇110:1「我主」到「大衛之主」的追問，是彌賽亞身分的終極宣告。
+
+**無法迴避的問題**：這寡婦「把她一生所有的全都投進去了」——你的奉獻，是拿有餘的，還是全然的？
+
+> 「祂沒有計算窮寡婦投了多少，祂看見的是她投上了多少『自己』。」
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*The Church's One Foundation*（教會惟一的根基）
+
+> The Church's one foundation is Jesus Christ her Lord;
+> she is His new creation, by water and the Word.
+> From heaven He came and sought her to be His holy bride;
+> with His own blood He bought her, and for her life He died.
+>
+> — Samuel John Stone (1866)
+
+**詩篇**：詩篇 80:8-9, 14-15, 19
+
+> 你從埃及挖出一棵葡萄樹，趕出外邦人，栽種了這樹。
+> 你在這樹根前預備了地方，它就深深扎根，爬滿了全地。
+> 萬軍之神啊，求你回轉，從天上垂看，眷顧這葡萄樹，
+> 保護你右手所栽的根，你為自己所堅固的枝子。
+> 萬軍之神耶和華啊，求你使我們回轉，使你的臉發光，我們就會得救！
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **產業的忠心**：園戶企圖奪取本不屬於自己的產業——你今天如何管理神託付給你的恩賜、資源、時間？是懷著感恩的忠心，還是暗自想要「據為己有」？
+
+2. **屬地與屬神的分際**：「凱撒的歸凱撒，神的歸神」——你如何在今天的公民責任與屬靈委身之間，活出這條原則？
+
+3. **愛神愛人的總綱**：耶穌將愛神愛人列為最大的誡命——你今天的宗教操練（讀經、禱告、聚會），有沒有真正落實在具體的愛神愛人的行動上？
+
+4. **全然的奉獻**：寡婦把一生所有的都投進去——今天，你的奉獻（時間、金錢、才幹）是「拿有餘的」，還是願意「全然擺上」？
+
+### 禱告回應
+
+> 主啊，感謝你差遣你的愛子，即使明知會被拒絕、被殺害，仍然差遣他來。
+> 求你幫助我，在屬地的責任與屬神的委身之間，活出智慧的平衡。
+> 求你使我真正把愛你、愛人如己，落實在具體的生活行動裏，而不只是知識上的認同。
+> 求你賜我像寡婦一樣全然委身的心，不計算得失，甘心把一切獻給你。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 兇惡園戶的比喻幾乎是耶穌對自己受難的預告，宗教領袖也聽懂了這比喻，卻仍選擇殺害祂——這對我們理解「明知真理卻仍拒絕」的罪責，有什麼提醒？
+
+2. 「凱撒的歸凱撒，神的歸神」如何幫助我們今天思考基督徒在公民責任與屬靈委身之間的平衡？
+
+3. 耶穌澄清復活後的生命「像天上的天使一樣」——這對我們今天對永生的盼望與想像，有什麼修正或啟發？
+
+4. 「愛神」與「愛人如己」被列為最大的誡命——這兩條誡命之間，你認為有著怎樣不可分割的關係？
+
+5. 耶穌對寡婦奉獻的稱許（或按麥克阿瑟的解讀，對宗教體制的揭露）——無論採取哪種解讀，這段經文對我們今天理解「奉獻的本質」，有什麼共通的提醒？
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 葡萄園的意象 | 12:1-9 | 賽5:1-7、詩80:8-16 |
+| 房角的頭塊石頭 | 12:10-11 | 詩118:22-23、徒4:11、彼前2:7 |
+| 凱撒與神 | 12:13-17 | 太22:15-22、路20:20-26、羅13:1-7 |
+| 復活的生命 | 12:18-27 | 太22:23-33、路20:27-40、林前15:42-44 |
+| 大衛的主 | 12:35-37 | 詩110:1、太22:41-46、來1:13 |
+| 最大的誡命 | 12:28-34 | 申6:4-5、利19:18、太22:34-40、路10:25-28 |
+| 寡婦的奉獻 | 12:41-44 | 路21:1-4、林後8:12 |
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第十三章：橄欖山末世講論 (The Olivet Discourse)
+
+馬可福音 13:1-37
+
+**經文核對**：[ai-eden.com/bible/mark/13](https://www.ai-eden.com/bible/mark/13?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+門徒讚嘆聖殿宏偉的建築，耶穌卻宣告：「這裏將沒有一塊石頭會留在另一塊石頭上而不被拆毀的。」這句話開啟了馬可福音中最長的一段連續教導——橄欖山末世講論。耶穌在此描繪了假基督的迷惑、戰爭與地震的動盪、門徒將面臨的逼迫，直到「那施行毀滅的褻瀆者」褻瀆聖殿、直到人子帶著大能力和榮耀駕雲來臨。然而，這整段令人敬畏的預言，最終收束在一個簡單卻反覆的呼召：「你們要謹慎，要警醒……要警醒！」僕人基督沒有把末後的知識當作滿足好奇心的資訊，而是當作激勵門徒儆醒等候的呼召——連子自己也不知道那日子、那時辰，唯有父知道。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Lo! He Comes with Clouds Descending**
+> *Charles Wesley, 1758*
+>
+> Lo! He comes with clouds descending,
+> once for favored sinners slain;
+> thousand thousand saints attending,
+> swell the triumph of His train.
+> Alleluia! Alleluia!
+> Christ the Lord returns to reign.
+>
+> 看哪，祂駕雲降臨，曾一次為蒙恩的罪人捨命；
+> 千萬聖徒隨行，成就祂得勝的隊伍。
+> 哈利路亞！哈利路亞！基督我主再來作王。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**預言聖殿被毀**
+
+> \textsuperscript{1}耶穌從聖殿裏出來的時候，有一個門徒對他說：「老師，請看，這是多麼了不起的石頭！多麼了不起的建築！」\textsuperscript{2}耶穌對他說：\jesus{「你看見這些宏偉的建築嗎？這裏將沒有一塊石頭會留在另一塊石頭上而不被拆毀的。」}\textsuperscript{3}耶穌在橄欖山上，面向聖殿坐著；彼得、雅各、約翰和安得烈私下問他說：\textsuperscript{4}「請告訴我們，甚麼時候有這些事呢？這一切事將成的時候有甚麼預兆呢？」
+
+**災難的起頭**
+
+> \textsuperscript{5}耶穌說：\jesus{「你們要謹慎，免得有人迷惑你們。\textsuperscript{6}將有好些人冒我的名來，說『我是基督』，並且要迷惑許多人。\textsuperscript{7}當你們聽見打仗和打仗的風聲，不要驚慌；這些事必須發生，但這還不是終結。\textsuperscript{8}民要攻打民，國要攻打國，多處必有地震、饑荒。這都是災難的起頭。\textsuperscript{9}但你們自己要謹慎；因為有人要把你們交給議會，並且你們在會堂裏要受鞭打，又為我的緣故站在統治者和君王面前，對他們作見證。\textsuperscript{10}然而，福音必須先傳給萬民。\textsuperscript{11}有人把你們解送去受審的時候，不要事先擔心說甚麼；到那時候，賜給你們甚麼話，你們就說甚麼；因為說話的不是你們，而是聖靈。\textsuperscript{12}兄弟要把兄弟、父親要把兒女置於死地；兒女要起來與父母為敵，害死他們；\textsuperscript{13}而且你們要為我的名被眾人憎恨。但堅忍到底的終必得救。」}
+
+**大災難、施行毀滅的褻瀆者**
+
+> \jesus{\textsuperscript{14}「當你們看見那『施行毀滅的褻瀆者』站在不當站的地方（讀這經的人要會意），那時，在猶太的，應當逃到山上；\textsuperscript{15}在屋頂上的，不要下來，也不要進家裏去拿東西；\textsuperscript{16}在田裏的，不要回去取衣裳。\textsuperscript{17}在那些日子，懷孕的和奶孩子的就苦了。\textsuperscript{18}你們要祈求，叫這事不在冬天發生。\textsuperscript{19}因為，在那些日子必有災難，自從神創造萬物直到如今，從沒有這樣的災難，將來也不會有。\textsuperscript{20}若不是主減少那些日子，凡血肉之軀的，就沒有一個能得救；但是為了他所揀選的選民，他將那些日子減少了。\textsuperscript{21}那時，若有人對你們說：『看哪，基督在這裏！看哪，在那裏！』你們不要信。\textsuperscript{22}因為假基督和假先知將要起來，顯神蹟奇事，如果可能，連選民也迷惑了。\textsuperscript{23}你們要謹慎！凡事我都預先告訴你們了。」}
+
+**人子的降臨**
+
+> \jesus{\textsuperscript{24}「在那些日子、那災難以後，太陽要變黑，月亮也不放光，\textsuperscript{25}眾星要從天上墜落，天上的萬象都要震動。\textsuperscript{26}那時，他們要看見人子帶著大能力和榮耀駕雲來臨。\textsuperscript{27}他要差遣天使，從四方，從地極直到天邊，召集他的選民。」}
+
+**無花果樹的比喻、警醒的呼召**
+
+> \jesus{\textsuperscript{28}「你們要從無花果樹學習功課：當樹枝發芽長葉的時候，你們就知道夏天近了。\textsuperscript{29}同樣，當你們看見這些事發生，就知道那時候近了，就在門口了。\textsuperscript{30}我實在告訴你們，這世代還沒有過去，這一切都要發生。\textsuperscript{31}天地要廢去，我的話卻絕不廢去。\textsuperscript{32}但那日子，那時辰，沒有人知道，連天上的天使也不知道，子也不知道，惟有父知道。\textsuperscript{33}你們要謹慎，要警醒，因為你們不知道那時刻幾時來到。\textsuperscript{34}這事正如一個人離家遠行，授權給僕人們，分派各人的工作，又吩咐看門的警醒。\textsuperscript{35}所以，你們要警醒，因為你們不知道這家的主人甚麼時候來，是晚上，或半夜，或雞叫時，或早晨，\textsuperscript{36}免得他忽然來到，看見你們睡著了。\textsuperscript{37}我對你們所說的話，也是對眾人說的：要警醒！」}
+
+### English — ESV
+
+> \textsuperscript{1}And as he came out of the temple, one of his disciples said to him, "Look, Teacher, what wonderful stones and what wonderful buildings!" \textsuperscript{2}And Jesus said to him, \jesus{"Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down."} \textsuperscript{3}And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately, \textsuperscript{4}"Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?"
+
+> \textsuperscript{5}And Jesus began to say to them, \jesus{"See that no one leads you astray. \textsuperscript{6}Many will come in my name, saying, 'I am he!' and they will lead many astray. \textsuperscript{7}And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. \textsuperscript{8}For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains. \textsuperscript{9}But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them. \textsuperscript{10}And the gospel must first be proclaimed to all nations. \textsuperscript{11}And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit. \textsuperscript{12}And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. \textsuperscript{13}And you will be hated by all for my name's sake. But the one who endures to the end will be saved.}
+
+> \jesus{\textsuperscript{14}But when you see the abomination of desolation standing where he ought not to be (let the reader understand), then let those who are in Judea flee to the mountains. \textsuperscript{15}Let the one who is on the housetop not go down, nor enter his house, to take anything out, \textsuperscript{16}and let the one who is in the field not turn back to take his cloak. \textsuperscript{17}And alas for women who are pregnant and for those who are nursing infants in those days! \textsuperscript{18}Pray that it may not happen in winter. \textsuperscript{19}For in those days there will be such tribulation as has not been from the beginning of the creation that God created until now, and never will be. \textsuperscript{20}And if the Lord had not cut short the days, no human being would be saved. But for the sake of the elect, whom he chose, he shortened the days. \textsuperscript{21}And then if anyone says to you, 'Look, here is the Christ!' or 'Look, there he is!' do not believe it. \textsuperscript{22}For false christs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect. \textsuperscript{23}But be on guard; I have told you all things beforehand.}
+
+> \jesus{\textsuperscript{24}But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light, \textsuperscript{25}and the stars will be falling from heaven, and the powers in the heavens will be shaken. \textsuperscript{26}And then they will see the Son of Man coming in clouds with great power and glory. \textsuperscript{27}And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven.}
+
+> \jesus{\textsuperscript{28}From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near. \textsuperscript{29}So also, when you see these things taking place, you know that he is near, at the very gates. \textsuperscript{30}Truly, I say to you, this generation will not pass away until all these things take place. \textsuperscript{31}Heaven and earth will pass away, but my words will not pass away. \textsuperscript{32}But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father. \textsuperscript{33}Be on guard, keep awake. For you do not know when the time will come. \textsuperscript{34}It is like a man going on a journey, when he leaves home and puts his servants in charge, each with his work, and commands the doorkeeper to stay awake. \textsuperscript{35}Therefore stay awake—for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows, or in the morning— \textsuperscript{36}lest he come suddenly and find you asleep. \textsuperscript{37}And what I say to you I say to all: Stay awake."}
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+耶穌預言的聖殿被毀，在主後70年由羅馬提多將軍率軍血洗耶路撒冷時應驗——希律所建的聖殿確實被拆毀到幾乎片瓦不存。橄欖山正對著聖殿與汲淪谷，是俯瞰整座聖城的制高點，也是先知撒迦利亞預言耶和華末後要親自站立、審判列國之處（亞14:4）。「施行毀滅的褻瀆者」（*to bdelygma tēs erēmōseōs*）直接引自但以理書9:27, 11:31, 12:11，最初指向主前167年安提阿古四世在聖殿設立宙斯祭壇的褻瀆行為，耶穌在此將這預表指向一個未來、更深遠的應驗。
+
+### 文學結構：雙重應驗的預言張力
+
+歷代解經家對這段講論的詮釋分為幾派：有人認為整段預言僅指向主後70年聖殿被毀（過去式應驗）；有人認為24-27節的「人子降臨」超越了主後70年的範圍，指向基督再來的末世終局；也有人主張這段講論具有「雙重應驗」的性質——近期的聖殿被毀，是末後基督再來之更大審判的預表與縮影。馬可將這段講論以「你們要謹慎」「你們要警醒」的呼召貫穿首尾（5, 9, 23, 33, 35, 37節），顯明無論對「甚麼時候」持哪種立場，這段教導的實際目的，始終落在「儆醒等候」的呼召上，而非滿足門徒對時間表的好奇心。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *ōdinōn* | ōdinōn | 生產的疼痛 | 8節「災難的起頭」原文為「陣痛的起頭」，暗示新秩序誕生前的必經過程 |
+| *to bdelygma tēs erēmōseōs* | to bdelygma tēs erēmōseōs | 施行毀滅的褻瀆者 | 14節，引自但以理書，指褻瀆聖所、帶來荒涼的可憎之物 |
+| *thlipsis* | thlipsis | 患難、災難 | 19, 24節，全新約中形容極致苦難的用詞 |
+| *ho huios tou anthrōpou* | ho huios tou anthrōpou | 人子 | 26節，取自但以理書7:13-14，宣告末後審判與掌權的身分 |
+| *grēgoreite* | grēgoreite | 警醒 | 33, 34, 35, 37節反覆出現，是全章的關鍵動詞與收束呼召 |
+| *hē genea hautē* | hē genea hautē | 這世代 | 30節，究竟指「當時的世代」或「末後信徒的世代」，是歷代解經爭議的焦點之一 |
+
+### 「這世代還沒有過去」的詮釋張力
+
+30節「這世代還沒有過去，這一切都要發生」是這段講論中最具爭議的一句。屈梭多模將「這世代」理解為「信徒的世代」，即教會將延續存在直到萬事應驗；另一種常見的解釋則認為這句話主要指向聖殿被毀（發生在當時世代之內，主後70年），而24-27節「人子降臨」的完全應驗則留待未來。無論採取哪種立場，32節「但那日子、那時辰，沒有人知道」都清楚劃定了人不可妄自推算末日時間表的界線。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 儆醒勝過推算時間表 (Watchfulness over Timetable Speculation)
+
+耶穌詳述了諸般預兆，卻明確宣告「連子也不知道」那日子、那時辰——這段講論的目的從來不是要門徒計算末日的確切時刻，而是要他們保持儆醒等候的生活狀態。
+
+### 2. 苦難是新秩序誕生前的陣痛 (Suffering as Birth Pains of the New Order)
+
+戰爭、地震、饑荒被稱為「陣痛的起頭」——這幅意象把苦難放進一個有意義的敘事框架裏：這不是混亂無序的災難，而是邁向新創造之前，帶著目的的劇痛。
+
+### 3. 逼迫中的聖靈同在 (The Spirit's Presence in Persecution)
+
+門徒將面臨審判、鞭打、家人反目——耶穌應許：「說話的不是你們，而是聖靈」，這應許不是要門徒免於苦難，而是在苦難中得著聖靈親自的同在與供應。
+
+### 4. 堅忍到底的必然得救 (Endurance to the End Ensures Salvation)
+
+「堅忍到底的終必得救」是這段講論對逼迫中門徒最直接的鼓勵——得救的確據，不在於避開苦難，而在於persevere持守到底的信心。
+
+### 5. 人子必要帶著大能力和榮耀降臨 (The Son of Man Will Certainly Come with Power and Glory)
+
+無論聖殿被毀的近期應驗如何理解，26節「人子帶著大能力和榮耀駕雲來臨」的應許，最終指向基督再來的終極確據——這是全本聖經歷史敘事的終點，也是信徒儆醒等候的終極盼望。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到聖殿被毀的預言（馬太平行經文），屈梭多模引證：「將沒有一塊石頭留在另一塊石頭上，不被拆毀的」。論到假基督與戰爭的預兆，他引證：「你們要謹慎，不要有人迷惑你們……你們也要聽見打仗和打仗的風聲，總不要驚慌；因為這些事是必須有的，只是末期還沒有到」；他將這些爭戰理解為「三重的」——「來自迷惑者，來自敵人，來自假弟兄」。論到福音傳遍萬民，他引證：「這天國的福音要傳遍天下，對萬民作見證，然後末期才來到」。論到施行毀滅的褻瀆者，他引證：「你們看見先知但以理所說的『那行毀壞可憎的』站在聖地（讀這經的人須要會意）」，並指出這些預言主要指向當時世代之內、耶路撒冷即將面臨的毀滅。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 75 (on Matt 24:1-28) and Homily 77 (on Matt 24:32-51), NPNF1-10
+
+論到無花果樹的比喻與「這世代」，屈梭多模在Homily 77中解釋，「這世代」並非指當時活著的世代，而是「指信徒的世代」——「信徒的世代必要存留，不因前述諸事而被剪除」；論到「那日子、那時辰沒有人知道」，他寫道：「祂沒有說『我不知道』，而是說『你們不知道』」——他將此理解為一種修辭上的節制，而非字面上宣告子真實無知；論到忠心的僕人，他引證：「主人必派他管理一切所有的」，神刻意不透露時間，「為要使人常存儆醒警覺之心」。
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到「那日子、那時辰沒有人知道」，加爾文論到：「基督的用意，是要使信徒的心保持懸念，免得他們憑虛妄的想像，為末後的救贖定下確切的時間」；信徒當「耐心等候他的顯現」，而非妄自推算。論到「子也不知道」一句，加爾文採取與屈梭多模不同的進路，他認為這確實反映基督人性的真實限制——「祂的神性在此並未施展」，這是祂道成肉身、居於中保職分之合宜的表現；這與屈梭多模「修辭性節制」的解讀形成一組值得留意的領受張力，值得讀者自行比較兩種進路的依據與意涵。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到大災難，麥克阿瑟強調：「自從創造之始，直到如今，未曾有過這樣的災難……以後也必沒有」，他以此反對僅將這段預言理解為主後70年一次性應驗的觀點，主張這指向未來的大災難期；論到施行毀滅的褻瀆者，他將其與但以理書的敵基督預言相連，理解為指向一座末後將重建之聖殿中的褻瀆行為。論到「若不是主減少那些日子」，他強調：「若非主親自縮短那些日子，凡有血氣的，沒有一個能得救；只是為著他所揀選的百姓，他將日子縮短了」——這彰顯神在末後歷史進程中的主權掌管。論到警醒的呼召，他總結：「當你看見這些事發生時，要知道他已經近了，就在門口了」；「論到那日子、那時辰，沒有人知道，連天上的天使也不知道，子也不知道，惟獨父知道」；他多次強調：「要警醒」；「天地要廢去，我的話卻絕不能廢去」；他將這段教導的實際應用歸結為：「你終有一死，而你不知道甚麼時候——你最好預備好」。
+> — John MacArthur, *The Future Tribulation* (41-67), *The Final Generation, Part 2* (41-70), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到門徒對戰爭與逼迫的最初提問，摩根指出耶穌首先「呼召他們謹守對自己的忠誠」——戰爭的風聲並非末日的記號，而是「產難的起頭」。論到逼迫時期，他強調門徒能夠持守，是「因著聖靈與他們同在的緣故」。論到施行毀滅的褻瀆者，摩根將其理解為「在耶路撒冷淪陷之時，於一個世代之內」得著應驗。論到24-32節，摩根指出這是「耶路撒冷淪陷之後的另一場危機——祂親自、確實、以審判者身分再來的危機」。論到警醒的呼召，摩根總結全章反覆出現的命令：「你們要謹慎……要警醒……我對你們所說的話，也是對眾人說的：要警醒！」
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapter XXIV
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 90:1-2, 12
+
+> 主啊，你世世代代作我們的居所。
+> 諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。
+> **求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。**
+
+### 詩篇 46:1-2
+
+> 神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。
+> 所以，地雖改變，山雖搖動到海心，我們也不害怕。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### My Hope Is Built on Nothing Less
+
+> When darkness veils His lovely face,
+> I rest on His unchanging grace;
+> in every high and stormy gale,
+> my anchor holds within the veil.
+> **On Christ, the solid Rock, I stand;**
+> **all other ground is sinking sand.**
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：橄欖山末世講論 (Ask Elder Wong)
+
+**精義一句話**：耶穌詳述了末後諸般的預兆，卻在講論的末了，把一切都收束成一個簡單的呼召——「要警醒！」認識末世的知識，若不能帶來儆醒等候的生活，就仍然錯過了這段講論真正的目的。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：37節「我對你們所說的話，也是對眾人說的：要警醒！」是整段末世講論的收束句與總綱。你若把這句話放在整段講論最前面重讀一次，會不會發現每一個預兆、每一個警告，都只是在為這一句話作鋪墊？
+- **耶穌明說「連子也不知道」那日子、那時辰**——這對你今天面對各種「預測末日」的聲音，有什麼提醒？真正儆醒的心，是急著推算時間表，還是活出每一天都準備見主面的生命？
+- **耶穌應許「說話的不是你們，而是聖靈」**——這應許是在門徒即將面臨審判與逼迫的處境中賜下的。你今天面對艱難的處境時，是否也倚靠這位親自同在、親自賜話語的聖靈？
+
+**整本聖經的連結**：「施行毀滅的褻瀆者」直接引自但以理書9:27, 11:31, 12:11——但以理在被擄時期已經預言，聖所將被褻瀆的可憎之物玷污；耶穌把這預表指向一個更深遠的應驗，宣告先知的預言仍在祂的時代、以及更遠的將來持續展開。另一條線索：「人子帶著大能力和榮耀駕雲來臨」直接呼應但以理書7:13-14「有一位像人子的，駕著天雲而來……得了權柄、榮耀、國度」——這是耶穌在受難之前，再次向門徒確認：十字架的道路，終必以榮耀的降臨作結。
+
+**讓話語住在裡面**：這段講論用「一個人離家遠行……吩咐看門的警醒」的比喻，描繪信徒當有的生活狀態——不是恐懼地計算末日何時來到，而是忠心地做好主人所交託的工作，隨時準備好迎接祂的歸來。默想：如果主今天就要回來，祂看見我正在做什麼？今天的實踐：檢視一件你被交託、卻一直拖延的責任，今天就開始忠心地執行。
+
+**你看見耶穌了嗎**：在預言聖殿被毀的坦然裏、在應許聖靈同在的信實裏、在宣告自己必要帶著大能力和榮耀降臨的確據裏，你看見的，是那位掌管歷史、卻選擇不透露確切時間表、只呼召祂的門徒忠心儆醒的基督——祂沒有應許你能預知一切，但祂應許祂必再來，且要你隨時預備好。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **13:33-37 對華人教會在末世中的「警醒」呼召**：華人文化習慣為未來精密籌劃、講求掌控感，這段經文卻挑戰我們：面對無法掌控、無法預知的末後時刻，儆醒等候本身就是一種信心的操練。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+「施行毀滅的褻瀆者」引自但以理書9:27, 11:31, 12:11——但以理在被擄之地已預言聖所將被褻瀆；「人子帶著大能力和榮耀駕雲來臨」直接呼應但以理書7:13-14「有一位像人子的，駕著天雲而來……得了權柄、榮耀、國度」。從被擄之地的預言，到橄欖山上的宣告，神一直在為祂百姓預備一幅完整的末後圖畫。
+
+### 提問式對話 (Let the Reader Speak)
+
+黃長老不急著給答案，他一層一層地問：
+
+- 先問：「門徒讚嘆聖殿的石頭，耶穌卻說『沒有一塊會留下』——你今天讚嘆的，是哪些終必被拆毀的『石頭』？」
+- 再問：「耶穌說『連子也不知道那日子、那時辰』——這句話讓你安心，還是讓你不安？」
+- 追問：「僕人被主人『分派各人的工作』——你今天被分派的工作是什麼？」
+- 落到自己：「如果主今天就要回來，祂看見你正在做什麼？」
+
+### 活在今天 · AI時代 (Living It Today)
+
+這是一個沉迷於「預測」的時代——演算法預測你的喜好，模型預測市場的走向，人也熱衷於預測末日的時間表。耶穌卻說：「連子也不知道」。祂要的不是你算得準，是你儆醒地活。你今天花在「預測未來」上的心力，和花在「忠心做好眼前的工作」上的心力，哪一個更多？
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：對主說：我不知道你什麼時候來，但我今天要做一個儆醒等候的僕人。
+- **晚上**：今天我活得像知道主隨時會回來，還是像祂永遠不會回來？
+- **一個行動**：今天完成一件被交託卻一直拖延的責任，作為儆醒等候的具體操練。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：耶穌詳述了末後的預兆，卻把一切收束成一個字——「警醒」；認識末世的知識，若不能帶來儆醒等候的生活，就仍然錯過了這段講論的目的。
+
+**貫通全經**：「施行毀滅的褻瀆者」（但9:27）到「人子駕雲降臨」（但7:13-14），是同一位先知筆下的兩幅圖畫——審判與掌權，缺一不可。
+
+**無法迴避的問題**：如果主今天就要回來，祂看見你正在做什麼？
+
+> 「祂沒有給你一張時間表，祂給你一個崗位——警醒。」
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Lo! He Comes with Clouds Descending*（看哪，祂駕雲降臨）
+
+> Lo! He comes with clouds descending, once for favored sinners slain;
+> thousand thousand saints attending, swell the triumph of His train.
+> Alleluia! Alleluia! Christ the Lord returns to reign.
+>
+> — Charles Wesley (1758)
+
+**詩篇**：詩篇 90:1-2, 12
+
+> 主啊，你世世代代作我們的居所。
+> 諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。
+> 求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **儆醒而非推算**：面對各種對末日時間表的臆測，你如何持守耶穌「沒有人知道那日子、那時辰」的教導，同時活出真正儆醒的生命？
+
+2. **苦難中的盼望**：耶穌把戰爭、逼迫稱為「陣痛的起頭」——你如何在自己經歷的苦難中，看見這是邁向新創造之前、帶著意義的過程？
+
+3. **聖靈的同在**：「說話的不是你們，而是聖靈」——你今天面對困難的處境時，是否真實倚靠聖靈的同在與帶領？
+
+4. **忠心的等候**：僕人被主人授權、各按其職，直到主人回來——你今天被交託的職分，是否活在「隨時預備好」的忠心裏？
+
+### 禱告回應
+
+> 主啊，感謝你預先告訴我們末後的事，不是要使我們憂慮恐懼，而是要使我們儆醒預備。
+> 求你賜我聖靈的同在，使我在任何逼迫與艱難中，都能倚靠你賜下的話語與力量。
+> 求你使我不隨意推算末日的時間表，而是每天活出隨時預備好見你面的生命。
+> 求你使我忠心地做好你所交託的工作，直到你榮耀地再來。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 耶穌預言聖殿被毀，並在主後70年應驗——這對我們理解聖經預言的可靠性與神在歷史中的主權，有什麼幫助？
+
+2. 「連子也不知道」那日子、那時辰——教父與改教家對這句話有不同的領受角度（修辭性節制 vs. 基督人性真實的限制）。你認為哪一種解讀更貼近經文本身的意涵？為什麼？
+
+3. 「堅忍到底的終必得救」——這句話對我們今天在信仰的艱難處境中持守到底，提供了什麼樣的激勵？
+
+4. 無花果樹發芽的比喻，教導我們從「看得見的預兆」推斷「看不見的時候近了」——今天教會或個人生活中，你觀察到哪些提醒你「儆醒預備」的記號？
+
+5. 這段講論反覆呼召「警醒」——今天你的生活節奏與屬靈操練，是否活出了一種真正意義上「隨時預備好」的儆醒狀態？
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 聖殿被毀的預言 | 13:1-2 | 太24:1-2、路21:5-6 |
+| 施行毀滅的褻瀆者 | 13:14 | 但9:27、11:31、12:11 |
+| 人子駕雲降臨 | 13:24-27 | 但7:13-14、太24:29-31、啟1:7 |
+| 無花果樹的比喻 | 13:28-31 | 太24:32-35、路21:29-33 |
+| 那日子那時辰無人知道 | 13:32 | 太24:36、徒1:7、帖前5:1-2 |
+| 警醒等候 | 13:33-37 | 太24:42-44、路21:34-36、帖前5:6 |
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第十四章：最後晚餐、客西馬尼、被捕 (The Last Supper, Gethsemane, the Arrest)
+
+馬可福音 14:1-72
+
+**經文核對**：[ai-eden.com/bible/mark/14](https://www.ai-eden.com/bible/mark/14?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+這是馬可福音中最長、也最情感濃烈的一章。一個女人打破玉瓶，把極貴的香膏澆在耶穌頭上，耶穌稱這是「為了我的安葬」預先所做的美事；同一時刻，十二使徒之一的猶大，卻正去見祭司長，商議如何出賣他。逾越節的宴席上，耶穌拿起餅和杯，宣告「這是我的身體」「這是我立約的血，為許多人流出來的」——古老的逾越節，就此被賦予全新的意義。客西馬尼園裏，僕人基督「驚恐起來，極其難過」，俯伏禱告：「阿爸，父啊……求你將這杯撤去。然而，不是照我所願的，而是照你所願的」——祂在完全的順服裏，走向十字架。門徒逃走，彼得三次不認主，雞叫的那一刻，他「忍不住哭了」。這一章把愛與背叛、順服與軟弱、忠心與失敗，全都放進同一個逾越節的夜晚。
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**伯大尼的膏抹、猶大的背叛**
+
+> \textsuperscript{1}過兩天是逾越節，又是除酵節，祭司長和文士在想法子怎樣設計捉拿耶穌，把他殺掉。\textsuperscript{2}他們說：「不可在過節的日子，恐怕百姓生亂。」
+
+> \textsuperscript{3}耶穌在伯大尼痲瘋病人西門家裏坐席的時候，有一個女人拿著一玉瓶極貴的純哪噠香膏來，打破玉瓶，把膏澆在耶穌的頭上。\textsuperscript{4}有幾個人心中很不高興，說：「何必這樣浪費香膏呢？\textsuperscript{5}這香膏可以賣三百多個銀幣賙濟窮人。」他們就對那女人生氣。\textsuperscript{6}耶穌說：\jesus{「由她吧！為甚麼難為她呢？她在我身上做的是一件美事。\textsuperscript{7}因為常有窮人和你們在一起，要向他們行善，隨時都可以，但是你們不常有我。\textsuperscript{8}她所做的是盡她所能的；她是為了我的安葬，把香膏預先澆在我身上。\textsuperscript{9}我實在告訴你們，普天之下，無論在甚麼地方傳這福音，都要述說這女人所做的，來記念她。」}
+
+> \textsuperscript{10}十二使徒中有一個加略人猶大，去見祭司長，要把耶穌交給他們。\textsuperscript{11}他們聽見就很高興，又應許給他銀子；他就想怎樣找機會把耶穌交給他們。
+
+**逾越節的預備、最後晚餐**
+
+> \textsuperscript{12}除酵節的第一天，就是宰逾越節羔羊的那一天，門徒對耶穌說：「你要我們到哪裏去預備你吃逾越節的宴席呢？」\textsuperscript{13}耶穌就打發兩個門徒，對他們說：\jesus{「你們進城去，會有人拿著一罐水迎面而來，你們就跟著他。\textsuperscript{14}無論他進哪一家，你們就對那家的主人說：『老師問：我的客房在哪裏？我和我的門徒要在那裏吃逾越節的宴席。』\textsuperscript{15}他會帶你們看一間擺設齊全、準備妥當的樓上大廳，你們就在那裏為我們預備。」}\textsuperscript{16}門徒出去，進了城，所看到的正如耶穌所說的。他們就預備了逾越節的宴席。
+
+> \textsuperscript{17}到了晚上，耶穌和十二使徒都來了。\textsuperscript{18}他們坐席，正吃的時候，耶穌說：\jesus{「我實在告訴你們，你們中間有一個與我同吃的人要出賣我了。」}\textsuperscript{19}他們就憂愁起來，一個個地問他：「不是我吧？」\textsuperscript{20}耶穌對他們說：\jesus{「是十二人中的一個，就是同我蘸餅在盤子裏的那個人。\textsuperscript{21}人子要去了，正如經上所寫有關他的；但出賣人子的人有禍了！那人沒有出生倒好。」}
+
+> \textsuperscript{22}他們吃的時候，耶穌拿起餅來，祝福了，就擘開，遞給他們，說：\jesus{「你們拿去，這是我的身體。」}\textsuperscript{23}他又拿起杯來，祝謝了，遞給他們；他們都喝了。\textsuperscript{24}耶穌對他們說：\jesus{「這是我立約的血，為許多人流出來的。\textsuperscript{25}我實在告訴你們，我不再喝這葡萄汁，直到我在神的國裏喝新的那日子。」}\textsuperscript{26}他們唱了詩，就出來往橄欖山去。
+
+**預言彼得不認主、客西馬尼禱告**
+
+> \textsuperscript{27}耶穌對他們說：\jesus{「你們都要跌倒，因為經上記著：『我要擊打牧人，羊就分散了。』\textsuperscript{28}但我復活以後，要在你們之前往加利利去。」}\textsuperscript{29}彼得說：「雖然眾人跌倒，但我不會。」\textsuperscript{30}耶穌對他說：\jesus{「我實在告訴你，今天夜裏，雞叫兩遍以前，你要三次不認我。」}\textsuperscript{31}彼得卻極力地說：「我就是必須和你同死，也絕不會不認你。」所有的門徒都是這樣說。
+
+> \textsuperscript{32}他們來到一個地方，名叫客西馬尼。耶穌對門徒說：\jesus{「你們坐在這裏，我去禱告。」}\textsuperscript{33}於是他帶著彼得、雅各和約翰同去。他驚恐起來，極其難過，\textsuperscript{34}對他們說：\jesus{「我心裏非常憂傷，幾乎要死；你們留在這裏，要警醒。」}\textsuperscript{35}他就稍往前走，俯伏在地，禱告說，如果可能，就叫那時候離開他。\textsuperscript{36}他說：\jesus{「阿爸，父啊！在你凡事都能；求你將這杯撤去。然而，不是照我所願的，而是照你所願的。」}\textsuperscript{37}耶穌回來，見他們睡著了，就對彼得說：\jesus{「西門，你睡著了嗎？不能警醒一小時嗎？\textsuperscript{38}總要警醒禱告，免得陷入試探。你們心靈固然願意，肉體卻軟弱了。」}\textsuperscript{39}耶穌又去禱告，說的話跟先前一樣。\textsuperscript{40}他又來，見他們睡著了，因為他們的眼睛很困倦；他們也不知道怎麼回答他。\textsuperscript{41}他第三次來對他們說：\jesus{「現在你們仍在睡覺安歇嗎？夠了，時候到了。看哪，人子被出賣在罪人手裏了。\textsuperscript{42}起來，我們走吧！看哪，那出賣我的人快來了。」}
+
+**被捕**
+
+> \textsuperscript{43}耶穌還在說話的時候，忽然十二使徒之一的猶大來了，還有一群人帶著刀棒，從祭司長、文士和長老那裏跟他同來。\textsuperscript{44}那出賣耶穌的人曾給他們一個暗號，說：「我親誰，誰就是。你們把他抓住，穩妥地帶走。」\textsuperscript{45}猶大來了，隨即到耶穌跟前，說：「拉比」，就跟他親吻。\textsuperscript{46}他們就下手抓住他。\textsuperscript{47}旁邊站著的人，有一個拔出刀來，把大祭司的僕人砍了一刀，削掉了他一隻耳朵。\textsuperscript{48}耶穌回應他們說：\jesus{「你們帶著刀棒出來拿我，如同拿強盜嗎？\textsuperscript{49}我天天教導人，同你們在殿裏，你們並沒有抓我。但這是要應驗經上的話。」}\textsuperscript{50}門徒都離開他，逃走了。\textsuperscript{51}有一個青年光著身子，只披一塊麻布，跟隨耶穌，眾人就抓住他。\textsuperscript{52}他卻丟下麻布，赤身逃走了。
+
+**該亞法面前受審**
+
+> \textsuperscript{53}他們把耶穌帶到大祭司那裏，又有眾祭司長、長老和文士都來一同聚集。\textsuperscript{54}彼得遠遠地跟著耶穌，直到進了大祭司的院子，和警衛一同坐在火邊取暖。\textsuperscript{55}祭司長和全議會尋找見證控告耶穌，要處死他，卻找不到實據。\textsuperscript{56}因為有好些人作假見證告他，他們的見證又各不相符。\textsuperscript{57}又有幾個人站起來，作假見證告他說：\textsuperscript{58}「我們聽見他說：『我要拆毀這人手所造的殿，三日內另造一座不是人手所造的。』」\textsuperscript{59}就是這樣，他們的見證還是不相符。\textsuperscript{60}大祭司起來站在中間，問耶穌說：「這些人作證告你的事，你甚麼都不回答嗎？」\textsuperscript{61}耶穌卻不言語，一句也不回答。大祭司又問他：「你是不是基督，那當稱頌者的兒子？」\textsuperscript{62}耶穌說：\jesus{「我是。你們要看見人子坐在那權能者的右邊，駕著天上的雲來臨。」}\textsuperscript{63}大祭司就撕裂衣服，說：「我們何必再要證人呢？\textsuperscript{64}你們已經聽見他這褻瀆的話了。你們的決定如何？」他們都判定他該處死。\textsuperscript{65}於是有人開始向他吐唾沫，又蒙著他的臉，用拳頭打他，對他說：「你說預言吧！」警衛把他拉過來，打他耳光。
+
+**彼得三次不認主**
+
+> \textsuperscript{66}彼得在下邊院子裏，大祭司的一個使女來了，\textsuperscript{67}見彼得取暖，就看著他，說：「你素來也是同拿撒勒人耶穌一起的。」\textsuperscript{68}彼得卻不承認，說：「我不知道，也不明白你說的是甚麼！」於是他出來，到了前院，雞就叫了。\textsuperscript{69}那使女看見他，又對旁邊站著的人說：「這個人也是他們一夥的。」\textsuperscript{70}彼得又不承認。過了不久，旁邊站著的人又對彼得說：「你真是他們一夥的，因為你也是加利利人。」\textsuperscript{71}彼得就賭咒發誓說：「我不認得你們說的這個人。」\textsuperscript{72}立刻，雞叫了第二遍。彼得想起耶穌對他所說的話：\jesus{「雞叫兩遍以前，你要三次不認我。」}他就忍不住哭了。
+
+### English — ESV
+
+> \textsuperscript{1}It was now two days before the Passover and the Feast of Unleavened Bread. And the chief priests and the scribes were seeking how to arrest him by stealth and kill him, \textsuperscript{2}for they said, "Not during the feast, lest there be an uproar from the people."
+
+> \textsuperscript{3}And while he was at Bethany in the house of Simon the leper, as he was reclining at table, a woman came with an alabaster flask of ointment of pure nard, very costly, and she broke the flask and poured it over his head. \textsuperscript{4}There were some who said to themselves indignantly, "Why was the ointment wasted like that? \textsuperscript{5}For this ointment could have been sold for more than three hundred denarii and given to the poor." And they scolded her. \textsuperscript{6}But Jesus said, \jesus{"Leave her alone. Why do you trouble her? She has done a beautiful thing to me. \textsuperscript{7}For you always have the poor with you, and whenever you want, you can do good for them. But you will not always have me. \textsuperscript{8}She has done what she could; she has anointed my body beforehand for burial. \textsuperscript{9}And truly, I say to you, wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her."}
+
+> \textsuperscript{10}Then Judas Iscariot, who was one of the twelve, went to the chief priests in order to betray him to them. \textsuperscript{11}And when they heard it, they were glad and promised to give him money. And he sought an opportunity to betray him.
+
+> \textsuperscript{12}And on the first day of Unleavened Bread, when they sacrificed the Passover lamb, his disciples said to him, "Where will you have us go and prepare for you to eat the Passover?" \textsuperscript{13}And he sent two of his disciples and said to them, \jesus{"Go into the city, and a man carrying a jar of water will meet you. Follow him, \textsuperscript{14}and wherever he enters, say to the master of the house, 'The Teacher says, Where is my guest room, where I may eat the Passover with my disciples?' \textsuperscript{15}And he will show you a large upper room furnished and ready; there prepare for us."} \textsuperscript{16}And the disciples set out and went to the city and found it just as he had told them, and they prepared the Passover.
+
+> \textsuperscript{17}And when it was evening, he came with the twelve. \textsuperscript{18}And as they were reclining at table and eating, Jesus said, \jesus{"Truly, I say to you, one of you will betray me, one who is eating with me."} \textsuperscript{19}They began to be sorrowful and to say to him one after another, "Is it I?" \textsuperscript{20}He said to them, \jesus{"It is one of the twelve, one who is dipping bread into the dish with me. \textsuperscript{21}For the Son of Man goes as it is written of him, but woe to that man by whom the Son of Man is betrayed! It would have been better for that man if he had not been born."}
+
+> \textsuperscript{22}And as they were eating, he took bread, and after blessing it broke it and gave it to them, and said, \jesus{"Take; this is my body."} \textsuperscript{23}And he took a cup, and when he had given thanks he gave it to them, and they all drank of it. \textsuperscript{24}And he said to them, \jesus{"This is my blood of the covenant, which is poured out for many. \textsuperscript{25}Truly, I say to you, I will not drink again of the fruit of the vine until that day when I drink it new in the kingdom of God."} \textsuperscript{26}And when they had sung a hymn, they went out to the Mount of Olives.
+
+> \textsuperscript{27}\jesus{"You will all fall away, for it is written, 'I will strike the shepherd, and the sheep will be scattered.' \textsuperscript{28}But after I am raised up, I will go before you to Galilee."} \textsuperscript{29}Peter said to him, "Even though they all fall away, I will not." \textsuperscript{30}Jesus said to him, \jesus{"Truly, I tell you, this very night, before the rooster crows twice, you will deny me three times."} \textsuperscript{31}But he said emphatically, "If I must die with you, I will not deny you." And they all said the same.
+
+> \textsuperscript{32}And they went to a place called Gethsemane. And he said to his disciples, \jesus{"Sit here while I pray."} \textsuperscript{33}And he took with him Peter and James and John, and began to be greatly distressed and troubled. \textsuperscript{34}And he said to them, \jesus{"My soul is very sorrowful, even to death. Remain here and watch."} \textsuperscript{35}And going a little farther, he fell on the ground and prayed that, if it were possible, the hour might pass from him. \textsuperscript{36}And he said, \jesus{"Abba, Father, all things are possible for you. Remove this cup from me. Yet not what I will, but what you will."} \textsuperscript{37}And he came and found them sleeping, and he said to Peter, \jesus{"Simon, are you asleep? Could you not watch one hour? \textsuperscript{38}Watch and pray that you may not enter into temptation. The spirit indeed is willing, but the flesh is weak."} \textsuperscript{39}And again he went away and prayed, saying the same words. \textsuperscript{40}And again he came and found them sleeping, for their eyes were very heavy, and they did not know what to answer him. \textsuperscript{41}And he came the third time and said to them, \jesus{"Are you still sleeping and taking your rest? It is enough; the hour has come. The Son of Man is betrayed into the hands of sinners. \textsuperscript{42}Rise, let us be going; see, my betrayer is at hand."}
+
+> \textsuperscript{43}And immediately, while he was still speaking, Judas came, one of the twelve, and with him a crowd with swords and clubs, from the chief priests and the scribes and the elders. \textsuperscript{44}Now the betrayer had given them a sign, saying, "The one I will kiss is the man. Seize him and lead him away under guard." \textsuperscript{45}And when he came, he went up to him at once and said, "Rabbi!" And he kissed him. \textsuperscript{46}And they laid hands on him and seized him. \textsuperscript{47}But one of those who stood by drew his sword and struck the servant of the high priest and cut off his ear. \textsuperscript{48}And Jesus said to them, \jesus{"Have you come out as against a robber, with swords and clubs to capture me? \textsuperscript{49}Day after day I was with you in the temple teaching, and you did not seize me. But let the Scriptures be fulfilled."} \textsuperscript{50}And they all left him and fled. \textsuperscript{51}And a young man followed him, with nothing but a linen cloth about his body. And they seized him, \textsuperscript{52}but he left the linen cloth and ran away naked.
+
+> \textsuperscript{53}And they led Jesus to the high priest. And all the chief priests and the elders and the scribes came together. \textsuperscript{54}And Peter had followed him at a distance, right into the courtyard of the high priest. And he was sitting with the guards and warming himself at the fire. \textsuperscript{55}Now the chief priests and the whole council were seeking testimony against Jesus to put him to death, but they found none. \textsuperscript{56}For many bore false witness against him, but their testimony did not agree. \textsuperscript{57}And some stood up and bore false witness against him, saying, \textsuperscript{58}"We heard him say, 'I will destroy this temple that is made with hands, and in three days I will build another, not made with hands.'" \textsuperscript{59}Yet even about this their testimony did not agree. \textsuperscript{60}And the high priest stood up in the midst and asked Jesus, "Have you no answer to make? What is it that these men testify against you?" \textsuperscript{61}But he remained silent and made no answer. Again the high priest asked him, "Are you the Christ, the Son of the Blessed?" \textsuperscript{62}And Jesus said, \jesus{"I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven."} \textsuperscript{63}And the high priest tore his garments and said, "What further witnesses do we need? \textsuperscript{64}You have heard his blasphemy. What is your decision?" And they all condemned him as deserving death. \textsuperscript{65}And some began to spit on him and to cover his face and to strike him, saying to him, "Prophesy!" And the guards received him with blows.
+
+> \textsuperscript{66}And as Peter was below in the courtyard, one of the servant girls of the high priest came, \textsuperscript{67}and seeing Peter warming himself, she looked at him and said, "You also were with the Nazarene, Jesus." \textsuperscript{68}But he denied it, saying, "I neither know nor understand what you mean." And he went out into the gateway and the rooster crowed. \textsuperscript{69}And the servant girl saw him and began again to say to the bystanders, "This man is one of them." \textsuperscript{70}But again he denied it. And after a little while the bystanders again said to Peter, "Certainly you are one of them, for you are a Galilean." \textsuperscript{71}But he began to invoke a curse on himself and to swear, "I do not know this man of whom you speak." \textsuperscript{72}And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, "Before the rooster crows twice, you will deny me three times." And he broke down and wept.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+逾越節與除酵節紀念以色列人出埃及，是猶太曆中最重要的節期，此時耶路撒冷擠滿了從各地前來朝聖的猶太人——祭司長「恐怕百姓生亂」，正是擔心在如此敏感的時機公開逮捕耶穌，會引發群眾的騷動。純哪噠香膏極其珍貴，三百銀幣約等於一個工人近一年的工資，這女人（約翰福音12:3指明是馬利亞）的奉獻，代價極其昂貴。客西馬尼（*Gethsemane*，意為「榨油之處」）是橄欖山山腳的一座園子，耶穌常在此禱告（約18:2）。大祭司該亞法審問耶穌時「撕裂衣服」，按猶太律法是聽見褻瀆之言時應有的哀慟表現（利未記21:10原本禁止大祭司撕裂衣服，但傳統容許在面對褻瀆時破例）。
+
+### 文學結構：三明治敘事再現——猶大的背叛包夾馨香的奉獻
+
+馬可再次使用三明治結構：伯大尼女人的奉獻（3-9節）被祭司長密謀（1-2節）與猶大出賣（10-11節）前後包夾——這幅強烈的對比，讓讀者同時看見同一時刻裏，愛與背叛兩種極端的回應。全章另一個重要的結構呼應：耶穌三次禱告「將這杯撤去」（32-42節），對應彼得三次不認主（66-72節）——一個在極度痛苦中仍然順服，一個在輕微的壓力下三次背棄；這組對比，凸顯了僕人基督完全的順服與門徒軟弱的鮮明反差。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *nardou pistikēs polytelous* | nardou pistikēs polytelous | 純哪噠香膏 | 3節，「純」（*pistikēs*）強調未經摻雜的極品香料 |
+| *to sōma mou* | to sōma mou | 我的身體 | 22節，耶穌設立聖餐的宣告 |
+| *to haima mou tēs diathēkēs* | to haima mou tēs diathēkēs | 我立約的血 | 24節，呼應出埃及記24:8「立約的血」 |
+| *Abba ho patēr* | Abba ho patēr | 阿爸，父啊 | 36節，亞蘭文「阿爸」加上希臘文翻譯「父」，馬可保留耶穌原本親密的稱呼 |
+| *ekthambeisthai* | ekthambeisthai | 驚恐 | 33節，字面「極度驚駭」，是新約中形容情感震盪最強烈的詞之一 |
+| *ērnēsato* | ērnēsato | 不承認、否認 | 68, 70節，彼得三次「不認」耶穌所用的動詞 |
+
+### 「阿爸，父啊」的親密與掙扎
+
+*Abba* 是亞蘭文孩童對父親最親密的稱呼，相當於中文的「爸爸」——當時猶太人絕不會用這個詞直接稱呼神，因其過於親暱。耶穌卻在客西馬尼最痛苦掙扎的時刻，用這個詞向父禱告，顯明祂與父之間獨特而深厚的親密關係，即使在極度的憂傷中也未曾動搖。馬可特意保留這個亞蘭文原詞，再附上希臘文翻譯，讓外邦讀者也能感受到這稱呼的分量。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 奢華的奉獻配得基督 (Lavish Devotion Is Fitting for Christ)
+
+那女人打破玉瓶、傾倒全部香膏的奉獻，被旁觀者視為「浪費」，耶穌卻稱之為「美事」——真正認識基督之尊貴的心，不會吝於獻上最珍貴的敬拜。
+
+### 2. 逾越節被重新定義為基督的獻祭 (Passover Reinterpreted as Christ's Sacrifice)
+
+耶穌在逾越節設立聖餐，宣告餅是「我的身體」、杯是「我立約的血」——古老的逾越節羔羊，如今在祂身上找到終極的應驗；祂正是那真正被殺的逾越節羔羊。
+
+### 3. 真實的人性在客西馬尼顯明 (True Humanity Revealed in Gethsemane)
+
+耶穌「驚恐起來，極其難過」，甚至說「我心裏非常憂傷，幾乎要死」——這幅畫面徹底駁斥了幻影說（認為基督只是看似有人的身體），顯明祂真實經歷了人所能經歷最深的痛苦與掙扎。
+
+### 4. 完全順服勝過個人的意願 (Perfect Submission over Personal Will)
+
+「不是照我所願的，而是照你所願的」——耶穌在最深的痛苦中，仍然選擇順服父的旨意，這是全本聖經中最徹底的順服典範，也是每個信徒禱告的終極樣式。
+
+### 5. 軟弱的門徒與堅定的基督 (Weak Disciples, Steadfast Christ)
+
+門徒睡著、逃走、彼得三次不認主——這一切軟弱的紀錄，與耶穌堅定不移地走向十字架形成強烈對比，卻也印證了福音的核心：基督的救恩，不是靠人的堅強成就，而是靠祂自己的信實完成。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到伯大尼的膏抹與猶大的背叛（馬太平行經文），屈梭多模寫道：「主的慈愛何等浩大。祂容忍一個罪汙的婦人親吻祂的腳」；論到耶穌對批評者的回應：「你們為甚麼難為這婦人呢？她在我身上做的是一件美事……她是為我安葬的緣故，把香膏澆在我身上」；他指出這應許將永遠應驗：「無論這福音傳到甚麼地方……這婦人所做的事也要被傳講，作為記念她」。論到猶大：「他是自己主動來到他們那裏，為了錢財而如此行」；「他們就與他約定，給他三十塊錢」。論到客西馬尼，屈梭多模寫道：「我的心靈甚是憂傷，幾乎要死」，顯明基督真實的人性；祂的禱告「若是可能，求叫這杯離開我；然而不要照我的意思，只要照你的意思」，「並非表演出來的姿態，而是為要證實道成肉身的真實性」。論到門徒的沉睡：「你們不能與我警醒片時嗎？總要警醒禱告，免得入了迷惑；你們心靈固然願意，肉體卻軟弱了」——他強調這責備不僅針對彼得，也針對所有曾應許同死卻仍軟弱的門徒。論到被捕的時刻，他指出基督的鎮定：「你們睡吧，安歇吧！時候到了，人子被賣在罪人手裏了」，「起來，我們走吧！看哪，那賣我的人近了」——這顯明基督是出於預知與甘心，而非軟弱，順服在神的安排之下。論到彼得的否認，他寫道：「即使被基督提醒自己的罪，他也不敢公開哭泣，唯恐被自己的眼淚出賣，於是他出去，痛哭」；他也解釋雞叫兩次的記載差異：「雞在每次啼叫時，通常會叫第三次、第四次」，馬可特別記載第二次雞叫，「為要顯明，就連雞叫聲也未能使他清醒、回轉」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 80 (on Matt 26:6-16), Homily 83 (on Matt 26:36-46), and Homily 85 (on Matt 26:69-75), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到最後晚餐，加爾文強調：「餅被稱為他的身體，是因為它是基督身體的記號」——他藉此駁斥將餅本身等同於基督肉身的教義；他勸勉信徒，領受聖餐前「當各自思想，自己的罪已經藉此得了贖」。論到客西馬尼，他寫道：「若我們因基督經歷懼怕與憂傷而感到羞愧，我們的救贖就要落空、喪失」——祂的受苦，「是甘心樂意的，是為了成就父的旨意，也是為了我們的救恩」。論到門徒的沉睡，他指出這反映了「人性普遍的軟弱」——「連片刻都不能與我警醒」的責備，同樣適用於每一個信徒。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到伯大尼的膏抹，麥克阿瑟指出：「她向我做了一件美事……做得極好……做得美麗。這不是浪費」；「敬拜基督的委身，才是至高的優先——關懷窮人固然重要，敬拜主更加重要」；她「無法阻止祂的死亡，卻能藉這奢華的膏抹，表達她的愛」。論到最後晚餐，他寫道：「舊的已經過去，新的已經來到」；「基督，我們逾越節的羔羊，已經被殺」（林前5:7）；論到猶大「那人沒有出生倒好」，他稱這是「聖經中對人當負之責任最強烈的一句宣告」。論到客西馬尼，他解釋：「阿爸，意即爸爸、親愛的爸——這是一種親密的稱呼。猶太人絕不會直接稱神為父，更不用說阿爸了」；「杯，是舊約中神忿怒的象徵」；「祂之所以掙扎，是因為聖潔的大能，是祂裏面唯一存在的力量」；祂最終的順服，建立在「對父復活應許的信靠」（詩16:10）之上。論到彼得三次不認主，麥克阿瑟指出：「敗壞是徹底的……延伸到人性的每一個層面」；「自恃、自信、個人的驕傲就是罪——正是罪的箭頭所在」；然而「他的宣認失敗了，他的勇氣失敗了，他的信心卻沒有失敗」——這失敗最終將塑造他成為能夠「因為親身經歷軟弱的功課，而堅固弟兄」的使徒。
+> — John MacArthur, *Players in the Drama of the Cross, Part 2* (41-72), *The New Passover* (41-73), *The Agony of the Cup* (41-75), *Peter's Denial: A Warning About Self-Confidence* (41-78), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到這一整段，摩根指出：「這段的主導基調是情感的——情感的懸念、壓抑、表達、謹慎、勇氣」；祭司長「滿懷仇恨……心懷懼怕……卻又暗自歡喜」；論到猶大：「不是因為他關心窮人，而是因為他是個賊」——「恰恰在他權柄的核心，正藏著他的軟弱」；論到那女人：「唯獨這一位婦人，在眾人當中，看透了這一切」，她的舉動「是出於愛的浩大，不計算代價的衝動」。論到最後晚餐：「主的聖餐至高的價值，是情感性的，而非知識性的」。論到客西馬尼，摩根寫道，這是「完全的相交」——「話語與那至高無上之言合而為一：父啊，願你的旨意成就，不要照我的意思」；門徒的沉睡，「是心思的遲鈍，也是靈裏的軟弱」；彼得動刀，「是有熱心，卻沒有知識」；耶穌的溫柔：「你們現在只管睡覺安歇吧」。論到受審，摩根指出這是「一場非法的聚集」——公會既不能在夜間合法聚會，也不能當日判決；假見證「是最邪惡的一種謊言，因其中摻雜著部分的真實」，「他們的見證各不相符」。基督的「我是」「使一切假見證都失去了作用」。論到彼得：「他侮辱了自己的理智……甚至墮落到起誓的地步」；摩根以此章末了的畫面作結：「一個剛強的人，卻流下眼淚」。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapters XXV-XXVII
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：最後晚餐、客西馬尼、被捕 (Ask Elder Wong)
+
+**精義一句話**：耶穌在客西馬尼三次禱告「將這杯撤去，然而不是照我所願的」，彼得卻三次不認主——同一個夜晚，一個在極度痛苦中選擇順服，一個在輕微的壓力下選擇背棄；這一章要我們看見，順服從來不是靠人的堅強，而是靠與父深厚的相交。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：36節「阿爸，父啊！在你凡事都能；求你將這杯撤去。然而，不是照我所願的，而是照你所願的」是整章的核心禱告。你若把這句禱告放在自己此刻的處境裏重讀一次，會不會發現這正是每個信徒最終都要學習的禱告？
+- **那女人打破玉瓶、傾倒全部香膏，被批評為「浪費」**——你今天對基督的敬拜與奉獻，是計算著「值不值得」，還是像她一樣不計代價？
+- **彼得在晚餐時信誓旦旦「必不會不認你」，卻在幾小時後三次否認**——你有沒有經歷過類似的落差：口頭上信心滿滿，行動上卻軟弱跌倒？
+
+**整本聖經的連結**：耶穌設立聖餐時宣告「這是我立約的血」，直接呼應出埃及記24:8摩西在西奈山下用祭牲的血「灑在百姓身上」、宣告「這是耶和華與你們立約的血」——舊約的立約之血指向動物的犧牲，如今耶穌親自成為那立約之血的終極獻祭，開啟了耶利米書31:31所應許的「新約」。另一條線索：以賽亞書53:7「他被欺壓，在受苦的時候卻不開口；他像羔羊被牽去宰殺」——耶穌在該亞法面前「不言語，一句也不回答」，正是這受苦僕人異象的具體應驗。
+
+**讓話語住在裡面**：門徒在客西馬尼「總要警醒禱告，免得陷入試探」的呼召前睡著了——這提醒我們，屬靈的軟弱往往不是因為缺乏心志，而是因為疏於警醒禱告。默想：我生命中，有沒有一個像客西馬尼的「試探時刻」，是我需要更警醒禱告、而非單靠自己的意志力去面對的？今天的實踐：為一件你知道自己容易失敗的軟弱，具體地花時間禱告，而不是單憑決心。
+
+**你看見耶穌了嗎**：在接受奢華奉獻的溫柔裏、在設立聖餐宣告自己身體與血的莊嚴裏、在客西馬尼極度痛苦卻仍完全順服的禱告裏、在被出賣被捕卻依然鎮定的權柄裏，你看見的，是那位甘願走上十字架、卻不是被迫、而是甘心順服父旨意的基督——祂知道軟弱的滋味，也親自為軟弱的門徒（包括你我）代求。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **14:3-9 把最好的給主，不是浪費，而是最高的智慧**：華人文化講求「實用」與「性價比」，這女人的奉獻卻示範了：對基督毫無保留的敬拜，本身就是最高的智慧與價值，不能用世俗的效益衡量。
+- **14:50 門徒都逃走——在壓力下我們可能也會**：華人文化重視「忠誠」與「義氣」，門徒的逃跑提醒我們：在真正的壓力測試下，人的忠誠往往比自己想像的更脆弱，唯有倚靠主才能站立得住。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*'Tis Midnight, and on Olive's Brow*（夜半，在橄欖山巔）
+
+> 'Tis midnight, and on Olive's brow the star is dimmed that lately shone;
+> 'tis midnight; in the garden now, the suffering Savior prays alone.
+>
+> — William B. Tappan (1822)
+
+**詩篇**：詩篇 55:4-6, 16-17
+
+> 我心在我裏面甚是疼痛；死的恐怖落在我身上。
+> 恐懼戰兢臨到了我，戰慄籠罩了我。
+> 我說：「但願我有翅膀像鴿子，我就飛去，得享安息。」
+> 至於我，我要求告神；耶和華必拯救我。
+> 我要晚上、早晨、晌午哀聲悲歎；他也必聽我的聲音。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **奢華的敬拜**：那女人打破玉瓶、獻上極貴的香膏——你今天對基督的敬拜與委身，有沒有類似「不計代價」的成分？
+
+2. **聖餐的意義**：耶穌設立聖餐，宣告餅與杯代表祂的身體與立約的血——你今天領受聖餐時，是否真實默想這背後所代表的犧牲與新約？
+
+3. **客西馬尼的禱告**：「不是照我所願的，而是照你所願的」——你今天面對難以承受的處境時，是否也能像耶穌一樣，在痛苦中仍然選擇順服神的旨意？
+
+4. **軟弱中的恩典**：彼得三次不認主，卻在悔改的眼淚中沒有被丟棄——你今天是否也需要在自己的軟弱與失敗中，重新經歷神赦免與恢復的恩典？
+
+### 禱告回應
+
+> 主啊，感謝你設立聖餐，讓我們藉著餅與杯，紀念你為我們捨命流血的大愛。
+> 求你賜我像那女人一樣，甘心為你獻上最珍貴的敬拜，不計較世俗的眼光。
+> 求你教導我，在自己的客西馬尼裏，也能說：不是照我所願的，而是照你所願的。
+> 求你赦免我在軟弱中對你的否認，如同你赦免了彼得，也使用他的軟弱，成就更大的服事。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 那女人的奉獻被旁人視為「浪費」，耶穌卻稱之為「美事」——這對我們今天衡量「奉獻的價值」的標準，有什麼提醒？
+
+2. 耶穌在逾越節設立聖餐，將古老的節期賦予全新的意義——這對我們理解舊約與新約之間的連續性與應驗關係，有什麼幫助？
+
+3. 客西馬尼園裏，耶穌「驚恐起來，極其難過」——這對我們理解基督真實的人性，以及祂完全理解我們痛苦掙扎的心，有什麼安慰？
+
+4. 「你們心靈固然願意，肉體卻軟弱了」——這句話對我們理解屬靈爭戰中意志與軟弱之間的張力，有什麼實際的提醒？
+
+5. 彼得三次不認主後「忍不住哭了」——這哭泣本身，對我們理解真實的悔改與絕望的自責之間的分別，有什麼啟發？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第十五章：審判、十字架、埋葬 (Trial, Crucifixion, Burial)
+
+馬可福音 15:1-47
+
+**經文核對**：[ai-eden.com/bible/mark/15](https://www.ai-eden.com/bible/mark/15?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+彼拉多三次尋求釋放耶穌的機會，群眾卻三次喊著「把他釘十字架」——僕人基督被鞭打、戲弄、釘死在各各他。正午時分，全地黑暗了三個小時；下午三點，耶穌大聲喊著：「以羅伊！以羅伊！拉馬撒巴各大尼？」「我的神，我的神！為甚麼離棄我？」祂斷氣的那一刻，聖殿的幔子從上到下裂為兩半，一位羅馬百夫長脫口而出：「這人真是神的兒子！」全馬可福音把耶穌的身分反覆藏在「彌賽亞的祕密」裏，如今卻在十字架上，由一個外邦軍官親口宣告出來。這一章是全書的高峰——僕人基督捨命作多人贖價的宣告（10:45），在各各他成就了。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Ah, Holy Jesus**
+> *Johann Heermann, 1630*
+>
+> Ah, holy Jesus, how hast Thou offended,
+> That man to judge Thee hath in hate pretended?
+> By foes derided, by Thine own rejected,
+> O most afflicted!
+>
+> 主啊，你何等聖潔，卻遭這樣的冒犯；
+> 世人竟審判你，出於何等的憎恨？
+> 被仇敵譏誚，被自己的子民棄絕，
+> 何等的傷痛！
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**彼拉多前受審**
+
+> \textsuperscript{1}一到早晨，眾祭司長、長老、文士，和全議會的人大家商議，就把耶穌綁著，解去，交給彼拉多。\textsuperscript{2}彼拉多問他：「你是猶太人的王嗎？」耶穌回答：\jesus{「是你說的。」}\textsuperscript{3}祭司長們告他許多的事。\textsuperscript{4}彼拉多又問他：「你看，他們告你這麼多的事，你甚麼都不回答嗎？」\textsuperscript{5}耶穌仍不回答，以致彼拉多覺得驚訝。
+
+**巴拉巴被釋放**
+
+> \textsuperscript{6}每逢這節期，彼拉多照眾人所求的，釋放一個囚犯給他們。\textsuperscript{7}有一個人名叫巴拉巴，和作亂的人監禁在一起。他們作亂的時候曾殺過人。\textsuperscript{8}眾人上去求彼拉多照常例給他們辦理。\textsuperscript{9}彼拉多說：「你們要我釋放猶太人的王給你們嗎？」\textsuperscript{10}他原知道祭司長們是因嫉妒才把耶穌解了來。\textsuperscript{11}但是祭司長們煽動眾人，寧可要他釋放巴拉巴給他們。\textsuperscript{12}彼拉多又說：「那麼，你們稱為猶太人的王的，要我怎麼辦他呢？」\textsuperscript{13}他們又再喊著：「把他釘十字架！」\textsuperscript{14}彼拉多說：「為甚麼？他做了甚麼惡事呢？」他們更加喊著：「把他釘十字架！」\textsuperscript{15}彼拉多要討好眾人，就釋放巴拉巴給他們，把耶穌鞭打後交給人釘十字架。
+
+**戲弄、被釘十字架**
+
+> \textsuperscript{16}士兵把耶穌帶進總督府的庭院裏，叫齊了全營的兵。\textsuperscript{17}他們給他穿上紫袍，又用荊棘編了冠冕給他戴上，\textsuperscript{18}然後向他致敬，說：「萬歲，猶太人的王！」\textsuperscript{19}他們又拿一根蘆葦稈打他的頭，向他吐唾沫，屈膝拜他。\textsuperscript{20}他們戲弄完了，就給他脫了紫袍，又穿上他自己的衣服，帶他出去，要把他釘十字架。
+
+> \textsuperscript{21}有一個古利奈人西門，就是亞歷山大和魯孚的父親，從鄉下來，經過那地方，他們就強迫他同去，好背耶穌的十字架。\textsuperscript{22}他們帶耶穌到了一個地方叫各各他（翻出來就是「髑髏地」），\textsuperscript{23}拿沒藥調和的酒給耶穌，他卻不受。\textsuperscript{24}於是他們把他釘在十字架上，抽籤分他的衣服，看誰得甚麼。\textsuperscript{25}他們把他釘十字架的時候是上午九點鐘。\textsuperscript{26}罪狀牌上寫的是：「猶太人的王。」\textsuperscript{27}他們又把兩個強盜和他同釘十字架，一個在右邊，一個在左邊。
+
+**十架上的戲弄、死亡**
+
+> \textsuperscript{29}從那裏經過的人辱罵他，搖著頭，說：「哼！你這拆毀聖殿、三日又建造起來的，\textsuperscript{30}救你自己，從十字架上下來吧！」\textsuperscript{31}祭司長們和文士也是這樣戲弄他，彼此說：「他救了別人，不能救自己。\textsuperscript{32}以色列的王基督，現在從十字架上下來，好讓我們看見，就信了。」與他同釘的人也辱罵他。
+
+> \textsuperscript{33}到了正午，全地都黑暗了，直到下午三點。\textsuperscript{34}三點的時候，耶穌大聲喊著說：\jesus{「以羅伊！以羅伊！拉馬撒巴各大尼？」}翻出來就是：\jesus{「我的神，我的神！為甚麼離棄我？」}\textsuperscript{35}旁邊站著的人，有的聽見就說：「看哪，他叫以利亞呢！」\textsuperscript{36}有一個人跑去，把海綿蘸滿了醋，綁在蘆葦稈上，送給他喝，說：「且等著，看以利亞來不來把他取下。」\textsuperscript{37}耶穌大喊一聲，氣就斷了。
+
+**幔子裂開、百夫長的宣告**
+
+> \textsuperscript{38}殿的幔子從上到下裂為兩半。\textsuperscript{39}對面站著的百夫長看見耶穌這樣氣絕，就說：「這人真是神的兒子！」
+
+> \textsuperscript{40}還有些婦女從遠處觀看，內中有抹大拉的馬利亞，又有小雅各和約西的母親馬利亞，以及撒羅米，\textsuperscript{41}就是耶穌在加利利的時候，跟隨他、服事他的那些人，還有其他好些同他上耶路撒冷的婦女也在那裏。
+
+**埋葬**
+
+> \textsuperscript{42}到了傍晚，因為這是預備日，就是安息日的前一日，\textsuperscript{43}有亞利馬太的約瑟前來，他是尊貴的議員，也是等候神國的。他放膽去見彼拉多，要求耶穌的身體。\textsuperscript{44}彼拉多詫異耶穌已經死了，就叫百夫長來，問他耶穌死了多久。\textsuperscript{45}既從百夫長得知實情，就把屍體賜給約瑟。\textsuperscript{46}約瑟買了細麻布，把耶穌取下來，用細麻布裹好，安放在磐石中鑿出來的墓穴裏，又滾過一塊石頭來擋住墓門。\textsuperscript{47}抹大拉的馬利亞和約西的母親馬利亞都看見安放他的地方。
+
+*（第28節缺，和合本修訂版依照最古老抄本，未收錄後期抄本補入引自賽53:12「他被列在罪犯之中」的插句。）*
+
+### English — ESV
+
+> \textsuperscript{1}And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. And they bound Jesus and led him away and delivered him over to Pilate. \textsuperscript{2}And Pilate asked him, "Are you the King of the Jews?" And he answered him, \jesus{"You have said so."} \textsuperscript{3}And the chief priests accused him of many things. \textsuperscript{4}And Pilate again asked him, "Have you no answer to make? See how many charges they bring against you." \textsuperscript{5}But Jesus made no further answer, so that Pilate was amazed.
+
+> \textsuperscript{6}Now at the feast he used to release for them one prisoner for whom they asked. \textsuperscript{7}And among the rebels in prison, who had committed murder in the insurrection, there was a man called Barabbas. \textsuperscript{8}And the crowd came up and began to ask Pilate to do as he usually did for them. \textsuperscript{9}And he answered them, saying, "Do you want me to release for you the King of the Jews?" \textsuperscript{10}For he perceived that it was out of envy that the chief priests had delivered him up. \textsuperscript{11}But the chief priests stirred up the crowd to have him release for them Barabbas instead. \textsuperscript{12}And Pilate again said to them, "Then what shall I do with the man you call the King of the Jews?" \textsuperscript{13}And they cried out again, "Crucify him." \textsuperscript{14}And Pilate said to them, "Why? What evil has he done?" But they shouted all the more, "Crucify him." \textsuperscript{15}So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged Jesus, he delivered him to be crucified.
+
+> \textsuperscript{16}And the soldiers led him away inside the palace (that is, the governor's headquarters), and they called together the whole battalion. \textsuperscript{17}And they clothed him in a purple cloak, and twisting together a crown of thorns, they put it on him. \textsuperscript{18}And they began to salute him, "Hail, King of the Jews!" \textsuperscript{19}And they were striking his head with a reed and spitting on him and kneeling down in homage to him. \textsuperscript{20}And when they had mocked him, they stripped him of the purple cloak and put his own clothes on him. And they led him out to crucify him.
+
+> \textsuperscript{21}And they compelled a passerby, Simon of Cyrene, who was coming in from the country, the father of Alexander and Rufus, to carry his cross. \textsuperscript{22}And they brought him to the place called Golgotha (which means Place of a Skull). \textsuperscript{23}And they offered him wine mixed with myrrh, but he did not take it. \textsuperscript{24}And they crucified him and divided his garments among them, casting lots for them, to decide what each should take. \textsuperscript{25}And it was the third hour when they crucified him. \textsuperscript{26}And the inscription of the charge against him read, "The King of the Jews." \textsuperscript{27}And with him they crucified two robbers, one on his right and one on his left.
+
+> \textsuperscript{29}And those who passed by derided him, wagging their heads and saying, "Aha! You who would destroy the temple and rebuild it in three days, \textsuperscript{30}save yourself, and come down from the cross!" \textsuperscript{31}So also the chief priests with the scribes mocked him to one another, saying, "He saved others; he cannot save himself. \textsuperscript{32}Let the Christ, the King of Israel, come down now from the cross that we may see and believe." Those who were crucified with him also reviled him.
+
+> \textsuperscript{33}And when the sixth hour had come, there was darkness over the whole land until the ninth hour. \textsuperscript{34}And at the ninth hour Jesus cried with a loud voice, \jesus{"Eloi, Eloi, lema sabachthani?"} which means, \jesus{"My God, my God, why have you forsaken me?"} \textsuperscript{35}And some of the bystanders hearing it said, "Behold, he is calling Elijah." \textsuperscript{36}And someone ran and filled a sponge with sour wine, put it on a reed and gave it to him to drink, saying, "Wait, let us see whether Elijah will come to take him down." \textsuperscript{37}And Jesus uttered a loud cry and breathed his last.
+
+> \textsuperscript{38}And the curtain of the temple was torn in two, from top to bottom. \textsuperscript{39}And when the centurion, who stood facing him, saw that in this way he breathed his last, he said, "Truly this man was the Son of God!"
+
+> \textsuperscript{40}There were also women looking on from a distance, among whom were Mary Magdalene, and Mary the mother of James the younger and of Joses, and Salome. \textsuperscript{41}When he was in Galilee, they followed him and ministered to him, and there were also many other women who came up with him to Jerusalem.
+
+> \textsuperscript{42}And when evening had come, since it was the day of Preparation, that is, the day before the Sabbath, \textsuperscript{43}Joseph of Arimathea, a respected member of the council, who was also himself looking for the kingdom of God, took courage and went to Pilate and asked for the body of Jesus. \textsuperscript{44}Pilate was surprised to hear that he should have already died. And summoning the centurion, he asked him whether he was already dead. \textsuperscript{45}And when he learned from the centurion that he was dead, he granted the corpse to Joseph. \textsuperscript{46}And Joseph bought a linen shroud, and taking him down, wrapped him in the linen shroud and laid him in a tomb that had been cut out of the rock. And he rolled a stone against the entrance of the tomb. \textsuperscript{47}Mary Magdalene and Mary the mother of Joses saw where he was laid.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+羅馬總督彼拉多有權判決死刑，猶太公會沒有這項權柄，這是耶穌必須被解送到彼拉多面前的原因。逾越節釋放囚犯的習俗未見於猶太文獻記載，卻與羅馬時期地方官員藉赦免囚犯籠絡民心的做法相符。十字架刑是羅馬用於奴隸與叛亂者最羞辱、最殘酷的刑罰，猶太人視「掛在木頭上的，是被神詛咒的」（申21:23）——保羅後來在加拉太書3:13直接引用這節經文，宣告基督「為我們成了詛咒」。「以羅伊！以羅伊！拉馬撒巴各大尼」是亞蘭文，直接引自詩篇22:1的開頭；聖殿的幔子隔開至聖所與聖所，象徵神與人之間因罪而有的隔絕。
+
+### 文學結構：全書身分祕密的公開揭曉
+
+馬可福音自1:1起便宣告耶穌是「神的兒子」，此後這身分反覆被污靈認出（1:24, 3:11, 5:7）、被天父兩次印證（1:11, 9:7），卻始終被吩咐要保密（1:34, 3:12, 8:30, 9:9）——這就是著名的「彌賽亞秘密」。如今在十字架下，一位羅馬百夫長，一個完全在猶太宗教體系之外的外邦軍人，親眼見證耶穌斷氣的方式，脫口而出：「這人真是神的兒子！」這是全書第一次，也是唯一一次，由一個人在耶穌在世時公開、清楚地如此宣告——而這宣告的時機，正是在十字架之下、在祂捨命之後。全章環繞著十字架的中心意象展開：黑暗籠罩全地、幔子從上到下裂開、百夫長的宣告——馬可要讀者看見：唯有在十字架的光照下，才能真正認出耶穌是誰。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *phragellōsas* | phragellōsas | 鞭打 | 15節，羅馬鞭刑極其殘酷，常使受刑者皮開肉綻，是釘十字架前的例行程序 |
+| *staurōsōsin* | staurōsōsin | 釘十字架 | 15, 20, 24, 25, 27節，全章反覆出現的核心動詞 |
+| *Elōi Elōi lema sabachthani* | Elōi Elōi lema sabachthani | 我的神，我的神，為甚麼離棄我 | 34節，亞蘭文引自詩22:1，馬可特意保留原文發音 |
+| *exepneusen* | exepneusen | 氣就斷了 | 37, 39節，字面「呼出最後一口氣」 |
+| *to katapetasma* | to katapetasma | 幔子 | 38節，隔開聖所與至聖所的厚重簾幕 |
+| *hyios theou* | hyios theou | 神的兒子 | 39節，百夫長的宣告，呼應1:1全書的開卷宣告 |
+
+### 「我的神，我的神，為甚麼離棄我」的雙重深度
+
+耶穌在十字架上的呼喊，直接引用詩篇22:1的開頭——這首詩篇以極度的絕望開始，卻在後半段（22:22-31）轉向對神拯救的堅定確信與讚美。耶穌引用這首詩篇的第一句，很可能同時召喚了整首詩篇的內容：祂真實經歷著被離棄的極致痛苦（承擔世人的罪、與父暫時的隔絕），卻也同時活在詩篇後段所應許的、對神最終得勝的確信裏——這正是十字架奧祕的核心：真實的離棄與不變的信靠同時並存。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 無辜之人被判死刑，彰顯人心的敗壞 (An Innocent Man Condemned, Revealing Human Depravity)
+
+彼拉多多次承認查不出耶穌的罪，卻仍因懼怕群眾、討好眾人而將祂交付釘十字架——這幅畫面赤裸裸地揭示：人的司法、宗教、群眾心理，在面對真理時可能何等徹底地敗壞與扭曲。
+
+### 2. 基督替代罪人受死 (Christ Died as a Substitute for Sinners)
+
+巴拉巴本是該死的叛亂殺人犯，卻因耶穌代替他受死而得釋放——這幅具體的圖畫，正是十字架代贖真理最鮮明的寫照：無罪的替有罪的受死，罪人因此得以自由。
+
+### 3. 黑暗與離棄，是承擔世人罪孽的記號 (Darkness and Forsakenness Mark the Bearing of the World's Sin)
+
+正午的黑暗與耶穌「為甚麼離棄我」的呼喊，是聖經中最深沉的奧祕之一——那與父原本毫無間隔、彼此同在的聖子，在十字架上經歷了與父暫時隔絕的痛苦，為要擔當世人本該承受的審判。
+
+### 4. 幔子裂開，宣告親近神的道路已經打通 (The Torn Veil Declares Access to God Opened)
+
+聖殿幔子「從上到下」裂開（暗示這是神自己的作為，而非人手所為），象徵著長久以來因罪而有的隔絕，如今因基督的死而被拆除——凡靠著基督的人，如今都可以坦然無懼地來到神的施恩座前（來10:19-20）。
+
+### 5. 外邦百夫長的宣告，預告福音要臨到萬民 (The Gentile Centurion's Confession Foreshadows the Gospel to All Nations)
+
+在猶太宗教領袖徹底棄絕耶穌的同時，一位羅馬百夫長卻宣告「這人真是神的兒子」——這幅對比預告了馬可福音更廣的異象：福音終將跨越族裔的界線，臨到萬國萬民。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到十字架上的黑暗，屈梭多模指出：「這並非日蝕，而是神的忿怒與義怒的彰顯……它持續了三個小時之久，但日蝕只在一瞬之間發生」——他藉此區分自然現象與神蹟性的黑暗。論到耶穌最終的呼喊，他寫道：「這是要顯明，這是出於權柄而斷氣的」，強調耶穌是主動交出自己的生命，而非被動地被剝奪生命。論到幔子的撕裂，他引證：「這呼喊撕裂了幔子，開了墳墓，使聖殿變得荒涼」，將幔子的撕裂與其他伴隨的神蹟性記號並列，顯明審判與新時代開啟的雙重意義。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 88 (on Matt 27:45-50 and following), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到耶穌十字架上的呼喊，加爾文堅決反對將這句話僅僅理解為引用詩篇開頭以喚起整首詩篇的修辭手法，他寫道：「祂不僅獻上自己的身體作為我們與神和好的代價，在祂的靈魂裏，祂也承擔了我們本該承受的刑罰」；他批評那些「將這救贖的這一部分擱置一旁，只單單注意肉身外在之刑罰」的解經者是「大錯特錯」；然而他也澄清：「儘管如此，在祂心裏，信心仍然堅定不移，藉這信心，祂仍然看見神的同在，儘管祂正抱怨神的缺席」——這句話同時道出基督真實承受的離棄之痛，以及祂內心從未動搖的信靠，這兩者並不矛盾，而是十字架奧祕不可分割的兩面。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到彼拉多的審判，麥克阿瑟指出這場審判真正的核心：「耶穌才是審判者」，儘管表面上彼拉多是審判耶穌的人，實際上「神正藉著基督的死，成就祂的旨意與救贖的目的」；他形容彼拉多「一心討好眾人」，是「他一生最可鄙的寫照」——一再宣告耶穌無罪，卻仍向群眾的壓力屈服。論到巴拉巴的釋放，他指出「巴拉巴」（*bar-abbas*）意為「父的兒子」，具有象徵意義：一個人間之父的兒子，取代了神聖之父的神聖兒子而得釋放。論到黑暗與十架的呼喊，他強調：「黑暗不是神缺席的記號，而是神完全同在的記號。這是神完全的審判之怒、完全的審判之烈，正在傾倒」；「並非神不在那刑罰之中，而是祂正說：你在安慰之中，又在哪裏呢？」——這預先展現了地獄本身的樣式：受刑卻沒有神安慰的同在。論到幔子的撕裂，他總結：「通往神面前的道路，如今向任何人完全敞開」，「這是利未祭司職分的終結，也是利未祭祀體系的終結」。論到百夫長的宣告，他指出這是馬可福音中，第一次由人（而非天使或神自己）作出這樣完全的宣告，且是出於一個外邦軍人之口。
+> — John MacArthur, *Pilate Before Jesus* (41-79), *God Visits Calvary* (41-82), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到「他救了別人，不能救自己」的譏誚，摩根寫道：「這是連他們自己都無法否認的事實」；「祂到處都有祂所拯救的人」。他指出耶穌其實有三條真實可行的自救之路：外交的（「彼拉多懇切地尋找脫身之計……只要耶穌一句話就足夠」）、群眾的（「群眾的呼喊不過是鸚鵡學舌」）、神能的（「我豈不能求我父，現在為我差遣十二營多的天使嗎？」）；然而轉折在於：「祂不能救自己」，因為「祂的無能，正是出於祂的能力；祂的軟弱，正是出於祂的剛強」。論到死亡與埋葬，摩根寫道：「上午九點鐘他們把祂釘了十字架……正午時分，超自然的黑暗籠罩了整個場景，下午三點，祂就氣絕了」；論到埋葬：「約瑟和尼哥德慕兩人，正在為那身體裹殮……而兩位婦人——抹大拉的馬利亞和耶穌的母親馬利亞——正在觀看」；「一塊石頭擋住了墓門」。摩根將這墳墓視為死亡的四重象徵：「一個死去的神觀……一個死去的人性理想……一個死去的救贖熱望……一個死去的宗教」；然而基督的使命「不是要創造全新的事物……而是要抓住那已經衰敗無力的，使它煥然一新」。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapters XXVIII-XXIX
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 22:1, 7-8, 16-18
+
+> **我的神，我的神，為甚麼離棄我？**為甚麼遠離不救我，不聽我唉哼的言語？
+> 凡看見我的都嗤笑我；他們撇嘴搖頭，說：「他把自己交託耶和華，耶和華可以救他吧！耶和華既喜悅他，可以搭救他吧！」
+> 犬類圍著我，惡黨環繞我；他們扎了我的手，我的腳。我的骨頭，我都能數過；他們卻瞪著眼看我。他們分我的外衣，為我的內衣拈鬮。
+
+耶穌在十字架上的第一句話，也是這首詩篇的第一句話——但詩篇22篇並未停在絕望裏（見22:22-31，轉向讚美與確信）。耶穌引用這開頭一句，很可能同時召喚了整首詩篇的軌跡：真實的離棄，與不變的信靠，同時並存。
+
+### 詩篇 69:20-21
+
+> 辱罵傷破了我的心，我又滿了憂愁；我指望有人體恤，卻沒有一個；我指望有人安慰，卻找不著一個。
+> 他們拿苦膽給我當食物；我渴了，他們拿醋給我喝。
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### O Sacred Head, Now Wounded
+
+> What Thou, my Lord, hast suffered was all for sinners' gain;
+> mine, mine was the transgression, but Thine the deadly pain.
+> Lo, here I fall, my Savior! 'Tis I deserve Thy place;
+> look on me with Thy favor, vouchsafe to me Thy grace.
+
+這首詩歌把十字架從一段遙遠的歷史敘事，帶回到每一個唱詩者眼前：受苦的是祂，該受苦的卻是我。默想這首詩歌時，不要只停在「祂為我受苦」的知識層面，求主讓這句話落到心裏，成為今天悔改與感恩的起點。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：審判、十字架、埋葬 (Ask Elder Wong)
+
+**精義一句話**：「這人真是神的兒子！」——這句宣告出自一個外邦百夫長之口，正是在耶穌斷氣的那一刻——馬可要我們看見：唯有站在十字架下，才能真正認出這位僕人基督的身分。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：39節「這人真是神的兒子！」呼應1:1全書的開卷宣告「神的兒子，耶穌基督福音的起頭」——首尾呼應，宣告十字架正是全書的中心與高潮。你若把這兩句話放在一起讀，會不會發現：認識耶穌是誰，最終必須經過十字架？
+- **巴拉巴是該死的殺人犯，卻因耶穌代替他受死而得釋放**——這幅圖畫如何幫助你更具體地在生命中領受「代贖」，而不只是抽象的教義？
+- **耶穌在十字架上呼喊「為甚麼離棄我」，引用的是詩篇22篇——這首詩篇卻在後半段轉向堅定的讚美與確信**——你覺得耶穌引用這句話，只是表達絕望，還是也同時召喚了整首詩篇最終的盼望？
+
+**整本聖經的連結**：申命記21:23「凡掛在木頭上的都是被神詛咒的」——保羅在加拉太書3:13直接引用這節經文，宣告「基督既為我們受了咒詛，就贖出我們脫離律法的咒詛」；耶穌被掛在十字架（木頭）上，親自承擔了這咒詛，使我們得以脫離。另一條線索：聖殿幔子的撕裂應驗了希伯來書10:19-20「因耶穌的血，得以坦然進入至聖所，是藉著他給我們開了一條又新又活的路，從幔子經過，這幔子就是他的身體」——幔子的撕裂與基督身體的破碎，是同一個救贖真理的兩種表達。
+
+**讓話語住在裡面**：彼拉多明知耶穌無罪，卻因討好群眾而將祂交付釘十字架——這提醒我們，屈從於群眾壓力、迴避為真理站立，可能導致何等嚴重的後果。默想：我生命中，有沒有一個像彼拉多一樣，明知真相卻因懼怕代價而妥協的處境？今天的實踐：為一件你一直因懼怕他人眼光而迴避的真理立場，做出具體的、哪怕微小的堅持。
+
+**你看見耶穌了嗎**：在無辜受審卻沉默不辯的忍耐裏、在十字架上為世人承擔咒詛的犧牲裏、在「為甚麼離棄我」的深沉呼喊裏、在幔子裂開所宣告的敞開道路裏、在百夫長口中「這人真是神的兒子」的宣告裏，你看見的，正是那位僕人基督最終極的服事——祂捨命，作多人的贖價（10:45），而這贖價，此刻已經在各各他付清。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **15:34「我的神！為甚麼離棄我？」**：基督為我們承受被神棄絕的痛苦——十字架最深的奧祕。華人文化避諱直視苦難與絕望，這節經文卻邀請我們，誠實面對十字架最黑暗、卻也最深情的一刻。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+十字架不是孤立的一天，是整本聖經指向的那一刻：申21:23「凡掛在木頭上都是被神詛咒的」，加3:13說基督「為我們成了咒詛」；賽53:5「因他受的鞭傷，我們得醫治」；詩22篇從絕望的呼喊走到22:31「將他的公義傳給將要生的民」——十字架不是故事的中斷，是整卷聖經的軸心。
+
+### 提問式對話 (Let the Reader Speak)
+
+- 先問：「彼拉多明知耶穌無罪，為甚麼還是把祂交出去？」
+- 再問：「巴拉巴聽見自己被釋放的那一刻，會想到誰替他死了嗎？」
+- 追問：「耶穌從始至終只在十架上說了這一句話——為甚麼是這一句，而不是別的？」
+- 落到自己：「這人真是神的兒子」——這句話是百夫長看見耶穌怎樣死才說出來的，你呢，你是看見了什麼才願意這樣宣告？
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的世界習慣把苦難當作要被優化、被解決、被繞過的問題，很少人願意像耶穌那樣，選擇沉默承受、不為自己辯護。演算法會建議你「如何脫身」，卻沒有一個演算法能教你「如何捨命」。十字架提醒我們：有些愛，只能用代價來證明，不能用效率來計算。
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：對主說：今天若有人誤解我、冤枉我，求你幫助我像你一樣，把伸冤的權柄交給你。
+- **晚上**：今天我有沒有一次，像彼拉多一樣，明知道是非，卻選擇討好眾人？
+- **一個行動**：今天為一件「不划算」的真理或良心，做一次不計代價的堅持。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「這人真是神的兒子！」——一個外邦百夫長，在耶穌斷氣的那一刻說出了全書開卷（1:1）就已宣告的身分；十字架不是身分的隱藏，是身分的揭曉。
+
+**貫通全經**：申21:23「掛在木頭上的是被咒詛的」——加3:13說基督親自承擔了這咒詛，使我們得以脫離。
+
+**無法迴避的問題**：巴拉巴因耶穌代死而得釋放——你是否真實承認，自己也是那個本該被定罪、卻因耶穌代死而得自由的巴拉巴？
+
+> 「祂沒有從十字架上下來，證明祂是神的兒子；祂留在十字架上，才證明了這件事。」
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*O Sacred Head, Now Wounded*（曾為我等罪愆）
+
+> O sacred Head, now wounded, with grief and shame weighed down,
+> now scornfully surrounded with thorns, Thine only crown;
+> O sacred Head, what glory, what bliss till now was Thine!
+> Yet, though despised and gory, I joy to call Thee mine.
+>
+> — Bernard of Clairvaux (attributed, 12th c.), trans. James W. Alexander (1830)
+
+**詩篇**：詩篇 22:1, 16-18, 27-28
+
+> 我的神，我的神，為甚麼離棄我？為甚麼遠離不救我，不聽我唉哼的言語？
+> 犬類圍著我，惡黨環繞我；他們扎了我的手，我的腳。
+> 我的骨頭，我都能數過；他們卻瞪著眼看我。
+> 他們分我的外衣，為我的內衣拈鬮。
+> 地的四極都要想念耶和華，並且歸順他；列國的萬族都要在你面前敬拜。
+> 因為國權是耶和華的，他是掌權的，統治萬國。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **無辜受審的忍耐**：耶穌在明知真相的情況下，仍選擇沉默不辯——你今天在受到不公平對待時，是否也能效法祂的忍耐，將自己的伸冤交託給神？
+
+2. **代贖的真實**：巴拉巴因耶穌的死而得釋放——你是否真實地明白，自己也是那個「本該被定罪，卻因耶穌代死而得自由」的巴拉巴？
+
+3. **十架的孤獨**：耶穌經歷了與父暫時隔絕的痛苦——這對你理解祂完全承擔了你我本該承受的審判，有什麼樣的震撼與感恩？
+
+4. **道路已經打通**：聖殿幔子裂開，宣告親近神的道路已經敞開——你是否活在這敞開的恩典裏，坦然無懼地親近神，而不是仍然活在律法式的隔閡與懼怕中？
+
+### 禱告回應
+
+> 主啊，感謝你在十字架上，親自承擔了我本該承受的咒詛與審判。
+> 我今天承認，我就是那個因你代死而得釋放的巴拉巴。
+> 求你幫助我，在受到不公對待時，效法你忍耐不辯、將自己交託給神的榜樣。
+> 感謝你撕裂了幔子，使我可以坦然無懼地來到你面前，不再懼怕、不再隔絕。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 掛在木頭上的咒詛 | 15:24 | 申21:23、加3:13 |
+| 為甚麼離棄我 | 15:34 | 詩22:1, 22:22-31 |
+| 受苦僕人 | 15:16-20, 27 | 賽53:3-9 |
+| 代贖 | 15:6-15 | 賽53:5-6、羅5:8 |
+| 幔子裂開 | 15:38 | 來10:19-20、出26:31-33 |
+| 神的兒子 | 15:39 | 可1:1、太16:16 |
+| 平行敘事 | 15:1-47 | 太27:1-61、路23:1-56、約18:28-19:42 |
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+
+\newpage
+
+
+# 第十六章：復活、顯現、升天 (Resurrection, Appearances, Ascension)
+
+馬可福音 16:1-20
+
+**經文核對**：[ai-eden.com/bible/mark/16](https://www.ai-eden.com/bible/mark/16?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+安息日一過，幾個婦女帶著香料，要去膏耶穌的身體——她們以為自己要面對的是一具屍體，卻在墳墓裏遇見一位穿白袍的少年人，聽見一句翻轉一切的宣告：「你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏。」馬可福音在最古老的抄本中，以婦女們「又發抖又驚訝……甚麼也沒有告訴人，因為她們害怕」戛然而止——這個看似未完成的結尾，本身就是一種深刻的邀請：復活的信息，需要讀者自己去回應、去傳揚。後期抄本補上的「長結語」（9-20節），則進一步記載了主復活後的顯現、大使命的頒布，以及祂被接升天，坐在神的右邊。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Christ the Lord Is Risen Today**
+> *Charles Wesley, 1739*
+>
+> Christ the Lord is risen today, Alleluia!
+> Sons of men and angels say, Alleluia!
+> Raise your joys and triumphs high, Alleluia!
+> Sing, ye heavens, and earth reply, Alleluia!
+>
+> 今日基督已復活，哈利路亞！
+> 天使世人齊聲誇，哈利路亞！
+> 歡呼快樂聲高揚，哈利路亞！
+> 諸天大地齊頌揚，哈利路亞！
+
+---
+
+## 經文 (Scripture)
+
+### 中文 — 和合本修訂版 (RCUV)
+
+**空墳墓、天使的宣告**
+
+> \textsuperscript{1}過了安息日，抹大拉的馬利亞、雅各的母親馬利亞，和撒羅米，買了香料，要去膏耶穌的身體。\textsuperscript{2}七日的第一日清早，太陽出來後，她們來到墳墓那裏，\textsuperscript{3}彼此說：「誰要替我們把石頭從墓門滾開呢？」\textsuperscript{4}她們抬頭一看，看見石頭已經滾開了，原來那石頭很大。\textsuperscript{5}她們進了墳墓，看見一個年輕人坐在右邊，穿著白袍，就很驚奇。\textsuperscript{6}那年輕人對她們說：「不要驚慌！你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏。來看安放他的地方。\textsuperscript{7}你們去，對他的門徒和彼得說：『他要比你們先到加利利去，在那裏你們會看見他，正如他從前所告訴你們的。』」\textsuperscript{8}於是她們出來，從墳墓那裏逃走，又發抖又驚訝，甚麼也沒有告訴人，因為她們害怕。
+
+**（有些古卷有下列結語）**
+
+**短結語**
+
+> 她們把耶穌所吩咐的一切話，都簡略地告訴彼得和跟他一起的人。此後，耶穌藉著門徒親自把從東到西那神聖不朽、永恆救恩的信息傳揚出去。阿們。
+
+**長結語**
+
+> \textsuperscript{9}在七日的第一日清晨，耶穌復活後，先向抹大拉的馬利亞顯現，耶穌曾從她身上趕出七個鬼。\textsuperscript{10}她就去告訴那向來跟隨耶穌的人；那時他們正悲哀哭泣。\textsuperscript{11}他們聽見耶穌活了，被馬利亞看見，卻是不信。\textsuperscript{12}這事以後，門徒中有兩個人往鄉下去，走路的時候，耶穌用另一種形像向他們顯現，\textsuperscript{13}他們就去告訴其餘的門徒；其餘的門徒也是不信。\textsuperscript{14}後來，十一個使徒坐席的時候，耶穌向他們顯現，責備他們不信，心裏剛硬，因為他們不信那些在他復活以後看見他的人。\textsuperscript{15}他又對他們說：\jesus{「你們往普天下去，向萬民傳福音。\textsuperscript{16}信而受洗的必得救；不信的必被定罪。\textsuperscript{17}信的人必有神蹟隨著他們，就是奉我的名趕鬼；說新方言；\textsuperscript{18}手能拿蛇；若喝了甚麼致命的毒物，也絕不受害；手按病人，病人就必好了。」}\textsuperscript{19}主耶穌向他們說了這些話以後，就被接到天上，坐在神的右邊。\textsuperscript{20}門徒出去，到處傳福音，主和他們同工，藉著伴隨的神蹟證實所傳的道。
+
+*（人名附註：本章開頭的「雅各的母親馬利亞」與15:40「小雅各和約西的母親馬利亞」為同一人。經文附註：現存最古老、最可靠的抄本——包括西奈抄本與梵蒂岡抄本——均止於第8節；9-20節的「長結語」與另有的「短結語」，同見於後期較晚的抄本傳統。和合本修訂版依循國際慣例，以標題「有些古卷有下列結語」明確標示這段文字的抄本地位，不與1-8節同等視之，供讀者知悉並自行判斷。）*
+
+### English — ESV
+
+> \textsuperscript{1}When the Sabbath was past, Mary Magdalene, Mary the mother of James, and Salome bought spices, so that they might go and anoint him. \textsuperscript{2}And very early on the first day of the week, when the sun had risen, they went to the tomb. \textsuperscript{3}And they were saying to one another, "Who will roll away the stone for us from the entrance of the tomb?" \textsuperscript{4}And looking up, they saw that the stone had been rolled back—it was very large. \textsuperscript{5}And entering the tomb, they saw a young man sitting on the right side, dressed in a white robe, and they were alarmed. \textsuperscript{6}And he said to them, "Do not be alarmed. You seek Jesus of Nazareth, who was crucified. He has risen; he is not here. See the place where they laid him. \textsuperscript{7}But go, tell his disciples and Peter that he is going before you to Galilee. There you will see him, just as he told you." \textsuperscript{8}And they went out and fled from the tomb, for trembling and astonishment had seized them, and they said nothing to anyone, for they were afraid.
+
+> **[[Some of the earliest manuscripts do not include 16:9–20.]]**
+
+> \textsuperscript{9}Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons. \textsuperscript{10}She went and told those who had been with him, as they mourned and wept. \textsuperscript{11}But when they heard that he was alive and had been seen by her, they would not believe it. \textsuperscript{12}After these things he appeared in another form to two of them, as they were walking into the country. \textsuperscript{13}And they went back and told the rest, but they did not believe them. \textsuperscript{14}Afterward he appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had not believed those who saw him after he had risen. \textsuperscript{15}And he said to them, \jesus{"Go into all the world and proclaim the gospel to the whole creation. \textsuperscript{16}Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. \textsuperscript{17}And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; \textsuperscript{18}they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover."} \textsuperscript{19}So then the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God. \textsuperscript{20}And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景與經文校勘的重要說明
+
+在深入這一章之前，有一個誠實面對經文本身的責任：現存最古老、最可靠的兩部希臘文抄本——西奈抄本（Codex Sinaiticus）與梵蒂岡抄本（Codex Vaticanus），成書於主後四世紀——馬可福音都止於16:8。9-20節這段「長結語」，以及教會傳統中另有的一段更短的「短結語」，都只見於較晚期的抄本傳統，且在詞彙與文風上與馬可福音其餘部分有明顯差異（例如使用了馬可從未使用過的詞彙）。這是新約經文鑑別學裏最著名、也研究最透徹的案例之一。歷代學者對此意見不一：G. Campbell Morgan本人「極力持守這段是真實可靠的」，而John MacArthur等當代學者則主張16:8戛然而止的結尾，正是馬可一貫風格「以懸念與敬畏收尾」的手法，9-20節是後人添加的文字。本書按著和合本修訂版與大多數現代譯本的慣例，忠實標示這段文字的抄本地位，讓讀者自行知悉並判斷，而不隱藏或迴避這項經文鑑別上的事實。
+
+### 文學結構：以懸念作結，或以大使命作結？
+
+若馬可福音確實止於16:8，這卷「最急促」的福音書便以一個極不尋常、卻極具張力的方式收尾：婦女因「發抖又驚訝」而「甚麼也沒有告訴人」——讀者被留在一個尚待完成的敘事裏，彷彿被邀請親自去回應「你們也要去告訴人」的使命。若納入9-20節，全書則以主復活後的顯現、大使命「你們往普天下去，向萬民傳福音」，以及升天坐在神右邊作結——這與馬可福音開卷「神的兒子，耶穌基督福音的起頭」（1:1）首尾呼應：福音的「起頭」在1:1，福音「向普天下」的傳揚使命在16:15，全書的敘事弧線由此完整。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *ēgerthē* | ēgerthē | 已經復活了 | 6節，被動語態完成式，強調復活已經完成且持續有效的事實 |
+| *tromos kai ekstasis* | tromos kai ekstasis | 發抖又驚訝 | 8節，形容婦女面對空墳墓時，一種混合著敬畏與震驚的複雜情感反應 |
+| *kēryxate to euangelion* | kēryxate to euangelion | 傳福音 | 15節（長結語），呼應1:1, 1:14耶穌自己「宣講神的福音」的用詞 |
+| *analēmphthē* | analēmphthē | 被接（到天上） | 19節，字面「被接上去」，暗示這是神主動的作為，而非耶穌自行升天 |
+| *synergountos* | synergountos | 同工 | 20節，字面「一同做工」，門徒傳道時主親自與他們同工 |
+
+### 「不在這裏」的簡潔宣告
+
+天使的宣告「他已經復活了，不在這裏」，用最精簡的希臘文表達了整本新約信仰最核心的事實——空墳墓本身不是福音，天使的解釋才是福音：那位被釘十字架的，如今活著。這句宣告的簡潔，恰恰呼應了馬可福音一貫「省略言語、聚焦行動」的敘事風格——全書最重大的宣告，用最少的字句道出。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 空墳墓是復活信仰不可或缺的歷史根基 (The Empty Tomb Is the Historical Foundation of Resurrection Faith)
+
+婦女、天使、後來門徒的親眼見證，共同指向一個具體、可查驗的歷史事實：墳墓確實是空的——這不是一個屬靈的比喻或內心的經歷，而是一個發生在歷史中、有見證人的真實事件。
+
+### 2. 誠實面對經文鑑別的問題，不損害信仰的根基 (Honestly Facing Textual Criticism Does Not Undermine the Foundation of Faith)
+
+無論16:9-20是否為馬可原著的一部分，整本新約其他書卷（保羅書信、其他三卷福音書）都獨立且充分地見證了基督復活、顯現、升天的事實——經文鑑別上的誠實，從未動搖福音的核心真理。
+
+### 3. 敬畏與懼怕是面對復活奇蹟最誠實的反應 (Awe and Fear Are the Most Honest Response to the Resurrection)
+
+婦女「發抖又驚訝」的反應，沒有被馬可修飾成立即的喜樂與信心——這種誠實的記載，恰恰印證了福音書記載的可靠性：面對超越人類經驗的復活奇蹟，敬畏懼怕是完全合理、甚至是必要的第一反應。
+
+### 4. 大使命是普世性的、跨越萬民的呼召 (The Great Commission Is a Universal Call to All Nations)
+
+「你們往普天下去，向萬民傳福音」（若按16:15）延續了馬可福音一貫的普世異象——從外邦人蒙恩（敘利亞腓尼基婦人、低加坡里的十城區）到百夫長的宣告，福音從來不是為單一族群保留的信息。
+
+### 5. 主與傳福音的人同工 (The Lord Works Alongside Those Who Preach)
+
+「主和他們同工」（20節）宣告：福音的廣傳從來不是門徒單靠己力完成的任務，而是那位已經升天、坐在神右邊的主，親自與祂的教會同工，直到今日。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+論到天使向婦女的宣告（馬太平行經文），屈梭多模引證：「不要害怕：因為我知道你們是尋找那釘十字架的耶穌。他不在這裏，照他所說的，已經復活了。你們來看安放主的地方……快去告訴他的門徒，他從死裏復活了；他要比你們先到加利利去，在那裏你們要見他」。論到門徒在路上遇見復活的耶穌，他寫道：「耶穌迎著她們，說：願你們平安！她們就上前抱住他的腳拜他」——這觸摸本身，「是復活無可辯駁的憑據」。
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 89 (on Matt 28:1-10) and Homily 90 (on Matt 28:11-20), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論到復活，加爾文寫道：「我們如今來到我們救贖的最終場景。因為我們與神和好之確據的活潑保證，正在於基督已經作為得勝死亡的征服者，從陰間歸回」。論到婦女的懼怕，他將其理解為「神體恤人性軟弱的一種恩慈安排」，而非信心的缺乏。論到天使賜給婦女的使命，他指出：「神在此藉著天使，將格外的尊榮賜給這些婦女，吩咐她們親自向使徒宣告我們救恩的核心要義」——這是刻意讓那些男性使徒感到謙卑的安排，因他們自己起初曾表現出的冷漠與不信。
+> — John Calvin, *Commentary on a Harmony of the Evangelists*
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+論到空墳墓，麥克阿瑟強調：「復活不僅僅是福音的一個組成部分，它就是核心事件本身」；「從來沒有人指出過一座仍然有屍體的墳墓。從來沒有人否認耶穌的墳墓是空的」；他列舉三重見證：空墳墓、天使的見證、目擊者的見證；「這一切都在那一週的第一天改變了——這正是教會從此在這一天聚會的原因」。論到16:9-20經文鑑別的問題，麥克阿瑟提出與摩根相反的立場：「這是一段變異的文字，是後來添加到馬可福音裏的文字」；他指出：「西奈抄本與梵蒂岡抄本，以及其他最古老的抄本，都止於第8節」；「從第8節到第9節的過渡是生硬的」，且包含「十八個馬可從未在別處使用過的詞彙」；他為止於第8節的結尾辯護：「它以敬畏懼怕作結，這完全符合馬可一貫的筆法——這正是他的寫作模式」。讀者在此看到兩位當代與歷史上受敬重之解經家的真實分歧，這正是誠實面對經文鑑別問題時，應當呈現、而非隱藏的張力。
+> — John MacArthur, *Amazement at the Empty Tomb* (41-84), *The Fitting End to Mark's Gospel* (41-85), gty.org
+
+**乾伯·摩根 (G. Campbell Morgan)**：
+
+論到婦女的疑問「誰要替我們把石頭滾開呢」，摩根寫道，隨後「她們看見石頭已經滾開了」。論到天使的宣告，他引證：「你們尋找的是拿撒勒人耶穌……他已經復活了，不在這裏」。論到馬可福音最後十二節經文的經文鑑別問題，摩根明確表達他的立場：「這最後十二節經文，構成了經文鑑別學上的一個戰場，許多學者將其視為並非真本。我極其堅定地持守它們確實是真實可靠的，無論是外在或內在的證據，都使我得出這個結論」——摩根的立場與麥克阿瑟等當代學者相左，本書如實呈現這項學術分歧，而非以單一立場強加於讀者。
+> — G. Campbell Morgan, *The Gospel According to Mark*, Chapter XXX
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 16:9-11
+
+> 因此我的心歡喜，我的靈快樂；我的肉身也要安然居住。
+> **因為你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞。**
+> 你必將生命的道路指示我。在你面前有滿足的喜樂；在你右手中有永遠的福樂。
+
+使徒行傳2:27、13:35都引用這節詩篇，宣告基督的復活正是這古老應許的成就——祂的身體沒有見朽壞，祂從死裏得勝。
+
+### 詩篇 118:22-24
+
+> 匠人所棄的石頭已成了房角的頭塊石頭。這是耶和華所做的，在我們眼中看為稀奇。
+> 這是耶和華所定的日子，我們在其中要高興歡喜！
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Thine Be the Glory
+
+> Thine be the glory, risen, conquering Son,
+> endless is the victory Thou o'er death hast won;
+> angels in bright raiment rolled the stone away,
+> kept the folded grave-clothes where Thy body lay.
+
+天使滾開的石頭，不是為了讓耶穌出來——祂已經復活，不需要石頭挪開才能離開墳墓；石頭滾開，是為了讓見證人可以進去，親眼看見墳墓是空的。默想這一點：復活的證據，從一開始就是為了「讓你看見」，不是為了「讓祂出來」。
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 黃長老查經：復活、顯現、升天 (Ask Elder Wong)
+
+**精義一句話**：「他已經復活了，不在這裏」——這是全本聖經最簡潔、也最具翻轉性的一句宣告；一切因十字架而破碎的盼望，都在這句話裏重新被建立。
+
+**黃長老這樣帶你讀**：
+
+- **找主句，濃縮全段**：6節「你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏」是全本福音書的核心宣告。如果只能留一句話總結整卷馬可福音，會不會就是這一句？
+- **婦女面對空墳墓的第一反應，是「發抖又驚訝……害怕」，而不是立刻的喜樂**——你覺得，誠實記載這種「還沒有整理好情緒」的懼怕，對福音書記載的可靠性，說明了什麼？
+- **馬可福音（按最古老抄本）以懸念作結，沒有交代婦女後來如何**——如果這卷書的結尾，是邀請你自己去回應「你會不會去告訴人」，你今天會怎麼回應？
+
+**整本聖經的連結**：詩篇16:10「因為你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞」——這節經文被使徒行傳2:27、13:35反覆引用，宣告基督的復活是舊約早已預言、且必然成就的應許。另一條線索：耶穌對門徒說「他要比你們先到加利利去」——這呼應馬可福音開卷第一章耶穌在加利利呼召門徒的起點（1:16-20），復活的主要與門徒在事工開始的地方重新聚集，暗示著一個全新的開始：舊有的失敗（門徒逃走、彼得不認主）不是終點，復活的主親自要在同一個地方，重新裝備、重新差遣他們。
+
+**讓話語住在裡面**：無論16:9-20是否為原文，整本新約都清楚見證：復活的主呼召祂的教會「往普天下去，向萬民傳福音」，且應許「主和他們同工」。默想：我今天的生活，是否活出「主與我同工」的確據，還是單靠自己的努力去承擔福音的使命？今天的實踐：主動向一個人分享一次你經歷復活的主如何在你生命中做工的具體見證。
+
+**你看見耶穌了嗎**：在空墳墓的宣告裏、在對懼怕之婦女的溫柔差遣裏、在向不信之門徒顯現的耐心裏、在頒布大使命的權柄裏、在升天坐於神右邊的尊榮裏，你看見的，是那位真正勝過死亡、如今活著、且應許與祂的教會同工直到世界的末了的基督——馬可福音的最後一個字，無論停在懼怕的敬畏裏，還是延伸到普世的大使命裏，都指向同一個確據：祂已經復活了，不在這裏。
+
+### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+
+- **16:6「他已經復活了」**：整個基督教信仰的根基——華人文化裏，「死而復生」往往被視為神話或迷信，這節經文卻邀請我們，誠實面對這是有歷史見證人、有空墳墓為據的真實事件，而非傳說。
+> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+詩篇16:10「不叫你的聖者見朽壞」——這節經文是彼得（徒2:27）與保羅（徒13:35）向猶太人、外邦人講道時共同的根基經文；復活不是新約獨創的教義，是舊約早已埋下、如今才顯明的伏筆。約拿在魚腹三日（拿1:17）也早被耶穌自己引用為「唯一的兆頭」（太12:39-40）——復活不是意外的神蹟，是計劃中的兆頭。
+
+### 提問式對話 (Let the Reader Speak)
+
+- 先問：「婦女帶著香料要膏一具屍體——她們預期會看見什麼？」
+- 再問：「天使沒有說『不要哭』，說的是『不要驚慌』——這兩者有什麼不同？」
+- 追問：「馬可（按最古老抄本）以婦女的沉默和懼怕收筆——這是不是很奇怪的結尾？」
+- 落到自己：「你們也要去告訴人」——如果這卷書的結尾是留給你來完成，你今天打算怎麼回應？
+
+### 活在今天 · AI時代 (Living It Today)
+
+今天的人習慣用「證據」和「數據」去驗證一切，卻常常把復活這件事，歸類為「不可驗證、姑且信之」的宗教想像。但馬可記載的，是有名有姓的見證人（抹大拉的馬利亞、雅各的母親馬利亞、撒羅米）、有具體地點（那空的墳墓）、有具體反應（發抖、驚訝、懼怕）的歷史事件。在一個凡事講求可查證的時代，福音書提供的正是這種可被查驗的見證，而非模糊的靈性感覺。
+
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：對主說：我今天的信心，不是建立在感覺上，是建立在你確實復活這件歷史事實上。
+- **晚上**：今天我有沒有一次，因為害怕別人的反應，而把復活的好消息藏在心裏，沒有告訴人？
+- **一個行動**：今天向一個人，具體地見證一次復活的主如何在你生命中做工。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏」——這句話，是整卷馬可福音、也是整本聖經最終的答案。
+
+**貫通全經**：詩篇16:10「不叫你的聖者見朽壞」——這應許在空墳墓裏得著了眼見為憑的成就。
+
+**無法迴避的問題**：婦女出了墳墓，「甚麼也沒有告訴人，因為她們害怕」——這卷書把最後一步，留給了讀者：你會不會去告訴人？
+
+> 「墳墓是空的，不是因為屍體被偷走，是因為死亡本身，再也關不住那一位。」
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Christ the Lord Is Risen Today*（今日基督已復活）
+
+> Christ the Lord is risen today, Alleluia!
+> sons of men and angels say, Alleluia!
+> Raise your joys and triumphs high, Alleluia!
+> sing, ye heavens, and earth reply, Alleluia!
+>
+> — Charles Wesley (1739)
+
+**詩篇**：詩篇 24:1-2, 7-10
+
+> 地和其中所充滿的，世界和住在其中的，都屬耶和華。
+> 他把地建立在海上，安定在大水之上。
+> 眾城門哪，你們要抬起頭來！永久的門戶，你們要被舉起！那榮耀的王將要進來！
+> 榮耀的王是誰呢？就是有力有能的耶和華，在戰場上有能力的耶和華！
+> 眾城門哪，你們要抬起頭來！永久的門戶，你們要把頭抬起！那榮耀的王將要進來！
+> 榮耀的王是誰呢？萬軍之耶和華，他是榮耀的王！
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **復活的歷史真實性**：空墳墓、天使的見證、門徒的親眼所見——你今天對復活的信心，是建立在真實的歷史根基上，還是僅僅停留在情感或傳統的層面？
+
+2. **誠實面對懼怕**：婦女面對復活的奇蹟，第一反應是懼怕而非喜樂——你是否也曾在經歷神奇妙作為的當下，感到懼怕、困惑，甚至說不出話來？這是否也是一種誠實而合理的信心反應？
+
+3. **重新開始的恩典**：復活的主呼召門徒回到加利利——那個他們最初蒙召、也曾軟弱失敗的地方。你生命中有沒有一個「失敗的加利利」，是復活的主願意與你重新開始的地方？
+
+4. **大使命的回應**：「你們往普天下去，向萬民傳福音」——今天，你在自己的「普天下」（家庭、職場、社區）裏，如何具體回應這個使命？
+
+### 禱告回應
+
+> 主啊，感謝你已經復活了，勝過死亡的權勢，使我們的信仰有真實的根基。
+> 求你赦免我常常像那些婦女一樣，在你奇妙的作為面前，只有懼怕卻遲遲不敢見證。
+> 求你使我在自己軟弱失敗的「加利利」裏，重新經歷你恢復與差遣的恩典。
+> 求你使用我，在我的普天下裏，成為傳揚復活好消息的見證人，並且求你親自與我同工。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 與其他經文的關聯
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 復活的應許 | 16:6 | 詩16:10、徒2:27, 13:35 |
+| 約拿的兆頭 | 16:6（三日） | 拿1:17、太12:39-40 |
+| 大使命 | 16:15 | 太28:18-20、路24:47、徒1:8 |
+| 升天坐右邊 | 16:19 | 詩110:1、來1:3、徒1:9-11 |
+| 加利利的重聚 | 16:7 | 可1:16-20（起初的呼召） |
+| 平行敘事 | 16:1-8 | 太28:1-10、路24:1-12、約20:1-18 |
+
+---
+
+## 全書的句號：僕人的贖價完成了
+
+馬可福音以「神的兒子，耶穌基督福音的起頭」（1:1）開卷，中間一路記載這位僕人基督「不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價」（10:45）——如今，這贖價在各各他付清，這服事在空墳墓裏得著了神的印證。無論全書停在16:8婦女的懼怕與沉默裏，還是延伸到16:20普世的差遣與同工，答案都是同一個：那位服事到底、捨命到底的僕人，如今活著，且仍與祂的教會同工，直到今日。
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、G. Campbell Morgan*
+
+---
+
+*全書完 · 馬可福音研讀 · 三書精讀出版系統 · 2026*
+
+
+\newpage
+

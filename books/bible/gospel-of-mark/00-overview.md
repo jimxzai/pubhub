@@ -26,10 +26,10 @@ publisher: 三書精讀出版系統
 
 ## 核心經文 (Key Verse)
 
-> 因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。
+> <red>因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。</red>
 > — 馬可福音 10:45
 
-> For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.
+> <red>For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.</red>
 > — Mark 10:45 (ESV)
 
 ---
@@ -126,7 +126,7 @@ publisher: 三書精讀出版系統
 | 8:30 | 門徒 | 不要告訴人祂是基督 |
 | 9:9 | 彼得、雅各、約翰 | 登山變像，下山前不要告訴人 |
 
-**神學意義**：耶穌的彌賽亞身份只有在十字架的光照下才能正確理解。
+**領受的重點**：耶穌的彌賽亞身份只有在十字架的光照下才能正確領受。
 
 ---
 
