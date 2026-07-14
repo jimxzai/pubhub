@@ -18,30 +18,13 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> **Ah, Holy Jesus**
-> *Johann Heermann, 1630*
->
-> Ah, holy Jesus, how hast Thou offended,
-> That man to judge Thee hath in hate pretended?
-> By foes derided, by Thine own rejected,
-> O most afflicted!
->
-> 主啊，你何等聖潔，卻遭這樣的冒犯；
-> 世人竟審判你，出於何等的憎恨？
-> 被仇敵譏誚，被自己的子民棄絕，
-> 何等的傷痛！
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 **彼拉多前受審**
 
-> ^1^一到早晨，眾祭司長、長老、文士，和全議會的人大家商議，就把耶穌綁著，解去，交給彼拉多。^2^彼拉多問他：「你是猶太人的王嗎？」耶穌回答：<red>「是你說的。」</red>^3^祭司長們告他許多的事。^4^彼拉多又問他：「你看，他們告你這麼多的事，你甚麼都不回答嗎？」^5^耶穌仍不回答，以致彼拉多覺得驚訝。
+> ^1^一到早晨，眾祭司長、長老、文士，和全議會的人大家商議，就把耶穌綁著，解去，交給彼拉多。^2^彼拉多問他：「你是猶太人的王嗎？」耶穌回答：\jesus{「是你說的。」}^3^祭司長們告他許多的事。^4^彼拉多又問他：「你看，他們告你這麼多的事，你甚麼都不回答嗎？」^5^耶穌仍不回答，以致彼拉多覺得驚訝。
 
 **巴拉巴被釋放**
 
@@ -57,7 +40,7 @@ publisher: 三書精讀出版系統
 
 > ^29^從那裏經過的人辱罵他，搖著頭，說：「哼！你這拆毀聖殿、三日又建造起來的，^30^救你自己，從十字架上下來吧！」^31^祭司長們和文士也是這樣戲弄他，彼此說：「他救了別人，不能救自己。^32^以色列的王基督，現在從十字架上下來，好讓我們看見，就信了。」與他同釘的人也辱罵他。
 
-> ^33^到了正午，全地都黑暗了，直到下午三點。^34^三點的時候，耶穌大聲喊著說：<red>「以羅伊！以羅伊！拉馬撒巴各大尼？」</red>翻出來就是：<red>「我的神，我的神！為甚麼離棄我？」</red>^35^旁邊站著的人，有的聽見就說：「看哪，他叫以利亞呢！」^36^有一個人跑去，把海綿蘸滿了醋，綁在蘆葦稈上，送給他喝，說：「且等著，看以利亞來不來把他取下。」^37^耶穌大喊一聲，氣就斷了。
+> ^33^到了正午，全地都黑暗了，直到下午三點。^34^三點的時候，耶穌大聲喊著說：\jesus{「以羅伊！以羅伊！拉馬撒巴各大尼？」}翻出來就是：\jesus{「我的神，我的神！為甚麼離棄我？」}^35^旁邊站著的人，有的聽見就說：「看哪，他叫以利亞呢！」^36^有一個人跑去，把海綿蘸滿了醋，綁在蘆葦稈上，送給他喝，說：「且等著，看以利亞來不來把他取下。」^37^耶穌大喊一聲，氣就斷了。
 
 **幔子裂開、百夫長的宣告**
 
@@ -73,7 +56,7 @@ publisher: 三書精讀出版系統
 
 ### English — ESV
 
-> ^1^And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. And they bound Jesus and led him away and delivered him over to Pilate. ^2^And Pilate asked him, "Are you the King of the Jews?" And he answered him, <red>"You have said so."</red> ^3^And the chief priests accused him of many things. ^4^And Pilate again asked him, "Have you no answer to make? See how many charges they bring against you." ^5^But Jesus made no further answer, so that Pilate was amazed.
+> ^1^And as soon as it was morning, the chief priests held a consultation with the elders and scribes and the whole council. And they bound Jesus and led him away and delivered him over to Pilate. ^2^And Pilate asked him, "Are you the King of the Jews?" And he answered him, \jesus{"You have said so."} ^3^And the chief priests accused him of many things. ^4^And Pilate again asked him, "Have you no answer to make? See how many charges they bring against you." ^5^But Jesus made no further answer, so that Pilate was amazed.
 
 > ^6^Now at the feast he used to release for them one prisoner for whom they asked. ^7^And among the rebels in prison, who had committed murder in the insurrection, there was a man called Barabbas. ^8^And the crowd came up and began to ask Pilate to do as he usually did for them. ^9^And he answered them, saying, "Do you want me to release for you the King of the Jews?" ^10^For he perceived that it was out of envy that the chief priests had delivered him up. ^11^But the chief priests stirred up the crowd to have him release for them Barabbas instead. ^12^And Pilate again said to them, "Then what shall I do with the man you call the King of the Jews?" ^13^And they cried out again, "Crucify him." ^14^And Pilate said to them, "Why? What evil has he done?" But they shouted all the more, "Crucify him." ^15^So Pilate, wishing to satisfy the crowd, released for them Barabbas, and having scourged Jesus, he delivered him to be crucified.
 
@@ -83,7 +66,7 @@ publisher: 三書精讀出版系統
 
 > ^29^And those who passed by derided him, wagging their heads and saying, "Aha! You who would destroy the temple and rebuild it in three days, ^30^save yourself, and come down from the cross!" ^31^So also the chief priests with the scribes mocked him to one another, saying, "He saved others; he cannot save himself. ^32^Let the Christ, the King of Israel, come down now from the cross that we may see and believe." Those who were crucified with him also reviled him.
 
-> ^33^And when the sixth hour had come, there was darkness over the whole land until the ninth hour. ^34^And at the ninth hour Jesus cried with a loud voice, <red>"Eloi, Eloi, lema sabachthani?"</red> which means, <red>"My God, my God, why have you forsaken me?"</red> ^35^And some of the bystanders hearing it said, "Behold, he is calling Elijah." ^36^And someone ran and filled a sponge with sour wine, put it on a reed and gave it to him to drink, saying, "Wait, let us see whether Elijah will come to take him down." ^37^And Jesus uttered a loud cry and breathed his last.
+> ^33^And when the sixth hour had come, there was darkness over the whole land until the ninth hour. ^34^And at the ninth hour Jesus cried with a loud voice, \jesus{"Eloi, Eloi, lema sabachthani?"} which means, \jesus{"My God, my God, why have you forsaken me?"} ^35^And some of the bystanders hearing it said, "Behold, he is calling Elijah." ^36^And someone ran and filled a sponge with sour wine, put it on a reed and gave it to him to drink, saying, "Wait, let us see whether Elijah will come to take him down." ^37^And Jesus uttered a loud cry and breathed his last.
 
 > ^38^And the curtain of the temple was torn in two, from top to bottom. ^39^And when the centurion, who stood facing him, saw that in this way he breathed his last, he said, "Truly this man was the Son of God!"
 
@@ -97,11 +80,11 @@ publisher: 三書精讀出版系統
 
 ### 歷史背景
 
-羅馬總督彼拉多有權判決死刑，猶太公會沒有這項權柄，這是耶穌必須被解送到彼拉多面前的原因。逾越節釋放囚犯的習俗未見於猶太文獻記載，卻與羅馬時期地方官員藉赦免囚犯籠絡民心的做法相符。十字架刑是羅馬用於奴隸與叛亂者最羞辱、最殘酷的刑罰，猶太人視「掛在木頭上的，是被神詛咒的」（申21:23）——保羅後來在加拉太書3:13直接引用這節經文，宣告基督「為我們成了詛咒」。「以羅伊！以羅伊！拉馬撒巴各大尼」是亞蘭文，直接引自詩篇22:1的開頭；聖殿的幔子隔開至聖所與聖所，象徵神與人之間因罪而有的隔絕。
+羅馬總督彼拉多有權判決死刑，猶太公會沒有這項權柄，這是耶穌必須被解送到彼拉多面前的原因。逾越節釋放囚犯的習俗未見於猶太文獻記載，卻與羅馬時期地方官員藉赦免囚犯籠絡民心的做法相符。十字架刑是羅馬用於奴隸與叛亂者最羞辱、最殘酷的刑罰，猶太人視「掛在木頭上的，是被神詛咒的」（申21:23）——保羅後來在加拉太書3:13直接引用這節經文，宣告基督「為我們成了詛咒」。「以羅伊！以羅伊！拉馬撒巴各大尼」是亞蘭文，直接引自詩篇22:1的開頭；聖殿的幔子隔開至聖所與聖所，象徵神與人之間因罪而有的隔絕。先知以賽亞筆下受苦的僕人早已預表了本章的景象：「他被藐視，被人厭棄……被藐視，好像被人掩面不看的一樣」（賽53:3-9），士兵的戲弄、群眾的嗤笑、耶穌一言不發的忍受，正是這受苦僕人異象的具體應驗；祂的死也成就了「代贖」的應許——「因他受的鞭傷，我們得醫治」（賽53:5-6），「惟有基督在我們還作罪人的時候為我們死，神的愛就在此向我們顯明了」（羅5:8）。本章的記載，在其他三卷福音書中也各有平行敘事（太27:1-61、路23:1-56、約18:28-19:42），四福音書從不同角度共同見證了這歷史事件的核心。
 
 ### 文學結構：全書身分祕密的公開揭曉
 
-馬可福音自1:1起便宣告耶穌是「神的兒子」，此後這身分反覆被污靈認出（1:24, 3:11, 5:7）、被天父兩次印證（1:11, 9:7），卻始終被吩咐要保密（1:34, 3:12, 8:30, 9:9）——這就是著名的「彌賽亞秘密」。如今在十字架下，一位羅馬百夫長，一個完全在猶太宗教體系之外的外邦軍人，親眼見證耶穌斷氣的方式，脫口而出：「這人真是神的兒子！」這是全書第一次，也是唯一一次，由一個人在耶穌在世時公開、清楚地如此宣告——而這宣告的時機，正是在十字架之下、在祂捨命之後。全章環繞著十字架的中心意象展開：黑暗籠罩全地、幔子從上到下裂開、百夫長的宣告——馬可要讀者看見：唯有在十字架的光照下，才能真正認出耶穌是誰。
+馬可福音自1:1起便宣告耶穌是「神的兒子」，此後這身分反覆被污靈認出（1:24, 3:11, 5:7）、被天父兩次印證（1:11, 9:7），卻始終被吩咐要保密（1:34, 3:12, 8:30, 9:9）——這就是著名的「彌賽亞秘密」。如今在十字架下，一位羅馬百夫長，一個完全在猶太宗教體系之外的外邦軍人，親眼見證耶穌斷氣的方式，脫口而出：「這人真是神的兒子！」這是全書第一次，也是唯一一次，由一個人在耶穌在世時公開、清楚地如此宣告——而這宣告的時機，正是在十字架之下、在祂捨命之後。全章環繞著十字架的中心意象展開：黑暗籠罩全地、幔子從上到下裂開、百夫長的宣告——馬可要讀者看見：唯有在十字架的光照下，才能真正認出耶穌是誰。百夫長的宣告不僅呼應1:1全書的開卷宣告，也遙遙呼應該撒利亞‧腓立比彼得的宣告「你是基督」（可8:29、太16:16）——馬可讓兩個對耶穌身分的宣告，一個出自最親近的門徒，一個出自最陌生的外邦軍人，前後呼應，共同指向同一個真理。
 
 ---
 
@@ -176,36 +159,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 22:1, 7-8, 16-18
-
-> **我的神，我的神，為甚麼離棄我？**為甚麼遠離不救我，不聽我唉哼的言語？
-> 凡看見我的都嗤笑我；他們撇嘴搖頭，說：「他把自己交託耶和華，耶和華可以救他吧！耶和華既喜悅他，可以搭救他吧！」
-> 犬類圍著我，惡黨環繞我；他們扎了我的手，我的腳。我的骨頭，我都能數過；他們卻瞪著眼看我。他們分我的外衣，為我的內衣拈鬮。
-
-耶穌在十字架上的第一句話，也是這首詩篇的第一句話——但詩篇22篇並未停在絕望裏（見22:22-31，轉向讚美與確信）。耶穌引用這開頭一句，很可能同時召喚了整首詩篇的軌跡：真實的離棄，與不變的信靠，同時並存。
-
-### 詩篇 69:20-21
-
-> 辱罵傷破了我的心，我又滿了憂愁；我指望有人體恤，卻沒有一個；我指望有人安慰，卻找不著一個。
-> 他們拿苦膽給我當食物；我渴了，他們拿醋給我喝。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### O Sacred Head, Now Wounded
-
-> What Thou, my Lord, hast suffered was all for sinners' gain;
-> mine, mine was the transgression, but Thine the deadly pain.
-> Lo, here I fall, my Savior! 'Tis I deserve Thy place;
-> look on me with Thy favor, vouchsafe to me Thy grace.
-
-這首詩歌把十字架從一段遙遠的歷史敘事，帶回到每一個唱詩者眼前：受苦的是祂，該受苦的卻是我。默想這首詩歌時，不要只停在「祂為我受苦」的知識層面，求主讓這句話落到心裏，成為今天悔改與感恩的起點。
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：審判、十字架、埋葬 (Ask Elder Wong)
@@ -228,6 +181,54 @@ publisher: 三書精讀出版系統
 
 - **15:34「我的神！為甚麼離棄我？」**：基督為我們承受被神棄絕的痛苦——十字架最深的奧祕。華人文化避諱直視苦難與絕望，這節經文卻邀請我們，誠實面對十字架最黑暗、卻也最深情的一刻。
 > — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*O Sacred Head, Now Wounded*（曾為我等罪愆）
+
+> O sacred Head, now wounded, with grief and shame weighed down,
+> now scornfully surrounded with thorns, Thine only crown;
+> O sacred Head, what glory, what bliss till now was Thine!
+> Yet, though despised and gory, I joy to call Thee mine.
+>
+> What Thou, my Lord, hast suffered was all for sinners' gain;
+> mine, mine was the transgression, but Thine the deadly pain.
+> Lo, here I fall, my Savior! 'Tis I deserve Thy place;
+> look on me with Thy favor, vouchsafe to me Thy grace.
+>
+> — Bernard of Clairvaux (attributed, 12th c.), trans. James W. Alexander (1830)
+
+這首詩歌把十字架從一段遙遠的歷史敘事，帶回到每一個唱詩者眼前：受苦的是祂，該受苦的卻是我。默想這首詩歌時，不要只停在「祂為我受苦」的知識層面，求主讓這句話落到心裏，成為今天悔改與感恩的起點。
+
+**聖詩**：*Ah, Holy Jesus*
+
+> Ah, holy Jesus, how hast Thou offended,
+> That man to judge Thee hath in hate pretended?
+> By foes derided, by Thine own rejected,
+> O most afflicted!
+>
+> 主啊，你何等聖潔，卻遭這樣的冒犯；
+> 世人竟審判你，出於何等的憎恨？
+> 被仇敵譏誚，被自己的子民棄絕，
+> 何等的傷痛！
+>
+> — Johann Heermann (1630)
+
+**詩篇**：詩篇 22:1, 7-8, 16-18, 27-28
+
+> 我的神，我的神，為甚麼離棄我？為甚麼遠離不救我，不聽我唉哼的言語？
+> 凡看見我的都嗤笑我；他們撇嘴搖頭，說：「他把自己交託耶和華，耶和華可以救他吧！耶和華既喜悅他，可以搭救他吧！」
+> 犬類圍著我，惡黨環繞我；他們扎了我的手，我的腳。我的骨頭，我都能數過；他們卻瞪著眼看我。他們分我的外衣，為我的內衣拈鬮。
+> 地的四極都要想念耶和華，並且歸順他；列國的萬族都要在你面前敬拜。
+
+耶穌在十字架上的第一句話，也是這首詩篇的第一句話——但詩篇22篇並未停在絕望裏，反倒轉向堅定的讚美與確信，最終宣告普天下要歸向耶和華（22:27-28）。耶穌引用這開頭一句，很可能同時召喚了整首詩篇的軌跡：真實的離棄，與不變的信靠，以及萬國終必俯伏的盼望，同時並存。
+
+**詩篇**：詩篇 69:20-21
+
+> 辱罵傷破了我的心，我又滿了憂愁；我指望有人體恤，卻沒有一個；我指望有人安慰，卻找不著一個。
+> 他們拿苦膽給我當食物；我渴了，他們拿醋給我喝。
 
 ---
 
@@ -254,8 +255,6 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我有沒有一次，像彼拉多一樣，明知道是非，卻選擇討好眾人？
 - **一個行動**：今天為一件「不划算」的真理或良心，做一次不計代價的堅持。
 
----
-
 ## 黃長老精義 (The Distilled Key)
 
 **一句話精義**：「這人真是神的兒子！」——一個外邦百夫長，在耶穌斷氣的那一刻說出了全書開卷（1:1）就已宣告的身分；十字架不是身分的隱藏，是身分的揭曉。
@@ -265,28 +264,6 @@ publisher: 三書精讀出版系統
 **無法迴避的問題**：巴拉巴因耶穌代死而得釋放——你是否真實承認，自己也是那個本該被定罪、卻因耶穌代死而得自由的巴拉巴？
 
 > 「祂沒有從十字架上下來，證明祂是神的兒子；祂留在十字架上，才證明了這件事。」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*O Sacred Head, Now Wounded*（曾為我等罪愆）
-
-> O sacred Head, now wounded, with grief and shame weighed down,
-> now scornfully surrounded with thorns, Thine only crown;
-> O sacred Head, what glory, what bliss till now was Thine!
-> Yet, though despised and gory, I joy to call Thee mine.
->
-> — Bernard of Clairvaux (attributed, 12th c.), trans. James W. Alexander (1830)
-
-**詩篇**：詩篇 22:1, 16-18, 27-28
-
-> 我的神，我的神，為甚麼離棄我？為甚麼遠離不救我，不聽我唉哼的言語？
-> 犬類圍著我，惡黨環繞我；他們扎了我的手，我的腳。
-> 我的骨頭，我都能數過；他們卻瞪著眼看我。
-> 他們分我的外衣，為我的內衣拈鬮。
-> 地的四極都要想念耶和華，並且歸順他；列國的萬族都要在你面前敬拜。
-> 因為國權是耶和華的，他是掌權的，統治萬國。
 
 ---
 
@@ -312,17 +289,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 與其他經文的關聯
+## 反思問題 (Reflection Questions)
 
-| 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
-| 掛在木頭上的咒詛 | 15:24 | 申21:23、加3:13 |
-| 為甚麼離棄我 | 15:34 | 詩22:1, 22:22-31 |
-| 受苦僕人 | 15:16-20, 27 | 賽53:3-9 |
-| 代贖 | 15:6-15 | 賽53:5-6、羅5:8 |
-| 幔子裂開 | 15:38 | 來10:19-20、出26:31-33 |
-| 神的兒子 | 15:39 | 可1:1、太16:16 |
-| 平行敘事 | 15:1-47 | 太27:1-61、路23:1-56、約18:28-19:42 |
+1. 彼拉多三次承認查不出耶穌的罪，卻仍因懼怕群眾、討好眾人而將祂交付釘十字架——我生命中，是否也曾像彼拉多一樣，明知真相卻因懼怕代價、討好眾人而選擇沉默或妥協？
+
+2. 巴拉巴這個該死的殺人犯，因耶穌代替他受死而白白得了釋放——我是否真實地承認，自己也是那個本該被定罪、卻因基督代死而得自由的巴拉巴？
+
+3. 群眾嘲弄耶穌「他救了別人，不能救自己」——這句譏誚無意間道出了十字架最深的真理：祂正是因為不救自己，才能救我們。這對我理解基督的「軟弱」與「能力」之間的關係，有什麼提醒？
+
+4. 正午的黑暗，以及耶穌「我的神，我的神，為甚麼離棄我」的呼喊，是聖經中最深沉的奧祕之一——這對我理解基督如何真實地擔當了我本該承受的審判與離棄，帶來怎樣的震撼與感恩？
+
+5. 聖殿的幔子從上到下裂開，第一個宣告「這人真是神的兒子」的，竟是一位在猶太宗教體系之外的羅馬百夫長——這對我今天如何看待「誰能真正認出基督」、以及福音向萬民敞開的心意，有什麼提醒？
 
 ---
 

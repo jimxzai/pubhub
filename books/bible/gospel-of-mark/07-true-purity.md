@@ -18,48 +18,33 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-**《求你為我造清潔的心》(Create in Me a Clean Heart)**
-
-> Create in me a clean heart, O God,
-> and renew a right spirit within me.
-> Cast me not away from Thy presence, O Lord,
-> and take not Thy Holy Spirit from me.
->
-> — Based on Psalm 51:10-11
-
-未讀這一章之前，先唱這首詩：文士關心的是手洗淨了沒有，大衛所求的卻是心潔淨了沒有。求主在你翻開這段經文之前，先為你造一顆清潔的心，使你讀到「從裏面出來的才玷污人」時，不是聽一堂道理，而是甘心讓主察驗自己的心。
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 **論潔淨的傳統**
 
-> ^1^有法利賽人和幾個從耶路撒冷來的文士聚集到耶穌那裏。^2^他們曾看見他的門徒中有人用不潔淨的手，就是沒有洗的手吃飯。^3^法利賽人和所有的猶太人都拘守古人的傳統，若不按規矩洗手就不吃飯；^4^從市場來，若不洗淨也不吃飯；他們還拘守好些別的規矩，如洗杯、罐、銅器、床鋪等。^5^法利賽人和文士問他說：「你的門徒為甚麼不照古人的傳統，竟然用不潔淨的手吃飯呢？」^6^耶穌對他們說：<red>「以賽亞指著你們假冒為善的人所預言的說得好。如經上所記：『這百姓用嘴唇尊敬我，心卻遠離我；^7^他們把人的規條當作教義教導人，所以拜我也是枉然。』^8^你們是離棄神的誡命，拘守人的傳統。」</red>^9^耶穌又說：<red>「你們誠然是廢棄神的誡命，為要守自己的傳統。^10^摩西說：『當孝敬父母』；又說：『咒罵父母的，必須處死。』^11^你們倒說：『人若對父母說：我所當供奉你的已經作了各耳板』（各耳板就是奉獻的意思），^12^你們就容許他不必再奉養父母。^13^這就是你們藉著繼承傳統，廢了神的話。你們還做許多這樣的事。」</red>
+> ^1^有法利賽人和幾個從耶路撒冷來的文士聚集到耶穌那裏。^2^他們曾看見他的門徒中有人用不潔淨的手，就是沒有洗的手吃飯。^3^法利賽人和所有的猶太人都拘守古人的傳統，若不按規矩洗手就不吃飯；^4^從市場來，若不洗淨也不吃飯；他們還拘守好些別的規矩，如洗杯、罐、銅器、床鋪等。^5^法利賽人和文士問他說：「你的門徒為甚麼不照古人的傳統，竟然用不潔淨的手吃飯呢？」^6^耶穌對他們說：\jesus{「以賽亞指著你們假冒為善的人所預言的說得好。如經上所記：『這百姓用嘴唇尊敬我，心卻遠離我；^7^他們把人的規條當作教義教導人，所以拜我也是枉然。』^8^你們是離棄神的誡命，拘守人的傳統。」}^9^耶穌又說：\jesus{「你們誠然是廢棄神的誡命，為要守自己的傳統。^10^摩西說：『當孝敬父母』；又說：『咒罵父母的，必須處死。』^11^你們倒說：『人若對父母說：我所當供奉你的已經作了各耳板』（各耳板就是奉獻的意思），^12^你們就容許他不必再奉養父母。^13^這就是你們藉著繼承傳統，廢了神的話。你們還做許多這樣的事。」}
 
-> ^14^耶穌又叫眾人來，對他們說：<red>「你們都要聽我的話，也要明白。^15^從外面進去的不能玷污人，惟有從裏面出來的才玷污人。」</red>^17^耶穌離開眾人，進了屋子，門徒就問他這比喻的意思。^18^耶穌對他們說：<red>「你們也是這樣不明白嗎？難道你們不了解，凡從外面進去的不能玷污人嗎？^19^因為不是進入他的心，而是進入他的肚子，又排入廁所。」</red>（這是說，各樣的食物都是潔淨的。）^20^耶穌又說：<red>「從人裏面出來的，那才玷污人；^21^因為從人心裏發出種種惡念，如淫亂、偷盜、兇殺、^22^姦淫、貪婪、邪惡、詭詐、淫蕩、嫉妒、毀謗、驕傲、狂妄。^23^這一切的惡都是從裏面出來，且能玷污人。」</red>
+> ^14^耶穌又叫眾人來，對他們說：\jesus{「你們都要聽我的話，也要明白。^15^從外面進去的不能玷污人，惟有從裏面出來的才玷污人。」}^17^耶穌離開眾人，進了屋子，門徒就問他這比喻的意思。^18^耶穌對他們說：\jesus{「你們也是這樣不明白嗎？難道你們不了解，凡從外面進去的不能玷污人嗎？^19^因為不是進入他的心，而是進入他的肚子，又排入廁所。」}（這是說，各樣的食物都是潔淨的。）^20^耶穌又說：\jesus{「從人裏面出來的，那才玷污人；^21^因為從人心裏發出種種惡念，如淫亂、偷盜、兇殺、^22^姦淫、貪婪、邪惡、詭詐、淫蕩、嫉妒、毀謗、驕傲、狂妄。^23^這一切的惡都是從裏面出來，且能玷污人。」}
 
 **敘利亞腓尼基婦人的信心**
 
-> ^24^耶穌從那裏起身，往推羅境內去，進了一家，他不願意人知道，卻隱藏不住。^25^立刻有一個婦人，她的小女兒被污靈附著，一聽見耶穌的事，就來俯伏在他腳前。^26^這婦人是希臘人，屬敘利亞的腓尼基族。她求耶穌從她女兒身上趕出那鬼。^27^耶穌對她說：<red>「讓孩子們先吃飽，拿孩子的餅丟給小狗吃是不妥的。」</red>^28^婦人回答：「主啊，桌子底下的小狗也吃小孩子的碎屑呀！」^29^耶穌對她說：<red>「憑著這句話，你回去吧，鬼已經離開你的女兒了。」</red>^30^她就回家去，見小孩子躺在床上，鬼已經出去了。
+> ^24^耶穌從那裏起身，往推羅境內去，進了一家，他不願意人知道，卻隱藏不住。^25^立刻有一個婦人，她的小女兒被污靈附著，一聽見耶穌的事，就來俯伏在他腳前。^26^這婦人是希臘人，屬敘利亞的腓尼基族。她求耶穌從她女兒身上趕出那鬼。^27^耶穌對她說：\jesus{「讓孩子們先吃飽，拿孩子的餅丟給小狗吃是不妥的。」}^28^婦人回答：「主啊，桌子底下的小狗也吃小孩子的碎屑呀！」^29^耶穌對她說：\jesus{「憑著這句話，你回去吧，鬼已經離開你的女兒了。」}^30^她就回家去，見小孩子躺在床上，鬼已經出去了。
 
 **醫治耳聾舌結的人**
 
-> ^31^耶穌又離開了推羅地區，經過西頓，就從低加坡里境內來到加利利海。^32^有人帶著一個耳聾舌結的人來見耶穌，求他為他按手。^33^耶穌領他離開眾人，到一邊去，就用指頭探他的耳朵，吐唾沫抹他的舌頭，^34^望天嘆息，對他說：<red>「以法大！」</red>就是說「開了吧！」^35^他的耳朵立刻開了，舌結也解了，他說話也清楚了。^36^耶穌囑咐他們不要告訴人；但他越囑咐，他們越發傳揚。^37^眾人分外驚奇，說：「他所做的事樣樣都好，他甚至使聾子聽見，啞巴說話。」
+> ^31^耶穌又離開了推羅地區，經過西頓，就從低加坡里境內來到加利利海。^32^有人帶著一個耳聾舌結的人來見耶穌，求他為他按手。^33^耶穌領他離開眾人，到一邊去，就用指頭探他的耳朵，吐唾沫抹他的舌頭，^34^望天嘆息，對他說：\jesus{「以法大！」}就是說「開了吧！」^35^他的耳朵立刻開了，舌結也解了，他說話也清楚了。^36^耶穌囑咐他們不要告訴人；但他越囑咐，他們越發傳揚。^37^眾人分外驚奇，說：「他所做的事樣樣都好，他甚至使聾子聽見，啞巴說話。」
 
 ### English — ESV
 
-> ^1^Now when the Pharisees gathered to him, with some of the scribes who had come from Jerusalem, ^2^they saw that some of his disciples ate with hands that were defiled, that is, unwashed. ^3^(For the Pharisees and all the Jews do not eat unless they wash their hands properly, holding to the tradition of the elders, ^4^and when they come from the marketplace, they do not eat unless they wash. And there are many other traditions that they observe, such as the washing of cups and pots and copper vessels and dining couches.) ^5^And the Pharisees and the scribes asked him, "Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands?" ^6^And he said to them, <red>"Well did Isaiah prophesy of you hypocrites, as it is written, 'This people honors me with their lips, but their heart is far from me; ^7^in vain do they worship me, teaching as doctrines the commandments of men.' ^8^You leave the commandment of God and hold to the tradition of men."</red> ^9^And he said to them, <red>"You have a fine way of rejecting the commandment of God in order to establish your tradition! ^10^For Moses said, 'Honor your father and your mother'; and, 'Whoever reviles father or mother must surely die.' ^11^But you say, 'If a man tells his father or his mother, Whatever you would have gained from me is Corban (that is, given to God)—' ^12^then you no longer permit him to do anything for his father or mother, ^13^thus making void the word of God by your tradition that you have handed down. And many such things you do."</red>
+> ^1^Now when the Pharisees gathered to him, with some of the scribes who had come from Jerusalem, ^2^they saw that some of his disciples ate with hands that were defiled, that is, unwashed. ^3^(For the Pharisees and all the Jews do not eat unless they wash their hands properly, holding to the tradition of the elders, ^4^and when they come from the marketplace, they do not eat unless they wash. And there are many other traditions that they observe, such as the washing of cups and pots and copper vessels and dining couches.) ^5^And the Pharisees and the scribes asked him, "Why do your disciples not walk according to the tradition of the elders, but eat with defiled hands?" ^6^And he said to them, \jesus{"Well did Isaiah prophesy of you hypocrites, as it is written, 'This people honors me with their lips, but their heart is far from me; ^7^in vain do they worship me, teaching as doctrines the commandments of men.' ^8^You leave the commandment of God and hold to the tradition of men."} ^9^And he said to them, \jesus{"You have a fine way of rejecting the commandment of God in order to establish your tradition! ^10^For Moses said, 'Honor your father and your mother'; and, 'Whoever reviles father or mother must surely die.' ^11^But you say, 'If a man tells his father or his mother, Whatever you would have gained from me is Corban (that is, given to God)—' ^12^then you no longer permit him to do anything for his father or mother, ^13^thus making void the word of God by your tradition that you have handed down. And many such things you do."}
 
-> ^14^And he called the people to him again and said to them, <red>"Hear me, all of you, and understand: ^15^There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him."</red> ^17^And when he had entered the house and left the people, his disciples asked him about the parable. ^18^And he said to them, <red>"Then are you also without understanding? Do you not see that whatever goes into a person from outside cannot defile him, ^19^since it enters not his heart but his stomach, and is expelled?"</red> (Thus he declared all foods clean.) ^20^And he said, <red>"What comes out of a person is what defiles him. ^21^For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, ^22^coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness. ^23^All these evil things come from within, and they defile a person."</red>
+> ^14^And he called the people to him again and said to them, \jesus{"Hear me, all of you, and understand: ^15^There is nothing outside a person that by going into him can defile him, but the things that come out of a person are what defile him."} ^17^And when he had entered the house and left the people, his disciples asked him about the parable. ^18^And he said to them, \jesus{"Then are you also without understanding? Do you not see that whatever goes into a person from outside cannot defile him, ^19^since it enters not his heart but his stomach, and is expelled?"} (Thus he declared all foods clean.) ^20^And he said, \jesus{"What comes out of a person is what defiles him. ^21^For from within, out of the heart of man, come evil thoughts, sexual immorality, theft, murder, adultery, ^22^coveting, wickedness, deceit, sensuality, envy, slander, pride, foolishness. ^23^All these evil things come from within, and they defile a person."}
 
-> ^24^And from there he arose and went away to the region of Tyre and Sidon. And he entered a house and did not want anyone to know, yet he could not be hidden. ^25^But immediately a woman whose little daughter had an unclean spirit heard of him and came and fell down at his feet. ^26^Now the woman was a Gentile, a Syrophoenician by birth. And she begged him to cast the demon out of her daughter. ^27^And he said to her, <red>"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs."</red> ^28^But she answered him, "Yes, Lord; yet even the dogs under the table eat the children's crumbs." ^29^And he said to her, <red>"For this statement you may go your way; the demon has left your daughter."</red> ^30^And she went home and found the child lying in bed and the demon gone.
+> ^24^And from there he arose and went away to the region of Tyre and Sidon. And he entered a house and did not want anyone to know, yet he could not be hidden. ^25^But immediately a woman whose little daughter had an unclean spirit heard of him and came and fell down at his feet. ^26^Now the woman was a Gentile, a Syrophoenician by birth. And she begged him to cast the demon out of her daughter. ^27^And he said to her, \jesus{"Let the children be fed first, for it is not right to take the children's bread and throw it to the dogs."} ^28^But she answered him, "Yes, Lord; yet even the dogs under the table eat the children's crumbs." ^29^And he said to her, \jesus{"For this statement you may go your way; the demon has left your daughter."} ^30^And she went home and found the child lying in bed and the demon gone.
 
-> ^31^Then he returned from the region of Tyre and went through Sidon to the Sea of Galilee, in the region of the Decapolis. ^32^And they brought to him a man who was deaf and had a speech impediment, and they begged him to lay his hand on him. ^33^And taking him aside from the crowd privately, he put his fingers into his ears, and after spitting touched his tongue. ^34^And looking up to heaven, he sighed and said to him, <red>"Ephphatha,"</red> that is, "Be opened." ^35^And his ears were opened, his tongue was released, and he spoke plainly. ^36^And Jesus charged them to tell no one. But the more he charged them, the more zealously they proclaimed it. ^37^And they were astonished beyond measure, saying, "He has done all things well. He even makes the deaf hear and the mute speak."
+> ^31^Then he returned from the region of Tyre and went through Sidon to the Sea of Galilee, in the region of the Decapolis. ^32^And they brought to him a man who was deaf and had a speech impediment, and they begged him to lay his hand on him. ^33^And taking him aside from the crowd privately, he put his fingers into his ears, and after spitting touched his tongue. ^34^And looking up to heaven, he sighed and said to him, \jesus{"Ephphatha,"} that is, "Be opened." ^35^And his ears were opened, his tongue was released, and he spoke plainly. ^36^And Jesus charged them to tell no one. But the more he charged them, the more zealously they proclaimed it. ^37^And they were astonished beyond measure, saying, "He has done all things well. He even makes the deaf hear and the mute speak."
 
 ---
 
@@ -71,7 +56,7 @@ publisher: 三書精讀出版系統
 
 ### 文學結構
 
-本章由三個場景組成，彼此呼應：論潔淨的爭辯（1-23節）確立了「污穢從心裏出來，而非從外在的儀文而來」的原則；敘利亞腓尼基婦人（24-30節）與聾啞人（31-37節）的故事，則是這原則的具體示範——耶穌向猶太傳統視為「不潔淨」的外邦人施展憐憫與大能，證明神的恩典不受人為的潔淨規條限制。19節括號內的旁白「這是說，各樣的食物都是潔淨的」，是馬可（而非耶穌本人的話）向讀者插入的領受結論，顯明馬可已經理解：這段話徹底廢除了舊約禮儀律法中潔淨與不潔淨食物的分別（參利未記11章）。
+本章由三個場景組成，彼此呼應：論潔淨的爭辯（1-23節）確立了「污穢從心裏出來，而非從外在的儀文而來」的原則；敘利亞腓尼基婦人（24-30節）與聾啞人（31-37節）的故事，則是這原則的具體示範——耶穌向猶太傳統視為「不潔淨」的外邦人施展憐憫與大能，證明神的恩典不受人為的潔淨規條限制。19節括號內的旁白「這是說，各樣的食物都是潔淨的」，是馬可（而非耶穌本人的話）向讀者插入的領受結論，顯明馬可已經理解：這段話徹底廢除了舊約禮儀律法中潔淨與不潔淨食物的分別（參利未記11章）。本章與馬太福音15:1-28為平行經文，論潔淨傳統與迦南婦人的信心，記載大致相同，可對照參讀。
 
 ---
 
@@ -146,33 +131,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 51:6, 10, 17
-
-> 你所喜愛的是內心誠實；求你在我隱密處使我得智慧。
-> 神啊，求你為我造清潔的心，使我裏面重新有正直的靈。
-> 神所要的祭就是憂傷的靈；神啊，憂傷痛悔的心，你必不輕看。
-
-大衛在拔示巴事件之後所求的，不是重新學一套獻祭的儀文，而是「清潔的心」——這正是耶穌在本章要對文士說的話：你們把洗手的規矩守得再精細，若心不更新，仍然「污穢」。詩篇51篇是7章最好的禱告版本。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Create in Me a Clean Heart（求你為我造清潔的心）
-
-> Create in me a clean heart, O God,
-> and renew a right spirit within me.
-> Cast me not away from Thy presence, O Lord,
-> and take not Thy Holy Spirit from me.
->
-> — Based on Psalm 51:10-11
-
-這首詩直接取自詩篇51篇，是教會歷代認罪禱告中最常用的旋律之一。它提醒我們：潔淨從來不是我們自己「造」出來的，是求神「造」的——正如7:15「從裏面出來的才玷污人」所指向的，唯有神能造一顆新心，人自己的洗手傳統再周密，也造不出裏面的潔淨。
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：潔淨的真義 (Ask Elder Wong)
@@ -198,6 +156,25 @@ publisher: 三書精讀出版系統
 | 清潔的心 | 詩篇 51:10 | 「神啊，求你為我造清潔的心」——回應7:15「從裏面出來的才玷污人」 |
 | 憂傷痛悔的心 | 詩篇 51:17 | 神所要的祭不是儀文，是憂傷痛悔的心 |
 | 謙卑的信心 | *Create in Me a Clean Heart* | 求神造心，而非人自造潔淨 |
+
+### 詩篇 51:6, 10, 17
+
+> 你所喜愛的是內心誠實；求你在我隱密處使我得智慧。
+> 神啊，求你為我造清潔的心，使我裏面重新有正直的靈。
+> 神所要的祭就是憂傷的靈；神啊，憂傷痛悔的心，你必不輕看。
+
+大衛在拔示巴事件之後所求的，不是重新學一套獻祭的儀文，而是「清潔的心」——這正是耶穌在本章要對文士說的話：你們把洗手的規矩守得再精細，若心不更新，仍然「污穢」。詩篇51篇是7章最好的禱告版本。
+
+### Create in Me a Clean Heart（求你為我造清潔的心）
+
+> Create in me a clean heart, O God,
+> and renew a right spirit within me.
+> Cast me not away from Thy presence, O Lord,
+> and take not Thy Holy Spirit from me.
+>
+> — Based on Psalm 51:10-11
+
+這首詩直接取自詩篇51篇，是教會歷代認罪禱告中最常用的旋律之一。它提醒我們：潔淨從來不是我們自己「造」出來的，是求神「造」的——正如7:15「從裏面出來的才玷污人」所指向的，唯有神能造一顆新心，人自己的洗手傳統再周密，也造不出裏面的潔淨。未讀這一章之前，先唱這首詩：文士關心的是手洗淨了沒有，大衛所求的卻是心潔淨了沒有。求主在你翻開這段經文之前，先為你造一顆清潔的心，使你讀到「從裏面出來的才玷污人」時，不是聽一堂道理，而是甘心讓主察驗自己的心。
 
 ---
 
@@ -260,16 +237,6 @@ publisher: 三書精讀出版系統
 4. 耶穌向外邦人（敘利亞腓尼基婦人、低加坡里的聾啞人）施展憐憫與大能——這對今天教會跨越文化、族裔的界線傳揚福音，有什麼提醒？
 
 5. 「他所做的事樣樣都好」——這句讚嘆呼應了創世記1章神造萬物後「看著是好的」的宣告。這對我們理解耶穌的救贖工作與創造工作之間的連結，有什麼啟發？
-
----
-
-## 與其他經文的關聯
-
-- **馬太福音15:1-28**——平行經文，論潔淨傳統與迦南婦人的信心，記載大致相同。
-- **利未記11章**——舊約潔淨/不潔淨食物條例，被7:19「這是說，各樣的食物都是潔淨的」正式宣告終結。
-- **以賽亞書29:13**——「這百姓用嘴唇尊敬我，心卻遠離我」，耶穌引用以指控假冒為善的敬拜。
-- **使徒行傳10章**——彼得潔淨/不潔淨異象，與本章「一切食物都是潔淨的」遙相呼應，同樣指向猶太人與外邦人界線的拆除。
-- **以弗所書2:14**——「基督拆毀了中間隔絕的牆」，是敘利亞腓尼基婦人蒙恩故事最終要領受的總結。
 
 ---
 

@@ -18,23 +18,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> **Christ the Lord Is Risen Today**
-> *Charles Wesley, 1739*
->
-> Christ the Lord is risen today, Alleluia!
-> Sons of men and angels say, Alleluia!
-> Raise your joys and triumphs high, Alleluia!
-> Sing, ye heavens, and earth reply, Alleluia!
->
-> 今日基督已復活，哈利路亞！
-> 天使世人齊聲誇，哈利路亞！
-> 歡呼快樂聲高揚，哈利路亞！
-> 諸天大地齊頌揚，哈利路亞！
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
@@ -51,7 +34,7 @@ publisher: 三書精讀出版系統
 
 **長結語**
 
-> ^9^在七日的第一日清晨，耶穌復活後，先向抹大拉的馬利亞顯現，耶穌曾從她身上趕出七個鬼。^10^她就去告訴那向來跟隨耶穌的人；那時他們正悲哀哭泣。^11^他們聽見耶穌活了，被馬利亞看見，卻是不信。^12^這事以後，門徒中有兩個人往鄉下去，走路的時候，耶穌用另一種形像向他們顯現，^13^他們就去告訴其餘的門徒；其餘的門徒也是不信。^14^後來，十一個使徒坐席的時候，耶穌向他們顯現，責備他們不信，心裏剛硬，因為他們不信那些在他復活以後看見他的人。^15^他又對他們說：<red>「你們往普天下去，向萬民傳福音。^16^信而受洗的必得救；不信的必被定罪。^17^信的人必有神蹟隨著他們，就是奉我的名趕鬼；說新方言；^18^手能拿蛇；若喝了甚麼致命的毒物，也絕不受害；手按病人，病人就必好了。」</red>^19^主耶穌向他們說了這些話以後，就被接到天上，坐在神的右邊。^20^門徒出去，到處傳福音，主和他們同工，藉著伴隨的神蹟證實所傳的道。
+> ^9^在七日的第一日清晨，耶穌復活後，先向抹大拉的馬利亞顯現，耶穌曾從她身上趕出七個鬼。^10^她就去告訴那向來跟隨耶穌的人；那時他們正悲哀哭泣。^11^他們聽見耶穌活了，被馬利亞看見，卻是不信。^12^這事以後，門徒中有兩個人往鄉下去，走路的時候，耶穌用另一種形像向他們顯現，^13^他們就去告訴其餘的門徒；其餘的門徒也是不信。^14^後來，十一個使徒坐席的時候，耶穌向他們顯現，責備他們不信，心裏剛硬，因為他們不信那些在他復活以後看見他的人。^15^他又對他們說：\jesus{「你們往普天下去，向萬民傳福音。^16^信而受洗的必得救；不信的必被定罪。^17^信的人必有神蹟隨著他們，就是奉我的名趕鬼；說新方言；^18^手能拿蛇；若喝了甚麼致命的毒物，也絕不受害；手按病人，病人就必好了。」}^19^主耶穌向他們說了這些話以後，就被接到天上，坐在神的右邊。^20^門徒出去，到處傳福音，主和他們同工，藉著伴隨的神蹟證實所傳的道。
 
 *（人名附註：本章開頭的「雅各的母親馬利亞」與15:40「小雅各和約西的母親馬利亞」為同一人。經文附註：現存最古老、最可靠的抄本——包括西奈抄本與梵蒂岡抄本——均止於第8節；9-20節的「長結語」與另有的「短結語」，同見於後期較晚的抄本傳統。和合本修訂版依循國際慣例，以標題「有些古卷有下列結語」明確標示這段文字的抄本地位，不與1-8節同等視之，供讀者知悉並自行判斷。）*
 
@@ -61,7 +44,7 @@ publisher: 三書精讀出版系統
 
 > **[[Some of the earliest manuscripts do not include 16:9–20.]]**
 
-> ^9^Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons. ^10^She went and told those who had been with him, as they mourned and wept. ^11^But when they heard that he was alive and had been seen by her, they would not believe it. ^12^After these things he appeared in another form to two of them, as they were walking into the country. ^13^And they went back and told the rest, but they did not believe them. ^14^Afterward he appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had not believed those who saw him after he had risen. ^15^And he said to them, <red>"Go into all the world and proclaim the gospel to the whole creation. ^16^Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. ^17^And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; ^18^they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover."</red> ^19^So then the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God. ^20^And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs.
+> ^9^Now when he rose early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons. ^10^She went and told those who had been with him, as they mourned and wept. ^11^But when they heard that he was alive and had been seen by her, they would not believe it. ^12^After these things he appeared in another form to two of them, as they were walking into the country. ^13^And they went back and told the rest, but they did not believe them. ^14^Afterward he appeared to the eleven themselves as they were reclining at table, and he rebuked them for their unbelief and hardness of heart, because they had not believed those who saw him after he had risen. ^15^And he said to them, \jesus{"Go into all the world and proclaim the gospel to the whole creation. ^16^Whoever believes and is baptized will be saved, but whoever does not believe will be condemned. ^17^And these signs will accompany those who believe: in my name they will cast out demons; they will speak in new tongues; ^18^they will pick up serpents with their hands; and if they drink any deadly poison, it will not hurt them; they will lay their hands on the sick, and they will recover."} ^19^So then the Lord Jesus, after he had spoken to them, was taken up into heaven and sat down at the right hand of God. ^20^And they went out and preached everywhere, while the Lord worked with them and confirmed the message by accompanying signs.
 
 ---
 
@@ -74,6 +57,10 @@ publisher: 三書精讀出版系統
 ### 文學結構：以懸念作結，或以大使命作結？
 
 若馬可福音確實止於16:8，這卷「最急促」的福音書便以一個極不尋常、卻極具張力的方式收尾：婦女因「發抖又驚訝」而「甚麼也沒有告訴人」——讀者被留在一個尚待完成的敘事裏，彷彿被邀請親自去回應「你們也要去告訴人」的使命。若納入9-20節，全書則以主復活後的顯現、大使命「你們往普天下去，向萬民傳福音」，以及升天坐在神右邊作結——這與馬可福音開卷「神的兒子，耶穌基督福音的起頭」（1:1）首尾呼應：福音的「起頭」在1:1，福音「向普天下」的傳揚使命在16:15，全書的敘事弧線由此完整。
+
+### 平行記載與相關經文 (Parallel Accounts and Related Scripture)
+
+馬可16:1-8的空墳墓敘事，與馬太28:1-10、路加24:1-12、約翰20:1-18同為記載復活清晨的四福音平行經文，彼此在細節上略有側重，卻共同見證同一歷史事件。若按長結語，16:15的大使命亦與馬太28:18-20、路加24:47、使徒行傳1:8的差遣命令相呼應，展現四卷福音書與使徒行傳一致的普世宣教異象；16:19「坐在神的右邊」則與詩篇110:1、希伯來書1:3、使徒行傳1:9-11共同構成新約對基督升天、坐於至高權柄之位的完整見證。
 
 ---
 
@@ -147,36 +134,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 16:9-11
-
-> 因此我的心歡喜，我的靈快樂；我的肉身也要安然居住。
-> **因為你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞。**
-> 你必將生命的道路指示我。在你面前有滿足的喜樂；在你右手中有永遠的福樂。
-
-使徒行傳2:27、13:35都引用這節詩篇，宣告基督的復活正是這古老應許的成就——祂的身體沒有見朽壞，祂從死裏得勝。
-
-### 詩篇 118:22-24
-
-> 匠人所棄的石頭已成了房角的頭塊石頭。這是耶和華所做的，在我們眼中看為稀奇。
-> 這是耶和華所定的日子，我們在其中要高興歡喜！
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Thine Be the Glory
-
-> Thine be the glory, risen, conquering Son,
-> endless is the victory Thou o'er death hast won;
-> angels in bright raiment rolled the stone away,
-> kept the folded grave-clothes where Thy body lay.
-
-天使滾開的石頭，不是為了讓耶穌出來——祂已經復活，不需要石頭挪開才能離開墳墓；石頭滾開，是為了讓見證人可以進去，親眼看見墳墓是空的。默想這一點：復活的證據，從一開始就是為了「讓你看見」，不是為了「讓祂出來」。
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：復活、顯現、升天 (Ask Elder Wong)
@@ -199,6 +156,55 @@ publisher: 三書精讀出版系統
 
 - **16:6「他已經復活了」**：整個基督教信仰的根基——華人文化裏，「死而復生」往往被視為神話或迷信，這節經文卻邀請我們，誠實面對這是有歷史見證人、有空墳墓為據的真實事件，而非傳說。
 > — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Christ the Lord Is Risen Today*（今日基督已復活）
+
+> Christ the Lord is risen today, Alleluia!
+> Sons of men and angels say, Alleluia!
+> Raise your joys and triumphs high, Alleluia!
+> Sing, ye heavens, and earth reply, Alleluia!
+>
+> 今日基督已復活，哈利路亞！
+> 天使世人齊聲誇，哈利路亞！
+> 歡呼快樂聲高揚，哈利路亞！
+> 諸天大地齊頌揚，哈利路亞！
+>
+> — Charles Wesley (1739)
+
+**聖詩**：*Thine Be the Glory*
+
+> Thine be the glory, risen, conquering Son,
+> endless is the victory Thou o'er death hast won;
+> angels in bright raiment rolled the stone away,
+> kept the folded grave-clothes where Thy body lay.
+
+天使滾開的石頭，不是為了讓耶穌出來——祂已經復活，不需要石頭挪開才能離開墳墓；石頭滾開，是為了讓見證人可以進去，親眼看見墳墓是空的。默想這一點：復活的證據，從一開始就是為了「讓你看見」，不是為了「讓祂出來」。
+
+**詩篇**：詩篇 16:9-11
+
+> 因此我的心歡喜，我的靈快樂；我的肉身也要安然居住。
+> **因為你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞。**
+> 你必將生命的道路指示我。在你面前有滿足的喜樂；在你右手中有永遠的福樂。
+
+使徒行傳2:27、13:35都引用這節詩篇，宣告基督的復活正是這古老應許的成就——祂的身體沒有見朽壞，祂從死裏得勝。
+
+**詩篇**：詩篇 118:22-24
+
+> 匠人所棄的石頭已成了房角的頭塊石頭。這是耶和華所做的，在我們眼中看為稀奇。
+> 這是耶和華所定的日子，我們在其中要高興歡喜！
+
+**詩篇**：詩篇 24:1-2, 7-10
+
+> 地和其中所充滿的，世界和住在其中的，都屬耶和華。
+> 他把地建立在海上，安定在大水之上。
+> 眾城門哪，你們要抬起頭來！永久的門戶，你們要被舉起！那榮耀的王將要進來！
+> 榮耀的王是誰呢？就是有力有能的耶和華，在戰場上有能力的耶和華！
+> 眾城門哪，你們要抬起頭來！永久的門戶，你們要把頭抬起！那榮耀的王將要進來！
+> 榮耀的王是誰呢？萬軍之耶和華，他是榮耀的王！
 
 ---
 
@@ -225,8 +231,6 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我有沒有一次，因為害怕別人的反應，而把復活的好消息藏在心裏，沒有告訴人？
 - **一個行動**：今天向一個人，具體地見證一次復活的主如何在你生命中做工。
 
----
-
 ## 黃長老精義 (The Distilled Key)
 
 **一句話精義**：「你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏」——這句話，是整卷馬可福音、也是整本聖經最終的答案。
@@ -236,28 +240,6 @@ publisher: 三書精讀出版系統
 **無法迴避的問題**：婦女出了墳墓，「甚麼也沒有告訴人，因為她們害怕」——這卷書把最後一步，留給了讀者：你會不會去告訴人？
 
 > 「墳墓是空的，不是因為屍體被偷走，是因為死亡本身，再也關不住那一位。」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Christ the Lord Is Risen Today*（今日基督已復活）
-
-> Christ the Lord is risen today, Alleluia!
-> sons of men and angels say, Alleluia!
-> Raise your joys and triumphs high, Alleluia!
-> sing, ye heavens, and earth reply, Alleluia!
->
-> — Charles Wesley (1739)
-
-**詩篇**：詩篇 24:1-2, 7-10
-
-> 地和其中所充滿的，世界和住在其中的，都屬耶和華。
-> 他把地建立在海上，安定在大水之上。
-> 眾城門哪，你們要抬起頭來！永久的門戶，你們要被舉起！那榮耀的王將要進來！
-> 榮耀的王是誰呢？就是有力有能的耶和華，在戰場上有能力的耶和華！
-> 眾城門哪，你們要抬起頭來！永久的門戶，你們要把頭抬起！那榮耀的王將要進來！
-> 榮耀的王是誰呢？萬軍之耶和華，他是榮耀的王！
 
 ---
 
@@ -283,16 +265,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 與其他經文的關聯
+## 反思問題 (Reflection Questions)
 
-| 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
-| 復活的應許 | 16:6 | 詩16:10、徒2:27, 13:35 |
-| 約拿的兆頭 | 16:6（三日） | 拿1:17、太12:39-40 |
-| 大使命 | 16:15 | 太28:18-20、路24:47、徒1:8 |
-| 升天坐右邊 | 16:19 | 詩110:1、來1:3、徒1:9-11 |
-| 加利利的重聚 | 16:7 | 可1:16-20（起初的呼召） |
-| 平行敘事 | 16:1-8 | 太28:1-10、路24:1-12、約20:1-18 |
+1. 婦女原本帶著香料要去膏一具屍體，卻在墳墓裏遇見復活的宣告——這對我們今天面對「已經預設好結局」的處境，卻被神親自翻轉時，有什麼提醒？
+
+2. 天使的第一句話是「不要驚慌」，而不是「不要哭」——這對我們分辨「懼怕」與「憂傷」兩種不同的情緒反應，有什麼幫助？
+
+3. 馬可（按最古老抄本）以婦女「甚麼也沒有告訴人，因為她們害怕」戛然而止——這個懸而未決的結尾，對我們理解「傳揚福音」是每一位讀者、而非只是原初見證人的責任，有什麼提醒？
+
+4. 十一個使徒起初「不信」那些見過復活主的人的見證，直到主親自向他們顯現、責備他們的「不信，心裏剛硬」——這對我們今天面對他人的懷疑、卻仍願意忍耐等候的心，有什麼啟發？
+
+5. 若按長結語，大使命「你們往普天下去，向萬民傳福音」與應許「主和他們同工」同時頒布——這對我們今天承擔使命時，「順服差遣」與「倚靠同工」兩者缺一不可，有什麼提醒？
 
 ---
 

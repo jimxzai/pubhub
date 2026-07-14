@@ -18,32 +18,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-**《求主擘開生命之糧》(Break Thou the Bread of Life)**
-
-> Break Thou the bread of life, dear Lord, to me,
-> as Thou didst break the loaves beside the sea;
-> beyond the sacred page I seek Thee, Lord;
-> my spirit pants for Thee, O living Word.
->
-> — Mary A. Lathbury (1877)
-
-未讀這一章之前，先唱這首詩：一個熟悉耶穌長大、卻厭棄祂的家鄉；一群兩手空空被差遣出去的使徒；一片荒野之地，五個餅、兩條魚，卻擘出夠五千人吃飽的糧食。求主在你翻開經文之前，先擘開屬天的糧，讓你不只是讀一段熟悉的故事，乃是在其中再次遇見那賜糧的主。
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 **拿撒勒人厭棄耶穌**
 
-> ^1^耶穌離開那裏，來到自己的家鄉；門徒也跟從他。^2^到了安息日，他在會堂裏教導人。眾人聽見，就很驚奇，說：「這人哪來這本事呢？所賜給他的是甚麼智慧？他手所做的是何等的異能呢？^3^這不是那木匠嗎？不是馬利亞的兒子雅各、約西、猶大、西門的長兄嗎？他姊妹們不也是在我們這裏嗎？」他們就厭棄他。^4^耶穌對他們說：<red>「先知除了在本鄉、本族和自己的家之外，沒有不被尊敬的。」</red>^5^耶穌在那裏不能行甚麼異能，不過為幾個病人按手，治好他們。^6^他也詫異他們不信。
+> ^1^耶穌離開那裏，來到自己的家鄉；門徒也跟從他。^2^到了安息日，他在會堂裏教導人。眾人聽見，就很驚奇，說：「這人哪來這本事呢？所賜給他的是甚麼智慧？他手所做的是何等的異能呢？^3^這不是那木匠嗎？不是馬利亞的兒子雅各、約西、猶大、西門的長兄嗎？他姊妹們不也是在我們這裏嗎？」他們就厭棄他。^4^耶穌對他們說：\jesus{「先知除了在本鄉、本族和自己的家之外，沒有不被尊敬的。」}^5^耶穌在那裏不能行甚麼異能，不過為幾個病人按手，治好他們。^6^他也詫異他們不信。
 
 **差遣十二使徒**
 
-> 他又走遍周圍鄉村教導人。^7^他叫了十二個使徒來，差遣他們兩個兩個地出去，也賜給他們權柄制伏污靈，^8^並且吩咐他們：途中不要帶食物和行囊，腰袋裏也不要帶錢，除了手杖以外，甚麼都不要帶；^9^只要穿鞋子，也不要穿兩件內衣。^10^他又對他們說：<red>「你們無論到何處，進哪家，就住在哪裏，直到離開那地方。^11^若有甚麼地方的人不接待你們，不聽你們，你們離開那裏的時候，要跺掉你們腳上的塵土，證明他們的不是。」</red>^12^使徒就出去傳道，叫人悔改，^13^又趕出許多鬼，用油抹了許多病人，治好他們。
+> 他又走遍周圍鄉村教導人。^7^他叫了十二個使徒來，差遣他們兩個兩個地出去，也賜給他們權柄制伏污靈，^8^並且吩咐他們：途中不要帶食物和行囊，腰袋裏也不要帶錢，除了手杖以外，甚麼都不要帶；^9^只要穿鞋子，也不要穿兩件內衣。^10^他又對他們說：\jesus{「你們無論到何處，進哪家，就住在哪裏，直到離開那地方。^11^若有甚麼地方的人不接待你們，不聽你們，你們離開那裏的時候，要跺掉你們腳上的塵土，證明他們的不是。」}^12^使徒就出去傳道，叫人悔改，^13^又趕出許多鬼，用油抹了許多病人，治好他們。
 
 **希律與施洗約翰之死**
 
@@ -51,11 +36,11 @@ publisher: 三書精讀出版系統
 
 **五餅二魚餵飽五千人**
 
-> ^30^使徒們聚集到耶穌那裏，把一切所做的事、所傳的道全告訴他。^31^他就說：<red>「你們來，同我私下到荒野的地方去歇一歇。」</red>這是因為來往的人多，他們連吃飯的時間也沒有。^32^他們就坐船，私下往荒野的地方去。^33^眾人看見他們走了，有許多認識他們的，就從各城步行，一同跑到那裏，比他們先趕到了。^34^耶穌出來，見有一大群的人，就憐憫他們，因為他們如同羊沒有牧人一般，於是開始教導他們許多事。^35^天已經很晚，門徒進前來，說：「這地方偏僻，而且天已經很晚了，^36^請叫眾人散去，他們好往四面的鄉鎮村莊去，自己買些東西吃。」^37^耶穌回答他們說：<red>「你們給他們吃吧！」</red>門徒對他說：「我們要拿兩百個銀幣去買餅給他們吃嗎？」^38^耶穌說：<red>「你們有多少餅？去看看。」</red>他們知道後就說：「有五個，還有兩條魚。」^39^耶穌吩咐他們，叫眾人一組一組地坐在青草地上。^40^眾人就一群一群地坐下，有一百的，有五十的。^41^耶穌拿著這五個餅和兩條魚，望著天祝福，擘開餅，遞給門徒，擺在眾人面前，也把那兩條魚分給眾人。^42^他們都吃，並且吃飽了。^43^門徒把餅和魚的碎屑收拾起來，裝滿了十二個籃子。^44^吃餅的男人共有五千。
+> ^30^使徒們聚集到耶穌那裏，把一切所做的事、所傳的道全告訴他。^31^他就說：\jesus{「你們來，同我私下到荒野的地方去歇一歇。」}這是因為來往的人多，他們連吃飯的時間也沒有。^32^他們就坐船，私下往荒野的地方去。^33^眾人看見他們走了，有許多認識他們的，就從各城步行，一同跑到那裏，比他們先趕到了。^34^耶穌出來，見有一大群的人，就憐憫他們，因為他們如同羊沒有牧人一般，於是開始教導他們許多事。^35^天已經很晚，門徒進前來，說：「這地方偏僻，而且天已經很晚了，^36^請叫眾人散去，他們好往四面的鄉鎮村莊去，自己買些東西吃。」^37^耶穌回答他們說：\jesus{「你們給他們吃吧！」}門徒對他說：「我們要拿兩百個銀幣去買餅給他們吃嗎？」^38^耶穌說：\jesus{「你們有多少餅？去看看。」}他們知道後就說：「有五個，還有兩條魚。」^39^耶穌吩咐他們，叫眾人一組一組地坐在青草地上。^40^眾人就一群一群地坐下，有一百的，有五十的。^41^耶穌拿著這五個餅和兩條魚，望著天祝福，擘開餅，遞給門徒，擺在眾人面前，也把那兩條魚分給眾人。^42^他們都吃，並且吃飽了。^43^門徒把餅和魚的碎屑收拾起來，裝滿了十二個籃子。^44^吃餅的男人共有五千。
 
 **耶穌在海面上行走**
 
-> ^45^耶穌隨即催門徒上船，先渡到對岸，到伯賽大去，等他叫眾人散去。^46^他辭別了他們，就往山上去禱告。^47^到了晚上，船在海中，耶穌獨自在岸上。^48^他看見門徒因風不順，搖櫓很苦。天快亮的時候，他在海面上走，往他們那裏去，想要超過他們。^49^但門徒看見他在海面上走，以為是鬼怪，就喊叫起來；^50^因為他們都看見了他，甚為驚慌。耶穌連忙對他們說：<red>「放心！是我，不要怕！」</red>^51^於是他到他們那裏，一上船，風就停了；他們心裏十分驚奇。^52^這是因為他們不明白那分餅的事，心裏還是愚頑。
+> ^45^耶穌隨即催門徒上船，先渡到對岸，到伯賽大去，等他叫眾人散去。^46^他辭別了他們，就往山上去禱告。^47^到了晚上，船在海中，耶穌獨自在岸上。^48^他看見門徒因風不順，搖櫓很苦。天快亮的時候，他在海面上走，往他們那裏去，想要超過他們。^49^但門徒看見他在海面上走，以為是鬼怪，就喊叫起來；^50^因為他們都看見了他，甚為驚慌。耶穌連忙對他們說：\jesus{「放心！是我，不要怕！」}^51^於是他到他們那裏，一上船，風就停了；他們心裏十分驚奇。^52^這是因為他們不明白那分餅的事，心裏還是愚頑。
 
 **革尼撒勒的醫治**
 
@@ -63,15 +48,15 @@ publisher: 三書精讀出版系統
 
 ### English — ESV
 
-> ^1^He went away from there and came to his hometown, and his disciples followed him. ^2^And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, "Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands? ^3^Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us?" And they took offense at him. ^4^And Jesus said to them, <red>"A prophet is not without honor, except in his hometown and among his relatives and in his own household."</red> ^5^And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. ^6^And he marveled because of their unbelief.
+> ^1^He went away from there and came to his hometown, and his disciples followed him. ^2^And on the Sabbath he began to teach in the synagogue, and many who heard him were astonished, saying, "Where did this man get these things? What is the wisdom given to him? How are such mighty works done by his hands? ^3^Is not this the carpenter, the son of Mary and brother of James and Joses and Judas and Simon? And are not his sisters here with us?" And they took offense at him. ^4^And Jesus said to them, \jesus{"A prophet is not without honor, except in his hometown and among his relatives and in his own household."} ^5^And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. ^6^And he marveled because of their unbelief.
 
-> And he went about among the villages teaching. ^7^And he called the twelve and began to send them out two by two, and gave them authority over the unclean spirits. ^8^He charged them to take nothing for their journey except a staff—no bread, no bag, no money in their belts— ^9^but to wear sandals and not put on two tunics. ^10^And he said to them, <red>"Whenever you enter a house, stay there until you depart from there. ^11^And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them."</red> ^12^So they went out and proclaimed that people should repent. ^13^And they cast out many demons and anointed with oil many who were sick and healed them.
+> And he went about among the villages teaching. ^7^And he called the twelve and began to send them out two by two, and gave them authority over the unclean spirits. ^8^He charged them to take nothing for their journey except a staff—no bread, no bag, no money in their belts— ^9^but to wear sandals and not put on two tunics. ^10^And he said to them, \jesus{"Whenever you enter a house, stay there until you depart from there. ^11^And if any place will not receive you and they will not listen to you, when you leave, shake off the dust that is on your feet as a testimony against them."} ^12^So they went out and proclaimed that people should repent. ^13^And they cast out many demons and anointed with oil many who were sick and healed them.
 
 > ^14^King Herod heard of it, for Jesus' name had become known. Some said, "John the Baptist has been raised from the dead. That is why these miraculous powers are at work in him." ^15^But others said, "He is Elijah." And others said, "He is a prophet, like one of the prophets of old." ^16^But when Herod heard of it, he said, "John, whom I beheaded, has been raised." ^17^For it was Herod who had sent and seized John and bound him in prison for the sake of Herodias, his brother Philip's wife, because he had married her. ^18^For John had been saying to Herod, "It is not lawful for you to have your brother's wife." ^19^And Herodias had a grudge against him and wanted to put him to death. But she could not, ^20^for Herod feared John, knowing that he was a righteous and holy man, and he kept him safe. When he heard him, he was greatly perplexed, and yet he heard him gladly. ^21^But an opportunity came when Herod on his birthday gave a banquet for his nobles and military commanders and the leading men of Galilee. ^22^For when Herodias's daughter came in and danced, she pleased Herod and his guests. And the king said to the girl, "Ask me for whatever you wish, and I will give it to you." ^23^And he vowed to her, "Whatever you ask me, I will give you, up to half my kingdom." ^24^And she went out and said to her mother, "For what should I ask?" And she said, "The head of John the Baptist." ^25^And she came in immediately with haste to the king and asked, saying, "I want you to give me at once the head of John the Baptist on a platter." ^26^And the king was exceedingly sorry, but because of his oaths and his guests he did not want to break his word to her. ^27^And immediately the king sent an executioner with orders to bring John's head. He went and beheaded him in the prison ^28^and brought his head on a platter and gave it to the girl, and the girl gave it to her mother. ^29^When his disciples heard of it, they came and took his body and laid it in a tomb.
 
-> ^30^The apostles returned to Jesus and told him all that they had done and taught. ^31^And he said to them, <red>"Come away by yourselves to a desolate place and rest a while."</red> For many were coming and going, and they had no leisure even to eat. ^32^And they went away in the boat to a desolate place by themselves. ^33^Now many saw them going and recognized them, and they ran there on foot from all the towns and got there ahead of them. ^34^When he went ashore he saw a great crowd, and he had compassion on them, because they were like sheep without a shepherd. And he began to teach them many things. ^35^And when it grew late, his disciples came to him and said, "This is a desolate place, and the hour is now late. ^36^Send them away to go into the surrounding countryside and villages and buy themselves something to eat." ^37^But he answered them, <red>"You give them something to eat."</red> And they said to him, "Shall we go and buy two hundred denarii worth of bread and give it to them to eat?" ^38^And he said to them, <red>"How many loaves do you have? Go and see."</red> And when they had found out, they said, "Five, and two fish." ^39^Then he commanded them all to sit down in groups on the green grass. ^40^So they sat down in groups, by hundreds and by fifties. ^41^And taking the five loaves and the two fish, he looked up to heaven and said a blessing and broke the loaves and gave them to the disciples to set before the people. And he divided the two fish among them all. ^42^And they all ate and were satisfied. ^43^And they took up twelve baskets full of broken pieces and of the fish. ^44^And those who ate the loaves were five thousand men.
+> ^30^The apostles returned to Jesus and told him all that they had done and taught. ^31^And he said to them, \jesus{"Come away by yourselves to a desolate place and rest a while."} For many were coming and going, and they had no leisure even to eat. ^32^And they went away in the boat to a desolate place by themselves. ^33^Now many saw them going and recognized them, and they ran there on foot from all the towns and got there ahead of them. ^34^When he went ashore he saw a great crowd, and he had compassion on them, because they were like sheep without a shepherd. And he began to teach them many things. ^35^And when it grew late, his disciples came to him and said, "This is a desolate place, and the hour is now late. ^36^Send them away to go into the surrounding countryside and villages and buy themselves something to eat." ^37^But he answered them, \jesus{"You give them something to eat."} And they said to him, "Shall we go and buy two hundred denarii worth of bread and give it to them to eat?" ^38^And he said to them, \jesus{"How many loaves do you have? Go and see."} And when they had found out, they said, "Five, and two fish." ^39^Then he commanded them all to sit down in groups on the green grass. ^40^So they sat down in groups, by hundreds and by fifties. ^41^And taking the five loaves and the two fish, he looked up to heaven and said a blessing and broke the loaves and gave them to the disciples to set before the people. And he divided the two fish among them all. ^42^And they all ate and were satisfied. ^43^And they took up twelve baskets full of broken pieces and of the fish. ^44^And those who ate the loaves were five thousand men.
 
-> ^45^Immediately he made his disciples get into the boat and go before him to the other side, to Bethsaida, while he dismissed the crowd. ^46^And after he had taken leave of them, he went up on the mountain to pray. ^47^And when evening came, the boat was out on the sea, and he was alone on the land. ^48^And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, walking on the sea. He meant to pass by them, ^49^but when they saw him walking on the sea they thought it was a ghost, and cried out, ^50^for they all saw him and were terrified. But immediately he spoke to them and said, <red>"Take heart; it is I. Do not be afraid."</red> ^51^And he got into the boat with them, and the wind ceased. And they were utterly astounded, ^52^for they did not understand about the loaves, but their hearts were hardened.
+> ^45^Immediately he made his disciples get into the boat and go before him to the other side, to Bethsaida, while he dismissed the crowd. ^46^And after he had taken leave of them, he went up on the mountain to pray. ^47^And when evening came, the boat was out on the sea, and he was alone on the land. ^48^And he saw that they were making headway painfully, for the wind was against them. And about the fourth watch of the night he came to them, walking on the sea. He meant to pass by them, ^49^but when they saw him walking on the sea they thought it was a ghost, and cried out, ^50^for they all saw him and were terrified. But immediately he spoke to them and said, \jesus{"Take heart; it is I. Do not be afraid."} ^51^And he got into the boat with them, and the wind ceased. And they were utterly astounded, ^52^for they did not understand about the loaves, but their hearts were hardened.
 
 > ^53^When they had crossed over, they came to land at Gennesaret and moored to the shore. ^54^And when they got out of the boat, the people immediately recognized him ^55^and ran about the whole region and began to bring the sick people on their beds to wherever they heard he was. ^56^And wherever he came, in villages, cities, or countryside, they laid the sick in the marketplaces and implored him that they might touch even the fringe of his garment. And as many as touched it were made well.
 
@@ -86,6 +71,10 @@ publisher: 三書精讀出版系統
 ### 文學結構
 
 這一章以「拒絕」開篇（拿撒勒人厭棄耶穌），卻以「差遣」延續使命（十二使徒出去傳道）；中間插入施洗約翰殉道的倒敘，既解釋了希律對耶穌名聲的驚恐反應，也預告了忠心傳道者可能付上的終極代價；隨後五餅二魚與海面行走兩個神蹟，將讀者的注意力重新拉回耶穌自己的身分——祂正是那能使荒野變為筵席、能在深海之上行走如履平地的那一位。52節「這是因為他們不明白那分餅的事，心裏還是愚頑」是全章的關鍵評語：門徒雖然親眼見過五餅二魚的神蹟，卻仍未真正領悟其中所啟示的基督位格，因而在海上風浪中依然驚慌失措。
+
+### 平行經文 (Synoptic Parallels)
+
+拿撒勒被厭棄的記載另見於馬太福音13:53-58與路加福音4:16-30，路加更詳細記載當日會堂群眾激憤到要將耶穌推下山崖；差遣十二使徒的記載在馬太福音10:1-15有更詳盡的指示；希律的困惑與五餅二魚的神蹟同樣記載於馬太福音14:1-21與路加福音9:7-17；五餅二魚與海面行走的神蹟又見於約翰福音6:1-21，並在其後帶出耶穌「我是生命的糧」的講論。
 
 ---
 
@@ -160,35 +149,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 78:19-20, 23-25, 52-53
-
-> 他們妄論神說：「神在曠野豈能擺設筵席嗎？」
-> 他一擊打磐石，水就湧出，成了江河。他還能賜糧食嗎？還能為他的百姓預備肉嗎？
-> 他卻吩咐天空，敞開天上的門，降嗎哪，像雨給他們吃，將天上的糧食賜給他們。
-> 他卻領出自己的百姓如羊群，在曠野引導他們如羊群一般。
-> 他領他們穩穩妥妥地，使他們不致害怕；海卻淹沒他們的仇敵。
-
-以色列人在曠野質疑「神在曠野豈能擺設筵席」，神卻用嗎哪回答他們的不信；如今耶穌在同一片曠野之地，用五個餅、兩條魚擺設筵席，餵飽五千人。詩篇78篇歷數以色列人一次次的懷疑與神一次次信實的供應——這正是6章要說的：神的供應從不因人的懷疑而止息。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Break Thou the Bread of Life（求主擘開生命之糧）
-
-> Break Thou the bread of life, dear Lord, to me,
-> as Thou didst break the loaves beside the sea;
-> beyond the sacred page I seek Thee, Lord;
-> my spirit pants for Thee, O living Word.
->
-> — Mary A. Lathbury (1877)
-
-Lathbury寫這首詩時，正是以五餅二魚的神蹟為喻：讀經若只停在「聖言的書頁」，卻沒有遇見那擘餅的主自己，讀經就只是知識的累積。「我的靈渴慕你」——這正是拿撒勒人所缺乏的渴慕：他們太熟悉耶穌的書頁（祂的家世、祂的職業），卻從未真正渴慕認識書頁背後那一位。
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：被拿撒勒厭棄、差遣十二 (Ask Elder Wong)
@@ -214,7 +174,32 @@ Lathbury寫這首詩時，正是以五餅二魚的神蹟為喻：讀經若只停
 |------|-----------|----------|
 | 曠野的筵席 | 詩篇 78:19-25 | 神在曠野降嗎哪，如今耶穌在荒野擺設筵席 |
 | 領受生命之糧 | *Break Thou the Bread of Life* | 求主擘開，不只讀書頁，更遇見那賜糧的主 |
-| 安然倚靠 | 詩篇 91 | 「你不怕黑夜的驚駭」——呼應海面行走時「不要怕」 |
+| 安然倚靠 | 詩篇 91:5 | 「你必不怕黑夜的驚駭」——呼應海面行走時「不要怕」 |
+
+### 詩篇回應：曠野的筵席 (Psalm 78:19-20, 23-25, 52-53)
+
+> 他們妄論神說：「神在曠野豈能擺設筵席嗎？」
+> 他一擊打磐石，水就湧出，成了江河。他還能賜糧食嗎？還能為他的百姓預備肉嗎？
+> 他卻吩咐天空，敞開天上的門，降嗎哪，像雨給他們吃，將天上的糧食賜給他們。
+> 他卻領出自己的百姓如羊群，在曠野引導他們如羊群一般。
+> 他領他們穩穩妥妥地，使他們不致害怕；海卻淹沒他們的仇敵。
+
+以色列人在曠野質疑「神在曠野豈能擺設筵席」，神卻用嗎哪回答他們的不信；如今耶穌在同一片曠野之地，用五個餅、兩條魚擺設筵席，餵飽五千人。詩篇78篇歷數以色列人一次次的懷疑與神一次次信實的供應——這正是6章要說的：神的供應從不因人的懷疑而止息。
+
+### 聖詩默想：求主擘開生命之糧 (Break Thou the Bread of Life)
+
+> Break Thou the bread of life, dear Lord, to me,
+> as Thou didst break the loaves beside the sea;
+> beyond the sacred page I seek Thee, Lord;
+> my spirit pants for Thee, O living Word.
+>
+> — Mary A. Lathbury (1877)
+
+Lathbury寫這首詩時，正是以五餅二魚的神蹟為喻：讀經若只停在「聖言的書頁」，卻沒有遇見那擘餅的主自己，讀經就只是知識的累積。「我的靈渴慕你」——這正是拿撒勒人所缺乏的渴慕：他們太熟悉耶穌的書頁（祂的家世、祂的職業），卻從未真正渴慕認識書頁背後那一位。這首詩既可作為進入本章之前的預備禱告——一個熟悉耶穌長大、卻厭棄祂的家鄉；一群兩手空空被差遣出去的使徒；一片荒野之地，五個餅、兩條魚，卻擘出夠五千人吃飽的糧食——也可作為讀完全章之後的迴響：求主不只在你翻開經文之前擘開屬天的糧，更在你合上經文之後，仍不斷擘開，讓你不只是讀過一段熟悉的故事，乃是在其中一再遇見那賜糧的主。
+
+### 詩篇91：安然倚靠
+
+詩篇91:5：「你必不怕黑夜的驚駭」——呼應耶穌在海面上對驚慌門徒所說的「放心！是我，不要怕！」。風浪中的門徒所需要的，不是掌握更多海上求生的技巧，而是認出那位掌管風浪、勝過黑夜驚駭的主，此刻正朝他們走來。
 
 ---
 
@@ -235,8 +220,6 @@ Lathbury寫這首詩時，正是以五餅二魚的神蹟為喻：讀經若只停
 ### 今天的祭壇 (Today's Altar)
 
 默想：我是否也曾像門徒一樣，經歷神的供應卻仍然心裏剛硬？今天的實踐：效法被差遣的門徒，簡樸地倚靠神的供應去服事一個人，而非仰賴自己充分的預備。
-
----
 
 ## 黃長老精義 (The Distilled Key)
 
@@ -277,16 +260,6 @@ Lathbury寫這首詩時，正是以五餅二魚的神蹟為喻：讀經若只停
 4. 「這是因為他們不明白那分餅的事，心裏還是愚頑」——門徒經歷神蹟卻仍未真正認識耶穌的身分，這對我們今天「經歷神」與「認識神」之間的差距，有什麼提醒？
 
 5. 「是我，不要怕」——耶穌在海面上的宣告，呼應出埃及記神向摩西啟示的名字。這對你理解耶穌的神性，有什麼幫助？
-
----
-
-## 與其他經文的關聯
-
-- **馬太福音13:53-58；路加福音4:16-30**——平行經文，路加特別記載拿撒勒會堂當日群眾激憤到要將耶穌推下山崖。
-- **馬太福音10:1-15**——差遣十二使徒的平行記載，指示更為詳盡。
-- **馬太福音14:1-21；路加福音9:7-17**——希律的困惑與五餅二魚的平行記載。
-- **約翰福音6:1-21**——五餅二魚與海面行走的平行記載，並帶出「我是生命的糧」的講論。
-- **出埃及記3:14；約翰福音8:58**——「我是」(*egō eimi*) 的神聖宣告，貫穿舊約與新約。
 
 ---
 

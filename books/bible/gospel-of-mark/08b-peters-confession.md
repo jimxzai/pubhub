@@ -22,19 +22,19 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^27^耶穌和門徒出去，往凱撒利亞‧腓立比附近的村莊去。在路上，他問門徒：<red>「人們說我是誰？」</red>^28^他們對他說：「是施洗的約翰；有人說是以利亞；又有人說是先知中的一位。」^29^他又問他們：<red>「你們說我是誰？」</red>彼得回答他：「你是基督。」^30^於是耶穌切切地囑咐他們不可對任何人說起他。
+> ^27^耶穌和門徒出去，往凱撒利亞‧腓立比附近的村莊去。在路上，他問門徒：\jesus{「人們說我是誰？」}^28^他們對他說：「是施洗的約翰；有人說是以利亞；又有人說是先知中的一位。」^29^他又問他們：\jesus{「你們說我是誰？」}彼得回答他：「你是基督。」^30^於是耶穌切切地囑咐他們不可對任何人說起他。
 
-> ^31^從此，他教導他們說：<red>「人子必須受許多的苦，被長老、祭司長和文士棄絕，並且被殺，三天後復活。」</red>^32^耶穌明白地說了這話，彼得就拉著他，責備他。^33^耶穌轉過來看著門徒，斥責彼得說：<red>「撒但，退到我後邊去！因為你不體會神的心意，而是體會人的意思。」</red>
+> ^31^從此，他教導他們說：\jesus{「人子必須受許多的苦，被長老、祭司長和文士棄絕，並且被殺，三天後復活。」}^32^耶穌明白地說了這話，彼得就拉著他，責備他。^33^耶穌轉過來看著門徒，斥責彼得說：\jesus{「撒但，退到我後邊去！因為你不體會神的心意，而是體會人的意思。」}
 
-> ^34^於是他叫眾人和門徒來，對他們說：<red>「若有人要跟從我，就當捨己，背起自己的十字架來跟從我。^35^因為凡要救自己生命的，必喪失生命；凡為我和福音喪失生命的，必救自己的生命。^36^人就是賺得全世界，賠上自己的生命，有甚麼益處呢？^37^人還能拿甚麼換生命呢？^38^凡在這淫亂罪惡的世代，把我和我的道當作可恥的，人子在他父的榮耀裏與聖天使一同來臨的時候，也要把那人當作可恥的。」</red>
+> ^34^於是他叫眾人和門徒來，對他們說：\jesus{「若有人要跟從我，就當捨己，背起自己的十字架來跟從我。^35^因為凡要救自己生命的，必喪失生命；凡為我和福音喪失生命的，必救自己的生命。^36^人就是賺得全世界，賠上自己的生命，有甚麼益處呢？^37^人還能拿甚麼換生命呢？^38^凡在這淫亂罪惡的世代，把我和我的道當作可恥的，人子在他父的榮耀裏與聖天使一同來臨的時候，也要把那人當作可恥的。」}
 
 ### English — ESV
 
-> ^27^And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, <red>"Who do people say that I am?"</red> ^28^And they told him, "John the Baptist; and others say, Elijah; and others, one of the prophets." ^29^And he asked them, <red>"But who do you say that I am?"</red> Peter answered him, "You are the Christ." ^30^And he strictly charged them to tell no one about him.
+> ^27^And Jesus went on with his disciples to the villages of Caesarea Philippi. And on the way he asked his disciples, \jesus{"Who do people say that I am?"} ^28^And they told him, "John the Baptist; and others say, Elijah; and others, one of the prophets." ^29^And he asked them, \jesus{"But who do you say that I am?"} Peter answered him, "You are the Christ." ^30^And he strictly charged them to tell no one about him.
 
-> ^31^And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again. ^32^And he said this plainly. And Peter took him aside and began to rebuke him. ^33^But turning and seeing his disciples, he rebuked Peter and said, <red>"Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man."</red>
+> ^31^And he began to teach them that the Son of Man must suffer many things and be rejected by the elders and the chief priests and the scribes and be killed, and after three days rise again. ^32^And he said this plainly. And Peter took him aside and began to rebuke him. ^33^But turning and seeing his disciples, he rebuked Peter and said, \jesus{"Get behind me, Satan! For you are not setting your mind on the things of God, but on the things of man."}
 
-> ^34^And calling the crowd to him with his disciples, he said to them, <red>"If anyone would come after me, let him deny himself and take up his cross and follow me. ^35^For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it. ^36^For what does it profit a man to gain the whole world and forfeit his soul? ^37^For what can a man give in return for his soul? ^38^For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels."</red>
+> ^34^And calling the crowd to him with his disciples, he said to them, \jesus{"If anyone would come after me, let him deny himself and take up his cross and follow me. ^35^For whoever would save his life will lose it, but whoever loses his life for my sake and the gospel's will save it. ^36^For what does it profit a man to gain the whole world and forfeit his soul? ^37^For what can a man give in return for his soul? ^38^For whoever is ashamed of me and of my words in this adulterous and sinful generation, of him will the Son of Man also be ashamed when he comes in the glory of his Father with the holy angels."}
 
 ---
 

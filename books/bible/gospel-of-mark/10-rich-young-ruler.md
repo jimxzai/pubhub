@@ -18,64 +18,47 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> **Take Up Thy Cross**
-> *Charles W. Everest, 1833*
->
-> Take up thy cross, and follow Christ,
-> Nor think till death to lay it down;
-> For only he who bears the cross
-> May hope to wear the glorious crown.
->
-> 背起你的十字架，跟從基督；
-> 至死不要放下這十架；
-> 惟有背十架的人，
-> 才有指望戴上榮耀冠冕。
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 **論休妻、迎接小孩子**
 
-> ^1^耶穌從那裏起身，來到猶太的境內，約旦河的東邊。眾人又聚集到他那裏，他又照常教導他們。^2^有法利賽人來問他說：「男人休妻合不合法？」意思是要試探他。^3^耶穌回答他們說：<red>「摩西吩咐你們的是甚麼？」</red>^4^他們說：「摩西准許寫了休書就可以休妻。」^5^耶穌對他們說：<red>「摩西因為你們的心硬，所以寫這誡命給你們。^6^但從起初創造的時候，神造人是造男造女。^7^因此，人要離開他的父母，與妻子結合，^8^二人成為一體。既然如此，夫妻不再是兩個人，而是一體的了。^9^所以，神配合的，人不可分開。」</red>^10^他們到了屋裏，門徒又問他這事。^11^耶穌對他們說：<red>「凡休妻另娶的，就是犯姦淫，辜負他的妻子；^12^妻子若離棄丈夫另嫁，也是犯姦淫了。」</red>
+> ^1^耶穌從那裏起身，來到猶太的境內，約旦河的東邊。眾人又聚集到他那裏，他又照常教導他們。^2^有法利賽人來問他說：「男人休妻合不合法？」意思是要試探他。^3^耶穌回答他們說：\jesus{「摩西吩咐你們的是甚麼？」}^4^他們說：「摩西准許寫了休書就可以休妻。」^5^耶穌對他們說：\jesus{「摩西因為你們的心硬，所以寫這誡命給你們。^6^但從起初創造的時候，神造人是造男造女。^7^因此，人要離開他的父母，與妻子結合，^8^二人成為一體。既然如此，夫妻不再是兩個人，而是一體的了。^9^所以，神配合的，人不可分開。」}^10^他們到了屋裏，門徒又問他這事。^11^耶穌對他們說：\jesus{「凡休妻另娶的，就是犯姦淫，辜負他的妻子；^12^妻子若離棄丈夫另嫁，也是犯姦淫了。」}
 
-> ^13^有人帶著小孩子來見耶穌，要他摸他們，門徒就責備那些人。^14^耶穌看見就很生氣，對門徒說：<red>「讓小孩到我這裏來，不要阻止他們，因為在神國的正是這樣的人。^15^我實在告訴你們，凡要接受神國的，若不像小孩子，絕不能進去。」</red>^16^於是他抱著小孩子，給他們按手，為他們祝福。
+> ^13^有人帶著小孩子來見耶穌，要他摸他們，門徒就責備那些人。^14^耶穌看見就很生氣，對門徒說：\jesus{「讓小孩到我這裏來，不要阻止他們，因為在神國的正是這樣的人。^15^我實在告訴你們，凡要接受神國的，若不像小孩子，絕不能進去。」}^16^於是他抱著小孩子，給他們按手，為他們祝福。
 
 **財主與神的國**
 
-> ^17^耶穌剛上路的時候，有一個人跑來，跪在他面前，問他：「善良的老師，我該做甚麼事才能承受永生？」^18^耶穌對他說：<red>「你為甚麼稱我是善良的？除了神一位之外，再沒有善良的。^19^誡命你是知道的：『不可殺人；不可姦淫；不可偷盜；不可作假見證；不可虧負人；當孝敬父母。』」</red>^20^他對耶穌說：「老師，這一切我從小都遵守了。」^21^耶穌看著他，就愛他，對他說：<red>「你還缺少一件：去變賣你所有的，分給窮人，就必有財寶在天上；然後來跟從我。」</red>^22^他聽見這話，臉就變了色，憂憂愁愁地走了，因為他的產業很多。
+> ^17^耶穌剛上路的時候，有一個人跑來，跪在他面前，問他：「善良的老師，我該做甚麼事才能承受永生？」^18^耶穌對他說：\jesus{「你為甚麼稱我是善良的？除了神一位之外，再沒有善良的。^19^誡命你是知道的：『不可殺人；不可姦淫；不可偷盜；不可作假見證；不可虧負人；當孝敬父母。』」}^20^他對耶穌說：「老師，這一切我從小都遵守了。」^21^耶穌看著他，就愛他，對他說：\jesus{「你還缺少一件：去變賣你所有的，分給窮人，就必有財寶在天上；然後來跟從我。」}^22^他聽見這話，臉就變了色，憂憂愁愁地走了，因為他的產業很多。
 
-> ^23^耶穌看了看周圍，對門徒說：<red>「有錢財的人進神的國是何等的難哪！」</red>^24^門徒對他的話非常驚奇。耶穌又對他們說：<red>「孩子們，要進神的國是何等的難哪！^25^駱駝穿過針眼比財主進神的國還容易呢！」</red>^26^門徒就更為驚訝，彼此對問：「這樣，誰能得救呢？」^27^耶穌看著他們，說：<red>「在人不能，在神卻不然，因為在神凡事都能。」</red>^28^彼得就對他說：「看哪，我們已經撇下一切跟從你了。」^29^耶穌說：<red>「我實在告訴你們，凡為我和福音撇下房屋，或是兄弟、姊妹、父親、母親、兒女、田地，^30^沒有不在今世得百倍的，就是房屋、兄弟、姊妹、母親、兒女、田地，並且要受迫害，在來世得永生。^31^然而，有許多在前的，將要在後；在後的，將要在前。」</red>
+> ^23^耶穌看了看周圍，對門徒說：\jesus{「有錢財的人進神的國是何等的難哪！」}^24^門徒對他的話非常驚奇。耶穌又對他們說：\jesus{「孩子們，要進神的國是何等的難哪！^25^駱駝穿過針眼比財主進神的國還容易呢！」}^26^門徒就更為驚訝，彼此對問：「這樣，誰能得救呢？」^27^耶穌看著他們，說：\jesus{「在人不能，在神卻不然，因為在神凡事都能。」}^28^彼得就對他說：「看哪，我們已經撇下一切跟從你了。」^29^耶穌說：\jesus{「我實在告訴你們，凡為我和福音撇下房屋，或是兄弟、姊妹、父親、母親、兒女、田地，^30^沒有不在今世得百倍的，就是房屋、兄弟、姊妹、母親、兒女、田地，並且要受迫害，在來世得永生。^31^然而，有許多在前的，將要在後；在後的，將要在前。」}
 
 **第三次預言受難、雅各約翰求座位**
 
-> ^32^他們行路上耶路撒冷去。耶穌在前頭走，他們很驚訝，跟從的人也害怕。耶穌又叫十二使徒來，把自己將要遭遇的事告訴他們，^33^說：<red>「看哪，我們上耶路撒冷去，人子將被交給祭司長和文士；他們要定他死罪，又交給外邦人。^34^他們要戲弄他，向他吐唾沫，鞭打他，殺害他；三天後，他要復活。」</red>
+> ^32^他們行路上耶路撒冷去。耶穌在前頭走，他們很驚訝，跟從的人也害怕。耶穌又叫十二使徒來，把自己將要遭遇的事告訴他們，^33^說：\jesus{「看哪，我們上耶路撒冷去，人子將被交給祭司長和文士；他們要定他死罪，又交給外邦人。^34^他們要戲弄他，向他吐唾沫，鞭打他，殺害他；三天後，他要復活。」}
 
-> ^35^西庇太的兒子雅各和約翰進前來，對耶穌說：「老師，我們無論求你甚麼，願你為我們做。」^36^耶穌對他們說：<red>「要我為你們做甚麼？」</red>^37^他們對他說：「在你的榮耀裏，請賜我們一個坐在你右邊，一個坐在你左邊。」^38^耶穌對他們說：<red>「你們不知道所求的是甚麼。我所喝的杯，你們能喝嗎？我所受的洗，你們能受嗎？」</red>^39^他們對他說：「我們能。」耶穌對他們說：<red>「我所喝的杯，你們要喝；我所受的洗，你們也要受。^40^可是坐在我的左右，不是我可以賜的，而是為誰預備就賜給誰。」</red>^41^其餘十個門徒聽見，就對雅各和約翰很生氣。^42^耶穌叫了他們來，對他們說：<red>「你們知道，外邦人有君王作主治理他們，有大臣操權管轄他們。^43^但是在你們中間，不可這樣。你們中間誰願為大，就要作你們的用人；^44^在你們中間誰願為首，就要作眾人的僕人。^45^因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」</red>
+> ^35^西庇太的兒子雅各和約翰進前來，對耶穌說：「老師，我們無論求你甚麼，願你為我們做。」^36^耶穌對他們說：\jesus{「要我為你們做甚麼？」}^37^他們對他說：「在你的榮耀裏，請賜我們一個坐在你右邊，一個坐在你左邊。」^38^耶穌對他們說：\jesus{「你們不知道所求的是甚麼。我所喝的杯，你們能喝嗎？我所受的洗，你們能受嗎？」}^39^他們對他說：「我們能。」耶穌對他們說：\jesus{「我所喝的杯，你們要喝；我所受的洗，你們也要受。^40^可是坐在我的左右，不是我可以賜的，而是為誰預備就賜給誰。」}^41^其餘十個門徒聽見，就對雅各和約翰很生氣。^42^耶穌叫了他們來，對他們說：\jesus{「你們知道，外邦人有君王作主治理他們，有大臣操權管轄他們。^43^但是在你們中間，不可這樣。你們中間誰願為大，就要作你們的用人；^44^在你們中間誰願為首，就要作眾人的僕人。^45^因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」}
 
 **醫治瞎眼的巴底買**
 
-> ^46^他們到了耶利哥。耶穌同門徒並許多人離開耶利哥的時候，有一個討飯的盲人，是底買的兒子巴底買，坐在路旁。^47^他聽見是拿撒勒的耶穌，就喊了起來，說：「大衛之子耶穌啊，可憐我吧！」^48^有許多人責備他，不許他作聲，他卻越發喊著：「大衛之子啊，可憐我吧！」^49^耶穌就站住，說：<red>「叫他過來。」</red>他們就叫那盲人，對他說：「放心，起來！他在叫你啦。」^50^盲人就丟下衣服，跳起來，走到耶穌那裏。^51^耶穌回答他說：<red>「你要我為你做甚麼？」</red>盲人對他說：「拉波尼，我要能看見。」^52^耶穌對他說：<red>「你去吧！你的信救了你。」</red>盲人立刻看得見，就在路上跟隨耶穌。
+> ^46^他們到了耶利哥。耶穌同門徒並許多人離開耶利哥的時候，有一個討飯的盲人，是底買的兒子巴底買，坐在路旁。^47^他聽見是拿撒勒的耶穌，就喊了起來，說：「大衛之子耶穌啊，可憐我吧！」^48^有許多人責備他，不許他作聲，他卻越發喊著：「大衛之子啊，可憐我吧！」^49^耶穌就站住，說：\jesus{「叫他過來。」}他們就叫那盲人，對他說：「放心，起來！他在叫你啦。」^50^盲人就丟下衣服，跳起來，走到耶穌那裏。^51^耶穌回答他說：\jesus{「你要我為你做甚麼？」}盲人對他說：「拉波尼，我要能看見。」^52^耶穌對他說：\jesus{「你去吧！你的信救了你。」}盲人立刻看得見，就在路上跟隨耶穌。
 
 ### English — ESV
 
-> ^1^And he left there and went to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them. ^2^And Pharisees came up and in order to test him asked, "Is it lawful for a man to divorce his wife?" ^3^He answered them, <red>"What did Moses command you?"</red> ^4^They said, "Moses allowed a man to write a certificate of divorce and to send her away." ^5^And Jesus said to them, <red>"Because of your hardness of heart he wrote you this commandment. ^6^But from the beginning of creation, 'God made them male and female.' ^7^'Therefore a man shall leave his father and mother and hold fast to his wife, ^8^and the two shall become one flesh.' So they are no longer two but one flesh. ^9^What therefore God has joined together, let not man separate."</red> ^10^And in the house the disciples asked him again about this matter. ^11^And he said to them, <red>"Whoever divorces his wife and marries another commits adultery against her, ^12^and if she divorces her husband and marries another, she commits adultery."</red>
+> ^1^And he left there and went to the region of Judea and beyond the Jordan, and crowds gathered to him again. And again, as was his custom, he taught them. ^2^And Pharisees came up and in order to test him asked, "Is it lawful for a man to divorce his wife?" ^3^He answered them, \jesus{"What did Moses command you?"} ^4^They said, "Moses allowed a man to write a certificate of divorce and to send her away." ^5^And Jesus said to them, \jesus{"Because of your hardness of heart he wrote you this commandment. ^6^But from the beginning of creation, 'God made them male and female.' ^7^'Therefore a man shall leave his father and mother and hold fast to his wife, ^8^and the two shall become one flesh.' So they are no longer two but one flesh. ^9^What therefore God has joined together, let not man separate."} ^10^And in the house the disciples asked him again about this matter. ^11^And he said to them, \jesus{"Whoever divorces his wife and marries another commits adultery against her, ^12^and if she divorces her husband and marries another, she commits adultery."}
 
-> ^13^And they were bringing children to him that he might touch them, and the disciples rebuked them. ^14^But when Jesus saw it, he was indignant and said to them, <red>"Let the children come to me; do not hinder them, for to such belongs the kingdom of God. ^15^Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it."</red> ^16^And he took them in his arms and blessed them, laying his hands on them.
+> ^13^And they were bringing children to him that he might touch them, and the disciples rebuked them. ^14^But when Jesus saw it, he was indignant and said to them, \jesus{"Let the children come to me; do not hinder them, for to such belongs the kingdom of God. ^15^Truly, I say to you, whoever does not receive the kingdom of God like a child shall not enter it."} ^16^And he took them in his arms and blessed them, laying his hands on them.
 
-> ^17^And as he was setting out on his journey, a man ran up and knelt before him and asked him, "Good Teacher, what must I do to inherit eternal life?" ^18^And Jesus said to him, <red>"Why do you call me good? No one is good except God alone. ^19^You know the commandments: 'Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.'"</red> ^20^And he said to him, "Teacher, all these I have kept from my youth." ^21^And Jesus, looking at him, loved him, and said to him, <red>"You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me."</red> ^22^Disheartened by the saying, he went away sorrowful, for he had great possessions.
+> ^17^And as he was setting out on his journey, a man ran up and knelt before him and asked him, "Good Teacher, what must I do to inherit eternal life?" ^18^And Jesus said to him, \jesus{"Why do you call me good? No one is good except God alone. ^19^You know the commandments: 'Do not murder, Do not commit adultery, Do not steal, Do not bear false witness, Do not defraud, Honor your father and mother.'"} ^20^And he said to him, "Teacher, all these I have kept from my youth." ^21^And Jesus, looking at him, loved him, and said to him, \jesus{"You lack one thing: go, sell all that you have and give to the poor, and you will have treasure in heaven; and come, follow me."} ^22^Disheartened by the saying, he went away sorrowful, for he had great possessions.
 
-> ^23^And Jesus looked around and said to his disciples, <red>"How difficult it will be for those who have wealth to enter the kingdom of God!"</red> ^24^And the disciples were amazed at his words. But Jesus said to them again, <red>"Children, how difficult it is to enter the kingdom of God! ^25^It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."</red> ^26^And they were exceedingly astonished, and said to him, "Then who can be saved?" ^27^Jesus looked at them and said, <red>"With man it is impossible, but not with God. For all things are possible with God."</red> ^28^Peter began to say to him, "See, we have left everything and followed you." ^29^Jesus said, <red>"Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, ^30^who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life. ^31^But many who are first will be last, and the last first."</red>
+> ^23^And Jesus looked around and said to his disciples, \jesus{"How difficult it will be for those who have wealth to enter the kingdom of God!"} ^24^And the disciples were amazed at his words. But Jesus said to them again, \jesus{"Children, how difficult it is to enter the kingdom of God! ^25^It is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God."} ^26^And they were exceedingly astonished, and said to him, "Then who can be saved?" ^27^Jesus looked at them and said, \jesus{"With man it is impossible, but not with God. For all things are possible with God."} ^28^Peter began to say to him, "See, we have left everything and followed you." ^29^Jesus said, \jesus{"Truly, I say to you, there is no one who has left house or brothers or sisters or mother or father or children or lands, for my sake and for the gospel, ^30^who will not receive a hundredfold now in this time, houses and brothers and sisters and mothers and children and lands, with persecutions, and in the age to come eternal life. ^31^But many who are first will be last, and the last first."}
 
-> ^32^And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. And they were amazed, and those who followed were afraid. And taking the twelve again, he began to tell them what was to happen to him, ^33^saying, <red>"See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. ^34^And they will mock him and spit on him, and flog him and kill him. And after three days he will rise."</red>
+> ^32^And they were on the road, going up to Jerusalem, and Jesus was walking ahead of them. And they were amazed, and those who followed were afraid. And taking the twelve again, he began to tell them what was to happen to him, ^33^saying, \jesus{"See, we are going up to Jerusalem, and the Son of Man will be delivered over to the chief priests and the scribes, and they will condemn him to death and deliver him over to the Gentiles. ^34^And they will mock him and spit on him, and flog him and kill him. And after three days he will rise."}
 
-> ^35^And James and John, the sons of Zebedee, came up to him and said to him, "Teacher, we want you to do for us whatever we ask of you." ^36^And he said to them, <red>"What do you want me to do for you?"</red> ^37^And they said to him, "Grant us to sit, one at your right hand and one at your left, in your glory." ^38^Jesus said to them, <red>"You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?"</red> ^39^And they said to him, "We are able." And Jesus said to them, <red>"The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized, ^40^but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared."</red> ^41^And when the ten heard it, they began to be indignant at James and John. ^42^And Jesus called them to him and said to them, <red>"You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. ^43^But it shall not be so among you. But whoever would be great among you must be your servant, ^44^and whoever would be first among you must be slave of all. ^45^For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many."</red>
+> ^35^And James and John, the sons of Zebedee, came up to him and said to him, "Teacher, we want you to do for us whatever we ask of you." ^36^And he said to them, \jesus{"What do you want me to do for you?"} ^37^And they said to him, "Grant us to sit, one at your right hand and one at your left, in your glory." ^38^Jesus said to them, \jesus{"You do not know what you are asking. Are you able to drink the cup that I drink, or to be baptized with the baptism with which I am baptized?"} ^39^And they said to him, "We are able." And Jesus said to them, \jesus{"The cup that I drink you will drink, and with the baptism with which I am baptized, you will be baptized, ^40^but to sit at my right hand or at my left is not mine to grant, but it is for those for whom it has been prepared."} ^41^And when the ten heard it, they began to be indignant at James and John. ^42^And Jesus called them to him and said to them, \jesus{"You know that those who are considered rulers of the Gentiles lord it over them, and their great ones exercise authority over them. ^43^But it shall not be so among you. But whoever would be great among you must be your servant, ^44^and whoever would be first among you must be slave of all. ^45^For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many."}
 
-> ^46^And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, a blind beggar, the son of Timaeus, was sitting by the roadside. ^47^And when he heard that it was Jesus of Nazareth, he began to cry out and say, "Jesus, Son of David, have mercy on me!" ^48^And many rebuked him, telling him to be silent. But he cried out all the more, "Son of David, have mercy on me!" ^49^And Jesus stopped and said, <red>"Call him."</red> And they called the blind man, saying to him, "Take heart. Get up; he is calling you." ^50^And throwing off his cloak, he sprang up and came to Jesus. ^51^And Jesus said to him, <red>"What do you want me to do for you?"</red> And the blind man said to him, "Rabbi, let me recover my sight." ^52^And Jesus said to him, <red>"Go your way; your faith has made you well."</red> And immediately he recovered his sight and followed him on the way.
+> ^46^And they came to Jericho. And as he was leaving Jericho with his disciples and a great crowd, Bartimaeus, a blind beggar, the son of Timaeus, was sitting by the roadside. ^47^And when he heard that it was Jesus of Nazareth, he began to cry out and say, "Jesus, Son of David, have mercy on me!" ^48^And many rebuked him, telling him to be silent. But he cried out all the more, "Son of David, have mercy on me!" ^49^And Jesus stopped and said, \jesus{"Call him."} And they called the blind man, saying to him, "Take heart. Get up; he is calling you." ^50^And throwing off his cloak, he sprang up and came to Jesus. ^51^And Jesus said to him, \jesus{"What do you want me to do for you?"} And the blind man said to him, "Rabbi, let me recover my sight." ^52^And Jesus said to him, \jesus{"Go your way; your faith has made you well."} And immediately he recovered his sight and followed him on the way.
 
 ---
 
@@ -88,6 +71,10 @@ publisher: 三書精讀出版系統
 ### 文學結構：全書的領受中心
 
 10:45「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價」，是全馬可福音的領受核心——這節經文濃縮了全書「僕人基督」的主題，也直接解釋了為何耶穌三次預言受難卻仍堅定前行。這一章環繞這節經文，前後呼應：財主無法「撇下」財富跟從（17-22節），門徒卻已經「撇下一切」跟從（28節）；雅各、約翰求「坐在你的榮耀裏」（37節），耶穌卻教導「為首的要作眾人的僕人」（44節）；最終，瞎眼的巴底買「丟下」衣服（可能是他行乞唯一的財產），跳起來跟從耶穌「在路上」（52節）——這條「路」，正是通往耶路撒冷、通往十字架的道路。全章環繞「撇下什麼、才能真正跟從」這個問題，一步步推進到最核心的答案：跟從那位捨命的僕人君王。
+
+### 與其他經文的呼應
+
+休妻的教導平行太19:1-9，「起初創造」的次序引自創1:27、2:24；迎接小孩子的教導平行太18:3-4、路18:16-17；財主變賣所有跟從主的呼召，呼應太6:19-21、路12:33、腓3:7-8；駱駝穿針眼的誇張比喻見於太19:24、路18:25；撇下一切得百倍賞賜的應許見於太19:29、路18:29-30；為首的作眾人用人的教導，平行太20:26-27、太23:11、腓2:5-8。「贖價」（*lytron*）一詞除了呼應以賽亞書53章的受苦僕人異象之外，也直接被使徒教會引用來詮釋十架：提摩太前書2:6「他捨自己作萬人的贖價」、提多書2:14「他為我們捨了自己，要贖我們脫離一切罪惡」——顯明「贖價」很早就成了教會理解基督救贖工作的核心語彙。巴底買蒙醫治的記載平行太20:29-34、路18:35-43，並且與可8:22-26（伯賽大瞎子分兩階段看見的醫治）遙相呼應——這兩次瞎子得醫治的神蹟，恰好框住馬可福音「往耶路撒冷去的路」（8:27-10:52）：前一個瞎子起初看得模糊不清，象徵門徒對彌賽亞與十字架道路理解的漸進；十章末了的巴底買卻立刻看見，且立刻「在路上跟隨耶穌」，為這段旅程劃下一個完滿的句點。
 
 ---
 
@@ -162,36 +149,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 49:6-8, 16-17
-
-> 那些倚仗財貨自誇錢財多的人，
-> 一個也無法贖自己的弟兄，也不能替他將贖價給神，
-> 叫他長遠活著，不見朽壞——因為贖他生命的價值極貴。
-> 見人享大富、其家日益威榮，不要害怕；
-> 因為他死的時候，甚麼也不能帶去，他的榮耀不能隨他下去。
-
-### 詩篇 25:9-10
-
-> **他必按公平引領謙卑人，將他的道教訓他們。**
-> 凡遵守他的約和他法度的人，耶和華都以慈愛誠實待他。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Have Thine Own Way, Lord
-
-> Have Thine own way, Lord! Have Thine own way!
-> Thou art the potter, I am the clay.
-> Mold me and make me after Thy will,
-> **while I am waiting, yielded and still.**
-
-財主無法「交在陶匠手中」，因為他捨不得那塊被自己緊握的泥土；巴底買卻丟下唯一的外衣，任憑主的手把他重新塑造。
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：休妻論、財主、第三次預言受難 (Ask Elder Wong)
@@ -203,10 +160,11 @@ publisher: 三書精讀出版系統
 - **找主句，濃縮全段**：這一整章若只能留一節，就是45節。財主無法撇下財富（17-22節），門徒卻已撇下一切（28節）；雅各約翰求坐在榮耀裏（37節），耶穌卻教導為首的要作僕人（44節）；瞎子巴底買丟下衣服跟從（50, 52節）——全都圍繞著「撇下什麼，才能真正跟從那位捨命的僕人」這個問題展開。
 - **財主自稱從小遵守誡命，耶穌卻說他「缺少一件」**——你有沒有也像財主一樣，在道德與宗教操練上自認及格，卻迴避了那要求你「變賣、跟從」的一件事？
 - **雅各、約翰在耶穌第三次預言受難之後，立刻求「坐在你的榮耀裏」**——這種對地位的渴望，與耶穌剛說的十字架道路，形成何等強烈的對比？你的服事動機裏，有沒有類似「求座位」的成分？
+- **一節經文，能否濃縮整卷馬可福音？**——如果只能留下一節，會不會就是10:45？你會如何向一位還不認識耶穌的朋友，用自己的話解釋這節經文的分量？
 
 **整本聖經的連結**：耶穌用「贖價」（*lytron*）描述自己的死，直接呼應以賽亞書53:10-12「他為百姓的過犯被剪除……他卻擔當多人的罪，又為罪犯代求」——受苦僕人的異象，如今由耶穌親口宣告成就。另一條線索：出埃及記21章與利未記25章記載「贖回」奴隸或土地所需支付的價銀（*pidyon*）；耶穌的捨命正是這個舊約贖回制度的終極應驗——祂親自付上贖價，把被罪奴役的人買贖回來，成為神的兒女。
 
-**讓話語住在裡面**：財主憂憂愁愁地離開，因為他「產業很多」——這提醒我們：跟從基督最深的攔阻，往往不是明顯的罪惡，而是我們捨不得放下的「好東西」。默想：我生命中有沒有一件「產業」，是我知道耶穌要我變賣、卻遲遲不肯放手的？今天的實踐：具體地為一件「捨己」的行動做出選擇，哪怕只是很小的一步。
+**讓話語住在裡面**：財主憂憂愁愁地離開，因為他「產業很多」——這提醒我們：跟從基督最深的攔阻，往往不是明顯的罪惡，而是我們捨不得放下的「好東西」。這個時代衡量「成功」的標準，是不斷的累積——累積財富、累積粉絲、累積職位；耶穌卻對財主說「你還缺少一件：去變賣」——真正的豐盛，有時候恰恰是從放手開始，而不是從累積開始。默想：我生命中有沒有一件「產業」，是我知道耶穌要我變賣、卻遲遲不肯放手的？今天的實踐：具體地為一件「捨己」的行動做出選擇，哪怕只是很小的一步——一筆奉獻、一次讓位、一個放下的堅持。
 
 **你看見耶穌了嗎**：在論婚姻的神聖裏、在擁抱孩童的溫柔裏、在看著財主就愛他的眼神裏、在宣告自己來是要服事並捨命贖罪的話語裏、在停下腳步回應瞎眼乞丐呼求的憐憫裏，你看見的，是那位貫穿全馬可福音的僕人基督——祂的寶座是十字架，祂的加冕是捨命，而祂邀請你，撇下攔阻你的那一件事，起來，跟從祂走上這條路。
 
@@ -220,7 +178,20 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Hymns & Psalms)
 
-**聖詩**：*Have Thine Own Way, Lord*（求主成就你的旨意）
+**聖詩一**：*Take Up Thy Cross*（背起十字架）
+*Charles W. Everest, 1833*
+
+> Take up thy cross, and follow Christ,
+> Nor think till death to lay it down;
+> For only he who bears the cross
+> May hope to wear the glorious crown.
+>
+> 背起你的十字架，跟從基督；
+> 至死不要放下這十架；
+> 惟有背十架的人，
+> 才有指望戴上榮耀冠冕。
+
+**聖詩二**：*Have Thine Own Way, Lord*（求主成就你的旨意）
 
 > Have Thine own way, Lord! Have Thine own way!
 > Thou art the potter, I am the clay.
@@ -229,38 +200,49 @@ publisher: 三書精讀出版系統
 >
 > — Adelaide A. Pollard (1907)
 
-**詩篇**：詩篇 25:4-5, 9-10
+財主無法「交在陶匠手中」，因為他捨不得那塊被自己緊握的泥土；巴底買卻丟下唯一的外衣，任憑主的手把他重新塑造。
+
+**詩篇一**：詩篇 49:6-8, 16-17
+
+> 那些倚仗財貨自誇錢財多的人，
+> 一個也無法贖自己的弟兄，也不能替他將贖價給神，
+> 叫他長遠活著，不見朽壞——因為贖他生命的價值極貴。
+> 見人享大富、其家日益威榮，不要害怕；
+> 因為他死的時候，甚麼也不能帶去，他的榮耀不能隨他下去。
+
+**詩篇二**：詩篇 25:4-5, 9-10
 
 > 耶和華啊，求你將你的道指示我，將你的路教訓我！
 > 求你以你的真理引導我，教訓我，因為你是救我的神。我終日等候你。
-> 他必按公平引領謙卑人，將他的道教訓他們。
+> **他必按公平引領謙卑人，將他的道教訓他們。**
 > 凡遵守他的約和他法度的人，耶和華都以慈愛誠實待他。
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
 
 ### 全經連線 (Tracing It Through Scripture)
 
-耶穌用「贖價」（*lytron*）描述自己的死，直接呼應以賽亞書53:10-12「他為百姓的過犯被剪除……他卻擔當多人的罪，又為罪犯代求」——受苦僕人的異象，如今由耶穌親口宣告成就。另一條線索：出埃及記21章與利未記25章記載「贖回」奴隸或土地所需支付的價銀；耶穌的捨命正是這個舊約贖回制度的終極應驗——祂親自付上贖價，把被罪奴役的人買贖回來，成為神的兒女。
+這一章其實藏著三個「不可能」的場景，一個接一個排開：一對本該「二人成為一體」、卻硬著心要拆散的夫妻（1-12節）；一個從小遵守誡命、卻獨獨無法鬆開手中產業的財主（17-22節）；一對剛聽見主第三次預言受難、卻立刻求「坐在你的榮耀裏」的兄弟（35-40節）。三個場景，三種不同的「握緊」——握緊婚約的自由、握緊財富的安全感、握緊地位的尊榮——直到27節耶穌親口說出全章的鑰匙：「在人不能，在神卻不然，因為在神凡事都能。」這句話不是憑空而出的安慰，它站在一條古老的信心傳承線上：創世記18:14，耶和華問亞伯拉罕「耶和華豈有難成的事嗎？」；耶利米書32:17, 27，先知在圍城絕境中呼求「你曾用大能和伸出來的膀臂創造天地，在你沒有難成的事」；撒迦利亞書4:6「不是倚靠勢力，不是倚靠才能，乃是倚靠我的靈方能成事」。整本聖經反覆見證同一件事：凡是人「握不住、放不下、扭不轉」的光景，最終的答案從來不是人加倍努力，而是神親自介入。而神介入的方式，10:45已經說明白了——不是一句安慰的話，而是「捨命作多人的贖價」，親自付上代價買贖那握不住自己命運的人。
+再往下看，巴底買「丟下衣服」（50節）與財主「憂憂愁愁地走了，因為他的產業很多」（22節），是這一章刻意安排的一組對照：財主擁有很多，卻一件都捨不得；巴底買幾乎一無所有——那件外衣可能是他行乞唯一的家當、夜裏唯一的鋪蓋——卻毫不猶豫地丟下，跳起來跟從。這個畫面讓人想起列王紀上19:19-21，以利沙蒙以利亞的外衣一披，便宰牛燒犁、辭別父母，撇下維生的產業去跟從先知。巴底買丟外衣、以利沙燒耕具，同樣是「把退路燒盡」的跟從姿態——而馬可刻意把這一幕，安放在財主無法撇下財富的敘事之後，讓讀者自己看見：真正攔阻人進神國的，從來不是擁有多少，而是願不願意鬆手。
 
 ### 提問式對話 (Let the Reader Speak)
 
-先問：財主自稱從小遵守誡命，耶穌卻說他「缺少一件」——你有沒有也像財主一樣，在道德與宗教操練上自認及格，卻迴避了那要求你「變賣、跟從」的一件事？
-再問：雅各、約翰在耶穌第三次預言受難之後，立刻求「坐在你的榮耀裏」——你的服事動機裡，有沒有類似「求座位」的成分？
-再問：如果只能留一節經文總結整卷馬可福音，會不會就是10:45？
+先問：法利賽人問「休妻合不合法」，其實是想知道「我最多可以走到哪一步、還不算犯規」——你今天在信仰生活裏，有沒有哪個角落，其實也在問同樣的問題：「我最多可以妥協到哪裏，還算是跟從主」？
+再問：財主說「這一切我從小都遵守了」，這句話很可能是誠實的——他不是說謊。那為什麼「一直做對的事」，仍然可能讓人與永生失之交臂？你有沒有也活在一種「我已經很努力了」的安全感裏，卻從未被問過那句「你還缺少一件」？
+再問：雅各、約翰求座位的時候，耶穌剛說完自己要被戲弄、吐唾沫、鞭打、殺害——這種時機的錯位，是不是也常常發生在你我身上：主正在說十架，我們卻在想升遷？如果今天主問你「要我為你做甚麼」，你脫口而出的第一句話，會更像雅各、約翰，還是更像巴底買？
 
-### 活在今天 · AI時代 (Living It Today)
+### 活在今天．AI時代 (Living It Today)
 
-這個時代衡量「成功」的標準，是累積——累積財富、累積粉絲、累積職位。耶穌卻對財主說「你還缺少一件：去變賣」——真正的豐盛，有時候恰恰是從放手開始的，而不是從累積開始的。
+這個時代最擅長讓人相信「只要條件夠好，就配得一切」——履歷夠漂亮、指標夠亮眼、演算法把你推薦給更多人看見，你就「進去了」。財主正是這種邏輯的化身：他的條件無可挑剔，卻在「你還缺少一件」面前現出原形。今天許多人努力把自己活成一份「無可指摘的履歷」——健身、學習、輸出、優化自我——卻從未問過：這一切累積，會不會也是另一種「產業很多」，讓我在真正需要撇下的那一刻，同樣「憂憂愁愁地走了」？巴底買恰恰相反：他沒有履歷可以優化，沒有指標可以累積，他唯一擁有的，是一聲不肯閉嘴的呼求。在一個崇尚「可量化的優越」的時代，10:27提醒我們，進神國從來不是一場資格審查，而是一場「在人不能」的坦承——唯有先承認自己無法靠條件贏得，才可能經歷「在神凡事都能」的恩典。
 
 ### 今天的祭壇 (Today's Altar)
 
-具體地為一件「捨己」的行動做出選擇，哪怕只是很小的一步——一筆奉獻、一次讓位、一個放下的堅持。
+今天具體找出你生命中那件像財主的「產業」——可能不是金錢，也可能是一份成就感、一段掌控欲、一個不肯讓人取代的位置——寫下它的名字，然後像巴底買丟下外衣一樣，做一件具體、可見的「鬆手」的行動，把它擺上祭壇。
 
 ## 黃長老精義 (The Distilled Key)
 
-10:45是整卷馬可福音的心臟——「人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價」；這一章前後的每一個場景，都是這句宣告的具體演繹。
+這一章把三個「握不緊」的場景擺在一起——拆不散的婚約卻被人心硬拆散、放不下的財富、爭不完的地位——最後全部匯聚到同一句話：「在人不能，在神卻不然」。而神成就這「不能」的方式，不是一聲安慰，是10:45親自捨命作贖價；能真正踏上這條路跟從的，不是那位擁有最多、卻走不開的財主，而是那位一無所有、卻願意丟下唯一外衣的瞎眼乞丐。
 
 ---
 
@@ -288,18 +270,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 與其他經文的關聯
+## 反思問題 (Reflection Questions)
 
-| 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
-| 婚姻的創造次序 | 10:6-9 | 創1:27、2:24、太19:4-6 |
-| 像小孩子承受神國 | 10:14-15 | 太18:3-4、路18:16-17 |
-| 變賣所有跟從主 | 10:21 | 太6:19-21、路12:33、腓3:7-8 |
-| 駱駝穿針眼 | 10:25 | 太19:24、路18:25 |
-| 撇下一切的百倍賞賜 | 10:29-30 | 太19:29、路18:29-30 |
-| 贖價（*lytron*） | 10:45 | 賽53:10-12、提前2:6、多2:14 |
-| 為首的作僕人 | 10:43-44 | 太20:26-27、太23:11、腓2:5-8 |
-| 巴底買的信心 | 10:52 | 太20:29-34、路18:35-43、可8:22-26（另一位瞎子） |
+1. 耶穌回答法利賽人有關休妻的提問時，沒有停留在摩西的讓步條例，而是直接回到「起初創造」的心意——在我今天看待婚姻、承諾、關係的方式裏，有多少是回到創造的藍圖，有多少其實只是隨著這個時代「怎麼方便就怎麼做」的風氣而定？
+
+2. 財主自稱從小遵守了一切誡命，聽見「你還缺少一件」卻憂憂愁愁地離開——如果耶穌今天看著我，會不會也對我說類似的話？那攔阻我全心跟從的「一件」，究竟是什麼？我是選擇像財主一樣轉身離開，還是願意面對它？
+
+3. 「在人不能，在神卻不然」——這句話本是回應「誰能得救」的絕望提問。我生命中有沒有一個人（也許正是我自己），是我心裏早已斷定「沒有指望了」的？如果真正相信「在神凡事都能」，這份斷定會不會需要重新調整？
+
+4. 雅各、約翰在耶穌剛第三次預言自己將受死之後，立刻求「坐在你的榮耀裏」；耶穌卻用「作眾人的僕人」重新定義偉大——在我目前的家庭、職場或教會服事中，有沒有哪個角落，我其實更在意的是「被看見、被肯定」，而不是甘心作那個洗腳的人？
+
+5. 巴底買不顧眾人的責備繼續呼喊，蒙醫治之後卻沒有回家，而是「在路上跟隨耶穌」——那條路，正是通往耶路撒冷、通往十字架的路。當禱告蒙了應允，我是滿足於已經得著的祝福就此止步，還是願意像巴底買一樣，繼續跟隨耶穌走上那條可能要付代價的路？
 
 ---
 

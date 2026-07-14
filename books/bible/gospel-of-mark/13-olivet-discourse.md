@@ -18,59 +18,41 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> **Lo! He Comes with Clouds Descending**
-> *Charles Wesley, 1758*
->
-> Lo! He comes with clouds descending,
-> once for favored sinners slain;
-> thousand thousand saints attending,
-> swell the triumph of His train.
-> Alleluia! Alleluia!
-> Christ the Lord returns to reign.
->
-> 看哪，祂駕雲降臨，曾一次為蒙恩的罪人捨命；
-> 千萬聖徒隨行，成就祂得勝的隊伍。
-> 哈利路亞！哈利路亞！基督我主再來作王。
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 **預言聖殿被毀**
 
-> ^1^耶穌從聖殿裏出來的時候，有一個門徒對他說：「老師，請看，這是多麼了不起的石頭！多麼了不起的建築！」^2^耶穌對他說：<red>「你看見這些宏偉的建築嗎？這裏將沒有一塊石頭會留在另一塊石頭上而不被拆毀的。」</red>^3^耶穌在橄欖山上，面向聖殿坐著；彼得、雅各、約翰和安得烈私下問他說：^4^「請告訴我們，甚麼時候有這些事呢？這一切事將成的時候有甚麼預兆呢？」
+> ^1^耶穌從聖殿裏出來的時候，有一個門徒對他說：「老師，請看，這是多麼了不起的石頭！多麼了不起的建築！」^2^耶穌對他說：\jesus{「你看見這些宏偉的建築嗎？這裏將沒有一塊石頭會留在另一塊石頭上而不被拆毀的。」}^3^耶穌在橄欖山上，面向聖殿坐著；彼得、雅各、約翰和安得烈私下問他說：^4^「請告訴我們，甚麼時候有這些事呢？這一切事將成的時候有甚麼預兆呢？」
 
 **災難的起頭**
 
-> ^5^耶穌說：<red>「你們要謹慎，免得有人迷惑你們。^6^將有好些人冒我的名來，說『我是基督』，並且要迷惑許多人。^7^當你們聽見打仗和打仗的風聲，不要驚慌；這些事必須發生，但這還不是終結。^8^民要攻打民，國要攻打國，多處必有地震、饑荒。這都是災難的起頭。^9^但你們自己要謹慎；因為有人要把你們交給議會，並且你們在會堂裏要受鞭打，又為我的緣故站在統治者和君王面前，對他們作見證。^10^然而，福音必須先傳給萬民。^11^有人把你們解送去受審的時候，不要事先擔心說甚麼；到那時候，賜給你們甚麼話，你們就說甚麼；因為說話的不是你們，而是聖靈。^12^兄弟要把兄弟、父親要把兒女置於死地；兒女要起來與父母為敵，害死他們；^13^而且你們要為我的名被眾人憎恨。但堅忍到底的終必得救。」</red>
+> ^5^耶穌說：\jesus{「你們要謹慎，免得有人迷惑你們。^6^將有好些人冒我的名來，說『我是基督』，並且要迷惑許多人。^7^當你們聽見打仗和打仗的風聲，不要驚慌；這些事必須發生，但這還不是終結。^8^民要攻打民，國要攻打國，多處必有地震、饑荒。這都是災難的起頭。^9^但你們自己要謹慎；因為有人要把你們交給議會，並且你們在會堂裏要受鞭打，又為我的緣故站在統治者和君王面前，對他們作見證。^10^然而，福音必須先傳給萬民。^11^有人把你們解送去受審的時候，不要事先擔心說甚麼；到那時候，賜給你們甚麼話，你們就說甚麼；因為說話的不是你們，而是聖靈。^12^兄弟要把兄弟、父親要把兒女置於死地；兒女要起來與父母為敵，害死他們；^13^而且你們要為我的名被眾人憎恨。但堅忍到底的終必得救。」}
 
 **大災難、施行毀滅的褻瀆者**
 
-> <red>^14^「當你們看見那『施行毀滅的褻瀆者』站在不當站的地方（讀這經的人要會意），那時，在猶太的，應當逃到山上；^15^在屋頂上的，不要下來，也不要進家裏去拿東西；^16^在田裏的，不要回去取衣裳。^17^在那些日子，懷孕的和奶孩子的就苦了。^18^你們要祈求，叫這事不在冬天發生。^19^因為，在那些日子必有災難，自從神創造萬物直到如今，從沒有這樣的災難，將來也不會有。^20^若不是主減少那些日子，凡血肉之軀的，就沒有一個能得救；但是為了他所揀選的選民，他將那些日子減少了。^21^那時，若有人對你們說：『看哪，基督在這裏！看哪，在那裏！』你們不要信。^22^因為假基督和假先知將要起來，顯神蹟奇事，如果可能，連選民也迷惑了。^23^你們要謹慎！凡事我都預先告訴你們了。」</red>
+> \jesus{^14^「當你們看見那『施行毀滅的褻瀆者』站在不當站的地方（讀這經的人要會意），那時，在猶太的，應當逃到山上；^15^在屋頂上的，不要下來，也不要進家裏去拿東西；^16^在田裏的，不要回去取衣裳。^17^在那些日子，懷孕的和奶孩子的就苦了。^18^你們要祈求，叫這事不在冬天發生。^19^因為，在那些日子必有災難，自從神創造萬物直到如今，從沒有這樣的災難，將來也不會有。^20^若不是主減少那些日子，凡血肉之軀的，就沒有一個能得救；但是為了他所揀選的選民，他將那些日子減少了。^21^那時，若有人對你們說：『看哪，基督在這裏！看哪，在那裏！』你們不要信。^22^因為假基督和假先知將要起來，顯神蹟奇事，如果可能，連選民也迷惑了。^23^你們要謹慎！凡事我都預先告訴你們了。」}
 
 **人子的降臨**
 
-> <red>^24^「在那些日子、那災難以後，太陽要變黑，月亮也不放光，^25^眾星要從天上墜落，天上的萬象都要震動。^26^那時，他們要看見人子帶著大能力和榮耀駕雲來臨。^27^他要差遣天使，從四方，從地極直到天邊，召集他的選民。」</red>
+> \jesus{^24^「在那些日子、那災難以後，太陽要變黑，月亮也不放光，^25^眾星要從天上墜落，天上的萬象都要震動。^26^那時，他們要看見人子帶著大能力和榮耀駕雲來臨。^27^他要差遣天使，從四方，從地極直到天邊，召集他的選民。」}
 
 **無花果樹的比喻、警醒的呼召**
 
-> <red>^28^「你們要從無花果樹學習功課：當樹枝發芽長葉的時候，你們就知道夏天近了。^29^同樣，當你們看見這些事發生，就知道那時候近了，就在門口了。^30^我實在告訴你們，這世代還沒有過去，這一切都要發生。^31^天地要廢去，我的話卻絕不廢去。^32^但那日子，那時辰，沒有人知道，連天上的天使也不知道，子也不知道，惟有父知道。^33^你們要謹慎，要警醒，因為你們不知道那時刻幾時來到。^34^這事正如一個人離家遠行，授權給僕人們，分派各人的工作，又吩咐看門的警醒。^35^所以，你們要警醒，因為你們不知道這家的主人甚麼時候來，是晚上，或半夜，或雞叫時，或早晨，^36^免得他忽然來到，看見你們睡著了。^37^我對你們所說的話，也是對眾人說的：要警醒！」</red>
+> \jesus{^28^「你們要從無花果樹學習功課：當樹枝發芽長葉的時候，你們就知道夏天近了。^29^同樣，當你們看見這些事發生，就知道那時候近了，就在門口了。^30^我實在告訴你們，這世代還沒有過去，這一切都要發生。^31^天地要廢去，我的話卻絕不廢去。^32^但那日子，那時辰，沒有人知道，連天上的天使也不知道，子也不知道，惟有父知道。^33^你們要謹慎，要警醒，因為你們不知道那時刻幾時來到。^34^這事正如一個人離家遠行，授權給僕人們，分派各人的工作，又吩咐看門的警醒。^35^所以，你們要警醒，因為你們不知道這家的主人甚麼時候來，是晚上，或半夜，或雞叫時，或早晨，^36^免得他忽然來到，看見你們睡著了。^37^我對你們所說的話，也是對眾人說的：要警醒！」}
 
 ### English — ESV
 
-> ^1^And as he came out of the temple, one of his disciples said to him, "Look, Teacher, what wonderful stones and what wonderful buildings!" ^2^And Jesus said to him, <red>"Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down."</red> ^3^And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately, ^4^"Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?"
+> ^1^And as he came out of the temple, one of his disciples said to him, "Look, Teacher, what wonderful stones and what wonderful buildings!" ^2^And Jesus said to him, \jesus{"Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down."} ^3^And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately, ^4^"Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?"
 
-> ^5^And Jesus began to say to them, <red>"See that no one leads you astray. ^6^Many will come in my name, saying, 'I am he!' and they will lead many astray. ^7^And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. ^8^For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains. ^9^But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them. ^10^And the gospel must first be proclaimed to all nations. ^11^And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit. ^12^And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. ^13^And you will be hated by all for my name's sake. But the one who endures to the end will be saved.</red>
+> ^5^And Jesus began to say to them, \jesus{"See that no one leads you astray. ^6^Many will come in my name, saying, 'I am he!' and they will lead many astray. ^7^And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. ^8^For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains. ^9^But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them. ^10^And the gospel must first be proclaimed to all nations. ^11^And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit. ^12^And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. ^13^And you will be hated by all for my name's sake. But the one who endures to the end will be saved.}
 
-> <red>^14^But when you see the abomination of desolation standing where he ought not to be (let the reader understand), then let those who are in Judea flee to the mountains. ^15^Let the one who is on the housetop not go down, nor enter his house, to take anything out, ^16^and let the one who is in the field not turn back to take his cloak. ^17^And alas for women who are pregnant and for those who are nursing infants in those days! ^18^Pray that it may not happen in winter. ^19^For in those days there will be such tribulation as has not been from the beginning of the creation that God created until now, and never will be. ^20^And if the Lord had not cut short the days, no human being would be saved. But for the sake of the elect, whom he chose, he shortened the days. ^21^And then if anyone says to you, 'Look, here is the Christ!' or 'Look, there he is!' do not believe it. ^22^For false christs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect. ^23^But be on guard; I have told you all things beforehand.</red>
+> \jesus{^14^But when you see the abomination of desolation standing where he ought not to be (let the reader understand), then let those who are in Judea flee to the mountains. ^15^Let the one who is on the housetop not go down, nor enter his house, to take anything out, ^16^and let the one who is in the field not turn back to take his cloak. ^17^And alas for women who are pregnant and for those who are nursing infants in those days! ^18^Pray that it may not happen in winter. ^19^For in those days there will be such tribulation as has not been from the beginning of the creation that God created until now, and never will be. ^20^And if the Lord had not cut short the days, no human being would be saved. But for the sake of the elect, whom he chose, he shortened the days. ^21^And then if anyone says to you, 'Look, here is the Christ!' or 'Look, there he is!' do not believe it. ^22^For false christs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect. ^23^But be on guard; I have told you all things beforehand.}
 
-> <red>^24^But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light, ^25^and the stars will be falling from heaven, and the powers in the heavens will be shaken. ^26^And then they will see the Son of Man coming in clouds with great power and glory. ^27^And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven.</red>
+> \jesus{^24^But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light, ^25^and the stars will be falling from heaven, and the powers in the heavens will be shaken. ^26^And then they will see the Son of Man coming in clouds with great power and glory. ^27^And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven.}
 
-> <red>^28^From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near. ^29^So also, when you see these things taking place, you know that he is near, at the very gates. ^30^Truly, I say to you, this generation will not pass away until all these things take place. ^31^Heaven and earth will pass away, but my words will not pass away. ^32^But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father. ^33^Be on guard, keep awake. For you do not know when the time will come. ^34^It is like a man going on a journey, when he leaves home and puts his servants in charge, each with his work, and commands the doorkeeper to stay awake. ^35^Therefore stay awake—for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows, or in the morning— ^36^lest he come suddenly and find you asleep. ^37^And what I say to you I say to all: Stay awake."</red>
+> \jesus{^28^From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near. ^29^So also, when you see these things taking place, you know that he is near, at the very gates. ^30^Truly, I say to you, this generation will not pass away until all these things take place. ^31^Heaven and earth will pass away, but my words will not pass away. ^32^But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father. ^33^Be on guard, keep awake. For you do not know when the time will come. ^34^It is like a man going on a journey, when he leaves home and puts his servants in charge, each with his work, and commands the doorkeeper to stay awake. ^35^Therefore stay awake—for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows, or in the morning— ^36^lest he come suddenly and find you asleep. ^37^And what I say to you I say to all: Stay awake."}
 
 ---
 
@@ -83,6 +65,10 @@ publisher: 三書精讀出版系統
 ### 文學結構：雙重應驗的預言張力
 
 歷代解經家對這段講論的詮釋分為幾派：有人認為整段預言僅指向主後70年聖殿被毀（過去式應驗）；有人認為24-27節的「人子降臨」超越了主後70年的範圍，指向基督再來的末世終局；也有人主張這段講論具有「雙重應驗」的性質——近期的聖殿被毀，是末後基督再來之更大審判的預表與縮影。馬可將這段講論以「你們要謹慎」「你們要警醒」的呼召貫穿首尾（5, 9, 23, 33, 35, 37節），顯明無論對「甚麼時候」持哪種立場，這段教導的實際目的，始終落在「儆醒等候」的呼召上，而非滿足門徒對時間表的好奇心。
+
+### 平行經文與新約迴響
+
+馬可福音13章的講論在其他新約書卷中留下清楚的迴響：聖殿被毀的預言另見於太24:1-2、路21:5-6；施行毀滅的褻瀆者呼應但9:27、11:31、12:11；人子駕雲降臨與但7:13-14、太24:29-31、啟1:7相互印證；無花果樹的比喻另見太24:32-35、路21:29-33；「那日子那時辰無人知道」在太24:36、徒1:7、帖前5:1-2也有平行的教導；警醒等候的呼召則與太24:42-44、路21:34-36、帖前5:6一脈相承。
 
 ---
 
@@ -159,34 +145,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 90:1-2, 12
-
-> 主啊，你世世代代作我們的居所。
-> 諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。
-> **求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。**
-
-### 詩篇 46:1-2
-
-> 神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。
-> 所以，地雖改變，山雖搖動到海心，我們也不害怕。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### My Hope Is Built on Nothing Less
-
-> When darkness veils His lovely face,
-> I rest on His unchanging grace;
-> in every high and stormy gale,
-> my anchor holds within the veil.
-> **On Christ, the solid Rock, I stand;**
-> **all other ground is sinking sand.**
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：橄欖山末世講論 (Ask Elder Wong)
@@ -212,7 +170,46 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Lo! He Comes with Clouds Descending*（看哪，祂駕雲降臨）——Charles Wesley, 1758
+
+> Lo! He comes with clouds descending,
+> once for favored sinners slain;
+> thousand thousand saints attending,
+> swell the triumph of His train.
+> Alleluia! Alleluia!
+> Christ the Lord returns to reign.
+>
+> 看哪，祂駕雲降臨，曾一次為蒙恩的罪人捨命；
+> 千萬聖徒隨行，成就祂得勝的隊伍。
+> 哈利路亞！哈利路亞！基督我主再來作王。
+>
+> — Charles Wesley (1758)
+
+**聖詩**：*My Hope Is Built on Nothing Less*（我的盼望全然建立）
+
+> When darkness veils His lovely face,
+> I rest on His unchanging grace;
+> in every high and stormy gale,
+> my anchor holds within the veil.
+> **On Christ, the solid Rock, I stand;**
+> **all other ground is sinking sand.**
+
+**詩篇**：詩篇 90:1-2, 12
+
+> 主啊，你世世代代作我們的居所。
+> 諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。
+> 求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。
+
+**詩篇**：詩篇 46:1-2
+
+> 神是我們的避難所，是我們的力量，是我們在患難中隨時的幫助。
+> 所以，地雖改變，山雖搖動到海心，我們也不害怕。
+
+---
+
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -251,24 +248,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Lo! He Comes with Clouds Descending*（看哪，祂駕雲降臨）
-
-> Lo! He comes with clouds descending, once for favored sinners slain;
-> thousand thousand saints attending, swell the triumph of His train.
-> Alleluia! Alleluia! Christ the Lord returns to reign.
->
-> — Charles Wesley (1758)
-
-**詩篇**：詩篇 90:1-2, 12
-
-> 主啊，你世世代代作我們的居所。
-> 諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。
-> 求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。
-
----
-
 ## 生命應用 (Application)
 
 ### 默想問題
@@ -302,19 +281,6 @@ publisher: 三書精讀出版系統
 4. 無花果樹發芽的比喻，教導我們從「看得見的預兆」推斷「看不見的時候近了」——今天教會或個人生活中，你觀察到哪些提醒你「儆醒預備」的記號？
 
 5. 這段講論反覆呼召「警醒」——今天你的生活節奏與屬靈操練，是否活出了一種真正意義上「隨時預備好」的儆醒狀態？
-
----
-
-## 與其他經文的關聯
-
-| 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
-| 聖殿被毀的預言 | 13:1-2 | 太24:1-2、路21:5-6 |
-| 施行毀滅的褻瀆者 | 13:14 | 但9:27、11:31、12:11 |
-| 人子駕雲降臨 | 13:24-27 | 但7:13-14、太24:29-31、啟1:7 |
-| 無花果樹的比喻 | 13:28-31 | 太24:32-35、路21:29-33 |
-| 那日子那時辰無人知道 | 13:32 | 太24:36、徒1:7、帖前5:1-2 |
-| 警醒等候 | 13:33-37 | 太24:42-44、路21:34-36、帖前5:6 |
 
 ---
 

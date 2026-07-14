@@ -18,15 +18,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> On Jordan's bank the Baptist's cry announces that the Lord is nigh;
-> awake and hearken, for he brings glad tidings of the King of kings.
->
-> — Charles Coffin (1736), trans. John Chandler (1837)
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
@@ -165,28 +156,27 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 配詩 (Hymns & Psalms)
 
-### 詩篇 40:1-5
+**聖詩**：*On Jordan's Bank the Baptist's Cry*（在約旦河岸，施洗者的呼聲）——Charles Coffin（1736年），John Chandler英譯（1837年）；這首聖詩把施洗約翰在曠野的呼聲，從歷史事件轉為向每一位讀者發出的個人邀請。
+
+> On Jordan's bank the Baptist's cry announces that the Lord is nigh;
+> awake and hearken, for he brings glad tidings of the King of kings.
+>
+> Then cleansed be every life from sin: make straight the way for God within,
+> and let us all our hearts prepare for Christ to come and enter there.
+>
+> — Charles Coffin (1736), trans. John Chandler (1837)
+
+「使每個生命都潔淨脫離罪」不再只是猶太曠野裏的呼喊——你心裏是否也有一條需要「修直」的路，好讓基督進來？
+
+**詩篇**：詩篇 40:1-5
 
 > 我曾耐性等候耶和華，他垂聽我的呼求。
 > 他從禍坑裏，從淤泥中把我拉上來，使我的腳立在磐石上，使我腳步穩健。
 > 他使我口唱新歌，就是讚美我們神的話。許多人必看見而懼怕，並要倚靠耶和華。
 
 大衛「耐性等候」之後才「被拉上來」——這正是曠野幾百年沉默之後，神差遣使者的節奏。等候不是神的缺席，是神預備的時間。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### On Jordan's Bank the Baptist's Cry
-
-> Then cleansed be every life from sin: make straight the way for God within,
-> and let us all our hearts prepare for Christ to come and enter there.
->
-> — Charles Coffin (1736), trans. John Chandler (1837)
-
-這首聖詩把施洗約翰的呼聲從歷史事件轉為個人邀請——「使每個生命都潔淨脫離罪」不再只是猶太曠野裏的呼喊，而是向每一位讀者發出的邀請：你心裏是否也有一條需要「修直」的路，好讓基督進來？
 
 ---
 

@@ -18,66 +18,49 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> **The Church's One Foundation**
-> *Samuel John Stone, 1866*
->
-> The Church's one foundation is Jesus Christ her Lord;
-> she is His new creation, by water and the Word.
-> From heaven He came and sought her to be His holy bride;
-> with His own blood He bought her, and for her life He died.
->
-> 教會惟一的根基，就是耶穌基督我主；
-> 她是祂用水和道所造的新造之人；
-> 祂從天降臨、尋找她作祂聖潔的新婦；
-> 用自己的寶血買贖她，又為她的生命捨命。
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 **兇惡園戶的比喻**
 
-> ^1^耶穌就用比喻對他們說：<red>「有人開墾了一個葡萄園，四周圍上籬笆，挖了一個醡酒池，蓋了一座守望樓，租給園戶，就出外遠行去了。^2^到了時候，他打發一個僕人到園戶那裏，要向他們收葡萄園的果子。^3^他們拿住他，打了他，叫他空手回去。^4^園主再打發一個僕人到他們那裏。他們打傷他的頭，並且侮辱他。^5^園主又打發一個僕人去，他們就殺了他。以後又打發好些僕人去，有的被他們打了，有的被他們殺了。^6^園主還有一位，是他的愛子，最後又打發他去，說：『他們會尊敬我的兒子。』^7^那些園戶卻彼此說：『這是承受產業的。來，我們殺了他，產業就歸我們了！』^8^於是他們拿住他，殺了他，把他扔出葡萄園。^9^這樣，葡萄園主要怎麼做呢？他要來除滅那些園戶，將葡萄園轉給別人。^10^『匠人所丟棄的石頭已作了房角的頭塊石頭。^11^這是主所做的，在我們眼中看為奇妙。』這段經你們沒有念過嗎？」</red>^12^他們看出這比喻是指著他們說的，就想要捉拿他，但是懼怕眾人，於是離開他走了。
+> ^1^耶穌就用比喻對他們說：\jesus{「有人開墾了一個葡萄園，四周圍上籬笆，挖了一個醡酒池，蓋了一座守望樓，租給園戶，就出外遠行去了。^2^到了時候，他打發一個僕人到園戶那裏，要向他們收葡萄園的果子。^3^他們拿住他，打了他，叫他空手回去。^4^園主再打發一個僕人到他們那裏。他們打傷他的頭，並且侮辱他。^5^園主又打發一個僕人去，他們就殺了他。以後又打發好些僕人去，有的被他們打了，有的被他們殺了。^6^園主還有一位，是他的愛子，最後又打發他去，說：『他們會尊敬我的兒子。』^7^那些園戶卻彼此說：『這是承受產業的。來，我們殺了他，產業就歸我們了！』^8^於是他們拿住他，殺了他，把他扔出葡萄園。^9^這樣，葡萄園主要怎麼做呢？他要來除滅那些園戶，將葡萄園轉給別人。^10^『匠人所丟棄的石頭已作了房角的頭塊石頭。^11^這是主所做的，在我們眼中看為奇妙。』這段經你們沒有念過嗎？」}^12^他們看出這比喻是指著他們說的，就想要捉拿他，但是懼怕眾人，於是離開他走了。
 
 **論納稅給凱撒**
 
-> ^13^後來，他們打發幾個法利賽人和希律黨人到耶穌那裏，要用他自己的話陷害他。^14^他們來了，就對他說：「老師，我們知道你是誠實的，無論誰你都一視同仁；因為你不看人的面子，而是誠誠實實傳神的道。納稅給凱撒合不合法？我們該不該納？」^15^耶穌知道他們的虛偽，就對他們說：<red>「你們為甚麼試探我？拿一個銀幣來給我看。」</red>^16^他們就拿了來。耶穌問他們：<red>「這像和這名號是誰的？」</red>他們對他說：「是凱撒的。」^17^耶穌對他們說：<red>「凱撒的歸凱撒；神的歸神。」</red>他們對他非常驚訝。
+> ^13^後來，他們打發幾個法利賽人和希律黨人到耶穌那裏，要用他自己的話陷害他。^14^他們來了，就對他說：「老師，我們知道你是誠實的，無論誰你都一視同仁；因為你不看人的面子，而是誠誠實實傳神的道。納稅給凱撒合不合法？我們該不該納？」^15^耶穌知道他們的虛偽，就對他們說：\jesus{「你們為甚麼試探我？拿一個銀幣來給我看。」}^16^他們就拿了來。耶穌問他們：\jesus{「這像和這名號是誰的？」}他們對他說：「是凱撒的。」^17^耶穌對他們說：\jesus{「凱撒的歸凱撒；神的歸神。」}他們對他非常驚訝。
 
 **論復活的問題**
 
-> ^18^撒都該人來見耶穌。他們說沒有復活這回事，於是問耶穌：^19^「老師，摩西為我們寫下這話：『某人的哥哥若死了，撇下妻子，沒有孩子，他該娶哥哥的妻子，為哥哥生子立後。』^20^那麼，有兄弟七人，第一個娶了妻，死了，沒有留下孩子。^21^第二個娶了她，也死了，沒有留下孩子。第三個也是這樣。^22^那七個人都沒有留下孩子。最後，那婦人也死了。^23^在復活的時候，她是哪一個的妻子呢？因為他們七個人都娶過她。」^24^耶穌說：<red>「你們錯了，不正是因為不明白聖經，也不知道神的大能嗎？^25^當人從死人中復活後，也不娶也不嫁，而是像天上的天使一樣。^26^論到死人復活，你們沒有念過摩西書中《荊棘篇》上所記載的嗎？神對摩西說：『我是亞伯拉罕的神，以撒的神，雅各的神。』^27^神不是死人的神，而是活人的神。你們是大錯了。」</red>
+> ^18^撒都該人來見耶穌。他們說沒有復活這回事，於是問耶穌：^19^「老師，摩西為我們寫下這話：『某人的哥哥若死了，撇下妻子，沒有孩子，他該娶哥哥的妻子，為哥哥生子立後。』^20^那麼，有兄弟七人，第一個娶了妻，死了，沒有留下孩子。^21^第二個娶了她，也死了，沒有留下孩子。第三個也是這樣。^22^那七個人都沒有留下孩子。最後，那婦人也死了。^23^在復活的時候，她是哪一個的妻子呢？因為他們七個人都娶過她。」^24^耶穌說：\jesus{「你們錯了，不正是因為不明白聖經，也不知道神的大能嗎？^25^當人從死人中復活後，也不娶也不嫁，而是像天上的天使一樣。^26^論到死人復活，你們沒有念過摩西書中《荊棘篇》上所記載的嗎？神對摩西說：『我是亞伯拉罕的神，以撒的神，雅各的神。』^27^神不是死人的神，而是活人的神。你們是大錯了。」}
 
 **論最大的誡命、大衛之主**
 
-> ^28^有一個文士來，聽見他們的辯論，知道耶穌回答得好，就問他說：「誡命中哪一條是第一呢？」^29^耶穌回答：<red>「第一是：『以色列啊，你要聽，主—我們的神是獨一的主。^30^你要盡心、盡性、盡意、盡力愛主—你的神。』^31^第二是：『要愛鄰如己。』再沒有比這兩條誡命更大的了。」</red>^32^那文士對耶穌說：「好，老師，你說得對，神是一位，除了他以外，再沒有別的了；^33^並且盡心、盡智、盡力愛他，又愛鄰如己，要比一切燔祭和祭祀好得多。」^34^耶穌見他回答得有智慧，就對他說：<red>「你離神的國不遠了。」</red>從此以後，沒有人敢再問他甚麼。
+> ^28^有一個文士來，聽見他們的辯論，知道耶穌回答得好，就問他說：「誡命中哪一條是第一呢？」^29^耶穌回答：\jesus{「第一是：『以色列啊，你要聽，主—我們的神是獨一的主。^30^你要盡心、盡性、盡意、盡力愛主—你的神。』^31^第二是：『要愛鄰如己。』再沒有比這兩條誡命更大的了。」}^32^那文士對耶穌說：「好，老師，你說得對，神是一位，除了他以外，再沒有別的了；^33^並且盡心、盡智、盡力愛他，又愛鄰如己，要比一切燔祭和祭祀好得多。」^34^耶穌見他回答得有智慧，就對他說：\jesus{「你離神的國不遠了。」}從此以後，沒有人敢再問他甚麼。
 
-> ^35^耶穌在聖殿裏教導人，問他們說：<red>「文士怎麼說基督是大衛的後裔呢？^36^大衛被聖靈感動，說：『主對我主說：你坐在我的右邊，等我把你的仇敵放在你腳下。』^37^大衛親自稱他為主，他怎麼又是大衛的後裔呢？」</red>一大群的人都喜歡聽他。
+> ^35^耶穌在聖殿裏教導人，問他們說：\jesus{「文士怎麼說基督是大衛的後裔呢？^36^大衛被聖靈感動，說：『主對我主說：你坐在我的右邊，等我把你的仇敵放在你腳下。』^37^大衛親自稱他為主，他怎麼又是大衛的後裔呢？」}一大群的人都喜歡聽他。
 
 **防備文士、寡婦的奉獻**
 
-> ^38^<red>「你們要防備文士。他們好穿長袍走來走去，喜歡人們在街市上向他們問安，^39^又喜愛會堂裏的高位，宴席上的首座。^40^他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的懲罰！」</red>
+> ^38^\jesus{「你們要防備文士。他們好穿長袍走來走去，喜歡人們在街市上向他們問安，^39^又喜愛會堂裏的高位，宴席上的首座。^40^他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的懲罰！」}
 
-> ^41^耶穌面向聖殿銀庫坐著，看眾人怎樣把錢投入銀庫。有好些財主投了許多錢。^42^有一個窮寡婦來，投了兩個小文錢，就是一個大文錢。^43^耶穌叫門徒來，對他們說：<red>「我實在告訴你們，這窮寡婦投入銀庫裏的比眾人所投的更多。^44^因為，眾人都是拿有餘的捐獻，但這寡婦，雖然自己不足，卻把她一生所有的全都投進去了。」</red>
+> ^41^耶穌面向聖殿銀庫坐著，看眾人怎樣把錢投入銀庫。有好些財主投了許多錢。^42^有一個窮寡婦來，投了兩個小文錢，就是一個大文錢。^43^耶穌叫門徒來，對他們說：\jesus{「我實在告訴你們，這窮寡婦投入銀庫裏的比眾人所投的更多。^44^因為，眾人都是拿有餘的捐獻，但這寡婦，雖然自己不足，卻把她一生所有的全都投進去了。」}
 
 ### English — ESV
 
-> ^1^<red>A man planted a vineyard and put a fence around it and dug a pit for the winepress and built a tower, and leased it to tenants and went into another country. ^2^When the season came, he sent a servant to the tenants to get from them some of the fruit of the vineyard. ^3^And they took him and beat him and sent him away empty-handed. ^4^Again he sent to them another servant, and they struck him on the head and treated him shamefully. ^5^And he sent another, and him they killed. And so with many others: some they beat, and some they killed. ^6^He had still one other, a beloved son. Finally he sent him to them, saying, "They will respect my son." ^7^But those tenants said to one another, "This is the heir. Come, let us kill him, and the inheritance will be ours." ^8^And they took him and killed him and threw him out of the vineyard. ^9^What will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others. ^10^Have you not read this Scripture: "'The stone that the builders rejected has become the cornerstone; ^11^this was the Lord's doing, and it is marvelous in our eyes'"?</red>^12^And they were seeking to arrest him but feared the people, for they perceived that he had told the parable against them. So they left him and went away.
+> ^1^\jesus{A man planted a vineyard and put a fence around it and dug a pit for the winepress and built a tower, and leased it to tenants and went into another country. ^2^When the season came, he sent a servant to the tenants to get from them some of the fruit of the vineyard. ^3^And they took him and beat him and sent him away empty-handed. ^4^Again he sent to them another servant, and they struck him on the head and treated him shamefully. ^5^And he sent another, and him they killed. And so with many others: some they beat, and some they killed. ^6^He had still one other, a beloved son. Finally he sent him to them, saying, "They will respect my son." ^7^But those tenants said to one another, "This is the heir. Come, let us kill him, and the inheritance will be ours." ^8^And they took him and killed him and threw him out of the vineyard. ^9^What will the owner of the vineyard do? He will come and destroy the tenants and give the vineyard to others. ^10^Have you not read this Scripture: "'The stone that the builders rejected has become the cornerstone; ^11^this was the Lord's doing, and it is marvelous in our eyes'"?}^12^And they were seeking to arrest him but feared the people, for they perceived that he had told the parable against them. So they left him and went away.
 
-> ^13^And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk. ^14^And they came and said to him, "Teacher, we know that you are true and do not care about anyone's opinion. For you are not swayed by appearances, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?" ^15^But, knowing their hypocrisy, he said to them, <red>"Why put me to the test? Bring me a denarius and let me look at it."</red> ^16^And they brought one. And he said to them, <red>"Whose likeness and inscription is this?"</red> They said to him, "Caesar's." ^17^Jesus said to them, <red>"Render to Caesar the things that are Caesar's, and to God the things that are God's."</red> And they marveled at him.
+> ^13^And they sent to him some of the Pharisees and some of the Herodians, to trap him in his talk. ^14^And they came and said to him, "Teacher, we know that you are true and do not care about anyone's opinion. For you are not swayed by appearances, but truly teach the way of God. Is it lawful to pay taxes to Caesar, or not? Should we pay them, or should we not?" ^15^But, knowing their hypocrisy, he said to them, \jesus{"Why put me to the test? Bring me a denarius and let me look at it."} ^16^And they brought one. And he said to them, \jesus{"Whose likeness and inscription is this?"} They said to him, "Caesar's." ^17^Jesus said to them, \jesus{"Render to Caesar the things that are Caesar's, and to God the things that are God's."} And they marveled at him.
 
-> ^18^And Sadducees came to him, who say that there is no resurrection. And they asked him a question, saying, ^19^"Teacher, Moses wrote for us that if a man's brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother. ^20^There were seven brothers; the first took a wife, and when he died left no offspring. ^21^And the second took her, and died, leaving no offspring. And the third likewise. ^22^And the seven left no offspring. Last of all the woman also died. ^23^In the resurrection, when they rise again, whose wife will she be? For the seven had her as wife." ^24^Jesus said to them, <red>"Is this not the reason you are wrong, because you know neither the Scriptures nor the power of God? ^25^For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven. ^26^And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? ^27^He is not God of the dead, but of the living. You are quite wrong."</red>
+> ^18^And Sadducees came to him, who say that there is no resurrection. And they asked him a question, saying, ^19^"Teacher, Moses wrote for us that if a man's brother dies and leaves a wife, but leaves no child, the man must take the widow and raise up offspring for his brother. ^20^There were seven brothers; the first took a wife, and when he died left no offspring. ^21^And the second took her, and died, leaving no offspring. And the third likewise. ^22^And the seven left no offspring. Last of all the woman also died. ^23^In the resurrection, when they rise again, whose wife will she be? For the seven had her as wife." ^24^Jesus said to them, \jesus{"Is this not the reason you are wrong, because you know neither the Scriptures nor the power of God? ^25^For when they rise from the dead, they neither marry nor are given in marriage, but are like angels in heaven. ^26^And as for the dead being raised, have you not read in the book of Moses, in the passage about the bush, how God spoke to him, saying, 'I am the God of Abraham, and the God of Isaac, and the God of Jacob'? ^27^He is not God of the dead, but of the living. You are quite wrong."}
 
-> ^28^And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, "Which commandment is the most important of all?" ^29^Jesus answered, <red>"The most important is, 'Hear, O Israel: The Lord our God, the Lord is one. ^30^And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.' ^31^The second is this: 'You shall love your neighbor as yourself.' There is no other commandment greater than these."</red> ^32^And the scribe said to him, "You are right, Teacher. You have truly said that he is one, and there is no other besides him. ^33^And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices." ^34^And when Jesus saw that he answered wisely, he said to him, <red>"You are not far from the kingdom of God."</red> And after that no one dared to ask him any more questions.
+> ^28^And one of the scribes came up and heard them disputing with one another, and seeing that he answered them well, asked him, "Which commandment is the most important of all?" ^29^Jesus answered, \jesus{"The most important is, 'Hear, O Israel: The Lord our God, the Lord is one. ^30^And you shall love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.' ^31^The second is this: 'You shall love your neighbor as yourself.' There is no other commandment greater than these."} ^32^And the scribe said to him, "You are right, Teacher. You have truly said that he is one, and there is no other besides him. ^33^And to love him with all the heart and with all the understanding and with all the strength, and to love one's neighbor as oneself, is much more than all whole burnt offerings and sacrifices." ^34^And when Jesus saw that he answered wisely, he said to him, \jesus{"You are not far from the kingdom of God."} And after that no one dared to ask him any more questions.
 
-> ^35^And as Jesus taught in the temple, he said, <red>"How can the scribes say that the Christ is the son of David? ^36^David himself, in the Holy Spirit, declared, 'The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet.' ^37^David himself calls him Lord. So how is he his son?"</red> And the great throng heard him gladly.
+> ^35^And as Jesus taught in the temple, he said, \jesus{"How can the scribes say that the Christ is the son of David? ^36^David himself, in the Holy Spirit, declared, 'The Lord said to my Lord, Sit at my right hand, until I put your enemies under your feet.' ^37^David himself calls him Lord. So how is he his son?"} And the great throng heard him gladly.
 
-> ^38^And in his teaching he said, <red>"Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces ^39^and have the best seats in the synagogues and the places of honor at feasts, ^40^who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation."</red>
+> ^38^And in his teaching he said, \jesus{"Beware of the scribes, who like to walk around in long robes and like greetings in the marketplaces ^39^and have the best seats in the synagogues and the places of honor at feasts, ^40^who devour widows' houses and for a pretense make long prayers. They will receive the greater condemnation."}
 
-> ^41^And he sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums. ^42^And a poor widow came and put in two small copper coins, which make a penny. ^43^And he called his disciples to him and said to them, <red>"Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box. ^44^For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on."</red>
+> ^41^And he sat down opposite the treasury and watched the people putting money into the offering box. Many rich people put in large sums. ^42^And a poor widow came and put in two small copper coins, which make a penny. ^43^And he called his disciples to him and said to them, \jesus{"Truly, I say to you, this poor widow has put in more than all those who are contributing to the offering box. ^44^For they all contributed out of their abundance, but she out of her poverty has put in everything she had, all she had to live on."}
 
 ---
 
@@ -90,6 +73,18 @@ publisher: 三書精讀出版系統
 ### 文學結構：三場詰問，三次得勝
 
 12:13-34由三場輪番上陣的詰問組成：法利賽人與希律黨人（稅務問題）、撒都該人（復活問題）、文士（誡命問題）——這三個群體平時彼此對立，此刻卻輪流出擊，形成對耶穌的車輪戰。耶穌每一次都以超凡的智慧化解陷阱，直到「沒有人敢再問他甚麼」（34節）。隨後耶穌反守為攻，質問「大衛之子」與「大衛之主」的難題（35-37節），並公開譴責文士的假冒為善（38-40節）——最終，全章以窮寡婦的奉獻作結，與開篇的葡萄園比喻遙相呼應：園戶「拿有餘的」尚且悖逆神，寡婦卻「把一生所有的全都投進去」，這幅對比揭示了全章「誰才是真正忠心的僕人」的核心命題。
+
+### 平行經文對照
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 葡萄園的意象 | 12:1-9 | 賽5:1-7、詩80:8-16 |
+| 房角的頭塊石頭 | 12:10-11 | 詩118:22-23、徒4:11、彼前2:7 |
+| 凱撒與神 | 12:13-17 | 太22:15-22、路20:20-26、羅13:1-7 |
+| 復活的生命 | 12:18-27 | 太22:23-33、路20:27-40、林前15:42-44 |
+| 大衛的主 | 12:35-37 | 詩110:1、太22:41-46、來1:13 |
+| 最大的誡命 | 12:28-34 | 申6:4-5、利19:18、太22:34-40、路10:25-28 |
+| 寡婦的奉獻 | 12:41-44 | 路21:1-4、林後8:12 |
 
 ---
 
@@ -164,33 +159,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 118:22-23
-
-> 匠人所丟棄的石頭已作了房角的頭塊石頭。
-> 這是耶和華所做的，在我們眼中看為奇妙。
-
-### 詩篇 110:1
-
-> 耶和華對我主說：「你坐在我的右邊，
-> 等我使你的仇敵作你的腳凳。」
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### All Hail the Power of Jesus' Name
-
-> Crown Him with many crowns,
-> the Lamb upon His throne;
-> hark, how the heavenly anthem drowns
-> all music but its own!
-> **Awake, my soul, and sing**
-> **of Him who died for thee.**
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：兇惡園戶、辯論問答 (Ask Elder Wong)
@@ -213,6 +181,51 @@ publisher: 三書精讀出版系統
 
 - **12:41-44 寡婦的兩個小錢**：「從自己不足之中全投上了」——華人文化重視「量力而為」的奉獻觀，這段經文卻挑戰我們：神看重的不是奉獻的數額，而是奉獻背後有沒有保留。
 > — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*The Church's One Foundation*（教會惟一的根基）
+
+> The Church's one foundation is Jesus Christ her Lord;
+> she is His new creation, by water and the Word.
+> From heaven He came and sought her to be His holy bride;
+> with His own blood He bought her, and for her life He died.
+>
+> 教會惟一的根基，就是耶穌基督我主；
+> 她是祂用水和道所造的新造之人；
+> 祂從天降臨、尋找她作祂聖潔的新婦；
+> 用自己的寶血買贖她，又為她的生命捨命。
+>
+> — Samuel John Stone (1866)
+
+**聖詩**：*All Hail the Power of Jesus' Name*
+
+> Crown Him with many crowns,
+> the Lamb upon His throne;
+> hark, how the heavenly anthem drowns
+> all music but its own!
+> Awake, my soul, and sing
+> of Him who died for thee.
+
+**詩篇**：詩篇 118:22-23
+
+> 匠人所丟棄的石頭已作了房角的頭塊石頭。
+> 這是耶和華所做的，在我們眼中看為奇妙。
+
+**詩篇**：詩篇 110:1
+
+> 耶和華對我主說：「你坐在我的右邊，
+> 等我使你的仇敵作你的腳凳。」
+
+**詩篇**：詩篇 80:8-9, 14-15, 19
+
+> 你從埃及挖出一棵葡萄樹，趕出外邦人，栽種了這樹。
+> 你在這樹根前預備了地方，它就深深扎根，爬滿了全地。
+> 萬軍之神啊，求你回轉，從天上垂看，眷顧這葡萄樹，
+> 保護你右手所栽的根，你為自己所堅固的枝子。
+> 萬軍之神耶和華啊，求你使我們回轉，使你的臉發光，我們就會得救！
 
 ---
 
@@ -255,27 +268,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*The Church's One Foundation*（教會惟一的根基）
-
-> The Church's one foundation is Jesus Christ her Lord;
-> she is His new creation, by water and the Word.
-> From heaven He came and sought her to be His holy bride;
-> with His own blood He bought her, and for her life He died.
->
-> — Samuel John Stone (1866)
-
-**詩篇**：詩篇 80:8-9, 14-15, 19
-
-> 你從埃及挖出一棵葡萄樹，趕出外邦人，栽種了這樹。
-> 你在這樹根前預備了地方，它就深深扎根，爬滿了全地。
-> 萬軍之神啊，求你回轉，從天上垂看，眷顧這葡萄樹，
-> 保護你右手所栽的根，你為自己所堅固的枝子。
-> 萬軍之神耶和華啊，求你使我們回轉，使你的臉發光，我們就會得救！
-
----
-
 ## 生命應用 (Application)
 
 ### 默想問題
@@ -309,20 +301,6 @@ publisher: 三書精讀出版系統
 4. 「愛神」與「愛人如己」被列為最大的誡命——這兩條誡命之間，你認為有著怎樣不可分割的關係？
 
 5. 耶穌對寡婦奉獻的稱許（或按麥克阿瑟的解讀，對宗教體制的揭露）——無論採取哪種解讀，這段經文對我們今天理解「奉獻的本質」，有什麼共通的提醒？
-
----
-
-## 與其他經文的關聯
-
-| 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
-| 葡萄園的意象 | 12:1-9 | 賽5:1-7、詩80:8-16 |
-| 房角的頭塊石頭 | 12:10-11 | 詩118:22-23、徒4:11、彼前2:7 |
-| 凱撒與神 | 12:13-17 | 太22:15-22、路20:20-26、羅13:1-7 |
-| 復活的生命 | 12:18-27 | 太22:23-33、路20:27-40、林前15:42-44 |
-| 大衛的主 | 12:35-37 | 詩110:1、太22:41-46、來1:13 |
-| 最大的誡命 | 12:28-34 | 申6:4-5、利19:18、太22:34-40、路10:25-28 |
-| 寡婦的奉獻 | 12:41-44 | 路21:1-4、林後8:12 |
 
 ---
 

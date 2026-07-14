@@ -18,21 +18,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> **Blest Be the Tie That Binds**
-> *John Fawcett, 1782*
->
-> Blest be the tie that binds
-> our hearts in Christian love;
-> the fellowship of kindred minds
-> is like to that above.
->
-> 何等美妙這連結，聯合心靈於基督的愛；
-> 這相通的情誼，恰如天上聖徒的相交。
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
@@ -41,9 +26,9 @@ publisher: 三書精讀出版系統
 
 > ^13^耶穌上了山，把自己所要的人召來，他們就來到他那裏。^14^於是他設立十二個人，又稱他們為使徒，要他們常和自己同在，也要差他們去傳道，^15^並給他們權柄趕鬼。^16^他設立的十二個人有西門—耶穌又給他起名叫彼得；^17^還有西庇太的兒子雅各和雅各的弟弟約翰—耶穌又給他們起名叫半尼其（就是雷子的意思）；^18^又有安得烈、腓力、巴多羅買、馬太、多馬、亞勒腓的兒子雅各、達太和激進黨的西門；^19^還有出賣耶穌的加略人猶大。
 
-> ^20^耶穌進了屋子，眾人又聚集，甚至他連飯也顧不得吃。^21^耶穌的家人聽見，就出來要拉住他，因為他們說他癲狂了。^22^從耶路撒冷下來的文士說：「他是被別西卜附身的」，又說：「他是靠著鬼王趕鬼的。」^23^耶穌叫他們來，用比喻對他們說：<red>「撒但怎能趕出撒但呢？^24^一國若自相紛爭，那國就立不住；^25^一家若自相紛爭，那家就立不住。^26^撒但若自相攻打紛爭，他就立不住，必定滅亡。^27^沒有人能進壯士家裏，搶奪他的東西；除非先綁住那壯士，否則無法搶奪他的家。^28^我實在告訴你們，世人一切的罪和一切褻瀆的話都可以得到赦免；^29^凡褻瀆聖靈的，卻永不得赦免，而要擔當永遠的罪。」</red>^30^因為他們說：「他是被污靈附身的。」
+> ^20^耶穌進了屋子，眾人又聚集，甚至他連飯也顧不得吃。^21^耶穌的家人聽見，就出來要拉住他，因為他們說他癲狂了。^22^從耶路撒冷下來的文士說：「他是被別西卜附身的」，又說：「他是靠著鬼王趕鬼的。」^23^耶穌叫他們來，用比喻對他們說：\jesus{「撒但怎能趕出撒但呢？^24^一國若自相紛爭，那國就立不住；^25^一家若自相紛爭，那家就立不住。^26^撒但若自相攻打紛爭，他就立不住，必定滅亡。^27^沒有人能進壯士家裏，搶奪他的東西；除非先綁住那壯士，否則無法搶奪他的家。^28^我實在告訴你們，世人一切的罪和一切褻瀆的話都可以得到赦免；^29^凡褻瀆聖靈的，卻永不得赦免，而要擔當永遠的罪。」}^30^因為他們說：「他是被污靈附身的。」
 
-> ^31^那時，耶穌的母親和他兄弟來，站在外邊，打發人去叫他。^32^有許多人在耶穌周圍坐著，他們就告訴他說：「看哪！你母親、你兄弟和你姊妹在外邊找你。」^33^耶穌回答他們：<red>「誰是我的母親？誰是我的兄弟？」</red>^34^就環視那周圍坐著的人，說：<red>「看哪，我的母親，我的兄弟！^35^凡遵行神旨意的人就是我的兄弟姊妹和母親。」</red>
+> ^31^那時，耶穌的母親和他兄弟來，站在外邊，打發人去叫他。^32^有許多人在耶穌周圍坐著，他們就告訴他說：「看哪！你母親、你兄弟和你姊妹在外邊找你。」^33^耶穌回答他們：\jesus{「誰是我的母親？誰是我的兄弟？」}^34^就環視那周圍坐著的人，說：\jesus{「看哪，我的母親，我的兄弟！^35^凡遵行神旨意的人就是我的兄弟姊妹和母親。」}
 
 ### English — ESV
 
@@ -51,9 +36,9 @@ publisher: 三書精讀出版系統
 
 > ^13^And he went up on the mountain and called to him those whom he desired, and they came to him. ^14^And he appointed twelve (whom he also named apostles) so that they might be with him and he might send them out to preach ^15^and have authority to cast out demons. ^16^He appointed the twelve: Simon (to whom he gave the name Peter); ^17^James the son of Zebedee and John the brother of James (to whom he gave the name Boanerges, that is, Sons of Thunder); ^18^Andrew, and Philip, and Bartholomew, and Matthew, and Thomas, and James the son of Alphaeus, and Thaddaeus, and Simon the Zealot, ^19^and Judas Iscariot, who betrayed him.
 
-> ^20^Then he went home, and the crowd gathered again, so that they could not even eat. ^21^And when his family heard it, they went out to seize him, for they were saying, "He is out of his mind." ^22^And the scribes who came down from Jerusalem were saying, "He is possessed by Beelzebul," and "by the prince of demons he casts out the demons." ^23^And he called them to him and said to them in parables, <red>"How can Satan cast out Satan? ^24^If a kingdom is divided against itself, that kingdom cannot stand. ^25^And if a house is divided against itself, that house will not be able to stand. ^26^And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. ^27^But no one can enter a strong man's house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house. ^28^Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, ^29^but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin"</red>— ^30^for they were saying, "He has an unclean spirit."
+> ^20^Then he went home, and the crowd gathered again, so that they could not even eat. ^21^And when his family heard it, they went out to seize him, for they were saying, "He is out of his mind." ^22^And the scribes who came down from Jerusalem were saying, "He is possessed by Beelzebul," and "by the prince of demons he casts out the demons." ^23^And he called them to him and said to them in parables, \jesus{"How can Satan cast out Satan? ^24^If a kingdom is divided against itself, that kingdom cannot stand. ^25^And if a house is divided against itself, that house will not be able to stand. ^26^And if Satan has risen up against himself and is divided, he cannot stand, but is coming to an end. ^27^But no one can enter a strong man's house and plunder his goods, unless he first binds the strong man. Then indeed he may plunder his house. ^28^Truly, I say to you, all sins will be forgiven the children of man, and whatever blasphemies they utter, ^29^but whoever blasphemes against the Holy Spirit never has forgiveness, but is guilty of an eternal sin"}— ^30^for they were saying, "He has an unclean spirit."
 
-> ^31^And his mother and his brothers came, and standing outside they sent to him and called him. ^32^And a crowd was sitting around him, and they said to him, "Your mother and your brothers are outside, seeking you." ^33^And he answered them, <red>"Who are my mother and my brothers?"</red> ^34^And looking about at those who sat around him, he said, <red>"Here are my mother and my brothers! ^35^For whoever does the will of God, he is my brother and sister and mother."</red>
+> ^31^And his mother and his brothers came, and standing outside they sent to him and called him. ^32^And a crowd was sitting around him, and they said to him, "Your mother and your brothers are outside, seeking you." ^33^And he answered them, \jesus{"Who are my mother and my brothers?"} ^34^And looking about at those who sat around him, he said, \jesus{"Here are my mother and my brothers! ^35^For whoever does the will of God, he is my brother and sister and mother."}
 
 ---
 
@@ -63,9 +48,13 @@ publisher: 三書精讀出版系統
 
 7-8節列出的地名——加利利、猶太、耶路撒冷、以土買（希律家族的老家）、約旦河東、推羅和西頓（腓尼基沿海外邦地區）——構成一幅涵蓋猶太人與外邦人、南北全境的地圖，顯明耶穌的名聲此時已超越加利利本地，吸引了整個近東地區的關注。「揀選十二」呼應以色列十二支派——這不是巧合，而是宣告：耶穌正在建立一個新以色列的核心。
 
+耶穌「退到海邊」（7節），承接的正是上一章安息日治病之後，法利賽人與希律黨人已經「商議怎樣可以除滅耶穌」（3:6）的處境——群眾的擁擠與宗教領袖的殺機同時升高，耶穌卻沒有選擇對抗或退縮，而是登山，把祂的事工核心交託給十二個平凡人。
+
 ### 文學結構：三明治式的敘事 (Markan Sandwich)
 
 3:20-35是馬可福音典型的「三明治結構」（intercalation）：A（20-21節，家人認為祂癲狂）→ B（22-30節，文士指控祂靠鬼王趕鬼）→ A'（31-35節，家人前來找祂）。馬可把兩段關於「家人」的敘述包裹住中間關於「文士指控」的段落，讓兩者互相解讀：家人的懷疑與文士的指控，其實出於同一種盲目——都因看不清真相，而對耶穌的身分做出錯誤的判斷。35節「凡遵行神旨意的人就是我的兄弟姊妹和母親」，正是對這兩種盲目的共同回應。
+
+這段記載在太10:1-4、路6:12-16（揀選十二使徒）、太12:22-29、路11:14-23（別西卜的指控）、太12:31-32、路12:10（褻瀆聖靈）、太12:46-50、路8:19-21（屬靈家人）均有平行記載，比較馬可精簡快速的敘事，更能體會他刻意用「三明治結構」將這幾個場景編織在一起的用心。
 
 ---
 
@@ -139,34 +128,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 133:1-3
-
-> 看哪，弟兄和睦同居是何等地善，何等地美！
-> 這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他衣服的領子。
-> 又好比黑門的甘露降在錫安山；因為在那裏有耶和華所命定的福，就是永遠的生命。
-
-### 詩篇 25:14
-
-> 耶和華與敬畏他的人親密；他必將自己的約指示他們。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### I Have Decided to Follow Jesus
-
-> I have decided to follow Jesus;
-> no turning back, no turning back.
-> The world behind me, the cross before me;
-> no turning back, no turning back.
->
-> 我已決定跟從耶穌，永不回頭，永不回頭；
-> 世界在我身後，十架在我前面，永不回頭，永不回頭。
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：揀選十二使徒 (Ask Elder Wong)
@@ -185,18 +146,6 @@ publisher: 三書精讀出版系統
 
 **你看見耶穌了嗎**：在揀選平凡人為使徒、在被至親誤解為癲狂、在被指控靠鬼王趕鬼的重重張力中，你看見的，是那位甘願被誤解、卻依然揀選並差遣软弱之人的基督——祂重新定義了「家人」，而祂邀請你，藉著遵行父的旨意，進入這個超越血緣的家。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-**一句話精義**：「凡遵行神旨意的人就是我的兄弟姊妹和母親」——十二使徒的揀選、家人與文士的誤判，都在為這一句話鋪墊：真正屬乎基督的關係，不靠血緣，只靠遵行神的旨意。
-
-**貫通全經**：雅各十二個兒子成為以色列十二支派的先祖（創49章）；耶穌「設立十二個人」，宣告一個新以色列核心的誕生，這條線索一路貫穿到啟示錄21:14，新耶路撒冷城牆的十二根基石。
-
-**無法迴避的問題**：耶穌的家人說祂「癲狂」，文士說祂「被鬼附」——同一個人，同樣被誤解，你今天面對他人的誤解，是選擇用邏輯駁斥，還是選擇沉默等候？
-
-> 「祂重新定義了『家人』——不是血緣的親屬，是遵行天父旨意的同伴。」
-
 ### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
 
 - **3:14「常和自己同在」**：門訓的核心是關係，不是課程或訓練材料——這對習慣以「上了多少課、讀了多少書」衡量門徒訓練成效的華人教會文化，是一個提醒：門徒的塑造，發生在與主、與帶領者長時間同在的生命連結裏。
@@ -212,13 +161,60 @@ publisher: 三書精讀出版系統
 > Blest be the tie that binds our hearts in Christian love;
 > the fellowship of kindred minds is like to that above.
 >
+> 何等美妙這連結，聯合心靈於基督的愛；
+> 這相通的情誼，恰如天上聖徒的相交。
+>
 > — John Fawcett (1782)
+
+**聖詩**：*I Have Decided to Follow Jesus*（我已決定跟從耶穌）
+
+> I have decided to follow Jesus; no turning back, no turning back.
+> The world behind me, the cross before me; no turning back, no turning back.
+>
+> 我已決定跟從耶穌，永不回頭，永不回頭；
+> 世界在我身後，十架在我前面，永不回頭，永不回頭。
 
 **詩篇**：詩篇 133:1-3
 
 > 看哪，弟兄和睦同居是何等地善，何等地美！
 > 這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他衣服的領子。
 > 又好比黑門的甘露降在錫安山；因為在那裏有耶和華所命定的福，就是永遠的生命。
+
+**詩篇**：詩篇 25:14
+
+> 耶和華與敬畏他的人親密；他必將自己的約指示他們。
+
+---
+
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+27節「壯士」的比喻不是憑空而來的修辭，它的根其實扎在以賽亞書49:24-25：「勇士搶去的豈能奪回？該擄掠的豈能解救？」神親自回答：「就是勇士所擄掠的，也可以奪回；強暴人所搶的，也可以解救；與你相爭的，我必與他相爭，我也要拯救你的兒女。」耶穌面對文士的指控，說出這個比喻，其實是在宣告：祂正是那位比「壯士」（撒但）更強的一位，祂來，是要從撒但手中奪回被擄的人——趕鬼，正是這場「奪回」行動具體可見的一角。把以賽亞書49章和馬可3:27並讀，你會發現，十字架與復活，不過是這場「奪回」最終的完成。
+
+### 提問式對話 (Let the Reader Speak)
+
+先問：耶穌揀選十二人，第一件事是「常和自己同在」，然後才「差遣他們出去」——你今天手上正在做的服事，是先有「同在」的根基，還是急著先做事、先有成果？
+再問：文士親眼看見鬼被趕出，卻堅持說這是靠鬼王的能力——這不是無知，而是明知故犯的心硬。你有沒有過明明看見是神的作為，卻因某種堅持、某種面子，拒絕承認的經歷？
+再問：耶穌的家人以為祂「癲狂」了，祂沒有反駁，只是說「誰是我的母親，誰是我的兄弟」，重新定義了「家」。如果今天有人因你對信仰的委身而誤解你，你會選擇辯解，還是像耶穌一樣，用生命本身重新定義關係？
+
+### 活在今天．AI時代 (Living It Today)
+
+群眾越聚越多，多到耶穌必須「預備小船」才不致被擠壓——這是那個時代最大的「流量」；但耶穌在群眾聲量最高的時刻，選擇退到山上，只揀選十二個人，且第一要務是「與祂同在」。這對今天習慣用「觸及率」「粉絲數」「訂閱量」衡量服事果效的世代，是一記提醒：AI能幫你把信息推送給千萬人，卻無法替你與少數人建立那種「常和自己同在」的深度關係——而正是這種關係，才能承接得住使命。
+
+### 今天的祭壇 (Today's Altar)
+
+今天主動接近一位你曾因「他/她好像不太正常」、「他/她的信仰表達方式讓我不解」而心存論斷的人，效法耶穌面對家人誤解時的態度——不辯解，只用溫柔而堅定的生命，重新向他/她展示什麼是「屬神的家人」。
+
+## 黃長老精義 (The Distilled Key)
+
+**一句話精義**：「凡遵行神旨意的人就是我的兄弟姊妹和母親」——十二使徒的揀選、家人與文士的誤判，都在為這一句話鋪墊：真正屬乎基督的關係，不靠血緣，只靠遵行神的旨意。
+
+**貫通全經**：雅各十二個兒子成為以色列十二支派的先祖（創49章）；耶穌「設立十二個人」，宣告一個新以色列核心的誕生，這條線索一路貫穿到啟示錄21:14，新耶路撒冷城牆的十二根基石。
+
+**無法迴避的問題**：耶穌的家人說祂「癲狂」，文士說祂「被鬼附」——同一個人，同樣被誤解，你今天面對他人的誤解，是選擇用邏輯駁斥，還是選擇沉默等候？
+
+> 「祂重新定義了『家人』——不是血緣的親屬，是遵行天父旨意的同伴。」
 
 ---
 
@@ -244,16 +240,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 與其他經文的關聯
+## 反思問題 (Reflection Questions)
 
-| 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
-| 揀選十二使徒 | 3:13-19 | 太10:1-4、路6:12-16、創49章（十二支派） |
-| 常和自己同在 | 3:14 | 約15:4-5 |
-| 別西卜的指控 | 3:22-27 | 太12:22-29、路11:14-23 |
-| 褻瀆聖靈不得赦免 | 3:28-30 | 太12:31-32、路12:10 |
-| 屬靈家人 | 3:31-35 | 太12:46-50、路8:19-21 |
-| 十二使徒的名字 | 3:16-19 | 太10:2-4、路6:14-16、徒1:13、啟21:14 |
+1. 耶穌設立十二使徒的首要目的是「常和自己同在」，其次才是「差他們出去傳道」。你生命中的服事或委身，是先有與主同在的根基，還是常常本末倒置，先求做事、後求同在？
+
+2. 文士親眼看見鬼從人身上被趕出，卻堅持說「祂是靠鬼王趕鬼」——這是在充分證據面前的明知故犯。這對我們今天理解「褻瀆聖靈的罪」有何提醒？我們該如何持守一顆對聖靈作為保持敏銳、不硬心的心？
+
+3. 耶穌用「壯士的比喻」回應文士的指控：唯有先綁住壯士，才能搶奪他的家。這對你理解基督如何「勝過那掌死權的，就是魔鬼」（來2:14）有何幫助？
+
+4. 「凡遵行神旨意的人就是我的兄弟姊妹和母親」——這句話如何挑戰你對「家人」、「歸屬」的定義？在你的教會、團契裏，你是否真實活出了這樣超越血緣的屬靈家人關係？
+
+5. 十二使徒的名單裏，有漁夫、稅吏、立場對立的激進黨人，甚至日後出賣耶穌的加略人猶大——這份「不完美」的名單，對你今天看待自己「被神使用的資格」有什麼提醒？
 
 ---
 

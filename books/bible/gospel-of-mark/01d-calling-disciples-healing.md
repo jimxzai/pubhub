@@ -18,48 +18,35 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> I have decided to follow Jesus,
-> I have decided to follow Jesus,
-> I have decided to follow Jesus,
-> No turning back, no turning back.
->
-> — *I Have Decided to Follow Jesus*（印度聖詩，19世紀）
-
-四個漁夫「立刻捨了網」跟從耶穌——這首源自印度的古老聖詩，正唱出了1:16-20那個毫不遲疑的回應。
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^14^約翰下監以後，耶穌來到加利利，宣講神的福音，^15^說：<red>「日期滿了，神的國近了。你們要悔改，信福音！」</red>
+> ^14^約翰下監以後，耶穌來到加利利，宣講神的福音，^15^說：\jesus{「日期滿了，神的國近了。你們要悔改，信福音！」}
 
-> ^16^耶穌沿著加利利的海邊走，看見西門和西門的弟弟安得烈在海上撒網；他們本是打魚的。^17^耶穌對他們說：<red>「來跟從我，我要叫你們得人如得魚一樣。」</red>^18^他們立刻捨了網，跟從他。^19^耶穌稍往前走，又見西庇太的兒子雅各和他弟弟約翰在船上補網。^20^耶穌隨即呼召他們，他們就把父親西庇太和雇工留在船上，跟從了耶穌。
+> ^16^耶穌沿著加利利的海邊走，看見西門和西門的弟弟安得烈在海上撒網；他們本是打魚的。^17^耶穌對他們說：\jesus{「來跟從我，我要叫你們得人如得魚一樣。」}^18^他們立刻捨了網，跟從他。^19^耶穌稍往前走，又見西庇太的兒子雅各和他弟弟約翰在船上補網。^20^耶穌隨即呼召他們，他們就把父親西庇太和雇工留在船上，跟從了耶穌。
 
-> ^21^他們到了迦百農，耶穌就在安息日進了會堂教導人。^22^他們對他的教導感到很驚奇，因為他教導他們正像有權柄的人，不像文士。^23^當時，會堂裏有一個污靈附身的人，他在喊叫，^24^說：「拿撒勒人耶穌，你為甚麼干擾我們？你來消滅我們嗎？我知道你是誰，你是神的聖者。」^25^耶穌斥責他說：<red>「不要作聲，從這人身上出來吧！」</red>^26^污靈使那人抽了一陣風，大聲喊叫，就出來了。^27^眾人都驚訝，以致彼此對問：「這是甚麼事？是個新的教導啊！他用權柄命令污靈，連污靈也聽從了他。」^28^於是耶穌的名聲立刻傳遍了全加利利周圍地區。
+> ^21^他們到了迦百農，耶穌就在安息日進了會堂教導人。^22^他們對他的教導感到很驚奇，因為他教導他們正像有權柄的人，不像文士。^23^當時，會堂裏有一個污靈附身的人，他在喊叫，^24^說：「拿撒勒人耶穌，你為甚麼干擾我們？你來消滅我們嗎？我知道你是誰，你是神的聖者。」^25^耶穌斥責他說：\jesus{「不要作聲，從這人身上出來吧！」}^26^污靈使那人抽了一陣風，大聲喊叫，就出來了。^27^眾人都驚訝，以致彼此對問：「這是甚麼事？是個新的教導啊！他用權柄命令污靈，連污靈也聽從了他。」^28^於是耶穌的名聲立刻傳遍了全加利利周圍地區。
 
 > ^29^他們一出會堂，就同雅各和約翰進了西門和安得烈的家。^30^西門的岳母正發燒躺著，就有人告訴耶穌。^31^耶穌進前拉著她的手，扶她起來，燒就退了，於是她服事他們。^32^傍晚日落的時候，有人帶著一切害病的和被鬼附的，來到耶穌跟前。^33^全城的人都聚集在門前。^34^耶穌治好了許多害各樣病的人，又趕出許多鬼，不許鬼說話，因為鬼認識他。
 
-> ^35^次日早晨，天未亮的時候，耶穌起來，到曠野地方去，在那裏禱告。^36^西門和同伴出去找他，^37^找到了就對他說：「眾人都在找你！」^38^耶穌對他們說：<red>「讓我們往別處去，到鄰近的鄉村，我也好在那裏傳道，因為我是為這事出來的。」</red>^39^於是他走遍全加利利，在他們的會堂傳道，並且趕鬼。
+> ^35^次日早晨，天未亮的時候，耶穌起來，到曠野地方去，在那裏禱告。^36^西門和同伴出去找他，^37^找到了就對他說：「眾人都在找你！」^38^耶穌對他們說：\jesus{「讓我們往別處去，到鄰近的鄉村，我也好在那裏傳道，因為我是為這事出來的。」}^39^於是他走遍全加利利，在他們的會堂傳道，並且趕鬼。
 
-> ^40^有一個痲瘋病人來求耶穌，向他跪下，說：「你若肯，你能使我潔淨。」^41^耶穌動了慈心，就伸手摸他，說：<red>「我肯，你潔淨了吧！」</red>^42^痲瘋病立刻離開他，他就潔淨了。^43^耶穌嚴嚴地叮囑他，立刻打發他走，^44^對他說：<red>「你要注意，千萬不可告訴任何人，只要去，讓祭司為你檢查，又因為你已經潔淨，獻上摩西所吩咐的祭物，作為證據給眾人看。」</red>^45^那人出去，倒說許多的話，把這件事傳揚開了，使耶穌不能再公開進城，只好留在外邊曠野地方，人從各處都到他跟前來。
+> ^40^有一個痲瘋病人來求耶穌，向他跪下，說：「你若肯，你能使我潔淨。」^41^耶穌動了慈心，就伸手摸他，說：\jesus{「我肯，你潔淨了吧！」}^42^痲瘋病立刻離開他，他就潔淨了。^43^耶穌嚴嚴地叮囑他，立刻打發他走，^44^對他說：\jesus{「你要注意，千萬不可告訴任何人，只要去，讓祭司為你檢查，又因為你已經潔淨，獻上摩西所吩咐的祭物，作為證據給眾人看。」}^45^那人出去，倒說許多的話，把這件事傳揚開了，使耶穌不能再公開進城，只好留在外邊曠野地方，人從各處都到他跟前來。
 
 ### English — ESV
 
-> ^14^Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, ^15^and saying, <red>"The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel."</red>
+> ^14^Now after John was arrested, Jesus came into Galilee, proclaiming the gospel of God, ^15^and saying, \jesus{"The time is fulfilled, and the kingdom of God is at hand; repent and believe in the gospel."}
 
-> ^16^Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea, for they were fishermen. ^17^And Jesus said to them, <red>"Follow me, and I will make you become fishers of men."</red> ^18^And immediately they left their nets and followed him. ^19^And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets. ^20^And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him.
+> ^16^Passing alongside the Sea of Galilee, he saw Simon and Andrew the brother of Simon casting a net into the sea, for they were fishermen. ^17^And Jesus said to them, \jesus{"Follow me, and I will make you become fishers of men."} ^18^And immediately they left their nets and followed him. ^19^And going on a little farther, he saw James the son of Zebedee and John his brother, who were in their boat mending the nets. ^20^And immediately he called them, and they left their father Zebedee in the boat with the hired servants and followed him.
 
-> ^21^And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. ^22^And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes. ^23^And immediately there was in their synagogue a man with an unclean spirit. And he cried out, ^24^"What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God." ^25^But Jesus rebuked him, saying, <red>"Be silent, and come out of him!"</red> ^26^And the unclean spirit, convulsing him and crying out with a loud voice, came out of him. ^27^And they were all amazed, so that they questioned among themselves, saying, "What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him." ^28^And at once his fame spread everywhere throughout all the surrounding region of Galilee.
+> ^21^And they went into Capernaum, and immediately on the Sabbath he entered the synagogue and was teaching. ^22^And they were astonished at his teaching, for he taught them as one who had authority, and not as the scribes. ^23^And immediately there was in their synagogue a man with an unclean spirit. And he cried out, ^24^"What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God." ^25^But Jesus rebuked him, saying, \jesus{"Be silent, and come out of him!"} ^26^And the unclean spirit, convulsing him and crying out with a loud voice, came out of him. ^27^And they were all amazed, so that they questioned among themselves, saying, "What is this? A new teaching with authority! He commands even the unclean spirits, and they obey him." ^28^And at once his fame spread everywhere throughout all the surrounding region of Galilee.
 
 > ^29^And immediately he left the synagogue and entered the house of Simon and Andrew, with James and John. ^30^Now Simon's mother-in-law lay ill with a fever, and immediately they told him about her. ^31^And he came and took her by the hand and lifted her up, and the fever left her, and she began to serve them. ^32^That evening at sundown they brought to him all who were sick or oppressed by demons. ^33^And the whole city was gathered together at the door. ^34^And he healed many who were sick with various diseases, and cast out many demons. And he would not permit the demons to speak, because they knew him.
 
-> ^35^And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed. ^36^And Simon and those who were with him searched for him, ^37^and they found him and said to him, "Everyone is looking for you." ^38^And he said to them, <red>"Let us go on to the next towns, that I may preach there also, for that is why I came out."</red> ^39^And he went throughout all Galilee, preaching in their synagogues and casting out demons.
+> ^35^And rising very early in the morning, while it was still dark, he departed and went out to a desolate place, and there he prayed. ^36^And Simon and those who were with him searched for him, ^37^and they found him and said to him, "Everyone is looking for you." ^38^And he said to them, \jesus{"Let us go on to the next towns, that I may preach there also, for that is why I came out."} ^39^And he went throughout all Galilee, preaching in their synagogues and casting out demons.
 
-> ^40^And a leper came to him, imploring him, and kneeling said to him, "If you will, you can make me clean." ^41^Moved with pity, he stretched out his hand and touched him and said to him, <red>"I will; be clean."</red> ^42^And immediately the leprosy left him, and he was made clean. ^43^And Jesus sternly charged him and sent him away at once, ^44^and said to him, <red>"See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them."</red> ^45^But he went out and began to talk freely about it, and to spread the news, so that Jesus could no longer openly enter a town, but was out in desolate places, and people were coming to him from every quarter.
+> ^40^And a leper came to him, imploring him, and kneeling said to him, "If you will, you can make me clean." ^41^Moved with pity, he stretched out his hand and touched him and said to him, \jesus{"I will; be clean."} ^42^And immediately the leprosy left him, and he was made clean. ^43^And Jesus sternly charged him and sent him away at once, ^44^and said to him, \jesus{"See that you say nothing to anyone, but go, show yourself to the priest and offer for your cleansing what Moses commanded, for a proof to them."} ^45^But he went out and began to talk freely about it, and to spread the news, so that Jesus could no longer openly enter a town, but was out in desolate places, and people were coming to him from every quarter.
 
 ---
 
@@ -72,6 +59,11 @@ publisher: 三書精讀出版系統
 ### 文學結構
 
 這一整段（1:14-45）由五個場景組成，馬可用「立刻」（*euthys*）將它們串成一氣呵成的敘事鏈：呼召門徒（立刻捨網）、會堂趕鬼（立刻傳開名聲）、治病（立刻退燒）、曠野禱告（打斷忙碌的節奏）、潔淨痲瘋病人（立刻潔淨）。這種緊湊的節奏本身就是一個要我們領受的宣告：神的國「近了」不是一句抽象的宣告，而是具體地、一件接一件地在拿撒勒人耶穌的言行中發生。值得注意的是，35-39節的禱告插曲，是這整段唯一「慢下來」的地方——馬可用這個對比告訴讀者：外在事奉的節奏雖然急促，內在與父相交的節奏卻不能省略。
+
+### 平行經文 (Synoptic Parallels)
+
+- **馬太福音 4:18-22；8:2-4, 14-17**——平行記載，馬太多記一句「你若肯，必能叫我潔淨了」的細節鋪陳。
+- **路加福音 4:31-5:16**——路加把呼召彼得（5:1-11）安排在治好岳母之後，順序與馬可不同，值得對讀。
 
 ---
 
@@ -95,7 +87,7 @@ publisher: 三書精讀出版系統
 
 ### 1. 神國近了：宣告的迫切性 (The Kingdom Has Drawn Near)
 
-「日期滿了」（*peplērōtai ho kairos*）宣告：舊約所有的等候，如今在時間裏走到了成熟的一刻。「悔改，信福音」是唯一恰當的回應——不是先悔改、後來才信，而是同一個轉向：離開舊的效忠對象，投向這好消息的內容。
+「日期滿了」（*peplērōtai ho kairos*）宣告：舊約所有的等候，如今在時間裏走到了成熟的一刻。「悔改，信福音」是唯一恰當的回應——不是先悔改、後來才信，而是同一個轉向：離開舊的效忠對象，投向這好消息的內容。先知以賽亞書61:1早已宣告：「主耶和華的靈在我身上……差遣我醫好傷心的人」——耶穌宣講「神的國近了」，正是這預言在歷史裏的具體展開。
 
 ### 2. 呼召帶著權柄，回應毫不猶疑 (Authoritative Call, Immediate Response)
 
@@ -187,6 +179,8 @@ publisher: 三書精讀出版系統
 >
 > — Traditional (adapted from an Assamese folk hymn, India, 19th century)
 
+四個漁夫「立刻捨了網」跟從耶穌——這首源自印度的古老聖詩，正唱出了1:16-20那個毫不遲疑的回應。
+
 **詩篇**：詩篇 103:1-5
 
 > 我的心哪，你要稱頌耶和華！在我裏面的一切，都要稱頌他的聖名！
@@ -200,25 +194,33 @@ publisher: 三書精讀出版系統
 
 ### 全經連線 (Tracing It Through Scripture)
 
-利未記13-14章規定，觸摸痲瘋病人會使觸摸者染上禮儀上的不潔——這是舊約律法保護群體聖潔的機制。耶穌伸手觸摸痲瘋病人，卻沒有被玷污，反而是病人立刻潔淨。這條線索一路延伸到馬可福音5章血漏婦人摸耶穌衣裳繸子的同一個邏輯，也預表了哥林多後書5:21「神使那無罪的，替我們成為罪，好叫我們在他裏面成為神的義」——福音的核心邏輯，從第一章就已經示範出來：基督親自接觸罪人的污穢，帶來的不是祂被玷污，而是罪人被潔淨。
+「立刻捨了網」不是馬可福音第一次出現這種呼召的模式。列王紀上19:19-21，以利亞把外衣搭在正在耕地的以利沙身上，以利沙還被准許回去親吻父母、宰牛設宴，才起身跟從。耶穌對彼得、安得烈、雅各、約翰的呼召，卻沒有留下這樣的空間——「立刻」二字取消了任何告別的儀式。這不是耶穌比以利亞更無情，而是馬可要我們看見：這位呼召者的權柄，超越先知，直逼那位在西奈山上說「我是耶和華你的神」的那一位。
+
+痲瘋病人的潔淨也有一條清楚的線索。利未記13-14章詳細規定痲瘋病人必須「在營外獨居」（利13:46），是舊約禮儀不潔淨的極致記號。列王紀下5章，先知以利沙醫治乃縵的痲瘋，卻是遠遠地吩咐他去約旦河洗七次——先知連見都不見他，更不用說觸摸他。耶穌卻「伸手摸他」（1:41）——這一個動作，把舊約先知刻意保持的距離，換成了新約僕人主動的親近。以賽亞書53:4「他誠然擔當我們的憂患，背負我們的痛苦」，在這一刻有了具體的畫面：基督親自承擔那使人被隔離、被厭棄的污穢，而不是遠遠地發號施令。
+
+35節的曠野禱告，也不是孤立的插曲。全卷馬可福音只有另一處，用近乎相同的筆法描寫耶穌獨自禱告——14:32-42，客西馬尼園，十字架前夜。一次在事工的起頭，一次在事工的終點；一次是清晨、一次是深夜；但同一個姿態：僕人在最關鍵的轉折點上，先俯伏在父面前，然後才走向接下來要面對的一切。
 
 ### 提問式對話 (Let the Reader Speak)
 
-先問：門徒「立刻」捨網跟從，沒有看見一個神蹟——你覺得是什麼讓他們如此毫不猶疑？
-再問：耶穌在眾人聲勢浩大地尋找祂的時候，卻已經退到曠野禱告——如果你是門徒，你會不會催促祂「快回去，眾人都在等」？
-再問：你今天的行程表裡，禱告是排在事情做完之後的獎賞，還是決定事情怎麼做的起點？
+先問：彼得撇下的是正在使用中的漁網、家人、生計——不是多餘的東西，而是他當下賴以維生的一切。今天若耶穌對你說「來跟從我」，你手裏正撒著的那張網，是什麼？你準備好「立刻」放下，還是想先「安排好」再說？
+
+再問：眾人聲勢浩大地找到耶穌，對祂說「眾人都在找你」——這本是任何服事者夢寐以求的場面。耶穌卻回答「讓我們往別處去」。如果今天你正處在被眾人肯定、需要、追捧的高峰，你會不會也選擇轉身離開，只為了完成起初的呼召？
+
+再問：痲瘋病人開口只說了一句話：「你若肯，你能使我潔淨」——沒有為自己辯護，沒有討價還價，只是把「肯不肯」交在耶穌手中。你生命中那個不敢啟齒、覺得自己太污穢、太失敗、不配求告的部分，今天是否也能學他這一句話？
 
 ### 活在今天．AI時代 (Living It Today)
 
-這個時代崇尚「不停產出」，行事曆排得密密麻麻被當作認真生活的證明。但馬可筆下耶穌最忙碌的一天，正中央卻是一段「天未亮，退到無人之處」的沉默。連線的世界最缺的，往往不是更多的行動，而是像耶穌一樣，甘願先斷線、後行動。
+這個時代衡量事工「成功」的方式，往往就是1:37那句「眾人都在找你」——追蹤人數、觸及率、演算法推播的曝光度。社群平台的邏輯是：只要你持續留在鎂光燈下，就有更多人找到你。但耶穌在事工聲量最高的那一刻，做出的卻是演算法絕不會建議的決定——離開流量最大的地方，走向下一個沒有人認識祂的小鎮，只因為「我是為這事出來的」。
+
+AI時代另一個容易被忽略的對比，是1:41耶穌「伸手摸」痲瘋病人。今天我們可以用一則訊息、一個表情符號、一次線上禱告會，「觸及」千里之外的人，卻越來越少有機會親手、親身接觸一個真實的、帶著污穢與傷痕的人。耶穌的醫治不是遠端下載一段祝福文字，而是俯身、伸手、觸摸——真實的道成肉身式的臨在，不能被任何界面取代。
 
 ### 今天的祭壇 (Today's Altar)
 
-主動接觸一位在你生活圈中被邊緣化、被視為「不潔淨」或「麻煩」的人，用具體的行動而非保持距離回應他——一通電話、一次同桌吃飯、一句主動的問候。
+今天做兩件事：第一，為你正在撒的那張「網」——那件讓你捨不得立刻放下的事——具體禱告，求主給你像門徒一樣「立刻」的心志。第二，主動用真實的、面對面（而非隔著螢幕）的方式，接觸一位你平常傾向遠遠帶開、保持距離的人，把耶穌伸手摸痲瘋病人的姿態，活成今天的行動。
 
 ## 黃長老精義 (The Distilled Key)
 
-僕人的忙碌，源自僕人與父不間斷的相交——祂的權柄，不是靠工作證明，而是靠禱告支撐。
+呼召的權柄使人「立刻」撇下網，禱告的優先使人在群眾的高峰處轉身離開，觸摸的憐憫使人甘願走近污穢——這三個動作，其實是同一位僕人基督的同一顆心：祂的忙碌從不是靠著留在群眾中間證明自己，而是靠著與父相交、然後主動走向被棄絕的人，去成就那使人潔淨的福音。
 
 ---
 
@@ -254,15 +256,6 @@ publisher: 三書精讀出版系統
 4. 耶穌在群眾尋找祂的高峰期選擇退到曠野禱告，並以此決定下一步的方向。這對今天教會或個人事奉中「以群眾需求」還是「以神旨意」為優先，有何挑戰？
 
 5. 痲瘋病人蒙潔淨後違背耶穌的吩咐，四處宣揚，以致耶穌的行動反而受限。這對「見證」與「順服」之間可能產生的張力，有什麼提醒？
-
----
-
-## 與其他經文的關聯
-
-- **馬太福音 4:18-22; 8:2-4, 14-17**——平行記載，馬太多記一句「你若肯，必能叫我潔淨了」的細節鋪陳
-- **路加福音 4:31-5:16**——路加把呼召彼得（5:1-11）安排在治好岳母之後，順序與馬可不同，值得對讀
-- **利未記 13-14章**——痲瘋病的潔淨條例，正是耶穌吩咐痲瘋病人「獻上摩西所吩咐的祭物」的背景
-- **以賽亞書 61:1**——「主耶和華的靈在我身上……差遣我醫好傷心的人」，耶穌宣講「神的國近了」正是這使命的展開
 
 ---
 

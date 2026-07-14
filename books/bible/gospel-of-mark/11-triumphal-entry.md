@@ -18,56 +18,41 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Opening Hymn)
-
-> **All Glory, Laud, and Honor**
-> *Theodulph of Orleans, c. 820*
->
-> All glory, laud, and honor to Thee, Redeemer, King,
-> to whom the lips of children made sweet hosannas ring.
-> Thou art the King of Israel, Thou David's royal Son,
-> who in the Lord's name comest, the King and Blessed One.
->
-> 一切榮耀、頌讚、尊貴，都歸與你，救贖之王；
-> 孩童的嘴唇向你，發出甜美的和散那頌讚。
-
----
-
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
 
 **榮進耶路撒冷**
 
-> ^1^耶穌和門徒快到耶路撒冷，到了伯法其和伯大尼，在橄欖山那裏，耶穌就打發兩個門徒，^2^對他們說：<red>「你們往對面村子裏去，一進去的時候，會看見一匹驢駒拴在那裏，是從來沒有人騎過的，把牠解開，牽來。^3^若有人對你們說：『為甚麼做這事？』你們就說：『主要用牠，用完了會立刻牽回來給你們。』」</red>^4^他們去了，便看見一匹驢駒拴在門外街道上，就把牠解開。^5^在那裏站著的人，有幾個對他們說：「你們解驢駒做甚麼？」^6^門徒照著耶穌所說的回答，那些人就任憑他們牽走了。^7^他們把驢駒牽到耶穌那裏，把自己的衣服搭在上面，耶穌就騎上。^8^許多人把衣服鋪在路上，也有人把田間的樹枝砍下來鋪在路上。^9^前行後隨的人都喊著說：「和散那！奉主名來的是應當稱頌的！^10^那將要來的我祖先大衛之國是應當稱頌的！至高無上的，和散那！」^11^耶穌進了耶路撒冷，入了聖殿，周圍看了各樣物件；天色已晚，就和十二使徒出城，往伯大尼去了。
+> ^1^耶穌和門徒快到耶路撒冷，到了伯法其和伯大尼，在橄欖山那裏，耶穌就打發兩個門徒，^2^對他們說：\jesus{「你們往對面村子裏去，一進去的時候，會看見一匹驢駒拴在那裏，是從來沒有人騎過的，把牠解開，牽來。^3^若有人對你們說：『為甚麼做這事？』你們就說：『主要用牠，用完了會立刻牽回來給你們。』」}^4^他們去了，便看見一匹驢駒拴在門外街道上，就把牠解開。^5^在那裏站著的人，有幾個對他們說：「你們解驢駒做甚麼？」^6^門徒照著耶穌所說的回答，那些人就任憑他們牽走了。^7^他們把驢駒牽到耶穌那裏，把自己的衣服搭在上面，耶穌就騎上。^8^許多人把衣服鋪在路上，也有人把田間的樹枝砍下來鋪在路上。^9^前行後隨的人都喊著說：「和散那！奉主名來的是應當稱頌的！^10^那將要來的我祖先大衛之國是應當稱頌的！至高無上的，和散那！」^11^耶穌進了耶路撒冷，入了聖殿，周圍看了各樣物件；天色已晚，就和十二使徒出城，往伯大尼去了。
 
 **咒詛無花果樹、潔淨聖殿**
 
-> ^12^第二天，他們從伯大尼出來，耶穌餓了。^13^他遠遠地看見一棵無花果樹，樹上有葉子，就走過去，看是否可以在樹上找到甚麼。到了樹下，竟找不到甚麼，只有葉子，因為不是收無花果的時候。^14^耶穌就對樹說：<red>「從今以後，永沒有人吃你的果子！」</red>他的門徒都聽見了。
+> ^12^第二天，他們從伯大尼出來，耶穌餓了。^13^他遠遠地看見一棵無花果樹，樹上有葉子，就走過去，看是否可以在樹上找到甚麼。到了樹下，竟找不到甚麼，只有葉子，因為不是收無花果的時候。^14^耶穌就對樹說：\jesus{「從今以後，永沒有人吃你的果子！」}他的門徒都聽見了。
 
-> ^15^他們來到耶路撒冷。耶穌進入聖殿，開始把在聖殿裏做買賣的人趕出去，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，^16^也不許人拿著器具從聖殿經過。^17^他教導他們說：<red>「經上不是記著：『我的殿必稱為萬國禱告的殿』嗎？你們倒使它成為賊窩了。」</red>^18^祭司長和文士聽見這事，就想法子要除滅耶穌，卻又怕他，因為眾人都詫異他的教導。^19^每天晚上，耶穌出城去。
+> ^15^他們來到耶路撒冷。耶穌進入聖殿，開始把在聖殿裏做買賣的人趕出去，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，^16^也不許人拿著器具從聖殿經過。^17^他教導他們說：\jesus{「經上不是記著：『我的殿必稱為萬國禱告的殿』嗎？你們倒使它成為賊窩了。」}^18^祭司長和文士聽見這事，就想法子要除滅耶穌，卻又怕他，因為眾人都詫異他的教導。^19^每天晚上，耶穌出城去。
 
 **無花果樹枯乾、論信心與饒恕**
 
-> ^20^早晨，他們經過的時候，看見無花果樹連根都枯乾了。^21^彼得想起耶穌的話來，就對他說：「拉比，請看！你所詛咒的無花果樹已經枯乾了。」^22^耶穌回應他們：<red>「要對神有信心。^23^我實在告訴你們，無論誰對這座山說：『挪開，投在海裏！』他若心裏不疑惑，只信他所說的必成，就必為他實現。^24^所以我告訴你們，凡你們禱告祈求的，無論是甚麼，只要信是得著的，就必得著。^25^你們站著禱告的時候，若想起有人得罪你們，就要饒恕他，好讓你們在天上的父也饒恕你們的過犯。」</red>
+> ^20^早晨，他們經過的時候，看見無花果樹連根都枯乾了。^21^彼得想起耶穌的話來，就對他說：「拉比，請看！你所詛咒的無花果樹已經枯乾了。」^22^耶穌回應他們：\jesus{「要對神有信心。^23^我實在告訴你們，無論誰對這座山說：『挪開，投在海裏！』他若心裏不疑惑，只信他所說的必成，就必為他實現。^24^所以我告訴你們，凡你們禱告祈求的，無論是甚麼，只要信是得著的，就必得著。^25^你們站著禱告的時候，若想起有人得罪你們，就要饒恕他，好讓你們在天上的父也饒恕你們的過犯。」}
 
 **論耶穌的權柄**
 
-> ^27^他們又來到耶路撒冷。耶穌在聖殿裏行走的時候，祭司長、文士和長老來到他跟前，^28^問他：「你憑甚麼權柄做這些事？給你權柄做這些事的是誰呢？」^29^耶穌對他們說：<red>「我要問你們一句話，你們回答我，我就告訴你們我憑甚麼權柄做這些事。^30^約翰的洗禮是從天上來的，還是從人間來的呢？你們回答我！」</red>^31^他們彼此商議說：「我們若說『從天上來』，他會說：『那麼，你們為甚麼不信他呢？』^32^但我們說『從人間來』」——他們懼怕百姓，因為眾人都認為約翰真是一位先知——^33^於是他們回答耶穌說：「我們不知道。」耶穌對他們說：<red>「我也不告訴你們我憑甚麼權柄做這些事。」</red>
+> ^27^他們又來到耶路撒冷。耶穌在聖殿裏行走的時候，祭司長、文士和長老來到他跟前，^28^問他：「你憑甚麼權柄做這些事？給你權柄做這些事的是誰呢？」^29^耶穌對他們說：\jesus{「我要問你們一句話，你們回答我，我就告訴你們我憑甚麼權柄做這些事。^30^約翰的洗禮是從天上來的，還是從人間來的呢？你們回答我！」}^31^他們彼此商議說：「我們若說『從天上來』，他會說：『那麼，你們為甚麼不信他呢？』^32^但我們說『從人間來』」——他們懼怕百姓，因為眾人都認為約翰真是一位先知——^33^於是他們回答耶穌說：「我們不知道。」耶穌對他們說：\jesus{「我也不告訴你們我憑甚麼權柄做這些事。」}
 
 *（第26節缺，和合本修訂版依照最古老抄本，未收錄後期抄本補入之「你們若不饒恕人，你們在天上的父也不饒恕你們的過犯」一句。）*
 
 ### English — ESV
 
-> ^1^Now when they drew near to Jerusalem, to Bethphage and Bethany, at the Mount of Olives, Jesus sent two of his disciples ^2^and said to them, <red>"Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it. ^3^If anyone says to you, 'Why are you doing this?' say, 'The Lord has need of it and will send it back here immediately.'"</red> ^4^And they went away and found a colt tied at a door outside in the street, and they untied it. ^5^And some of those standing there said to them, "What are you doing, untying the colt?" ^6^And they told them what Jesus had said, and they let them go. ^7^And they brought the colt to Jesus and threw their cloaks on it, and he sat on it. ^8^And many spread their cloaks on the road, and others spread leafy branches that they had cut from the fields. ^9^And those who went before and those who followed were shouting, "Hosanna! Blessed is he who comes in the name of the Lord! ^10^Blessed is the coming kingdom of our father David! Hosanna in the highest!" ^11^And he entered Jerusalem and went into the temple. And when he had looked around at everything, as it was already late, he went out to Bethany with the twelve.
+> ^1^Now when they drew near to Jerusalem, to Bethphage and Bethany, at the Mount of Olives, Jesus sent two of his disciples ^2^and said to them, \jesus{"Go into the village in front of you, and immediately as you enter it you will find a colt tied, on which no one has ever sat. Untie it and bring it. ^3^If anyone says to you, 'Why are you doing this?' say, 'The Lord has need of it and will send it back here immediately.'"} ^4^And they went away and found a colt tied at a door outside in the street, and they untied it. ^5^And some of those standing there said to them, "What are you doing, untying the colt?" ^6^And they told them what Jesus had said, and they let them go. ^7^And they brought the colt to Jesus and threw their cloaks on it, and he sat on it. ^8^And many spread their cloaks on the road, and others spread leafy branches that they had cut from the fields. ^9^And those who went before and those who followed were shouting, "Hosanna! Blessed is he who comes in the name of the Lord! ^10^Blessed is the coming kingdom of our father David! Hosanna in the highest!" ^11^And he entered Jerusalem and went into the temple. And when he had looked around at everything, as it was already late, he went out to Bethany with the twelve.
 
-> ^12^On the following day, when they came from Bethany, he was hungry. ^13^And seeing in the distance a fig tree in leaf, he went to see if he could find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs. ^14^And he said to it, <red>"May no one ever eat fruit from you again."</red> And his disciples heard it.
+> ^12^On the following day, when they came from Bethany, he was hungry. ^13^And seeing in the distance a fig tree in leaf, he went to see if he could find anything on it. When he came to it, he found nothing but leaves, for it was not the season for figs. ^14^And he said to it, \jesus{"May no one ever eat fruit from you again."} And his disciples heard it.
 
-> ^15^And they came to Jerusalem. And he entered the temple and began to drive out those who sold and those who bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. ^16^And he would not allow anyone to carry anything through the temple. ^17^And he was teaching them and saying to them, <red>"Is it not written, 'My house shall be called a house of prayer for all the nations'? But you have made it a den of robbers."</red> ^18^And the chief priests and the scribes heard it and were seeking a way to destroy him, for they feared him, because all the crowd was astonished at his teaching. ^19^And when evening came they went out of the city.
+> ^15^And they came to Jerusalem. And he entered the temple and began to drive out those who sold and those who bought in the temple, and he overturned the tables of the money-changers and the seats of those who sold pigeons. ^16^And he would not allow anyone to carry anything through the temple. ^17^And he was teaching them and saying to them, \jesus{"Is it not written, 'My house shall be called a house of prayer for all the nations'? But you have made it a den of robbers."} ^18^And the chief priests and the scribes heard it and were seeking a way to destroy him, for they feared him, because all the crowd was astonished at his teaching. ^19^And when evening came they went out of the city.
 
-> ^20^As they passed by in the morning, they saw the fig tree withered away to its roots. ^21^And Peter remembered and said to him, "Rabbi, look! The fig tree that you cursed has withered." ^22^And Jesus answered them, <red>"Have faith in God. ^23^Truly, I say to you, whoever says to this mountain, 'Be taken up and thrown into the sea,' and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him. ^24^Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours. ^25^And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses."</red>
+> ^20^As they passed by in the morning, they saw the fig tree withered away to its roots. ^21^And Peter remembered and said to him, "Rabbi, look! The fig tree that you cursed has withered." ^22^And Jesus answered them, \jesus{"Have faith in God. ^23^Truly, I say to you, whoever says to this mountain, 'Be taken up and thrown into the sea,' and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him. ^24^Therefore I tell you, whatever you ask in prayer, believe that you have received it, and it will be yours. ^25^And whenever you stand praying, forgive, if you have anything against anyone, so that your Father also who is in heaven may forgive you your trespasses."}
 
-> ^27^And they came again to Jerusalem. And as he was walking in the temple, the chief priests and the scribes and the elders came to him, ^28^and they said to him, "By what authority are you doing these things, or who gave you this authority to do them?" ^29^Jesus said to them, <red>"I will ask you one question; answer me, and I will tell you by what authority I do these things. ^30^Was the baptism of John from heaven or from man? Answer me."</red> ^31^And they discussed it with one another, saying, "If we say, 'From heaven,' he will say, 'Why then did you not believe him?' ^32^But shall we say, 'From man'?"—they were afraid of the people, for they all held that John really was a prophet. ^33^So they answered Jesus, "We do not know." And Jesus said to them, <red>"Neither will I tell you by what authority I do these things."</red>
+> ^27^And they came again to Jerusalem. And as he was walking in the temple, the chief priests and the scribes and the elders came to him, ^28^and they said to him, "By what authority are you doing these things, or who gave you this authority to do them?" ^29^Jesus said to them, \jesus{"I will ask you one question; answer me, and I will tell you by what authority I do these things. ^30^Was the baptism of John from heaven or from man? Answer me."} ^31^And they discussed it with one another, saying, "If we say, 'From heaven,' he will say, 'Why then did you not believe him?' ^32^But shall we say, 'From man'?"—they were afraid of the people, for they all held that John really was a prophet. ^33^So they answered Jesus, "We do not know." And Jesus said to them, \jesus{"Neither will I tell you by what authority I do these things."}
 
 ---
 
@@ -80,6 +65,20 @@ publisher: 三書精讀出版系統
 ### 文學結構：三明治敘事再現——無花果樹包夾聖殿潔淨
 
 馬可再次使用他招牌的「三明治結構」：咒詛無花果樹（12-14節）→ 潔淨聖殿（15-19節）→ 無花果樹枯乾、信心與饒恕的教導（20-25節）。無花果樹「有葉子卻沒有果子」的光景，正是聖殿當下光景的具體寫照——外表繁盛（宏偉的建築、熱鬧的祭祀活動），內裏卻結不出神所期待的「禱告」與「公義」的果子。耶穌對這棵樹的咒詛，實質上是對聖殿體系的審判性宣告——這在下一章（12:1-12，兇惡園戶的比喻）與13章（聖殿被毀的預言）中將進一步展開。
+
+### 平行經文對照 (Parallel Gospel Accounts)
+
+本章各段敘事在其他福音書與舊約經文中均有對應記載，讀者可一併參照：
+
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 騎驢進城應驗預言 | 11:1-10 | 亞9:9、太21:4-5、約12:14-15 |
+| 和散那 | 11:9-10 | 詩118:25-26 |
+| 無花果樹的審判 | 11:12-14, 20-21 | 何9:10、太21:19-20、路13:6-9 |
+| 潔淨聖殿 | 11:15-17 | 賽56:7、耶7:11、約2:14-16 |
+| 信心與挪山 | 11:22-23 | 太17:20、路17:6、林前13:2 |
+| 禱告與饒恕 | 11:25 | 太6:14-15、太18:21-35 |
+| 論耶穌的權柄 | 11:27-33 | 太21:23-27、路20:1-8 |
 
 ---
 
@@ -154,34 +153,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 118:25-26
-
-> **耶和華啊，求你拯救！耶和華啊，求你使我們亨通！**
-> 奉耶和華名來的是應當稱頌的！我們從耶和華的殿中為你們祝福！
-
-### 詩篇 80:8-9, 15-16
-
-> 你從埃及挪出一棵葡萄樹，趕出外邦人，把這樹栽上。
-> 你為這樹清了地，它就深深扎根，長滿了地。
-> 這樹又被火燒，又被刀砍，他們因你臉上的怒容就滅亡了。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Hosanna, Loud Hosanna
-
-> Hosanna, loud hosanna, the little children sang;
-> through pillared court and temple the lovely anthem rang.
-> To Jesus, who had blessed them, close folded to His breast,
-> **the children sang their praises, the simplest and the best.**
-
-孩童純真的和散那，與祭司長算計的沉默恰成對比——那配得敬拜的君王，垂聽的往往是最單純的讚美。
-
----
-
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 黃長老查經：榮進耶路撒冷、潔淨聖殿 (Ask Elder Wong)
@@ -215,7 +186,19 @@ publisher: 三書精讀出版系統
 > Thou art the King of Israel, Thou David's royal Son,
 > who in the Lord's name comest, the King and Blessed One.
 >
+> 一切榮耀、頌讚、尊貴，都歸與你，救贖之王；
+> 孩童的嘴唇向你，發出甜美的和散那頌讚。
+>
 > — Theodulph of Orleans (c. 820), trans. John Mason Neale
+
+**聖詩**：*Hosanna, Loud Hosanna*（響亮的和散那）
+
+> Hosanna, loud hosanna, the little children sang;
+> through pillared court and temple the lovely anthem rang.
+> To Jesus, who had blessed them, close folded to His breast,
+> **the children sang their praises, the simplest and the best.**
+
+孩童純真的和散那，與祭司長算計的沉默恰成對比——那配得敬拜的君王，垂聽的往往是最單純的讚美。
 
 **詩篇**：詩篇 118:22-26
 
@@ -224,6 +207,14 @@ publisher: 三書精讀出版系統
 > 這是耶和華所定的日子，我們在其中要高興歡喜！
 > 耶和華啊，求你拯救！耶和華啊，求你使我們亨通！
 > 奉耶和華名來的是應當稱頌的！我們從耶和華的殿中為你們祝福！
+
+**詩篇**：詩篇 80:8-9, 15-16
+
+> 你從埃及挪出一棵葡萄樹，趕出外邦人，把這樹栽上。
+> 你為這樹清了地，它就深深扎根，長滿了地。
+> 這樹又被火燒，又被刀砍，他們因你臉上的怒容就滅亡了。
+
+無花果樹的咒詛，讓人想起這首詩篇對「神栽種的樹卻不結果、終致被砍伐焚燒」的哀歌——耶穌對聖殿的審判，正是這古老哀歌在歷史中的再一次應驗。
 
 ---
 
@@ -275,17 +266,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 與其他經文的關聯
+## 反思問題 (Reflection Questions)
 
-| 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
-| 騎驢進城應驗預言 | 11:1-10 | 亞9:9、太21:4-5、約12:14-15 |
-| 和散那 | 11:9-10 | 詩118:25-26 |
-| 無花果樹的審判 | 11:12-14, 20-21 | 何9:10、太21:19-20、路13:6-9 |
-| 潔淨聖殿 | 11:15-17 | 賽56:7、耶7:11、約2:14-16 |
-| 信心與挪山 | 11:22-23 | 太17:20、路17:6、林前13:2 |
-| 禱告與饒恕 | 11:25 | 太6:14-15、太18:21-35 |
-| 論耶穌的權柄 | 11:27-33 | 太21:23-27、路20:1-8 |
+1. 群眾夾道歡呼「和散那」，期待的是一位推翻羅馬的政治性彌賽亞，卻在幾天後改口喊「釘他十字架」——耶穌選擇騎驢而非戰馬進城，這對我們今天期待祂「為我做什麼」而非「祂真正是誰」，有什麼提醒？
+
+2. 無花果樹「有葉子卻沒有果子」，成了聖殿光景的活寫照——耶穌對這棵樹的咒詛，其實是對整個宗教體系的審判性宣告。我生命中，有沒有看起來枝葉繁茂、卻結不出信心與公義之果子的部分？
+
+3. 耶穌宣告「我的殿必稱為萬國禱告的殿，你們倒使它成為賊窩了」——祂潔淨聖殿所憤怒的，不只是不當的商業行為，更是外邦人唯一能親近神的空間被侵佔。今天我所在的群體或個人生命中，有沒有什麼「本該是禱告的殿」，卻被別的目的佔據了？
+
+4. 耶穌從無花果樹的枯乾，教導門徒「對神有信心」，又立刻把「饒恕」列為禱告蒙應允不可或缺的條件——為什麼信心與饒恕會被耶穌並列在同一段教導裏？我心裏有沒有一個懷怨的對象，正攔阻著我的禱告？
+
+5. 祭司長、文士、長老明知施洗約翰是真先知，卻因懼怕百姓而假裝「不知道」——他們的沉默不是無知，而是不誠實的自保。我有沒有為了避免代價，故意迴避一個心裏其實早已知道答案的問題？
 
 ---
 

@@ -26,10 +26,10 @@ publisher: 三書精讀出版系統
 
 ## 核心經文 (Key Verse)
 
-> <red>因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。</red>
+> \jesus{因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。}
 > — 馬可福音 10:45
 
-> <red>For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.</red>
+> \jesus{For even the Son of Man came not to be served but to serve, and to give his life as a ransom for many.}
 > — Mark 10:45 (ESV)
 
 ---
