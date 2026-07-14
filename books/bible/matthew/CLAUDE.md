@@ -220,7 +220,7 @@ matthew-gospel/
 ├── book/
 │   ├── chapter-01-king-identity.md   # 君王的身分 (1-4章)
 │   ├── chapter-02-sermon-on-mount.md # 登山寶訓 (5-7章)
-│   ├── chapter-03-kingdom-parables.md# 天國比喻 (13章)
+│   ├── chapter-03-kings-power.md      # 君王的權能：神蹟、差遣、奧秘的比喻 (8-13章)
 │   ├── chapter-04-discipleship.md    # 門徒訓練 (14-20章)
 │   ├── chapter-05-passion-week.md    # 受難週 (21-28章)
 │   └── appendix-*.md                 # 附錄
