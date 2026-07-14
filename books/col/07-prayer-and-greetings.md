@@ -10,6 +10,10 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 **經文核對**：[ai-eden.com/bible/colossians/4](https://www.ai-eden.com/bible/colossians/4?t=CUV,ESV&cols=2)
 
+## 基督焦點 (Christ at the Center)
+
+一封從監獄裡寄出的信，收尾時保羅求的代禱不是「脫離捆鎖」，是「開傳道的門，能以講基督的奧祕」（4:3）——連在鎖鏈中，他念念不忘的仍是那位配得傳揚的基督。問安名單裡的每一個名字，都是這位基督翻轉生命的見證：逃奴阿尼西母成了「親愛忠心的兄弟」，同工們或忠心到底、或貪愛世界離棄了福音。全書從「願恩惠、平安從神我們的父歸與你們」開始，也以「願恩惠常與你們同在」結束——恩惠的源頭，從頭到尾只有一位。
+
 ---
 
 ## 經文
@@ -36,6 +40,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *2 Continue steadfastly in prayer, being watchful in it with thanksgiving. 3 At the same time, pray also for us, that God may open to us a door for the word, to declare the mystery of Christ, on account of which I am in prison — 4 that I may make it clear, which is how I ought to speak. 5 Walk in wisdom toward outsiders, making the best use of the time. 6 Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person. 7 Tychicus will tell you all about my activities. He is a beloved brother and faithful minister and fellow servant in the Lord. 8 I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts, 9 and with him Onesimus, our faithful and beloved brother, who is one of you. They will tell you of everything that has taken place here. 10 Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions — if he comes to you, welcome him), 11 and Jesus who is called Justus. These are the only men of the circumcision among my fellow workers for the kingdom of God, and they have been a comfort to me. 12 Epaphras, who is one of you, a servant of Christ Jesus, greets you, always struggling on your behalf in his prayers, that you may stand mature and fully assured in all the will of God. 13 For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis. 14 Luke the beloved physician greets you, as does Demas. 15 Give my greetings to the brothers at Laodicea, and to Nympha and the church in her house. 16 And when this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea. 17 And say to Archippus, "See that you fulfill the ministry that you have received in the Lord." 18 I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you.*
 > — Colossians 4:2-18 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *proskartereō* | proskartereō | 恆切、堅持不懈 | 4:2，同一字用於徒1:14「同心合意的恆切禱告」 |
+| *grēgoreō* | grēgoreō | 儆醒 | 4:2，呼應太26:41「總要儆醒禱告」 |
+| *mystērion* | mystērion | 奧祕 | 4:3，與1:26-27「基督在你們心裡成了有榮耀的盼望」同一詞 |
+| *halas* | halas | 鹽 | 4:6，兼具調味與防腐兩重古代常見用法 |
+| *kairos* | kairos | 時機、恰當的時候 | 4:5，「愛惜光陰」原文直譯是「贖回時機」 |
 
 ---
 
@@ -67,7 +83,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ### 4. 問安名單——不是流水帳，是一幅真實的團契圖畫
 
-7-17節看似只是一連串人名，其實是全卷書「新生命」神學最具體的展演。留意其中一個細節：9節「一位親愛忠心的兄弟阿尼西母」——這個名字若你讀過腓利門書就會認出：他正是那位從腓利門家逃走的奴僕，如今已是保羅稱為「親愛忠心的兄弟」、與推基古一同肩負送信重任的同工。3:11「並不分……為奴的、自主的，惟有基督是包括一切」不是一句抽象的神學宣告，阿尼西母就是這句話活生生的見證。14節「所親愛的醫生路加和底馬問你們安」，兩人並列，但底馬後來的結局（提後4:10「底馬貪愛現今的世界，就離棄我，往帖撒羅尼迦去了」）提醒我們：同工的名單裡，不是每個人都堅持到底。
+7-17節看似只是一連串人名，其實是全卷書「新生命」領受最具體的展演。留意其中一個細節：9節「一位親愛忠心的兄弟阿尼西母」——這個名字若你讀過腓利門書就會認出：他正是那位從腓利門家逃走的奴僕，如今已是保羅稱為「親愛忠心的兄弟」、與推基古一同肩負送信重任的同工。3:11「並不分……為奴的、自主的，惟有基督是包括一切」不是一句抽象的宣告，阿尼西母就是這句話活生生的見證。14節「所親愛的醫生路加和底馬問你們安」，兩人並列，但底馬後來的結局（提後4:10「底馬貪愛現今的世界，就離棄我，往帖撒羅尼迦去了」）提醒我們：同工的名單裡，不是每個人都堅持到底。
 
 帶領提問：**阿尼西母的故事告訴你：教會裡最意想不到的人，也可能成為「親愛忠心的兄弟」。你生命中有沒有一個人，你曾經把他定型了、判了他的結局，卻可能被基督翻轉？**
 
@@ -82,6 +98,21 @@ leader: 黃長老式查經 (Elder Wong Method)
 > 出處：John MacArthur, "With a Little Help from My Friends" (Colossians 4:7-18), gty.org, 1976年12月5日
 
 *本節暫無 G. Campbell Morgan 對歌羅西書第四章的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Blest Be the Tie That Binds* by John Fawcett, 1782
+
+> Blest be the tie that binds our hearts in Christian love;
+> The fellowship of kindred minds is like to that above.
+> Before our Father's throne we pour our ardent prayers;
+> Our fears, our hopes, our aims are one, our comforts and our cares.
+
+**詩篇**：詩篇 133:1
+
+> 看哪，弟兄和睦同居是何等地善，何等地美！
 
 ---
 
@@ -104,6 +135,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 全書以「願恩惠常與你們同在」收尾（18節）——這正是1:2「願恩惠、平安從神我們的父歸與你們」的呼應，整卷書從恩惠開始，也以恩惠結束。捆鎖中的保羅，眼中所見不是自己的限制，是那位「使他可以在凡事上居首位」（1:18）的基督，正在他的軟弱裡、在教會的團契裡、在阿尼西母的翻轉裡，繼續得勝地作王。你今天讀完整卷歌羅西書，最後要問自己的，仍是那個問題：這位配得一切、住在你心裡的基督——你信嗎？你活出來了嗎？
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 保羅在監獄裡求的代禱是「開傳道的門」，不是「求脫離捆鎖」（4:3）——你的禱告清單裡，有沒有一句是超越自己處境的？
+
+2. 「你們的言語要常常帶著和氣，好像用鹽調和」（4:6）——你昨天對一個「外人」說的話，帶著鹽嗎？
+
+3. 阿尼西母從逃奴變成「親愛忠心的兄弟」（4:9）——你生命中有沒有一個人，被你定了型，卻可能被基督翻轉？
+
+4. 底馬的名字出現在問安名單裡，後來卻因「貪愛現今的世界」離棄了保羅（提後4:10）——這對你今天的信心之路，是什麼提醒？
+
+5. 全書以「願恩惠常與你們同在」收尾——讀完整卷歌羅西書，你心裡最想回應的一句話是什麼？
 
 ---
 

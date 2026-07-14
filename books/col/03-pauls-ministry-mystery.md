@@ -12,6 +12,12 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 基督焦點 (Christ at the Center)
+
+保羅在監獄裡受苦，卻「倒覺歡樂」（24節）——不是因為他喜歡受苦，是因為他所傳揚的奧祕太過震撼：「基督在你們心裡成了有榮耀的盼望」（27節）。這段經文的中心不是保羅的職事本身，是那位住進外邦人心裡的基督——祂就是那長久隱藏、如今才顯明的奧祕，也是「所積蓄的一切智慧知識」所藏身的所在（2:3）。
+
+---
+
 ## 經文
 
 > **歌羅西書 1:24-29**（和合本）
@@ -35,6 +41,21 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *1 For I want you to know how great a struggle I have for you and for those at Laodicea 2 that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance 3 in whom are hidden all the treasures of wisdom and knowledge 4 I say this in order that no one may delude you with plausible arguments 5 For though I am absent in body, yet I am with you in spirit, rejoicing to see your good order.*
 > — Colossians 1:24-2:5 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *antanaplēroō* | antanaplēroō | 補滿、代替填補 | 24節，新約僅此一見（hapax legomenon），指身體與元首一同受苦的參與，不是救贖有缺欠 |
+| *mystērion* | mystērion | 奧祕、隱藏後顯明之事 | 26、27節；2:2，全書貫穿的核心詞 |
+| *apokryphoi* | apokryphoi | 隱藏的、珍藏的 | 2:3，「所積蓄的一切智慧知識」都「藏」在基督裡面——是珍藏，不是埋沒 |
+| *sympsychos* / *symbibazō* | symbibazō | 聯絡在一起、使緊密結合 | 2:2「因愛心互相聯絡」，同一詞根也用於2:19身體的「相助聯絡」 |
+
+### 「補滿」(antanaplēroō) 的精確意義
+
+這個字在整部新約只出現這一次，由兩個前綴（anti-「代替、對應」+ ana-「向上、完全」）加上核心動詞「填滿」組成。保羅不是說基督十字架上的救贖工作有缺欠需要人去補——那已經「成了」（約19:30）；他說的是「基督患難」的另一個層面：教會（基督的身體）在世上還要繼續經歷的逼迫，是頭與身體聯合的必然延伸，保羅甘心在自己的肉身上承擔這一份。
 
 ---
 
@@ -88,6 +109,24 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*He Lives*（祂活著）by Alfred H. Ackley, 1933
+
+> He lives, He lives, Christ Jesus lives today!
+> He walks with me and talks with me along life's narrow way.
+> He lives, He lives, salvation to impart!
+> You ask me how I know He lives? He lives within my heart.
+
+**詩篇**：詩篇 73:23-26
+
+> 然而，我常與你同在；你攙扶我的右手。
+> 你要以你的訓言引導我，以後你必接我到榮耀裡。
+> 除你以外，在天上我有誰呢？除你以外，在地上我也沒有所愛慕的。
+> 我的肉體和我的心腸衰殘；但神是我心裡的力量，又是我的福分，直到永遠。
+
+---
+
 ## 整本聖經的連結
 
 - **彼得前書 1:10-12 ↔ 歌羅西書 1:26**：「論到這救恩，那預先說你們要得恩典的眾先知早已詳細的尋求考察……並考察所指是甚麼時候……天使也願意詳細察看這些事」——舊約先知渴望明白卻看不透的奧祕，如今在基督裡向教會顯明了。你活在「已經顯明」的這一邊，是何等的恩典。
@@ -107,6 +146,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 這段經文最震撼的宣告，不是保羅受了多少苦，是那句「基督在你們心裡成了有榮耀的盼望」。你以為信仰是一套要學會的道理，保羅卻說：那道理已經住進你裡面了，祂有名字，是耶穌基督。你今天尋求智慧、尋求答案、尋求盼望——祂不在遠方，祂在你心裡。你認得出祂的聲音嗎？
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「我為你們受苦，倒覺歡樂」（24節）——你有沒有把自己的患難，錯誤地理解成「神的工作沒做完」，而不是與元首聯合的記號？
+
+2. 「基督在你們心裡成了有榮耀的盼望」（27節）——這句話你聽了多少年？如果是第一次聽見，你會不會像歌羅西的外邦信徒一樣震驚？
+
+3. 「所積蓄的一切智慧知識，都在他裡面藏著」（2:3）——你今天遇到難解的問題時，第一個翻開的是哪一本書、問的是哪一個人？
+
+4. 保羅「為此勞苦，照著他在我裡面運用的大能盡心竭力」（29節）——你今天的勞苦，動力來源是自己的意志力，還是那在你裡面運行的大能？
 
 ---
 

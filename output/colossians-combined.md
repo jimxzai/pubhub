@@ -28,6 +28,14 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 **經文範圍**：歌羅西書全書（1:1-4:18）
 
+**經文核對**：[ai-eden.com/bible/colossians/1](https://www.ai-eden.com/bible/colossians/1?t=CUV,ESV&cols=2)
+
+---
+
+## 基督焦點 (Christ at the Center)
+
+歌羅西書全書只圍繞一個問題轉：基督夠不夠？保羅的回答不是一句道德勸勉，而是一首詩（1:15-20）——愛子是那不能看見之神的像，萬有靠祂而造、靠祂而立，神本性一切的豐盛有形有體居住在祂裡面。整卷書從頭到尾要讀者看見：你不是在等待被「補滿」，你已經在那位滿有豐盛、已經得勝的基督裡面了。
+
 ---
 
 ## 背景
@@ -35,6 +43,22 @@ leader: 黃長老式查經 (Elder Wong Method)
 保羅在羅馬監獄中寫這封信（約主後60-62年），寫給一間他從未親自到訪過的教會——歌羅西教會是由以巴弗（西1:7）建立的。這封信藉推基古和逃奴阿尼西母一同送達（西4:7-9），與腓利門書、以弗所書是同批「監獄書信」。
 
 歌羅西教會面對的不是道德敗壞，而是一種混合式的異端——後世稱為「歌羅西異端」：把猶太律法主義（割禮、飲食、節期，2:11, 16）、希臘哲學（2:8）、敬拜天使（2:18）、苦修規條（2:20-23）都摻進對基督的信仰裡，暗示：光有基督還不夠，還要加點別的才「完整」。
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *plērōma* | plērōma | 豐盛、完全的容量 | 全書關鍵詞：1:19、2:9、2:10；姊妹書信以弗所書也反覆使用（弗1:23、3:19、4:13） |
+| *eikōn* | eikōn | 像、本質的顯現 | 1:15，基督是不能看見之神的「像」——非被造之像，是神本體的顯明 |
+| *prōtotokos* | prōtotokos | 首生的、地位在先者 | 1:15、1:18，兩次出現，分別指向創造之先與復活之先 |
+| *mystērion* | mystērion | 奧祕、隱藏後顯明之事 | 1:26-27、2:2、4:3，全書貫穿的核心詞——不是謎題，是已經顯明的真相 |
+| *thriambeuō* | thriambeuō | 誇勝、公開凱旋遊行 | 2:15，羅馬軍事凱旋式的意象，基督在十字架上「誇勝」 |
+
+### 「豐盛」(plērōma) ——全書的鑰匙
+
+保羅不是隨口說「基督很豐富」，plērōma 是一個精確的希臘詞，意思是「全部的容量，毫無缺漏」。這個詞在全書出現三次（1:19、2:9、2:10），又在姊妹書信以弗所書反覆迴響——兩卷監獄書信，用同一把鑰匙，開同一扇門：基督是滿的，你在祂裡面也被充滿了。
+
+---
 
 ## 精義一句話
 
@@ -82,6 +106,23 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*All Hail the Power of Jesus' Name*（普天頌讚耶穌聖名）by Edward Perronet, 1779
+
+> All hail the power of Jesus' name! Let angels prostrate fall;
+> Bring forth the royal diadem, and crown Him Lord of all!
+> Let every kindred, every tribe, on this terrestrial ball,
+> To Him all majesty ascribe, and crown Him Lord of all!
+
+**詩篇**：詩篇 148:1-5
+
+> 你們要讚美耶和華！從天上讚美耶和華，在高處讚美他！
+> 他的眾使者都要讚美他！他的諸軍都要讚美他！
+> 願這些都讚美耶和華的名！因他一吩咐便都造成。
+
+---
+
 ## 整本聖經的連結
 
 - **以弗所書 ↔ 歌羅西書：姊妹書信**：兩卷信同一次由推基古送出（弗6:21；西4:7），主題互補：以弗所書著重教會是基督的身體、信徒在基督裡的地位；歌羅西書著重基督是教會的頭、豐盛居住在祂裡面（1:18, 2:9-10）。兩卷書合起來讀，才是完整的圖畫。
@@ -101,6 +142,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 歌羅西書要讀者看見：耶穌不是眾多真理之一，祂是一切真理的總和——祂是那不能看見之神的像、萬有藉祂而造、教會的頭、神一切豐盛居住的所在、十字架上凱旋得勝的主。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 保羅寫這封信是為了「預防」，不是為了「糾正」已淪陷的教會——這對你今天讀這卷書的心態，有什麼提醒？
+
+2. 「基督的豐富與得勝」這書名，兩個字缺一不可——你比較容易忘記哪一半：祂的豐富（你不缺），還是祂的得勝（你不怕）？
+
+3. 全書「一個『是』帶出一個『所以』」的結構——你讀基督教倫理教導時，通常先問「我該做什麼」，還是先問「我在基督裡是誰」？
+
+4. 保羅把「加法」的東西（割禮、律法、學問）都當作糞土（腓3:8）——你生命中，有沒有一樣東西，是你不知不覺想加在基督之上的？
 
 ---
 
@@ -125,6 +178,12 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 基督焦點 (Christ at the Center)
+
+保羅還沒有寫下基督頌的一個字，卻已經把主角點名了——「愛子」（13節）。信心、愛心、盼望這三根柱子，福音的結果與增長，禱告求認識神的旨意，脫離黑暗遷入國度——全部繫於同一位：「我們在愛子裡得蒙救贖，罪過得以赦免」（14節）。這段問安與代求，是全卷基督頌（1:15-20）拉開序幕前，最後一次深呼吸。
+
+---
+
 ## 經文
 
 > **歌羅西書 1:1-14**（和合本）
@@ -146,6 +205,22 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, 2 To the saints and faithful brothers in Christ at Colossae: Grace to you and peace from God our Father. 3 We always thank God, the Father of our Lord Jesus Christ, when we pray for you, 4 since we heard of your faith in Christ Jesus and of the love that you have for all the saints, 5 because of the hope laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel, 6 which has come to you, as indeed in the whole world it is bearing fruit and increasing — as it also does among you, since the day you heard it and understood the grace of God in truth, 7 just as you learned it from Epaphras our beloved fellow servant. He is a faithful minister of Christ on your behalf 8 and has made known to us your love in the Spirit. 9 And so, from the day we heard, we have not ceased to pray for you, asking that you may be filled with the knowledge of his will in all spiritual wisdom and understanding, 10 so as to walk in a manner worthy of the Lord, fully pleasing to him: bearing fruit in every good work and increasing in the knowledge of God; 11 being strengthened with all power, according to his glorious might, for all endurance and patience with joy; 12 giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light. 13 He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, 14 in whom we have redemption, the forgiveness of sins.*
 > — Colossians 1:1-14 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *pistis* | pistis | 信心 | 4節，與愛心、盼望並列成三根柱子（另見林前13:13） |
+| *agapē* | agapē | 愛心 | 4、8節，信心的果子，向眾聖徒而發 |
+| *elpis* | elpis | 盼望 | 5節，存在天上的、托住信心與愛心的地基 |
+| *karpophoreō* / *auxanō* | karpophoreō / auxanō | 結果子／增長 | 6、10節，福音的兩個同步動作：內在結果子，外在擴展增長 |
+| *methistēmi* | methistēmi | 遷移、遷徙 | 13節「遷到」，過去完成式，古代常用於整族被強制遷移 |
+
+### 「結果，增長」的兩個動詞
+
+6節「結果，增長」在原文是兩個不同的動詞並列：*karpophoroumenon*（結果子，中間語態，強調內在的、自然而然的生發）與 *auxanomenon*（增長、擴展，強調外在的擴張）。同一個福音，同時做著這兩件事——這不是巧合，是福音本身的性質。
 
 ---
 
@@ -199,6 +274,22 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Now Thank We All Our God*（今要稱謝我們的神）by Martin Rinkart, 1636
+
+> Now thank we all our God, with heart and hands and voices,
+> Who wondrous things has done, in whom His world rejoices;
+> Who from our mothers' arms hath blessed us on our way
+> With countless gifts of love, and still is ours today.
+
+**詩篇**：詩篇 100:4-5
+
+> 當稱謝進入他的門，當讚美進入他的院。當感謝他，稱頌他的名！
+> 因為耶和華本為善，他的慈愛存到永遠，他的信實直到萬代。
+
+---
+
 ## 整本聖經的連結
 
 - **出埃及記 ↔ 歌羅西書 1:13**：以色列人出埃及，是從「為奴之地」被領到「應許之地」——一次得贖的行動，不是漸進的解放。西1:13「他救了我們脫離黑暗的權勢，把我們遷到他愛子的國裡」用的是同一個模式：不是你正在慢慢脫離黑暗，是已經被遷走了。
@@ -218,6 +309,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 這段問安與代求，還沒有展開基督頌（那是下一段的高峰），但已經把主角點名了——「愛子」。你脫離黑暗權勢，不是被遷到一套新規條裡，是被遷到「他愛子的國裡」；你的救贖與赦罪，「在愛子裡」才成立。整封信接下來要用一整首詩（1:15-20）告訴你：這位「愛子」，究竟配不配得你把整個生命的主權交給祂。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 保羅為歌羅西教會禱告，第一個內容是「滿心知道神的旨意」（9節）——你上一次為別人代禱，禱告詞的第一句是什麼？
+
+2. 信、愛、望三根柱子——盼望是地基，信心是根，愛心是果子。你今天的屬靈生活，比較像哪一部分特別發達、哪一部分特別枯乾？
+
+3. 「遷到他愛子的國裡」是一次性的、已經完成的事——你有沒有把「已經完成」的救恩，活成「還在努力爭取」的焦慮？
+
+4. 以巴弗是「一同作僕人的」、「基督忠心的執事」（7節）——你生命中有沒有一位像以巴弗一樣、忠心卻不搶鏡頭的服事者？你曾經感謝過他嗎？
 
 ---
 
@@ -242,6 +345,12 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 基督焦點 (Christ at the Center)
+
+新約沒有幾段經文，把基督的位格與工作濃縮得比這裡更高、更密。祂是不能看見之神的像，萬有藉祂而造、靠祂而立，祂是教會的頭，又藉著十字架使萬有與神和好。這不是一段形容詞清單，是一首詩——保羅把基督放在宇宙的正中央，邀請讀者站遠一點，看見祂配得的分量。
+
+---
+
 ## 經文
 
 > **歌羅西書 1:15-23**（和合本）
@@ -258,6 +367,22 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *15 He is the image of the invisible God, the firstborn of all creation. 16 For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. 17 And he is before all things, and in him all things hold together. 18 And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent. 19 For in him all the fullness of God was pleased to dwell, 20 and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross. 21 And you, who once were alienated and hostile in mind, doing evil deeds, 22 he has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him, 23 if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard.*
 > — Colossians 1:15-23 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *eikōn* | eikōn | 像、本質的顯現 | 15節，不是被造的形像，是神本體藉著祂顯明出來 |
+| *prōtotokos* | prōtotokos | 首生的、地位在先者 | 15、18節，兩次出現：創造之先、復活之先 |
+| *kephalē* | kephalē | 頭、元首 | 18節「教會全體之首」，全身聯絡於此 |
+| *plērōma* | plērōma | 豐盛、完全的容量 | 19節，父喜歡叫一切的豐盛在祂裡面居住 |
+| *apokatallassō* | apokatallassō | 使完全和好 | 20、22節，帶著 apo- 前綴，強調徹底、完全的和好 |
+
+### 「首生的」(prōtotokos) 不是被造之首
+
+πρωτότοκος 在希臘文裡本義是「首先出生的」，但保羅緊接著用 16-17 節解釋：不是說基督是第一個被造物，而是「萬有都是靠他造的……他在萬有之先」——祂是創造者的身分優先，不是被造之序位優先。同一個詞在18節再次出現（「從死裡首先復生的」），指向另一重「首位」：復活的優先。
 
 ---
 
@@ -311,6 +436,23 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Crown Him with Many Crowns*（萬千冠冕，歸與基督）by Matthew Bridges, 1851
+
+> Crown Him with many crowns, the Lamb upon His throne;
+> Hark! how the heavenly anthem drowns all music but its own!
+> Awake, my soul, and sing of Him who died for thee,
+> And hail Him as thy matchless King through all eternity.
+
+**詩篇**：詩篇 89:6-8
+
+> 在天空誰能與耶和華相比？神的眾子中，誰能像耶和華呢？
+> 他在聖者的會中，是大有威嚴的神，比一切在他四圍的更可畏懼。
+> 耶和華－萬軍之神啊，哪一個大能者像你耶和華？你的信實在你的四圍。
+
+---
+
 ## 整本聖經的連結
 
 - **創世記 1:26-27 ↔ 歌羅西書 1:15**：「神說：我們要照著我們的形像、按著我們的樣式造人」——人是受造的形像，會朽壞、會犯罪；基督是「不能看見之神的像」，不是被造的、而是神本體的顯明。末後的亞當，做了頭一個亞當做不到的事。
@@ -335,6 +477,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 反思問題 (Reflection Questions)
+
+1. 「愛子是那不能看見之神的像」（15節）——如果你今天想「認識神是怎樣的」，你的第一個動作是翻開哲學書，還是定睛在耶穌身上？
+
+2. 「他在萬有之先，萬有也靠他而立」（17節）——今天有哪一件讓你覺得快要「散掉」的事，你有沒有先問：它靠著誰而立？
+
+3. 十字架「使萬有……都與自己和好了」（20節）——你信主的經歷，通常只被你描述成「我的罪得赦免」嗎？如果十字架修復的是整個受造界的破裂，這對你的福音觀有什麼衝擊？
+
+4. 「使他可以在凡事上居首位」（18節）——你的生命有沒有一個角落，是你悄悄劃出來、不讓基督居首位的？
+
+---
+
 *本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
 
 *三書精讀項目 · 歌羅西書：基督的豐富與得勝 · 黃長老式查經 · 02-基督是誰*
@@ -353,6 +507,12 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## Colossians 1:24-2:5 — Paul's Ministry and the Mystery
 
 **經文核對**：[ai-eden.com/bible/colossians/1](https://www.ai-eden.com/bible/colossians/1?t=CUV,ESV&cols=2) ｜ [colossians/2](https://www.ai-eden.com/bible/colossians/2?t=CUV,ESV&cols=2)
+
+---
+
+## 基督焦點 (Christ at the Center)
+
+保羅在監獄裡受苦，卻「倒覺歡樂」（24節）——不是因為他喜歡受苦，是因為他所傳揚的奧祕太過震撼：「基督在你們心裡成了有榮耀的盼望」（27節）。這段經文的中心不是保羅的職事本身，是那位住進外邦人心裡的基督——祂就是那長久隱藏、如今才顯明的奧祕，也是「所積蓄的一切智慧知識」所藏身的所在（2:3）。
 
 ---
 
@@ -379,6 +539,21 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *1 For I want you to know how great a struggle I have for you and for those at Laodicea 2 that their hearts may be encouraged, being knit together in love, to reach all the riches of full assurance 3 in whom are hidden all the treasures of wisdom and knowledge 4 I say this in order that no one may delude you with plausible arguments 5 For though I am absent in body, yet I am with you in spirit, rejoicing to see your good order.*
 > — Colossians 1:24-2:5 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *antanaplēroō* | antanaplēroō | 補滿、代替填補 | 24節，新約僅此一見（hapax legomenon），指身體與元首一同受苦的參與，不是救贖有缺欠 |
+| *mystērion* | mystērion | 奧祕、隱藏後顯明之事 | 26、27節；2:2，全書貫穿的核心詞 |
+| *apokryphoi* | apokryphoi | 隱藏的、珍藏的 | 2:3，「所積蓄的一切智慧知識」都「藏」在基督裡面——是珍藏，不是埋沒 |
+| *sympsychos* / *symbibazō* | symbibazō | 聯絡在一起、使緊密結合 | 2:2「因愛心互相聯絡」，同一詞根也用於2:19身體的「相助聯絡」 |
+
+### 「補滿」(antanaplēroō) 的精確意義
+
+這個字在整部新約只出現這一次，由兩個前綴（anti-「代替、對應」+ ana-「向上、完全」）加上核心動詞「填滿」組成。保羅不是說基督十字架上的救贖工作有缺欠需要人去補——那已經「成了」（約19:30）；他說的是「基督患難」的另一個層面：教會（基督的身體）在世上還要繼續經歷的逼迫，是頭與身體聯合的必然延伸，保羅甘心在自己的肉身上承擔這一份。
 
 ---
 
@@ -432,6 +607,24 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*He Lives*（祂活著）by Alfred H. Ackley, 1933
+
+> He lives, He lives, Christ Jesus lives today!
+> He walks with me and talks with me along life's narrow way.
+> He lives, He lives, salvation to impart!
+> You ask me how I know He lives? He lives within my heart.
+
+**詩篇**：詩篇 73:23-26
+
+> 然而，我常與你同在；你攙扶我的右手。
+> 你要以你的訓言引導我，以後你必接我到榮耀裡。
+> 除你以外，在天上我有誰呢？除你以外，在地上我也沒有所愛慕的。
+> 我的肉體和我的心腸衰殘；但神是我心裡的力量，又是我的福分，直到永遠。
+
+---
+
 ## 整本聖經的連結
 
 - **彼得前書 1:10-12 ↔ 歌羅西書 1:26**：「論到這救恩，那預先說你們要得恩典的眾先知早已詳細的尋求考察……並考察所指是甚麼時候……天使也願意詳細察看這些事」——舊約先知渴望明白卻看不透的奧祕，如今在基督裡向教會顯明了。你活在「已經顯明」的這一邊，是何等的恩典。
@@ -454,6 +647,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 反思問題 (Reflection Questions)
+
+1. 「我為你們受苦，倒覺歡樂」（24節）——你有沒有把自己的患難，錯誤地理解成「神的工作沒做完」，而不是與元首聯合的記號？
+
+2. 「基督在你們心裡成了有榮耀的盼望」（27節）——這句話你聽了多少年？如果是第一次聽見，你會不會像歌羅西的外邦信徒一樣震驚？
+
+3. 「所積蓄的一切智慧知識，都在他裡面藏著」（2:3）——你今天遇到難解的問題時，第一個翻開的是哪一本書、問的是哪一個人？
+
+4. 保羅「為此勞苦，照著他在我裡面運用的大能盡心竭力」（29節）——你今天的勞苦，動力來源是自己的意志力，還是那在你裡面運行的大能？
+
+---
+
 *本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
 
 *三書精讀項目 · 歌羅西書：基督的豐富與得勝 · 黃長老式查經 · 03-保羅的職事*
@@ -472,6 +677,10 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## Colossians 2:6-23 — The Fullness of Christ vs. False Teaching
 
 **經文核對**：[ai-eden.com/bible/colossians/2](https://www.ai-eden.com/bible/colossians/2?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+這一段的每一次「不可」，背後都站著同一個「已經」：你不需要哲學，因為神本性一切的豐盛已有形有體地住在基督裡面；你不需要另一種割禮，因為基督的割禮已經使你脫去了肉體的轄制；你不需要懼怕執政掌權的，因為基督已在十字架上將牠們公開擄來、誇勝。假教訓的每一個「加法」，都在向這一位已經完全的基督說：你還不夠。保羅的整段反駁，只在證明一件事：你所懼怕、所渴慕的，早已經在祂裡面了。
 
 ---
 
@@ -509,6 +718,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *16 Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. 17 These are a shadow of the things to come, but the substance belongs to Christ. 18 Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind, 19 and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God. 20 If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations — 21 'Do not handle, Do not taste, Do not touch' 22 (referring to things that all perish as they are used) — according to human precepts and teachings? 23 These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh.*
 > — Colossians 2:6-23 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *plērōma* | plērōma | 豐盛、完全的容量 | 2:9、2:10；全書關鍵詞（另見1:19），姊妹書信以弗所書也反覆使用（弗1:23、3:19、4:13） |
+| *sōmatikōs* | sōmatikōs | 有形有體地 | 2:9，全新約僅此一次，強調神性「實體地」居住在基督裡 |
+| *thriambeuō* | thriambeuō | 誇勝、公開凱旋遊行 | 2:15，羅馬軍事凱旋式的意象 |
+| *cheirographon* | cheirographon | 債務字據 | 2:14，指控告人的律法字據 |
+| *philosophia* | philosophia | 理學、哲學 | 2:8，全新約唯一一次出現，帶負面意涵 |
 
 ---
 
@@ -576,13 +797,28 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Crown Him with Many Crowns*（萬冠歸主）by Matthew Bridges, 1851
+
+> Crown Him with many crowns, the Lamb upon His throne;
+> Hark! how the heavenly anthem drowns all music but its own!
+> Awake, my soul, and sing of Him who died for thee,
+> And hail Him as thy matchless King through all eternity.
+
+**詩篇**：詩篇 24:1
+
+> 地和其中所充滿的，世界和住在其間的，都屬耶和華。
+
+---
+
 ## 整本聖經的連結
 
 - **出埃及記 40 章「耶和華的榮光充滿了帳幕」→ 西 2:9「豐盛……居住」**：舊約神的榮耀「充滿」會幕、後來充滿聖殿，是暫時的、有形無質的居住方式；西2:9說豐盛「有形有體」（σωματικῶς，bodily）居住在基督裡——這是舊約帳幕、聖殿指向的終極應驗：神不再住在帳幕裡，神住進了一個身體裡。
 
 - **耶利米書 31:33 → 歌羅西書 2:14**：律例上所寫、攻擊我們的字據（χειρόγραφον，債務字據），呼應西奈山上寫在石版上的律法。神在耶利米書應許：「我要將我的律法放在他們裡面，寫在他們心上」——舊約是「字據記在石版上，控告你」；新約是「字據被塗銷，釘在十字架上」。
 
-- **以弗所書 1:23**：「教會是他的身體，是那充滿萬有者所充滿的」——與歌羅西書 2:9-10 呼應同一個「豐盛」神學：基督滿有豐盛，教會（信徒）在祂裡面被充滿。
+- **以弗所書 1:23**：「教會是他的身體，是那充滿萬有者所充滿的」——與歌羅西書 2:9-10 呼應同一個「豐盛」的領受：基督滿有豐盛，教會（信徒）在祂裡面被充滿。
 
 ---
 
@@ -597,6 +833,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 透過這段經文，耶穌是神一切豐盛有形有體居住的所在，是在十字架上看似落敗、卻是凱旋而歸的得勝者。你今天的「缺乏感」，是缺一件事，還是缺一個人？神本性一切的豐盛已經住在祂裡面，而你——已經在祂裡面得了豐盛。你信嗎？
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「你們在他裡面也得了豐盛」（2:10）——這是你今天生活中真實的信念，還是你嘴上承認、心裡卻仍覺得「不夠」的一句話？
+
+2. 保羅用羅馬凱旋式的意象描述十字架（2:15）——這對你理解「軟弱」與「得勝」的關係，有什麼衝擊？
+
+3. 「影兒」與「形體」的分別（2:17）——你生活中有沒有一項屬靈操練，你現在看得比基督本身還重？
+
+4. 2:23說苦待己身「毫無功效」——你有沒有經歷過，用外在規條對付內心問題卻徒勞無功的時刻？
+
+5. 這一整段是保羅對「加法式信仰」最徹底的拆解——你今天最想在基督之上「加」的，是什麼？
 
 ---
 
@@ -618,6 +868,10 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## Colossians 3:1-17 — New Life in Christ
 
 **經文核對**：[ai-eden.com/bible/colossians/3](https://www.ai-eden.com/bible/colossians/3?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+這一段所有的命令，都掛在一句宣告之下：「基督是我們的生命」（3:4）。不是基督給你生命，是基督本身就是你的生命——你已與祂一同復活，你的生命已與祂一同藏在神裡面。脫下舊人、穿上新人，不是道德改造工程，是回應一個已經與你聯合的基督；祂坐在神的右邊，也住在你裡面，又是那使一切區分失效的「一切」（3:11）。
 
 ---
 
@@ -648,6 +902,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *ei* | ei | 既然（肯定語氣，非懷疑假設） | 3:1，承接2:12「與他一同復活」的既定事實 |
+| *apekdyomai* | apekdyomai | 徹底脫去 | 3:9，比一般「脫」（ἐκδύω）語氣更強，呼應洗禮意象 |
+| *endyō* | endyō | 穿上 | 3:10、3:12，與「脫去」相對的穿衣意象 |
+| *anakainoō* | anakainoō | 更新 | 3:10，「這新人在知識上漸漸更新」，持續進行式 |
+| *plousiōs* | plousiōs | 豐豐富富地 | 3:16，與1:19、2:9的「豐盛」（plērōma）同一字根 |
+
+---
+
 ## 精義一句話
 
 「所以」——3章開頭這兩個字，把整卷書的重量都壓在這裡：因為你「真與基督一同復活」了（1節），所以你「求在上面的事」；不是靠意志力去「求」出一個新生命，是先認清你已經「死了」、生命「與基督一同藏在神裡面」（3節），然後脫下不再合身的舊衣（5-9節），穿上早已為你預備好的新衣（10-14節）。這不是道德改造，是換了身分之後，換上與身分相稱的穿著。
@@ -674,7 +940,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 帶領提問：**你對付自己的壞脾氣、壞習慣，方法是「咬緊牙關不要犯」，還是「認清這件舊衣早已經脫下，我不必再穿回去」？這兩種方法，哪一種讓你更容易失敗？**
 
-### 4. 「惟有基督是包括一切，又住在各人之內」——全書豐盛神學的收束句
+### 4. 「惟有基督是包括一切，又住在各人之內」——全書豐盛領受的收束句
 
 11節這句話，是整卷書「豐盛」主題（1:19、2:9-10）在倫理教導部分的收束：「在此並不分希利尼人、猶太人，受割禮的、未受割禮的，化外人，西古提人，為奴的、自主的，惟有基督是包括一切，又住在各人之內」——歌羅西異端想用種族、宗教儀文、社會地位分高低，保羅說：這些區分在基督裡全部失效，因為基督是「一切」（不需要再加什麼），又「住在各人之內」（不因身分而有等級之分）。16節「把基督的道理豐豐富富的存在心裡」，用的正是同一個「豐盛」（πλουσίως）的字根——與1:19、2:9呼應。
 
@@ -694,9 +960,25 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*And Can It Be That I Should Gain* by Charles Wesley, 1738
+
+> Long my imprisoned spirit lay, fast bound in sin and nature's night;
+> Thine eye diffused a quickening ray, I woke, the dungeon flamed with light;
+> My chains fell off, my heart was free,
+> I rose, went forth, and followed Thee.
+
+**詩篇**：詩篇 40:2-3
+
+> 他從禍坑裡，從淤泥中，把我拉上來，使我的腳立在磐石上，使我腳步穩當。
+> 他使我口唱新歌，就是讚美我們神的話。
+
+---
+
 ## 整本聖經的連結
 
-- **羅馬書 6:1-11 ↔ 歌羅西書 3:1-4**：保羅在羅馬書用同一套「與基督同死、同埋葬、同復活」的洗禮神學，作為對付罪的根基（羅6:11「你們向罪也當看自己是死的，向神在基督耶穌裡，卻當看自己是活的」）——歌羅西書3:1-4是這神學在具體倫理教導上的應用版。
+- **羅馬書 6:1-11 ↔ 歌羅西書 3:1-4**：保羅在羅馬書用同一套「與基督同死、同埋葬、同復活」的洗禮領受，作為對付罪的根基（羅6:11「你們向罪也當看自己是死的，向神在基督耶穌裡，卻當看自己是活的」）——歌羅西書3:1-4是這領受在具體倫理教導上的應用版。
 
 - **創世記 1:26-27 ↔ 歌羅西書 3:10**：「穿上了新人。這新人在知識上漸漸更新，正如造他主的形像」——人起初是照著神的形像造的，罪使這形像破損；新人的更新，是朝向「造他主的形像」漸漸恢復，末後的亞當（基督）成就了頭一個亞當做不到的事。
 
@@ -713,6 +995,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 11節說得再清楚不過：「惟有基督是包括一切，又住在各人之內」。這一整段倫理教導的力量，不是來自一套更嚴格的規條，是來自一個已經與你聯合的基督——祂坐在神的右邊（1節），是你生命的源頭（4節），又住在你裡面（11節）。你今天脫下舊人、穿上新人，不是為了討好一位遠方的審判官，是回應一位已經與你合一的救主。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「你們若真與基督一同復活，就當求在上面的事」（3:1）——你今天思念的事，比例上更多是「上面的事」，還是「地上的事」？
+
+2. 「你們的生命與基督一同藏在神裡面」（3:3）——當你的新生命看不出果效時，這句話如何托住你？
+
+3. 脫衣、穿衣的意象（3:9-12）——你最近有沒有經歷「脫下舊人」卻不知不覺又「穿回去」的時刻？
+
+4. 「惟有基督是包括一切，又住在各人之內」（3:11）——這句話如果真的落實在你對人的看法上，會拆掉你心裡哪一道分別的牆？
+
+5. 3:16「把基督的道理豐豐富富的存在心裡」——你今天讓神的話「豐豐富富」地住在心裡，還是只是偶爾路過？
 
 ---
 
@@ -734,6 +1030,10 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## Colossians 3:18-4:1 — The Household Code
 
 **經文核對**：[ai-eden.com/bible/colossians/3](https://www.ai-eden.com/bible/colossians/3?t=CUV,ESV&cols=2) ｜ [colossians/4](https://www.ai-eden.com/bible/colossians/4?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+六種身分、六段關係，卻只有一位「主」貫穿全段——「在主裡面」「主所喜悅」「敬畏主」「給主做的」「你們所事奉的乃是主基督」「你們也有一位主在天上」。基督不是在教會裡才作主，祂要進到婚姻裡、進到親子關係裡、進到僕人與主人的日常勞動裡。祂不只是你敬拜的對象，祂是廚房裡、辦公室裡那位看得見一切、卻從不偏待人的主。
 
 ---
 
@@ -758,6 +1058,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *1 Masters, treat your bondservants justly and fairly, knowing that you also have a Master in heaven.*
 > — Colossians 3:18-4:1 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *kyrios* | kyrios | 主 | 3:18, 20, 22, 23, 24(x2), 4:1——貫穿全段的關鍵詞，六次出現框住六種身分 |
+| *anēkō* | anēkō | 相宜、合宜 | 3:18，「在主裡面」才成立的順服 |
+| *erethizō* | erethizō | 惹動、持續刺激 | 3:21，父親不可對兒女做的事 |
+| *doulos* | doulos | 僕人、奴僕 | 3:22，初代教會奴僕與主人同席敬拜的實際處境 |
+| *ex psychēs* | ex psychēs | 從心裡、從靈魂裡 | 3:23，「無論做甚麼，都要從心裡做」 |
 
 ---
 
@@ -807,6 +1119,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Take My Life, and Let It Be* by Frances Ridley Havergal, 1874
+
+> Take my life, and let it be consecrated, Lord, to Thee;
+> Take my moments and my days, let them flow in ceaseless praise.
+> Take my hands, and let them move at the impulse of Thy love.
+
+**詩篇**：詩篇 127:1
+
+> 若不是耶和華建造房屋，建造的人就枉然勞力；若不是耶和華看守城池，看守的人就枉然警醒。
+
+---
+
 ## 整本聖經的連結
 
 - **以弗所書 5:22-6:9 ↔ 歌羅西書 3:18-4:1**：這對姊妹書信的家庭守則幾乎並列——以弗所書更詳細地把丈夫愛妻子與「基督愛教會，為教會捨己」（弗5:25）連在一起，把婚姻本身變成福音的活圖畫；歌羅西書的版本更簡潔，卻同樣把每一組關係鎖進「在主裡」的框架。
@@ -829,6 +1155,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 反思問題 (Reflection Questions)
+
+1. 「這在主裡面是相宜的」（3:18）——你在最親密的關係裡提出的要求，是以自己的方便為出發點，還是以「這樣做討主喜悅」為出發點？
+
+2. 「不要惹兒女的氣」（3:21）——你手上對晚輩、下屬的權柄，是用來使人更靠近主，還是不小心使人灰心喪志？
+
+3. 「像是給主做的，不是給人做的」（3:23）——你今天最應付、最帶著怨氣去做的一件工作，如果換一個念頭會怎樣？
+
+4. 保羅沒有廢除奴僕制度，卻徹底顛覆了工作的動機（3:22-24）——這對你今天在職場上「該改變什麼、不該等什麼」，有什麼提醒？
+
+5. 六種身分被同一位「主」框住——你今天在家裡、在職場上扮演的角色，哪一個最需要被「這是給主做的」重新定義？
+
+---
+
 *本章整合：黃長老式查經、John MacArthur (gty.org)*
 
 *三書精讀項目 · 歌羅西書：基督的豐富與得勝 · 黃長老式查經 · 06-家庭與職場*
@@ -847,6 +1187,10 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## Colossians 4:2-18 — Prayer, Conduct, and Greetings
 
 **經文核對**：[ai-eden.com/bible/colossians/4](https://www.ai-eden.com/bible/colossians/4?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+一封從監獄裡寄出的信，收尾時保羅求的代禱不是「脫離捆鎖」，是「開傳道的門，能以講基督的奧祕」（4:3）——連在鎖鏈中，他念念不忘的仍是那位配得傳揚的基督。問安名單裡的每一個名字，都是這位基督翻轉生命的見證：逃奴阿尼西母成了「親愛忠心的兄弟」，同工們或忠心到底、或貪愛世界離棄了福音。全書從「願恩惠、平安從神我們的父歸與你們」開始，也以「願恩惠常與你們同在」結束——恩惠的源頭，從頭到尾只有一位。
 
 ---
 
@@ -874,6 +1218,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *2 Continue steadfastly in prayer, being watchful in it with thanksgiving. 3 At the same time, pray also for us, that God may open to us a door for the word, to declare the mystery of Christ, on account of which I am in prison — 4 that I may make it clear, which is how I ought to speak. 5 Walk in wisdom toward outsiders, making the best use of the time. 6 Let your speech always be gracious, seasoned with salt, so that you may know how you ought to answer each person. 7 Tychicus will tell you all about my activities. He is a beloved brother and faithful minister and fellow servant in the Lord. 8 I have sent him to you for this very purpose, that you may know how we are and that he may encourage your hearts, 9 and with him Onesimus, our faithful and beloved brother, who is one of you. They will tell you of everything that has taken place here. 10 Aristarchus my fellow prisoner greets you, and Mark the cousin of Barnabas (concerning whom you have received instructions — if he comes to you, welcome him), 11 and Jesus who is called Justus. These are the only men of the circumcision among my fellow workers for the kingdom of God, and they have been a comfort to me. 12 Epaphras, who is one of you, a servant of Christ Jesus, greets you, always struggling on your behalf in his prayers, that you may stand mature and fully assured in all the will of God. 13 For I bear him witness that he has worked hard for you and for those in Laodicea and in Hierapolis. 14 Luke the beloved physician greets you, as does Demas. 15 Give my greetings to the brothers at Laodicea, and to Nympha and the church in her house. 16 And when this letter has been read among you, have it also read in the church of the Laodiceans; and see that you also read the letter from Laodicea. 17 And say to Archippus, "See that you fulfill the ministry that you have received in the Lord." 18 I, Paul, write this greeting with my own hand. Remember my chains. Grace be with you.*
 > — Colossians 4:2-18 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *proskartereō* | proskartereō | 恆切、堅持不懈 | 4:2，同一字用於徒1:14「同心合意的恆切禱告」 |
+| *grēgoreō* | grēgoreō | 儆醒 | 4:2，呼應太26:41「總要儆醒禱告」 |
+| *mystērion* | mystērion | 奧祕 | 4:3，與1:26-27「基督在你們心裡成了有榮耀的盼望」同一詞 |
+| *halas* | halas | 鹽 | 4:6，兼具調味與防腐兩重古代常見用法 |
+| *kairos* | kairos | 時機、恰當的時候 | 4:5，「愛惜光陰」原文直譯是「贖回時機」 |
 
 ---
 
@@ -905,7 +1261,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ### 4. 問安名單——不是流水帳，是一幅真實的團契圖畫
 
-7-17節看似只是一連串人名，其實是全卷書「新生命」神學最具體的展演。留意其中一個細節：9節「一位親愛忠心的兄弟阿尼西母」——這個名字若你讀過腓利門書就會認出：他正是那位從腓利門家逃走的奴僕，如今已是保羅稱為「親愛忠心的兄弟」、與推基古一同肩負送信重任的同工。3:11「並不分……為奴的、自主的，惟有基督是包括一切」不是一句抽象的神學宣告，阿尼西母就是這句話活生生的見證。14節「所親愛的醫生路加和底馬問你們安」，兩人並列，但底馬後來的結局（提後4:10「底馬貪愛現今的世界，就離棄我，往帖撒羅尼迦去了」）提醒我們：同工的名單裡，不是每個人都堅持到底。
+7-17節看似只是一連串人名，其實是全卷書「新生命」領受最具體的展演。留意其中一個細節：9節「一位親愛忠心的兄弟阿尼西母」——這個名字若你讀過腓利門書就會認出：他正是那位從腓利門家逃走的奴僕，如今已是保羅稱為「親愛忠心的兄弟」、與推基古一同肩負送信重任的同工。3:11「並不分……為奴的、自主的，惟有基督是包括一切」不是一句抽象的宣告，阿尼西母就是這句話活生生的見證。14節「所親愛的醫生路加和底馬問你們安」，兩人並列，但底馬後來的結局（提後4:10「底馬貪愛現今的世界，就離棄我，往帖撒羅尼迦去了」）提醒我們：同工的名單裡，不是每個人都堅持到底。
 
 帶領提問：**阿尼西母的故事告訴你：教會裡最意想不到的人，也可能成為「親愛忠心的兄弟」。你生命中有沒有一個人，你曾經把他定型了、判了他的結局，卻可能被基督翻轉？**
 
@@ -920,6 +1276,21 @@ leader: 黃長老式查經 (Elder Wong Method)
 > 出處：John MacArthur, "With a Little Help from My Friends" (Colossians 4:7-18), gty.org, 1976年12月5日
 
 *本節暫無 G. Campbell Morgan 對歌羅西書第四章的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Blest Be the Tie That Binds* by John Fawcett, 1782
+
+> Blest be the tie that binds our hearts in Christian love;
+> The fellowship of kindred minds is like to that above.
+> Before our Father's throne we pour our ardent prayers;
+> Our fears, our hopes, our aims are one, our comforts and our cares.
+
+**詩篇**：詩篇 133:1
+
+> 看哪，弟兄和睦同居是何等地善，何等地美！
 
 ---
 
@@ -942,6 +1313,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 全書以「願恩惠常與你們同在」收尾（18節）——這正是1:2「願恩惠、平安從神我們的父歸與你們」的呼應，整卷書從恩惠開始，也以恩惠結束。捆鎖中的保羅，眼中所見不是自己的限制，是那位「使他可以在凡事上居首位」（1:18）的基督，正在他的軟弱裡、在教會的團契裡、在阿尼西母的翻轉裡，繼續得勝地作王。你今天讀完整卷歌羅西書，最後要問自己的，仍是那個問題：這位配得一切、住在你心裡的基督——你信嗎？你活出來了嗎？
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 保羅在監獄裡求的代禱是「開傳道的門」，不是「求脫離捆鎖」（4:3）——你的禱告清單裡，有沒有一句是超越自己處境的？
+
+2. 「你們的言語要常常帶著和氣，好像用鹽調和」（4:6）——你昨天對一個「外人」說的話，帶著鹽嗎？
+
+3. 阿尼西母從逃奴變成「親愛忠心的兄弟」（4:9）——你生命中有沒有一個人，被你定了型，卻可能被基督翻轉？
+
+4. 底馬的名字出現在問安名單裡，後來卻因「貪愛現今的世界」離棄了保羅（提後4:10）——這對你今天的信心之路，是什麼提醒？
+
+5. 全書以「願恩惠常與你們同在」收尾——讀完整卷歌羅西書，你心裡最想回應的一句話是什麼？
 
 ---
 

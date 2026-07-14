@@ -12,6 +12,12 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 基督焦點 (Christ at the Center)
+
+保羅還沒有寫下基督頌的一個字，卻已經把主角點名了——「愛子」（13節）。信心、愛心、盼望這三根柱子，福音的結果與增長，禱告求認識神的旨意，脫離黑暗遷入國度——全部繫於同一位：「我們在愛子裡得蒙救贖，罪過得以赦免」（14節）。這段問安與代求，是全卷基督頌（1:15-20）拉開序幕前，最後一次深呼吸。
+
+---
+
 ## 經文
 
 > **歌羅西書 1:1-14**（和合本）
@@ -33,6 +39,22 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, 2 To the saints and faithful brothers in Christ at Colossae: Grace to you and peace from God our Father. 3 We always thank God, the Father of our Lord Jesus Christ, when we pray for you, 4 since we heard of your faith in Christ Jesus and of the love that you have for all the saints, 5 because of the hope laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel, 6 which has come to you, as indeed in the whole world it is bearing fruit and increasing — as it also does among you, since the day you heard it and understood the grace of God in truth, 7 just as you learned it from Epaphras our beloved fellow servant. He is a faithful minister of Christ on your behalf 8 and has made known to us your love in the Spirit. 9 And so, from the day we heard, we have not ceased to pray for you, asking that you may be filled with the knowledge of his will in all spiritual wisdom and understanding, 10 so as to walk in a manner worthy of the Lord, fully pleasing to him: bearing fruit in every good work and increasing in the knowledge of God; 11 being strengthened with all power, according to his glorious might, for all endurance and patience with joy; 12 giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light. 13 He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, 14 in whom we have redemption, the forgiveness of sins.*
 > — Colossians 1:1-14 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *pistis* | pistis | 信心 | 4節，與愛心、盼望並列成三根柱子（另見林前13:13） |
+| *agapē* | agapē | 愛心 | 4、8節，信心的果子，向眾聖徒而發 |
+| *elpis* | elpis | 盼望 | 5節，存在天上的、托住信心與愛心的地基 |
+| *karpophoreō* / *auxanō* | karpophoreō / auxanō | 結果子／增長 | 6、10節，福音的兩個同步動作：內在結果子，外在擴展增長 |
+| *methistēmi* | methistēmi | 遷移、遷徙 | 13節「遷到」，過去完成式，古代常用於整族被強制遷移 |
+
+### 「結果，增長」的兩個動詞
+
+6節「結果，增長」在原文是兩個不同的動詞並列：*karpophoroumenon*（結果子，中間語態，強調內在的、自然而然的生發）與 *auxanomenon*（增長、擴展，強調外在的擴張）。同一個福音，同時做著這兩件事——這不是巧合，是福音本身的性質。
 
 ---
 
@@ -86,6 +108,22 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Now Thank We All Our God*（今要稱謝我們的神）by Martin Rinkart, 1636
+
+> Now thank we all our God, with heart and hands and voices,
+> Who wondrous things has done, in whom His world rejoices;
+> Who from our mothers' arms hath blessed us on our way
+> With countless gifts of love, and still is ours today.
+
+**詩篇**：詩篇 100:4-5
+
+> 當稱謝進入他的門，當讚美進入他的院。當感謝他，稱頌他的名！
+> 因為耶和華本為善，他的慈愛存到永遠，他的信實直到萬代。
+
+---
+
 ## 整本聖經的連結
 
 - **出埃及記 ↔ 歌羅西書 1:13**：以色列人出埃及，是從「為奴之地」被領到「應許之地」——一次得贖的行動，不是漸進的解放。西1:13「他救了我們脫離黑暗的權勢，把我們遷到他愛子的國裡」用的是同一個模式：不是你正在慢慢脫離黑暗，是已經被遷走了。
@@ -105,6 +143,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 這段問安與代求，還沒有展開基督頌（那是下一段的高峰），但已經把主角點名了——「愛子」。你脫離黑暗權勢，不是被遷到一套新規條裡，是被遷到「他愛子的國裡」；你的救贖與赦罪，「在愛子裡」才成立。整封信接下來要用一整首詩（1:15-20）告訴你：這位「愛子」，究竟配不配得你把整個生命的主權交給祂。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 保羅為歌羅西教會禱告，第一個內容是「滿心知道神的旨意」（9節）——你上一次為別人代禱，禱告詞的第一句是什麼？
+
+2. 信、愛、望三根柱子——盼望是地基，信心是根，愛心是果子。你今天的屬靈生活，比較像哪一部分特別發達、哪一部分特別枯乾？
+
+3. 「遷到他愛子的國裡」是一次性的、已經完成的事——你有沒有把「已經完成」的救恩，活成「還在努力爭取」的焦慮？
+
+4. 以巴弗是「一同作僕人的」、「基督忠心的執事」（7節）——你生命中有沒有一位像以巴弗一樣、忠心卻不搶鏡頭的服事者？你曾經感謝過他嗎？
 
 ---
 

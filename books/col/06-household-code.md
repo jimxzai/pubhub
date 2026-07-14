@@ -10,6 +10,10 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 **經文核對**：[ai-eden.com/bible/colossians/3](https://www.ai-eden.com/bible/colossians/3?t=CUV,ESV&cols=2) ｜ [colossians/4](https://www.ai-eden.com/bible/colossians/4?t=CUV,ESV&cols=2)
 
+## 基督焦點 (Christ at the Center)
+
+六種身分、六段關係，卻只有一位「主」貫穿全段——「在主裡面」「主所喜悅」「敬畏主」「給主做的」「你們所事奉的乃是主基督」「你們也有一位主在天上」。基督不是在教會裡才作主，祂要進到婚姻裡、進到親子關係裡、進到僕人與主人的日常勞動裡。祂不只是你敬拜的對象，祂是廚房裡、辦公室裡那位看得見一切、卻從不偏待人的主。
+
 ---
 
 ## 經文
@@ -33,6 +37,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *1 Masters, treat your bondservants justly and fairly, knowing that you also have a Master in heaven.*
 > — Colossians 3:18-4:1 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *kyrios* | kyrios | 主 | 3:18, 20, 22, 23, 24(x2), 4:1——貫穿全段的關鍵詞，六次出現框住六種身分 |
+| *anēkō* | anēkō | 相宜、合宜 | 3:18，「在主裡面」才成立的順服 |
+| *erethizō* | erethizō | 惹動、持續刺激 | 3:21，父親不可對兒女做的事 |
+| *doulos* | doulos | 僕人、奴僕 | 3:22，初代教會奴僕與主人同席敬拜的實際處境 |
+| *ex psychēs* | ex psychēs | 從心裡、從靈魂裡 | 3:23，「無論做甚麼，都要從心裡做」 |
 
 ---
 
@@ -82,6 +98,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Take My Life, and Let It Be* by Frances Ridley Havergal, 1874
+
+> Take my life, and let it be consecrated, Lord, to Thee;
+> Take my moments and my days, let them flow in ceaseless praise.
+> Take my hands, and let them move at the impulse of Thy love.
+
+**詩篇**：詩篇 127:1
+
+> 若不是耶和華建造房屋，建造的人就枉然勞力；若不是耶和華看守城池，看守的人就枉然警醒。
+
+---
+
 ## 整本聖經的連結
 
 - **以弗所書 5:22-6:9 ↔ 歌羅西書 3:18-4:1**：這對姊妹書信的家庭守則幾乎並列——以弗所書更詳細地把丈夫愛妻子與「基督愛教會，為教會捨己」（弗5:25）連在一起，把婚姻本身變成福音的活圖畫；歌羅西書的版本更簡潔，卻同樣把每一組關係鎖進「在主裡」的框架。
@@ -101,6 +131,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 這段家庭守則表面上是行為規範，實際上是把耶穌基督放進了最日常的關係裡——婚姻、親子、職場。祂不只是你主日敬拜的對象，祂是你家裡的那位「主」，是你辦公桌前的那位「主」。新人的信仰不是週日一小時的事，是廚房裡、餐桌上、會議室裡，隨時都在服事的那一位。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「這在主裡面是相宜的」（3:18）——你在最親密的關係裡提出的要求，是以自己的方便為出發點，還是以「這樣做討主喜悅」為出發點？
+
+2. 「不要惹兒女的氣」（3:21）——你手上對晚輩、下屬的權柄，是用來使人更靠近主，還是不小心使人灰心喪志？
+
+3. 「像是給主做的，不是給人做的」（3:23）——你今天最應付、最帶著怨氣去做的一件工作，如果換一個念頭會怎樣？
+
+4. 保羅沒有廢除奴僕制度，卻徹底顛覆了工作的動機（3:22-24）——這對你今天在職場上「該改變什麼、不該等什麼」，有什麼提醒？
+
+5. 六種身分被同一位「主」框住——你今天在家裡、在職場上扮演的角色，哪一個最需要被「這是給主做的」重新定義？
 
 ---
 

@@ -12,6 +12,12 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 基督焦點 (Christ at the Center)
+
+新約沒有幾段經文，把基督的位格與工作濃縮得比這裡更高、更密。祂是不能看見之神的像，萬有藉祂而造、靠祂而立，祂是教會的頭，又藉著十字架使萬有與神和好。這不是一段形容詞清單，是一首詩——保羅把基督放在宇宙的正中央，邀請讀者站遠一點，看見祂配得的分量。
+
+---
+
 ## 經文
 
 > **歌羅西書 1:15-23**（和合本）
@@ -28,6 +34,22 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *15 He is the image of the invisible God, the firstborn of all creation. 16 For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. 17 And he is before all things, and in him all things hold together. 18 And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent. 19 For in him all the fullness of God was pleased to dwell, 20 and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross. 21 And you, who once were alienated and hostile in mind, doing evil deeds, 22 he has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him, 23 if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard.*
 > — Colossians 1:15-23 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *eikōn* | eikōn | 像、本質的顯現 | 15節，不是被造的形像，是神本體藉著祂顯明出來 |
+| *prōtotokos* | prōtotokos | 首生的、地位在先者 | 15、18節，兩次出現：創造之先、復活之先 |
+| *kephalē* | kephalē | 頭、元首 | 18節「教會全體之首」，全身聯絡於此 |
+| *plērōma* | plērōma | 豐盛、完全的容量 | 19節，父喜歡叫一切的豐盛在祂裡面居住 |
+| *apokatallassō* | apokatallassō | 使完全和好 | 20、22節，帶著 apo- 前綴，強調徹底、完全的和好 |
+
+### 「首生的」(prōtotokos) 不是被造之首
+
+πρωτότοκος 在希臘文裡本義是「首先出生的」，但保羅緊接著用 16-17 節解釋：不是說基督是第一個被造物，而是「萬有都是靠他造的……他在萬有之先」——祂是創造者的身分優先，不是被造之序位優先。同一個詞在18節再次出現（「從死裡首先復生的」），指向另一重「首位」：復活的優先。
 
 ---
 
@@ -81,6 +103,23 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Crown Him with Many Crowns*（萬千冠冕，歸與基督）by Matthew Bridges, 1851
+
+> Crown Him with many crowns, the Lamb upon His throne;
+> Hark! how the heavenly anthem drowns all music but its own!
+> Awake, my soul, and sing of Him who died for thee,
+> And hail Him as thy matchless King through all eternity.
+
+**詩篇**：詩篇 89:6-8
+
+> 在天空誰能與耶和華相比？神的眾子中，誰能像耶和華呢？
+> 他在聖者的會中，是大有威嚴的神，比一切在他四圍的更可畏懼。
+> 耶和華－萬軍之神啊，哪一個大能者像你耶和華？你的信實在你的四圍。
+
+---
+
 ## 整本聖經的連結
 
 - **創世記 1:26-27 ↔ 歌羅西書 1:15**：「神說：我們要照著我們的形像、按著我們的樣式造人」——人是受造的形像，會朽壞、會犯罪；基督是「不能看見之神的像」，不是被造的、而是神本體的顯明。末後的亞當，做了頭一個亞當做不到的事。
@@ -102,6 +141,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 這是全新約最高的基督論詩歌之一：耶穌是神不能看見之神的像、萬有藉祂而造、祂是元首、祂使萬有與神和好。你不是在讀一段教義，你是在被邀請進入一個更大的宇宙觀——一個以基督為中心的宇宙觀。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「愛子是那不能看見之神的像」（15節）——如果你今天想「認識神是怎樣的」，你的第一個動作是翻開哲學書，還是定睛在耶穌身上？
+
+2. 「他在萬有之先，萬有也靠他而立」（17節）——今天有哪一件讓你覺得快要「散掉」的事，你有沒有先問：它靠著誰而立？
+
+3. 十字架「使萬有……都與自己和好了」（20節）——你信主的經歷，通常只被你描述成「我的罪得赦免」嗎？如果十字架修復的是整個受造界的破裂，這對你的福音觀有什麼衝擊？
+
+4. 「使他可以在凡事上居首位」（18節）——你的生命有沒有一個角落，是你悄悄劃出來、不讓基督居首位的？
 
 ---
 

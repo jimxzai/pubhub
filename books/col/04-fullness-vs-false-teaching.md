@@ -10,6 +10,10 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 **經文核對**：[ai-eden.com/bible/colossians/2](https://www.ai-eden.com/bible/colossians/2?t=CUV,ESV&cols=2)
 
+## 基督焦點 (Christ at the Center)
+
+這一段的每一次「不可」，背後都站著同一個「已經」：你不需要哲學，因為神本性一切的豐盛已有形有體地住在基督裡面；你不需要另一種割禮，因為基督的割禮已經使你脫去了肉體的轄制；你不需要懼怕執政掌權的，因為基督已在十字架上將牠們公開擄來、誇勝。假教訓的每一個「加法」，都在向這一位已經完全的基督說：你還不夠。保羅的整段反駁，只在證明一件事：你所懼怕、所渴慕的，早已經在祂裡面了。
+
 ---
 
 ## 經文
@@ -46,6 +50,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 > *16 Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. 17 These are a shadow of the things to come, but the substance belongs to Christ. 18 Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind, 19 and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God. 20 If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations — 21 'Do not handle, Do not taste, Do not touch' 22 (referring to things that all perish as they are used) — according to human precepts and teachings? 23 These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh.*
 > — Colossians 2:6-23 (ESV)
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 出現次數／說明 |
+|--------|------|------|----------|
+| *plērōma* | plērōma | 豐盛、完全的容量 | 2:9、2:10；全書關鍵詞（另見1:19），姊妹書信以弗所書也反覆使用（弗1:23、3:19、4:13） |
+| *sōmatikōs* | sōmatikōs | 有形有體地 | 2:9，全新約僅此一次，強調神性「實體地」居住在基督裡 |
+| *thriambeuō* | thriambeuō | 誇勝、公開凱旋遊行 | 2:15，羅馬軍事凱旋式的意象 |
+| *cheirographon* | cheirographon | 債務字據 | 2:14，指控告人的律法字據 |
+| *philosophia* | philosophia | 理學、哲學 | 2:8，全新約唯一一次出現，帶負面意涵 |
 
 ---
 
@@ -113,13 +129,28 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
+## 配詩 (Hymns & Psalms)
+
+**聖詩**：*Crown Him with Many Crowns*（萬冠歸主）by Matthew Bridges, 1851
+
+> Crown Him with many crowns, the Lamb upon His throne;
+> Hark! how the heavenly anthem drowns all music but its own!
+> Awake, my soul, and sing of Him who died for thee,
+> And hail Him as thy matchless King through all eternity.
+
+**詩篇**：詩篇 24:1
+
+> 地和其中所充滿的，世界和住在其間的，都屬耶和華。
+
+---
+
 ## 整本聖經的連結
 
 - **出埃及記 40 章「耶和華的榮光充滿了帳幕」→ 西 2:9「豐盛……居住」**：舊約神的榮耀「充滿」會幕、後來充滿聖殿，是暫時的、有形無質的居住方式；西2:9說豐盛「有形有體」（σωματικῶς，bodily）居住在基督裡——這是舊約帳幕、聖殿指向的終極應驗：神不再住在帳幕裡，神住進了一個身體裡。
 
 - **耶利米書 31:33 → 歌羅西書 2:14**：律例上所寫、攻擊我們的字據（χειρόγραφον，債務字據），呼應西奈山上寫在石版上的律法。神在耶利米書應許：「我要將我的律法放在他們裡面，寫在他們心上」——舊約是「字據記在石版上，控告你」；新約是「字據被塗銷，釘在十字架上」。
 
-- **以弗所書 1:23**：「教會是他的身體，是那充滿萬有者所充滿的」——與歌羅西書 2:9-10 呼應同一個「豐盛」神學：基督滿有豐盛，教會（信徒）在祂裡面被充滿。
+- **以弗所書 1:23**：「教會是他的身體，是那充滿萬有者所充滿的」——與歌羅西書 2:9-10 呼應同一個「豐盛」的領受：基督滿有豐盛，教會（信徒）在祂裡面被充滿。
 
 ---
 
@@ -134,6 +165,20 @@ leader: 黃長老式查經 (Elder Wong Method)
 ## 你看見耶穌了嗎？
 
 透過這段經文，耶穌是神一切豐盛有形有體居住的所在，是在十字架上看似落敗、卻是凱旋而歸的得勝者。你今天的「缺乏感」，是缺一件事，還是缺一個人？神本性一切的豐盛已經住在祂裡面，而你——已經在祂裡面得了豐盛。你信嗎？
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 「你們在他裡面也得了豐盛」（2:10）——這是你今天生活中真實的信念，還是你嘴上承認、心裡卻仍覺得「不夠」的一句話？
+
+2. 保羅用羅馬凱旋式的意象描述十字架（2:15）——這對你理解「軟弱」與「得勝」的關係，有什麼衝擊？
+
+3. 「影兒」與「形體」的分別（2:17）——你生活中有沒有一項屬靈操練，你現在看得比基督本身還重？
+
+4. 2:23說苦待己身「毫無功效」——你有沒有經歷過，用外在規條對付內心問題卻徒勞無功的時刻？
+
+5. 這一整段是保羅對「加法式信仰」最徹底的拆解——你今天最想在基督之上「加」的，是什麼？
 
 ---
 
