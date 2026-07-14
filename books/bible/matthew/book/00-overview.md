@@ -23,10 +23,10 @@
 
 ## 核心經文 (Key Verse)
 
-> 天上地上所有的權柄都賜給我了。所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗，凡我所吩咐你們的，都教導他們遵守。看哪，我天天與你們同在，直到世界的末了。
+> \jesus{天上地上所有的權柄都賜給我了。所以，你們要去，使萬民作我的門徒，奉父、子、聖靈的名給他們施洗，凡我所吩咐你們的，都教導他們遵守。看哪，我天天與你們同在，直到世界的末了。}
 > — 馬太福音 28:18-20
 
-> And Jesus came and said to them, "All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."
+> And Jesus came and said to them, \jesus{"All authority in heaven and on earth has been given to me. Go therefore and make disciples of all nations, baptizing them in the name of the Father and of the Son and of the Holy Spirit, teaching them to observe all that I have commanded you. And behold, I am with you always, to the end of the age."}
 > — Matthew 28:18-20 (ESV)
 
 「以馬內利」(1:23) 開始，「我就常與你們同在」(28:20) 結束——神與我們同在，是貫穿全書的框架。
@@ -177,7 +177,7 @@
 
 ### 「歷代注疏」引用說明
 
-各章「歷代注疏」段落中，凡標明來源網址（gty.org、bibliaplus.org）的 G. Campbell Morgan 與 John MacArthur 引文，均為逐字查核之直引。凡歸於屈梭多模、奧古斯丁、路德、加爾文、耶柔米、奧利金、卡森、潘霍華等歷史神學家、卻未附精確著作與頁碼的段落，是**對其已知神學立場的概述性引述**，用以呈現該立場在教會歷史中的聲音，並非逐字引自特定版本；若需學術引用，請自行核對原始文本與版本。
+各章「歷代注疏」段落中，凡標明來源網址（gty.org、bibliaplus.org）的 G. Campbell Morgan 與 John MacArthur 引文，均為逐字查核之直引。凡歸於屈梭多模、奧古斯丁、路德、加爾文、耶柔米、奧利金、卡森、潘霍華等歷代教會領受聲音、卻未附精確著作與頁碼的段落，是**對其已知領受立場的概述性引述**，用以呈現該立場在教會歷史中的聲音，並非逐字引自特定版本；若需學術引用，請自行核對原始文本與版本。
 
 ---
 
