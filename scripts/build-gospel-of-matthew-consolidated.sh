@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Gospel of Matthew PDF Builder - CONSOLIDATED 2026 EDITION
-# = Prologue + 5 thematic chapters (渐进启示 framework, 天國之王)
+# = Overview + Elder Wong study + Prologue + 28 per-chapter files (渐进启示 framework, 天國之王)
 # Sources from books/bible/matthew/book/ (the current, actively maintained project)
 # Uses templates/pdf/gospel-of-matthew.latex (Royal Purple King theme)
 
@@ -71,22 +71,18 @@ if [ -f "$INPUT_DIR/prologue-canonical-context.md" ]; then
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
 fi
 
-# 4. Chapter 1 (skip the redundant book-title preamble unique to this file: lines 1-11)
-if [ -f "$INPUT_DIR/chapter-01-king-identity.md" ]; then
-    echo "  Adding: chapter-01-king-identity.md"
-    tail -n +12 "$INPUT_DIR/chapter-01-king-identity.md" >> "$COMBINED_MD"
-    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-fi
-
-# 5. Chapters 2-5 in order
-chapter_count=2
-for f in chapter-02-sermon-on-mount.md chapter-03-kings-power.md chapter-04-discipleship.md chapter-05-passion-week.md; do
-    if [ -f "$INPUT_DIR/$f" ]; then
-        echo "  Adding: $f"
-        cat "$INPUT_DIR/$f" >> "$COMBINED_MD"
-        printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-        ((chapter_count++))
-    fi
+# 4. 28 per-chapter files, in order
+chapter_count=0
+for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28; do
+    for f in "$INPUT_DIR/$i-"*.md; do
+        if [ -f "$f" ]; then
+            echo "  Adding: $(basename "$f")"
+            cat "$f" >> "$COMBINED_MD"
+            printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
+            ((chapter_count++))
+            break
+        fi
+    done
 done
 
 echo ""

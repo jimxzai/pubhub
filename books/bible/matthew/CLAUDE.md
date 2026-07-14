@@ -221,11 +221,34 @@ matthew-gospel/
 │   ├── 00-overview.md                 # 全書概覽：結構、五大講論、十個神蹟、應驗公式
 │   ├── elder-wong-systematic-study.md # 全書領受總綱——黃長老查經法（按結構逐部深度領受）
 │   ├── prologue-canonical-context.md # 正典脈絡導論
-│   ├── chapter-01-king-identity.md   # 君王的身分 (1-4章)
-│   ├── chapter-02-sermon-on-mount.md # 登山寶訓 (5-7章)
-│   ├── chapter-03-kings-power.md      # 君王的權能：神蹟、差遣、奧秘的比喻 (8-13章)
-│   ├── chapter-04-discipleship.md    # 門徒訓練 (14-20章)
-│   ├── chapter-05-passion-week.md    # 受難週 (21-28章)
+│   ├── 01-genealogy-birth.md         # 第一部：君王的身分 (1-4章)
+│   ├── 02-magi-flight-egypt.md
+│   ├── 03-john-baptism.md
+│   ├── 04-temptation-ministry-begins.md
+│   ├── 05-beatitudes-law.md          # 第二部：君王的宣告 (5-7章)
+│   ├── 06-prayer-treasures.md
+│   ├── 07-two-ways.md
+│   ├── 08-miracles-one.md            # 第三部：君王的權能 (8-13章)
+│   ├── 09-calling-matthew.md
+│   ├── 10-mission-discourse.md
+│   ├── 11-johns-question.md
+│   ├── 12-sabbath-lord.md
+│   ├── 13-kingdom-parables.md
+│   ├── 14-feeding-walking.md         # 第四部：君王的教導 (14-20章)
+│   ├── 15-true-purity.md
+│   ├── 16-peters-confession.md
+│   ├── 17-transfiguration.md
+│   ├── 18-church-discourse.md
+│   ├── 19-marriage-riches.md
+│   ├── 20-vineyard-workers.md
+│   ├── 21-triumphal-entry.md         # 第五部：君王的受難與復活 (21-28章)
+│   ├── 22-debates-commandment.md
+│   ├── 23-woes-pharisees.md
+│   ├── 24-olivet-discourse.md
+│   ├── 25-parables-judgment.md
+│   ├── 26-last-supper-gethsemane.md
+│   ├── 27-crucifixion.md
+│   ├── 28-resurrection-commission.md
 │   └── appendix-*.md                 # 附錄
 ```
 

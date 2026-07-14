@@ -35,16 +35,49 @@
 
 ## 全書結構 (Book Structure)
 
-本書以渐进启示為視角，把馬太福音分為序言與五大部分，對應五大講論：
+本書以渐进启示為視角，把馬太福音分為序言與五大部分，每一部分之下按馬太福音實際的28章逐章立檔，對應五大講論：
 
-| 部分 | 對應書卷檔案 | 章節 | 主題 | 講論 |
-|------|-------------|------|------|------|
-| **序言：正典脈絡** | prologue-canonical-context.md | — | 從創世到完成的渐进启示框架 | — |
-| **第一部：君王的身分** | chapter-01-king-identity.md | 1-4 | 家譜、降生、受洗、試探 | — |
-| **第二部：君王的宣告** | chapter-02-sermon-on-mount.md | 5-7 | 登山寶訓 | 山上寶訓 (5-7) |
-| **第三部：君王的權能** | chapter-03-kings-power.md | 8-13 | 十個神蹟、差遣、衝突、比喻 | 差遣講論 (10)、天國比喻 (13) |
-| **第四部：君王的教導** | chapter-04-discipleship.md | 14-20 | 門徒訓練、教會生活 | 教會講論 (18) |
-| **第五部：君王的受難與復活** | chapter-05-passion-week.md | 21-28 | 受難週、十字架、復活、大使命 | 橄欖山講論 (24-25) |
+| 部分 | 章節範圍 | 主題 | 講論 |
+|------|---------|------|------|
+| **序言：正典脈絡** | — | 從創世到完成的渐进启示框架 | — |
+| **第一部：君王的身分** | 1-4 | 家譜、降生、受洗、試探 | — |
+| **第二部：君王的宣告** | 5-7 | 登山寶訓 | 山上寶訓 (5-7) |
+| **第三部：君王的權能** | 8-13 | 十個神蹟、差遣、衝突、比喻 | 差遣講論 (10)、天國比喻 (13) |
+| **第四部：君王的教導** | 14-20 | 門徒訓練、教會生活 | 教會講論 (18) |
+| **第五部：君王的受難與復活** | 21-28 | 受難週、十字架、復活、大使命 | 橄欖山講論 (24-25) |
+
+### 逐章檔案對照 (28 Chapters)
+
+| 章 | 檔案 | 標題 |
+|----|------|------|
+| 1 | 01-genealogy-birth.md | 君王的家譜與降生 |
+| 2 | 02-magi-flight-egypt.md | 博士朝拜與逃往埃及 |
+| 3 | 03-john-baptism.md | 施洗約翰與耶穌受洗 |
+| 4 | 04-temptation-ministry-begins.md | 曠野試探與加利利事工的開始 |
+| 5 | 05-beatitudes-law.md | 八福與成全律法 |
+| 6 | 06-prayer-treasures.md | 主禱文與天上的財寶 |
+| 7 | 07-two-ways.md | 論斷、祈求、兩條道路 |
+| 8 | 08-miracles-one.md | 三個醫治與君王的權柄 |
+| 9 | 09-calling-matthew.md | 呼召馬太與更多神蹟 |
+| 10 | 10-mission-discourse.md | 差遣講論 |
+| 11 | 11-johns-question.md | 施洗約翰的疑問與安息的邀請 |
+| 12 | 12-sabbath-lord.md | 安息日的主與不可赦免的罪 |
+| 13 | 13-kingdom-parables.md | 天國的比喻 |
+| 14 | 14-feeding-walking.md | 五餅二魚與水上行走 |
+| 15 | 15-true-purity.md | 真正的潔淨與外邦人的信心 |
+| 16 | 16-peters-confession.md | 彼得的認信與第一次受難預言 |
+| 17 | 17-transfiguration.md | 登山變像 |
+| 18 | 18-church-discourse.md | 教會講論 |
+| 19 | 19-marriage-riches.md | 婚姻、孩童與財主 |
+| 20 | 20-vineyard-workers.md | 葡萄園工人與第三次受難預言 |
+| 21 | 21-triumphal-entry.md | 榮耀進城與潔淨聖殿 |
+| 22 | 22-debates-commandment.md | 辯論與最大誡命 |
+| 23 | 23-woes-pharisees.md | 七禍——責備法利賽人 |
+| 24 | 24-olivet-discourse.md | 橄欖山講論——末世預兆 |
+| 25 | 25-parables-judgment.md | 十童女、才幹與最後審判 |
+| 26 | 26-last-supper-gethsemane.md | 最後晚餐、客西馬尼與被捕 |
+| 27 | 27-crucifixion.md | 審判與十字架 |
+| 28 | 28-resurrection-commission.md | 復活與大使命 |
 
 ---
 
