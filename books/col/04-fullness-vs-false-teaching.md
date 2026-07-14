@@ -46,8 +46,8 @@ leader: 黃長老式查經 (Elder Wong Method)
 > 17 這些原是後事的影兒；那形體卻是基督。
 > 18 不可讓人因著故意謙虛和敬拜天使，就奪去你們的獎賞。這等人拘泥在所見過的，隨著自己的慾心，無故的自高自大，
 > 19 不持定元首。全身既然靠著他，筋節得以相助聯絡，就因神大得長進。
-> 20 你們若是與基督同死，脫離了世上的小學，為甚麼仍像在世俗中活著、服從那不可拿、不可嘗、不可摸等類的規條呢？
-> 21-22 這都是照人所吩咐、所教導的。說到這一切，正用的時候就都敗壞了。
+> 20-21 你們若是與基督同死，脫離了世上的小學，為甚麼仍像在世俗中活著、服從那不可拿、不可嘗、不可摸等類的規條呢？
+> 22 這都是照人所吩咐、所教導的。說到這一切，正用的時候就都敗壞了。
 > 23 這些規條使人徒有智慧之名，用私意崇拜，自表謙卑，苦待己身，其實在克制肉體的情慾上是毫無功效。
 
 > *16 Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. 17 These are a shadow of the things to come, but the substance belongs to Christ. 18 Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind, 19 and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God. 20 If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations — 21 'Do not handle, Do not taste, Do not touch' 22 (referring to things that all perish as they are used) — according to human precepts and teachings? 23 These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh.*

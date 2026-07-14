@@ -44,6 +44,8 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 歌羅西教會面對的不是道德敗壞，而是一種混合式的異端——後世稱為「歌羅西異端」：把猶太律法主義（割禮、飲食、節期，2:11, 16）、希臘哲學（2:8）、敬拜天使（2:18）、苦修規條（2:20-23）都摻進對基督的信仰裡，暗示：光有基督還不夠，還要加點別的才「完整」。
 
+---
+
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
@@ -100,7 +102,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟也提醒：歌羅西教會當時還沒有全面接受這異端，只是「迫在眉睫的危險」——保羅寫這封信是預防，不是事後糾正已經淪陷的教會。
 
-> 出處：John MacArthur, "Introduction to Colossians" (Colossians 1:1-2), gty.org, 1976年2月8日
+> 出處：John MacArthur, "Introduction to Colossians" (Colossians 1:1-2), gty.org, 1976年2月8日 — https://www.gty.org/library/sermons-library/2130/introduction-to-colossians
 
 *本節暫無 G. Campbell Morgan 對歌羅西書整體導論的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
 
@@ -266,7 +268,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟指出，6節「結果，增長」描述的是福音的兩個同步動作——「不僅是內在結果子，也向外擴展，這是兩個概念」。福音進入一個生命，不是一套倫理系統，而是一種轉化的能力：「它像一顆芥菜種的內在能量，會擴散生長」。麥克阿瑟由此區分：個人生命的內在成聖，與教會整體的外在增長，是同一個福音的兩面。
 
-> 出處：John MacArthur, "The Gospel Truth" (Colossians 1:3-8), gty.org, 1976年2月15日
+> 出處：John MacArthur, "The Gospel Truth" (Colossians 1:3-8), gty.org, 1976年2月15日 — https://www.gty.org/library/sermons-library/2131/the-gospel-truth
 
 ### 摩根：從赦免到敬拜與服事 (G. Campbell Morgan)
 
@@ -428,7 +430,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟逐句朗讀這首基督頌，強調每一句都在堆疊同一個結論：「祂是那不能看見之神的像，是首生的，在一切被造的以先」——「因祂造了天上地上一切看得見、看不見的」——「神本性一切的豐盛都有形有體地居住在祂裡面」——「祂是教會全體之首，是元始，是從死裡首先復生的，使祂可以在凡事上居首位」。麥克阿瑟認為這四句合起來，是新約中最濃縮的基督位格宣告之一：創造之首、教會之首、復活之首，三重「首位」缺一不可。
 
-> 出處：John MacArthur, "Christ Above All" (Colossians 1:15-19), gty.org, 1976年3月28日
+> 出處：John MacArthur, "Christ Above All" (Colossians 1:15-19), gty.org, 1976年3月28日 — https://www.gty.org/library/sermons-library/2135/christ-above-all
 
 ### 摩根：頭銜、和平與十字架 (G. Campbell Morgan)
 
@@ -599,7 +601,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟解釋，27節的「奧祕」不是指某種神祕、隱晦的知識，而是「過去隱藏、如今在新約已經顯明」的舊約真理——不是新發明的教義，是揭開了的實情。他把這奧祕的核心濃縮成一句反問：「神想要住進你裡面。你還能求什麼更多的？」對外邦信徒而言，這是前所未有的財富：「我們是富足的，因為身為外邦人、身為教會的一員，基督住在我們裡面」——這是舊約聖徒未曾得見的實際。
 
-> 出處：John MacArthur, "Paul's Ministry: The Mystery of Christ in You" (Colossians 1:26-29), gty.org, 1976年5月2日
+> 出處：John MacArthur, "Paul's Ministry: The Mystery of Christ in You" (Colossians 1:26-29), gty.org, 1976年5月2日 — https://www.gty.org/library/sermons-library/2138/pauls-ministry-the-mystery-of-christ-in-you
 
 ### 摩根：基督在你心裡，是先知也是盼望 (G. Campbell Morgan)
 
@@ -629,7 +631,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ## 整本聖經的連結
 
-- **彼得前書 1:10-12 ↔ 歌羅西書 1:26**：「論到這救恩，那預先說你們要得恩典的眾先知早已詳細的尋求考察……並考察所指是甚麼時候……天使也願意詳細察看這些事」——舊約先知渴望明白卻看不透的奧祕，如今在基督裡向教會顯明了。你活在「已經顯明」的這一邊，是何等的恩典。
+- **彼得前書 1:10-12 ↔ 歌羅西書 1:26**：「論到這救恩，那預先說你們要得恩典的眾先知早已詳細地尋求考察……預先證明基督受苦難、後來得榮耀是指著甚麼時候，並怎樣的時候……天使也願意詳細察看這些事」——舊約先知渴望明白卻看不透的奧祕，如今在基督裡向教會顯明了。你活在「已經顯明」的這一邊，是何等的恩典。
 
 - **以弗所書 3:1-6 ↔ 歌羅西書 1:24-27**：這對姊妹書信用幾乎相同的語言描述「奧祕」——外邦人在基督耶穌裡，藉著福音得以同為後嗣、同為一體、同蒙應許。保羅在兩封信裡都把這奧祕與他自己的受苦連在一起（弗3:1「因此，我保羅為你們外邦人作了基督耶穌被囚的，替你們祈禱」）。
 
@@ -716,8 +718,8 @@ leader: 黃長老式查經 (Elder Wong Method)
 > 17 這些原是後事的影兒；那形體卻是基督。
 > 18 不可讓人因著故意謙虛和敬拜天使，就奪去你們的獎賞。這等人拘泥在所見過的，隨著自己的慾心，無故的自高自大，
 > 19 不持定元首。全身既然靠著他，筋節得以相助聯絡，就因神大得長進。
-> 20 你們若是與基督同死，脫離了世上的小學，為甚麼仍像在世俗中活著、服從那不可拿、不可嘗、不可摸等類的規條呢？
-> 21-22 這都是照人所吩咐、所教導的。說到這一切，正用的時候就都敗壞了。
+> 20-21 你們若是與基督同死，脫離了世上的小學，為甚麼仍像在世俗中活著、服從那不可拿、不可嘗、不可摸等類的規條呢？
+> 22 這都是照人所吩咐、所教導的。說到這一切，正用的時候就都敗壞了。
 > 23 這些規條使人徒有智慧之名，用私意崇拜，自表謙卑，苦待己身，其實在克制肉體的情慾上是毫無功效。
 
 > *16 Therefore let no one pass judgment on you in questions of food and drink, or with regard to a festival or a new moon or a Sabbath. 17 These are a shadow of the things to come, but the substance belongs to Christ. 18 Let no one disqualify you, insisting on asceticism and worship of angels, going on in detail about visions, puffed up without reason by his sensuous mind, 19 and not holding fast to the Head, from whom the whole body, nourished and knit together through its joints and ligaments, grows with a growth that is from God. 20 If with Christ you died to the elemental spirits of the world, why, as if you were still alive in the world, do you submit to regulations — 21 'Do not handle, Do not taste, Do not touch' 22 (referring to things that all perish as they are used) — according to human precepts and teachings? 23 These have indeed an appearance of wisdom in promoting self-made religion and asceticism and severity to the body, but they are of no value in stopping the indulgence of the flesh.*
@@ -789,7 +791,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟論2:8的「理學和虛空的妄言」：「哲學是空虛的騙局。它給不出你所期待的」——聽起來深奧，結果卻是空的承諾。他也直指「傳統」本身沒有自我證明的能力：「傳下來的不代表就是真的。如果一開始就是錯的，一代一代傳下去，也不會因此變得更好」。麥克阿瑟把2:10「你們在他裡面也得了豐盛」讀成一個完成的宣告：「你在祂裡面已經完全了」——不需要另一套知識體系來補足。他把整段濃縮成一個抉擇：「人人都要選——你可以選擇人的哲學……或者你可以來到耶穌基督面前，被祂從這世界裡救拔出來」。
 
-> 出處：John MacArthur, "Philosophy or Christ?" (Colossians 2:8-10), gty.org, 1976年7月11日
+> 出處：John MacArthur, "Philosophy or Christ?" (Colossians 2:8-10), gty.org, 1976年7月11日 — https://www.gty.org/library/sermons-library/2141/philosophy-or-christ
 
 ### 摩根：君王也是祭司，神性有形有體 (G. Campbell Morgan)
 
@@ -960,7 +962,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟論1-2節「求在上面的事……思念上面的事」：「在我們能接觸這世界之前，我們必須先離開這世界」——這是一個看似矛盾、卻是全段的起手式的原則。他把3節「你們的生命與基督一同藏在神裡面」讀成身分的宣告，而非努力的目標：「你的生命，與基督一同藏在神裡面」——這是信徒已經擁有、無法被奪去的安全處境。
 
-> 出處：John MacArthur, "Living the Risen Life" (Colossians 3:1-4), gty.org, 1976年9月26日
+> 出處：John MacArthur, "Living the Risen Life" (Colossians 3:1-4), gty.org, 1976年9月26日 — https://www.gty.org/library/sermons-library/2145/living-the-risen-life
 
 *本節暫無 G. Campbell Morgan 對歌羅西書第三章的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
 
@@ -1121,7 +1123,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟把18-19節讀成一組配對命令：「你們作妻子的，要順服自己的丈夫，這在主裡面是相宜的」，對照「你們作丈夫的，要持續愛你們的妻子，不要苦毒相待」——他特別強調「持續」（keep on loving）的時態：愛不是一次性的決定，是每天更新的動作，用來對治積累的苦毒。論20-21節，他把兒女的命令濃縮為一個字：「兒女，要凡事聽從父母……這是主所喜悅的」；父親的命令則是一連串警告的總和：「不要惹你兒女的氣，免得他們灰心喪志」——過度保護、偏心、情緒失控，都可能是「惹氣」的具體形式。
 
-> 出處：John MacArthur, "The New Man Makes a New Home" (Colossians 3:18-4:1), gty.org, 1976年11月7日
+> 出處：John MacArthur, "The New Man Makes a New Home" (Colossians 3:18-4:1), gty.org, 1976年11月7日 — https://www.gty.org/library/sermons-library/2149/the-new-man-makes-a-new-home
 
 *本節暫無 G. Campbell Morgan 對歌羅西書第三章的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
 
@@ -1283,7 +1285,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟論這份問安名單時說：「他不能靠自己一個人做——沒有人能夠，即使是最好的——即使使徒保羅也不能單獨完成，他必須有朋友的幫助」。他逐一點出這些同工的性格：論推基古，「他是一個忠心的僕人。他從未出名，他只是服事」；論以巴弗的禱告生活，「他跪著懇切禱告，是持續的、迫切的、有功效的、火熱的禱告」；論底馬的離去（14節），他直接引用經文本身的評語作結：「底馬因貪愛現今的世界，就離棄我，往帖撒羅尼迦去了」——一句話點出整卷書「基督已得勝」與「仍會有人被世界奪回」這兩個張力並存的現實。
 
-> 出處：John MacArthur, "With a Little Help from My Friends" (Colossians 4:7-18), gty.org, 1976年12月5日
+> 出處：John MacArthur, "With a Little Help from My Friends" (Colossians 4:7-18), gty.org, 1976年12月5日 — https://www.gty.org/library/sermons-library/2152/with-a-little-help-from-my-friends
 
 *本節暫無 G. Campbell Morgan 對歌羅西書第四章的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
 
