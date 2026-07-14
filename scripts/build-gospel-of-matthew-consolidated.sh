@@ -8,6 +8,7 @@
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
 INPUT_DIR="$PROJECT_ROOT/books/bible/matthew/book"
+STUDY_FILE="$INPUT_DIR/elder-wong-systematic-study.md"
 OUTPUT_DIR="$PROJECT_ROOT/output"
 COMBINED_MD="$OUTPUT_DIR/gospel-of-matthew-consolidated.md"
 OUTPUT_PDF="$OUTPUT_DIR/gospel-of-matthew-consolidated.pdf"
@@ -54,21 +55,30 @@ if [ -f "$INPUT_DIR/00-overview.md" ]; then
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
 fi
 
-# 2. Prologue (canonical context)
+# 2. Elder Wong systematic reception (structure-based deep study)
+#    Demote headings one level so the whole study is a single top-level chapter
+if [ -f "$STUDY_FILE" ]; then
+    echo "  Adding: elder-wong-systematic-study.md (as 全書領受總綱)"
+    printf '# 全書領受總綱——黃長老查經法 (Systematic Reception)\n\n' >> "$COMBINED_MD"
+    tail -n +2 "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
+    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
+fi
+
+# 3. Prologue (canonical context)
 if [ -f "$INPUT_DIR/prologue-canonical-context.md" ]; then
     echo "  Adding: prologue-canonical-context.md"
     cat "$INPUT_DIR/prologue-canonical-context.md" >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
 fi
 
-# 3. Chapter 1 (skip the redundant book-title preamble unique to this file: lines 1-11)
+# 4. Chapter 1 (skip the redundant book-title preamble unique to this file: lines 1-11)
 if [ -f "$INPUT_DIR/chapter-01-king-identity.md" ]; then
     echo "  Adding: chapter-01-king-identity.md"
     tail -n +12 "$INPUT_DIR/chapter-01-king-identity.md" >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
 fi
 
-# 4. Chapters 2-5 in order
+# 5. Chapters 2-5 in order
 chapter_count=2
 for f in chapter-02-sermon-on-mount.md chapter-03-kings-power.md chapter-04-discipleship.md chapter-05-passion-week.md; do
     if [ -f "$INPUT_DIR/$f" ]; then

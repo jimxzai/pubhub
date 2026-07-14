@@ -218,6 +218,9 @@ matthew-gospel/
 ├── CLAUDE.md                         # 本文件：項目說明
 ├── THEOLOGICAL-FRAMEWORK.md          # 神學框架
 ├── book/
+│   ├── 00-overview.md                 # 全書概覽：結構、五大講論、十個神蹟、應驗公式
+│   ├── elder-wong-systematic-study.md # 全書領受總綱——黃長老查經法（按結構逐部深度領受）
+│   ├── prologue-canonical-context.md # 正典脈絡導論
 │   ├── chapter-01-king-identity.md   # 君王的身分 (1-4章)
 │   ├── chapter-02-sermon-on-mount.md # 登山寶訓 (5-7章)
 │   ├── chapter-03-kings-power.md      # 君王的權能：神蹟、差遣、奧秘的比喻 (8-13章)
