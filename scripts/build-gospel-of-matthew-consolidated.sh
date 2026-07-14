@@ -74,15 +74,21 @@ fi
 # 4. 28 per-chapter files, in order
 chapter_count=0
 for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28; do
+    found=""
     for f in "$INPUT_DIR/$i-"*.md; do
         if [ -f "$f" ]; then
             echo "  Adding: $(basename "$f")"
             cat "$f" >> "$COMBINED_MD"
             printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
             ((chapter_count++))
+            found=1
             break
         fi
     done
+    if [ -z "$found" ]; then
+        echo "❌ Missing chapter file for prefix '$i-' in $INPUT_DIR — aborting build"
+        exit 1
+    fi
 done
 
 echo ""
