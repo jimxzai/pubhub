@@ -58,6 +58,13 @@ if [ -f "$INPUT_DIR/00-overview.md" ]; then
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
 fi
 
+# 1b. Systematic Reception chapter (全書領受總綱)
+if [ -f "$INPUT_DIR/00b-systematic-reception.md" ]; then
+    echo "  Adding: 00b-systematic-reception.md"
+    tail -n +8 "$INPUT_DIR/00b-systematic-reception.md" >> "$COMBINED_MD"
+    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
+fi
+
 # 2. All 20 chapters in canonical order
 chapter_count=0
 for i in 01a 01b 01c 01d 02 03 04 05 06 07 08a 08b 09 10 11 12 13 14 15 16; do

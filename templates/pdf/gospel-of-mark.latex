@@ -79,6 +79,9 @@
 \definecolor{JesusRed}{RGB}{204,0,0}
 \newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
 
+% TOC accent — distinct from the red servant theme, used only for the Table of Contents
+\definecolor{TOCBlue}{RGB}{25,55,95}
+
 %% ============================================
 %% MATH AND SYMBOLS
 %% ============================================
@@ -277,6 +280,187 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
+%% ============================================
+%% COVER ART PAGE — the ox (馬可＝牛), the servant's
+%% beast of burden and altar offering. Full-bleed,
+%% gold-bordered, matching the appendix/back-cover palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterRed, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[JesusRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterRed} Three Books Deep Reading \textbullet\ Gospel of Mark}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 馬可福音深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} The Second Gospel \textperiodcentered\ 牛的視角：從第一句看見僕人基督}
+
+\vspace{0.30cm}
+
+% ===== OX WITH YOKE AND TOWEL (馬可的活物記號) =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Halo — radiating glory rays (quieter than John's, servant not sovereign)
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.08] (0,0.2) circle (2.0);
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.14] (0,0.2) circle (1.7);
+  \draw[ScriptureGold, line width=0.4pt, opacity=0.20] (0,0.2) circle (1.4);
+
+  % Ox head — simple iconographic form (馬可＝牛，祭壇的獻祭走獸)
+  \fill[ChapterRed] (-0.55,0.55) .. controls (-0.75,0.95) and (-0.35,1.15) .. (0,1.05)
+                    .. controls (0.35,1.15) and (0.75,0.95) .. (0.55,0.55)
+                    .. controls (0.65,0.25) and (0.35,-0.05) .. (0,-0.05)
+                    .. controls (-0.35,-0.05) and (-0.65,0.25) .. cycle;
+  % Horns
+  \draw[ChapterRed, line width=2.2pt] (-0.45,0.95) .. controls (-0.85,1.15) .. (-0.95,0.75);
+  \draw[ChapterRed, line width=2.2pt] (0.45,0.95) .. controls (0.85,1.15) .. (0.95,0.75);
+  % Eyes and muzzle
+  \fill[JesusRed] (-0.18,0.55) circle (0.05);
+  \fill[JesusRed] (0.18,0.55) circle (0.05);
+  \fill[ScriptureGold,opacity=0.6] (0,0.05) ellipse (0.28 and 0.18);
+
+  % Yoke (服事的軛) resting below
+  \draw[CommentaryBrown, line width=3pt] (-0.9,-0.35) -- (0.9,-0.35);
+  \draw[CommentaryBrown, line width=2pt] (-0.55,-0.35) -- (-0.55,-0.55);
+  \draw[CommentaryBrown, line width=2pt] (0.55,-0.35) -- (0.55,-0.55);
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterRed} 僕人之路}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} The Way of the Servant}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries 馬可福音研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Gospel of Mark}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterRed} Υἱὸς Θεοῦ}\quad
+{\footnotesize\scshape\color{CommentaryBrown} ``Son of God''}\quad
+{\footnotesize\bfseries\color{JesusRed} 神的兒子}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{JesusRed}
+「神的兒子，耶穌基督福音的起頭。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``The beginning of the gospel of Jesus Christ, the Son of God.''}\\[0.10em]
+{\scriptsize\color{ChapterRed} 馬可福音 1:1 \textperiodcentered\ Mark 1:1}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on Mark's
+%% own opening sentence (1:1), the book's self-declared
+%% thesis, not a borrowed framework verse.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterRed} 全書一句話 \textperiodcentered\ The Whole Book in One Sentence}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+\textbf{\color{JesusRed}神的兒子}，耶穌基督福音的起頭。\\[0.5em]
+\footnotesize\itshape
+The beginning of the gospel of Jesus Christ, the \textbf{\color{JesusRed}Son of God}.\\[0.4em]
+\small\color{ChapterRed} 馬可福音 1:1 \textperiodcentered\ Mark 1:1
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 不是「立刻」，是「兒子」——全書的鑰匙在第一句話裏\\
+\textit{Not ``immediately'' — ``Son.'' The key to the whole book is in the first sentence.}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{1.8cm}p{2.6cm}p{4.6cm}@{}}
+\toprule
+\textbf{身分} & \textbf{階段} & \textbf{在全書的展開} \\
+\midrule
+兒子 Son & 蒙愛、受印證 & 1:1-11 —— 先是兒子，蒙父所愛，然後才差遣 \\
+僕人 Servant & 捨己、服事到底 & 1:14-16:20 —— 因為是兒子，才甘心作僕人；10:45 是這身分活出來的樣式 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterRed} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+先做兒子，才能作僕人——摩西是神家中的僕人，耶穌卻是神家中的兒子（來3:5-6）。\\
+若你只記得馬可「立刻」的急促節奏，這卷書只讀懂了一半；\\
+先看見第一句話的「兒子」，才能看懂後面每一次「服事」的分量。\\[0.5em]
+\textit{\footnotesize
+Moses was a servant in God's house; Christ is a Son over God's house (Heb 3:5-6).\\
+If all you remember is Mark's breathless ``immediately,'' you have only read half the book.\\
+See the ``Son'' in the first sentence first — then every act of service that follows will carry its true weight.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
 % Title page
 \begin{titlepage}
 \thispagestyle{empty}
@@ -471,24 +655,30 @@ $endif$
 
 \vspace{1cm}
 
-{\large\bfseries\color{ChapterRed} 馬可福音關鍵詞}\\[0.1cm]
-{\normalsize Key Word in Mark: "Immediately" (εὐθύς)}
+{\large\bfseries\color{ChapterRed} 馬可福音的鑰匙：第一句話}\\[0.1cm]
+{\normalsize The Key to Mark: The First Sentence, Not "Immediately"}
 
 \vspace{0.3cm}
 
 \begin{tikzpicture}[scale=0.7]
-  % Central word
+  % Central word — the real key: Son of God, 1:1
   \node[draw=ChapterRed,fill=ScriptureBg,circle,minimum size=2.5cm,line width=2pt,
-        font=\normalsize\bfseries,color=ChapterRed,align=center] (center) at (0,0) {εὐθύς\\Immediately\\立刻};
+        font=\normalsize\bfseries,color=ChapterRed,align=center] (center) at (0,0) {Υἱὸς Θεοῦ\\Son of God\\神的兒子};
 
-  % Occurrences
-  \node[font=\footnotesize,color=TextGray] at (0,-2) {Appears ~40 times in Mark};
-  \node[font=\footnotesize,color=TextGray] at (0,-2.5) {Emphasizes action and urgency};
+  \node[font=\footnotesize,color=TextGray] at (0,-2) {Mark 1:1 — the book's own stated thesis};
+  \node[font=\footnotesize,color=TextGray] at (0,-2.5) {Son first, then Servant (Heb 3:5-6)};
 \end{tikzpicture}
 
-\vspace{0.5cm}
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2in}{0.5pt}}
+\vspace{0.3cm}
 
-{\footnotesize\color{LightGray} 「耶穌隨即催門徒上船。」— 馬可福音 6:45}
+{\footnotesize\color{CommentaryBrown}\itshape 附：馬可的招牌節奏 \textperiodcentered\ A supporting stylistic note}\\[0.15cm]
+{\footnotesize\color{TextGray} 「立刻」(εὐθύς) 在全書出現約40次，是馬可敘事節奏的招牌用詞——但這是文體，不是鑰匙。真正打開全書的，是第一句話：「神的兒子」。}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} 「神的兒子，耶穌基督福音的起頭。」— 馬可福音 1:1}
 \end{center}
 \cleardoublepage
 
@@ -507,7 +697,7 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
+中文：和合本 (CUV)，經文核對 ai-eden.com/bible/mark\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
@@ -522,9 +712,13 @@ $endif$
 \end{flushleft}
 \cleardoublepage
 
-% Table of contents
+% Table of contents — swap ChapterRed to TOCBlue just for this page, since
+% \tableofcontents calls \chapter* internally and \@makeschapterhead hardcodes
+% \color{ChapterRed}; restore immediately after so chapter/appendix heads stay red.
 \pagestyle{fancy}
-{\color{ChapterRed}\tableofcontents}
+\definecolor{ChapterRed}{RGB}{25,55,95}
+\tableofcontents
+\definecolor{ChapterRed}{RGB}{139,35,35}
 \cleardoublepage
 
 %% --------------------------------------------
@@ -533,5 +727,655 @@ $endif$
 \mainmatter
 
 $body$
+
+%% ============================================
+%% BACK MATTER — APPENDICES
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% APPENDIX A: SCRIPTURE INDEX
+%% ============================================
+\chapter*{附錄一：經文索引 (Appendix A: Scripture Index)}
+\addcontentsline{toc}{chapter}{附錄一：經文索引 (Appendix A: Scripture Index)}
+\markboth{}{}
+
+\noindent 本索引收錄本書研讀中實際引用、且在馬可福音經文本身有直接呼應或引述關係的舊約與新約經文，依書卷順序排列。
+
+\section*{舊約 Old Testament}
+
+{\small
+\begin{longtable}{@{}p{3.2cm}p{4.2cm}p{6.6cm}@{}}
+\toprule
+\textbf{經文} & \textbf{主題} & \textbf{與馬可福音的連結} \\
+\midrule
+\endhead
+創世記 1:27; 2:24 & 神造男造女；二人成為一體 & 可10:6-8 耶穌回到創造的次序論婚姻 \\
+創世記 3章 & 第一個亞當在豐富中跌倒 & 可1:12-13 末後的亞當在缺乏的曠野中得勝 \\
+創世記 22:8 & 「燔祭的羊羔，神必自己預備」 & 可10:45「捨命作多人的贖價」的預表 \\
+出埃及記 3:14 & 「我是自有永有的」 & 可6:50「是我，不要怕」（ἐγώ εἰμι） \\
+出埃及記 16章 & 曠野降嗎哪 & 可6:30-44；8:1-10 兩次餵飽神蹟 \\
+出埃及記 20章 & 十誡 & 可7:10；10:19；12:29-31 三處引用 \\
+出埃及記 24:8 & 「立約的血」灑在百姓身上 & 可14:24 耶穌設立聖餐的宣告 \\
+利未記 13-14章 & 痲瘋病人禮儀不潔的條例 & 可1:40-45 耶穌觸摸痲瘋病人反使之潔淨 \\
+利未記 19:18 & 愛人如己 & 可12:31 耶穌引為第二大誡命 \\
+民數記 27:17 & 民如同沒有牧人的羊群 & 可6:34 耶穌憐憫「如同羊沒有牧人一般」的群眾 \\
+申命記 6:4-5 & 示瑪：盡心盡性盡力愛主你的神 & 可12:29-30 耶穌引為第一大誡命 \\
+申命記 24:1 & 休書的條例 & 可10:4 法利賽人以此試探耶穌 \\
+申命記 25:5-6 & 利未拉婚制度 & 可12:19 撒都該人藉此設計復活的難題 \\
+撒母耳記上 21章 & 大衛吃陳設餅 & 可2:25-26 耶穌以此類比安息日的原則 \\
+詩篇 2:7 & 「你是我的兒子，我今日生你」 & 可1:11 天父對耶穌的宣告，與賽42:1合併 \\
+詩篇 22:1, 18 & 「我的神為甚麼離棄我」；分我的外衣 & 可15:24, 34 明文引用／應驗 \\
+詩篇 69:21 & 拿醋給我喝 & 可15:36 士兵拿海綿蘸醋送給耶穌 \\
+詩篇 110:1 & 「耶和華對我主說：你坐在我右邊」 & 可12:36；14:62 耶穌兩次引用宣告自己的身分 \\
+詩篇 118:22-23, 25-26 & 匠人所棄的石頭；和散那 & 可11:9-10；12:10-11 榮進聖城與園戶比喻的高潮引句 \\
+以賽亞書 5:1-7 & 葡萄園之歌 & 可12:1-9 兇惡園戶比喻的直接取材 \\
+以賽亞書 6:9-10 & 看了又看卻看不清 & 可4:12 論比喻雙重功能時引用 \\
+以賽亞書 29:13 & 這百姓用嘴唇尊敬我，心卻遠離我 & 可7:6-7 耶穌斥責法利賽人假冒為善 \\
+以賽亞書 40:3 & 曠野有人聲喊著預備主的道 & 可1:3 施洗約翰自我指認的引句之一 \\
+以賽亞書 42:1 & 「我的僕人……我心裏所喜悅的」 & 可1:11 天父宣告與詩2:7合併引用 \\
+以賽亞書 53章 & 受苦的僕人 & 可10:45「贖價」；全書「僕人基督」主題的根源 \\
+以賽亞書 56:7 & 我的殿必稱為萬民禱告的殿 & 可11:17 與耶7:11並置引用，潔淨聖殿時的宣告 \\
+以賽亞書 66:24 & 蟲是不死的，火是不滅的 & 可9:48 耶穌論跌人犯罪的警告 \\
+耶利米書 7:11 & 這殿豈可看為賊窩 & 可11:17 與賽56:7並置引用 \\
+但以理書 7:13-14 & 人子駕雲而來，得權柄、榮耀、國度 & 可13:26；14:62 耶穌兩次自稱「人子」的根源 \\
+但以理書 9:27; 11:31; 12:11 & 那行毀壞可憎的 & 可13:14「施行毀滅的褻瀆者」直接引用 \\
+瑪拉基書 3:1 & 我要差遣我的使者 & 可1:2 與賽40:3合併引用，只標明「以賽亞先知書」 \\
+撒迦利亞書 9:9 & 王謙謙和和地騎著驢 & 可11:1-10 榮進耶路撒冷應驗此預言 \\
+撒迦利亞書 13:7 & 我要擊打牧人，羊就分散了 & 可14:27 耶穌預言門徒將要跌倒 \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{新約平行與呼應 New Testament Parallels}
+
+{\small
+\begin{longtable}{@{}p{3.2cm}p{10.8cm}@{}}
+\toprule
+\textbf{經文} & \textbf{與馬可福音的連結} \\
+\midrule
+\endhead
+太1-2章；路1-3章 & 家譜與降生敘事——馬可全無，僕人不需要家譜，直接從施洗約翰出來開篇 \\
+太4:1-11；路4:1-13 & 三個具體試探的細節——馬可1:12-13 只用兩節帶過，聚焦行動而非對話 \\
+太16:13-28；路9:18-27 & 彼得認信與受難預言的平行記載，補充可8:27-38 的細節 \\
+路9:31 & 摩西、以利亞與耶穌「談論祂在耶路撒冷將要成的事」——補充可9:4 變像山對話的內容 \\
+約1:29 & 「看哪，神的羔羊」——與可10:45「贖價」呼應同一救贖圖畫 \\
+約18:2 & 客西馬尼是耶穌「常和門徒聚集的地方」——補充可14:32 的背景 \\
+羅馬書 5:12-19 & 「因一人的悖逆，眾人成為罪人；因一人的順從，眾人也成為義」——呼應可1:12-13 末後亞當的得勝 \\
+哥林多前書 12:3 & 「若不是被聖靈感動的，也沒有能說耶穌是主的」——呼應可8:29 彼得認信的屬靈根源 \\
+哥林多前書 15:45 & 「末後的亞當成了叫人活的靈」——可1:13；10:45 僕人基督得勝與捨命的神學根據 \\
+腓立比書 2:6-8 & 「反倒虛己，取了奴僕的形像……存心順服，以至於死」——幾乎是全卷馬可福音的神學提要 \\
+希伯來書 1:1-2 & 「這末世藉著他兒子曉諭我們」——與可1:1「神的兒子」序言呼應 \\
+希伯來書 3:5-6 & 摩西為僕人在神家盡忠；基督為兒子治理神的家——先做兒子才能作僕人，可1:1的關鍵注腳 \\
+希伯來書 4:15 & 「祂也曾凡事受過試探，與我們一樣，只是他沒有犯罪」——可1:13 曠野試探的神學根據 \\
+希伯來書 10:19-20 & 又新又活的路，藉著祂的身體開的——與可15:38 聖殿幔子裂開呼應 \\
+彼得前書 2:21-25 & 「基督也為你們受過苦，給你們留下榜樣」——呼應可8:34 背十字架的呼召 \\
+啟示錄 5:6 & 「羔羊站立，像是被殺過的」——與可10:45 呼應同一救贖羔羊圖畫 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX B: KEY THEMES INDEX
+%% ============================================
+\chapter*{附錄二：主題索引 (Appendix B: Key Themes Index)}
+\addcontentsline{toc}{chapter}{附錄二：主題索引 (Appendix B: Key Themes Index)}
+\markboth{}{}
+
+\section*{基督論 Christology}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+神的兒子 Son of God & 1:1, 11；3:11；5:7；9:7；14:61-62；15:39 \\
+人子 Son of Man & 2:10, 28；8:31, 38；9:9, 12, 31；10:33, 45；13:26；14:21, 41, 62 \\
+基督／彌賽亞 Christ/Messiah & 1:1；8:29；9:41；12:35；14:61；15:32 \\
+彌賽亞秘密 Messianic Secret & 1:34, 44；3:12；5:43；7:36；8:30；9:9 \\
+僕人基督 Servant Christ & 10:45（全書核心經文）；賽53章的成就 \\
+受苦與復活的三次預言 Three Passion Predictions & 8:31；9:31；10:33-34 \\
+權柄 Authority (\textit{exousia}) & 1:22, 27；2:10；11:28-33 \\
+「這到底是誰」的提問 "Who Is This?" & 1:27；4:41；6:3；8:27-29 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{救恩論 Soteriology}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+福音 Gospel (\textit{euangelion}) & 1:1, 14-15；8:35；10:29；13:10；14:9 \\
+悔改 Repentance & 1:4, 15 \\
+信心 Faith & 2:5；4:40；5:34, 36；9:23-24；10:52；11:22-24 \\
+贖價 Ransom (\textit{lytron}) & 10:45 \\
+赦罪的權柄 Authority to Forgive Sins & 2:5-12 \\
+捨己與背十字架 Self-Denial and Cross-Bearing & 8:34-38 \\
+喪失生命才能得著 Losing Life to Find It & 8:35 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{門徒論 Discipleship}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+呼召跟從 The Call to Follow & 1:16-20；2:14；8:34；10:21, 28 \\
+差遣十二使徒 Sending the Twelve & 3:13-19；6:7-13 \\
+為首的作眾人的僕人 The Greatest as Servant & 9:35；10:43-45 \\
+門徒的軟弱與失敗 Disciples' Weakness \& Failure & 4:40；6:52；8:17-21；9:18, 34；14:37, 50, 66-72 \\
+警醒禱告 Watchfulness in Prayer & 13:33-37；14:38 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{神國論 Kingdom of God}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+神國近了 The Kingdom Has Drawn Near & 1:15 \\
+神國的比喻 Kingdom Parables & 4:1-34（撒種、燈臺、種子生長、芥菜種） \\
+像小孩子一樣承受神國 Receiving It Like a Child & 10:14-15 \\
+神國與財富的張力 Wealth and the Kingdom & 10:23-27 \\
+\bottomrule
+\end{tabular}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX C: REFERENCES
+%% ============================================
+\chapter*{附錄三：參考資料 (Appendix C: References)}
+\addcontentsline{toc}{chapter}{附錄三：參考資料 (Appendix C: References)}
+\markboth{}{}
+
+\noindent 本書「歷代注疏」與「三大資源深度整合」各節所引用的注釋家與著作如下，依時代排列。馬可福音並無獨立流傳的教父時期逐節注釋，故教父引文均取自屈梭多模對馬太福音平行經文的講道。
+
+\section*{教父時期 Patristic Era}
+
+\begin{itemize}
+\item Chrysostom, John (屈梭多模, c. 349--407). \textit{Homilies on the Gospel of Matthew}. NPNF1-10. （引用馬太平行經文以補足馬可福音之教父見證）
+\end{itemize}
+
+\section*{改教與改革宗時期 Reformation Era}
+
+\begin{itemize}
+\item Calvin, John (加爾文, 1509--1564). \textit{Commentary on a Harmony of the Evangelists}.
+\end{itemize}
+
+\section*{近代與當代釋經 Modern \& Contemporary Commentary}
+
+\begin{itemize}
+\item Morgan, G. Campbell (1863--1945). \textit{The Gospel According to Mark}. 1927.
+\item MacArthur, John (b. 1939). \textit{The MacArthur New Testament Commentary: Mark 1--8, 9--16}. Chicago: Moody Publishers. \\ 講道系列見 gty.org，本書引用之編號（如 41-3, 41-45）對應其講道序號。
+\item Sproul, R.C. \textit{Mark: An Expositional Commentary}.
+\end{itemize}
+
+\section*{中文查經資源 Chinese-Language Bible Study Resources}
+
+\begin{itemize}
+\item 黃長老（Elder Wong）。查經教導法，整合於本書「黃長老查經」與「黃長老查經．深讀」各節。
+\item 沈保羅牧師（Pastor Shen）。華人處境洞見，見 ai-eden.com 馬可福音研讀。
+\end{itemize}
+
+\section*{聖經版本與經文核對 Bible Versions \& Cross-Reference}
+
+\begin{itemize}
+\item 中文：和合本 (Chinese Union Version, CUV)
+\item English: English Standard Version (ESV)
+\item 逐章經文核對：ai-eden.com/bible/mark
+\item 原文參考：Nestle-Aland 28th Edition (NA28); UBS Greek New Testament 5th Edition
+\end{itemize}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX D: ABOUT RED LETTER BIBLE
+%% ============================================
+\chapter*{附錄四：紅字聖經說明 (Appendix D: About the Red Letter Format)}
+\addcontentsline{toc}{chapter}{附錄四：紅字聖經說明 (Appendix D: About the Red Letter Format)}
+\markboth{}{}
+
+\section*{什麼是紅字聖經？}
+
+紅字聖經是一種聖經印刷傳統，將耶穌基督親口所說的話用\textcolor{JesusRed}{紅色}印刷，以區別於敘事文字與他人話語。這種格式起源於1899年，由 Louis Klopsch 首先用於英文聖經。
+
+\section*{本書的紅字標記}
+
+\begin{itemize}
+\item \textcolor{JesusRed}{\textit{耶穌直接說的話}} —— 紅色標示
+\item 敘事文字、他人話語（包括污靈、法利賽人、門徒的話）—— 黑色正體
+\item 天父從天上發出的聲音（1:11；9:7）—— 不作紅字處理，因非耶穌本人的話
+\item 舊約引文 —— 保留原樣，不作紅字處理
+\end{itemize}
+
+\section*{馬可福音紅字的特殊之處}
+
+與約翰福音「樓上私語」五章幾乎整段是紅字不同，馬可福音的敘事風格「省略言語、聚焦行動」——序言（1:1-13）三段中，耶穌完全沒有一句直接引語，直到1:14「日期滿了」才第一次開口。這個安排恰恰印證馬可的筆法：僕人的身分先於僕人的話語，行動比言語更早、更多地見證了祂是誰。
+
+\vspace{0.5cm}
+\begin{center}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.2in}
+\centering\vspace{0.2cm}
+\textcolor{JesusRed}{\textit{「因為人子來，並不是要受人的服事，乃是要服事人，\\
+並且要捨命，作多人的贖價。」}}\\[0.3em]
+\small — 馬可福音 10:45
+\vspace{0.2cm}
+\end{minipage}}
+\end{center}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX E: FOUR GOSPELS DISTINCTIVES
+%% ============================================
+\chapter*{附錄五：馬可福音在四福音中的獨特性 (Appendix E: Mark Among the Four Gospels)}
+\addcontentsline{toc}{chapter}{附錄五：馬可福音在四福音中的獨特性 (Appendix E: Mark Among the Four Gospels)}
+\markboth{}{}
+
+\section*{四福音四活物——四個角度寫同一位耶穌}
+
+{\small
+\begin{tabular}{@{}p{2.0cm}p{1.6cm}p{3.4cm}p{2.0cm}p{2.5cm}@{}}
+\toprule
+\textbf{福音書} & \textbf{活物} & \textbf{身份} & \textbf{開卷起點} & \textbf{家譜} \\
+\midrule
+馬太 & 獅子 & 王（大衛的子孫） & 亞伯拉罕 & 有（往下數到耶穌） \\
+\textbf{馬可} & \textbf{牛} & \textbf{僕人} & \textbf{施洗約翰出來} & \textbf{無（僕人不需家譜）} \\
+路加 & 人 & 完全人（末後的亞當） & 亞當 & 有（往上追到神） \\
+約翰 & 鷹 & 神（永恆的道） & 太初 & 無（神沒有家譜） \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{馬可福音的獨有特徵}
+
+\begin{itemize}
+\item 全書無家譜、無降生敘事——開卷第一句直接宣告「神的兒子」（1:1）
+\item 現存最古老的抄本止於16:8，以婦女的懼怕與沉默戛然而止——經文鑑別學上著名的懸案
+\item 「立刻」(\textit{euthys}) 出現約40次，是全書招牌的敘事節奏詞，但正如附錄四所述，這是文體而非鑰匙
+\item 唯一記載耶穌「與野獸同在一處」（1:13）與伯賽大瞎子分兩階段醫治（8:22-26）的福音書
+\item 一個比喻也沒有獨創——四個天國比喻（4章）均見於馬太或路加的平行記載，但馬可的敘述通常最簡潔
+\item 早期教父帕皮亞（Papias, 約主後140年）記載：馬可是彼得的「傳譯者」，忠實記錄彼得所傳講的內容
+\end{itemize}
+
+\section*{寫作對象與筆法}
+
+\begin{itemize}
+\item 針對羅馬外邦讀者而寫——翻譯亞蘭文詞語給讀者（5:41；7:34；15:34：Talitha cumi, Ephphatha, Eloi Eloi lema sabachthani）
+\item 較少引用舊約經文，卻仍在開卷就引用以賽亞書——立刻交代耶穌事工的神聖起源，而非向猶太讀者論證
+\item 一般認為成書於主後50-70年間，可能是四福音書中最早寫成的一卷
+\end{itemize}
+
+\noindent 對觀福音（太、可、路）共享大量平行材料，但馬可的敘述通常最簡短、最少解釋——這正符合「僕人」的記號：僕人不需要冗長的自我介紹，只需要立刻開始服事。
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX F: THE MESSIANIC SECRET AND SERVANT SIGNS
+%% ============================================
+\chapter*{附錄六：馬可福音的彌賽亞秘密與僕人記號 (Appendix F: The Messianic Secret and Servant Signs)}
+\addcontentsline{toc}{chapter}{附錄六：馬可福音的彌賽亞秘密與僕人記號 (Appendix F: The Messianic Secret and Servant Signs)}
+\markboth{}{}
+
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{ChapterRed} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}
+馬可福音沒有像約翰福音那樣的「兆頭」清單，卻有一條同樣清楚的線索——
+耶穌反覆吩咐人「不要告訴人」祂的身分，直到十字架下，才由一個外邦百夫長第一次公開宣告。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\noindent\textbf{總綱經文}（可10:45）：
+
+\begin{center}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{5.5in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{TextGray}
+「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。」\\[0.15em]
+\scriptsize — 馬可福音 10:45}
+\vspace{0.15cm}
+\end{minipage}}
+\end{center}
+
+\vspace{0.3cm}
+
+\section*{彌賽亞秘密：六次「不要告訴人」}
+
+{\small
+\begin{tabular}{@{}p{1.6cm}p{3.2cm}p{7.9cm}@{}}
+\toprule
+\textbf{經文} & \textbf{對象} & \textbf{吩咐} \\
+\midrule
+1:34 & 眾污靈 & 不許牠們說話，因為牠們認識他 \\
+1:44 & 痲瘋病人 & 不要告訴人，只要去給祭司察看 \\
+3:12 & 眾污靈 & 再三囑咐不要把他顯露出來 \\
+5:43 & 睚魯家人 & 切切囑咐不要讓人知道這事 \\
+7:36 & 被醫治的聾啞人 & 越囑咐不要告訴人，眾人卻越發傳揚 \\
+8:30；9:9 & 門徒 & 不可對任何人說起他是基督；下山前不要告訴人所見的 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.3cm}
+\section*{「這到底是誰」：貫穿全書的提問}
+
+\begin{itemize}
+\item 1:27——會堂裏的人：「這是甚麼事？是個新的教導啊！」
+\item 4:41——平靜風浪後，門徒：「這到底是誰？連風和海都聽從他。」
+\item 6:3——拿撒勒鄉人：「這不是那木匠嗎？」
+\item 8:27-29——耶穌親自發問：「你們說我是誰？」彼得回答：「你是基督。」
+\item 15:39——十字架下，百夫長：「這人真是神的兒子！」（全書第一次由人在耶穌在世時公開如此宣告）
+\end{itemize}
+
+\vspace{0.3cm}
+\section*{三次預言受難：走向十字架的框架}
+
+{\small
+\begin{tabular}{@{}p{1.2cm}p{2.2cm}p{4.0cm}p{5.3cm}@{}}
+\toprule
+\textbf{\#} & \textbf{經文} & \textbf{門徒的誤解} & \textbf{耶穌的教導} \\
+\midrule
+1 & 8:31 & 彼得責備耶穌 & 捨己、背十字架跟從我（8:34-38） \\
+2 & 9:31 & 門徒爭論誰最大 & 為首的要作眾人的用人（9:35） \\
+3 & 10:33-34 & 雅各、約翰求座位 & 人子來是要服事人、捨命作贖價（10:45） \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.3cm}
+\noindent\textbf{帶領提問：}彌賽亞秘密為何在十字架下才被打破？耶穌的身分，是不是必須透過捨命服事才能被真正認出？
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX G: PSALMS & OT MESSIANIC PROPHECIES
+%% ============================================
+\chapter*{附錄七：詩篇與舊約彌賽亞預言 (Appendix G: Psalms \& OT Messianic Prophecies)}
+\addcontentsline{toc}{chapter}{附錄七：詩篇與舊約彌賽亞預言 (Appendix G: Psalms \& OT Messianic Prophecies)}
+\markboth{}{}
+
+\noindent 以下所列，均為馬可福音經文\textbf{明文引用}的舊約預言，依馬可福音章節順序排列——不是泛泛的相似，而是馬可或耶穌自己親口指明的應驗關係。
+
+{\small
+\begin{longtable}{@{}p{2.0cm}p{4.5cm}p{2.2cm}p{4.9cm}@{}}
+\toprule
+\textbf{馬可福音} & \textbf{內容} & \textbf{舊約出處} & \textbf{應驗方式} \\
+\midrule
+\endhead
+1:2-3 & 施洗約翰預備道路 & 瑪3:1；賽40:3 & 「我要差遣我的使者」；「曠野有人聲喊著」——雙重引用，只標明以賽亞書 \\
+1:11 & 天父的宣告 & 詩2:7；賽42:1 & 「你是我的兒子」與「我的僕人」合併，宣告「作王的僕人」 \\
+4:12 & 比喻的雙重功能 & 賽6:9-10 & 「看了又看，卻看不清」——明文引用 \\
+7:6-7 & 斥責法利賽人假冒為善 & 賽29:13 & 「這百姓用嘴唇尊敬我，心卻遠離我」——明文引用 \\
+9:48 & 論跌人犯罪的警告 & 賽66:24 & 「蟲是不死的，火是不滅的」 \\
+11:9-10 & 榮進耶路撒冷 & 詩118:25-26 & 「和散那！奉主名來的是應當稱頌的」——群眾明文引用 \\
+11:17 & 潔淨聖殿 & 賽56:7；耶7:11 & 「萬國禱告的殿」與「賊窩」並置引用 \\
+12:10-11 & 兇惡園戶比喻的高潮 & 詩118:22-23 & 「匠人所丟棄的石頭已作了房角的頭塊石頭」 \\
+12:36 & 大衛之子與大衛之主 & 詩110:1 & 「耶和華對我主說：你坐在我的右邊」 \\
+13:14 & 大災難的記號 & 但9:27；11:31；12:11 & 「施行毀滅的褻瀆者」直接引用 \\
+13:24-25 & 人子降臨前的宇宙異象 & 賽13:10；34:4 & 「太陽要變黑，月亮也不放光，眾星要墜落」 \\
+13:26 & 人子的降臨 & 但7:13-14 & 「他們要看見人子帶著大能力和榮耀駕雲來臨」 \\
+14:24 & 設立聖餐 & 出24:8 & 「這是我立約的血」直接呼應西奈之約 \\
+14:27 & 預言門徒跌倒 & 亞13:7 & 「我要擊打牧人，羊就分散了」 \\
+14:62 & 大祭司審問 & 但7:13；詩110:1 & 「你們要看見人子坐在那權能者的右邊，駕著天上的雲來臨」 \\
+15:24 & 兵丁分衣 & 詩22:18 & 「他們分我的外衣，為我的裏衣拈鬮」 \\
+15:34 & 十架七言之一 & 詩22:1 & 「我的神，我的神，為甚麼離棄我」——亞蘭文原音保留 \\
+15:36 & 十架上的戲弄 & 詩69:21 & 「拿海綿蘸滿了醋……送給他喝」 \\
+\bottomrule
+\end{longtable}
+}
+
+\vspace{0.3cm}
+\noindent\textbf{未明文引用、但貫穿全書的預表：}受苦的僕人（賽53章 → 可10:45「贖價」）；末後的亞當（創2-3章 → 可1:12-13曠野得勝）；牧人與羊群（民27:17；結34章 → 可6:34）；逾越節羊羔（出12章 → 可14:12-25 最後晚餐）。
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX H: GREEK WORD GLOSSARY
+%% ============================================
+\chapter*{附錄八：希臘文原文詞彙表 (Appendix H: Greek Word Glossary)}
+\addcontentsline{toc}{chapter}{附錄八：希臘文原文詞彙表 (Appendix H: Greek Word Glossary)}
+\markboth{}{}
+
+\noindent 本表彙整全書各章「原文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
+
+{\small
+\begin{longtable}{@{}p{2.6cm}p{2.6cm}p{3.0cm}p{5.4cm}@{}}
+\toprule
+\textbf{希臘文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
+\midrule
+\endhead
+ἀγαπητός & agapētos & 蒙愛的、獨一所愛的 & 1:11，呼應創22:2「你所愛的以撒」 \\
+ἀπιστία & apistia & 不信 & 9:24「求你幫助我的不信」 \\
+ἀρχή & archē & 起頭、起初 & 1:1，呼應創1:1、約1:1 \\
+βαπτίζω & baptizō & 施洗、浸入 & 1:9，字根意為「浸入水中」 \\
+βλασφημία & blasphēmia & 褻瀆 & 2:7；3:28-29；14:64 \\
+δαιμόνιον / ἐκβάλλω & daimonion / ekballō & 鬼／趕出、催逼 & 1:12, 34；3:22-27 全書趕鬼與催逼的核心詞根 \\
+διάκονος / δοῦλος & diakonos / doulos & 用人、僕人／奴僕 & 9:35；10:43-44，兩個表達服事的詞彙依序遞進 \\
+δοῦλος (來3:5) & doulos & 奴僕 & 摩西在神家中的身分，對比耶穌作「兒子」（來3:5-6） \\
+ἐγώ εἰμι & egō eimi & 我是 & 6:50「是我，不要怕」，呼應出3:14神的名 \\
+ἐκθαμβεῖσθαι & ekthambeisthai & 驚恐 & 14:33，情感震盪最強烈的詞之一 \\
+ἐπιτιμάω & epitimaō & 斥責 & 1:25；3:12；4:39；8:33，貫穿全書用於趕鬼、平靜風浪、斥責彼得 \\
+ἐρῆμος & erēmos & 曠野 & 1:3-13 反覆出現，是馬可預備主題的舞台 \\
+εὐαγγέλιον & euangelion & 福音、好消息 & 1:1, 14；全書7次，是全書關鍵詞 \\
+εὐθύς & euthys & 立刻、隨即 & 全書近40次，馬可招牌用詞——文體而非鑰匙（見附錄四） \\
+θηρίον & thērion & 野獸 & 1:13，唯獨馬可記載此細節 \\
+θλῖψις & thlipsis & 患難、災難 & 13:19, 24 \\
+ἱκανός & hikanos & 配得、足夠 & 1:7「解鞋帶也不配」 \\
+ἰσχυρότερος & ischyroteros & 更有能力的 & 1:7，約翰自貶高舉那將要來的一位 \\
+κήρυσσω & kēryssō & 宣講、宣告 & 1:4, 7, 14，約翰與耶穌事工的延續與超越 \\
+κοινός & koinos & 俗常的、不潔淨的 & 7:2, 15, 18-23 潔淨爭辯的核心詞 \\
+Κορβᾶν & Korban & 各耳板 & 7:11，亞蘭文借詞，「奉獻之物」 \\
+κράβαττος & krabattos & 褥子 & 2:4, 9, 11-12 \\
+κυνάρια & kynaria & 小狗 & 7:27-28，家中飼養的小狗，語氣溫和 \\
+λεγιών & legiōn & 群、羅馬軍團 & 5:9，一個軍團可達六千人 \\
+λύτρον ἀντὶ πολλῶν & lytron anti pollōn & 作多人的贖價 & 10:45，全書神學核心 \\
+μετάνοια & metanoia & 悔改 & 1:4, 15，字面「心思的轉向」 \\
+μυστήριον & mystērion & 奧祕 & 4:11「神國的奧祕」 \\
+ὁ υἱὸς τοῦ ἀνθρώπου & ho huios tou anthrōpou & 人子 & 2:10, 28；8:31, 38；10:45；13:26；14:62，取自但7:13-14 \\
+ὁ Χριστός & ho Christos & 基督 & 8:29，彼得的宣告，「受膏者」的希臘文對應詞 \\
+παιδίσκη & paidiskē & 使女 & 14:66-69，指認彼得的女僕 \\
+πειράζω & peirazō & 試探、試驗 & 1:13；8:11；10:2；12:15 \\
+πεπωρωμένη & pepōrōmenē & 剛硬、麻木 & 6:52；8:17，字面指心臟外層組織變得堅硬 \\
+πίστις / πιστεύω & pistis / pisteuō & 信、信心 & 2:5；4:40；5:34；9:23-24；11:22-24 全書貫穿 \\
+πτωχός χήρα & ptōchos chēra & 窮寡婦 & 12:42-43 \\
+ῥαφίς & rhaphis & 針 & 10:25「駱駝穿過針眼」 \\
+σκανδαλίζω & skandalizō & 使跌倒 & 4:17；9:42-47，字面「設下絆腳的機關」 \\
+σπλαγχνίζομαι & splanchnizomai & 動了慈心／憐憫 & 1:41；6:34；8:2，新約中形容憐憫最強烈的詞之一 \\
+σταυρός & stauros & 十字架 & 8:34；15:21-32 \\
+σχίζω & schizō & 撕裂、裂開 & 1:10；15:38，全書首尾呼應的文學記號 \\
+Ταλιθα κουμ & Talitha koum & 大利大，古米 & 5:41，亞蘭文，馬可保留耶穌原本說話語言的例子之一 \\
+τηλαυγῶς & tēlaugōs & 清楚地 & 8:25，字面「從遠處清晰可見」 \\
+ὑπάγε ὀπίσω μου & hypage opisō mou & 退到我後邊去 & 8:33，原本是呼召門徒的用語，重新校正彼得的位置 \\
+Φαρισαῖος / Ἡρῳδιανοί & Pharisaios / Hērōdianoi & 法利賽人／希律黨人 & 3:6；12:13，平時對立卻聯手抵擋耶穌 \\
+zōmē (ζύμη) & zymē & 酵 & 8:15，象徵擴散滲透的敗壞影響 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX I: READING PLAN
+%% ============================================
+\chapter*{附錄九：馬可福音讀經計劃 (Appendix I: A Reading Plan for the Gospel of Mark)}
+\addcontentsline{toc}{chapter}{附錄九：馬可福音讀經計劃 (Appendix I: A Reading Plan for the Gospel of Mark)}
+\markboth{}{}
+
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{ChapterRed} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}
+重要的不是\textit{讀完}，是\textit{遇見}。\\
+若某一日的話打中你——停下來，在那裡住一天。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+\noindent 本計劃依全書四部結構分為四週，並在第一週提供序言的逐段精讀法。
+
+\section*{第一週：序言精讀 (1:1-13) —— 三段三個焦點}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{段落} & \textbf{焦點} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+1:1-8 & 先鋒的預備 & 我的服事，是把目光導向自己，還是導向那位「比我更大」的？ \\
+1:9-11 & 天父的印證 & 我的身分認同，是建立在「我做了什麼」，還是「我是誰」？ \\
+1:12-13 & 曠野的得勝 & 蒙恩之後，我是否也預備好在缺乏中經歷試煉？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第二週：加利利事工 (1:14-8:26)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+1-2 & 呼召門徒／五次衝突 & 我對耶穌的權柄，是接受，還是像法利賽人一樣質疑？ \\
+3-4 & 揀選十二／天國比喻與平靜風浪 & 「連風和海都聽從他」——這對我此刻的難處意味著什麼？ \\
+5-6 & 格拉森鬼附／拿撒勒厭棄 & 我是否也曾因「太熟悉」而看不見神在身邊人身上的作為？ \\
+7-8上 & 潔淨的真義／四千人吃飽 & 我的信仰，是外在的儀文，還是內心真實的更新？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第三週：走向耶路撒冷 (8:27-10:52)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+8下 & 彼得認信／第一次預言受難 & 我對耶穌的認識，只停在「祂是誰」，還是也接受「祂要我付上的代價」？ \\
+9 & 登山變像／第二次預言受難 & 屬靈的高峰經歷之後，我是否活出謙卑服事的樣式？ \\
+10 & 休妻論／財主／第三次預言受難 & 10:45——今天，我願不願意也這樣服事？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第四週：受難與復活 (11:1-16:20)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+11 & 榮進耶路撒冷／潔淨聖殿 & 我的信仰生活，是「有葉無果」，還是結出真實的果子？ \\
+12 & 兇惡園戶／辯論問答 & 我對神的產業（時間、金錢、恩賜），是忠心管理，還是暗自據為己有？ \\
+13 & 橄欖山末世講論 & 我今天的生活，是否活出「隨時預備好」的儆醒狀態？ \\
+14 & 最後晚餐／客西馬尼／被捕 & 「不是照我所願的，而是照你所願的」——我今天願意這樣禱告嗎？ \\
+15 & 審判／十字架／埋葬 & 「這人真是神的兒子」——我看見了嗎？ \\
+16 & 復活／顯現／升天 & 讀完整卷書，我會如何用自己的話，總結這位僕人基督對我生命的意義？ \\
+\bottomrule
+\end{longtable}
+}
+
+%% ============================================
+%% BACK COVER PAGE
+%% ============================================
+\cleardoublepage
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.2pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ChapterRed, line width=0.4pt, opacity=0.6]
+    ([xshift=0.52in,yshift=0.52in]current page.south west)
+    rectangle
+    ([xshift=-0.52in,yshift=-0.52in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[JesusRed] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.016in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{\fill}
+
+{\fontsize{15}{18}\selectfont\scshape\color{ChapterRed} Υἱὸς Θεοῦ}\\[0.10cm]
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``Son of God'' \;\;
+\bfseries\color{JesusRed} 神的兒子}
+
+\vspace{0.25cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.35cm}
+
+{\normalsize\bfseries\color{ChapterRed} 關於本書 \;\; \footnotesize\scshape About This Book}
+
+\vspace{0.2cm}
+\noindent\begin{minipage}{4.7in}
+\footnotesize\color{TextGray}
+本書逐章研讀馬可福音十六章，整合黃長老查經教導、
+John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
+並貫通四福音、以賽亞書與希伯來書。
+全書以馬可福音 1:1 為總綱起點、10:45 為心臟：
+「神的兒子，耶穌基督福音的起頭」——
+「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。」\\[0.4em]
+{\itshape
+A chapter-by-chapter study of all sixteen chapters of Mark's Gospel,
+integrating Elder Wong's teaching, John MacArthur's verse-by-verse
+exposition, and G. Campbell Morgan's spiritual analysis —
+framed by Mark 1:1's declaration of sonship and 10:45's declaration
+of the Servant's mission.}
+\end{minipage}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterRed} 先做兒子，才能作僕人 \;\; Son First, Then Servant}\\[0.3em]
+{\footnotesize\color{TextGray}
+1:1 神的兒子 \textbullet\ 1:11 蒙愛的兒子 \textbullet\ 8:29 你是基督\\
+8:31 人子必須受苦 \textbullet\ 10:45 捨命作贖價 \textbullet\ 15:39 這人真是神的兒子}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「神的兒子，耶穌基督福音的起頭……因為人子來，並不是要受人的服事，\\
+乃是要服事人，並且要捨命，作多人的贖價。」}\\[0.15cm]
+{\scriptsize\color{ChapterRed} — 馬可福音 1:1, 10:45}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
 
 \end{document}
