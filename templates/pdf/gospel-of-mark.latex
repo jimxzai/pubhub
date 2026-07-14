@@ -697,7 +697,7 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本 (CUV)，經文核對 ai-eden.com/bible/mark\\
+中文：和合本修訂版 (RCUV)，經文核對 ai-eden.com/bible/mark\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
@@ -929,7 +929,7 @@ $body$
 \section*{聖經版本與經文核對 Bible Versions \& Cross-Reference}
 
 \begin{itemize}
-\item 中文：和合本 (Chinese Union Version, CUV)
+\item 中文：和合本修訂版 (Revised Chinese Union Version, RCUV)，逐章經文核對 ai-eden.com/bible/mark 之和合本 (CUV) 文字
 \item English: English Standard Version (ESV)
 \item 逐章經文核對：ai-eden.com/bible/mark
 \item 原文參考：Nestle-Aland 28th Edition (NA28); UBS Greek New Testament 5th Edition

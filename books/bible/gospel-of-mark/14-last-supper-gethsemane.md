@@ -14,7 +14,7 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-這是馬可福音中最長、也最情感濃烈的一章。一個女人打破玉瓶，把極貴的香膏澆在耶穌頭上，耶穌稱這是「為了我的安葬」預先所做的美事；同一時刻，十二使徒之一的猶大，卻正去見祭司長，商議如何出賣他。逾越節的宴席上，耶穌拿起餅和杯，宣告「這是我的身體」「這是我立約的血，為許多人流出來的」——古老的逾越節，就此被賦予全新的意義。客西馬尼園裏，僕人基督「驚恐起來，極其難過」，俯伏禱告：「阿爸，父啊……求你將這杯撤去。然而，不是照我所願的，而是照你所願的」——祂在完全的順服裏，走向十字架。門徒逃走，彼得三次不認主，雞叫的那一刻，他「忍不住哭了」。這一章把愛與背叛、順服與軟弱、忠心與失敗，全都放進同一個逾越節的夜晚。
+這是馬可福音中最長、也最情感濃烈的一章。一個女人打破玉瓶，把極貴的香膏澆在耶穌頭上，耶穌稱這是「為了我的安葬」預先所做的美事；同一時刻，十二使徒之一的猶大，卻正去見祭司長，商議如何出賣祂。逾越節的宴席上，耶穌拿起餅和杯，宣告「這是我的身體」「這是我立約的血，為許多人流出來的」——古老的逾越節，就此被賦予全新的意義。客西馬尼園裏，僕人基督「驚恐起來，極其難過」，俯伏禱告：「阿爸，父啊……求你將這杯撤去。然而，不是照我所願的，而是照你所願的」——祂在完全的順服裏，走向十字架。門徒逃走，彼得三次不認主，雞叫的那一刻，他「忍不住哭了」。這一章把愛與背叛、順服與軟弱、忠心與失敗，全都放進同一個逾越節的夜晚。
 
 ---
 
@@ -78,7 +78,7 @@ publisher: 三書精讀出版系統
 
 > ^53^And they led Jesus to the high priest. And all the chief priests and the elders and the scribes came together. ^54^And Peter had followed him at a distance, right into the courtyard of the high priest. And he was sitting with the guards and warming himself at the fire. ^55^Now the chief priests and the whole council were seeking testimony against Jesus to put him to death, but they found none. ^56^For many bore false witness against him, but their testimony did not agree. ^57^And some stood up and bore false witness against him, saying, ^58^"We heard him say, 'I will destroy this temple that is made with hands, and in three days I will build another, not made with hands.'" ^59^Yet even about this their testimony did not agree. ^60^And the high priest stood up in the midst and asked Jesus, "Have you no answer to make? What is it that these men testify against you?" ^61^But he remained silent and made no answer. Again the high priest asked him, "Are you the Christ, the Son of the Blessed?" ^62^And Jesus said, \jesus{"I am, and you will see the Son of Man seated at the right hand of Power, and coming with the clouds of heaven."} ^63^And the high priest tore his garments and said, "What further witnesses do we need? ^64^You have heard his blasphemy. What is your decision?" And they all condemned him as deserving death. ^65^And some began to spit on him and to cover his face and to strike him, saying to him, "Prophesy!" And the guards received him with blows.
 
-> ^66^And as Peter was below in the courtyard, one of the servant girls of the high priest came, ^67^and seeing Peter warming himself, she looked at him and said, "You also were with the Nazarene, Jesus." ^68^But he denied it, saying, "I neither know nor understand what you mean." And he went out into the gateway and the rooster crowed. ^69^And the servant girl saw him and began again to say to the bystanders, "This man is one of them." ^70^But again he denied it. And after a little while the bystanders again said to Peter, "Certainly you are one of them, for you are a Galilean." ^71^But he began to invoke a curse on himself and to swear, "I do not know this man of whom you speak." ^72^And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, "Before the rooster crows twice, you will deny me three times." And he broke down and wept.
+> ^66^And as Peter was below in the courtyard, one of the servant girls of the high priest came, ^67^and seeing Peter warming himself, she looked at him and said, "You also were with the Nazarene, Jesus." ^68^But he denied it, saying, "I neither know nor understand what you mean." And he went out into the gateway and the rooster crowed. ^69^And the servant girl saw him and began again to say to the bystanders, "This man is one of them." ^70^But again he denied it. And after a little while the bystanders again said to Peter, "Certainly you are one of them, for you are a Galilean." ^71^But he began to invoke a curse on himself and to swear, "I do not know this man of whom you speak." ^72^And immediately the rooster crowed a second time. And Peter remembered how Jesus had said to him, \jesus{"Before the rooster crows twice, you will deny me three times."} And he broke down and wept.
 
 ---
 
@@ -148,7 +148,7 @@ publisher: 三書精讀出版系統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-論到最後晚餐，加爾文強調：「餅被稱為他的身體，是因為它是基督身體的記號」——他藉此駁斥將餅本身等同於基督肉身的教義；他勸勉信徒，領受聖餐前「當各自思想，自己的罪已經藉此得了贖」。論到客西馬尼，他寫道：「若我們因基督經歷懼怕與憂傷而感到羞愧，我們的救贖就要落空、喪失」——祂的受苦，「是甘心樂意的，是為了成就父的旨意，也是為了我們的救恩」。論到門徒的沉睡，他指出這反映了「人性普遍的軟弱」——「連片刻都不能與我警醒」的責備，同樣適用於每一個信徒。
+論到最後晚餐，加爾文強調：「餅被稱為祂的身體，是因為它是基督身體的記號」——他藉此駁斥將餅本身等同於基督肉身的教義；他勸勉信徒，領受聖餐前「當各自思想，自己的罪已經藉此得了贖」。論到客西馬尼，他寫道：「若我們因基督經歷懼怕與憂傷而感到羞愧，我們的救贖就要落空、喪失」——祂的受苦，「是甘心樂意的，是為了成就父的旨意，也是為了我們的救恩」。論到門徒的沉睡，他指出這反映了「人性普遍的軟弱」——「連片刻都不能與我警醒」的責備，同樣適用於每一個信徒。
 > — John Calvin, *Commentary on a Harmony of the Evangelists*
 
 ### 當代釋經
@@ -183,11 +183,10 @@ publisher: 三書精讀出版系統
 
 **你看見耶穌了嗎**：在接受奢華奉獻的溫柔裏、在設立聖餐宣告自己身體與血的莊嚴裏、在客西馬尼極度痛苦卻仍完全順服的禱告裏、在被出賣被捕卻依然鎮定的權柄裏，你看見的，是那位甘願走上十字架、卻不是被迫、而是甘心順服父旨意的基督——祂知道軟弱的滋味，也親自為軟弱的門徒（包括你我）代求。
 
-### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
+### 華人教會處境應用 (Application for the Chinese Church)
 
 - **14:3-9 把最好的給主，不是浪費，而是最高的智慧**：華人文化講求「實用」與「性價比」，這女人的奉獻卻示範了：對基督毫無保留的敬拜，本身就是最高的智慧與價值，不能用世俗的效益衡量。
 - **14:50 門徒都逃走——在壓力下我們可能也會**：華人文化重視「忠誠」與「義氣」，門徒的逃跑提醒我們：在真正的壓力測試下，人的忠誠往往比自己想像的更脆弱，唯有倚靠主才能站立得住。
-> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
 
 ---
 
@@ -207,32 +206,6 @@ publisher: 三書精讀出版系統
 > 我說：「但願我有翅膀像鴿子，我就飛去，得享安息。」
 > 至於我，我要求告神；耶和華必拯救我。
 > 我要晚上、早晨、晌午哀聲悲歎；他也必聽我的聲音。
-
----
-
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
-
-### 全經連線 (Tracing It Through Scripture)
-
-耶穌設立聖餐時宣告「這是我立約的血」，直接呼應出埃及記24:8摩西在西奈山下用祭牲的血「灑在百姓身上」、宣告「這是耶和華與你們立約的血」——舊約的立約之血指向動物的犧牲，如今耶穌親自成為那立約之血的終極獻祭，開啟了耶利米書31:31所應許的「新約」。另一條線索：以賽亞書53:7「他被欺壓，在受苦的時候卻不開口；他像羔羊被牽去宰殺」——耶穌在該亞法面前「不言語，一句也不回答」，正是這受苦僕人異象的具體應驗。
-
-### 提問式對話 (Let the Reader Speak)
-
-先問：那女人打破玉瓶、傾倒全部香膏，被批評為「浪費」——你今天對基督的敬拜與奉獻，是計算著「值不值得」，還是像她一樣不計代價？
-再問：彼得在晚餐時信誓旦旦「必不會不認你」，卻在幾小時後三次否認——你有沒有經歷過類似的落差：口頭上信心滿滿，行動上卻軟弱跌倒？
-再問：「阿爸，父啊……然而不是照我所願的，而是照你所願的」——你此刻的處境，有沒有一句禱告，是你還沒有真正說出口的？
-
-### 活在今天 · AI時代 (Living It Today)
-
-這個時代講求效率與「性價比」，凡事先問值不值得。那女人打破玉瓶的舉動，若放到今天的評論區，大概率會被說「浪費」「不理性」——但耶穌稱之為「美事」。有些敬拜，本來就不該用效益去衡量。
-
-### 今天的祭壇 (Today's Altar)
-
-為一件你知道自己容易失敗的軟弱，具體地花時間禱告，而不是單憑決心——今天就安排一段禱告的時間，而不是等到危機來臨才禱告。
-
-## 黃長老精義 (The Distilled Key)
-
-耶穌在客西馬尼三次禱告「將這杯撤去，然而不是照我所願的」，彼得卻三次不認主——同一個夜晚，一個在極度痛苦中選擇順服，一個在輕微的壓力下選擇背棄；順服從來不是靠人的堅強，而是靠與父深厚的相交。
 
 ---
 

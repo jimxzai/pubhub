@@ -163,7 +163,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -182,6 +182,8 @@ publisher: 三書精讀出版系統
 ### 今天的祭壇 (Today's Altar)
 
 今天誠實地問自己一個問題：我正在推動的這項服事或計劃，是出於已經被熬煉過的生命，還是急於求成、尚未經過曠野的產出？把這個問題帶到禱告裏，求聖靈光照——若有需要「先停下、先被熬煉」的地方，願意誠實面對，而不是急著往前衝。
+
+---
 
 ## 黃長老精義 (The Distilled Key)
 

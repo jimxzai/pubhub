@@ -163,11 +163,6 @@ publisher: 三書精讀出版系統
 
 **你看見耶穌了嗎**：在預言聖殿被毀的坦然裏、在應許聖靈同在的信實裏、在宣告自己必要帶著大能力和榮耀降臨的確據裏，你看見的，是那位掌管歷史、卻選擇不透露確切時間表、只呼召祂的門徒忠心儆醒的基督——祂沒有應許你能預知一切，但祂應許祂必再來，且要你隨時預備好。
 
-### 沈保羅牧師的華人處境洞見 (Pastor Shen's Insight for the Chinese Church)
-
-- **13:33-37 對華人教會在末世中的「警醒」呼召**：華人文化習慣為未來精密籌劃、講求掌控感，這段經文卻挑戰我們：面對無法掌控、無法預知的末後時刻，儆醒等候本身就是一種信心的操練。
-> — 沈保羅牧師 (Pastor Shen), ai-eden.com 馬可福音研讀
-
 ---
 
 ## 配詩 (Hymns & Psalms)
@@ -209,7 +204,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
 
 ### 全經連線 (Tracing It Through Scripture)
 
