@@ -22,6 +22,22 @@
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
 
 %% ============================================
+%% GREEK / HEBREW WORD-STUDY FALLBACK FONT
+%% Songti SC has no polytonic Greek or Hebrew glyphs; auto-switch by
+%% Unicode block so inline word studies (e.g. ὀλιγόπιστος, קָרְבָּן)
+%% render instead of showing as missing-glyph warnings. Arial Unicode MS
+%% is used because it actually contains these glyphs on this system
+%% (STIX Two Text, despite its reputation, does not). Transition commands
+%% are plain font switches (no \begingroup/\endgroup) — nesting TeX groups
+%% here breaks brace-matching inside \textbf{...} spans elsewhere in the book.
+%% ============================================
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Arial Unicode MS}
+\newfontfamily\hebrewfont{Arial Unicode MS}
+\setTransitionsForGreek{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% ============================================
 %% PAGE GEOMETRY - Fixed margins (more conservative)
 %% ============================================
 \usepackage{geometry}
