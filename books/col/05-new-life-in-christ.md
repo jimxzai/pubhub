@@ -97,7 +97,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟論1-2節「求在上面的事……思念上面的事」：「在我們能接觸這世界之前，我們必須先離開這世界」——這是一個看似矛盾、卻是全段的起手式的原則。他把3節「你們的生命與基督一同藏在神裡面」讀成身分的宣告，而非努力的目標：「你的生命，與基督一同藏在神裡面」——這是信徒已經擁有、無法被奪去的安全處境。
 
-> 出處：John MacArthur, "Living the Risen Life" (Colossians 3:1-4), gty.org, 1976年9月26日
+> 出處：John MacArthur, "Living the Risen Life" (Colossians 3:1-4), gty.org, 1976年9月26日 — https://www.gty.org/library/sermons-library/2145/living-the-risen-life
 
 *本節暫無 G. Campbell Morgan 對歌羅西書第三章的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
 

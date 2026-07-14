@@ -98,7 +98,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟指出，6節「結果，增長」描述的是福音的兩個同步動作——「不僅是內在結果子，也向外擴展，這是兩個概念」。福音進入一個生命，不是一套倫理系統，而是一種轉化的能力：「它像一顆芥菜種的內在能量，會擴散生長」。麥克阿瑟由此區分：個人生命的內在成聖，與教會整體的外在增長，是同一個福音的兩面。
 
-> 出處：John MacArthur, "The Gospel Truth" (Colossians 1:3-8), gty.org, 1976年2月15日
+> 出處：John MacArthur, "The Gospel Truth" (Colossians 1:3-8), gty.org, 1976年2月15日 — https://www.gty.org/library/sermons-library/2131/the-gospel-truth
 
 ### 摩根：從赦免到敬拜與服事 (G. Campbell Morgan)
 

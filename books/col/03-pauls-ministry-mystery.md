@@ -99,7 +99,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟解釋，27節的「奧祕」不是指某種神祕、隱晦的知識，而是「過去隱藏、如今在新約已經顯明」的舊約真理——不是新發明的教義，是揭開了的實情。他把這奧祕的核心濃縮成一句反問：「神想要住進你裡面。你還能求什麼更多的？」對外邦信徒而言，這是前所未有的財富：「我們是富足的，因為身為外邦人、身為教會的一員，基督住在我們裡面」——這是舊約聖徒未曾得見的實際。
 
-> 出處：John MacArthur, "Paul's Ministry: The Mystery of Christ in You" (Colossians 1:26-29), gty.org, 1976年5月2日
+> 出處：John MacArthur, "Paul's Ministry: The Mystery of Christ in You" (Colossians 1:26-29), gty.org, 1976年5月2日 — https://www.gty.org/library/sermons-library/2138/pauls-ministry-the-mystery-of-christ-in-you
 
 ### 摩根：基督在你心裡，是先知也是盼望 (G. Campbell Morgan)
 

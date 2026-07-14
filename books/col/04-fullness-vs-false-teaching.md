@@ -119,7 +119,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟論2:8的「理學和虛空的妄言」：「哲學是空虛的騙局。它給不出你所期待的」——聽起來深奧，結果卻是空的承諾。他也直指「傳統」本身沒有自我證明的能力：「傳下來的不代表就是真的。如果一開始就是錯的，一代一代傳下去，也不會因此變得更好」。麥克阿瑟把2:10「你們在他裡面也得了豐盛」讀成一個完成的宣告：「你在祂裡面已經完全了」——不需要另一套知識體系來補足。他把整段濃縮成一個抉擇：「人人都要選——你可以選擇人的哲學……或者你可以來到耶穌基督面前，被祂從這世界裡救拔出來」。
 
-> 出處：John MacArthur, "Philosophy or Christ?" (Colossians 2:8-10), gty.org, 1976年7月11日
+> 出處：John MacArthur, "Philosophy or Christ?" (Colossians 2:8-10), gty.org, 1976年7月11日 — https://www.gty.org/library/sermons-library/2141/philosophy-or-christ
 
 ### 摩根：君王也是祭司，神性有形有體 (G. Campbell Morgan)
 

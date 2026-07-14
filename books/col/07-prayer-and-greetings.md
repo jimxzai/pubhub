@@ -97,7 +97,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟論這份問安名單時說：「他不能靠自己一個人做——沒有人能夠，即使是最好的——即使使徒保羅也不能單獨完成，他必須有朋友的幫助」。他逐一點出這些同工的性格：論推基古，「他是一個忠心的僕人。他從未出名，他只是服事」；論以巴弗的禱告生活，「他跪著懇切禱告，是持續的、迫切的、有功效的、火熱的禱告」；論底馬的離去（14節），他直接引用經文本身的評語作結：「底馬因貪愛現今的世界，就離棄我，往帖撒羅尼迦去了」——一句話點出整卷書「基督已得勝」與「仍會有人被世界奪回」這兩個張力並存的現實。
 
-> 出處：John MacArthur, "With a Little Help from My Friends" (Colossians 4:7-18), gty.org, 1976年12月5日
+> 出處：John MacArthur, "With a Little Help from My Friends" (Colossians 4:7-18), gty.org, 1976年12月5日 — https://www.gty.org/library/sermons-library/2152/with-a-little-help-from-my-friends
 
 *本節暫無 G. Campbell Morgan 對歌羅西書第四章的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
 

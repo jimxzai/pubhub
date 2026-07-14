@@ -94,7 +94,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟把18-19節讀成一組配對命令：「你們作妻子的，要順服自己的丈夫，這在主裡面是相宜的」，對照「你們作丈夫的，要持續愛你們的妻子，不要苦毒相待」——他特別強調「持續」（keep on loving）的時態：愛不是一次性的決定，是每天更新的動作，用來對治積累的苦毒。論20-21節，他把兒女的命令濃縮為一個字：「兒女，要凡事聽從父母……這是主所喜悅的」；父親的命令則是一連串警告的總和：「不要惹你兒女的氣，免得他們灰心喪志」——過度保護、偏心、情緒失控，都可能是「惹氣」的具體形式。
 
-> 出處：John MacArthur, "The New Man Makes a New Home" (Colossians 3:18-4:1), gty.org, 1976年11月7日
+> 出處：John MacArthur, "The New Man Makes a New Home" (Colossians 3:18-4:1), gty.org, 1976年11月7日 — https://www.gty.org/library/sermons-library/2149/the-new-man-makes-a-new-home
 
 *本節暫無 G. Campbell Morgan 對歌羅西書第三章的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
 

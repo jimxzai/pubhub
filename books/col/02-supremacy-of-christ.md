@@ -93,7 +93,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟逐句朗讀這首基督頌，強調每一句都在堆疊同一個結論：「祂是那不能看見之神的像，是首生的，在一切被造的以先」——「因祂造了天上地上一切看得見、看不見的」——「神本性一切的豐盛都有形有體地居住在祂裡面」——「祂是教會全體之首，是元始，是從死裡首先復生的，使祂可以在凡事上居首位」。麥克阿瑟認為這四句合起來，是新約中最濃縮的基督位格宣告之一：創造之首、教會之首、復活之首，三重「首位」缺一不可。
 
-> 出處：John MacArthur, "Christ Above All" (Colossians 1:15-19), gty.org, 1976年3月28日
+> 出處：John MacArthur, "Christ Above All" (Colossians 1:15-19), gty.org, 1976年3月28日 — https://www.gty.org/library/sermons-library/2135/christ-above-all
 
 ### 摩根：頭銜、和平與十字架 (G. Campbell Morgan)
 

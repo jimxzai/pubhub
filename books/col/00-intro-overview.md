@@ -83,7 +83,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 麥克阿瑟也提醒：歌羅西教會當時還沒有全面接受這異端，只是「迫在眉睫的危險」——保羅寫這封信是預防，不是事後糾正已經淪陷的教會。
 
-> 出處：John MacArthur, "Introduction to Colossians" (Colossians 1:1-2), gty.org, 1976年2月8日
+> 出處：John MacArthur, "Introduction to Colossians" (Colossians 1:1-2), gty.org, 1976年2月8日 — https://www.gty.org/library/sermons-library/2130/introduction-to-colossians
 
 *本節暫無 G. Campbell Morgan 對歌羅西書整體導論的獨立講章可查證引用，故此處僅列麥克阿瑟一方資源。*
 
