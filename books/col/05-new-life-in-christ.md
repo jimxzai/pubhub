@@ -10,6 +10,8 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 **經文核對**：[ai-eden.com/bible/colossians/3](https://www.ai-eden.com/bible/colossians/3?t=CUV,ESV&cols=2)
 
+---
+
 ## 基督焦點 (Christ at the Center)
 
 這一段所有的命令，都掛在一句宣告之下：「基督是我們的生命」（3:4）。不是基督給你生命，是基督本身就是你的生命——你已與祂一同復活，你的生命已與祂一同藏在神裡面。脫下舊人、穿上新人，不是道德改造工程，是回應一個已經與你聯合的基督；祂坐在神的右邊，也住在你裡面，又是那使一切區分失效的「一切」（3:11）。
@@ -51,7 +53,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 | *apekdyomai* | apekdyomai | 徹底脫去 | 3:9，比一般「脫」（ἐκδύω）語氣更強，呼應洗禮意象 |
 | *endyō* | endyō | 穿上 | 3:10、3:12，與「脫去」相對的穿衣意象 |
 | *anakainoō* | anakainoō | 更新 | 3:10，「這新人在知識上漸漸更新」，持續進行式 |
-| *plousiōs* | plousiōs | 豐豐富富地 | 3:16，與1:19、2:9的「豐盛」（plērōma）同一字根 |
+| *plousiōs* | plousiōs | 豐豐富富地 | 3:16，字根雖與1:19、2:9的「豐盛」（plērōma）不同（plousiōs出自ploutos「財富」），但呼應同一個「豐盛」主題 |
 
 ---
 

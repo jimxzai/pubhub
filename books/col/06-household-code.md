@@ -10,6 +10,8 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 **經文核對**：[ai-eden.com/bible/colossians/3](https://www.ai-eden.com/bible/colossians/3?t=CUV,ESV&cols=2) ｜ [colossians/4](https://www.ai-eden.com/bible/colossians/4?t=CUV,ESV&cols=2)
 
+---
+
 ## 基督焦點 (Christ at the Center)
 
 六種身分、六段關係，卻只有一位「主」貫穿全段——「在主裡面」「主所喜悅」「敬畏主」「給主做的」「你們所事奉的乃是主基督」「你們也有一位主在天上」。基督不是在教會裡才作主，祂要進到婚姻裡、進到親子關係裡、進到僕人與主人的日常勞動裡。祂不只是你敬拜的對象，祂是廚房裡、辦公室裡那位看得見一切、卻從不偏待人的主。
@@ -44,7 +46,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
 |--------|------|------|----------|
-| *kyrios* | kyrios | 主 | 3:18, 20, 22, 23, 24(x2), 4:1——貫穿全段的關鍵詞，六次出現框住六種身分 |
+| *kyrios* | kyrios | 主 | 3:18, 20, 22(x2), 23, 24(x2), 4:1——貫穿全段的關鍵詞，八次出現框住六種身分 |
 | *anēkō* | anēkō | 相宜、合宜 | 3:18，「在主裡面」才成立的順服 |
 | *erethizō* | erethizō | 惹動、持續刺激 | 3:21，父親不可對兒女做的事 |
 | *doulos* | doulos | 僕人、奴僕 | 3:22，初代教會奴僕與主人同席敬拜的實際處境 |

@@ -10,6 +10,8 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 **經文核對**：[ai-eden.com/bible/colossians/2](https://www.ai-eden.com/bible/colossians/2?t=CUV,ESV&cols=2)
 
+---
+
 ## 基督焦點 (Christ at the Center)
 
 這一段的每一次「不可」，背後都站著同一個「已經」：你不需要哲學，因為神本性一切的豐盛已有形有體地住在基督裡面；你不需要另一種割禮，因為基督的割禮已經使你脫去了肉體的轄制；你不需要懼怕執政掌權的，因為基督已在十字架上將牠們公開擄來、誇勝。假教訓的每一個「加法」，都在向這一位已經完全的基督說：你還不夠。保羅的整段反駁，只在證明一件事：你所懼怕、所渴慕的，早已經在祂裡面了。
@@ -57,7 +59,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
 |--------|------|------|----------|
-| *plērōma* | plērōma | 豐盛、完全的容量 | 2:9、2:10；全書關鍵詞（另見1:19），姊妹書信以弗所書也反覆使用（弗1:23、3:19、4:13） |
+| *plērōma* | plērōma | 豐盛、完全的容量 | 名詞見於2:9（另見1:19）；2:10則用同字根的動詞πεπληρωμένοι（「得了豐盛」）；姊妹書信以弗所書也反覆使用（弗1:23、3:19、4:13） |
 | *sōmatikōs* | sōmatikōs | 有形有體地 | 2:9，全新約僅此一次，強調神性「實體地」居住在基督裡 |
 | *thriambeuō* | thriambeuō | 誇勝、公開凱旋遊行 | 2:15，羅馬軍事凱旋式的意象 |
 | *cheirographon* | cheirographon | 債務字據 | 2:14，指控告人的律法字據 |
@@ -131,7 +133,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ## 配詩 (Hymns & Psalms)
 
-**聖詩**：*Crown Him with Many Crowns*（萬冠歸主）by Matthew Bridges, 1851
+**聖詩**：*Crown Him with Many Crowns*（萬千冠冕，歸與基督）by Matthew Bridges, 1851
 
 > Crown Him with many crowns, the Lamb upon His throne;
 > Hark! how the heavenly anthem drowns all music but its own!
