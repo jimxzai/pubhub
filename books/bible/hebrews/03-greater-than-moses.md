@@ -6,9 +6,16 @@ date: 2025年12月
 publisher: 三書精讀出版系統
 ---
 
-# 基督超越摩西 (Christ Greater Than Moses)
+# 基督超越摩西
+## Hebrews 3:1-19 — Christ Greater Than Moses
 
-希伯來書 3:1-19
+**經文核對**：[ai-eden.com/bible/hebrews/3](https://www.ai-eden.com/bible/hebrews/3?t=CUV,ESV&cols=2)
+
+---
+
+## 基督焦點 (Christ at the Center)
+
+作者一開篇就給讀者一個動詞：「思想」（κατανοέω）——不是隨便想想，是專注、仔細地注視耶穌（3:1）。這章表面上是在比較耶穌與摩西誰更配得榮耀，骨子裡卻是在問一個更尖銳的問題：你今天信靠的，是一位曾經忠心服事神家的僕人，還是那位親自治理、擁有這個家的兒子？摩西再偉大，也只是「將來必傳說的事」的見證人（3:5）；耶穌不是見證那件事，祂自己就是那件事的成就。整章從「思想耶穌」開始，最後落在「不信的緣故」（3:19）——因為真正的危機從來不是資訊不夠，是心沒有定睛在那位配得思想的耶穌身上。
 
 ---
 
@@ -35,106 +42,46 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-**基督超越摩西 (3:1-6)**
-
-> ^1^所以，蒙天召的聖潔弟兄啊，你們要思想我們所宣認為使者、為大祭司的耶穌。^2^他向那立他的盡忠，如同摩西在神的全家盡忠一樣。^3^他比摩西配得更多的榮耀，好像建造房屋的比房屋更尊榮。^4^因為每座房屋都必有人建造，但建造萬物的就是神。^5^摩西作為僕人，在神的全家誠然盡忠，為要證明將來要傳說的事。^6^但基督作為兒子，治理神的家。**我們若將可誇的盼望和膽量堅持到底，就是神的家了。**
-
-**第二警告：以色列人的鑑戒 (3:7-19)**
-
-> ^7^所以，正如聖靈所說：「**你們今日若聽他的話，就不可硬著心，**^8^像在曠野惹他發怒、試探他的時候一樣。^9^在那裏，你們的祖宗試我探我，並且觀看我的作為有四十年之久。^10^所以，我厭煩那世代的人，說：他們心裏時常迷糊，竟不曉得我的道路！^11^我就在怒中起誓說：他們絕不可進入我的安息。」
-
-> ^12^弟兄們，你們要謹慎，免得你們中間有人存著不信的惡心，把永生神離棄了。^13^總要趁著還有今日，天天彼此相勸，免得你們中間有人被罪迷惑，心裏就剛硬了。^14^**我們若將起初確實的信心堅持到底，就在基督裏有份了。**
-
-> ^15^經上說：「你們今日若聽他的話，就不可硬著心，像惹他發怒的日子一樣。」^16^那時，聽見他話惹他發怒的是誰呢？豈不是跟著摩西從埃及出來的眾人嗎？^17^神四十年之久厭煩誰呢？豈不是那些犯罪，屍首倒在曠野的人嗎？^18^又向誰起誓，不容他們進入他的安息呢？豈不是向那些不順從的人嗎？^19^這樣看來，**他們不能進入安息是因為不信的緣故了。**
+> **希伯來書 3:1-19**（和合本）
+>
+> 1 同蒙天召的聖潔弟兄啊，你們應當思想我們所認為使者、為大祭司的耶穌。
+> 2 他為那設立他的盡忠，如同摩西在神的全家盡忠一樣。
+> 3 他比摩西算是更配多得榮耀，好像建造房屋的比房屋更尊榮。
+> 4 因為房屋都必有人建造，但建造萬物的就是神。
+> 5 摩西為僕人，在神的全家誠然盡忠，為要證明將來必傳說的事；
+> 6 但基督為兒子，治理神的家。**我們若將可誇的盼望和膽量堅持到底，便是他的家了。**
+> 7 聖靈有話說：「**你們今日若聽他的話，**
+> 8 就不可硬著心，像在曠野惹他發怒、試探他的時候一樣。
+> 9 在那裡，你們的祖宗試我探我，並且觀看我的作為有四十年之久。
+> 10 所以，我厭煩那世代的人，說：『他們心裡常常迷糊，竟不曉得我的作為。』
+> 11 我就在怒中起誓說：『他們斷不可進入我的安息。』」
+> 12 弟兄們，你們要謹慎，免得你們中間或有人存著不信的惡心，把永生神離棄了。
+> 13 總要趁著還有今日，天天彼此相勸，免得你們中間有人被罪迷惑，心裡就剛硬了。
+> 14 **我們若將起初確實的信心堅持到底，就在基督裡有份了。**
+> 15 經上說：「你們今日若聽他的話，就不可硬著心，像惹他發怒的日子一樣。」
+> 16 那時聽見他話惹他發怒的是誰呢？豈不是跟著摩西從埃及出來的眾人嗎？
+> 17 神四十年之久又厭煩誰呢？豈不是那些犯罪屍首倒在曠野的人嗎？
+> 18 又向誰起誓，不容他們進入他的安息呢？豈不是向那些不信從的人嗎？
+> 19 這樣看來，**他們不能進入安息是因為不信的緣故了。**
 
 ### English — ESV
 
-> ^1^Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession, ^2^who was faithful to him who appointed him, just as Moses also was faithful in all God's house. ^3^For Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself.
-
-> ^6^But Christ is faithful over God's house as a son. **And we are his house, if indeed we hold fast our confidence and our boasting in our hope.**
-
-> ^12^Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. ^13^But exhort one another every day, as long as it is called "today," that none of you may be hardened by the deceitfulness of sin.
-
-> ^19^So we see that **they were unable to enter because of unbelief.**
+> *1 Therefore, holy brothers, you who share in a heavenly calling, consider Jesus, the apostle and high priest of our confession, 2 who was faithful to him who appointed him, just as Moses also was faithful in all God's house. 3 For Jesus has been counted worthy of more glory than Moses—as much more glory as the builder of a house has more honor than the house itself. 4 (For every house is built by someone, but the builder of all things is God.) 5 Now Moses was faithful in all God's house as a servant, to testify to the things that were to be spoken later, 6 but Christ is faithful over God's house as a son. **And we are his house, if indeed we hold fast our confidence and our boasting in our hope.**
+> 7 Therefore, as the Holy Spirit says, "**Today, if you hear his voice,** 8 do not harden your hearts as in the rebellion, on the day of testing in the wilderness, 9 where your fathers put me to the test and saw my works for forty years. 10 Therefore I was provoked with that generation, and said, 'They always go astray in their heart; they have not known my ways.' 11 As I swore in my wrath, 'They shall not enter my rest.'"
+> 12 Take care, brothers, lest there be in any of you an evil, unbelieving heart, leading you to fall away from the living God. 13 But exhort one another every day, as long as it is called "today," that none of you may be hardened by the deceitfulness of sin. 14 **For we have come to share in Christ, if indeed we hold our original confidence firm to the end.** 15 As it is said, "Today, if you hear his voice, do not harden your hearts as in the rebellion." 16 For who were those who heard and yet rebelled? Was it not all those who left Egypt led by Moses? 17 And with whom was he provoked for forty years? Was it not with those who sinned, whose bodies fell in the wilderness? 18 And to whom did he swear that they would not enter his rest, but to those who were disobedient? 19 **So we see that they were unable to enter because of unbelief.***
+> — Hebrews 3:1-19 (ESV)
 
 ---
 
 ## 背景 (Context)
 
-### 摩西在猶太傳統中的地位
+對猶太人而言，摩西是獨一無二的先知——申命記34:10說「以後以色列中再沒有興起先知像摩西的」，神與他「面對面」說話（出33:11；民12:6-8）。作者要說服一群正考慮回歸猶太教的希伯來基督徒，就必須先正面處理這個最堅固的攔阻：如果連摩西都比不上耶穌，那回到摩西體系裡，是往後退，不是往安全的地方走。
 
-對猶太人而言，摩西是獨一無二的先知。申命記34:10說「以後以色列中再沒有興起先知像摩西的」。神與摩西「面對面」說話（出33:11）。因此，作者必須證明基督超越摩西，才能說服讀者。
+3:7-19 接著引用詩篇95:7-11，把出埃及一代的失敗變成一面鏡子。那一代人親眼見過紅海分開、吃過嗎哪、有雲柱火柱引路，卻仍在米利巴、瑪撒試探神（出17:1-7），最終因探子的惡信（民13-14章）倒斃曠野，四十年間無一人（除約書亞、迦勒外）進入應許之地（民14:21-23；20:12）。作者要讀者看見：**擁有最多的特權與神蹟，不等於擁有信心**——這正是希伯來書第二個警告段落（3:7-4:13）的開場，主題是「不信的惡心」。
 
-### 詩篇95的背景
-
-詩篇95:7-11引用曠野世代的失敗作為警戒。那一代人親眼看見神蹟，卻仍然不信，結果除了迦勒和約書亞，全部倒斃曠野。作者用這歷史事件警告讀者：擁有特權不等於擁有信心。
-
-### 文學結構
-
-| 段落 | 內容 | 經文 |
-|------|------|------|
-| A | 呼召思想耶穌 | 3:1 |
-| B | 基督與摩西的比較 | 3:2-6 |
-| C | 引用詩篇95 | 3:7-11 |
-| D | 警告不信的惡心 | 3:12-15 |
-| E | 三個反問 | 3:16-18 |
-| F | 結論：不信導致滅亡 | 3:19 |
-
----
-
-## 舊約引用與對照 (Old Testament References)
-
-### 本章引用的舊約經文
-
-| 來3: | 舊約來源 | 主題 | 原文脈絡 |
-|------|----------|------|----------|
-| 3:2, 5 | **民數記 12:7** | 「在神的全家盡忠」 | 神為摩西辯護 |
-| 3:7-11 | **詩篇 95:7-11** | 「今日若聽他的話」 | 敬拜的呼召與警告 |
-| 3:11 | **民數記 14:21-23** | 「不可進入我的安息」 | 曠野世代的審判 |
-
-### 曠野事件對照表
-
-| 事件 | 舊約出處 | 與來3章關聯 |
-|------|----------|-------------|
-| 米利巴的水 | 出17:1-7 | 百姓試探神 (3:8) |
-| 探子報告 | 民13-14章 | 不信導致滅亡 (3:19) |
-| 四十年飄流 | 民14:33-34 | 神厭煩那世代 (3:10) |
-| 摩西被禁入迦南 | 民20:12 | 不信的後果 |
-| 約書亞與迦勒 | 民14:30 | 信心的榜樣 |
-
-### 延伸舊約對照
-
-| 主題 | 希伯來書3章 | 舊約對照 |
-|------|-------------|----------|
-| 摩西的忠心 | 3:2 | 民12:6-8（神與摩西面對面說話） |
-| 神的家 | 3:6 | 撒下7:11-16（大衛之約的「家」） |
-| 心的剛硬 | 3:8 | 出7:13（法老心剛硬） |
-| 安息的應許 | 3:11 | 申12:9（應許之地的安息） |
-
----
-
-## 使徒行傳關聯 (Acts Connections)
-
-| 使徒行傳 | 希伯來書3章 | 主題關聯 |
-|----------|-------------|----------|
-| 徒3:22-23 | 來3:1-6 | 摩西預言基督為更大的先知 |
-| 徒7:35-38 | 來3:2-5 | 司提反論摩西在神家中盡忠 |
-| 徒7:39-43 | 來3:7-19 | 曠野世代悖逆神的警戒 |
-| 徒7:51-53 | 來3:12-13 | 心剛硬抗拒聖靈 |
-| 徒13:17-18 | 來3:16-17 | 保羅提及曠野四十年 |
-| 徒28:25-27 | 來3:7-8 | 心蒙脂油不肯聽從 |
-
-### 司提反講道與來3章的平行
-
-司提反的講道（徒7章）是使徒行傳中最長的講道，其中關於摩西的部分與希伯來書3章有深刻的神學關聯：
-
-- **摩西的忠心** (徒7:35-38)：司提反稱摩西是「神藉天使...差遣作首領、作救贖的」，這與來3:2「摩西在神的全家盡忠」呼應。
-
-- **曠野世代的悖逆** (徒7:39-43)：「我們的祖宗不肯聽從，反棄絕他」，正是來3:7-19所警告的「不信的惡心」。
-
-- **心的剛硬** (徒7:51)：「你們這硬著頸項、心與耳未受割禮的人，常時抗拒聖靈」，呼應來3:8「不可硬著心」。
+**文學結構**：3:1 呼召思想耶穌 → 3:2-6 基督與摩西的比較 → 3:7-11 引用詩篇95 → 3:12-15 警告不信的惡心 → 3:16-18 三個反問 → 3:19 結論：不信導致滅亡。
 
 ---
 
@@ -142,65 +89,52 @@ publisher: 三書精讀出版系統
 
 | 希臘文 | 音譯 | 意義 | 註解 |
 |--------|------|------|------|
-| *katanoeō* | katanoeō | 思想、注目 | 深入仔細地看 |
-| *apostolos* | apostolos | 使者、奉差遣的 | 基督是神差遣的使者 |
-| *oikos* | oikos | 房屋、家 | 神的子民 |
-| *therapōn* | therapōn | 僕人 | 尊貴的服事者 |
-| *parrēsia* | parrēsia | 膽量、坦然 | 公開表白的勇氣 |
-| *sklērunō* | sklērunō | 硬著、剛硬 | 心被罪硬化 |
-| *apistia* | apistia | 不信 | 不信任、不忠實 |
+| *katanoeō* | katanoeō | 思想、注目 | 比一般的「看」(*blepō*) 更強烈，是專注、持續地仔細注視，不是隨便想想 |
+| *apostolos* | apostolos | 使者、奉差遣的 | 基督是神差遣的使者——這個頭銜在福音書中通常屬於門徒，此處唯一一次用在耶穌自己身上 |
+| *oikos* | oikos | 房屋、家 | 兼有「建築物」與「家庭」雙重意義：3:3-4 說的是建築物（建造者比房屋更尊榮），3:6 說的是家庭（我們是神的家） |
+| *therapōn* | therapōn | 僕人 | 尊貴的服事者，民數記12:7 七十士譯本用此字形容摩西——地位崇高，但仍是「僕人」 |
+| *huios* | huios | 兒子 | 與 *therapōn* 對比：僕人在家中服事，兒子治理家業，地位本質不同，不只是程度差異 |
+| *parrēsia* | parrēsia | 膽量、坦然 | 公開表白信仰的勇氣，與「堅持到底」（3:6, 14）並列 |
+| *sklērunō* | sklērunō | 硬著、剛硬 | 心被罪逐漸硬化的動作，是持續的過程，不是一次性的事件 |
+| *apistia* | apistia | 不信 | 不只是缺乏知識，而是主動的不信任、不忠實 |
 
-### *katanoeō* (思想) 的意義
+### *katanoeō*（思想）與使者—大祭司的雙重職分
 
-這字比一般的「看」(*blepō*) 更強烈，意思是「專注地、仔細地注視」。作者呼召讀者不是隨便想想耶穌，而是深入地、持續地默想祂。
+作者呼召讀者「思想」耶穌是使者（*apostolos*，從神到人）又是大祭司（*archiereus*，從人到神）——摩西是神的使者，亞倫是大祭司，各自一職；基督一人兼具兩職，這是全章比較的起點，也是後面幾章（4:14起）大祭司職分論證的伏筆。
 
-### *oikos* (房屋/家) 的雙重意義
+### 僕人與兒子——地位的本質差異
 
-這字既指「建築物」也指「家庭」。3:3-4說的是「建築物」意義上的比較（建造者比房屋更尊榮），3:6說的是「家庭」意義（我們是神的家）。
-
-### 僕人 vs 兒子
-
-摩西是 *therapōn*（高級僕人），基督是 *huios*（兒子）。僕人在家中服事，兒子治理家業。地位截然不同。
+摩西是 *therapōn*，基督是 *huios*。僕人再忠心，也只是活在別人建造的房子裡；兒子的忠心，是對「自己的家」負責。作者沒有貶低摩西——3:2 稱他「盡忠」，這正是希伯來書一貫的手法：不否定舊約人物的偉大，只指明他們的偉大是指向誰。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受與亮光 (Light Received)
 
-### 1. 耶穌的雙重職分 (Christ's Dual Office)
+作者不是在打一場比較宗教的辯論，是在挽回一群正在鬆手的人。整章最扎心的地方不是「耶穌比摩西偉大」這個結論——那對猶太讀者來說幾乎是不言自明的震撼——而是接下來的轉折：光是「知道」耶穌配得思想，不會自動叫人站立得住；曠野一代什麼都看見了，還是倒在半路。
 
-| 職分 | 意義 | 方向 |
-|------|------|------|
-| 使者 (*apostolos*) | 神差遣祂來傳話 | 從神到人 |
-| 大祭司 (*archiereus*) | 代表人到神面前 | 從人到神 |
+### 1. 僕人與兒子——你信靠的，是見證人，還是那件事本身？
 
-摩西是神的使者，亞倫是大祭司——但基督一人兼具兩職。
+3:5-6 的對比不是程度上的差異，是本質上的差異：摩西「為要證明將來必傳說的事」，他是指標，不是終點；基督卻是那件「將來必傳說的事」的成就本身。很多人把信仰活成了「跟隨一位偉大的帶領者」，卻沒有意識到，耶穌不是又一位更偉大的摩西——祂是摩西所指向的那位。
 
-### 2. 基督超越摩西的三重對比
+帶領提問：**你今天的信仰生活裡，有沒有把某位屬靈領袖（牧者、老師，甚至是黃長老這樣的帶領者）放在了「耶穌所指向的那位」的位置上，卻忘了他們自己也只是「僕人」，是見證人，不是終點？**
 
-| 對比 | 摩西 | 基督 |
-|------|------|------|
-| 身份 | 僕人 (*therapōn*) | 兒子 (*huios*) |
-| 角色 | 房屋的一部分 | 房屋的建造者 |
-| 功能 | 為將來的事作見證 | 將來之事的實現 |
+### 2. 堅持到底——不是賺取救恩，是真信心結出的果子
 
-### 3. 堅持到底的重要性 (Perseverance)
+「我們若將可誇的盼望和膽量堅持到底，便是他的家了」（3:6）、「我們若將起初確實的信心堅持到底，就在基督裡有份了」（3:14）——這兩節的條件句常被誤讀成「堅持才能得救」，但作者的邏輯其實是反過來：真信心的記號，就是堅忍到底；沒有堅忍，不是失去了已經有的救恩，是從一開始就沒有真正握住。
 
-「我們若將可誇的盼望和膽量堅持到底，就是神的家了」(3:6)
-「我們若將起初確實的信心堅持到底，就在基督裏有份了」(3:14)
+帶領提問：**你如果誠實回顧這一年，你的信心是「越試煉越堅固」，還是「一遇試探就想繞路」？哪一種比較像你今天的光景？**
 
-這兩節經文強調：真信心的記號是堅忍到底。不是說堅忍賺取救恩，而是說真正得救的人必定堅忍。
+### 3. 不信的惡心——問題不在證據不足，在心裡的抗拒
 
-### 4. 不信的惡心 (The Evil Heart of Unbelief)
+曠野世代「觀看我的作為有四十年之久」（3:9），神蹟就在眼前，他們卻「心裡常常迷糊，竟不曉得我的作為」（3:10）。*apistia*（不信）不是知識的空白，是主動的抗拒——證據給了眼睛看，卻進不了心裡信。這提醒我們：屬靈的問題，很少是資訊不足，幾乎總是心的問題。
 
-「不信」(*apistia*) 不只是缺乏知識，而是主動拒絕信靠。曠野世代親眼看見神蹟，但他們心裏「時常迷糊」、「不曉得」神的道路。問題不在證據不足，而在內心抗拒。
+帶領提問：**如果神今天再給你一個更清楚的神蹟、更明白的答案，你確定你的心就會相信嗎？還是問題其實從來不在「證據夠不夠」？**
 
-### 5. 今日的緊迫性 (Urgency of "Today")
+### 4. 「今日」的緊迫性與彼此相勸
 
-「今日若聽他的話」——重複三次（3:7, 13, 15）。機會不是永遠的，心會越來越剛硬。每一個「今日」都是恩典的機會，也是信心的考驗。
+「今日」在這段出現三次（3:7, 13, 15），「趁著還有今日，天天彼此相勸」（3:13）——心剛硬不是一夜之間發生的，是一連串被忽略的「今日」累積而成的。作者給的解方不是個人的意志力，是群體：「天天彼此相勸，免得你們中間有人被罪迷惑」。孤立的信徒，是最容易被罪迷惑的信徒。
 
-### 6. 彼此相勸的重要性 (Importance of Mutual Exhortation)
-
-「天天彼此相勸」——信仰不是個人的事。我們需要群體的支持、提醒、勸勉，才能抵擋「罪的迷惑」。孤立的基督徒是危險的基督徒。
+帶領提問：**你有沒有一件神已經對你說了很久、你卻一直用「明天再說」拖延的事？你身邊有沒有一位可以「天天彼此相勸」的人，還是你的信仰生活其實一直是一個人在扛？**
 
 ---
 
@@ -224,17 +158,12 @@ publisher: 三書精讀出版系統
 > 「摩西是僕人，在神家中盡忠；基督是兒子，治理神的家。僕人無論多麼忠心，都不能與兒子相比。這是本質上的區別，不只是程度上的差異。」
 > — *Commentary on Hebrews*
 
-**約翰·乾歐文 (John Owen, 1616-1683)**:
+**約翰·歐文 (John Owen, 1616-1683)**:
 
 > 「『今日若聽他的話』——神給我們的每一天都是『今日』，都是回轉的機會。但每一個拒絕的『今日』都使心更加剛硬。不要以為明天會更容易相信；事實恰恰相反。」
 > — *An Exposition of the Epistle to the Hebrews*
 
 ### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**:
-
-> 「3:6和3:14的條件句不是說『如果你堅持就能得救』，而是說『如果你不堅持，證明你從未真正得救』。真信心會結出堅忍的果子。假信心在試煉中就顯露出來。」
-> — *MacArthur New Testament Commentary: Hebrews*
 
 **菲利普·休斯 (Philip Hughes)**:
 
@@ -243,74 +172,82 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
-### 詩篇 95:6-11
+### 麥克阿瑟：僕人的家與兒子的家 (John MacArthur)
 
-> 來啊，我們要俯伏敬拜，
-> 在造我們的耶和華面前跪下。
-> 因為他是我們的神；
-> 我們是他草場的羊，是他手下的子民。
-> **你們今日若聽他的話，就不可硬著心，**
-> 像當日在米利巴，
-> 就是在曠野的瑪撒。
-> 那時，你們的祖宗試我探我，
-> 並且觀看我的作為。
-> 四十年之久，我厭煩那世代，
-> 說：這是心裏迷糊的百姓，
-> 竟不曉得我的作為！
-> 所以，我在怒中起誓，說：
-> 他們絕不可進入我的安息！
+麥克阿瑟在1972年兩篇連續講章中處理本章。第一篇 *Jesus Christ, Greater than Moses*（講希伯來書3:1-6，1972年4月9日）直接點出僕人與兒子的位分差異："Moses is by person a servant; Jesus is by person a son." 他進一步強調兩者所在的位置不同："Moses was servant in somebody else's house. Jesus is a son over His own house." ——摩西是在別人的家中服事，耶穌卻是治理自己的家。
 
-> **Today, if you hear his voice, do not harden your hearts,**
-> as at Meribah, as on the day at Massah in the wilderness,
-> when your fathers put me to the test
-> and put me to the proof, though they had seen my work.
-> For forty years I loathed that generation
-> and said, "They are a people who go astray in their heart,
-> and they have not known my ways."
-> Therefore I swore in my wrath,
-> "They shall not enter my rest."
+第二篇 *Harden Not Your Hearts*（講希伯來書3:7-19，1972年4月16日）處理曠野世代的不信，麥克阿瑟引述神的話語描述那一代人的頑梗："They kept on testing God. They kept on proving Me, and saw my works for 40 years, and still they never believed." 他也把「剛硬」講成一個逐步累積的過程："Your heart gets harder every time you say no to Jesus Christ when you know the truth."——每一次明知真理卻拒絕，心就更硬一分。
+
+> 出處：John MacArthur, "Jesus Christ, Greater than Moses" (Hebrews 3:1-6), Grace to You (gty.org), 1972年4月9日 — https://www.gty.org/library/sermons-library/1607/jesus-christ-greater-than-moses ；"Harden Not Your Hearts" (Hebrews 3:7-19), Grace to You (gty.org), 1972年4月16日 — https://www.gty.org/library/sermons-library/1608/harden-not-your-hearts （已核實：兩篇講章標題、經文範圍、講道日期與引句均見於gty.org官方講章庫）
+
+### 摩根：從僕人的家看見兒子的家 (G. Campbell Morgan)
+
+摩根在《神對人最後的話》（*God's Last Word to Man: Studies in Hebrews*，1936年初版）論到這段時，把整個論證放進「神的家」這個背景裡來看："The background, then, of the whole argument is that of the House of God, in which Moses was a servant, and Jesus a Son." 他也特別強調摩西盡忠的性質是出於愛，而基督的忠心則帶著權柄："Moses and Jesus were appointed by God. Both were faithful; Moses as a servant voluntarily, and love-inspired; Jesus as also a Servant faithful, but as a Son in authority." 摩根另外用一句話總結律法與恩典的分界："The law came through Moses; grace and truth came through Jesus Christ."
+
+> 出處：G. Campbell Morgan, *God's Last Word to Man: Studies in Hebrews* (1936)，公版全文見 biblenotes.online（https://biblenotes.online/resources/books/cmorgan_godslastwordtoman.htm）；以上語句已於該公版全文中核實存在，惟原書具體研讀篇章編號與頁碼本次未能逐一定位，故未標注頁碼。
+
+### 黃長老查經
+
+**精義一句話**：麥克阿瑟看的是「位分」——僕人在別人的家裡服事，兒子治理自己的家；摩根看的是「背景」——一切論證都發生在「神的家」這個舞台上。黃長老常提醒：位分決定了關係的深淺——你若把耶穌當成又一位偉大的僕人來跟隨，你得到的只是指引；你若認出祂是那治理全家的兒子，你得到的是家人的身份。
+
+帶領提問：
+- 麥克阿瑟講的是耶穌「是誰」（兒子而非僕人），摩根講的是耶穌「在哪裡」（治理神的全家）——你今天更需要被提醒哪一句？
+- 如果有人問你「摩西和耶穌差在哪裡」，你會用「位分」（僕人 vs 兒子）來回答，還是用「家」的比喻（活在別人的家 vs 治理自己的家）來回答？哪一種說法，能幫助他更快看見耶穌？
 
 ---
 
-## 聖詩默想 (Hymn Meditation)
+## 配詩 (Hymns & Psalms)
 
-### Guide Me, O Thou Great Jehovah
+**聖詩**：*Guide Me, O Thou Great Jehovah*（引導我，全能大主宰）by William Williams, 1745——見上方〈配詩 (Opening Hymn)〉，以出埃及曠野旅程為背景，正是本章 3:7-19 引用的歷史場景。
 
-這首威爾斯讚美詩由 William Williams 於 1745 年創作，以以色列人出埃及為背景，表達信徒在人生旅途中倚靠神帶領的心志。
+**詩篇**：詩篇 95:6-11（本章 3:7-11 主要引用）
 
-**歌詞與經文對照**：
-- 「客旅行經曠野地」— 曠野世代的經歷 (3:8-9)
-- 「我軟弱，主大有能力」— 倚靠神而非自己
-- 「天上嗎哪」— 神在曠野的供應
-- 「當約但波浪滔滔」— 進入安息的盼望
+> 來啊，我們要俯伏敬拜，在造我們的耶和華面前跪下。
+> 因為他是我們的神；我們是他草場的羊，是他手下的子民。
+> **你們今日若聽他的話，就不可硬著心，**
+> 像當日在米利巴，就是在曠野的瑪撒。
+> 那時，你們的祖宗試我探我，並且觀看我的作為。
+> 四十年之久，我厭煩那世代，說：這是心裏迷糊的百姓，竟不曉得我的作為！
+> 所以，我在怒中起誓，說：他們絕不可進入我的安息！
 
-### 另一配詩：Be Thou My Vision
+> **Today, if you hear his voice, do not harden your hearts,**
+> as at Meribah, as on the day at Massah in the wilderness,
+> when your fathers put me to the test and put me to the proof, though they had seen my work.
+> For forty years I loathed that generation and said, "They are a people who go astray in their heart,
+> and they have not known my ways."
+> Therefore I swore in my wrath, "They shall not enter my rest."
 
-> Be Thou my Vision, O Lord of my heart;
-> Naught be all else to me, save that Thou art;
-> Thou my best thought, by day or by night,
-> Waking or sleeping, Thy presence my light.
+---
 
-這首詩歌呼應「思想耶穌」(3:1) 的呼召。
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
 
-### 建議配詩一覽
+### 全經連線
 
-| 詩歌 | 作者/年代 | 與經文關聯 |
-|------|-----------|------------|
-| *Guide Me, O Thou Great Jehovah* | Williams, 1745 | 曠野旅程 (3:7-11) |
-| *Be Thou My Vision* | 愛爾蘭傳統, 8世紀 | 思想耶穌 (3:1) |
-| *Come, Thou Fount of Every Blessing* | Robinson, 1758 | 心易迷失 (3:10) |
-| *O for a Heart to Praise My God* | Wesley, 1742 | 心不剛硬 (3:8) |
-| *How Firm a Foundation* | Rippon, 1787 | 堅持到底 (3:6, 14) |
+- **民數記 12:7 ↔ 希伯來書 3:2, 5**：神親自為摩西辯護——「我的僕人摩西不是這樣，他是在我全家盡忠的」。作者用的「盡忠」正是引自這節。使徒行傳7章司提反在公會前的講道也提到摩西「在神的全家盡忠」（徒7:35-38），與希伯來書3章用同一組語言描述同一位摩西——**兩處各自獨立地把摩西定位為「盡忠的僕人」，卻都指向他所預表的那一位。**
 
-### 詩篇配讀建議
+- **出埃及記17:1-7、民數記13-14章 ↔ 希伯來書3:7-19**：詩篇95引用的「米利巴」「瑪撒」試探事件（出17:1-7），與探子帶回惡信、百姓不信而倒斃曠野的整段敘事（民13-14章），是本章警告的歷史底本。**沒有讀過出埃及記與民數記的曠野敘事，希伯來書3章的警告只讀懂了一半的重量。**
 
-- **詩篇 95** — 「今日若聽他的話」：本章主要引用
-- **詩篇 78** — 「他們心裏試探神」：以色列歷史教訓
-- **詩篇 81** — 「我的民卻不聽我的聲音」：神的呼喚與嘆息
-- **詩篇 106** — 「他們忘了神」：曠野世代的敗壞
+- **詩篇95 ↔ 哥林多前書10:1-11**：保羅在寫給哥林多教會的信裡，也用同一段曠野歷史作鑑戒——「這些事都是我們的鑒戒，叫我們不要像他們那樣貪戀惡事……你們要謹慎，自己以為站得穩的，須要謹慎，免得跌倒」（林前10:6, 12）。保羅與希伯來書的作者，各自獨立地把同一段曠野歷史，用在同一個目的上：**警告已經蒙恩的人，特權不是免疫力。**
+
+### 提問式對話
+
+- 摩西「在神的全家盡忠」，被神親自稱讚——但他終究進不了應許之地（民20:12）。你有沒有想過，一個人可以一輩子忠心服事神，卻仍然因為一次的失腳，錯過了原本可以進入的應許？這對你今天的服事，是提醒，還是安慰？
+
+- 曠野世代「觀看我的作為有四十年之久」，卻仍然不信——你今天所擁有的屬靈資源（聖經翻譯、講道錄音、查經材料），比曠野世代擁有的神蹟還要多得多。這會不會反而是一種更大的危險，而不是更大的保障？
+
+- 「彼此相勸」是這章給出的解方，不是「加強個人靈修」。你上一次被弟兄姊妹當面提醒「你的心好像有點硬」，是什麼時候？你當時的反應，是感謝，還是防衛？
+
+### 活在今天
+
+我們今天活在一個資訊比曠野世代的神蹟還要密集的世界——每天滑過的動態、推播、短影音，遠遠超過曠野一代四十年所見的作為總和。這一章最扎心的提醒是：資訊的密度，從來不等於信心的深度。你今天可能比誰都更「知道」耶穌是誰、更能引用經文、更常轉發屬靈金句，但3:12的警告不是問你知道多少，是問「你們中間或有人存著不信的惡心」——那顆心，是不是正在被一連串「今天先滑一下手機，明天再認真讀經」的小小忽略，一點一點磨硬。今天，找一位可以「天天彼此相勸」的人，把你這週真正想逃避的一件屬靈的事，誠實地說給他聽。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+這一章表面上是一場比較——耶穌比摩西更配得榮耀——骨子裡卻是一次挽回：作者不是要讀者贏得一場辯論，是要拉住正在鬆手回頭的腳步。摩西再忠心，也只是家裡的僕人；耶穌卻是治理這個家的兒子。而這個家是誰？「我們若將可誇的盼望和膽量堅持到底，便是他的家了」（3:6）——你不是遠遠地敬拜一位偉大的兒子，你若堅持到底，你自己就是祂的家人。曠野世代倒斃在半路，不是因為神蹟不夠，是因為心沒有跟上；今天，「今日」還在，這一章要問你的，不是你知道多少，是你的心今天願不願意聽。
 
 ---
 
@@ -330,28 +267,7 @@ publisher: 三書精讀出版系統
 
 ### 禱告回應
 
-> 主耶穌，你是我們的使者和大祭司，
-> 求你幫助我專心思想你，注目於你的榮耀。
-> 我承認我的心常常迷糊、容易剛硬，
-> 求你軟化我的心，使我今日就聽從你的聲音。
-> 幫助我堅持到底，不要在試煉中動搖，
-> 也賜給我願意接受弟兄姊妹勸勉的心。
-> 願我一生行在你的道路中，直到進入你的安息。
-> 奉主耶穌基督的名禱告，阿們。
-
----
-
-## 曠野世代的教訓 (Lessons from the Wilderness Generation)
-
-| 他們的經歷 | 我們的對應 |
-|------------|------------|
-| 看見紅海分開 | 聽聞福音的神蹟 |
-| 吃嗎哪、喝磐石之水 | 領受屬靈的餵養 |
-| 有雲柱火柱引導 | 有聖靈的引導 |
-| 仍然不信、發怨言 | 在試煉中可能跌倒 |
-| 屍首倒在曠野 | 可能失去救恩的確據 |
-
-這不是說真正得救的人會滅亡，而是警告：外在的宗教經歷不等於內在的真信心。曠野世代的失敗提醒我們要省察自己的心。
+主耶穌，你是我們的使者和大祭司，求你幫助我專心思想你，注目於你的榮耀，而不是把眼光停留在任何一位僕人身上。我承認我的心常常迷糊、容易剛硬，求你軟化我的心，使我今日就聽從你的聲音。幫助我堅持到底，不是靠自己的力量，是因為你已經把我算作你家中的一員；也求你賜給我一位、或幾位可以天天彼此相勸的弟兄姊妹，不讓我獨自面對罪的迷惑。願我一生行在你的道路中，直到進入你的安息。奉主耶穌基督的名禱告，阿們。
 
 ---
 
@@ -361,7 +277,7 @@ publisher: 三書精讀出版系統
 
 2. 「僕人」和「兒子」的區別如何幫助我們理解舊約與新約的關係？
 
-3. 曠野世代的失敗給我們什麼警戒？我們可能犯同樣的錯誤嗎？
+3. 曠野世代的失敗給我們什麼警戒？我們今天擁有的屬靈資源比他們更多，會不會也讓我們犯同樣的錯誤？
 
 4. 「今日若聽他的話」——這個「今日」為什麼如此重要？心剛硬是如何發生的？
 
@@ -369,4 +285,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合多方資源：John MacArthur、Philip Hughes、John Owen*
+*本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
+
+*三書精讀項目 · 希伯來書研讀 · 03-基督超越摩西*
