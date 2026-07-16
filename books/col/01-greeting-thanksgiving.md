@@ -18,7 +18,9 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
-## 經文
+## 經文 (Scripture)
+
+### 中文 — 和合本 (CUV)
 
 > **歌羅西書 1:1-14**（和合本）
 >
@@ -37,8 +39,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 > 13 他救了我們脫離黑暗的權勢，把我們遷到他愛子的國裡；
 > 14 我們在愛子裡得蒙救贖，罪過得以赦免。
 
+### English — ESV
+
 > *1 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother, 2 To the saints and faithful brothers in Christ at Colossae: Grace to you and peace from God our Father. 3 We always thank God, the Father of our Lord Jesus Christ, when we pray for you, 4 since we heard of your faith in Christ Jesus and of the love that you have for all the saints, 5 because of the hope laid up for you in heaven. Of this you have heard before in the word of the truth, the gospel, 6 which has come to you, as indeed in the whole world it is bearing fruit and increasing — as it also does among you, since the day you heard it and understood the grace of God in truth, 7 just as you learned it from Epaphras our beloved fellow servant. He is a faithful minister of Christ on your behalf 8 and has made known to us your love in the Spirit. 9 And so, from the day we heard, we have not ceased to pray for you, asking that you may be filled with the knowledge of his will in all spiritual wisdom and understanding, 10 so as to walk in a manner worthy of the Lord, fully pleasing to him: bearing fruit in every good work and increasing in the knowledge of God; 11 being strengthened with all power, according to his glorious might, for all endurance and patience with joy; 12 giving thanks to the Father, who has qualified you to share in the inheritance of the saints in light. 13 He has delivered us from the domain of darkness and transferred us to the kingdom of his beloved Son, 14 in whom we have redemption, the forgiveness of sins.*
 > — Colossians 1:1-14 (ESV)
+
+---
+
+## 背景 (Context)
+
+歌羅西是位於呂克斯河谷（Lycus Valley）的一座小城，與老底嘉、希拉波立相距不遠。保羅寫這封信時人在羅馬監禁中，卻從未親自到訪過這間教會——他自己說：「連你們和老底嘉人，以及凡沒有親自見過我面的人，是何等的盡心竭力」（西2:1）。他所知道的歌羅西教會，幾乎全部是透過以巴弗（Epaphras）——很可能就是歌羅西教會的創立者，此刻正與保羅同在（門1:23）。這一點解釋了整段問安與代求的語氣：保羅不是以「我認識你們」的權威口吻寫信，而是以「我聽見了」（4、9節）的謙卑姿態，透過一位忠心同工的見證，去愛一群他素未謀面的弟兄姊妹。
+
+也正因如此，保羅選擇先用整段感謝與代求（1:3-14）建立關係與信任，才在下一段展開基督頌（1:15-20），正面對付當時正在歌羅西流傳、揉合了律法主義與哲理揣測的錯誤教導。他不是一開始就辯論，是先用禱告的心，把讀者帶到基督面前。
 
 ---
 
@@ -58,13 +70,9 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
-## 精義一句話
+## 領受與亮光 (Light Received)
 
 保羅為一間他從未謀面的教會禱告，禱告詞裡沒有一句「求你解決他們的問題」——他求的是「滿心知道神的旨意」（9節）。因為信心、愛心、盼望這三根柱子，不是靠意志力撐起來的，是從「知道」神是誰、神做了什麼長出來的；你若真知道自己已經「被遷到愛子的國裡」（13節），你今天的活法，會不一樣。
-
----
-
-## 黃長老這樣帶你讀
 
 ### 1. 三根柱子——信、愛、盼望的次序
 
@@ -74,7 +82,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ### 2. 「結果，增長」——福音不是一套道理，是活的
 
-6節說這福音「傳到普天之下，並且結果，增長，如同在你們中間」——原文兩個動詞都是現在進行式：福音不是傳到了就完了，它在「持續結果、持續增長」。麥克阿瑟講得直接：福音進到一個生命裡，不是給你一套倫理系統要你照做，而是「一種轉化的能力」，「像一顆芥菜種的內在能量，會擴散生長」——內在結果子，外在也擴展增長，是同一件事的兩面（見下方〈兩位牧者的洞見〉）。你今天若覺得信仰只是「知道了一些道理」，那就還沒有摸到保羅講的這件事。
+6節說這福音「傳到普天之下，並且結果，增長，如同在你們中間」——原文兩個動詞都是現在進行式：福音不是傳到了就完了，它在「持續結果、持續增長」。麥克阿瑟講得直接：福音進到一個生命裡，不是給你一套倫理系統要你照做，而是「一種轉化的能力」，「像一顆芥菜種的內在能量，會擴散生長」——內在結果子，外在也擴展增長，是同一件事的兩面（見下方〈三大資源深度整合〉）。你今天若覺得信仰只是「知道了一些道理」，那就還沒有摸到保羅講的這件事。
 
 帶領提問：**「結果，增長」——過去一年，你的信仰生命裡，有沒有一件事是你自己都沒有努力推動、卻自然而然發生的「結果子」？那才是福音真正活著的記號。**
 
@@ -92,19 +100,37 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
-## 兩位牧者的洞見
+## 歷代注疏 (Historical Commentary)
+
+**加爾文論「知道神的旨意」（9節）**：加爾文在《歌羅西、腓立比、帖撒羅尼迦書注釋》中論到保羅這句代求時說，保羅所求的乃是「神旨意的知識，藉此他間接地指出，一切出於人的臆想、一切與神的話語相左的揣測，都被摒棄在外」（"the knowledge of the divine will, by which expression he sets aside all inventions of men, and all speculations that are at variance with the word of God."）。他接著提醒，這知識不是一次到位的，信徒「必須在敬虔的道理上不斷長進，直到離世那日」。
+
+**加爾文論「行事為人對得起主」（10節）**：論到10節，加爾文說，屬靈的認識最終要「顯明在我們的生活中，使人看見我們並非徒然領受了神的教導」（"that it may be manifest in our life, that we have not in vain been taught by God."）——知道與行出，在加爾文看來從不是兩件事。
+
+> 出處：John Calvin, *Commentary on Philippians, Colossians, and Thessalonians*, on Colossians 1:9-11, Christian Classics Ethereal Library (CCEL) — https://www.ccel.org/c/calvin/comment3/comm_vol42/htm/v.ii.ii.htm
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 麥克阿瑟：福音是活的、會結果的 (John MacArthur)
 
-麥克阿瑟指出，6節「結果，增長」描述的是福音的兩個同步動作——「不僅是內在結果子，也向外擴展，這是兩個概念」。福音進入一個生命，不是一套倫理系統，而是一種轉化的能力：「它像一顆芥菜種的內在能量，會擴散生長」。麥克阿瑟由此區分：個人生命的內在成聖，與教會整體的外在增長，是同一個福音的兩面。
+麥克阿瑟在這篇題為 *The Gospel Truth* 的講章（1976年2月15日，講西1:3-8）指出，6節「結果，增長」描述的是福音的兩個同步動作——內在的結果子與外在的擴展增長是同一件事的兩面："The first idea of bearing fruit has an inward concept, the second is a spreading thing." 他進一步說，福音進入一個生命，不是一套倫理系統，而是一種轉化的能力："The good news is not merely a system of ethics, it is not merely a code of behavior, it is a transforming power, it begins to produce fruit in a life and then it begins to spread to many other lives." 他也用了一個比喻："The gospel is like an inward energy that spreads like the mustard seed becoming a tree."——福音像一顆芥菜種的內在能量，會擴散生長。
 
-> 出處：John MacArthur, "The Gospel Truth" (Colossians 1:3-8), gty.org, 1976年2月15日 — https://www.gty.org/library/sermons-library/2131/the-gospel-truth
+> 出處：John MacArthur, "The Gospel Truth" (Colossians 1:3-8), Grace to You (gty.org), 1976年2月15日 — https://www.gty.org/library/sermons-library/2131/the-gospel-truth （已核實：標題、經文範圍、講道日期與講道內容均與gty.org官方資料相符）
 
 ### 摩根：從赦免到敬拜與服事 (G. Campbell Morgan)
 
-摩根論14節「我們在愛子裡得蒙救贖，罪過得以赦免」時強調，救贖的終極意義遠超過赦免本身：「救贖的終極意義，遠不止乎罪得赦免」——赦免只是起點，救贖完整包含了與神恢復團契、心靈得安息、直到身體得贖。他的結語常被引用：「蒙赦免的人，是敬拜的人；蒙赦免的人，是服事的人」——赦免帶出的，不是輕省的心安，而是敬拜與服事的生命。
+摩根在《西敏寺講壇》（*The Westminster Pulpit*，收錄他1906-1916年在西敏寺教堂的講道）中，有一篇題為 *Forgiveness* 的講章，正是論歌羅西書1:14「我們在愛子裡得蒙救贖，罪過得以赦免」。這篇講章的標題與出處已透過講道集總索引核實存在；但因原書分散於十冊之中，逐字講稿本次未能於公開的數位典藏中定位，以下為對其信息主旨的忠實轉述，而非逐字引句：摩根的核心信息是，救贖的意義遠不止於罪得赦免——赦免只是起點，救贖完整地包含了與神恢復團契、在光中同得基業（12節），直到活出敬拜與服事的生命。
 
-> 出處：G. Campbell Morgan, "Forgiveness" (Colossians 1:14), *The Westminster Pulpit*
+> 出處：G. Campbell Morgan, "Forgiveness" (Colossians 1:14), *The Westminster Pulpit*（講道題目與經文出處已於 preceptaustin.org「Westminster Pulpit- G Campbell Morgan」系列索引核實收錄；逐字原文未能核實，故以上為主旨轉述）
+
+### 黃長老查經
+
+**精義一句話**：麥克阿瑟看見的是福音的「動力」——結果子、增長；摩根看見的是救贖的「終點」——赦免帶來敬拜與服事。黃長老常提醒：兩者其實是同一件事的一體兩面——你若真被「遷到愛子的國裡」，你的生命自然會結果子，你的赦免自然會變成敬拜。
+
+帶領提問：
+- 麥克阿瑟講的是福音「正在」你生命裡做的事，摩根講的是福音「已經」為你做成的事——你今天更需要被提醒哪一句？
+- 如果有人問你「你信主之後，改變在哪裡」，你會用麥克阿瑟的「結果子」來回答，還是用摩根的「敬拜與服事」來回答？
 
 ---
 
@@ -124,25 +150,51 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
-## 整本聖經的連結
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
 
 - **出埃及記 ↔ 歌羅西書 1:13**：以色列人出埃及，是從「為奴之地」被領到「應許之地」——一次得贖的行動，不是漸進的解放。西1:13「他救了我們脫離黑暗的權勢，把我們遷到他愛子的國裡」用的是同一個模式：不是你正在慢慢脫離黑暗，是已經被遷走了。
 
 - **以弗所書 1:15-19 ↔ 歌羅西書 1:9-11**：這對姊妹書信的禱告幾乎並列——以弗所書求「照明你們心中的眼睛」，歌羅西書求「滿心知道神的旨意」。保羅為兩間教會禱告的核心都是同一件事：不是求他們的環境改變，是求他們的「認識」加深。
 
+- **彼得前書 2:9 ↔ 歌羅西書 1:12-13**：彼得說信徒是「被召，叫你們出黑暗入奇妙光明的」，用詞與西1:12-13「在光明中同得基業」、「脫離黑暗的權勢」幾乎重疊。兩位使徒各自獨立地，用同一組「黑暗／光明」的圖像，描述同一件事：這不是巧合，是整本聖經一以貫之看得贖的方式。
+
+### 提問式對話 (Let the Reader Speak)
+
+- 保羅說歌羅西的信心與愛心，是「以巴弗所學的」——你今天的信心，有多少是自己直接從神領受、有多少是靠著別人忠心的傳遞才有？你若忽然失去了那位領你信主的人所留下的一切教導，你的信心還站得住嗎？
+
+- 9-11節保羅求的次序是「知道 → 行事為人 → 力上加力」——你觀察你自己的禱告清單，是不是常常把「力上加力」排在第一位，卻把「知道神的旨意」放在最後才想起？
+
+- 「在光明中同得基業」（12節）——「同得」這兩個字提醒你，這基業不是你一個人的產業。你今天的信仰生活，是不是活得太「個人化」，忘了「同」這個字？
+
+### 活在今天．AI時代 (Living It Today)
+
+我們活在一個凡事都能問AI立刻給答案的時代——診斷你的症狀、規劃你的行程、甚至代寫你的禱告詞。這個時代最大的誘惑，不是不信，而是把禱告也變成「求快速解決方案」：求神像AI一樣，立刻給你一個答案、一個出路、一個修復。但保羅為一間他從未見過面的教會代禱，求的卻是「滿心知道神的旨意」（9節）——這不是一個可以被算法瞬間產出的答案，是一個需要時間、需要與神同行才能長出來的「認識」。下一次你為朋友的處境代禱、或用AI幫你寫禱告詞草稿之前，先問自己：我是在求神幫他解決問題，還是在求神讓他更認識神自己？工具可以幫你把話寫得更順，但認識神的旨意，沒有捷徑。
+
+### 今天的祭壇 (Today's Altar)
+
+今天寫下一位你正在為他代禱的人的名字，把你原本的禱告內容（多半是求解決問題）改寫成保羅式的禱告——先求他「滿心知道神的旨意」，然後才求其他的。今天就把這個禱告發給他/她。
+
 ---
 
-## 讓話語住在裡面
+## 黃長老精義 (The Distilled Key)
 
-**默想問題**：「滿心知道神的旨意」（9節）——如果保羅今天為你禱告，他會不會也說「我聽見你的信心與愛心，就不住地為你禱告，願你更知道神的旨意」？你今天的信心與愛心，配得上這樣的代求嗎？
-
-**今天的生命實踐**：把你這一週為自己或家人迫切禱告的一件事寫下來。對照保羅的禱告次序（認識神的旨意 → 行事為人對得起主 → 力上加力），重寫一遍這個禱告，先求「認識」，再求別的。
+這段問安與代求，還沒有展開基督頌（那是下一段的高峰），但已經把主角點名了——「愛子」。你脫離黑暗權勢，不是被遷到一套新規條裡，是被遷到「他愛子的國裡」；你的救贖與赦罪，只有「在愛子裡」才成立。保羅接下來要用一整首詩（1:15-20）告訴你：這位「愛子」，究竟配不配得你把整個生命的主權交給祂——而這一段問安代求，正是那首詩尚未響起之前，最後一次深呼吸。
 
 ---
 
-## 你看見耶穌了嗎？
+## 生命應用 (Application)
 
-這段問安與代求，還沒有展開基督頌（那是下一段的高峰），但已經把主角點名了——「愛子」。你脫離黑暗權勢，不是被遷到一套新規條裡，是被遷到「他愛子的國裡」；你的救贖與赦罪，「在愛子裡」才成立。整封信接下來要用一整首詩（1:15-20）告訴你：這位「愛子」，究竟配不配得你把整個生命的主權交給祂。
+### 默想問題
+
+「滿心知道神的旨意」（9節）——如果保羅今天為你禱告，他會不會也說「我聽見你的信心與愛心，就不住地為你禱告，願你更知道神的旨意」？你今天的信心與愛心，配得上這樣的代求嗎？
+
+把你這一週為自己或家人迫切禱告的一件事寫下來。對照保羅的禱告次序（認識神的旨意 → 行事為人對得起主 → 力上加力），重寫一遍這個禱告，先求「認識」，再求別的。
+
+### 禱告回應
+
+天父，我為自己代求：求祢不要止於解決我眼前的難處，而是讓我「滿心知道祢的旨意」，在一切屬靈的智慧悟性上明白祢；讓我的信心結出愛心的果子，讓我的盼望穩穩立在天上，而不是立在我今天的境遇上。感謝祢，我已經「脫離黑暗的權勢」，被遷到祢愛子的國裡——這不是我還在努力爭取的事，是已經成就的事實。求祢讓我今天就活出這個事實，行事為人對得起主，在各樣的力上加力，凡事歡歡喜喜地忍耐寬容。奉耶穌基督的名，阿們。
 
 ---
 

@@ -18,7 +18,9 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
-## 經文
+## 經文 (Scripture)
+
+### 中文 — 和合本 (CUV)
 
 > **歌羅西書 1:15-23**（和合本）
 >
@@ -32,8 +34,18 @@ leader: 黃長老式查經 (Elder Wong Method)
 > 22 但如今他藉著基督的肉身受死，叫你們與自己和好，都成了聖潔，沒有瑕疵，無可責備，把你們引到自己面前。
 > 23 只要你們在所信的道上恆心，根基穩固，堅定不移，不至被引動失去福音的盼望。
 
+### English — ESV
+
 > *15 He is the image of the invisible God, the firstborn of all creation. 16 For by him all things were created, in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities—all things were created through him and for him. 17 And he is before all things, and in him all things hold together. 18 And he is the head of the body, the church. He is the beginning, the firstborn from the dead, that in everything he might be preeminent. 19 For in him all the fullness of God was pleased to dwell, 20 and through him to reconcile to himself all things, whether on earth or in heaven, making peace by the blood of his cross. 21 And you, who once were alienated and hostile in mind, doing evil deeds, 22 he has now reconciled in his body of flesh by his death, in order to present you holy and blameless and above reproach before him, 23 if indeed you continue in the faith, stable and steadfast, not shifting from the hope of the gospel that you heard.*
 > — Colossians 1:15-23 (ESV)
+
+---
+
+## 背景 (Context)
+
+歌羅西教會面對的，不是公開否認耶穌的異端，而是一種「加法式」的錯誤：耶穌沒有錯，只是不夠——還需要加上天使的敬拜（西2:18「甘心敬拜天使」）、加上「世上的小學」（西2:8, 20，stoicheia，指當時流行的宇宙元靈或律法規條）、加上禁慾的規條（西2:20-21「不可拿、不可嘗、不可摸」），才算完整的救恩。這正是保羅在2:9-10 給出的總結性回應：「因為神本性一切的豐盛，都有形有體地居住在基督裡面，你們在他裡面也得了豐盛」——基督已經夠了，不需要再加什麼。
+
+1:15-20 這段詩體、高度濃縮、對稱工整的經文（許多解經家認為它帶有初代教會頌詞或信仰宣告的痕跡，可能是保羅引用當時教會已經在用的頌詞，也可能是保羅自己以詩體寫成），正是針對這個「加法異端」最根本的一擊：如果基督是那不能看見之神的像、萬有藉祂造、萬有靠祂而立、祂在凡事上居首位、一切的豐盛都住在祂裡面——那麼還有什麼天使、規條、或「更高的知識」，配站在基督與信徒中間？背景决定了這段經文的火力方向：不是抽象的教義展示，是把歌羅西人正在被引誘去尋求的那些「補充品」，逐一比下去。
 
 ---
 
@@ -43,6 +55,7 @@ leader: 黃長老式查經 (Elder Wong Method)
 |--------|------|------|----------|
 | *eikōn* | eikōn | 像、本質的顯現 | 15節，不是被造的形像，是神本體藉著祂顯明出來 |
 | *prōtotokos* | prōtotokos | 首生的、地位在先者 | 15、18節，兩次出現：創造之先、復活之先 |
+| *ta panta* | τὰ πάντα | 萬有、一切所是 | 16-17、20節反覆出現（造的、立的、和好的都是「萬有」），保羅刻意用同一個詞把創造與救贖綁在一起 |
 | *kephalē* | kephalē | 頭、元首 | 18節「教會全體之首」，全身聯絡於此 |
 | *plērōma* | plērōma | 豐盛、完全的容量 | 19節，父喜歡叫一切的豐盛在祂裡面居住 |
 | *apokatallassō* | apokatallassō | 使完全和好 | 20、22節，帶著 apo- 前綴，強調徹底、完全的和好 |
@@ -51,15 +64,15 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 πρωτότοκος 在希臘文裡本義是「首先出生的」，但保羅緊接著用 16-17 節解釋：不是說基督是第一個被造物，而是「萬有都是靠他造的……他在萬有之先」——祂是創造者的身分優先，不是被造之序位優先。同一個詞在18節再次出現（「從死裡首先復生的」），指向另一重「首位」：復活的優先。
 
+### 「萬有」(τὰ πάντα) 貫穿全段的鑰匙詞
+
+短短六節經文裡，τὰ πάντα（萬有／一切所是）出現了四次以上（16節兩次、17節、20節）。保羅不是隨意重複，是刻意把「創造的萬有」與「和好的萬有」用同一個詞焊接在一起——造萬有的那位，也是叫萬有和好的那位。這個詞的反覆出現，本身就是對歌羅西異端最有力的無聲反駁：如果連「萬有」都是靠基督而造、靠基督而立，還有什麼「有位的、主治的、執政的、掌權的」能越過祂去？
+
 ---
 
-## 精義一句話
+## 領受與亮光 (Light Received)
 
 這不是一段關於基督的形容詞清單，是一首詩——保羅把基督放在宇宙的正中央：祂在萬有之先、萬有靠祂而造、靠祂而立，祂是教會的頭，也是使一切與神和好的那位。你今天心裡對基督的認識，若比這首詩小，那不是基督變小了，是你看祂的角度太窄了。
-
----
-
-## 黃長老這樣帶你讀
 
 ### 1. 「像」——不是仿製品，是神本體的顯現
 
@@ -87,13 +100,32 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
-## 兩位牧者的洞見
+## 歷代注疏 (Historical Commentary)
+
+**加爾文 (John Calvin)**，《歌羅西書注釋》論15節「不能看見之神的像」：
+
+> "He calls him the *image of the invisible God*, meaning by this, that it is in him alone that God, who is otherwise invisible, is manifested to us." （他稱祂為「不能看見之神的像」，意思是：唯獨在祂裡面，那原本不能看見的神，向我們顯明出來。）
+
+論「首生的」（15節），加爾文特別指出這不是指時間上的次序，而是指地位與果效：
+
+> "He is not called the *first-born*, simply on the ground of his having preceded all creatures in point of time, but because he was begotten by the Father, that they might be created by him." （祂被稱為「首生的」，不是單單因為祂在時間上先於萬有，而是因為祂是父所生的，為要使萬有藉著祂被造。）
+
+加爾文也提到，早期亞流派（Arians）曾試圖用「首生的」一詞論證基督是受造物，但他反駁說：「這裡所論的不是基督本身是什麼，而是祂在萬有身上成就了什麼」——即這節經文講的是基督與受造界的關係，不是祂本體的位階。
+
+> 出處：John Calvin, *Commentary on Philippians, Colossians, and Thessalonians*, on Colossians 1:15, Christian Classics Ethereal Library (CCEL) — https://www.ccel.org/ccel/calvin/calcom42.v.ii.iii.html
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 麥克阿瑟：一首關於基督位格的詩 (John MacArthur)
 
 麥克阿瑟逐句朗讀這首基督頌，強調每一句都在堆疊同一個結論：「祂是那不能看見之神的像，是首生的，在一切被造的以先」——「因祂造了天上地上一切看得見、看不見的」——「神本性一切的豐盛都有形有體地居住在祂裡面」——「祂是教會全體之首，是元始，是從死裡首先復生的，使祂可以在凡事上居首位」。麥克阿瑟認為這四句合起來，是新約中最濃縮的基督位格宣告之一：創造之首、教會之首、復活之首，三重「首位」缺一不可。
 
+在另一篇講道〈歌羅西書引言〉中，麥克阿瑟把這首詩放回歌羅西異端的處境裡：異端教導「基督加知識才等於救恩」，甚至「甘心敬拜天使」（西2:18）；保羅的回應是先把基督的位格與工作講到「凡事上居首位」的高度，再在2:9-10宣告「神本性一切的豐盛都有形有體地居住在基督裡面，你們在他裡面也得了豐盛」——結論只有一句：基督加上「零」，就等於一切（Jesus plus nothing equals everything）。
+
 > 出處：John MacArthur, "Christ Above All" (Colossians 1:15-19), gty.org, 1976年3月28日 — https://www.gty.org/library/sermons-library/2135/christ-above-all
+> John MacArthur, "Introduction to Colossians", gty.org — https://www.gty.org/sermons/2130/introduction-to-colossians
 
 ### 摩根：頭銜、和平與十字架 (G. Campbell Morgan)
 
@@ -120,7 +152,9 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 ---
 
-## 整本聖經的連結
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線
 
 - **創世記 1:26-27 ↔ 歌羅西書 1:15**：「神說：我們要照著我們的形像、按著我們的樣式造人」——人是受造的形像，會朽壞、會犯罪；基督是「不能看見之神的像」，不是被造的、而是神本體的顯明。末後的亞當，做了頭一個亞當做不到的事。
 
@@ -128,19 +162,41 @@ leader: 黃長老式查經 (Elder Wong Method)
 
 - **希伯來書 1:2-3**：「又早已立他為承受萬有的，也曾藉著他創造諸世界。他是神榮耀所發的光輝，是神本體的真像」——希伯來書和歌羅西書用幾乎相同的語言，宣告基督超越萬有、超越天使。
 
+- **以弗所書 1:22-23**：「又將萬有服在他的腳下，使他為教會作萬有之首。教會是他的身體」——與西1:18「教會全體之首」互相呼應，保羅在寫給不同教會的信裡，反覆用同一個框架宣告基督的元首地位。
+
+### 提問式對話
+
+- 如果有人問你「耶穌是誰」，你會先講祂做了什麼（醫病、教訓、赦罪），還是先講祂是誰（萬有藉祂造、萬有靠祂立）？這兩種起點，會把整個福音講成不同的故事嗎？
+
+- 保羅說「一切的豐盛」都住在基督裡面（19節）——你今天生命中，有沒有哪個領域，你其實是在別處尋找「豐盛」，而不是在基督裡面？
+
+- 「萬有」這個詞在16-20節反覆出現——如果你把自己此刻正在焦慮的那件事，放進「萬有也靠他而立」這句話裡面，會發生什麼？
+
+### 活在今天．AI時代
+
+這個時代最擅長製造「新的至高者」：算法決定你被看見還是被淹沒，跑分表決定哪個模型「至尊」，KPI 與排行榜決定你是不是「值得」。歌羅西異端說「基督不夠，還要加天使、加規條、加知識」；今天的版本換了包裝，卻是同一個邏輯——「基督很好，但你還需要更多成就、更多認可、更高分數，才算完整」。保羅在這裡的回答仍然一樣：「因為父喜歡叫一切的豐盛在他裡面居住」（19節），不是在你的履歷裡，不是在任何排行榜的頂端。今天你抬頭看的那個「至高」，經得起「萬有都是靠他造的」這句話的檢驗嗎？
+
+### 今天的祭壇
+
+把 1:17「他在萬有之先，萬有也靠他而立」抄下來，貼在今天會反覆看到的地方（手機鎖屏、電腦螢幕邊、書桌前）。每次看到，停下來問自己一句：今天讓我覺得快要「散掉」的那件事，靠著誰而立？
+
 ---
 
-## 讓話語住在裡面
+## 黃長老精義 (The Distilled Key)
 
-**默想問題**：「使他可以在凡事上居首位」——今天有哪一件事，你還沒有讓基督「居首位」？
-
-**今天的生命實踐**：把 1:17「他在萬有之先，萬有也靠他而立」抄下來，貼在今天會反覆看到的地方。每次看到，提醒自己：今天讓我覺得快要「散掉」的那件事，靠著誰而立？
+這是全新約最高的基督論詩歌之一：耶穌是那不能看見之神的像、萬有藉祂而造、祂是元首、祂使萬有與神和好。你不是在讀一段教義，你是在被邀請進入一個更大的宇宙觀——一個以基督為中心的宇宙觀。你今天心裡對基督的認識，若比這首詩小，那不是基督變小了，是你看祂的角度太窄了。
 
 ---
 
-## 你看見耶穌了嗎？
+## 生命應用 (Application)
 
-這是全新約最高的基督論詩歌之一：耶穌是神不能看見之神的像、萬有藉祂而造、祂是元首、祂使萬有與神和好。你不是在讀一段教義，你是在被邀請進入一個更大的宇宙觀——一個以基督為中心的宇宙觀。
+### 默想問題
+
+「使他可以在凡事上居首位」——今天有哪一件事，你還沒有讓基督「居首位」？把它具體寫下來，不要只停在感覺層面。
+
+### 禱告回應
+
+主，祢是那不能看見之神的像，萬有靠祢而造、靠祢而立。求祢光照我今天悄悄劃出來、不讓祢居首位的角落——無論是我尋求認可的地方、我依靠的中介、還是我以為「基督加上什麼才夠」的地方。求祢讓我看見，一切的豐盛已經在祢裡面，我不需要再加什麼。奉主耶穌的名求，阿們。
 
 ---
 
