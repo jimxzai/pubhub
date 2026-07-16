@@ -10,6 +10,14 @@ publisher: 三書精讀出版系統
 
 路加福音 9:1-62
 
+**經文核對**：[ai-eden.com/bible/luke/9](https://www.ai-eden.com/bible/luke/9?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+第九章是一條上升又下降的曲線——耶穌差遣十二使徒出去傳道，用五餅二魚餵飽五千人，帶三個門徒上山改變形像，又下山面對一個被鬼附、無人能治的孩子；最後定意面向耶路撒冷，向那些想跟從卻猶豫的人說話。彼得那句「你是神所立的基督」是全書的轉捩點，但緊接著耶穌就宣告：這位基督必須受害、被殺、又復活。榮耀的山與十字架的路，在這一章第一次並排出現——摩西和以利亞在山上和祂談論的，正是祂在耶路撒冷將要成就的「去世」。這一章逼問每一個讀者：你所認識的基督，是只有榮耀、沒有十字架的基督嗎？
+
+---
+
 ## 經文 (Scripture)
 
 ### 第一段：差遣十二使徒 (9:1-9)
@@ -26,17 +34,17 @@ publisher: 三書精讀出版系統
 
 ### 第三段：彼得認信 (9:18-22)
 
-> ^18^耶穌自己禱告的時候，門徒也同他在那裏。他問他們說：「眾人說我是誰？」^19^他們回答說：「有人說是施洗的約翰，有人說是以利亞，還有人說是古時的一個先知又復活了。」^20^耶穌又問他們：「你們說我是誰？」彼得回答說：「是神所立的基督。」
+> ^18^耶穌自己禱告的時候，門徒也同他在那裏。他問他們說：<red>「眾人說我是誰？」</red>^19^他們回答說：「有人說是施洗的約翰，有人說是以利亞，還有人說是古時的一個先知又復活了。」^20^耶穌又問他們：<red>「你們說我是誰？」</red>彼得回答說：「是神所立的基督。」
 
 ---
 
 ### 第四段：跟從主的代價 (9:23-27)
 
-> ^23^耶穌又對眾人說：「若有人要跟從我，就當捨己，天天背起自己的十字架來跟從我。^24^因為凡要救自己生命的，必喪失生命；凡為我喪失生命的，必救回生命。^25^人若賺得全世界，卻喪失自己，賠上自己，有什麼益處呢？」
+> ^23^耶穌又對眾人說：<red>「若有人要跟從我，就當捨己，天天背起自己的十字架來跟從我。^24^因為凡要救自己生命的，必喪失生命；凡為我喪失生命的，必救回生命。^25^人若賺得全世界，卻喪失自己，賠上自己，有什麼益處呢？」</red>
 
 #### English — ESV
 
-> ^23^And he said to all, "If anyone would come after me, let him deny himself and take up his cross daily and follow me."
+> ^23^And he said to all, <red>"If anyone would come after me, let him deny himself and take up his cross daily and follow me."</red>
 
 ---
 
@@ -56,11 +64,34 @@ publisher: 三書精讀出版系統
 
 > ^51^耶穌被接上升的日子將到，他就定意往耶路撒冷去。
 
-> ^62^耶穌說：「手扶著犁往後看的，不配進神的國。」
+> ^62^耶穌說：<red>「手扶著犁往後看的，不配進神的國。」</red>
 
 ---
 
-## 神學要點 (Theological Points)
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 備註 |
+|--------|------|------|------|
+| δύναμις | dynamis | 能力、大能 | 耶穌給十二使徒的「能力」(9:1) |
+| ἐξουσία | exousia | 權柄 | 「能力、權柄制伏一切的鬼」(9:1) |
+| ὁ Χριστὸς τοῦ θεοῦ | ho Christos tou theou | 神所立的基督 | 彼得的認信 (9:20) |
+| ἀρνέομαι | arneomai | 棄絕、否認自己 | 「就當捨己」(9:23) |
+| σταυρός | stauros | 十字架 | 「天天背起自己的十字架」(9:23) |
+| μεταμορφόω | metamorphoō | 改變形像、變化形體 | 太、可用此字描述登山變像；路加描述其效果 (9:29) |
+| ἔξοδος | exodos | 離去、出埃及 | 摩西、以利亞與耶穌「談論祂去世的事」(9:31) |
+| ἀνάλημψις | analēmpsis | 被接上升 | 「耶穌被接上升的日子將到」(9:51)，舊約希臘文譯本用於以利亞被提 |
+
+### 「變了形像」(μεταμορφόω) 與「新造的人」
+
+這個字後來成為英文 metamorphosis（蛻變）的字源——毛蟲蛻變成蝴蝶，本質的生命沒有改變，形態卻完全改換。路加沒有直接用這個字（他描述「祂的面貌就改變了」），但馬太、馬可都用了它。摩根認為，登山變像不是神性突然「透」出來給人看見，而是耶穌完全人性的生命達到了它原本被造該有的榮耀頂點——這正是神起初說「我們要照著我們的形像造人」所指向的完整人性。摩西、以利亞、彼得看見的，其實是神對「人」最初的心意，第一次完全實現在一個人身上。
+
+### 「去世」(ἔξοδος) 與「被接上升」(ἀνάλημψις)
+
+摩西和以利亞在山上與耶穌談論的，路加用了一個意味深長的字：ἔξοδος（exodos，出去），和合本譯作「去世」，但這字正是舊約「出埃及記」的希臘文書卷名。摩西曾帶領以色列人「出」埃及；如今，摩西自己站在山上，和那要藉著十字架帶領萬民「出」死亡權下的那一位，談論祂的「出埃及」。9:51「耶穌被接上升的日子將到」一句，原文是 ἀνάλημψις（analēmpsis，被接、被提），這字在舊約希臘文譯本中專門用於描述以利亞被接升天（王下2章）——路加用同一個字，暗示登山變像本身，就是耶穌「被接」的預演，只是祂選擇不被接上升，而是「定意」面向耶路撒冷的十字架。
+
+---
+
+## 領受要點 (Points to Receive)
 
 ### 1. 基督論的高峰
 
@@ -98,6 +129,84 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 摩根：從山上到十字架的定意 (G. Campbell Morgan)
+
+摩根論五餅二魚神蹟中「拿我們所有的」的原則：
+
+> "Let us bring Him our five loaves. It is no good our trying to feed a crowd with our loaves... Give it to Christ. He will take the worthless things of our poverty, and He will multiply them to the feeding of the crowd."
+
+摩根論彼得認信的份量：
+
+> "The very simplicity of Luke's statement shows the value of the confession. The great fact is crystallized into sharp declaration, 'The Christ of God.'"
+
+摩根解釋登山變像「變化形像」(metamorphosis) 的觀念：
+
+> "A metamorphosis is a complete change of form and of appearance... He came to the completion of His human life, on the level of the earthly, and the beginning of it on the level of the heavenly."
+
+論摩西、以利亞與耶穌談論的「去世」：
+
+> "They spake with Him of the 'exodos'... they spake with Him of the exodus which He was about to accomplish at Jerusalem."
+
+論9:51「定意向耶路撒冷去」，摩根有一段極出名的分析：
+
+> "He stedfastly set His face to go to Jerusalem." ... "Hostile, doomed, but through the murk and the gloom and the muck and the misery, resulting from their rejection of Him, He saw it rebuilt. He saw the triumph beyond the travail, the victory beyond the apparent defeat."
+
+> — G. Campbell Morgan, *The Gospel According to Luke*
+
+### 麥克阿瑟：捨己是門徒訓練的起點 (John MacArthur)
+
+> "The gospel is a call for self-denial; it is not a call for self-fulfillment."
+
+> "Deny yourself. Take up your cross every day. Put your life on the line for the cause of Christ."
+
+> — John MacArthur, "The Starting Principle of Discipleship" (Luke 9:23), gty.org, sermon code 42-119
+
+論登山變像的意義：
+
+> "Jesus always possessed that glory but kept it veiled until this moment."
+
+> "No one could bring the apostles more assurance and confidence that the death of Jesus was in the plan than to hear it from Moses and Elijah."
+
+> — John MacArthur, "The Unveiled Son" (Mark 9:2-8，登山變像平行記載), gty.org, sermon code 41-43
+
+---
+
+## 黃長老查經 (Ask Elder Wong)
+
+### 精義一句話
+
+彼得認出祂是基督的那一刻，正是耶穌開始教導十字架的那一刻——榮耀與苦難，在真正的基督論裡，從來不能分開。
+
+### 黃長老這樣帶你讀
+
+**禱告裡的變像**——路加特別記載，登山變像發生在耶穌「禱告的時候」(9:29)。路加福音記載耶穌禱告共七次之多，是四福音書中最多的一卷。這不是偶然的寫作習慣，是要讀者看見：完全的人性，正是活在完全依靠父神的禱告裡。帶領提問：「你生命中最『改變形像』的時刻，是不是也發生在禱告裡？」
+
+**從『眾人說』到『你們說』**——彼得的認信前，耶穌先問「眾人說我是誰？」，再問「你們說我是誰？」——這是整本福音書的軸心問題，也是每一代讀者都躲不掉的問題。信仰從來不能建立在「別人怎麼說」上，必須落到「你自己怎麼說」。帶領提問：「如果現在耶穌問你這句話，你的答案，是你自己的信仰，還是別人教你的答案？」
+
+**多了兩個字**——「天天背起自己的十字架」，路加特別加了「天天」兩個字，馬太、馬可都沒有。字句叫人死，精義叫人活——背十字架不是偶爾一次的壯烈犧牲，是每天早晨重新做的選擇。帶領提問：「今天，你還要不要為自己活？」
+
+**摩西五經裡的根**——摩西、以利亞在山上與主談論祂的「去世」，原文是「出埃及」(exodos)。摩西曾經帶百姓出埃及，如今站在山上，和那位要親自成就更大「出埃及」的主談話——你們若不信摩西的書，怎能信我的話？整本聖經只有一個故事：從捆綁到自由，從死亡到生命，主角只有一位。帶領提問：「這個新約事件，在舊約摩西的故事裡有沒有根？找到那個根，這段話就活了。」
+
+### 整本聖經的連結
+
+摩西在西奈山下山時，臉皮因見過神的榮耀而發光，百姓不敢挨近他(出34:29-35)；如今在變像山上，摩西親眼看見了那榮耀本身站在他面前——不再是反照的光，而是光的源頭。以利亞曾被火車火馬接到天上(王下2:11)，這裡卻主動選擇留在地上與耶穌談論十字架。從西奈到黑門山，舊約所有反照神榮耀的人物，在這一刻一齊朝向那位榮耀本身俯首。
+
+### 讓話語住在裡面
+
+默想問題：你手扶著犁，往後看的是什麼？
+
+今天的實踐：為要往「耶路撒冷」方向而去的一個難處，禱告求神賜你「定意的心」。
+
+### 你看見耶穌了嗎？
+
+你看見的是那位在山上短暫顯出祂本有榮耀、卻「定意」不被接上升、轉身面向十字架的主——祂的榮耀從來不是為了留在山頂，而是為了走完那條通向十字架、又通向復活的路。
+
+*（依黃長老查經法整理與應用，非逐字引用特定課程紀錄）*
+
+---
+
 ## 生命應用 (Application)
 
 ### 默想問題
@@ -125,6 +234,20 @@ publisher: 三書精讀出版系統
 - **Rock of Ages** — 萬古磐石
 - **Take Up Your Cross** — 背起十字架
 - **How Good, Lord, to Be Here** — 主，在這裏真好
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 耶穌差遣十二使徒時，吩咐他們不要帶食物、錢囊(9:3)——這種「輕裝上陣」的原則，對今天倚靠制度和資源的事奉方式有什麼提醒？
+
+2. 五餅二魚神蹟中，耶穌先問門徒「你們給他們吃吧」，門徒卻先算計「二十兩銀子」——你在面對事奉的需要時，習慣先算計資源，還是先帶到主面前？
+
+3. 彼得在山上說「我們在這裡真好」，路加卻特別註明他「不知道自己所說的是什麼」——你是否也曾用屬靈的話語，掩飾自己還沒準備好面對的現實？
+
+4. 門徒下山後無法醫治那被鬼附的孩子(9:37-45)，耶穌責備這是「不信、悖謬的世代」——你生命中有沒有「上了山、卻在山下失去能力」的經驗？
+
+5. 三個人回應耶穌呼召的方式各不相同(9:57-62)——「我要跟從你」、「容我先」、「容我去辭別家裡的人」——哪一句最貼近你此刻回應主呼召的態度？
 
 ---
 

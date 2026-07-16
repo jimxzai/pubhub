@@ -10,6 +10,12 @@ publisher: 三書精讀出版系統
 
 路加福音 23:1-56
 
+**經文核對**：[ai-eden.com/bible/luke/23](https://www.ai-eden.com/bible/luke/23?t=CUV,ESV&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+十字架，是路加福音的重心，也是整本聖經的重心。這一章讓我們看見一個表面上矛盾、實際上完全合一的畫面：一位被兩任總督都查不出罪的無辜者，卻甘願被釘；一位被掛在刑具上、氣息將斷的人，卻仍有能力赦免、應許樂園、把靈魂交託。祂沒有被奪去性命——祂主動、清醒地把生命交出來。幔子從上而下裂開，不是人手所為，是神親自打開了那條回家的路。
+
 ## 經文 (Scripture)
 
 ### 第一段：彼拉多與希律的審判 (23:1-25)
@@ -22,26 +28,26 @@ publisher: 三書精讀出版系統
 
 ### 第二段：往各各他 (23:26-31)
 
-> ^28^耶穌轉身對她們說：「耶路撒冷的女兒，不要為我哭，當為自己和自己的兒女哭。」
+> ^28^耶穌轉身對她們說：<red>「耶路撒冷的女兒，不要為我哭，當為自己和自己的兒女哭。」</red>
 
 ---
 
 ### 第三段：釘十字架 (23:32-43)
 
-> ^34^耶穌說：「父啊，赦免他們！因為他們所做的，他們不曉得。」
+> ^34^耶穌說：<red>「父啊，赦免他們！因為他們所做的，他們不曉得。」</red>
 
-> ^42^他又說：「耶穌啊，你進入你國的時候，求你記念我。」^43^耶穌對他說：「我實在告訴你，今天你要同我在樂園裏了。」
+> ^42^他又說：「耶穌啊，你進入你國的時候，求你記念我。」^43^耶穌對他說：<red>「我實在告訴你，今天你要同我在樂園裏了。」</red>
 
 #### English — ESV
 
-> ^34^And Jesus said, "Father, forgive them, for they know not what they do."
-> ^43^And he said to him, "Truly, I say to you, today you will be with me in paradise."
+> ^34^And Jesus said, <red>"Father, forgive them, for they know not what they do."</red>
+> ^43^And he said to him, <red>"Truly, I say to you, today you will be with me in paradise."</red>
 
 ---
 
 ### 第四段：耶穌之死 (23:44-49)
 
-> ^44^那時約在正午，遍地都黑暗了，直到下午三點鐘，^45^太陽的光消失了，聖殿的幔子從當中裂為兩半。^46^耶穌大聲喊著說：「父啊，我將我的靈魂交在你手裏！」說了這話，氣就斷了。
+> ^44^那時約在正午，遍地都黑暗了，直到下午三點鐘，^45^太陽的光消失了，聖殿的幔子從當中裂為兩半。^46^耶穌大聲喊著說：<red>「父啊，我將我的靈魂交在你手裏！」</red>說了這話，氣就斷了。
 
 > ^47^百夫長看見所發生的事，就歸榮耀給神，說：「這人真是義人！」
 
@@ -53,7 +59,30 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 備註 |
+|--------|------|------|------|
+| *stauroō* | stauroō | 釘十字架 | 23:33，本章敘述的核心動作 |
+| *paradeisos* | paradeisos | 樂園 | 23:43，源自波斯文「園林」，七十士譯本用來指伊甸園 |
+| *katapetasma* | katapetasma | (聖殿的)幔子 | 23:45 |
+| *schizō* | schizō | 裂開、撕裂 | 23:45「從當中裂為兩半」 |
+| *dikaios* | dikaios | 義、無辜、公正 | 23:47 百夫長的宣告 |
+| *aphiēmi* | aphiēmi | 赦免、釋放 | 23:34「父啊，赦免他們」 |
+| *kranion* | kranion | 髑髏(地) | 23:33 地名，拉丁文Calvaria(各各他) |
+| *paratithēmi* | paratithēmi | 交託、交付保管 | 23:46「我將我的靈魂交在你手裏」，法律用語：把財物交託給可信賴的人保管 |
+
+### 「樂園」(paradeisos) 的深層意義
+
+*paradeisos* 原是波斯文，指帝王的園林，七十士譯本用它翻譯創世記2章的伊甸園。人類歷史從伊甸園被趕出開始（創3:23-24，有基路伯和四面轉動的火焰劍把守），路加福音23:43是聖經裏第一次有人被明確應許「重返樂園」——而且是對一個一無所有、只能說「求你記念我」的死刑犯。伊甸園的門曾經被封鎖，如今卻藉着十字架旁的這一句話重新打開。
+
+### 「幔子從當中裂為兩半」的深層意義
+
+幔子（*katapetasma*）隔開至聖所，象徵人與神聖潔的神之間的阻隔——一年一次，只有大祭司能藉着獻血進入。路加沒有說明方向，但馬太福音27:51指出，這幔子是「從上到下」裂開的：這不是地震從下往上撕裂的結果，是神從天上親手撕開了這道帳幔。祭司制度、獻祭系統、律法的隔閡，在耶穌斷氣的那一刻同時終結——希伯來書10:19-20後來如此解釋：「因耶穌的血，得以坦然進入至聖所……是藉着他給我們開了一條又新又活的路，從幔子經過，這幔子就是他的身體。」
+
+---
+
+## 領受要點 (Points to Receive)
 
 ### 1. 無辜者的受難
 
@@ -100,6 +129,79 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 摩根：彼拉多的抉擇與各各他的赦免 (G. Campbell Morgan)
+
+論彼拉多明知無罪卻仍妥協的抉擇，摩根寫下了少見的嚴厲判語：
+
+> "He went wrong where many a man goes wrong, when he sold his conscience for convenience and safety, when he spat in the face of justice, and adopted the way of policy."
+
+論十字架上第一句話「父啊，赦免他們」：
+
+> "That is humanity at its greatest... In the soul of Jesus there was no resentment, no anger, no lurking desire for punishment upon the men who were maltreating Him."
+
+論官長譏誚「他救了別人，他若是基督、神所揀選的，可以救自己吧」時，摩根指出這譏誚本身正好說中了彌賽亞的真相：
+
+> "He saved others, Himself He could not save. That is Messiahship. He could not save Himself: Why not? Because He would save others."
+
+論約瑟和婦女們為耶穌收殮安葬：
+
+> "No hand but the hand of love ever touched the dead body of Jesus."
+
+> — G. Campbell Morgan, *The Gospel According to Luke*
+
+### 麥克阿瑟：各各他的三種回應 (John MacArthur)
+
+麥克阿瑟在《The King Crucified: Responses at Calvary》（路加福音23:47-49，gty.org，sermon 42-289）中，將幔子裂開與耶穌斷氣的時刻連結為新舊約交替的關鍵樞紐：
+
+> "It signaled the ratification of the New Covenant, and that's why at that very moment the veil was split in the temple because the way to God was fully opened."
+
+論百夫長與眾兵丁的反應：
+
+> "It dawned on them that they had crucified the Son of God."
+
+論這種懼怕本身是合宜的屬靈反應：
+
+> "Fear of divine judgment because of how you treat Christ is exactly the way a sinner should feel."
+
+> — John MacArthur, "The King Crucified: Responses at Calvary" (Luke 23:47-49), gty.org, sermon code 42-289
+
+---
+
+## 黃長老查經 (Ask Elder Wong)
+
+### 精義一句話
+
+無罪的那一位被判了罪，好讓被判了罪的我們可以被稱為無罪——幔子裂開的那一刻，不是聖殿的悲劇，是全人類的大赦。
+
+### 黃長老這樣帶你讀
+
+**耶穌幾乎不為自己辯護一句話，因為以賽亞書53章早已寫好劇本**——「他被欺壓，在受苦的時候卻不開口；他像羊羔被牽到宰殺之地」（賽53:7）。從彼拉多到希律，從辱罵的兵丁到十字架下的官長，祂的沉默不是軟弱，是應驗。帶領提問：「先知在幾百年前寫下的細節，精準得讓人起雞皮疙瘩——這證明了什麼？」
+
+**兩個強盜，同樣的十字架，同樣的距離，結局卻完全不同**——差別不在距離，在心。一個要耶穌「救自己，也救我們」，把耶穌當工具；一個承認「我們是應該的」，把自己看清楚。帶領提問：「天堂和地獄之間，有時候只隔着一個十字架的寬度——你今天離耶穌有多近？」
+
+**第一個公開宣告耶穌「真是義人」的，是一個外邦百夫長**——這不是意外，是使徒行傳「直到地極」的預演。帶領提問：「你的禱告名單裏，有沒有那些你覺得『不太可能』信主的『外邦人』？」
+
+**「父啊，我將我的靈魂交在你手裏」，把大衛的哀求變成了得勝的宣告**——祂交託，不是因為無力，是因為「成了」（約19:30）。死亡本身，變成一個主動的、有尊嚴的交託動作。帶領提問：「你想過自己臨終那一刻要說什麼話嗎？」
+
+### 整本聖經的連結
+
+創世記3:24，人被趕出伊甸園，基路伯與火焰的劍把守生命樹的道路——門，鎖上了。路加福音23:43，耶穌對垂死的強盜說「今天你要同我在樂園裏了」——門，藉十字架重新打開。詩篇22篇預言的細節（分我的外衣、扎我的手我的腳）與詩篇31:5「我將我的靈交在你手裏」，在各各他一一應驗、被耶穌親口引用。
+
+### 讓話語住在裡面
+
+默想：那個強盜什麼都沒做，只說了一句話，就得着應許——這對「我必須先做點什麼才配得神的接納」的想法，是什麼樣的打擊？
+今天的實踐：寫下一件你還沒有真正「交託」在神手裏的事，今天用禱告把它交出去。
+
+### 你看見耶穌了嗎？
+
+十字架上的耶穌，是應驗先知預言的受苦僕人，也是仍有能力赦免、應許樂園的君王。祂沒有被奪去性命——「氣就斷了」之前，是祂親口說「我將我的靈魂交在你手裏」。你若在這一章看不見一位主動捨命的主，只看見一個受害者，那你可能還沒有真正看見祂。
+
+*（依黃長老查經法整理與應用，非逐字引用特定課程紀錄）*
+
+---
+
 ## 生命應用 (Application)
 
 ### 默想問題
@@ -130,6 +232,20 @@ publisher: 三書精讀出版系統
 - **When I Survey the Wondrous Cross** — 每逢思想奇妙十架
 - **O Sacred Head, Now Wounded** — 聖首受傷
 - **The Old Rugged Cross** — 古舊十架
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 彼拉多三次宣告耶穌無罪，卻三次沒有釋放祂——知道真理卻不按真理行動，這對你有什麼提醒？
+
+2. 希律「切心要見耶穌行一件神蹟」，見了面卻只把祂當作消遣、戲弄——你有沒有用類似的心態對待信仰，只想看「表演」，卻不肯真正面對耶穌是誰？
+
+3. 「這人真是義人」是一個外邦百夫長說的公開告白——這對「誰能認識神」的界線，給了你什麼啟發？
+
+4. 婦女們「跟着來，看見了墳墓，和他的身體怎樣安放」——在盼望似乎完全破滅的時候，她們仍然沒有離開。你在信心的黑夜裏，通常是留下還是離開？
+
+5. 路加特別記下亞利馬太的約瑟「並沒有附從」眾人的計謀——在群體壓力之下持守良心，需要付上什麼代價？你上一次為了持守良心，付上了什麼代價？
 
 ---
 

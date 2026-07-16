@@ -15,7 +15,15 @@
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Heiti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -67,6 +75,10 @@
 % Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
+
+% Red Letter Bible (Jesus's words) - matches gospel-of-john.latex / gospel-of-mark.latex
+\definecolor{JesusRed}{RGB}{204,0,0}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
 
 %% ============================================
 %% MATH AND SYMBOLS
@@ -524,5 +536,47 @@ $endif$
 \mainmatter
 
 $body$
+
+%% --------------------------------------------
+%% BACK COVER
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\Large\itshape\color{ChapterBlue} $if(backcover-symbol)$$backcover-symbol$$else$ζητῆσαι$endif$}\\[0.1cm]
+{\small\itshape\color{LightGray} "To Seek" · 尋找——路加福音19:10的鑰字}
+
+\vspace{0.8cm}
+
+\crosssymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\crosssymbol
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterBlue} 關於本書}\qquad{\large\bfseries\color{ChapterBlue} About This Book}
+
+\vspace{0.5cm}
+
+\begin{minipage}{5in}
+\small\color{TextGray}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀路加福音全書二十四章，整合黃長老查經教導、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan 屬靈組織分析，貫穿全書「人子來，是要尋找、拯救失喪的人」（路19:10）的主線——從馬利亞的尊主頌、迷失的羊、浪子回頭，到以馬忤斯路上的顯現，路加以醫生的細膩筆觸，記下這位完全人如何親自尋回每一個被邊緣化的人：稅吏、罪人、外邦人、女性、窮人。全書以復活的主向門徒「打開他們的心竅，使他們能明白聖經」（24:45）收筆，指向那位仍在今日打開人心竅的主。
+
+A chapter-by-chapter study of all twenty-four chapters of Luke, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and G. Campbell Morgan's spiritual analysis, tracing the Gospel's central thread: "For the Son of Man came to seek and to save the lost" (Luke 19:10). From Mary's Magnificat, the lost sheep, and the prodigal son, to the Emmaus road appearance, Luke's physician's eye records how the perfect Man personally sought out the marginalized — tax collectors, sinners, Gentiles, women, the poor. The whole book closes with the risen Lord opening His disciples' minds to understand the Scriptures (24:45) — the same Lord still opening hearts today.
+$endif$
+\end{minipage}
+
+\vspace{1cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
 
 \end{document}
