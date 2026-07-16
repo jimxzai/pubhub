@@ -104,7 +104,7 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
-> 「這收割的畫面，不是溫和的比喻，而是最終審判的預演——那把鐮刀揮下的一刻，人一生的機會之窗就此關閉。」
+麥克阿瑟指出，這收割的畫面不是溫和的比喻，而是最終審判的預演——鐮刀揮下的那一刻，象徵人一生悔改的機會之窗就此關閉。
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*
 
 **格蘭特·奧斯本 (Grant Osborne)**：

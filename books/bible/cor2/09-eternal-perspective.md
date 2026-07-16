@@ -1,70 +1,252 @@
-# 哥林多後書 4:13-18：永恆眼光
-## 2 Corinthians 4:13-18 — Eternal Perspective
+# 哥林多後書 4:13-18：永恆眼光 (2 Corinthians 4:13-18 — Eternal Perspective)
 
-**Lesson 09** | 2026-04-26 | 教師：陳志惠
+哥林多後書 4:13-18
 
----
+**Lesson 09** | 2026-04-26
 
-## 經文
-
-### 和合本 (CUV)
-
-> ¹³ 但我們既有信心，正如經上記著說：「我因信，所以如此說話」。我們也信，所以也說話。
-> ¹⁴ 自己知道那叫主耶穌復活的，也必叫我們與耶穌一同復活，並且叫我們與你們一同站在他面前。
-> ¹⁵ 凡事都是為你們，好叫恩惠因著越發加增的人歸到神，越發加增感謝，以致榮耀歸於神。
-> ¹⁶ 所以，我們不喪膽。外體雖然毀壞，內心卻一天新似一天。
-> ¹⁷ 我們這至暫至輕的苦楚，要為我們成就極重無比、永遠的榮耀。
-> ¹⁸ 原來我們不是顧念所見的，乃是顧念所不見的；因為所見的是暫時的，所不見的是永遠的。
-
-### English Standard Version (ESV)
-
-> ¹³ Since we have the same spirit of faith according to what has been written, "I believed, and so I spoke," we also believe, and so we also speak,
-> ¹⁴ knowing that he who raised the Lord Jesus will raise us also with Jesus and bring us with you into his presence.
-> ¹⁵ For it is all for your sake, so that as grace extends to more and more people it may increase thanksgiving, to the glory of God.
-> ¹⁶ So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day.
-> ¹⁷ For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison,
-> ¹⁸ as we look not to the things that are seen but to the things that are unseen. For the things that are seen are transient, but the things that are unseen are eternal.
-
-**經文核對**: [ai-eden.com/bible/2-corinthians/4?t=CUV,ESV&cols=2](https://ai-eden.com/bible/2-corinthians/4?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/2-corinthians/4](https://www.ai-eden.com/bible/2-corinthians/4?t=CUV,ESV&cols=2)
 
 ---
 
-## 核心對比
+## 基督焦點 (Christ at the Center)
 
-| 暫時的 | 永恆的 |
-|--------|--------|
-| 外體毀壞 (outer self wasting away) | 內心一天新似一天 (inner self renewed) |
-| 至暫至輕的苦楚 (light momentary affliction) | 極重無比永遠的榮耀 (eternal weight of glory) |
-| 所見的 (things seen) | 所不見的 (things unseen) |
-
-### v.17 對比的極端
-
-保羅用了四組形容詞的對比：
-
-- 至暫 (παραυτίκα, momentary) vs 永遠 (αἰώνιον, eternal)
-- 至輕 (ἐλαφρόν, light) vs 極重無比 (βάρος, weight — 同根字 βαρύς 意為「沉重的」)
-
-MacArthur：保羅說這些話時，他經歷的「至暫至輕」包括被打、被石頭打、船壞三次、晝夜在深海裡 (11:24-27)。這不是輕描淡寫，而是在永恆的天平上重新衡量。
+這段經文的中心不是保羅的忍耐力，而是「那叫主耶穌復活的」神（4:14）。保羅事奉中一切「不喪膽」的底氣，都繫於一個歷史事實：耶穌基督已經從死裡復活。因為那使耶穌復活的大能是同一位神，保羅才能把外體的毀壞、至暫至輕的苦楚，都放進一個更大的敘事裡——那位曾使基督從死裡復活的神，也必照樣叫我們與耶穌一同復活，一同站在祂面前（4:14）。換句話說，保羅的「永恆眼光」不是一種正向思考的技巧，而是根植於復活基督的一個歷史事實：死已經被吞滅，苦難已經被重新衡量。所見的必朽壞，所不見的、就是那位復活的基督與祂所應許的榮耀，才是真正恆常的實底。
 
 ---
 
-## 聖靈的工作：內心一天新似一天 (v.16)
+## 經文 (Scripture)
 
-ἀνακαινόω (anakainoō) — 被更新。同字根出現在羅 12:2「心意更新而變化」。
+### 中文 — 和合本 (CUV)
 
-這是聖靈持續的更新工作。外體雖然衰殘，但聖靈每天在內在更新信徒 — 延續 3:18 「從榮耀到榮耀」的主題。
+> ^13^但我們既有信心，正如經上記著說：「我因信，所以如此說話。」我們也信，所以也說話。^14^自己知道那叫主耶穌復活的，也必叫我們與耶穌一同復活，並且叫我們與你們一同站在他面前。^15^凡事都是為你們，好叫恩惠因人多越發加增，感謝格外顯多，以致榮耀歸與神。
+
+> ^16^所以，我們不喪膽。外體雖然毀壞，內心卻一天新似一天。^17^我們這至暫至輕的苦楚，要為我們成就極重無比、永遠的榮耀。^18^原來我們不是顧念所見的，乃是顧念所不見的；因為所見的是暫時的，所不見的是永遠的。
+
+### English — ESV
+
+> ^13^Since we have the same spirit of faith according to what has been written, "I believed, and so I spoke," we also believe, and so we also speak, ^14^knowing that he who raised the Lord Jesus will raise us also with Jesus and bring us with you into his presence. ^15^For it is all for your sake, so that as grace extends to more and more people it may increase thanksgiving, to the glory of God.
+
+> ^16^So we do not lose heart. Though our outer self is wasting away, our inner self is being renewed day by day. ^17^For this light momentary affliction is preparing for us an eternal weight of glory beyond all comparison, ^18^as we look not to the things that are seen but to the things that are unseen. For the things that are seen are transient, but the things that are unseen are eternal.
 
 ---
 
-## 課堂筆記
+## 背景 (Context)
 
-<!-- 在此記錄課堂筆記 -->
+### 歷史背景
+
+哥林多後書寫於約主後55-56年，繼保羅那封「嚴厲的信」與傷心的探訪之後。提多剛從哥林多帶回消息：多數會眾已經悔改回轉，但城中仍有「假使徒」（11:13）不斷質疑保羅使徒身分的真確性，質問：一個經歷這麼多苦難、外體如此毀壞的人，怎麼可能是神所差的？第4章正是保羅對這個質疑的回答——他不否認外體毀壞的事實（4:16），反而把它安放進福音的邏輯裡：軟弱的器皿正好彰顯那超越的能力是屬乎神、不屬乎自己（4:7）。4:13-18 是這段論證的高峰：保羅解釋，是什麼讓他在如此患難中仍然「說話」、仍然「不喪膽」——是信心（4:13）、是復活的盼望（4:14）、是永恆與暫時之間重新校準的天平（4:17-18）。
+
+### 文學結構
+
+| 經節 | 內容 | 邏輯連接 |
+|------|------|----------|
+| 4:13 | 信心的靈——「我信，所以我說」 | 承接4:7-12的受苦見證 |
+| 4:14 | 復活的知識——「知道」(εἰδότες) | 信心的根據：歷史事實 |
+| 4:15 | 服事的目的——恩惠、感謝、榮耀歸神 | 苦難的意義：不為自己 |
+| 4:16 | 結論一：不喪膽 | 外體毀壞 vs 內心更新 |
+| 4:17 | 結論二：苦楚被重新衡量 | 至暫至輕 vs 極重無比永遠 |
+| 4:18 | 結論三：眼光的方向 | 所見暫時 vs 所不見永遠 |
+
+三個「所以」層層遞進：因為信（13節），因為知道（14節），所以不喪膽（16節）——保羅的忍耐不是意志力的產物，是真理認知帶出的實際生活姿態。
 
 ---
 
-## 反思與應用
+## 原文研讀 (Word Study)
 
-<!-- 在此記錄個人反思 -->
+| 希臘文 | 音譯 | 意義 | 註解 |
+|--------|------|------|------|
+| πνεῦμα τῆς πίστεως | *pneuma tēs pisteōs* | 信心的靈 | 引自七十士譯本詩篇116:10 |
+| ἐγείρω | *egeirō* | 使…復活、興起 | 4:14 兩次出現，主詞是神 |
+| χάρις | *charis* | 恩惠、恩典 | 4:15，因人多而加增 |
+| εὐχαριστία | *eucharistia* | 感謝 | 4:15，福音擴展的目標之一 |
+| ἐγκακέω | *enkakeō* | 喪膽、灰心放棄 | 4:16「不喪膽」，本卷書關鍵詞（另見2:14起首、4:1） |
+| ἀνακαινόω | *anakainoō* | 更新、使一天新似一天 | 4:16，現在式被動，持續進行的工作 |
+| θλῖψις | *thlipsis* | 患難、苦楚 | 4:17「至暫至輕的苦楚」 |
+| βάρος δόξης | *baros doxēs* | 榮耀的重量 | 4:17，與「至輕」(ἐλαφρόν) 刻意對比 |
+| σκοπέω | *skopeō* | 定睛、專注察看 | 4:18，現在式，持續的凝視 |
+
+### 「不喪膽」(ἐγκακέω) 貫穿全卷的線索
+
+*enkakeō* 在哥林多後書中不是孤立的一個詞，是保羅事奉領受的骨架：2:14起首處他宣告「感謝神，常率領我們在基督裡誇勝」；4:1「我們既然蒙憐憫，受了這職分，就不喪膽」；4:16「所以，我們不喪膽」；再到後面以弗所書3:13保羅同樣用這詞求信徒「不要因我為你們所受的患難喪膽」。三次「不喪膽」都不是壓抑情緒的自我催眠，而是根植於「知道」（4:1「蒙憐憫」、4:14「知道那叫主耶穌復活的」）——認知帶動意志，而非意志對抗現實。
+
+### 「至暫至輕」與「極重無比、永遠」的天平
+
+保羅在4:17刻意堆疊修辭上的極端對比：παραυτίκα（此刻即逝的）+ ἐλαφρόν（輕省的）搭配 θλῖψις（患難），對上 αἰώνιον（永恆的）+ βάρος（沉重的，與「輕」的ἐλαφρόν完全相反）搭配 δόξης（榮耀）。原文甚至用了「越發、越發」(καθ᾽ ὑπερβολὴν εἰς ὑπερβολήν，直譯「超越又超越」)這個疊加式的最高級，中文和合本譯作「極重無比」。保羅寫這話的時候，他親身經歷的「至暫至輕」，正是11:23-27所列的被鞭打、被石頭打、船壞三次、晝夜在深海裡——他不是輕描淡寫，而是站在永恆的天平上，重新為苦難秤重。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 信心的靈——貫穿新舊兩約的同一個「說」
+
+保羅引用詩篇116:10「我因信，所以如此說話」（七十士譯本），指出他與詩篇作者「有同一個信心的靈」。這句引文提醒我們：舊約聖徒在患難中呼求神、又因信而發聲讚美的靈，與新約使徒在患難中傳講福音的靈，是同一位聖靈所賜的同一種信心。詩篇116篇的作者從死亡的網羅中被救拔（116:3, 8），保羅則從死裡復活的基督得著盼望（4:14）——這是一條從詩篇到福音、一以貫之的「因信而說」的線索，我們在這線索的末端，領受同一位聖靈所賜、使人開口見證的信心。
+
+### 2. 復活的知識——「知道」如何托住「不喪膽」
+
+4:14「自己知道」（εἰδότες，一個分詞，帶出後面整段的邏輯根基）不是一種盼望式的猜想，而是根植於歷史事實的確信：耶穌基督已經從死裡復活（羅馬書1:4；哥林多前書15:20）。羅馬書8:11把這個邏輯說得更完整：「然而，叫耶穌從死裡復活者的靈若住在你們心裡，那叫基督耶穌從死裡復活的，也必藉着住在你們裡面的聖靈，使你們必死的身體又活過來。」保羅在哥林多後書4:14所站立的，正是羅馬書8章那同一個復活應許——我們今天在患難中「不喪膽」的根基，不是自我激勵，而是這同一個已經發生、且必要應驗在我們身上的復活事實。
+
+### 3. 外體毀壞、內心更新——從西乃山的帕子到榮上加榮的臉
+
+哥林多後書3:18剛剛說過，我們「敞著臉」得以看見主的榮光，「就變成主的形狀，榮上加榮」——那是聖靈持續進行的工作。4:16「內心卻一天新似一天」（ἀνακαινοῦται，同一種持續進行式）正是3:18那個「變化」在日常生活中的延續。羅馬書12:2用同一個字根呼籲信徒「心意更新而變化」；歌羅西書3:10說新人「照著創造他的主的形像漸漸更新，能夠有真知識」。從西乃山摩西臉上要蒙帕子的漸漸退去的榮光（出34:29-35；林後3:13），到今天信徒內心「一天新似一天」的更新——這是聖經裡榮耀不斷加增、而非漸漸消逝的故事，我們今天在外體毀壞中，領受的正是這持續加增的內在更新。
+
+### 4. 苦難天平的重新校準——從羅馬書8章到啟示錄21章
+
+「我們這至暫至輕的苦楚，要為我們成就極重無比、永遠的榮耀」（4:17），與羅馬書8:18遙相呼應：「我想，現在的苦楚若比起將來要顯於我們的榮耀，就不足介意了。」這不是自我安慰的心理技巧，而是把眼前的患難放進一個更大的時間尺度裡衡量。啟示錄21:4描繪這榮耀最終的樣式：「神要擦去他們一切的眼淚；不再有死亡，也不再有悲哀、哭號、疼痛，因為以前的事都過去了。」保羅在哥林多後書4:17所預嘗的「極重無比、永遠的榮耀」，正是啟示錄21章那終末盼望的現在進行式——我們今天在患難中，領受的是一份已經開始兌現、將來要完全兌現的榮耀應許。
+
+### 5. 定睛所不見的——從摩西「如同見那不能看見的主」到來11章的信心雲彩
+
+4:18「顧念所不見的」(σκοποῦντες τὰ μὴ βλεπόμενα) 與希伯來書11:27描述摩西離開埃及時「他因看見那不能看見的主，就恆心忍耐，如同看見他一般」是同一種屬靈視覺。希伯來書11章整章記載的信心偉人，都是「存著信心死了，並沒有得著所應許的，卻從遠處望見，且歡喜迎接」（來11:13）。保羅在哥林多後書4:18所定睛的「所不見的」，與摩西、亞伯拉罕、歷代信心見證人所仰望的，是同一位又真又活、如今尚未顯明、卻終必顯明的神——我們今天領受的，是加入這一列信心雲彩、學習用同一副屬靈眼光看世界的呼召。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, 349-407)**：
+
+> "Yet the inward man is renewed day by day. How is it renewed? By faith, by hope, by a forward will, finally, by braving those extremities... For the light affliction, he says, which is for the moment, works more and more exceedingly an eternal weight of glory... For the things that are seen are temporal... But the things that are not seen are eternal."（「內心卻一天新似一天。」如何更新呢？藉著信、藉著盼望、藉著向前的心志，最終藉著在極端困境中的勇敢……他說，這至暫的輕省患難，越發越發地成就一個永遠的榮耀之重……因為所見的是暫時的……但所不見的是永遠的。）
+> — John Chrysostom, *Homily IX on Second Corinthians* (on 4:8-18), https://www.newadvent.org/fathers/220209.htm
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+> 加爾文論16節「一天新似一天」：外體的衰殘，是為要叫「內心可以茂盛」，神天天藉此提醒我們思念這事；論17節「至暫至輕的苦楚」：「敬虔之人的苦難與煩惱，若與那無邊無際的永遠榮耀相比，幾乎沒有任何苦味可言」，這樣的比較正是「對抗在患難重壓下沉淪的最好解藥」；論18節：「當我們的心思一旦被提升、仰望天上，一千年在我們眼中也開始顯得如同一瞬」，因為「信心正是被形容為『觀看那看不見之事』」。
+> — John Calvin, *Commentary on Corinthians*, Vol. 2, on 2 Corinthians 4:16-18, https://ccel.org/ccel/calvin/calcom40.x.iii.html
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+> "Therefore we do not lose heart, but though our outer man is decaying, yet our inner man is being renewed day by day... For momentary, light affliction is producing for us an eternal weight of glory far beyond all comparison... While we look not at the things which are seen, but at the things which are not seen; for the things which are seen are temporal, but the things which are not seen are eternal."（所以，我們不喪膽；外體雖然毀壞，內心卻一天新似一天……因為這至暫至輕的苦楚，要為我們成就極重無比、遠超一切比較的永遠榮耀……我們不顧念所見的，只顧念所不見的；因為所見的是暫時的，所不見的是永遠的。）
+> — John MacArthur, "Secrets to Endurance" (gty.org 講道 47-30，1994年11月20日), https://www.gty.org/library/sermons-library/47-30/secrets-to-endurance
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟：忍耐的三個屬天理由 (John MacArthur)
+
+麥克阿瑟在「Secrets to Endurance」這篇講道中，將4:16-18解構成保羅給出的三個「屬天的理由」，說明信徒為何能在患難中持續事奉而不喪膽：內心正在被聖靈更新（v.16）、眼前的苦楚正在產出遠超比例的永遠榮耀（v.17）、以及信徒的眼光定睛在不能看見卻永遠長存的實體上（v.18）（此處為筆者根據麥克阿瑟「Secrets to Endurance」講道要點的歸納整理，並非逐字引文；原文參 gty.org 講道 47-30）。他特別指出，這種忍耐不是靠壓抑感受、也不是靠否認苦難的真實性，而是靠著把眼前有限的患難，放進一個永恆、無限的時間與榮耀的框架裡重新衡量。
+
+> — John MacArthur, "Secrets to Endurance," gty.org 講道 47-30 (1994年11月20日), https://www.gty.org/library/sermons-library/47-30/secrets-to-endurance
+
+（說明：截至本課撰寫時，未能在 archive.org 或其他可查證來源找到 G. Campbell Morgan《The Corinthian Letters of Paul》一書關於本段經文的逐字引文全文，故此節省略摩根之獨立分段，以免杜撰引文；上方「歷代注疏」與「領受與亮光」已引用可查證之屈梭多模、加爾文原文。）
+
+### 黃長老查經：把苦難放上永恆的天平 (Ask Elder Wong)
+
+黃長老常說，讀哥林多後書4章的關鍵，不是問「保羅怎麼這麼堅強」，而是問「保羅站在哪裡看他的苦難」：
+
+「你今天遇到的難處，是用地上的尺量，還是用永恆的尺量？保羅告訴我們，同一件苦難，用不同的尺去量，會量出完全不同的結果——用今生的尺量，它可能『至重』；用永恆的尺量，它是『至暫至輕』。不是保羅感覺不到痛，是他站的地方不一樣：他站在復活基督已經得勝的那一邊，回頭看今生的苦難。你今天站在哪裡看你的難處？是站在『所見的』這一邊往前看，還是已經被聖靈挪到『所不見的』那一邊，回頭看？」
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+### 聖詩：Turn Your Eyes Upon Jesus
+
+> **Turn Your Eyes Upon Jesus**
+> *Helen H. Lemmel, 1918*
+>
+> O soul, are you weary and troubled?
+> No light in the darkness you see?
+> There's light for a look at the Savior,
+> And life more abundant and free!
+>
+> Turn your eyes upon Jesus,
+> Look full in His wonderful face,
+> And the things of earth will grow strangely dim,
+> In the light of His glory and grace.
+
+這首詩歌由 Helen Lemmel 於1918年寫成，副歌「the things of earth will grow strangely dim」（世上的事物將奇異地變得黯淡），正是哥林多後書4:18「不是顧念所見的，乃是顧念所不見的」的詩歌版本——不是靠著否認世上的黑暗與艱難，而是靠著把目光轉向基督，讓永恆的榮耀使暫時的患難相形失色。
+
+### 詩篇：詩篇 73:24-26
+
+> 你要以你的訓言引導我，以後必接我到榮耀裡。
+> 除你以外，在天上我有誰呢？
+> 除你以外，在地上我也沒有所愛慕的。
+> 我的肉體和我的心腸衰殘；
+> 但　神是我心裡的力量，
+> 又是我的福分，直到永遠。
+
+> You guide me with your counsel, and afterward you will receive me to glory.
+> Whom have I in heaven but you?
+> And there is nothing on earth that I desire besides you.
+> My flesh and my heart may fail,
+> but God is the strength of my heart and my portion forever.
+
+詩人亞薩經歷了與保羅相似的掙扎——眼見惡人亨通、義人受苦（詩73:2-14），直到他「進了神的聖所，思想他們的結局」（73:17），眼光才被重新校準。「我的肉體和我的心腸衰殘，但神是我心裡的力量」與哥林多後書4:16「外體雖然毀壞，內心卻一天新似一天」，是舊約與新約對同一個屬靈事實的兩次見證：外在的衰殘無法觸及那位作我們「永遠的福分」的神。
+
+---
+
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+「所不見的是永遠的」這條線索，從創世記起就已埋下——亞伯拉罕「等候那座有根基的城，就是神所經營所建造的」（來11:10），他一生都是在「所不見的」應許中行走。詩篇73篇的亞薩、以賽亞的僕人之歌、保羅在哥林多後書4章的見證，到希伯來書11章整章「信心偉人榜」，都是同一個信心邏輯的不同橋段：憑眼見無法支撐到底，惟有定睛在「所不見的」那位，才能走完全程。這條線索的終點是啟示錄21-22章——那時「所不見的」終於成為「所見的」，新耶路撒冷從天而降，神要與人同住，「不再有死亡」。從亞伯拉罕的帳棚到保羅的患難，到啟示錄的新天新地，聖經敘事的軸線，就是「所不見的」如何一步步成為「所見的」。
+
+### 提問式對話 (Let the Reader Speak)
+
+保羅說「我們這至暫至輕的苦楚」，但他所列的苦難清單（11:23-27）在你看來一點也不「至輕」——是什麼讓他敢這樣形容？如果今天有人問你「你怎麼還能笑得出來」，你的答案是出於否認現實，還是出於一個更大的盤算？你「顧念」的，此刻究竟是所見的，還是所不見的？
+
+### 活在今天．AI時代 (Living It Today)
+
+矽谷是一個極度依賴「可見」與「可量化」的世界——季度營收、用戶增長曲線、模型的評測分數，一切都要被看見、被計量、被比較。這種文化很容易讓人把「所不見的」當作不存在，把眼前的成敗當作終極的度量衡。哥林多後書4:18提醒我們一個相反的算法：真正決定一件事分量的，不是它能不能被儀表板顯示，而是它能不能存到永遠。今天一場看似失敗的談話、一次無人看見的忠心，若是出於聖靈的更新，它的「重量」遠超任何被看見的成功。
+
+### 今天的祭壇 (Today's Altar)
+
+具體行動：今天寫下一件你正在經歷、感覺「至重」的難處，然後在旁邊寫下一句禱告，求神幫助你用4:17的天平重新衡量它——不是否認它的重量，而是把「極重無比、永遠的榮耀」放上天平的另一端。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+不喪膽的秘訣，不是意志力，是知道——知道那叫主耶穌復活的神，也必叫我們與祂一同復活；一旦知道終點是榮耀，眼前至暫至輕的苦楚，就再也壓不垮一個定睛所不見之事的人。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **信心的靈**：「我因信，所以如此說話」——我今天的言語，是出於信心的確信，還是出於環境的反應？
+
+2. **知道的力量**：4:14「自己知道」是保羅忍耐的根基。我對復活這件事的「知道」，是頭腦的知識，還是能托住我今天決定的確信？
+
+3. **內心更新**：外體毀壞是不可避免的過程。我今天是否也給聖靈更新內心的空間，還是只忙於維持外體？
+
+4. **眼光的方向**：我近來的注意力，更多花在「所見的」還是「所不見的」上？這如何反映在我使用時間與金錢的方式上？
+
+### 禱告回應
+
+> 使耶穌從死裡復活的神，
+> 感謝你，我不必靠自己的力量撐住每一天。
+> 求你叫我的內心，天天被你的靈更新，
+> 縱然外體漸漸毀壞。
+> 求你幫助我把眼前的苦楚，
+> 放上你永恆的天平上重新衡量，
+> 使我不看所見的，只顧念所不見的，
+> 因為那是永遠長存的。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 保羅在4:13引用詩篇116:10「我因信，所以如此說話」，這句舊約引文如何幫助我們理解「信心的靈」跨越新舊兩約的連續性？
+
+2. 4:14「知道」是全段的樞紐。除了復活這件事，還有哪些「知道」的真理，是我今天忍耐與服事的根基？
+
+3. 4:16「外體毀壞、內心更新」對今天過度重視外表與健康的文化，提出了什麼樣的挑戰？
+
+4. 4:17用了「至暫至輕」對比「極重無比、永遠」這樣極端的修辭。為什麼保羅需要用這麼強烈的對比，而不是溫和的安慰？
+
+5. 「顧念所不見的」（4:18）具體來說，在我今天的生活裡，可以怎樣落實為一種持續的操練，而不只是一句口號？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
 
 ---
 

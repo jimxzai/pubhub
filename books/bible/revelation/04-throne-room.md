@@ -107,13 +107,13 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
-> 「在啟示錄展開任何一項審判之前，約翰首先被帶到寶座前——這個次序本身就是一個宣告：一切即將發生的事，無論多麼可怕，都不會超出那位坐在寶座上者的主權範圍。」
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*
+麥克阿瑟指出，在啟示錄展開任何一項審判之前，約翰首先被帶到寶座前——這個次序本身就是一個宣告：一切即將發生的事，無論多麼可怕，都不會超出那位坐在寶座上者的主權範圍。
+> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
-> 「二十四位長老將冠冕擲於寶座前的動作，是啟示錄中最深刻的敬拜圖像之一——真正的敬拜，總是以放下自己所擁有的尊榮為記號，而不是緊握不放。」
-> — Robert Mounce, *The Book of Revelation* (NICNT)
+孟斯認為，二十四位長老將冠冕擲於寶座前的動作，是啟示錄中最深刻的敬拜圖像之一——真正的敬拜，總是以放下自己所擁有的尊榮為記號，而不是緊握不放。
+> — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 

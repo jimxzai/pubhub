@@ -107,13 +107,13 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
-> 「非拉鐵非教會所擁有的，不是龐大的資源或顯赫的聲望，而是對基督之道毫不妥協的持守——正是這份持守，換來了基督毫無保留的稱許。」
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*
+麥克阿瑟指出，非拉鐵非教會所擁有的，不是龐大的資源或顯赫的聲望，而是對基督之道毫不妥協的持守——正是這份持守，換來了基督毫無保留的稱許。
+> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
-> 「『敞開的門』的意象貫串保羅書信與啟示錄，總是指向神所賜下、人無法奪去的事奉機會；非拉鐵非教會的軟弱，反倒成了這扇門得以持續敞開的背景，因為門的持久不繫於教會的力量，而繫於開門者的信實。」
-> — Grant Osborne, *Revelation* (BECNT)
+奧斯本觀察到，「敞開的門」的意象貫串保羅書信與啟示錄，總是指向神所賜下、人無法奪去的事奉機會；非拉鐵非教會的軟弱，反倒成了這扇門得以持續敞開的背景，因為門的持久不繫於教會的力量，而繫於開門者的信實。
+> — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 

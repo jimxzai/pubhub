@@ -107,13 +107,13 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
-> 「撒狄教會的核心問題，不是遭受逼迫、不是被異端滲透，而是屬靈的死寂——一種最難察覺、卻最致命的光景，因為死人不會覺得自己有病。」
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*
+麥克阿瑟指出，撒狄教會的核心問題，不是遭受逼迫、也不是被異端滲透，而是一種屬靈的死寂——最難察覺、卻最致命的光景，因為死人不會覺得自己有病。
+> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
-> 「撒狄城牆固若金湯的歷史記憶，反而成了它兩度被夜襲攻陷的諷刺；同樣，一間自滿於過去光景的教會，往往正是在毫無防備之處，被屬靈的衰敗攻陷。」
-> — Robert Mounce, *The Book of Revelation* (NICNT)
+孟斯論到撒狄城牆固若金湯的歷史記憶時指出，這份自信反而成了它兩度被夜襲攻陷的諷刺；同樣，一間自滿於過去光景的教會，往往正是在毫無防備之處，被屬靈的衰敗攻陷。
+> — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 

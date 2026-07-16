@@ -107,13 +107,13 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
-> 「老底嘉教會的悲劇，不在於他們遭遇了什麼災難，而在於他們什麼災難都沒有遭遇——舒適本身，成了讓他們對基督無感的溫床。」
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*
+麥克阿瑟論到老底嘉教會的悲劇時指出，問題不在於他們遭遇了什麼災難，而在於他們什麼災難都沒有遭遇——舒適本身，成了讓他們對基督無感的溫床。
+> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
-> 「『我站在門外叩門』一節的驚人之處，在於這是對一間已經自稱基督徒的群體所說的——基督竟站在祂自己教會的門外，等候被邀請進入；這幅圖畫本身，就是對名義信仰最深刻的控訴。」
-> — G.K. Beale, *The Book of Revelation* (NIGTC)
+畢爾指出，「我站在門外叩門」一節的驚人之處，在於這是對一間已經自稱基督徒的群體所說的——基督竟站在祂自己教會的門外，等候被邀請進入；這幅圖畫本身，就是對名義信仰最深刻的控訴。
+> — G.K. Beale, *The Book of Revelation* (NIGTC)（大意整理，非逐字翻譯）
 
 ---
 

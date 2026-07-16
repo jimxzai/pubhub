@@ -1,47 +1,262 @@
-# 哥林多後書 9:1-7：甘心樂意
-## 2 Corinthians 9:1-7 — The Cheerful Giver
+# 甘心樂意：預備好的心 (The Cheerful Giver)
 
-**Lesson 17** | 2026-06-21 | 教師：林尚信
+哥林多後書 9:1-7
 
----
+**Lesson 17** | 2026-06-21
 
-## 經文
-
-### 和合本 (CUV)
-
-> ⁶ 少種的少收，多種的多收，這話是真的。
-> ⁷ 各人要隨本心所酌定的，不要作難，不要勉強，因為捐得樂��的人是神所喜愛的。
-
-### English Standard Version (ESV)
-
-> ⁶ The point is this: whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully.
-> ⁷ Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.
-
-**經文核對**: [ai-eden.com/bible/2-corinthians/9?t=CUV,ESV&cols=2](https://ai-eden.com/bible/2-corinthians/9?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/2-corinthians/9](https://www.ai-eden.com/bible/2-corinthians/9?t=CUV,ESV&cols=2)
 
 ---
 
-## 奉獻的心態
+## 基督焦點 (Christ at the Center)
 
-| 不是 | 乃是 |
-|------|------|
-| 作難 (reluctantly) | 隨本心所酌定 |
-| 勉強 (under compulsion) | 甘心樂意 |
-| 律法的責任 | 恩典的回應 |
-
-### ἱλαρός (hilaros) — 歡喜的、愉快的
-
-英文 "hilarious" 的字根。神喜愛的不是勉強的順從，而是發自內心的歡喜給予。
-
-### 撒種的原則 (v.6)
-
-這不是「成功神學」的應許，而是屬靈原則：慷慨帶來屬靈的豐收 — 不一定是物質的回報，而是神的恩典加增在慷慨之人的生命中。
+保羅在9:7說「神喜愛捐得樂意的人」，這句話的根基在前一章已經立下：「你們知道我們主耶穌基督的恩典：他本來富足，卻為你們成了貧窮，叫你們因他的貧窮，可以成為富足」（8:9）。基督不是被強迫上十字架的——希伯來書12:2說祂「因那擺在前面的喜樂，忍受了十字架，輕看羞辱」。祂是那位終極的「樂意的捐者」：不是作難、不是勉強，而是甘心把自己給出去。9:1-7論的是奉獻箱裡的錢，但錢背後那顆「甘心」的心，最先、最完全地顯在髑髏地上。
 
 ---
 
-## 課堂筆記
+## 經文 (Scripture)
 
-<!-- 在此記錄課堂筆記 -->
+### 中文 — 和合本 (CUV)
+
+> ^1^論到供給聖徒的事，我不必寫信給你們，^2^因為我知道你們樂意的心，常對馬其頓人誇獎你們，說亞該亞人預備好了，已經有一年了；並且你們的熱心激動了許多人。
+
+> ^3^但我打發那幾位弟兄去，要叫你們照我的話預備妥當，免得我們在這事上誇獎你們的話落了空。^4^萬一有馬其頓人與我同去，見你們沒有預備，就叫我們所確信的，反成了羞愧；你們羞愧，更不用說了。
+
+> ^5^因此，我想不得不求那幾位弟兄先到你們那裡去，把從前所應許的捐貲預備妥當，作為樂捐的，不是勉強的。
+
+> ^6^少種的少收，多種的多收，這話是真的。^7^各人要隨本心所酌定的，不要作難，不要勉強，因為捐得樂意的人是神所喜愛的。
+
+### English — ESV
+
+> ^1^Now it is superfluous for me to write to you about the ministry for the saints, ^2^for I know your readiness, of which I boast about you to the people of Macedonia, saying that Achaia has been ready since last year. And your zeal has stirred up most of them.
+
+> ^3^But I am sending the brothers so that our boasting about you may not prove empty in this matter, so that you may be ready, as I said you would be. ^4^Otherwise, if some Macedonians come with me and find that you are not ready, we would be humiliated—to say nothing of you—for being so confident.
+
+> ^5^So I thought it necessary to urge the brothers to go on ahead to you and arrange in advance for the gift you have promised, so that it may be ready as a willing gift, not as an exaction.
+
+> ^6^The point is this: whoever sows sparingly will also reap sparingly, and whoever sows bountifully will also reap bountifully. ^7^Each one must give as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.
+
+---
+
+## 背景 (Context)
+
+### 歷史背景
+
+保羅寫哥林多後書約在主後55-56年，當時正在馬其頓（腓立比一帶）籌組一項特別的捐獻——為耶路撒冷教會的貧窮聖徒募款（參徒11:27-30；羅15:25-28；加2:10；林前16:1-4）。這項跨地域、跨族群的捐獻，對保羅而言不只是慈善，更是外邦教會與猶太根源教會合一的具體記號。哥林多（亞該亞省的代表教會）一年前就已經應許參與（8:10），保羅甚至已經拿哥林多人的熱心向馬其頓眾教會誇口（9:2），激勵了馬其頓人慷慨解囊（8:1-5）。如今保羅反過來擔心：他先誇獎了哥林多人，若他們屆時未真正預備好，隨行的馬其頓代表看見了，保羅與哥林多雙方都要蒙羞。因此他差提多與另外兩位弟兄（8:16-24）先行前往，把捐項在保羅與馬其頓人抵達之前安排妥當——好讓最終獻上的，是「樂捐的，不是勉強的」（9:5）。
+
+### 文學結構
+
+9:1-7承接第8章的呼籲，用一種近乎「激將又勸勉」的修辭推進論證：
+
+| 段落 | 內容 | 修辭功能 |
+|------|------|----------|
+| 1-2 | 保羅已知哥林多人樂意的心，並以此向馬其頓人誇口 | 建立互信，肯定既有的心志 |
+| 3-4 | 差派弟兄先行，核實捐項是否真正預備妥當 | 防止「誇口落空」帶來的羞愧 |
+| 5 | 及早安排，使捐獻成為「樂捐的，不是勉強的」 | 把外在期限轉化為內在甘心 |
+| 6 | 撒種與收成的屬靈定律 | 從具體捐獻提升到普遍原則 |
+| 7 | 各人隨心所定，神喜愛樂意的心 | 全段結論：心態先於金額 |
+
+整段的軸心動詞是「豫先」（προκαταρτίζω，5節「預備妥當」）與「豫定」（προαιρέομαι，7節「本心所酌定」）——保羅要的不是臨場被氣氛裹挾的慷慨，而是一顆早已在神面前定意的心。
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 註解 |
+|--------|------|------|------|
+| διακονία | *diakonia* | 服事、供給 | 1節「供給聖徒的事」，與執事(διάκονος)同源，捐獻被稱為「服事」 |
+| προθυμία | *prothymia* | 樂意、熱切 | 2節「樂意的心」，字面「預先的心志」，主動、非被動的渴望 |
+| καυχάομαι | *kauchaomai* | 誇口、誇獎 | 2-4節三次出現，保羅的誇口成了雙方的試驗 |
+| εὐλογία | *eulogia* | 祝福、豐盛的禮物 | 5節「捐貲」原文即「祝福」，暗示捐獻本身是蒙福的管道 |
+| πλεονεξία | *pleonexia* | 貪婪、勒索 | 5節「勉強」關聯詞根，指被迫擠出來、帶著怨氣的給予 |
+| σπείρω / θερίζω | *speirō / therizō* | 撒種／收割 | 6節，農業隱喻，貫通舊約智慧文學與加拉太書6章 |
+| φειδομένως | *pheidomenōs* | 吝嗇地、少量地 | 6節「少種的」，與其反義「厚厚地」(ἐπ᾽ εὐλογίαις) 相對 |
+| ἱλαρός | *hilaros* | 歡喜的、樂意的 | 7節，全新約僅此一次使用，英文hilarious(歡樂)的字根 |
+
+### ἱλαρός (hilaros) 與神自己的性情
+
+ἱλαρός在新約中只出現在這一節，卻是全段的重心。這不是強顏歡笑的勉強，而是發自內心、不能自禁的喜悅。七十士譯本箴言22:8(希臘文版)用同一詞根形容「喜樂的人」蒙福；而神自己的性情正是如此——雅各書1:5說神「厚賜與眾人，也不斥責人」，約翰福音3:16「神愛世人，甚至將他的獨生子賜給他們」。保羅不是要求哥林多人裝出笑容，而是邀請他們的給予，活出神自己給予的樣式。
+
+### προαιρέομαι（本心所酌定）與豫先定意
+
+7節「隨本心所酌定」，原文προαιρέομαι是「豫先選定、決意」的動詞，暗示一個在情緒尚未被現場氣氛牽動之前、已經在神面前想清楚並定意的決定。這與5節「豫先安排妥當」（προκαταρτίζω）呼應——真正的甘心樂意，不是臨場被激動裹挾，而是「豫先」定了的心志，只是在給的那一刻自然流露出來。
+
+---
+
+## 領受與亮光 (Light Received)
+
+### 1. 撒種收成的原則——從箴言到加拉太書
+
+「少種的少收，多種的多收」（9:6）不是全新的啟示，而是舊約智慧文學早已教導的屬靈定律：「有施散的，卻更增添；有吝惜過度的，反致窮乏。好施捨的，必得豐裕；滋潤人的，必得滋潤」（箴11:24-25）；「憐憫貧窮的，就是借給耶和華；他的善行，耶和華必償還」（箴19:17）。保羅在加拉太書把這條定律擴展到整個屬靈生命：「不要自欺，神是輕慢不得的。人種的是甚麼，收的也是甚麼……我們行善，不可喪志；若不灰心，到了時候就要收成」（加6:7,9）。哥林多後書9:6是這條貫穿全經的屬靈定律，落在一個具體的、當下的捐獻決定上。我們從這裡領受的，是眼光要放遠——今天撒下的每一粒種子，都不是消失在土裡，而是在神所定的時候發芽。
+
+### 2. 甘心樂意作敬拜——從初熟的果子到獻上的心
+
+舊約獻祭有一個反覆出現的用詞：「甘心樂意的」。建造會幕的材料，是「凡甘心樂意獻的，可以拿耶和華的禮物來」（出25:2；35:5,21,29）；平安祭有「甘心祭」（利7:16，原文同一詞根）。以色列人獻上初熟的果子（申26:1-11），也不是出於恐懼被咒詛，而是記念神的救贖、心裡湧出的感恩。保羅在9:7要求的「樂意」，與這條線完全一致——奉獻從來不是律法規定的稅款，而是敬拜的延伸：把神已經給的，帶著喜樂還給神。我們從這裡領受的，是奉獻的心態比奉獻的金額，更早、更深地被神察看。
+
+### 3. 神自己是那位「樂意的給予者」
+
+保羅說「神喜愛捐得樂意的人」，這句話的深處是：神自己正是這樣的一位給予者。雅各書1:17說「各樣美善的恩賜和各樣全備的賞賜，都是從上頭來的，從眾光之父那裡降下來的」；約翰福音3:16「神愛世人，甚至將他的獨生子賜給他們」——這不是神被迫的犧牲，是神甘心樂意的給予。我們蒙召效法的，從來不是一套外在的行善規則，而是那位「厚賜與眾人，也不斥責人」（雅1:5）之神的性情本身。給予若真正「像神」，就必然是歡喜的，因為神自己給予的時候，就是歡喜的。
+
+### 4. 與8:9的接軌——恩典先於命令
+
+第8章的高峰是8:9：「你們知道我們主耶穌基督的恩典：他本來富足，卻為你們成了貧窮，叫你們因他的貧窮，可以成為富足。」9:1-7所有關於「樂意」、「不勉強」的教導，都是建立在這句話之上的——保羅從未把奉獻當作律法下的義務，而是把它放在「你們已經領受了恩典」這個前提之後。正因為基督先甘心把自己給了我們，我們的給予才可能是回應性的、感恩驅動的，而不是交易性的、義務驅動的。恩典若沒有先臨到心裡，樂意就無從談起——這是9章不能脫離8章單獨讀的原因。
+
+### 5. 從「不勉強」到十字架上的「甘心」
+
+9:7「不要作難，不要勉強」，原文暗示「不是出於憂愁、不是出於逼迫」。這與希伯來書12:2形成奇妙的呼應：耶穌「因那擺在前面的喜樂，忍受了十字架，輕看羞辱」——十字架對世人而言是最大的「勉強」（被釘死是被迫的刑罰），但對基督而言，卻是祂甘心樂意的給予，「因那擺在前面的喜樂」。我們今天在奉獻箱前的猶豫掙扎，與髑髏地上那位甘心背十字架的主相比，何等微小；但正是那份甘心，成了我們今天甘心的源頭與榜樣。
+
+---
+
+## 歷代注疏 (Historical Commentary)
+
+### 教父時期
+
+**屈梭多模 (John Chrysostom, 約349-407)**：
+
+> "Not grudgingly, nor of necessity. And neither was he content with this, but he adds a testimony from Scripture also, saying, For God loves a cheerful giver."（「不要作難，不要勉強。」他不以此為滿足，又加上一句聖經的見證，說：因為神喜愛捐得樂意的人。）
+
+> "For a man when left to himself, does a thing more readily than when compelled."（人若憑自己的意思去做一件事，會比被強迫時做得更甘心。）
+
+> — John Chrysostom, *Homilies on Second Corinthians*, Homily XIX (on 2 Corinthians 9:1-9), https://www.newadvent.org/fathers/220219.htm
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+> "He that sows sparingly will have a poor harvest, corresponding to the sowing: he that sows bountifully and with a full hand, will reap a correspondingly bountiful harvest."（少種的人，收成也少，與所種的相稱；厚厚撒種、滿手施捨的人，收成也必厚厚相稱。）
+
+> "For God loveth a cheerful giver. He calls us back to God, as I said in the outset, for alms are a sacrifice. Now no sacrifice is pleasing to God, if it is not voluntary."（因為神喜愛捐得樂意的人。他把我們的心再次帶回神面前——正如我在開頭所說，賙濟本是一種祭。若不是出於甘心，任何祭都不能討神喜悅。）
+
+> — John Calvin, *Commentary on the Epistles of Paul to the Corinthians*, Vol. 2, on 2 Corinthians 9:6-7, https://ccel.org/ccel/calvin/calcom40/calcom40.xv.ii.html
+
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+> "Cheerful translates hilaros, from which the English word hilarious derives. Happy, joyous givers, who are joyous in view of the privilege of giving, are the special objects of God's love."（「樂意」翻譯自ἱλαρός，英文hilarious〔歡樂的〕正是由此字而來。因著能有給予的特權而喜樂的人，是神特別喜愛的對象。）
+
+> — John MacArthur, *The MacArthur New Testament Commentary* on 2 Corinthians 9, excerpted as "Sow Sparingly; Reap Sparingly" (gty.org, QA0039), https://shop.gty.org/library/bibleqnas-library/QA0039/sow-sparingly-reap-sparingly
+
+---
+
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 摩根：歡欣的給予 (G. Campbell Morgan)
+
+摩根論到本段時常被後人引用的一句話是：「這必須是歡欣的給予（hilarious giving），出於內心的給予，因為你樂意給，而不是因為你不得不給。」（此句廣泛見於後人對摩根 *The Corinthian Letters of Paul* [1946] 一書的引用，惟因原書僅有OCR掃描版、無法逐頁核對確切出處，特此說明，不作為逐字頁碼引文；讀者可參 archive.org 掃描本自行查核：https://archive.org/details/corinthianletter0000morg）這句話的精神與9:7原文ἱλαρός的字義完全吻合——保羅要的不是勉強擠出的奉獻，而是一顆因給予而快樂的心。
+
+### 麥克阿瑟：撒種的定律不是「成功公式」 (John MacArthur)
+
+麥克阿瑟在論到9:6的撒種收成原則時，特別提醒讀者：這條定律講的是屬靈原則，不是保證式的物質公式（此處為筆者根據麥克阿瑟在gty.org相關教導要點的歸納整理，並非逐字引文；原文參 gty.org 對2 Corinthians 9的講道與文章）。他指出，「少種少收、多種多收」的重點不在於「奉獻越多、回報越大」的算計，而在於：吝嗇的心結不出屬靈的果子，慷慨的心卻在神的手中結出遠超金錢所能衡量的豐收——包括恩典在慷慨之人生命中的加增（參9:8「神能將各樣的恩惠多多地加給你們」）。
+
+### 黃長老查經：預備好的心，不是預備好的錢 (Ask Elder Wong)
+
+黃長老讀這一段，常先問一個問題：「保羅為什麼要花五節經文，只為了引出兩節的原則？他真正擔心的，是哥林多人的錢還是哥林多人的心？」他指出，1-5節保羅反覆用的字是「預備」——不是「湊夠」，是「豫先安排妥當」。他常說：「你注意到沒有？保羅不是臨到收奉獻的那個主日，才叫弟兄們去催哥林多人湊錢。他是提早差人去，讓哥林多人有時間，把心先安靜下來，在神面前想清楚——這樣，到了那天，給的時候才不是被氣氛推著走，而是心裡早已定了。」他常把這段與出埃及記25:2擺在一起讀：「凡甘心樂意獻的，可以拿耶和華的禮物來。」——會幕的建造材料，沒有一根柱子、一塊幔子是靠強迫收來的。他問：「你今天在教會裡的擺上——奉獻、服事、時間——有多少是『豫先定了心志』的，有多少只是『被場面帶動』的？」
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+### 聖詩：We Give Thee But Thine Own
+
+> **We Give Thee But Thine Own**
+> *William Walsham How, 1858*
+>
+> We give Thee but Thine own,
+> Whate'er the gift may be;
+> All that we have is Thine alone,
+> A trust, O Lord, from Thee.
+>
+> May we Thy bounties thus
+> As stewards true receive,
+> And gladly, as Thou blessest us,
+> To Thee our first-fruits give.
+
+這首詩歌由英國聖公會牧者威廉·沃爾沙姆·豪 (William Walsham How) 約於1858年寫成，1864年收錄於《詩篇與聖詩》(*Psalms & Hymns*) 增訂本，是英語教會最常用的奉獻詩歌之一。第一節「我們不過將屬你的獻上」正是9:7「甘心樂意」的根基——奉獻不是我們把自己的東西給神，而是把神本已賜下的，帶著感恩交還。第二節「豫先」使用「stewards」（管家）一詞，呼應9:5保羅要求弟兄們「豫先安排妥當」的精神：真正的樂捐，是管家在主人面前豫先清楚交帳的心，而非臨場被迫的反應。
+
+### 詩篇：詩篇 112:1, 4-5, 9
+
+> 你們要讚美耶和華！敬畏耶和華，甚喜愛他命令的，這人便為有福！
+> 正直人在黑暗中，有光向他發現；他有恩惠，有憐憫，有公義。
+> 施恩與人、借貸與人的，這人事情順利；他被審判的時候要訴明自己的冤。
+> 他施捨錢財，賙濟貧窮；他的仁義存到永遠。他的角必被高舉，大有榮耀。
+
+> Praise the LORD! Blessed is the man who fears the LORD, who greatly delights in his commandments!
+> Light dawns in the darkness for the upright; he is gracious, merciful, and righteous.
+> It is well with the man who deals generously and lends; who conducts his affairs with justice.
+> He has distributed freely; he has given to the poor; his righteousness endures forever; his horn is exalted in honor.
+
+詩篇112篇描繪一位「敬畏耶和華、甚喜愛祂命令」之人的生命樣式，其中心特徵正是慷慨——「施恩與人、借貸與人」、「施捨錢財、賙濟貧窮」。這篇詩篇與哥林多後書9章遙相呼應：慷慨不是財富多寡的問題，而是敬畏神之人自然流露的性情；而詩人形容這樣的人「事情順利」、「他的角被高舉」，與保羅在9:6-11論到撒種收成、神的恩惠加增，方向完全一致——不是應許發財的公式，而是敬畏神、以神為樂的人，生命中自然結出慷慨的果子。
+
+---
+
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+
+### 全經連線 (Tracing It Through Scripture)
+
+「甘心樂意」這條線，從會幕的建造材料一路貫穿到基督自己。出埃及記25:2「凡甘心樂意獻的，可以拿耶和華的禮物來」，是舊約第一次把「奉獻」與「甘心」連在一起；申命記15:10進一步要求：「你借給他的時候，心裡不可愁煩」，把「不勉強」寫進了律法本身。箴言11:24-25、19:17把這條原則普遍化為智慧——慷慨的人蒙福，吝嗇的人窮乏。到了哥林多後書8:9，這條線接上了它的源頭：基督「本來富足，卻為你們成了貧窮」——那是全宇宙最大的一次甘心樂意的給予。9:6-7把這條線落回到哥林多人手中的錢包；加拉太書6:7-9把它再次擴大為整個屬靈生命的定律；雅各書1:17、約翰福音3:16把它接回神自己的性情——原來從出埃及記到十字架，神一直在教一件事：祂喜愛的，從來不是被榨出來的犧牲，而是甘心流出的愛。
+
+### 提問式對話 (Let the Reader Speak)
+
+保羅先誇獎哥林多人「樂意的心」，又擔心他們「沒有預備」蒙羞——你有沒有想過，一件事同時是「出於樂意」又需要「豫先安排」，這兩者矛盾嗎？如果甘心樂意需要豫先準備，那「臨時被感動」的奉獻，和「早已定了心志」的奉獻，哪一種更接近保羅在9:7說的「捐得樂意」？你的奉獻與服事，有多少是被別人的期待或現場的氣氛推著走的？如果今天沒有人看見、沒有人統計，你還會給嗎？
+
+### 活在今天．AI時代 (Living It Today)
+
+矽谷的文化很擅長把慷慨變成一種可被追蹤、可被展示的績效——捐款配對計劃、公開的排行榜、社群媒體上的「感恩貼文」，甚至AI工具已經能幫你自動計算、自動優化你的捐款抵稅額度。這些工具本身不是問題，但它們很容易把9:7那句「各人隨本心所酌定」，變成一套被外在系統代勞、被演算法優化的行為——你給，卻不必再面對自己的心。保羅要的不是效率最高的捐獻，而是一顆在神面前豫先想清楚、然後甘心流露的心。今天你可以自動化捐款的執行，但不能自動化你面對神時那份「甘心」——那必須是你自己，安靜下來，親自定的。
+
+### 今天的祭壇 (Today's Altar)
+
+具體行動：今天，不要等到教會收奉獻的那一刻，現在就安靜下來，在神面前為下一次的奉獻或服事定一個具體的心志——寫下來，寫明金額或時間——效法9:5「豫先安排妥當」的精神，讓那份甘心，早在行動之前就已經定了。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+神喜愛的不是奉獻箱裡的數字，而是那份「豫先在祂面前定了心志、然後甘心流露」的心；因為那位配得我們回應的主，正是那位「本來富足，卻為你們成了貧窮」、甘心把自己給了我們的基督。
+
+---
+
+## 生命應用 (Application)
+
+### 默想問題
+
+1. **心志先於金額**：我是否曾經因為場合、氣氛或別人的眼光而「被迫」奉獻？我的心志是豫先定的，還是臨場被推動的？
+
+2. **撒種的眼光**：加拉太書6:9說「行善不可喪志」。在我覺得慷慨似乎沒有果效的時候，我是否還相信神的撒種收成定律？
+
+3. **恩典先於命令**：我對8:9「基督本來富足，卻為你們成了貧窮」的認識有多深？這如何影響我看待自己奉獻的動機？
+
+4. **今天就預備**：保羅要弟兄們「豫先」把捐項安排妥當。我生命中有哪一件本該甘心去做的事，一直被我拖到最後一刻、變成了勉強？
+
+### 禱告回應
+
+> 喜愛甘心樂意之心的主，
+> 感謝你先甘心把自己給了我們，
+> 本來富足，卻為我們成了貧窮。
+> 求你光照我裡面一切勉強、作難的心思，
+> 使我不是被場面推動，而是在你面前豫先定意。
+> 求你教我相信撒種收成的定律，
+> 使我不喪志、不灰心，
+> 直到收成的日子。
+> 奉主耶穌基督的名禱告，阿們。
+
+---
+
+## 反思問題 (Reflection Questions)
+
+1. 保羅為什麼要先誇口哥林多人的樂意，又擔心他們沒有預備妥當？這兩者如何同時成立？
+
+2. 「不要作難，不要勉強」與「神喜愛捐得樂意的人」是同一句話的兩面。「作難」和「勉強」在我的生命中，最常出現在哪些方面——不只是金錢？
+
+3. 撒種收成的原則（9:6）與加拉太書6:7-9的「人種的是甚麼，收的也是甚麼」，兩處的應用範圍有什麼異同？
+
+4. 出埃及記25:2「甘心樂意獻的」與哥林多後書9:7「捐得樂意的人」，中間隔了一千多年，為什麼神看重的心態始終一樣？
+
+5. 如果奉獻的心態比金額更重要，這是否代表金額不重要？保羅在這段經文裡，如何同時看重兩者？
+
+---
+
+*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
 
 ---
 
