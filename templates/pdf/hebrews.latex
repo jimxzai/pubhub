@@ -17,6 +17,16 @@
 \setsansfont{PingFang SC}
 \setmonofont{Menlo}
 
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+%% Songti SC has no polytonic Greek or Hebrew glyphs; auto-switch by
+%% Unicode script block so inline Greek word studies render correctly.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
@@ -531,5 +541,47 @@ $endif$
 \mainmatter
 
 $body$
+
+%% --------------------------------------------
+%% BACK COVER
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\Large\itshape\color{ChapterBlue} $if(backcover-symbol)$$backcover-symbol$$else$κρείττων$endif$}\\[0.1cm]
+{\small\itshape\color{LightGray} "Better" · 更美——全書貫穿的鑰字}
+
+\vspace{0.8cm}
+
+\priestsymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\priestsymbol
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterBlue} 關於本書}\qquad{\large\bfseries\color{ChapterBlue} About This Book}
+
+\vspace{0.5cm}
+
+\begin{minipage}{5in}
+\small\color{TextGray}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀希伯來書全書十三章，並附全書領受總綱與參考資料附錄，整合黃長老查經教導、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan《God's Last Word to Man》屬靈組織分析，貫穿全書「更美」（κρείττων）的論證骨架與五個嚴厲警告，見證基督如何超越天使、摩西、約書亞、亞倫祭司體系，成為更美之約的中保。全書以基督的「昨日、今日、一直到永遠是一樣的」（來13:8）收筆，指向那位不改變的主。
+
+A chapter-by-chapter study of all thirteen chapters of Hebrews, with a whole-book systematic reception essay and a references appendix, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and G. Campbell Morgan's spiritual analysis in \textit{God's Last Word to Man}. The study traces the book's "better" (κρείττων) argument and its five solemn warnings, witnessing how Christ surpasses angels, Moses, Joshua, and the Aaronic priesthood to become the mediator of a better covenant. The whole book closes on Hebrews 13:8 — Jesus Christ, the same yesterday, today, and forever.
+$endif$
+\end{minipage}
+
+\vspace{1cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
 
 \end{document}
