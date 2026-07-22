@@ -696,4 +696,46 @@ $endif$
 
 $body$
 
+%% --------------------------------------------
+%% BACK COVER
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\Large\itshape\color{ChapterPurple} $if(backcover-symbol)$$backcover-symbol$$else$Ἐμμανουήλ$endif$}\\[0.1cm]
+{\small\itshape\color{LightGray} "God with us" · 以馬內利——首尾呼應全書的鑰字（太1:23；28:20）}
+
+\vspace{0.8cm}
+
+\crosssymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\crosssymbol
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterPurple} 關於本書}\qquad{\large\bfseries\color{ChapterPurple} About This Book}
+
+\vspace{0.5cm}
+
+\begin{minipage}{5in}
+\small\color{TextGray}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀馬太福音全書二十八章，並附全書領受總綱與正典脈絡導論，整合黃長老查經教導、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan《The Gospel According to Matthew》屬靈組織分析，貫穿十次「這是要應驗」的引言公式、五大講論呼應摩西五經的結構，以及「以馬內利」——從1:23「神與我們同在」到28:20「我就常與你們同在，直到世界的末了」——首尾呼應的應許。全書見證這位大衛的子孫、亞伯拉罕的後裔，如何成為天國近了、且永遠與門徒同在的君王。
+
+A chapter-by-chapter study of all twenty-eight chapters of Matthew, with a whole-book systematic reception essay and canonical-context prologue, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and G. Campbell Morgan's spiritual analysis in \textit{The Gospel According to Matthew}. The study traces the ten fulfillment formulas, the five great discourses echoing the Pentateuch, and the "Immanuel" promise bookending the whole Gospel — from 1:23, "God with us," to 28:20, "I am with you always, to the end of the age." The whole book witnesses how the Son of David, the Son of Abraham, becomes the King whose kingdom has come near and who remains with His disciples forever.
+$endif$
+\end{minipage}
+
+\vspace{1cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+
 \end{document}

@@ -91,6 +91,13 @@ for i in 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24
     fi
 done
 
+# 5. References appendix
+if [ -f "$INPUT_DIR/99-appendix-references.md" ]; then
+    echo "  Adding: 99-appendix-references.md"
+    tail -n +8 "$INPUT_DIR/99-appendix-references.md" >> "$COMBINED_MD"
+    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
+fi
+
 echo ""
 echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $chapter_count chapters + overview + prologue)"
 echo ""
