@@ -69,9 +69,13 @@
 \usepackage{xcolor}
 
 % Primary colors - throne-room / marriage-of-the-Lamb theme
-\definecolor{ChapterBlue}{RGB}{110,10,30}        % Deep crimson for chapters
+\definecolor{ChapterBlue}{RGB}{20,32,72}         % Royal navy for chapters
 \definecolor{ScriptureGold}{RGB}{175,135,45}     % Royal gold for scripture refs
 \definecolor{CommentaryBrown}{RGB}{95,45,25}     % Rich brown for commentary
+
+% Cover gradient (navy, dark at top to a richer royal blue at bottom)
+\definecolor{NavyDark}{RGB}{10,16,42}
+\definecolor{NavyLight}{RGB}{32,52,108}
 
 % Box colors
 \definecolor{ScriptureBg}{RGB}{253,250,244}      % Cream for scripture boxes
@@ -149,12 +153,15 @@
 \usepackage{eso-pic}
 \usepackage{lettrine}
 
-% Full-bleed dark background, painted in the shipout background hook so
-% it bleeds to the true physical page edge and does not disturb the
-% \geometry text-block margins used by every other page.
+% Full-bleed navy gradient background, painted in the shipout background
+% hook so it bleeds to the true physical page edge and does not disturb
+% the \geometry text-block margins used by every other page.
 \newcommand{\CoverBackground}{%
   \AddToShipoutPictureBG*{%
-    \AtPageLowerLeft{\color{ChapterBlue}\rule{\paperwidth}{\paperheight}}%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=NavyDark,bottom color=NavyLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
   }%
 }
 
