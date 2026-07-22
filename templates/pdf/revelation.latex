@@ -1,5 +1,5 @@
 % PubHub Revelation Template
-% Professional Bible Study Book Layout
+% Professional Bible Study Book Layout — "得勝之冠" Crown of Victory theme
 % Bilingual Chinese/English with Greek word studies
 % Requires XeLaTeX for CJK support
 
@@ -15,8 +15,17 @@
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{PingFang SC}
 
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
 
@@ -43,52 +52,95 @@
 \setlength{\parskip}{0.3em}
 
 %% ============================================
-%% COLOR SCHEME - Royal crimson for apocalyptic/royal theme
+%% COLOR SCHEME - Crown of Victory Theme (Deep Crimson/Royal Gold)
 %% ============================================
 \usepackage{xcolor}
 
-\definecolor{ChapterCrimson}{RGB}{130,20,40}
-\definecolor{ScriptureGold}{RGB}{180,145,55}
-\definecolor{CommentaryBrown}{RGB}{85,60,45}
-\definecolor{ScriptureBg}{RGB}{255,252,248}
+% Primary colors - throne-room / marriage-of-the-Lamb theme
+\definecolor{ChapterBlue}{RGB}{110,10,30}        % Deep crimson for chapters
+\definecolor{ScriptureGold}{RGB}{175,135,45}     % Royal gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{95,45,25}     % Rich brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{253,250,244}      % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{253,246,246}          % Light rose for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}    % Light green for application
+
+% Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
 
+% Diagram colors - two camps (Lamb's bride vs. the harlot)
+\definecolor{OldCovenantRed}{RGB}{150,40,40}     % Babylon / the beast
+\definecolor{NewCovenantGreen}{RGB}{60,120,80}   % New Jerusalem / the Lamb
+
 %% ============================================
-%% PACKAGES
+%% MATH AND SYMBOLS
 %% ============================================
 \usepackage{amssymb}
 \usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
 \usepackage{graphicx}
 \usepackage{tikz}
-\usetikzlibrary{shapes,arrows,positioning,decorations.pathmorphing}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Crown decoration
+\newcommand{\crownsymbol}{%
+\begin{tikzpicture}[scale=0.16]
+  \draw[color=ScriptureGold,line width=1.5pt] (-1,-0.6) -- (-1,0.4) -- (-0.5,-0.1) -- (0,0.6) -- (0.5,-0.1) -- (1,0.4) -- (1,-0.6) -- cycle;
+  \fill[color=ScriptureGold] (0,0.6) circle (0.12);
+\end{tikzpicture}%
+}
+
+% Lamb/throne symbol (simple stylized emblem)
+\newcommand{\lambsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ScriptureGold,line width=1pt] (-0.5,0) -- (0.5,0);
+  \draw[color=ScriptureGold,line width=1pt] (0,0) -- (0,0.9);
+  \fill[color=ScriptureGold] (0,0.9) circle (0.15);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
 \usepackage{hyperref}
 \hypersetup{
   colorlinks=true,
-  linkcolor=ChapterCrimson,
-  urlcolor=ScriptureGold
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
 }
+
+%% ============================================
+%% TABLES
+%% ============================================
 \usepackage{longtable}
 \usepackage{booktabs}
 \usepackage{array}
 \usepackage{tabularx}
 \usepackage{calc}
 
-% Set table width to text width - constrain tables
 \setlength{\LTleft}{0pt}
 \setlength{\LTright}{0pt}
 \setlength{\LTpre}{6pt}
 \setlength{\LTpost}{6pt}
 \renewcommand{\arraystretch}{1.2}
 
-% Pandoc 3.x table support
 \usepackage{etoolbox}
 \makeatletter
 \patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
 \@ifundefined{c@none}{\newcounter{none}}{}
 \makeatother
 
-% Style table rules
 \renewcommand{\toprule}{\hline\hline}
 \renewcommand{\midrule}{\hline}
 \renewcommand{\bottomrule}{\hline\hline}
@@ -104,23 +156,28 @@
 \fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
 
 %% ============================================
-%% SECTION STYLING
+%% SECTION STYLING (manual, without titlesec)
 %% ============================================
 \makeatletter
 \def\@makechapterhead#1{%
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
     \ifnum \c@secnumdepth >\m@ne
-      \large\bfseries\color{ChapterCrimson} \@chapapp\space \thechapter
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
       \par\nobreak
       \vskip 8pt
     \fi
     \interlinepenalty\@M
-    \LARGE \bfseries\color{ChapterCrimson} #1\par\nobreak
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
     \vskip 12pt
-    {\color{ScriptureGold}\hrule height 1.5pt}
+    {\color{ScriptureGold}\rule{\linewidth}{1.5pt}}
     \vskip 15pt
   }}
 \def\@makeschapterhead#1{%
@@ -128,20 +185,24 @@
   {\parindent \z@ \raggedright
     \normalfont
     \interlinepenalty\@M
-    \LARGE \bfseries\color{ChapterCrimson} #1\par\nobreak
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
     \vskip 8pt
-    {\color{ScriptureGold}\hrule height 1.5pt}
+    {\color{ScriptureGold}\rule{\linewidth}{1.5pt}}
     \vskip 15pt
   }}
 
 \renewcommand\section{\@startsection {section}{1}{\z@}%
   {-2.5ex \@plus -0.5ex \@minus -.2ex}%
   {1.5ex \@plus.2ex}%
-  {\normalfont\large\bfseries\color{ChapterCrimson}}}
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
   {-2ex\@plus -0.5ex \@minus -.2ex}%
   {1ex \@plus .2ex}%
   {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
 \makeatother
 
 %% ============================================
@@ -152,6 +213,8 @@
   \list{}{%
     \leftmargin=0.5em
     \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
   }%
   \item\relax
   \small\color{TextGray}%
@@ -161,13 +224,17 @@
 }
 
 %% ============================================
-%% WIDOW/ORPHAN CONTROL
+%% WIDOW/ORPHAN AND LINE BREAKING
 %% ============================================
 \widowpenalty=10000
 \clubpenalty=10000
 \tolerance=9999
 \emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
 \sloppy
+\hbadness=10000
+\hfuzz=2pt
 
 %% ============================================
 %% METADATA
@@ -180,99 +247,112 @@ $if(author)$
 $endif$
 $if(date)$
 \date{$date$}
+$else$
+\date{\today}
 $endif$
 
-\providecommand{\tightlist}{\setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
 
 %% ============================================
 %% DOCUMENT
 %% ============================================
 \begin{document}
 
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
 \frontmatter
 \pagestyle{empty}
 
 % Title page
 \begin{titlepage}
+\thispagestyle{empty}
 \begin{center}
-\vspace*{0.8cm}
+\vspace*{0.5cm}
 
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterCrimson} 萬王之王}\\[0.3cm]
-{\large\itshape\color{LightGray} King of Kings}
+\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
+
+\vspace{0.4cm}
+
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 得勝之冠}\\[0.2cm]
+{\large\itshape\color{LightGray} Crown of Victory}
 
 \vspace{0.6cm}
 
-{\fontsize{22}{28}\selectfont\bfseries 啟示錄研讀}\\[0.2cm]
-{\normalsize A Study of the Book of Revelation}
+{\fontsize{22}{28}\selectfont\bfseries 啟示錄研讀}\\[0.15cm]
+{\normalsize Revelation Deep Study}
 
-\vspace{0.6cm}
+\vspace{0.5cm}
 
 \fcolorbox{ScriptureGold}{ScriptureBg}{%
 \begin{minipage}{4in}
 \centering
-\vspace{0.4cm}
+\vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
-念這書上預言的和那些聽見又遵守其中所記載的，都是有福的，\\
-因為日期近了。\\[0.2em]
-\footnotesize Blessed is the one who reads aloud the words of this prophecy,\\
-and blessed are those who hear, and who keep what is written in it,\\
-for the time is near. — Revelation 1:3
-\vspace{0.4cm}
+「我是阿拉法，我是俄梅戛，」主神說，\\
+「是昔在、今在、以後永在的全能者。」\\[0.15em]
+\footnotesize "I am the Alpha and the Omega," says the Lord God,\\
+"who is and who was and who is to come, the Almighty."\\
+--- Revelation 1:8 (ESV)
+\vspace{0.3cm}
 \end{minipage}
 }
 
-\vspace{0.8cm}
+\vspace{0.5cm}
 
-% Seven-sealed scroll diagram
-\begin{tikzpicture}[scale=0.7]
-  \node[font=\normalsize\bfseries,color=ChapterCrimson] at (0,3.5) {The Structure of Revelation};
-  \node[font=\small,color=LightGray] at (0,3) {啟示錄的結構};
-
-  % Timeline
-  \draw[thick,color=ChapterCrimson,->] (-4.5,0) -- (4.5,0);
-
-  % Past
-  \node[draw=ChapterCrimson,fill=ScriptureBg,rounded corners,minimum width=2cm,font=\tiny] at (-3.5,1) {Ch 1-3};
-  \node[font=\tiny,color=LightGray] at (-3.5,0.5) {七教會 Churches};
-
-  % Present-Future
-  \node[draw=ChapterCrimson,fill=ScriptureBg,rounded corners,minimum width=2cm,font=\tiny] at (-1,1) {Ch 4-5};
-  \node[font=\tiny,color=LightGray] at (-1,0.5) {天上寶座 Throne};
-
-  % Tribulation
-  \node[draw=ChapterCrimson,fill=ScriptureBg,rounded corners,minimum width=2cm,font=\tiny] at (1.5,1) {Ch 6-18};
-  \node[font=\tiny,color=LightGray] at (1.5,0.5) {審判 Judgments};
-
-  % Consummation
-  \node[draw=ChapterCrimson,fill=ScriptureBg,rounded corners,minimum width=2cm,font=\tiny] at (4,1) {Ch 19-22};
-  \node[font=\tiny,color=LightGray] at (4,0.5) {新天新地 New};
-
-  % Labels
-  \node[font=\tiny,color=ChapterCrimson] at (-3.5,-0.5) {過去};
-  \node[font=\tiny,color=ChapterCrimson] at (0,-0.5) {現在};
-  \node[font=\tiny,color=ChapterCrimson] at (4,-0.5) {將來};
+% Seven-series timeline
+\begin{tikzpicture}[scale=0.62, transform shape]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (7,3) {七的結構 The Sevens};
+  \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (0,0.3) {七教會 \\ Churches};
+  \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (2.5,0.3) {七印 \\ Seals};
+  \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (5,0.3) {七號 \\ Trumpets};
+  \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (7.5,0.3) {七碗 \\ Bowls};
+  \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (10,0.3) {巴比倫傾倒 \\ Babylon Falls};
+  \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (12.5,0.3) {基督再來 \\ Christ Returns};
+  \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (15,0.3) {新耶路撒冷 \\ New Jerusalem};
+  \fill[ScriptureGold] (0,1.2) circle (0.32);
+  \node[font=\tiny\bfseries,color=white] at (0,1.2) {1};
+  \fill[ScriptureGold] (2.5,1.2) circle (0.32);
+  \node[font=\tiny\bfseries,color=white] at (2.5,1.2) {2};
+  \fill[ScriptureGold] (5,1.2) circle (0.32);
+  \node[font=\tiny\bfseries,color=white] at (5,1.2) {3};
+  \fill[ScriptureGold] (7.5,1.2) circle (0.32);
+  \node[font=\tiny\bfseries,color=white] at (7.5,1.2) {4};
+  \fill[ScriptureGold] (10,1.2) circle (0.32);
+  \node[font=\tiny\bfseries,color=white] at (10,1.2) {5};
+  \fill[ScriptureGold] (12.5,1.2) circle (0.32);
+  \node[font=\tiny\bfseries,color=white] at (12.5,1.2) {6};
+  \fill[ScriptureGold] (15,1.2) circle (0.32);
+  \node[font=\tiny\bfseries,color=white] at (15,1.2) {7};
+  \draw[ScriptureGold,line width=1.5pt] (0.32,1.2) -- (15,1.2);
 \end{tikzpicture}
 
-\vspace{0.6cm}
+\vspace{0.5cm}
 
-% Seven series
-\begin{tikzpicture}[scale=0.65]
-  \node[font=\small\bfseries,color=ChapterCrimson] at (0,2) {Seven Series 七系列};
+% Two camps comparison
+\begin{tikzpicture}[scale=0.85, transform shape]
+  \node[font=\small\bfseries,color=ChapterBlue] at (2.5,2.3) {宇宙爭戰 The Cosmic Conflict};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=4cm,minimum height=1.6cm] at (0,0) {};
+  \node[font=\small\bfseries,color=NewCovenantGreen!80!black] at (0,0.35) {羔羊的新婦};
+  \node[font=\footnotesize,color=TextGray] at (0,-0.1) {The Bride of the Lamb};
+  \node[font=\tiny,color=LightGray] at (0,-0.55) {新耶路撒冷 · Rev 21};
 
-  \node[draw=ScriptureGold,fill=ScriptureBg,circle,font=\tiny,minimum size=1cm] at (-3,0) {7封印};
-  \node[draw=ScriptureGold,fill=ScriptureBg,circle,font=\tiny,minimum size=1cm] at (-1.5,0) {7號};
-  \node[draw=ScriptureGold,fill=ScriptureBg,circle,font=\tiny,minimum size=1cm] at (0,0) {7碗};
-  \node[draw=ScriptureGold,fill=ScriptureBg,circle,font=\tiny,minimum size=1cm] at (1.5,0) {7教會};
-  \node[draw=ScriptureGold,fill=ScriptureBg,circle,font=\tiny,minimum size=1cm] at (3,0) {7福};
-
-  \node[font=\tiny,color=LightGray] at (-3,-0.8) {Seals};
-  \node[font=\tiny,color=LightGray] at (-1.5,-0.8) {Trumpets};
-  \node[font=\tiny,color=LightGray] at (0,-0.8) {Bowls};
-  \node[font=\tiny,color=LightGray] at (1.5,-0.8) {Churches};
-  \node[font=\tiny,color=LightGray] at (3,-0.8) {Blessings};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=4cm,minimum height=1.6cm] at (5,0) {};
+  \node[font=\small\bfseries,color=OldCovenantRed] at (5,0.35) {騎獸的淫婦};
+  \node[font=\footnotesize,color=TextGray] at (5,-0.1) {The Harlot on the Beast};
+  \node[font=\tiny,color=LightGray] at (5,-0.55) {大巴比倫 · Rev 17-18};
 \end{tikzpicture}
 
 \vfill
+
+{\normalsize\color{ScriptureGold}\bfseries 得勝的，我要賜他在我寶座上與我同坐}\\[0.1cm]
+{\footnotesize\color{LightGray} "The one who conquers, I will grant to sit with me on my throne" (Rev 3:21)}
+
+\vspace{0.5cm}
 
 $if(author)$
 {\normalsize $author$}\\[0.3cm]
@@ -284,11 +364,78 @@ $endif$
 
 $if(date)$
 {\small $date$}
+$else$
+{\small \today}
 $endif$
+
+\vspace{0.3cm}
+\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
 
 \end{center}
 \end{titlepage}
 
+% Overview diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 啟示錄結構}\\[0.1cm]
+{\normalsize Structure of Revelation}
+
+\vspace{0.5cm}
+
+% Four-part structure (per revelation/CLAUDE.md)
+\begin{tikzpicture}[scale=0.85, transform shape]
+  \node[draw=ChapterBlue,fill=ChapterBlue!10,rounded corners,minimum width=3.4cm,minimum height=2cm] at (0,0) {};
+  \node[font=\small\bfseries,color=ChapterBlue] at (0,0.5) {榮耀基督};
+  \node[font=\footnotesize,color=TextGray] at (0,0) {\& 七教會};
+  \node[font=\tiny,color=LightGray] at (0,-0.5) {Chapters 1-3};
+
+  \node[draw=ScriptureGold,fill=ScriptureGold!10,rounded corners,minimum width=3.4cm,minimum height=2cm] at (4.2,0) {};
+  \node[font=\small\bfseries,color=ScriptureGold!80!black] at (4.2,0.5) {審判的展開};
+  \node[font=\footnotesize,color=TextGray] at (4.2,0) {印．號．碗};
+  \node[font=\tiny,color=LightGray] at (4.2,-0.5) {Chapters 4-16};
+
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=3.4cm,minimum height=2cm] at (8.4,0) {};
+  \node[font=\small\bfseries,color=OldCovenantRed] at (8.4,0.5) {仇敵的結局};
+  \node[font=\footnotesize,color=TextGray] at (8.4,0) {巴比倫．獸．審判};
+  \node[font=\tiny,color=LightGray] at (8.4,-0.5) {Chapters 17-20};
+
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=3.4cm,minimum height=2cm] at (12.6,0) {};
+  \node[font=\small\bfseries,color=NewCovenantGreen!80!black] at (12.6,0.5) {永恆的國度};
+  \node[font=\footnotesize,color=TextGray] at (12.6,0) {新天新地};
+  \node[font=\tiny,color=LightGray] at (12.6,-0.5) {Chapters 21-22};
+
+  \draw[->,thick,color=ScriptureGold] (1.9,0) -- (2.3,0);
+  \draw[->,thick,color=ScriptureGold] (6.1,0) -- (6.5,0);
+  \draw[->,thick,color=ScriptureGold] (10.3,0) -- (10.7,0);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+{\large\bfseries\color{ChapterBlue} 四大主題 Four Themes}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.7, transform shape]
+  \node[font=\tiny,color=TextGray,align=center,text width=2.4cm] at (0,-0.8) {透視人性 \\ Human Nature Exposed};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.4cm] at (4,-0.8) {出路何在 \\ The Way of Escape};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.4cm] at (8,-0.8) {神的計劃 \\ God's Plan Fulfilled};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.4cm] at (12,-0.8) {宇宙爭戰 \\ The Cosmic Conflict};
+  \fill[ScriptureGold] (0,0) circle (0.3);
+  \node[font=\tiny\bfseries,color=white] at (0,0) {1};
+  \fill[ScriptureGold] (4,0) circle (0.3);
+  \node[font=\tiny\bfseries,color=white] at (4,0) {2};
+  \fill[ScriptureGold] (8,0) circle (0.3);
+  \node[font=\tiny\bfseries,color=white] at (8,0) {3};
+  \fill[ScriptureGold] (12,0) circle (0.3);
+  \node[font=\tiny\bfseries,color=white] at (12,0) {4};
+  \draw[ScriptureGold,line width=1.5pt] (0.3,0) -- (11.7,0);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+{\footnotesize\color{LightGray} 「證明這事的說：『是了，我必快來！』阿們！主耶穌啊，我願你來！」--- 啟示錄 22:20}
+\end{center}
 \cleardoublepage
 
 % Copyright page
@@ -297,29 +444,89 @@ $endif$
 \begin{flushleft}
 \small\color{TextGray}
 
+$if(copyright)$
+$copyright$
+$else$
 \textbf{啟示錄研讀 / Revelation Study}\\[0.8em]
 
-Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\[0.8em]
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
 中文：和合本修訂版 (RCUV)\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ John MacArthur - MacArthur New Testament Commentary\\
 \textbullet\ G.K. Beale - The Book of Revelation (NIGTC)\\
-\textbullet\ Robert H. Mounce - The Book of Revelation (NICNT)\\[0.8em]
+\textbullet\ Robert Mounce - The Book of Revelation (NICNT)\\
+\textbullet\ Grant Osborne - Revelation (BECNT)\\[0.8em]
 
-本書為三書精讀項目成果之一。
+\textbf{核心主題 / Central Theme}\\
+基督必快來，得勝的要與祂一同作王。\\
+Christ is coming soon; the one who conquers will reign with Him.\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
 \end{flushleft}
 \cleardoublepage
 
+% Table of contents
 \pagestyle{fancy}
-{\color{ChapterCrimson}\tableofcontents}
+{\color{ChapterBlue}\tableofcontents}
 \cleardoublepage
 
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
 \mainmatter
 
 $body$
+
+%% --------------------------------------------
+%% BACK COVER
+%% --------------------------------------------
+\backmatter
+\clearpage
+\pagestyle{empty}
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\Large\itshape\color{ChapterBlue} $if(backcover-symbol)$$backcover-symbol$$else$Marana tha$endif$}\\[0.1cm]
+{\small\itshape\color{LightGray} "Our Lord, come!" · 主必快來——全書貫穿的盼望}
+
+\vspace{0.8cm}
+
+\lambsymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\lambsymbol
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterBlue} 關於本書}\qquad{\large\bfseries\color{ChapterBlue} About This Book}
+
+\vspace{0.5cm}
+
+\begin{minipage}{5in}
+\small\color{TextGray}
+$if(backcover)$
+$backcover$
+$else$
+本書逐段研讀啟示錄全書二十二章，以渐进启示的終點為視角，整合黃長老查經教導法、John MacArthur 逐節解經講道（gty.org）、以及 G.K. Beale、Robert Mounce、Grant Osborne 等當代學者的解經洞見。全書貫穿透視人性、出路何在、神的計劃、宇宙爭戰四大主題，從榮耀基督的異象、七教會的呼召，經過印、號、碗的審判，直到巴比倫傾覆、基督再來、千年國度，終於新天新地與新耶路撒冷——見證神永恆計劃的完成，以及信、望、愛在羔羊婚筵中的終極實現。
+
+A chapter-by-chapter study of all twenty-two chapters of Revelation, read as the culmination of progressive revelation, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and the exegetical insight of contemporary scholars G.K. Beale, Robert Mounce, and Grant Osborne. The study traces four themes threading through the whole book --- human nature exposed, the way of escape, God's plan fulfilled, and the cosmic conflict --- from the glorified Christ and the call to the seven churches, through the judgments of the seals, trumpets, and bowls, to the fall of Babylon, the return of Christ, and the millennial kingdom, arriving finally at the new heaven, the new earth, and the New Jerusalem --- witnessing the completion of God's eternal plan and the final consummation of faith, hope, and love at the marriage supper of the Lamb.
+$endif$
+\end{minipage}
+
+\vspace{1cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria --- 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
 
 \end{document}
