@@ -1,0 +1,855 @@
+% PubHub 2 Chronicles Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Historical Studies
+% Requires XeLaTeX for CJK support
+% Derived from samuel-chronicles.latex, scoped to 2 Chronicles as a standalone volume.
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+\newfontfamily\kaiti{Kaiti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Historical Kingdom Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Royal/Ancient theme
+\definecolor{ChapterBlue}{RGB}{35,55,85}         % Deep royal blue
+\definecolor{ScriptureGold}{RGB}{175,135,45}     % Royal gold
+\definecolor{CommentaryBrown}{RGB}{95,65,45}     % Warm brown for commentary
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{170,200,220}        % Sea/river blue
+\definecolor{LandBeige}{RGB}{240,230,210}        % Land color
+\definecolor{MountainBrown}{RGB}{170,150,130}    % Mountain shading
+\definecolor{DesertTan}{RGB}{220,200,170}        % Desert regions
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}      % Cream for scripture boxes
+\definecolor{PsalmBg}{RGB}{250,248,240}          % Light gold for Psalms
+\definecolor{TimelineBg}{RGB}{245,248,252}       % Light blue for timeline
+\definecolor{ApplicationBg}{RGB}{248,252,248}    % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+\definecolor{RoyalRed}{RGB}{130,30,35}            % Anointing/covenant-blood accent
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Crown decoration command (for royal theme)
+\newcommand{\crownsymbol}{%
+\begin{tikzpicture}[scale=0.12]
+  \draw[color=ScriptureGold,line width=1.2pt] (-1,0) -- (-0.8,0.8) -- (-0.4,0.3) -- (0,1) -- (0.4,0.3) -- (0.8,0.8) -- (1,0) -- cycle;
+\end{tikzpicture}%
+}
+
+% Harp decoration (for Psalms)
+\newcommand{\harpsymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1pt] (0,0) arc (180:0:0.5 and 1);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.2,0) -- (0.2,0.9);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.5,0) -- (0.5,1);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.8,0) -- (0.8,0.9);
+\end{tikzpicture}%
+}
+
+% Scroll decoration
+\newcommand{\scrolldecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt] (0,0) -- (#1,0);
+  \draw[color=ScriptureGold,line width=0.8pt] (0,-0.1) arc (270:90:0.1);
+  \draw[color=ScriptureGold,line width=0.8pt] (#1,-0.1) arc (270:450:0.1);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% ELEGANT COVER PAGE (matches Gospel of John standard)
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterBlue, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[RoyalRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterBlue} Three Books Deep Reading \textbullet\ 2 Chronicles}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 歷代志下深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 384 Years, One Question: Did the King Seek the LORD? \textperiodcentered\ 384年，一個問題：這位王尋求神了嗎？}
+
+\vspace{0.30cm}
+
+% ===== CROWN WITH HALO OF GLORY (君王的記號) =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Halo — radiating glory rays
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.10] (0,0.3) circle (2.15);
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.16] (0,0.3) circle (1.90);
+  \draw[ScriptureGold, line width=0.4pt, opacity=0.24] (0,0.3) circle (1.65);
+  \draw[ScriptureGold, line width=0.5pt, opacity=0.34] (0,0.3) circle (1.35);
+  \foreach \ang in {0,15,...,345} {
+    \draw[ScriptureGold, line width=0.35pt, opacity=0.40]
+      ({1.35*cos(\ang)}, {0.3+1.35*sin(\ang)}) -- ({1.75*cos(\ang)}, {0.3+1.75*sin(\ang)});
+  }
+  \draw[ScriptureGold, line width=1.0pt] (0,0.3) circle (1.35);
+
+  % Crown — five-point royal crown, iconographic (大衛＝王)
+  \fill[ChapterBlue] (-1.0,0.15) rectangle (1.0,0.42);
+  \fill[ChapterBlue]
+    (-1.0,0.42) -- (-1.0,0.75) -- (-0.6,0.50) -- (-0.3,0.95) --
+    (0,0.55) -- (0.3,0.95) -- (0.6,0.50) -- (1.0,0.75) -- (1.0,0.42) -- cycle;
+  \fill[ScriptureGold,opacity=0.55] (-1.0,0.20) rectangle (1.0,0.28);
+  \fill[ScriptureGold] (-0.3,0.95) circle (0.07);
+  \fill[ScriptureGold] (0.6,0.50) circle (0.06);
+  \fill[ScriptureGold] (-0.6,0.50) circle (0.06);
+  \fill[RoyalRed] (0,0.55) circle (0.09);
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterBlue}\kaiti\selectfont 尋求神的王}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Kings Who Sought the LORD}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 歷代志下研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of 2 Chronicles}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterBlue} דָּרַשׁ}\quad
+{\footnotesize\scshape\color{CommentaryBrown} ``To Seek''}\quad
+{\footnotesize\bfseries\color{RoyalRed} 尋求}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{RoyalRed}\kaiti\selectfont
+「這稱為我名下的子民，若是自卑、禱告，尋求我的面，轉離他們的惡行，我必從天上垂聽，赦免他們的罪，醫治他們的地。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``If my people who are called by my name humble themselves, and pray and seek my\\
+face and turn from their wicked ways, then I will hear from heaven and forgive their sin.''}\\[0.10em]
+{\scriptsize\color{ChapterBlue} 歷代志下 7:14 \textperiodcentered\ 2 Chronicles 7:14}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話"
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterBlue} 全書一句話 \textperiodcentered\ The Whole Story in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+這稱為我名下的子民，若是自卑、禱告，\textbf{\color{RoyalRed}尋求}我的面，\\
+轉離他們的惡行，我必從天上垂聽，赦免他們的罪，醫治他們的地。\\[0.5em]
+\footnotesize\itshape
+If my people who are called by my name humble themselves, and pray\\
+and \textbf{seek} my face and turn from their wicked ways, then I will hear\\
+from heaven and will forgive their sin and heal their land.\\[0.4em]
+\small\color{ChapterBlue} 歷代志下 7:14 \textperiodcentered\ 2 Chronicles 7:14
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 一個問題 \textperiodcentered\ 二十一位王 \textperiodcentered\ 三百八十四年\\
+\textit{One question \textperiodcentered\ twenty-one kings \textperiodcentered\ 384 years}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{3.4cm}p{1.6cm}p{5.4cm}@{}}
+\toprule
+\textbf{階段} & \textbf{章} & \textbf{在全書的展開} \\
+\midrule
+榮耀 & 1-9 & 所羅門建殿，榮光充滿——全書的高點 \\
+分裂與起伏 & 10-28 & 羅波安裂國；亞撒、約沙法的忠心與晚年的失腳；黑暗的中期諸王 \\
+復興的高峰 & 29-35 & 希西家、約西亞——兩位極善的改革王，殿門重開，逾越節重守 \\
+審判與一扇新門 & 36 & 末代四王速亡，聖殿被焚；古列詔令「可以上去」 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterBlue} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀384年的政治興衰，是來看同一個問題怎樣被問了二十一次：\\
+這位王尋求耶和華了嗎？還是離棄了祂？\\
+讀到最後一頁，這個問題不再只是問古代的王，也是問你自己。\\[0.5em]
+\textit{\footnotesize
+You are not reading 384 years of political history — you are watching\\
+one question asked of twenty-one different kings: did he seek the LORD,\\
+or abandon him? By the last page, the question is no longer about them.\\
+It is about you.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative crown and line
+\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{32}{40}\selectfont\bfseries\color{ChapterBlue} 尋求神的王}\\[0.2cm]
+{\large\itshape\color{LightGray} Kings Who Sought the LORD}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{20}{26}\selectfont\bfseries 歷代志下研讀}\\[0.15cm]
+{\normalsize A Study of 2 Chronicles}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+這稱為我名下的子民，若是自卑、禱告，尋求我的面，\\
+轉離他們的惡行，我必從天上垂聽，赦免他們的罪。\\[0.15em]
+\footnotesize If my people who are called by my name humble themselves,\\
+and pray and seek my face. — 2 Chronicles 7:14
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+% Kings of Judah timeline strip — a safe table, not hand-drawn TikZ boxes
+% (a row of 7 fixed-size TikZ nodes at this page scale reliably collides;
+% a table sizes itself to its content and avoids that failure mode entirely)
+{\footnotesize\bfseries\color{ChapterBlue} 猶大諸王評價 \quad The Kings of Judah Evaluated}
+
+\vspace{0.2cm}
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{tabular}{@{}p{1.5cm}p{1.3cm}p{1.6cm}p{1.3cm}p{1.6cm}@{}}
+\toprule
+所羅門 & 亞撒／約沙法 & 亞哈斯 & 希西家 & 瑪拿西 \\
+\color{ScriptureGold}善 & \color{ScriptureGold}善 & \color{RoyalRed}惡 & \color{ScriptureGold}極善 & \color{RoyalRed}惡\textrightarrow\color{ScriptureGold}悔改 \\
+\bottomrule
+\end{tabular}\\[0.3em]
+\begin{tabular}{@{}p{1.5cm}p{2.6cm}@{}}
+\toprule
+約西亞 & 末代四王 \\
+\color{ScriptureGold}極善 & \color{RoyalRed}惡，被擄 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+
+% Timeline
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.2) {年代總覽 Timeline (BC)};
+
+  \draw[ChapterBlue,line width=1.5pt] (-4,1) -- (4,1);
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=2pt,minimum width=1.6cm,minimum height=0.4cm,font=\tiny] at (-3,1) {所羅門-分裂};
+  \node[font=\tiny,color=LightGray] at (-3,0.35) {970-930};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=2pt,minimum width=1.6cm,minimum height=0.4cm,font=\tiny] at (0,1) {諸王起伏};
+  \node[font=\tiny,color=LightGray] at (0,0.35) {930-715};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=2pt,minimum width=1.6cm,minimum height=0.4cm,font=\tiny] at (3,1) {復興與被擄};
+  \node[font=\tiny,color=LightGray] at (3,0.35) {715-586};
+\end{tikzpicture}
+
+\vfill
+
+% Equation and symbol
+{\normalsize\color{ScriptureGold}\bfseries 尋求神 \textrightarrow\ 復興；離棄神 \textrightarrow\ 審判}\\[0.1cm]
+{\footnotesize\color{LightGray} Seek the LORD \textrightarrow\ Revival; Forsake Him \textrightarrow\ Ruin}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
+
+\end{center}
+\end{titlepage}
+
+% Kings of Judah — full reference table (replaces the Samuel volumes' map page,
+% since 2 Chronicles spans 384 years and 21 kings rather than one tight geography)
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 猶大諸王一覽}\\[0.1cm]
+{\normalsize The Kings of Judah at a Glance}
+
+\vspace{0.4cm}
+
+{\small
+\renewcommand{\arraystretch}{1.25}
+\begin{longtable}{@{}p{1.6cm}p{1.6cm}p{2.0cm}p{6.4cm}@{}}
+\toprule
+\textbf{王} & \textbf{年代 BC} & \textbf{評價} & \textbf{章節與要點} \\
+\midrule
+\endhead
+所羅門 & 970-930 & \color{ScriptureGold}善 & 1-9章：求智慧、建殿、榮光充滿、示巴女王來訪 \\
+羅波安 & 930-913 & \color{RoyalRed}惡 & 10-12章：驕傲裂國；示撒入侵；晚年謙卑 \\
+亞比雅 & 913-910 & \color{RoyalRed}惡 & 13章：神蹟式勝耶羅波安 \\
+亞撒 & 910-869 & \color{ScriptureGold}善\textrightarrow 晚年失腳 & 14-16章：改革、勝古實人；晚年靠亞蘭而非神 \\
+約沙法 & 872-848 & \color{ScriptureGold}善 & 17-20章：教導律法；「我們的眼目單仰望你」；敬拜勝敵 \\
+約蘭 & 848-841 & \color{RoyalRed}惡 & 21章：殺兄弟；娶亞哈女兒；患病而死 \\
+亞哈謝 & 841 & \color{RoyalRed}惡 & 22章：被耶戶所殺 \\
+亞他利雅（后） & 841-835 & \color{RoyalRed}極惡 & 22-23章：滅王室；約阿施藏匿聖殿六年 \\
+約阿施 & 835-796 & \color{ScriptureGold}善\textrightarrow \color{RoyalRed}惡 & 24章：耶何耶大在世時修殿；死後拜偶像，殺撒迦利亞先知 \\
+亞瑪謝 & 796-767 & \color{ScriptureGold}善\textrightarrow \color{RoyalRed}惡 & 25章：勝以東後竟拜以東神 \\
+烏西雅 & 792-740 & \color{ScriptureGold}善（大部分） & 26章：52年強盛；驕傲擅自入殿，得痲瘋 \\
+約坦 & 750-732 & \color{ScriptureGold}善 & 27章：安靜行正道；以賽亞先知呼喊的時代 \\
+亞哈斯 & 735-715 & \color{RoyalRed}極惡 & 28章：拜巴力、焚子獻祭、關閉聖殿 \\
+希西家 & 715-686 & \color{ScriptureGold}極善 & 29-32章：開殿門、潔淨聖殿、最大逾越節、退亞述 \\
+瑪拿西 & 697-642 & \color{RoyalRed}極惡\textrightarrow \color{ScriptureGold}悔改 & 33上：55年最惡；被擄、悔改、歸回 \\
+亞們 & 642-640 & \color{RoyalRed}惡 & 33下：2年，被臣僕所殺 \\
+約西亞 & 640-609 & \color{ScriptureGold}極善 & 34-35章：發現律法書；國家悔改；最大逾越節；戰死於米吉多 \\
+約哈斯 & 609 & \color{RoyalRed}惡 & 36:1-4：3個月，被法老廢 \\
+約雅敬 & 609-598 & \color{RoyalRed}惡 & 36:5-8：11年，巴比倫附庸 \\
+約雅斤 & 598-597 & \color{RoyalRed}惡 & 36:9-10：3個月，被擄第一批 \\
+西底家 & 597-586 & \color{RoyalRed}惡 & 36:11-21：11年，耶路撒冷與聖殿被毀 \\
+（古列詔令） & 538 & — & 36:22-23：「可以上去！」——一扇新開的門 \\
+\bottomrule
+\end{longtable}
+}
+
+\vspace{0.2cm}
+{\footnotesize\color{LightGray} 「這稱為我名下的子民，若是自卑、禱告，尋求我的面……」— 代下 7:14}
+\end{center}
+\cleardoublepage
+
+% Psalms Connection Page — companion psalms by era (table form, matching
+% the book's own eight-part structure rather than reusing David's-life-stage
+% content from the Samuel volumes, which doesn't apply here)
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 配詩地圖}\\[0.1cm]
+{\normalsize Psalms Connected to the History}
+
+\vspace{0.4cm}
+
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{3.6cm}p{1.8cm}p{5.0cm}@{}}
+\toprule
+\textbf{階段} & \textbf{章} & \textbf{配詩} \\
+\midrule
+所羅門時代 & 1-9 & 詩72, 127, 132, 84 \\
+早期猶大王：亞撒、約沙法 & 11-20 & 詩83, 46 \\
+希西家復興 & 29-32 & 詩46, 48, 76 \\
+約西亞復興 & 34-35 & 詩119 \\
+末代四王與被擄 & 36 & 詩74, 79, 137 \\
+古列詔令：可以上去 & 36:22-23 & 詩126 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.5cm}
+\harpsymbol\hspace{0.3cm}{\normalsize\bfseries\color{ChapterBlue} 一卷書，一個問題}\hspace{0.3cm}\harpsymbol
+
+\vspace{0.3cm}
+{\footnotesize\color{TextGray}
+從所羅門的榮耀，到被擄的哀歌，詩篇始終伴隨著猶大諸王的腳步——\\
+無論是敬拜的高峰，還是流亡的低谷，神的百姓從未停止歌唱。}
+
+\vspace{0.5cm}
+{\footnotesize\color{LightGray} 「耶和華這樣說：為巴比倫所定的七十年滿了以後……你們必尋求我，也必尋見我。」— 耶 29:10, 13}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{歷代志下研讀 / 2 Chronicles Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ Martin J. Selman - 2 Chronicles (Tyndale OT Commentaries)\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER — APPENDICES
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% APPENDIX A: SCRIPTURE INDEX
+%% ============================================
+\chapter*{附錄一：經文索引 (Appendix A: Scripture Index)}
+\addcontentsline{toc}{chapter}{附錄一：經文索引 (Appendix A: Scripture Index)}
+\markboth{}{}
+
+\noindent 本索引收錄本書研讀中反覆強調、且在新約經文本身有直接引用或清楚呼應關係的歷代志下經文，依書卷順序排列。
+
+{\small
+\begin{longtable}{@{}p{2.6cm}p{4.6cm}p{6.8cm}@{}}
+\toprule
+\textbf{經文} & \textbf{主題} & \textbf{與新約的連結} \\
+\midrule
+\endhead
+代下 5:13-14 & 榮光充滿聖殿——全書最高點 & 約1:14「道成了肉身，住在我們中間……我們也見過他的榮光」——榮光充滿的終極應驗 \\
+代下 6:14-42 & 所羅門獻殿禱告，七次求「求你從天上垂聽」 & 來4:14-16 大祭司耶穌已經升入高天，我們可以坦然無懼來到施恩座前 \\
+代下 7:14 & 「自卑、禱告、尋求我的面、轉離惡行」 & 太6:33「你們要先求他的國和他的義」——次序相同：尋求神在先 \\
+代下 20:12 & 約沙法「我們不知道怎樣行，我們的眼目單仰望你」 & 來12:2「仰望為我們信心創始成終的耶穌」 \\
+代下 33:12-13 & 瑪拿西極惡之後悔改，神應允他的禱告 & 提前1:15-16「基督耶穌降世，為要拯救罪人，在罪人中我是個罪魁」——沒有人「太過分」而不能被赦免 \\
+代下 36:22-23 & 古列詔令，「可以上去」 & 賽44:28 以賽亞在事件發生前百餘年就叫出古列的名字；賽61:1-2與路4:18-21 耶穌在拿撒勒宣告「今天這經應驗在你們耳中了」——終極的「可以上去」 \\
+代下 36:21 & 被擄應驗耶利米的話，地享受安息年 & 耶29:10-13「七十年滿了以後，你們必尋求我，也必尋見我」 \\
+代下 36:22-23 與拉 1:1-3 & 歷代志結尾三節與以斯拉記開頭三節幾乎相同 & 啟22:20「我必快來」——「可以上去」不是最後的話，只是倒數第二的話 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX B: REFERENCES
+%% ============================================
+\chapter*{附錄二：參考資料 (Appendix B: References)}
+\addcontentsline{toc}{chapter}{附錄二：參考資料 (Appendix B: References)}
+\markboth{}{}
+
+\section*{三大核心資源 Three Core Resources}
+
+\begin{itemize}
+\item \textbf{黃長老式查經 (Elder Wong's Bible-Teaching Method)} — 以整本聖經為根基、以認識耶穌基督為中心的查經帶領法；週四查經班教導的整理與應用。
+\item \textbf{John MacArthur} — Grace to You (gty.org)：逐節解經講道與部落格文章。書中引用之講道均標明講題／編號，並經核對確為真實出處；無法核實逐字引句處，均已改寫為概述其一貫立場，不作逐字引用。
+\item \textbf{G. Campbell Morgan} — \textit{Living Messages of the Books of the Bible} (1912)；\textit{The Analyzed Bible}：解經王子對歷代志結構與屬靈組織的分析。
+\end{itemize}
+
+\section*{歷代注疏 Historical Commentary}
+
+\begin{itemize}
+\item \textbf{Matthew Henry} — \textit{Concise/Complete Commentary on the Whole Bible}（公版，可於 biblehub.com、studylight.org 查證）。
+\item \textbf{Martin J. Selman} — \textit{2 Chronicles: An Introduction and Commentary}（Tyndale Old Testament Commentaries）。
+\end{itemize}
+
+\noindent \textit{說明：加爾文（John Calvin）未著歷代志註釋，本書僅在跨書真理主題處，視需要引用他對其他經卷的相關論述。}
+
+\section*{經文核對來源 Scripture Verification Source}
+
+\noindent 本書中文（和合本修訂版 CUV）與英文（English Standard Version ESV）經文，均以 \href{https://www.ai-eden.com/bible}{ai-eden.com/bible} 為主要核對來源；該站為 JavaScript 動態渲染網站，若擷取失敗則以 cnbible.com、biblegateway.com 為備援來源交叉核對。每章附直接連結，格式為 \texttt{ai-eden.com/bible/2-chronicles/\{N\}?t=CUV,ESV\&cols=2}。
+
+\pagebreak
+
+%% ============================================
+%% BACK COVER PAGE
+%% ============================================
+\cleardoublepage
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.2pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ChapterBlue, line width=0.4pt, opacity=0.6]
+    ([xshift=0.52in,yshift=0.52in]current page.south west)
+    rectangle
+    ([xshift=-0.52in,yshift=-0.52in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[RoyalRed] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.016in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{\fill}
+
+\crownsymbol\hspace{0.2cm}{\fontsize{15}{18}\selectfont\scshape\color{ChapterBlue} דָּרַשׁ}\hspace{0.2cm}\crownsymbol\\[0.10cm]
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``To Seek'' \;\;
+\bfseries\color{RoyalRed} 尋求}
+
+\vspace{0.25cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.35cm}
+
+{\normalsize\bfseries\color{ChapterBlue} 關於本書 \;\; \footnotesize\scshape About This Book}
+
+\vspace{0.2cm}
+\noindent\begin{minipage}{4.7in}
+\footnotesize\color{TextGray}
+本書逐章研讀歷代志下三十六章，整合黃長老查經教導、
+John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
+並貫通列王紀、以賽亞書、耶利米書與福音書。
+全書以歷代志下 7:14 為總綱：
+「這稱為我名下的子民，若是自卑、禱告，尋求我的面，轉離他們的惡行，
+我必從天上垂聽，赦免他們的罪，醫治他們的地。」\\[0.4em]
+{\itshape
+A chapter-by-chapter study of 2 Chronicles, integrating Elder Wong's
+teaching, John MacArthur's verse-by-verse exposition, and
+G. Campbell Morgan's spiritual analysis — framed by 2 Chronicles 7:14:
+if my people seek my face, I will hear from heaven and heal their land.}
+\end{minipage}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterBlue} 王國的弧線 \;\; The Arc of the Kingdom}\\[0.3em]
+{\footnotesize\color{TextGray}
+榮耀 (1-9) \textbullet\ 分裂與起伏 (10-28)\\
+復興的高峰：希西家與約西亞 (29-35) \textbullet\ 審判與一扇新門 (36)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「這稱為我名下的子民，若是自卑、禱告，尋求我的面，\\
+轉離他們的惡行，我必從天上垂聽，赦免他們的罪，醫治他們的地。」}\\[0.15cm]
+{\scriptsize\color{ChapterBlue} — 歷代志下 7:14}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}

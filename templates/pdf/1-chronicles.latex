@@ -1,0 +1,823 @@
+% PubHub 1 Chronicles Template
+% Standalone volume, derived from samuel-chronicles.latex
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Historical Studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Menlo}
+\newfontfamily\kaiti{Kaiti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Historical Kingdom Theme
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Royal/Ancient theme
+\definecolor{ChapterBlue}{RGB}{35,55,85}         % Deep royal blue
+\definecolor{ScriptureGold}{RGB}{175,135,45}     % Royal gold
+\definecolor{CommentaryBrown}{RGB}{95,65,45}     % Warm brown for commentary
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{170,200,220}        % Sea/river blue
+\definecolor{LandBeige}{RGB}{240,230,210}        % Land color
+\definecolor{MountainBrown}{RGB}{170,150,130}    % Mountain shading
+\definecolor{DesertTan}{RGB}{220,200,170}        % Desert regions
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}      % Cream for scripture boxes
+\definecolor{PsalmBg}{RGB}{250,248,240}          % Light gold for Psalms
+\definecolor{TimelineBg}{RGB}{245,248,252}       % Light blue for timeline
+\definecolor{ApplicationBg}{RGB}{248,252,248}    % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+\definecolor{RoyalRed}{RGB}{130,30,35}            % Anointing/covenant-blood accent
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Crown decoration command (for royal theme)
+\newcommand{\crownsymbol}{%
+\begin{tikzpicture}[scale=0.12]
+  \draw[color=ScriptureGold,line width=1.2pt] (-1,0) -- (-0.8,0.8) -- (-0.4,0.3) -- (0,1) -- (0.4,0.3) -- (0.8,0.8) -- (1,0) -- cycle;
+\end{tikzpicture}%
+}
+
+% Harp decoration (for Psalms)
+\newcommand{\harpsymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1pt] (0,0) arc (180:0:0.5 and 1);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.2,0) -- (0.2,0.9);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.5,0) -- (0.5,1);
+  \draw[color=ScriptureGold,line width=0.5pt] (0.8,0) -- (0.8,0.9);
+\end{tikzpicture}%
+}
+
+% Scroll decoration
+\newcommand{\scrolldecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt] (0,0) -- (#1,0);
+  \draw[color=ScriptureGold,line width=0.8pt] (0,-0.1) arc (270:90:0.1);
+  \draw[color=ScriptureGold,line width=0.8pt] (#1,-0.1) arc (270:450:0.1);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% ELEGANT COVER PAGE (matches Gospel of John standard)
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterBlue, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[RoyalRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterBlue} Three Books Deep Reading \textbullet\ 1 Chronicles}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 歷代志上深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} The Priest's View of History \textperiodcentered\ 祭司眼中的以色列史}
+
+\vspace{0.30cm}
+
+% ===== CROWN WITH HALO OF GLORY (君王的記號) =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Halo — radiating glory rays
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.10] (0,0.3) circle (2.15);
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.16] (0,0.3) circle (1.90);
+  \draw[ScriptureGold, line width=0.4pt, opacity=0.24] (0,0.3) circle (1.65);
+  \draw[ScriptureGold, line width=0.5pt, opacity=0.34] (0,0.3) circle (1.35);
+  \foreach \ang in {0,15,...,345} {
+    \draw[ScriptureGold, line width=0.35pt, opacity=0.40]
+      ({1.35*cos(\ang)}, {0.3+1.35*sin(\ang)}) -- ({1.75*cos(\ang)}, {0.3+1.75*sin(\ang)});
+  }
+  \draw[ScriptureGold, line width=1.0pt] (0,0.3) circle (1.35);
+
+  % Crown — five-point royal crown, iconographic (大衛＝王)
+  \fill[ChapterBlue] (-1.0,0.15) rectangle (1.0,0.42);
+  \fill[ChapterBlue]
+    (-1.0,0.42) -- (-1.0,0.75) -- (-0.6,0.50) -- (-0.3,0.95) --
+    (0,0.55) -- (0.3,0.95) -- (0.6,0.50) -- (1.0,0.75) -- (1.0,0.42) -- cycle;
+  \fill[ScriptureGold,opacity=0.55] (-1.0,0.20) rectangle (1.0,0.28);
+  \fill[ScriptureGold] (-0.3,0.95) circle (0.07);
+  \fill[ScriptureGold] (0.6,0.50) circle (0.06);
+  \fill[ScriptureGold] (-0.6,0.50) circle (0.06);
+  \fill[RoyalRed] (0,0.55) circle (0.09);
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterBlue}\kaiti\selectfont 殿的異象}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} The Vision of the House}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 歷代志上研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of 1 Chronicles}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterBlue} מִקְדָּשׁ}\quad
+{\footnotesize\scshape\color{CommentaryBrown} ``The Sanctuary''}\quad
+{\footnotesize\bfseries\color{RoyalRed} 聖所}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{RoyalRed}\kaiti\selectfont
+「國度也是你的，並且你為至高，為萬有之首。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``Yours is the kingdom, O LORD, and you are exalted\\
+as head above all.''}\\[0.10em]
+{\scriptsize\color{ChapterBlue} 歷代志上 29:11 \textperiodcentered\ 1 Chronicles 29:11}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話"
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterBlue} 全書一句話 \textperiodcentered\ The Whole Story in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+我要作他的父，他要作我的子。我必不像從掃羅身上撤去恩典那樣從他身上撤去，\\
+卻要讓他長久立在我家中和我的國裡，他的寶座也必\textbf{\color{RoyalRed}堅定}，直到永遠。\\[0.5em]
+\footnotesize\itshape
+I will be to him a father, and he shall be to me a son. I will not take my steadfast\\
+love from him... but I will confirm him in my house and in my kingdom forever,\\
+and his throne shall be \textbf{established} forever.\\[0.4em]
+\small\color{ChapterBlue} 歷代志上 17:13-14 \textperiodcentered\ 1 Chronicles 17:13-14
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 一句應許 \textperiodcentered\ 三個部分 \textperiodcentered\ 一卷書的重量\\
+\textit{One promise \textperiodcentered\ three parts \textperiodcentered\ the weight of one book}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{2.6cm}p{2.2cm}p{4.2cm}@{}}
+\toprule
+\textbf{部分} & \textbf{章節} & \textbf{在全書的展開} \\
+\midrule
+家譜 & 1-9章 & 神從未失去對你的追蹤——從亞當直到被擄歸回，一個名字都沒有少 \\
+大衛興起與約櫃入城 & 10-16章 & 神的同在被迎回——從掃羅的死亡到約櫃安放帳幕 \\
+大衛之約與聖殿籌備 & 17-29章 & 神的永遠應許，與大衛最偉大的遺產——他永遠見不到的工程 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterBlue} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一份名單、一堆建殿的材料清單，是來認出：神從未弄丟任何一個名字，\\
+也從未輕看任何一件你今生看不到完成、卻仍然全力預備的工作。\\[0.5em]
+\textit{\footnotesize
+You are not just reading a list of names and building materials — you are
+learning that God has never lost track of a single name, and never despises
+work you prepare in full but will not live to see finished.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative crown and line
+\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{32}{40}\selectfont\bfseries\color{ChapterBlue} 殿的異象}\\[0.2cm]
+{\large\itshape\color{LightGray} The Vision of the House}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{20}{26}\selectfont\bfseries 歷代志上研讀}\\[0.15cm]
+{\normalsize A Study of 1 Chronicles}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+國度也是你的，並且你為至高，為萬有之首。\\[0.15em]
+\footnotesize Yours is the kingdom, O LORD, and you are exalted\\
+as head above all. — 1 Chronicles 29:11
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+% Structure diagram (replaces the geographic map — this book is
+% organizational/genealogical, not a travel narrative)
+\begin{tikzpicture}[scale=0.72]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,3.6) {全書結構 Book Structure};
+
+  % Row 1 — four boxes
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=1.3cm,font=\tiny\bfseries,align=center] (g1) at (-6,2) {家譜\\1-9};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=1.3cm,font=\tiny\bfseries,align=center] (g2) at (-3.2,2) {掃羅之死\\10};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=1.3cm,font=\tiny\bfseries,align=center] (g3) at (-0.4,2) {大衛興起\\11-12};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=1.3cm,font=\tiny\bfseries,align=center] (g4) at (2.4,2) {約櫃入城\\13-16};
+
+  \draw[->,ChapterBlue,thick] (g1) -- (g2);
+  \draw[->,ChapterBlue,thick] (g2) -- (g3);
+  \draw[->,ChapterBlue,thick] (g3) -- (g4);
+
+  % Row 2 — three boxes
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.3cm,font=\tiny\bfseries,align=center] (g5) at (-4,-0.6) {大衛之約\\17};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.3cm,font=\tiny\bfseries,align=center] (g6) at (-0.6,-0.6) {軍事擴張\\18-20};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.7cm,minimum height=1.3cm,font=\tiny\bfseries,align=center] (g7) at (2.8,-0.6) {聖殿籌備\\21-29};
+
+  \draw[->,ChapterBlue,thick] (g5) -- (g6);
+  \draw[->,ChapterBlue,thick] (g6) -- (g7);
+  \draw[->,ChapterBlue,thick] (g4.south) .. controls (1.5,0.9) .. (g5.north);
+
+  \node[font=\tiny,color=LightGray] at (0,-1.9) {神從未失去對你的追蹤，也從未輕看祂僕人的預備};
+\end{tikzpicture}
+
+\vspace{0.4cm}
+
+% Equation and symbol
+{\normalsize\color{ScriptureGold}\bfseries 殿 = 材料 + 心志}\\[0.1cm]
+{\footnotesize\color{LightGray} The Temple = Materials + Devotion (1 Chr 22:5)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
+
+\end{center}
+\end{titlepage}
+
+% Genealogy page (full page) — replaces the "Kingdom Map" page,
+% since 1 Chronicles 1-9 is a genealogy, not a travel narrative
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 從亞當到大衛}\\[0.1cm]
+{\normalsize From Adam to David — the Line That Carries the Promise}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}[scale=0.9]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,6.3) {家譜的骨幹 The Genealogical Spine (代上1-3章)};
+
+  \foreach \i/\name/\y in {
+    0/{亞當 Adam}/5.6,
+    1/{挪亞 Noah}/4.9,
+    2/{亞伯拉罕 Abraham}/4.2,
+    3/{以撒 Isaac}/3.5,
+    4/{雅各／以色列 Jacob}/2.8,
+    5/{猶大 Judah}/2.1,
+    6/{耶西 Jesse}/1.4,
+    7/{大衛 David}/0.7
+  }{
+    \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=4.4cm,minimum height=0.55cm,font=\small] at (0,\y) {\name};
+  }
+  \foreach \y/\yy in {5.6/4.9, 4.9/4.2, 4.2/3.5, 3.5/2.8, 2.8/2.1, 2.1/1.4, 1.4/0.7} {
+    \draw[->,ScriptureGold,thick] ({0,\y-0.28}) -- ({0,\yy+0.28});
+  }
+
+  \node[draw=RoyalRed,fill=white,rounded corners,inner sep=5pt,minimum width=5.6cm,minimum height=0.6cm,font=\small\bfseries,text=RoyalRed] at (0,-0.65) {大衛的子孫，耶穌基督 (太1:1)};
+  \draw[->,RoyalRed,thick] (0,0.40) -- (0,-0.30);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+{\footnotesize\color{LightGray} 「亞當生塞特……」——代上1:1；歷代志上用九章篇幅，證明神從亞當直到被擄歸回，\\一個名字都沒有弄丟。}
+\end{center}
+\cleardoublepage
+
+% Worship-organization page (full page) — replaces the "Psalms
+% Connection" page, since 1 Chronicles' distinctive material is the
+% temple's worship organization (23-27), not David's flight psalms
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 聖殿的敬拜組織}\\[0.1cm]
+{\normalsize The Temple's Worship Organization (代上23-27章)}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,text width=3.0cm,align=center,minimum height=2.1cm,font=\small\bfseries] (lev) at (-4.6,1) {利未人職責\\23章\\38,000人按\\年齡分組};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,text width=3.0cm,align=center,minimum height=2.1cm,font=\small\bfseries] (pri) at (0,1) {祭司班次\\24章\\24班，各四個\\月輪值};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,text width=3.0cm,align=center,minimum height=2.1cm,font=\small\bfseries] (sing) at (4.6,1) {歌唱者班次\\25章\\288位\\專職歌者};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,text width=3.0cm,align=center,minimum height=1.4cm,font=\small\bfseries] (gate) at (-2.3,-2.2) {守門者與庫房\\26章};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,text width=3.0cm,align=center,minimum height=1.4cm,font=\small\bfseries] (admin) at (2.3,-2.2) {軍政安排\\27章};
+
+  \draw[->,ScriptureGold,thick] (lev) -- (gate);
+  \draw[->,ScriptureGold,thick] (pri) -- (gate);
+  \draw[->,ScriptureGold,thick] (pri) -- (admin);
+  \draw[->,ScriptureGold,thick] (sing) -- (admin);
+
+  \node[draw=RoyalRed,fill=white,rounded corners,text width=7.6cm,align=center,inner sep=8pt,font=\small\bfseries,text=RoyalRed] (heart) at (0,-4.6) {敬拜是歷代志的心臟，不是週日的例行公事};
+  \draw[->,ScriptureGold,thick] (gate) -- (-1.2,-3.8);
+  \draw[->,ScriptureGold,thick] (admin) -- (1.2,-3.8);
+  \node at ([xshift=-0.5cm]heart.west) {\harpsymbol};
+  \node at ([xshift=0.5cm]heart.east) {\harpsymbol};
+\end{tikzpicture}
+
+\vspace{0.6cm}
+{\footnotesize\color{LightGray} 「路加福音的撒迦利亞，是亞比雅班（祭司二十四班次之一）的祭司」— 路1:5，呼應代上24章}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{歷代志上研讀 / 1 Chronicles Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本修訂版 (RCUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ Martin J. Selman - 1 Chronicles (Tyndale OT Commentaries)\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER — APPENDICES
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% APPENDIX A: SCRIPTURE INDEX
+%% ============================================
+\chapter*{附錄一：經文索引 (Appendix A: Scripture Index)}
+\addcontentsline{toc}{chapter}{附錄一：經文索引 (Appendix A: Scripture Index)}
+\markboth{}{}
+
+\noindent 本索引收錄本書研讀中反覆強調、且在新約經文本身有直接引用或清楚呼應關係的歷代志上經文，依書卷順序排列。
+
+{\small
+\begin{longtable}{@{}p{2.6cm}p{4.6cm}p{6.8cm}@{}}
+\toprule
+\textbf{經文} & \textbf{主題} & \textbf{與新約的連結} \\
+\midrule
+\endhead
+代上 4:9-10 & 雅比斯的禱告——「求你賜福與我」 & 太7:7-11「你們祈求，就給你們」——父神樂意應允誠實的求告 \\
+代上 16章 & 約櫃迎入帳幕，「住在我們中間」的預表 & 約1:14「道成了肉身，住在我們中間」，原文 \textit{eskēnōsen} 字根是「支搭帳幕」\textit{skēnē}，呼應約櫃入帳幕 \\
+代上 17:13-14 & 大衛之約的永遠應許 & 徒13:22-23 神照所應許的，從大衛的後裔中為以色列人立了救主耶穌 \\
+代上 22:5 & 大衛為聖殿預備材料——「殿宇必須極其高大」 & 約2:19-21「拆毀這殿，我三日內要把它重建」——耶穌是指自己的身體為殿 \\
+代上 22:9-10 & 所羅門「和平的人」，建殿的名分 & 西2:9「神本性一切的豐盛都有形有體地居住在基督裡面」——真聖殿的終極應驗不是建築物，是道成肉身的身體 \\
+代上 21-29章 & 聖殿的整全籌備，人手所能做到的極致 & 啟21:22「我沒有看見城裡有殿，因主神全能者和羔羊為城的殿」——大衛所籌備的一切，終極指向不再需要建築的那日 \\
+代上 29:10-12 & 大衛的大頌讚——「國度也是你的」 & 林前15:24-28 基督末了要把國度交在父神手裡，讓神在萬物之上 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX B: REFERENCES
+%% ============================================
+\chapter*{附錄二：參考資料 (Appendix B: References)}
+\addcontentsline{toc}{chapter}{附錄二：參考資料 (Appendix B: References)}
+\markboth{}{}
+
+\section*{三大核心資源 Three Core Resources}
+
+\begin{itemize}
+\item \textbf{黃長老式查經 (Elder Wong's Bible-Teaching Method)} — 以整本聖經為根基、以認識耶穌基督為中心的查經帶領法；週四查經班教導的整理與應用。
+\item \textbf{John MacArthur} — Grace to You (gty.org)：逐節解經講道與部落格文章。書中引用之講道均標明講題／編號，並經核對確為真實出處；無法核實逐字引句處，均已改寫為概述其一貫立場，不作逐字引用。
+\item \textbf{G. Campbell Morgan} — \textit{Living Messages of the Books of the Bible} (1912)：解經王子對歷代志結構與屬靈組織的分析。
+\end{itemize}
+
+\section*{歷代注疏 Historical Commentary}
+
+\begin{itemize}
+\item \textbf{Matthew Henry} — \textit{Concise/Complete Commentary on the Whole Bible}（公版，可於 biblehub.com、studylight.org 查證）。
+\item \textbf{Martin J. Selman} — \textit{1 Chronicles: An Introduction and Commentary}（Tyndale Old Testament Commentaries）。
+\end{itemize}
+
+\noindent \textit{說明：加爾文（John Calvin）未著歷代志註釋，本書僅在跨書真理主題處，視需要引用他對其他經卷的相關論述。}
+
+\section*{經文核對來源 Scripture Verification Source}
+
+\noindent 本書中文（和合本修訂版 CUV）與英文（English Standard Version ESV）經文，均以 \href{https://www.ai-eden.com/bible}{ai-eden.com/bible} 為主要核對來源；該站為 JavaScript 動態渲染網站，若擷取失敗則以 cnbible.com、biblegateway.com 為備援來源交叉核對。每章附直接連結，格式為 \texttt{ai-eden.com/bible/1-chronicles/\{N\}?t=CUV,ESV\&cols=2}。
+
+\pagebreak
+
+%% ============================================
+%% BACK COVER PAGE
+%% ============================================
+\cleardoublepage
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.2pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ChapterBlue, line width=0.4pt, opacity=0.6]
+    ([xshift=0.52in,yshift=0.52in]current page.south west)
+    rectangle
+    ([xshift=-0.52in,yshift=-0.52in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[RoyalRed] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.016in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{\fill}
+
+\crownsymbol\hspace{0.2cm}{\fontsize{15}{18}\selectfont\scshape\color{ChapterBlue} מִקְדָּשׁ}\hspace{0.2cm}\crownsymbol\\[0.10cm]
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``The Sanctuary'' \;\;
+\bfseries\color{RoyalRed} 聖所}
+
+\vspace{0.25cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.35cm}
+
+{\normalsize\bfseries\color{ChapterBlue} 關於本書 \;\; \footnotesize\scshape About This Book}
+
+\vspace{0.2cm}
+\noindent\begin{minipage}{4.7in}
+\footnotesize\color{TextGray}
+本書逐章研讀歷代志上，整合黃長老查經教導、
+John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
+從祭司的視角重述以色列歷史。
+全書以歷代志上 29:11 為總綱：
+「國度也是你的，並且你為至高，為萬有之首。」\\[0.4em]
+{\itshape
+A chapter-by-chapter study of 1 Chronicles, integrating Elder Wong's
+teaching, John MacArthur's verse-by-verse exposition, and
+G. Campbell Morgan's spiritual analysis — framed by 1 Chronicles 29:11:
+Yours is the kingdom, O LORD, and you are exalted as head above all.}
+\end{minipage}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterBlue} 全書的弧線 \;\; The Arc of the Book}\\[0.3em]
+{\footnotesize\color{TextGray}
+家譜：神從未失去對你的追蹤 (1-9)\\
+大衛興起與約櫃入城：神的同在被迎回 (10-16)\\
+大衛之約與聖殿籌備：神的永遠應許 (17-29)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「國度也是你的，並且你為至高，\\
+為萬有之首。」}\\[0.15cm]
+{\scriptsize\color{ChapterBlue} — 歷代志上 29:11}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}

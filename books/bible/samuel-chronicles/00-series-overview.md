@@ -221,25 +221,41 @@ publisher: 三書精讀出版系統
 
 ## 目錄 (Table of Contents)
 
-1. [撒母耳記上概覽](01-1samuel-overview.md)
-2. [撒母耳記下概覽](02-2samuel-overview.md)
-3. [歷代志上概覽](03-1chronicles-overview.md)
-4. [歷代志下概覽](04-2chronicles-overview.md)
+本頁以下維持原本的學術參考資料（年代、地理、詩篇對照，見上）。**逐章深度查經（黃長老查經法 + MacArthur + Campbell Morgan 三方整合）已完整完成，全部四卷，共121章**，見 [`books/bible/sam1-2-chroni1-2/`](../sam1-2-chroni1-2/)：
+
+1. [撒母耳記上·逐章深度查經](../sam1-2-chroni1-2/1-samuel/00-overview.md)（32章）
+2. [撒母耳記下·逐章深度查經](../sam1-2-chroni1-2/2-samuel/00-overview.md)（24章）
+3. [歷代志上·逐章深度查經](../sam1-2-chroni1-2/1-chronicles/00-overview.md)（29章）
+4. [歷代志下·逐章深度查經](../sam1-2-chroni1-2/2-chronicles/00-overview.md)（36章）
 5. [大衛詩篇地圖](05-psalms-geography.md)
 6. [年代對照表](06-chronology.md)
 
-### 靈修導引：舊約歷史書全套（黃長老查經風格）
+### 出版格式 (Published Formats)
 
-> 學術資料（年代、地理、詩篇對照）見上；「指向基督」的逐卷靈修導引已**擴充為舊約十二卷歷史書全套**（約書亞記至以斯帖記），見 [`books/historyBooks/`](../../historyBooks/)，總覽見其 [`README.md`](../../historyBooks/README.md)。
+每卷已個別編為獨立出版物，亦有四卷合一的總覽版：
+
+| 卷冊 | PDF | 頁數 |
+|------|-----|------|
+| 撒母耳記上：王國之歌 | `output/1-samuel.pdf` | 541 |
+| 撒母耳記下：大衛之約 | `output/2-samuel.pdf` | 417 |
+| 歷代志上：殿的異象 | `output/1-chronicles.pdf` | 461 |
+| 歷代志下：尋求神的王 | `output/2-chronicles.pdf` | 573 |
+| 四卷合一（總覽／查證用） | `output/samuel-chronicles.pdf` | 1951 |
+
+重新編譯：對應的 `scripts/build-{1-samuel,2-samuel,1-chronicles,2-chronicles,samuel-chronicles}.sh`。
+
+### 靈修導引：舊約歷史書全套（黃長老查經風格，較簡版）
+
+> 以下為早期、較簡版的十二卷歷史書導讀（約書亞記至以斯帖記），見 [`books/historyBooks/`](../../historyBooks/)，總覽見其 [`README.md`](../../historyBooks/README.md)。撒母耳記與歷代志四卷的完整逐章版，請優先參考上方 `sam1-2-chroni1-2/` 目錄。
 
 - [導論·指向基督的鑰匙](../../historyBooks/00-introduction-the-key.md)
-- [撒母耳記上·逐卷查經](../../historyBooks/01-1samuel-study.md)
-- [撒母耳記下·逐卷查經](../../historyBooks/02-2samuel-study.md)
-- [歷代志上·逐卷查經](../../historyBooks/03-1chronicles-study.md)
-- [歷代志下·逐卷查經](../../historyBooks/04-2chronicles-study.md)
+- [撒母耳記上·逐卷查經（簡版）](../../historyBooks/01-1samuel-study.md)
+- [撒母耳記下·逐卷查經（簡版）](../../historyBooks/02-2samuel-study.md)
+- [歷代志上·逐卷查經（簡版）](../../historyBooks/03-1chronicles-study.md)
+- [歷代志下·逐卷查經（簡版）](../../historyBooks/04-2chronicles-study.md)
 - [主線·王與大衛之約](../../historyBooks/05-thread-kingship-and-covenant.md)
 - [細讀·三段經文逐句默想](../../historyBooks/06-close-readings.md)
 
 ---
 
-*三書精讀項目 · 撒母耳記與歷代志研讀 · 2025*
+*三書精讀項目 · 撒母耳記與歷代志研讀 · 2026*

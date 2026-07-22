@@ -1,4 +1,4 @@
-% PubHub Samuel-Chronicles Template
+% PubHub 2 Samuel Template
 % Professional Bible Study Book Layout
 % Bilingual Chinese/English with Historical Studies
 % Requires XeLaTeX for CJK support
@@ -318,8 +318,8 @@ $endif$
 \begin{center}
 \vspace*{0.42in}
 
-{\footnotesize\scshape\color{ChapterBlue} Three Books Deep Reading \textbullet\ Samuel \& Chronicles}\\[0.08cm]
-{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 撒母耳記與歷代志深度研讀}
+{\footnotesize\scshape\color{ChapterBlue} Three Books Deep Reading \textbullet\ 2 Samuel}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 撒母耳記下深度研讀}
 
 \vspace{0.16cm}
 \begin{tikzpicture}
@@ -331,7 +331,7 @@ $endif$
 \end{tikzpicture}
 \vspace{0.22cm}
 
-{\fontsize{13}{15}\selectfont\itshape\color{TextGray} From a Nation's Cry for a King \textperiodcentered\ 從人選的王，到神揀選的王}
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} The Rise, the Fall, and the Everlasting Throne \textperiodcentered\ 興起、跌倒，與永遠的國位}
 
 \vspace{0.30cm}
 
@@ -364,17 +364,17 @@ $endif$
 \textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
 \vspace{0.24cm}
 
-{\fontsize{34}{40}\selectfont\bfseries\color{ChapterBlue}\kaiti\selectfont 王國之歌}\\[0.10cm]
-{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Songs of the Kingdom}
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterBlue}\kaiti\selectfont 大衛之約}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} The Everlasting Covenant}
 
 \vspace{0.20cm}
-{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 撒母耳記與歷代志研讀}\\[0.08cm]
-{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of Samuel \& Chronicles with Psalms}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 撒母耳記下研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of 2 Samuel}
 
 \vspace{0.24cm}
-{\fontsize{15}{18}\selectfont\itshape\color{ChapterBlue} מָשִׁיחַ}\quad
-{\footnotesize\scshape\color{CommentaryBrown} ``The Anointed One''}\quad
-{\footnotesize\bfseries\color{RoyalRed} 受膏者}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterBlue} בְּרִית}\quad
+{\footnotesize\scshape\color{CommentaryBrown} ``The Covenant''}\quad
+{\footnotesize\bfseries\color{RoyalRed} 立約}
 
 \vfill
 
@@ -382,11 +382,11 @@ $endif$
 \begin{minipage}{4.3in}
 \centering\vspace{0.15cm}
 {\footnotesize\color{RoyalRed}\kaiti\selectfont
-「耶和華不像人看人，人是看外貌，耶和華是看內心。」}\\[0.10em]
+「你的家和你的國必在你面前永遠堅立；你的國位也必堅定，直到永遠。」}\\[0.10em]
 {\scriptsize\itshape\color{TextGray}
-``For the LORD sees not as man sees: man looks on the outward\\
-appearance, but the LORD looks on the heart.''}\\[0.10em]
-{\scriptsize\color{ChapterBlue} 撒母耳記上 16:7 \textperiodcentered\ 1 Samuel 16:7}
+``And your house and your kingdom shall be made sure forever\\
+before me. Your throne shall be established forever.''}\\[0.10em]
+{\scriptsize\color{ChapterBlue} 撒母耳記下 7:16 \textperiodcentered\ 2 Samuel 7:16}
 \vspace{0.15cm}
 \end{minipage}}
 
@@ -425,19 +425,20 @@ Your throne shall be \textbf{established} forever.\\[0.4em]
 \end{minipage}}
 
 \vspace{0.35cm}
-{\small\color{TextGray} 一句應許 \textperiodcentered\ 三個階段 \textperiodcentered\ 整段王國史\\
-\textit{One promise \textperiodcentered\ three stages \textperiodcentered\ the whole kingdom story}}
+{\small\color{TextGray} 一句應許 \textperiodcentered\ 四個階段 \textperiodcentered\ 一位大衛\\
+\textit{One promise \textperiodcentered\ four stages \textperiodcentered\ one David}}
 
 \vspace{0.30cm}
 {\small
 \renewcommand{\arraystretch}{1.3}
-\begin{tabular}{@{}p{2.0cm}p{2.6cm}p{4.4cm}@{}}
+\begin{tabular}{@{}p{2.2cm}p{2.2cm}p{6.4cm}@{}}
 \toprule
-\textbf{階段} & \textbf{王} & \textbf{在全書的展開} \\
+\textbf{階段} & \textbf{章節} & \textbf{在全書的展開} \\
 \midrule
-人選的王 & 掃羅 & 撒上8-15章 —— 外貌合乎眾人，心卻沒有降服於神 \\
-神揀選的王 & 大衛 & 撒上16章-撒下24章 —— 合神心意，卻仍需要一位更美的後裔 \\
-應許的王 & 大衛的子孫 & 撒下7:12-16 —— 那位國位堅定直到永遠的，唯獨基督 \\
+大衛興起 & 1-10章 & 統一王國的榮耀——定都耶路撒冷、約櫃入城、大衛之約 \\
+大衛跌倒 & 11-12章 & 拔示巴——一夜毀一生；拿單的責備「你就是那人」 \\
+大衛受苦 & 13-20章 & 刀劍不離家——暗嫩、押沙龍、亞希多弗 \\
+大衛結語 & 21-24章 & 附錄與總結——大衛的詩歌、三勇士、亞勞拿禾場 \\
 \bottomrule
 \end{tabular}
 }
@@ -451,14 +452,14 @@ Your throne shall be \textbf{established} forever.\\[0.4em]
 \vspace{0.18cm}
 \begin{minipage}{4.6in}
 \small\color{TextGray}
-不是來讀一段王國興衰史，是來認出誰才是真正配作王的那一位。\\
-掃羅的崩潰、大衛的跌倒，都不是終點——\\
-每一頁都在把你的眼目，從人的王引向神所應許的王。\\[0.5em]
+不是來讀一位英雄的傳記，是來認出：即使是神所揀選、合祂心意的王，也需要一位更美的後裔。\\
+大衛的興起與跌倒，都不是終點——\\
+每一頁都在把你的眼目，從這位大衛，引向神所應許、國位永遠堅立的那一位。\\[0.5em]
 \textit{\footnotesize
-You are not just reading a history of kings — you are learning to
-recognize the One truly worthy of the throne.\\
-Saul's collapse and David's failures are not the end of the story;
-every page points beyond the human king to the promised King.}
+You are not just reading a hero's biography — you are learning to see that
+even a king after God's own heart still needs a better Son.\\
+David's rise and David's fall are not the end of the story;
+every page points beyond this David to the One whose throne is established forever.}
 \end{minipage}
 
 \vfill
@@ -480,14 +481,14 @@ every page points beyond the human king to the promised King.}
 \vspace{0.4cm}
 
 % Main title
-{\fontsize{32}{40}\selectfont\bfseries\color{ChapterBlue} 王國之歌}\\[0.2cm]
-{\large\itshape\color{LightGray} Songs of the Kingdom}
+{\fontsize{32}{40}\selectfont\bfseries\color{ChapterBlue} 大衛之約}\\[0.2cm]
+{\large\itshape\color{LightGray} The Everlasting Covenant}
 
 \vspace{0.6cm}
 
 % Book title
-{\fontsize{20}{26}\selectfont\bfseries 撒母耳記與歷代志研讀}\\[0.15cm]
-{\normalsize A Study of Samuel \& Chronicles with Psalms}
+{\fontsize{20}{26}\selectfont\bfseries 撒母耳記下研讀}\\[0.15cm]
+{\normalsize A Study of 2 Samuel}
 
 \vspace{0.5cm}
 
@@ -507,89 +508,90 @@ forever before me. — 2 Samuel 7:16
 
 \vspace{0.4cm}
 
-% Kingdom Map (TikZ drawn)
+% Kingdom Map (TikZ drawn) — 2 Samuel locations only
 \begin{tikzpicture}[scale=0.55]
   % Title
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2.5,7.2) {大衛王國地圖 Map of David's Kingdom};
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (3,7.2) {大衛的耶路撒冷 Map of David's Jerusalem};
 
   % Mediterranean Sea (left side)
   \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
   \node[font=\tiny,color=ChapterBlue,rotate=90] at (-0.5,3.5) {Mediterranean};
 
   % Land area
-  \fill[LandBeige] (0.5,0) rectangle (6,6.5);
+  \fill[LandBeige] (0.5,0) rectangle (7,6.5);
 
   % Dead Sea
-  \fill[WaterBlue] (4.5,1.5) ellipse (0.3 and 0.8);
-  \node[font=\tiny,color=ChapterBlue] at (4.5,1.5) {Dead};
+  \fill[WaterBlue] (4.7,1.5) ellipse (0.3 and 0.8);
+  \node[font=\tiny,color=ChapterBlue] at (4.7,1.5) {Dead};
 
   % Jordan River
-  \draw[WaterBlue,line width=1.5pt] (4.2,6) -- (4.3,4) -- (4.5,2.3);
+  \draw[WaterBlue,line width=1.5pt] (4.4,6) -- (4.5,4) -- (4.7,2.3);
 
   % Key locations
-  \fill[ScriptureGold] (2,5.5) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (2.1,5.5) {Shiloh 示羅};
-
-  \fill[ScriptureGold] (2.5,4.5) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (2.6,4.5) {Ramah 拉瑪};
-
-  \fill[ScriptureGold] (2.8,4) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (2.9,4) {Gibeah 基比亞};
-
-  \fill[red!70!black] (3,3.3) circle (0.1);
-  \node[font=\tiny\bfseries,left,color=red!70!black] at (2.9,3.3) {Jerusalem 耶路撒冷};
-
-  \fill[ScriptureGold] (2.8,2.8) circle (0.08);
-  \node[font=\tiny,left,color=TextGray] at (2.7,2.8) {Bethlehem 伯利恆};
-
   \fill[ScriptureGold] (2.5,2) circle (0.08);
-  \node[font=\tiny,left,color=TextGray] at (2.4,2) {Hebron 希伯崙};
+  \node[font=\tiny\bfseries,left,color=ChapterBlue] at (2.4,2.18) {Hebron 希伯崙};
+  \node[font=\tiny,left,color=TextGray] at (2.4,1.82) {7年首都};
 
-  \fill[ScriptureGold] (3.5,1) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.6,1) {En Gedi 隱基底};
+  \fill[red!70!black] (3.1,3.3) circle (0.1);
+  \draw[red!70!black,line width=0.8pt] (3.1,3.3) circle (0.16);
+  \node[font=\tiny\bfseries,left,color=red!70!black] at (3.0,3.48) {Jerusalem 耶路撒冷};
+  \node[font=\tiny,left,color=TextGray] at (3.0,3.12) {33年首都};
 
-  \fill[ScriptureGold] (1,1.5) circle (0.08);
-  \node[font=\tiny,left,color=TextGray] at (0.9,1.5) {Ziklag 洗革拉};
+  \fill[ScriptureGold] (4.1,3.9) circle (0.07);
+  \node[font=\tiny,right,color=TextGray] at (4.2,3.9) {Mt of Olives 橄欖山};
 
-  % Compass
-  \draw[->,thick,color=ChapterBlue] (5.3,5.8) -- (5.3,6.3);
-  \node[font=\tiny,color=ChapterBlue] at (5.3,6.5) {N};
+  \fill[ScriptureGold] (1.3,1.3) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (1.45,1.3) {Ziklag 洗革拉};
+
+  \fill[ScriptureGold] (6.1,5.3) circle (0.08);
+  \node[font=\tiny,left,color=TextGray] at (6.0,5.52) {Mahanaim 瑪哈念};
+  \node[font=\tiny,left,color=TextGray] at (6.0,5.16) {(押沙龍叛變)};
+
+  % Compass — bottom-right corner, clear of the location labels above
+  \draw[->,thick,color=ChapterBlue] (6.5,1.0) -- (6.5,1.5);
+  \node[font=\tiny,color=ChapterBlue] at (6.5,1.7) {N};
 
   % Scale
   \draw[color=LightGray] (0.8,0.3) -- (2.3,0.3);
   \node[font=\tiny,color=LightGray] at (1.55,0.1) {50 km};
 \end{tikzpicture}
 
-\vspace{0.3cm}
+\vspace{0.15cm}
 
-% Timeline diagram
+% Timeline diagram — 2 Samuel's own 4-part structure
+% NOTE: a tikzpicture-level `scale` does NOT shrink node minimum-width/height,
+% only coordinate distances — so center-to-center gaps must be generous
+% relative to unscaled content width, or adjacent boxes visually overlap.
 \begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {年代總覽 Timeline};
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.7) {四階段 The Four Stages};
 
   % Timeline
-  \draw[ChapterBlue,line width=1.5pt] (-4,1) -- (4,1);
+  \draw[ChapterBlue,line width=1.5pt] (-7,1) -- (7,1);
 
-  % Era markers
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=2pt,minimum width=1.5cm,minimum height=0.4cm,font=\tiny] at (-3,1) {Samuel};
-  \node[font=\tiny,color=LightGray] at (-3,0.35) {1105-1010};
+  % Era markers — wide gaps (3.6 units apart) so tiny-font labels never touch
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=3pt,font=\tiny] at (-5.4,1) {興起 Rise};
+  \node[font=\tiny,color=LightGray] at (-5.4,0.3) {1010-995};
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=2pt,minimum width=1.5cm,minimum height=0.4cm,font=\tiny] at (-0.5,1) {David};
-  \node[font=\tiny,color=LightGray] at (-0.5,0.35) {1010-970};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=3pt,font=\tiny] at (-1.8,1) {跌倒 Fall};
+  \node[font=\tiny,color=LightGray] at (-1.8,0.3) {\textasciitilde 990};
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=2pt,minimum width=1.5cm,minimum height=0.4cm,font=\tiny] at (2,1) {Solomon};
-  \node[font=\tiny,color=LightGray] at (2,0.35) {970-930};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=3pt,font=\tiny] at (1.8,1) {受苦 Suffering};
+  \node[font=\tiny,color=LightGray] at (1.8,0.3) {990-975};
+
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,inner sep=3pt,font=\tiny] at (5.4,1) {結語 Epilogue};
+  \node[font=\tiny,color=LightGray] at (5.4,0.3) {975-970};
 
   % Psalms connection
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=3cm,minimum height=0.5cm,font=\tiny] at (-0.5,-0.3) {Psalms 詩篇};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,inner sep=4pt,font=\tiny] at (0,-0.4) {Psalms 詩篇};
 \end{tikzpicture}
 
 \vfill
 
 % Equation and symbol
-{\normalsize\color{ScriptureGold}\bfseries 王權 = 順服 + 敬拜}\\[0.1cm]
-{\footnotesize\color{LightGray} Kingdom = Obedience + Worship}
+{\normalsize\color{ScriptureGold}\bfseries 國位 = 恩典 + 管教}\\[0.1cm]
+{\footnotesize\color{LightGray} Throne = Grace + Discipline (2 Samuel 7:14-15)}
 
-\vspace{0.5cm}
+\vspace{0.3cm}
 
 $if(author)$
 {\normalsize $author$}\\[0.3cm]
@@ -605,216 +607,81 @@ $else$
 {\small \today}
 $endif$
 
-\vspace{0.3cm}
+\vspace{0.15cm}
 \crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
 
 \end{center}
 \end{titlepage}
 
-% Kingdom Map page (full page)
-\thispagestyle{empty}
-\begin{center}
-\vspace*{0.3cm}
-{\Large\bfseries\color{ChapterBlue} 以色列王國地圖}\\[0.1cm]
-{\normalsize Key Locations in Samuel \& Chronicles}
-
-\vspace{0.4cm}
-
-% Larger detailed map
-\begin{tikzpicture}[scale=1.0]
-  % Background
-  \fill[LandBeige] (0,0) rectangle (10,12);
-
-  % Mediterranean Sea
-  \fill[WaterBlue] (-0.5,0) rectangle (1.5,12);
-  \draw[WaterBlue!70!black,line width=0.5pt] (1.5,0) -- (1.5,12);
-  \node[font=\small,color=ChapterBlue,rotate=90] at (0.5,6) {Mediterranean Sea 地中海};
-
-  % Jordan River
-  \draw[WaterBlue,line width=2.5pt] (7,11) .. controls (6.8,9) and (7.2,7) .. (7,5) .. controls (6.8,4) .. (7,3);
-  \node[font=\tiny,color=ChapterBlue,rotate=-80] at (7.6,7) {Jordan 約旦河};
-
-  % Dead Sea
-  \fill[WaterBlue!80!black] (7,1.5) ellipse (0.6 and 1.2);
-  \node[font=\footnotesize,color=white] at (7,1.5) {Dead Sea};
-  \node[font=\tiny,color=ChapterBlue] at (7,0.5) {死海};
-
-  % Mountains (subtle shading)
-  \fill[MountainBrown!30] (8,8) ellipse (1.2 and 2);
-  \fill[MountainBrown!30] (4.5,5) ellipse (1 and 1.5);
-
-  %% KEY LOCATIONS
-
-  % Shiloh - Tabernacle
-  \fill[ScriptureGold] (5,10) circle (0.15);
-  \node[font=\small\bfseries,right,color=ChapterBlue] at (5.2,10) {Shiloh 示羅};
-  \node[font=\tiny,right,color=TextGray] at (5.2,9.6) {Tabernacle/Samuel (1 Sam 1-4)};
-
-  % Ramah - Samuel's home
-  \fill[ScriptureGold] (4.5,8.5) circle (0.15);
-  \node[font=\small\bfseries,left,color=ChapterBlue] at (4.3,8.5) {Ramah 拉瑪};
-  \node[font=\tiny,left,color=TextGray] at (4.3,8.1) {Samuel's Home (1 Sam 7)};
-
-  % Gibeah - Saul's capital
-  \fill[ScriptureGold] (5,7.5) circle (0.15);
-  \node[font=\small,right,color=ChapterBlue] at (5.2,7.5) {Gibeah 基比亞};
-  \node[font=\tiny,right,color=TextGray] at (5.2,7.1) {Saul's Capital};
-
-  % JERUSALEM - Main focus
-  \fill[red!70!black] (5,6.5) circle (0.2);
-  \draw[red!70!black,line width=1pt] (5,6.5) circle (0.3);
-  \node[font=\normalsize\bfseries,left,color=red!70!black] at (4.7,6.5) {JERUSALEM};
-  \node[font=\small,left,color=red!70!black] at (4.7,6.1) {耶路撒冷};
-  \node[font=\tiny,left,color=TextGray] at (4.7,5.7) {David's Capital, Temple Site};
-
-  % Bethlehem - David's hometown
-  \fill[ScriptureGold] (4.8,5.8) circle (0.15);
-  \node[font=\small,right,color=ChapterBlue] at (5,5.8) {Bethlehem 伯利恆};
-  \node[font=\tiny,right,color=TextGray] at (5,5.4) {David Anointed (1 Sam 16)};
-
-  % Hebron - David's first capital
-  \fill[ScriptureGold] (4.5,4.5) circle (0.15);
-  \node[font=\small\bfseries,left,color=ChapterBlue] at (4.3,4.5) {Hebron 希伯崙};
-  \node[font=\tiny,left,color=TextGray] at (4.3,4.1) {David's Capital 7 years};
-
-  % Cave of Adullam
-  \fill[ScriptureGold] (3.5,5) circle (0.12);
-  \node[font=\tiny,left,color=TextGray] at (3.3,5) {Adullam 亞杜蘭 (Ps 142)};
-
-  % En Gedi
-  \fill[ScriptureGold] (7.5,3) circle (0.15);
-  \node[font=\small,right,color=ChapterBlue] at (7.7,3) {En Gedi 隱基底};
-  \node[font=\tiny,right,color=TextGray] at (7.7,2.6) {David hides (Ps 57, 63)};
-
-  % Ziklag
-  \fill[ScriptureGold] (2.5,3) circle (0.12);
-  \node[font=\tiny,left,color=TextGray] at (2.3,3) {Ziklag 洗革拉};
-
-  % Mount Gilboa
-  \fill[MountainBrown] (3.7,10.9) circle (0.15);
-  \node[font=\small,right,color=MountainBrown] at (3.9,10.9) {Mt Gilboa 基利波山};
-  \node[font=\tiny,right,color=TextGray] at (3.9,10.5) {Saul's Death (1 Sam 31)};
-
-  % Mahanaim
-  \fill[ScriptureGold] (8,7) circle (0.12);
-  \node[font=\tiny,right,color=TextGray] at (8.2,7) {Mahanaim 瑪哈念};
-  \node[font=\tiny,right,color=TextGray] at (8.2,6.6) {(Absalom Rebellion)};
-
-  % Compass Rose
-  \draw[->,very thick,color=ChapterBlue] (9,10.5) -- (9,11.3);
-  \draw[->,thick,color=ChapterBlue] (8.6,10.5) -- (9.4,10.5);
-  \node[font=\small\bfseries,color=ChapterBlue] at (9,11.5) {N};
-
-  % Scale bar
-  \draw[very thick,color=TextGray] (2,0.5) -- (4,0.5);
-  \draw[thick,color=TextGray] (2,0.4) -- (2,0.6);
-  \draw[thick,color=TextGray] (4,0.4) -- (4,0.6);
-  \node[font=\small,color=TextGray] at (3,0.2) {50 km / 30 miles};
-
-  % Legend
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2,11.5) {Legend 圖例};
-  \fill[red!70!black] (1.5,11) circle (0.12);
-  \node[font=\tiny,right,color=TextGray] at (1.7,11) {Jerusalem};
-  \fill[ScriptureGold] (1.5,10.6) circle (0.1);
-  \node[font=\tiny,right,color=TextGray] at (1.7,10.6) {Key Location};
-  \fill[MountainBrown] (1.5,10.2) circle (0.1);
-  \node[font=\tiny,right,color=TextGray] at (1.7,10.2) {Mountain};
-
-\end{tikzpicture}
-
-\vspace{0.3cm}
-{\footnotesize\color{LightGray} 「耶和華不像人看人，人是看外貌，耶和華是看內心。」— 撒上 16:7}
-\end{center}
-\cleardoublepage
-
-% Psalms Connection Page
+% Psalms Connection Page — David's psalms mapped to 2 Samuel's four stages
 \thispagestyle{empty}
 \begin{center}
 \vspace*{0.3cm}
 {\Large\bfseries\color{ChapterBlue} 大衛詩篇對應圖}\\[0.1cm]
-{\normalsize David's Psalms Connected to Historical Events}
+{\normalsize David's Psalms Connected to 2 Samuel's Four Stages}
 
 \vspace{0.4cm}
 
-% David's Life Stages with Psalms
 \begin{tikzpicture}[scale=0.8]
   % Title
-  \node[font=\normalsize\bfseries,color=ChapterBlue] at (0,9) {大衛生平與詩篇 David's Life \& Psalms};
+  \node[font=\normalsize\bfseries,color=ChapterBlue] at (0,10) {大衛生平與詩篇 David's Life \& Psalms};
 
   % Timeline
-  \draw[ChapterBlue,line width=2pt] (-5,7) -- (5,7);
+  \draw[ChapterBlue,line width=2pt] (-7.5,8) -- (7.5,8);
 
   % Periods
-  \node[font=\small\bfseries,color=ChapterBlue] at (-3.5,7.5) {Flight 逃亡};
-  \node[font=\small\bfseries,color=ChapterBlue] at (0,7.5) {Reign 作王};
-  \node[font=\small\bfseries,color=ChapterBlue] at (3.5,7.5) {Late 晚年};
+  \node[font=\small\bfseries,color=ChapterBlue] at (-4.5,8.6) {興起 Rise};
+  \node[font=\small\bfseries,color=ChapterBlue] at (0,8.6) {跌倒 Fall};
+  \node[font=\small\bfseries,color=ChapterBlue] at (4.5,8.6) {受苦與結語 Suffering \& End};
 
-  % Flight Psalms
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-4,5.5) {Ps 59\\基比亞};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-2.5,5.5) {Ps 34,56\\迦特};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-4,4) {Ps 142\\亞杜蘭};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-2.5,4) {Ps 54\\西弗};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-3.25,2.5) {Ps 57,63\\隱基底};
+  % Rise Psalms — 3-unit gaps (node minimum content at this font is well
+  % under 2cm, and scale=0.8 means gaps must exceed content-width/0.8)
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,inner sep=3pt,font=\tiny,align=center] at (-6,6.3) {Ps 24,68\\約櫃入城};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,inner sep=3pt,font=\tiny,align=center] at (-3,6.3) {Ps 89,132\\大衛之約};
 
-  % Reign Psalms
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (-0.5,5.5) {Ps 24,68\\約櫃入城};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (1,5.5) {Ps 89,132\\大衛之約};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=2cm,font=\tiny,align=center] at (0.25,4) {Ps 51,32\\悔改};
+  % Fall Psalms
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,inner sep=3pt,font=\tiny,align=center] at (0,6.3) {Ps 51,32\\悔改};
 
-  % Late Psalms
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (3,5.5) {Ps 3,55\\押沙龍};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (4.5,5.5) {Ps 62,143\\等候神};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (3.75,4) {Ps 18,30\\感恩};
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=1.8cm,font=\tiny,align=center] at (3.75,2.5) {Ps 72\\為所羅門};
+  % Suffering & End Psalms
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,inner sep=3pt,font=\tiny,align=center] at (3,6.3) {Ps 3,4\\押沙龍};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,inner sep=3pt,font=\tiny,align=center] at (6,6.3) {Ps 55,62\\背叛與等候};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,inner sep=3pt,font=\tiny,align=center] at (3,4.2) {Ps 143\\仇敵追逼};
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,inner sep=3pt,font=\tiny,align=center] at (6,4.2) {Ps 18,30\\得勝與感恩};
 
   % Arrows
-  \draw[->,ScriptureGold,thick] (-4,6.5) -- (-4,5.9);
-  \draw[->,ScriptureGold,thick] (0.25,6.5) -- (0.25,5.9);
-  \draw[->,ScriptureGold,thick] (3.75,6.5) -- (3.75,5.9);
+  \draw[->,ScriptureGold,thick] (-4.5,7.5) -- (-4.5,6.9);
+  \draw[->,ScriptureGold,thick] (0,7.5) -- (0,6.9);
+  \draw[->,ScriptureGold,thick] (4.5,7.5) -- (4.5,6.9);
 
 \end{tikzpicture}
 
-\vspace{0.5cm}
+\vspace{0.6cm}
 
-% Book Structure
-{\large\bfseries\color{ChapterBlue} 四書結構 Structure of Four Books}
+{\large\bfseries\color{ChapterBlue} 撒母耳記下結構 Structure of 2 Samuel}
 
 \vspace{0.3cm}
 
 \begin{tikzpicture}[scale=0.75]
-  % Four books
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.5cm,font=\small\bfseries,align=center] (sam1) at (-4,0) {撒母耳記上\\1 Samuel};
-  \node[font=\tiny,color=LightGray] at (-4,-1.2) {1105-1010 BC};
+  % 3.6-unit gaps: box minimum-width (2.3cm) is unaffected by this picture's
+  % scale=0.75, so gaps must exceed 2.3/0.75 ~ 3.07 units to avoid overlap.
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=1.3cm,font=\small\bfseries,align=center] (rise) at (-5.4,0) {興起\\Rise\\(1-10)};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=1.3cm,font=\small\bfseries,align=center] (fall) at (-1.8,0) {跌倒\\Fall\\(11-12)};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=1.3cm,font=\small\bfseries,align=center] (suffer) at (1.8,0) {受苦\\Suffering\\(13-20)};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=1.3cm,font=\small\bfseries,align=center] (end) at (5.4,0) {結語\\Epilogue\\(21-24)};
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.5cm,font=\small\bfseries,align=center] (sam2) at (-1.2,0) {撒母耳記下\\2 Samuel};
-  \node[font=\tiny,color=LightGray] at (-1.2,-1.2) {1010-970 BC};
+  \draw[->,ChapterBlue,thick] (rise) -- (fall);
+  \draw[->,ChapterBlue,thick] (fall) -- (suffer);
+  \draw[->,ChapterBlue,thick] (suffer) -- (end);
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.5cm,font=\small\bfseries,align=center] (chr1) at (1.6,0) {歷代志上\\1 Chronicles};
-  \node[font=\tiny,color=LightGray] at (1.6,-1.2) {Adam-970 BC};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1.5cm,font=\small\bfseries,align=center] (chr2) at (4.4,0) {歷代志下\\2 Chronicles};
-  \node[font=\tiny,color=LightGray] at (4.4,-1.2) {970-586 BC};
-
-  % Arrows
-  \draw[->,ChapterBlue,thick] (sam1) -- (sam2);
-  \draw[->,ChapterBlue,thick] (sam2) -- (chr1);
-  \draw[->,ChapterBlue,thick] (chr1) -- (chr2);
-
-  % Perspective labels
-  \node[font=\tiny,color=CommentaryBrown] at (-2.6,1.2) {先知視角 Prophetic};
-  \node[font=\tiny,color=CommentaryBrown] at (3,1.2) {祭司視角 Priestly};
-
-  % Psalms connection below
-  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=8cm,minimum height=0.8cm,font=\small\bfseries] at (0,-2.5) {\harpsymbol\hspace{0.3cm}詩篇 Psalms\hspace{0.3cm}\harpsymbol};
-  \draw[->,ScriptureGold,thick] (-2.6,-0.8) -- (-2.6,-2);
-  \draw[->,ScriptureGold,thick] (0,-0.8) -- (0,-2);
-  \draw[->,ScriptureGold,thick] (3,-0.8) -- (3,-2);
-
+  \node[draw=ScriptureGold,fill=PsalmBg,rounded corners,minimum width=9.5cm,minimum height=0.8cm,font=\small\bfseries] at (0,-2.6) {\harpsymbol\hspace{0.3cm}詩篇 Psalms\hspace{0.3cm}\harpsymbol};
+  \draw[->,ScriptureGold,thick] (-3.6,-0.7) -- (-3.6,-2.1);
+  \draw[->,ScriptureGold,thick] (0,-0.7) -- (0,-2.1);
+  \draw[->,ScriptureGold,thick] (3.6,-0.7) -- (3.6,-2.1);
 \end{tikzpicture}
 
 \vspace{0.5cm}
 
-{\footnotesize\color{LightGray} 「聽命勝於獻祭，順從勝於公羊的脂油。」— 撒上 15:22}
+{\footnotesize\color{LightGray} 「你就是那人！」— 撒下 12:7}
 \end{center}
 \cleardoublepage
 
@@ -827,7 +694,7 @@ $endif$
 $if(copyright)$
 $copyright$
 $else$
-\textbf{撒母耳記與歷代志研讀 / Samuel \& Chronicles Study}\\[0.8em]
+\textbf{撒母耳記下研讀 / 2 Samuel Study}\\[0.8em]
 
 Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
@@ -839,7 +706,7 @@ English: English Standard Version (ESV)\\[0.8em]
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
-\textbullet\ Dale Ralph Davis - Samuel Commentary\\[0.8em]
+\textbullet\ Dale Ralph Davis - \textit{2 Samuel: Out of Every Adversity}\\[0.8em]
 
 本書為七年三書精讀項目成果之一。\\
 Part of the 7-Year Three Books Deep Reading Project.
@@ -873,7 +740,7 @@ $body$
 \addcontentsline{toc}{chapter}{附錄一：經文索引 (Appendix A: Scripture Index)}
 \markboth{}{}
 
-\noindent 本索引收錄本書研讀中反覆強調、且在新約經文本身有直接引用或清楚呼應關係的撒母耳記經文，依書卷順序排列。
+\noindent 本索引收錄本書研讀中反覆強調、且在新約經文本身有直接引用或清楚呼應關係的撒母耳記下經文，依章節順序排列。
 
 {\small
 \begin{longtable}{@{}p{2.6cm}p{4.6cm}p{6.8cm}@{}}
@@ -881,15 +748,6 @@ $body$
 \textbf{經文} & \textbf{主題} & \textbf{與新約的連結} \\
 \midrule
 \endhead
-撒上 2:10 & 哈拿之歌——「祂必賜力量給祂的王，高舉祂所膏之人的角」 & 敘事中「彌賽亞／受膏者」一詞首現；路1:69「在他僕人大衛家中，為我們興起了拯救的角」 \\
-撒上 2:26 & 「孩子撒母耳漸漸長大，耶和華與人越發喜愛他」 & 路2:52「耶穌的智慧和身量，並神和人喜愛他的心，都一齊增長」——幾乎逐字呼應 \\
-撒上 8:7 & 「他們不是厭棄你，乃是厭棄我作他們的王」 & 約19:15「除了凱撒，我們沒有王」；約18:36「我的國不屬這世界」 \\
-撒上 13:14 & 「耶和華已經尋找合他心意的人」 & 徒13:22 保羅在彼西底的安提阿引用此節論大衛，並隨即引到耶穌（徒13:23） \\
-撒上 15:22 & 「聽命勝於獻祭，順從勝於公羊的脂油」 & 太9:13/何6:6「我喜愛憐恤，不喜愛祭祀」，耶穌親自引用同一原則 \\
-撒上 16:7 & 「耶和華不像人看人，人是看外貌，耶和華是看內心」 & 太23:27-28 耶穌斥責法利賽人「粉飾的墳墓」；林前4:5「主來的時候要照出人心裡的隱情」 \\
-撒上 17章 & 大衛勝歌利亞——被藐視的少年人，靠耶和華的名爭戰 & 林前1:27「神揀選了世上愚拙的，叫有智慧的羞愧」 \\
-撒上 21:1-6 & 大衛在挪伯吃陳設餅 & 太12:3-4；可2:25-26；路6:3-4 耶穌親自引用此事件，為安息日爭議辯護 \\
-撒上 24章；26章 & 大衛兩次不殺掃羅，饒恕逼迫他的王 & 太5:44「愛你們的仇敵」；彼前2:23 基督「被罵不還口，受害不說威嚇的話」 \\
 撒下 1:14, 16 & 「你伸手殺害耶和華的受膏者，怎麼不畏懼呢」 & 徒4:27-28 論真正的受膏者被殺，成就神手和意旨所預定的事 \\
 撒下 7:12-16 & 大衛之約——「你的家和你的國必在你面前永遠堅立」 & 路1:32-33 天使對馬利亞宣告「主神要把他祖大衛的位給他……直到永遠」 \\
 撒下 7:14 & 「我要作他的父，他要作我的子」 & 來1:5 直接引用，論證子的地位超越天使 \\
@@ -925,14 +783,14 @@ $body$
 \begin{itemize}
 \item \textbf{Matthew Henry} — \textit{Concise/Complete Commentary on the Whole Bible}（公版，可於 biblehub.com、studylight.org 查證）。
 \item \textbf{Charles Spurgeon} — 大衛生平相關講章（公版，可於 spurgeongems.org、archive.org 查證）。
-\item \textbf{Dale Ralph Davis} — \textit{1 Samuel: Looking on the Heart}；\textit{2 Samuel: Out of Every Adversity}（Christian Focus, Focus on the Bible 系列）。
+\item \textbf{Dale Ralph Davis} — \textit{2 Samuel: Out of Every Adversity}（Christian Focus, Focus on the Bible 系列）。
 \end{itemize}
 
 \noindent \textit{說明：加爾文（John Calvin）未著撒母耳記註釋，本書僅在跨書真理／教義主題處，視需要引用他對其他經卷的相關論述。}
 
 \section*{經文核對來源 Scripture Verification Source}
 
-\noindent 本書中文（和合本修訂版 CUV）與英文（English Standard Version ESV）經文，均以 \href{https://www.ai-eden.com/bible}{ai-eden.com/bible} 為主要核對來源；該站為 JavaScript 動態渲染網站，若擷取失敗則以 cnbible.com、biblegateway.com 為備援來源交叉核對。每章附直接連結，格式為 \texttt{ai-eden.com/bible/\{book\}/\{N\}?t=CUV,ESV\&cols=2}。
+\noindent 本書中文（和合本修訂版 CUV）與英文（English Standard Version ESV）經文，均以 \href{https://www.ai-eden.com/bible}{ai-eden.com/bible} 為主要核對來源；該站為 JavaScript 動態渲染網站，若擷取失敗則以 cnbible.com、biblegateway.com 為備援來源交叉核對。每章附直接連結，格式為 \texttt{ai-eden.com/bible/2-samuel/\{N\}?t=CUV,ESV\&cols=2}。
 
 \pagebreak
 
@@ -962,9 +820,9 @@ $body$
 \begin{center}
 \vspace*{\fill}
 
-\crownsymbol\hspace{0.2cm}{\fontsize{15}{18}\selectfont\scshape\color{ChapterBlue} מָשִׁיחַ}\hspace{0.2cm}\crownsymbol\\[0.10cm]
-{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``The Anointed One'' \;\;
-\bfseries\color{RoyalRed} 受膏者}
+\crownsymbol\hspace{0.2cm}{\fontsize{15}{18}\selectfont\scshape\color{ChapterBlue} בְּרִית}\hspace{0.2cm}\crownsymbol\\[0.10cm]
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``The Covenant'' \;\;
+\bfseries\color{RoyalRed} 立約}
 
 \vspace{0.25cm}
 \textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
@@ -975,16 +833,16 @@ $body$
 \vspace{0.2cm}
 \noindent\begin{minipage}{4.7in}
 \footnotesize\color{TextGray}
-本書逐章研讀撒母耳記上下，整合黃長老查經教導、
+本書逐章研讀撒母耳記下二十四章，整合黃長老查經教導、
 John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
-並貫通摩西五經、詩篇與四福音書。
-全書以撒母耳記上 16:7 為總綱：
-「耶和華不像人看人，人是看外貌，耶和華是看內心。」\\[0.4em]
+並貫通詩篇與四福音書。
+全書以撒母耳記下 7:16 為總綱：
+「你的家和你的國必在你面前永遠堅立；你的國位也必堅定，直到永遠。」\\[0.4em]
 {\itshape
-A chapter-by-chapter study of 1-2 Samuel, integrating Elder Wong's
-teaching, John MacArthur's verse-by-verse exposition, and
-G. Campbell Morgan's spiritual analysis — framed by 1 Samuel 16:7:
-man looks on the outward appearance, but the LORD looks on the heart.}
+A chapter-by-chapter study of all 24 chapters of 2 Samuel, integrating
+Elder Wong's teaching, John MacArthur's verse-by-verse exposition, and
+G. Campbell Morgan's spiritual analysis — framed by 2 Samuel 7:16:
+your house and your kingdom shall be made sure forever before me.}
 \end{minipage}
 
 \vspace{0.35cm}
@@ -994,9 +852,9 @@ man looks on the outward appearance, but the LORD looks on the heart.}
 \centering\vspace{0.18cm}
 {\footnotesize\bfseries\color{ChapterBlue} 王國的弧線 \;\; The Arc of the Kingdom}\\[0.3em]
 {\footnotesize\color{TextGray}
-撒母耳：最後的士師 (1-7) \textbullet\ 掃羅：人選的王 (8-15)\\
-大衛：神揀選、受苦、得國的王 (16-31)\\
-興起 (撒下1-10) \textbullet\ 跌倒 (11-12) \textbullet\ 受苦 (13-20) \textbullet\ 大衛之約 (7)}
+興起 Rise (1-10) \textbullet\ 跌倒 Fall (11-12)\\
+受苦 Suffering (13-20) \textbullet\ 結語 Epilogue (21-24)\\
+一切都繞著第7章——大衛之約旋轉}
 \vspace{0.18cm}
 \end{minipage}}
 
