@@ -15,15 +15,27 @@
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{PingFang SC}
+\setmonofont{Songti SC}
 
 %% Greek and Hebrew font support - auto-switch for Unicode blocks
 \usepackage{ucharclasses}
 \newfontfamily\greekfont{Times New Roman}[Script=Greek]
 \newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\newfontfamily\cjkfallbackfont{Songti SC}
+
+%% Classical English typeface — auto-switch for Latin-script runs so
+%% bilingual scripture/quote blocks render in a period-appropriate serif
+%% instead of Songti SC's built-in Latin glyphs. Baskerville for running
+%% text; Didot reserved for large display lines (invoked explicitly).
+\newfontfamily\basklatin{Baskerville}
+\newfontfamily\didotfont{Didot}
+% Alias matching the naming convention used on the full-bleed cover pages
+\newcommand{\baskervillefont}{\basklatin}
 \setTransitionsFor{Greek}{\greekfont}{\normalfont}
 \setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
 \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+\setTransitionsFor{Han}{\cjkfallbackfont}{\normalfont}
+\setTransitionsFor{Latin}{\basklatin}{\normalfont}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -86,12 +98,13 @@
 \usepackage{graphicx}
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{pgfornament}
 
 %% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
 
-% Crown decoration
+% Crown decoration (used in body text, not on the full-bleed covers)
 \newcommand{\crownsymbol}{%
 \begin{tikzpicture}[scale=0.16]
   \draw[color=ScriptureGold,line width=1.5pt] (-1,-0.6) -- (-1,0.4) -- (-0.5,-0.1) -- (0,0.6) -- (0.5,-0.1) -- (1,0.4) -- (1,-0.6) -- cycle;
@@ -107,6 +120,71 @@
   \fill[color=ScriptureGold] (0,0.9) circle (0.15);
 \end{tikzpicture}%
 }
+
+% Classical printer's-ornament divider: thin rule — fleuron — thin rule
+\newcommand{\ornamentdivider}[1][2in]{%
+  {\color{ScriptureGold}\rule{#1}{0.4pt}}\hspace{0.15cm}%
+  \raisebox{-0.22cm}{\pgfornament[width=0.5cm,color=ScriptureGold]{88}}%
+  \hspace{0.15cm}{\color{ScriptureGold}\rule{#1}{0.4pt}}%
+}
+
+% A single small fleuron (no rules), used standalone on the full-bleed
+% cover pages and the dedication/colophon pages.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.55cm,color=#1]{88}%
+}
+
+% Classical double-rule (hairline) frame
+\newcommand{\classicalframe}[1]{%
+\begin{tikzpicture}
+  \node[fill=ScriptureBg,inner sep=14pt] (box) {#1};
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-3pt,-3pt)$$) rectangle ($$(box.north east)+(3pt,3pt)$$);
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-6pt,-6pt)$$) rectangle ($$(box.north east)+(6pt,6pt)$$);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+
+% Full-bleed dark background, painted in the shipout background hook so
+% it bleeds to the true physical page edge and does not disturb the
+% \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{\color{ChapterBlue}\rule{\paperwidth}{\paperheight}}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{212,178,90}
+\definecolor{CoverMuted}{RGB}{188,183,166}
 
 %% ============================================
 %% HYPERLINKS
@@ -176,8 +254,8 @@
     \fi
     \interlinepenalty\@M
     \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
-    \vskip 12pt
-    {\color{ScriptureGold}\rule{\linewidth}{1.5pt}}
+    \vskip 10pt
+    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
     \vskip 15pt
   }}
 \def\@makeschapterhead#1{%
@@ -187,7 +265,7 @@
     \interlinepenalty\@M
     \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
     \vskip 8pt
-    {\color{ScriptureGold}\rule{\linewidth}{1.5pt}}
+    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
     \vskip 15pt
   }}
 
@@ -268,44 +346,104 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
-% Title page
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
 \begin{titlepage}
 \thispagestyle{empty}
+\color{CoverCream}
 \begin{center}
-\vspace*{0.5cm}
+\vspace*{1.1cm}
 
-\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 得勝之冠}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} Crown of Victory --- The Revelation of Jesus Christ}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 啟示錄研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the Book of Revelation}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+「我是阿拉法，我是俄梅戛，」主神說，\\
+「是昔在、今在、以後永在的全能者。」\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} "I am the Alpha and the Omega," says the Lord God,\\
+"who is and who was and who is to come, the Almighty."\\
+--- Revelation 1:8}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 得勝的，我要賜他在我寶座上與我同坐}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} "The one who conquers, I will grant to sit with me on my throne" (Rev 3:21)}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 得勝之冠}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} Crown of Victory}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Overview diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 啟示錄結構}\\[0.1cm]
+{\normalsize Structure of Revelation}
 
 \vspace{0.4cm}
 
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 得勝之冠}\\[0.2cm]
-{\large\itshape\color{LightGray} Crown of Victory}
-
-\vspace{0.6cm}
-
-{\fontsize{22}{28}\selectfont\bfseries 啟示錄研讀}\\[0.15cm]
-{\normalsize Revelation Deep Study}
-
-\vspace{0.5cm}
-
-\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{4in}
-\centering
-\vspace{0.3cm}
-\small\itshape\color{CommentaryBrown}
-「我是阿拉法，我是俄梅戛，」主神說，\\
-「是昔在、今在、以後永在的全能者。」\\[0.15em]
-\footnotesize "I am the Alpha and the Omega," says the Lord God,\\
-"who is and who was and who is to come, the Almighty."\\
---- Revelation 1:8 (ESV)
-\vspace{0.3cm}
-\end{minipage}
-}
-
-\vspace{0.5cm}
-
 % Seven-series timeline
-\begin{tikzpicture}[scale=0.62, transform shape]
+\begin{tikzpicture}[scale=0.55, transform shape]
   \node[font=\footnotesize\bfseries,color=ChapterBlue] at (7,3) {七的結構 The Sevens};
   \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (0,0.3) {七教會 \\ Churches};
   \node[font=\tiny,color=TextGray,align=center,text width=2cm] at (2.5,0.3) {七印 \\ Seals};
@@ -331,60 +469,10 @@ $endif$
   \draw[ScriptureGold,line width=1.5pt] (0.32,1.2) -- (15,1.2);
 \end{tikzpicture}
 
-\vspace{0.5cm}
+\vspace{0.35cm}
 
-% Two camps comparison
-\begin{tikzpicture}[scale=0.85, transform shape]
-  \node[font=\small\bfseries,color=ChapterBlue] at (2.5,2.3) {宇宙爭戰 The Cosmic Conflict};
-  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=4cm,minimum height=1.6cm] at (0,0) {};
-  \node[font=\small\bfseries,color=NewCovenantGreen!80!black] at (0,0.35) {羔羊的新婦};
-  \node[font=\footnotesize,color=TextGray] at (0,-0.1) {The Bride of the Lamb};
-  \node[font=\tiny,color=LightGray] at (0,-0.55) {新耶路撒冷 · Rev 21};
-
-  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=4cm,minimum height=1.6cm] at (5,0) {};
-  \node[font=\small\bfseries,color=OldCovenantRed] at (5,0.35) {騎獸的淫婦};
-  \node[font=\footnotesize,color=TextGray] at (5,-0.1) {The Harlot on the Beast};
-  \node[font=\tiny,color=LightGray] at (5,-0.55) {大巴比倫 · Rev 17-18};
-\end{tikzpicture}
-
-\vfill
-
-{\normalsize\color{ScriptureGold}\bfseries 得勝的，我要賜他在我寶座上與我同坐}\\[0.1cm]
-{\footnotesize\color{LightGray} "The one who conquers, I will grant to sit with me on my throne" (Rev 3:21)}
-
-\vspace{0.5cm}
-
-$if(author)$
-{\normalsize $author$}\\[0.3cm]
-$endif$
-
-$if(publisher)$
-{\small $publisher$}\\[0.15cm]
-$endif$
-
-$if(date)$
-{\small $date$}
-$else$
-{\small \today}
-$endif$
-
-\vspace{0.3cm}
-\crownsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crownsymbol
-
-\end{center}
-\end{titlepage}
-
-% Overview diagram page
-\thispagestyle{empty}
-\begin{center}
-\vspace*{0.3cm}
-{\Large\bfseries\color{ChapterBlue} 啟示錄結構}\\[0.1cm]
-{\normalsize Structure of Revelation}
-
-\vspace{0.5cm}
-
-% Four-part structure (per revelation/CLAUDE.md)
-\begin{tikzpicture}[scale=0.85, transform shape]
+% Four-part structure
+\begin{tikzpicture}[scale=0.72, transform shape]
   \node[draw=ChapterBlue,fill=ChapterBlue!10,rounded corners,minimum width=3.4cm,minimum height=2cm] at (0,0) {};
   \node[font=\small\bfseries,color=ChapterBlue] at (0,0.5) {榮耀基督};
   \node[font=\footnotesize,color=TextGray] at (0,0) {\& 七教會};
@@ -410,7 +498,23 @@ $endif$
   \draw[->,thick,color=ScriptureGold] (10.3,0) -- (10.7,0);
 \end{tikzpicture}
 
-\vspace{0.6cm}
+\vspace{0.5cm}
+
+% Two camps comparison
+\begin{tikzpicture}[scale=0.75, transform shape]
+  \node[font=\small\bfseries,color=ChapterBlue] at (2.5,2) {宇宙爭戰 The Cosmic Conflict};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=4cm,minimum height=1.6cm] at (0,0) {};
+  \node[font=\small\bfseries,color=NewCovenantGreen!80!black] at (0,0.35) {羔羊的新婦};
+  \node[font=\footnotesize,color=TextGray] at (0,-0.1) {The Bride of the Lamb};
+  \node[font=\tiny,color=LightGray] at (0,-0.55) {新耶路撒冷 · Rev 21};
+
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=4cm,minimum height=1.6cm] at (5,0) {};
+  \node[font=\small\bfseries,color=OldCovenantRed] at (5,0.35) {騎獸的淫婦};
+  \node[font=\footnotesize,color=TextGray] at (5,-0.1) {The Harlot on the Beast};
+  \node[font=\tiny,color=LightGray] at (5,-0.55) {大巴比倫 · Rev 17-18};
+\end{tikzpicture}
+
+\vspace{0.5cm}
 
 {\large\bfseries\color{ChapterBlue} 四大主題 Four Themes}
 
@@ -432,10 +536,43 @@ $endif$
   \draw[ScriptureGold,line width=1.5pt] (0.3,0) -- (11.7,0);
 \end{tikzpicture}
 
-\vspace{0.6cm}
+\vspace{0.5cm}
 
 {\footnotesize\color{LightGray} 「證明這事的說：『是了，我必快來！』阿們！主耶穌啊，我願你來！」--- 啟示錄 22:20}
 \end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給那些在患難、國度、忍耐裡，\\
+與耶穌一同有分的人——\\
+你們儆醒等候的每一天，天上都記念。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+To those who share with Jesus\\
+in the tribulation, the kingdom,\\
+and the patient endurance ---\\
+every day of your watching is remembered in heaven.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 我約翰就是你們的弟兄，和你們在耶穌的患難、國度、忍耐裡一同有分。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} ``I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus.'' --- Revelation 1:9}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
 \cleardoublepage
 
 % Copyright page
@@ -486,39 +623,22 @@ $endif$
 $body$
 
 %% --------------------------------------------
-%% BACK COVER
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
 %% --------------------------------------------
 \backmatter
-\clearpage
-\pagestyle{empty}
 \thispagestyle{empty}
+\pagestyle{empty}
 \vspace*{\fill}
 \begin{center}
-{\Large\itshape\color{ChapterBlue} $if(backcover-symbol)$$backcover-symbol$$else$Marana tha$endif$}\\[0.1cm]
-{\small\itshape\color{LightGray} "Our Lord, come!" · 主必快來——全書貫穿的盼望}
-
-\vspace{0.8cm}
-
-\lambsymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\lambsymbol
-
-\vspace{0.8cm}
-
-{\large\bfseries\color{ChapterBlue} 關於本書}\qquad{\large\bfseries\color{ChapterBlue} About This Book}
-
-\vspace{0.5cm}
-
-\begin{minipage}{5in}
-\small\color{TextGray}
-$if(backcover)$
-$backcover$
-$else$
-本書逐段研讀啟示錄全書二十二章，以渐进启示的終點為視角，整合黃長老查經教導法、John MacArthur 逐節解經講道（gty.org）、以及 G.K. Beale、Robert Mounce、Grant Osborne 等當代學者的解經洞見。全書貫穿透視人性、出路何在、神的計劃、宇宙爭戰四大主題，從榮耀基督的異象、七教會的呼召，經過印、號、碗的審判，直到巴比倫傾覆、基督再來、千年國度，終於新天新地與新耶路撒冷——見證神永恆計劃的完成，以及信、望、愛在羔羊婚筵中的終極實現。
-
-A chapter-by-chapter study of all twenty-two chapters of Revelation, read as the culmination of progressive revelation, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and the exegetical insight of contemporary scholars G.K. Beale, Robert Mounce, and Grant Osborne. The study traces four themes threading through the whole book --- human nature exposed, the way of escape, God's plan fulfilled, and the cosmic conflict --- from the glorified Christ and the call to the seven churches, through the judgments of the seals, trumpets, and bowls, to the fall of Babylon, the return of Christ, and the millennial kingdom, arriving finally at the new heaven, the new earth, and the New Jerusalem --- witnessing the completion of God's eternal plan and the final consummation of faith, hope, and love at the marriage supper of the Lamb.
-$endif$
-\end{minipage}
+\fleuron
 
 \vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你儆醒等候了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Are you watching and waiting?}
+
+\vspace{1.4cm}
 
 {\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
 {\footnotesize\color{LightGray} 三書精讀出版系統}
@@ -528,5 +648,78 @@ $endif$
 {\footnotesize\color{LightGray} Soli Deo Gloria --- 唯獨榮耀神}
 \end{center}
 \vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$ὁ νικῶν$endif$}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "The One Who Conquers"} · 得勝的——全書貫穿的呼召}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.4cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書逐段研讀啟示錄全書二十二章，以渐进启示的終點為視角，整合黃長老查經教導法、John MacArthur 逐節解經講道（gty.org）、以及 G.K. Beale、Robert Mounce、Grant Osborne 等當代學者的解經洞見。全書貫穿透視人性、出路何在、神的計劃、宇宙爭戰四大主題，從榮耀基督的異象、七教會的呼召，經過印、號、碗的審判，直到巴比倫傾覆、基督再來、千年國度，終於新天新地與新耶路撒冷。
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ chapter-by-chapter study of all twenty-two chapters of Revelation, read as the culmination of progressive revelation, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and the exegetical insight of G.K. Beale, Robert Mounce, and Grant Osborne --- witnessing the completion of God's eternal plan and the final consummation of faith, hope, and love at the marriage supper of the Lamb.}
+$endif$
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\small\bfseries\color{CoverCream} 得勝者的七個應許}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Seven Promises to the One Who Conquers}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cp{3.4in}l@{}}
+以弗所 & 吃生命樹的果子 \textit{\baskervillefont\color{CoverCream} Eat of the tree of life} & {\tiny\color{CoverMuted} 2:7}\\[0.25em]
+士每拿 & 不受第二次死的害 \textit{\baskervillefont\color{CoverCream} Not be hurt by the second death} & {\tiny\color{CoverMuted} 2:11}\\[0.25em]
+別迦摩 & 賜隱藏的嗎哪和白石 \textit{\baskervillefont\color{CoverCream} Hidden manna and a white stone} & {\tiny\color{CoverMuted} 2:17}\\[0.25em]
+推雅推喇 & 得權柄制伏列國 \textit{\baskervillefont\color{CoverCream} Authority over the nations} & {\tiny\color{CoverMuted} 2:26-28}\\[0.25em]
+撒狄 & 穿白衣，名字在生命冊上 \textit{\baskervillefont\color{CoverCream} Clothed in white, name in the book of life} & {\tiny\color{CoverMuted} 3:5}\\[0.25em]
+非拉鐵非 & 作殿中的柱子 \textit{\baskervillefont\color{CoverCream} A pillar in the temple of God} & {\tiny\color{CoverMuted} 3:12}\\[0.25em]
+老底嘉 & 與主同坐寶座 \textit{\baskervillefont\color{CoverCream} Sit with Christ on his throne} & {\tiny\color{CoverMuted} 3:21}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\itshape\color{CoverCream} 證明這事的說：是了，我必快來！}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "Surely I am coming soon." --- Revelation 22:20}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.35cm}
+
+{\footnotesize\color{CoverMuted} \S\ Revelation Edition v1.0 \S\ 2026 \S}
+\end{center}
 
 \end{document}
