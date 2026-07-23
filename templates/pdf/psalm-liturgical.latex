@@ -1,0 +1,670 @@
+% ============================================================================
+% Psalter Liturgical Template 2026 - Premium Edition
+% Large Print (8.5×11" Letter) for Lectern/Ceremonial Use
+% Full CJK Bilingual + Red Letter (Messianic verses) + Five-Book Diagrams
+% Adapted from gospel-harmony-liturgical.latex for the Whole Psalter (Pss 1-150)
+% Requires XeLaTeX for CJK support
+% ============================================================================
+
+\documentclass[12pt,twoside,openright]{memoir}
+
+%% ============================================
+%% PAGE SIZE - 8.5×11" Letter (Lectern Use)
+%% ============================================
+\setstocksize{11in}{8.5in}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+
+\setlrmarginsandblock{1.25in}{1in}{*}
+\setulmarginsandblock{1in}{1.25in}{*}
+\setheadfoot{0.5in}{0.5in}
+\setheaderspaces{*}{0.3in}{*}
+\checkandfixthelayout
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC,
+  Ligatures=TeX
+]
+\setsansfont[Ligatures=TeX]{PingFang SC}
+\setmonofont{PingFang SC}
+
+\newfontfamily\kaiti{Kaiti SC}
+\newfontfamily\fangsong{STFangsong}
+\newfontfamily\heiti{Heiti SC}
+
+\newcommand{\textkai}[1]{{\kaiti #1}}
+\newcommand{\textfs}[1]{{\fangsong #1}}
+\newcommand{\texthei}[1]{{\heiti #1}}
+
+%% Greek and Hebrew font support
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% LINE SPACING - Large Print for Readability
+%% ============================================
+\linespread{1.35}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.5em}
+
+%% ============================================
+%% COLOR SCHEME - Psalter Liturgical Edition
+%% ============================================
+\usepackage{xcolor}
+
+\definecolor{LiturgicalRed}{RGB}{165,30,30}       % Deep ceremonial red
+\definecolor{LiturgicalGold}{RGB}{184,134,11}     % Gold for ornaments
+\definecolor{LiturgicalBlue}{RGB}{40,60,100}      % Deep blue for headings
+\definecolor{RubricRed}{RGB}{180,40,40}
+
+% RED LETTER — Messianic / Christ-fulfilled verses
+\definecolor{JesusRed}{RGB}{180,0,0}
+
+% Five books of the Psalter
+\definecolor{BookOneOlive}{RGB}{120,120,80}
+\definecolor{BookTwoGold}{RGB}{176,138,58}
+\definecolor{BookThreeRust}{RGB}{158,84,66}
+\definecolor{BookFourSage}{RGB}{100,130,110}
+\definecolor{BookFiveAmber}{RGB}{196,120,70}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}
+\definecolor{NoteBg}{RGB}{255,253,245}
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc}
+
+%% ============================================
+%% RED LETTER COMMAND (Messianic verses)
+%% ============================================
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
+
+%% Large verse numbers for lectern reading
+\newcommand{\vs}[1]{%
+  \textsuperscript{\Large\bfseries\color{LiturgicalRed}#1}\,%
+}
+
+%% ============================================
+%% LITURGICAL COMMANDS
+%% ============================================
+\newcommand{\rubric}[1]{%
+  \vspace{0.5em}
+  \noindent{\color{RubricRed}\textit{#1}}
+  \vspace{0.5em}
+}
+
+\newcommand{\antiphonzh}[2]{%
+  \begin{center}
+    {\large\color{LiturgicalGold}\ensuremath{\dagger}}\\[0.3em]
+    {\itshape #1}\\[0.15em]
+    {\small\itshape #2}\\[0.3em]
+    {\large\color{LiturgicalGold}\ensuremath{\dagger}}
+  \end{center}
+}
+
+\newcommand{\liturgicaldiv}{%
+  \begin{center}
+    \vspace{0.5em}
+    {\Large\color{LiturgicalGold}\ensuremath{\dagger}\quad\ensuremath{\dagger}\quad\ensuremath{\dagger}}
+    \vspace{0.5em}
+  \end{center}
+}
+
+\newcommand{\ornamentdiv}{%
+  \begin{center}
+    \vspace{0.3em}
+    \begin{tikzpicture}
+      \draw[LiturgicalGold, line width=1pt] (-2,0) -- (-0.5,0);
+      \node[color=LiturgicalGold] at (0,0) {\ensuremath{\diamond}};
+      \draw[LiturgicalGold, line width=1pt] (0.5,0) -- (2,0);
+    \end{tikzpicture}
+    \vspace{0.3em}
+  \end{center}
+}
+
+% Lyre — the psalter's instrument (cover-scale)
+\newcommand{\coverlyre}{%
+\begin{tikzpicture}[scale=0.78, transform shape]
+  % Halo — soft glow rings
+  \draw[LiturgicalGold, line width=0.3pt, opacity=0.10] (0,1.05) circle (2.30);
+  \draw[LiturgicalGold, line width=0.3pt, opacity=0.15] (0,1.05) circle (2.10);
+  \draw[LiturgicalGold, line width=0.4pt, opacity=0.22] (0,1.05) circle (1.85);
+  \draw[LiturgicalGold, line width=0.5pt, opacity=0.32] (0,1.05) circle (1.55);
+  % Radiating rays
+  \foreach \ang in {0,10,20,...,350} {
+    \draw[LiturgicalGold, line width=0.35pt, opacity=0.42]
+      ({1.05*cos(\ang)}, {1.05+1.05*sin(\ang)}) -- ({1.55*cos(\ang)}, {1.05+1.55*sin(\ang)});
+  }
+  \foreach \ang in {0,90,180,270} {
+    \draw[LiturgicalGold, line width=0.55pt, opacity=0.55]
+      ({1.05*cos(\ang)}, {1.05+1.05*sin(\ang)}) -- ({1.80*cos(\ang)}, {1.05+1.80*sin(\ang)});
+  }
+  \draw[LiturgicalGold, line width=1.0pt] (0,1.05) circle (1.05);
+  \draw[LiturgicalGold, line width=0.4pt, opacity=0.45] (0,1.05) circle (0.95);
+
+  % Lyre body (shadow then gold+red)
+  \draw[LiturgicalBlue, line width=2.6pt, opacity=0.18]
+    (-0.62,0.32) .. controls (-0.88,1.22) .. (-0.40,1.78);
+  \draw[LiturgicalBlue, line width=2.6pt, opacity=0.18]
+    (0.66,0.32) .. controls (0.92,1.22) .. (0.44,1.78);
+  \draw[LiturgicalRed, line width=2.4pt]
+    (-0.64,0.30) .. controls (-0.90,1.20) .. (-0.42,1.76);
+  \draw[LiturgicalRed, line width=2.4pt]
+    (0.64,0.30) .. controls (0.90,1.20) .. (0.42,1.76);
+  % Sound-bowl
+  \draw[LiturgicalRed, line width=2.4pt]
+    (-0.64,0.30) .. controls (0,-0.18) .. (0.64,0.30);
+  \fill[LiturgicalGold] (0,0.02) circle (0.09);
+  % Crossbar
+  \draw[LiturgicalGold, line width=2.0pt] (-0.52,1.72) -- (0.52,1.72);
+  % Strings
+  \draw[LiturgicalGold, line width=0.6pt] (-0.30,0.20) -- (-0.30,1.70);
+  \draw[LiturgicalGold, line width=0.6pt] (-0.10,0.14) -- (-0.10,1.70);
+  \draw[LiturgicalGold, line width=0.6pt] (0.10,0.14) -- (0.10,1.70);
+  \draw[LiturgicalGold, line width=0.6pt] (0.30,0.20) -- (0.30,1.70);
+  % Finials
+  \fill[LiturgicalGold] (-0.42,1.76) circle (0.10);
+  \fill[LiturgicalGold] (0.42,1.76) circle (0.10);
+  \fill[LiturgicalGold] (-0.52,1.86) circle (0.05);
+  \fill[LiturgicalGold] (0.52,1.86) circle (0.05);
+\end{tikzpicture}%
+}
+
+% Five-book structure bar (used on cover & structure page)
+\newcommand{\fivebookbar}{%
+\begin{tikzpicture}[scale=0.80, transform shape]
+  \node[draw=BookOneOlive,fill=BookOneOlive!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (0,0) {};
+  \node[font=\small\bfseries,color=BookOneOlive!70!black] at (0,0.62) {卷一 I};
+  \node[font=\scriptsize,color=TextGray] at (0,0.2) {詩 1--41};
+  \node[font=\scriptsize,color=LiturgicalRed!80!black] at (0,-0.22) {創世記};
+  \node[font=\scriptsize,color=LightGray] at (0,-0.62) {有福的人};
+
+  \node[draw=BookTwoGold,fill=BookTwoGold!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (3.0,0) {};
+  \node[font=\small\bfseries,color=BookTwoGold!70!black] at (3.0,0.62) {卷二 II};
+  \node[font=\scriptsize,color=TextGray] at (3.0,0.2) {詩 42--72};
+  \node[font=\scriptsize,color=LiturgicalRed!80!black] at (3.0,-0.22) {出埃及記};
+  \node[font=\scriptsize,color=LightGray] at (3.0,-0.62) {拯救、王};
+
+  \node[draw=BookThreeRust,fill=BookThreeRust!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (6.0,0) {};
+  \node[font=\small\bfseries,color=BookThreeRust!70!black] at (6.0,0.62) {卷三 III};
+  \node[font=\scriptsize,color=TextGray] at (6.0,0.2) {詩 73--89};
+  \node[font=\scriptsize,color=LiturgicalRed!80!black] at (6.0,-0.22) {利未記};
+  \node[font=\scriptsize,color=LightGray] at (6.0,-0.62) {聖所、約};
+
+  \node[draw=BookFourSage,fill=BookFourSage!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (9.0,0) {};
+  \node[font=\small\bfseries,color=BookFourSage!70!black] at (9.0,0.62) {卷四 IV};
+  \node[font=\scriptsize,color=TextGray] at (9.0,0.2) {詩 90--106};
+  \node[font=\scriptsize,color=LiturgicalRed!80!black] at (9.0,-0.22) {民數記};
+  \node[font=\scriptsize,color=LightGray] at (9.0,-0.62) {耶和華作王};
+
+  \node[draw=BookFiveAmber,fill=BookFiveAmber!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (12.0,0) {};
+  \node[font=\small\bfseries,color=BookFiveAmber!70!black] at (12.0,0.62) {卷五 V};
+  \node[font=\scriptsize,color=TextGray] at (12.0,0.2) {詩 107--150};
+  \node[font=\scriptsize,color=LiturgicalRed!80!black] at (12.0,-0.22) {申命記};
+  \node[font=\scriptsize,color=LightGray] at (12.0,-0.62) {話語、頌讚};
+
+  \draw[->,thick,color=LiturgicalGold] (1.38,0) -- (1.62,0);
+  \draw[->,thick,color=LiturgicalGold] (4.38,0) -- (4.62,0);
+  \draw[->,thick,color=LiturgicalGold] (7.38,0) -- (7.62,0);
+  \draw[->,thick,color=LiturgicalGold] (10.38,0) -- (10.62,0);
+\end{tikzpicture}%
+}
+
+% Christological trajectory line
+\newcommand{\christtrajectory}{%
+\begin{tikzpicture}[scale=0.72, transform shape]
+  \draw[LiturgicalGold,line width=1.5pt] (0.3,0) -- (15.2,0);
+  \fill[LiturgicalRed] (0.7,0) circle (0.30);
+  \node[font=\tiny\bfseries,color=white] at (0.7,0) {1};
+  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (0.7,-0.95) {有福的人\\詩 1--2};
+  \fill[LiturgicalRed] (4.2,0) circle (0.30);
+  \node[font=\tiny\bfseries,color=white] at (4.2,0) {22};
+  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (4.2,-0.95) {受苦的牧人\\詩 22--24};
+  \fill[LiturgicalRed] (7.7,0) circle (0.30);
+  \node[font=\tiny\bfseries,color=white] at (7.7,0) {89};
+  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (7.7,-0.95) {約的危機\\詩 89};
+  \fill[LiturgicalRed] (11.2,0) circle (0.30);
+  \node[font=\tiny\bfseries,color=white] at (11.2,0) {110};
+  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (11.2,-0.95) {君王祭司\\詩 110};
+  \fill[LiturgicalRed] (14.7,0) circle (0.30);
+  \node[font=\tiny\bfseries,color=white] at (14.7,0) {150};
+  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (14.7,-0.95) {凡有氣息的\\詩 146--150};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.3}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=LiturgicalBlue,
+  urlcolor=LiturgicalGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% MEMOIR CHAPTER STYLE - LITURGICAL
+%% ============================================
+\makechapterstyle{liturgical}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapnamefont}{\normalfont\Large\scshape\color{LiturgicalBlue}}
+  \renewcommand*{\chapnumfont}{\normalfont\fontsize{48}{52}\selectfont\bfseries\color{LiturgicalRed}}
+  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\bfseries\color{LiturgicalBlue}}
+  \renewcommand*{\printchaptername}{\centering\chapnamefont Chapter}
+  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \centering\chaptitlefont ##1\par
+    \vskip 10pt
+    {\color{LiturgicalGold}\rule{4in}{2pt}}
+  }
+  \setlength{\beforechapskip}{30pt}
+  \setlength{\afterchapskip}{35pt}
+}
+\chapterstyle{liturgical}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\setsecheadstyle{\normalfont\Large\bfseries\color{LiturgicalBlue}}
+\setsubsecheadstyle{\normalfont\large\bfseries\color{TextGray}}
+\setsubsubsecheadstyle{\normalfont\normalsize\bfseries\color{LiturgicalRed}}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\makepagestyle{liturgical}
+\makeevenhead{liturgical}{\Large\thepage}{}{\large\scshape\color{LightGray}\leftmark}
+\makeoddhead{liturgical}{\large\scshape\color{LightGray}\rightmark}{}{\Large\thepage}
+\makeheadrule{liturgical}{\textwidth}{1pt}
+\makeevenfoot{liturgical}{}{}{}
+\makeoddfoot{liturgical}{}{}{}
+\pagestyle{liturgical}
+
+\makepagestyle{plain}
+\makeevenfoot{plain}{}{\Large\thepage}{}
+\makeoddfoot{plain}{}{\Large\thepage}{}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.5\baselineskip}%
+  \list{}{%
+    \leftmargin=0.8em
+    \rightmargin=0.4em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \large\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.5\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% ============================================
+% HOLY COVER PAGE — Psalter Edition
+% Full-bleed parchment, gold double border,
+% corner rosettes, central lyre with halo.
+% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[LiturgicalGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[LiturgicalGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[LiturgicalBlue, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[LiturgicalGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[LiturgicalRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[LiturgicalGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.38in}
+
+{\footnotesize\scshape\color{LiturgicalBlue}
+Three Books Deep Reading \textbullet\ Liturgical Edition}\\[0.08cm]
+{\footnotesize\color{TextGray}
+三書精讀 \textbullet\ 禮儀誦讀版}
+
+\vspace{0.18cm}
+
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[LiturgicalGold] (-0.35,0) circle (0.04);
+  \fill[LiturgicalGold] (0,0) circle (0.06);
+  \fill[LiturgicalGold] (0.35,0) circle (0.04);
+  \draw[LiturgicalGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+
+\vspace{0.20cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray}
+The Whole Psalter with Elder Huang \textperiodcentered{} Psalms 1--150}
+
+\vspace{0.25cm}
+
+% ===== CENTRAL LYRE WITH HALO =====
+\coverlyre
+
+\vspace{0.30cm}
+
+\textcolor{LiturgicalGold}{\rule{2.8in}{0.8pt}}
+
+\vspace{0.25cm}
+
+% Main title — Chinese in calligraphy (Kaiti)
+{\fontsize{36}{42}\selectfont\bfseries\color{LiturgicalRed}\kaiti\selectfont
+詩篇全卷}\\[0.08cm]
+{\fontsize{22}{26}\selectfont\bfseries\color{LiturgicalBlue}\kaiti\selectfont
+逐篇領受}
+
+\vspace{0.18cm}
+
+{\fontsize{18}{22}\selectfont\scshape\color{LiturgicalBlue}
+The Whole Psalter}
+
+\vspace{0.20cm}
+
+\textcolor{LiturgicalGold}{\rule{1.6in}{0.4pt}}
+
+\vspace{0.20cm}
+
+% Hebrew motto — the Psalter's name
+{\fontsize{16}{20}\selectfont\color{TextGray}
+תְּהִלִּים}\\[0.05em]
+{\footnotesize\itshape\color{TextGray}
+Tehillim \textperiodcentered{} 讚美之歌 \;\textendash\ the Hebrew name of the Psalter}
+
+\vfill
+
+% Bottom — framework verse (red letter: fulfilled by Christ, Matt 13:35)
+\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{4.3in}
+\centering
+\vspace{0.12cm}
+{\footnotesize\color{JesusRed}\kaiti\selectfont
+「我要開口說比喻；我要說出古時的謎語。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``I will open my mouth in a parable; I will utter dark sayings from of old.''}\\[0.10em]
+{\scriptsize\color{LiturgicalBlue} 詩 78:2} \;
+{\scriptsize\color{LiturgicalBlue}\itshape fulfilled in Matthew 13:35}
+\vspace{0.12cm}
+\end{minipage}
+}
+
+\vspace{0.25cm}
+
+{\footnotesize\color{LiturgicalRed}\bfseries 主角永遠是耶穌——從祂的角度讀，光就照進來}\\[0.03cm]
+{\tiny\itshape\color{LightGray} The protagonist is always Jesus. Read from His angle, and light breaks in.}
+
+\vspace{0.30in}
+\end{center}
+\clearpage
+
+% ============================================
+% STRUCTURE PAGE — Five Books + Trajectory
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+{\LARGE\bfseries\color{LiturgicalRed} 一本書、五卷}\\[0.1cm]
+{\large\scshape\color{LiturgicalBlue} One Book, Five Scrolls}\\[0.05cm]
+{\small\itshape\color{LightGray} 對應摩西五經，每卷以頌讚收尾 \textperiodcentered\ Mirroring the Pentateuch, each closing with a doxology}
+
+\vspace{0.8cm}
+
+\fivebookbar
+
+\vspace{1.0cm}
+
+{\large\bfseries\color{LiturgicalBlue} 基督的軌跡 \textperiodcentered\ The Christological Trajectory}
+
+\vspace{0.5cm}
+
+\christtrajectory
+
+\vspace{1.2cm}
+
+\ornamentdiv
+
+\vspace{0.4cm}
+
+\fcolorbox{LiturgicalGold}{NoteBg}{%
+\begin{minipage}{5.2in}
+\centering
+\vspace{0.2cm}
+{\small\color{TextGray}
+「五卷的分法，最後落在哪裡？落在第五卷尾——146到150，連續五個哈利路亞。}\\[0.05em]
+{\small\color{TextGray}
+整本詩篇的結局，是『凡有氣息的，都要讚美耶和華』。整部聖經的結局，也是同一句。」}\\[0.3em]
+{\scriptsize\itshape\color{LightGray}
+The Psalter ends: ``Let everything that has breath praise the LORD.''\\
+The whole Bible ends with the same line.}
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vspace{0.5cm}
+
+\liturgicaldiv
+
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{詩篇全卷逐篇領受 / The Whole Psalter}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{經文核對 / Scripture Verification}\\
+以 ai-eden.com/bible 為標準來源；逐字核對經 cnbible.com 進行，\\
+並經 ai-eden.com 抽樣覆核一致（標點從 CUV 現代標點版）。\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.\\[0.8em]
+
+Soli Deo Gloria — 唯獨榮耀神
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{liturgical}
+{\color{LiturgicalBlue}\tableofcontents*}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK COVER
+%% --------------------------------------------
+\backmatter
+\clearpage
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[LiturgicalGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[LiturgicalGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+\end{tikzpicture}
+
+\vspace*{0.45in}
+\begin{center}
+{\fontsize{20}{26}\selectfont\color{LiturgicalBlue}
+תְּהִלִּים}\\[0.15cm]
+{\small\itshape\color{LightGray} Tehillim \textperiodcentered\ 讚美之歌}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=0.8pt] (-2.2,0) -- (-0.5,0);
+  \node[color=LiturgicalGold] at (0,0) {\ensuremath{\dagger}};
+  \draw[LiturgicalGold, line width=0.8pt] (0.5,0) -- (2.2,0);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+{\large\bfseries\color{LiturgicalRed} 關於本書}\qquad{\large\bfseries\color{LiturgicalBlue} About This Book}
+
+\vspace{0.5cm}
+
+\begin{minipage}{5.4in}
+\small\color{TextGray}
+$if(backcover)$
+$backcover$
+$else$
+本書以黃長老的查經方法走遍詩篇一百五十篇——依詩篇本身的五卷結構（對應摩西五經），每卷先作整卷深讀，再逐篇給出一把鑰匙：精義一句話，加上「看見耶穌」的角度。因為詩篇的主角永遠是耶穌：詩一那棵栽在溪水旁的樹、詩二受膏的王子、詩二十二被離棄的哀號者、詩二十三的好牧人、詩一百一十右邊的主與麥基洗德等次的祭司、詩一百一十八被匠人棄掉的房角石。整卷詩篇的終局，是「凡有氣息的，都要讚美耶和華」——與整本聖經的終局，同一個方向。
+
+A psalm-by-psalm reception of the whole Psalter in Elder Huang's method: each of the five books read as a whole, then every psalm given one key — its distilled essence, and the angle from which to see Jesus Christ. For the protagonist of all 150 psalms is always Jesus: the tree planted by streams (Ps 1), the anointed Son (Ps 2), the forsaken sufferer (Ps 22), the good shepherd (Ps 23), the priest-king (Ps 110), the rejected cornerstone (Ps 118). The Psalter ends where the whole Bible ends: ``Let everything that has breath praise the LORD.''
+$endif$
+\end{minipage}
+
+\vspace{0.6cm}
+
+\liturgicaldiv
+
+\vspace{0.2cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing \textperiodcentered\ 三書精讀出版系統}\\[0.15cm]
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+
+\end{document}

@@ -1,0 +1,478 @@
+% PubHub Psalms Template
+% The Whole Psalter — Five Books mirroring the Pentateuch
+% Warm parchment/brown "Psalter" theme (matches Psalm-elder-huang.pdf aesthetic)
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{PingFang SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Psalter Theme (Parchment Brown/Gold)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - warm psalter theme
+\definecolor{ChapterBrown}{RGB}{92,58,30}        % Deep warm brown for chapters
+\definecolor{ScriptureGold}{RGB}{170,132,56}     % Antique gold for scripture refs
+\definecolor{CommentarySepia}{RGB}{112,74,42}    % Sepia for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{250,246,236}      % Parchment cream for scripture boxes
+\definecolor{PraiseBg}{RGB}{246,242,230}         % Warm cream
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Diagram colors — five books of the Psalter
+\definecolor{BookOneOlive}{RGB}{130,130,90}      % Book I  — wisdom olive
+\definecolor{BookTwoGold}{RGB}{176,138,58}       % Book II — royal gold
+\definecolor{BookThreeRust}{RGB}{158,84,66}      % Book III — sanctuary rust
+\definecolor{BookFourSage}{RGB}{110,140,120}     % Book IV — wilderness sage
+\definecolor{BookFiveAmber}{RGB}{196,120,70}     % Book V  — praise amber
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Lyre (harp) decoration — the psalter's instrument
+\newcommand{\lyresymbol}{%
+\begin{tikzpicture}[scale=0.18]
+  \draw[color=ScriptureGold,line width=1.2pt] (-0.8,0) .. controls (-1.1,1.2) .. (-0.5,1.8);
+  \draw[color=ScriptureGold,line width=1.2pt] (0.8,0) .. controls (1.1,1.2) .. (0.5,1.8);
+  \draw[color=ScriptureGold,line width=1.2pt] (-0.8,0) .. controls (0,-0.5) .. (0.8,0);
+  \draw[color=ScriptureGold,line width=0.6pt] (-0.35,0.05) -- (-0.35,1.45);
+  \draw[color=ScriptureGold,line width=0.6pt] (0,0.0) -- (0,1.5);
+  \draw[color=ScriptureGold,line width=0.6pt] (0.35,0.05) -- (0.35,1.45);
+  \draw[color=ScriptureGold,line width=1pt] (-0.6,1.5) -- (0.6,1.5);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBrown,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBrown} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBrown} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBrown} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBrown}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentarySepia}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+\lyresymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\lyresymbol
+
+\vspace{0.4cm}
+
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBrown} 詩篇全卷}\\[0.2cm]
+{\large\itshape\color{LightGray} The Whole Psalter}
+
+\vspace{0.6cm}
+
+{\fontsize{22}{28}\selectfont\bfseries 詩篇研讀}\\[0.15cm]
+{\normalsize A Deep Study of the Book of Psalms}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.2in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentarySepia}
+我要開口說比喻；我要說出古時的謎語。\\[0.15em]
+\footnotesize "I will open my mouth in a parable;\\
+I will utter dark sayings from of old."\\
+— 詩篇 Psalm 78:2（太 Matt 13:35 親自應驗）
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.6cm}
+
+% Five-book structure diagram — the Psalter mirroring the Pentateuch
+{\normalsize\bfseries\color{ChapterBrown} 一本書、五卷——對應摩西五經}\\[0.05cm]
+{\footnotesize\color{LightGray} One Book, Five Scrolls — Mirroring the Pentateuch}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.82, transform shape]
+  \node[draw=BookOneOlive,fill=BookOneOlive!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (0,0) {};
+  \node[font=\small\bfseries,color=BookOneOlive!70!black] at (0,0.55) {卷一 I};
+  \node[font=\tiny,color=TextGray] at (0,0.15) {詩 1--41};
+  \node[font=\tiny,color=CommentarySepia] at (0,-0.25) {創世記};
+  \node[font=\tiny,color=LightGray] at (0,-0.6) {有福的人};
+
+  \node[draw=BookTwoGold,fill=BookTwoGold!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (2.9,0) {};
+  \node[font=\small\bfseries,color=BookTwoGold!70!black] at (2.9,0.55) {卷二 II};
+  \node[font=\tiny,color=TextGray] at (2.9,0.15) {詩 42--72};
+  \node[font=\tiny,color=CommentarySepia] at (2.9,-0.25) {出埃及記};
+  \node[font=\tiny,color=LightGray] at (2.9,-0.6) {拯救、王};
+
+  \node[draw=BookThreeRust,fill=BookThreeRust!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (5.8,0) {};
+  \node[font=\small\bfseries,color=BookThreeRust!70!black] at (5.8,0.55) {卷三 III};
+  \node[font=\tiny,color=TextGray] at (5.8,0.15) {詩 73--89};
+  \node[font=\tiny,color=CommentarySepia] at (5.8,-0.25) {利未記};
+  \node[font=\tiny,color=LightGray] at (5.8,-0.6) {聖所、約};
+
+  \node[draw=BookFourSage,fill=BookFourSage!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (8.7,0) {};
+  \node[font=\small\bfseries,color=BookFourSage!70!black] at (8.7,0.55) {卷四 IV};
+  \node[font=\tiny,color=TextGray] at (8.7,0.15) {詩 90--106};
+  \node[font=\tiny,color=CommentarySepia] at (8.7,-0.25) {民數記};
+  \node[font=\tiny,color=LightGray] at (8.7,-0.6) {耶和華作王};
+
+  \node[draw=BookFiveAmber,fill=BookFiveAmber!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (11.6,0) {};
+  \node[font=\small\bfseries,color=BookFiveAmber!70!black] at (11.6,0.55) {卷五 V};
+  \node[font=\tiny,color=TextGray] at (11.6,0.15) {詩 107--150};
+  \node[font=\tiny,color=CommentarySepia] at (11.6,-0.25) {申命記};
+  \node[font=\tiny,color=LightGray] at (11.6,-0.6) {話語、頌讚};
+
+  \draw[->,thick,color=ScriptureGold] (1.32,0) -- (1.58,0);
+  \draw[->,thick,color=ScriptureGold] (4.22,0) -- (4.48,0);
+  \draw[->,thick,color=ScriptureGold] (7.12,0) -- (7.38,0);
+  \draw[->,thick,color=ScriptureGold] (10.02,0) -- (10.28,0);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Trajectory line — from the Blessed Man to Final Hallel
+\begin{tikzpicture}[scale=0.75, transform shape]
+  \draw[ScriptureGold,line width=1.5pt] (0.3,0) -- (14.7,0);
+  \fill[ScriptureGold] (0.6,0) circle (0.28);
+  \node[font=\tiny\bfseries,color=white] at (0.6,0) {1};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (0.6,-0.8) {有福的人\\詩1--2};
+  \fill[ScriptureGold] (4.1,0) circle (0.28);
+  \node[font=\tiny\bfseries,color=white] at (4.1,0) {22};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (4.1,-0.8) {受苦的牧人\\詩22--24};
+  \fill[ScriptureGold] (7.6,0) circle (0.28);
+  \node[font=\tiny\bfseries,color=white] at (7.6,0) {89};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (7.6,-0.8) {約的危機\\詩89};
+  \fill[ScriptureGold] (11.1,0) circle (0.28);
+  \node[font=\tiny\bfseries,color=white] at (11.1,0) {110};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (11.1,-0.8) {君王祭司\\詩110};
+  \fill[ScriptureGold] (14.3,0) circle (0.28);
+  \node[font=\tiny\bfseries,color=white] at (14.3,0) {150};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (14.3,-0.8) {凡有氣息的\\詩146--150};
+\end{tikzpicture}
+
+\vfill
+
+{\normalsize\color{ScriptureGold}\bfseries 主角永遠是耶穌——從祂的角度讀，光就照進來}\\[0.1cm]
+{\footnotesize\color{LightGray} The protagonist is always Jesus. Read from His angle, and light breaks in.}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\lyresymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\lyresymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{詩篇研讀 / Psalms Deep Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBrown}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK COVER
+%% --------------------------------------------
+\backmatter
+\clearpage
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+{\Large\itshape\color{ChapterBrown} תְּהִלִּים}\\[0.1cm]
+{\small\itshape\color{LightGray} Tehillim · 「讚美之歌」——全卷的希伯來名字}
+
+\vspace{0.8cm}
+
+\lyresymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\lyresymbol
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterBrown} 關於本書}\qquad{\large\bfseries\color{ChapterBrown} About This Book}
+
+\vspace{0.5cm}
+
+\begin{minipage}{5in}
+\small\color{TextGray}
+$if(backcover)$
+$backcover$
+$else$
+本書依詩篇本身的五卷結構（對應摩西五經），分五冊研讀全卷一百五十篇：卷一（詩1--41，有福的人）、卷二（詩42--72，拯救與王）、卷三（詩73--89，聖所與約）、卷四（詩90--106，曠野與耶和華作王）、卷五（詩107--150，話語、回歸、頌讚）。全書採用黃長老的查經方法——濃縮精義、以經解經、從耶穌的角度讀每一篇——因為詩篇一百五十篇，主角永遠是耶穌：受苦的（詩22）、牧養的（詩23）、掌權的（詩24）、君王兼祭司的（詩110）、被棄而成為房角石的（詩118）。整卷詩篇的終局，是「凡有氣息的，都要讚美耶和華」（詩150:6）——與整本聖經的終局，同一個方向。
+
+A five-volume study of all 150 psalms following the Psalter's own five-book structure mirroring the Pentateuch. Reading with Elder Huang's method — distilling the essence, interpreting Scripture with Scripture, and reading every psalm from the angle of Jesus Christ: the suffering shepherd (Ps 22), the good shepherd (Ps 23), the King of glory (Ps 24), the priest-king (Ps 110), the rejected cornerstone (Ps 118). The Psalter ends where the whole Bible ends: "Let everything that has breath praise the LORD" (Ps 150:6).
+$endif$
+\end{minipage}
+
+\vspace{1cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+
+\end{document}
