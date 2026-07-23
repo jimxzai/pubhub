@@ -86,7 +86,7 @@ if [ -f "$INPUT_DIR/12-backgrounds.md" ]; then
 fi
 
 # 4. Christ through the Psalms + Hebrew poetics + Prayer edition + appendices
-for extra in 14-christ-through-psalms.md 15-hebrew-poetics.md 13-prayer-testimony.md; do
+for extra in 14-christ-through-psalms.md 15-hebrew-poetics.md 13-prayer-testimony.md 16-liturgical-use.md; do
     if [ -f "$INPUT_DIR/$extra" ]; then
         echo "  Adding: $extra"
         awk 'BEGIN{c=0} /^---$/{c++; next} c>=2{print}' "$INPUT_DIR/$extra" >> "$COMBINED_MD"
@@ -102,7 +102,7 @@ if [ -f "$INPUT_DIR/11-voices-morgan-macarthur.md" ]; then
 fi
 
 # 6. Appendices
-for app in 99a-appendix-nt-quotations.md 99b-appendix-pastoral-index-reading-plan.md 99c-appendix-structure-themes.md; do
+for app in 99a-appendix-nt-quotations.md 99b-appendix-pastoral-index-reading-plan.md 99c-appendix-structure-themes.md 99d-appendix-references.md; do
     if [ -f "$INPUT_DIR/$app" ]; then
         echo "  Adding: $app"
         awk 'BEGIN{c=0} /^---$/{c++; next} c>=2{print}' "$INPUT_DIR/$app" >> "$COMBINED_MD"

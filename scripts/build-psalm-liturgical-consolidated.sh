@@ -94,9 +94,15 @@ if [ -f "$INPUT_DIR/15-hebrew-poetics.md" ]; then
     ((file_count++))
 fi
 
-# 6. Prayer edition: praying the psalms + testimony + church history
+# 6. Prayer edition + liturgical use guide
 if [ -f "$INPUT_DIR/13-prayer-testimony.md" ]; then
     append_file "$INPUT_DIR/13-prayer-testimony.md"
+    ((file_count++))
+fi
+
+# 6b. Liturgical use guide (church year, daily hours, responsive reading)
+if [ -f "$INPUT_DIR/16-liturgical-use.md" ]; then
+    append_file "$INPUT_DIR/16-liturgical-use.md"
     ((file_count++))
 fi
 
@@ -107,7 +113,7 @@ if [ -f "$INPUT_DIR/11-voices-morgan-macarthur.md" ]; then
 fi
 
 # 8. Appendices
-for app in 99a-appendix-nt-quotations.md 99b-appendix-pastoral-index-reading-plan.md 99c-appendix-structure-themes.md; do
+for app in 99a-appendix-nt-quotations.md 99b-appendix-pastoral-index-reading-plan.md 99c-appendix-structure-themes.md 99d-appendix-references.md; do
     if [ -f "$INPUT_DIR/$app" ]; then
         append_file "$INPUT_DIR/$app"
         ((file_count++))

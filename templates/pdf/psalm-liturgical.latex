@@ -88,6 +88,14 @@
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
 
+% Liturgical season colors (for the year wheel)
+\definecolor{AdventBlue}{RGB}{75,0,130}
+\definecolor{ChristmasWhite}{RGB}{255,250,240}
+\definecolor{LentPurple}{RGB}{128,0,128}
+\definecolor{EasterWhite}{RGB}{255,215,0}
+\definecolor{OrdinaryGreen}{RGB}{0,128,0}
+\definecolor{HolyWeekRed}{RGB}{139,0,0}
+
 %% ============================================
 %% MATH AND SYMBOLS
 %% ============================================
@@ -235,6 +243,61 @@
   \draw[->,thick,color=LiturgicalGold] (7.38,0) -- (7.62,0);
   \draw[->,thick,color=LiturgicalGold] (10.38,0) -- (10.62,0);
 \end{tikzpicture}%
+}
+
+% Liturgical year wheel (adapted from gospel-harmony-liturgical)
+\newcommand{\liturgicalwheel}{%
+\begin{tikzpicture}[scale=0.85, transform shape]
+  \def\outerrad{4.2}
+  \def\innerrad{3.0}
+  \def\centerrad{1.4}
+  \fill[AdventBlue!70] (90:\innerrad) arc (90:45:\innerrad) -- (45:\outerrad) arc (45:90:\outerrad) -- cycle;
+  \fill[ChristmasWhite, draw=LiturgicalGold, line width=0.5pt] (45:\innerrad) arc (45:0:\innerrad) -- (0:\outerrad) arc (0:45:\outerrad) -- cycle;
+  \fill[OrdinaryGreen!60] (0:\innerrad) arc (0:-45:\innerrad) -- (-45:\outerrad) arc (-45:0:\outerrad) -- cycle;
+  \fill[LentPurple!60] (-45:\innerrad) arc (-45:-110:\innerrad) -- (-110:\outerrad) arc (-110:-45:\outerrad) -- cycle;
+  \fill[HolyWeekRed!70] (-110:\innerrad) arc (-110:-130:\innerrad) -- (-130:\outerrad) arc (-130:-110:\outerrad) -- cycle;
+  \fill[EasterWhite, draw=LiturgicalGold, line width=0.5pt] (-130:\innerrad) arc (-130:-200:\innerrad) -- (-200:\outerrad) arc (-200:-130:\outerrad) -- cycle;
+  \fill[OrdinaryGreen!60] (-200:\innerrad) arc (-200:-270:\innerrad) -- (-270:\outerrad) arc (-270:-200:\outerrad) -- cycle;
+  \fill[white] (0,0) circle (\centerrad);
+  \draw[LiturgicalGold, line width=2pt] (0,0) circle (\centerrad);
+  % Center: a lyre in place of the cross
+  \draw[LiturgicalRed, line width=1.6pt] (-0.42,-0.55) .. controls (-0.60,0.15) .. (-0.28,0.62);
+  \draw[LiturgicalRed, line width=1.6pt] (0.42,-0.55) .. controls (0.60,0.15) .. (0.28,0.62);
+  \draw[LiturgicalRed, line width=1.6pt] (-0.42,-0.55) .. controls (0,-0.90) .. (0.42,-0.55);
+  \draw[LiturgicalGold, line width=1.2pt] (-0.34,0.58) -- (0.34,0.58);
+  \draw[LiturgicalGold, line width=0.5pt] (-0.18,-0.62) -- (-0.18,0.56);
+  \draw[LiturgicalGold, line width=0.5pt] (0,-0.66) -- (0,0.56);
+  \draw[LiturgicalGold, line width=0.5pt] (0.18,-0.62) -- (0.18,0.56);
+  \node[font=\scriptsize\bfseries, text=white, rotate=-22.5] at (67.5:3.6) {ADVENT 將臨期};
+  \node[font=\scriptsize\bfseries, text=LiturgicalGold!80!black, rotate=-67.5] at (22.5:3.6) {CHRISTMAS 聖誕期};
+  \node[font=\scriptsize\bfseries, text=white, rotate=67.5] at (-22.5:3.6) {ORDINARY 常年期};
+  \node[font=\scriptsize\bfseries, text=white, rotate=12.5] at (-77.5:3.6) {LENT 大齋期};
+  \node[font=\scriptsize\bfseries, text=LiturgicalGold!80!black, rotate=105] at (-165:3.6) {EASTER 復活期};
+  \node[font=\scriptsize\bfseries, text=white, rotate=55] at (-235:3.6) {ORDINARY 常年期};
+  \draw[LiturgicalGold, line width=2pt] (0,0) circle (\outerrad);
+  \draw[LiturgicalGold, line width=1pt] (0,0) circle (\innerrad);
+  \node[font=\normalsize\bfseries, text=LiturgicalRed] at (0,-5.3) {THE LITURGICAL YEAR 教會年曆 \textperiodcentered\ 詩篇隨年而唱};
+\end{tikzpicture}
+}
+
+% Songs of Ascent staircase (Pss 120-134, fifteen steps)
+\newcommand{\ascentstairs}{%
+\begin{tikzpicture}[scale=0.62, transform shape]
+  \foreach \i in {0,...,14} {
+    \pgfmathsetmacro{\x}{\i*1.05}
+    \pgfmathsetmacro{\y}{\i*0.42}
+    \pgfmathtruncatemacro{\ps}{120+\i}
+    \fill[LiturgicalGold!25] (\x,\y) rectangle (\x+1.0,\y+0.38);
+    \draw[LiturgicalGold, line width=0.7pt] (\x,\y) rectangle (\x+1.0,\y+0.38);
+    \node[font=\tiny\bfseries, color=LiturgicalBlue] at (\x+0.5,\y+0.19) {\ps};
+  }
+  \node[font=\scriptsize, color=TextGray, anchor=west] at (0,-0.55) {120 流離};
+  \node[font=\scriptsize, color=TextGray] at (7.9,2.6) {126 流淚撒種};
+  \node[font=\scriptsize, color=TextGray] at (11.0,4.0) {130 從深處};
+  \node[font=\scriptsize, color=TextGray, anchor=east] at (15.7,6.9) {134 殿中事奉};
+  \draw[->, thick, LiturgicalRed] (0.2,-1.1) -- (3.2,-1.1);
+  \node[font=\scriptsize\bfseries, color=LiturgicalRed, anchor=west] at (3.5,-1.1) {上行之詩 Songs of Ascent \textperiodcentered\ 十五階朝聖之路（詩120--134）};
+\end{tikzpicture}
 }
 
 % Christological trajectory line
@@ -513,6 +576,73 @@ Tehillim \textperiodcentered{} 讚美之歌 \;\textendash\ the Hebrew name of th
 \clearpage
 
 % ============================================
+% HALF-TITLE — How to Read This Book
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{1.2in}
+
+{\normalsize\scshape\color{LiturgicalBlue} The}\\[0.1cm]
+{\fontsize{30}{36}\selectfont\bfseries\color{LiturgicalRed}\kaiti\selectfont
+詩篇全卷逐篇領受}\\[0.15cm]
+{\fontsize{16}{20}\selectfont\scshape\color{LiturgicalBlue}
+The Whole Psalter --- Liturgical Edition}\\[0.1cm]
+{\small\color{TextGray} 一百五十篇 \textperiodcentered\ 禮儀誦讀版}
+
+\vspace{0.6cm}
+
+\begin{tikzpicture}
+  \draw[LiturgicalGold, line width=0.8pt] (-2.2,0) -- (-0.5,0);
+  \node[color=LiturgicalGold] at (0,0) {\ensuremath{\dagger}};
+  \draw[LiturgicalGold, line width=0.8pt] (0.5,0) -- (2.2,0);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+\fcolorbox{LiturgicalGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering
+\vspace{0.25cm}
+{\small\color{JesusRed}\kaiti\selectfont
+「詩篇上所記的，凡指著我的話都必須應驗。」}\\[0.15em]
+{\footnotesize\itshape\color{TextGray}
+``Everything written about me in the Psalms must be fulfilled.''}\\[0.1em]
+{\footnotesize\color{LiturgicalBlue} 路加福音 24:44 \; Luke 24:44}
+\vspace{0.25cm}
+\end{minipage}
+}
+
+\vspace{0.8cm}
+
+{\normalsize\bfseries\color{LiturgicalBlue} 150 Psalms \textperiodcentered\ Five Scrolls \textperiodcentered\ One Protagonist}
+
+\vspace{0.8cm}
+
+\fcolorbox{LiturgicalGold}{NoteBg}{%
+\begin{minipage}{5.0in}
+\centering
+\vspace{0.25cm}
+{\small\bfseries\color{LiturgicalRed} 讀經之鑰 \;\textperiodcentered\; How to Read This Book}\\[0.4em]
+{\small\color{TextGray} 你不是來讀一本詩集——你是來學禱告，來遇見那位主角。}\\[0.2em]
+{\small\color{TextGray} 全書之鑰共八把，開卷第一頁交在你手裡。}\\[0.2em]
+{\small\color{TextGray} 若你讀完一百五十篇還沒看見祂——請從頭再讀。}\\[0.2em]
+{\small\color{TextGray} 這次，把主角放回正確的位子上。}\\[0.4em]
+{\footnotesize\itshape\color{LightGray} You are not reading an anthology --- you are learning to pray, and meeting a Person.\\
+If after 150 psalms you have not yet seen Him, read it again.}
+\vspace{0.25cm}
+\end{minipage}
+}
+
+\vfill
+
+{\normalsize\color{TextGray} PubHub 三書精讀系統}\\[0.15cm]
+{\small\color{LightGray} Soli Deo Gloria}
+
+\vspace*{0.8in}
+\end{center}
+\clearpage
+
+% ============================================
 % STRUCTURE PAGE — Five Books + Trajectory
 % ============================================
 \thispagestyle{empty}
@@ -559,6 +689,51 @@ The whole Bible ends with the same line.}
 \vspace{0.5cm}
 
 \liturgicaldiv
+
+\end{center}
+\clearpage
+
+% ============================================
+% LITURGICAL YEAR PAGE — Wheel + Psalms by Season + Ascent Stairs
+% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+
+{\LARGE\bfseries\color{LiturgicalRed} 詩篇隨教會年曆而唱}\\[0.05cm]
+{\normalsize\scshape\color{LiturgicalBlue} The Psalms through the Liturgical Year}
+
+\vspace{0.4cm}
+
+\liturgicalwheel
+
+\vspace{0.5cm}
+
+\fcolorbox{LiturgicalGold}{NoteBg}{%
+\begin{minipage}{5.6in}
+\centering
+\vspace{0.15cm}
+{\footnotesize\color{TextGray}
+\textbf{\textcolor{AdventBlue}{將臨期}} 詩24、80（榮耀的王將要進來）\;\textperiodcentered\;
+\textbf{\textcolor{LiturgicalGold!70!black}{聖誕期}} 詩98、96（全地向他唱新歌）\\[0.15em]
+\textbf{\textcolor{LentPurple}{大齋期}} 六首懺悔詩 6、32、38、51、102、143 \;\textperiodcentered\;
+\textbf{\textcolor{HolyWeekRed}{聖週}} 詩22、31、69、118\\[0.15em]
+\textbf{\textcolor{LiturgicalGold!70!black}{復活期}} 詩16、118（不叫聖者見朽壞）\;\textperiodcentered\;
+\textbf{升天} 詩24、47、68、110\\[0.15em]
+\textbf{\textcolor{HolyWeekRed}{五旬節}} 詩104（你發出你的靈）\;\textperiodcentered\;
+\textbf{\textcolor{OrdinaryGreen!70!black}{常年期}} 30日循環禱畢全卷（見附錄二）}
+\vspace{0.15cm}
+\end{minipage}
+}
+
+\vspace{0.6cm}
+
+\ascentstairs
+
+\vspace{0.4cm}
+
+{\footnotesize\itshape\color{LightGray} 「我因你公義的典章一天七次讚美你。」——詩篇 119:164\\
+教會晝夜的祈禱時辰，骨架就是詩篇（詳見第16章禮儀使用指南）。}
 
 \end{center}
 \cleardoublepage
