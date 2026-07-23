@@ -102,7 +102,7 @@ if [ -f "$INPUT_DIR/11-voices-morgan-macarthur.md" ]; then
 fi
 
 # 6. Appendices
-for app in 99a-appendix-nt-quotations.md 99b-appendix-pastoral-index-reading-plan.md; do
+for app in 99a-appendix-nt-quotations.md 99b-appendix-pastoral-index-reading-plan.md 99c-appendix-structure-themes.md; do
     if [ -f "$INPUT_DIR/$app" ]; then
         echo "  Adding: $app"
         awk 'BEGIN{c=0} /^---$/{c++; next} c>=2{print}' "$INPUT_DIR/$app" >> "$COMBINED_MD"

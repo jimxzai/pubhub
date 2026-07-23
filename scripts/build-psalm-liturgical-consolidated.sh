@@ -107,7 +107,7 @@ if [ -f "$INPUT_DIR/11-voices-morgan-macarthur.md" ]; then
 fi
 
 # 8. Appendices
-for app in 99a-appendix-nt-quotations.md 99b-appendix-pastoral-index-reading-plan.md; do
+for app in 99a-appendix-nt-quotations.md 99b-appendix-pastoral-index-reading-plan.md 99c-appendix-structure-themes.md; do
     if [ -f "$INPUT_DIR/$app" ]; then
         append_file "$INPUT_DIR/$app"
         ((file_count++))
