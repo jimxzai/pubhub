@@ -119,6 +119,8 @@ publisher: 三書精讀出版系統
 | 08 | 因信稱義使人脫離定罪恐懼的自由，與8:1「不被定罪」高度一致 | 一般性歸納 |
 | 13 | 《論屬世的權柄》(1523年)「兩個國度」教義 | 一般性論述精神轉述 |
 
+> 補充：《羅馬書講義》(*Lectures on Romans*, 1515-1516) 英譯本（Wilhelm Pauck 譯，Library of Christian Classics 系列，SCM Press, 1961，據 Johannes Ficker 校訂之威瑪版第56卷）可於 Internet Archive 查閱全文：https://archive.org/details/lecturesonromans0000luth ——僅供讀者自行核對之參考連結，本書02、04章相關段落仍為一般性歸納轉述，非逐字引句。
+
 ### 約翰·加爾文 (John Calvin, 1509-1564)
 
 除12章外，其餘各章均以「一貫強調」「一般性歸納」轉述，未逐字引用《基督教要義》或《羅馬書註釋》原文：

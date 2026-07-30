@@ -168,7 +168,7 @@ John MacArthur在講道中指出，4:12的排他性宣告在今天格外令許�
 摩根在《使徒行傳》的釋經短講中，對彼得「金銀我都沒有」這句話有一句精煉的對比：
 
 > 「比起彼得所能給的，金銀不過是最粗劣的渣滓。」（"By comparison with what Peter had to bestow, silver and gold are the veriest dross."）
-> — G. Campbell Morgan, *Searchlights from the Word: Acts*
+> — G. Campbell Morgan, *Searchlights from the Word*（論使徒行傳3章，非獨立成書之《...: Acts》）
 
 摩根接著指出，把銀錢給一個瘸腿的人，充其量只是維持他繼續殘障地活下去；但賜他能站立行走的力量，才是真正把他從乞討的需要中釋放出來——這正是彼得所給的，遠超金銀所能給的。
 
