@@ -10,19 +10,13 @@ publisher: 三書精讀出版系統
 
 創世記 1:1-2:3
 
+**經文核對**：[ai-eden.com/bible/genesis/1](https://www.ai-eden.com/bible/genesis/1?t=CUV,ESV&cols=2)
+
 ---
 
-## 配詩 (Opening Hymn)
+## 基督焦點 (Christ at the Center)
 
-> **All Creatures of Our God and King**
-> *St. Francis of Assisi, 1225 / tr. William Draper, 1926*
->
-> All creatures of our God and King,
-> Lift up your voice and with us sing,
-> Alleluia! Alleluia!
-> Thou burning sun with golden beam,
-> Thou silver moon with softer gleam,
-> O praise Him! O praise Him!
+創世記第一章表面上一次都沒有提到「耶穌」，但約翰福音第一章告訴我們該怎麼讀這一章：「太初有道，道與神同在，道就是神……萬物是藉著他造的。」那位「說：要有光，就有了光」的神，正是後來「道成了肉身，住在我們中間」的那一位。六日創造的次序、光在光源之先、神的形像託付給人、第七日的安息——每一個環節，都是後來要親自成為肉身、成為神榮耀真像、成為我們安息之處的基督，尚未道成肉身之前，已經在說話、在創造、在託住萬有。不先在創世記認出這「道」，就不能在馬槽裏真正認出祂。
 
 ---
 
@@ -44,9 +38,9 @@ publisher: 三書精讀出版系統
 
 > ^24^神說：「地要生出有生命之物，各從其類，就是牲畜、爬行動物、地上的走獸，各從其類。」事就這樣成了。^25^於是神造了地上的走獸，各從其類；牲畜，各從其類；和地上一切的爬行動物，各從其類。神看為好的。
 
-> ^26^神說：「我們要照着我們的形像，按着我們的樣式造人，使他們管理海裏的魚、天空的鳥、地上的牲畜和全地，以及地上爬的一切爬行動物。」^27^神就照着他的形像創造人，照着神的形像創造他們；他創造了他們，有男有女。^28^神賜福給他們，神對他們說：「要生養眾多，遍滿這地，治理它；要管理海裏的魚、天空的鳥和地上各樣活動的生物。」^29^神說：「看哪，我把全地一切含種子的五穀菜蔬和一切會結果子、果子裏有種子的樹，都賜給你們，作你們的食物。^30^至於地上一切的走獸、天空一切的鳥、地上一切有生命的爬行動物，我把綠色植物賜給牠們作食物。」事就這樣成了。^31^神看他所造的一切都很好。有晚上，有早晨，這是第六日。
+> ^26^神說：「我們要照着我們的形像，按着我們的樣式造人，使他們管理海裏的魚、天空的鳥、地上的牲畜和全地，以及地上爬的一切爬行動物。」^27^神就照着他的形像創造人，照着神的形像創造他們；他創造了他們，有男有女。^28^神賜福給他們，神對他們說：「要生養眾多，遍滿這地，治理它；要管理海裏的魚、天空的鳥和地上各樣活動的生物。」^29^神說：「看哪，我把全地一切含種子的五穀菜蔬和一切會結果子、果子裏有種子的樹，都賜給你們，作你們的食物。^30^至於地上一切的走獸、天空一切的鳥、地上一切有生命的爬行動物，我把綠色植物賜給牠們作食物。」事就這樣成了。^31^神看着一切所造的都甚好。有晚上，有早晨，這是第六日。
 
-> 2:1 天地萬物都造齊了。^2^到第七日，神完成了他所做的工；在第七日，他歇了他所做的一切工。^3^神賜福給第七日，將它分別為聖，因為在這日，神歇了他一切創造的工，就安息了。
+> ^2:1^天地萬物都造齊了。^2^到第七日，神完成了他所做的工；在第七日，他歇了他所做的一切工。^3^神賜福給第七日，將它分別為聖，因為在這日，神歇了他一切創造的工，就安息了。
 
 ### English — ESV
 
@@ -66,7 +60,7 @@ publisher: 三書精讀出版系統
 
 > ^26^Then God said, "Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth." ^27^So God created man in his own image, in the image of God he created him; male and female he created them. ^28^And God blessed them. And God said to them, "Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth." ^29^And God said, "Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food. ^30^And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food." And it was so. ^31^And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.
 
-> 2:1 Thus the heavens and the earth were finished, and all the host of them. ^2^And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. ^3^So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
+> ^2:1^Thus the heavens and the earth were finished, and all the host of them. ^2^And on the seventh day God finished his work that he had done, and he rested on the seventh day from all his work that he had done. ^3^So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
 
 ---
 
@@ -106,7 +100,7 @@ publisher: 三書精讀出版系統
 |----------|------|------|------|
 | בְּרֵאשִׁית | *bereshit* | 起初 | 全書書名 |
 | בָּרָא | *bara* | 創造 | 專用於神的創造 |
-| אֱלֹהִים | *Elohim* | 神 | 複數形式，暗示三一 |
+| אֱלֹהִים | *Elohim* | 神 | 複數形式，傳統上有解經者認為暗示三一 |
 | תֹהוּ וָבֹהוּ | *tohu wabohu* | 空虛混沌 | 無形無序的狀態 |
 | רוּחַ | *ruach* | 靈、風、氣息 | 神的靈運行 |
 | צֶלֶם | *tselem* | 形像 | 代表、肖像 |
@@ -121,33 +115,33 @@ publisher: 三書精讀出版系統
 2. 創造生命 (1:21) — 有生命之物
 3. 創造人類 (1:27) — 神的形像
 
+### 「起初」(*bereshit*) 與希臘文「太初」(*en archē*) 的呼應
+
+七十士譯本（主前三世紀猶太人所譯的希臘文舊約）翻譯創世記1:1，用的正是「*en archē*」——與約翰福音1:1「太初有道」開頭一模一樣的詞組。這不是巧合：約翰刻意用同一句起頭語，告訴讀者他要重寫創世記第一章——這次，要說出那位「起初」創造、「神說」背後說話的那一位，祂的名字是誰。
+
 ---
 
-## 神學要點 (Theological Points)
+## 領受與亮光 (Light Received)
 
-### 1. 神的主權 (Sovereignty of God)
+### 1. 神的主權——「起初，神……」
 
-「起初，神⋯⋯」— 聖經一開始就假設神的存在，不需要證明。祂是一切的源頭，在萬有之先就存在。
+聖經一開始就假設神的存在，不需要證明。祂是一切的源頭，在萬有之先就存在。「起初，神創造天地」與「太初有道，道與神同在，道就是神……萬物是藉著他造的」（約1:1,3）是同一句宣告的兩個階段：創世記說「誰創造」，約翰福音補上了「創造者是誰」。原來每一次「神說，就有了」的背後，說話的那一位，就是後來道成肉身的道。
 
-### 2. 話語創造 (Creation by Word)
+### 2. 話語創造——光在光源之先
 
-「神說⋯⋯就有了」— 神不需要原料，只憑話語就創造萬有。這顯明神的全能，也預表約翰福音的「道」(Logos)。
+創世記1:3「神說：要有光，就有了光」，是全本聖經第一句被記錄的「神說」。但光是第一日造的，太陽、月亮、星星卻是第四日才造（1:14-19）——光在先，光源在後。這在物質世界說不通，卻在屬靈世界完全說得通：光的終極源頭不是被造之物，是神自己。約翰福音1:4-5說「生命在他裏頭，這生命就是人的光。光照在黑暗裏，黑暗卻不接受光」；哥林多後書4:6保羅說得最直白：「那吩咐光從黑暗裏照出來的神，已經照在我們心裏，叫我們得知神榮耀的光，顯在耶穌基督的面上。」創世記1:3那句命令，與哥林多後書4:6那個救恩經歷，是同一位神、同一個動作。
 
-### 3. 神的形像 (Image of God)
+### 3. 神的形像——影兒與真體
 
-「照着我們的形像」— 這是人類獨有的尊嚴。「形像」包括：
-- **理性** — 能思考、推理
-- **道德性** — 能分辨善惡
-- **關係性** — 能與神相交
-- **治理權** — 代表神管理受造界
+「照着我們的形像」，是人類獨有的尊嚴：理性、道德性、關係性、治理權。但這形像被罪玷污了。希伯來書1:3說耶穌「是神榮耀所發的光輝，是神本體的真像」（原文*charaktēr*，印章壓下去的精確印記）；歌羅西書1:15說耶穌是「那不能看見之神的像」。亞當是神形像的影兒，耶穌是神形像的真體——要知道「神的形像」原本該長甚麼樣子，最終要看的不是創世記1章的亞當，是拿撒勒人耶穌。
 
-### 4. 男女平等 (Male and Female)
+### 4. 男女平等——同被造、同蒙福
 
-「有男有女」— 男女同被造、同有神的形像、同受賜福。這在古代世界是革命性的宣告。
+「有男有女」——男女同被造、同有神的形像、同受賜福。這在古代世界是革命性的宣告，也是後來「並不分猶太人、希臘人，自主的、為奴的，或男或女，因為你們在基督耶穌裏都成為一了」(加3:28) 的根源。
 
-### 5. 安息的神學 (Theology of Sabbath)
+### 5. 安息的預表——第七日通向希伯來書4章
 
-神第七日安息，不是因疲乏，而是完工後的享受。安息日成為以色列人的記號，也預表信徒在基督裏的安息（來4:9-10）。
+神第七日安息，不是因疲乏，是完工後的享受（*shabat* 本義「停止」，因為沒有更多要做的）。希伯來書引用這一節：「神就在第七日歇了他一切的工」（來4:4），然後說「必另有一安息日的安息為神的子民存留」（來4:9），「因為那進入安息的，乃是歇了自己的工，正如神歇了他的工一樣」（來4:10）。創世記2章那個「第七日」，不只是一週的結束，是指向一個在基督裏才真正得著的更大安息。
 
 ---
 
@@ -176,32 +170,78 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 「創世記第一章不是神話，不是詩歌，而是歷史記載。神用六天創造天地，第七天安息——這是直接、字面的意義。這段經文是整本聖經神學的根基。」
-> — *The Battle for the Beginning*
+> "In the beginning, God created the heavens and the earth. That is not an ambiguous statement... In six 24-hour days, God created everything that exists. It is so simple and so clear... It is what it is, and a child can understand its simplicity."（「起初，神創造天地。」這不是一句含糊的陳述……神在六個24小時的日子裏，創造了存在的一切。這是如此簡單、如此清楚……事情就是這樣，連孩子都能明白它的簡單。）
+> — John MacArthur, "The Theology of Creation" (gty.org 講道 90-359，2008年8月24日), https://www.gty.org/library/sermons-library/90-359/the-theology-of-creation
 
-麥克乾瑟指出創世記記載了十六個重要的起源：宇宙、秩序與複雜性、太陽系、大氣層與水圈、生命本身、人類、婚姻與家庭、罪惡、神的審判、恩典中的救贖、語言、政府、文化、列國、宗教、以及以色列。他強調：「要麼有一位永恆的創造主神存在，要麼一切都是偶然的結果。『沒有人乘以沒有東西等於一切』這個等式是荒謬的。」
+**坎伯·摩根 (G. Campbell Morgan)**:
 
-**乾伯·摩根 (G. Campbell Morgan)**:
-
-> 「創世記第一章啟示的不只是宇宙如何開始，更是神是誰。祂是全能的創造者，是有位格的神，祂說話、看見、稱名、賜福——這位神不是冷漠的『第一因』，而是活的、愛的、掌權的主。」
-> — *The Analyzed Bible*
-
-摩根解釋創世記1:1如何應驗希伯來書11:3：「所看見的並非從顯現之物造出來的。」他強調神透過三個活動啟示自己：(1) 聖靈的行動——「混沌的地被聖靈擁抱，祂在其上運行」；(2) 話語的表達——神說出祂的旨意；(3) 神聖意志的執行——聖靈貫穿創造實現神的計劃。摩根總結道：「一個根植於神的思想和活動中的宇宙，人作為祂的後裔」——這個視角對於理解罪惡的本質至關重要。
+> "In that simple statement we have the Bible declaration of the origin of the material universe; and it is one in which faith finds reasonable foundation... reason may rest as it cannot possibly do in any theory which leaves God out of the question."（「在這簡單的一句話裏，我們就有了聖經對物質宇宙起源的宣告；這是信心能找到合理根基之處……理性能夠安歇在此，卻不可能安歇在任何把神排除在外的理論裏。」）
+> — G. Campbell Morgan, *The Analyzed Bible*, Vol. 1 (1907)，論創世記1:1, https://archive.org/details/analyzedbible01morg
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
-### 詩篇 8:3-6
+### 摩根：三個活動，啟示一位神 (G. Campbell Morgan)
+
+摩根解釋創世記1:1如何應驗希伯來書11:3：「所看見的並非從顯現之物造出來的。」他指出神藉著靈與道兩者並行的活動，使地「重生」：
+
+> "With the words 'The Spirit of God moved upon the face of the waters' begins the story of reconstruction... The earth was born again by the Spirit and the Word. The method of the new birth of the earth was that of the brooding over it of the Spirit, and the uttering of the Word of God."（「神的靈運行在水面上」這句話，開啟了重建的故事……地藉著靈與道「重生」了。地重生的方法，就是靈在其上的運行，與道的說出。）
+
+摩根論到人在受造界中獨特的地位：
+
+> "This being, at once related to the material universe, and yet kin of God, was placed at the centre of creation, to govern it in co-operation with God."（這個存有，一方面與物質宇宙相連，另一方面又是神的親屬，被安置在受造界的中心，與神同工、治理萬有。）
+
+> — G. Campbell Morgan, *The Analyzed Bible*, Vol. 1 (1907), https://archive.org/details/analyzedbible01morg
+
+### 麥克阿瑟：眾多的「第一次」，一個答案 (John MacArthur)
+
+麥克阿瑟在創世記導論中指出，創世記首十一章記載了人類經驗中為數眾多的「第一次」——宇宙與時空的起源、婚姻、家庭、墮落、罪、審判、恩典中的救贖、制度、風俗、語言、文化、列國，都在此第一次出現在聖經敘事裏（此處為筆者根據麥克阿瑟創世記導論教導要點的歸納整理，並非逐字引文；原文參 gty.org 所收之麥克阿瑟創世記導論）。他在文章〈創造：信，或不信〉("Creation: Believe It or Not") 中，一句話點破自然主義的荒謬：
+
+> "It is hard to imagine anything more absurd than the naturalist's formula for the origin of the universe: Nobody times nothing equals everything."（很難想像還有甚麼比自然主義者對宇宙起源的公式更荒謬的了：沒有人乘以沒有東西等於一切。）
+
+> — John MacArthur, "Creation: Believe It or Not," gty.org, https://www.gty.org/articles/A365/creation-believe-it-or-not
+
+### 黃長老查經：創世記1章與約翰福音1章 (Ask Elder Wong)
+
+黃長老常把創世記1:1與約翰福音1:1擺在一起讀，指出七十士譯本兩處開頭用的是同一句希臘文「*en archē*」：
+
+「約翰福音第一章，是『創世記第一章2.0版』——創世記說『神說』，約翰補上了：那說話的，就是道，道與神同在，道就是神。你若把約翰福音第一章當作獨立的一段讀，你錯過了它最深的用意——它是重寫創世記，告訴你：起初創造、如今道成肉身的，是同一位。」
+
+---
+
+## 配詩 (Hymns & Psalms)
+
+### 聖詩：All Creatures of Our God and King
+
+> **All Creatures of Our God and King**
+> *St. Francis of Assisi, 1225 / tr. William Draper, 1926*
+>
+> All creatures of our God and King,
+> Lift up your voice and with us sing,
+> Alleluia! Alleluia!
+> Thou burning sun with golden beam,
+> Thou silver moon with softer gleam,
+> O praise Him! O praise Him!
+>
+> Let all things their Creator bless,
+> And worship Him in humbleness,
+> O praise Him! Alleluia!
+> Praise, praise the Father, praise the Son,
+> And praise the Spirit, Three in One!
+
+這首詩歌源自聖法蘭西斯（St. Francis of Assisi）於1225年所作的《太陽讚歌》(Canticle of the Sun)，呼籲一切受造物讚美創造主。歌詞與經文對照：「燃燒的太陽」(burning sun) 呼應第四日的光體；「銀色的月亮」(silver moon) 呼應管夜的小光；「一切受造之物」(all creatures) 呼應第五、六日的生命；「讚美父、子、聖靈」呼應1:26「我們」的奧祕。
+
+### 詩篇：詩篇 8:3-6
 
 > 我觀看你指頭所造的天，
 > 並你所陳設的月亮星宿，
-> 人算甚麼，你竟顧念他？
+> 便說：人算甚麼，你竟顧念他？
 > 世人算甚麼，你竟眷顧他？
-> 你使他比天使微小一點，
+> 你叫他比天使微小一點，
 > 並賜他榮耀尊貴為冠冕。
 > 你派他管理你手所造的，
-> 使萬物都服在他的腳下。
+> 使萬物⋯⋯都服在他的腳下。
 
 > When I look at your heavens, the work of your fingers,
 > the moon and the stars, which you have set in place,
@@ -212,25 +252,35 @@ publisher: 三書精讀出版系統
 > You have given him dominion over the works of your hands;
 > you have put all things under his feet.
 
+詩篇8篇是創世記1:26-28「治理全地」之託付的敬拜回應——大衛數算星宿的浩瀚，卻驚訝於神竟眷顧渺小的世人。希伯來書2:6-8引用這篇詩篇，說明「萬物服在他的腳下」最終應驗在耶穌基督身上——祂是那位真正配得萬有服在祂腳下的人子。
+
 ---
 
-## 聖詩默想 (Hymn Meditation)
+## 黃長老查經．深讀 (Going Deeper with Elder Wong)
 
-### All Creatures of Our God and King
+### 全經連線 (Tracing It Through Scripture)
 
-這首詩歌源自聖法蘭西斯（St. Francis of Assisi）於1225年所作的《太陽讚歌》(Canticle of the Sun)，呼籲一切受造物讚美創造主。
+創世記1:3「要有光」，一路貫穿到啟示錄22:5「不再需要燈光或日光，因為主神要光照他們」——整本聖經是一個「光的故事」：起初神造光（創1:3）→ 光被造之物拒絕，世界陷入黑暗（約1:5，人的墮落）→ 那光親自道成肉身進入黑暗（約1:14）→ 十字架上「遍地都黑暗了」（太27:45，那光似乎被吞滅）→ 復活的清晨「還黑的時候」，光戰勝黑暗（約20:1）→ 終末新天新地，不再需要被造的光源，因為神自己就是光（啟21:23,22:5）。創世記1:3和啟示錄22:5擺在一起，你會發現整本聖經只是在回答一個問題——那起初的光，如今在哪裏？答案是：祂如今是那被殺又復活的羔羊，是新耶路撒冷永不熄滅的燈。
 
-> Let all things their Creator bless,
-> And worship Him in humbleness,
-> O praise Him! Alleluia!
-> Praise, praise the Father, praise the Son,
-> And praise the Spirit, Three in One!
+希伯來書1:1-3是把創世記1章與約翰福音1章「焊接」在一起最精確的一段：「神……早已立他（子）為承受萬有的，也曾藉著他創造諸世界。他是神榮耀所發的光輝，是神本體的真像，常用他權能的命令托住萬有。」創造、託住（西1:17）、榮耀顯現（道成肉身），是同一位子神，從起初到如今，一以貫之的工作。
 
-**歌詞與經文對照**：
-- 「燃燒的太陽」(burning sun) — 第四日的光體
-- 「銀色的月亮」(silver moon) — 管夜的小光
-- 「一切受造之物」(all creatures) — 第五、六日的生命
-- 「讚美父、子、聖靈」— 「我們」的奧秘 (1:26)
+### 提問式對話 (Let the Reader Speak)
+
+如果太陽不是光的終極來源，誰是？創世記1章的「神說……就有了」，和你今天遇到一片「空虛混沌」的處境，有甚麼共同的盼望？如果約翰福音第一章是「創世記第一章2.0版」，他要補充的是甚麼——創世記說「神說」，約翰補上了甚麼？
+
+### 活在今天．AI時代 (Living It Today)
+
+這個世代很容易把「創造」和「製造」混為一談：人能組合、能生成、能訓練模型輸出前所未見的內容，但那一切終究是把已存在的材料重新排列——是「腦袋裏面」的工作。唯獨神能從無變有地「創造」（*bara*）。你今天用的每一個工具、每一項成果，若不放回「祂是創造者，我是受造的管理者」這個次序裏，很容易把自己坐上那個只屬於神的位置。
+
+### 今天的祭壇 (Today's Altar)
+
+具體行動：今天為你生命中一個「空虛混沌」的處境，效法創世記1:3的神，向祂說一句具體的話——「願這裏也有光」——然後把那個處境交託給祂一整天，觀察祂如何動工。
+
+---
+
+## 黃長老精義 (The Distilled Key)
+
+創世記第一章不是一堂科學課，是一首「道」的凱歌：那位「說」就成就萬有的，正是後來「道成了肉身，住在我們中間」的那一位；六日的次序、光在光源之先、神的形像託付給人、第七日的安息，沒有一處不是指著基督說的。
 
 ---
 
@@ -242,7 +292,7 @@ publisher: 三書精讀出版系統
 
 2. **神的形像**：我是按神的形像造的。這如何影響我看待自己、看待他人？
 
-3. **管家責任**：神託付我管理什麼？我如何忠心地代表神管理這些？
+3. **管家責任**：神託付我管理甚麼？我如何忠心地代表神管理這些？
 
 4. **安息的功課**：我是否真的有安息？還是我的生活被忙碌填滿，沒有時間與神相交？
 
@@ -261,15 +311,15 @@ publisher: 三書精讀出版系統
 
 ## 反思問題 (Reflection Questions)
 
-1. 「起初，神⋯⋯」為什麼聖經一開始不證明神的存在，而是直接假設？
+1. 「起初，神⋯⋯」為甚麼聖經一開始不證明神的存在，而是直接假設？
 
-2. 創造的六日與安息的第七日，對我們今天的工作與休息有什麼啟示？
+2. 創造的六日與安息的第七日，對我們今天的工作與休息有甚麼啟示？
 
 3. 「照着我們的形像」中的「我們」是指誰？這如何預示三位一體？
 
-4. 「神看⋯⋯是好的」反覆出現。罪進入世界之前，受造界是什麼樣子？
+4. 「神看⋯⋯是好的」反覆出現。罪進入世界之前，受造界是甚麼樣子？
 
-5. 人被賦予「管理」的權柄。這與今天的環境倫理有什麼關係？
+5. 人被賦予「管理」的權柄。這與今天的環境倫理有甚麼關係？
 
 ---
 
