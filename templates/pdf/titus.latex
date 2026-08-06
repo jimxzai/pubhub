@@ -1,0 +1,742 @@
+% PubHub Titus Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{PingFang SC}
+
+%% Classical Latin display/text faces - used explicitly in front/back matter
+%% chrome (title page, copyright page, back cover). Not wired into the CJK
+%% body-text fallback chain, to avoid disturbing the 68-page compiled body.
+\newfontfamily\baskervillefont{Baskerville}
+\newfontfamily\didotfont{Didot}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Titus Theme (Aegean Teal/Terracotta)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Crete/Mediterranean island theme, retuned toward an
+% antique/weathered register rather than flat-bright modern color-block tones
+\definecolor{ChapterBlue}{RGB}{45,75,80}          % Weathered Aegean blue-grey for chapters
+\definecolor{ScriptureGold}{RGB}{160,95,55}       % Aged sienna/ochre for scripture refs
+\definecolor{CommentaryBrown}{RGB}{90,62,44}      % Warm earth brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{250,248,243}       % Aged parchment cream for scripture boxes
+\definecolor{GreekBg}{RGB}{243,247,246}           % Pale weathered teal for Greek
+\definecolor{ApplicationBg}{RGB}{249,245,238}     % Warm sand for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Diagram colors
+\definecolor{OldCovenantRed}{RGB}{155,70,55}      % Disorder / false teachers, muted brick
+\definecolor{NewCovenantGreen}{RGB}{55,100,90}    % Order / sound doctrine, muted sage-teal
+\definecolor{LandBeige}{RGB}{230,216,190}         % Island landmass
+\definecolor{PaulTeal}{RGB}{45,75,80}             % Paul's quoted words in scripture blocks
+
+%% Speaker markup command (used in Scripture sections to mark Paul's words)
+\newcommand{\paul}[1]{\textcolor{PaulTeal}{#1}}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+
+% Full-bleed dark background, painted in the shipout background hook so
+% it bleeds to the true physical page edge and does not disturb the
+% \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{\color{ChapterBlue}\rule{\paperwidth}{\paperheight}}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook (after page
+% content) using the page's own bounding box.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{75}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{75}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{75}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{75}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{75}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{240,238,228}
+\definecolor{CoverGoldBright}{RGB}{206,150,95}
+\definecolor{CoverMuted}{RGB}{182,188,183}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% Classical ornamentation
+\usepackage{pgfornament}
+\usepackage{lettrine}
+\setlength{\DefaultFindent}{0pt}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Anchor decoration (island / seafaring motif)
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.16]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,1) -- (0,-0.6);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.5,0.7) -- (0.5,0.7);
+  \draw[color=ScriptureGold,line width=1.3pt] (0,-0.6) arc (270:90:0.45);
+  \draw[color=ScriptureGold,line width=1.3pt] (-0.45,-0.15) -- (-0.65,-0.35);
+  \draw[color=ScriptureGold,line width=1.3pt] (0.45,-0.15) -- (0.65,-0.35);
+\end{tikzpicture}%
+}
+
+% Shepherd's staff / elder symbol
+\newcommand{\priestsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ScriptureGold,line width=1pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1pt] (0,1) arc (0:180:0.3);
+\end{tikzpicture}%
+}
+
+% Classical fleuron divider (replaces the plain rule+symbol dividers)
+\newcommand{\fleuron}[1][1cm]{\pgfornament[width=#1,color=ScriptureGold]{75}}
+% Color-overridden variant for use on the full-bleed dark cover pages
+\newcommand{\fleuroncover}[2][1cm]{\pgfornament[width=#1,color=#2]{75}}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{1cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Decorative fleuron and hairline
+\fleuron[0.9cm]\hspace{0.25cm}{\color{CoverGoldBright}\rule{2in}{0.4pt}}\hspace{0.25cm}\fleuron[0.9cm]
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 革哩底的秩序}\\[0.25cm]
+{\didotfont\large\color{CoverGoldBright} Order for Crete}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 提多書研讀}\\[0.15cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the Epistle to Titus}
+
+\vspace{0.6cm}
+
+% Key verse - hairline double-rule frame, manuscript style, reading light on dark
+\begin{center}
+{\color{CoverGoldBright}\rule{4in}{0.6pt}}\\[2pt]
+{\color{CoverGoldBright}\rule{4in}{0.4pt}}
+\vspace{0.25cm}
+\begin{minipage}{3.7in}
+\centering
+\small\itshape\color{CoverCream}
+因為神救眾人的恩典已經顯明出來，\\
+教訓我們除去不敬虔的心和世俗的情慾，\\
+在今世自守、公義、敬虔度日。\\[0.2em]
+{\baskervillefont\footnotesize\itshape\color{CoverCream}
+For the grace of God has appeared, bringing salvation for all people,\\
+training us to renounce ungodliness and worldly passions,\\
+and to live self-controlled, upright, and godly lives in the present age.\\
+— Titus 2:11-12}
+\end{minipage}
+\vspace{0.25cm}\\
+{\color{CoverGoldBright}\rule{4in}{0.4pt}}\\[2pt]
+{\color{CoverGoldBright}\rule{4in}{0.6pt}}
+\end{center}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 善行是恩典的果子，不是恩典的入場券}\\[0.1cm]
+{\baskervillefont\footnotesize\itshape\color{CoverCream} Good Works: The Fruit of Grace, Not Its Price (Titus 3:5, 8)}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.3cm}
+\fleuron[0.9cm]\hspace{0.25cm}{\color{CoverGoldBright}\rule{2in}{0.4pt}}\hspace{0.25cm}\fleuron[0.9cm]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 革哩底的秩序}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} Order for Crete}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Diagram page 1 — the disorder/order circle diagram, moved off the
+% frontispiece so the cover stays typographically clean
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 提多書結構}\\[0.1cm]
+{\normalsize Structure of Titus}
+
+\vspace{0.5cm}
+
+% Structure diagram - Order out of chaos
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,4) {把沒有辦完的事辦整齊 Putting Things in Order};
+
+  % Disorder elements (left side)
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.8cm,font=\tiny] at (-3,2.3) {Liars 說謊};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.8cm,font=\tiny] at (-3,1.3) {False Teachers 假教師};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.8cm,font=\tiny] at (-3,0.3) {Empty Talk 空談};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.8cm,font=\tiny] at (-3,-0.7) {Division 分門結黨};
+
+  % Titus in center
+  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=2cm,line width=2pt,font=\small\bfseries,color=ChapterBlue] (titus) at (0,0.5) {TITUS};
+
+  % Order elements (right side)
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,2) {Elders 長老};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,1) {Sound Doctrine 健全教訓};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,0) {Good Works 善行};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,-1) {Grace 恩典};
+
+  % Arrows showing transformation
+  \foreach \y in {2.3,1.3,0.3,-0.7} {
+    \draw[->,thick,color=ScriptureGold] (-2,\y) -- (-0.8,0.5);
+  }
+  \foreach \y in {2,1,0,-1} {
+    \draw[->,thick,color=NewCovenantGreen] (0.8,0.5) -- (2,\y);
+  }
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+% Three-part structure
+\begin{tikzpicture}[scale=0.9]
+  % Part 1
+  \node[draw=ChapterBlue,fill=ChapterBlue!10,rounded corners,minimum width=4cm,minimum height=2cm] at (0,0) {};
+  \node[font=\small\bfseries,color=ChapterBlue] at (0,0.5) {Part I: Order};
+  \node[font=\footnotesize,color=TextGray] at (0,0) {長老與假教師};
+  \node[font=\tiny,color=LightGray] at (0,-0.5) {Chapter 1};
+
+  % Part 2
+  \node[draw=ScriptureGold,fill=ScriptureGold!10,rounded corners,minimum width=4cm,minimum height=2cm] at (5,0) {};
+  \node[font=\small\bfseries,color=ScriptureGold!70!black] at (5,0.5) {Part II: Doctrine};
+  \node[font=\footnotesize,color=TextGray] at (5,0) {健全的教訓};
+  \node[font=\tiny,color=LightGray] at (5,-0.5) {Chapter 2};
+
+  % Part 3
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=4cm,minimum height=2cm] at (10,0) {};
+  \node[font=\small\bfseries,color=NewCovenantGreen!80!black] at (10,0.5) {Part III: Grace};
+  \node[font=\footnotesize,color=TextGray] at (10,0) {善行與恩典};
+  \node[font=\tiny,color=LightGray] at (10,-0.5) {Chapter 3};
+
+  % Arrows
+  \draw[->,thick,color=ScriptureGold] (2.2,0) -- (2.8,0);
+  \draw[->,thick,color=ScriptureGold] (7.2,0) -- (7.8,0);
+\end{tikzpicture}
+\end{center}
+\cleardoublepage
+
+% Diagram page 2 — five stations of life + salvation summary
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+
+% Five stations of life (Chapter 2)
+{\large\bfseries\color{ChapterBlue} 五種身分的責任 Five Stations of Life (Ch. 2)}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.75]
+  \foreach \x/\num/\txt in {
+    0/1/Older Men 老年人,
+    3/2/Older Women 老年婦人,
+    6/3/Younger Women 少年婦人,
+    9/4/Younger Men 少年人,
+    12/5/Servants 僕人
+  } {
+    \fill[ScriptureGold] (\x,0) circle (0.3);
+    \node[font=\tiny\bfseries,color=white] at (\x,0) {\num};
+    \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (\x,-0.8) {\txt};
+  }
+  \draw[ScriptureGold,line width=1.5pt] (0.3,0) -- (11.7,0);
+  \node[font=\footnotesize\itshape,color=ChapterBlue] at (6,1) {→ 純正的教訓 Sound Doctrine →};
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Salvation summary Titus 3:4-7
+{\large\bfseries\color{NewCovenantGreen} 救恩總論 The Gospel in Miniature (3:4-7)}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.8]
+  \foreach \x/\num/\ref/\txt in {
+    0/1/3:4/Kindness Appears 恩慈顯明,
+    3.2/2/3:5a/Not by Works 不是因行為,
+    6.4/3/3:5b/Washing \& Renewal 重生更新,
+    9.6/4/3:7/Heirs of Hope 盼望的後嗣
+  } {
+    \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=2.7cm,minimum height=1cm] at (\x,0) {};
+    \node[font=\tiny\bfseries,color=NewCovenantGreen!70!black] at (\x,0.2) {\num};
+    \node[font=\tiny,color=TextGray] at (\x,-0.15) {\txt};
+    \node[font=\tiny,color=LightGray] at (\x,-0.55) {\ref};
+  }
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} 「我從前留你在革哩底，是要你將那沒有辦完的事都辦整齊了。」— 提多書 1:5}
+\end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給那些在艱難的工場上，\\
+默默把沒有辦完的事辦整齊的人——}
+
+\vspace{0.5cm}
+
+{\itshape\normalsize\color{CommentaryBrown}
+不張揚、不等掌聲，\\
+一個家庭、一個身分、一堂課地教導純正的道理，\\
+只因蒙差派到了這裡。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+To those doing unglamorous, unfinished work in hard places —\\[0.25em]
+who put things in order without fanfare,\\
+one household, one station of life, one lesson at a time,\\
+simply because they were sent.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 我從前留你在革哩底，是要你將那沒有辦完的事都辦整齊了。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} ``This is why I left you in Crete, so that you might put what remained into order...'' --- Titus 1:5}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{提多書研讀 / Titus Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃長老 Thursday 查經筆記 (2024-2025)\\
+\textbullet\ John MacArthur - The MacArthur New Testament Commentary\\
+\textbullet\ G. Campbell Morgan - Living Messages of the Books of the Bible\\[0.8em]
+
+\textbf{核心主題 / Central Theme}\\
+把沒有辦完的事辦整齊：長老的秩序、健全的教訓、恩典所結的善行。\\
+Putting what remains into order: qualified elders, sound doctrine, and the good works that grace produces.\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\clearpage
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你的職分，還有什麼沒有辦整齊？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} What remains, in your own charge, still to be put in order?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.5cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$τάξις$endif$}\\[0.1cm]
+{\small\itshape\color{CoverMuted} {\baskervillefont "Order"} \textperiodcentered\ 秩序——全書貫穿的鑰字}
+
+\vspace{0.45cm}
+
+\fleuroncover{CoverGoldBright}\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuroncover{CoverGoldBright}
+
+\vspace{0.45cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.45cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀提多書全書三章，並附參考資料附錄，整合黃長老查經教導、John MacArthur 逐節解經、G. Campbell Morgan《Living Messages of the Books of the Bible》屬靈組織分析，貫穿全書「把沒有辦完的事辦整齊」的任務主線：第一章設立長老、駁倒假教師；第二章教導老年人、老年婦人、少年婦人、少年人、僕人五種身分如何活出純正的教訓；第三章以新約最凝練的救恩總論之一（3:4-7）收筆，指明善行是恩典所結的果子，不是換取恩典的代價。全書見證保羅如何差派提多，以任務導向、雷厲風行的方式，在一個民風散漫的宣教工場上建立起經得起考驗的教會秩序。
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\,chapter-by-chapter study of all three chapters of Titus, with a references appendix, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition, and G. Campbell Morgan's spiritual analysis in \textit{Living Messages of the Books of the Bible}. The study traces the letter's task-driven throughline — "putting what remains into order": appointing elders and silencing false teachers (ch. 1); teaching five stations of life to embody sound doctrine (ch. 2); and closing on one of the New Testament's most concentrated summaries of the gospel (3:4-7), where good works are shown to be the fruit of grace, never its price. The whole book witnesses how Paul commissioned Titus — briskly, urgently, task by task — to build a durable church order on a difficult mission field.}
+$endif$
+\end{minipage}
+
+\vspace{0.45cm}
+
+{\small\bfseries\color{CoverCream} 五種身分的責任}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Five Stations of Life (Ch. 2)}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cll@{}}
+① & 老年人 \textit{\baskervillefont\color{CoverCream} Older men} & {\tiny\color{CoverMuted} 2:2}\\[0.25em]
+② & 老年婦人 \textit{\baskervillefont\color{CoverCream} Older women} & {\tiny\color{CoverMuted} 2:3-4}\\[0.25em]
+③ & 少年婦人 \textit{\baskervillefont\color{CoverCream} Younger women} & {\tiny\color{CoverMuted} 2:4-5}\\[0.25em]
+④ & 少年人 \textit{\baskervillefont\color{CoverCream} Younger men} & {\tiny\color{CoverMuted} 2:6-8}\\[0.25em]
+⑤ & 僕人 \textit{\baskervillefont\color{CoverCream} Servants} & {\tiny\color{CoverMuted} 2:9-10}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.45cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 2.3in}
+
+\vspace{0.3cm}
+
+{\normalsize\itshape\color{CoverCream} 善行是恩典的果子，不是恩典的入場券}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} Good Works: The Fruit of Grace, Not Its Price — Titus 3:5, 8}
+
+\vspace{0.3cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 2.3in}
+
+\vspace{0.4cm}
+
+{\footnotesize\color{CoverMuted} \S\ Standalone Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}

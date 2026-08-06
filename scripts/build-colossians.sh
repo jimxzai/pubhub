@@ -2,6 +2,7 @@
 # Build the 《歌羅西書：基督的豐富與得勝》manuscript: combined markdown + EPUB + PDF.
 # Usage: bash scripts/build-colossians.sh
 # Requires: pandoc (EPUB), pandoc + xelatex (PDF).
+# Uses the dedicated template: templates/pdf/colossians.latex
 set -euo pipefail
 
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
@@ -9,38 +10,64 @@ DIR="$ROOT/books/col"
 OUT_MD="$ROOT/output/colossians-combined.md"
 OUT_EPUB="$ROOT/output/colossians.epub"
 OUT_PDF="$ROOT/output/colossians.pdf"
+TEMPLATE="$ROOT/templates/pdf/colossians.latex"
+
+if [ ! -f "$TEMPLATE" ]; then
+  echo "ERROR: Template not found: $TEMPLATE"
+  exit 1
+fi
 
 mkdir -p "$ROOT/output"
 
-# 1) Combine front matter + all chapter files in filename order.
+# Strip each chapter file's YAML frontmatter (--- ... ---, plus the blank
+# line that follows) before concatenating. Line counts vary per file (00
+# has an extra "subtitle:" line), so this is done dynamically rather than
+# with a fixed `tail -n +N`.
+strip_frontmatter() {
+  awk '
+    NR==1 && $0=="---" {infm=1; next}
+    infm && $0=="---" {infm=0; skipblank=1; next}
+    infm {next}
+    skipblank && $0=="" {skipblank=0; next}
+    {print}
+  ' "$1"
+}
+
+# 1) Combine front matter (for pandoc $title$/$copyright$ metadata used by
+#    the template) + all chapter bodies (frontmatter stripped) in filename order.
 {
 cat <<'FRONT'
 ---
-title: 歌羅西書：基督的豐富與得勝 — 黃長老查經
-subtitle: Colossians — The Fullness and Triumph of Christ, Bible Study in the Voice of Elder Wong
+title: 歌羅西書：基督的豐富與得勝
+subtitle: Colossians — The Fullness and Triumph of Christ
+author: PubHub 三書精讀系統
+publisher: 三書精讀出版系統
 edition: 第一版
----
+copyright: |
+  版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
 
-# 歌羅西書：基督的豐富與得勝
-# Colossians — The Fullness and Triumph of Christ
+  **三大核心資源整合：**
 
-> 以「整本聖經」為根基,以「認識耶穌基督」為中心,以「聽見就去行」為目標。
+  • **黃長老式查經** — 整本聖經脈絡的深度領受
 
-每篇查經按「經文→精義一句話→黃長老這樣帶你讀→整本聖經的連結→讓話語住在裡面→你看見耶穌了嗎？」展開,中英對照(和合本/ESV)。
+  • **John MacArthur** — 逐節解經講道 (gty.org)
 
-> 出版前須核對:經文對照 ai-eden.com/bible(和合本 / ESV / NASB),另以 cnbible.com 核對逐節文字;MacArthur、Campbell Morgan 引文須標明出處。
+  • **G. Campbell Morgan** — 屬靈組織分析 (*The Westminster Pulpit*)
 
+  「因為神本性一切的豐盛，都有形有體地居住在基督裡面，你們在他裡面也得了豐盛。」——歌羅西書 2:9-10
+
+  All rights reserved.
 ---
 
 FRONT
 for f in $(ls -1 "$DIR"/*.md | sort); do
-  cat "$f"
+  strip_frontmatter "$f"
   printf '\n\n\\newpage\n\n'
 done
 } > "$OUT_MD"
 echo "✓ combined markdown → $OUT_MD"
 
-# 2) EPUB (robust for CJK + Greek; uses reader fonts).
+# 2) EPUB (robust for CJK + Greek; uses reader fonts, no custom LaTeX template).
 if command -v pandoc >/dev/null 2>&1; then
   pandoc "$OUT_MD" -o "$OUT_EPUB" --toc --toc-depth=1 --metadata lang=zh-Hant
   echo "✓ EPUB → $OUT_EPUB"
@@ -48,17 +75,17 @@ else
   echo "… pandoc not found; skipping EPUB"
 fi
 
-# 3) PDF via xelatex. Needs a CJK font (PingFang SC on macOS) and a main
-#    font with Greek coverage (Times New Roman). Override via env:
-#    CJK_FONT / MAIN_FONT.
-CJK_FONT="${CJK_FONT:-PingFang SC}"
-MAIN_FONT="${MAIN_FONT:-Times New Roman}"
+# 3) PDF via xelatex, using the dedicated Colossians template (cover art,
+#    frontispiece, back-matter appendices, themed back cover).
 if command -v pandoc >/dev/null 2>&1 && command -v xelatex >/dev/null 2>&1; then
-  pandoc "$OUT_MD" -o "$OUT_PDF" \
-    --pdf-engine=xelatex --toc --toc-depth=1 \
-    -V documentclass=report -V geometry:margin=2.3cm \
-    -V CJKmainfont="$CJK_FONT" -V mainfont="$MAIN_FONT" \
-    || echo "… PDF build failed (check fonts: CJK_FONT='$CJK_FONT', MAIN_FONT='$MAIN_FONT')"
+  pandoc "$OUT_MD" \
+    -o "$OUT_PDF" \
+    --pdf-engine=xelatex \
+    --template="$TEMPLATE" \
+    --toc --toc-depth=1 \
+    --top-level-division=chapter \
+    -V tocdepth=0 \
+    || echo "… PDF build failed"
   [ -f "$OUT_PDF" ] && echo "✓ PDF → $OUT_PDF"
 else
   echo "… pandoc or xelatex not found; skipping PDF"

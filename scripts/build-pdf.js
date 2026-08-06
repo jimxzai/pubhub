@@ -477,6 +477,13 @@ function buildFromDirectory(options) {
     combinedContent += content + '\n\n';
   }
 
+  // Convert red-letter markers (Jesus's words) to the LaTeX macro, matching
+  // the dedicated build-gospel-mark.sh / build-gospel-of-luke.sh scripts —
+  // otherwise pandoc silently drops the <red>/</red> tags as unknown raw HTML.
+  combinedContent = combinedContent
+    .replace(/<red>/g, '\\jesus{')
+    .replace(/<\/red>/g, '}');
+
   fs.writeFileSync(combinedPath, combinedContent);
 
   // Build PDF from combined file

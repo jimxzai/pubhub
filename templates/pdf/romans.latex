@@ -1,0 +1,729 @@
+% PubHub Romans Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Songti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\newfontfamily\cjkfallbackfont{Songti SC}
+
+%% Classical English typeface — auto-switch for Latin-script runs so
+%% bilingual scripture/quote blocks render in a period-appropriate serif
+%% instead of Songti SC's built-in Latin glyphs. Baskerville for running
+%% text; Didot reserved for large display lines (invoked explicitly).
+\newfontfamily\basklatin{Baskerville}
+\newfontfamily\didotfont{Didot}
+% Alias matching the naming convention used on the full-bleed cover pages
+\newcommand{\baskervillefont}{\basklatin}
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+\setTransitionsFor{Han}{\cjkfallbackfont}{\normalfont}
+\setTransitionsFor{Latin}{\basklatin}{\normalfont}
+% Latin Extended Additional (e.g. combining-dot-below transliterations
+% like Hebrew *ḥesed*/*ḥashab*) — Kaiti SC's italic has no glyph for
+% these, so route them to Baskerville too.
+\setTransitionsFor{LatinExtendedAdditional}{\basklatin}{\normalfont}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Romans Theme (Navy/Gold, Imperial Rome)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Imperial Rome theme (navy + aged brass), retuned from
+% the oxblood/burgundy scheme used elsewhere in this series
+\definecolor{ChapterBlue}{RGB}{22,42,82}          % Deep navy — Romans theme (macro name kept for compatibility)
+\definecolor{ScriptureGold}{RGB}{150,115,55}      % Aged brass for scripture refs / laurel-cross
+\definecolor{CommentaryBrown}{RGB}{60,55,80}      % Muted indigo-brown for commentary, tuned to sit with navy
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{248,249,252}       % Cool cream for scripture boxes
+\definecolor{GreekBg}{RGB}{245,246,251}           % Faint blue-grey for Greek
+\definecolor{ApplicationBg}{RGB}{246,248,250}     % Light slate for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Diagram colors
+\definecolor{OldCovenantRed}{RGB}{150,40,40}      % Warning / conflict
+\definecolor{NewCovenantGreen}{RGB}{70,110,70}    % Grace / growth
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{pgfornament}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Classical printer's-ornament divider: thin rule — fleuron — thin rule,
+% for a more antique-book feel.
+\newcommand{\ornamentdivider}[1][2in]{%
+  {\color{ScriptureGold}\rule{#1}{0.4pt}}\hspace{0.15cm}%
+  \raisebox{-0.22cm}{\pgfornament[width=0.5cm,color=ScriptureGold]{88}}%
+  \hspace{0.15cm}{\color{ScriptureGold}\rule{#1}{0.4pt}}%
+}
+
+% A single small fleuron (no rules), used standalone on the full-bleed
+% cover pages and the dedication/colophon pages.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.55cm,color=#1]{88}%
+}
+
+% Classical double-rule (hairline) frame — replaces solid fcolorbox fills
+% with a manuscript/antique-book-plate style surround.
+\newcommand{\classicalframe}[1]{%
+\begin{tikzpicture}
+  \node[fill=ScriptureBg,inner sep=14pt] (box) {#1};
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-3pt,-3pt)$$) rectangle ($$(box.north east)+(3pt,3pt)$$);
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-6pt,-6pt)$$) rectangle ($$(box.north east)+(6pt,6pt)$$);
+\end{tikzpicture}%
+}
+
+% Laurel-wreath-and-cross symbol — two laurel branches curving inward
+% (echoing Roman imperial imagery and Romans 8:37 "more than conquerors")
+% with a small cross at the top center. Simple line-drawing style,
+% consistent with the file's other minimalist gold TikZ ornaments.
+\newcommand{\laurelcrosssymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  % small cross at top center
+  \draw[color=ScriptureGold,line width=1pt] (0,0.55) -- (0,1.15);
+  \draw[color=ScriptureGold,line width=1pt] (-0.22,0.95) -- (0.22,0.95);
+  % left laurel branch — a curved spine with short leaf strokes
+  \draw[color=ScriptureGold,line width=0.9pt]
+    (-0.15,0.5) .. controls (-0.55,0.35) and (-0.75,0.0) .. (-0.7,-0.6);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.25,0.42) -- (-0.45,0.55);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.4,0.22) -- (-0.62,0.32);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.55,-0.02) -- (-0.78,0.06);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.65,-0.28) -- (-0.9,-0.22);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.7,-0.55) -- (-0.96,-0.52);
+  % right laurel branch — mirror
+  \draw[color=ScriptureGold,line width=0.9pt]
+    (0.15,0.5) .. controls (0.55,0.35) and (0.75,0.0) .. (0.7,-0.6);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.25,0.42) -- (0.45,0.55);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.4,0.22) -- (0.62,0.32);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.55,-0.02) -- (0.78,0.06);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.65,-0.28) -- (0.9,-0.22);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.7,-0.55) -- (0.96,-0.52);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+
+% Navy gradient for the full-bleed cover background — deep navy to a
+% lighter blue, full-bleed. `shading angle` requires a reasonably recent
+% pgf; this TeX Live 2026 install supports it, but the plain two-color
+% left-right shade is kept in a comment as the documented fallback.
+\definecolor{NavyDeep}{RGB}{12,24,52}
+\definecolor{NavyLight}{RGB}{38,68,120}
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[shading angle=115, left color=NavyDeep, right color=NavyLight]
+        (current page.south west) rectangle (current page.north east);
+    \end{tikzpicture}%
+  }%
+}
+% Fallback (uncomment if `shading angle` errors on a different TeX Live):
+% \newcommand{\CoverBackground}{%
+%   \AddToShipoutPictureBG*{%
+%     \begin{tikzpicture}[remember picture,overlay]
+%       \shade[left color=NavyDeep, right color=NavyLight]
+%         (current page.south west) rectangle (current page.north east);
+%     \end{tikzpicture}%
+%   }%
+% }
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook (after page
+% content) using the page's own bounding box.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{198,163,92}
+\definecolor{CoverMuted}{RGB}{188,183,166}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 10pt
+    {\color{ScriptureGold}\hrule height 0.6pt}\vskip 1.5pt{\color{ScriptureGold}\hrule height 0.6pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 0.6pt}\vskip 1.5pt{\color{ScriptureGold}\hrule height 0.6pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% \paul MACRO - speaker tag used in chapter Scripture sections
+%% ============================================
+\newcommand{\paul}[1]{\textbf{#1}}
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{1.0cm}
+
+\laurelcrosssymbol
+
+\vspace{0.45cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 因信得生}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} Justified to Live by Faith}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 羅馬書研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the Epistle to the Romans}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.5in}
+\centering
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+我不以福音為恥；這福音本是神的大能，要救一切相信的，\\
+先是猶太人，後是希利尼人。因為神的義正在這福音上顯明出來；\\
+這義是本於信，以致於信。如經上所記：「義人必因信得生。」\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} For I am not ashamed of the gospel, for it is the power of God\\
+for salvation to everyone who believes, to the Jew first and also to the Greek.\\
+For in it the righteousness of God is revealed from faith for faith,\\
+as it is written, ``The righteous shall live by faith.''}\\
+{\footnotesize\color{CoverCream} — 羅馬書 1:16-17 \textbullet\ {\baskervillefont Romans 1:16-17}}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 神的義}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} "The Righteousness of God" (Romans 1:17)}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 因信得生}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} Justified to Live by Faith}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Structure diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 羅馬書結構}\\[0.1cm]
+{\normalsize Structure of Romans}
+
+\vspace{0.5cm}
+
+% Seven-part flow structure, two rows
+\begin{tikzpicture}[scale=0.82,transform shape]
+  \node[draw=ChapterBlue,fill=ChapterBlue!8,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (0,2) {\textbf{引言} \\ Introduction \\ {\small 1:1-17}};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!8,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (4.2,2) {\textbf{定罪} \\ Condemnation \\ {\small 1:18-3:20}};
+  \node[draw=ScriptureGold,fill=ScriptureGold!12,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (8.4,2) {\textbf{稱義} \\ Justification \\ {\small 3:21-5:21}};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (12.6,2) {\textbf{成聖} \\ Sanctification \\ {\small 6:1-8:39}};
+
+  \draw[->,thick,color=ChapterBlue] (1.8,2) -- (2.4,2);
+  \draw[->,thick,color=ChapterBlue] (6.0,2) -- (6.6,2);
+  \draw[->,thick,color=ChapterBlue] (10.2,2) -- (10.8,2);
+
+  \node[draw=ChapterBlue,fill=ChapterBlue!8,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (2.1,-0.6) {\textbf{揀選} \\ Election \\ {\small 9:1-11:36}};
+  \node[draw=ScriptureGold,fill=ScriptureGold!12,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (6.3,-0.6) {\textbf{生活} \\ Life \\ {\small 12:1-15:13}};
+  \node[draw=ChapterBlue,fill=ChapterBlue!8,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (10.5,-0.6) {\textbf{結語} \\ Conclusion \\ {\small 15:14-16:27}};
+
+  \draw[->,thick,color=ChapterBlue] (3.9,-0.6) -- (4.5,-0.6);
+  \draw[->,thick,color=ChapterBlue] (8.1,-0.6) -- (8.7,-0.6);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+{\footnotesize\color{LightGray} 因信得救的次第 · The Sequence of Salvation by Faith}
+
+\vspace{0.25cm}
+
+% Roman Road chain diagram — dots are pure visual markers; verse refs
+% are placed as separate nodes below each dot (never on top of it), so
+% label font size is independent of the dot's physical size.
+\begin{tikzpicture}[scale=0.9,transform shape]
+  \foreach \x/\ref in {0/1:16-17,2.8/3:23,5.6/3:24-25,8.4/5:8,11.2/6:23,14.0/10:9-10} {
+    \fill[ScriptureGold] (\x,0) circle (0.22);
+    \node[font=\footnotesize,color=TextGray,align=center] at (\x,-0.55) {\ref};
+  }
+  \draw[ScriptureGold,line width=1.2pt] (0.22,0) -- (2.58,0);
+  \draw[ScriptureGold,line width=1.2pt] (3.02,0) -- (5.38,0);
+  \draw[ScriptureGold,line width=1.2pt] (5.82,0) -- (8.18,0);
+  \draw[ScriptureGold,line width=1.2pt] (8.62,0) -- (10.98,0);
+  \draw[ScriptureGold,line width=1.2pt] (11.42,0) -- (13.78,0);
+\end{tikzpicture}
+
+\vspace{0.7cm}
+
+{\footnotesize\color{LightGray} 「因為神的義正在這福音上顯明出來」— 羅馬書 1:17}
+\end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給每一個聽見「但如今」，\\
+卻仍不敢相信自己已被稱義的人。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+To everyone who has heard the words ``but now''\\
+--- and still finds it hard to believe\\
+they have already been justified.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 但如今，神的義……已經顯明出來。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} ``But now the righteousness of God has been made known...'' --- Romans 3:21}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{羅馬書研讀 / Romans Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文經文以和合本修訂版（RCUV）為主，部分章節因原始資料來源限制，經核實後改用和合本（CUV）；各章實際版本來源請見附錄二（99-appendix-references.md）逐章說明。\\
+Chinese Scripture is primarily RCUV, with some chapters using verified CUV as a documented fallback where RCUV could not be reliably sourced; see the references appendix for the exact per-chapter breakdown.\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃長老查經方法論與神學框架之應用（本書無對應之黃長老羅馬書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
+\textbullet\ John MacArthur - MacArthur New Testament Commentary (gty.org)\\
+\textbullet\ G. Campbell Morgan\\[0.8em]
+
+\textbf{核心主題 / Central Theme}\\
+保羅寫給羅馬教會最系統的一封信——從普世的罪，到因信稱義的恩典，到聖靈中得勝的新生命，直到教會如何在世上活出這福音。\\
+Paul's most systematic letter --- from universal sin, to the grace of justification by faith, to victorious new life in the Spirit, to how the church lives out this gospel in the world.\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你站立的根基，是自己的行為，還是基督的義？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} What is the ground you stand on --- your own works, or the righteousness of Christ?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.2cm}
+\begin{center}
+{\large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$Δικαιοσύνη Θεοῦ$endif$}\\[0.08cm]
+{\itshape\footnotesize\color{CoverMuted} {\baskervillefont "The Righteousness of God"} · 神的義——全書貫穿的鑰字}
+
+\vspace{0.22cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.22cm}
+
+{\normalsize\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\normalsize\color{CoverGoldBright} About This Book}
+
+\vspace{0.2cm}
+
+\begin{minipage}{5in}
+\setlength{\parskip}{0.15em}
+\footnotesize\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀羅馬書全書十六章，並附索引與參考資料附錄，整合黃長老一貫的查經方法論與以基督為中心的神學框架（本書並無對應之黃長老羅馬書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道，以及 G. Campbell Morgan 的屬靈與結構分析。全信的軌跡，從全人類普世的罪、到因信稱義而不靠行為、到聖靈能力中的成聖生命、到神向以色列信實不變的揀選，直到一個被福音塑造的群體在世上當有的實際樣式——保羅寫給羅馬教會最系統的一封信，在這裡逐章展開。
+
+{\baskervillefont\color{CoverCream} chapter-by-chapter study of all sixteen chapters of Romans, with index and references appendices, integrating Elder Wong's documented Bible-study methodology and Christ-centered theological framework (this book has no corresponding verse-by-verse Elder Wong teaching notes on Romans itself --- an honest disclosure detailed in the appendix), alongside John MacArthur's verse-by-verse exposition and G. Campbell Morgan's spiritual and structural analysis. The letter's arc unfolds chapter by chapter: from the universal guilt of all humanity, through justification by faith apart from works, through the Spirit-empowered life of sanctification, through God's sovereign faithfulness to Israel, to the practical shape of a gospel-formed community in the world --- Paul's most systematic letter, traced here in full.}
+$endif$
+\end{minipage}
+
+\vspace{0.22cm}
+
+{\footnotesize\bfseries\color{CoverCream} 羅馬大道}\qquad{\baskervillefont\itshape\footnotesize\color{CoverGoldBright} The Roman Road}
+
+\vspace{0.15cm}
+
+\begin{minipage}{4.9in}
+\footnotesize\color{CoverCream}
+\begin{tabular}{@{}cp{3.6in}l@{}}
+① & 神的義藉福音顯明 \textit{\baskervillefont\color{CoverCream} The righteousness of God revealed in the gospel} & {\footnotesize\color{CoverMuted} 1:16-17}\\[0.12em]
+② & 世人都虧缺了神的榮耀 \textit{\baskervillefont\color{CoverCream} All have sinned and fall short of God's glory} & {\footnotesize\color{CoverMuted} 3:23}\\[0.12em]
+③ & 因基督的救贖，白白稱義 \textit{\baskervillefont\color{CoverCream} Justified freely through the redemption in Christ} & {\footnotesize\color{CoverMuted} 3:24-25}\\[0.12em]
+④ & 神的愛在此就顯明了 \textit{\baskervillefont\color{CoverCream} God's love shown while we were still sinners} & {\footnotesize\color{CoverMuted} 5:8}\\[0.12em]
+⑤ & 罪的工價是死；神的恩賜是永生 \textit{\baskervillefont\color{CoverCream} The wages of sin is death; God's gift is eternal life} & {\footnotesize\color{CoverMuted} 6:23}\\[0.12em]
+⑥ & 心裡相信，口裡承認，就必得救 \textit{\baskervillefont\color{CoverCream} Confess and believe, and you will be saved} & {\footnotesize\color{CoverMuted} 10:9-10}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.22cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+
+\vspace{0.18cm}
+
+\begin{minipage}{4.3in}
+\centering
+\footnotesize\itshape\color{CoverCream}
+我不以福音為恥；這福音本是神的大能，要救一切相信的，先是猶太人，後是希利尼人。因為神的義正在這福音上顯明出來；這義是本於信，以致於信。如經上所記：「義人必因信得生。」\\[0.15em]
+{\baskervillefont\footnotesize\color{CoverCream} For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith, as it is written, ``The righteous shall live by faith.''}\\
+{\footnotesize\color{CoverCream} --- 羅馬書 1:16-17 \textbullet\ {\baskervillefont Romans 1:16-17}}
+\end{minipage}
+
+\vspace{0.18cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+
+\vspace{0.4cm}
+
+{\footnotesize\color{CoverMuted} \S\ Romans Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}

@@ -1,6 +1,6 @@
 % PubHub Genesis Template
 % Professional Bible Study Book Layout
-% Bilingual Chinese/English with Hebrew word studies
+% Bilingual Chinese/English with Hebrew and Greek word studies
 % Requires XeLaTeX for CJK support
 
 \documentclass[11pt,openany]{book}
@@ -17,9 +17,12 @@
 \setsansfont{PingFang SC}
 \setmonofont{Menlo}
 
-%% Hebrew font support - auto-switch for Hebrew Unicode blocks
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
 \usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
 \newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
 \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
 
 %% Enable CJK line breaking - critical for Chinese text
@@ -73,6 +76,7 @@
 % Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
+\definecolor{CoverCream}{RGB}{250,248,242}
 
 %% ============================================
 %% MATH AND SYMBOLS
@@ -276,26 +280,72 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
+% Cover frame: full-bleed cream background + gold/navy double border + corner ornament
+% Page is fixed at 7in x 10in, see geometry settings above. Coordinates are
+% relative to the page south-west corner via an explicit shift, deliberately
+% avoiding the TikZ calc-library dollar-sign coordinate syntax, since pandoc's
+% own templating language also uses dollar signs and would misparse it.
+\newcommand{\coverframe}{%
+  \begin{tikzpicture}[remember picture,overlay,shift={(current page.south west)}]
+    \fill[CoverCream] (0,0) rectangle (7in,10in);
+    \draw[ScriptureGold,line width=2pt] (0.32in,0.32in) rectangle (6.68in,9.68in);
+    \draw[ChapterBlue,line width=0.4pt] (0.4in,0.4in) rectangle (6.6in,9.6in);
+    % Corner ornament, bottom-left
+    \foreach \dx/\dy/\r in {0/0/0.05, 0.14/0/0.035, 0/0.14/0.035, 0.24/0.08/0.025} {
+      \fill[ScriptureGold] (0.32in+\dx in,0.32in+\dy in) circle (\r in);
+    }
+  \end{tikzpicture}%
+}
+
+% Sunburst emblem: "let there be light" (Genesis 1:3)
+\newcommand{\sunburstemblem}{%
+  \begin{tikzpicture}[scale=0.62]
+    \draw[ScriptureGold,line width=0.4pt] (0,0) circle (1.15);
+    \foreach \a in {0,15,...,345} {
+      \draw[ScriptureGold,line width=0.6pt] (\a:0.55) -- (\a:1.0);
+    }
+    \fill[ChapterBlue] (0,0) circle (0.32);
+    \node[font=\tiny\bfseries,color=CoverCream] at (0,0) {אוֹר};
+  \end{tikzpicture}%
+}
+
 % Title page
 \begin{titlepage}
 \thispagestyle{empty}
+\coverframe
 \begin{center}
-\vspace*{0.5cm}
+\vspace*{1.1cm}
 
-% Decorative star and line
-\starsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
+{\small\scshape\color{ChapterBlue} Three Books Deep Reading \textbullet\ Genesis}\\[0.1cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 創世記深度研讀}
+
+\vspace{0.35cm}
+{\color{ScriptureGold}\rule{1in}{0.5pt}}\hspace{0.15cm}{\color{ScriptureGold}\textbullet\ \textbullet}\hspace{0.15cm}{\color{ScriptureGold}\rule{1in}{0.5pt}}
+\vspace{0.35cm}
+
+{\normalsize\itshape\color{TextGray} The Book of Beginnings \textbullet\ 起初之書：從太初看見創造與救贖}
+
+\vspace{0.7cm}
+
+\sunburstemblem
+
+\vspace{0.5cm}
+{\color{ScriptureGold}\rule{2.2in}{0.6pt}}
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterBlue} 起初之書}\\[0.15cm]
+{\large\itshape\color{LightGray} The Book of Beginnings}
+
+\vspace{0.5cm}
+
+% Book title
+{\fontsize{20}{26}\selectfont\bfseries 創世記研讀}\\[0.15cm]
+{\normalsize A Study of Genesis}
 
 \vspace{0.4cm}
 
-% Main title
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 起初之書}\\[0.2cm]
-{\large\itshape\color{LightGray} The Book of Beginnings}
-
-\vspace{0.6cm}
-
-% Book title
-{\fontsize{22}{28}\selectfont\bfseries 創世記研讀}\\[0.15cm]
-{\normalsize A Study of Genesis}
+{\large בְּרֵאשִׁית}\quad{\normalsize\itshape "In the Beginning"}\quad{\normalsize\color{red!60!black} 起初}
 
 \vspace{0.5cm}
 
@@ -312,100 +362,17 @@ heavens and the earth. — Genesis 1:1
 \end{minipage}
 }
 
-\vspace{0.4cm}
-
-% Patriarch Journey Map (TikZ drawn)
-\begin{tikzpicture}[scale=0.55]
-  % Title
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (3,7.2) {族長之旅 Patriarchs' Journey};
-
-  % Mediterranean Sea (left side)
-  \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
-  \node[font=\tiny,color=ChapterBlue,rotate=90] at (-0.5,3.5) {Mediterranean};
-
-  % Land area
-  \fill[LandBeige] (0.5,0) rectangle (7,6.5);
-
-  % Mesopotamia (right side)
-  \fill[DesertTan] (5.5,4) rectangle (7,6.5);
-  \node[font=\tiny,color=CommentaryBrown] at (6.25,5.5) {Mesopotamia};
-
-  % Egypt (bottom left)
-  \fill[DesertTan] (0.5,0) rectangle (2.5,1.5);
-  \node[font=\tiny,color=CommentaryBrown] at (1.5,0.8) {Egypt};
-
-  % Rivers
-  \draw[WaterBlue,line width=1.5pt] (6.5,6.5) -- (6.3,5) -- (6.8,3.5);
-  \draw[WaterBlue,line width=1.5pt] (5.8,6.5) -- (5.5,5) -- (5.8,3.5);
-
-  % Jordan River
-  \draw[WaterBlue,line width=1pt] (3.5,4.5) -- (3.3,3) -- (3.5,1.5);
-
-  % Key locations
-  \fill[ScriptureGold] (6.2,5.8) circle (0.1);
-  \node[font=\tiny,right,color=TextGray] at (6.3,5.8) {Ur 吾珥};
-
-  \fill[ScriptureGold] (5.5,5.2) circle (0.1);
-  \node[font=\tiny,left,color=TextGray] at (5.4,5.2) {Haran 哈蘭};
-
-  \fill[ScriptureGold] (3.2,3.5) circle (0.1);
-  \node[font=\tiny,left,color=TextGray] at (3.1,3.5) {Shechem 示劍};
-
-  \fill[ScriptureGold] (3.0,2.8) circle (0.1);
-  \node[font=\tiny,left,color=TextGray] at (2.9,2.8) {Bethel 伯特利};
-
-  \fill[red!70!black] (2.8,2.2) circle (0.12);
-  \node[font=\tiny\bfseries,left,color=red!70!black] at (2.7,2.2) {Hebron 希伯崙};
-
-  \fill[ScriptureGold] (1.5,1.2) circle (0.1);
-  \node[font=\tiny,color=TextGray] at (1.5,0.5) {Goshen 歌珊};
-
-  % Journey arrows
-  \draw[->,color=CreationGreen,line width=1pt] (6.2,5.6) -- (5.6,5.3);
-  \draw[->,color=CreationGreen,line width=1pt] (5.4,5.0) -- (3.4,3.6);
-  \draw[->,color=CreationGreen,line width=1pt] (3.0,3.4) -- (2.9,2.4);
-  \draw[->,color=CreationGreen,line width=1pt,dashed] (2.7,2.0) -- (1.7,1.3);
-
-  % Compass
-  \draw[->,thick,color=ChapterBlue] (0.8,5.8) -- (0.8,6.3);
-  \node[font=\tiny,color=ChapterBlue] at (0.8,6.5) {N};
-
-\end{tikzpicture}
-
 \vspace{0.3cm}
 
-% Structure diagram (Toledot)
-\begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.8) {Toledot Structure 家譜結構};
+{\color{ScriptureGold}\rule{2.2in}{0.6pt}}
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (-3,1.5) {Creation};
-  \node[font=\tiny,color=LightGray] at (-3,1.1) {1-2};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (-1,1.5) {Fall};
-  \node[font=\tiny,color=LightGray] at (-1,1.1) {3-11};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (1,1.5) {Abraham};
-  \node[font=\tiny,color=LightGray] at (1,1.1) {12-25};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (3,1.5) {Jacob};
-  \node[font=\tiny,color=LightGray] at (3,1.1) {25-36};
-
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.5cm,font=\tiny] at (0,0.3) {Joseph 約瑟};
-  \node[font=\tiny,color=LightGray] at (0,-0.1) {37-50};
-
-  \draw[->,color=ScriptureGold,thick] (-2,1.5) -- (-1.8,1.5);
-  \draw[->,color=ScriptureGold,thick] (-0.2,1.5) -- (0.2,1.5);
-  \draw[->,color=ScriptureGold,thick] (1.8,1.5) -- (2.2,1.5);
-  \draw[->,color=ScriptureGold,thick] (0,0.85) -- (0,0.6);
-\end{tikzpicture}
-
-\vfill
+\vspace{0.35cm}
 
 % Equation
 {\normalsize\color{ScriptureGold}\bfseries 創造 + 墮落 + 揀選 = 救贖}\\[0.1cm]
 {\footnotesize\color{LightGray} Creation + Fall + Election = Redemption}
 
-\vspace{0.5cm}
+\vspace{0.6cm}
 
 $if(author)$
 {\normalsize $author$}\\[0.3cm]
@@ -642,7 +609,7 @@ $endif$
 \fcolorbox{ScriptureGold}{ScriptureBg}{%
 \begin{minipage}{5in}
 \small\color{CommentaryBrown}
-\textbf{神學意義}：當亞伯拉罕蒙召離開吾珥時，中國正進入夏朝，埃及正建造金字塔。神揀選一人、一族、一國，為要祝福「地上的萬族」（創12:3）。救贖歷史從一個家庭開始，終將涵蓋全人類。
+\textbf{從中領受}：當亞伯拉罕蒙召離開吾珥時，中國正進入夏朝，埃及正建造金字塔。神揀選一人、一族、一國，為要祝福「地上的萬族」（創12:3）。救贖歷史從一個家庭開始，終將涵蓋全人類。
 \end{minipage}
 }
 
@@ -759,5 +726,48 @@ $endif$
 \mainmatter
 
 $body$
+
+%% --------------------------------------------
+%% BACK COVER
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\coverframe
+\vspace*{\fill}
+\begin{center}
+{\Large $if(backcover-symbol)$$backcover-symbol$$else$בְּרֵאשִׁית$endif$}\\[0.1cm]
+{\small\itshape\color{LightGray} "In the Beginning" · 起初}
+
+\vspace{0.8cm}
+
+\starsymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\starsymbol
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterBlue} 關於本書}\qquad{\large\bfseries\color{ChapterBlue} About This Book}
+
+\vspace{0.5cm}
+
+\begin{minipage}{5in}
+\small\color{TextGray}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀創世記全書十六章，並加上第十七章作為橋樑篇，追蹤創世記的應許如何在出埃及記與約書亞記中開始實現，整合黃長老查經教導、John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，並以約翰福音1:1-18與希伯來書為理解創世記的鑰匙，貫通聖約、揀選、人類政府與救贖歷史的整體軌跡。全書以創世記1:1與50:26為首尾框架：從「起初，神創造天地」的道，到約瑟「一具棺材在埃及」的盼望，一以貫之，指向那位「昔在、今在、以後永在」的主。
+
+A chapter-by-chapter study of all sixteen chapters of Genesis, plus a seventeenth bridging chapter tracing how Genesis's promises begin their fulfillment in Exodus and Joshua, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition, and G. Campbell Morgan's spiritual analysis, framed throughout by John 1:1-18 and Hebrews as the key to reading Genesis within God's whole redemptive plan. The whole book is bookended by Genesis 1:1 and 50:26 — from the Word who spoke creation into being, to Joseph's coffin in Egypt, sealed in hope, pointing to the One who was, and is, and is to come.
+$endif$
+\end{minipage}
+
+\vspace{1cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
 
 \end{document}

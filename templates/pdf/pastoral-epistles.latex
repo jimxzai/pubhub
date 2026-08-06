@@ -1,0 +1,719 @@
+% PubHub 2 Timothy Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Songti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\newfontfamily\cjkfallbackfont{Songti SC}
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+\setTransitionsFor{Han}{\cjkfallbackfont}{\normalfont}
+
+%% Classical Latin display faces (English titling/body accents only —
+%% CJK body text stays on Songti SC/Kaiti SC above; these are opt-in via
+%% explicit \baskervillefont / \didotfont, never a global font swap)
+\newfontfamily\baskervillefont{Baskerville}
+\newfontfamily\didotfont{Didot}
+
+%% Ornamental flourishes and drop caps (classical book conventions)
+\usepackage{pgfornament}
+\usepackage{lettrine}
+\setcounter{DefaultLines}{3}
+\renewcommand{\LettrineFontHook}{\color{ChapterBlue}\bfseries}
+\setlength{\DefaultFindent}{2pt}
+\setlength{\DefaultNindent}{2pt}
+
+% A single shared fleuron divider, replacing plain \rule dividers
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.55cm,color=#1]{88}%
+}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+
+% Full-bleed dark background, painted in the shipout background hook so
+% it bleeds to the true physical page edge and does not disturb the
+% \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{\color{ChapterBlue}\rule{\paperwidth}{\paperheight}}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook (after page
+% content) using the page's own bounding box.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{198,163,92}
+\definecolor{CoverMuted}{RGB}{188,183,166}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Pastoral Epistles Theme (Forest Green/Amber, Shepherd's Staff)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - unifying "三提" synthesis theme (antique/muted register)
+\definecolor{ChapterBlue}{RGB}{28,48,36}          % Deep bottle/hunter green for chapters (kept name for macro compatibility)
+\definecolor{ScriptureGold}{RGB}{150,115,55}      % Aged brass for scripture refs / shepherd's staff
+\definecolor{CommentaryBrown}{RGB}{75,52,30}      % Warm brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{250,250,244}       % Warm cream for scripture boxes
+\definecolor{GreekBg}{RGB}{244,248,245}           % Faint green for Greek
+\definecolor{ApplicationBg}{RGB}{248,250,246}     % Light sage for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Diagram colors
+\definecolor{OldCovenantRed}{RGB}{150,40,40}      % Warning / conflict
+\definecolor{NewCovenantGreen}{RGB}{70,110,70}    % Grace / growth
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Shepherd's staff symbol (unifying pastoral-ministry motif)
+\newcommand{\crownsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ScriptureGold,line width=1.2pt] (0,-1) -- (0,0.8);
+  \draw[color=ScriptureGold,line width=1.2pt] (0,0.8) .. controls (0,1.3) and (-0.55,1.3) .. (-0.55,0.75);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% \paul MACRO - speaker tag used in chapter Scripture sections
+%% ============================================
+\newcommand{\paul}[1]{\textbf{#1}}
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{1.1cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Decorative fleuron
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{40}{46}\selectfont\bfseries\color{CoverCream} 盡職}\\[0.25cm]
+{\didotfont\itshape\large\color{CoverGoldBright} Fulfilling My Ministry}\\[0.05cm]
+{\didotfont\itshape\normalsize\color{CoverCream} The Three Pastoral Epistles Together}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{20}{26}\selectfont\bfseries\color{CoverCream} 三提合參：盡職事奉的四大點}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Combined Study of 1 Timothy, 2 Timothy \& Titus}
+
+\vspace{0.6cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{center}
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+你却要凡事谨慎，忍受苦难，做传道的工夫，\\
+尽你的职分。\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} As for you, always be sober-minded, endure suffering,\\
+do the work of an evangelist, fulfill your ministry.\\
+— 2 Timothy 4:5}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\end{minipage}
+\end{center}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 我知道我所信的是誰}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} "I know whom I have believed" (2 Tim 1:12)}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 盡職}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} Fulfilling My Ministry}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Thematic diagrams page — the two framework diagrams, moved off the
+% title page so the frontispiece stays typographically clean
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 盡職四大點與三提合一}\\[0.1cm]
+{\baskervillefont\itshape\normalsize Four Points of Ministry \& The Three Letters as One}
+
+\vspace{0.5cm}
+
+% Elder Wong's Four Points of Fulfilling Ministry
+\begin{tikzpicture}[scale=0.66]
+  \node[font=\small\bfseries,color=ChapterBlue] at (7,4.1) {盡職四大點 Four Points of Fulfilling Ministry};
+  \node[font=\footnotesize,color=LightGray] at (7,3.55) {黃長老查經筆記 · 「法則：三提」（2024/4/18）};
+
+  \node[draw=ScriptureGold,line width=0.6pt,minimum width=4.1cm,minimum height=1.9cm,inner sep=3pt,align=center,font=\small] at (0,1.7) {\textbf{①} \\ 恩賜挑旺起來 \\ {\tiny 提前4:14 · 提後1:6}};
+  \node[draw=ScriptureGold,line width=0.6pt,minimum width=4.1cm,minimum height=1.9cm,inner sep=3pt,align=center,font=\small] at (4.9,1.7) {\textbf{②} \\ 善道靠聖靈\\守住 \\ {\tiny 提前1:5 · 提後1:14}};
+  \node[draw=ScriptureGold,line width=0.6pt,minimum width=4.1cm,minimum height=1.9cm,inner sep=3pt,align=center,font=\small] at (9.8,1.7) {\textbf{③} \\ 恩典上剛強 \\ {\tiny 多2:11-12 · 提後2:1}};
+  \node[draw=ScriptureGold,line width=0.6pt,minimum width=4.1cm,minimum height=1.9cm,inner sep=3pt,align=center,font=\small] at (14.7,1.7) {\textbf{④} \\ 無愧的工人\\按正意分解 \\ {\tiny 多1:9 · 提後2:15}};
+
+  \draw[->,thick,color=ChapterBlue] (2.2,1.7) -- (2.75,1.7);
+  \draw[->,thick,color=ChapterBlue] (7.05,1.7) -- (7.6,1.7);
+  \draw[->,thick,color=ChapterBlue] (11.95,1.7) -- (12.5,1.7);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Three books converging - "三提" unity diagram
+\begin{tikzpicture}[scale=0.7]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (5.3,1.7) {三提合一 The Three Letters as One};
+
+  \node[draw=ScriptureGold,line width=0.6pt,minimum width=2.6cm,minimum height=0.9cm,font=\tiny] at (0,0.6) {提摩太前書};
+  \node[draw=ScriptureGold,line width=0.6pt,minimum width=2.6cm,minimum height=0.9cm,font=\tiny] at (0,-0.6) {提摩太後書};
+  \node[draw=ScriptureGold,line width=0.6pt,minimum width=2.6cm,minimum height=0.9cm,font=\tiny] at (0,-1.8) {提多書};
+
+  \node[draw=ChapterBlue,line width=0.6pt,minimum width=5.4cm,minimum height=1.5cm,align=center,font=\scriptsize,text width=5cm,inner sep=4pt] at (6.6,-0.6) {神的國放在第一位\\長老制會：問題．盡忠．執行\\{\tiny 黃長老 2024/5/23 查經筆記}};
+
+  \draw[->,thick,color=ScriptureGold] (1.4,0.6) -- (3.5,-0.35);
+  \draw[->,thick,color=ScriptureGold] (1.4,-0.6) -- (3.5,-0.6);
+  \draw[->,thick,color=ScriptureGold] (1.4,-1.8) -- (3.5,-0.85);
+\end{tikzpicture}
+
+\end{center}
+\cleardoublepage
+
+% Overview diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 三提十三章一覽}\\[0.1cm]
+{\baskervillefont\itshape\normalsize The Thirteen Chapters of the Three Pastoral Epistles}
+
+\vspace{0.4cm}
+
+\begin{tikzpicture}[scale=0.62]
+  \node[anchor=south,font=\small\bfseries,color=ChapterBlue] at (0,2.7) {提摩太前書 1 Timothy};
+  \foreach \x/\txt in {0/1 假教師,2.1/2 禱告,4.2/3 監督,6.3/4 敬虔,8.4/5 寡婦,10.5/6 財富} {
+    \node[draw=ChapterBlue,line width=0.5pt,minimum width=1.9cm,minimum height=1cm,font=\tiny] at (\x,1.7) {\txt};
+  }
+
+  \node[anchor=south,font=\small\bfseries,color=ScriptureGold!85!black] at (0,0.2) {提摩太後書 2 Timothy};
+  \foreach \x/\txt in {0/1 挑旺,2.1/2 精兵,4.2/3 末世,6.3/4 囑咐} {
+    \node[draw=ScriptureGold,line width=0.5pt,minimum width=1.9cm,minimum height=1cm,font=\tiny] at (\x,-0.8) {\txt};
+  }
+
+  \node[anchor=south,font=\small\bfseries,color=NewCovenantGreen] at (0,-2.3) {提多書 Titus};
+  \foreach \x/\txt in {0/1 長老,2.1/2 教訓,4.2/3 善行} {
+    \node[draw=NewCovenantGreen,line width=0.5pt,minimum width=1.9cm,minimum height=1cm,font=\tiny] at (\x,-3.3) {\txt};
+  }
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Clean conscience thread across the three letters
+{\large\bfseries\color{ChapterBlue} 清潔的良心——貫穿三提的一條線}\\
+{\baskervillefont\itshape\small\color{LightGray} The Clean Conscience — One Thread Through All Three Letters}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.85]
+  \foreach \x/\txt in {0/提前1:5,2.6/提前3:9,5.2/多1:15,7.8/提後1:3} {
+    \fill[ScriptureGold] (\x,0) circle (0.3);
+    \node[font=\tiny,color=TextGray,align=center] at (\x,-0.7) {\txt};
+  }
+  \draw[ScriptureGold,line width=1.5pt] (0.3,0) -- (7.5,0);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} 黃長老 2025/3/20 查經筆記：與來10:22、林後1:12 並列串讀，同一屬靈原則}
+
+\vspace{0.6cm}
+
+{\footnotesize\color{LightGray} 「你却要凡事谨慎，忍受苦难，做传道的工夫，尽你的职分。」— 提摩太後書 4:5}
+\end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給那些默默守住所交託之物、\\
+並將其傳下去的人——}
+
+\vspace{0.5cm}
+
+{\itshape\normalsize\color{CommentaryBrown}
+牧者、長老，\\
+以及每一位在神所安放之處，\\
+努力盡自己職分的平凡信徒。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+To those who quietly guard what was entrusted to them,\\
+and pass it on —\\[0.25em]
+pastors, elders,\\
+and every believer simply trying to fulfil their ministry\\
+wherever God has placed them.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 你在許多見證人面前聽見我所教訓的，也要交託那忠心能教導別人的人。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} ``...what you have heard from me... entrust to faithful men who will be able to teach others also.'' --- 2 Timothy 2:2}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{三提合參：盡職事奉的四大點 / The Pastoral Epistles Together}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{關於本卷 / About This Volume}\\
+本卷為合參綜合本，非逐字合併三本獨立研讀（提摩太前書、提摩太後書、提多書各有其獨立成書，見同系列另三冊）。\\
+This is a thematic synthesis volume, not a page-for-page merge of the three standalone studies (1 Timothy, 2 Timothy, and Titus each have their own separate volume in this series).\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+各書所標版本並不完全一致（詳見附錄「參考資料」誠實說明）：中文以和合本 (CUV) 為主，部分章節標示和合本修訂版 (RCUV)；English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃長老 Thursday 查經筆記 (2024-2025)——「盡職四大點」「三提合一」「清潔的良心」等真實查經框架\\
+\textbullet\ John MacArthur - MacArthur New Testament Commentary\\
+\textbullet\ G. Campbell Morgan\\[0.8em]
+
+\textbf{核心主題 / Central Theme}\\
+神的國放在第一位；三提串成一體：問題、盡忠、執行；盡職事奉的四大點，貫穿三卷書信。\\
+Put God's Kingdom first; the three letters as one movement: the problem, faithfulness, and execution; the four points of fulfilling ministry running through all three books.\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\clearpage
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你正在讀一本關於服事的書，還是正在盡自己的職分？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Are you reading about ministry --- or fulfilling yours?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.5cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$διακονία$endif$}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "Ministry"} · 盡職——三提共同的呼召}
+
+\vspace{0.45cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.45cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.45cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書是三提（提摩太前書、提摩太後書、提多書）合參綜合本，以一篇新寫的〈三提合參〉領受總綱開卷，貫串黃長老 Thursday 查經筆記中真實反覆重述的「盡職四大點」服事框架（恩賜挑旺起來、善道靠聖靈守住、恩典上剛強、無愧的工人按正意分解真道），以及他所說「神的國放在第一位」「長老制會：問題、盡忠、執行」「清潔的良心」貫穿三書的教導線索，並收錄三書共十三章全文與合併參考資料附錄。這不是三本書的機械合訂，而是照著黃長老自己看待這三卷書信的方式——他稱之為「三提」——把它們當作一份完整的牧養教材來領受：一位屬靈父親如何訓練提摩太、差派提多，並在生命的盡頭，把「盡職」的呼召交託下去。
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}T}{his} is a synthesis volume combining 1 Timothy, 2 Timothy, and Titus — opening with a newly written essay tracing Elder Wong's real, recurring "Four Points of Fulfilling Ministry" framework across all three letters, along with his teaching that these three letters together put "God's Kingdom first," establish elder-rule church government through "the problem, faithfulness, and execution," and share one continuous "clean conscience" thread — followed by the complete text of all thirteen chapters and a merged references appendix. This is not a mechanical merge of three books but a synthesis built the way Elder Wong himself treats these letters — as one unit he calls "the three pastorals" ({\normalfont 三提}) — a single training curriculum for ministry: how a spiritual father trains Timothy, commissions Titus, and at the end of his life hands off the charge to fulfil one's ministry.}
+$endif$
+\end{minipage}
+
+\vspace{0.45cm}
+
+{\small\bfseries\color{CoverCream} 盡職四大點}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Four Points of Fulfilling Ministry}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cp{3.6in}l@{}}
+① & 恩賜挑旺起來 \textit{\baskervillefont\color{CoverCream} Fan into flame the gift} & {\tiny\color{CoverMuted} 提前4:14 · 提後1:6}\\[0.3em]
+② & 善道靠聖靈守住 \textit{\baskervillefont\color{CoverCream} Guard the deposit by the Spirit} & {\tiny\color{CoverMuted} 提前1:5 · 提後1:14}\\[0.3em]
+③ & 恩典上剛強 \textit{\baskervillefont\color{CoverCream} Be strong in grace} & {\tiny\color{CoverMuted} 多2:11-12 · 提後2:1}\\[0.3em]
+④ & 無愧的工人按正意分解 \textit{\baskervillefont\color{CoverCream} Rightly handle the word, unashamed} & {\tiny\color{CoverMuted} 多1:9 · 提後2:15}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.45cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 2.3in}
+
+\vspace{0.3cm}
+
+{\normalsize\itshape\color{CoverCream} 我知道我所信的是誰}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "I know whom I have believed" — 2 Timothy 1:12}
+
+\vspace{0.3cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 2.3in}
+
+\vspace{0.4cm}
+
+{\footnotesize\color{CoverMuted} \S\ Combined Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}

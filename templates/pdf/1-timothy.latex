@@ -1,0 +1,714 @@
+% PubHub 1 Timothy Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+% Theme: "教會與傳道人" (The Church and the Minister) — Teal/Gold Pillar Theme
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC Bold,
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+% Menlo has no CJK glyphs and fontspec's FallbackFont does not reach LaTeX's
+% kernel \verbatim environment (catcode changes bypass ucharclasses' script
+% switching), so ASCII-art diagrams mixing Chinese with box-drawing characters
+% render as tofu. Use a CJK-capable font for monospace content instead.
+\setmonofont{Songti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Classical English display faces — used for title-page/cover typography only,
+%% never for CJK body text (which stays on Songti SC/Kaiti SC above).
+\newfontfamily\baskerville{Baskerville}
+\newfontfamily\didotdisplay{Didot}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME — Church & Minister Theme (Teal/Gold)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors — Pillar theme, retuned toward an antique/manuscript register
+\definecolor{ChapterTeal}{RGB}{35,70,68}         % Antique verdigris teal for chapters
+\definecolor{ScriptureGold}{RGB}{146,111,52}     % Aged brass gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{90,62,40}     % Warm brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{251,249,243}      % Parchment cream for scripture boxes
+\definecolor{GreekBg}{RGB}{240,246,245}          % Muted teal wash for Greek
+\definecolor{ApplicationBg}{RGB}{246,248,244}    % Muted sage for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Diagram colors — same antique register
+\definecolor{ChurchTruthBlue}{RGB}{55,80,110}    % Part I: 教會真理
+\definecolor{MinisterGreen}{RGB}{75,105,72}      % Part II: 傳道人
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{pgfornament}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Pillar symbol (柱石) — kept for the diagram page
+\newcommand{\pillarsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ScriptureGold,line width=1.2pt] (-0.5,-1) -- (0.5,-1);
+  \draw[color=ScriptureGold,line width=1.2pt] (-0.35,-1) -- (-0.35,1);
+  \draw[color=ScriptureGold,line width=1.2pt] (0.35,-1) -- (0.35,1);
+  \draw[color=ScriptureGold,line width=1.2pt] (-0.5,1) -- (0.5,1);
+\end{tikzpicture}%
+}
+
+% Classical fleuron divider — replaces the old crosssymbol+rule combination
+\newcommand{\fleuron}[1][1cm]{\pgfornament[width=#1,color=ScriptureGold]{75}}
+\newcommand{\fleurondivider}{%
+  \fleuron[0.9cm]\hspace{0.4cm}{\color{ScriptureGold!70}\rule{1.6in}{0.5pt}}\hspace{0.4cm}\fleuron[0.9cm]%
+}
+
+% Speaker tag for Paul's direct words in Scripture blocks (mirrors \jesus{} convention)
+\newcommand{\paul}[1]{\textcolor{ChapterTeal}{#1}}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+
+% Full-bleed dark background, painted in the shipout background hook so
+% it bleeds to the true physical page edge and does not disturb the
+% \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \AtPageLowerLeft{\color{ChapterTeal}\rule{\paperwidth}{\paperheight}}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{75}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{75}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{75}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{75}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{75}%
+}
+
+% Dark-background variants of \fleuron/\fleurondivider, for cover use only —
+% the plain \fleuron/\fleurondivider stay untouched for interior (white) pages.
+\newcommand{\fleurondark}[1][1cm]{\pgfornament[width=#1,color=CoverGoldBright]{75}}
+\newcommand{\fleurondividerdark}{%
+  \fleurondark[0.9cm]\hspace{0.4cm}{\color{CoverGoldBright!70}\rule{1.6in}{0.5pt}}\hspace{0.4cm}\fleurondark[0.9cm]%
+}
+
+% Light-on-dark cover text colors (distinct tones from the combined
+% "盡職" volume's green-family cover, scaled to this book's teal/brass)
+\definecolor{CoverCream}{RGB}{240,238,225}
+\definecolor{CoverGoldBright}{RGB}{190,158,90}
+\definecolor{CoverMuted}{RGB}{180,190,186}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterTeal,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterTeal} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterTeal} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterTeal} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterTeal}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{1.4cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+\fleurondividerdark
+
+\vspace{0.6cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 真理的柱石與根基}\\[0.25cm]
+{\baskerville\large\itshape\color{CoverGoldBright} A Pillar and Buttress of the Truth}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 提摩太前書研讀}\\[0.2cm]
+{\baskerville\normalsize\color{CoverGoldBright} A Study of the First Epistle to Timothy}
+
+\vspace{0.8cm}
+
+% Key verse — hairline double-rule frame in place of a solid-fill box
+{\color{CoverGoldBright}\hrule height 0.4pt}
+\vspace{2pt}
+{\color{CoverGoldBright!60}\hrule height 0.4pt}
+
+\vspace{0.5cm}
+\begin{minipage}{4.1in}
+\centering
+\small\itshape\color{CoverCream}
+這家就是永生神的教會，真理的柱石和根基。\\
+大哉，敬虔的奧祕！無人不以為然：\\
+就是神在肉身顯現……被接在榮耀裏。\\[0.2em]
+{\baskerville\footnotesize\color{CoverCream} ...the church of the living God, a pillar and buttress of the truth.\\
+Great indeed is the mystery of godliness...\\
+— 1 Timothy 3:15-16}
+\end{minipage}
+\vspace{0.5cm}
+
+{\color{CoverGoldBright!60}\hrule height 0.4pt}
+\vspace{2pt}
+{\color{CoverGoldBright}\hrule height 0.4pt}
+
+\vfill
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 敬虔的奧祕——大哉，教會所擎起的真理}\\[0.1cm]
+{\baskerville\footnotesize\itshape\color{CoverCream} The Mystery of Godliness (1 Tim 3:16)}
+
+\vspace{0.7cm}
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.5cm}
+\fleurondividerdark
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterTeal} 真理的柱石與根基}\\[0.1cm]
+{\baskerville\itshape\small\color{LightGray} A Pillar and Buttress of the Truth}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Structure page — all diagrams from the title page moved here
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterTeal} 保羅對提摩太的門訓}\\[0.1cm]
+{\baskerville\normalsize\itshape Paul's Training of Timothy}
+
+\vspace{0.2cm}
+{\footnotesize\color{LightGray} 「提摩太前後書就是保羅的門訓。」——黃長老 2024/5/9 查經筆記}
+
+\vspace{0.5cm}
+
+% Structure diagram — Elder Wong's two-part outline
+{\normalsize\bfseries\color{ChapterTeal} 全書結構 Structure of 1 Timothy}\\[0.05cm]
+{\footnotesize\color{LightGray} （黃長老 2024/4/25 查經筆記：「兩部分」）}
+
+\vspace{0.2cm}
+
+\begin{tikzpicture}[scale=0.75]
+  % Part I
+  \node[draw=ChurchTruthBlue,thin,fill=ChurchTruthBlue!5,sharp corners,minimum width=4.3cm,minimum height=1.6cm] at (2.2,1.2) {};
+  \node[font=\small\bfseries,color=ChurchTruthBlue] at (2.2,1.6) {Part I 教會真理};
+  \node[font=\footnotesize,color=TextGray] at (2.2,1.15) {Church Truth};
+  \node[font=\tiny,color=LightGray] at (2.2,0.75) {1:1-3:16};
+
+  % Part II
+  \node[draw=MinisterGreen,thin,fill=MinisterGreen!5,sharp corners,minimum width=4.3cm,minimum height=1.6cm] at (7.8,1.2) {};
+  \node[font=\small\bfseries,color=MinisterGreen] at (7.8,1.6) {Part II 傳道人};
+  \node[font=\footnotesize,color=TextGray] at (7.8,1.15) {The Minister};
+  \node[font=\tiny,color=LightGray] at (7.8,0.75) {4:1-6:21};
+
+  \draw[->,thick,color=ScriptureGold] (4.4,1.2) -- (5.6,1.2);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+% Overseer / Deacon table snapshot
+{\normalsize\bfseries\color{ChapterTeal} 監督與執事 Overseers \& Deacons (3:1-13)}
+
+\vspace{0.2cm}
+
+\begin{tikzpicture}[scale=0.65]
+  \foreach \x/\num/\txt in {
+    0/1/{無可指責\\Above Reproach},
+    4.2/2/{一妻之夫\\One-Woman Man},
+    8.4/3/{善於教導\\Able to Teach},
+    12.6/4/{清潔良心\\Clean Conscience}
+  } {
+    \draw[ScriptureGold,thin,fill=ScriptureBg] (\x,0) circle (0.28);
+    \node[font=\tiny\bfseries,color=ScriptureGold] at (\x,0) {\num};
+    \node[font=\tiny,color=TextGray,align=center,text width=2.4cm] at (\x,-0.85) {\txt};
+  }
+  \draw[ScriptureGold,line width=0.6pt] (0.28,0) -- (12.32,0);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Six chapter flow
+\begin{tikzpicture}[scale=0.62]
+  \foreach \x/\num/\txt/\ref in {
+    0/1/對抗假教師/1:1-20,
+    2.6/2/禱告與秩序/2:1-15,
+    5.2/3/監督執事/3:1-16,
+    7.8/4/離道反教/4:1-16,
+    10.4/5/寡婦長老/5:1-25,
+    13.0/6/僕人財富/6:1-21
+  } {
+    \node[draw=ChapterTeal,thin,fill=ChapterTeal!4,sharp corners,minimum width=2.2cm,minimum height=1.7cm] at (\x,0) {};
+    \node[font=\small\bfseries,color=ChapterTeal] at (\x,0.4) {\num};
+    \node[font=\tiny,color=TextGray,align=center,text width=1.9cm] at (\x,0) {\txt};
+    \node[font=\tiny,color=LightGray] at (\x,-0.5) {\ref};
+  }
+  \foreach \x in {1.1,3.7,6.3,8.9,11.5} {
+    \draw[->,thin,color=ScriptureGold] (\x,0) -- (\x+0.35,0);
+  }
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+{\large\bfseries\color{ChapterTeal} 盡職的四大點 Four Points of Fulfilling Ministry}
+\vspace{0.15cm}
+
+{\footnotesize\color{LightGray} 黃長老教牧書信查經核心框架，貫串提前、提後、提多}
+
+\vspace{0.3cm}
+
+\begin{tikzpicture}[scale=0.72]
+  \foreach \x/\num/\txt in {
+    0/1/恩賜挑旺起來,
+    3.4/2/善道靠聖靈守住,
+    6.8/3/恩典上剛強,
+    10.2/4/無愧的工人\\按正意分解真道
+  } {
+    \node[draw=MinisterGreen,thin,fill=MinisterGreen!5,sharp corners,minimum width=3cm,minimum height=1.3cm,align=center,font=\tiny] at (\x,0) {\num. \txt};
+  }
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+{\footnotesize\color{LightGray} 「命令的總歸就是愛；這愛是從清潔的心和無虧的良心，無偽的信心生出來的。」— 提摩太前書 1:5}
+\end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給那些不為人所見、\\
+卻存清潔的良心固守真道的人——}
+
+\vspace{0.5cm}
+
+{\itshape\normalsize\color{CommentaryBrown}
+教會裡默默擎起真理柱石的監督與執事，\\
+以及每一位願意讓自己的品格、\\
+先於恩賜被神察驗的信徒。}
+
+\vspace{0.8cm}
+
+{\baskerville\itshape\small\color{LightGray}
+To those who guard sound doctrine\\
+with a clean conscience, unseen by anyone but God ---\\[0.25em]
+the overseers and deacons who quietly hold up\\
+the pillar of truth in the church,\\
+and every believer willing to let character,\\
+not gifting, be examined first.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 要存清潔的良心，固守真道的奧祕。}\\[0.15em]
+{\baskerville\footnotesize\itshape\color{LightGray} ``...holding the mystery of the faith with a clear conscience.'' --- 1 Timothy 3:9}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{提摩太前書研讀 / 1 Timothy Study}\\[0.8em]
+
+{\baskerville Copyright \copyright\ \the\year} \ $if(author)$$author$$endif$\\
+{\baskerville All rights reserved.}\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 / 和合本修訂版（各章依寫作時實際核對版本標明，詳見附錄）\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 黃長老 Thursday 查經班筆記 (2024-2025)\\
+\textbullet\ John MacArthur 解經傳統\\
+\textbullet\ G. Campbell Morgan 教牧書信解經傳統\\[0.8em]
+
+\textbf{核心主題 / Central Theme}\\
+教會是真理的柱石和根基；監督執事的資格是品格，不是恩賜。\\
+The church is a pillar and buttress of the truth; qualification for ministry is character, not gifting.\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterTeal}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\clearpage
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你的良心清潔嗎？還是只是還沒有被戳破？}\\[0.3em]
+{\baskerville\itshape\small\color{LightGray} Is your conscience clean --- or simply not yet exposed?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.5cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$στῦλος$endif$}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskerville "Pillar"} · 柱石——全書貫穿的鑰字}
+
+\vspace{0.45cm}
+
+\fleurondividerdark
+
+\vspace{0.45cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskerville\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.45cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀提摩太前書全書六章，並附參考資料附錄，整合黃長老 Thursday 查經班筆記、John MacArthur 與 G. Campbell Morgan 教牧書信解經傳統，貫穿保羅寫給提摩太這封「門訓」書信的兩大部分——教會真理（1-3章）與傳道人的操練（4-6章）。全書以監督執事的品格資格為軸心，收束於「教會是真理的柱石和根基」（3:15）與「敬虔的奧祕」（3:16），並在末章以「持守所給你的託付」（6:20）作結，指向那忠心傳遞、世世代代不變的真道。
+
+{\baskerville\color{CoverCream} A chapter-by-chapter study of all six chapters of 1 Timothy, with a references appendix, integrating Elder Wong's Thursday Bible study notes and the exegetical traditions of John MacArthur and G. Campbell Morgan on the Pastoral Epistles. The study traces Paul's two-part discipleship letter to Timothy --- church truth (chs. 1-3) and the minister's training (chs. 4-6) --- centered on the character qualifications for overseers and deacons, and culminating in "the church of the living God, a pillar and buttress of the truth" (3:15) and "the mystery of godliness" (3:16), closing with Paul's charge: "guard the deposit entrusted to you" (6:20).}
+$endif$
+\end{minipage}
+
+\vspace{0.45cm}
+
+{\small\bfseries\color{CoverCream} 監督與執事資格對照}\qquad{\baskerville\itshape\small\color{CoverGoldBright} Overseer \& Deacon Qualifications}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}lp{3.2in}l@{}}
+監督 & 無可指責、一妻之夫、善於教導、好好管理自己的家 \textit{\baskerville\color{CoverCream}Above reproach, a one-woman man, able to teach, manages his household well} & {\tiny\color{CoverMuted} 提前3:2-4}\\[0.4em]
+執事 & 端莊、不一口兩舌、存清潔的良心固守真道的奧祕 \textit{\baskerville\color{CoverCream}Dignified, not double-tongued, holding the mystery of the faith with a clean conscience} & {\tiny\color{CoverMuted} 提前3:8-9}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.45cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 2.3in}
+
+\vspace{0.3cm}
+
+{\normalsize\itshape\color{CoverCream} 敬虔的奧祕——大哉，教會所擎起的真理}\\
+{\baskerville\footnotesize\itshape\color{CoverMuted} "Great indeed is the mystery of godliness" --- 1 Timothy 3:16}
+
+\vspace{0.3cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 2.3in}
+
+\vspace{0.4cm}
+
+{\footnotesize\color{CoverMuted} \S\ 1 Timothy Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}

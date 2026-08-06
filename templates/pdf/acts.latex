@@ -1,7 +1,8 @@
 % PubHub Acts of the Apostles Template
 % Professional Bible Study Book Layout
-% Bilingual Chinese/English with scholarly insights
+% Bilingual Chinese/English with Greek word studies
 % Requires XeLaTeX for CJK support
+% Series identity: Flame/Ember palette (Pentecost fire, 1:8 expanding witness)
 
 \documentclass[11pt,openany]{book}
 
@@ -17,12 +18,23 @@
 \setsansfont{PingFang SC}
 \setmonofont{Menlo}
 
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}
+
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
 
 %% ============================================
-%% PAGE GEOMETRY
+%% PAGE GEOMETRY - Fixed margins (more conservative)
 %% ============================================
 \usepackage{geometry}
 \geometry{
@@ -44,31 +56,36 @@
 \setlength{\parskip}{0.3em}
 
 %% ============================================
-%% COLOR SCHEME - Acts Theme (Fire/Spirit)
+%% COLOR SCHEME - Acts identity: flame/ember (Pentecost fire, spreading witness)
 %% ============================================
 \usepackage{xcolor}
 
-% Primary colors (Fire/Spirit theme for Pentecost)
-\definecolor{ChapterBlue}{RGB}{35,65,105}
-\definecolor{ScriptureGold}{RGB}{180,130,40}
-\definecolor{CommentaryBrown}{RGB}{90,65,50}
-\definecolor{PentecostRed}{RGB}{180,50,35}
-\definecolor{SpiritBlue}{RGB}{60,120,180}
+% Primary colors
+\definecolor{ChapterFlame}{RGB}{165,55,25}      % Deep ember red-orange for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
 
 % Map colors
-\definecolor{WaterBlue}{RGB}{180,210,230}
-\definecolor{LandBeige}{RGB}{245,235,220}
-\definecolor{MountainBrown}{RGB}{180,160,140}
-\definecolor{SeaBlue}{RGB}{100,150,200}
+\definecolor{WaterBlue}{RGB}{180,210,230}       % Sea/river blue
+\definecolor{LandBeige}{RGB}{245,235,220}       % Land color
+\definecolor{MountainBrown}{RGB}{180,160,140}   % Mountain shading
 
 % Box colors
-\definecolor{ScriptureBg}{RGB}{252,250,245}
-\definecolor{GreekBg}{RGB}{245,248,252}
-\definecolor{ApplicationBg}{RGB}{248,252,248}
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{253,247,240}         % Warm cream for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
 
 % Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
+
+% Fire accent — the tongues of Pentecost
+\definecolor{SpiritFlame}{RGB}{225,130,35}
+
+% Red letter Bible - the ascended/risen Christ's own words (rare but present in Acts:
+% 1:7-8; 9:4-6/22:7-10/26:14-18 Damascus road; 18:9-10; 23:11), matching series convention
+\definecolor{JesusRed}{RGB}{204,0,0}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
 
 %% ============================================
 %% MATH AND SYMBOLS
@@ -81,17 +98,20 @@
 %% ============================================
 \usepackage{graphicx}
 \usepackage{tikz}
-\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
 
 %% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
 
-% Flame decoration command
-\newcommand{\flamedecor}{%
-\begin{tikzpicture}[scale=0.2]
-  \fill[PentecostRed] (0,0) .. controls (0.2,0.5) and (-0.2,0.8) .. (0,1.2)
-    .. controls (0.2,0.8) and (-0.1,0.5) .. (0,0);
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
 \end{tikzpicture}%
 }
 
@@ -109,14 +129,14 @@
 \usepackage{hyperref}
 \hypersetup{
   colorlinks=true,
-  linkcolor=ChapterBlue,
+  linkcolor=ChapterFlame,
   urlcolor=ScriptureGold,
   bookmarks=true,
   bookmarksnumbered=true
 }
 
 %% ============================================
-%% TABLES
+%% TABLES - with proper width control
 %% ============================================
 \usepackage{longtable}
 \usepackage{booktabs}
@@ -124,18 +144,21 @@
 \usepackage{tabularx}
 \usepackage{calc}
 
+% Set table width to text width - constrain tables
 \setlength{\LTleft}{0pt}
 \setlength{\LTright}{0pt}
 \setlength{\LTpre}{6pt}
 \setlength{\LTpost}{6pt}
 \renewcommand{\arraystretch}{1.2}
 
+% Pandoc 3.x table support
 \usepackage{etoolbox}
 \makeatletter
 \patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
 \@ifundefined{c@none}{\newcounter{none}}{}
 \makeatother
 
+% Style table rules
 \renewcommand{\toprule}{\hline\hline}
 \renewcommand{\midrule}{\hline}
 \renewcommand{\bottomrule}{\hline\hline}
@@ -158,19 +181,20 @@
 }
 
 %% ============================================
-%% SECTION STYLING
+%% SECTION STYLING (manual, without titlesec)
 %% ============================================
 \makeatletter
+% Chapter styling
 \def\@makechapterhead#1{%
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
     \ifnum \c@secnumdepth >\m@ne
-      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \large\bfseries\color{ChapterFlame} \@chapapp\space \thechapter
       \par\nobreak
       \vskip 8pt
     \fi
     \interlinepenalty\@M
-    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \LARGE \bfseries\color{ChapterFlame} #1\par\nobreak
     \vskip 12pt
     {\color{ScriptureGold}\hrule height 1.5pt}
     \vskip 15pt
@@ -180,16 +204,17 @@
   {\parindent \z@ \raggedright
     \normalfont
     \interlinepenalty\@M
-    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \LARGE \bfseries\color{ChapterFlame} #1\par\nobreak
     \vskip 8pt
     {\color{ScriptureGold}\hrule height 1.5pt}
     \vskip 15pt
   }}
 
+% Section styling
 \renewcommand\section{\@startsection {section}{1}{\z@}%
   {-2.5ex \@plus -0.5ex \@minus -.2ex}%
   {1.5ex \@plus.2ex}%
-  {\normalfont\large\bfseries\color{ChapterBlue}}}
+  {\normalfont\large\bfseries\color{ChapterFlame}}}
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
   {-2ex\@plus -0.5ex \@minus -.2ex}%
   {1ex \@plus .2ex}%
@@ -201,7 +226,7 @@
 \makeatother
 
 %% ============================================
-%% BLOCKQUOTE STYLING
+%% BLOCKQUOTE STYLING - extra room for CJK text
 %% ============================================
 \renewenvironment{quote}{%
   \par\vspace{0.3\baselineskip}%
@@ -219,7 +244,7 @@
 }
 
 %% ============================================
-%% WIDOW/ORPHAN AND LINE BREAKING
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
 %% ============================================
 \widowpenalty=10000
 \clubpenalty=10000
@@ -263,6 +288,196 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
+%% ============================================
+%% COVER ART PAGE — tongues of fire over three
+%% expanding rings (耶路撒冷 → 猶太撒瑪利亞 → 地極,
+%% Acts 1:8), gold-bordered, matching series palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterFlame, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[SpiritFlame]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterFlame} Three Books Deep Reading \textbullet\ Acts of the Apostles}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 使徒行傳深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 聖靈的作為 \textperiodcentered\ The Acts of the Holy Spirit}
+
+\vspace{0.30cm}
+
+% ===== TONGUES OF FIRE OVER THREE EXPANDING RINGS (1:8) =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Three expanding rings — Jerusalem / Judea-Samaria / ends of the earth
+  \draw[ChapterFlame, line width=1.0pt, opacity=0.85] (0,0.1) circle (0.55);
+  \draw[ScriptureGold, line width=0.8pt, opacity=0.65] (0,0.1) circle (1.15);
+  \draw[SpiritFlame, line width=0.6pt, opacity=0.45] (0,0.1) circle (1.75);
+  \node[font=\tiny,color=ChapterFlame] at (0,-0.65) {耶路撒冷};
+  \node[font=\tiny,color=ScriptureGold] at (0,-1.28) {猶太．撒瑪利亞};
+  \node[font=\tiny,color=SpiritFlame]  at (0,-1.9) {直到地極};
+
+  % Twelve small tongues of fire resting above (Acts 2:3)
+  \foreach \ang in {0,30,...,330} {
+    \fill[SpiritFlame, opacity=0.85]
+      ({1.75*cos(\ang)+0*0.1}, {0.1+1.75*sin(\ang)})
+      .. controls ({1.75*cos(\ang)+0.12},{0.1+1.75*sin(\ang)+0.30})
+      and ({1.75*cos(\ang)-0.08},{0.1+1.75*sin(\ang)+0.50})
+      .. ({1.75*cos(\ang)},{0.1+1.75*sin(\ang)+0.62})
+      .. controls ({1.75*cos(\ang)-0.10},{0.1+1.75*sin(\ang)+0.40})
+      and ({1.75*cos(\ang)-0.10},{0.1+1.75*sin(\ang)+0.15})
+      .. cycle;
+  }
+
+  % central flame — larger, over the center
+  \fill[JesusRed, opacity=0.9] (0,0.1)
+    .. controls (0.28,0.5) and (0.20,0.85) .. (0.08,1.15)
+    .. controls (0.28,0.95) and (0.32,1.35) .. (0,1.65)
+    .. controls (-0.32,1.35) and (-0.28,0.95) .. (-0.08,1.15)
+    .. controls (-0.20,0.85) and (-0.28,0.5) .. (0,0.1) -- cycle;
+  \fill[SpiritFlame] (0,0.35) circle (0.10);
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterFlame}\kaiti\selectfont 見證}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Witnesses}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 使徒行傳研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Acts of the Apostles}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterFlame} μάρτυρές μου}\quad
+{\footnotesize\scshape\color{CommentaryBrown} ``My witnesses''}\quad
+{\footnotesize\bfseries\color{JesusRed} 我的見證}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{JesusRed}\kaiti\selectfont
+「聖靈降臨在你們身上，你們就必得著能力，並要……直到地極，作我的見證。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``You will receive power when the Holy Spirit has come upon you, and you will be my witnesses... to the end of the earth.''}\\[0.10em]
+{\scriptsize\color{ChapterFlame} 使徒行傳 1:8 \textperiodcentered\ Acts 1:8}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on Acts'
+%% own outline verse (1:8), the same role John 20:31
+%% plays in the sister volume.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterFlame} 全書一句話 \textperiodcentered\ The Whole Book in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+但聖靈降臨在你們身上，你們就必得著\textbf{\color{JesusRed}能力}，\\
+並要在耶路撒冷、猶太全地和撒瑪利亞，直到地極，作我的\textbf{\color{JesusRed}見證}。\\[0.5em]
+\footnotesize\itshape
+But you will receive \textbf{power} when the Holy Spirit has come upon you,\\
+and you will be my \textbf{witnesses} in Jerusalem and in all Judea and Samaria,\\
+and to the end of the earth.\\[0.4em]
+\small\color{ChapterFlame} 使徒行傳 1:8 \textperiodcentered\ Acts 1:8
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 一節經文 \textperiodcentered\ 一個地理大綱 \textperiodcentered\ 整卷使徒行傳\\
+\textit{One verse \textperiodcentered\ one geographic outline \textperiodcentered\ the whole book}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{1.6cm}p{2.6cm}p{4.8cm}@{}}
+\toprule
+\textbf{範圍} & \textbf{章節} & \textbf{在全書的展開} \\
+\midrule
+耶路撒冷 & 1-7 章 & 聖靈降臨、教會誕生、彼得的講道、司提反殉道 \\
+猶太．撒瑪利亞 & 8-12 章 & 逼迫帶來擴散、腓利、掃羅歸主、哥尼流、外邦人的門開了 \\
+直到地極 & 13-28 章 & 保羅三次宣教旅程、耶路撒冷大會、被捕受審、航向羅馬 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterFlame} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一段教會歷史，是來看聖靈自己如何做工。\\
+若你讀完二十八章卻只記得地名與人名——請從頭再讀，\\
+這次留意，每一次逼迫、每一道門的打開，主角始終只有一位。\\[0.5em]
+\textit{\footnotesize
+You are not reading church history — you are watching the Spirit at work.\\
+If after twenty-eight chapters you remember only names and places, read it again.\\
+This time notice: through every persecution, every open door, there is only one Actor.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
 % Title page
 \begin{titlepage}
 \thispagestyle{empty}
@@ -275,8 +490,8 @@ $endif$
 \vspace{0.4cm}
 
 % Main title
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 直到地極}\\[0.2cm]
-{\large\itshape\color{LightGray} To the Ends of the Earth}
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterFlame} 見證}\\[0.2cm]
+{\large\itshape\color{LightGray} Witnesses}
 
 \vspace{0.6cm}
 
@@ -287,59 +502,119 @@ $endif$
 \vspace{0.5cm}
 
 % Key verse in box
-\fcolorbox{PentecostRed}{ScriptureBg}{%
-\begin{minipage}{4in}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
 \centering
 \vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
-但聖靈降臨在你們身上，你們就必得著能力，\\
-並要在耶路撒冷、猶太全地、和撒瑪利亞，\\
-直到地極，作我的見證。\\[0.15em]
-\footnotesize But you will receive power when the Holy Spirit\\
-has come upon you, and you will be my witnesses\\
-to the ends of the earth. — Acts 1:8
+你們就必得著能力，並要……直到地極，作我的見證。\\[0.15em]
+\footnotesize You will receive power... and you will be my witnesses\\
+to the end of the earth. — Acts 1:8
 \vspace{0.3cm}
 \end{minipage}
 }
 
 \vspace{0.4cm}
 
-% Acts Structure diagram (based on 1:8)
-\begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,3) {Book Structure 書卷結構 (Acts 1:8)};
+% Mediterranean World Map (TikZ drawn) — Paul's Three Journeys
+\begin{tikzpicture}[scale=0.50]
+  % Title
+  \node[font=\footnotesize\bfseries,color=ChapterFlame] at (5,8.7) {地中海世界 The Mediterranean World};
 
-  % Three concentric circles representing expansion
-  \draw[ChapterBlue,thick] (0,1) circle (0.8);
-  \draw[SpiritBlue,thick] (0,1) circle (1.6);
-  \draw[PentecostRed,thick] (0,1) circle (2.4);
+  % Sea (background)
+  \fill[WaterBlue] (-1,-0.5) rectangle (11,9);
 
-  \node[font=\tiny,color=ChapterBlue] at (0,1) {Jerusalem};
-  \node[font=\tiny,color=ChapterBlue] at (0,0.6) {1-7};
+  % Land masses (schematic, not to scale)
+  \fill[LandBeige] (7.5,5.5) rectangle (10.5,8.5); % Asia Minor
+  \fill[LandBeige] (8.5,0) rectangle (10.5,5.2);   % Judea/Syria coast
+  \fill[LandBeige] (2,6.5) rectangle (5.5,8.5);    % Macedonia/Greece
+  \fill[LandBeige] (-0.5,1.5) rectangle (2.2,7.5); % Italy
+  \fill[LandBeige] (6.5,7) ellipse (0.9 and 0.6);  % Cyprus
 
-  \node[font=\tiny,color=SpiritBlue] at (1.2,1.8) {Judea \&};
-  \node[font=\tiny,color=SpiritBlue] at (1.2,1.4) {Samaria 8-12};
+  \node[font=\tiny,color=ChapterFlame] at (6.5,7) {Cyprus};
+  \node[font=\tiny,color=TextGray] at (9,7.7) {Asia Minor 小亞細亞};
+  \node[font=\tiny,color=TextGray] at (3.7,7.8) {Macedonia／Greece};
+  \node[font=\tiny,color=TextGray] at (0.8,5) {Italy};
 
-  \node[font=\tiny,color=PentecostRed] at (2,0.5) {Ends of Earth};
-  \node[font=\tiny,color=PentecostRed] at (2,0.1) {13-28};
+  % Key cities
+  \fill[red!70!black] (9.6,1.2) circle (0.10);
+  \node[font=\tiny\bfseries,left,color=red!70!black] at (9.4,1.2) {Jerusalem};
 
-  % Flame symbols
-  \node[font=\tiny,color=PentecostRed] at (-2.5,2.5) {\flamedecor};
-  \node[font=\tiny,color=PentecostRed] at (2.5,2.5) {\flamedecor};
+  \fill[ScriptureGold] (9.3,3.4) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (9.4,3.4) {Antioch 安提阿};
+
+  \fill[ScriptureGold] (8.0,6.2) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (8.1,6.2) {Pisidian Antioch};
+
+  \fill[ScriptureGold] (8.6,5.6) circle (0.07);
+  \node[font=\tiny,right,color=TextGray] at (8.7,5.55) {Iconium／Lystra};
+
+  \fill[ScriptureGold] (7.6,7.6) circle (0.07);
+  \node[font=\tiny,left,color=TextGray] at (7.5,7.6) {Troas};
+
+  \fill[ScriptureGold] (7.9,6.7) circle (0.07);
+  \node[font=\tiny,right,color=TextGray] at (8.0,6.65) {Ephesus 以弗所};
+
+  \fill[ScriptureGold] (4.5,7.9) circle (0.08);
+  \node[font=\tiny,above,color=TextGray] at (4.5,8.0) {Philippi 腓立比};
+
+  \fill[ScriptureGold] (3.6,7.3) circle (0.07);
+  \node[font=\tiny,below,color=TextGray] at (3.6,7.15) {Thessalonica};
+
+  \fill[ScriptureGold] (3.0,6.9) circle (0.06);
+  \node[font=\tiny,left,color=TextGray] at (2.9,6.9) {Berea};
+
+  \fill[ScriptureGold] (3.3,6.2) circle (0.08);
+  \node[font=\tiny,below,color=TextGray] at (3.3,6.05) {Athens 雅典};
+
+  \fill[ScriptureGold] (2.9,5.7) circle (0.08);
+  \node[font=\tiny,left,color=TextGray] at (2.8,5.7) {Corinth 哥林多};
+
+  \fill[red!50!black] (0.9,3.0) circle (0.10);
+  \node[font=\tiny\bfseries,right,color=red!50!black] at (1.1,3.0) {ROME};
+
+  \fill[ScriptureGold] (0.6,1.9) circle (0.06);
+  \node[font=\tiny,below,color=TextGray] at (0.6,1.75) {Malta 馬耳他};
+
+  % Journey lines (schematic)
+  \draw[ChapterFlame,line width=1pt,-{Stealth[length=2mm]}]
+    (9.6,1.2) -- (9.3,3.4) -- (6.5,7) -- (8.0,6.2) -- (8.6,5.6);
+  \draw[SpiritFlame,line width=1pt,densely dashed,-{Stealth[length=2mm]}]
+    (9.3,3.4) -- (7.6,7.6) -- (4.5,7.9) -- (3.6,7.3) -- (3.0,6.9) -- (3.3,6.2) -- (2.9,5.7) -- (7.9,6.7);
+  \draw[CommentaryBrown,line width=1pt,dotted,-{Stealth[length=2mm]}]
+    (9.6,1.2) -- (0.6,1.9) -- (1.1,3.0);
+
+  % Compass
+  \draw[->,thick,color=ChapterFlame] (10.2,8.0) -- (10.2,8.5);
+  \node[font=\tiny,color=ChapterFlame] at (10.2,8.7) {N};
 \end{tikzpicture}
 
 \vspace{0.3cm}
 
-% Key themes
-{\small\color{ChapterBlue}\bfseries 使徒行傳主題 Key Themes of Acts}\\[0.2cm]
-\begin{tikzpicture}[scale=0.5]
-  \node[font=\tiny,color=TextGray] at (-3,0) {聖靈能力 Power of the Spirit};
-  \node[font=\tiny,color=TextGray] at (0,0) {教會建立 Church Established};
-  \node[font=\tiny,color=TextGray] at (3,0) {福音傳開 Gospel Spreads};
-  \node[font=\tiny,color=TextGray] at (-1.5,-0.5) {使徒見證 Apostolic Witness};
-  \node[font=\tiny,color=TextGray] at (1.5,-0.5) {逼迫中增長 Growth in Persecution};
+% Structure diagram (smaller)
+\begin{tikzpicture}[scale=0.6]
+  \node[font=\footnotesize\bfseries,color=ChapterFlame] at (0,2.5) {Book Structure 全書結構};
+
+  \node[draw=ChapterFlame,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.5cm,font=\tiny] at (-2.6,1.5) {Jerusalem};
+  \node[font=\tiny,color=LightGray] at (-2.6,1.1) {1-7};
+
+  \node[draw=ChapterFlame,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.5cm,font=\tiny] at (0,1.5) {Judea／Samaria};
+  \node[font=\tiny,color=LightGray] at (0,1.1) {8-12};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.5cm,font=\tiny] at (2.7,1.5) {Ends of the Earth};
+  \node[font=\tiny,color=LightGray] at (2.7,1.1) {13-28};
+
+  \draw[->,color=ScriptureGold,thick] (-1.4,1.5) -- (-1.0,1.5);
+  \draw[->,color=ScriptureGold,thick] (1.1,1.5) -- (1.5,1.5);
 \end{tikzpicture}
 
 \vfill
+
+% Equation and vine
+{\normalsize\color{ScriptureGold}\bfseries 能力 = 聖靈藉見證彰顯}\\[0.1cm]
+{\footnotesize\color{LightGray} Power = the Holy Spirit expressed in Witness (Acts 1:8)}
+
+\vspace{0.5cm}
 
 $if(author)$
 {\normalsize $author$}\\[0.3cm]
@@ -361,231 +636,147 @@ $endif$
 \end{center}
 \end{titlepage}
 
-% Map page - Paul's Missionary Journeys
+% Map page (full page) — Paul's Three Missionary Journeys
 \thispagestyle{empty}
 \begin{center}
 \vspace*{0.3cm}
-{\Large\bfseries\color{ChapterBlue} 保羅宣教旅程}\\[0.1cm]
-{\normalsize Paul's Missionary Journeys}
+{\Large\bfseries\color{ChapterFlame} 保羅的三次宣教旅程與航向羅馬}\\[0.1cm]
+{\normalsize Paul's Three Missionary Journeys and the Voyage to Rome}
 
 \vspace{0.4cm}
 
-\begin{tikzpicture}[scale=0.75]
-  % Mediterranean Sea background
-  \fill[SeaBlue!30] (0,0) rectangle (12,9);
+% Larger detailed map
+\begin{tikzpicture}[scale=0.85]
+  % Background
+  \fill[LandBeige] (0,0) rectangle (10,12);
 
-  % Land masses
-  % Asia Minor (Turkey)
-  \fill[LandBeige] (5,4.5) .. controls (7,5) and (9,5.5) .. (11,5)
-    .. controls (11.5,4) and (11,3) .. (10,2.5)
-    .. controls (8,2.5) and (6,3) .. (5,4.5);
+  % Sea (Mediterranean, schematic basin cutting across)
+  \fill[WaterBlue] (0,3.6) .. controls (2,4.6) and (4,2.6) .. (6,4.0)
+    .. controls (7.5,5.0) and (9,3.6) .. (10,4.4)
+    -- (10,7.6) .. controls (8.5,6.8) and (7,8.2) .. (5.5,7.2)
+    .. controls (4,6.4) and (2,7.6) .. (0,6.6) -- cycle;
+  \node[font=\small,color=ChapterFlame,rotate=8] at (5,5.6) {Mediterranean Sea 地中海};
 
-  % Greece/Macedonia
-  \fill[LandBeige] (1,3.5) .. controls (2,4.5) and (3,4) .. (4,3.5)
-    .. controls (4.5,2.5) and (3.5,1.5) .. (2.5,1.5)
-    .. controls (1.5,2) and (1,3) .. (1,3.5);
+  % Coastal shading
+  \fill[MountainBrown!25] (1,9.5) ellipse (1.3 and 1.2);
+  \fill[MountainBrown!25] (8,10) ellipse (1.4 and 1.1);
 
-  % Italy
-  \fill[LandBeige] (-0.5,5) .. controls (0,6) and (1,6.5) .. (1.5,5.5)
-    .. controls (2,4.5) and (1.5,3.5) .. (0.5,3)
-    .. controls (0,3.5) and (-0.5,4.5) .. (-0.5,5);
-
-  % Israel/Syria
-  \fill[LandBeige] (10,0) rectangle (12,4);
-
-  % Cyprus
-  \fill[LandBeige] (8,2.8) ellipse (0.8 and 0.25);
-
-  % Crete
-  \fill[LandBeige] (5,1.5) ellipse (0.7 and 0.2);
-
-  % Key cities
-  % Jerusalem
-  \fill[PentecostRed] (11.5,1) circle (0.15);
-  \node[font=\tiny\bfseries,color=PentecostRed,right] at (11.6,1) {Jerusalem};
-
-  % Antioch (Syria)
-  \fill[ScriptureGold] (10.5,3.5) circle (0.12);
-  \node[font=\tiny,right,color=TextGray] at (10.6,3.5) {Antioch};
-
-  % Ephesus
-  \fill[ScriptureGold] (7,4) circle (0.12);
-  \node[font=\tiny,above,color=TextGray] at (7,4.1) {Ephesus};
-
-  % Philippi
-  \fill[ScriptureGold] (3.5,4.2) circle (0.12);
-  \node[font=\tiny,above,color=TextGray] at (3.5,4.3) {Philippi};
-
-  % Athens
-  \fill[ScriptureGold] (3,2.5) circle (0.12);
-  \node[font=\tiny,below,color=TextGray] at (3,2.4) {Athens};
-
-  % Corinth
-  \fill[ScriptureGold] (2.5,2.8) circle (0.12);
-  \node[font=\tiny,left,color=TextGray] at (2.4,2.8) {Corinth};
+  %% KEY CITIES with verse references (schematic layout, roughly W→E, S→N)
 
   % Rome
-  \fill[PentecostRed] (0.5,5) circle (0.15);
-  \node[font=\tiny\bfseries,color=PentecostRed,left] at (0.4,5) {Rome};
+  \fill[red!70!black] (1.0,9.4) circle (0.16);
+  \draw[red!70!black,line width=1pt] (1.0,9.4) circle (0.24);
+  \node[font=\normalsize\bfseries,right,color=red!70!black] at (1.25,9.4) {ROME 羅馬};
+  \node[font=\tiny,right,color=TextGray] at (1.25,9.0) {二年傳道，暢通無阻 (28:30-31)};
 
-  % Journey lines (simplified)
-  % First journey (green)
-  \draw[green!60!black,line width=1.5pt,->] (10.5,3.5) .. controls (9,3) .. (8,2.8)
-    .. controls (7.5,3.5) .. (7.5,4);
-  \node[font=\tiny,color=green!60!black] at (8.5,4.5) {1st Journey};
+  % Puteoli / Malta (shipwreck route)
+  \fill[ScriptureGold] (2.2,7.6) circle (0.10);
+  \node[font=\tiny,right,color=TextGray] at (2.35,7.6) {Puteoli 部丟利};
 
-  % Second journey (blue)
-  \draw[SpiritBlue,line width=1.5pt,->] (10.5,3.3) .. controls (8,4) and (5,4.5) .. (3.5,4.2)
-    .. controls (3,3.5) .. (3,2.5);
-  \node[font=\tiny,color=SpiritBlue] at (5.5,5.5) {2nd Journey};
+  \fill[ScriptureGold] (3.1,6.0) circle (0.10);
+  \node[font=\tiny,right,color=TextGray] at (3.25,6.0) {Malta 馬耳他 (27:39-28:10)};
 
-  % Third journey (purple)
-  \draw[purple,line width=1.5pt,->] (10.5,3.7) .. controls (8.5,4.5) .. (7,4.2)
-    .. controls (5,4.8) .. (3.5,4);
-  \node[font=\tiny,color=purple] at (6.5,6) {3rd Journey};
+  % Athens / Corinth / Berea / Thessalonica / Philippi (2nd journey, Macedonia/Greece)
+  \fill[ScriptureGold] (5.2,9.6) circle (0.11);
+  \node[font=\small\bfseries,above,color=ChapterFlame] at (5.2,9.85) {Philippi 腓立比};
+  \node[font=\tiny,above,color=TextGray] at (5.2,9.35) {呂底亞、禁卒信主 (16:11-40)};
 
-  % Journey to Rome (red)
-  \draw[PentecostRed,line width=1.5pt,->,dashed] (11.5,1.2) .. controls (8,1.5) and (5,1.5) .. (2,2.5)
-    .. controls (1,3.5) .. (0.5,4.8);
-  \node[font=\tiny,color=PentecostRed] at (4,0.8) {Journey to Rome};
+  \fill[ScriptureGold] (4.6,8.9) circle (0.09);
+  \node[font=\tiny,left,color=TextGray] at (4.45,8.9) {Thessalonica};
 
-  % Compass
-  \draw[->,very thick,color=ChapterBlue] (0.8,7.5) -- (0.8,8.3);
-  \node[font=\small\bfseries,color=ChapterBlue] at (0.8,8.5) {N};
+  \fill[ScriptureGold] (4.1,8.3) circle (0.08);
+  \node[font=\tiny,left,color=TextGray] at (3.95,8.3) {Berea 庇哩亞};
+
+  \fill[ScriptureGold] (4.6,7.2) circle (0.11);
+  \node[font=\small\bfseries,left,color=ChapterFlame] at (4.4,7.2) {Athens 雅典};
+  \node[font=\tiny,left,color=TextGray] at (4.4,6.8) {亞略巴古講道 (17:22-31)};
+
+  \fill[ScriptureGold] (4.9,6.5) circle (0.11);
+  \node[font=\small\bfseries,right,color=ChapterFlame] at (5.05,6.5) {Corinth 哥林多};
+  \node[font=\tiny,right,color=TextGray] at (5.05,6.1) {一年六個月 (18:1-11)};
+
+  % Ephesus
+  \fill[ScriptureGold] (6.7,7.7) circle (0.12);
+  \node[font=\small\bfseries,right,color=ChapterFlame] at (6.85,7.7) {Ephesus 以弗所};
+  \node[font=\tiny,right,color=TextGray] at (6.85,7.3) {三年事工 (19:1-41)};
+
+  % Miletus
+  \fill[ScriptureGold] (6.9,6.9) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (7.05,6.9) {Miletus 米利都 (20:17-38)};
+
+  % Troas
+  \fill[ScriptureGold] (6.0,8.6) circle (0.09);
+  \node[font=\tiny,right,color=TextGray] at (6.15,8.6) {Troas 特羅亞——馬其頓異象 (16:9)};
+
+  % Asia Minor interior — Pisidian Antioch, Iconium, Lystra, Derbe (1st journey)
+  \fill[ScriptureGold] (7.2,9.3) circle (0.10);
+  \node[font=\tiny,above,color=TextGray] at (7.2,9.5) {Pisidian Antioch (13:14-52)};
+
+  \fill[ScriptureGold] (7.7,8.7) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (7.85,8.7) {Iconium 以哥念};
+
+  \fill[ScriptureGold] (8.0,8.1) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (8.15,8.1) {Lystra 路司得 (14:8-20)};
+
+  \fill[ScriptureGold] (8.3,7.6) circle (0.07);
+  \node[font=\tiny,right,color=TextGray] at (8.45,7.6) {Derbe 特庇};
+
+  % Antioch (Syria) — the sending church
+  \fill[red!60!black] (8.6,6.0) circle (0.13);
+  \node[font=\small\bfseries,right,color=red!60!black] at (8.75,6.0) {Antioch 安提阿};
+  \node[font=\tiny,right,color=TextGray] at (8.75,5.6) {差遣的教會 (13:1-3)};
+
+  % Cyprus
+  \fill[LandBeige] (7.1,7.2) ellipse (0.55 and 0.35);
+  \node[font=\tiny,color=ChapterFlame] at (7.1,7.2) {Cyprus 居比路};
+
+  % Caesarea / Jerusalem
+  \fill[ScriptureGold] (8.9,5.0) circle (0.09);
+  \node[font=\tiny,right,color=TextGray] at (9.05,5.0) {Caesarea 凱撒利亞};
+
+  \fill[red!70!black] (8.6,4.1) circle (0.15);
+  \draw[red!70!black,line width=1pt] (8.6,4.1) circle (0.23);
+  \node[font=\normalsize\bfseries,right,color=red!70!black] at (8.8,4.1) {JERUSALEM 耶路撒冷};
+  \node[font=\tiny,right,color=TextGray] at (8.8,3.7) {五旬節、被捕受審 (2, 21-23章)};
+
+  %% JOURNEY LINES
+  % First journey (13-14) — solid flame
+  \draw[ChapterFlame,line width=1.3pt,-{Stealth[length=2.2mm]}]
+    (8.6,6.0) -- (7.1,7.2) -- (7.2,9.3) -- (7.7,8.7) -- (8.0,8.1) -- (8.3,7.6) -- (8.6,6.0);
+  \node[font=\tiny,color=ChapterFlame] at (7.5,5.7) {第一次 First Journey};
+
+  % Second journey (15:36-18:22) — dashed gold
+  \draw[ScriptureGold,line width=1.3pt,densely dashed,-{Stealth[length=2.2mm]}]
+    (8.6,6.0) -- (6.0,8.6) -- (5.2,9.6) -- (4.6,8.9) -- (4.1,8.3) -- (4.6,7.2) -- (4.9,6.5) -- (6.7,7.7);
+  \node[font=\tiny,color=ScriptureGold] at (5.6,5.9) {第二次 Second Journey};
+
+  % Third journey (18:23-21:16) — dotted brown
+  \draw[CommentaryBrown,line width=1.3pt,dash dot,-{Stealth[length=2.2mm]}]
+    (6.7,7.7) -- (6.9,6.9) -- (8.9,5.0) -- (8.6,4.1);
+  \node[font=\tiny,color=CommentaryBrown] at (7.6,4.7) {第三次 Third Journey};
+
+  % Voyage to Rome (27-28) — dotted red/gold
+  \draw[SpiritFlame,line width=1.3pt,loosely dotted,-{Stealth[length=2.2mm]}]
+    (8.6,4.1) -- (8.9,5.0) -- (3.1,6.0) -- (2.2,7.6) -- (1.0,9.4);
+  \node[font=\tiny,color=SpiritFlame] at (2.5,5.3) {航向羅馬 Voyage to Rome};
+
+  % Compass Rose
+  \draw[->,very thick,color=ChapterFlame] (9.2,10.6) -- (9.2,11.3);
+  \draw[->,thick,color=ChapterFlame] (8.8,10.6) -- (9.6,10.6);
+  \node[font=\small\bfseries,color=ChapterFlame] at (9.2,11.5) {N};
 
   % Legend
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (10,8) {Legend};
-  \draw[green!60!black,line width=1.5pt] (8.5,7.5) -- (9.5,7.5);
-  \node[font=\tiny,right,color=TextGray] at (9.6,7.5) {1st (46-48 AD)};
-  \draw[SpiritBlue,line width=1.5pt] (8.5,7) -- (9.5,7);
-  \node[font=\tiny,right,color=TextGray] at (9.6,7) {2nd (49-52 AD)};
-  \draw[purple,line width=1.5pt] (8.5,6.5) -- (9.5,6.5);
-  \node[font=\tiny,right,color=TextGray] at (9.6,6.5) {3rd (53-57 AD)};
-  \draw[PentecostRed,line width=1.5pt,dashed] (8.5,6) -- (9.5,6);
-  \node[font=\tiny,right,color=TextGray] at (9.6,6) {To Rome (59-60)};
-
+  \node[font=\footnotesize\bfseries,color=ChapterFlame] at (2,11.5) {Legend 圖例};
+  \fill[red!70!black] (1.4,11.0) circle (0.10);
+  \node[font=\tiny,right,color=TextGray] at (1.6,11.0) {Sending church／Jerusalem／Rome};
+  \fill[ScriptureGold] (1.4,10.6) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (1.6,10.6) {Key city};
+  \draw[WaterBlue,line width=2pt] (1.2,10.2) -- (1.6,10.2);
+  \node[font=\tiny,right,color=TextGray] at (1.6,10.2) {Sea};
 \end{tikzpicture}
 
 \vspace{0.3cm}
-{\footnotesize\color{LightGray} 「放膽傳講神的國...並沒有受到阻礙。」— 使徒行傳 28:31}
-\end{center}
-\cleardoublepage
-
-% Seven Major Speeches page
-\thispagestyle{empty}
-\begin{center}
-\vspace*{0.5cm}
-{\Large\bfseries\color{ChapterBlue} 七次重要講道}\\[0.1cm]
-{\normalsize Seven Major Speeches in Acts}
-
-\vspace{0.5cm}
-
-\begin{tikzpicture}[scale=0.8]
-  % Peter's speeches (left column)
-  \node[font=\normalsize\bfseries,color=SpiritBlue] at (-3,6) {Peter 彼得};
-
-  \node[draw=SpiritBlue,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
-    at (-3,5) {Pentecost 五旬節\\2:14-40};
-  \node[draw=SpiritBlue,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
-    at (-3,3.8) {Temple 聖殿前\\3:12-26};
-  \node[draw=SpiritBlue,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
-    at (-3,2.6) {Sanhedrin 公會前\\4:8-12};
-
-  % Stephen (center)
-  \node[font=\normalsize\bfseries,color=PentecostRed] at (0,6) {Stephen 司提反};
-
-  \node[draw=PentecostRed,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.8cm]
-    at (0,4.4) {Defense 申辯\\7:2-53\\Longest speech\\最長的講道};
-
-  % Paul's speeches (right column)
-  \node[font=\normalsize\bfseries,color=purple] at (3,6) {Paul 保羅};
-
-  \node[draw=purple,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
-    at (3,5) {Antioch 安提阿\\13:16-41};
-  \node[draw=purple,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
-    at (3,3.8) {Athens 雅典\\17:22-31};
-  \node[draw=purple,fill=ScriptureBg,rounded corners,font=\tiny,align=center,minimum width=2.5cm]
-    at (3,2.6) {Agrippa 亞基帕\\26:2-29};
-
-  % Common elements arrow
-  \draw[->,ScriptureGold,thick] (-1,1.5) -- (1,1.5);
-  \node[font=\tiny,color=TextGray,align=center] at (0,1) {All proclaim:\\Christ died, rose, saves};
-  \node[font=\tiny,color=TextGray,align=center] at (0,0.5) {都宣告：基督死、復活、拯救};
-
-\end{tikzpicture}
-
-\vspace{0.5cm}
-
-% Church Growth statistics
-{\Large\bfseries\color{ChapterBlue} 教會增長 Church Growth}
-
-\vspace{0.3cm}
-
-\begin{tikzpicture}[scale=0.7]
-  % Growth bars
-  \fill[SpiritBlue!50] (0,0) rectangle (0.8,0.5);
-  \node[font=\tiny,right,color=TextGray] at (1,0.25) {120 waiting (1:15)};
-
-  \fill[SpiritBlue!60] (0,0.8) rectangle (3,1.3);
-  \node[font=\tiny,right,color=TextGray] at (3.2,1.05) {+3,000 at Pentecost (2:41)};
-
-  \fill[SpiritBlue!70] (0,1.6) rectangle (4.5,2.1);
-  \node[font=\tiny,right,color=TextGray] at (4.7,1.85) {5,000 men (4:4)};
-
-  \fill[SpiritBlue!80] (0,2.4) rectangle (6,2.9);
-  \node[font=\tiny,right,color=TextGray] at (6.2,2.65) {Disciples multiplied (6:7)};
-
-  \fill[SpiritBlue!90] (0,3.2) rectangle (8,3.7);
-  \node[font=\tiny,right,color=TextGray] at (8.2,3.45) {Churches strengthened, increasing daily (16:5)};
-
-  \fill[PentecostRed] (0,4) rectangle (10,4.5);
-  \node[font=\tiny,right,color=white] at (0.2,4.25) {Gospel reaches Rome - ends of the earth (28:31)};
-
-\end{tikzpicture}
-
-\end{center}
-\cleardoublepage
-
-% Commentary Sources page
-\thispagestyle{empty}
-\begin{center}
-\vspace*{0.5cm}
-{\Large\bfseries\color{ChapterBlue} 研讀資源 Study Resources}
-
-\vspace{0.5cm}
-
-\fcolorbox{ChapterBlue}{ScriptureBg}{%
-\begin{minipage}{4.5in}
-\vspace{0.3cm}
-{\normalsize\bfseries\color{ChapterBlue} John MacArthur 約翰·麥克阿瑟}\\[0.3em]
-\small\color{TextGray}
-使徒行傳是福音書的續集——記載復活升天之主如何透過聖靈建立並擴展祂的教會。這卷書的真正主角不是彼得或保羅，而是聖靈。路加記錄了從耶路撒冷的一個小群體到遍及羅馬帝國的教會網絡這一驚人增長。使徒們「放膽講論」——這種大膽的見證正是初代教會的標誌。\\[0.5em]
-{\footnotesize\itshape Acts is the sequel to the Gospels—recording how the risen, ascended Lord builds and expands His church through the Spirit. The true protagonist is not Peter or Paul, but the Holy Spirit. Luke records the remarkable growth from a small band in Jerusalem to a network of churches across the Roman Empire. The apostles spoke with "boldness"—this bold witness marks the early church.}
-\vspace{0.3cm}
-\end{minipage}
-}
-
-\vspace{0.4cm}
-
-\fcolorbox{CommentaryBrown}{ScriptureBg}{%
-\begin{minipage}{4.5in}
-\vspace{0.3cm}
-{\normalsize\bfseries\color{CommentaryBrown} G. Campbell Morgan 乾伯·摩根}\\[0.3em]
-\small\color{TextGray}
-使徒行傳記載的是「未完成的故事」——書卷結束時，保羅仍在傳道，教會仍在增長。這正是路加的用意：福音的故事沒有結束。每一代的教會都在繼續書寫「使徒行傳」。1:8是理解全書的鑰匙：地理的擴展對應著福音的普世性。「直到地極」不僅是地理概念，更是神救恩計劃的終極目標。\\[0.5em]
-{\footnotesize\itshape Acts is an "unfinished story"—the book ends with Paul still preaching, the church still growing. This is Luke's intention: the gospel story has no end. Each generation of the church continues writing "Acts." 1:8 is the key to understanding the whole book: geographic expansion corresponds to the universality of the gospel. "To the ends of the earth" is not just geography but God's ultimate purpose.}
-\vspace{0.3cm}
-\end{minipage}
-}
-
-\vspace{0.5cm}
-
-{\small\color{TextGray}
-\textbf{使徒行傳與保羅書信對照 Acts \& Paul's Epistles:}\\
-第一次旅程後 {\ensuremath{\rightarrow}} 加拉太書 · 哥林多事工 {\ensuremath{\rightarrow}} 帖撒羅尼迦前後書\\
-以弗所事工 {\ensuremath{\rightarrow}} 哥林多前後書 · 希臘三個月 {\ensuremath{\rightarrow}} 羅馬書\\
-羅馬監禁 {\ensuremath{\rightarrow}} 以弗所書、腓立比書、歌羅西書、腓利門書
-}
+{\footnotesize\color{LightGray} 「你們就必得著能力……直到地極，作我的見證。」— 使徒行傳 1:8}
 \end{center}
 \cleardoublepage
 
@@ -610,10 +801,10 @@ English: English Standard Version (ESV)\\[0.8em]
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
-\textbullet\ G. Campbell Morgan - The Acts of the Apostles\\[0.8em]
+\textbullet\ G. Campbell Morgan - The Acts of the Apostles (1924)\\[0.8em]
 
-使徒行傳是路加福音的續集（路加文集第二卷）。\\
-Acts is the sequel to the Gospel of Luke (Luke-Acts, Volume 2).
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
 $endif$
 
 \end{flushleft}
@@ -621,7 +812,7 @@ $endif$
 
 % Table of contents
 \pagestyle{fancy}
-{\color{ChapterBlue}\tableofcontents}
+{\color{ChapterFlame}\tableofcontents}
 \cleardoublepage
 
 %% --------------------------------------------
@@ -630,5 +821,649 @@ $endif$
 \mainmatter
 
 $body$
+
+%% ============================================
+%% BACK MATTER — APPENDICES
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% APPENDIX A: SCRIPTURE INDEX
+%% ============================================
+\chapter*{附錄一：經文索引 (Appendix A: Scripture Index)}
+\addcontentsline{toc}{chapter}{附錄一：經文索引 (Appendix A: Scripture Index)}
+\markboth{}{}
+
+\noindent 本索引收錄本書研讀中實際引用、且在使徒行傳經文本身有直接呼應或引述關係的舊約與新約經文，依書卷順序排列。
+
+\section*{舊約 Old Testament（使徒行傳明文引用）}
+
+{\small
+\begin{longtable}{@{}p{2.0cm}p{4.5cm}p{2.2cm}p{4.9cm}@{}}
+\toprule
+\textbf{使徒行傳} & \textbf{內容} & \textbf{舊約出處} & \textbf{應驗方式} \\
+\midrule
+\endhead
+2:17-21 & 彼得五旬節講道，解釋方言與聖靈降臨的現象 & 約珥書 2:28-32 & 「神說：在末後的日子，我要將我的靈澆灌凡血肉之軀的」——明文引用，宣告約珥所預言的「以後」已經開始 \\
+2:25-28 & 彼得論證基督的復活 & 詩篇 16:8-11 & 「你必不將我的靈魂撇在陰間，也不讓你的聖者見朽壞」——彼得指出大衛所說的不是自己，是預言基督的復活 \\
+2:34-35 & 彼得論證基督被高舉在神右邊 & 詩篇 110:1 & 「主對我主說：你坐在我的右邊」——大衛沒有升天，這節是論到那位大衛稱為「主」的基督 \\
+3:22-23 & 彼得在聖殿前對以色列人講道 & 申命記 18:15, 19 & 「神要從你們弟兄中間興起一位先知像我」——彼得宣告耶穌就是那位「像摩西的先知」的成就 \\
+4:11 & 彼得在公會前見證耶穌的身分 & 詩篇 118:22 & 「這耶穌是你們匠人所輕看的石頭，已成了房角的頭塊石頭」——被棄絕者成為根基的預言，直接應驗在耶穌身上 \\
+7:42-43 & 司提反講道，指控以色列在曠野的偶像敬拜 & 阿摩司書 5:25-27 & 「你們抬著摩洛的帳幕……因此我要把你們遷到巴比倫外去」——引用先知書控訴曠野世代的悖逆，預告被擄的審判 \\
+13:22 & 保羅在彼西底安提阿論大衛 & 撒母耳記上 13:14；詩篇 89:20 & 「我尋得耶西的兒子大衛，他是合我心意的人」——路加將兩處經文合併，見證神揀選大衛的心意 \\
+13:33 & 保羅論證基督的復活印證神的應許 & 詩篇 2:7 & 「你是我的兒子，我今日生了你」——保羅宣告這節在耶穌復活這件事上得著應驗 \\
+13:34 & 保羅論證基督復活的不朽壞 & 以賽亞書 55:3 & 「我必將所應許大衛那聖潔、可靠的恩典賜給你們」——與復活的應許相連 \\
+13:35 & 保羅再次引用，補充論證 & 詩篇 16:10 & 「你必不讓你的聖者見朽壞」——與彼得在2:27的引用相同，保羅獨立地將其用在同一個復活論證上 \\
+13:41 & 保羅警告聽眾不可輕忽福音 & 哈巴谷書 1:5 & 「你們這些藐視的人，要驚訝，要滅亡」——引用先知的警告，套用在拒絕福音的後果上 \\
+13:47 & 保羅、巴拿巴轉向外邦人宣教 & 以賽亞書 49:6 & 「我已立你作外邦人的光，叫你施行救恩，直到地極」——保羅將論彌賽亞的使命宣告用在教會的宣教使命上 \\
+15:16-17 & 雅各在耶路撒冷大會的結論 & 阿摩司書 9:11-12 & 「重新修造大衛倒塌的帳幕……凡稱為我名下的外邦人都尋求主」——證明外邦人蒙恩早已記在先知書上 \\
+23:5 & 保羅在公會前為自己失言道歉 & 出埃及記 22:28 & 「不可毀謗你百姓的官長」——保羅承認自己不知情下觸犯了這條律法的原則 \\
+28:26-27 & 保羅在羅馬對猶太領袖所說的最後一段話 & 以賽亞書 6:9-10 & 「你們聽了又聽，卻不明白……因為這百姓的心遲鈍」——路加用以賽亞對硬心的預言，總結全書猶太人普遍不信的結局 \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{新約平行與呼應 New Testament Parallels}
+
+{\small
+\begin{longtable}{@{}p{3.2cm}p{10.8cm}@{}}
+\toprule
+\textbf{經文} & \textbf{與使徒行傳的連結} \\
+\midrule
+\endhead
+路加福音 24:44-49 & 大使命與「等候從上頭來的能力」——與徒1:4-8 首尾相扣，路加文集的鉸鏈 \\
+路加福音 24:50-53 & 耶穌在伯大尼舉手祝福、升天——與徒1:9-11 是同一事件的兩次記載 \\
+羅馬書 1:16 & 「這福音本是神的大能，要救一切相信的」——呼應徒1:8「聖靈降臨在你們身上，你們就必得著能力」 \\
+羅馬書 10:12-13 & 「凡求告主名的，就必得救」——徒2:21 彼得引用同一句（源自珥2:32） \\
+加拉太書 1:15-24；2:1-10 & 保羅自述蒙召與耶路撒冷會面——對照徒9章掃羅歸主、徒15章耶路撒冷大會 \\
+哥林多前書 15:3-8 & 保羅列舉復活顯現的見證人名單——與徒1:3「用許多確據」彼此印證 \\
+加拉太書 2:11-14 & 安提阿事件，彼得與外邦人同桌又退縮——緊接徒10-11章哥尼流事件之後的張力 \\
+帖撒羅尼迦前書 1-3章 & 保羅回顧在帖撒羅尼迦的事工與逼迫——對照徒17:1-9 \\
+哥林多後書 11:23-27 & 保羅自述所受的患難清單——與徒13-28章的宣教旅程逐一對應 \\
+提摩太後書 3:11 & 保羅提及「在安提阿、以哥念、路司得所遭遇的逼迫」——直接回顧徒13-14章 \\
+雅各書 1:1；彼得前書 1:1 & 「分散」在各處的信徒——呼應徒8:1, 4；11:19 逼迫帶來的擴散 \\
+啟示錄 2-3章 & 給七教會的信，以弗所教會在列——與徒19-20章保羅在以弗所的事工、對長老的告別遙相呼應 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX B: KEY THEMES INDEX
+%% ============================================
+\chapter*{附錄二：主題索引 (Appendix B: Key Themes Index)}
+\addcontentsline{toc}{chapter}{附錄二：主題索引 (Appendix B: Key Themes Index)}
+\markboth{}{}
+
+\vspace{0.4cm}
+\section*{聖靈的工作 The Holy Spirit's Work}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+能力先於見證 Power Before Witness & 1:8 \\
+聖靈的差遣 The Spirit's Commissioning & 13:2 \\
+欺哄聖靈 Lying to the Spirit & 5:1-4 \\
+聖靈的引導：有時是「不許」 Guidance Through Closed Doors & 16:6-7 \\
+「聖靈和我們」一同決定 The Spirit and Us Together & 15:28 \\
+滿有聖靈與智慧的服事 Service Full of the Spirit & 6:3 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{教會的建造與擴展 The Church's Growth and Expansion}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+從耶路撒冷到地極的大綱 The 1:8 Outline & 1:8；8:1, 4；11:19-26 \\
+逼迫成為擴展的運輸工具 Persecution as a Vehicle & 8:4 \\
+安提阿——福音跨出去的地方 Antioch, Where It Broke Out & 11:26 \\
+教會是神用自己血買來的 Bought With His Own Blood & 20:28 \\
+神的道日見興旺 The Word of God Increased & 12:24 \\
+「不受阻礙」的結尾 Ending ``Unhindered'' & 28:31 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{見證與受苦 Witness and Suffering}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+配為這名受辱 Counted Worthy to Suffer Shame & 5:41 \\
+司提反效法所見證的那一位 Stephen's Dying Prayers & 7:59-60 \\
+生命故事就是見證 Personal Testimony as Witness & 22:1-21 \\
+復活的盼望：無法退讓的核心 The Hope of the Resurrection & 23:6；24:13-15；26:22-23 \\
+眼淚牧養 Shepherding With Tears & 20:31, 33-34 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{福音跨越邊界 The Gospel Crossing Boundaries}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+三面牆被拆毀：撒瑪利亞人、太監、掃羅 Three Walls Broken & 8章；9章 \\
+神同時預備兩顆心 God Prepares Both Hearts & 10章 \\
+大布降下三次 The Sheet Let Down Three Times & 10:16 \\
+神所潔淨的，你不可當作污俗的 What God Has Cleansed & 10:15；11:9 \\
+恩典的次序不能顛倒 The Order of Grace & 15:11 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{悔改與信心 Repentance and Faith}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+從扎心到悔改 From Cut to the Heart to Repentance & 2:37-38 \\
+因信稱義首次公開宣告 Justification by Faith Proclaimed & 13:38-39 \\
+焚燒邪術書 Burning the Books of Magic & 19:19 \\
+風暴中的信心 Faith in the Storm & 27:25 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{禱告與同心合意 Prayer and One Accord}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+同心合意恆切禱告 With One Accord in Prayer & 1:14；4:24 \\
+求放膽而非求脫離 Praying for Boldness, Not Escape & 4:29 \\
+切切的禱告——教會的武器 Earnest Prayer as the Church's Weapon & 12:5 \\
+禱告蒙應允時心裡的驚訝 Astonishment at Answered Prayer & 12:15 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{使徒的講道 The Apostolic Preaching Pattern}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+彼得的五旬節講道 Peter's Pentecost Sermon & 2:14-40 \\
+司提反用歷史指向基督 Stephen's History Points to Christ & 7:2-53 \\
+保羅的彼西底安提阿講道 Paul's Pisidian Antioch Sermon & 13:16-41 \\
+保羅在雅典借對方的立足點 Paul's Areopagus Address & 17:22-31 \\
+保羅向亞基帕的見證 Paul's Testimony Before Agrippa & 26:1-29 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{保羅的呼召與宣教的道路 Paul's Calling and the Missionary Road}
+
+{\small
+\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
+\toprule
+揀選在先，苦難隨後 Chosen First, Suffering Follows & 9:15-16 \\
+拒絕被當作神 Refusing to Be Worshiped & 14:14-15 \\
+經歷許多艱難，進入神的國 Through Many Tribulations & 14:22 \\
+走完路程，比保全性命更重要 Finishing the Race & 20:24 \\
+大馬士革路上的異象 The Heavenly Vision & 26:19 \\
+\bottomrule
+\end{tabular}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX C: REFERENCES
+%% ============================================
+\chapter*{附錄三：參考資料 (Appendix C: References)}
+\addcontentsline{toc}{chapter}{附錄三：參考資料 (Appendix C: References)}
+\markboth{}{}
+
+\noindent 本書「解經洞見」與「黃長老查經．深讀」各節所引用的注釋家與著作如下，依時代排列。
+
+\section*{近代與當代釋經 Modern \& Contemporary Commentary}
+
+\begin{itemize}
+\item Morgan, G. Campbell (1863--1945). \textit{The Acts of the Apostles}. New York: Fleming H. Revell, 1924.
+\item MacArthur, John (b. 1939). \textit{The MacArthur New Testament Commentary: Acts 1--12, 13--28}. Chicago: Moody Publishers. \\ 講道系列 "Acts" (44V1 起)，錄音與講章見 gty.org。
+\item Bruce, F.F. \textit{The Book of the Acts}. NICNT. Grand Rapids: Eerdmans.
+\item Stott, John. \textit{The Message of Acts}. BST. Downers Grove: IVP, 1990.
+\item Polhill, John B. \textit{Acts}. NAC. Nashville: Broadman \& Holman, 1992.
+\end{itemize}
+
+\section*{中文查經資源 Chinese-Language Bible Study Resources}
+
+\begin{itemize}
+\item 黃長老（Elder Wong）。使徒行傳查經班教導，Thursday Wong Study Group 整理。
+\end{itemize}
+
+\section*{聖經版本 Bible Versions Used}
+
+\begin{itemize}
+\item 中文：和合本修訂版 (Revised Chinese Union Version, RCUV)
+\item English: English Standard Version (ESV)
+\item 原文參考：Nestle-Aland 28th Edition (NA28); UBS Greek New Testament 5th Edition
+\item 經文核對 Verification: \url{https://www.ai-eden.com/bible}
+\end{itemize}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX D: THE ASCENDED CHRIST STILL SPEAKS
+%% ============================================
+\chapter*{附錄四：升天以後，主仍親自說話 (Appendix D: The Ascended Christ Still Speaks)}
+\addcontentsline{toc}{chapter}{附錄四：升天以後，主仍親自說話 (Appendix D: The Ascended Christ Still Speaks)}
+\markboth{}{}
+
+\noindent 使徒行傳不是「紅字聖經」——它記載的是教會的作為，不是耶穌在地上的言行。但正因如此，書中僅有的幾處主親自開口說話，格外值得留意：升天的主，並沒有停止對祂的教會說話。
+
+{\small
+\begin{longtable}{@{}p{2.2cm}p{4.0cm}p{6.6cm}@{}}
+\toprule
+\textbf{經文} & \textbf{場合} & \textbf{說話內容與意義} \\
+\midrule
+\endhead
+1:7-8 & 升天之前，對使徒最後的吩咐 & 「你們就必得著能力……作我的見證」——全書的引擎，升天前留下的最後命令 \\
+9:4-6 & 大馬士革路上，向掃羅顯現 & 「掃羅，掃羅，你為甚麼逼迫我？」——逼迫教會就是逼迫祂自己；同一事件在22:7-10、26:14-18 由保羅親自複述兩次 \\
+18:9-10 & 夜間異象，向在哥林多的保羅顯現 & 「不要怕，只管講，不要沉默……有我與你同在」——鼓勵懼怕退縮的僕人 \\
+23:11 & 夜間，向被囚在耶路撒冷的保羅顯現 & 「放心吧！你怎樣在耶路撒冷為我作見證，也必怎樣在羅馬為我作見證」——在最黑暗的時刻，重申異象仍要成就 \\
+\bottomrule
+\end{longtable}
+}
+
+\vspace{0.3cm}
+\noindent\textbf{觀察：}這幾次顯現都不是隨機的安慰，而是精準地出現在使命受到威脅的時刻——逼迫者將要被扭轉（9章）、僕人心生懼怕（18章）、異象似乎要落空（23章）。升天的主沒有缺席祂自己吩咐的大使命；祂親自出面，確保這使命完成。
+
+\vspace{0.3cm}
+\begin{center}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.2in}
+\centering\vspace{0.2cm}
+\textcolor{JesusRed}{\textit{「你怎樣在耶路撒冷為我作見證，\\
+也必怎樣在羅馬為我作見證。」}}\\[0.3em]
+\small — 使徒行傳 23:11
+\vspace{0.2cm}
+\end{minipage}}
+\end{center}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX E: LUKE-ACTS — ONE STORY, TWO ACTS
+%% ============================================
+\chapter*{附錄五：路加文集——一個故事，兩幕戲 (Appendix E: Luke-Acts, One Story in Two Acts)}
+\addcontentsline{toc}{chapter}{附錄五：路加文集——一個故事，兩幕戲 (Appendix E: Luke-Acts, One Story in Two Acts)}
+\markboth{}{}
+
+\section*{同一位作者，同一位收信人，同一個故事}
+
+{\small
+\begin{tabular}{@{}p{2.6cm}p{4.7cm}p{4.7cm}@{}}
+\toprule
+& \textbf{路加福音} & \textbf{使徒行傳} \\
+\midrule
+焦點 & 耶穌在地上「開頭」所做所教導的 & 耶穌藉聖靈、藉教會「繼續」做的 \\
+聖靈的位置 & 降在耶穌身上（路3:22；4:1, 14, 18） & 降在教會身上（徒2章起） \\
+地理方向 & 從加利利到耶路撒冷 & 從耶路撒冷到地極 \\
+場景收束 & 以升天畫下句點（路24:50-51） & 以升天重新起頭（徒1:9-11） \\
+篇幅 & 新約最長的福音書 & 新約最長的歷史敘事書 \\
+合計 & \multicolumn{2}{l}{兩卷合起來佔新約篇幅近四分之一} \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\section*{路加福音記載、使徒行傳延續的線索}
+
+\begin{itemize}
+\item 大使命（路24:47-49 → 徒1:8）：「奉他的名傳悔改、赦罪的道，從耶路撒冷起首，直傳到萬邦」
+\item 聖靈的應許（路24:49 → 徒1:5, 2:1-4）：「等候從上頭來的能力」到「都被聖靈充滿」
+\item 耶路撒冷的中心性（路貫穿全書指向耶路撒冷 → 徒1-7章從耶路撒冷開始擴散）
+\item 受苦的先知傳統（路13:33-34 先知必須死在耶路撒冷 → 徒7章司提反、徒12章雅各殉道）
+\end{itemize}
+
+\vspace{0.3cm}
+\noindent\textbf{觀察：}路加福音以升天結束，使徒行傳以升天開始——這不是重複或矛盾，是古代歷史寫作常見的「銜接手法」，像兩本書之間搭一座橋，確定下一卷書的主角，就是上一卷書那一位。
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX F: SEVEN MAJOR SPEECHES
+%% ============================================
+\chapter*{附錄六：使徒行傳七次重要講道 (Appendix F: The Seven Major Speeches of Acts)}
+\addcontentsline{toc}{chapter}{附錄六：使徒行傳七次重要講道 (Appendix F: The Seven Major Speeches of Acts)}
+\markboth{}{}
+
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{ChapterFlame} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}
+使徒行傳近三分之一的篇幅是講道詞——路加要讀者聽見的，
+不只是\textbf{事件}，更是使徒們如何用神的話\textbf{解釋}這些事件。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\section*{1. 彼得：五旬節講道 (2:14-40)}
+\noindent\textbf{場合：}聖靈降臨後，回應「他們是灌滿了新酒」的譏誚\\
+\noindent\textbf{核心：}引用約珥書2:28-32與詩篇16、110篇，論證「你們釘在十字架上的這位耶穌，神已經立他為主，為基督了」(2:36)
+
+\vspace{0.2cm}
+\section*{2. 彼得：所羅門廊講道 (3:12-26)}
+\noindent\textbf{場合：}醫治瘸腿的人之後，回應群眾的驚訝\\
+\noindent\textbf{核心：}「你們卻把那聖潔公義者棄絕了」——呼籲以色列人悔改歸向那位「復興萬有」的彌賽亞
+
+\vspace{0.2cm}
+\section*{3. 彼得：公會前的答辯 (4:8-12)}
+\noindent\textbf{場合：}與約翰一同被帶到公會受審\\
+\noindent\textbf{核心：}「除他以外，別無拯救，因為在天下人間，沒有賜下別的名，我們可以靠著得救」(4:12)
+
+\vspace{0.2cm}
+\section*{4. 司提反：公會前的歷史回顧 (7:2-53)}
+\noindent\textbf{場合：}被誣告褻瀆聖殿與律法，在公會前受審\\
+\noindent\textbf{核心：}縱覽亞伯拉罕、約瑟、摩西、聖殿的歷史，指出以色列人一貫「抗拒聖靈」，並反問：神豈住在人手所造的殿宇裏？
+
+\vspace{0.2cm}
+\section*{5. 保羅：彼西底安提阿會堂講道 (13:16-41)}
+\noindent\textbf{場合：}第一次宣教旅程，安息日在猶太會堂\\
+\noindent\textbf{核心：}從出埃及、士師、大衛，講到耶穌的死而復活，引用詩篇2、16篇與以賽亞書55章，宣告「因信這位耶穌得稱義」(13:39)
+
+\vspace{0.2cm}
+\section*{6. 保羅：雅典亞略巴古講道 (17:22-31)}
+\noindent\textbf{場合：}在異教哲學之城，面對「未識之神」的祭壇\\
+\noindent\textbf{核心：}從創造主、萬人的共同源頭講起，引用希臘詩人的話，呼籲悔改，因為神「已經定了日子，要藉著他所設立的人按公義審判天下」
+
+\vspace{0.2cm}
+\section*{7. 保羅：向亞基帕王作見證 (26:2-29)}
+\noindent\textbf{場合：}在羅馬巡撫與猶太王面前受審，上告凱撒之前\\
+\noindent\textbf{核心：}親述大馬士革路上的異象與蒙召，見證「先知和摩西所說將來必成的事」，並反問亞基帕：「王信先知嗎？我知道你是信的」
+
+\vspace{0.3cm}
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}
+\centering\vspace{0.2cm}
+{\footnotesize\color{TextGray}
+\textbf{結構觀察：}前四篇講道人是彼得／司提反，對象是猶太人，地點在耶路撒冷；
+後三篇講道人是保羅，對象逐漸從猶太會堂（13章）擴大到異教哲學家（17章）、
+再到羅馬官員與猶太王（26章）——講道的對象範圍，正走著1:8所畫的路線。}
+\vspace{0.2cm}
+\end{minipage}}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX G: GREEK WORD GLOSSARY
+%% ============================================
+\chapter*{附錄七：希臘文原文詞彙表 (Appendix G: Greek Word Glossary)}
+\addcontentsline{toc}{chapter}{附錄七：希臘文原文詞彙表 (Appendix G: Greek Word Glossary)}
+\markboth{}{}
+
+\noindent 本表彙整全書各章「原文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
+
+{\small
+\begin{longtable}{@{}p{2.6cm}p{2.6cm}p{3.0cm}p{5.4cm}@{}}
+\toprule
+\textbf{希臘文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
+\midrule
+\endhead
+ἄγγελος & angelos & 使者、天使 & 12:7, 11, 15——猶太人相信個人有守護天使 \\
+ἀγνώστῳ θεῷ & agnōstō theō & 未識之神明 & 17:23——雅典人的壇，保羅借為宣講真神的橋樑 \\
+ἀγράμματος καὶ ἰδιώτης & agrammatos kai idiōtēs & 沒有學問、平民 & 4:13——公會眼中的門外漢，卻認出「曾與耶穌同在」 \\
+ἀκρογωνιαῖος & akrogōniaios & 房角石、基石 & 4:11，引詩118:22——被棄的石頭成了根基 \\
+ἀκωλύτως & akōlytōs & 不受阻礙地 & 28:31——全書最後一字，新約僅此一見 \\
+ἀνάστασις & anastasis & 復活 & 23:6——保羅將審判焦點釘於此字 \\
+ἀνακρίνω & anakrinō & 仔細查考、審察 & 17:11——庇哩亞人主動核實所傳的道 \\
+ἀνελήμφθη & anelēmphthē & 被接上升 & 1:2, 11——被動語態，強調非自行離去 \\
+ἀπερίτμητοι & aperitmētoi & 未受割禮的（心與耳） & 7:51——司提反將割禮記號轉化為內心回應 \\
+ἀπολογία / ἀπολογέομαι & apologia / apologeomai & 申辯、辯詞 & 22:1；24:10；26:1-2——衍生英文 apologetics \\
+ἀρχηγός & archēgos & 創始者、元帥 & 3:15；5:31——「生命的創始者」，來2:10同字 \\
+ἀτενίζω & atenizō & 定睛、專注凝望 & 1:10；7:55；13:9；14:9——望向天／望向耶穌的關聯詞 \\
+ἀφορίζω & aphorizō & 分派、劃分出來 & 13:2——聖靈「分派」巴拿巴和掃羅 \\
+αἵρεσις & hairesis & 教派、異端 & 24:14——保羅承接此詞，扭轉為正統信仰的延續 \\
+αὐξάνω / πληθύνω & auxanō / plēthynō & 興旺、增多 & 12:24；19:20——標記福音擴展的階段性總結 \\
+αὐτομάτη & automatē & 自動地 & 12:10——鐵門「自動」開，衍生英文 automatic \\
+γλῶσσα & glōssa & 舌頭、語言 & 2:3-4, 11——可辨識的真實人類語言 \\
+δεισιδαιμονεστέρους & deisidaimonesterous & 敬畏鬼神（或宗教心強） & 17:22——保羅以中性說法開場，不先冒犯聽眾 \\
+δεκτός & dektos & 蒙悅納、可接受的 & 10:35——與路4:19「悅納人的禧年」同字根 \\
+δεσμός & desmos & 鎖鏈、捆綁 & 12:6-7——鐵鏈「脫落」用自動語態 \\
+διακονέω / διακονία & diakoneō / diakonia & 服事、供給 & 6:1-4——日常供給與傳道事奉同一字根 \\
+διακρίνω & diakrinō & 疑惑、區別 & 10:20；11:12；15:9——猶豫與區分猶太／外邦人的心結 \\
+διασπείρω & diaspeirō & 分散 & 8:1, 4——衍生「大流散」，逼迫成為福音撒種的方式 \\
+διασῴζω & diasōzō & 帶領安全渡過、全然拯救 & 27:44；28:1, 4——強調徹底、完全的拯救 \\
+δικαιόω & dikaioō & 稱義、宣告為義 & 13:39——法庭用語，身分的宣告而非道德改造 \\
+δύναμις & dynamis & 能力、大能 & 1:8——衍生英文 dynamite \\
+ἐκκλησία & ekklēsia & 教會、蒙召出來的群體 & 20:28——保羅稱之為「神的教會」 \\
+ἔκστασις & ekstasis & 魂遊象外、出神狀態 & 10:10；11:5——衍生英文 ecstasy \\
+ἐκτενῶς & ektenōs & 切切地、迫切地 & 12:5——原意伸展、拉緊，如繃緊的弓弦 \\
+ἐκχέω & ekcheō & 澆灌、傾倒 & 2:17-18, 33——約珥書「澆灌」的動詞 \\
+ἐπίσκοπος & episkopos & 監督、負責督導的人 & 20:28——與20:17「長老」同一批人的兩個稱呼 \\
+ἐπικαλέομαι Καίσαρα & epikaleomai Kaisara & 向凱撒上訴 & 25:11——羅馬公民法定用語，管轄權即刻轉移 \\
+ἐπιστρέφω & epistrephō & 轉向 & 13:46；14:15——轉向外邦人／歸向永生的神 \\
+εὐαγγελίζω & euangelizō & 傳講好消息 & 8:4, 12, 25, 35, 40——反覆出現，強調同一福音 \\
+εὐθυμέω & euthymeō & 放心、心裡歡喜 & 27:22, 25, 36——先信而後放心的次序 \\
+εὐνοῦχος & eunouchos & 太監 & 8:27——申23:1排除在會眾外，賽56:3-5預告神接納 \\
+ἕως ἐσχάτου τῆς γῆς & heōs eschatou tēs gēs & 直到地極 & 1:8——呼應賽49:6 \\
+ζυγός & zygos & 軛 & 15:10——「不能負的軛」，與太11:29-30對比 \\
+θαρσέω & tharseō & 放心、壯膽 & 23:11——主對保羅所說的第一個字，呼應約16:33 \\
+ἴασις & iasis & 醫治 & 4:22（動詞ἰάομαι見4:30）——路加是醫生，用詞精細 \\
+καθαρίζω & katharizō & 潔淨 & 10:15；11:9——被動語態，潔淨出於神不出於禮儀 \\
+κατανύσσομαι & katanyssomai & 扎心、刺透 & 2:37——全新約僅此一次 \\
+κλῆρος & klēros & 籤、份 & 1:17, 26——職份與抽籤同字根，衍生英文 clergy \\
+κοινός & koinos & 俗、污俗、共同的 & 10:14-15, 28；11:8——由食物延伸到人的潔淨用詞 \\
+κοιμάω & koimaō & 睡了、長眠 & 7:60——暗示暫時安息非終局 \\
+λαμπρός & lampros & 明亮、燦爛 & 22:6；26:13——大馬士革路上「比日頭還亮」的光 \\
+λύκοι βαρεῖς & lykoi bareis & 兇暴的豺狼 & 20:29——假師傅將從內外興起 \\
+μάρτυς & martys & 見證人 & 1:8；14:17——衍生英文 martyr（殉道者） \\
+μαίνομαι & mainomai & 瘋狂、失去理智 & 26:24——非斯都打斷保羅時所用 \\
+μάταιος & mataios & 虛妄、虛空 & 14:15——呼應詩115章對偶像的嘲諷 \\
+μετανοέω & metanoeō & 悔改 & 2:38；17:30——整個生命方向的扭轉 \\
+νοσφίζομαι & nosphizomai & 私自留下、私吞 & 5:2-3——七十士譯本亞干私藏當滅之物同字 \\
+ὁμοθυμαδόν & homothymadon & 同心合意 & 1:14；2:46；4:24——初代教會的標記詞 \\
+ἡ ὁδός & hē hodos & 這道、這條路 & 9:2；19:9, 23；22:4；24:14, 22——基督信仰是活出來的生命方式 \\
+οὐράνιος ὀπτασία & ouranios optasia & 從天上來的異象 & 26:19——保羅一生事奉的定錨點 \\
+παρρησία & parrēsia & 放膽、坦然無懼 & 4:13, 29, 31；5:29；28:31——貫穿逼迫敘事的關鍵詞 \\
+παροξυσμός & paroxysmos & 激烈的爭執 & 15:2, 39——衍生英文 paroxysm \\
+περίεργος & periergos & 過分講究之事、邪術 & 19:19——聲稱操控超自然力量的行業 \\
+περιτέμνω & peritemnō & 行割禮 & 15:1, 5——耶路撒冷大會爭議的起點 \\
+περιεποιήσατο & periepoiēsato & 買來、贏得為己有 & 20:28——中間語態，強調神為自己付上代價 \\
+πειράζω & peirazō & 試探 & 5:9——「試探主的靈」，與詩95:9同動詞 \\
+πείθω & peithō & 說服、勸服 & 26:28；28:23-24——保羅講道果效的貫穿字根 \\
+πλήρης πνεύματος & plērēs pneumatos & 滿有聖靈（和智慧） & 6:3, 5；7:55——揀選執事的資格與司提反殉道的鎮定 \\
+πνοή / πνεῦμα & pnoē / pneuma & 氣息、風、靈 & 2:2——呼應創2:7神吹氣、結37章異象 \\
+προσωπολήμπτης & prosōpolēmptēs & 偏待人、看外貌待人的人 & 10:34——彼得宣告神「不是」這樣的一位 \\
+πρόσωπον ἀγγέλου & prosōpon angelou & 天使的面貌 & 6:15——聖靈的同在使人無法直視司提反的平靜 \\
+προσκαρτερέω & proskartereō & 恆切、堅持不懈 & 1:14；2:42, 46——持續不斷的操練，非一次性聚會 \\
+Ῥωμαῖος & Rhōmaios & 羅馬公民 & 22:25-29——決定保羅能否免受鞭刑 \\
+σκεῦος ἐκλογῆς & skeuos eklogēs & 揀選的器皿 & 9:15——揀選在先，苦難隨後 \\
+σκηνοποιός & skēnopoios & 製造帳棚的人 & 18:3——保羅自食其力的手藝 \\
+σκληροτράχηλος & sklērotrachēlos & 硬著頸項 & 7:51——舊約控告以色列悖逆的常用詞 \\
+σκωληκόβρωτος & skōlēkobrōtos & 被蟲咬蝕 & 12:23——全新約僅此一次，描述希律死狀 \\
+σεισμὸς μέγας & seismos megas & 大地震 & 16:26——衍生英文 seismic \\
+συνωμοσία & synōmosia & 同謀、密謀 & 23:13——字根含「一同起誓」之意 \\
+φωνή & phōnē & 聲音 & 9:4, 7——客觀的聲音與主觀的理解之張力 \\
+χειροποίητος & cheiropoiētos & 人手所造的 & 7:48——弗2:11、來9:11,24同詞形容偶像 \\
+ψεύδομαι & pseudomai & 說謊、欺騙 & 5:3-4——欺騙聖靈即欺騙神 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX H: READING PLAN
+%% ============================================
+\chapter*{附錄八：使徒行傳讀經計劃 (Appendix H: A Reading Plan for Acts)}
+\addcontentsline{toc}{chapter}{附錄八：使徒行傳讀經計劃 (Appendix H: A Reading Plan for Acts)}
+\markboth{}{}
+
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{ChapterFlame} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}
+重要的不是\textit{讀完}，是\textit{看見那位仍在做工的聖靈}。\\
+若某一章的話打中你——停下來，在那裡住一天。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+\noindent 本計劃依全書三大部分（1:8的地理結構）分為四週。
+
+\section*{第一週：耶路撒冷教會 (1-7章)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+1 & 升天與等候 & 我是先求能力，還是急著自己做工？ \\
+2 & 五旬節 & 我被現象吸引，還是被那位耶穌吸引？ \\
+3-4 & 醫治與逼迫 & 「除他以外，別無拯救」——我真信這是唯一的路嗎？ \\
+5-6 & 紀律與執事 & 我對神有沒有「假裝」的地方？ \\
+7 & 司提反殉道 & 我讀舊約，看見的是律法，還是那位被釘又復活的主？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第二週：猶太．撒瑪利亞 (8-12章)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+8-9 & 腓利與掃羅 & 逼迫把我趕散時，我是抱怨，還是像腓利一樣往前傳講？ \\
+10-11 & 哥尼流歸主 & 我心裡有沒有一群「不潔淨」的人，是我還沒準備接納的？ \\
+12 & 希律逼迫與彼得被救 & 我的禱告，是抱著會蒙應允的信心，還是走個形式？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第三週：直到地極·上 (13-20章)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+13-14 & 第一次宣教旅程 & 面對拒絕與逼迫，我還願意「轉向外邦人」嗎？ \\
+15 & 耶路撒冷大會 & 我有沒有給恩典加上自己的條件？ \\
+16-18 & 第二次宣教旅程 & 監獄中還能唱詩讚美——我的患難裡有沒有讚美？ \\
+19-20 & 第三次宣教旅程 & 「無論做甚麼」都當作是給主做的——我今天的工作是嗎？ \\
+\bottomrule
+\end{longtable}
+}
+
+\section*{第四週：直到地極·下 (21-28章)}
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\toprule
+\textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
+\midrule
+\endhead
+21-23 & 被捕與審判 & 明知前路有捆鎖患難，我還願意「往耶路撒冷去」嗎？ \\
+24-26 & 為道申辯 & 面對質疑，我能像保羅一樣，把話題帶回耶穌的死而復活嗎？ \\
+27-28 & 航向羅馬 & 全書「暢通無阻」地結束——我今天的見證，有沒有被什麼攔阻？ \\
+\bottomrule
+\end{longtable}
+}
+
+%% ============================================
+%% BACK COVER PAGE
+%% ============================================
+\cleardoublepage
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.2pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ChapterFlame, line width=0.4pt, opacity=0.6]
+    ([xshift=0.52in,yshift=0.52in]current page.south west)
+    rectangle
+    ([xshift=-0.52in,yshift=-0.52in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[JesusRed] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.016in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{\fill}
+
+{\fontsize{15}{18}\selectfont\scshape\color{ChapterFlame} μάρτυρές μου}\\[0.10cm]
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``My Witnesses'' \;\;
+\bfseries\color{JesusRed} 我的見證}
+
+\vspace{0.25cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.35cm}
+
+{\normalsize\bfseries\color{ChapterFlame} 關於本書 \;\; \footnotesize\scshape About This Book}
+
+\vspace{0.2cm}
+\noindent\begin{minipage}{4.7in}
+\footnotesize\color{TextGray}
+本書逐章研讀使徒行傳二十八章，整合黃長老查經教導、
+John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
+並貫通路加福音、保羅書信與啟示錄。
+全書以使徒行傳 1:8 為總綱：
+「你們就必得著能力，並要在耶路撒冷、猶太全地和撒瑪利亞，
+直到地極，作我的見證。」\\[0.4em]
+{\itshape
+A chapter-by-chapter study of all 28 chapters of Acts,
+integrating Elder Wong's teaching, John MacArthur's verse-by-verse
+exposition, and G. Campbell Morgan's spiritual analysis —
+framed by Acts 1:8's outline: Jerusalem, Judea and Samaria,
+and to the end of the earth.}
+\end{minipage}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterFlame} 七次重要講道 \;\; Seven Major Speeches}\\[0.3em]
+{\footnotesize\color{TextGray}
+彼得·五旬節 (2:14-40) \textbullet\ 彼得·所羅門廊 (3:12-26) \textbullet\ 彼得·公會前 (4:8-12)\\
+司提反·公會前 (7:2-53) \textbullet\ 保羅·彼西底安提阿 (13:16-41)\\
+保羅·亞略巴古 (17:22-31) \textbullet\ 保羅·向亞基帕王 (26:2-29)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「但聖靈降臨在你們身上，你們就必得著能力，並要……直到地極，\\
+作我的見證。」}\\[0.15cm]
+{\scriptsize\color{ChapterFlame} — 使徒行傳 1:8}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
 
 \end{document}
