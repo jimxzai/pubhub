@@ -29,7 +29,14 @@
       "WebFetch(domain:www.truthaccordingtoscripture.com)",
       "WebFetch(domain:www.bibliaplus.org)",
       "WebFetch(domain:www.swartzentrover.com)",
-      "WebFetch(domain:ai-eden.com)"
+      "WebFetch(domain:ai-eden.com)",
+      "Skill(ask-elder-wong)",
+      "Skill(ask-elder-wong:*)",
+      "Bash(sed -n '/全經連線/,/提問式對話/p' 04-samaritan-woman.md)",
+      "Bash(sed -n '/全經連線/,/提問式對話/p' 10-good-shepherd.md)",
+      "Bash(sed -n '/黃長老精義/,/生命應用/p' 10-good-shepherd.md)",
+      "Bash(./scripts/build-gospel-consolidated.sh)",
+      "Bash(pdftotext gospel-of-john-consolidated.pdf -)"
     ]
   }
 }
