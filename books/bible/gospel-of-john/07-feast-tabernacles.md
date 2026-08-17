@@ -169,23 +169,32 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
-> 活水的江河從信徒腹中流出——這是聖靈的工作。基督不僅解我們的渴，還使我們成為活水的管道，使別人也得滋潤。
+> "We are not obliged to delay to inquire what this meant, since the evangelist has explained it."
+>
+> 這話是甚麼意思，我們不必費力猜——**福音書作者自己解釋了**（約 7:39：這話是指著信祂之人要受聖靈說的）。
+>
+> — Augustine, *Tractates on John*, **Tractate XXXII**（論約 7:37-39），NPNF1-07
 
 **屈梭多模 (Chrysostom)**:
-> 為什麼耶穌要在最後一天、最隆重的那天宣告？因為那天眾人聚集最多，注意力最集中。祂選擇在儀式高潮時發言，使聽眾永難忘記。
+> "They who come to the divine preaching and give heed to the faith, must manifest the desire of thirsty men for water… they who hear the divine oracles, if they receive them thirsting, will never be weary until they have drunk them up."
+>
+> 來聽神聖道理的人，必須帶著渴者求水的切慕……**聽神言語的人若是渴著領受，不喝盡就不會罷休。**
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LI**（論約 7:37-38），NPNF1-14
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 『人若渴了』——這渴不是肉體的渴，乃是靈魂的渴。世人用各種方式試圖解渴，卻越喝越渴。唯有來到基督面前，才能真正得滿足。
+> "No plots or intrigues of enemies terrified Christ, so as to cause him to desist from his duty; but, on the contrary, his courage rose with dangers."
+>
+> 仇敵的密謀恐嚇不了基督，攔不住祂盡職；恰恰相反，**危險越大，祂的膽量越壯。**
+>
+> — John Calvin, *Commentary on John*, 約 7:37 注（CCEL, calcom34）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 > 耶穌選擇在取水儀式的高潮宣告，時機完美。當眾人期待彌賽亞時代的活水時，耶穌宣告：我就是那活水的源頭。
-
-**乾伯·摩根 (G. Campbell Morgan)**:
-> 『從來沒有人像他這樣講話的！』——這些差役是來捉拿耶穌的，卻反被耶穌的話語捉住了。權柄的話語使權力的武器失效。
 
 ---
 

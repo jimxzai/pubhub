@@ -146,12 +146,20 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate XLVII**（論約 10 章，引及此事），NPNF1-07
 
 **屈梭多模 (John Chrysostom)**:
-> 彼拉多問『真理是甚麼？』卻不等回答就走了。這是世界的悲劇——詢問真理卻不願等待答案。
+> "He so took him by these short words, that he said, 'What is truth?' But for the present he applieth himself to what was pressing, for he knew that this question needed time, and desired to rescue Him from the violence of the Jews."
+>
+> 主這幾句短短的話竟如此抓住了彼拉多，以致他問：「真理是甚麼？」但他隨即轉去處理眼前急務——**他知道這個問題需要時間**，而他當下想的是把耶穌從猶太人的暴力中救出來。
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LXXXIV**（論約 18:37-38），NPNF1-14
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 『我的國不屬於這世界』——基督不是否認他對世界的主權，而是說明他的國度運作方式不同。教會不應用刀劍推進福音。
+> "By these words he acknowledges that he is a king… he declares that there is no disagreement between his kingdom and political government or order."
+>
+> 藉這話祂承認自己是王……同時聲明：**祂的國與政治的治理秩序並無衝突**——控告是虛謊的。
+>
+> — John Calvin, *Commentary on John*, 約 18:36 注（CCEL, calcom35）
 
 ### 當代釋經
 

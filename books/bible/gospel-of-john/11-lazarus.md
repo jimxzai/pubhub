@@ -159,24 +159,31 @@ publisher: 三書精讀出版系統
 > 「祂悲歎，祂哭了，祂大聲呼叫。**一個被積習之罪重壓在底下的人，要起來是何等艱難！** 然而他確實起來了——他是被裡面隱藏的恩典所催活的；那大聲一呼之後，他就起來了。」
 >
 > — Augustine, *Tractates on John*, **Tractate XLIX**（論約 11 章），NPNF1-07
+
 **金口約翰 (John Chrysostom, 349-407)**:
 
-> 耶穌哭了——這表明他真正與人一同哀傷。他不是麻木的神，而是與我們同哭的救主。這淚水是愛的明證。
+> "So that the question might not be attended with lamentation… He had not as yet shown any sign of the raising, and goeth not as if to raise Lazarus, but as if to weep. For the Jews show that He seemed to them to be going to bewail, not to raise him; at least they said, 'Behold how he loved him!'"
+>
+> 祂尚未顯出任何要叫人復活的跡象；祂走去，不像是要叫拉撒路起來，**倒像是要去哭。** 猶太人的反應可以為證——他們說：「你看他愛這人是何等懇切。」
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LXIII**（論約 11:34-36），NPNF1-14
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 『復活在我，生命也在我』——基督在這裏宣告：生與死的權柄都在他手中。他不僅賜生命，他本身就是生命的源頭。
+> "He is the resurrection, because the restoration from death to life naturally comes before the state of life."
+>
+> 祂先說自己是**復活**，因為從死裡復起，在次序上本就先於生命的狀態。
+>
+> — John Calvin, *Commentary on John*, 約 11:25 注（CCEL, calcom34）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
 > 這個神蹟與其他復活神蹟不同：拉撒路已死四天，屍體開始腐爛。耶穌沒有觸摸他，沒有對著他禱告——只是用話語命令。這展示的是創造主的能力。
-**乾伯·摩根 (G. Campbell Morgan)**:
 
-> 『解開他，讓他走』——教會的使命就在這裏：我們不能使人復活，那是基督的工作；但我們可以解開束縛新生命的捆綁，讓他們自由地行走在新生命中。
 ---
 
 ## 詩篇回應 (Psalm Response)

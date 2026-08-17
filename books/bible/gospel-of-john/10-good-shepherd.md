@@ -169,20 +169,30 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine, 354-430)**:
 
-> 基督說『我是門』，是要我們知道：除了藉著他，沒有人能到父那裏去。他說『我是好牧人』，是要我們知道：他不像那些尋求自己榮耀的假牧人。
+> "He Himself is preeminently the good Shepherd, and also Himself the door… He entereth in by Himself to His sheep. When I seek to get into you, that is, into your heart, I preach Christ: Christ, therefore, is my gate to you."
+>
+> 祂自己超乎眾人地是好牧人，同時自己也是門……**祂是藉著自己進到自己的羊那裡去。** 我要進入你們——進入你們的心——的時候，我傳講基督：**基督就是我進到你們那裡的門。**
+>
+> — Augustine, *Tractates on John*, **Tractate XLVII**（論約 10 章），NPNF1-07
+
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 『我與父原為一』不是說位格合一，而是本質合一。父與子是不同的位格，但共享同一的神性本質。這節經文是三位一體教義的重要根據。
+> **校訂**：本書舊版稱加爾文以 10:30 為「本質合一……三位一體教義的重要根據」——**恰與其原文相反**。加爾文在該節寫道：
+>
+> "The ancients made a wrong use of this passage to prove that Christ is (homoousios) of the same essence with the Father. For Christ does not argue about the unity of substance, but about the agreement which he has with the Father."
+>
+> 「古人**誤用**了這節經文去證明基督與父同質（homoousios）。因為基督在此論的不是本質的合一，而是祂與父之間的同心一致。」
+>
+> — John Calvin, *Commentary on John*, 約 10:30 注（CCEL, calcom34）。（加爾文並非否認基督神性——他在 1:1、8:58、20:28 的注釋皆明言之——只是認為 10:30 的論證焦點不在本體。）
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
 > 『豐盛的生命』不是指物質的豐富，而是指生命品質的豐盛——與神的關係、屬靈的喜樂、永恆的盼望。這是好牧人帶給羊群的禮物。
-**乾伯·摩根 (G. Campbell Morgan)**:
 
-> 詩篇23篇是羊的見證，約翰福音10章是牧人的宣告。當我們將兩者放在一起，我們看見一幅完整的圖畫：牧人的心意與羊的經歷。
 ---
 
 ## 聖詩默想 (Hymn Meditation)

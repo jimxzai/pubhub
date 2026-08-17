@@ -197,23 +197,28 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
-> 基督說『我是世界的光』，不是說『我是猶太人的光』或『我是天使的光』。他是普世的光，照亮一切生在世上的人。
+> "I think that what the Lord says, 'I am the light of the world,' is clear to those that have eyes, by which they are made partakers of this light."
+>
+> 主說「我是世界的光」——**在有眼可看的人，這話是明亮的**；他們正是靠這光才得以有分於光。
+>
+> — Augustine, *Tractates on John*, **Tractate XXXIV**（論約 8:12），NPNF1-07
 
 **屈梭多模 (Chrysostom)**:
-> 『我也不定你的罪』——基督不是說她沒有罪，而是說祂來不是為了定罪，乃是為了拯救。但祂也說『不要再犯罪了』，這是呼召她離開罪惡的生活。
+> **校訂**：屈梭多模的約翰福音講道集**沒有講解行淫婦人一段**（約 7:53-8:11）——NPNF 編者註明本尼狄克版編者「在屈梭多模的全部著作中都找不到這一段」。本書舊版繫於他名下的「我也不定你的罪」評語**無出處可考**，已撤下。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 『還沒有亞伯拉罕，我就是』——這不是說基督比亞伯拉罕年長，而是說基督是永恆的。亞伯拉罕有開始，基督沒有開始。祂是自有永有的那一位。
+> "By these words he excludes himself from the ordinary rank of men, and claims for himself a power more than human, a power heavenly and divine."
+>
+> 藉這句話，**祂把自己從普通人的行列中分別出來**，為自己宣告一種超乎人的權能——屬天、屬神的權能。
+>
+> — John Calvin, *Commentary on John*, 約 8:58 注（CCEL, calcom34）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 > 猶太人拿起石頭要打耶穌，因為他們完全明白『我是』的意思。這不是誤解，而是正確理解耶穌的宣告——祂宣告自己是神。
-
-**乾伯·摩根 (G. Campbell Morgan)**:
-> 『真理使你們自由』——這是人類最深的渴望。但世人尋找自由，卻用錯誤的方法。只有認識真理——就是基督自己——才能得真自由。
 
 ---
 

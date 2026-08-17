@@ -200,15 +200,16 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 『我父做事直到如今，我也做事』——基督宣告祂與父神擁有同樣的本質和權柄。安息日的安息不是神停止工作，乃是祂工作的方式改變。
+> "He does not reply that the Law about keeping the Sabbath was temporary, and that it ought now to be abolished; but, on the contrary, maintains that he has not violated the Law, because this is a divine work."
+>
+> 祂的答辯不是說安息日之例屬乎暫時、如今當廢；恰恰相反，祂主張自己並未違反律法——**因為這是神的工作。**
+>
+> — John Calvin, *Commentary on John*, 約 5:17 注（CCEL, calcom34）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 > 『你要痊癒嗎？』這問題看似多餘，卻觸及人心深處。有些人習慣了自己的病，不願改變。耶穌要他作出信心的決定。
-
-**乾伯·摩根 (G. Campbell Morgan)**:
-> 這人躺了三十八年，卻從未問過自己是否真的想要痊癒。有時候我們的軟弱成了藉口，使我們不必面對生命的責任。
 
 ---
 

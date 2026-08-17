@@ -137,22 +137,27 @@ publisher: 三書精讀出版系統
 > 「誰不因水變成酒而希奇呢？——雖然神每一年都在葡萄樹裡做這件事。」……「**那好酒——就是福音——基督留到了如今。**」
 >
 > — Augustine, *Tractates on John*, **Tractate IX.1, IX.2**（論約 2:1-11），NPNF1-07
+
 **金口約翰 (John Chrysostom, 349-407)**:
 
-> 耶穌參加婚宴，聖化了婚姻；祂將水變酒，展示了祂創造萬物的能力。
+> "They invite Him to the marriage, and He comes; for He looked not to His own honor, but to our benefit. He who disdained not to take upon Him the form of a servant… would much less disdain to be present at the marriage."
+>
+> 他們請祂赴婚宴，祂就來了——**因為祂看的不是自己的體面，是我們的益處。** 那位不以取了奴僕形像為辱的，更不會以出席一場婚宴為辱。
+>
+> — Chrysostom, *Homilies on St. John*, **Homily XXI**（論約 2:1-2），NPNF1-14
+
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
 > 這神蹟教導我們：基督來不是要廢掉人間的歡樂，而是要聖化它們。祂參加婚宴，表明祂認可婚姻的神聖。
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
 > 水變酒是創造性的神蹟，展示了耶穌的神性。這不是魔術，而是創造主的作為。六口石缸總共可盛 120-180 加侖的酒——這是豐盛的恩典，超過所需。
-**乾伯·摩根 (G. Campbell Morgan)**:
 
-> 這個神蹟的意義在於：耶穌將平凡變為非凡，將律法的水變為恩典的酒。這是祂整個事工的預表——祂來，不是要廢掉舊的，而是要成全，使之更豐富。
 ---
 
 ## 詩篇回應 (Psalm Response)

@@ -155,20 +155,23 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate XV.21**（論約 4:1-42），NPNF1-07
 >
 > **校訂**：本書舊版此處作「這婦人代表教會」，**與奧古斯丁原文不合**——他討論的是五經說與五官說，並傾向後者。已更正。
+
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 基督在這裏教導我們，敬拜神不在於外在的形式，而在於心靈的真誠。猶太人有聖殿，撒瑪利亞人有基利心山，但真正的敬拜超越這一切。
+> "They ought first of all to consider that they have to do with God, who can no more agree with the flesh than fire with water."
+>
+> 「他們首先該想明白：他們面對的是神——**神與屬肉體的敬拜之不能相合，正如火之於水。**」
+>
+> — John Calvin, *Commentary on John*, 約 4:24 注（CCEL, calcom34）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
 > 耶穌沒有譴責這婦人的過去，而是揭露她的需要。她來打水是為了解身體的渴，但耶穌看見她靈魂的乾渴。這是福音傳講的榜樣——從人的需要開始，引向基督。
-**乾伯·摩根 (G. Campbell Morgan)**:
 
-> 『必須經過撒瑪利亞』不是地理的必須，而是使命的必須。神的愛不受人為界限的限制。這婦人的故事告訴我們：沒有人是福音所不能觸及的。
 ---
 
 ## 詩篇回應 (Psalm Response)

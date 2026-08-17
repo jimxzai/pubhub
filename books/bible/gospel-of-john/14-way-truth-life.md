@@ -160,20 +160,23 @@ publisher: 三書精讀出版系統
 > 「且聽祂自己說：『我就是道路、真理、生命。』**你若尋求真理，就當守住這道路，因為道路與真理原是同一位。**……你不是藉著別的甚麼作路才到基督那裡去，**你是藉著基督來到基督這裡。**」
 >
 > — Augustine, *Tractates on John*, **Tractate XIII**（論約 3:22-29），NPNF1-07
+
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 沒有人能到父那裏去——這話排除了所有人的功德和努力。救恩完全在基督裏面，沒有任何其他途徑。這是對一切自以為義之人的嚴厲警告。
+> "Thomas would gladly have heard what Christ intended to do in heaven, as we never become weary of those intricate speculations; but it is of greater importance to us to employ our study and labor in another inquiry, how we may become partakers of the blessed resurrection."
+>
+> 多馬巴不得聽主講祂在天上要做甚麼——我們對那類玄奧的猜想從不厭倦；**但更要緊的功課是另一個問題：我們怎樣得以有分於那蒙福的復活。**
+>
+> — John Calvin, *Commentary on John*, 約 14:6 注（CCEL, calcom35）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
 > 這是宗教多元主義者最不願意聽到的經文。但耶穌的話是清楚的：他不是一條道路，他是唯一的道路。這不是狹隘，這是真理。
-**乾伯·摩根 (G. Campbell Morgan)**:
 
-> 道路、真理、生命——這三個詞涵蓋了人類所有的追尋。人類在尋找道路（如何得救）、真理（什麼是真實）、生命（怎樣真正地活）。基督說：我就是你所尋找的一切。
 ---
 
 ## 詩篇回應 (Psalm Response)

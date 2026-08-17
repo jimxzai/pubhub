@@ -180,23 +180,32 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **金口約翰 (John Chrysostom)**:
-> 基督不僅是賜餅者，他自己就是餅。他不僅餵養我們，他把自己給了我們。
+> "Then He, to rebuke them, because while they supposed that the food was material they ran to Him, but not when they learned that it was a spiritual kind, said, 'I am the bread of life.'"
+>
+> 於是祂責備他們——因為他們以為那食物是屬物質的，就跑來找祂；一聽明白那是屬靈的，就不來了——祂說：**「我就是生命的糧。」**
+>
+> — Chrysostom, *Homilies on St. John*, **Homily XLV**（論約 6:34-35），NPNF1-14
 
 **奧古斯丁 (Augustine)**:
-> 相信基督，就是吃生命的糧。來到基督面前的，就是吃的動作；相信基督的，就是喝的動作。信心就是吃喝。
+> "To what purpose dost thou make ready teeth and stomach? Believe, and thou hast eaten already."
+>
+> **你預備牙齒和肚腹作甚麼？信，你就已經吃了。**
+>
+> — Augustine, *Tractates on John*, **Tractate XXV**（論約 6:29），NPNF1-07
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 吃基督的肉、喝基督的血，就是藉著信心與基督聯合，使他的生命成為我們的生命，他的義成為我們的義。這不是肉體的吃喝，而是靈性的聯合。
+> "Despise me as much as you please, on account of the mean and despicable appearance of my flesh, still that despicable flesh contains life."
+>
+> 你們儘管因我肉身卑微可鄙的外貌而藐視我——**然而生命，正在那被藐視的肉身裡。**
+>
+> — John Calvin, *Commentary on John*, 約 6:53 注（CCEL, calcom34）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 > 眾人找耶穌不是因為神蹟，而是因為吃餅吃飽了。今天很多人來教會也是如此——為了社交、娛樂、情感需要，卻不是為了基督自己。
-
-**乾伯·摩根 (G. Campbell Morgan)**:
-> 彼得的話顯示真正的門徒身份：不是因為全然理解才跟從，而是因為知道沒有其他選擇。離開基督，能去哪裏呢？這是信心的本質。
 
 ---
 

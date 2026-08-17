@@ -156,20 +156,23 @@ publisher: 三書精讀出版系統
 > 「祂說：『我是你們的主、你們的夫子，尚且洗你們的腳，你們也當彼此洗腳。我給你們作了榜樣，叫你們照著我向你們所做的去做。』**有福的彼得啊，你當初不肯讓祂洗的時候，不明白的正是這一點。**」
 >
 > — Augustine, *Tractates on John*, **Tractate LVIII.4**（論約 13 章），NPNF1-07
+
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 基督在這裏教導我們：真正的領袖不是坐在高位發號施令，而是俯身服事他所帶領的人。這與世界的領袖觀完全相反。
+> "It deserves our attention that Christ says that he gave an example; for we are not at liberty to take all his actions, without reserve, as subjects of imitation."
+>
+> 要留意：基督說祂留下的是**榜樣**——但我們並沒有自由把祂一切的作為不加分辨地都當作效法的對象（加爾文由此批評把四旬禁食當作「效法基督」的作法）。
+>
+> — John Calvin, *Commentary on John*, 約 13:15 注（CCEL, calcom35）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
 > 門徒們當時可能正在爭論誰為大。沒有人願意做洗腳的工作，因為那太卑微了。耶穌的行動是對他們驕傲的責備，也是謙卑服事的永恆榜樣。
-**乾伯·摩根 (G. Campbell Morgan)**:
 
-> 『我怎樣愛你們，你們也要怎樣彼此相愛』——這是基督徒倫理的最高標準。不是黃金律（己所欲施於人），而是鑽石律（基督怎樣待我，我就怎樣待人）。
 ---
 
 ## 詩篇回應 (Psalm Response)

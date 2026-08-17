@@ -128,7 +128,11 @@ publisher: 三書精讀出版系統
 
 **俄利根 (Origen, 185-254)**:
 
-> 約翰在這裏使用『太初』一詞，正是要告訴我們：道沒有開始，因為祂就是那開始。任何有開始的事物都在時間之內，但道在時間之先。
+> "Let any one collect the Scripture passages in which the word occurs… and he will find that the word [beginning] has many meanings in sacred discourse."
+>
+> 「誰若把聖經中出現這詞的經文都收集起來……就會發現『太初／起頭』一詞在聖言中有許多層意義。」——俄利根的《約翰福音註釋》即以逐層分辨 ἀρχή 的意義開卷。
+>
+> — Origen, *Commentary on the Gospel of John*, Book I（ANF09, CCEL）
 
 **奧古斯丁 (Augustine, 354-430)**:
 
@@ -142,7 +146,11 @@ publisher: 三書精讀出版系統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 約翰在此宣告基督從太初就存在，祂是永恆智慧的本體，藉此我們知道，在父神的永恆計劃中，基督就是那完美的形像。
+> "In this introduction he asserts the eternal Divinity of Christ, in order to inform us that he is the eternal God, who was manifested in the flesh."
+>
+> 在這開卷之處，他宣告基督永恆的神性，為要叫我們知道：**祂就是那位在肉身顯現的永恆的神。**
+>
+> — John Calvin, *Commentary on John*, 約 1:1 注（CCEL, calcom34）
 
 ### 當代釋經
 
@@ -151,9 +159,6 @@ publisher: 三書精讀出版系統
 > 『道』這個詞對猶太讀者來說代表神的自我啟示，對希臘讀者來說代表宇宙的理性原則。約翰用這個詞告訴所有人：你們所尋找的，就是耶穌基督。
 > — *The MacArthur New Testament Commentary: John 1-11*
 
-**乾伯·摩根 (G. Campbell Morgan)**:
-
-> 這個序言是整本福音書的縮影。在這十八節經文中，約翰已經給了我們整卷書的鑰匙：道的本質、道的工作、世人的回應、以及信者的特權。
 ---
 
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)

@@ -136,7 +136,11 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 『住在我裏面』——這是基督徒生活的秘訣。不是偶爾與基督接觸，而是持續地、深深地與他聯合。這聯合產生果子。
+> "Christ has no other object in view than to keep us as a hen keepeth her chickens under her wings, lest our indifference should carry us away, and make us fly to our destruction."
+>
+> 基督別無所圖，只要**像母雞把小雞護在翅膀底下那樣護住我們**，免得我們因怠惰飄走，飛向自己的滅亡。
+>
+> — John Calvin, *Commentary on John*, 約 15:4 注（CCEL, calcom35）
 
 ### 當代釋經
 

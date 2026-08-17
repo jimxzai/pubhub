@@ -168,12 +168,20 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate CXXIII**（論約 21 章），NPNF1-07
 
 **屈梭多模 (John Chrysostom)**:
-> 『餵養我的羊』——基督把自己的羊交給彼得，這是最大的信任。牧養基督的羊就是愛基督。
+> "What He requireth of Peter is tender care for our neighbor… He was the chosen one of the Apostles, the mouth of the disciples, the leader of the band."
+>
+> 基督向彼得所要的，是對鄰舍溫柔的看顧……彼得是使徒中蒙揀選的那一位，是**門徒的口**，是這一班人的領頭者。
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LXXXVIII**（論約 21:15），NPNF1-14
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 『跟你有甚麼關係呢？』——基督徒最大的試探之一就是比較。為什麼他有我沒有？為什麼我受苦他不受苦？這些都是無益的問題。你只需跟從基督。
+> "Christ intended to put his hand on his disciple, in order to keep him within the limits of his calling."
+>
+> 基督伸手按住祂的門徒——**為要把他留在他蒙召的界限之內。**
+>
+> — John Calvin, *Commentary on John*, 約 21:22 注（CCEL, calcom35）
 
 ### 當代釋經
 

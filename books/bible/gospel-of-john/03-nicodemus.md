@@ -138,21 +138,32 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine, 354-430)**:
 
-> 重生是聖靈的工作，不是人的努力。正如我們不能選擇自己的肉身出生，我們也不能靠自己重生。這完全是恩典。
+> "None shall see the kingdom of heaven while burdened with sins; for none shall reign with Christ, but he to whom they have been forgiven: but forgiven they cannot be, but to him who is born again of water and of the Holy Spirit."
+>
+> 背著罪的人，無一能見天國；因為除了罪得赦免的，無人能與基督一同作王——**而罪得赦免，唯獨臨到那從水和聖靈重生的人。**
+>
+> — Augustine, *Tractates on John*, **Tractate XI**（論約 2:23-3:5），NPNF1-07
+
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 基督在這裏教導我們，我們的本性是全然敗壞的，需要完全的更新。這不是修補，而是再造。
+> "The first entrance into the kingdom of God is, to become a new man."
+>
+> **進神國的第一道門，就是成為一個新人。**
+>
+> — John Calvin, *Commentary on John*, 約 3:3 注（CCEL, calcom34）
+
 **馬丁·路德 (Martin Luther, 1483-1546)**:
 
-> 約翰福音 3:16 是整本聖經的縮影。如果所有的聖經都失落了，只剩下這一節，我們仍然有福音的全部。
+> 約翰福音 3:16 為「福音的縮影」之說**相傳**出於路德，但未查得可靠原始出處；此處存其說而不作引文。
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
 > 尼哥底母是當時最有宗教知識的人之一，但耶穌告訴他：你所有的知識、所有的道德努力都不夠。你需要的是從上頭來的新生命。這是對所有宗教努力的挑戰。
+
 ---
 
 ## 詩篇回應 (Psalm Response)

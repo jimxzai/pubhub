@@ -151,7 +151,11 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **屈梭多模 (John Chrysostom)**:
-> 這禱告是最神聖的禱告。耶穌不是為自己需要而禱告，而是教導我們如何禱告，並為我們代求。
+> "After this admonition, He betaketh Himself to prayer, teaching us in our temptations to leave all things, and flee to God."
+>
+> 訓勉之後，祂便轉向禱告——**教導我們在試煉中撇下一切，逃到神那裡去。**
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LXXX**（論約 17:1），NPNF1-14
 
 **奧古斯丁 (Augustine)**:
 > 『認識你⋯⋯這就是永生』——這不是頭腦的知識，而是愛的認識。我們認識所愛的，愛所認識的。
@@ -159,7 +163,11 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 『用真理使他們成聖』——真理是成聖的工具。沒有神話語的人不可能成聖。這就是為什麼魔鬼千方百計使人遠離聖經。
+> "There are fanatics who indulge in much useless prattle about sanctification, but who neglect the truth of God, by which he consecrates us to himself."
+>
+> 有一等狂熱之人，滿口空談成聖，**卻忽略了神用以把我們分別為聖歸祂自己的那個真理。**
+>
+> — John Calvin, *Commentary on John*, 約 17:17 注（CCEL, calcom35）
 
 ### 當代釋經
 

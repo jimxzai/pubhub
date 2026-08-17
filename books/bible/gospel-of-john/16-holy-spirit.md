@@ -141,12 +141,20 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
-> 聖靈被稱為『真理的靈』，因為他的工作是使我們認識真理。沒有聖靈的光照，即使看見也不能明白。
+> "'He shall make me clearly known; for He shall receive of mine, and shall show it unto you.'"
+>
+> 「祂要把我清楚地顯明出來；因為祂要受於我，指示給你們。」——奧古斯丁以此句為 16:14 的解釋重心：**聖靈的工作是把基督顯明。**
+>
+> — Augustine, *Tractates on John*, **Tractate C**（論約 16:13-15），NPNF1-07
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 『引導你們進入一切的真理』——這不是說聖靈會給新的啟示，而是使人完全明白基督已經啟示的真理。聖靈的工作是解釋基督，而不是取代基督。
+> "That very Spirit had led them into all truth, when they committed to writing the substance of their doctrine. Whoever imagines that anything must be added to their doctrine, as if it were imperfect and but half-finished, not only accuses the apostles of dishonesty, but blasphemes against the Spirit."
+>
+> 使徒把教訓的本體寫成聖經時，那位聖靈已經引導他們進入了一切真理。**誰若以為還須在其上加添甚麼，彷彿它殘缺未完——那人不但誣告使徒不誠實，更是褻瀆聖靈。**
+>
+> — John Calvin, *Commentary on John*, 約 16:13 注（CCEL, calcom35）
 
 ### 當代釋經
 
