@@ -154,7 +154,9 @@ add_chapter 21
 # 卷末 · 望向那一頭 — the arc into Revelation
 # ============================================================
 add_volume "卷末 · 望向那一頭 (Toward the Other End)" \
-    "約翰福音自己不收尾——它結在「等到我來的時候」，指著另一卷書。"
+    "約翰福音自己不收尾——它結在「等到我來的時候」，指著另一卷書。
+>
+> 但記這些事，是要叫你們信耶穌是基督，是神的兒子，並且叫你們信了祂，就可以因祂的名得生命。（約 20:31）"
 add_file "$INPUT_DIR/99-to-revelation.md"
 
 # 跋 — afterword (the ministry, the 66-volume prayer)
