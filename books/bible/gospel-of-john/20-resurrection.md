@@ -55,13 +55,13 @@ publisher: 三書精讀出版系統
 
 > ^26^過了八日，門徒又在屋裡，多馬也和他們同在。門都關了，耶穌來，站在當中說：\jesus{「願你們平安！」}^27^就對多馬說：\jesus{「伸過你的指頭來，摸我的手；伸出你的手來，探入我的肋旁。不要疑惑，總要信！」}^28^**多馬說：「我的主！我的神！」**
 
-> ^29^耶穌對他說：\jesus{「你因看見了我才信；**那沒有看見就信的有福了。**」}
+> ^29^耶穌對他說：\jesus{「你因看見了我才信；\textbf{那沒有看見就信的有福了。}」}
 
 > ^30^耶穌在門徒面前另外行了許多神蹟，沒有記在這書上。^31^**但記這些事要叫你們信耶穌是基督，是神的兒子，並且叫你們信了他，就可以因他的名得生命。**
 
 ### English — ESV
 
-> ^16^Jesus said to her, \jesus{**"Mary."**} She turned and said to him in Aramaic, **"Rabboni!"** (which means Teacher).
+> ^16^Jesus said to her, \jesus{\textbf{"Mary."}} She turned and said to him in Aramaic, **"Rabboni!"** (which means Teacher).
 
 > ^28^Thomas answered him, **"My Lord and my God!"**
 

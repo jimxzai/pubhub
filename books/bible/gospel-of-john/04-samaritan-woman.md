@@ -51,17 +51,17 @@ publisher: 三書精讀出版系統
 
 > ^13^耶穌回答說：\jesus{「凡喝這水的還要再渴；^14^人若喝我所賜的水就永遠不渴。我所賜的水要在他裡頭成為泉源，直湧到永生。」}
 
-> \jesus{^23^「時候將到，如今就是了，那真正拜父的，要用心靈和誠實拜他，因為父要這樣的人拜他。^24^**神是個靈，所以拜他的必須用心靈和誠實拜他。**」}
+> \jesus{^23^「時候將到，如今就是了，那真正拜父的，要用心靈和誠實拜他，因為父要這樣的人拜他。^24^\textbf{神是個靈，所以拜他的必須用心靈和誠實拜他。}」}
 
-> ^25^婦人說：「我知道彌賽亞（就是那稱為基督的）要來；他來了，必將一切的事都告訴我們。」^26^耶穌說：\jesus{**「這和你說話的就是他！」**}
+> ^25^婦人說：「我知道彌賽亞（就是那稱為基督的）要來；他來了，必將一切的事都告訴我們。」^26^耶穌說：\jesus{\textbf{「這和你說話的就是他！」}}
 
 ### English — ESV
 
 > \jesus{^14^"Whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life."}
 
-> \jesus{^24^**"God is spirit, and those who worship him must worship in spirit and truth."**}
+> \jesus{^24^\textbf{"God is spirit, and those who worship him must worship in spirit and truth."}}
 
-> ^26^Jesus said to her, \jesus{**"I who speak to you am he."**}
+> ^26^Jesus said to her, \jesus{\textbf{"I who speak to you am he."}}
 
 ---
 

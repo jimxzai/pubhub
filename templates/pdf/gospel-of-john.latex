@@ -756,6 +756,10 @@ $endif$
 %% --------------------------------------------
 %% MAIN MATTER
 %% --------------------------------------------
+% \mainmatter/\backmatter call \cleardoublepage internally even with
+% openany; map it to \clearpage so no header-only blank page appears
+% after the TOC or the afterword.
+\let\cleardoublepage\clearpage
 \mainmatter
 
 $body$

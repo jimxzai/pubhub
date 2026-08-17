@@ -49,15 +49,15 @@ publisher: 三書精讀出版系統
 
 > ^6^挨到西門彼得，彼得對他說：「主啊，你洗我的腳嗎？」^7^耶穌回答說：\jesus{「我所做的，你如今不知道，後來必明白。」}^8^彼得說：「你永不可洗我的腳！」耶穌說：\jesus{「我若不洗你，你就與我無份了。」}
 
-> ^12^耶穌洗完了他們的腳，就穿上衣服，又坐下，對他們說：\jesus{「我向你們所做的，你們明白嗎？^13^你們稱呼我夫子，稱呼我主，你們說的不錯，我本來是。^14^**我是你們的主、你們的夫子，尚且洗你們的腳，你們也當彼此洗腳。**^15^我給你們做了榜樣，叫你們照著我向你們所做的去做。」}
+> ^12^耶穌洗完了他們的腳，就穿上衣服，又坐下，對他們說：\jesus{「我向你們所做的，你們明白嗎？^13^你們稱呼我夫子，稱呼我主，你們說的不錯，我本來是。^14^\textbf{我是你們的主、你們的夫子，尚且洗你們的腳，你們也當彼此洗腳。}^15^我給你們做了榜樣，叫你們照著我向你們所做的去做。」}
 
-> \jesus{^34^**「我賜給你們一條新命令，乃是叫你們彼此相愛，我怎樣愛你們，你們也要怎樣相愛。**^35^你們若有彼此相愛的心，眾人因此就認出你們是我的門徒了。」}
+> \jesus{^34^\textbf{「我賜給你們一條新命令，乃是叫你們彼此相愛，我怎樣愛你們，你們也要怎樣相愛。}^35^你們若有彼此相愛的心，眾人因此就認出你們是我的門徒了。」}
 
 ### English — ESV
 
 > ^14^\jesus{"If I then, your Lord and Teacher, have washed your feet, you also ought to wash one another's feet."}
 
-> ^34^\jesus{**"A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another."**}
+> ^34^\jesus{\textbf{"A new commandment I give to you, that you love one another: just as I have loved you, you also are to love one another."}}
 
 ---
 

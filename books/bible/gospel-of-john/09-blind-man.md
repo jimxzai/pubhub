@@ -193,13 +193,21 @@ publisher: 三書精讀出版系統
 
 **屈梭多模 (Chrysostom)**:
 
-> 這人生來瞎眼，使神的榮耀更加彰顯。他等了多少年！但神的時間比我們想像的更美。他所得到的，不只是肉眼的視力，更是認識救主的眼光。
+> "I assert that he even received benefit from his blindness: since he recovered the sight of the eyes within. What were the Jews profited by their eyes? They incurred the heavier punishment, **being blinded even while they saw.**"
+>
+> 「我要說，他甚至從瞎眼得了益處——因為他裡面的眼睛得了視力。猶太人的眼睛給他們帶來了甚麼益處呢？他們招來更重的刑罰，**睜著眼睛，卻瞎著。**」
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LVI**（論約 9:1-2），NPNF1-14
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
 
-> 『你們若是瞎眼的，就沒有罪了』——基督的意思是：若他們謙卑承認無知，尋求光照，就能得赦免。但他們驕傲地自稱能看見，拒絕真光，罪就留在他們身上。
+> "When a poor man disregards their threatenings, and boldly maintains that Christ is a Prophet, we ought justly to ascribe it to the grace of God; so that **this boldness is another miracle**."
+>
+> 「一個窮人不把他們的恐嚇當回事，放膽持定基督是先知——這理當歸於神的恩典：**這份膽量，本身就是另一個神蹟。**」
+>
+> — John Calvin, *Commentary on John*, 約 9:17 注（CCEL, calcom34）
 
 ### 當代釋經
 

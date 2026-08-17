@@ -150,7 +150,11 @@ publisher: 三書精讀出版系統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 這神蹟教導我們：基督來不是要廢掉人間的歡樂，而是要聖化它們。祂參加婚宴，表明祂認可婚姻的神聖。
+> "It is a high honor given to marriage, that Christ not only deigned to be present at a nuptial banquet, but honored it with his first miracle."
+>
+> 「這是賜給婚姻何等高的尊榮：基督不但屈尊親臨婚筵，**還用祂的第一個神蹟使婚筵得了榮耀。**」
+>
+> — John Calvin, *Commentary on John*, 約 2:1-2 注（CCEL, calcom34）
 
 ### 當代釋經
 

@@ -45,11 +45,11 @@ publisher: 三書精讀出版系統
 
 > ^26^耶穌回答說：\jesus{「我實實在在的告訴你們，你們找我，並不是因見了神蹟，乃是因吃餅得飽。^27^不要為那必壞的食物勞力，要為那存到永生的食物勞力，就是人子要賜給你們的，因為人子是父神所印證的。」}
 
-> ^35^耶穌說：\jesus{**「我就是生命的糧。到我這裡來的，必定不餓；信我的，永遠不渴。」**}
+> ^35^耶穌說：\jesus{\textbf{「我就是生命的糧。到我這裡來的，必定不餓；信我的，永遠不渴。」}}
 
 > \jesus{^44^「若不是差我來的父吸引人，就沒有能到我這裡來的；到我這裡來的，在末日我要叫他復活。」}
 
-> \jesus{^48^「我就是生命的糧。^49^你們的祖宗在曠野吃過嗎哪，還是死了。^50^這是從天上降下來的糧，叫人吃了就不死。^51^**我是從天上降下來生命的糧；人若吃這糧，就必永遠活著。我所要賜的糧就是我的肉，為世人之生命所賜的。**」}
+> \jesus{^48^「我就是生命的糧。^49^你們的祖宗在曠野吃過嗎哪，還是死了。^50^這是從天上降下來的糧，叫人吃了就不死。^51^\textbf{我是從天上降下來生命的糧；人若吃這糧，就必永遠活著。我所要賜的糧就是我的肉，為世人之生命所賜的。}」}
 
 > ^53^耶穌說：\jesus{「我實實在在的告訴你們，你們若不吃人子的肉，不喝人子的血，就沒有生命在你們裡面。^54^吃我肉、喝我血的人就有永生，在末日我要叫他復活。^55^我的肉真是可吃的，我的血真是可喝的。^56^吃我肉、喝我血的人常在我裡面，我也常在他裡面。」}
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 ### English — ESV
 
-> ^35^Jesus said to them, \jesus{**"I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."**}
+> ^35^Jesus said to them, \jesus{\textbf{"I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."}}
 
 > \jesus{^44^"No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day."}
 

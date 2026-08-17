@@ -191,7 +191,11 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine)**:
 
-> 三十八年的病象徵律法的軟弱。律法有十誡，但人靠自己無法遵守。四十減二等於三十八——差兩條誡命：愛神、愛人。只有基督能補足這缺欠。
+> "I want to explain the number thirty-eight of the years of that impotent man, why that number thirty-eight is one of weakness rather than of health… **The number forty belongs to the perfecting of the law in all works; but in love two precepts are committed to our keeping.**"
+>
+> 「我要解明那病人三十八年這個數目——為何三十八是軟弱而非健壯之數……**四十屬乎律法在一切行為上的成全；而愛，正是那交託我們持守的兩條誡命。**」（四十缺二：所缺的正是愛神、愛人這兩條——惟有基督能補上。）
+>
+> — Augustine, *Tractates on John*, **Tractate XVII**（論約 5:1-18），NPNF1-07
 
 **屈梭多模 (Chrysostom)**:
 

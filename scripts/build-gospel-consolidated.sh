@@ -48,6 +48,8 @@ copyright: |
 
   **經文版權聲明 (Scripture Copyright Notices)**
 
+  本版為教會內部贈閱版（非賣品）；公開發行時另行申請 ISBN。
+
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
   Scripture quotations taken from the New American Standard Bible® (NASB®),

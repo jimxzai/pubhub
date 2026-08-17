@@ -49,13 +49,13 @@ publisher: 三書精讀出版系統
 
 > ^9^尼哥底母問他說：「怎能有這事呢？」^10^耶穌回答說：\jesus{「你是以色列人的先生，還不明白這事嗎？^11^我實實在在的告訴你，我們所說的是我們知道的；我們所見證的是我們見過的；你們卻不領受我們的見證。^12^我對你們說地上的事，你們尚且不信，若說天上的事，如何能信呢？^13^除了從天降下、仍舊在天的人子，沒有人升過天。^14^摩西在曠野怎樣舉蛇，人子也必照樣被舉起來，^15^叫一切信他的都得永生。」}
 
-> \jesus{^16^**「神愛世人，甚至將他的獨生子賜給他們，叫一切信他的，不至滅亡，反得永生。**^17^因為神差他的兒子降世，不是要定世人的罪，乃是要叫世人因他得救。^18^信他的人，不被定罪；不信的人，罪已經定了，因為他不信神獨生子的名。^19^光來到世間，世人因自己的行為是惡的，不愛光，倒愛黑暗，定他們的罪就是在此。^20^凡作惡的便恨光，並不來就光，恐怕他的行為受責備。^21^但行真理的必來就光，要顯明他所行的是靠神而行。」}
+> \jesus{^16^\textbf{「神愛世人，甚至將他的獨生子賜給他們，叫一切信他的，不至滅亡，反得永生。}^17^因為神差他的兒子降世，不是要定世人的罪，乃是要叫世人因他得救。^18^信他的人，不被定罪；不信的人，罪已經定了，因為他不信神獨生子的名。^19^光來到世間，世人因自己的行為是惡的，不愛光，倒愛黑暗，定他們的罪就是在此。^20^凡作惡的便恨光，並不來就光，恐怕他的行為受責備。^21^但行真理的必來就光，要顯明他所行的是靠神而行。」}
 
 ### English — ESV
 
 > ^3^Jesus answered him, \jesus{"Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God."}
 
-> \jesus{^16^**"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."**}
+> \jesus{^16^\textbf{"For God so loved the world, that he gave his only Son, that whoever believes in him should not perish but have eternal life."}}
 
 ---
 

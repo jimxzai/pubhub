@@ -47,9 +47,9 @@ publisher: 三書精讀出版系統
 
 > ^5^多馬對他說：「主啊，我們不知道你往哪裡去，怎麼知道那條路呢？」
 
-> ^6^耶穌說：\jesus{**「我就是道路、真理、生命；若不藉著我，沒有人能到父那裡去。」**}
+> ^6^耶穌說：\jesus{\textbf{「我就是道路、真理、生命；若不藉著我，沒有人能到父那裡去。」}}
 
-> ^9^耶穌對他說：\jesus{「腓力，我與你們同在這樣長久，你還不認識我嗎？**人看見了我，就是看見了父**，你怎麼說『將父顯給我們看』呢？^10^我在父裡面，父在我裡面，你不信嗎？我對你們所說的話，不是憑著自己說的，乃是住在我裡面的父做他自己的事。」}
+> ^9^耶穌對他說：\jesus{「腓力，我與你們同在這樣長久，你還不認識我嗎？\textbf{人看見了我，就是看見了父}，你怎麼說『將父顯給我們看』呢？^10^我在父裡面，父在我裡面，你不信嗎？我對你們所說的話，不是憑著自己說的，乃是住在我裡面的父做他自己的事。」}
 
 > \jesus{^15^「你們若愛我，就必遵守我的命令。^16^我要求父，父就另外賜給你們一位保惠師，叫他永遠與你們同在，^17^就是真理的聖靈。」}
 
@@ -57,7 +57,7 @@ publisher: 三書精讀出版系統
 
 ### English — ESV
 
-> ^6^\jesus{**"I am the way, and the truth, and the life. No one comes to the Father except through me."**}
+> ^6^\jesus{\textbf{"I am the way, and the truth, and the life. No one comes to the Father except through me."}}
 
 > ^9^\jesus{"Whoever has seen me has seen the Father."}
 

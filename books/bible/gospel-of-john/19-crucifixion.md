@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^28^這事以後，耶穌知道各樣的事已經成了，為要使經上的話應驗，就說：\jesus{「我渴了。」}
 
-> ^30^耶穌嘗了那醋，就說：\jesus{**「成了！」**}便低下頭，將靈魂交付神了。
+> ^30^耶穌嘗了那醋，就說：\jesus{\textbf{「成了！」}}便低下頭，將靈魂交付神了。
 
 > ^34^惟有一個兵拿槍扎他的肋旁，隨即有血和水流出來。
 
@@ -69,7 +69,7 @@ publisher: 三書精讀出版系統
 
 > ^19^Pilate also wrote an inscription and put it on the cross. It read, **"Jesus of Nazareth, the King of the Jews."**
 
-> ^30^When Jesus had received the sour wine, he said, \jesus{**"It is finished,"**} and he bowed his head and gave up his spirit.
+> ^30^When Jesus had received the sour wine, he said, \jesus{\textbf{"It is finished,"}} and he bowed his head and gave up his spirit.
 
 ---
 
@@ -201,7 +201,11 @@ publisher: 三書精讀出版系統
 
 **金口約翰 (John Chrysostom, 349-407)**:
 
-> 血和水從主的肋旁流出——這是教會誕生的時刻。正如夏娃從亞當的肋旁被造，教會從基督的肋旁被生。
+> "Not without a purpose, or by chance, did those founts come forth, but because by means of these two together **the Church consisteth**. And the initiated know it, being by water indeed regenerate, and nourished by the Blood and the Flesh. **Hence the Mysteries take their beginning; that when thou approachest to that awful cup, thou mayest so approach, as drinking from the very side.**"
+>
+> 「那兩道泉源湧出，絕非無意或偶然——乃因**教會正是由這二者構成**：受過奧祕教導的人知道，人確是藉水重生，又靠血與肉得餵養。**聖禮由此起頭；好叫你走近那可畏之杯的時候，如同直接從祂的肋旁取飲。**」
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LXXXV**（論約 19:34），NPNF1-14
 
 ### 改革宗時期
 

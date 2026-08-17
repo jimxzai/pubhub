@@ -51,7 +51,7 @@ publisher: 三書精讀出版系統
 
 > ^21^馬大對耶穌說：「主啊，你若早在這裡，我兄弟必不死。^22^就是現在，我也知道，你無論向神求甚麼，神也必賜給你。」^23^耶穌說：\jesus{「你兄弟必然復活。」}^24^馬大說：「我知道在末日復活的時候，他必復活。」
 
-> ^25^耶穌對他說：\jesus{**「復活在我，生命也在我。信我的人雖然死了，也必復活，^26^凡活著信我的人必永遠不死。你信這話麼？」**}^27^馬大說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
+> ^25^耶穌對他說：\jesus{\textbf{「復活在我，生命也在我。信我的人雖然死了，也必復活，^26^凡活著信我的人必永遠不死。你信這話麼？」}}^27^馬大說：「主啊，是的，我信你是基督，是神的兒子，就是那要臨到世界的。」
 
 > ^35^**耶穌哭了。**
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 ### English — ESV
 
-> ^25^Jesus said to her, \jesus{**"I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, ^26^and everyone who lives and believes in me shall never die. Do you believe this?"**}
+> ^25^Jesus said to her, \jesus{\textbf{"I am the resurrection and the life. Whoever believes in me, though he die, yet shall he live, ^26^and everyone who lives and believes in me shall never die. Do you believe this?"}}
 
 > ^35^**Jesus wept.**
 
