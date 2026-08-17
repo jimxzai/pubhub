@@ -163,9 +163,9 @@ publisher: 三書精讀出版系統
 
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
-### 黃長老查經洞見 (Elder Wong's Teaching)
+### 老弟兄查經洞見 (the class's Teaching)
 
-**約翰三部曲中「道」的三重稱呼**——黃長老以此為整個約翰著作的鑰匙：
+**約翰三部曲中「道」的三重稱呼**——老弟兄以此為整個約翰著作的鑰匙：
 
 | 書卷 | 稱呼 | 啟示重點 |
 |------|------|----------|
@@ -181,7 +181,7 @@ publisher: 三書精讀出版系統
 
 **「道就是神」（θεὸς ἦν ὁ λόγος）的語法**：θεός 前無定冠詞，表達**性質**而非**身份等同**——道的本質是神性的，但道與父是不同位格。既防撒伯流主義（形態論），也防亞流主義（否認神性）。
 
-> 出處：黃長老《生命之道——約翰福音》第一課；Thursday Wong 查經班書稿《太初有道》章
+> 出處：老弟兄《生命之道——約翰福音》第一課；Thursday Wong 查經班書稿《太初有道》章
 
 ### 摩根：序言不是序言，是總綱 (G. Campbell Morgan)
 
@@ -243,7 +243,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -251,7 +251,7 @@ publisher: 三書精讀出版系統
 
 ### 提問式對話 (Let the Reader Speak)
 
-黃長老不急著給答案，他一層一層地問：
+老弟兄不急著給答案，他一層一層地問：
 
 - 先問：「『道』這個字，你以前怎麼理解？老子也用這個字。」
 - 再問：「約翰給『道』下了甚麼定義？（道與神同在，道就是神）」
@@ -270,7 +270,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 老弟兄精義 (The Distilled Key)
 
 **一句話精義**：那位在「太初」創造萬有的道，竟「成了肉身」住進祂所造的世界——這一段序言，是全本聖經的縮影。
 
@@ -317,4 +317,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

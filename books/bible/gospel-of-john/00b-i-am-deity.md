@@ -12,7 +12,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老精義一句話
+## 老弟兄精義一句話
 
 **約翰福音不是在論證耶穌像神，是在記錄一件事——祂開口自稱神的名字，然後人拿起石頭。**
 
@@ -213,7 +213,7 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *The Gospel According to John*（約五 講章）。
 
-**黃長老要問的是這一句**：查經查得最熟的人，恰恰可能是不肯到祂那裡去的人。你為甚麼查經？**是為了認識祂，還是為了在別人面前站得住？**
+**老弟兄要問的是這一句**：查經查得最熟的人，恰恰可能是不肯到祂那裡去的人。你為甚麼查經？**是為了認識祂，還是為了在別人面前站得住？**
 
 ---
 
@@ -485,4 +485,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan, The Gospel According to John；經文以和合本／NASB 對照（ai-eden.com），原文核對 NA28。*
+*本章整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan, The Gospel According to John；經文以和合本／NASB 對照（ai-eden.com），原文核對 NA28。*

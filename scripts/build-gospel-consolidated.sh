@@ -34,7 +34,7 @@ copyright: |
 
   **三大核心資源整合：**
 
-  • **黃長老週四查經班** — 第一手屬靈教導
+  • **CCIC 週四查經班** — 第一手屬靈領受
 
   • **John MacArthur** — 逐節解經 (gty.org)
 
@@ -87,6 +87,9 @@ add_chapter() {
     done
 }
 
+# 前言 — preface (grace at CCIC, vision, purpose)
+add_file "$INPUT_DIR/000-preface.md"
+
 # ============================================================
 # 卷首 · 定位 — orientation: map, coordinates, spine, method
 # ============================================================
@@ -101,7 +104,7 @@ add_file "$KEY_FILE"
 # study reads as a single top-level chapter.
 if [ -f "$STUDY_FILE" ]; then
     echo "  Adding: elder-wong-systematic-study.md (as 全書領受總綱)"
-    printf '# 全書領受總綱——黃長老查經法 (Systematic Reception)\n\n' >> "$COMBINED_MD"
+    printf '# 全書領受總綱——查經領受 (Systematic Reception)\n\n' >> "$COMBINED_MD"
     # drop the file's own H1 title line, demote all headings by one level
     # (single substitution per line: prepends one # to the leading run, no cascade)
     tail -n +2 "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
@@ -153,6 +156,9 @@ add_chapter 21
 add_volume "卷末 · 望向那一頭 (Toward the Other End)" \
     "約翰福音自己不收尾——它結在「等到我來的時候」，指著另一卷書。"
 add_file "$INPUT_DIR/99-to-revelation.md"
+
+# 跋 — afterword (the ministry, the 66-volume prayer)
+add_file "$INPUT_DIR/999-afterword.md"
 
 echo ""
 echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $chapter_count chapters)"
