@@ -191,7 +191,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 『豐盛的生命』不是指物質的豐富，而是指生命品質的豐盛——與神的關係、屬靈的喜樂、永恆的盼望。這是好牧人帶給羊群的禮物。
+> "I come that they may have life, and have it *perissos*, over the top."
+>
+> 「我來了，是要叫羊得生命，並且得的 *perissos*——**滿到溢出來**。」豐盛不是物質的富餘，是牧人全備的供應與保護之下，羊出入得草吃的自由。
+>
+> — John MacArthur, *"I Am the Door"*（sermon 43-52，論約 10:1-10），Grace to You, gty.org
 
 ---
 
@@ -351,6 +355,3 @@ publisher: 三書精讀出版系統
 
 5. 「另外的羊」（10:16）指誰？這對教會合一有什麼啟示？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

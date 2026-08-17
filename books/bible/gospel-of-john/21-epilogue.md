@@ -161,6 +161,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > "'Peter, lovest thou me? Feed my sheep.' This He did once, again, and a third time, to the disciple's sorrow… **that he who had thrice denied might thrice confess Him.**"
 >
 > 「『彼得，你愛我嗎？你餵養我的羊。』祂這樣做了一次、再一次、第三次，以致那門徒憂愁……**為要叫那三次不認祂的，可以三次認祂。**」
@@ -168,6 +169,7 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate CXXIII**（論約 21 章），NPNF1-07
 
 **屈梭多模 (John Chrysostom)**:
+
 > "That which most of all brings good will from on high, is tender care for our neighbor. Which therefore Christ requireth of Peter… He was the chosen one of the Apostles, the mouth of the disciples, the leader of the band."
 >
 > **最能招來上頭恩眷的，莫過於對鄰舍溫柔的看顧——基督向彼得所要的正是這個。** ……彼得是使徒中蒙揀選的那一位，是**門徒的口**，是這一班人的領頭者。
@@ -177,6 +179,7 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "Christ intended to put his hand on his disciple, in order to keep him within the limits of his calling."
 >
 > 基督伸手按住祂的門徒——**為要把他留在他蒙召的界限之內。**
@@ -186,7 +189,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 彼得的恢復提醒我們：失敗不是終點。即使你跌倒了，基督仍然尋找你、恢復你、使用你。問題不是你有沒有失敗過，而是你是否願意回到主面前。
+
+> "This is **the restoration, the recalling of Peter**, the reassignment of the ministry that God had given him through Christ at the very beginning."
+>
+> 這是**彼得的復職與再蒙召**——把起初藉基督交給他的職事，重新按立在他身上。三次否認的人，被三次的「你愛我嗎」領回來；失敗不是終點。
+>
+> — John MacArthur, *"Peter, Do You Love Me?"*（sermon 43-116，論約 21:15-17），Grace to You, gty.org
 
 ---
 
@@ -368,6 +376,3 @@ publisher: 三書精讀出版系統
 
 5. 「跟你有甚麼關係呢？你跟從我吧！」——這話如何幫助我們處理比較心態？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

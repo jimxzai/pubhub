@@ -139,6 +139,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > "On His saying to them, 'I am He,' they went backward, and fell to the ground. **Those who thus fell to the ground at one word of Christ when about to die, what will they do at the sound of His voice when coming to judgment?**"
 >
 > 「祂一對他們說『我就是』，他們就退後倒在地上。**這些人，在基督將要受死之際，只因祂一句話就仆倒於地；那麼當祂再來審判、聲音發出的時候，他們又要如何呢？**」
@@ -146,6 +147,7 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate XLVII**（論約 10 章，引及此事），NPNF1-07
 
 **屈梭多模 (John Chrysostom)**:
+
 > "He so took him by these short words, that he said, 'What is truth?' But for the present he applieth himself to what was pressing, for he knew that this question needed time, and desired to rescue Him from the violence of the Jews."
 >
 > 主這幾句短短的話竟如此抓住了彼拉多，以致他問：「真理是甚麼？」但他隨即轉去處理眼前急務——**他知道這個問題需要時間**，而他當下想的是把耶穌從猶太人的暴力中救出來。
@@ -155,6 +157,7 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "By these words he acknowledges that he is a king… he declares that there is no disagreement between his kingdom and political government or order."
 >
 > 藉這話祂承認自己是王……同時聲明：**祂的國與政治的治理秩序並無衝突**——控告是虛謊的。
@@ -164,7 +167,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 彼拉多六次宣告耶穌無罪，卻仍然把他交給人釘十字架。這是人類歷史上最不公義的審判，卻成就了神最公義的計劃。
+
+> "In all, **six times** it is recorded in the gospels that Pilate said, 'Not guilty'… He is flawless; He is faultless; He is righteous."
+>
+> 四福音合計記載，彼拉多**六次**宣告「查不出罪來」……祂無瑕疵、無過失、是義的。史上最不公義的審判，卻由審判官親口為被告作了六次無罪的見證。
+>
+> — John MacArthur, *"Jesus Appears Before Pilate"*（sermon 43-103–106，論約 18:28-19:16），Grace to You, gty.org
 
 ---
 
@@ -345,6 +353,3 @@ publisher: 三書精讀出版系統
 
 5. 在這段經文中，誰真正在審判誰？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

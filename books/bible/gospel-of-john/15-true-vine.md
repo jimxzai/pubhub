@@ -127,6 +127,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > "**The relation of the branches to the vine is such that they contribute nothing to the vine, but from it derive their own means of life**; while that of the vine to the branches is such that it supplies their vital nourishment, and receives nothing from them."
 >
 > 「**枝子與葡萄樹的關係是這樣的：枝子對樹沒有任何貢獻，反倒是從樹取得自己活命的憑藉**；而樹與枝子的關係則是：樹供應枝子生命的養分，卻不從枝子得著甚麼。」
@@ -136,6 +137,7 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "Christ has no other object in view than to keep us as a hen keepeth her chickens under her wings, lest our indifference should carry us away, and make us fly to our destruction."
 >
 > 基督別無所圖，只要**像母雞把小雞護在翅膀底下那樣護住我們**，免得我們因怠惰飄走，飛向自己的滅亡。
@@ -145,7 +147,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> '離了我，你們就不能做什麼'——不是'很難做'，不是'做得少'，而是'不能做什麼'。這是完全的依賴。
+
+> "As our Lord said, 'Without Me, you can do nothing.' It illustrates **that kind of dependence**."
+>
+> 主說：「離了我，你們就不能做甚麼。」葡萄樹的比喻所畫的，正是**這種程度的倚靠**——不是「難做」，不是「做得少」，是不能做甚麼。
+>
+> — John MacArthur, *"I Am the True Vine"*（sermon 43-79，論約 15:1-6），Grace to You, gty.org
 
 ---
 
@@ -275,6 +282,3 @@ publisher: 三書精讀出版系統
 > 也求你的愛充滿我，使我能愛弟兄姐妹，
 > 如同你愛我一樣。阿們。
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

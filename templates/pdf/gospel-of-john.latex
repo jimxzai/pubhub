@@ -751,7 +751,7 @@ $endif$
 % Table of contents
 \pagestyle{fancy}
 {\color{ChapterBlue}\tableofcontents}
-\cleardoublepage
+\clearpage  % was \cleardoublepage; avoid header-only blank before mainmatter
 
 %% --------------------------------------------
 %% MAIN MATTER
@@ -764,7 +764,7 @@ $body$
 %% BACK MATTER — APPENDICES
 %% ============================================
 \backmatter
-\cleardoublepage
+\clearpage  % was \cleardoublepage; avoid header-only blank before backmatter
 
 %% ============================================
 %% APPENDIX A: SCRIPTURE INDEX

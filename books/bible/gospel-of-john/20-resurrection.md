@@ -178,7 +178,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 耶穌對馬利亞說『馬利亞』——只用一個名字，她就認出了他。這提醒我們：耶穌按名認識我們每一個人。我們不是群眾中的一個，我們是他所認識、所呼召的羊。
+> "All He said was, 'Mary!' … **She knew that voice. She knew the way He said that name.**"
+>
+> 祂只說了一個詞：「馬利亞！」……**她認得那聲音，認得祂喊這個名字的方式。**——正應了約 10:3-4：祂按著名叫自己的羊，羊也認得祂的聲音。
+>
+> — John MacArthur, *"Christ Is Risen, Part 2"*（sermon 43-112，論約 20:11-18），Grace to You, gty.org
 
 ---
 
@@ -349,6 +353,3 @@ publisher: 三書精讀出版系統
 
 5. 約翰福音 20:31 如何總結整卷書的目的？這對我們讀約翰福音有什麼指導？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

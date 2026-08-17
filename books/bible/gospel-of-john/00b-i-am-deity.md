@@ -483,6 +483,3 @@ publisher: 三書精讀出版系統
 
 你在哪一邊？
 
----
-
-*本章整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan, The Gospel According to John；經文以和合本／NASB 對照（ai-eden.com），原文核對 NA28。*

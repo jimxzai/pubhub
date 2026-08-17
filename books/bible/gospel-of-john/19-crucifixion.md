@@ -394,6 +394,3 @@ publisher: 三書精讀出版系統
 
 5. 十字架如何同時是極致的羞辱和極致的榮耀？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

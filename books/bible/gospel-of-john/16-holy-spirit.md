@@ -141,6 +141,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > "'He shall make me clearly known; for He shall receive of mine, and shall show it unto you.'"
 >
 > 「祂要把我清楚地顯明出來；因為祂要受於我，指示給你們。」——奧古斯丁以此句為 16:14 的解釋重心：**聖靈的工作是把基督顯明。**
@@ -150,6 +151,7 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "That very Spirit had led them into all truth, when they committed to writing the substance of their doctrine. Whoever imagines that anything must be added to their doctrine, as if it were imperfect and but half-finished, not only accuses the apostles of dishonesty, but blasphemes against the Spirit."
 >
 > 使徒把教訓的本體寫成聖經時，那位聖靈已經引導他們進入了一切真理。**誰若以為還須在其上加添甚麼，彷彿它殘缺未完——那人不但誣告使徒不誠實，更是褻瀆聖靈。**
@@ -159,7 +161,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 『我已經勝了世界』——這是人類歷史上最大膽的宣告。在十字架前夕，當一切看似失敗時，耶穌宣布得勝。這得勝是真實的，因為十字架正是得勝的地方。
+
+> "It hasn't yet worked out in time, but it's all planned in eternity. … He wins in the end. **He wins.**"
+>
+> 在時間裡還沒有成就，但在永恆裡已經全部定案。……祂最終得勝——**祂贏了。** 十字架前夕說「我已經勝了世界」，因為十字架正是得勝的地方；祂的得勝就是我們的得勝。
+>
+> — John MacArthur, *"The Hope That Overcomes the World"*（sermon 43-92，論約 16:23-33），Grace to You, gty.org
 
 ---
 
@@ -309,6 +316,3 @@ publisher: 三書精讀出版系統
 > 將我的憂愁變為喜樂，
 > 那沒有人能奪去的喜樂。阿們。
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

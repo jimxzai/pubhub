@@ -184,6 +184,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > "We, too, have been born blind of Adam, and have need of Him to enlighten us. **He mixed spittle with clay: 'The Word was made flesh, and dwelt among us.'**"
 >
 > 「我們也都是從亞當生來就瞎眼的，需要祂來光照。**祂把唾沫和了泥：『道成了肉身，住在我們中間。』**」
@@ -191,17 +192,24 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate XXXIV**（論約 8-9 章），NPNF1-07
 
 **屈梭多模 (Chrysostom)**:
+
 > 這人生來瞎眼，使神的榮耀更加彰顯。他等了多少年！但神的時間比我們想像的更美。他所得到的，不只是肉眼的視力，更是認識救主的眼光。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > 『你們若是瞎眼的，就沒有罪了』——基督的意思是：若他們謙卑承認無知，尋求光照，就能得赦免。但他們驕傲地自稱能看見，拒絕真光，罪就留在他們身上。
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 『從前我是失明的，現在我看見了』——這是最簡單卻最有力的見證。你不需要神學學位才能作見證，只需要說出你的經歷。
+
+> "I don't know who He is. I don't know about the accusation of being a sinner, but **I do know that I was blind, and now I see.**"
+>
+> 「祂是誰，我不知道；你們控告祂是罪人，我也不知道——**但我知道：從前我是瞎的，如今我看見了。**」——從對祂身份的不確定，轉到對自己改變的絕對確定；這個根基，敵意的盤問無法拆毀。
+>
+> — John MacArthur, *"When Unbelief Investigates a Miracle"*（sermon 43-50，論約 9:13-34），Grace to You, gty.org
 
 ---
 
@@ -378,6 +386,3 @@ publisher: 三書精讀出版系統
 | 屬靈瞎眼 | 9:39-41 | 賽6:9-10、太13:13-15、林後4:4 |
 | 耶穌找到人 | 9:35 | 路15:1-7（尋羊）、路19:10 |
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

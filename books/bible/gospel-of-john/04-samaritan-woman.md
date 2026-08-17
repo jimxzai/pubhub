@@ -170,7 +170,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 耶穌沒有譴責這婦人的過去，而是揭露她的需要。她來打水是為了解身體的渴，但耶穌看見她靈魂的乾渴。這是福音傳講的榜樣——從人的需要開始，引向基督。
+> "If you had a person at that point pray a prayer, you might well have a false convert, because **there's something that hasn't been dealt with and that's sin.**"
+>
+> 若在那一刻就叫人做決志禱告，很可能造出一個假信徒——因為**有一件事還沒有被對付，就是罪。**（這就是「你去叫你丈夫來」的緣故。）
+>
+> — John MacArthur, *"Messiah: The Living Water, Part 2"*（sermon 43-21，論約 4:16-26），Grace to You, gty.org
 
 ---
 
@@ -485,6 +489,3 @@ publisher: 三書精讀出版系統
 
 5. 這婦人如何成為有效的見證人？她的見證策略對我們有什麼啟發？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

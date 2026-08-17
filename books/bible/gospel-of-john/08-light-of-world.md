@@ -197,6 +197,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > "I think that what the Lord says, 'I am the light of the world,' is clear to those that have eyes, by which they are made partakers of this light."
 >
 > 主說「我是世界的光」——**在有眼可看的人，這話是明亮的**；他們正是靠這光才得以有分於光。
@@ -204,11 +205,13 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate XXXIV**（論約 8:12），NPNF1-07
 
 **屈梭多模 (Chrysostom)**:
+
 > **校訂**：屈梭多模的約翰福音講道集**沒有講解行淫婦人一段**（約 7:53-8:11）——NPNF 編者註明本尼狄克版編者「在屈梭多模的全部著作中都找不到這一段」。本書舊版繫於他名下的「我也不定你的罪」評語**無出處可考**，已撤下。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "By these words he excludes himself from the ordinary rank of men, and claims for himself a power more than human, a power heavenly and divine."
 >
 > 藉這句話，**祂把自己從普通人的行列中分別出來**，為自己宣告一種超乎人的權能——屬天、屬神的權能。
@@ -218,7 +221,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 猶太人拿起石頭要打耶穌，因為他們完全明白『我是』的意思。這不是誤解，而是正確理解耶穌的宣告——祂宣告自己是神。
+
+> "'Before Abraham was born, I am.' Not 'I was.' 'I am.' Because He's an eternal being, there's no 'was.' … Thinking they were activating Leviticus 24:16, which called for the stoning of a blasphemer, they pick up stones to throw at Him."
+>
+> 「還沒有亞伯拉罕就有了我。」不是「我曾是」，是「我是」——因為祂是永恆的存有，沒有「曾是」。……他們以為自己是在執行利未記 24:16 用石頭打死褻瀆者的條例，就拿起石頭要打祂——**他們沒有誤會，他們聽懂了。**
+>
+> — John MacArthur, *"Jesus Provokes His Enemies"*（sermon 43-48，論約 8:48-59），Grace to You, gty.org
 
 ---
 
@@ -376,6 +384,3 @@ publisher: 三書精讀出版系統
 | 亞伯拉罕的盼望 | 8:56 | 創12:3、22:18、加3:8 |
 | 拿石頭打 | 8:59 | 利24:16、約10:31-33 |
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

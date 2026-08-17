@@ -180,6 +180,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **金口約翰 (John Chrysostom)**:
+
 > "Then He, to rebuke them, because while they supposed that the food was material they ran to Him, but not when they learned that it was a spiritual kind, said, 'I am the bread of life.'"
 >
 > 於是祂責備他們——因為他們以為那食物是屬物質的，就跑來找祂；一聽明白那是屬靈的，就不來了——祂說：**「我就是生命的糧。」**
@@ -187,6 +188,7 @@ publisher: 三書精讀出版系統
 > — Chrysostom, *Homilies on St. John*, **Homily XLV**（論約 6:34-35），NPNF1-14
 
 **奧古斯丁 (Augustine)**:
+
 > "To what purpose dost thou make ready teeth and stomach? Believe, and thou hast eaten already."
 >
 > **你預備牙齒和肚腹作甚麼？信，你就已經吃了。**
@@ -196,6 +198,7 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "Despise me as much as you please, on account of the mean and despicable appearance of my flesh, still that despicable flesh contains life."
 >
 > 你們儘管因我肉身卑微可鄙的外貌而藐視我——**然而生命，正在那被藐視的肉身裡。**
@@ -205,7 +208,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 眾人找耶穌不是因為神蹟，而是因為吃餅吃飽了。今天很多人來教會也是如此——為了社交、娛樂、情感需要，卻不是為了基督自己。
+
+> "You're not here because you followed the signs that pointed to Me as Savior and Messiah and Lord. But because you ate the loaves… and were filled."
+>
+> 「你們在這裡，不是因為看懂了那指向我是救主、彌賽亞、主的兆頭——是因為你們吃餅得了飽。」
+>
+> — John MacArthur, *"True and False Disciples, Part 2"*（sermon 43-34，論約 6:22-27），Grace to You, gty.org
 
 ---
 
@@ -380,6 +388,3 @@ publisher: 三書精讀出版系統
 | 聖餐 | 6:53-56 | 林前11:23-26、太26:26-28 |
 | 門徒離開 | 6:66-69 | 太16:16（彼得的認信） |
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

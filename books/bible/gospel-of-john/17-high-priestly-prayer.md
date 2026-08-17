@@ -151,6 +151,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **屈梭多模 (John Chrysostom)**:
+
 > "After this admonition, He betaketh Himself to prayer, teaching us in our temptations to leave all things, and flee to God."
 >
 > 訓勉之後，祂便轉向禱告——**教導我們在試煉中撇下一切，逃到神那裡去。**
@@ -158,11 +159,13 @@ publisher: 三書精讀出版系統
 > — Chrysostom, *Homilies on St. John*, **Homily LXXX**（論約 17:1），NPNF1-14
 
 **奧古斯丁 (Augustine)**:
+
 > 『認識你⋯⋯這就是永生』——這不是頭腦的知識，而是愛的認識。我們認識所愛的，愛所認識的。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "There are fanatics who indulge in much useless prattle about sanctification, but who neglect the truth of God, by which he consecrates us to himself."
 >
 > 有一等狂熱之人，滿口空談成聖，**卻忽略了神用以把我們分別為聖歸祂自己的那個真理。**
@@ -172,7 +175,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 約翰福音17章是聖經中最神聖的經文之一。這是聖子對聖父的禱告，我們有幸傾聽。這禱告顯示基督多麼愛我們——他在十字架前最關心的是我們。
+
+> "Here, we are ushered into the throne room of God. Here, we eavesdrop on the communion, the eternal communion between the Son of God and the Father. **The veil is drawn back. We're admitted into the Holy of Holies.**"
+>
+> 在這裡，我們被引進神的寶座廳；在這裡，我們得以竊聽神的兒子與父之間永恆的相交。**幔子被拉開了——我們被准許進入至聖所。**
+>
+> — John MacArthur, *"The Lord's Greatest Prayer, Part 1"*（sermon 43-93，論約 17:1-5），Grace to You, gty.org
 
 ---
 
@@ -347,6 +355,3 @@ publisher: 三書精讀出版系統
 
 5. 耶穌為什麼如此強調「合一」？這合一的基礎是什麼？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

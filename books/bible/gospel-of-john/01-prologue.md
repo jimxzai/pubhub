@@ -156,8 +156,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 『道』這個詞對猶太讀者來說代表神的自我啟示，對希臘讀者來說代表宇宙的理性原則。約翰用這個詞告訴所有人：你們所尋找的，就是耶穌基督。
-> — *The MacArthur New Testament Commentary: John 1-11*
+> "The phrase 'the Word of the Lord' appeared so many times in the Old Testament, and the Word of the Lord was simply the revelation of God. … The philosophers talked about logos as the reality that was visible in creation."
+>
+> 「耶和華的話」在舊約出現了無數次——「主的道」就是神的啟示。……而希臘哲學家談論的 logos，是在受造界中可見的那個實在。約翰一個詞，同時接住了兩個世界的尋找。
+>
+> — John MacArthur, *"Jesus: The Divine Word"*（sermon 43-2，論約 1:1-5），Grace to You, gty.org
 
 ---
 
@@ -315,6 +318,3 @@ publisher: 三書精讀出版系統
 
 5. 「從來沒有人見過神，只有獨生子把他表明出來」——這對我們認識神有什麼啟示？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

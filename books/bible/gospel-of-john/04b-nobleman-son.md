@@ -291,6 +291,3 @@ publisher: 三書精讀出版系統
 4. 「他自己和全家就都信了」——從 v.47 到 v.53，這個家庭經歷了甚麼過程？
 5. 摩根說「兆頭是第二線的證據；祂自己才是至高的證據」。這句話如何調整你對神蹟、醫治、屬靈經歷的期待？
 
----
-
-*本章整合三方資源：週四查經班教導、John MacArthur (gty.org, sermon 43-24)、G. Campbell Morgan, The Gospel According to John；經文以和合本／NASB 對照（ai-eden.com），詩篇經 cnbible.com 覆核。*

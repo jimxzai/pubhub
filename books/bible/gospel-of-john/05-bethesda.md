@@ -190,9 +190,11 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > 三十八年的病象徵律法的軟弱。律法有十誡，但人靠自己無法遵守。四十減二等於三十八——差兩條誡命：愛神、愛人。只有基督能補足這缺欠。
 
 **屈梭多模 (Chrysostom)**:
+
 > 「『耶穌對他說：你要痊癒嗎？』」——屈梭多模以整篇講道處理這一問，講題即繫於此節。
 >
 > — Chrysostom, *Homilies on the Gospel of St. John*, **Homily XXXVII**（講題經文即約 5:6-7），NPNF1-14
@@ -200,6 +202,7 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "He does not reply that the Law about keeping the Sabbath was temporary, and that it ought now to be abolished; but, on the contrary, maintains that he has not violated the Law, because this is a divine work."
 >
 > 祂的答辯不是說安息日之例屬乎暫時、如今當廢；恰恰相反，祂主張自己並未違反律法——**因為這是神的工作。**
@@ -209,7 +212,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 『你要痊癒嗎？』這問題看似多餘，卻觸及人心深處。有些人習慣了自己的病，不願改變。耶穌要他作出信心的決定。
+
+> "The man went away and told the Jews that it was Jesus who had made him well."
+>
+> 「那人就去告訴猶太人，使他痊癒的是耶穌。」——麥克阿瑟指出這是全段最刺的一筆：得了醫治的人，轉身站到醫治他的主的敵人那邊去——這正是虛假宗教轄制人的能力。
+>
+> — John MacArthur, *"The Damning Power of False Religion"*（sermon 43-25，論約 5:1-16），Grace to You, gty.org
 
 ---
 
@@ -361,6 +369,3 @@ publisher: 三書精讀出版系統
 | 聖經為基督作見證 | 5:39-47 | 路24:27, 44-47、徒10:43 |
 | 曠野的38年 | 背景 | 申2:14、民14:33-34 |
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

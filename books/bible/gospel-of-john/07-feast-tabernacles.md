@@ -169,6 +169,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > "We are not obliged to delay to inquire what this meant, since the evangelist has explained it."
 >
 > 這話是甚麼意思，我們不必費力猜——**福音書作者自己解釋了**（約 7:39：這話是指著信祂之人要受聖靈說的）。
@@ -176,6 +177,7 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate XXXII**（論約 7:37-39），NPNF1-07
 
 **屈梭多模 (Chrysostom)**:
+
 > "They who come to the divine preaching and give heed to the faith, must manifest the desire of thirsty men for water… they who hear the divine oracles, if they receive them thirsting, will never be weary until they have drunk them up."
 >
 > 來聽神聖道理的人，必須帶著渴者求水的切慕……**聽神言語的人若是渴著領受，不喝盡就不會罷休。**
@@ -185,6 +187,7 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "No plots or intrigues of enemies terrified Christ, so as to cause him to desist from his duty; but, on the contrary, his courage rose with dangers."
 >
 > 仇敵的密謀恐嚇不了基督，攔不住祂盡職；恰恰相反，**危險越大，祂的膽量越壯。**
@@ -194,7 +197,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 耶穌選擇在取水儀式的高潮宣告，時機完美。當眾人期待彌賽亞時代的活水時，耶穌宣告：我就是那活水的源頭。
+
+> "Perhaps in the quiet moment when the festival reaches its apex and the priest takes the golden pitcher and pours the water, it is perhaps at that moment that Jesus says, 'If anyone is thirsty, let him come and drink.' **Jesus dramatically captures the moment—turns it to Himself.**"
+>
+> 或許正是節期到達頂點、祭司拿起金壺澆水的那個安靜片刻——耶穌說：「人若渴了，可以到我這裡來喝。」**祂戲劇性地抓住那一刻，把它轉向自己。**
+>
+> — John MacArthur, *"The Glorious Gospel Invitation"*（sermon 43-43，論約 7:37-52），Grace to You, gty.org
 
 ---
 
@@ -345,6 +353,3 @@ publisher: 三書精讀出版系統
 | 尼哥底母 | 7:50-52 | 約3:1-21、19:38-42 |
 | 曠野磐石 | 7:37-38 | 出17:6、民20:8、林前10:4 |
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

@@ -6,7 +6,7 @@ date: 2025年12月
 publisher: 三書精讀出版系統
 ---
 
-# 第一章（下）：施洗約翰的見證與首批門徒 (John's Testimony and First Disciples)
+# 第一章（下）：施洗約翰的見證與首批門徒 (First Disciples)
 
 約翰福音 1:19-51
 
@@ -286,6 +286,3 @@ publisher: 三書精讀出版系統
 > 像安得烈一樣，把人帶到你面前。
 > 奉主耶穌基督的名禱告，阿們。
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

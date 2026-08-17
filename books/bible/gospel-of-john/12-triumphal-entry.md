@@ -184,6 +184,7 @@ publisher: 三書精讀出版系統
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
+
 > "Himself was the grain that had to die, and be multiplied; to suffer death through the unbelief of the Jews, and to be multiplied in the faith of many nations."
 >
 > **祂自己就是那必須死、然後加增的一粒麥子**——因猶太人的不信受死，又在萬邦的信心裡加增。
@@ -191,6 +192,7 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate LI**（論約 12:24），NPNF1-07
 
 **屈梭多模 (Chrysostom)**:
+
 > "She directeth the honor to Him alone, and approacheth Him not as a man, but as a God."
 >
 > 她把尊榮單單歸給祂一位——**她走近祂，不是把祂當作人，是把祂當作神。**
@@ -200,6 +202,7 @@ publisher: 三書精讀出版系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
+
 > "He presents to his Father the dread which arose out of his natural disposition, in order that it may be subdued, or rather, having subdued it, he prepares freely and willingly to execute the command of God."
 >
 > 祂把出於本性的懼怕帶到父面前，好叫它被制伏；更準確地說，**祂制伏了它，就甘心樂意地預備去成就神的命令。**
@@ -209,7 +212,12 @@ publisher: 三書精讀出版系統
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 馬利亞打破香膏瓶，傾倒一切所有。這就是真正的敬拜——不是給主剩餘的，而是給主最好的、所有的。
+
+> "**This is love that knows no limits, love without restraint. It's extravagant. It's humble. It's generous.**"
+>
+> **這是不知界限的愛，不加節制的愛——奢侈的、謙卑的、慷慨的。** 馬利亞滿溢而奢侈的犧牲之愛，與猶大的貪婪成了最尖銳的對照。
+>
+> — John MacArthur, *"One Savior, Five Reactions"*（sermon 43-61，論約 12:1-11），Grace to You, gty.org
 
 ---
 
@@ -397,6 +405,3 @@ publisher: 三書精讀出版系統
 | 被舉起 | 12:32-34 | 約3:14、8:28、民21:8-9 |
 | 時候到了 | 12:23, 27 | 約2:4、7:6、13:1、17:1 |
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

@@ -156,7 +156,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 水變酒是創造性的神蹟，展示了耶穌的神性。這不是魔術，而是創造主的作為。六口石缸總共可盛 120-180 加侖的酒——這是豐盛的恩典，超過所需。
+> "There are no grapes, no vines, no seeds, no sunlight, no water, no earth. Nothing. **He's created wine out of nothing.** … A hundred and twenty to a hundred and eighty gallons in these water pots."
+>
+> 沒有葡萄、沒有藤、沒有種子、沒有陽光、沒有水、沒有土——甚麼都沒有。**祂是從無有中造出酒來。** ……這些缸裡是一百二十到一百八十加侖。
+>
+> — John MacArthur, *"The Beginning of Miracles"*（sermon 43-8，論約 2:1-11），Grace to You, gty.org
 
 ---
 
@@ -390,6 +394,3 @@ publisher: 三書精讀出版系統
 
 5. 「好酒留到現在」的屬靈應用是什麼？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

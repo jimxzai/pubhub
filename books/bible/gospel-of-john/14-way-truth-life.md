@@ -175,7 +175,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 這是宗教多元主義者最不願意聽到的經文。但耶穌的話是清楚的：他不是一條道路，他是唯一的道路。這不是狹隘，這是真理。
+> "Faith in Jesus is **the only way** of salvation."
+>
+> 信耶穌是**唯一的**救法。初期教會被稱為「這道路」（the Way），正是因為這排他性——「若不藉著我，沒有人能到父那裡去」容不下「自然神學」或「更寬的憐憫」那類旁門。
+>
+> — John MacArthur, *"Heavenly Promises"*（sermon 43-72，論約 14:1-6），Grace to You, gty.org
 
 ---
 
@@ -349,6 +353,3 @@ publisher: 三書精讀出版系統
 
 5. 基督的平安與世界的平安有什麼不同？你如何在困難中經歷這平安？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

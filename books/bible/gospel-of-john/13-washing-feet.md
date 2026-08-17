@@ -171,7 +171,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 門徒們當時可能正在爭論誰為大。沒有人願意做洗腳的工作，因為那太卑微了。耶穌的行動是對他們驕傲的責備，也是謙卑服事的永恆榜樣。
+> "They were all about their own dignity, their own honor, their own elevation. … **He just loves them, and He gives them a model of how they are to love.**"
+>
+> 他們滿腦子都是自己的體面、自己的尊榮、自己的高升（路 22 記著他們正爭論誰為大——卻沒有一雙腳被洗）。**祂只是愛他們，並給了他們一個「當怎樣愛」的範本。**
+>
+> — John MacArthur, *"The Humble Love of Christ"*（sermon 43-68，論約 13:1-17），Grace to You, gty.org
 
 ---
 
@@ -342,6 +346,3 @@ publisher: 三書精讀出版系統
 
 5. 猶大也接受了耶穌洗腳，為什麼他仍然選擇背叛？這警戒我們什麼？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

@@ -135,8 +135,8 @@ add_volume "卷一 · 序言——道 (Prologue: The Word) · 1:1-18" \
     "19:13「祂的名稱為神之道」"
 add_chapter 01
 
-add_volume "卷二 · 兆頭之書——信與不信的交戰 (The Book of Signs) · 1:19-12:50" \
-    "三年半的事工，十二章。兆頭是圖畫，「我是」是圖畫下面的說明文字。" \
+add_volume "卷二 · 兆頭之書——信與不信的交戰 (The Book of Signs)" \
+    "1:19-12:50——三年半的事工，十二章。兆頭是圖畫，「我是」是圖畫下面的說明文字。" \
     "**陳明**——信與不信分開（1:12）" \
     "7:39「那時還沒有賜下聖靈來，因為耶穌尚未得著榮耀」" \
     "5:6 羔羊站立，像是被殺過的"
@@ -149,8 +149,8 @@ add_volume "卷三 · 榮耀之書·樓上私語——愛 (The Upper Room) · 13
     "21:3 神的帳幕在人間"
 for i in 13 14 15 16 17; do add_chapter "$i"; done
 
-add_volume "卷四 · 榮耀之書·受難復活——榮耀的高峰 (Passion & Resurrection) · 18-20" \
-    "三天，三章。榮耀的高峰不在寶座，在十字架——「成了」。" \
+add_volume "卷四 · 榮耀之書·受難復活 (Passion & Resurrection)" \
+    "18-20 章——三天，三章。榮耀的高峰不在寶座，在十字架——「成了」。" \
     "**成全**——τετέλεσται，成全了且永遠成全著" \
     "20:22「就向他們吹一口氣，說：你們受聖靈！」" \
     "1:18「我曾死過，現在又活了」"
@@ -172,8 +172,13 @@ add_volume "卷末 · 望向那一頭 (Toward the Other End)" \
 > 但記這些事，是要叫你們信耶穌是基督，是神的兒子，並且叫你們信了祂，就可以因祂的名得生命。（約 20:31）"
 add_file "$INPUT_DIR/99-to-revelation.md"
 
-# 跋 — afterword (the ministry, the 66-volume prayer)
-add_file "$INPUT_DIR/999-afterword.md"
+# 跋 — afterword (the ministry, the 66-volume prayer).
+# Last content file: no trailing \newpage (the template backmatter opens
+# its own page; a trailing break here yields a header-only blank page
+# whenever the afterword happens to fill its final page exactly).
+echo "  Adding: 999-afterword.md"
+tail -n +8 "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
+((chapter_count++))
 
 echo ""
 echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $chapter_count chapters)"

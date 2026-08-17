@@ -182,7 +182,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 這個神蹟與其他復活神蹟不同：拉撒路已死四天，屍體開始腐爛。耶穌沒有觸摸他，沒有對著他禱告——只是用話語命令。這展示的是創造主的能力。
+> "**He says two words: Lazarus, and come out, and the miracle happens.**"
+>
+> 四天了，屍身已經開始朽壞。**祂只說了兩個詞：「拉撒路」「出來」——神蹟就發生了。** 單憑口令扭轉徹底的朽壞，這是唯獨屬乎基督的創造主權能。
+>
+> — John MacArthur, *"I Am the Resurrection and the Life, Part 2"*（sermon 43-59，論約 11:37-46），Grace to You, gty.org
 
 ---
 
@@ -360,6 +364,3 @@ publisher: 三書精讀出版系統
 
 5. 這個神蹟如何成為祭司長定意殺害耶穌的導火線（11:47-53）？這有什麼諷刺意味？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

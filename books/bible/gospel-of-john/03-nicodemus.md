@@ -162,7 +162,11 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 尼哥底母是當時最有宗教知識的人之一，但耶穌告訴他：你所有的知識、所有的道德努力都不夠。你需要的是從上頭來的新生命。這是對所有宗教努力的挑戰。
+> "He is a member of the Sanhedrin… This man is at the apex of religion. … **Religion in any form to any degree is completely useless in getting anybody to heaven.**"
+>
+> 他是公會的成員……這人站在宗教的頂點。……**任何形式、任何程度的宗教，對把人帶進天堂完全無用。** 亞伯拉罕是他肉身的父，神卻不是他屬靈的父。
+>
+> — John MacArthur, *"Jesus Teaches the Teacher"*（sermon 43-11，論約 3:1-3），Grace to You, gty.org
 
 ---
 
@@ -414,6 +418,3 @@ publisher: 三書精讀出版系統
 
 5. 「愛黑暗」是什麼意思？在現代生活中有什麼具體表現？
 
----
-
-*本章研讀整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan*

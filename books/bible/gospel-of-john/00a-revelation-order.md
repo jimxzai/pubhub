@@ -391,6 +391,3 @@ publisher: 三書精讀出版系統
 
 **ἐγώ εἰμι——我是。**
 
----
-
-*本章整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan, The Gospel According to John；教父引述據 Irenaeus, Against Heresies III.11.8；經文以和合本／NASB 對照（ai-eden.com）。*

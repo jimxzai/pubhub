@@ -206,6 +206,3 @@ publisher: 三書精讀出版系統
 
 **阿們。主耶穌啊，我願你來。**
 
----
-
-*本章整合三方資源：週四查經班教導、John MacArthur (gty.org)、G. Campbell Morgan；經文以和合本／NASB 對照（ai-eden.com），重點節另經 cnbible.com 覆核。*
