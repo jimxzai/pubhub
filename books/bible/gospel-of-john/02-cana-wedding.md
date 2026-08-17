@@ -16,7 +16,7 @@ publisher: 三書精讀出版系統
 
 > **本章鑰詞：喜樂 Joy** \
 > **「我是」座標**：名字尚未出口。摩根稱迦拿為**「創造與喜樂之境」**的兆頭——主行的第一件事，不是解決溫飽，是**補上喜樂**。新郎在場，卻不出聲。 \
-> （全書骨幹見 卷首《「我是」——全書的骨幹》）
+> （全書骨幹見卷首《「我是」——全書的骨幹》）
 
 水變酒的神蹟與潔淨聖殿的行動，是同一位主在同一個逾越節前後所行的兩個記號——焦點都不是酒或聖殿本身，而是那位「把好酒留到現在」，也「以自己的身體為殿」的耶穌基督。從祂的角度讀，六口盛不下的石缸，祂用滿溢的新酒成全；人手所造終必拆毀的聖殿，祂卻要用自己的死而復活重建成永存的敬拜中心。舊約的禮儀與建築都指向祂——祂是真葡萄樹，也是真聖殿，門徒因這兩個記號「就信了祂」。
 
@@ -140,9 +140,9 @@ publisher: 三書精讀出版系統
 
 **金口約翰 (John Chrysostom, 349-407)**:
 
-> "They invite Him to the marriage, and He comes; for He looked not to His own honor, but to our benefit. He who disdained not to take upon Him the form of a servant… would much less disdain to be present at the marriage."
+> "They invite Him to the marriage, and He comes; for He looked not to His own honor, but to our benefit. He who disdained not to 'take upon Him the form of a servant,' would much less disdain to be present at the marriage **of servants**."
 >
-> 他們請祂赴婚宴，祂就來了——**因為祂看的不是自己的體面，是我們的益處。** 那位不以取了奴僕形像為辱的，更不會以出席一場婚宴為辱。
+> 他們請祂赴婚宴，祂就來了——**因為祂看的不是自己的體面，是我們的益處。** 那位不以「取了奴僕的形像」為辱的，更不會以出席**僕人的**婚宴為辱。
 >
 > — Chrysostom, *Homilies on St. John*, **Homily XXI**（論約 2:1-2），NPNF1-14
 
@@ -304,7 +304,7 @@ publisher: 三書精讀出版系統
 
 這位不出聲的新郎，下一章就被施洗約翰指認出來：**「娶新婦的就是新郎」**（3:29）。二章的酒，在三章有了名字；到四章，這位新郎親自走到井旁去找新婦。
 
-**二 → 三 → 四，是一條線，不是三段獨立的故事。**（詳見 卷首《「我是」——全書的骨幹》 第七節）
+**二 → 三 → 四，是一條線，不是三段獨立的故事。**（詳見卷首《「我是」——全書的骨幹》第七節）
 
 ### 四、逼近核心的一問
 

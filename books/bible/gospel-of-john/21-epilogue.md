@@ -16,7 +16,7 @@ publisher: 三書精讀出版系統
 
 > **本章鑰詞：你愛我嗎 Do You Love Me** \
 > **「我是」座標**：「我是好牧人」（10:11）在這裡交棒：**「你餵養我的羊」**（21:15-17）。三次問，對著三次否認。**牧人不問你能力如何，只問你愛我嗎。** \
-> （全書骨幹見 卷首《「我是」——全書的骨幹》）
+> （全書骨幹見卷首《「我是」——全書的骨幹》）
 
 約翰福音廿一章的焦點，不在門徒徒然勞碌一夜的漁夫舊業，也不在彼得三次否認留下的傷痕，而在那位站在岸上、親自預備炭火與早餐的復活主。從祂的角度讀，祂吩咐把網撒在船的右邊，成就滿載的神蹟；祂三次問彼得「你愛我嗎」，不是要定他的罪，而是要親手醫治三次否認留下的傷口，重新差遣他去牧養主的羊。復活的主沒有丟棄跌倒的門徒，祂親自尋找、恢復、再次差遣。
 
@@ -168,9 +168,9 @@ publisher: 三書精讀出版系統
 > — Augustine, *Tractates on John*, **Tractate CXXIII**（論約 21 章），NPNF1-07
 
 **屈梭多模 (John Chrysostom)**:
-> "What He requireth of Peter is tender care for our neighbor… He was the chosen one of the Apostles, the mouth of the disciples, the leader of the band."
+> "That which most of all brings good will from on high, is tender care for our neighbor. Which therefore Christ requireth of Peter… He was the chosen one of the Apostles, the mouth of the disciples, the leader of the band."
 >
-> 基督向彼得所要的，是對鄰舍溫柔的看顧……彼得是使徒中蒙揀選的那一位，是**門徒的口**，是這一班人的領頭者。
+> **最能招來上頭恩眷的，莫過於對鄰舍溫柔的看顧——基督向彼得所要的正是這個。** ……彼得是使徒中蒙揀選的那一位，是**門徒的口**，是這一班人的領頭者。
 >
 > — Chrysostom, *Homilies on St. John*, **Homily LXXXVIII**（論約 21:15），NPNF1-14
 
