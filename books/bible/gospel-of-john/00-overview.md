@@ -19,8 +19,8 @@ publisher: 三書精讀出版系統
 
 ## 核心經文 (Key Verse)
 
-> 但記這些事，是要叫你們信耶穌是基督，是神的兒子，並且叫你們信了祂，就可以因祂的名得生命。
-> — 約翰福音 20:31
+> 但記這些事要叫你們信耶穌是基督，是神的兒子，並且叫你們信了他，就可以因他的名得生命。
+> — 約翰福音 20:31（和合本）
 
 > But these are written so that you may believe that Jesus is the Christ, the Son of God, and that by believing you may have life in his name.
 > — John 20:31 (ESV)
@@ -263,7 +263,7 @@ publisher: 三書精讀出版系統
 | 步驟 | 內容 | 說明 |
 |------|------|------|
 | 1 | 禱告預備 | 以當日配詩開始 |
-| 2 | 經文朗讀 | 中英對照 (RCUV + ESV) |
+| 2 | 經文朗讀 | 中英對照（和合本 + 英譯） |
 | 3 | 三方資源 | 老弟兄 + MacArthur + Morgan |
 | 4 | 筆記記錄 | 使用標準模板 |
 | 5 | 聖詩回應 | 唱誦或默想配詩 |

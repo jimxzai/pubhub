@@ -733,7 +733,7 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
+中文：和合本 (CUV, 1919)\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
@@ -986,7 +986,7 @@ $body$
 \section*{聖經版本 Bible Versions Used}
 
 \begin{itemize}
-\item 中文：和合本修訂版 (Revised Chinese Union Version, RCUV)
+\item 中文：《聖經》和合本 (Chinese Union Version, 1919，公有領域)
 \item English: English Standard Version (ESV); New American Standard Bible (NASB) where noted
 \item 原文參考：Nestle-Aland 28th Edition (NA28); UBS Greek New Testament 5th Edition
 \end{itemize}

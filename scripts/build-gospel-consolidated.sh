@@ -46,6 +46,19 @@ copyright: |
 
   兆頭是圖畫，「我是」是圖畫下面的說明文字
 
+  **經文版權聲明 (Scripture Copyright Notices)**
+
+  中文經文引自《聖經》和合本（1919），屬公有領域。
+
+  Scripture quotations taken from the New American Standard Bible® (NASB®),
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. www.lockman.org
+
+  Scripture quotations marked (ESV) are from the ESV® Bible
+  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
+  a publishing ministry of Good News Publishers. Used by permission.
+  All rights reserved.
+
   All rights reserved.
 ---
 
