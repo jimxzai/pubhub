@@ -66,9 +66,16 @@ add_file() {
     ((chapter_count++))
 }
 
-# Volume divider: a part-title page carrying the volume's theme.
+# Volume divider: a part-title page carrying the volume's theme and,
+# optionally, its place in the salvation plan / the Spirit's position /
+# the Revelation harvest ($3 $4 $5; see 00a-revelation-order.md 總表).
 add_volume() {
-    printf '# %s\n\n> %s\n\n\\newpage\n\n' "$1" "$2" >> "$COMBINED_MD"
+    printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
+    if [ -n "$3" ]; then
+        printf '\n| | |\n|---|---|\n| **救恩計劃** | %s |\n| **聖靈在哪裡** | %s |\n| **啟示錄的收成** | %s |\n' \
+            "$3" "$4" "$5" >> "$COMBINED_MD"
+    fi
+    printf '\n\\newpage\n\n' >> "$COMBINED_MD"
     echo "  --- $1"
 }
 
@@ -106,23 +113,38 @@ fi
 # 正文 · 五卷
 # ============================================================
 add_volume "卷一 · 序言——道 (Prologue: The Word) · 1:1-18" \
-    "十八節，抵一部系統神學。永恆切入時間。"
+    "十八節，抵一部系統神學。永恆切入時間。" \
+    "**賜下**——神把獨生子給出去" \
+    "1:32「彷彿鴿子從天降下，住在他的身上」" \
+    "19:13「祂的名稱為神之道」"
 add_chapter 01
 
 add_volume "卷二 · 兆頭之書——信與不信的交戰 (The Book of Signs) · 1:19-12:50" \
-    "三年半的事工，十二章。兆頭是圖畫，「我是」是圖畫下面的說明文字。"
+    "三年半的事工，十二章。兆頭是圖畫，「我是」是圖畫下面的說明文字。" \
+    "**陳明**——信與不信分開（1:12）" \
+    "7:39「那時還沒有賜下聖靈來，因為耶穌尚未得著榮耀」" \
+    "5:6 羔羊站立，像是被殺過的"
 for i in 01b 02 03 04 04b 05 06 07 08 09 10 11 12; do add_chapter "$i"; done
 
 add_volume "卷三 · 榮耀之書·樓上私語——愛 (The Upper Room) · 13-17" \
-    "一個晚上，五章。祂既然愛世間屬自己的人，就愛他們到底。"
+    "一個晚上，五章。祂既然愛世間屬自己的人，就愛他們到底。" \
+    "**預告內化**——住在我裡面" \
+    "14:17「常與你們同在，也要在你們裡面」" \
+    "21:3 神的帳幕在人間"
 for i in 13 14 15 16 17; do add_chapter "$i"; done
 
 add_volume "卷四 · 榮耀之書·受難復活——榮耀的高峰 (Passion & Resurrection) · 18-20" \
-    "三天，三章。榮耀的高峰不在寶座，在十字架——「成了」。"
+    "三天，三章。榮耀的高峰不在寶座，在十字架——「成了」。" \
+    "**成全**——τετέλεσται，成全了且永遠成全著" \
+    "20:22「就向他們吹一口氣，說：你們受聖靈！」" \
+    "1:18「我曾死過，現在又活了」"
 for i in 18 19 20; do add_chapter "$i"; done
 
 add_volume "卷五 · 跋——爐火邊的恢復與差遣 (Epilogue) · 21" \
-    "一頓早餐，一章。三次問，對著三次否認。"
+    "一頓早餐，一章。三次問，對著三次否認。" \
+    "**傳遞**——你餵養我的羊" \
+    "20:21「父怎樣差遣了我，我也照樣差遣你們」" \
+    "22:17「聖靈和新婦都說：來！」"
 add_chapter 21
 
 # ============================================================
