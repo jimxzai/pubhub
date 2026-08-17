@@ -14,6 +14,10 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **本章鑰詞：我就是 I AM** \
+> **「我是」座標**：**絕對式「我是」連續三次**（18:5, 6, 8）。「耶穌一說我就是，他們就退後倒在地上」——祂不是被捕的，**祂是讓他們捕的**；祂倒下敵人，是為了保住羊（18:8-9）。 \
+> （全書骨幹見 `00b-i-am-deity.md`）
+
 被捕與受審的敘事，焦點不在拿刀的彼得、逃跑的門徒，或六次審判的法庭，而在那位一句「我就是」便使兵丁退後倒地、卻甘心束手就縛的主。從祂的角度讀，園中「我父給我的杯，我怎能不喝呢」與堂上「我的國不屬於這世界」原是同一個順服——祂如同不開口的羊羔，被牽到宰殺之地，只因祂自己揀選了這條道路。受審的看似是祂，真正被審判的，卻是拒絕真理的世界。
 
 ---
@@ -128,23 +132,39 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
+> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
+> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> 經逐字核校的原始引文，見各章「三大資源深度整合」與「摩根深讀」二節。
+
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
-> 「『我就是』——這三個字使一隊兵丁倒地。如果他審判時的話語有這樣的能力，他再來審判時的能力將何等大！」
+> "On His saying to them, 'I am He,' they went backward, and fell to the ground. **Those who thus fell to the ground at one word of Christ when about to die, what will they do at the sound of His voice when coming to judgment?**"
+>
+> 「祂一對他們說『我就是』，他們就退後倒在地上。**這些人，在基督將要受死之際，只因祂一句話就仆倒於地；那麼當祂再來審判、聲音發出的時候，他們又要如何呢？**」
+>
+> — Augustine, *Tractates on John*, **Tractate XLVII**（論約 10 章，引及此事），NPNF1-07
 
 **屈梭多模 (John Chrysostom)**:
-> 「彼拉多問『真理是甚麼？』卻不等回答就走了。這是世界的悲劇——詢問真理卻不願等待答案。」
+> "He so took him by these short words, that he said, 'What is truth?' But for the present he applieth himself to what was pressing, for he knew that this question needed time, and desired to rescue Him from the violence of the Jews."
+>
+> 主這幾句短短的話竟如此抓住了彼拉多，以致他問：「真理是甚麼？」但他隨即轉去處理眼前急務——**他知道這個問題需要時間**，而他當下想的是把耶穌從猶太人的暴力中救出來。
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LXXXIV**（論約 18:37-38），NPNF1-14
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 「『我的國不屬於這世界』——基督不是否認他對世界的主權，而是說明他的國度運作方式不同。教會不應用刀劍推進福音。」
+> "By these words he acknowledges that he is a king… he declares that there is no disagreement between his kingdom and political government or order."
+>
+> 藉這話祂承認自己是王……同時聲明：**祂的國與政治的治理秩序並無衝突**——控告是虛謊的。
+>
+> — John Calvin, *Commentary on John*, 約 18:36 注（CCEL, calcom35）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 「彼拉多六次宣告耶穌無罪，卻仍然把他交給人釘十字架。這是人類歷史上最不公義的審判，卻成就了神最公義的計劃。」
+> 彼拉多六次宣告耶穌無罪，卻仍然把他交給人釘十字架。這是人類歷史上最不公義的審判，卻成就了神最公義的計劃。
 
 ---
 

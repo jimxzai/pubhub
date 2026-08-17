@@ -12,6 +12,10 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **本章鑰詞：道 · 榮光 Word & Glory** \
+> **「我是」座標**：名字尚未出口，先說本體：「太初有道……道就是神」（1:1）。全卷所有的「我是」，都站在這一節上。 \
+> （全書骨幹見 `00b-i-am-deity.md`）
+
 在這卷福音翻開以前，主角早已在場。約翰不從馬槽落筆，而從「太初」落筆——那位道成肉身的，本是與神同在、本身就是神的道。讀這十八節，不是在讀一段嬰孩傳記的前言，而是認出那創造萬有的主，如今親自進入祂所造的世界。光照進黑暗裏，因為光本身就是祂自己。
 
 ---
@@ -116,33 +120,44 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
+> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
+> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> 經逐字核校的原始引文，見各章「三大資源深度整合」與「摩根深讀」二節。
+
 ### 教父時期
 
 **俄利根 (Origen, 185-254)**:
 
-> 「約翰在這裏使用『太初』一詞，正是要告訴我們：道沒有開始，因為祂就是那開始。任何有開始的事物都在時間之內，但道在時間之先。」
+> "Let any one collect the Scripture passages in which the word occurs… and he will find that the word [beginning] has many meanings in sacred discourse."
+>
+> 「誰若把聖經中出現這詞的經文都收集起來……就會發現『太初／起頭』一詞在聖言中有許多層意義。」——俄利根的《約翰福音註釋》即以逐層分辨 ἀρχή 的意義開卷。
+>
+> — Origen, *Commentary on the Gospel of John*, Book I（ANF09, CCEL）
 
 **奧古斯丁 (Augustine, 354-430)**:
 
-> 「『道成了肉身』——不是道變成了肉，而是道取了肉身。道仍然是道，但加上了人性。神性沒有減少，人性卻被高舉。」
+> "He healed our eyes; and what follows? 'And we beheld His glory.' **His glory can no one see unless healed by the humility of His flesh.**"
+>
+> 「祂醫好了我們的眼睛；接下來是甚麼？『我們也見過他的榮光。』**祂的榮光，沒有人看得見，除非先被祂肉身的卑微所醫治。**」
+>
+> — Augustine, *Tractates on John*, **Tractate II.16**（論約 1:6-14），NPNF1-07
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 「約翰在此宣告基督從太初就存在，祂是永恆智慧的本體，藉此我們知道，在父神的永恆計劃中，基督就是那完美的形像。」
+> "In this introduction he asserts the eternal Divinity of Christ, in order to inform us that he is the eternal God, who was manifested in the flesh."
+>
+> 在這開卷之處，他宣告基督永恆的神性，為要叫我們知道：**祂就是那位在肉身顯現的永恆的神。**
+>
+> — John Calvin, *Commentary on John*, 約 1:1 注（CCEL, calcom34）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 「『道』這個詞對猶太讀者來說代表神的自我啟示，對希臘讀者來說代表宇宙的理性原則。約翰用這個詞告訴所有人：你們所尋找的，就是耶穌基督。」
+> 『道』這個詞對猶太讀者來說代表神的自我啟示，對希臘讀者來說代表宇宙的理性原則。約翰用這個詞告訴所有人：你們所尋找的，就是耶穌基督。
 > — *The MacArthur New Testament Commentary: John 1-11*
-
-**乾伯·摩根 (G. Campbell Morgan)**:
-
-> 「這個序言是整本福音書的縮影。在這十八節經文中，約翰已經給了我們整卷書的鑰匙：道的本質、道的工作、世人的回應、以及信者的特權。」
-> — *The Gospel According to John*
 
 ---
 

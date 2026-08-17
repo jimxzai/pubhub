@@ -14,6 +14,10 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **本章鑰詞：聖靈 The Spirit** \
+> **「我是」座標**：「我去是與你們有益的」（16:7）——**保惠師接續「我是」的同在。** 那位說「我是」的走了，那位「另一位保惠師」住下來。 \
+> （全書骨幹見 `00b-i-am-deity.md`）
+
 耶穌即將離世，卻對門徒說「我去是對你們有益的」——焦點不在祂的離去帶來的失落，而在那位差保惠師來的主自己。祂應許聖靈要引導門徒進入一切真理、又要榮耀基督；祂也應許憂愁必要變為喜樂。這一切安慰的根源，都在祂最後的宣告裡：「你們要放心，我已經勝了世界。」
 
 ---
@@ -130,20 +134,32 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
+> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
+> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> 經逐字核校的原始引文，見各章「三大資源深度整合」與「摩根深讀」二節。
+
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
-> 「聖靈被稱為『真理的靈』，因為他的工作是使我們認識真理。沒有聖靈的光照，即使看見也不能明白。」
+> "'He shall make me clearly known; for He shall receive of mine, and shall show it unto you.'"
+>
+> 「祂要把我清楚地顯明出來；因為祂要受於我，指示給你們。」——奧古斯丁以此句為 16:14 的解釋重心：**聖靈的工作是把基督顯明。**
+>
+> — Augustine, *Tractates on John*, **Tractate C**（論約 16:13-15），NPNF1-07
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 「『引導你們進入一切的真理』——這不是說聖靈會給新的啟示，而是使人完全明白基督已經啟示的真理。聖靈的工作是解釋基督，而不是取代基督。」
+> "That very Spirit had led them into all truth, when they committed to writing the substance of their doctrine. Whoever imagines that anything must be added to their doctrine, as if it were imperfect and but half-finished, not only accuses the apostles of dishonesty, but blasphemes against the Spirit."
+>
+> 使徒把教訓的本體寫成聖經時，那位聖靈已經引導他們進入了一切真理。**誰若以為還須在其上加添甚麼，彷彿它殘缺未完——那人不但誣告使徒不誠實，更是褻瀆聖靈。**
+>
+> — John Calvin, *Commentary on John*, 約 16:13 注（CCEL, calcom35）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 「『我已經勝了世界』——這是人類歷史上最大膽的宣告。在十字架前夕，當一切看似失敗時，耶穌宣布得勝。這得勝是真實的，因為十字架正是得勝的地方。」
+> 『我已經勝了世界』——這是人類歷史上最大膽的宣告。在十字架前夕，當一切看似失敗時，耶穌宣布得勝。這得勝是真實的，因為十字架正是得勝的地方。
 
 ---
 

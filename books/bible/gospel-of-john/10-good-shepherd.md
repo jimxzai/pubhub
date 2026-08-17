@@ -12,6 +12,10 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **本章鑰詞：牧養 Shepherd** \
+> **「我是」座標**：兩個「我是」：羊的門（10:7, 9）、好牧人（10:11, 14）。收在「我與父原為一」（10:30）——**猶太人又拿石頭**（10:31）。 \
+> （全書骨幹見 `00b-i-am-deity.md`）
+
 好牧人的講論，主角不是迷失的羊，而是那位「為羊捨命」的牧人。從祂的角度讀，祂既是羊圈的門——進入救恩的唯一入口，也是認得羊、羊也認得祂聲音的牧人。雇工見狼來就逃跑，祂卻甘心捨命，又有權柄取回來；以西結所應許那位大衛子孫的好牧人，如今親自來牧養。
 
 ---
@@ -157,31 +161,37 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
+> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
+> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> 經逐字核校的原始引文，見各章「三大資源深度整合」與「摩根深讀」二節。
+
 ### 教父時期
 
 **奧古斯丁 (Augustine, 354-430)**:
 
-> 「基督說『我是門』，是要我們知道：除了藉著他，沒有人能到父那裏去。他說『我是好牧人』，是要我們知道：他不像那些尋求自己榮耀的假牧人。」
-> — *Tractates on John*
+> "He Himself is preeminently the good Shepherd, and also Himself the door… He entereth in by Himself to His sheep. When I seek to get into you, that is, into your heart, I preach Christ: Christ, therefore, is my gate to you."
+>
+> 祂自己超乎眾人地是好牧人，同時自己也是門……**祂是藉著自己進到自己的羊那裡去。** 我要進入你們——進入你們的心——的時候，我傳講基督：**基督就是我進到你們那裡的門。**
+>
+> — Augustine, *Tractates on John*, **Tractate XLVII**（論約 10 章），NPNF1-07
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**:
 
-> 「『我與父原為一』不是說位格合一，而是本質合一。父與子是不同的位格，但共享同一的神性本質。這節經文是三位一體教義的重要根據。」
-> — *Commentary on John*
+> **校訂**：本書舊版稱加爾文以 10:30 為「本質合一……三位一體教義的重要根據」——**恰與其原文相反**。加爾文在該節寫道：
+>
+> "The ancients made a wrong use of this passage to prove that Christ is (homoousios) of the same essence with the Father. For Christ does not argue about the unity of substance, but about the agreement which he has with the Father."
+>
+> 「古人**誤用**了這節經文去證明基督與父同質（homoousios）。因為基督在此論的不是本質的合一，而是祂與父之間的同心一致。」
+>
+> — John Calvin, *Commentary on John*, 約 10:30 注（CCEL, calcom34）。（加爾文並非否認基督神性——他在 1:1、8:58、20:28 的注釋皆明言之——只是認為 10:30 的論證焦點不在本體。）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
 
-> 「『豐盛的生命』不是指物質的豐富，而是指生命品質的豐盛——與神的關係、屬靈的喜樂、永恆的盼望。這是好牧人帶給羊群的禮物。」
-> — *MacArthur Study Bible*
-
-**乾伯·摩根 (G. Campbell Morgan)**:
-
-> 「詩篇23篇是羊的見證，約翰福音10章是牧人的宣告。當我們將兩者放在一起，我們看見一幅完整的圖畫：牧人的心意與羊的經歷。」
-> — *The Gospel According to John*
+> 『豐盛的生命』不是指物質的豐富，而是指生命品質的豐盛——與神的關係、屬靈的喜樂、永恆的盼望。這是好牧人帶給羊群的禮物。
 
 ---
 

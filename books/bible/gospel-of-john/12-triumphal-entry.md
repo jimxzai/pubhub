@@ -14,6 +14,10 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **本章鑰詞：時候 The Hour** \
+> **「我是」座標**：「人子得榮耀的時候到了」（12:23）——二章「我的時候還沒有到」，到這裡到了。**祂所說的榮耀，是一粒麥子落在地裡死了。** \
+> （全書骨幹見 `00b-i-am-deity.md`）
+
 榮耀進城與一粒麥子的教訓，焦點不在群眾揮舞的棕樹枝，也不在門徒對「時候」的困惑，而在那位騎著驢駒謙卑進城、隨後宣告「人子得榮耀的時候到了」的主。從祂的角度讀，撒迦利亞的預言「你的王來到你這裏……騎著驢」在祂身上應驗——祂不是群眾期待的政治彌賽亞，卻甘願如一粒麥子落在地裏死了，好結出許多子粒。祂被舉起來，不是羞辱的終點，而是要吸引萬人來歸祂的起點。
 
 ---
@@ -173,26 +177,39 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
+> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
+> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> 經逐字核校的原始引文，見各章「三大資源深度整合」與「摩根深讀」二節。
+
 ### 教父時期
 
 **奧古斯丁 (Augustine)**:
-> 「一粒麥子就是基督自己。他若不死，就永遠是一粒；他死了，就結出教會這大豐收。我們每一個信徒都是那粒麥子死後結出的果子。」
+> "Himself was the grain that had to die, and be multiplied; to suffer death through the unbelief of the Jews, and to be multiplied in the faith of many nations."
+>
+> **祂自己就是那必須死、然後加增的一粒麥子**——因猶太人的不信受死，又在萬邦的信心裡加增。
+>
+> — Augustine, *Tractates on John*, **Tractate LI**（論約 12:24），NPNF1-07
 
 **屈梭多模 (Chrysostom)**:
-> 「馬利亞用頭髮擦耶穌的腳——這是何等的謙卑！她把自己最榮耀的部分（頭髮）放在最卑微的位置（腳下）。這就是真正的敬拜。」
+> "She directeth the honor to Him alone, and approacheth Him not as a man, but as a God."
+>
+> 她把尊榮單單歸給祂一位——**她走近祂，不是把祂當作人，是把祂當作神。**
+>
+> — Chrysostom, *Homilies on St. John*, **Homily LXV**（論約 12:3），NPNF1-14
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**:
-> 「『我正是為這時候來的』——基督沒有逃避苦難，而是迎向它。祂來世上的目的就是十字架。這時候雖然可怕，卻是祂榮耀的時刻。」
+> "He presents to his Father the dread which arose out of his natural disposition, in order that it may be subdued, or rather, having subdued it, he prepares freely and willingly to execute the command of God."
+>
+> 祂把出於本性的懼怕帶到父面前，好叫它被制伏；更準確地說，**祂制伏了它，就甘心樂意地預備去成就神的命令。**
+>
+> — John Calvin, *Commentary on John*, 約 12:27 注（CCEL, calcom35）
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**:
-> 「馬利亞打破香膏瓶，傾倒一切所有。這就是真正的敬拜——不是給主剩餘的，而是給主最好的、所有的。」
-
-**乾伯·摩根 (G. Campbell Morgan)**:
-> 「『被舉起來就要吸引萬人』——十字架是神吸引力的中心。不是道德教訓，不是美好榜樣，而是替死的犧牲，這才是福音的能力。」
+> 馬利亞打破香膏瓶，傾倒一切所有。這就是真正的敬拜——不是給主剩餘的，而是給主最好的、所有的。
 
 ---
 
