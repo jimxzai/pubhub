@@ -198,6 +198,7 @@ publisher: 三書精讀出版系統
 | 2 | 第一個神蹟：迦拿婚宴（含潔淨聖殿 2:13-25） | 2:1-25 | **喜樂** | *Joyful, Joyful, We Adore Thee* |
 | 3 | 尼哥底母夜訪（含施洗約翰末次見證 3:22-36） | 3:1-36 | **重生** | *Amazing Grace* |
 | 4 | 撒瑪利亞婦人 | 4:1-42 | **渴** | *Fill My Cup, Lord* |
+| 4b | 第二個神蹟：醫治大臣之子 | 4:43-54 | 話語 | *Great Is Thy Faithfulness* |
 | 5 | 畢士大池的醫治 | 5:1-47 | 與神平等 | *There Is a Balm in Gilead* |
 | 6 | 生命的糧（含五餅二魚、水上行走） | 6:1-71 | 糧 | *Break Thou the Bread of Life* |
 | 7 | 住棚節的講論 | 7:1-52 | 江河 | 詩篇 118 |
@@ -206,9 +207,6 @@ publisher: 三書精讀出版系統
 | 10 | 好牧人 | 10:1-42 | 牧養 | *Savior, Like a Shepherd Lead Us* |
 | 11 | 拉撒路復活 | 11:1-57 | 復活 | *Because He Lives* |
 | 12 | 榮耀進城與一粒麥子 | 12:1-50 | 時候 | *When I Survey the Wondrous Cross* |
-
-> **待補**：第二個兆頭「醫好大臣之子」（4:43-54）目前沒有獨立章節，第四章只處理 4:1-42。
-> 此處是本書已知的缺口，補寫時建議置於第四章之後（配詩 *Great Is Thy Faithfulness*）。
 
 ### 卷三 · 榮耀之書·樓上私語——愛 (The Upper Room) — 13-17
 

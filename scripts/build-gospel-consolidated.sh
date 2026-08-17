@@ -111,7 +111,7 @@ add_chapter 01
 
 add_volume "卷二 · 兆頭之書——信與不信的交戰 (The Book of Signs) · 1:19-12:50" \
     "三年半的事工，十二章。兆頭是圖畫，「我是」是圖畫下面的說明文字。"
-for i in 01b 02 03 04 05 06 07 08 09 10 11 12; do add_chapter "$i"; done
+for i in 01b 02 03 04 04b 05 06 07 08 09 10 11 12; do add_chapter "$i"; done
 
 add_volume "卷三 · 榮耀之書·樓上私語——愛 (The Upper Room) · 13-17" \
     "一個晚上，五章。祂既然愛世間屬自己的人，就愛他們到底。"
