@@ -151,6 +151,20 @@ publisher: 三書精讀出版系統
 
 加爾文在福音書合參注釋中，論不義管家的比喻時強調：耶穌絕非教導門徒效法此人的不忠不義，而是藉「今世之子」精明籌算今生利益的對照，責備信徒對永恆的事漫不經心——若世人尚且懂得為將來預備，信徒豈可不用同樣的心思，為那存到永生的產業籌算？論到財主與拉撒路，加爾文著重「摩西和先知的話可以聽從」這句收尾，指出神從不缺乏向人顯明祂旨意的憑據；人心剛硬的根源，從來不是證據不足，而是不肯降服的意志。
 
+### 當代釋經
+
+**約翰·麥克阿瑟 (John MacArthur)**：
+
+> "I'm quite sure that hell is populated mostly with people who are shocked to find themselves there."
+>
+> 我相當確定：陰間裏住的，多半是驚訝自己竟會在那裏的人。
+> — John MacArthur, *A Testimony of One Surprised to Be in Hell, Part 1*（論路16:19-31），gty.org, sermon 42-212
+
+> "Lazarus is the Greek form of the Hebrew Elazar, or Eliazar. It means 'whom the Lord saved, whom the Lord helped.'"
+>
+> 「拉撒路」是希伯來名「以利亞撒」的希臘文形式，意思是「耶和華所救的、耶和華所幫助的」——這正解答了為甚麼在這個比喻裏，惟獨這個乞丐有名字。
+> — 同上講章
+
 ---
 
 ## 詩篇回應 (Psalm Response)
