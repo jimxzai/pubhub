@@ -39,29 +39,29 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^2^問他說：「你告訴我們，你仗著甚麼權柄做這些事？給你這權柄的是誰呢？」^3^耶穌回答說：「我也要問你們一句話，你們且告訴我：^4^約翰的洗禮是從天上來的，是從人間來的呢？」
+> ^2^問他說：「你告訴我們，你仗著甚麼權柄做這些事？給你這權柄的是誰呢？」^3^耶穌回答說：\jesus{「我也要問你們一句話，你們且告訴我：^4^約翰的洗禮是從天上來的，是從人間來的呢？」}
 
-> ^13^園主說：「我怎麼辦呢？我要打發我的愛子去，或者他們尊敬他。」^14^不料，園戶看見他，就彼此商量說：「這是承受產業的，我們殺他吧，使產業歸於我們！」^15^於是把他推出葡萄園外，殺了。這樣，葡萄園的主人要怎樣處治他們呢？^16^他要來除滅這些園戶，將葡萄園轉給別人。眾人聽見這話，就說：「這是萬不可的！」^17^耶穌看著他們說：「經上記著：『匠人所棄的石頭已作了房角的頭塊石頭。』這是甚麼意思呢？^18^凡掉在那石頭上的，必要跌碎；那石頭掉在誰的身上，就要把誰砸得稀爛。」
+> ^13^\jesus{「園主說：『我怎麼辦呢？我要打發我的愛子去，或者他們尊敬他。』^14^不料，園戶看見他，就彼此商量說：『這是承受產業的，我們殺他吧，使產業歸於我們！』^15^於是把他推出葡萄園外，殺了。這樣，葡萄園的主人要怎樣處治他們呢？^16^他要來除滅這些園戶，將葡萄園轉給別人。」}眾人聽見這話，就說：「這是萬不可的！」^17^耶穌看著他們說：\jesus{「經上記著：『匠人所棄的石頭已作了房角的頭塊石頭。』這是甚麼意思呢？^18^\textbf{凡掉在那石頭上的，必要跌碎；那石頭掉在誰的身上，就要把誰砸得稀爛。}」}
 
-> ^25^耶穌說：「這樣，該撒的物當歸給該撒，神的物當歸給神。」
+> ^25^耶穌說：\jesus{「這樣，\textbf{該撒的物當歸給該撒，神的物當歸給神。}」}
 
-> ^36^因為他們不能再死，和天使一樣；既是復活的人，就為神的兒子。^37^至於死人復活，摩西在荊棘篇上，稱主是亞伯拉罕的神，以撒的神，雅各的神，就指示明白了。^38^神原不是死人的神，乃是活人的神；因為在他那裏，人都是活的。
+> \jesus{^36^「因為他們不能再死，和天使一樣；既是復活的人，就為神的兒子。^37^至於死人復活，摩西在荊棘篇上，稱主是亞伯拉罕的神，以撒的神，雅各的神，就指示明白了。^38^\textbf{神原不是死人的神，乃是活人的神}；因為在他那裏，人都是活的。」}
 
-> ^43^等我使你仇敵作你的腳凳。^44^大衛既稱他為主，他怎麼又是大衛的子孫呢？」
+> ^41^耶穌對他們說：\jesus{「人怎麼說基督是大衛的子孫呢？^42^詩篇上大衛自己說：『主對我主說：你坐在我的右邊，^43^等我使你仇敵作你的腳凳。』^44^\textbf{大衛既稱他為主，他怎麼又是大衛的子孫呢？}」}
 
-> ^46^「你們要防備文士，他們好穿長衣遊行，喜愛人在街市上問他們安，又喜愛會堂裏的高位、筵席上的首座；^47^他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的刑罰！」
+> \jesus{^46^「你們要防備文士，他們好穿長衣遊行，喜愛人在街市上問他們安，又喜愛會堂裏的高位、筵席上的首座；^47^他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的刑罰！」}
 
 ### English — ESV
 
-> ^2-4^"Tell us by what authority you do these things, or who it is that gave you this authority." He answered them, "I also will ask you a question. Now tell me, was the baptism of John from heaven or from man?"
+> ^2-4^"Tell us by what authority you do these things, or who it is that gave you this authority." He answered them, \jesus{"I also will ask you a question. Now tell me, was the baptism of John from heaven or from man?"}
 
-> ^17^"The stone that the builders rejected has become the cornerstone?"
+> ^17^\jesus{"The stone that the builders rejected has become the cornerstone?"}
 
-> ^25^"Then render to Caesar the things that are Caesar's, and to God the things that are God's."
+> ^25^\jesus{"Then render to Caesar the things that are Caesar's, and to God the things that are God's."}
 
-> ^36^"They cannot die anymore, because they are equal to angels and are sons of God, being sons of the resurrection."
+> ^36^\jesus{"They cannot die anymore, because they are equal to angels and are sons of God, being sons of the resurrection."}
 
-> ^44^"David thus calls him Lord, so how is he his son?"
+> ^44^\jesus{"David thus calls him Lord, so how is he his son?"}
 
 ---
 

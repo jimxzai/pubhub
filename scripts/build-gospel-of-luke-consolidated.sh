@@ -175,9 +175,6 @@ add_volume "卷末 · 望向那一頭 (Toward the Nations)" \
 > 他們就常在殿裏，稱頌神。（路 24:53）"
 add_front "$INPUT_DIR/99-toward-the-nations.md"
 
-# 附錄 — sources & verification ledger
-add_front "$INPUT_DIR/99-appendix-references.md"
-
 # 跋 — afterword (the ministry, the 66-volume prayer).
 # Last content file: no trailing \newpage (the template backmatter opens
 # its own page; a trailing break here yields a header-only blank page

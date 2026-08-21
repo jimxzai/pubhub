@@ -603,7 +603,7 @@ copyright: |
 
 把「失而又得」這條線往下延伸，會看見路加福音有一份特別的名單——那些在別的福音書裏幾乎沒有位置的人，在這裏一個接一個站上舞台：
 
-- **女人**：伊利莎白、馬利亞、亞拿（2:36-38）、拿因城的寡婦（7:11-17）、有罪的女人（7:36-50）、服事耶穌的婦女（8:1-3，路加獨記其名）、馬大與馬利亞（10:38-42）、駝背十八年的婦人（13:10-17）、恆切的寡婦（18:1-8）
+- **女人**：以利沙伯、馬利亞、亞拿（2:36-38）、拿因城的寡婦（7:11-17）、有罪的女人（7:36-50）、服事耶穌的婦女（8:1-3，路加獨記其名）、馬大與馬利亞（10:38-42）、駝背十八年的婦人（13:10-17）、恆切的寡婦（18:1-8）
 - **稅吏**：利未（5:27-32）、撒該（19:1-10）、比喻裏那位捶胸的稅吏（18:9-14）
 - **外邦人**：百夫長（7:1-10）、撒瑪利亞的痲瘋病人（17:11-19）、比喻裏的好撒瑪利亞人（10:25-37）
 - **窮人**：平原寶訓直說「你們貧窮的人有福了」（6:20，不加「靈裏」）、財主與拉撒路（16:19-31）
@@ -2445,7 +2445,7 @@ copyright: |
 
 **四福與四禍（6:20-26）**
 
-> \textsuperscript{20}耶穌舉目看著門徒，說：\jesus{「你們貧窮的人有福了！因為神的國是你們的。\textsuperscript{21}你們飢餓的人有福了！因為你們將要飽足。你們哀哭的人有福了！因為你們將要喜笑。\textsuperscript{22}人為人子恨惡你們，拒絕你們，辱罵你們，棄掉你們的名以為是惡，你們就有福了！\textsuperscript{23}當那日，你們要歡喜跳躍，因為你們在天上的賞賜是大的。他們的祖宗待先知也是這樣。}
+> \textsuperscript{20}耶穌舉目看著門徒，說：\jesus{「你們貧窮的人有福了！因為神的國是你們的。\textsuperscript{21}你們飢餓的人有福了！因為你們將要飽足。你們哀哭的人有福了！因為你們將要喜笑。\textsuperscript{22}人為人子恨惡你們，拒絕你們，辱罵你們，棄掉你們的名以為是惡，你們就有福了！\textsuperscript{23}當那日，你們要歡喜跳躍，因為你們在天上的賞賜是大的。他們的祖宗待先知也是這樣。」}
 
 > \jesus{\textsuperscript{24}「但你們富足的人有禍了！因為你們受過你們的安慰。\textsuperscript{25}你們飽足的人有禍了！因為你們將要飢餓。你們喜笑的人有禍了！因為你們將要哀慟哭泣。\textsuperscript{26}人都說你們好的時候，你們就有禍了！因為他們的祖宗待假先知也是這樣。」}
 
@@ -2876,7 +2876,7 @@ copyright: |
 | ἑκατοντάρχης | hekatontarchēs | 百夫長 | 7:2, 6 | 路加文集對百夫長一貫記其正面（徒10章哥尼流、徒27章猶流） |
 | σπλαγχνίζομαι | splanchnizomai | 動了慈心 | 7:13 | 字根「內臟」——痛到腑臟的憐憫；路加全書僅三處：7:13主、10:33撒瑪利亞人、15:20父親 |
 | μονογενής | monogenēs | 獨生的 | 7:12 | 路加三次記「獨生」兒女蒙醫治／復活：7:12、8:42、9:38 |
-| ἐπεσκέψατο | epeskepsato | 眷顧 | 7:16 | 與1:68, 78同字——撒迦利亞頌的應驗；下一次出現在19:44 |
+| ἐπεσκέψατο | epeskepsato | 眷顧 | 7:16 | 與1:68, 78同字——撒迦利亞頌的應驗；19:44「眷顧」為同字根名詞 ἐπισκοπή |
 | σκανδαλισθῇ | skandalisthē | 跌倒 | 7:23 | 「絆跌」——彌賽亞不合預期時，人的兩條路：跌倒或有福 |
 | ἀγαπάω | agapaō | 愛 | 7:47 | 「她的愛多」——愛是赦免的果，不是赦免的價 |
 | σέσωκέν | sesōken | 救了 | 7:50 | 完成式——「你的信已經救了你」，救恩是已成的事實 |
@@ -7235,29 +7235,29 @@ copyright: |
 
 ### 中文 — 和合本 (CUV)
 
-> \textsuperscript{2}問他說：「你告訴我們，你仗著甚麼權柄做這些事？給你這權柄的是誰呢？」\textsuperscript{3}耶穌回答說：「我也要問你們一句話，你們且告訴我：\textsuperscript{4}約翰的洗禮是從天上來的，是從人間來的呢？」
+> \textsuperscript{2}問他說：「你告訴我們，你仗著甚麼權柄做這些事？給你這權柄的是誰呢？」\textsuperscript{3}耶穌回答說：\jesus{「我也要問你們一句話，你們且告訴我：\textsuperscript{4}約翰的洗禮是從天上來的，是從人間來的呢？」}
 
-> \textsuperscript{13}園主說：「我怎麼辦呢？我要打發我的愛子去，或者他們尊敬他。」\textsuperscript{14}不料，園戶看見他，就彼此商量說：「這是承受產業的，我們殺他吧，使產業歸於我們！」\textsuperscript{15}於是把他推出葡萄園外，殺了。這樣，葡萄園的主人要怎樣處治他們呢？\textsuperscript{16}他要來除滅這些園戶，將葡萄園轉給別人。眾人聽見這話，就說：「這是萬不可的！」\textsuperscript{17}耶穌看著他們說：「經上記著：『匠人所棄的石頭已作了房角的頭塊石頭。』這是甚麼意思呢？\textsuperscript{18}凡掉在那石頭上的，必要跌碎；那石頭掉在誰的身上，就要把誰砸得稀爛。」
+> \textsuperscript{13}\jesus{「園主說：『我怎麼辦呢？我要打發我的愛子去，或者他們尊敬他。』\textsuperscript{14}不料，園戶看見他，就彼此商量說：『這是承受產業的，我們殺他吧，使產業歸於我們！』\textsuperscript{15}於是把他推出葡萄園外，殺了。這樣，葡萄園的主人要怎樣處治他們呢？\textsuperscript{16}他要來除滅這些園戶，將葡萄園轉給別人。」}眾人聽見這話，就說：「這是萬不可的！」\textsuperscript{17}耶穌看著他們說：\jesus{「經上記著：『匠人所棄的石頭已作了房角的頭塊石頭。』這是甚麼意思呢？\textsuperscript{18}\textbf{凡掉在那石頭上的，必要跌碎；那石頭掉在誰的身上，就要把誰砸得稀爛。}」}
 
-> \textsuperscript{25}耶穌說：「這樣，該撒的物當歸給該撒，神的物當歸給神。」
+> \textsuperscript{25}耶穌說：\jesus{「這樣，\textbf{該撒的物當歸給該撒，神的物當歸給神。}」}
 
-> \textsuperscript{36}因為他們不能再死，和天使一樣；既是復活的人，就為神的兒子。\textsuperscript{37}至於死人復活，摩西在荊棘篇上，稱主是亞伯拉罕的神，以撒的神，雅各的神，就指示明白了。\textsuperscript{38}神原不是死人的神，乃是活人的神；因為在他那裏，人都是活的。
+> \jesus{\textsuperscript{36}「因為他們不能再死，和天使一樣；既是復活的人，就為神的兒子。\textsuperscript{37}至於死人復活，摩西在荊棘篇上，稱主是亞伯拉罕的神，以撒的神，雅各的神，就指示明白了。\textsuperscript{38}\textbf{神原不是死人的神，乃是活人的神}；因為在他那裏，人都是活的。」}
 
-> \textsuperscript{43}等我使你仇敵作你的腳凳。\textsuperscript{44}大衛既稱他為主，他怎麼又是大衛的子孫呢？」
+> \textsuperscript{41}耶穌對他們說：\jesus{「人怎麼說基督是大衛的子孫呢？\textsuperscript{42}詩篇上大衛自己說：『主對我主說：你坐在我的右邊，\textsuperscript{43}等我使你仇敵作你的腳凳。』\textsuperscript{44}\textbf{大衛既稱他為主，他怎麼又是大衛的子孫呢？}」}
 
-> \textsuperscript{46}「你們要防備文士，他們好穿長衣遊行，喜愛人在街市上問他們安，又喜愛會堂裏的高位、筵席上的首座；\textsuperscript{47}他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的刑罰！」
+> \jesus{\textsuperscript{46}「你們要防備文士，他們好穿長衣遊行，喜愛人在街市上問他們安，又喜愛會堂裏的高位、筵席上的首座；\textsuperscript{47}他們侵吞寡婦的家產，假意作很長的禱告。這些人要受更重的刑罰！」}
 
 ### English — ESV
 
-> \textsuperscript{2-4}"Tell us by what authority you do these things, or who it is that gave you this authority." He answered them, "I also will ask you a question. Now tell me, was the baptism of John from heaven or from man?"
+> \textsuperscript{2-4}"Tell us by what authority you do these things, or who it is that gave you this authority." He answered them, \jesus{"I also will ask you a question. Now tell me, was the baptism of John from heaven or from man?"}
 
-> \textsuperscript{17}"The stone that the builders rejected has become the cornerstone?"
+> \textsuperscript{17}\jesus{"The stone that the builders rejected has become the cornerstone?"}
 
-> \textsuperscript{25}"Then render to Caesar the things that are Caesar's, and to God the things that are God's."
+> \textsuperscript{25}\jesus{"Then render to Caesar the things that are Caesar's, and to God the things that are God's."}
 
-> \textsuperscript{36}"They cannot die anymore, because they are equal to angels and are sons of God, being sons of the resurrection."
+> \textsuperscript{36}\jesus{"They cannot die anymore, because they are equal to angels and are sons of God, being sons of the resurrection."}
 
-> \textsuperscript{44}"David thus calls him Lord, so how is he his son?"
+> \textsuperscript{44}\jesus{"David thus calls him Lord, so how is he his son?"}
 
 ---
 
