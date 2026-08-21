@@ -125,7 +125,12 @@
   linkcolor=ChapterBlue,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={路加福音逐章研讀 · Gospel of Luke Deep Study},
+  pdfkeywords={路加福音, Gospel of Luke, 聖經研讀, Bible Study},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -148,6 +153,9 @@
 \patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
 \@ifundefined{c@none}{\newcounter{none}}{}
 \makeatother
+% Word-study tables mix Greek + CJK in narrow columns; set them \small so
+% long unbreakable strings (e.g. transliterations) stay inside the measure.
+\AtBeginEnvironment{longtable}{\small}
 
 \renewcommand{\toprule}{\hline\hline}
 \renewcommand{\midrule}{\hline}
@@ -173,12 +181,16 @@
 %% ============================================
 %% SECTION STYLING
 %% ============================================
+% Number chapters only: no 13.4.1-style section numbers in body or running heads
+\setcounter{secnumdepth}{0}
 \makeatletter
+% Chinese chapter label + clean running head (第 N 章　Title)
+\renewcommand{\chaptermark}[1]{\markboth{第 \thechapter\ 章　#1}{}}
 \def\@makechapterhead#1{%
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
     \ifnum \c@secnumdepth >\m@ne
-      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \large\bfseries\color{ChapterBlue} 第 \thechapter\ 章
       \par\nobreak
       \vskip 8pt
     \fi
@@ -318,21 +330,21 @@ and to save the lost. — Luke 19:10
 \begin{tikzpicture}[scale=0.6]
   \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {Gospel Structure 福音結構};
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (-3,1.5) {Preparation};
-  \node[font=\tiny,color=LightGray] at (-3,1.1) {1:1-4:13};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.6cm,font=\tiny] at (-5.4,1.5) {Preparation};
+  \node[font=\tiny,color=LightGray] at (-5.4,1.0) {1:1-4:13};
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (-1,1.5) {Galilee};
-  \node[font=\tiny,color=LightGray] at (-1,1.1) {4:14-9:50};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.6cm,font=\tiny] at (-1.8,1.5) {Galilee};
+  \node[font=\tiny,color=LightGray] at (-1.8,1.0) {4:14-9:50};
 
-  \node[draw=LukeRed,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (1.2,1.5) {Journey};
-  \node[font=\tiny,color=LightGray] at (1.2,1.1) {9:51-19:27};
+  \node[draw=LukeRed,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.6cm,font=\tiny] at (1.8,1.5) {Journey};
+  \node[font=\tiny,color=LightGray] at (1.8,1.0) {9:51-19:27};
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.6cm,minimum height=0.5cm,font=\tiny] at (3.2,1.5) {Jerusalem};
-  \node[font=\tiny,color=LightGray] at (3.2,1.1) {19:28-24:53};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.6cm,font=\tiny] at (5.4,1.5) {Jerusalem};
+  \node[font=\tiny,color=LightGray] at (5.4,1.0) {19:28-24:53};
 
-  \draw[->,color=ScriptureGold,thick] (-2.2,1.5) -- (-1.8,1.5);
-  \draw[->,color=ScriptureGold,thick] (-0.2,1.5) -- (0.3,1.5);
-  \draw[->,color=ScriptureGold,thick] (2.1,1.5) -- (2.4,1.5);
+  \draw[->,color=ScriptureGold,thick] (-4.1,1.5) -- (-3.1,1.5);
+  \draw[->,color=ScriptureGold,thick] (-0.5,1.5) -- (0.5,1.5);
+  \draw[->,color=ScriptureGold,thick] (3.1,1.5) -- (4.1,1.5);
 \end{tikzpicture}
 
 \vspace{0.3cm}
@@ -350,14 +362,9 @@ and to save the lost. — Luke 19:10
 \vspace{0.3cm}
 
 % Key themes
-{\small\color{ChapterBlue}\bfseries 路加福音主題 Luke's Key Themes}\\[0.2cm]
-\begin{tikzpicture}[scale=0.5]
-  \node[font=\tiny,color=TextGray] at (-3,0) {普世救恩 Universal Salvation};
-  \node[font=\tiny,color=TextGray] at (0,0) {關懷邊緣人 Compassion for Outcasts};
-  \node[font=\tiny,color=TextGray] at (3,0) {聖靈工作 Holy Spirit};
-  \node[font=\tiny,color=TextGray] at (-1.5,-0.5) {禱告生活 Prayer};
-  \node[font=\tiny,color=TextGray] at (1.5,-0.5) {喜樂主題 Joy};
-\end{tikzpicture}
+{\small\color{ChapterBlue}\bfseries 路加福音主題 Luke's Key Themes}\\[0.25cm]
+{\tiny\color{TextGray} 普世救恩 Universal Salvation \quad·\quad 關懷邊緣人 Compassion for Outcasts \quad·\quad 聖靈工作 Holy Spirit}\\[0.12cm]
+{\tiny\color{TextGray} 禱告生活 Prayer \quad·\quad 喜樂主題 Joy}
 
 \vfill
 
@@ -514,7 +521,7 @@ All rights reserved.\\[0.8em]
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
+\textbullet\ 老弟兄查經法 (Thursday Bible Class Method)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
 \textbullet\ G. Campbell Morgan - The Gospel According to Luke\\[0.8em]
 
@@ -525,8 +532,9 @@ $endif$
 \end{flushleft}
 \cleardoublepage
 
-% Table of contents
+% Table of contents — chapters only (subsection entries would run the TOC to 30+ pages)
 \pagestyle{fancy}
+\setcounter{tocdepth}{0}
 {\color{ChapterBlue}\tableofcontents}
 \cleardoublepage
 
@@ -562,9 +570,9 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書逐章研讀路加福音全書二十四章，整合黃長老查經教導、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan 屬靈組織分析，貫穿全書「人子來，是要尋找、拯救失喪的人」（路19:10）的主線——從馬利亞的尊主頌、迷失的羊、浪子回頭，到以馬忤斯路上的顯現，路加以醫生的細膩筆觸，記下這位完全人如何親自尋回每一個被邊緣化的人：稅吏、罪人、外邦人、女性、窮人。全書以復活的主向門徒「打開他們的心竅，使他們能明白聖經」（24:45）收筆，指向那位仍在今日打開人心竅的主。
+本書逐章研讀路加福音全書二十四章，整合老弟兄查經法、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan 屬靈組織分析，貫穿全書「人子來，是要尋找、拯救失喪的人」（路19:10）的主線——從馬利亞的尊主頌、迷失的羊、浪子回頭，到以馬忤斯路上的顯現，路加以醫生的細膩筆觸，記下這位完全人如何親自尋回每一個被邊緣化的人：稅吏、罪人、外邦人、女性、窮人。全書以復活的主向門徒「打開他們的心竅，使他們能明白聖經」（24:45）收筆，指向那位仍在今日打開人心竅的主。
 
-A chapter-by-chapter study of all twenty-four chapters of Luke, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and G. Campbell Morgan's spiritual analysis, tracing the Gospel's central thread: "For the Son of Man came to seek and to save the lost" (Luke 19:10). From Mary's Magnificat, the lost sheep, and the prodigal son, to the Emmaus road appearance, Luke's physician's eye records how the perfect Man personally sought out the marginalized — tax collectors, sinners, Gentiles, women, the poor. The whole book closes with the risen Lord opening His disciples' minds to understand the Scriptures (24:45) — the same Lord still opening hearts today.
+A chapter-by-chapter study of all twenty-four chapters of Luke, integrating the Thursday Bible class method, John MacArthur's verse-by-verse exposition (gty.org), and G. Campbell Morgan's spiritual analysis, tracing the Gospel's central thread: "For the Son of Man came to seek and to save the lost" (Luke 19:10). From Mary's Magnificat, the lost sheep, and the prodigal son, to the Emmaus road appearance, Luke's physician's eye records how the perfect Man personally sought out the marginalized — tax collectors, sinners, Gentiles, women, the poor. The whole book closes with the risen Lord opening His disciples' minds to understand the Scriptures (24:45) — the same Lord still opening hearts today.
 $endif$
 \end{minipage}
 
