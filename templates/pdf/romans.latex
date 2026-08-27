@@ -589,12 +589,12 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文經文以和合本修訂版（RCUV）為主，部分章節因原始資料來源限制，經核實後改用和合本（CUV）；各章實際版本來源請見附錄二（99-appendix-references.md）逐章說明。\\
-Chinese Scripture is primarily RCUV, with some chapters using verified CUV as a documented fallback where RCUV could not be reliably sourced; see the references appendix for the exact per-chapter breakdown.\\
+中文經文統一採用和合本（CUV），逐節經 ai-eden.com 或 cnbible.com 核對；各章核對來源詳見附錄二（99-appendix-references.md）逐章說明。\\
+Chinese Scripture is uniformly the Chinese Union Version (CUV), verse-by-verse verified against ai-eden.com or cnbible.com; see the references appendix for the exact per-chapter verification source.\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老查經方法論與神學框架之應用（本書無對應之黃長老羅馬書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
+\textbullet\ 老弟兄查經方法論與神學框架之應用（本書無對應之老弟兄羅馬書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
 \textbullet\ John MacArthur - MacArthur New Testament Commentary (gty.org)\\
 \textbullet\ G. Campbell Morgan\\[0.8em]
 
@@ -679,9 +679,9 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書逐章研讀羅馬書全書十六章，並附索引與參考資料附錄，整合黃長老一貫的查經方法論與以基督為中心的神學框架（本書並無對應之黃長老羅馬書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道，以及 G. Campbell Morgan 的屬靈與結構分析。全信的軌跡，從全人類普世的罪、到因信稱義而不靠行為、到聖靈能力中的成聖生命、到神向以色列信實不變的揀選，直到一個被福音塑造的群體在世上當有的實際樣式——保羅寫給羅馬教會最系統的一封信，在這裡逐章展開。
+本書逐章研讀羅馬書全書十六章，並附索引與參考資料附錄，整合老弟兄一貫的查經方法論與以基督為中心的神學框架（本書並無對應之老弟兄羅馬書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道，以及 G. Campbell Morgan 的屬靈與結構分析。全信的軌跡，從全人類普世的罪、到因信稱義而不靠行為、到聖靈能力中的成聖生命、到神向以色列信實不變的揀選，直到一個被福音塑造的群體在世上當有的實際樣式——保羅寫給羅馬教會最系統的一封信，在這裡逐章展開。
 
-{\baskervillefont\color{CoverCream} chapter-by-chapter study of all sixteen chapters of Romans, with index and references appendices, integrating Elder Wong's documented Bible-study methodology and Christ-centered theological framework (this book has no corresponding verse-by-verse Elder Wong teaching notes on Romans itself --- an honest disclosure detailed in the appendix), alongside John MacArthur's verse-by-verse exposition and G. Campbell Morgan's spiritual and structural analysis. The letter's arc unfolds chapter by chapter: from the universal guilt of all humanity, through justification by faith apart from works, through the Spirit-empowered life of sanctification, through God's sovereign faithfulness to Israel, to the practical shape of a gospel-formed community in the world --- Paul's most systematic letter, traced here in full.}
+{\baskervillefont\color{CoverCream} chapter-by-chapter study of all sixteen chapters of Romans, with index and references appendices, integrating the Elder's documented Bible-study methodology and Christ-centered theological framework (this book has no corresponding verse-by-verse Elder teaching notes on Romans itself --- an honest disclosure detailed in the appendix), alongside John MacArthur's verse-by-verse exposition and G. Campbell Morgan's spiritual and structural analysis. The letter's arc unfolds chapter by chapter: from the universal guilt of all humanity, through justification by faith apart from works, through the Spirit-empowered life of sanctification, through God's sovereign faithfulness to Israel, to the practical shape of a gospel-formed community in the world --- Paul's most systematic letter, traced here in full.}
 $endif$
 \end{minipage}
 
@@ -723,7 +723,7 @@ $endif$
 
 \vspace{0.4cm}
 
-{\footnotesize\color{CoverMuted} \S\ Romans Edition v1.0 \S\ 2026 \S}
+{\footnotesize\color{CoverMuted} \S\ 羅馬書研讀 · 初版 \S\ 2026 \S}
 \end{center}
 
 \end{document}

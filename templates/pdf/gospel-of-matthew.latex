@@ -174,12 +174,29 @@
 %% ============================================
 %% HEADERS AND FOOTERS
 %% ============================================
+%% Running-header truncation: chapter/section titles in this book are
+%% "中文標題 (English Subtitle)" — the full bilingual string is too long
+%% for a running header and wraps to a second line, stranding the page
+%% number beside the wrapped fragment. Truncate at the first " (" so the
+%% header shows only the (short) Chinese title; falls back to the full
+%% string unchanged if no " (" is present.
+%%
+%% IMPORTANT: do NOT \renewcommand{\chaptermark}/\sectionmark — hyperref
+%% (loaded above) patches those commands to also feed its PDF-bookmark
+%% mechanism; overriding them collides with hyperref's internal LaTeX3
+%% mark handling and fails with "Illegal parameter number in definition
+%% of \g__mark_tmp_tl" at \tableofcontents. Truncate only the DISPLAYED
+%% text inside the fancyhdr header boxes instead — \leftmark/\rightmark
+%% themselves stay exactly as hyperref expects them.
+\usepackage{xstring}
+\newcommand{\shortmark}[1]{\IfSubStr{#1}{ (}{\StrBefore{#1}{ (}}{#1}}
+
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\small\thepage}
-\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
-\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\shortmark{\rightmark}}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\shortmark{\leftmark}}}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
 \fancypagestyle{plain}{%
@@ -187,6 +204,12 @@
   \fancyfoot[C]{\small\thepage}
   \renewcommand{\headrulewidth}{0pt}
 }
+
+%% Table of contents depth: default book-class tocdepth (2) lists every
+%% chapter/section/subsection, producing a 50-page ToC that drills into
+%% every chapter's every subsection. This book's ToC should list chapters
+%% and volume/part titles only — granular lookup belongs in the indexes.
+\setcounter{tocdepth}{0}
 
 %% ============================================
 %% SECTION STYLING (manual, without titlesec)
@@ -208,6 +231,20 @@
     \vskip 15pt
   }}
 \def\@makeschapterhead#1{%
+  % Set the running-header mark directly to the title, bypassing
+  % \chaptermark's built-in "Chapter N." prefix logic — that logic keys
+  % off the *global* \if@mainmatter flag (always true here, since front
+  % and back matter share one \mainmatter block with the numbered
+  % chapters) rather than off numbered-vs-starred \chapter, so calling
+  % \chaptermark here would print the *frozen* value of the last real
+  % chapter number (e.g. an unnumbered appendix after chapter 28 would
+  % mislabel itself "Chapter 28" in the running header).
+  \markboth{#1}{}%
+  % Suppress section/subsection numbering under an unnumbered chapter
+  % (front matter, volume dividers, back-matter appendices) — a ##
+  % heading here would otherwise display with the *frozen* \thechapter
+  % of whichever real chapter last incremented the counter.
+  \setcounter{secnumdepth}{-2}%
   \vspace*{15pt}%
   {\parindent \z@ \raggedright
     \normalfont
@@ -218,19 +255,41 @@
     \vskip 15pt
   }}
 
+% Restore secnumdepth to normal (2) at the *start* of every real,
+% numbered \chapter — not inside \@makechapterhead. LaTeX's internal
+% \@chapter macro reads secnumdepth to decide whether to increment the
+% chapter counter and whether the ToC entry gets a number, and it makes
+% that decision BEFORE calling \@makechapterhead. An unnumbered
+% \chapter* (front matter / volume dividers / back-matter appendices)
+% sets secnumdepth to -2 in \@makeschapterhead above so ITS OWN
+% subsections stay unnumbered — but that setting is still in effect
+% when the *next* real chapter begins, so without this hook the first
+% numbered chapter after every \chapter* silently skips incrementing
+% the counter (wrong/missing number in its own head and the ToC) and
+% every later chapter in the book is off by one, cascading further
+% after each subsequent \chapter*. Resetting secnumdepth here, before
+% \@chapter's own logic runs, fixes the decision at its source.
+\let\pubhub@chapter\chapter
+\renewcommand{\chapter}{\setcounter{secnumdepth}{2}\pubhub@chapter}
+
 % Section styling
+% \needspace guards against a heading being stranded alone at the
+% bottom of a page with its body text pushed to the next page — if
+% the required space isn't left on the current page, the whole
+% heading (and the \needspace check itself) moves to the next page.
+\usepackage{needspace}
 \renewcommand\section{\@startsection {section}{1}{\z@}%
   {-2.5ex \@plus -0.5ex \@minus -.2ex}%
   {1.5ex \@plus.2ex}%
-  {\normalfont\large\bfseries\color{ChapterPurple}}}
+  {\needspace{5\baselineskip}\normalfont\large\bfseries\color{ChapterPurple}}}
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
   {-2ex\@plus -0.5ex \@minus -.2ex}%
   {1ex \@plus .2ex}%
-  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+  {\needspace{4\baselineskip}\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
 \renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
   {-1.5ex\@plus -0.5ex \@minus -.2ex}%
   {0.8ex \@plus .2ex}%
-  {\normalfont\normalsize\bfseries\color{TextGray}}}
+  {\needspace{3\baselineskip}\normalfont\normalsize\bfseries\color{TextGray}}}
 \makeatother
 
 %% ============================================
@@ -522,9 +581,10 @@ $endif$
   \node[font=\tiny,left,color=TextGray] at (5.2,2.7) {Temple, Triumphal Entry,};
   \node[font=\tiny,left,color=TextGray] at (5.2,2.4) {Passion Week (21-28)};
 
-  % Egypt indicator
+  % Egypt indicator — label sits above/right of the arrow's start point
+  % (not at its end), clear of the scale bar's band at y:0.2-0.6
   \draw[->,thick,color=TextGray] (1.5,1) -- (0.5,0.5);
-  \node[font=\small,color=TextGray] at (2,0.5) {To Egypt 往埃及 (2:14)};
+  \node[font=\small,color=TextGray] at (2.3,1.1) {To Egypt 往埃及 (2:14)};
 
   % Compass Rose
   \draw[->,very thick,color=ChapterPurple] (9,10.5) -- (9,11.3);
@@ -654,9 +714,15 @@ $endif$
 \end{center}
 \cleardoublepage
 
-% Copyright page
+% Copyright page — vertically centered with a small title so the page
+% reads as a designed colophon rather than a stray block of text
+% pinned to the bottom of an otherwise empty page.
 \thispagestyle{empty}
 \vspace*{\fill}
+\begin{center}
+{\small\itshape\color{LightGray} 版權頁 · Copyright}
+\end{center}
+\vspace{1em}
 \begin{flushleft}
 \small\color{TextGray}
 
@@ -669,11 +735,11 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
+中文：和合本 (CUV)\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
+\textbullet\ 老弟兄 · 週四查經班 (Thursday Bible Class)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
 \textbullet\ D.A. Carson - Matthew Commentary\\[0.8em]
 
@@ -682,6 +748,7 @@ Part of the 7-Year Three Books Deep Reading Project.
 $endif$
 
 \end{flushleft}
+\vspace*{\fill}
 \cleardoublepage
 
 % Table of contents

@@ -14,27 +14,27 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-七封書信的第一封寫給以弗所——保羅曾在此牧養三年、提摩太曾在此牧養、使徒約翰晚年也在此服事的教會。這是一間血統最純正、教導最扎實、辨別力最強的教會，主也毫不吝惜地稱讚她「勞碌、忍耐」、「不能容忍惡人」、「試驗那自稱為使徒卻不是的人」。但主開口的第一句話卻是「然而，有一件事我要責備你」。以弗所教會做對了幾乎所有的事，卻做丟了一件事——起初的愛心。基督在此顯明自己是「那右手拿著七星、在七個金燈臺中間行走的」，祂行走在燈臺之間，意味著祂親自察看、親自量度每一間教會，而祂所看重的，不只是教會做了什麼，更是教會為誰而做。
+七封書信的第一封寫給以弗所——保羅曾在此牧養三年、提摩太曾在此牧養、使徒約翰晚年也在此服事的教會。這是一間血統最純正、教導最扎實、辨別力最強的教會，主也毫不吝惜地稱讚她「勞碌、忍耐」、「不能容忍惡人」、「試驗那自稱為使徒卻不是使徒的」。但主開口的第一句話卻是「然而，有一件事我要責備你」。以弗所教會做對了幾乎所有的事，卻做丟了一件事——起初的愛心。基督在此顯明自己是「那右手拿著七星、在七個金燈臺中間行走的」，祂行走在燈臺之間，意味著祂親自察看、親自量度每一間教會，而祂所看重的，不只是教會做了甚麼，更是教會為誰而做。
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-> ^1^「你要寫信給以弗所教會的使者，說：那右手拿著七星、在七個金燈臺中間行走的，說：^2^我知道你的行為、勞碌、忍耐，也知道你不能容忍惡人。你也曾試驗那自稱為使徒卻不是使徒的，看出他們是假的。^3^你也能忍耐，曾為我的名勞苦，並不乏倦。
+> ^1^「你要寫信給以弗所教會的使者，說：那右手拿著七星、在七個金燈臺中間行走的，說：\jesus{^2^我知道你的行為、勞碌、忍耐，也知道你不能容忍惡人。你也曾試驗那自稱為使徒卻不是使徒的，看出他們是假的來。^3^你也能忍耐，曾為我的名勞苦，並不乏倦。}
 
-> ^4^然而，有一件事我要責備你，就是你把起初的愛心離棄了。^5^所以，應當回想你是從哪裡墜落的，並要悔改，行起初所行的事。你若不悔改，我就臨到你那裡，把你的燈臺從原處挪去。^6^然而，你還有一件可取的事，就是你恨惡尼哥拉一黨人的行為，這也是我所恨惡的。
+> \jesus{^4^然而有一件事我要責備你，就是你把起初的愛心離棄了。^5^所以，應當回想你是從那裡墜落的，並要悔改，行起初所行的事。你若不悔改，我就臨到你那裡，把你的燈臺從原處挪去。^6^然而你還有一件可取的事，就是你恨惡尼哥拉一黨人的行為，這也是我所恨惡的。}
 
-> ^7^聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將神樂園中生命樹的果子賜給他吃。」
+> \jesus{^7^聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將神樂園中生命樹的果子賜給他吃。}」
 
 ### English — ESV
 
-> ^1^"To the angel of the church in Ephesus write: 'The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands. ^2^I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false. ^3^I know you are enduring patiently and bearing up for my name's sake, and you have not grown weary.
+> ^1^"To the angel of the church in Ephesus write: 'The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands. \jesus{^2^I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false. ^3^I know you are enduring patiently and bearing up for my name's sake, and you have not grown weary.}
 
-> ^4^But I have this against you, that you have abandoned the love you had at first. ^5^Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent. ^6^Yet this you have: you hate the works of the Nicolaitans, which I also hate.'
+> \jesus{^4^But I have this against you, that you have abandoned the love you had at first. ^5^Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent. ^6^Yet this you have: you hate the works of the Nicolaitans, which I also hate.'}
 
-> ^7^He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God."
+> \jesus{^7^He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God.'}"
 
 ---
 
@@ -57,7 +57,7 @@ publisher: 三書精讀出版系統
 | *kopos* | kopos | 勞碌、辛勞 | 帶著疲憊代價的工作，而非輕鬆的服事 |
 | *hypomonē* | hypomonē | 忍耐、堅忍 | 在壓力下持守到底的能力，七封書信中反覆出現 |
 | *agapē* | agapē | 愛（心） | 4節「起初的愛心」，指向捨己、委身的愛，而非情感上的熱度 |
-| *ekpiptō* | ekpiptō | 墜落、跌落 | 5節「你是從哪裡墜落的」，暗示從高處跌下的意象 |
+| *ekpiptō* | ekpiptō | 墜落、跌落 | 5節「你是從那裡墜落的」，暗示從高處跌下的意象 |
 | *metanoeō* | metanoeō | 悔改 | 5節連用兩次，是七封書信中反覆出現的核心呼召 |
 | *nikaō* | nikaō | 得勝、征服 | 7節「得勝的」，七封書信各自應許的對象，全啟示錄出現17次 |
 | *paradeisos* | paradeisos | 樂園 | 源自波斯文的「園林」，七十士譯本用以指伊甸園 |
@@ -76,7 +76,7 @@ publisher: 三書精讀出版系統
 
 ### 2. 悔改的路徑：回想、悔改、行起初所行的事
 
-主給以弗所的醫治處方分三步，次序不能顛倒：先「回想」（誠實面對自己從哪裡墜落）、再「悔改」（心思意念的轉向）、最後「行起初所行的事」（用具體行動印證悔改）。單有情感上的懊悔而沒有行為的更新，不是聖經意義上的悔改。
+主給以弗所的醫治處方分三步，次序不能顛倒：先「回想」（誠實面對自己從那裡墜落）、再「悔改」（心思意念的轉向）、最後「行起初所行的事」（用具體行動印證悔改）。單有情感上的懊悔而沒有行為的更新，不是聖經意義上的悔改。
 
 ### 3. 燈臺可以被挪去
 
@@ -102,37 +102,37 @@ publisher: 三書精讀出版系統
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在其《啟示錄百篇講章》中論到以弗所教會時指出，一間教會可以在教義與紀律上無可指摘，卻仍然墜落——因為外在的純正若不是從愛湧流而出，終究會枯乾。他提醒讀者，主的責備不是廢棄以弗所教會過去的一切勞苦，而是要她回到愛的根源，使日後的勞苦重新有生命的支撐。
-> — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1557)
+> — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1561 English translation)
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄1-11章註釋》中論到以弗所教會時指出，這是一間教義純正、道德嚴謹、辨別力敏銳的教會，卻患了屬靈上的問題——她仍然照常運轉，卻失去了愛的驅動力。他強調，主的責備不是要以弗所放棄她的純正，而是要她讓這份純正重新被起初的愛充滿。
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*
+> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「起初的愛心」很可能同時指向對基督的愛與對彼此的愛，二者在新約中從不分割——愛神卻不愛弟兄的宣稱，約翰壹書早已判定為虛謊（約壹4:20）。
-> — Grant Osborne, *Revelation* (BECNT)
+> — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
-### 黃長老查經：以弗所教會 (Ask Elder Wong)
+### 老弟兄查經：以弗所教會 (Ask Elder Wong)
 
-**精義一句話**：以弗所教會什麼都做對了，卻把「為誰而做」搞丟了——主要的不是更多的勞碌，而是回到起初的愛。
+**精義一句話**：以弗所教會甚麼都做對了，卻把「為誰而做」搞丟了——主要的不是更多的勞碌，而是回到起初的愛。
 
-**黃長老這樣帶你讀**：
+**老弟兄這樣帶你讀**：
 
-- **找主句，濃縮全段**：這段的轉折點在第4節的「然而」（*alla*）。前三節是稱讚，第4節是主要責備，第5-6節是處方，第7節是總呼籲。若把第4節拿掉，這封信就只是一封表揚信——但正是這一句「然而」，讓整封信有了生命的重量。讀七封書信，永遠先找那個「然而」或「我沒有什麼責備你的」。
+- **找主句，濃縮全段**：這段的轉折點在第4節的「然而」（*alla*）。前三節是稱讚，第4節是主要責備，第5-6節是處方，第7節是總呼籲。若把第4節拿掉，這封信就只是一封表揚信——但正是這一句「然而」，讓整封信有了生命的重量。讀七封書信，永遠先找那個「然而」或「我沒有甚麼責備你的」。
 - 以弗所教會「不能容忍惡人」、「試驗假使徒」——這是極高的屬靈成熟度，但主卻沒有因此放過她的責備。你是否也曾用「我教義純正」、「我很努力事奉」來說服自己不需要面對更深的問題？
-- 「回想、悔改、行起初所行的事」——你能具體說出自己「起初所行的事」是什麼嗎？如果不能具體描述，要如何「行」回去？
+- 「回想、悔改、行起初所行的事」——你能具體說出自己「起初所行的事」是甚麼嗎？如果不能具體描述，要如何「行」回去？
 
 **整本聖經的連結**：得勝者的應許「神樂園中生命樹的果子」直接呼應創世記2:9、3:22-24——人因墮落被隔絕於生命樹之外，有基路伯把守。啟示錄22:2讓生命樹重新出現在新耶路撒冷，向得勝者敞開。以弗所信的應許，正是整本聖經「失樂園到復樂園」大敘事在個別教會歷史中的迴響。另一條線索：以弗所書中保羅為這教會的禱告是「使基督因你們的信，住在你們心裡，叫你們的愛心有根有基」（弗3:17）——保羅所懇求的，正是啟示錄2章責備她失落的。
 
-**讓話語住在裡面**：今天教會裡最容易被稱讚的，是教義純正、辨別力強、服事忙碌的信徒——但這些恰恰是最容易讓人忽略「愛心冷淡」的保護色。默想：你上一次單純因為愛主而做一件事，不是因為責任、不是因為別人會看見，是什麼時候？今天的實踐：找一件你純粹出於義務在做的服事，重新用「起初的愛」去做一次。
+**讓話語住在裡面**：今天教會裡最容易被稱讚的，是教義純正、辨別力強、服事忙碌的信徒——但這些恰恰是最容易讓人忽略「愛心冷淡」的保護色。默想：你上一次單純因為愛主而做一件事，不是因為責任、不是因為別人會看見，是甚麼時候？今天的實踐：找一件你純粹出於義務在做的服事，重新用「起初的愛」去做一次。
 
 **你看見耶穌了嗎**：透過以弗所信，你看見的基督，是那位「行走在燈臺中間」、親自察看每一間教會內心光景的主——祂不滿足於外在合格的服事，祂要的是你的心。
 
@@ -163,11 +163,11 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
-創世記2:9的生命樹、3:22-24人被隔絕於生命樹之外、啟示錄2:7得勝者要吃生命樹的果子、22:2生命樹重現於新耶路撒冷——這四處經文串成一條完整的線索，貫穿整本聖經：人類歷史從失去生命樹開始，到得勝者重新得著生命樹結束。黃長老提醒：以弗所信不是孤立的一封信，它站在這條大敘事線的中點，向教會宣告——你今天在地上「回到起初的愛」的悔改，關係著你將來在永恆裡是否吃得著那棵樹的果子。
+創世記2:9的生命樹、3:22-24人被隔絕於生命樹之外、啟示錄2:7得勝者要吃生命樹的果子、22:2生命樹重現於新耶路撒冷——這四處經文串成一條完整的線索，貫穿整本聖經：人類歷史從失去生命樹開始，到得勝者重新得著生命樹結束。老弟兄提醒：以弗所信不是孤立的一封信，它站在這條大敘事線的中點，向教會宣告——你今天在地上「回到起初的愛」的悔改，關係著你將來在永恆裡是否吃得著那棵樹的果子。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -186,7 +186,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 老弟兄精義 (The Distilled Key)
 
 以弗所教會告訴我們：外在的正確可以走得很遠，但沒有愛支撐的正確，終究會走到主說「我要挪去你的燈臺」的地步——回到起初的愛，不是情感的懷舊，而是悔改的具體行動。
 
@@ -198,7 +198,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 1. **檢視你的「正確」**：你生命中有沒有某個領域，做得「正確」卻少了「起初的愛」？教會服事、婚姻、與神的關係？
 
-2. **回想起初**：試著具體寫下你剛信主或剛進入某個服事崗位時，最初的那份熱切是什麼樣子的？現在還在嗎？
+2. **回想起初**：試著具體寫下你剛信主或剛進入某個服事崗位時，最初的那份熱切是甚麼樣子的？現在還在嗎？
 
 3. **悔改的三步**：回想、悔改、行起初所行的事——這三步，你今天可以先從哪一步開始？
 
@@ -215,16 +215,16 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 反思問題 (Reflection Questions)
 
-1. 以弗所教會被稱讚的每一項優點（勞碌、忍耐、辨別力），為什麼都不能取代「起初的愛心」？
+1. 以弗所教會被稱讚的每一項優點（勞碌、忍耐、辨別力），為甚麼都不能取代「起初的愛心」？
 
-2. 「回想、悔改、行起初所行的事」這三個動詞的次序，對我們理解「悔改」這個詞的完整意義有什麼幫助？
+2. 「回想、悔改、行起初所行的事」這三個動詞的次序，對我們理解「悔改」這個詞的完整意義有甚麼幫助？
 
-3. 「把你的燈臺從原處挪去」這個警告，對今天看重「正統」卻可能忽略「愛」的教會有什麼提醒？
+3. 「把你的燈臺從原處挪去」這個警告，對今天看重「正統」卻可能忽略「愛」的教會有甚麼提醒？
 
 4. 生命樹的應許把讀者帶回創世記、又帶向啟示錄22章——這種首尾呼應的寫作方式，如何幫助我們理解整本聖經是一個連貫的故事？
 
-5. 你認為今天的教會（或你自己）比較容易犯以弗所教會的錯誤，還是老底嘉教會的錯誤（不冷不熱）？為什麼？
+5. 你認為今天的教會（或你自己）比較容易犯以弗所教會的錯誤，還是老底嘉教會的錯誤（不冷不熱）？為甚麼？
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、Grant Osborne (BECNT)*
+*本章研讀整合三方資源：老弟兄查經教導法、John MacArthur (gty.org)、Grant Osborne (BECNT)*

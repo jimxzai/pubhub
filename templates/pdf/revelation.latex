@@ -86,6 +86,10 @@
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
 
+% Red letter Bible - Jesus's words (#CC0000), matching the gospel templates
+\definecolor{JesusRed}{RGB}{204,0,0}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
 % Diagram colors - two camps (Lamb's bride vs. the harlot)
 \definecolor{OldCovenantRed}{RGB}{150,40,40}     % Babylon / the beast
 \definecolor{NewCovenantGreen}{RGB}{60,120,80}   % New Jerusalem / the Lamb
@@ -289,6 +293,12 @@
   {0.8ex \@plus .2ex}%
   {\normalfont\normalsize\bfseries\color{TextGray}}}
 \makeatother
+
+% Number chapters only (book class default of 2 would print academic-style
+% decimal numbers like "9.6.1" on every ## and ### heading inside a chapter —
+% reads like a thesis, not a devotional study book. Chapter numbering itself
+% is handled separately in \@makechapterhead above and is unaffected by this.
+\setcounter{secnumdepth}{0}
 
 %% ============================================
 %% BLOCKQUOTE STYLING
@@ -617,7 +627,11 @@ $endif$
 \end{flushleft}
 \cleardoublepage
 
-% Table of contents
+% Table of contents — chapter-level only (book class default of 2 would
+% pull in every section/subsection from all 42 concatenated files, i.e.
+% every ## and ### heading in every chapter, ballooning the TOC to 40+
+% pages instead of a scannable chapter list).
+\setcounter{tocdepth}{0}
 \pagestyle{fancy}
 {\color{ChapterBlue}\tableofcontents}
 \cleardoublepage
@@ -686,7 +700,7 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書逐段研讀啟示錄全書二十二章，以渐进启示的終點為視角，整合黃長老查經教導法、John MacArthur 逐節解經講道（gty.org）、以及 G.K. Beale、Robert Mounce、Grant Osborne 等當代學者的解經洞見。全書貫穿透視人性、出路何在、神的計劃、宇宙爭戰四大主題，從榮耀基督的異象、七教會的呼召，經過印、號、碗的審判，直到巴比倫傾覆、基督再來、千年國度，終於新天新地與新耶路撒冷。
+本書逐段研讀啟示錄全書二十二章，以渐进启示的終點為視角，整合老弟兄查經教導法、John MacArthur 逐節解經講道（gty.org）、以及 G.K. Beale、Robert Mounce、Grant Osborne 等當代學者的解經洞見。全書貫穿透視人性、出路何在、神的計劃、宇宙爭戰四大主題，從榮耀基督的異象、七教會的呼召，經過印、號、碗的審判，直到巴比倫傾覆、基督再來、千年國度，終於新天新地與新耶路撒冷。
 
 {\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ chapter-by-chapter study of all twenty-two chapters of Revelation, read as the culmination of progressive revelation, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and the exegetical insight of G.K. Beale, Robert Mounce, and Grant Osborne --- witnessing the completion of God's eternal plan and the final consummation of faith, hope, and love at the marriage supper of the Lamb.}
 $endif$

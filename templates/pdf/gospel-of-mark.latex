@@ -124,7 +124,11 @@
   linkcolor=ChapterRed,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={$title$$if(subtitle)$ -- $subtitle$$endif$},
+  pdfauthor={$if(author)$$author$$endif$},
+  pdfsubject={Gospel of Mark Deep Study},
+  pdfkeywords={Bible, Gospel of Mark, Servant, Bible Study, 馬可福音}
 }
 
 %% ============================================
@@ -491,7 +495,7 @@ See the ``Son'' in the first sentence first — then every act of service that f
 \vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
 因為人子來，並不是要受人的服事，\\
-乃是要服事人，並且要捨命，作多人的贖價。\\[0.15em]
+乃是要服事人，並且要捨命作多人的贖價。\\[0.15em]
 \footnotesize For even the Son of Man came not to be served\\
 but to serve, and to give his life as a ransom for many.\\
 — Mark 10:45
@@ -531,8 +535,8 @@ but to serve, and to give his life as a ransom for many.\\
   \fill[ChapterRed] (2,4.2) circle (0.08);
   \node[font=\tiny,left,color=TextGray] at (1.9,4.2) {Nazareth 拿撒勒 (6:1)};
 
-  \fill[ChapterRed] (4.5,5.0) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (4.6,5.0) {Bethsaida 伯賽大};
+  \fill[ChapterRed] (4.3,5.7) circle (0.08);
+  \node[font=\tiny,right,color=TextGray] at (4.4,5.7) {Bethsaida 伯賽大};
 
   \fill[ChapterRed] (4.8,4.2) circle (0.08);
   \node[font=\tiny,right,color=TextGray] at (4.9,4.2) {Gerasenes 格拉森 (5:1)};
@@ -544,8 +548,8 @@ but to serve, and to give his life as a ransom for many.\\
   \node[font=\tiny\bfseries,left,color=red!70!black] at (3.1,1.8) {Jerusalem 耶路撒冷};
 
   % Compass
-  \draw[->,thick,color=ChapterRed] (5.3,5.8) -- (5.3,6.3);
-  \node[font=\tiny,color=ChapterRed] at (5.3,6.5) {N};
+  \draw[->,thick,color=ChapterRed] (5.7,6.0) -- (5.7,6.5);
+  \node[font=\tiny,color=ChapterRed] at (5.7,6.7) {N};
 
   % Scale
   \draw[color=LightGray] (0.8,0.3) -- (2.3,0.3);
@@ -558,21 +562,21 @@ but to serve, and to give his life as a ransom for many.\\
 \begin{tikzpicture}[scale=0.6]
   \node[font=\footnotesize\bfseries,color=ChapterRed] at (0,2.5) {Gospel Structure 福音結構};
 
-  \node[draw=ChapterRed,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (-2.8,1.5) {Prologue};
-  \node[font=\tiny,color=LightGray] at (-2.8,1.1) {1:1-13};
+  \node[draw=ChapterRed,fill=ScriptureBg,rounded corners,minimum width=1.7cm,minimum height=0.5cm,font=\tiny] at (-3.0,1.5) {Prologue};
+  \node[font=\tiny,color=LightGray] at (-3.0,1.1) {1:1-13};
 
-  \node[draw=ChapterRed,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (-0.8,1.5) {Galilee};
-  \node[font=\tiny,color=LightGray] at (-0.8,1.1) {1:14-8:26};
+  \node[draw=ChapterRed,fill=ScriptureBg,rounded corners,minimum width=1.7cm,minimum height=0.5cm,font=\tiny] at (-0.9,1.5) {Galilee};
+  \node[font=\tiny,color=LightGray] at (-0.9,1.1) {1:14-8:26};
 
-  \node[draw=ChapterRed,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (1.2,1.5) {Journey};
-  \node[font=\tiny,color=LightGray] at (1.2,1.1) {8:27-10:52};
+  \node[draw=ChapterRed,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.5cm,font=\tiny] at (1.4,1.5) {Journey};
+  \node[font=\tiny,color=LightGray] at (1.4,1.1) {8:27-10:52};
 
-  \node[draw=ChapterRed,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (3.2,1.5) {Passion};
-  \node[font=\tiny,color=LightGray] at (3.2,1.1) {11-16};
+  \node[draw=ChapterRed,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.5cm,font=\tiny] at (3.7,1.5) {Passion};
+  \node[font=\tiny,color=LightGray] at (3.7,1.1) {11-16};
 
-  \draw[->,color=ChapterRed,thick] (-2,1.5) -- (-1.6,1.5);
-  \draw[->,color=ChapterRed,thick] (-0.1,1.5) -- (0.4,1.5);
-  \draw[->,color=ChapterRed,thick] (2,1.5) -- (2.4,1.5);
+  \draw[->,color=ChapterRed,thick] (-2.05,1.5) -- (-1.85,1.5);
+  \draw[->,color=ChapterRed,thick] (0.05,1.5) -- (0.35,1.5);
+  \draw[->,color=ChapterRed,thick] (2.45,1.5) -- (2.65,1.5);
 \end{tikzpicture}
 
 \vfill
@@ -662,8 +666,8 @@ $endif$
 
 \begin{tikzpicture}[scale=0.7]
   % Central word — the real key: Son of God, 1:1
-  \node[draw=ChapterRed,fill=ScriptureBg,circle,minimum size=2.5cm,line width=2pt,
-        font=\normalsize\bfseries,color=ChapterRed,align=center] (center) at (0,0) {Υἱὸς Θεοῦ\\Son of God\\神的兒子};
+  \node[draw=ChapterRed,fill=ScriptureBg,circle,minimum size=3.1cm,line width=2pt,
+        font=\normalsize\bfseries,text=ChapterRed,align=center,inner sep=2pt] (center) at (0,0) {Υἱὸς Θεοῦ\\Son of God\\神的兒子};
 
   \node[font=\footnotesize,color=TextGray] at (0,-2) {Mark 1:1 — the book's own stated thesis};
   \node[font=\footnotesize,color=TextGray] at (0,-2.5) {Son first, then Servant (Heb 3:5-6)};
@@ -697,11 +701,11 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)，經文核對 ai-eden.com/bible/mark\\
+中文：和合本 (CUV)，經文核對 ai-eden.com/bible/mark\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
+\textbullet\ 老弟兄查經法 (Reading with the Method)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
 \textbullet\ G. Campbell Morgan - The Gospel According to Mark\\[0.8em]
 
@@ -756,7 +760,7 @@ $body$
 創世記 22:8 & 「燔祭的羊羔，神必自己預備」 & 可10:45「捨命作多人的贖價」的預表 \\
 出埃及記 3:14 & 「我是自有永有的」 & 可6:50「是我，不要怕」（ἐγώ εἰμι） \\
 出埃及記 16章 & 曠野降嗎哪 & 可6:30-44；8:1-10 兩次餵飽神蹟 \\
-出埃及記 20章 & 十誡 & 可7:10；10:19；12:29-31 三處引用 \\
+出埃及記 20章 & 十誡 & 可7:10；10:19 兩處引用 \\
 出埃及記 24:8 & 「立約的血」灑在百姓身上 & 可14:24 耶穌設立聖餐的宣告 \\
 利未記 13-14章 & 痲瘋病人禮儀不潔的條例 & 可1:40-45 耶穌觸摸痲瘋病人反使之潔淨 \\
 利未記 19:18 & 愛人如己 & 可12:31 耶穌引為第二大誡命 \\
@@ -837,7 +841,7 @@ $body$
 僕人基督 Servant Christ & 10:45（全書核心經文）；賽53章的成就 \\
 受苦與復活的三次預言 Three Passion Predictions & 8:31；9:31；10:33-34 \\
 權柄 Authority (\textit{exousia}) & 1:22, 27；2:10；11:28-33 \\
-「這到底是誰」的提問 "Who Is This?" & 1:27；4:41；6:3；8:27-29 \\
+「這到底是誰」的提問 "Who Is This?" & 1:27；4:41；6:3；8:27-29；15:39（答案） \\
 \bottomrule
 \end{tabular}
 }
@@ -922,14 +926,14 @@ $body$
 \section*{中文查經資源 Chinese-Language Bible Study Resources}
 
 \begin{itemize}
-\item 黃長老（Elder Wong）。查經教導法，整合於本書「黃長老查經」與「黃長老查經．深讀」各節。
+\item 老弟兄查經法（Reading with the Method）。整合於本書「老弟兄查經法」與「老弟兄查經．深讀」各節。
 \item 沈保羅牧師（Pastor Shen）。華人處境洞見，見 ai-eden.com 馬可福音研讀。
 \end{itemize}
 
 \section*{聖經版本與經文核對 Bible Versions \& Cross-Reference}
 
 \begin{itemize}
-\item 中文：和合本修訂版 (Revised Chinese Union Version, RCUV)，逐章經文核對 ai-eden.com/bible/mark 之和合本 (CUV) 文字
+\item 中文：和合本 (Chinese Union Version, CUV)，逐章經文核對 ai-eden.com/bible/mark 之和合本 (CUV) 文字
 \item English: English Standard Version (ESV)
 \item 逐章經文核對：ai-eden.com/bible/mark
 \item 原文參考：Nestle-Aland 28th Edition (NA28); UBS Greek New Testament 5th Edition
@@ -944,7 +948,7 @@ $body$
 \addcontentsline{toc}{chapter}{附錄四：紅字聖經說明 (Appendix D: About the Red Letter Format)}
 \markboth{}{}
 
-\section*{什麼是紅字聖經？}
+\section*{甚麼是紅字聖經？}
 
 紅字聖經是一種聖經印刷傳統，將耶穌基督親口所說的話用\textcolor{JesusRed}{紅色}印刷，以區別於敘事文字與他人話語。這種格式起源於1899年，由 Louis Klopsch 首先用於英文聖經。
 
@@ -959,7 +963,7 @@ $body$
 
 \section*{馬可福音紅字的特殊之處}
 
-與約翰福音「樓上私語」五章幾乎整段是紅字不同，馬可福音的敘事風格「省略言語、聚焦行動」——序言（1:1-13）三段中，耶穌完全沒有一句直接引語，直到1:14「日期滿了」才第一次開口。這個安排恰恰印證馬可的筆法：僕人的身分先於僕人的話語，行動比言語更早、更多地見證了祂是誰。
+與約翰福音「樓上私語」五章幾乎整段是紅字不同，馬可福音的敘事風格「省略言語、聚焦行動」——序言（1:1-13）三段中，耶穌完全沒有一句直接引語，直到1:15「日期滿了」才第一次開口。這個安排恰恰印證馬可的筆法：僕人的身分先於僕人的話語，行動比言語更早、更多地見證了祂是誰。
 
 \vspace{0.5cm}
 \begin{center}
@@ -967,7 +971,7 @@ $body$
 \begin{minipage}{4.2in}
 \centering\vspace{0.2cm}
 \textcolor{JesusRed}{\textit{「因為人子來，並不是要受人的服事，乃是要服事人，\\
-並且要捨命，作多人的贖價。」}}\\[0.3em]
+並且要捨命作多人的贖價。」}}\\[0.3em]
 \small — 馬可福音 10:45
 \vspace{0.2cm}
 \end{minipage}}
@@ -1005,8 +1009,8 @@ $body$
 \item 現存最古老的抄本止於16:8，以婦女的懼怕與沉默戛然而止——經文鑑別學上著名的懸案
 \item 「立刻」(\textit{euthys}) 出現約40次，是全書招牌的敘事節奏詞，但正如附錄四所述，這是文體而非鑰匙
 \item 唯一記載耶穌「與野獸同在一處」（1:13）與伯賽大瞎子分兩階段醫治（8:22-26）的福音書
-\item 一個比喻也沒有獨創——四個天國比喻（4章）均見於馬太或路加的平行記載，但馬可的敘述通常最簡潔
-\item 早期教父帕皮亞（Papias, 約主後140年）記載：馬可是彼得的「傳譯者」，忠實記錄彼得所傳講的內容
+\item 四個天國比喻（4章）中，撒種、燈臺、芥菜種三個見於馬太或路加的平行記載；唯獨「種子自長」的比喻（4:26-29）不見於太、路，是馬可獨有的材料——即使如此，馬可的敘述通常仍是諸福音書中最簡潔的一段
+\item 早期教父帕皮亞（Papias, 約主後130年，經優西比烏保存）記載：馬可是彼得的「傳譯者」，忠實記錄彼得所傳講的內容
 \end{itemize}
 
 \section*{寫作對象與筆法}
@@ -1047,7 +1051,7 @@ $body$
 \begin{minipage}{5.5in}
 \centering\vspace{0.15cm}
 {\footnotesize\color{TextGray}
-「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。」\\[0.15em]
+「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」\\[0.15em]
 \scriptsize — 馬可福音 10:45}
 \vspace{0.15cm}
 \end{minipage}}
@@ -1166,14 +1170,14 @@ $body$
 βαπτίζω & baptizō & 施洗、浸入 & 1:9，字根意為「浸入水中」 \\
 βλασφημία & blasphēmia & 褻瀆 & 2:7；3:28-29；14:64 \\
 δαιμόνιον / ἐκβάλλω & daimonion / ekballō & 鬼／趕出、催逼 & 1:12, 34；3:22-27 全書趕鬼與催逼的核心詞根 \\
-διάκονος / δοῦλος & diakonos / doulos & 用人、僕人／奴僕 & 9:35；10:43-44，兩個表達服事的詞彙依序遞進 \\
-δοῦλος (來3:5) & doulos & 奴僕 & 摩西在神家中的身分，對比耶穌作「兒子」（來3:5-6） \\
+διάκονος / δοῦλος & diakonos / doulos & 用人、僕人／奴僕 & 9:35；10:43-44，兩個表達服事的詞彙依序遞進；來3:5-6以θεράπων（服事者）一詞，用相近的概念對比摩西在神家中作僕人、基督作兒子治理神的家——非同一希臘詞根，但主題呼應 \\
 ἐγώ εἰμι & egō eimi & 我是 & 6:50「是我，不要怕」，呼應出3:14神的名 \\
 ἐκθαμβεῖσθαι & ekthambeisthai & 驚恐 & 14:33，情感震盪最強烈的詞之一 \\
 ἐπιτιμάω & epitimaō & 斥責 & 1:25；3:12；4:39；8:33，貫穿全書用於趕鬼、平靜風浪、斥責彼得 \\
 ἐρῆμος & erēmos & 曠野 & 1:3-13 反覆出現，是馬可預備主題的舞台 \\
 εὐαγγέλιον & euangelion & 福音、好消息 & 1:1, 14；全書7次，是全書關鍵詞 \\
 εὐθύς & euthys & 立刻、隨即 & 全書近40次，馬可招牌用詞——文體而非鑰匙（見附錄四） \\
+ζύμη & zymē & 酵 & 8:15，象徵擴散滲透的敗壞影響 \\
 θηρίον & thērion & 野獸 & 1:13，唯獨馬可記載此細節 \\
 θλῖψις & thlipsis & 患難、災難 & 13:19, 24 \\
 ἱκανός & hikanos & 配得、足夠 & 1:7「解鞋帶也不配」 \\
@@ -1203,7 +1207,6 @@ $body$
 τηλαυγῶς & tēlaugōs & 清楚地 & 8:25，字面「從遠處清晰可見」 \\
 ὑπάγε ὀπίσω μου & hypage opisō mou & 退到我後邊去 & 8:33，原本是呼召門徒的用語，重新校正彼得的位置 \\
 Φαρισαῖος / Ἡρῳδιανοί & Pharisaios / Hērōdianoi & 法利賽人／希律黨人 & 3:6；12:13，平時對立卻聯手抵擋耶穌 \\
-zōmē (ζύμη) & zymē & 酵 & 8:15，象徵擴散滲透的敗壞影響 \\
 \bottomrule
 \end{longtable}
 }
@@ -1240,7 +1243,7 @@ zōmē (ζύμη) & zymē & 酵 & 8:15，象徵擴散滲透的敗壞影響 \\
 \midrule
 \endhead
 1:1-8 & 先鋒的預備 & 我的服事，是把目光導向自己，還是導向那位「比我更大」的？ \\
-1:9-11 & 天父的印證 & 我的身分認同，是建立在「我做了什麼」，還是「我是誰」？ \\
+1:9-11 & 天父的印證 & 我的身分認同，是建立在「我做了甚麼」，還是「我是誰」？ \\
 1:12-13 & 曠野的得勝 & 蒙恩之後，我是否也預備好在缺乏中經歷試煉？ \\
 \bottomrule
 \end{longtable}
@@ -1256,7 +1259,7 @@ zōmē (ζύμη) & zymē & 酵 & 8:15，象徵擴散滲透的敗壞影響 \\
 \midrule
 \endhead
 1-2 & 呼召門徒／五次衝突 & 我對耶穌的權柄，是接受，還是像法利賽人一樣質疑？ \\
-3-4 & 揀選十二／天國比喻與平靜風浪 & 「連風和海都聽從他」——這對我此刻的難處意味著什麼？ \\
+3-4 & 揀選十二／天國比喻與平靜風浪 & 「連風和海都聽從他」——這對我此刻的難處意味著甚麼？ \\
 5-6 & 格拉森鬼附／拿撒勒厭棄 & 我是否也曾因「太熟悉」而看不見神在身邊人身上的作為？ \\
 7-8上 & 潔淨的真義／四千人吃飽 & 我的信仰，是外在的儀文，還是內心真實的更新？ \\
 \bottomrule
@@ -1294,6 +1297,68 @@ zōmē (ζύμη) & zymē & 酵 & 8:15，象徵擴散滲透的敗壞影響 \\
 14 & 最後晚餐／客西馬尼／被捕 & 「不是照我所願的，而是照你所願的」——我今天願意這樣禱告嗎？ \\
 15 & 審判／十字架／埋葬 & 「這人真是神的兒子」——我看見了嗎？ \\
 16 & 復活／顯現／升天 & 讀完整卷書，我會如何用自己的話，總結這位僕人基督對我生命的意義？ \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX J: ALPHABETICAL INDEX
+%% ============================================
+\chapter*{附錄十：字母索引 (Appendix J: Alphabetical Index)}
+\addcontentsline{toc}{chapter}{附錄十：字母索引 (Appendix J: Alphabetical Index)}
+\markboth{}{}
+
+\noindent 與附錄一（經文索引）、附錄二（主題索引，依神學範疇分類）不同，本索引是全書人物、地名與神學關鍵詞的\textbf{單一字母序}總表，依英文詞條排序，方便直接查頁。頁碼指向該詞條被實質論述之處，非每一次提及。
+
+{\small
+\renewcommand{\arraystretch}{1.1}
+\begin{longtable}{@{}p{6.5cm}p{6.5cm}@{}}
+\toprule
+\textbf{詞條 Entry} & \textbf{頁碼 Pages} \\
+\midrule
+\endhead
+Bartimaeus 巴底買 & 215, 217, 226--228 \\
+Bethsaida 伯賽大 & 170, 171, 173, 176, 177 \\
+Caesarea Philippi 該撒利亞腓立比 & 17, 19, 26, 38, 186 \\
+Calvin, John 加爾文 & 48, 74, 103, 118, 134, 192, 207, 240 \\
+Capernaum 迦百農 & 68, 70, 75, 82, 84 \\
+Chrysostom, John 屈梭多模 & 37, 133, 148, 207, 224, 226, 270, 285 \\
+Elder, The 老弟兄（查經法之署名） & 41, 51, 76, 77, 151, 153, 259, 336 \\
+Faith 信心 & 118, 132--134, 139, 163, 206, 208 \\
+Galilee 加利利 & 8, 15, 21, 68, 75, 113, 187, 318 \\
+Gerasenes 格拉森 & 127, 132, 134, 136, 139 \\
+Gethsemane 客西馬尼 & 27, 268, 283, 286, 288, 292 \\
+Golgotha 各各他 & 293, 294, 316 \\
+Herod 希律 & 81, 84, 142, 144, 148, 219 \\
+Immediately 立刻（εὐθύς） & 17, 22, 24, 67, 111, 230 \\
+Jairus 睚魯 & 126, 127, 130, 134, 136 \\
+James and John, the Apostles 雅各與約翰 & 7, 18, 20, 27, 217, 229 \\
+Jericho 耶利哥 & 19, 55, 181, 217 \\
+Jerusalem 耶路撒冷 & 15, 27, 97, 217, 233, 234, 236, 240 \\
+John the Baptist 施洗約翰 & 32, 34, 36--38, 40 \\
+Judas Iscariot 猶大（加略人） & 102, 277--279, 285, 289 \\
+MacArthur, John 麥克阿瑟 & 5, 48, 59, 103, 225, 255, 286, 315 \\
+Mark, the Author 馬可（作者） & 3, 13, 14, 285 \\
+Mary Magdalene 抹大拉的馬利亞 & 295, 308, 309 \\
+Messianic Secret 彌賽亞秘密 & 7, 28, 334, 341, 342 \\
+Morgan, G. Campbell 摩根 & 90, 120, 150, 209, 257, 272, 303, 316 \\
+Nazareth 拿撒勒 & 142, 144, 148, 150, 152, 154 \\
+Peter 彼得 & 19, 190, 192, 194, 280, 290, 324, 325 \\
+Pilate 彼拉多 & 294, 295, 297, 300, 302, 305 \\
+Purity / Cleansing 潔淨 & 73, 76, 156, 159, 162, 164, 166, 240 \\
+Ransom 贖價（λύτρον） & 1, 28, 196, 215, 223, 224, 228, 325 \\
+Repentance 悔改 & 36--39, 43, 47 \\
+Resurrection 復活 & 248, 308, 312, 313, 317--320 \\
+Sabbath 安息日 & 82, 85, 88, 91, 93, 94 \\
+Secret of the Kingdom 神國的奧祕 & 120, 124, 346 \\
+Servant 僕人 & 13, 14, 24, 25, 28, 39, 67, 141 \\
+Son of God 神的兒子 & 18, 24, 32, 36, 39, 41, 190, 298 \\
+Son of Man 人子 & 81, 86, 91, 92, 194, 223, 224, 343 \\
+Three Passion Predictions 三次預言受難 & 6, 22, 26, 215, 230 \\
+Torn Veil, The 幔子裂開 & 19, 23, 45, 232, 295, 303 \\
+Tyre 推羅 & 97, 98, 157, 159, 168 \\
 \bottomrule
 \end{longtable}
 }
@@ -1337,15 +1402,15 @@ zōmē (ζύμη) & zymē & 酵 & 8:15，象徵擴散滲透的敗壞影響 \\
 \vspace{0.2cm}
 \noindent\begin{minipage}{4.7in}
 \footnotesize\color{TextGray}
-本書逐章研讀馬可福音十六章，整合黃長老查經教導、
+本書逐章研讀馬可福音十六章，整合老弟兄查經法、
 John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
 並貫通四福音、以賽亞書與希伯來書。
 全書以馬可福音 1:1 為總綱起點、10:45 為心臟：
 「神的兒子，耶穌基督福音的起頭」——
-「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。」\\[0.4em]
+「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」\\[0.4em]
 {\itshape
 A chapter-by-chapter study of all sixteen chapters of Mark's Gospel,
-integrating Elder Wong's teaching, John MacArthur's verse-by-verse
+integrating the Elder's method of Bible study, John MacArthur's verse-by-verse
 exposition, and G. Campbell Morgan's spiritual analysis —
 framed by Mark 1:1's declaration of sonship and 10:45's declaration
 of the Servant's mission.}
@@ -1369,7 +1434,7 @@ of the Servant's mission.}
 
 {\footnotesize\itshape\color{CommentaryBrown}
 「神的兒子，耶穌基督福音的起頭……因為人子來，並不是要受人的服事，\\
-乃是要服事人，並且要捨命，作多人的贖價。」}\\[0.15cm]
+乃是要服事人，並且要捨命作多人的贖價。」}\\[0.15cm]
 {\scriptsize\color{ChapterRed} — 馬可福音 1:1, 10:45}
 
 \vspace{0.4in}

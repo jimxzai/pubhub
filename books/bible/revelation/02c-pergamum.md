@@ -14,27 +14,27 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-主稱別迦摩是「撒但座位之所在」的城市——這座亞細亞省的宗教與政治中心，滿佈異教神廟與皇帝崇拜的祭壇，教會就活在這座城市的正中心。主稱讚她「在撒但住的地方也持守我的名，並沒有否認對我的信仰」，甚至有弟兄安提帕在此殉道。但緊接著，主卻要責備她——不是因為外在的逼迫使她妥協，而是因為她在教會內部容讓了巴蘭與尼哥拉黨的教訓。基督在此顯現為「那有兩刃利劍的」，這把劍不是用來對付外面的仇敵，而是用來對付教會內部容忍罪惡的光景。
+主稱別迦摩是「撒但座位之所在」的城市——這座亞細亞省的宗教與政治中心，滿佈異教神廟與皇帝崇拜的祭壇，教會就活在這座城市的正中心。主稱讚她「還堅守我的名，沒有棄絕我的道」，甚至有弟兄安提帕在此殉道。但緊接著，主卻要責備她——不是因為外在的逼迫使她妥協，而是因為她在教會內部容讓了巴蘭與尼哥拉黨的教訓。基督在此顯現為「那有兩刃利劍的」，這把劍不是用來對付外面的仇敵，而是用來對付教會內部容忍罪惡的光景。
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-> ^12^「你要寫信給別迦摩教會的使者，說：那有兩刃利劍的這樣說：^13^我知道你的居所，就是有撒但座位之處；當我忠心的見證人安提帕在你們中間，在撒但所住的地方被殺之時，你還堅守我的名，沒有棄絕我的道。
+> ^12^「你要寫信給別迦摩教會的使者，說：那有兩刃利劍的，說：\jesus{^13^我知道你的居所，就是有撒但座位之處；當我忠心的見證人安提帕在你們中間、撒但所住的地方被殺之時，你還堅守我的名，沒有棄絕我的道。
 
-> ^14^然而，有幾件事我要責備你，就是在你那裏有人服從了巴蘭的教訓；這巴蘭曾教唆巴勒將絆腳石放在以色列人面前，使他們吃祭過偶像之物，並且犯淫亂。^15^同樣，你那裏也有人服從了尼哥拉派的教訓。
+> ^14^然而，有幾件事我要責備你：因為在你那裡有人服從了巴蘭的教訓；這巴蘭曾教導巴勒將絆腳石放在以色列人面前，叫他們吃祭偶像之物，行姦淫的事。^15^你那裡也有人照樣服從了尼哥拉一黨人的教訓。
 
-> ^16^所以，你當悔改；若不悔改，我就快臨到你那裏，用我口中的劍攻擊他們。^17^聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將那隱藏的嗎哪賜給他，並賜他一塊白石，石上寫著新名，除了那領受的以外，沒有人能認識。」
+> ^16^所以，你當悔改；若不悔改，我就快臨到你那裡，用我口中的劍攻擊他們。^17^聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將那隱藏的嗎哪賜給他，並賜他一塊白石，石上寫著新名；除了那領受的以外，沒有人能認識。}」
 
 ### English — ESV
 
-> ^12^"And to the angel of the church in Pergamum write: 'The words of him who has the sharp two-edged sword. ^13^I know where you dwell, where Satan's throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.
+> ^12^"And to the angel of the church in Pergamum write: 'The words of him who has the sharp two-edged sword. \jesus{^13^I know where you dwell, where Satan's throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.
 
 > ^14^But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality. ^15^So also you have some who hold the teaching of the Nicolaitans.
 
-> ^16^Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth. ^17^He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.'"
+> ^16^Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth. ^17^He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.'}"
 
 ---
 
@@ -102,32 +102,32 @@ publisher: 三書精讀出版系統
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格論到別迦摩教會時提醒讀者，這封信最嚴厲之處不在責備行淫亂或拜偶像的人本身，而在責備那容讓這些教訓存在的整間教會——他將此應用於他所處的宗教改革時代，警戒教會領袖：容忍錯謬的教導，其罪責不亞於親自教導錯謬。
-> — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1557)
+> — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1561 English translation)
 
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，別迦摩教會證明了一件事：教會可以在外部逼迫下勇敢不屈，卻在內部紀律上軟弱無力——抵擋外面的獅子相對容易辨認，識破裡面披著羊皮的狼卻需要更深的儆醒。
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*
+> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其啟示錄註釋（BECNT）中指出，巴蘭的策略之所以奏效，正是因為它不要求人公開背叛信仰，只要求人在細節上「融入」——這正是別迦摩教會，以及每個世代的教會，最容易失守的防線。
-> — Grant Osborne, *Revelation* (BECNT)
+> — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
-### 黃長老查經：別迦摩教會 (Ask Elder Wong)
+### 老弟兄查經：別迦摩教會 (Ask Elder Wong)
 
 **精義一句話**：別迦摩教會能在獅子口中站立，卻在狐狸的引誘前鬆懈——外面的逼迫殺不死教會，裡面的容讓才會。
 
-**黃長老這樣帶你讀**：
+**老弟兄這樣帶你讀**：
 
 - **找主句，濃縮全段**：這段的關鍵詞是14節「然而」之後的「有人服從了」（*echeis ekei kratountas*）。整封信的張力都建立在「持守我的名」（13節）與「服從巴蘭的教訓」（14節）這兩個動詞的對比上——一邊是對基督的持守，一邊是對錯誤教訓的服從，同一間教會裡兩者並存。讀這段經文，要問：我生命裡有沒有這樣「表面持守、暗地服從」的張力？
-- 別迦摩教會身處「撒但座位」卻不否認信仰，這需要極大的勇氣。你覺得，一個人為什麼會在最艱難的逼迫下站得住，卻在看似無傷大雅的妥協面前跌倒？
+- 別迦摩教會身處「撒但座位」卻不否認信仰，這需要極大的勇氣。你覺得，一個人為甚麼會在最艱難的逼迫下站得住，卻在看似無傷大雅的妥協面前跌倒？
 - 主稱這是「幾件事」（*oligá*，「一點點」）要責備她——用詞如此輕描淡寫，你覺得這是在淡化問題的嚴重性，還是在提醒我們：小小的容讓，也是主眼中清楚看見的事？
 
 **整本聖經的連結**：巴蘭的故事（民22-25章，31:16）與別迦摩信直接連線——彼得後書2:15與猶大書11也都以巴蘭為警戒的例子，顯明初代教會對「巴蘭式妥協」的警覺是普遍且持續的。另一條線索：出埃及記16章曠野嗎哪的供應，到希伯來書9:4約櫃內存留的嗎哪為記念，再到啟示錄2:17「隱藏的嗎哪」——神供應百姓的方式，從曠野的日用之糧，發展成得勝者永恆的、隱密的滿足，貫穿整本聖經對「神親自供應」這主題的一貫描繪。
@@ -159,23 +159,23 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇 106:28-29
 
-> 他們又與巴力·毘珥連合，且吃祭死神之物。他們這樣行，惹耶和華發怒，便有瘟疫流行在他們中間。
+> 他們又與巴力·毗珥連合，且吃了祭死神（或譯：人）的物。他們這樣行，惹耶和華發怒，便有瘟疫流行在他們中間。
 
 詩篇作者回顧的正是民數記25章巴蘭教訓的結果——舊約的歷史教訓，直接成為別迦摩教會的警戒鏡子。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
-從民數記22-25章巴蘭的故事，到彼得後書2:15、猶大書11的警戒引用，再到啟示錄2:14別迦摩信的直接點名——「巴蘭的教訓」這條線索橫跨舊約與新約，成為聖經中「用引誘同化取代正面攻擊」這種試探模式的代名詞。黃長老提醒：仇敵對付神百姓的策略從未真正改變，只是換了時代的外衣——曠野中是摩押女子的筵席，別迦摩城中是異教社交的餐桌，今天則可能是任何要求你在信仰立場上「稍微讓步」以換取接納的場合。認出這條線索，就是認出仇敵慣用的招式。
+從民數記22-25章巴蘭的故事，到彼得後書2:15、猶大書11的警戒引用，再到啟示錄2:14別迦摩信的直接點名——「巴蘭的教訓」這條線索橫跨舊約與新約，成為聖經中「用引誘同化取代正面攻擊」這種試探模式的代名詞。老弟兄提醒：仇敵對付神百姓的策略從未真正改變，只是換了時代的外衣——曠野中是摩押女子的筵席，別迦摩城中是異教社交的餐桌，今天則可能是任何要求你在信仰立場上「稍微讓步」以換取接納的場合。認出這條線索，就是認出仇敵慣用的招式。
 
 ### 提問式對話 (Let the Reader Speak)
 
-先問：別迦摩教會能在殉道的威脅下持守信仰，為什麼卻在教會內部的教訓上鬆懈？
+先問：別迦摩教會能在殉道的威脅下持守信仰，為甚麼卻在教會內部的教訓上鬆懈？
 再問：你覺得「容讓」和「犯罪」哪一個對一間教會的傷害更大、更難察覺？
-再問：白石上「除了領受的以外，沒有人能認識」的新名，對你來說意味著什麼樣的關係？
+再問：白石上「除了領受的以外，沒有人能認識」的新名，對你來說意味著甚麼樣的關係？
 先別讓我說——你今天生命中，有沒有一件正在被「大家都這樣、沒關係」這句話合理化的事？
 
 ### 活在今天．AI時代 (Living It Today)
@@ -188,7 +188,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 老弟兄精義 (The Distilled Key)
 
 別迦摩教會提醒我們：能在獅子面前站立的人，未必能在狐狸面前保持儆醒——真正的得勝，不只是拒絕公開的逼迫，更是拒絕悄悄的容讓。
 
@@ -217,11 +217,11 @@ publisher: 三書精讀出版系統
 
 ## 反思問題 (Reflection Questions)
 
-1. 為什麼主先稱讚別迦摩教會外部的忠貞，才責備她內部的容讓？這個次序給我們什麼提醒？
+1. 為甚麼主先稱讚別迦摩教會外部的忠貞，才責備她內部的容讓？這個次序給我們甚麼提醒？
 
-2. 「巴蘭的教訓」與「尼哥拉黨的教訓」在性質上有何相似之處？這對辨識今天教會中類似的試探有什麼幫助？
+2. 「巴蘭的教訓」與「尼哥拉黨的教訓」在性質上有何相似之處？這對辨識今天教會中類似的試探有甚麼幫助？
 
-3. 「有人服從了」這句話為什麼比「有人犯了罪」更嚴重地指向整間教會的責任？
+3. 「有人服從了」這句話為甚麼比「有人犯了罪」更嚴重地指向整間教會的責任？
 
 4. 隱藏的嗎哪與寫著新名的白石，這兩個應許如何幫助我們理解「得勝」的獎賞不在於外在的認可，而在於與基督親密的相通？
 
@@ -229,4 +229,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導法、John MacArthur (gty.org)、Grant Osborne (BECNT)*
+*本章研讀整合三方資源：老弟兄查經教導法、John MacArthur (gty.org)、Grant Osborne (BECNT)*

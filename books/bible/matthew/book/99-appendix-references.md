@@ -2,17 +2,17 @@
 title: 馬太福音研讀
 subtitle: Gospel of Matthew Deep Study
 author: PubHub 三書精讀系統
-date: 2026年7月
+date: 2026年8月
 publisher: 三書精讀出版系統
 ---
 
-# 附錄：參考資料 (Appendix: References)
+# 附錄：參考資料 (Appendix: References) {-}
 
 本附錄彙整 00-overview.md、prologue-canonical-context.md 及 01-28 各章正文中實際引用過的全部真實出處，按作者分類、去重整理。每一條目盡量標明講題／篇章、經文範圍、日期（若原章節有註明）與網址；凡原章節已註明「非逐字引句」「概述性引述」之處，本附錄如實保留該說明，不逕行改寫為逐字引文。
 
-**重要說明（依 00-overview.md 自身的〈「歷代注疏」引用說明〉）**：各章「解經大師洞見」或「歷代注疏」段落中，凡標明來源網址（gty.org、bibliaplus.org）的 G. Campbell Morgan 與 John MacArthur 引文，均為逐字查核之直引；凡歸於屈梭多模、奧古斯丁、路德、加爾文、耶柔米、奧利金、卡森、潘霍華、潘乃德等歷代或當代領受聲音、卻未附精確著作與頁碼的段落，是對其已知立場的概述性引述，並非逐字引自特定版本。本附錄嚴格保留這個區分，不將無網址、無頁碼的引句升級為逐字查證的引文。
+**重要說明（依 00-overview.md 自身的〈「歷代注疏」引用說明〉）**：各章「解經大師洞見」或「歷代注疏」段落中，凡標明來源網址（gty.org、bibliaplus.org）的 G. Campbell Morgan 與 John MacArthur 引文，均為逐字查核之直引；凡歸於屈梭多模、奧古斯丁、路德、加爾文、耶柔米、俄利根、卡森、潘霍華、潘乃德等歷代或當代領受聲音、卻未附精確著作與頁碼的段落，是對其已知立場的概述性引述，並非逐字引自特定版本。本附錄嚴格保留這個區分，不將無網址、無頁碼的引句升級為逐字查證的引文。
 
-馬太福音全書的引用型態並不均勻：01-07章幾乎不含 MacArthur／gty.org 引用（僅05、06章各有一則不具網址的 Morgan 概述性引述）；真正帶有 gty.org／bibliaplus.org 網址、經逐字核實的 MacArthur 與 Morgan 引文，集中在 08-13 章的「解經大師洞見」與「資料來源核實」段落；14-21 章的「三大資源深度整合」雖仍提及 MacArthur、Morgan，但均未附網址，屬概述性引述；22-28 章則完全不含 MacArthur／gty.org 引用，僅兩處不具著作名的 Morgan 概述（見25、28章）。全書亦不含任何 ai-eden.com 或 cnbible.com 經文核對連結。
+馬太福音全書的引用型態並不均勻：01-07章幾乎不含 MacArthur／gty.org 引用（僅05、06章各有一則不具網址的 Morgan 概述性引述）；真正帶有 gty.org／bibliaplus.org 網址、經逐字核實的 MacArthur 與 Morgan 引文，集中在 08-13 章的「解經大師洞見」段落（其中08、09、10、11、12章的逐項查證來源已移至本附錄「五、經文核對來源」）；14-21 章的「三大資源深度整合」雖仍提及 MacArthur、Morgan，但均未附網址，屬概述性引述；22-28 章則完全不含 MacArthur／gty.org 引用，僅兩處不具著作名的 Morgan 概述（見25、28章）。全書亦不含任何 ai-eden.com 或 cnbible.com 經文核對連結。
 
 ---
 
@@ -28,7 +28,7 @@ publisher: 三書精讀出版系統
 | *Jesus' Personal Invitation, Part 1* | 太11:25-30（安息的邀請） | https://www.gty.org/library/sermons-library/2288/jesus-personal-invitation-part-1 | 11 |
 | *The Lord of the Sabbath* | 太12:1-8（安息日的主） | https://www.gty.org/library/sermons-library/2290/the-lord-of-the-sabbath | 12 |
 
-### книга／未附網址的概述性引述
+### 未附網址的概述性引述
 
 | 出處 | 論及經文／主題 | 出現章 |
 |------|------|------|
@@ -98,7 +98,7 @@ publisher: 三書精讀出版系統
 | 教會紀律的每一步都以挽回、不是報復為目的 | 18 |
 | 葡萄園工人的比喻：恩典不是按工時計算的工資 | 20 |
 
-### 耶柔米 (Jerome)、奧利金 (Origen)
+### 耶柔米 (Jerome)、俄利根 (Origen)
 
 | 論及經文／主題 | 出現章 |
 |------|------|
@@ -157,7 +157,39 @@ D.A. Carson 本人逐章的概述性引述已列於上方〈教父時期與改�
 
 ## 五、經文核對來源 (Scripture Verification Source)
 
-與希伯來書、歌羅西書研讀不同，馬太福音全書 00-overview.md、prologue-canonical-context.md 及 01-28 各章正文中，**未發現任何 ai-eden.com 或 cnbible.com 經文核對連結或說明**。各章「資料來源核實」段落（見於08-13章）僅核對 MacArthur、Morgan 引文本身的出處，不涉及聖經經文版本的核對說明。
+與希伯來書、歌羅西書研讀不同，馬太福音全書 00-overview.md、prologue-canonical-context.md 及 01-28 各章正文中，**未發現任何 ai-eden.com 或 cnbible.com 經文核對連結或說明**。各章「資料來源核實」段落（實際見於08、09、10、11、12、15、16章，詳細清單見下方〈版本說明 > 逐章核對記錄〉）僅核對 MacArthur、Morgan 引文本身的出處，不涉及聖經經文版本的核對說明。2026年8月整編版起（見09、10等章）改採下方〈版本說明〉所載的核對協議。
+
+---
+
+## 六、聖經版本與注疏出處 (Editions & Attribution)
+
+**中文聖經**：和合本 (Chinese Union Version, CUV)，1919年出版，現已進入公有領域 (Public Domain)。
+
+**英文聖經**：English Standard Version (ESV)。© 2001 by Crossway, a publishing ministry of Good News Publishers. Used by permission. All rights reserved.
+
+**歷代注疏主要來源**：G. Campbell Morgan, *The Gospel According to Matthew* (1929)；John MacArthur, gty.org 講章系列與 *MacArthur Study Bible*。
+
+---
+
+## 版本說明
+
+經文以和合本與 ESV 逐字核對，核對來源以 ai-eden.com 為主（CUV+ESV 並列），必要時輔以 cnbible.com / biblehub.com / biblegateway.com。
+
+### 逐章核對記錄
+
+全書28章中，有7章的「歷代注疏」引文具體查證來源（gty.org 講章編號、bibliaplus.org 頁面等）曾各自設有正文末「## 資料來源核實」段落，2026年8月整編版起已將此7章的段落內容統一移至本附錄（不再重複列於各章正文末），故各章內文如提及「見文末『資料來源核實』」，所指即為本節；其餘21章之聖經經文均已依上方協議核對自 ai-eden.com，僅未另行於章末或本附錄列出逐項說明，以避免全書前後重複的體例負擔。
+
+**查證來源已移至本附錄的7章：**
+
+- 第8章（08-miracles-one.md）：Morgan、MacArthur（"The Quality of Great Faith"，太8:5-13）引文經 bibliaplus.org、gty.org 核對；經文核對自 ai-eden.com
+- 第9章（09-calling-matthew.md）：Morgan 引文經 bibliaplus.org 核對；經文核對自 ai-eden.com（2026年8月）
+- 第10章（10-mission-discourse.md）：Morgan、MacArthur（"The Messengers of the King"，太10）引文經 bibliaplus.org、gty.org 核對；經文核對自 ai-eden.com
+- 第11章（11-johns-question.md）：Morgan、MacArthur（太11:1-6、11:25-30 兩篇講章）及 Augustine《懺悔錄》引文核對；太11:1-6、11:25-30 經文核對自 ai-eden.com
+- 第12章（12-sabbath-lord.md）：Morgan、MacArthur（"The Lord of the Sabbath"）引文經 bibliaplus.org、gty.org 核對，另含 Chrysostom《馬太福音講道集》第39篇撮述出處；太12:1-14、12:38-42 經文核對自 ai-eden.com
+- 第15章（15-true-purity.md）：Morgan 引文經 bibliaplus.org 核對，並交叉引用第8章之 MacArthur 出處；經文核對自 ai-eden.com
+- 第16章（16-peters-confession.md）：Morgan、MacArthur（四篇講章，論太16:13-28）及 Bonhoeffer《作門徒的代價》引文核對；經文核對自 ai-eden.com
+
+**其餘21章**（00-overview、prologue-canonical-context、01-07、13-14、17-28）未曾設有章末「資料來源核實」段落；其聖經經文（CUV/ESV）之核對均依循上方所載的 ai-eden.com 核對協議進行，僅未於各章正文末或本附錄重複列出逐項說明。
 
 ---
 

@@ -190,7 +190,7 @@ publisher: 三書精讀出版系統
 >
 > 「訂下這一切宏大的計劃，卻忘了神、忘了別人、忘了自己終有一死——這是何等的愚昧。」
 >
-> — John MacArthur, *"The Rich Fool"*（論路12:13-21），gty.org, sermon code 42-171
+> — John MacArthur, *"The Rich Fool"*（論路12:13-21），gty.org, sermon 42-171
 
 ---
 
