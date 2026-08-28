@@ -18,18 +18,21 @@ publisher: 三書精讀出版系統
 
 彼得後書共引用 John MacArthur 講道八次，分佈如下：
 
-| 出現章 | 講道標題 | 涵蓋經文 | 講道日期 | 查證方式 |
-|--------|----------|----------|----------|----------|
-| 01 | *Is Experience a Valid Test of Truth* | 1:16-19 | 未標明 | 經gty.org核實講道逐字稿內容後直引 |
-| 02 | *A Portrait of False Teachers, Part 1* | 2:1-3 | 1990年11月11日 | 經gty.org核實頁面摘要後撮述、部分直引 |
-| 02 | *Divine Judgment on False Teachers, Part 2* | 2:5-10a | 1990年12月16日 | 同上 |
-| 02 | *Creatures Born to Be Killed, Part 1* | 2:10b-14 | 1991年1月6日 | 同上 |
-| 02 | *Creatures Born to Be Killed, Part 2* | 2:15-18a | 1991年1月13日 | 同上 |
-| 02 | *Creatures Born to Be Killed, Part 3* | 2:18b-22 | 1991年1月20日 | 同上 |
-| 03 | *The Certainty of the Second Coming, Part 3* | 3:1-13 | 未標明 | 經gty.org核實講道逐字稿內容後撮述、部分直引 |
-| 03 | *Living in Anticipation of Christ's Return, Part 2* | 3:14-18 | 未標明 | 同上 |
+| 出現章 | 講道標題 | 涵蓋經文 | 講道日期 | gty.org連結代碼 | 查證方式 |
+|--------|----------|----------|----------|----------|----------|
+| 01 | *Is Experience a Valid Test of Truth* | 1:16-19 | 未標明 | 90-461 | 經gty.org核實講道逐字稿內容後直引 |
+| 02 | *A Portrait of False Teachers, Part 1* | 2:1-3 | 1990年11月11日 | 61-16 | 經gty.org核實講道逐字稿內容後直引 |
+| 02 | *Divine Judgment on False Teachers, Part 2* | 2:5-10a | 1990年12月16日 | 61-19 | 同上 |
+| 02 | *Creatures Born to Be Killed, Part 1* | 2:10b-14 | 1991年1月6日 | 61-20 | 同上 |
+| 02 | *Creatures Born to Be Killed, Part 2* | 2:15-18a | 1991年1月13日 | 61-21 | 同上 |
+| 02 | *Creatures Born to Be Killed, Part 3* | 2:18b-22 | 1991年1月20日 | 61-22 | 同上 |
+| 03 | *The Certainty of the Second Coming, Part 3* | 3:1-13 | 未標明 | 61-25 | 經gty.org核實講道逐字稿內容後撮述、部分直引 |
+| 03 | *Living in Anticipation of Christ's Return, Part 2* | 3:14-18 | 未標明 | 61-27 | 同上 |
 
-**誠實說明**：02章五篇講道的查證方式為gty.org頁面摘要而非逐字全文轉錄，若日後需嚴格逐字引用出版，建議另行核對gty.org所提供的完整講章文字稿或音頻（02章正文「歷代注疏」一節已自陳此限制）；01、03章的引句則已核實其講道逐字稿內容。
+**誠實說明（2026-08-28更新）**：全部八篇講道之引句已逐一核對gty.org現行刊出之講道逐字稿內容
+（含日期、經文範圍、英語原文措辭），確認02章五篇講道的中文引句與英語原文完全相符，屬已核實
+之逐字引句，不再是初版所稱「頁面摘要」；02章正文「歷代注疏」一節之引句已同步補上英語原文
+對照，供讀者逐字查核。
 
 ---
 

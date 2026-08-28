@@ -181,8 +181,9 @@ add_front "$INPUT_DIR/99-day-of-eternity.md"
 # 附錄 · 索引與參考資料
 # ============================================================
 add_volume "附錄 (Appendices)" \
-    "經文與主題索引、參考資料——供查閱、跨章對照，並如實交代每一處引句的查證方式。"
+    "經文與主題索引、三週讀經計劃、參考資料——供查閱、跨章對照，並如實交代每一處引句的查證方式。"
 add_front "$INPUT_DIR/98-appendix-indices.md"
+add_front "$INPUT_DIR/96-appendix-reading-plan.md"
 add_front "$INPUT_DIR/99-appendix-references.md"
 
 # 跋 — afterword. Last content file: no trailing \newpage (the template's

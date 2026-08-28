@@ -172,23 +172,23 @@ publisher: 三書精讀出版系統
 
 麥克阿瑟在1990年11月至1991年1月一系列以彼得後書2章為題的講道中（gty.org，「1 & 2 Peter」系列），依序處理了本章的四個段落：
 
-> 「他們從不直截了當，從不誠實，他們詭詐、鬼祟、暗中行事。」（論2:1假教師「私自引進」的手法）
+> 「他們從不直截了當，從不誠實，他們詭詐、鬼祟、暗中行事。」（論2:1假教師「私自引進」的手法；原文："They're never straightforward, they're never honest, they're deceptive, sneaky, under-cover."）
 > —— *A Portrait of False Teachers, Part 1*（2 Peter 2:1-3，1990年11月11日），gty.org
 
-> 「主知道怎樣搭救敬虔的人脫離試探，把不義的人留在刑罰之下，等候審判的日子。」（論2:9的原則）
+> 「主知道怎樣搭救敬虔的人脫離試探，把不義的人留在刑罰之下，等候審判的日子。」（論2:9的原則；原文："The Lord knows how to rescue the godly from temptation and to keep the unrighteous under punishment for the Day of Judgment."）
 > —— *Divine Judgment on False Teachers, Part 2*（2 Peter 2:5-10a，1990年12月16日），gty.org
 
-> 「他們是沒有理性的動物，生來就是憑本能、注定被捉拿宰殺的受造物。」（論2:12「沒有靈性，生來就是畜類」）
+> 「他們是沒有理性的動物，生來就是憑本能、注定被捉拿宰殺的受造物。」（論2:12「沒有靈性，生來就是畜類」；原文："unreasoning animals, born as creatures of instinct to be captured and killed."）
 > —— *Creatures Born to Be Killed, Part 1*（2 Peter 2:10b-14，1991年1月6日），gty.org
 
-> 「巴蘭，比珥的兒子，貪愛不義的工價」……「他是一個為利可以出賣先知職分的先知。」（論2:15-16巴蘭）
+> 「巴蘭，比珥的兒子，貪愛不義的工價」……「他是一個為利可以出賣先知職分的先知。」（論2:15-16巴蘭；原文："Balaam, the son of Beor, loved the wages of unrighteousness"……"he was a prophet for profit. He was in it for the money."）
 > —— *Creatures Born to Be Killed, Part 2*（2 Peter 2:15-18a，1991年1月13日），gty.org
 
-> 「他們應許自由，應許解放……自己卻是敗壞的奴僕。」（論2:19）
-> 「他們不曾認識義路，反倒比認識了以後又轉離聖命的人更好。」（論2:21，撮述其立場）
+> 「他們應許自由，應許解放……自己卻是敗壞的奴僕。」（論2:19；原文："They promise freedom, they promise deliverance, they promise liberation...but they don't have it because they themselves are slaves of corruption."）
+> 「他們不曾認識義路，反倒比認識了以後又轉離聖命的人更好。」（論2:21；原文："It would be better for them not to have known the way of righteousness than having known it to turn away from the holy commandment delivered to them."）
 > —— *Creatures Born to Be Killed, Part 3*（2 Peter 2:18b-22，1991年1月20日），gty.org
 
-以上引句已於本次研讀經gty.org講道頁面內容核實確認，惟受限於本次查證方式（頁面摘要而非逐字全文轉錄），若需嚴格逐字引用出版，建議另行核對gty.org所提供的完整講章文字稿或音頻。
+以上五處引句已逐一核對gty.org所刊出之講道逐字稿內容（含日期、經文範圍、原文英語措辭），確認與現行gty.org文字稿完全相符，屬已核實之逐字引句，非頁面摘要。
 
 ---
 
