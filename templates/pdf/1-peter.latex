@@ -44,33 +44,82 @@
 \newfontfamily\didotfont{Didot}
 % Alias matching the naming convention used on the full-bleed cover pages
 \newcommand{\baskervillefont}{\basklatin}
-%% ucharclasses fix (see .claude/skills/eat-bible/references/gotchas.md):
-%%  * {Greek} is a class GROUP, not a block — the block is GreekAndCoptic, so
-%%    the original line compiled fine and did nothing; basic Greek fell back
-%%    to the main font's own glyphs with no warning.
-%%  * These stay on the 3-arg \setTransitionsFor form. \setTransitionTo is
-%%    safer in principle (it cannot clobber another block's enter-code) but it
-%%    removes the leaving-code, so it REQUIRES every block the book uses to
-%%    have an explicit destination. Migrating without that census puts CJK
-%%    after a Greek run into \greekfont — measured here, it broke 1 Peter and
-%%    2 Timothy outright. Do that migration per book, with the block census,
-%%    the way templates/pdf/revelation.latex and isaiah.latex do it.
-\setTransitionsFor{GreekAndCoptic}{\greekfont}{\normalfont}
-\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
-\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
-%% Han was a no-op (not a block) and has never had any effect. Enabling it for real is a
-%% book-wide change that needs every other block given an explicit
-%% destination — do it deliberately, not as a side effect.
-% \setTransitionsFor{Han}{\cjkfallbackfont}{\normalfont}
-%% Latin was a no-op (class group) and has never had any effect. Enabling it for real is a
-%% book-wide change that needs every other block given an explicit
-%% destination — do it deliberately, not as a side effect.
-% \setTransitionsFor{Latin}{\basklatin}{\normalfont}
-% Latin Extended Additional (e.g. combining-dot-below transliterations
-% like Hebrew *ḥesed*/*ḥashab*) — Kaiti SC's italic has no glyph for
-% these, so route them to Baskerville too.
-\setTransitionsFor{LatinExtendedAdditional}{\basklatin}{\normalfont}
-%% Enable CJK line breaking - critical for Chinese text
+%% ucharclasses — full block coverage via \setTransitionTo.
+%%
+%% Two traps this replaces (see .claude/skills/eat-bible/references/gotchas.md):
+%%  1. \setTransitionsFor{Greek} is a no-op — "Greek" is a class GROUP; the
+%%     block is GreekAndCoptic. Basic Greek silently used the main font.
+%%  2. \setTransitionsFor sets BOTH directions for every pair, so a later
+%%     declaration's out-code overwrites an earlier one's in-code. Symptom:
+%%     a Greek/Hebrew run preceded by CJK or full-width punctuation (：、。）
+%%     does not switch font — silently, since the main font carries basic
+%%     Greek glyphs.
+%%
+%% \setTransitionTo sets the ENTERING direction only, so nothing can clobber
+%% anything. It removes the leaving-code, which is why every block this book
+%% uses must be listed: an unlisted block inherits the previous font.
+%% Block list derived from a census of this book's own markdown sources.
+%%
+%% \latinrun keeps the main font's own Latin glyphs — upright text is
+%% unchanged — but adds a real italic, which \setmainfont cannot supply
+%% because its ItalicFont is Kaiti SC, a brush face whose Latin glyphs are
+%% UPRIGHT. Without this every italicised work title renders as roman.
+%% \uckeep carries series/shape across the boundary; a bare \newfontfamily
+%% switch resets both and drops \emph / \textbf mid-run.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{SpacingModifierLetters}{\ucCJKRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
 
