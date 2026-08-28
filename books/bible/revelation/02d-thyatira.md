@@ -54,13 +54,13 @@ publisher: 三書精讀出版系統
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
 |--------|------|------|----------|
-| *ho huios tou theou* | ho huios tou theou | 神的兒子 | 18節，七封書信中唯一直接稱基督為「神的兒子」的一封 |
-| *ophthalmoi hōs phloga pyros* | ophthalmoi hōs phloga pyros | 眼目如火焰 | 取自1:14，象徵洞察一切隱藏之事的能力 |
-| *aphes* | aphiēmi（現在時） | 容讓、容忍 | 20節，強調教會消極的縱容而非主動的參與 |
-| *planaō* | planaō | 引誘、使迷失 | 20節，字根與「行星」（漂移不定的星）相關，指偏離正道 |
-| *ta bathea tou Satana* | ta bathea tou Satana | 撒但深奧之理 | 24節，可能諷刺性地引用了異端自誇「屬靈深度」的用語 |
-| *rhabdos sidēra* | rhabdos sidēra | 鐵杖 | 27節，取自詩篇2:9彌賽亞詩篇 |
-| *ho astēr ho prōinos* | ho astēr ho prōinos | 晨星 | 28節，與22:16基督自稱「明亮的晨星」相呼應 |
+| ὁ υἱὸς τοῦ θεοῦ | ho huios tou theou | 神的兒子 | 18節，七封書信中唯一直接稱基督為「神的兒子」的一封 |
+| ὀφθαλμοὶ ὡς φλόγα πυρός | ophthalmoi hōs phloga pyros | 眼目如火焰 | 取自1:14，象徵洞察一切隱藏之事的能力 |
+| ἀφεῖς | aphiēmi（現在時） | 容讓、容忍 | 20節，強調教會消極的縱容而非主動的參與 |
+| πλανάω | planaō | 引誘、使迷失 | 20節，字根與「行星」（漂移不定的星）相關，指偏離正道 |
+| τὰ βαθέα τοῦ Σατανᾶ | ta bathea tou Satana | 撒但深奧之理 | 24節，可能諷刺性地引用了異端自誇「屬靈深度」的用語 |
+| ῥάβδος σιδηρᾶ | rhabdos sidēra | 鐵杖 | 27節，取自詩篇2:9彌賽亞詩篇 |
+| ὁ ἀστὴρ ὁ πρωϊνός | ho astēr ho prōinos | 晨星 | 28節，與22:16基督自稱「明亮的晨星」相呼應 |
 
 ### 「耶洗別」的文學與屬靈意義
 
@@ -94,11 +94,15 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, c. 230-304)**：
 
 維克多林在其註釋中將推雅推喇的耶洗別視為教會歷史中反覆出現的假教師原型——任何以屬靈權柄之名，引誘信徒與世界的偶像及道德敗壞妥協的聲音，都承接著這同一個屬靈的譜系；他特別提醒讀者留意23節「我是那察看人肺腑心腸的」這句宣告，強調基督審判的根據不是外在的言辭，而是內心真實的動機與行為。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*
 
 ### 改革宗時期
@@ -106,6 +110,7 @@ publisher: 三書精讀出版系統
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利論到推雅推喇教會時指出，這封信最發人深省之處在於：教會的敗壞往往不是從公開背叛真道開始，而是從「容忍」一個看似有恩賜、卻教導錯謬的聲音開始；他提醒教會領袖，容忍罪惡如同容忍發酵的麵酵，起初微小，終將使全團發起來（引申自加拉太書5:9）。
+
 > — Matthew Henry, *An Exposition of the Old and New Testament* (Acts–Revelation volume completed by other nonconformist ministers after Henry's death, 1721)
 
 ### 當代釋經
@@ -113,11 +118,13 @@ publisher: 三書精讀出版系統
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，推雅推喇教會的悲劇不在於她缺乏愛心、信心或勤勞——她樣樣都有，甚至越來越多——她的悲劇在於，她把這一切美德用在容忍一個假先知身上，而不是用來抵擋她。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「撒但深奧之理」很可能是耶洗別一派自己使用的語言，諷刺性地被主引用——她自稱帶領信徒進入屬靈的深處，主卻宣告，那深處不過是撒但的深處。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---

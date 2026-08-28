@@ -50,13 +50,13 @@ publisher: 三書精讀出版系統
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
 |--------|------|------|----------|
-| *thlipsis* | thlipsis | 患難、壓迫 | 字面指重壓、擠壓，新約常用於形容因信仰受的苦難 |
-| *ptōcheia* | ptōcheia | 赤貧 | 比一般「貧窮」（*penia*）更嚴重，指一無所有的赤貧 |
-| *blasphēmia* | blasphēmia | 毀謗、褻瀆 | 9節指向猶太社群對基督徒的毀謗指控 |
-| *synagōgē tou Satana* | synagōgē tou Satana | 撒但的會堂 | 直接與「猶太人的會堂」形成尖銳對比，非指所有猶太人 |
-| *peirasthēte* | peirazō（被動） | 受試煉 | 10節，強調苦難有煉淨、印證信心的功用 |
-| *pistos achri thanatou* | pistos achri thanatou | 至死忠心 | 10節，全啟示錄中對信徒最高的呼召之一 |
-| *ho stephanos tēs zōēs* | ho stephanos tēs zōēs | 生命的冠冕 | *stephanos*指運動員得勝的花冠，而非君王的權冕（*diadēma*） |
+| θλῖψις | thlipsis | 患難、壓迫 | 字面指重壓、擠壓，新約常用於形容因信仰受的苦難 |
+| πτωχεία | ptōcheia | 赤貧 | 比一般「貧窮」（*penia*）更嚴重，指一無所有的赤貧 |
+| βλασφημία | blasphēmia | 毀謗、褻瀆 | 9節指向猶太社群對基督徒的毀謗指控 |
+| συναγωγὴ τοῦ Σατανᾶ | synagōgē tou Satana | 撒但的會堂 | 直接與「猶太人的會堂」形成尖銳對比，非指所有猶太人 |
+| πειρασθῆτε | peirazō（被動） | 受試煉 | 10節，強調苦難有煉淨、印證信心的功用 |
+| πιστὸς ἄχρι θανάτου | pistos achri thanatou | 至死忠心 | 10節，全啟示錄中對信徒最高的呼召之一 |
+| ὁ στέφανος τῆς ζωῆς | ho stephanos tēs zōēs | 生命的冠冕 | *stephanos*指運動員得勝的花冠，而非君王的權冕（*diadēma*） |
 
 ### 「至死忠心」與生命的冠冕
 
@@ -86,11 +86,15 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, c. 230-304)**：
 
 維克多林在現存最早的啟示錄註釋中指出，士每拿信中「十日」的患難，象徵一段有限度、由神親自量度的試煉期，而非無止境的苦難；他特別提醒讀者，主在應許冠冕之前先說「不要懼怕」，顯明苦難本身從不是神對教會憤怒的記號，而是煉淨與印證信心的途徑。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*
 
 ### 改革宗時期
@@ -98,6 +102,7 @@ publisher: 三書精讀出版系統
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在其《聖經註釋》論到士每拿教會時寫道，這是七封書信中唯一沒有絲毫責備的兩封信之一，苦難反倒煉淨了她，使她在物質貧乏中保守了信仰的純淨；他提醒讀者，教會歷史一再證明：受逼迫的教會往往比安逸的教會更貼近起初的愛心與純正的信仰。
+
 > — Matthew Henry, *An Exposition of the Old and New Testament* (Acts–Revelation volume completed by other nonconformist ministers after Henry's death, 1721)
 
 ### 當代釋經
@@ -105,11 +110,13 @@ publisher: 三書精讀出版系統
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，士每拿教會所擁有的，是這個世界不能給、也不能奪去的財富——與基督聯合的生命，以及那將要顯明的、永不朽壞的冠冕。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯在其啟示錄註釋（NICNT）中論到基督自稱「首先的、末後的、死過又活的」時指出，對一個隨時可能被要求為信仰付上性命的群體而言，這不是抽象的教義宣告，而是最直接的安慰——基督比他們更早經過死亡，並且已經得勝。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---

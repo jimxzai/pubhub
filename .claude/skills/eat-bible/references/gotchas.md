@@ -72,6 +72,27 @@ scripts/lint-templates.sh [template-name ...]
     early.
   - Leave-codes matter: `\normalfont` on exit can clobber the next class's
     enter code; empty leave-codes strand characters in the previous font.
+  - **The blocker, characterised**: a ucharclasses transition does NOT fire
+    when the preceding character is CJK/full-width punctuation. Isolated
+    repro — `ἀποκάλυψις` immediately after each of these:
+
+    | preceding char | transition fires? |
+    |---|---|
+    | `：` U+FF1A full-width colon | **no** |
+    | `、` U+3001 ideographic comma | **no** |
+    | space | yes |
+    | a CJK ideograph | yes |
+    | `:` ASCII colon | yes |
+    | paragraph start | yes |
+
+    This is not specific to enabling Latin — it applies to the
+    `GreekExtended` / `Hebrew` transitions the templates already ship. It is
+    invisible in Revelation and Isaiah today only because Songti SC happens to
+    have basic Greek glyphs, so a failed switch renders the wrong face with no
+    warning; you only get a "Missing character" when the fallback font lacks
+    the glyph outright (polytonic `ἀ`, Hebrew). **So a clean driver run does
+    not prove the Greek in a book is in `\greekfont`** — check a rendered page
+    if it matters.
 
 - **`pandoc --pdf-engine=xelatex` discards the entire xelatex log unless
   you pass `--verbose` — so every "grep the build log" check in this
