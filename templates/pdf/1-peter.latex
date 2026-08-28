@@ -142,21 +142,26 @@
 \end{tikzpicture}%
 }
 
-% Shepherd's-crook-and-stone symbol — a simple curved staff with a small
-% stone/gem at its foot (echoing 1 Peter 2:4-8 "living stone" and 5:2-4
-% "shepherd the flock"). Simple line-drawing style, consistent with the
-% file's other minimalist gold TikZ ornaments.
+% Faceted cornerstone symbol — a table-cut gem in bold straight facets,
+% legible at small display size (the previous curved shepherd's-crook
+% design read as an illegible squiggle at cover scale). Echoes 1 Peter
+% 1:7 "tested by fire — more precious than gold" and 2:4-6 "a cornerstone
+% chosen and precious." Wide, angular strokes read cleanly even tiny.
 \newcommand{\laurelcrosssymbol}{%
-\begin{tikzpicture}[scale=0.2]
-  % staff — a tall curved crook
-  \draw[color=ScriptureGold,line width=1.1pt]
-    (0,-1.2) .. controls (0,0.2) and (-0.1,0.6) .. (-0.35,0.95)
-    .. controls (-0.55,1.2) and (-0.25,1.35) .. (0.05,1.1);
-  % small cross-stroke near the base (crook foot marker)
-  \draw[color=ScriptureGold,line width=0.9pt] (-0.28,-1.2) -- (0.28,-1.2);
-  % living stone at the base — small diamond
-  \draw[color=ScriptureGold,line width=0.9pt,fill=ScriptureGold]
-    (0,-1.55) -- (0.22,-1.35) -- (0,-1.15) -- (-0.22,-1.35) -- cycle;
+\begin{tikzpicture}[scale=0.32,line join=round,line cap=round]
+  % crown facets (table to girdle)
+  \draw[color=ScriptureGold,line width=1.3pt]
+    (-0.5,1.0) -- (-0.85,0.55) -- (-0.45,-0.35) -- (0,-1.15) -- (0.45,-0.35) -- (0.85,0.55) -- (0.5,1.0) -- cycle;
+  % table (flat top)
+  \draw[color=ScriptureGold,line width=1.3pt] (-0.5,1.0) -- (0.5,1.0);
+  % girdle (widest line)
+  \draw[color=ScriptureGold,line width=0.9pt] (-0.85,0.55) -- (0.85,0.55);
+  % crown facets converging to the table corners
+  \draw[color=ScriptureGold,line width=0.8pt] (-0.85,0.55) -- (-0.22,1.0);
+  \draw[color=ScriptureGold,line width=0.8pt] (0.85,0.55) -- (0.22,1.0);
+  % pavilion facets converging to the point
+  \draw[color=ScriptureGold,line width=0.8pt] (-0.45,-0.35) -- (0,-1.15);
+  \draw[color=ScriptureGold,line width=0.8pt] (0.45,-0.35) -- (0,-1.15);
 \end{tikzpicture}%
 }
 
@@ -582,7 +587,7 @@ Chinese Scripture is uniformly the Chinese Union Version (CUV), verse-by-verse v
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 老弟兄查經方法論與神學框架之應用（本書無對應之老弟兄彼得前書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
+\textbullet\ 老弟兄查經方法論與框架之應用（本書無對應之老弟兄彼得前書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
 \textbullet\ John MacArthur - MacArthur New Testament Commentary (gty.org)\\
 \textbullet\ G. Campbell Morgan\\[0.8em]
 
@@ -667,7 +672,7 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書逐章研讀彼得前書全書五章，並附索引與參考資料附錄，整合老弟兄一貫的查經方法論與以基督為中心的神學框架（本書並無對應之老弟兄彼得前書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道，以及 G. Campbell Morgan 的屬靈與結構分析。全信的軌跡，從重生得著活潑的盼望、到蒙召作聖潔的祭司、到客旅在世如何順服見證、到為義受苦如同有分於基督的苦難、直到長老牧養群羊、抵擋魔鬼、儆醒等候——彼得寫給分散各地、正受火煉之試驗的客旅最貼身的一封信，在這裡逐章展開。
+本書逐章研讀彼得前書全書五章，並附索引與參考資料附錄，整合老弟兄一貫的查經方法論與以基督為中心的框架（本書並無對應之老弟兄彼得前書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道，以及 G. Campbell Morgan 的屬靈與結構分析。全信的軌跡，從重生得著活潑的盼望、到蒙召作聖潔的祭司、到客旅在世如何順服見證、到為義受苦如同有分於基督的苦難、直到長老牧養群羊、抵擋魔鬼、儆醒等候——彼得寫給分散各地、正受火煉之試驗的客旅最貼身的一封信，在這裡逐章展開。
 
 {\baskervillefont\color{CoverCream} chapter-by-chapter study of all five chapters of 1 Peter, with index and references appendices, integrating the Elder's documented Bible-study methodology and Christ-centered theological framework (this book has no corresponding verse-by-verse Elder teaching notes on 1 Peter itself --- an honest disclosure detailed in the appendix), alongside John MacArthur's verse-by-verse exposition and G. Campbell Morgan's spiritual and structural analysis. The letter's arc unfolds chapter by chapter: from new birth into a living hope, through the call to be a holy priesthood, through the sojourner's submission and witness in the world, through suffering for righteousness as a share in Christ's own suffering, to elders shepherding the flock, resisting the devil, and staying watchful --- Peter's most intimate letter to scattered sojourners under fiery trial, traced here in full.}
 $endif$
