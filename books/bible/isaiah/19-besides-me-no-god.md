@@ -46,21 +46,21 @@ publisher: 三書精讀出版系統
 
 > ^21^耶和華對假神說：你們要呈上你們的案件；雅各的君說：你們要聲明你們確實的理由。^22^可以聲明，指示我們將來必遇的事，說明先前的是甚麼事，好叫我們思索，得知事的結局，或者把將來的事指示我們。^23^要說明後來的事，好叫我們知道你們是神。你們或降福，或降禍，使我們驚奇，一同觀看。^24^看哪，你們屬乎虛無；你們的作為也屬乎虛空。那選擇你們的是可憎惡的。
 
-> ^43:1^雅各啊，創造你的耶和華，以色列啊，造成你的那位，現在如此說：「你不要害怕，因為我救贖了你；我曾提你的名召你，你是屬我的。^2^你從水中經過，我必與你同在；你趟過江河，水必不漫過你；你從火中行過，必不被燒，火焰也不著在你身上。^3^因為我是耶和華你的神，是以色列的聖者，你的救主。」
+> ^43:1^雅各啊，創造你的耶和華，以色列啊，造成你的那位，現在如此說：「你不要害怕！因為我救贖了你。我曾提你的名召你，你是屬我的。^2^你從水中經過，我必與你同在；你逿過江河，水必不漫過你；你從火中行過，必不被燒，火燄也不著在你身上。^3^因為我是耶和華你的神，是以色列的聖者，你的救主。」
 
-> ^7^就是凡稱為我名下的人，是我為自己的榮耀創造的，是我所做成、所造做的。^10^耶和華說：「你們是我的見證，我所揀選的僕人。既是這樣，便可以知道，且信服我，又明白我就是耶和華，在我以前沒有真神，在我以後也必沒有。」^11^惟有我是耶和華，除我以外沒有救主。
+> ^7^就是凡稱為我名下的人，是我為自己的榮耀創造的，是我所做成，所造作的。^10^耶和華說：「你們是我的見證，我所揀選的僕人。既是這樣，便可以知道，且信服我，又明白我就是耶和華。在我以前沒有真神；在我以後也必沒有。」^11^惟有我是耶和華；除我以外沒有救主。
 
-> ^18^耶和華如此說：「你們不要記念從前的事，也不要思想古時的事。^19^看哪，我要做一件新事，如今要發現，你們豈不知道嗎？我必在曠野開道路，在沙漠開江河。」^25^惟有我，為自己的緣故，塗抹你的過犯，我也不記念你的罪惡。
+> ^18^耶和華如此說：「你們不要記念從前的事，也不要思想古時的事。^19^看哪，我要做一件新事；如今要發現，你們豈不知道嗎？我必在曠野開道路，在沙漠開江河。」^25^惟有我為自己的緣故塗抹你的過犯；我也不記念你的罪惡。
 
 > ^44:6^耶和華以色列的君，以色列的救贖主萬軍之耶和華如此說：「我是首先的，我是末後的；除我以外再沒有真神。」^9^製造雕刻偶像的盡都虛空；他們所喜悅的都無益處；他們的見證無所看見，無所知曉，他們便覺羞愧。^10^誰製造神像，鑄造無益的偶像？
 
 > ^21^雅各，以色列啊，你是我的僕人，要記念這些事。以色列啊，你是我的僕人，我造就你必不忘記你。^22^我塗抹了你的過犯，像厚雲消散；我塗抹了你的罪惡，如薄雲滅沒。你當歸向我，因我救贖了你。
 
-> ^24^從你出胎，造就你的救贖主耶和華如此說：「我耶和華是創造萬物的，是獨自鋪張諸天、鋪開大地的。^25^誰與我同在呢？使說假話的兆頭失效，使占卜的癲狂，使智慧人退後，使他的知識變為愚拙；^26^使我僕人的話語立定，我使者的謀算成就。論到耶路撒冷說：必有人居住；論到猶大的城邑說：必被建造，其中的荒場我也必興起。^27^對深淵說：你乾了罷！我也要使你的江河乾涸。^28^論古列說：他是我的牧人，必成就我所喜悅的，必下令建造耶路撒冷，發命立穩聖殿的根基。」
+> ^24^從你出胎，造就你的救贖主耶和華如此說：「我耶和華是創造萬物的，是獨自鋪張諸天、鋪開大地的。誰與我同在呢？^25^使說假話的兆頭失效，使占卜的癲狂，使智慧人退後，使他的知識變為愚拙；^26^使我僕人的話語立定，我使者的謀算成就。論到耶路撒冷說：必有人居住；論到猶大的城邑說：必被建造，其中的荒場我也必興起。^27^對深淵說：你乾了罷！我也要使你的江河乾涸。^28^論古列說：他是我的牧人，必成就我所喜悅的，必下令建造耶路撒冷，發命立穩聖殿的根基。」
 
 ### English — ESV
 
-> ^1^Listen to me in silence, O coastlands; let the peoples renew their strength… ^4^I, the LORD, the first, and with the last; I am he.
+> ^1^Listen to me in silence, O coastlands; let the peoples renew their strength… ^4^Who has performed and done this, calling the generations from the beginning? I, the LORD, the first, and with the last; I am he.
 
 > ^8^But you, Israel, my servant, Jacob, whom I have chosen, the offspring of Abraham, my friend… ^10^fear not, for I am with you; be not dismayed, for I am your God; I will strengthen you. ^14^Fear not, you worm Jacob, you men of Israel! I am the one who helps you, declares the LORD; your Redeemer is the Holy One of Israel.
 
@@ -72,13 +72,13 @@ publisher: 三書精讀出版系統
 
 > ^18^Remember not the former things, nor consider the things of old. ^19^Behold, I am doing a new thing; now it springs forth, do you not perceive it? I will make a way in the wilderness and rivers in the desert. ^25^I, I am he who blots out your transgressions for my own sake, and I will not remember your sins.
 
-> ^44:6^Thus says the LORD, the King of Israel and his Redeemer, the LORD of hosts: "I am the first and I am the last; besides me there is no god." ^9^All who fashion idols are nothing, and the things they delight in do not profit. ^10^Who fashions a god or casts an idol that is profitable for nothing?
+> ^44:6^Thus says the LORD, the King of Israel and his Redeemer, the LORD of hosts: "I am the first and I am the last; besides me there is no god." ^9^All who fashion idols are nothing, and the things they delight in do not profit. Their witnesses neither see nor know, that they may be put to shame. ^10^Who fashions a god or casts an idol that is profitable for nothing?
 
 > ^21^Remember these things, O Jacob, and Israel, for you are my servant; I formed you; you are my servant; O Israel, you will not be forgotten by me. ^22^I have blotted out your transgressions like a cloud and your sins like mist; return to me, for I have redeemed you.
 
 > ^24^Thus says the LORD, your Redeemer, who formed you from the womb: "I am the LORD, who made all things, who alone stretched out the heavens, who spread out the earth by myself." ^25^Who frustrates the signs of liars and makes fools of diviners, who turns wise men back and makes their knowledge foolish. ^26^Who confirms the word of his servant and fulfills the counsel of his messengers, who says of Jerusalem, "She shall be inhabited," and of the cities of Judah, "They shall be built, and I will raise up their ruins." ^27^Who says to the deep, "Be dry; I will dry up your rivers." ^28^Who says of Cyrus, "He is my shepherd, and he shall fulfill all my purpose"; saying of Jerusalem, "She shall be built," and of the temple, "Your foundation shall be laid."
 
-**經文核對**：ai-eden.com 該頁為 JavaScript 動態渲染，WebFetch 無法擷取逐節文字，已改依項目慣例改用 [cnbible.com/isaiah/41.htm](https://cnbible.com/isaiah/41.htm)、[/43.htm](https://cnbible.com/isaiah/43.htm)、[/44.htm](https://cnbible.com/isaiah/44.htm)（和合本 CUV）及 [biblegateway.com](https://www.biblegateway.com/passage/?search=Isaiah+41&version=ESV)（ESV）逐節核對。
+**經文核對**：[ai-eden.com/bible/isaiah/41](https://www.ai-eden.com/bible/isaiah/41?t=CUV,ESV&cols=2)、[/43](https://www.ai-eden.com/bible/isaiah/43?t=CUV,ESV&cols=2)、[/44](https://www.ai-eden.com/bible/isaiah/44?t=CUV,ESV&cols=2)（和合本 CUV 與 ESV 對照）逐節核校。「裏」「甚麼」依本書文字政策統一。
 
 ---
 
@@ -103,7 +103,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 原文 | 音譯 | 意義 | 出現位置 | 註解 |
-|----------------|----------|------------|------------|----------------------------------------|
+|----------------------|-----------------|--------------|-------------|----------------------------------|
 | עֶבֶד | eved | 僕人 | 41:8；44:21 | 貫穿40-53章的關鍵詞，兼指以色列全體與那一位受苦的僕人本身 |
 | גָּאַל | ga'al | 救贖、（近親）贖回 | 41:14；43:1；44:24 | 原指古代近親有責任贖回族人的財產或身分（如路得記），神以此自稱「救贖主」，表明祂與百姓有立約之親 |
 | בָּחַר | bachar | 揀選 | 41:8；44:1-2 | 揀選先於也不倚賴百姓的表現——「我朋友亞伯拉罕的後裔」是恩典的稱呼，不是功績的獎賞 |
@@ -133,7 +133,7 @@ publisher: 三書精讀出版系統
 
 ### 3. 神為自己的緣故塗抹罪過
 
-43:25「惟有我，為自己的緣故，塗抹你的過犯」——赦免的理由不在乎人配不配得，而在乎神自己的名與應許。這與44:22「我塗抹了你的過犯，像厚雲消散」前後呼應，把赦免描寫成徹底、不留痕跡的除去。
+43:25「惟有我為自己的緣故塗抹你的過犯」——赦免的理由不在乎人配不配得，而在乎神自己的名與應許。這與44:22「我塗抹了你的過犯，像厚雲消散」前後呼應，把赦免描寫成徹底、不留痕跡的除去。
 
 ### 4. 揭穿偶像的荒謬——製造者竟向受造物下拜
 
@@ -151,8 +151,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者立場的綜述，非逐字引文。
+> **體例說明**：本節除已標明出處的加爾文引文外，其餘是歷代解經者**立場的綜述**，非逐字引文。
 > 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> 加爾文一段為經逐字核校的原始引文，中譯附於英文之後。
 
 ### 教父時期
 
@@ -160,11 +161,27 @@ publisher: 三書精讀出版系統
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin)** — 要旨綜述：加爾文在其《以賽亞書注釋》(CCEL) 論41-44章時，反覆強調這幾章的核心論證是「神獨自享有的能力」——預知並掌管歷史。他認為，法庭辯論式的經文（如41:21-24）不是文學修辭上的誇張，而是嚴肅地邀請讀者親自去查驗：除了聖經的神，古今中外可曾有任何偶像、任何體系精確預告過歷史？加爾文也特別看重43:25「為自己的緣故」塗抹罪過一句，指出這正是恩典白白賜下、與人的功德全然無關的明證。
+**約翰·加爾文 (John Calvin)**：
+
+> "In order to give greater weight to this address, he comes forth of his own accord, for the sake of inspiring confidence, and challenges the Gentiles themselves, charging them to bring forward everything that could support their cause, as is usually done in courts of justice."
+>
+> 「為要使這番宣告更有分量，祂主動出面，為的是叫人生出確信；祂親自向外邦人下戰帖，命他們把一切足以支持自己立場的憑據都呈上來，正如法庭上通常所行的一樣。」——論41:21。
+>
+> "It is certain that this limitation is contrasted with all merits, that is, that God pays no regard to us, or to anything that is in us, in pardoning our sins, but that he is prompted to it solely by his goodness."
+>
+> 「可以確定的是，這一句限定語是與一切功德相對而言的——也就是說，神赦免我們的罪，並不看我們，也不看我們身上的任何東西，祂之所以如此行，唯獨是出於祂自己的良善。」——論43:25「為自己的緣故」。
+>
+> "This is a remarkable passage, in which we not only may see the wonderful providence of God, but which likewise contains a striking proof of the truth and certainty of the prophecies. Here 'Cyrus' was named long before he was born… These things ought therefore to be carefully observed, for they shew clearly that it was not by a human spirit that Isaiah spoke."
+>
+> 「這是一段非凡的經文，我們不但從中看見神奇妙的護理，它同時也是聖經預言真確可靠的有力憑據。『古列』在此被指名，遠在他出生之前……所以這些事應當仔細留意，因為它們清楚顯明：以賽亞說話所憑的並不是人的靈。」——論44:28。
+>
+> — John Calvin, *Commentary on Isaiah*, Vol. 3（Isaiah 33-48），CCEL calcom15，論41:21、43:25、44:28
+
+**其餘要旨綜述**：加爾文論41-44章時，反覆強調這幾章的核心論證是「神獨自享有的能力」——預知並掌管歷史。上引論41:21一段值得留意的是：加爾文注意到神是「主動出面」的一方；法庭辯論不是先知替神想出來的護教策略，是神自己願意被查驗。而論44:28一段，加爾文更直接處理了「事後偽託」的質疑：他指出被擄的猶大人是在被擄期間讀這些預言、藉此存留歸回盼望的，若這些話是事後才補寫的，那段最需要盼望的年日就成了一片空白。
 
 ### 當代釋經
 
-**約翰·麥克阿瑟 (John MacArthur)** — 要旨綜述：麥克阿瑟在其講道與註釋中，常把44:28、45:1的古列預言列為聖經無誤與默示的重要證據之一——他指出，即便持懷疑論的學者試圖藉「後人偽托」的假說迴避這預言的超自然性質，這假說本身反而間接承認了這段經文預言之精確，已經精確到讓人不得不用「一定是事後才寫的」來解釋，這恰恰反證了先知書所宣稱的神性來源。
+**約翰·麥克阿瑟 (John MacArthur)** — 要旨綜述：麥克阿瑟在其講道與註釋中，常把44:28、45:1的古列預言列為聖經無誤與默示的重要證據之一——他指出，即便持懷疑論的學者試圖藉「後人偽託」的假說迴避這預言的超自然性質，這假說本身反而間接承認了這段經文預言之精確，已經精確到讓人不得不用「一定是事後才寫的」來解釋，這恰恰反證了先知書所宣稱的神性來源。
 
 ---
 
@@ -204,7 +221,7 @@ publisher: 三書精讀出版系統
 
 他也常常停在44:9-20那段對偶像敬拜的嘲諷上，提醒查經班：這段經文表面在講古代的木頭偶像，其實直指每一個世代都會犯的同一個錯——把自己親手打造出來的東西（不論是財富、成就、名聲、還是一套自己發明的人生哲學）當作能救自己的神明。老弟兄常說：「你今天燒的是哪一半木頭，拜的又是哪一半？」
 
-他也特別看重44:28-45:1古列蒙名預言的份量：一個先知七百年前寫下一個尚未出生之人的名字，還說得出他要做甚麼——老弟兄會問，如果連一個外邦君王的名字和使命神都能預先寫定，你自己的今天、明天，是不是也早在祂的計劃之中？這不是要人算命，而是要人在具體的歷史憑證面前，重新學習信靠。
+他也特別看重44:28-45:1古列蒙名預言的份量：一個先知在一百五十多年前寫下一個尚未出生之人的名字，還說得出他要做甚麼——老弟兄會問，如果連一個外邦君王的名字和使命神都能預先寫定，你自己的今天、明天，是不是也早在祂的計劃之中？這不是要人算命，而是要人在具體的歷史憑證面前，重新學習信靠。
 
 ---
 
@@ -288,7 +305,7 @@ publisher: 三書精讀出版系統
 ## 與其他經文的關聯
 
 | 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
+|------------------------------|-------------|---------------------------------------------------------|
 | 揀選先於表現 | 41:8-10, 14 | 創12:1-3、羅9:11-13、弗1:4-5 |
 | 唯獨真神能預言未來 | 41:21-24 | 申18:21-22、耶10:1-16 |
 | 你是屬我的——救贖是關係性的 | 43:1-3 | 出14章（過紅海）、但3章（過火窯）、羅8:38-39 |

@@ -82,7 +82,7 @@ publisher: 三書精讀出版系統
 
 > ^24^Therefore thus says the Lord God of hosts: "O my people, who dwell in Zion, be not afraid of the Assyrians when they strike with the rod and lift up their staff against you as the Egyptians did. ^25^For in a very little while my fury will come to an end, and my anger will be directed to their destruction."
 
-**經文核對**：ai-eden.com 為 JS 動態載入頁面，本次無法直接抓取純文字內容；改以 [cnbible.com/isaiah/9.htm](https://cnbible.com/isaiah/9.htm)、[cnbible.com/isaiah/10.htm](https://cnbible.com/isaiah/10.htm)（CUVT 和合本傳統版欄）與 [biblehub.com/esv/isaiah/9.htm](https://biblehub.com/esv/isaiah/9.htm)、[biblehub.com/esv/isaiah/10.htm](https://biblehub.com/esv/isaiah/10.htm)（ESV）逐節核對，「裡」已統一改為本書慣用之「裏」。
+**經文核對**：本章中英經文已逐節核對 [ai-eden.com/bible/isaiah/9](https://www.ai-eden.com/bible/isaiah/9?t=CUV,ESV&cols=2)、[ai-eden.com/bible/isaiah/10](https://www.ai-eden.com/bible/isaiah/10?t=CUV,ESV&cols=2)（和合本 CUV 與 ESV 對照欄），並依本書文字政策將「裡」統一改為「裏」、「什麼」統一改為「甚麼」。
 
 ---
 
@@ -94,7 +94,7 @@ publisher: 三書精讀出版系統
 
 **「那生的嬰孩」與大衛的寶座**：9:6-7延續7:14以馬內利的應許，把焦點從「一個名字」推進到「一個統治者」——祂要坐在大衛的寶座上，以公平公義治理，且政權「加增無窮」，這遠超任何猶大王朝的君王所能成就，是把大衛之約（撒下7:12-16）推向終極應驗的宣告。
 
-**六個「雖然如此」的審判詩**：9:8-10:4是一首結構工整的審判詩，描寫北國以色列因驕傲、悖逆、社會不義而遭受一波接一波的災難，每一段都以副歌「雖然如此，耶和華的怒氣還未轉消；他的手仍伸不縮」收束（9:12, 17, 21；10:4），顯明審判尚未窮盡，警告仍未止息。
+**四段「雖然如此」的審判詩**：9:8-10:4是一首結構工整的審判詩，分為四段（9:8-12、9:13-17、9:18-21、10:1-4），描寫北國以色列因驕傲、悖逆、社會不義而遭受一波接一波的災難，每一段都以同一句副歌收束——「雖然如此，耶和華的怒氣還未轉消；他的手仍伸不縮」（9:12, 17, 21；10:4）——顯明審判尚未窮盡，警告仍未止息。同一句副歌其實在5:25已先出現過一次，可見這是以賽亞刻意貫穿前後的一個結構記號。
 
 **亞述——神手中的杖，卻圖謀自己的野心**：10:5-19轉向亞述本身。神確實興起亞述作審判以色列與列國的工具（10:5-6），但亞述心裏想的卻是自高自大、吞滅列國的野心（10:7-11），與神差遣它的本意完全不同。神因此宣告，等祂藉亞述完成審判的工作之後，也要照樣審判亞述自高的心（10:12-19）。10:20-27轉向安慰：以色列的餘民必不再倚靠那擊打他們的（亞述），卻要誠實倚靠耶和華；10:28-34以一連串地名描繪亞述大軍逼近耶路撒冷的路線，卻在最高潮處，宣告主要親自「用鐵器砍下」這片看似不可一世的樹林。
 
@@ -103,8 +103,8 @@ publisher: 三書精讀出版系統
 | 段落 | 經文 | 主題 |
 |------|------|------|
 | 一 | 9:1-7 | 大光臨到，嬰孩降生——應許的高峰 |
-| 二 | 9:8-10:4 | 六重審判詩，副歌「他的手仍伸不縮」——北國步步走向滅亡 |
-| 三 | 10:1-4 | 禍哉：不義的律例與被欺壓的窮人、寡婦、孤兒 |
+| 二 | 9:8-21 | 審判詩前三段，副歌「他的手仍伸不縮」——北國步步走向滅亡 |
+| 三 | 10:1-4 | 審判詩末段——禍哉：不義的律例與被欺壓的窮人、寡婦、孤兒 |
 | 四 | 10:5-19 | 亞述：神手中的杖，卻圖謀自己的野心，終必自取審判 |
 | 五 | 10:20-27 | 餘民必歸回，誠實倚靠耶和華－以色列的聖者 |
 | 六 | 10:28-34 | 亞述大軍步步進逼，主卻要親自砍伐這片驕傲的樹林 |
@@ -116,7 +116,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 原文 | 音譯 | 意義 | 出現位置 | 註解 |
-|----------------|----------|------------|------------|----------------------------------------|
+|----------------------|-----------------|--------------|-------------|----------------------------------|
 | פֶּלֶא יוֹעֵץ | pele yo'etz | 奇妙策士 | 9:6 | 希伯來文法上是一個連綴詞組（非兩個並列稱號），意即「策劃奇妙之事的那一位」，強調祂的謀略本身超乎人所能測度 |
 | אֵל גִּבּוֹר | El gibbor | 全能的神 | 9:6 | 同一片語在10:21再次出現，直接稱耶和華為「אֵל גִּבּוֹר」，顯明這孩子與耶和華同享此一神聖稱號 |
 | אֲבִיעַד | avi-ad | 永在的父 | 9:6 | 直譯「永恆之父」，非指位格上的父神，而是強調祂護庇百姓、永不止息的父性眷顧 |
@@ -164,8 +164,8 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> **體例說明**：標明「要旨綜述」者，是編者按該解經者著作要旨所作的中文撮述，**非逐字引文，不應作為原文引用轉引**。
+> 以引號標示並附出處者，為經逐字核校的原文引用。
 
 ### 教父時期
 
@@ -177,11 +177,25 @@ publisher: 三書精讀出版系統
 
 ### 改革宗時期
 
-**約翰·加爾文（John Calvin）· 要旨綜述**：
+**約翰·加爾文 (John Calvin)** · 論9:6「全能的神」：
 
-加爾文論9:6-7時，強調這節經文不只是預言基督的降生，更宣告祂國度的性質——「以公平公義使國堅定穩固，從今直到永遠」。他指出，這國度的堅定不是倚靠武力或政治手段維繫，而是「萬軍之耶和華的熱心」親自成就，藉此提醒讀者，基督的國度雖然此刻看似隱而不顯，卻有神自己的信實作為根基，必不落空。論到10章亞述的驕傲，加爾文則強調，神使用惡人成就祂的旨意，並不使那惡人的動機或罪責因此得到開脫——神的護理（providence）與人的責任在此並行不悖。
+> "אל (*El*) is one of the names of God, though derived from *strength*, so that it is sometimes added as an attribute. But here it is evidently a proper name, because Isaiah is not satisfied with it, and in addition to it employs the adjective גבור, (*gibbor*,) which means *strong*. … And indeed if Christ had not been *God*, it would have been unlawful to glory in him; for it is written, Cursed be he that trusteth in man."
+>
+> 「אל（El）是神的名字之一，雖出於『力量』一義，故有時也用作屬性的形容。但在此處它顯然是一個專有名稱，因為以賽亞並不以此為滿足，還在其上加了形容詞 גבור（gibbor），意即『大能的』。……的確，基督若不是神，以祂為誇口就是不合法的；因為經上記著說：倚靠人的，必受咒詛。」
+>
+> — John Calvin, *Commentary on Isaiah*, Vol. 1, 論賽9:6（CCEL, calcom13）
 
-— 參 John Calvin, *Commentary on the Book of the Prophet Isaiah*, Vol. 1（論賽9:6-7；10:5-15）
+加爾文的論證方式很典型：他先從文法入手——先知既已用了神的名 אל，卻仍嫌不足，再加上 גבור，可見這不是君王頌詞的客套，而是刻意加重的神聖稱號；他再從敬拜的實踐反推——聖經既禁止人倚靠人（耶17:5），信徒若以基督為誇口而基督不是神，這誇口本身就成了受咒詛的事。
+
+**約翰·加爾文 (John Calvin)** · 論10:5-7 神使用惡人：
+
+> "It is therefore accidental, so far as relates to men, that he acts by the wicked and reprobate; for they neither know that they serve God, nor wish to do so. … Although their attempts and plans are totally different, yet this will not prevent God from performing and carrying into execution, by means of them, whatever he has decreed."
+>
+> 「因此，就人這一面而言，神藉惡人與被棄者行事，於他們是偶然的；因為他們既不知道自己在服事神，也不願意服事神。……他們的圖謀與計劃雖然全然不同，這卻絲毫不能攔阻神藉著他們成就、施行祂所定的一切旨意。」
+>
+> — John Calvin, *Commentary on Isaiah*, Vol. 1, 論賽10:6-7（CCEL, calcom13）
+
+這正是10:5-15一段最要緊的分辨：神的護理（providence）與人的責任並行不悖。亞述被神差遣，卻「不是這樣的意思」（10:7）；神的旨意藉它成就，它自己的動機與罪責卻絲毫沒有因此得到開脫。
 
 ### 當代釋經
 
@@ -315,7 +329,7 @@ publisher: 三書精讀出版系統
 ## 與其他經文的關聯
 
 | 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
+|------------------------------|-------------|---------------------------------------------------------|
 | 加利利的大光 | 9:1-2 | 太4:14-16；約8:12 |
 | 一嬰孩為我們而生，四個稱號 | 9:6-7 | 撒下7:12-16；路1:32-33；西2:9 |
 | 神使用惡人成就審判，卻仍究其罪責 | 10:5-15 | 徒2:23；徒4:27-28 |

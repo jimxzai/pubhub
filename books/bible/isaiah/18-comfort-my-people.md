@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：安慰 Comfort（40:1）** \
 > **全書骨幹座標**：這是全書最重要的轉折點——卷一至卷四（1-39章，審判之卷）在此結束，卷五（40-55章，安慰之卷）由此開啟。同一位「以色列的聖者」（40:25），祂的聖潔審判了罪（1-39章），如今這份聖潔要親自成就拯救（40-66章）。（全書骨幹見〈以色列的聖者——全書的骨幹〉）
 
-「你們要安慰，安慰我的百姓！」（40:1）——這句話不是安慰劑，是宣判：「她爭戰的日子已滿了，她的罪孽赦免了」（40:2）。安慰之所以能說出口，是因為審判已經成就。緊接著，曠野裏有人聲喊叫，要修直耶和華的路（40:3-5）——四卷福音書眾口一詞，說這人聲就是施洗約翰，他預備的道路，最終走向的是那位在53章被鞭傷的僕人。本章末了，先知把神的偉大鋪陳到極致——量諸水、稱山嶺、按名數點星宿的那一位（40:12-26），卻是等候祂的人可以支取力量的那一位（40:28-31）。全能與溫柔，在同一位神身上從不衝突。
+「你們要安慰，安慰我的百姓！」（40:1）——這句話不是安慰劑，是宣判：「他爭戰的日子已滿了；他的罪孽赦免了」（40:2）。安慰之所以能說出口，是因為審判已經成就。緊接著，曠野裏有人聲喊叫，要修直耶和華的路（40:3-5）——四卷福音書眾口一詞，說這人聲就是施洗約翰，他預備的道路，最終走向的是那位在53章被鞭傷的僕人。本章末了，先知把神的偉大鋪陳到極致——量諸水、稱山嶺、按名數點星宿的那一位（40:12-26），卻是等候祂的人可以支取力量的那一位（40:28-31）。全能與溫柔，在同一位神身上從不衝突。
 
 ---
 
@@ -42,7 +42,7 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^你們的神說：「你們要安慰，安慰我的百姓！^2^要對耶路撒冷說安慰的話，又向她宣告說，她爭戰的日子已滿了，她的罪孽赦免了，她為自己的一切罪從耶和華手中加倍受罰。」^3^有人聲喊著說：「在曠野預備耶和華的路，在沙漠地修平我們神的道！^4^一切山窪都要填滿，大小山岡都要削平；高高低低的要改為平坦，崎崎嶇嶇的必成為平原。^5^耶和華的榮耀必然顯現；凡有血氣的必一同看見；因為這是耶和華親口說的。」
+> ^1^你們的神說：「你們要安慰，安慰我的百姓！^2^要對耶路撒冷說安慰的話，又向他宣告說，他爭戰的日子已滿了；他的罪孽赦免了；他為自己的一切罪，從耶和華手中加倍受罰。」^3^有人聲喊著說：「在曠野預備耶和華的路，在沙漠地修平我們神的道！^4^一切山窪都要填滿，大小山岡都要削平；高高低低的要改為平坦，崎崎嶇嶇的必成為平原。^5^耶和華的榮耀必然顯現；凡有血氣的必一同看見；因為這是耶和華親口說的。」
 
 > ^6^有人聲說：「你喊叫罷！」有一個說：「我喊叫甚麼呢？」說：「凡有血氣的盡都如草；他的美容都像野地的花。^7^草必枯乾，花必凋殘，因為耶和華的氣吹在其上；百姓誠然是草。^8^草必枯乾，花必凋殘，惟有我們神的話必永遠立定。」
 
@@ -68,11 +68,11 @@ publisher: 三書精讀出版系統
 
 > ^21^Do you not know? Do you not hear? Has it not been told you from the beginning? Have you not understood from the foundations of the earth? ^22^It is he who sits above the circle of the earth, and its inhabitants are like grasshoppers; who stretches out the heavens like a curtain, and spreads them like a tent to dwell in; ^23^who brings princes to nothing, and makes the rulers of the earth as emptiness.
 
-> ^25^To whom then will you compare me, that I should be like him? says the Holy One. ^26^Lift up your eyes on high and see: who created these? He who brings out their host by number, calling them all by name, by the greatness of his might, and because he is strong in power, not one is missing.
+> ^25^To whom then will you compare me, that I should be like him? says the Holy One. ^26^Lift up your eyes on high and see: who created these? He who brings out their host by number, calling them all by name; by the greatness of his might and because he is strong in power, not one is missing.
 
 > ^28^Have you not known? Have you not heard? The LORD is the everlasting God, the Creator of the ends of the earth. He does not faint or grow weary; his understanding is unsearchable. ^29^He gives power to the faint, and to him who has no might he increases strength. ^30^Even youths shall faint and be weary, and young men shall fall exhausted; ^31^but they who wait for the LORD shall renew their strength; they shall mount up with wings like eagles; they shall run and not be weary; they shall walk and not faint.
 
-**經文核對**：ai-eden.com 該頁為 JavaScript 動態渲染，WebFetch 無法擷取逐節文字，已改依項目慣例改用 [cnbible.com/isaiah/40.htm](https://cnbible.com/isaiah/40.htm)（和合本 CUV）及 [biblegateway.com](https://www.biblegateway.com/passage/?search=Isaiah+40&version=ESV)（ESV）逐節核對。
+**經文核對**：[ai-eden.com/bible/isaiah/40](https://www.ai-eden.com/bible/isaiah/40?t=CUV,ESV&cols=2)（和合本 CUV 與 ESV 對照）逐節核校。「裏」「甚麼」依本書文字政策統一。
 
 ---
 
@@ -97,7 +97,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 原文 | 音譯 | 意義 | 出現位置 | 註解 |
-|----------------|----------|------------|------------|----------------------------------------|
+|----------------------|-----------------|--------------|-------------|----------------------------------|
 | נָחַם | nacham | 安慰、後悔 | 40:1（重複兩次：「安慰，安慰」） | 後半卷（40-66章）的開場詞，希伯來文重複動詞表達語氣的加強與迫切 |
 | קוֹל קוֹרֵא | qol qore | 「有人聲喊著」 | 40:3 | 四卷福音書（太3:3；可1:3；路3:4-6；約1:23）都引用這節指施洗約翰 |
 | מְסִלָּה | mesillah | 大道、修平的路 | 40:3 | 與波斯帝國為君王出巡預先修築御道的古代習俗相呼應，神為自己「修路」 |
@@ -119,11 +119,11 @@ publisher: 三書精讀出版系統
 
 ### 1. 安慰以審判的完成為前提
 
-「她爭戰的日子已滿了，她的罪孽赦免了」（40:2）——安慰不是繞過審判說出的廉價安慰劑，而是建立在審判已經滿足、代價已經付清的事實之上。這與53章「因他受的刑罰，我們得平安」（53:5）的邏輯完全一致：拯救從不繞過審判，而是承擔了審判。
+「他爭戰的日子已滿了；他的罪孽赦免了」（40:2）——安慰不是繞過審判說出的廉價安慰劑，而是建立在審判已經滿足、代價已經付清的事實之上。這與53章「因他受的刑罰，我們得平安」（53:5）的邏輯完全一致：拯救從不繞過審判，而是承擔了審判。
 
 ### 2. 曠野的呼聲——四卷福音書共同的見證
 
-40:3-5「在曠野預備耶和華的路」，是舊約中被新約引用頻率最高的經文之一，四卷福音書全部引用（太3:3；可1:3；路3:4-6；約1:23），一致指向施洗約翰。约翰福音更進一步記載，約翰自己引用這節經文來回答「你是誰」的提問（約1:23）——先知七百年前的宣告，成了施洗者對自己使命最精確的自我認識。
+40:3-5「在曠野預備耶和華的路」，是舊約中被新約引用頻率最高的經文之一，四卷福音書全部引用（太3:3；可1:3；路3:4-6；約1:23），一致指向施洗約翰。約翰福音更進一步記載，約翰自己引用這節經文來回答「你是誰」的提問（約1:23）——先知七百年前的宣告，成了施洗者對自己使命最精確的自我認識。
 
 ### 3. 草必枯乾，花必凋殘——唯有神的話永遠立定
 
@@ -131,7 +131,7 @@ publisher: 三書精讀出版系統
 
 ### 4. 神的無可比擬——偶像與萬國都算不得甚麼
 
-40:12-26用一連串修辭問句，把神的偉大與受造之物、列國君王、偶像相比——「他使君王歸於虛無」（40:23），「萬民都像水桶的一滴」（40:15，見下章）。這一段是後面41-48章反覆展開的「唯獨耶和華」神學的序曲。
+40:12-26用一連串修辭問句，把神的偉大與受造之物、列國君王、偶像相比——「他使君王歸於虛無」（40:23），「萬民都像水桶的一滴」（40:15）。這一段是後面41-48章反覆展開的「唯獨耶和華」神學的序曲。
 
 ### 5. 等候耶和華的必從新得力
 
@@ -145,8 +145,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者立場的綜述，非逐字引文。
+> **體例說明**：本節除已標明出處的加爾文引文外，其餘是歷代解經者**立場的綜述**，非逐字引文。
 > 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> 加爾文一段為經逐字核校的原始引文，中譯附於英文之後。
 
 ### 教父時期
 
@@ -154,7 +155,23 @@ publisher: 三書精讀出版系統
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin)** — 要旨綜述：加爾文在其《以賽亞書注釋》(*Commentary on the Book of the Prophet Isaiah*, CCEL) 論40章時強調，這裏的「安慰」不是感性的安慰，而是建基於神已經定意、且必然成就之應許的確據——百姓所需要的不是情緒上的振奮，而是重新認識神的信實與大能（40:12-26 那一連串反問句），因為唯有先認識神是誰，安慰的話才立得住。加爾文也特別看重40:31「等候耶和華」，將其理解為信心操練的核心：真信心從不催逼神立刻成就，而是在等候中支取力量。
+**約翰·加爾文 (John Calvin)**：
+
+> "By this exhortation, therefore, the Lord intended to stir up the hearts of the godly, that they might not faint, amidst heavy calamities."
+>
+> 「因此，主藉這句勸勉，是要激勵敬虔之人的心，使他們在沉重的災難之中不至喪膽。」——論40:1。
+>
+> "The repetition of the word not only confirms the certainty of the prediction, but applauds its power and success, as if he had said, that in this message there will be abundant, full, and unceasing cause of joy."
+>
+> 「這個字的重複，不只是確認了預言的必然，更是稱揚它的能力與果效——好像他說，在這信息裏必有豐盛、滿溢、永不止息的喜樂根據。」——論40:1。
+>
+> "We must not become agitated, or throw ourselves forward rashly, but 'wait' patiently. In this passage, therefore, waiting means nothing else than patience. Violent men dash themselves to pieces by their own eagerness, but the vigor of godly men, though it has less display, and often appears to lie buried while they calmly 'wait for' God's assistance, is refreshed and renewed."
+>
+> 「我們不可焦躁，也不可魯莽地往前衝，乃要忍耐地『等候』。所以在這段經文裏，等候的意思不外乎忍耐。暴躁的人因自己的急切而撞得粉碎；敬虔之人的力量雖然不那麼張揚，甚至在他們安靜『等候』神幫助的時候彷彿被埋沒了，卻正在得著更新、重新得力。」——論40:31。
+>
+> — John Calvin, *Commentary on Isaiah*, Vol. 3（Isaiah 33-48），CCEL calcom15，論40:1、40:31
+
+**其餘要旨綜述**：加爾文論40章時強調，這裏的「安慰」不是感性的撫慰，而是建基於神已經定意、且必然成就之應許的確據——百姓所需要的不是情緒上的振奮，而是重新認識神的信實與大能（40:12-26 那一連串反問句），因為唯有先認識神是誰，安慰的話才立得住。上引論40:1兩段值得留意的是加爾文的兩層分辨：「你們要安慰」用的是複數，他讀為神要差下「一大群先知」的記號；而「安慰」一詞的重複，則是確認預言的必然、並宣揚其中豐盛不止息的喜樂。複數與重複合起來說的是同一件事——重複不只是修辭上的加重語氣，是神主動、加倍地把祂的話語送到絕望之人耳中。至於40:31的「等候」，加爾文的解釋（等候即忍耐）與本章原文研讀所說「如繩索般拉緊」互為表裏：繩索拉得最緊的時候，正是它最安靜、最不動的時候。
 
 ### 當代釋經
 
@@ -285,7 +302,7 @@ publisher: 三書精讀出版系統
 ## 與其他經文的關聯
 
 | 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
+|------------------------------|-------------|---------------------------------------------------------|
 | 安慰以審判完成為前提 | 40:1-2 | 賽53:5、林後1:3-4 |
 | 曠野的呼聲——四福音的共同見證 | 40:3-5 | 太3:3、可1:3、路3:4-6、約1:23 |
 | 凡有血氣的盡都如草 | 40:6-8 | 彼前1:24-25、雅1:10-11 |

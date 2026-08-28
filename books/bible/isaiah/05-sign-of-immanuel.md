@@ -50,7 +50,7 @@ publisher: 三書精讀出版系統
 
 > ^17^耶和華必使亞述王攻擊你的日子臨到你和你的百姓，並你的父家，自從以法蓮離開猶大以來，未曾有這樣的日子。」
 
-> ^3^我－以賽亞與妻子（原文是女先知）同室；她懷孕生子，耶和華就對我說：「給他起名叫瑪黑珥沙拉勒哈施罷斯；^4^因為在這小孩子不曉得叫父叫母之先，大馬色的財寶和撒瑪利亞的擄物必在亞述王面前搬了去。」
+> ^3^我－以賽亞與妻子（原文是女先知）同室；他懷孕生子，耶和華就對我說：「給他起名叫瑪黑珥沙拉勒哈施罷斯；^4^因為在這小孩子不曉得叫父叫母之先，大馬色的財寶和撒瑪利亞的擄物必在亞述王面前搬了去。」
 
 > ^6^「這百姓既厭棄西羅亞緩流的水，喜悅利汛和利瑪利的兒子；^7^因此，主必使大河翻騰的水猛然沖來，就是亞述王和他所有的威勢，必漫過一切的水道，漲過兩岸；^8^必沖入猶大，漲溢氾濫，直到頸項。以馬內利啊，他展開翅膀，遍滿你的地。」
 
@@ -74,7 +74,7 @@ publisher: 三書精讀出版系統
 
 > ^16^Bind up the testimony; seal the teaching among my disciples. ^17^I will wait for the Lord, who is hiding his face from the house of Jacob, and I will hope in him. ^18^Behold, I and the children whom the Lord has given me are signs and portents in Israel from the Lord of hosts, who dwells on Mount Zion.
 
-**經文核對**：ai-eden.com 目前無法以純文字方式抓取（該站為 JS 動態載入頁面），本章經文改以 [cnbible.com/isaiah/7.htm](https://cnbible.com/isaiah/7.htm)、[cnbible.com/isaiah/8.htm](https://cnbible.com/isaiah/8.htm)（CUVT 和合本傳統版欄）與 [biblehub.com/esv/isaiah/7.htm](https://biblehub.com/esv/isaiah/7.htm)、[biblehub.com/esv/isaiah/8.htm](https://biblehub.com/esv/isaiah/8.htm)（ESV）逐節核對，並將原文之「裡」統一改為本書慣用之「裏」。
+**經文核對**：本章中英經文已逐節核對 [ai-eden.com/bible/isaiah/7](https://www.ai-eden.com/bible/isaiah/7?t=CUV,ESV&cols=2)、[ai-eden.com/bible/isaiah/8](https://www.ai-eden.com/bible/isaiah/8?t=CUV,ESV&cols=2)（和合本 CUV 與 ESV 對照欄），並依本書文字政策將「裡」統一改為「裏」、「什麼」統一改為「甚麼」。
 
 ---
 
@@ -109,11 +109,11 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 原文 | 音譯 | 意義 | 出現位置 | 註解 |
-|----------------|----------|------------|------------|----------------------------------------|
+|----------------------|-----------------|--------------|-------------|----------------------------------|
 | עַלְמָה | almah | 少婦、適婚年齡未嫁的女子（傳統譯「童女」）| 7:14 | 七十士譯本譯作希臘文 παρθένος（處女），馬太福音1:23直接引用此節宣告耶穌誕生的應驗 |
 | עִמָּנוּ אֵל | Immanu El | 神與我們同在 | 7:14；8:8, 10 | 從應許的孩子之名（7:14），到審判洪流中土地仍屬「以馬內利」（8:8），再到列國徒然謀害卻「因為神與我們同在」（8:10）——同一句話貫穿審判與應許 |
 | שְׁאָר יָשׁוּב | Shear-yashuv | 餘民必歸回 | 7:3 | 以賽亞長子的名字，本身就是一篇濃縮的神學宣言——審判不是滅絕的終點，必有餘民歸回 |
-| אָמַן（תַאֲמִינוּ／תֵאָמֵנוּ）| ta'aminu / te'amenu | 相信／立穩 | 7:9 | 同一字根的雙關語，希伯來文原意直譯：「你們若不信（ta'aminu），必不得立穩（te'amenu）」——信與立，出自同一個字根 |
+| אָמַן | aman | 相信／立穩 | 7:9 | 同一字根的雙關語，希伯來文原意直譯：「你們若不信（תַאֲמִינוּ，ta'aminu），必不得立穩（תֵאָמֵנוּ，te'amenu）」——信與立，出自同一個字根 |
 | אוֹת | oth | 兆頭、記號 | 7:11, 14；8:18 | 神主動要賜的，亞哈斯卻拒絕求討；先知與兒女後來卻「作為預兆」，成了活的記號 |
 | מִקְדָּשׁ／אֶבֶן נֶגֶף | miqdash / even negeph | 聖所／絆腳的石頭 | 8:14 | 同一位神，向信靠祂的人是聖所庇護，向硬心的人卻是絆跌的石頭——保羅（羅9:33）、彼得（彼前2:8）都直接引用此節論基督 |
 
@@ -157,8 +157,8 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> **體例說明**：標明「要旨綜述」者，是編者按該解經者著作要旨所作的中文撮述，**非逐字引文，不應作為原文引用轉引**。
+> 以引號標示並附出處者，為經逐字核校的原文引用。
 
 ### 教父時期
 
@@ -170,11 +170,15 @@ publisher: 三書精讀出版系統
 
 ### 改革宗時期
 
-**約翰·加爾文（John Calvin）· 要旨綜述**：
+**約翰·加爾文 (John Calvin)**：
 
-加爾文在《以賽亞書注釋》中處理7:14時，採取一種雙重指涉的讀法：他認為這節經文首要、直接的意義就是指向基督由童女所生，因為只有這樣一個超乎尋常的神蹟，才配得上「兆頭」這個詞所要求的分量——一個尋常已婚婦人懷孕生子，根本不足以構成向亞哈斯所應許的「或求顯在深處，或求顯在高處」那樣的兆頭。同時，加爾文也承認先知的话語在亞哈斯自己的世代裏有其現實的果效，用以堅固猶大百姓的信心，但這現實果效並不減損經文終極指向基督的意義。
+> "For what wonderful thing did the Prophet say, if he spoke of *a young woman* who *conceived* through intercourse with a man? It would certainly have been absurd to hold out this as a *sign* or a miracle. Let us suppose that it denotes a young woman who should become pregnant in the ordinary course of nature; everybody sees that it would have been silly and contemptible for the Prophet, after having said that he was about to speak of something strange and uncommon, to add, *A young woman shall conceive*."
+>
+> 「先知若只是說一個少婦因與男子同房而懷孕，那有甚麼希奇可言呢？把這樣的事舉出來當作『兆頭』或神蹟，實在荒謬。就假定這裏指的是一個按自然常理懷孕的少婦罷——人人都看得出，先知既已聲明他要說的是一件希奇罕見的事，接著卻只添上一句『必有少婦懷孕』，那是何等幼稚而不足取。」
+>
+> — John Calvin, *Commentary on Isaiah*, Vol. 1, 論賽7:14（CCEL, calcom13）
 
-— 參 John Calvin, *Commentary on the Book of the Prophet Isaiah*, Vol. 1（論賽7:14）
+加爾文的論證緊扣「兆頭」一詞本身的分量：神既主動邀請亞哈斯「或求顯在深處，或求顯在高處」（7:11），祂親自賜下的兆頭就必須是超乎自然常理的。因此加爾文認為，7:14首要、直接的意義就是指向基督由童女所生；先知的話語在亞哈斯自己的世代裏固然有其現實的果效，用以堅固猶大百姓的信心，但這現實果效並不減損經文終極指向基督的意義。
 
 ### 當代釋經
 
@@ -190,7 +194,7 @@ publisher: 三書精讀出版系統
 
 ### 詩篇 46:7, 11
 
-> **萬軍之耶和華與我們同在；雅各的神是我們的避難所。（細拉）**
+> **萬軍之耶和華與我們同在；雅各的神是我們的避難所！（細拉）**
 
 這句話幾乎就是「以馬內利」的詩篇版本——不是抽象的神學命題，而是敬拜者在患難之中親身經歷的宣告。亞哈斯若肯信靠這句話，就不需要向亞述求救。
 
@@ -308,7 +312,7 @@ publisher: 三書精讀出版系統
 ## 與其他經文的關聯
 
 | 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
+|------------------------------|-------------|---------------------------------------------------------|
 | 以馬內利：神與我們同在 | 7:14；8:8, 10 | 太1:22-23；太28:20；啟21:3 |
 | 童女懷孕生子 | 7:14 | 太1:18-25；路1:26-35 |
 | 假借敬虔之名的不信 | 7:11-13 | 太15:8-9；提後3:5 |

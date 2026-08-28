@@ -69,7 +69,7 @@ publisher: 三書精讀出版系統
 
 > ^1^Who has believed what he has heard from us? And to whom has the arm of the LORD been revealed? ^2^For he grew up before him like a young plant, and like a root out of dry ground; he had no form or majesty that we should look at him, and no beauty that we should desire him. ^3^He was despised and rejected by men, a man of sorrows and acquainted with grief; and as one from whom men hide their faces he was despised, and we esteemed him not. ^4^Surely he has borne our griefs and carried our sorrows; yet we esteemed him stricken, smitten by God, and afflicted. ^5^But he was pierced for our transgressions; he was crushed for our iniquities; upon him was the chastisement that brought us peace, and with his wounds we are healed. ^6^All we like sheep have gone astray; we have turned—every one—to his own way; and the LORD has laid on him the iniquity of us all. ^7^He was oppressed, and he was afflicted, yet he opened not his mouth; like a lamb that is led to the slaughter, and like a sheep that before its shearers is silent, so he opened not his mouth. ^8^By oppression and judgment he was taken away; and as for his generation, who considered that he was cut off out of the land of the living, stricken for the transgression of my people? ^9^And they made his grave with the wicked and with a rich man in his death, although he had done no violence, and there was no deceit in his mouth. ^10^Yet it was the will of the LORD to crush him; he has put him to grief; when his soul makes an offering for guilt, he shall see his offspring; he shall prolong his days; the will of the LORD shall prosper in his hand. ^11^Out of the anguish of his soul he shall see and be satisfied; by his knowledge shall the righteous one, my servant, make many to be accounted righteous, and he shall bear their iniquities. ^12^Therefore I will divide him a portion with the many, and he shall divide the spoil with the strong, because he poured out his soul to death and was numbered with the transgressors; yet he bore the sin of many, and makes intercession for the transgressors.
 
-**經文核對**：[cnbible.com/isaiah/51](https://cnbible.com/isaiah/51.htm)、[cnbible.com/isaiah/52](https://cnbible.com/isaiah/52.htm)、[cnbible.com/isaiah/53](https://cnbible.com/isaiah/53.htm)（ai-eden.com為JS動態頁面，未能直接擷取文字，改以cnbible.com逐節核校和合本全文；ESV依現有知識引用，此章為全書最重要段落，已逐節與熟知的標準ESV文本比對，建議日後仍以ai-eden.com覆核）
+**經文核對**：[ai-eden.com/bible/isaiah/51](https://www.ai-eden.com/bible/isaiah/51?t=CUV,ESV&cols=2)、[/52](https://www.ai-eden.com/bible/isaiah/52?t=CUV,ESV&cols=2)、[/53](https://www.ai-eden.com/bible/isaiah/53?t=CUV,ESV&cols=2)（本章為全書最重要段落，51、52、53 三章和合本經文已逐節與 ai-eden.com 比對，全數相符；和合本原文中的「或譯」另譯註記，依全書體例一律略去）
 
 ---
 
@@ -95,12 +95,26 @@ publisher: 三書精讀出版系統
 
 三次「興起」層層堆疊，讀者的期待被一路推高——神要如何解決百姓的罪與流亡？52:13-53:12給出的答案，出乎所有人意料：不是憑百姓自己興起，是那位僕人先「被高舉」之前，先徹底地俯就到最低。
 
+### 逐節縱覽：52:13-53:12 的五個轉折
+
+這篇僕人之歌值得逐節慢讀一次。全段十五節，藏著五個轉折——每一個轉折，都把讀者對「這位僕人是誰」的理解再翻一層：
+
+**第一轉：先講結局，再講過程（52:13-15）。** 開場第一句就是「我的僕人行事必有智慧，必被高舉上升，且成為至高」——結局先揭曉了。緊接著第14節卻急轉直下：「他的面貌比別人憔悴，他的形容比世人枯槁」。**先知刻意把最高與最低並排放在一起，不讓讀者把受苦讀成失敗。** 15節「他必洗淨許多國民」，第一次暗示這位僕人的工作範圍遠超以色列一國。
+
+**第二轉：從「他」到「我們」（53:1-3）。** 1節那句反問「我們所傳的有誰信呢？」把敘事者換成了一個複數的「我們」——一群後來才醒悟過來的見證人。他們承認自己當初的判斷完全錯了：「他無佳形美容……我們也不尊重他」（2-3節）。**這一段最扎心之處，在於說話的不是敵人，是「我們」。**
+
+**第三轉：從誤判到真相——四個「我們的」（53:4-6）。** 這是全章的軸心。4節「他誠然擔當**我們的**憂患，背負**我們的**痛苦」，5節「為**我們的**過犯受害，為**我們的**罪孽壓傷」——四次「我們的」，把罪的歸屬釘得毫無模糊空間。而4節下半句「我們卻以為他受責罰，被神擊打苦待了」，正是「我們」當初誤判的自白：**我們以為他在為自己的罪受罰，其實他在為我們的罪受罰。** 6節用一句話收束：「我們都如羊走迷，各人偏行己路；耶和華使我們眾人的罪孽都歸在他身上」——前半句人人有分，後半句一人承擔。
+
+**第四轉：沉默與不公（53:7-9）。** 7節「他被欺壓，在受苦的時候卻不開口」，8節「因受欺壓和審判，他被奪去」——審判程序本身就是不義的。9節那句「他雖然未行強暴，口中也沒有詭詐」，是全章唯一一次正面陳述僕人的無辜；也正因為無辜，前面那些「為我們」才站得住——**若他自己有罪，他的死就只夠償他自己的債。**
+
+**第五轉：死亡不是句號（53:10-12）。** 10節「耶和華卻定意將他壓傷」——這一切不是意外，是神自己的旨意。同一節接著說他「必看見後裔，並且延長年日」；12節說他「將命傾倒，以致於死」，卻要「與位大的同分」。**一個已死的人如何延長年日、如何同分擄物？這幾句話本身就要求一個復活。** 全章最後一句「他卻擔當多人的罪，又為罪犯代求」——代求是大祭司的工作，僕人死了，工作卻還在繼續。
+
 ---
 
 ## 原文研讀 (Word Study)
 
 | 原文 | 音譯 | 意義 | 出現位置 | 註解 |
-|----------------|----------|------------|------------|----------------------------------------|
+|----------------------|-----------------|--------------|-------------|----------------------------------|
 | עֶבֶד | eved | 僕人 | 52:13；53:11 | 與49、50章的僕人之歌一脈相承，這裏是四篇僕人之歌中最完整的一篇 |
 | נִבְזֶה | nivzeh | 被藐視 | 53:3（兩次） | 同一個字根在詩22:6「被眾人羞辱」出現，兩段經文並讀，同指一位受苦的彌賽亞 |
 | מַכְאֹבוֹת | mach'ovot | 痛苦、憂患 | 53:3-4 | 與太8:17「他代替我們的軟弱，擔當我們的疾病」引用的正是這一組詞 |
@@ -146,24 +160,80 @@ publisher: 三書精讀出版系統
 
 保羅在林前15:3總結福音的核心：「基督照聖經所說，為我們的罪死了」。歷代解經者普遍認為，「照聖經所說」最直接指向的，正是以賽亞書53章這一段——沒有任何一段舊約經文，比這裏更清楚、更完整地預告了彌賽亞「為我們的罪」代死的事實。53章因此被稱為舊約裏最完整的福音書。
 
+### 7. 這是一篇「我們」的認罪，不是一篇旁觀者的報導
+
+53章從第1節起，敘事者就是一個複數的「我們」——而且是一群**改口**的「我們」。他們先承認自己當初看走了眼（「我們也不尊重他」，53:3），再承認自己當初的解釋完全錯了（「我們卻以為他受責罰」，53:4）。**這一章的力量，有一半來自說話者的身分：定他罪的和被他救的，是同一群人。** 這也決定了這章經文正確的讀法——不是站在一旁鑑定「這位僕人是誰」，是站進那個「我們」裏面，承認自己也在「各人偏行己路」的名單上（53:6）。老弟兄常提醒查經班：**你讀53章若始終用第三人稱，你其實還沒有讀進去。**
+
+### 8. 「僕人」是集體的以色列，還是那一位？——一個必須誠實面對的問題
+
+猶太解經傳統中有一個由來已久且值得認真對待的讀法：以賽亞書40-53章的「僕人」多處明指以色列全體（如41:8「我的僕人雅各」、49:3「你是我的僕人以色列」），因此53章的僕人也應讀為受苦的以色列民族。這個讀法不是憑空而來，它有前面經文的支持，基督徒不應輕率地當作無理取鬧而略過。
+
+但53章本身提供了兩處難以繞開的線索：其一，**8節說僕人受害是「因我百姓的罪過」**——僕人與「我百姓」在同一句話裏被區分開來，若僕人就是以色列全體，這句話便成了「因自己的罪過」而受害，代贖的邏輯隨即消失；其二，**9節說他「未行強暴，口中也沒有詭詐」**，而全卷以賽亞書對以色列的一貫控告，恰恰是他們悖逆、口舌詭詐（1:4；59:3-4）。以色列在這卷書裏從來不是無辜的一方。
+
+因此本書採取的立場是：**40-53章的「僕人」確有集體與個體兩重用法，而53章正是這條線索收束到那一位身上的地方**——集體的以色列失敗了，那位真正的「以色列」代替他們成全了使命。這也正是腓利在馬車上所做的事：太監問的正是這個問題——「是指著自己呢，是指著別人呢？」（徒8:34）——腓利的回答不是訴諸權威，而是「從這經上起首，對他傳講耶穌」（徒8:35）。
+
 ---
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
+> **體例說明**：本節凡**加引號並註明卷冊出處者，均經 CCEL 原文逐字核校**，可作原文引用；
+> 凡標明「要旨綜述」者，為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**殉道士游斯丁 (Justin Martyr)**——**要旨綜述**：游斯丁在他與猶太拉比崔弗（Trypho）的對話錄《與崔弗對話》（*Dialogue with Trypho*）裏，多次直接引用以賽亞書53章（連同52章下半段），力陳耶穌正是這位先知所預告、被藐視、受苦卻代人贖罪的彌賽亞；他的核心論證是：若非親眼見證應驗，沒有人會編造一位「受苦而非得勝」的彌賽亞——這與當時猶太人普遍期待的、政治性得勝的彌賽亞形象完全相反，唯一合理的解釋是這預言真實地應驗在拿撒勒人耶穌身上。這是教會歷史上最早、篇幅最長、以以賽亞書53章向猶太讀者辯護基督信仰的文獻之一。
+**殉道士游斯丁 (Justin Martyr)**：游斯丁在《與崔弗對話》（*Dialogue with Trypho*）第十三章，把整段以賽亞書52:10-54:6 一字不漏地引出來——這一章在 ANF 版本裏的標題就直接點明了主旨：
+
+> "Isaiah teaches that sins are forgiven through Christ's blood."
+>
+> 「以賽亞教導我們：罪得赦免，是藉著基督的血。」
+>
+> — *Dialogue with Trypho*, ch. XIII（章題），ANF Vol. 1，CCEL
+
+他引用之前的那句轉折，說明了他為甚麼要引這段經文——潔淨不在於水，而在於那位「正是為此而死」的：
+
+> "…but by faith through the blood of Christ, and through His death, who died for this very reason, as Isaiah himself said, when he spake thus:"
+>
+> 「……乃是藉著信，藉著基督的血，藉著祂的死——祂正是為此而死的，如以賽亞自己所說：」
+>
+> — *Dialogue with Trypho*, ch. XIII，ANF Vol. 1，CCEL
+
+**要旨綜述（游斯丁論證的整體策略）**：游斯丁面對的是一位猶太對話者，因此他不訴諸教會權威，只訴諸崔弗自己承認的先知書——他反覆要求對方解釋：一位「被藐視、被厭棄、受苦而非得勝」的彌賽亞形象，與當時猶太人普遍期待的政治性君王完全相反，若非確有其事，何以先知會如此寫？這是教會歷史上最早、篇幅最長、以以賽亞書53章向猶太讀者辯護基督信仰的文獻之一。
 
 **要旨綜述（教父普遍立場）**：除游斯丁外，教父時期的講道與護教文獻普遍將53:7「像羊羔被牽到宰殺之地」與約1:29施洗約翰稱耶穌為「神的羔羊」並讀，視為逾越節羔羊預表在53章裏找到最直接的先知性根據；53:9「他雖然未行強暴，口中也沒有詭詐」則常被引用，論證基督受死並非因自己犯罪，乃是完全無辜者代替有罪者受刑。
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin)**——**要旨綜述**：加爾文的《以賽亞書注釋》論53章，是他闡述基督代贖教義最集中的段落之一。他反覆強調的重點是：僕人所受的，是神公義所要求、原本該落在罪人身上的刑罰（53:5「因他受的刑罰，我們得平安」）；這不是僕人被動地承受不幸，是神「定意將他壓傷」（53:10）——救贖的計劃出於父神自己的旨意，基督甘心順服，成就了公義與慈愛在十架上同時得著滿足。加爾文也特別留意53:11「有許多人因認識我的義僕得稱為義」，將其與「稱義」（因信基督的義被算為義）的教義直接連結，視這節經文為舊約裏「因信稱義」最清楚的預表之一。
+**約翰·加爾文 (John Calvin)**：加爾文論53章，是他闡述代贖教義最集中的段落之一。以下四則均為逐字引文。
 
-> 出處：John Calvin, *Commentary on Isaiah*, 論賽53:4-6, 10-12（CCEL, calcom14）——原文為英譯，此處為編者按其論述要旨的中文撮述，非逐字翻譯。
+論53:5「因他受的刑罰，我們得平安」——他把「刑罰」直接定義為「本來該我們受的」：
+
+> "Christ was the price of 'our chastisement,' that is, of the chastisement which was due to us."
+>
+> 「基督成了『我們所受刑罰』的代價——也就是那本來該由我們承受的刑罰。」
+>
+> "The wrath of God, which had been justly kindled against us, was appeased; and through the Mediator we have obtained 'peace.'"
+>
+> 「神的忿怒本是公義地向我們發作的，如今卻已平息了；藉著這位中保，我們得著了『平安』。」
+
+論53:6「耶和華使我們眾人的罪孽都歸在他身上」——罪的重擔換了肩膀：
+
+> "Our sins are a heavy load; but they are laid on Christ, by whom we are freed from the load."
+>
+> 「我們的罪是一副沉重的擔子；但這擔子被放在基督身上，我們就藉著祂脫離了這重擔。」
+
+論53:10「耶和華卻定意將他壓傷」——加爾文用一問一答，把代贖的邏輯逼到最清楚的一句：
+
+> "In Christ there was no fault; why, then, was the Lord pleased that he should suffer? Because he stood in our room."
+>
+> 「基督裏面毫無過錯；那麼，耶和華為何喜悅祂受苦呢？因為祂站在我們的地位上。」
+
+論53:11「有許多人因認識我的義僕得稱為義」——他直接連到「稱義」不只是教導，而是實際成就：
+
+> "Men are not only taught righteousness in the school of Christ, but are actually justified."
+>
+> 「人在基督的學校裏，不僅僅是被教導何謂公義，更是實實在在地被稱為義。」
+
+> 出處：John Calvin, *Commentary on Isaiah*, Vol. IV（論賽 53:5, 6, 10, 11），CCEL, **calcom16**（該卷涵蓋賽 49-66 章）。上列英文均為 CCEL 原文逐字引錄，中譯為編者所譯。
 
 ### 當代釋經
 
@@ -294,7 +364,7 @@ publisher: 三書精讀出版系統
 ## 與其他經文的關聯
 
 | 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
+|------------------------------|-------------|---------------------------------------------------------|
 | 先卑微後高舉的次序 | 52:13-14 | 腓2:6-11；路24:26 |
 | 醫治身體疾病的應驗 | 53:4 | 太8:17 |
 | 代贖受苦，代替刑罰 | 53:5-6 | 彼前2:24-25；林後5:21；羅5:8 |

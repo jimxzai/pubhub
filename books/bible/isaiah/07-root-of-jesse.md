@@ -54,7 +54,7 @@ publisher: 三書精讀出版系統
 
 > ^2^"Behold, God is my salvation; I will trust, and will not be afraid; for the LORD GOD is my strength and my song, and he has become my salvation." ^3^With joy you will draw water from the wells of salvation.
 
-**經文核對**：[cnbible.com/isaiah/11.htm](https://cnbible.com/isaiah/11.htm)、[cnbible.com/isaiah/12.htm](https://cnbible.com/isaiah/12.htm)（CUV，逐節核對，並將原文之「裡」統一改為本書慣用之「裏」）；ESV 依現有知識引用，經文地址與中文對照後確認一致。
+**經文核對**：[ai-eden.com/bible/isaiah/11](https://www.ai-eden.com/bible/isaiah/11?t=CUV,ESV&cols=2)、[/12](https://www.ai-eden.com/bible/isaiah/12?t=CUV,ESV&cols=2)（和合本經文已逐節與 ai-eden.com 比對，全數相符；和合本原文中的「或譯」「原文是」另譯註記依全書體例略去，「裡」統一改為本書慣用之「裏」）
 
 ---
 
@@ -80,7 +80,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 原文 | 音譯 | 意義 | 出現位置 | 註解 |
-|----------------|----------|------------|------------|----------------------------------------|
+|----------------------|-----------------|--------------|-------------|----------------------------------|
 | חֹטֶר | choter | 枝條、嫩枝 | 11:1 | 從樹墩上長出的細嫩新枝，強調微小、不起眼的開始 |
 | גֵּזַע | geza | 樹墩、殘幹 | 11:1 | 樹被砍伐後留下的部分，呼應10:33-34亞述被砍伐的意象，對比大衛家看似已死的根基 |
 | נֵצֶר | netser | 枝子 | 11:1 | 與「拿撒勒」（נָצְרַת）字根相通，馬太福音2:23「他將稱為拿撒勒人」或與此字根的雙關有關 |
@@ -138,9 +138,17 @@ publisher: 三書精讀出版系統
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin)**：加爾文在其《以賽亞書注釋》中論到11:1時，強調先知刻意選用「耶西」而非「大衛」，正是要凸顯這應許回到最卑微的起點，好叫人看見這完全是神白白的揀選，不是人血統顯赫的自然延續；論到11:6-9的和平異象時，他認為這幅圖畫的重點不在於字面上野獸性情的改變，而在於指向福音要在人心中成就的更新——連最兇殘的敵意，都能在基督的國度裏止息。
+**約翰·加爾文 (John Calvin)**：加爾文論11:1，正面回答了本章最關鍵的一個問題——先知為甚麼說「耶西」，不說「大衛」？以下為逐字引文：
 
-> — John Calvin, *Commentary on the Book of the Prophet Isaiah*, Vol. II（論賽11:1-9），CCEL
+> "On this account he does not call him *David*, but *Jesse*; because the rank of that family had sunk so low, that it appeared to be not a royal family, but that of a mean peasant, such as the family of *Jesse* was, when David was unexpectedly called to the government of the kingdom."
+>
+> 「正因如此，他不稱他為『大衛』，卻稱為『耶西』；因為那家族的地位已經低落到一個地步，看起來不再像一個王室，倒像一個卑微農戶的家——正如當年大衛出人意外地被召去治理國家時，耶西家的光景一樣。」
+
+> "Having sustained this calamity and lost its ancient renown, it is denominated by the Prophet the family of *Jesse*, because that family had no superiority above any other."
+>
+> 「經歷了這場災禍、失去了昔日的名望之後，先知就稱它為『耶西的家』，因為那家族已經不比任何別的家族高出甚麼了。」
+
+> 出處：John Calvin, *Commentary on Isaiah*, Vol. I（論賽 11:1），CCEL, **calcom13**（該卷涵蓋賽 1-16 章）。上列英文為 CCEL 原文逐字引錄，中譯為編者所譯。
 
 ### 當代釋經
 
@@ -268,7 +276,7 @@ publisher: 三書精讀出版系統
 ## 與其他經文的關聯
 
 | 主題 | 本章經文 | 相關經文 |
-|------|----------|----------|
+|------------------------------|-------------|---------------------------------------------------------|
 | 耶西的本、大衛的苗裔 | 11:1, 10 | 撒下7:12-16、耶23:5、亞3:8、6:12、太1:1、啟22:16 |
 | 耶和華的靈住在他身上 | 11:2 | 賽42:1、賽61:1、太3:16、路4:18、啟1:4 |
 | 不憑眼見耳聞的公義審判 | 11:3-5 | 約7:24、約8:15-16、林前4:5 |

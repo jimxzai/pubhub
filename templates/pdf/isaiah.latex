@@ -44,8 +44,14 @@
   BoldFont=Times New Roman,
   BoldFeatures={FakeBold=2.0}
 ]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge — a
+% pure legibility defect that produces zero warnings and a clean driver.sh run.
+% Confirmed by an isolated repro comparing 1.0 / 1.35 / Arial Hebrew Scholar.
 \newfontfamily\hebrewfont{Times New Roman}[
   Script=Hebrew,
+  Scale=1.35,
   BoldFont=Times New Roman,
   BoldFeatures={FakeBold=2.0}
 ]
@@ -665,7 +671,7 @@ $body$
 \noindent 以賽亞書在新約中被直接引用或提及的次數，僅次於詩篇，遠超其他先知書，教會歷史上常被稱為「第五福音書」。本索引依以賽亞書經文順序，列出新約回應之處。
 
 {\small
-\begin{longtable}{@{}p{2.0cm}p{5.4cm}p{2.0cm}p{4.2cm}@{}}
+\begin{longtable}{@{}p{1.9cm}p{5.1cm}p{1.9cm}p{3.9cm}@{}}
 \toprule
 \textbf{以賽亞書} & \textbf{內容} & \textbf{新約} & \textbf{場合} \\
 \midrule
@@ -782,7 +788,7 @@ $body$
 \noindent 「以色列的聖者」（קְדוֹשׁ יִשְׂרָאֵל, Qedosh Yisra'el）在以賽亞書出現約 25 次，是全書出現頻率最高的神的稱號之一，遠超舊約其餘書卷加起來的總和。留意這條軌跡：前半卷（1-39章），這稱號多半出現在審判的語境裏；後半卷（40-66章），同一個稱號卻反覆與「救贖主」「救主」並列——稱號沒有換，換的是這份聖潔向百姓顯出的那一面。
 
 {\small
-\begin{longtable}{@{}p{1.4cm}p{6.0cm}p{6.2cm}@{}}
+\begin{longtable}{@{}p{1.4cm}p{5.85cm}p{6.0cm}@{}}
 \toprule
 \textbf{經文} & \textbf{上下文} & \textbf{顯出的是聖潔的哪一面} \\
 \midrule
@@ -842,7 +848,7 @@ $body$
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}\vspace{0.18cm}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}\vspace{0.18cm}
 \centering
 {\footnotesize\bfseries\color{ThroneCrimson} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
 {\footnotesize\color{TextGray}
@@ -871,7 +877,7 @@ $body$
 
 \vspace{0.3cm}
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
 \centering\vspace{0.2cm}
 {\footnotesize\color{TextGray}
 \textbf{結構觀察：}四篇僕人之歌散見於 40-55 章之間，篇幅一次比一次長、代價一次比一次重，
@@ -895,7 +901,7 @@ $body$
 \noindent 本表彙整貫穿全書的幾個關鍵字根，供查閱參考。
 
 {\small
-\begin{longtable}{@{}p{2.6cm}p{2.4cm}p{2.6cm}p{5.8cm}@{}}
+\begin{longtable}{@{}p{2.5cm}p{2.3cm}p{2.4cm}p{5.6cm}@{}}
 \toprule
 \textbf{希伯來文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
 \midrule
@@ -922,7 +928,7 @@ $body$
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}\vspace{0.18cm}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}\vspace{0.18cm}
 \centering
 {\footnotesize\bfseries\color{ThroneCrimson} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
 {\footnotesize\color{TextGray}
@@ -936,7 +942,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.2}
-\begin{longtable}{@{}p{1.6cm}p{3.0cm}p{9.0cm}@{}}
+\begin{longtable}{@{}p{1.6cm}p{2.9cm}p{8.75cm}@{}}
 \toprule
 \textbf{週次} & \textbf{涵蓋單元} & \textbf{焦點} \\
 \midrule
