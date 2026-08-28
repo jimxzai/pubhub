@@ -49,17 +49,27 @@ publisher: 三書精讀出版系統
 
 > ^11^親愛的弟兄啊，你們是客旅，是寄居的。我勸你們要禁戒肉體的私慾；這私慾是與靈魂爭戰的。^12^你們在外邦人中應當品行端正，叫那些毀謗你們是作惡的，因看見你們的好行為，便在鑒察的日子歸榮耀給神。
 
-> ^13^你們為主的緣故，要順服人的一切制度，或是在上的君王，^14^或是君王所派、罰惡賞善的臣宰。^17^務要尊敬眾人，親愛教中的弟兄，敬畏神，尊敬君王。
+> ^13^你們為主的緣故，要順服人的一切制度，或是在上的君王，^14^或是君王所派、罰惡賞善的臣宰。^15^因為神的旨意原是要你們行善，可以堵住那糊塗無知人的口。^16^你們雖是自由的，卻不可藉著自由遮蓋惡毒，總要作神的僕人。^17^務要尊敬眾人，親愛教中的弟兄，敬畏神，尊敬君王。
+
+> ^18^你們作僕人的，凡事要存敬畏的心順服主人；不但順服那善良溫和的，就是那乖僻的也要順服。^19^倘若人為叫良心對得住神，就忍受冤屈的苦楚，這是可喜愛的。^20^你們若因犯罪受責打，能忍耐，有甚麼可誇的呢？但你們若因行善受苦，能忍耐，這在神看是可喜愛的。
 
 > ^21^你們蒙召原是為此；因基督也為你們受過苦，給你們留下**榜樣**，叫你們跟隨他的腳蹤行。^22^他並沒有犯罪，口裡也沒有詭詐。^23^他被罵不還口，受害不說威嚇的話，只將自己交託那按公義審判人的主。^24^他被掛在木頭上，**親身擔當了我們的罪**，使我們既然在罪上死，就得以在義上活。因他受的鞭傷，你們便得了醫治。^25^你們從前好像迷路的羊，如今卻歸到你們靈魂的牧人監督了。
 
 ### English — ESV
 
-> ^4^As you come to him, a living stone rejected by men but in the sight of God chosen and precious, ^5^you yourselves like living stones are being built up as a spiritual house.
+> ^1^So put away all malice and all deceit and hypocrisy and envy and all slander. ^2^Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation— ^3^if indeed you have tasted that the Lord is good.
 
-> ^9^But you are **a chosen race, a royal priesthood, a holy nation, a people for his own possession**, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.
+> ^4^As you come to him, a living stone rejected by men but in the sight of God chosen and precious, ^5^you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ. ^6^For it stands in Scripture: "Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame." ^7^So the honor is for you who believe, but for those who do not believe, "The stone that the builders rejected has become the cornerstone," ^8^and "A stone of stumbling, and a rock of offense." They stumble because they disobey the word, as they were destined to do.
 
-> ^21^For to this you have been called, because Christ also suffered for you, leaving you an **example**, so that you might follow in his steps. ^24^He himself **bore our sins** in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.
+> ^9^But you are **a chosen race, a royal priesthood, a holy nation, a people for his own possession**, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light. ^10^Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy.
+
+> ^11^Beloved, I urge you as sojourners and exiles to abstain from the passions of the flesh, which wage war against your soul. ^12^Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation.
+
+> ^13^Be subject for the Lord's sake to every human institution, whether it be to the emperor as supreme, ^14^or to governors as sent by him to punish those who do evil and to praise those who do good. ^15^For this is the will of God, that by doing good you should put to silence the ignorance of foolish people. ^16^Live as people who are free, not using your freedom as a cover-up for evil, but living as servants of God. ^17^Honor everyone. Love the brotherhood. Fear God. Honor the emperor.
+
+> ^18^Servants, be subject to your masters with all respect, not only to the good and gentle but also to the unjust. ^19^For this is a gracious thing, when, mindful of God, one endures sorrows while suffering unjustly. ^20^For what credit is it if, when you sin and are beaten for it, you endure? But if when you do good and suffer for it you endure, this is a gracious thing in the sight of God.
+
+> ^21^For to this you have been called, because Christ also suffered for you, leaving you an **example**, so that you might follow in his steps. ^22^He committed no sin, neither was deceit found in his mouth. ^23^When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly. ^24^He himself **bore our sins** in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed. ^25^For you were straying like sheep, but have now returned to the Shepherd and Overseer of your souls.
 
 ---
 
@@ -174,16 +184,6 @@ publisher: 三書精讀出版系統
 老弟兄查經常用的提問法則之一：「這段經文裡，誰是主詞，誰是受詞？」2:24「他被掛在木頭上，親身擔當了我們的罪」——主詞是基督，「我們的罪」是受詞，基督是主動「擔當」的那一位。老弟兄一貫提醒：**很多人讀這節經文，重點放在『我的罪』，卻忘了看清楚『祂親身擔當』這個主動的動作——救恩不是我們湊夠了甚麼，是祂主動背起了甚麼。**
 
 老弟兄也常對比2:22-25與以賽亞書53章：「先讀以賽亞書53章，再讀彼得前書2章，你會發現彼得不是在『引用』一段經文，他是在『指認』一個人——先知六百年前寫的，就是眼前這位。」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*The Church's One Foundation*（如前「配詩」所引）
-
-**詩篇**：詩篇 118:22
-
-> 匠人所棄的石頭，已成了房角的頭塊石頭。
 
 ---
 

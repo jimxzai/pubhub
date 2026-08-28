@@ -202,7 +202,7 @@ copyright: |
 |--------|------|------|------|
 | πάσχω／πάθημα | paschō / pathēma | 受苦／苦難 | 約12次 |
 | δόξα | doxa | 榮耀 | 約10次 |
-| ἐλπίς | elpis | 盼望 | 4次（1:3, 1:13, 1:21, 3:15） |
+| ἐλπίς | elpis | 盼望 | 名詞3次（1:3, 1:21, 3:15）；另1:13動詞ἐλπίσατε同字根 |
 | χάρις | charis | 恩典 | 約10次 |
 | ἅγιος | hagios | 聖潔 | 約8次 |
 | ὑποτάσσω | hypotassō | 順服 | 約6次（2:13, 2:18, 3:1, 3:5, 3:22, 5:5） |
@@ -353,7 +353,7 @@ copyright: |
 
 彼得前書最有力的位置感，不在正典的目錄裡，是在寫信之人自己的生命裡。這封信讀起來格外貼近人心，因為寫信的，是那個曾經徹底失敗過的門徒。
 
-這個repo的馬可福音卷（相傳由彼得口述、馬可筆錄——教父帕皮亞〔Papias，約主後130年，經優西比烏《教會史》3.39保存〕記載馬可是「彼得的傳譯者」）卷末已經先埋下這條線索，這裡把它接下去、走完：
+這個系列的馬可福音卷（相傳由彼得口述、馬可筆錄——教父帕皮亞〔Papias，約主後130年，經優西比烏《教會史》3.39保存〕記載馬可是「彼得的傳譯者」）卷末已經先埋下這條線索，這裡把它接下去、走完：
 
 | 馬可福音裡的彼得 | 彼得前書裡的彼得 |
 |----------------|----------------|
@@ -371,7 +371,7 @@ copyright: |
 
 主後一世紀，「巴比倫」實指美索不達米亞一座已經式微、猶太社群零星居住的舊城；但初代教會普遍的理解——早期教父傳統（見優西比烏《教會史》2.15，轉引帕皮亞與革利免的記載）、以及啟示錄17-18章同樣用「巴比倫大城」暗指羅馬——都指向同一個結論：**這裡的「巴比倫」是羅馬的密語**，如同猶太人被擄的巴比倫是異教強權的中心，羅馬帝國的都城，對這群分散在小亞細亞、活在帝國陰影下的信徒而言，就是他們這個世代的「巴比倫」。彼得用這個舊約的名字自稱寫信地點，本身就是一句無聲的信息：**你們是被擄的餘民，我也是；我們同住在巴比倫，卻都「同蒙揀選」（5:13，*syneklektē*，與1:1「蒙揀選」同一個字根）——這封信，是一個被擄之地寫給另一群被擄之地的信。**
 
-信末還提到兩個人：「我兒子馬可」（5:13）與代筆的「忠心的兄弟西拉」（5:12）。馬可，正是這個repo已經寫完的《馬可福音》的作者——彼得晚年身邊帶著的，正是那位曾經寫下他口述之福音的年輕同工。西拉（Silvanus/Silas），很可能就是使徒行傳15:22以後與保羅同工、又在帖撒羅尼迦前後書開頭聯署的那位西拉——**彼得前書末了這兩個名字，把彼得的圈子和保羅的圈子、把這封信和repo裡已經寫完的馬可福音、帖撒羅尼迦書信，用兩個真實的人名縫在一起。**大公書信從不是孤立的文獻，是同一個初代教會、同一批彼此認識的同工，各自站在不同的崗位上，寫給同一群正在受苦的百姓。
+信末還提到兩個人：「我兒子馬可」（5:13）與代筆的「忠心的兄弟西拉」（5:12）。馬可，正是本系列已經寫完的《馬可福音》的作者——彼得晚年身邊帶著的，正是那位曾經寫下他口述之福音的年輕同工。西拉（Silvanus/Silas），很可能就是使徒行傳15:22以後與保羅同工、又在帖撒羅尼迦前後書開頭聯署的那位西拉——**彼得前書末了這兩個名字，把彼得的圈子和保羅的圈子、把這封信和本系列已經寫完的馬可福音、帖撒羅尼迦書信，用兩個真實的人名縫在一起。**大公書信從不是孤立的文獻，是同一個初代教會、同一批彼此認識的同工，各自站在不同的崗位上，寫給同一群正在受苦的百姓。
 
 教會傳統（優西比烏《教會史》2.25，轉引俄利根；亦見約21:18-19主對彼得殉道方式的預言）記載彼得晚年在羅馬殉道，時間約在尼祿逼迫期間（主後64年羅馬大火之後）。彼得前書的寫作日期，學界一般定在主後62-64年之間——**這封信很可能寫在那場大火、以及隨之而來更猛烈逼迫的前夕。**彼得勸勉信徒「不要以為奇怪，似乎是遭遇非常的事」（4:12），他自己不久後也要走上同一條「為義受苦」的路。
 
@@ -563,7 +563,7 @@ copyright: |
 
 #### 深度探索
 
-「蒙他血所灑」直接呼應出埃及記24:8摩西在西奈山下把血灑在百姓身上、立約歸屬耶和華的儀式——彼得用這幅舊約立約的圖畫，宣告這群外邦血統的客旅，如今也被帶進了同一個立約的百姓群體裡。這條線预告了2:9-10全書身分論的高峰：從「算不得子民」到「神的子民」，正是這節「立約」圖畫的展開。
+「蒙他血所灑」直接呼應出埃及記24:8摩西在西奈山下把血灑在百姓身上、立約歸屬耶和華的儀式——彼得用這幅舊約立約的圖畫，宣告這群外邦血統的客旅，如今也被帶進了同一個立約的百姓群體裡。這條線預告了2:9-10全書身分論的高峰：從「算不得子民」到「神的子民」，正是這節「立約」圖畫的展開。
 
 #### 帶著走的問題
 
@@ -724,21 +724,27 @@ copyright: |
 
 > \textsuperscript{10}論到這救恩，那預先說你們要得恩典的眾先知早已詳細地尋求考察，\textsuperscript{11}就是考察在他們心裡基督的靈，預先證明基督受苦難、後來得榮耀，是指著什麼時候，並怎樣的時候。\textsuperscript{12}他們得了啟示，知道他們所傳講的一切事，不是為自己，乃是為你們。
 
-> \textsuperscript{13}所以要約束你們的心，謹慎自守，專心盼望耶穌基督顯現的時候所帶給你們的恩。\textsuperscript{14}你們既作順命的兒女，就不要效法從前蒙昧無知的時候那放縱私慾的樣子。\textsuperscript{15}那召你們的既是聖潔，你們在一切所行的事上也要聖潔。\textsuperscript{16}因為經上記著說：「你們要聖潔，因為我是聖潔的。」
+> \textsuperscript{13}所以要約束你們的心，謹慎自守，專心盼望耶穌基督顯現的時候所帶給你們的恩。\textsuperscript{14}你們既作順命的兒女，就不要效法從前蒙昧無知的時候那放縱私慾的樣子。\textsuperscript{15}那召你們的既是聖潔，你們在一切所行的事上也要聖潔。\textsuperscript{16}因為經上記著說：「你們要聖潔，因為我是聖潔的。」\textsuperscript{17}你們既稱那不偏待人、按各人行為審判人的主為父，就當存敬畏的心度你們在世寄居的日子。
 
-> \textsuperscript{18}知道你們得贖，脫去你們祖宗所傳流虛妄的行為，不是憑著能壞的金銀等物，\textsuperscript{19}乃是憑著**基督的寶血，如同無瑕疵、無玷汙的羔羊之血**。\textsuperscript{20}基督在創世以前是預先被神知道的，卻在這末世才為你們顯現。
+> \textsuperscript{18}知道你們得贖，脫去你們祖宗所傳流虛妄的行為，不是憑著能壞的金銀等物，\textsuperscript{19}乃是憑著**基督的寶血，如同無瑕疵、無玷汙的羔羊之血**。\textsuperscript{20}基督在創世以前是預先被神知道的，卻在這末世才為你們顯現。\textsuperscript{21}你們也因著他，信那叫他從死裡復活、又給他榮耀的神，叫你們的信心和盼望都在於神。
 
 > \textsuperscript{22}你們既因順從真理，潔淨了自己的心，以致愛弟兄沒有虛假，就當從心裡彼此切實相愛。\textsuperscript{23}你們蒙了重生，不是由於能壞的種子，乃是由於不能壞的種子，是藉著神活潑常存的道。\textsuperscript{24}因為，「凡有血氣的盡都如草，他的美榮都像草上的花。草必枯乾，花必凋謝；\textsuperscript{25}唯有主的道是永存的。」所傳給你們的福音就是這道。
 
 ### English — ESV
 
-> \textsuperscript{3}Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to **a living hope** through the resurrection of Jesus Christ from the dead, \textsuperscript{4}to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you.
+> \textsuperscript{1}Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, \textsuperscript{2}according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood: May grace and peace be multiplied to you.
 
-> \textsuperscript{15}But as he who called you is holy, you also be holy in all your conduct, \textsuperscript{16}since it is written, "You shall be holy, for I am holy."
+> \textsuperscript{3}Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to **a living hope** through the resurrection of Jesus Christ from the dead, \textsuperscript{4}to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you, \textsuperscript{5}who by God's power are being guarded through faith for a salvation ready to be revealed in the last time.
 
-> \textsuperscript{19}but with **the precious blood of Christ, like that of a lamb without blemish or spot**. \textsuperscript{20}He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you.
+> \textsuperscript{6}In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials, \textsuperscript{7}so that the tested genuineness of your faith—more precious than gold that perishes though it is tested by fire—may be found to result in praise and glory and honor at the revelation of Jesus Christ. \textsuperscript{8}Though you have not seen him, you love him. Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory, \textsuperscript{9}obtaining the outcome of your faith, the salvation of your souls.
 
-> \textsuperscript{23}since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God.
+> \textsuperscript{10}Concerning this salvation, the prophets who prophesied about the grace that was to be yours searched and inquired carefully, \textsuperscript{11}inquiring what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories. \textsuperscript{12}It was revealed to them that they were serving not themselves but you, in the things that have now been announced to you through those who preached the good news to you by the Holy Spirit sent from heaven, things into which angels long to look.
+
+> \textsuperscript{13}Therefore, preparing your minds for action, and being sober-minded, set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ. \textsuperscript{14}As obedient children, do not be conformed to the passions of your former ignorance, \textsuperscript{15}but as he who called you is holy, you also be holy in all your conduct, \textsuperscript{16}since it is written, "You shall be holy, for I am holy." \textsuperscript{17}And if you call on him as Father who judges impartially according to each one's deeds, conduct yourselves with fear throughout the time of your exile.
+
+> \textsuperscript{18}knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, \textsuperscript{19}but with **the precious blood of Christ, like that of a lamb without blemish or spot**. \textsuperscript{20}He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you \textsuperscript{21}who through him are believers in God, who raised him from the dead and gave him glory, so that your faith and hope are in God.
+
+> \textsuperscript{22}Having purified your souls by your obedience to the truth for a sincere brotherly love, love one another earnestly from a pure heart, \textsuperscript{23}since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God; \textsuperscript{24}for "All flesh is like grass and all its glory like the flower of grass. The grass withers, and the flower falls, \textsuperscript{25}but the word of the Lord remains forever." And this word is the good news that was preached to you.
 
 ---
 
@@ -858,20 +864,6 @@ copyright: |
 老弟兄查經帶領的頭一問，總是「這段的主詞是誰？」1:3-5三節經文，主詞從頭到尾都是「他」（神）——「他曾照自己的大憐憫……重生了我們」「（基業）為你們存留」「你們……蒙神能力保守」。**信心不是先講「我做了甚麼」，是先講「神已經做成了甚麼」；直到1:13「所以」，命令句才出現。**這與老弟兄一貫的救恩框架完全吻合：稱義、成聖、得榮，永遠是神的作為在先，人的回應在後。
 
 老弟兄常提醒查經班：讀「因信蒙神能力保守」（1:5）不要只讀「保守」，要留意「因信」——這保守不是自動生效的保險，是藉著持續運作的信心而經歷的保守；「保守」是神的工作，「因信」卻是活出來的、日日更新的信靠。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Blessed Assurance*（如前「配詩」所引）
-
-> Blessed assurance, Jesus is mine!
-> Oh, what a foretaste of glory divine!
-
-**詩篇**：詩篇 103:1-2
-
-> 我的心哪，你要稱頌耶和華！凡在我裡面的，也要稱頌他的聖名！
-> 我的心哪，你要稱頌耶和華！不可忘記他的一切恩惠！
 
 ---
 
@@ -1002,17 +994,27 @@ copyright: |
 
 > \textsuperscript{11}親愛的弟兄啊，你們是客旅，是寄居的。我勸你們要禁戒肉體的私慾；這私慾是與靈魂爭戰的。\textsuperscript{12}你們在外邦人中應當品行端正，叫那些毀謗你們是作惡的，因看見你們的好行為，便在鑒察的日子歸榮耀給神。
 
-> \textsuperscript{13}你們為主的緣故，要順服人的一切制度，或是在上的君王，\textsuperscript{14}或是君王所派、罰惡賞善的臣宰。\textsuperscript{17}務要尊敬眾人，親愛教中的弟兄，敬畏神，尊敬君王。
+> \textsuperscript{13}你們為主的緣故，要順服人的一切制度，或是在上的君王，\textsuperscript{14}或是君王所派、罰惡賞善的臣宰。\textsuperscript{15}因為神的旨意原是要你們行善，可以堵住那糊塗無知人的口。\textsuperscript{16}你們雖是自由的，卻不可藉著自由遮蓋惡毒，總要作神的僕人。\textsuperscript{17}務要尊敬眾人，親愛教中的弟兄，敬畏神，尊敬君王。
+
+> \textsuperscript{18}你們作僕人的，凡事要存敬畏的心順服主人；不但順服那善良溫和的，就是那乖僻的也要順服。\textsuperscript{19}倘若人為叫良心對得住神，就忍受冤屈的苦楚，這是可喜愛的。\textsuperscript{20}你們若因犯罪受責打，能忍耐，有甚麼可誇的呢？但你們若因行善受苦，能忍耐，這在神看是可喜愛的。
 
 > \textsuperscript{21}你們蒙召原是為此；因基督也為你們受過苦，給你們留下**榜樣**，叫你們跟隨他的腳蹤行。\textsuperscript{22}他並沒有犯罪，口裡也沒有詭詐。\textsuperscript{23}他被罵不還口，受害不說威嚇的話，只將自己交託那按公義審判人的主。\textsuperscript{24}他被掛在木頭上，**親身擔當了我們的罪**，使我們既然在罪上死，就得以在義上活。因他受的鞭傷，你們便得了醫治。\textsuperscript{25}你們從前好像迷路的羊，如今卻歸到你們靈魂的牧人監督了。
 
 ### English — ESV
 
-> \textsuperscript{4}As you come to him, a living stone rejected by men but in the sight of God chosen and precious, \textsuperscript{5}you yourselves like living stones are being built up as a spiritual house.
+> \textsuperscript{1}So put away all malice and all deceit and hypocrisy and envy and all slander. \textsuperscript{2}Like newborn infants, long for the pure spiritual milk, that by it you may grow up into salvation— \textsuperscript{3}if indeed you have tasted that the Lord is good.
 
-> \textsuperscript{9}But you are **a chosen race, a royal priesthood, a holy nation, a people for his own possession**, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light.
+> \textsuperscript{4}As you come to him, a living stone rejected by men but in the sight of God chosen and precious, \textsuperscript{5}you yourselves like living stones are being built up as a spiritual house, to be a holy priesthood, to offer spiritual sacrifices acceptable to God through Jesus Christ. \textsuperscript{6}For it stands in Scripture: "Behold, I am laying in Zion a stone, a cornerstone chosen and precious, and whoever believes in him will not be put to shame." \textsuperscript{7}So the honor is for you who believe, but for those who do not believe, "The stone that the builders rejected has become the cornerstone," \textsuperscript{8}and "A stone of stumbling, and a rock of offense." They stumble because they disobey the word, as they were destined to do.
 
-> \textsuperscript{21}For to this you have been called, because Christ also suffered for you, leaving you an **example**, so that you might follow in his steps. \textsuperscript{24}He himself **bore our sins** in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed.
+> \textsuperscript{9}But you are **a chosen race, a royal priesthood, a holy nation, a people for his own possession**, that you may proclaim the excellencies of him who called you out of darkness into his marvelous light. \textsuperscript{10}Once you were not a people, but now you are God's people; once you had not received mercy, but now you have received mercy.
+
+> \textsuperscript{11}Beloved, I urge you as sojourners and exiles to abstain from the passions of the flesh, which wage war against your soul. \textsuperscript{12}Keep your conduct among the Gentiles honorable, so that when they speak against you as evildoers, they may see your good deeds and glorify God on the day of visitation.
+
+> \textsuperscript{13}Be subject for the Lord's sake to every human institution, whether it be to the emperor as supreme, \textsuperscript{14}or to governors as sent by him to punish those who do evil and to praise those who do good. \textsuperscript{15}For this is the will of God, that by doing good you should put to silence the ignorance of foolish people. \textsuperscript{16}Live as people who are free, not using your freedom as a cover-up for evil, but living as servants of God. \textsuperscript{17}Honor everyone. Love the brotherhood. Fear God. Honor the emperor.
+
+> \textsuperscript{18}Servants, be subject to your masters with all respect, not only to the good and gentle but also to the unjust. \textsuperscript{19}For this is a gracious thing, when, mindful of God, one endures sorrows while suffering unjustly. \textsuperscript{20}For what credit is it if, when you sin and are beaten for it, you endure? But if when you do good and suffer for it you endure, this is a gracious thing in the sight of God.
+
+> \textsuperscript{21}For to this you have been called, because Christ also suffered for you, leaving you an **example**, so that you might follow in his steps. \textsuperscript{22}He committed no sin, neither was deceit found in his mouth. \textsuperscript{23}When he was reviled, he did not revile in return; when he suffered, he did not threaten, but continued entrusting himself to him who judges justly. \textsuperscript{24}He himself **bore our sins** in his body on the tree, that we might die to sin and live to righteousness. By his wounds you have been healed. \textsuperscript{25}For you were straying like sheep, but have now returned to the Shepherd and Overseer of your souls.
 
 ---
 
@@ -1127,16 +1129,6 @@ copyright: |
 老弟兄查經常用的提問法則之一：「這段經文裡，誰是主詞，誰是受詞？」2:24「他被掛在木頭上，親身擔當了我們的罪」——主詞是基督，「我們的罪」是受詞，基督是主動「擔當」的那一位。老弟兄一貫提醒：**很多人讀這節經文，重點放在『我的罪』，卻忘了看清楚『祂親身擔當』這個主動的動作——救恩不是我們湊夠了甚麼，是祂主動背起了甚麼。**
 
 老弟兄也常對比2:22-25與以賽亞書53章：「先讀以賽亞書53章，再讀彼得前書2章，你會發現彼得不是在『引用』一段經文，他是在『指認』一個人——先知六百年前寫的，就是眼前這位。」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*The Church's One Foundation*（如前「配詩」所引）
-
-**詩篇**：詩篇 118:22
-
-> 匠人所棄的石頭，已成了房角的頭塊石頭。
 
 ---
 
@@ -1850,7 +1842,7 @@ copyright: |
 
 ### 西拉與馬可的問安（5:12-13）
 
-信末提及的西拉（Silvanus）與馬可，把彼得的圈子與保羅的圈子、與這個系列已完成的《馬可福音》緊密相連（詳見卷首〈客旅的信〉一章）。這不是禮貌性的附註，而是彼得對讀者的一種確據：**這封信不是孤立的教導，是整個初代教會、彼此認識的同工網絡，共同見證同一個福音真理的一部分。**
+信末提及的西拉（Silvanus）與馬可，把彼得的圈子與保羅的圈子、與這個系列已完成的《馬可福音》緊密相連（詳見卷首〈客旅之家〉一章）。這不是禮貌性的附註，而是彼得對讀者的一種確據：**這封信不是孤立的教導，是整個初代教會、彼此認識的同工網絡，共同見證同一個福音真理的一部分。**
 
 ---
 
@@ -2293,36 +2285,37 @@ copyright: |
 
 | 希臘文 | 音譯 | 意義 | 出處與註解 |
 |---|---|---|---|
-| ἁγνός | hagnos | 貞潔的 | 3:2 妻子的品行 |
 | ἀγαλλιάω | agalliaō | 大大歡喜 | 1:6, 8 與「憂愁」並存的喜樂 |
+| ἁγνός | hagnos | 貞潔的 | 3:2 妻子的品行 |
 | ἀναγεννάω | anagennaō | 使重生 | 1:3, 23，新約僅彼得前書出現，首尾呼應 |
 | ἀναστροφή | anastrophē | 品行、生活方式 | 1:15, 18；2:12；3:1-2, 16，全信貫穿鑰詞 |
 | ἀντίτυπον | antitypon | 對應的預表 | 3:21，挪亞方舟的水是型，洗禮是對應的實體 |
+| ἀφθάρτῳ | aphthartō | 不能朽壞的 | 1:4；3:4，內在生命與天上基業同一形容詞 |
 | ἀπολογία | apologia | 辯詞、答辯 | 3:15，護教學一詞的字源 |
 | ἀρχιποίμην | archipoimēn | 牧長 | 5:4，新約僅出現一次，唯獨基督配得 |
 | ἀσωτία | asōtia | 放蕩無度 | 4:4，與路15:13浪子「放蕩」同詞根 |
-| ἀφθάρτῳ | aphthartō | 不能朽壞的 | 1:4；3:4，內在生命與天上基業同一形容詞 |
 | βασίλειον ἱεράτευμα | basileion hierateuma | 君尊的祭司 | 2:9，直譯出埃及記19:6七十士譯本 |
 | γένος ἐκλεκτόν | genos eklekton | 被揀選的族類 | 2:9，引自以賽亞書43:20 |
+| δι' ὀλίγων | di' oligōn | 略略地、簡短地 | 5:12，彼得自陳這封信的簡短性 |
 | δοκίμιον | dokimion | 被試驗的（真確性） | 1:7，冶金用語，經火試煉證明純度 |
-| ἐγκομβώσασθε | enkombōsasthe | 束上（謙卑） | 5:5，原指奴僕束上工作圍裙的動作 |
 | ἐκλεκτός | eklektos | 揀選 | 1:1；2:4, 6, 9；5:13，首尾呼應全信 |
 | ἐλπὶς ζῶσα | elpis zōsa | 活潑的盼望 | 1:3，「活的」分詞修飾盼望，根基是復活的基督 |
+| ἐγκομβώσασθε | enkombōsasthe | 束上（謙卑） | 5:5，原指奴僕束上工作圍裙的動作 |
 | ἐπερώτημα | eperōtēma | 懇求、請求 | 3:21，法律用語，洗禮是求告無虧的良心 |
 | ἐπιρίψαντες | epiripsantes | 卸下、拋擲 | 5:7，主動、一次性拋出憂慮的動作 |
 | ἐπισκοποῦντες | episkopountes | 照管、監督 | 5:2，與「主教」(bishop) 同源 |
 | ἐπιστρέφω | epistrephō | 轉回、歸回 | 2:25，與路加福音15章浪子回頭同詞族 |
 | ζητῶν καταπιεῖν | zētōn katapiein | 尋找可吞吃的 | 5:8，獅子狩獵意象，攻擊有目的性 |
-| κτίστης | ktistēs | 造化之主、創造者 | 4:19，全新約僅出現一次，稱神為創造者而非僅拯救者 |
 | καλύπτει πλῆθος ἁμαρτιῶν | kalyptei plēthos hamartiōn | 遮掩許多的罪 | 4:8，引自箴言10:12 |
 | καταρτίσει | katartisei | 成全、修復 | 5:10，漁業用語，指補網——修補破損之處 |
+| κτίστης | ktistēs | 造化之主、創造者 | 4:19，全新約僅出現一次，稱神為創造者而非僅拯救者 |
 | λίθος ζῶν | lithos zōn | 活石 | 2:4-5，與1:3「活潑的盼望」同一「活」字根 |
 | λογικὸν γάλα | logikon gala | 純淨的靈奶 | 2:2，與λόγος同源，呼應1:23活潑常存的道 |
 | λόγος ζῶν καὶ μένων | logos zōn kai menōn | 活潑常存的道 | 1:23，與1:3「活」同一字根，首尾呼應 |
 | νήφω | nēphō | 謹慎自守、清醒 | 4:7；5:8，與帖前5:6-8同詞 |
 | οἰκέτης | oiketēs | 家中的僕人 | 2:18，家庭準則首段的對象 |
-| οἰκονόμος | oikonomos | 管家 | 4:10，恩賜是託管，非資產 |
 | οἰκοδομεῖσθε | oikodomeisthe | 被建造 | 2:5，現在式被動，神主動施工的持續過程 |
+| οἰκονόμος | oikonomos | 管家 | 4:10，恩賜是託管，非資產 |
 | οἶκος πνευματικός | oikos pneumatikos | 靈宮 | 2:5，舊約聖殿意象的新約轉化 |
 | ὁπλίζω | hoplizō | 配備兵器 | 4:1，軍事用語，把基督的心志當作裝備 |
 | παροίκους καὶ παρεπιδήμους | paroikous kai parepidēmous | 客旅、寄居的 | 1:1, 17；2:11，全信身分認同的核心詞組 |
@@ -2330,13 +2323,12 @@ copyright: |
 | πυρωσις | pyrōsis | 火煉、焚燒 | 4:12，冶金意象，與1:7同意象家族 |
 | συγκληρονόμος | sygklēronomos | 一同承受產業的 | 3:7，夫妻在基督裡是共同繼承人 |
 | τίμιος | timios | 寶貴的 | 1:7, 19，形容被試驗的信心與基督的寶血 |
-| φρουρέω | phroureō | 保守、駐防 | 1:5，軍事用語，神親自派兵看守 |
-| φυλακή | phylakē | 監獄、看守之處 | 3:19，「在監獄裡的靈」——本段解經爭議的核心詞 |
+| ὑπὲρ ἁμαρτιῶν ἅπαξ | hyper hamartiōn hapax | 一次為罪 | 3:18，與來9:26-28「一次獻上」同一個字 |
 | ὑπογραμμός | hypogrammos | 榜樣、字帖 | 2:21，原指供學童描摹的底樣 |
 | ὑποτάσσω | hypotassō | 順服 | 2:13, 18；3:1, 22；5:5，貫穿五種關係的鑰詞 |
-| ὑπὲρ ἁμαρτιῶν ἅπαξ | hyper hamartiōn hapax | 一次為罪 | 3:18，與來9:26-28「一次獻上」同一個字 |
+| φρουρέω | phroureō | 保守、駐防 | 1:5，軍事用語，神親自派兵看守 |
+| φυλακή | phylakē | 監獄、看守之處 | 3:19，「在監獄裡的靈」——本段解經爭議的核心詞 |
 | χάρις | charis | 恩典 | 1:2起貫穿全信，2:19-20「可喜愛的」亦同字 |
-| δι' ὀλίγων | di' oligōn | 略略地、簡短地 | 5:12，彼得自陳這封信的簡短性 |
 
 ---
 

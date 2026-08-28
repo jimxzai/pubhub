@@ -49,21 +49,27 @@ publisher: 三書精讀出版系統
 
 > ^10^論到這救恩，那預先說你們要得恩典的眾先知早已詳細地尋求考察，^11^就是考察在他們心裡基督的靈，預先證明基督受苦難、後來得榮耀，是指著什麼時候，並怎樣的時候。^12^他們得了啟示，知道他們所傳講的一切事，不是為自己，乃是為你們。
 
-> ^13^所以要約束你們的心，謹慎自守，專心盼望耶穌基督顯現的時候所帶給你們的恩。^14^你們既作順命的兒女，就不要效法從前蒙昧無知的時候那放縱私慾的樣子。^15^那召你們的既是聖潔，你們在一切所行的事上也要聖潔。^16^因為經上記著說：「你們要聖潔，因為我是聖潔的。」
+> ^13^所以要約束你們的心，謹慎自守，專心盼望耶穌基督顯現的時候所帶給你們的恩。^14^你們既作順命的兒女，就不要效法從前蒙昧無知的時候那放縱私慾的樣子。^15^那召你們的既是聖潔，你們在一切所行的事上也要聖潔。^16^因為經上記著說：「你們要聖潔，因為我是聖潔的。」^17^你們既稱那不偏待人、按各人行為審判人的主為父，就當存敬畏的心度你們在世寄居的日子。
 
-> ^18^知道你們得贖，脫去你們祖宗所傳流虛妄的行為，不是憑著能壞的金銀等物，^19^乃是憑著**基督的寶血，如同無瑕疵、無玷汙的羔羊之血**。^20^基督在創世以前是預先被神知道的，卻在這末世才為你們顯現。
+> ^18^知道你們得贖，脫去你們祖宗所傳流虛妄的行為，不是憑著能壞的金銀等物，^19^乃是憑著**基督的寶血，如同無瑕疵、無玷汙的羔羊之血**。^20^基督在創世以前是預先被神知道的，卻在這末世才為你們顯現。^21^你們也因著他，信那叫他從死裡復活、又給他榮耀的神，叫你們的信心和盼望都在於神。
 
 > ^22^你們既因順從真理，潔淨了自己的心，以致愛弟兄沒有虛假，就當從心裡彼此切實相愛。^23^你們蒙了重生，不是由於能壞的種子，乃是由於不能壞的種子，是藉著神活潑常存的道。^24^因為，「凡有血氣的盡都如草，他的美榮都像草上的花。草必枯乾，花必凋謝；^25^唯有主的道是永存的。」所傳給你們的福音就是這道。
 
 ### English — ESV
 
-> ^3^Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to **a living hope** through the resurrection of Jesus Christ from the dead, ^4^to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you.
+> ^1^Peter, an apostle of Jesus Christ, To those who are elect exiles of the Dispersion in Pontus, Galatia, Cappadocia, Asia, and Bithynia, ^2^according to the foreknowledge of God the Father, in the sanctification of the Spirit, for obedience to Jesus Christ and for sprinkling with his blood: May grace and peace be multiplied to you.
 
-> ^15^But as he who called you is holy, you also be holy in all your conduct, ^16^since it is written, "You shall be holy, for I am holy."
+> ^3^Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to **a living hope** through the resurrection of Jesus Christ from the dead, ^4^to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you, ^5^who by God's power are being guarded through faith for a salvation ready to be revealed in the last time.
 
-> ^19^but with **the precious blood of Christ, like that of a lamb without blemish or spot**. ^20^He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you.
+> ^6^In this you rejoice, though now for a little while, if necessary, you have been grieved by various trials, ^7^so that the tested genuineness of your faith—more precious than gold that perishes though it is tested by fire—may be found to result in praise and glory and honor at the revelation of Jesus Christ. ^8^Though you have not seen him, you love him. Though you do not now see him, you believe in him and rejoice with joy that is inexpressible and filled with glory, ^9^obtaining the outcome of your faith, the salvation of your souls.
 
-> ^23^since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God.
+> ^10^Concerning this salvation, the prophets who prophesied about the grace that was to be yours searched and inquired carefully, ^11^inquiring what person or time the Spirit of Christ in them was indicating when he predicted the sufferings of Christ and the subsequent glories. ^12^It was revealed to them that they were serving not themselves but you, in the things that have now been announced to you through those who preached the good news to you by the Holy Spirit sent from heaven, things into which angels long to look.
+
+> ^13^Therefore, preparing your minds for action, and being sober-minded, set your hope fully on the grace that will be brought to you at the revelation of Jesus Christ. ^14^As obedient children, do not be conformed to the passions of your former ignorance, ^15^but as he who called you is holy, you also be holy in all your conduct, ^16^since it is written, "You shall be holy, for I am holy." ^17^And if you call on him as Father who judges impartially according to each one's deeds, conduct yourselves with fear throughout the time of your exile.
+
+> ^18^knowing that you were ransomed from the futile ways inherited from your forefathers, not with perishable things such as silver or gold, ^19^but with **the precious blood of Christ, like that of a lamb without blemish or spot**. ^20^He was foreknown before the foundation of the world but was made manifest in the last times for the sake of you ^21^who through him are believers in God, who raised him from the dead and gave him glory, so that your faith and hope are in God.
+
+> ^22^Having purified your souls by your obedience to the truth for a sincere brotherly love, love one another earnestly from a pure heart, ^23^since you have been born again, not of perishable seed but of imperishable, through the living and abiding word of God; ^24^for "All flesh is like grass and all its glory like the flower of grass. The grass withers, and the flower falls, ^25^but the word of the Lord remains forever." And this word is the good news that was preached to you.
 
 ---
 
@@ -183,20 +189,6 @@ publisher: 三書精讀出版系統
 老弟兄查經帶領的頭一問，總是「這段的主詞是誰？」1:3-5三節經文，主詞從頭到尾都是「他」（神）——「他曾照自己的大憐憫……重生了我們」「（基業）為你們存留」「你們……蒙神能力保守」。**信心不是先講「我做了甚麼」，是先講「神已經做成了甚麼」；直到1:13「所以」，命令句才出現。**這與老弟兄一貫的救恩框架完全吻合：稱義、成聖、得榮，永遠是神的作為在先，人的回應在後。
 
 老弟兄常提醒查經班：讀「因信蒙神能力保守」（1:5）不要只讀「保守」，要留意「因信」——這保守不是自動生效的保險，是藉著持續運作的信心而經歷的保守；「保守」是神的工作，「因信」卻是活出來的、日日更新的信靠。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Blessed Assurance*（如前「配詩」所引）
-
-> Blessed assurance, Jesus is mine!
-> Oh, what a foretaste of glory divine!
-
-**詩篇**：詩篇 103:1-2
-
-> 我的心哪，你要稱頌耶和華！凡在我裡面的，也要稱頌他的聖名！
-> 我的心哪，你要稱頌耶和華！不可忘記他的一切恩惠！
 
 ---
 
