@@ -55,44 +55,83 @@ scripts/lint-templates.sh [template-name ...]
   \setTransitionsFor{Hebrew}{\uckeep{\hebrewfont}}{\normalfont}
   ```
 
-- **Enabling a Latin transition in a CJK book is a project, not a one-liner.**
-  Once Latin switches families, every other class needs an explicit
-  destination or it inherits Baskerville/Times and emits missing-glyph
-  warnings. Four measured attempts on Revelation got 5 → 5 → 6 → 4 missing
-  glyphs without reaching zero; the residue was the first character of each
-  Hebrew and polytonic-Greek run. Facts established, so the next attempt
-  starts further along:
-  - ASCII punctuation is in `BasicLatin` → the **Latin** class, so enabling
-    Latin does *not* fragment English words.
-  - `。` is `CJKSymbolsAndPunctuation`, `）` is `HalfwidthAndFullwidthForms`;
-    both are in the `Chinese` and `CJK` groups, neither is in the
-    `CJKUnifiedIdeographs` block.
-  - Later `\setTransitionsFor*` declarations win for any block two of them
-    claim, and `\setTransitionsForOther` claims nearly everything — declare it
-    early.
-  - Leave-codes matter: `\normalfont` on exit can clobber the next class's
-    enter code; empty leave-codes strand characters in the previous font.
-  - **The blocker, characterised**: a ucharclasses transition does NOT fire
-    when the preceding character is CJK/full-width punctuation. Isolated
-    repro — `ἀποκάλυψις` immediately after each of these:
+- **`\setTransitionsFor` sets BOTH directions for every pair, so a later
+  declaration silently overwrites an earlier one.** This is the trap that
+  makes ucharclasses setups fail unpredictably. From the package source:
+  ```latex
+  \setTransitionsFor{X}{in}{out}   % for every other class n:
+  %   \XeTeXinterchartoks n X = {in}    (entering X)
+  %   \XeTeXinterchartoks X n = {out}   (leaving X)
+  ```
+  Declare `HalfwidthAndFullwidthForms` after `GreekExtended` and the former's
+  *out*-code clobbers the latter's *in*-code for the pair (full-width →
+  Greek). **Symptom**: a Greek or Hebrew run whose PRECEDING character is CJK
+  or full-width punctuation (`：、。）`) silently does not switch font.
+  Measured on Revelation — `ἀποκάλυψις` immediately after:
 
-    | preceding char | transition fires? |
-    |---|---|
-    | `：` U+FF1A full-width colon | **no** |
-    | `、` U+3001 ideographic comma | **no** |
-    | space | yes |
-    | a CJK ideograph | yes |
-    | `:` ASCII colon | yes |
-    | paragraph start | yes |
+  | preceding char | switches? |
+  |---|---|
+  | `：` U+FF1A, `、` U+3001 | **no** |
+  | space, a CJK ideograph, `:` ASCII, paragraph start | yes |
 
-    This is not specific to enabling Latin — it applies to the
-    `GreekExtended` / `Hebrew` transitions the templates already ship. It is
-    invisible in Revelation and Isaiah today only because Songti SC happens to
-    have basic Greek glyphs, so a failed switch renders the wrong face with no
-    warning; you only get a "Missing character" when the fallback font lacks
-    the glyph outright (polytonic `ἀ`, Hebrew). **So a clean driver run does
-    not prove the Greek in a book is in `\greekfont`** — check a rendered page
-    if it matters.
+  It hides easily: Songti SC carries basic Greek, so a failed switch renders
+  the wrong face with **no warning**. You only get "Missing character" when
+  the fallback lacks the glyph outright (polytonic `ἀ`, Hebrew). **A clean
+  driver run therefore does not prove a book's Greek is in `\greekfont`.**
+
+  **Fix — use `\setTransitionTo`**, which sets the entering direction only and
+  never touches the leaving direction. Give every block in play an explicit
+  destination and declaration order stops mattering entirely:
+  ```latex
+  \makeatletter
+  \newcommand{\uckeep}[1]{%   carry series/shape across the boundary
+    \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+    #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+  \makeatother
+  \newcommand{\ucLatinRun}{\uckeep{\basklatin}}
+  \newcommand{\ucCJKRun}{\uckeep{\cjkfallbackfont}}
+  \setTransitionTo{BasicLatin}{\ucLatinRun}
+  \setTransitionTo{LatinSupplement}{\ucLatinRun}
+  \setTransitionTo{LatinExtendedA}{\ucLatinRun}
+  \setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+  \setTransitionTo{GreekExtended}{\ucGreekRun}
+  \setTransitionTo{Hebrew}{\ucHebrewRun}
+  \setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+  \setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+  \setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+  \setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+  \setTransitionTo{BoxDrawing}{\ucCJKRun}
+  \setTransitionTo{Arrows}{\ucCJKRun}
+  ```
+  Four attempts with `\setTransitionsFor` got 5 → 5 → 6 → 4 missing glyphs
+  and never reached zero; the `\setTransitionTo` version reached **0** on the
+  first try. Shipping in `revelation.latex` and `isaiah.latex`.
+
+  Enumerate the blocks a book actually uses before writing the list — these
+  two books touch only thirteen. Useful facts: ASCII punctuation is in
+  `BasicLatin` → the **Latin** class, so enabling Latin does *not* fragment
+  English words; `。` is `CJKSymbolsAndPunctuation` and `）` is
+  `HalfwidthAndFullwidthForms`, neither of which is in `CJKUnifiedIdeographs`.
+
+- **`ItalicFont=Kaiti SC` silently kills italics on Latin text.** `\emph{}`
+  selects the main font's italic; Kaiti SC is a Chinese brush face whose Latin
+  glyphs are **upright**. Every italicised book title renders as roman, with
+  no warning — 224 of them in Revelation, 224 in Isaiah. Confirmed with
+  ucharclasses not even loaded, so it is not a transition problem.
+
+  **Fix**: route Latin runs to a family that has a real italic. Revelation
+  uses Baskerville (which its template always intended); Isaiah keeps Songti
+  SC's own Latin glyphs for upright text and borrows only the italic, so
+  normal text is visually unchanged:
+  ```latex
+  \newfontfamily\latinrun{Songti SC}[
+    ItalicFont={Times New Roman Italic},
+    BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+    BoldItalicFont={Times New Roman Bold Italic}]
+  ```
+  **Verify by font embedding, not by eye**: `pdffonts output/<book>.pdf`
+  should now list the italic face. If `Baskerville-Italic` /
+  `TimesNewRomanPS-ItalicMT` is absent, nothing in the book ever reached it.
 
 - **`pandoc --pdf-engine=xelatex` discards the entire xelatex log unless
   you pass `--verbose` — so every "grep the build log" check in this

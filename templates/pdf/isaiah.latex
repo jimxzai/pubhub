@@ -59,9 +59,68 @@
   BoldFont=Times New Roman,
   BoldFeatures={FakeBold=2.0}
 ]
-\setTransitionsFor{Greek}{\greekfont}{\normalfont}
-\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
-\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+% Latin runs keep Songti SC's own Latin glyphs — no visible change to upright
+% text — but gain a REAL italic. \setmainfont cannot supply one: its
+% ItalicFont is Kaiti SC, a Chinese brush face whose Latin glyphs are UPRIGHT,
+% so all 224 italicised hymn/commentary titles in this book were rendering as
+% roman with zero warnings.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek" is a class GROUP, not a block — the block is GreekAndCoptic. The
+%% line here used to read \setTransitionsFor{Greek}{...}, which compiles fine
+%% and does nothing, so basic Greek fell back to Songti SC's own glyphs.
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a later
+%% declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Symptom: a Greek or Hebrew run whose PRECEDING character is CJK or
+%% full-width punctuation (：、。） silently does not switch font.
+%%
+%% FIX: \setTransitionTo sets the entering direction ONLY, so nothing can
+%% clobber anything and declaration order stops mattering.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which drops
+%% \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block this book actually contains, measured over the markdown
+%% sources. Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
 
 %% Calligraphy brush font for cover/frontispiece accents
 \newfontfamily\kaiti{Kaiti SC}[

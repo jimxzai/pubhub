@@ -65,20 +65,34 @@
 \newfontfamily\didotfont{Didot}
 % Alias matching the naming convention used on the full-bleed cover pages
 \newcommand{\baskervillefont}{\basklatin}
-%% ucharclasses has TWO APIs and mixing them fails silently:
-%%   \setTransitionsFor{<block>}{in}{out}   — 3 args, real Unicode block
-%%   \setTransitionsFor<Group>{in}{out}     — 2 args, class group
-%% "Greek", "Latin" and "CJK" are class GROUPS, not blocks; "Han" is neither.
-%% Passing a group (or a nonexistent name) to the 3-arg form compiles fine and
-%% does nothing at all. Three of the five transitions here were dead code:
-%%   {Greek}  → no-op  (block is GreekAndCoptic)
-%%   {Han}    → no-op  (block is CJKUnifiedIdeographs)
-%%   {Latin}  → no-op  (group form is \setTransitionsForLatin)
-%% Consequence: basic Greek (θρόνος) fell back to Songti SC's own Greek
-%% glyphs rather than \greekfont, and Latin never reached Baskerville — so
-%% \emph on a Latin word resolved to \setmainfont's ItalicFont (Kaiti SC),
-%% whose Latin glyphs are UPRIGHT. Every italicised work title in the book
-%% rendered as roman, with zero warnings.
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek", "Latin", "CJK" are GROUPS; "Han" is neither. Feeding a group name
+%% (or a nonexistent one) to the 3-arg form compiles fine and does nothing.
+%% Three of this template's five original transitions were dead: {Greek}
+%% (block is GreekAndCoptic), {Han} (block is CJKUnifiedIdeographs) and
+%% {Latin} (group form is \setTransitionsForLatin).
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a
+%% later declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Declare HalfwidthAndFullwidthForms after GreekExtended and the former's
+%% out-code clobbers the latter's in-code for the pair (full-width → Greek).
+%% Observable symptom: a Greek or Hebrew run whose PRECEDING character is CJK
+%% or full-width punctuation (：、。） silently does not switch font. It was
+%% invisible here only because Songti SC happens to carry basic Greek glyphs.
+%%
+%% FIX: use \setTransitionTo, which sets the entering direction ONLY and never
+%% touches the leaving direction. With every block in play given an explicit
+%% destination there is nothing to clobber and declaration order stops
+%% mattering. Verified: 0 missing glyphs across a stress test covering
+%% italic/bold book titles, mixed CJK+Latin bold, polytonic Greek, Hebrew
+%% beside digits, full-width punctuation, macron transliterations and arrows.
 %%
 %% \uckeep carries the ambient series/shape across the boundary: a bare
 %% \newfontfamily switch resets both to the family default, which is what
@@ -88,47 +102,25 @@
   \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
   #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
 \makeatother
-\setTransitionsFor{GreekAndCoptic}{\uckeep{\greekfont}}{\normalfont}
-\setTransitionsFor{GreekExtended}{\uckeep{\greekfont}}{\normalfont}
-\setTransitionsFor{Hebrew}{\uckeep{\hebrewfont}}{\normalfont}
-%% CJK transition also stays off: \cjkfallbackfont IS Songti SC, the main
-%% font, so with the Latin transition off nothing ever switches away and
-%% this would only fire a redundant font selection at every Han boundary.
-%% Measured: enabling it added a page to the book and changed nothing
-%% visible. It becomes necessary only if the Latin transition is enabled.
-% \setTransitionsFor{CJKUnifiedIdeographs}{\uckeep{\cjkfallbackfont}}{\normalfont}
-%% The Latin transition stays OFF, deliberately. \basklatin is declared and
-%% the comment above says Latin runs were meant to render in Baskerville, but
-%% the line that would have done it was \setTransitionsFor{Latin}{...} — a
-%% no-op — so this book has always set Latin in Songti SC's own Latin glyphs.
-%%
-%% Turning it on is not a one-liner. Once Latin actually switches families,
-%% EVERY other character class needs an explicit destination or it inherits
-%% Baskerville (or Times, from \greekfont) and emits missing-glyph warnings.
-%% Attempts measured on this book, all caught by driver.sh step 2:
-%%   1. \setTransitionsForLatin + leave-code \normalfont
-%%        → Hebrew after a digit run falls back to Songti SC        (5 missing)
-%%   2. same, leave-code empty
-%%        → CJK full-width punctuation （。 stays in Baskerville     (5 missing)
-%%   3. + \setTransitionsForChinese/CJK/Punctuation/Symbols/Other
-%%        → 、。 after a Greek run stay in Times New Roman           (6 missing)
-%%   4. + explicit block transitions for CJKSymbolsAndPunctuation,
-%%      HalfwidthAndFullwidthForms, GeneralPunctuation declared LAST
-%%        → down to the FIRST character of each Hebrew / polytonic
-%%          Greek run falling back to Songti SC                     (4 missing)
-%% Useful facts established for whoever picks this up:
-%%   - ASCII punctuation lives in BasicLatin → the Latin class, so enabling
-%%     Latin does NOT fragment English words. That worry is unfounded.
-%%   - 。 (U+3002) is CJKSymbolsAndPunctuation and （ (U+FF09) is
-%%     HalfwidthAndFullwidthForms — both in the Chinese AND CJK class groups,
-%%     neither in the CJKUnifiedIdeographs block.
-%%   - Later \setTransitionsFor* declarations win over earlier ones for any
-%%     block both claim; \setTransitionsForOther claims almost everything, so
-%%     declare it early.
-%% The visible cost of leaving Latin off: \emph on a Latin run resolves to
-%% \setmainfont's ItalicFont (Kaiti SC), whose Latin glyphs are upright, so
-%% every italicised work title in the book renders as roman.
-% \setTransitionsForLatin{\uckeep{\basklatin}}{\normalfont}
+\newcommand{\ucLatinRun}{\uckeep{\basklatin}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkfallbackfont}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block these books actually contain, measured over the
+%% markdown sources. Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
