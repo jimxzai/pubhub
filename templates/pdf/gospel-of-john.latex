@@ -11,20 +11,33 @@
 \usepackage{fontspec}
 
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+% Menlo has zero CJK glyphs: every CJK char in a code block
+% rendered as a blank box. Songti SC is CJK-safe.
+\setmonofont{Songti SC}
 
 %% Greek and Hebrew font support - auto-switch for Unicode blocks
 \usepackage{ucharclasses}
 \newfontfamily\greekfont{Times New Roman}[Script=Greek]
 \newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
-\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+%% ucharclasses fix (see .claude/skills/eat-bible/references/gotchas.md):
+%%  * {Greek} is a class GROUP, not a block — the block is GreekAndCoptic, so
+%%    the original line compiled fine and did nothing; basic Greek fell back
+%%    to the main font's own glyphs with no warning.
+%%  * These stay on the 3-arg \setTransitionsFor form. \setTransitionTo is
+%%    safer in principle (it cannot clobber another block's enter-code) but it
+%%    removes the leaving-code, so it REQUIRES every block the book uses to
+%%    have an explicit destination. Migrating without that census puts CJK
+%%    after a Greek run into \greekfont — measured here, it broke 1 Peter and
+%%    2 Timothy outright. Do that migration per book, with the block census,
+%%    the way templates/pdf/revelation.latex and isaiah.latex do it.
+\setTransitionsFor{GreekAndCoptic}{\greekfont}{\normalfont}
 \setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
 \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
-
 %% Calligraphy brush font for cover/frontispiece accents
 \newfontfamily\kaiti{Kaiti SC}
 
@@ -782,7 +795,7 @@ $body$
 \section*{舊約 Old Testament}
 
 {\small
-\begin{longtable}{@{}p{3.2cm}p{4.2cm}p{6.6cm}@{}}
+\begin{longtable}{@{}p{3.01cm}p{3.95cm}p{6.21cm}@{}}
 \toprule
 \textbf{經文} & \textbf{主題} & \textbf{與約翰福音的連結} \\
 \midrule
@@ -835,7 +848,7 @@ $body$
 \section*{新約平行與呼應 New Testament Parallels}
 
 {\small
-\begin{longtable}{@{}p{3.2cm}p{10.8cm}@{}}
+\begin{longtable}{@{}p{3.11cm}p{10.50cm}@{}}
 \toprule
 \textbf{經文} & \textbf{與約翰福音的連結} \\
 \midrule
@@ -1094,7 +1107,7 @@ $body$
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}\vspace{0.18cm}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}\vspace{0.18cm}
 \centering
 {\footnotesize\bfseries\color{ChapterBlue} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
 {\footnotesize\color{TextGray}
@@ -1109,7 +1122,7 @@ $body$
 
 \begin{center}
 \fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{5.5in}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
 \centering\vspace{0.15cm}
 {\footnotesize\color{TextGray}
 「耶穌在門徒面前另外行了許多神蹟，沒有記在這書上。但記載這些事是要使你們信耶穌是基督，是神的兒子，並且使你們信了，就可以因他的名得生命。」\\[0.15em]
@@ -1157,7 +1170,7 @@ $body$
 
 \vspace{0.3cm}
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
 \centering\vspace{0.2cm}
 {\footnotesize\color{TextGray}
 \textbf{結構觀察：}兆頭1（水變酒）與兆頭7（拉撒路復活）都是「無到有」的創造性作為；中間五個兆頭，是「殘缺到完整」的醫治與供應。}
@@ -1179,7 +1192,7 @@ $body$
 \noindent 以下所列，均為約翰福音經文\textbf{明文引用}的舊約預言，依約翰福音章節順序排列——不是泛泛的相似，而是約翰或耶穌自己親口指明的應驗關係。
 
 {\small
-\begin{longtable}{@{}p{2.0cm}p{4.5cm}p{2.2cm}p{4.9cm}@{}}
+\begin{longtable}{@{}p{1.88cm}p{4.22cm}p{2.06cm}p{4.60cm}@{}}
 \toprule
 \textbf{約翰福音} & \textbf{內容} & \textbf{舊約出處} & \textbf{應驗方式} \\
 \midrule
@@ -1216,7 +1229,7 @@ $body$
 \noindent 本表彙整全書各章「原文研讀」與「希臘文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
 
 {\small
-\begin{longtable}{@{}p{2.6cm}p{2.6cm}p{3.0cm}p{5.4cm}@{}}
+\begin{longtable}{@{}p{2.44cm}p{2.44cm}p{2.82cm}p{5.07cm}@{}}
 \toprule
 \textbf{希臘文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
 \midrule
@@ -1279,7 +1292,7 @@ $body$
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}\vspace{0.18cm}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}\vspace{0.18cm}
 \centering
 {\footnotesize\bfseries\color{ChapterBlue} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
 {\footnotesize\color{TextGray}
@@ -1295,7 +1308,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.0cm}p{4.5cm}p{8.1cm}@{}}
+\begin{longtable}{@{}p{0.97cm}p{4.36cm}p{7.85cm}@{}}
 \toprule
 \textbf{日} & \textbf{焦點} & \textbf{帶入的問題} \\
 \midrule
@@ -1315,7 +1328,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\begin{longtable}{@{}p{1.55cm}p{4.36cm}p{7.27cm}@{}}
 \toprule
 \textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
 \midrule
@@ -1333,7 +1346,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\begin{longtable}{@{}p{1.55cm}p{4.36cm}p{7.27cm}@{}}
 \toprule
 \textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
 \midrule
@@ -1352,7 +1365,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\begin{longtable}{@{}p{1.55cm}p{4.36cm}p{7.27cm}@{}}
 \toprule
 \textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
 \midrule
@@ -1370,7 +1383,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\begin{longtable}{@{}p{1.55cm}p{4.36cm}p{7.27cm}@{}}
 \toprule
 \textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
 \midrule

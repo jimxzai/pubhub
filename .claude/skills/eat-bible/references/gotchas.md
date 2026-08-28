@@ -107,6 +107,16 @@ scripts/lint-templates.sh [template-name ...]
   and never reached zero; the `\setTransitionTo` version reached **0** on the
   first try. Shipping in `revelation.latex` and `isaiah.latex`.
 
+  **Do not migrate mechanically.** `\setTransitionTo` removes the leaving-code,
+  so any block *without* an explicit destination inherits whatever font was
+  last selected. Converting the existing three declarations in 1 Peter and
+  2 Timothy — without adding CJK/Latin/punctuation destinations — put every
+  CJK character after a Greek run into `\greekfont`, i.e. Times New Roman with
+  `script=greek`, and the build failed outright. The migration is per book:
+  run the block census first, then convert. Books still on
+  `\setTransitionsFor` are flagged by `lint-templates.sh` as
+  `ucharclasses-two-way-clobber` — a latent risk, not a build failure.
+
   Enumerate the blocks a book actually uses before writing the list — these
   two books touch only thirteen. Useful facts: ASCII punctuation is in
   `BasicLatin` → the **Latin** class, so enabling Latin does *not* fragment
@@ -159,6 +169,12 @@ scripts/lint-templates.sh [template-name ...]
   counted by the driver's own `grep -c` and register as a failure. The
   helper prints `missing-glyph warnings:` / `overfull-box warnings:`
   for exactly this reason.
+
+- **Overfull counts are inflated by the number of xelatex passes.** pandoc
+  runs xelatex up to three times, and each pass re-reports the same box, so a
+  reported count of 8 is typically 2–3 distinct defects. The number is still
+  the right regression signal (it is consistently inflated), but do not read
+  it as "8 broken places" — read the log lines, which name the box content.
 
 - **`Overfull \hbox` is the *only* signal that content is printing
   outside its column or off the text block.** Exit code 0, no glyph

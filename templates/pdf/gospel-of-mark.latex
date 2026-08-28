@@ -11,7 +11,8 @@
 \usepackage{fontspec}
 
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
@@ -21,10 +22,20 @@
 \usepackage{ucharclasses}
 \newfontfamily\greekfont{Times New Roman}[Script=Greek]
 \newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
-\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+%% ucharclasses fix (see .claude/skills/eat-bible/references/gotchas.md):
+%%  * {Greek} is a class GROUP, not a block — the block is GreekAndCoptic, so
+%%    the original line compiled fine and did nothing; basic Greek fell back
+%%    to the main font's own glyphs with no warning.
+%%  * These stay on the 3-arg \setTransitionsFor form. \setTransitionTo is
+%%    safer in principle (it cannot clobber another block's enter-code) but it
+%%    removes the leaving-code, so it REQUIRES every block the book uses to
+%%    have an explicit destination. Migrating without that census puts CJK
+%%    after a Greek run into \greekfont — measured here, it broke 1 Peter and
+%%    2 Timothy outright. Do that migration per book, with the block census,
+%%    the way templates/pdf/revelation.latex and isaiah.latex do it.
+\setTransitionsFor{GreekAndCoptic}{\greekfont}{\normalfont}
 \setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
 \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
-
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
@@ -750,7 +761,7 @@ $body$
 \section*{舊約 Old Testament}
 
 {\small
-\begin{longtable}{@{}p{3.2cm}p{4.2cm}p{6.6cm}@{}}
+\begin{longtable}{@{}p{3.01cm}p{3.95cm}p{6.21cm}@{}}
 \toprule
 \textbf{經文} & \textbf{主題} & \textbf{與馬可福音的連結} \\
 \midrule
@@ -795,7 +806,7 @@ $body$
 \section*{新約平行與呼應 New Testament Parallels}
 
 {\small
-\begin{longtable}{@{}p{3.2cm}p{10.8cm}@{}}
+\begin{longtable}{@{}p{3.11cm}p{10.50cm}@{}}
 \toprule
 \textbf{經文} & \textbf{與馬可福音的連結} \\
 \midrule
@@ -1033,7 +1044,7 @@ $body$
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}\vspace{0.18cm}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}\vspace{0.18cm}
 \centering
 {\footnotesize\bfseries\color{ChapterRed} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
 {\footnotesize\color{TextGray}
@@ -1048,7 +1059,7 @@ $body$
 
 \begin{center}
 \fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{5.5in}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}
 \centering\vspace{0.15cm}
 {\footnotesize\color{TextGray}
 「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」\\[0.15em]
@@ -1117,7 +1128,7 @@ $body$
 \noindent 以下所列，均為馬可福音經文\textbf{明文引用}的舊約預言，依馬可福音章節順序排列——不是泛泛的相似，而是馬可或耶穌自己親口指明的應驗關係。
 
 {\small
-\begin{longtable}{@{}p{2.0cm}p{4.5cm}p{2.2cm}p{4.9cm}@{}}
+\begin{longtable}{@{}p{1.88cm}p{4.22cm}p{2.06cm}p{4.60cm}@{}}
 \toprule
 \textbf{馬可福音} & \textbf{內容} & \textbf{舊約出處} & \textbf{應驗方式} \\
 \midrule
@@ -1159,7 +1170,7 @@ $body$
 \noindent 本表彙整全書各章「原文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
 
 {\small
-\begin{longtable}{@{}p{2.6cm}p{2.6cm}p{3.0cm}p{5.4cm}@{}}
+\begin{longtable}{@{}p{2.44cm}p{2.44cm}p{2.82cm}p{5.07cm}@{}}
 \toprule
 \textbf{希臘文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
 \midrule
@@ -1221,7 +1232,7 @@ $body$
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}\vspace{0.18cm}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}\vspace{0.18cm}
 \centering
 {\footnotesize\bfseries\color{ChapterRed} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
 {\footnotesize\color{TextGray}
@@ -1237,7 +1248,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\begin{longtable}{@{}p{1.55cm}p{4.36cm}p{7.27cm}@{}}
 \toprule
 \textbf{段落} & \textbf{焦點} & \textbf{帶入的問題} \\
 \midrule
@@ -1253,7 +1264,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\begin{longtable}{@{}p{1.55cm}p{4.36cm}p{7.27cm}@{}}
 \toprule
 \textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
 \midrule
@@ -1270,7 +1281,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\begin{longtable}{@{}p{1.55cm}p{4.36cm}p{7.27cm}@{}}
 \toprule
 \textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
 \midrule
@@ -1286,7 +1297,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.15}
-\begin{longtable}{@{}p{1.6cm}p{4.5cm}p{7.5cm}@{}}
+\begin{longtable}{@{}p{1.55cm}p{4.36cm}p{7.27cm}@{}}
 \toprule
 \textbf{章} & \textbf{標題} & \textbf{帶入的問題} \\
 \midrule

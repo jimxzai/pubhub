@@ -11,7 +11,8 @@
 \usepackage{fontspec}
 
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
@@ -31,11 +32,28 @@
 \newfontfamily\didotfont{Didot}
 % Alias matching the naming convention used on the full-bleed cover pages
 \newcommand{\baskervillefont}{\basklatin}
-\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+%% ucharclasses fix (see .claude/skills/eat-bible/references/gotchas.md):
+%%  * {Greek} is a class GROUP, not a block — the block is GreekAndCoptic, so
+%%    the original line compiled fine and did nothing; basic Greek fell back
+%%    to the main font's own glyphs with no warning.
+%%  * These stay on the 3-arg \setTransitionsFor form. \setTransitionTo is
+%%    safer in principle (it cannot clobber another block's enter-code) but it
+%%    removes the leaving-code, so it REQUIRES every block the book uses to
+%%    have an explicit destination. Migrating without that census puts CJK
+%%    after a Greek run into \greekfont — measured here, it broke 1 Peter and
+%%    2 Timothy outright. Do that migration per book, with the block census,
+%%    the way templates/pdf/revelation.latex and isaiah.latex do it.
+\setTransitionsFor{GreekAndCoptic}{\greekfont}{\normalfont}
 \setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
 \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
-\setTransitionsFor{Han}{\cjkfallbackfont}{\normalfont}
-\setTransitionsFor{Latin}{\basklatin}{\normalfont}
+%% Han was a no-op (not a block) and has never had any effect. Enabling it for real is a
+%% book-wide change that needs every other block given an explicit
+%% destination — do it deliberately, not as a side effect.
+% \setTransitionsFor{Han}{\cjkfallbackfont}{\normalfont}
+%% Latin was a no-op (class group) and has never had any effect. Enabling it for real is a
+%% book-wide change that needs every other block given an explicit
+%% destination — do it deliberately, not as a side effect.
+% \setTransitionsFor{Latin}{\basklatin}{\normalfont}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"

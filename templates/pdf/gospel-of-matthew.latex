@@ -11,11 +11,14 @@
 \usepackage{fontspec}
 
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+% Menlo has zero CJK glyphs: every CJK char in a code block
+% rendered as a blank box. Songti SC is CJK-safe.
+\setmonofont{Songti SC}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -35,8 +38,18 @@
 \newfontfamily\greekfont{Arial Unicode MS}
 \newfontfamily\hebrewfont{Arial Unicode MS}
 \setTransitionsForGreek{\greekfont}{\normalfont}
+%% ucharclasses fix (see .claude/skills/eat-bible/references/gotchas.md):
+%%  * {Greek} is a class GROUP, not a block — the block is GreekAndCoptic, so
+%%    the original line compiled fine and did nothing; basic Greek fell back
+%%    to the main font's own glyphs with no warning.
+%%  * These stay on the 3-arg \setTransitionsFor form. \setTransitionTo is
+%%    safer in principle (it cannot clobber another block's enter-code) but it
+%%    removes the leaving-code, so it REQUIRES every block the book uses to
+%%    have an explicit destination. Migrating without that census puts CJK
+%%    after a Greek run into \greekfont — measured here, it broke 1 Peter and
+%%    2 Timothy outright. Do that migration per book, with the block census,
+%%    the way templates/pdf/revelation.latex and isaiah.latex do it.
 \setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
-
 %% ============================================
 %% PAGE GEOMETRY - Fixed margins (more conservative)
 %% ============================================
