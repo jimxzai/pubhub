@@ -13,6 +13,25 @@ directory — except `references/*.md`, which are beside this file.
 | `references/gotchas.md` | A build fails, a page looks wrong, or you are about to edit a `templates/pdf/*.latex`. Every silent failure this repo has hit, plus the troubleshooting table. |
 | `references/scripture-sources.md` | You are *writing* chapter markdown and need to verify a verse. ai-eden.com URL patterns, the RCUV caveat, rate limits, fallback disclosure. |
 
+**The order that works.** Each step catches a class the next one cannot:
+
+1. `scripts/lint-templates.sh` — static, ~1s, no build. Fix findings first;
+   they are causes, the build only shows symptoms.
+2. `.claude/skills/eat-bible/driver.sh <slug>` — builds, then checks the
+   xelatex log, font embedding, and the baseline. Fails on *regression*.
+3. Read the rendered PNG, and inspect the PDF as a published object
+   (`pdfinfo`, TOC depth, `pdffonts`). Neither of the first two steps can
+   see a page that merely *looks* wrong.
+4. `driver.sh <slug> --record-baseline` — only after you have looked, and
+   only for a change you intend.
+
+Batch fixes have a poor record here: four attempts at re-proportioning
+table columns barely moved the overfull count and twice made it worse.
+What works is reading the pt figure xelatex reports and sizing from it.
+After any batch change, rebuild everything and diff against the baselines;
+if a number got worse, `git checkout` and rethink rather than layering
+another guess on top.
+
 ## What this is
 
 This repo has no server/GUI/REPL to launch — the "app" is a build
@@ -31,7 +50,7 @@ fail to reach the page edge. The driver below checks all of that.
 ## Lint first — it's free
 
 Before building anything, run the static check. It takes about a second,
-needs no build, and catches four template bugs that are completely
+needs no build, and catches six template bugs that are completely
 silent at compile time (exit 0, no warnings, no errors):
 
 ```bash
@@ -46,18 +65,34 @@ exits 1 if anything is found:
 - `cjk-blind-monofont` — `\setmonofont{Menlo}` renders CJK as blank boxes
 - `minipage-overflows-textblock` — a fixed-inch box printing into the margin
 - `table-wider-than-textblock` — `p{}` widths exceeding the column budget
+- `table-cell-wider-than-column` — the table total fits but one cell does
+  not; a Greek or Latin word cannot break, CJK can
+- `ucharclasses-dead-transition` — `\setTransitionsFor{Greek}` and friends
+  are silent no-ops; the block names come from the installed
+  `ucharclasses.sty`, not a hardcoded list
+- `ucharclasses-two-way-clobber` — `\setTransitionsFor` sets both
+  directions, so a later out-code overwrites an earlier in-code
 
 **This script exists because prose didn't work.** `references/gotchas.md`
 documented the BoldFont bug and told the reader to "check every
 other `templates/pdf/*.latex` file for this exact pattern". Months
 later 56 of 57 templates still had it, including 14 of the 17 buildable
 books. An instruction to go grep is a task nobody performs; a script
-runs every time.
+runs every time. Repo-wide the count went 139 → 1 once each rule existed.
 
-The lint also predicts the build: the only three buildable templates
-with both `table-wider-than-textblock` and `minipage-overflows-textblock`
-findings — `acts`, `gospel-of-john`, `gospel-of-mark` — are exactly the
-three books with 116/146/126 overfull boxes at build time.
+**For a template with no build script, use a probe document.** Feed a
+markdown file containing CJK, full-width punctuation, Greek, Hebrew,
+italic Latin and a table through the template and count missing glyphs:
+
+```bash
+pandoc probe.md -o /tmp/t.pdf --pdf-engine=xelatex \
+  --template=templates/pdf/<name>.latex --verbose 2>&1 |
+  grep -c "Missing character"
+```
+
+That is how the 21 non-buildable templates were migrated and verified —
+0 made worse, and one (`gospel-harmony-liturgical`) went 20 → 0. Never
+change a template you cannot compile even once.
 
 ## Run (agent path) — use this first
 
@@ -88,16 +123,17 @@ and prints the relevant log lines on any failure.
 (checked in beside the driver) records `pages / missing-glyphs /
 overfull-boxes` per book. The driver fails if this build is *worse*
 than the recorded numbers. Absolute counts can't be the gate here —
-several books have carried defects since they were created, so
+several books carried defects since they were created, so
 "fail if nonzero" would mean the driver always fails and everyone stops
-reading it. As recorded 2026-08-28:
+reading it. Read the current numbers from `baselines.tsv` rather than
+from this file — as of 2026-08-28, 14 of 17 books sit at 0 overfull and
+the remainder are `romans` 12, `gospel-of-matthew` 8,
+`pastoral-epistles` 4. Every book is at 0 missing glyphs.
 
-```
-2-peter 2-timothy hebrews isaiah psalm psalm-liturgical revelation   0 overfull
-1-peter 4 · gospel-of-luke 8 · titus 8 · 1-timothy 10 · romans 12
-pastoral-epistles 14 · gospel-of-matthew 18
-acts 116 · gospel-of-mark 126 · gospel (John) 146
-```
+Those last 24 are all the same shape: a Latin or Greek word wedged
+between full-width punctuation (`5:20，perisseuō（充盈`), which offers no
+break opportunity. Fixing them means rewriting the cell, not widening
+the column.
 
 Those last three are the pre-existing backlog the lint predicts; the
 rest are small. After deliberately fixing (or knowingly accepting) a
