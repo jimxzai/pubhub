@@ -30,11 +30,12 @@
 
 % Main CJK fonts - large and readable
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Songti SC}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"

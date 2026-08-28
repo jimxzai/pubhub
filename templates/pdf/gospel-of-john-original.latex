@@ -11,11 +11,12 @@
 \usepackage{fontspec}
 
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Songti SC}
 
 %% Greek and Hebrew font support - auto-switch for Unicode blocks
 \usepackage{ucharclasses}

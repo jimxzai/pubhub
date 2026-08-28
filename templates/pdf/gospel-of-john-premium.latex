@@ -11,11 +11,12 @@
 
 % Use macOS system fonts that support CJK
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{Heiti SC}
-\setmonofont{Menlo}[Scale=0.9]
+\setmonofont{Songti SC}[Scale=0.9]
 
 % Enable CJK line breaking
 \XeTeXlinebreaklocale "zh"

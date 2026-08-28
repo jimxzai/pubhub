@@ -11,11 +11,12 @@
 \usepackage{fontspec}
 
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Songti SC}
 
 %% Greek and Hebrew font support - auto-switch for Unicode blocks
 \usepackage{ucharclasses}
@@ -581,7 +582,7 @@ $body$
 \section*{舊約迴響 Old Testament Echoes}
 
 {\small
-\begin{longtable}{@{}p{3.4cm}p{4.2cm}p{6.4cm}@{}}
+\begin{longtable}{@{}p{3.20cm}p{3.95cm}p{6.03cm}@{}}
 \toprule
 \textbf{經文} & \textbf{主題} & \textbf{與歌羅西書的連結} \\
 \midrule
@@ -596,7 +597,7 @@ $body$
 \section*{新約平行與呼應 New Testament Parallels}
 
 {\small
-\begin{longtable}{@{}p{3.4cm}p{10.6cm}@{}}
+\begin{longtable}{@{}p{3.30cm}p{10.30cm}@{}}
 \toprule
 \textbf{經文} & \textbf{與歌羅西書的連結} \\
 \midrule
@@ -747,7 +748,7 @@ $body$
 \section*{主題互補對照}
 
 {\small
-\begin{longtable}{@{}p{3.0cm}p{5.5cm}p{5.5cm}@{}}
+\begin{longtable}{@{}p{2.82cm}p{5.18cm}p{5.18cm}@{}}
 \toprule
 \textbf{主題} & \textbf{歌羅西書} & \textbf{以弗所書} \\
 \midrule
@@ -777,7 +778,7 @@ $body$
 \noindent 本表彙整全書八章「原文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
 
 {\small
-\begin{longtable}{@{}p{2.8cm}p{2.4cm}p{3.0cm}p{5.4cm}@{}}
+\begin{longtable}{@{}p{2.63cm}p{2.25cm}p{2.82cm}p{5.07cm}@{}}
 \toprule
 \textbf{希臘文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
 \midrule
@@ -829,7 +830,7 @@ $body$
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{6.0in}\vspace{0.18cm}
+\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}\vspace{0.18cm}
 \centering
 {\footnotesize\bfseries\color{ChapterPurple} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
 {\footnotesize\color{TextGray}
@@ -843,7 +844,7 @@ $body$
 
 {\small
 \renewcommand{\arraystretch}{1.2}
-\begin{longtable}{@{}p{1.2cm}p{2.4cm}p{2.6cm}p{7.0cm}@{}}
+\begin{longtable}{@{}p{1.16cm}p{2.32cm}p{2.51cm}p{6.77cm}@{}}
 \toprule
 \textbf{天} & \textbf{經文} & \textbf{主題} & \textbf{帶入的問題} \\
 \midrule

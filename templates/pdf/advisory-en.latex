@@ -10,11 +10,12 @@
 \usepackage{fontspec}
 
 \setmainfont{Georgia}[
-  BoldFont=Georgia Bold,
+  BoldFont=Georgia,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Georgia Italic
 ]
 \setsansfont{Helvetica Neue}
-\setmonofont{Menlo}[Scale=0.9]
+\setmonofont{Songti SC}[Scale=0.9]
 
 %% ============================================
 %% PAGE GEOMETRY - 6x9 book format

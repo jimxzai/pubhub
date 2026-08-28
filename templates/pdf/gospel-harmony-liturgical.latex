@@ -37,12 +37,13 @@
 
 % Main CJK fonts — Ligatures=TeX enables ``''→curly quotes + ---→em-dash
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC,
   Ligatures=TeX
 ]
 \setsansfont[Ligatures=TeX]{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Songti SC}
 
 % Calligraphy fonts for special use - 書法字型
 % \kaiti for elegant emphasis (楷體 - regular brush)

@@ -12,14 +12,16 @@
 
 % Western text font (same as English edition)
 \setmainfont{Palatino}[
-  BoldFont=Palatino Bold,
+  BoldFont=Palatino,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Palatino Italic,
   BoldItalicFont=Palatino Bold Italic,
   Numbers=Lining,
   Ligatures=TeX
 ]
 \setsansfont{Avenir Next}[
-  BoldFont=Avenir Next Bold,
+  BoldFont=Avenir Next,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Avenir Next Italic,
   Scale=0.95
 ]
@@ -34,7 +36,7 @@
 
 % Traditional Chinese fonts
 \setCJKmainfont{Songti TC}[
-  BoldFont=Songti TC Bold
+  BoldFont=Songti TC, BoldFeatures={FakeBold=2.2}
 ]
 \setCJKsansfont{Heiti TC}[
   BoldFont=Heiti TC Medium

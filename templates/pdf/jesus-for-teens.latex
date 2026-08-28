@@ -11,13 +11,13 @@
 % 字体设置
 \usepackage{fontspec}
 \setmainfont{Songti SC}[
-  BoldFont={Songti SC Bold},
+  BoldFont={Songti SC}, BoldFeatures={FakeBold=2.2},
   ItalicFont={Kaiti SC},
   BoldItalicFont={Kaiti SC Bold},
   Scale=1.0
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Songti SC}
 
 % 适合12岁以上青少年阅读，无需拼音
 

@@ -11,11 +11,12 @@
 \usepackage{fontspec}
 
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Songti SC}
 \newfontfamily\kaiti{Kaiti SC}
 
 %% Greek and Hebrew font support - auto-switch for Unicode blocks
@@ -876,7 +877,7 @@ $body$
 \noindent 本索引收錄本書研讀中反覆強調、且在新約經文本身有直接引用或清楚呼應關係的撒母耳記經文，依書卷順序排列。
 
 {\small
-\begin{longtable}{@{}p{2.6cm}p{4.6cm}p{6.8cm}@{}}
+\begin{longtable}{@{}p{2.45cm}p{4.33cm}p{6.40cm}@{}}
 \toprule
 \textbf{經文} & \textbf{主題} & \textbf{與新約的連結} \\
 \midrule
