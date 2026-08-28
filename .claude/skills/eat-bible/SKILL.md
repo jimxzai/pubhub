@@ -172,6 +172,64 @@ These are specific failures hit and fixed across this session's builds
 (1 Timothy, 2 Timothy, Titus, the combined "盡職" volume), not generic
 LaTeX advice:
 
+- **`BoldFont=<Family> Bold` pointing at a real bold font file silently
+  weakens (and can fully flatten) `\textbf{}` for CJK text that contains
+  full-width punctuation (：。) — with zero warnings, zero errors, exit
+  code 0.** Root cause, confirmed on the 1 Peter template: "Songti SC
+  Bold" has missing/mismatched glyphs for full-width colon and period.
+  When xelatex hits one of those inside a `\textbf` run, it silently
+  degrades that run's weight rather than erroring or substituting just
+  the one glyph — and since nearly every bolded Chinese phrase in this
+  project contains such punctuation, the practical effect on a real
+  chapter page is bold text that's measurably weaker throughout (see
+  measurement method below), sometimes reading as fully non-bold to the
+  eye, sometimes just "not as heavy as it should be." **This will not
+  show up in `driver.sh`'s missing-glyph/error checks — those only
+  catch glyphs absent from a font entirely, not glyphs present but
+  triggering a silent weight fallback.** The only way to catch it is to
+  actually look at (or measure) rendered bold text.
+  **Fix**: point `BoldFont` at the *same* regular font file, thickened
+  synthetically, instead of a separate real bold face — guarantees
+  identical glyph coverage so the fallback can't trigger:
+  ```latex
+  \setmainfont{Songti SC}[BoldFont=Songti SC, BoldFeatures={FakeBold=2.2}, ItalicFont=Kaiti SC]
+  ```
+  Apply the same pattern to **every** `\newfontfamily` ucharclasses can
+  switch into mid-run (`\cjkfallbackfont`, `\greekfont`, `\hebrewfont`,
+  `\basklatin`/whatever the Latin-run font is called) — the bug recurs
+  identically the instant a bold span crosses into any of them, since
+  none of them had a working bold face either. Confirmed this affects
+  at least `templates/pdf/1-peter.latex` and (pre-fix, since it was
+  copied from) `templates/pdf/romans.latex` — **check every other
+  `templates/pdf/*.latex` file for this exact `BoldFont=` pattern before
+  assuming a book's bold text is fine.**
+  **How to verify, reliably** (eyeballing a production page is not
+  reliable — see below): compile a *minimal* reproduction, not the full
+  book — the effect is dramatic and unambiguous in isolation but gets
+  visually diluted (while remaining just as real) once buried in a full
+  page of mixed content:
+  ```latex
+  \documentclass[11pt]{article}
+  \usepackage{fontspec}
+  \setmainfont{Songti SC}[BoldFont=Songti SC Bold, ItalicFont=Kaiti SC]  % the template's current setting
+  \begin{document}
+  \textbf{一句話精義：受苦不是意外，是操練場。}
+  \end{document}
+  ```
+  Render at `pdftoppm -r 200` and look — with the buggy `BoldFont=<real
+  face>` this renders visibly flat/non-bold; with `BoldFont=<same file>,
+  BoldFeatures={FakeBold=2.2}` it's unambiguously heavier. **Do not
+  trust a same-page-by-eye comparison on real book content** — a
+  same-page pixel-density measurement (crop the same x/y region across
+  a broken vs. fixed render, count pixels below a darkness threshold)
+  showed the real effect is a consistent 13–32% ink-density increase on
+  lines containing bold text once fixed, with an exact 0% difference on
+  bold-free control lines in the same page — real and measurable, but
+  visually subtle enough at normal reading distance that a rushed
+  eyeball check can miss it. Trust the minimal isolated repro to decide
+  whether a template has this bug at all; don't rely on "does this real
+  page look bold enough to me" as the test.
+
 - **CJK text under `\setmonofont{Menlo}`** → every CJK character in a
   code/ASCII-art block renders as a blank box and emits a "Missing
   character" warning. Menlo has zero CJK glyphs. Fix: `\setmonofont`
@@ -236,6 +294,7 @@ LaTeX advice:
 
 | Symptom | Cause | Fix |
 |---|---|---|
+| `**bold**` Chinese text renders flat/weak in the PDF, but the build log shows zero warnings and zero errors | `BoldFont=` points at a real bold font file missing glyphs for full-width punctuation (：。) inside the bold span — silent weight fallback, not a missing-glyph error | Point `BoldFont` at the same regular font file with `BoldFeatures={FakeBold=<n>}` instead of a separate real bold face; apply to every `\newfontfamily` ucharclasses can switch into, not just `\setmainfont`. See Gotchas above for the isolated repro to confirm before/after. |
 | `Missing character: There is no X in font Y!` in the build log | A font is missing a glyph it's being asked to render — almost always CJK text scoped under a Latin-only font, or a monospace font (Menlo) with no CJK glyphs | See Gotchas above; narrow the font scope or switch `\setmonofont` |
 | `! LaTeX Error: There's no line here to end.` | `\hrule` used outside vertical mode | Replace with `\rule{width}{height}` |
 | `! Undefined control sequence` naming a `pgffor@...` internal | `\foreach` looping over a braced multi-line value | Unroll the loop into explicit statements |

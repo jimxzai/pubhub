@@ -104,6 +104,11 @@ else
     echo "    warnings only catch glyphs that don't exist in a font at all,"
     echo "    not glyphs that render as the wrong thing, overflow a box, or"
     echo "    a full-bleed background that doesn't reach the page edge."
+    echo "    Bold CJK text specifically can render flat/weak with zero"
+    echo "    warnings (BoldFont glyph-fallback bug, see SKILL.md Gotchas) —"
+    echo "    on a busy content page this is easy to miss by eye even when"
+    echo "    looking for it; if this template's bold is unverified, run"
+    echo "    the isolated repro in SKILL.md instead of trusting a glance."
   else
     echo "FAIL: pdftoppm ran but produced no PNG" >&2
     exit 1
