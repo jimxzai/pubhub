@@ -10,8 +10,17 @@
 %% ============================================
 \usepackage{fontspec}
 
+% BoldFont points at the SAME regular file, thickened via FakeBold, rather
+% than the real "Songti SC Bold" face. That real bold face is missing (or
+% has mismatched) glyphs for full-width punctuation (：。) — when XeTeX
+% hits one of those inside a \textbf run, it silently drops the ENTIRE
+% run to regular weight rather than just substituting that one glyph.
+% Since nearly every bolded Chinese phrase in this book contains such
+% punctuation, that bug was killing almost all bold emphasis. FakeBold
+% guarantees full glyph coverage (same file) so it can't happen.
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
@@ -19,15 +28,19 @@
 
 %% Greek and Hebrew font support - auto-switch for Unicode blocks
 \usepackage{ucharclasses}
-\newfontfamily\greekfont{Times New Roman}[Script=Greek]
-\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
-\newfontfamily\cjkfallbackfont{Songti SC}
+% Same FakeBold treatment as \setmainfont above, applied to every
+% script-fallback font ucharclasses can switch into — otherwise bold
+% text silently reverts to regular weight the instant it crosses into
+% a Greek/Hebrew/CJK-fallback run (see note above).
+\newfontfamily\greekfont{Times New Roman}[Script=Greek, BoldFont=Times New Roman, BoldFeatures={FakeBold=1.6}]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew, BoldFont=Arial Hebrew, BoldFeatures={FakeBold=1.6}]
+\newfontfamily\cjkfallbackfont{Songti SC}[BoldFont=Songti SC, BoldFeatures={FakeBold=2.2}]
 
 %% Classical English typeface — auto-switch for Latin-script runs so
 %% bilingual scripture/quote blocks render in a period-appropriate serif
 %% instead of Songti SC's built-in Latin glyphs. Baskerville for running
 %% text; Didot reserved for large display lines (invoked explicitly).
-\newfontfamily\basklatin{Baskerville}
+\newfontfamily\basklatin{Baskerville}[BoldFont=Baskerville, BoldFeatures={FakeBold=1.6}]
 \newfontfamily\didotfont{Didot}
 % Alias matching the naming convention used on the full-bleed cover pages
 \newcommand{\baskervillefont}{\basklatin}
