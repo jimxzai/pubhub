@@ -18,6 +18,61 @@ scripts/lint-templates.sh [template-name ...]
 
 ## Gotchas
 
+- **`ucharclasses` has two APIs, and passing the wrong name to either one
+  compiles cleanly and does nothing at all.**
+  ```latex
+  \setTransitionsFor{<Block>}{in}{out}   % 3 args — a real Unicode BLOCK
+  \setTransitionsFor<Group>{in}{out}     % 2 args — a class GROUP
+  ```
+  `Greek`, `Latin`, `CJK`, `Chinese`, `Punctuation`, `Other` are class
+  **groups**. `GreekAndCoptic`, `GreekExtended`, `Hebrew`,
+  `CJKSymbolsAndPunctuation`, `HalfwidthAndFullwidthForms`,
+  `CJKUnifiedIdeographs` are **blocks**. `Han` is neither. Feeding a group
+  name — or a name that doesn't exist — to the 3-arg form is a silent no-op:
+  no error, no warning, and the font simply never switches.
+
+  Found on `revelation.latex`, where three of five transitions were dead:
+  `{Greek}` (block is `GreekAndCoptic`), `{Han}` (no such thing), and
+  `{Latin}` (group form is `\setTransitionsForLatin`). `isaiah.latex` has the
+  same dead `{Greek}` line. **Check every template for this** — the symptom is
+  invisible, because the text still renders, just in the main font.
+
+  Downstream consequence worth knowing: with the Latin transition dead,
+  `\emph{}` on a Latin word resolves to `\setmainfont`'s `ItalicFont`. In
+  these templates that is `Kaiti SC`, a Chinese brush face whose Latin glyphs
+  are **upright** — so every italicised book title renders as roman, with no
+  warning. Confirmed by repro with ucharclasses not even loaded.
+
+- **A `\newfontfamily` switch used as a ucharclasses transition resets series
+  and shape**, dropping `\textbf` and `\emph` at every script boundary. Carry
+  them across:
+  ```latex
+  \makeatletter
+  \newcommand{\uckeep}[1]{%
+    \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+    #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+  \makeatother
+  \setTransitionsFor{Hebrew}{\uckeep{\hebrewfont}}{\normalfont}
+  ```
+
+- **Enabling a Latin transition in a CJK book is a project, not a one-liner.**
+  Once Latin switches families, every other class needs an explicit
+  destination or it inherits Baskerville/Times and emits missing-glyph
+  warnings. Four measured attempts on Revelation got 5 → 5 → 6 → 4 missing
+  glyphs without reaching zero; the residue was the first character of each
+  Hebrew and polytonic-Greek run. Facts established, so the next attempt
+  starts further along:
+  - ASCII punctuation is in `BasicLatin` → the **Latin** class, so enabling
+    Latin does *not* fragment English words.
+  - `。` is `CJKSymbolsAndPunctuation`, `）` is `HalfwidthAndFullwidthForms`;
+    both are in the `Chinese` and `CJK` groups, neither is in the
+    `CJKUnifiedIdeographs` block.
+  - Later `\setTransitionsFor*` declarations win for any block two of them
+    claim, and `\setTransitionsForOther` claims nearly everything — declare it
+    early.
+  - Leave-codes matter: `\normalfont` on exit can clobber the next class's
+    enter code; empty leave-codes strand characters in the previous font.
+
 - **`pandoc --pdf-engine=xelatex` discards the entire xelatex log unless
   you pass `--verbose` — so every "grep the build log" check in this
   repo passed vacuously for as long as it existed.** Measured on

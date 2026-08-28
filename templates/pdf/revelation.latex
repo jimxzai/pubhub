@@ -10,32 +10,125 @@
 %% ============================================
 \usepackage{fontspec}
 
+%% BoldFont fix (see .claude/skills/eat-bible/references/gotchas.md):
+%% "Songti SC Bold" has missing/mismatched glyphs for full-width punctuation
+%% (：。), so xelatex silently *weakens* any \textbf run containing them
+%% instead of erroring — zero warnings, exit code 0. Nearly every bolded
+%% Chinese phrase in this book contains such punctuation. Pointing BoldFont at
+%% the same regular file with FakeBold guarantees identical glyph coverage, so
+%% the fallback cannot trigger.
+%%
+%% Confirmed by isolated repro, per the skill's instruction to measure rather
+%% than eyeball: the CJK line renders visibly lighter with BoldFont=Songti SC
+%% Bold and unambiguously heavier with FakeBold.
+%%
+%% The same repro showed the reverse for the Latin/Greek/Hebrew families
+%% below: Baskerville, Times New Roman and Arial Hebrew all have real bold
+%% faces with complete coverage for the script they actually render, and
+%% fontspec's auto-detected bold beats a synthetic one there. So FakeBold is
+%% applied to the CJK families ONLY, not blanket-applied to every
+%% \newfontfamily.
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
-\setsansfont{PingFang SC}
-\setmonofont{Songti SC}
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+\setmonofont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2}
+]
 
-%% Greek and Hebrew font support - auto-switch for Unicode blocks
+%% Greek and Hebrew font support - auto-switch for Unicode blocks.
+%% These keep their real bold faces deliberately — see the note above.
 \usepackage{ucharclasses}
 \newfontfamily\greekfont{Times New Roman}[Script=Greek]
 \newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
-\newfontfamily\cjkfallbackfont{Songti SC}
+\newfontfamily\cjkfallbackfont{Songti SC}[
+  ItalicFont=Kaiti SC,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2}
+]
 
 %% Classical English typeface — auto-switch for Latin-script runs so
 %% bilingual scripture/quote blocks render in a period-appropriate serif
 %% instead of Songti SC's built-in Latin glyphs. Baskerville for running
 %% text; Didot reserved for large display lines (invoked explicitly).
-\newfontfamily\basklatin{Baskerville}
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
 \newfontfamily\didotfont{Didot}
 % Alias matching the naming convention used on the full-bleed cover pages
 \newcommand{\baskervillefont}{\basklatin}
-\setTransitionsFor{Greek}{\greekfont}{\normalfont}
-\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
-\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
-\setTransitionsFor{Han}{\cjkfallbackfont}{\normalfont}
-\setTransitionsFor{Latin}{\basklatin}{\normalfont}
+%% ucharclasses has TWO APIs and mixing them fails silently:
+%%   \setTransitionsFor{<block>}{in}{out}   — 3 args, real Unicode block
+%%   \setTransitionsFor<Group>{in}{out}     — 2 args, class group
+%% "Greek", "Latin" and "CJK" are class GROUPS, not blocks; "Han" is neither.
+%% Passing a group (or a nonexistent name) to the 3-arg form compiles fine and
+%% does nothing at all. Three of the five transitions here were dead code:
+%%   {Greek}  → no-op  (block is GreekAndCoptic)
+%%   {Han}    → no-op  (block is CJKUnifiedIdeographs)
+%%   {Latin}  → no-op  (group form is \setTransitionsForLatin)
+%% Consequence: basic Greek (θρόνος) fell back to Songti SC's own Greek
+%% glyphs rather than \greekfont, and Latin never reached Baskerville — so
+%% \emph on a Latin word resolved to \setmainfont's ItalicFont (Kaiti SC),
+%% whose Latin glyphs are UPRIGHT. Every italicised work title in the book
+%% rendered as roman, with zero warnings.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which is what
+%% drops \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\setTransitionsFor{GreekAndCoptic}{\uckeep{\greekfont}}{\normalfont}
+\setTransitionsFor{GreekExtended}{\uckeep{\greekfont}}{\normalfont}
+\setTransitionsFor{Hebrew}{\uckeep{\hebrewfont}}{\normalfont}
+%% CJK transition also stays off: \cjkfallbackfont IS Songti SC, the main
+%% font, so with the Latin transition off nothing ever switches away and
+%% this would only fire a redundant font selection at every Han boundary.
+%% Measured: enabling it added a page to the book and changed nothing
+%% visible. It becomes necessary only if the Latin transition is enabled.
+% \setTransitionsFor{CJKUnifiedIdeographs}{\uckeep{\cjkfallbackfont}}{\normalfont}
+%% The Latin transition stays OFF, deliberately. \basklatin is declared and
+%% the comment above says Latin runs were meant to render in Baskerville, but
+%% the line that would have done it was \setTransitionsFor{Latin}{...} — a
+%% no-op — so this book has always set Latin in Songti SC's own Latin glyphs.
+%%
+%% Turning it on is not a one-liner. Once Latin actually switches families,
+%% EVERY other character class needs an explicit destination or it inherits
+%% Baskerville (or Times, from \greekfont) and emits missing-glyph warnings.
+%% Attempts measured on this book, all caught by driver.sh step 2:
+%%   1. \setTransitionsForLatin + leave-code \normalfont
+%%        → Hebrew after a digit run falls back to Songti SC        (5 missing)
+%%   2. same, leave-code empty
+%%        → CJK full-width punctuation （。 stays in Baskerville     (5 missing)
+%%   3. + \setTransitionsForChinese/CJK/Punctuation/Symbols/Other
+%%        → 、。 after a Greek run stay in Times New Roman           (6 missing)
+%%   4. + explicit block transitions for CJKSymbolsAndPunctuation,
+%%      HalfwidthAndFullwidthForms, GeneralPunctuation declared LAST
+%%        → down to the FIRST character of each Hebrew / polytonic
+%%          Greek run falling back to Songti SC                     (4 missing)
+%% Useful facts established for whoever picks this up:
+%%   - ASCII punctuation lives in BasicLatin → the Latin class, so enabling
+%%     Latin does NOT fragment English words. That worry is unfounded.
+%%   - 。 (U+3002) is CJKSymbolsAndPunctuation and （ (U+FF09) is
+%%     HalfwidthAndFullwidthForms — both in the Chinese AND CJK class groups,
+%%     neither in the CJKUnifiedIdeographs block.
+%%   - Later \setTransitionsFor* declarations win over earlier ones for any
+%%     block both claim; \setTransitionsForOther claims almost everything, so
+%%     declare it early.
+%% The visible cost of leaving Latin off: \emph on a Latin run resolves to
+%% \setmainfont's ItalicFont (Kaiti SC), whose Latin glyphs are upright, so
+%% every italicised work title in the book renders as roman.
+% \setTransitionsForLatin{\uckeep{\basklatin}}{\normalfont}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -206,7 +299,18 @@
   linkcolor=ChapterBlue,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={啟示錄研讀 — 得勝之冠},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={啟示錄逐段研讀：被殺的羔羊如何成為得勝的君王},
+  pdfkeywords={啟示錄, Revelation, 聖經研讀, Bible study, 和合本, ESV, 羔羊, 七教會, 新耶路撒冷, 得勝之冠, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
 }
 
 %% ============================================
