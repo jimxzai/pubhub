@@ -15,7 +15,31 @@
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Songti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\newfontfamily\cjkfallbackfont{Songti SC}
+
+%% Classical English typeface — auto-switch for Latin-script runs so
+%% bilingual scripture/quote blocks render in a period-appropriate serif
+%% instead of Songti SC's built-in Latin glyphs. Baskerville for running
+%% text; Didot reserved for large display lines (invoked explicitly).
+\newfontfamily\basklatin{Baskerville}
+\newfontfamily\didotfont{Didot}
+% Alias matching the naming convention used on the full-bleed cover pages
+\newcommand{\baskervillefont}{\basklatin}
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+\setTransitionsFor{Han}{\cjkfallbackfont}{\normalfont}
+\setTransitionsFor{Latin}{\basklatin}{\normalfont}
+% Latin Extended Additional (e.g. combining-dot-below transliterations
+% like Hebrew *ḥesed*/*ḥashab*) — Kaiti SC's italic has no glyph for
+% these, so route them to Baskerville too.
+\setTransitionsFor{LatinExtendedAdditional}{\basklatin}{\normalfont}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -44,28 +68,29 @@
 \setlength{\parskip}{0.3em}
 
 %% ============================================
-%% COLOR SCHEME - 1 Peter Theme (Hope Green/Blue)
+%% COLOR SCHEME - 1 Peter Theme (Slate Stone / Refiner's Ember)
+%% Living stones (2:4-8) + faith tested by fire (1:6-7) + a shepherd's
+%% staff (5:2-4) — cool stone-grey paired with warm forge-gold.
 %% ============================================
 \usepackage{xcolor}
 
-% Primary colors - Green/Teal theme for Hope
-\definecolor{ChapterGreen}{RGB}{35,100,85}        % Deep teal for chapters
-\definecolor{ScriptureGold}{RGB}{165,125,55}      % Gold for scripture refs
-\definecolor{CommentaryBrown}{RGB}{85,60,45}      % Warm brown for commentary
-
-% Map colors
-\definecolor{WaterBlue}{RGB}{180,210,230}         % Sea/river blue
-\definecolor{LandBeige}{RGB}{245,235,220}         % Land color
-\definecolor{MountainBrown}{RGB}{180,160,140}     % Mountain shading
+% Primary colors - Slate Stone + Refiner's Ember theme
+\definecolor{ChapterBlue}{RGB}{46,54,62}          % Deep slate stone — 1 Peter theme (macro name kept for compatibility)
+\definecolor{ScriptureGold}{RGB}{178,92,38}       % Forge ember for scripture refs / ornaments
+\definecolor{CommentaryBrown}{RGB}{72,58,52}      % Warm hearth-brown for commentary
 
 % Box colors
-\definecolor{ScriptureBg}{RGB}{248,252,250}       % Light green tint for scripture
-\definecolor{GreekBg}{RGB}{245,248,252}           % Light blue for Greek
-\definecolor{ApplicationBg}{RGB}{248,252,248}     % Light green for application
+\definecolor{ScriptureBg}{RGB}{247,247,248}       % Cool stone-white for scripture boxes
+\definecolor{GreekBg}{RGB}{246,246,249}           % Faint grey-blue for Greek
+\definecolor{ApplicationBg}{RGB}{248,246,244}     % Warm slate for application
 
 % Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
+
+% Diagram colors
+\definecolor{OldCovenantRed}{RGB}{150,40,40}      % Warning / conflict
+\definecolor{NewCovenantGreen}{RGB}{70,110,70}    % Grace / growth
 
 %% ============================================
 %% MATH AND SYMBOLS
@@ -79,26 +104,121 @@
 \usepackage{graphicx}
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{pgfornament}
 
 %% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
 
-% Hope decoration command
-\newcommand{\hopedecor}[1]{%
-\begin{tikzpicture}[scale=0.6]
-  \draw[color=ChapterGreen,line width=0.8pt,decorate,decoration={snake,amplitude=0.5pt,segment length=6pt}]
-    (0,0) -- (#1,0);
-\end{tikzpicture}%
-}
-
 % Cross decoration
 \newcommand{\crosssymbol}{%
 \begin{tikzpicture}[scale=0.15]
-  \draw[color=ChapterGreen,line width=1.5pt] (0,-1) -- (0,1);
-  \draw[color=ChapterGreen,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
 \end{tikzpicture}%
 }
+
+% Classical printer's-ornament divider: thin rule — fleuron — thin rule,
+% for a more antique-book feel.
+\newcommand{\ornamentdivider}[1][2in]{%
+  {\color{ScriptureGold}\rule{#1}{0.4pt}}\hspace{0.15cm}%
+  \raisebox{-0.22cm}{\pgfornament[width=0.5cm,color=ScriptureGold]{88}}%
+  \hspace{0.15cm}{\color{ScriptureGold}\rule{#1}{0.4pt}}%
+}
+
+% A single small fleuron (no rules), used standalone on the full-bleed
+% cover pages and the dedication/colophon pages.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.55cm,color=#1]{88}%
+}
+
+% Classical double-rule (hairline) frame — replaces solid fcolorbox fills
+% with a manuscript/antique-book-plate style surround.
+\newcommand{\classicalframe}[1]{%
+\begin{tikzpicture}
+  \node[fill=ScriptureBg,inner sep=14pt] (box) {#1};
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-3pt,-3pt)$$) rectangle ($$(box.north east)+(3pt,3pt)$$);
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-6pt,-6pt)$$) rectangle ($$(box.north east)+(6pt,6pt)$$);
+\end{tikzpicture}%
+}
+
+% Shepherd's-crook-and-stone symbol — a simple curved staff with a small
+% stone/gem at its foot (echoing 1 Peter 2:4-8 "living stone" and 5:2-4
+% "shepherd the flock"). Simple line-drawing style, consistent with the
+% file's other minimalist gold TikZ ornaments.
+\newcommand{\laurelcrosssymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  % staff — a tall curved crook
+  \draw[color=ScriptureGold,line width=1.1pt]
+    (0,-1.2) .. controls (0,0.2) and (-0.1,0.6) .. (-0.35,0.95)
+    .. controls (-0.55,1.2) and (-0.25,1.35) .. (0.05,1.1);
+  % small cross-stroke near the base (crook foot marker)
+  \draw[color=ScriptureGold,line width=0.9pt] (-0.28,-1.2) -- (0.28,-1.2);
+  % living stone at the base — small diamond
+  \draw[color=ScriptureGold,line width=0.9pt,fill=ScriptureGold]
+    (0,-1.55) -- (0.22,-1.35) -- (0,-1.15) -- (-0.22,-1.35) -- cycle;
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+
+% Slate gradient for the full-bleed cover background — deep charcoal
+% stone to a lighter slate, full-bleed. `shading angle` requires a
+% reasonably recent pgf; this TeX Live 2026 install supports it, but
+% the plain two-color left-right shade is kept in a comment as the
+% documented fallback.
+\definecolor{NavyDeep}{RGB}{22,26,30}
+\definecolor{NavyLight}{RGB}{58,66,74}
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[shading angle=115, left color=NavyDeep, right color=NavyLight]
+        (current page.south west) rectangle (current page.north east);
+    \end{tikzpicture}%
+  }%
+}
+% Fallback (uncomment if `shading angle` errors on a different TeX Live):
+% \newcommand{\CoverBackground}{%
+%   \AddToShipoutPictureBG*{%
+%     \begin{tikzpicture}[remember picture,overlay]
+%       \shade[left color=NavyDeep, right color=NavyLight]
+%         (current page.south west) rectangle (current page.north east);
+%     \end{tikzpicture}%
+%   }%
+% }
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook (after page
+% content) using the page's own bounding box.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{240,236,228}
+\definecolor{CoverGoldBright}{RGB}{214,140,70}
+\definecolor{CoverMuted}{RGB}{184,178,168}
 
 %% ============================================
 %% HYPERLINKS
@@ -106,7 +226,7 @@
 \usepackage{hyperref}
 \hypersetup{
   colorlinks=true,
-  linkcolor=ChapterGreen,
+  linkcolor=ChapterBlue,
   urlcolor=ScriptureGold,
   bookmarks=true,
   bookmarksnumbered=true
@@ -150,7 +270,7 @@
 \fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
 \fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
 \renewcommand{\headrulewidth}{0.4pt}
-\renewcommand{\headrule}{\hbox to\headwidth{\color{ChapterGreen}\leaders\hrule height \headrulewidth\hfill}}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
 \fancypagestyle{plain}{%
   \fancyhf{}
   \fancyfoot[C]{\small\thepage}
@@ -166,14 +286,14 @@
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
     \ifnum \c@secnumdepth >\m@ne
-      \large\bfseries\color{ChapterGreen} \@chapapp\space \thechapter
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
       \par\nobreak
       \vskip 8pt
     \fi
     \interlinepenalty\@M
-    \LARGE \bfseries\color{ChapterGreen} #1\par\nobreak
-    \vskip 12pt
-    {\color{ChapterGreen}\hrule height 1.5pt}
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 10pt
+    {\color{ScriptureGold}\hrule height 0.6pt}\vskip 1.5pt{\color{ScriptureGold}\hrule height 0.6pt}
     \vskip 15pt
   }}
 \def\@makeschapterhead#1{%
@@ -181,9 +301,9 @@
   {\parindent \z@ \raggedright
     \normalfont
     \interlinepenalty\@M
-    \LARGE \bfseries\color{ChapterGreen} #1\par\nobreak
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
     \vskip 8pt
-    {\color{ChapterGreen}\hrule height 1.5pt}
+    {\color{ScriptureGold}\hrule height 0.6pt}\vskip 1.5pt{\color{ScriptureGold}\hrule height 0.6pt}
     \vskip 15pt
   }}
 
@@ -191,7 +311,7 @@
 \renewcommand\section{\@startsection {section}{1}{\z@}%
   {-2.5ex \@plus -0.5ex \@minus -.2ex}%
   {1.5ex \@plus.2ex}%
-  {\normalfont\large\bfseries\color{ChapterGreen}}}
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
   {-2ex\@plus -0.5ex \@minus -.2ex}%
   {1ex \@plus .2ex}%
@@ -234,6 +354,11 @@
 \hfuzz=2pt
 
 %% ============================================
+%% \paul MACRO - speaker tag used in chapter Scripture sections
+%% ============================================
+\newcommand{\paul}[1]{\textbf{#1}}
+
+%% ============================================
 %% METADATA
 %% ============================================
 $if(title)$
@@ -265,191 +390,176 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
-% Title page
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
 \begin{titlepage}
 \thispagestyle{empty}
+\color{CoverCream}
 \begin{center}
-\vspace*{0.5cm}
+\vspace*{1.0cm}
 
-% Decorative cross and line
-\crosssymbol\hspace{0.3cm}{\color{ChapterGreen}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+\laurelcrosssymbol
 
-\vspace{0.4cm}
+\vspace{0.45cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
 
 % Main title
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterGreen} 活潑的盼望}\\[0.2cm]
-{\large\itshape\color{LightGray} A Living Hope}
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 活潑的盼望}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} A Living Hope}
 
-\vspace{0.6cm}
+\vspace{0.7cm}
 
 % Book title
-{\fontsize{22}{28}\selectfont\bfseries 彼得前書研讀}\\[0.15cm]
-{\normalsize A Study of 1 Peter}
-
-\vspace{0.5cm}
-
-% Key verse in box
-\fcolorbox{ChapterGreen}{ScriptureBg}{%
-\begin{minipage}{4in}
-\centering
-\vspace{0.3cm}
-\small\itshape\color{CommentaryBrown}
-願頌讚歸於我們主耶穌基督的父神！\\
-他曾照自己的大憐憫，藉著耶穌基督從死人中復活，\\
-重生了我們，使我們有活潑的盼望。\\[0.15em]
-\footnotesize Blessed be the God and Father of our Lord Jesus Christ!\\
-According to his great mercy, he has caused us to be born again\\
-to a living hope through the resurrection of Jesus Christ.\\
-— 1 Peter 1:3
-\vspace{0.3cm}
-\end{minipage}
-}
-
-\vspace{0.5cm}
-
-% Structure diagram
-\begin{tikzpicture}[scale=0.65]
-  \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,3) {Book Structure 書卷結構};
-
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (-3,1.8) {Praise\\頌讚};
-  \node[font=\tiny,color=LightGray] at (-3,1.3) {1:1-12};
-
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (-1,1.8) {Holiness\\聖潔};
-  \node[font=\tiny,color=LightGray] at (-1,1.3) {1:13-2:10};
-
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (1,1.8) {Submission\\順服};
-  \node[font=\tiny,color=LightGray] at (1,1.3) {2:11-3:12};
-
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (3,1.8) {Suffering\\受苦};
-  \node[font=\tiny,color=LightGray] at (3,1.3) {3:13-4:19};
-
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.6cm,font=\tiny,align=center] at (0,0.3) {Shepherding\\牧養};
-  \node[font=\tiny,color=LightGray] at (0,-0.2) {5:1-14};
-
-  \draw[->,color=ChapterGreen,thick] (-2.1,1.8) -- (-1.9,1.8);
-  \draw[->,color=ChapterGreen,thick] (-0.1,1.8) -- (0.1,1.8);
-  \draw[->,color=ChapterGreen,thick] (1.9,1.8) -- (2.1,1.8);
-  \draw[->,color=ScriptureGold,thick] (0,1.1) -- (0,0.7);
-\end{tikzpicture}
-
-\vspace{0.4cm}
-
-% Key themes
-\begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,2.5) {Key Themes 關鍵主題};
-
-  % Central hope
-  \node[draw=ChapterGreen,fill=ScriptureBg,circle,minimum size=1.5cm,line width=1.5pt,
-        font=\footnotesize\bfseries,color=ChapterGreen] (center) at (0,0) {Hope};
-
-  % Surrounding themes
-  \foreach \angle/\txt in {
-    60/Suffering,
-    120/Holiness,
-    180/Identity,
-    240/Submission,
-    300/Glory
-  } {
-    \node[draw=ChapterGreen,fill=white,rounded corners,minimum width=1.5cm,
-          font=\tiny,align=center] at (\angle:2.5) {\txt};
-    \draw[ChapterGreen,line width=0.6pt] (center) -- (\angle:1.8);
-  }
-\end{tikzpicture}
-
-\vfill
-
-% Theme
-{\normalsize\color{ChapterGreen}\bfseries 盼望 = 重生 + 基業}\\[0.1cm]
-{\footnotesize\color{LightGray} Hope = New Birth + Inheritance (1 Peter 1:3-4)}
-
-\vspace{0.5cm}
-
-$if(author)$
-{\normalsize $author$}\\[0.3cm]
-$endif$
-
-$if(publisher)$
-{\small $publisher$}\\[0.15cm]
-$endif$
-
-$if(date)$
-{\small $date$}
-$else$
-{\small \today}
-$endif$
-
-\vspace{0.3cm}
-\crosssymbol\hspace{0.3cm}{\color{ChapterGreen}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
-
-\end{center}
-\end{titlepage}
-
-% Identity diagram page
-\thispagestyle{empty}
-\begin{center}
-\vspace*{0.3cm}
-{\Large\bfseries\color{ChapterGreen} 神子民的身份}\\[0.1cm]
-{\normalsize Identity of God's People (1 Peter 2:9-10)}
-
-\vspace{0.5cm}
-
-\begin{tikzpicture}[scale=0.85]
-  % Central identity
-  \node[draw=ChapterGreen,fill=ScriptureBg,circle,minimum size=3cm,line width=2pt,
-        font=\normalsize\bfseries,color=ChapterGreen,align=center] (center) at (0,0) {神的\\子民};
-
-  % Five identities around
-  \foreach \angle/\chi/\eng/\ref in {
-    90/被揀選的族類/Chosen Race/2:9a,
-    162/君尊的祭司/Royal Priesthood/2:9b,
-    234/聖潔的國度/Holy Nation/2:9c,
-    306/屬神的子民/God's People/2:9d,
-    18/寄居的客旅/Sojourners/2:11
-  } {
-    \node[draw=ChapterGreen,fill=white,rounded corners,minimum width=2.5cm,minimum height=1cm,
-          font=\tiny,align=center] at (\angle:4) {\chi\\\eng\\\color{LightGray}\ref};
-    \draw[ChapterGreen,line width=0.8pt] (center) -- (\angle:2.8);
-  }
-\end{tikzpicture}
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 彼得前書研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the First Epistle of Peter}
 
 \vspace{0.8cm}
 
-{\large\bfseries\color{ChapterGreen} 苦難與榮耀的關係}\\[0.1cm]
-{\normalsize Suffering and Glory in 1 Peter}
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.5in}
+\centering
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+願頌讚歸與我們主耶穌基督的父神！他曾照自己的大憐憫，\\
+藉耶穌基督從死裡復活，重生了我們，叫我們有活潑的盼望，\\
+可以得著不能朽壞、不能玷污、不能衰殘、為你們存留在天上的基業。\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} Blessed be the God and Father of our Lord Jesus Christ!\\
+According to his great mercy, he has caused us to be born again\\
+to a living hope through the resurrection of Jesus Christ from the dead,\\
+to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you.}\\
+{\footnotesize\color{CoverCream} — 彼得前書 1:3-4 \textbullet\ {\baskervillefont 1 Peter 1:3-4}}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 苦難中的活潑盼望}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} "A Living Hope Through Suffering" (1 Peter 1:3-7)}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
 
 \vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
 
-\begin{tikzpicture}[scale=0.8]
-  % Timeline of suffering to glory
-  \draw[ChapterGreen,line width=2pt] (0,0) -- (12,0);
+\end{center}
+\end{titlepage}
+\cleardoublepage
 
-  % Suffering phase
-  \node[draw=CommentaryBrown,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1cm,
-        font=\small,align=center] at (2,1.5) {Present\\Suffering\\現今苦難};
-  \draw[->,CommentaryBrown,thick] (2,0.9) -- (2,0.3);
-
-  % Refinement
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1cm,
-        font=\small,align=center] at (6,1.5) {Faith Refined\\信心試煉\\1:6-7};
-  \draw[->,ScriptureGold,thick] (6,0.9) -- (6,0.3);
-
-  % Glory
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=1cm,
-        font=\small,align=center] at (10,1.5) {Future\\Glory\\將來榮耀};
-  \draw[->,ChapterGreen,thick] (10,0.9) -- (10,0.3);
-
-  % Arrows between
-  \draw[->,ChapterGreen,line width=1.5pt] (3.5,1.5) -- (4.5,1.5);
-  \draw[->,ChapterGreen,line width=1.5pt] (7.5,1.5) -- (8.5,1.5);
-
-  % Key verse
-  \node[font=\footnotesize,color=TextGray,align=center] at (6,-1) {「叫你們的信心既被試驗，就比那被火試驗仍然能壞的金子更顯寶貴，\\可以在耶穌基督顯現的時候得著稱讚、榮耀、尊貴。」— 彼前 1:7};
-\end{tikzpicture}
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
 
 \vspace{0.5cm}
 
-{\footnotesize\color{LightGray} 「你們是客旅、是寄居的，要禁戒肉體的私慾。」— 彼得前書 2:11}
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 活潑的盼望}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} A Living Hope}
 \end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Structure diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 彼得前書結構}\\[0.1cm]
+{\normalsize Structure of 1 Peter}
+
+\vspace{0.5cm}
+
+% Five-part flow structure, two rows (3 + 2)
+\begin{tikzpicture}[scale=0.82,transform shape]
+  \node[draw=ChapterBlue,fill=ChapterBlue!8,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (0,2) {\textbf{頌讚與盼望} \\ Praise \& Hope \\ {\small 1:1-12}};
+  \node[draw=ScriptureGold,fill=ScriptureGold!12,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (4.2,2) {\textbf{聖潔生活} \\ Holy Living \\ {\small 1:13-2:10}};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (8.4,2) {\textbf{順服見證} \\ Submission \& Witness \\ {\small 2:11-3:12}};
+
+  \draw[->,thick,color=ChapterBlue] (1.8,2) -- (2.4,2);
+  \draw[->,thick,color=ChapterBlue] (6.0,2) -- (6.6,2);
+
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!8,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (2.1,-0.6) {\textbf{受苦與榮耀} \\ Suffering \& Glory \\ {\small 3:13-4:19}};
+  \node[draw=ChapterBlue,fill=ChapterBlue!8,rounded corners,minimum width=3.6cm,minimum height=1.9cm,align=center,font=\normalsize] at (6.3,-0.6) {\textbf{牧養與謙卑} \\ Shepherding \& Humility \\ {\small 5:1-14}};
+
+  \draw[->,thick,color=ChapterBlue] (10.2,2) .. controls (11.5,0.7) and (9.5,0.0) .. (8.1,-0.6);
+  \draw[->,thick,color=ChapterBlue] (3.9,-0.6) -- (4.5,-0.6);
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+{\footnotesize\color{LightGray} 客旅在世的行路次第 · The Sojourner's Path Through the World}
+
+\vspace{0.25cm}
+
+% Suffering-to-glory chain diagram — dots are pure visual markers; verse
+% refs are placed as separate nodes below each dot (never on top of it),
+% so label font size is independent of the dot's physical size.
+\begin{tikzpicture}[scale=0.9,transform shape]
+  \foreach \x/\ref in {0/1:6-7,3.4/2:21,6.8/3:14,10.2/4:13,13.6/5:10} {
+    \fill[ScriptureGold] (\x,0) circle (0.22);
+    \node[font=\footnotesize,color=TextGray,align=center] at (\x,-0.55) {\ref};
+  }
+  \draw[ScriptureGold,line width=1.2pt] (0.22,0) -- (3.18,0);
+  \draw[ScriptureGold,line width=1.2pt] (3.62,0) -- (6.58,0);
+  \draw[ScriptureGold,line width=1.2pt] (7.02,0) -- (9.98,0);
+  \draw[ScriptureGold,line width=1.2pt] (10.42,0) -- (13.38,0);
+\end{tikzpicture}
+
+\vspace{0.7cm}
+
+{\footnotesize\color{LightGray} 「你們暫受苦難，那賜諸般恩典的神……必要親自成全你們」— 彼得前書 5:10}
+\end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給每一個在火煉的試驗中，\\
+仍不敢相信自己的信心比精金更寶貴的人。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+To everyone walking through the fiery trial\\
+who still finds it hard to believe\\
+their faith is more precious than gold.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 你們是被揀選的族類，是有君尊的祭司，是聖潔的國度。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} ``You are a chosen race, a royal priesthood, a holy nation...'' --- 1 Peter 2:9}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
 \cleardoublepage
 
 % Copyright page
@@ -467,16 +577,21 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
+中文經文統一採用和合本（CUV），逐節經 ai-eden.com 或 cnbible.com 核對；各章核對來源詳見附錄二（99-appendix-references.md）逐章說明。\\
+Chinese Scripture is uniformly the Chinese Union Version (CUV), verse-by-verse verified against ai-eden.com or cnbible.com; see the references appendix for the exact per-chapter verification source.\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
-\textbullet\ John MacArthur - Grace To You (gty.org)\\
-\textbullet\ Edmund Clowney - The Message of 1 Peter\\[0.8em]
+\textbullet\ 老弟兄查經方法論與神學框架之應用（本書無對應之老弟兄彼得前書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
+\textbullet\ John MacArthur - MacArthur New Testament Commentary (gty.org)\\
+\textbullet\ G. Campbell Morgan\\[0.8em]
 
-本書為七年三書精讀項目成果之一。\\
-Part of the 7-Year Three Books Deep Reading Project.
+\textbf{核心主題 / Central Theme}\\
+彼得寫給散居各處、正經歷逼迫的客旅，教導他們如何在苦難中持守活潑的盼望——因基督已經受苦在先，又已經得著榮耀。\\
+Peter's letter to scattered, persecuted sojourners --- teaching them to hold a living hope through suffering, because Christ has already suffered first, and already been glorified.\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
 $endif$
 
 \end{flushleft}
@@ -484,7 +599,7 @@ $endif$
 
 % Table of contents
 \pagestyle{fancy}
-{\color{ChapterGreen}\tableofcontents}
+{\color{ChapterBlue}\tableofcontents}
 \cleardoublepage
 
 %% --------------------------------------------
@@ -493,5 +608,109 @@ $endif$
 \mainmatter
 
 $body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你手中的試煉，是要毀了你，還是要煉淨你？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Is the trial in your hand meant to destroy you, or to refine you?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.2cm}
+\begin{center}
+{\large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$Ἐλπὶς Ζῶσα$endif$}\\[0.08cm]
+{\itshape\footnotesize\color{CoverMuted} {\baskervillefont "A Living Hope"} · 活潑的盼望——全書貫穿的鑰字}
+
+\vspace{0.22cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.22cm}
+
+{\normalsize\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\normalsize\color{CoverGoldBright} About This Book}
+
+\vspace{0.2cm}
+
+\begin{minipage}{5in}
+\setlength{\parskip}{0.15em}
+\footnotesize\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀彼得前書全書五章，並附索引與參考資料附錄，整合老弟兄一貫的查經方法論與以基督為中心的神學框架（本書並無對應之老弟兄彼得前書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道，以及 G. Campbell Morgan 的屬靈與結構分析。全信的軌跡，從重生得著活潑的盼望、到蒙召作聖潔的祭司、到客旅在世如何順服見證、到為義受苦如同有分於基督的苦難、直到長老牧養群羊、抵擋魔鬼、儆醒等候——彼得寫給分散各地、正受火煉之試驗的客旅最貼身的一封信，在這裡逐章展開。
+
+{\baskervillefont\color{CoverCream} chapter-by-chapter study of all five chapters of 1 Peter, with index and references appendices, integrating the Elder's documented Bible-study methodology and Christ-centered theological framework (this book has no corresponding verse-by-verse Elder teaching notes on 1 Peter itself --- an honest disclosure detailed in the appendix), alongside John MacArthur's verse-by-verse exposition and G. Campbell Morgan's spiritual and structural analysis. The letter's arc unfolds chapter by chapter: from new birth into a living hope, through the call to be a holy priesthood, through the sojourner's submission and witness in the world, through suffering for righteousness as a share in Christ's own suffering, to elders shepherding the flock, resisting the devil, and staying watchful --- Peter's most intimate letter to scattered sojourners under fiery trial, traced here in full.}
+$endif$
+\end{minipage}
+
+\vspace{0.22cm}
+
+{\footnotesize\bfseries\color{CoverCream} 苦難之路}\qquad{\baskervillefont\itshape\footnotesize\color{CoverGoldBright} The Road of Suffering}
+
+\vspace{0.15cm}
+
+\begin{minipage}{4.9in}
+\footnotesize\color{CoverCream}
+\begin{tabular}{@{}cp{3.6in}l@{}}
+① & 信心經過試驗，比金子更顯寶貴 \textit{\baskervillefont\color{CoverCream} Faith tested by fire, more precious than gold} & {\footnotesize\color{CoverMuted} 1:6-7}\\[0.12em]
+② & 基督也為你們受過苦，給你們留下榜樣 \textit{\baskervillefont\color{CoverCream} Christ suffered for you, leaving you an example} & {\footnotesize\color{CoverMuted} 2:21}\\[0.12em]
+③ & 你們就是為義受苦，也是有福的 \textit{\baskervillefont\color{CoverCream} Even if you suffer for righteousness, you are blessed} & {\footnotesize\color{CoverMuted} 3:14}\\[0.12em]
+④ & 有分於基督的苦難，就該歡喜 \textit{\baskervillefont\color{CoverCream} Rejoice as you share Christ's sufferings} & {\footnotesize\color{CoverMuted} 4:13}\\[0.12em]
+⑤ & 賜諸般恩典的神，必要親自成全你們 \textit{\baskervillefont\color{CoverCream} The God of all grace will himself restore you} & {\footnotesize\color{CoverMuted} 5:10}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.22cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+
+\vspace{0.18cm}
+
+\begin{minipage}{4.3in}
+\centering
+\footnotesize\itshape\color{CoverCream}
+願頌讚歸與我們主耶穌基督的父神！他曾照自己的大憐憫，藉耶穌基督從死裡復活，重生了我們，叫我們有活潑的盼望，可以得著不能朽壞、不能玷污、不能衰殘、為你們存留在天上的基業。\\[0.15em]
+{\baskervillefont\footnotesize\color{CoverCream} Blessed be the God and Father of our Lord Jesus Christ! According to his great mercy, he has caused us to be born again to a living hope through the resurrection of Jesus Christ from the dead, to an inheritance that is imperishable, undefiled, and unfading, kept in heaven for you.}\\
+{\footnotesize\color{CoverCream} --- 彼得前書 1:3-4 \textbullet\ {\baskervillefont 1 Peter 1:3-4}}
+\end{minipage}
+
+\vspace{0.18cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+
+\vspace{0.4cm}
+
+{\footnotesize\color{CoverMuted} \S\ 彼得前書研讀 · 初版 \S\ 2026 \S}
+\end{center}
 
 \end{document}
