@@ -37,10 +37,24 @@ session:
 
 The driver runs the build, then checks in order: exit code → grep the
 build log for `Missing character` warnings (a font asked to render a
-glyph it doesn't have) → grep for LaTeX errors → `pdffonts` to confirm
-every font is embedded/subset, not just referenced → `pdftoppm` to
-render one page to `/tmp/<slug>-p<N>*.png` for you to actually look at.
-It exits nonzero and prints the relevant log lines on any failure.
+glyph it doesn't have) → grep for LaTeX errors → report `Overfull
+\hbox` warnings (non-fatal; content printing outside its column or past
+the text block) → `pdffonts` to confirm every font is embedded/subset,
+not just referenced → `pdftoppm` to render one page to
+`/tmp/<slug>-p<N>*.png` for you to actually look at. It exits nonzero
+and prints the relevant log lines on any failure.
+
+**Those log greps only work because the build script feeds them.**
+`pandoc --pdf-engine=xelatex` swallows the entire xelatex log unless it
+is passed `--verbose`; a build script that omits it produces a log with
+zero warnings of any kind and the driver passes vacuously. Every
+`scripts/build-*-consolidated.sh` now routes its verbose output to
+`output/<slug>-build.log` and calls `latex_build_report` from
+`scripts/lib/latex-check.sh`, which prints the counts and re-echoes the
+offending lines for the driver to find. If the driver warns that a
+build script printed no xelatex log summary, fix that before trusting
+anything else it says. See the Gotchas entry below for how this was
+found.
 
 **Read the rendered PNG.** A clean exit from the driver only proves no
 glyph is *entirely absent* from its font — it doesn't prove the page
@@ -50,13 +64,15 @@ render "successfully" with zero warnings. Every cover/diagram page
 touched this session was confirmed by rendering it and reading the
 PNG, not by trusting a clean exit code.
 
-Currently buildable (8 books, all using the `-consolidated.sh` /
+Currently buildable (17 books, all using the `-consolidated.sh` /
 `templates/pdf/<slug>.latex` pattern this driver assumes):
-`1-timothy`, `2-timothy`, `titus`, `pastoral-epistles`, `acts`, `gospel`
-(→ Gospel of John), `gospel-of-matthew`, `hebrews`. Other books in
-`scripts/` use older one-off build scripts that don't follow this
-naming convention — the driver won't find them by slug; check
-`scripts/` directly.
+`1-peter`, `1-timothy`, `2-peter`, `2-timothy`, `acts`, `gospel`
+(→ Gospel of John), `gospel-of-luke`, `gospel-of-mark`,
+`gospel-of-matthew`, `hebrews`, `isaiah`, `pastoral-epistles`, `psalm`,
+`psalm-liturgical`, `revelation`, `romans`, `titus`. Any other book in
+`scripts/` using an older one-off build script won't follow this naming
+convention — the driver won't find it by slug; check `scripts/`
+directly. Run the driver with no args to get the current list.
 
 ## Run (human path)
 
@@ -169,8 +185,84 @@ own references appendix).
 ## Gotchas
 
 These are specific failures hit and fixed across this session's builds
-(1 Timothy, 2 Timothy, Titus, the combined "盡職" volume), not generic
-LaTeX advice:
+(1 Timothy, 2 Timothy, Titus, the combined "盡職" volume, Isaiah), not
+generic LaTeX advice:
+
+- **`pandoc --pdf-engine=xelatex` discards the entire xelatex log unless
+  you pass `--verbose` — so every "grep the build log" check in this
+  repo passed vacuously for as long as it existed.** Measured on
+  Isaiah: `driver.sh`'s captured log was **51 lines**, contained no
+  xelatex output at all, and duly reported `Missing character
+  warnings: 0` / `LaTeX error lines: 0`. Piping the same combined
+  markdown through `pandoc -t latex` and running `xelatex` by hand
+  surfaced **28 `Overfull \hbox` warnings** on that identical "clean"
+  build — including three appendix boxes printing 39.3pt past the text
+  block and a Hebrew word-study cell overprinting the column beside
+  it. Nothing about the exit code, the PDF, or the driver's green
+  `PASS` distinguished that from a genuinely clean book.
+  **Fix**: pass `--verbose`, send it to a file (it is tens of thousands
+  of lines), and re-echo the offending lines so a log-grepping caller
+  has something real to find. That is what
+  `scripts/lib/latex-check.sh`'s `latex_build_report` does; all 17
+  `scripts/build-*-consolidated.sh` now source it. Confirm a build
+  script is honest with:
+  ```bash
+  grep -c "This is XeTeX" output/<slug>-build.log   # 0 → the log is empty theatre
+  ```
+  Careful with the summary wording: a status line that itself contains
+  the literal string `Missing character` or `Overfull \hbox` will be
+  counted by the driver's own `grep -c` and register as a failure. The
+  helper prints `missing-glyph warnings:` / `overfull-box warnings:`
+  for exactly this reason.
+
+- **`Overfull \hbox` is the *only* signal that content is printing
+  outside its column or off the text block.** Exit code 0, no glyph
+  warnings, no LaTeX error, PDF renders. Three distinct causes
+  confirmed on Isaiah, all invisible until the log was readable:
+  - **A right-to-left Hebrew run has no line-break opportunities**, so
+    a long one in a narrow table cell simply overprints the cell to its
+    right. XeTeX does *not* break inside a reordered RTL run — not at
+    the embedded spaces, not at the full-width parens or `／` inside
+    it: `אָמַן（תַאֲמִינוּ／תֵאָמֵנוּ）` was measured as one 103.5pt box in a
+    60.6pt column. Do not assume a cell will wrap because it contains
+    separators. Either widen the column to fit the whole run, or move
+    the extra forms into the prose/註解 column.
+  - **`\begin{minipage}{<fixed>in}` inside `\fcolorbox`** — a 6.0in
+    minipage plus `2\fboxsep + 2\fboxrule` is 440.4pt against a 401.1pt
+    `\textwidth`, i.e. exactly the 39.3pt overflow observed. Use
+    `\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}`;
+    never a hardcoded inch value that happens to look right.
+  - **A pandoc pipe table whose separator row is all-equal short
+    dashes** compiles to `\begin{longtable}[]{@{}lll@{}}` — natural-width
+    columns that never wrap. Fine until one row's content grows. Give
+    the separator row proportional dash counts so pandoc emits `p{}`
+    columns instead.
+
+  For a fixed-width `longtable` the budget is
+  `sum(p{}) + 2·\tabcolsep·(ncol−1) ≤ \textwidth`, i.e. with the
+  7in×10in / 0.8in+0.65in geometry these templates use:
+  `\textwidth` = 5.55in = **401.1pt = 14.097cm**, and `\tabcolsep` = 6pt,
+  so a 4-column table has 12.83cm and a 3-column table 13.25cm to
+  divide between its `p{}` widths. Four of Isaiah's template tables
+  were over that budget and had been shipping overfull since the book
+  was created.
+
+- **A Hebrew/Greek fallback font needs an explicit `Scale=`.** Times
+  New Roman's Hebrew glyphs are drawn far smaller than its own Latin
+  and much smaller than Songti SC's CJK, so pointed Hebrew set at the
+  nominal size renders with the nikkud crushed into an unreadable
+  smudge — beside CJK at the same point size it looks like a footnote.
+  Zero warnings, clean driver run; it is a pure legibility defect that
+  only a rendered PNG shows. Fix:
+  ```latex
+  \newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew, Scale=1.35, ...]
+  ```
+  Decide the number with an isolated repro rather than by eye on a book
+  page — set the same word at several scales and against the real
+  alternatives (macOS also has **`Arial Hebrew Scholar`**, purpose-built
+  for pointed/cantillated text, and `New Peninim MT`, `Raanana`).
+  Raising the scale makes the RTL-overflow problem above worse, so
+  re-measure the table columns in the same pass.
 
 - **`BoldFont=<Family> Bold` pointing at a real bold font file silently
   weakens (and can fully flatten) `\textbf{}` for CJK text that contains
@@ -229,6 +321,55 @@ LaTeX advice:
   eyeball check can miss it. Trust the minimal isolated repro to decide
   whether a template has this bug at all; don't rely on "does this real
   page look bold enough to me" as the test.
+
+- **A bare `{\somefont TEXT}` font-switch group typed directly into
+  markdown prose (not inside a raw-LaTeX construct) gets its braces
+  silently escaped by pandoc's markdown reader** — `{` → `\{`, `}` →
+  `\{` — producing an UNSCOPED font command in the LaTeX output
+  (`\{\somefont TEXT\}`, i.e. two literal brace *characters* plus a
+  font switch with no real group to close it). The font then applies
+  to every character from that point until some unrelated brace
+  elsewhere in the document happens to close a group, cascading into
+  pages of text stuck in the wrong font/encoding — CJK characters
+  rendered as if they were Latin, "Missing character" warnings by the
+  thousand, and no LaTeX error (exit code 0) because nothing is
+  actually malformed from TeX's point of view. **This was root-caused
+  on the 2 Peter template only after two prior debugging passes wrongly
+  attributed the same symptom to ucharclasses conflicts, `\par` inside
+  repeated groups, and longtable cell-measurement corruption** — those
+  were each independently real, separate bugs (see the BoldFont/Menlo
+  entries above), but none of them was the cause of *this* specific
+  cascading corruption. Confirm the mechanism directly before touching
+  anything else:
+  ```bash
+  echo '{\greekfont test}' | pandoc -f markdown -t latex
+  # → \{\greekfont test\}     (broken: escaped literal braces, unscoped command)
+  ```
+  **Fix**: never write a raw `{...}` font-switch group straight into
+  markdown source (prose, headings, blockquotes, table cells, bold
+  spans — all of them escape identically). Wrap it in pandoc's
+  `raw_attribute` extension instead (on by default in this project's
+  `markdown-superscript-subscript` format), which passes the span
+  through byte-for-byte:
+  ```
+  `{\greekfont ἐπίγνωσις}`{=latex}
+  ```
+  ```bash
+  echo '`{\greekfont test}`{=latex}' | pandoc -f markdown -t latex
+  # → {\greekfont test}       (correct: real matched braces)
+  ```
+  Verified safe in every context this bug previously seemed context-
+  dependent on — plain prose, `#` headings, `>` blockquotes, `**bold**`
+  spans, and markdown table cells (both a cell containing only the
+  wrapped term and a cell mixing it with other text). No exclusion
+  logic by markdown context is needed once the span is used correctly;
+  a build-script `re.sub` that wraps every matched run this way is
+  safe to run unconditionally. If a template's build script has a
+  Greek/Hebrew-wrapping step **disabled** with a comment blaming
+  ucharclasses, `\par`, or longtable — that disabled state predates
+  this fix and should be re-enabled using the `` `{...}`{=latex} ``
+  form (check `scripts/build-2-peter-consolidated.sh` for the
+  confirmed-working version).
 
 - **CJK text under `\setmonofont{Menlo}`** → every CJK character in a
   code/ASCII-art block renders as a blank box and emits a "Missing
@@ -294,7 +435,11 @@ LaTeX advice:
 
 | Symptom | Cause | Fix |
 |---|---|---|
+| `driver.sh` prints `PASS` and a build log with zero warnings of any kind, but the PDF has visible defects | The build script isn't passing `--verbose` to pandoc, so the xelatex log was never captured and every log grep is checking an empty haystack | Route pandoc's `--verbose` output to `output/<slug>-build.log` and call `latex_build_report` from `scripts/lib/latex-check.sh`. Confirm with `grep -c "This is XeTeX" output/<slug>-build.log` — a 0 means the log is empty theatre. |
+| Text overprints the column beside it, or a boxed callout bleeds into the margin — no warning, no error, exit 0 | `Overfull \hbox`: an unbreakable RTL Hebrew run wider than its cell, a `minipage{<fixed>in}` inside `\fcolorbox` wider than `\textwidth`, or a pandoc pipe table whose flat separator row compiled to non-wrapping `lll` columns | Read the overfull lines in the build log; they name the offending box. Widen the column (or move content out of it), swap the fixed minipage width for `\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax`, and give pipe-table separator rows proportional dash counts. Column budget: `sum(p{}) + 2·\tabcolsep·(ncol−1) ≤ \textwidth`. |
+| Hebrew/Greek renders legibly at a glance but the vowel points are an illegible smudge next to the CJK | The fallback font's non-Latin glyphs are drawn at a much smaller design size than the CJK main font; no warning, since the glyphs all exist | Add `Scale=` to the `\newfontfamily` (Isaiah uses `Scale=1.35` for Times New Roman Hebrew). Pick the value from an isolated repro; on macOS also compare `Arial Hebrew Scholar`. Re-measure table columns afterwards — scaling up can push a cell into overflow. |
 | `**bold**` Chinese text renders flat/weak in the PDF, but the build log shows zero warnings and zero errors | `BoldFont=` points at a real bold font file missing glyphs for full-width punctuation (：。) inside the bold span — silent weight fallback, not a missing-glyph error | Point `BoldFont` at the same regular font file with `BoldFeatures={FakeBold=<n>}` instead of a separate real bold face; apply to every `\newfontfamily` ucharclasses can switch into, not just `\setmainfont`. See Gotchas above for the isolated repro to confirm before/after. |
+| Pages of CJK text suddenly render in the wrong font (e.g. Times New Roman) with hundreds/thousands of "Missing character" warnings, starting right after a `{\somefont ...}` group somewhere earlier in the source, and exit code is still 0 | A bare `{...}` font-switch group was typed straight into markdown prose; pandoc escaped its braces to `\{`/`\}`, leaving `\somefont` unscoped and bleeding into everything after it | Wrap the group in a raw-LaTeX span so pandoc passes the braces through untouched: `` `{\somefont TEXT}`{=latex} `` instead of `{\somefont TEXT}`. See Gotchas above — confirm with the one-line `echo ... \| pandoc -f markdown -t latex` repro before assuming it's something else. |
 | `Missing character: There is no X in font Y!` in the build log | A font is missing a glyph it's being asked to render — almost always CJK text scoped under a Latin-only font, or a monospace font (Menlo) with no CJK glyphs | See Gotchas above; narrow the font scope or switch `\setmonofont` |
 | `! LaTeX Error: There's no line here to end.` | `\hrule` used outside vertical mode | Replace with `\rule{width}{height}` |
 | `! Undefined control sequence` naming a `pgffor@...` internal | `\foreach` looping over a braced multi-line value | Unroll the loop into explicit statements |

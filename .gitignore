@@ -61,3 +61,4 @@ coverage/
 
 # Sync state (contains Firebase tokens)
 .sync-state.json
+/output

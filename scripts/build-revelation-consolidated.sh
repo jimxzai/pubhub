@@ -205,20 +205,21 @@ echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $cha
 echo ""
 echo "🔨 Generating PDF with revelation.latex template..."
 
+# --verbose is load-bearing, not chatter: without it pandoc swallows the whole
+# xelatex log and every grep-the-log check below (and in driver.sh) passes
+# vacuously. See scripts/lib/latex-check.sh for the full explanation.
+source "$SCRIPT_DIR/lib/latex-check.sh"
+LATEX_LOG="${OUTPUT_PDF%.pdf}-build.log"
 pandoc "$COMBINED_MD" \
   -o "$OUTPUT_PDF" \
+  --verbose \
   --pdf-engine=xelatex \
   --template="$TEMPLATE" \
   --from=markdown-superscript-subscript \
   --toc \
   --toc-depth=1 \
   --top-level-division=chapter \
-  -V tocdepth=0
+  -V tocdepth=0 > "$LATEX_LOG" 2>&1
+PANDOC_EXIT=$?
 
-if [ $? -eq 0 ]; then
-    echo ""
-    echo "✅ PDF generated: $OUTPUT_PDF ($(du -h "$OUTPUT_PDF" | cut -f1))"
-else
-    echo "❌ PDF generation failed"
-    exit 1
-fi
+latex_build_report "$PANDOC_EXIT" "$LATEX_LOG" "$OUTPUT_PDF" || exit 1

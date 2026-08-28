@@ -30,8 +30,15 @@ if [ -z "$SLUG" ]; then
 fi
 
 BUILD_SCRIPT="scripts/build-${SLUG}-consolidated.sh"
-PDF="output/${SLUG}-consolidated.pdf"
 LOG="/tmp/build-${SLUG}-driver.log"
+
+# Do NOT assume the PDF is output/<slug>-consolidated.pdf — the slug is the
+# build script's name, which is not always the output's name (build-gospel-
+# consolidated.sh writes gospel-of-john-consolidated.pdf). Read the real path
+# out of the build script instead.
+PDF=$(sed -nE 's#^OUTPUT_PDF="\$OUTPUT_DIR/(.*)"$#output/\1#p' "$BUILD_SCRIPT" 2>/dev/null | head -1)
+[ -n "$PDF" ] || PDF="output/${SLUG}-consolidated.pdf"
+LATEX_LOG="${PDF%.pdf}-build.log"
 
 if [ ! -f "$BUILD_SCRIPT" ]; then
   echo "FAIL: no such build script: $BUILD_SCRIPT" >&2
@@ -49,6 +56,18 @@ if [ "$BUILD_EXIT" -ne 0 ]; then
 fi
 
 echo "== 2/5 check for missing-glyph warnings =="
+# These greps are only as good as what the build script puts in the log.
+# pandoc swallows the xelatex log unless it is passed --verbose, so a build
+# script that omits it makes every check below pass vacuously. The build
+# scripts route their verbose log to output/<book>-build.log and re-echo the
+# offending lines here via scripts/lib/latex-check.sh; if that summary is
+# absent, this driver is not actually verifying anything.
+if ! grep -q "missing-glyph warnings:" "$LOG"; then
+  echo "  WARNING: $BUILD_SCRIPT printed no xelatex log summary. It is" >&2
+  echo "  probably not passing --verbose to pandoc, in which case steps 2-3" >&2
+  echo "  below cannot fail no matter how broken the PDF is. See" >&2
+  echo "  scripts/lib/latex-check.sh." >&2
+fi
 MISSING=$(grep -c "Missing character" "$LOG")
 echo "  Missing character warnings: $MISSING"
 if [ "$MISSING" -gt 0 ]; then
@@ -67,6 +86,24 @@ if [ "$LATEX_ERR" -gt 0 ]; then
   echo "  can still emit a PDF after a recoverable error). First few:" >&2
   grep -iE '! LaTeX Error|! Undefined control sequence|! Package .* Error' "$LOG" | head -5 >&2
   exit 1
+fi
+
+echo "== 3b/5 report overfull boxes (non-fatal) =="
+# An overfull \hbox means content printed outside its column or past the text
+# block — a Hebrew cell overprinting the column beside it, an appendix box
+# bleeding into the margin. It is invisible to every other check here: exit
+# code 0, no glyph warnings, no LaTeX error. Reported rather than failed
+# because most books in this repo have never been measured for it; treat a
+# nonzero count as work to do, not as a passing build.
+# Take the count from the build script's own summary line: it re-echoes only
+# the first handful of offending lines, so counting them here would cap at
+# that limit and understate the damage.
+OVERFULL=$(sed -nE 's/^ *overfull-box warnings: +([0-9]+)$/\1/p' "$LOG" | head -1)
+[ -n "$OVERFULL" ] || OVERFULL=$(grep -c "Overfull \\\\hbox" "$LOG")
+echo "  Overfull \\hbox warnings: $OVERFULL"
+if [ "$OVERFULL" -gt 0 ]; then
+  grep "Overfull \\\\hbox" "$LOG" | head -5
+  echo "  → full list: $LATEX_LOG"
 fi
 
 if [ ! -f "$PDF" ]; then
