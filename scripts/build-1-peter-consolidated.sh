@@ -165,8 +165,10 @@ add_file "$INPUT_DIR/99-to-2-peter.md"
 # 附錄 — indices & references
 # ============================================================
 add_volume "附錄 (Appendices)" \
-    "經文與主題索引；資料來源與版本之逐章誠實說明。"
+    "經文與主題索引；希臘文詞彙表；讀經計劃；資料來源與版本之逐章誠實說明。"
 add_file "$INPUT_DIR/98-appendix-indices.md"
+add_file "$INPUT_DIR/97-appendix-glossary.md"
+add_file "$INPUT_DIR/96-appendix-reading-plan.md"
 add_file "$INPUT_DIR/99-appendix-references.md"
 
 # 跋 — afterword (the ministry, the 66-volume prayer).
