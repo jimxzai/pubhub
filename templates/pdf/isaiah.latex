@@ -1,0 +1,1032 @@
+% PubHub Isaiah Deep Study Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies
+% Requires XeLaTeX for CJK support
+% Series identity: Throne/Coal palette (the holiness of the throne-room vision of
+% ch.6, "Holy, Holy, Holy", welded to the crimson-to-white grace of 1:18 and the
+% cool comfort of the book's second half)
+%
+% NOTE on font bug fix (see .claude/skills/eat-bible/SKILL.md "Gotchas"):
+% BoldFont=<Family> Bold pointing at a real separate bold font file silently
+% weakens/flattens \textbf{} for CJK text containing full-width punctuation
+% (：。), with zero warnings. Every font declaration below uses
+% BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+% CJK-safe monospace — never Menlo (zero CJK glyphs, silently renders blank boxes)
+\setmonofont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+
+%% Hebrew (and Greek, for occasional NT cross-references) font support —
+%% auto-switch for Unicode blocks. Isaiah's Word Study sections actually use
+%% \hebrewfont (unlike Acts, where it was declared but unused), so the
+%% FakeBold fix matters here in practice, not just in principle.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+\setTransitionsFor{Greek}{\greekfont}{\normalfont}
+\setTransitionsFor{GreekExtended}{\greekfont}{\normalfont}
+\setTransitionsFor{Hebrew}{\hebrewfont}{\normalfont}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}[
+  BoldFont=Kaiti SC,
+  BoldFeatures={FakeBold=1.8}
+]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Isaiah identity: throne-room holiness + refining coal,
+%% cooling into the comfort of the book's second half.
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ThroneCrimson}{RGB}{150,30,30}     % Throne-room majesty (ch.6) and
+                                                 % "though your sins are like
+                                                 % scarlet" (1:18) — replaces
+                                                 % Acts's ChapterFlame everywhere
+                                                 % structural: chapter titles,
+                                                 % headers, rules
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared, unchanged)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
+
+% Cool accent — the comfort of the book's second half (40-66章)
+\definecolor{ComfortBlue}{RGB}{70,110,150}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{HebrewBg}{RGB}{253,247,240}        % Warm cream for Hebrew word studies
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Divine first-person speech — Isaiah's recurring "I am the LORD, and there is
+% no other" oracles (41:4; 43:11; 45:5-6, 22; 48:12, etc.), the closest analogue
+% in this book to a series "red letter" convention
+\definecolor{DivineRed}{RGB}{204,0,0}
+\newcommand{\divine}[1]{\textcolor{DivineRed}{#1}}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ThroneCrimson,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long 註解 cells from wrapping to a few characters per line (same fix as
+% templates/pdf/gospel-of-luke.latex).
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ThroneCrimson} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ThroneCrimson} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ThroneCrimson} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ThroneCrimson}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% COVER ART PAGE — the altar coal (6:6-7) at the center of two
+%% concentric zones: 審判之卷 (1-39章, crimson) within 安慰之卷
+%% (40-66章, comfort blue), gold-bordered, matching series palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ThroneCrimson, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[ComfortBlue]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ThroneCrimson} Three Books Deep Reading \textbullet\ Isaiah}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 以賽亞書深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 以色列的聖者 \textperiodcentered\ The Holy One of Israel}
+
+\vspace{0.30cm}
+
+% ===== TWO-STAGE STRUCTURE: 審判之卷 / 安慰之卷, WITH THE ALTAR COAL AT THE CENTER (6:6-7) =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Outer zone — 安慰之卷 (40-66章), comfort blue
+  \fill[ComfortBlue, opacity=0.16] (0,0.1) circle (1.65);
+  \draw[ComfortBlue, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
+  % Inner zone — 審判之卷 (1-39章), throne crimson
+  \fill[ThroneCrimson, opacity=0.14] (0,0.1) circle (0.85);
+  \draw[ThroneCrimson, line width=1.0pt, opacity=0.85] (0,0.1) circle (0.85);
+  % Altar coal at the center — the seraph's coal touching the prophet's lips (6:6-7)
+  \fill[ScriptureGold] (0,0.1) circle (0.11);
+  \fill[ThroneCrimson] (0,0.1) circle (0.05);
+  \node[font=\tiny,color=ThroneCrimson] at (0,-1.0) {審判之卷};
+  \node[font=\tiny,color=ThroneCrimson] at (0,-1.28) {1-39章};
+  \node[font=\tiny,color=ComfortBlue]  at (0,-1.85) {安慰之卷};
+  \node[font=\tiny,color=ComfortBlue]  at (0,-2.13) {40-66章};
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ThroneCrimson}\kaiti\selectfont 聖哉}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Holy}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 以賽亞書研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Book of Isaiah}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ThroneCrimson} קְדוֹשׁ יִשְׂרָאֵל}\quad
+{\footnotesize\scshape\color{CommentaryBrown} ``Qedosh Yisra'el''}\quad
+{\footnotesize\bfseries\color{DivineRed} 以色列的聖者}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{DivineRed}\kaiti\selectfont
+「聖哉！聖哉！聖哉！萬軍之耶和華；他的榮光充滿全地！」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+``Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory!''}\\[0.10em]
+{\scriptsize\color{ThroneCrimson} 以賽亞書 6:3 \textperiodcentered\ Isaiah 6:3}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on Isaiah's own
+%% designated key verse (12:2-3), the same role Acts 1:8 plays
+%% in the sister volume, paired with the 66-chapter/two-volume
+%% structure this book is famous for.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ThroneCrimson} 全書一句話 \textperiodcentered\ The Whole Book in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+看哪！神是我的\textbf{\color{DivineRed}拯救}；我要倚靠他，並不懼怕。\\
+因為主耶和華是我的力量，是我的詩歌，他也成了我的\textbf{\color{DivineRed}拯救}。\\
+所以，你們必從救恩的泉源歡然取水。\\[0.5em]
+\footnotesize\itshape
+Behold, God is my \textbf{salvation}; I will trust, and will not be afraid;\\
+for the LORD GOD is my strength and my song, and he has become my \textbf{salvation}.\\
+With joy you will draw water from the wells of salvation.\\[0.4em]
+\small\color{ThroneCrimson} 以賽亞書 12:2-3 \textperiodcentered\ Isaiah 12:2-3
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 六十六章 \textperiodcentered\ 兩大卷 \textperiodcentered\ 一位以色列的聖者\\
+\textit{Sixty-six chapters \textperiodcentered\ two volumes \textperiodcentered\ one Holy One of Israel}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{2.6cm}p{2.6cm}p{6.8cm}@{}}
+\toprule
+& \textbf{卷一 \textperiodcentered\ 審判之卷 (1-39章)} & \textbf{卷二 \textperiodcentered\ 安慰之卷 (40-66章)} \\
+\midrule
+基調 & 審判、控告、禍哉 & 安慰、拯救、榮耀 \\
+高峰 & 6章 \textperiodcentered\ 先知蒙召的異象 & 53章 \textperiodcentered\ 受苦的僕人 \\
+結尾伏筆 & 36-39章：希西家與巴比倫使者，預告被擄 & 65-66章：新天新地 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ThroneCrimson} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一篇冗長的審判判決書，是來看一位聖潔的神，如何親自成為祂百姓的拯救。\\
+若你讀完六十六章卻只記得「禍哉」與審判——請從頭再讀，\\
+這次留意：寶座上的聖哉聖哉聖哉，與各各他上的鞭傷，本是同一位主的兩幅畫像。\\[0.5em]
+\textit{\footnotesize
+You are not reading a lengthy indictment — you are watching a holy God become,
+Himself, His people's salvation.\\
+If after sixty-six chapters you remember only judgment and woe, read it again.\\
+This time notice: the Holy, Holy, Holy of the throne and the stripes of Calvary
+are one Lord's two portraits.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ThroneCrimson} 聖哉}\\[0.2cm]
+{\large\itshape\color{LightGray} Holy}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 以賽亞書研讀}\\[0.15cm]
+{\normalsize A Study of the Book of Isaiah}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+看哪！神是我的拯救；我要倚靠他，並不懼怕……\\[0.15em]
+\footnotesize Behold, God is my salvation; I will trust, and will not be afraid...\\
+he has become my salvation. — Isaiah 12:2-3
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Six-volume structure diagram (TikZ drawn), replacing the Acts map with the
+% structural device this book actually has: six volumes across 66 chapters.
+\begin{tikzpicture}[scale=0.62]
+  \node[font=\footnotesize\bfseries,color=ThroneCrimson] at (0,3.0) {全書六卷 Six Volumes, 66 Chapters};
+
+  \node[draw=ThroneCrimson,fill=ScriptureBg,rounded corners,minimum width=3.0cm,minimum height=0.55cm,font=\tiny] at (-4.4,1.6) {卷一 · 控告與呼召};
+  \node[font=\tiny,color=LightGray] at (-4.4,1.15) {1-6};
+
+  \node[draw=ThroneCrimson,fill=ScriptureBg,rounded corners,minimum width=3.0cm,minimum height=0.55cm,font=\tiny] at (-1.3,1.6) {卷二 · 以馬內利};
+  \node[font=\tiny,color=LightGray] at (-1.3,1.15) {7-12};
+
+  \node[draw=ThroneCrimson,fill=ScriptureBg,rounded corners,minimum width=3.0cm,minimum height=0.55cm,font=\tiny] at (1.8,1.6) {卷三 · 列國與啟示錄};
+  \node[font=\tiny,color=LightGray] at (1.8,1.15) {13-27};
+
+  \node[draw=ThroneCrimson,fill=ScriptureBg,rounded corners,minimum width=3.0cm,minimum height=0.55cm,font=\tiny] at (4.9,1.6) {卷四 · 通往希西家};
+  \node[font=\tiny,color=LightGray] at (4.9,1.15) {28-39};
+
+  \node[draw=ComfortBlue,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=0.55cm,font=\tiny] at (-1.7,0.1) {卷五 · 安慰與僕人之歌};
+  \node[font=\tiny,color=LightGray] at (-1.7,-0.35) {40-55};
+
+  \node[draw=ComfortBlue,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=0.55cm,font=\tiny] at (2.4,0.1) {卷六 · 公義與新天新地};
+  \node[font=\tiny,color=LightGray] at (2.4,-0.35) {56-66};
+
+  \draw[->,color=ScriptureGold,thick] (-2.9,1.6) -- (-2.7,1.6);
+  \draw[->,color=ScriptureGold,thick] (0.2,1.6) -- (0.4,1.6);
+  \draw[->,color=ScriptureGold,thick] (3.3,1.6) -- (3.5,1.6);
+  \draw[->,color=ScriptureGold,thick] (4.9,1.15) -- (4.9,0.75) -- (0.6,0.75) -- (0.6,0.35);
+  \draw[->,color=ScriptureGold,thick] (0.1,0.1) -- (0.3,0.1);
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+% Historical span (established in 00a-isaiah-position.md, sourced from 1:1)
+{\footnotesize\color{TextGray} 烏西雅 \textperiodcentered\ 約坦 \textperiodcentered\ 亞哈斯 \textperiodcentered\ 希西家——四王在位，約主前 739-680 年（賽 1:1）}
+
+\vfill
+
+% Equation and vine
+{\normalsize\color{ScriptureGold}\bfseries 聖潔 = 審判罪 + 親自承擔審判以施行拯救}\\[0.1cm]
+{\footnotesize\color{LightGray} Holiness = judging sin + Himself bearing that judgment to save (Isaiah 6; 53)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{以賽亞書研讀 / Isaiah Deep Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: English Standard Version (ESV)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 週四查經班（老弟兄第一手屬靈教導）\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Analyzed Bible: Isaiah\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ThroneCrimson}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER — APPENDICES
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% APPENDIX A: SCRIPTURE INDEX — ISAIAH IN THE NEW TESTAMENT
+%% (table content sourced from 00a-isaiah-position.md, already verified
+%% during content writing — not fabricated here)
+%% ============================================
+\chapter*{附錄一：經文索引——以賽亞書在新約中的應驗 (Appendix A: Scripture Index — Isaiah Fulfilled in the New Testament)}
+\addcontentsline{toc}{chapter}{附錄一：經文索引——以賽亞書在新約中的應驗 (Appendix A: Scripture Index)}
+\markboth{}{}
+
+\noindent 以賽亞書在新約中被直接引用或提及的次數，僅次於詩篇，遠超其他先知書，教會歷史上常被稱為「第五福音書」。本索引依以賽亞書經文順序，列出新約回應之處。
+
+{\small
+\begin{longtable}{@{}p{2.0cm}p{5.4cm}p{2.0cm}p{4.2cm}@{}}
+\toprule
+\textbf{以賽亞書} & \textbf{內容} & \textbf{新約} & \textbf{場合} \\
+\midrule
+\endhead
+7:14 & 必有童女懷孕生子，給他起名叫以馬內利 & 太 1:22-23 & 耶穌的出生 \\
+9:1-2 & 在黑暗中行走的百姓看見了大光 & 太 4:14-16 & 耶穌事工的起頭 \\
+40:3-5 & 在曠野有人聲喊著說 & 太 3:3；可 1:3；路 3:4-6；約 1:23 & 施洗約翰的角色 \\
+42:1-4 & 他不喧嚷，不揚聲 & 太 12:17-21 & 耶穌事工的性質 \\
+61:1-2 & 主的靈在我身上……傳福音給貧窮的人 & 路 4:17-21 & 拿撒勒會堂宣讀 \\
+53:4-12 & 他誠然擔當我們的憂患 & 太 8:17；可 15:28；路 22:37；約 12:38；徒 8:32-33；羅 10:16；彼前 2:22-25 & 十字架 \\
+65:17；66:22 & 我造新天新地 & 啟 21:1 & 教會的終局 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX B: KEY TERMS INDEX
+%% (26-unit key-word list sourced from 00-overview.md's chapter index,
+%% already verified — not fabricated here)
+%% ============================================
+\chapter*{附錄二：鑰詞索引——二十六個研讀單元 (Appendix B: Key Terms Across the 26 Study Units)}
+\addcontentsline{toc}{chapter}{附錄二：鑰詞索引 (Appendix B: Key Terms Index)}
+\markboth{}{}
+
+\noindent 以賽亞書沒有像使徒行傳那樣工整的一節「總綱經文」分卷記號，但先知自己用「默示」（מַשָּׂא massa）、「禍哉」（הוֹי hoy）等固定詞語標記段落起訖。全書 66 章依此歸為 26 個研讀單元；下表按單元列出各段的鑰詞。
+
+{\small
+\renewcommand{\arraystretch}{1.15}
+\begin{longtable}{@{}p{0.7cm}p{4.4cm}p{2.2cm}p{5.3cm}@{}}
+\toprule
+\textbf{段} & \textbf{章節範圍} & \textbf{鑰詞} & \textbf{位置} \\
+\midrule
+\endhead
+1 & 悖逆的兒女 (1章) & 悖逆 & 1:2 \\
+2 & 末後的日子與耶和華的日子 (2-4章) & 耶和華的日子 & 2:12 \\
+3 & 葡萄園之歌與六禍哉 (5章) & 葡萄園 & 5:7 \\
+4 & 以賽亞的呼召 (6章) & 聖哉 & 6:3 \\
+5 & 以馬內利的預兆 (7-8章) & 以馬內利 & 7:14 \\
+6 & 那生的嬰孩與亞述的杖 (9-10章) & 奇妙策士 & 9:6 \\
+7 & 耶西的本與感謝的詩 (11-12章) & 耶西的本 & 11:1 \\
+8 & 論巴比倫與路西弗的墮落 (13-14章) & 明亮之星 & 14:12 \\
+9 & 論列國的默示 (15-20章) & 默示（massa） & 15:1 \\
+10 & 曠野海旁與推羅的默示 (21-23章) & 守望者 & 21:11 \\
+11 & 以賽亞的啟示錄 (24-27章) & 吞滅死亡 & 25:8 \\
+12 & 以法蓮的冠冕與亞利伊勒 (28-29章) & 房角石 & 28:16 \\
+13 & 倚靠埃及有禍了 (30-31章) & 平靜安穩 & 30:15 \\
+14 & 公義的王與避難所 (32-33章) & 避難所 & 32:2 \\
+15 & 神的報應之日與贖民歸回 (34-35章) & 贖民 & 35:10 \\
+16 & 亞述圍城與神的拯救 (36-37章) & 倚靠 & 37:10 \\
+17 & 希西家的病與巴比倫使者 (38-39章) & 眼淚 & 38:5 \\
+18 & 你們要安慰我的百姓 (40章) & 安慰 & 40:1 \\
+19 & 我以外並沒有真神 (41-44章) & 你是屬我的 & 43:1 \\
+20 & 我造光又造暗與離開巴比倫 (45-48章) & 受膏者 & 45:1 \\
+21 & 錫安不能忘記你與受教者的舌頭 (49-50章) & 刻在掌上 & 49:16 \\
+22 & 因他受的鞭傷我們得醫治 (51-53章) & 受苦的僕人 & 53:5 \\
+23 & 你當歡呼與白白的水 (54-55章) & 永約 & 55:3 \\
+24 & 遵守公平行公義與神的膀臂縮短了嗎 (56-59章) & 公義 & 56:1 \\
+25 & 興起發光與錫安的榮耀 (60-62章) & 興起發光 & 60:1 \\
+26 & 從以東而來與新天新地 (63-66章) & 新天新地 & 65:17 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX C: REFERENCES
+%% ============================================
+\chapter*{附錄三：參考資料 (Appendix C: References)}
+\addcontentsline{toc}{chapter}{附錄三：參考資料 (Appendix C: References)}
+\markboth{}{}
+
+\noindent 本書「解經洞見」與「老弟兄查經．深讀」各節所引用的注釋家與著作如下，依時代排列。
+
+\section*{近代與當代釋經 Modern \& Contemporary Commentary}
+
+\begin{itemize}
+\item Delitzsch, Franz (1813--1890). \textit{Biblical Commentary on the Prophecies of Isaiah}. Edinburgh: T\&T Clark, 1877.
+\item Morgan, G. Campbell (1863--1945). \textit{The Analyzed Bible: Isaiah}. New York: Fleming H. Revell.
+\item Young, Edward J. \textit{The Book of Isaiah} (3 vols). NICOT. Grand Rapids: Eerdmans, 1965--1972.
+\item MacArthur, John (b. 1939). \textit{The MacArthur Bible Commentary}; 講道系列 "Isaiah"，錄音與講章見 gty.org。
+\item Motyer, J. Alec. \textit{The Prophecy of Isaiah: An Introduction and Commentary}. Downers Grove: IVP, 1993.
+\item Oswalt, John N. \textit{The Book of Isaiah} (2 vols). NICOT. Grand Rapids: Eerdmans, 1986, 1998.
+\end{itemize}
+
+\section*{中文查經資源 Chinese-Language Bible Study Resources}
+
+\begin{itemize}
+\item 老弟兄（Elder / "老弟兄"）。以賽亞書查經班教導，Thursday Study Group 整理。
+\end{itemize}
+
+\section*{聖經版本 Bible Versions Used}
+
+\begin{itemize}
+\item 中文：和合本 (Chinese Union Version, CUV)
+\item English: English Standard Version (ESV)
+\item 原文參考：Biblia Hebraica Stuttgartensia (BHS)
+\item 經文核對 Verification: \url{https://www.ai-eden.com/bible}
+\end{itemize}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX D: THE HOLY ONE OF ISRAEL — THE TITLE'S TRAJECTORY
+%% (table sourced from 00b-holy-one-spine.md, already verified — not
+%% fabricated here)
+%% ============================================
+\chapter*{附錄四：「以色列的聖者」——稱號在全書中的軌跡 (Appendix D: The Holy One of Israel — The Title's Trajectory)}
+\addcontentsline{toc}{chapter}{附錄四：以色列的聖者——稱號軌跡 (Appendix D: The Holy One of Israel)}
+\markboth{}{}
+
+\noindent 「以色列的聖者」（קְדוֹשׁ יִשְׂרָאֵל, Qedosh Yisra'el）在以賽亞書出現約 25 次，是全書出現頻率最高的神的稱號之一，遠超舊約其餘書卷加起來的總和。留意這條軌跡：前半卷（1-39章），這稱號多半出現在審判的語境裏；後半卷（40-66章），同一個稱號卻反覆與「救贖主」「救主」並列——稱號沒有換，換的是這份聖潔向百姓顯出的那一面。
+
+{\small
+\begin{longtable}{@{}p{1.4cm}p{6.0cm}p{6.2cm}@{}}
+\toprule
+\textbf{經文} & \textbf{上下文} & \textbf{顯出的是聖潔的哪一面} \\
+\midrule
+\endhead
+1:4 & 「他們離棄耶和華，藐視以色列的聖者」 & 審判——百姓的罪正是得罪這位聖者 \\
+5:19 & 「任憑他……使以色列的聖者所謀劃的臨近成就」 & 審判——聖者的計劃終必成就，人的嘲弄無用 \\
+10:20 & 「以色列所剩下的……必誠實倚靠耶和華以色列的聖者」 & 過渡——聖潔成了餘民倚靠的對象 \\
+12:6 & 「因為在你們中間的以色列聖者乃為至大」 & 拯救——聖者親自「在你們中間」 \\
+41:14 & 「你的救贖主是以色列的聖者」 & 拯救——聖者的身分升級為「救贖主」 \\
+43:3 & 「因為我是耶和華你的神，是以色列的聖者，你的救主」 & 拯救——聖潔與拯救徹底合一 \\
+45:11 & 「耶和華以色列的聖者……如此說」 & 拯救——聖者親自宣告古列的差遣 \\
+54:5 & 「救贖你的是以色列的聖者，他必稱為全地之神」 & 拯救——聖潔的普世性彰顯 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX E: SIXTY-SIX CHAPTERS, ONE BOOK — THE TWO VOLUMES
+%% (comparison table sourced from 00-overview.md / 00a-isaiah-position.md,
+%% already verified — not fabricated here)
+%% ============================================
+\chapter*{附錄五：六十六章，一卷書——審判之卷與安慰之卷 (Appendix E: Sixty-Six Chapters, One Book — The Two Volumes)}
+\addcontentsline{toc}{chapter}{附錄五：審判之卷與安慰之卷 (Appendix E: The Two Volumes)}
+\markboth{}{}
+
+\noindent 以賽亞書共 66 章，恰似聖經全書 66 卷。這個觀察不能當作解經的方法，卻是恰當的記憶與領受幫助：
+
+{\small
+\begin{tabular}{@{}p{2.6cm}p{5.0cm}p{5.0cm}@{}}
+\toprule
+& \textbf{卷一 \textperiodcentered\ 審判之卷 (1-39章)} & \textbf{卷二 \textperiodcentered\ 安慰之卷 (40-66章)} \\
+\midrule
+恰似 & 舊約 39 卷 & 新約 27 卷 \\
+基調 & 審判、控告、禍哉 & 安慰、拯救、榮耀 \\
+時代背景 & 烏西雅至希西家，亞述威脅正盛 & 預告巴比倫擄掠之後的歸回與救贖 \\
+神的稱號 & 以色列的聖者（審判的聖潔） & 以色列的聖者（拯救的聖潔）、你的救贖主 \\
+高峰 & 6章先知蒙召的異象 & 53章受苦的僕人 \\
+結尾伏筆 & 36-39章：希西家與巴比倫使者，預告被擄 & 65-66章：新天新地 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.3cm}
+\noindent\textbf{觀察：}第 40 章開頭那句「你們要安慰、安慰我的百姓」，正好落在恰似「舊約結束、新約開始」的位置——律法定了罪，恩典隨即臨到。神在祂所默示的每一卷書裏，都埋著同一個福音的形狀：審判在前，恩典在後；律法定罪，恩典拯救。
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX F: THE FOUR SERVANT SONGS
+%% (content sourced from 00-overview.md and elder-wong-systematic-study.md,
+%% already verified — not fabricated here)
+%% ============================================
+\chapter*{附錄六：四篇僕人之歌 (Appendix F: The Four Servant Songs)}
+\addcontentsline{toc}{chapter}{附錄六：四篇僕人之歌 (Appendix F: The Four Servant Songs)}
+\markboth{}{}
+
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{ThroneCrimson} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}
+四篇僕人之歌，一步步加深：介紹僕人的溫柔性情，到僕人蒙召要「光照萬邦」，
+到僕人忍受凌辱卻不退縮，直到全部重量卸在一句話上——
+「耶和華使我們眾人的罪孽都歸在他身上」(53:6)。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+
+\section*{一、僕人的溫柔與公理 (42:1-4)}
+\noindent\textbf{核心：}「他不喧嚷，不揚聲，也不使街上聽見他的聲音」——僕人蒙揀選、蒙神喜悅，卻以溫柔行公理
+
+\vspace{0.2cm}
+\section*{二、僕人蒙召，光照萬邦 (49:1-6)}
+\noindent\textbf{核心：}「我已立你作外邦人的光，叫你施行我的救恩，直到地極」——僕人的使命超越以色列本身
+
+\vspace{0.2cm}
+\section*{三、僕人受教的舌頭與忍受凌辱 (50:4-9)}
+\noindent\textbf{核心：}「人打我的背，我任他打；人拔我腮頰的鬍鬚，我由他拔」——甘心忍受，因知有主耶和華幫助
+
+\vspace{0.2cm}
+\section*{四、僕人受苦代贖，被高舉 (52:13-53:12)}
+\noindent\textbf{核心：}「他誠然擔當我們的憂患，背負我們的痛苦……因他受的鞭傷，我們得醫治」——全書的頂峰，代贖的受苦
+
+\vspace{0.3cm}
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}
+\centering\vspace{0.2cm}
+{\footnotesize\color{TextGray}
+\textbf{結構觀察：}四篇僕人之歌散見於 40-55 章之間，篇幅一次比一次長、代價一次比一次重，
+第四篇更被新約反覆引用（太8:17；約12:38；徒8:32-33；彼前2:22-25），
+指向十字架上那一位受苦卻被高舉的主。}
+\vspace{0.2cm}
+\end{minipage}}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX G: HEBREW WORD GLOSSARY
+%% (content sourced from 00b-holy-one-spine.md's "原文小識" table,
+%% already verified — not fabricated here; kept deliberately modest in
+%% scope rather than inventing additional entries)
+%% ============================================
+\chapter*{附錄七：希伯來文原文詞彙表 (Appendix G: Hebrew Word Glossary)}
+\addcontentsline{toc}{chapter}{附錄七：希伯來文原文詞彙表 (Appendix G: Hebrew Word Glossary)}
+\markboth{}{}
+
+\noindent 本表彙整貫穿全書的幾個關鍵字根，供查閱參考。
+
+{\small
+\begin{longtable}{@{}p{2.6cm}p{2.4cm}p{2.6cm}p{5.8cm}@{}}
+\toprule
+\textbf{希伯來文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
+\midrule
+\endhead
+קָדוֹשׁ & qadosh & 聖潔、分別為聖 & 6:3「聖哉」；「以色列的聖者」全書約 25 次 \\
+יָשַׁע & yasha & 拯救 & 先知自己的名字字根；12:2「他也成了我的拯救」；45:22「地極的人都當仰望我，就必得救」 \\
+נָחַם & nacham & 安慰、後悔 & 40:1「你們要安慰、安慰我的百姓」——後半卷的開場詞 \\
+מָשִׁיחַ & mashiach & 受膏者 & 45:1 稱波斯王古列為「受膏者」——唯一一次外邦君王得此稱號 \\
+עֶבֶד & eved & 僕人 & 貫穿 40-53 章的「耶和華的僕人」，兼指以色列與那一位僕人本身 \\
+מַשָּׂא & massa & 默示、重擔 & 13:1；15:1；17:1……列國默示的固定起首詞，一語雙關「神的宣告」與「沉重的審判」 \\
+\bottomrule
+\end{longtable}
+}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX H: READING PLAN
+%% (six-week plan sourced from 00-overview.md / elder-wong-systematic-study.md,
+%% already verified — not fabricated here)
+%% ============================================
+\chapter*{附錄八：以賽亞書讀經計劃 (Appendix H: A Reading Plan for Isaiah)}
+\addcontentsline{toc}{chapter}{附錄八：以賽亞書讀經計劃 (Appendix H: A Reading Plan for Isaiah)}
+\markboth{}{}
+
+\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{6.0in}\vspace{0.18cm}
+\centering
+{\footnotesize\bfseries\color{ThroneCrimson} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
+{\footnotesize\color{TextGray}
+重要的不是\textit{讀完}，是\textit{看見那位又聖潔、又親自成為拯救的主}。\\
+若某一章的話打中你——停下來，在那裡住一天。}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.3cm}
+\noindent 本計劃依全書六卷結構分為六週。
+
+{\small
+\renewcommand{\arraystretch}{1.2}
+\begin{longtable}{@{}p{1.6cm}p{3.0cm}p{9.0cm}@{}}
+\toprule
+\textbf{週次} & \textbf{涵蓋單元} & \textbf{焦點} \\
+\midrule
+\endhead
+第一週 & 卷一（1-6章） & 控告與呼召——留意「聖哉」在異象中的份量 \\
+第二週 & 卷二（7-12章） & 以馬內利——留意亞哈斯的不信與應許的堅立 \\
+第三週 & 卷三（13-27章） & 列國與啟示錄——留意審判如何及於全地 \\
+第四週 & 卷四（28-39章） & 禍哉與希西家——留意「倚靠」二字反覆出現的位置 \\
+第五週 & 卷五（40-55章） & 安慰與僕人之歌——留意四篇僕人之歌如何逐步加深 \\
+第六週 & 卷六（56-66章） & 公義與新天新地——留意全書怎樣從審判走到榮耀 \\
+\bottomrule
+\end{longtable}
+}
+
+%% ============================================
+%% BACK COVER PAGE
+%% ============================================
+\cleardoublepage
+\pagestyle{empty}
+\thispagestyle{empty}
+
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.2pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ThroneCrimson, line width=0.4pt, opacity=0.6]
+    ([xshift=0.52in,yshift=0.52in]current page.south west)
+    rectangle
+    ([xshift=-0.52in,yshift=-0.52in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[DivineRed] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.016in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{\fill}
+
+{\fontsize{15}{18}\selectfont\scshape\color{ThroneCrimson} קְדוֹשׁ יִשְׂרָאֵל}\\[0.10cm]
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``The Holy One of Israel'' \;\;
+\bfseries\color{DivineRed} 以色列的聖者}
+
+\vspace{0.25cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.35cm}
+
+{\normalsize\bfseries\color{ThroneCrimson} 關於本書 \;\; \footnotesize\scshape About This Book}
+
+\vspace{0.2cm}
+\noindent\begin{minipage}{4.7in}
+\footnotesize\color{TextGray}
+本書逐段研讀以賽亞書六十六章，整合週四查經班（老弟兄）第一手屬靈教導、
+John MacArthur 逐節解經、G. Campbell Morgan《The Analyzed Bible: Isaiah》，
+並貫通摩西五經、四福音、保羅書信與啟示錄。
+全書以以賽亞書 12:2-3 為總綱：
+「神是我的拯救；我要倚靠他，並不懼怕……他也成了我的拯救。」\\[0.4em]
+{\itshape
+A study of all 66 chapters of Isaiah, integrating Elder Wong's Thursday
+Bible-study teaching, John MacArthur's verse-by-verse exposition, and
+G. Campbell Morgan's \textit{The Analyzed Bible: Isaiah} — framed by
+Isaiah 12:2-3: "God is my salvation... he has become my salvation."}
+\end{minipage}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ThroneCrimson} 全書六卷 \;\; Six Volumes}\\[0.3em]
+{\footnotesize\color{TextGray}
+猶大的控告與呼召 (1-6) \textbullet\ 以馬內利與亞述的陰影 (7-12) \textbullet\ 對列國的審判與啟示錄 (13-27)\\
+禍哉與拯救·通往希西家 (28-39) \textbullet\ 安慰與僕人之歌 (40-55) \textbullet\ 公義的呼召與新天新地 (56-66)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「看哪！神是我的拯救；我要倚靠他，並不懼怕……\\
+他也成了我的拯救。」}\\[0.15cm]
+{\scriptsize\color{ThroneCrimson} — 以賽亞書 12:2-3}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}
