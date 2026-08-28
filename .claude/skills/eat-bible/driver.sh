@@ -9,18 +9,39 @@
 #
 # Usage:
 #   .claude/skills/eat-bible/driver.sh <book-slug> [page-to-screenshot]
+#   .claude/skills/eat-bible/driver.sh <book-slug> --record-baseline
 #
 # <book-slug> must match scripts/build-<book-slug>-consolidated.sh
 # Run from the repo root (where scripts/ and output/ live).
 #
+# The final step compares this build against baselines.tsv (checked in beside
+# this script) and FAILS on a regression — more overfull boxes or more missing
+# glyphs than last recorded. Absolute counts alone are useless here: several
+# books have carried defects since they were created, so gating on "nonzero"
+# would just mean the driver always fails and everyone stops reading it.
+# Gating on "worse than before" is what actually catches an edit.
+#
+# --record-baseline accepts the current numbers as the new reference. Use it
+# after deliberately fixing (or knowingly accepting) a change — never to
+# silence a regression you haven't looked at.
+#
 # Examples verified this session:
 #   .claude/skills/eat-bible/driver.sh 1-timothy
 #   .claude/skills/eat-bible/driver.sh pastoral-epistles 1
+#   .claude/skills/eat-bible/driver.sh isaiah --record-baseline
 
 set -uo pipefail
 
-SLUG="${1:-}"
-SCREENSHOT_PAGE="${2:-1}"
+SLUG=""
+SCREENSHOT_PAGE=1
+RECORD_BASELINE=0
+for arg in "$@"; do
+  case "$arg" in
+    --record-baseline) RECORD_BASELINE=1 ;;
+    -*) echo "unknown flag: $arg" >&2; exit 2 ;;
+    *) if [ -z "$SLUG" ]; then SLUG="$arg"; else SCREENSHOT_PAGE="$arg"; fi ;;
+  esac
+done
 
 if [ -z "$SLUG" ]; then
   echo "Usage: $0 <book-slug> [page-to-screenshot]" >&2
@@ -39,13 +60,14 @@ LOG="/tmp/build-${SLUG}-driver.log"
 PDF=$(sed -nE 's#^OUTPUT_PDF="\$OUTPUT_DIR/(.*)"$#output/\1#p' "$BUILD_SCRIPT" 2>/dev/null | head -1)
 [ -n "$PDF" ] || PDF="output/${SLUG}-consolidated.pdf"
 LATEX_LOG="${PDF%.pdf}-build.log"
+BASELINE_FILE="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/baselines.tsv"
 
 if [ ! -f "$BUILD_SCRIPT" ]; then
   echo "FAIL: no such build script: $BUILD_SCRIPT" >&2
   exit 1
 fi
 
-echo "== 1/5 build: $BUILD_SCRIPT =="
+echo "== 1/6 build: $BUILD_SCRIPT =="
 bash "$BUILD_SCRIPT" > "$LOG" 2>&1
 BUILD_EXIT=$?
 echo "  exit code: $BUILD_EXIT"
@@ -55,7 +77,7 @@ if [ "$BUILD_EXIT" -ne 0 ]; then
   exit 1
 fi
 
-echo "== 2/5 check for missing-glyph warnings =="
+echo "== 2/6 check for missing-glyph warnings =="
 # These greps are only as good as what the build script puts in the log.
 # pandoc swallows the xelatex log unless it is passed --verbose, so a build
 # script that omits it makes every check below pass vacuously. The build
@@ -78,7 +100,7 @@ if [ "$MISSING" -gt 0 ]; then
   exit 1
 fi
 
-echo "== 3/5 check for LaTeX errors =="
+echo "== 3/6 check for LaTeX errors =="
 LATEX_ERR=$(grep -icE '! LaTeX Error|! Undefined control sequence|! Package .* Error' "$LOG")
 echo "  LaTeX error lines: $LATEX_ERR"
 if [ "$LATEX_ERR" -gt 0 ]; then
@@ -88,7 +110,7 @@ if [ "$LATEX_ERR" -gt 0 ]; then
   exit 1
 fi
 
-echo "== 3b/5 report overfull boxes (non-fatal) =="
+echo "== 3b/6 report overfull boxes (non-fatal) =="
 # An overfull \hbox means content printed outside its column or past the text
 # block — a Hebrew cell overprinting the column beside it, an appendix box
 # bleeding into the margin. It is invisible to every other check here: exit
@@ -111,7 +133,7 @@ if [ ! -f "$PDF" ]; then
   exit 1
 fi
 
-echo "== 4/5 check embedded fonts =="
+echo "== 4/6 check embedded fonts =="
 if ! command -v pdffonts >/dev/null 2>&1; then
   echo "  SKIP: pdffonts not installed (brew install poppler)"
 else
@@ -127,7 +149,7 @@ else
   fi
 fi
 
-echo "== 5/5 render page $SCREENSHOT_PAGE to PNG for visual check =="
+echo "== 5/6 render page $SCREENSHOT_PAGE to PNG for visual check =="
 OUT_PNG="/tmp/${SLUG}-p${SCREENSHOT_PAGE}"
 if ! command -v pdftoppm >/dev/null 2>&1; then
   echo "  SKIP: pdftoppm not installed (brew install poppler)"
@@ -149,6 +171,59 @@ else
   else
     echo "FAIL: pdftoppm ran but produced no PNG" >&2
     exit 1
+  fi
+fi
+
+echo "== 6/6 compare against baseline =="
+BASE_ROW=$(awk -F'\t' -v s="$SLUG" '$1==s {print; exit}' "$BASELINE_FILE" 2>/dev/null)
+
+if [ "$RECORD_BASELINE" -eq 1 ]; then
+  # BSD grep has no -P, so drop the existing row with awk on the tab-split
+  # first field rather than a regex over the whole line.
+  TMP=$(mktemp)
+  {
+    echo "# slug	pages	missing-glyphs	overfull-boxes	recorded"
+    if [ -f "$BASELINE_FILE" ]; then
+      awk -F'\t' -v s="$SLUG" '!/^#/ && $1!=s' "$BASELINE_FILE"
+    fi
+    printf '%s\t%s\t%s\t%s\t%s\n' "$SLUG" "$PAGES" "$MISSING" "$OVERFULL" "$(date +%Y-%m-%d)"
+  } > "$TMP"
+  { head -1 "$TMP"; tail -n +2 "$TMP" | sort; } > "$BASELINE_FILE"
+  rm -f "$TMP"
+  echo "  recorded: pages=$PAGES missing=$MISSING overfull=$OVERFULL"
+  echo ""
+  echo "PASS: $PDF ($PAGES pages) built; baseline updated."
+  exit 0
+fi
+
+if [ -z "$BASE_ROW" ]; then
+  echo "  no baseline for '$SLUG' in $BASELINE_FILE"
+  echo "  → re-run with --record-baseline to start tracking this book."
+else
+  BASE_PAGES=$(echo "$BASE_ROW" | cut -f2)
+  BASE_MISSING=$(echo "$BASE_ROW" | cut -f3)
+  BASE_OVERFULL=$(echo "$BASE_ROW" | cut -f4)
+  BASE_DATE=$(echo "$BASE_ROW" | cut -f5)
+  echo "  baseline ($BASE_DATE): pages=$BASE_PAGES missing=$BASE_MISSING overfull=$BASE_OVERFULL"
+  echo "  now:                   pages=$PAGES missing=$MISSING overfull=$OVERFULL"
+
+  REGRESSED=0
+  if [ "$OVERFULL" -gt "$BASE_OVERFULL" ]; then
+    echo "REGRESSION: overfull boxes went $BASE_OVERFULL → $OVERFULL" >&2
+    echo "  Something now prints outside its column or past the text block." >&2
+    echo "  Diff the new entries in $LATEX_LOG against what you changed." >&2
+    REGRESSED=1
+  fi
+  if [ "$MISSING" -gt "$BASE_MISSING" ]; then
+    echo "REGRESSION: missing glyphs went $BASE_MISSING → $MISSING" >&2
+    REGRESSED=1
+  fi
+  if [ "$REGRESSED" -eq 1 ]; then
+    exit 1
+  fi
+  if [ "$OVERFULL" -lt "$BASE_OVERFULL" ]; then
+    echo "  improved: overfull $BASE_OVERFULL → $OVERFULL — re-run with"
+    echo "  --record-baseline to lock the gain in."
   fi
 fi
 
