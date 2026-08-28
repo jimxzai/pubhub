@@ -130,6 +130,39 @@ for path in sorted(glob.glob("templates/pdf/*.latex")):
                        f"+{box_overhead:.1f}pt box > textwidth {tw:.1f}pt",
                        r"use \dimexpr\textwidth-2\fboxsep-2\fboxrule\relax")
 
+    # 6. A hardcoded table whose TOTAL width fits but whose individual cells
+    #    do not. Check 4 catches the table; nothing caught the cell. Measured
+    #    on acts.latex: p{2.44cm} held δεισιδαιμονεστέρους, 14.5pt too wide,
+    #    and the table total was inside the budget so rule 4 stayed silent.
+    #    CJK breaks anywhere; a Greek or Latin word cannot break at all.
+    if tw:
+        for m in re.finditer(
+            r"\\begin\{longtable\}(?:\[[^\]]*\])?\{@\{\}((?:p\{[\d.]+(?:pt|in|cm|mm|bp)\})+)@\{\}\}(.*?)\\end\{longtable\}",
+            src, re.S):
+            cols = [to_pt(v, u) for v, u in
+                    re.findall(r"p\{([\d.]+)(pt|in|cm|mm|bp)\}", m.group(1))]
+            for row in m.group(2).split("\\\\"):
+                cells = row.split("&")
+                if len(cells) != len(cols):
+                    continue
+                for k, cell in enumerate(cells):
+                    # Drop \cmd{arg} wholly (colour names, refs) before
+                    # stripping bare commands, or an argument like
+                    # ScriptureGold reads as visible text.
+                    text = re.sub(r"\\[a-zA-Z]+\{[^{}]*\}", " ", cell)
+                    text = re.sub(r"\\[a-zA-Z]+\s*|[{}]", "", text)
+                    for tok in re.split(r"[\s]|[\u3400-\u9fff\u3000-\u303f\uff00-\uffef]", text):
+                        w = 4.5 * len(tok)   # calibrated against measured overflows
+                        if w > cols[k] + 1:
+                            report(path, src, m.start(),
+                                   "table-cell-wider-than-column",
+                                   f"col {k+1} is {cols[k]:.0f}pt; "
+                                   f"'{tok[:24]}' needs about {w:.0f}pt",
+                                   "widen that column (take it from a CJK prose "
+                                   "column, which can wrap), or move the long "
+                                   "token into the note column")
+                            break
+
     # 5. ucharclasses misuse. Two distinct silent failures:
     #    (a) \setTransitionsFor{X} where X is a class GROUP or not a block at
     #        all -> compiles fine, does absolutely nothing.
