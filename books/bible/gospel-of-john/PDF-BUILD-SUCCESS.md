@@ -154,7 +154,7 @@ pandoc "$COMBINED_MD" \
 ## Build Statistics
 
 | Metric | Value |
-|--------|-------|
+|-------------------------------------------|-------------------------------------|
 | **Build Time** | ~15 seconds |
 | **PDF Size** | 684K (basic), 692K (premium) |
 | **Estimated Pages** | ~59 pages |

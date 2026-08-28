@@ -353,7 +353,7 @@ For ai-eden.com style web display:
 ## 📊 Coverage Statistics
 
 | Chapter | Jesus's Words | Percentage |
-|---------|---------------|------------|
+|--------------------|---------------------------------|---------------------------|
 | 1 | ~10 verses | 20% |
 | 2 | ~5 verses | 20% |
 | 3 | ~25 verses | 70% |

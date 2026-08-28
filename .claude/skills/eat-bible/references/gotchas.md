@@ -193,11 +193,24 @@ scripts/lint-templates.sh [template-name ...]
     `\textwidth`, i.e. exactly the 39.3pt overflow observed. Use
     `\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}`;
     never a hardcoded inch value that happens to look right.
-  - **A pandoc pipe table whose separator row is all-equal short
-    dashes** compiles to `\begin{longtable}[]{@{}lll@{}}` — natural-width
-    columns that never wrap. Fine until one row's content grows. Give
-    the separator row proportional dash counts so pandoc emits `p{}`
-    columns instead.
+  - **A pandoc pipe table whose separator row is SHORTER THAN `--columns`
+    (default 72) compiles to `\begin{longtable}[]{@{}lll@{}}`** — natural-width
+    columns that never wrap, however wide the content grows. This is the
+    single largest source of overfull boxes in this repo, and the trigger is
+    the *length of the separator line*, not the ratio between its columns:
+
+    ```
+    |---|------|--------|----------|      <- 34 chars  -> llll, cannot wrap
+    |--------------|-------------------|...|  <- 80 chars -> p{} widths, wraps
+    ```
+
+    Proportional-but-short separators still compile to `l`. So do all-equal
+    ones. Fixing the ratios alone changes nothing; the row has to get longer.
+    Measured across three books — widening every separator past the threshold
+    while preserving its proportions took **John 30 → 0, Mark 10 → 0, and
+    Acts 12 → 0** in a single pass, after four earlier attempts at
+    re-proportioning had moved the numbers barely at all (and twice made them
+    worse).
 
   For a fixed-width `longtable` the budget is
   `sum(p{}) + 2·\tabcolsep·(ncol−1) ≤ \textwidth`, i.e. with the
