@@ -170,7 +170,18 @@
   linkcolor=ThroneCrimson,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={以賽亞書研讀 — Isaiah Deep Study},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={以賽亞書逐段研讀：以色列的聖者——審判與拯救的同一份聖潔},
+  pdfkeywords={以賽亞書, Isaiah, 聖經研讀, Bible study, 和合本, ESV, 以色列的聖者, 僕人之歌, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
 }
 
 %% ============================================
@@ -199,6 +210,24 @@
 % long 註解 cells from wrapping to a few characters per line (same fix as
 % templates/pdf/gospel-of-luke.latex).
 \AtBeginEnvironment{longtable}{\small}
+
+%% ============================================
+%% SECTION NUMBERING AND TOC DEPTH
+%% ============================================
+% Without these two counters the book reads like a technical manual and the
+% front matter balloons:
+%   secnumdepth=0 — suppresses "33.7.2 改革宗時期" style numbering on body
+%     headings and, because the running head prints \leftmark/\rightmark, in
+%     the running heads too. A devotional study book numbers chapters, not
+%     sub-subsections.
+%   tocdepth=0 — lists chapters only. Measured on this book: with the LaTeX
+%     default the contents ran to 33 pages (pages 7-39, 8% of the volume),
+%     itemising entries down to "30.8.2 詩篇 121:1-2".
+% Note the build script's `--toc-depth=1` / `-V tocdepth=0` do NOT achieve
+% this on their own — \tableofcontents obeys the LaTeX counter, so it has to
+% be set here. Same fix as templates/pdf/gospel-of-luke.latex and 2-peter.latex.
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
 
 % Style table rules
 \renewcommand{\toprule}{\hline\hline}

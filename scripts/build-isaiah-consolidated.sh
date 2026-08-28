@@ -74,8 +74,25 @@ add_file() {
 }
 
 # Volume divider: a part-title page carrying the volume's theme.
+# Front/back matter and volume dividers: same as add_file but marks the H1
+# {.unnumbered}. Without this LaTeX numbers EVERY chapter sequentially, so the
+# preface, orientation chapters and the six volume divider pages consume
+# numbers 1-7 and the book's own 第一章 comes out as LaTeX chapter 8 — the
+# contents page then reads "8  第一章 · 悖逆的兒女", two conflicting numbers on
+# one line. Marking these unnumbered lets the 26 study units number 1-26,
+# matching 第一章-第二十六章. Same approach as build-gospel-of-luke-consolidated.sh.
+add_front() {
+    local f="$1"
+    [ -f "$f" ] || return 0
+    echo "  Adding (unnumbered): $(basename "$f")"
+    tail -n +8 "$f" | sed 's/\^\([0-9][0-9:-]*\)\^/\\textsuperscript{\1}/g' \
+      | awk 'BEGIN{done=0} /^# /{ if(!done){ sub(/[[:space:]]*$/,""); $0=$0" {.unnumbered}" ; done=1 } } {print}' >> "$COMBINED_MD"
+    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
+    ((chapter_count++))
+}
+
 add_volume() {
-    printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
+    printf '# %s {.unnumbered}\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
     if [ -n "$3" ]; then
         printf '\n| %s | %s |\n|---|---|\n' "$3" "$4" >> "$COMBINED_MD"
     fi
@@ -90,7 +107,7 @@ add_chapter() {
 }
 
 # 前言 — preface
-add_file "$INPUT_DIR/000-preface.md"
+add_front "$INPUT_DIR/000-preface.md"
 
 # ============================================================
 # 卷首 · 定位 — orientation: overview, position, spine
@@ -98,14 +115,14 @@ add_file "$INPUT_DIR/000-preface.md"
 add_volume "卷首 · 定位 (Orientation)" \
     "讀正文之前先讀這幾章：總覽、位置、骨幹——聖哉的異象如何焊住全書。"
 
-add_file "$INPUT_DIR/00-overview.md"
-add_file "$INPUT_DIR/00a-isaiah-position.md"
-add_file "$INPUT_DIR/00b-holy-one-spine.md"
+add_front "$INPUT_DIR/00-overview.md"
+add_front "$INPUT_DIR/00a-isaiah-position.md"
+add_front "$INPUT_DIR/00b-holy-one-spine.md"
 
 # Systematic reception — demote headings one level so it reads as one chapter.
 if [ -f "$STUDY_FILE" ]; then
     echo "  Adding: elder-wong-systematic-study.md (as 全書領受總綱)"
-    printf '# 全書領受總綱——查經領受 (Systematic Reception)\n\n' >> "$COMBINED_MD"
+    printf '# 全書領受總綱——查經領受 (Systematic Reception) {.unnumbered}\n\n' >> "$COMBINED_MD"
     tail -n +2 "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
     ((chapter_count++))
@@ -162,11 +179,12 @@ add_volume "卷末 · 沒有寫完的榮耀 (The Unfinished Glory)" \
     "以賽亞書自己不肯用一個乾淨的句號收尾——先知從『我滅亡了』（6:5）寫到『我造新天新地』（65:17），這條路今天還沒有走完，因為新天新地還沒有臨到，我們仍活在應許與成就之間。
 >
 > 耶和華說：我所要造的新天新地，怎樣在我面前長存；你們的後裔和你們的名字也必照樣長存。（賽 66:22）"
-add_file "$INPUT_DIR/99-new-heavens-new-earth.md"
+add_front "$INPUT_DIR/99-new-heavens-new-earth.md"
 
 # 跋 — afterword. Last content file: no trailing \newpage.
-echo "  Adding: 999-afterword.md"
-tail -n +8 "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
+echo "  Adding (unnumbered): 999-afterword.md"
+tail -n +8 "$INPUT_DIR/999-afterword.md" \
+  | awk 'BEGIN{done=0} /^# /{ if(!done){ sub(/[[:space:]]*$/,""); $0=$0" {.unnumbered}" ; done=1 } } {print}' >> "$COMBINED_MD"
 ((chapter_count++))
 
 echo ""
