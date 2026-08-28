@@ -12,7 +12,11 @@
 % (：。), with zero warnings. Every font declaration below uses
 % BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
 
-\documentclass[11pt,openany]{book}
+% openright (not openany): every chapter opens on a recto (odd) page, the
+% binding convention for a printed book. It costs a handful of blank versos;
+% the copyright page declares this a printed 贈閱版, so print convention wins
+% over saving screen pages. Switch back to openany for a screen-only edition.
+\documentclass[11pt,openright]{book}
 
 %% ============================================
 %% FONT SETUP WITH CJK LINE BREAKING
@@ -164,7 +168,21 @@
 %% ============================================
 %% HYPERLINKS
 %% ============================================
+% Micro-typography for the Latin/English runs: character protrusion pulls
+% punctuation and light letterforms slightly into the margin so the right edge
+% reads optically straight. expansion=false deliberately — font expansion
+% re-renders glyphs at scaled widths, which xdvipdfmx applies unevenly to the
+% CJK TrueType faces; protrusion alone is the safe half and is where most of
+% the visible gain is. Verified in isolation against this book's exact font
+% stack (Songti SC + FakeBold + Times New Roman Hebrew) before adopting.
+\usepackage[protrusion=true,expansion=false]{microtype}
+
 \usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
 \hypersetup{
   colorlinks=true,
   linkcolor=ThroneCrimson,
@@ -240,6 +258,22 @@
 \usepackage{fancyhdr}
 \pagestyle{fancy}
 \fancyhf{}
+% Running head content. Two corrections over the fancyhdr defaults:
+%
+% 1. \chaptermark drops book class's "Chapter N." prefix. Left alone the verso
+%    head reads "Chapter 2. 第二章 · 末後的日子…" — an English word in a
+%    Chinese book, and redundant, since the title already opens with 第二章.
+% 2. \cleardoublepage's inserted blank verso must be truly blank. fancyhdr's
+%    \pagestyle{fancy} otherwise prints the folio on it, so an openright blank
+%    came out bearing a lone page number — the one thing a blank leaf must not
+%    carry. Patch it to \thispagestyle{empty}.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
 \fancyhead[LE,RO]{\small\thepage}
 \fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
 \fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
