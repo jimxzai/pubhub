@@ -124,6 +124,26 @@ render "successfully" with zero warnings. Every cover/diagram page
 touched this session was confirmed by rendering it and reading the
 PNG, not by trusting a clean exit code.
 
+**Then inspect the PDF as a published object, not as build output.**
+The driver and the lint both read the *source*; a whole class of defect
+is only visible in the artifact, and none of it raises a warning. Isaiah
+passed every automated check while carrying a **33-page table of
+contents** (8% of the book, itemised down to `30.8.2 詩篇 121:1-2`),
+headings numbered `33.7.2` like a technical manual, a contents line
+reading `8  第一章` with two contradicting numbers, no Title/Author
+metadata whatsoever, and blank versos each bearing a lone page number.
+Four commands, worth running once per book before calling it finished:
+
+```bash
+pdfinfo output/<slug>-consolidated.pdf          # Title/Author/Subject present? Tagged? page size?
+pdftotext -f 7 -l 12 output/<slug>-consolidated.pdf -   # how long is the TOC, and at what depth?
+pdffonts output/<slug>-consolidated.pdf         # every row emb/sub/uni = yes (columns are not positional)
+pdftoppm -f <n> -l <n> -r 110 -png output/<slug>-consolidated.pdf /tmp/pg   # then actually look
+```
+
+`references/gotchas.md` has the fix for each of those, plus why tagged
+PDF is out of reach on XeLaTeX.
+
 Currently buildable (17 books, all using the `-consolidated.sh` /
 `templates/pdf/<slug>.latex` pattern this driver assumes):
 `1-peter`, `1-timothy`, `2-peter`, `2-timothy`, `acts`, `gospel`

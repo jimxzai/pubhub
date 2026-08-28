@@ -392,6 +392,112 @@ scripts/lint-templates.sh [template-name ...]
   output/<book>.pdf -` on the specific page number you expect is
   unambiguous.
 
+- **`--toc-depth=1` on the pandoc command line does NOT control
+  `\tableofcontents`; only the LaTeX counter does.** A template missing
+  `\setcounter{tocdepth}{0}` emits a contents list itemised down to
+  sub-subsection, and the build script's `--toc-depth=1` / `-V tocdepth=0`
+  look like they have it covered while doing nothing. Measured on Isaiah:
+  **33 pages of contents (pages 7-39, 8% of the volume)**, carrying entries
+  like `30.8.2 詩篇 121:1-2`. Setting the counter cut it to 2 pages and the
+  book from 413 to 381. Pair it with `\setcounter{secnumdepth}{0}`, or body
+  headings and running heads print as `33.7.2 改革宗時期` — technical-manual
+  numbering in a devotional book. Both counters belong in the template:
+  ```latex
+  \setcounter{secnumdepth}{0}
+  \setcounter{tocdepth}{0}
+  ```
+  Silent: exit 0, no warning. The only way to catch it is to look at the
+  contents pages, or `pdftotext` them and count.
+
+- **Front matter and part-divider pages consume `\chapter` numbers, so the
+  book's own 第一章 comes out numbered something else.** With preface,
+  three orientation chapters and six volume dividers ahead of it, Isaiah's
+  第一章 was LaTeX chapter 8 and the contents read `8  第一章 · 悖逆的兒女`
+  — two contradicting numbers on one line. Fix: mark every non-body H1
+  `{.unnumbered}` so the study units number 1..N in step with their own
+  titles. In a build script, append it to the first `# ` line of each
+  front/back-matter file:
+  ```bash
+  | awk 'BEGIN{d=0} /^# /{ if(!d){ sub(/[[:space:]]*$/,""); $0=$0" {.unnumbered}"; d=1 } } {print}'
+  ```
+  See `add_front()` in `build-gospel-of-luke-consolidated.sh` and
+  `build-isaiah-consolidated.sh`.
+
+- **`hypersetup` without `pdftitle`/`pdfauthor` means the PDF has no
+  document properties at all**, and hyperref alone never writes an XMP
+  packet. `pdfinfo` reported no Title, Author or Subject for Isaiah while
+  the book was otherwise finished — the file shows as its bare filename in
+  a reader's title bar, a library catalogue, or any DMS that indexes PDF
+  metadata. Set the keys, add `pdflang` (screen readers and hyphenation),
+  and load `hyperxmp` **after** hyperref for the XMP stream that modern
+  cataloguing and preflight tools actually read:
+  ```latex
+  \usepackage{hyperxmp}
+  \hypersetup{pdftitle={…}, pdfauthor={…}, pdfsubject={…},
+              pdfkeywords={…}, pdflang={zh-Hant}}
+  ```
+  Note hyperxmp moves the author into XMP `dc:creator`; `pdfinfo` may then
+  show no `Author:` line even though the metadata is correct — check the
+  XMP packet, not just `pdfinfo`.
+
+- **Under `openright`, fancyhdr prints a page number on the blank versos
+  that `\cleardoublepage` inserts** — the one thing a blank leaf must not
+  carry. Isaiah shipped 28 such pages each bearing a lone folio. Patch the
+  macro so the inserted page is genuinely empty:
+  ```latex
+  \makeatletter
+  \def\cleardoublepage{\clearpage\if@twoside
+    \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+  \makeatother
+  ```
+  Detect it by counting pages whose extracted text is 1-39 characters: a
+  truly blank leaf yields 0, a folio-bearing one yields ~3.
+
+- **`book` class puts "Chapter N." in the verso running head** — an English
+  word in a Chinese book, and redundant when the title already opens with
+  「第二章」. The head read `Chapter 2. 第二章 · 末後的日子…`. Fix:
+  ```latex
+  \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+  ```
+
+- **Don't read `pdffonts` columns positionally — `CID TrueType` is two
+  words.** An `awk '{if($5!="yes")…}'` embedded-font check lands on the
+  wrong field and reports a false failure (it claimed 1 of 18 fonts
+  unembedded on a file where all 18 were `yes yes yes`). Match on the
+  emb/sub/uni columns themselves, or just eyeball the table.
+
+- **Tagged / PDF-UA output is not achievable with XeLaTeX, and the
+  LuaLaTeX migration is a re-typesetting project — don't rediscover this.**
+  `tagpdf` refuses xetex outright (it warns "engine/output mode xetex
+  doesn't support…" and the run dies on undefined control sequences).
+  LuaLaTeX *does* produce `Tagged: yes` on a full book, with
+  `\DocumentMetadata{lang=…,pdfversion=2.0,testphase={phase-III,math}}` as
+  the very first line before `\documentclass`. But this repo's templates
+  carry three XeTeX-only dependencies:
+  1. **`\XeTeXlinebreaklocale "zh"` is undefined in LuaLaTeX.** Without a
+     replacement a Chinese paragraph becomes one unbreakable line —
+     measured at **849pt overfull**. `\usepackage{babel}` +
+     `\babelprovide[import=zh-Hant]{chinese}` restores breaking and is much
+     lighter than luatexja.
+  2. **`ucharclasses` hard-fails** ("XeTeX is required to compile this
+     document"). Hebrew/Greek must instead be wrapped explicitly — Isaiah
+     needed 320 Hebrew and 5 Greek runs in the markdown **plus 11 more
+     inside the template itself** (cover and glossary appendix). Missing
+     the template ones inflates missing-glyph warnings from 219 to 1799.
+  3. **luaotfload can't see Apple's MobileAsset fonts** (Kaiti SC, PingFang
+     SC resolve under XeTeX but not here). Point `OSFONTDIR` at the
+     directories `fc-list` reports and re-run `luaotfload-tool --update`;
+     never hardcode the hashed `/System/Library/AssetsV2/…` path, it
+     changes with OS updates.
+  Even with all three solved the result was **219 missing glyphs** (babel
+  emits U+2000 for CJK spacing, which Songti SC lacks; `newunicodechar`
+  can't catch it because babel inserts it at node level, so it needs a
+  luaotfload fallback) and **60 overfull boxes**, against 0 and 0 under
+  XeLaTeX — and it forfeits the ucharclasses-based italic fix above.
+  **Decision on record (2026-08): these books stay on XeLaTeX.** PDF/UA
+  matters for commercial or EU-regulated distribution; revisit only if a
+  book actually goes to public release.
+
 ## Troubleshooting
 
 | Symptom | Cause | Fix |

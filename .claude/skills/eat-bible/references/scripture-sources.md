@@ -25,6 +25,41 @@ Version codes confirmed genuinely available: `CUV` (和合本), `ESV`,
 is NOT confirmed as a distinct dataset on this site** — see caution
 below.
 
+**Get the book slug right before concluding the site is down.** The slug is
+the full English book name, not the common abbreviation: `isaiah`, **not**
+`isa`. A wrong slug 404s, which reads exactly like "ai-eden is unreachable"
+and sends agents to the fallback chain for no reason. In the Isaiah build
+this cost **15 of 26 chapters** an unnecessary fallback, and the wrong
+conclusion ("ai-eden is JS-rendered and can't be fetched") then propagated
+into a dozen citation lines that had to be redone. Try the full name, and
+retry once, before falling back.
+
+**Ask for a diff, not for the text.** The reliable verification method is to
+**paste the manuscript's verses into the prompt and ask for differences
+only**, verse by verse:
+
+> Compare this manuscript CUV text against the page's CUV and report ONLY
+> character-level differences per verse; say "match" if identical.
+
+Asking WebFetch to *reproduce* a passage fails two ways: requesting ESV text
+can trip a copyright refusal, and when the fetcher does answer it silently
+normalises verse-final punctuation and truncates long verses — which then
+reads as a discrepancy that isn't one, and invites "corrections" that damage
+correct text.
+
+**ai-eden's own CUV has occasional artifacts.** Confirmed in Isaiah 60 and
+63: wrong characters and a dropped clause, where the book was already right.
+Cross-check against `cnbible.com` before "correcting" a manuscript to match
+it; prefer the reading attested by both the second source and the book's own
+internal usage.
+
+**和合本 is not internally consistent, so never blanket-convert a character.**
+The 做/作 pair is the trap: CUV genuinely uses 作 at Isa 1:1, 1:23, 2:6, 3:4,
+22:21, 60:19-20, 63:8 and genuinely uses 做 at 2:8 and 5:4. Two agents in one
+session reached opposite blanket conclusions — one "corrected" 做→作
+everywhere, another declared the book's base text was CUVMP and left them all
+— and both were wrong in different directions. Verify per verse.
+
 **Known quirks, verified this session:**
 
 - The page is JS-rendered (Next.js/Turbopack). `WebFetch` sometimes
