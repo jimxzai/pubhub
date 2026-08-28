@@ -10,12 +10,49 @@
 %% ============================================
 \usepackage{fontspec}
 
+% BoldFont deliberately points at the SAME regular font file with
+% synthetic FakeBold, not a separate real bold face ("Songti SC Bold"):
+% a real bold face missing/mismatching glyphs for full-width punctuation
+% (：。) silently weakens or fully flattens \textbf for any CJK bold span
+% containing one — with zero warnings, zero errors (documented, confirmed
+% pattern in this codebase's 1-peter.latex/romans.latex; see the
+% eat-bible skill's Gotchas). FakeBold guarantees identical glyph
+% coverage between regular and "bold" so this class of silent fallback
+% can't trigger.
 \setmainfont{Songti SC}[
-  BoldFont=Songti SC Bold,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
 \setsansfont{PingFang SC}
-\setmonofont{Menlo}
+\setmonofont{Songti SC}
+
+%% Greek and Hebrew font support. NOT ucharclasses: its automatic
+%% per-character script hooking silently strips \textbf bold from
+%% Scripture quotes the moment ANY other package that hooks font/box
+%% machinery is also loaded (hyperref, eso-pic, pgfornament each
+%% independently trigger it — root-caused via xelatex repro; this isn't
+%% one bad package, ucharclasses itself is fragile once the document
+%% has any real complexity, and hyperref cannot be dropped). Instead the
+%% build script wraps actual Greek/Hebrew Unicode runs in the source
+%% with these font-switch commands explicitly (see wrap_greek_hebrew()
+%% in scripts/build-2-peter-consolidated.sh) — manual, but immune to the
+%% conflict since it never touches a \textbf span (CUV Scripture quotes
+%% never contain embedded Greek/Hebrew characters).
+% NOTE: deliberately no [Script=Greek]/[Script=Hebrew] feature tag — with
+% ~90 manual \greekfont invocations across the book (see wrap_greek_hebrew
+% below), that OpenType script-shaping tag causes progressive font-state
+% corruption (confirmed via stress test: 100 invocations WITH the tag broke
+% down into 1400+ missing-glyph errors and stuck-font pages; the identical
+% test with the tag removed rendered all 100 correctly). Times New Roman
+% renders Greek/Hebrew correctly without it.
+% Same FakeBold pattern applied here too: "Times New Roman Bold" is a
+% real separate font file and is exactly the shape of vulnerability the
+% eat-bible skill's Gotchas warn against — apply to EVERY \newfontfamily
+% ucharclasses/manual wrapping can switch into mid-run, not just the
+% main font.
+\newfontfamily\greekfont{Times New Roman}[BoldFont=Times New Roman, BoldFeatures={FakeBold=2.2}, ItalicFont=Times New Roman Italic]
+\newfontfamily\hebrewfont{Arial Hebrew}
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -102,6 +139,79 @@
 }
 
 %% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+% NOTE: deliberately NOT \usepackage{eso-pic} or \usepackage{pgfornament}.
+% Either one, merely loaded alongside ucharclasses (regardless of whether
+% its own commands are used), silently strips \textbf bold from every
+% Scripture quote in the main body (root-caused via xelatex repro — the
+% interaction is with ucharclasses' Han-transition hooks, not with how
+% these packages are invoked). Plain \tikzpicture[remember picture,overlay]
+% called inline achieves the same full-bleed effect without the conflict:
+% "overlay" makes the picture consume zero space in the surrounding flow,
+% so \CoverBackground/\CoverBorder below can simply be called directly
+% inside the cover page content instead of via a shipout hook.
+
+% Deep-purple gradient for the full-bleed cover background, echoing the
+% book's ChapterPurple identity rather than a generic navy.
+\definecolor{CoverPurpleDeep}{RGB}{30,17,46}
+\definecolor{CoverPurpleLight}{RGB}{72,45,104}
+\newcommand{\CoverBackground}{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[shading angle=115, left color=CoverPurpleDeep, right color=CoverPurpleLight]
+        (current page.south west) rectangle (current page.north east);
+    \end{tikzpicture}%
+}
+
+% Classical book-plate border: two inset hairlines plus a corner ornament,
+% painted using the page's own bounding box.
+\newcommand{\CoverBorder}{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \foreach \c/\dx/\dy in {south west/0.55in/0.55in, south east/-0.55in/0.55in, north east/-0.55in/-0.55in, north west/0.55in/-0.55in} {
+        \begin{scope}[shift={($$(current page.\c)+(\dx,\dy)$$)}]
+          \draw[color=ScriptureGold,line width=0.9pt,line cap=round] (0,-0.09) -- (0,0.09);
+          \draw[color=ScriptureGold,line width=0.9pt,line cap=round] (-0.09,0) -- (0.09,0);
+          \draw[color=ScriptureGold,line width=0.6pt,line cap=round] (-0.06,-0.06) -- (0.06,0.06);
+          \draw[color=ScriptureGold,line width=0.6pt,line cap=round] (-0.06,0.06) -- (0.06,-0.06);
+        \end{scope}
+      }
+    \end{tikzpicture}%
+}
+
+% A small printer's fleuron (hand-drawn compass-star, matching the corner
+% ornament's language), reused across the full-bleed cover pages.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+\begin{tikzpicture}[baseline=-0.5ex,scale=0.09,line cap=round]
+  \draw[color=#1,line width=1.2pt] (0,-1) -- (0,1);
+  \draw[color=#1,line width=1.2pt] (-1,0) -- (1,0);
+  \draw[color=#1,line width=0.7pt] (-0.7,-0.7) -- (0.7,0.7);
+  \draw[color=#1,line width=0.7pt] (-0.7,0.7) -- (0.7,-0.7);
+  \fill[color=#1] (0,0) circle (0.22);
+\end{tikzpicture}%
+}
+
+% Morning-star symbol — echoes 2 Peter 1:19 "the morning star rises in
+% your hearts" (φωσφόρος), this book's own distinctive image, the way
+% the sibling volume marks its cover with a cornerstone gem for 1 Peter.
+\newcommand{\morningstarsymbol}{%
+\begin{tikzpicture}[scale=0.32,line cap=round]
+  \foreach \ang in {0,45,90,135} {
+    \draw[color=ScriptureGold,line width=1.1pt] (\ang:1.15) -- (\ang+180:1.15);
+  }
+  \draw[color=ScriptureGold,line width=0.7pt] (0,0) circle (0.16);
+\end{tikzpicture}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{240,236,230}
+\definecolor{CoverGoldBright}{RGB}{214,168,90}
+\definecolor{CoverMuted}{RGB}{188,178,196}
+
+%% ============================================
 %% HYPERLINKS
 %% ============================================
 \usepackage{hyperref}
@@ -110,7 +220,11 @@
   linkcolor=ChapterPurple,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={彼得後書研讀},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={2 Peter Deep Study},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -136,6 +250,10 @@
 \@ifundefined{c@none}{\newcounter{none}}{}
 \makeatother
 
+% Word-study tables mix Greek + CJK in narrow columns; set them \small so
+% long unbreakable strings (e.g. transliterations) stay inside the measure.
+\AtBeginEnvironment{longtable}{\small}
+
 % Style table rules
 \renewcommand{\toprule}{\hline\hline}
 \renewcommand{\midrule}{\hline}
@@ -158,9 +276,25 @@
   \renewcommand{\headrulewidth}{0pt}
 }
 
+% Plain \cleardoublepage never sets \thispagestyle{empty} on the blank
+% verso page it inserts to reach an odd page — it inherits whatever
+% pagestyle (fancy) was already active, leaking a running header/rule
+% onto an otherwise-blank page. Use this instead of \cleardoublepage
+% at any section boundary where \pagestyle{fancy} is already active.
+\newcommand{\ClearDoublePageEmpty}{%
+  \clearpage
+  \ifodd\value{page}\else
+    \hbox{}
+    \thispagestyle{empty}
+    \newpage
+  \fi
+}
+
 %% ============================================
 %% SECTION STYLING (manual, without titlesec)
 %% ============================================
+% Number chapters only: no numbered subsections in body or running heads
+\setcounter{secnumdepth}{0}
 \makeatletter
 % Chapter styling
 \def\@makechapterhead#1{%
@@ -187,6 +321,20 @@
     {\color{ChapterPurple}\hrule height 1.5pt}
     \vskip 15pt
   }}
+% book.cls's own \@schapter (what \chapter* expands to — every pandoc
+% {.unnumbered} heading, i.e. every front/back-matter section in this
+% book) never calls \markboth, unlike numbered \chapter. Left
+% unpatched, the running header on every unnumbered section's pages
+% silently keeps showing the LAST NUMBERED chapter's title (confirmed:
+% appendix/afterword pages rendered "Chapter 3. 主的日子" in their
+% header). Re-add the \markboth call book.cls's numbered \@chapter has.
+\def\@schapter#1{\if@twocolumn
+                   \@topnewpage[\@makeschapterhead{#1}]%
+                 \else
+                   \@makeschapterhead{#1}%
+                   \@afterheading
+                 \fi
+                 \markboth{#1}{#1}}
 
 % Section styling
 \renewcommand\section{\@startsection {section}{1}{\z@}%
@@ -206,19 +354,25 @@
 %% ============================================
 %% BLOCKQUOTE STYLING - extra room for CJK text
 %% ============================================
+% NOT \list/\item, and NO explicit \par inside the group: at this
+% document's real scale (~35 Scripture quote blocks), EITHER one silently
+% strips \textbf bold starting partway through the book (confirmed via a
+% battery of xelatex stress tests: 60 repetitions of \list+\item+\par
+% failed every variant tried — \renewenvironment vs \newenvironment vs
+% raw \begingroup, "quote" name vs a fresh name — while the identical
+% \fontsize+\color+\textbf content survived 60 repetitions cleanly the
+% moment \par was removed and \list/\item was replaced with a plain
+% \begingroup/\leftskip/\rightskip group). Paragraph breaks between quote
+% blocks still happen correctly from the blank line pandoc already emits
+% between them — \par is not needed here.
 \renewenvironment{quote}{%
-  \par\vspace{0.3\baselineskip}%
-  \list{}{%
-    \leftmargin=0.5em
-    \rightmargin=0.2em
-    \parsep=0pt
-    \itemsep=0pt
-  }%
-  \item\relax
-  \small\color{TextGray}%
+  \vspace{0.3\baselineskip}%
+  \begingroup
+  \leftskip=0.5em \rightskip=0.2em
+  \fontsize{10}{12}\selectfont\color{TextGray}%
 }{%
-  \endlist
-  \par\vspace{0.3\baselineskip}%
+  \endgroup
+  \vspace{0.3\baselineskip}%
 }
 
 %% ============================================
@@ -266,118 +420,80 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
-% Title page
+% Front cover — full-bleed, light-on-dark — the true first page of the book
 \begin{titlepage}
 \thispagestyle{empty}
+\color{CoverCream}
+\CoverBackground
+\CoverBorder
 \begin{center}
-\vspace*{0.5cm}
+\vspace*{1.0cm}
 
-% Decorative cross and line
-\crosssymbol\hspace{0.3cm}{\color{ChapterPurple}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+\morningstarsymbol
 
-\vspace{0.4cm}
+\vspace{0.45cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
 
 % Main title
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterPurple} 真知識}\\[0.2cm]
-{\large\itshape\color{LightGray} True Knowledge}
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 真知識}\\[0.25cm]
+{\large\itshape\color{CoverGoldBright} True Knowledge}
 
-\vspace{0.6cm}
+\vspace{0.7cm}
 
 % Book title
-{\fontsize{22}{28}\selectfont\bfseries 彼得後書研讀}\\[0.15cm]
-{\normalsize A Study of 2 Peter}
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 彼得後書研讀}\\[0.2cm]
+{\itshape\normalsize\color{CoverGoldBright} A Study of the Second Epistle of Peter}
 
-\vspace{0.5cm}
+\vspace{0.8cm}
 
-% Key verse in box
-\fcolorbox{ChapterPurple}{ScriptureBg}{%
-\begin{minipage}{4in}
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.5in}
 \centering
-\vspace{0.3cm}
-\small\itshape\color{CommentaryBrown}
-你們卻要在我們主救主耶穌基督的\\
-恩典和知識上有長進。\\
-願榮耀歸給他，從今直到永遠！阿們。\\[0.15em]
-\footnotesize But grow in the grace and knowledge of our Lord\\
-and Savior Jesus Christ. To him be the glory\\
-both now and to the day of eternity. Amen.\\
-— 2 Peter 3:18
-\vspace{0.3cm}
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+你們卻要在我們主──救主耶穌基督的\\
+恩典和知識上有長進。願榮耀歸給他，\\
+從今直到永遠。阿們！\\[0.2em]
+{\footnotesize\color{CoverCream} But grow in the grace and knowledge of our Lord and Savior\\
+Jesus Christ. To him be the glory both now and to the day\\
+of eternity. Amen.}\\
+{\footnotesize\color{CoverCream} — 彼得後書 3:18 \textbullet\ 2 Peter 3:18}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\hrule height 0.6pt}
 \end{minipage}
-}
 
-\vspace{0.5cm}
+\vspace{0.75cm}
 
-% Structure diagram
-\begin{tikzpicture}[scale=0.65]
-  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,3) {Book Structure 書卷結構};
-
-  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=0.7cm,font=\tiny,align=center] at (-2.5,1.8) {True Knowledge\\真知識};
-  \node[font=\tiny,color=LightGray] at (-2.5,1.2) {Ch. 1};
-
-  \node[draw=WarningRed,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=0.7cm,font=\tiny,align=center] at (0,1.8) {False Teachers\\假教師};
-  \node[font=\tiny,color=LightGray] at (0,1.2) {Ch. 2};
-
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2.5cm,minimum height=0.7cm,font=\tiny,align=center] at (2.5,1.8) {Day of the Lord\\主的日子};
-  \node[font=\tiny,color=LightGray] at (2.5,1.2) {Ch. 3};
-
-  \draw[->,color=ChapterPurple,thick] (-1.2,1.8) -- (-1,1.8);
-  \draw[->,color=WarningRed,thick] (1,1.8) -- (1.2,1.8);
-\end{tikzpicture}
-
-\vspace{0.3cm}
-
-% Virtue Ladder diagram
-\begin{tikzpicture}[scale=0.5]
-  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,5.5) {美德階梯 Virtue Ladder (1:5-7)};
-
-  % Ladder steps
-  \foreach \y/\chi/\eng in {
-    0/信心/Faith,
-    0.7/德行/Virtue,
-    1.4/知識/Knowledge,
-    2.1/節制/Self-control,
-    2.8/忍耐/Steadfastness,
-    3.5/虔敬/Godliness,
-    4.2/愛弟兄/Brotherly Affection,
-    4.9/愛眾人/Love
-  } {
-    \draw[ChapterPurple,line width=0.8pt,fill=ScriptureBg] (-2.5,\y) rectangle (2.5,\y+0.5);
-    \node[font=\tiny,color=ChapterPurple] at (0,\y+0.25) {\chi{} \eng};
-  }
-
-  % Arrows on sides
-  \draw[->,ChapterPurple,line width=1.5pt] (-3,0.25) -- (-3,5.15);
-  \draw[->,ChapterPurple,line width=1.5pt] (3,0.25) -- (3,5.15);
-\end{tikzpicture}
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 成長 = 恩典 + 知識}\\[0.12cm]
+{\itshape\footnotesize\color{CoverCream} "Growth in Grace and Knowledge" (2 Peter 3:18)}
 
 \vfill
 
-% Theme
-{\normalsize\color{ChapterPurple}\bfseries 成長 = 恩典 + 知識}\\[0.1cm]
-{\footnotesize\color{LightGray} Growth = Grace + Knowledge (2 Peter 3:18)}
-
-\vspace{0.5cm}
-
 $if(author)$
-{\normalsize $author$}\\[0.3cm]
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
 $endif$
 
 $if(publisher)$
-{\small $publisher$}\\[0.15cm]
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
 $endif$
 
 $if(date)$
-{\small $date$}
+{\small\color{CoverCream} $date$}
 $else$
-{\small \today}
+{\small\color{CoverCream} \today}
 $endif$
 
-\vspace{0.3cm}
-\crosssymbol\hspace{0.3cm}{\color{ChapterPurple}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
 
 \end{center}
 \end{titlepage}
+\ClearDoublePageEmpty
 
 % False Teachers Warning page
 \thispagestyle{empty}
@@ -395,11 +511,10 @@ $endif$
   % Characteristics in warning boxes
   \foreach \y/\chi/\eng/\ref in {
     3.5/暗中引進異端/Secretly bring heresies/2:1,
-    2.7/不認買他們的主/Deny the Master/2:1,
+    2.7/不認他們的主/Deny the Master/2:1,
     1.9/貪財詭詐/Exploit with false words/2:3,
     1.1/隨從肉體情慾/Follow sensual passions/2:10,
-    0.3/藐視主治者/Despise authority/2:10
-  } {
+    0.3/藐視主治者/Despise authority/2:10} {
     \node[draw=WarningRed,fill=ScriptureBg,rounded corners,minimum width=8cm,minimum height=0.6cm,
           font=\footnotesize,align=center] at (0,\y) {\chi{} | \eng{} (\ref)};
   }
@@ -428,7 +543,7 @@ $endif$
 
   % Conclusion
   \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=6cm,minimum height=0.8cm,
-        font=\footnotesize,align=center] at (0,-1.5) {主知道搭救敬虔的人，把不義的人留在刑罰之下 (2:9)};
+        font=\footnotesize,align=center] at (0,-1.5) {主知道搭救敬虔的人……把不義的人留在刑罰之下 (2:9)};
 \end{tikzpicture}
 
 \vspace{0.8cm}
@@ -461,7 +576,7 @@ $endif$
 
 {\footnotesize\color{LightGray} 「主所應許的尚未成就，有人以為祂是耽延，其實不是耽延，乃是寬容你們。」— 彼後 3:9}
 \end{center}
-\cleardoublepage
+\ClearDoublePageEmpty
 
 % Copyright page
 \thispagestyle{empty}
@@ -477,26 +592,29 @@ $else$
 Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
+2026 年 8 月 · 初版。本版為教會內部贈閱版（非賣品）；公開發行時另行申請 ISBN。\\[0.8em]
+
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
+中文：和合本 (CUV)\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
+\textbullet\ 老弟兄查經方法論之應用（本書無對應之老弟兄彼得後書逐節查經筆記原始記錄，詳見各章誠實說明）\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
-\textbullet\ Michael Green - 2 Peter and Jude (TNTC)\\[0.8em]
+\textbullet\ G. Campbell Morgan - The Living Messages of the Books of the Bible\\[0.8em]
 
 本書為七年三書精讀項目成果之一。\\
 Part of the 7-Year Three Books Deep Reading Project.
 $endif$
 
 \end{flushleft}
-\cleardoublepage
+\ClearDoublePageEmpty
 
-% Table of contents
+% Table of contents — chapters only (subsection entries would run the TOC to 30+ pages)
 \pagestyle{fancy}
+\setcounter{tocdepth}{0}
 {\color{ChapterPurple}\tableofcontents}
-\cleardoublepage
+\ClearDoublePageEmpty
 
 %% --------------------------------------------
 %% MAIN MATTER
@@ -504,5 +622,75 @@ $endif$
 \mainmatter
 
 $body$
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\ClearDoublePageEmpty
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.2cm}
+\begin{center}
+
+{\large\itshape\color{CoverGoldBright} {\greekfont\itshape ἐπίγνωσις}}\\[0.08cm]
+{\itshape\footnotesize\color{CoverMuted} ``True Knowledge'' \textperiodcentered\ 真知識——全書貫穿的鑰字}
+
+\vspace{0.22cm}
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+\vspace{0.22cm}
+
+{\normalsize\bfseries\color{CoverCream} 關於本書}\qquad{\itshape\normalsize\color{CoverGoldBright} About This Book}
+
+\vspace{0.2cm}
+\begin{minipage}{5in}
+\setlength{\parskip}{0.15em}
+\footnotesize\color{CoverCream}
+本書逐章研讀彼得後書三章，整合老弟兄查經方法論、
+John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
+並貫通彼得前書、猶大書與啟示錄。
+全書以彼得後書 3:18 為總綱：
+「你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。
+願榮耀歸給他，從今直到永遠。阿們！」
+
+{\color{CoverCream}A chapter-by-chapter study of all three chapters of 2 Peter, integrating the Thursday Bible class method, John MacArthur's verse-by-verse exposition, and G. Campbell Morgan's spiritual analysis --- framed by 2 Peter 3:18's charge to grow in the grace and knowledge of our Lord and Savior Jesus Christ.}
+\end{minipage}
+
+\vspace{0.22cm}
+
+{\footnotesize\bfseries\color{CoverCream} 三重知識防線}\qquad{\itshape\footnotesize\color{CoverGoldBright} Three Lines of Knowledge}
+
+\vspace{0.15cm}
+\begin{minipage}{4.9in}
+\footnotesize\color{CoverCream}
+\begin{tabular}{@{}cp{3.6in}l@{}}
+① & 知道你的救恩與呼召 \textit{\color{CoverCream}Know your calling and salvation are sure} & {\footnotesize\color{CoverMuted} 1:1-21}\\[0.12em]
+② & 認出假教師 \textit{\color{CoverCream}Recognize false teachers} & {\footnotesize\color{CoverMuted} 2:1-22}\\[0.12em]
+③ & 知道主的日子必要來到 \textit{\color{CoverCream}Know the Day of the Lord will come} & {\footnotesize\color{CoverMuted} 3:1-18}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.22cm}
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+\vspace{0.18cm}
+
+\begin{minipage}{4.3in}
+\centering
+\footnotesize\itshape\color{CoverCream}
+「你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。\\
+願榮耀歸給他，從今直到永遠。阿們！」\\[0.15em]
+{\footnotesize\color{CoverCream} But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.}\\
+{\footnotesize\color{CoverCream} --- 彼得後書 3:18 \textbullet\ 2 Peter 3:18}
+\end{minipage}
+
+\vspace{0.18cm}
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+
+\vspace{0.4cm}
+{\footnotesize\color{CoverMuted} \S\ 彼得後書研讀 \textperiodcentered\ 初版 \S\ 2026 \S}
+\end{center}
 
 \end{document}
