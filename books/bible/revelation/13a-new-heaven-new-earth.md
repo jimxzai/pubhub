@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 21:1-8
 
-**經文核對**：[ai-eden.com/bible/revelation/21](https://www.ai-eden.com/bible/revelation/21?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/21](https://www.ai-eden.com/bible/revelation/21?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 審判的火湖過去之後，約翰的異象忽然轉入全書最溫柔的一幕。沒有審判的威嚴，只有一位新郎迎接新娘的喜悅：「聖城新耶路撒冷由神那裡從天而降，預備好了，就如新婦妝飾整齊，等候丈夫。」創世記三章咒詛臨到之後失落的一切——與神同住、無死無淚、萬物更新——在這八節經文裡被一一贖回。而說話的那一位，正是坐在寶座上的那位：「我是阿拉法，我是俄梅戛；我是初，我是終」——這稱號正是1:8、1:17基督自我啟示的稱號，如今由祂親口宣告更新萬有的工作已經「都成了」（21:6）。從十字架上的「成了」（約19:30）到這裡萬有更新的「都成了」，和合本用的是同一句中文譯語，是同一位主、同一份救贖工作的兩個高峰。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Jerusalem, My Happy Home**
+> *Attr. Joseph Bromehead, 1795 (from a 16th-c. text)*
+>
+> Jerusalem, my happy home,
+> When shall I come to thee?
+> When shall my sorrows have an end?
+> Thy joys when shall I see?
+>
+> 耶路撒冷，我快樂的家，
+> 我何時能到你那裡？
+> 我的憂傷何時了結？
+> 何時得見你的喜樂？
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +44,11 @@ publisher: 三書精讀出版系統
 
 > ^5^坐寶座的說：\jesus{「看哪，我將一切都更新了！」}又說：\jesus{「你要寫上；因這些話是可信的，是真實的。」}^6^他又對我說：\jesus{「都成了！我是阿拉法，我是俄梅戛；我是初，我是終。我要將生命泉的水白白賜給那口渴的人喝。^7^得勝的，必承受這些為業：我要作他的神，他要作我的兒子。^8^惟有膽怯的、不信的、可憎的、殺人的、淫亂的、行邪術的、拜偶像的，和一切說謊話的，他們的分就在燒著硫磺的火湖裡；這是第二次的死。」}
 
-### English — ESV
+### English — NASB
 
-> ^1^Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. ^2^And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. ^3^And I heard a loud voice from the throne saying, "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. ^4^He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away."
+> ^1^Then I saw a new heaven and a new earth; for the first heaven and the first earth passed away, and there is no longer *any* sea. ^2^And I saw the holy city, new Jerusalem, coming down out of heaven from God, made ready as a bride adorned for her husband. ^3^And I heard a loud voice from the throne, saying, 'Behold, the tabernacle of God is among men, and He will dwell among them, and they shall be His people, and God Himself will be among them, ^4^and He will wipe away every tear from their eyes; and there will no longer be *any* death; there will no longer be *any* mourning, or crying, or pain; the first things have passed away.'
 
-> ^5^And he who was seated on the throne said, \jesus{"Behold, I am making all things new."} Also he said, \jesus{"Write this down, for these words are trustworthy and true."} ^6^And he said to me, \jesus{"It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment. ^7^The one who conquers will have this heritage, and I will be his God and he will be my son. ^8^But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death."}
+> ^5^And He who sits on the throne said, \jesus{'Behold, I am making all things new.'} And He said, \jesus{'Write, for these words are faithful and true.'} ^6^Then He said to me, \jesus{'It is done. I am the Alpha and the Omega, the beginning and the end. I will give to the one who thirsts from the spring of the water of life without cost. ^7^'He who overcomes will inherit these things, and I will be his God and he will be My son. ^8^'But for the cowardly and unbelieving and abominable and murderers and immoral persons and sorcerers and idolaters and all liars, their part *will be* in the lake that burns with fire and brimstone, which is the second death.'}
 
 ---
 
@@ -49,7 +67,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | καινός | kainos | 新（性質上的新，非時間上的新） | 與*neos*（時間新）不同，*kainos*強調本質的更新，非另造一個 |
 | σκηνή | skēnē | 帳幕 | 呼應約1:14「道成了肉身，住（*skēnoō*）在我們中間」與出埃及記會幕，顯明神與人同住的主題貫穿全本聖經 |
 | ἐξαλείφω | exaleiphō | 擦去 | 溫柔而徹底的動作，21:4「擦去他們一切的眼淚」 |
@@ -63,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 創世記的失落，在此全部贖回 (Everything Lost in Genesis Is Redeemed Here)
 
@@ -87,6 +105,17 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 30:5
+
+> ^5^因為，他的怒氣不過是轉眼之間；他的恩典乃是一生之久。一宿雖然有哭泣，早晨便必歡呼。
+
+「一宿雖然有哭泣，早晨便必歡呼」——21:4「神要擦去他們一切的眼淚」是這句應許的終極清晨：不再是哭一宿、歡呼一晨的循環，而是眼淚本身成為歷史。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -106,7 +135,7 @@ publisher: 三書精讀出版系統
 
 > — Augustine, *City of God*, Book XXII, Ch. 30
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
@@ -130,7 +159,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Face to Face with Christ, My Savior
+
+*Carrie E. Breck, 1898*
+
+> Face to face with Christ, my Savior,
+> Face to face—what will it be,
+> When with rapture I behold Him,
+> Jesus Christ who died for me?
+
+「神的帳幕在人間。他要與人同住」(21:3)——這句話是整本聖經的心願：伊甸園裡神與人同行、會幕與聖殿的居中、道成肉身的「住在我們中間」，到此全部歸位。默想：新天新地最大的更新不是街道與城牆，是「神要親自與他們同在」。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**「不再有海」與一連串的「不再有」**：麥克阿瑟數算 21 章的否定句——不再有海、不再有死亡、不再有悲哀哭號疼痛、先前的事都過去了。新創造的榮耀先用減法寫成：把咒詛帶進來的每一項，逐一清空。
+
+**帳幕的應許走到終點**：21:3「神的帳幕在人間」——從伊甸同行、會幕居中、道成肉身「支搭帳幕」在我們中間（約1:14），到此「神要親自與他們同在」。他讀作全本聖經的目的句：救贖的終點不是天堂的風景，是神自己。
+
+**得勝的與膽怯的**：21:7-8 的對照他從不軟化：承受這一切為業的是「得勝的」，名單另一頭排第一的竟是「膽怯的」——在逼迫的世代，不敢認主的軟弱不是小事；而 21:6 白白賜生命水的應許，正是給每一個此刻仍可回轉的人。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：帳幕與眼淚 (Ask Elder Wong)
 
@@ -166,7 +221,7 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇 126:5-6
 
-> 流淚撒種的，必歡呼收割。那帶種流淚出去的，必要歡呼收割禾捆回來。
+> 流淚撒種的，必歡呼收割！那帶種流淚出去的，必要歡歡樂樂地帶禾捆回來！
 
 大衛時代的朝聖詩歌，早已預表了眼淚終必轉為歡呼的盼望——21:4「擦去眼淚」正是這應許最終極、永恆的成就。
 

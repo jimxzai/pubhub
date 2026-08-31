@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 11:1-14
 
-**經文核對**：[ai-eden.com/bible/revelation/11](https://www.ai-eden.com/bible/revelation/11?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/11](https://www.ai-eden.com/bible/revelation/11?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 兩個見證人的故事，是啟示錄中最戲劇化的一幕：他們傳道、受逼迫、被殺、暴屍街頭、又復活升天——整個過程濃縮了教會歷史的完整弧線。但焦點不在這兩位見證人本身，而在他們所見證的那一位。他們「穿著毛衣」傳道，正如以利亞與施洗約翰的裝束；他們的死而復活，正是主自己死而復活的縮影；他們升天時「駕著雲」，正呼應主耶穌自己「駕雲降臨」的應許（1:7）。這段經文告訴我們：教會的見證之所以有能力、之所以最終得勝，不是因為見證人本身有多剛強，而是因為他們所指向、所效法的那一位，早已親自走過死亡又得勝死亡的道路。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The Son of God Goes Forth to War**
+> *Reginald Heber, 1812*
+>
+> The Son of God goes forth to war,
+> A kingly crown to gain;
+> His blood-red banner streams afar:
+> Who follows in His train?
+>
+> 神的兒子出去爭戰，
+> 為要得著君王的冠冕；
+> 祂血染的旌旗遠揚：
+> 誰願跟隨祂的行列？
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -30,15 +48,15 @@ publisher: 三書精讀出版系統
 
 > ^11^過了這三天半，有生氣從神那裡進入他們裡面，他們就站起來；看見他們的人甚是害怕。^12^兩位先知聽見有大聲音從天上來，對他們說：「上到這裡來。」他們就駕著雲上了天，他們的仇敵也看見了。^13^正在那時候，地大震動，城就倒塌了十分之一，因地震而死的有七千人；其餘的都恐懼，歸榮耀給天上的神。^14^第二樣災禍過去，第三樣災禍快到了。
 
-### English — ESV
+### English — NASB
 
-> ^1^Then I was given a measuring rod like a staff, and I was told, "Rise and measure the temple of God and the altar and those who worship there, ^2^but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty-two months. ^3^And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth." ^4^These are the two olive trees and the two lampstands that stand before the Lord of the earth.
+> ^1^Then there was given me a measuring rod like a staff; and someone said, 'Get up and measure the temple of God and the altar, and those who worship in it. ^2^'Leave out the court which is outside the temple and do not measure it, for it has been given to the nations; and they will tread under foot the holy city for forty-two months. ^3^'And I will grant *authority* to my two witnesses, and they will prophesy for twelve hundred and sixty days, clothed in sackcloth.' ^4^These are the two olive trees and the two lampstands that stand before the Lord of the earth.
 
-> ^5^And if anyone would harm them, fire pours from their mouth and consumes their foes. If anyone would harm them, this is how he is doomed to be killed. ^6^They have the power to shut the sky, that no rain may fall during the days of their prophesying, and they have power over the waters to turn them into blood and to strike the earth with every kind of plague, as often as they desire.
+> ^5^And if anyone wants to harm them, fire flows out of their mouth and devours their enemies; so if anyone wants to harm them, he must be killed in this way. ^6^These have the power to shut up the sky, so that rain will not fall during the days of their prophesying; and they have power over the waters to turn them into blood, and to strike the earth with every plague, as often as they desire.
 
-> ^7^And when they have finished their testimony, the beast that rises from the bottomless pit will make war on them and conquer them and kill them, ^8^and their dead bodies will lie in the street of the great city that symbolically is called Sodom and Egypt, where their Lord was crucified. ^9^For three and a half days some from the peoples and tribes and languages and nations will gaze at their dead bodies and refuse to let them be placed in a tomb, ^10^and those who dwell on the earth will rejoice over them and make merry and exchange presents, because these two prophets had been a torment to those who dwell on the earth.
+> ^7^When they have finished their testimony, the beast that comes up out of the abyss will make war with them, and overcome them and kill them. ^8^And their dead bodies *will lie* in the street of the great city which mystically is called Sodom and Egypt, where also their Lord was crucified. ^9^Those from the peoples and tribes and tongues and nations *will* look at their dead bodies for three and a half days, and will not permit their dead bodies to be laid in a tomb. ^10^And those who dwell on the earth *will* rejoice over them and celebrate; and they will send gifts to one another, because these two prophets tormented those who dwell on the earth.
 
-> ^11^But after the three and a half days a breath of life from God entered them, and they stood up on their feet, and great fear fell on those who saw them. ^12^Then they heard a loud voice from heaven saying to them, "Come up here!" And they went up to heaven in a cloud, and their enemies watched them. ^13^And at that hour there was a great earthquake, and a tenth of the city fell. Seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven. ^14^The second woe has passed; behold, the third woe is soon to come.
+> ^11^But after the three and a half days, the breath of life from God came into them, and they stood on their feet; and great fear fell upon those who were watching them. ^12^And they heard a loud voice from heaven saying to them, 'Come up here.' Then they went up into heaven in the cloud, and their enemies watched them. ^13^And in that hour there was a great earthquake, and a tenth of the city fell; seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven. ^14^The second woe is past; behold, the third woe is coming quickly.
 
 ---
 
@@ -57,7 +75,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | μάρτυς | martys | 見證人 | 英文martyr（殉道者）的字源，說明在啟示錄的世界裡，「見證」與「殉道」幾乎是同義詞 |
 | σάκκος | sakkos | 毛衣、麻衣 | 舊約先知悔改宣告時的裝束（如以利亞），象徵嚴肅的呼籲悔改 |
 | θηρίον | thērion | 獸 | 首次出現在此，從無底坑上來，第13章將完整展開這獸的身分與作為 |
@@ -71,7 +89,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 見證的本質是效法基督的死而復活 (Witness Means Following the Pattern of Death and Resurrection)
 
@@ -91,6 +109,18 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 79:9-10
+
+> ^9^拯救我們的神啊，求你因你名的榮耀幫助我們！為你名的緣故搭救我們，赦免我們的罪。
+> ^10^為何容外邦人說他們的神在哪裡呢？願你使外邦人知道你在我們眼前伸你僕人流血的冤。
+
+「願你使外邦人知道你在我們眼前伸你僕人流血的冤」——兩個見證人的屍首陳列在街上，地上的人歡喜快樂彼此餽送禮物；三天半之後，神就伸了這個冤。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -98,7 +128,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐將兩個見證人與以利亞、以諾的傳統聯繫起來，認為他們代表神在末後日子差來、公開對抗敵基督勢力的先知性見證，其死而復活的模式，正是要向普世顯明：即使敵基督看似得勝，神的見證終必復活得勝。
 
@@ -110,7 +140,7 @@ publisher: 三書精讀出版系統
 
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 11
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
@@ -134,7 +164,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Who Is on the Lord's Side?
+
+*Frances Ridley Havergal, 1877*
+
+> Who is on the Lord's side?
+> Who will serve the King?
+> Who will be His helpers,
+> Other lives to bring?
+
+兩個見證人被殺、被辱、然後被召「上到這裡來」——與約翰在 4:1 聽見的是同一句話。默想：主給祂見證人的保守不是不死，是死後仍要站起來。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**兩個真實的人物**：麥克阿瑟把兩個見證人讀作兩位實際的先知人物，而非純粹的象徵：他們的神蹟——叫天閉塞不下雨、叫水變血——刻意重現以利亞與摩西的權能，是舊約先知職分在末期的最後一班崗。
+
+**不能被殺，直到見證完畢**：11:5-7 的次序是他反覆強調的：見證人盡職期間刀槍不入，「作完見證的時候」獸才「得勝」——神僕人的性命長度由使命決定，不由仇敵決定。
+
+**世界為先知之死互送禮物**：11:10 是聖經中唯一一處「普天同慶」式的歡樂場面，慶祝的竟是真理之聲的沉默。他指出這是對人性最冷的一筆素描——而三天半後的復活與被提，把這場慶祝變成極大的懼怕。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：兩個見證人 (Ask Elder Wong)
 

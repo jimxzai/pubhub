@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 6:1-17
 
-**經文核對**：[ai-eden.com/bible/revelation/6](https://www.ai-eden.com/bible/revelation/6?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/6](https://www.ai-eden.com/bible/revelation/6?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 第五章的敬拜還在耳畔迴盪——「你配拿書卷，配揭開七印」——第六章立刻讓我們看見這配得的羔羊親自動手。四匹馬依序奔出，不是脫離掌控的災難，而是羔羊一印一印親手揭開的歷史進程。這正是啟示錄最容易被誤解、卻最需要被領受的一點：審判不是脫離基督掌權的失控局面，審判本身就是基督掌權的具體彰顯。第五印下殉道者的呼喊、第六印下天地的震動，都在同一位揭卷者手中依序展開。羔羊不是被歷史推著走的旁觀者，祂是歷史的執筆者。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **God Moves in a Mysterious Way**
+> *William Cowper, 1774*
+>
+> God moves in a mysterious way
+> His wonders to perform;
+> He plants His footsteps in the sea,
+> And rides upon the storm.
+>
+> 神以奧祕莫測的方式
+> 成就祂的奇妙作為；
+> 祂在海中留下腳蹤，
+> 乘駕風暴而行。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -34,19 +52,19 @@ publisher: 三書精讀出版系統
 
 > ^12^揭開第六印的時候，我又看見地大震動，日頭變黑像毛布，滿月變紅像血，^13^天上的星辰墜落於地，如同無花果樹被大風搖動，落下未熟的果子一樣。^14^天就挪移，好像書卷被捲起來；山嶺海島都被挪移離開本位。^15^地上的君王、臣宰、將軍、富戶、壯士，和一切為奴的、自主的，都藏在山洞和巖石穴裡，^16^向山和巖石說：「倒在我們身上罷！把我們藏起來，躲避坐寶座者的面目和羔羊的忿怒；^17^因為他們忿怒的大日到了，誰能站得住呢？」
 
-### English — ESV
+### English — NASB
 
-> ^1^Now I watched when the Lamb opened one of the seven seals, and I heard one of the four living creatures say with a voice like thunder, "Come!" ^2^And I looked, and behold, a white horse! And its rider had a bow, and a crown was given to him, and he came out conquering, and to conquer.
+> ^1^Then I saw when the Lamb broke one of the seven seals, and I heard one of the four living creatures saying as with a voice of thunder, 'Come.' ^2^I looked, and behold, a white horse, and he who sat on it had a bow; and a crown was given to him, and he went out conquering and to conquer.
 
-> ^3^When he opened the second seal, I heard the second living creature say, "Come!" ^4^And out came another horse, bright red. Its rider was permitted to take peace from the earth, so that people should slay one another, and he was given a great sword.
+> ^3^When He broke the second seal, I heard the second living creature saying, 'Come.' ^4^And another, a red horse, went out; and to him who sat on it, it was granted to take peace from the earth, and that *men* would slay one another; and a great sword was given to him.
 
-> ^5^When he opened the third seal, I heard the third living creature say, "Come!" And I looked, and behold, a black horse! And its rider had a pair of scales in his hand. ^6^And I heard what seemed to be a voice in the midst of the four living creatures, saying, "A quart of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine!"
+> ^5^When He broke the third seal, I heard the third living creature saying, 'Come.' I looked, and behold, a black horse; and he who sat on it had a pair of scales in his hand. ^6^And I heard *something* like a voice in the center of the four living creatures saying, 'A quart of wheat for a denarius, and three quarts of barley for a denarius; and do not damage the oil and the wine.'
 
-> ^7^When he opened the fourth seal, I heard the voice of the fourth living creature say, "Come!" ^8^And I looked, and behold, a pale horse! And its rider's name was Death, and Hades followed him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth.
+> ^7^When the Lamb broke the fourth seal, I heard the voice of the fourth living creature saying, 'Come.' ^8^I looked, and behold, an ashen horse; and he who sat on it had the name Death; and Hades was following with him. Authority was given to them over a fourth of the earth, to kill with sword and with famine and with pestilence and by the wild beasts of the earth.
 
-> ^9^When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the witness they had borne. ^10^They cried out with a loud voice, "O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?" ^11^Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been.
+> ^9^When the Lamb broke the fifth seal, I saw underneath the altar the souls of those who had been slain because of the word of God, and because of the testimony which they had maintained; ^10^and they cried out with a loud voice, saying, 'How long, O Lord, holy and true, will You refrain from judging and avenging our blood on those who dwell on the earth?' ^11^And there was given to each of them a white robe; and they were told that they should rest for a little while longer, until *the number of* their fellow servants and their brethren who were to be killed even as they had been, would be completed also.
 
-> ^12^When he opened the sixth seal, I looked, and behold, there was a great earthquake, and the sun became black as sackcloth, the full moon became like blood, ^13^and the stars of the sky fell to the earth as the fig tree sheds its winter fruit when shaken by a gale. ^14^The sky vanished like a scroll that is being rolled up, and every mountain and island was removed from its place. ^15^Then the kings of the earth and the great ones and the generals and the rich and the powerful, and everyone, slave and free, hid themselves in the caves and among the rocks of the mountains, ^16^calling to the mountains and rocks, "Fall on us and hide us from the face of him who is seated on the throne, and from the wrath of the Lamb, ^17^for the great day of their wrath has come, and who can stand?"
+> ^12^I looked when He broke the sixth seal, and there was a great earthquake; and the sun became black as sackcloth *made* of hair, and the whole moon became like blood; ^13^and the stars of the sky fell to the earth, as a fig tree casts its unripe figs when shaken by a great wind. ^14^The sky was split apart like a scroll when it is rolled up, and every mountain and island were moved out of their places. ^15^Then the kings of the earth and the great men and the commanders and the rich and the strong and every slave and free man hid themselves in the caves and among the rocks of the mountains; ^16^and they said to the mountains and to the rocks, 'Fall on us and hide us from the presence of Him who sits on the throne, and from the wrath of the Lamb; ^17^for the great day of their wrath has come, and who is able to stand?'
 
 ---
 
@@ -65,7 +83,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | σφραγίς | sphragis | 印、封印 | 全章關鍵詞，古代文件以蠟封緘，唯有合法持有人能開啟 |
 | νικῶν | nikōn | 得勝的、正在得勝的 | 現在分詞，「勝了又要勝」，持續進行的得勝行動 |
 | εἰρήνη | eirēnē | 和平 | 紅馬「奪去和平」，與羔羊所賜的平安（約14:27）形成尖銳對比 |
@@ -80,7 +98,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 審判出於揭卷者的手，不是脫離掌控 (Judgment Flows from the Hand That Opens, Not Out of Control)
 
@@ -103,6 +121,19 @@ publisher: 三書精讀出版系統
 第六印下，世上最有權勢的君王與最卑微的奴僕同樣呼求山嶺遮蓋自己——這是全書第一次明確描繪「羔羊的憤怒」，刻意用最溫柔的意象（羔羊）承載最終極的審判權柄，提醒讀者：真正該懼怕的不是野獸的兇猛，而是曾被殺的羔羊終有一日要按公義站立。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 76:7-9
+
+> ^7^惟獨你是可畏的！你怒氣一發，誰能在你面前站得住呢？
+> ^8^你從天上使人聽判斷。
+> ^9^神起來施行審判，要救地上一切謙卑的人；那時地就懼怕而靜默。（細拉）
+
+「你發怒的時候，誰能在你面前站得住呢？」——六印之下地上的人躲在巖穴裡問的正是這句話（6:17）。同一個問題，詩人早已問過；分別在於，詩人是在敬拜中問的。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -141,7 +172,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Day of Judgment, Day of Wonders
+
+*John Newton, 1774*
+
+> Day of judgment, day of wonders!
+> Hark! the trumpet's awful sound,
+> Louder than a thousand thunders,
+> Shakes the vast creation round.
+
+牛頓曾是販奴船長，後來寫下《奇異恩典》，也寫下這首審判之詩——寫審判寫得最有份量的，往往是最深知自己蒙赦免的人。默想：六印之下沒有人問「這是誰作的」，人人都知道；他們問的是「誰能站得住」。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**白馬騎士不是基督**：麥克阿瑟明確區分 6:2 與 19:11 的兩位白馬騎士：第一印的騎士持弓無箭、受冠而出，是敵基督式的假和平——以不流血的征服開場，隨後的紅馬立刻揭穿這和平的底細。
+
+**揭印的是羔羊**：他不斷把讀者拉回一個語法事實：每一個災禍的動詞主詞都是羔羊「揭開」——災難不是脫離神手的黑暗力量，而是救贖主親自啟動的審判程序；能安慰教會的正是這一點。
+
+**第六印下人人都成了神學家**：6:16-17 山崩地裂之際，藏躲的人準確說出「羔羊忿怒的大日到了，誰能站得住呢」——他指出：到那日沒有無神論者，只有太遲的承認者；問題從來不是知不知道，而是肯不肯悔改。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：六印的災禍 (Ask Elder Wong)
 

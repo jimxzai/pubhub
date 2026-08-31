@@ -57,10 +57,9 @@ copyright: |
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
+  Scripture quotations taken from the New American Standard Bible® (NASB),
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. All rights reserved. lockman.org
 
   All rights reserved.
 ---
@@ -190,13 +189,21 @@ add_volume "卷末 · 回到起初 (Back to the Beginning)" \
 > 證明這事的說：是了，我必快來！阿們！主耶穌阿，我願你來！（啟 22:20）"
 add_file "$INPUT_DIR/99-back-to-the-beginning.md"
 
-# 跋 — afterword (the ministry, the 66-volume prayer).
+# 跋 — afterword (the ministry, the 66-volume prayer)
+add_file "$INPUT_DIR/999-afterword.md"
+
+# ============================================================
+# 附錄 — appendices: OT allusions, sevens table, index & plan
+# ============================================================
+add_file "$INPUT_DIR/99a-appendix-ot-allusions.md"
+add_file "$INPUT_DIR/99b-appendix-sevens-table.md"
+
 # Last content file: no trailing \newpage (the template backmatter opens
 # its own page; a trailing break here yields a header-only blank page
-# whenever the afterword happens to fill its final page exactly).
-if [ -f "$INPUT_DIR/999-afterword.md" ]; then
-    echo "  Adding: 999-afterword.md"
-    tail -n +8 "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
+# whenever this file happens to fill its final page exactly).
+if [ -f "$INPUT_DIR/99c-appendix-index-reading-plan.md" ]; then
+    echo "  Adding: 99c-appendix-index-reading-plan.md"
+    tail -n +8 "$INPUT_DIR/99c-appendix-index-reading-plan.md" | sed 's/\^\([0-9][0-9:]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
     ((chapter_count++))
 fi
 

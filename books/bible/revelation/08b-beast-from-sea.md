@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 13:1-10
 
-**經文核對**：[ai-eden.com/bible/revelation/13](https://www.ai-eden.com/bible/revelation/13?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/13](https://www.ai-eden.com/bible/revelation/13?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 龍在12章戰敗之後，並未消失，而是站在海邊的沙上，召喚一個代理者登場——從海中上來的獸，擁有龍所給予的能力、座位和大權柄。這獸模仿基督：牠有「似乎受了死傷，那死傷卻醫好了」的經歷，模仿基督死而復活的樣式，企圖竊取世人的敬拜。但經文清楚指出敬拜的界線——「凡住在地上、名字從創世以來沒有記在被殺之羔羊生命冊上的人，都要拜他」。這句話把整章的焦點重新拉回：真正的問題不是這獸有多可怕，而是你的名字在不在「被殺之羔羊」的生命冊上。全章從頭到尾，都是在襯托那位真正配得敬拜的羔羊。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Lead On, O King Eternal**
+> *Ernest W. Shurtleff, 1887*
+>
+> Lead on, O King eternal,
+> The day of march has come;
+> Henceforth in fields of conquest
+> Thy tents shall be our home.
+>
+> 永恆的君王，求你前導，
+> 出征的日子已經來到；
+> 從此在爭戰的疆場上，
+> 你的營幕就是我家。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^9^凡有耳的，就應當聽！^10^擄掠人的，必被擄掠；用刀殺人的，必被刀殺。聖徒的忍耐和信心就是在此。
 
-### English — ESV
+### English — NASB
 
-> ^1^And I saw a beast rising out of the sea, with ten horns and seven heads, with ten diadems on its horns and blasphemous names on its heads. ^2^And the beast that I saw was like a leopard; its feet were like a bear's, and its mouth was like a lion's mouth. And to it the dragon gave his power and his throne and great authority. ^3^One of its heads seemed to have a mortal wound, but its mortal wound was healed, and the whole earth marveled as they followed the beast. ^4^And they worshiped the dragon, for he had given his authority to the beast, and they worshiped the beast, saying, "Who is like the beast, and who can fight against it?"
+> ^1^And the dragon stood on the sand of the seashore. Then I saw a beast coming up out of the sea, having ten horns and seven heads, and on his horns *were* ten diadems, and on his heads *were* blasphemous names. ^2^And the beast which I saw was like a leopard, and his feet were like *those* of a bear, and his mouth like the mouth of a lion. And the dragon gave him his power and his throne and great authority. ^3^*I saw* one of his heads as if it had been slain, and his fatal wound was healed. And the whole earth was amazed *and followed* after the beast; ^4^they worshiped the dragon because he gave his authority to the beast; and they worshiped the beast, saying, 'Who is like the beast, and who is able to wage war with him?'
 
-> ^5^And the beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months. ^6^It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven. ^7^Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation, ^8^and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.
+> ^5^There was given to him a mouth speaking arrogant words and blasphemies, and authority to act for forty-two months was given to him. ^6^And he opened his mouth in blasphemies against God, to blaspheme His name and His tabernacle, *that is*, those who dwell in heaven. ^7^It was also given to him to make war with the saints and to overcome them, and authority over every tribe and people and tongue and nation was given to him. ^8^All who dwell on the earth will worship him, *everyone* whose name has not been written from the foundation of the world in the book of life of the Lamb who has been slain.
 
-> ^9^If anyone has an ear, let him hear: ^10^If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and faith of the saints.
+> ^9^If anyone has an ear, let him hear. ^10^If anyone *is destined* for captivity, to captivity he goes; if anyone kills with the sword, with the sword he must be killed. Here is the perseverance and the faith of the saints.
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | θηρίον | thērion | 獸 | 啟示錄13-19章的關鍵詞，出現超過30次，強調其獸性、非人性的本質 |
 | διάδημα | diadēma | 冠冕（王冠） | 與2:10、3:11提到得勝者的「冠冕」（*stephanos*）是不同的字，此處特指王權的冠冕 |
 | βλασφημία | blasphēmia | 褻瀆 | 出現在獸的名號、獸的口中，強調牠公然褻瀆神的本質 |
@@ -67,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 獸的權柄是被允許的、有限的 (The Beast's Authority Is Permitted and Limited)
 
@@ -87,6 +105,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 10:16-18
+
+> ^16^耶和華永永遠遠為王；外邦人從他的地已經滅絕了。
+> ^17^耶和華啊，謙卑人的心願，你早已知道（原文是聽見）。你必預備他們的心，也必側耳聽他們的祈求，
+> ^18^為要給孤兒和受欺壓的人伸冤，使強橫的人不再威嚇他們。
+
+「耶和華永永遠遠為王」——第 13 章的獸得了權柄「四十二個月」，有期限；詩人所宣告的王權，沒有期限。獸的可怕在於凶暴，牠的虛弱在於短暫。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -94,19 +125,19 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在論到獸與敵基督的身分時，特別謹慎——他列舉了幾個可能的名字解法（透過希臘文字母的數值換算），卻明確拒絕武斷地指認一個具體的歷史人物，主張這樣的推測本身就充滿風險，教會應當謹守經文所啟示的原則，而非過度延伸猜測。
 
 > — Irenaeus, *Against Heresies*, Book V, Chapter 30
 
-**維克多林 (Victorinus of Pettau, c. 260-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將這獸與羅馬帝國的皇帝崇拜直接連結，認為第一世紀的讀者能夠清楚辨認：那要求敬拜、逼迫不肯妥協之基督徒的權勢，正是他們身處的羅馬帝國體制本身。
 
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 13
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -130,7 +161,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O God of Earth and Altar
+
+*G. K. Chesterton, 1906*
+
+> O God of earth and altar,
+> Bow down and hear our cry;
+> Our earthly rulers falter,
+> Our people drift and die.
+
+13:4 說「誰能比這獸，誰能與牠交戰呢？」——這是拜偶像最原始的邏輯：把不可抵擋當作值得敬拜。默想：本章沒有給信徒一句反擊的口號，只給了一句「聖徒的忍耐和信心就是在此」。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**敵基督是撒但的傑作**：麥克阿瑟把海中上來的獸讀作末期真實的世界統治者——龍給牠能力、座位、權柄（13:2），是撒但對「道成肉身」的黑暗模仿；牠的死傷醫好（13:3）則是對復活的仿冒。
+
+**權柄是「賜給」的**：他數算本章反覆出現的被動語態——「賜給牠說誇大褻瀆話的口」「任憑牠與聖徒爭戰」（13:5-7）——連獸最猖狂的四十二個月，都在神許可的框架之內；這是受逼迫教會能站立的地基。
+
+**聖徒的武器是忍耐和信心**：13:10 的結語不是呼籲反抗，而是「聖徒的忍耐和信心就是在此」。他指出：面對不可抵擋的強權，教會的得勝方式從來不是奪權，而是至死忠心——與 12:11 一脈相承。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：從海中上來的獸 (Ask Elder Wong)
 

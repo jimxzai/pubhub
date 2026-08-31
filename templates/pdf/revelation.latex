@@ -300,7 +300,7 @@
   pdftitle={啟示錄研讀 — 得勝之冠},
   pdfauthor={PubHub 三書精讀系統},
   pdfsubject={啟示錄逐段研讀：被殺的羔羊如何成為得勝的君王},
-  pdfkeywords={啟示錄, Revelation, 聖經研讀, Bible study, 和合本, ESV, 羔羊, 七教會, 新耶路撒冷, 得勝之冠, 查經},
+  pdfkeywords={啟示錄, Revelation, 聖經研讀, Bible study, 和合本, NASB, 羔羊, 七教會, 新耶路撒冷, 得勝之冠, 查經},
   pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
   pdflang={zh-Hant}
 }
@@ -507,7 +507,7 @@ $endif$
 
 % Core theme
 {\normalsize\color{CoverGoldBright}\bfseries 得勝的，我要賜他在我寶座上與我同坐}\\[0.12cm]
-{\baskervillefont\itshape\footnotesize\color{CoverCream} "The one who conquers, I will grant to sit with me on my throne" (Rev 3:21)}
+{\baskervillefont\itshape\footnotesize\color{CoverCream} "He who overcomes, I will grant to him to sit down with Me on My throne" (Rev 3:21, NASB)}
 
 \vfill
 
@@ -704,7 +704,7 @@ All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
 中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+English: New American Standard Bible (NASB)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ John MacArthur - MacArthur New Testament Commentary\\
@@ -796,7 +796,7 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書逐段研讀啟示錄全書二十二章，以渐进启示的終點為視角，整合老弟兄查經教導法、John MacArthur 逐節解經講道（gty.org）、以及 G.K. Beale、Robert Mounce、Grant Osborne 等當代學者的解經洞見。全書貫穿透視人性、出路何在、神的計劃、宇宙爭戰四大主題，從榮耀基督的異象、七教會的呼召，經過印、號、碗的審判，直到巴比倫傾覆、基督再來、千年國度，終於新天新地與新耶路撒冷。
+本書逐段研讀啟示錄全書二十二章，以漸進啟示的終點為視角，整合老弟兄查經教導法、John MacArthur 逐節解經講道（gty.org）、以及 G.K. Beale、Robert Mounce、Grant Osborne 等當代學者的解經洞見。全書貫穿透視人性、出路何在、神的計劃、宇宙爭戰四大主題，從榮耀基督的異象、七教會的呼召，經過印、號、碗的審判，直到巴比倫傾覆、基督再來、千年國度，終於新天新地與新耶路撒冷。
 
 {\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ chapter-by-chapter study of all twenty-two chapters of Revelation, read as the culmination of progressive revelation, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and the exegetical insight of G.K. Beale, Robert Mounce, and Grant Osborne --- witnessing the completion of God's eternal plan and the final consummation of faith, hope, and love at the marriage supper of the Lamb.}
 $endif$

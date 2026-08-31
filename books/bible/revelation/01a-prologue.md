@@ -10,13 +10,33 @@ publisher: 三書精讀出版系統
 
 啟示錄 1:1-8
 
-**經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 啟示錄不是以恐怖的異象開篇，而是以一個名字開篇——「耶穌基督的啟示」。整卷書卷首七節，一連串頭銜與稱號密集出現：忠信的見證者、從死人中復活的首生者、世上君王的元首、愛我們用血釋放我們的那位、使我們成為國度祭司的那位、駕雲降臨眾目要看見的那位、阿拉法俄梅戛、今在昔在以後永在的全能者。約翰還沒有描述一個異象，就已經把讀者的目光牢牢釘在一個人身上。這卷書要揭開的，首先不是「將要發生甚麼事」，而是「這位掌管一切之事的是誰」。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Lo! He Comes with Clouds Descending**
+> *Charles Wesley, 1758*
+>
+> Lo! He comes with clouds descending,
+> Once for favored sinners slain;
+> Thousand thousand saints attending
+> Swell the triumph of His train:
+> Hallelujah! God appears on earth to reign.
+>
+> 看哪，主駕雲降臨，
+> 昔日為選民被殺身；
+> 千千萬萬聖徒相隨，
+> 同來歡呼慶凱旋：
+> 哈利路亞！神今顯現，在地掌權。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -30,15 +50,15 @@ publisher: 三書精讀出版系統
 
 > ^8^主神說：「我是阿拉法，我是俄梅戛，（阿拉法，俄梅戛：是希利尼字母首末二字），是昔在、今在、以後永在的全能者。」
 
-### English — ESV
+### English — NASB
 
-> ^1^The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John, ^2^who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw. ^3^Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near.
+> ^1^The Revelation of Jesus Christ, which God gave Him to show to His bond-servants, the things which must soon take place; and He sent and communicated *it* by His angel to His bond-servant John, ^2^who testified to the word of God and to the testimony of Jesus Christ, *even* to all that he saw. ^3^Blessed is he who reads and those who hear the words of the prophecy, and heed the things which are written in it; for the time is near.
 
-> ^4^John to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne, ^5^and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood ^6^and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen.
+> ^4^John to the seven churches that are in Asia: Grace to you and peace, from Him who is and who was and who is to come, and from the seven Spirits who are before His throne, ^5^and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To Him who loves us and released us from our sins by His blood— ^6^and He has made us *to be* a kingdom, priests to His God and Father— to Him *be* the glory and the dominion forever and ever. Amen.
 
-> ^7^Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen.
+> ^7^BEHOLD, HE IS COMING WITH THE CLOUDS, and every eye will see Him, even those who pierced Him; and all the tribes of the earth will mourn over Him. So it is to be. Amen.
 
-> ^8^"I am the Alpha and the Omega," says the Lord God, "who is and who was and who is to come, the Almighty."
+> ^8^'I am the Alpha and the Omega,' says the Lord God, 'who is and who was and who is to come, the Almighty.'
 
 ---
 
@@ -57,7 +77,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ἀποκάλυψις | apokalypsis | 啟示、揭開帷幕 | 全書書名，由 *apo*（揭開）+ *kalyptō*（遮蓋）組成 |
 | μαρτυρία | martyria | 見證 | 2節，是全書反覆出現的關鍵詞，後衍生「殉道者」（martyr）一詞 |
 | δοῦλος | doulos | 僕人、奴僕 | 1節，約翰與眾讀者的共同身分——不是旁觀者，而是主的奴僕 |
@@ -72,7 +92,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 啟示的鏈條與權柄
 
@@ -100,6 +120,18 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 90:1-2
+
+> ^1^（神人摩西的祈禱）主啊，你世世代代作我們的居所。
+> ^2^諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。
+
+摩西的祈禱從「世世代代」起頭，落在「從亙古到永遠，你是神」——這正是啟示錄 1:8「昔在、今在、以後永在」所展開的同一句話。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -107,7 +139,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林是現存最早的啟示錄註釋書作者，在戴克里先大逼迫期間殉道。他的《啟示錄註釋》是教會歷史上第一部嘗試逐段解讀這卷書的著作，見證了初代教會早已鄭重看待這卷「耶穌基督的啟示」，並非後世才發展出的解經傳統。
 
@@ -129,15 +161,44 @@ publisher: 三書精讀出版系統
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**羅伯特·孟思 (Robert Mounce)**：
+**孟斯 (Robert Mounce)**：
 
-孟思在其《啟示錄注釋》(NICNT) 論到「啟示」(*apokalypsis*) 一詞時指出，這個詞本身就宣告了整卷書的性質：不是要隱藏奧秘，而是要揭開帷幕，讓教會看清在表面混亂之下，基督仍在掌管歷史的真相。
+孟斯在其《啟示錄注釋》(NICNT) 論到「啟示」(*apokalypsis*) 一詞時指出，這個詞本身就宣告了整卷書的性質：不是要隱藏奧秘，而是要揭開帷幕，讓教會看清在表面混亂之下，基督仍在掌管歷史的真相。
 
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Of the Father's Love Begotten
+
+*Aurelius Prudentius (348-413); tr. John M. Neale, 1854, and Henry W. Baker, 1859*
+
+> Of the Father's love begotten,
+> Ere the worlds began to be,
+> He is Alpha and Omega,
+> He the Source, the Ending He,
+> Of the things that are, that have been,
+> And that future years shall see,
+> Evermore and evermore!
+
+四世紀的拉丁詩人在福音初傳的年代，已經把 1:8「我是阿拉法，我是俄梅戛」寫成了詩歌。默想：一首唱了一千六百年的歌，唱的是同一位「無始無終」的主——你今天所讀的這卷書，不是新的，是古的；不是關於未來的猜測，是關於那位掌管始終者的宣告。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**書名已經定了全書的讀法**：麥克阿瑟強調，1:1「耶穌基督的啟示」(apokalypsis) 意思是「揭開、揭幕」——這卷書的本意不是把末世藏進謎語，而是把基督的榮耀揭給教會看。把啟示錄讀成難解天書的人，恰恰把書名讀反了。
+
+**全書唯一附帶福氣應許的書卷**：他指出 1:3「念這書上預言的和那些聽見又遵守其中所記載的，都是有福的」——聖經六十六卷中，唯有啟示錄開卷就給讀者一個福。神無意讓這卷書被跳過。
+
+**「必要快成」的解釋**：對 1:1 的「快」(en tachei)，他解作「一旦開始，必迅速成就」——重點不是時間表的長短，而是事件啟動後的不可逆轉，因此每一個世代的教會都當儆醒。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：啟示的序言與問安 (Ask Elder Wong)
 
@@ -174,7 +235,7 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇2:6-8
 
-> 「我已經立我的君在錫安──我的聖山上了。」我要傳聖旨：耶和華曾對我說：「你是我的兒子，我今日生你。你求我，我就將列國賜你為基業，將地極賜你為田產。」
+> 說：我已經立我的君在錫安─我的聖山上了。受膏者說：我要傳聖旨。耶和華曾對我說：你是我的兒子，我今日生你。你求我，我就將列國賜你為基業，將地極賜你為田產。
 
 詩篇2篇宣告神所立的君王要治理列國，啟示錄1:5「世上君王的元首」正是這應許的終極成就——那被列國拒絕、釘上十字架的，正是詩篇2篇所應許要治理萬邦的那一位。
 

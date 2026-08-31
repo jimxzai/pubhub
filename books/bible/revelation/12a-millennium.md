@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 20:1-6
 
-**經文核對**：[ai-eden.com/bible/revelation/20](https://www.ai-eden.com/bible/revelation/20?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/20](https://www.ai-eden.com/bible/revelation/20?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 19章白馬騎士剛剛終結了獸與假先知的悖逆，20章緊接著處理那條古蛇——龍被捉住、捆綁一千年，扔在無底坑裡。這一章因對「一千年」的不同理解，成為歷代教會解經爭議最多的段落之一，但無論採取哪一種立場，經文的核心信息始終清楚：與基督一同作王的，是那些「因為給耶穌作見證，並為神之道被斬者」（4節）——這一章從頭到尾都在講述，基督徒忠心至死所換來的，不是被遺忘的犧牲，而是與基督一同掌權的尊榮。真正配得敬畏與盼望的，不是對千禧年細節的精確掌握，而是那位使死人復活、使忠心者與祂一同作王的基督自己。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Ten Thousand Times Ten Thousand**
+> *Henry Alford, 1867*
+>
+> O then what raptured greetings
+> On Canaan's happy shore,
+> What knitting severed friendships up,
+> Where partings are no more!
+>
+> 在迦南快樂的岸邊，
+> 何等狂喜的相見；
+> 折斷的情誼重新繫上，
+> 在那裡不再有離別！
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +44,11 @@ publisher: 三書精讀出版系統
 
 > ^4^我又看見幾個寶座，也有坐在上面的，並有審判的權柄賜給他們。我又看見那些因為給耶穌作見證，並為神之道被斬者的靈魂，和那沒有拜過獸與獸像，也沒有在額上和手上受過他印記之人的靈魂，他們都復活了，與基督一同作王一千年。^5^這是頭一次的復活。其餘的死人還沒有復活，直等那一千年完了。^6^在頭一次復活有分的有福了，聖潔了！第二次的死在他們身上沒有權柄。他們必作神和基督的祭司，並要與基督一同作王一千年。
 
-### English — ESV
+### English — NASB
 
-> ^1^Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain. ^2^And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years, ^3^and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while.
+> ^1^Then I saw an angel coming down from heaven, holding the key of the abyss and a great chain in his hand. ^2^And he laid hold of the dragon, the serpent of old, who is the devil and Satan, and bound him for a thousand years; ^3^and he threw him into the abyss, and shut *it* and sealed *it* over him, so that he would not deceive the nations any longer, until the thousand years were completed; after these things he must be released for a short time.
 
-> ^4^Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. ^5^The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection. ^6^Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years.
+> ^4^Then I saw thrones, and they sat on them, and judgment was given to them. And I *saw* the souls of those who had been beheaded because of their testimony of Jesus and because of the word of God, and those who had not worshiped the beast or his image, and had not received the mark on their forehead and on their hand; and they came to life and reigned with Christ for a thousand years. ^5^The rest of the dead did not come to life until the thousand years were completed. This is the first resurrection. ^6^Blessed and holy is the one who has a part in the first resurrection; over these the second death has no power, but they will be priests of God and of Christ and will reign with Him for a thousand years.
 
 ---
 
@@ -49,7 +67,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | χίλια ἔτη | chilia etē | 一千年 | 出現六次（2, 3, 4, 5, 6, 7節），是全書唯一明確的具體時間長度用語 |
 | ἄβυσσος | abyssos | 無底坑 | 與9:1-2、11:7同一詞，是邪惡勢力被囚禁的所在，非最終的懲罰地（火湖才是最終的懲罰地） |
 | δέω | deō | 捆綁 | 呼應馬可福音3:27耶穌論及「先捆綁那壯士」才能奪回他所霸佔的家業的比喻 |
@@ -63,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 撒但的權勢終必被完全限制 (Satan's Power Will Ultimately Be Fully Restrained)
 
@@ -83,6 +101,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 37:9-11
+
+> ^9^因為作惡的必被剪除；惟有等候耶和華的必承受地土。
+> ^10^還有片時，惡人要歸於無有；你就是細察他的住處也要歸於無有。
+> ^11^但謙卑人必承受地土，以豐盛的平安為樂。
+
+「惟有等候耶和華的必承受地土」——與基督一同作王一千年的，是那些「沒有拜過獸」、曾被斬首的人（20:4）。承受地土的路，詩篇早已說明：不是奪取，是等候。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -90,7 +121,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐是早期教會明確持守前千禧年立場的教父之一，他將這一千年理解為基督再來後、在地上實際建立的一段治理時期，是聖徒在經歷過患難之後、蒙神應許得享安息與復興的具體實現。
 
@@ -102,7 +133,7 @@ publisher: 三書精讀出版系統
 
 > — Augustine, *City of God*, Book 20, Chapter 9
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -126,7 +157,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### It Is Well with My Soul
+
+*Horatio G. Spafford, 1873*
+
+> And Lord, haste the day when my faith shall be sight,
+> The clouds be rolled back as a scroll;
+> The trump shall resound, and the Lord shall descend,
+> Even so, it is well with my soul.
+
+「在頭一次復活有分的有福了、聖潔了，第二次的死在他們身上沒有權柄」(20:6)。默想：司百福在喪女的大西洋上寫下「我的心靈得安寧」，末節卻是催促主快來——安寧與等候，在同一顆心裡並存。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**六次「一千年」**：麥克阿瑟強調 20:1-7 短短七節，「一千年」出現六次——若這數字純屬象徵，聖靈不必如此反覆；他按前千禧年立場讀作基督再來後在地上的真實國度，應驗眾先知對彌賽亞國度的預言。
+
+**捆綁是真捆綁**：20:1-3 撒但被鎖鏈捆住、扔進無底坑、封印——四個動作層層加碼。他反對把這讀成「部分限制」：經文的用意是全面的禁錮，「使牠不得再迷惑列國」，直到千年完了。
+
+**與基督一同作王的是殉道者**：20:4 特別點名「那些因為給耶穌作見證……被斬者的靈魂」——地上以為被消滅的人，在國度裡與王同坐。他指出這是對 13 章的最終翻案：獸的四十二個月換來的是火湖，殉道者的至死忠心換來的是千年的寶座。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：撒但被捆綁與第一次復活 (Ask Elder Wong)
 

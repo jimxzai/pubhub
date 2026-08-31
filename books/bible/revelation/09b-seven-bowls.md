@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 16:1-21
 
-**經文核對**：[ai-eden.com/bible/revelation/16](https://www.ai-eden.com/bible/revelation/16?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/16](https://www.ai-eden.com/bible/revelation/16?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七碗是啟示錄三個七之中最後、最猛烈的一組審判——七印揭開了序幕，七號吹響了警告，七碗則是「神大怒的終局」（15:1）。這一章沒有出現羔羊的名字，卻處處是羔羊配得敬拜之後（15章）必然的結果：一位配得敬拜的神，也必然是一位施行公義審判的神。第17節那句「成了！」（*Gegonen*）預告了十字架上「成了」（19:30，*Tetelestai*）的終極應驗——救贖已然「成了」，審判也終將「成了」，兩者出於同一位掌管歷史的主。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Great God, What Do I See and Hear**
+> *Attr. Bartholomäus Ringwaldt, 1582; tr. William B. Collyer, 1812*
+>
+> Great God, what do I see and hear!
+> The end of things created!
+> The Judge of mankind doth appear
+> On clouds of glory seated.
+>
+> 大哉神啊，我所見所聞！
+> 受造之物的終局！
+> 審判世人的主顯現，
+> 坐在榮耀的雲中。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -38,19 +56,19 @@ publisher: 三書精讀出版系統
 
 > ^17^第七位天使把碗倒在空中，就有大聲音從殿中的寶座上出來，說：「成了！」^18^又有閃電、聲音、雷轟、大地震，自從地上有人以來，沒有這樣大、這樣利害的地震。^19^那大城裂為三段，列國的城也都倒塌了；神也想起巴比倫大城來，要把那盛自己烈怒的酒杯遞給他。^20^各海島都逃避了，眾山也不見了。^21^又有大雹子從天落在人身上，每一個約重一他連得（一他連得約有九十斤）。為這雹子的災極大，人就褻瀆神。
 
-### English — ESV
+### English — NASB
 
-> ^1^Then I heard a loud voice from the temple telling the seven angels, "Go and pour out on the earth the seven bowls of the wrath of God." ^2^So the first angel went and poured out his bowl on the earth, and harmful and painful sores came upon the people who bore the mark of the beast and worshiped its image.
+> ^1^Then I heard a loud voice from the temple, saying to the seven angels, 'Go and pour out on the earth the seven bowls of the wrath of God.' ^2^So the first *angel* went and poured out his bowl on the earth; and it became a loathsome and malignant sore on the people who had the mark of the beast and who worshiped his image.
 
-> ^3^The second angel poured out his bowl into the sea, and it became like the blood of a corpse, and every living thing died that was in the sea. ^4^The third angel poured out his bowl into the rivers and the springs of water, and they became blood. ^5^And I heard the angel in charge of the waters say, "Just are you, O Holy One, who is and who was, for you brought these judgments. ^6^For they have shed the blood of saints and prophets, and you have given them blood to drink. It is what they deserve!" ^7^And I heard the altar saying, "Yes, Lord God the Almighty, true and just are your judgments!"
+> ^3^The second *angel* poured out his bowl into the sea, and it became blood like *that* of a dead man; and every living thing in the sea died. ^4^Then the third *angel* poured out his bowl into the rivers and the springs of waters; and they became blood. ^5^And I heard the angel of the waters saying, 'Righteous are You, who are and who were, O Holy One, because You judged these things; ^6^for they poured out the blood of saints and prophets, and You have given them blood to drink. They deserve it.' ^7^And I heard the altar saying, 'Yes, O Lord God, the Almighty, true and righteous are Your judgments.'
 
-> ^8^The fourth angel poured out his bowl on the sun, and it was allowed to scorch people with fire. ^9^They were scorched by the fierce heat, and they cursed the name of God who had power over these plagues. They did not repent and give him glory.
+> ^8^The fourth *angel* poured out his bowl upon the sun, and it was given to it to scorch men with fire. ^9^Men were scorched with fierce heat; and they blasphemed the name of God who has the power over these plagues, and they did not repent so as to give Him glory.
 
-> ^10^The fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness. People gnawed their tongues in anguish ^11^and cursed the God of heaven for their pain and sores. They did not repent of their deeds.
+> ^10^Then the fifth *angel* poured out his bowl on the throne of the beast, and his kingdom became darkened; and they gnawed their tongues because of pain, ^11^and they blasphemed the God of heaven because of their pains and their sores; and they did not repent of their deeds.
 
-> ^12^The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, to prepare the way for the kings from the east. ^13^And I saw, coming out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs. ^14^For they are demonic spirits, performing signs, who go abroad to the kings of the whole world, to assemble them for battle on the great day of God the Almighty. ^15^(\jesus{"Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed!"}) ^16^And they assembled them at the place that in Hebrew is called Armageddon.
+> ^12^The sixth *angel* poured out his bowl on the great river, the Euphrates; and its water was dried up, so that the way would be prepared for the kings from the east. ^13^And I saw *coming* out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs; ^14^for they are spirits of demons, performing signs, which go out to the kings of the whole world, to gather them together for the war of the great day of God, the Almighty. ^15^(\jesus{'Behold, I am coming like a thief. Blessed is the one who stays awake and keeps his clothes, so that he will not walk about naked and men will not see his shame.'}) ^16^And they gathered them together to the place which in Hebrew is called Har-Magedon.
 
-> ^17^The seventh angel poured out his bowl into the air, and a loud voice came out of the temple, from the throne, saying, "It is done!" ^18^And there were flashes of lightning, rumblings, peals of thunder, and a great earthquake such as there had never been since man was on the earth, so great was that earthquake. ^19^The great city was split into three parts, and the cities of the nations fell, and God remembered Babylon the great, to make her drain the cup of the wine of the fury of his wrath. ^20^And every island fled away, and no mountains were to be found. ^21^And great hailstones, about one hundred pounds each, fell from heaven on people; and they cursed God for the plague of the hail, because the plague was so severe.
+> ^17^Then the seventh *angel* poured out his bowl upon the air, and a loud voice came out of the temple from the throne, saying, 'It is done.' ^18^And there were flashes of lightning and sounds and peals of thunder; and there was a great earthquake, such as there had not been since man came to be upon the earth, so great an earthquake *was it, and* so mighty. ^19^The great city was split into three parts, and the cities of the nations fell. Babylon the great was remembered before God, to give her the cup of the wine of His fierce wrath. ^20^And every island fled away, and the mountains were not found. ^21^And huge hailstones, about one hundred pounds each, came down from heaven upon men; and men blasphemed God because of the plague of the hail, because its plague was extremely severe.
 
 ---
 
@@ -69,7 +87,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | φιάλη | phialē | 碗、淺盤 | 與五印和七號用的「號筒」不同，碗是傾倒淨盡的器皿，象徵毫無保留 |
 | ἕλκος | helkos | 瘡、潰爛的傷口 | 呼應出9:9-11埃及的瘡災 |
 | βλασφημέω | blasphēmeō | 褻瀆 | 9, 11, 21節反覆出現，是本章的關鍵動詞 |
@@ -84,7 +102,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 出埃及的模式重演——神的審判有其連貫的性情 (The Exodus Pattern Repeats — God's Judgment Has a Consistent Character)
 
@@ -104,6 +122,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 75:6-8
+
+> ^6^因為高舉非從東，非從西，也非從南而來。
+> ^7^惟有神斷定；他使這人降卑，使那人升高。
+> ^8^耶和華手裡有杯，其中的酒起沫，杯內滿了攙雜的酒；他倒出來，地上的惡人必都喝這酒的渣滓，而且喝盡。
+
+「耶和華手裡有杯……地上的惡人必都喝這酒的渣滓，而且喝盡」——七碗就是這杯的倒盡。詩人早已看見：杯在耶和華手裡，何時傾倒、倒給誰，從來不由地上決定。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -111,9 +142,9 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**依仁紐 (Irenaeus of Lyons, 約130-202年)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
-依仁紐在論到末後審判時，特別提到七碗與埃及十災之間的呼應，指出神在歷史中反覆使用相似的審判模式，為要向每個世代顯明：祂是那位曾在埃及拯救以色列的神，也是那位要在末後拯救祂教會的同一位神——歷史的重複模式本身就是神信實不變的記號。
+愛任紐在論到末後審判時，特別提到七碗與埃及十災之間的呼應，指出神在歷史中反覆使用相似的審判模式，為要向每個世代顯明：祂是那位曾在埃及拯救以色列的神，也是那位要在末後拯救祂教會的同一位神——歷史的重複模式本身就是神信實不變的記號。
 
 > — Irenaeus of Lyons, *Against Heresies*, Book V
 
@@ -141,7 +172,35 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Rock of Ages, Cleft for Me
+
+*Augustus M. Toplady, 1763*
+
+> Rock of Ages, cleft for me,
+> Let me hide myself in Thee;
+> Let the water and the blood,
+> From Thy wounded side which flowed,
+> Be of sin the double cure,
+> Save from wrath and make me pure.
+
+「救我脫離忿怒，使我潔淨」——這句歌詞是第 16 章唯一的出路。默想：16:15 在七碗中間突然插進一句「看哪，我來像賊一樣。那儆醒、看守衣服……的有福了」——審判的敘事中央，仍然嵌著一個給儆醒者的福。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**傾倒的節奏不再有間歇**：麥克阿瑟對比三個七的節奏：印與號之間有插敘、有暫停，七碗卻一氣傾盡（16 章一章之內全部倒完）——「神大怒的碗」是不再稀釋、不再分批的終局審判。
+
+**審判的對等性**：16:5-6 天使的頌詞是他停留最久的地方：「他們曾流聖徒與先知的血，你給他們血喝，這是他們所該受的」——碗災不是失控的暴怒，是精確對等的公義；天上的回應是「是的……你的判斷義哉，誠哉」。
+
+**「成了」與哈米吉多頓**：16:17 從寶座出來的大聲音說「成了」——與十字架上的「成了」（約19:30）遙相呼應：救贖的成了不肯領受的人，要面對審判的成了。而 16:16 眾王聚集哈米吉多頓，他提醒：那不是勝負未卜的大戰，是自投羅網的集結。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：七碗與「並不悔改」的心 (Ask Elder Wong)
 

@@ -10,13 +10,35 @@ publisher: 三書精讀出版系統
 
 啟示錄 8:1-5
 
-**經文核對**：[ai-eden.com/bible/revelation/8](https://www.ai-eden.com/bible/revelation/8?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/8](https://www.ai-eden.com/bible/revelation/8?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七印的系列在最高潮處，卻給出全書最出人意料的一幕：不是雷轟閃電，而是「天上寂靜約有二刻」。這寂靜不是空白，而是懸念——是羔羊揭開最後一印之後，全天庭屏息等候接下來要展開的七號審判。緊接著寂靜之後，是眾聖徒的祈禱與香一同升到神面前的畫面：原來這靜默的核心，是神俯聽祂百姓禱告的那一刻。羔羊掌權，不只是展開審判的次序，也包括為祂百姓的呼求留出被聽見的空間。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Let All Mortal Flesh Keep Silence**
+> *Liturgy of St. James (4th c.); tr. Gerard Moultrie, 1864*
+>
+> Let all mortal flesh keep silence,
+> And with fear and trembling stand;
+> Ponder nothing earthly-minded,
+> For with blessing in His hand
+> Christ our God to earth descendeth,
+> Our full homage to demand.
+>
+> 凡有血氣的都當靜默，
+> 存敬畏戰兢站立；
+> 不再思念屬地的事，
+> 因為我們的主基督
+> 手中帶著祝福降臨，
+> 要收取我們全然的敬拜。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +48,11 @@ publisher: 三書精讀出版系統
 
 > ^3^另有一位天使，拿著金香爐來，站在祭壇旁邊。有許多香賜給他，要和眾聖徒的祈禱一同獻在寶座前的金壇上。^4^那香的煙和眾聖徒的祈禱從天使的手中一同升到神面前。^5^天使拿著香爐，盛滿了壇上的火，倒在地上；隨有雷轟、大聲、閃電、地震。
 
-### English — ESV
+### English — NASB
 
-> ^1^When the Lamb opened the seventh seal, there was silence in heaven for about half an hour. ^2^Then I saw the seven angels who stand before God, and seven trumpets were given to them.
+> ^1^When the Lamb broke the seventh seal, there was silence in heaven for about half an hour. ^2^And I saw the seven angels who stand before God, and seven trumpets were given to them.
 
-> ^3^And another angel came and stood at the altar with a golden censer, and he was given much incense to offer with the prayers of all the saints on the golden altar before the throne, ^4^and the smoke of the incense, with the prayers of the saints, rose before God from the hand of the angel. ^5^Then the angel took the censer and filled it with fire from the altar and threw it on the earth, and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
+> ^3^Another angel came and stood at the altar, holding a golden censer; and much incense was given to him, so that he might add it to the prayers of all the saints on the golden altar which was before the throne. ^4^And the smoke of the incense, with the prayers of the saints, went up before God out of the angel's hand. ^5^Then the angel took the censer and filled it with the fire of the altar, and threw it to the earth; and there followed peals of thunder and sounds and flashes of lightning and an earthquake.
 
 ---
 
@@ -49,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | σιγή | sigē | 寂靜、靜默 | 全書僅此一次出現，強調此刻的獨特與不尋常 |
 | ἡμιώριον | hēmiōrion | 半小時 | 新約聖經中唯一出現此詞之處，具體卻短暫的時間單位 |
 | λιβανωτὸς χρυσοῦς | libanōtos chrysous | 金香爐 | 呼應會幕中祭司獻香所用的器皿（出30:1-10） |
@@ -63,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 靜默不是缺席，而是敬畏的預備 (Silence Is Not Absence, but Reverent Preparation)
 
@@ -82,6 +104,18 @@ publisher: 三書精讀出版系統
 這五節經文承先啟後，把七印系列與七號系列縫合為一個連貫的整體，而非兩組互不相干的災難清單。這提醒讀者：即使審判一浪接一浪、看似永無止境，背後仍有一位精確安排次序、毫不紊亂的掌權者。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 62:1-2
+
+> ^1^（大衛的詩，照耶杜頓的作法，交與伶長。）我的心默默無聲，專等候神；我的救恩是從他而來。
+> ^2^惟獨他是我的磐石，我的拯救；他是我的高臺，我必不很動搖。
+
+「我的心默默無聲，專等候神」——天上約有二刻的寂靜，不是空白，是等候。默想的靜默與焦慮的沉默，外表一樣，裡面相反。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -120,7 +154,34 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Dear Lord and Father of Mankind
+
+*John Greenleaf Whittier, 1872*
+
+> Drop Thy still dews of quietness,
+> Till all our strivings cease;
+> Take from our souls the strain and stress,
+> And let our ordered lives confess
+> The beauty of Thy peace.
+
+第七印揭開，天上竟然安靜——不是甚麼都沒發生，是眾天軍都停下來了。默想：在這個把安靜當作浪費的世代，天上用二刻的寂靜宣告：神將要行事的時候，受造之物該做的第一件事是住口。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**寂靜是敬畏，不是空白**：麥克阿瑟把 8:1 天上約二刻的寂靜讀作全天庭在神最後審判啟動前的屏息——連不住頌讚的四活物也停了聲；審判之重，重到天上先安靜下來。
+
+**聖徒的禱告與金香爐**：他特別停在 8:3-5：眾聖徒的祈禱與香一同升到神面前，隨後香爐盛了壇上的火倒在地上——歷世歷代「願你的國降臨」與殉道者「要到幾時」的禱告，此刻成了審判的引信。禱告不是儀式，是天上檔案。
+
+**七號從禱告裡出來**：七位天使拿號站定，是在香爐倒下之後——他以此提醒教會：神施行公義的時間表，與他百姓的呼求緊密相連，無一句禱告落空。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：第七印天上寂靜二刻 (Ask Elder Wong)
 
@@ -158,7 +219,7 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇 46:10
 
-> 你們要休息，要知道我是神！我必在列國中受尊崇，在全地也受尊崇。
+> 你們要休息，要知道我是神！我必在外邦中被尊崇，在遍地上也被尊崇。
 
 「休息」在原文有「住手、安靜下來」之意——這正是啟示錄8:1天上寂靜所要傳達的信息：在神即將施行祂的作為之前，受造之物當存敬畏，安靜下來。
 

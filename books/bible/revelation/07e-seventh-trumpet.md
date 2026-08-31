@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 11:15-19
 
-**經文核對**：[ai-eden.com/bible/revelation/11](https://www.ai-eden.com/bible/revelation/11?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/11](https://www.ai-eden.com/bible/revelation/11?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七號吹到最後一聲，天上沒有再降下一個新的災禍，而是響起一句宣告：「世上的國成了我主和主基督的國；他要作王，直到永永遠遠。」這是全書的一個高峰——不是審判的高峰，而是掌權的高峰。二十四位長老立刻俯伏敬拜，不是因為看見了毀滅，而是因為看見了那早已屬於基督、如今被公開宣告的王權終於臨到。這節經文濃縮了啟示錄的核心信息：世界的歷史，無論表面上如何被列國、掌權者所左右，最終的主權，從創世以來就屬於那位「昔在、今在」的主和祂的基督。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Jesus Shall Reign Where'er the Sun**
+> *Isaac Watts, 1719 (from Psalm 72)*
+>
+> Jesus shall reign where'er the sun
+> Does his successive journeys run;
+> His kingdom stretch from shore to shore,
+> Till moons shall wax and wane no more.
+>
+> 日光所照之處，耶穌必掌權，
+> 日復一日運行不息；
+> 祂的國度從此岸到彼岸，
+> 直到月亮不再盈虧。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +44,11 @@ publisher: 三書精讀出版系統
 
 > ^19^當時，神天上的殿開了，在他殿中現出他的約櫃。隨後有閃電、聲音、雷轟、地震、大雹。
 
-### English — ESV
+### English — NASB
 
-> ^15^Then the seventh angel blew his trumpet, and there were loud voices in heaven, saying, "The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever." ^16^And the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God, ^17^saying, "We give thanks to you, Lord God Almighty, who is and who was, for you have taken your great power and begun to reign. ^18^The nations raged, but your wrath came, and the time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth."
+> ^15^Then the seventh angel sounded; and there were loud voices in heaven, saying, 'The kingdom of the world has become *the kingdom* of our Lord and of His Christ; and He will reign forever and ever.' ^16^And the twenty-four elders, who sit on their thrones before God, fell on their faces and worshiped God, ^17^saying, 'We give You thanks, O Lord God, the Almighty, who are and who were, because You have taken Your great power and have begun to reign. ^18^'And the nations were enraged, and Your wrath came, and the time *came* for the dead to be judged, and *the time* to reward Your bond-servants the prophets and the saints and those who fear Your name, the small and the great, and to destroy those who destroy the earth.'
 
-> ^19^Then God's temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail.
+> ^19^And the temple of God which is in heaven was opened; and the ark of His covenant appeared in His temple, and there were flashes of lightning and sounds and peals of thunder and an earthquake and a great hailstorm.
 
 ---
 
@@ -49,7 +67,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | βασιλεία | basileia | 國度、王權 | 「世上的國」原文為單數，暗示所有列國最終被視為一個整體，都歸屬於基督的王權之下 |
 | ἐβασίλευσας | ebasileusas | 執掌大權作王了 | 過去時態，表明這王權的開始不是未來才發生，而是已然確立的事實，此刻只是公開宣告 |
 | ὀργή | orgē | 忿怒 | 神聖公義的憤怒，區別於人的情緒性憤怒，指向對罪惡系統性的審判 |
@@ -63,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 基督的王權早已確立，末世只是公開彰顯 (Christ's Reign Is Already Established; the End Only Makes It Public)
 
@@ -83,12 +101,34 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 47:1-4
+
+> ^1^（可拉後裔的詩，交與伶長。）萬民哪，你們都要拍掌！要用誇勝的聲音向神呼喊！
+> ^2^因為耶和華至高者是可畏的；他是治理全地的大君王。
+> ^3^他叫萬民服在我們以下，又叫列邦服在我們腳下。
+> ^4^他為我們選擇產業，就是他所愛之雅各的榮耀。（細拉）
+
+「他是治理全地的大君王」——第七號吹響時天上大聲說「世上的國成了我主和主基督的國」(11:15)。詩篇 47 篇是提前唱出來的同一句話。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
 > 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
-### 宗教改革時期
+### 教父時期
+
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
+
+維克多林是現存最早的啟示錄拉丁文注釋的作者，他讀第七號的方式成了後世「重演論」(recapitulation) 解經的起點：第七號既已宣告「世上的國成了我主和主基督的國」，末了的結局就在此已經到達——因此他認為其後的碗災不是接續發生的新事件，而是同一終局審判從另一個角度的重述。無論讀者是否採納這個結構判斷，他抓住的重點是準確的：第七號吹響時，天上宣告的是終點，不是過程。
+
+> — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 11（大意整理，非逐字翻譯）
+
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -112,7 +152,35 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Come, Thou Almighty King
+
+*Anonymous, c. 1757*
+
+> Come, Thou almighty King,
+> Help us Thy name to sing,
+> Help us to praise:
+> Father all glorious,
+> O'er all victorious,
+> Come and reign over us, Ancient of Days.
+
+韓德爾把 11:15 譜成《哈利路亞大合唱》時，用的是完成式的語氣：不是「將要成為」，是「成了」。默想：天上宣告國度更替，用的是過去式；地上的爭戰卻還沒打完——這正是信心站立的位置。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**國度宣告用的是成就式**：麥克阿瑟指出 11:15 天上的大聲音不是展望而是宣告：「世上的國成了我主和主基督的國」——第七號涵蓋此後直到終局的全部內容，天上先用完成式把結局唱了出來。
+
+**「你的忿怒」與「你僕人的賞賜」並列**：11:18 把外邦的忿恨、神的忿怒、死人受審判、僕人得賞賜放在同一節裡——他提醒讀者：同一個日子，對兩種人是兩件事；審判與賞賜從來是同一次降臨的兩面。
+
+**約櫃顯現**：11:19 天上的殿開了，約櫃顯露——被擄以來從人間消失的約櫃，原來在天上。他讀作立約信實的宣言：神未曾一刻忘記他與百姓所立的約，第七號的終局正是守約的高峰。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：第七號的宣告 (Ask Elder Wong)
 
@@ -150,7 +218,7 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇2:6-8
 
-> 「我已經立我的君在錫安我的聖山上了。」…你求我，我就將列國賜你為基業，將地極賜你為田產。
+> 說：我已經立我的君在錫安─我的聖山上了。……你求我，我就將列國賜你為基業，將地極賜你為田產。
 
 詩篇2篇的古老應許，在啟示錄11:15完全應驗——那被列國抵擋的受膏者，終必得著列國為祂的基業。
 

@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 2:18-29
 
-**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 推雅推喇是七封書信中篇幅最長的一封，寫給七間教會中知名度最小、卻在某些方面最活躍的一間——她的「愛心、信心、勤勞、忍耐，又知道你末後所行的善事，比起初所行的更多」，是七間教會中唯一被稱讚「越來越好」的。然而，她卻容忍了一個自稱先知、被主直接點名為「耶洗別」的女人，引誘信徒行淫亂、吃祭偶像之物。基督在此顯現為「眼目如火燄、腳像光明銅的神之子」——這雙能洞察一切隱藏之事的眼目，正是要照透推雅推喇教會表面活躍下所掩蓋的容忍與敗壞。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Jesus, Thy Blood and Righteousness**
+> *Nikolaus L. von Zinzendorf, 1739; tr. John Wesley, 1740*
+>
+> Jesus, Thy blood and righteousness
+> My beauty are, my glorious dress;
+> 'Midst flaming worlds, in these arrayed,
+> With joy shall I lift up my head.
+>
+> 主耶穌，你的血與義，
+> 是我榮美，是我華服；
+> 世界烈火焚燒之日，
+> 我必披此坦然舉首。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^24^至於你們推雅推喇其餘的人，就是一切不從那教訓、不曉得他們素常所說撒但深奧之理的人，我告訴你們，我不將別的擔子放在你們身上。^25^但你們已經有的，總要持守，直等到我來。^26^那得勝又遵守我命令到底的，我要賜給他權柄制伏列國；^27^他必用鐵杖轄管（轄管：原文是牧）他們，將他們如同窯戶的瓦器打得粉碎，像我從我父領受的權柄一樣。^28^我又要把晨星賜給他。^29^聖靈向眾教會所說的話，凡有耳的，就應當聽！}」
 
-### English — ESV
+### English — NASB
 
-> ^18^"And to the angel of the church in Thyatira write: 'The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze. \jesus{^19^I know your works, your love and faith and service and patient endurance, and that your latter works exceed the first.
+> ^18^'And to the angel of the church in Thyatira write: The Son of God, who has eyes like a flame of fire, and His feet are like burnished bronze, says this: \jesus{ ^19^'I know your deeds, and your love and faith and service and perseverance, and that your deeds of late are greater than at first.
 
-> ^20^But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and seducing my servants to practice sexual immorality and to eat food sacrificed to idols. ^21^I gave her time to repent, but she refuses to repent of her sexual immorality. ^22^Behold, I will throw her onto a sickbed, and those who commit adultery with her I will throw into great tribulation, unless they repent of her works, ^23^and I will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works.
+> ^20^'But I have *this* against you, that you tolerate the woman Jezebel, who calls herself a prophetess, and she teaches and leads My bond-servants astray so that they commit *acts of* immorality and eat things sacrificed to idols. ^21^'I gave her time to repent, and she does not want to repent of her immorality. ^22^'Behold, I will throw her on a bed *of sickness*, and those who commit adultery with her into great tribulation, unless they repent of her deeds. ^23^'And I will kill her children with pestilence, and all the churches will know that I am He who searches the minds and hearts; and I will give to each one of you according to your deeds.
 
-> ^24^But to the rest of you in Thyatira, who do not hold this teaching, who have not learned what some call the deep things of Satan, to you I say, I do not lay on you any other burden. ^25^Only hold fast what you have until I come. ^26^The one who conquers and who keeps my works until the end, to him I will give authority over the nations, ^27^and he will rule them with a rod of iron, as when earthen pots are broken in pieces, even as I myself have received authority from my Father. ^28^And I will give him the morning star. ^29^He who has an ear, let him hear what the Spirit says to the churches.'}"
+> ^24^'But I say to you, the rest who are in Thyatira, who do not hold this teaching, who have not known the deep things of Satan, as they call them— I place no other burden on you. ^25^'Nevertheless what you have, hold fast until I come. ^26^'He who overcomes, and he who keeps My deeds until the end, TO HIM I WILL GIVE AUTHORITY OVER THE NATIONS; ^27^AND HE SHALL RULE THEM WITH A ROD OF IRON, AS THE VESSELS OF THE POTTER ARE BROKEN TO PIECES, as I also have received *authority* from My Father; ^28^and I will give him the morning star. ^29^'He who has an ear, let him hear what the Spirit says to the churches.'}
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ὁ υἱὸς τοῦ θεοῦ | ho huios tou theou | 神的兒子 | 18節，七封書信中唯一直接稱基督為「神的兒子」的一封 |
 | ὀφθαλμοὶ ὡς φλόγα πυρός | ophthalmoi hōs phloga pyros | 眼目如火焰 | 取自1:14，象徵洞察一切隱藏之事的能力 |
 | ἀφεῖς | aphiēmi（現在時） | 容讓、容忍 | 20節，強調教會消極的縱容而非主動的參與 |
@@ -68,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 「越來越好」也可能藏著致命的縱容
 
@@ -92,6 +110,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 26:1-3
+
+> ^1^（大衛的詩。）耶和華啊，求你為我伸冤，因我向來行事純全；我又倚靠耶和華，並不搖動。
+> ^2^耶和華啊，求你察看我，試驗我，熬煉我的肺腑心腸。
+> ^3^因為你的慈愛常在我眼前，我也按你的真理而行。
+
+推雅推喇的事工「後來的行為比起初所行的更多」，主卻說「我是那察看人肺腑心腸的」。詩人不怕被察看，反倒求神察看——這是容讓罪惡的教會最需要的膽量。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -99,7 +130,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在其註釋中將推雅推喇的耶洗別視為教會歷史中反覆出現的假教師原型——任何以屬靈權柄之名，引誘信徒與世界的偶像及道德敗壞妥協的聲音，都承接著這同一個屬靈的譜系；他特別提醒讀者留意23節「我是那察看人肺腑心腸的」這句宣告，強調基督審判的根據不是外在的言辭，而是內心真實的動機與行為。
 
@@ -129,7 +160,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Purer in Heart, O God
+
+*Fannie Estelle Davison, 1877*
+
+> Purer in heart, O God,
+> Help me to be;
+> May I devote my life
+> Wholly to Thee.
+
+推雅推喇的病不是懶惰，是寬容——愛心、信心、勤勞、忍耐都在，卻「容讓那自稱是先知的婦人耶洗別教導」。默想：一間教會可以事工興旺而同時容讓罪惡，因為忙碌最能遮蓋不聖潔。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**七封信中最長的一封，寫給最小的城**：麥克阿瑟指出這個反差——推雅推喇不過是個行會林立的商業小城，主卻用最長的篇幅處理它，因為「容讓耶洗別」的問題最深：不是缺乏愛心，而是把容忍罪惡誤當愛心。
+
+**行會筵席的現實壓力**：他描繪當時的處境：不加入行會就沒有生意，行會筵席就有偶像的祭物與淫亂——「耶洗別」的教訓正是為這種壓力提供神學藉口。經濟壓力至今仍是教會妥協最常見的入口。
+
+**「察看人肺腑心腸」的主**：向這間教會顯現的，是「眼目如火焰」的神子——事工可以越做越多（2:19），但主察看的深度直達肺腑；同時他也記念「其餘的人」，不再加給他們別的擔子（2:24）。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：推雅推喇教會 (Ask Elder Wong)
 

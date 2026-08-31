@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 14:14-20
 
-**經文核對**：[ai-eden.com/bible/revelation/14](https://www.ai-eden.com/bible/revelation/14?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/14](https://www.ai-eden.com/bible/revelation/14?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 三位天使的信息剛剛宣告完畢——永遠的福音、巴比倫的傾覆、拜獸者的警告——約翰的異象立刻轉向收割的畫面。雲上坐著的「好像人子」，頭戴金冠冕，手拿快鐮刀，這稱謂直接呼應啟示錄1:13約翰所見「好像人子」的那一位，也呼應但以理書7:13-14「有一位像人子的，駕著天雲而來」。收割與踹酒醡，不是兩個獨立的意象，而是同一位掌管歷史的主，用兩幅圖畫宣告同一件事：祂決定收割的時候，也決定審判的分量。這一段沒有記載祂說一句話，只記載祂「把鐮刀扔在地上」——動作本身就是宣告，比言語更直接。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Come, Ye Thankful People, Come**
+> *Henry Alford, 1844*
+>
+> Come, ye thankful people, come,
+> Raise the song of harvest home;
+> All is safely gathered in,
+> Ere the winter storms begin.
+>
+> 感恩的群眾，都來吧，
+> 高唱收成歸家之歌；
+> 一切都已安然收聚，
+> 在冬日風暴來臨之前。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +44,11 @@ publisher: 三書精讀出版系統
 
 > ^17^又有一位天使從天上的殿中出來，他也拿著快鐮刀。^18^又有一位天使從祭壇中出來，是有權柄管火的，向拿著快鐮刀的大聲喊著說：「伸出快鐮刀來，收取地上葡萄樹的果子，因為葡萄熟透了！」^19^那天使就把鐮刀扔在地上，收取了地上的葡萄，丟在神忿怒的大酒醡中。^20^那酒醡踹在城外，就有血從酒醡裡流出來，高到馬的嚼環，遠有六百里。
 
-### English — ESV
+### English — NASB
 
-> ^14^Then I looked, and behold, a white cloud, and seated on the cloud one like a son of man, with a golden crown on his head, and a sharp sickle in his hand. ^15^And another angel came out of the temple, calling with a loud voice to him who sat on the cloud, "Put in your sickle, and reap, for the hour to reap has come, for the harvest of the earth is fully ripe." ^16^So he who sat on the cloud swung his sickle across the earth, and the earth was reaped.
+> ^14^Then I looked, and behold, a white cloud, and sitting on the cloud *was* one like a son of man, having a golden crown on His head and a sharp sickle in His hand. ^15^And another angel came out of the temple, crying out with a loud voice to Him who sat on the cloud, 'Put in your sickle and reap, for the hour to reap has come, because the harvest of the earth is ripe.' ^16^Then He who sat on the cloud swung His sickle over the earth, and the earth was reaped.
 
-> ^17^Then another angel came out of the temple in heaven, and he too had a sharp sickle. ^18^And another angel came out from the altar, the angel who has authority over the fire, and he called with a loud voice to the one who had the sharp sickle, "Put in your sickle and gather the clusters from the vine of the earth, for its grapes are ripe." ^19^So the angel swung his sickle across the earth and gathered the grape harvest of the earth and threw it into the great winepress of the wrath of God. ^20^And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse's bridle, for 1,600 stadia.
+> ^17^And another angel came out of the temple which is in heaven, and he also had a sharp sickle. ^18^Then another angel, the one who has power over fire, came out from the altar; and he called with a loud voice to him who had the sharp sickle, saying, 'Put in your sharp sickle and gather the clusters from the vine of the earth, because her grapes are ripe.' ^19^So the angel swung his sickle to the earth and gathered *the clusters from* the vine of the earth, and threw them into the great wine press of the wrath of God. ^20^And the wine press was trodden outside the city, and blood came out from the wine press, up to the horses' bridles, for a distance of two hundred miles.
 
 ---
 
@@ -49,7 +67,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | θερισμός | therismos | 收割 | 呼應太13:39「收割的時候就是世界的末了」 |
 | δρέπανον | drepanon | 鐮刀 | 本段出現7次，是整段的核心器具 |
 | ἐξηράνθη | xēranō (完成式) | 熟透了、乾透了 | 直譯「已經枯乾」，指穀物完全成熟可收 |
@@ -64,7 +82,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 莊稼已經熟透——審判有它的時候 (The Harvest Has Its Appointed Hour)
 
@@ -83,6 +101,20 @@ publisher: 三書精讀出版系統
 坐在雲上、頭戴金冠冕、手拿快鐮刀的「好像人子」，正是1:13、1:18等處已經向約翰顯現、曾說「我曾死過，現在又活了」的那一位基督。祂不是站在審判之外的旁觀者，而是曾親自承受十字架審判的那一位，如今執行最終的審判。這一點正是啟示錄基督論的核心：被殺的羔羊與掌權的審判者，是同一位。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 1:3-6
+
+> ^3^他要像一棵樹栽在溪水旁，按時候結果子，葉子也不枯乾。凡他所做的盡都順利。
+> ^4^惡人並不是這樣，乃像糠秕被風吹散。
+> ^5^因此，當審判的時候惡人必站立不住；罪人在義人的會中也是如此。
+> ^6^因為耶和華知道義人的道路；惡人的道路卻必滅亡。
+
+「惡人並不是這樣，乃像糠秕被風吹散」——詩篇第 1 篇的兩條路，在 14:14-20 走到終點：一個是莊稼被收進倉，一個是葡萄被扔進酒醡。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -121,7 +153,35 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Almost Persuaded
+
+*Philip P. Bliss, 1871*
+
+> 'Almost persuaded' now to believe;
+> 'Almost persuaded' Christ to receive;
+> Seems now some soul to say,
+> 'Go, Spirit, go Thy way,
+> Some more convenient day
+> On Thee I'll call.'
+
+收割的比喻裡最沉重的字是「熟了」(14:15, 18)——莊稼熟了要收，葡萄熟透了也要收。默想：兩種成熟，兩個結局；今天還不是收割的日子，正是恩典的日子。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**兩場收割，一位人子**：麥克阿瑟區分 14:14-16 的莊稼與 14:17-20 的葡萄：前者是聚攏，後者是踹踏——同一位「好像人子」的主，對兩種人執行兩種收成；約3:16 與 14:19 出自同一位神，這是現代人最不肯接受、聖經卻從不迴避的並列。
+
+**「熟了」是時間表的關鍵詞**：天使喊「伸出鐮刀來收割，因為收割的時候已經到了，地上的莊稼已經熟透了」——他強調審判從不提前也不延誤；今日審判未到，不是神遲延，是果子未熟、恩典還在等（彼後3:9）。
+
+**酒醡在城外被踹**：14:20「那酒醡踹在城外」——他提醒讀者，另一位也曾「在城外」受難（來13:12）：各各他在城外流的血是為救人，酒醡在城外流的血是為審判；拒絕前者的人，終要面對後者。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：收割與酒醡 (Ask Elder Wong)
 

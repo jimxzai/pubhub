@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 12:1-17
 
-**經文核對**：[ai-eden.com/bible/revelation/12](https://www.ai-eden.com/bible/revelation/12?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/12](https://www.ai-eden.com/bible/revelation/12?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 啟示錄的敘事在此轉入全書的核心戰場——不是列國之間的戰爭，而是貫穿整本聖經、從創世記3:15就已宣告的那場更深的爭戰：女人的後裔與蛇之間的爭戰。婦人生了一個「將來要用鐵杖轄管萬國」的男孩子（引自詩篇2:9），龍立刻要吞吃這孩子——但孩子「被提到神寶座那裡去了」。這短短一句話，濃縮了基督降生、受死、復活、升天的整個救贖工程：仇敵想要毀滅祂，卻無法阻止祂完成救贖、登上寶座。這一章告訴我們：世界歷史真正的主軸，從來不是帝國興衰，而是這位曾被試圖吞吃、如今已坐在寶座上的基督，與那條古蛇之間的爭戰——而這場爭戰，早已在十字架上決定了結局。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Christian, Dost Thou See Them**
+> *Andrew of Crete (c. 660-732); tr. John Mason Neale, 1862*
+>
+> Christian, dost thou see them
+> On the holy ground,
+> How the powers of darkness
+> Rage thy steps around?
+>
+> 基督徒，你可看見
+> 在這聖潔的地上，
+> 黑暗的權勢如何
+> 環繞你的腳步狂怒？
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^13^龍見自己被摔在地上，就逼迫那生男孩子的婦人。^14^於是有大鷹的兩個翅膀賜給婦人，叫他能飛到曠野，到自己的地方，躲避那蛇；他在那裡被養活一載二載半載。^15^蛇就在婦人身後，從口中吐出水來，像河一樣，要將婦人沖去。^16^地卻幫助婦人，開口吞了從龍口吐出來的水（原文作河）。^17^龍向婦人發怒，去與他其餘的兒女爭戰，這兒女就是那守神誡命、為耶穌作見證的。那時龍就站在海邊的沙上。
 
-### English — ESV
+### English — NASB
 
-> ^1^And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars. ^2^She was pregnant and was crying out in birth pains and the agony of giving birth. ^3^And another sign appeared in heaven: behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems. ^4^His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it. ^5^She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne, ^6^and the woman fled into the wilderness, where she has a place prepared by God, in which she is to be nourished for 1,260 days.
+> ^1^A great sign appeared in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars; ^2^and she was with child; and she cried out, being in labor and in pain to give birth. ^3^Then another sign appeared in heaven: and behold, a great red dragon having seven heads and ten horns, and on his heads *were* seven diadems. ^4^And his tail swept away a third of the stars of heaven and threw them to the earth. And the dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child. ^5^And she gave birth to a son, a male *child*, who is to rule all the nations with a rod of iron; and her child was caught up to God and to His throne. ^6^Then the woman fled into the wilderness where she had a place prepared by God, so that there she would be nourished for one thousand two hundred and sixty days.
 
-> ^7^Now war arose in heaven, Michael and his angels fighting against the dragon. And the dragon and his angels fought back, ^8^but he was defeated, and there was no longer any place for them in heaven. ^9^And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world—he was thrown down to the earth, and his angels were thrown down with him. ^10^And I heard a loud voice in heaven, saying, "Now the salvation and the power and the kingdom of our God and the authority of his Christ have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our God. ^11^And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death. ^12^Therefore, rejoice, O heavens and you who dwell in them! But woe to you, O earth and sea, for the devil has come down to you in great wrath, because he knows that his time is short!"
+> ^7^And there was war in heaven, Michael and his angels waging war with the dragon. The dragon and his angels waged war, ^8^and they were not strong enough, and there was no longer a place found for them in heaven. ^9^And the great dragon was thrown down, the serpent of old who is called the devil and Satan, who deceives the whole world; he was thrown down to the earth, and his angels were thrown down with him. ^10^Then I heard a loud voice in heaven, saying, 'Now the salvation, and the power, and the kingdom of our God and the authority of His Christ have come, for the accuser of our brethren has been thrown down, he who accuses them before our God day and night. ^11^'And they overcame him because of the blood of the Lamb and because of the word of their testimony, and they did not love their life even when faced with death. ^12^'For this reason, rejoice, O heavens and you who dwell in them. Woe to the earth and the sea, because the devil has come down to you, having great wrath, knowing that he has *only* a short time.'
 
-> ^13^And when the dragon saw that he had been thrown down to the earth, he pursued the woman who had given birth to the male child. ^14^But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness, to the place where she is to be nourished for a time, and times, and half a time. ^15^The serpent poured water like a river out of his mouth after the woman, to sweep her away with a flood. ^16^But the earth came to the help of the woman, and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth. ^17^Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of God and hold to the testimony of Jesus. And he stood on the sand of the sea.
+> ^13^And when the dragon saw that he was thrown down to the earth, he persecuted the woman who gave birth to the male *child*. ^14^But the two wings of the great eagle were given to the woman, so that she could fly into the wilderness to her place, where she was nourished for a time and times and half a time, from the presence of the serpent. ^15^And the serpent poured water like a river out of his mouth after the woman, so that he might cause her to be swept away with the flood. ^16^But the earth helped the woman, and the earth opened its mouth and drank up the river which the dragon poured out of his mouth. ^17^So the dragon was enraged with the woman, and went off to make war with the rest of her children, who keep the commandments of God and hold to the testimony of Jesus.
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | σημεῖον | sēmeion | 異象、神蹟、記號 | 婦人與龍都被稱為「異象」（原文同一詞），強調這是屬靈實體的象徵性揭示 |
 | δράκων | drakōn | 龍 | 啟示錄中撒但的稱號，出現13次，全部集中在12-20章 |
 | ὄφις ἀρχαῖος | ophis archaios | 古蛇 | 直接連結創世記3章的蛇，確認撒但的身分與歷史根源 |
@@ -67,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 撒但已經在十字架上被擊敗 (Satan Has Already Been Defeated at the Cross)
 
@@ -87,6 +105,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 74:12-14
+
+> ^12^神自古以來為我的王，在地上施行拯救。
+> ^13^你曾用能力將海分開，將水中大魚的頭打破。
+> ^14^你曾砸碎鱷魚的頭，把他給曠野的禽獸（禽獸：原文是民）為食物。
+
+「你曾砸碎鱷魚的頭」——第 12 章的大紅龍不是新出現的仇敵，是那條古蛇；而牠的頭，在創世記 3:15 就已經被判定要被傷。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -94,7 +125,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐將這條「古蛇」與創世記3章的蛇直接連結，論證撒但從伊甸園開始、貫穿整個救贖歷史，始終是那同一個敵對神計劃的靈體，而基督降生受死正是要應驗創世記3:15「女人的後裔要傷蛇的頭」這個最早的救贖應許。
 
@@ -106,7 +137,7 @@ publisher: 三書精讀出版系統
 
 > — 此讀法屬奧古斯丁《上帝之城》教會論一貫立場的延伸應用，並非逐章直引的原文出處
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -130,7 +161,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Soldiers of Christ, Arise
+
+*Charles Wesley, 1749*
+
+> Soldiers of Christ, arise,
+> And put your armor on,
+> Strong in the strength which God supplies
+> Through His eternal Son.
+
+12:11 說得勝有三樣憑據：羔羊的血、自己所見證的道、不愛惜性命至於死。默想：這三樣沒有一樣是能力，全是倚靠與擺上——爭戰得勝的方式，與世界所知道的完全相反。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**婦人是以色列**：麥克阿瑟按 12:1 的日、月、十二星（創37:9-10 約瑟的夢）把婦人斷為以色列——生下男孩子的是這個民族（羅9:5），隨後被龍追殺、在曠野蒙保守的也是她；把婦人讀作教會，會使整章的敘事錯位。
+
+**戰爭其實環繞一個嬰孩**：從 12:4 龍蹲在婦人面前等著吞吃孩子，他把整部舊約讀成一場漫長的暗殺行動——從該隱、法老殺男嬰到希律屠伯利恆，都是創3:15 那場古老敵意的展開；而孩子已「被提到神寶座那裡去了」——刺殺失敗了。
+
+**控告者被摔下來**：12:10 撒但的頭銜是「在我們神面前晝夜控告我們弟兄的」。他指出信徒得勝的依據在 12:11 排第一的是「羔羊的血」——血使一切控告失去案由；不明白這一點的信徒，會一生活在已被駁回的控告之下。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：婦人與龍 (Ask Elder Wong)
 

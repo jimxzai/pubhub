@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 15:1-8
 
-**經文核對**：[ai-eden.com/bible/revelation/15](https://www.ai-eden.com/bible/revelation/15?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/15](https://www.ai-eden.com/bible/revelation/15?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 在七碗傾倒之前，約翰先看見一幅出人意料的畫面：不是憤怒的天使，而是站在玻璃海上、拿著神的琴、歡唱「摩西的歌和羔羊的歌」的得勝者。審判即將臨到地上，天上卻先響起敬拜的詩歌——這個次序本身就是一篇無聲的講道：神的百姓看見的，永遠先是神自己的榮耀與公義，然後才是審判的執行。羔羊的名字與摩西的名字並列在同一首歌裡，宣告出埃及的拯救與各各他的救贖，本是同一位神、同一個計劃、同一場得勝。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The Lord Is King! Lift Up Thy Voice**
+> *Josiah Conder, 1836*
+>
+> The Lord is King! lift up thy voice,
+> O earth, and all ye heavens, rejoice;
+> From world to world the joy shall ring:
+> 'The Lord omnipotent is King!'
+>
+> 主是王！揚起你的聲音，
+> 地啊，諸天啊，都當歡欣；
+> 喜樂要從這世界傳到那世界：
+> 「全能的主作王了！」
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^5^此後，我看見在天上那存法櫃的殿開了。^6^那掌管七災的七位天使從殿中出來，穿著潔白光明的細麻衣（細麻衣；有古卷是寶石），胸間束著金帶。^7^四活物中有一個把盛滿了活到永永遠遠之神大怒的七個金碗給了那七位天使。^8^因神的榮耀和能力，殿中充滿了煙。於是沒有人能以進殿，直等到那七位天使所降的七災完畢了。
 
-### English — ESV
+### English — NASB
 
-> ^1^Then I saw another sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of God is finished.
+> ^1^Then I saw another sign in heaven, great and marvelous, seven angels who had seven plagues, *which are* the last, because in them the wrath of God is finished.
 
-> ^2^And I saw what appeared to be a sea of glass mingled with fire—and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands. ^3^And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, "Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations! ^4^Who will not fear, O Lord, and glorify your name? For you alone are holy. All nations will come and worship you, for your righteous acts have been revealed."
+> ^2^And I saw something like a sea of glass mixed with fire, and those who had been victorious over the beast and his image and the number of his name, standing on the sea of glass, holding harps of God. ^3^And they sang the song of Moses, the bond-servant of God, and the song of the Lamb, saying, 'Great and marvelous are Your works, O Lord God, the Almighty; Righteous and true are Your ways, King of the nations! ^4^'Who will not fear, O Lord, and glorify Your name? For You alone are holy; For ALL THE NATIONS WILL COME AND WORSHIP BEFORE YOU, FOR YOUR RIGHTEOUS ACTS HAVE BEEN REVEALED.'
 
-> ^5^After this I looked, and the sanctuary of the tent of witness in heaven was opened, ^6^and out of the sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, with golden sashes around their chests. ^7^And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever, ^8^and the sanctuary was filled with smoke from the glory of God and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished.
+> ^5^After these things I looked, and the temple of the tabernacle of testimony in heaven was opened, ^6^and the seven angels who had the seven plagues came out of the temple, clothed in linen, clean *and* bright, and girded around their chests with golden sashes. ^7^Then one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever. ^8^And the temple was filled with smoke from the glory of God and from His power; and no one was able to enter the temple until the seven plagues of the seven angels were finished.
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | σημεῖον | sēmeion | 異象、神蹟、記號 | 與12:1「大異象」同詞，標誌重大啟示的開端 |
 | πληγή | plēgē | 災難、災殃 | 本段「七災」，14-16章反覆出現的核心詞 |
 | ἐτελέσθη | teleō (完成式被動) | 完畢、發盡 | 「神的大怒在這七災中發盡了」，強調終結性，此後再無更多憤怒 |
@@ -68,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 敬拜先於審判——得勝者已經站在得勝的位置上 (Worship Precedes Judgment — the Overcomers Already Stand in Victory)
 
@@ -88,6 +106,20 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 145:10-13
+
+> ^10^耶和華啊，你一切所造的都要稱謝你；你的聖民也要稱頌你，
+> ^11^傳說你國的榮耀，談論你的大能，
+> ^12^好叫世人知道你大能的作為，並你國度威嚴的榮耀。
+> ^13^你的國是永遠的國！你執掌的權柄存到萬代！
+
+「你的國是永遠的國」——站在玻璃海上的得勝者唱摩西的歌和羔羊的歌（15:3），內容正是詩篇 145 篇的內容：祂的作為、祂的公義、祂的國。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -103,7 +135,7 @@ publisher: 三書精讀出版系統
 
 ### 改革宗時期
 
-**海因里希·布靈格 (Heinrich Bullinger, 1504-1575)**：
+**布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在他關於啟示錄的百篇講道中，特別強調15章得勝者「站在玻璃海上」而非「行走在海中」的細節，認為這象徵信徒已經越過一切試煉的水域，站在穩固不動的得勝之地——這與以色列人過紅海站在對岸歌唱的畫面完全呼應，教導信徒現今的患難終必成為歌頌的材料。
 
@@ -125,7 +157,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Holy God, We Praise Thy Name
+
+*Attr. Ignaz Franz, c. 1771; tr. Clarence A. Walworth, 1858 (Te Deum)*
+
+> Holy God, we praise Thy name;
+> Lord of all, we bow before Thee!
+> All on earth Thy scepter claim,
+> All in heaven above adore Thee.
+
+15:4「萬民都要來在你面前敬拜，因你公義的作為已經顯出來了」。默想：得勝者站在玻璃海上唱歌，手裡拿的是神的琴——他們勝過獸，卻沒有一句歌詞提到獸；得勝者的歌只唱那位使他們得勝的。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**玻璃海上的得勝者**：麥克阿瑟指出 15:2 站在玻璃海上的，是「勝了獸和獸的像」的人——在地上的帳目裡他們是被獸殺害的失敗者，在天上的帳目裡他們是得勝者拿著神的琴；兩本帳，只有一本算數。
+
+**摩西的歌和羔羊的歌**：15:3 把出埃及的得勝之歌與羔羊的救贖之歌並題——他讀作救恩歷史的首尾呼應：紅海邊唱的與玻璃海上唱的是同一位神的作為，歌詞的焦點全在神的公義與作為，沒有一句歌頌唱歌的人自己。
+
+**煙充滿了殿，無人能進**：15:8 神的榮耀與能力成煙充滿聖殿，「於是沒有人能以進殿，直等到七位天使所降的七災完畢了」。他讀出其中的嚴肅：最後的審判期間，代求的門暫時關閉——恩典的日子有終點，這正是今日傳福音急迫性的根據。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：站在玻璃海上的敬拜 (Ask Elder Wong)
 

@@ -10,13 +10,39 @@ publisher: 三書精讀出版系統
 
 啟示錄 21:9-22:5
 
-**經文核對**：[ai-eden.com/bible/revelation/21](https://www.ai-eden.com/bible/revelation/21?t=CUV,ESV&cols=2) ／ [ai-eden.com/bible/revelation/22](https://www.ai-eden.com/bible/revelation/22?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/21](https://www.ai-eden.com/bible/revelation/21?t=CUV,NASB&cols=2) ／ [ai-eden.com/bible/revelation/22](https://www.ai-eden.com/bible/revelation/22?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 一位拿着七碗災殃的天使，如今換了一個角色：「你到這裡來，我要將新婦，就是羔羊的妻，指給你看」（21:9）。同一位天使，曾指給約翰看那騎在獸上的大淫婦（17:1），如今用幾乎一模一樣的句式，指給他看羔羊的新婦——這不是巧合，而是全書刻意的對照：兩座城、兩個女人、兩種結局，最終都要收束在一個問題上：你屬於哪一座城？新耶路撒冷的一切榮美——碧玉城牆、精金街道、十二根基、常開的城門——最終都指向一個中心：「我未見城內有殿，因主神─全能者和羔羊為城的殿」（21:22）。這座城沒有殿，因為整座城本身就是至聖所；沒有日月，因為羔羊自己就是燈。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Jerusalem the Golden**
+> *Bernard of Cluny (12th c.); tr. John Mason Neale, 1858*
+>
+> Jerusalem the golden,
+> With milk and honey blest,
+> Beneath thy contemplation
+> Sink heart and voice oppressed.
+> I know not, O I know not,
+> What joys await us there,
+> What radiancy of glory,
+> What bliss beyond compare.
+>
+> 金色的耶路撒冷，
+> 奶與蜜所祝福之地，
+> 每逢默想你的榮美，
+> 壓傷的心與聲俱沉。
+> 我不知道，啊，我不知道
+> 何等喜樂在那裡等候，
+> 何等燦爛的榮光，
+> 何等無可比擬的福分。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -30,15 +56,15 @@ publisher: 三書精讀出版系統
 
 > ^1^天使又指示我在城內街道當中一道生命水的河，明亮如水晶，從神和羔羊的寶座流出來。^2^在河這邊與那邊有生命樹，結十二樣（或作：回）果子，每月都結果子；樹上的葉子乃為醫治萬民。^3^以後再沒有咒詛；在城裡有神和羔羊的寶座；他的僕人都要事奉他，^4^也要見他的面。他的名字必寫在他們的額上。^5^不再有黑夜；他們也不用燈光、日光，因為主神要光照他們。他們要作王，直到永永遠遠。
 
-### English — ESV
+### English — NASB
 
-> ^9^Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me, saying, "Come, I will show you the Bride, the wife of the Lamb." ^10^And he carried me away in the Spirit to a great, high mountain, and showed me the holy city Jerusalem coming down out of heaven from God, ^11^having the glory of God, its radiance like a most rare jewel, like a jasper, clear as crystal. ^12^It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were inscribed— ^13^on the east three gates, on the north three gates, on the south three gates, and on the west three gates. ^14^And the wall of the city had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb.
+> ^9^Then one of the seven angels who had the seven bowls full of the seven last plagues came and spoke with me, saying, 'Come here, I will show you the bride, the wife of the Lamb.' ^10^And he carried me away in the Spirit to a great and high mountain, and showed me the holy city, Jerusalem, coming down out of heaven from God, ^11^having the glory of God. Her brilliance was like a very costly stone, as a stone of crystal-clear jasper. ^12^It had a great and high wall, with twelve gates, and at the gates twelve angels; and names *were* written on them, which are *the names* of the twelve tribes of the sons of Israel. ^13^*There were* three gates on the east and three gates on the north and three gates on the south and three gates on the west. ^14^And the wall of the city had twelve foundation stones, and on them *were* the twelve names of the twelve apostles of the Lamb.
 
-> ^15^And the one who spoke with me had a measuring rod of gold to measure the city and its gates and walls. ^16^The city lies foursquare, its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal. ^17^He also measured its wall, 144 cubits by human measurement, which is also an angel's measurement. ^18^The wall was built of jasper, while the city was pure gold, like clear glass. ^19^The foundations of the wall of the city were adorned with every kind of jewel. The first was jasper, the second sapphire, the third agate, the fourth emerald, ^20^the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst. ^21^And the twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, like transparent glass.
+> ^15^The one who spoke with me had a gold measuring rod to measure the city, and its gates and its wall. ^16^The city is laid out as a square, and its length is as great as the width; and he measured the city with the rod, fifteen hundred miles; its length and width and height are equal. ^17^And he measured its wall, seventy-two yards, *according to* human measurements, which are *also* angelic *measurements*. ^18^The material of the wall was jasper; and the city was pure gold, like clear glass. ^19^The foundation stones of the city wall were adorned with every kind of precious stone. The first foundation stone was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald; ^20^the fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; the twelfth, amethyst. ^21^And the twelve gates were twelve pearls; each one of the gates was a single pearl. And the street of the city was pure gold, like transparent glass.
 
-> ^22^And I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb. ^23^And the city has no need of sun or moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb. ^24^By its light will the nations walk, and the kings of the earth will bring their glory into it, ^25^and its gates will never be shut by day—and there will be no night there. ^26^They will bring into it the glory and the honor of the nations. ^27^But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb's book of life.
+> ^22^I saw no temple in it, for the Lord God the Almighty and the Lamb are its temple. ^23^And the city has no need of the sun or of the moon to shine on it, for the glory of God has illumined it, and its lamp *is* the Lamb. ^24^The nations will walk by its light, and the kings of the earth will bring their glory into it. ^25^In the daytime (for there will be no night there) its gates will never be closed; ^26^and they will bring the glory and the honor of the nations into it; ^27^and nothing unclean, and no one who practices abomination and lying, shall ever come into it, but only those whose names are written in the Lamb's book of life.
 
-> ^1^Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb ^2^through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations. ^3^No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him. ^4^They will see his face, and his name will be on their foreheads. ^5^And night will be no more. They will need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever.
+> ^1^Then he showed me a river of the water of life, clear as crystal, coming from the throne of God and of the Lamb, ^2^in the middle of its street. On either side of the river was the tree of life, bearing twelve *kinds of* fruit, yielding its fruit every month; and the leaves of the tree were for the healing of the nations. ^3^There will no longer be any curse; and the throne of God and of the Lamb will be in it, and His bond-servants will serve Him; ^4^they will see His face, and His name *will be* on their foreheads. ^5^And there will no longer be *any* night; and they will not have need of the light of a lamp nor the light of the sun, because the Lord God will illumine them; and they will reign forever and ever.
 
 ---
 
@@ -57,7 +83,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | νύμφη | nymphē | 新婦、新娘 | 21:9，與19:7「羔羊的婚娶」呼應，是全書婚姻意象的最終畫面 |
 | τετράγωνος | tetragōnos | 四方的 | 21:16，呼應出埃及記至聖所與王上6:20所羅門聖殿至聖所的立方體結構 |
 | ἴασπις | iaspis | 碧玉 | 21:11, 18-19，也是4:3描述神自己顯現時的寶石，全城因此分享神榮耀的光輝 |
@@ -71,7 +97,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 兩座城、兩個女人的最終對照 (Two Cities, Two Women — The Final Contrast)
 
@@ -95,6 +121,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 36:7-9
+
+> ^7^神啊，你的慈愛何其寶貴！世人投靠在你翅膀的蔭下。
+> ^8^他們必因你殿裡的肥甘得以飽足；你也必叫他們喝你樂河的水。
+> ^9^因為，在你那裡有生命的源頭；在你的光中，我們必得見光。
+
+「在你那裡有生命的源頭；在你的光中，我們必得見光」——新耶路撒冷「不用日月光照，因有神的榮耀光照，又有羔羊為城的燈」(21:23)，生命水的河從寶座流出（22:1）。詩人以比喻說的，那城按字面成就。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -102,7 +141,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在現存最早的啟示錄注釋中論到新耶路撒冷的十二根基與十二使徒的名字時指出，這座城的根基「不是石頭，而是使徒所傳、以基督為中心的信仰本身」——城牆的堅固，象徵的是這信仰傳承的堅固不移。
 
@@ -114,7 +153,7 @@ publisher: 三書精讀出版系統
 
 > — Augustine, *City of God*, Book XXII, Ch. 29 (trans. Marcus Dods)
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -138,7 +177,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### For All the Saints
+
+*William Walsham How, 1864*
+
+> But lo! there breaks a yet more glorious day;
+> The saints triumphant rise in bright array;
+> The King of glory passes on His way.
+> Alleluia, Alleluia!
+
+城的十二根基上有使徒的名字，十二個門上有以色列支派的名字（21:12-14）——舊約與新約的百姓合成一城。默想：城中沒有殿，「主神──全能者和羔羊為城的殿」(21:22)；一切聖所本是指向祂的路標，如今到了祂面前，路標就功成身退。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**一座真實的城**：麥克阿瑟按字面讀新耶路撒冷：有量度（21:16-17）、有根基、有城牆、有街道——主說「我去原是為你們預備地方」（約14:2），預備的是地方，不是氣氛；信徒的盼望具體到有城可進、有名可查。
+
+**城裡沒有的東西**：沒有殿（主神和羔羊就是殿）、不用日月（神的榮耀光照）、城門不關（不再有威脅）、沒有咒詛——他指出 21-22 章的筆法與 21:4 一致：用「沒有」寫「圓滿」，一切中介與防衛都功成身退，因為神自己在城中。
+
+**羔羊是燈**：21:23「羔羊為城的燈」——十字架上被殺的羔羊，成了永恆之城的光源。他總結：新耶路撒冷最大的榮耀不是精金與碧玉，而是 22:4「他們要見他的面」——歷代聖徒求而不得的（出33:20），成了城中居民的日常。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：沒有殿的城 (Ask Elder Wong)
 
@@ -176,7 +241,7 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇 87:1-3
 
-> 耶和華所立的根基在聖山上。他愛錫安的門勝過愛雅各一切的住處。神的城啊，有榮耀的事乃指着你說的。細拉
+> 耶和華所立的根基在聖山上。他愛錫安的門，勝於愛雅各一切的住處。神的城啊，有榮耀的事乃指著你說的。（細拉）
 
 大衛家的詩人對錫安城的頌讚，早已預表了新耶路撒冷這座「神所立根基」之城的終極榮耀——地上的錫安城，是天上新耶路撒冷的影兒。
 

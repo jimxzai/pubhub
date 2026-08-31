@@ -10,13 +10,39 @@ publisher: 三書精讀出版系統
 
 啟示錄 22:6-21
 
-**經文核對**：[ai-eden.com/bible/revelation/22](https://www.ai-eden.com/bible/revelation/22?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/22](https://www.ai-eden.com/bible/revelation/22?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 異象結束了，但啟示錄沒有以平靜的畫面收尾，而是以一連串急切的呼聲作結：「看哪，我必快來！」——這句話在短短十六節裡出現三次（7, 12, 20節）。說話的那一位，此刻不再隱藏在異象的象徵背後，直接自稱其名：「我─耶穌差遣我的使者……我是大衛的根，又是他的後裔。我是明亮的晨星」（16節）。全書開篇是「耶穌基督的啟示」（1:1），全書結尾是耶穌親口的應許與邀請；中間所有的異象、審判、榮耀，最終都收束成一句對話——祂說「是了，我必快來」，教會回應「阿們！主耶穌阿，我願你來」（20節）。這是整本聖經、也是每一位信徒此刻仍在說出的禱告。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The Sands of Time Are Sinking**
+> *Anne R. Cousin, 1857 (after Samuel Rutherford)*
+>
+> The sands of time are sinking,
+> The dawn of heaven breaks;
+> The summer morn I've sighed for—
+> The fair, sweet morn awakes:
+> Dark, dark hath been the midnight,
+> But dayspring is at hand,
+> And glory, glory dwelleth
+> In Immanuel's land.
+>
+> 時間的沙漏將盡，
+> 天上的黎明破曉；
+> 我長久歎望的夏晨——
+> 那美好清晨已醒來：
+> 子夜曾何等黑暗，
+> 但晨光已在手邊，
+> 榮耀啊，榮耀居住
+> 在以馬內利之地。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -34,19 +60,19 @@ publisher: 三書精讀出版系統
 
 > ^20^證明這事的說：\jesus{「是了，我必快來！」}阿們！主耶穌阿，我願你來！^21^願主耶穌的恩惠常與眾聖徒同在。阿們！
 
-### English — ESV
+### English — NASB
 
-> ^6^And he said to me, "These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place." ^7^\jesus{"And behold, I am coming soon. Blessed is the one who keeps the words of the prophecy of this book."}
+> ^6^And he said to me, 'These words are faithful and true'; and the Lord, the God of the spirits of the prophets, sent His angel to show to His bond-servants the things which must soon take place. \jesus{^7^'And behold, I am coming quickly. Blessed is he who heeds the words of the prophecy of this book.'}
 
-> ^8^I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me, ^9^but he said to me, "You must not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God." ^10^And he said to me, "Do not seal up the words of the prophecy of this book, for the time is near. ^11^Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy."
+> ^8^I, John, am the one who heard and saw these things. And when I heard and saw, I fell down to worship at the feet of the angel who showed me these things. ^9^But he said to me, 'Do not do that. I am a fellow servant of yours and of your brethren the prophets and of those who heed the words of this book. Worship God.' ^10^And he said to me, 'Do not seal up the words of the prophecy of this book, for the time is near. ^11^'Let the one who does wrong, still do wrong; and the one who is filthy, still be filthy; and let the one who is righteous, still practice righteousness; and the one who is holy, still keep himself holy.'
 
-> ^12^\jesus{"Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done. ^13^I am the Alpha and the Omega, the first and the last, the beginning and the end."} ^14^Blessed are those who wash their robes, so that they may have the right to the tree of life and that they may enter the city by the gates. ^15^Outside are the dogs and sorcerers and the sexually immoral and murderers and idolaters, and everyone who loves and practices falsehood.
+> \jesus{^12^'Behold, I am coming quickly, and My reward *is* with Me, to render to every man according to what he has done. ^13^'I am the Alpha and the Omega, the first and the last, the beginning and the end.'} ^14^Blessed are those who wash their robes, so that they may have the right to the tree of life, and may enter by the gates into the city. ^15^Outside are the dogs and the sorcerers and the immoral persons and the murderers and the idolaters, and everyone who loves and practices lying.
 
-> ^16^\jesus{"I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star."} ^17^The Spirit and the Bride say, "Come." And let the one who hears say, "Come." And let the one who is thirsty come; let the one who desires take the water of life without price.
+> \jesus{^16^'I, Jesus, have sent My angel to testify to you these things for the churches. I am the root and the descendant of David, the bright morning star.'} ^17^The Spirit and the bride say, 'Come.' And let the one who hears say, 'Come.' And let the one who is thirsty come; let the one who wishes take the water of life without cost.
 
-> ^18^I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book, ^19^and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book.
+> ^18^I testify to everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues which are written in this book; ^19^and if anyone takes away from the words of the book of this prophecy, God will take away his part from the tree of life and from the holy city, which are written in this book.
 
-> ^20^He who testifies to these things says, \jesus{"Surely I am coming soon."} Amen. Come, Lord Jesus! ^21^The grace of the Lord Jesus be with all. Amen.
+> ^20^He who testifies to these things says, \jesus{'Yes, I am coming quickly.'} Amen. Come, Lord Jesus. ^21^The grace of the Lord Jesus be with all. Amen.
 
 ---
 
@@ -65,7 +91,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ταχύ | tachy | 快、迅速 | 22:7, 12, 20，與1:1「快發生的事」呼應，強調應許的迫切性 |
 | μακάριος | makarios | 有福的 | 22:7, 14，全書七福宣告中的第六與第七個 |
 | ῥίζα καὶ γένος Δαυίδ | rhizē kai genos Dauid | 大衛的根與後裔 | 22:16，同時是大衛的根源（先於大衛存在）與大衛的子孫（成就大衛之約），宣告基督的先存性與彌賽亞身分 |
@@ -79,7 +105,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 全書以應許開始，也以應許結束 (The Book Begins and Ends with Promise)
 
@@ -103,6 +129,18 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 27:13-14
+
+> ^13^我若不信在活人之地得見耶和華的恩惠，就早已喪膽了。
+> ^14^要等候耶和華！當壯膽，堅固你的心！我再說，要等候耶和華！
+
+「要等候耶和華！當壯膽，堅固你的心！我再說，要等候耶和華！」——全書最後一句禱告是「主耶穌啊，我願你來」(22:20)。等候不是消極的拖延，是壯膽的儆醒。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -110,7 +148,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林論到全書結尾「不可加添、不可刪去」的警告時指出，這句話正式確認了啟示錄作為使徒權威著作、完整無缺的正典地位——這不僅是對這卷書本身的保護，也是對整個新約正典邊界的宣告之一。
 
@@ -122,7 +160,7 @@ publisher: 三書精讀出版系統
 
 > — Augustine, *Letter 199* (to Hesychius), *On the End of the World*（大意整理自其論末世迫切性的教導）
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -146,7 +184,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O Day of God, Draw Nigh
+
+*Robert B. Y. Scott, 1937*
+
+> O day of God, draw nigh
+> In beauty and in power;
+> Come with thy timeless judgment now
+> To match our present hour.
+
+22:17「聖靈和新婦都說：來！聽見的人也該說：來！」——這節有兩個方向的「來」：向主說「願你來」，向口渴的人說「你來取生命的水喝」。默想：等候主再來的教會，同時是發出邀請的教會；儆醒與傳福音，是同一個「來」字的兩面。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**「不可封了這書上的預言」**：但以理被吩咐把預言封住（但12:4），約翰卻被吩咐不可封（22:10）——麥克阿瑟指出理由就在下半句：「因為日期近了」。啟示錄從寫成之日起就是給眾教會公開誦讀的書，任何把它束之高閣的傳統都違背了它自己的吩咐。
+
+**三次「我必快來」**：22:7, 12, 20——他把「快」讀作「必然且隨時」(imminency)：不是預告日程，而是規定姿態；教會兩千年來的儆醒不是誤會了時間表，而是聽懂了命令。
+
+**聖經的最後一個邀請**：22:17「聖靈和新婦都說：來！……願意的，都可以白白取生命的水喝」——全書以審判為主調，最後一頁卻是敞開的邀請。他強調：啟示錄的正確讀法永遠帶著佈道的溫度；而讀者的最後一句話，理當是約翰的那一句：「主耶穌啊，我願你來！」
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：晨星與呼求 (Ask Elder Wong)
 

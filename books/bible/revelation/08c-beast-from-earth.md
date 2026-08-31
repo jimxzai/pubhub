@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 13:11-18
 
-**經文核對**：[ai-eden.com/bible/revelation/13](https://www.ai-eden.com/bible/revelation/13?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/13](https://www.ai-eden.com/bible/revelation/13?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 從海中上來的獸有王冠、有寶座、有權柄，一望而知是仿冒的君王；但從地中上來的這一個，樣子卻溫馴——「有兩角如同羊羔」。牠不篡奪寶座，牠只做一件事：把所有目光引向前一個獸，叫全地拜牠。這正是啟示錄最鋒利的警告：最危險的仇敵，往往不是張牙舞爪地與羔羊為敵，而是披著羔羊的樣式、說著龍的話語，把敬拜從真羔羊身上偷走。約翰在此讓我們看見，唯有那位真正被殺又真活著的羔羊，才配受敬拜；一切仿冒者，無論裝扮得多麼溫馴、多麼有能力行奇事，終究只是指向自己而非指向神的空殼。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Be Thou My Vision**
+> *Ancient Irish hymn (8th c.); tr. Mary E. Byrne, 1905; versified Eleanor H. Hull, 1912*
+>
+> Be Thou my vision, O Lord of my heart;
+> Naught be all else to me, save that Thou art—
+> Thou my best thought, by day or by night,
+> Waking or sleeping, Thy presence my light.
+>
+> 求主作我異象，我心之主宰；
+> 除你以外，萬事於我無所愛——
+> 你是我晝夜最美的意念，
+> 或醒或睡，你的同在是我光。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^18^在這裡有智慧：凡有聰明的，可以算計獸的數目；因為這是人的數目，他的數目是六百六十六。
 
-### English — ESV
+### English — NASB
 
-> ^11^Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon. ^12^It exercises all the authority of the first beast in its presence, and makes the earth and its inhabitants worship the first beast, whose mortal wound was healed. ^13^It performs great signs, even making fire come down from heaven to earth in front of people,
+> ^11^Then I saw another beast coming up out of the earth; and he had two horns like a lamb and he spoke as a dragon. ^12^He exercises all the authority of the first beast in his presence. And he makes the earth and those who dwell in it to worship the first beast, whose fatal wound was healed. ^13^He performs great signs, so that he even makes fire come down out of heaven to the earth in the presence of men.
 
-> ^14^and by the signs that it is allowed to work in the presence of the beast it deceives those who dwell on earth, telling them to make an image for the beast that was wounded by the sword and yet lived. ^15^And it was allowed to give breath to the image of the beast, so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain. ^16^Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead, ^17^so that no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name.
+> ^14^And he deceives those who dwell on the earth because of the signs which it was given him to perform in the presence of the beast, telling those who dwell on the earth to make an image to the beast who had the wound of the sword and has come to life. ^15^And it was given to him to give breath to the image of the beast, so that the image of the beast would even speak and cause as many as do not worship the image of the beast to be killed. ^16^And he causes all, the small and the great, and the rich and the poor, and the free men and the slaves, to be given a mark on their right hand or on their forehead, ^17^and *he provides* that no one will be able to buy or to sell, except the one who has the mark, *either* the name of the beast or the number of his name.
 
-> ^18^This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
+> ^18^Here is wisdom. Let him who has understanding calculate the number of the beast, for the number is that of a man; and his number is six hundred and sixty-six.
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ἀρνίον | arnion | 小羊羔 | 全書用來稱呼基督的常用詞（29次），此處卻用在假先知的外貌上，形成刻意的反諷 |
 | πλανάω | planaō | 迷惑、引入歧途 | 13:14；假先知的核心工作就是「迷惑」，與啟12:9龍「迷惑普天下」呼應 |
 | χάραγμα | charagma | 印記、烙印 | 通常指皇帝肖像鑄印在錢幣上的官方印記，此處轉指效忠獸的記號 |
@@ -66,7 +84,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 溫馴的外表可能藏著最深的迷惑 (A Gentle Appearance May Hide the Deepest Deception)
 
@@ -86,6 +104,20 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 12:1-4
+
+> ^1^（大衛的詩，交與伶長。調用第八。）耶和華啊，求你幫助，因虔誠人斷絕了；世人中間的忠信人沒有了。
+> ^2^人人向鄰舍說謊；他們說話，是嘴唇油滑，心口不一。
+> ^3^凡油滑的嘴唇和誇大的舌頭，耶和華必要剪除。
+> ^4^他們曾說：我們必能以舌頭得勝；我們的嘴唇是我們自己的，誰能作我們的主呢？
+
+「人人向鄰舍說謊；他們說話，是嘴唇油滑，心口不一」——地中上來的獸「有兩角如同羊羔，說話好像龍」(13:11)。外貌像羔羊、聲音是龍——詩篇 12 篇早已描寫過這種口舌的世界。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -99,7 +131,7 @@ publisher: 三書精讀出版系統
 
 > — Irenaeus, *Against Heresies*, Book V, Chapter 30
 
-### 宗教改革與清教徒時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -123,7 +155,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Once to Every Man and Nation
+
+*James Russell Lowell, 1845*
+
+> Once to every man and nation
+> Comes the moment to decide,
+> In the strife of truth with falsehood,
+> For the good or evil side.
+
+666 的計算引來歷代無數猜測，但本章的重點不是解謎，是分辨：額上或是有羔羊父的名（14:1），或是有獸的印記——沒有第三個選項。默想：印記的本質不是符號，是歸屬。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**假先知：宗教包裝的權力**：麥克阿瑟把地中上來的獸（後文明稱「假先知」，16:13; 19:20）讀作末期的宗教領袖——羊羔的角、龍的聲音（13:11），職務是叫地上的人拜第一個獸；撒但的體系至此湊成一個完整的仿冒三一。
+
+**神蹟不是真理的充分證據**：13:13-14 假先知能行大奇事、甚至叫火從天降下。他以此立一條分辨原則：超自然現象本身證明不了甚麼，申命記13章早已警告——行神蹟而引人拜別神的，正是要除滅的假先知。
+
+**666：總歸是人**：對這個引發無窮猜測的數字，他的立場克制：六是人的數字（人受造於第六日），三個六是「人到極致、仍差一步到七」——敵基督無論多像神，終究是人；謎底不在演算法，在這個對比裡。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：從地中上來的獸 (Ask Elder Wong)
 

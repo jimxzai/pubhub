@@ -10,13 +10,35 @@ publisher: 三書精讀出版系統
 
 啟示錄 4:1-11
 
-**經文核對**：[ai-eden.com/bible/revelation/4](https://www.ai-eden.com/bible/revelation/4?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/4](https://www.ai-eden.com/bible/revelation/4?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封信結束後，場景陡然一變：「此後，我觀看，見天上有門開了」——約翰被提到天上，眼前展開的不再是七個地上教會的光景，而是宇宙的中心：一個寶座，一位坐在其上的。整卷啟示錄接下來所有的審判、爭戰、災難，都要從這一幕出發才能被正確理解——無論地上的局勢看來多麼混亂失控，天上的寶座從未空置，也從未動搖。第4章本身還沒有出現羔羊（那要留到第5章），這一章單單定睛在「坐寶座的」身上，讓讀者在看見任何審判或爭戰之前，先看清楚：誰才是真正掌權的那一位。這正是啟示錄「寶座的核心地位」在全書中的起點，也是整卷書得以承受一切震撼異象的根基。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Round the Lord in Glory Seated**
+> *Richard Mant, 1837*
+>
+> Round the Lord in glory seated
+> Cherubim and seraphim
+> Filled His temple, and repeated
+> Each to each the alternate hymn:
+> Lord, Thy glory fills the heaven;
+> Earth is with its fulness stored.
+>
+> 環繞榮耀寶座四圍，
+> 基路伯與撒拉弗，
+> 充滿聖殿，彼此輪唱
+> 那此起彼落的頌歌：
+> 主啊，你榮光充滿諸天，
+> 大地也滿了你的豐盛。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +48,11 @@ publisher: 三書精讀出版系統
 
 > 寶座中和寶座周圍有四個活物，前後遍體都滿了眼睛。^7^第一個活物像獅子，第二個像牛犢，第三個臉面像人，第四個像飛鷹。^8^四活物各有六個翅膀，遍體內外都滿了眼睛。他們晝夜不住的說：「聖哉！聖哉！聖哉！主神是昔在、今在、以後永在的全能者。」^9^每逢四活物將榮耀、尊貴、感謝歸給那坐在寶座上、活到永永遠遠者的時候，^10^那二十四位長老就俯伏在坐寶座的面前敬拜那活到永永遠遠的，又把他們的冠冕放在寶座前，說：^11^「我們的主，我們的神，你是配得榮耀、尊貴、權柄的；因為你創造了萬物，並且萬物是因你的旨意被創造而有的。」
 
-### English — ESV
+### English — NASB
 
-> ^1^After this I looked, and behold, a door standing open in heaven! And the first voice, which I had heard speaking to me like a trumpet, said, "Come up here, and I will show you what must take place after this." ^2^At once I was in the Spirit, and behold, a throne stood in heaven, with one seated on the throne. ^3^And he who sat there had the appearance of jasper and carnelian, and around the throne was a rainbow that had the appearance of an emerald. ^4^Around the throne were twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, with golden crowns on their heads. ^5^From the throne came flashes of lightning, and rumblings and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of God. ^6^And before the throne there was as it were a sea of glass, like crystal.
+> ^1^After these things I looked, and behold, a door *standing* open in heaven, and the first voice which I had heard, like *the sound* of a trumpet speaking with me, said, 'Come up here, and I will show you what must take place after these things.' ^2^Immediately I was in the Spirit; and behold, a throne was standing in heaven, and One sitting on the throne. ^3^And He who was sitting *was* like a jasper stone and a sardius in appearance; and *there was* a rainbow around the throne, like an emerald in appearance. ^4^Around the throne *were* twenty-four thrones; and upon the thrones *I saw* twenty-four elders sitting, clothed in white garments, and golden crowns on their heads. ^5^Out from the throne come flashes of lightning and sounds and peals of thunder. And *there were* seven lamps of fire burning before the throne, which are the seven Spirits of God; ^6^and before the throne *there was something* like a sea of glass, like crystal; and in the center and around the throne, four living creatures full of eyes in front and behind.
 
-> And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind. ^7^The first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like an eagle in flight. ^8^And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say, "Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!" ^9^And whenever the living creatures give glory and honor and thanks to him who is seated on the throne, who lives forever and ever, ^10^the twenty-four elders fall down before him who is seated on the throne and worship him who lives forever and ever. They cast their crowns before the throne, saying, ^11^"Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created."
+> ^7^The first creature *was* like a lion, and the second creature like a calf, and the third creature had a face like that of a man, and the fourth creature *was* like a flying eagle. ^8^And the four living creatures, each one of them having six wings, are full of eyes around and within; and day and night they do not cease to say, 'HOLY, HOLY, HOLY *is* THE LORD GOD, THE ALMIGHTY, WHO WAS AND WHO IS AND WHO IS TO COME.' ^9^And when the living creatures give glory and honor and thanks to Him who sits on the throne, to Him who lives forever and ever, ^10^the twenty-four elders will fall down before Him who sits on the throne, and will worship Him who lives forever and ever, and will cast their crowns before the throne, saying, ^11^'Worthy are You, our Lord and our God, to receive glory and honor and power; for You created all things, and because of Your will they existed, and were created.'
 
 ---
 
@@ -49,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | θρόνος | thronos | 寶座 | 本章出現14次，是啟示錄全書出現最多的一章，全書共40餘次 |
 | ἴασπις | iaspis | 碧玉 | 象徵神榮光的視覺意象，21:11再度用以形容新耶路撒冷的光輝 |
 | πρεσβύτεροι | presbyteroi | 長老 | 二十四位，多數學者認為代表十二支派＋十二使徒＝完整的救贖群體 |
@@ -63,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 敬拜先於審判 (Worship Precedes Judgment)
 
@@ -86,6 +108,18 @@ publisher: 三書精讀出版系統
 四活物——獅子、牛犢、人臉、飛鷹——分別代表受造界中最強、最有力、最有智慧、最高飛的生命型態，牠們晝夜不住地讚美，象徵整個受造界，從最卑微到最尊貴的層面，都被囊括在對創造主永不止息的敬拜之中。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 93:1-2
+
+> ^1^耶和華作王！他以威嚴為衣穿上；耶和華以能力為衣，以能力束腰，世界就堅定，不得動搖。
+> ^2^你的寶座從太初立定；你從亙古就有。
+
+「你的寶座從太初立定」——第 4 章不是說寶座剛被設立，是說寶座從來就在。約翰看見的不是新聞，是實況。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -124,7 +158,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Praise, My Soul, the King of Heaven
+
+*Henry Francis Lyte, 1834*
+
+> Angels, help us to adore Him;
+> Ye behold Him face to face;
+> Sun and moon, bow down before Him,
+> Dwellers all in time and space.
+
+二十四位長老把冠冕摘下放在寶座前——他們並不是不配戴，是看見了那位更配得的。默想：你手中最捨不得放下的那頂冠冕，若擺在寶座前，會不會反而第一次找到它的意義？
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**天上的控制室**：麥克阿瑟把第4章稱作整卷審判敘事的前提：在任何一個印被揭開之前，約翰先被帶到寶座前——地上將要發生的一切，都是從這個從未動搖的指揮中心發出的，沒有一項是失控的災變。
+
+**二十四位長老代表蒙贖的教會**：按他的解讀，白衣、金冠冕、座位這三樣都是應許給教會的（3:5, 21；2:10），故二十四位長老最自然的身分是蒙贖群體的代表——他們把冠冕放回寶座前，正是教會將來要做的第一件事。
+
+**敬拜聚焦於創造主權**：他提醒，4:11 的頌讚只講創造、未及救贖——那要留到第5章。敬拜的次序是先承認「萬物是因你的旨意被創造而有的」，這是一切後續審判合法性的根基：審判者本是萬有的主。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：天上的寶座 (Ask Elder Wong)
 

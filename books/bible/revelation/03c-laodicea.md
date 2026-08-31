@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 3:14-22
 
-**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封信以老底嘉作結，也以最令人不安的一句話作結：「我必從我口中把你吐出去。」這是七封信中唯一一封基督說「我一無所稱讚」的信——不是因為外面的逼迫、也不是因為異端滲透，而是因為這教會富足自滿，渾然不覺自己「困苦、可憐、貧窮、瞎眼、赤身」。然而，正是這封最嚴厲的信，卻收束在全啟示錄最溫柔的一句邀請：「看哪，我站在門外叩門」。基督沒有選擇強行破門而入，祂敲門、祂等候、祂邀請——即使面對一間祂幾乎要吐出去的教會，祂仍站在門外，願意「進到他那裡去」，與他「一同坐席」。審判的嚴厲與愛的溫柔，在這封信裡並存，正顯明基督對祂教會不離不棄的心腸。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **O Jesus, Thou Art Standing**
+> *William Walsham How, 1867*
+>
+> O Jesus, Thou art standing
+> Outside the fast-closed door,
+> In lowly patience waiting
+> To pass the threshold o'er.
+>
+> 主耶穌，你正站立
+> 在那緊閉的門外，
+> 以卑微的忍耐等候，
+> 要越過那道門檻。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +44,11 @@ publisher: 三書精讀出版系統
 
 > \jesus{^19^凡我所疼愛的，我就責備管教他；所以你要發熱心，也要悔改。^20^看哪，我站在門外叩門，若有聽見我聲音就開門的，我要進到他那裡去，我與他，他與我一同坐席。^21^得勝的，我要賜他在我寶座上與我同坐，就如我得了勝，在我父的寶座上與他同坐一般。}^22^凡有耳朵的都應當聽聖靈向眾教會所說的話。』
 
-### English — ESV
+### English — NASB
 
-> ^14^"And to the angel of the church in Laodicea write: 'The words of the Amen, the faithful and true witness, the beginning of God's creation. \jesus{^15^"I know your works: you are neither cold nor hot. Would that you were either cold or hot! ^16^So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth. ^17^For you say, "I am rich, I have prospered, and I need nothing," not realizing that you are wretched, pitiable, poor, blind, and naked. ^18^I counsel you to buy from me gold refined by fire, so that you may be rich, and white garments so that you may clothe yourself and the shame of your nakedness may not be seen, and salve to anoint your eyes, so that you may see.}
+> ^14^'To the angel of the church in Laodicea write: The Amen, the faithful and true Witness, the Beginning of the creation of God, says this: \jesus{ ^15^'I know your deeds, that you are neither cold nor hot; I wish that you were cold or hot. ^16^'So because you are lukewarm, and neither hot nor cold, I will spit you out of My mouth. ^17^'Because you say, 'I am rich, and have become wealthy, and have need of nothing,' and you do not know that you are wretched and miserable and poor and blind and naked, ^18^I advise you to buy from Me gold refined by fire so that you may become rich, and white garments so that you may clothe yourself, and *that* the shame of your nakedness will not be revealed; and eye salve to anoint your eyes so that you may see.}
 
-> \jesus{^19^Those whom I love, I reprove and discipline, so be zealous and repent. ^20^Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me. ^21^The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne.}^22^He who has an ear, let him hear what the Spirit says to the churches.'"
+> \jesus{ ^19^'Those whom I love, I reprove and discipline; therefore be zealous and repent. ^20^'Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me. ^21^'He who overcomes, I will grant to him to sit down with Me on My throne, as I also overcame and sat down with My Father on His throne.} ^22^'He who has an ear, let him hear what the Spirit says to the churches.''
 
 ---
 
@@ -49,7 +67,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ὁ Ἀμήν | ho Amēn | 「那阿們」 | 基督自稱，呼應賽65:16「真實的神」（原文作「阿們的神」） |
 | χλιαρός | chliaros | 溫的、不冷不熱的 | 新約僅此一見，反映老底嘉水道供水的實況 |
 | ἐμέσαι | emesai | 吐出、嘔吐 | 強烈的生理厭惡反應，非單純「拒絕」 |
@@ -63,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 自我感覺與真實光景的落差 (Self-Perception vs. Reality)
 
@@ -86,6 +104,22 @@ publisher: 三書精讀出版系統
 老底嘉的得勝應許是七封信中最崇高的一項：「我要賜他在我寶座上與我同坐」——這與3:21「就如我得了勝，在我父的寶座上與他同坐一般」相連，說明基督自己得勝的路徑（受苦、忠心、直到十架），正是得勝者將要走的同一條路，而終點是與祂一同坐在寶座上的榮耀。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 81:8-13
+
+> ^8^我的民哪，你當聽，我要勸戒你；以色列啊，甚願你肯聽從我。
+> ^9^在你當中，不可有別的神；外邦的神，你也不可下拜。
+> ^10^我是耶和華─你的神，曾把你從埃及地領上來；你要大大張口，我就給你充滿。
+> ^11^無奈，我的民不聽我的聲音；以色列全不理我。
+> ^12^我便任憑他們心裡剛硬，隨自己的計謀而行。
+> ^13^甚願我的民肯聽從我，以色列肯行我的道，
+
+「甚願我的民肯聽從我」——神對老底嘉的心情，詩篇 81 篇早已寫盡：不是憤怒的宣判，是被拒絕之後仍然敞開的邀請。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -124,7 +158,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Rock of Ages, Cleft for Me
+
+*Augustus M. Toplady, 1763*
+
+> Nothing in my hand I bring,
+> Simply to Thy cross I cling;
+> Naked, come to Thee for dress,
+> Helpless, look to Thee for grace.
+
+「我手中一無所有」——這正是老底嘉最不肯承認的一句話。他們說「我是富足，已經發了財，一樣都不缺」，主說「你卻不知道你是那困苦、可憐、貧窮、瞎眼、赤身的」。默想：買眼藥的第一步，是先承認自己瞎了。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**寫給未重生教會的信**：麥克阿瑟對老底嘉的判斷在七封信中最重：這封信沒有一句稱讚，而主竟站在「門外」叩門——他據此把老底嘉讀作一間基督在其外面的教會：宗教活動齊全，重生的生命闕如。
+
+**溫水的地理註腳**：老底嘉的供水由遠處引來，到城已成溫水——不如歌羅西的涼水解渴，不如希拉波立的溫泉療病。「我巴不得你或冷或熱」用的正是全城最日常的抱怨。
+
+**向自我感覺良好者開的藥方**：「你說我是富足……卻不知道你是那困苦、可憐、貧窮、瞎眼、赤身的」——他指出 3:17 是全聖經對宗教式自滿最徹底的一份診斷書，而 3:18 的「買金子、白衣、眼藥」全指向唯獨基督能給的救恩。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：老底嘉教會 (Ask Elder Wong)
 

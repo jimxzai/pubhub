@@ -10,13 +10,39 @@ publisher: 三書精讀出版系統
 
 啟示錄 19:1-10
 
-**經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 巴比倫傾倒的濃煙尚未散去，天上已經響起連續的「哈利路亞」——這是新約聖經中唯一集中出現「哈利路亞」的一段經文（1, 3, 4, 6節）。焦點從審判轉向婚筵：「羔羊婚娶的時候到了；新婦也自己預備好了」。這是全書情感的高峰之一——教會，這位曾經軟弱、曾經失敗、曾經流淚的新婦，如今「蒙恩得穿光明潔白的細麻衣」，預備好與羔羊永遠聯合。這幅圖畫告訴我們：基督徒生命的終極盼望，不是逃離苦難的消極解脫，而是與羔羊永遠聯合、共赴婚筵的積極喜樂。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The Church's One Foundation**
+> *Samuel J. Stone, 1866*
+>
+> The Church's one foundation
+> Is Jesus Christ her Lord;
+> She is His new creation
+> By water and the Word.
+> From heaven He came and sought her
+> To be His holy bride;
+> With His own blood He bought her,
+> And for her life He died.
+>
+> 教會唯一的根基
+> 是主耶穌基督；
+> 她是主的新造，
+> 藉著水與道而生。
+> 主從天上降臨尋她，
+> 要她作聖潔新婦；
+> 主用自己的血買贖她，
+> 並且為她捨命。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +54,13 @@ publisher: 三書精讀出版系統
 
 > ^9^天使吩咐我說：「你要寫上：凡被請赴羔羊之婚筵的有福了！」又對我說：「這是神真實的話。」^10^我就俯伏在他腳前要拜他。他說：「千萬不可！我和你，並你那些為耶穌作見證的弟兄同是作僕人的，你要敬拜神。因為預言中的靈意乃是為耶穌作見證。」
 
-### English — ESV
+### English — NASB
 
-> ^1^After this I heard what seemed to be the loud voice of a great multitude in heaven, crying out, "Hallelujah! Salvation and glory and power belong to our God, ^2^for his judgments are true and just; for he has judged the great prostitute who corrupted the earth with her immorality, and has avenged on her the blood of his servants." ^3^Once more they cried out, "Hallelujah! The smoke from her goes up forever and ever." ^4^And the twenty-four elders and the four living creatures fell down and worshiped God who was seated on the throne, saying, "Amen. Hallelujah!"
+> ^1^After these things I heard something like a loud voice of a great multitude in heaven, saying, 'Hallelujah! Salvation and glory and power belong to our God; ^2^BECAUSE HIS JUDGMENTS ARE TRUE AND RIGHTEOUS; for He has judged the great harlot who was corrupting the earth with her immorality, and HE HAS AVENGED THE BLOOD OF HIS BOND-SERVANTS ON HER.' ^3^And a second time they said, 'Hallelujah! HER SMOKE RISES UP FOREVER AND EVER.' ^4^And the twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne saying, 'Amen. Hallelujah!'
 
-> ^5^And from the throne came a voice saying, "Praise our God, all you his servants, you who fear him, small and great." ^6^Then I heard what seemed to be the voice of a great multitude, like the roar of many waters and like the sound of mighty peals of thunder, crying out, "Hallelujah! For the Lord our God the Almighty reigns. ^7^Let us rejoice and exult and give him the glory, for the marriage of the Lamb has come, and his Bride has made herself ready; ^8^it was granted her to clothe herself with fine linen, bright and pure"—for the fine linen is the righteous deeds of the saints.
+> ^5^And a voice came from the throne, saying, 'Give praise to our God, all you His bond-servants, you who fear Him, the small and the great.' ^6^Then I heard *something* like the voice of a great multitude and like the sound of many waters and like the sound of mighty peals of thunder, saying, 'Hallelujah! For the Lord our God, the Almighty, reigns. ^7^'Let us rejoice and be glad and give the glory to Him, for the marriage of the Lamb has come and His bride has made herself ready.' ^8^It was given to her to clothe herself in fine linen, bright *and* clean; for the fine linen is the righteous acts of the saints.
 
-> ^9^And the angel said to me, "Write this: Blessed are those who are invited to the marriage supper of the Lamb." And he said to me, "These are the true words of God." ^10^Then I fell down at his feet to worship him, but he said to me, "You must not do that! I am a fellow servant with you and your brothers who hold to the testimony of Jesus. Worship God." For the testimony of Jesus is the spirit of prophecy.
+> ^9^Then he said to me, 'Write, 'Blessed are those who are invited to the marriage supper of the Lamb.'' And he said to me, 'These are true words of God.' ^10^Then I fell at his feet to worship him. But he said to me, 'Do not do that; I am a fellow servant of yours and your brethren who hold the testimony of Jesus; worship God. For the testimony of Jesus is the spirit of prophecy.'
 
 ---
 
@@ -53,7 +79,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ἁλληλουϊά | hallēlouia | 哈利路亞（你們要讚美耶和華） | 新約中僅出現於本段（4次），源自希伯來文詩篇的讚美用語 |
 | γάμος τοῦ ἀρνίου | gamos tou arniou | 羔羊的婚筵 | 直接呼應舊約先知常用以色列/教會為「神的新婦」的意象（何西阿書、以弗所書5章） |
 | νύμφη | nymphē | 新婦 | 描述教會與基督聯合的親密關係。19:7 本節原文實作 γυνή（妻），νύμφη 一詞出現於 21:2、21:9、22:17，用於新耶路撒冷 |
@@ -67,7 +93,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 審判與婚筵是同一個公義故事的兩面 (Judgment and the Wedding Feast Are Two Sides of the Same Story of Justice)
 
@@ -87,6 +113,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 45:13-15
+
+> ^13^王女在宮裡極其榮華；他的衣服是用金線繡的。
+> ^14^他要穿錦繡的衣服，被引到王前；隨從他的陪伴童女也要被帶到你面前。
+> ^15^他們要歡喜快樂被引導；他們要進入王宮。
+
+「王女在宮裡極其榮華；她的衣服是用金線繡的」——羔羊婚筵上新婦「蒙恩得穿光明潔白的細麻衣」(19:8)。詩篇 45 篇的婚禮頌歌，在此找到它的正主。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -100,13 +139,13 @@ publisher: 三書精讀出版系統
 
 > — 此讀法屬奧古斯丁《上帝之城》教會論一貫立場的延伸應用，非逐章直引
 
-**維克多林 (Victorinus of Pettau, c. 260-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將這段連續的「哈利路亞」讚美，理解為天上敬拜對地上教會受苦歷史的最終回應——教會歷代所忍受的一切苦難與逼迫，在這一刻都被神公義的審判與婚筵的喜樂所總結、所回應。
 
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 19
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
@@ -130,7 +169,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Love Divine, All Loves Excelling
+
+*Charles Wesley, 1747*
+
+> Love divine, all loves excelling,
+> Joy of heaven, to earth come down,
+> Fix in us Thy humble dwelling,
+> All Thy faithful mercies crown.
+
+19:8 說細麻衣「就是聖徒所行的義」，但句首先說「蒙恩得穿」——義行是穿上的，恩典是賜下的。默想：新婦「自己預備好了」(19:7)，這預備不在婚筵當天，在今天。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**四聲哈利路亞**：麥克阿瑟指出，新約唯一出現「哈利路亞」的地方就是 19:1-6 這四聲——而頌讚的內容是巴比倫的審判與主神作王：天上的敬拜把神的公義與神的救恩一同唱進去，不挑選、不迴避。
+
+**新婦自己預備好了，衣服卻是「蒙恩得穿」**：19:7-8 的並列是他反覆講的救恩要義：「自己預備好了」與「蒙恩得穿光明潔白的細麻衣」在同一口氣裡；細麻衣「就是聖徒所行的義」——恩典是根，義行是果，次序不可倒置。
+
+**天使不受拜**：約翰兩次要拜使者，兩次被止住（19:10; 22:8-9）——「你要敬拜神」。他指出連傳遞啟示的天使都急忙推開敬拜，正反襯出全書中安然受拜的羔羊是誰：敬拜的界線，就是神性的界線。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：羔羊的婚筵 (Ask Elder Wong)
 
@@ -168,7 +233,7 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇45:10-11
 
-> 女子啊，你要聽，要想，要側耳而聽！不要記念你的民和你的父家，王就羨慕你的美貌；因他是你的主，你當敬拜他。
+> 女子啊，你要聽，要想，要側耳而聽！不要記念你的民和你的父家，王就羨慕你的美貌；因為他是你的主，你當敬拜他。
 
 詩篇45篇這首「愛的詩歌」，傳統上被理解為預表彌賽亞王與祂新婦的婚禮，直接呼應啟示錄19章羔羊婚筵的異象。
 

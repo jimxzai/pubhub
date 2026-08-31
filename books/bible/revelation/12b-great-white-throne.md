@@ -10,13 +10,39 @@ publisher: 三書精讀出版系統
 
 啟示錄 20:7-15
 
-**經文核對**：[ai-eden.com/bible/revelation/20](https://www.ai-eden.com/bible/revelation/20?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/20](https://www.ai-eden.com/bible/revelation/20?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 千年國度的平安過去之後，約翰筆鋒一轉，讓我們看見一件驚心的事：撒但被釋放了。這不是神計劃的漏洞，而是神計劃的最後一次揭示——連在基督親自掌權、公義完全彰顯的千年裡，人心的悖逆仍未被環境改變。歌革瑪各的叛亂被火一舉燒滅，撒但被扔進硫磺的火湖，「晝夜受痛苦，直到永永遠遠」（20:10）。緊接著是全書最莊嚴的一幕：白色大寶座前，死了的人都站著，案卷展開，生命冊展開。這裡沒有基督流血代贖的畫面，只有審判本身——因為坐在寶座上的那一位，正是被殺的羔羊，如今以審判者的身分顯現（參約5:22, 27）。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **There Is a Green Hill Far Away**
+> *Cecil Frances Alexander, 1847*
+>
+> There is a green hill far away,
+> Outside a city wall,
+> Where the dear Lord was crucified,
+> Who died to save us all.
+> He died that we might be forgiven,
+> He died to make us good,
+> That we might go at last to heaven,
+> Saved by His precious blood.
+>
+> 遠遠有一座青山，
+> 在城牆的外邊，
+> 親愛的主在那裡被釘，
+> 祂死為要救萬人。
+> 祂死使我們得蒙赦免，
+> 祂死使我們成聖，
+> 使我們終能進入天家，
+> 靠祂寶血得救恩。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +52,11 @@ publisher: 三書精讀出版系統
 
 > ^11^我又看見一個白色的大寶座與坐在上面的；從他面前天地都逃避，再無可見之處了。^12^我又看見死了的人，無論大小，都站在寶座前。案卷展開了，並且另有一卷展開，就是生命冊。死了的人都憑著這些案卷所記載的，照他們所行的受審判。^13^於是海交出其中的死人；死亡和陰間也交出其中的死人；他們都照各人所行的受審判。^14^死亡和陰間也被扔在火湖裡；這火湖就是第二次的死。^15^若有人名字沒記在生命冊上，他就被扔在火湖裡。
 
-### English — ESV
+### English — NASB
 
-> ^7^And when the thousand years are ended, Satan will be released from his prison ^8^and will come out to deceive the nations that are at the four corners of the earth, Gog and Magog, to gather them for battle; their number is like the sand of the sea. ^9^And they marched up over the broad plain of the earth and surrounded the camp of the saints and the beloved city, but fire came down from heaven and consumed them, ^10^and the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever.
+> ^7^When the thousand years are completed, Satan will be released from his prison, ^8^and will come out to deceive the nations which are in the four corners of the earth, Gog and Magog, to gather them together for the war; the number of them is like the sand of the seashore. ^9^And they came up on the broad plain of the earth and surrounded the camp of the saints and the beloved city, and fire came down from heaven and devoured them. ^10^And the devil who deceived them was thrown into the lake of fire and brimstone, where the beast and the false prophet are also; and they will be tormented day and night forever and ever.
 
-> ^11^Then I saw a great white throne and him who was seated on it. From his presence earth and sky fled away, and no place was found for them. ^12^And I saw the dead, great and small, standing before the throne, and books were opened. Then another book was opened, which is the book of life. And the dead were judged by what was written in the books, according to what they had done. ^13^And the sea gave up the dead who were in it, Death and Hades gave up the dead who were in them, and they were judged, each one of them, according to what they had done. ^14^Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. ^15^And if anyone's name was not found written in the book of life, he was thrown into the lake of fire.
+> ^11^Then I saw a great white throne and Him who sat upon it, from whose presence earth and heaven fled away, and no place was found for them. ^12^And I saw the dead, the great and the small, standing before the throne, and books were opened; and another book was opened, which is *the book* of life; and the dead were judged from the things which were written in the books, according to their deeds. ^13^And the sea gave up the dead which were in it, and death and Hades gave up the dead which were in them; and they were judged, every one *of them* according to their deeds. ^14^Then death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. ^15^And if anyone's name was not found written in the book of life, he was thrown into the lake of fire.
 
 ---
 
@@ -49,7 +75,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | λυθήσεται | lythēsetai | 被釋放 | 20:3, 7；被動語態，強調這釋放本身也在神的許可之下 |
 | πλανῆσαι | planēsai | 迷惑 | 與撒但貫穿全書的活動一致（12:9, 20:3, 8） |
 | θρόνος μέγας λευκός | thronos megas leukos | 白色的大寶座 | 20:11 原文作 θρόνον μέγαν λευκόν；「白色」象徵純潔無瑕的公義，與獸的血紅、淫婦的紫色形成對比 |
@@ -63,7 +89,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 千年的平安不能改變人心 (A Thousand Years of Peace Cannot Change the Heart)
 
@@ -87,6 +113,18 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 130:3-4
+
+> ^3^主─耶和華啊，你若究察罪孽，誰能站得住呢？
+> ^4^但在你有赦免之恩，要叫人敬畏你。
+
+「主──耶和華啊，你若究察罪孽，誰能站得住呢？但在你有赦免之恩」——案卷展開，「死了的人都憑著這些案卷所記載的，照他們所行的受審判」(20:12)。惟一站得住的根據，不在案卷，在另一卷書：生命冊。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -106,7 +144,7 @@ publisher: 三書精讀出版系統
 
 > — Augustine, *City of God*, Book XX, Ch. 14 (trans. Marcus Dods)
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -130,7 +168,35 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### And Can It Be That I Should Gain
+
+*Charles Wesley, 1738*
+
+> No condemnation now I dread;
+> Jesus, and all in Him, is mine!
+> Alive in Him, my living Head,
+> And clothed in righteousness divine,
+> Bold I approach th'eternal throne,
+> And claim the crown, through Christ my own.
+
+「我坦然無懼來到永恆寶座前」——這句歌詞只有一種人敢唱：名字在生命冊上的人。默想：白色大寶座前的問題不是「你作過甚麼」，最終是「你的名字在哪一卷書上」。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**千年之後的最後叛亂**：撒但被釋放，仍能從四方招聚「多如海沙」的叛軍（20:8）——麥克阿瑟視此為聖經對人性最終極的一次實驗報告：在王親自治理、環境完美的一千年之後，未重生的心依然一點就著。問題從來不在環境，在心。
+
+**案卷與生命冊**：20:12 有兩種書：記載行為的案卷，與生命冊。他的讀法很清楚：受審者「照他們所行的受審判」——案卷定罪責的輕重；而定去向的只有一個標準：「若有人名字沒記在生命冊上，他就被扔在火湖裡」。
+
+**死亡本身被扔進火湖**：20:14「死亡和陰間也被扔在火湖裡」——最後被處決的仇敵是死亡自己（林前15:26）。他指出這是全聖經敘事的必然終點：從伊甸闖入的死，在新天新地的門檻前被永遠清除。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：白色大寶座前的名字 (Ask Elder Wong)
 

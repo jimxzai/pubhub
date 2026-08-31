@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 9:1-21
 
-**經文核對**：[ai-eden.com/bible/revelation/9](https://www.ai-eden.com/bible/revelation/9?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/9](https://www.ai-eden.com/bible/revelation/9?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 空中飛鷹的三重「禍哉」在這一章開始應驗。前四號擊打自然界，第五、六號卻直接轉向人——先是無底坑放出的蝗蟲軍團，折磨沒有神印記的人五個月；接著是二億騎兵，殺死三分之一的人類。這一章的意象極其恐怖，卻在末了留下全書最沉痛的一句話：「其餘未曾被這些災所殺的人仍不悔改。」羔羊容許這樣劇烈的審判展開，不是因為祂殘忍，而正是因為祂深知：連地獄般的痛苦，都無法憑自身力量軟化一顆堅硬到底的人心——唯有恩典才能。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Depth of Mercy! Can There Be**
+> *Charles Wesley, 1740*
+>
+> Depth of mercy! can there be
+> Mercy still reserved for me?
+> Can my God His wrath forbear?
+> Me, the chief of sinners, spare?
+>
+> 何等深的憐憫！豈還有
+> 憐憫為我存留？
+> 我的神豈肯忍住怒氣，
+> 寬容我這罪魁？
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -30,15 +48,15 @@ publisher: 三書精讀出版系統
 
 > ^20^其餘未曾被這些災所殺的人仍舊不悔改自己手所做的，還是去拜鬼魔和那些不能看、不能聽、不能走，金、銀、銅、木、石的偶像，^21^又不悔改他們那些兇殺、邪術、姦淫、偷竊的事。
 
-### English — ESV
+### English — NASB
 
-> ^1^And the fifth angel blew his trumpet, and I saw a star fallen from heaven to earth, and he was given the key to the shaft of the bottomless pit. ^2^He opened the shaft of the bottomless pit, and from the shaft rose smoke like the smoke of a great furnace, and the sun and the air were darkened with the smoke from the shaft. ^3^Then from the smoke came locusts on the earth, and they were given power like the power of scorpions of the earth. ^4^They were told not to harm the grass of the earth or any green plant or any tree, but only those people who do not have the seal of God on their foreheads. ^5^They were allowed to torment them for five months, but not to kill them, and their torment was like the torment of a scorpion when it stings someone. ^6^And in those days people will seek death and will not find it. They will long to die, but death will flee from them.
+> ^1^Then the fifth angel sounded, and I saw a star from heaven which had fallen to the earth; and the key of the bottomless pit was given to him. ^2^He opened the bottomless pit, and smoke went up out of the pit, like the smoke of a great furnace; and the sun and the air were darkened by the smoke of the pit. ^3^Then out of the smoke came locusts upon the earth, and power was given them, as the scorpions of the earth have power. ^4^They were told not to hurt the grass of the earth, nor any green thing, nor any tree, but only the men who do not have the seal of God on their foreheads. ^5^And they were not permitted to kill anyone, but to torment for five months; and their torment was like the torment of a scorpion when it stings a man. ^6^And in those days men will seek death and will not find it; they will long to die, and death flees from them.
 
-> ^7^In appearance the locusts were like horses prepared for battle: on their heads were what looked like crowns of gold; their faces were like human faces, ^8^their hair like women's hair, and their teeth like lions' teeth; ^9^they had breastplates like breastplates of iron, and the noise of their wings was like the noise of many chariots with horses rushing into battle. ^10^They have tails and stings like scorpions, and their power to hurt people for five months is in their tails. ^11^They have as king over them the angel of the bottomless pit. His name in Hebrew is Abaddon, and in Greek he is called Apollyon. ^12^The first woe has passed; behold, two woes are still to come.
+> ^7^The appearance of the locusts was like horses prepared for battle; and on their heads appeared to be crowns like gold, and their faces were like the faces of men. ^8^They had hair like the hair of women, and their teeth were like *the teeth* of lions. ^9^They had breastplates like breastplates of iron; and the sound of their wings was like the sound of chariots, of many horses rushing to battle. ^10^They have tails like scorpions, and stings; and in their tails is their power to hurt men for five months. ^11^They have as king over them, the angel of the abyss; his name in Hebrew is Abaddon, and in the Greek he has the name Apollyon. ^12^The first woe is past; behold, two woes are still coming after these things.
 
-> ^13^Then the sixth angel blew his trumpet, and I heard a voice from the four horns of the golden altar before God, ^14^saying to the sixth angel who had the trumpet, "Release the four angels who are bound at the great river Euphrates." ^15^So the four angels, who had been prepared for the hour, the day, the month, and the year, were released to kill a third of mankind. ^16^The number of mounted troops was twice ten thousand times ten thousand; I heard their number. ^17^And this is how I saw the horses in my vision and those who rode them: they had breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like lions' heads, and fire and smoke and sulfur came out of their mouths. ^18^By these three plagues a third of mankind was killed, by the fire and smoke and sulfur coming out of their mouths. ^19^For the power of the horses is in their mouths and in their tails, for their tails are like serpents with heads, and by means of them they wound.
+> ^13^Then the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God, ^14^one saying to the sixth angel who had the trumpet, 'Release the four angels who are bound at the great river Euphrates.' ^15^And the four angels, who had been prepared for the hour and day and month and year, were released, so that they would kill a third of mankind. ^16^The number of the armies of the horsemen was two hundred million; I heard the number of them. ^17^And this is how I saw in the vision the horses and those who sat on them: *the riders* had breastplates *the color* of fire and of hyacinth and of brimstone; and the heads of the horses are like the heads of lions; and out of their mouths proceed fire and smoke and brimstone. ^18^A third of mankind was killed by these three plagues, by the fire and the smoke and the brimstone which proceeded out of their mouths. ^19^For the power of the horses is in their mouths and in their tails; for their tails are like serpents and have heads, and with them they do harm.
 
-> ^20^The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk, ^21^nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.
+> ^20^The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands, so as not to worship demons, and the idols of gold and of silver and of brass and of stone and of wood, which can neither see nor hear nor walk; ^21^and they did not repent of their murders nor of their sorceries nor of their immorality nor of their thefts.
 
 ---
 
@@ -57,7 +75,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ἄβυσσος | abyssos | 無底坑、深淵 | 常指被囚禁的邪惡勢力之處（路8:31） |
 | ἀκρίς | akris | 蝗蟲 | 呼應約珥書1-2章的蝗蟲之災意象 |
 | Ἀβαδδών | Abaddōn | 亞巴頓（希伯來文，意為「毀滅」） | 舊約中常指陰間或毀滅之處（伯26:6, 詩88:11） |
@@ -72,7 +90,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 屬靈的痛苦遠比肉體的死亡更叫人絕望 (Spiritual Torment Is More Dreadful Than Physical Death)
 
@@ -95,6 +113,21 @@ publisher: 三書精讀出版系統
 不悔改的清單同時列出拜鬼魔、拜偶像，以及兇殺、邪術、淫亂、偷竊——經文將敬拜的悖逆與道德的敗壞並列，提醒我們，錯置敬拜的對象，必然帶出生命行為的敗壞，二者從來不是彼此獨立的問題。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 32:1-5
+
+> ^1^（大衛的訓誨詩。）得赦免其過、遮蓋其罪的，這人是有福的！
+> ^2^凡心裡沒有詭詐、耶和華不算為有罪的，這人是有福的！
+> ^3^我閉口不認罪的時候，因終日唉哼而骨頭枯乾。
+> ^4^黑夜白日，你的手在我身上沉重；我的精液耗盡，如同夏天的乾旱。（細拉）
+> ^5^我向你陳明我的罪，不隱瞞我的惡。我說：我要向耶和華承認我的過犯，你就赦免我的罪惡。（細拉）
+
+「我閉口不認罪的時候，因終日唉哼而骨頭枯乾」——9:20-21 說「其餘未曾被這些災所殺的人仍舊不悔改」。詩篇 32 篇讓我們看見，不悔改的人不是沒有痛苦，是拒絕承認痛苦的來源。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -133,7 +166,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Come, Ye Sinners, Poor and Needy
+
+*Joseph Hart, 1759*
+
+> Let not conscience make you linger,
+> Nor of fitness fondly dream;
+> All the fitness He requireth
+> Is to feel your need of Him.
+
+五、六號的災難之後，經文兩次說「仍舊不悔改」。默想：災難本身從不使人悔改——法老看過十災，那些人受過蝗災與馬軍。使人回轉的從來只有恩典。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**無底坑出來的是鬼魔軍團**：麥克阿瑟把第五號的蝗蟲讀作被釋放的鬼魔勢力——牠們不吃草、專傷人、有王管轄（9:11，與箴30:27的蝗蟲無王恰成對照）；這是屬靈黑暗第一次如此赤裸地登場。
+
+**求死不得的痛苦**：9:6「人要求死，決不得死」——他指出這是墮落世界最深的絕望形態：人最後的逃路（死亡）也被關閉，唯獨顯明離開神的存在本身就是刑罰。
+
+**兩次「仍舊不悔改」是本段真正的恐怖**：比二萬萬馬軍更可怕的，是 9:20-21 的結語——經歷了這一切的人「仍舊不悔改」。他總結：災難能顯明人心，卻不能更換人心；使人悔改的從來是恩典，不是恐懼。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：第五、六號蝗蟲與馬軍 (Ask Elder Wong)
 
@@ -171,7 +230,8 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇 95:7-8
 
-> 惟願你們今天聽他的話！你們不可硬著心，像在米利巴，就是在曠野瑪撒的日子。
+> 因為他是我們的神；我們是他草場的羊，是他手下的民。惟願你們今天聽他的話：
+> 你們不可硬著心，像當日在米利巴，就是在曠野的瑪撒。
 
 詩篇提醒我們，硬心不是新約才出現的現象，而是貫穿整本聖經、人性最深處的悖逆——啟示錄9:20-21只是這古老悲劇在末世的重演。
 

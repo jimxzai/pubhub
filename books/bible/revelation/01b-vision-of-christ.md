@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 1:9-20
 
-**經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 同一位使徒約翰，在寫約翰福音時，記錄了在最後晚餐時靠著耶穌胸膛的那位溫柔的主；但在拔摩海島上，他看見的卻是榮耀威嚴的人子——頭髮皆白如雪，眼目好像火焰，腳好像爐中鍛鍊發亮的銅，聲音好像眾水轟鳴，口中吐出兩刃利劍，面貌好像烈日放光。約翰一見這位榮耀的基督，「就仆倒在他腳前，像死了一樣」。這就是啟示錄的基調：我們所認識的耶穌，遠比我們熟悉的形像更榮耀、更威嚴、更可畏——而正是這一位，親手按著仆倒的約翰說：「不要懼怕。」
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Immortal, Invisible, God Only Wise**
+> *Walter Chalmers Smith, 1867*
+>
+> Immortal, invisible, God only wise,
+> In light inaccessible hid from our eyes,
+> Most blessed, most glorious, the Ancient of Days,
+> Almighty, victorious, Thy great name we praise.
+>
+> 永生神，不朽壞，獨一全智，
+> 住在人不能靠近的光裡；
+> 至聖哉，至榮哉，亙古常在，
+> 全能者，得勝者，我讚你名。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^17^我一看見，就仆倒在他腳前，像死了一樣。他用右手按著我，說：\jesus{「不要懼怕！我是首先的，我是末後的，^18^又是那存活的；我曾死過，現在又活了，直活到永永遠遠；並且拿著死亡和陰間的鑰匙。^19^所以你要把所看見的，和現在的事，並將來必成的事，都寫出來。^20^論到你所看見、在我右手中的七星和七個金燈臺的奧祕，那七星就是七個教會的使者，七燈臺就是七個教會。」}
 
-### English — ESV
+### English — NASB
 
-> ^9^I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus. ^10^I was in the Spirit on the Lord's day, and I heard behind me a loud voice like a trumpet ^11^saying, "Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea."
+> ^9^I, John, your brother and fellow partaker in the tribulation and kingdom and perseverance *which are* in Jesus, was on the island called Patmos because of the word of God and the testimony of Jesus. ^10^I was in the Spirit on the Lord's day, and I heard behind me a loud voice like *the sound* of a trumpet, ^11^saying, 'Write in a book what you see, and send *it* to the seven churches: to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.'
 
-> ^12^Then I turned to see the voice that was speaking to me, and on turning I saw seven golden lampstands, ^13^and in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest. ^14^The hairs of his head were white, like white wool, like snow. His eyes were like a flame of fire, ^15^his feet were like burnished bronze, refined in a furnace, and his voice was like the roar of many waters. ^16^In his right hand he held seven stars, from his mouth came a sharp two-edged sword, and his face was like the sun shining in full strength.
+> ^12^Then I turned to see the voice that was speaking with me. And having turned I saw seven golden lampstands; ^13^and in the middle of the lampstands *I saw* one like a son of man, clothed in a robe reaching to the feet, and girded across His chest with a golden sash. ^14^His head and His hair were white like white wool, like snow; and His eyes were like a flame of fire. ^15^His feet *were* like burnished bronze, when it has been made to glow in a furnace, and His voice *was* like the sound of many waters. ^16^In His right hand He held seven stars, and out of His mouth came a sharp two-edged sword; and His face was like the sun shining in its strength.
 
-> ^17^When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, \jesus{"Fear not, I am the first and the last, ^18^and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades. ^19^Write therefore the things that you have seen, those that are and those that are to take place after this. ^20^As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands, the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches."}
+> ^17^When I saw Him, I fell at His feet like a dead man. And He placed His right hand on me, saying, \jesus{'Do not be afraid; I am the first and the last, ^18^and the living One; and I was dead, and behold, I am alive forevermore, and I have the keys of death and of Hades. ^19^'Therefore write the things which you have seen, and the things which are, and the things which will take place after these things. ^20^'As for the mystery of the seven stars which you saw in My right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.}
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | συγκοινωνός | synkoinōnos | 一同有分、同伴 | 9節「在耶穌的患難⋯⋯裡一同有分」，強調患難中的團契 |
 | ὑπομονή | hypomonē | 忍耐、堅忍 | 9節，不是被動的忍受，而是在壓力下持守到底的力量 |
 | ὅμοιον υἱὸν ἀνθρώπου | homoion huion anthrōpou | 好像人子 | 13節，直接呼應但以理書7:13 |
@@ -68,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 患難、國度、忍耐三者並存
 
@@ -95,6 +113,18 @@ publisher: 三書精讀出版系統
 基督沒有把異象的意義留給約翰自己猜測，而是親自說明：七星是七個教會的使者，七燈臺是七個教會。這提醒讀者：啟示錄中的許多象徵，作者自己已經給出解讀的鑰匙，讀者的責任是留意經文本身提供的解釋，而非憑空臆測。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 104:1-2
+
+> ^1^我的心哪，你要稱頌耶和華！耶和華─我的神啊，你為至大！你以尊榮威嚴為衣服，
+> ^2^披上亮光，如披外袍，鋪張穹蒼，如鋪幔子，
+
+「披上亮光，如披外袍」——詩人筆下那位以光為衣的創造主，正是約翰在拔摩海島上所見「面貌如同烈日放光」的那一位。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -133,7 +163,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O Worship the King
+
+*Robert Grant, 1833*
+
+> O worship the King, all glorious above,
+> And gratefully sing His wonderful love;
+> Our Shield and Defender, the Ancient of Days,
+> Pavilioned in splendor, and girded with praise.
+
+「亙古常在者」(the Ancient of Days) 是但以理書 7:9 的稱號，而約翰所見的人子，正是從那一幅異象裡走出來的。默想：約翰一見就仆倒如死，卻聽見「不要懼怕」——榮耀使人俯伏，恩典使人站起。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**教會中間的大祭司**：麥克阿瑟指出，1:13 人子「穿長衣、束金帶」是大祭司式的裝束，而他行走的位置是「燈臺中間」——榮耀的基督此刻不在遠處，而在他的眾教會中間，察看、修剪、供應每一個燈臺。
+
+**先仆倒、後受差**：約翰是與主同行三年半、曾靠在主胸膛的使徒，見到榮耀的基督仍「仆倒在他腳前像死了一樣」。麥克阿瑟以此提醒：一切對基督不冷不熱的態度，都出於從未真正看見他的榮耀。
+
+**鑰匙在誰手裡**：1:18「拿著死亡和陰間的鑰匙」——對正在受逼迫、隨時可能殉道的教會，這句話是最實際的安慰：仇敵至多能用死亡恐嚇，卻連死亡的門鎖都不在牠手中。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：榮耀基督的異象 (Ask Elder Wong)
 

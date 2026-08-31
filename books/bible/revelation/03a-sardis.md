@@ -10,13 +10,33 @@ publisher: 三書精讀出版系統
 
 啟示錄 3:1-6
 
-**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封信中，撒狄是唯一一封找不到一句稱讚的信。主耶穌對以弗所說「然而有一件事我要責備你」，對別迦摩、推雅推喇也是先讚後責，但對撒狄，開口就是「其實是死的」。這封最短、最嚴厲的信，卻不是要定這教會的罪就此了結——基督在此自稱「那有神的七靈和七星的」，正是啟示錄1:4、1:16「拿著七星」的同一位。祂沒有放棄這間看似死氣沉沉的教會，反而親自握著它、親自數點它剩下的幾個名字。死亡從不是基督止步的地方；祂正是「那存活的；我曾死過，現在又活了」（1:18）的那一位——連死亡都能被祂扭轉。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Wake, Awake, for Night Is Flying**
+> *Philipp Nicolai, 1599; tr. Catherine Winkworth, 1858*
+>
+> Wake, awake, for night is flying,
+> The watchmen on the heights are crying:
+> Awake, Jerusalem, at last!
+> Midnight hears the welcome voices,
+> And at the thrilling cry rejoices.
+>
+> 醒來，醒來，黑夜將盡，
+> 守望者在高處呼喊：
+> 耶路撒冷，快快醒來！
+> 子夜聽見那歡迎之聲，
+> 因這震動的呼喚歡騰。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +46,11 @@ publisher: 三書精讀出版系統
 
 > ^4^然而在撒狄，你還有幾名是未曾污穢自己衣服的，他們要穿白衣與我同行，因為他們是配得過的。^5^凡得勝的必這樣穿白衣，我也必不從生命冊上塗抹他的名；且要在我父面前，和我父眾使者面前，認他的名。^6^聖靈向眾教會所說的話，凡有耳的，就應當聽！}」
 
-### English — ESV
+### English — NASB
 
-> ^1^"And to the angel of the church in Sardis write: 'The words of him who has the seven spirits of God and the seven stars. \jesus{I know your works. You have the reputation of being alive, but you are dead. ^2^Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God. ^3^Remember, then, what you received and heard. Keep it, and repent. If you will not wake up, I will come like a thief, and you will not know at what hour I will come against you.
+> ^1^'To the angel of the church in Sardis write: He who has the seven Spirits of God and the seven stars, says this: 'I know your deeds, that you have a name that you are alive, but you are dead. \jesus{ ^2^'Wake up, and strengthen the things that remain, which were about to die; for I have not found your deeds completed in the sight of My God. ^3^'So remember what you have received and heard; and keep *it*, and repent. Therefore if you do not wake up, I will come like a thief, and you will not know at what hour I will come to you.
 
-> ^4^Yet you have still a few names in Sardis, people who have not soiled their garments, and they will walk with me in white, for they are worthy. ^5^The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels. ^6^He who has an ear, let him hear what the Spirit says to the churches.}'"
+> ^4^'But you have a few people in Sardis who have not soiled their garments; and they will walk with Me in white, for they are worthy. ^5^'He who overcomes will thus be clothed in white garments; and I will not erase his name from the book of life, and I will confess his name before My Father and before His angels. ^6^'He who has an ear, let him hear what the Spirit says to the churches.'}
 
 ---
 
@@ -49,7 +69,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ὄνομα | onoma | 名字、名聲 | 「按名你是活的」——徒有其名 |
 | γρηγορέω | grēgoreō | 警醒、儆醒 | 本節出現兩次（2, 3節），呼應撒狄失守的歷史 |
 | στηρίζω | stērizō | 堅固、扶持 | 對那「剩下、快要死的」發出的呼召 |
@@ -63,7 +83,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 名聲與實際的落差 (The Gap Between Reputation and Reality)
 
@@ -86,6 +106,18 @@ publisher: 三書精讀出版系統
 撒狄的得勝應許直指這教會最深的恐懼——名存實亡：「我也必不從生命冊上塗抹他的名；且要在我父面前，和我父眾使者面前，認他的名」（3:5）。世人眼中的「名聲」會褪色、會落空，但基督親口在父與眾天使面前的「宣認」，才是唯一不會落空的名分。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 130:5-6
+
+> ^5^我等候耶和華，我的心等候；我也仰望他的話。
+> ^6^我的心等候主，勝於守夜的，等候天亮，勝於守夜的，等候天亮。
+
+「勝於守夜的等候天亮」——守望是撒狄信的關鍵詞（3:2「你要警醒」）。真正的警醒不是焦慮地張望，是等候天亮的人心裡已經知道天必要亮。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -124,7 +156,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Christ, Whose Glory Fills the Skies
+
+*Charles Wesley, 1740*
+
+> Christ, whose glory fills the skies,
+> Christ, the true, the only Light,
+> Sun of Righteousness, arise,
+> Triumph o'er the shades of night.
+
+撒狄「按名你是活的，其實是死的」——這是七封信中最可怕的一句，因為它意味著這間教會自己並不知道。默想：名聲是別人給的，實際是主看見的；兩者之間的距離，就是撒狄的病。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**按名是活的，其實是死的**：麥克阿瑟把撒狄視為「有名無實」教會的定案研究：沒有異端記錄、沒有逼迫記錄、名聲良好——問題恰恰是連撒但都不必攻擊一間已死的教會。
+
+**歷史成了講章**：撒狄城建在峭壁上，自恃天險，歷史上卻兩次因守軍懈怠在夜間失城。他指出主的「你要警醒」正是拿這座城最著名的恥辱作講章——屬靈的失守，同樣從自恃安全開始。
+
+**衣服未曾污穢的少數人**：即使在死了的教會裡，主仍點名「還有幾名是未曾污穢自己衣服的」——審判以教會為單位，記念卻以名字為單位；主的眼目從不把忠心的少數混在整體裡一併勾銷。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：撒狄教會 (Ask Elder Wong)
 
@@ -160,9 +218,9 @@ publisher: 三書精讀出版系統
 
 「甩開懶惰的沉睡，歡然起來」——這正是基督對撒狄教會的心意：不是定罪後棄絕，而是呼喚甦醒。
 
-**詩篇**：詩篇 88
+**詩篇**：詩篇 88:1-3
 
-> 耶和華，拯救我的神啊，我晝夜在你面前呼籲。願我的禱告達到你面前；求你側耳聽我的呼求。因為我心裡滿了患難，我的性命臨近陰間。
+> 耶和華─拯救我的神啊，我晝夜在你面前呼籲。願我的禱告達到你面前；求你側耳聽我的呼求！因為我心裡滿了患難；我的性命臨近陰間。
 
 詩篇88是詩篇中少有的、通篇沒有轉向盼望的哀歌，貼切描繪出「名義上活著、實際卻在陰間邊緣」的掙扎——但正因如此，這詩篇的存在本身就是應許：即使在最幽暗、看似無出路的光景裡，仍可以向神呼籲，而神仍然垂聽。
 

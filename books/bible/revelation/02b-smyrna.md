@@ -10,13 +10,35 @@ publisher: 三書精讀出版系統
 
 啟示錄 2:8-11
 
-**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封書信中，士每拿與非拉鐵非是僅有的兩封沒有一句責備的信——而士每拿教會偏偏是七間教會中最貧窮、最受苦的一間。主向這間在患難、貧窮、毀謗中掙扎的教會顯現，自稱是「那首先的、末後的、死過又活的」——這正是1:17-18約翰見異象時仆倒又被扶起時基督對自己的宣告。對一群隨時可能因信仰付上性命代價的信徒，沒有任何身份比「死過又活的」更能安慰人心：你們所懼怕的死亡，祂已經親自經過，並且勝過了。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Faith of Our Fathers**
+> *Frederick W. Faber, 1849*
+>
+> Faith of our fathers, living still
+> In spite of dungeon, fire, and sword;
+> O how our hearts beat high with joy
+> Whene'er we hear that glorious word!
+> Faith of our fathers, holy faith!
+> We will be true to thee till death.
+>
+> 先祖信仰，至今猶存，
+> 雖經牢獄、烈火、刀劍；
+> 每逢聽見那榮耀的道，
+> 我心便歡然踴躍！
+> 先祖信仰，聖潔信仰！
+> 我必至死持守不移。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +48,11 @@ publisher: 三書精讀出版系統
 
 > ^10^你將要受的苦你不用怕。魔鬼要把你們中間幾個人下在監裡，叫你們被試煉，你們必受患難十日。你務要至死忠心，我就賜給你那生命的冠冕。^11^聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，必不受第二次死的害。}」
 
-### English — ESV
+### English — NASB
 
-> ^8^"And to the angel of the church in Smyrna write: 'The words of the first and the last, who died and came to life. \jesus{^9^I know your tribulation and your poverty (but you are rich) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan.
+> ^8^'And to the angel of the church in Smyrna write: The first and the last, who was dead, and has come to life, says this: \jesus{ ^9^'I know your tribulation and your poverty (but you are rich), and the blasphemy by those who say they are Jews and are not, but are a synagogue of Satan.
 
-> ^10^Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life. ^11^He who has an ear, let him hear what the Spirit says to the churches. The one who conquers will not be hurt by the second death.'}"
+> ^10^'Do not fear what you are about to suffer. Behold, the devil is about to cast some of you into prison, so that you will be tested, and you will have tribulation for ten days. Be faithful until death, and I will give you the crown of life. ^11^'He who has an ear, let him hear what the Spirit says to the churches. He who overcomes will not be hurt by the second death.'}
 
 ---
 
@@ -49,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | θλῖψις | thlipsis | 患難、壓迫 | 字面指重壓、擠壓，新約常用於形容因信仰受的苦難 |
 | πτωχεία | ptōcheia | 赤貧 | 比一般「貧窮」（*penia*）更嚴重，指一無所有的赤貧 |
 | βλασφημία | blasphēmia | 毀謗、褻瀆 | 9節指向猶太社群對基督徒的毀謗指控 |
@@ -64,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 屬世的貧窮與屬靈的富足
 
@@ -84,6 +106,21 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 31:1-5
+
+> ^1^（大衛的詩，交與伶長。）耶和華啊，我投靠你；求你使我永不羞愧；憑你的公義搭救我！
+> ^2^求你側耳而聽，快快救我！作我堅固的磐石，拯救我的保障！
+> ^3^因為你是我的巖石，我的山寨；所以，求你為你名的緣故引導我，指點我。
+> ^4^求你救我脫離人為我暗設的網羅，因為你是我的保障。
+> ^5^我將我的靈魂交在你手裡；耶和華誠實的神啊，你救贖了我。
+
+「我將我的靈魂交在你手裡」——主在十字架上引用的正是這一節（路 23:46）。士每拿教會被要求「至死忠心」，走的是主自己走過的路。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -91,7 +128,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在現存最早的啟示錄註釋中指出，士每拿信中「十日」的患難，象徵一段有限度、由神親自量度的試煉期，而非無止境的苦難；他特別提醒讀者，主在應許冠冕之前先說「不要懼怕」，顯明苦難本身從不是神對教會憤怒的記號，而是煉淨與印證信心的途徑。
 
@@ -121,7 +158,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### In the Cross of Christ I Glory
+
+*John Bowring, 1825*
+
+> In the cross of Christ I glory,
+> Towering o'er the wrecks of time;
+> All the light of sacred story
+> Gathers round its head sublime.
+
+士每拿是七封信中唯一沒有受責備的教會，也是最貧窮、最受逼迫的教會。默想：主對他們說「你卻是富足的」——在主的帳目裡，患難欄與財富欄是同一欄。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**主向受苦者亮出的名號**：麥克阿瑟指出，基督向士每拿的自我介紹是「那首先的、末後的、死過又活的」——對一間天天面對死亡威脅的教會，沒有比「我親自死過、又活了」更對症的安慰。
+
+**貧窮卻富足的帳目**：士每拿 (Smyrna) 一名與「沒藥」相關——被壓碎才發香。他指出主完全知道他們的患難與貧窮，卻宣告「你卻是富足的」；與老底嘉「自以為富足、其實貧窮」恰成鏡像。
+
+**「十日」的患難有主量定的邊界**：無論十日作何解，麥克阿瑟強調重點是：患難的長度由主規定，不由逼迫者決定；因此「至死忠心」的呼召，配上的是「生命的冠冕」的應許。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：士每拿教會 (Ask Elder Wong)
 

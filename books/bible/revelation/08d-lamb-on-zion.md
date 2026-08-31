@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 14:1-13
 
-**經文核對**：[ai-eden.com/bible/revelation/14](https://www.ai-eden.com/bible/revelation/14?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/14](https://www.ai-eden.com/bible/revelation/14?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 十三章結束在獸與假先知營造出的巨大恐懼與經濟壓迫之中；十四章一開篇，鏡頭猛然一轉——「我又觀看，見羔羊站在錫安山」。仇敵剛剛還在地上耀武揚威，這裡卻立刻讓我們看見：羔羊已經站穩了，而且不是孤身一人，是與十四萬四千人一同站立。這是啟示錄慣用的敘事手法——每當黑暗顯得快要得勝，作者總會拉開幔子，讓我們看一眼寶座那邊早已底定的結局。羔羊站立的姿態本身就是宣告：無論獸的印記多麼具有脅迫性，真正得勝的，是站在羔羊那邊、額上寫著祂名字的人。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Glorious Things of Thee Are Spoken**
+> *John Newton, 1779*
+>
+> Glorious things of thee are spoken,
+> Zion, city of our God;
+> He whose word cannot be broken
+> Formed thee for His own abode.
+>
+> 榮耀之事已論到你，
+> 錫安，我們神的城；
+> 那話語永不落空的主，
+> 造你作祂自己的居所。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -32,17 +50,17 @@ publisher: 三書精讀出版系統
 
 > ^13^我聽見從天上有聲音說：「你要寫下：從今以後，在主裡面而死的人有福了！」聖靈說：「是的，他們息了自己的勞苦，作工的果效也隨著他們。」
 
-### English — ESV
+### English — NASB
 
-> ^1^Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father's name written on their foreheads. ^2^And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like the sound of harpists playing on their harps, ^3^and they were singing a new song before the throne and before the four living creatures and before the elders. No one could learn that song except the 144,000 who had been redeemed from the earth. ^4^It is these who have not defiled themselves with women, for they are virgins. It is these who follow the Lamb wherever he goes. These have been redeemed from mankind as firstfruits for God and the Lamb, ^5^and in their mouth no lie was found, for they are blameless.
+> ^1^Then I looked, and behold, the Lamb *was* standing on Mount Zion, and with Him one hundred and forty-four thousand, having His name and the name of His Father written on their foreheads. ^2^And I heard a voice from heaven, like the sound of many waters and like the sound of loud thunder, and the voice which I heard *was* like *the sound* of harpists playing on their harps. ^3^And they sang a new song before the throne and before the four living creatures and the elders; and no one could learn the song except the one hundred and forty-four thousand who had been purchased from the earth. ^4^These are the ones who have not been defiled with women, for they have kept themselves chaste. These *are* the ones who follow the Lamb wherever He goes. These have been purchased from among men as first fruits to God and to the Lamb. ^5^And no lie was found in their mouth; they are blameless.
 
-> ^6^Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people. ^7^And he said with a loud voice, "Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water."
+> ^6^And I saw another angel flying in midheaven, having an eternal gospel to preach to those who live on the earth, and to every nation and tribe and tongue and people; ^7^and he said with a loud voice, 'Fear God, and give Him glory, because the hour of His judgment has come; worship Him who made the heaven and the earth and sea and springs of waters.'
 
-> ^8^Another angel, a second, followed, saying, "Fallen, fallen is Babylon the great, she who made all nations drink the wine of the passion of her sexual immorality."
+> ^8^And another angel, a second one, followed, saying, 'Fallen, fallen is Babylon the great, she who has made all the nations drink of the wine of the passion of her immorality.'
 
-> ^9^And another angel, a third, followed them, saying with a loud voice, "If anyone worships the beast and its image and receives a mark on his forehead or on his hand, ^10^he also will drink the wine of God's wrath, poured full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb. ^11^And the smoke of their torment goes up forever and ever, and they have no rest, day or night, these worshipers of the beast and its image, and whoever receives the mark of its name." ^12^Here is a call for the endurance of the saints, those who keep the commandments of God and their faith in Jesus.
+> ^9^Then another angel, a third one, followed them, saying with a loud voice, 'If anyone worships the beast and his image, and receives a mark on his forehead or on his hand, ^10^he also will drink of the wine of the wrath of God, which is mixed in full strength in the cup of His anger; and he will be tormented with fire and brimstone in the presence of the holy angels and in the presence of the Lamb. ^11^'And the smoke of their torment goes up forever and ever; they have no rest day and night, those who worship the beast and his image, and whoever receives the mark of his name.' ^12^Here is the perseverance of the saints who keep the commandments of God and their faith in Jesus.
 
-> ^13^And I heard a voice from heaven saying, "Write this: Blessed are the dead who die in the Lord from now on." "Blessed indeed," says the Spirit, "that they may rest from their labors, for their deeds follow them!"
+> ^13^And I heard a voice from heaven, saying, 'Write, 'Blessed are the dead who die in the Lord from now on!'' 'Yes,' says the Spirit, 'so that they may rest from their labors, for their deeds follow with them.'
 
 ---
 
@@ -61,7 +79,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ἀπαρχή | aparchē | 初熟的果子 | 14:4；舊約獻祭用語，指最先且屬神的部分，象徵這群人完全歸屬於神 |
 | εὐαγγέλιον αἰώνιον | euangelion aiōnion | 永遠的福音 | 14:6；啟示錄中唯一一次用「福音」一詞，強調這信息貫穿古今、永不改變 |
 | ἔπεσεν ἔπεσεν | epesen epesen | 傾倒了！傾倒了！ | 14:8；重複的過去式動詞，宣告巴比倫的敗落是已成定局的事，雖然實際傾覆要到17-18章才詳述 |
@@ -74,7 +92,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 得勝的群體早已站穩，審判尚未開始 (The Overcoming Company Already Stands Firm Before Judgment Unfolds)
 
@@ -94,6 +112,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 48:1-3
+
+> ^1^（可拉後裔的詩歌。）耶和華本為大！在我們神的城中，在他的聖山上，該受大讚美。
+> ^2^錫安山─大君王的城，在北面居高華美，為全地所喜悅。
+> ^3^神在其宮中，自顯為避難所。
+
+「錫安山──大君王的城」——羔羊站在錫安山上，同著十四萬四千人。詩篇 48 篇所頌讚的那座山，在第 14 章成了羔羊與屬祂之人站立的地方。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -101,13 +132,13 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, d. c. 304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在他現存最早的啟示錄註釋中，將十四萬四千人與地上教會的完整群體相連，指出這數字（12x12x1000）本身就宣告著：屬神百姓的完整性，不多不少，是神親自數點、親自保守的群體；他特別強調第13節「在主裡面而死的人有福了」，正是對當時面對逼迫（包括他自己最終也殉道）之信徒最直接的安慰。
 
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 14
 
-### 宗教改革與清教徒時期
+### 改革宗時期
 
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
@@ -131,7 +162,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### How Sweet the Name of Jesus Sounds
+
+*John Newton, 1779*
+
+> How sweet the name of Jesus sounds
+> In a believer's ear!
+> It soothes his sorrows, heals his wounds,
+> And drives away his fear.
+
+十四萬四千人「額上都寫著他的名和他父的名」——與 13 章獸的印記針鋒相對。默想：他們唱的新歌「除了那十四萬四千人以外，沒有人能學」——有些詩歌，只有走過那條路的人才唱得出來。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**從獸的印記到父的名**：麥克阿瑟指出 13 與 14 章的接縫是刻意的：上一幕人人被迫受獸的印記，下一幕鏡頭切到錫安山——十四萬四千人額上寫著羔羊與父的名。歷史的終局不是獸的登基，而是羔羊與屬他之人的站立。
+
+**唯有走過那條路的人能學的歌**：14:3 的新歌「除了……十四萬四千人以外，沒有人能學」。他讀作經歷的專屬性：有些讚美，只能從特定的患難裡長出來；神不浪費他百姓的任何眼淚。
+
+**永遠的福音與最後的呼召**：三位天使的信息（14:6-11）他讀作審判前最後的全球佈道——「要敬畏神，把榮耀歸給他」；隨後 14:13 立刻接上「在主裡面而死的人有福了」——福音、審判、安息，三者在同一段裡並肩而立。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：羔羊與十四萬四千人 (Ask Elder Wong)
 

@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 5:1-14
 
-**經文核對**：[ai-eden.com/bible/revelation/5](https://www.ai-eden.com/bible/revelation/5?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/5](https://www.ai-eden.com/bible/revelation/5?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 第4章讓我們看見寶座，第5章讓我們看見寶座旁邊那道無人能解的難題：一卷用七印封嚴的書卷，天上地下沒有一位配展開、配觀看。約翰因此「大哭」——這哭聲道出了整個受造界面對神救贖計劃時的絕望：若沒有人配打開這書卷，神永恆的計劃將如何成就？然而，就在這絕望的頂點，長老宣告：「猶大支派中的獅子……他已得勝」。可是當約翰轉頭要看那頭得勝的獅子時，他看見的卻是「羔羊站立，像是被殺過的」——這是啟示錄最震撼的一次「聽見與看見」的反轉：他聽見的是獅子，看見的卻是羔羊。得勝的方式，不是憑武力征服，而是憑捨命流血。這正是整卷啟示錄基督論的核心：那配展開歷史書卷的君王，是一隻被殺過的羔羊。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **All Hail the Power of Jesus' Name**
+> *Edward Perronet, 1780; alt. John Rippon, 1787*
+>
+> All hail the power of Jesus' name!
+> Let angels prostrate fall;
+> Bring forth the royal diadem,
+> And crown Him Lord of all.
+>
+> 全能耶穌至聖之名！
+> 眾天使俯伏敬拜；
+> 快取那君王的冠冕，
+> 尊祂為萬有之主。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^11^我又看見且聽見，寶座與活物並長老的周圍有許多天使的聲音；他們的數目有千千萬萬，^12^大聲說：「曾被殺的羔羊是配得權柄、豐富、智慧、能力、尊貴、榮耀、頌讚的。」^13^我又聽見在天上、地上、地底下、滄海裡，和天地間一切所有被造之物，都說：「但願頌讚、尊貴、榮耀、權勢都歸給坐寶座的和羔羊，直到永永遠遠！」^14^四活物就說：「阿們！」眾長老也俯伏敬拜。
 
-### English — ESV
+### English — NASB
 
-> ^1^Then I saw in the right hand of him who was seated on the throne a scroll written within and on the back, sealed with seven seals. ^2^And I saw a mighty angel proclaiming with a loud voice, "Who is worthy to open the scroll and break its seals?" ^3^And no one in heaven or on earth or under the earth was able to open the scroll or to look into it, ^4^and I began to weep loudly because no one was found worthy to open the scroll or to look into it. ^5^And one of the elders said to me, "Weep no more; behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll and its seven seals."
+> ^1^I saw in the right hand of Him who sat on the throne a book written inside and on the back, sealed up with seven seals. ^2^And I saw a strong angel proclaiming with a loud voice, 'Who is worthy to open the book and to break its seals?' ^3^And no one in heaven or on the earth or under the earth was able to open the book or to look into it. ^4^Then I *began* to weep greatly because no one was found worthy to open the book or to look into it; ^5^and one of the elders said to me, 'Stop weeping; behold, the Lion that is from the tribe of Judah, the Root of David, has overcome so as to open the book and its seven seals.'
 
-> ^6^And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth. ^7^And he went and took the scroll from the right hand of him who was seated on the throne. ^8^And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints. ^9^And they sang a new song, saying, "Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you ransomed people for God from every tribe and language and people and nation," ^10^"and you have made them a kingdom and priests to our God, and they shall reign on the earth."
+> ^6^And I saw between the throne (with the four living creatures) and the elders a Lamb standing, as if slain, having seven horns and seven eyes, which are the seven Spirits of God, sent out into all the earth. ^7^And He came and took the book out of the right hand of Him who sat on the throne. ^8^When He had taken the book, the four living creatures and the twenty-four elders fell down before the Lamb, each one holding a harp and golden bowls full of incense, which are the prayers of the saints. ^9^And they sang a new song, saying, 'Worthy are You to take the book and to break its seals; for You were slain, and purchased for God with Your blood *men* from every tribe and tongue and people and nation. ^10^'You have made them *to be* a kingdom and priests to our God; and they will reign upon the earth.'
 
-> ^11^Then I looked, and I heard around the throne and the living creatures and the elders the voice of many angels, numbering myriads of myriads and thousands of thousands, ^12^saying with a loud voice, "Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!" ^13^And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, "To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!" ^14^And the four living creatures said, "Amen!" and the elders fell down and worshiped.
+> ^11^Then I looked, and I heard the voice of many angels around the throne and the living creatures and the elders; and the number of them was myriads of myriads, and thousands of thousands, ^12^saying with a loud voice, 'Worthy is the Lamb that was slain to receive power and riches and wisdom and might and honor and glory and blessing.' ^13^And every created thing which is in heaven and on the earth and under the earth and on the sea, and all things in them, I heard saying, 'To Him who sits on the throne, and to the Lamb, *be* blessing and honor and glory and dominion forever and ever.' ^14^And the four living creatures kept saying, 'Amen.' And the elders fell down and worshiped.
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | βιβλίον | biblion | 書卷 | 用七印封嚴，象徵神救贖計劃與審判的完整內容 |
 | ἄξιος | axios | 配得 | 全章反覆出現的關鍵詞，貫串2, 4, 9, 12節 |
 | ἀρνίον | arnion | 羔羊（小羊） | 啟示錄特有的暱稱式用詞，全書出現28次，幾乎專指基督 |
@@ -67,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 從絕望的哭泣到得勝的宣告 (From Despair to Declared Victory)
 
@@ -90,6 +108,19 @@ publisher: 三書精讀出版系統
 敬拜的圈子在本章逐步擴大：先是四活物與二十四長老（8節），再是「千千萬萬」的眾天使（11節），最後是「天上、地上、地底下、滄海裡和天地間一切所有被造之物」（13節）——全宇宙最終都要向坐寶座者與羔羊獻上頌讚，這是啟示錄對「神的計劃」終極完成最早、也最壯闊的一瞥。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 40:6-8
+
+> ^6^祭物和禮物，你不喜悅；你已經開通我的耳朵。燔祭和贖罪祭非你所要。
+> ^7^那時我說：看哪，我來了！我的事在經卷上已經記載了。
+> ^8^我的神啊，我樂意照你的旨意行；你的律法在我心裡。
+
+「我的事在經卷上已經記載了」——書卷在天上，卻只有一位配展開，因為那書卷上所寫的，正是祂自己所要成就的。第 5 章的問題「誰配」，詩篇 40 篇早已答過：那位說「看哪，我來了」的。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -128,7 +159,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### There Is a Fountain Filled with Blood
+
+*William Cowper, 1772*
+
+> There is a fountain filled with blood
+> Drawn from Immanuel's veins;
+> And sinners plunged beneath that flood
+> Lose all their guilty stains.
+
+「你曾被殺，用自己的血從各族、各方、各民、各國中買了人來」(5:9)。默想：約翰聽見的是「猶大支派的獅子已得勝」，一回頭看見的卻是一隻「像是被殺過的羔羊」——得勝的方式，就是被殺；這是整本聖經最大的反轉。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**書卷是地的地契**：麥克阿瑟把 5:1 封了七印的書卷理解為「地的所有權契據」——人類在伊甸把管治權拱手讓給了篡位者，這卷書問的正是：誰有權把它收回？全天庭無人配，直到羔羊出現。
+
+**聽見獅子，看見羔羊**：他強調 5:5-6 的張力是刻意的：長老宣告的是「猶大支派的獅子已得勝」，約翰轉身看見的卻是「像是被殺過的羔羊」——得勝的方式就是被殺；獅子的權柄，是用羔羊的血買來的。
+
+**「新歌」的救贖範圍**：5:9「從各族、各方、各民、各國中買了人來」——他指出這節推翻一切狹隘的救恩觀：寶座前的敬拜群體從起初就是萬族的，宣教不是教會的附加項目，是羔羊配得敬拜的理由之一。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：配得展開書卷的羔羊 (Ask Elder Wong)
 

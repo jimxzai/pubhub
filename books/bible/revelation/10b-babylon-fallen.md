@@ -10,13 +10,35 @@ publisher: 三書精讀出版系統
 
 啟示錄 18:1-24
 
-**經文核對**：[ai-eden.com/bible/revelation/18](https://www.ai-eden.com/bible/revelation/18?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/18](https://www.ai-eden.com/bible/revelation/18?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 這一章沒有直接描述基督的出現，卻處處是祂公義掌權的迴響。地上的君王、客商、船主都為巴比倫的傾覆哭泣哀號，天上卻傳來完全不同的呼聲：「天哪，眾聖徒、眾使徒、眾先知阿，你們都要因他歡喜，因為神已經在他身上伸了你們的冤」（20節）。地上的哭聲與天上的歡呼形成強烈對比，揭示了一個貫穿全書的真理：真正的審判者是那位掌管公義的神，祂終必為受逼迫的聖徒伸冤，而世人所倚靠、所哀悼的一切財富與榮華，在祂公義的審判面前終必歸於無有。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Abide with Me**
+> *Henry Francis Lyte, 1847*
+>
+> Abide with me; fast falls the eventide;
+> The darkness deepens; Lord, with me abide.
+> When other helpers fail and comforts flee,
+> Help of the helpless, O abide with me.
+> Change and decay in all around I see;
+> O Thou who changest not, abide with me.
+>
+> 求主同住，日已西沉；
+> 黑暗漸深，求主與我同住。
+> 安慰消逝，援手無門，
+> 無助者的幫助啊，與我同住。
+> 四圍所見盡是改變朽壞；
+> 永不改變的主，與我同住。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -32,17 +54,17 @@ publisher: 三書精讀出版系統
 
 > ^21^有一位大力的天使舉起一塊石頭，好像大磨石，扔在海裡，說：「巴比倫大城也必這樣猛力的被扔下去，決不能再見了。^22^彈琴、作樂、吹笛、吹號的聲音，在你中間決不能再聽見；各行手藝人在你中間決不能再遇見；推磨的聲音在你中間決不能再聽見；^23^燈光在你中間決不能再照耀；新郎和新婦的聲音，在你中間決不能再聽見。你的客商原來是地上的尊貴人；萬國也被你的邪術迷惑了。^24^先知和聖徒，並地上一切被殺之人的血，都在這城裡看見了。」
 
-### English — ESV
+### English — NASB
 
-> ^1^After this I saw another angel coming down from heaven, having great authority, and the earth was made bright with his glory. ^2^And he called out with a mighty voice, "Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast. ^3^For all nations have drunk the wine of the passion of her sexual immorality, and the kings of the earth have committed immorality with her, and the merchants of the earth have grown rich from the power of her luxurious living."
+> ^1^After these things I saw another angel coming down from heaven, having great authority, and the earth was illumined with his glory. ^2^And he cried out with a mighty voice, saying, 'Fallen, fallen is Babylon the great! She has become a dwelling place of demons and a prison of every unclean spirit, and a prison of every unclean and hateful bird. ^3^'For all the nations have drunk of the wine of the passion of her immorality, and the kings of the earth have committed *acts of* immorality with her, and the merchants of the earth have become rich by the wealth of her sensuality.'
 
-> ^4^Then I heard another voice from heaven saying, "Come out of her, my people, lest you take part in her sins, lest you share in her plagues; ^5^for her sins are heaped high as heaven, and God has remembered her iniquities. ^6^Pay her back as she herself has paid back others, and repay her double for her deeds; mix a double portion for her in the cup she mixed. ^7^As she glorified herself and lived in luxury, so give her a like measure of torment and mourning, since in her heart she says, 'I sit as a queen, I am no widow, and mourning I shall never see.' ^8^For this reason her plagues will come in a single day, death and mourning and famine, and she will be burned up with fire; for mighty is the Lord God who has judged her."
+> ^4^I heard another voice from heaven, saying, 'Come out of her, my people, so that you will not participate in her sins and receive of her plagues; ^5^for her sins have piled up as high as heaven, and God has remembered her iniquities. ^6^'Pay her back even as she has paid, and give back *to her* double according to her deeds; in the cup which she has mixed, mix twice as much for her. ^7^'To the degree that she glorified herself and lived sensuously, to the same degree give her torment and mourning; for she says in her heart, 'I SIT *as* A QUEEN AND I AM NOT A WIDOW, and will never see mourning.' ^8^'For this reason in one day her plagues will come, pestilence and mourning and famine, and she will be burned up with fire; for the Lord God who judges her is strong.
 
-> ^9^And the kings of the earth, who committed sexual immorality and lived in luxury with her, will weep and wail over her when they see the smoke of her burning. ^10^They will stand far off, in fear of her torment, and say, "Alas! Alas! You great city, you mighty city, Babylon! For in a single hour your judgment has come." ^11^And the merchants of the earth weep and mourn for her, since no one buys their cargo anymore, ^12^cargo of gold, silver, jewels, pearls, fine linen, purple cloth, silk, scarlet cloth, all kinds of scented wood, all kinds of articles of ivory, all kinds of articles of costly wood, bronze, iron and marble, ^13^cinnamon, spice, incense, myrrh, frankincense, wine, oil, fine flour, wheat, cattle and sheep, horses and chariots, and slaves, that is, human souls.
+> ^9^'And the kings of the earth, who committed *acts of* immorality and lived sensuously with her, will weep and lament over her when they see the smoke of her burning, ^10^standing at a distance because of the fear of her torment, saying, 'Woe, woe, the great city, Babylon, the strong city! For in one hour your judgment has come.' ^11^'And the merchants of the earth weep and mourn over her, because no one buys their cargoes any more— ^12^cargoes of gold and silver and precious stones and pearls and fine linen and purple and silk and scarlet, and every *kind of* citron wood and every article of ivory and every article *made* from very costly wood and bronze and iron and marble, ^13^and cinnamon and spice and incense and perfume and frankincense and wine and olive oil and fine flour and wheat and cattle and sheep, and *cargoes* of horses and chariots and slaves and human lives.
 
-> ^14^"The fruit for which your soul longed has gone from you, and all your delicacies and your splendors are lost to you, never to be found again!" ^15^The merchants of these wares, who gained wealth from her, will stand far off, in fear of her torment, weeping and mourning aloud, ^16^"Alas, alas, for the great city that was clothed in fine linen, in purple and scarlet, adorned with gold, with jewels, and with pearls! ^17^For in a single hour all this wealth has been laid waste." And all shipmasters and seafaring men, sailors and all whose trade is on the sea, stood far off ^18^and cried out as they saw the smoke of her burning, "What city was like the great city?" ^19^And they threw dust on their heads as they wept and mourned, crying out, "Alas, alas, for the great city where all who had ships at sea grew rich by her wealth! For in a single hour she has been laid waste. ^20^Rejoice over her, O heaven, and you saints and apostles and prophets, for God has given judgment for you against her!"
+> ^14^'The fruit you long for has gone from you, and all things that were luxurious and splendid have passed away from you and *men* will no longer find them. ^15^'The merchants of these things, who became rich from her, will stand at a distance because of the fear of her torment, weeping and mourning, ^16^saying, 'Woe, woe, the great city, she who was clothed in fine linen and purple and scarlet, and adorned with gold and precious stones and pearls; ^17^for in one hour such great wealth has been laid waste!' And every shipmaster and every passenger and sailor, and as many as make their living by the sea, stood at a distance, ^18^and were crying out as they saw the smoke of her burning, saying, 'What *city* is like the great city?' ^19^'And they threw dust on their heads and were crying out, weeping and mourning, saying, 'Woe, woe, the great city, in which all who had ships at sea became rich by her wealth, for in one hour she has been laid waste!' ^20^'Rejoice over her, O heaven, and you saints and apostles and prophets, because God has pronounced judgment for you against her.'
 
-> ^21^Then a mighty angel took up a stone like a great millstone and threw it into the sea, saying, "So will Babylon the great city be thrown down with violence, and will be found no more; ^22^and the sound of harpists and musicians, of flute players and trumpeters, will be heard in you no more, and a craftsman of any craft will be found in you no more, and the sound of the mill will be heard in you no more, ^23^and the light of a lamp will shine in you no more, and the voice of bridegroom and bride will be heard in you no more, for your merchants were the great ones of the earth, and all nations were deceived by your sorcery. ^24^And in her was found the blood of prophets and of saints, and of all who have been slain on earth."
+> ^21^Then a strong angel took up a stone like a great millstone and threw it into the sea, saying, 'So will Babylon, the great city, be thrown down with violence, and will not be found any longer. ^22^'And the sound of harpists and musicians and flute-players and trumpeters will not be heard in you any longer; and no craftsman of any craft will be found in you any longer; and the sound of a mill will not be heard in you any longer; ^23^and the light of a lamp will not shine in you any longer; and the voice of the bridegroom and bride will not be heard in you any longer; for your merchants were the great men of the earth, because all the nations were deceived by your sorcery. ^24^'And in her was found the blood of prophets and of saints and of all who have been slain on the earth.'
 
 ---
 
@@ -61,7 +83,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ἔπεσεν ἔπεσεν | epesen epesen | 傾倒了！傾倒了！ | 重複的過去時態宣告，模仿以賽亞書21:9「巴比倫傾倒了！傾倒了！」的先知宣判語氣 |
 | στρῆνος | strēnos | 奢華、驕奢淫逸 | 用於描述巴比倫過度的物質享受，隱含道德敗壞的意味 |
 | διπλώσατε | diplōsate | 加倍報應 | 命令語氣，呼籲執行公義的加倍審判，對應她加倍的罪惡 |
@@ -75,7 +97,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 地上的哀哭與天上的歡呼形成鮮明對比 (Earth's Mourning and Heaven's Rejoicing Stand in Stark Contrast)
 
@@ -95,6 +117,22 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 137:1-6
+
+> ^1^我們曾在巴比倫的河邊坐下，一追想錫安就哭了。
+> ^2^我們把琴掛在那裡的柳樹上；
+> ^3^因為在那裡，擄掠我們的要我們唱歌，搶奪我們的要我們作樂，說：給我們唱一首錫安歌罷！
+> ^4^我們怎能在外邦唱耶和華的歌呢？
+> ^5^耶路撒冷啊，我若忘記你，情願我的右手忘記技巧！
+> ^6^我若不記念你，若不看耶路撒冷過於我所最喜樂的，情願我的舌頭貼於上膛！
+
+「我們曾在巴比倫的河邊坐下」——神的百姓曾為巴比倫哭，如今天上為巴比倫的傾倒歡呼（18:20）。兩種眼淚之間隔著的，是「我的民哪，你們要從那城出來」(18:4) 這一句呼召。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -102,7 +140,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 260-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將這章對羅馬奢華貿易的描繪，理解為對當時讀者切身處境的直接對照——他們親眼目睹羅馬的富庶與逼迫並存，這章正是要提醒他們：這種繁華終必傾覆，不要被表面的興盛迷惑而妥協信仰。
 
@@ -114,7 +152,7 @@ publisher: 三書精讀出版系統
 
 > — Augustine, *City of God*, Book 1, Preface
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -138,7 +176,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Fading Is the Worldling's Pleasure
+
+*John Newton, 1779 (from Glorious Things)*
+
+> Fading is the worldling's pleasure,
+> All his boasted pomp and show;
+> Solid joys and lasting treasure
+> None but Zion's children know.
+
+第 18 章用三章篇幅寫地上的君王、客商、船主為巴比倫哀哭——哀哭的原因全是貿易停了、貨物沒人買了。默想：一座城傾覆，哀悼者計算的全是損失的金額；這正是巴比倫式繁華的本相——連眼淚都是經濟的。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**一小時之內**：麥克阿瑟數算 18 章三次「一時之間」（18:10, 17, 19）——人類歷史上最龐大的經濟體系，崩塌所需的時間是一小時。所有把安全感建在市場與財富上的人，這一章是寫給他們的。
+
+**哀哭者的名單**：君王、客商、船主——他指出 18 章的輓歌全部出自受益者之口，而他們「遠遠地站著」哭（18:10, 15, 17）：巴比倫式的關係到了審判之日只剩利益的距離，沒有一個哀哭者為她捨命。
+
+**「我的民哪，你們要從那城出來」**：18:4 是全章唯一向信徒發出的命令。他強調這呼召的屬靈本質：不是地理上的搬遷，而是價值系統的撤離——在體系傾覆之前就與它劃清界線，「免得與她一同有罪，受她所受的災殃」。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：巴比倫傾倒了 (Ask Elder Wong)
 
@@ -176,7 +240,7 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇52:5-7
 
-> 神也要把你拆毀，直到永遠；他要把你拿去，從你帳棚中抽出，從活人之地將你拔出……看哪，這就是那不以神為他力量的人，只倚仗他豐富的財物，在邪惡上堅立自己。
+> 神也要毀滅你，直到永遠；他要把你拿去，從你的帳棚中抽出，從活人之地將你拔出。（細拉）……說：看哪，這就是那不以神為他力量的人，只倚仗他豐富的財物，在邪惡上堅立自己。
 
 大衛描繪倚靠財富、行惡的人終必被神拔除，正是巴比倫傾覆的先聲。
 

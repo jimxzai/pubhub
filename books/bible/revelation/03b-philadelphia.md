@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 3:7-13
 
-**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封信中，非拉鐵非與士每拿是僅有的兩間沒有受到任何責備的教會——而非拉鐵非收到的稱讚也最溫柔懇切。這間教會「略有一點力量」，論人數、論資源，都不是亞細亞七城中最起眼的一個，卻蒙基督親自稱許「你既遵守我忍耐的道」。基督在此自稱「那聖潔、真實、拿著大衛的鑰匙、開了就沒有人能關、關了就沒有人能開的」——這呼應以賽亞書22:22以利亞敬掌管王家鑰匙的職分，宣告祂對進入神國度的門戶擁有絕對的權柄。一個「略有一點力量」的教會，若單靠自己的力量，開不了任何一扇門；但基督親自為他們開了一扇「無人能關」的門——這正是全信的核心：不是這教會有多強大，而是這教會所倚靠的那一位有多信實。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Guide Me, O Thou Great Jehovah**
+> *William Williams, 1745; tr. Peter Williams, 1771*
+>
+> Guide me, O Thou great Jehovah,
+> Pilgrim through this barren land;
+> I am weak, but Thou art mighty;
+> Hold me with Thy powerful hand.
+>
+> 引導我，全能的耶和華，
+> 我是曠野中的客旅；
+> 我雖軟弱，你卻全能，
+> 求以大能的手扶持。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +44,11 @@ publisher: 三書精讀出版系統
 
 > \jesus{^11^我必快來，你要持守你所有的，免得人奪去你的冠冕。^12^得勝的，我要叫他在我神殿中作柱子，他也必不再從那裡出去。我又要將我神的名和我神城的名（這城就是從天上、從我神那裡降下來的新耶路撒冷），並我的新名，都寫在他上面。}^13^聖靈向眾教會所說的話，凡有耳的，就應當聽！』
 
-### English — ESV
+### English — NASB
 
-> ^7^"And to the angel of the church in Philadelphia write: 'The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens. \jesus{^8^"I know your works. Behold, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name. ^9^Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie—behold, I will make them come and bow down before your feet, and they will learn that I have loved you. ^10^Because you have kept my word about patient endurance, I will keep you from the hour of trial that is coming on the whole world, to try those who dwell on the earth.}
+> ^7^'And to the angel of the church in Philadelphia write: He who is holy, who is true, who has the key of David, who opens and no one will shut, and who shuts and no one opens, says this: \jesus{ ^8^'I know your deeds. Behold, I have put before you an open door which no one can shut, because you have a little power, and have kept My word, and have not denied My name. ^9^'Behold, I will cause *those* of the synagogue of Satan, who say that they are Jews and are not, but lie— I will make them come and bow down at your feet, and *make them* know that I have loved you. ^10^'Because you have kept the word of My perseverance, I also will keep you from the hour of testing, that *hour* which is about to come upon the whole world, to test those who dwell on the earth.}
 
-> \jesus{^11^I am coming soon. Hold fast what you have, so that no one may seize your crown. ^12^The one who conquers, I will make him a pillar in the temple of my God. Never shall he go out of it, and I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down from my God out of heaven, and my own new name.} ^13^He who has an ear, let him hear what the Spirit says to the churches.'"
+> \jesus{ ^11^'I am coming quickly; hold fast what you have, so that no one will take your crown. ^12^'He who overcomes, I will make him a pillar in the temple of My God, and he will not go out from it anymore; and I will write on him the name of My God, and the name of the city of My God, the new Jerusalem, which comes down out of heaven from My God, and My new name.} ^13^'He who has an ear, let him hear what the Spirit says to the churches.'
 
 ---
 
@@ -49,7 +67,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | κλεὶς Δαυίδ | kleis Dauid | 大衛的鑰匙 | 引自賽22:22，象徵掌管進入神家的絕對權柄 |
 | θύρα ἠνεῳγμένη | thyra aneōgmenē | 敞開的門 | 完成式分詞，表示「已經開了、且持續開著」的狀態 |
 | μικρὰν δύναμιν | mikran dynamin | 一點力量 | 承認軟弱，卻不是責備，而是稱讚的前提 |
@@ -63,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 軟弱與忠心可以並存 (Weakness and Faithfulness Can Coexist)
 
@@ -86,6 +104,19 @@ publisher: 三書精讀出版系統
 非拉鐵非人因地震而屢次流離，基督應許得勝者「在我神殿中作柱子，他也必不再從那裡出去」——這是對「隨時可能失去立足之地」最深的醫治：一個永不動搖、永久安穩的身分與居所，並且要親自寫上「我神的名」「我神城的名」「我的新名」三重印記，表明完全的歸屬。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 118:19-21
+
+> ^19^給我敞開義門；我要進去稱謝耶和華！
+> ^20^這是耶和華的門；義人要進去！
+> ^21^我要稱謝你，因為你已經應允我，又成了我的拯救！
+
+「給我敞開義門」——非拉鐵非的應許是一扇「敞開的門，是無人能關的」(3:8)。門不是我們推開的，是那位「拿著大衛的鑰匙」的主開的。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -124,7 +155,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### A Charge to Keep I Have
+
+*Charles Wesley, 1762*
+
+> A charge to keep I have,
+> A God to glorify,
+> A never-dying soul to save,
+> And fit it for the sky.
+
+主對非拉鐵非說「你要持守你所有的」——不是去爭取更多，是不要放掉手中已有的。默想：「你略有一點力量」不是責備，是主準確的體恤；祂從不要求超過祂所賜的。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**兩間無可責備的教會之一**：麥克阿瑟指出，七封信中唯有士每拿與非拉鐵非不受責備——一間是受苦的教會，一間是傳道的教會。這個組合本身就是信息。
+
+**「略有一點力量」是稱讚不是遺憾**：他強調 3:8 的語氣：主沒有要求非拉鐵非變強，而是記念他們用僅有的一點力量遵守主道、沒有棄絕主名——敞開的門是為軟弱而忠心的教會開的，不是為強者開的。
+
+**聖殿中的柱子，永不再出去**：非拉鐵非屢遭地震，居民一次次逃出城外。他指出 3:12 的應許正對著這個創傷說話：得勝者要作神殿中的柱子，「他也必不再從那裡出去」——永不再逃難的家。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：非拉鐵非教會 (Ask Elder Wong)
 

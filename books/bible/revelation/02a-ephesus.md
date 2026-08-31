@@ -10,13 +10,35 @@ publisher: 三書精讀出版系統
 
 啟示錄 2:1-7
 
-**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封書信的第一封寫給以弗所——保羅曾在此牧養三年、提摩太曾在此牧養、使徒約翰晚年也在此服事的教會。這是一間血統最純正、教導最扎實、辨別力最強的教會，主也毫不吝惜地稱讚她「勞碌、忍耐」、「不能容忍惡人」、「試驗那自稱為使徒卻不是使徒的」。但主開口的第一句話卻是「然而，有一件事我要責備你」。以弗所教會做對了幾乎所有的事，卻做丟了一件事——起初的愛心。基督在此顯明自己是「那右手拿著七星、在七個金燈臺中間行走的」，祂行走在燈臺之間，意味著祂親自察看、親自量度每一間教會，而祂所看重的，不只是教會做了甚麼，更是教會為誰而做。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Come, Thou Fount of Every Blessing**
+> *Robert Robinson, 1758*
+>
+> O to grace how great a debtor
+> Daily I'm constrained to be!
+> Let Thy goodness, like a fetter,
+> Bind my wandering heart to Thee.
+> Prone to wander, Lord, I feel it,
+> Prone to leave the God I love.
+>
+> 我欠恩典何等深重，
+> 天天被恩典所催逼；
+> 願你良善如同鎖鏈，
+> 繫住我漂流的心。
+> 主啊，我知我易漂流，
+> 易於離棄我所愛的神。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +50,13 @@ publisher: 三書精讀出版系統
 
 > \jesus{^7^聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將神樂園中生命樹的果子賜給他吃。}」
 
-### English — ESV
+### English — NASB
 
-> ^1^"To the angel of the church in Ephesus write: 'The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands. \jesus{^2^I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false. ^3^I know you are enduring patiently and bearing up for my name's sake, and you have not grown weary.}
+> ^1^'To the angel of the church in Ephesus write: The One who holds the seven stars in His right hand, the One who walks among the seven golden lampstands, says this: \jesus{ ^2^'I know your deeds and your toil and perseverance, and that you cannot tolerate evil men, and you put to the test those who call themselves apostles, and they are not, and you found them *to be* false; ^3^and you have perseverance and have endured for My name's sake, and have not grown weary.}
 
-> \jesus{^4^But I have this against you, that you have abandoned the love you had at first. ^5^Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent. ^6^Yet this you have: you hate the works of the Nicolaitans, which I also hate.'}
+> \jesus{ ^4^'But I have *this* against you, that you have left your first love. ^5^'Therefore remember from where you have fallen, and repent and do the deeds you did at first; or else I am coming to you and will remove your lampstand out of its place— unless you repent. ^6^'Yet this you do have, that you hate the deeds of the Nicolaitans, which I also hate.}
 
-> \jesus{^7^He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God.'}"
+> \jesus{ ^7^'He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, I will grant to eat of the tree of life which is in the Paradise of God.'}
 
 ---
 
@@ -53,7 +75,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | κόπος | kopos | 勞碌、辛勞 | 帶著疲憊代價的工作，而非輕鬆的服事 |
 | ὑπομονή | hypomonē | 忍耐、堅忍 | 在壓力下持守到底的能力，七封書信中反覆出現 |
 | ἀγάπη | agapē | 愛（心） | 4節「起初的愛心」，指向捨己、委身的愛，而非情感上的熱度 |
@@ -68,7 +90,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 正統教義不能取代起初的愛 (Sound Doctrine Cannot Replace First Love)
 
@@ -88,6 +110,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 51:10-12
+
+> ^10^神啊，求你為我造清潔的心，使我裡面重新有正直（或譯：堅定）的靈。
+> ^11^不要丟棄我，使我離開你的面；不要從我收回你的聖靈。
+> ^12^求你使我仍得救恩之樂，賜我樂意的靈扶持我，
+
+以弗所教會勞碌、忍耐、恨惡惡行，卻把起初的愛心丟了——大衛的禱告正是這一類光景唯一的出路：不是加倍努力，是求神「造清潔的心」。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -95,7 +130,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在《駁異端》中提到，使徒約翰在以弗所一直服事到圖拉真皇帝在位期間，並且在以弗所堅決抵擋諾斯底派教師克林妥（Cerinthus）的異端教導，甚至一見克林妥在澡堂中便立刻離開，唯恐澡堂倒塌。這段記載印證了以弗所教會「試驗那自稱為使徒卻不是使徒的」（2節）並非空泛的稱讚，而是承接了使徒約翰親自留下的警醒傳統。
 
@@ -125,7 +160,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Jesus, Lover of My Soul
+
+*Charles Wesley, 1740*
+
+> Jesus, lover of my soul,
+> Let me to Thy bosom fly,
+> While the nearer waters roll,
+> While the tempest still is high.
+
+衛斯理這首詩把信仰的重心放回「祂愛我」而不是「我事奉祂」。默想：主對以弗所的責備不是「你作得不夠」，而是「你離棄了起初的愛心」——事奉可以照舊，愛卻已經冷了，而只有本人知道。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**先數算七項可稱讚的**：麥克阿瑟指出，主對以弗所的稱讚多達七項——勞碌、忍耐、不容忍惡人、試驗假使徒、為主名勞苦、不乏倦、恨惡尼哥拉黨——這是一間正統、勤奮、有分辨力的模範教會，然後才有那一句「然而」。
+
+**離棄的是對主自己的愛**：他強調 2:4 的核心是關係而非事工：教義純正與事奉忙碌，都可能在愛已冷卻之後靠慣性繼續運轉，而主察看的不是運轉，是心。
+
+**回想、悔改、行起初所行的事**：他把 2:5 讀作醫治初愛冷卻的三步路徑——記起從前的光景、承認如今的墮落、回到起初的行動——並提醒：燈臺被挪去不是空話，以弗所城如今的荒涼就是歷史的註腳。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：以弗所教會 (Ask Elder Wong)
 

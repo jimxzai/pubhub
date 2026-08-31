@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 8:6-13
 
-**經文核對**：[ai-eden.com/bible/revelation/8](https://www.ai-eden.com/bible/revelation/8?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/8](https://www.ai-eden.com/bible/revelation/8?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 天上的寂靜結束了，七枝號依次吹響。前四號的審判擊打自然界——地、海、江河泉源、日月星辰，各遭三分之一的損害——這幅圖畫深深回響著出埃及記中神藉十災審判埃及、拯救以色列的敘事。羔羊揭開的書卷，如今透過號角的宣告，把審判的火從祭壇（8:5）延伸到全地。這不是失控的天災，而是那位配得書卷的羔羊，藉著受造界本身，向悖逆的世界發出警告——目的不是毀滅到底，而是留下悔改的空間，正如埃及的十災每一次都在給法老悔改的機會。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The God of Abraham Praise**
+> *Thomas Olivers, 1770 (after the Hebrew Yigdal)*
+>
+> The God of Abraham praise,
+> Who reigns enthroned above,
+> Ancient of everlasting days,
+> And God of love.
+>
+> 讚美亞伯拉罕的神，
+> 祂在至高處登寶座，
+> 亙古永存的日子之主，
+> 慈愛的神。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -34,19 +52,19 @@ publisher: 三書精讀出版系統
 
 > ^13^我又看見一個鷹飛在空中，並聽見他大聲說：「三位天使要吹那其餘的號。你們住在地上的民，禍哉！禍哉！禍哉！」
 
-### English — ESV
+### English — NASB
 
-> ^6^Now the seven angels who had the seven trumpets prepared to blow them.
+> ^6^And the seven angels who had the seven trumpets prepared themselves to sound them.
 
-> ^7^The first angel blew his trumpet, and there followed hail and fire, mixed with blood, and these were thrown upon the earth. And a third of the earth was burned up, and a third of the trees were burned up, and all green grass was burned up.
+> ^7^The first sounded, and there came hail and fire, mixed with blood, and they were thrown to the earth; and a third of the earth was burned up, and a third of the trees were burned up, and all the green grass was burned up.
 
-> ^8^The second angel blew his trumpet, and something like a great mountain, burning with fire, was thrown into the sea, and a third of the sea became blood. ^9^A third of the living creatures in the sea died, and a third of the ships were destroyed.
+> ^8^The second angel sounded, and *something* like a great mountain burning with fire was thrown into the sea; and a third of the sea became blood, ^9^and a third of the creatures which were in the sea and had life, died; and a third of the ships were destroyed.
 
-> ^10^The third angel blew his trumpet, and a great star fell from heaven, blazing like a torch, and it fell on a third of the rivers and on the springs of water. ^11^The name of the star is Wormwood. A third of the waters became wormwood, and many people died from the water, because it had been made bitter.
+> ^10^The third angel sounded, and a great star fell from heaven, burning like a torch, and it fell on a third of the rivers and on the springs of waters. ^11^The name of the star is called Wormwood; and a third of the waters became wormwood, and many men died from the waters, because they were made bitter.
 
-> ^12^The fourth angel blew his trumpet, and a third of the sun was struck, and a third of the moon, and a third of the stars, so that a third of their light might be darkened, and a third of the day might be kept from shining, and likewise a third of the night.
+> ^12^The fourth angel sounded, and a third of the sun and a third of the moon and a third of the stars were struck, so that a third of them would be darkened and the day would not shine for a third of it, and the night in the same way.
 
-> ^13^Then I looked, and I heard an eagle crying with a loud voice, as it flew directly overhead, "Woe, woe, woe to those who dwell on the earth, at the blasts of the other trumpets that the three angels are about to blow!"
+> ^13^Then I looked, and I heard an eagle flying in midheaven, saying with a loud voice, 'Woe, woe, woe to those who dwell on the earth, because of the remaining blasts of the trumpet of the three angels who are about to sound!'
 
 ---
 
@@ -65,7 +83,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | χάλαζα | chalaza | 冰雹 | 呼應出埃及記第七災 |
 | αἷμα | haima | 血 | 冰雹與火「攙著血」，強調審判帶有生命被奪去的分量 |
 | ἄψινθος | apsinthos | 茵陳、苦艾 | 舊約中常象徵神的審判與咒詛（申29:18, 耶9:15） |
@@ -79,7 +97,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 審判帶著出埃及的記號，指向拯救而非單純毀滅 (Judgment Bears the Marks of the Exodus, Pointing to Deliverance, Not Mere Destruction)
 
@@ -98,6 +116,21 @@ publisher: 三書精讀出版系統
 「禍哉！禍哉！禍哉！」三次重複的宣告，飛翔在空中、向全地發聲——這不是隱密的警告，而是公開、清楚、無可推諉的呼喊，提醒「住在地上的人」：接下來的審判將遠比前四號更為劇烈。
 
 ---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 97:1-5
+
+> ^1^耶和華作王！願地快樂！願眾海島歡喜！
+> ^2^密雲和幽暗在他的四圍；公義和公平是他寶座的根基。
+> ^3^有烈火在他前頭行，燒滅他四圍的敵人。
+> ^4^他的閃電光照世界，大地看見便震動。
+> ^5^諸山見耶和華的面，就是全地之主的面，便消化如蠟。
+
+「有烈火在他前頭行」「諸山見耶和華的面便消化如蠟」——前四號所擊打的，正是詩篇 97 篇裡在祂面前站立不住的天地。審判不是自然災害，是那位王的臨在。
+
+---
+
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -136,7 +169,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### God of Our Fathers, Whose Almighty Hand
+
+*Daniel C. Roberts, 1876*
+
+> God of our fathers, whose almighty hand
+> Leads forth in beauty all the starry band
+> Of shining worlds in splendor through the skies,
+> Our grateful songs before Thy throne arise.
+
+前四號擊打的是地、海、江河、日月星辰——正是創世記第一週神所造的四樣。默想：號筒吹響的不是毀滅的新事，是創造的收回；祂能造，也能收。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**按字面讀的生態審判**：麥克阿瑟反對把前四號寓意化：地、海、江河、天體各三分之一被擊打，是真實的、可經歷的生態浩劫——如同出埃及的災是真災；把它們讀淡，就把「不悔改」之人的責任也讀淡了。
+
+**三分之一是節制的記號**：他指出比例本身就是信息：號災及於三分之一，還不是全部——審判在加重，恩典的空間仍在；這是忿怒中留餘地的神。
+
+**呼應出埃及**：血、火、黑暗——前四號幾乎逐項重演擊打埃及的災。他提醒讀者：這位神從前用災擊打法老、為要領百姓出來；如今擊打世界，呼召仍是同一個：讓我的百姓出來。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：前四位天使吹號 (Ask Elder Wong)
 
@@ -172,10 +231,10 @@ publisher: 三書精讀出版系統
 
 即使在審判擊打自然界的時刻，這受造的世界依然是天父的世界——祂掌管的，不只是拯救的歷史，也包括審判的次序。
 
-**詩篇**：詩篇 78:43-51
+**詩篇**：詩篇 78:43-44
 
-> 他怎樣在埃及顯神蹟，在瑣安田顯奇事，
-> 把江河並河汊的水都變為血，使他們不能喝。
+> 他怎樣在埃及地顯神蹟，在瑣安田顯奇事，
+> 把他們的江河並河的水都變為血，使他們不能喝。
 
 詩篇78篇回顧埃及十災的歷史，正是啟示錄七號審判最直接的舊約迴響——神昔日的審判與拯救，成為理解今日審判的鑰匙。
 

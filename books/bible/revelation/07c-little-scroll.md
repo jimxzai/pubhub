@@ -10,13 +10,35 @@ publisher: 三書精讀出版系統
 
 啟示錄 10:1-11
 
-**經文核對**：[ai-eden.com/bible/revelation/10](https://www.ai-eden.com/bible/revelation/10?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/10](https://www.ai-eden.com/bible/revelation/10?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七號之間，敘事忽然停頓——約翰不是繼續數算災禍，而是被帶到一幕插曲：一位大力的天使從天降下，「披著雲彩，頭上有虹，臉面像日頭，兩腳像火柱」。這些描述與啟示錄1章榮耀基督的異象、與出埃及記雲柱火柱的引導遙相呼應，讓讀者一再確認：無論審判如何加劇，掌管一切、親自引導祂百姓的那一位，從未離開祂的寶座，也從未離開祂的百姓。這位天使右腳踏海、左腳踏地，宣告「不再有時日了」——那掌管海洋與陸地、時間本身的主權，正是這卷書從頭到尾唯一的焦點。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Break Thou the Bread of Life**
+> *Mary A. Lathbury, 1877*
+>
+> Break Thou the bread of life,
+> Dear Lord, to me,
+> As Thou didst break the loaves
+> Beside the sea;
+> Beyond the sacred page
+> I seek Thee, Lord.
+>
+> 親愛的主，求你為我
+> 擘開生命之糧，
+> 如同你當日在海邊
+> 擘開那餅；
+> 在聖言的字句之外，
+> 主啊，我尋求你自己。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +50,13 @@ publisher: 三書精讀出版系統
 
 > ^8^我先前從天上所聽見的那聲音又吩咐我說：「你去，把那踏海踏地之天使手中展開的小書卷取過來。」^9^我就走到天使那裡，對他說：「請你把小書卷給我。」他對我說：「你拿著吃盡了，便叫你肚子發苦，然而在你口中要甜如蜜。」^10^我從天使手中把小書卷接過來，吃盡了，在我口中果然甜如蜜，吃了以後，肚子覺得發苦了。^11^天使（原文是他們）對我說：「你必指著多民、多國、多方、多王再說預言。」
 
-### English — ESV
+### English — NASB
 
-> ^1^Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head, and his face was like the sun, and his legs like pillars of fire. ^2^He had a little scroll open in his hand. And he set his right foot on the sea, and his left foot on the land, ^3^and called out with a loud voice, like a lion roaring. When he called out, the seven thunders sounded. ^4^And when the seven thunders had sounded, I was about to write, but I heard a voice from heaven saying, "Seal up what the seven thunders have said, and do not write it down."
+> ^1^I saw another strong angel coming down out of heaven, clothed with a cloud; and the rainbow was upon his head, and his face was like the sun, and his feet like pillars of fire; ^2^and he had in his hand a little book which was open. He placed his right foot on the sea and his left on the land; ^3^and he cried out with a loud voice, as when a lion roars; and when he had cried out, the seven peals of thunder uttered their voices. ^4^When the seven peals of thunder had spoken, I was about to write; and I heard a voice from heaven saying, 'Seal up the things which the seven peals of thunder have spoken and do not write them.'
 
-> ^5^And the angel whom I saw standing on the sea and on the land raised his right hand to heaven ^6^and swore by him who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay, ^7^but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled, just as he announced to his servants the prophets.
+> ^5^Then the angel whom I saw standing on the sea and on the land lifted up his right hand to heaven, ^6^and swore by Him who lives forever and ever, WHO CREATED HEAVEN AND THE THINGS IN IT, AND THE EARTH AND THE THINGS IN IT, AND THE SEA AND THE THINGS IN IT, that there will be delay no longer, ^7^but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as He preached to His servants the prophets.
 
-> ^8^Then the voice that I had heard from heaven spoke to me again, saying, "Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the land." ^9^So I went to the angel and told him to give me the little scroll. And he said to me, "Take and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey." ^10^And I took the little scroll from the hand of the angel and ate it. It was sweet as honey in my mouth, but when I had eaten it my stomach was made bitter. ^11^And I was told, "You must again prophesy about many peoples and nations and languages and kings."
+> ^8^Then the voice which I heard from heaven, *I heard* again speaking with me, and saying, 'Go, take the book which is open in the hand of the angel who stands on the sea and on the land.' ^9^So I went to the angel, telling him to give me the little book. And he said to me, 'Take it and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.' ^10^I took the little book out of the angel's hand and ate it, and in my mouth it was sweet as honey; and when I had eaten it, my stomach was made bitter. ^11^And they said to me, 'You must prophesy again concerning many peoples and nations and tongues and kings.'
 
 ---
 
@@ -55,7 +77,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | βιβλαρίδιον | biblaridion | 小書卷 | 「小」字加強了與5章大書卷的對比——這是一份具體、可吞下的先知信息 |
 | σφραγίζω | sphragizō | 封上、蓋印 | 用於七雷之語，與5章書卷的七印相呼應，但方向相反：那卷要被展開，這段話卻要被封住 |
 | ὀμνύω | omnyō | 起誓 | 天使指著永活的創造主起誓，這是聖經中最鄭重的宣告方式 |
@@ -69,7 +91,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 神的話語同時是甘甜與苦澀的 (God's Word Is Both Sweet and Bitter)
 
@@ -89,6 +111,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 119:103-105
+
+> ^103^你的言語在我上膛何等甘美，在我口中比蜜更甜！
+> ^104^我藉著你的訓詞得以明白，所以我恨一切的假道。
+> ^105^你的話是我腳前的燈，是我路上的光。
+
+「你的言語在我上膛何等甘美」——約翰吃下小書卷，「在口中果然甜如蜜，吃了以後肚子覺得發苦」(10:10)。神的話先甜後苦：領受是甜的，承擔是苦的。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -102,7 +137,7 @@ publisher: 三書精讀出版系統
 
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 10
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -126,7 +161,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O Word of God Incarnate
+
+*William Walsham How, 1867*
+
+> O Word of God incarnate,
+> O Wisdom from on high,
+> O Truth unchanged, unchanging,
+> O Light of our dark sky.
+
+以西結也吃過書卷（結 3:1-3），耶利米也吃過（耶 15:16）——先知的職分不是傳遞別人的信息，是先把信息吃下去。默想：你最近一次讀經，是把話語讀進眼睛裡，還是吃到肚子裡？
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**大力天使與敞開的小書卷**：麥克阿瑟指出第10章是六、七號之間的插敘：書卷是「展開的」——神的旨意此刻不再封嚴；天使腳踏海與地——所宣告的主權覆蓋全地。
+
+**「不再有時日了」**：10:6 的宣告他讀作「不再耽延」：殉道者「要到幾時」的等候（6:10）在此得到答覆——第七號一吹，神的奧祕就成全，再無下一輪的暫緩。
+
+**先吃下去，再說預言**：約翰吃書卷、口甜腹苦，隨後才聽見「你必指著多民、多國……再說預言」（10:11）——他以此講傳道者的次序：神的話必須先成為傳講者自己裡面的經歷，甜與苦都吞下，然後才有資格出口。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：天使與小書卷 (Ask Elder Wong)
 

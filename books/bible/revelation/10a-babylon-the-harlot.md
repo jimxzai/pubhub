@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 17:1-18
 
-**經文核對**：[ai-eden.com/bible/revelation/17](https://www.ai-eden.com/bible/revelation/17?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/17](https://www.ai-eden.com/bible/revelation/17?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 這章描繪了一幅極其墮落的畫面——一個坐在獸上、穿戴奢華、喝醉了聖徒之血的淫婦。但在這幅陰暗的圖畫正中央，經文突然亮起一句宣告：「他們與羔羊爭戰，羔羊必勝過他們，因為羔羊是萬主之主、萬王之王」（14節）。這是整章唯一的光——所有的權勢、聯盟、榮華、逼迫，最終都要面對這位羔羊，而結局早已註定：羔羊必得勝。這提醒我們，啟示錄描繪罪惡的黑暗，從來不是為了讓讀者絕望，而是為了襯托那唯一配得敬拜、且必然得勝的羔羊。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **O God, Our Help in Ages Past**
+> *Isaac Watts, 1719 (from Psalm 90)*
+>
+> O God, our help in ages past,
+> Our hope for years to come,
+> Our shelter from the stormy blast,
+> And our eternal home.
+>
+> 上主是人千古保障，
+> 是人將來希望，
+> 是人居所抵禦風暴，
+> 是人永久家鄉。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^15^天使又對我說，「你所看見那淫婦坐的眾水，就是多民、多人、多國、多方。^16^你所看見的那十角與獸必恨這淫婦，使他冷落赤身，又要吃他的肉，用火將他燒盡。^17^因為神使諸王同心合意，遵行他的旨意，把自己的國給那獸，直等到神的話都應驗了。^18^你所看見的那女人就是管轄地上眾王的大城。」
 
-### English — ESV
+### English — NASB
 
-> ^1^Then one of the seven angels who had the seven bowls came and said to me, "Come, I will show you the judgment of the great prostitute who is seated on many waters, ^2^with whom the kings of the earth have committed sexual immorality, and with the wine of whose sexual immorality the dwellers on earth have become drunk." ^3^And he carried me away in the Spirit into a wilderness, and I saw a woman sitting on a scarlet beast that was full of blasphemous names, and it had seven heads and ten horns. ^4^The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality. ^5^And on her forehead was written a name of mystery: "Babylon the great, mother of prostitutes and of earth's abominations." ^6^And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of Jesus. When I saw her, I marveled greatly.
+> ^1^Then one of the seven angels who had the seven bowls came and spoke with me, saying, 'Come here, I will show you the judgment of the great harlot who sits on many waters, ^2^with whom the kings of the earth committed *acts of* immorality, and those who dwell on the earth were made drunk with the wine of her immorality.' ^3^And he carried me away in the Spirit into a wilderness; and I saw a woman sitting on a scarlet beast, full of blasphemous names, having seven heads and ten horns. ^4^The woman was clothed in purple and scarlet, and adorned with gold and precious stones and pearls, having in her hand a gold cup full of abominations and of the unclean things of her immorality, ^5^and on her forehead a name *was* written, a mystery, 'BABYLON THE GREAT, THE MOTHER OF HARLOTS AND OF THE ABOMINATIONS OF THE EARTH.' ^6^And I saw the woman drunk with the blood of the saints, and with the blood of the witnesses of Jesus. When I saw her, I wondered greatly.
 
-> ^7^But the angel said to me, "Why do you marvel? I will tell you the mystery of the woman, and of the beast with seven heads and ten horns that carries her. ^8^The beast that you saw was, and is not, and is about to rise from the bottomless pit and go to destruction. And the dwellers on earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come. ^9^This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated; ^10^they are also seven kings, five of whom have fallen, one is, the other has not yet come, and when he does come he must remain only a little while. ^11^As for the beast that was and is not, it is an eighth but it belongs to the seven, and it goes to destruction. ^12^And the ten horns that you saw are ten kings who have not yet received royal power, but they are to receive authority as kings for one hour, together with the beast. ^13^These are of one mind, and they hand over their power and authority to the beast. ^14^They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful."
+> ^7^And the angel said to me, 'Why do you wonder? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and the ten horns. ^8^'The beast that you saw was, and is not, and is about to come up out of the abyss and go to destruction. And those who dwell on the earth, whose name has not been written in the book of life from the foundation of the world, will wonder when they see the beast, that he was and is not and will come. ^9^'Here is the mind which has wisdom. The seven heads are seven mountains on which the woman sits, ^10^and they are seven kings; five have fallen, one is, the other has not yet come; and when he comes, he must remain a little while. ^11^'The beast which was and is not, is himself also an eighth and is *one* of the seven, and he goes to destruction. ^12^'The ten horns which you saw are ten kings who have not yet received a kingdom, but they receive authority as kings with the beast for one hour. ^13^'These have one purpose, and they give their power and authority to the beast. ^14^'These will wage war against the Lamb, and the Lamb will overcome them, because He is Lord of lords and King of kings, and those who are with Him *are the* called and chosen and faithful.'
 
-> ^15^And the angel said to me, "The waters that you saw, where the prostitute is seated, are peoples and multitudes and nations and languages. ^16^And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire, ^17^for God has put it into their hearts to carry out his purpose by being of one mind and handing over their royal power to the beast, until the words of God are fulfilled. ^18^And the woman that you saw is the great city that has dominion over the kings of the earth."
+> ^15^And he said to me, 'The waters which you saw where the harlot sits, are peoples and multitudes and nations and tongues. ^16^'And the ten horns which you saw, and the beast, these will hate the harlot and will make her desolate and naked, and will eat her flesh and will burn her up with fire. ^17^'For God has put it in their hearts to execute His purpose by having a common purpose, and by giving their kingdom to the beast, until the words of God will be fulfilled. ^18^'The woman whom you saw is the great city, which reigns over the kings of the earth.'
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | πόρνη | pornē | 淫婦、妓女 | 貫穿17-19章的核心稱號，象徵屬靈的不忠——與神以外的權勢「行淫」 |
 | μυστήριον | mystērion | 奧祕 | 天使明確表示要「解釋」這奧祕，暗示這異象的象徵意義需要智慧才能理解 |
 | μεθύω | methyō | 喝醉 | 「喝醉了聖徒的血」極其怵目驚心，描繪這體制對逼迫聖徒麻木、甚至以此為樂的程度 |
@@ -67,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 邪惡的聯盟沒有真正的忠誠 (Alliances of Evil Have No True Loyalty)
 
@@ -87,6 +105,21 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 73:16-20
+
+> ^16^我思索怎能明白這事，眼看實係為難，
+> ^17^等我進了神的聖所，思想他們的結局。
+> ^18^你實在把他們安在滑地，使他們掉在沉淪之中。
+> ^19^他們轉眼之間成了何等的荒涼！他們被驚恐滅盡了。
+> ^20^人睡醒了，怎樣看夢；主啊，你醒了也必照樣輕看他們的影像。
+
+「等我進了神的聖所，思想他們的結局」——大淫婦「穿著紫色和朱紅色的衣服，用金子、寶石、珍珠為妝飾」，外表極其榮華。亞薩的困惑與解答，正是讀第 17 章的正確方法：不看現在的排場，看聖所裡顯明的結局。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -94,7 +127,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在論到但以理與啟示錄的末世預言時，將淫婦與獸並列為敵擋神百姓的兩種不同權勢——一是以奢華誘惑妥協，一是以暴力公開逼迫；他提醒信徒：真正的危險不僅來自公開的逼迫（獸），也來自看似誘人、卻本質敗壞的世俗體制（淫婦）。
 
@@ -106,7 +139,7 @@ publisher: 三書精讀出版系統
 
 > — Augustine, *City of God*, Book 18, Chapter 2
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -130,7 +163,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Fight the Good Fight
+
+*John S. B. Monsell, 1863*
+
+> Fight the good fight with all thy might;
+> Christ is thy strength, and Christ thy right;
+> Lay hold on life, and it shall be
+> Thy joy and crown eternally.
+
+17:14「他們與羔羊爭戰，羔羊必勝過他們，因為羔羊是萬主之主、萬王之王」。默想：這節經文把結局寫在爭戰之前——信徒的爭戰不是為了取得勝利，是從已定的勝利裡打出來的。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**宗教的巴比倫**：麥克阿瑟把 17 章的大淫婦讀作末期的假宗教體系——她與地上君王行淫（政教勾結）、以金玉妝飾（宗教的華美外殼）、喝醉了聖徒的血（假宗教史上從不缺殉道者的血）；18 章的商業巴比倫則是同一體系的經濟面。
+
+**獸恨淫婦**：17:16-17 是本章的轉軸：獸和十王「必恨這淫婦」，把她燒了——邪惡的同盟自相吞吃，而經文明說這是「神使諸王同心合意……成就他的旨意」。撒但的內鬨，也在神的劇本裡。
+
+**「羔羊必勝過他們」的排序**：17:14 先宣告結局——與羔羊爭戰者必敗，「因為羔羊是萬主之主、萬王之王」——然後才補一句同在羔羊一邊的人：「蒙召、被選、有忠心的」。他指出：得勝屬於羔羊，跟隨者是「同在」，不是「合力」。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：大淫婦巴比倫 (Ask Elder Wong)
 

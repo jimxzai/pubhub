@@ -10,13 +10,31 @@ publisher: 三書精讀出版系統
 
 啟示錄 2:12-17
 
-**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 主稱別迦摩是「撒但座位之所在」的城市——這座亞細亞省的宗教與政治中心，滿佈異教神廟與皇帝崇拜的祭壇，教會就活在這座城市的正中心。主稱讚她「還堅守我的名，沒有棄絕我的道」，甚至有弟兄安提帕在此殉道。但緊接著，主卻要責備她——不是因為外在的逼迫使她妥協，而是因為她在教會內部容讓了巴蘭與尼哥拉黨的教訓。基督在此顯現為「那有兩刃利劍的」，這把劍不是用來對付外面的仇敵，而是用來對付教會內部容忍罪惡的光景。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Stand Up, Stand Up for Jesus**
+> *George Duffield Jr., 1858*
+>
+> Stand up, stand up for Jesus, ye soldiers of the cross;
+> Lift high His royal banner, it must not suffer loss.
+> From victory unto victory His army shall He lead,
+> Till every foe is vanquished and Christ is Lord indeed.
+>
+> 為主耶穌站起來，十架精兵齊向前；
+> 高舉君王的旌旗，不容旗幟受虧損。
+> 祂必領軍節節勝，從得勝直到得勝，
+> 直到仇敵盡敗亡，基督真作萬有主。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -28,13 +46,13 @@ publisher: 三書精讀出版系統
 
 > ^16^所以，你當悔改；若不悔改，我就快臨到你那裡，用我口中的劍攻擊他們。^17^聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將那隱藏的嗎哪賜給他，並賜他一塊白石，石上寫著新名；除了那領受的以外，沒有人能認識。}」
 
-### English — ESV
+### English — NASB
 
-> ^12^"And to the angel of the church in Pergamum write: 'The words of him who has the sharp two-edged sword. \jesus{^13^I know where you dwell, where Satan's throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.
+> ^12^'And to the angel of the church in Pergamum write: The One who has the sharp two-edged sword says this: \jesus{ ^13^'I know where you dwell, where Satan's throne is; and you hold fast My name, and did not deny My faith even in the days of Antipas, My witness, My faithful one, who was killed among you, where Satan dwells.
 
-> ^14^But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality. ^15^So also you have some who hold the teaching of the Nicolaitans.
+> ^14^'But I have a few things against you, because you have there some who hold the teaching of Balaam, who kept teaching Balak to put a stumbling block before the sons of Israel, to eat things sacrificed to idols and to commit *acts of* immorality. ^15^'So you also have some who in the same way hold the teaching of the Nicolaitans.
 
-> ^16^Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth. ^17^He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.'}"
+> ^16^'Therefore repent; or else I am coming to you quickly, and I will make war against them with the sword of My mouth. ^17^'He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, to him I will give *some* of the hidden manna, and I will give him a white stone, and a new name written on the stone which no one knows but he who receives it.'}
 
 ---
 
@@ -53,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ὁ θρόνος τοῦ Σατανᾶ | ho thronos tou Satana | 撒但的座位 | 13節，可能實指宙斯大祭壇，也象徵這城作為異教與帝國權力中心的地位 |
 | ῥομφαία δίστομος | rhomphaia distomos | 兩刃的利劍 | 取自1:16，象徵基督話語審判的權柄 |
 | διδαχὴ Βαλαάμ | didachē Balaam | 巴蘭的教訓 | 14節，取自民數記22-25章的典故 |
@@ -68,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 外部的忠貞不能替代內部的聖潔
 
@@ -88,6 +106,19 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 15:1-3
+
+> ^1^（大衛的詩。）耶和華啊，誰能寄居你的帳幕？誰能住在你的聖山？
+> ^2^就是行為正直、做事公義、心裡說實話的人。
+> ^3^他不以舌頭讒謗人，不惡待朋友，也不隨夥毀謗鄰里。
+
+別迦摩住在「撒但座位之處」，問題卻不在住址，在心術。詩篇 15 篇問的正是這個問題：誰能寄居在神的帳幕裡？答案與環境無關，與行為、言語、心裡的實話有關。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -95,7 +126,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在論及尼哥拉黨時記載，這群人自稱擁有特殊的屬靈知識，教導信徒在肉體上的放縱與信仰的純正毫不相干，甚至可以毫無顧忌地參與異教筵席；他明確指出，使徒約翰所寫的啟示錄正面駁斥這種「知識脫離生活」的教訓，堅稱基督徒的信仰必須在生活行為中如實活出。
 
@@ -125,7 +156,33 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O for a Closer Walk with God
+
+*William Cowper, 1772*
+
+> O for a closer walk with God,
+> A calm and heavenly frame,
+> A light to shine upon the road
+> That leads me to the Lamb!
+
+考柏一生與憂鬱症搏鬥，卻寫下這首求「更親近神」的詩。默想：主應許給別迦摩得勝者的是「隱藏的嗎哪」——不是公開的獎賞，是只有祂和你知道的供應。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**堅守主名與容讓錯謬可以並存**：麥克阿瑟指出別迦摩的弔詭——他們在殉道者安提帕流血之處沒有棄絕信仰（2:13），卻在教內容讓巴蘭的教訓與尼哥拉黨（2:14-15）。外部逼迫壓不垮的教會，可能被內部的妥協蛀空。
+
+**巴蘭路線的本質是同化**：他提醒，巴蘭無法咒詛以色列，就教巴勒引誘以色列——撒但攻擊教會的第二條路線從來不是刀劍，而是通婚式的混合：讓教會與世界的界線消失。
+
+**主的武器是他口中的劍**：對不肯悔改的教會，主說「我就快臨到你那裡，用我口中的劍攻擊他們」——審判錯謬教訓的，正是曾經被錯謬扭曲的那道。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：別迦摩教會 (Ask Elder Wong)
 

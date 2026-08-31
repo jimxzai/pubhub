@@ -10,13 +10,35 @@ publisher: 三書精讀出版系統
 
 啟示錄 19:11-21
 
-**經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 天開了，一匹白馬出現——這不再是隱藏在異象象徵背後的基督，而是全書中最直接、最不容置疑的祂：「誠信真實」、「神之道」、「萬王之王，萬主之主」。祂眼中如火焰，衣服濺了血，口中出利劍，祂來不是為了再次受苦，而是為了審判與爭戰，終結一切敵擋神的權勢。這是啟示錄1章榮耀基督異象的完全展開——那位曾在1:13-16向約翰顯現、令他仆倒如死人的基督，如今公開地、決定性地介入歷史，帶著祂的軍隊，終結這場貫穿全書的宇宙爭戰。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Rejoice, the Lord Is King**
+> *Charles Wesley, 1746*
+>
+> Rejoice, the Lord is King!
+> Your Lord and King adore;
+> Mortals, give thanks and sing,
+> And triumph evermore.
+> Lift up your heart, lift up your voice;
+> Rejoice; again I say, rejoice.
+>
+> 當歡欣，主作王！
+> 敬拜你的主你的王；
+> 世人都當稱謝歌唱，
+> 永遠歡呼得勝。
+> 揚起你心，揚起你聲；
+> 歡欣，我再說，當歡欣。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -26,11 +48,11 @@ publisher: 三書精讀出版系統
 
 > ^17^我又看見一位天使站在日頭中，向天空所飛的鳥大聲喊著說：「你們聚集來赴神的大筵席，^18^可以吃君王與將軍的肉，壯士與馬和騎馬者的肉，並一切自主的為奴的，以及大小人民的肉。」^19^我看見那獸和地上的君王，並他們的眾軍都聚集，要與騎白馬的並他的軍兵爭戰。^20^那獸被擒拿；那在獸面前曾行奇事、迷惑受獸印記和拜獸像之人的假先知，也與獸同被擒拿。他們兩個就活活的被扔在燒著硫磺的火湖裡；^21^其餘的被騎白馬者口中出來的劍殺了；飛鳥都吃飽了他們的肉。
 
-### English — ESV
+### English — NASB
 
-> ^11^Then I saw heaven opened, and behold, a white horse! The one sitting on it is called Faithful and True, and in righteousness he judges and makes war. ^12^His eyes are like a flame of fire, and on his head are many diadems, and he has a name written that no one knows but himself. ^13^He is clothed in a robe dipped in blood, and the name by which he is called is The Word of God. ^14^And the armies of heaven, arrayed in fine linen, white and pure, were following him on white horses. ^15^From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God the Almighty. ^16^On his robe and on his thigh he has a name written, King of kings and Lord of lords.
+> ^11^And I saw heaven opened, and behold, a white horse, and He who sat on it *is* called Faithful and True, and in righteousness He judges and wages war. ^12^His eyes *are* a flame of fire, and on His head *are* many diadems; and He has a name written *on Him* which no one knows except Himself. ^13^*He is* clothed with a robe dipped in blood, and His name is called The Word of God. ^14^And the armies which are in heaven, clothed in fine linen, white *and* clean, were following Him on white horses. ^15^From His mouth comes a sharp sword, so that with it He may strike down the nations, and He will rule them with a rod of iron; and He treads the wine press of the fierce wrath of God, the Almighty. ^16^And on His robe and on His thigh He has a name written, 'KING OF KINGS, AND LORD OF LORDS.'
 
-> ^17^Then I saw an angel standing in the sun, and with a loud voice he called to all the birds that fly directly overhead, "Come, gather for the great supper of God, ^18^to eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great." ^19^And I saw the beast and the kings of the earth with their armies gathered to make war against him who was sitting on the horse and against his army. ^20^And the beast was captured, and with it the false prophet who in its presence had done the signs by which he deceived those who had received the mark of the beast and those who worshiped its image. These two were thrown alive into the lake of fire that burns with sulfur. ^21^And the rest were slain by the sword that came from the mouth of him who was sitting on the horse, and all the birds were gorged with their flesh.
+> ^17^Then I saw an angel standing in the sun, and he cried out with a loud voice, saying to all the birds which fly in midheaven, 'Come, assemble for the great supper of God, ^18^so that you may eat the flesh of kings and the flesh of commanders and the flesh of mighty men and the flesh of horses and of those who sit on them and the flesh of all men, both free men and slaves, and small and great.' ^19^And I saw the beast and the kings of the earth and their armies assembled to make war against Him who sat on the horse and against His army. ^20^And the beast was seized, and with him the false prophet who performed the signs in his presence, by which he deceived those who had received the mark of the beast and those who worshiped his image; these two were thrown alive into the lake of fire which burns with brimstone. ^21^And the rest were killed with the sword which came from the mouth of Him who sat on the horse, and all the birds were filled with their flesh.
 
 ---
 
@@ -49,7 +71,7 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | πιστὸς καὶ ἀληθινός | pistos kai alēthinos | 誠信真實 | 與3:14基督對老底嘉教會自稱的稱號相同，強調祂話語與應許的絕對可靠 |
 | διαδήματα πολλά | diadēmata polla | 許多冠冕 | 與獸的「十個冠冕」（13:1）形成對比，象徵基督掌管的權柄遠超一切地上的王權 |
 | ὁ λόγος τοῦ θεοῦ | ho logos tou theou | 神之道 | 直接呼應約翰福音1:1「太初有道」，確認啟示錄的基督與約翰福音的道成肉身是同一位 |
@@ -63,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 神學要點 (Theological Points)
 
 ### 1. 基督的得勝靠祂話語的權柄，而非武力的較量 (Christ's Victory Comes by the Authority of His Word, Not by Military Force)
 
@@ -83,6 +105,18 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 9:7-8
+
+> ^7^惟耶和華坐著為王，直到永遠；他已經為審判設擺他的寶座。
+> ^8^他要按公義審判世界，按正直判斷萬民。
+
+「他已經為審判設擺他的寶座。他要按公義審判世界」——白馬騎士「審判、爭戰，都按著公義」(19:11)。祂的爭戰不是報復，是審判的執行。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
 > **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
@@ -90,19 +124,19 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐一貫主張基督的再來將是公開的、決定性的、不容置疑的，與祂第一次降生的隱藏卑微形成對比——這幫助他反駁諾斯底主義那種將基督局限於隱密屬靈知識的錯誤教導。
 
 > — 此讀法屬愛任紐《駁異端》卷五基督再來論一貫立場的延伸應用，非逐章直引
 
-**維克多林 (Victorinus of Pettau, c. 260-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林特別留意19:15「利劍從他口中出來」的細節，將其與以賽亞書11:4「以口中的杖擊打世界，以嘴裡的氣殺戮惡人」連結，說明基督最終的審判是話語本身的權柄，而非需要憑藉外在武力。
 
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 19
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
@@ -126,7 +160,37 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Crown Him with Many Crowns
+
+*Matthew Bridges, 1851; Godfrey Thring, 1874*
+
+> Crown Him the Lord of years,
+> The Potentate of time,
+> Creator of the rolling spheres,
+> Ineffably sublime.
+> All hail, Redeemer, hail!
+> For Thou hast died for me;
+> Thy praise shall never, never fail
+> Throughout eternity.
+
+白馬騎士「穿著濺了血的衣服」(19:13)——出征之前衣服已經有血，因為那是祂自己在十字架上流的血。默想：祂口中的利劍是祂的話；擊殺列國的，正是當初創造諸世界的那一句話。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**同一位耶穌，另一種降臨**：麥克阿瑟對照兩次降臨的畫面：第一次騎驢駒、被審判、頭戴荊棘冠；這一次騎白馬、施行審判、頭戴許多冠冕——教會傳講的基督若只有第一幅畫面，只傳了一半。
+
+**先濺血的衣，後開始的戰**：19:13 騎士出場時衣服已經濺了血——按賽63 的背景，這是踹酒醡者的血衣。他指出這場「戰爭」沒有交鋒的過程：武器只有一樣——口中的利劍（19:15, 21），話語創造了世界，話語也終結叛亂。
+
+**兩場筵席**：19:9 羔羊的婚筵與 19:17-18 飛鳥的大筵席在同一章裡——他不迴避這個對比的殘酷：每個人終必出現在其中一場筵席裡；福音的急迫，在這兩節的距離之間。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：白馬騎士 (Ask Elder Wong)
 
@@ -164,7 +228,7 @@ publisher: 三書精讀出版系統
 
 **詩篇**：詩篇45:3-5
 
-> 大能者啊，願你腰間佩刀，大有榮耀和威嚴！為真理、謙卑、公義赫然坐車前往，無不得勝；你的右手必顯明可畏的事。你的箭鋒快，射入王敵之心；萬民仆倒在你以下。
+> 大能者啊，願你腰間佩刀，大有榮耀和威嚴！為真理、謙卑、公義赫然坐車前往，無不得勝；你的右手必顯明可畏的事。你的箭鋒快，射中王敵之心；萬民仆倒在你以下。
 
 詩篇45篇這首彌賽亞婚禮詩，同時描繪了新郎王者的威嚴與得勝的權柄——與啟示錄19章白馬騎士的異象前後呼應。
 
