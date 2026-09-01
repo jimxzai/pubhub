@@ -15,16 +15,10 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：更大的 (Something Greater)** \
-> **卷三 · 君王的權能與奧秘**：法利賽人的敵意在本章全面升級——但每一波攻擊，耶穌都用同一句宣告回應：這裡有一個比你們所看重的一切都**更大的**。 \
-> （鑰詞錨點：12:6, 12:41-42）
+> **錨點**：12:6「在這裏有一人比殿更大」；12:41「比約拿更大」，12:42「比所羅門更大」。 \
+> **卷三 · 君王的權能與奧祕**：法利賽人的敵意在本章全面升級——但每一波攻擊，耶穌都用同一句宣告回應：這裏有一個比你們所看重的一切都**更大的**。
 
-第十二章三次出現同一個字：比聖殿更大（12:6），比約拿更大（12:41），比所羅門更大（12:42）。聖殿是神同在的居所，約拿是神差來使外邦人悔改的先知，所羅門是神所賜智慧無雙的君王——三者分別代表舊約子民心目中**同在、宣講、智慧**的頂峰，耶穌卻逐一宣告：我比這一切都更大。這不是自誇，是神性的宣告——那昔日充滿會幕、聖殿的同在，如今就活在祂自己裡面；那差遣先知的主，如今親自來傳道；那賜所羅門智慧的神，如今親口說話。法利賽人面對這「更大的」，選擇的回應不是敬拜，是把聖靈的作為說成撒但的作為（12:24）——這恰恰證明：衝突升級的根源，從來不在證據不足，在心不願意。
-
----
-
-## 精義一句話
-
-同一章裡，耶穌三次宣告「這裏有一個比……更大的」——比聖殿更大、比約拿更大、比所羅門更大；宗教領袖的回應，卻是把聖靈的作為說成是撒但的作為——**衝突升級的根源不在證據不足，在心不願意。**
+第十二章三次出現同一個字：比聖殿更大（12:6），比約拿更大（12:41），比所羅門更大（12:42）。聖殿是神同在的居所，約拿是神差來使外邦人悔改的先知，所羅門是神所賜智慧無雙的君王——三者分別代表舊約子民心目中**同在、宣講、智慧**的頂峰，耶穌卻逐一宣告：我比這一切都更大。這不是自誇，是神性的宣告。法利賽人面對這「更大的」，選擇的回應不是敬拜，是把聖靈的作為說成撒但的作為（12:24）——這恰恰證明：衝突升級的根源，從來不在證據不足，在心不願意。
 
 ---
 
@@ -46,21 +40,19 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^那時，耶穌在安息日從麥地經過。他的門徒餓了，就掐起麥穗來吃。^2^法利賽人看見，就對耶穌說：「看哪，你的門徒作安息日不可作的事了！」^3^耶穌對他們說：\jesus{「經上記著大衛和跟從他的人飢餓之時所作的事，你們沒有念過麼？^4^他怎麼進了神的殿，吃了陳設餅，這餅不是他和跟從他的人可以吃得，惟獨祭司才可以吃。^5^再者，律法上所記的，當安息日，祭司在殿裡犯了安息日還是沒有罪，你們沒有念過麼？^6^但我告訴你們，在這裡有一人比殿更大。^7^我喜愛憐恤，不喜愛祭祀。你們若明白這話的意思，就不將無罪的當作有罪的了。^8^因為人子是安息日的主。」}
+> ^1^那時，耶穌在安息日從麥地經過。他的門徒餓了，就掐起麥穗來吃。^2^法利賽人看見，就對耶穌說：「看哪，你的門徒作安息日不可作的事了！」^3^耶穌對他們說：\jesus{「經上記著大衛和跟從他的人飢餓之時所作的事，你們沒有念過麼？^4^他怎麼進了神的殿，吃了陳設餅，這餅不是他和跟從他的人可以吃得，惟獨祭司才可以吃。^5^再者，律法上所記的，當安息日，祭司在殿裏犯了安息日還是沒有罪，你們沒有念過麼？^6^但我告訴你們，在這裏有一人比殿更大。^7^我喜愛憐恤，不喜愛祭祀。你們若明白這話的意思，就不將無罪的當作有罪的了。^8^因為人子是安息日的主。」}
 
-> ^9^耶穌離開那地方，進了一個會堂。^10^那裡有一個人枯乾了一隻手。有人問耶穌說：「安息日治病可以不可以？」意思是要控告他。^11^耶穌說：\jesus{「你們中間誰有一隻羊，當安息日掉在坑裡，不把他抓住，拉上來呢？^12^人比羊何等貴重呢！所以，在安息日作善事是可以的。」}^13^於是對那人說：\jesus{「伸出手來！」}他把手一伸，手就復了原，和那隻手一樣。^14^法利賽人出去，商議怎樣可以除滅耶穌。
+> ^9^耶穌離開那地方，進了一個會堂。^10^那裏有一個人枯乾了一隻手。有人問耶穌說：「安息日治病可以不可以？」意思是要控告他。^11^耶穌說：\jesus{「你們中間誰有一隻羊，當安息日掉在坑裏，不把他抓住，拉上來呢？^12^人比羊何等貴重呢！所以，在安息日作善事是可以的。」}^13^於是對那人說：\jesus{「伸出手來！」}他把手一伸，手就復了原，和那隻手一樣。^14^法利賽人出去，商議怎樣可以除滅耶穌。
 
-> ^38^當時，有幾個文士和法利賽人對耶穌說：「夫子，我們願意你顯個神蹟給我們看。」^39^耶穌回答說：\jesus{「一個邪惡淫亂的世代求看神蹟，除了先知約拿的神蹟以外，再沒有神蹟給他們看。^40^約拿三日三夜在大魚肚腹中，人子也要這樣三日三夜在地裡頭。^41^當審判的時候，尼尼微人要起來定這世代的罪，因為尼尼微人聽了約拿所傳的就悔改了。看哪，在這裡有一人比約拿更大！^42^當審判的時候，南方的女王要起來定這世代的罪，因為他從地極而來，要聽所羅門的智慧話。看哪！在這裡有一人比所羅門更大。」}
+> ^38^當時，有幾個文士和法利賽人對耶穌說：「夫子，我們願意你顯個神蹟給我們看。」^39^耶穌回答說：\jesus{「一個邪惡淫亂的世代求看神蹟，除了先知約拿的神蹟以外，再沒有神蹟給他們看。^40^約拿三日三夜在大魚肚腹中，人子也要這樣三日三夜在地裏頭。^41^當審判的時候，尼尼微人要起來定這世代的罪，因為尼尼微人聽了約拿所傳的就悔改了。看哪，在這裏有一人比約拿更大！^42^當審判的時候，南方的女王要起來定這世代的罪，因為他從地極而來，要聽所羅門的智慧話。看哪！在這裏有一人比所羅門更大。」}
 
-### English — ESV
+### English — NASB
 
-> ^1^At that time Jesus went through the grainfields on the Sabbath. His disciples were hungry, and they began to pluck heads of grain and to eat. ^2^But when the Pharisees saw it, they said to him, "Look, your disciples are doing what is not lawful to do on the Sabbath." ^3^He said to them, \jesus{"Have you not read what David did when he was hungry, and those who were with him: ^4^how he entered the house of God and ate the bread of the Presence, which it was not lawful for him to eat nor for those who were with him, but only for the priests? ^5^Or have you not read in the Law how on the Sabbath the priests in the temple profane the Sabbath and are guiltless? ^6^I tell you, something greater than the temple is here. ^7^And if you had known what this means, 'I desire mercy, and not sacrifice,' you would not have condemned the guiltless. ^8^For the Son of Man is lord of the Sabbath."}
+> ^1^At that time Jesus went through the grainfields on the Sabbath, and His disciples became hungry and began to pick the heads *of grain* and eat. ^2^But when the Pharisees saw *this,* they said to Him, "Look, Your disciples do what is not lawful to do on a Sabbath." ^3^But He said to them, \jesus{"Have you not read what David did when he became hungry, he and his companions, ^4^how he entered the house of God, and they ate the consecrated bread, which was not lawful for him to eat nor for those with him, but for the priests alone? ^5^Or have you not read in the Law, that on the Sabbath the priests in the temple break the Sabbath and are innocent? ^6^But I say to you that something greater than the temple is here. ^7^But if you had known what this means, 'I DESIRE COMPASSION, AND NOT A SACRIFICE,' you would not have condemned the innocent. ^8^For the Son of Man is Lord of the Sabbath."}
 
-> ^9^He went on from there and entered their synagogue. ^10^And a man was there with a withered hand. And they asked him, "Is it lawful to heal on the Sabbath?" — so that they might accuse him. ^11^He said to them, \jesus{"Which one of you who has a sheep, if it falls into a pit on the Sabbath, will not take hold of it and lift it out? ^12^Of how much more value is a man than a sheep! So it is lawful to do good on the Sabbath."} ^13^Then he said to the man, \jesus{"Stretch out your hand."} And the man stretched it out, and it was restored, healthy like the other. ^14^But the Pharisees went out and conspired against him, how to destroy him.
+> ^9^Departing from there, He went into their synagogue. ^10^And a man *was there* whose hand was withered. And they questioned Jesus, asking, "Is it lawful to heal on the Sabbath?"—so that they might accuse Him. ^11^And He said to them, \jesus{"What man is there among you who has a sheep, and if it falls into a pit on the Sabbath, will he not take hold of it and lift it out? ^12^How much more valuable then is a man than a sheep! So then, it is lawful to do good on the Sabbath."} ^13^Then He said to the man, \jesus{"Stretch out your hand!"} He stretched it out, and it was restored to normal, like the other. ^14^But the Pharisees went out and conspired against Him, *as to* how they might destroy Him.
 
-> ^38^Then some of the scribes and Pharisees answered him, saying, "Teacher, we wish to see a sign from you." ^39^But he answered them, \jesus{"An evil and adulterous generation seeks for a sign, but no sign will be given to it except the sign of the prophet Jonah. ^40^For just as Jonah was three days and three nights in the belly of the great fish, so will the Son of Man be three days and three nights in the heart of the earth. ^41^The men of Nineveh will rise up at the judgment with this generation and condemn it, for they repented at the preaching of Jonah, and behold, something greater than Jonah is here. ^42^The queen of the South will rise up at the judgment with this generation and condemn it, for she came from the ends of the earth to hear the wisdom of Solomon, and behold, something greater than Solomon is here."}
-
----
+> ^38^Then some of the scribes and Pharisees said to Him, "Teacher, we want to see a sign from You." ^39^But He answered and said to them, \jesus{"An evil and adulterous generation craves for a sign; and \textit{yet} no sign will be given to it but the sign of Jonah the prophet; ^40^for just as JONAH WAS THREE DAYS AND THREE NIGHTS IN THE BELLY OF THE SEA MONSTER, so will the Son of Man be three days and three nights in the heart of the earth. ^41^The men of Nineveh will stand up with this generation at the judgment, and will condemn it because they repented at the preaching of Jonah; and behold, something greater than Jonah is here. ^42^\textit{The} Queen of \textit{the} South will rise up with this generation at the judgment and will condemn it, because she came from the ends of the earth to hear the wisdom of Solomon; and behold, something greater than Solomon is here.}
 
 ## 背景 (Context)
 
@@ -68,11 +60,11 @@ publisher: 三書精讀出版系統
 
 **掐麥穗與安息日規條**——律法本身准許人在鄰舍田間用手掐取麥穗充飢（申23:25），這不是偷竊，是神為窮乏旅人預留的憐憫條例。法利賽人抓住的不是「偷竊」，是「收割」——他們把用手掐穗、用手搓開的動作，歸類為安息日禁止的「收割」與「打糧」，是後來拉比傳統（後成文於《米示拿》Shabbat篇）疊加在摩西律法之上的細則，不是十誡本身的規定。**耶穌與法利賽人的爭議，從來不是聖經與門徒的衝突，是人的傳統與聖經本意的衝突。**
 
-**陳設餅**——每安息日陳設在聖所桌上的十二個餅（利24:5-9），一週後撤下，照例只有祭司可吃。大衛在逃避掃羅追殺、極度飢餓之時，從祭司亞希米勒手中領受陳設餅吃（撒上21:1-6）——這是耶穌援引的先例：**人的需要，在神的心意裡，優先於儀文的細節。**
+**陳設餅**——每安息日陳設在聖所桌上的十二個餅（利24:5-9），一週後撤下，照例只有祭司可吃。大衛在逃避掃羅追殺、極度飢餓之時，從祭司亞希米勒手中領受陳設餅吃（撒上21:1-6）——這是耶穌援引的先例：**人的需要，在神的心意裏，優先於儀文的細節。**
 
 **別西卜**——這名字（Βεελζεβούλ）源自舊約「以革倫的神巴力西卜」（王下1:2，意為「蒼蠅之王」），到耶穌的時代已成為猶太人對鬼魔之首的稱呼。法利賽人指控耶穌靠鬼王趕鬼，是當時最惡毒的一種攻擊——不是否認神蹟的真實，是把神蹟的來源歸給撒但。
 
-**約拿的神蹟與尼尼微、南方女王**——約拿書記載外邦大城尼尼微因約拿一句宣告全城悔改（拿3:5-10）；列王紀上10:1-10記載示巴女王（南方女王）不遠千里來聽所羅門的智慧。兩者都是**外邦人**回應神啟示的例子，耶穌用他們定這世代的罪，格外諷刺：連外邦人都能回應遠不如基督完全的啟示，這世代面對神兒子親自的顯現，卻無動於衷。
+**約拿的神蹟與尼尼微、南方女王**——約拿書記載外邦大城尼尼微因約拿一句宣告全城悔改（拿3:5-10）；列王紀上10:1-10記載示巴女王（南方女王）不遠千里來聽所羅門的智慧，兩者都是**外邦人**回應神啟示的例子。
 
 ### 文學結構
 
@@ -85,7 +77,19 @@ publisher: 三書精讀出版系統
 | 12:38-45 | 求看神蹟、約拿的神蹟 | 第三波：頑梗地索求神蹟 |
 | 12:46-50 | 誰是我的母親、我的弟兄 | 第四波：連家人都被牽連 |
 
-四波攻擊层层递進——從律法的爭議，到動機的抹黑，到頑梗地索求神蹟，最終連親情都被用來質疑基督；**但每一波攻擊，耶穌都用更清楚的自我啟示回應，而不是退讓。** 三次「更大的」宣告（12:6, 41, 42）正是這條上升軌跡的骨幹：祂比聖殿更大、比約拿更大、比所羅門更大——法利賽人步步緊逼，耶穌步步顯明自己是誰。
+四波攻擊層層遞進——從律法的爭議，到動機的抹黑，到頑梗地索求神蹟，最終連親情都被用來質疑基督；**但每一波攻擊，耶穌都用更清楚的自我啟示回應，而不是退讓。**
+
+---
+
+## 原文研讀 (Word Study)
+
+| 希臘文 | 音譯 | 意義 | 註解 |
+|-------------------------|------------------|------------------|------------------|
+| μεῖζον | meizon | 更大的 | μέγας的比較級；12:6, 41, 42三次出現，是全章的骨幹字 |
+| ἔλεος | eleos | 憐憫、憐恤 | 12:7引何6:6（七十士譯本）；9:13已出現同一引文 |
+| βλασφημία | blasphēmia | 褻瀆 | 12:31；明知故意將聖靈的工作歸給污穢的源頭 |
+| σημεῖον | sēmeion | 神蹟、兆頭 | 12:38-39；馬太此處罕見地與約翰福音同用此字，指向「約拿的神蹟」這唯一的記號 |
+| κρίσις | krisis | 審判 | 12:41-42「當審判的時候」；本義是「分辨、判決」 |
 
 ---
 
@@ -101,7 +105,7 @@ publisher: 三書精讀出版系統
 | 我喜愛憐憫 | 12:7 | 引何西阿書6:6，重申神設立律法的心意 |
 | 安息日的主 | 12:8 | 祂是設立安息日的那一位，有權詮釋其意義 |
 
-留意耶穌論證的次序：先引大衛的先例（人的需要優先於儀文），再引祭司的先例（聖殿裡的職事本身就「犯」安息日卻無罪），最後纔說出「這裡有一個比聖殿更大的」——祂不是繞過律法，是**逐層向更高的權柄上溯**：大衛的權柄小於祭司的職分，祭司的職分小於聖殿的神聖，而祂比這一切的源頭都更大。
+留意耶穌論證的次序：先引大衛的先例（人的需要優先於儀文），再引祭司的先例（聖殿裏的職事本身就「犯」安息日卻無罪），最後纔說出「這裏有一個比聖殿更大的」——祂不是繞過律法，是**逐層向更高的權柄上溯**：大衛的權柄小於祭司的職分，祭司的職分小於聖殿的神聖，而祂比這一切的源頭都更大。
 
 > \jesus{「你們中間誰有一隻羊，當安息日掉在坑裏，不把牠抓住，拉上來呢？人比羊何等貴重呢！所以，在安息日做善事是合法的。」}(12:11-12)
 
@@ -141,11 +145,11 @@ publisher: 三書精讀出版系統
 
 | 問題 | 解答 |
 |----------------------------------------|----------------------------------------|
-| 什麼是褻瀆聖靈？ | 明知故意地把聖靈清楚的工作歸給撒但——不是無知，而是惡意的頑梗拒絕 |
+| 甚麼是褻瀆聖靈？ | 明知故意地把聖靈清楚的工作歸給撒但——不是無知，而是惡意的頑梗拒絕 |
 | 為何不可赦免？ | 因為這是拒絕唯一能帶來赦免的那一位；不是神不肯赦免，是人自絕於赦免的門外 |
 | 我犯了這罪嗎？ | 一個真誠擔憂自己犯了此罪的人，通常表示他還沒有到頑梗拒絕的地步 |
 
-耶穌接著指出，言語只是內心的流露：\jesus{「心裏所充滿的，口裏就說出來」}(12:34)——法利賽人惡毒的指控，暴露的正是他們心中對神的敵意。**這一段是全章「證據足夠、心不願意」這條主線最尖銳的例證**：他們看見瞎眼的看見、啞巴的說話，看見的證據不能再清楚，卻選擇了一個明知不合邏輯、只為保住自己立場的解釋。
+耶穌接著指出，言語只是內心的流露：\jesus{「心裏所充滿的，口裏就說出來」}(12:34)——法利賽人惡毒的指控，暴露的正是他們心中對神的敵意。**這一段是全章「證據足夠、心不願意」這條主線最尖銳的例證。**
 
 ---
 
@@ -156,7 +160,7 @@ publisher: 三書精讀出版系統
 > \jesus{「約拿三日三夜在大魚肚腹中，人子也要照樣三日三夜在地的中心。」}(12:40)
 > \jesus{「看哪，這裏有一人比約拿更大！……看哪，這裏有一人比所羅門更大！」}(12:41-42)
 
-尼尼微人聽了約拿的傳講就悔改，南方女王千里迢迢來聽所羅門的智慧——而這世代面對比約拿更大、比所羅門更大的一位，卻拒絕悔改。約拿的神蹟預告了耶穌自己的死與復活——這是祂留給世人**唯一最終的記號**。
+尼尼微人與南方女王只憑間接的啟示就回應了；這世代面對比約拿更大、比所羅門更大的一位，卻拒絕悔改。約拿的神蹟預告了耶穌自己的死與復活——這是祂留給世人**唯一最終的記號**。
 
 耶穌隨後以空屋的比喻警告：僅僅趕出邪惡是不夠的，若不被良善充滿，「末後的景況比先前更壞了。這邪惡的世代也要如此」(12:43-45)——外在的宗教改革若沒有基督真實的內住，只是為更深的敗壞預備空間。
 
@@ -170,56 +174,34 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 原文研讀 (Word Study)
-
-| 希臘文 | 音譯 | 意義 | 註解 |
-|-------------------------|------------------|------------------|------------------|
-| μεῖζον | meizon | 更大的 | μέγας的比較級；12:6, 41, 42三次出現，是全章的骨幹字 |
-| ἔλεος | eleos | 憐憫、憐恤 | 12:7引何6:6（七十士譯本）；9:13已出現同一引文 |
-| βλασφημία | blasphēmia | 褻瀆 | 12:31；明知故意將聖靈的工作歸給污穢的源頭 |
-| σημεῖον | sēmeion | 神蹟、兆頭 | 12:38-39；馬太此處罕見地與約翰福音同用此字，指向「約拿的神蹟」這唯一的記號 |
-| κρίσις | krisis | 審判 | 12:41-42「當審判的時候」；本義是「分辨、判決」 |
-
-### 「更大的」（μεῖζον）：三次比較，一條上升的線
-
-三次「更大的」宣告不是隨口的誇口，是精心安排的上升軌跡：**比聖殿更大**——聖殿是神同在的**地方**；**比約拿更大**——約拿是神差來的**話語**（宣講）；**比所羅門更大**——所羅門是神所賜的**智慧**。同在、話語、智慧，是舊約子民認識神最重要的三個管道，耶穌逐一宣告：我比這三者的頂峰都更大——因為我不只是**傳遞**同在、話語、智慧的器皿，我自己就**是**神的同在、神的道、神的智慧（參西2:3「所積蓄的一切智慧知識，都在他裏面藏著」）。
-
-### 「褻瀆聖靈」（βλασφημία）：不是一時的失言，是心的定局
-
-「褻瀆聖靈」之所以嚴重，不在於用了哪個具體的字眼，而在於它描述的是一種**心的狀態**：明明看見聖靈的作為清楚無誤，卻堅持把它說成是污穢的來源。這不是一次失言可以構成的，是長期拒絕光、直到把黑暗當作光明的結局。正因如此，一個為此憂慮不安的人，恰恰證明他的心還在光裡，還沒有走到那一步。
-
----
-
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本、頁碼與出處連結者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校並附出處連結的引文，見附錄〈參考資料〉「四、當代釋經」與「五、經文核對來源」逐章核對記錄。
 
 ### 教父時期
 
-**金口約翰 (John Chrysostom, 349-407)**：金口約翰在《馬太福音講道集》論本章時，反覆申明一個原則——律法的細則若與人真實的需要相衝突，必須讓位於憐憫；他以大衛吃陳設餅為例，指出神設立律法的心意本是為人存活，不是為律法本身；祭司在聖殿中的職事「觸犯」安息日規條卻無罪，正說明安息日的規條從來不是絕對的，而是服在更高的心意之下。（撮述自 Chrysostom, *Homilies on Matthew*, Homily XXXIX, on Matt 12:1-8 要旨；NPNF1-10）
+**屈梭多模 (John Chrysostom, 約349-407)**：他在《馬太福音講道集》論本章時，反覆申明一個原則——律法的細則若與人真實的需要相衝突，必須讓位於憐憫；他以大衛吃陳設餅為例，指出神設立律法的心意本是為人存活，不是為律法本身；祭司在聖殿中的職事「觸犯」安息日規條卻無罪，正說明安息日的規條從來不是絕對的，而是服在更高的心意之下。（撮述自 Chrysostom, *Homilies on Matthew*, Homily XXXIX, on Matt 12:1-8 要旨；NPNF1-10）
 
-### 當代釋經
-
-**John MacArthur** 論安息日的主（*Grace to You*, "The Lord of the Sabbath"；另參 *MacArthur New Testament Commentary*, Matthew 12）：
-
-> 指出耶穌宣告「the Son of Man is Lord even of the Sabbath day」，這是宣告絕對的權柄：「I initiate it and I will interpret it」（安息日是我設立的，也由我來詮釋）。論「比聖殿更大」：這宣告「absolutely shocking」，是「a claim to deity」——神昔日同在於會幕、聖殿之中，如今這同在的實體就在基督自己裏面，故祂比任何屬物質的聖殿都更大。MacArthur也描繪法利賽人敵意升級的軌跡：從懷疑、批評、冷淡，終至「open rejection and ultimately to blasphemy」——他們的憤怒，正因安息日「was the focus of all of their religious activity」，而耶穌打破了他們加給安息日的重擔。
->
-> — John MacArthur, "The Lord of the Sabbath" (Matthew 12:1-8), Grace to You, gty.org
+### 摩根 (G. Campbell Morgan)
 
 **G. Campbell Morgan** 將本章歸納為對基督的四波攻擊：
 
 > 1. **安息日的爭議**——耶穌以「How much is a man better than a sheep?」的論證，為安息日行善辯護。
-> 2. **別西卜的指控**——Morgan形容這是「malicious hatred」，「an absolute denial of the sovereignty of God」；他指出邏輯的破綻：基督的作為是「healing, saving, gathering」，鬼魔的作為卻是毀滅與拆散，二者性質相反，豈能同出一源？
-> 3. **求看神蹟**——Morgan稱之為「a manifestation of contemptuous unbelief」（帶著輕蔑的不信）；耶穌則指明他們正是「an evil and adulterous generation」，只求神蹟卻不肯要信心。
-> 4. **家人的誤解**——Morgan認為這是本章「最苦澀的一擊」，連耶穌的家人都質疑祂的心智是否失常；但耶穌的回應不是不敬重母親，而是提升屬靈的親屬關係——那些「who do the will of His Father」的人。
+> 2. **別西卜的指控**——Morgan 形容這是「malicious hatred」，「an absolute denial of the sovereignty of God」；他指出邏輯的破綻：基督的作為是「healing, saving, gathering」，鬼魔的作為卻是毀滅與拆散，二者性質相反，豈能同出一源？
+> 3. **求看神蹟**——Morgan 稱之為「a manifestation of contemptuous unbelief」（帶著輕蔑的不信）；耶穌則指明他們正是「an evil and adulterous generation」，只求神蹟卻不肯要信心。
+> 4. **家人的誤解**——Morgan 認為這是本章「最苦澀的一擊」，連耶穌的家人都質疑祂的心智是否失常；但耶穌的回應不是不敬重母親，而是提升屬靈的親屬關係——那些「who do the will of His Father」的人。
 >
 > — G. Campbell Morgan, *The Gospel According to Matthew* / *An Exposition of the Whole Bible*, on Matthew 12
 
+### 麥克阿瑟 (John MacArthur)
+
+**John MacArthur** 論安息日的主（*Grace to You*, "The Lord of the Sabbath"；另參 *MacArthur New Testament Commentary*, Matthew 12）：
+
+> 指出耶穌宣告「the Son of Man is Lord even of the Sabbath day」，這是宣告絕對的權柄：「I initiate it and I will interpret it」（安息日是我設立的，也由我來詮釋）。論「比聖殿更大」：這宣告「absolutely shocking」，是「a claim to deity」——神昔日同在於會幕、聖殿之中，如今這同在的實體就在基督自己裏面，故祂比任何屬物質的聖殿都更大。MacArthur 也描繪法利賽人敵意升級的軌跡：從懷疑、批評、冷淡，終至「open rejection and ultimately to blasphemy」——他們的憤怒，正因安息日「was the focus of all of their religious activity」，而耶穌打破了他們加給安息日的重擔。
+>
+> — John MacArthur, "The Lord of the Sabbath" (Matthew 12:1-8), Grace to You, gty.org
+
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 51:16-17
 
@@ -229,13 +211,9 @@ publisher: 三書精讀出版系統
 
 ### 詩篇 32:1-2
 
-> 「得赦免其過、遮蓋其罪的，這人是有福的！凡心裡沒有詭詐、耶和華不算為有罪的，這人是有福的！」
+> 「得赦免其過、遮蓋其罪的，這人是有福的！凡心裏沒有詭詐、耶和華不算為有罪的，這人是有福的！」
 
 這是不可赦免之罪最尖銳的對照——大多數的罪都能得赦免，惟獨那頑梗到底、拒絕聖靈見證的心，把自己關在赦免的門外。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### Depth of Mercy
 
@@ -246,51 +224,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-**G. Campbell Morgan** 將本章的四波攻擊視為一個整體的敵意軌跡——從律法的爭議，到動機的抹黑，到頑梗地索求神蹟，最終連親情都被用來質疑基督；**但每一波攻擊，耶穌都用更清楚的自我啟示回應，而不是退讓**。
-
-### 麥克阿瑟講道要點 (John MacArthur)
-
-**John MacArthur**（gty.org 馬太福音講道系列）在多篇講道中強調：耶穌宣告「比聖殿更大」不是修辭上的誇張，是明確的神性宣告——祂用的邏輯層層上溯（大衛的先例→祭司的職分→聖殿本身→祂自己），為的是讓聽的人自己得出無可迴避的結論。
-
-### 老弟兄查經洞見 (Thursday Class Insights)
-
-**老弟兄查經洞見**：法利賽人不是不認識聖經，是心已經定意不信；老弟兄常提醒，知識越多，若心不轉向神，責任反而越重，不是越輕。褻瀆聖靈的警告，正是這原則最嚴肅的展現。老弟兄又指出：三個「更大的」宣告，其實把整本舊約子民倚靠的三根柱子——聖殿（同在）、先知（話語）、君王的智慧（智慧）——都指向了耶穌自己；**讀舊約若沒有看見耶穌，那本書等於白讀了**，本章正是最清楚的示範。
-
-> 出處：G. Campbell Morgan, *The Gospel According to Matthew*（要旨撮述）；John MacArthur, Grace to You 馬太福音系列（要旨撮述）；老弟兄週四查經班筆記
-
----
-
-## 詩歌回顧 (Hymns & Psalms Recap)
-
-### 詩篇對照
-
-| 主題 | 詩篇 | 經文連結 |
-|----------------------|----------------------|------------------------------------|
-| 神喜愛憐憫 | 詩篇 51:16-17 | 「你本不喜愛祭物……神所要的祭就是憂傷的靈」 |
-| 壓傷的蘆葦 | 詩篇 147:3 | 「他醫好傷心的人，裹好他們的傷處」 |
-| 蒙赦免的福 | 詩篇 32:1-2 | 「得赦免其過、遮蓋其罪的，這人是有福的」——與不可赦免之罪的警告形成對照 |
-
-### 相關聖詩
-
-- *Depth of Mercy*（何等深廣的憐憫）——回應褻瀆聖靈與拒絕恩典的嚴肅警告
-- *Just As I Am*（照我本相）——回應「神喜愛憐憫，不喜愛祭祀」
-- *Rock of Ages*（萬古磐石）——回應安息日之主帶來的真安息
-
----
-
 ## 鑰詞深讀：更大的 (Key Word — SOMETHING GREATER)
 
 ### 一、三次「更大的」，指向同一位
 
-「這裡有一個比聖殿更大的」（12:6）、「這裡有一人比約拿更大」（12:41）、「這裡有一人比所羅門更大」（12:42）——三句話用的都是同一個比較級 μεῖζον。這不是三個各自獨立的誇口，是同一份自我啟示，從三個角度說出來：**聖殿**是神同在的**地方**，**約拿**是神差來的**聲音**，**所羅門**是神所賜的**智慧**。耶穌宣告：我比這三者的源頭本身還大——因為神的同在、神的話、神的智慧，如今都活在我裡面。
+「這裏有一個比聖殿更大的」（12:6）、「這裏有一人比約拿更大」（12:41）、「這裏有一人比所羅門更大」（12:42）——三句話用的都是同一個比較級 μεῖζον。這不是三個各自獨立的誇口，是同一份自我啟示，從三個角度說出來：**聖殿**是神同在的**地方**，**約拿**是神差來的**聲音**，**所羅門**是神所賜的**智慧**。耶穌宣告：我比這三者的源頭本身還大——因為神的同在、神的話、神的智慧，如今都活在我裏面（參西2:3「所積蓄的一切智慧知識，都在他裏面藏著」）。
 
 ### 二、法利賽人不是缺證據，是不肯要這位「更大的」
 
-同一章裡，耶穌醫好瞎眼、啞巴、鬼附的人，眾人驚奇問：「這不是大衛的子孫嗎？」（12:23）——證據已經清楚到眾人都問對了問題。法利賽人卻寧可承認一個荒謬的邏輯（撒但趕出撒但），也不肯承認眼前這位是「更大的」那一位。**這不是理性的失敗，是心志的選擇。**
+法利賽人明明看見瞎眼、啞巴、鬼附得醫治的證據（12:22-23），卻寧可承認一個荒謬的邏輯（撒但趕出撒但），也不肯承認眼前這位是「更大的」那一位。**這不是理性的失敗，是心志的選擇。**
 
 | | 尼尼微人／南方女王 | 這世代（法利賽人） |
 |---------------------------|---------------------------|---------------------------|
@@ -304,13 +246,19 @@ publisher: 三書精讀出版系統
 
 ### 四、逼近核心的一問
 
-**你面前這位「更大的」，你的回應是尼尼微人的悔改，還是法利賽人的商議？**
-
-證據從來不是問題——法利賽人看見的神蹟，比許多今天口稱信主的人所看見的還要多。真正的分水嶺，是心願不願意承認：眼前這一位，比我心裡最珍視的一切都更大。
+**證據從來不是問題**——法利賽人看見的神蹟，比許多今天口稱信主的人所看見的還要多。真正的分水嶺，是心願不願意承認：眼前這一位，比我心裏最珍視的一切都更大。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：同一章裏，耶穌三次宣告「這裏有一個比……更大的」——比聖殿更大、比約拿更大、比所羅門更大；宗教領袖的回應，卻是把聖靈的作為說成是撒但的作為——**衝突升級的根源不在證據不足，在心不願意。**
+
+### 老弟兄查經洞見 (Thursday Class Insights)
+
+**老弟兄查經洞見**：法利賽人不是不認識聖經，是心已經定意不信；老弟兄常提醒，知識越多，若心不轉向神，責任反而越重。褻瀆聖靈的警告，正是這原則最嚴肅的展現。老弟兄又指出：三個「更大的」宣告，把舊約子民倚靠的三根柱子——聖殿（同在）、先知（話語）、君王的智慧（智慧）——都指向了耶穌自己；**讀舊約若沒有看見耶穌，那本書等於白讀了**，本章正是最清楚的示範。
+
+> 出處：G. Campbell Morgan, *The Gospel According to Matthew*（要旨撮述）；John MacArthur, Grace to You 馬太福音系列（要旨撮述）；老弟兄週四查經班筆記
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -318,8 +266,8 @@ publisher: 三書精讀出版系統
 
 ### 提問式對話 (Let the Reader Speak)
 
-- 先問：「法利賽人看見的神蹟和你看見的證據一樣多嗎？」（等讀者思考）
-- 再問：「既然證據足夠，為什麼他們還是不信？」
+- 先問：「法利賽人看見的神蹟和你看見的證據一樣多嗎？」
+- 再問：「既然證據足夠，為甚麼他們還是不信？」
 - 追問：「三次『更大的』宣告——聖殿、約拿、所羅門，分別代表同在、話語、智慧。你今天最倚靠的『同在』『話語』『智慧』的來源，是耶穌自己，還是別的東西？」
 - 最後問：「你現在面對的，是缺證據，還是缺一顆願意的心？」
 
@@ -329,19 +277,11 @@ publisher: 三書精讀出版系統
 
 ### 今天的祭壇 (Today's Altar)
 
-- **早晨**：今天誠實地問自己一個問題——有沒有哪一件事，我心裡其實明白真相，卻因為承認會付上代價，所以選擇了另一種說法？把這件事帶到神面前，求祂光照。
+- **早晨**：今天誠實地問自己一個問題——有沒有哪一件事，我心裏其實明白真相，卻因為承認會付上代價，所以選擇了另一種說法？把這件事帶到神面前，求祂光照。
 - **晚上**：今天我面對神清楚的作為時，回應更像尼尼微人的悔改，還是法利賽人的商議？
 - **一個行動**：今天在一件小事上，選擇誠實的解釋，即使它讓自己付上代價。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：衝突升級的根源從來不是證據不足，是心不願意——安息日的主已經把自己顯明得再清楚不過，剩下的問題只是：你願不願意讓祂做你的主？
-
-**貫通全經**：「比聖殿更大、比約拿更大、比所羅門更大」——同在、話語、智慧的舊約頂峰，全在耶穌身上匯聚；正如希伯來書所論證的，祂比天使、比摩西、比亞倫都更大，是貫穿全經、越說越清楚的同一個真理。
-
-**無法迴避的問題**：你面前這位「更大的」，你的回應是尼尼微人的悔改，還是法利賽人的商議？
+**你看見耶穌了嗎**：醫好枯乾的手，眾人歸榮耀給神；醫好瞎啞的人，法利賽人卻說是靠鬼王——證據沒有改變，是心已定意不信。**當你面對這位比聖殿更大的安息日的主，你的問題是「祂做了甚麼」，還是「我願不願意讓祂做我的主」？**
 
 ---
 
@@ -349,18 +289,18 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **律法與憐憫**：我的信仰是否變成了律法主義，忘記神喜愛憐憫勝於外在的儀式？
-2. **軟弱者的安慰**：「壓傷的蘆葦祂不折斷」——這句話如何安慰此刻軟弱的我？
-3. **心口合一**：「心裏所充滿的，口裏就說出來」——我的言語反映出內心怎樣的光景？
-4. **不要只是空屋**：我是否只求外在的改變，卻沒有讓基督真實地充滿我的生命？
-5. **屬靈的家庭**：我與基督的關係，是靠著遵行天父的旨意，還是僅僅依賴血緣或教會背景？
+1. 「褻瀆聖靈的罪不能得赦免」——為甚麼一個真誠擔憂自己犯了此罪的人，通常反而證明他還沒有走到那一步？這句話帶給你甚麼樣的釋放或警惕？
+
+2. 「壓傷的蘆葦，他不折斷」——這句從以賽亞書而來的應許，如何安慰此刻自覺軟弱、瀕臨熄滅的你？
+
+3. 先別急著回答——耶穌問「誰是我的母親？誰是我的弟兄？」然後說「凡遵行我天父旨意的人，就是我的弟兄姐妹和母親了」。如果今天用「有沒有遵行天父的旨意」來衡量，而不是用「參加了多少宗教活動」，你與基督的關係會是甚麼樣子？
 
 ### 禱告回應
 
 > 主耶穌，安息日的主，
 > 你比聖殿更大，比約拿更大，比所羅門更大——
 > 求你赦免我常常把宗教的形式，看得比你自己更重要；
-> 求你光照我心裡那些明知故意、卻選擇不承認的地方，
+> 求你光照我心裏那些明知故意、卻選擇不承認的地方，
 > 不要叫我像法利賽人一樣，證據擺在眼前卻硬著心。
 > 願我今天面對你清楚的作為時，回應是尼尼微人的悔改，
 > 而不是商議抵擋你的心。
@@ -368,32 +308,12 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
-
-1. 「比聖殿更大」「比約拿更大」「比所羅門更大」——這三次宣告分別對應同在、話語、智慧。你今天最容易把哪一樣（宗教活動、道理知識、聰明才智）看得比耶穌自己更重要？
-
-2. 法利賽人看見瞎眼的看見、啞巴的說話，卻堅持說這是靠鬼王的能力——他們缺的不是證據，是什麼？你今天有沒有類似的處境：明明看見真相，卻選擇一個比較舒服的解釋？
-
-3. 「褻瀆聖靈的罪不能得赦免」——為什麼一個真誠擔憂自己犯了此罪的人，通常反而證明他還沒有走到那一步？這句話帶給你什麼樣的釋放或警惕？
-
-4. 「壓傷的蘆葦，他不折斷」——這句從以賽亞書而來的應許，如何安慰此刻自覺軟弱、瀕臨熄滅的你？
-
-5. 先別急著回答——耶穌問「誰是我的母親？誰是我的弟兄？」然後說「凡遵行我天父旨意的人，就是我的弟兄姐妹和母親了」。如果今天用「有沒有遵行天父的旨意」來衡量，而不是用「參加了多少宗教活動」，你與基督的關係會是什麼樣子？
-
----
-
-## 你看見耶穌了嗎？ (Have You Seen Jesus?)
-
-同一位耶穌，醫好一隻枯乾的手，眾人歸榮耀給神；醫好一個又瞎又啞的人，法利賽人卻說這是靠鬼王的能力。神蹟本身從未改變任何一顆頑梗的心——衝突升級的原因，不是證據不夠清楚，而是有人已經決定不信。
-
-「這裏有一個比聖殿更大的」（12:6）——這句話今天仍然向每一個人發出：你若把宗教的形式看得比神自己更重要，你可能正站在法利賽人的位置上。**當你面對這位安息日的主，你的問題是「祂做了什麼」，還是「我願不願意讓祂做我的主」？**
-
----
-
-## 延伸閱讀 (Further Reading)
+## 與其他經文的關聯
 
 - 馬可福音 2:23-3:35（平行經文）
 - 路加福音 6:1-11; 11:14-32（平行經文）
 - 以賽亞書 42:1-4（引用經文）
 - 約拿書（約拿的神蹟之舊約背景）
 - 希伯來書 1章, 3章, 7章（基督比天使、摩西、亞倫更大的平行論證）
+
+---

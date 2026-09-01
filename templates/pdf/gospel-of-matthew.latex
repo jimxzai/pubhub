@@ -153,7 +153,12 @@
   linkcolor=ChapterPurple,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={馬太福音逐章研讀 · Gospel of Matthew Deep Study},
+  pdfkeywords={馬太福音, Gospel of Matthew, 聖經研讀, Bible Study},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -178,6 +183,9 @@
 \patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
 \@ifundefined{c@none}{\newcounter{none}}{}
 \makeatother
+% Word-study tables mix Greek + CJK in narrow columns; set them \small so
+% long unbreakable strings (transliterations) stay inside the measure.
+\AtBeginEnvironment{longtable}{\small}
 
 % Style table rules
 \renewcommand{\toprule}{\hline\hline}
@@ -224,19 +232,23 @@
 %% and volume/part titles only — granular lookup belongs in the indexes.
 \setcounter{tocdepth}{0}
 
+%% Number chapters only: no 8.11.4-style section numbers in the body or
+%% the running heads (publishing-standard pass, same as John/Luke).
+\setcounter{secnumdepth}{0}
+
 %% ============================================
 %% SECTION STYLING (manual, without titlesec)
 %% ============================================
 \makeatletter
-% Chapter styling
+% Chapter styling. The chapter titles already read 「第八章：…」, so no
+% separate "Chapter 8" label line; the running head gets the bare title
+% (set here with \markboth, after \@chapter has already run the
+% hyperref-patched \chaptermark — see the header note above for why we
+% never redefine \chaptermark itself).
 \def\@makechapterhead#1{%
+  \markboth{#1}{}%
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
-    \ifnum \c@secnumdepth >\m@ne
-      \large\bfseries\color{ChapterPurple} \@chapapp\space \thechapter
-      \par\nobreak
-      \vskip 8pt
-    \fi
     \interlinepenalty\@M
     \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
     \vskip 12pt
@@ -283,7 +295,7 @@
 % after each subsequent \chapter*. Resetting secnumdepth here, before
 % \@chapter's own logic runs, fixes the decision at its source.
 \let\pubhub@chapter\chapter
-\renewcommand{\chapter}{\setcounter{secnumdepth}{2}\pubhub@chapter}
+\renewcommand{\chapter}{\setcounter{secnumdepth}{0}\pubhub@chapter}
 
 % Section styling
 % \needspace guards against a heading being stranded alone at the
@@ -415,7 +427,12 @@ given to me. Go therefore and make disciples.\\
 
   % Mediterranean Sea (left side)
   \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
-  \node[font=\tiny,color=ChapterPurple,rotate=90] at (-0.5,3.5) {Mediterranean};
+  % Set OUTSIDE the water fill (which spans x=-1..0.5). Inside the strip it
+  % collided with whichever left-anchored place label overhung it — first
+  % "Nazareth 拿撒勒", then "Jerusalem 耶路撒冷". Out here nothing can reach it.
+  \node[font=\tiny,color=ChapterPurple,rotate=90] at (-1.32,2.45) {Mediterranean};
+  % y=2.45 puts its span (~1.5-3.4) in the clear band: the "Jerusalem" label
+  % row is at y=1.8 and reaches only to x=0.6; "Nazareth" is at y=4.2.
 
   % Land area
   \fill[LandBeige] (0.5,0) rectangle (6,6.5);
@@ -451,42 +468,52 @@ given to me. Go therefore and make disciples.\\
   \node[font=\tiny\bfseries,left,color=red!70!black] at (3.1,1.8) {Jerusalem 耶路撒冷};
 
   % Egypt indicator
-  \node[font=\tiny,color=TextGray] at (1,0.3) {\ensuremath{\leftarrow} Egypt 埃及 (2:14)};
+  % `right` anchor pins the left edge inside the land (sea strip ends at x=0.5),
+  % so the label cannot drift over the rotated "Mediterranean" label.
+  % Two lines: on one line the label spans ~2.9 units from x=0.62 and runs
+  % into the Dead Sea ellipse (x 3.1-3.9). Stacked, it ends near x=2.2.
+  \node[font=\tiny,right,align=left,color=TextGray] at (0.62,0.85)
+    {\ensuremath{\leftarrow} Egypt 埃及\\(2:14)};
 
   % Compass
   \draw[->,thick,color=ChapterPurple] (5.3,5.8) -- (5.3,6.3);
   \node[font=\tiny,color=ChapterPurple] at (5.3,6.5) {N};
 
   % Scale
-  \draw[color=LightGray] (0.8,0.3) -- (2.3,0.3);
-  \node[font=\tiny,color=LightGray] at (1.55,0.1) {50 km};
+  % Scale moved to the empty right-hand land area; under Egypt it overprinted.
+  \draw[color=LightGray] (4.3,0.35) -- (5.5,0.35);
+  \node[font=\tiny,color=LightGray] at (4.9,0.12) {50 km};
 \end{tikzpicture}
 
 \vspace{0.3cm}
 
 % Structure diagram (smaller)
-\begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,2.5) {Gospel Structure 福音結構};
+% NOTE: `scale` alone scales coordinates but leaves `minimum width` at its
+% absolute value, so boxes overlapped and the chapter numbers were hidden
+% under the box borders. `transform shape` scales the nodes too.
+\begin{tikzpicture}[scale=0.6,transform shape,
+    stage/.style={draw=ChapterPurple,fill=ScriptureBg,rounded corners,
+                  minimum width=1.7cm,minimum height=0.6cm,font=\tiny,inner sep=1pt},
+    late/.style={draw=ScriptureGold,fill=ScriptureBg,rounded corners,
+                 minimum width=2.1cm,minimum height=0.6cm,font=\tiny,inner sep=1pt}]
+  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,2.7) {Gospel Structure 福音結構};
 
-  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (-3,1.5) {Birth};
-  \node[font=\tiny,color=LightGray] at (-3,1.1) {1-2};
+  \node[stage] (birth)  at (-3.45,1.5) {Birth};
+  \node[stage] (sermon) at (-1.15,1.5) {Sermon};
+  \node[stage] (mission) at (1.15,1.5) {Mission};
+  \node[stage] (parable) at (3.45,1.5) {Parables};
 
-  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (-1.2,1.5) {Sermon};
-  \node[font=\tiny,color=LightGray] at (-1.2,1.1) {5-7};
+  \node[font=\tiny,color=LightGray,below=1.5pt of birth]   {1-2};
+  \node[font=\tiny,color=LightGray,below=1.5pt of sermon]  {5-7};
+  \node[font=\tiny,color=LightGray,below=1.5pt of mission] {10};
+  \node[font=\tiny,color=LightGray,below=1.5pt of parable] {13};
 
-  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (0.6,1.5) {Mission};
-  \node[font=\tiny,color=LightGray] at (0.6,1.1) {10};
+  \draw[->,color=ScriptureGold,thick] (birth)   -- (sermon);
+  \draw[->,color=ScriptureGold,thick] (sermon)  -- (mission);
+  \draw[->,color=ScriptureGold,thick] (mission) -- (parable);
 
-  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=1.5cm,minimum height=0.5cm,font=\tiny] at (2.4,1.5) {Parables};
-  \node[font=\tiny,color=LightGray] at (2.4,1.1) {13};
-
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (-1,0.3) {Church 18};
-
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (1.2,0.3) {Olivet 24-25};
-
-  \draw[->,color=ScriptureGold,thick] (-2.2,1.5) -- (-1.8,1.5);
-  \draw[->,color=ScriptureGold,thick] (-0.5,1.5) -- (-0.1,1.5);
-  \draw[->,color=ScriptureGold,thick] (1.3,1.5) -- (1.7,1.5);
+  \node[late] at (-1.5,0.1) {Church 18};
+  \node[late] at (1.5,0.1) {Olivet 24-25};
 \end{tikzpicture}
 
 \vfill
@@ -644,7 +671,7 @@ $endif$
   \foreach \x/\num/\title/\ref/\theme in {
     0/1/山上寶訓/5-7/天國憲章,
     2/2/差遣講論/10/天國使命,
-    4/3/天國比喻/13/天國奧秘,
+    4/3/天國比喻/13/天國奧祕,
     6/4/教會講論/18/天國群體,
     8/5/橄欖山/24-25/天國審判
   } {
@@ -723,7 +750,7 @@ $endif$
 \end{tikzpicture}
 
 \vspace{0.3cm}
-{\footnotesize\color{LightGray} 「天國的奧秘只給你們知道。」— 馬太福音 13:11}
+{\footnotesize\color{LightGray} 「天國的奧祕只叫你們知道。」— 馬太福音 13:11}
 \end{center}
 \cleardoublepage
 
@@ -749,7 +776,7 @@ All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
 中文：和合本 (CUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+English: New American Standard Bible (NASB 1995)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ 老弟兄 · 週四查經班 (Thursday Bible Class)\\
