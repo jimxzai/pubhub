@@ -18,21 +18,21 @@ publisher: 三書精讀出版系統
 > **1:8 座標**：仍在「猶太全地、撒瑪利亞」的階段——但安提阿在這一章裏悄悄成形為下一階段的出發基地。徒13:1-3將從這裏差遣保羅、巴拿巴出去，那是第三卷「直到地極」的起點。 \
 > （全書骨幹見卷首《見證——全書的骨幹》）
 
-這一章表面的主角是彼得的申辯、巴拿巴的服事、亞迦布的預言，但真正在做工的，是那位藉聖靈仍在建造教會的復活的主。耶路撒冷教會聽完彼得逐一陳明的經過，不是說「我們決定接納外邦人」，而是說「神也賜恩給外邦人，叫他們悔改得生命了」（11:18）——他們承認的，是主已經做成的事，不是自己開創的政策。安提阿那群無名的信徒，不理會「猶太人不可與外邦人來往」的成規，向希臘人傳講「主耶穌」（11:20），「主的手與他們同在」（11:21）——擴展教會的，始終是那看不見卻真實同在的手。就連「基督徒」這個名字，也不是使徒自己選的，而是城裏的人看著這群人活得太像基督，脫口叫出來的——這名字本身，就是復活的主藉聖靈在人群中留下的印記。
+這一章表面的主角是彼得的申辯、巴拿巴的服事、亞迦布的預言，但真正在做工的，是那位藉聖靈仍在建造教會的復活的主。耶路撒冷教會聽完彼得逐一陳明的經過，不是說「我們決定接納外邦人」，而是說「神也賜恩給外邦人，叫他們悔改得生命了」（11:18）——他們承認的，是主已經做成的事，不是自己開創的政策。安提阿那群無名的信徒，不理會「猶太人不可與外邦人來往」的成規，向希臘人傳講「主耶穌」（11:20），「主與他們同在」（11:21）——擴展教會的，始終是那看不見卻真實同在的手。就連「基督徒」這個名字，也不是使徒自己選的，而是城裏的人看著這群人活得太像基督，脫口叫出來的——這名字本身，就是復活的主藉聖靈在人群中留下的印記。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Jesus Shall Reign Where'er the Sun**
+> **Jesus Shall Reign Where'er the Sun** \
 > *Isaac Watts, 1719*
 >
-> Jesus shall reign where'er the sun
-> Does his successive journeys run;
-> His kingdom stretch from shore to shore,
+> Jesus shall reign where'er the sun \
+> Does his successive journeys run; \
+> His kingdom stretch from shore to shore, \
 > Till moons shall wax and wane no more.
 >
-> 普天下無論日頭所到之處，耶穌都要掌權作王；
+> 普天下無論日頭所到之處，耶穌都要掌權作王； \
 > 祂的國度從此岸延到彼岸，直到日月無有窮盡。
 >
 > （中文為意譯，非官方譯本）
@@ -45,27 +45,27 @@ publisher: 三書精讀出版系統
 
 > ^1^使徒和在猶太的眾弟兄聽說外邦人也領受了神的道。^2^及至彼得上了耶路撒冷，那些奉割禮的門徒和他爭辯，說：^3^「你進入未受割禮之人的家，和他們一同吃飯了！」^4^彼得就開口把這事挨次給他們講解，說：
 
-> ^15^「我一開講，聖靈便降在他們身上，正像當初降在我們身上一樣。^16^我就想起主的話說：\jesus{『約翰是用水施洗，但你們要受聖靈的洗。』}^17^神既然給他們恩賜，像在我們信主耶穌基督的時候給了我們一樣，我是誰，能攔阻神呢？」^18^眾人聽見這話，就不言語了，只歸榮耀於神，說：「這樣看來，神也賜恩給外邦人，叫他們悔改得生命了。」
+> ^15^「我一開講，聖靈便降在他們身上，正像當初降在我們身上一樣。^16^我就想起主的話說：\jesus{『約翰是用水施洗，但你們要受聖靈的洗。』}^17^神既然給他們恩賜，像在我們信主耶穌基督的時候給了我們一樣，我是誰，能攔阻神呢？」^18^眾人聽見這話，就不言語了，只歸榮耀與神，說：「這樣看來，神也賜恩給外邦人，叫他們悔改得生命了。」
 
 > ^19^那些因司提反的事遭患難四散的門徒，直走到腓尼基和居比路並安提阿，他們不向別人講道，只向猶太人講。^20^但內中有居比路和古利奈人，他們到了安提阿，也向希臘人傳講主耶穌。^21^主與他們同在，信而歸主的人就很多了。
 
 > ^22^這風聲傳到耶路撒冷教會人的耳中，他們就打發巴拿巴出去，走到安提阿為止。^23^他到了那裏，看見神所賜的恩就歡喜，勸勉眾人立定心志，恆久靠主。^24^這巴拿巴原是個好人，被聖靈充滿，大有信心。於是，有許多人歸服了主。^25^他又往大數去找掃羅，^26^找著了，就帶他到安提阿去。他們足有一年的工夫和教會一同聚集，教訓了許多人。門徒稱為「基督徒」是從安提阿起首。
 
-> ^27^當那些日子，有幾位先知從耶路撒冷下到安提阿。^28^內中有一位名叫亞迦布，站起來，藉著聖靈指明天下將有大饑荒；這事到克勞迪年間果然有了。^29^於是門徒定意照各人的力量捐錢，送去供給住在猶太的弟兄。^30^他們就這樣行，把捐項託巴拿巴和掃羅送到眾長老那裏。
+> ^27^當那些日子，有幾位先知從耶路撒冷下到安提阿。^28^內中有一位名叫亞迦布，站起來，藉著聖靈指明天下將有大饑荒；這事到革老丟年間果然有了。^29^於是門徒定意照各人的力量捐錢，送去供給住在猶太的弟兄。^30^他們就這樣行，把捐項託巴拿巴和掃羅送到眾長老那裏。
 
-### English — ESV
+### English — NASB
 
-> ^1^Now the apostles and the brothers who were throughout Judea heard that the Gentiles also had received the word of God. ^2^So when Peter went up to Jerusalem, the circumcision party criticized him, saying, ^3^"You went to uncircumcised men and ate with them." ^4^But Peter began and explained it to them in order:
+> ^1^Now the apostles and the brethren who were throughout Judea heard that the Gentiles also had received the word of God. ^2^And when Peter came up to Jerusalem, those who were circumcised took issue with him, ^3^saying, "You went to uncircumcised men and ate with them." ^4^But Peter began *speaking* and *proceeded* to explain to them in orderly sequence, saying,
 
-> ^15^"As I began to speak, the Holy Spirit fell on them just as on us at the beginning. ^16^And I remembered the word of the Lord, how he said, \jesus{'John baptized with water, but you will be baptized with the Holy Spirit.'} ^17^If then God gave the same gift to them as he gave to us when we believed in the Lord Jesus Christ, who was I that I could stand in God's way?" ^18^When they heard these things they fell silent. And they glorified God, saying, "Then to the Gentiles also God has granted repentance that leads to life."
+> ^15^"And as I began to speak, the Holy Spirit fell upon them just as *He did* upon us at the beginning. ^16^And I remembered the word of the Lord, how He used to say, \jesus{'John baptized with water, but you will be baptized with the Holy Spirit.'} ^17^Therefore if God gave to them the same gift as *He gave* to us also after believing in the Lord Jesus Christ, who was I that I could stand in God's way?" ^18^When they heard this, they quieted down and glorified God, saying, "Well then, God has granted to the Gentiles also the repentance *that leads* to life."
 
-> ^19^Now those who were scattered because of the persecution that arose over Stephen traveled as far as Phoenicia and Cyprus and Antioch, speaking the word to no one except Jews. ^20^But there were some of them, men of Cyprus and Cyrene, who on coming to Antioch spoke to the Hellenists also, preaching the Lord Jesus. ^21^And the hand of the Lord was with them, and a great number who believed turned to the Lord.
+> ^19^So then those who were scattered because of the persecution that occurred in connection with Stephen made their way to Phoenicia and Cyprus and Antioch, speaking the word to no one except to Jews alone. ^20^But there were some of them, men of Cyprus and Cyrene, who came to Antioch and *began* speaking to the Greeks also, preaching the Lord Jesus. ^21^And the hand of the Lord was with them, and a large number who believed turned to the Lord.
 
-> ^22^The report of this came to the ears of the church in Jerusalem, and they sent Barnabas to Antioch. ^23^When he came and saw the grace of God, he was glad, and he exhorted them all to remain faithful to the Lord with steadfast purpose, ^24^for he was a good man, full of the Holy Spirit and of faith. And a great many people were added to the Lord. ^25^So Barnabas went to Tarsus to look for Saul, ^26^and when he had found him, he brought him to Antioch. For a whole year they met with the church and taught a great many people. And in Antioch the disciples were first called Christians.
+> ^22^The news about them reached the ears of the church at Jerusalem, and they sent Barnabas off to Antioch. ^23^Then when he arrived and witnessed the grace of God, he rejoiced and *began* to encourage them all with resolute heart to remain *true* to the Lord; ^24^for he was a good man, and full of the Holy Spirit and of faith. And considerable numbers were brought to the Lord. ^25^And he left for Tarsus to look for Saul; ^26^and when he had found him, he brought him to Antioch. And for an entire year they met with the church and taught considerable numbers; and the disciples were first called Christians in Antioch.
 
-> ^27^Now in these days prophets came down from Jerusalem to Antioch. ^28^And one of them named Agabus stood up and foretold by the Spirit that there would be a great famine over all the world (this took place in the days of Claudius). ^29^So the disciples determined, every one according to his ability, to send relief to the brothers living in Judea. ^30^And they did so, sending it to the elders by the hand of Barnabas and Saul.
+> ^27^Now at this time some prophets came down from Jerusalem to Antioch. ^28^One of them named Agabus stood up and *began* to indicate by the Spirit that there would certainly be a great famine all over the world. And this took place in the *reign* of Claudius. ^29^And in the proportion that any of the disciples had means, each of them determined to send *a contribution* for the relief of the brethren living in Judea. ^30^And this they did, sending it in charge of Barnabas and Saul to the elders.
 
-**經文核對**：[ai-eden.com/bible/acts/11](https://www.ai-eden.com/bible/acts/11?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/11](https://www.ai-eden.com/bible/acts/11?t=CUV,NASB&cols=2)
 
 ---
 
@@ -76,7 +76,7 @@ publisher: 三書精讀出版系統
 | 項目 | 說明 |
 |----------------------------------------|----------------------------------------|
 | **位置** | 敘利亞的安提阿（今土耳其南部安塔基亞），位於奧倫特河畔，距地中海約20公里 |
-| **地位** | 羅馬帝國第三大城，僅次於羅馬與亞歷山太，是敘利亞行省的首府 |
+| **地位** | 羅馬帝國第三大城，僅次於羅馬與亞力山太，是敘利亞行省的首府 |
 | **人口結構** | 希臘人、敘利亞人、猶太人混居，是地中海東岸最國際化的商貿中心之一 |
 | **與福音的關係** | 第一個猶太人與外邦人真正混合聚集的教會誕生地，日後成為保羅三次宣教旅程的差遣基地（13:1-3；14:26-28；15:35-40；18:22-23） |
 
@@ -86,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ### 「基督徒」名稱的來歷
 
-「基督徒」（Χριστιανός, Christianos）一詞在新約中僅出現三次（11:26；26:28；彼前4:16），這是它的首次出現。這個字的構詞方式，仿照羅馬人為政治或宗教派系命名的慣例——字尾「-ιανός」意近「……的黨人」，例如「該撒黨人」（Caesariani）指效忠該撒的人。「基督徒」照此構詞法，字面意思近似「基督的黨人」，很可能最初是安提阿城裏的外人給這群信徒起的稱呼，未必帶著敬意。這稱呼究竟出於誰口、是否帶著嘲諷，聖經本身沒有明說；下文「歷代注疏」所引屈梭多模與麥克阿瑟，均指出這名稱很可能起初帶有貶意——但無論起初的語氣如何，教會後來坦然接受了這個名字，使其成為歷世歷代信徒共同的身份。
+「基督徒」（Χριστιανός, Christianos）一詞在新約中僅出現三次（11:26；26:28；彼前4:16），這是它的首次出現。這個字的構詞方式，仿照羅馬人為政治或宗教派系命名的慣例——字尾「-ιανός」意近「……的黨人」，例如「該撒黨人」（Caesariani）指效忠該撒的人。「基督徒」照此構詞法，字面意思近似「基督的黨人」，很可能最初是安提阿城裏的外人給這群信徒起的稱呼，未必帶著敬意。這稱呼究竟出於誰口、是否帶著嘲諷，聖經本身沒有明說；下文「歷代注疏」所引屈梭多模與麥克阿瑟，均指出這名稱很可能起初帶有貶意——但無論起初的語氣如何，教會後來坦然接受了這個名字，使其成為歷世歷代信徒共同的身分。
 
 ---
 
@@ -98,18 +98,18 @@ publisher: 三書精讀出版系統
 | μετάνοια | metanoia | 悔改 | 11:18 | 「悔改得生命」（μετάνοιαν εἰς ζωήν）——悔改的果效是「進入生命」，不只是情緒上的懊悔 |
 | χάρις | charis | 恩典 | 11:23 | 巴拿巴「看見神所賜的恩」——恩典在此是看得見、可辨認的，活現在信徒群體的生命裏 |
 | διακρίνω | diakrinō | 疑惑、區分 | 11:12 | 聖靈吩咐彼得同去「不要疑惑」；同一字根也用於「區別對待」，暗示彼得心裏原有猶太人與外邦人之分的掙扎 |
-| λιμός | limos | 饑荒 | 11:28 | 亞迦布藉聖靈預言的大饑荒，即革老丟（克勞迪）在位期間（約主後46-48年）史載確曾發生的饑荒 |
-| Ἕλλην | Hellēn | 希臘人（此處指外邦人） | 11:20 | 與6:1、9:29「說希臘話的猶太人」（Ἑλληνιστής）不是同一個字；此節古抄本存在異文，多數學者認為原文當作「向希臘人」（外邦人），正是本段敘事的關鍵轉折 |
+| λιμός | limos | 饑荒 | 11:28 | 亞迦布藉聖靈預言的大饑荒；革老丟在位期間（主後41-54年）猶太地確曾發生大饑荒，史家繫年約在主後46-48年 |
+| Ἕλλην | Hellēn | 希臘人（此處指外邦人） | 11:20 | 與6:1、9:29「說希利尼話的猶太人」（Ἑλληνιστής）不是同一個字；此節古抄本存在異文，多數學者認為原文當作「向希臘人」（外邦人），正是本段敘事的關鍵轉折 |
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 「神也賜恩給外邦人」——教會對神已成之事的承認 (11:18)
+### 1. 「神也賜恩給外邦人」——教會對神已成之事的承認 （11:18）
 
-耶路撒冷教會起初的反應是「爭辯」（11:2），聽完彼得逐一陳明之後，反應卻是「不言語，只歸榮耀給神」（11:18）。這不是一場辯論賽的勝負，而是教會謙卑承認：神已經在他們還沒有表態之前，親自成就了這事。教會的職分，是**辨認**神的作為，不是**批准**神的作為。
+耶路撒冷教會起初的反應是「爭辯」（11:2），聽完彼得逐一陳明之後，反應卻是「不言語了，只歸榮耀與神」（11:18）。這不是一場辯論賽的勝負，而是教會謙卑承認：神已經在他們還沒有表態之前，親自成就了這事。教會的職分，是**辨認**神的作為，不是**批准**神的作為。
 
-### 2. 患難成為福音的推手 (11:19-21)
+### 2. 患難成為福音的推手 （11:19-21）
 
 「那些因司提反的事遭患難四散的門徒」（11:19）——這句話直接呼應8:1、8:4：逼迫原意是要消滅教會，結果卻把福音的種子撒得更遠。先是只向猶太人講（11:19），後來居比路和古利奈的信徒開始「也向希臘人傳講主耶穌」（11:20），福音的邊界，就在患難中不知不覺地被推開了。
 
@@ -117,25 +117,21 @@ publisher: 三書精讀出版系統
 
 巴拿巴的名字意思是「勸慰子」（4:36），這一次差遣正應了他的名：他「看見神所賜的恩就歡喜」，沒有先挑剔查驗這群人的資格，而是「勸勉眾人立定心志，恆久靠主」。路加特意加註他的性情——「原是個好人，被聖靈充滿，大有信心」——說明教會差遣人，看重的是生命，不只是恩賜。
 
-### 4. 巴拿巴去找掃羅——教會的合一團隊事奉 (11:25-26)
+### 4. 巴拿巴去找掃羅——教會的合一團隊事奉 （11:25-26）
 
 巴拿巴大可以獨力牧養安提阿這個迅速增長的教會，他卻主動往大數去找掃羅同工。這是掃羅自9:30被送往大數之後，沉寂多年重新被記載的一刻——神使用的，是巴拿巴甘心不獨佔功勞、主動尋人同工的心。
 
-### 5. 「基督徒」——一個從外面來的名字 (11:26)
+### 5. 「基督徒」——一個從外面來的名字 （11:26）
 
-「門徒稱為『基督徒』是從安提阿起首」——這名字不是使徒會議定下的，也不是信徒自己爭取的頭銜，而是外人看著這群人「與教會一同聚集，教訓了許多人」的生活方式，自然而然叫出來的稱呼。一個身份，若是要靠自己宣稱才成立，通常還不夠真實；安提阿的信徒，是活出來的。
+「門徒稱為『基督徒』是從安提阿起首」——這名字不是使徒會議定下的，也不是信徒自己爭取的頭銜，而是外人看著這群人「與教會一同聚集，教訓了許多人」的生活方式，自然而然叫出來的稱呼。一個身分，若是要靠自己宣稱才成立，通常還不夠真實；安提阿的信徒，是活出來的。
 
-### 6. 先知的職事與教會的賙濟 (11:27-30)
+### 6. 先知的職事與教會的賙濟 （11:27-30）
 
 亞迦布「藉著聖靈指明天下將有大饑荒」，教會的回應不是恐慌屯糧，而是「定意照各人的力量捐錢，送去供給住在猶太的弟兄」。這是新約教會第一次記載的跨地域賙濟行動，日後在保羅書信中發展成一場橫跨多個外邦教會、為耶路撒冷聖徒籌款的大型事工（羅15:25-27；林前16:1-4；林後8-9章）——安提阿這裏的小小善行，正是那條線的起點。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -157,40 +153,9 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, 徒11:26注（CCEL, calcom36）
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-> "That's a new name and it was a term of derision... A Caesariani would have to do with Caesar. Christiani would be of the party of Christ, and this was a derisive mocking term."
->
-> 「這是一個新名字，而且原是個帶著嘲諷意味的稱呼……正如『該撒黨人』（Caesariani）指效忠該撒的人，『基督黨人』（Christiani）意指屬基督一黨的人——這原是個帶著譏誚意味的稱呼。」麥克阿瑟並舉亞基帕王對保羅說「你想略微勸我作基督徒嗎」（26:28）為證，指出這名稱最初確實常帶著輕蔑的口吻。
->
-> — John MacArthur, *"The First Gentile Church"*（sermon 1739，論徒11:1-30，1973年5月6日），Grace to You, gty.org
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 22:27-28
-
-> 地的四極都要想念耶和華，並且歸順他，列國的萬族都要在你面前敬拜。
-> **因為國權是耶和華的，他是管理萬國的。**
-
-### 詩篇 41:1-3
-
-> **眷顧貧窮的有福了！他遭難的日子，耶和華必搭救他。**
-> 耶和華必保全他，使他存活，他必在地上享福——求你不要把他交給仇敵，遂其所願。
-> 他病重在榻，耶和華必扶持他；他在病中，你必給他鋪床。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-**先爭辯，後沉默**：摩根特別留意路加在此處的措辭——面對外邦人信主的消息，耶路撒冷的門徒不是立刻表態接納，而是先「爭辯」（11:2）。這反映了初代教會一個健康卻也危險的張力：忠於傳統與順服聖靈之間的掙扎，只有當彼得逐一陳明神已經做成的事，反對的聲音才安靜下來。
-
-**沉默先於讚美**：摩根指出11:18「就不說話了，只歸榮耀給神」這句話的次序極其重要——先是沉默，然後才是頌讚。真正認識神作為的人，不會急於為自己原有的立場辯護，而是先安靜下來，讓神的作為說話。
+**先爭辯，後沉默**：摩根特別留意路加在此處的措辭——面對外邦人信主的消息，耶路撒冷的門徒不是立刻表態接納，而是先「爭辯」（11:2）。這反映了初代教會一個健康卻也危險的張力：忠於傳統與順服聖靈之間的掙扎，只有當彼得逐一陳明神已經做成的事，反對的聲音才安靜下來。摩根指出11:18「就不言語了，只歸榮耀與神」這句話的次序極其重要——先是沉默，然後才是頌讚。真正認識神作為的人，不會急於為自己原有的立場辯護，而是先安靜下來，讓神的作為說話。
 
 **逼迫分散了福音，而不是熄滅了福音**：論到安提阿的興起，摩根認為這標誌著福音生命力的擴散：福音的中心不再單單繫於耶路撒冷，而是藉著「那些因司提反的事遭患難而四散的門徒」——被逼到別處的人，反而把福音帶到了別處；逼迫從來攔阻不了聖靈的工作，只會把它分散開來。
 
@@ -200,7 +165,51 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳11章釋經）
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
+
+> "That's a new name and it was a term of derision... A Caesariani would have to do with Caesar. Christiani would be of the party of Christ, and this was a derisive mocking term."
+>
+> 「這是一個新名字，而且原是個帶著嘲諷意味的稱呼……正如『該撒黨人』（Caesariani）指效忠該撒的人，『基督黨人』（Christiani）意指屬基督一黨的人——這原是個帶著譏誚意味的稱呼。」麥克阿瑟並舉亞基帕王對保羅說「你想略微勸我作基督徒嗎」（26:28）為證，指出這名稱最初確實常帶著輕蔑的口吻。
+>
+> — John MacArthur, *"The First Gentile Church"*（sermon 1739，論徒11:1-30，1973年5月6日），Grace to You, gty.org
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 22:27-28
+
+> 地的四極都要想念耶和華，並且歸順他，列國的萬族都要在你面前敬拜。 \
+> **因為國權是耶和華的，他是管理萬國的。**
+
+### 詩篇 41:1-3
+
+> **眷顧貧窮的有福了！他遭難的日子，耶和華必搭救他。** \
+> 耶和華必保全他，使他存活，他必在地上享福——求你不要把他交給仇敵，遂其所願。 \
+> 他病重在榻，耶和華必扶持他；他在病中，你必給他鋪床。
+
+### 詩篇 67:2-4
+
+> 好叫世界得知你的道路，萬國得知你的救恩。神啊，願列邦稱謝你！願萬民都稱謝你！願萬國都快樂歡呼，因為你要按公正審判萬民，引導地上的萬國。
+
+### In Christ There Is No East or West（在基督裏沒有東西之分）
+
+> In Christ there is no East or West, in Him no South or North, \
+> But one great fellowship of love throughout the whole wide earth. \
+> In Him shall true hearts everywhere their high communion find, \
+> His service is the golden cord close binding humankind.
+
+*John Oxenham, 1908*
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：「基督徒」不是教會自己封的頭銜，是外人看著這群人活得太像基督，脫口叫出來的稱呼。「巴拿巴去找掃羅，不是因為安提阿缺人手，是因為福音的工作，從來不是一個人可以獨自扛起來的。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：以賽亞書62:2應許神的百姓要「得新名的稱呼，是耶和華親口所起的」。安提阿這一刻，門徒頭一次被稱為「基督徒」，正是這應許沿途的一個腳印：一群跨越猶太人、希臘人界線的信徒，第一次因著與基督的關係，而得著一個新的、共同的名字，不再單單是「拿撒勒教派」或猶太教的一個分支。這條線往前可以追溯到創世記12:3「地上萬族都要因你得福」，中間經過以賽亞49:6「我還要使你作外邦人的光」，往後一路連到啟示錄2:17「賜他一塊白石，石上寫著新名」、啟示錄19:16「在他衣服和大腿上有名寫著說：萬王之王，萬主之主」。從亞伯拉罕蒙召賜福萬邦，到安提阿第一次有人被稱為「基督徒」，直到啟示錄裏羔羊的新婦得著榮耀的新名，都是同一條線：神的百姓因著與基督聯合，得著一個只有祂能起的名字。
 
 老弟兄常把11:19-30這一段畫成一條「從患難到差遣」的線：
 
@@ -213,30 +222,7 @@ publisher: 三書精讀出版系統
 | 團隊建立 | 11:25-26 | 巴拿巴找掃羅同工，一年之久教導眾人 |
 | 差遣出去 | 13:1-3 | 從安提阿差派保羅、巴拿巴，直到地極 |
 
-老弟兄的觀察是：從8:1的逼迫，到13:1-3的差遣，中間相隔的不是一步，而是一連串小小的、幾乎沒有留下名字的順服——四散的無名門徒、居比路和古利奈的無名信徒、巴拿巴一次不張揚的探訪。神使用的，往往不是一次戲劇性的轉折，而是一連串平凡人不肯守住界線的小小順服。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*In Christ There Is No East or West*（在基督裏沒有東西之分）
-
-> In Christ there is no East or West, in Him no South or North,
-> But one great fellowship of love throughout the whole wide earth.
-> In Him shall true hearts everywhere their high communion find,
-> His service is the golden cord close binding humankind.
-
-**詩篇**：詩篇67:2-4
-
-> 好叫世界得知你的道路，萬國得知你的救恩。神啊，願列邦稱謝你！願萬民都稱謝你！願萬國都快樂歡呼，因為你要按公正審判萬民，引導地上的萬國。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：以賽亞書62:2應許神的百姓要「得新名的稱呼，是耶和華親口所起的」。安提阿這一刻，門徒頭一次被稱為「基督徒」，正是這應許沿途的一個腳印：一群跨越猶太人、希臘人界線的信徒，第一次因著與基督的關係，而得著一個新的、共同的名字，不再單單是「拿撒勒教派」或猶太教的一個分支。這條線往前可以追溯到創世記12:3「地上萬族都要因你得福」，中間經過以賽亞49:6「我還要使你作外邦人的光」，往後一路連到啟示錄2:17「賜他一塊白石，石上寫著新名」、啟示錄19:16「在他衣服和大腿上有名寫著說：萬王之王，萬主之主」。從亞伯拉罕蒙召賜福萬邦，到安提阿第一次有人被稱為「基督徒」，直到啟示錄裏羔羊的新婦得著榮耀的新名，都是同一條線：神的百姓因著與基督聯合，得著一個只有祂能起的名字。
+從8:1的逼迫，到13:1-3的差遣，中間相隔的不是一步，而是一連串小小的、幾乎沒有留下名字的順服——四散的無名門徒、居比路和古利奈的無名信徒、巴拿巴一次不張揚的探訪。神使用的，往往不是一次戲劇性的轉折，而是一連串平凡人不肯守住界線的小小順服。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -249,7 +235,7 @@ publisher: 三書精讀出版系統
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天很多人的身份，是由演算法、消費紀錄、社群標籤拼湊出來的——「你是哪一種消費者」「你屬於哪個受眾分群」。安提阿的信徒沒有為自己爭取一個好聽的標籤，他們只是活得太像基督，以致城裏的人再也找不到別的詞來形容他們，只能叫他們「基督徒」。今天我們最該問的，不是「我如何為自己打造一個好的個人品牌」，而是「我活出來的樣子，會不會逼著身邊的人，不得不用耶穌的名字來稱呼我」。
+今天很多人的身分，是由演算法、消費紀錄、社群標籤拼湊出來的——「你是哪一種消費者」「你屬於哪個受眾分群」。安提阿的信徒沒有為自己爭取一個好聽的標籤，他們只是活得太像基督，以致城裏的人再也找不到別的詞來形容他們，只能叫他們「基督徒」。今天我們最該問的，不是「我如何為自己打造一個好的個人品牌」，而是「我活出來的樣子，會不會逼著身邊的人，不得不用耶穌的名字來稱呼我」。
 
 ### 今天的祭壇 (Today's Altar)
 
@@ -257,17 +243,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天有沒有一件事，我做得讓人看見的是「我」，而不是基督？
 - **一個行動**：效法巴拿巴，今天主動去鼓勵一位正在服事崗位上孤單的同工。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：「基督徒」不是教會自己封的頭銜，是外人看著這群人活得太像基督，脫口叫出來的稱呼。
-
-**貫通全經**：以賽亞62:2「你必得新名的稱呼，是耶和華親口所起的」——安提阿的門徒頭一次被稱為「基督徒」，正是這應許沿途的一個腳印，直到啟示錄2:17「賜他一塊白石，石上寫著新名」。
-
-**無法迴避的問題**：「如果今天有人只憑你的生活方式，就要為你起一個名字，那會是甚麼名字？」
-
-> 「巴拿巴去找掃羅，不是因為安提阿缺人手，是因為福音的工作，從來不是一個人可以獨自扛起來的。」
+**你看見耶穌了嗎？** 這一章真正做工的，是那位藉聖靈仍在建造教會的復活的主——「主與他們同在」（11:21）。連「基督徒」這個名字，也是祂在人群中留下的印記：一群人活得太像基督，世人就只能用祂的名字來稱呼他們。
 
 ---
 
@@ -275,21 +251,17 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **神已成就的事，我承認了嗎？**：11:18 眾人是先聽見神已做成的事，才「歸榮耀給神」。你生命中有沒有一件神已經動了工、你卻還在爭辯規矩、不肯承認的事？
+1. **神已成就的事，我承認了嗎？**：11:18 眾人是先聽見神已做成的事，才「歸榮耀與神」。你生命中有沒有一件神已經動了工、你卻還在爭辯規矩、不肯承認的事？
 
-2. **你是被患難「分散」出去的那一位嗎？**：11:19 逃難的門徒起初「不向別人講道，只向猶太人講」，直到有人願意突破界線。你身邊有沒有一群「還沒有人願意向他們開口」的人？
+2. **你像巴拿巴嗎？**：11:23-24 巴拿巴「看見神所賜的恩就歡喜」，還主動去找掃羅同工。你看見別人的恩賜、事奉、成長時，是歡喜，還是比較？
 
-3. **你像巴拿巴嗎？**：11:23-24 巴拿巴「看見神所賜的恩就歡喜」，還主動去找掃羅同工。你看見別人的恩賜、事奉、成長時，是歡喜，還是比較？
-
-4. **「基督徒」這名字，你配得起嗎？**：11:26 這名字不是自封的，是別人看出來的。今天若有人要為你起一個名字，會是「基督徒」嗎？
-
-5. **面對將來的難處，你儲備了甚麼？**：11:27-30 亞迦布的預言，引出教會實際的行動——賙濟。你的信仰，落在具體的行動上了嗎？
+3. **面對將來的難處，你儲備了甚麼？**：11:27-30 亞迦布的預言，引出教會實際的行動——賙濟。你的信仰，落在具體的行動上了嗎？
 
 ### 禱告回應
 
-> 主啊，感謝你在我還沒有表態之前，早已在別人生命中動工，也求你賜我像耶路撒冷教會那樣，先安靜下來承認你已成就的事，而不是急於爭辯。
-> 求你賜我像巴拿巴一樣的心，看見別人的恩典就歡喜，也甘心尋找同工，不獨自扛起服事。
-> 求你使我今天的言行，讓人一看就想起你的名字——不是要我為自己爭取一個名號，而是讓我活得太像你，以致別人找不到別的詞來形容我。
+> 主啊，感謝你在我還沒有表態之前，早已在別人生命中動工，也求你賜我像耶路撒冷教會那樣，先安靜下來承認你已成就的事，而不是急於爭辯。 \
+> 求你賜我像巴拿巴一樣的心，看見別人的恩典就歡喜，也甘心尋找同工，不獨自扛起服事。 \
+> 求你使我今天的言行，讓人一看就想起你的名字——不是要我為自己爭取一個名號，而是讓我活得太像你，以致別人找不到別的詞來形容我。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

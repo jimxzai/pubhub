@@ -10,7 +10,7 @@ publisher: 三書精讀出版系統
 
 馬可福音 13:1-37
 
-**經文核對**：[ai-eden.com/bible/mark/13](https://www.ai-eden.com/bible/mark/13?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/mark/13](https://www.ai-eden.com/bible/mark/13?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
@@ -18,24 +18,24 @@ publisher: 三書精讀出版系統
 > **僕人座標**：受苦的僕人也是再來的主——人子要「有大能力、大榮耀，駕雲降臨」（13:26，引但7:13）；而「那日子，那時辰……子也不知道」（13:32），是馬可寫僕人之卑微的極致。末了，僕人的身分反轉過來交給讀者：家主遠行，「把權柄交給僕人，分派各人當作的工，又吩咐看門的儆醒」（13:34）——如今輪到僕人們看家等候。 \
 > （全書骨幹見卷首《「立刻」與十字架——全書的骨幹》）
 
-門徒讚嘆聖殿宏偉的殿宇，耶穌卻宣告：「將來在這裡沒有一塊石頭留在石頭上，不被拆毀了。」這句話開啟了馬可福音中最長的一段連續教導——橄欖山末世講論。耶穌在此描繪假基督的迷惑、戰爭與地震的動盪、門徒將面臨的逼迫，直到「那行毀壞可憎的」站在不當站的地方、直到人子有大能力、大榮耀，駕雲降臨。然而，這整段令人敬畏的預言，最終收束在一個簡單卻反覆的呼召：「你們要謹慎，儆醒祈禱……要儆醒！」僕人基督沒有把末後的知識當作滿足好奇心的資訊，而是當作激勵門徒儆醒等候的呼召——連子自己也不知道那日子、那時辰，惟有父知道。
+門徒抬頭讚嘆殿宇的石頭，耶穌說：沒有一塊會留下。這句話開啟了馬可福音最長的一段連續教導——假基督、戰爭、地震、逼迫、「行毀壞可憎的」、人子駕雲降臨。門徒問的是「甚麼時候」；耶穌答完一切預兆，卻把整段講論收在一個反覆的命令上：「要儆醒！」連子自己也不知道那日子、那時辰——末後的知識，在祂口中不是滿足好奇的資訊，是叫僕人守住崗位的呼召。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Lo! He Comes with Clouds Descending**
+> **Lo! He Comes with Clouds Descending** \
 > *Charles Wesley, 1758*
 >
-> Lo! He comes with clouds descending,
-> once for favored sinners slain;
-> thousand thousand saints attending,
-> swell the triumph of His train.
-> Alleluia! Alleluia!
+> Lo! He comes with clouds descending, \
+> once for favored sinners slain; \
+> thousand thousand saints attending, \
+> swell the triumph of His train. \
+> Alleluia! Alleluia! \
 > Christ the Lord returns to reign.
 >
-> 看哪，祂駕雲降臨，曾一次為蒙恩的罪人捨命；
-> 千萬聖徒隨行，成就祂得勝的隊伍。
+> 看哪，祂駕雲降臨，曾一次為蒙恩的罪人捨命； \
+> 千萬聖徒隨行，成就祂得勝的隊伍。 \
 > 哈利路亞！哈利路亞！基督我主再來作王。
 
 ---
@@ -46,15 +46,15 @@ publisher: 三書精讀出版系統
 
 **預言聖殿被毀**
 
-> ^1^耶穌從殿裡出來的時候，有一個門徒對他說：「夫子，請看，這是何等的石頭！何等的殿宇！」^2^耶穌對他說：\jesus{「你看見這大殿宇麼？將來在這裡沒有一塊石頭留在石頭上，不被拆毀了。」}^3^耶穌在橄欖山上對聖殿而坐，彼得、雅各、約翰，和安得烈暗暗的問他說：^4^「請告訴我們，甚麼時候有這些事呢？這一切事將成的時候有甚麼豫兆呢？」
+> ^1^耶穌從殿裏出來的時候，有一個門徒對他說：「夫子，請看，這是何等的石頭！何等的殿宇！」^2^耶穌對他說：\jesus{「你看見這大殿宇麼？將來在這裏沒有一塊石頭留在石頭上，不被拆毀了。」}^3^耶穌在橄欖山上對聖殿而坐，彼得、雅各、約翰，和安得烈暗暗的問他說：^4^「請告訴我們，甚麼時候有這些事呢？這一切事將成的時候有甚麼豫兆呢？」
 
 **災難的起頭**
 
-> ^5^耶穌說：\jesus{「你們要謹慎，免得有人迷惑你們。^6^將來有好些人冒我的名來，說：『我是基督』，並且要迷惑許多人。^7^你們聽見打仗和打仗的風聲，不要驚慌。這些事是必須有的，只是末期還沒有到。^8^民要攻打民，國要攻打國；多處必有地震、饑荒。這都是災難（災難：原文是生產之難）的起頭。^9^但你們要謹慎；因為人要把你們交給公會，並且你們在會堂裡要受鞭打，又為我的緣故站在諸侯與君王面前，對他們作見證。^10^然而，福音必須先傳給萬民。^11^人把你們拉去交官的時候，不要預先思慮說甚麼；到那時候，賜給你們甚麼話，你們就說甚麼；因為說話的不是你們，乃是聖靈。^12^弟兄要把弟兄，父親要把兒子，送到死地；兒女要起來與父母為敵，害死他們；^13^並且你們要為我的名被眾人恨惡。惟有忍耐到底的，必然得救。」}
+> ^5^耶穌說：\jesus{「你們要謹慎，免得有人迷惑你們。^6^將來有好些人冒我的名來，說：『我是基督』，並且要迷惑許多人。^7^你們聽見打仗和打仗的風聲，不要驚慌。這些事是必須有的，只是末期還沒有到。^8^民要攻打民，國要攻打國；多處必有地震、饑荒。這都是災難（災難：原文是生產之難）的起頭。^9^但你們要謹慎；因為人要把你們交給公會，並且你們在會堂裏要受鞭打，又為我的緣故站在諸侯與君王面前，對他們作見證。^10^然而，福音必須先傳給萬民。^11^人把你們拉去交官的時候，不要預先思慮說甚麼；到那時候，賜給你們甚麼話，你們就說甚麼；因為說話的不是你們，乃是聖靈。^12^弟兄要把弟兄，父親要把兒子，送到死地；兒女要起來與父母為敵，害死他們；^13^並且你們要為我的名被眾人恨惡。惟有忍耐到底的，必然得救。」}
 
 **大災難：行毀壞可憎的**
 
-> \jesus{^14^「你們看見那行毀壞可憎的，站在不當站的地方（讀這經的人須要會意）。那時，在猶太的，應當逃到山上；^15^在房上的，不要下來，也不要進去拿家裡的東西；^16^在田裡的，也不要回去取衣裳。^17^當那些日子，懷孕的和奶孩子的有禍了！^18^你們應當祈求，叫這些事不在冬天臨到。^19^因為在那些日子必有災難，自從神創造萬物直到如今，並沒有這樣的災難，後來也必沒有。^20^若不是主減少那日子，凡有血氣的，總沒有一個得救的；只是為主的選民，他將那日子減少了。^21^那時若有人對你們說：『看哪，基督在這裡』，或說：『基督在那裡』，你們不要信！^22^因為假基督、假先知將要起來，顯神蹟奇事，倘若能行，就把選民迷惑了。^23^你們要謹慎。看哪，凡事我都預先告訴你們了。」}
+> \jesus{^14^「你們看見那行毀壞可憎的，站在不當站的地方（讀這經的人須要會意）。那時，在猶太的，應當逃到山上；^15^在房上的，不要下來，也不要進去拿家裏的東西；^16^在田裏的，也不要回去取衣裳。^17^當那些日子，懷孕的和奶孩子的有禍了！^18^你們應當祈求，叫這些事不在冬天臨到。^19^因為在那些日子必有災難，自從神創造萬物直到如今，並沒有這樣的災難，後來也必沒有。^20^若不是主減少那日子，凡有血氣的，總沒有一個得救的；只是為主的選民，他將那日子減少了。^21^那時若有人對你們說：『看哪，基督在這裏』，或說：『基督在那裏』，你們不要信！^22^因為假基督、假先知將要起來，顯神蹟奇事，倘若能行，就把選民迷惑了。^23^你們要謹慎。看哪，凡事我都預先告訴你們了。」}
 
 **人子駕雲降臨**
 
@@ -64,17 +64,17 @@ publisher: 三書精讀出版系統
 
 > \jesus{^28^「你們可以從無花果樹學個比方：當樹枝發嫩長葉的時候，你們就知道夏天近了。^29^這樣，你們幾時看見這些事成就，也該知道人子（人子：或作神的國）近了，正在門口了。^30^我實在告訴你們，這世代還沒有過去，這些事都要成就。^31^天地要廢去，我的話卻不能廢去。^32^但那日子，那時辰，沒有人知道，連天上的使者也不知道，子也不知道，惟有父知道。^33^\textbf{你們要謹慎，儆醒祈禱，因為你們不曉得那日期幾時來到。}^34^這事正如一個人離開本家，寄居外邦，把權柄交給僕人，分派各人當作的工，又吩咐看門的儆醒。^35^所以，你們要儆醒；因為你們不知道家主甚麼時候來，或晚上，或半夜，或雞叫，或早晨；^36^恐怕他忽然來到，看見你們睡著了。^37^\textbf{我對你們所說的話，也是對眾人說：要儆醒！}」}
 
-### English — ESV
+### English — NASB
 
-> ^1^And as he came out of the temple, one of his disciples said to him, "Look, Teacher, what wonderful stones and what wonderful buildings!" ^2^And Jesus said to him, \jesus{"Do you see these great buildings? There will not be left here one stone upon another that will not be thrown down."} ^3^And as he sat on the Mount of Olives opposite the temple, Peter and James and John and Andrew asked him privately, ^4^"Tell us, when will these things be, and what will be the sign when all these things are about to be accomplished?"
+> ^1^As He was going out of the temple, one of His disciples said to Him, “Teacher, behold what wonderful stones and what wonderful buildings!” ^2^And Jesus said to him, \jesus{“Do you see these great buildings? Not one stone will be left upon another which will not be torn down.”} ^3^As He was sitting on the Mount of Olives opposite the temple, Peter and James and John and Andrew were questioning Him privately, ^4^“Tell us, when will these things be, and what will be the sign when all these things are going to be fulfilled?”
 
-> ^5^And Jesus began to say to them, \jesus{"See that no one leads you astray. ^6^Many will come in my name, saying, 'I am he!' and they will lead many astray. ^7^And when you hear of wars and rumors of wars, do not be alarmed. This must take place, but the end is not yet. ^8^For nation will rise against nation, and kingdom against kingdom. There will be earthquakes in various places; there will be famines. These are but the beginning of the birth pains. ^9^But be on your guard. For they will deliver you over to councils, and you will be beaten in synagogues, and you will stand before governors and kings for my sake, to bear witness before them. ^10^And the gospel must first be proclaimed to all nations. ^11^And when they bring you to trial and deliver you over, do not be anxious beforehand what you are to say, but say whatever is given you in that hour, for it is not you who speak, but the Holy Spirit. ^12^And brother will deliver brother over to death, and the father his child, and children will rise against parents and have them put to death. ^13^And you will be hated by all for my name's sake. But the one who endures to the end will be saved.}
+> ^5^And Jesus began to say to them, \jesus{“See to it that no one misleads you.} ^6^\jesus{“Many will come in My name, saying, ‘I am He!’ and will mislead many.} ^7^\jesus{“When you hear of wars and rumors of wars, do not be frightened; those things must take place; but that is not yet the end.} ^8^\jesus{“For nation will rise up against nation, and kingdom against kingdom; there will be earthquakes in various places; there will also be famines. These things are merely the beginning of birth pangs.} ^9^\jesus{“But be on your guard; for they will deliver you to the courts, and you will be flogged in the synagogues, and you will stand before governors and kings for My sake, as a testimony to them.} ^10^\jesus{“The gospel must first be preached to all the nations.} ^11^\jesus{“When they arrest you and hand you over, do not worry beforehand about what you are to say, but say whatever is given you in that hour; for it is not you who speak, but it is the Holy Spirit.} ^12^\jesus{“Brother will betray brother to death, and a father his child; and children will rise up against parents and have them put to death.} ^13^\jesus{“You will be hated by all because of My name, but the one who endures to the end, he will be saved.}
 
-> \jesus{^14^But when you see the abomination of desolation standing where he ought not to be (let the reader understand), then let those who are in Judea flee to the mountains. ^15^Let the one who is on the housetop not go down, nor enter his house, to take anything out, ^16^and let the one who is in the field not turn back to take his cloak. ^17^And alas for women who are pregnant and for those who are nursing infants in those days! ^18^Pray that it may not happen in winter. ^19^For in those days there will be such tribulation as has not been from the beginning of the creation that God created until now, and never will be. ^20^And if the Lord had not cut short the days, no human being would be saved. But for the sake of the elect, whom he chose, he shortened the days. ^21^And then if anyone says to you, 'Look, here is the Christ!' or 'Look, there he is!' do not believe it. ^22^For false christs and false prophets will arise and perform signs and wonders, to lead astray, if possible, the elect. ^23^But be on guard; I have told you all things beforehand.}
+> ^14^\jesus{“But when you see the ABOMINATION OF DESOLATION standing where it should not be (let the reader understand), then those who are in Judea must flee to the mountains.} ^15^\jesus{“The one who is on the housetop must not go down, or go in to get anything out of his house;} ^16^\jesus{and the one who is in the field must not turn back to get his coat.} ^17^\jesus{“But woe to those who are pregnant and to those who are nursing babies in those days!} ^18^\jesus{“But pray that it may not happen in the winter.} ^19^\jesus{“For those days will be a time of tribulation such as has not occurred since the beginning of the creation which God created until now, and never will.} ^20^\jesus{“Unless the Lord had shortened those days, no life would have been saved; but for the sake of the elect, whom He chose, He shortened the days.} ^21^\jesus{“And then if anyone says to you, ‘Behold, here is the Christ’; or, ‘Behold, He is there’; do not believe him;} ^22^\jesus{for false Christs and false prophets will arise, and will show signs and wonders, in order to lead astray, if possible, the elect.} ^23^\jesus{“But take heed; behold, I have told you everything in advance.}
 
-> \jesus{^24^But in those days, after that tribulation, the sun will be darkened, and the moon will not give its light, ^25^and the stars will be falling from heaven, and the powers in the heavens will be shaken. ^26^And then they will see the Son of Man coming in clouds with great power and glory. ^27^And then he will send out the angels and gather his elect from the four winds, from the ends of the earth to the ends of heaven.}
+> ^24^\jesus{“But in those days, after that tribulation, THE SUN WILL BE DARKENED AND THE MOON WILL NOT GIVE ITS LIGHT,} ^25^\jesus{AND THE STARS WILL BE FALLING from heaven, and the powers that are in the heavens will be shaken.} ^26^\jesus{“Then they will see THE SON OF MAN COMING IN CLOUDS with great power and glory.} ^27^\jesus{“And then He will send forth the angels, and will gather together His elect from the four winds, from the farthest end of the earth to the farthest end of heaven.}
 
-> \jesus{^28^From the fig tree learn its lesson: as soon as its branch becomes tender and puts out its leaves, you know that summer is near. ^29^So also, when you see these things taking place, you know that he is near, at the very gates. ^30^Truly, I say to you, this generation will not pass away until all these things take place. ^31^Heaven and earth will pass away, but my words will not pass away. ^32^But concerning that day or that hour, no one knows, not even the angels in heaven, nor the Son, but only the Father. ^33^Be on guard, keep awake. For you do not know when the time will come. ^34^It is like a man going on a journey, when he leaves home and puts his servants in charge, each with his work, and commands the doorkeeper to stay awake. ^35^Therefore stay awake—for you do not know when the master of the house will come, in the evening, or at midnight, or when the rooster crows, or in the morning— ^36^lest he come suddenly and find you asleep. ^37^And what I say to you I say to all: Stay awake."}
+> ^28^\jesus{“Now learn the parable from the fig tree: when its branch has already become tender and puts forth its leaves, you know that summer is near.} ^29^\jesus{“Even so, you too, when you see these things happening, recognize that He is near, right at the door.} ^30^\jesus{“Truly I say to you, this generation will not pass away until all these things take place.} ^31^\jesus{“Heaven and earth will pass away, but My words will not pass away.} ^32^\jesus{“But of that day or hour no one knows, not even the angels in heaven, nor the Son, but the Father alone.} ^33^\jesus{“Take heed, keep on the alert; for you do not know when the appointed time will come.} ^34^\jesus{“It is like a man away on a journey, who upon leaving his house and putting his slaves in charge, assigning to each one his task, also commanded the doorkeeper to stay on the alert.} ^35^\jesus{“Therefore, be on the alert—for you do not know when the master of the house is coming, whether in the evening, at midnight, or when the rooster crows, or in the morning—} ^36^\jesus{in case he should come suddenly and find you asleep.} ^37^\jesus{“What I say to you I say to all, ‘Be on the alert!’”}
 
 ---
 
@@ -82,11 +82,9 @@ publisher: 三書精讀出版系統
 
 ### 歷史背景
 
-門徒所讚嘆的，是希律大帝自主前20年左右開始擴建的第二聖殿——工程浩大，直到主後64年才全部完工（參約2:20「這殿是四十六年才造成的」）。完工僅僅六年之後，耶穌的預言便字字應驗：主後70年，羅馬提多將軍率軍血洗耶路撒冷，希律的聖殿被拆毀到幾乎片瓦不存。
+門徒讚嘆的，是希律大帝自主前20年左右擴建的第二聖殿，直到主後64年才全部完工（參約2:20「這殿是四十六年才造成的」）。完工僅六年，主後70年，羅馬提多將軍血洗耶路撒冷，聖殿被拆到幾乎片瓦不存。
 
-耶穌選在橄欖山上說這番話，位置本身就有分量：這裡正對著聖殿與汲淪谷，是俯瞰整座聖城的制高點，也是先知撒迦利亞預言耶和華末後要親自站立、審判列國之處（亞14:4）。私下發問的四個門徒——彼得、雅各、約翰、安得烈——正是全書最早蒙召的四個人（1:16-20）：跟隨僕人之路走到此處的人，才聽得到這段私下的教導。
-
-「那行毀壞可憎的」（τὸ βδέλυγμα τῆς ἐρημώσεως）直接引自但以理書9:27, 11:31, 12:11，最初指向主前167年安提阿古四世在聖殿設立宙斯祭壇的褻瀆行為；耶穌在此將這預表指向一個未來、更深遠的應驗。
+耶穌選在橄欖山說這番話，位置本身有分量：這裏正對聖殿與汲淪谷，是俯瞰聖城的制高點，也是撒迦利亞預言耶和華末後要站立、審判列國之處（亞14:4）。私下發問的四個人——彼得、雅各、約翰、安得烈——正是全書最早蒙召的四個（1:16-20）。
 
 ### 文學結構：以「謹慎—儆醒」貫穿首尾
 
@@ -103,7 +101,7 @@ publisher: 三書精讀出版系統
 
 ### 雙重視野：近景與遠景
 
-歷代解經家對這段講論的詮釋分為幾派：有人認為整段預言僅指向主後70年聖殿被毀（近期應驗）；有人認為24-27節「人子降臨」超越了主後70年的範圍，指向基督再來的末世終局；也有人主張這段講論具有「雙重應驗」的性質——近期的聖殿被毀，是末後基督再來之更大審判的預表與縮影。本卷採取審慎的雙重視野，不為任何日期化的推算背書：
+歷代解經對這段講論分成幾派：只指主後70年；只指基督再來；或「雙重應驗」——聖殿被毀是末後更大審判的預表與縮影。本卷採取審慎的雙重視野，不為任何日期推算背書：
 
 | | 近景：聖殿被毀（主後70年） | 遠景：人子再來 |
 |-------|----------------------------------------|------------------------|
@@ -112,11 +110,7 @@ publisher: 三書精讀出版系統
 | 豫兆 | 看得見——「你們看見……應當逃到山上」 | 沒有可推算的豫兆——「你們不曉得那日期幾時來到」 |
 | 對門徒的要求 | 會意、逃離、祈求 | 謹慎、儆醒、忠心看守崗位 |
 
-無論對「甚麼時候」持哪種立場，這段教導的實際目的，始終落在「儆醒等候」的呼召上，而非滿足門徒對時間表的好奇心。
-
-### 平行經文與新約迴響
-
-聖殿被毀的預言另見於太24:1-2、路21:5-6；行毀壞可憎的呼應但9:27、11:31、12:11；人子駕雲降臨與但7:13-14、太24:29-31、啟1:7相互印證；無花果樹的比方另見太24:32-35、路21:29-33；「那日子那時辰無人知道」在太24:36、徒1:7、帖前5:1-2也有平行的教導；儆醒等候的呼召則與太24:42-44、路21:34-36、帖前5:6一脈相承。
+無論對「甚麼時候」持哪種立場，這段講論的落點只有一個：儆醒等候。
 
 ---
 
@@ -135,19 +129,19 @@ publisher: 三書精讀出版系統
 
 ### 「這世代還沒有過去」的詮釋張力
 
-30節「這世代還沒有過去，這些事都要成就」是這段講論中最具爭議的一句。屈梭多模將「這世代」理解為「信徒的世代」，即教會將延續存在直到萬事應驗；另一種常見的解釋則認為這句話主要指向聖殿被毀（發生在當時世代之內，主後70年），而24-27節「人子降臨」的完全應驗則留待未來。無論採取哪種立場，32節「但那日子，那時辰，沒有人知道」都清楚劃定了人不可妄自推算末日時間表的界線。
+30節是全段最具爭議的一句。屈梭多模讀「這世代」為「信徒的世代」——教會要存留到萬事應驗；另一種常見解釋認為它主要指當時世代之內的聖殿被毀，而24-27節人子降臨留待未來。無論採哪一種，32節「沒有人知道」都劃定了同一條界線：人不可推算。
 
 ### 四更天：儆醒的比喻與受難的時辰
 
-35節「或晚上，或半夜，或雞叫，或早晨」是羅馬人劃分夜間的四更。值得留意的是，馬可接下來的受難敘事，正好走過這四個時辰：晚上的最後晚餐（14:17）、半夜的客西馬尼（14:32-41）、雞叫時彼得不認主（14:72）、早晨被解去見彼拉多（15:1）。13:36「恐怕他忽然來到，看見你們睡著了」——在客西馬尼園一語成讖：主回到門徒那裡，「見他們睡著了」（14:37），對彼得說的正是同一個動詞：「總要儆醒禱告」（14:38）。
+35節「或晚上，或半夜，或雞叫，或早晨」是羅馬人的四更。馬可接下來的受難敘事，正好走過這四個時辰：晚上的最後晚餐（14:17）、半夜的客西馬尼（14:32-41）、雞叫時彼得不認主（14:72）、早晨被解去見彼拉多（15:1）。13:36「看見你們睡著了」一語成讖——在園子裏，主「見他們睡著了」（14:37）。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 儆醒勝過推算時間表 (Watchfulness over Timetable Speculation)
 
-門徒問的是「甚麼時候」「甚麼豫兆」，耶穌的回答卻把重心整個挪開——祂詳述了諸般預兆，卻明確宣告「連子也不知道」那日子、那時辰。這段講論的目的從來不是要門徒計算末日的確切時刻，而是要他們保持儆醒等候的生活狀態。
+門徒問「甚麼時候」「甚麼豫兆」，耶穌詳述了預兆，卻宣告「連子也不知道」。這段講論從來不是為了讓人算出時刻，是為了讓人儆醒地活。
 
 | 門徒所問（13:4） | 耶穌所答 |
 |---------------------------------------------------|-----------------------------|
@@ -156,19 +150,19 @@ publisher: 三書精讀出版系統
 
 ### 2. 苦難是生產之難 (Suffering as Birth Pains)
 
-戰爭、地震、饑荒被稱為「災難的起頭」——和合本小註提醒：原文是「生產之難」。這幅意象把苦難放進一個有意義的敘事框架裡：這不是混亂無序的災難，而是邁向新創造之前、帶著目的的劇痛。羅馬書8:22正是同一幅圖畫：「一切受造之物一同歎息、勞苦，直到如今」——陣痛的盡頭不是死亡，是誕生。
+戰爭、地震、饑荒是「災難的起頭」——和合本小註：原文是「生產之難」。苦難不是混亂，是新創造誕生前帶著目的的劇痛。羅馬書8:22是同一幅圖畫：「一切受造之物一同歎息、勞苦，直到如今」——陣痛的盡頭不是死亡，是誕生。
 
 ### 3. 逼迫中的聖靈同在 (The Spirit's Presence in Persecution)
 
-門徒將面臨公會、鞭打、家人反目——耶穌應許：「說話的不是你們，乃是聖靈。」這應許不是要門徒免於苦難，而是在苦難中得著聖靈親自的同在與供應。使徒行傳正是這應許的應驗史：彼得「被聖靈充滿」站在公會面前（徒4:8），司提反的口才與智慧眾人「敵擋不住」（徒6:10）。
+公會、鞭打、家人反目——耶穌的應許不是免於苦難，是「說話的不是你們，乃是聖靈」。使徒行傳是這應許的應驗史：彼得「被聖靈充滿」站在公會面前（徒4:8），司提反的智慧眾人「敵擋不住」（徒6:10）。
 
 ### 4. 忍耐到底的必然得救 (Endurance to the End)
 
-「惟有忍耐到底的，必然得救」是這段講論對逼迫中門徒最直接的鼓勵——得救的確據，不在於避開苦難，而在於持守到底的信心。馬可的第一批讀者，正是尼祿逼迫下的羅馬教會：這句話不是抽象的教義，是他們每一天的生死抉擇。
+得救的確據不在避開苦難，在持守到底。馬可的第一批讀者是尼祿逼迫下的羅馬教會：「惟有忍耐到底的，必然得救」對他們不是教義，是每一天的生死抉擇。
 
 ### 5. 駕雲降臨的人子，與不知道日子的子 (The Son Who Comes in Clouds, the Son Who Does Not Know)
 
-本章把基督論最高與最低的兩句話，放在同一段講論裡：
+本章把基督論最高與最低的兩句話，放在同一段講論裏：
 
 | 13:26 | 13:32 |
 |-------------------------------------------|-------------------------------------|
@@ -176,128 +170,178 @@ publisher: 三書精讀出版系統
 | 但以理異象中得權柄、榮耀、國度的那位（但7:13-14） | 取了奴僕形象、自己卑微的那位（腓2:6-8） |
 | 受苦的僕人也是再來的主 | 再來的主此刻仍是順服的僕人 |
 
-這正是馬可全書的邏輯：那位要駕雲降臨、差遣天使招聚選民的人子，甘願在道成肉身的僕人職分裡，連再來的日子也交在父的手中。僕人之卑微的極致，不是馬槽，不是洗腳，而是這一句「子也不知道」——祂連知情權都放下了。
+那位要駕雲降臨、差遣天使招聚選民的人子，在僕人的職分裏，連再來的日子也交在父手中。僕人卑微的極致不是馬槽，不是洗腳，是這一句「子也不知道」——祂連知情權都放下了。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者立場的綜述；帶引號引文均為編者自英文原著的中譯，並標明出處，不應作為原文逐字引用轉引。
+> **體例說明**：本節四家的引文，均已逐條回查原著或講道逐字稿，以「英文原文 + 編者中譯」並列；
+> 中譯為編者所作，若需逐字引用，請以所附英文原文為準。凡查不到原句的，一律不加引號，
+> 改以不帶引號的立場綜述呈現。查證狀態詳見卷末〈附錄：引用出處總表〉。
 
 ### 教父時期
 
 **屈梭多模 (John Chrysostom, c. 349-407)**：
 
-論到假基督與戰爭的預兆（馬太平行經文），屈梭多模引證：「你們要謹慎，不要有人迷惑你們……你們也要聽見打仗和打仗的風聲，總不要驚慌；因為這些事是必須有的，只是末期還沒有到」；他將這些爭戰理解為「三重的」——「來自迷惑者，來自敵人，來自假弟兄」。論到福音傳遍萬民，他引證：「這天國的福音要傳遍天下，對萬民作見證，然後末期才來到」。論到行毀壞可憎的，他指出這些預言主要指向當時世代之內、耶路撒冷即將面臨的毀滅。
-> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 75 (on Matt 24:1-28) and Homily 77 (on Matt 24:32-51), NPNF1-10
+**三面受敵的爭戰**：門徒要面對的不是一條戰線，是三條——屈梭多模數得很清楚（行毀壞可憎的，他指向當時世代之內耶路撒冷的毀滅）。
 
-論到無花果樹的比方與「這世代」，屈梭多模在Homily 77中解釋，「這世代」並非指當時活著的世代，而是「指信徒的世代」——「信徒的世代必要存留，不因前述諸事而被剪除」；論到「那日子、那時辰沒有人知道」，他寫道：「祂沒有說『我不知道』，而是說『你們不知道』」——他將此理解為一種修辭上的節制，而非字面上宣告子真實無知；論到忠心的僕人，他指出神刻意不透露時間，「為要使人常存儆醒警覺之心」。
+> "Seest thou the war to be threefold? from the deceivers, from the enemies, from the false brethren."
+>
+> 你看見這爭戰是三重的嗎？來自迷惑者，來自敵人，來自假弟兄。
+
+**「這世代」指信徒的世代**：耶路撒冷會毀，猶太人多半會亡，但有一個世代不會被剪除。
+
+> "All these things shall surely come to pass, and the generation of the faithful shall remain, cut off by none of the things that have been mentioned."
+>
+> 這一切事都必要成就，而信徒的世代必要存留，不因前述諸事中的任何一樣而被剪除。
+
+**「子也不知道」：封口，不是無知**：屈梭多模把這句讀成主刻意堵住追問的口，並且明說子並非真的不知道。
+
+> "By saying, not the angels, He stopped their mouths, that they should not seek to learn what these angels know not"
+>
+> 祂說「連天使也不知道」，是要堵住他們的口，叫他們不去尋究連天使都不知道的事。
+
+> "neither is the Son ignorant of the day, but is even in full certainty thereof"
+>
+> 子也並非不知道那日子，祂反倒是完全確知的。
+
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 75 (on Matt 24:1-28) and Homily 77 (on Matt 24:32-51), NPNF1-10
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-論到「那日子、那時辰沒有人知道」，加爾文寫道：「基督的用意，是要使信徒的心保持懸念，免得他們憑虛妄的想像，為末後的救贖定下確切的時間」；信徒當「耐心等候他的顯現」，而非妄自推算。論到「子也不知道」一句，加爾文採取與屈梭多模不同的進路：他認為這確實反映基督人性的真實限制——「祂的神性在此並未施展」，這是祂道成肉身、居於中保職分之合宜的表現。兩位解經者一位讀出修辭性的節制，一位讀出僕人職分真實的自限——這組張力值得讀者自行比較兩種進路的依據與意涵。
-> — John Calvin, *Commentary on a Harmony of the Evangelists*
+**懸念，是主刻意留下的**：不知道日子，不是資訊的缺口，是主為信心設計的姿勢。
 
-### 當代釋經
+> "By this sentence, Christ intended to hold the minds of believers in suspense, that they might not, by a false imagination, fix any time for the final redemption."
+>
+> 基督說這句話的用意，是要使信徒的心保持懸念，免得他們憑虛妄的想像，為末後的救贖定下確切的時間。
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+> "while they are uncertain as to the time, they may patiently wait for the revelation of him"
+>
+> 叫他們在時候上雖不確定，卻能耐心等候他的顯現。
 
-論到大災難，麥克阿瑟強調：「自從創造之始，直到如今，未曾有過這樣的災難……以後也必沒有」，他以此反對僅將這段預言理解為主後70年一次性應驗的觀點，主張這指向未來的大災難期；論到行毀壞可憎的，他將其與但以理書的敵基督預言相連。論到「若不是主減少那些日子」，他強調：「若非主親自縮短那些日子，凡有血氣的，沒有一個能得救；只是為著他所揀選的百姓，他將日子縮短了」——這彰顯神在末後歷史進程中的主權掌管。論到儆醒的呼召，他多次強調：「要警醒」；「天地要廢去，我的話卻絕不能廢去」；他將這段教導的實際應用歸結為：「你終有一死，而你不知道甚麼時候——你最好預備好」。
+**論「子也不知道」——他與屈梭多模正面分道**：屈梭多模讀作修辭的封口；加爾文明白反對那種讀法（他點名批評「基督不是不知道，只是不肯講」的解釋），主張這是基督人性裏真實的限制，是中保職分的合宜表現。
+
+> "the Divine nature was in a state of repose, and did not at all exert itself"
+>
+> 祂的神性當時處在靜止之中，完全沒有施展出來。
+
+> "And if Christ, as man, did not know the last day, that does not any more derogate from his Divine nature than to have been mortal."
+>
+> 基督若按其人性不知道末日，這對祂神性的減損，並不比祂曾是必死的更多。
+
+一位讀出修辭的節制，一位讀出僕人真實的自限——這組張力留給讀者自己比較。
+
+> — John Calvin, *Commentary on a Harmony of the Evangelists*（Pringle 英譯，1845-46；可 13:32／太 24:36 段）
+
+### 摩根 (G. Campbell Morgan)
+
+**先謹守自己，再觀看時代**：門徒問的是時代的豫兆，主先答的卻是他們自己的忠誠——末世講論的第一個命令，不是向外觀察，是向內看守。
+
+> "He called His disciples first to take heed as to their loyalty to Himself."
+>
+> 祂首先呼召門徒謹慎的，是他們對祂自己的忠誠。
+
+**風聲不是末期，是產難的起頭**：戰爭與戰爭的風聲，歷世歷代都被讀成末日的倒數；主卻把它們挪出「記號」的位置。
+
+> "when they heard of wars and rumours of wars they were not to be troubled, for wars and rumours of wars were not the sign of the end"
+>
+> 他們聽見打仗和打仗的風聲時，不要驚慌；因為打仗和打仗的風聲，並不是末期的記號。
+
+**一個世代之內，與另一場危機**：摩根把14-23節讀為耶路撒冷淪陷、於一個世代之內的應驗，24節以下則是另一場危機；兩景之間，隔著整片看不見的山谷。
+
+> "He first foretold distinctly all that was fulfilled at the fall of Jerusalem within a generation"
+>
+> 祂首先明確預言的，是在一個世代之內、於耶路撒冷淪陷之時全然應驗的那一切。
+
+> "things seem to be near together which are really as far apart as the first advent and the second"
+>
+> 有些事看起來緊挨在一起，實際上卻相隔得像第一次降臨與第二次降臨那樣遠。
+
+**收束在一個命令**：全章的「謹慎」與「儆醒」，末了在37節擴及每一個讀的人——末世論的正確讀法不是一張圖表，是一種站姿。
+
+> "in one arresting and ringing word of command, the Son of man summarized the duty of His followers"
+>
+> 人子用一個攫住人心、鏗然作響的命令，總結了跟從祂之人的本分。
+
+> — G. Campbell Morgan, *The Gospel According to Mark*（1927），可 13 章講章（"Watch." Mark 13:37）
+
+### 麥克阿瑟 (John MacArthur)
+
+**未來的大災難，不是主後70年**：麥克阿瑟在此明確與過去論（Preterism）分道，說得毫不含糊。
+
+> "Please, dear friend - this is not a description of the destruction of Jerusalem in 70 A.D., as the Preterists say"
+>
+> 親愛的朋友，請聽清楚——這並不是在描寫主後七十年耶路撒冷的毀滅，不是過去論者所說的那樣。
+
+**神的主權縮短了日子**：他逐節講解13:20——若非主減少那日子，沒有一個人能得救；日子被縮短，是為著選民的緣故。（此處為經文本身的宣告，非講者自述之語，故不加引號。）
+
+**落到聽眾身上，只有一句**：
+
+> "You're going to die, and you don't know when, and you better be ready"
+>
+> 你終有一死，而你不知道是甚麼時候——你最好預備好。
+
 > — John MacArthur, *The Future Tribulation* (41-67), *The Final Generation, Part 2* (41-70), gty.org
 
-麥克阿瑟持未來大災難期的立場，摩根則側重一個世代之內的近期應驗（見下「摩根深讀」）——本卷保留兩種立場的原貌，並持守審慎的雙重視野：近景與遠景都真實，而兩者共同的落點，是32節劃定的界線與37節的命令。
+麥克阿瑟持未來大災難期的立場，摩根側重一個世代之內的近期應驗（見上「摩根」）。本卷保留兩種立場的原貌：近景與遠景都真實，共同的落點是32節的界線與37節的命令。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 90:1-4, 12 — 神人摩西的祈禱
 
-> ^1^主啊，你世世代代作我們的居所。
-> ^2^諸山未曾生出，地與世界你未曾造成，**從亙古到永遠，你是神。**
-> ^3^你使人歸於塵土，說：你們世人要歸回。
+> ^1^主啊，你世世代代作我們的居所。 \
+> ^2^諸山未曾生出，地與世界你未曾造成，**從亙古到永遠，你是神。** \
+> ^3^你使人歸於塵土，說：你們世人要歸回。 \
 > ^4^**在你看來，千年如已過的昨日，又如夜間的一更。**
 >
 > ^12^**求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。**
 
-橄欖山上，耶穌說「天地要廢去」；詩篇90篇裡，摩西早已看見：諸山與世界都有起頭，惟有神從亙古到永遠。「千年如已過的昨日，又如夜間的一更」——彼得後書3:8正是引這一節，回答那些譏誚「主要降臨的應許在哪裡」的人：主沒有耽延，乃是寬容（彼後3:9）。而「夜間的一更」這個比喻，恰與13:35的四更天遙遙相對：在神眼中千年不過一更，人便不可能推算祂的時辰；人所能求的，只有摩西求的那一件——數算自己的日子，得著智慧的心。儆醒，正是從知道日子有限開始的。
-
----
-
-## 聖詩默想 (Hymn Meditation)
+「千年如已過的昨日，又如夜間的一更」——彼得後書3:8引這一節回答譏誚「主要降臨的應許在哪裏」的人（彼後3:9），而「夜間的一更」正與13:35的四更天遙遙相對：在神眼中千年不過一更，人便推算不了祂的時辰。人所能求的只有摩西那一件——數算自己的日子；儆醒，正是從知道日子有限開始的。
 
 ### My Hope Is Built on Nothing Less
 
-> My hope is built on nothing less
-> Than Jesus' blood and righteousness;
-> I dare not trust the sweetest frame,
-> But wholly lean on Jesus' name.
-> **On Christ, the solid Rock, I stand;**
+> My hope is built on nothing less \
+> Than Jesus' blood and righteousness; \
+> I dare not trust the sweetest frame, \
+> But wholly lean on Jesus' name. \
+> **On Christ, the solid Rock, I stand;** \
 > **All other ground is sinking sand.**
 >
 > — Edward Mote, c. 1834
 >
-> 我的盼望別無根基，惟靠耶穌寶血公義；
-> 最美境遇不敢自恃，只要全靠耶穌聖名。
+> 我的盼望別無根基，惟靠耶穌寶血公義； \
+> 最美境遇不敢自恃，只要全靠耶穌聖名。 \
 > 立在基督堅固磐石，其餘根基盡是沙土。
 
-門徒讚嘆的殿宇，四十年後片瓦無存；「天地要廢去，我的話卻不能廢去」（13:31）。這首詩把同一個對比唱了出來：一切看得見的宏偉——石頭、殿宇、境遇——都是會下沉的沙土；儆醒等候的人，站的必須是那塊不廢去的磐石。
+門徒讚嘆的殿宇，四十年後片瓦無存；「天地要廢去，我的話卻不能廢去」（13:31）。石頭、殿宇、境遇，都是會下沉的沙土；儆醒等候的人，站的必須是那塊不廢去的磐石。
+
+Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看哪，他駕雲降臨！眾目要看見他」唱成了教會等候的盼望——歷代聖徒在動盪的世代裏唱它，不是因為算出了日期，而是因為認得那位要來的主：祂是「曾一次為蒙恩的罪人捨命」的那一位。受苦的僕人也是再來的王——這正是馬可福音第十三章的座標。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
-
-**先謹守自己，再觀看時代**：門徒問的是時代的豫兆，摩根指出耶穌的第一句話卻是「呼召他們謹守對自己的忠誠」——「你們要謹慎，免得有人迷惑你們」。**末世講論的第一個命令，不是向外觀察，而是向內看守**；一個先被迷惑的守望者，看甚麼豫兆都是枉然。
-
-**風聲不是末期，是產難的起頭**：摩根強調，戰爭的風聲並非末日的記號，而是「產難的起頭」。**驚慌是誤讀了歷史的人才有的反應**——知道劇痛通往誕生的人，可以在動盪裡不驚慌。
-
-**逼迫中站立的祕訣**：論到門徒將面臨的公會與鞭打，摩根指出他們能夠持守，是「因著聖靈與他們同在的緣故」。**見證的能力從來不是門徒預備出來的，是那時候賜下來的**——「賜給你們甚麼話，你們就說甚麼」。
-
-**一個世代之內，與另一場危機**：論到行毀壞可憎的，摩根將其理解為「在耶路撒冷淪陷之時，於一個世代之內」得著應驗；而論到24節以下，他指出這是「耶路撒冷淪陷之後的另一場危機——祂親自、確實、以審判者身分再來的危機」。**摩根把近景與遠景分開，卻不讓任何一景吞掉另一景**：聖殿被毀是已應驗的歷史，人子再來是未應驗的確據。
-
-**收束在一個命令**：摩根總結，全章反覆的「謹慎」與「儆醒」，最終在37節擴及所有讀者——這話不單對橄欖山上的四個門徒說，也是對眾人說的。**末世論的正確讀法，不是產生一張圖表，而是產生一種站姿**：守著崗位，等家主回來。
-
-> 出處：G. Campbell Morgan, *The Gospel According to Mark*（本章相關講章）
-
-### 老弟兄查經法 (Reading with the Method)
-
-**精義句**：13:37「我對你們所說的話，也是對眾人說：要儆醒！」——這是整段末世講論的收束句與總綱。你若把這句話放在整段講論最前面重讀一次，會發現每一個預兆、每一個警告，都是在為這一句話作鋪墊。
+**精義一句話**：耶穌詳述了末後的預兆，卻把一切收束成一個字——「儆醒」；認識末世的知識，若不能帶來儆醒等候的生活，就仍然錯過了這段講論的目的。
 
 **老弟兄這樣帶你讀**：
 
-- 「先把這章一口氣讀完，不要停。」讀完再回頭數一數：「謹慎」「儆醒」出現了幾次？（5、9、23、33、35、37節）門徒問的是「甚麼時候」「甚麼豫兆」，耶穌給的卻是一疊命令——**祂把「甚麼時候」的問題，換成了「你們要怎樣活」的問題**。
-- **13:32「子也不知道」**——對照使徒行傳1:7：復活的主升天之前，門徒又問了一次同樣的問題，主的回答仍是「父憑著自己的權柄所定的時候、日期，不是你們可以知道的」。子在地上不推算，門徒也不可推算——今天各種「預測末日」的聲音再起時，你手上就有這兩節經文。
-- **13:34「分派各人當作的工」**——看門的儆醒，不是無所事事地望天，是守著崗位地等。先問自己：主分派給我「當作的工」是甚麼？再問：那件工，我今天在作嗎？
-- **四更天的伏筆**——「或晚上，或半夜，或雞叫，或早晨」：馬可接下來的受難敘事正好走過這四個時辰（14:17晚上；14:37半夜「見他們睡著了」；14:72雞叫；15:1早晨）。主前一晚在客西馬尼對彼得說的，正是本章同一個字：「總要儆醒禱告」（14:38）。**講論裡的比喻，一夜之間成了門徒的考卷——他們睡著了。**
+- 「先把這章一口氣讀完，不要停。」讀完再回頭數：「謹慎」「儆醒」出現了幾次？（5、9、23、33、35、37節）門徒問「甚麼時候」，耶穌給的是一疊命令——**祂把「甚麼時候」的問題，換成了「你們要怎樣活」的問題**。
+- **13:32「子也不知道」**——對照使徒行傳1:7：升天之前門徒又問了一次，主的回答仍是「不是你們可以知道的」。子在地上不推算，門徒也不可推算——「預測末日」的聲音再起時，你手上有這兩節經文。
+- **13:34「分派各人當作的工」**——看門的儆醒，不是望天，是守著崗位地等。主分派給我的工是甚麼？那件工，我今天在作嗎？老弟兄常說：「我們照著神的意思去做，神就負責；照著我的意思去做，我要負責。」
+- **四更天的伏筆**——主前一晚在客西馬尼對彼得說的，正是本章同一個字：「總要儆醒禱告」（14:38）。**講論裏的比喻，一夜之間成了門徒的考卷——他們睡著了。**
 
-**連結**：本章與第四章的「聽」、第九章的「聽他」是同一條線——僕人之書對讀者的要求，從頭到尾是同一種姿勢：豎起耳朵，睜著眼睛，束上腰。而13:34把全書的「僕人」身分反轉過來交給讀者：全書寫的是僕人基督；到了末了，家主遠行，僕人是你。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-| 主題 | 詩篇／聖詩 | 經文連結 |
-|------------------|---------------------------------|------------------------------|
-| 數算日子 | 詩篇 90 | 「求你指教我們怎樣數算自己的日子」——儆醒始於知道日子有限 |
-| 患難中的倚靠 | 詩篇 46 | 地雖改變、山雖搖動也不害怕——呼應13:24-25天勢震動時的不驚慌 |
-| 駕雲降臨 | *Lo! He Comes with Clouds Descending* | 「人子有大能力、大榮耀，駕雲降臨」（13:26） |
-| 磐石與沙土 | *My Hope Is Built on Nothing Less* | 「天地要廢去，我的話卻不能廢去」（13:31） |
-
-Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看哪，他駕雲降臨！眾目要看見他」唱成了教會等候的盼望——歷代聖徒在動盪的世代裡唱它，不是因為算出了日期，而是因為認得那位要來的主：祂是「曾一次為蒙恩的罪人捨命」的那一位。受苦的僕人也是再來的王——這正是馬可福音第十三章的座標。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**連結**：第四章的「聽」、第九章的「聽他」、本章的「儆醒」是同一條線——僕人之書對讀者的要求，從頭到尾是同一種姿勢：豎起耳朵，睜著眼睛，束上腰。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-**人子的線**：但以理夜間的異象裡，「有一位像人子的，駕著天雲而來……得了權柄、榮耀、國度」（但7:13-14）；橄欖山上，耶穌宣告那位人子就是自己（可13:26）；受審之夜，祂在大祭司面前親口再引一次：「你們必看見人子坐在那權能者的右邊，駕著天上的雲降臨」（可14:62）——這句話直接定了祂的死罪。線的終點在啟示錄1:7：「看哪，他駕雲降臨！眾目要看見他。」被定罪的那句話，成了教會盼望的第一句話。
+**人子的線**：但以理夜間的異象裏，「有一位像人子的，駕著天雲而來……得了權柄、榮耀、國度」（但7:13-14）；橄欖山上，耶穌宣告那位人子就是自己（可13:26）；受審之夜，祂在大祭司面前親口再引一次：「你們必看見人子坐在那權能者的右邊，駕著天上的雲降臨」（可14:62）——這句話直接定了祂的死罪。線的終點在啟示錄1:7：「看哪，他駕雲降臨！眾目要看見他。」被定罪的那句話，成了教會盼望的第一句話。
 
-**行毀壞可憎的線**：但以理在被擄之地預言聖所將被褻瀆（但9:27、11:31、12:11）；主前167年安提阿古四世在聖殿設立異教祭壇，是第一重應驗的影兒；耶穌把這預表指向前方（可13:14）；保羅再往前指：那大罪人「坐在神的殿裡，自稱是神」（帖後2:3-4）。從被擄之地到橄欖山到教會書信，神一直在預先告訴祂的百姓——「凡事我都預先告訴你們了」（13:23）。
+**行毀壞可憎的線**：但以理在被擄之地預言聖所將被褻瀆（但9:27、11:31、12:11）；主前167年安提阿古四世在聖殿設立異教祭壇，是第一重應驗的影兒；耶穌把這預表指向前方（可13:14）；保羅再往前指：那大罪人「坐在神的殿裏，自稱是神」（帖後2:3-4）。從被擄之地到橄欖山到教會書信，神一直在預先告訴祂的百姓——「凡事我都預先告訴你們了」（13:23）。
 
 **儆醒的線**：摩西求「指教我們怎樣數算自己的日子」（詩90:12）；耶穌吩咐看門的儆醒（可13:33-37）；保羅接下去：「主的日子來到，好像夜間的賊一樣……所以我們不要睡覺，像別人一樣，總要儆醒謹守」（帖前5:2, 6）；啟示錄收尾：「看哪，我來像賊一樣。那儆醒、看守衣服……的有福了！」（啟16:15）從曠野的祈禱到寶座前的宣告，神的百姓始終是同一種人：儆醒等候的僕人。
 
@@ -312,7 +356,7 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 
 ### 活在今天 · AI時代 (Living It Today)
 
-這是一個沉迷於「預測」的時代——演算法預測你的喜好，模型預測市場的走向，人也熱衷於預測末日的時間表。耶穌卻說：「連子也不知道。」祂要的不是你算得準，是你儆醒地活。可以想一想：你今天花在「預測未來」上的心力，和花在「忠心做好眼前當作的工」上的心力，哪一個更多？預測是把握不了的明天，崗位是交在你手上的今天。
+這是一個沉迷於「預測」的時代——演算法預測你的喜好，模型預測市場，人也熱衷預測末日的時間表。耶穌卻說：「連子也不知道。」祂要的不是你算得準，是你儆醒地活。預測是把握不了的明天，崗位是交在你手上的今天。
 
 ### 今天的祭壇 (Today's Altar)
 
@@ -320,17 +364,7 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 - **晚上**：省察——今天我活得像知道主隨時會回來，還是像祂永遠不會回來？
 - **一個行動**：今天完成一件被交託卻一直拖延的責任，作為儆醒等候的具體操練。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：耶穌詳述了末後的預兆，卻把一切收束成一個字——「儆醒」；認識末世的知識，若不能帶來儆醒等候的生活，就仍然錯過了這段講論的目的。
-
-**貫通全經**：從「行毀壞可憎的」（但9:27）到「駕著天雲而來」的人子（但7:13-14），審判與掌權是同一位先知筆下的兩幅圖畫；而全書的「僕人」身分在13:34反轉過來——僕人基督走向十字架，把看家的崗位交給了祂的僕人們。
-
-**無法迴避的問題**：透過這一章，你看見耶穌是誰——是一位可供推算的末日資訊來源，還是那位連日子都交給父、卻應許必要駕雲降臨的主？如果祂今晚回來，祂看見你正在做甚麼？
-
-> 「我們照著神的意思去做，神就負責；照著我的意思去做，我要負責。」
+**你看見耶穌了嗎**：13:34把全書的「僕人」身分反轉過來交給讀者——家主遠行，僕人是你。透過這一章，你看見的，不是可供推算的末日資訊來源，而是那位連日子都交給父、卻應許必要駕雲降臨的主。
 
 ---
 
@@ -338,24 +372,20 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 
 ### 默想問題
 
-1. **儆醒而非推算**：面對各種對末日時間表的臆測，你如何持守「那日子，那時辰，沒有人知道」的教導，同時活出真正儆醒的生命？
+1. **儆醒而非推算**：面對各種末日時間表的臆測，「沒有人知道」這句話怎樣同時保守你不驚慌、也不鬆懈？
 
-2. **陣痛中的盼望**：耶穌把戰爭、地震、饑荒稱為「生產之難的起頭」——你如何在自己經歷的苦難中，看見這是邁向新創造之前、帶著意義的過程？
+2. **陣痛中的盼望**：「生產之難的起頭」——你正在經歷的苦難裏，哪一處可以被看作誕生前的陣痛？
 
-3. **聖靈的同在**：「說話的不是你們，乃是聖靈」——你今天面對困難的處境時，是否真實倚靠聖靈的同在與帶領？
+3. **忍耐到底**：「惟有忍耐到底的，必然得救」——這句話對你此刻的信仰艱難，是壓力，還是安慰？
 
-4. **忍耐到底**：「惟有忍耐到底的，必然得救」——這句話對你此刻正在經歷的信仰艱難，提供了甚麼樣的激勵？
-
-5. **話語的可靠**：聖殿被毀的預言在主後70年字字應驗——「天地要廢去，我的話卻不能廢去」。這對你信靠聖經每一句應許，有甚麼幫助？
-
-6. **忠心的崗位**：家主授權給僕人，分派各人當作的工——你今天被交託的職分，是否活在「隨時預備好」的忠心裡？如果主今天回來，祂看見你正在做甚麼？
+4. **話語的可靠**：聖殿被毀的預言在主後70年字字應驗。「我的話卻不能廢去」——這對你信靠聖經其他的應許，有甚麼幫助？
 
 ### 禱告回應
 
-> 主啊，感謝你預先告訴我們末後的事，不是要使我們憂慮恐懼，而是要使我們儆醒預備。
-> 求你賜我聖靈的同在，使我在任何逼迫與艱難中，都能倚靠你賜下的話語與力量。
-> 求你使我不隨意推算末日的時間表，而是像摩西所求的，數算自己的日子，得著智慧的心。
-> 求你使我忠心地作你所分派的工，守住看門的崗位，直到你有大能力、大榮耀，駕雲降臨。
+> 主啊，你預先告訴我們末後的事，不是要我們懼怕，是要我們儆醒。
+> 在逼迫與艱難中，求你賜下聖靈，叫我倚靠你賜的話。
+> 叫我不推算末日，只像摩西所求的，數算自己的日子，得著智慧的心。
+> 叫我守住你分派的工，直到你駕雲降臨。
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

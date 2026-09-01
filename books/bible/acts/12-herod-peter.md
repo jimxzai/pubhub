@@ -24,17 +24,17 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Sweet Hour of Prayer**
+> **Sweet Hour of Prayer** \
 > *William Walford, 1845*
 >
-> Sweet hour of prayer, sweet hour of prayer,
-> That calls me from a world of care,
-> And bids me at my Father's throne
+> Sweet hour of prayer, sweet hour of prayer, \
+> That calls me from a world of care, \
+> And bids me at my Father's throne \
 > Make all my wants and wishes known.
 >
-> 禱告蒙恩的良辰，
-> 呼召我離開世務紛紜；
-> 帶我來到天父座前，
+> 禱告蒙恩的良辰， \
+> 呼召我離開世務紛紜； \
+> 帶我來到天父座前， \
 > 傾心吐意，無所不陳。
 >
 > （中文為意譯，非官方譯本）
@@ -49,27 +49,27 @@ publisher: 三書精讀出版系統
 
 > ^5^於是彼得被囚在監裏，教會卻為他切切地禱告神。
 
-> ^6^希律將要提他出來的前一夜，彼得被兩條鐵鏈鎖著，睡在兩個兵丁當中，看守的人也在門外看守。^7^忽然，有主的一個使者站在旁邊，屋裏有光照耀。天使拍彼得的肋旁，拍醒了他，說：「快快起來！」那鐵鏈就從他手上脫落下來。^8^天使對他說：「束上帶子，穿上鞋！」他就那樣做。天使又說：「披上外衣，跟著我來！」^9^彼得就出來跟著他，不知道天使所做是真的，只當見了異象。^10^過了第一層、第二層監牢，就來到臨街的鐵門，那門自己開了。他們出來，走過一條街，天使便離開他去了。
+> ^6^希律將要提他出來的前一夜，彼得被兩條鐵鍊鎖著，睡在兩個兵丁當中，看守的人也在門外看守。^7^忽然，有主的一個使者站在旁邊，屋裏有光照耀。天使拍彼得的肋旁，拍醒了他，說：「快快起來！」那鐵鍊就從他手上脫落下來。^8^天使對他說：「束上帶子，穿上鞋！」他就那樣做。天使又說：「披上外衣，跟著我來！」^9^彼得就出來跟著他，不知道天使所做是真的，只當見了異象。^10^過了第一層、第二層監牢，就來到臨街的鐵門，那門自己開了。他們出來，走過一條街，天使便離開他去了。
 
 > ^11^彼得醒悟過來，說：「我現在真知道主差遣他的使者，救我脫離希律的手和猶太百姓一切所盼望的。」
 
-> ^12^想了一想，就往那稱呼馬可的約翰他母親馬利亞家去，在那裏有好些人聚集禱告。^13^彼得敲外門，有一個使女名叫羅大，出來探聽。^14^聽得是彼得的聲音，就歡喜得顧不得開門，跑進去告訴眾人說：「彼得站在門外！」^15^他們說：「你是瘋了！」使女極力地說：「真是他！」他們說：「必是他的天使。」^16^彼得不住地敲門。他們開了門，看見他，就甚驚奇。^17^彼得擺手不要他們作聲，就告訴他們主怎樣領他出監，又說：「你們把這事告訴雅各和眾弟兄。」於是出去往別處去了。
+> ^12^想了一想，就往那稱呼馬可的約翰他母親馬利亞家去，在那裏有好些人聚集禱告。^13^彼得敲外門，有一個使女名叫羅大，出來探聽。^14^聽得是彼得的聲音，就歡喜的顧不得開門，跑進去告訴眾人說：「彼得站在門外！」^15^他們說：「你是瘋了！」使女極力地說：「真是他！」他們說：「必是他的天使。」^16^彼得不住地敲門。他們開了門，看見他，就甚驚奇。^17^彼得擺手不要他們作聲，就告訴他們主怎樣領他出監，又說：「你們把這事告訴雅各和眾弟兄。」於是出去往別處去了。
 
 > ^20^希律惱怒推羅、西頓的人。他們那一帶地方是從王的地土得糧，因此就託了王的內侍臣伯拉斯都的情，一心來求和。^21^希律在所定的日子，穿上朝服，坐在位上，對他們講論一番。^22^百姓喊著說：「這是神的聲音，不是人的聲音！」^23^希律不歸榮耀給神，所以主的使者立刻罰他，他被蟲所咬，氣就絕了。
 
 > ^24^神的道日見興旺，越發廣傳。
 
-### English — ESV
+### English — NASB
 
-> ^5^So Peter was kept in prison, but earnest prayer for him was made to God by the church.
+> ^5^So Peter was kept in the prison, but prayer for him was being made fervently by the church to God.
 
-> ^7^And behold, an angel of the Lord stood next to him, and a light shone in the cell. He struck Peter on the side and woke him, saying, "Get up quickly." And the chains fell off his hands. ^9^And he went out and followed him. He did not know that what was being done by the angel was real, but thought he was seeing a vision. ^10^When they had passed the first and the second guard, they came to the iron gate leading into the city. It opened for them of its own accord, and they went out and went along one street, and immediately the angel left him. ^11^When Peter came to himself, he said, "Now I am sure that the Lord has sent his angel and rescued me from the hand of Herod and from all that the Jewish people were expecting."
+> ^7^And behold, an angel of the Lord suddenly appeared and a light shone in the cell; and he struck Peter's side and woke him up, saying, "Get up quickly." And his chains fell off his hands. ^9^And he went out and continued to follow, and he did not know that what was being done by the angel was real, but thought he was seeing a vision. ^10^When they had passed the first and second guard, they came to the iron gate that leads into the city, which opened for them by itself; and they went out and went along one street, and immediately the angel departed from him. ^11^When Peter came to himself, he said, "Now I know for sure that the Lord has sent forth His angel and rescued me from the hand of Herod and from all that the Jewish people were expecting."
 
-> ^14^Recognizing Peter's voice, in her joy she did not open the gate but ran in and reported that Peter was standing at the gate. ^15^They said to her, "You are out of your mind." But she kept insisting that it was so, and they kept saying, "It is his angel!"
+> ^14^When she recognized Peter's voice, because of her joy she did not open the gate, but ran in and announced that Peter was standing in front of the gate. ^15^They said to her, "You are out of your mind!" But she kept insisting that it was so. They kept saying, "It is his angel."
 
-> ^23^Immediately an angel of the Lord struck him down, because he did not give God the glory, and he was eaten by worms and breathed his last. ^24^But the word of God increased and multiplied.
+> ^23^And immediately an angel of the Lord struck him because he did not give God the glory, and he was eaten by worms and died. ^24^But the word of the Lord continued to grow and to be multiplied.
 
-**經文核對**：[ai-eden.com/bible/acts/12](https://www.ai-eden.com/bible/acts/12?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/12](https://www.ai-eden.com/bible/acts/12?t=CUV,NASB&cols=2)
 
 ---
 
@@ -79,7 +79,7 @@ publisher: 三書精讀出版系統
 
 這裏的「希律王」不是殺害施洗約翰的希律安提帕，而是他的姪子希律亞基帕一世（Herod Agrippa I），大希律王的孫子。他自小在羅馬長大，與後來的羅馬皇帝交情深厚——主後37年迦利古拉即位後，先把腓力的分封地和呂撒聶的分封地賜給他；主後41年迦利古拉遇刺後，繼位的革老丟又加封猶太、撒瑪利亞全地給他，使他統治的版圖幾乎恢復到祖父大希律鼎盛時期的規模。他刻意討好猶太人——殺雅各、拿彼得，都是因為「猶太人喜歡這事」（12:3），是精於政治算計的統治者。
 
-**約瑟夫的印證**：猶太史家約瑟夫在《猶太古史記》（*Antiquities* 19.8.2）也記載了希律亞基帕一世的死——他在凱撒利亞接受群眾如神明般的歡呼後，突然腹痛，數日後去世。約瑟夫的記載與路加在12:20-23的敘述在時間、地點、死因上高度吻合，是使徒行傳歷史可靠性的重要外證。
+**約瑟夫的印證**：猶太史家約瑟夫在《猶太古史記》（*Antiquities* 19.8.2）也記載了希律亞基帕一世的死——他在該撒利亞接受群眾如神明般的歡呼後，突然腹痛，數日後去世。約瑟夫的記載與路加在12:20-23的敘述在時間、地點、死因上高度吻合，是使徒行傳歷史可靠性的重要外證。
 
 ### 除酵節與逾越節
 
@@ -89,7 +89,7 @@ publisher: 三書精讀出版系統
 
 這一章刻意把雅各的死與彼得的獲救並排陳列，中間沒有過渡的解釋。
 
-| 對照點 | 雅各 (12:1-2) | 彼得 (12:3-19) |
+| 對照點 | 雅各 （12:1-2） | 彼得 （12:3-19） |
 |---------------|------------------------------|----------------------------------|
 | 遭遇 | 被刀殺，殉道 | 被囚，蒙救 |
 | 經文的記載 | 一句帶過，沒有記載教會的反應 | 教會「切切地禱告神」 |
@@ -107,7 +107,7 @@ publisher: 三書精讀出版系統
 |-------------------------|------------------------|---------|----------------------|
 | ἐκτενῶς | ektenōs | 切切地、迫切地 | 12:5——原意「伸展、拉緊」，形容禱告如繃緊的弓弦，不是例行公事的祈求 |
 | ἄγγελος | angelos | 使者、天使 | 12:7, 9, 11, 15——同一個字，12:15眾人以為是「他的天使」，反映當時猶太人相信個人有守護天使的觀念 |
-| ἅλυσις | halysis | 鎖鏈 | 12:6-7——彼得「被兩條鐵鏈鎖著」，鐵鏈「就從他手上脫落下來」 |
+| ἅλυσις | halysis | 鎖鏈 | 12:6-7——彼得「被兩條鐵鍊鎖著」，鐵鍊「就從他手上脫落下來」 |
 | αὐτομάτη | automatē | 自動地 | 12:10——鐵門「自己」開了，衍生英文 automatic，強調這不是人力所能，是超自然的介入 |
 | σκωληκόβρωτος | skōlēkobrōtos | 被蟲咬蝕 | 12:23——全新約僅此一次，複合字由「蟲」與「咬蝕」組成，描述希律死狀的具體與難堪 |
 | αὐξάνω / πληθύνω | auxanō / plēthynō | 興旺、增多 | 12:24——同一組動詞在1:8的應許之後反覆出現，標記福音擴展的階段性總結 |
@@ -116,13 +116,13 @@ publisher: 三書精讀出版系統
 
 面對希律的刀劍與監獄，教會沒有組織抗議，沒有訴諸武力，只有一件事——「切切地」禱告神。這個字根後來在彼得前書1:22「切實相愛」再次以副詞ἐκτενῶς出現（彼前4:8則用同源形容詞ἐκτενῆ，「切實的愛」），同一種「拉緊、伸展」的力度，用在禱告和愛裏，說明這不是溫吞的宗教習慣，而是全人投入的操練。
 
-### 鐵鏈「自己」脫落，鐵門「自己」開了
+### 鐵鍊「自己」脫落，鐵門「自己」開了
 
-12:7鐵鏈脫落所用的動詞是主動語態，不是「被解開」，而是「自己掉落」；12:10鐵門更直接用「自動地」（αὐτομάτη）形容，是全新約中極少見的用字。天使的動作快、靜、不費力——路加用這些細節對照希律的排場（穿朝服、坐寶座、發表演說，12:21）：一邊是神不費吹灰之力的搭救，一邊是人費盡心機的自我彰顯，結局卻是自我彰顯的那一位被蟲咬死。
+12:7鐵鍊脫落所用的動詞是主動語態，不是「被解開」，而是「自己掉落」；12:10鐵門更直接用「自動地」（αὐτομάτη）形容，是全新約中極少見的用字。天使的動作快、靜、不費力——路加用這些細節對照希律的排場（穿朝服、坐寶座、發表演說，12:21）：一邊是神不費吹灰之力的搭救，一邊是人費盡心機的自我彰顯，結局卻是自我彰顯的那一位被蟲咬死。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 雅各之死與彼得之救——同一位主的兩種道路
 
@@ -130,7 +130,7 @@ publisher: 三書精讀出版系統
 
 ### 2. 切切禱告：教會唯一也是最有力的武器
 
-教會面對武力逼迫，沒有組織反抗，沒有向政權談判，只有「切切地」向神禱告（12:5）。這是全卷書裏最鮮明的一幕：一個沒有任何政治或軍事資源的群體，用禱告面對一個手握生殺大權的王——而神的回應是差遣使者，親自介入監牢的鐵鏈與鐵門。
+教會面對武力逼迫，沒有組織反抗，沒有向政權談判，只有「切切地」向神禱告（12:5）。這是全卷書裏最鮮明的一幕：一個沒有任何政治或軍事資源的群體，用禱告面對一個手握生殺大權的王——而神的回應是差遣使者，親自介入監牢的鐵鍊與鐵門。
 
 ### 3. 神蹟中的幽默：羅大的喜樂與教會的懷疑
 
@@ -140,17 +140,13 @@ publisher: 三書精讀出版系統
 
 希律穿上朝服、坐在寶座上，任由群眾稱他「這是神的聲音，不是人的聲音」而不加以拒絕（12:21-22），結果立刻被主的使者擊打。把本該歸給神的榮耀留在自己身上——不論那份榮耀來自群眾的歡呼還是自己的成就感——神看為極其嚴重的事。
 
-### 5. 「神的道日見興旺」：路加的第二句總結
+### 5. 「神的道日見興旺」：路加的第三句總結
 
 12:24是路加全書六句「道的增長」總結句中的第三句（前兩句在6:7、9:31），也是卷二（猶太全地·撒瑪利亞）的收筆。希律死了，逼迫的高峰過去了，但路加不是以審判結束這一章，而是以神的道興旺結束——逼迫者的權勢有終點，福音的擴展沒有終點，這是貫穿整卷使徒行傳的規律。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -160,13 +156,13 @@ publisher: 三書精讀出版系統
 >
 > 神容讓一些人被殺——甚至是司提反、雅各這樣重要的人物——為要叫那殺害他們的人自己也心服：門徒面對死亡並非因為篤定神必搭救才無所畏懼，即便神不搭救，他們也不會因此跌倒離棄信仰。
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXVI**（論徒12:1-2），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXVI**（論徒12:1-2），NPNF1-11
 
 > "O excessive wickedness! On whose behalf was it, that he gratified them by doing murders thus without plan or reason?"
 >
 > 何等過度的邪惡！他竟是為了討好眾人，就毫無章法、毫無理由地殺人。
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXVI**（論希律殺雅各、拿彼得），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXVI**（論希律殺雅各、拿彼得），NPNF1-11
 
 ### 改革宗時期
 
@@ -174,33 +170,7 @@ publisher: 三書精讀出版系統
 
 > 出處：John Calvin, *Commentary on Acts*, Vol. 1, 12:20-23 注（CCEL, calcom36）
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-> "He is the picture that I want you to get of the fool who fights God."
->
-> 「他正是我要你們看清楚的那幅圖畫——一個與神為敵的愚頑人。」——麥克阿瑟以希律作為「與神為敵者」的縮影，貫串整篇講道。
->
-> — John MacArthur, *"The Stupidity of Fighting God"*（sermon 1740，論徒12:1-25），Grace to You, gty.org
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 34:7
-
-> 耶和華的使者在敬畏他的人四圍安營，搭救他們。
-
-### 但以理書 4:37
-
-> 現在我尼布甲尼撒讚美、尊崇、恭敬天上的王；因為他所行的全都誠實，他所行的也都公平。那行動驕傲的，他能降為卑。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **一個沒有解釋的問題**：摩根在他的《使徒行傳》釋經中，坦然面對這一章留下的張力——雅各被殺、彼得蒙救，聖經沒有給出理由。他提醒讀者，這正是要人學習：神拯救彼得，證明祂有能力拯救雅各；祂沒有拯救雅各，同樣證明雅各的死也在祂旨意的範圍之內——兩件事都出於同一位掌權者的手，不需要人替祂辯護。
 
@@ -212,9 +182,49 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳 12 章釋經）
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
 
-老弟兄把12:20-23希律的死，放進整本聖經一條反覆出現的線索裏來看：
+> "He is the picture that I want you to get of the fool who fights God."
+>
+> 「他正是我要你們看清楚的那幅圖畫——一個與神為敵的愚頑人。」——麥克阿瑟以希律作為「與神為敵者」的縮影，貫串整篇講道。
+>
+> — John MacArthur, *"The Stupidity of Fighting God"*（sermon 1740，論徒12:1-25），Grace to You, gty.org
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 34:7
+
+> 耶和華的使者在敬畏他的人四圍安營，搭救他們。
+
+### 但以理書 4:37
+
+> 現在我尼布甲尼撒讚美、尊崇、恭敬天上的王；因為他所行的全都誠實，他所行的也都公平。那行動驕傲的，他能降為卑。
+
+### God Moves in a Mysterious Way（神行事奇妙莫測）
+
+> God moves in a mysterious way \
+> His wonders to perform; \
+> He plants His footsteps in the sea, \
+> And rides upon the storm.
+>
+> 神的作為，何等奇妙， \
+> 祂的奇事，人所難料； \
+> 祂步履行在滄海深處， \
+> 乘駕風暴，穩然掌權。
+>
+> *William Cowper, 1774*（中文為意譯，非官方譯本）
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：雅各殉道，彼得蒙救——同一位主，不同的道路，卻是同一份主權；人的驕傲瞬間傾覆，神的道卻日見興旺、越發廣傳。「鐵鍊能鎖住彼得的手腳，鎖不住那位差遣使者的主；朝服能裝點希律的威嚴，卻遮不住他心裏沒有歸給神的那份榮耀。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：神一手擊打驕傲的掌權者，一手搭救切切禱告祂的百姓。從法老「我不認識耶和華」（出5:2），到尼布甲尼撒「這大巴比倫不是我建為京都嗎」（但4:30），到希律接受「這是神的聲音」而默然不拒（徒12:22），聖經反覆記下同一個模式：凡把本該歸給神的榮耀留給自己的掌權者，神必親自對付。老弟兄把這條線列成一張表：
 
 | 掌權者 | 驕傲的表現 | 神的對付 | 經文 |
 |------------------|---------------------------|----------------------|-------------|
@@ -223,37 +233,7 @@ publisher: 三書精讀出版系統
 | 希律亞基帕 | 接受「這是神的聲音」而不拒絕 | 被主的使者擊打，被蟲咬死 | 徒12:21-23 |
 | 巴比倫大城 | 「自榮自奢」 | 一時之間傾覆 | 啟18:7-8 |
 
-**同一位差遣使者的主**：老弟兄也留意到，彼得蒙救的那一幕——鐵鏈自己脫落、鐵門自己打開——正呼應詩篇34:7「耶和華的使者在敬畏他的人四圍安營，搭救他們」，也呼應出埃及記那位「在雲柱火柱中」親自為以色列爭戰的神。同一位主，一手擊打驕傲的掌權者，一手搭救切切禱告祂的百姓——這不是兩位不同的神，而是同一位聖潔又信實的主，用不同的方式向不同的對象顯明自己。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*God Moves in a Mysterious Way*（神行事奇妙莫測）
-
-> God moves in a mysterious way
-> His wonders to perform;
-> He plants His footsteps in the sea,
-> And rides upon the storm.
->
-> 神的作為，何等奇妙，
-> 祂的奇事，人所難料；
-> 祂步履行在滄海深處，
-> 乘駕風暴，穩然掌權。
->
-> *William Cowper, 1774*（中文為意譯，非官方譯本）
-
-**詩篇**：詩篇 34:7
-
-> 耶和華的使者在敬畏他的人四圍安營，搭救他們。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：神一手擊打驕傲的掌權者，一手搭救切切禱告祂的百姓。從法老「我不認識耶和華」（出5:2），到尼布甲尼撒「這大巴比倫不是我建為京都嗎」（但4:30），到希律接受「這是神的聲音」而默然不拒（徒12:22），聖經反覆記下同一個模式：凡把本該歸給神的榮耀留給自己的掌權者，神必親自對付。而彼得蒙救的那一幕——鐵鏈自己脫落、鐵門自己打開——遙遙呼應詩篇34:7「耶和華的使者在敬畏他的人四圍安營，搭救他們」；教會「切切地禱告神」（12:5），也遙遙呼應雅各書5:16「義人祈禱所發的力量是大有功效的」。殉道的雅各與蒙救的彼得，同樣活在「僕人不能大於主人；他們若逼迫了我，也要逼迫你們」（約15:20）這句應許之下——這應許從未保證信徒都能免於苦難，只保證跟隨主的人，無論生死，都不會脫離主的手。
+而彼得蒙救的那一幕——鐵鍊自己脫落、鐵門自己打開——遙遙呼應詩篇34:7「耶和華的使者在敬畏他的人四圍安營，搭救他們」；教會「切切地禱告神」（12:5），也遙遙呼應雅各書5:16「義人祈禱所發的力量是大有功效的」。殉道的雅各與蒙救的彼得，同樣活在「僕人不能大於主人；他們若逼迫了我，也要逼迫你們」（約15:20）這句應許之下——這應許從未保證信徒都能免於苦難，只保證跟隨主的人，無論生死，都不會脫離主的手。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -274,17 +254,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，有沒有一刻我默默地把本該歸神的榮耀，悄悄留在自己心裏？
 - **一個行動**：今天為一件「切切禱告卻還沒看見答案」的事，再一次認真、迫切地禱告，並且預備好相信神真的會應允。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：雅各殉道，彼得蒙救——同一位主，不同的道路，卻是同一份主權；人的驕傲瞬間傾覆，神的道卻日見興旺、越發廣傳。
-
-**貫通全經**：從法老到尼布甲尼撒，從希律到啟示錄的巴比倫大城——凡不肯把榮耀歸給神的掌權者，神必親自對付；而祂搭救屬祂之人的手，從出埃及記的雲火柱，到彼得牢中自動脫落的鐵鏈，從未縮短。
-
-**無法迴避的問題**：「你生命中那些說不出理由的『為甚麼』，你願意把它們交託在這位又真又活、掌管生死的主手中嗎？」
-
-> 「鐵鏈能鎖住彼得的手腳，鎖不住那位差遣使者的主；朝服能裝點希律的威嚴，卻遮不住他心裏沒有歸給神的那份榮耀。」
+**你看見耶穌了嗎？** 這一章的高潮不是天使開監門，也不是希律被蟲咬死，而是那句平淡的收尾——「神的道日見興旺，越發廣傳」（12:24）。刀劍與朝服都過去了，唯獨那位差遣使者、也差遣祂的道向前行走的復活之主，仍然掌權；雅各在祂手中，彼得也在祂手中。
 
 ---
 
@@ -296,11 +266,7 @@ publisher: 三書精讀出版系統
 
 2. **切切的禱告**：你為某件事迫切禱告時，是「切切地」投入，還是敷衍了事？
 
-3. **期待應允的信心**：你禱告的時候，心裏真的相信神會應允嗎？還是像那晚聚集的門徒，聽見答案來了，第一反應卻是「你是瘋了」？
-
-4. **歸榮耀給神**：你生命中最近一次被人稱讚、被人高舉的時刻，你有沒有把那份榮耀轉回給神？
-
-5. **神的道日見興旺**：你所在的環境若正經歷逼迫或攔阻，你相信神的道仍然「日見興旺，越發廣傳」嗎？
+3. **神的道日見興旺**：你所在的環境若正經歷逼迫或攔阻，你相信神的道仍然「日見興旺，越發廣傳」嗎？
 
 ### 禱告回應
 

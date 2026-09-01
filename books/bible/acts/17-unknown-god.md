@@ -18,23 +18,23 @@ publisher: 三書精讀出版系統
 > **1:8 座標**：地極的見證，第一次走進一座沒有會堂根基、只有偶像與哲學的純外邦城市。保羅在帖撒羅尼迦、庇哩亞仍先進猶太會堂；到了雅典，他獨自一人，面對的是伊壁鳩魯與斯多亞學派——這是全書唯一一篇對純外邦哲學聽眾的講道全文。 \
 > （全書骨幹見卷首《見證——全書的骨幹》）
 
-本章的焦點不在保羅的辯才，也不在雅典人的哲學，而在那位「離我們各人不遠」的神。帖撒羅尼迦的猶太人用石頭般的嫉妒攔阻福音，庇哩亞人卻天天查考聖經印證福音，雅典人則把福音當作街談巷議的新聞——三種回應，同一位主在後面工作。祂沒有等雅典人先認識祂才臨到他們中間；祂「從一人造出萬族」，「定準他們的年限和所住的疆界」，好叫人「尋求神……其實他離我們各人不遠」（17:26-27）。保羅站在亞略巴古，宣告的不是一個新宗教，而是那位雅典人自己立壇承認「不認識」的神，如今藉著死而復活的耶穌，向普天下人發出可信的憑據。
+本章的焦點不在保羅的辯才，也不在雅典人的哲學，而在那位「離我們各人不遠」的神。帖撒羅尼迦的猶太人用石頭般的嫉妒攔阻福音，庇哩亞人卻天天查考聖經印證福音，雅典人則把福音當作街談巷議的新聞——三種回應，同一位主在後面工作。祂沒有等雅典人先認識祂才臨到他們中間；祂「從一本造出萬族的人」，「定準他們的年限和所住的疆界」，好叫人「尋求神……其實他離我們各人不遠」（17:26-27）。保羅站在亞略巴古，宣告的不是一個新宗教，而是那位雅典人自己立壇承認「不認識」的神，如今藉著死而復活的耶穌，向普天下人發出可信的憑據。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Immortal, Invisible, God Only Wise**
+> **Immortal, Invisible, God Only Wise** \
 > *Walter Chalmers Smith, 1867*
 >
-> Immortal, invisible, God only wise,
-> In light inaccessible hid from our eyes,
-> Most blessed, most glorious, the Ancient of Days,
+> Immortal, invisible, God only wise, \
+> In light inaccessible hid from our eyes, \
+> Most blessed, most glorious, the Ancient of Days, \
 > Almighty, victorious, thy great name we praise.
 >
-> 永活無形，全智全能的神，
-> 居於人所不能靠近的光中，向我們眼目隱藏；
-> 至配稱頌，至為榮耀，那亙古常在者，
+> 永活無形，全智全能的神， \
+> 居於人所不能靠近的光中，向我們眼目隱藏； \
+> 至配稱頌，至為榮耀，那亙古常在者， \
 > 全能得勝的主，我們讚美你偉大的名。
 
 ---
@@ -43,31 +43,31 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^保羅和西拉經過暗妃波里、亞波羅尼亞，來到帖撒羅尼迦，在那裏有猶太人的會堂。^2^保羅照他素常的規矩進去，一連三個安息日，本著聖經與他們辯論，^3^講解陳明基督必須受害，從死裏復活，又說：「我所傳於你們的這位耶穌，就是基督。」
+> ^1^保羅和西拉經過暗妃波里、亞波羅尼亞，來到帖撒羅尼迦，在那裏有猶太人的會堂。^2^保羅照他素常的規矩進去，一連三個安息日，本著聖經與他們辯論，^3^講解陳明基督必須受害，從死裏復活，又說：「我所傳與你們的這位耶穌，就是基督。」
 
-> ^4^他們中間有些人聽了勸，就附從保羅和西拉，並有許多虔敬的希臘人，尊貴的婦女也不少。^5^但那不信的猶太人心裏嫉妒，招聚了些市井匪類，搭夥成群，聳動合城的人闖進耶孫的家，要將保羅、西拉帶到百姓那裏。^6^找不著他們，就把耶孫和幾個弟兄拉到地方官那裏，喊叫說：「那攪亂天下的也到這裏來了，^7^耶孫收留他們！這些人都違背愷撒的命令，說另有一個王——耶穌。」^8^眾人和地方官聽見這話，就驚慌了，^9^於是取了耶孫和其餘之人的保狀，就釋放了他們。
+> ^4^他們中間有些人聽了勸，就附從保羅和西拉，並有許多虔敬的希臘人，尊貴的婦女也不少。^5^但那不信的猶太人心裏嫉妒，招聚了些市井匪類，搭夥成群，聳動合城的人闖進耶孫的家，要將保羅、西拉帶到百姓那裏。^6^找不著他們，就把耶孫和幾個弟兄拉到地方官那裏，喊叫說：「那攪亂天下的也到這裏來了，^7^耶孫收留他們！這些人都違背該撒的命令，說另有一個王——耶穌。」^8^眾人和地方官聽見這話，就驚慌了，^9^於是取了耶孫和其餘之人的保狀，就釋放了他們。
 
 > ^10^弟兄們隨即在夜間打發保羅和西拉往庇哩亞去。二人到了，就進入猶太人的會堂。^11^這地方的人賢於帖撒羅尼迦的人，甘心領受這道，天天考查聖經，要曉得這道是與不是。^12^所以他們中間多有相信的，又有希臘尊貴的婦女，男子也不少。
 
 > ^16^保羅在雅典等候他們的時候，看見滿城都是偶像，就心裏著急。^17^於是在會堂裏與猶太人和虔敬的人，並每日在市上所遇見的人辯論。^18^還有伊壁鳩魯和斯多亞兩門的學士與他爭論。有的說：「這胡言亂語的要說甚麼？」有的說：「他似乎是傳說外邦鬼神的。」這話是因保羅傳講耶穌與復活的道。^19^他們就把他帶到亞略巴古，說：「你所講的這新道，我們也可以知道嗎？^20^因為你有些奇怪的事傳到我們耳中，我們願意知道這些事是甚麼意思。」^21^雅典人和住在那裏的客人都不顧別的事，只將新聞說說聽聽。
 
-> ^22^保羅站在亞略巴古當中，說：「眾位雅典人哪，我看你們凡事很敬畏鬼神。^23^我遊行的時候，觀看你們所敬拜的，遇見一座壇，上面寫著『未識之神』。你們所不認識而敬拜的，我現在告訴你們。^24^創造宇宙和其中萬物的神，既是天地的主，就不住人手所造的殿，^25^也不用人手服侍，好像缺少甚麼，自己倒將生命、氣息、萬物賜給萬人。^26^他從一本造出萬族的人，住在全地上，並且預先定準他們的年限和所住的疆界，^27^要叫他們尋求神，或者可以揣摩而得；其實他離我們各人不遠。^28^我們生活、動作、存留，都在乎他，就如你們作詩的有人說：『我們也是他所生的。』^29^我們既是神所生的，就不當以為神的神性像人用手藝、心思所雕刻的金、銀、石。^30^世人蒙昧無知的時候，神並不監察，如今卻吩咐各處的人都要悔改。^31^因為他已經定了日子，要藉著他所設立的人按公義審判天下，並且叫他從死裏復活，給萬人做可信的憑據。」
+> ^22^保羅站在亞略巴古當中，說：「眾位雅典人哪，我看你們凡事很敬畏鬼神。^23^我遊行的時候，觀看你們所敬拜的，遇見一座壇，上面寫著『未識之神』。你們所不認識而敬拜的，我現在告訴你們。^24^創造宇宙和其中萬物的神，既是天地的主，就不住人手所造的殿，^25^也不用人手服事，好像缺少甚麼，自己倒將生命、氣息、萬物賜給萬人。^26^他從一本造出萬族的人，住在全地上，並且預先定準他們的年限和所住的疆界，^27^要叫他們尋求神，或者可以揣摩而得；其實他離我們各人不遠。^28^我們生活、動作、存留，都在乎他，就如你們作詩的有人說：『我們也是他所生的。』^29^我們既是神所生的，就不當以為神的神性像人用手藝、心思所雕刻的金、銀、石。^30^世人蒙昧無知的時候，神並不監察，如今卻吩咐各處的人都要悔改。^31^因為他已經定了日子，要藉著他所設立的人按公義審判天下，並且叫他從死裏復活，給萬人作可信的憑據。」
 
 > ^32^眾人聽見從死裏復活的話，就有譏誚他的，又有人說：「我們再聽你講這個吧！」^33^於是保羅從他們當中出去了。^34^但有幾個人貼近他，信了主，其中有亞略巴古的官丟尼修，並一個婦人名叫大馬哩，還有別人一同信從。
 
-### English — ESV
+### English — NASB
 
-> ^1^Now when they had passed through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews. ^5^But the Jews were jealous, and taking some wicked men of the rabble, they formed a mob, set the city in an uproar, and attacked the house of Jason, seeking to bring them out to the crowd. ^6^And when they could not find them, they dragged Jason and some of the brothers before the city authorities, shouting, "These men who have turned the world upside down have come here also," ^7^"and Jason has received them, and they are all acting against the decrees of Caesar, saying that there is another king, Jesus."
+> ^1^Now when they had traveled through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews. ^5^But the Jews, becoming jealous and taking along some wicked men from the market place, formed a mob and set the city in an uproar; and attacking the house of Jason, they were seeking to bring them out to the people. ^6^When they did not find them, they *began* dragging Jason and some brethren before the city authorities, shouting, "These men who have upset the world have come here also; ^7^and Jason has welcomed them, and they all act contrary to the decrees of Caesar, saying that there is another king, Jesus."
 
-> ^10^The brothers immediately sent Paul and Silas away by night to Berea, and when they arrived they went into the Jewish synagogue. ^11^Now these Jews were more noble than those in Thessalonica; they received the word with all eagerness, examining the Scriptures daily to see if these things were so.
+> ^10^The brethren immediately sent Paul and Silas away by night to Berea, and when they arrived, they went into the synagogue of the Jews. ^11^Now these were more noble-minded than those in Thessalonica, for they received the word with great eagerness, examining the Scriptures daily *to see* whether these things were so.
 
-> ^16^Now while Paul was waiting for them at Athens, his spirit was provoked within him as he saw that the city was full of idols. ^18^Some of the Epicurean and Stoic philosophers also conversed with him. And some said, "What does this babbler wish to say?" Others said, "He seems to be a preacher of foreign divinities"—because he was preaching Jesus and the resurrection.
+> ^16^Now while Paul was waiting for them at Athens, his spirit was being provoked within him as he was observing the city full of idols. ^18^And also some of the Epicurean and Stoic philosophers were conversing with him. Some were saying, "What would this idle babbler wish to say?" Others, "He seems to be a proclaimer of strange deities,"—because he was preaching Jesus and the resurrection.
 
-> ^22^So Paul, standing in the midst of the Areopagus, said: "Men of Athens, I perceive that in every way you are very religious. ^23^For as I passed along and observed the objects of your worship, I found also an altar with this inscription: To the unknown god. What therefore you worship as unknown, this I proclaim to you. ^24^The God who made the world and everything in it, being Lord of heaven and earth, does not live in temples made by man, ^25^nor is he served by human hands, as though he needed anything, since he himself gives to all mankind life and breath and everything. ^26^And he made from one man every nation of mankind to live on all the face of the earth, having determined allotted periods and the boundaries of their dwelling place, ^27^that they should seek God, and perhaps feel their way toward him and find him. Yet he is actually not far from each one of us, ^28^for in him we live and move and have our being; as even some of your own poets have said, 'For we are indeed his offspring.' ^29^Being then God's offspring, we ought not to think that the divine being is like gold or silver or stone, an image formed by the art and imagination of man. ^30^The times of ignorance God overlooked, but now he commands all people everywhere to repent, ^31^because he has fixed a day on which he will judge the world in righteousness by a man whom he has appointed; and of this he has given assurance to all by raising him from the dead."
+> ^22^So Paul stood in the midst of the Areopagus and said, "Men of Athens, I observe that you are very religious in all respects. ^23^For while I was passing through and examining the objects of your worship, I also found an altar with this inscription, 'TO AN UNKNOWN GOD.' Therefore what you worship in ignorance, this I proclaim to you. ^24^The God who made the world and all things in it, since He is Lord of heaven and earth, does not dwell in temples made with hands; ^25^nor is He served by human hands, as though He needed anything, since He Himself gives to all *people* life and breath and all things; ^26^and He made from one *man* every nation of mankind to live on all the face of the earth, having determined *their* appointed times and the boundaries of their habitation, ^27^that they would seek God, if perhaps they might grope for Him and find Him, though He is not far from each one of us; ^28^for in Him we live and move and exist, as even some of your own poets have said, 'For we also are His children.' ^29^Being then the children of God, we ought not to think that the Divine Nature is like gold or silver or stone, an image formed by the art and thought of man. ^30^Therefore having overlooked the times of ignorance, God is now declaring to men that all *people* everywhere should repent, ^31^because He has fixed a day in which He will judge the world in righteousness through a Man whom He has appointed, having furnished proof to all men by raising Him from the dead."
 
-> ^32^Now when they heard of the resurrection of the dead, some mocked. But others said, "We will hear you again about this." ^33^So Paul went out from their midst. ^34^But some men joined him and believed, among whom also were Dionysius the Areopagite and a woman named Damaris and others with them.
+> ^32^Now when they heard of the resurrection of the dead, some *began* to sneer, but others said, "We shall hear you again concerning this." ^33^So Paul went out of their midst. ^34^But some men joined him and believed, among whom also were Dionysius the Areopagite and a woman named Damaris and others with them.
 
-**經文核對**：[ai-eden.com/bible/acts/17](https://www.ai-eden.com/bible/acts/17?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/17](https://www.ai-eden.com/bible/acts/17?t=CUV,NASB&cols=2)
 
 ---
 
@@ -77,15 +77,15 @@ publisher: 三書精讀出版系統
 
 | 城市 | 聽眾 | 保羅的作法 | 結果 |
 |----------------|----------------|--------------------------------|----------------|
-| 帖撒羅尼迦 (17:1-9) | 猶太會堂、虔敬的希臘人 | 一連三個安息日，本著聖經辯論、講解基督必須受害復活 | 有人信，猶太人嫉妒生亂，保羅、西拉連夜離開 |
-| 庇哩亞 (17:10-15) | 猶太會堂 | 同樣進會堂傳道 | 庇哩亞人「甘心領受這道，天天考查聖經」，多人信主；帖撒羅尼迦人追來攪擾，保羅獨自轉往雅典 |
-| 雅典 (17:16-34) | 猶太人、虔敬的人、伊壁鳩魯與斯多亞哲學家 | 會堂辯論、市集日日談論，最後在亞略巴古正式演講 | 有譏誚的，有說「再聽你講」的，也有信主的（丟尼修、大馬哩） |
+| 帖撒羅尼迦 （17:1-9） | 猶太會堂、虔敬的希臘人 | 一連三個安息日，本著聖經辯論、講解基督必須受害復活 | 有人信，猶太人嫉妒生亂，保羅、西拉連夜離開 |
+| 庇哩亞 （17:10-15） | 猶太會堂 | 同樣進會堂傳道 | 庇哩亞人「甘心領受這道，天天考查聖經」，多人信主；帖撒羅尼迦人追來攪擾，保羅獨自轉往雅典 |
+| 雅典 （17:16-34） | 猶太人、虔敬的人、伊壁鳩魯與斯多亞哲學家 | 會堂辯論、市集日日談論，最後在亞略巴古正式演講 | 有譏誚的，有說「再聽你講」的，也有信主的（丟尼修、大馬哩） |
 
 （17:13-15：帖撒羅尼迦的猶太人聽見保羅在庇哩亞傳道，追去聳動群眾，弟兄們便打發保羅獨自往海邊去，西拉、提摩太暫留庇哩亞，之後才在雅典會合——保羅在雅典等候他們的這段空檔，正是亞略巴古講道的背景。）
 
 ### 帖撒羅尼迦——「另立一個王」的控訴
 
-帖撒羅尼迦是馬其頓省的首府，享有「自由城」（civitas libera）地位，對羅馬的效忠格外敏感。猶太人控告耶孫「收留」保羅一夥人「違背愷撒的命令，說另有一個王——耶穌」（17:7），這不是誤會，而是精準地擊中羅馬人最忌諱的政治罪名——謀反。保羅日後寫給帖撒羅尼迦教會的兩封信，處理的正是這座城市信徒在患難與逼迫中對基督再來的盼望。
+帖撒羅尼迦是馬其頓省的首府，享有「自由城」（civitas libera）地位，對羅馬的效忠格外敏感。猶太人控告耶孫「收留」保羅一夥人「違背該撒的命令，說另有一個王——耶穌」（17:7），這不是誤會，而是精準地擊中羅馬人最忌諱的政治罪名——謀反。保羅日後寫給帖撒羅尼迦教會的兩封信，處理的正是這座城市信徒在患難與逼迫中對基督再來的盼望。
 
 ### 雅典與亞略巴古
 
@@ -115,19 +115,19 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 帖撒羅尼迦：本著聖經的宣講方法 (17:2-3)
+### 1. 帖撒羅尼迦：本著聖經的宣講方法 （17:2-3）
 
 | 保羅的方法 | 內容 |
 |-----------------------------------------------------|---------------------------|
 | 「本著聖經」與他們辯論 | 不是講自己的意見，是從舊約經文論證 |
 | 「講解陳明」 | 基督必須受害、從死裏復活——這是彌賽亞的既定藍圖 |
-| 宣告核心 | 「我所傳於你們的這位耶穌，就是基督」 |
+| 宣告核心 | 「我所傳與你們的這位耶穌，就是基督」 |
 
 保羅傳福音從不脫離聖經憑空立論；他的講章，是舊約應許與耶穌生平的對照解經。
 
-### 2. 庇哩亞的榜樣——查經班的原型 (17:10-12)
+### 2. 庇哩亞的榜樣——查經班的原型 （17:10-12）
 
 | 帖撒羅尼迦人 | 庇哩亞人 |
 |-----------------------------------------------|---------------------------------|
@@ -137,28 +137,28 @@ publisher: 三書精讀出版系統
 
 路加稱庇哩亞人比帖撒羅尼迦人「賢於」（更開明），理由不是他們天資更高，而是他們願意天天回到聖經裏核對所聽見的道。
 
-### 3. 未識之神的壇——處境化的起點 (17:16-23)
+### 3. 未識之神的壇——處境化的起點 （17:16-23）
 
 保羅「看見滿城都是偶像，就心裏著急」（17:16），但他沒有一上台就斥責雅典人的偶像崇拜，而是先承認「你們凡事很敬畏鬼神」，再從他們自己立的「未識之神」的壇說起。切入點可以借自對方的處境，但福音的內容絕不因此稀釋。
 
-### 4. 從創造到掌管：保羅的神論 (17:24-29)
+### 4. 從創造到掌管：保羅的神論 （17:24-29）
 
 | 保羅的宣告 | 對照的錯誤觀念 |
 |----------------------------------|----------------------------------------------|
 | 創造宇宙萬物、是天地的主 | 神明只是眾神之一（多神論） |
-| 不住人手所造的殿，不用人手服侍 | 神需要人的祭物供養（異教獻祭觀） |
+| 不住人手所造的殿，不用人手服事 | 神需要人的祭物供養（異教獻祭觀） |
 | 將生命、氣息、萬物賜給萬人 | 人自足自立，不倚靠神 |
-| 從一人造出萬族，定準年限疆界 | 各族各有各的神，彼此無關 |
+| 從一本造出萬族的人，定準年限疆界 | 各族各有各的神，彼此無關 |
 | 離我們各人不遠，我們在他裏面生活、動作、存留 | 神超然物外，與人無關（伊壁鳩魯式） |
 | 我們是神所生的，不當以偶像雕像代表神性 | 神與受造界同質、可用金銀石像代表（斯多亞／偶像崇拜式） |
 
 這一段神論，同時修正了伊壁鳩魯的「神明冷漠」與斯多亞的「泛神論」，也否定了雅典滿城偶像所代表的一切崇拜方式。
 
-### 5. 世人蒙昧無知的時候過去了 (17:30)
+### 5. 世人蒙昧無知的時候過去了 （17:30）
 
 「世人蒙昧無知的時候，神並不監察，如今卻吩咐各處的人都要悔改」——這句話截斷了雅典人「凡事敬畏鬼神卻不認識真神」的僥倖：無知或許曾被忽略，但福音一到，悔改就成了無可迴避的呼召，「各處的人」，沒有例外。
 
-### 6. 死人復活：可信的憑據，也是分水嶺 (17:31-34)
+### 6. 死人復活：可信的憑據，也是分水嶺 （17:31-34）
 
 | 反應 | 經文 | 內容 |
 |---------------------------|---------------------------|---------------------------|
@@ -166,15 +166,11 @@ publisher: 三書精讀出版系統
 | 拖延 | 17:32下 | 「我們再聽你講這個吧」——客氣地把福音無限期擱置 |
 | 相信 | 17:34 | 「有幾個人貼近他，信了主」，其中有亞略巴古的官丟尼修、婦人大馬哩 |
 
-保羅整篇演講唯一沒有妥協、也是聽眾唯一分裂的一句，正是「神叫他從死裏復活，給萬人做可信的憑據」——復活不是可有可無的裝飾，是整篇論證的頂點。
+保羅整篇演講唯一沒有妥協、也是聽眾唯一分裂的一句，正是「神叫他從死裏復活，給萬人作可信的憑據」——復活不是可有可無的裝飾，是整篇論證的頂點。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -196,47 +192,56 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, 徒17:11 注（CCEL, calcom37）
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟論亞略巴古一篇時強調，保羅在此示範了向完全不熟悉聖經的聽眾傳福音的方法——從普遍啟示（創造、護理、人被造的目的）講起，但絕不停留在普遍啟示；他仍然講到罪、講到悔改、講到基督的死而復活，因為唯獨特殊啟示——福音本身——才能救人。這是麥克阿瑟一貫的立場：自然神學可以是溝通的橋樑，卻永遠不能取代十字架的宣講。（gty.org，Acts 系列，論17:22-31）
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 19:1-4
-
-> 諸天述說神的榮耀，穹蒼傳揚他的手段。
-> 這日到那日發出言語，這夜到那夜傳出知識。
-> **無言無語，也無聲音可聽。**
-> 他的量帶通遍天下，他的言語傳到地極。
-
-### 詩篇 139:7-8
-
-> 我往哪裏去躲避你的靈？我往哪裏逃躲避你的面？
-> **我若升到天上，你在那裏；我若在陰間下榻，你也在那裏。**
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **「心裏著急」是屬靈的憤怒**：摩根指出，保羅「看見滿城都是偶像，就心裏著急」（17:16）不是知識分子面對異教文化的鄙夷，而是一種屬靈的憤怒與痛楚——他所看見的，不是可供研究的宗教現象，是無數本該敬拜真神的人，把敬拜獻給了假神。
-
-**三個場合，一個信息**：摩根留意到保羅在雅典經歷了三種場合的宣講——會堂裏與猶太人和虔敬的人辯論，市集上每日與路人談論，最後在亞略巴古正式陳詞。這不是三套不同的信息，而是同一個福音，逐步從私下的談論，推進到公開的、正式的宣告。
 
 **演講的三重遞進結構**：摩根將保羅在亞略巴古的演講拆解為三個遞進的宣告：
 
 > 「他的演講首先是關於神的宣告；其次是關於人與神之關係的宣告；第三，是關於基督地位的宣告，並以祂的復活作為印證。」
 
-**從對方的立足點出發，卻不停在那裏**：摩根形容整篇演講「是一篇從對方的立足點出發，帶著禮貌與清晰，最終宣告復活這偉大教義的信息」——保羅沒有向哲學讓步，卻也沒有讓對話還沒開始就已經結束。他借用雅典人自己的壇、自己的詩人，卻堅持把論證推向他們最不願意聽見的一句：死人復活。
-
-**分裂的回應，不是失敗的講道**：摩根提醒，譏誚、拖延、相信——這三種回應，正是真正的福音講道必然引出的結果。若聽眾清一色鼓掌附和，那多半代表信息已經被稀釋；亞略巴古的分裂，反倒證明保羅所傳的，觸及了聽眾無法迴避的真理。
+**從對方的立足點出發，卻不停在那裏**：摩根形容整篇演講「是一篇從對方的立足點出發，帶著禮貌與清晰，最終宣告復活這偉大教義的信息」——保羅沒有向哲學讓步，卻也沒有讓對話還沒開始就已經結束。他借用雅典人自己的壇、自己的詩人，卻堅持把論證推向他們最不願意聽見的一句：死人復活。譏誚、拖延、相信——這三種回應，正是真正的福音講道必然引出的結果；若聽眾清一色鼓掌附和，那多半代表信息已經被稀釋。亞略巴古的分裂，反倒證明保羅所傳的，觸及了聽眾無法迴避的真理。
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳17章釋經）
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟論亞略巴古一篇時強調，保羅在此示範了向完全不熟悉聖經的聽眾傳福音的方法——從普遍啟示（創造、護理、人被造的目的）講起，但絕不停留在普遍啟示；他仍然講到罪、講到悔改、講到基督的死而復活，因為唯獨特殊啟示——福音本身——才能救人。這是麥克阿瑟一貫的立場：自然界的啟示可以是溝通的橋樑，卻永遠不能取代十字架的宣講。（gty.org，Acts 系列，論17:22-31）
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 19:1-4
+
+> 諸天述說神的榮耀，穹蒼傳揚他的手段。 \
+> 這日到那日發出言語，這夜到那夜傳出知識。 \
+> **無言無語，也無聲音可聽。** \
+> 他的量帶通遍天下，他的言語傳到地極。
+
+### 詩篇 139:7-8
+
+> 我往哪裏去躲避你的靈？我往哪裏逃躲避你的面？ \
+> **我若升到天上，你在那裏；我若在陰間下榻，你也在那裏。**
+
+### This Is My Father's World（這是天父世界）
+
+> This is my Father's world, and to my listening ears \
+> All nature sings, and round me rings the music of the spheres. \
+> This is my Father's world: I rest me in the thought \
+> Of rocks and trees, of skies and seas; His hand the wonders wrought.
+
+*Maltbie D. Babcock（1858-1901）*
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：保羅沒有繞過雅典人的偶像與哲學，他走進去，指著那座「未識之神」的壇，把復活的基督放進去——傳福音的起點可以借用對方，終點永遠是十字架與復活。「未識之神的壇，不必砸掉，只需要指給人看——你們所不認識而敬拜的，我現在告訴你們。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：「他離我們各人不遠」（17:27），這句話貫穿整本聖經。神造人之後親自在園中與人同行（創3:8）；詩人問「我往哪裏去躲避你的靈？我往哪裏逃躲避你的面？」（詩139:7），答案是無處可逃，因為神從未遠離；雅典人在自己的哲學語言裏聽不見先知的聲音，但摩西五經、詩篇、先知書早已用不同的語言說了同一件事——祂是創造主，也是與人親近的主。保羅在亞略巴古，只是用希臘人聽得懂的話，重講了創世記第一章、詩篇139篇早已宣告的真理，再把它接到福音的頂點：這位創造主，如今藉復活的耶穌，向萬人發出可信的憑據。這條線一直通向啟示錄21:3——「神的帳幕在人間，他要與人同住」。
 
 老弟兄常把庇哩亞人與雅典人擺在一起對照，說這是聖經給查經班立的兩面鏡子：
 
@@ -245,35 +250,9 @@ publisher: 三書精讀出版系統
 | 庇哩亞人 | 甘心領受＋天天考查聖經 | 多人真信 |
 | 雅典人 | 只將新聞說說聽聽 | 只是好奇，多數止步於好奇 |
 
-老弟兄常說，查經班最怕的不是聽不懂，是把神的道當作又一則「新聞」——聽過就算，不曾天天回到經文裏核對。他把亞略巴古講道拆給大家看：保羅從創造講到掌管，從掌管講到人被造的目的，最後才落到悔改與復活——這條路線，正是整本聖經從創世記到啟示錄要走的路：神先叫人認識祂是誰，才叫人明白自己欠祂甚麼、又當如何回應祂。老弟兄提醒，「未識之神」的壇不是雅典獨有的——今天許多人心裏也立著一座這樣的壇，敬拜著他們自己都說不清楚的東西；福音要做的，不是砸掉那座壇，是指著它說：「你們所不認識而敬拜的，我現在告訴你們。」
+查經班最怕的不是聽不懂，是把神的道當作又一則「新聞」——聽過就算，不曾天天回到經文裏核對。老弟兄把亞略巴古講道拆給大家看：保羅從創造講到掌管，從掌管講到人被造的目的，最後才落到悔改與復活——這條路線，正是整本聖經從創世記到啟示錄要走的路：神先叫人認識祂是誰，才叫人明白自己欠祂甚麼、又當如何回應祂。「未識之神」的壇不是雅典獨有的——今天許多人心裏也立著一座這樣的壇，敬拜著他們自己都說不清楚的東西；福音要做的，不是砸掉那座壇，是指著它說：「你們所不認識而敬拜的，我現在告訴你們。」
 
 （參《約翰福音研讀》全書領受總綱：聖靈藉見證彰顯基督——保羅在雅典街頭的每一句話，都是聖靈藉他向那城的見證。）
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*This Is My Father's World*（這是天父世界）
-
-> This is my Father's world, and to my listening ears
-> All nature sings, and round me rings the music of the spheres.
-> This is my Father's world: I rest me in the thought
-> Of rocks and trees, of skies and seas; His hand the wonders wrought.
-
-**詩篇**：詩篇 19:1-4
-
-> 諸天述說神的榮耀，穹蒼傳揚他的手段。
-> 這日到那日發出言語，這夜到那夜傳出知識。
-> 無言無語，也無聲音可聽。
-> 他的量帶通遍天下，他的言語傳到地極。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：「他離我們各人不遠」（17:27），這句話貫穿整本聖經。神造人之後親自在園中與人同行（創3:8）；詩人問「我往哪裏去躲避你的靈？我往哪裏逃躲避你的面？」（詩139:7），答案是無處可逃，因為神從未遠離；先知在雅典人的哲學語言裏聽不見，但摩西五經、詩篇、先知書早已用不同的語言說了同一件事——祂是創造主，也是與人親近的主。保羅在亞略巴古，只是用希臘人聽得懂的話，重講了創世記第一章、詩篇139篇早已宣告的真理，再把它接到福音的頂點：這位創造主，如今藉復活的耶穌，向萬人發出可信的憑據。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -294,17 +273,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我聽見一句真道的時候，是像帖撒羅尼迦人一樣聽過就算，還是像庇哩亞人一樣拿去核對？
 - **一個行動**：找一個與你世界觀完全不同的人，這週嘗試找到一個誠懇的起點，把福音介紹給他，而不是先辯贏他。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：保羅沒有繞過雅典人的偶像與哲學，他走進去，指著那座「未識之神」的壇，把復活的基督放進去——傳福音的起點可以借用對方，終點永遠是十字架與復活。
-
-**貫通全經**：「他離我們各人不遠」（17:27）與詩篇139篇「我往哪裏逃躲避你的面」遙相呼應——神從創造之初就不遠離人；這條線一直通向啟示錄21:3「神的帳幕在人間，他要與人同住」。
-
-**無法迴避的問題**：「你今天聽見的道，是像新聞一樣聽過就算，還是像庇哩亞人一樣天天拿去核對？」
-
-> 「未識之神的壇，不必砸掉，只需要指給人看——你們所不認識而敬拜的，我現在告訴你們。」
+**你看見耶穌了嗎？** 亞略巴古的講道，直到最後一句才點出那位「所設立的人」——但整篇講道其實都在講祂：創造宇宙的是祂（約1:3），賜生命氣息的是祂，離我們各人不遠的是祂，而神叫祂從死裏復活，把「未識之神」變成了可以認識、必須回應的主。雅典人立壇承認自己的無知；耶穌的復活，正是神給這無知的回答。
 
 ---
 
@@ -314,22 +283,16 @@ publisher: 三書精讀出版系統
 
 1. **本著聖經**：保羅在帖撒羅尼迦「本著聖經」與人辯論（17:2-3）。你向人講述信仰時，是憑感受、憑經歷，還是也懂得回到經文本身？
 
-2. **庇哩亞式的查經**：你有沒有一個像庇哩亞人一樣「天天考查聖經」的習慣，而不是被動接受講台上的話？
+2. **未識之神的壇**：你自己心裏，有沒有一座說不清楚在敬拜甚麼的壇？
 
-3. **心裏著急**：你上一次因為看見身邊人敬拜錯誤的對象而「心裏著急」，是甚麼時候？還是你早已對此麻木？
-
-4. **找到誠懇的起點**：向一個世界觀與你完全不同的人傳福音時，你是先否定對方，還是願意先找一個雙方都能理解的起點？
-
-5. **未識之神的壇**：你自己心裏，有沒有一座說不清楚在敬拜甚麼的壇？
-
-6. **復活這道分水嶺**：聽見「死人復活」，你是譏誚的、拖延的，還是像丟尼修、大馬哩一樣，願意「貼近」而相信？
+3. **復活這道分水嶺**：聽見「死人復活」，你是譏誚的、拖延的，還是像丟尼修、大馬哩一樣，願意「貼近」而相信？
 
 ### 禱告回應
 
-> 主啊，求你賜給我像保羅一樣「心裏著急」的心腸，看見身邊人敬拜錯誤的對象，不是漠然，而是切切為他們禱告。
-> 求你也賜給我庇哩亞人那樣的心志，天天考查你的話語，不被動接受，也不隨意懷疑。
-> 求你教我在與不同世界觀的人對話時，找到誠懇的起點，卻不因此妥協真理。
-> 願我今天所信的，不是一座「未識之神」的壇，乃是那位藉耶穌基督的復活，向萬人顯明自己的活神。
+> 主啊，求你賜給我像保羅一樣「心裏著急」的心腸，看見身邊人敬拜錯誤的對象，不是漠然，而是切切為他們禱告。 \
+> 求你也賜給我庇哩亞人那樣的心志，天天考查你的話語，不被動接受，也不隨意懷疑。 \
+> 求你教我在與不同世界觀的人對話時，找到誠懇的起點，卻不因此妥協真理。 \
+> 願我今天所信的，不是一座「未識之神」的壇，乃是那位藉耶穌基督的復活，向萬人顯明自己的活神。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

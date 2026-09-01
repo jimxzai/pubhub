@@ -24,17 +24,17 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **All Hail the Power of Jesus' Name**
+> **All Hail the Power of Jesus' Name** \
 > *Edward Perronet, 1779*
 >
-> All hail the power of Jesus' name!
-> Let angels prostrate fall;
-> Bring forth the royal diadem,
+> All hail the power of Jesus' name! \
+> Let angels prostrate fall; \
+> Bring forth the royal diadem, \
 > And crown Him Lord of all.
 >
-> 一切尊榮都當歸給耶穌的名，
-> 願眾天使俯伏敬拜；
-> 快將那榮耀的冠冕拿來，
+> 一切尊榮都當歸給耶穌的名， \
+> 願眾天使俯伏敬拜； \
+> 快將那榮耀的冠冕拿來， \
 > 加冕祂為萬有之主。
 
 ---
@@ -53,17 +53,17 @@ publisher: 三書精讀出版系統
 
 > ^22^摩西曾說：『主－神要從你們弟兄中間給你們興起一位先知像我，凡他向你們所說的，你們都要聽從。^23^凡不聽從那先知的，必要從民中全然滅絕。』
 
-### English — ESV
+### English — NASB
 
-> ^6^But Peter said, "I have no silver and gold, but what I do have I give to you. In the name of Jesus Christ of Nazareth, rise up and walk!"
+> ^6^But Peter said, "I do not possess silver and gold, but what I do have I give to you: In the name of Jesus Christ the Nazarene—walk!"
 
-> ^15^and you killed the Author of life, whom God raised from the dead. To this we are witnesses. ^16^And his name—by faith in his name—has made this man strong whom you see and know, and the faith that is through Jesus has given the man this perfect health in the presence of you all.
+> ^15^but put to death the Prince of life, *the one* whom God raised from the dead, *a fact* to which we are witnesses. ^16^And on the basis of faith in His name, *it is* the name of Jesus which has strengthened this man whom you see and know; and the faith which *comes* through Him has given him this perfect health in the presence of you all.
 
-> ^19^Repent therefore, and turn back, that your sins may be blotted out, ^20^that times of refreshing may come from the presence of the Lord, and that he may send the Christ appointed for you, Jesus,
+> ^19^Therefore repent and return, so that your sins may be wiped away, ^20^in order that times of refreshing may come from the presence of the Lord, and that He may send Jesus, the Christ appointed for you,
 
-> ^22^Moses said, 'The Lord God will raise up for you a prophet like me from your brothers. You shall listen to him in whatever he tells you.'
+> ^22^Moses said, 'THE LORD GOD WILL RAISE UP FOR YOU A PROPHET LIKE ME FROM YOUR BRETHREN; TO HIM YOU SHALL GIVE HEED to everything He says to you. ^23^And it will be that every soul that does not heed that prophet shall be utterly destroyed from among the people.'
 
-**經文核對**：[ai-eden.com/bible/acts/3](https://www.ai-eden.com/bible/acts/3?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/3](https://www.ai-eden.com/bible/acts/3?t=CUV,NASB&cols=2)
 
 ---
 
@@ -88,7 +88,7 @@ publisher: 三書精讀出版系統
 
 彼得在聖殿的這篇短講（3:12-26），與五旬節那篇（2:14-40）共享同一個骨架——學者稱之為「使徒的宣講」（kerygma）：
 
-| 步驟 | 五旬節講道 (2:14-40) | 聖殿講道 (3:12-26) |
+| 步驟 | 五旬節講道 （2:14-40） | 聖殿講道 （3:12-26） |
 |----------|-----------------------------------|-----------------------------------|
 | 指出神蹟/現象 | 方言與聖靈降臨 | 瘸腿的人得醫治 |
 | 澄清誤解 | 不是喝醉了 | 不是憑我們自己的能力和虔誠 |
@@ -119,11 +119,11 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 這名的能力——不是咒語，是位格
 
-「奉拿撒勒人耶穌基督的名，叫你起來行走」（3:6）；「因信他的名，他的名便叫……這人健壯了」（3:16）。「這名」在本章出現兩次，都不是一句可以複製的公式，而是指向那位活著、復活的耶穌本身——名字背後站著的位格,才是醫治的來源。
+「奉拿撒勒人耶穌基督的名，叫你起來行走」（3:6）；「因信他的名，他的名便叫……這人健壯了」（3:16）。「這名」在本章出現兩次，都不是一句可以複製的公式，而是指向那位活著、復活的耶穌本身——名字背後站著的位格，才是醫治的來源。
 
 ### 2. 生命的主，被棄絕卻復活（3:13-15）
 
@@ -131,7 +131,7 @@ publisher: 三書精讀出版系統
 
 ### 3. 出於無知，卻在神的計劃中（3:17-18）
 
-「我知道你們做這事是出於不知」（3:17）——彼得沒有把百姓的罪輕輕放過，但同時指出，人的無知並沒有攔阻神藉先知早已宣告的計劃（3:18）成就。人的悖逆與神的預定，並不互相取消，反而在十字架上同時成就。
+「我曉得你們做這事是出於不知」（3:17）——彼得沒有把百姓的罪輕輕放過，但同時指出，人的無知並沒有攔阻神藉先知早已宣告的計劃（3:18）成就。人的悖逆與神的預定，並不互相取消，反而在十字架上同時成就。
 
 ### 4. 悔改歸正，罪得塗抹（3:19）
 
@@ -148,10 +148,6 @@ publisher: 三書精讀出版系統
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -173,9 +169,17 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, Vol. 1（徒3:12-16注），CCEL
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**彼得沒有可誇的，只有可給的**：「金銀我都沒有」不是道歉，也不是自貶身價的推辭——這只是單純陳述一個事實，緊接著立刻轉為行動：「但我把我所有的給你」。摩根用了一句極尖銳的話，總結金銀與彼得所給之物之間的落差：
+
+> 「比起彼得所能給的，金銀不過是最粗劣的渣滓。」（"By comparison with what Peter had to bestow, silver and gold are the veriest dross."）
+
+摩根進一步指出，彼得給那瘸腿人的，不是延續他乞討生活的施捨，而是終結他乞討需要的醫治能力；這正是教會使命的縮影——不是讓人在困境裏活得舒服一點，而是給人脫離困境的真實能力。神蹟發生後，路加立刻記下的是一篇講道（3:12-26），不是群眾的歡呼慶祝——神蹟不是終點，而是引人聽見福音宣講的開端。
+
+> 出處：G. Campbell Morgan, *Searchlights from the Word*（論使徒行傳3章）。
+
+### 麥克阿瑟 (John MacArthur)
 
 > "You put to death the Prince of life. That's a paradox isn't it?... An archēgos is a pioneer, a leader, a beginner, an originator, an author of life."
 >
@@ -185,7 +189,11 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 113:7
+
+> 他從灰塵裏抬舉貧寒人，從糞堆中提拔窮乏人。
 
 ### 以賽亞書 52:13
 
@@ -195,32 +203,28 @@ publisher: 三書精讀出版系統
 
 ### 詩篇 118:22-24
 
-> 匠人所棄的石頭，已成了房角的頭塊石頭。這是耶和華所做的，在我們眼中看為稀奇。這是耶和華所定的日子，我們在其中要高興歡喜。
+> 匠人所棄的石頭，已成了房角的頭塊石頭。這是耶和華所做的，在我們眼中看為希奇。這是耶和華所定的日子，我們在其中要高興歡喜。
 
 同一個「棄絕—高舉」的模式，在下一章彼得會直接引用這節經文指著耶穌說（4:11）。此刻先聽見這回聲：那生命的主，正是那塊被棄絕、卻成了房角頭塊石頭的石頭。
 
+### Jesus! The Name High Over All（耶穌！超乎萬名之上）
+
+> Jesus! the name high over all, \
+> In hell, or earth, or sky; \
+> Angels and men before it fall, \
+> And devils fear and fly.
+
+*Charles Wesley, 1749*
+
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+**精義一句話**：彼得沒有金銀，卻把遠超金銀的給了瘸腿的人——「這名」，那被棄絕、卻被神高舉為生命之主的耶穌基督之名。「金銀我都沒有，但我把我所有的給你——教會最大的貧乏，從來不是缺錢，是缺了這名。」
 
-**彼得沒有可誇的，只有可給的**：摩根提醒讀者，「金銀我都沒有」不是道歉，也不是自貶身價的推辭——這只是單純陳述一個事實，緊接著立刻轉為行動：「但我把我所有的給你」。彼得沒有為自己的貧窮感到虧欠，因為他知道自己身上有的，遠比金銀貴重。
+### 全經連線 (Tracing It Through Scripture)
 
-**「渣滓」的對比**：摩根用了一句極尖銳的話，總結金銀與彼得所給之物之間的落差：
-
-> 「比起彼得所能給的，金銀不過是最粗劣的渣滓。」（"By comparison with what Peter had to bestow, silver and gold are the veriest dross."）
-> — G. Campbell Morgan, *Searchlights from the Word*（論使徒行傳3章）
-
-**給的不是憐憫，是能力**：摩根進一步指出，彼得給那瘸腿人的，不是延續他乞討生活的施捨，而是終結他乞討需要的醫治能力；這正是教會使命的縮影——不是讓人在困境裏活得舒服一點，而是給人脫離困境的真實能力。
-
-**「奉……的名」不是咒語**：摩根強調，彼得清楚說明「叫你起來行走」的能力來源，不是彼得自己的話術或權柄，而是「拿撒勒人耶穌基督的名」——這名字背後是那位復活的位格，不是一句可以隨口複製的咒語公式。
-
-**焦點在傳道，不在神蹟本身**：摩根提醒讀者，神蹟發生後，路加立刻記下的是一篇講道（3:12-26），不是群眾的歡呼慶祝。這正顯示路加記載此事的用意：神蹟不是終點，而是引人聽見福音宣講的開端。
-
-> 出處：G. Campbell Morgan, *Searchlights from the Word*（論使徒行傳3章）。
-
-### 老弟兄查經洞見 (Thursday Class Insights)
+鑰匙：申命記18:15-19早已應許「神要從你們弟兄中間給你們興起一位先知像我」，並嚴厲警告不聽從的必被剪除；彼得在3:22-23把這個應許直接釘在耶穌身上——摩西五經的懸念，如今在使徒的講道裏兌現。另一條線：以賽亞的僕人之歌「我的僕人行事必有智慧，必被高舉上升」（賽52:13），與彼得口中「你們殺了那生命的主，神卻叫他從死裏復活了」（3:15）遙相呼應——僕人受苦，僕人被高舉。這條「棄絕—高舉」的線，下一章還會再現一次（4:11，詩118:22）。
 
 老弟兄看這一章，喜歡先問一句：彼得給了那瘸腿人一句話，這句話裏藏著幾個稱呼？把它們列出來，整本聖經的線就出來了：
 
@@ -232,32 +236,7 @@ publisher: 三書精讀出版系統
 | 那位先知 | 3:22 | 申18:15-19 |
 | 亞伯拉罕的後裔 | 3:25 | 創22:18 |
 
-老弟兄常說，這五個稱呼合起來，就是一整本舊約指著同一位。彼得不是在講一個新的宗教，他是在宣告：舊約所有的伏筆，這一刻全部兌現在拿撒勒人耶穌身上。「金銀我都沒有」這句話，也常被老弟兄拿來提醒查經班：教會最大的貧乏，從來不是缺錢，是缺了「這名」可以給人。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Jesus! The Name High Over All*（耶穌！超乎萬名之上）
-
-> Jesus! the name high over all,
-> In hell, or earth, or sky;
-> Angels and men before it fall,
-> And devils fear and fly.
-
-*Charles Wesley, 1749*
-
-**詩篇**：詩篇 113:7
-
-> 他從灰塵裏抬舉貧寒人，從糞堆中提拔窮乏人。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：申命記18:15-19早已應許「神要從你們弟兄中間給你們興起一位先知像我」，並嚴厲警告不聽從的必被剪除；彼得在3:22-23把這個應許直接釘在耶穌身上——摩西五經的懸念，如今在使徒的講道裏兌現。另一條線：以賽亞的僕人之歌「我的僕人行事必有智慧，必被高舉上升」（賽52:13），與彼得口中「你們殺了那生命的主，神卻叫他從死裏復活了」（3:15）遙相呼應——僕人受苦，僕人被高舉。這條「棄絕—高舉」的線，下一章還會再現一次（4:11，詩118:22）。
+這五個稱呼合起來，就是一整本舊約指著同一位。彼得不是在講一個新的宗教，他是在宣告：舊約所有的伏筆，這一刻全部兌現在拿撒勒人耶穌身上。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -278,17 +257,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我遇見有需要的人時，我給出去的，是同情、金錢，還是「這名」？
 - **一個行動**：這週向一位有需要的人，不只給出物質的幫助，也清楚說出這幫助的來源——耶穌基督的名。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：彼得沒有金銀，卻把遠超金銀的給了瘸腿的人——「這名」，那被棄絕、卻被神高舉為生命之主的耶穌基督之名。
-
-**貫通全經**：以賽亞書52:13「我的僕人……必被高舉上升」，與彼得的宣告「你們殺了那生命的主，神卻叫他從死裏復活了」（3:15）遙相呼應——僕人受苦、僕人被高舉，這條線從先知書直達使徒行傳。
-
-**無法迴避的問題**：「摩西所應許的那位先知，如今已經來過——祂向你說的話，你聽從了沒有？」
-
-> 「金銀我都沒有，但我把我所有的給你——教會最大的貧乏，從來不是缺錢，是缺了這名。」
+**你看見耶穌了嗎？** 一個已經升天、不再說話、不再動手的耶穌，藉著兩個漁夫的一句話，讓一個瘸了四十年的人起來行走——這正是升天之後的祂仍在作工的樣式：祂不再親自出手，卻藉著祂的名、祂的教會，做著與祂在世時一模一樣的事。
 
 ---
 
@@ -296,24 +265,20 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **你手上「有的」是甚麼？** 面對一個有需要的人，你第一時間想到給出的，是財物、同情，還是「拿撒勒人耶穌基督的名」？
+1. **這名不是咒語**：你求告耶穌的名，是把它當作一句可以隨口唸出的公式，還是真實信靠那位活著、復活的主？
 
-2. **這名不是咒語**：你求告耶穌的名，是把它當作一句可以隨口唸出的公式，還是真實信靠那位活著、復活的主？
+2. **無知不是藉口**：彼得說百姓的悖逆「出於不知」——你生命中有沒有用「不知道」為自己的悖逆開脫的地方？
 
-3. **無知不是藉口**：彼得說百姓的悖逆「出於不知」——你生命中有沒有用「不知道」為自己的悖逆開脫的地方？
-
-4. **悔改歸正**：「悔改歸正」不只是後悔，是轉身而行——你有沒有真正轉身，離開某個一直知道卻遲遲不肯離棄的方向？
-
-5. **聽從那位先知**：申18:19說不聽從那先知的必被剪除——耶穌向你所說的話裏，有沒有一句是你聽見了、卻遲遲不肯聽從的？
+3. **悔改歸正**：「悔改歸正」不只是後悔，是轉身而行——你有沒有真正轉身，離開某個一直知道卻遲遲不肯離棄的方向？
 
 ### 禱告回應
 
-> 主耶穌，你是那生命的主，被人棄絕，卻被神高舉。
-> 我承認我常常倚靠自己的資源，忘記我真正有的，是你的名。
-> 求你讓我像彼得一樣，坦然無懼地把這名給出去，
-> 不是給人一句咒語，而是指向你這位又真又活的主。
-> 求你光照我心中出於無知的悖逆，
-> 幫助我真正轉身悔改，聽從你向我所說的每一句話。
+> 主耶穌，你是那生命的主，被人棄絕，卻被神高舉。 \
+> 我承認我常常倚靠自己的資源，忘記我真正有的，是你的名。 \
+> 求你讓我像彼得一樣，坦然無懼地把這名給出去， \
+> 不是給人一句咒語，而是指向你這位又真又活的主。 \
+> 求你光照我心中出於無知的悖逆， \
+> 幫助我真正轉身悔改，聽從你向我所說的每一句話。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

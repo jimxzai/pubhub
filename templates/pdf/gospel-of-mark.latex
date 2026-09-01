@@ -240,6 +240,10 @@
 \fancyhead[LE,RO]{\small\thepage}
 \fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
 \fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+% Running heads carry the chapter/section title only — the chapter counter also
+% counts the orientation chapters, so "Chapter 16. 第五章" was misleading.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\headrule}{\hbox to\headwidth{\color{ChapterRed}\leaders\hrule height \headrulewidth\hfill}}
 \fancypagestyle{plain}{%
@@ -251,6 +255,10 @@
 %% ============================================
 %% SECTION STYLING (manual, without titlesec)
 %% ============================================
+% No LaTeX numbering at all: the book numbers its own chapters (第五章); the counter
+% also counts the orientation chapters, so "Chapter 16" above 第五章 contradicted it.
+% (ported from gospel-of-john.latex, 2026-08-31)
+\setcounter{secnumdepth}{-1}
 \makeatletter
 % Chapter styling
 \def\@makechapterhead#1{%
@@ -445,7 +453,7 @@ $endif$
 
 \vspace{0.24cm}
 {\fontsize{15}{18}\selectfont\itshape\color{ChapterRed} Υἱὸς Θεοῦ}\quad
-{\footnotesize\scshape\color{CommentaryBrown} ``Son of God''}\quad
+{\footnotesize\scshape\color{CommentaryBrown} “Son of God”}\quad
 {\footnotesize\bfseries\color{JesusRed} 神的兒子}
 
 \vfill
@@ -456,7 +464,7 @@ $endif$
 {\footnotesize\color{JesusRed}
 「神的兒子，耶穌基督福音的起頭。」}\\[0.10em]
 {\scriptsize\itshape\color{TextGray}
-``The beginning of the gospel of Jesus Christ, the Son of God.''}\\[0.10em]
+“The beginning of the gospel of Jesus Christ, the Son of God.”}\\[0.10em]
 {\scriptsize\color{ChapterRed} 馬可福音 1:1 \textperiodcentered\ Mark 1:1}
 \vspace{0.15cm}
 \end{minipage}}
@@ -497,7 +505,7 @@ The beginning of the gospel of Jesus Christ, the \textbf{\color{JesusRed}Son of 
 
 \vspace{0.35cm}
 {\small\color{TextGray} 不是「立刻」，是「兒子」——全書的鑰匙在第一句話裏\\
-\textit{Not ``immediately'' — ``Son.'' The key to the whole book is in the first sentence.}}
+\textit{Not “immediately” — “Son.” The key to the whole book is in the first sentence.}}
 
 \vspace{0.30cm}
 {\small
@@ -526,8 +534,8 @@ The beginning of the gospel of Jesus Christ, the \textbf{\color{JesusRed}Son of 
 先看見第一句話的「兒子」，才能看懂後面每一次「服事」的分量。\\[0.5em]
 \textit{\footnotesize
 Moses was a servant in God's house; Christ is a Son over God's house (Heb 3:5-6).\\
-If all you remember is Mark's breathless ``immediately,'' you have only read half the book.\\
-See the ``Son'' in the first sentence first — then every act of service that follows will carry its true weight.}
+If all you remember is Mark's breathless “immediately,” you have only read half the book.\\
+See the “Son” in the first sentence first — then every act of service that follows will carry its true weight.}
 \end{minipage}
 
 \vfill
@@ -568,8 +576,8 @@ See the ``Son'' in the first sentence first — then every act of service that f
 \small\itshape\color{CommentaryBrown}
 因為人子來，並不是要受人的服事，\\
 乃是要服事人，並且要捨命作多人的贖價。\\[0.15em]
-\footnotesize For even the Son of Man came not to be served\\
-but to serve, and to give his life as a ransom for many.\\
+\footnotesize For even the Son of Man did not come to be served,\\
+but to serve, and to give His life a ransom for many.\\
 — Mark 10:45
 \vspace{0.3cm}
 \end{minipage}
@@ -774,10 +782,10 @@ All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
 中文：和合本 (CUV)，經文核對 ai-eden.com/bible/mark\\
-English: English Standard Version (ESV)\\[0.8em]
+English: New American Standard Bible (NASB 1995)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 老弟兄查經法 (Reading with the Method)\\
+\textbullet\ 老弟兄查經法 (Reading with the Elder Brother)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
 \textbullet\ G. Campbell Morgan - The Gospel According to Mark\\[0.8em]
 
@@ -793,6 +801,9 @@ $endif$
 % \color{ChapterRed}; restore immediately after so chapter/appendix heads stay red.
 \pagestyle{fancy}
 \definecolor{ChapterRed}{RGB}{25,55,95}
+% tocdepth 1 = chapters + their H2 sections. Subsection entries ran this TOC to
+% 32 pages (9% of the book). Same decision as gospel-of-john / 2-peter.
+\setcounter{tocdepth}{1}
 \tableofcontents
 \definecolor{ChapterRed}{RGB}{139,35,35}
 \cleardoublepage
@@ -813,8 +824,8 @@ $body$
 %% ============================================
 %% APPENDIX A: SCRIPTURE INDEX
 %% ============================================
-\chapter*{附錄一：經文索引 (Appendix A: Scripture Index)}
-\addcontentsline{toc}{chapter}{附錄一：經文索引 (Appendix A: Scripture Index)}
+\chapter*{附錄三：舊約與馬可福音對照 (Appendix C: OT–Mark Correspondences)}
+\addcontentsline{toc}{chapter}{附錄三：舊約與馬可福音對照 (Appendix C: OT–Mark Correspondences)}
 \markboth{}{}
 
 \noindent 本索引收錄本書研讀中實際引用、且在馬可福音經文本身有直接呼應或引述關係的舊約與新約經文，依書卷順序排列。
@@ -880,11 +891,11 @@ $body$
 約18:2 & 客西馬尼是耶穌「常和門徒聚集的地方」——補充可14:32 的背景 \\
 羅馬書 5:12-19 & 「因一人的悖逆，眾人成為罪人；因一人的順從，眾人也成為義」——呼應可1:12-13 末後亞當的得勝 \\
 哥林多前書 12:3 & 「若不是被聖靈感動的，也沒有能說耶穌是主的」——呼應可8:29 彼得認信的屬靈根源 \\
-哥林多前書 15:45 & 「末後的亞當成了叫人活的靈」——可1:13；10:45 僕人基督得勝與捨命的神學根據 \\
-腓立比書 2:6-8 & 「反倒虛己，取了奴僕的形像……存心順服，以至於死」——幾乎是全卷馬可福音的神學提要 \\
+哥林多前書 15:45 & 「末後的亞當成了叫人活的靈」——可1:13；10:45 僕人基督得勝與捨命的聖經根據 \\
+腓立比書 2:6-8 & 「反倒虛己，取了奴僕的形像……存心順服，以至於死」——幾乎是全卷馬可福音的要義 \\
 希伯來書 1:1-2 & 「這末世藉著他兒子曉諭我們」——與可1:1「神的兒子」序言呼應 \\
 希伯來書 3:5-6 & 摩西為僕人在神家盡忠；基督為兒子治理神的家——先做兒子才能作僕人，可1:1的關鍵注腳 \\
-希伯來書 4:15 & 「祂也曾凡事受過試探，與我們一樣，只是他沒有犯罪」——可1:13 曠野試探的神學根據 \\
+希伯來書 4:15 & 「祂也曾凡事受過試探，與我們一樣，只是他沒有犯罪」——可1:13 曠野試探的聖經根據 \\
 希伯來書 10:19-20 & 又新又活的路，藉著祂的身體開的——與可15:38 聖殿幔子裂開呼應 \\
 彼得前書 2:21-25 & 「基督也為你們受過苦，給你們留下榜樣」——呼應可8:34 背十字架的呼召 \\
 啟示錄 5:6 & 「羔羊站立，像是被殺過的」——與可10:45 呼應同一救贖羔羊圖畫 \\
@@ -897,8 +908,8 @@ $body$
 %% ============================================
 %% APPENDIX B: KEY THEMES INDEX
 %% ============================================
-\chapter*{附錄二：主題索引 (Appendix B: Key Themes Index)}
-\addcontentsline{toc}{chapter}{附錄二：主題索引 (Appendix B: Key Themes Index)}
+\chapter*{附錄四：主題索引 (Appendix D: Key Themes Index)}
+\addcontentsline{toc}{chapter}{附錄四：主題索引 (Appendix D: Key Themes Index)}
 \markboth{}{}
 
 \section*{基督論 Christology}
@@ -969,44 +980,42 @@ $body$
 %% ============================================
 %% APPENDIX C: REFERENCES
 %% ============================================
-\chapter*{附錄三：參考資料 (Appendix C: References)}
-\addcontentsline{toc}{chapter}{附錄三：參考資料 (Appendix C: References)}
+\chapter*{附錄五：參考書目 (Appendix E: Bibliography)}
+\addcontentsline{toc}{chapter}{附錄五：參考書目 (Appendix E: Bibliography)}
 \markboth{}{}
 
-\noindent 本書「歷代注疏」與「三大資源深度整合」各節所引用的注釋家與著作如下，依時代排列。馬可福音並無獨立流傳的教父時期逐節注釋，故教父引文均取自屈梭多模對馬太福音平行經文的講道。
+\noindent 本書「歷代注疏」一節所引用的注釋家與著作如下（各條的逐字查證狀態，見〈附錄一：引用出處總表〉），依時代排列。馬可福音並無獨立流傳的教父時期逐節注釋，故教父引文均取自屈梭多模對馬太福音平行經文的講道。
 
 \section*{教父時期 Patristic Era}
 
 \begin{itemize}
-\item Chrysostom, John (屈梭多模, c. 349--407). \textit{Homilies on the Gospel of Matthew}. NPNF1-10. （引用馬太平行經文以補足馬可福音之教父見證）
+\item Chrysostom, John (屈梭多模, c. 349–407). \textit{Homilies on the Gospel of Matthew}. NPNF1-10. （引用馬太平行經文以補足馬可福音之教父見證）
 \end{itemize}
 
 \section*{改教與改革宗時期 Reformation Era}
 
 \begin{itemize}
-\item Calvin, John (加爾文, 1509--1564). \textit{Commentary on a Harmony of the Evangelists}.
+\item Calvin, John (加爾文, 1509–1564). \textit{Commentary on a Harmony of the Evangelists}.
 \end{itemize}
 
 \section*{近代與當代釋經 Modern \& Contemporary Commentary}
 
 \begin{itemize}
-\item Morgan, G. Campbell (1863--1945). \textit{The Gospel According to Mark}. 1927.
-\item MacArthur, John (b. 1939). \textit{The MacArthur New Testament Commentary: Mark 1--8, 9--16}. Chicago: Moody Publishers. \\ 講道系列見 gty.org，本書引用之編號（如 41-3, 41-45）對應其講道序號。
-\item Sproul, R.C. \textit{Mark: An Expositional Commentary}.
+\item Morgan, G. Campbell (1863–1945). \textit{The Gospel According to Mark}. 1927.
+\item MacArthur, John (b. 1939). \textit{The MacArthur New Testament Commentary: Mark 1–8, 9–16}. Chicago: Moody Publishers. \\ 講道系列見 gty.org，本書引用之編號（如 41-3, 41-45）對應其講道序號。
 \end{itemize}
 
 \section*{中文查經資源 Chinese-Language Bible Study Resources}
 
 \begin{itemize}
-\item 老弟兄查經法（Reading with the Method）。整合於本書「老弟兄查經法」與「老弟兄查經．深讀」各節。
-\item 沈保羅牧師（Pastor Shen）。華人處境洞見，見 ai-eden.com 馬可福音研讀。
+\item 老弟兄查經法（Reading with the Elder Brother）。整合於本書「老弟兄查經」一節。
 \end{itemize}
 
 \section*{聖經版本與經文核對 Bible Versions \& Cross-Reference}
 
 \begin{itemize}
 \item 中文：和合本 (Chinese Union Version, CUV)，逐章經文核對 ai-eden.com/bible/mark 之和合本 (CUV) 文字
-\item English: English Standard Version (ESV)
+\item English: New American Standard Bible (NASB 1995)
 \item 逐章經文核對：ai-eden.com/bible/mark
 \item 原文參考：Nestle-Aland 28th Edition (NA28); UBS Greek New Testament 5th Edition
 \end{itemize}
@@ -1016,8 +1025,8 @@ $body$
 %% ============================================
 %% APPENDIX D: ABOUT RED LETTER BIBLE
 %% ============================================
-\chapter*{附錄四：紅字聖經說明 (Appendix D: About the Red Letter Format)}
-\addcontentsline{toc}{chapter}{附錄四：紅字聖經說明 (Appendix D: About the Red Letter Format)}
+\chapter*{附錄六：紅字聖經說明 (Appendix F: About the Red Letter Format)}
+\addcontentsline{toc}{chapter}{附錄六：紅字聖經說明 (Appendix F: About the Red Letter Format)}
 \markboth{}{}
 
 \section*{甚麼是紅字聖經？}
@@ -1054,8 +1063,8 @@ $body$
 %% ============================================
 %% APPENDIX E: FOUR GOSPELS DISTINCTIVES
 %% ============================================
-\chapter*{附錄五：馬可福音在四福音中的獨特性 (Appendix E: Mark Among the Four Gospels)}
-\addcontentsline{toc}{chapter}{附錄五：馬可福音在四福音中的獨特性 (Appendix E: Mark Among the Four Gospels)}
+\chapter*{附錄七：馬可福音在四福音中的獨特性 (Appendix G: Mark Among the Four Gospels)}
+\addcontentsline{toc}{chapter}{附錄七：馬可福音在四福音中的獨特性 (Appendix G: Mark Among the Four Gospels)}
 \markboth{}{}
 
 \section*{四福音四活物——四個角度寫同一位耶穌}
@@ -1100,8 +1109,8 @@ $body$
 %% ============================================
 %% APPENDIX F: THE MESSIANIC SECRET AND SERVANT SIGNS
 %% ============================================
-\chapter*{附錄六：馬可福音的彌賽亞秘密與僕人記號 (Appendix F: The Messianic Secret and Servant Signs)}
-\addcontentsline{toc}{chapter}{附錄六：馬可福音的彌賽亞秘密與僕人記號 (Appendix F: The Messianic Secret and Servant Signs)}
+\chapter*{附錄八：馬可福音的彌賽亞秘密與僕人記號 (Appendix H: The Messianic Secret and Servant Signs)}
+\addcontentsline{toc}{chapter}{附錄八：馬可福音的彌賽亞秘密與僕人記號 (Appendix H: The Messianic Secret and Servant Signs)}
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
@@ -1182,8 +1191,8 @@ $body$
 %% ============================================
 %% APPENDIX G: PSALMS & OT MESSIANIC PROPHECIES
 %% ============================================
-\chapter*{附錄七：詩篇與舊約彌賽亞預言 (Appendix G: Psalms \& OT Messianic Prophecies)}
-\addcontentsline{toc}{chapter}{附錄七：詩篇與舊約彌賽亞預言 (Appendix G: Psalms \& OT Messianic Prophecies)}
+\chapter*{附錄九：詩篇與舊約彌賽亞預言 (Appendix I: Psalms \& OT Messianic Prophecies)}
+\addcontentsline{toc}{chapter}{附錄九：詩篇與舊約彌賽亞預言 (Appendix I: Psalms \& OT Messianic Prophecies)}
 \markboth{}{}
 
 \noindent 以下所列，均為馬可福音經文\textbf{明文引用}的舊約預言，依馬可福音章節順序排列——不是泛泛的相似，而是馬可或耶穌自己親口指明的應驗關係。
@@ -1224,8 +1233,8 @@ $body$
 %% ============================================
 %% APPENDIX H: GREEK WORD GLOSSARY
 %% ============================================
-\chapter*{附錄八：希臘文原文詞彙表 (Appendix H: Greek Word Glossary)}
-\addcontentsline{toc}{chapter}{附錄八：希臘文原文詞彙表 (Appendix H: Greek Word Glossary)}
+\chapter*{附錄十：希臘文原文詞彙表 (Appendix J: Greek Word Glossary)}
+\addcontentsline{toc}{chapter}{附錄十：希臘文原文詞彙表 (Appendix J: Greek Word Glossary)}
 \markboth{}{}
 
 \noindent 本表彙整全書各章「原文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
@@ -1260,7 +1269,7 @@ $body$
 κράβαττος & krabattos & 褥子 & 2:4, 9, 11-12 \\
 κυνάρια & kynaria & 小狗 & 7:27-28，家中飼養的小狗，語氣溫和 \\
 λεγιών & legiōn & 群、羅馬軍團 & 5:9，一個軍團可達六千人 \\
-λύτρον ἀντὶ πολλῶν & lytron anti pollōn & 作多人的贖價 & 10:45，全書神學核心 \\
+λύτρον ἀντὶ πολλῶν & lytron anti pollōn & 作多人的贖價 & 10:45，全書領受核心 \\
 μετάνοια & metanoia & 悔改 & 1:4, 15，字面「心思的轉向」 \\
 μυστήριον & mystērion & 奧祕 & 4:11「神國的奧祕」 \\
 ὁ υἱὸς τοῦ ἀνθρώπου & ho huios tou anthrōpou & 人子 & 2:10, 28；8:31, 38；10:45；13:26；14:62，取自但7:13-14 \\
@@ -1288,8 +1297,8 @@ $body$
 %% ============================================
 %% APPENDIX I: READING PLAN
 %% ============================================
-\chapter*{附錄九：馬可福音讀經計劃 (Appendix I: A Reading Plan for the Gospel of Mark)}
-\addcontentsline{toc}{chapter}{附錄九：馬可福音讀經計劃 (Appendix I: A Reading Plan for the Gospel of Mark)}
+\chapter*{附錄十一：馬可福音讀經計劃 (Appendix K: A Reading Plan for the Gospel of Mark)}
+\addcontentsline{toc}{chapter}{附錄十一：馬可福音讀經計劃 (Appendix K: A Reading Plan for the Gospel of Mark)}
 \markboth{}{}
 
 \noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
@@ -1298,7 +1307,7 @@ $body$
 {\footnotesize\bfseries\color{ChapterRed} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
 {\footnotesize\color{TextGray}
 重要的不是\textit{讀完}，是\textit{遇見}。\\
-若某一日的話打中你——停下來，在那裡住一天。}
+若某一日的話打中你——停下來，在那裏住一天。}
 \vspace{0.18cm}
 \end{minipage}}
 
@@ -1378,11 +1387,11 @@ $body$
 %% ============================================
 %% APPENDIX J: ALPHABETICAL INDEX
 %% ============================================
-\chapter*{附錄十：字母索引 (Appendix J: Alphabetical Index)}
-\addcontentsline{toc}{chapter}{附錄十：字母索引 (Appendix J: Alphabetical Index)}
+\chapter*{附錄十二：字母索引 (Appendix L: Alphabetical Index)}
+\addcontentsline{toc}{chapter}{附錄十二：字母索引 (Appendix L: Alphabetical Index)}
 \markboth{}{}
 
-\noindent 與附錄一（經文索引）、附錄二（主題索引，依神學範疇分類）不同，本索引是全書人物、地名與神學關鍵詞的\textbf{單一字母序}總表，依英文詞條排序，方便直接查頁。頁碼指向該詞條被實質論述之處，非每一次提及。
+\noindent 與附錄一（經文索引）、附錄二（主題索引，依領受範疇分類）不同，本索引是全書人物、地名與領受關鍵詞的\textbf{單一字母序}總表，依英文詞條排序，方便直接查頁。頁碼指向該詞條被實質論述之處，非每一次提及。
 
 {\small
 \renewcommand{\arraystretch}{1.1}
@@ -1391,14 +1400,14 @@ $body$
 \textbf{詞條 Entry} & \textbf{頁碼 Pages} \\
 \midrule
 \endhead
-Bartimaeus 巴底買 & 215, 217, 226--228 \\
+Bartimaeus 巴底買 & 215, 217, 226–228 \\
 Bethsaida 伯賽大 & 170, 171, 173, 176, 177 \\
 Caesarea Philippi 該撒利亞腓立比 & 17, 19, 26, 38, 186 \\
 Calvin, John 加爾文 & 48, 74, 103, 118, 134, 192, 207, 240 \\
 Capernaum 迦百農 & 68, 70, 75, 82, 84 \\
 Chrysostom, John 屈梭多模 & 37, 133, 148, 207, 224, 226, 270, 285 \\
 Elder, The 老弟兄（查經法之署名） & 41, 51, 76, 77, 151, 153, 259, 336 \\
-Faith 信心 & 118, 132--134, 139, 163, 206, 208 \\
+Faith 信心 & 118, 132–134, 139, 163, 206, 208 \\
 Galilee 加利利 & 8, 15, 21, 68, 75, 113, 187, 318 \\
 Gerasenes 格拉森 & 127, 132, 134, 136, 139 \\
 Gethsemane 客西馬尼 & 27, 268, 283, 286, 288, 292 \\
@@ -1409,8 +1418,8 @@ Jairus 睚魯 & 126, 127, 130, 134, 136 \\
 James and John, the Apostles 雅各與約翰 & 7, 18, 20, 27, 217, 229 \\
 Jericho 耶利哥 & 19, 55, 181, 217 \\
 Jerusalem 耶路撒冷 & 15, 27, 97, 217, 233, 234, 236, 240 \\
-John the Baptist 施洗約翰 & 32, 34, 36--38, 40 \\
-Judas Iscariot 猶大（加略人） & 102, 277--279, 285, 289 \\
+John the Baptist 施洗約翰 & 32, 34, 36–38, 40 \\
+Judas Iscariot 猶大（加略人） & 102, 277–279, 285, 289 \\
 MacArthur, John 麥克阿瑟 & 5, 48, 59, 103, 225, 255, 286, 315 \\
 Mark, the Author 馬可（作者） & 3, 13, 14, 285 \\
 Mary Magdalene 抹大拉的馬利亞 & 295, 308, 309 \\
@@ -1421,8 +1430,8 @@ Peter 彼得 & 19, 190, 192, 194, 280, 290, 324, 325 \\
 Pilate 彼拉多 & 294, 295, 297, 300, 302, 305 \\
 Purity / Cleansing 潔淨 & 73, 76, 156, 159, 162, 164, 166, 240 \\
 Ransom 贖價（λύτρον） & 1, 28, 196, 215, 223, 224, 228, 325 \\
-Repentance 悔改 & 36--39, 43, 47 \\
-Resurrection 復活 & 248, 308, 312, 313, 317--320 \\
+Repentance 悔改 & 36–39, 43, 47 \\
+Resurrection 復活 & 248, 308, 312, 313, 317–320 \\
 Sabbath 安息日 & 82, 85, 88, 91, 93, 94 \\
 Secret of the Kingdom 神國的奧祕 & 120, 124, 346 \\
 Servant 僕人 & 13, 14, 24, 25, 28, 39, 67, 141 \\
@@ -1462,7 +1471,7 @@ Tyre 推羅 & 97, 98, 157, 159, 168 \\
 \vspace*{\fill}
 
 {\fontsize{15}{18}\selectfont\scshape\color{ChapterRed} Υἱὸς Θεοῦ}\\[0.10cm]
-{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``Son of God'' \;\;
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} “Son of God” \;\;
 \bfseries\color{JesusRed} 神的兒子}
 
 \vspace{0.25cm}

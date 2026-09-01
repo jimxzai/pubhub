@@ -10,7 +10,7 @@ publisher: 三書精讀出版系統
 
 馬可福音 8:1-26
 
-**經文核對**：[ai-eden.com/bible/mark/8](https://www.ai-eden.com/bible/mark/8?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/mark/8](https://www.ai-eden.com/bible/mark/8?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
@@ -18,27 +18,27 @@ publisher: 三書精讀出版系統
 > **僕人座標**：外邦地界的四千人吃飽——僕人的憐憫跨過族群的界線；船上的數字問答（8:14-21）與伯賽大的兩次按手，把「看見一半」的門徒一路帶到8:29認信的門口。 \
 > （全書骨幹見卷首《「立刻」與十字架——全書的骨幹》）
 
-這半章從頭到尾繞著一個字轉：**餅**。外邦曠野裡，七個餅擺在四千人面前；大瑪努他的岸邊，法利賽人拒絕已擺在眼前的一切證據，另要一個「從天上來的神蹟」；船上，門徒守著僅有的一個餅發愁，耶穌一連七問，最後只問兩組數字——十二個、七個——「你們還是不明白麼？」三個場景並排陳列出同一個診斷：屬靈的眼盲，比肉身的失明更難醫治。所以馬可把伯賽大的瞎子放在段落的末了：全本聖經唯一分兩次完成的醫治，先看見「人好像樹木行走」，再看見「樣樣都看得清楚」——這不是主的能力打了折扣，而是一幅活的比喻，正演給那群看見一半的門徒看（這幅比喻與8:29彼得認信的關係，卷首《「立刻」與十字架》已詳述）。
+這半章繞著一個字轉：**餅**。外邦曠野裏，七個餅擺在四千人面前；大瑪努他的岸邊，法利賽人不要眼前的證據，另要一個「從天上來的神蹟」；船上，門徒守著僅有的一個餅發愁，耶穌一連七問，最後只問兩個數字——十二、七——「你們還是不明白麼？」三個場景排出同一個診斷：屬靈的眼盲，比肉身的失明更難醫。所以馬可把伯賽大的瞎子放在末了：全本聖經唯一分兩次完成的醫治，先看見「人好像樹木行走」，再看見「樣樣都看得清楚」——一幅活的比喻，演給那群看見一半的門徒看。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Guide Me, O Thou Great Jehovah**
+> **Guide Me, O Thou Great Jehovah** \
 > *William Williams, 1745；英譯 Peter Williams, 1771*
 >
-> Guide me, O Thou great Jehovah,
-> Pilgrim through this barren land;
-> I am weak, but Thou art mighty;
-> Hold me with Thy powerful hand.
-> **Bread of heaven, Bread of heaven,**
+> Guide me, O Thou great Jehovah, \
+> Pilgrim through this barren land; \
+> I am weak, but Thou art mighty; \
+> Hold me with Thy powerful hand. \
+> **Bread of heaven, Bread of heaven,** \
 > **Feed me till I want no more.**
 >
-> 求主引導，全能耶和華，領我走過荒涼客途；
-> 我本軟弱，惟主大能，願你大能的手扶持我。
+> 求主引導，全能耶和華，領我走過荒涼客途； \
+> 我本軟弱，惟主大能，願你大能的手扶持我。 \
 > 天上之糧，天上之糧，求你餵養我，直到不再飢渴。
 
-這首威爾斯聖詩通篇用出埃及曠野的圖畫寫信徒的客旅——「Bread of heaven」正是曠野的嗎哪。四千人在無人之地坐下吃飽的那一天，這句禱告得著了臉孔：張手供應的那一位，親自來到了曠野。
+這首威爾斯聖詩通篇用出埃及的圖畫寫信徒的客旅——「Bread of heaven」正是曠野的嗎哪。四千人在無人之地吃飽的那一天，張手供應的那一位，親自來到了曠野。
 
 ---
 
@@ -48,11 +48,11 @@ publisher: 三書精讀出版系統
 
 **四千人吃飽**
 
-> ^1^那時，又有許多人聚集，並沒有甚麼吃的。耶穌叫門徒來，說：^2^\jesus{「\textbf{我憐憫這眾人}；因為他們同我在這裡已經三天，也沒有吃的了。^3^我若打發他們餓著回家，就必在路上困乏，因為其中有從遠處來的。」}^4^門徒回答說：「在這野地，從那裡能得餅，叫這些人吃飽呢？」^5^耶穌問他們說：\jesus{「你們有多少餅？」}他們說：「七個。」^6^他吩咐眾人坐在地上，就拿著這七個餅祝謝了，擘開，遞給門徒，叫他們擺開，門徒就擺在眾人面前。^7^又有幾條小魚；耶穌祝了福，就吩咐也擺在眾人面前。^8^眾人都吃，並且吃飽了，收拾剩下的零碎，有七筐子。^9^人數約有四千。耶穌打發他們走了，^10^隨即同門徒上船，來到大瑪努他境內。
+> ^1^那時，又有許多人聚集，並沒有甚麼吃的。耶穌叫門徒來，說：^2^\jesus{「\textbf{我憐憫這眾人}；因為他們同我在這裏已經三天，也沒有吃的了。^3^我若打發他們餓著回家，就必在路上困乏，因為其中有從遠處來的。」}^4^門徒回答說：「在這野地，從那裏能得餅，叫這些人吃飽呢？」^5^耶穌問他們說：\jesus{「你們有多少餅？」}他們說：「七個。」^6^他吩咐眾人坐在地上，就拿著這七個餅祝謝了，擘開，遞給門徒，叫他們擺開，門徒就擺在眾人面前。^7^又有幾條小魚；耶穌祝了福，就吩咐也擺在眾人面前。^8^眾人都吃，並且吃飽了，收拾剩下的零碎，有七筐子。^9^人數約有四千。耶穌打發他們走了，^10^隨即同門徒上船，來到大瑪努他境內。
 
 **法利賽人求神蹟**
 
-> ^11^法利賽人出來盤問耶穌，求他從天上顯個神蹟給他們看，想要試探他。^12^耶穌心裡深深的歎息，說：\jesus{「這世代為甚麼求神蹟呢？我實在告訴你們，沒有神蹟給這世代看。」}^13^他就離開他們，又上船往海那邊去了。
+> ^11^法利賽人出來盤問耶穌，求他從天上顯個神蹟給他們看，想要試探他。^12^耶穌心裏深深的歎息，說：\jesus{「這世代為甚麼求神蹟呢？我實在告訴你們，沒有神蹟給這世代看。」}^13^他就離開他們，又上船往海那邊去了。
 
 **防備法利賽人和希律的酵**
 
@@ -62,15 +62,15 @@ publisher: 三書精讀出版系統
 
 > ^22^他們來到伯賽大，有人帶一個瞎子來，求耶穌摸他。^23^耶穌拉著瞎子的手，領他到村外，就吐唾沫在他眼睛上，按手在他身上，問他說：\jesus{「你看見甚麼了？」}^24^他就抬頭一看，說：「我看見人了；他們好像樹木，並且行走。」^25^隨後又按手在他眼睛上，他定睛一看，就復了原，樣樣都看得清楚了。^26^耶穌打發他回家，說：\jesus{「連這村子你也不要進去。」}
 
-### English — ESV
+### English — NASB
 
-> ^1^In those days, when again a great crowd had gathered, and they had nothing to eat, he called his disciples to him and said to them, \jesus{^2^"I have compassion on the crowd, because they have been with me now three days and have nothing to eat. ^3^And if I send them away hungry to their homes, they will faint on the way. And some of them have come from far away."} ^4^And his disciples answered him, "How can one feed these people with bread here in this desolate place?" ^5^And he asked them, \jesus{"How many loaves do you have?"} They said, "Seven." ^6^And he directed the crowd to sit down on the ground. And he took the seven loaves, and having given thanks, he broke them and gave them to his disciples to set before the people; and they set them before the crowd. ^7^And they had a few small fish. And having blessed them, he said that these also should be set before them. ^8^And they ate and were satisfied. And they took up the broken pieces left over, seven baskets full. ^9^And there were about four thousand people. And he sent them away. ^10^And immediately he got into the boat with his disciples and went to the district of Dalmanutha.
+> ^1^In those days, when there was again a large crowd and they had nothing to eat, Jesus called His disciples and said to them, ^2^\jesus{“I feel compassion for the people because they have remained with Me now three days and have nothing to eat.} ^3^\jesus{“If I send them away hungry to their homes, they will faint on the way; and some of them have come from a great distance.”} ^4^And His disciples answered Him, “Where will anyone be able to find enough bread here in this desolate place to satisfy these people?” ^5^And He was asking them, \jesus{“How many loaves do you have?”} And they said, “Seven.” ^6^And He directed the people to sit down on the ground; and taking the seven loaves, He gave thanks and broke them, and started giving them to His disciples to serve to them, and they served them to the people. ^7^They also had a few small fish; and after He had blessed them, He ordered these to be served as well. ^8^And they ate and were satisfied; and they picked up seven large baskets full of what was left over of the broken pieces. ^9^About four thousand were there; and He sent them away. ^10^And immediately He entered the boat with His disciples and came to the district of Dalmanutha.
 
-> ^11^The Pharisees came and began to argue with him, seeking from him a sign from heaven to test him. ^12^And he sighed deeply in his spirit and said, \jesus{"Why does this generation seek a sign? Truly, I say to you, no sign will be given to this generation."} ^13^And he left them, got into the boat again, and went to the other side.
+> ^11^The Pharisees came out and began to argue with Him, seeking from Him a sign from heaven, to test Him. ^12^Sighing deeply in His spirit, He said, \jesus{“Why does this generation seek for a sign? Truly I say to you, no sign will be given to this generation.”} ^13^Leaving them, He again embarked and went away to the other side.
 
-> ^14^Now they had forgotten to bring bread, and they had only one loaf with them in the boat. ^15^And he cautioned them, saying, \jesus{"Watch out; beware of the leaven of the Pharisees and the leaven of Herod."} ^16^And they began discussing with one another the fact that they had no bread. ^17^And Jesus, aware of this, said to them, \jesus{"Why are you discussing the fact that you have no bread? Do you not yet perceive or understand? Are your hearts hardened? ^18^Having eyes do you not see, and having ears do you not hear? And do you not remember? ^19^When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you take up?"} They said to him, "Twelve." ^20^\jesus{"And the seven for the four thousand, how many baskets full of broken pieces did you take up?"} And they said to him, "Seven." ^21^And he said to them, \jesus{"Do you not yet understand?"}
+> ^14^And they had forgotten to take bread, and did not have more than one loaf in the boat with them. ^15^And He was giving orders to them, saying, \jesus{“Watch out! Beware of the leaven of the Pharisees and the leaven of Herod.”} ^16^They began to discuss with one another the fact that they had no bread. ^17^And Jesus, aware of this, said to them, \jesus{“Why do you discuss the fact that you have no bread? Do you not yet see or understand? Do you have a hardened heart?} ^18^\jesus{“HAVING EYES, DO YOU NOT SEE? AND HAVING EARS, DO YOU NOT HEAR? And do you not remember,} ^19^\jesus{when I broke the five loaves for the five thousand, how many baskets full of broken pieces you picked up?”} They said to Him, “Twelve.” ^20^\jesus{“When I broke the seven for the four thousand, how many large baskets full of broken pieces did you pick up?”} And they said to Him, \jesus{“Seven.”} ^21^And He was saying to them, \jesus{“Do you not yet understand?”}
 
-> ^22^And they came to Bethsaida. And some people brought to him a blind man and begged him to touch him. ^23^And he took the blind man by the hand and led him out of the village, and when he had spit on his eyes and laid his hands on him, he asked him, \jesus{"Do you see anything?"} ^24^And he looked up and said, "I see people, but they look like trees, walking." ^25^Then Jesus laid his hands on his eyes again; and he opened his eyes, his sight was restored, and he saw everything clearly. ^26^And he sent him to his home, saying, \jesus{"Do not even enter the village."}
+> ^22^And they came to Bethsaida. And they brought a blind man to Jesus and implored Him to touch him. ^23^Taking the blind man by the hand, He brought him out of the village; and after spitting on his eyes and laying His hands on him, He asked him, \jesus{“Do you see anything?”} ^24^And he looked up and said, “I see men, for I see them like trees, walking around.” ^25^Then again He laid His hands on his eyes; and he looked intently and was restored, and began to see everything clearly. ^26^And He sent him to his home, saying, \jesus{“Do not even enter the village.”}
 
 ---
 
@@ -78,25 +78,25 @@ publisher: 三書精讀出版系統
 
 ### 歷史背景
 
-四千人吃飽承接第七章的行程：耶穌從推羅、西頓經過低加坡里，仍在外邦人聚居的地界（7:31）——這群「同我在這裡已經三天」、其中「有從遠處來的」的眾人，主要是外邦人。這是繼敘利亞腓尼基婦人（7:24-30）、低加坡里的聾啞人（7:31-37）之後，馬可第三次見證：僕人的憐憫並不停在猶太的地界上。神蹟之後耶穌渡到大瑪努他（地點今已難考，馬太平行經文作「馬加丹」，太15:39），迎面而來的卻是法利賽人的試探；伯賽大是加利利海北岸的城鎮，彼得、安得烈、腓力的家鄉（約1:44），卻也是耶穌曾嚴厲責備「不肯悔改」的城市之一（太11:21）——這正是瞎子被領「到村外」醫治、又被囑咐「連這村子你也不要進去」的背景。
+四千人吃飽承接第七章的行程：耶穌仍在低加波利的外邦地界（7:31），這群「同我在這裏已經三天」、「有從遠處來的」眾人，主要是外邦人。神蹟之後耶穌渡到大瑪努他（地點今已難考，太15:39作「馬加丹」），迎面而來的是法利賽人的試探。伯賽大是彼得、安得烈、腓力的家鄉（約1:44），也是耶穌曾責備「不肯悔改」的城市之一（太11:21）——瞎子被領「到村外」醫治、又被囑咐「連這村子你也不要進去」，背景在此。
 
 ### 兩次餵飽：不是重複，是兩次
 
-這不是五餅二魚的重述，而是一次獨立的神蹟——耶穌自己在8:19-20把兩件事並排數算，一件一件問清楚：
+耶穌自己在8:19-20把兩件事並排數算：
 
 | 項目 | 五千人吃飽（6:30-44） | 四千人吃飽（8:1-9） |
 |----------|------------------------------------|----------------------------------|
-| 地界 | 加利利，猶太地界 | 低加坡里一帶，外邦地界 |
-| 起因 | 「如同羊沒有牧人」（6:34） | 「同我在這裡已經三天，也沒有吃的」（8:2） |
+| 地界 | 加利利，猶太地界 | 低加波利一帶，外邦地界 |
+| 起因 | 「如同羊沒有牧人」（6:34） | 「同我在這裏已經三天，也沒有吃的」（8:2） |
 | 食物 | 五個餅、兩條魚 | 七個餅、幾條小魚 |
 | 剩下 | 十二籃 | 七筐 |
 | 容器原文 | κόφινος（猶太人隨身的小提籃） | σπυρίς（容量大得多的筐子） |
 
-十二籃出現在猶太地界，七筐出現在外邦地界——數字與地界的對應，常被理解為指向同一件事：**這位主的供應，先是給以色列的，也是給萬民的。**
+十二籃在猶太地界，七筐在外邦地界——**這位主的供應，先是給以色列的，也是給萬民的。**
 
 ### 文學結構
 
-四個場景層層遞進：憐憫供應（1-10節）展現基督的憐憫與大能；法利賽人求神蹟（11-13節）與門徒因缺餅而困惑（14-21節）並列，形成強烈對比——法利賽人明明看見神蹟卻不信，門徒經歷了神蹟卻不明白，兩者都是屬靈眼盲的樣式；伯賽大瞎子的兩階段醫治（22-26節）則成為前面眼盲主題的具體圖畫與解答——馬可藉這神蹟宣告：屬靈眼睛的開啟，和這瞎子的眼睛一樣，可能需要一個漸進的過程，才能「樣樣都看得清楚」。
+四個場景層層遞進：憐憫供應（1-10節）；法利賽人求神蹟（11-13節）與門徒因缺餅而困惑（14-21節）並列——看見了不信，經歷了不明白，都是屬靈的眼盲；伯賽大瞎子的兩階段醫治（22-26節）則是這眼盲主題的圖畫與解答。
 
 ---
 
@@ -106,34 +106,34 @@ publisher: 三書精讀出版系統
 |---------------------|---------------------|-------|-------------|---------|
 | σπλαγχνίζομαι | splanchnizomai | 憐憫、動了慈心 | 8:2 | 從肺腑深處翻騰的憐恤；本卷唯一由耶穌以第一人稱親口說「我憐憫」之處 |
 | κόφινος / σπυρίς | kophinos / spyris | 小籃子／大筐子 | 8:19-20 | 兩次神蹟各用不同的容器詞，耶穌親自分開數算——證明是兩次不同的神蹟 |
-| ἀναστενάξας | anastenaxas | 深深歎息 | 8:12 | 靈裡深沉的歎息，反映耶穌對這世代頑梗求神蹟之心的悲痛 |
+| ἀναστενάξας | anastenaxas | 深深歎息 | 8:12 | 靈裏深沉的歎息，反映耶穌對這世代頑梗求神蹟之心的悲痛 |
 | ζύμη | zymē | 酵 | 8:15 | 少許就使全團發起——象徵悄然滲透、擴散敗壞的影響 |
 | πεπωρωμένην | pepōrōmenē | 愚頑、剛硬 | 8:17 | 字面指組織硬化麻木；同一個診斷已出現在3:5（法利賽人）與6:52（門徒） |
 | τηλαυγῶς | tēlaugōs | 清楚地 | 8:25 | 字面「從遠處也看得分明」，形容瞎子完全復原後的清晰視力 |
 
 ### 兩次餵飽神蹟的證據
 
-「小籃子」（κόφινος，猶太人常用的隨身提籃）與「大筐子」（σπυρίς，容量大得多的筐子，徒9:25用同字系的筐子縋下保羅）在原文中是兩個不同的詞——馬可在敘事中分別使用，耶穌在8:19-20又親自逐一詢問兩次神蹟的容器與數目。祂自己清楚地把這兩件事區分為獨立的兩次神蹟，而非同一事件的兩種記載版本。
+κόφινος（隨身提籃）與 σπυρίς（大筐子，徒9:25縋下保羅用的是同字系的筐子）是兩個不同的詞——馬可分別使用，耶穌又親自逐一問清楚。是兩次神蹟，不是一件事的兩種記載。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 基督的憐憫延伸至外邦地界 (Christ's Compassion Crosses the Boundary)
 
-四千人吃飽發生在低加坡里一帶的外邦地區。馬可從第七章起排出一條清楚的軌跡：
+四千人吃飽發生在低加波利一帶的外邦地區。馬可從第七章起排出一條清楚的軌跡：
 
 | 場景 | 對象 | 憐憫的記號 |
 |---------------------|---------------------|--------------------------------------|
-| 7:24-30 | 敘利亞腓尼基婦人 | 「兒女的餅」的零碎也給了外邦的女兒 |
-| 7:31-37 | 低加坡里的聾啞人 | 「以法大——開了罷」 |
+| 7:24-30 | 敘利腓尼基婦人 | 「兒女的餅」的零碎也給了外邦的女兒 |
+| 7:31-37 | 低加波利的聾啞人 | 「以法大——開了罷」 |
 | 8:1-9 | 外邦曠野的四千人 | 「我憐憫這眾人」——擺設整桌的筵席 |
 
-上一章外邦婦人求的是桌子底下的碎渣兒；這一章，主在外邦的曠野擺開了整桌的筵席。憐憫沒有停在猶太的地界上。
+上一章外邦婦人求的是桌子底下的碎渣兒；這一章，主在外邦的曠野擺開了整桌筵席。
 
 ### 2. 拒絕向頑梗之心顯神蹟 (No Sign for a Hardened Generation)
 
-法利賽人已經見過無數神蹟，卻仍「試探」耶穌，要求一個「從天上來」的神蹟——耶穌心裡深深的歎息，一個也不給。因為他們的問題從來不在缺乏證據，而在於定意不信的心。
+法利賽人見過無數神蹟，仍「試探」著要一個「從天上來」的——耶穌深深歎息，一個也不給。他們缺的從來不是證據，是願意信的心。
 
 | 真誠的尋求 | 試探的求問 |
 |---------------------------------------|-----------------------------------------|
@@ -146,13 +146,13 @@ publisher: 三書精讀出版系統
 | | 法利賽人的酵 | 希律的酵 |
 |----------|------------------------------------------|-----------------------------|
 | 表現 | 假冒為善、外在的形式主義（參路12:1） | 世俗妥協、權術與道德敗壞 |
-| 危險 | 用宗教的殼取代裡面的實際 | 用今世的算計取代神的國 |
+| 危險 | 用宗教的殼取代裏面的實際 | 用今世的算計取代神的國 |
 
-兩種酵方向相反，本質相同：都不需要一位捨命的基督。而酵的可怕正在「少許」——起初看不見，發起來已遍及全團（林前5:6）。
+兩種酵方向相反，本質相同：都不需要一位捨命的基督。酵的可怕在「少許」——起初看不見，發起來已遍及全團（林前5:6）。
 
 ### 4. 屬靈的眼盲比肉身的眼盲更難察覺 (Spiritual Blindness Is the Harder Case)
 
-門徒親身經手過兩次餵飽神蹟——擘開的餅從他們手裡遞出去，剩下的零碎由他們收回來——卻仍因船上只有一個餅而憂慮。耶穌「有眼睛，看不見麼」的責問，用的正是先知責備以色列的話（耶5:21；結12:2；參賽6:9-10）。本段三種人排在一起，成了一面三聯的鏡子：
+擘開的餅從門徒手裏遞出去，零碎由他們收回來——他們卻仍因船上只有一個餅而憂慮。「有眼睛，看不見麼」用的正是先知責備以色列的話（耶5:21；結12:2）。三種人排在一起，成了一面三聯的鏡子：
 
 | | 法利賽人 | 門徒 | 伯賽大的瞎子 |
 |-------|--------------------|-------------|------------------------------|
@@ -161,20 +161,35 @@ publisher: 三書精讀出版系統
 
 ### 5. 醫治可以是漸進的過程 (Healing Can Be Gradual)
 
-伯賽大瞎子的醫治分兩個階段——全本聖經唯一的一次。這不是能力不足，而是主按著這人的光景量身而行；馬可把它放在彼得認信（8:29）之前，更是一幅活的比喻：門徒此刻正是那「看見人好像樹木行走」的人——認得出祂是基督，卻還看不清基督必須走十字架的路；要等復活的第二次「按手」，才樣樣都看得清楚。
+全本聖經唯一分兩階段的醫治。不是能力不足，是主按這人的光景量身而行；放在彼得認信（8:29）之前，更是一幅活的比喻：門徒此刻正「看見人好像樹木行走」——認得出祂是基督，卻還看不清十字架的路；要等復活的第二次「按手」，才樣樣都看得清楚。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
-> 不應作為原文逐字引用轉引。
+> **體例說明**：本節四家的引文，均已逐條回查原著或講道逐字稿，以「英文原文 + 編者中譯」並列；
+> 中譯為編者所作，若需逐字引用，請以所附英文原文為準。凡查不到原句的，一律不加引號，
+> 改以不帶引號的立場綜述呈現。查證狀態詳見卷末〈附錄：引用出處總表〉。
 
 ### 教父時期
 
 **屈梭多模 (John Chrysostom, c. 349-407)**：
 
-論到四千人吃飽（馬太平行經文），屈梭多模指出門徒儘管先前已見過五千人的神蹟，卻仍問：「我們在曠野哪裏有這麼多的餅呢？」——他評論門徒此時的光景「仍相當不完全」；論到兩次神蹟籃子數目的差異，他指出：「或許是因為這次所用的筐子，比先前所用的更大」，又或者基督刻意使兩次的碎屑數目有所不同，「好叫他們藉著這數目上的差異，同時記念這兩次神蹟」。論到防備酵的警告，他直接引用經文闡述：「你們這小信的人，為甚麼因為沒有帶餅彼此議論呢？你們還不明白嗎？也不記得那五個餅分給五千人、你們收拾了多少籃子的零碎嗎？」；門徒最終「明白了他所說的，不是叫他們防備餅的酵，乃是防備法利賽人和撒都該人的教訓」。
+**主費了那麼多力氣，他們仍舊貼著地爬**：屈梭多模注意到，第一次餵飽之後主做了那麼多事，就是要那神蹟留在他們記憶裏；他們卻仍問「在曠野哪裏有這麼多的餅呢」。
+
+> "What then say the disciples? Still they creep on the ground"
+>
+> 那麼門徒說甚麼呢？他們仍舊在地上爬行。
+
+> "but their state of mind was yet rather imperfect"
+>
+> 他們的心思光景，仍舊相當不完全。
+
+**兩次的籃數為甚麼不同**：屈梭多模給了兩個可能，第二個更有意思。
+
+> "Either then one may say this, that the baskets on this last occasion were greater than those used before, or if this were not so, lest the equality of the miracle should again cast them into forgetfulness, He rouses their recollection by the difference, that by the variation they might be reminded of both one and the other."
+>
+> 或者可以這樣說：這一次所用的筐子比先前的大；若不是這樣，那就是免得兩次神蹟數目相同、又叫他們淡忘，祂便藉著這差異喚起他們的記性，好使他們因著這不同，同時記起前後兩次。
 
 > — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 52 (on Matt 15:29-16:12), NPNF1-10
 
@@ -182,122 +197,149 @@ publisher: 三書精讀出版系統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-論到法利賽人與撒都該人求神蹟，加爾文寫道：「值得我們留意的是，儘管撒都該人與法利賽人彼此視若仇敵，他們卻聯手結成一黨，共同對抗基督。同樣，儘管不敬虔的人彼此相爭，他們的內鬥卻從不妨礙他們聯手抵擋神」；論到「試探」一詞，他解釋：「這詞在此的意思是，他們並非出於誠實的動機，也不是渴望受教，而是出於狡詐與詭計，要求那他們料想基督必會拒絕之事」；論到耶穌「心裏嘆息」，他指出：「這詞在此的意思，是要告訴我們，這嘆息乃是出自祂內心深處最真切的情感，免得有詭辯者藉口說，基督只是外在裝出悲傷的姿態，內心卻毫無感觸」。論到門徒的健忘，他寫道：「他們早已親眼見過餅從無變有、且足以飽足數千人——甚至兩次如此——如今卻仍為著餅而憂慮，彷彿他們的主向來沒有同樣的能力，這是何等可恥的忘恩負義」。論到伯賽大瞎子的漸進醫治，他寫道：「這神蹟為其他兩卷福音書所省略，馬可之所以記載，主要是因為這一個情節：基督並非如祂通常所行的那樣，瞬間使這瞎子得見光明，而是以漸進的方式醫治他……祂如此行，極可能是要藉這人為證，顯明祂在行事的方式上，擁有完全的自由，並不受限於固定不變的規則」；論到「我看見人，好像樹木」一句，他解釋：「他只能憑猜測說自己看見了人……他的視力尚未清晰到能分辨人與樹木，但他已經獲得了某種程度的視覺能力」。
+**「心裏深深的嘆息」——不是姿態，是真情**：加爾文特別咬住馬可所加的「在心靈裏」三個字。
 
-> — John Calvin, *Commentary on a Harmony of the Evangelists*
+> "The words, in his spirit, appear to me to be added emphatically, to inform us that this groan proceeded from the deepest affection of his heart, and that no sophist might allege that Christ resorted to outward attitudes to express a grief which he did not inwardly feel"
+>
+> 「在心靈裏」這幾個字，在我看來是特意加上的，要告訴我們：這聲嘆息出自祂心底最深的情感；免得有詭辯者辯稱，基督不過是擺出外在的姿態，來表達祂內心其實沒有感受到的悲傷。
 
-### 當代釋經
+他隨即把話轉向讀者：凡真心尋求神榮耀、掛念人得救的，看見人故意攔阻自己相信，心上也該有同樣的傷痛。
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**兩次都親眼見過，還在為餅憂慮**：加爾文對門徒的判詞很重。
 
-論到四千人吃飽，麥克阿瑟指出這是馬可福音唯一一處耶穌以第一人稱直接說「我憐憫」的地方；他也特別指出兩次神蹟所用籃子詞彙不同——「*kophinos*……是一個午餐提籃……這裏用的詞是*spuris*，指一種容量大得多的筐子」，並總結：「耶穌承認這是兩起分開的事件，並用兩個不同的詞來描述兩次事件中不同的籃子——這證明有兩次餵飽神蹟；耶穌自己這樣說」；他也指出這神蹟的信息：「救恩是為外邦人存留的，神的憐憫是向外邦人敞開的，神的憐憫並不限於以色列」。論到法利賽人求神蹟與酵的警告，他指出耶穌拒絕的堅決語氣，並引用經文直接闡明門徒剛硬的心；論到伯賽大瞎子的醫治，他問：「為甚麼要分兩個步驟？我在經文中讀不出解釋，你呢？」並將這現象與門徒本身逐步覺悟的屬靈光景相連；論到「好像樹木行走」，他解釋：「他們無法從樹木中清楚辨認出來，這意味著視力尚未聚焦，是模糊而不完整的視覺」；他總結：「如同這些瞎子，門徒……有眼卻看不見……他們無論是肉身或屬靈的視力，都是神所賜的恩典，而非人自身的能力」。
+> "after having seen bread created out of nothing, and in such abundance as to satisfy many thousands of men, and after having seen this done twice, they are now anxious about bread, as if their Master did not always possess the same power."
+>
+> 他們親眼看過餅從無中造出，多得足以餵飽數千人，而且這事看過兩次了；如今卻仍為著餅憂慮，彷彿他們的主並非始終擁有同樣的能力。
+
+由此他推出一條普遍的原則：凡一兩次經歷過神能力、往後卻仍不信靠的，都被定為不信。
+
+**分兩次開眼，是要顯明祂的自由**：加爾文問，主為何獨獨對這人不一次醫成。
+
+> "he had full liberty as to his method of proceeding, and was not restricted to a fixed rule"
+>
+> 祂在行事的方式上有完全的自由，並不受固定規則的限制。
+
+至於法利賽人求神蹟的「試探」，加爾文的判斷是：他們並非出於誠實求問或渴望受教，而是刁難——這是綜述其立場，不作逐字引用。
+
+> — John Calvin, *Commentary on a Harmony of the Evangelists*（Pringle 英譯，1845-46；太 16／可 8 段）
+
+### 摩根 (G. Campbell Morgan)
+
+摩根把 7:24 至 8:26 讀成一個單元：先是向外邦人施行的恩典，接著是本國宗教領袖的求神蹟——同一位主，兩種待遇。
+
+**真實的飢餓，先別急著講屬靈**：憐憫先落在肚腹上，才談得上落在靈魂裏。
+
+> "Do not spiritualize the word too soon. There are spiritual values undoubtedly in these miracles of feeding, but let us begin on the true level — a literal hunger, a physical hunger, a need for food."
+>
+> 不要太快把這個字屬靈化。這些餵飽的神蹟裏當然有屬靈的價值，但讓我們先從真實的層面開始——真實的飢餓，肉身的飢餓，對食物的需要。
+
+**享有優勢，卻屬靈低劣**：求神蹟的人不是沒見過神蹟；他們見過了，仍舊故意地瞎。
+
+> "It is that of spiritual inferiority in spite of advantage."
+>
+> 這幅圖畫所啟示的，是享有優勢、卻仍屬靈低劣。
+
+摩根把這一幕與敘利腓尼基婦人並排：一個在種族的劣勢裏顯出人性最根本的需要，一群人在宗教的優勢裏顯出退化與失敗。
+
+**嚴責，卻帶到明白為止**：門徒也不明白，主的對待卻與法利賽人截然不同。
+
+> "He definitely and sternly rebuked them in a series of indignant questions. Yet observe also that He led them on until they did understand what He meant."
+>
+> 祂明確而嚴厲地責備他們，一連串發出忿慨的問題。但也要留意：祂一直帶著他們往前走，直到他們真明白了祂的意思。
+
+**祂從不用同一個方法做兩次**：伯賽大的瞎子分兩次得看見，不是能力打了折扣，是主按著這一個人。
+
+> "He never did anything the same way twice. There was infinite variety in all His dealings with men. He never healed more than one blind man in the same way."
+>
+> 祂從來沒有用同樣的方式做過兩次同樣的事。祂待人的一切作為裏，有無窮的變化。祂醫治瞎子，從沒有兩個是用同一個方法的。
+
+摩根由此推出一條事奉的原則：基督從不成批地待人，祂是一個一個地待人；照樣，我們也不能用同一套辦法去對待所有的人。
+
+> — G. Campbell Morgan, *The Gospel According to Mark*（1927），可 7:24-8:26 講章
+
+### 麥克阿瑟 (John MacArthur)
+
+**兩次餵飽，是主自己分開算的**：論有人主張兩段記載只是同一件事的重複。
+
+> "Jesus acknowledges these are two separate events, and He uses the two separate words to describe the different baskets in the two events."
+>
+> 耶穌自己承認這是兩起分開的事件，並用兩個不同的詞，描述兩次事件中不同的籃子。
+
+而第二次餵飽發生在外邦地界，這件事本身就是信息——
+
+> "The message is that salvation is for the Gentiles, that divine compassion is for the Gentiles, that the compassion of God is not limited to Israel."
+>
+> 信息就是：救恩是為外邦人的，神的憐憫是為外邦人的，神的憐憫並不限於以色列。
+
+**分兩次開眼——他也不強解**：論伯賽大的瞎子，麥克阿瑟坦白承認經文沒給理由。
+
+> "Why the two steps? I don't read anything there that explains it, do you?"
+>
+> 為甚麼分兩步？我在那裏讀不出任何解釋，你讀得出嗎？
+
+他把這幅漸進的圖畫接到門徒身上：
+
+> "Their healing from failed sight to partial sight to complete sight came solely from the repeated touch of Jesus."
+>
+> 他們從全然看不見，到看見一半，到樣樣看得清楚——全是出於耶穌一再的觸摸。
 
 > — John MacArthur, *Our Compassionate Provider* (41-36), *Spiritual Blindness, Part 1 & 2* (41-37, 41-38), *Jesus' Power over Blindness* (41-39), gty.org
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 145:8-9
 
-> 耶和華有恩惠，有憐憫，不輕易發怒，大有慈愛。
+> 耶和華有恩惠，有憐憫，不輕易發怒，大有慈愛。 \
 > 耶和華善待萬民；**他的慈悲覆庇他一切所造的**。
 
 ### 詩篇 145:15-16
 
-> 萬民都舉目仰望你；你隨時給他們食物。
+> 萬民都舉目仰望你；你隨時給他們食物。 \
 > **你張手，使有生氣的都隨願飽足。**
 
-大衛稱頌的是「善待萬民」的耶和華——不是只善待以色列。外邦曠野裡那雙擘餅的手，正是詩篇145篇所歌唱的那雙「張手」：四千人隨願飽足，還剩下七筐子。
-
----
-
-## 聖詩默想 (Hymn Meditation)
+大衛稱頌的是「善待萬民」的耶和華——不只是以色列。外邦曠野裏擘餅的手，正是詩篇所唱的那雙「張手」：四千人隨願飽足，還剩七筐。
 
 ### Open My Eyes, That I May See
 
-> Open my eyes, that I may see
-> Glimpses of truth Thou hast for me;
-> Place in my hands the wonderful key
-> That shall unclasp and set me free.
-> **Silently now I wait for Thee,**
-> **Ready, my God, Thy will to see;**
+> Open my eyes, that I may see \
+> Glimpses of truth Thou hast for me; \
+> Place in my hands the wonderful key \
+> That shall unclasp and set me free. \
+> **Silently now I wait for Thee,** \
+> **Ready, my God, Thy will to see;** \
 > **Open my eyes, illumine me, Spirit divine!**
 >
-> 開我的眼，使我看見你為我存留的真理；
-> 靜默之中我等候你，預備好了要見你的旨意；
+> 開我的眼，使我看見你為我存留的真理； \
+> 靜默之中我等候你，預備好了要見你的旨意； \
 > 求開我眼，光照我，聖靈啊！
 >
 > — Clara H. Scott, 1895
 
-「你們有眼睛，看不見麼？」（8:18）——這節詩正是對這句責問唯一妥當的回應。眼睛的開啟不是人自己掙來的，是主兩次按手的恩典；我們能做的，是像伯賽大那瞎子一樣，把自己交在祂手裡，等祂領著走。
+「你們有眼睛，看不見麼？」（8:18）——這節詩是對這句責問唯一妥當的回應。開眼是主按手的恩典；我們能做的，是像伯賽大那瞎子，把自己交在祂手裏。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
-
-摩根將7:24至8:26視為一個整體單元，總題為「祂所做的事都好」（引自7:37）：「這段所包含的故事，可以分為兩部分。第一部分記載了耶穌向外邦人所行的一次事工……第二部分則從第八章第十節開始，直到第二十六節結束，**把我們再次帶回一個帶著敵意的氛圍**」。
-
-**真實的飢餓，真實的憐憫**：論到四千人吃飽，摩根寫道：「下一幅圖畫充滿了生命力、色彩與動感。這是至少四千人聚集的一大群人；而這是一幅描繪他們飢餓的圖畫。**不要太快將這詞屬靈化……讓我們從真實的層面開始——那是真實的飢餓，肉身的飢餓，對食物的真實需要**」。憐憫先落在肚腹上，才談得上落在靈魂裡。
-
-**享有優勢，卻屬靈低劣**：論到法利賽人求神蹟，摩根指出：「這幅圖畫至高的啟示，是**儘管享有優勢，卻仍陷於屬靈的低劣**……這些人求神蹟，他們卻早已見過祂所行的神蹟……然而這些人仍說：『給我們看一個神蹟』」；「主拒絕了他們所求的：首先，因為他們的動機是錯的；其次，因為就算給了神蹟，也不能使他們信服——**他們已經見過神蹟，卻仍是故意地盲目**」。
-
-**忠心之人的誤解**：論到門徒因缺餅而困惑，摩根寫道：「這是一幅描繪忠心之人誤解的圖畫。這是一幅描繪那些愛主、忠於主的人的圖畫……但他們仍未真正明白祂……**祂所發出、顯然是極其需要的屬靈警告，祂忠心的門徒，所愛主的人，想到的卻是餅**」。故意的盲目該受審判，忠心人的遲鈍卻蒙耐心追問——同是不明白，主的對待截然不同。
-
-**漸進的醫治，奇妙的適應**：論到伯賽大瞎子，摩根寫道：「更奇特的，是這瞎子的例子，祂行這神蹟的方式，似乎是漸進的：先是撫觸帶著按手，再問他『你看見甚麼』，得著回答『我看見人，如同看見樹木行走』之後，才再一次按手，使他完全復原」；他總結：「我們切不可以為，在耶穌這些作法裏，顯明了祂能力的減弱……**在每一個個案裏，基督都是按著那人的需要調整自己……祂從未以完全相同的方式醫治兩個瞎子**……差異之中，正顯明了人類經歷之豐富多樣，也因而顯明了我們主對這豐富多樣經歷的奇妙適應力」。
-
-> 出處：G. Campbell Morgan, *The Gospel According to Mark*（本章相關講章）
-
-### 老弟兄查經法 (Reading with the Method)
-
-**精義一句話**：船上有那位兩次在曠野擺設筵席的主，門徒卻為一個餅發愁——屬靈的眼盲不是沒見過神蹟，是見過了還不認識行神蹟的這一位；所以主緊接著開一個瞎子的眼，分兩次開，演給他們看。
+**精義一句話**：「你們還是不明白麼？」——屬靈的眼盲不是沒見過神蹟，是見過了還不認識行神蹟的這一位；而開眼是主的工作，可以分兩次，卻必定做到「樣樣都看得清楚」。
 
 **這樣帶你讀**：
 
-- **找主句，濃縮全段**：這半章最核心的一句，是耶穌的質問：「你們有眼睛，看不見麼？有耳朵，聽不見麼？也不記得麼？」（8:18）你若是船上的門徒，會怎麼回答？先別急著替他們難為情——把你自己近半年的經歷放進去，再答一次。
-- **數字是要背的**：耶穌不講道理，只問數字——十二個、七個。門徒記得數字，卻讀不出數字的意思。你能把神在你身上行過的事，一件一件數出來嗎？數不出來的恩典，風浪一來就等於沒有。
-- **兩種求問，兩種結局**：法利賽人見過無數神蹟仍「試探」著求，四千人甚麼也沒求，只是餓著——主向誰擺設筵席？你今天向神提的問題，是餓著來的，還是帶著結論來的？
-- **漸漸看清楚，也是看清楚**：伯賽大瞎子先看見「人好像樹木行走」——看見一半，主沒有責備他，只是再按一次手。你生命中那個「還看一半」的功課，你是在主手裡等第二次按手，還是已經自己下了結論？
+- **找主句，濃縮全段**：核心的一句是耶穌的質問：「你們有眼睛，看不見麼？有耳朵，聽不見麼？也不記得麼？」（8:18）你若是船上的門徒，會怎麼回答？先別急著替他們難為情——把你自己近半年的經歷放進去，再答一次。老弟兄常說：「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」
+- **數字是要背的**：耶穌不講道理，只問數字——十二個、七個。門徒記得數字，卻讀不出數字的意思。數不出來的恩典，風浪一來就等於沒有。
+- **漸漸看清楚，也是看清楚**：伯賽大瞎子看見一半，主沒有責備他，只是再按一次手。你生命中那個「還看一半」的功課，你是在主手裏等第二次按手，還是已經自己下了結論？
 
-**整本聖經的連結**：曠野筵席、除酵、開眼——三條先知書的老話，都在本章重新被驗證；下文「全經連線」逐條展開。
-
-**華人教會的兩面鏡子**：其一，8:1-9——主的筵席擺在外邦的曠野；教會若只習慣服事「自己人」，同鄉、同語言、同背景，就要問：我們的七個餅，肯不肯拿到界線的另一邊去擘開？其二，8:15——法利賽人的酵是形式主義，希律的酵是世俗妥協；重規矩、重面子的群體容易發前一種酵，追求規模與成功的群體容易發後一種酵，而酵的特點是：發起來之前，聞不出來。
-
-**你看見耶穌了嗎**：在「我憐憫這眾人」的肺腑裡、在深深的歎息裡、在船上不肯放過門徒的七連問裡、在拉著瞎子的手領他到村外的耐心裡——你看見的是同一位：祂餵飽人，更定意開人的眼，叫人不只吃祂的餅，更認識祂是誰。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Break Thou the Bread of Life*
-*Mary A. Lathbury, 1877*
-
-> Break Thou the bread of life, dear Lord, to me,
-> As Thou didst break the loaves beside the sea;
-> Beyond the sacred page I seek Thee, Lord;
-> My spirit pants for Thee, O Living Word!
->
-> 主，為我擘開生命餅，如在海邊擘餅；
-> 我要超越聖經文字，尋求你活潑話語！
-
-**詩篇**：詩篇 145:15-16
-
-> 萬民都舉目仰望你；你隨時給他們食物。
-> 你張手，使有生氣的都隨願飽足。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**華人教會的兩面鏡子**：其一，8:1-9——教會若只習慣服事同鄉、同語言、同背景的「自己人」，就要問：我們的七個餅，肯不肯拿到界線的另一邊去擘開？其二，8:15——重規矩、重面子的群體容易發法利賽人的酵，追求規模與成功的群體容易發希律的酵；酵的特點是，發起來之前，聞不出來。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-**曠野筵席的線**：出埃及記16章，神在曠野日日降嗎哪，從不間斷；詩篇78:19卻記下以色列人的疑問：「神在曠野豈能擺設筵席麼？」如今耶穌兩次在曠野擺設筵席——一次在猶太地界，一次在外邦地界——親自回答了那個千年的疑問；約翰福音把謎底說破：「我就是生命的糧」（約6:35）；啟示錄收尾：得勝的，我必將那隱藏的嗎哪賜給他（啟2:17）。
+**曠野筵席的線**：出埃及記16章，神日日降嗎哪；詩篇78:19記下以色列人的疑問：「神在曠野豈能擺設筵席麼？」耶穌兩次在曠野擺設筵席——一次在猶太地界，一次在外邦地界——回答了千年的疑問；約翰福音說破謎底：「我就是生命的糧」（約6:35）；啟示錄收尾：得勝的，我必將那隱藏的嗎哪賜給他（啟2:17）。
 
-**酵的線**：出埃及記12章，逾越節前以色列人要把家中一切的酵除淨；獻給耶和華的素祭，也都不可有酵（利2:11）。耶穌接過這幅圖畫：「防備法利賽人的酵和希律的酵」；保羅把它講明：「豈不知一點麵酵能使全團發起來麼？……你們既是無酵的麵，應當把舊酵除淨」（林前5:6-7）——因為「我們逾越節的羔羊基督已經被殺獻祭了」。除酵與羔羊，從起初就是連在一起的。
+**酵的線**：逾越節前要把家中一切的酵除淨（出12章），素祭也不可有酵（利2:11）。耶穌接過這幅圖畫：「防備法利賽人的酵和希律的酵」；保羅講明：「你們既是無酵的麵，應當把舊酵除淨」——因為「我們逾越節的羔羊基督已經被殺獻祭了」（林前5:6-7）。除酵與羔羊，從起初就連在一起。
 
-**開眼的線**：以賽亞應許彌賽亞的日子「瞎子的眼必睜開」（賽35:5）；伯賽大的瞎子與耶利哥的巴底買（10:46-52），一前一後夾著僕人受難之路的整段教導，成了一對括號；大馬色路上，掃羅眼上的鱗片掉下來（徒9:18）；保羅後來為教會的禱告，正是求父「照明你們心中的眼睛」（弗1:18）；而主給老底嘉教會的勸告仍是：買眼藥擦你的眼睛，使你能看見（啟3:18）。開眼，是主從先知書一路做到教會時代的工。
+**開眼的線**：先知早已責備「你們有眼不看，有耳不聽」（耶5:21）——這句話如今落到了門徒頭上；以賽亞應許「瞎子的眼必睜開」（賽35:5），伯賽大宣告應許的日子到了。伯賽大的瞎子與耶利哥的巴底買（10:46-52），一前一後夾著僕人受難之路的整段教導；大馬色路上，掃羅眼上的鱗片掉下來（徒9:18）；保羅為教會求父「照明你們心中的眼睛」（弗1:18）；主給老底嘉的勸告仍是：買眼藥擦你的眼睛（啟3:18）。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -310,7 +352,7 @@ publisher: 三書精讀出版系統
 
 ### 活在今天 · AI時代 (Living It Today)
 
-這個時代習慣要求「立即的證據」才願意相信——法利賽人正是這種心態的縮影：他們不缺證據，缺的是願意相信的心。演算法把一切變成即時反饋：提問即答、下單即達、搜尋即得；唯獨屬靈的眼睛，沒有即時版本。伯賽大的醫治分兩次，門徒的開竅走了八章還沒走完——主不趕工。在一個把「快」當作能力的時代，肯留在主手裡「漸漸看清楚」，本身就是一種信心的操練。
+演算法把一切變成即時反饋：提問即答、下單即達、搜尋即得；唯獨屬靈的眼睛，沒有即時版本。伯賽大的醫治分兩次，門徒的開竅走了八章還沒走完——主不趕工。在一個把「快」當作能力的時代，肯留在主手裏「漸漸看清楚」，本身就是信心的操練。
 
 ### 今天的祭壇 (Today's Altar)
 
@@ -318,17 +360,7 @@ publisher: 三書精讀出版系統
 - **晚上**：省察：今天我發愁的那件事，主過去有沒有在同類的事上供應過我？我是忘了，還是不信？
 - **一個行動**：為一個仍在「漸漸看清楚」過程中的功課或代禱對象，具體記下今天比昨天更清楚的一小步——不急躁，不氣餒。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：「你們還是不明白麼？」——屬靈的眼盲不是沒見過神蹟，是見過了還不認識行神蹟的這一位；而開眼是主的工作，可以分兩次，卻必定做到「樣樣都看得清楚」。
-
-**貫通全經**：「神在曠野豈能擺設筵席麼？」（詩78:19）——兩次曠野的筵席回答了這疑問；「你們有眼不看，有耳不聽」（耶5:21）——先知的責備落到了門徒頭上；「瞎子的眼必睜開」（賽35:5）——伯賽大的神蹟宣告應許的日子到了。
-
-**無法迴避的問題**：門徒把兩個數字都答對了，卻還是不明白——你對主的認識，是一堆答對的數字，還是認識了擘餅的這一位？
-
-> 「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」
+**你看見耶穌了嗎**：在「我憐憫這眾人」的肺腑裏、在深深的歎息裏、在船上不肯放過門徒的七連問裏、在拉著瞎子的手領他到村外的耐心裏——同一位：祂餵飽人，更定意開人的眼。門徒把兩個數字都答對了，卻還是不明白——你對主的認識，是一堆答對的數字，還是認識了擘餅的這一位？
 
 ---
 
@@ -336,24 +368,18 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **憐憫的延伸**：四千人吃飽發生在外邦地界——主的憐憫跨過族群的界線。你今天是否也願意讓神的愛透過你，延伸到與自己不同群體、文化、背景的人身上？你的「七個餅」，肯拿到界線的另一邊去擘開嗎？
+1. **求神蹟的心**：你向神提出的問題，是餓著來的，還是帶著結論來的？
 
-2. **求神蹟的心**：法利賽人縱有充分證據仍不信，因為他們帶著結論來求問。你今天向神提出的問題，是出於真誠飢餓的尋求，還是心裡早已定意不信、只等一個推辭的理由？
+2. **兩種酵**：法利賽人的酵是形式主義，希律的酵是世俗妥協——在你的教會生活或個人生命中，這兩種酵分別以甚麼形式悄悄發起來？
 
-3. **兩種酵**：法利賽人的酵是宗教的形式主義，希律的酵是世俗的妥協——今天在教會生活或你個人生命中，這兩種「酵」分別以甚麼形式悄悄發起來？
-
-4. **屬靈的健忘**：門徒兩度經手餵飽的神蹟，仍因一個餅發愁。回想並具體數算神過去在你生命中信實的供應——這對你今天面對的那個難處，有甚麼提醒？
-
-5. **船上的一個餅**：門徒說「我們沒有餅」，船上其實有一個餅，更有那位擘餅的主。你所謂的「缺乏」，會不會正是忘了船上有誰？
-
-6. **接受漸進的醫治**：伯賽大瞎子的醫治分兩階段完成。你是否願意接納，自己或身邊之人生命中的某些功課，需要一個過程才能「樣樣都看得清楚」——並在過程中不下斷語、繼續留在主的手裡？
+3. **接受漸進的醫治**：你願不願意接納，自己或身邊人的某些功課需要一個過程才能「樣樣都看得清楚」——並在過程中不下斷語？
 
 ### 禱告回應
 
-> 主啊，感謝你的憐憫延伸到每一個角落，不分族裔與文化的界線。
-> 求你光照我心中因預設立場而拒絕相信你作為的地方。
-> 求你幫助我數算並記念你過去信實的供應，不再因眼前的缺乏而發愁——船上有你，就沒有真正的缺乏。
-> 求你耐心地在我生命中，一次一次按手，開啟我屬靈的眼睛，直到樣樣都看得清楚。
+> 主啊，感謝你的憐憫不分族裔與文化的界線。
+> 光照我心中因預設立場而拒絕相信你作為的地方。
+> 幫助我數算你過去信實的供應，不再因眼前的缺乏發愁——船上有你，就沒有真正的缺乏。
+> 求你一次一次按手，開我屬靈的眼睛，直到樣樣都看得清楚。
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

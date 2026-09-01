@@ -104,8 +104,20 @@ for path in sorted(glob.glob("templates/pdf/*.latex")):
     #    silently flattens \textbf{} wherever the bold span contains full-width
     #    punctuation (：。), because the bold face lacks those glyphs. Zero
     #    warnings, exit code 0.
-    for m in re.finditer(r"BoldFont\s*=\s*([^,\]\n]*\bBold)\b", src):
-        report(path, src, m.start(), "real-bold-face", f"BoldFont={m.group(1).strip()}",
+    #
+    #    A BoldFont given as a font FILE (…-Bold.otf/.ttf) is exempt: that form
+    #    names one concrete face of a Latin family loaded by filename, where a
+    #    real drawn bold is exactly what you want and the CJK-punctuation
+    #    failure cannot arise. Flagging those made the rule cry wolf on
+    #    hebrews.latex's Libertinus Serif, and a lint nobody trusts is a lint
+    #    nobody reads. CJK families in this repo are declared by family name.
+    for m in re.finditer(r"BoldFont\s*=\s*\{?([^,\]\}\n]+)\}?", src):
+        value = m.group(1).strip()
+        if not re.search(r"\bBold\b", value):
+            continue
+        if re.search(r"\.(otf|ttf|ttc)$", value, re.I):
+            continue
+        report(path, src, m.start(), "real-bold-face", f"BoldFont={value}",
                "point BoldFont at the same regular family with "
                "BoldFeatures={FakeBold=N}")
 
@@ -211,6 +223,30 @@ for path in sorted(glob.glob("templates/pdf/*.latex")):
                        f"{total + gaps - tw:.1f}pt)",
                        "shrink the p{} widths: sum(p{}) + "
                        "2*tabcolsep*(ncol-1) must fit textwidth")
+
+    # 5. TeX-style quote ligatures ``...'' under fontspec. fontspec loads OpenType
+    #    fonts WITHOUT the TeX text ligatures unless Ligatures=TeX is given, so
+    #    `` and '' print as literal backticks/apostrophes instead of curly
+    #    quotes. Silent at build time: valid input, no warning, wrong glyphs.
+    #    Verified shipping in gospel-of-john and gospel-of-mark (6 hits each in
+    #    the rendered PDF text) and on the acts cover before this rule existed.
+    if re.search(r"\\usepackage(?:\[[^\]]*\])?\{fontspec\}", src) and \
+       not re.search(r"Ligatures\s*=\s*TeX", src):
+        for m in re.finditer(r"``(?!\s)(?:[^`']|'(?!'))*''", src):
+            report(path, src, m.start(), "tex-quotes-under-fontspec",
+                   "``…'' prints as literal backticks (fontspec loads fonts "
+                   "without TeX ligatures)",
+                   "use the Unicode characters \u201c and \u201d directly, or "
+                   "add Ligatures=TeX to the font's options")
+        # Same root cause for dashes: -- / --- print literally instead of en/em
+        # dashes. Restricted to digit-adjacent hyphens so TikZ path syntax
+        # ((0,0) -- (1,0), always spaced) is never flagged.
+        for m in re.finditer(r"(?<=\d)---?(?=\d)", src):
+            report(path, src, m.start(), "tex-dashes-under-fontspec",
+                   "-- / --- between digits prints as literal hyphens "
+                   "(fontspec loads fonts without TeX ligatures)",
+                   "use the Unicode characters \u2013 / \u2014 directly, or "
+                   "add Ligatures=TeX to the font's options")
 
 if not findings:
     print("clean: no template-level defects found")

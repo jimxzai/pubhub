@@ -24,15 +24,15 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Amazing Grace**
+> **Amazing Grace** \
 > *John Newton, 1779*
 >
-> Amazing grace! How sweet the sound
-> That saved a wretch like me!
-> I once was lost, but now am found,
+> Amazing grace! How sweet the sound \
+> That saved a wretch like me! \
+> I once was lost, but now am found, \
 > Was blind, but now I see.
 >
-> 奇異恩典，何等甘甜，救了像我這樣的罪人！
+> 奇異恩典，何等甘甜，救了像我這樣的罪人！ \
 > 我曾失喪，如今尋回；曾經瞎眼，今得看見。
 
 ---
@@ -43,31 +43,31 @@ publisher: 三書精讀出版系統
 
 > ^1^有幾個人從猶太下來，教訓弟兄們說：「你們若不按摩西的規條受割禮，不能得救。」^2^保羅、巴拿巴與他們大大地紛爭辯論，眾門徒就定規，叫保羅、巴拿巴和本會中幾個人為所辯論的，上耶路撒冷去見使徒和長老。
 
-> ^5^唯有幾個信徒是法利賽教門的人起來，說：「必須給外邦人行割禮，吩咐他們遵守摩西的律法。」
+> ^5^惟有幾個信徒是法利賽教門的人起來，說：「必須給外邦人行割禮，吩咐他們遵守摩西的律法。」
 
 > ^6^使徒和長老聚會商議這事。^7^辯論已經多了，彼得就起來說：「諸位弟兄，你們知道神早已在你們中間揀選了我，叫外邦人從我口中得聽福音之道，而且相信。^8^知道人心的神也為他們作了見證，賜聖靈給他們，正如給我們一樣；^9^又藉著信潔淨了他們的心，並不分他們我們。^10^現在為甚麼試探神，要把我們祖宗和我們所不能負的軛放在門徒的頸項上呢？^11^我們得救乃是因主耶穌的恩，和他們一樣，這是我們所信的。」
 
-> ^13^他們住了聲，雅各就說：「諸位弟兄，請聽我的話！^14^方才西門述說神當初怎樣眷顧外邦人，從他們中間選取百姓歸於自己的名下。^15^眾先知的話也與這意思相合，^16^正如經上所寫的：『此後我要回來，重新修造大衛倒塌的帳幕，把那破壞的重新修造建立起來，^17^叫餘剩的人，就是凡稱為我名下的外邦人，都尋求主。^18^這話是從創世以來顯明這事的主說的。』^19^所以據我的意見，不可難為那歸服神的外邦人，^20^只要寫信吩咐他們禁戒偶像的汙穢和姦淫，並勒死的牲畜和血。^21^因為從古以來，摩西的書在各城有人傳講，每逢安息日在會堂裏誦讀。」
+> ^13^他們住了聲，雅各就說：「諸位弟兄，請聽我的話！^14^方才西門述說神當初怎樣眷顧外邦人，從他們中間選取百姓歸於自己的名下。^15^眾先知的話也與這意思相合，^16^正如經上所寫的：『此後我要回來，重新修造大衛倒塌的帳幕，把那破壞的重新修造建立起來，^17^叫餘剩的人，就是凡稱為我名下的外邦人，都尋求主。^18^這話是從創世以來顯明這事的主說的。』^19^所以據我的意見，不可難為那歸服神的外邦人，^20^只要寫信吩咐他們禁戒偶像的污穢和姦淫，並勒死的牲畜和血。^21^因為從古以來，摩西的書在各城有人傳講，每逢安息日在會堂裏誦讀。」
 
-> ^28^因為聖靈和我們定意不將別的重擔放在你們身上，唯有幾件事是不可少的，^29^就是禁戒祭偶像的物和血，並勒死的牲畜和姦淫。這幾件你們若能自己禁戒不犯就好了。願你們平安！」
+> ^28^因為聖靈和我們定意不將別的重擔放在你們身上，惟有幾件事是不可少的，^29^就是禁戒祭偶像的物和血，並勒死的牲畜和姦淫。這幾件你們若能自己禁戒不犯就好了。願你們平安！」
 
 > ^36^過了些日子，保羅對巴拿巴說：「我們可以回到從前宣傳主道的各城，看望弟兄們景況如何。」^37^巴拿巴有意要帶稱呼馬可的約翰同去，^38^但保羅因為馬可從前在旁非利亞離開他們，不和他們同去做工，就以為不可帶他去。^39^於是二人起了爭論，甚至彼此分開。巴拿巴帶著馬可，坐船往塞浦路斯去；^40^保羅揀選了西拉，也出去，蒙弟兄們把他交於主的恩中。^41^他就走遍敘利亞、基利家，堅固眾教會。
 
-（原文注：古卷有第34節「唯有西拉定意仍住在那裏」，現代標點和合本依所據古卷不列入正文，僅作腳註，故節碼由33跳至35，與英文ESV編號一致。）
+（原文注：古卷有第34節「唯有西拉定意仍住在那裏」，現代標點和合本依所據古卷不列入正文，僅作腳註，故節碼由33跳至35；英文NASB 1995則將此節以方括號印在正文中——"[But it seemed good to Silas to remain there.]"——標示為古卷異文。）
 
-### English — ESV
+### English — NASB
 
-> ^1^But some men came down from Judea and were teaching the brothers, "Unless you are circumcised according to the custom of Moses, you cannot be saved."
+> ^1^Some men came down from Judea and *began* teaching the brethren, "Unless you are circumcised according to the custom of Moses, you cannot be saved."
 
-> ^8^And God, who knows the heart, bore witness to them, by giving them the Holy Spirit just as he did to us, ^9^and he made no distinction between us and them, having cleansed their hearts by faith. ^10^Now, therefore, why are you putting God to the test by placing a yoke on the neck of the disciples that neither our fathers nor we have been able to bear? ^11^But we believe that we will be saved through the grace of the Lord Jesus, just as they will.
+> ^8^"And God, who knows the heart, testified to them giving them the Holy Spirit, just as He also did to us; ^9^and He made no distinction between us and them, cleansing their hearts by faith. ^10^Now therefore why do you put God to the test by placing upon the neck of the disciples a yoke which neither our fathers nor we have been able to bear? ^11^But we believe that we are saved through the grace of the Lord Jesus, in the same way as they also are."
 
-> ^19^Therefore my judgment is that we should not trouble those of the Gentiles who turn to God, ^20^but should write to them to abstain from the things polluted by idols, and from sexual immorality, and from what has been strangled, and from blood.
+> ^19^Therefore it is my judgment that we do not trouble those who are turning to God from among the Gentiles, ^20^but that we write to them that they abstain from things contaminated by idols and from fornication and from what is strangled and from blood.
 
-> ^28^For it has seemed good to the Holy Spirit and to us to lay on you no greater burden than these requirements: ^29^that you abstain from what has been sacrificed to idols, and from blood, and from what has been strangled, and from sexual immorality. If you keep yourselves from these, you will do well. Farewell.
+> ^28^"For it seemed good to the Holy Spirit and to us to lay upon you no greater burden than these essentials: ^29^that you abstain from things sacrificed to idols and from blood and from things strangled and from fornication; if you keep yourselves free from such things, you will do well. Farewell."
 
-> ^39^And there arose a sharp disagreement, so that they separated from each other. Barnabas took Mark with him and sailed away to Cyprus, ^40^but Paul chose Silas and departed, having been commended by the brothers to the grace of the Lord.
+> ^39^And there occurred such a sharp disagreement that they separated from one another, and Barnabas took Mark with him and sailed away to Cyprus. ^40^But Paul chose Silas and left, being committed by the brethren to the grace of the Lord.
 
-**經文核對**：[ai-eden.com/bible/acts/15](https://www.ai-eden.com/bible/acts/15?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/15](https://www.ai-eden.com/bible/acts/15?t=CUV,NASB&cols=2)
 
 ---
 
@@ -116,7 +116,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 恩典的次序不能顛倒
 
@@ -124,7 +124,7 @@ publisher: 三書精讀出版系統
 
 ### 2. 三重見證合一，才看見完整的圖畫
 
-彼得從神親自作為而來的領受、保羅巴拿巴的實地見證、雅各的聖經根據，三者缺一不可。單靠領受，容易流於空談；單有經歷見證，容易失於主觀；單有聖經引用，容易變成引經據典卻脫離現實。真理的確認，往往需要教義、見證、聖經三者互相印證，而不是靠單一角度的權威。
+彼得從神親自作為而來的領受、保羅巴拿巴的實地見證、雅各的聖經根據，三者缺一不可。單靠領受，容易流於空談；單有經歷見證，容易失於主觀；單有聖經引用，容易變成引經據典卻脫離現實。真理的確認，往往需要領受、見證、聖經三者互相印證，而不是靠單一角度的權威。
 
 ### 3. 雅各引阿摩司——外邦人蒙恩早已寫在先知書裏
 
@@ -142,10 +142,6 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
 **屈梭多模 (Chrysostom)**：
@@ -154,15 +150,21 @@ publisher: 三書精讀出版系統
 >
 > 彼得說話較為強硬，雅各在此則較溫和——身居高位者理當如此：把不中聽的話留給別人先說，自己則以較溫和的角色出現。
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXXIII**（講題經文即徒15:13, 15），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXXIII**（講題經文即徒15:13, 15），NPNF1-11
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**：加爾文在《使徒行傳注釋》論本章時反覆強調，大會的決議並非制定一條新的救恩規條，而是確認一項早已成立的事實——因信稱義向猶太人與外邦人是同一個福音，沒有兩種得救之道。他也提醒，四項禁戒（15:29）不是律法主義的復辟，而是體諒猶太信徒的良心軟弱、為要保守外邦與猶太信徒之間的團契不至斷裂，屬於愛心的讓步，不是恩典之外的得救條件。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**割禮的難題，是在工作中自然浮現的**：摩根指出，這個難題不是猶太教師憑空製造出來的爭端，而是外邦工場自然浮現的問題——福音一旦真正進到外邦人中間，割禮的問題就無可避免地被逼到檯面上，教會必須召開大會來面對它。
+
+**先是「散漫的討論」，然後才是「認真的貢獻」**：摩根形容，大會先經歷了一段冗長、缺乏章法的辯論，直到彼得、保羅、巴拿巴、雅各依次發言，才真正把問題帶向解決——屬靈群體分辨真理的過程，往往不是一開口就整齊有序，而是要經過一段真實的、甚至有點凌亂的辯論。彼得在其中面對的是一個至高的事實：神差他到外邦人那裏去，已經證明神不偏待人，「並不分」猶太人和外邦人；雅各的總結則以智慧為特色——不要用任何純屬猶太人的事，去為難那些歸向神的外邦人。難題化解之後，「辯論就止息了」，這一致從使徒和長老一路延伸到全教會；而這封信送到安提阿的時候，眾人因這喜訊而歡喜——大會的果效不是停留在耶路撒冷的會議紀錄裏，而是實實在在地臨到了外邦信徒的群體。
+
+> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳15章釋經）
+
+### 麥克阿瑟 (John MacArthur)
 
 > "And then the report comes in the Jerusalem Council in Acts 15, which finally comes to the conclusion that they will accept them fully as those who belong to Jesus Christ."
 >
@@ -170,72 +172,48 @@ publisher: 三書精讀出版系統
 >
 > — John MacArthur, *"The Salvation of the Gentiles, Part 1"*（論徒10:1-20，1973年3月25日），Grace to You, gty.org（sermon 1734）
 
-**約翰·斯托得 (John Stott)**：斯托得在《使徒行傳信息》（*The Message of Acts*）中指出，耶路撒冷大會同時守住了兩件事——福音的真理（唯獨恩典，不加割禮）與教會的合一（猶太、外邦信徒仍同席團契），這兩件事在教會歷史上經常被誤以為互相對立，大會示範了兩者可以、也必須一同持守。
+### 斯托得 (John Stott)
+
+斯托得在《使徒行傳信息》（*The Message of Acts*）中指出，耶路撒冷大會同時守住了兩件事——福音的真理（唯獨恩典，不加割禮）與教會的合一（猶太、外邦信徒仍同席團契），這兩件事在教會歷史上經常被誤以為互相對立，大會示範了兩者可以、也必須一同持守。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 87:4-6
 
-> 我要提起拉哈伯和巴比倫人，是在認識我之中的；看哪，非利士和推羅並古實人，個個生在那裏。
-> **論到錫安，必說：「這一個那一個都生在其中。」而且至高者必親自堅立這城。**
+> 我要提起拉哈伯和巴比倫人，是在認識我之中的；看哪，非利士和推羅並古實人，個個生在那裏。 \
+> **論到錫安，必說：「這一個那一個都生在其中。」而且至高者必親自堅立這城。** \
 > 當耶和華記錄萬民的時候，他要點出：「這一個生在那裏。」
 
 ### 以賽亞書 56:6-7
 
-> 還有那些與耶和華聯合的外邦人——要侍奉他，要愛耶和華的名，要做他的僕人——就是凡守安息日不干犯，又持守他約的人，
+> 還有那些與耶和華聯合的外邦人——要事奉他，要愛耶和華的名，要作他的僕人——就是凡守安息日不干犯，又持守他約的人， \
 > **我必領他們到我的聖山，使他們在禱告我的殿中喜樂……因我的殿必稱為萬民禱告的殿。**
 
----
+### Blest Be the Tie That Binds（願愛的聯結常堅固）
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-**割禮的難題，是在工作中自然浮現的**：摩根指出，這個難題不是猶太教師憑空製造出來的爭端，而是外邦工場自然浮現的問題——福音一旦真正進到外邦人中間，割禮的問題就無可避免地被逼到檯面上，教會必須召開大會來面對它。
-
-**大會的開場是「散漫的討論」，然後才進入「認真的貢獻」**：摩根形容，大會先經歷了一段冗長、缺乏章法的辯論，直到彼得、保羅、巴拿巴、雅各依次發言，才真正把問題帶向解決。這提醒讀者，屬靈群體分辨真理的過程，往往不是一開口就整齊有序，而是要經過一段真實的、甚至有點凌亂的辯論。
-
-**彼得面對的是一個「至高的事實」**：摩根對彼得發言有一句精煉的概括——彼得在其中面對一個至高的事實：神差他到外邦人那裏去，已經證明神不偏待人，「並不分」猶太人和外邦人。
-
-**雅各的總結以智慧為特色**：摩根同樣高度評價雅各的總結發言——雅各的判斷是，不要用任何純屬猶太人的事，去為難那些歸向神的外邦人。摩根特別留意，難題化解之後，「辯論就止息了」，眾人達成了顯著的一致，這一致從使徒和長老一路延伸到全教會。
-
-**保羅、巴拿巴回到安提阿，帶去的是喜樂**：摩根指出，這封信送到安提阿教會的時候，眾人因這喜訊而歡喜——大會的果效不是停留在耶路撒冷的會議紀錄裏，而是實實在在地臨到了外邦信徒的群體。
-
-> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳15章釋經）
-
-### 老弟兄查經洞見 (Thursday Class Insights)
-
-老弟兄將15:6-21的三層見證，對照他一貫強調的「整本聖經連在一起讀」的方法，指出這三層見證正好對應人認識真理的三條路：從神親自的作為（哥尼流事件，聖靈的印證）、從人的實地經歷（保羅巴拿巴的宣教見證）、從已寫成的聖經（雅各引阿摩司書）。老弟兄常提醒，這三條路缺一不可——只有經歷沒有聖經，容易走偏；只有聖經沒有經歷，容易變成死的知識；只有領受沒有查考聖經印證，容易變成主觀的感覺。
-
-老弟兄也特別留意15:39-41這段記載的誠實：路加沒有為保羅、巴拿巴的分手加上一句「事後證明神的美意」之類的評語，只是平鋪直敘地記下衝突、分開、然後兩支隊伍各自出發。老弟兄常說，聖經記人物，從不為要顯明人是完美的，只為要顯明神在不完美的人身上仍然作工——保羅後來在書信中稱馬可「在傳道的事上於我有益處」（提後4:11），正是這道裂痕後來被恩典醫治的證據。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Blest Be the Tie That Binds*（何等奇妙的維繫）
-
-> Blest be the tie that binds
-> Our hearts in Christian love;
-> The fellowship of kindred minds
+> Blest be the tie that binds \
+> Our hearts in Christian love; \
+> The fellowship of kindred minds \
 > Is like to that above.
 >
 > *John Fawcett, 1782*
 >
-> 是何等奇妙的維繫，把我們的心連於基督的愛；
+> 是何等奇妙的維繫，把我們的心連於基督的愛； \
 > 相契相知眾聖徒，如同天上團契一般甘甜。
-
-**詩篇**：詩篇 87:4-6（見上「詩篇回應」）
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：耶路撒冷大會爭辯的表面是割禮與律法，實質卻只有一個問題——基督的十字架夠不夠？彼得的答案清楚：我們得救的方式，和外邦人完全相同，都是因著主耶穌的恩，沒有第二條路。「不是外邦人要像我們一樣，是我們得救的方式和他們相同——唯獨恩典。」
 
 ### 全經連線 (Tracing It Through Scripture)
 
 鑰匙：雅各引用的阿摩司書9:11-12，把大衛倒塌的帳幕、外邦人歸主、耶路撒冷大會三件事串成一條線。神應許「重新修造大衛倒塌的帳幕」，不是修一座建築，是重建大衛家的王權——而這王權的重建，帶進的結果是「凡稱我名下的外邦人，都尋求主」。這條線往前追，接到創世記12:3神對亞伯拉罕的應許：「地上的萬族都要因你得福」；往中間追，接到以賽亞書56:7「我的殿必稱為萬民禱告的殿」；往後追，接到啟示錄7:9「從各國、各族、各民、各方來的，有許多人，沒有人能數過來，站在寶座和羔羊面前」——外邦人蒙恩不是使徒行傳臨時的決定，是神從亞伯拉罕開始就定下的心意，耶路撒冷大會只是確認了這件早已寫在聖經裏的事。
+
+老弟兄將15:6-21的三層見證，對照他一貫強調的「整本聖經連在一起讀」的方法，指出這三層見證正好對應人認識真理的三條路：從神親自的作為（哥尼流事件，聖靈的印證）、從人的實地經歷（保羅巴拿巴的宣教見證）、從已寫成的聖經（雅各引阿摩司書）——這三條路缺一不可：只有經歷沒有聖經，容易走偏；只有聖經沒有經歷，容易變成死的知識；只有領受沒有查考聖經印證，容易變成主觀的感覺。他也特別留意15:39-41這段記載的誠實：路加沒有為保羅、巴拿巴的分手加上一句「事後證明神的美意」之類的評語，只是平鋪直敘地記下衝突、分開、然後兩支隊伍各自出發。聖經記人物，從不為要顯明人是完美的，只為要顯明神在不完美的人身上仍然作工——保羅後來在書信中稱馬可「在傳道的事上於我有益處」（提後4:11），正是這道裂痕後來被恩典醫治的證據。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -256,17 +234,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天與人是否有分歧？我有沒有相信神仍能使用分歧，而不是把分歧當作信仰失敗的證據？
 - **一個行動**：為著教會或家庭中一件懸而未決的分歧，具體地為對方禱告一次，求神賜下像雅各那樣的智慧。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：耶路撒冷大會爭辯的表面是割禮與律法，實質卻只有一個問題——基督的十字架夠不夠？彼得的答案清楚：我們得救的方式，和外邦人完全相同，都是因著主耶穌的恩，沒有第二條路。
-
-**貫通全經**：從亞伯拉罕之約（創12:3「地上的萬族都要因你得福」）到阿摩司的預言（摩9:11-12），再到啟示錄7:9萬國萬民站在寶座前——外邦人蒙恩，從來不是使徒行傳臨時的決定，是神從起初就定下的心意。
-
-**無法迴避的問題**：「你信仰生活裏，有沒有一副『不能負的軛』，其實是你自己或別人加上去的，不是耶穌要求的？」
-
-> 「不是外邦人要像我們一樣，是我們得救的方式和他們相同——唯獨恩典。」
+**你看見耶穌了嗎？** 整章大會沒有一句耶穌親口說的話，卻處處是祂——爭辯的核心是祂的十字架夠不夠，彼得的證據是祂所賜的聖靈，雅各的經文是祂重建的大衛帳幕，決議的結論是祂的恩典不容加添。一場看似行政的會議，真正的主席是那位已經作成了救恩、不容人再添一筆的基督。
 
 ---
 
@@ -278,11 +246,7 @@ publisher: 三書精讀出版系統
 
 2. **不能負的軛**：彼得稱律法主義為「不能負的軛」——你的信仰生活中，有沒有一個自己或別人加上的重擔，其實耶穌從未要求？
 
-3. **三重見證**：面對一件難以判斷的屬靈爭議，你習慣只靠道理分析，還是也願意聆聽別人的實際經歷、查考聖經的根據？
-
-4. **分歧中的恩典**：當你與同工、家人在事奉或生活上出現像保羅與巴拿巴那樣的分歧時，你能不能相信神仍然能使用分開後的兩條路？
-
-5. **聖靈和我們**：你所在的群體做重大決定時，是靠一人拍板，還是願意經過禱告、聆聽、查考聖經的過程？
+3. **聖靈和我們**：你所在的群體做重大決定時，是靠一人拍板，還是願意經過禱告、聆聽、查考聖經的過程？
 
 ### 禱告回應
 

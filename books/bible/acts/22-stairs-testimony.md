@@ -15,26 +15,26 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：見證人 Witness（22:15）** \
-> **1:8 座標**：卷五·羅馬篇的起點——保羅站在營樓的台階上，向殺氣騰騰的耶路撒冷群眾第一次公開作見證；這一夜過後（23:11），主要親口告訴他：你也必在羅馬為我作見證。 \
+> **1:8 座標**：卷五·羅馬篇的起點——保羅站在營樓的臺階上，向殺氣騰騰的耶路撒冷群眾第一次公開作見證；這一夜過後（23:11），主要親口告訴他：你也必在羅馬為我作見證。 \
 > （全書骨幹見卷首《見證——全書的骨幹》）
 
-這一章的焦點，不在保羅申辯的技巧，而在那位在大馬色路上顯現、又在聖殿裏差遣他的主，如何親自把一個逼迫教會的人，變成祂自己「所看見的、所聽見的」見證人。台階上站著的，表面是被鎖鏈捆綁的囚犯；真正在場說話的，卻是那位曾經對他說「掃羅，掃羅，你為甚麼逼迫我」的主。群眾聽到「外邦人」三個字就翻臉——這不是保羅失言，而是主自己早已在異象中告訴他：「這裏的人必不領受你為我作的見證」（22:18）。人的拒絕擋不住主的差遣；台階上這篇見證，正是通往羅馬的第一步。
+這一章的焦點，不在保羅申辯的技巧，而在那位在大馬色路上顯現、又在聖殿裏差遣他的主，如何親自把一個逼迫教會的人，變成祂自己「所看見的、所聽見的」見證人。臺階上站著的，表面是被鎖鏈捆綁的囚犯；真正在場說話的，卻是那位曾經對他說「掃羅，掃羅，你為甚麼逼迫我」的主。群眾聽到「外邦人」三個字就翻臉——這不是保羅失言，而是主自己早已在異象中告訴他：「因你為我作的見證，這裏的人必不領受」（22:18）。人的拒絕擋不住主的差遣；臺階上這篇見證，正是通往羅馬的第一步。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **I Love to Tell the Story**
+> **I Love to Tell the Story** \
 > *Katherine Hankey, 1866*
 >
-> I love to tell the story of unseen things above,
-> Of Jesus and His glory, of Jesus and His love.
-> I love to tell the story, because I know 'tis true;
+> I love to tell the story of unseen things above, \
+> Of Jesus and His glory, of Jesus and His love. \
+> I love to tell the story, because I know 'tis true; \
 > It satisfies my longings as nothing else can do.
 >
-> 我愛述說這故事，眼未曾見的榮耀；
-> 述說耶穌和祂的愛，那樣真實可靠。
-> 我愛述說這故事，因我深知這是真；
+> 我愛述說這故事，眼未曾見的榮耀； \
+> 述說耶穌和祂的愛，那樣真實可靠。 \
+> 我愛述說這故事，因我深知這是真； \
 > 世上再沒有一件事，能這樣滿足我心。
 
 ---
@@ -43,7 +43,7 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^「諸位父兄，請聽我現在對你們分訴！」^2^眾人聽他說的是希伯來話，就更加安靜了。保羅說：^3^「我原是猶太人，生在基利家的大數，長在這城裏；在迦瑪列門下，按著我們祖宗嚴緊的律法受教；熱心侍奉神，像你們眾人今日一樣。^4^我也曾逼迫奉這道的人，直到死地，無論男女都鎖拿下監。^5^這是大祭司和眾長老都可以給我作見證的。我又領了他們達於弟兄的書信，往大馬士革去，要把在那裏奉這道的人鎖拿，帶到耶路撒冷受刑。
+> ^1^「諸位父兄，請聽我現在對你們分訴！」^2^眾人聽他說的是希伯來話，就更加安靜了。保羅說：^3^「我原是猶太人，生在基利家的大數，長在這城裏；在迦瑪列門下，按著我們祖宗嚴緊的律法受教；熱心事奉神，像你們眾人今日一樣。^4^我也曾逼迫奉這道的人，直到死地，無論男女都鎖拿下監。^5^這是大祭司和眾長老都可以給我作見證的。我又領了他們達與弟兄的書信，往大馬士革去，要把在那裏奉這道的人鎖拿，帶到耶路撒冷受刑。
 
 > ^6^我將到大馬士革，正走的時候，約在晌午，忽然從天上發大光，四面照著我。^7^我就仆倒在地，聽見有聲音對我說：\jesus{『掃羅，掃羅，你為甚麼逼迫我？』}^8^我回答說：『主啊，你是誰？』他說：\jesus{『我就是你所逼迫的拿撒勒人耶穌。』}^9^與我同行的人看見了那光，卻沒有聽明那位對我說話的聲音。^10^我說：『主啊，我當做甚麼？』主說：\jesus{『起來！進大馬士革去，在那裏要將所派你做的一切事告訴你。』}^11^我因那光的榮耀不能看見，同行的人就拉著我手進了大馬士革。
 
@@ -57,27 +57,27 @@ publisher: 三書精讀出版系統
 
 （第二天，千夫長為要查明猶太人控告保羅的實情，解開他的鎖鏈，吩咐祭司長和全公會的人聚集，把保羅帶到他們面前——公會前的審判由此展開，22:30。）
 
-### English — ESV
+### English — NASB
 
-> ^1^"Brothers and fathers, hear the defense that I now make before you." ^2^And when they heard that he was addressing them in the Hebrew language, they became even more quiet. And he said: ^3^"I am a Jew, born in Tarsus in Cilicia, but brought up in this city, educated at the feet of Gamaliel according to the strict manner of the law of our fathers, being zealous for God as all of you are this day. ^4^I persecuted this Way to the death, binding and delivering to prison both men and women, ^5^as the high priest and the whole council of elders can bear me witness.
+> ^1^"Brethren and fathers, hear my defense which I now *offer* to you." ^2^And when they heard that he was addressing them in the Hebrew dialect, they became even more quiet; and he said, ^3^"I am a Jew, born in Tarsus of Cilicia, but brought up in this city, educated under Gamaliel, strictly according to the law of our fathers, being zealous for God just as you all are today. ^4^I persecuted this Way to the death, binding and putting both men and women into prisons, ^5^as also the high priest and all the Council of the elders can testify. From them I also received letters to the brethren, and started off for Damascus in order to bring even those who were there to Jerusalem as prisoners to be punished.
 
-> ^7^And I fell to the ground and heard a voice saying to me, \jesus{'Saul, Saul, why are you persecuting me?'} ^8^And I answered, 'Who are you, Lord?' And he said to me, \jesus{'I am Jesus of Nazareth, whom you are persecuting.'} ^10^And I said, 'What shall I do, Lord?' And the Lord said to me, \jesus{'Rise, and go into Damascus, and there you will be told all that is appointed for you to do.'}
+> ^7^and I fell to the ground and heard a voice saying to me, \jesus{'Saul, Saul, why are you persecuting Me?'} ^8^And I answered, 'Who are You, Lord?' And He said to me, \jesus{'I am Jesus the Nazarene, whom you are persecuting.'} ^10^And I said, 'What shall I do, Lord?' And the Lord said to me, \jesus{'Get up and go on into Damascus, and there you will be told of all that has been appointed for you to do.'}
 
-> ^14^And he said, 'The God of our fathers appointed you to know his will, to see the Righteous One and to hear a voice from his mouth; ^15^for you will be a witness for him to everyone of what you have seen and heard. ^16^And now why do you wait? Rise and be baptized and wash away your sins, calling on his name.'
+> ^14^And he said, 'The God of our fathers has appointed you to know His will and to see the Righteous One and to hear an utterance from His mouth. ^15^For you will be a witness for Him to all men of what you have seen and heard. ^16^Now why do you delay? Get up and be baptized, and wash away your sins, calling on His name.'
 
-> ^18^and saw him saying to me, \jesus{'Make haste and get out of Jerusalem quickly, because they will not accept your testimony about me.'} ^21^And he said to me, \jesus{'Go, for I will send you far away to the Gentiles.'}
+> ^18^and I saw Him saying to me, \jesus{'Make haste, and get out of Jerusalem quickly, because they will not accept your testimony about Me.'} ^21^And He said to me, \jesus{'Go! For I will send you far away to the Gentiles.'}"
 
-> ^25^But when they had stretched him out for the whips, Paul said to the centurion who was standing by, "Is it lawful for you to flog a man who is a Roman citizen and uncondemned?" ^28^The tribune answered, "I bought this citizenship for a large sum." Paul said, "But I am a citizen by birth."
+> ^25^But when they stretched him out with thongs, Paul said to the centurion who was standing by, "Is it lawful for you to scourge a man who is a Roman and uncondemned?" ^28^The commander answered, "I acquired this citizenship with a large sum of money." And Paul said, "But I was actually born *a citizen.*"
 
-**經文核對**：[ai-eden.com/bible/acts/22](https://www.ai-eden.com/bible/acts/22?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/22](https://www.ai-eden.com/bible/acts/22?t=CUV,NASB&cols=2)
 
 ---
 
 ## 背景 (Context)
 
-### 營樓的台階
+### 營樓的臺階
 
-安東尼亞營樓（Antonia Fortress）緊鄰聖殿北側、居高臨下，羅馬駐軍常年由此監視聖殿院內的動靜；營樓與聖殿外院之間有台階相連，千夫長正是從這台階把保羅「抬」進營樓（21:35）。保羅站住講話的地方，就是這道連接聖殿與羅馬軍營的階梯——地理位置本身，恰好象徵他的處境：一腳仍站在猶太信仰的根基上，一腳已經踏進外邦世界的門檻。
+安東尼亞營樓（Antonia Fortress）緊鄰聖殿北側、居高臨下，羅馬駐軍常年由此監視聖殿院內的動靜；營樓與聖殿外院之間有臺階相連，千夫長正是從這臺階把保羅「抬」進營樓（21:35）。保羅站住講話的地方，就是這道連接聖殿與羅馬軍營的階梯——地理位置本身，恰好象徵他的處境：一腳仍站在猶太信仰的根基上，一腳已經踏進外邦世界的門檻。
 
 ### 大馬色路上——第二次記載的比較
 
@@ -89,13 +89,13 @@ publisher: 三書精讀出版系統
 | 開場強調 | 掃羅「殘害教會」的兇惡 | 保羅的猶太根基——大數人、迦瑪列門下、熱心事奉神 |
 | 亞拿尼亞的角色 | 被主直接差派、原本懼怕保羅 | 特別強調他是「按著律法虔誠、為猶太人所稱讚」的人 |
 | 差遣的對象 | 「外邦人和君王，並以色列人」（9:15） | 聖殿異象裏才補上「遠遠地往外邦人那裏去」（22:21） |
-| 同伴的反應 | 「聽見聲音，卻看不見人」（9:7） | 「看見了那光，卻沒有聽明那聲音」（22:9） |
+| 同伴的反應 | 「聽見聲音，卻看不見人」（9:7） | 「看見了那光，卻沒有聽明那位對我說話的聲音」（22:9） |
 
-第四點與第五點看似矛盾，其實正說明保羅在剪裁細節：面對耶路撒冷的猶太群眾，他刻意把自己與亞拿尼亞的猶太身份說得格外仔細，直到最後一刻才引出「外邦人」——這正是他被打斷、群眾翻臉的那一句。至於同伴「聽見」與「沒有聽明」的差異，多位釋經家指出，兩處經文原文用詞不同：9:7強調的是「聽見了聲音的響動」，22:9強調的是「沒有聽懂那聲音所說的話」——同伴確實聽見了聲音，卻聽不懂那是對保羅說的話，兩處記載並不矛盾。
+第四點與第五點看似矛盾，其實正說明保羅在剪裁細節：面對耶路撒冷的猶太群眾，他刻意把自己與亞拿尼亞的猶太身分說得格外仔細，直到最後一刻才引出「外邦人」——這正是他被打斷、群眾翻臉的那一句。至於同伴「聽見」與「沒有聽明」的差異，多位釋經家指出，兩處經文原文用詞不同：9:7強調的是「聽見了聲音的響動」，22:9強調的是「沒有聽懂那聲音所說的話」——同伴確實聽見了聲音，卻聽不懂那是對保羅說的話，兩處記載並不矛盾。
 
 ### 羅馬公民權的法律背景
 
-羅馬法律嚴禁對羅馬公民不經審判施以體罰或鞭刑，違者官長本人要負刑責。保羅表明自己「生來」就是羅馬公民（22:28），身份比千夫長「用許多銀子才入籍」更高一等——這使千夫長立刻「害怕了」（22:29）。保羅動用這項合法權利，不是為了逃避受苦，而是為了讓見證的機會能夠繼續下去。
+羅馬法律嚴禁對羅馬公民不經審判施以體罰或鞭刑，違者官長本人要負刑責。保羅表明自己「生來」就是羅馬公民（22:28），身分比千夫長「用許多銀子才入籍」更高一等——這使千夫長立刻「害怕了」（22:29）。保羅動用這項合法權利，不是為了逃避受苦，而是為了讓見證的機會能夠繼續下去。
 
 ---
 
@@ -109,27 +109,27 @@ publisher: 三書精讀出版系統
 | Ναζωραῖος | Nazōraios | 拿撒勒人 | 22:8——復活的主向保羅自我介紹的稱號 |
 | μάρτυς | martys | 見證人 | 22:15, 20——本章鑰詞；後來教會歷史中漸漸專指「殉道者」 |
 | ἔκστασις | ekstasis | 魂遊象外、出神 | 22:17——聖殿禱告中的異象經歷 |
-| Ῥωμαῖος | Rhōmaios | 羅馬公民 | 22:25-29——保羅表明身份的關鍵詞，決定他能否免受鞭刑 |
+| Ῥωμαῖος | Rhōmaios | 羅馬公民 | 22:25-29——保羅表明身分的關鍵詞，決定他能否免受鞭刑 |
 
 ### 「見證人」(μάρτυς) 如何成了「殉道者」
 
-亞拿尼亞對保羅說「你要對著萬人作他的見證人」（22:15），用的正是 μάρτυς 這個字。保羅在同一段話裏，稱被害的司提反為「你的見證人」（22:20）——同一個字，用在還活著的保羅身上，也用在已經流血而死的司提反身上。教會歷史後來把這個希臘字直接借用為「殉道者」(martyr) 一詞的字源，正是因為第一代的見證人，一個一個都用性命為他們所看見所聽見的作了印證。
+亞拿尼亞對保羅說，「你要將所看見的、所聽見的，對著萬人為他作見證」（22:15），原文用的正是 μάρτυς（見證人）這個名詞。保羅在同一段話裏，稱被害的司提反為「你的見證人」（22:20）——同一個字，用在還活著的保羅身上，也用在已經流血而死的司提反身上。教會歷史後來把這個希臘字直接借用為「殉道者」(martyr) 一詞的字源，正是因為第一代的見證人，一個一個都用性命為他們所看見所聽見的作了印證。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 見證人的呼召：從看見到傳講
 
-亞拿尼亞對保羅的呼召分成兩步：先是「看見那義者，聽他口中所出的聲音」（22:14），然後才是「將所看見的、所聽見的，對著萬人為他作見證」（22:15）。見證人的資格不是雄辯，而是誠實——只能說自己「看見」和「聽見」的，不能多加，也不能減少。
+亞拿尼亞對保羅的呼召分成兩步：先是「得見那義者，聽他口中所出的聲音」（22:14），然後才是「將所看見的、所聽見的，對著萬人為他作見證」（22:15）。見證人的資格不是雄辯，而是誠實——只能說自己「看見」和「聽見」的，不能多加，也不能減少。
 
 ### 2. 同一異象，不同聽眾，不同的講法
 
 保羅在9章由路加客觀記載，在22章對猶太群眾親口重述，在26章又對外邦官長再述一次。每一次的細節取捨都不同，卻是同一件真實發生的事——這提醒讀者：忠於事實的見證，可以因聽眾而調整講法，卻不能因聽眾而改變內容。
 
-### 3. 「這裏的人必不領受你的見證」——主早已知道結局
+### 3. 「這裏的人必不領受」——主早已知道結局
 
-主在聖殿異象裏，提早告訴保羅：「這裏的人必不領受你為我作的見證」（22:18）。保羅台階上的申辯注定不會被接受，主卻仍然差他去講——見證的價值不在於聽眾接不接受，而在於見證人是否忠心地說了。
+主在聖殿異象裏，提早告訴保羅：「因你為我作的見證，這裏的人必不領受」（22:18）。保羅臺階上的申辯注定不會被接受，主卻仍然差他去講——見證的價值不在於聽眾接不接受，而在於見證人是否忠心地說了。
 
 ### 4. 「外邦人」三個字引爆的殺機
 
@@ -137,20 +137,15 @@ publisher: 三書精讀出版系統
 
 ### 5. 羅馬公民權：合法權利的正當使用
 
-保羅表明羅馬公民身份，免去了一場非法的鞭刑（22:25-29）。這不是妥協或懼怕受苦，而是保羅一貫的原則：合法的權利可以善用，目的是讓見證的機會存留，不是為了迴避十字架的道路。
+保羅表明羅馬公民身分，免去了一場非法的鞭刑（22:25-29）。這不是妥協或懼怕受苦，而是保羅一貫的原則：合法的權利可以善用，目的是讓見證的機會存留，不是為了迴避十字架的道路。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
-**屈梭多模 (Chrysostom)**:
-
+**屈梭多模 (Chrysostom)**：
 > "Do you observe how the using the same tongue subdued them? In fact, they had a sort of awe for that language."
 >
 > 「你看，用同一種語言，如何使他們的心安靜下來？他們對這語言，其實懷著一種敬畏。」——屈梭多模論保羅開口說希伯來話（22:2）帶來的效果。
@@ -165,8 +160,7 @@ publisher: 三書精讀出版系統
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin)**:
-
+**約翰·加爾文 (John Calvin)**：
 > "This is indeed an usual thing, that when men which speak diverse languages are together, we hear those more willingly who speak our own language."
 >
 > 「這確實是常見的事：當說著不同語言的人聚在一起，我們總會更樂意聽那說我們本族語言的人說話。」——加爾文論保羅選擇用希伯來話向群眾說話的智慧（22:2）。
@@ -179,33 +173,9 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on Acts*, 徒 22:21-22 註（CCEL, calcom37）
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**:
-
-> "He spoke to them in their own vernacular. So you see, he was the right man."
->
-> 「他用他們自己的母語向他們說話。你看，他正是那個合適的人。」——麥克阿瑟指出，保羅一生的裝備——猶太根基加上羅馬公民身份、希臘教育——使他成了此刻唯一能同時對猶太群眾與羅馬官長說話的人。
->
-> — John MacArthur, *"Paul's Arrest, Part 2: Positive Testimony in Negative Situation"*, Grace to You, gty.org
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 以賽亞書 43:10, 12
-
-> 耶和華說：「你們是我的見證，我所揀選的僕人。既是這樣，便可以知道，且信服我，又明白我就是耶和華，在我以前沒有真神，在我以後也必沒有。……我曾指示，我曾拯救，我曾說明，並且在你們中間沒有別神。」所以耶和華說：**「你們是我的見證，我也是神。」**
-
-保羅在台階上所作的，正是以賽亞書早已宣告的呼召——蒙揀選的僕人，要在萬民面前，為那獨一的神作見證。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-**申辯的典範**：摩根形容保羅台階上的這篇申辯，是「基督徒論辯絕無僅有、完美的範例」（"Paul's defense as here recorded is a rare and perfect example of Christian argument."）——不是因為修辭高超，而是因為完全誠實：保羅沒有為自己開脫，只是照實把神在他生命中做過的事說出來。
+**申辯的典範**：摩根形容保羅臺階上的這篇申辯，是「基督徒論辯絕無僅有、完美的範例」（"Paul's defense as here recorded is a rare and perfect example of Christian argument."）——不是因為修辭高超，而是因為完全誠實：保羅沒有為自己開脫，只是照實把神在他生命中做過的事說出來。
 
 **先建立橋樑，才傳講真理**：摩根留意到，保羅一開口用希伯來話，群眾立刻「更加安靜」（22:2）——這不是討好聽眾，而是智慧：在講出一句難以接受的真理之前，先讓聽的人願意聽下去。
 
@@ -215,7 +185,48 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *Exposition on the Whole Bible*，使徒行傳 22:1-30 條目（bibliaplus.org 收錄）。
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
+
+
+> "He spoke to them in their own vernacular. So you see, he was the right man."
+>
+> 「他用他們自己的母語向他們說話。你看，他正是那個合適的人。」——麥克阿瑟指出，保羅一生的裝備——猶太根基加上羅馬公民身分、希臘教育——使他成了此刻唯一能同時對猶太群眾與羅馬官長說話的人。
+>
+> — John MacArthur, *"Paul's Arrest, Part 2: Positive Testimony in Negative Situation"*, Grace to You, gty.org
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 以賽亞書 43:10, 12
+
+> 耶和華說：「你們是我的見證，我所揀選的僕人。既是這樣，便可以知道，且信服我，又明白我就是耶和華，在我以前沒有真神，在我以後也必沒有。……我曾指示，我曾拯救，我曾說明，並且在你們中間沒有別神。」所以耶和華說：**「你們是我的見證，我也是神。」**
+
+保羅在臺階上所作的，正是以賽亞書早已宣告的呼召——蒙揀選的僕人，要在萬民面前，為那獨一的神作見證。
+
+### 詩篇 40:9-10
+
+> 我在大會中宣傳公義的佳音，我必不止住我的嘴唇，耶和華啊，這是你所知道的。 \
+> 我未曾把你的公義藏在心裏，我已陳明你的信實和你的救恩，我在大會中未曾隱瞞你的慈愛和誠實。
+
+### Blessed Assurance（有福的確據）
+
+> Blessed assurance, Jesus is mine! \
+> O what a foretaste of glory divine! \
+> This is my story, this is my song, \
+> Praising my Savior all the day long.
+
+*Fanny J. Crosby, 1873*
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：保羅站在連接聖殿與軍營的臺階上，把自己整個生命攤開作見證——他所看見的、所聽見的，一句都不多加，一句都不敢少說。「見證人不是最會辯論的人，是最誠實的人——只說自己真實看見、真實聽見的，一句都不用加，因為那已經足夠有能力。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：見證的源頭，早在該隱殺亞伯之後就已埋下——「你兄弟的血有聲音從地裏向我哀告」（創4:10），最初的見證，是無聲的血在向神哀告。到了以賽亞書，神親口呼召祂的百姓：「你們是我的見證，我所揀選的僕人」（賽43:10）；耶穌升天前，把這呼召說得更清楚：「你們也要作見證，因為你從起頭就與我同在」（約15:27；徒1:8）。保羅在臺階上，正活出這條線索——把所看見、所聽見的告訴萬人（22:15）；他也記得那流血的見證人司提反（22:20）。這條見證的線，最終要在啟示錄裏延續下去，直到「那忠心作見證的」（啟1:5）親自完成祂的工作，殉道者也要「用羔羊的血和自己所見證的道」得勝仇敵（啟12:11）。
 
 老弟兄常把 22:15「你要將所看見的、所聽見的，對著萬人為他作見證」拆成三層來查考：
 
@@ -225,41 +236,13 @@ publisher: 三書精讀出版系統
 | 所聽見的 | 主的聲音、主的話 | 你能不能分清楚，哪些是主親口的話，哪些是自己加上去的？ |
 | 對著萬人 | 猶太人和外邦人，一個都不能少 | 你的見證，是不是也對著「你不喜歡的那群人」講？ |
 
-老弟兄也常提醒：「見證人」(μάρτυς) 這個詞，後來在教會歷史裏漸漸專指「殉道者」——正是因為第一代見證人，一個一個都用性命為所看見所聽見的作了印證。保羅在22:20提到「你的見證人司提反」，用的正是同一個字；他自己後來也照樣走上這條路。
-
-老弟兄常把這段接回約翰福音——耶穌在馬可樓上曾對門徒說：「但我要從父那裏差保惠師來，就是從父出來真理的聖靈；他來了，就要為我作見證。你們也要作見證，因為你從起頭就與我同在」（約15:26-27）。保羅在22:15領受的呼召，正是這應許在他身上的實現：不是保羅自己選了要當見證人，是那義者親自向他顯現、親自差他去。（參《約翰福音研讀》全書領受總綱，論聖靈與見證的關係。）
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Blessed Assurance*（有福的確據）
-
-> Blessed assurance, Jesus is mine!
-> O what a foretaste of glory divine!
-> This is my story, this is my song,
-> Praising my Savior all the day long.
-
-*Fanny J. Crosby, 1873*
-
-**詩篇**：詩篇 40:9-10
-
-> 我在大會中宣傳公義的佳音，我必不止住我的嘴唇，耶和華啊，這是你所知道的。
-> 我未曾把你的公義藏在心裏，我已陳明你的信實和你的救恩，我在大會中未曾隱瞞你的慈愛和誠實。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：見證的源頭，早在該隱殺亞伯之後就已埋下——「你兄弟的血有聲音從地裏向我哀告」（創4:10），最初的見證，是無聲的血在向神哀告。到了以賽亞書，神親口呼召祂的百姓：「你們是我的見證，我所揀選的僕人」（賽43:10）；耶穌升天前，把這呼召說得更清楚：「你們也要作見證，因為你從起頭就與我同在」（約15:27；徒1:8）。保羅在台階上，正活出這條線索——把所看見、所聽見的告訴萬人（22:15）；他也記得那流血的見證人司提反（22:20）。這條見證的線，最終要在啟示錄裏延續下去，直到「那忠心作見證的」（啟1:5）親自完成祂的工作，殉道者也要「用羔羊的血和自己所見證的道」得勝仇敵（啟12:11）。
+老弟兄也常把這段接回約翰福音——耶穌在馬可樓上曾對門徒說：「但我要從父那裏差保惠師來，就是從父出來真理的聖靈；他來了，就要為我作見證。你們也要作見證，因為你從起頭就與我同在」（約15:26-27）。保羅在22:15領受的呼召，正是這應許在他身上的實現：不是保羅自己選了要當見證人，是那義者親自向他顯現、親自差他去。（參《約翰福音研讀》全書領受總綱，論聖靈與見證的關係。）
 
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
-- 先問：「保羅站在台階上，先說『我原是猶太人……熱心事奉神』——他為甚麼不直接講耶穌，反而先講自己的猶太身份？」
+- 先問：「保羅站在臺階上，先說『我原是猶太人……熱心事奉神』——他為甚麼不直接講耶穌，反而先講自己的猶太身分？」
 - 再問：「同一件大馬色路上的事，路加在9章客觀敘述，保羅在22章又親口重述一次——兩次記載，你注意到哪些不同？保羅為甚麼要挑不同的細節說？」
 - 追問：「『你要將所看見的、所聽見的，對著萬人作他的見證人』（22:15）——見證人的責任，是甚麼都不能加、也不能減，只能說『我看見的、我聽見的』，你今天的見證，守著這條界線嗎？」
 - 落到自己：「群眾一聽『外邦人』就翻臉——你有沒有講過一句真話，換來的卻是翻臉？那時候，你會不會像保羅一樣，繼續往下說？」
@@ -272,19 +255,9 @@ publisher: 三書精讀出版系統
 
 - **早晨**：主啊，今天若有機會為你開口，求你讓我只說我真實看見、聽見的，不添油加醋，也不因懼怕而閉口。
 - **晚上**：今天有沒有一個時刻，我因為怕人翻臉，把該說的「外邦人」那句話吞了回去？
-- **一個行動**：這週找一個機會，像保羅在台階上那樣，誠實說出耶穌在你生命中真實做過的一件事。
+- **一個行動**：這週找一個機會，像保羅在臺階上那樣，誠實說出耶穌在你生命中真實做過的一件事。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：保羅站在連接聖殿與軍營的台階上，把自己整個生命攤開作見證——他所看見的、所聽見的，一句都不多加，一句都不敢少說。
-
-**貫通全經**：「你兄弟的血有聲音從地裏向我哀告」（創4:10）——見證的源頭，早在該隱殺亞伯就已埋下；「你們是我的見證」（賽43:10）——先知早已宣告呼召；「你們也要作見證」（約15:27）——主升天前親口交託；保羅在台階上（22:15），正活出這一條從創世記到啟示錄未曾斷過的線。
-
-**無法迴避的問題**：「你今天的見證，是不是也守著『只說我看見的、聽見的』這條界線？」
-
-> 「見證人不是最會辯論的人，是最誠實的人——只說自己真實看見、真實聽見的，一句都不用加，因為那已經足夠有能力。」
+**你看見耶穌了嗎？** 臺階上被鎖鏈捆著的是保羅，真正在說話的卻是那位大馬色路上的主——祂揀選了一個逼迫祂的人，親自向他顯現，親自差他往外邦去；群眾可以翻臉，鎖鏈可以捆手，卻攔不住那位又真又活的主，把自己的見證人一步一步送往羅馬。
 
 ---
 
@@ -294,20 +267,16 @@ publisher: 三書精讀出版系統
 
 1. **見證從個人的生命故事開始**：保羅沒有引用艱深的道理，只是誠實說出自己的過去。如果今天要你像保羅一樣作見證，你會怎麼說？
 
-2. **同一件事，不同的講法**：保羅對猶太群眾強調自己的猶太根基，對外邦官長（26章）卻換一種講法——你是否懂得用聽眾能懂的語言，見證同一位主，而不改變見證的內容？
+2. **合法的權利，不是逃避十字架**：保羅動用公民權，是為了讓見證能繼續，不是為了逃避苦難。你懂得分辨這兩者的界線嗎？
 
-3. **「外邦人」三個字，你敢不敢說？**：你有沒有為了不想引起衝突，把某句該說的真話留在心裏沒說出口？
-
-4. **合法的權利，不是逃避十字架**：保羅動用公民權，是為了讓見證能繼續，不是為了逃避苦難。你懂得分辨這兩者的界線嗎？
-
-5. **希伯來話的智慧**：你是否願意先花時間、用對方聽得懂的方式建立橋樑，再傳講真理？
+3. **希伯來話的智慧**：你是否願意先花時間、用對方聽得懂的方式建立橋樑，再傳講真理？
 
 ### 禱告回應
 
-> 主耶穌，你是那位在大馬色路上向掃羅顯現的主，也是那位在聖殿裏親自差遣保羅的主。
-> 求你光照我生命中的過去，使我像保羅一樣，敢於誠實地說出你在我身上做過的事。
-> 求你賜我智慧，知道怎樣用別人聽得懂的話傳講真理；
-> 也求你賜我勇氣，不因懼怕人的翻臉，把該說的話吞回去。
+> 主耶穌，你是那位在大馬色路上向掃羅顯現的主，也是那位在聖殿裏親自差遣保羅的主。 \
+> 求你光照我生命中的過去，使我像保羅一樣，敢於誠實地說出你在我身上做過的事。 \
+> 求你賜我智慧，知道怎樣用別人聽得懂的話傳講真理； \
+> 也求你賜我勇氣，不因懼怕人的翻臉，把該說的話吞回去。 \
 > 奉主名禱告，阿們。
 
 ---
