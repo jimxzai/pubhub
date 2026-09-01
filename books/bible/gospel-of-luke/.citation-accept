@@ -1,0 +1,5 @@
+# Accepted quote deviations, with reasons. One per line: <verdict>|<quote prefix>|<reason>
+# Reviewed 2026-08-31. Add an entry only when the difference is provably NOT the
+# book's error -- e.g. an OCR artifact in the digitised source -- never to
+# silence a mismatch you have not run down.
+DRIFT|That was a great heart-burst. Matthew does not give it|The digitised source reads "Only. Luke records it." with a stray OCR period mid-sentence; the book prints the obviously intended "Only Luke records it." Verified against context 2026-08-31.

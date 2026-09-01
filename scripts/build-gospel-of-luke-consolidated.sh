@@ -55,10 +55,9 @@ copyright: |
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
+  Scripture quotations taken from the New American Standard Bible® (NASB),
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. All rights reserved. lockman.org
 
   All rights reserved.
 ---

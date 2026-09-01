@@ -258,6 +258,12 @@
 \makeatletter
 % Chinese chapter label + clean running head (第 N 章　Title)
 \renewcommand{\chaptermark}[1]{\markboth{第 \thechapter\ 章　#1}{}}
+% Unnumbered chapters (\chapter*, used for the preface, the four orientation
+% chapters, the epilogue, the appendix and the afterword) never call
+% \chaptermark, so the verso running head kept the last NUMBERED chapter's
+% title -- every appendix page was printing 「第 24 章 同行的主」. Make the
+% starred form set the mark from its own title.
+\apptocmd{\@schapter}{\markboth{#1}{}}{}{\PackageWarning{luke}{could not patch \string\@schapter}}
 \def\@makechapterhead#1{%
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
@@ -589,8 +595,8 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+中文：和合本 (CUV)\\
+English: New American Standard Bible\textregistered{} (NASB\textregistered), Copyright \copyright\ 1960, 1971, 1977, 1995 by The Lockman Foundation.\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ 老弟兄查經法 (Thursday Bible Class Method)\\

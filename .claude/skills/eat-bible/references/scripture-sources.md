@@ -110,3 +110,43 @@ and `books/bible/pauline-epistles/romans/99-appendix-references.md`
 (a short "版本說明" note naming the actual source used, right after
 the Scripture section, plus a per-chapter breakdown in the book's
 own references appendix).
+
+## NASB (English) — sourcing that is actually verbatim
+
+Several volumes (Philemon, Revelation, 2 Peter, Luke) use **NASB 1995**
+for the English column. Sourcing rules learned 2026-08-31:
+
+- **biblehub chapter pages, no underscore, are 1995:**
+  `https://biblehub.com/nasb/luke/15.htm`. With a trailing underscore
+  (`/nasb_/`) you get **NASB 2020**; the per-verse pages
+  `biblehub.com/luke/15-20.htm` show both, labelled. Confirm the edition
+  by content, not URL (彼後 3:10 "burned up" = 1995, "discovered" = 2020;
+  提前 2:5 "God and men" = 1995, "and mankind" = 2020).
+- **Ask WebFetch for a verse list, not the chapter** ("return verses 4, 5,
+  6, 20–24 verbatim, one per line, and state the edition") — it declines a
+  whole copyrighted chapter but complies with a list, and 24 chapters of
+  Luke came back in one parallel round. Re-fetch any verse the extractor
+  truncated or doubled the quote marks on; do not fill from memory.
+- **Supplied words are italic in NASB** (biblehub renders them `_word_`).
+  Keep them: `*word*` in markdown, `\textit{word}` inside a `\jesus{}` span.
+- **Each NASB verse in continuing speech re-opens a quotation mark**
+  (`^21^"Blessed…`). When joining verses into one blockquote paragraph,
+  keep only the opening and closing marks — that is layout, not text.
+- OT quotations are ALL CAPS in NASB; leave them so.
+- **Copyright page wording** (build script `copyright:` block):
+  `Scripture quotations taken from the New American Standard Bible® (NASB),
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by
+  permission. All rights reserved. lockman.org`. Also change the template's
+  `$else$` fallback copyright block, the overview key verse, the appendix
+  版本 line, and every `經文核對` link (`t=CUV,NASB`) — `grep -rn ESV` on
+  the book directory, the build script and the template until it is empty.
+
+## CUV by the chapter — a cheaper second source
+
+`bible.fhl.net/new/read.php?VERSION1=unv&TABFLAG=1&chineses=<書>&chap=<n>`
+(書 URL-encoded, e.g. 詩=%E8%A9%A9, 彼後=%E5%BD%BC%E5%BE%8C) returns clean
+和合本 for a whole chapter — far cheaper than cnbible per-verse pages, and
+a useful second source to diff against. Then run
+`python3 scripts/lint-scripture-text.py <dir>` for the variant-character
+classes (鑒/鑑, 熔/鎔, 汙/污, 裡/裏, 做/作 — rules are word-scoped because
+CUV itself is mixed; the script refuses to auto-fix the 做/作 class).

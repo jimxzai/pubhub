@@ -137,6 +137,10 @@
 \definecolor{NIVBlue}{RGB}{0,51,102}
 \definecolor{NIVRed}{RGB}{153,0,0}
 \definecolor{NIVGold}{RGB}{184,134,11}
+% Series-shared colour used by chapter markdown via \textcolor{ScriptureGold}{...}.
+% It was never defined here, so this book failed to compile at all
+% ("Undefined color `ScriptureGold'") -- which is why it carries no baseline.
+\definecolor{ScriptureGold}{RGB}{184,134,11}    % matches NIVGold, this book's gold
 \definecolor{NoteBg}{RGB}{250,248,245}
 \definecolor{CrossRefGray}{RGB}{100,100,100}
 \definecolor{VerseGray}{RGB}{80,80,80}
@@ -282,7 +286,7 @@
   \noindent\fcolorbox{NIVRed}{TheologyBg}{%
   \begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}%
   \vspace{0.3em}%
-  {\bfseries\small\color{NIVRed}神學要點 Theological Note #1}\par\vspace{0.3em}%
+  {\bfseries\small\color{NIVRed}領受要點 Truths Received #1}\par\vspace{0.3em}%
 }{%
   \vspace{0.3em}%
   \end{minipage}}%
