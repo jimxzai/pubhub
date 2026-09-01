@@ -56,11 +56,6 @@ copyright: |
   Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
   Used by permission. www.lockman.org
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
-
   All rights reserved.
 ---
 
@@ -87,7 +82,7 @@ add_file() {
 add_volume() {
     printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
     if [ -n "$3" ]; then
-        printf '\n| | |\n|---|---|\n| **救恩計劃** | %s |\n| **聖靈在哪裡** | %s |\n| **啟示錄的收成** | %s |\n' \
+        printf '\n| | |\n|---|---|\n| **救恩計劃** | %s |\n| **聖靈在哪裏** | %s |\n| **啟示錄的收成** | %s |\n' \
             "$3" "$4" "$5" >> "$COMBINED_MD"
     fi
     printf '\n\\newpage\n\n' >> "$COMBINED_MD"
@@ -146,8 +141,8 @@ for i in 01b 02 03 04 04b 05 06 07 08 09 10 11 12; do add_chapter "$i"; done
 
 add_volume "卷三 · 榮耀之書·樓上私語——愛 (The Upper Room) · 13-17" \
     "一個晚上，五章。祂既然愛世間屬自己的人，就愛他們到底。" \
-    "**預告內化**——住在我裡面" \
-    "14:17「常與你們同在，也要在你們裡面」" \
+    "**預告內化**——住在我裏面" \
+    "14:17「常與你們同在，也要在你們裏面」" \
     "21:3 神的帳幕在人間"
 for i in 13 14 15 16 17; do add_chapter "$i"; done
 

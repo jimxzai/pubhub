@@ -10,6 +10,8 @@ publisher: 三書精讀出版系統
 
 約翰福音 1:1-18
 
+**經文核對**：[ai-eden.com/bible/john/1](https://www.ai-eden.com/bible/john/1?t=CUV,NASB&cols=2)
+
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：道 · 榮光 Word & Glory** \
@@ -20,31 +22,43 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 配詩 (Opening Hymn)
+
+> **Of the Father's Love Begotten** \
+> *Aurelius Prudentius, 4th c.; tr. J. M. Neale, 1854*
+>
+> Of the Father's love begotten, ere the worlds began to be, \
+> He is Alpha and Omega, He the source, the ending He, \
+> Of the things that are, that have been, \
+> And that future years shall see, evermore and evermore!
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^太初有道，道與神同在，道就是神。^2^這道太初與神同在。^3^萬物是藉著他造的；凡被造的，沒有一樣不是藉著他造的。^4^生命在他裡頭，這生命就是人的光。^5^光照在黑暗裡，黑暗卻不接受光。
+> ^1^太初有道，道與神同在，道就是神。^2^這道太初與神同在。^3^萬物是藉著他造的；凡被造的，沒有一樣不是藉著他造的。^4^生命在他裏頭，這生命就是人的光。^5^光照在黑暗裏，黑暗卻不接受光。
 
-> ^6^有一個人，是從神那裡差來的，名叫約翰。^7^這人來，為要作見證，就是為光作見證，叫眾人因他可以信。^8^他不是那光，乃是要為光作見證。
+> ^6^有一個人，是從神那裏差來的，名叫約翰。^7^這人來，為要作見證，就是為光作見證，叫眾人因他可以信。^8^他不是那光，乃是要為光作見證。
 
 > ^9^那光是真光，照亮一切生在世上的人。^10^他在世界，世界也是藉著他造的，世界卻不認識他。^11^他到自己的地方來，自己的人倒不接待他。^12^凡接待他的，就是信他名的人，他就賜他們權柄，作神的兒女。^13^這等人不是從血氣生的，不是從情慾生的，也不是從人意生的，乃是從神生的。
 
 > ^14^道成了肉身，住在我們中間，充充滿滿的有恩典有真理。我們也見過他的榮光，正是父獨生子的榮光。
 
-> ^15^約翰為他作見證，喊著說：「這就是我曾說：『那在我以後來的，反成了在我以前的，因他本來在我以前。』」^16^從他豐滿的恩典裡，我們都領受了，而且恩上加恩。^17^律法本是藉著摩西傳的；恩典和真理都是由耶穌基督來的。^18^從來沒有人看見神，只有在父懷裡的獨生子將他表明出來。
+> ^15^約翰為他作見證，喊著說：「這就是我曾說：『那在我以後來的，反成了在我以前的，因他本來在我以前。』」^16^從他豐滿的恩典裏，我們都領受了，而且恩上加恩。^17^律法本是藉著摩西傳的；恩典和真理都是由耶穌基督來的。^18^從來沒有人看見神，只有在父懷裏的獨生子將他表明出來。
 
-### English — ESV
+### English — NASB
 
-> ^1^In the beginning was the Word, and the Word was with God, and the Word was God. ^2^He was in the beginning with God. ^3^All things were made through him, and without him was not any thing made that was made. ^4^In him was life, and the life was the light of men. ^5^The light shines in the darkness, and the darkness has not overcome it.
+> ^1^In the beginning was the Word, and the Word was with God, and the Word was God. ^2^He was in the beginning with God. ^3^All things came into being through Him, and apart from Him nothing came into being that has come into being. ^4^In Him was life, and the life was the Light of men. ^5^The Light shines in the darkness, and the darkness did not comprehend it.
 
-> ^6^There was a man sent from God, whose name was John. ^7^He came as a witness, to bear witness about the light, that all might believe through him. ^8^He was not the light, but came to bear witness about the light.
+> ^6^There came a man sent from God, whose name was John. ^7^He came as a witness, to testify about the Light, so that all might believe through him. ^8^He was not the Light, but \textit{he came} to testify about the Light.
 
-> ^9^The true light, which gives light to everyone, was coming into the world. ^10^He was in the world, and the world was made through him, yet the world did not know him. ^11^He came to his own, and his own people did not receive him. ^12^But to all who did receive him, who believed in his name, he gave the right to become children of God, ^13^who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
+> ^9^There was the true Light which, coming into the world, enlightens every man. ^10^He was in the world, and the world was made through Him, and the world did not know Him. ^11^He came to His own, and those who were His own did not receive Him. ^12^But as many as received Him, to them He gave the right to become children of God, \textit{even} to those who believe in His name, ^13^who were born, not of blood nor of the will of the flesh nor of the will of man, but of God.
 
-> ^14^And the Word became flesh and dwelt among us, and we have seen his glory, glory as of the only Son from the Father, full of grace and truth.
+> ^14^And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth.
 
-> ^15^(John bore witness about him, and cried out, "This was he of whom I said, 'He who comes after me ranks before me, because he was before me.'") ^16^For from his fullness we have all received, grace upon grace. ^17^For the law was given through Moses; grace and truth came through Jesus Christ. ^18^No one has ever seen God; the only God, who is at the Father's side, he has made him known.
+> ^15^John testified about Him and cried out, saying, "This was He of whom I said, 'He who comes after me has a higher rank than I, for He existed before me.'" ^16^For of His fullness we have all received, and grace upon grace. ^17^For the Law was given through Moses; grace and truth were realized through Jesus Christ. ^18^No one has seen God at any time; the only begotten God who is in the bosom of the Father, He has explained \textit{Him.}
 
 ---
 
@@ -76,13 +90,13 @@ publisher: 三書精讀出版系統
 
 | 希臘文 | 音譯 | 意義 | 出現次數 |
 |---------------------|----------------|----------------|---------------------------|
-| *logos* | logos | 道、話語、理性 | 約翰福音40次 |
-| *archē* | archē | 起初、太初 | 強調永恆存在 |
-| *sarx* | sarx | 肉身、肉體 | 對比神性 |
-| *skēnoō* | skēnoō | 住、支搭帳棚 | 暗指會幕 |
-| *charis* | charis | 恩典、恩惠 | 4次於序言 |
-| *alētheia* | alētheia | 真理、實在 | 25次於約翰福音 |
-| *monogenēs* | monogenēs | 獨一的、獨生的 | 強調獨特性 |
+| λόγος | *logos* | 道、話語、理性 | 約翰福音40次 |
+| ἀρχή | *archē* | 起初、太初 | 強調永恆存在 |
+| σάρξ | *sarx* | 肉身、肉體 | 對比神性 |
+| σκηνόω | *skēnoō* | 住、支搭帳棚 | 暗指會幕 |
+| χάρις | *charis* | 恩典、恩惠 | 4次於序言 |
+| ἀλήθεια | *alētheia* | 真理、實在 | 25次於約翰福音 |
+| μονογενής | *monogenēs* | 獨一的、獨生的 | 強調獨特性 |
 
 ### 「道」(Logos) 的深層意義
 
@@ -94,7 +108,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 基督的先存性 (Pre-existence of Christ)
 
@@ -120,9 +134,8 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見各章「三大資源深度整合」與「摩根深讀」二節。
+> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
+> 不應作為原文逐字引用轉引。
 
 ### 教父時期
 
@@ -152,9 +165,19 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on John*, 約 1:1 注（CCEL, calcom34）
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**:
+**序言不是引言，是總綱**：摩根認為 1:1-18 不只是引言，而是解釋其後全書（1:19-20:29）每一件事的總綱——後面的敘事，都是在證明頭十八節所宣告之事。全段由三個主要聲明（1、14、18節）加三段括弧構成：道與創造、被看見的道、道與見證人。
+
+**第1節與第14節交替讀**：兩節的三句話一一對應——「太初有道」對「道成了肉身」；「道與神同在」對「這道住在我們中間」；「道就是神」對「充充滿滿地有恩典有真理」。永恆的宣告，在歷史裏兌現。
+
+**道的希伯來根源**：摩根認為約翰所用的 λόγος 更多源自希伯來的 Memra（神的話）而非希臘哲學——希臘哲學家說「一切事物背後必有思想」，希伯來哲學家進一步說「除非有思想者，否則不能有抽象的思想」；「起初神創造天地」——神自己就是那位思想者。
+
+**「成了」不是新的存在，是同一存在的新型態**：「道成了肉身」不是取代，是**腓立比書2章「虛己」**的實現——不是倒空神性，是改變顯現的形態；「那位以往我們看不到的，現在開始可以看見了。」祂從父懷裏出來，不是要啟示神的智慧、能力和威嚴（大自然已經啟示了那些），而是**專要啟示神的心**——「耶穌就是神的注解（exegesis）。」
+
+> 出處：G. Campbell Morgan, *The Gospel According to John*（約翰福音 1:1, 14, 18 講章）
+
+### 麥克阿瑟 (John MacArthur)
 
 > "The phrase 'the Word of the Lord' appeared so many times in the Old Testament, and the Word of the Lord was simply the revelation of God. … The philosophers talked about logos as the reality that was visible in creation."
 >
@@ -162,95 +185,30 @@ publisher: 三書精讀出版系統
 >
 > — John MacArthur, *"Jesus: The Divine Word"*（sermon 43-2，論約 1:1-5），Grace to You, gty.org
 
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 老弟兄查經洞見 (the class's Teaching)
-
-**約翰三部曲中「道」的三重稱呼**——老弟兄以此為整個約翰著作的鑰匙：
-
-| 書卷 | 稱呼 | 啟示重點 |
-|----------------------|----------------------|------------------------------------|
-| 約翰福音 | 太初的道 | 神的發表：與神的關係（道的本質是神）、與世界的關係（第一次創造）、與人的關係（道成肉身的新創造） |
-| 約翰書信 | 生命之道 | 一個實體，可見、可摸；這生命使我們在光、愛、生命中與神相交 |
-| 啟示錄 | 神的道 | 永活榮耀的人子：教會的大牧者、萬國的王、全勝的主 |
-
-**一句話總括約翰福音**：「我從父出來，到了世界；我又離開世界，往父那裏去。」（約 16:28）——序言 1:1-18 正是這句話的展開：從父懷裏出來（1:1, 18），到了世界（1:9-14）。
-
-**創世記與約翰福音第一節的動詞對比**：創 1:1（LXX）用 ἐποίησεν（「創造了」，過去式）——時間的開始；約 1:1 用 ἦν（「有」，未完成式）——時間開始**之前**的持續存在。當時間開始的時候，道已經在那裏了。
-
-**「與神同在」（πρὸς τὸν θεόν）的介詞**：πρός 不是一般「在旁邊」的介詞，而是「面對面、朝向」的關係——位格的分別、親密的相交、活潑的互動。三一論的種子已在此節。
-
-**「道就是神」（θεὸς ἦν ὁ λόγος）的語法**：θεός 前無定冠詞，表達**性質**而非**身份等同**——道的本質是神性的，但道與父是不同位格。既防撒伯流主義（形態論），也防亞流主義（否認神性）。
-
-> 出處：老弟兄《生命之道——約翰福音》第一課；Thursday Wong 查經班書稿《太初有道》章
-
-### 摩根：序言不是序言，是總綱 (G. Campbell Morgan)
-
-**摩根對 1:1-18 結構的判斷**：「它絕不止是個序言，因為這十八節解釋了其後（1:19-20:29）的每一件事。此後的記載是用來證明頭十八節所聲明之事的準確性。」全段由**三個主要聲明**（1、14、18 節）加**三個括弧**（2-13 節；14 節內的驚歎；15-17 節）構成：道與兩個創造、被看見的道、道與兩個見證人。
-
-**第 1 節與第 14 節的交替讀法**——摩根建議輪換著讀，兩節的三句話一一對應：
-
-| 第 1 節（永恆） | 第 14 節（歷史） |
-|--------------------------------------|------------------------------------------|
-| 太初有道 | 道成了肉身 |
-| 道與神同在 | 這道住在我們中間 |
-| 道就是神 | 充充滿滿地有恩典有真理 |
-
-**「道」的希伯來根源**：摩根認為約翰用 λόγος 更多得自希伯來思想（Memra，神的話）而非希臘哲學——希臘哲學家說「一切事物背後必有思想，但思想是抽象的」；希伯來哲學家進一步說「除非有思想者，否則不能有抽象的思想」。「起初神創造天地」——神就是那位思想者。
-
-**「成了」的精義**：「道成了肉身」不是一個新的存在，而是**同一個存在的新型態**。腓立比書 2 章的「虛己」不是倒空神性，而是改變顯現的形態。「那位以往我們看不到的，現在開始可以看見了。」
-
-**「在父懷裏」的限定**：耶穌來不是要啟示神的智慧、能力和威嚴——那些大自然已經啟示了；祂從父的懷裏出來，**專要啟示神的心**。「耶穌就是神的注解（exegesis）。祂權威性地把人原先看不見的內容顯明出來。」
-
-摩根的結語：約翰曾將頭靠在主的懷中——「當他這樣作時，他不僅感覺到一顆人心的跳動，並且體認出那永恆憐憫的迴響。」
-
-> 出處：G. Campbell Morgan, *The Gospel According to John*（約翰福音 1:1, 14, 18 講章）
-
-### 麥克阿瑟：耶穌——神聖之道 (John MacArthur)
-
-**約翰的信息一句話**：「永恆的神自己成了人。創造主成為祂創造的一部分，完全的神、完全的人——為要拯救罪人脫離罪、死、審判與永刑。」
-
-**證明神性的三重論證**（出自 1:1 的三句話）：
-
-1. **先存**（Pre-existence）：「太初有道」——當起初開始時，祂已存在；不屬受造，就不屬時空；不屬時空，就是永恆。
-2. **同存**（Co-existence）：「道與神同在」——祂是神，又與神同在；唯有三一論能解釋。麥克阿瑟引箴言 8:27-30（「他立高天，我在那裏……我在他那裏為工師」）作為子在創造中的可能見證；希伯來書 1:2 明言：神「藉著他創造諸世界」。
-3. **自存**（Self-existence）：「生命在他裏頭」（1:4）——祂不是領受生命，而是生命的源頭。
-
-**未完成時態的分量**：ἦν（was）是持續性的未完成時態——「祂只用現在進行式說自己，因為從來沒有一刻祂不存在。」這正是出埃及記 3:14「I AM」的名字，也是約 8:58「還沒有亞伯拉罕，我就是」的根據。
-
-**兩面都不可攻擊**：「不是半神半人，是完全的神、完全的人——攻擊祂的神性是異端，攻擊祂的人性也是異端。」（駁幻影說/多西特派）
-
-**作者的自稱**：約翰在全卷福音書從不提自己的名字，只自稱「主所愛的門徒」——「如果你可以在『約翰』和『主所愛的門徒』之間選一個名字，這不是一個困難的選擇。」
-
-> 出處：John MacArthur, "Jesus: The Divine Word" (John 1:1-5), gty.org, sermon code 43-2
+麥克阿瑟從1:1的三句話讀出三重論證：**先存**（太初有道——不屬受造，就不屬時空；不屬時空，就是永恆）、**同存**（道與神同在——祂是神，又與神同在，唯有三一論能解釋；他引**箴言8:27-30**與**希伯來書1:2**為子在創造中的見證）、**自存**（生命在他裏頭——祂不是領受生命，而是生命的源頭）。ἦν 的未完成時態呼應**出埃及記3:14**「我是」與**約翰福音8:58**「還沒有亞伯拉罕，我就是」——祂只用現在式說自己，因為從未有一刻不存在。他也提醒：約翰全卷從不提自己的名字，只自稱「主所愛的門徒」——「不是半神半人，是完全的神、完全的人——攻擊祂的神性是異端，攻擊祂的人性也是異端。」
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Of the Father's Love Begotten*（太初有道）
+### 詩篇 33:6-9
 
-> Of the Father's love begotten, ere the worlds began to be,
-> He is Alpha and Omega, He the source, the ending He,
-> Of the things that are, that have been,
-> And that future years shall see, evermore and evermore!
-
-**詩篇**：詩篇 33:6-9
-
-> 諸天藉耶和華的命而造，萬象藉他口中的氣而成。
-> 他聚集海水如壘，收藏深洋在庫房。
-> 願全地都敬畏耶和華！願世上的居民都懼怕他！
-> 因為他說有，就有；命立，就立。
+> 諸天藉耶和華的命而造；萬象藉他口中的氣而成。 \
+> 他聚集海水如壘，收藏深洋在庫房。 \
+> 願全地都敬畏耶和華！願世上的居民都懼怕他！ \
+> **因為他說有，就有，命立，就立。**
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：那位在「太初」創造萬有的道，竟「成了肉身」住進祂所造的世界——這一段序言，是全本聖經的縮影。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：摩西五經是根基。創世記「起初神說……要有光」（創 1:1-3）——道藉話語創造；約翰接著說「萬物都是藉著他造的」（約 1:3）。「起初」與「太初」首尾呼應，啟示錄收尾：「他的名稱為神之道」（啟 19:13）。從創造到再來，主角同一位。
+**創造之道線**：創世記「起初神說……要有光」（創1:1-3，七十士譯本用 ἐποίησεν「造了」，過去式，標記時間的起頭）；約翰卻用未完成式 ἦν（「有」）——道不是在起頭被造，而是在起頭「已經在」。「萬物都是藉著他造的」（約1:3）承接創世記的創造，啟示錄收尾：「他的名稱為神之道」（啟19:13）。從創造到再來，主角同一位；老弟兄查經班常提約翰三部曲「道」的三重稱呼——福音書：太初的道；書信：生命之道；啟示錄：神的道——三卷書層層展開同一位格。
+
+**父與世界線**：「我從父出來，到了世界；我又離開世界，往父那裏去」（約16:28）一句，正是序言 1:1-18 的展開——從父懷裏出來（1:1, 18），到了世界（1:9-14），為要領人回到父那裏。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -271,17 +229,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，哪些話只是「字句」（消耗你），哪一句是「道」（餵養你）？
 - **一個行動**：選一節約翰福音第一章的經文背下來，讓道「住」進你。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：那位在「太初」創造萬有的道，竟「成了肉身」住進祂所造的世界——這一段序言，是全本聖經的縮影。
-
-**貫通全經**：創世記「起初神說」→ 約翰「太初有道」→ 啟示錄「那騎白馬的，名稱為神之道」。從頭到尾，主角只有一位。
-
-**無法迴避的問題**：「你研讀聖經，有沒有看見這位道？還是只讀進了字句，卻錯過了祂？」
-
-> 「太初的『道』，老子也說過。但約翰寫的『道』有個定義——道就是神。所以這不是哲學，是位格。」
+**你看見耶穌了嗎**：老子也曾說「道」，但約翰筆下的道有名字、有位格——太初與父同在，如今道成了肉身，住進你我中間。你看見的，不是一個抽象的哲學概念，而是那位從未有人看見、卻在父懷裏的獨生子親自向你表明出來的神；祂願意把自己的家安在你裏面，你今天有沒有給祂留位子？
 
 ---
 
@@ -289,32 +237,28 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **認識基督的神性**：如果耶穌真的是創造宇宙的那位神，這對我今天的生活有什麼意義？
+1. **接待與不接待**：「祂到自己的地方來，自己的人倒不接待祂」（1:11）——這是歷史事實，也是每天的抉擇。你今天用甚麼方式「接待」或「不接待」道？
 
-2. **領受恩典**：「恩上加恩」——我是否真正經歷過神持續不斷的恩典？還是我仍然試圖靠自己的努力來得神的喜悅？
+2. **見過的榮光**：「我們也見過他的榮光」（1:14）——約翰不是在說異象，是在說一位活生生走過的人。你在自己平凡的日子裏，有沒有一刻，真的「見過」祂的榮光？
 
-3. **成為見證**：施洗約翰來「為光作見證」。我的生命是否也在見證真光？
-
-4. **接納基督**：「凡接納他的，他就賜他們權柄，作神的兒女。」我真正接納基督了嗎？還是只是頭腦上的認識？
+3. **律法與恩典**：「律法本是藉著摩西傳的；恩典和真理都是由耶穌基督來的」（1:17）——你此刻的信仰生活，活得比較像守規條，還是比較像領受恩上加恩？
 
 ### 禱告回應
 
-> 主啊，感謝你是那太初就存在的道，感謝你道成肉身住在我們中間。
-> 求你開我的眼睛，讓我更深認識你的榮耀，
-> 讓我每天都從你的豐盛裏，領受恩典，恩上加恩。
+> 主啊，感謝你是那太初就存在的道，感謝你道成肉身住在我們中間。 \
+> 求你開我的眼睛，讓我更深認識你的榮耀， \
+> 讓我每天都從你的豐盛裏，領受恩典，恩上加恩。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 約翰為什麼選擇用「道」(Logos) 來介紹耶穌？這對當時的讀者有什麼意義？
-
-2. 「道與神同在，道就是神」如何同時表達三位一體的合一與區分？
-
-3. 為什麼「道成肉身」是基督教信仰的核心？沒有道成肉身，我們的信仰會有什麼缺失？
-
-4. 「恩典和真理由耶穌基督來」與「律法藉著摩西頒佈」有什麼對比意義？
-
-5. 「從來沒有人見過神，只有獨生子把他表明出來」——這對我們認識神有什麼啟示？
-
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 太初的先存與創造 | 1:1-3 | 創1:1-3、西1:16-17、箴8:27-30、來1:2 |
+| 道與「我是」的呼應 | 1:1, 4 | 出3:14、約8:58 |
+| 恩典與真理 | 1:14, 17 | 出34:6 |
+| 虛己與顯現 | 1:14 | 腓立比書2章 |
+| 道，首尾呼應 | 1:1 | 啟19:13 |
+| 父與世界的往返 | 1:1-18 | 約16:28 |
