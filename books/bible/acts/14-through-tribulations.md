@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：艱難 Tribulations（14:22）** \
-> **1:8 座標**：卷三·地極——小亞細亞這一站的最遠端。以哥念、路司得、特庇是呂高尼的鄉野城鎮，福音在這裏第一次撞上完全不識摩西五經、只識宙斯與希耳米的異教群眾——一場神蹟幾乎把使徒變成了獻祭的對象。 \
+> **1:8 座標**：卷三·地極——小亞細亞這一站的最遠端。以哥念、路司得、特庇是呂高尼的鄉野城鎮，福音在這裏第一次撞上完全不識摩西五經、只識丟斯與希耳米的異教群眾——一場神蹟幾乎把使徒變成了獻祭的對象。 \
 > （全書骨幹見卷首《見證——全書的骨幹》）
 
 本章的焦點不在保羅的膽識，也不在呂高尼百姓的善變，而在那位差遣使徒、又親自撐住他們的主。祂沒有應許一條沒有石頭的路；祂應許的是「我們進入神的國，必須經歷許多艱難」——這句話出自一個剛被石頭打得幾乎喪命的人口中，不是講台上的空談，而是他所信靠之主親自走過那條路的迴聲：「因那擺在前面的喜樂，就輕看羞辱，忍受了十字架的苦難」（來12:2）的主，如今藉著使徒身上的傷痕，繼續向呂高尼、也向歷代教會作見證。祂也是那位在路司得城外，藉著保羅的口拒絕人的獻祭、把一切榮耀收回自己名下的主——因為配得敬拜的，從來只有一位。
@@ -24,17 +24,17 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **How Firm a Foundation**
+> **How Firm a Foundation** \
 > *John Rippon's Selection of Hymns, 1787*
 >
-> When through the fiery trials thy pathway shall lie,
-> My grace, all sufficient, shall be thy supply;
-> The flame shall not hurt thee; I only design
+> When through the fiery trials thy pathway shall lie, \
+> My grace, all sufficient, shall be thy supply; \
+> The flame shall not hurt thee; I only design \
 > Thy dross to consume, and thy gold to refine.
 >
-> 你若行過烈火試煉的路途，
-> 我的恩典必彀你隨時支取；
-> 烈焰不能傷你，我用火煉淨，
+> 你若行過烈火試煉的路途， \
+> 我的恩典必彀你隨時支取； \
+> 烈焰不能傷你，我用火煉淨， \
 > 不過要熬去渣滓，煉出精金。
 
 ---
@@ -47,21 +47,21 @@ publisher: 三書精讀出版系統
 
 > ^5^那時，外邦人和猶太人並他們的官長一齊擁上來，要凌辱使徒，用石頭打他們。^6^使徒知道了，就逃往呂高尼的路司得、特庇兩個城和周圍地方去，
 
-> ^8^路司得城裏坐著一個兩腳無力的人，生來是瘸腿的，從來沒有走過。^9^他聽保羅講道，保羅定睛看他，見他有信心，可得痊癒，^10^就大聲說：「你起來，兩腳站直！」那人就跳起來，而且行走。^11^眾人看見保羅所做的事，就用呂高尼的話大聲說：「有神藉著人形降臨在我們中間了！」^12^於是稱巴拿巴為宙斯，稱保羅為希耳米，因為他說話領首。^13^有城外宙斯廟的祭司牽著牛、拿著花圈，來到門前，要同眾人向使徒獻祭。^14^巴拿巴、保羅二使徒聽見，就撕開衣裳，跳進眾人中間，喊著說：^15^「諸君，為甚麼做這事呢？我們也是人，性情和你們一樣。我們傳福音給你們，是叫你們離棄這些虛妄，歸向那創造天、地、海和其中萬物的永生神。
+> ^8^路司得城裏坐著一個兩腳無力的人，生來是瘸腿的，從來沒有走過。^9^他聽保羅講道，保羅定睛看他，見他有信心，可得痊癒，^10^就大聲說：「你起來，兩腳站直！」那人就跳起來，而且行走。^11^眾人看見保羅所做的事，就用呂高尼的話大聲說：「有神藉著人形降臨在我們中間了！」^12^於是稱巴拿巴為丟斯，稱保羅為希耳米，因為他說話領首。^13^有城外丟斯廟的祭司牽著牛、拿著花圈，來到門前，要同眾人向使徒獻祭。^14^巴拿巴、保羅二使徒聽見，就撕開衣裳，跳進眾人中間，喊著說：^15^「諸君，為甚麼做這事呢？我們也是人，性情和你們一樣。我們傳福音給你們，是叫你們離棄這些虛妄，歸向那創造天、地、海和其中萬物的永生神。
 
-> ^19^但有些猶太人從安提阿和以哥念來，挑唆眾人，就用石頭打保羅，以為他是死了，便拖到城外。^20^門徒正圍著他，他就起來，走進城去。第二天，同巴拿巴往特庇去。^21^對那城裏的人傳了福音，使好些人做門徒，就回路司得、以哥念、安提阿去，^22^堅固門徒的心，勸他們恆守所信的道，又說：「我們進入神的國，必須經歷許多艱難。」
+> ^19^但有些猶太人從安提阿和以哥念來，挑唆眾人，就用石頭打保羅，以為他是死了，便拖到城外。^20^門徒正圍著他，他就起來，走進城去。第二天，同巴拿巴往特庇去。^21^對那城裏的人傳了福音，使好些人作門徒，就回路司得、以哥念、安提阿去，^22^堅固門徒的心，勸他們恆守所信的道，又說：「我們進入神的國，必須經歷許多艱難。」
 
 > ^27^到了那裏，聚集了會眾，就述說神藉他們所行的一切事，並神怎樣為外邦人開了信道的門。
 
-### English — ESV
+### English — NASB
 
-> ^8^Now at Lystra there was a man sitting who could not use his feet. He was crippled from birth and had never walked. ^9^He listened to Paul speaking. And Paul, looking intently at him and seeing that he had faith to be made well, ^10^said in a loud voice, "Stand upright on your feet." And he sprang up and began walking. ^11^And when the crowds saw what Paul had done, they lifted up their voices, saying in Lycaonian, "The gods have come down to us in the likeness of men!" ^12^Barnabas they called Zeus, and Paul, Hermes, because he was the chief speaker. ^13^And the priest of Zeus, whose temple was at the entrance to the city, brought oxen and garlands to the gates and wanted to offer sacrifice with the crowds. ^14^But when the apostles Barnabas and Paul heard of it, they tore their garments and rushed out into the crowd, crying out, ^15^"Men, why are you doing these things? We also are men, of like nature with you, and we bring you good news, that you should turn from these vain things to a living God, who made the heaven and the earth and the sea and all that is in them.
+> ^8^At Lystra a man was sitting who had no strength in his feet, lame from his mother's womb, who had never walked. ^9^This man was listening to Paul as he spoke, who, when he had fixed his gaze on him and had seen that he had faith to be made well, ^10^said with a loud voice, "Stand upright on your feet." And he leaped up and *began* to walk. ^11^When the crowds saw what Paul had done, they raised their voice, saying in the Lycaonian language, "The gods have become like men and have come down to us." ^12^And they *began* calling Barnabas, Zeus, and Paul, Hermes, because he was the chief speaker. ^13^The priest of Zeus, whose *temple* was just outside the city, brought oxen and garlands to the gates, and wanted to offer sacrifice with the crowds. ^14^But when the apostles Barnabas and Paul heard of it, they tore their robes and rushed out into the crowd, crying out ^15^and saying, "Men, why are you doing these things? We are also men of the same nature as you, and preach the gospel to you that you should turn from these vain things to a living God, WHO MADE THE HEAVEN AND THE EARTH AND THE SEA AND ALL THAT IS IN THEM.
 
-> ^19^But Jews came from Antioch and Iconium, and having persuaded the crowds, they stoned Paul and dragged him out of the city, supposing that he was dead. ^20^But when the disciples gathered about him, he rose up and entered the city, and on the next day he went on with Barnabas to Derbe. ^21^When they had preached the gospel to that city and had made many disciples, they returned to Lystra and to Iconium and to Antioch, ^22^strengthening the souls of the disciples, encouraging them to continue in the faith, and saying that through many tribulations we must enter the kingdom of God.
+> ^19^But Jews came from Antioch and Iconium, and having won over the crowds, they stoned Paul and dragged him out of the city, supposing him to be dead. ^20^But while the disciples stood around him, he got up and entered the city. The next day he went away with Barnabas to Derbe. ^21^After they had preached the gospel to that city and had made many disciples, they returned to Lystra and to Iconium and to Antioch, ^22^strengthening the souls of the disciples, encouraging them to continue in the faith, and *saying,* "Through many tribulations we must enter the kingdom of God."
 
-> ^27^And when they arrived and gathered the church together, they declared all that God had done with them, and how he had opened a door of faith to the Gentiles.
+> ^27^When they had arrived and gathered the church together, they *began* to report all things that God had done with them and how He had opened a door of faith to the Gentiles.
 
-**經文核對**：[ai-eden.com/bible/acts/14](https://www.ai-eden.com/bible/acts/14?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/14](https://www.ai-eden.com/bible/acts/14?t=CUV,NASB&cols=2)
 
 ---
 
@@ -77,9 +77,11 @@ publisher: 三書精讀出版系統
 
 **「呂高尼的話」（14:11）**：路司得的百姓用本地土語呼喊，不是通用的希臘語——這說明保羅方才用希臘語傳講的內容，群眾未必逐字聽懂；他們認得的，只是眼前那個瘸腿多年的人忽然站起來行走的事實。誤會由此而生，也由此難以即時被保羅、巴拿巴的希臘語解釋所化解。
 
-### 宙斯與希耳米——路司得的異教背景
+### 丟斯與希耳米——路司得的異教背景
 
-古羅馬詩人奧維德（Ovid）在《變形記》（*Metamorphoses*，卷八）記載一則廣為流傳的呂高尼地區傳說：宙斯與希耳米曾化作凡人，在附近的弗呂家鄉間尋求接待，家家戶戶都把他們拒之門外，惟獨一對貧窮的老夫婦鮑西絲與腓利門收留了二神；其後洪水淹沒全境，只有那對夫婦的家得以倖存，並化為聖殿。歷代解經者常引這個地方傳說，說明路司得百姓何以在瘸子被治好的那一刻，立即反應「有神藉著人形降臨在我們中間」——他們心裏想的，很可能正是不要重蹈祖先怠慢神明的覆轍。
+和合本的「丟斯」即希臘神話的宙斯（Zeus），「希耳米」即赫耳墨斯（Hermes）——本書經文與敘述一律沿用和合本的譯名。
+
+古羅馬詩人奧維德（Ovid）在《變形記》（*Metamorphoses*，卷八）記載一則廣為流傳的呂高尼地區傳說：丟斯與希耳米曾化作凡人，在附近的弗呂家鄉間尋求接待，家家戶戶都把他們拒之門外，惟獨一對貧窮的老夫婦鮑西絲與腓利門收留了二神；其後洪水淹沒全境，只有那對夫婦的家得以倖存，並化為聖殿。歷代解經者常引這個地方傳說，說明路司得百姓何以在瘸子被治好的那一刻，立即反應「有神藉著人形降臨在我們中間」——他們心裏想的，很可能正是不要重蹈祖先怠慢神明的覆轍。
 
 ### 文學結構：呼應第三章的醫治，也呼應第十章的門
 
@@ -107,7 +109,7 @@ publisher: 三書精讀出版系統
 
 ### 「定睛看」(ἀτενίζω) 的呼應
 
-保羅在路司得「定睛看」瘸腿的人，見他有信心可得痊癒（14:9）——這正是彼得、約翰在美門口，「彼得約翰定睛看他」（3:4）所用的同一個動詞。兩處都不是隨意一瞥，是能分辨信心的專注凝視。路加用同一個字，把美門的醫治與路司得的醫治釘在同一根線上。
+保羅在路司得「定睛看」瘸腿的人，見他有信心可得痊癒（14:9）——這正是彼得、約翰在美門口，「彼得、約翰定睛看他」（3:4）所用的同一個動詞。兩處都不是隨意一瞥，是能分辨信心的專注凝視。路加用同一個字，把美門的醫治與路司得的醫治釘在同一根線上。
 
 ### 「艱難」(θλῖψις) 與「堅固」(ἐπιστηρίζω) 的並列
 
@@ -115,7 +117,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 定睛看：與美門瘸子的呼應
 
@@ -145,10 +147,6 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
 **屈梭多模 (Chrysostom)**：
@@ -157,7 +155,7 @@ publisher: 三書精讀出版系統
 >
 > 「『我們進入神的國，必須經歷許多艱難』——這算是哪一種安慰呢？他們一開口就先告訴門徒前面有艱難，這怎能叫人得著鼓勵？」
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXXI**（經文標題徒 14:14-15，論及 14:22），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXXI**（經文標題徒 14:14-15，論及 14:22），NPNF1-11
 
 屈梭多模在這篇講道裏，正面提出這個看似矛盾的問題，隨後指出：保羅提前告知苦難，正是最誠實、也最有效的安慰——因為門徒若毫無預備地遇見逼迫，會誤以為信仰出了問題；預先知道艱難是「必須」的一部分，反倒使人在艱難來到時站立得穩。
 
@@ -171,35 +169,7 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on Acts*, Vol. 2, 徒 14:22 注（CCEL, calcom37）
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-> "A guy is going along in a pretty happy-go-lucky life, you know, just winging it. All of a sudden he gets saved and he realizes he's in a war."
->
-> 「一個人本來過著隨隨便便、得過且過的日子；忽然他得救了，才發現自己是進了一場戰爭。」——麥克阿瑟以此描述許多新信徒對「許多艱難」的真實反應：得救不是脫離爭戰，而是進入爭戰。他也指出，14:22 的「堅固」（ἐπιστηρίζω）原意接近「從旁撐住」，正如撐住還站不穩的嬰孩。
->
-> — John MacArthur, *"Qualities of a Great Missionary, Part 3"*（sermon #1749，論徒 14:21-28），Grace to You, gty.org
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 34:19
-
-> 義人多有苦難，但耶和華救他脫離這一切，
-
-### 詩篇 115:1
-
-> 耶和華啊，榮耀不要歸於我們，不要歸於我們，要因你的慈愛和誠實歸在你的名下！
-
-一句是艱難中的盼望——義人多有苦難，卻不是被苦難吞滅，是被耶和華「救他脫離」；一句是撕裂衣裳那一刻的心聲——榮耀不要歸給人，只歸給那位配得的主。保羅、巴拿巴在路司得所做的，正是把這兩句詩活出來：一邊承受苦難，一邊把榮耀立刻交還。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **兩種聽眾，兩種切入點**：摩根特別指出，保羅在路司得對呂高尼異教群眾的講詞，與他向猶太會堂所傳講的信息，有著顯著的差異——
 
@@ -217,7 +187,53 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳 14 章釋經）。
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
+
+> "A guy is going along in a pretty happy-go-lucky life, you know, just winging it. All of a sudden he gets saved and he realizes he's in a war."
+>
+> 「一個人本來過著隨隨便便、得過且過的日子；忽然他得救了，才發現自己是進了一場戰爭。」——麥克阿瑟以此描述許多新信徒對「許多艱難」的真實反應：得救不是脫離爭戰，而是進入爭戰。他也指出，14:22 的「堅固」（ἐπιστηρίζω）原意接近「從旁撐住」，正如撐住還站不穩的嬰孩。
+>
+> — John MacArthur, *"Qualities of a Great Missionary, Part 3"*（sermon #1749，論徒 14:21-28），Grace to You, gty.org
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 34:19
+
+> 義人多有苦難，但耶和華救他脫離這一切，
+
+### 詩篇 115:1
+
+> 耶和華啊，榮耀不要歸於我們，不要歸於我們，要因你的慈愛和誠實歸在你的名下！
+
+一句是艱難中的盼望——義人多有苦難，卻不是被苦難吞滅，是被耶和華「救他脫離」；一句是撕裂衣裳那一刻的心聲——榮耀不要歸給人，只歸給那位配得的主。保羅、巴拿巴在路司得所做的，正是把這兩句詩活出來：一邊承受苦難，一邊把榮耀立刻交還。
+
+### 詩篇 96:5
+
+> 外邦的神都屬虛無，惟獨耶和華創造諸天。
+
+### All Hail the Power of Jesus' Name（萬口稱頌主耶穌尊名）
+
+> All hail the power of Jesus' name! \
+> Let angels prostrate fall; \
+> Bring forth the royal diadem, \
+> And crown Him Lord of all.
+>
+> 萬口稱頌耶穌尊名，眾天使俯伏敬拜； \
+> 獻上那至尊的冠冕，擁祂為萬有之主。
+
+*Edward Perronet, 1779*
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：真神的能力越大，越急著把榮耀推出去；假神明的追捧越熱，越快翻臉成石頭——分辨真假的，從來不是掌聲，是那道能穿過苦難、仍站得住的信心。「他們前一刻要拜你為神，下一刻可能就拿石頭打你——你若把根基安在會變的人心上，遲早要垮。堅固門徒的，從來不是隱瞞前面有艱難，是誠實告訴他們：這是必經之路，而神的國，就在那條路的盡頭。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：「在世上你們有苦難，但你們可以放心，我已經勝了世界」（約16:33）——這句主耶穌在馬可樓上親口說的話，正是保羅在路司得對門徒所說「我們進入神的國，必須經歷許多艱難」的源頭。這條線再往前追一步：以賽亞書預言的僕人「多受痛苦，常經憂患」（賽53:3），是艱難之路的最初原型；再往後接：啟示錄裏那位站在寶座前、身穿白衣的大群人，是「從大患難中出來的」（啟7:14）。從約翰福音16章，到使徒行傳14章，到啟示錄7章，這是同一條路——神國不是繞過苦難抵達的，是穿過苦難抵達的。
 
 老弟兄把 14:8-27 分成三個場景，指出它們共用同一條線索——**誰配得榮耀**：
 
@@ -227,35 +243,7 @@ publisher: 三書精讀出版系統
 | 石頭之後 | 14:19-22 | 苦難本可以叫人埋怨神 | 起來，繼續傳福音，並教導苦難是必須的 |
 | 回報之後 | 14:27 | 教會本可以稱讚保羅、巴拿巴的勇敢 | 述說「神藉他們所行的」，主詞是神 |
 
-老弟兄要指出：三個場景，三次把榮耀的方向撥正——不管是群眾的掌聲、身體的苦難、還是差會的稱讚，使徒始終把指針指回神自己。這正是保羅後來在哥林多前書10:31所總結的原則：「無論做甚麼，都要為榮耀神而行」——路司得的這一天，是這句話活生生的示範。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*All Hail the Power of Jesus' Name*（萬口稱頌主耶穌尊名）
-
-> All hail the power of Jesus' name!
-> Let angels prostrate fall;
-> Bring forth the royal diadem,
-> And crown Him Lord of all.
->
-> 萬口稱頌耶穌尊名，眾天使俯伏敬拜；
-> 獻上那至尊的冠冕，擁祂為萬有之主。
-
-*Edward Perronet, 1779*
-
-**詩篇**：詩篇 96:5
-
-> 外邦的神都屬虛無，惟獨耶和華創造諸天。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：「在世上你們有苦難，但你們可以放心，我已經勝了世界」（約16:33）——這句主耶穌在馬可樓上親口說的話，正是保羅在路司得對門徒所說「我們進入神的國，必須經歷許多艱難」的源頭。這條線再往前追一步：以賽亞書預言的僕人「多受痛苦，常經憂患」（賽53:3），是艱難之路的最初原型；再往後接：啟示錄裏那位站在寶座前、身穿白衣的大群人，是「從大患難中出來的」（啟7:14）。從約翰福音16章，到使徒行傳14章，到啟示錄7章，這是同一條路——神國不是繞過苦難抵達的，是穿過苦難抵達的。
+三個場景，三次把榮耀的方向撥正——不管是群眾的掌聲、身體的苦難、還是差會的稱讚，使徒始終把指針指回神自己。這正是保羅後來在哥林多前書10:31所總結的原則：「無論做甚麼，都要為榮耀神而行」——路司得的這一天，是這句話活生生的示範。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -276,17 +264,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天——我有沒有在某件艱難的事上，把它當成信仰失敗的證據，而不是進入神國必經的路？
 - **一個行動**：今天為一位正在經歷艱難的弟兄姊妹，主動說一句誠實而不粉飾的堅固話：艱難不是咒詛，是應許路上的一部分。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：真神的能力越大，越急著把榮耀推出去；假神明的追捧越熱，越快翻臉成石頭——分辨真假的，從來不是掌聲，是那道能穿過苦難、仍站得住的信心。
-
-**貫通全經**：「在世上你們有苦難，但你們可以放心，我已經勝了世界」（約16:33），是「我們進入神的國，必須經歷許多艱難」（徒14:22）的源頭；而「從大患難中出來的」那一大群人（啟7:14），是這條路最終的盡頭。
-
-**無法迴避的問題**：「當人的掌聲和人的石頭，都同樣猛烈地向你飛來，你的根基，站在哪裏？」
-
-> 「他們前一刻要拜你為神，下一刻可能就拿石頭打你——你若把根基安在會變的人心上，遲早要垮。堅固門徒的，從來不是隱瞞前面有艱難，是誠實告訴他們：這是必經之路，而神的國，就在那條路的盡頭。」
+**你看見耶穌了嗎？** 使徒身上的傷痕，正是主自己走過之路的迴聲——那位「因那擺在前面的喜樂，就輕看羞辱，忍受了十字架的苦難」（來12:2）的主，如今藉著一個剛從石頭下站起來的人，對呂高尼、也對歷代教會說：進神的國，必須經歷許多艱難；而配得敬拜的，從來只有一位。
 
 ---
 
@@ -298,22 +276,16 @@ publisher: 三書精讀出版系統
 
 2. **從神蹟到神明**：你有沒有經歷過因著神奇妙的作為，反而把注意力停留在神蹟本身、或在某個蒙神使用的人身上，忘了把榮耀歸給神？
 
-3. **撕裂衣裳的速度**：當人稱讚你、高舉你，你的第一個反應是甚麼？是安靜享受那個位置，還是像保羅一樣，立刻把焦點撥回神？
-
-4. **起來，走進城去**：保羅被石頭打得幾乎喪命，第二天仍然繼續傳福音。你在受傷之後，是選擇退出，還是選擇起來、繼續走那條路？
-
-5. **必須經歷許多艱難**：你信仰裏對「艱難」的認識，是把它當作意外，還是當作進入神國必須經過的一段路？
-
-6. **述說神所行的**：回顧近來的一段經歷，你若要向人述說，主詞會是「我做了甚麼」，還是「神藉著我做了甚麼」？
+3. **起來，走進城去**：保羅被石頭打得幾乎喪命，第二天仍然繼續傳福音。你在受傷之後，是選擇退出，還是選擇起來、繼續走那條路？
 
 ### 禱告回應
 
-> 主啊，你沒有應許一條沒有石頭的路，卻應許你的恩典彀我用。
-> 求你幫助我，在人的掌聲臨到時，像保羅一樣立刻把榮耀歸還給你；
-> 在艱難臨到時，不把它當作信心出了問題的證據，
-> 而是當作進入你國度必須經過的一段路。
-> 求你堅固我的心，也使我成為堅固別人的人，
-> 誠實地說：前面有艱難，但你已經勝了世界。
+> 主啊，你沒有應許一條沒有石頭的路，卻應許你的恩典彀我用。 \
+> 求你幫助我，在人的掌聲臨到時，像保羅一樣立刻把榮耀歸還給你； \
+> 在艱難臨到時，不把它當作信心出了問題的證據， \
+> 而是當作進入你國度必須經過的一段路。 \
+> 求你堅固我的心，也使我成為堅固別人的人， \
+> 誠實地說：前面有艱難，但你已經勝了世界。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

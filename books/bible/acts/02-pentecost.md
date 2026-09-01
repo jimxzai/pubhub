@@ -24,15 +24,15 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Breathe on Me, Breath of God**
+> **Breathe on Me, Breath of God** \
 > *Edwin Hatch, 1878*
 >
-> Breathe on me, Breath of God,
-> Fill me with life anew,
-> That I may love what Thou dost love,
+> Breathe on me, Breath of God, \
+> Fill me with life anew, \
+> That I may love what Thou dost love, \
 > And do what Thou wouldst do.
 >
-> 求主的氣息吹我，使我得著新生命；
+> 求主的氣息吹我，使我得著新生命； \
 > 叫我所愛就是你所愛，我所行就是你所願。
 
 ---
@@ -43,33 +43,33 @@ publisher: 三書精讀出版系統
 
 > ^1^五旬節到了，門徒都聚集在一處。^2^忽然，從天上有響聲下來，好像一陣大風吹過，充滿了他們所坐的屋子；^3^又有舌頭如火焰顯現出來，分開落在他們各人頭上。^4^他們就都被聖靈充滿，按著聖靈所賜的口才說起別國的話來。
 
-> ^5^那時，有虔誠的猶太人從天下各國來，住在耶路撒冷。^6^這聲音一響，眾人都來聚集，各人聽見門徒用眾人的鄉談說話，就甚納悶，^7^都驚訝稀奇說：「看哪，這說話的不都是加利利人嗎？^8^我們各人怎麼聽見他們說我們生來所用的鄉談呢？^9^我們帕提亞人、瑪代人、以攔人和住在美索不達米亞、猶太、加帕多家、本都、亞細亞、^10^弗呂家、旁非利亞、埃及的人，並靠近古利奈的利比亞一帶地方的人，從羅馬來的客旅中或是猶太人、或是進猶太教的人，^11^克里特和阿拉伯人，都聽見他們用我們的鄉談，講說神的大作為！」^12^眾人就都驚訝猜疑，彼此說：「這是甚麼意思呢？」^13^還有人譏誚說：「他們無非是新酒灌滿了！」
+> ^5^那時，有虔誠的猶太人從天下各國來，住在耶路撒冷。^6^這聲音一響，眾人都來聚集，各人聽見門徒用眾人的鄉談說話，就甚納悶，^7^都驚訝希奇說：「看哪，這說話的不都是加利利人嗎？^8^我們各人怎麼聽見他們說我們生來所用的鄉談呢？^9^我們帕提亞人、瑪代人、以攔人和住在美索不達米亞、猶太、加帕多家、本都、亞細亞、^10^弗呂家、旁非利亞、埃及的人，並靠近古利奈的利比亞一帶地方的人，從羅馬來的客旅中或是猶太人、或是進猶太教的人，^11^克里特和阿拉伯人，都聽見他們用我們的鄉談，講說神的大作為！」^12^眾人就都驚訝猜疑，彼此說：「這是甚麼意思呢？」^13^還有人譏誚說：「他們無非是新酒灌滿了！」
 
 > ^14^彼得和十一個使徒站起，高聲說：「猶太人和一切住在耶路撒冷的人哪，這件事你們當知道，也當側耳聽我的話。^15^你們想這些人是醉了，其實不是醉了，因為時候剛到巳初。^16^這正是先知約珥所說的：^17^『神說：在末後的日子，我要將我的靈澆灌凡有血氣的，你們的兒女要說預言，你們的少年人要見異象，老年人要做異夢。^18^在那些日子，我要將我的靈澆灌我的僕人和使女，他們就要說預言。^19^在天上我要顯出奇事，在地下我要顯出神蹟，有血，有火，有煙霧。^20^日頭要變為黑暗，月亮要變為血，這都在主大而明顯的日子未到以前。^21^到那時候，凡求告主名的，就必得救。』
 
-> ^22^以色列人哪，請聽我的話：神藉著拿撒勒人耶穌在你們中間施行異能、奇事、神蹟，將他證明出來，這是你們自己知道的。^23^他既按著神的定旨、先見被交於人，你們就藉著無法之人的手，把他釘在十字架上殺了。^24^神卻將死的痛苦解釋了，叫他復活，因為他原不能被死拘禁。
+> ^22^以色列人哪，請聽我的話：神藉著拿撒勒人耶穌在你們中間施行異能、奇事、神蹟，將他證明出來，這是你們自己知道的。^23^他既按著神的定旨、先見被交與人，你們就藉著無法之人的手，把他釘在十字架上殺了。^24^神卻將死的痛苦解釋了，叫他復活，因為他原不能被死拘禁。
 
 > ^32^這耶穌，神已經叫他復活了，我們都為這事作見證。^33^他既被神的右手高舉，又從父受了所應許的聖靈，就把你們所看見、所聽見的澆灌下來。……^36^故此，以色列全家當確實地知道：你們釘在十字架上的這位耶穌，神已經立他為主、為基督了。」
 
-> ^37^眾人聽見這話，覺得扎心，就對彼得和其餘的使徒說：「弟兄們，我們當怎樣行？」^38^彼得說：「你們各人要悔改，奉耶穌基督的名受洗，叫你們的罪得赦，就必領受所賜的聖靈。^39^因為這應許是給你們和你們的兒女，並一切在遠方的人，就是主我們神所召來的。」^40^彼得還用許多話作見證，勸勉他們說：「你們當救自己脫離這彎曲的世代！」^41^於是，領受他話的人就受了洗，那一天，門徒約添了三千人；^42^都恆心遵守使徒的教訓，彼此交接、掰餅、祈禱。
+> ^37^眾人聽見這話，覺得扎心，就對彼得和其餘的使徒說：「弟兄們，我們當怎樣行？」^38^彼得說：「你們各人要悔改，奉耶穌基督的名受洗，叫你們的罪得赦，就必領受所賜的聖靈。^39^因為這應許是給你們和你們的兒女，並一切在遠方的人，就是主我們神所召來的。」^40^彼得還用許多話作見證，勸勉他們說：「你們當救自己脫離這彎曲的世代！」^41^於是，領受他話的人就受了洗，那一天，門徒約添了三千人；^42^都恆心遵守使徒的教訓，彼此交接、擘餅、祈禱。
 
-> ^44^信的人都在一處，凡物公用，^45^並且賣了田產、家業，照各人所需用的分給各人。^46^他們天天同心合意恆切地在殿裏，且在家中掰餅，存著歡喜、誠實的心用飯，^47^讚美神，得眾民的喜愛。主將得救的人天天加給他們。
+> ^44^信的人都在一處，凡物公用，^45^並且賣了田產、家業，照各人所需用的分給各人。^46^他們天天同心合意恆切地在殿裏，且在家中擘餅，存著歡喜、誠實的心用飯，^47^讚美神，得眾民的喜愛。主將得救的人天天加給他們。
 
-### English — ESV
+### English — NASB
 
-> ^1^When the day of Pentecost arrived, they were all together in one place. ^2^And suddenly there came from heaven a sound like a mighty rushing wind, and it filled the entire house where they were sitting. ^3^And divided tongues as of fire appeared to them and rested on each one of them. ^4^And they were all filled with the Holy Spirit and began to speak in other tongues as the Spirit gave them utterance.
+> ^1^When the day of Pentecost had come, they were all together in one place. ^2^And suddenly there came from heaven a noise like a violent rushing wind, and it filled the whole house where they were sitting. ^3^And there appeared to them tongues as of fire distributing themselves, and they rested on each one of them. ^4^And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit was giving them utterance.
 
-> ^14^But Peter, standing with the eleven, lifted up his voice and addressed them: "Men of Judea and all who dwell in Jerusalem, let this be known to you, and give ear to my words. … ^16^But this is what was uttered through the prophet Joel: ^17^'And in the last days it shall be, God declares, that I will pour out my Spirit on all flesh, and your sons and your daughters shall prophesy, and your young men shall see visions, and your old men shall dream dreams; … ^21^And it shall come to pass that everyone who calls upon the name of the Lord shall be saved.'
+> ^14^But Peter, taking his stand with the eleven, raised his voice and declared to them: "Men of Judea and all you who live in Jerusalem, let this be known to you and give heed to my words. … ^16^but this is what was spoken of through the prophet Joel: ^17^'AND IT SHALL BE IN THE LAST DAYS,' God says, 'THAT I WILL POUR FORTH OF MY SPIRIT ON ALL MANKIND; AND YOUR SONS AND YOUR DAUGHTERS SHALL PROPHESY, AND YOUR YOUNG MEN SHALL SEE VISIONS, AND YOUR OLD MEN SHALL DREAM DREAMS; … ^21^AND IT SHALL BE THAT EVERYONE WHO CALLS ON THE NAME OF THE LORD WILL BE SAVED.'
 
-> ^22^Men of Israel, hear these words: Jesus of Nazareth, a man attested to you by God with mighty works and wonders and signs that God did through him in your midst, as you yourselves know— ^23^this Jesus, delivered up according to the definite plan and foreknowledge of God, you crucified and killed by the hands of lawless men. ^24^God raised him up, loosing the pangs of death, because it was not possible for him to be held by it.
+> ^22^Men of Israel, listen to these words: Jesus the Nazarene, a man attested to you by God with miracles and wonders and signs which God performed through Him in your midst, just as you yourselves know— ^23^this *Man,* delivered over by the predetermined plan and foreknowledge of God, you nailed to a cross by the hands of godless men and put *Him* to death. ^24^But God raised Him up again, putting an end to the agony of death, since it was impossible for Him to be held in its power.
 
-> ^32^This Jesus God raised up, and of that we all are witnesses. ^33^Being therefore exalted at the right hand of God, and having received from the Father the promise of the Holy Spirit, he has poured out this that you yourselves are seeing and hearing. … ^36^Let all the house of Israel therefore know for certain that God has made him both Lord and Christ, this Jesus whom you crucified."
+> ^32^This Jesus God raised up again, to which we are all witnesses. ^33^Therefore having been exalted to the right hand of God, and having received from the Father the promise of the Holy Spirit, He has poured forth this which you both see and hear. … ^36^Therefore let all the house of Israel know for certain that God has made Him both Lord and Christ—this Jesus whom you crucified."
 
-> ^37^Now when they heard this they were cut to the heart, and said to Peter and the rest of the apostles, "Brothers, what shall we do?" ^38^And Peter said to them, "Repent and be baptized every one of you in the name of Jesus Christ for the forgiveness of your sins, and you will receive the gift of the Holy Spirit. … ^41^So those who received his word were baptized, and there were added that day about three thousand souls. ^42^And they devoted themselves to the apostles' teaching and the fellowship, to the breaking of bread and the prayers.
+> ^37^Now when they heard *this,* they were pierced to the heart, and said to Peter and the rest of the apostles, "Brethren, what shall we do?" ^38^Peter *said* to them, "Repent, and each of you be baptized in the name of Jesus Christ for the forgiveness of your sins; and you will receive the gift of the Holy Spirit. … ^41^So then, those who had received his word were baptized; and that day there were added about three thousand souls. ^42^They were continually devoting themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer.
 
-> ^44^And all who believed were together and had all things in common. ^45^And they were selling their possessions and belongings and distributing the proceeds to all, as any had need. ^46^And day by day, attending the temple together and breaking bread in their homes, they received their food with glad and generous hearts, ^47^praising God and having favor with all the people. And the Lord added to their number day by day those who were being saved.
+> ^44^And all those who had believed were together and had all things in common; ^45^and they *began* selling their property and possessions and were sharing them with all, as anyone might have need. ^46^Day by day continuing with one mind in the temple, and breaking bread from house to house, they were taking their meals together with gladness and sincerity of heart, ^47^praising God and having favor with all the people. And the Lord was adding to their number day by day those who were being saved.
 
-**經文核對**：[ai-eden.com/bible/acts/2](https://www.ai-eden.com/bible/acts/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/2](https://www.ai-eden.com/bible/acts/2?t=CUV,NASB&cols=2)
 
 ---
 
@@ -118,7 +118,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 約珥書的應驗——「以後」變成「末後的日子」
 
@@ -156,15 +156,11 @@ publisher: 三書精讀出版系統
 
 ### 5. 教會生活的四個「恆心」
 
-「都恆心遵守使徒的教訓，彼此交接、掰餅、祈禱」（2:42）用的是過去進行式的迂說結構——不是一次熱烈的聚會，而是天天持續的委身。教會的健康，不在於某一次大復興的高峰經歷，而在於這四件事能不能成為每天、持續、恆切的操練。「凡物公用」「照每一個人所需要的分給他們」（2:44-45），也不是一套經濟制度，而是聖靈充滿之後自然流露的愛心——人心先被神的愛充滿，才會甘心把自己的所有，看作弟兄姊妹的需要。
+「都恆心遵守使徒的教訓，彼此交接、擘餅、祈禱」（2:42）用的是過去進行式的迂說結構——不是一次熱烈的聚會，而是天天持續的委身。教會的健康，不在於某一次大復興的高峰經歷，而在於這四件事能不能成為每天、持續、恆切的操練。「凡物公用」「照各人所需用的分給各人」（2:44-45），也不是一套經濟制度，而是聖靈充滿之後自然流露的愛心——人心先被神的愛充滿，才會甘心把自己的所有，看作弟兄姊妹的需要。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -174,7 +170,7 @@ publisher: 三書精讀出版系統
 >
 > 「『好像一陣大風吹過』：這正表明聖靈那無可抵擋的浩大能力。」
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily IV**（論徒2:1-2），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily IV**（論徒2:1-2），NPNF1-11
 
 ### 改革宗時期
 
@@ -186,44 +182,7 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, 徒2:17注（CCEL, calcom36）
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-> "It wasn't real wind, and it wasn't real fire. It was the sound of a rushing violent wind, and it was the appearance of fire."
->
-> 「那不是真實的風，也不是真實的火。是一陣猛烈的風的聲音，是火的樣式顯現出來。」
->
-> — John MacArthur, *"The Birth of the Church, Part 1"*，Grace to You, gty.org
-
-MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉捩點：
-
-> "Suddenly, the church is born. Suddenly, the Holy Spirit arrives."
->
-> 「教會就在那一刻誕生了。聖靈就在那一刻來到了。」
->
-> — John MacArthur, *"The Birth of the Church, Part 1"*，Grace to You, gty.org
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 133:1-3
-
-> 看哪，弟兄和睦同居是何等地善，何等地美！
-> **這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他的衣襟。**
-> 又好比黑門的甘露降在錫安山，因為在那裏有耶和華所命定的福，就是永遠的生命。
-
-### 民數記 11:29
-
-> 摩西對他說：「你為我的緣故嫉妒人嗎？
-> **唯願耶和華的百姓都受感說話，願耶和華把他的靈降在他們身上！**」
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **兩個記號，一個經歷**：摩根特別留意路加刻意安排的兩個記號——一個訴諸聽覺，一個訴諸視覺：
 
@@ -251,9 +210,57 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳2章釋經）
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
 
-老弟兄把「分散」與「聚集」放在一起，讓學生自己看見這條貫穿全經的線：
+> "It wasn't real wind, and it wasn't real fire. It was the sound of a rushing violent wind, and it was the appearance of fire."
+>
+> 「那不是真實的風，也不是真實的火。是一陣猛烈的風的聲音，是火的樣式顯現出來。」
+>
+> — John MacArthur, *"The Birth of the Church, Part 1"*，Grace to You, gty.org
+
+MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉捩點：
+
+> "Suddenly, the church is born. Suddenly, the Holy Spirit arrives."
+>
+> 「教會就在那一刻誕生了。聖靈就在那一刻來到了。」
+>
+> — John MacArthur, *"The Birth of the Church, Part 1"*，Grace to You, gty.org
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 133:1-3
+
+> 看哪，弟兄和睦同居是何等地善，何等地美！ \
+> **這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他的衣襟。** \
+> 又好比黑門的甘露降在錫安山，因為在那裏有耶和華所命定的福，就是永遠的生命。
+
+### 民數記 11:29
+
+> 摩西對他說：「你為我的緣故嫉妒人嗎？ \
+> **唯願耶和華的百姓都受感說話，願耶和華把他的靈降在他們身上！**」
+
+### Holy Ghost, With Light Divine（聖靈啊，用你真光）
+
+> Holy Ghost, with light divine, \
+> Shine upon this heart of mine; \
+> Chase the shades of night away, \
+> Turn my darkness into day.
+>
+> *Andrew Reed, 1817*
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：風聲、火焰、方言，都只是舞台的布幕拉開；教會不是因為一場超自然現象而誕生，是因為認出了那位被釘十字架、又被神立為主為基督的耶穌而誕生。「彼得的講道只講一件事——這位耶穌，神已經立他為主、為基督了。現象會退去，這句話不會退去。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：摩西曾在曠野中發出一個心願——「唯願耶和華的百姓都受感說話，願耶和華把他的靈降在他們身上！」（民11:29）——那時只有七十個長老暫時受感說話（民11:25）。約珥書應許這心願終必成就：「我要將我的靈澆灌凡有血氣的」（珥2:28）。五旬節這一天，彼得引用約珥的話宣告：這應許現在應驗了（徒2:16-18）；而這靈的澆灌，源頭是那位「被高舉在神的右邊」的耶穌自己（徒2:33）。
+
+另一條線，老弟兄把「分散」與「聚集」放在一起，讓學生自己看見它貫穿全經：
 
 | 事件 | 經文 | 語言／群體的狀態 |
 |----------------|----------------|------------------------------------------------|
@@ -262,31 +269,6 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 | 新天新地的敬拜 | 啟7:9 | 「各國、各族、各民、各方」站在寶座前，同聲讚美 |
 
 老弟兄提醒：五旬節不是終點，是這條線的中段——語言的隔閡在這一天開始被打破，卻要到啟示錄7:9才徹底止息。教會存在的意義，正是活在「已經開始、尚未完成」的中間地帶，繼續把福音傳給還沒有聽懂的人。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Holy Ghost, With Light Divine*（聖靈啊，用你真光）
-
-> Holy Ghost, with light divine,
-> Shine upon this heart of mine;
-> Chase the shades of night away,
-> Turn my darkness into day.
->
-> *Andrew Reed, 1817*
-
-**詩篇**：詩篇 133:1
-
-> 看哪，弟兄和睦同居，是何等地善，何等地美！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：摩西曾在曠野中發出一個心願——「唯願耶和華的百姓都受感說話，願耶和華把他的靈降在他們身上！」（民11:29）——那時只有七十個長老暫時受感說話（民11:25）。約珥書應許這心願終必成就：「我要將我的靈澆灌凡有血氣的」（珥2:28）。五旬節這一天，彼得引用約珥的話宣告：這應許現在應驗了（徒2:16-18）；而這靈的澆灌，源頭是那位「被高舉在神的右邊」的耶穌自己（徒2:33）。再往前追一步：巴別塔（創11章）因人驕傲，語言破碎、萬民分散；五旬節因聖靈降臨，萬民的語言重新被聽懂——這條線的盡頭，在啟示錄7:9「各國、各族、各民、各方」站在寶座前同聲讚美，語言的隔閡徹底消失。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -307,17 +289,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 - **晚上**：回想今天，有沒有一句神的話「扎心」過你？你有沒有像五旬節的眾人一樣，問一句「我當怎樣行」？
 - **一個行動**：這週實踐「凡物公用」的心志——具體地把一項你擁有的資源，分享給一位有需要的弟兄姊妹。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：風聲、火焰、方言，都只是舞台的布幕拉開；教會不是因為一場超自然現象而誕生，是因為認出了那位被釘十字架、又被神立為主為基督的耶穌而誕生。
-
-**貫通全經**：摩西曾心願「耶和華的百姓都受感說話」（民11:29），約珥應許「我要將我的靈澆灌凡有血氣的」（珥2:28）；五旬節這一天（徒2:17, 33），這心願與應許同時應驗——巴別的分散（創11章）從這一天開始被扭轉，直到啟示錄7:9萬民同聲讚美，才徹底完成。
-
-**無法迴避的問題**：「你被聖靈充滿的渴望，是渴望經歷『現象』，還是渴望更深認識耶穌基督？」
-
-> 「彼得的講道只講一件事——這位耶穌，神已經立他為主、為基督了。現象會退去，這句話不會退去。」
+**你看見耶穌了嗎？** 風聲、火焰、方言，眾人看見的是現象；彼得看見的，是那位「被神的右手高舉，又從父受了所應許的聖靈，就把你們所看見、所聽見的澆灌下來」的耶穌（2:33）。五旬節真正的主角不是聖靈的現象，是那位澆灌聖靈的主——祂昨天被你們釘死，今天已被神立為主為基督。
 
 ---
 
@@ -325,15 +297,11 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ### 默想問題
 
-1. **現象與核心**：你曾經被某種屬靈的「現象」——特別的經歷、感動、氛圍——吸引，卻沒有真正認識這一切所指向的耶穌基督嗎？
+1. **四個記號**：使徒的教導、彼此的團契、掰餅、祈禱——這四件事，哪一件在你的生活中最薄弱？
 
-2. **扎心的經歷**：神的話有沒有真實地「扎」過你的心？你當時的回應是甚麼？
+2. **凡物公用的心志**：你手中的資源——時間、金錢、恩賜——有沒有甘心分享給有需要的弟兄姊妹？
 
-3. **四個記號**：使徒的教導、彼此的團契、掰餅、祈禱——這四件事，哪一件在你的生活中最薄弱？
-
-4. **凡物公用的心志**：你手中的資源——時間、金錢、恩賜——有沒有甘心分享給有需要的弟兄姊妹？
-
-5. **澆灌的對象**：約珥書應許聖靈要澆灌「凡有血氣的」，不分男女老幼、尊卑貴賤。你有沒有把福音的門，關在某一類人的外面？
+3. **澆灌的對象**：約珥書應許聖靈要澆灌「凡有血氣的」，不分男女老幼、尊卑貴賤。你有沒有把福音的門，關在某一類人的外面？
 
 ### 禱告回應
 

@@ -24,25 +24,25 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Hark, the Voice of Jesus Calling**
+> **Hark, the Voice of Jesus Calling** \
 > *Daniel March, 1868*
 >
-> Hark, the voice of Jesus calling,
-> "Who will go and work today?
-> Fields are white and harvests waiting,
-> Who will bear the sheaves away?"
-> Loud and long the Master calleth,
-> Rich reward He offers free;
-> Who will answer, gladly saying,
+> Hark, the voice of Jesus calling, \
+> "Who will go and work today? \
+> Fields are white and harvests waiting, \
+> Who will bear the sheaves away?" \
+> Loud and long the Master calleth, \
+> Rich reward He offers free; \
+> Who will answer, gladly saying, \
 > "Here am I, send me, send me"?
 >
-> 聽哪，耶穌的聲音在呼喚：
-> 「今日誰肯去作工？
-> 田已泛白，莊稼待收，
-> 誰肯背起禾捆前行？」
-> 主的呼聲響亮而長久，
-> 白白賜下豐厚的賞賜；
-> 誰肯歡然回應說：
+> 聽哪，耶穌的聲音在呼喚： \
+> 「今日誰肯去作工？ \
+> 田已泛白，莊稼待收， \
+> 誰肯背起禾捆前行？」 \
+> 主的呼聲響亮而長久， \
+> 白白賜下豐厚的賞賜； \
+> 誰肯歡然回應說： \
 > 「我在這裏，請差遣我，差遣我」？
 
 ---
@@ -51,37 +51,37 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^在安提阿的教會中有幾位先知和教師，就是巴拿巴和稱呼尼結的西面、古利奈人路求、與分封之王希律同養的馬念並掃羅。^2^他們侍奉主、禁食的時候，聖靈說：「要為我分派巴拿巴和掃羅，去做我召他們所做的工。」^3^於是禁食、禱告，按手在他們頭上，就打發他們去了。^4^他們既被聖靈差遣，就下到西流基，從那裏坐船往居比路去。
+> ^1^在安提阿的教會中有幾位先知和教師，就是巴拿巴和稱呼尼結的西面、古利奈人路求、與分封之王希律同養的馬念並掃羅。^2^他們事奉主、禁食的時候，聖靈說：「要為我分派巴拿巴和掃羅，去做我召他們所做的工。」^3^於是禁食、禱告，按手在他們頭上，就打發他們去了。^4^他們既被聖靈差遣，就下到西流基，從那裏坐船往居比路去。
 
-> ^9^掃羅，又名保羅，被聖靈充滿，定睛看他，^10^說：「你這充滿各樣詭詐奸惡，魔鬼的兒子、眾善的仇敵，你混亂主的正道還不止住嗎？^11^現在主的手加在你身上，你要瞎眼，暫且不見日光。」他的眼睛立刻昏矇黑暗，四下裏求人拉著手領他。^12^方伯看見所做的事，很稀奇主的道，就信了。
+> ^9^掃羅，又名保羅，被聖靈充滿，定睛看他，^10^說：「你這充滿各樣詭詐奸惡，魔鬼的兒子、眾善的仇敵，你混亂主的正道還不止住嗎？^11^現在主的手加在你身上，你要瞎眼，暫且不見日光。」他的眼睛立刻昏蒙黑暗，四下裏求人拉著手領他。^12^方伯看見所做的事，很希奇主的道，就信了。
 
-> ^16^保羅就站起來，舉手說：「以色列人和一切敬畏神的人，請聽！……^22^既廢了掃羅，就選立大衛做他們的王，又為他作見證說：『我尋得耶西的兒子大衛，他是合我心意的人，凡事要遵行我的旨意。』^23^從這人的後裔中，神已經照著所應許的為以色列人立了一位救主，就是耶穌。
+> ^16^保羅就站起來，舉手說：「以色列人和一切敬畏神的人，請聽！……^22^既廢了掃羅，就選立大衛作他們的王，又為他作見證說：『我尋得耶西的兒子大衛，他是合我心意的人，凡事要遵行我的旨意。』^23^從這人的後裔中，神已經照著所應許的為以色列人立了一位救主，就是耶穌。
 
 > ^27^耶路撒冷居住的人和他們的官長，因為不認識基督，也不明白每安息日所讀眾先知的書，就把基督定了死罪，正應了先知的預言。^28^雖然查不出他有當死的罪來，還是求彼拉多殺他。^29^既成就了經上指著他所記的一切話，就把他從木頭上取下來，放在墳墓裏。^30^神卻叫他從死裏復活。^31^那從加利利同他上耶路撒冷的人多日看見他，這些人如今在民間是他的見證。
 
 > ^38^所以弟兄們，你們當曉得：赦罪的道是由這人傳給你們的！^39^你們靠摩西的律法，在一切不得稱義的事上信靠這人，就都得稱義了。^40^所以你們務要小心，免得先知書上所說的臨到你們。^41^主說：『你們這輕慢的人，要觀看，要驚奇，要滅亡！因為在你們的時候，我行一件事，雖有人告訴你們，你們總是不信。』」
 
-> ^44^到下安息日，合城的人幾乎都來聚集，要聽神的道。^45^但猶太人看見人這樣多，就滿心嫉妒，硬駁保羅所說的話，並且毀謗。^46^保羅和巴拿巴放膽說：「神的道先講給你們原是應當的，只因你們棄絕這道，斷定自己不配得永生，我們就轉向外邦人去。^47^因為主曾這樣吩咐我們說：『我已經立你做外邦人的光，叫你施行救恩，直到地極。』」^48^外邦人聽見這話，就歡喜了，讚美神的道，凡預定得永生的人都信了。^49^於是主的道傳遍了那一帶地方。
+> ^44^到下安息日，合城的人幾乎都來聚集，要聽神的道。^45^但猶太人看見人這樣多，就滿心嫉妒，硬駁保羅所說的話，並且毀謗。^46^保羅和巴拿巴放膽說：「神的道先講給你們原是應當的，只因你們棄絕這道，斷定自己不配得永生，我們就轉向外邦人去。^47^因為主曾這樣吩咐我們說：『我已經立你作外邦人的光，叫你施行救恩，直到地極。』」^48^外邦人聽見這話，就歡喜了，讚美神的道，凡預定得永生的人都信了。^49^於是主的道傳遍了那一帶地方。
 
 > ^50^但猶太人挑唆虔敬、尊貴的婦女和城內有名望的人，逼迫保羅、巴拿巴，將他們趕出境外。^51^二人對著眾人跺下腳上的塵土，就往以哥念去了。^52^門徒滿心喜樂，又被聖靈充滿。
 
-### English — ESV
+### English — NASB
 
-> ^2^While they were worshiping the Lord and fasting, the Holy Spirit said, "Set apart for me Barnabas and Saul for the work to which I have called them." ^3^Then after fasting and praying they laid their hands on them and sent them off. ^4^So, being sent out by the Holy Spirit, they went down to Seleucia, and from there they sailed to Cyprus.
+> ^2^While they were ministering to the Lord and fasting, the Holy Spirit said, "Set apart for Me Barnabas and Saul for the work to which I have called them." ^3^Then, when they had fasted and prayed and laid their hands on them, they sent them away. ^4^So, being sent out by the Holy Spirit, they went down to Seleucia and from there they sailed to Cyprus.
 
-> ^9^But Saul, who was also called Paul, filled with the Holy Spirit, looked intently at him ^10^and said, "You son of the devil, you enemy of all righteousness, full of all deceit and villainy, will you not stop making crooked the straight paths of the Lord? ^11^And now, behold, the hand of the Lord is upon you, and you will be blind and unable to see the sun for a time." Immediately mist and darkness fell upon him, and he went about seeking people to lead him by the hand. ^12^Then the proconsul believed, when he saw what had occurred, for he was astonished at the teaching of the Lord.
+> ^9^But Saul, who was also *known as* Paul, filled with the Holy Spirit, fixed his gaze on him, ^10^and said, "You who are full of all deceit and fraud, you son of the devil, you enemy of all righteousness, will you not cease to make crooked the straight ways of the Lord? ^11^Now, behold, the hand of the Lord is upon you, and you will be blind and not see the sun for a time." And immediately a mist and a darkness fell upon him, and he went about seeking those who would lead him by the hand. ^12^Then the proconsul believed when he saw what had happened, being amazed at the teaching of the Lord.
 
-> ^22^And when he had removed him, he raised up David to be their king, of whom he testified and said, 'I have found in David the son of Jesse a man after my heart, who will do all my will.' ^23^Of this man's offspring God has brought to Israel a Savior, Jesus, as he promised.
+> ^22^"After He had removed him, He raised up David to be their king, concerning whom He also testified and said, 'I HAVE FOUND DAVID the son of Jesse, A MAN AFTER MY HEART, who will do all My will.' ^23^From the descendants of this man, according to promise, God has brought to Israel a Savior, Jesus,
 
-> ^30^But God raised him from the dead, ^31^and for many days he appeared to those who had come up with him from Galilee to Jerusalem, who are now his witnesses to the people.
+> ^30^"But God raised Him from the dead; ^31^and for many days He appeared to those who came up with Him from Galilee to Jerusalem, the very ones who are now His witnesses to the people.
 
-> ^38^Let it be known to you therefore, brothers, that through this man forgiveness of sins is proclaimed to you, ^39^and by him everyone who believes is freed from everything from which you could not be freed by the law of Moses.
+> ^38^"Therefore let it be known to you, brethren, that through Him forgiveness of sins is proclaimed to you, ^39^and through Him everyone who believes is freed from all things, from which you could not be freed through the Law of Moses.
 
-> ^46^And Paul and Barnabas spoke out boldly, saying, "It was necessary that the word of God be spoken first to you. Since you thrust it aside and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles. ^47^For so the Lord has commanded us, saying, 'I have made you a light for the Gentiles, that you may bring salvation to the ends of the earth.'" ^48^And when the Gentiles heard this, they began rejoicing and glorifying the word of the Lord, and as many as were appointed to eternal life believed.
+> ^46^Paul and Barnabas spoke out boldly and said, "It was necessary that the word of God be spoken to you first; since you repudiate it and judge yourselves unworthy of eternal life, behold, we are turning to the Gentiles. ^47^For so the Lord has commanded us, 'I HAVE PLACED YOU AS A LIGHT FOR THE GENTILES, THAT YOU MAY BRING SALVATION TO THE END OF THE EARTH.'" ^48^When the Gentiles heard this, they *began* rejoicing and glorifying the word of the Lord; and as many as had been appointed to eternal life believed.
 
-> ^52^And the disciples were filled with joy and with the Holy Spirit.
+> ^52^And the disciples were continually filled with joy and with the Holy Spirit.
 
-**經文核對**：[ai-eden.com/bible/acts/13](https://www.ai-eden.com/bible/acts/13?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/13](https://www.ai-eden.com/bible/acts/13?t=CUV,NASB&cols=2)
 
 ---
 
@@ -116,7 +116,7 @@ publisher: 三書精讀出版系統
 | ἐκπέμπω | ekpempō | 差遣、打發出去 | 13:4 | 本章鑰詞「差遣」的原文動詞，被動語態「既被聖靈差遣」——宣教士是被動接受差遣，不是主動請纓 |
 | ἀτενίζω | atenizō | 定睛看、凝視 | 13:9 | 保羅被聖靈充滿之後的第一個動作，是「定睛看」抵擋真道的假先知，隨即宣告審判臨到 |
 | δικαιόω | dikaioō | 稱義、宣告為義 | 13:39 | 法庭用語，宣判無罪；本節是使徒行傳中第一次、也是唯一一次公開宣告「因信稱義」這個核心術語 |
-| φῶς | phōs | 光 | 13:47 | 引自賽49:6「我還要使你做外邦人的光」，原是論受苦僕人（彌賽亞）的使命，保羅在此把這句話用在教會身上 |
+| φῶς | phōs | 光 | 13:47 | 引自賽49:6「我還要使你作外邦人的光」，原是論受苦僕人（彌賽亞）的使命，保羅在此把這句話用在教會身上 |
 | τάσσω | tassō（完成被動分詞） | 指定、預定 | 13:48 | 本節作 τεταγμένοι；「凡預定得永生的人都信了」——被動完成式，強調信心的根源在神先定的旨意，不是人自發的抉擇 |
 
 ### 「因信稱義」(δικαιόω) 第一次公開宣告
@@ -125,7 +125,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 差遣：宣教是聖靈的主動，不是教會的策略
 
@@ -133,7 +133,7 @@ publisher: 三書精讀出版系統
 
 ### 2. 以呂馬的瞎眼：審判臨到抵擋者，恩典也同時臨到旁觀者
 
-保羅「定睛看」以呂馬，宣告主的手加在他身上，他就瞎了眼（13:9-11）。這是全書第一次由使徒親口宣告的審判神蹟。但這一幕的結果不只是審判——方伯士求·保羅親眼看見，就「稀奇主的道，信了」（13:12）。同一個神蹟，對抵擋真道的人是審判，對被真道吸引的人卻成了信心的門。
+保羅「定睛看」以呂馬，宣告主的手加在他身上，他就瞎了眼（13:9-11）。這是全書第一次由使徒親口宣告的審判神蹟。但這一幕的結果不只是審判——方伯士求·保羅親眼看見，就「很希奇主的道，就信了」（13:12）。同一個神蹟，對抵擋真道的人是審判，對被真道吸引的人卻成了信心的門。
 
 ### 3. 保羅的第一篇講道：救恩史的濃縮，落在一個名字上
 
@@ -145,7 +145,7 @@ publisher: 三書精讀出版系統
 
 ### 5. 「外邦人的光」：以賽亞書的應許落在教會身上
 
-猶太人棄絕福音之後，保羅和巴拿巴放膽說：「我們就轉向外邦人去。因為主曾這樣吩咐我們說：『我已經立你做外邦人的光，叫你施行救恩，直到地極』」（13:46-47，引賽49:6）。這句原是論彌賽亞使命的宣告，保羅卻把它用在教會身上——那光沒有換人，是同一位基督的光，如今藉著祂的身體繼續照耀出去。
+猶太人棄絕福音之後，保羅和巴拿巴放膽說：「我們就轉向外邦人去。因為主曾這樣吩咐我們說：『我已經立你作外邦人的光，叫你施行救恩，直到地極』」（13:46-47，引賽49:6）。這句原是論彌賽亞使命的宣告，保羅卻把它用在教會身上——那光沒有換人，是同一位基督的光，如今藉著祂的身體繼續照耀出去。
 
 ### 6. 棄絕與歡喜：先猶太人、後外邦人的次序確立
 
@@ -155,10 +155,6 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
 **屈梭多模 (Chrysostom)**：
@@ -167,7 +163,7 @@ publisher: 三書精讀出版系統
 >
 > 「禁食是一件大好事，一件真正的大好事：它不受任何限度的圈限。當要按立的時候，他們禁食；正當他們禁食的時候，聖靈說話了。」
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXVII**（論徒12:18-13:4），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XXVII**（論徒12:18-13:4），NPNF1-11
 
 ### 改革宗時期
 
@@ -175,13 +171,21 @@ publisher: 三書精讀出版系統
 
 > "They ministered to the Lord. The word which Luke useth doth not only signify to be occupied about holy things, but also sometimes to bear public offices."
 >
-> 「『他們侍奉主』——路加所用的這個字，不僅指從事聖事，有時也指擔任公共的職份。」
+> 「『他們事奉主』——路加所用的這個字，不僅指從事聖事，有時也指擔任公共的職分。」
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, 13:2注（CCEL, calcom36）
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**聖靈的作為是本段的中心**：摩根指出，13:1-3整段敘事的重點不在安提阿教會有多少位先知教師、也不在巴拿巴和掃羅的資歷，而在「聖靈說」這三個字——這是整卷使徒行傳裏，聖靈第一次如此直接、清楚地在教會的敬拜當中發出具體的差遣命令。禁食禱告在此不是宗教動作，而是一顆願意放下自己議程、專心等候神心意的姿態——正是在這樣的姿態裏，教會聽懂了差遣的命令。
+
+**巴拿巴與掃羅的排序悄悄轉換**：摩根留意到，13:1-2列出五位先知教師時，巴拿巴排在掃羅之前，符合當時教會對他的認識與敬重；但從13:9「掃羅，又名保羅」之後，敘事的重心已經悄悄轉移到保羅身上。路加沒有作任何戲劇性的宣告，只是用詞序默默記下這個轉換——服事的果效，終究不是靠資歷排序決定的。
+
+**兩種聽眾，兩種切入點，同一個真理**：摩根特別指出，保羅在彼西底安提阿會堂裏的講法，與他日後在異教群眾面前的講法（14章路司得），有根本不同的進路——向認識舊約的會眾，從以色列歷史講起；向不認識舊約的群眾，只能從創造主與普遍啟示切入。但無論起點在哪裏，終點沒有改變，都是那位又真又活、又叫死人復活的神。
+
+> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳13章釋經）
+
+### 麥克阿瑟 (John MacArthur)
 
 > "By Him all that believe are justified from all things... from which you could never be justified by the law of Moses."
 >
@@ -191,69 +195,46 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 2:7-8
 
-> 受膏者說：我要傳聖旨。耶和華曾對我說：「你是我的兒子，我今日生你。
+> 受膏者說：我要傳聖旨。耶和華曾對我說：「你是我的兒子，我今日生你。 \
 > **你求我，我就將列國賜你為基業，將地極賜你為田產。**」
 
 保羅在會堂裏引這篇詩篇宣告耶穌的復活（13:33）；「將地極賜你為田產」這句古老的應許，正是本章「聖靈的差遣」要開始成就的事。
 
 ### 以賽亞書 49:6
 
-> 你做我的僕人，使雅各眾支派復興，使以色列中得保全的歸回，尚為小事，
-> **我還要使你做外邦人的光，叫你施行我的救恩，直到地極。**
+> 你作我的僕人，使雅各眾支派復興，使以色列中得保全的歸回，尚為小事， \
+> **我還要使你作外邦人的光，叫你施行我的救恩，直到地極。**
 
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-**聖靈的作為是本段的中心**：摩根指出，13:1-3整段敘事的重點不在安提阿教會有多少位先知教師、也不在巴拿巴和掃羅的資歷，而在「聖靈說」這三個字——這是整卷使徒行傳裏，聖靈第一次如此直接、清楚地在教會的敬拜當中發出具體的差遣命令。
-
-**禁食禱告不是儀式，是預備聽見的心**：摩根提醒讀者，安提阿教會並非先有宣教計劃、再求神批准，而是在「事奉主、禁食」的當下，聖靈主動說話。禁食禱告在此不是宗教動作，而是一顆願意放下自己議程、專心等候神心意的姿態——正是在這樣的姿態裏，教會聽懂了差遣的命令。
-
-**巴拿巴與掃羅的排序悄悄轉換**：摩根留意到，13:1-2列出五位先知教師時，巴拿巴排在掃羅之前，符合當時教會對他的認識與敬重；但從13:9「掃羅，又名保羅」之後，敘事的重心已經悄悄轉移到保羅身上。路加沒有作任何戲劇性的宣告，只是用詞序默默記下這個轉換——服事的果效，終究不是靠資歷排序決定的。
-
-**兩種聽眾，兩種切入點，同一個真理**：摩根特別指出，保羅在彼西底安提阿會堂裏的講法，與他日後在異教群眾面前的講法（14章路司得），有根本不同的進路——向認識舊約的會眾，從以色列歷史講起；向不認識舊約的群眾，只能從創造主與普遍啟示切入。但無論起點在哪裏，終點沒有改變，都是那位又真又活、又叫死人復活的神。
-
-> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳13章釋經）
-
-### 老弟兄查經洞見 (Thursday Class Insights)
-
-老弟兄講這一章，喜歡先把13:2和13:44-46擺在一起看：一頭是聖靈主動「分派」，一頭是猶太人主動「棄絕」——同一卷書裏，神的差遣與人的拒絕交替出現，卻沒有一次攔住福音往前走的腳步。他常提醒查經班：不要把「棄絕」讀成失敗的記號，13:46那句「我們就轉向外邦人去」，正是神藉著人的拒絕，把福音又往前推了一步——這與卷二「逼迫」推開猶太全地和撒瑪利亞的門（8:1, 4），是同一個模式的延續。
-
-老弟兄也常把13:9的「定睛看」與整本聖經裏「看」的分量連在一起：撒母耳膏大衛的時候，神提醒他「不要看他的外貌……耶和華是看內心」（撒上16:7）；保羅定睛看以呂馬，看出的不是外貌，是「詭詐奸惡」的裏面。屬靈的洞察力從來不是一種模糊的直覺，是能分辨光明與黑暗的具體能力，這能力的源頭只有一個——「被聖靈充滿」（13:9）。
-
-保羅那句「我已經立你做外邦人的光」（13:47），老弟兄總是連到創世記12:3神給亞伯拉罕的應許：「地上的萬族都要因你得福。」他常說：保羅在彼西底安提阿會堂裏所做的，不是發明一個新的宣教策略，是把一個從亞伯拉罕就已經說出口的古老應許，一步一步地走成事實。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*We've a Story to Tell to the Nations*（我們有故事要傳給萬邦）
-*Colin Sterne, 1896*
-
-> We've a story to tell to the nations, that shall turn their hearts to the right,
-> A story of truth and mercy, a story of peace and light,
-> A story of peace and light.
->
-> 我們有故事要傳給萬邦，能叫他們的心歸向正路，
-> 一個關於真理與憐憫的故事，一個關於平安與光明的故事。
-
-**詩篇**：詩篇 96:3
+### 詩篇 96:3
 
 > 在列邦中述說他的榮耀！在萬民中述說他的奇事！
 
+### We've a Story to Tell to the Nations（我們有故事要傳給萬邦）
+
+> We've a story to tell to the nations, that shall turn their hearts to the right, \
+> A story of truth and mercy, a story of peace and light, \
+> A story of peace and light.
+>
+> 我們有故事要傳給萬邦，能叫他們的心歸向正路， \
+> 一個關於真理與憐憫的故事，一個關於平安與光明的故事。
+
+*H. Ernest Nichol（筆名 Colin Sterne）, 1896*
+
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：安提阿教會禁食禱告的時候，開口的是聖靈；巴拿巴和掃羅所做的，不過是順服一句已經說出口的命令——宣教從來不是教會發明的策略，是聖靈主動的差遣。「聖靈先開口，教會才打發人去——次序從不顛倒。你若還在等一個『萬全的策略』才肯出發，也許你真正缺的，不是策略，是一段真正安靜下來、聽祂說話的時間。」
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：「立你做外邦人的光」（13:47）保羅直接引自以賽亞書49:6——這節經文原是論到那位受苦僕人（彌賽亞）要「做外邦人的光」，保羅卻把這句話用在教會身上。這提醒讀者：教會今天所領受的宣教使命，不是憑空而來的呼召，是耶穌基督自己作為「外邦人的光」的使命，如今藉著祂的身體繼續延伸出去。這條線再往前追一步：創世記12:3神應許亞伯拉罕「地上的萬族都要因你得福」；再往後一步：啟示錄7:9「各國、各族、各民、各方」都站在寶座和羔羊面前——13:2那句「要為我分派巴拿巴和掃羅」，正是這條從亞伯拉罕到寶座前的長線上，一個具體、看得見的轉折點。
+鑰匙：「立你作外邦人的光」（13:47）保羅直接引自以賽亞書49:6——這節經文原是論到那位受苦僕人（彌賽亞）要「作外邦人的光」，保羅卻把這句話用在教會身上。這提醒讀者：教會今天所領受的宣教使命，不是憑空而來的呼召，是耶穌基督自己作為「外邦人的光」的使命，如今藉著祂的身體繼續延伸出去。這條線再往前追一步：創世記12:3神應許亞伯拉罕「地上的萬族都要因你得福」；再往後一步：啟示錄7:9「各國、各族、各民、各方」都站在寶座和羔羊面前——13:2那句「要為我分派巴拿巴和掃羅」，正是這條從亞伯拉罕到寶座前的長線上，一個具體、看得見的轉折點。
+
+老弟兄講這一章，喜歡先把13:2和13:44-46擺在一起看：一頭是聖靈主動「分派」，一頭是猶太人主動「棄絕」——同一卷書裏，神的差遣與人的拒絕交替出現，卻沒有一次攔住福音往前走的腳步。不要把「棄絕」讀成失敗的記號，13:46那句「我們就轉向外邦人去」，正是神藉著人的拒絕，把福音又往前推了一步——這與卷二「逼迫」推開猶太全地和撒瑪利亞的門（8:1, 4），是同一個模式的延續。他也常把13:9的「定睛看」與整本聖經裏「看」的分量連在一起：撒母耳膏大衛的時候，神提醒他「不要看他的外貌……耶和華是看內心」（撒上16:7）；保羅定睛看以呂馬，看出的不是外貌，是「詭詐奸惡」的裏面。屬靈的洞察力從來不是一種模糊的直覺，是能分辨光明與黑暗的具體能力，這能力的源頭只有一個——「被聖靈充滿」（13:9）。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -272,19 +253,9 @@ publisher: 三書精讀出版系統
 
 - **早晨**：主啊，在我今天要做的計劃與決定之前，求你給我一段安靜等候你的時間，讓我聽得見你的差遣，而不只是自己的盤算。
 - **晚上**：回想今天，我有沒有把福音被人拒絕，當作失敗，而不是神藉此把福音往前推的記號？
-- **一個行動**：今天為一位你認識、還未信主的外邦朋友具體禱告，把「立你做外邦人的光」這句話，落實在一個具體的人身上。
+- **一個行動**：今天為一位你認識、還未信主的外邦朋友具體禱告，把「立你作外邦人的光」這句話，落實在一個具體的人身上。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：安提阿教會禁食禱告的時候，開口的是聖靈；巴拿巴和掃羅所做的，不過是順服一句已經說出口的命令——宣教從來不是教會發明的策略，是聖靈主動的差遣。
-
-**貫通全經**：以賽亞書49:6「使你做外邦人的光」原是論彌賽亞的使命宣告，保羅在13:47將這句話用在教會身上——那光沒有換人，是同一位基督的光，藉著祂的身體繼續照耀出去，直到創世記12:3那句「地上的萬族都要因你得福」的古老應許，一步步走成事實。
-
-**無法迴避的問題**：「如果聖靈今天要在你的禁食禱告中，清楚地對你說一句差遣的話，你聽得出來嗎？」
-
-> 「聖靈先開口，教會才打發人去——次序從不顛倒。你若還在等一個『萬全的策略』才肯出發，也許你真正缺的，不是策略，是一段真正安靜下來、聽祂說話的時間。」
+**你看見耶穌了嗎？** 這一章的主角從頭到尾不是保羅——點名的是聖靈，差遣的是聖靈；保羅講的那篇道，從埃及講到大衛，落點只有一個名字：「神已經照著所應許的為以色列人立了一位救主，就是耶穌」（13:23）。福音第一次跨出巴勒斯坦的邊界，推動的正是那位復活的主自己。
 
 ---
 
@@ -298,18 +269,14 @@ publisher: 三書精讀出版系統
 
 3. **稱義的根基**：你今天在神面前的坦然無懼，是靠自己的表現、還是靠耶穌基督已經成就的稱義？
 
-4. **面對棄絕**：當你所傳的福音被人拒絕、甚至被毀謗時，你的第一個反應是甚麼？你會不會像保羅一樣，把這當作神開另一扇門的記號？
-
-5. **外邦人的光**：你身邊有沒有一個尚未認識耶穌的人？你今天願不願意成為那道光具體照到他身上的一小步？
-
 ### 禱告回應
 
-> 主啊，感謝你藉著聖靈親自差遣教會，把福音傳到遠方。
-> 求你在我一切的計劃和策略之先，教我先安靜下來，聽你清楚的差遣。
-> 求你賜我像保羅一樣分辨的眼光，也賜我像他一樣的膽量，
-> 無論面對熟悉真理的聽眾，還是完全陌生你的人，都能把他們指向你。
-> 當我所傳的被人棄絕、被人毀謗的時候，求你使我不灰心，
-> 因為你能藉著人的拒絕，把福音的門又推開一步。
+> 主啊，感謝你藉著聖靈親自差遣教會，把福音傳到遠方。 \
+> 求你在我一切的計劃和策略之先，教我先安靜下來，聽你清楚的差遣。 \
+> 求你賜我像保羅一樣分辨的眼光，也賜我像他一樣的膽量， \
+> 無論面對熟悉真理的聽眾，還是完全陌生你的人，都能把他們指向你。 \
+> 當我所傳的被人棄絕、被人毀謗的時候，求你使我不灰心， \
+> 因為你能藉著人的拒絕，把福音的門又推開一步。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

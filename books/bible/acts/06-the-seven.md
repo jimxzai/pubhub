@@ -24,17 +24,17 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **O Master, Let Me Walk with Thee**
+> **O Master, Let Me Walk with Thee** \
 > *Washington Gladden, 1879*
 >
-> O Master, let me walk with Thee
-> In lowly paths of service free;
-> Tell me Thy secret; help me bear
+> O Master, let me walk with Thee \
+> In lowly paths of service free; \
+> Tell me Thy secret; help me bear \
 > The strain of toil, the fret of care.
 >
-> 主啊，讓我與你同行，
-> 走那卑微、自由服事的路；
-> 告訴我你的祕訣；幫助我背起
+> 主啊，讓我與你同行， \
+> 走那卑微、自由服事的路； \
+> 告訴我你的祕訣；幫助我背起 \
 > 勞苦的重擔，掛慮的糾結。
 
 ---
@@ -45,23 +45,23 @@ publisher: 三書精讀出版系統
 
 > ^1^那時，門徒增多，有說希利尼話的猶太人向希伯來人發怨言，因為在天天的供給上忽略了他們的寡婦。^2^十二使徒叫眾門徒來，對他們說：「我們撇下神的道去管理飯食，原是不合宜的。^3^所以弟兄們，當從你們中間選出七個有好名聲、被聖靈充滿、智慧充足的人，我們就派他們管理這事。^4^但我們要專心以祈禱、傳道為事。」^5^大眾都喜悅這話，就揀選了司提反，乃是大有信心、聖靈充滿的人；又揀選腓利、伯羅哥羅、尼迦挪、提門、巴米拿，並進猶太教的安提阿人尼哥拉。^6^叫他們站在使徒面前，使徒禱告了，就按手在他們頭上。^7^神的道興旺起來，在耶路撒冷門徒數目加增的甚多，也有許多祭司信從了這道。
 
-> ^8^司提反滿得恩惠、能力，在民間行了大奇事和神蹟。^9^當時有稱『利百地拿』會堂的幾個人，並有古利奈、亞歷山大、基利家、亞細亞各處會堂的幾個人，都起來和司提反辯論。^10^司提反是以智慧和聖靈說話，眾人抵擋不住。
+> ^8^司提反滿得恩惠、能力，在民間行了大奇事和神蹟。^9^當時有稱『利百地拿』會堂的幾個人，並有古利奈、亞力山大、基利家、亞細亞各處會堂的幾個人，都起來和司提反辯論。^10^司提反是以智慧和聖靈說話，眾人敵擋不住。
 
 > ^11^就買出人來說：「我們聽見他說謗讟摩西和神的話。」^12^他們又聳動了百姓、長老並文士，就忽然來捉拿他，把他帶到公會去，^13^設下假見證說：「這個人說話不住地糟踐聖所和律法。^14^我們曾聽見他說，這拿撒勒人耶穌要毀壞此地，也要改變摩西所交給我們的規條。」^15^在公會裏坐著的人都定睛看他，見他的面貌好像天使的面貌。
 
-### English — ESV
+### English — NASB
 
-> ^2^And the twelve summoned the full number of the disciples and said, "It is not right that we should give up preaching the word of God to serve tables. ^3^Therefore, brothers, pick out from among you seven men of good repute, full of the Spirit and of wisdom, whom we will appoint to this duty. ^4^But we will devote ourselves to prayer and to the ministry of the word."
+> ^2^So the twelve summoned the congregation of the disciples and said, "It is not desirable for us to neglect the word of God in order to serve tables. ^3^Therefore, brethren, select from among you seven men of good reputation, full of the Spirit and of wisdom, whom we may put in charge of this task. ^4^But we will devote ourselves to prayer and to the ministry of the word."
 
-> ^5^And what they said pleased the whole gathering, and they chose Stephen, a man full of faith and of the Holy Spirit, and Philip, and Prochorus, and Nicanor, and Timon, and Parmenas, and Nicolaus, a proselyte of Antioch.
+> ^5^The statement found approval with the whole congregation; and they chose Stephen, a man full of faith and of the Holy Spirit, and Philip, Prochorus, Nicanor, Timon, Parmenas and Nicolas, a proselyte from Antioch.
 
-> ^7^And the word of God continued to increase, and the number of the disciples multiplied greatly in Jerusalem, and a great many of the priests became obedient to the faith.
+> ^7^The word of God kept on spreading; and the number of the disciples continued to increase greatly in Jerusalem, and a great many of the priests were becoming obedient to the faith.
 
-> ^8^And Stephen, full of grace and power, was doing great wonders and signs among the people. ^10^But they could not withstand the wisdom and the Spirit with which he was speaking.
+> ^8^And Stephen, full of grace and power, was performing great wonders and signs among the people. ^10^But they were unable to cope with the wisdom and the Spirit with which he was speaking.
 
-> ^15^And gazing at him, all who sat in the council saw that his face was like the face of an angel.
+> ^15^And fixing their gaze on him, all who were sitting in the Council saw his face like the face of an angel.
 
-**經文核對**：[ai-eden.com/bible/acts/6](https://www.ai-eden.com/bible/acts/6?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/6](https://www.ai-eden.com/bible/acts/6?t=CUV,NASB&cols=2)
 
 ---
 
@@ -90,29 +90,29 @@ publisher: 三書精讀出版系統
 | πλήρης πνεύματος [ἁγίου] καὶ σοφίας | plērēs pneumatos (hagiou) kai sophias | 被聖靈充滿、智慧充足 | 6:3, 5——揀選七人的資格；聖靈的充滿與屬靈的智慧並列，缺一不可 |
 | πίστις | pistis | 信心 | 6:5——司提反「大有信心、聖靈充滿」，信心先於下文所記的能力（6:8） |
 | χάρις καὶ δύναμις | charis kai dynamis | 恩惠與能力 | 6:8——司提反事奉的兩極：得人喜悅的恩惠、行神蹟奇事的能力，兩者同出一位聖靈 |
-| σοφία | sophia | 智慧 | 6:3, 10——與聖靈同列的資格，也是司提反辯論時「眾人抵擋不住」的原因 |
+| σοφία | sophia | 智慧 | 6:3, 10——與聖靈同列的資格，也是司提反辯論時「眾人敵擋不住」的原因 |
 | πρόσωπον ἀγγέλου | prosōpon angelou | 天使的面貌 | 6:15——不是司提反容貌真的改變，是聖靈的同在使公會的人無法直視他的平靜 |
 
 ### 「專心」(προσκαρτερέω) 是全書的持續動詞
 
-這個字不是6:4臨時出現的措辭。路加在使徒行傳開頭就用它描寫初代教會的生活樣式——「這些人同心合意地恆切禱告」（1:14）、「都恆心遵守使徒的教訓，彼此交接，擘餅，祈禱」（2:42, 46）。到了6:4，同一個動詞被使徒用來為自己劃定服事的優先次序：不是禱告與傳道比供給「更屬靈」，而是每一種服事，都需要有人為它「專心」，不三心二意地分心於其他事務。
+這個字不是6:4臨時出現的措辭。路加在使徒行傳開頭就用它描寫初代教會的生活樣式——「這些人同心合意地恆切禱告」（1:14）、「都恆心遵守使徒的教訓，彼此交接，擘餅，祈禱」（2:42；同一個字也用在 2:46「天天同心合意恆切地在殿裏」）。到了6:4，同一個動詞被使徒用來為自己劃定服事的優先次序：不是禱告與傳道比供給「更屬靈」，而是每一種服事，都需要有人為它「專心」，不三心二意地分心於其他事務。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 教會第一次內部危機——被聽見的怨言
 
-「有說希利尼話的猶太人向希伯來人發怨言」（6:1）——路加沒有把這樁投訴輕輕帶過或掩蓋，反而如實記下。這裏的神學意義在於：教會的合一不是靠假裝沒有問題維持的，是靠把問題攤在光中、認真處理維持的。怨言被聽見、被正視，本身就是教會健康的記號。
+「有說希利尼話的猶太人向希伯來人發怨言」（6:1）——路加沒有把這樁投訴輕輕帶過或掩蓋，反而如實記下。這裏的領受在於：教會的合一不是靠假裝沒有問題維持的，是靠把問題攤在光中、認真處理維持的。怨言被聽見、被正視，本身就是教會健康的記號。
 
-### 2. 「專心」——事奉優先次序的神學
+### 2. 「專心」——事奉優先次序的領受
 
 | 事奉 | 原文 | 委身的對象 |
 |----------------|--------------------------------|--------------------------------|
 | 使徒的專心 | προσκαρτερήσομεν（6:4） | 祈禱、傳道 |
 | 七人的專心 | 被按手、被差派（6:3, 6） | 天天的供給 |
 
-使徒沒有說供給的事「不重要」，他們說的是「不合宜」——不是因為身分尊卑，是因為一個人不能同時把心全然放在兩件事上。「專心」的神學，不是把服事分成高低兩等，而是承認每一種服事都配得一個人全心的委身，因此教會需要不同的人，各自「專心」在神所託付的那一份。
+使徒沒有說供給的事「不重要」，他們說的是「不合宜」——不是因為身分尊卑，是因為一個人不能同時把心全然放在兩件事上。「專心」的領受，不是把服事分成高低兩等，而是承認每一種服事都配得一個人全心的委身，因此教會需要不同的人，各自「專心」在神所託付的那一份。
 
 ### 3. 七人的資格：不是能力，是聖靈與智慧
 
@@ -134,24 +134,18 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
-**屈梭多模 (Chrysostom)**:
-
+**屈梭多模 (Chrysostom)**：
 > "For indeed there needs much wisdom in such ministrations. For think not, because he has not the word committed unto him, that such an one has no need of wisdom: he does need it, and much too."
 >
 > 「這樣的服事，其實需要極大的智慧。不要以為，因他所受託的不是傳講道理，這樣的人就不需要智慧——他一樣需要，而且需要極多。」
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XIV**（論徒6:1-7），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XIV**（論徒6:1-7），NPNF1-11
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin)**:
-
+**約翰·加爾文 (John Calvin)**：
 > "the apostles prescribe what manner of persons ought to be chosen, to wit, men of tried honesty and credit, men endued with wisdom and other gifts of the Spirit."
 >
 > 使徒在此定下當揀選何等樣的人：是經過試驗、誠實可信，又有聖靈所賜智慧與其他恩賜的人。
@@ -162,37 +156,7 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, 徒6:3-4 注（CCEL, calcom36）
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**:
-
-> "Biblical church organization accommodates what the Spirit of God is already doing... The church must accommodate what the Spirit is doing, not make the Spirit accommodate what the committee decided ought to be done."
->
-> 「合乎聖經的教會組織，是要配合聖靈已經在做的工作……教會必須順著聖靈正在做的工作去調整，而不是要聖靈去遷就委員會議決的事。」
->
-> — John MacArthur, *"Spiritual Organization"*（sermon 1720，論徒6:1-7，1972年11月26日），Grace to You, gty.org
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 出埃及記 18:21
-
-> 並要從百姓中揀選有才能的人，就是敬畏神、誠實無妄、恨不義之財的人，派他們做千夫長、百夫長、五十夫長、十夫長，管理百姓。
-
-摩西的岳父葉忒羅所給的建議，與使徒在6:3的作法遙相呼應：兩處都不是要領袖獨力扛起一切，而是揀選被神親自預備、品格經得起考驗的人分擔重任，好讓帶領者能專心在神給他們最核心的呼召上。
-
-### 詩篇 133:1
-
-> 看哪，弟兄和睦同居是何等地善，何等地美！
-
-6:1的張力若處理不當，足以使教會分裂；路加卻記下教會選擇了另一條路——不是分家，是分工。詩人所歌頌的「和睦同居」，不是沒有張力的假象，而是張力被誠實面對、又靠著同一位聖靈化解之後，才結出的美善。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **「不合宜」不是輕看，是分辨**：摩根一貫強調，使徒說「撇下神的道去管理飯食，原是不合宜的」，重點不在飯食本身卑微，而在一個人不能同時把全部心力放在兩件都配得專注的事上。教會的智慧，從來不是把工作簡化成單一崗位，而是清楚分辨神給不同人的呼召，各自「專心」去做。
 
@@ -204,9 +168,54 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳6章釋經要旨撮述）
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
 
-老弟兄講這一段，總喜歡先把讀者帶回民數記11章：摩西向神訴苦，說百姓的重擔他一人擔當不起；神的回應不是加添摩西的力量，而是叫他招聚七十個長老，「把降於你身上的靈分賜他們，他們就和你同當這管百姓的重任」（民11:17）。
+
+> "Biblical church organization accommodates what the Spirit of God is already doing... The church must accommodate what the Spirit is doing, not make the Spirit accommodate what the committee decided ought to be done."
+>
+> 「合乎聖經的教會組織，是要配合聖靈已經在做的工作……教會必須順著聖靈正在做的工作去調整，而不是要聖靈去遷就委員會議決的事。」
+>
+> — John MacArthur, *"Spiritual Organization"*（sermon 1720，論徒6:1-7，1972年11月26日），Grace to You, gty.org
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 出埃及記 18:21
+
+> 並要從百姓中揀選有才能的人，就是敬畏神、誠實無妄、恨不義之財的人，派他們作千夫長、百夫長、五十夫長、十夫長，管理百姓。
+
+摩西的岳父葉忒羅所給的建議，與使徒在6:3的作法遙相呼應：兩處都不是要領袖獨力扛起一切，而是揀選被神親自預備、品格經得起考驗的人分擔重任，好讓帶領者能專心在神給他們最核心的呼召上。
+
+### 詩篇 133:1
+
+> 看哪，弟兄和睦同居是何等地善，何等地美！
+
+6:1的張力若處理不當，足以使教會分裂；路加卻記下教會選擇了另一條路——不是分家，是分工。詩人所歌頌的「和睦同居」，不是沒有張力的假象，而是張力被誠實面對、又靠著同一位聖靈化解之後，才結出的美善。
+
+### 詩篇 100:1-2
+
+> 普天下當向耶和華歡呼！ \
+> 你們當樂意事奉耶和華，當來向他歌唱！
+
+### Take My Life and Let It Be（將我一生獻給主）
+
+> Take my hands, and let them move \
+> At the impulse of Thy love; \
+> Take my feet, and let them be \
+> Swift and beautiful for Thee.
+
+*Frances Ridley Havergal, 1874*
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：教會沒有因語言文化的張力分裂，反而分工——因為神看重的不是誰做「重要」的事，而是每個人是否被聖靈充滿去做神給他的那份服事。「起初蒙召傳道，不代表終身不必管飯食；起初被揀選管飯食，也不代表一輩子摸不著講台。神看的，不是你站在哪個位置，是你站在那個位置上，有沒有滿有聖靈。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：神從不讓一個人獨自擔當全教會的重任——這是老弟兄講這一段時反覆強調的一句話。摩西向神訴苦百姓的重擔他一人擔當不起，神的回應不是加添摩西的力量，而是叫他招聚七十個長老，「把降於你身上的靈分賜他們，他們就和你同當這管百姓的重任」（民11:17）；到了使徒行傳6章，同一位神再一次這樣做：
 
 | 分擔重任 | 經文 | 蒙揀選者的資格 | 結果 |
 |--------------------|-------------|---------------------------------|-------------|
@@ -214,35 +223,9 @@ publisher: 三書精讀出版系統
 | 七位執事 | 徒6:3-6 | 好名聲、被聖靈充滿、智慧充足 | 使徒得以專心祈禱傳道 |
 | 眾肢體各按恩賜 | 林前12:4-7 | 聖靈隨己意分給各人 | 身子聯絡得合式，彼此相顧 |
 
-**神從不讓一個人獨自擔當全教會的重任**——這是老弟兄反覆強調的一句話。祂親自把祂的靈分賜出去，好叫教會裏沒有一個崗位是「不屬靈的」，也沒有一個人是被迫獨力硬撐的。使徒「專心」祈禱傳道，七人「專心」供給照顧，兩種「專心」，同出一位聖靈的分賜。
+這條線一路延伸到保羅寫給以弗所教會的話：「他所賜的，有使徒，有先知，有傳福音的，有牧師和教師，為要成全聖徒，各盡其職，建立基督的身體」（弗4:11-12）——教會從來不是一個人的教會，是聖靈把自己分賜給許多人、又叫他們各按其職彼此配搭的身體。
 
 > 參《約翰福音研讀》全書領受總綱——徒1-2章聖靈的澆灌，正是約14-16章主應許「保惠師」的成就；本章七人「被聖靈充滿」，是這同一位保惠師，如今具體分賜在教會不同的崗位上。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Take My Life and Let It Be*（將我一生獻給主）
-
-> Take my hands, and let them move
-> At the impulse of Thy love;
-> Take my feet, and let them be
-> Swift and beautiful for Thee.
-
-*Frances Ridley Havergal, 1874*
-
-**詩篇**：詩篇 100:1-2
-
-> 普天下當向耶和華歡呼！
-> 你們當樂意侍奉耶和華，當來向他歌唱！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：神從不讓一個人獨自擔當全教會的重任。摩西向神訴苦百姓的重擔他一人擔當不起，神叫他招聚七十位長老，「把降於你身上的靈分賜他們，他們就和你同當這管百姓的重任」（民11:17）；到了使徒行傳6章，同一位神再一次這樣做——教會揀選七位「被聖靈充滿」的人，好讓使徒「專心以祈禱、傳道為事」（6:4）。這條線一路延伸到保羅寫給以弗所教會的話：「他所賜的，有使徒，有先知，有傳福音的，有牧師和教師，為要成全聖徒，各盡其職，建立基督的身體」（弗4:11-12）——教會從來不是一個人的教會，是聖靈把自己分賜給許多人、又叫他們各按其職彼此配搭的身體。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -263,17 +246,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，我是把心分散在太多事上，還是專心做了神給我的那一份？
 - **一個行動**：今天為一件被自己視為「不起眼」的服事，帶著「滿有聖靈和智慧」的心志，認真做一次。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：教會沒有因語言文化的張力分裂，反而分工——因為神看重的不是誰做「重要」的事，而是每個人是否被聖靈充滿去做神給他的那份服事。
-
-**貫通全經**：民數記11:16-17摩西招聚七十位長老分擔百姓的重任，把降於他身上的靈分賜他們；使徒行傳6:3-6教會揀選七人分擔供給的重任；以弗所書4:11-12基督賜下各樣恩賜，「為要成全聖徒，各盡其職，建立基督的身體」——同一位聖靈，一路把自己分賜給許多人。
-
-**無法迴避的問題**：「你如果被揀選去做那件『管理飯食』的事，你還會像司提反一樣，先求『滿有聖靈和智慧』，然後才伸手去做嗎？」
-
-> 「起初蒙召傳道，不代表終身不必管飯食；起初被揀選管飯食，也不代表一輩子摸不著講台。神看的，不是你站在哪個位置，是你站在那個位置上，有沒有滿有聖靈。」
+**你看見耶穌了嗎？** 這一章沒有記載耶穌的一句話、一件神蹟，但那位說過「我要把我的教會建造在這磐石上」（太16:18）的主，正在這裏親手建造：怨言變成崗位，裂縫變成配搭，一個管飯食的執事被聖靈充滿到面貌好像天使。教會每一次在張力中不分裂、反而分工，都是復活的主仍在她中間掌權的憑據。
 
 ---
 
@@ -285,13 +258,7 @@ publisher: 三書精讀出版系統
 
 2. **專心的代價**：使徒選擇「專心」在祈禱傳道，就必須放下管理飯食的直接參與。你有沒有為了在神給你的核心呼召上「專心」，而學習放下一些你其實可以做、卻不是你該做的事？
 
-3. **揀選的標準**：教會揀選七人的標準是「聖靈充滿、智慧充足」，不是能力或經驗。你在揀選同工、揀選朋友、甚至揀選自己該投入的事上，看重的是甚麼標準？
-
-4. **服事不分貴賤**：你心裏是否曾把某些服事看作「屬靈」、某些服事看作「打雜」？6章如何挑戰你這種分法？
-
-5. **道興旺的土壤**：6:7「神的道興旺起來」緊接在教會處理好內部張力之後。你的群體裏，有沒有還沒解決的內部張力，正攔阻著福音的興旺？
-
-6. **司提反的預表**：司提反從管飯食的執事，成為滿有恩惠能力的見證人。神有沒有可能正在你「不起眼」的服事裏，預備一件你還看不見的更大託付？
+3. **道興旺的土壤**：6:7「神的道興旺起來」緊接在教會處理好內部張力之後。你的群體裏，有沒有還沒解決的內部張力，正攔阻著福音的興旺？
 
 ### 禱告回應
 
@@ -309,4 +276,3 @@ publisher: 三書精讀出版系統
 | 恩惠與能力同出聖靈 | 6:8 | 徒4:33、林後12:9 |
 | 「道興旺」——路加的分卷記號 | 6:7 | 徒9:31、12:24、16:5、19:20、28:31 |
 | 因道受逼迫，卻無人能抵擋 | 6:9-15 | 太10:19-20、路21:15 |
-

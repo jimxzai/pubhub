@@ -24,22 +24,22 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Be Still, My Soul**
+> **Be Still, My Soul** \
 > *Katharina von Schlegel, 1752；英譯 Jane Borthwick, 1855*
 >
-> Be still, my soul: the Lord is on thy side.
-> Bear patiently the cross of grief or pain.
-> Leave to thy God to order and provide;
-> In every change He faithful will remain.
-> Be still, my soul: thy best, thy heavenly Friend
+> Be still, my soul: the Lord is on thy side. \
+> Bear patiently the cross of grief or pain. \
+> Leave to thy God to order and provide; \
+> In every change He faithful will remain. \
+> Be still, my soul: thy best, thy heavenly Friend \
 > Through thorny ways leads to a joyful end.
 >
-> 我靈鎮靜：耶和華站在你這邊，
-> 當忍耐背負憂傷痛苦的十架；
-> 將一切安排交託你的神，
-> 祂在萬變中依然信實不變。
-> 我靈鎮靜：你那至親的天上朋友，
-> 必藉荊棘之路，領你到喜樂的終點。
+> 我靈鎮靜：耶和華站在你這邊， \
+> 當忍耐背負憂傷痛苦的十架； \
+> 將一切安排交託你的神， \
+> 祂在萬變中依然信實不變。 \
+> 我靈鎮靜：你那至親的天上朋友， \
+> 必藉荊棘之路，領你到喜樂的終點。 \
 > *（中文為意譯，非官方譯本）*
 
 ---
@@ -62,19 +62,19 @@ publisher: 三書精讀出版系統
 
 （士兵照命令連夜將保羅解到安提帕底，次日步兵回營樓，讓馬兵護送保羅到該撒利亞，將文書呈給腓力斯；保羅便被看守在希律的衙門裏，等候原告到來，23:31-35。）
 
-### English — ESV
+### English — NASB
 
-> ^1^And looking intently at the council, Paul said, "Brothers, I have lived my life before God in all good conscience up to this day." ^2^And the high priest Ananias commanded those who stood by him to strike him on the mouth. ^3^Then Paul said to him, "God is going to strike you, you whitewashed wall! Are you sitting to judge me according to the law, and yet contrary to the law you order me to be struck?" ^4^Those who stood by said, "Would you revile God's high priest?" ^5^And Paul said, "I did not know, brothers, that he was the high priest, for it is written, 'You shall not speak evil of a ruler of your people.'"
+> ^1^Paul, looking intently at the Council, said, "Brethren, I have lived my life with a perfectly good conscience before God up to this day." ^2^The high priest Ananias commanded those standing beside him to strike him on the mouth. ^3^Then Paul said to him, "God is going to strike you, you whitewashed wall! Do you sit to try me according to the Law, and in violation of the Law order me to be struck?" ^4^But the bystanders said, "Do you revile God's high priest?" ^5^And Paul said, "I was not aware, brethren, that he was high priest; for it is written, 'YOU SHALL NOT SPEAK EVIL OF A RULER OF YOUR PEOPLE.'"
 
-> ^6^Now when Paul perceived that one part were Sadducees and the other Pharisees, he cried out in the council, "Brothers, I am a Pharisee, a son of Pharisees. It is with respect to the hope and the resurrection of the dead that I am on trial." ^7^And when he had said this, a dissension arose between the Pharisees and the Sadducees, and the assembly was divided. ^8^For the Sadducees say that there is no resurrection, nor angel, nor spirit, but the Pharisees acknowledge them all. ^9^Then a great clamor arose, and some of the scribes of the Pharisees' party stood up and contended sharply, "We find nothing wrong in this man. What if a spirit or an angel spoke to him?" ^10^And when the dissension became violent, the tribune, afraid that Paul would be torn to pieces by them, commanded the soldiers to go down and take him away from among them by force and bring him into the barracks.
+> ^6^But perceiving that one group were Sadducees and the other Pharisees, Paul *began* crying out in the Council, "Brethren, I am a Pharisee, a son of Pharisees; I am on trial for the hope and resurrection of the dead!" ^7^As he said this, there occurred a dissension between the Pharisees and Sadducees, and the assembly was divided. ^8^For the Sadducees say that there is no resurrection, nor an angel, nor a spirit, but the Pharisees acknowledge them all. ^9^And there occurred a great uproar; and some of the scribes of the Pharisaic party stood up and *began* to argue heatedly, saying, "We find nothing wrong with this man; suppose a spirit or an angel has spoken to him?" ^10^And as a great dissension was developing, the commander was afraid Paul would be torn to pieces by them and ordered the troops to go down and take him away from them by force, and bring him into the barracks.
 
-> ^11^The following night the Lord stood by him and said, \jesus{"Take courage, for as you have testified to the facts about me in Jerusalem, so you must testify also in Rome."}
+> ^11^But on the night *immediately* following, the Lord stood at his side and said, \jesus{"Take courage; for as you have solemnly witnessed to My cause at Jerusalem, so you must witness at Rome also."}
 
-> ^12^When it was day, the Jews made a plot and bound themselves by an oath neither to eat nor drink till they had killed Paul. ^13^There were more than forty who made this conspiracy. ^14^They went to the chief priests and elders and said, "We have strictly bound ourselves by an oath to taste no food till we have killed Paul. ^15^Now therefore you, along with the council, give notice to the tribune to bring him down to you, as though you were going to determine his case more exactly. And we are ready to kill him before he comes near."
+> ^12^When it was day, the Jews formed a conspiracy and bound themselves under an oath, saying that they would neither eat nor drink until they had killed Paul. ^13^There were more than forty who formed this plot. ^14^They came to the chief priests and the elders and said, "We have bound ourselves under a solemn oath to taste nothing until we have killed Paul. ^15^Now therefore, you and the Council notify the commander to bring him down to you, as though you were going to determine his case by a more thorough investigation; and we for our part are ready to slay him before he comes near *the place.*"
 
-> ^23^Then he called two of the centurions and said, "Get ready two hundred soldiers, with seventy horsemen and two hundred spearmen to go as far as Caesarea at the third hour of the night. ^24^Also provide mounts for Paul to ride and bring him safely to Felix the governor." ^25^And he wrote a letter to this effect: ^26^"Claudius Lysias, to his Excellency the governor Felix, greetings. ^27^This man was seized by the Jews and was about to be killed by them when I came upon them with the soldiers and rescued him, having learned that he was a Roman citizen. ^28^And desiring to know the charge for which they were accusing him, I brought him down to their council. ^29^I found that he was being accused about questions of their law, but charged with nothing deserving death or imprisonment. ^30^And when it was disclosed to me that there would be a plot against the man, I sent him to you at once, ordering his accusers also to state before you what they have against him."
+> ^23^And he called to him two of the centurions and said, "Get two hundred soldiers ready by the third hour of the night to proceed to Caesarea, with seventy horsemen and two hundred spearmen." ^24^*They were* also to provide mounts to put Paul on and bring him safely to Felix the governor. ^25^And he wrote a letter having this form: ^26^"Claudius Lysias, to the most excellent governor Felix, greetings. ^27^When this man was arrested by the Jews and was about to be slain by them, I came up to them with the troops and rescued him, having learned that he was a Roman. ^28^And wanting to ascertain the charge for which they were accusing him, I brought him down to their Council; ^29^and I found him to be accused over questions about their Law, but under no accusation deserving death or imprisonment. ^30^When I was informed that there would be a plot against the man, I sent him to you at once, also instructing his accusers to bring charges against him before you."
 
-**經文核對**：[ai-eden.com/bible/acts/23](https://www.ai-eden.com/bible/acts/23?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/23](https://www.ai-eden.com/bible/acts/23?t=CUV,NASB&cols=2)
 
 ---
 
@@ -86,11 +86,11 @@ publisher: 三書精讀出版系統
 |----------------------------------------|----------------------------------------|
 | **公會的組成** | 猶太最高議事機構，共七十一人，由大祭司主持，成員包括祭司長、長老、文士，兼有撒都該與法利賽兩黨 |
 | **大祭司亞拿尼亞** | 主後47-59年間任職，約瑟夫《猶太古史》記載他以貪婪、暴力著稱，後於主後66年猶太起義中被激進黨人所殺 |
-| **本章的諷刺** | 保羅一句「不知道他是大祭司」（23:5），既合乎律法字句（出22:28），也暗暗點出：這位大祭司的言行，早已不像個大祭司 |
+| **本章的諷刺** | 保羅一句「我不曉得他是大祭司」（23:5），既合乎律法字句（出22:28），也暗暗點出：這位大祭司的言行，早已不像個大祭司 |
 
 ### 法利賽人與撒都該人的教義分歧
 
-保羅在公會前一句話——「我現在受審問，是為盼望死人復活」（23:6）——精準地引爆了公會內部長期潛伏的神學裂縫：
+保羅在公會前一句話——「我現在受審問，是為盼望死人復活」（23:6）——精準地引爆了公會內部長期潛伏的裂縫：
 
 | 教義 | 撒都該人 | 法利賽人 |
 |------------------|-------------------------------|-------------------------------|
@@ -128,7 +128,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 清白的良心，是保羅唯一的辯詞
 
@@ -136,7 +136,7 @@ publisher: 三書精讀出版系統
 
 ### 2. 分裂公會，不是詭計，是真理本身的分界線
 
-保羅一句「我是為盼望死人復活受審」（23:6），立刻使公會「分為兩黨」（23:7）。這不是操弄群眾，而是把福音真正的爭議攤在陽光下——死人復活究竟是不是真的？這條分界線，兩千年來從未改變。
+保羅一句「我現在受審問，是為盼望死人復活」（23:6），立刻使公會「分為兩黨」（23:7）。這不是操弄群眾，而是把福音真正的爭議攤在陽光下——死人復活究竟是不是真的？這條分界線，兩千年來從未改變。
 
 ### 3. 主親自的話，勝過一切人的審判（23:11）
 
@@ -154,10 +154,6 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
 **屈梭多模 (Chrysostom)**：
@@ -166,7 +162,7 @@ publisher: 三書精讀出版系統
 >
 > 「他要分裂這群眾——因為他們原本以邪惡的一致性聯合起來攻擊他。」
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XLIX**（論徒23:6-8），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XLIX**（論徒23:6-8），NPNF1-11
 
 屈梭多模指出，保羅宣告「我是法利賽人，也是法利賽人的子孫……我現在受審問，是為盼望死人復活」，並非虛言——因為他確實出身法利賽世家，這句話字字真實（"he does not speak a falsehood here either: for he was a Pharisee by descent from his ancestors"）。
 
@@ -174,7 +170,7 @@ publisher: 三書精讀出版系統
 >
 > 「他們護送保羅的陣仗，彷彿護送一位君王的衛隊——人數如此之多，又選在夜間，正是懼怕民眾的怒氣。」
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily L**（論徒23:31-33），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily L**（論徒23:31-33），NPNF1-11
 
 ### 改革宗時期
 
@@ -188,9 +184,17 @@ publisher: 三書精讀出版系統
 
 加爾文特別提醒：撒但常常在極大的危難中，趁機在人心裏製造新的懼怕；因此，神必須不斷更新對祂兒女看顧的記號，好叫他們的信心能站立得更加穩固——23:11這句話，正是這樣一次及時的更新。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**才開口就被打斷**：摩根描述保羅被帶上公會受審的這一幕：「藉著羅馬總督的行動，保羅被帶到猶太公會受審。他才剛開口，就被打斷、被侮辱。」("By action of the Roman governor, Paul was arraigned before the Jewish Sanhedrin. Hardly had he commenced before he was interrupted and insulted.")保羅甚至還沒來得及陳述完整的辯詞，就已經被大祭司下令打了嘴巴——這幕審判從頭到尾，公義從未真正在場。
+
+**主親自顯現的重點不在安慰個人的驚恐，而在使命的延續**：摩根指出，23:11這句應許的分量在於：「儘管有種種反對，他終究要在羅馬也作見證。」("...that in spite of all opposition he would bear witness also at Rome.")主沒有應許保羅從此免於危險，只應許了一件事——祂的見證計畫不會因人的敵意而終止。
+
+**神親自介入，藉著一個少年人**：論到23:16-22的密謀被拆穿，摩根寫道：「神親自介入，藉著保羅的外甥讓保羅知道這件事，保羅因此採取行動，得以蒙保護、被搭救。」("God overruled and made the fact known to Paul, through his nephew, as the result of which Paul took action which led to his protection and deliverance.")摩根特別留意，這裏沒有天使、沒有異象、沒有神蹟——神揀選的管道，只是一個原本毫不起眼的少年親屬。
+
+> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳第23章釋經）
+
+### 麥克阿瑟 (John MacArthur)
 
 > "The Lord stood by him and said, 'Cheer up, Paul.'"
 >
@@ -210,35 +214,48 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 27:1, 3
 
-> 耶和華是我的亮光，是我的拯救，我還怕誰呢？耶和華是我性命的保障，我還懼誰呢？
+> 耶和華是我的亮光，是我的拯救，我還怕誰呢？耶和華是我性命的保障，我還懼誰呢？ \
 > **雖有軍兵安營攻擊我，我的心也不害怕；雖然興起刀兵攻擊我，我必仍舊安穩。**
 
 ### 詩篇 34:4, 7
 
-> 我曾尋求耶和華，他就應允我，救我脫離了一切的恐懼。
+> 我曾尋求耶和華，他就應允我，救我脫離了一切的恐懼。 \
 > **耶和華的使者在敬畏他的人四圍安營，搭救他們。**
 
 四十多人的密謀、四百七十名士兵的護送——這一切人數的較量，早在詩篇裏已有答案：真正在保羅四圍安營的，不是革老丟·呂西亞的士兵，而是耶和華的使者。
 
+### God Moves in a Mysterious Way（神行事奇妙莫測）
+
+> God moves in a mysterious way \
+> His wonders to perform; \
+> He plants His footsteps in the sea \
+> And rides upon the storm. \
+> Deep in unfathomable mines \
+> Of never-failing skill, \
+> He treasures up His bright designs \
+> And works His sovereign will.
+>
+> 神行動在奧秘之中，成就祂一切奇事； \
+> 祂把腳蹤踏在滄海裏，乘駕風暴而行。 \
+> 在測不透的智慧深處，祂積蓄光明的計畫， \
+> 成就祂主權的旨意。 \
+> *（中文為意譯，非官方譯本）*
+>
+> *William Cowper, 1774*
+
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+**精義一句話**：保羅在公會前幾乎被撕碎，四十多人連夜起誓要他的命，但主在最深的黑夜裏親自站在他旁邊說「放心吧」——人的審判定不了神僕人的結局，只有主的話能定。「人的審判可以定我的罪，但只要主還有話要藉我完成，人的審判就奪不走神的旨意。」
 
-**才開口就被打斷**：摩根描述保羅被帶上公會受審的這一幕：「藉著羅馬總督的行動，保羅被帶到猶太公會受審。他才剛開口，就被打斷、被侮辱。」("By action of the Roman governor, Paul was arraigned before the Jewish Sanhedrin. Hardly had he commenced before he was interrupted and insulted.")保羅甚至還沒來得及陳述完整的辯詞，就已經被大祭司下令打了嘴巴——這幕審判從頭到尾，公義從未真正在場。
+### 全經連線 (Tracing It Through Scripture)
 
-**主親自顯現的重點不在安慰個人的驚恐，而在使命的延續**：摩根指出，23:11這句應許的分量在於：「儘管有種種反對，他終究要在羅馬也作見證。」("...that in spite of all opposition he would bear witness also at Rome.")主沒有應許保羅從此免於危險，只應許了一件事——祂的見證計畫不會因人的敵意而終止。
-
-**神親自介入，藉著一個少年人**：論到23:16-22的密謀被拆穿，摩根寫道：「神親自介入，藉著保羅的外甥讓保羅知道這件事，保羅因此採取行動，得以蒙保護、被搭救。」("God overruled and made the fact known to Paul, through his nephew, as the result of which Paul took action which led to his protection and deliverance.")摩根特別留意，這裏沒有天使、沒有異象、沒有神蹟——神揀選的管道，只是一個原本毫不起眼的少年親屬。
-
-> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳第23章釋經）
-
-### 老弟兄查經洞見 (Thursday Class Insights)
+鑰匙：主夜間站在保羅旁邊說「放心吧」，這句話跨越了整本聖經的處境，卻始終出自同一位主的口。往前追一步：約瑟被弟兄出賣、下到埃及為奴，神卻藉著他保全全家（創50:20）；大衛被掃羅追殺、藏身曠野，神卻在暗中保守他，直到他坐上王位（撒上23章）；保羅被同胞出賣、幾乎在耶路撒冷喪命，神卻藉著他把福音傳進該撒的家裏（腓4:22）。這條線一路串起來：神保守祂僕人的方式，往往不是挪去危險本身，而是在最深的黑夜裏，親自站在他們旁邊，說一句「放心」。
 
 老弟兄把23:11放進整本聖經的座標裏來看，指出這不是耶穌第一次、也不是最後一次對受苦的人說「放心吧」：
 
@@ -249,43 +266,7 @@ publisher: 三書精讀出版系統
 | 最後的晚餐後 | 約16:33 | 十一個門徒 | 即將面對祂的被捕與十字架 |
 | 耶路撒冷營樓 | 徒23:11 | 保羅 | 剛被撕扯，前途未卜 |
 
-老弟兄常說，同一位主，用同一句話，跨越福音書與使徒行傳，向不同世代、不同處境的門徒說話——祂從不曾因為升了天，就停止對受苦之人說「放心」。他也把這一章與創世記接連起來：約瑟被弟兄出賣、下到埃及，神卻藉著他保全全家（創50:20）；保羅被同胞出賣、幾乎喪命，神卻藉著他把福音傳進凱撒的家裏（腓4:22）——神使用被出賣之人的手法，從創世記到使徒行傳，從未改變。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*God Moves in a Mysterious Way*（神行事奇妙莫測）
-
-> God moves in a mysterious way
-> His wonders to perform;
-> He plants His footsteps in the sea
-> And rides upon the storm.
-> Deep in unfathomable mines
-> Of never-failing skill,
-> He treasures up His bright designs
-> And works His sovereign will.
->
-> 神行動在奧秘之中，成就祂一切奇事；
-> 祂把腳蹤踏在滄海裏，乘駕風暴而行。
-> 在測不透的智慧深處，祂積蓄光明的計畫，
-> 成就祂主權的旨意。
-> *（中文為意譯，非官方譯本）*
->
-> *William Cowper, 1774*
-
-**詩篇**：詩篇 34:4, 7
-
-> 我曾尋求耶和華，他就應允我，救我脫離了一切的恐懼。
-> 耶和華的使者在敬畏他的人四圍安營，搭救他們。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：主夜間站在保羅旁邊說「放心吧」，這句話跨越了整本聖經的處境，卻始終出自同一位主的口。往前追一步：約瑟被弟兄出賣、下到埃及為奴，神卻藉著他保全全家（創50:20）；大衛被掃羅追殺、藏身曠野，神卻在暗中保守他，直到他坐上王位（撒上23章）；保羅被同胞出賣、幾乎在耶路撒冷喪命，神卻藉著他把福音傳進凱撒的家裏（腓4:22）。這條線一路串起來：神保守祂僕人的方式，往往不是挪去危險本身，而是在最深的黑夜裏，親自站在他們旁邊，說一句「放心」。
+同一位主，用同一句話，跨越福音書與使徒行傳，向不同世代、不同處境的門徒說話——祂從不曾因為升了天，就停止對受苦之人說「放心」。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -306,17 +287,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，有沒有一刻我聽見了人的定罪，卻忘了先聽主要不要對我說「放心吧」？
 - **一個行動**：這週為一位正被誤解、被攻擊的人，做一次像保羅外甥那樣「不起眼卻及時」的行動——傳一句話、報一個信、站出來說一句公道話。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：保羅在公會前幾乎被撕碎，四十多人連夜起誓要他的命，但主在最深的黑夜裏親自站在他旁邊說「放心吧」——人的審判定不了神僕人的結局，只有主的話能定。
-
-**貫通全經**：約瑟被出賣下埃及，神卻藉他保全全家（創50:20）；保羅被出賣入營樓，神卻藉他把福音傳進凱撒的家（腓4:22）——神使用被出賣之人的手法，從創世記到使徒行傳從未改變。
-
-**無法迴避的問題**：「當你被誤解、被攻擊的時候，你聽見的聲音，是人的定罪，還是主親自的『放心吧』？」
-
-> 「人的審判可以定我的罪，但只要主還有話要藉我完成，人的審判就奪不走神的旨意。」
+**你看見耶穌了嗎？** 這一章人人都在行動——大祭司下令打人，兩黨爭吵，四十人起誓，千夫長調兵——唯獨那位深夜站在囚犯旁邊的主，一句話就定了全局。升天的耶穌沒有缺席祂僕人的黑夜；祂站在保羅旁邊，也照樣站在每一個為祂作見證而陷在絕境之人的旁邊。
 
 ---
 
@@ -328,19 +299,15 @@ publisher: 三書精讀出版系統
 
 2. **無法退讓的核心**：保羅把整場審判收束到一句話——「我現在受審問，是為盼望死人復活」（23:6）。你信仰的核心，是不是同樣牢牢釘在耶穌基督的復活上？
 
-3. **放心吧**：主對保羅說的「放心」，不是承諾危險已經過去，而是承諾使命還沒有結束。你聽見這句話的時候，願不願意繼續走下去？
-
-4. **微小的管道**：你有沒有經歷過神藉著一個微不足道的人或一句不起眼的話，保守你脫離危機？你今天願不願意成為那個「不起眼卻及時」的人？
-
-5. **主權藏在體制裏**：革老丟·呂西亞只是在自保，神卻藉著他成就了應許。你能不能在自己生活的體制、程序、甚至官僚作業裏，看見神隱藏的手？
+3. **主權藏在體制裏**：革老丟·呂西亞只是在自保，神卻藉著他成就了應許。你能不能在自己生活的體制、程序、甚至官僚作業裏，看見神隱藏的手？
 
 ### 禱告回應
 
-> 主啊，感謝祢在保羅最黑暗的夜裏親自站在他身旁，對他說「放心吧」。
-> 求祢也在我被誤解、被攻擊的時刻，親自向我說話，
-> 讓我知道祢的旨意還沒有結束。
-> 求祢賜我保羅的清白良心，不倚靠人的認可過活；
-> 也賜我保羅的坦然，敢於把信仰的核心，牢牢釘在復活的基督身上。
+> 主啊，感謝祢在保羅最黑暗的夜裏親自站在他身旁，對他說「放心吧」。 \
+> 求祢也在我被誤解、被攻擊的時刻，親自向我說話， \
+> 讓我知道祢的旨意還沒有結束。 \
+> 求祢賜我保羅的清白良心，不倚靠人的認可過活； \
+> 也賜我保羅的坦然，敢於把信仰的核心，牢牢釘在復活的基督身上。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---
@@ -354,5 +321,4 @@ publisher: 三書精讀出版系統
 | 主親自的「放心」 | 23:11 | 太9:2、14:27、約16:33 |
 | 神藉小人物成就大事 | 23:16-22 | 創50:20、士7:2、林前1:27-28 |
 | 神藉外邦體制保護祂的僕人 | 23:23-30 | 拉1:1、但2:21、羅13:1-4 |
-| 神的使者環繞保護 | 詩篇回應 | 詩34:7、王下6:16-17 |
-
+| 神的使者環繞保護 | 詩篇與聖詩 | 詩34:7、王下6:16-17 |

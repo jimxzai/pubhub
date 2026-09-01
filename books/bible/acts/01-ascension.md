@@ -24,15 +24,15 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Rejoice, the Lord Is King**
+> **Rejoice, the Lord Is King** \
 > *Charles Wesley, 1746*
 >
-> Rejoice, the Lord is King, your Lord and King adore;
-> Mortals, give thanks and sing, and triumph evermore.
+> Rejoice, the Lord is King, your Lord and King adore; \
+> Mortals, give thanks and sing, and triumph evermore. \
 > Lift up your heart, lift up your voice; rejoice, again I say, rejoice.
 >
-> 歡呼，主是君王，你的主你當敬拜；
-> 世人哪，當獻上感謝歌唱，當歡欣直到永遠。
+> 歡呼，主是君王，你的主你當敬拜； \
+> 世人哪，當獻上感謝歌唱，當歡欣直到永遠。 \
 > 舉起你的心，揚起你的聲音；再說一次，我說，你們要歡欣。
 
 ---
@@ -51,27 +51,27 @@ publisher: 三書精讀出版系統
 
 > ^12^有一座山名叫橄欖山，離耶路撒冷不遠，約有安息日可走的路程。當下，門徒從那裏回耶路撒冷去，^13^進了城，就上了所住的一間樓房。在那裏有彼得、約翰、雅各、安得烈、腓力、多馬、巴多羅買、馬太、亞勒腓的兒子雅各、奮銳黨的西門和雅各的兒子猶大。^14^這些人同著幾個婦人和耶穌的母親馬利亞，並耶穌的弟兄，都同心合意地恆切禱告。
 
-> ^15^那時，有許多人聚會，約有一百二十名，彼得就在弟兄中間站起來，^16^說：「弟兄們，聖靈藉大衛的口在聖經上預言領人捉拿耶穌的猶大，這話是必須應驗的。^17^他本來列在我們數中，並且在使徒的職任上得了一份。」
+> ^15^那時，有許多人聚會，約有一百二十名，彼得就在弟兄中間站起來，^16^說：「弟兄們，聖靈藉大衛的口在聖經上預言領人捉拿耶穌的猶大，這話是必須應驗的。^17^他本來列在我們數中，並且在使徒的職任上得了一分。」
 
-> ^21^「所以主耶穌在我們中間始終出入的時候，^22^就是從約翰施洗起，直到主離開我們被接上升的日子為止，必須從那常與我們做伴的人中立一位與我們同作耶穌復活的見證。」^23^於是選舉兩個人，就是那叫做巴撒巴、又稱呼猶士都的約瑟和馬提亞。^24-25^眾人就禱告說：「主啊，你知道萬人的心，求你從這兩個人中指明你所揀選的是誰，叫他得這使徒的位分。這位分猶大已經丟棄，往自己的地方去了。」^26^於是眾人為他們搖籤，搖出馬提亞來，他就和十一個使徒同列。
+> ^21^「所以主耶穌在我們中間始終出入的時候，^22^就是從約翰施洗起，直到主離開我們被接上升的日子為止，必須從那常與我們作伴的人中立一位與我們同作耶穌復活的見證。」^23^於是選舉兩個人，就是那叫做巴撒巴、又稱呼猶士都的約瑟和馬提亞。^24-25^眾人就禱告說：「主啊，你知道萬人的心，求你從這兩個人中指明你所揀選的是誰，叫他得這使徒的位分。這位分猶大已經丟棄，往自己的地方去了。」^26^於是眾人為他們搖籤，搖出馬提亞來，他就和十一個使徒同列。
 
-### English — ESV
+### English — NASB
 
-> ^1^In the first book, O Theophilus, I have dealt with all that Jesus began to do and teach, ^2^until the day when he was taken up, after he had given commands through the Holy Spirit to the apostles whom he had chosen. ^3^He presented himself alive to them after his suffering by many proofs, appearing to them during forty days and speaking about the kingdom of God.
+> ^1^The first account I composed, Theophilus, about all that Jesus began to do and teach, ^2^until the day when He was taken up *to heaven,* after He had by the Holy Spirit given orders to the apostles whom He had chosen. ^3^To these He also presented Himself alive after His suffering, by many convincing proofs, appearing to them over *a period of* forty days and speaking of the things concerning the kingdom of God.
 
-> ^4^And while staying with them he ordered them not to depart from Jerusalem, but to wait for the promise of the Father, which, he said, \jesus{"you heard from me; ^5^for John baptized with water, but you will be baptized with the Holy Spirit not many days from now."}
+> ^4^Gathering them together, He commanded them not to leave Jerusalem, but to wait for what the Father had promised, \jesus{"Which,"} *He said,* \jesus{"you heard of from Me; ^5^for John baptized with water, but you will be baptized with the Holy Spirit not many days from now."}
 
-> ^6^So when they had come together, they asked him, "Lord, will you at this time restore the kingdom to Israel?" ^7^He said to them, \jesus{"It is not for you to know times or seasons that the Father has fixed by his own authority. ^8^But you will receive power when the Holy Spirit has come upon you, and you will be my witnesses in Jerusalem and in all Judea and Samaria, and to the end of the earth."}
+> ^6^So when they had come together, they were asking Him, saying, "Lord, is it at this time You are restoring the kingdom to Israel?" ^7^He said to them, \jesus{"It is not for you to know times or epochs which the Father has fixed by His own authority; ^8^but you will receive power when the Holy Spirit has come upon you; and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and even to the remotest part of the earth."}
 
-> ^9^And when he had said these things, as they were looking on, he was lifted up, and a cloud took him out of their sight. ^10^And while they were gazing into heaven as he went, behold, two men stood by them in white robes, ^11^and said, "Men of Galilee, why do you stand looking into heaven? This Jesus, who was taken up from you into heaven, will come in the same way as you saw him go into heaven."
+> ^9^And after He had said these things, He was lifted up while they were looking on, and a cloud received Him out of their sight. ^10^And as they were gazing intently into the sky while He was going, behold, two men in white clothing stood beside them. ^11^They also said, "Men of Galilee, why do you stand looking into the sky? This Jesus, who has been taken up from you into heaven, will come in just the same way as you have watched Him go into heaven."
 
-> ^12^Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day's journey away. ^13^And when they had entered, they went up to the upper room, where they were staying, Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James the son of Alphaeus and Simon the Zealot and Judas the son of James. ^14^All these with one accord were devoting themselves to prayer, together with the women and Mary the mother of Jesus, and his brothers.
+> ^12^Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day's journey away. ^13^When they had entered *the city,* they went up to the upper room where they were staying; that is, Peter and John and James and Andrew, Philip and Thomas, Bartholomew and Matthew, James *the son* of Alphaeus, and Simon the Zealot, and Judas *the son* of James. ^14^These all with one mind were continually devoting themselves to prayer, along with *the* women, and Mary the mother of Jesus, and with His brothers.
 
-> ^15^In those days Peter stood up among the brothers (the company of persons was in all about 120) and said, ^16^"Brothers, the Scripture had to be fulfilled, which the Holy Spirit spoke beforehand by the mouth of David concerning Judas, who became a guide to those who arrested Jesus. ^17^For he was numbered among us and was allotted his share in this ministry."
+> ^15^At this time Peter stood up in the midst of the brethren (a gathering of about one hundred and twenty persons was there together), and said, ^16^"Brethren, the Scripture had to be fulfilled, which the Holy Spirit foretold by the mouth of David concerning Judas, who became a guide to those who arrested Jesus. ^17^For he was counted among us and received his share in this ministry."
 
-> ^21^"So one of the men who have accompanied us during all the time that the Lord Jesus went in and out among us, ^22^beginning from the baptism of John until the day when he was taken up from us—one of these men must become with us a witness to his resurrection." ^23^And they put forward two, Joseph called Barsabbas, who was also called Justus, and Matthias. ^24^And they prayed and said, "You, Lord, who know the hearts of all, show which one of these two you have chosen ^25^to take the place in this ministry and apostleship from which Judas turned aside to go to his own place." ^26^And they cast lots for them, and the lot fell on Matthias, and he was numbered with the eleven apostles.
+> ^21^"Therefore it is necessary that of the men who have accompanied us all the time that the Lord Jesus went in and out among us— ^22^beginning with the baptism of John until the day that He was taken up from us—one of these *must* become a witness with us of His resurrection." ^23^So they put forward two men, Joseph called Barsabbas (who was also called Justus), and Matthias. ^24^And they prayed and said, "You, Lord, who know the hearts of all men, show which one of these two You have chosen ^25^to occupy this ministry and apostleship from which Judas turned aside to go to his own place." ^26^And they drew lots for them, and the lot fell to Matthias; and he was added to the eleven apostles.
 
-**經文核對**：[ai-eden.com/bible/acts/1](https://www.ai-eden.com/bible/acts/1?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/1](https://www.ai-eden.com/bible/acts/1?t=CUV,NASB&cols=2)
 
 ---
 
@@ -112,7 +112,7 @@ publisher: 三書精讀出版系統
 | ὁμοθυμαδόν | homothymadon | 同心合意 | 1:14——直譯「同一個情緒、心志」，使徒行傳全書出現十次，是初代教會的標記詞 |
 | προσκαρτερέω | proskartereō | 恆切、堅持不懈 | 1:14——現在式，表示持續不斷的動作，不是一次性的禱告會 |
 | ἕως ἐσχάτου τῆς γῆς | heōs eschatou tēs gēs | 直到地極 | 1:8——呼應以賽亞書49:6「我還要使你作外邦人的光，叫你施行我的救恩，直到地極」 |
-| κλῆρος | klēros | 籤、份 | 1:17, 26——同一個字根既指「職份」也指「抽籤」，後來衍生英文 clergy（聖職人員） |
+| κλῆρος | klēros | 籤、份 | 1:17, 26——同一個字根既指「職分」也指「抽籤」，後來衍生英文 clergy（聖職人員） |
 
 ### 「見證人」與「能力」的次序
 
@@ -124,13 +124,13 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 「開頭」與「繼續」——路加文集要領受的第一件事
 
 路加福音記的是耶穌「開頭一切所行所教訓的」（1:1），使徒行傳記的是祂藉著教會繼續做下去的一切事。讀使徒行傳，第一件要領受的，不是一套宣教策略，而是一個事實：耶穌沒有把工作留在十字架或空墳墓那裏結束，祂把工作交給了祂的身體——教會，並且親自用聖靈與她同在。
 
-### 2. 升天的神學意義——不是缺席，是登基
+### 2. 升天的領受——不是缺席，是登基
 
 升天常被讀成「耶穌走了」，但新約其他書卷把這一幕讀作登基而非離場。希伯來書說：「我們既然有一位已經升入高天尊榮的大祭司，就是神的兒子耶穌，便當持定所承認的道」（來4:14）——升天是大祭司進入至聖所，為祂的百姓長遠代求。以弗所書說得更明：神「照他在基督身上所運行的大能大力，使他從死裏復活，叫他在天上坐在自己的右邊，遠超過一切執政的、掌權的、有能的、主治的……又將萬有服在他的腳下，使他為教會做萬有之首」（弗1:20-22）。升天的耶穌不是退到幕後，祂是登上了掌管萬有的寶座；門徒眼中「看不見」的那一刻，正是全宇宙看得最清楚的一刻。
 
@@ -144,15 +144,11 @@ publisher: 三書精讀出版系統
 
 ### 5. 補選馬提亞——見證人的資格（1:21-22）
 
-彼得為使徒的職分定下兩條資格：從約翰施洗起，直到主升天為止，一直「與我們做伴」；並且必須「同作耶穌復活的見證」（1:21-22）。這兩條資格把「見證人」的定義釘死在一件事上——不是口才、不是熱心，而是親眼見過復活的主。門徒按著舊約的方式（抽籤）補滿十二使徒的數目，顯出他們對聖經應驗的認真（1:16, 20），也顯出人所能做的有限——後來神親自揀選保羅作使徒，用的是另一種方式：大馬色路上的親自呼召（徒9章）。
+彼得為使徒的職分定下兩條資格：從約翰施洗起，直到主升天為止，一直「與我們作伴」；並且必須「同作耶穌復活的見證」（1:21-22）。這兩條資格把「見證人」的定義釘死在一件事上——不是口才、不是熱心，而是親眼見過復活的主。門徒按著舊約的方式（抽籤）補滿十二使徒的數目，顯出他們對聖經應驗的認真（1:16, 20），也顯出人所能做的有限——後來神親自揀選保羅作使徒，用的是另一種方式：大馬色路上的親自呼召（徒9章）。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -162,7 +158,7 @@ publisher: 三書精讀出版系統
 >
 > 經文不說「祂升上去了」，仍是以「人」的角度說「祂被接上升」——屈梭多模指出，這說明祂復活以後，仍在以人子的身分教導門徒，直到升天那日。
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily I**（論徒1:1-2），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily I**（論徒1:1-2），NPNF1-11
 
 ### 改革宗時期
 
@@ -174,35 +170,7 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, 徒1:6-8 注（CCEL, calcom36）
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-> "For him, it was one long, long history that engulfs a huge chunk of the New Testament; the gospel of Luke and the book of Acts."
->
-> 麥克阿瑟從1:1「頭一卷書」入手，強調路加福音與使徒行傳是一部連續的歷史，不能割裂來讀。對於1:21-22補選使徒的資格，他指出：「必須是一直與我們做伴、親眼看見主耶穌出入其間的人……必須親眼見過祂的生平與事工，也必須親眼見過復活，並且是神所揀選的」("He had to be an eyewitness of the life and ministry of Jesus. He had to be an eyewitness of the resurrection. But he also had to be chosen by God.")。
->
-> — John MacArthur, *"Introduction to Acts, Part 1"*（sermon 44-1，論徒1:1）；*"Replacing Judas"*（sermon 44-5，論徒1:12-26），Grace to You, gty.org
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 24:7-10
-
-> 眾城門哪，你們要抬起頭來！永久的門戶，你們要被舉起！那榮耀的王將要進來！
-> 榮耀的王是誰呢？就是有力有能的耶和華，在戰場上有能的耶和華。
-> **眾城門哪，你們要抬起頭來！永久的門戶，你們要把頭抬起！那榮耀的王將要進來！**
-
-### 詩篇 68:18
-
-> 你已經升上高天，擄掠仇敵。你在人間，就是在悖逆的人間，受了供獻，叫耶和華神可以與他們同住。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **「開頭」二字的分量**：摩根特別提醒讀者留意1:1那個「開頭」（began）——若路加寫的是「耶穌所行所教訓的一切事」，意思就完全不同了；正因為用了「開頭」，這卷書才成了可能：耶穌在地上做的，只是個起頭，使徒行傳要記的，是祂藉著教會「繼續」做下去的（頁7-9）。
 
@@ -216,36 +184,50 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（1924），頁7-9, 13, 15-16, 19-22。
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
 
-老弟兄講這一章，習慣先把讀者的眼目從「門徒做了甚麼」挪到「耶穌應許了甚麼」。約翰福音早已鋪好這條路——「我若不去，保惠師就不到你們這裏來；我若去，就差他來」（約16:7）。使徒行傳第一章的「等候」，正是這句應許還沒有兌現、卻已經開始生效的時刻：聖靈還沒有降臨，但祂已經三次被提到（1:2, 5, 8），是「應許」，不是「現象」。門徒的等候不是被動的空白，是刻意為聖靈的降臨留出的位置（參《約翰福音研讀》全書對保惠師應許的領受總綱，約14-16章）。
-
-樓房中120人的禱告會（1:14-15），是新約教會第一個可考的聚會——沒有建築、沒有組織、沒有名銜，只有同心合意的禱告。老弟兄常把這一幕與五旬節後「凡信的人都在一處……天天同心合意」（2:44, 46）連起來看，指出「同心合意」不是一次性的情緒，而是初代教會反覆被記錄的常態：教會誕生在等候與禱告裏，不是誕生在策略與組織裏。
-
-對於補選馬提亞，老弟兄的提問方式不是先下判斷（摩根認為方法錯了，但這是一個有分量、可以商榷的觀點，不是唯一定論），而是先問資格本身：「與我們做伴」「同作復活的見證」（1:21-22）——這兩條線今天仍然是檢驗一個見證人是否「認識」耶穌，還是只是「聽說」耶穌的判準。
+> "For him, it was one long, long history that engulfs a huge chunk of the New Testament; the gospel of Luke and the book of Acts."
+>
+> 麥克阿瑟從1:1「頭一卷書」入手，強調路加福音與使徒行傳是一部連續的歷史，不能割裂來讀。對於1:21-22補選使徒的資格，他指出：「必須是一直與我們作伴、親眼看見主耶穌出入其間的人……必須親眼見過祂的生平與事工，也必須親眼見過復活，並且是神所揀選的」("He had to be an eyewitness of the life and ministry of Jesus. He had to be an eyewitness of the resurrection. But he also had to be chosen by God.")。
+>
+> — John MacArthur, *"Introduction to Acts, Part 1"*（sermon 44-1，論徒1:1）；*"Replacing Judas"*（sermon 44-5，論徒1:12-26），Grace to You, gty.org
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Crown Him with Many Crowns*（普世歡呼歌頌君王）
+### 詩篇 24:7-10
 
-> Crown Him with many crowns, the Lamb upon His throne;
-> Hark, how the heavenly anthem drowns all music but its own!
-> Awake, my soul, and sing of Him who died for thee,
-> And hail Him as thy matchless King through all eternity.
+> 眾城門哪，你們要抬起頭來！永久的門戶，你們要被舉起！那榮耀的王將要進來！ \
+> 榮耀的王是誰呢？就是有力有能的耶和華，在戰場上有能的耶和華。 \
+> **眾城門哪，你們要抬起頭來！永久的門戶，你們要把頭抬起！那榮耀的王將要進來！**
 
-**詩篇**：詩篇 68:18
+### 詩篇 68:18
 
 > 你已經升上高天，擄掠仇敵。你在人間，就是在悖逆的人間，受了供獻，叫耶和華神可以與他們同住。
 
+### Crown Him with Many Crowns（普世歡呼歌頌君王）
+
+> Crown Him with many crowns, the Lamb upon His throne; \
+> Hark, how the heavenly anthem drowns all music but its own! \
+> Awake, my soul, and sing of Him who died for thee, \
+> And hail Him as thy matchless King through all eternity.
+
+*Matthew Bridges, 1851*
+
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：耶穌升天，不是離開，是換了一個方式與門徒同在——祂把在地上「開始做」的工作，交託給教會用聖靈的能力「繼續做」；能力來到之前，神給的第一個命令不是「去做工」，是「先等候」。「聖靈降臨在你們身上，你們就必得著能力——這句話的次序不能倒過來讀。」
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：從巴別的分散，到五旬節的聚集，都指向這一位「往父那裏去」又「差聖靈來」的耶穌。巴別塔（創11章）因人的驕傲，語言被打亂、萬民被分散；五旬節（徒2章）因聖靈降臨，各國語言重新被聽懂、萬民重新被聚集歸向一位主——這條線的起點，正是使徒行傳第一章耶穌所應許的「聖靈的洗」。約翰福音16:7早已鋪好路：「我若不去，保惠師就不到你們這裏來；我若去，就差他來」——耶穌升天，門徒沒有變得更孤單，反而迎來教會歷史的開端。
+鑰匙：從巴別的分散，到五旬節的聚集，都指向這一位「往父那裏去」又「差聖靈來」的耶穌。巴別塔（創11章）因人的驕傲，語言被打亂、萬民被分散；五旬節（徒2章）因聖靈降臨，各國語言重新被聽懂、萬民重新被聚集歸向一位主——這條線的起點，正是使徒行傳第一章耶穌所應許的「聖靈的洗」。約翰福音16:7早已鋪好路：「我若不去，保惠師就不到你們這裏來；我若去，就差他來」——耶穌升天，門徒沒有變得更孤單，反而迎來教會歷史的開端。這一章的「等候」，正是這句應許還沒有兌現、卻已經開始生效的時刻：聖靈還沒有降臨，但祂已經三次被提到（1:2, 5, 8），是「應許」，不是「現象」（參《約翰福音研讀》全書對保惠師應許的領受總綱，約14-16章）。
+
+樓房中120人的禱告會（1:14-15），是新約教會第一個可考的聚會——沒有建築、沒有組織、沒有名銜，只有同心合意的禱告。老弟兄常把這一幕與五旬節後「凡信的人都在一處……天天同心合意」（2:44, 46）連起來看，指出「同心合意」不是一次性的情緒，而是初代教會反覆被記錄的常態：教會誕生在等候與禱告裏，不是誕生在策略與組織裏。
+
+對於補選馬提亞，老弟兄的提問方式不是先下判斷（摩根認為方法錯了，但這是一個有分量、可以商榷的觀點，不是唯一定論），而是先問資格本身：「與我們作伴」「同作耶穌復活的見證」（1:21-22）——這兩條線今天仍然是檢驗一個見證人是否「認識」耶穌，還是只是「聽說」耶穌的判準。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -266,17 +248,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，我有沒有靠自己的力量「做見證」，還是真正倚靠了聖靈的能力？
 - **一個行動**：找一位弟兄姊妹，這週一起「同心合意」為一件具體的事恆切禱告，而不是各自禱告。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：耶穌升天，不是離開，是換了一個方式與門徒同在——祂把在地上「開始做」的工作，交託給教會用聖靈的能力「繼續做」；能力來到之前，神給的第一個命令不是「去做工」，是「先等候」。
-
-**貫通全經**：巴別塔的分散（創11章）到五旬節的聚集（徒2章），中間的鉸鏈正是這一章——耶穌應許「聖靈的洗」，門徒同心等候；升天的祂如今「在天上坐在自己的右邊……使他為教會做萬有之首」（弗1:20, 22）。
-
-**無法迴避的問題**：「你相信『能力先於見證』這個次序嗎？還是你總想著自己先做出成績，再求神加添能力？」
-
-> 「聖靈降臨在你們身上，你們就必得著能力——這句話的次序不能倒過來讀。」
+**你看見耶穌了嗎？** 雲彩把祂接去，門徒的眼睛看不見了——但這一章讓你看見的，是一位登基的主：祂在天上坐在父的右邊，為教會作萬有之首，並且即將差下聖靈，親自在祂的身體裏「繼續」祂在地上開了頭的一切事。看不見的那一刻，正是祂掌權最清楚的一刻。
 
 ---
 
@@ -284,15 +256,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **等候與時候**：門徒急著問「就在這時候嗎」，耶穌卻把焦點轉向「能力」。你今天最想從神那裏得到的，是「答案」還是「能力」？
+1. **同心合意的操練**：你有沒有與其他信徒「同心合意、恆切禱告」的經歷？如果沒有，攔阻是甚麼？
 
-2. **見證的次序**：你是先求聖靈的能力，再開口見證；還是急著開口，卻沒有先領受能力？
+2. **升天的意義**：你所信的耶穌，只是「曾經在地上」的耶穌，還是如今「在天上坐在父右邊」、掌管萬有、為你代求的大祭司（來4:14）？
 
-3. **同心合意的操練**：你有沒有與其他信徒「同心合意、恆切禱告」的經歷？如果沒有，攔阻是甚麼？
-
-4. **升天的意義**：你所信的耶穌，只是「曾經在地上」的耶穌，還是如今「在天上坐在父右邊」、掌管萬有、為你代求的大祭司（來4:14）？
-
-5. **地極的視野**：你對「地極」——那些從未聽過福音的人與地方——有負擔嗎？
+3. **地極的視野**：你對「地極」——那些從未聽過福音的人與地方——有負擔嗎？
 
 ### 禱告回應
 

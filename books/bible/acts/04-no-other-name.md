@@ -18,33 +18,33 @@ publisher: 三書精讀出版系統
 > **1:8 座標**：耶路撒冷。教會在耶路撒冷城內第一次正式受官方審訊——公會傳召使徒，是徒1:8「你們就必得著能力」最先要應驗的場域：不是在遙遠的地極，而是在耶路撒冷城裏那審過耶穌的同一個公會大堂。 \
 > （全書骨幹見卷首《見證——全書的骨幹》）
 
-這一章的焦點，不在彼得被捕、受審、又被釋放的驚險過程，而在那位親自差來聖靈、又在受審現場親自作工的復活的主。彼得站在公會面前，被聖靈充滿——這不是一次私下的靈修高峰，而是主應許「聖靈當時要指教你們當說的話」（路12:11-12）在現場的兌現。彼得所宣告的「除他以外，別無拯救」（4:12），也不是使徒個人的神學立場，而是那位死而復活的主藉著門徒的口，向殺祂的人再次發出邀請。教會在被釋放後所求的，不是脫離逼迫，而是「放膽」——這禱告本身，就是承認：真正在場、真正掌權、真正供應能力的，是那位「你手和你意旨所預定必有的事」（4:28）早已定準的主。
+這一章的焦點，不在彼得被捕、受審、又被釋放的驚險過程，而在那位親自差來聖靈、又在受審現場親自作工的復活的主。彼得站在公會面前，被聖靈充滿——這不是一次私下的靈修高峰，而是主應許「聖靈當時要指教你們當說的話」（路12:11-12）在現場的兌現。彼得所宣告的「除他以外，別無拯救」（4:12），也不是使徒個人的領受，而是那位死而復活的主藉著門徒的口，向殺祂的人再次發出邀請。教會在被釋放後所求的，不是脫離逼迫，而是「放膽」——這禱告本身，就是承認：真正在場、真正掌權、真正供應能力的，是那位「你手和你意旨所預定必有的事」（4:28）早已定準的主。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Dare to Be a Daniel**
+> **Dare to Be a Daniel** \
 > *Philip P. Bliss, 1873*
 >
-> Standing by a purpose true,
-> Heeding God's command,
-> Honor them, the faithful few,
+> Standing by a purpose true, \
+> Heeding God's command, \
+> Honor them, the faithful few, \
 > All hail to Daniel's band!
 >
-> Dare to be a Daniel,
-> Dare to stand alone;
-> Dare to have a purpose firm,
+> Dare to be a Daniel, \
+> Dare to stand alone; \
+> Dare to have a purpose firm, \
 > Dare to make it known.
 >
-> 立定純正的心志，
-> 聽從神的命令，
-> 尊榮那少數忠心的人，
+> 立定純正的心志， \
+> 聽從神的命令， \
+> 尊榮那少數忠心的人， \
 > 向但以理的隊伍致敬！
 >
-> 敢作一個但以理，
-> 敢單獨站立；
-> 敢有堅定的心志，
+> 敢作一個但以理， \
+> 敢單獨站立； \
+> 敢有堅定的心志， \
 > 敢把它表明出來。
 
 ---
@@ -57,7 +57,7 @@ publisher: 三書精讀出版系統
 
 > ^7^叫使徒站在當中，就問他們說：「你們用甚麼能力，奉誰的名做這事呢？」^8^那時彼得被聖靈充滿，對他們說：^9^「治民的官府和長老啊，倘若今日因為在殘疾人身上所行的善事，查問我們他是怎麼得了痊癒，^10^你們眾人和以色列百姓都當知道：站在你們面前的這人得痊癒，是因你們所釘十字架、神叫他從死裏復活的拿撒勒人耶穌基督的名。^11^他是『你們匠人所棄的石頭，已成了房角的頭塊石頭』。^12^除他以外，別無拯救，因為在天下人間，沒有賜下別的名我們可以靠著得救。」
 
-> ^13^他們見彼得、約翰的膽量，又看出他們原是沒有學問的小民，就稀奇，認明他們是跟過耶穌的。
+> ^13^他們見彼得、約翰的膽量，又看出他們原是沒有學問的小民，就希奇，認明他們是跟過耶穌的。
 
 > ^18^於是叫了他們來，禁止他們總不可奉耶穌的名講論、教訓人。^19^彼得、約翰說：「聽從你們不聽從神，這在神面前合理不合理，你們自己酌量吧！^20^我們所看見、所聽見的，不能不說。」
 
@@ -65,19 +65,19 @@ publisher: 三書精讀出版系統
 
 > ^32^那許多信的人都是一心一意的，沒有一人說他的東西有一樣是自己的，都是大家公用。……^34^內中也沒有一個缺乏的，因為人人將田產房屋都賣了，把所賣的價銀拿來，……^36^有一個利未人，生在居比路，名叫約瑟，使徒稱他為巴拿巴（「巴拿巴」翻出來就是「勸慰子」）。^37^他有田地，也賣了，把價銀拿來放在使徒腳前。
 
-### English — ESV
+### English — NASB
 
-> ^10^"let it be known to all of you and to all the people of Israel that by the name of Jesus Christ of Nazareth, whom you crucified, whom God raised from the dead—by him this man is standing before you well. ^11^This Jesus is the stone that was rejected by you, the builders, which has become the cornerstone. ^12^And there is salvation in no one else, for there is no other name under heaven given among men by which we must be saved."
+> ^10^let it be known to all of you and to all the people of Israel, that by the name of Jesus Christ the Nazarene, whom you crucified, whom God raised from the dead—by this *name* this man stands here before you in good health. ^11^He is the STONE WHICH WAS REJECTED by you, THE BUILDERS, *but* WHICH BECAME THE CHIEF CORNER *stone.* ^12^And there is salvation in no one else; for there is no other name under heaven that has been given among men by which we must be saved."
 
-> ^13^Now when they saw the boldness of Peter and John, and perceived that they were uneducated, common men, they were astonished. And they recognized that they had been with Jesus.
+> ^13^Now as they observed the confidence of Peter and John and understood that they were uneducated and untrained men, they were amazed, and *began* to recognize them as having been with Jesus.
 
-> ^19^But Peter and John answered them, "Whether it is right in the sight of God to listen to you rather than to God, you must judge, ^20^for we cannot but speak of what we have seen and heard."
+> ^19^But Peter and John answered and said to them, "Whether it is right in the sight of God to give heed to you rather than to God, you be the judge; ^20^for we cannot stop speaking about what we have seen and heard."
 
-> ^29^"And now, Lord, look upon their threats and grant to your servants to continue to speak your word with all boldness." ^31^And when they had prayed, the place in which they were gathered together was shaken, and they were all filled with the Holy Spirit and continued to speak the word of God with boldness.
+> ^29^"And now, Lord, take note of their threats, and grant that Your bond-servants may speak Your word with all confidence," ^31^And when they had prayed, the place where they had gathered together was shaken, and they were all filled with the Holy Spirit and *began* to speak the word of God with boldness.
 
-> ^32^Now the full number of those who believed were of one heart and soul, and no one said that any of the things that belonged to him was his own, but they had everything in common. ^36^Thus Joseph, who was also called by the apostles Barnabas (which means son of encouragement), a Levite, a native of Cyprus, ^37^sold a field that belonged to him and brought the money and laid it at the apostles' feet.
+> ^32^And the congregation of those who believed were of one heart and soul; and not one *of them* claimed that anything belonging to him was his own, but all things were common property to them. ^36^Now Joseph, a Levite of Cyprian birth, who was also called Barnabas by the apostles (which translated means Son of Encouragement), ^37^and who owned a tract of land, sold it and brought the money and laid it at the apostles' feet.
 
-**經文核對**：[ai-eden.com/bible/acts/4](https://www.ai-eden.com/bible/acts/4?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/4](https://www.ai-eden.com/bible/acts/4?t=CUV,NASB&cols=2)
 
 ---
 
@@ -89,13 +89,13 @@ publisher: 三書精讀出版系統
 
 ### 撒都該人的煩惱——復活論爭
 
-「祭司們、守殿官並撒都該人」（4:1）「就很煩惱」，原因不是醫治神蹟本身，而是使徒「本著耶穌傳說死人復活」（4:2）。撒都該人向來不信復活（太22:23；徒23:8），彼得卻當眾宣告：那被他們釘十字架的耶穌，神已使祂從死裏復活——這正正踩中他們神學立場的痛腳，也解釋了為何動手拿人的是撒都該人，而不是法利賽人。
+「祭司們和守殿官並撒都該人」（4:1）「就很煩惱」，原因不是醫治神蹟本身，而是使徒「本著耶穌傳說死人復活」（4:2）。撒都該人向來不信復活（太22:23；徒23:8），彼得卻當眾宣告：那被他們釘十字架的耶穌，神已使祂從死裏復活——這正正踩中他們立場的痛腳，也解釋了為何動手拿人的是撒都該人，而不是法利賽人。
 
 ### 文學結構：第三次「使徒宣講」
 
 彼得在公會前的答辯（4:8-12），與五旬節那篇（2:14-40）、聖殿廊下那篇（3:12-26）共享同一個骨架——學者稱之為「使徒的宣講」（kerygma）：
 
-| 步驟 | 五旬節講道 (2:14-40) | 聖殿講道 (3:12-26) | 公會前答辯 (4:8-12) |
+| 步驟 | 五旬節講道 （2:14-40） | 聖殿講道 （3:12-26） | 公會前答辯 （4:8-12） |
 |---------|-----------------------|-----------------------|-------------------------|
 | 指出現象/神蹟 | 方言與聖靈降臨 | 瘸腿的人得醫治 | 同一件醫治神蹟 |
 | 澄清誤解 | 不是喝醉了 | 不是憑我們自己的能力 | 不是憑我們自己的能力或名 |
@@ -123,11 +123,11 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 除他以外，別無拯救——救恩的排他性宣告
 
-> 「除他以外，別無拯救，因為在天下人間，沒有賜下別的名我們可以靠著得救。」(4:12)
+> 「除他以外，別無拯救，因為在天下人間，沒有賜下別的名我們可以靠著得救。」（4:12）
 
 這是全書最直接的福音排他性宣告：救恩不是多種途徑之一，是唯獨藉著這一位。這句話沒有商量的餘地，因為它不是教會傲慢的宣告，而是耶穌基督自己成就了無可取代的工作——若還有別的道路能救人，基督就不必受死。
 
@@ -135,19 +135,19 @@ publisher: 三書精讀出版系統
 
 「那時彼得被聖靈充滿，對他們說」（4:8），這不是私下靈修的高峰經歷，而是在審訊、威嚇、生命受威脅的當下，聖靈親自賜下的話語與膽量。這正應驗了主耶穌自己的應許：「聖靈當時要指教你們當說的話」（路12:12）；也正是「保惠師……要將一切的事教導你們」（約14:26）在受審現場的兌現。
 
-### 3. 「曾與耶穌一起」——身分不靠學歷，靠同在
+### 3. 「跟過耶穌」——身分不靠學歷，靠同在
 
-「沒有學問的小民」（4:13）是公會對彼得、約翰的評價，不是他們自己的自況；恰恰是這兩個被公會判定為未受訓練的人，竟能在耶路撒冷最高權力機構面前對答如流，直陳「除他以外，別無拯救」這樣的話。路加清楚指出，這放膽的來源，不是他們的學歷或身分，而是「聖靈充滿」（4:8）與「曾與耶穌一起」（4:13）留下的印記——公會認出來的，不是彼得的口才，是他生命裏那段與主同行的歷史。
+「沒有學問的小民」（4:13）是公會對彼得、約翰的評價，不是他們自己的自況；恰恰是這兩個被公會判定為未受訓練的人，竟能在耶路撒冷最高權力機構面前對答如流，直陳「除他以外，別無拯救」這樣的話。路加清楚指出，這放膽的來源，不是他們的學歷或身分，而是「聖靈充滿」（4:8）與「跟過耶穌」（4:13）留下的印記——公會認出來的，不是彼得的口才，是他生命裏那段與主同行的歷史。
 
 ### 4. 順從神，不順從人——服從的次序
 
-> 「聽從你們不聽從神，這在神面前合理不合理，你們自己酌量吧！我們所看見、所聽見的，不能不說。」(4:19-20)
+> 「聽從你們不聽從神，這在神面前合理不合理，你們自己酌量吧！我們所看見、所聽見的，不能不說。」（4:19-20）
 
 彼得和約翰沒有反抗公權力本身；他們清楚指出的，是當人的命令與神的命令衝突時，服從的次序不能顛倒。「不能不說」，原文語氣強烈，不是「我們選擇要說」，而是「我們沒有不說的可能」——這是被神所見所聽過的人，無法沉默的宣告。
 
 ### 5. 求放膽，不求脫離——教會禱告的優先次序
 
-教會被釋放後第一件事是禱告，而禱告求的不是「使我們脫離逼迫」，而是「使你僕人放膽講你的道」（4:29）。禱告完了，「聚會的地方震動」（4:31）——這震動不是給人看的表演，而是神親自對這個禱告方向的印證：教會禱告的核心從來不是安全，而是使命能不能繼續往前。
+教會被釋放後第一件事是禱告，而禱告求的不是「使我們脫離逼迫」，而是「叫你僕人大放膽量講你的道」（4:29）。禱告完了，「聚會的地方震動」（4:31）——這震動不是給人看的表演，而是神親自對這個禱告方向的印證：教會禱告的核心從來不是安全，而是使命能不能繼續往前。
 
 ### 6. 凡物公用——聖靈充滿後心裏自然流露的慷慨
 
@@ -156,10 +156,6 @@ publisher: 三書精讀出版系統
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -181,9 +177,19 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, 徒4:19-20 注
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**教會的資本不是財力，是見證**：摩根特別留意，這一章的兩個場景——公會前的答辯與釋放後的禱告——都在說同一件事：教會手上真正的資本，從來不是人數、財力或社會地位，而是「見過、聽過」的見證本身。彼得說「我們所看見、所聽見的，不能不說」，這句話界定了教會此後一切講道與見證的根基：不是宣傳一套教義，而是陳述一件親眼所見的事實。
+
+**「放膽」不是天生的性格，是禱告求來的恩賜**：摩根指出，教會被釋放後，並沒有求神使逼迫停止，而是求神「叫你僕人大放膽量講你的道」。這提醒後世的教會：放膽不是某些人與生俱來的個性優勢，而是聖靈充滿之後隨之而來的恩賜，是可以、也應當藉禱告支取的。
+
+**震動是印記，不是表演**：4:31「聚會的地方震動」，摩根認為這與五旬節聖靈降臨（2:2-4）遙相呼應——兩次都伴隨著可見、可感的記號，印證神親自聽見、親自應允了教會的禱告方向。
+
+**「大有能力」與「大蒙恩惠」並列**：摩根提醒讀者留意4:33的並置——「使徒大有能力，見證主耶穌復活，眾人也都蒙大恩」——能力（power）與恩典（grace）在教會的見證裏從不分割：能力若沒有恩典的性情伴隨，容易變成炫耀；恩典若沒有能力的印證，容易流於空談。
+
+> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳4章釋經）
+
+### 麥克阿瑟 (John MacArthur)
 
 > "No gospel, no salvation. No Christ, no salvation. Apart from Christ and the gospel, no salvation."
 >
@@ -197,38 +203,39 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 2:1-2（4:25-26直接引用的經文）
 
-> 外邦為甚麼爭鬧，萬民為甚麼謀算虛妄的事？
+> 外邦為甚麼爭鬧，萬民為甚麼謀算虛妄的事？ \
 > **世上的君王一齊起來，臣宰一同商議，要抵擋耶和華並他的受膏者。**
 
 教會的禱告一字不改地把這節舊約經文釘在眼前的處境上——公會與外邦官長的聚集，正是這篇詩早已預告的畫面。
 
 ### 詩篇 118:22-24（4:11所引的經文）
 
-> 匠人所棄的石頭，已成了房角的頭塊石頭。
-> **這是耶和華所做的，在我們眼中看為稀奇。**
+> 匠人所棄的石頭，已成了房角的頭塊石頭。 \
+> **這是耶和華所做的，在我們眼中看為希奇。** \
 > 這是耶和華所定的日子，我們在其中要高興歡喜。
+
+### 詩篇 138:1, 3
+
+> 我要一心稱謝你，在諸神面前歌頌你。 \
+> 我呼求的日子，你就應允我，鼓勵我，使我心裏有能力。
+
+### Faith of Our Fathers（信心的先輩）
+
+> Faith of our fathers, living still, in spite of dungeon, fire, and sword; \
+> O how our hearts beat high with joy whene'er we hear that glorious word! \
+> Faith of our fathers, holy faith, we will be true to thee till death.
+
+*Frederick William Faber, 1849*
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
-
-**教會的資本不是財力，是見證**：摩根特別留意，這一章的兩個場景——公會前的答辯與釋放後的禱告——都在說同一件事：教會手上真正的資本，從來不是人數、財力或社會地位，而是「見過、聽過」的見證本身。彼得說「我們所看見、所聽見的，不能不說」，這句話界定了教會此後一切講道與見證的根基：不是宣傳一套教義，而是陳述一件親眼所見的事實。
-
-**「放膽」不是天生的性格，是禱告求來的恩賜**：摩根指出，教會被釋放後，並沒有求神使逼迫停止，而是求神「叫你僕人大放膽量講你的道」。這提醒後世的教會：放膽不是某些人與生俱來的個性優勢，而是聖靈充滿之後隨之而來的恩賜，是可以、也應當藉禱告支取的。
-
-**震動是印記，不是表演**：4:31「聚會的地方震動」，摩根認為這與五旬節聖靈降臨（2:2-4）遙相呼應——兩次都伴隨著可見、可感的記號，印證神親自聽見、親自應允了教會的禱告方向。
-
-**「大有能力」與「大蒙恩惠」並列**：摩根提醒讀者留意4:33的並置——「使徒大有能力，見證主耶穌復活，眾人也都蒙大恩」——能力（power）與恩典（grace）在教會的見證裏從不分割：能力若沒有恩典的性情伴隨，容易變成炫耀；恩典若沒有能力的印證，容易流於空談。
-
-> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳4章釋經）
-
-### 老弟兄查經洞見 (Thursday Class Insights)
+**精義一句話**：公會看彼得、約翰是沒有學問的小民，卻不得不承認他們跟過耶穌——這一章從公會的審訊，到教會的禱告，到凡物公用，都在說同一件事：除耶穌以外，別無拯救，除聖靈以外，別無放膽。「沒有學問的小民，卻能對答如流——不是他們的口才變好了，是那位教導他們的保惠師，親自在場。」
 
 老弟兄把這一章分成三個場景，指出它們其實是同一件事的三個切面：
 
@@ -240,47 +247,24 @@ publisher: 三書精讀出版系統
 
 三個場景中間，貫穿著同一條線：教會不是靠自己的資源、學問、財力站立，而是靠著那位「造天、地、海和其中萬物」（4:24）的主親自作工。
 
-**「房角石」這個意象貫穿新舊約**：詩篇118:22早已預言「匠人所棄的石頭已成了房角的頭塊石頭」；耶穌自己在地上事工時，也曾引用這節經文指著自己說（太21:42）；彼得在公會前，把這句舊約經文直接釘在耶穌身上（4:11）；後來他在自己的書信裏，再次把這塊「房角石」與信徒的身分連在一起（彼前2:6-8）。同一塊石頭，從詩篇到福音書，再到使徒行傳，再到書信——人棄絕的，神一路高舉到底。
-
-**「除他以外，別無拯救」不是排斥，是邀請**：老弟兄常提醒，這句話今天聽起來像是關上一道門，但在當時的處境裏，它其實是向殺害耶穌的那群人，再次敞開一道門——「你們……卻……神卻……」的結構，每一次都以「悔改」收尾，而不是以「定罪」收尾。排他性宣告的另一面，是普世性的邀請。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Faith of Our Fathers*（信心的先輩）
-
-> Faith of our fathers, living still, in spite of dungeon, fire, and sword;
-> O how our hearts beat high with joy whene'er we hear that glorious word!
-> Faith of our fathers, holy faith, we will be true to thee till death.
-
-*Frederick William Faber, 1849*
-
-**詩篇**：詩篇 138:1, 3
-
-> 我要一心稱謝你，在諸神面前歌頌你。
-> 我呼求的日子，你就應允我，鼓勵我，使我心裏有能力。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
 ### 全經連線 (Tracing It Through Scripture)
 
 鑰匙：世上的君王從創世記起就一直與神的受膏者為敵，而神的答案，從來不是叫祂的百姓求脫離，是叫他們放膽。該隱與亞伯的對立（創4章），法老與摩西的對峙（出5章），大衛所寫「世上的君王一齊起來……要抵擋主並主的受膏者」（詩2:1-2，4:25-26所引），一路延伸到主耶穌自己的警告：「世人恨你們，你們知道，恨你們以先已經恨我了」（約15:18）——直到啟示錄末了「世上的國成了我主和主基督的國」（啟11:15）。教會在公會面前的這一次答辯，只是這條貫穿全經的線上，其中一個節點：人一次又一次地起來抵擋，神的國度卻一次又一次地往前推進。
+
+**「房角石」這個意象貫穿新舊約**：詩篇118:22早已預言「匠人所棄的石頭已成了房角的頭塊石頭」；耶穌自己在地上事工時，也曾引用這節經文指著自己說（太21:42）；彼得在公會前，把這句舊約經文直接釘在耶穌身上（4:11）；後來他在自己的書信裏，再次把這塊「房角石」與信徒的身分連在一起（彼前2:6-8）。同一塊石頭，從詩篇到福音書，再到使徒行傳，再到書信——人棄絕的，神一路高舉到底。
 
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
 - 先問：「彼得說『除他以外，別無拯救』——這句話你聽了會不會覺得刺耳？為甚麼聖經敢說得這麼絕對？」
-- 再問：「公會的人認出彼得、約翰『曾與耶穌一起』——他們是怎麼認出來的？不是看學歷，是看甚麼？」
+- 再問：「公會的人認出彼得、約翰『跟過耶穌』——他們是怎麼認出來的？不是看學歷，是看甚麼？」
 - 追問：「教會被釋放後第一件事是禱告，卻不是求『脫離逼迫』，是求『放膽』——你的禱告，通常先求哪一樣？」
-- 落到自己：「如果有人觀察你這一週，他們會不會也認出你『曾與耶穌一起』？從哪裏看得出來？」
+- 落到自己：「如果有人觀察你這一週，他們會不會也認出你『跟過耶穌』？從哪裏看得出來？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天這個時代最看重的是履歷、學位、認證——沒有這些「證書」，很難被認真對待。但公會看彼得、約翰「沒有學問」，卻不得不承認一件事：這兩個人「曾與耶穌一起」。今天你可以用AI幾秒鐘生成一份漂亮的履歷、一篇像模像樣的講章，卻無法用AI生成「曾與耶穌一起」這件事——那不是知識的產出，是生命與神同行留下的印記。當外界的壓力越來越懂得用理性、數據、輿論來讓信仰的宣告顯得「不合時宜」時，教會需要的不是更精緻的辯詞，而是彼得那句「我們所看見、所聽見的，不能不說」——一份無法被論證推翻的親身見證。
+今天這個時代最看重的是履歷、學位、認證——沒有這些「證書」，很難被認真對待。但公會看彼得、約翰「沒有學問」，卻不得不承認一件事：這兩個人「跟過耶穌」。今天你可以用AI幾秒鐘生成一份漂亮的履歷、一篇像模像樣的講章，卻無法用AI生成「跟過耶穌」這件事——那不是知識的產出，是生命與神同行留下的印記。當外界的壓力越來越懂得用理性、數據、輿論來讓信仰的宣告顯得「不合時宜」時，教會需要的不是更精緻的辯詞，而是彼得那句「我們所看見、所聽見的，不能不說」——一份無法被論證推翻的親身見證。
 
 ### 今天的祭壇 (Today's Altar)
 
@@ -288,17 +272,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，我面對壓力或反對時，禱告求的是「脫離」，還是「放膽」？
 - **一個行動**：這週找一個機會，把「除他以外，別無拯救」這句話，向一個朋友清楚說出來，不軟化、不繞圈。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：公會看彼得、約翰是沒有學問的小民，卻不得不承認他們曾與耶穌一起——這一章從公會的審訊，到教會的禱告，到凡物公用，都在說同一件事：除耶穌以外，別無拯救，除聖靈以外，別無放膽。
-
-**貫通全經**：詩篇2:1-2「世上的君王一齊起來……要抵擋主並主的受膏者」——教會在4:25-26原文引用這節經文，把大衛的詩與眼前的逼迫連成一線；詩篇118:22「匠人所棄的石頭已成了房角的頭塊石頭」，則從詩篇一路貫穿福音書、使徒行傳、彼得前書。
-
-**無法迴避的問題**：「人能不能從你身上，認出你是『曾與耶穌一起』的？」
-
-> 「沒有學問的小民，卻能對答如流——不是他們的口才變好了，是那位教導他們的保惠師，親自在場。」
+**你看見耶穌了嗎？** 「除他以外，別無拯救」今天聽起來像是關上一道門，但在當時的處境裏，它是向殺害耶穌的那群人再次敞開的門——「你們……卻……神卻……」的結構，每一次都以悔改收尾，不是以定罪收尾。你在這一章看見的耶穌，是那位被匠人棄絕、卻被神立為房角石的主：排他性宣告的另一面，正是祂向全人類發出的普世邀請。
 
 ---
 
@@ -308,21 +282,17 @@ publisher: 三書精讀出版系統
 
 1. **獨一的救恩**：在一個講求「條條大路通羅馬」的相對主義世代，你敢不敢像彼得一樣宣告「除他以外，別無拯救」？
 
-2. **與耶穌同在的印記**：人能不能從你的言行認出，你是「曾與耶穌一起」的人？
+2. **服從的次序**：當人的命令與神的命令衝突時，你有沒有清楚分辨過，自己實際上聽從的是哪一邊？
 
-3. **服從的次序**：當人的命令與神的命令衝突時，你有沒有清楚分辨過，自己實際上聽從的是哪一邊？
-
-4. **禱告的優先次序**：面對壓力或逼迫時，你禱告求的是「脫離」，還是「放膽」？
-
-5. **凡物公用的心志**：巴拿巴賣地的舉動，出於「一心一意」而非制度規定——你手上「有」的，有沒有一樣是你願意主動獻上的？
+3. **凡物公用的心志**：巴拿巴賣地的舉動，出於「一心一意」而非制度規定——你手上「有」的，有沒有一樣是你願意主動獻上的？
 
 ### 禱告回應
 
-> 主啊，感謝你賜下拿撒勒人耶穌基督的名，這名遠超一切審訊與威嚇。
-> 求你賜我像彼得、約翰那樣的放膽，不是因為我口才好，
-> 而是因為你的靈充滿我，因為我曾與你一起。
-> 當我面對壓力與反對時，求你不要讓我求脫離，而是求放膽，
-> 讓我一心一意地與弟兄姊妹同心，甘心分享我所有的一切。
+> 主啊，感謝你賜下拿撒勒人耶穌基督的名，這名遠超一切審訊與威嚇。 \
+> 求你賜我像彼得、約翰那樣的放膽，不是因為我口才好， \
+> 而是因為你的靈充滿我，因為我曾與你一起。 \
+> 當我面對壓力與反對時，求你不要讓我求脫離，而是求放膽， \
+> 讓我一心一意地與弟兄姊妹同心，甘心分享我所有的一切。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

@@ -24,21 +24,21 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Dare to Be a Daniel**
+> **Dare to Be a Daniel** \
 > *Philip P. Bliss, 1873*
 >
-> Standing by a purpose true,
-> Heeding God's command,
-> Honor them, the faithful few,
+> Standing by a purpose true, \
+> Heeding God's command, \
+> Honor them, the faithful few, \
 > All hail to Daniel's band!
 >
-> *Chorus*: Dare to be a Daniel, dare to stand alone;
+> *Chorus*: Dare to be a Daniel, dare to stand alone; \
 > Dare to have a purpose firm, dare to make it known.
 >
-> 持定真實的心志，聽從神的命令，
+> 持定真實的心志，聽從神的命令， \
 > 尊崇那少數忠心的人，向但以理的一班人致敬！
 >
-> 副歌：敢作但以理，敢單獨站立；
+> 副歌：敢作但以理，敢單獨站立； \
 > 敢存堅定的心志，敢把它表明出來。
 
 ---
@@ -51,7 +51,7 @@ publisher: 三書精讀出版系統
 
 > ^5^我們看這個人如同瘟疫一般，是鼓動普天下眾猶太人生亂的，又是拿撒勒教黨裏的一個頭目……^8^你自己究問他，就可以知道我們告他的一切事了。」^9^眾猶太人也隨著告他說：「事情誠然是這樣。」
 
-> ^10^巡撫點頭叫保羅說話，他就說：「我知道你在這國裏斷事多年，所以我樂意為自己分訴……^14^但有一件事，我向你承認，就是他們所稱為異端的道，我正按著那道侍奉我祖宗的神，又信合乎律法的和先知書上一切所記載的；^15^並且靠著神，盼望死人無論善惡都要復活，就是他們自己也有這個盼望。^16^我因此自己勉勵，對神、對人常存無虧的良心。」
+> ^10^巡撫點頭叫保羅說話，他就說：「我知道你在這國裏斷事多年，所以我樂意為自己分訴……^14^但有一件事，我向你承認，就是他們所稱為異端的道，我正按著那道事奉我祖宗的神，又信合乎律法的和先知書上一切所記載的；^15^並且靠著神，盼望死人無論善惡都要復活，就是他們自己也有這個盼望。^16^我因此自己勉勵，對神、對人常存無虧的良心。」
 
 > ^20^即或不然，這些人若看出我站在公會前有妄為的地方，他們自己也可以說明。^21^縱然有，也不過一句話，就是我站在他們中間大聲說：『我今日在你們面前受審，是為死人復活的道理。』」
 
@@ -59,19 +59,19 @@ publisher: 三書精讀出版系統
 
 > ^24^過了幾天，腓力斯和他夫人猶太的女子土西拉一同來到，就叫了保羅來，聽他講論信基督耶穌的道。^25^保羅講論公義、節制和將來的審判，腓力斯甚覺恐懼，說：「你暫且去吧，等我得便再叫你來。」^26^腓力斯又指望保羅送他銀錢，所以屢次叫他來，和他談論。^27^過了兩年，波求·非斯都接了腓力斯的任；腓力斯要討猶太人的喜歡，就留保羅在監裏。
 
-### English — ESV
+### English — NASB
 
-> ^1^And after five days the high priest Ananias came down with some elders and a spokesman, one Tertullus. ^2^And when he had been summoned, Tertullus began to accuse him, saying: "Since through you we enjoy much peace, and since by your foresight, most excellent Felix, reforms are being made for this nation, in every way and everywhere we accept this with all gratitude."
+> ^1^After five days the high priest Ananias came down with some elders, with an attorney *named* Tertullus, and they brought charges to the governor against Paul. ^2^After *Paul* had been summoned, Tertullus began to accuse him, saying *to the governor,* "Since we have through you attained much peace, and since by your providence reforms are being carried out for this nation,
 
-> ^5^"For we have found this man a plague, one who stirs up riots among all the Jews throughout the world and is a ringleader of the sect of the Nazarenes." ^8^"By examining him yourself you will be able to find out from him about everything of which we accuse him." ^9^The Jews also joined in the charge, affirming that all these things were so.
+> ^5^For we have found this man a real pest and a fellow who stirs up dissension among all the Jews throughout the world, and a ringleader of the sect of the Nazarenes. ^8^By examining him yourself concerning all these matters you will be able to ascertain the things of which we accuse him." ^9^The Jews also joined in the attack, asserting that these things were so.
 
-> ^10^And when the governor had nodded to him to speak, Paul replied: "Knowing that for many years you have been a judge over this nation, I cheerfully make my defense." ^14^"But this I confess to you, that according to the Way, which they call a sect, I worship the God of our fathers, believing everything laid down by the Law and written in the Prophets, ^15^having a hope in God, which these men themselves accept, that there will be a resurrection of both the just and the unjust. ^16^So I always take pains to have a clear conscience toward both God and man."
+> ^10^When the governor had nodded for him to speak, Paul responded: "Knowing that for many years you have been a judge to this nation, I cheerfully make my defense, ^14^But this I admit to you, that according to the Way which they call a sect I do serve the God of our fathers, believing everything that is in accordance with the Law and that is written in the Prophets; ^15^having a hope in God, which these men cherish themselves, that there shall certainly be a resurrection of both the righteous and the wicked. ^16^In view of this, I also do my best to maintain always a blameless conscience *both* before God and before men."
 
-> ^22^But Felix, having a rather accurate knowledge of the Way, put them off, saying, "When Lysias the tribune comes down, I will decide your case."
+> ^22^But Felix, having a more exact knowledge about the Way, put them off, saying, "When Lysias the commander comes down, I will decide your case."
 
-> ^24^After some days Felix came with his wife Drusilla, who was Jewish, and he sent for Paul and heard him speak about faith in Christ Jesus. ^25^And as he reasoned about righteousness and self-control and the coming judgment, Felix was alarmed and said, "Go away for the present. When I get an opportunity I will summon you." ^26^At the same time he hoped that money would be given him by Paul. So he sent for him often and conversed with him. ^27^When two years had elapsed, Felix was succeeded by Porcius Festus. And desiring to do the Jews a favor, Felix left Paul in prison.
+> ^24^But some days later Felix arrived with Drusilla, his wife who was a Jewess, and sent for Paul and heard him *speak* about faith in Christ Jesus. ^25^But as he was discussing righteousness, self-control and the judgment to come, Felix became frightened and said, "Go away for the present, and when I find time I will summon you." ^26^At the same time too, he was hoping that money would be given him by Paul; therefore he also used to send for him quite often and converse with him. ^27^But after two years had passed, Felix was succeeded by Porcius Festus, and wishing to do the Jews a favor, Felix left Paul imprisoned.
 
-**經文核對**：[ai-eden.com/bible/acts/24](https://www.ai-eden.com/bible/acts/24?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/24](https://www.ai-eden.com/bible/acts/24?t=CUV,NASB&cols=2)
 
 ---
 
@@ -82,16 +82,16 @@ publisher: 三書精讀出版系統
 | 項目 | 說明 |
 |----------------------------------------|----------------------------------------|
 | **腓力斯 (Antonius Felix)** | 主後52-59年間任猶太巡撫，出身釋放的奴隸家庭；羅馬史家塔西佗論他：「他以奴隸的秉性，行使君王的權柄，肆意逞其殘暴與淫慾」（*per omnem saevitiam ac libidinem ius regium servili ingenio exercuit*），出處：Tacitus, *Histories* 5.9 |
-| **土西拉 (Drusilla)** | 希律亞基帕一世之女，亞基帕二世與百妮基之妹；原嫁敘利亞以米撒王亞西斯，後被腓力斯誘娶，離棄原夫改嫁——此事在猶太人眼中是公然違背律法的醜聞（參 Josephus, *Antiquities* 20.7.2） |
+| **土西拉 (Drusilla)** | 希律亞基帕一世之女，亞基帕二世與百尼基之妹；原嫁敘利亞以米撒王亞西斯，後被腓力斯誘娶，離棄原夫改嫁——此事在猶太人眼中是公然違背律法的醜聞（參 Josephus, *Antiquities* 20.7.2） |
 | **帖土羅** | 職業辯士（ῥήτωρ），受聘於猶太公會，代表大祭司亞拿尼亞出庭控告——這是全書唯一一次猶太領袖僱用羅馬式訟辯士出庭的記載 |
 
 ### 羅馬省級法庭的程序
 
-保羅這場審訊，遵循的是羅馬行省法庭的標準格式：控方（帖土羅）先以谀詞開場（*captatio benevolentiae*，博取法官好感），再列舉控罪，被告隨後獲准當庭申辯。帖土羅所列的三項控罪——鼓動叛亂（政治罪）、拿撒勒教黨頭目（宗教罪）、污穢聖殿（褻瀆罪）——分別對應羅馬律法、猶太律法、聖殿律法三個層面，若任何一項成立，都足以定保羅死罪。保羅的申辯逐一拆解：十二天的行程經得起查證（24:11），沒有人能證明他在殿裏、會堂裏、城裏煽動過群眾（24:12-13），他所信的「這道」正是應驗律法先知的盼望，不是新起的異端（24:14-15）。
+保羅這場審訊，遵循的是羅馬行省法庭的標準格式：控方（帖土羅）先以諛詞開場（*captatio benevolentiae*，博取法官好感），再列舉控罪，被告隨後獲准當庭申辯。帖土羅所列的三項控罪——鼓動叛亂（政治罪）、拿撒勒教黨頭目（宗教罪）、污穢聖殿（褻瀆罪）——分別對應羅馬律法、猶太律法、聖殿律法三個層面，若任何一項成立，都足以定保羅死罪。保羅的申辯逐一拆解：十二天的行程經得起查證（24:11），沒有人能證明他在殿裏、會堂裏、城裏煽動過群眾（24:12-13），他所信的「這道」正是應驗律法先知的盼望，不是新起的異端（24:14-15）。
 
 ### 「這道」與「異端」——一詞之差
 
-24:14原文清楚使用兩個不同的希臘字：帖土羅稱保羅為「拿撒勒教黨（αἵρεσις）裏的一個頭目」（24:5），保羅承接時卻堅持稱自己所信的為「這道」（ἡ ὁδός），並補上一句——這正是「他們所稱為異端（αἵρεσις）」的道。保羅沒有否認自己被人歸入某個「教派」，卻堅持這信仰的本質是一條「道路」（ὁδός），是路加全書反覆使用來稱呼基督信仰的名字（9:2、19:9、19:23、22:4）——不是一套隔絕於猶太傳統之外的新教義，而是律法與先知所指向、如今應驗了的那條路。
+24:14原文清楚使用兩個不同的希臘字：帖土羅稱保羅為「拿撒勒教黨裏的一個頭目」（24:5，「教黨」原文作 αἵρεσις），保羅承接時卻堅持稱自己所信的為「這道」（ἡ ὁδός），並補上一句——這正是「他們所稱為異端（αἵρεσις）」的道。保羅沒有否認自己被人歸入某個「教派」，卻堅持這信仰的本質是一條「道路」（ὁδός），是路加全書反覆使用來稱呼基督信仰的名字（9:2、19:9、19:23、22:4）——不是一套隔絕於猶太傳統之外的新教義，而是律法與先知所指向、如今應驗了的那條路。
 
 ---
 
@@ -108,17 +108,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 良心：對神對人時常存無虧
 
 保羅把一生的立場濃縮成一句話——「我因此自己勉勵，對神、對人常存無虧的良心」（24:16）。良心不是與生俱來自動運作的道德儀表，而是需要「操練」（ἀσκέω）的官能：保羅用的是同一個字根衍生出「苦修」（ascetic）一詞，暗示這是刻意、持續、甚至要付代價的功夫。良心有雙重方向——對神，是內裏那不容自欺的知覺；對人，是外在行事為人經得起檢驗的誠實，兩者缺一不可。
 
-### 2. 帖土羅的謅媚與保羅的直言
+### 2. 帖土羅的諂媚與保羅的直言
 
 | 帖土羅（24:2-4） | 保羅（24:10-21） |
 |----------------------------------------|----------------------------------------|
-| 開場先谀詞奉承腓力斯 | 開場只陳明事實，不加谀詞 |
+| 開場先諛詞奉承腓力斯 | 開場只陳明事實，不加諛詞 |
 | 用「瘟疫」「頭目」等貶詞定性保羅 | 逐條列出對方拿不出證據的事實 |
 | 靠修辭手段煽動法官情緒 | 靠十二天可查證的行程與眾人可證的良心 |
 
@@ -126,7 +126,7 @@ publisher: 三書精讀出版系統
 
 ### 3. 「這道」是應驗，不是叛教
 
-保羅在24:14-15的申辯核心，是把基督信仰重新安放回猶太人自己的盼望裏——「我正按著那道侍奉我祖宗的神，又信合乎律法的和先知書上一切所記載的」。他所盼望的死人復活，正是「他們自己也有這個盼望」。這不是一套外來的新學說，而是舊約盼望走到盡頭該有的樣子。
+保羅在24:14-15的申辯核心，是把基督信仰重新安放回猶太人自己的盼望裏——「我正按著那道事奉我祖宗的神，又信合乎律法的和先知書上一切所記載的」。他所盼望的死人復活，正是「他們自己也有這個盼望」。這不是一套外來的新學說，而是舊約盼望走到盡頭該有的樣子。
 
 ### 4. 認識真理，卻不順服真理
 
@@ -140,15 +140,11 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
 **屈梭多模 (Chrysostom)**：
 
-屈梭多模在論本章的講道中，將帖土羅開場那番谀詞與保羅樸實無華的申辯並列對照，這是他一貫的修辭批判筆法——他常常提醒聽眾，真理不需要靠華麗的辭藻裝點，反倒是那些心裏無理的人，才需要靠辭令來遮掩空洞。他也留意到保羅選擇不迴避「死人復活」這個焦點，反倒主動把它挑明出來，視此為使徒申辯策略上刻意而勇敢的一步。
+屈梭多模在論本章的講道中，將帖土羅開場那番諛詞與保羅樸實無華的申辯並列對照，這是他一貫的修辭批判筆法——他常常提醒聽眾，真理不需要靠華麗的辭藻裝點，反倒是那些心裏無理的人，才需要靠辭令來遮掩空洞。他也留意到保羅選擇不迴避「死人復活」這個焦點，反倒主動把它挑明出來，視此為使徒申辯策略上刻意而勇敢的一步。
 
 > 出處：Chrysostom, *Homilies on the Acts of the Apostles*，**Homily 50**（論24章），NPNF1-11
 
@@ -164,9 +160,17 @@ publisher: 三書精讀出版系統
 
 加爾文接著指出，保羅在24:16所說的「無虧的良心」包含兩個層面：一個是向著神的內裏知覺，另一個由此而生、向著人的誠實與正直——良心對神若不清潔，對人的行事也不可能真正端正。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**帖土羅開場的惡毒**：摩根特別指出，帖土羅選用的「瘟疫」（πλάγα）一詞，是他在腓力斯面前能用來抹黑保羅品格最狠毒的字眼之一——「沒有一個詞，比帖土羅在腓力斯面前所用的這個字，更能讓人以為保羅是個道德最卑劣的人；中譯根本傳不出這個描述原有的冒犯力度」（"No word could have been used by Tertullus in the presence of Felix more calculated to suggest that Paul was a man of the very basest morals. The translation hardly carries the offensiveness of the description."）。
+
+**控告背後的仇恨**：摩根追溯這場控告的根源，直指大祭司亞拿尼亞本人的臨在——「這場控告的推動力，從亞拿尼亞大祭司親自在場一事上已表露無遺……這仇恨，正是這場敵意背後的動力，針對的是保羅這個人，也針對保羅所代表的一切」（"The inspiration of that accusation is made evident by the presence of Ananias the high priest... It was caused by the hatred that had entered into the heart of this man Ananias and all those associated with him, toward Paul and toward all that for which Paul stood."）。摩根認為，控告的表面理由（叛亂、異端、褻瀆）都只是包裝，真正驅動這一切的是私仇。
+
+**腓力斯的拖延是全章的悲劇核心**：摩根一貫強調決斷的迫切性，在論及腓力斯一再拖延（24:22, 25）時，他指出這正是全人類面對真理時最常見、卻最致命的反應——不是公然拒絕，而是「等我得便再叫你來」這種看似客氣、實則永遠不會兌現的延後。摩根提醒讀者，這句話從腓力斯口中說出的那一刻，機會的窗口便已悄然關閉。
+
+> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳 24 章釋經）
+
+### 麥克阿瑟 (John MacArthur)
 
 > "In this do I exercise myself. To have a conscience always void of offense toward God and man."
 >
@@ -182,12 +186,12 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 26:1-3
 
-> 耶和華啊，求你為我申冤，因我向來行事純全，我又倚靠耶和華並不搖動。
-> 耶和華啊，求你察看我，試驗我，熬煉我的肺腑心腸。
+> 耶和華啊，求你為我申冤，因我向來行事純全，我又倚靠耶和華並不搖動。 \
+> 耶和華啊，求你察看我，試驗我，熬煉我的肺腑心腸。 \
 > **因為你的慈愛常在我眼前，我也按你的真理而行。**
 
 ### 提摩太前書 1:19
@@ -196,66 +200,29 @@ publisher: 三書精讀出版系統
 
 保羅寫給提摩太的這句話，與他在腓力斯面前所說的「常存無虧的良心」幾乎是同一組字——一位使徒，在法庭上與在書信裏，說的是同一件事：良心一旦丟棄，信心的船便沒有龍骨可依。
 
----
+### Once to Every Man and Nation
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-**帖土羅開場的惡毒**：摩根特別指出，帖土羅選用的「瘟疫」（πλάγα）一詞，是他在腓力斯面前能用來抹黑保羅品格最狠毒的字眼之一——「沒有一個詞，比帖土羅在腓力斯面前所用的這個字，更能讓人以為保羅是個道德最卑劣的人；中譯根本傳不出這個描述原有的冒犯力度」（"No word could have been used by Tertullus in the presence of Felix more calculated to suggest that Paul was a man of the very basest morals. The translation hardly carries the offensiveness of the description."）。
-
-**控告背後的仇恨**：摩根追溯這場控告的根源，直指大祭司亞拿尼亞本人的臨在——「這場控告的推動力，從亞拿尼亞大祭司親自在場一事上已表露無遺……這仇恨，正是這場敵意背後的動力，針對的是保羅這個人，也針對保羅所代表的一切」（"The inspiration of that accusation is made evident by the presence of Ananias the high priest... It was caused by the hatred that had entered into the heart of this man Ananias and all those associated with him, toward Paul and toward all that for which Paul stood."）。摩根認為，控告的表面理由（叛亂、異端、褻瀆）都只是包裝，真正驅動這一切的是私仇。
-
-**腓力斯的拖延是全章的悲劇核心**：摩根一貫強調決斷的迫切性，在論及腓力斯一再拖延（24:22, 25）時，他指出這正是全人類面對真理時最常見、卻最致命的反應——不是公然拒絕，而是「等我得便再叫你來」這種看似客氣、實則永遠不會兌現的延後。摩根提醒讀者，這句話從腓力斯口中說出的那一刻，機會的窗口便已悄然關閉。
-
-> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳 24 章釋經）
-
-### 老弟兄查經洞見 (Thursday Class Insights)
-
-老弟兄常把24:16和提摩太前書1:19放在一起讀——保羅站在公堂上說的「常存無虧的良心」，和他寫信給提摩太時囑咐的「常存信心和無虧的良心」，用的是同一組字。他常提醒查經班：良心不是信仰以外的附加品，是信心本身的容器；容器一旦破損，裏面盛的道理再純正，也留不住。
-
-| 良心的軌跡 | 經文 | 內容 |
-|----------------------------------------|--------------------|--------------------|
-| 良心初次警覺 | 創3:7-8 | 亞當夏娃吃了禁果，眼睛明亮，就藏躲耶和華神的面 |
-| 良心自己責備自己 | 撒上24:5 | 大衛割下掃羅衣襟，「心中自責」 |
-| 良心被恩典更新 | 詩51:10 | 「神啊，求你為我造清潔的心，使我裏面重新有正直的靈」 |
-| 良心的律刻在心版 | 耶31:33 | 「我要將我的律法放在他們裏面，寫在他們心上」 |
-| 外邦人也有良心作證 | 羅2:14-15 | 「是非之心同作見證，並且他們的思念互相較量」 |
-| 良心藉基督的血被洗淨 | 來9:14 | 基督的血「洗淨你們的心，除去你們的死行」 |
-| 良心破損，信心的船便觸礁 | 提前1:19 | 「有人丟棄良心，就在真道上如同船破壞了一般」 |
-
-這條線清楚地說明：保羅在腓力斯面前所操練的良心，不是一種個人修養，而是整本聖經一路要恢復、更新、洗淨的那個內裏官能——從伊甸園的藏躲，到基督寶血的潔淨，良心的故事，就是救恩的故事。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Once to Every Man and Nation*
-
-> Once to every man and nation comes the moment to decide,
-> In the strife of truth with falsehood, for the good or evil side;
-> Some great cause, God's new Messiah, offering each the bloom or blight,
+> Once to every man and nation comes the moment to decide, \
+> In the strife of truth with falsehood, for the good or evil side; \
+> Some great cause, God's new Messiah, offering each the bloom or blight, \
 > Parts the goats upon the left hand, and the sheep upon the right.
 >
-> 每一個人、每一個民族，總有那決斷的一刻臨到，
-> 在真理與虛謊的爭戰中，要選擇良善還是選擇邪惡；
-> 那偉大的呼召擺在眼前，或帶來祝福或帶來咒詛，
+> 每一個人、每一個民族，總有那決斷的一刻臨到， \
+> 在真理與虛謊的爭戰中，要選擇良善還是選擇邪惡； \
+> 那偉大的呼召擺在眼前，或帶來祝福或帶來咒詛， \
 > 把左邊的山羊、右邊的綿羊，就在那一刻分開。
 >
 > *James Russell Lowell, 1845*
 
-**詩篇**：詩篇 26:2-3
-
-> 耶和華啊，求你察看我，試驗我，熬煉我的肺腑心腸。
-> 因為你的慈愛常在我眼前，我也按你的真理而行。
-
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：帖土羅靠辭令定罪，保羅靠良心申辯——真正審判腓力斯的，從來不是保羅，而是他自己那顆聽見真理卻選擇拖延的良心。「腓力斯的問題，從來不是不知道；是知道了，卻一次又一次地說『暫且』。良心一旦習慣了『暫且』，就再也聽不見警鐘了。」
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：良心，是神放在人裏面那不容自欺的知覺，卻在墮落之後被玷污、麻木，需要被更新、洗淨。亞當夏娃吃了禁果，第一個反應是「藏躲耶和華神的面」（創3:8）——那是良心第一次驚醒；大衛割下掃羅的衣襟，「心中自責」（撒上24:5），是良心在王權面前依然作聲；先知應許「我要將我的律法放在他們裏面，寫在他們心上」（耶31:33），是良心終將被重新校準的盼望；保羅在羅馬書說，連沒有律法的外邦人「是非之心同作見證」（羅2:15），良心是神留在每一個人裏面、尚未熄滅的見證人；直到希伯來書宣告，基督的血「洗淨你們的心，除去你們的死行」（來9:14）——良心終於可以不再靠自我勉勵維持，而是被寶血一次而永遠地潔淨。保羅在腓力斯面前所站立的那句「常存無虧的良心」，正站在這整條軌跡的頂端。
+鑰匙：良心，是神放在人裏面那不容自欺的知覺，卻在墮落之後被玷污、麻木，需要被更新、洗淨。亞當夏娃吃了禁果，第一個反應是「藏躲耶和華神的面」（創3:8）——那是良心第一次驚醒；大衛割下掃羅的衣襟，「心中自責」（撒上24:5），是良心在王權面前依然作聲；他後來在悔罪詩裏呼求「神啊，求你為我造清潔的心」（詩51:10）——良心不能自我修復，只能求神重造；先知應許「我要將我的律法放在他們裏面，寫在他們心上」（耶31:33），是良心終將被重新校準的盼望；保羅在羅馬書說，連沒有律法的外邦人「是非之心同作見證」（羅2:15），良心是神留在每一個人裏面、尚未熄滅的見證人；直到希伯來書宣告，基督的血「洗淨你們的心，除去你們的死行」（來9:14）——良心終於可以不再靠自我勉勵維持，而是被寶血一次而永遠地潔淨。保羅在腓力斯面前所站立的那句「常存無虧的良心」，正站在這整條軌跡的頂端。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -276,17 +243,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天有沒有一件事，我心裏其實明白，卻選擇了拖延、不去面對？
 - **一個行動**：今天把一件早已知道該做、卻一直「等我得便」的事，具體排進明天的行程。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：帖土羅靠辭令定罪，保羅靠良心申辯——真正審判腓力斯的，從來不是保羅，而是他自己那顆聽見真理卻選擇拖延的良心。
-
-**貫通全經**：從亞當夏娃的藏躲（創3:8），到大衛的自責（撒上24:5），到先知應許良心被更新（耶31:33），直到基督的血洗淨人心（來9:14）——保羅站在腓力斯面前那句「常存無虧的良心」，正站在這條軌跡的頂端。
-
-**無法迴避的問題**：「你今天有沒有一件事，正對自己重複腓力斯那句『等我得便再叫你來』？」
-
-> 「腓力斯的問題，從來不是不知道；是知道了，卻一次又一次地說『暫且』。良心一旦習慣了『暫且』，就再也聽不見警鐘了。」
+**你看見耶穌了嗎？** 衙門裏坐著的是巡撫，被鎖著的是囚犯，但那天真正發言的是復活的主——祂藉著保羅的口，把公義、節制、將來的審判，親自送到一個握有生殺大權的人面前。腓力斯可以把保羅留在監裏兩年，卻攔不住主藉著這個囚犯，一次又一次敲他的良心。
 
 ---
 
@@ -294,22 +251,18 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **無虧的良心**：你今天能像保羅一樣說「對神、對人常存無虧的良心」嗎？有沒有一件事，是你的良心一直在提醒、你卻沒有處理的？
+1. **諂媚與誠實**：你在為自己辯護、或評論別人時，用的是帖土羅式的修辭手段，還是保羅式經得起查證的誠實？
 
-2. **謅媚與誠實**：你在為自己辯護、或評論別人時，用的是帖土羅式的修辭手段，還是保羅式經得起查證的誠實？
+2. **懼怕與貪心**：腓力斯被懼怕與貪財兩股力量拉住，最終甚麼都沒有決定。今天攔阻你回應真理的，是哪一股力量？
 
-3. **知道，卻不順服**：腓力斯「本是詳細曉得這道」，卻始終沒有悔改。你有沒有一項真理，是你早已「詳細曉得」，卻一直沒有真正順服的？
-
-4. **懼怕與貪心**：腓力斯被懼怕與貪財兩股力量拉住，最終甚麼都沒有決定。今天攔阻你回應真理的，是哪一股力量？
-
-5. **在拖延中，主仍在做工**：保羅被囚兩年，看似停滯，卻沒有一天是浪費的。你正在經歷的等候，有沒有可能也是神正在做工的兩年？
+3. **在拖延中，主仍在做工**：保羅被囚兩年，看似停滯，卻沒有一天是浪費的。你正在經歷的等候，有沒有可能也是神正在做工的兩年？
 
 ### 禱告回應
 
-> 主啊，你鑒察人的肺腑心腸，求你光照我裏面那些我一直不願面對的角落。
-> 求你賜給我保羅那樣的良心——對你、對人，都經得起察驗，不用言詞掩飾，只用誠實站立。
-> 求你使我不要像腓力斯，聽見了真理卻用「等我得便」來拖延；
-> 幫助我今天就回應你清楚對我說的話，不再等到「方便」的那一天。
+> 主啊，你鑒察人的肺腑心腸，求你光照我裏面那些我一直不願面對的角落。 \
+> 求你賜給我保羅那樣的良心——對你、對人，都經得起察驗，不用言詞掩飾，只用誠實站立。 \
+> 求你使我不要像腓力斯，聽見了真理卻用「等我得便」來拖延； \
+> 幫助我今天就回應你清楚對我說的話，不再等到「方便」的那一天。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

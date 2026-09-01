@@ -24,17 +24,17 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **O Word of God Incarnate**
+> **O Word of God Incarnate** \
 > *William Walsham How, 1867*
 >
-> O Word of God incarnate, O Wisdom from on high,
-> O Truth unchanged, unchanging, O Light of our dark sky:
-> We praise Thee for the radiance that from the hallowed page,
+> O Word of God incarnate, O Wisdom from on high, \
+> O Truth unchanged, unchanging, O Light of our dark sky: \
+> We praise Thee for the radiance that from the hallowed page, \
 > A lantern to our footsteps, shines on from age to age.
 >
-> 道成肉身的聖言，從上而來的智慧，
-> 永不改變的真理，照亮我們黑夜的光；
-> 我們讚美你，因這聖言所發的光輝，
+> 道成肉身的聖言，從上而來的智慧， \
+> 永不改變的真理，照亮我們黑夜的光； \
+> 我們讚美你，因這聖言所發的光輝， \
 > 如同腳前的燈，世世代代照耀不熄。
 
 ---
@@ -57,29 +57,29 @@ publisher: 三書精讀出版系統
 
 > ^23^那時，因為這道起的擾亂不小。^24^有一個銀匠名叫底米丟，是製造亞底米神銀龕的，他使這樣手藝人生意發達。^25^他聚集他們和同行的工人，說：「眾位，你們知道我們是倚靠這生意發財。^26^這保羅不但在以弗所，也幾乎在亞細亞全地引誘迷惑許多人，說人手所做的不是神。這是你們所看見、所聽見的。^27^這樣，不獨我們這事業被人藐視，就是大女神亞底米的廟也要被人輕忽，連亞細亞全地和普天下所敬拜的大女神之威榮也要消滅了！」
 
-> ^28^眾人聽見，就怒氣填胸，喊著說：「大哉，以弗所人的亞底米啊！」^29^滿城都轟動起來。眾人拿住與保羅同行的馬其頓人該猶和亞里達古，齊心擁進戲園裏去。^30^保羅想要進去到百姓那裏，門徒卻不許他去。^31^還有亞細亞幾位首領，是保羅的朋友，打發人來勸他，不要冒險到戲園裏去。^32^聚集的人紛紛亂亂，有喊叫這個的，有喊叫那個的，大半不知道是為甚麼聚集。^33^有人把亞歷山大從眾人中帶出來，猶太人推他往前，亞歷山大就擺手，要向百姓分訴。^34^只因他們認出他是猶太人，就大家同聲喊著說：「大哉，以弗所人的亞底米啊！」如此約有兩小時。
+> ^28^眾人聽見，就怒氣填胸，喊著說：「大哉，以弗所人的亞底米啊！」^29^滿城都轟動起來。眾人拿住與保羅同行的馬其頓人該猶和亞里達古，齊心擁進戲園裏去。^30^保羅想要進去到百姓那裏，門徒卻不許他去。^31^還有亞細亞幾位首領，是保羅的朋友，打發人來勸他，不要冒險到戲園裏去。^32^聚集的人紛紛亂亂，有喊叫這個的，有喊叫那個的，大半不知道是為甚麼聚集。^33^有人把亞力山大從眾人中帶出來，猶太人推他往前，亞力山大就擺手，要向百姓分訴。^34^只因他們認出他是猶太人，就大家同聲喊著說：「大哉，以弗所人的亞底米啊！」如此約有兩小時。
 
-> ^35^那城裏的書記安撫了眾人，就說：「以弗所人哪，誰不知道以弗所人的城是看守大亞底米的廟和從宙斯那裏落下來的像呢？^36^這事既是駁不倒的，你們就當安靜，不可造次。^37^你們把這些人帶來，他們並沒有偷竊廟中之物，也沒有謗讟我們的女神。^38^若是底米丟和他同行的人有控告人的事，自有放告的日子，也有方伯可以彼此對告。^39^你們若問別的事，就可以照常例聚集斷定。^40^今日的擾亂本是無緣無故，我們難免被查問；論到這樣聚眾，我們也說不出所以然來。」^41^說了這話，便叫眾人散去。
+> ^35^那城裏的書記安撫了眾人，就說：「以弗所人哪，誰不知道以弗所人的城是看守大亞底米的廟和從丟斯那裏落下來的像呢？^36^這事既是駁不倒的，你們就當安靜，不可造次。^37^你們把這些人帶來，他們並沒有偷竊廟中之物，也沒有謗讟我們的女神。^38^若是底米丟和他同行的人有控告人的事，自有放告的日子，也有方伯可以彼此對告。^39^你們若問別的事，就可以照常例聚集斷定。^40^今日的擾亂本是無緣無故，我們難免被查問；論到這樣聚眾，我們也說不出所以然來。」^41^說了這話，便叫眾人散去。
 
-### English — ESV
+### English — NASB
 
-> ^1^And it happened that while Apollos was at Corinth, Paul passed through the inland country and came to Ephesus. ^2^And he said to them, "Did you receive the Holy Spirit when you believed?" And they said, "No, we have not even heard that there is a Holy Spirit." ^3^And he said, "Into what then were you baptized?" They said, "Into John's baptism." ^4^And Paul said, "John baptized with the baptism of repentance, telling the people to believe in the one who was to come after him, that is, Jesus." ^5^On hearing this, they were baptized in the name of the Lord Jesus. ^6^And when Paul had laid his hands on them, the Holy Spirit came on them, and they began speaking in tongues and prophesying. ^7^There were about twelve men in all.
+> ^1^It happened that while Apollos was at Corinth, Paul passed through the upper country and came to Ephesus, and found some disciples. ^2^He said to them, "Did you receive the Holy Spirit when you believed?" And they *said* to him, "No, we have not even heard whether there is a Holy Spirit." ^3^And he said, "Into what then were you baptized?" And they said, "Into John's baptism." ^4^Paul said, "John baptized with the baptism of repentance, telling the people to believe in Him who was coming after him, that is, in Jesus." ^5^When they heard this, they were baptized in the name of the Lord Jesus. ^6^And when Paul had laid his hands upon them, the Holy Spirit came on them, and they *began* speaking with tongues and prophesying. ^7^There were in all about twelve men.
 
-> ^8^And he entered the synagogue and for three months spoke boldly, reasoning and persuading them about the kingdom of God. ^9^But when some became stubborn and continued in unbelief, speaking evil of the Way before the congregation, he withdrew from them and took the disciples with him, reasoning daily in the hall of Tyrannus. ^10^This continued for two years, so that all the residents of Asia heard the word of the Lord, both Jews and Greeks.
+> ^8^And he entered the synagogue and continued speaking out boldly for three months, reasoning and persuading *them* about the kingdom of God. ^9^But when some were becoming hardened and disobedient, speaking evil of the Way before the people, he withdrew from them and took away the disciples, reasoning daily in the school of Tyrannus. ^10^This took place for two years, so that all who lived in Asia heard the word of the Lord, both Jews and Greeks.
 
-> ^11^And God was doing extraordinary miracles by the hands of Paul, ^12^so that even handkerchiefs or aprons that had touched his skin were carried away to the sick, and their diseases left them and the evil spirits came out of them.
+> ^11^God was performing extraordinary miracles by the hands of Paul, ^12^so that handkerchiefs or aprons were even carried from his body to the sick, and the diseases left them and the evil spirits went out.
 
-> ^13^Then some of the itinerant Jewish exorcists undertook to invoke the name of the Lord Jesus over those who had evil spirits, saying, "I adjure you by the Jesus whom Paul proclaims." ^14^Seven sons of a Jewish high priest named Sceva were doing this. ^15^But the evil spirit answered them, "Jesus I know, and Paul I recognize, but who are you?" ^16^And the man in whom was the evil spirit leaped on them, mastered all of them and overpowered them, so that they fled out of that house naked and wounded. ^17^And this became known to all the residents of Ephesus, both Jews and Greeks. And fear fell upon them all, and the name of the Lord Jesus was extolled. ^18^Also many of those who were now believers came, confessing and divulging their practices.
+> ^13^But also some of the Jewish exorcists, who went from place to place, attempted to name over those who had the evil spirits the name of the Lord Jesus, saying, "I adjure you by Jesus whom Paul preaches." ^14^Seven sons of one Sceva, a Jewish chief priest, were doing this. ^15^And the evil spirit answered and said to them, "I recognize Jesus, and I know about Paul, but who are you?" ^16^And the man, in whom was the evil spirit, leaped on them and subdued all of them and overpowered them, so that they fled out of that house naked and wounded. ^17^This became known to all, both Jews and Greeks, who lived in Ephesus; and fear fell upon them all and the name of the Lord Jesus was being magnified. ^18^Many also of those who had believed kept coming, confessing and disclosing their practices.
 
-> ^19^And a number of those who had practiced magic arts brought their books together and burned them in the sight of all. And they counted the value of them and found it came to fifty thousand pieces of silver. ^20^So the word of the Lord continued to increase and prevail mightily.
+> ^19^And many of those who practiced magic brought their books together and *began* burning them in the sight of everyone; and they counted up the price of them and found it fifty thousand pieces of silver. ^20^So the word of the Lord was growing mightily and prevailing.
 
-> ^23^About that time there arose no little disturbance concerning the Way. ^24^For a man named Demetrius, a silversmith, who made silver shrines of Artemis, brought no little business to the craftsmen. ^25^These he gathered together, with the workmen in similar trades, and said, "Men, you know that from this business we have our wealth. ^26^And you see and hear that not only in Ephesus but in almost all of Asia this Paul has persuaded and turned away a great many people, saying that gods made with hands are not gods. ^27^And there is danger not only that this trade of ours may come into disrepute but also that the temple of the great goddess Artemis may be counted as nothing, and that she may even be deposed from her magnificence, she whom all Asia and the world worship."
+> ^23^About that time there occurred no small disturbance concerning the Way. ^24^For a man named Demetrius, a silversmith, who made silver shrines of Artemis, was bringing no little business to the craftsmen; ^25^these he gathered together with the workmen of similar *trades,* and said, "Men, you know that our prosperity depends upon this business. ^26^You see and hear that not only in Ephesus, but in almost all of Asia, this Paul has persuaded and turned away a considerable number of people, saying that gods made with hands are no gods *at all.* ^27^Not only is there danger that this trade of ours fall into disrepute, but also that the temple of the great goddess Artemis be regarded as worthless and that she whom all of Asia and the world worship will even be dethroned from her magnificence."
 
-> ^28^When they heard this they were enraged and were crying out, "Great is Artemis of the Ephesians!" ^29^So the city was filled with the confusion, and they rushed together into the theater, dragging with them Gaius and Aristarchus, Macedonians who were Paul's companions in travel. ^30^But when Paul wished to go in among the crowd, the disciples would not let him. ^31^And even some of the Asiarchs, who were friends of his, sent to him and were urging him not to venture into the theater. ^32^Now some cried out one thing, some another, for the assembly was in confusion, and most of them did not know why they had come together. ^33^Some of the crowd prompted Alexander, whom the Jews had put forward. And Alexander, motioning with his hand, wanted to make a defense to the crowd. ^34^But when they recognized that he was a Jew, for about two hours they all cried out with one voice, "Great is Artemis of the Ephesians!"
+> ^28^When they heard *this* and were filled with rage, they *began* crying out, saying, "Great is Artemis of the Ephesians!" ^29^The city was filled with the confusion, and they rushed with one accord into the theater, dragging along Gaius and Aristarchus, Paul's traveling companions from Macedonia. ^30^And when Paul wanted to go into the assembly, the disciples would not let him. ^31^Also some of the Asiarchs who were friends of his sent to him and repeatedly urged him not to venture into the theater. ^32^So then, some were shouting one thing and some another, for the assembly was in confusion and the majority did not know for what reason they had come together. ^33^Some of the crowd concluded *it was* Alexander, since the Jews had put him forward; and having motioned with his hand, Alexander was intending to make a defense to the assembly. ^34^But when they recognized that he was a Jew, a *single* outcry arose from them all as they shouted for about two hours, "Great is Artemis of the Ephesians!"
 
-> ^35^And when the town clerk had quieted the crowd, he said, "Men of Ephesus, who is there who does not know that the city of the Ephesians is temple keeper of the great Artemis, and of the sacred stone that fell from the sky? ^36^Seeing then that these things cannot be denied, you ought to be quiet and do nothing rash. ^37^For you have brought these men here who are neither sacrilegious nor blasphemers of our goddess. ^38^If therefore Demetrius and the craftsmen with him have a complaint against anyone, the courts are open, and there are proconsuls. Let them bring charges against one another. ^39^But if you seek anything further, it shall be settled in the regular assembly. ^40^For we really are in danger of being charged with rioting today, since there is no cause that we can give to justify this commotion." ^41^And when he had said these things, he dismissed the assembly.
+> ^35^After quieting the crowd, the town clerk said, "Men of Ephesus, what man is there after all who does not know that the city of the Ephesians is guardian of the temple of the great Artemis and of the *image* which fell down from heaven? ^36^So, since these are undeniable facts, you ought to keep calm and to do nothing rash. ^37^For you have brought these men *here* who are neither robbers of temples nor blasphemers of our goddess. ^38^So then, if Demetrius and the craftsmen who are with him have a complaint against any man, the courts are in session and proconsuls are *available;* let them bring charges against one another. ^39^But if you want anything beyond this, it shall be settled in the lawful assembly. ^40^For indeed we are in danger of being accused of a riot in connection with today's events, since there is no *real* cause *for it,* and in this connection we will be unable to account for this disorderly gathering." ^41^After saying this he dismissed the assembly.
 
-**經文核對**：[ai-eden.com/bible/acts/19](https://www.ai-eden.com/bible/acts/19?t=CUV,ESV&cols=2)（中文逐字核對來源：[cnbible.com/cuvmpt/acts/19](https://cnbible.com/cuvmpt/acts/19.htm)）
+**經文核對**：[ai-eden.com/bible/acts/19](https://www.ai-eden.com/bible/acts/19?t=CUV,NASB&cols=2)（中文逐字核對來源：[cnbible.com/cuvmpt/acts/19](https://cnbible.com/cuvmpt/acts/19.htm)）
 
 ---
 
@@ -89,8 +89,8 @@ publisher: 三書精讀出版系統
 
 | 項目 | 說明 |
 |----------------------------------------|----------------------------------------|
-| **政治地位** | 亞細亞行省首府，羅馬帝國東部第三大城，僅次於羅馬、亞歷山大 |
-| **宗教地標** | 亞底米神廟（古代世界七大奇觀之一），據信廟中之像「從宙斯那裏落下來」（19:35），為隕石崇拜 |
+| **政治地位** | 亞細亞行省首府，羅馬帝國第三大城，僅次於羅馬與亞歷山大 |
+| **宗教地標** | 亞底米神廟（古代世界七大奇觀之一），據信廟中之像「從丟斯那裏落下來」（19:35），為隕石崇拜 |
 | **經濟命脈** | 銀匠業以打造亞底米神龕、紀念品為生，神廟本身也是小亞細亞最大的銀行與資產保管所 |
 | **靈界風評** | 以弗所以巫術、占卜、咒語聞名，考古發現大量刻有「以弗所文字」（Ephesia Grammata）的護身符 |
 | **保羅駐留** | 一連三個月會堂、加兩年推喇奴學房，是保羅整個宣教生涯停留最久的單一城市（19:8, 10） |
@@ -108,7 +108,7 @@ publisher: 三書精讀出版系統
 | 會堂與推喇奴學房（19:1-20） | 個別門徒、病人、邪術書的擁有者 | 道藉著悔改、醫治、焚書「大大興旺，而且得勝」 |
 | 以弗所劇場暴動（19:23-41） | 全城群眾 | 福音與偶像利益的正面衝突，卻以一場官方裁決收場 |
 
-路加刻意把「道興旺」的宣告（19:20）放在兩幕的正中央——前半幕，道興旺的果效看得見（十二人受靈、邪靈懼怕、書卷焚燒）；後半幕，道興旺的果效引來了反彈（銀匠的生意、全城的騷動），但連反彈本身，也被一位異教城市的書記用行政程序按住——路加要讀者看見：這道所到之處，沒有任何勢力，無論是邪靈還是偶像經濟，真正攔得住它。
+路加刻意把「道興旺」的宣告（19:20）放在兩幕的正中央——前半幕，道興旺的果效看得見（十二人受靈、邪靈懼怕、書卷焚燒）；後半幕，道興旺的果效引來了反彈（銀匠的生意、全城的騷動），但連反彈本身，也被一位異教城市的書記用行政程序按住——路加要讀者看見：這道所到之處，沒有任何勢力，無論是邪靈還是偶像經濟，能真正攔得住它。
 
 ---
 
@@ -129,7 +129,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 約翰的洗與聖靈的洗——預備與重生的分界
 
@@ -153,15 +153,11 @@ publisher: 三書精讀出版系統
 
 ### 6. 底米丟的抗議——反對者無意中的見證
 
-底米丟控告保羅「說人手所做的不是神」（19:26），這句控告本身恰恰印證了保羅所傳的真理——連反對者的指控，都成了福音已經真實動搖偶像根基的證據。書記官最終的裁決——「這些人並沒有偷竊廟中之物，也沒有謗讟我們的女神」（19:37）——連異教官員都找不到定罪的理由，福音所到之處，虛謊的體系終究經不起真理的光照。
+底米丟控告保羅「說人手所做的不是神」（19:26），這句控告本身恰恰印證了保羅所傳的真理——連反對者的指控，都成了福音已經真實動搖偶像根基的證據。書記官最終的裁決——「他們並沒有偷竊廟中之物，也沒有謗讟我們的女神」（19:37）——連異教官員都找不到定罪的理由，福音所到之處，虛謊的體系終究經不起真理的光照。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -171,7 +167,7 @@ publisher: 三書精讀出版系統
 >
 > 「看這些人的卑劣！他們仍然留在猶太教裏，卻想藉這名字（耶穌）圖利。」——屈梭多模論士基瓦七子，指出他們的問題不只是失敗的咒語，更是心術：想不付代價地挪用一個他們並不真正信靠的名字。
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XLI**（論徒19:8-20），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XLI**（論徒19:8-20），NPNF1-11
 
 ### 改革宗時期
 
@@ -183,36 +179,7 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, vol. 2, 徒19:13-14 注（CCEL, calcom37）
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-> "So mightily grew the Word of God and prevailed."
->
-> 麥克阿瑟論到19:20這句總結，指出這正是全章的重點：撒但傾其邪術、偶像、暴民一切的權勢加起來對付這道，都不能得勝——真正得勝、大大興旺的，始終是神的道。
->
-> — John MacArthur, *"Exorcism: True or False? Part 2"*（論徒19:13-20），Grace to You, gty.org
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 115:4-8
-
-> 他們的偶像是金的銀的，是人手所造的。
-> **有口卻不能言，有眼卻不能看，有耳卻不能聽，有鼻卻不能聞，有手卻不能摸，有腳卻不能走，有喉嚨也不能出聲。**
-> 造他的要和他一樣，凡靠他的也要如此。
-
-### 以賽亞書 55:10-11
-
-> 雨雪從天而降並不返回，卻滋潤地土，使地上發芽結實，使撒種的有種，使要吃的有糧。
-> **我口所出的話也必如此，決不徒然返回，卻要成就我所喜悅的，在我發它去成就的事上必然亨通。**
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **新生命的實際：從約翰的預備到聖靈的降臨**：摩根指出，保羅在以弗所所遇見的十二人，是亞波羅事工結出的果子——他們是誠心跟隨耶穌、卻只認識約翰所啟示的那位耶穌的一群人。保羅向他們宣講完全的真理，他們便「藉著領受聖靈，進入了重生的實際」；此後保羅以以弗所為中心，兩年之久影響了整個亞細亞地區。
 
@@ -226,7 +193,52 @@ publisher: 三書精讀出版系統
 >
 > — G. Campbell Morgan, *The Acts of the Apostles*
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
+
+> "So mightily grew the Word of God and prevailed."
+>
+> 麥克阿瑟論到19:20這句總結，指出這正是全章的重點：撒但傾其邪術、偶像、暴民一切的權勢加起來對付這道，都不能得勝——真正得勝、大大興旺的，始終是神的道。
+>
+> — John MacArthur, *"Exorcism: True or False? Part 2"*（論徒19:13-20），Grace to You, gty.org
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 115:4-8
+
+> 他們的偶像是金的銀的，是人手所造的。 \
+> **有口卻不能言，有眼卻不能看，有耳卻不能聽，有鼻卻不能聞，有手卻不能摸，有腳卻不能走，有喉嚨也不能出聲。** \
+> 造他的要和他一樣，凡靠他的也要如此。
+
+### 以賽亞書 55:10-11
+
+> 雨雪從天而降並不返回，卻滋潤地土，使地上發芽結實，使撒種的有種，使要吃的有糧。 \
+> **我口所出的話也必如此，決不徒然返回，卻要成就我所喜悅的，在我發它去成就的事上必然亨通。**
+
+### A Mighty Fortress Is Our God（堅固保障歌）
+
+> *Martin Luther, 1529（Frederick H. Hedge 英譯, 1852）*
+>
+> A mighty fortress is our God, a bulwark never failing; \
+> Our helper He, amid the flood of mortal ills prevailing. \
+> And though this world, with devils filled, should threaten to undo us, \
+> We will not fear, for God hath willed His truth to triumph through us.
+>
+> 我神是我堅固保障，永不敗壞的兵器； \
+> 在患難中祂是幫助，是我隨時的力量； \
+> 縱然這世界充滿魔鬼，時刻要與我為難， \
+> 我不懼怕，因神已定，真理必藉我們得勝。
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：士基瓦七子想挪用一個名字卻被邪靈當面拆穿，五萬塊錢的邪術書一把火燒成灰燼——這一切喧囂與破產，最終都收束成路加最簡短也最有力的一句話：主的道，大大興旺，而且得勝。「五萬塊錢的書一把火燒了，沒有人回頭去撿一頁——真悔改，從來不留退路；真道，也從來不需要借別人的名字撐場面。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：「道」不是一套靜態的教義，而是一位活的主親自差出、親自成就的話。以賽亞早已宣告，神口中所出的話「決不徒然返回，卻要成就我所喜悅的」（賽55:11）；詩篇早就嘲笑那些「人手所造」、有口不能言的偶像（詩115:4-8）——這正是19章從頭到尾所演出的：一邊是「大大興旺，而且得勝」的道（19:20），一邊是連自己的祭司都保護不了的偶像經濟（19:24-27）。耶穌自己曾應許：「陰間的門不能勝過」祂所建立的教會（太16:18）；保羅在以弗所所經歷的，正是這句應許最早、最具體的一次上演——邪靈懼怕、邪術焚毀、偶像的守護者最終只能用行政程序解散一場控告不了甚麼的暴動。
 
 老弟兄把19:1-7這段十二人受聖靈的記載，接連到整本《約翰福音研讀》裏關於聖靈的教導（參《約翰福音研讀》全書領受總綱）：耶穌在馬可樓上應許「保惠師」要來、要「引導你們進入一切的真理」（約16:13），這應許不是在講一種模糊的宗教感受，而是要叫門徒進入一個具體、可分辨的新實際。以弗所這十二人，正是這應許在使徒行傳裏一次具體的落地——他們有敬虔、有悔改，卻還缺了那決定性的一步。
 
@@ -237,38 +249,6 @@ publisher: 三書精讀出版系統
 
 老弟兄常提醒查經班：這段經文不是要人否定自己過去真實的悔改與敬虔，而是要問一個更根本的問題——你所信的，是否已經連於那位釘死、復活、升天、澆灌聖靈的主？士基瓦七子恰好是這問題的反例：他們甚至不曾像那十二人一樣經歷過真實的悔改，只是想挪用一個他們毫不相干的名字，結果被邪靈當面拆穿。
 
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*A Mighty Fortress Is Our God*（堅固保障歌）
-
-> *Martin Luther, 1529（Frederic H. Hedge 英譯, 1852）*
->
-> A mighty fortress is our God, a bulwark never failing;
-> Our helper He, amid the flood of mortal ills prevailing.
-> And though this world, with devils filled, should threaten to undo us,
-> We will not fear, for God hath willed His truth to triumph through us.
->
-> 我神是我堅固保障，永不敗壞的兵器；
-> 在患難中祂是幫助，是我隨時的力量；
-> 縱然這世界充滿魔鬼，時刻要與我為難，
-> 我不懼怕，因神已定，真理必藉我們得勝。
-
-**詩篇**：詩篇 115:4-8
-
-> 他們的偶像是金的銀的，是人手所造的。
-> 有口卻不能言，有眼卻不能看，有耳卻不能聽，有鼻卻不能聞，有手卻不能摸，有腳卻不能走，有喉嚨也不能出聲。
-> 造他的要和他一樣，凡靠他的也要如此。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：「道」不是一套靜態的教義，而是一位活的主親自差出、親自成就的話。以賽亞早已宣告，神口中所出的話「決不徒然返回，卻要成就我所喜悅的」（賽55:11）；詩篇早就嘲笑那些「人手所造」、有口不能言的偶像（詩115:4-8）——這正是19章從頭到尾所演出的：一邊是「大大興旺，而且得勝」的道（19:20），一邊是連自己的祭司都保護不了的偶像經濟（19:24-27）。耶穌自己曾應許：「陰間的門不能勝過」祂所建立的教會（太16:18）；保羅在以弗所所經歷的，正是這句應許最早、最具體的一次上演——邪靈懼怕、邪術焚毀、偶像的守護者最終只能用行政程序解散一場控告不了甚麼的暴動。
-
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
@@ -276,7 +256,7 @@ publisher: 三書精讀出版系統
 - 先問：「以弗所十二人已經受了約翰的洗、已經悔改，為甚麼保羅還要再問他們『你們信的時候受了聖靈沒有』？」
 - 再問：「士基瓦七子奉『保羅所傳的耶穌』的名趕鬼，為甚麼邪靈認得耶穌、認得保羅，卻不認他們？」
 - 追問：「五萬塊錢的書，一把火燒掉——你覺得這些新信徒，捨得嗎？他們為甚麼捨得？」
-- 落到自己：「底米丟說『這保羅說人手所做的不是神』——我今天生活裏，有沒有一樣『人手所做』卻被我當作神一樣倚靠的東西？」
+- 落到自己：「底米丟說『這保羅說人手所做的不是神』——我今天生活裏，有沒有一樣『人手所做』卻被我當作神一樣倚靠的東西？如果邪靈能一眼看穿誰是真正屬主的人、誰只是在挪用祂的名字——我經得起這樣的辨認嗎？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
@@ -288,17 +268,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，我生命中有沒有一樣「邪術書卷」——一個舊倚靠、一個該燒掉卻還留著觀望的東西？
 - **一個行動**：今天為一件明知該徹底處理、卻一直留著退路的事，做出具體、不留後路的行動。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：士基瓦七子想挪用一個名字卻被邪靈當面拆穿，五萬塊錢的邪術書一把火燒成灰燼——這一切喧囂與破產，最終都收束成路加最簡短也最有力的一句話：主的道，大大興旺，而且得勝。
-
-**貫通全經**：「我口所出的話……決不徒然返回，卻要成就我所喜悅的」（賽55:11）與「主的道大大興旺，而且得勝」（19:20），是同一位主、同一句應許在歷史裏的兌現；偶像「有口卻不能言」（詩115:5），道卻活著、生長、得勝。
-
-**無法迴避的問題**：「如果邪靈能一眼看穿誰是真正屬主的人、誰只是在挪用祂的名字——你經得起這樣的辨認嗎？」
-
-> 「五萬塊錢的書一把火燒了，沒有人回頭去撿一頁——真悔改，從來不留退路；真道，也從來不需要借別人的名字撐場面。」
+**你看見耶穌了嗎？** 本章耶穌沒有露面，卻無處不在：邪靈開口第一句是「耶穌我認識」（19:15），全城懼怕之後「主耶穌的名從此就尊大了」（19:17）。以弗所滿城的偶像有口不能言，那位看不見的主卻天天在學房裏、在病人身上、在焚書的火光中說話——「道大大興旺」的背後，是那位活著的道自己在得勝。
 
 ---
 
@@ -308,20 +278,16 @@ publisher: 三書精讀出版系統
 
 1. **你受了聖靈沒有？**：像以弗所十二人一樣，你的信仰裏有沒有還停留在「悔改的預備」，卻未曾真正經歷與復活的主、與祂的靈連結的部分？
 
-2. **借用的名字**：士基瓦七子想挪用耶穌的名卻被拆穿——你有沒有在某些時候，只是把「信仰」當作標籤使用，卻沒有真正與主連結？
+2. **焚書的代價**：你生命中有沒有一樣像那五萬塊錢邪術書一樣的舊倚靠，你知道該徹底處理，卻還捨不得燒掉？
 
-3. **焚書的代價**：你生命中有沒有一樣像那五萬塊錢邪術書一樣的舊倚靠，你知道該徹底處理，卻還捨不得燒掉？
-
-4. **人手所做的不是神**：你今天生活中最容易倚靠的「亞底米」——金錢、名聲、關係、成就——是甚麼？
-
-5. **道的興旺**：推喇奴學房兩年天天的辯論，換來了「道大大興旺」——你在哪一件平凡卻持續的事上，願意像保羅一樣，天天擺上？
+3. **道的興旺**：推喇奴學房兩年天天的辯論，換來了「道大大興旺」——你在哪一件平凡卻持續的事上，願意像保羅一樣，天天擺上？
 
 ### 禱告回應
 
-> 主啊，感謝你藉著聖靈，使我不只是悔改的預備，更是真正與你聯合、重生的兒女。
-> 求你光照我生命中還未焚燒的舊倚靠——那些我口裏承認卻捨不得處理的東西。
-> 求你保守我不做挪用你名字卻與你毫無關係的人，乃是真實地連於你、順服你。
-> 求你使你的道在我裏面，也在我周圍，大大興旺，而且得勝。
+> 主啊，感謝你藉著聖靈，使我不只是悔改的預備，更是真正與你聯合、重生的兒女。 \
+> 求你光照我生命中還未焚燒的舊倚靠——那些我口裏承認卻捨不得處理的東西。 \
+> 求你保守我不做挪用你名字卻與你毫無關係的人，乃是真實地連於你、順服你。 \
+> 求你使你的道在我裏面，也在我周圍，大大興旺，而且得勝。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

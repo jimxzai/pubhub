@@ -24,17 +24,17 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Holy, Holy, Holy!**
+> **Holy, Holy, Holy!** \
 > *Reginald Heber, 1826*
 >
-> Holy, Holy, Holy! Lord God Almighty!
-> Early in the morning our song shall rise to Thee;
-> Holy, Holy, Holy! Merciful and mighty!
+> Holy, Holy, Holy! Lord God Almighty! \
+> Early in the morning our song shall rise to Thee; \
+> Holy, Holy, Holy! Merciful and mighty! \
 > God in three Persons, blessed Trinity!
 >
-> 聖哉、聖哉、聖哉！全能的主宰！
-> 清晨我的歌聲向你升起；
-> 聖哉、聖哉、聖哉！滿有憐憫大能！
+> 聖哉、聖哉、聖哉！全能的主宰！ \
+> 清晨我的歌聲向你升起； \
+> 聖哉、聖哉、聖哉！滿有憐憫大能！ \
 > 三一之神，配受稱頌直到永遠。
 
 ---
@@ -43,33 +43,33 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^有一個人名叫亞拿尼亞，同他的妻子撒非喇賣了田產，^2^把價銀私自留下幾份，他的妻子也知道，其餘的幾份拿來放在使徒腳前。^3^彼得說：「亞拿尼亞，為甚麼撒旦充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾份呢？^4^田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你做主嗎？你怎麼心裏起這意念呢？你不是欺哄人，是欺哄神了！」
+> ^1^有一個人名叫亞拿尼亞，同他的妻子撒非喇賣了田產，^2^把價銀私自留下幾分，他的妻子也知道，其餘的幾分拿來放在使徒腳前。^3^彼得說：「亞拿尼亞，為甚麼撒但充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾分呢？^4^田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你作主嗎？你怎麼心裏起這意念呢？你不是欺哄人，是欺哄神了！」
 
 > ^5^亞拿尼亞聽見這話，就仆倒，斷了氣。聽見的人都甚懼怕。^6^有些少年人起來，把他包裹，抬出去埋葬了。^7^約過了三小時，他的妻子進來，還不知道這事。^8^彼得對她說：「你告訴我，你們賣田地的價銀就是這些嗎？」她說：「就是這些。」^9^彼得說：「你們為甚麼同心試探主的靈呢？埋葬你丈夫之人的腳已到門口，他們也要把你抬出去。」^10^婦人立刻仆倒在彼得腳前，斷了氣。那些少年人進來，見她已經死了，就抬出去，埋在她丈夫旁邊。^11^全教會和聽見這事的人都甚懼怕。
 
 > ^17^大祭司和他的一切同人，就是撒都該教門的人，都起來，滿心忌恨，^18^就下手拿住使徒，收在外監。^19^但主的使者夜間開了監門，領他們出來，^20^說：「你們去站在殿裏，把這生命的道都講給百姓聽。」^21^使徒聽了這話，天將亮的時候就進殿裏去教訓人。
 
-> ^29^彼得和眾使徒回答說：「順從神不順從人，是應當的。^30^你們掛在木頭上殺害的耶穌，我們祖宗的神已經叫他復活。^31^神且用右手將他高舉，叫他做君王、做救主，將悔改的心和赦罪的恩賜給以色列人。^32^我們為這事作見證，神賜給順從之人的聖靈也為這事作見證。」
+> ^29^彼得和眾使徒回答說：「順從神不順從人，是應當的。^30^你們掛在木頭上殺害的耶穌，我們祖宗的神已經叫他復活。^31^神且用右手將他高舉，叫他作君王、作救主，將悔改的心和赦罪的恩賜給以色列人。^32^我們為這事作見證，神賜給順從之人的聖靈也為這事作見證。」
 
 > ^38^現在我勸你們不要管這些人，任憑他們吧！他們所謀的、所行的，若是出於人，必要敗壞；^39^若是出於神，你們就不能敗壞他們，恐怕你們倒是攻擊神了！」
 
 > ^41^他們離開公會，心裏歡喜，因被算是配為這名受辱。^42^他們就每日在殿裏、在家裏不住地教訓人，傳耶穌是基督。
 
-### English — ESV
+### English — NASB
 
-> ^3-4^But Peter said, "Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back for yourself part of the proceeds of the land? While it remained unsold, did it not remain your own? And after it was sold, was it not at your disposal? Why is it that you have contrived this deed in your heart? You have not lied to man but to God." ^5^When Ananias heard these words, he fell down and breathed his last. And great fear came upon all who heard of it.
+> ^3^But Peter said, "Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back *some* of the price of the land? ^4^While it remained *unsold,* did it not remain your own? And after it was sold, was it not under your control? Why is it that you have conceived this deed in your heart? You have not lied to men but to God." ^5^And as he heard these words, Ananias fell down and breathed his last; and great fear came over all who heard of it.
 
-> ^11^And great fear came upon the whole church and upon all who heard of these things.
+> ^11^And great fear came over the whole church, and over all who heard of these things.
 
-> ^19-20^But during the night an angel of the Lord opened the prison doors and brought them out, and said, "Go and stand in the temple and speak to the people all the words of this Life."
+> ^19^But during the night an angel of the Lord opened the gates of the prison, and taking them out he said, ^20^"Go, stand and speak to the people in the temple the whole message of this Life."
 
-> ^29-32^But Peter and the apostles answered, "We must obey God rather than men. The God of our fathers raised Jesus, whom you killed by hanging him on a tree. God exalted him at his right hand as Leader and Savior, to give repentance to Israel and forgiveness of sins. And we are witnesses to these things, and so is the Holy Spirit, whom God has given to those who obey him."
+> ^29^But Peter and the apostles answered, "We must obey God rather than men. ^30^The God of our fathers raised up Jesus, whom you had put to death by hanging Him on a cross. ^31^He is the one whom God exalted to His right hand as a Prince and a Savior, to grant repentance to Israel, and forgiveness of sins. ^32^And we are witnesses of these things; and *so is* the Holy Spirit, whom God has given to those who obey Him."
 
-> ^38-39^"Keep away from these men and let them alone, for if this plan or this undertaking is of man, it will fail; but if it is of God, you will not be able to overthrow them."
+> ^38^"So in the present case, I say to you, stay away from these men and let them alone, for if this plan or action is of men, it will be overthrown; ^39^but if it is of God, you will not be able to overthrow them; or else you may even be found fighting against God."
 
-> ^41^Then they left the presence of the council, rejoicing that they were counted worthy to suffer dishonor for the name.
+> ^41^So they went on their way from the presence of the Council, rejoicing that they had been considered worthy to suffer shame for *His* name.
 
-**經文核對**：[ai-eden.com/bible/acts/5](https://www.ai-eden.com/bible/acts/5?t=CUV,ESV&cols=2)（CUV 逐字核對自 [cnbible.com/cuvmpt/acts/5](https://cnbible.com/cuvmpt/acts/5.htm)）
+**經文核對**：[ai-eden.com/bible/acts/5](https://www.ai-eden.com/bible/acts/5?t=CUV,NASB&cols=2)（CUV 逐字核對自 [cnbible.com/cuvmpt/acts/5](https://cnbible.com/cuvmpt/acts/5.htm)）
 
 ---
 
@@ -94,7 +94,7 @@ publisher: 三書精讀出版系統
 
 | 段落 | 場景 | 結果 |
 |---------------------------|---------------------------|---------------------------|
-| 5:1-11 | 教會內部：亞拿尼亞夫婦欺哄聖靈 | 全教會「大大懼怕」（5:5, 11） |
+| 5:1-11 | 教會內部：亞拿尼亞夫婦欺哄聖靈 | 全教會「甚懼怕」（5:5, 11） |
 | 5:12-16 | 教會外部：使徒行神蹟，百姓歸主 | 信而歸主的人越發增添 |
 | 5:17-26 | 公會拘捕使徒 | 天使開監門，使徒仍在殿裏講道 |
 | 5:27-42 | 使徒受審、被鞭打 | 使徒因「配為這名受辱」而歡喜（5:41） |
@@ -116,11 +116,11 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 大大懼怕——聖潔教會的記號
+### 1. 甚懼怕——聖潔教會的記號
 
-「大大懼怕」在本章出現兩次（5:5, 11），這不是迷信式的驚駭，是神在教會誕生之初親自向教會宣告：祂是聖潔的神，不能與虛假同住。這份懼怕不是攔阻，反倒使「其餘的人沒有一個敢貼近他們」（5:13）——世界對假冒的懼怕與對聖潔的敬畏，成了教會可信度的保障。
+「甚懼怕」（φόβος μέγας，直譯「大大的懼怕」）在本章出現兩次（5:5, 11），這不是迷信式的驚駭，是神在教會誕生之初親自向教會宣告：祂是聖潔的神，不能與虛假同住。這份懼怕不是攔阻，反倒使「其餘的人沒有一個敢貼近他們」（5:13）——世界對假冒的懼怕與對聖潔的敬畏，成了教會可信度的保障。
 
 ### 2. 欺哄聖靈就是欺哄神——聖靈的神性
 
@@ -146,60 +146,25 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
-**屈梭多模 (Chrysostom)**:
-
+**屈梭多模 (Chrysostom)**：
 > "And great fear, it is said, came on all them that heard these things. That man was punished, and others profited thereby."
 >
 > 「經上說，聽見這些事的人都大大懼怕。那人受了懲罰，別人卻因此得了益處。」——屈梭多模接著引詩篇9:16「耶和華已將自己顯明，他已施行審判」，指出雖然此前已有神蹟行過，卻沒有這樣的懼怕臨到，正因這是神親自施行審判的記號。
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*，**Homily XII**（論徒5:1-11），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*，**Homily XII**（論徒5:1-11），NPNF1-11
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin)**:
-
+**約翰·加爾文 (John Calvin)**：
 > "He saith that he lieth to God who doth lie to the Holy Ghost. For the divinity of the Holy Ghost is manifestly proved by this form of speech."
 >
 > 他說，欺哄聖靈的，就是欺哄神——聖靈的神性，藉這樣的說法清楚地被證明了。
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*, 徒5:4 注（CCEL, calcom36）
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**:
-
-> "No one is so ugly in God's eyes as those who paint spiritual beauty on faces where there is none."
->
-> 「在神眼中，沒有一種醜陋，能勝過那些在毫無屬靈美善之處，硬要畫上一層屬靈美善的人。」
->
-> — John MacArthur, *"When Sin Entered the Church, Part 1"*（sermon 44-19，論徒5:1-11），Grace to You, gty.org
-
-麥克阿瑟另在論及「大大懼怕」時指出，5:5 的懼怕帶出了5:13 的果效——「其餘的人沒有一個敢貼近他們」，一個聖潔而不妥協的教會，本身就是一種見證；他也在講道系列中提醒，迦瑪列「若是出於人必自敗壞，若是出於神你們不能敗壞」的建議，實質上是一種以成敗論真偽的實用主義判準，而非以聖經本身為判準的信心表態——這正是使徒行傳留給讀者、迦瑪列自己卻未曾解答的問題。
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 130:3-4
-
-> 主耶和華啊，你若究察罪孽，誰能站得住呢？
-> **但在你有赦免之恩，要叫人敬畏你。**
-
-### 箴言 9:10
-
-> **敬畏耶和華是智慧的開端**，認識至聖者便是聰明。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **這是神的作為，不是教會的刑罰**：摩根特別提醒，彼得對亞拿尼亞的宣判，並非一句咒詛的話語，也不是教會領袖擅自動用的權柄。
 
@@ -225,7 +190,52 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳第五章釋經）
 
-### 老弟兄查經洞見 (Thursday Class Insights)
+### 麥克阿瑟 (John MacArthur)
+
+
+> "No one is so ugly in God's eyes as those who paint spiritual beauty on faces where there is none."
+>
+> 「在神眼中，沒有一種醜陋，能勝過那些在毫無屬靈美善之處，硬要畫上一層屬靈美善的人。」
+>
+> — John MacArthur, *"When Sin Entered the Church, Part 1"*（sermon 44-19，論徒5:1-11），Grace to You, gty.org
+
+麥克阿瑟另在論及「甚懼怕」時指出，5:5 的懼怕帶出了5:13 的果效——「其餘的人沒有一個敢貼近他們」，一個聖潔而不妥協的教會，本身就是一種見證；他也在講道系列中提醒，迦瑪列「若是出於人必自敗壞，若是出於神你們不能敗壞」的建議，實質上是一種以成敗論真偽的實用主義判準，而非以聖經本身為判準的信心表態——這正是使徒行傳留給讀者、迦瑪列自己卻未曾解答的問題。
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 130:3-4
+
+> 主耶和華啊，你若究察罪孽，誰能站得住呢？ \
+> **但在你有赦免之恩，要叫人敬畏你。**
+
+### 箴言 9:10
+
+> **敬畏耶和華是智慧的開端**，認識至聖者便是聰明。
+
+### 詩篇 34:7
+
+> 耶和華的使者在敬畏他的人四圍安營，搭救他們。
+
+### Am I a Soldier of the Cross?（我豈是行軍打仗）
+
+> Am I a soldier of the cross, \
+> A follower of the Lamb, \
+> And shall I fear to own His cause, \
+> Or blush to speak His name?
+>
+> *Isaac Watts, 1724*
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：欺哄教會，就是欺哄那住在教會中間的聖靈；而順從神過於順從人所付上的代價，在神眼中反而是配得的榮耀。「你不是欺騙人，是欺騙神了——這句話，今天一樣真實。而配為這名受辱的喜樂，也一樣真實。」
+
+### 全經連線 (Tracing It Through Scripture)
+
+鑰匙：懼怕耶和華是智慧的開端（箴9:10），而在祂有赦免之恩，也要叫人敬畏祂（詩130:4）——這兩句話同時應驗在本章。亞拿尼亞夫婦所遇見的懼怕，是審判的懼怕；使徒在受辱之後所存留的，卻是「配為這名」的喜樂——同一位神，藉同一位聖靈，向不誠實的心顯出烈怒，向忠心的見證顯出保守。天使夜間開監門（5:19），正如詩篇34:7「耶和華的使者在敬畏他的人四圍安營」；而「順從神不順從人，是應當的」（5:29），把這章接到但以理三個朋友在火窯前的宣告（但3:16-18）——凡真敬畏神的人，遲早都要面對「順從神，還是順從人」這道無法迴避的選擇。
 
 老弟兄將本章的「私自留下」（νοσφίζομαι）與亞干在耶利哥城「私自留下」當滅之物（約書亞記7:1）並列，兩處是七十士譯本同一個字：
 
@@ -234,36 +244,11 @@ publisher: 三書精讀出版系統
 | 罪的性質 | 私自留下當滅之物 | 私自留下奉獻的一部分 |
 | 隱藏的方式 | 埋在自己帳棚底下 | 假裝獻上全部價銀 |
 | 神的對付 | 全以色列在艾城打敗仗，直到罪被清除 | 亞拿尼亞夫婦當場仆倒斷氣 |
-| 群體的反應 | 以色列人「甚懼怕」（暗示） | 全教會「大大懼怕」（5:11） |
+| 群體的反應 | 以色列人「甚懼怕」（暗示） | 全教會「甚懼怕」（5:11） |
 
 老弟兄常說：神在兩處都用同一個方式對付罪——不是輕輕放過，是嚴嚴地清除，好叫祂的百姓知道：祂是聖潔的神，不能與虛假同住。他把這功課接到希伯來書10:31「落在永生神的手裏，真是可怕的」，說：這句話不是要人終日戰兢，是要人明白——一個真實敬畏神的教會，比一個表面熱鬧卻容讓虛假的教會，更蒙神悅納。
 
 老弟兄也留意到，5:41 使徒「配為這名受辱」的喜樂，與馬太福音5:11-12「人若因我辱罵你們……應當歡喜快樂」直接呼應——這不是使徒臨場發明的態度，是耶穌早已教過他們的功課，如今第一次被活出來。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Am I a Soldier of the Cross?*（我豈是行軍打仗）
-
-> Am I a soldier of the cross,
-> A follower of the Lamb,
-> And shall I fear to own His cause,
-> Or blush to speak His name?
->
-> *Isaac Watts, 1724*
-
-**詩篇**：詩篇 34:7
-
-> 耶和華的使者在敬畏他的人四圍安營，搭救他們。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：懼怕耶和華是智慧的開端（箴9:10），而在祂有赦免之恩，也要叫人敬畏祂（詩130:4）——這兩句話同時應驗在本章。亞拿尼亞夫婦所遇見的懼怕，是審判的懼怕；使徒在受辱之後所存留的，卻是「配為這名」的喜樂——同一位神，藉同一位聖靈，向不誠實的心顯出烈怒，向忠心的見證顯出保守。天使夜間開監門（5:19），正如詩篇34:7「耶和華的使者在敬畏他的人四圍安營」；而「你們必須順從神不順從人」（5:29），把這章接到但以理三個朋友在火窯前的宣告（但3:16-18）——凡真敬畏神的人，遲早都要面對「順從神，還是順從人」這道無法迴避的選擇。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -272,7 +257,7 @@ publisher: 三書精讀出版系統
 - 先問：「亞拿尼亞的田地，賣不賣、留多少，神管過嗎？（5:4）那神真正在意的是甚麼？」
 - 再問：「同一章裏，懼怕（5:5, 11）和歡喜（5:41）怎麼會出自同一群人、同一位聖靈？」
 - 追問：「迦瑪列說『若是出於神，你們就不能敗壞他們』——這句話說對了一半，你覺得哪一半他沒說？」
-- 落到自己：「你在神面前，是那種『大大懼怕』的敬畏，還是把神當作可以私下留一手的對象？」
+- 落到自己：「你在神面前，是那種『甚懼怕』的敬畏，還是把神當作可以私下留一手的對象？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
@@ -284,17 +269,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，我有沒有為了讓人稱讚，而誇大或修飾了我所做的事？我今天是否為堅持真理而付上了甚麼代價？
 - **一個行動**：找一件你一直悄悄「留下一部分」沒有全然交託給神的事——時間、金錢、或某個關係——今天完全交託。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：欺哄教會，就是欺哄那住在教會中間的聖靈；而順從神過於順從人所付上的代價，在神眼中反而是配得的榮耀。
-
-**貫通全經**：亞干在耶利哥「私自留下」當滅之物（書7:1），亞拿尼亞夫婦「私自留下」奉獻的一部分（徒5:2）——同一個字，同一個警告；懼怕耶和華是智慧的開端（箴9:10），在祂也有赦免之恩，叫人敬畏祂（詩130:4）——本章的懼怕與喜樂，正是這兩句話同時成就。
-
-**無法迴避的問題**：「你今天所呈現給人看的『屬靈』，禁得起聖靈鑒察你心裏真實的光景嗎？」
-
-> 「你不是欺騙人，是欺騙神了——這句話，今天一樣真實。而配為這名受辱的喜樂，也一樣真實。」
+**你看見耶穌了嗎？** 這一章最重的一句話，不是彼得對亞拿尼亞的宣判，是使徒對公會的宣告：「你們掛在木頭上殺害的耶穌，我們祖宗的神已經叫他復活，神且用右手將他高舉，叫他作君王、作救主」（5:30-31）。那位鑒察教會、潔淨教會的，與那位賜下悔改赦罪之恩的，是同一位——祂聖潔到容不下一個謊言，也恩慈到把悔改的心親自賜給殺害祂的人。
 
 ---
 
@@ -304,21 +279,17 @@ publisher: 三書精讀出版系統
 
 1. **真誠與奉獻**：你的奉獻、服事、見證，是出於真誠，還是為了在人前留下某種形象？
 
-2. **懼怕的性質**：你對神的懼怕，是那種叫人遠離祂的驚駭，還是那種叫人不敢對祂虛假、卻更親近祂的敬畏？
+2. **苦難的定義**：你曾經因為堅持信仰而付上代價嗎？你心裏把那次經歷看作羞辱，還是看作「配得」的印記？
 
-3. **順從的次序**：當人的期待或壓力，與神清楚的話語相衝突時，你實際上會順從哪一邊？
-
-4. **苦難的定義**：你曾經因為堅持信仰而付上代價嗎？你心裏把那次經歷看作羞辱，還是看作「配得」的印記？
-
-5. **神蹟指向誰**：你今天所倚靠的，是某個屬靈偉人的名聲，還是那位藉軟弱的器皿仍然作工的主？
+3. **神蹟指向誰**：你今天所倚靠的，是某個屬靈偉人的名聲，還是那位藉軟弱的器皿仍然作工的主？
 
 ### 禱告回應
 
-> 主啊，求祢鑒察我的心，除去我裏面一切假冒為善的成分。
-> 讓我無論奉獻、服事、或見證，都出於真誠，不為討人的稱讚。
-> 求祢賜我像使徒一樣的敬畏——不是叫我遠離祢的驚駭，是叫我不敢對祢虛假的敬重。
-> 當人的期待與祢的話語相衝突時，求祢給我「必須順從神」的勇氣。
-> 也求祢使我在為祢的名受辱的時候，仍能存著配得的喜樂。
+> 主啊，求祢鑒察我的心，除去我裏面一切假冒為善的成分。 \
+> 讓我無論奉獻、服事、或見證，都出於真誠，不為討人的稱讚。 \
+> 求祢賜我像使徒一樣的敬畏——不是叫我遠離祢的驚駭，是叫我不敢對祢虛假的敬重。 \
+> 當人的期待與祢的話語相衝突時，求祢給我「必須順從神」的勇氣。 \
+> 也求祢使我在為祢的名受辱的時候，仍能存著配得的喜樂。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---
@@ -328,7 +299,7 @@ publisher: 三書精讀出版系統
 | 主題 | 本章經文 | 相關經文 |
 |------------------|-------------------------------|-------------------------------|
 | 私自留下、欺哄神 | 5:1-4 | 書7:1、王下5:20-27 |
-| 大大懼怕 | 5:5, 11 | 詩130:3-4、箴9:10、來10:31 |
+| 甚懼怕 | 5:5, 11 | 詩130:3-4、箴9:10、來10:31 |
 | 聖靈的神性 | 5:3-4 | 林前3:16、林後3:17-18 |
 | 神蹟指向基督 | 5:12-16 | 徒2:22、約14:12 |
 | 監獄攔不住道 | 5:17-21 | 徒12:6-11；16:25-26；23:11；28:31 |

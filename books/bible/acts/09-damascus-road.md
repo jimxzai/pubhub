@@ -18,23 +18,23 @@ publisher: 三書精讀出版系統
 > **1:8 座標**：仍在卷二「猶太全地和撒瑪利亞——門被推開」之內；但這一次，被推開的不是一個地區的門，而是一個逼迫者本人的心門——復活的主親自出手，把祂日後要用來把福音帶到「地極」（卷三、卷四）的器皿，從迫害教會的路上揀選出來。 \
 > （全書骨幹見卷首《見證——全書的骨幹》）
 
-這一章沒有一節是掃羅自己策劃出來的。他出發時，手裏拿著大祭司的信，心裏只有一個目的地；半路上，天上的光把他打倒在地，主動說話的是耶穌，主動揀選的是耶穌，主動打發亞拿尼亞去按手的還是耶穌。從基督的角度讀，這不是一個熱心宗教人士的「悔改故事」，而是那位已經復活、坐在寶座上的主，繼續祂在地上「開頭行的和教訓的」（路1:1）——祂親自介入歷史，把最兇悍的逼迫者，變成祂名下「揀選的器皿」。彼得在呂大、約帕行的兩件神蹟也一樣：他對癱子只說一句話——「耶穌基督醫好你了」（9:34）——連使徒自己都清楚，這一章從頭到尾，做工的都是耶穌基督。
+這一章沒有一節是掃羅自己策劃出來的。他出發時，手裏拿著大祭司的信，心裏只有一個目的地；半路上，天上的光把他打倒在地，主動說話的是耶穌，主動揀選的是耶穌，主動打發亞拿尼亞去按手的還是耶穌。從基督的角度讀，這不是一個熱心宗教人士的「悔改故事」，而是那位已經復活、坐在寶座上的主，繼續祂在地上「開頭行的和教訓的」（徒1:1）——祂親自介入歷史，把最兇悍的逼迫者，變成祂名下「揀選的器皿」。彼得在呂大、約帕行的兩件神蹟也一樣：他對癱子只說一句話——「耶穌基督醫好你了」（9:34）——連使徒自己都清楚，這一章從頭到尾，做工的都是耶穌基督。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Amazing Grace**
+> **Amazing Grace** \
 > *John Newton, 1779*
 >
-> Amazing grace! How sweet the sound,
-> That saved a wretch like me!
-> I once was lost, but now am found,
+> Amazing grace! How sweet the sound, \
+> That saved a wretch like me! \
+> I once was lost, but now am found, \
 > Was blind, but now I see.
 >
-> 奇異恩典，何等甘甜，
-> 我罪已得赦免；
-> 前我失喪，今被尋回，
+> 奇異恩典，何等甘甜， \
+> 我罪已得赦免； \
+> 前我失喪，今被尋回， \
 > 瞎眼今得看見。
 
 ---
@@ -43,7 +43,7 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^掃羅仍然向主的門徒口吐威嚇凶殺的話，去見大祭司，^2^求文書給大馬色的各會堂，若是找著信奉這道的人，無論男女，都准他捆綁帶到耶路撒冷。^3^掃羅行路，將到大馬色，忽然從天上發光，四面照著他。^4^他就仆倒在地，聽見有聲音對他說：\jesus{「掃羅！掃羅！你為甚麼逼迫我？」}^5^他說：「主啊，你是誰？」主說：\jesus{「我就是你所逼迫的耶穌。}^6^\jesus{起來！進城去，你所當做的事，必有人告訴你。」}^7^同行的人站在那裏，說不出話來，聽見聲音，卻看不見人。^8^掃羅從地上起來，睜開眼睛，竟不能看見甚麼。有人拉他的手，領他進了大馬色。^9^三日不能看見，也不吃也不喝。
+> ^1^掃羅仍然向主的門徒口吐威嚇兇殺的話，去見大祭司，^2^求文書給大馬色的各會堂，若是找著信奉這道的人，無論男女，都准他捆綁帶到耶路撒冷。^3^掃羅行路，將到大馬色，忽然從天上發光，四面照著他。^4^他就仆倒在地，聽見有聲音對他說：\jesus{「掃羅！掃羅！你為甚麼逼迫我？」}^5^他說：「主啊，你是誰？」主說：\jesus{「我就是你所逼迫的耶穌。}^6^\jesus{起來！進城去，你所當做的事，必有人告訴你。」}^7^同行的人站在那裏，說不出話來，聽見聲音，卻看不見人。^8^掃羅從地上起來，睜開眼睛，竟不能看見甚麼。有人拉他的手，領他進了大馬色。^9^三日不能看見，也不吃也不喝。
 
 > ^10^當下，在大馬色有一個門徒，名叫亞拿尼亞。主在異象中對他說：\jesus{「亞拿尼亞！」}他說：「主，我在這裏。」^11^主對他說：\jesus{「起來！往直街去，在猶大的家裏訪問一個大數人，名叫掃羅。他正禱告，}^12^\jesus{又看見了一個人，名叫亞拿尼亞，進來按手在他身上，叫他能看見。」}^13^亞拿尼亞回答說：「主啊，我聽見許多人說這人怎樣在耶路撒冷多多苦害你的聖徒，^14^並且他在這裏有從祭司長得來的權柄，捆綁一切求告你名的人。」^15^主對亞拿尼亞說：\jesus{「你只管去！他是我所揀選的器皿，要在外邦人和君王並以色列人面前宣揚我的名。}^16^\jesus{我也要指示他，為我的名必須受許多的苦難。」}
 
@@ -57,23 +57,23 @@ publisher: 三書精讀出版系統
 
 > ^36^在約帕有一個女徒，名叫大比大，翻希利尼話就是多加。她廣行善事，多施賙濟。^37^當時，她患病而死，有人把她洗了，停在樓上。^38^呂大原與約帕相近，門徒聽見彼得在那裏，就打發兩個人去見他，央求他說：「快到我們那裏去，不要耽延！」^39^彼得就起身和他們同去。到了，便有人領他上樓。眾寡婦都站在彼得旁邊哭，拿多加與她們同在時所做的裏衣外衣給他看。^40^彼得叫她們都出去，就跪下禱告，轉身對著死人說：「大比大，起來！」她就睜開眼睛，見了彼得，便坐起來。^41^彼得伸手扶她起來，叫眾聖徒和寡婦進去，把多加活活地交給他們。^42^這事傳遍了約帕，就有許多人信了主。^43^此後，彼得在約帕一個硝皮匠西門的家裏住了多日。
 
-### English — ESV
+### English — NASB
 
-> ^1^But Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest ^3^Now as he went on his way, he approached Damascus, and suddenly a light from heaven shone around him. ^4^And falling to the ground, he heard a voice saying to him, \jesus{"Saul, Saul, why are you persecuting me?"} ^5^And he said, "Who are you, Lord?" And he said, \jesus{"I am Jesus, whom you are persecuting.} ^6^\jesus{But rise and enter the city, and you will be told what you are to do."} ^8^Saul rose from the ground, and although his eyes were opened, he saw nothing. ^9^And for three days he was without sight, and neither ate nor drank.
+> ^1^Now Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest, ^3^As he was traveling, it happened that he was approaching Damascus, and suddenly a light from heaven flashed around him; ^4^and he fell to the ground and heard a voice saying to him, \jesus{"Saul, Saul, why are you persecuting Me?"} ^5^And he said, "Who are You, Lord?" And He *said,* \jesus{"I am Jesus whom you are persecuting,} ^6^\jesus{but get up and enter the city, and it will be told you what you must do."} ^8^Saul got up from the ground, and though his eyes were open, he could see nothing; and leading him by the hand, they brought him into Damascus. ^9^And he was three days without sight, and neither ate nor drank.
 
-> ^10^Now there was a disciple at Damascus named Ananias. The Lord said to him in a vision, \jesus{"Ananias."} And he said, "Here I am, Lord." ^11^And the Lord said to him, \jesus{"Rise and go to the street called Straight, and at the house of Judas look for a man of Tarsus named Saul, for behold, he is praying,} ^13^But Ananias answered, "Lord, I have heard from many about this man, how much evil he has done to your saints at Jerusalem. ^14^And here he has authority from the chief priests to bind all who call on your name." ^15^But the Lord said to him, \jesus{"Go, for he is a chosen instrument of mine to carry my name before the Gentiles and kings and the children of Israel.} ^16^\jesus{For I will show him how much he must suffer for the sake of my name."}
+> ^10^Now there was a disciple at Damascus named Ananias; and the Lord said to him in a vision, \jesus{"Ananias."} And he said, "Here I am, Lord." ^11^And the Lord *said* to him, \jesus{"Get up and go to the street called Straight, and inquire at the house of Judas for a man from Tarsus named Saul, for he is praying,} ^13^But Ananias answered, "Lord, I have heard from many about this man, how much harm he did to Your saints at Jerusalem; ^14^and here he has authority from the chief priests to bind all who call on Your name." ^15^But the Lord said to him, \jesus{"Go, for he is a chosen instrument of Mine, to bear My name before the Gentiles and kings and the sons of Israel;} ^16^\jesus{for I will show him how much he must suffer for My name's sake."}
 
-> ^17^So Ananias departed and entered the house. And laying his hands on him he said, "Brother Saul, the Lord Jesus who appeared to you on the road by which you came has sent me so that you may regain your sight and be filled with the Holy Spirit." ^18^And immediately something like scales fell from his eyes, and he regained his sight. Then he rose and was baptized; ^20^And immediately he proclaimed Jesus in the synagogues, saying, "He is the Son of God." ^22^But Saul increased all the more in strength, and confounded the Jews who lived in Damascus by proving that Jesus was the Christ.
+> ^17^So Ananias departed and entered the house, and after laying his hands on him said, "Brother Saul, the Lord Jesus, who appeared to you on the road by which you were coming, has sent me so that you may regain your sight and be filled with the Holy Spirit." ^18^And immediately there fell from his eyes something like scales, and he regained his sight, and he got up and was baptized; ^20^and immediately he *began* to proclaim Jesus in the synagogues, saying, "He is the Son of God." ^22^But Saul kept increasing in strength and confounding the Jews who lived at Damascus by proving that this *Jesus* is the Christ.
 
-> ^25^but his disciples took him by night and let him down through an opening in the wall, lowering him in a basket.
+> ^25^but his disciples took him by night and let him down through *an opening in* the wall, lowering him in a large basket.
 
-> ^27^But Barnabas took him and brought him to the apostles and declared to them how on the road he had seen the Lord, who spoke to him, and how at Damascus he had preached boldly in the name of Jesus. ^31^So the church throughout all Judea and Galilee and Samaria had peace and was being built up. And walking in the fear of the Lord and in the comfort of the Holy Spirit, it multiplied.
+> ^27^But Barnabas took hold of him and brought him to the apostles and described to them how he had seen the Lord on the road, and that He had talked to him, and how at Damascus he had spoken out boldly in the name of Jesus. ^31^So the church throughout all Judea and Galilee and Samaria enjoyed peace, being built up; and going on in the fear of the Lord and in the comfort of the Holy Spirit, it continued to increase.
 
-> ^34^And Peter said to him, "Aeneas, Jesus Christ heals you; rise and make your bed." And immediately he rose.
+> ^34^Peter said to him, "Aeneas, Jesus Christ heals you; get up and make your bed." Immediately he got up.
 
-> ^40^But Peter put them all outside, and knelt down and prayed; and turning to the body he said, "Tabitha, arise." And she opened her eyes, and when she saw Peter she sat up. ^41^And he gave her his hand and raised her up. Then, calling the saints and widows, he presented her alive.
+> ^40^But Peter sent them all out and knelt down and prayed, and turning to the body, he said, "Tabitha, arise." And she opened her eyes, and when she saw Peter, she sat up. ^41^And he gave her his hand and raised her up; and calling the saints and widows, he presented her alive.
 
-**經文核對**：[ai-eden.com/bible/acts/9](https://www.ai-eden.com/bible/acts/9?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/9](https://www.ai-eden.com/bible/acts/9?t=CUV,NASB&cols=2)
 
 ---
 
@@ -81,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ### 逼迫者掃羅
 
-掃羅是大數人，按法利賽人嚴格的律法受教於迦瑪列門下（22:3），司提反被石頭打死時，他就在場看守衣服，並且贊同這事（7:58；8:1）。8:3描寫他「殘害教會，挨家挨戶地進去，拉著男女關在監裏」——本章開頭「口吐威嚇凶殺的話」是這股逼迫的延續與升級：他不滿足於在耶路撒冷搜捕，還主動向大祭司求文書，要把逼迫的範圍擴大到大馬色。
+掃羅是大數人，按法利賽人嚴格的律法受教於迦瑪列門下（22:3），司提反被石頭打死時，他就在場看守衣服，並且贊同這事（7:58；8:1）。8:3描寫他「殘害教會，挨家挨戶地進去，拉著男女關在監裏」——本章開頭「口吐威嚇兇殺的話」是這股逼迫的延續與升級：他不滿足於在耶路撒冷搜捕，還主動向大祭司求文書，要把逼迫的範圍擴大到大馬色。
 
 ### 大馬色路
 
@@ -114,11 +114,11 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 逼迫祂的百姓，就是逼迫祂自己
 
-「你為甚麼逼迫我」（9:4）——掃羅逼迫的對象明明是教會，耶穌卻說「逼迫我」。這一句話宣告了教會與基督聯合為一體的奧祕：教會是基督的身體，凡加害教會的，就是加害元首基督自己。這不是比喻上的說法，是本章最先揭曉、也最深刻的神學命題。
+「你為甚麼逼迫我」（9:4）——掃羅逼迫的對象明明是教會，耶穌卻說「逼迫我」。這一句話宣告了教會與基督聯合為一體的奧祕：教會是基督的身體，凡加害教會的，就是加害元首基督自己。這不是比喻上的說法，是本章最先揭曉、也最深刻的領受。
 
 ### 2. 揀選在先，苦難隨後——次序不能顛倒
 
@@ -144,10 +144,6 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
-
 ### 教父時期
 
 **屈梭多模 (Chrysostom)**：
@@ -156,15 +152,25 @@ publisher: 三書精讀出版系統
 >
 > 「懼怕顯明出來了，而懼怕之後的順服，更顯得大。」——屈梭多模論亞拿尼亞聽見掃羅惡名時的反應，指出他先誠實說出懼怕，然後仍然順服前去，這份「懼怕之後的順服」比毫無懼怕的順服更加寶貴。
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XX**（論徒9:10-25），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XX**（論徒9:10-25），NPNF1-11
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**：加爾文在《使徒行傳注釋》論9:15「揀選的器皿」時指出，「器皿」（vas／skeuos）一詞的重點不在掃羅本身多有能力，而在神是使用者、人是被使用的工具——工作能成就，權柄與能力都出於神一人，人不過是神隨己意使用的器皿。這與加爾文一貫「唯獨神的主權」的釋經立場一致：呼召的起始、恩典的臨到、事奉的果效，都繫於神，不繫於器皿本身的資格。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**逼迫者變成了被逼迫的人**：摩根對本章最凝練的一句總結，是掃羅身分的徹底逆轉——那個原本要把基督徒捆綁帶回耶路撒冷受審的人，此後半生反倒成了被同一批人追殺、被下在監裏、被鞭打棍打的對象（見林後11:23-27）。摩根提醒讀者，這逆轉不是掃羅意志力的產物，而是耶穌親自出來攔住了他。
+
+**亞拿尼亞的順服，是全章一個安靜卻不可少的環節**：摩根特別看重亞拿尼亞這個只在此處出現、此後再無記載的小人物——他隨時預備好聽命於主，毫不遲疑，也帶著弟兄的愛心，執行了一件在人看來極不合理、甚至有生命危險的命令。摩根認為，若沒有亞拿尼亞這一步順服，掃羅悔改的故事就缺了關鍵一環：神的呼召固然是超自然的異象，但祂仍然選擇透過一個普通門徒的手，把恩典具體地按在掃羅身上。
+
+**三次重述的份量**：摩根注意到路加在全書中三度完整敘述掃羅的悔改（9章、22章、26章），份量遠超書中任何其他單一事件，這反映出路加（以及初代教會）如何看待這件事的地位——它不只是一個人的得救見證，更是整個外邦宣教運動起頭的樞紐時刻。
+
+**呂大、約帕的神蹟不是插曲**：摩根提醒讀者不要把9:32-43當作可有可無的補充材料——彼得在此處行的兩件神蹟，一方面延續了「奉耶穌的名」（而非彼得自己的能力）這條主線（9:34「耶穌基督醫好你了」），另一方面把敘事的地理座標，穩穩地安放在約帕、安放在「硝皮匠西門的家裏」（9:43）——這正是第十章哥尼流異象展開的地點。
+
+> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳9章釋經）
+
+### 麥克阿瑟 (John MacArthur)
 
 > "To persecute any of His people is to persecute Him, that He is inseparable from His people."
 >
@@ -180,11 +186,11 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 耶利米書 1:5
 
-> 我未將你造在腹中，我已曉得你；你未出母胎，我已分別你為聖。我已派你做列國的先知。
+> 我未將你造在腹中，我已曉得你；你未出母胎，我已分別你為聖。我已派你作列國的先知。
 
 先知的呼召與使徒的揀選是同一個模式：不是先看資格，是神先揀選、後差遣。掃羅在母腹中就已被分別出來，只是他自己直到大馬色路上才知道。
 
@@ -192,27 +198,31 @@ publisher: 三書精讀出版系統
 
 > 我又聽見主的聲音說：「我可以差遣誰呢？誰肯為我們去呢？」我說：「我在這裏，請差遣我！」
 
-亞拿尼亞在異象中回答主：「主，我在這裏」（9:10），與以賽亞的回答一字不差。懼怕與敬畏可以並存於同一顆順服的心裏——以賽亞先看見自己嘴唇不潔，亞拿尼亞先列出掃羅的惡行，兩人都是先誠實，然後才回應「我在這裏」。
+亞拿尼亞在異象中回答主：「主，我在這裏」（9:10），與以賽亞的回答如出一轍。懼怕與敬畏可以並存於同一顆順服的心裏——以賽亞先看見自己嘴唇不潔，亞拿尼亞先列出掃羅的惡行，兩人都是先誠實，然後才回應「我在這裏」。
+
+### Take My Life and Let It Be（將我一生獻給你）
+
+> Take my life, and let it be \
+> Consecrated, Lord, to Thee; \
+> Take my moments and my days, \
+> Let them flow in ceaseless praise.
+>
+> 將我一生獻給你， \
+> 主啊求你悅納我； \
+> 將我歲月與時光， \
+> 化作不絕的頌揚。
+
+*Frances Ridley Havergal, 1874*
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+**精義一句話**：大馬色路上被擊倒的，不只是掃羅的身體，是他一整套「靠自己的熱心事奉神」的世界觀——從那一刻起，他所有的能力，都成了主手中一件被揀選、也註定要受苦的器皿。「揀選在先，苦難隨後——次序從不顛倒。你若被揀選作器皿，就不要驚訝苦難隨之而來；你若正在受苦，也不要懷疑，你是不是已經被揀選。」
 
-**逼迫者變成了被逼迫的人**：摩根對本章最凝練的一句總結，是掃羅身份的徹底逆轉——那個原本要把基督徒捆綁帶回耶路撒冷受審的人，此後半生反倒成了被同一批人追殺、被下在監裏、被鞭打棍打的對象（見林後11:23-27）。摩根提醒讀者，這逆轉不是掃羅意志力的產物，而是耶穌親自出來攔住了他。
+### 全經連線 (Tracing It Through Scripture)
 
-**亞拿尼亞的順服，是全章一個安靜卻不可少的環節**：摩根特別看重亞拿尼亞這個只在此處出現、此後再無記載的小人物——他隨時預備好聽命於主，毫不遲疑，也帶著弟兄的愛心，執行了一件在人看來極不合理、甚至有生命危險的命令。摩根認為，若沒有亞拿尼亞這一步順服，掃羅悔改的故事就缺了關鍵一環：神的呼召固然是超自然的異象，但祂仍然選擇透過一個普通門徒的手，把恩典具體地按在掃羅身上。
-
-**三次重述的份量**：摩根注意到路加在全書中三度完整敘述掃羅的悔改（9章、22章、26章），份量遠超書中任何其他單一事件，這反映出路加（以及初代教會）如何看待這件事的地位——它不只是一個人的得救見證，更是整個外邦宣教運動起頭的樞紐時刻。
-
-**呂大、約帕的神蹟不是插曲**：摩根提醒讀者不要把9:32-43當作可有可無的補充材料——彼得在此處行的兩件神蹟，一方面延續了「奉耶穌的名」（而非彼得自己的能力）這條主線（9:34「耶穌基督醫好你了」），另一方面把敘事的地理座標，穩穩地安放在約帕、安放在「硝皮匠西門的家裏」（9:43）——這正是第十章哥尼流異象展開的地點。
-
-> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳9章釋經）
-
-### 老弟兄查經洞見 (Thursday Class Insights)
-
-老弟兄把本章三個「起來」放在一起對照，指出這不是路加隨手用的詞，而是刻意的呼應：
+鑰匙：神揀選器皿，不是因為器皿本身配得，是為著祂自己的心意——這條線從耶利米書1:5「我未將你造在腹中，我已曉得你」，一路連到羅馬書9:21「窯匠難道沒有權柄……又做貴重的器皿，又做卑賤的器皿嗎」，再連到本章「他是我所揀選的器皿」（9:15）。掃羅後來寫信給提摩太時，用了同一個意象：「在大戶人家，不但有金器銀器，也有木器瓦器；有作為貴重的，有作為卑賤的」（提後2:20）——保羅一生都記得，自己不過是一個被主親手揀選、又親手潔淨的器皿。而「起來」這條線，從以西結谷中枯骨「氣息就進入骸骨，骸骨便活了，並且站起來」（結37:10），到馬可福音睚魯女兒「大利大，古米」（可5:41），一路連到本章的三個「起來」。老弟兄把它們放在一起對照，指出這不是路加隨手用的詞，而是刻意的呼應：
 
 | 對象 | 經文 | 光景 | 命令 |
 |--------------------|--------------------|--------------------|--------------------|
@@ -220,45 +230,14 @@ publisher: 三書精讀出版系統
 | 以尼雅 | 9:34 | 癱瘓八年，身體無力 | 「起來，收拾你的褥子」 |
 | 大比大 | 9:40 | 已經死了 | 「大比大，起來！」 |
 
-老弟兄的提醒是：這不是三個獨立的神蹟故事，是同一位主用同一句話，對付人不同層次的「不能」——靈裏的悖逆、身體的癱瘓、生命的死亡，祂的一句話都能對付。老弟兄也常把亞拿尼亞的猶豫放在整本聖經「蒙召者的抗辯」系列裏一起看：摩西說「我本是拙口笨舌的」（出4:10），耶利米說「我是年幼的」（耶1:6），以賽亞卻直接回應「我在這裏」——亞拿尼亞的猶豫（9:13-14）和以賽亞的順服（賽6:8），恰好是同一種蒙召場景裏，人可能出現的兩種真實反應，聖經都如實記下，不加美化。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Take My Life and Let It Be*（將我一生獻給你）
-
-> Take my life, and let it be
-> Consecrated, Lord, to Thee;
-> Take my moments and my days,
-> Let them flow in ceaseless praise.
->
-> 將我一生獻給你，
-> 主啊求你悅納我；
-> 將我歲月與時光，
-> 化作不絕的頌揚。
-
-*Frances Ridley Havergal, 1874*
-
-**詩篇**：以賽亞書 6:8
-
-> 我又聽見主的聲音說：「我可以差遣誰呢？誰肯為我們去呢？」
-> 我說：「我在這裏，請差遣我！」
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：神揀選器皿，不是因為器皿本身配得，是為著祂自己的心意——這條線從耶利米書1:5「我未將你造在腹中，我已曉得你」，一路連到羅馬書9:21「窯匠難道沒有權柄……又做貴重的器皿，又做卑賤的器皿嗎」，再連到本章「他是我所揀選的器皿」（9:15）。掃羅後來寫信給提摩太時，用了同一個意象：「在大戶人家，不但有金器銀器，也有木器瓦器；有作為貴重的，有作為卑賤的」（提後2:20）——保羅一生都記得，自己不過是一個被主親手揀選、又親手潔淨的器皿。而「起來」這條線，從以西結谷中枯骨「氣息就進入骸骨，骸骨便活了，並且站起來」（結37:10），到馬可福音睚魯女兒「大利大，古米」（可5:41），一路連到本章掃羅、以尼雅、大比大的三個「起來」——同一位掌管死生的主，貫串兩約。
+這不是三個獨立的神蹟故事，是同一位主用同一句話，對付人不同層次的「不能」——靈裏的悖逆、身體的癱瘓、生命的死亡，祂的一句話都能對付。老弟兄也常把亞拿尼亞的猶豫放在整本聖經「蒙召者的抗辯」系列裏一起看：摩西說「我本是拙口笨舌的」（出4:10），耶利米說「我是年幼的」（耶1:6），以賽亞卻直接回應「我在這裏」——亞拿尼亞的猶豫（9:13-14）和以賽亞的順服（賽6:8），恰好是同一種蒙召場景裏，人可能出現的兩種真實反應，聖經都如實記下，不加美化。
 
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
 - 先問：「掃羅出發去大馬色，是要捆綁別人；他到了大馬色，卻是誰真正被『捆綁』住了？」
-- 再問：「耶穌對掃羅說『你為甚麼逼迫我』，不是說『你為甚麼逼迫我的門徒』——這句話告訴你，教會和基督是甚麼關係？」
+- 再問：「耶穌對掃羅說『你為甚麼逼迫我』，不是說『你為甚麼逼迫我的門徒』——這句話告訴你，教會和基督是甚麼關係？如果耶穌今天問你『你為甚麼逼迫我』，你會不會才發現，你以為在對付一件事、一個人，其實一直是在對付基督自己？」
 - 追問：「亞拿尼亞聽見掃羅的名字，第一反應是把懼怕的理由一條一條說出來——這是不信嗎，還是誠實？」
 - 落到自己：「如果今天神清楚告訴你，祂揀選你去做一件事，也讓你預先看見這件事會帶來苦難，你還願意像亞拿尼亞一樣說『我在這裏』嗎？」
 
@@ -272,17 +251,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我有沒有像亞拿尼亞一樣，把懼怕誠實帶到你面前，然後仍然順服？
 - **一個行動**：為一位你認為「不可能改變」的人具體禱告，並主動邁出一步接近他。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：大馬色路上被擊倒的，不只是掃羅的身體，是他一整套「靠自己的熱心事奉神」的世界觀——從那一刻起，他所有的能力，都成了主手中一件被揀選、也註定要受苦的器皿。
-
-**貫通全經**：「我未將你造在腹中，我已曉得你」（耶1:5）——「他是我所揀選的器皿」（9:15），神揀選人從不是因為人配得；「氣息進入骸骨，骸骨便站起來」（結37:10）——「起來！」這句命令，貫串掃羅、以尼雅、大比大，也貫串兩約。
-
-**無法迴避的問題**：「如果耶穌今天問你『你為甚麼逼迫我』，你會不會才發現，你以為在對付一件事、一個人，其實一直是在對付基督自己？」
-
-> 「揀選在先，苦難隨後——次序從不顛倒。你若被揀選作器皿，就不要驚訝苦難隨之而來；你若正在受苦，也不要懷疑，你是不是已經被揀選。」
+**你看見耶穌了嗎？** 這一章從頭到尾，主動的都是耶穌——說話的是祂，揀選的是祂，打發亞拿尼亞的是祂，連彼得對癱子也只有一句話：「耶穌基督醫好你了」（9:34）。升天的主沒有退場，祂仍在歷史的路口，親自攔住人、親自差遣人。
 
 ---
 
@@ -292,20 +261,16 @@ publisher: 三書精讀出版系統
 
 1. **逼迫祂的百姓就是逼迫祂自己**：你如何看待教會？只是一群人的組織，還是與基督聯合為一體的身體？
 
-2. **揀選與苦難**：如果神今天讓你清楚看見祂揀選你去做一件事，也讓你看見這件事會伴隨苦難，你還願意順服嗎？
+2. **立即的印證**：你的信仰有沒有立即帶出可見的果效——像掃羅立刻受洗、立刻傳道那樣？還是停留在「相信」卻沒有行動？
 
-3. **亞拿尼亞的順服**：你有沒有一件明知道有風險、卻因為確信是主的吩咐而仍然去做的事？
-
-4. **立即的印證**：你的信仰有沒有立即帶出可見的果效——像掃羅立刻受洗、立刻傳道那樣？還是停留在「相信」卻沒有行動？
-
-5. **同一句「起來」**：在你生命中，哪一個部分還躺著沒有起來——是靈裏的悖逆、身體的軟弱，還是某個你以為已經死了的盼望？
+3. **同一句「起來」**：在你生命中，哪一個部分還躺著沒有起來——是靈裏的悖逆、身體的軟弱，還是某個你以為已經死了的盼望？
 
 ### 禱告回應
 
-> 主耶穌，你在大馬色路上攔住了那個最兇悍逼迫教會的人，也能攔住我心裏一切抵擋你的地方。
-> 求你光照我，讓我看見自己在哪些事上，其實一直是在逼迫你，卻自己不知道。
-> 求你使我像亞拿尼亞一樣，懼怕的時候仍然說「我在這裏」，順服你看似不合理的吩咐。
-> 也求你用你大能的話對我說「起來」，使我在該起來的地方，不再躺臥。
+> 主耶穌，你在大馬色路上攔住了那個最兇悍逼迫教會的人，也能攔住我心裏一切抵擋你的地方。 \
+> 求你光照我，讓我看見自己在哪些事上，其實一直是在逼迫你，卻自己不知道。 \
+> 求你使我像亞拿尼亞一樣，懼怕的時候仍然說「我在這裏」，順服你看似不合理的吩咐。 \
+> 也求你用你大能的話對我說「起來」，使我在該起來的地方，不再躺臥。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

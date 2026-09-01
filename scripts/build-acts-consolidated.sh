@@ -41,7 +41,7 @@ copyright: |
 
   **能力 = 聖靈藉見證彰顯**
 
-  耶路撒冷 (1-7章) | 猶太．撒瑪利亞 (8-12章) | 直到地極·第一次差遣 (13-15章)
+  耶路撒冷 (1-7章) | 猶太·撒瑪利亞 (8-12章) | 直到地極·第一次差遣 (13-15章)
   進入歐洲 (16-20章) | 捆鎖中的見證·直到羅馬 (21-28章)
 
   **經文版權聲明 (Scripture Copyright Notices)**
@@ -50,12 +50,9 @@ copyright: |
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
-
-  All rights reserved.
+  Scripture quotations taken from the New American Standard Bible® (NASB),
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by
+  permission. All rights reserved. lockman.org
 ---
 
 HEADER
@@ -126,7 +123,7 @@ done
 
 add_volume "卷二 · 猶太全地和撒瑪利亞——門被推開 (Judea and Samaria) · 8-12章" \
     "逼迫叫門徒四散，四散卻叫福音蔓延——門一道一道被聖靈推開。" \
-    "猶太．撒瑪利亞" "分散中引路（8:29, 39；10:19-20, 44）" "9:31；12:24"
+    "猶太·撒瑪利亞" "分散中引路（8:29, 39；10:19-20, 44）" "9:31；12:24"
 for f in 08-philip.md 09-damascus-road.md 10-cornelius.md 11-antioch.md 12-herod-peter.md; do
     add_chapter "$f"
 done
@@ -140,7 +137,7 @@ done
 
 add_volume "卷四 · 直到地極·進入歐洲 (To the Ends of the Earth: Into Europe) · 16-20章" \
     "馬其頓的呼聲，把福音第一次帶過了海——從此走向整個地中海世界。" \
-    "馬其頓．亞該亞．亞細亞" "禁止與呼召（16:6-10）" "19:20 主的道大大興旺"
+    "馬其頓·亞該亞·亞細亞" "禁止與呼召（16:6-10）" "19:20 主的道大大興旺"
 for f in 16-macedonian-call.md 17-unknown-god.md 18-corinth.md 19-ephesus.md 20-miletus-farewell.md; do
     add_chapter "$f"
 done

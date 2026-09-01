@@ -24,17 +24,17 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **God Moves in a Mysterious Way**
+> **God Moves in a Mysterious Way** \
 > *William Cowper, 1774*
 >
-> God moves in a mysterious way,
-> His wonders to perform;
-> He plants His footsteps in the sea,
+> God moves in a mysterious way, \
+> His wonders to perform; \
+> He plants His footsteps in the sea, \
 > And rides upon the storm.
 >
-> 神行事本有奇妙的法子，
-> 成就祂一切的奇事；
-> 祂把腳蹤留在滄海深處，
+> 神行事本有奇妙的法子， \
+> 成就祂一切的奇事； \
+> 祂把腳蹤留在滄海深處， \
 > 乘駕風暴而來。
 
 ---
@@ -51,37 +51,37 @@ publisher: 三書精讀出版系統
 
 > ^14^使徒在耶路撒冷聽見撒瑪利亞人領受了神的道，就打發彼得、約翰往他們那裏去。^15^兩個人到了，就為他們禱告，要叫他們受聖靈，^16^因為聖靈還沒有降在他們一個人身上，他們只奉主耶穌的名受了洗。^17^於是使徒按手在他們頭上，他們就受了聖靈。
 
-> ^18^西門看見使徒按手便有聖靈賜下，就拿錢給使徒，^19^說：「把這權柄也給我，叫我手按著誰，誰就可以受聖靈。」^20^彼得說：「你的銀子和你一同滅亡吧！因你想神的恩賜是可以用錢買的。^21^你在這道上無份無關，因為在神面前你的心不正。^22^你當懊悔你這罪惡，祈求主，或者你心裏的意念可得赦免。^23^我看出你正在苦膽之中，被罪惡捆綁。」^24^西門說：「願你們為我求主，叫你們所說的，沒有一樣臨到我身上！」^25^使徒既證明主道，而且傳講，就回耶路撒冷去，一路在撒瑪利亞好些村莊傳揚福音。
+> ^18^西門看見使徒按手便有聖靈賜下，就拿錢給使徒，^19^說：「把這權柄也給我，叫我手按著誰，誰就可以受聖靈。」^20^彼得說：「你的銀子和你一同滅亡吧！因你想神的恩賜是可以用錢買的。^21^你在這道上無分無關，因為在神面前你的心不正。^22^你當懊悔你這罪惡，祈求主，或者你心裏的意念可得赦免。^23^我看出你正在苦膽之中，被罪惡捆綁。」^24^西門說：「願你們為我求主，叫你們所說的，沒有一樣臨到我身上！」^25^使徒既證明主道，而且傳講，就回耶路撒冷去，一路在撒瑪利亞好些村莊傳揚福音。
 
-> ^26^有主的一個使者對腓利說：「起來，向南走，往那從耶路撒冷下加沙的路上去！」那路是曠野。^27^腓利就起身去了。不料，有一個埃提阿伯人，是個有大權的太監，在埃提阿伯女王干大基的手下總管銀庫。他上耶路撒冷禮拜去了，^28^現在回來，在車上坐著，念先知以賽亞的書。^29^聖靈對腓利說：「你去，貼近那車走！」
+> ^26^有主的一個使者對腓利說：「起來，向南走，往那從耶路撒冷下迦薩的路上去！」那路是曠野。^27^腓利就起身去了。不料，有一個埃提阿伯人，是個有大權的太監，在埃提阿伯女王干大基的手下總管銀庫。他上耶路撒冷禮拜去了，^28^現在回來，在車上坐著，念先知以賽亞的書。^29^聖靈對腓利說：「你去，貼近那車走！」
 
 > ^30^腓利就跑到太監那裏，聽見他念先知以賽亞的書，便問他說：「你所念的你明白嗎？」^31^他說：「沒有人指教我，怎能明白呢？」於是請腓利上車與他同坐。^32^他所念的那段經說：「他像羊被牽到宰殺之地，又像羊羔在剪毛的人手下無聲，他也是這樣不開口。^33^他卑微的時候，人不按公義審判他。誰能述說他的世代？因為他的生命從地上奪去。」^34^太監對腓利說：「請問，先知說這話是指著誰？是指著自己呢，是指著別人呢？」^35^腓利就開口從這經上起，對他傳講耶穌。
 
 > ^36^二人正往前走，到了有水的地方，太監說：「看哪，這裏有水！我受洗有甚麼妨礙呢？」^38^於是吩咐車站住，腓利和太監二人同下水裏去，腓利就給他施洗。^39^從水裏上來，主的靈把腓利提了去。太監也不再見他了，就歡歡喜喜地走路。^40^後來有人在亞鎖都遇見腓利；他走遍那地方，在各城宣傳福音，直到該撒利亞。
 
-### English — ESV
+### English — NASB
 
-> ^1^And Saul approved of his execution. And there arose on that day a great persecution against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles.
+> ^1^Saul was in hearty agreement with putting him to death. And on that day a great persecution began against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles.
 
-> ^4^Now those who were scattered went about preaching the word. ^5^Philip went down to the city of Samaria and proclaimed to them the Christ.
+> ^4^Therefore, those who had been scattered went about preaching the word. ^5^Philip went down to the city of Samaria and *began* proclaiming Christ to them.
 
-> ^9^But there was a man named Simon, who had previously practiced magic in the city and amazed the people of Samaria, saying that he himself was somebody great. ^10^They all paid attention to him, from the least to the greatest, saying, "This man is the power of God that is called Great."
+> ^9^Now there was a man named Simon, who formerly was practicing magic in the city and astonishing the people of Samaria, claiming to be someone great; ^10^and they all, from smallest to greatest, were giving attention to him, saying, "This man is what is called the Great Power of God."
 
-> ^13^Even Simon himself believed, and after being baptized he continued with Philip. And seeing signs and great miracles performed, he was amazed.
+> ^13^Even Simon himself believed; and after being baptized, he continued on with Philip, and as he observed signs and great miracles taking place, he was constantly amazed.
 
-> ^17^Then they laid their hands on them and they received the Holy Spirit.
+> ^17^Then they *began* laying their hands on them, and they were receiving the Holy Spirit.
 
-> ^20^But Peter said to him, "May your silver perish with you, because you thought you could obtain the gift of God with money! ^21^You have neither part nor lot in this matter, for your heart is not right before God. ^22^Repent, therefore, of this wickedness of yours, and pray to the Lord that, if possible, the intent of your heart may be forgiven you. ^23^For I see that you are in the gall of bitterness and in the bond of iniquity."
+> ^20^But Peter said to him, "May your silver perish with you, because you thought you could obtain the gift of God with money! ^21^You have no part or portion in this matter, for your heart is not right before God. ^22^Therefore repent of this wickedness of yours, and pray the Lord that, if possible, the intention of your heart may be forgiven you. ^23^For I see that you are in the gall of bitterness and in the bondage of iniquity."
 
-> ^26^Now an angel of the Lord said to Philip, "Rise and go toward the south to the road that goes down from Jerusalem to Gaza." This is a desert place.
+> ^26^But an angel of the Lord spoke to Philip saying, "Get up and go south to the road that descends from Jerusalem to Gaza." (This is a desert *road.*)
 
-> ^29^And the Spirit said to Philip, "Go over and join this chariot."
+> ^29^Then the Spirit said to Philip, "Go up and join this chariot."
 
-> ^34^And the eunuch said to Philip, "About whom, I ask you, does the prophet say this, about himself or about someone else?" ^35^Then Philip opened his mouth, and beginning with this Scripture he told him the good news about Jesus.
+> ^34^The eunuch answered Philip and said, "Please *tell me,* of whom does the prophet say this? Of himself or of someone else?" ^35^Then Philip opened his mouth, and beginning from this Scripture he preached Jesus to him.
 
-> ^39^And when they came up out of the water, the Spirit of the Lord carried Philip away, and the eunuch saw him no more, and went on his way rejoicing. ^40^But Philip found himself at Azotus, and as he passed through he preached the gospel to all the towns until he came to Caesarea.
+> ^39^When they came up out of the water, the Spirit of the Lord snatched Philip away; and the eunuch no longer saw him, but went on his way rejoicing. ^40^But Philip found himself at Azotus, and as he passed through he kept preaching the gospel to all the cities until he came to Caesarea.
 
-**經文核對**：[ai-eden.com/bible/acts/8](https://www.ai-eden.com/bible/acts/8?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/acts/8](https://www.ai-eden.com/bible/acts/8?t=CUV,NASB&cols=2)
 
 ---
 
@@ -91,16 +91,16 @@ publisher: 三書精讀出版系統
 
 司提反殉道後，「耶路撒冷的教會大遭逼迫」（8:1）——路加把這句話緊接在司提反的死之後，不是巧合，是刻意的安排：逼迫不是意外插曲，是神藉著人的惡意，把福音從耶路撒冷向外推的手段。掃羅正是這場逼迫的主導者之一（8:3），「進各人的家，拉著男女下在監裏」，這股兇悍與他稍後在大馬色路上的歸信，形成全書最戲劇性的反差之一。
 
-### 撒瑪利亞人的身份
+### 撒瑪利亞人的身分
 
 猶太人與撒瑪利亞人自主前八世紀北國以色列滅亡、異族通婚以來，長期彼此敵視——猶太人視撒瑪利亞人為血統與信仰皆不純正的雜種；撒瑪利亞人則在基利心山另立敬拜中心，與耶路撒冷聖殿分庭抗禮。腓利下撒瑪利亞城傳道、使徒又特意從耶路撒冷差派彼得、約翰去按手（8:14-17），是「猶太全地和撒瑪利亞」（1:8）這句應許第一次具體實現，也是福音跨越民族藩籬邁出的第一步。
 
-### 埃提阿伯太監的身份
+### 埃提阿伯太監的身分
 
 | 項目 | 說明 |
 |----------------------------------------|----------------------------------------|
-| **職份** | 埃提阿伯女王干大基手下的財政大臣，「總管銀庫」（8:27） |
-| **身份的雙重排斥** | 既是外邦人，又因太監的身份，按申命記23:1不得完全進入聖殿敬拜 |
+| **職分** | 埃提阿伯女王干大基手下的財政大臣，「總管銀庫」（8:27） |
+| **身分的雙重排斥** | 既是外邦人，又因太監的身分，按申命記23:1不得完全進入聖殿敬拜 |
 | **舊約的預告** | 以賽亞書56:3-5早已應許：持守耶和華約的太監，必在祂的殿中「有紀念，有名號，比有兒女的更美」 |
 | **手中的經卷** | 正在念以賽亞書53章「受苦的僕人」——舊約中最清楚指向基督受死的一段 |
 
@@ -113,7 +113,7 @@ publisher: 三書精讀出版系統
 | 段落 | 跨越的界線 | 主導者 |
 |-------------------|-----------------------------------|--------------------------|
 | 8:1-25 撒瑪利亞復興 | 猶太人與撒瑪利亞人的種族敵意 | 聖靈藉腓利、彼得、約翰 |
-| 8:26-40 太監歸信 | 身體殘疾與外邦身份的雙重排斥 | 聖靈親自差遣、親自對腓利說話 |
+| 8:26-40 太監歸信 | 身體殘疾與外邦身分的雙重排斥 | 聖靈親自差遣、親自對腓利說話 |
 
 ---
 
@@ -125,7 +125,7 @@ publisher: 三書精讀出版系統
 | εὐαγγελίζω | euangelizō | 傳講好消息 | 8:4, 12, 25, 35, 40 | 本章接連出現五次，是路加刻意的重複——無論在城市、曠野、村莊，被傳講的都是同一個福音 |
 | μαγεύω / μαγεία | mageuō / mageia | 行邪術 | 8:9, 11 | 西門「久用邪術」使人驚奇的字，與腓利「所行的神蹟」形成刻意的對比 |
 | δωρεά | dōrea | 白白的恩賜 | 8:20 | 彼得斥責西門的核心字：神的恩賜是「白白給的」，正與西門想「用錢買」的邏輯相反 |
-| εὐνοῦχος | eunouchos | 太監 | 8:27 | 按猶太律法被排除在會眾之外的身份（申23:1），卻正是以賽亞書56:3-5已預告神要接納的人 |
+| εὐνοῦχος | eunouchos | 太監 | 8:27 | 按猶太律法被排除在會眾之外的身分（申23:1），卻正是以賽亞書56:3-5已預告神要接納的人 |
 | ἁρπάζω | harpazō | 奪去、提去 | 8:39 | 「主的靈把腓利提了去」——同一個字用於帖前4:17「被提」，暗示這不是尋常的離開，是聖靈主動的奪取 |
 
 ### 「分散」(διασπείρω) 與「傳道」(εὐαγγελίζω) 的因果
@@ -134,7 +134,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 分散：逼迫是福音的運輸工具，不是攔阻
 
@@ -142,7 +142,7 @@ publisher: 三書精讀出版系統
 
 ### 2. 西門的假信：外在的驚奇不等於裏面的重生
 
-西門「信了」、「受了洗」、「常與腓利在一處」（8:13），一切外在記號都齊全，但他隨後想用錢買聖靈的能力（8:18-19），暴露了他信心的本質：他要的是「能力」，不是「主」。彼得的斥責一針見血：「你的心不正」、「你在這道上無份無關」（8:21）。教會歷史後來用他的名字造了一個詞「西門尼」（simony），專指買賣聖職的罪——這是教會史上第一起偽冒信仰的記載。
+西門「信了」、「受了洗」、「常與腓利在一處」（8:13），一切外在記號都齊全，但他隨後想用錢買聖靈的能力（8:18-19），暴露了他信心的本質：他要的是「能力」，不是「主」。彼得的斥責一針見血：「你的心不正」、「你在這道上無分無關」（8:21）。教會歷史後來用他的名字造了一個詞「西門尼」（simony），專指買賣聖職的罪——這是教會史上第一起買賣屬靈能力的記載。
 
 ### 3. 聖靈直接對個人說話——本章最獨特的一筆
 
@@ -154,15 +154,11 @@ publisher: 三書精讀出版系統
 
 ### 5. 立時受洗：真信心的立即回應
 
-撒瑪利亞人信了「連男帶女就受了洗」（8:12）；太監一聽懂福音，立刻問：「這裏有水，有甚麼妨礙呢？」（8:36）——兩幕戲都以立即的洗禮收尾。真信心不會拖延順服的腳步。
+撒瑪利亞人信了「連男帶女就受了洗」（8:12）；太監一聽懂福音，立刻問：「看哪，這裏有水！我受洗有甚麼妨礙呢？」（8:36）——兩幕戲都以立即的洗禮收尾。真信心不會拖延順服的腳步。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
-
-> **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
-> 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
-> 經逐字核校的原始引文，見「三大資源深度整合」一節。
 
 ### 教父時期
 
@@ -172,7 +168,7 @@ publisher: 三書精讀出版系統
 >
 > 「連司提反的死也沒有澆熄他們的怒氣，反倒加增了；這怒氣把教師們四散地驅趕出去，門徒反而因此越發增多。」
 >
-> — Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XVIII**（論徒7:54-8:25），NPNF1-11
+> — John Chrysostom, *Homilies on the Acts of the Apostles*, **Homily XVIII**（論徒7:54-8:25），NPNF1-11
 
 ### 改革宗時期
 
@@ -184,9 +180,19 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on the Acts of the Apostles*（論徒8:26-31），CCEL, calcom36
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**逼迫不是計劃的偏離，是計劃的執行**：摩根一再指出，教會在耶路撒冷享受的合一與喜樂（徒2-5章），本身已隱含一個危機——門徒安於一處，遲遲沒有邁開「猶太全地和撒瑪利亞」那一步。神容許逼迫臨到，不是放棄祂的計劃，而是用人所不願意的方式，執行祂早已定下的計劃。
+
+**分散的人「往各處去傳道」，不是使徒，是普通信徒**：摩根特別提醒讀者留意8:1的括號——「除了使徒以外」。四散出去、把福音帶到撒瑪利亞各處的，不是受過裝備、蒙召作使徒的十二人，而是無名的普通門徒。福音最初的擴展，靠的不是專業的傳道人，是被逼到路上、仍然開口見證的普通會眾。
+
+**西門是「相信神蹟」而非「相信基督」的縮影**：摩根將西門的信心與撒瑪利亞其他信徒的信心並列對照，指出西門所驚奇的，始終是「所行的神蹟和大異能」（8:13），而非那位行神蹟的主自己。這正是一切表面信心的病根：被能力吸引，卻沒有被主自己得著。
+
+**聖靈的引導精確到一個人、一條曠野的路**：摩根對8:26-40這一段的興趣，多半落在神安排的精細上——祂差遣一位有影響力的信徒，離開正在復興的撒瑪利亞城，走上一條荒涼的曠野路，只為遇見一位太監。神看一個靈魂的價值，不亞於一整座城的復興。
+
+> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳 8 章釋經）
+
+### 麥克阿瑟 (John MacArthur)
 
 > "It's like trying to stamp out a fire, and the harder you jump on it the more you scatter the embers."
 >
@@ -202,73 +208,49 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 126:5-6
 
-> 流淚撒種的，必歡呼收割。
+> 流淚撒種的，必歡呼收割。 \
 > **那帶種流淚出去的，必要歡歡樂樂地帶禾捆回來。**
 
 ### 以賽亞書 56:4-5
 
-> 耶和華如此說：那些謹守我的安息日、揀選我所喜悅的事、持守我約的太監，
+> 耶和華如此說：那些謹守我的安息日、揀選我所喜悅的事、持守我約的太監， \
 > **我必使他們在我殿中、在我牆內有紀念，有名號，比有兒女的更美；我必賜他們永遠的名，不能剪除。**
 
----
+### 詩篇 68:11
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+> 主發命令，傳好信息的婦女成了大群。
 
-### 摩根深讀 (G. Campbell Morgan)
+### O Zion, Haste（錫安啊，快快前行）
 
-**逼迫不是計劃的偏離，是計劃的執行**：摩根一再指出，教會在耶路撒冷享受的合一與喜樂（徒2-5章），本身已隱含一個危機——門徒安於一處，遲遲沒有邁開「猶太全地和撒瑪利亞」那一步。神容許逼迫臨到，不是放棄祂的計劃，而是用人所不願意的方式，執行祂早已定下的計劃。
-
-**分散的人「往各處去傳道」，不是使徒，是普通信徒**：摩根特別提醒讀者留意8:1的括號——「除了使徒以外」。四散出去、把福音帶到撒瑪利亞各處的，不是受過裝備、蒙召作使徒的十二人，而是無名的普通門徒。福音最初的擴展，靠的不是專業的傳道人，是被逼到路上、仍然開口見證的普通會眾。
-
-**西門是「相信神蹟」而非「相信基督」的縮影**：摩根將西門的信心與撒瑪利亞其他信徒的信心並列對照，指出西門所驚奇的，始終是「所行的神蹟和大異能」（8:13），而非那位行神蹟的主自己。這正是一切表面信心的病根：被能力吸引，卻沒有被主自己得著。
-
-**聖靈的引導精確到一個人、一條曠野的路**：摩根對8:26-40這一段的興趣，多半落在神安排的精細上——祂差遣一位有影響力的信徒，離開正在復興的撒瑪利亞城，走上一條荒涼的曠野路，只為遇見一位太監。神看一個靈魂的價值，不亞於一整座城的復興。
-
-> 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳 8 章釋經）
-
-### 老弟兄查經洞見 (Thursday Class Insights)
-
-老弟兄講這一章，喜歡先問一個問題：「教會禱告求復興，神卻先讓逼迫臨到——這是神聽錯了禱告，還是神用了另一種方法回答？」他把8:1與8:4擺在一起看，中間沒有過渡句——分散是「壞事」，傳道是緊接著發生的「好事」，路加根本不給讀者時間感嘆，直接把兩件事焊在一起，逼人正視一個事實：神不是在逼迫「之後」才開始工作，神從逼迫「裏面」就已經在工作。
-
-老弟兄也常把西門與撒瑪利亞人的信心並排比較：兩者都「信了」，都「受了洗」，外表一模一樣；分別只在西門受洗以後，眼睛仍然定睛在「神蹟」上，撒瑪利亞人卻是定睛在「基督」上。他常提醒查經班：不要只問「這個人信了沒有」，要問「這個人信的是誰、要的是甚麼」。
-
-太監的故事，老弟兄總是連到約翰福音的一句話：整本舊約都是指著基督寫的（參約5:39-47），太監手裏正拿著那把鑰匙，卻打不開門——直到有一個腓利，願意「跑」過去（8:30），坐上他的車。老弟兄常把這一幕當作查經班的鏡子：我們是不是常常只顧著自己的復興，卻沒有留意身邊那一個，正拿著鑰匙、卻讀不懂的人？
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*O Zion, Haste*（錫安啊，快快前行）
-
-> O Zion, haste, thy mission high fulfilling,
-> To tell to all the world that God is Light;
-> That He who made all nations is not willing
+> O Zion, haste, thy mission high fulfilling, \
+> To tell to all the world that God is Light; \
+> That He who made all nations is not willing \
 > One soul should perish, lost in shades of night.
 
 *Mary Ann Thomson, 1868*
 
-**詩篇**：詩篇 68:11
-
-> 主發命令，傳好信息的婦女成了大群。
-
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：逼迫把教會打散了，卻沒有把福音打散——聖靈藉著被打散的人，把耶穌基督的名帶到撒瑪利亞，也帶到曠野路上一輛陌生的馬車旁。「西門要的是能力，太監要的是明白——同一章裏，兩種心，只有一種真信心。真信心不是被神蹟震住，是被那位行神蹟的主得著。」
 
 ### 全經連線 (Tracing It Through Scripture)
 
 鑰匙：太監手裏念的以賽亞書53章，是全本舊約中最清楚指向受苦之基督的一段；而以賽亞書56:3-5早已應許，這樣一位被律法排除在外的太監，有一天要在神的殿中「有紀念，有名號，比有兒女的更美」。8:1-4的「分散」，也不是新事——創世記11章巴別塔之後神使人「分散」全地（創11:8-9），本是審判；到了徒8章，同一個「分散」的動詞，卻成了福音撒種的方式，正應了耶穌自己的比喻：「一粒麥子不落在地裏死了，仍舊是一粒；若是死了，就結出許多子粒來」（約12:24）。這條線一路通向啟示錄——「各國、各族、各民、各方」都站在寶座和羔羊面前（啟7:9），太監正是這幅圖畫最早的一筆。
 
+老弟兄講太監的故事，總是連到約翰福音的一句話：整本舊約都是指著基督寫的（參約5:39-47）。太監手裏正拿著那把鑰匙，卻打不開門——直到有一個腓利，願意「跑」過去（8:30），坐上他的車。我們是不是也常常只顧著自己的復興，卻沒有留意身邊那一個，正拿著鑰匙、卻讀不懂的人？
+
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
-- 先問：「逼迫臨到，教會被拆散了——路加卻在下一節立刻說『那些分散的人往各處去傳道』，你覺得，路加要我們看見的重點是逼迫，還是傳道？」
-- 再問：「西門信了、受了洗、天天跟著腓利，一切都『看起來』對——你怎麼知道自己的信，不是也定睛在『神蹟』，而不是那位行神蹟的主？」
+- 先問：「教會禱告求復興，神卻先讓逼迫臨到——這是神聽錯了禱告，還是神用了另一種方法回答？路加把8:1的『分散』與8:4的『傳道』焊在一起，中間沒有過渡句——神不是在逼迫『之後』才開始工作，神從逼迫『裏面』就已經在工作。」
+- 再問：「西門信了、受了洗、天天跟著腓利，一切都『看起來』對——不要只問『這個人信了沒有』，要問『這個人信的是誰、要的是甚麼』。你怎麼知道自己的信，不是也定睛在『神蹟』，而不是那位行神蹟的主？」
 - 追問：「太監那麼有地位、有學問，卻讀不懂以賽亞書；腓利不過是『跑』過去坐上他的車——你身邊有沒有一個正拿著聖經、卻讀不懂的人，正等一個願意『跑』過去的腓利？」
 - 落到自己：「聖靈對腓利說『你去，貼近那車走』——如果聖靈今天要對你說同樣一句話，你聽得出來嗎？」
 
@@ -282,17 +264,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，我信的是那位行神蹟的主，還是只被神蹟本身吸引？
 - **一個行動**：主動接觸一位你一直迴避、或覺得福音大概到不了的人，像腓利一樣，願意「跑」過去。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：逼迫把教會打散了，卻沒有把福音打散——聖靈藉著被打散的人，把耶穌基督的名帶到撒瑪利亞，也帶到曠野路上一輛陌生的馬車旁。
-
-**貫通全經**：以賽亞書56章應許太監必在神的殿中「有紀念，有名號」，以賽亞書53章向他顯明那受苦的僕人是誰——舊約的應許與舊約的預言，在這一章的曠野路上，同時向一個人成就。
-
-**無法迴避的問題**：「如果神今天讓你看見一個『曠野路上的太監』——一個孤單、被排斥、卻正拿著鑰匙讀不懂的人——你會不會像腓利一樣，願意『跑』過去？」
-
-> 「西門要的是能力，太監要的是明白——同一章裏，兩種心，只有一種真信心。真信心不是被神蹟震住，是被那位行神蹟的主得著。」
+**你看見耶穌了嗎？** 本章沒有一位使徒在場策劃，卻處處是升天之主的手：祂藉逼迫撒種，藉腓利開口，藉聖靈一句「貼近那車走」，把一個被聖殿拒之門外的太監，接進了祂自己的家——耶穌不在場，耶穌卻在每一步裏。
 
 ---
 
@@ -304,18 +276,14 @@ publisher: 三書精讀出版系統
 
 2. **西門的鏡子**：你信仰生活裏，有沒有哪部分是「外在都對」，內裏卻仍然定睛在能力、成就、益處，而不是主自己？
 
-3. **貼近那車走**：聖靈曾否用一個具體、清楚、你當時沒想到的方式，把你帶到一個人面前？你聽見了嗎？你回應了嗎？
-
-4. **讀不懂的聖經**：你身邊有沒有一個正讀著聖經、卻讀不懂的人？你願不願意成為那個「跑」過去的腓利？
-
-5. **立時受洗的心志**：太監一聽懂福音就問「有甚麼妨礙呢」——你是否也曾把順服的腳步一再拖延？
+3. **立時受洗的心志**：太監一聽懂福音就問「有甚麼妨礙呢」——你是否也曾把順服的腳步一再拖延？
 
 ### 禱告回應
 
-> 主啊，感謝你從不因人的惡意失去主權——你能把逼迫變成撒種，把打散變成傳揚。
-> 求你光照我心裏那些像西門一樣，被能力和益處吸引、卻沒有真正定睛在你自己的地方。
-> 也求你像差遣腓利那樣差遣我，讓我聽得見你的引導，
-> 願意走上一條沒有人會推薦的路，遇見一個你早已預備好的人。
+> 主啊，感謝你從不因人的惡意失去主權——你能把逼迫變成撒種，把打散變成傳揚。 \
+> 求你光照我心裏那些像西門一樣，被能力和益處吸引、卻沒有真正定睛在你自己的地方。 \
+> 也求你像差遣腓利那樣差遣我，讓我聽得見你的引導， \
+> 願意走上一條沒有人會推薦的路，遇見一個你早已預備好的人。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

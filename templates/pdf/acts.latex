@@ -206,7 +206,12 @@
   linkcolor=ChapterFlame,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={使徒行傳逐章研讀 · Acts of the Apostles Deep Study},
+  pdfkeywords={使徒行傳, Acts of the Apostles, 聖靈, 見證, 聖經研讀, Bible Study},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -257,6 +262,10 @@
 %% ============================================
 %% SECTION STYLING (manual, without titlesec)
 %% ============================================
+% Clean running heads: raw chapter/section title only, no "Chapter N." auto-label.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\setcounter{secnumdepth}{-1}
 \makeatletter
 % Chapter styling
 \def\@makechapterhead#1{%
@@ -456,7 +465,7 @@ $endif$
 
 \vspace{0.24cm}
 {\fontsize{15}{18}\selectfont\itshape\color{ChapterFlame} μάρτυρές μου}\quad
-{\footnotesize\scshape\color{CommentaryBrown} ``My witnesses''}\quad
+{\footnotesize\scshape\color{CommentaryBrown} “My witnesses”}\quad
 {\footnotesize\bfseries\color{JesusRed} 我的見證}
 
 \vfill
@@ -467,7 +476,7 @@ $endif$
 {\footnotesize\color{JesusRed}\kaiti\selectfont
 「聖靈降臨在你們身上，你們就必得著能力，並要……直到地極，作我的見證。」}\\[0.10em]
 {\scriptsize\itshape\color{TextGray}
-``You will receive power when the Holy Spirit has come upon you, and you will be my witnesses... to the end of the earth.''}\\[0.10em]
+“you will receive power when the Holy Spirit has come upon you; and you shall be My witnesses... even to the remotest part of the earth.”}\\[0.10em]
 {\scriptsize\color{ChapterFlame} 使徒行傳 1:8 \textperiodcentered\ Acts 1:8}
 \vspace{0.15cm}
 \end{minipage}}
@@ -502,9 +511,9 @@ $endif$
 但聖靈降臨在你們身上，你們就必得著\textbf{\color{JesusRed}能力}，\\
 並要在耶路撒冷、猶太全地和撒瑪利亞，直到地極，作我的\textbf{\color{JesusRed}見證}。\\[0.5em]
 \footnotesize\itshape
-But you will receive \textbf{power} when the Holy Spirit has come upon you,\\
-and you will be my \textbf{witnesses} in Jerusalem and in all Judea and Samaria,\\
-and to the end of the earth.\\[0.4em]
+but you will receive \textbf{power} when the Holy Spirit has come upon you;\\
+and you shall be My \textbf{witnesses} both in Jerusalem, and in all Judea and Samaria,\\
+and even to the remotest part of the earth.\\[0.4em]
 \small\color{ChapterFlame} 使徒行傳 1:8 \textperiodcentered\ Acts 1:8
 \vspace{0.2cm}
 \end{minipage}}
@@ -582,8 +591,8 @@ This time notice: through every persecution, every open door, there is only one 
 \vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
 你們就必得著能力，並要……直到地極，作我的見證。\\[0.15em]
-\footnotesize You will receive power... and you will be my witnesses\\
-to the end of the earth. — Acts 1:8
+\footnotesize you will receive power... and you shall be My witnesses\\
+even to the remotest part of the earth. — Acts 1:8
 \vspace{0.3cm}
 \end{minipage}
 }
@@ -869,11 +878,11 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
+\textbullet\ 老弟兄查經法 (Elder Wong's Bible Study Method)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
 \textbullet\ G. Campbell Morgan - The Acts of the Apostles (1924)\\[0.8em]
 
@@ -886,6 +895,7 @@ $endif$
 
 % Table of contents
 \pagestyle{fancy}
+\setcounter{tocdepth}{0}
 {\color{ChapterFlame}\tableofcontents}
 \cleardoublepage
 
@@ -919,21 +929,21 @@ $body$
 \textbf{使徒行傳} & \textbf{內容} & \textbf{舊約出處} & \textbf{應驗方式} \\
 \midrule
 \endhead
-2:17-21 & 彼得五旬節講道，解釋方言與聖靈降臨的現象 & 約珥書 2:28-32 & 「神說：在末後的日子，我要將我的靈澆灌凡血肉之軀的」——明文引用，宣告約珥所預言的「以後」已經開始 \\
-2:25-28 & 彼得論證基督的復活 & 詩篇 16:8-11 & 「你必不將我的靈魂撇在陰間，也不讓你的聖者見朽壞」——彼得指出大衛所說的不是自己，是預言基督的復活 \\
+2:17-21 & 彼得五旬節講道，解釋方言與聖靈降臨的現象 & 約珥書 2:28-32 & 「神說：在末後的日子，我要將我的靈澆灌凡有血氣的」——明文引用，宣告約珥所預言的「以後」已經開始 \\
+2:25-28 & 彼得論證基督的復活 & 詩篇 16:8-11 & 「你必不將我的靈魂撇在陰間，也不叫你的聖者見朽壞」——彼得指出大衛所說的不是自己，是預言基督的復活 \\
 2:34-35 & 彼得論證基督被高舉在神右邊 & 詩篇 110:1 & 「主對我主說：你坐在我的右邊」——大衛沒有升天，這節是論到那位大衛稱為「主」的基督 \\
-3:22-23 & 彼得在聖殿前對以色列人講道 & 申命記 18:15, 19 & 「神要從你們弟兄中間興起一位先知像我」——彼得宣告耶穌就是那位「像摩西的先知」的成就 \\
-4:11 & 彼得在公會前見證耶穌的身分 & 詩篇 118:22 & 「這耶穌是你們匠人所輕看的石頭，已成了房角的頭塊石頭」——被棄絕者成為根基的預言，直接應驗在耶穌身上 \\
+3:22-23 & 彼得在聖殿前對以色列人講道 & 申命記 18:15, 19 & 「主－神要從你們弟兄中間給你們興起一位先知像我」——彼得宣告耶穌就是那位「像摩西的先知」的成就 \\
+4:11 & 彼得在公會前見證耶穌的身分 & 詩篇 118:22 & 「他是你們匠人所棄的石頭，已成了房角的頭塊石頭」——被棄絕者成為根基的預言，直接應驗在耶穌身上 \\
 7:42-43 & 司提反講道，指控以色列在曠野的偶像敬拜 & 阿摩司書 5:25-27 & 「你們抬著摩洛的帳幕……因此我要把你們遷到巴比倫外去」——引用先知書控訴曠野世代的悖逆，預告被擄的審判 \\
 13:22 & 保羅在彼西底安提阿論大衛 & 撒母耳記上 13:14；詩篇 89:20 & 「我尋得耶西的兒子大衛，他是合我心意的人」——路加將兩處經文合併，見證神揀選大衛的心意 \\
-13:33 & 保羅論證基督的復活印證神的應許 & 詩篇 2:7 & 「你是我的兒子，我今日生了你」——保羅宣告這節在耶穌復活這件事上得著應驗 \\
+13:33 & 保羅論證基督的復活印證神的應許 & 詩篇 2:7 & 「你是我的兒子，我今日生你」——保羅宣告這節在耶穌復活這件事上得著應驗 \\
 13:34 & 保羅論證基督復活的不朽壞 & 以賽亞書 55:3 & 「我必將所應許大衛那聖潔、可靠的恩典賜給你們」——與復活的應許相連 \\
-13:35 & 保羅再次引用，補充論證 & 詩篇 16:10 & 「你必不讓你的聖者見朽壞」——與彼得在2:27的引用相同，保羅獨立地將其用在同一個復活論證上 \\
-13:41 & 保羅警告聽眾不可輕忽福音 & 哈巴谷書 1:5 & 「你們這些藐視的人，要驚訝，要滅亡」——引用先知的警告，套用在拒絕福音的後果上 \\
-13:47 & 保羅、巴拿巴轉向外邦人宣教 & 以賽亞書 49:6 & 「我已立你作外邦人的光，叫你施行救恩，直到地極」——保羅將論彌賽亞的使命宣告用在教會的宣教使命上 \\
+13:35 & 保羅再次引用，補充論證 & 詩篇 16:10 & 「你必不叫你的聖者見朽壞」——與彼得在2:27的引用相同，保羅獨立地將其用在同一個復活論證上 \\
+13:41 & 保羅警告聽眾不可輕忽福音 & 哈巴谷書 1:5 & 「你們這輕慢的人要觀看，要驚奇，要滅亡」——引用先知的警告，套用在拒絕福音的後果上 \\
+13:47 & 保羅、巴拿巴轉向外邦人宣教 & 以賽亞書 49:6 & 「我已經立你作外邦人的光，叫你施行救恩，直到地極」——保羅將論彌賽亞的使命宣告用在教會的宣教使命上 \\
 15:16-17 & 雅各在耶路撒冷大會的結論 & 阿摩司書 9:11-12 & 「重新修造大衛倒塌的帳幕……凡稱為我名下的外邦人都尋求主」——證明外邦人蒙恩早已記在先知書上 \\
 23:5 & 保羅在公會前為自己失言道歉 & 出埃及記 22:28 & 「不可毀謗你百姓的官長」——保羅承認自己不知情下觸犯了這條律法的原則 \\
-28:26-27 & 保羅在羅馬對猶太領袖所說的最後一段話 & 以賽亞書 6:9-10 & 「你們聽了又聽，卻不明白……因為這百姓的心遲鈍」——路加用以賽亞對硬心的預言，總結全書猶太人普遍不信的結局 \\
+28:26-27 & 保羅在羅馬對猶太領袖所說的最後一段話 & 以賽亞書 6:9-10 & 「你們聽是要聽見，卻不明白……因為這百姓油蒙了心」——路加用以賽亞對硬心的預言，總結全書猶太人普遍不信的結局 \\
 \bottomrule
 \end{longtable}
 }
@@ -998,7 +1008,7 @@ $body$
 安提阿——福音跨出去的地方 Antioch, Where It Broke Out & 11:26 \\
 教會是神用自己血買來的 Bought With His Own Blood & 20:28 \\
 神的道日見興旺 The Word of God Increased & 12:24 \\
-「不受阻礙」的結尾 Ending ``Unhindered'' & 28:31 \\
+「不受阻礙」的結尾 Ending “Unhindered” & 28:31 \\
 \bottomrule
 \end{tabular}
 }
@@ -1100,29 +1110,47 @@ $body$
 \addcontentsline{toc}{chapter}{附錄三：參考資料 (Appendix C: References)}
 \markboth{}{}
 
-\noindent 本書「解經洞見」與「黃長老查經．深讀」各節所引用的注釋家與著作如下，依時代排列。
+\noindent 本書「歷代注疏」與「老弟兄查經」各節所引用的注釋家與著作如下，依時代排列。
+
+\section*{教父時期 Patristic}
+
+\begin{itemize}
+\item Chrysostom, John (c.\,347–407). \textit{Homilies on the Acts of the Apostles}. In \textit{Nicene and Post-Nicene Fathers}, Series 1, Vol.\ 11 (NPNF1-11). Ed.\ Philip Schaff. Buffalo: Christian Literature Company, 1889. 本書引用之講道編號見各章註明。
+\end{itemize}
+
+\section*{改革宗時期 Reformation}
+
+\begin{itemize}
+\item Calvin, John (1509–1564). \textit{Commentary upon the Acts of the Apostles}, Vols.\ 1–2. Trans.\ Christopher Fetherstone. Edinburgh: Calvin Translation Society. 電子版見 Christian Classics Ethereal Library (CCEL)。
+\item Henry, Matthew (1662–1714). \textit{An Exposition of the Old and New Testament}（《馬太亨利聖經注釋》）。
+\end{itemize}
 
 \section*{近代與當代釋經 Modern \& Contemporary Commentary}
 
 \begin{itemize}
-\item Morgan, G. Campbell (1863--1945). \textit{The Acts of the Apostles}. New York: Fleming H. Revell, 1924.
-\item MacArthur, John (b. 1939). \textit{The MacArthur New Testament Commentary: Acts 1--12, 13--28}. Chicago: Moody Publishers. \\ 講道系列 "Acts" (44V1 起)，錄音與講章見 gty.org。
+\item Morgan, G. Campbell (1863–1945). \textit{The Acts of the Apostles}. New York: Fleming H. Revell, 1924. 另引 \textit{Searchlights from the Word} 及 \textit{Exposition on the Whole Bible}。
+\item MacArthur, John (b. 1939). \textit{The MacArthur New Testament Commentary: Acts 1–12, 13–28}. Chicago: Moody Publishers. \\ 講道系列 "Acts" (44V1 起)，錄音與講章見 gty.org；本書所引各篇之講道編號見各章註明。
+\item Stott, John (1921–2011). \textit{The Message of Acts}. BST. Downers Grove: IVP, 1990.
+\end{itemize}
+
+\section*{延伸閱讀 Further Reading（本書未直接引用）}
+
+\begin{itemize}
 \item Bruce, F.F. \textit{The Book of the Acts}. NICNT. Grand Rapids: Eerdmans.
-\item Stott, John. \textit{The Message of Acts}. BST. Downers Grove: IVP, 1990.
 \item Polhill, John B. \textit{Acts}. NAC. Nashville: Broadman \& Holman, 1992.
 \end{itemize}
 
 \section*{中文查經資源 Chinese-Language Bible Study Resources}
 
 \begin{itemize}
-\item 黃長老（Elder Wong）。使徒行傳查經班教導，Thursday Wong Study Group 整理。
+\item 老弟兄（Elder Wong）查經法。\textbf{本書各章「老弟兄查經」並非逐字語錄}：現存資料中沒有老弟兄講解使徒行傳的第一手筆記，各節係編者按其一貫查經方法與語氣撮述而成，讀者不應視為其本人的原話。其查經方法之依據，見《約翰福音研讀》全書領受總綱。
 \end{itemize}
 
 \section*{聖經版本 Bible Versions Used}
 
 \begin{itemize}
-\item 中文：和合本修訂版 (Revised Chinese Union Version, RCUV)
-\item English: English Standard Version (ESV)
+\item 中文：和合本 (Chinese Union Version, CUV)
+\item English: New American Standard Bible 1995 (NASB)
 \item 原文參考：Nestle-Aland 28th Edition (NA28); UBS Greek New Testament 5th Edition
 \item 經文核對 Verification: \url{https://www.ai-eden.com/bible}
 \end{itemize}
@@ -1146,7 +1174,7 @@ $body$
 \endhead
 1:7-8 & 升天之前，對使徒最後的吩咐 & 「你們就必得著能力……作我的見證」——全書的引擎，升天前留下的最後命令 \\
 9:4-6 & 大馬士革路上，向掃羅顯現 & 「掃羅，掃羅，你為甚麼逼迫我？」——逼迫教會就是逼迫祂自己；同一事件在22:7-10、26:14-18 由保羅親自複述兩次 \\
-18:9-10 & 夜間異象，向在哥林多的保羅顯現 & 「不要怕，只管講，不要沉默……有我與你同在」——鼓勵懼怕退縮的僕人 \\
+18:9-10 & 夜間異象，向在哥林多的保羅顯現 & 「不要怕，只管講，不要閉口……有我與你同在」——鼓勵懼怕退縮的僕人 \\
 23:11 & 夜間，向被囚在耶路撒冷的保羅顯現 & 「放心吧！你怎樣在耶路撒冷為我作見證，也必怎樣在羅馬為我作見證」——在最黑暗的時刻，重申異象仍要成就 \\
 \bottomrule
 \end{longtable}
@@ -1281,7 +1309,7 @@ $body$
 \addcontentsline{toc}{chapter}{附錄七：希臘文原文詞彙表 (Appendix G: Greek Word Glossary)}
 \markboth{}{}
 
-\noindent 本表彙整全書各章「原文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
+\noindent 本表彙整全書二十八章「原文研讀」小節出現的全部 156 個希臘文詞彙，依希臘字母順序排列，供查閱參考。
 
 {\small
 \begin{longtable}{@{}p{3.05cm}p{3.35cm}p{2.55cm}p{3.85cm}@{}}
@@ -1289,83 +1317,162 @@ $body$
 \textbf{希臘文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
 \midrule
 \endhead
-ἄγγελος & angelos & 使者、天使 & 12:7, 11, 15——猶太人相信個人有守護天使 \\
-ἀγνώστῳ θεῷ & agnōstō theō & 未識之神明 & 17:23——雅典人的壇，保羅借為宣講真神的橋樑 \\
-ἀγράμματος καὶ ἰδιώτης & agrammatos kai idiōtēs & 沒有學問、平民 & 4:13——公會眼中的門外漢，卻認出「曾與耶穌同在」 \\
-ἀκρογωνιαῖος & akrogōniaios & 房角石、基石 & 4:11，引詩118:22——被棄的石頭成了根基 \\
-ἀκωλύτως & akōlytōs & 不受阻礙地 & 28:31——全書最後一字，新約僅此一見 \\
-ἀνάστασις & anastasis & 復活 & 23:6——保羅將審判焦點釘於此字 \\
-ἀνακρίνω & anakrinō & 仔細查考、審察 & 17:11——庇哩亞人主動核實所傳的道 \\
-ἀνελήμφθη & anelēmphthē & 被接上升 & 1:2, 11——被動語態，強調非自行離去 \\
-ἀπερίτμητοι & aperitmētoi & 未受割禮的（心與耳） & 7:51——司提反將割禮記號轉化為內心回應 \\
-ἀπολογία / ἀπολογέομαι & apologia / apologeomai & 申辯、辯詞 & 22:1；24:10；26:1-2——衍生英文 apologetics \\
-ἀρχηγός & archēgos & 創始者、元帥 & 3:15；5:31——「生命的創始者」，來2:10同字 \\
-ἀτενίζω & atenizō & 定睛、專注凝望 & 1:10；7:55；13:9；14:9——望向天／望向耶穌的關聯詞 \\
-ἀφορίζω & aphorizō & 分派、劃分出來 & 13:2——聖靈「分派」巴拿巴和掃羅 \\
-αἵρεσις & hairesis & 教派、異端 & 24:14——保羅承接此詞，扭轉為正統信仰的延續 \\
-αὐξάνω / πληθύνω & auxanō / plēthynō & 興旺、增多 & 12:24；19:20——標記福音擴展的階段性總結 \\
-αὐτομάτη & automatē & 自動地 & 12:10——鐵門「自動」開，衍生英文 automatic \\
-γλῶσσα & glōssa & 舌頭、語言 & 2:3-4, 11——可辨識的真實人類語言 \\
-δεισιδαιμονεστέρους & deisidaimonesterous & 敬畏鬼神（或宗教心強） & 17:22——保羅以中性說法開場，不先冒犯聽眾 \\
-δεκτός & dektos & 蒙悅納、可接受的 & 10:35——與路4:19「悅納人的禧年」同字根 \\
-δεσμός & desmos & 鎖鏈、捆綁 & 12:6-7——鐵鏈「脫落」用自動語態 \\
-διακονέω / διακονία & diakoneō / diakonia & 服事、供給 & 6:1-4——日常供給與傳道事奉同一字根 \\
-διακρίνω & diakrinō & 疑惑、區別 & 10:20；11:12；15:9——猶豫與區分猶太／外邦人的心結 \\
-διασπείρω & diaspeirō & 分散 & 8:1, 4——衍生「大流散」，逼迫成為福音撒種的方式 \\
-διασῴζω & diasōzō & 帶領安全渡過、全然拯救 & 27:44；28:1, 4——強調徹底、完全的拯救 \\
-δικαιόω & dikaioō & 稱義、宣告為義 & 13:39——法庭用語，身分的宣告而非道德改造 \\
-δύναμις & dynamis & 能力、大能 & 1:8——衍生英文 dynamite \\
-ἐκκλησία & ekklēsia & 教會、蒙召出來的群體 & 20:28——保羅稱之為「神的教會」 \\
-ἔκστασις & ekstasis & 魂遊象外、出神狀態 & 10:10；11:5——衍生英文 ecstasy \\
-ἐκτενῶς & ektenōs & 切切地、迫切地 & 12:5——原意伸展、拉緊，如繃緊的弓弦 \\
-ἐκχέω & ekcheō & 澆灌、傾倒 & 2:17-18, 33——約珥書「澆灌」的動詞 \\
-ἐπίσκοπος & episkopos & 監督、負責督導的人 & 20:28——與20:17「長老」同一批人的兩個稱呼 \\
-ἐπικαλέομαι Καίσαρα & epikaleomai Kaisara & 向凱撒上訴 & 25:11——羅馬公民法定用語，管轄權即刻轉移 \\
-ἐπιστρέφω & epistrephō & 轉向 & 13:46；14:15——轉向外邦人／歸向永生的神 \\
-εὐαγγελίζω & euangelizō & 傳講好消息 & 8:4, 12, 25, 35, 40——反覆出現，強調同一福音 \\
-εὐθυμέω & euthymeō & 放心、心裡歡喜 & 27:22, 25, 36——先信而後放心的次序 \\
-εὐνοῦχος & eunouchos & 太監 & 8:27——申23:1排除在會眾外，賽56:3-5預告神接納 \\
-ἕως ἐσχάτου τῆς γῆς & heōs eschatou tēs gēs & 直到地極 & 1:8——呼應賽49:6 \\
-ζυγός & zygos & 軛 & 15:10——「不能負的軛」，與太11:29-30對比 \\
-θαρσέω & tharseō & 放心、壯膽 & 23:11——主對保羅所說的第一個字，呼應約16:33 \\
-ἴασις & iasis & 醫治 & 4:22（動詞ἰάομαι見4:30）——路加是醫生，用詞精細 \\
-καθαρίζω & katharizō & 潔淨 & 10:15；11:9——被動語態，潔淨出於神不出於禮儀 \\
-κατανύσσομαι & katanyssomai & 扎心、刺透 & 2:37——全新約僅此一次 \\
-κλῆρος & klēros & 籤、份 & 1:17, 26——職份與抽籤同字根，衍生英文 clergy \\
-κοινός & koinos & 俗、污俗、共同的 & 10:14-15, 28；11:8——由食物延伸到人的潔淨用詞 \\
-κοιμάω & koimaō & 睡了、長眠 & 7:60——暗示暫時安息非終局 \\
-λαμπρός & lampros & 明亮、燦爛 & 22:6；26:13——大馬士革路上「比日頭還亮」的光 \\
-λύκοι βαρεῖς & lykoi bareis & 兇暴的豺狼 & 20:29——假師傅將從內外興起 \\
-μάρτυς & martys & 見證人 & 1:8；14:17——衍生英文 martyr（殉道者） \\
-μαίνομαι & mainomai & 瘋狂、失去理智 & 26:24——非斯都打斷保羅時所用 \\
-μάταιος & mataios & 虛妄、虛空 & 14:15——呼應詩115章對偶像的嘲諷 \\
-μετανοέω & metanoeō & 悔改 & 2:38；17:30——整個生命方向的扭轉 \\
-νοσφίζομαι & nosphizomai & 私自留下、私吞 & 5:2-3——七十士譯本亞干私藏當滅之物同字 \\
-ὁμοθυμαδόν & homothymadon & 同心合意 & 1:14；2:46；4:24——初代教會的標記詞 \\
-ἡ ὁδός & hē hodos & 這道、這條路 & 9:2；19:9, 23；22:4；24:14, 22——基督信仰是活出來的生命方式 \\
-οὐράνιος ὀπτασία & ouranios optasia & 從天上來的異象 & 26:19——保羅一生事奉的定錨點 \\
-παρρησία & parrēsia & 放膽、坦然無懼 & 4:13, 29, 31；5:29；28:31——貫穿逼迫敘事的關鍵詞 \\
-παροξυσμός & paroxysmos & 激烈的爭執 & 15:2, 39——衍生英文 paroxysm \\
-περίεργος & periergos & 過分講究之事、邪術 & 19:19——聲稱操控超自然力量的行業 \\
-περιτέμνω & peritemnō & 行割禮 & 15:1, 5——耶路撒冷大會爭議的起點 \\
-περιεποιήσατο & periepoiēsato & 買來、贏得為己有 & 20:28——中間語態，強調神為自己付上代價 \\
-πειράζω & peirazō & 試探 & 5:9——「試探主的靈」，與詩95:9同動詞 \\
-πείθω & peithō & 說服、勸服 & 26:28；28:23-24——保羅講道果效的貫穿字根 \\
-πλήρης πνεύματος & plērēs pneumatos & 滿有聖靈（和智慧） & 6:3, 5；7:55——揀選執事的資格與司提反殉道的鎮定 \\
-πνοή / πνεῦμα & pnoē / pneuma & 氣息、風、靈 & 2:2——呼應創2:7神吹氣、結37章異象 \\
-προσωπολήμπτης & prosōpolēmptēs & 偏待人、看外貌待人的人 & 10:34——彼得宣告神「不是」這樣的一位 \\
-πρόσωπον ἀγγέλου & prosōpon angelou & 天使的面貌 & 6:15——聖靈的同在使人無法直視司提反的平靜 \\
-προσκαρτερέω & proskartereō & 恆切、堅持不懈 & 1:14；2:42, 46——持續不斷的操練，非一次性聚會 \\
-Ῥωμαῖος & Rhōmaios & 羅馬公民 & 22:25-29——決定保羅能否免受鞭刑 \\
-σκεῦος ἐκλογῆς & skeuos eklogēs & 揀選的器皿 & 9:15——揀選在先，苦難隨後 \\
-σκηνοποιός & skēnopoios & 製造帳棚的人 & 18:3——保羅自食其力的手藝 \\
-σκληροτράχηλος & sklērotrachēlos & 硬著頸項 & 7:51——舊約控告以色列悖逆的常用詞 \\
-σκωληκόβρωτος & skōlēkobrōtos & 被蟲咬蝕 & 12:23——全新約僅此一次，描述希律死狀 \\
-σεισμὸς μέγας & seismos megas & 大地震 & 16:26——衍生英文 seismic \\
-συνωμοσία & synōmosia & 同謀、密謀 & 23:13——字根含「一同起誓」之意 \\
-φωνή & phōnē & 聲音 & 9:4, 7——客觀的聲音與主觀的理解之張力 \\
-χειροποίητος & cheiropoiētos & 人手所造的 & 7:48——弗2:11、來9:11,24同詞形容偶像 \\
-ψεύδομαι & pseudomai & 說謊、欺騙 & 5:3-4——欺騙聖靈即欺騙神 \\
+ἄγγελος & angelos & 使者、天使 & 12:7, 9, 11, 15——同一個字，12:15眾人以為是「他的天使」，反映當時猶太人相信個人有守護天使的觀念 \\
+ἁγνίζω & hagnizō & 潔淨、行潔淨禮 & 21:24, 26 \\
+ἄγνωστος θεός & agnōstos theos & 未識之神（雅典人為避免得罪未被祭拜的神明所立的壇） & 17:23 \\
+ἀγράμματος καὶ ἰδιώτης & agrammatos kai idiōtēs & 沒有學問的、平民 & 4:13——公會對彼得、約翰的評價，和合本譯「沒有學問的小民」 \\
+αἵρεσις & hairesis & 教派、宗派（英譯 sect） & 24:5, 14——帖土羅用以貶低保羅；24:14原文清楚區分ὁδός與αἵρεσις兩詞，「這道」不等於「異端」，二者不可混為一詞 \\
+ἀκριβέστερον & akribesteron & 更加詳細／更準確地 & 18:26 \\
+ἀκρογωνιαῖος & akrogōniaios & 房角石、基石 & 4:11，引自詩篇118:22——建築工人丟棄的石頭，成了整座建築承重的關鍵 \\
+ἀκωλύτως & akōlytōs & 不受阻礙地 & 28:31——全書最後一個字，此副詞形式在新約僅此一見 \\
+ἅλυσις & halysis & 鎖鏈 & 12:6-7——彼得「被兩條鐵鍊鎖著」，鐵鏈「就從他手上脫落下來」 \\
+ἀμάρτυρος & amartyros & 未留下見證的（形容詞） & 14:17——「未嘗不為自己留下證據」，原文是一個形容詞（α-privative + μάρτυς），非動詞，意即神從未讓自己「無見證」 \\
+ἀναθεματίζω & anathematizō & 起誓自咒、發重誓 & 23:12, 14——原文直譯「用咒詛咒詛自己」，比中文「起誓」更重，意指以自身性命作抵押 \\
+ἀνακρίνω & anakrinō & 仔細查考、審察（法庭用語，鑑定核實） & 17:11 \\
+ἀνάστασις & anastasis & 復活 & 17:18, 32 \\
+ἀνελήμφθη & anelēmphthē & 被接上升 & 1:2, 11——被動語態，強調耶穌是「被接」升天，不是自己飄走 \\
+ἀνθύπατος & anthypatos & 方伯（羅馬元老院省份的總督） & 18:12 \\
+ἀνίστημι & anistēmi & 起來 & 9:6, 8, 11, 34, 40 \\
+ἀπειθής & apeithēs & 不順從、悖逆 & 26:19「沒有違背」（οὐκ ἐγενόμην ἀπειθής）——直譯「我沒有變成不順從的人」 \\
+ἀπερίτμητος & aperitmētos & 未受割禮的（心與耳） & 7:51 \\
+ἀποκατάστασις & apokatastasis & 復興、恢復原狀 & 3:21——「萬物復興」，指萬物恢復到神原初創造的完整狀態 \\
+ἀπολογέομαι & apologeomai & 申辯、分訴 & 25:8——保羅的申辯，不是自保的技巧，而是澄清事實 \\
+ἀπολογία & apologia & 申辯、辯詞 & 22:1——保羅稱自己接下來要說的話為「申辯」，此字後來成為「護教學」(apologetics) 的字源 \\
+ἀπρόσκοπος & aproskopos & 無虧、不使人絆跌 & 24:16——CUV譯作「無虧」，兼有「不絆跌自己」與「不絆跌他人」雙重含意 \\
+Ἄρειος Πάγος & Areios Pagos & 亞略巴古，字面「戰神（Ares）之山」，… & 17:19, 22 \\
+ἁρπάζω & harpazō & 奪去、提去 & 8:39 \\
+ἀρχηγός & archēgos & 開路先鋒、創始者、源頭 & 3:15——CUV譯作「主」；同一個字在5:31 CUV譯作「君王」，來2:10譯作「元帥」，來12:2譯作「創始成終」 \\
+ἀσκέω & askeō & 操練、鍛鍊自己 & 24:16——英文 "ascetic"（禁欲主義者）的字源；保羅描述持守良心是一種主動、持續的操練，不是被動的心境 \\
+ἀτενίζω & atenizō & 定睛、專注凝望 & 7:55 \\
+αὐξάνω / πληθύνω & auxanō / plēthynō & 興旺、增多 & 12:24——同一組動詞在1:8的應許之後反覆出現，標記福音擴展的階段性總結 \\
+αὐτομάτη & automatē & 自動地 & 12:10——鐵門「自己」開了，衍生英文 automatic，強調這不是人力所能，是超自然的介入 \\
+ἀφορίζω & aphorizō & 分派、劃分出來 & 13:2 \\
+γλῶσσα & glōssa & 舌頭、語言 & 2:3-4, 11——路加所指的是真實可辨識的人類語言（各人「本地的鄉談」），不是無可辨識的音節 \\
+δεισιδαιμονέστερος & deisidaimonesteros & 敬畏鬼神／宗教心很重（字義中性，可褒可貶） & 17:22 \\
+δεισιδαιμονία & deisidaimonia & 宗教、敬鬼神的事 & 25:19——非斯都用來形容猶太教與基督信仰爭議的中性字，暴露他對「耶穌復活」這件事的無知與冷漠 \\
+δεκτός & dektos & 蒙悅納、可接受的 & 10:35 \\
+δέω / δεσμά & deō / desma & 捆綁；捆鎖 & 21:11, 13, 33 \\
+διαβαίνω & diabas (diabainō) & 越過、渡過 & 16:9 \\
+διακονία / διακονέω & diakonia / diakoneō & 服事、供給 & 6:1-4——「天天的供給」（διακονία）與使徒「傳道」的「事」（διακονία τοῦ λόγου）原文同一字根，服事餐桌與服事話語，在原文沒有高低之分 \\
+διακρίνω & diakrinō & 疑惑、區別 & 10:20 \\
+διανοίγω & diēnoixen (dianoigō) & 開啟 & 16:14 \\
+διασπείρω & diaspeirō & 分散 & 8:1, 4 \\
+διασῴζω & diasōzō & 帶領安全渡過、全然得救 & 27:44 \\
+δικαιόω & dikaioō & 稱義、宣告為義 & 13:39 \\
+διώκω & diōkō & 逼迫 & 9:4, 5 \\
+δυνάμεις τε οὐ τὰς τυχούσας & dynameis te ou tas tychousas & 非比尋常的異能 & 19:11——直譯「不是普通的神蹟」，路加刻意用雙重否定強調這些神蹟超乎尋常 \\
+δύναμις & dynamis & 能力、大能 & 1:8——衍生英文 dynamite，指足以炸開局面的能力，不是道德勇氣 \\
+δωρεά & dōrea & 白白的恩賜 & 8:20 \\
+Ἑβραΐς / Ἑβραϊστί & Hebrais / Hebraisti & 希伯來話 & 22:2——很可能指當時猶太人日常使用的亞蘭語 \\
+εἰδωλόθυτος & eidōlothytos & 祭過偶像的食物 & 15:29——四項禁戒之一，保羅在哥林多前書8-10章有更詳細的牧養處理 \\
+ἐκκλησία & ekklēsia & 聚集的群眾／蒙召出來的群體 & 19:32, 39, 41——本章三次用來指劇場裏那群「亂哄哄的聚集」，與新約書信裏「教會」的用法同一個字，形成尖銳的反諷 \\
+ἐκπέμπω & ekpempō & 差遣、打發出去 & 13:4 \\
+ἔκστασις & ekstasis & 魂遊象外、出神狀態 & 10:10 \\
+ἐκτενῶς & ektenōs & 切切地、迫切地 & 12:5——原意「伸展、拉緊」，形容禱告如繃緊的弓弦，不是例行公事的祈求 \\
+ἐκχέω & ekcheō & 澆灌、傾倒 & 2:17-18, 33——約珥書「澆灌」的動詞，強調聖靈的臨到是慷慨、滿溢的傾倒，不是節制的滴落 \\
+Ἕλλην & Hellēn & 希臘人（此處指外邦人） & 11:20 \\
+ἔμφοβος γενόμενος & emphobos genomenos & 甚覺恐懼 & 24:25——腓力斯聽見公義、節制、將來的審判，這是他在全書中唯一一次流露出的真實反應 \\
+ἐπικαλέομαι Καίσαρα & epikaleomai Kaisara & 上告於該撒 & 25:11-12, 21, 25——羅馬公民的法定用語，一經說出，案件管轄權即刻轉移到皇帝手中 \\
+ἐπίσκοπος & episkopos & 監督、督導者 & 20:28 \\
+ἐπιστηρίζω & epistērizō & 堅固、扶持 & 14:22——複合詞，字面有「從旁撐住」之意，用於軟弱、初信的人 \\
+ἕτοιμος & hetoimos & 預備好、甘心 & 21:13 \\
+εὐαγγελίζω & euangelizō & 傳講好消息 & 8:4, 12, 25, 35, 40 \\
+εὐθυμέω & euthymeō & 放心、心裏歡喜、鼓起勇氣 & 27:22, 25, 36 \\
+εὐνοῦχος & eunouchos & 太監 & 8:27 \\
+Εὐρακύλων & Eurakylōn & 友拉革羅（東北暴風） & 27:14 \\
+Εὔτυχος & Eutychos & 猶推古（人名，意為「幸運的」） & 20:9 \\
+ἔχιδνα & echidna & 毒蛇 & 28:3——同一個字，施洗約翰曾用來斥法利賽人「毒蛇的種類」（太3:7），此處卻是一條真實的蛇 \\
+ἕως ἐσχάτου τῆς γῆς & heōs eschatou tēs gēs & 直到地極 & 1:8——呼應以賽亞書49:6「我還要使你作外邦人的光，叫你施行我的救恩，直到地極」 \\
+ζηλωτής & zēlōtēs & 熱心的人 & 22:3——保羅自稱「熱心事奉神」，與昔日逼迫教會的熱心（加1:14）是同一個字 \\
+ζυγός & zygos & 軛 & 15:10——彼得稱律法為「我們祖宗和我們所不能負的軛」 \\
+ηὔξανεν καὶ ἴσχυεν & ēuxanen kai ischuen & 大大興旺，而且得勝 & 19:20——兩個未完成式動詞並列，描述「道」像活物一樣持續生長、持續得勝，是全書第五句「道的增長」總結 \\
+θαρσέω & tharseō & 放心、壯膽 & 23:11——主對保羅說的第一個字，命令式 \\
+θάρσος & tharsos & 壯膽、勇氣（動詞λαμβάνω θάρσος「拿起勇… & 28:15——保羅見了迎接的弟兄，就「放心壯膽」 \\
+θλῖψις & thlipsis & 艱難、患難、壓迫 & 14:22——本章鑰詞。原文複數「θλίψεων」，強調不止一種苦難 \\
+θύρα & thyra & 門 & 14:27——「神怎樣為外邦人開了信道的門」 \\
+ἴασις & iasis & 醫治（名詞） & 4:30——與動詞 ἰάομαι 同字根，這裏是名詞形式，指神藉聖僕耶穌的名「伸出手來」所行的醫治 \\
+ἵστημι & hestōta & 站立（現在式分詞） & 7:55-56 \\
+καθαρίζω & katharizō & 潔淨 & 10:15 \\
+καιροὶ ἀναψύξεως & kairoi anapsyxeōs & 舒爽、更新的時候 & 3:19-20——「安舒的日子」，字面指「喘息、復甦的時候」 \\
+κατανύσσομαι & katanyssomai & 扎心、刺透 & 2:37——全新約僅此一次，字面意思是「被刺穿」，形容話語如利刃刺入良心 \\
+κατηγορέω & katēgoreō & 控告 & 25:5, 7, 11, 16, 18——全章的控訴始終「不能證實」（25:7） \\
+κλῆρος & klēros & 籤、份 & 1:17, 26——同一個字根既指「職份」也指「抽籤」，後來衍生英文 clergy（聖職人員） \\
+κοινός & koinos & 俗、污俗、共同的 & 10:14-15, 28 \\
+κυβερνήτης & kybernētēs & 掌船的、船長 & 27:11 \\
+κωλυθέντες / οὐκ εἴασεν & kōlythentes / ouk eiasen & 禁止 / 不許 & 16:6-7 \\
+λαός & laos & 百姓／子民 & 18:10 \\
+λατρεύω & latreuō & 事奉、敬拜 & 27:23 \\
+λεπίς & lepis & 鱗 & 9:18 \\
+λιμός & limos & 饑荒 & 11:28 \\
+λόγιος & logios & 有學問的／有口才的 & 18:24 \\
+μαγεύω / μαγεία & mageuō / mageia & 行邪術 & 8:9, 11 \\
+μαίνομαι & mainomai & 瘋狂、失去理智 & 26:24-25——非斯都的指控用詞 \\
+μακάριον & makarion & 有福的 & 20:35 \\
+μάρτυς & martys & 見證人 & 1:8——此字後來衍生英文 martyr（殉道者），見證與殉道自古一體兩面 \\
+μάταιος & mataios & 虛妄、虛空 & 14:15——保羅稱異教偶像為「虛妄的事」 \\
+μετανοέω & metanoeō & 悔改，心思的轉向 & 17:30 \\
+μετάνοια & metanoia & 悔改 & 11:18 \\
+Ναζωραῖος & Nazōraios & 拿撒勒人 & 22:8——復活的主向保羅自我介紹的稱號 \\
+νεωκόρος & neōkoros & 守廟者、廟的看守人 & 19:35——書記官用以尊稱以弗所城的官方頭銜，指城市正式承擔亞底米廟守護者的職責 \\
+νοσφίζομαι & nosphizomai & 私自留下、私吞 & 5:2-3 \\
+ὁδός & hodos & 這道、道路 & 24:14, 22——路加全書用以稱呼基督信仰之名，保羅在敵意的公堂上親自承接這稱呼 \\
+ὁλοκληρία & holoklēria & 全然痊癒、完全的健壯 & 3:16——新約全書僅此一次使用，強調不是部分好轉，是全人的完整 \\
+ὁμοθυμαδόν & homothymadon & 同心合意 & 1:14——直譯「同一個情緒、心志」，使徒行傳全書出現十次，是初代教會的標記詞 \\
+ὀπτασία & optasia & 異象、顯現 & 26:19——保羅一生的定錨點，全章的鑰詞 \\
+οὗ … εἰμι & hou … eimi & 「我所屬」的（所有格關係代名詞＋是動詞） & 27:23 \\
+παρατίθεμαι & paratithemai & 交託、寄存（本章鑰詞） & 20:32 \\
+παροξυσμός & paroxysmos & 激烈的爭執 & 15:39——直譯「尖銳的摩擦」，衍生英文 paroxysm（突發、劇烈發作） \\
+παρρησία & parrēsia & 放膽、坦然無懼的言論 & 4:13, 29, 31——本章鑰詞；原意指公民在公共場合暢所欲言的權利 \\
+παρρησιάζομαι & parrēsiazomai & 放膽傳講 & 9:27, 29 \\
+πείθω & peithō & 說服、勸服 & 26:28——亞基帕的回應，見下節討論 \\
+πειράζω & peirazō & 試探 & 5:9 \\
+περιεποιήσατο & periepoiēsato & 買來、贏得為己有 & 20:28 \\
+περιτέμνω & peritemnō & 行割禮 & 15:1, 5——整章爭議的起點，是否需要這個亞伯拉罕之約的記號 \\
+πίστις & pistis & 信心 & 6:5——司提反「大有信心、聖靈充滿」，信心先於下文所記的能力（6:8） \\
+πλήρης πνεύματος ἁγίου & plērēs pneumatos hagiou & 滿有聖靈 & 7:55 \\
+πλήρης πνεύματος [ἁγίου] καὶ σοφίας & plērēs pneumatos (hagiou) kai sophias & 被聖靈充滿、智慧充足 & 6:3, 5——揀選七人的資格；聖靈的充滿與屬靈的智慧並列，缺一不可 \\
+πνεῦμα & pneuma & 靈；聖靈 & 21:4 \\
+πνεῦμα πύθωνα & pneuma pythōna & 占卜的靈（畢冬靈） & 16:16 \\
+πνοή / πνεῦμα & pnoē / pneuma & 氣息、風、靈 & 2:2——同一字根既指自然界的風，也指神的靈，呼應創世記2:7神吹氣、以西結書37章枯骨復活的異象 \\
+πρεσβύτεροι & presbyteroi & 長老 & 20:17 \\
+πρὸς κέντρα λακτίζειν & pros kentra laktizein & 用腳踢刺棒 & 26:14——希臘世界慣用的成語（喻徒勞抗拒），路加保留了這句希臘化的俗語，未見於舊約 \\
+προσκαρτερέω & proskartereō & 專心、持續不放鬆地委身於一件事 & 6:4——本章鑰詞「專心」的原文；同一詞也用於早期教會「恆心遵守使徒的教訓」（2:42）、「同心合意地恆切禱告」（1:14, 2:46） \\
+προσωπολήμπτης & prosōpolēmptēs & 偏待人、看外貌待人的人 & 10:34 \\
+πρόσωπον ἀγγέλου & prosōpon angelou & 天使的面貌 & 6:15——不是司提反容貌真的改變，是聖靈的同在使公會的人無法直視他的平靜 \\
+προφητεύω & prophēteuō & 說預言 & 21:9, 10-11 \\
+προφήτης & prophētēs & 先知 & 3:22-23——引自申18:15-19，彼得宣告耶穌就是那位先知的應驗 \\
+Ῥωμαῖος & Rhōmaios & 羅馬公民 & 22:25-29——保羅表明身份的關鍵詞，決定他能否免受鞭刑 \\
+σεισμὸς μέγας & seismos megas & 大地震 & 16:26 \\
+σημεῖα καὶ τέρατα & sēmeia kai terata & 神蹟奇事 & 5:12 \\
+σκεῦος ἐκλογῆς & skeuos eklogēs & 揀選的器皿 & 9:15 \\
+σκηνοποιός & skēnopoios & 製造帳篷的人 & 18:3 \\
+σκιά & skia & 影兒 & 5:15 \\
+σκληροτράχηλος & sklērotrachēlos & 硬著頸項 & 7:51 \\
+σκωληκόβρωτος & skōlēkobrōtos & 被蟲咬蝕 & 12:23——全新約僅此一次，複合字由「蟲」與「咬蝕」組成，描述希律死狀的具體與難堪 \\
+σουδάρια ἢ σιμικίνθια & soudaria ē simikinthia & 手巾或圍裙 & 19:12——保羅工作時所用的汗巾、圍裙，神藉此行醫治，並非物件本身有魔力 \\
+σοφία & sophia & 智慧 & 6:3, 10——與聖靈同列的資格，也是司提反辯論時「眾人敵擋不住」的原因 \\
+σπερμολόγος & spermologos & 字面指啄食穀粒殘屑的雀鳥，引申為拾人牙慧、… & 17:18 \\
+συνείδησις & syneidēsis & 良心 & 24:16——本章鑰詞，字面意為「與……同知」，指人內裏那能同時知曉自己行為與神旨意的官能 \\
+συνείχετο τῷ λόγῳ & syneicheto tō logō & 為道迫切／被道約束 & 18:5 \\
+συνωμοσία & synōmosia & 同謀、密謀 & 23:13——字根含「一同起誓」之意，呼應23:12的咒誓動作 \\
+σωθῶ / σωθήσῃ（σῴζω） & sōthō / sōthēsē (sōzō) & 得救 & 16:30-31 \\
+σωτηρία & sōtēria & 拯救、救恩 & 4:12——「除他以外，別無拯救」，全篇答辯收束在這一個名詞上 \\
+σωφροσύνη & sōphrosynē & 清醒、明白、節制 & 26:25——保羅回應非斯都「你瘋了」的指控，針鋒相對地用「真實明白話」（ἀλήθεια καὶ σωφροσύνη）自辯 \\
+τὰ περίεργα & ta perierga & 邪術書、繁瑣詭祕之術 & 19:19「行邪術的」——字面意思是「多此一舉、故弄玄虛之事」，指涉聲稱能操控超自然力量的行業 \\
+τάσσω & tassō（完成被動分詞） & 指定、預定 & 13:48 \\
+τοῖχε κεκονιαμένε & toiche kekoniamene & 粉飾的牆 & 23:3——κονιάω意為「塗白灰」，保羅用來揭穿亞拿尼亞外表守法、內裏違法的假面 \\
+τρίστεγον & tristegon & 三層樓 & 20:9 \\
+ὑπηρέτης & hypēretēs & 執事、僕役 & 26:16「派你作執事」——原指划槳的下層船員，喻順服差遣、不問去向 \\
+φαντασία & phantasia & 排場、威勢 & 25:23——「大張威勢」原文本義即「表演、外觀」，與保羅樸素的鎖鏈形成強烈對比 \\
+φόβος μέγας & phobos megas & 大大懼怕 & 5:5, 11 \\
+φῶς & phōs & 光 & 13:47 \\
+χάρις & charis & 恩典 & 11:23 \\
+χάρις καὶ δύναμις & charis kai dynamis & 恩惠與能力 & 6:8——司提反事奉的兩極：得人喜悅的恩惠、行神蹟奇事的能力，兩者同出一位聖靈 \\
+χειροποίητος & cheiropoiētos & 人手所造的 & 7:48 \\
+χειροτονέω & cheirotoneō & 選立、按立 & 14:23——原意與「舉手」有關（cheir手＋teinō伸出），此處指使徒鄭重選立長老 \\
+χιλίαρχος & chiliarchos & 千夫長 & 23:10, 15, 17-19, 22-24——羅馬千人隊指揮官，本章的關鍵保護者 \\
+Χριστιανός & Christianos & 基督徒 & 11:26（新約首次出現，另見26:28、彼前4:16） \\
+ψεύδομαι & pseudomai & 說謊、欺騙 & 5:3-4 \\
 \bottomrule
 \end{longtable}
 }
@@ -1486,7 +1593,7 @@ $body$
 \vspace*{\fill}
 
 {\fontsize{15}{18}\selectfont\scshape\color{ChapterFlame} μάρτυρές μου}\\[0.10cm]
-{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} ``My Witnesses'' \;\;
+{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} “My Witnesses” \;\;
 \bfseries\color{JesusRed} 我的見證}
 
 \vspace{0.25cm}
@@ -1498,7 +1605,7 @@ $body$
 \vspace{0.2cm}
 \noindent\begin{minipage}{4.7in}
 \footnotesize\color{TextGray}
-本書逐章研讀使徒行傳二十八章，整合黃長老查經教導、
+本書逐章研讀使徒行傳二十八章，整合老弟兄查經法、
 John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
 並貫通路加福音、保羅書信與啟示錄。
 全書以使徒行傳 1:8 為總綱：
@@ -1509,7 +1616,7 @@ A chapter-by-chapter study of all 28 chapters of Acts,
 integrating Elder Wong's teaching, John MacArthur's verse-by-verse
 exposition, and G. Campbell Morgan's spiritual analysis —
 framed by Acts 1:8's outline: Jerusalem, Judea and Samaria,
-and to the end of the earth.}
+and the remotest part of the earth.}
 \end{minipage}
 
 \vspace{0.35cm}
