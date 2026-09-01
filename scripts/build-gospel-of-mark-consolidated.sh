@@ -55,10 +55,9 @@ copyright: |
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
+  Scripture quotations taken from the New American Standard Bible® (NASB),
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. All rights reserved. lockman.org
 
   All rights reserved.
 ---
@@ -119,7 +118,7 @@ add_file "$INPUT_DIR/00b-systematic-reception.md"
 # 正文 · 四部
 # ============================================================
 add_volume "序言 · 預備道路——僕人登場 (Prologue) · 1:1-13" \
-    "十三節，三幕戲：被預告、被印證、被試驗。僕人不需要家譜——第一章第九節，祂已經站在約但河裡了。" \
+    "十三節，三幕戲：被預告、被印證、被試驗。僕人不需要家譜——第一章第九節，祂已經站在約但河裏了。" \
     "**進院門**——曠野的人聲替主開路" \
     "1:1「神的兒子」——作者向讀者交底" \
     "啟 22:16「我是大衛的根，又是他的後裔」"
@@ -133,7 +132,7 @@ add_volume "第一部 · 加利利事工——僕人的服事 (Galilean Ministry
 for i in 01d 02 03 04 05 06 07 08a; do add_chapter "$i"; done
 
 add_volume "第二部 · 走向耶路撒冷——僕人的道路 (The Way to Jerusalem) · 8:27-10:52" \
-    "書脊在這裡：彼得答對了名字，答錯了意思。三次預言，三次跌倒，三堂僕人的課——結在 10:45。" \
+    "書脊在這裏：彼得答對了名字，答錯了意思。三次預言，三次跌倒，三堂僕人的課——結在 10:45。" \
     "**從盆到壇的那段路**——兩個瞎子作前後的括號" \
     "8:29「你們說我是誰」→ 10:45「捨命作多人的贖價」" \
     "啟 5:9「用自己的血……買了人來」"
@@ -154,6 +153,12 @@ add_volume "卷末 · 望向那一頭 (Toward the Other End)" \
 >
 > 門徒出去，到處宣傳福音。主和他們同工，用神蹟隨著，證實所傳的道。阿們！（可 16:20）"
 add_file "$INPUT_DIR/99-to-the-throne.md"
+
+# 附錄 — sources & verification ledger (mirrors gospel-of-luke), then the
+# Scripture index (generated from the per-chapter 與其他經文的關聯 tables by
+# scratchpad/build-scripture-index.py; regenerate it if those tables change).
+add_file "$INPUT_DIR/99-appendix-references.md"
+add_file "$INPUT_DIR/99-appendix-scripture-index.md"
 
 # 跋 — afterword (the ministry, the 66-volume prayer).
 # Last content file: no trailing \newpage (the template backmatter opens

@@ -10,7 +10,7 @@ publisher: 三書精讀出版系統
 
 馬可福音 6:1-56
 
-**經文核對**：[ai-eden.com/bible/mark/6](https://www.ai-eden.com/bible/mark/6?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/mark/6](https://www.ai-eden.com/bible/mark/6?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
@@ -18,21 +18,21 @@ publisher: 三書精讀出版系統
 > **僕人座標**：僕人在本鄉被厭棄（6:3「這不是那木匠麼」），卻在曠野作了群羊的牧人（6:34「如同羊沒有牧人一般」）——王的筵席殺了先知，僕人的筵席餵飽五千；海面上一句「是我，不要怕」（6:50），道出僕人隱藏的身分。 \
 > （全書骨幹見卷首《「立刻」與十字架——全書的骨幹》）
 
-這一章把僕人基督推向事工的另一個高峰，也帶讀者經歷祂事工中最尖銳的一次挫敗——在自己的家鄉，祂「不得行甚麼異能」，只能「詫異他們不信」。但拒絕沒有攔阻使命：祂隨即差遣十二個門徒兩個兩個出去，讓僕人的服事倍增；祂的先鋒施洗約翰死於一場荒唐的生日筵席，祂卻在曠野為無牧之羊擺設另一場筵席；然後在海面上行走，向搖櫓甚苦的門徒說出「是我」。從被厭棄到餵飽萬人、從殉道者的死到創造主行走水面，馬可讓讀者看見：人的拒絕與死亡的威脅，都不能攔阻這位好牧人牧養祂的羊。
+這一章從僕人事工最尖銳的一次挫敗開始：在自己的家鄉，祂「不得行甚麼異能」，只能「詫異他們不信」。拒絕沒有攔阻使命：祂差十二個門徒兩個兩個出去；祂的先鋒死於一場荒唐的生日筵席，祂卻在曠野為無牧之羊擺設另一場筵席；然後在海面上行走，向搖櫓甚苦的門徒說「是我」。人的拒絕與死亡的威脅，都攔不住這位牧人牧養祂的羊。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Break Thou the Bread of Life**
+> **Break Thou the Bread of Life** \
 > *Mary A. Lathbury, 1877*
 >
-> Break Thou the bread of life, dear Lord, to me,
-> As Thou didst break the loaves beside the sea;
-> Beyond the sacred page I seek Thee, Lord;
+> Break Thou the bread of life, dear Lord, to me, \
+> As Thou didst break the loaves beside the sea; \
+> Beyond the sacred page I seek Thee, Lord; \
 > My spirit pants for Thee, O Living Word!
 >
-> 主，為我擘開生命餅，如在海邊擘餅；
+> 主，為我擘開生命餅，如在海邊擘餅； \
 > 我要超越聖經文字，尋求你活潑話語！
 
 ---
@@ -43,41 +43,42 @@ publisher: 三書精讀出版系統
 
 **拿撒勒人厭棄耶穌**
 
-> ^1^耶穌離開那裡，來到自己的家鄉；門徒也跟從他。^2^到了安息日，他在會堂裡教訓人。眾人聽見，就甚希奇，說：「這人從那裡有這些事呢？所賜給他的是甚麼智慧？他手所做的是何等的異能呢？^3^這不是那木匠麼？不是馬利亞的兒子雅各、約西、猶大、西門的長兄麼？他妹妹們不也是在我們這裡麼？」他們就厭棄他。^4^耶穌對他們說：\jesus{「大凡先知，除了本地、親屬、本家之外，沒有不被人尊敬的。」}^5^耶穌就在那裡不得行甚麼異能，不過按手在幾個病人身上，治好他們。^6^他也詫異他們不信，就往周圍鄉村教訓人去了。
+> ^1^耶穌離開那裏，來到自己的家鄉；門徒也跟從他。^2^到了安息日，他在會堂裏教訓人。眾人聽見，就甚希奇，說：「這人從那裏有這些事呢？所賜給他的是甚麼智慧？他手所做的是何等的異能呢？^3^這不是那木匠麼？不是馬利亞的兒子雅各、約西、猶大、西門的長兄麼？他妹妹們不也是在我們這裏麼？」他們就厭棄他。^4^耶穌對他們說：\jesus{「大凡先知，除了本地、親屬、本家之外，沒有不被人尊敬的。」}^5^耶穌就在那裏不得行甚麼異能，不過按手在幾個病人身上，治好他們。^6^他也詫異他們不信，就往周圍鄉村教訓人去了。
 
 **差遣十二使徒**
 
-> ^7^耶穌叫了十二個門徒來，差遣他們兩個兩個的出去，也賜給他們權柄，制伏污鬼；^8^並且囑咐他們：行路的時候不要帶食物和口袋，腰袋裡也不要帶錢，除了柺杖以外，甚麼都不要帶；^9^只要穿鞋，也不要穿兩件掛子，^10^又對他們說：\jesus{「你們無論到何處，進了人的家，就住在那裡，直到離開那地方。^11^何處的人不接待你們，不聽你們，你們離開那裡的時候，就把腳上的塵土跺下去，對他們作見證。」}^12^門徒就出去傳道，叫人悔改，^13^又趕出許多的鬼，用油抹了許多病人，治好他們。
+> ^7^耶穌叫了十二個門徒來，差遣他們兩個兩個的出去，也賜給他們權柄，制伏污鬼；^8^並且囑咐他們：行路的時候不要帶食物和口袋，腰袋裏也不要帶錢，除了柺杖以外，甚麼都不要帶；^9^只要穿鞋，也不要穿兩件掛子，^10^又對他們說：\jesus{「你們無論到何處，進了人的家，就住在那裏，直到離開那地方。^11^何處的人不接待你們，不聽你們，你們離開那裏的時候，就把腳上的塵土跺下去，對他們作見證。」}^12^門徒就出去傳道，叫人悔改，^13^又趕出許多的鬼，用油抹了許多病人，治好他們。
 
 **王的筵席：希律殺施洗約翰**
 
-> ^14^耶穌的名聲傳揚出來。希律王聽見了，就說：「施洗的約翰從死裡復活了，所以這些異能由他裡面發出來。」^15^但別人說：「是以利亞。」又有人說：「是先知，正像先知中的一位。」^16^希律聽見卻說：「是我所斬的約翰，他復活了。」^17^先是希律為他兄弟腓力的妻子希羅底的緣故，差人去拿住約翰，鎖在監裡，因為希律已經娶了那婦人。^18^約翰曾對希律說：「你娶你兄弟的妻子是不合理的。」^19^於是希羅底懷恨他，想要殺他，只是不能；^20^因為希律知道約翰是義人，是聖人，所以敬畏他，保護他，聽他講論，就多照著行，並且樂意聽他。^21^有一天，恰巧是希律的生日，希律擺設筵席，請了大臣和千夫長，並加利利作首領的。^22^希羅底的女兒進來跳舞，使希律和同席的人都歡喜。王就對女子說：「你隨意向我求甚麼，我必給你」；^23^又對他起誓說：「隨你向我求甚麼，就是我國的一半，我也必給你。」^24^他就出去對他母親說：「我可以求甚麼呢？」他母親說：「施洗約翰的頭。」^25^他就急忙進去見王，求他說：「我願王立時把施洗約翰的頭放在盤子裡給我。」^26^王就甚憂愁；但因他所起的誓，又因同席的人，就不肯推辭，^27^隨即差一個護衛兵，吩咐拿約翰的頭來。護衛兵就去，在監裡斬了約翰，^28^把頭放在盤子裡，拿來給女子，女子就給他母親。^29^約翰的門徒聽見了，就來把他的屍首領去，葬在墳墓裡。
+> ^14^耶穌的名聲傳揚出來。希律王聽見了，就說：「施洗的約翰從死裏復活了，所以這些異能由他裏面發出來。」^15^但別人說：「是以利亞。」又有人說：「是先知，正像先知中的一位。」^16^希律聽見卻說：「是我所斬的約翰，他復活了。」^17^先是希律為他兄弟腓力的妻子希羅底的緣故，差人去拿住約翰，鎖在監裏，因為希律已經娶了那婦人。^18^約翰曾對希律說：「你娶你兄弟的妻子是不合理的。」^19^於是希羅底懷恨他，想要殺他，只是不能；^20^因為希律知道約翰是義人，是聖人，所以敬畏他，保護他，聽他講論，就多照著行，並且樂意聽他。^21^有一天，恰巧是希律的生日，希律擺設筵席，請了大臣和千夫長，並加利利作首領的。^22^希羅底的女兒進來跳舞，使希律和同席的人都歡喜。王就對女子說：「你隨意向我求甚麼，我必給你」；^23^又對他起誓說：「隨你向我求甚麼，就是我國的一半，我也必給你。」^24^他就出去對他母親說：「我可以求甚麼呢？」他母親說：「施洗約翰的頭。」^25^他就急忙進去見王，求他說：「我願王立時把施洗約翰的頭放在盤子裏給我。」^26^王就甚憂愁；但因他所起的誓，又因同席的人，就不肯推辭，^27^隨即差一個護衛兵，吩咐拿約翰的頭來。護衛兵就去，在監裏斬了約翰，^28^把頭放在盤子裏，拿來給女子，女子就給他母親。^29^約翰的門徒聽見了，就來把他的屍首領去，葬在墳墓裏。
 
 **僕人的筵席：五餅二魚餵飽五千人**
 
-> ^30^使徒聚集到耶穌那裡，將一切所做的事、所傳的道全告訴他。^31^他就說：\jesus{「你們來，同我暗暗的到曠野地方去歇一歇。」}這是因為來往的人多，他們連吃飯也沒有工夫。^32^他們就坐船，暗暗的往曠野地方去。^33^眾人看見他們去，有許多認識他們的，就從各城步行，一同跑到那裡，比他們先趕到了。^34^耶穌出來，見有許多的人，就憐憫他們，因為他們如同羊沒有牧人一般，於是開口教訓他們許多道理。^35^天已經晚了，門徒進前來，說：「這是野地，天已經晚了，^36^請叫眾人散開，他們好往四面鄉村裡去，自己買甚麼吃。」^37^耶穌回答說：\jesus{「你們給他們吃罷。」}門徒說：「我們可以去買二十兩銀子的餅，給他們吃麼？」^38^耶穌說：\jesus{「你們有多少餅，可以去看看。」}他們知道了，就說：「五個餅，兩條魚。」^39^耶穌吩咐他們，叫眾人一幫一幫的坐在青草地上。^40^眾人就一排一排的坐下，有一百一排的，有五十一排的。^41^耶穌拿著這五個餅，兩條魚，望著天祝福，擘開餅，遞給門徒，擺在眾人面前，也把那兩條魚分給眾人。^42^他們都吃，並且吃飽了。^43^門徒就把碎餅碎魚收拾起來，裝滿了十二個籃子。^44^吃餅的男人共有五千。
+> ^30^使徒聚集到耶穌那裏，將一切所做的事、所傳的道全告訴他。^31^他就說：\jesus{「你們來，同我暗暗的到曠野地方去歇一歇。」}這是因為來往的人多，他們連吃飯也沒有工夫。^32^他們就坐船，暗暗的往曠野地方去。^33^眾人看見他們去，有許多認識他們的，就從各城步行，一同跑到那裏，比他們先趕到了。^34^耶穌出來，見有許多的人，就憐憫他們，因為他們如同羊沒有牧人一般，於是開口教訓他們許多道理。^35^天已經晚了，門徒進前來，說：「這是野地，天已經晚了，^36^請叫眾人散開，他們好往四面鄉村裏去，自己買甚麼吃。」^37^耶穌回答說：\jesus{「你們給他們吃罷。」}門徒說：「我們可以去買二十兩銀子的餅，給他們吃麼？」^38^耶穌說：\jesus{「你們有多少餅，可以去看看。」}他們知道了，就說：「五個餅，兩條魚。」^39^耶穌吩咐他們，叫眾人一幫一幫的坐在青草地上。^40^眾人就一排一排的坐下，有一百一排的，有五十一排的。^41^耶穌拿著這五個餅，兩條魚，望著天祝福，擘開餅，遞給門徒，擺在眾人面前，也把那兩條魚分給眾人。^42^他們都吃，並且吃飽了。^43^門徒就把碎餅碎魚收拾起來，裝滿了十二個籃子。^44^吃餅的男人共有五千。
 
 **耶穌在海面上行走**
 
-> ^45^耶穌隨即催門徒上船，先渡到那邊伯賽大去，等他叫眾人散開。^46^他既辭別了他們，就往山上去禱告。^47^到了晚上，船在海中，耶穌獨自在岸上；^48^看見門徒因風不順，搖櫓甚苦。夜裡約有四更天，就在海面上走，往他們那裡去，意思要走過他們去。^49^但門徒看見他在海面上走，以為是鬼怪，就喊叫起來；^50^因為他們都看見了他，且甚驚慌。耶穌連忙對他們說：\jesus{\textbf{「你們放心！是我，不要怕！」}}^51^於是到他們那裡，上了船，風就住了；他們心裡十分驚奇。^52^這是因為他們不明白那分餅的事，心裡還是愚頑。
+> ^45^耶穌隨即催門徒上船，先渡到那邊伯賽大去，等他叫眾人散開。^46^他既辭別了他們，就往山上去禱告。^47^到了晚上，船在海中，耶穌獨自在岸上；^48^看見門徒因風不順，搖櫓甚苦。夜裏約有四更天，就在海面上走，往他們那裏去，意思要走過他們去。^49^但門徒看見他在海面上走，以為是鬼怪，就喊叫起來；^50^因為他們都看見了他，且甚驚慌。耶穌連忙對他們說：\jesus{\textbf{「你們放心！是我，不要怕！」}}^51^於是到他們那裏，上了船，風就住了；他們心裏十分驚奇。^52^這是因為他們不明白那分餅的事，心裏還是愚頑。
 
 **革尼撒勒的醫治**
 
-> ^53^既渡過去，來到革尼撒勒地方，就靠了岸，^54^一下船，眾人認得是耶穌，^55^就跑遍那一帶地方，聽見他在何處，便將有病的人用褥子抬到那裡。^56^凡耶穌所到的地方，或村中，或城裡，或鄉間，他們都將病人放在街市上，求耶穌只容他們摸他的衣裳繸子；凡摸著的人就都好了。
+> ^53^既渡過去，來到革尼撒勒地方，就靠了岸，^54^一下船，眾人認得是耶穌，^55^就跑遍那一帶地方，聽見他在何處，便將有病的人用褥子抬到那裏。^56^凡耶穌所到的地方，或村中，或城裏，或鄉間，他們都將病人放在街市上，求耶穌只容他們摸他的衣裳繸子；凡摸著的人就都好了。
 
-### English — ESV
+### English — NASB
 
-> **體例說明**：中文和合本已完整逐節收錄於上；英文 ESV 因篇幅所限，僅摘錄本章幾處關鍵經文對照，非逐節全譯，完整經文請以上方中文欄為準。
+> ^1^Jesus went out from there and came into His hometown; and His disciples followed Him. ^2^When the Sabbath came, He began to teach in the synagogue; and the many listeners were astonished, saying, “Where did this man get these things, and what is this wisdom given to Him, and such miracles as these performed by His hands? ^3^“Is not this the carpenter, the son of Mary, and brother of James and Joses and Judas and Simon? Are not His sisters here with us?” And they took offense at Him. ^4^Jesus said to them, \jesus{“A prophet is not without honor except in his hometown and among his own relatives and in his own household.”} ^5^And He could do no miracle there except that He laid His hands on a few sick people and healed them. ^6^And He wondered at their unbelief. And He was going around the villages teaching.
 
-> ^4^And Jesus said to them, \jesus{"A prophet is not without honor, except in his hometown and among his relatives and in his own household."} ^5^And he could do no mighty work there, except that he laid his hands on a few sick people and healed them. ^6^And he marveled because of their unbelief.
+> ^7^And He summoned the twelve and began to send them out in pairs, and gave them authority over the unclean spirits; ^8^and He instructed them that they should take nothing for their journey, except a mere staff—no bread, no bag, no money in their belt— ^9^but to wear sandals; and He added, “Do not put on two tunics.” ^10^And He said to them, \jesus{“Wherever you enter a house, stay there until you leave town.} ^11^“Any place that does not receive you or listen to you, as you go out from there, shake the dust off the soles of your feet for a testimony against them.” ^12^They went out and preached that men should repent. ^13^And they were casting out many demons and were anointing with oil many sick people and healing them.
 
-> ^34^When he went ashore he saw a great crowd, and he had compassion on them, because they were like sheep without a shepherd. And he began to teach them many things.
+> ^14^And King Herod heard of it, for His name had become well known; and people were saying, “John the Baptist has risen from the dead, and that is why these miraculous powers are at work in Him.” ^15^But others were saying, “He is Elijah.” And others were saying, “He is a prophet, like one of the prophets of old.” ^16^But when Herod heard of it, he kept saying, “John, whom I beheaded, has risen!” ^17^For Herod himself had sent and had John arrested and bound in prison on account of Herodias, the wife of his brother Philip, because he had married her. ^18^For John had been saying to Herod, “It is not lawful for you to have your brother’s wife.” ^19^Herodias had a grudge against him and wanted to put him to death and could not do so; ^20^for Herod was afraid of John, knowing that he was a righteous and holy man, and he kept him safe. And when he heard him, he was very perplexed; but he used to enjoy listening to him. ^21^A strategic day came when Herod on his birthday gave a banquet for his lords and military commanders and the leading men of Galilee; ^22^and when the daughter of Herodias herself came in and danced, she pleased Herod and his dinner guests; and the king said to the girl, “Ask me for whatever you want and I will give it to you.” ^23^And he swore to her, “Whatever you ask of me, I will give it to you; up to half of my kingdom.” ^24^And she went out and said to her mother, “What shall I ask for?” And she said, “The head of John the Baptist.” ^25^Immediately she came in a hurry to the king and asked, saying, “I want you to give me at once the head of John the Baptist on a platter.” ^26^And although the king was very sorry, yet because of his oaths and because of his dinner guests, he was unwilling to refuse her. ^27^Immediately the king sent an executioner and commanded him to bring back his head. And he went and had him beheaded in the prison, ^28^and brought his head on a platter, and gave it to the girl; and the girl gave it to her mother. ^29^When his disciples heard about this, they came and took away his body and laid it in a tomb.
 
-> ^37^But he answered them, \jesus{"You give them something to eat."}
+> ^30^The apostles gathered together with Jesus; and they reported to Him all that they had done and taught. ^31^And He said to them, \jesus{“Come away by yourselves to a secluded place and rest a while.”} (For there were many people coming and going, and they did not even have time to eat.) ^32^They went away in the boat to a secluded place by themselves. ^33^The people saw them going, and many recognized them and ran there together on foot from all the cities, and got there ahead of them. ^34^When Jesus went ashore, He saw a large crowd, and He felt compassion for them because they were like sheep without a shepherd; and He began to teach them many things. ^35^When it was already quite late, His disciples came to Him and said, “This place is desolate and it is already quite late; ^36^send them away so that they may go into the surrounding countryside and villages and buy themselves something to eat.” ^37^But He answered them, \jesus{“You give them something to eat!”} And they said to Him, \jesus{“Shall we go and spend two hundred denarii on bread and give them something to eat?”} ^38^And He said to them, \jesus{“How many loaves do you have? Go look!”} And when they found out, they said, “Five, and two fish.” ^39^And He commanded them all to sit down by groups on the green grass. ^40^They sat down in groups of hundreds and of fifties. ^41^And He took the five loaves and the two fish, and looking up toward heaven, He blessed the food and broke the loaves and He kept giving them to the disciples to set before them; and He divided up the two fish among them all. ^42^They all ate and were satisfied, ^43^and they picked up twelve full baskets of the broken pieces, and also of the fish. ^44^There were five thousand men who ate the loaves.
 
-> ^41^And taking the five loaves and the two fish, he looked up to heaven and said a blessing and broke the loaves and gave them to the disciples to set before the people. And he divided the two fish among them all. ^42^And they all ate and were satisfied. ^43^And they took up twelve baskets full of broken pieces and of the fish.
+> ^45^Immediately Jesus made His disciples get into the boat and go ahead of Him to the other side to Bethsaida, while He Himself was sending the crowd away. ^46^After bidding them farewell, He left for the mountain to pray. ^47^When it was evening, the boat was in the middle of the sea, and He was alone on the land. ^48^Seeing them straining at the oars, for the wind was against them, at about the fourth watch of the night He came to them, walking on the sea; and He intended to pass by them. ^49^But when they saw Him walking on the sea, they supposed that it was a ghost, and cried out; ^50^for they all saw Him and were terrified. But immediately He spoke with them and said to them, \jesus{“\textbf{Take courage; it is I, do not be afraid}.”} ^51^Then He got into the boat with them, and the wind stopped; and they were utterly astonished, ^52^for they had not gained any insight from the incident of the loaves, but their heart was hardened.
 
-> ^50^for they all saw him and were terrified. But immediately he spoke to them and said, \jesus{\textbf{"Take heart; it is I. Do not be afraid."}} ^51^And he got into the boat with them, and the wind ceased. And they were utterly astounded, ^52^for they did not understand about the loaves, but their hearts were hardened.
+> ^53^When they had crossed over they came to land at Gennesaret, and moored to the shore. ^54^When they got out of the boat, immediately the people recognized Him, ^55^and ran about that whole country and began to carry here and there on their pallets those who were sick, to the place they heard He was. ^56^Wherever He entered villages, or cities, or countryside, they were laying the sick in the market places, and imploring Him that they might just touch the fringe of His cloak; and as many as touched it were being cured.
+
 
 ---
 
@@ -85,9 +86,9 @@ publisher: 三書精讀出版系統
 
 ### 歷史背景
 
-拿撒勒是耶穌成長之地，鄰里都熟悉祂「木匠」的身分與家族——正因太熟悉，反而成了信心的攔阻。差遣十二個門徒「腰袋裡也不要帶錢」的指示，反映當時猶太文化中旅行者仰賴當地款待的常規；「把腳上的塵土跺下去」則是猶太人從外邦地區返回時的潔淨儀式，用在此處，是宣告某地拒絕福音、當自負其責。希律安提帕是希律大帝之子，加利利與比利亞的分封王；他娶了兄弟腓力的妻子希羅底，正觸犯了利未記18:16、20:21禁止的亂倫律法，這正是施洗約翰公開指責他的緣由。
+拿撒勒的鄰里都熟悉祂「木匠」的身分與家族——正因太熟悉，成了信心的攔阻。「腰袋裏也不要帶錢」反映當時旅行者仰賴當地款待的常規；「把腳上的塵土跺下去」原是猶太人從外邦地區返回時的潔淨儀式，用在此處，是宣告那地拒絕福音、當自負其責。希律安提帕是希律大帝之子，加利利與比利亞的分封王；他娶了兄弟腓力的妻子希羅底，觸犯利未記18:16、20:21，這是施洗約翰公開指責他的緣由。
 
-**經文異文附註**：22節跳舞女孩的身分，古抄本間確有異文——部分早期抄本作「他的女兒希羅底」（即希律本人與其母同名的女兒），和合本與ESV所依循的抄本傳統則作「希羅底的女兒」（希律的繼女）。根據約瑟夫《猶太古史記》，這位女孩應為莎樂美（Salome），是希羅底與其前夫所生之女。
+**經文異文附註**：22節跳舞女孩的身分，古抄本有異文——部分早期抄本作「他的女兒希羅底」，和合本與 NASB 所依抄本作「希羅底的女兒」（希律的繼女）。據約瑟夫《猶太古史記》，這女孩是莎樂美（Salome），希羅底與前夫所生。
 
 ### 文學結構：三明治敘事與兩場筵席
 
@@ -99,7 +100,7 @@ publisher: 三書精讀出版系統
 | 6:14-29 | 插敘：王的筵席與約翰之死 | 忠心傳道者可能付上的代價 |
 | 6:30-44 | 使徒回來報告；曠野的筵席 | 牧人接住疲乏的僕人，餵養無牧的群羊 |
 
-插敘既解釋了希律對耶穌名聲的驚恐反應，也在門徒出去傳道的興奮中投下陰影：傳道的路，是先鋒用性命走過的路。而全章真正的文學骨架，是**兩場筵席的對照**——馬可把它們背靠背放在一起：
+插敘在門徒出去傳道的興奮中投下陰影：傳道的路，是先鋒用性命走過的路。而全章真正的骨架，是**兩場筵席的對照**：
 
 | | 王的筵席（6:21-28） | 僕人的筵席（6:34-44） |
 |---------|-----------------------------------|------------------------------------|
@@ -107,14 +108,14 @@ publisher: 三書精讀出版系統
 | 主人 | 分封王希律 | 僕人耶穌 |
 | 賓客 | 大臣、千夫長、加利利作首領的 | 如同羊沒有牧人的百姓 |
 | 席間 | 跳舞、起誓、母女合謀 | 望天祝福、擘餅、分魚 |
-| 結局 | 盤子裡放著先知的頭 | 十二個籃子裝滿碎餅碎魚 |
+| 結局 | 盤子裏放著先知的頭 | 十二個籃子裝滿碎餅碎魚 |
 | 顯出 | 有權力卻無力行善的王 | 沒有王位卻餵飽萬人的牧人 |
 
-52節「這是因為他們不明白那分餅的事，心裡還是愚頑」是全章的關鍵評語：門徒親手分過餅，卻仍未領悟其中所啟示的基督位格，因而在海上風浪中依然驚慌失措。
+52節「這是因為他們不明白那分餅的事，心裏還是愚頑」是全章的關鍵評語：親手分過餅的人，在海上依然驚慌。
 
 ### 平行經文 (Synoptic Parallels)
 
-拿撒勒被厭棄的記載另見於馬太福音13:53-58與路加福音4:16-30，路加更詳細記載當日會堂群眾激憤到要將耶穌推下山崖；差遣十二使徒的記載在馬太福音10:1-15有更詳盡的指示；希律的困惑與五餅二魚同樣記載於馬太福音14章與路加福音9章；五餅二魚與海面行走又見於約翰福音6:1-21，並在其後帶出耶穌「我是生命的糧」的講論（詳見《約翰福音研讀》第六章）。五餅二魚是除復活以外，唯一四福音都記載的神蹟。
+路加福音4:16-30記下拿撒勒那天更激烈的一幕——會堂群眾要把耶穌推下山崖；五餅二魚與海面行走又見於約翰福音6:1-21，其後帶出「我是生命的糧」的講論（見《約翰福音研讀》第六章）。五餅二魚是除復活以外，唯一四福音都記載的神蹟。（其餘平行經文見章末對照表。）
 
 ---
 
@@ -132,27 +133,27 @@ publisher: 三書精讀出版系統
 
 ### 「是我」(ἐγώ εἰμι) 的神聖分量
 
-耶穌對驚慌的門徒說「你們放心！是我，不要怕！」——這句話原文正是 *egō eimi*，與神在出埃及記3:14向摩西自稱「我是自有永有的」用了同樣的表達方式。門徒以為看見鬼怪，耶穌卻用這句話同時安撫他們的恐懼，也隱然宣告：站在海面上的這一位，正是那位曾向摩西啟示自己名字的耶和華神。
+「你們放心！是我，不要怕！」——原文正是 *egō eimi*，與出埃及記3:14神向摩西自稱的話同一表達。門徒以為看見鬼怪，耶穌一句話既安撫了他們，也隱然宣告：站在海面上的，正是那位向摩西啟示自己名字的耶和華。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 熟悉可能成為信心的攔阻 (Familiarity Can Obstruct Faith)
 
-拿撒勒人說的每一句話都是事實——祂確實是木匠，確實是馬利亞的兒子——但事實成了他們的絆腳石。「大凡先知，除了本地、親屬、本家之外，沒有不被人尊敬的」提醒我們：屬靈的洞察力，往往被人的成見與熟悉感所蒙蔽。馬可記載耶穌在此「詫異他們不信」；對照路加福音7:9，耶穌唯一一次詫異人的信心，是在一個外邦百夫長身上——最熟悉祂的人不信，最沒有理由信的人信了。
+拿撒勒人說的每一句都是事實——祂確實是木匠，確實是馬利亞的兒子——事實成了絆腳石。耶穌在此「詫異他們不信」；對照路加福音7:9，祂唯一一次詫異人的信心，是在一個外邦百夫長身上——最熟悉祂的人不信，最沒有理由信的人信了。
 
 ### 2. 差遣伴隨簡樸與倚靠 (Sending Comes with Simplicity and Dependence)
 
-十二個門徒被差遣時幾乎兩手空空——這不是苦行的操練，而是要他們學習全然倚靠神的供應與當地人的接待，而非自己預備的資源。兩個兩個的出去，則是服事的另一條根本原則：僕人不孤軍作戰。
+兩手空空地出去，不是苦行，是學習倚靠神的供應與人的接待，而非自己預備的資源。兩個兩個出去，是另一條根本原則：僕人不孤軍作戰。
 
 ### 3. 忠心的代價：王的筵席 (The Cost of Faithfulness: The King's Banquet)
 
-施洗約翰因堅持指出罪、不肯妥協而付上性命。馬可刻意把他的死插敘在門徒出去傳道與回來報告之間：跟隨這位主傳道，可能招致世俗權柄的敵視乃至殺害。希律的悲劇同樣深刻——他「敬畏」約翰、「樂意聽他」，卻在一場筵席上，因一個輕率的誓、一群同席的人、一份可憐的面子，殺了他明知是義人聖人的先知。聽道而不悔改的人，最終被自己的軟弱吞吃。
+施洗約翰因不肯對罪妥協而付上性命；馬可把他的死插在門徒出去與回來之間——傳道的路可能招致殺害。希律的悲劇同樣深：他「敬畏」約翰、「樂意聽他」，卻因一個輕率的誓、一群同席的人、一份可憐的面子，殺了他明知是義人的先知。聽道而不悔改的人，終被自己的軟弱吞吃。
 
 ### 4. 牧人的憐憫：先教導，後餵養 (The Shepherd's Compassion: Teaching before Feeding)
 
-耶穌見眾人「如同羊沒有牧人一般」，先動了憐憫的心，然後「開口教訓他們許多道理」，最後才擘餅餵飽他們——羊最深的飢餓不在肚腹。這場曠野的筵席，是對出埃及曠野嗎哪的呼應與超越：
+耶穌見眾人「如同羊沒有牧人一般」，先動了憐憫的心，再「教訓他們許多道理」，最後才擘餅——羊最深的飢餓不在肚腹。這場曠野的筵席，呼應並超越出埃及的嗎哪：
 
 | 出埃及記16章 | 馬可福音6章 |
 |-----------------------------------------|---------------------------------------|
@@ -164,19 +165,59 @@ publisher: 三書精讀出版系統
 
 ### 5. 經歷神蹟不等於認識基督 (Experiencing Miracles Is Not Knowing Christ)
 
-門徒親手分過餅、親手收過十二個籃子，卻「不明白那分餅的事，心裡還是愚頑」，以致在海面行走的神蹟前驚慌喊叫——馬可提醒讀者：經歷神的作為，不等於認識作為背後的那一位。唯有心不再剛硬，才能在風浪中聽得懂那句「是我，不要怕」。
+門徒親手分過餅、收過十二個籃子，卻「心裏還是愚頑」，在海面上驚慌喊叫。經歷神的作為，不等於認識作為背後的那一位；唯有心不再剛硬，才聽得懂那句「是我，不要怕」。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者立場的綜述；帶引號引文均為編者自英文原著的中譯，並標明出處，不應作為原文逐字引用轉引。
+> **體例說明**：本節四家的引文，均已逐條回查原著或講道逐字稿，以「英文原文 + 編者中譯」並列；
+> 中譯為編者所作，若需逐字引用，請以所附英文原文為準。凡查不到原句的，一律不加引號，
+> 改以不帶引號的立場綜述呈現。查證狀態詳見卷末〈附錄：引用出處總表〉。
 
 ### 教父時期
 
 **屈梭多模 (John Chrysostom, c. 349-407)**：
 
-論到拿撒勒人的厭棄（馬太平行經文），屈梭多模指出耶穌「因他們不信而未多行異能」，並提醒「先知除了在本地、本家之外，沒有不被尊敬的」——這句話本身早有先例，「大衛不過是個卑微農夫耶西的兒子，阿摩司不過是個牧羊人的孩子」，可見卑微的出身從不應成為拒絕神所立之人的理由；他也指出耶穌的節制：「當這方法未能成功時，祂便不再顧及自己受何等對待，為要不加重他們的刑罰」——耶穌減少在當地行神蹟，也是出於憐憫，免得加重他們拒絕真理的罪責。論到五餅二魚，他指出門徒「仍然相當軟弱」，尚未預備好期待這樣一個倍增的神蹟；耶穌特意使用門徒自己僅有的食物而非憑空創造，是要讓門徒「親手」見證這神蹟，成為見證的憑據。論到耶穌上山禱告，屈梭多模寫道：「這是要教導我們，獨處與退隱，正是禱告的美好時機。」
+**卑微的出身從不是絆腳石**：拿撒勒人拿祂的家世作拒絕的理由；屈梭多模提醒他們，自己的歷史裏滿是相反的例證。
+
+> "For so David was the son of a certain mean husbandman, Jesse"
+>
+> 大衛不過是一個卑微農夫耶西的兒子。
+
+他接著數下去：阿摩司是牧山羊之人的孩子，自己也牧山羊；連立法者摩西，父親也遠不如他——
+
+> "and Moses too, the lawgiver, had a father very inferior to himself."
+>
+> 連立法者摩西，也有一位遠不如他的父親。
+
+**少行神蹟，也是憐憫**：不是能力不足，是不再加增他們的罪責。
+
+> "Therefore when this succeeded not, He overlooked what concerned Himself, in order not to aggravate their punishment."
+>
+> 因此，當這方法未能奏效時，祂便不再顧念自己所受的待遇，為要不加重他們的刑罰。
+
+**「你們給他們吃」——祂不說「我給」**：屈梭多模在餵飽的敘事裏看出一套循循善誘的教法。
+
+> "But mark thou, I pray, the Teacher's skill, how distinctly He summons them on towards believing."
+>
+> 請你留意這位教師的智慧：祂如何一步一步，把他們引向相信。
+
+> "He said not, 'I give them,' but, 'Give ye them;'"
+>
+> 祂不說「我給他們」，卻說「你們給他們」。
+
+門徒的回答暴露了他們的光景——他們仍舊貼著地面爬行：
+
+> "They continuing therefore to crawl on the ground"
+>
+> 他們就這樣繼續在地上爬行。
+
+**獨處與退隱，正是禱告的時候**：論祂獨自上山。
+
+> "To teach us, that loneliness and retirement is good, when we are to pray to God."
+>
+> 這是要教導我們：當我們要向神禱告時，獨處與退隱是好的。
 
 > — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 48 (on Matt 13:53-58), Homily 49 (on Matt 14:13-21), and Homily 50 (on Matt 14:22-33), NPNF1-10
 
@@ -184,21 +225,123 @@ publisher: 三書精讀出版系統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-論到希律殺害施洗約翰，加爾文寫道：「約翰被捕，是因為他曾公開譴責希律奪取希羅底、行那亂倫的婚姻」；論到那舞蹈：「一個適婚的年輕女子竟公開跳舞，本身就是可恥的展示」；論到那誓言：「酒的熱力對希律產生了如此的影響，以致他忘卻了莊重與審慎」，甚至許諾「就是國家的一半」；論到希律的懦弱：「他既懼怕失去名聲，又懼怕實際的傷害」，卻「沒有勇氣拒絕一個跳舞女孩的請求」。論到五餅二魚，他指出：「祂特意將原本要行的神蹟延遲到此刻，為要使門徒更加專注地思想這事，從而得著更大的益處」；祂的憐憫是因百姓「如同沒有牧人的羊」，門徒也親手從基督那裡領受餅，得以親眼見證這增添的神蹟。論到海面行走，他寫道：「祂獨自上山去，我毫不懷疑，神的兒子在禱告之中，也沒有忽略祂門徒的安全」；論到門徒的心「仍然愚頑」：「他們不明白那分餅的神蹟；因為那神蹟早已充分證明基督擁有神聖的能力。」
+**一個王，栽在一場宴席上**：加爾文對希律的判詞，落在酒與虛榮上。
 
-> — John Calvin, *Commentary on a Harmony of the Evangelists*
+> "The heat of wine had such an influence on Herod"
+>
+> 酒的熱力對希律產生了這樣的影響——
 
-### 當代釋經
+以致他忘卻莊重與審慎，向一個跳舞的女孩許諾國的一半。及至聽見所求的是甚麼，他並非沒有掙扎：
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+> "he dreads both the loss of character and positive harm"
+>
+> 他既懼怕名聲受損，也懼怕實際的傷害。
 
-論到拿撒勒人的不信，麥克阿瑟指出：「不信使人看不見顯而易見的事，高舉無關緊要的瑣事，並且憎恨那報信的人」；「祂詫異他們的不信」。論到差遣十二使徒，他強調兩個兩個差遣的用意，並指出「他們出去，宣講人要悔改」。論到希律殺害施洗約翰，他寫道：「『我所斬的約翰，他復活了』……這正投射出他內心最深的焦慮，他最大的恐懼，他最大的懼怕」；論到希律的誓言：「無論你向我求甚麼，直到我國的一半，我都給你——這是何等的愚妄，是過度誇大的自誇之詞」；他總結：「因懼怕一個女人，因懼怕失去王位，因愚昧的驕傲，他斷送了自己的靈魂」。論到五餅二魚，他指出：「這是群眾，約有二萬到二萬五千人，或許更多」，並強調「這是創造主所行的創造——祂自己百姓的信心因此得著堅固」。論到海面行走，他指出：「他們對餅的神蹟毫無領悟，他們的心仍然剛硬」；「放心，是我，不要害怕」；「餵飽的神蹟沒有使他們明白，但這件事卻使他們明白了——那一夜，他們從懼怕轉向了信心」。
+> "And yet he has not the courage to give a refusal to a dancing girl"
+>
+> 然而他竟沒有勇氣拒絕一個跳舞的女孩。
+
+加爾文由此點出那可恥的算計：彷彿收回一個輕率愚昧的承諾，比堅持一樁滔天大罪更丟臉。
+
+**延遲，是為了叫他們看得更真**：加爾文說，主是特意把要行的神蹟拖到這一刻才動手——
+
+> "that his disciples might consider it more attentively, and might thus derive from it greater advantage"
+>
+> 為使門徒更專注地思想這件事，從而得著更大的益處。
+
+**上山禱告的那一位，沒有忘記船上的人**：加爾文在這裏用的是推測的語氣，不是斷言。
+
+> "It is probable that the Son of God, who was fully aware of the tempest that was coming on, did not neglect the safety of his disciples in his prayers"
+>
+> 很可能，神的兒子既全然知道那將臨的風暴，在禱告中並沒有忽略門徒的安危。
+
+**心裏還是不明白**：門徒的懼怕，根源不在風浪，在剛硬。
+
+> "their heart was blinded, and that they understood not about the loaves ; for that miracle had given abundant evidence that Christ possessed divine power to assist his followers"
+>
+> 他們的心蒙蔽了，並不明白那分餅的事；因為那神蹟早已充分證明：基督擁有神聖的能力幫助跟從祂的人。
+
+> — John Calvin, *Commentary on a Harmony of the Evangelists*（Pringle 英譯，1845-46；太 14／可 6 段）
+
+### 摩根 (G. Campbell Morgan)
+
+**全能者的癱瘓**：拿撒勒不是主的能力打了折扣，是不信把門關上了。摩根給這一幕起的名字，是全書最刺人的一個。
+
+> "That is the paralysis of omnipotence. Why could He do no mighty work there?"
+>
+> 這就是全能者的癱瘓。祂在那裏為甚麼不能行異能呢？
+
+摩根自己的答案是：神已被排除在他們生命的中心渴望與動機之外。
+
+**兩個兩個——主從不差人獨行**：差遣的第一個細節不是策略，是體恤。
+
+> "Our Lord never sent any man alone to a difficult sphere of work. We have often done so, and do it yet, and in that way wander from a fundamental principle."
+>
+> 我們的主從不曾差派任何人獨自前往艱難的工場。我們卻常常這樣做，至今仍然如此，就這樣偏離了一條根本的原則。
+
+**「歇一歇」——先看見肉身的疲乏**：這句話當然有屬靈的意思，但摩根提醒：先別急著把它講成屬靈的。
+
+> "As we read the words we should be careful lest we rob them of all their beauty by wholly spiritualizing them."
+>
+> 我們讀這些話的時候要小心，免得把它們完全屬靈化，反倒奪去了它們原有的美。
+
+**順服路上的逆風**：門徒不是走錯了路才遇見風，是照著吩咐開船才遇見風——而那風攔得住他們，攔不住祂。
+
+> "They were tormented in the very path of obedience. But it was also the way of His power. He came after them. The wind was contrary to Him also, but did not hinder Him."
+>
+> 他們正是在順服的道路上被折磨。但這也正是祂能力施展的路。祂隨後就來到他們那裏。風向對祂也是逆的，卻攔不住祂。
+
+摩根把這一章的服事總結成一句：祂揀選、祂裝備、祂使用，因此一切事奉的榮耀都不歸於我們。
+
+> — G. Campbell Morgan, *The Gospel According to Mark*（1927），可 6:1-6、6:7-56 講章
+
+### 麥克阿瑟 (John MacArthur)
+
+**不信的三個動作**：麥克阿瑟把拿撒勒人的不信拆成一組排比。
+
+> "Unbelief obscures the obvious."
+>
+> 不信遮蔽顯而易見的事。
+
+> "Unbelief not only obscures the obvious, it elevates the irrelevant."
+>
+> 不信不只遮蔽顯而易見的事，還高舉無關緊要的事。
+
+> "It assaults the messenger."
+>
+> 它攻擊那報信的人。
+
+**希律：他斬的那個人，一直沒有離開他**：論「是我所斬的約翰，他復活了」。
+
+> "This, my dear friends, is a projection of his deepest anxiety, his greatest terror, his greatest fear."
+>
+> 親愛的朋友，這正投射出他內心最深的焦慮、最大的驚駭、最大的恐懼。
+
+> "For fear of a woman, fear of losing his throne, foolish pride, he damned his own soul."
+>
+> 因為懼怕一個女人，懼怕失去王位，因著愚昧的驕傲，他把自己的靈魂斷送了。
+
+**曠野的筵席：創造主在動手**：論五餅二魚的規模與性質。
+
+> "This is a crowd that stretches between twenty to twenty-five thousand, and maybe beyond that."
+>
+> 這群人約在二萬到二萬五千之間，也許還不止。
+
+> "This is just creation by the Creator. The faith of His own was strengthened."
+>
+> 這就是創造主所行的創造。祂自己百姓的信心因此得著堅固。
+
+**分餅沒有做成的，那一夜做成了**：論海面行走之後門徒的轉變。
+
+> "went from fear to faith. That night they went from confusion to confession. That night they went from wondering to worshiping."
+>
+> 他們從懼怕轉為信心。那一夜，他們從困惑轉為認信；那一夜，他們從猜疑轉為敬拜。
 
 > — John MacArthur, *Amazing Unbelief* (41-26), *Ordinary Men, Extraordinary Calling* (41-27), *The Murder of the Greatest Prophet* (41-29), *The Creator Provides* (41-30), *Jesus Walks on Water* (41-31), gty.org
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 78:19-25 — 曠野的筵席
 
@@ -212,99 +355,60 @@ publisher: 三書精讀出版系統
 >
 > ^70^又揀選他的僕人大衛，從羊圈中將他召來，^71^叫他不再跟從那些帶奶的母羊，為要牧養自己的百姓雅各和自己的產業以色列。^72^**於是，他按心中的純正牧養他們，用手中的巧妙引導他們。**
 
-以色列人在曠野質疑「神在曠野豈能擺設筵席麼」，神卻用嗎哪回答他們的不信；如今耶穌在同一樣的曠野，用五個餅、兩條魚擺設筵席，餵飽五千人。詩篇78篇歷數以色列人一次次的懷疑與神一次次信實的供應，末了停在那位從羊圈中召來、牧養百姓的僕人大衛身上——馬可福音第六章正是這篇詩的成就：大衛的子孫來了，祂在曠野擺設筵席，領自己的民如羊群，又在海上使他們不致害怕。
-
----
-
-## 聖詩默想 (Hymn Meditation)
+「神在曠野豈能擺設筵席麼」——神用嗎哪回答了一次，如今用五個餅兩條魚回答第二次。詩篇78篇末了停在那位從羊圈召來牧養百姓的大衛身上；大衛的子孫來了，祂在曠野擺設筵席，領自己的民如羊群，又在海上使他們不致害怕。
 
 ### Savior, Like a Shepherd Lead Us
 
-> Savior, like a shepherd lead us,
-> Much we need Thy tender care;
-> **In Thy pleasant pastures feed us,**
-> For our use Thy folds prepare:
-> Blessed Jesus, blessed Jesus,
+> Savior, like a shepherd lead us, \
+> Much we need Thy tender care; \
+> **In Thy pleasant pastures feed us,** \
+> For our use Thy folds prepare: \
+> Blessed Jesus, blessed Jesus, \
 > **Thou hast bought us, Thine we are.**
 >
 > — attr. Dorothy A. Thrupp, 1836
 >
-> 救主如牧人引領我們，我們何等需要你溫柔看顧；
-> 在你佳美草場餵養我們，為我們預備你的羊圈；
+> 救主如牧人引領我們，我們何等需要你溫柔看顧； \
+> 在你佳美草場餵養我們，為我們預備你的羊圈； \
 > 恩主耶穌，恩主耶穌，你已買贖我們，我們屬你。
 
-這首詩所求的，正是6:34-39所發生的：牧人看見無牧的羊，教訓他們，又叫他們一幫一幫坐在青草地上，餵養他們。「你已買贖我們」則指向這位牧人更遠的路——祂餵養羊群，最終是為羊捨命（10:45）。
+這首詩所求的，正是6:34-39所發生的：牧人叫無牧的羊一幫一幫坐在青草地上，餵養他們。「你已買贖我們」指向更遠的路——祂餵養羊群，最終是為羊捨命（10:45）。
+
+Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海邊擘餅的神蹟為喻：讀經若只停在「聖言的書頁」，卻沒有遇見那擘餅的主自己，讀經就只是知識的累積。「我的靈渴慕你」——這正是拿撒勒人所缺乏的渴慕：他們太熟悉耶穌的書頁（祂的家世、祂的職業），卻從未真正渴慕認識書頁背後那一位。而詩篇91:5「你必不怕黑夜的驚駭」，正是四更天海面上那句話的回聲：風浪中的門徒所需要的，不是更多海上求生的技巧，而是認出那位掌管風浪的主，此刻正朝他們走來。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
-
-**全能者的癱瘓**：「祂在那裡不能行甚麼異能」——摩根稱之為「這是全能者的癱瘓。為何祂在那裡不能行異能？因為神已被排除在他們生命的中心渴望與動機之外」。摩根總結拿撒勒人的病根：「拿撒勒這些人正缺乏這樣的心志；生命的中心動機是錯的。他們不是想要遵行神的旨意，而是想要討自己的喜悅」。他又細讀6:6的文法：「『祂詫異』，不是『詫異於他們的不信』，而是『因他們的不信而詫異』；他們的不信不是祂詫異的對象，而是詫異的原因」，並引耶利米書2:12-13：「諸天哪，要因此驚奇……我的百姓離棄我這活水的泉源，為自己鑿出池子，是破裂不能存水的池子」。
-
-**兩個兩個——主從不差人獨行**：論到差遣的方式，摩根指出一條被今日教會屢屢違背的原則：**「我們的主從不曾差遣任何一人單獨前往艱難的工場。我們卻常常這樣做，且至今仍是如此，如此便違背了一項根本的原則」**。
-
-**「歇一歇」——祂先看見肉身的疲乏**：論到「你們來……歇一歇」，摩根提醒：**「我們切勿在通篇屬靈化這句話時，剝奪了它原有的美——祂留意到他們肉身的疲乏，便從那裡開始」**。而當安歇被人群打斷，祂沒有煩躁，只有憐憫：「這是君王對祂百姓的憐憫……祂看他們如同沒有牧人的羊」。
-
-**順服路上的逆風**：論到海上的風暴，摩根注意到門徒受苦的位置：「這裡用了一個強烈的詞，我們譯作『艱苦』，但更直譯的說法，應是他們『搖櫓極其勞苦』……他們為何不轉回？……風不順；**他們是在順服的道路上遭遇艱難的**」。至於他們的驚慌：「門徒的心是剛硬的，這意味著他們遲鈍、愚昧，因此不明白餅的神蹟，以致驚訝於祂對元素的掌管」。
-
-**不是我們，乃是祂**：摩根總結十二使徒的服事：**「祂揀選他們，是何等奇妙的事！祂裝備他們，是何等奇妙的事！祂使用他們，是何等奇妙的事！……在一切的事奉中，我們都當說：『耶和華啊，不是我們，不是我們，要將榮耀歸與你的名。』」**
-
-> 出處：G. Campbell Morgan, *The Gospel According to Mark*（本章相關講章）
-
-### 老弟兄查經法 (Reading with the Method)
-
-**精義句**：先找出全章的鑰節——6:52「這是因為他們不明白那分餅的事，心裡還是愚頑」。拿掉這一句，你就看不懂門徒為何在海面行走的神蹟前依然驚慌；留著這一句，全章就成了一面鏡子：經歷過神供應的人，心仍可能是剛硬的。
+**精義一句話**：王的筵席端上先知的頭，僕人的筵席擘開五個餅——世界的權力消耗人，好牧人餵養人。
 
 **老弟兄這樣帶你讀**：
 
-- 「先把這章一口氣讀完，不要停。」讀完再回頭數一數：這一章有幾場「吃」？家鄉的會堂沒有筵席，王宮有筵席，曠野有筵席——哪一場筵席叫人活，哪一場筵席叫人死？
-- **6:39「青草地」**：馬可特意記下草是青的，眾人一幫一幫躺臥其上——這幅圖畫直通詩篇23篇的青草地。老弟兄常提醒：「躺在青草地上，是羊在反芻——你的讀經是反芻嗎？」吃了不反芻的羊，就是6:52那些分過餅卻不明白的門徒。
-- **拿撒勒人因為太熟悉耶穌的家庭背景，反而看不見祂的身分**——你是否也曾因為太熟悉某個人（家人、老朋友），而看不見神可能正在他們身上做的工作？太熟悉的經文，是否也一樣？
-- **十二個門徒被差遣時幾乎兩手空空**——這對你倚靠自己的資源、還是倚靠神的供應，有甚麼提醒？6:31「歇一歇」又是另一面：把休息當懶惰的文化裡，耶穌主動命令疲乏的僕人停下來安歇。
-- **6:37「你們給他們吃罷」**——門徒立刻去算錢（二十兩銀子）；耶穌卻叫他們去數餅（五個餅，兩條魚）。我們是管道，不是來源：資源的有限不是拒絕服事的理由，因為供應的源頭從來不是我們自己。
-
-**整本聖經的連結**：本段與約翰福音第六章是同一件事的兩個鏡頭——馬可停在「他們不明白」，約翰接著記下耶穌的講論「我是生命的糧」；再往後，馬可福音8章第二次分餅之後，耶穌還要追問門徒：你們還不明白麼？（8:17-21）分餅的功課，主教了不止一次。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-| 主題 | 詩篇／聖詩 | 經文連結 |
-|------------------|---------------------------------|------------------------------|
-| 曠野的筵席 | 詩篇 78:19-25 | 神在曠野降嗎哪，如今耶穌在曠野擺設筵席 |
-| 曠野的牧人 | 詩篇 78:52-53, 70-72 | 領自己的民如羊；從羊圈召來牧養百姓的僕人 |
-| 領受生命之糧 | *Break Thou the Bread of Life* | 求主擘開，不只讀書頁，更遇見那賜糧的主 |
-| 牧人引領 | *Savior, Like a Shepherd Lead Us* | 在佳美草場餵養我們——呼應6:34與6:39的青草地 |
-| 安然倚靠 | 詩篇 91:5 | 「你必不怕黑夜的驚駭」——呼應海面行走時「不要怕」 |
-
-Lathbury 寫《Break Thou the Bread of Life》正是以海邊擘餅的神蹟為喻：讀經若只停在「聖言的書頁」，卻沒有遇見那擘餅的主自己，讀經就只是知識的累積。「我的靈渴慕你」——這正是拿撒勒人所缺乏的渴慕：他們太熟悉耶穌的書頁（祂的家世、祂的職業），卻從未真正渴慕認識書頁背後那一位。而詩篇91:5「你必不怕黑夜的驚駭」，正是四更天海面上那句話的回聲：風浪中的門徒所需要的，不是更多海上求生的技巧，而是認出那位掌管風浪的主，此刻正朝他們走來。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+- **找鑰節**：6:52「這是因為他們不明白那分餅的事，心裏還是愚頑」。拿掉這一句，你看不懂門徒為何在海面上依然驚慌；留著它，全章成了一面鏡子：經歷過神供應的人，心仍可能是剛硬的。老弟兄常說：「哪裏有信，哪裏就有聖靈的工作；哪裏有不信，哪裏就有撒但的工作。」
+- 一口氣把這章讀完，不要停。讀完數一數：這一章有幾場「吃」？家鄉的會堂沒有筵席，王宮有筵席，曠野有筵席——哪一場叫人活，哪一場叫人死？
+- **6:39「青草地」**：馬可特意記下草是青的，眾人一幫一幫躺臥其上——直通詩篇23篇。老弟兄常提醒：「躺在青草地上，是羊在反芻——你的讀經是反芻嗎？」吃了不反芻的羊，就是6:52那些分過餅卻不明白的門徒。
+- **6:37「你們給他們吃罷」**——門徒立刻去算錢（二十兩銀子）；耶穌卻叫他們去數餅（五個餅，兩條魚）。我們是管道，不是來源。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-**牧人的線**：摩西臨終求神為會眾立一位牧人，「免得耶和華的會眾如同沒有牧人的羊群一般」（民27:17）；以西結書34章控告以色列失職的牧人，神應許親自尋找祂的羊。馬可福音6:34，耶穌看見眾人「如同羊沒有牧人一般」——那應許中的牧人到了。這條線往前走到約翰福音10章好牧人為羊捨命、彼得前書5:4「牧長」顯現，最終停在啟示錄7章：寶座中的羔羊要親自牧養他們。
+**牧人的線**：摩西臨終求神立一位牧人，「免得耶和華的會眾如同沒有牧人的羊群一般」（民27:17）；以西結書34章控告失職的牧人，神應許親自尋找祂的羊。6:34，那應許中的牧人到了。線往前走到約翰福音10章好牧人為羊捨命、彼得前書5:4「牧長」顯現，停在啟示錄7章：寶座中的羔羊要親自牧養他們。
 
-**曠野筵席的線**：出埃及記16章神降嗎哪，詩篇78篇追問「神在曠野豈能擺設筵席麼」；馬可福音6章，耶穌在野地擘開五個餅，回答了這古老的質疑；約翰福音6章隨即揭開謎底——祂自己就是生命的糧；啟示錄19章羔羊的婚筵，是這場曠野筵席的終局：牧人所餵養的，末了要坐席。
+**曠野筵席的線**：出埃及記16章降嗎哪，詩篇78篇追問「神在曠野豈能擺設筵席麼」；6章耶穌在野地擘開五個餅；約翰福音6章揭開謎底——祂自己就是生命的糧，馬可福音8章第二次分餅之後，耶穌還要追問「你們還不明白麼」（8:17-21），分餅的功課主教了不止一次；啟示錄19章羔羊的婚筵是終局：牧人所餵養的，末了要坐席。神在曠野豈能擺設筵席的追問（詩78:19），最終的回答在十字架上——牧人把自己擘開，作了群羊的糧。
 
-**「我是」的線**：出埃及記3:14神向摩西自稱「我是」；馬可福音6:50耶穌在海面上說「是我」（ἐγώ εἰμι）；約翰福音展開為七個「我是」的宣告，客西馬尼園祂一說「我是」，兵丁就退後倒地（約18:5-6）。海面上那句安慰的話，原是神名字的顯現。
+**「我是」的線**：出埃及記3:14神自稱「我是」；6:50耶穌在海面上說「是我」（ἐγώ εἰμι）；約翰福音展開為七個「我是」，客西馬尼園祂一說「我是」，兵丁就退後倒地（約18:5-6）。海面上那句安慰的話，原是神名字的顯現。
 
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
-- 先問：「拿撒勒人說『這不是那木匠麼』——他們哪一句說錯了？（一句都沒錯。那他們錯在哪裡？）」
+- 先問：「拿撒勒人說『這不是那木匠麼』——他們哪一句說錯了？（一句都沒錯。那他們錯在哪裏？）」
 - 再問：「耶穌看見五千個飢餓的人，為甚麼先教訓他們許多道理，才給他們吃？羊最深的缺乏是甚麼？」
 - 追問：「門徒親手分過餅、親手收過十二個籃子，幾個鐘頭之後為甚麼把主看成鬼怪？6:52那句評語，是在說他們，還是在說你？」
 - 落到自己：「主對你說『你們給他們吃罷』的時候，你低頭數自己的五個餅，還是抬頭看那位望天祝福的？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
-這個時代不缺聲音，缺牧人。演算法根據你過去的偏好，不斷推送你已經熟悉的內容——它餵你想吃的，牧人卻餵你需要的。拿撒勒人正是被「熟悉」餵養壞了的一群：太熟悉耶穌，以致看不見祂真正的身分。你每天的注意力被誰牧養？你接收信息的方式，是否讓你越來越只看見自己已經同意的東西，卻越來越難被真理挑戰？「如同羊沒有牧人一般」——這句話寫的可能不是古代的加利利，是今天刷著螢幕的我們。
+這個時代不缺聲音，缺牧人。演算法不斷推送你已經熟悉的內容——它餵你想吃的，牧人餵你需要的。拿撒勒人正是被「熟悉」餵壞了的一群。你每天的注意力被誰牧養？「如同羊沒有牧人一般」——這句話寫的可能不是古代的加利利，是今天刷著螢幕的我們。
 
 ### 今天的祭壇 (Today's Altar)
 
@@ -312,17 +416,7 @@ Lathbury 寫《Break Thou the Bread of Life》正是以海邊擘餅的神蹟為�
 - **晚上**：省察——今天我在哪件事上像門徒：明明見過祂的供應，卻仍憑自己搖櫓、暗自驚慌？
 - **一個行動**：為一個「如同羊沒有牧人」的人做一件餵養的事——一頓飯、一次探望、一段經文。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：王的筵席端上先知的頭，僕人的筵席擘開五個餅——世界的權力消耗人，好牧人餵養人。
-
-**貫通全經**：「神在曠野豈能擺設筵席麼？」（詩78:19）——嗎哪回答了一次，五餅二魚回答了第二次；最終的回答在十字架上：牧人把自己擘開，作了群羊的糧。
-
-**無法迴避的問題**：透過這一章，你看見耶穌是誰——你認得的，是拿撒勒那個太熟悉的木匠，還是曠野裡為你擺設筵席、風浪裡對你說「是我」的牧人？
-
-> 「哪裡有信，哪裡就有聖靈的工作；哪裡有不信，哪裡就有撒旦的工作。」
+**你看見耶穌了嗎**：透過這一章，你看見耶穌是誰——你認得的，是拿撒勒那個太熟悉的木匠，還是曠野裏為你擺設筵席、風浪裏對你說「是我」的牧人？
 
 ---
 
@@ -330,26 +424,18 @@ Lathbury 寫《Break Thou the Bread of Life》正是以海邊擘餅的神蹟為�
 
 ### 默想問題
 
-1. **熟悉的攔阻**：拿撒勒人因太熟悉耶穌而在祂身上跌倒。你生活中有沒有因為「太熟悉」而看不見神作為的人、經文或處境？
+1. **熟悉的攔阻**：你生活中有沒有因為「太熟悉」而看不見神作為的人、經文或處境？
 
-2. **簡樸的倚靠**：十二個門徒被差遣時幾乎兩手空空。今天你是否願意放下對自己資源與計劃的倚賴，單單信靠神的供應去服事？
+2. **忠心的代價**：施洗約翰因堅持真理付上性命。你是否曾因顧忌代價，在該指出真理時選擇了沉默？
 
-3. **忠心的代價**：施洗約翰因堅持真理而付上性命。你是否也曾因為顧忌代價，而在應該指出真理時選擇了沉默？
-
-4. **牧人的眼光**：耶穌看見人群，看見的是「如同羊沒有牧人一般」。你看身邊的人群時，看見的是麻煩、是數字，還是無牧的羊？
-
-5. **從經歷到認識**：門徒分過餅卻「心裡還是愚頑」。你是否只是「經歷過」神的作為，卻沒有讓這些經歷改變你對祂的認識？
-
-6. **「是我，不要怕」**：在你此刻搖櫓甚苦、風不順的那件事上，這句話對你意味著甚麼？
+3. **「是我，不要怕」**：在你此刻搖櫓甚苦、風不順的那件事上，這句話對你意味著甚麼？
 
 ### 禱告回應
 
-> 主啊，求你光照我心中「太熟悉」而看不見你作為的地方。
-> 求你教導我像十二個門徒一樣，簡樸地倚靠你的供應而非自己的預備。
-> 求你賜我像施洗約翰一樣持守真理的勇氣，即使代價高昂。
-> 好牧人，我是你草場上的羊——
-> 求你除去我心中的愚頑，讓我不僅經歷你的神蹟，更真實地認識你自己；
-> 在風不順、搖櫓甚苦的夜裡，叫我聽見你說：是我，不要怕。
+> 主啊，光照我心中「太熟悉」而看不見你作為的地方。
+> 教我像十二個門徒，簡樸地倚靠你的供應；賜我像施洗約翰持守真理的勇氣。
+> 好牧人，我是你草場上的羊——除去我心中的愚頑，叫我不只經歷你的神蹟，更認識你自己；
+> 在風不順、搖櫓甚苦的夜裏，叫我聽見你說：是我，不要怕。
 > 奉主耶穌基督的名禱告，阿們。
 
 ---
