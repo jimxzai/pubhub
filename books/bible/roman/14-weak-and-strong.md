@@ -10,54 +10,58 @@ publisher: 三書精讀出版系統
 
 羅馬書 14:1-23
 
----
+**經文核對**：[ai-eden.com/bible/romans/14](https://www.ai-eden.com/bible/romans/14?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-12-13章教導基督徒如何活祭獻己、如何順服掌權者；14章轉向教會內部一個更難處理的角落——弟兄姊妹在「非本質」的事上意見不同，該怎麼辦？保羅沒有先給規則，而是先把焦點拉回基督：吃的人「是為主吃的」，不吃的人「是為主不吃的」；守日子的「是為主守的」；「我們或死或活總是主的人」（14:6-8）。祂不只是教義的中心，更是每一個尋常抉擇——今天吃甚麼、今天怎麼安排時間——的主。祂死而復活，「為要作死人和活人的主」（14:9）；祂是那審判台前的主（14:10），也是那位「為他死」的主（14:15）。這一章沒有一句直接講十字架的教義句，卻句句都在說：基督的主權夠大，大到可以掌管一頓飯；基督的愛夠深，深到一個「軟弱」的弟兄也值得祂的死。
+> **本章鑰詞：出於信心 Ek Pisteōs** \
+> **全書坐標**：14章屬於「活祭」書卷（12:1-15:13）——12-13章教導活祭獻己、順服掌權，14章把全書主題句「本於信，以致於信」（1:17）落實到教會內部飲食、日子這類非本質之事的具體操練上；14:23「凡不出於信心的都是罪」，正是這個主題句走進一頓尋常飯桌的迴響。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
+
+12-13章教導基督徒如何活祭獻己、如何順服掌權者；14章轉向教會內部一個更難處理的角落——弟兄姊妹在「非本質」的事上意見不同，該怎麼辦？保羅沒有先給規則，而是先把焦點拉回基督：吃的人「是為主吃的」，不吃的人「是為主不吃的」；守日子的「是為主守的」；「我們或死或活總是主的人」（14:6-8）。祂不只是教義的中心，更是每一個尋常抉擇——今天吃甚麼、今天怎麼安排時間——的主。祂死而復活，「為要作死人並活人的主」（14:9）；祂是那審判台前的主（14:10），也是那位「為他死」的主（14:15）。這一章沒有一句直接講十字架的教義句，卻句句都在說：基督的主權夠大，大到可以掌管一頓飯；基督的愛夠深，深到一個「軟弱」的弟兄也值得祂的死。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Blest Be the Tie That Binds**
+> **Blest Be the Tie That Binds** \
 > *John Fawcett, 1782*
 >
-> Blest be the tie that binds
-> Our hearts in Christian love;
-> The fellowship of kindred minds
+> Blest be the tie that binds \
+> Our hearts in Christian love; \
+> The fellowship of kindred minds \
 > Is like to that above.
 >
-> Before our Father's throne
-> We pour our ardent prayers;
-> Our fears, our hopes, our aims are one,
+> Before our Father's throne \
+> We pour our ardent prayers; \
+> Our fears, our hopes, our aims are one, \
 > Our comforts and our cares.
 >
-> We share our mutual woes,
-> Our mutual burdens bear;
-> And often for each other flows
+> We share our mutual woes, \
+> Our mutual burdens bear; \
+> And often for each other flows \
 > The sympathizing tear.
 >
-> When we asunder part,
-> It gives us inward pain;
-> But we shall still be joined in heart,
+> When we asunder part, \
+> It gives us inward pain; \
+> But we shall still be joined in heart, \
 > And hope to meet again.
 
 > 中文意譯（本書譯文，非特定聖詩集之逐字引用）：
 >
-> 何等寶貴的聯繫，
-> 將我們的心繫在基督的愛裏；
-> 這相親相愛的團契，
+> 何等寶貴的聯繫， \
+> 將我們的心繫在基督的愛裏； \
+> 這相親相愛的團契， \
 > 如同天上的相交。
 >
-> 在天父的寶座前，
-> 我們同心切切禱告；
-> 我們的懼怕、盼望、目標一致，
+> 在天父的寶座前， \
+> 我們同心切切禱告； \
+> 我們的懼怕、盼望、目標一致， \
 > 我們的安慰、我們的憂慮相通。
 >
-> 我們分擔彼此的哀愁，
-> 一同背負彼此的重擔；
-> 常為對方流下，
+> 我們分擔彼此的哀愁， \
+> 一同背負彼此的重擔； \
+> 常為對方流下， \
 > 那體恤的眼淚。
 
 ---
@@ -66,33 +70,33 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
+
 > ^1^信心軟弱的，你們要接納，但不要辯論所疑惑的事。^2^有人信百物都可吃，但那軟弱的只吃蔬菜。^3^吃的人不可輕看不吃的人，不吃的人不可論斷吃的人，因為神已經收納他了。^4^你是誰，竟論斷別人的僕人呢？他或站住，或跌倒，自有他的主人在；而且他也必要站住，因為主能使他站住。
 
-> ^5^有人看這日比那日強，有人看日日都是一樣，只是各人心裏要意見堅定。^6^守日的人是為主守的；吃的人是為主吃的，因他感謝神；不吃的人是為主不吃的，也感謝神。**^7^我們沒有一個人為自己活，也沒有一個人為自己死。^8^我們若活著，是為主而活；若死了，是為主而死。所以，我們或活或死，總是主的人。**^9^因此基督死了，又活了，為要做死人並活人的主。
+> ^5^有人看這日比那日強，有人看日日都是一樣，只是各人心裏要意見堅定。^6^守日的人是為主守的；吃的人是為主吃的，因他感謝神；不吃的人是為主不吃的，也感謝神。**^7^我們沒有一個人為自己活，也沒有一個人為自己死。^8^我們若活著，是為主而活；若死了，是為主而死。所以，我們或活或死，總是主的人。**^9^因此基督死了，又活了，為要作死人並活人的主。
 
 > ^10^你這個人，為甚麼論斷弟兄呢？又為甚麼輕看弟兄呢？因我們都要站在神的臺前。^11^經上寫著：「主說：『我憑著我的永生起誓：萬膝必向我跪拜，萬口必向我承認。』」^12^這樣看來，我們各人必要將自己的事在神面前說明。
 
-> ^13^所以，我們不可再彼此論斷，寧可定意誰也不給弟兄放下絆腳跌人之物。^14^我憑著主耶穌確知深信：凡物本來沒有不潔淨的；唯獨人以為不潔淨的，在他就不潔淨了。^15^你若因食物叫弟兄憂愁，就不是按著愛人的道理行。基督已經替他死，你不可因你的食物叫他敗壞。^16^不可叫你的善被人毀謗。
+> ^13^所以，我們不可再彼此論斷，寧可定意誰也不給弟兄放下絆腳跌人之物。^14^我憑著主耶穌確知深信：凡物本來沒有不潔淨的；惟獨人以為不潔淨的，在他就不潔淨了。^15^你若因食物叫弟兄憂愁，就不是按著愛人的道理行。基督已經替他死，你不可因你的食物叫他敗壞。^16^不可叫你的善被人毀謗。
 
 > **^17^因為神的國不在乎吃喝，只在乎公義、和平並聖靈中的喜樂。**^18^在這幾樣上服侍基督的，就為神所喜悅，又為人所稱許。^19^所以，我們務要追求和睦的事與彼此建立德行的事。
 
 > ^20^不可因食物毀壞神的工程。凡物固然潔淨，但有人因食物叫人跌倒，就是他的罪了。^21^無論是吃肉，是喝酒，是甚麼別的事，叫弟兄跌倒，一概不做才好。^22^你有信心，就當在神面前守著。人在自己以為可行的事上能不自責，就有福了。**^23^若有疑心而吃的，就必有罪，因為他吃不是出於信心；凡不出於信心的都是罪。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com（現代標點和合本）逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> ^1^Now accept the one who is weak in faith, *but* not for *the purpose of* passing judgment on his opinions. ^2^One person has faith that he may eat all things, but he who is weak eats vegetables *only.* ^3^The one who eats is not to regard with contempt the one who does not eat, and the one who does not eat is not to judge the one who eats, for God has accepted him. ^4^Who are you to judge the servant of another? To his own master he stands or falls; and he will stand, for the Lord is able to make him stand.
 
-> ^1^As for the one who is weak in faith, welcome him, but not to quarrel over opinions. ^2^One person believes he may eat anything, while the weak person eats only vegetables. ^3^Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him. ^4^Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls. And he will be upheld, for the Lord is able to make him stand.
+> ^5^One person regards one day above another, another regards every day *alike.* Each person must be fully convinced in his own mind. ^6^He who observes the day, observes it for the Lord, and he who eats, does so for the Lord, for he gives thanks to God; and he who eats not, for the Lord he does not eat, and gives thanks to God. **^7^For not one of us lives for himself, and not one dies for himself; ^8^for if we live, we live for the Lord, or if we die, we die for the Lord; therefore whether we live or die, we are the Lord's.** ^9^For to this end Christ died and lived again, that He might be Lord both of the dead and of the living.
 
-> ^5^One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind. ^6^The one who observes the day, observes it in honor of the Lord. The one who eats, eats in honor of the Lord, since he gives thanks to God, while the one who abstains, abstains in honor of the Lord and gives thanks to God. **^7^For none of us lives to himself, and none of us dies to himself. ^8^For if we live, we live to the Lord, and if we die, we die to the Lord. So then, whether we live or whether we die, we are the Lord's.** ^9^For to this end Christ died and lived again, that he might be Lord both of the dead and of the living.
+> ^10^But you, why do you judge your brother? Or you again, why do you regard your brother with contempt? For we will all stand before the judgment seat of God. ^11^For it is written, "AS I LIVE, SAYS THE LORD, EVERY KNEE SHALL BOW TO ME, AND EVERY TONGUE SHALL GIVE PRAISE TO GOD." ^12^So then each one of us will give an account of himself to God.
 
-> ^10^Why do you pass judgment on your brother? Or you, why do you despise your brother? For we will all stand before the judgment seat of God. ^11^For it is written, "As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God." ^12^So then each of us will give an account of himself to God.
+> ^13^Therefore let us not judge one another anymore, but rather determine this—not to put an obstacle or a stumbling block in a brother's way. ^14^I know and am convinced in the Lord Jesus that nothing is unclean in itself; but to him who thinks anything to be unclean, to him it is unclean. ^15^For if because of food your brother is hurt, you are no longer walking according to love. Do not destroy with your food him for whom Christ died. ^16^Therefore do not let what is for you a good thing be spoken of as evil;
 
-> ^13^Therefore let us not pass judgment on one another any longer, but rather decide never to put a stumbling block or hindrance in the way of a brother. ^14^I know and am persuaded in the Lord Jesus that nothing is unclean in itself, but it is unclean for anyone who thinks it unclean. ^15^For if your brother is grieved by what you eat, you are no longer walking in love. By what you eat, do not destroy the one for whom Christ died. ^16^So do not let what you regard as good be spoken of as evil.
+> **^17^for the kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit.** ^18^For he who in this *way* serves Christ is acceptable to God and approved by men. ^19^So then we pursue the things which make for peace and the building up of one another.
 
-> **^17^For the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit.** ^18^Whoever thus serves Christ is acceptable to God and approved by men. ^19^So then let us pursue what makes for peace and for mutual upbuilding.
-
-> ^20^Do not, for the sake of food, destroy the work of God. Everything is indeed clean, but it is wrong for anyone to make another stumble by what he eats. ^21^It is good not to eat meat or drink wine or do anything that causes your brother to stumble. ^22^The faith that you have, keep between yourself and God. Blessed is the one who has no reason to pass judgment on himself for what he approves. **^23^But whoever has doubts is condemned if he eats, because the eating is not from faith. For whatever does not proceed from faith is sin.**
+> ^20^Do not tear down the work of God for the sake of food. All things indeed are clean, but they are evil for the man who eats and gives offense. ^21^It is good not to eat meat or to drink wine, or *to do anything* by which your brother stumbles. ^22^The faith which you have, have as your own conviction before God. Happy is he who does not condemn himself in what he approves. **^23^But he who doubts is condemned if he eats, because *his eating is* not from faith; and whatever is not from faith is sin.**
 
 ---
 
@@ -108,18 +112,11 @@ publisher: 三書精讀出版系統
 
 一個常被提出的背景線索是：羅馬皇帝革老丟（Claudius）約於主後49年下令將猶太人逐出羅馬城——此事件本身有羅馬史家蘇埃托尼烏斯（Suetonius）《革老丟傳》25.4的記載為據，並與使徒行傳18:2「有一個猶太人，名叫亞居拉……因為革老丟命猶太人都離開羅馬」的記載相互印證，屬真實可考的歷史事件。革老丟於主後54年去世後，猶太人（包括猶太裔信徒）陸續返回羅馬——此時羅馬教會的實際領導與多數會眾組成，很可能已在外邦信徒手中穩定了五年之久。不少研究羅馬書的學者（如研究早期羅馬教會社會史的學者彼得·蘭普〔Peter Lampe〕等）據此推測，14章的張力很可能正反映了這個返城猶太信徒群體，重新融入一個已由外邦信徒主導的教會時所產生的真實摩擦——這是一個有歷史線索支持、但無法百分之百確證的重建，本書按學術誠實原則，只以「很可能」「一般認為」表述，不作過度肯定的歷史宣稱。
 
-### 「吃」的爭議：兩種可能同時存在的關切
+### 「吃」與「日子」的爭議：兩種具體處境
 
-保羅沒有明說軟弱者為何「只吃蔬菜」，釋經傳統上通常提出兩種、且可能同時並存的關切：
+保羅沒有明說軟弱者為何「只吃蔬菜」，釋經傳統上通常提出兩種、且可能同時並存的關切：**猶太潔淨律法**——猶太裔信徒承襲摩西律法對潔淨與不潔淨食物的區分（利未記11章），即使在基督裏，這樣的良心習慣未必立刻消失；**祭偶像之物**——羅馬城市集（*macellum*）出售的肉類，相當一部分可能來自異教祭祀後轉售的肉，這正是保羅在哥林多前書8-10章處理的同一類問題，對敬拜過偶像的外邦信徒而言，這樣的肉可能觸動良心的記憶。這兩者未必互相排斥，很可能是同一批「軟弱」的信徒身上同時存在的顧慮。
 
-1. **猶太潔淨律法**：猶太裔信徒承襲摩西律法對潔淨與不潔淨食物的區分（利未記11章），即使在基督裏，這樣的良心習慣未必立刻消失。
-2. **祭偶像之物**：羅馬城市集（*macellum*）出售的肉類，相當一部分可能來自異教祭祀後轉售的肉——這正是保羅在哥林多前書8-10章處理的同一類問題，對敬拜過偶像的外邦信徒而言，這樣的肉可能觸動良心的記憶。
-
-這兩者未必互相排斥，很可能是同一批「軟弱」的信徒身上同時存在的顧慮。
-
-### 「日子」的爭議
-
-「有人看這日比那日強」最普遍的理解是猶太裔信徒仍持守安息日與猶太節期的曆法，「看日日都是一樣」則是外邦信徒沒有這樣的曆法背景。保羅的處理方式值得注意：他沒有裁定哪一方「對」，而是說「各人要在自己的心意上堅定」——這節經文，連同歌羅西書2:16「所以，不拘在飲食上，或節期、月朔、安息日都不可讓人論斷你們」，是新約中最直接處理「非本質規條」自由問題的兩段經文。
+「日子」的爭議則最普遍理解為猶太裔信徒仍持守安息日與猶太節期的曆法，「看日日都是一樣」則是外邦信徒沒有這樣的曆法背景。保羅的處理方式值得注意：他沒有裁定哪一方「對」，而是說「各人要在自己的心意上堅定」——這節經文，連同歌羅西書2:16「所以，不拘在飲食上，或節期、月朔、安息日都不可讓人論斷你們」，是新約中最直接處理「非本質規條」自由問題的兩段經文。
 
 ---
 
@@ -137,7 +134,7 @@ publisher: 三書精讀出版系統
 
 ### *koinos* 與 14:14-15 的張力
 
-保羅一方面「憑着主耶穌確知深信，凡物本來沒有不潔淨的」（14:14）——這是他自己堅定的神學立場，也呼應了耶穌在馬可福音7:19「潔淨了一切的食物」的宣告；但同一節的下半句立刻補上：「除非人以為不潔淨的，在他就不潔淨了」。這不是自相矛盾，而是保羅區分了兩個層次：物本身的客觀性質（不潔淨已被廢除），與個人良心的主觀狀態（良心若還沒有被更新，勉強違背良心去吃，對那人而言仍是犯罪）。這正是14:22-23「出於信心」原則的鋪墊。
+保羅一方面「憑着主耶穌確知深信，凡物本來沒有不潔淨的」（14:14）——這是他自己堅定的立場，也呼應了耶穌在馬可福音7:19「潔淨了一切的食物」的宣告；但同一節的下半句立刻補上：「除非人以為不潔淨的，在他就不潔淨了」。這不是自相矛盾，而是保羅區分了兩個層次：物本身的客觀性質（不潔淨已被廢除），與個人良心的主觀狀態（良心若還沒有被更新，勉強違背良心去吃，對那人而言仍是犯罪）。這正是14:22-23「出於信心」原則的鋪墊。
 
 ### *bēma* 的畫面
 
@@ -145,11 +142,11 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 非本質之事：一個真實卻常被忽略的聖經類別
+### 1. 非本質之事：憑良心而行的原則 (14:1, 22-23)
 
-保羅接納「信心軟弱的」，卻明說「不要辯論所疑惑的事」（14:1）——這句話劃出了一條界線：有些事是福音的核心，不容讓步（如3:21-26因信稱義的教義）；有些事是良心可以自由持守的個人領受（如吃甚麼、守不守某些日子）。這一章（連同哥林多前書8-10章）是基督教倫理史上「非本質之事」（adiaphora，「無關緊要之事」）這個長久存在的類別最主要的聖經根據——歷代不同宗派對哪些事屬於這個類別容或有不同判斷，但「存在這樣一個類別」這件事本身，正是羅馬書14章確立的。
+保羅接納「信心軟弱的」，卻明說「不要辯論所疑惑的事」（14:1）——這句話劃出了一條界線：有些事是福音的核心，不容讓步（如3:21-26因信稱義的教義）；有些事是良心可以自由持守的個人領受（如吃甚麼、守不守某些日子）。這一章（連同哥林多前書8-10章）是基督教倫理史上「非本質之事」（adiaphora，「無關緊要之事」）這個長久存在的類別最主要的聖經根據——歷代不同宗派對哪些事屬於這個類別容或有不同判斷，但「存在這樣一個類別」這件事本身，正是羅馬書14章確立的。**14:23是全章的結論句**：「凡不出於信心的都是罪。」這句話的精微之處，在於它不是說某件事客觀上是罪或不是罪，而是說：一個人若違背自己尚未得自由的良心去行一件事——即使那件事本身中性、甚至在保羅看來根本「沒有不潔淨」——對那個人而言，仍然構成犯罪，因為他行動的根源不是信心的確信，而是勉強、猶疑、討好或屈服。這節經文提醒剛強的人：不要用你的自由，逼軟弱的弟兄去做他良心尚未預備好要做的事——那不是幫助他自由，而是叫他犯罪。
 
 ### 2. 基督對日常生活的完全主權（14:6-9）
 
@@ -159,17 +156,9 @@ publisher: 三書精讀出版系統
 
 保羅同時對兩種人說話：「你這個人，為甚麼論斷弟兄呢？」（對嚴謹守規條、容易論斷自由者的一方說）「又為甚麼輕看弟兄呢？」（對自由、容易輕視守規條者的一方說）。兩種罪，方向相反，根源相同——都是把自己放在了神的審判臺前那個位置上。14:11引用以賽亞書45:23，這節經文在腓立比書2:10-11用來描述萬膝要向耶穌基督下拜——保羅在此把它用在神身上，反映他對父神與子神榮耀身分之緊密關聯的理解。既然「我們各人一定要把自己的事在神面前交代」（14:12），論斷弟兄，其實是搶了一個不屬於自己的位置。
 
-### 4. 一個弟兄的價值，用基督的死來衡量（14:14-15）
+### 4. 一個弟兄的價值與神的國度的本質（14:14-17）
 
-**14:15是全章神學重量最大的一句**：「基督已經為他死，你不可因你的食物使他敗壞。」保羅沒有說「不要讓一頓飯毀了教會的和睦」這種功能性的理由，他給的理由是基督論式的（christological）——這位軟弱的弟兄，基督曾經為他捨命。用一頓飯去傷害一個基督用生命買贖的人，等於用微不足道的自由，去輕看那不可估量的十字架代價。這是新約中對「一個普通信徒的價值」最高的一句陳述之一——不是因為他的知識、恩賜或屬靈成熟度，而是因為基督為他死了。
-
-### 5. 神的國不在飲食，而在公義、和平、聖靈中的喜樂（14:17）
-
-**這是全章最常被引用、卻也最容易被表面化理解的一句**。保羅不是說飲食完全不重要，而是重新定位神的國的本質——神的國不是靠外在規條的整齊劃一來彰顯，而是靠聖靈所結的生命品格彰顯。值得注意的是，「公義、和平、喜樂」與加拉太書5:22-23「聖靈的果子」（仁愛、喜樂、和平、忍耐、恩慈、良善、信實、溫柔、節制）高度重疊——這暗示：真正解決「軟弱與剛強」之爭的，不是誰的規條系統更正確，而是聖靈是否真的在雙方生命中結出了公義、和平、喜樂的果子。一個對規條無比精確、卻論斷弟兄的「剛強者」，聖靈的果子未必比一個守規條卻心存愛的「軟弱者」更多。
-
-### 6. 憑信心而行：良心的原則（14:22-23）
-
-**14:23是全章的結論句**：「凡不出於信心的都是罪。」這句話的精微之處，在於它不是說某件事客觀上是罪或不是罪，而是說：一個人若違背自己尚未得自由的良心去行一件事——即使那件事本身中性、甚至在保羅看來根本「沒有不潔淨」——對那個人而言，仍然構成犯罪，因為他行動的根源不是信心的確信，而是勉強、猶疑、討好或屈服。這節經文提醒剛強的人：不要用你的自由，逼軟弱的弟兄去做他良心尚未預備好要做的事——那不是幫助他自由，而是叫他犯罪。
+**14:15是全章份量最重的一句**：「基督已經為他死，你不可因你的食物使他敗壞。」保羅沒有說「不要讓一頓飯毀了教會的和睦」這種功能性的理由，他給的理由是基督論式的（christological）——這位軟弱的弟兄，基督曾經為他捨命。用一頓飯去傷害一個基督用生命買贖的人，等於用微不足道的自由，去輕看那不可估量的十字架代價。這是新約中對「一個普通信徒的價值」最高的一句陳述之一——不是因為他的知識、恩賜或屬靈成熟度，而是因為基督為他死了。**14:17是全章最常被引用、卻也最容易被表面化理解的一句**：「神的國不在乎吃喝，只在乎公義、和平並聖靈中的喜樂。」保羅不是說飲食完全不重要，而是重新定位神的國的本質——神的國不是靠外在規條的整齊劃一來彰顯，而是靠聖靈所結的生命品格彰顯。值得注意的是，「公義、和平、喜樂」與加拉太書5:22-23「聖靈的果子」（仁愛、喜樂、和平、忍耐、恩慈、良善、信實、溫柔、節制）高度重疊——這暗示：真正解決「軟弱與剛強」之爭的，不是誰的規條系統更正確，而是聖靈是否真的在雙方生命中結出了公義、和平、喜樂的果子。一個對規條無比精確、卻論斷弟兄的「剛強者」，聖靈的果子未必比一個守規條卻心存愛的「軟弱者」更多。
 
 ---
 
@@ -186,36 +175,42 @@ publisher: 三書精讀出版系統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：加爾文在他對羅馬書的解經傳統中一貫強調，14:1「不要辯論所疑惑的事」劃出了教會紀律的重要界線——並非一切分歧都值得、或應當帶進公開的爭論，教會領袖必須有智慧分辨哪些是信仰的根基、哪些是良心可以自由持守的次要之事；他也一貫指出14:23「凡不出於信心的都是罪」教導的是一個普遍原則——凡不是出於對神真確信靠而做的事，無論這事本身好壞，對行事的人而言都帶有虧欠神的性質。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
+
+摩根一貫將14章與13章的政權服從教導並列閱讀，指出保羅剛教導完信徒要在公共領域順服掌權者，隨即轉向教會內部，教導信徒在私人良心的領域彼此接納——兩者合起來，勾勒出一幅完整的基督徒公民與教會成員的圖像：對外，順服而不失見證；對內，接納而不失原則。
+
+**從公共領域到私人良心**：摩根指出，羅馬書從12章起進入全書的實踐部分，其內在結構值得留意——12章教導信徒對神（獻上活祭）、對教會（各按恩賜配搭）、對眾人（愛裏行事）；13章教導信徒對掌權者（順服）；14章則轉向一個更微妙、也更容易被忽略的領域：信徒彼此之間，在良心可以自由持守的事上，如何相待。他認為這個順序本身是有意義的——保羅先處理了「大是大非」層次的服從問題（政權），才處理「灰色地帶」層次的接納問題（飲食、日子），顯出後者其實比前者更難操練，因為沒有一條清楚的規則可以套用，唯一的指引是愛與聖靈裏的智慧。
+
+**「審判臺」是全章的軸心意象**：摩根一貫強調，14:10「我們都要站在神的審判臺前」不是用來嚇阻信徒、叫人自我審查到動彈不得，而是用來提醒信徒一件釋放性的事實——既然審判的權柄已經完全在神手中，信徒就不必、也不該僭越去扮演那個裁判的角色。他指出，保羅在此展現出一種深刻的屬靈智慧：把「論斷弟兄」的衝動，直接引導向「敬畏那位真正的審判者」——這比單純道德勸誡「不要論斷人」更有力，因為它給出了不論斷的屬靈理由。
+
+**神的國度的再定義**：摩根認為14:17是全章、甚至全書實踐部分最具突破性的一句——它把「屬靈」從外在規條的框架裏釋放出來，重新安放進聖靈所結果子的框架裏。他指出，教會歷史上一再重複同一個錯誤：把某個時代特定的行為規範（衣着、飲食、娛樂方式等）等同於敬虔本身，而14:17正是對這種傾向最直接的聖經糾正——神的國不是一份行為清單，是一種被聖靈充滿的生命狀態。
+
+> 出處：G. Campbell Morgan 羅馬書相關講章與著作對14章「軟弱與剛強」「神的國度」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
+
+### 麥克阿瑟 (John MacArthur)
 
 **約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫指出，14章討論的不是道德是非分明的罪與義的問題，而是「可爭議事項」（disputable matters）——他強調現代教會常常把這類事項（飲食、生活方式選擇、文化習俗等）錯誤地提升到與福音教義同等的地位，因而製造了保羅在此極力要避免的紛爭；他也一貫強調14:17是理解神國本質的關鍵經文——神的國度不是一套外在規條，而是聖靈在信徒生命中所產生的公義、和平、喜樂。
-
-**坎伯·摩根 (G. Campbell Morgan)**：摩根一貫將14章與13章的政權服從教導並列閱讀，指出保羅剛教導完信徒要在公共領域順服掌權者，隨即轉向教會內部，教導信徒在私人良心的領域彼此接納——兩者合起來，勾勒出一幅完整的基督徒公民與教會成員的圖像：對外，順服而不失見證；對內，接納而不失原則。
 
 **誠實說明**：以上屈梭多模、加爾文、麥克阿瑟、坎伯·摩根之陳述，均為對其著作與講道傳統中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份或講題可逐字查核的原始引句。羅馬皇帝革老丟於主後49年逐猶太人出羅馬一事，乃真實可考的歷史事件（蘇埃托尼烏斯《革老丟傳》25.4；使徒行傳18:2），此處僅作歷史背景之如實描述；其與羅馬書14章張力之關聯，乃學界普遍接受但無法百分之百確證的歷史重建，本書已以「很可能」「一般認為」等措辭誠實標明，未作過度肯定之歷史宣稱。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 133篇
 
-> **看哪，弟兄和睦同住，是何等的善，何等的美！**
-> 這好比那貴重的油澆在亞倫的頭上，
-> 流到鬍鬚，又流到他的衣襟；
-> 又好比黑門的甘露降在錫安山；
+> **看哪，弟兄和睦同住，是何等的善，何等的美！** \
+> 這好比那貴重的油澆在亞倫的頭上， \
+> 流到鬍鬚，又流到他的衣襟； \
+> 又好比黑門的甘露降在錫安山； \
 > 因為在那裏有耶和華所命定的福，就是永遠的生命。
 
-> **Behold, how good and pleasant it is when brothers dwell in unity!**
-> It is like the precious oil on the head, running down on the beard, on the beard of Aaron, running down on the collar of his robes!
-> It is like the dew of Hermon, which falls on the mountains of Zion!
-> For there the Lord has commanded the blessing, life forevermore.
+> **Behold, how good and how pleasant it is For brothers to dwell together in unity!** \
+> It is like the precious oil upon the head, Coming down upon the beard, *Even* Aaron's beard, Coming down upon the edge of his robes. \
+> It is like the dew of Hermon Coming down upon the mountains of Zion; \
+> For there the LORD commanded the blessing—life forever.
 
-大衛沒有說「弟兄意見完全一致」是美好的，他說「弟兄和睦同住」是美好的——和睦不等於意見一致，而是即使有不同的意見，仍然選擇同住、同心。羅馬書14章正是這篇詩篇在教會日常生活中最具體的操作手冊：軟弱與剛強仍有分歧，卻「和睦同住」，因為那澆灌下來的膏油與甘露——聖靈所結的公義、和平、喜樂（14:17）——比誰對誰錯更重要。
-
----
-
-## 聖詩默想 (Hymn Meditation)
+大衛沒有說「弟兄意見完全一致」是美好的，他說「弟兄和睦同住」是美好的——和睦不等於意見一致，而是即使有不同的意見，仍然選擇同住、同心。羅馬書14章正是這篇詩篇在教會日常生活中最具體的操作手冊：軟弱與剛強仍有分歧，卻「和睦同住」，因為那澆灌下來的膏油與甘露——聖靈所結的公義、和平、喜樂（14:17）——比誰對誰錯更重要。多首詩篇聖詩（如以「看哪，何等美善」為主題的敬拜詩歌）皆取材自這篇詩篇的意象——膏油與甘露，象徵聖靈的同在如何在合一的群體中格外豐盛地澆灌下來，正是羅馬書14:17「聖靈中的喜樂」最古老的詩歌迴響。
 
 ### Blest Be the Tie That Binds
 
@@ -226,58 +221,17 @@ publisher: 三書精讀出版系統
 - 「我們的懼怕、盼望、目標一致」— 呼應14:19「追求和睦的事與彼此建立德行的事」
 - 「一同背負彼此的重擔」— 呼應15:1「我們堅固的人應該擔代不堅固人的軟弱」
 
-### 另一配詩：詩篇133篇頌歌
-
-多首詩篇聖詩（如以「看哪，何等美善」為主題的敬拜詩歌）皆取材自詩篇133篇的意象——膏油與甘露，象徵聖靈的同在如何在合一的群體中格外豐盛地澆灌下來，正是羅馬書14:17「聖靈中的喜樂」最古老的詩歌迴響。
-
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。「知識叫人自高」一句，摘自老弟兄查經帶領時的常用關鍵語錄，屬其一貫教導風格中已被記錄下來的真實用語。
 
-**從公共領域到私人良心**：摩根指出，羅馬書從12章起進入全書的實踐部分，其內在結構值得留意——12章教導信徒對神（獻上活祭）、對教會（各按恩賜配搭）、對眾人（愛裏行事）；13章教導信徒對掌權者（順服）；14章則轉向一個更微妙、也更容易被忽略的領域：信徒彼此之間，在良心可以自由持守的事上，如何相待。他認為這個順序本身是有意義的——保羅先處理了「大是大非」層次的服從問題（政權），才處理「灰色地帶」層次的接納問題（飲食、日子），顯出後者其實比前者更難操練，因為沒有一條清楚的規則可以套用，唯一的指引是愛與聖靈裏的智慧。
-
-**「審判臺」是全章的軸心意象**：摩根一貫強調，14:10「我們都要站在神的審判臺前」不是用來嚇阻信徒、叫人自我審查到動彈不得，而是用來提醒信徒一件釋放性的事實——既然審判的權柄已經完全在神手中，信徒就不必、也不該僭越去扮演那個裁判的角色。他指出，保羅在此展現出一種深刻的屬靈智慧：把「論斷弟兄」的衝動，直接引導向「敬畏那位真正的審判者」——這比單純道德勸誡「不要論斷人」更有力，因為它給出了不論斷的神學理由。
-
-**神的國度的再定義**：摩根認為14:17是全章、甚至全書實踐部分最具突破性的一句——它把「屬靈」從外在規條的框架裏釋放出來，重新安放進聖靈所結果子的框架裏。他指出，教會歷史上一再重複同一個錯誤：把某個時代特定的行為規範（衣着、飲食、娛樂方式等）等同於敬虔本身，而14:17正是對這種傾向最直接的聖經糾正——神的國不是一份行為清單，是一種被聖靈充滿的生命狀態。
-
-> 出處：G. Campbell Morgan 羅馬書相關講章與著作對14章「軟弱與剛強」「神的國度」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**「知識叫人自高」——對剛強者最直接的提醒**：老弟兄常說一句話：「知識叫人自高。屬靈的人，聖經懂得很多的人，往往是相當自高的人。」這句話放在羅馬書14章，正好對準了「剛強者」最容易跌倒的地方——一個信仰上更自由、神學上更清楚的人，很容易把這份清楚變成一種優越感，用來輕看那個「還在守規條」的弟兄。老弟兄會這樣提問：「你有沒有因為別人在『非本質』的事上和你不同，就論斷他、輕看他？你的『自由』，是不是有時候只是你『驕傲』的另一個名字？」
-
-**不讓次要的事，搶走中心的位置**：老弟兄帶查經時，一貫的原則是不讓任何次要的爭議，取代基督在群體中應有的中心位置——他會提醒，教會歷史上多少次的紛爭、分裂，起初爭的都不是福音的核心，而是某個具體規條、某種敬拜形式、某種生活方式的對錯；羅馬書14章不是要信徒放棄自己的信念（14:5「各人要在自己的心意上堅定」），而是要信徒守住一個更根本的次序——弟兄相愛、彼此接納，永遠排在意見一致之前。
-
-**問題落到自己**：「你今天心裏有沒有一個『弟兄』，是你因為他在某件小事上和你不一樣，就悄悄看輕了他，或悄悄論斷了他？把那個人的名字想出來——今天，你願不願意像神接納你一樣接納他？」
-
-**誠實說明——本節內容的出處**：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。「知識叫人自高」一句，摘自老弟兄查經帶領時的常用關鍵語錄，屬其一貫教導風格中已被記錄下來的真實用語。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Blest Be the Tie That Binds*（如前「配詩」所引）
-
-> Blest be the tie that binds
-> Our hearts in Christian love;
-> The fellowship of kindred minds
-> Is like to that above.
-
-**詩篇**：詩篇 133:1
-
-> 看哪，弟兄和睦同住，是何等的善，何等的美！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：弟兄和睦同住，不是因為意見一致，而是因為基督已經為那個與你不同的人死了——你的自由若絆倒他，你的自由就不再是愛。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一個原則，兩次書寫。哥林多前書8-10章，保羅處理的是同一類問題——祭偶像之物可不可以吃？他給出的原則和羅馬書14章遙相呼應：「知識是叫人自高自大，惟有愛心能造就人」（林前8:1），「無論是吃是喝，或做甚麼事，都要為榮耀神而行」（林前10:31）——這句話，其實就是羅馬書14:6-8「是為主吃的……是為主而活」用另一種方式的重述。
-
-這條線再往下連到歌羅西書2:16：「所以，不拘在飲食上，或節期、月朔、安息日都不可讓人論斷你們。」保羅在不同的教會、面對不同的具體爭議（哥林多的祭偶像之物、歌羅西的節期規條、羅馬的飲食與日子），反覆教導同一個底層原則——凡福音本身沒有裁定的事，不可讓它成為論斷弟兄的武器。從羅馬書到哥林多前書到歌羅西書，這是聖靈藉着保羅，在不同處境裏一再重申的同一句話。
+**規條自由線（哥林多前書 → 羅馬書 → 歌羅西書）**：哥林多前書8-10章，保羅處理的是同一類問題——祭偶像之物可不可以吃？他給出的原則和羅馬書14章遙相呼應：「知識是叫人自高自大，惟有愛心能造就人」（林前8:1），「無論是吃是喝，或做甚麼事，都要為榮耀神而行」（林前10:31）——這句話，其實就是羅馬書14:6-8「是為主吃的……是為主而活」用另一種方式的重述。這條線再往下連到歌羅西書2:16：「所以，不拘在飲食上，或節期、月朔、安息日都不可讓人論斷你們。」保羅在不同的教會、面對不同的具體爭議（哥林多的祭偶像之物、歌羅西的節期規條、羅馬的飲食與日子），反覆教導同一個底層原則——凡福音本身沒有裁定的事，不可讓它成為論斷弟兄的武器。從羅馬書到哥林多前書到歌羅西書，這是聖靈藉着保羅，在不同處境裏一再重申的同一句話。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -298,17 +252,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我有沒有在心裏輕看過一個「軟弱」的弟兄，或論斷過一個「剛強」的弟兄？
 - **一個行動**：今天具體地為一個與你在某件小事上意見不同的人禱告，把他的名字帶到神面前，而不是帶到論斷裏。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：弟兄和睦同住，不是因為意見一致，而是因為基督已經為那個與你不同的人死了——你的自由若絆倒他，你的自由就不再是愛。
-
-**貫通全經**：哥林多前書10:31「無論是吃是喝，或做甚麼事，都要為榮耀神而行」；歌羅西書2:16「不拘在飲食上，或節期……都不可讓人論斷你們」——同一個原則，聖靈藉保羅一再重申。
-
-**無法迴避的問題**：「你今天心裏有沒有一個弟兄，是你因為他在某件小事上和你不一樣，就悄悄看輕了他，或悄悄論斷了他？」
-
 > 「知識叫人自高，惟有愛心造就人。你懂得多、自由多，不代表你更屬靈——你若因此輕看一個基督為他死的人，你的知識反倒成了絆腳石。」
+
+**你看見耶穌了嗎**：這一章沒有一句直接講十字架的教義句，卻句句都在說：那位「死了，又活了，為要作死人並活人的主」的基督（14:9），祂的主權大到可以掌管一頓飯的吃或不吃；那位坐在審判臺上的（14:10），也正是那位「為他死」的（14:15）——你今天心裏悄悄論斷或輕看的那個弟兄，正是基督用生命買贖回來的人，你看見祂了嗎？
 
 ---
 
@@ -318,11 +264,9 @@ publisher: 三書精讀出版系統
 
 1. **我的「軟弱」與「剛強」**：在哪些非本質的事上，我是「軟弱」的一方（良心尚未自由）？在哪些事上，我是「剛強」的一方（自由卻可能傷人）？
 
-2. **審判臺前的自省**：我是否常常不自覺地站在神的審判臺前那個位置上，論斷或輕看與我不同的弟兄姊妹？
+2. **保羅為甚麼說「不要辯論所疑惑的事」**（14:1）？這和教會該持守純正教義的責任，如何取得平衡？
 
-3. **基督死的重量**：14:15說「基督已經為他死」——我是否曾用一件微小的堅持，傷害過一個基督用生命買贖的人？
-
-4. **神的國度在哪裏**：我花心力爭論、堅持的事，屬於「飲食」（次要規條）那一類，還是屬於「公義、和平、聖靈中的喜樂」那一類？
+3. **14:6-9反覆說「是為主」**——這對「屬靈」與「日常」二分的常見想法，提出了甚麼挑戰？
 
 ### 禱告回應
 
@@ -335,19 +279,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅為甚麼說「不要辯論所疑惑的事」（14:1）？這和教會該持守純正教義的責任，如何取得平衡？
-
-2. 14:6-9反覆說「是為主」——這對「屬靈」與「日常」二分的常見想法，提出了甚麼挑戰？
-
-3. 14:15「基督已經為他死，你不可因你的食物使他敗壞」——這句話用甚麼理由勸阻「剛強者」，而不是單純訴諸和睦或面子？
-
-4. 14:17如何重新定義「神的國度」？這對今天教會過度聚焦某些外在規條或風格的傾向，有甚麼提醒？
-
-5. 14:23「凡不出於信心的都是罪」——這是否意味著一件事本身的對錯，反而不是保羅在此最關心的？請說明你的理解。
-
-6. 比較羅馬書14章、哥林多前書8-10章、歌羅西書2:16——保羅在不同教會處境中反覆教導同一個原則，這對今天教會處理「非本質」爭議，有甚麼具體的操作提醒？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 潔淨／不潔的教訓 | 14:14 | 可7:19 |
+| 審判臺前的審判 | 14:10 | 林後5:10、約5:22、徒18:12 |
+| 萬口稱頌、萬膝跪拜 | 14:11 | 賽45:23、腓2:10-11 |
+| 聖靈的果子與神的國度 | 14:17 | 加5:22-23 |
+| 規條自由的原則 | 14:1, 13, 21 | 林前8:1、林前10:31、西2:16 |
 
 ---
 

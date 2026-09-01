@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 7:1-25
 
----
+**經文核對**：[ai-eden.com/bible/romans/7](https://www.ai-eden.com/bible/romans/7?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：律 Nomos** \
+> **全書坐標**：7章夾在6章「向罪死、向神活」的宣告與8章「聖靈中的生命」的高峰之間，誠實地攔住「成聖很輕省」的錯覺——律法能診斷罪，卻不能醫治罪，唯獨基督能。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上是保羅最個人化、最痛苦的自白，中心卻仍是耶穌基督。婚姻的比喻說：信徒「藉著基督的身體」對律法死了，為要「歸於那從死裏復活的」（7:4）——是十字架斷開了律法的轄制，是復活的基督成了新的丈夫，新的生命之源。當內心的爭戰逼出那聲「我真是苦啊！誰能救我脫離這取死的身體呢？」時，答案不是一套方法、不是加倍的努力，而是一個名字：「感謝神！靠著我們的主耶穌基督」（7:25）。第7章的黑暗，正是為了讓人看清：離了基督，連最好的律法也救不了人；唯有基督，才是這場戰爭唯一的出路。
 
@@ -20,35 +24,35 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Come, Thou Fount of Every Blessing**
+> **Come, Thou Fount of Every Blessing** \
 > *Robert Robinson, 1758*
 >
-> Come, Thou Fount of every blessing,
-> Tune my heart to sing Thy grace;
-> Streams of mercy, never ceasing,
+> Come, Thou Fount of every blessing, \
+> Tune my heart to sing Thy grace; \
+> Streams of mercy, never ceasing, \
 > Call for songs of loudest praise.
 >
-> O to grace how great a debtor
-> Daily I'm constrained to be!
-> Let Thy goodness, like a fetter,
-> Bind my wandering heart to Thee.
-> **Prone to wander, Lord, I feel it,**
-> **Prone to leave the God I love;**
-> Here's my heart, O take and seal it,
+> O to grace how great a debtor \
+> Daily I'm constrained to be! \
+> Let Thy goodness, like a fetter, \
+> Bind my wandering heart to Thee. \
+> **Prone to wander, Lord, I feel it,** \
+> **Prone to leave the God I love;** \
+> Here's my heart, O take and seal it, \
 > Seal it for Thy courts above.
 >
-> 萬福泉源，主，我來朝見，
-> 調諧我心歌頌你恩；
-> 憐憫如流，永不止息，
+> 萬福泉源，主，我來朝見， \
+> 調諧我心歌頌你恩； \
+> 憐憫如流，永不止息， \
 > 當用頌讚聲聲相稱。
 >
-> 我這負恩深重的罪人，
-> 天天蒙你恩典扶持；
-> 願你慈愛如鏈牽引，
-> 拴住我這易於流蕩的心。
-> **我知道我心易於流蕩，**
-> **易於離開我所愛的神；**
-> 這是我心，求主收納封印，
+> 我這負恩深重的罪人， \
+> 天天蒙你恩典扶持； \
+> 願你慈愛如鏈牽引， \
+> 拴住我這易於流蕩的心。 \
+> **我知道我心易於流蕩，** \
+> **易於離開我所愛的神；** \
+> 這是我心，求主收納封印， \
 > 封印它歸向你的天庭。
 
 ---
@@ -56,6 +60,8 @@ publisher: 三書精讀出版系統
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > ^1^弟兄們，我現在對明白律法的人說：你們豈不曉得律法管人是在活著的時候嗎？^2^就如女人有了丈夫，丈夫還活著，就被律法約束，丈夫若死了，就脫離了丈夫的律法。^3^所以丈夫活著，她若歸於別人，便叫淫婦；丈夫若死了，她就脫離了丈夫的律法，雖然歸於別人，也不是淫婦。
 
@@ -71,23 +77,21 @@ publisher: 三書精讀出版系統
 
 > **^24^我真是苦啊！誰能救我脫離這取死的身體呢？^25^感謝神！靠著我們的主耶穌基督就能脫離了。這樣看來，我以內心順服神的律，我肉體卻順服罪的律了。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com 逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> ^1^Or do you not know, brethren (for I am speaking to those who know the law), that the law has jurisdiction over a person as long as he lives? ^2^For the married woman is bound by law to her husband while he is living; but if her husband dies, she is released from the law concerning the husband. ^3^So then, if while her husband is living she is joined to another man, she shall be called an adulteress; but if her husband dies, she is free from the law, so that she is not an adulteress though she is joined to another man.
 
-> ^1^Or do you not know, brothers—for I am speaking to those who know the law—that the law is binding on a person only as long as he lives? ^2^For a married woman is bound by law to her husband while he lives, but if her husband dies she is released from the law of marriage. ^3^Accordingly, she will be called an adulteress if she lives with another man while her husband is alive. But if her husband dies, she is free from that law, and if she marries another man she is not an adulteress.
+> ^4^Therefore, my brethren, you also were made to die to the Law through the body of Christ, so that you might be joined to another, to Him who was raised from the dead, in order that we might bear fruit for God. ^5^For while we were in the flesh, the sinful passions, which were *aroused* by the Law, were at work in the members of our body to bear fruit for death. ^6^But now we have been released from the Law, having died to that by which we were bound, so that we serve in newness of the Spirit and not in oldness of the letter.
 
-> ^4^Likewise, my brothers, you also have died to the law through the body of Christ, so that you may belong to another, to him who has been raised from the dead, in order that we may bear fruit for God. ^5^For while we were living in the flesh, our sinful passions, aroused by the law, were at work in our members to bear fruit for death. ^6^But now we are released from the law, having died to that which held us captive, so that we serve in the new way of the Spirit and not in the old way of the written code.
+> ^7^What shall we say then? Is the Law sin? May it never be! On the contrary, I would not have come to know sin except through the Law; for I would not have known about coveting if the Law had not said, "YOU SHALL NOT COVET." ^8^But sin, taking opportunity through the commandment, produced in me coveting of every kind; for apart from the Law sin *is* dead. ^9^I was once alive apart from the Law; but when the commandment came, sin became alive and I died; ^10^and this commandment, which was to result in life, proved to result in death for me; ^11^for sin, taking an opportunity through the commandment, deceived me and through it killed me. ^12^So then, the Law is holy, and the commandment is holy and righteous and good.
 
-> ^7^What then shall we say? That the law is sin? By no means! Yet if it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, "You shall not covet." ^8^But sin, seizing an opportunity through the commandment, produced in me all kinds of covetousness. For apart from the law, sin lies dead. ^9^I was once alive apart from the law, but when the commandment came, sin came alive and ^10^I died. The very commandment that promised life proved to be death to me. ^11^For sin, seizing an opportunity through the commandment, deceived me and through it killed me. ^12^So the law is holy, and the commandment is holy and righteous and good.
+> ^13^Therefore did that which is good become *a cause of* death for me? May it never be! Rather it was sin, in order that it might be shown to be sin by effecting my death through that which is good, so that through the commandment sin would become utterly sinful.
 
-> ^13^Did that which is good, then, bring death to me? By no means! It was sin, producing death in me through what is good, in order that sin might be shown to be sin, and through the commandment might become sinful beyond measure.
+> ^14^For we know that the Law is spiritual, but I am of flesh, sold into bondage to sin. **^15^For what I am doing, I do not understand; for I am not practicing what I *would* like to *do,* but I am doing the very thing I hate.** ^16^But if I do the very thing I do not want *to do,* I agree with the Law, *confessing* that the Law is good. ^17^So now, no longer am I the one doing it, but sin which dwells in me. ^18^For I know that nothing good dwells in me, that is, in my flesh; for the willing is present in me, but the doing of the good *is* not. ^19^For the good that I want, I do not do, but I practice the very evil that I do not want. ^20^But if I am doing the very thing I do not want, I am no longer the one doing it, but sin which dwells in me.
 
-> ^14^For we know that the law is spiritual, but I am of the flesh, sold under sin. **^15^For I do not understand my own actions. For I do not do what I want, but I do the very thing I hate.** ^16^Now if I do what I do not want, I agree with the law, that it is good. ^17^So now it is no longer I who do it, but sin that dwells within me. ^18^For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out. ^19^For I do not do the good I want, but the evil I do not want is what I keep on doing. ^20^Now if I do what I do not want, it is no longer I who do it, but sin that dwells within me.
+> ^21^I find then the principle that evil is present in me, the one who wants to do good. ^22^For I joyfully concur with the law of God in the inner man, ^23^but I see a different law in the members of my body, waging war against the law of my mind and making me a prisoner of the law of sin which is in my members.
 
-> ^21^So I find it to be a law that when I want to do right, evil lies close at hand. ^22^For I delight in the law of God, in my inner being, ^23^but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members.
-
-> **^24^Wretched man that I am! Who will deliver me from this body of death? ^25^Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.**
+> **^24^Wretched man that I am! Who will set me free from the body of this death? ^25^Thanks be to God through Jesus Christ our Lord! So then, on the one hand I myself with my mind am serving the law of God, but on the other, with my flesh the law of sin.**
 
 ---
 
@@ -99,11 +103,7 @@ publisher: 三書精讀出版系統
 
 ### 婚姻比喻的邏輯
 
-保羅是對「明白律法的人」說話（7:1），可能同時包括熟悉摩西律法的猶太背景信徒，以及熟悉羅馬法律的外邦信徒——羅馬法同樣有「丈夫死後妻子解除婚姻義務」的原則。這比喻的重點不在律法本身的細節，而在一個簡單的法律常識：約束的力量止於死亡。保羅要說的是：你我藉著與基督同死（呼應6:3-6「與基督同死同復活」的洗禮神學），已經合法地脫離了律法對「舊我」的轄制，好叫我們能「歸於別人」——這不是無法無天，而是換了一位新的丈夫、新的生命源頭。
-
-### 「字句」與「靈」的伏筆
-
-7:6「按著心靈的新樣，不按著儀文的舊樣」（「心靈」原文或作「聖靈」）呼應2:29「割禮是心裏的，在乎聖靈，不在乎儀文」。保羅在全書中反覆使用這組對比，7章正是把這個原則具體展開：律法（儀文）能定義善惡、能定罪，卻沒有能力賜下遵行的力量；唯有聖靈才能。
+保羅是對「明白律法的人」說話（7:1），可能同時包括熟悉摩西律法的猶太背景信徒，以及熟悉羅馬法律的外邦信徒——羅馬法同樣有「丈夫死後妻子解除婚姻義務」的原則。這比喻的重點不在律法本身的細節，而在一個簡單的法律常識：約束的力量止於死亡。保羅要說的是：你我藉著與基督同死（呼應6:3-6「與基督同死同復活」的洗禮真理），已經合法地脫離了律法對「舊我」的轄制，好叫我們能「歸於別人」——這不是無法無天，而是換了一位新的丈夫、新的生命源頭。7:6「按著心靈的新樣，不按著儀文的舊樣」（「心靈」原文或作「聖靈」）呼應2:29「割禮是心裏的，在乎聖靈，不在乎儀文」。保羅在全書中反覆使用這組對比，7章正是把這個原則具體展開：律法（儀文）能定義善惡、能定罪，卻沒有能力賜下遵行的力量；唯有聖靈才能。
 
 ### 「我」是誰在說話？
 
@@ -142,25 +142,21 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 律法本身是聖潔的 (The Law Itself Is Holy)
+### 1. 律法本身是聖潔的，卻只能診斷，不能醫治 (The Law Is Holy, but Diagnoses Rather Than Cures)
 
-保羅三次為律法辯護：「律法是罪嗎？斷乎不是」（7:7）、「律法是聖潔的，誡命也是聖潔、公義、良善的」（7:12）、「我們原曉得律法是屬乎靈的」（7:14）。問題從來不在律法，而在「我是屬乎肉體的」。這是全章最容易被誤讀之處——第7章不是在控告律法，而是在為律法平反，同時控告人裏面那沒有能力遵行律法的肉體。
+保羅三次為律法辯護：「律法是罪嗎？斷乎不是」（7:7）、「律法是聖潔的，誡命也是聖潔、公義、良善的」（7:12）、「我們原曉得律法是屬乎靈的」（7:14）。問題從來不在律法，而在「我是屬乎肉體的」。這是全章最容易被誤讀之處——第7章不是在控告律法，而是在為律法平反，同時控告人裏面那沒有能力遵行律法的肉體。律法像一面精準的鏡子、一台靈敏的X光機——它能準確地照出貪心（7:7）、暴露罪的存在（7:13），卻沒有一句話應許它能除去罪。診斷的精準與醫治的無力，正是第7章要人看清的悖論：知道自己病了，和有能力自己痊癒，是兩件完全不同的事。
 
-### 2. 律法能診斷，不能醫治 (The Law Diagnoses, It Does Not Cure)
-
-律法像一面精準的鏡子、一台靈敏的X光機——它能準確地照出貪心（7:7）、暴露罪的存在（7:13），卻沒有一句話應許它能除去罪。診斷的精準與醫治的無力，正是第7章要人看清的悖論：知道自己病了，和有能力自己痊癒，是兩件完全不同的事。
-
-### 3. 罪的位格化 (Sin Personified)
+### 2. 罪的位格化 (Sin Personified)
 
 7:8-11、17、20 中，「罪」不是抽象概念，而被保羅描寫成一個伺機而動的主體——它「趁著機會」「發動」「引誘」「殺」「住在」人裏面。這種寫法呼應創世記4:7「罪伏在門前，它想要控制你」——罪不只是一個行為的總稱，更像一個盤踞在人裏面、有自己意志和策略的權勢。
 
-### 4. 婚姻比喻：從律法之下到基督裏面 (Married to Another)
+### 3. 婚姻比喻：從律法之下到基督裏面 (Married to Another)
 
 7:1-6 的婚姻比喻常被簡化忽略，其實是全章的鑰匙：信徒與律法的關係不是「努力遵守得更好」，而是「已經死了、已經改嫁」。這不是逃避責任，而是換了一個能真正結果子的婚姻——「歸於別人……叫我們結果子給神」（7:4）。第6-25節所有的掙扎描寫，都是為了襯托這句話：離了與基督的聯合，人在律法之下永遠只能結出「死亡的果子」（7:5）。
 
-### 5. 「誰在說話」——一個誠實開放的問題
+### 4. 「誰在說話」與福音的提前闖入 (Who Is Speaking, and the Gospel Breaks In)
 
 7:14-25「我」的身分，是教會歷史上真誠、長期被討論的問題，本書不擅自宣稱唯一正確答案，而如實呈現兩種主要讀法：
 
@@ -169,11 +165,7 @@ publisher: 三書精讀出版系統
 | **重生後信徒的掙扎** | 這是保羅寫信當下、身為使徒仍在經歷的內心爭戰——正是因為越親近神、越活在聖靈中，才越敏銳地看見自己肉體的敗壞 | 奧古斯丁晚期立場、多數宗教改革家（路德、加爾文）、多數當代福音派釋經家 |
 | **未重生者／律法之下者的處境** | 這是描述人在單靠律法、尚未經歷聖靈更新之人的普遍光景，是為了襯托第8章「靠聖靈得勝」的對比 | 部分教父（如屈梭多模傾向此讀法）、部分當代學者 |
 
-兩種讀法都同意一件事：無論這段描述的是誰，答案都不在「我」自己裏面，而在7:25「感謝神！靠著我們的主耶穌基督」——這節經文，正是全章唯一無爭議的結論。
-
-### 6. 「感謝神」——福音提前闖入絕望 (The Gospel Breaks In Before Chapter 8 Begins)
-
-7:24-25 的結構極不尋常：絕望的哀嘆（24節）之後，緊接著爆發出感恩的宣告（25節上），然後又回到一句冷靜、近乎沮喪的總結（25節下：「肉體卻順服罪的律了」）。這不是保羅忘了收尾、寫壞了邏輯——這正是基督徒真實生命的寫照：得救的確據與仍在掙扎的現實同時存在。8章的得勝道理要到下一章才展開，但福音的答案，此刻已經先破口而出。
+兩種讀法都同意一件事：無論這段描述的是誰，答案都不在「我」自己裏面，而在7:25「感謝神！靠著我們的主耶穌基督」——這節經文，正是全章唯一無爭議的結論。7:24-25 的結構極不尋常：絕望的哀嘆（24節）之後，緊接著爆發出感恩的宣告（25節上），然後又回到一句冷靜、近乎沮喪的總結（25節下：「肉體卻順服罪的律了」）。這不是保羅忘了收尾、寫壞了邏輯——這正是基督徒真實生命的寫照：得救的確據與仍在掙扎的現實同時存在。8章的得勝道理要到下一章才展開，但福音的答案，此刻已經先破口而出。
 
 ---
 
@@ -190,46 +182,48 @@ publisher: 三書精讀出版系統
 
 > 出處：此為對奧古斯丁思想發展的一般性、綜合性描述，其早期與反伯拉糾時期著作對羅馬書7章解讀的轉變是教會歷史上有記載的公認事實，惟本書未逐字引用其原文段落，讀者若需查證，可另行核對《致辛普里西安》與《駁二封伯拉糾派書信》原文。
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他1515-1516年於維滕堡大學講授羅馬書的講義（*Lectures on Romans*）中，正是從羅馬書7章的掙扎中，讀出了他神學生涯中最重要的洞見之一——後世稱之為 ***simul iustus et peccator***（拉丁文，「同時是義人，也是罪人」）：信徒在基督裏已經被神完全稱義（地位上是義人），但在今生的實際光景中，罪的敗壞傾向仍然真實存在、仍要終身與之爭戰（狀態上仍是罪人）。這正是7:25那句看似矛盾的總結——「我以內心順服神的律，我肉體卻順服罪的律」——的神學提煉：稱義是一次性、法庭性的宣告，成聖卻是終身、漸進的爭戰，兩者同時真實，並不互相取消。
+路德在他1515-1516年於維滕堡大學講授羅馬書的講義（*Lectures on Romans*）中，正是從羅馬書7章的掙扎中，讀出了他一生中最重要的洞見之一——後世稱之為 ***simul iustus et peccator***（拉丁文，「同時是義人，也是罪人」）：信徒在基督裏已經被神完全稱義（地位上是義人），但在今生的實際光景中，罪的敗壞傾向仍然真實存在、仍要終身與之爭戰（狀態上仍是罪人）。這正是7:25那句看似矛盾的總結——「我以內心順服神的律，我肉體卻順服罪的律」——的精準提煉：稱義是一次性、法庭性的宣告，成聖卻是終身、漸進的爭戰，兩者同時真實，並不互相取消。
 
 > 出處：*simul iustus et peccator* 是路德神學中極為著名、有廣泛文獻記載的核心表述，直接根植於他對羅馬書（尤其第7章）的解讀；本書對其思想脈絡作一般性摘述，未逐字引用其講義原文段落。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：一貫強調，羅馬書7章描繪的正是每一個誠實省察自己的信徒都會經歷的光景——越深地認識神的律法何等聖潔，就越深地看見自己肉體何等敗壞；這一章不是要人灰心絕望，而是要打碎「靠自己努力就能討神喜悅」的幻覺，把人徹底推向唯獨依靠聖靈、唯獨依靠基督的第8章。
+摩根對羅馬書的整體觀察是：這卷書「一半是你眼睛所見過最悲觀的文學篇章（論人的罪），一半是你耳朵所聽過最樂觀的詩歌（論神的救恩）」——第7章正是這兩極之間最尖銳的交會點。摩根一貫強調，保羅在此並非在攻擊律法，而是在為律法「平反」：律法從未被造出來拯救人，它被賜下是要顯明人需要拯救。若把第7章單獨抽出來讀，會得出一幅絕望的圖畫；但摩根提醒讀者，保羅寫這一章從來不是為了讓人停在這裏——7:25那聲「感謝神」已經是第8章的序曲，是保羅刻意讓福音的答案先於系統的論述闖進讀者心裏。
+
+> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
+
+### 麥克阿瑟 (John MacArthur)
+
+一貫強調，羅馬書7章描繪的正是每一個誠實省察自己的信徒都會經歷的光景——越深地認識神的律法何等聖潔，就越深地看見自己肉體何等敗壞；這一章不是要人灰心絕望，而是要打碎「靠自己努力就能討神喜悅」的幻覺，把人徹底推向唯獨依靠聖靈、唯獨依靠基督的第8章。
 
 > 出處：此為對麥克阿瑟一貫解經立場與已知重點的一般性歸納轉述，未附具體講題、日期或 gty.org 網址連結，不宜視為逐字引句。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 130:1-4
 
-> **我從深處求告你，耶和華啊！**
-> 主啊，求你聽我的聲音；
-> 願你側耳聽我懇求的聲音！
-> 耶和華啊，你若究察罪孽，
-> 主啊，誰能站得住呢？
-> 但在你有赦免之恩，
+> **我從深處求告你，耶和華啊！** \
+> 主啊，求你聽我的聲音； \
+> 願你側耳聽我懇求的聲音！ \
+> 耶和華啊，你若究察罪孽， \
+> 主啊，誰能站得住呢？ \
+> 但在你有赦免之恩， \
 > 要叫人敬畏你。
 
-> **Out of the depths I cry to you, O LORD!**
-> O Lord, hear my voice!
-> Let your ears be attentive
-> to the voice of my pleas for mercy!
-> If you, O LORD, should mark iniquities,
-> O Lord, who could stand?
-> But with you there is forgiveness,
-> that you may be feared.
-
----
-
-## 聖詩默想 (Hymn Meditation)
+> **Out of the depths I have cried to You, O LORD.** \
+> Lord, hear my voice! \
+> Let Your ears be attentive \
+> To the voice of my supplications. \
+> If You, LORD, should mark iniquities, \
+> O Lord, who could stand? \
+> But there is forgiveness with You, \
+> That You may be feared.
 
 ### Come, Thou Fount of Every Blessing
 
@@ -242,46 +236,19 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：本書所依據之老弟兄原始查經筆記（`Logos_meditation/church/Thursday.md`，2024-2025年Thursday查經班逐條記錄）經查證，並無任何一則以羅馬書為主題的記載，這與提摩太前書等已有原始筆記可逐條核實的書卷不同。以下「老弟兄查經」內容，是以老弟兄一貫的查經方法論與領受框架（救恩三階段：稱義／成聖／得榮；「從讀到領受六層次」；提問式帶領；以整本聖經為根基、以認識耶穌基督為中心）忠實應用於羅馬書7章而成，**不是**逐字引用他對本章的歷史原始記錄。
 
-摩根對羅馬書的整體觀察是：這卷書「一半是你眼睛所見過最悲觀的文學篇章（論人的罪），一半是你耳朵所聽過最樂觀的詩歌（論神的救恩）」——第7章正是這兩極之間最尖銳的交會點。摩根一貫強調，保羅在此並非在攻擊律法，而是在為律法「平反」：律法從未被造出來拯救人，它被賜下是要顯明人需要拯救。若把第7章單獨抽出來讀，會得出一幅絕望的圖畫；但摩根提醒讀者，保羅寫這一章從來不是為了讓人停在這裏——7:25那聲「感謝神」已經是第8章的序曲，是保羅刻意讓福音的答案先於系統的論述闖進讀者心裏。
+**精義一句話**：律法能照出罪，卻不能除去罪；能定義善，卻不能生出行善的力量——基督徒最大的敵人不是魔鬼，是「己」，而唯一能勝過「己」的，唯獨基督。
 
-> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**基督徒最大的敵人是誰？**——老弟兄在帶領查經時，常以這個問題直指人心：「基督徒最大的敵人是誰？不是魔鬼——是『己』。」羅馬書7章正是這句話最赤裸的聖經印證：保羅面對的敵人，不是外面的逼迫或試探，而是「住在我裏頭的罪」（7:17,20）——那個連他自己都無法完全掌控的「己」。
-
-**屬靈人的三元結構**——老弟兄一貫以「靈、魂、體」的架構來解釋人裏面爭戰的根源：人犯罪之後，「靈」（原是與神交通的器官）失去了功效；「魂」（思想、情感、意志）就取代了靈原本的主導地位，成了「自我中心」的主宰；「體」則被靈或魂所指揮執行。用這個框架讀羅馬書7章，會發現保羅描述的正是這個結構的失序：「按著我裏面的意思，我是喜歡神的律」（7:22，這是重生之靈的渴望），但「肢體中另有個律和我心中的律交戰」（7:23，這是仍以自我為中心的魂與肉體的抵抗）。成聖，不是把「魂」修理得更聽話，而是讓「靈」重新在人裏面居首位——這唯獨是聖靈的工作，不是自我修養的工程。
-
-**你在7章，還是8章？**——依老弟兄一貫帶領查經的提問方式，這一章最適合的追問是：「你今天經歷的，是保羅在羅馬書7章的掙扎，還是8章的得勝？」這不是要人否認7章的真實（它確實是每一個誠實信徒終身都會回到的處境），而是要人分辨：你是停留在「靠自己」與罪纏鬥的循環裏，還是已經轉向「靠聖靈」得勝的道路（羅8:2「賜生命聖靈的律在基督耶穌裏釋放了我，使我脫離罪和死的律了」，和合本）？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Come, Thou Fount of Every Blessing*（萬福泉源，如前「配詩」所引）
-
-> Prone to wander, Lord, I feel it,
-> Prone to leave the God I love;
-> Here's my heart, O take and seal it,
-> Seal it for Thy courts above.
-
-**詩篇**：詩篇 130:3-4
-
-> 耶和華啊，你若究察罪孽，主啊，誰能站得住呢？但在你有赦免之恩，要叫人敬畏你。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**底圖：用「靈魂體」讀7章的失序**——老弟兄一貫以「靈、魂、體」的架構解釋人裏面爭戰的根源：人犯罪之後，「靈」（原是與神交通的器官）失去了功效；「魂」（思想、情感、意志）就取代了靈原本的主導地位，成了「自我中心」的主宰；「體」則被靈或魂所指揮執行。用這個框架讀羅馬書7章，會發現保羅描述的正是這個結構的失序：「按著我裏面的意思，我是喜歡神的律」（7:22，這是重生之靈的渴望），但「肢體中另有個律和我心中的律交戰」（7:23，這是仍以自我為中心的魂與肉體的抵抗）。成聖，不是把「魂」修理得更聽話，而是讓「靈」重新在人裏面居首位——這唯獨是聖靈的工作，不是自我修養的工程。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：律法是訓蒙的師傅，引人到基督那裏（加拉太書3:24）。羅馬書7章正是這節經文最詳細的展開——十誡最後一條「不可貪心」（7:7）揭開的，不是保羅一個人的問題，而是自伊甸園以來所有人的問題：創世記3章夏娃「貪」那分別善惡樹的果子，正是這一切「貪心」的原型。律法從西奈山頒下（出埃及記20章），從不是要人靠自己的力氣達到，而是要人在一次次「立志為善由得我，行出來由不得我」的挫敗中，承認自己需要一位救主。這條線從創世記3章的貪，經西奈山的律法，直到羅馬書7章「我真是苦啊」的哀嘆，最後收束在7:25「感謝神！靠著我們的主耶穌基督」——唯獨基督，是這條線的終點。
+**律法引到基督線**：律法是訓蒙的師傅，引人到基督那裏（加拉太書3:24）。羅馬書7章正是這節經文最詳細的展開——十誡最後一條「不可貪心」（7:7）揭開的，不是保羅一個人的問題，而是自伊甸園以來所有人的問題：創世記3章夏娃「貪」那分別善惡樹的果子，正是這一切「貪心」的原型。律法從西奈山頒下（出埃及記20章），從不是要人靠自己的力氣達到，而是要人在一次次「立志為善由得我，行出來由不得我」的挫敗中，承認自己需要一位救主。這條線從創世記3章的貪，經西奈山的律法，直到羅馬書7章「我真是苦啊」的哀嘆，最後收束在7:25「感謝神！靠著我們的主耶穌基督」——唯獨基督，是這條線的終點。
+
+**罪的位格化線**：7:8-11、17、20的「罪」被保羅描寫成一個伺機而動的主體——它「趁著機會」「發動」「引誘」「殺」「住在」人裏面，這呼應創世記4:7「罪伏在門前，它想要控制你」——罪不只是一個行為的總稱，更像一個盤踞在人裏面、有自己意志和策略的權勢，自伊甸園之外就已經如此。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -302,17 +269,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天有沒有經歷「立志為善由得我，行出來由不得我」的時刻？我當時是回到自己身上掙扎，還是回到「感謝神，靠著耶穌基督」？
 - **一個行動**：找出今天一個反覆出現、靠自己屢戰屢敗的軟弱，今天不再嘗試「下定決心」，而是具體向神說一次「我做不到，求你」。
 
----
+> 「律法叫你看見自己的病，卻沒有一句話應許能醫治你——你還想靠更嚴格地守律法變好嗎？聖經說『行出來由不得我』。」
 
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：律法能照出罪，卻不能除去罪；能定義善，卻不能生出行善的力量——基督徒最大的敵人不是魔鬼，是「己」，而唯一能勝過「己」的，唯獨基督。
-
-**貫通全經**：律法是訓蒙的師傅，引人到基督那裏（加3:24）——從伊甸園的貪心（創3章），到西奈山的誡命，到羅馬書7章「我真是苦啊」的哀嘆，終點只有一個：「感謝神！靠著我們的主耶穌基督」。
-
-**無法迴避的問題**：「你今天經歷的，是保羅在羅馬書7章的掙扎，還是8章的得勝？」
-
-> 「律法叫你看見自己的病，卻沒有一句話應許能醫治你——你還想靠更嚴格地守律法變好嗎？聖經說『行出來由不得我』。你看見耶穌了嗎？」
+**你看見耶穌了嗎**：整章的哀嘆——「我真是苦啊！誰能救我脫離這取死的身體呢？」——沒有停在絕望裏，因為下一句已經指名道姓：「感謝神！靠著我們的主耶穌基督」。是十字架斷開了律法的轄制，是復活的基督成了新的丈夫、新的生命之源——離了祂，連最好的律法也救不了人；你看見這位在黑暗盡頭等著你的基督了嗎？
 
 ---
 
@@ -320,13 +279,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **誠實的自我認識**：我最近一次「我所願意的，我並不做；我所恨惡的，我倒去做」的經歷是甚麼？我當時如何回應——靠自己再努力一次，還是轉向基督？
+1. **simul iustus et peccator**：我是否能同時持守兩件事——因信稱義、在基督裏已經完全被神接納，以及承認自己仍在與罪爭戰、仍需要每天的恩典——而不偏向自義或絕望的任何一端？
 
 2. **律法與福音**：在我信仰生活中，有沒有把某些屬靈操練（讀經、禱告、服事）當成「靠自己守好律法」而非「靠聖靈結果子」？兩者的差別實際表現在哪裏？
 
-3. **「己」這個敵人**：老弟兄說基督徒最大的敵人是「己」——我今天生命中，「己」最頑固盤踞的一個具體領域是甚麼？
-
-4. **simul iustus et peccator**：我是否能同時持守兩件事——因信稱義、在基督裏已經完全被神接納，以及承認自己仍在與罪爭戰、仍需要每天的恩典——而不偏向自義或絕望的任何一端？
+3. **誰在說話**：「7:14-25的『我』是重生後的信徒，還是未重生者」這個問題，教會歷史上有不同讀法——你認為兩種讀法各自的道理在哪裏？為甚麼保羅不明確說清楚？
 
 ### 禱告回應
 
@@ -342,18 +299,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅為甚麼要用婚姻比喻（7:1-6）來解釋信徒與律法的關係？「歸於別人」對你有甚麼具體意義？
-
-2. 律法既是「聖潔、公義、良善的」（7:12），為甚麼它反而會使貪心「發動」（7:8）？這對你如何看待「規條」與「內心的罪」有甚麼提醒？
-
-3. 「誰在說話」（7:14-25的「我」是重生後的信徒，還是未重生者）這個問題，教會歷史上有不同讀法——你認為兩種讀法各自的道理在哪裏？為甚麼保羅不明確說清楚？
-
-4. 路德說「simul iustus et peccator」（同時是義人，也是罪人）——這句話如何幫助你理解7:25那看似矛盾的結尾（「我以內心順服神的律，我肉體卻順服罪的律」）？
-
-5. 老弟兄說「基督徒最大的敵人不是魔鬼，是『己』」——你同意嗎？在你自己的屬靈爭戰經驗中，「己」通常以甚麼樣貌出現？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 律法是訓蒙的師傅，引人到基督 | 7:7 | 加3:24、創3章、出20:17 |
+| 罪的位格化 | 7:8-11, 17, 20 | 創4:7 |
+| 心靈的新樣，不按儀文的舊樣 | 7:6 | 羅2:29 |
+| 「苦啊」的哀嘆 | 7:24 | 啟3:17 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*

@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 15:1-33
 
----
+**經文核對**：[ai-eden.com/bible/romans/15](https://www.ai-eden.com/bible/romans/15?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：接納 Proslambanō** \
+> **全書坐標**：15章跨在「活祭」書卷（12:1-15:13）與「結語」（15:14-16:27）之間——1-13節把14章「彼此接納」的教會倫理，收束進基督自己「不求自己的喜悅」（15:3）的十字架邏輯裏，並藉四段舊約引文（15:9-12）把猶太人與外邦人蒙恩合一，追溯到全書1:16「先是猶太人，後是希臘人」的福音宣告；14-33節保羅個人的宣教足跡與耶路撒冷捐項，則是全書即將收尾的「結語」部分的開始。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 第14章教導「堅固的人」如何在飲食、日子這類「灰色地帶」上包容「軟弱的人」，第15章一開頭立刻把這個倫理原則釘死在一個名字上：「因為基督也不求自己的喜悅」（15:3）。原來「不求自己的喜悅」從來不是保羅發明的道德教訓，而是道成肉身那位的生命本相——祂在客西馬尼說「不要照我的意思，只要照你的意思」（太26:39），祂在十字架上承受了那本該落在悖逆的人身上的羞辱（「辱罵你的人的辱罵都落在我身上」，引自詩69:9）。第7-13節把鏡頭拉遠：基督不但成了猶太人的僕人，證實神向列祖的應許，也使外邦人因祂的憐憫得以榮耀神——祂是那位使猶太人與外邦人、堅固的與軟弱的、都能「同心同聲」歌頌一位父神的元首（15:6）。第17-21節，保羅不誇口自己做了甚麼，只誇「基督藉我做的那些事」——他一生從耶路撒冷直到以利哩古的宣教足跡，不過是基督自己藉著使徒的口和手，繼續完成祂賜下大使命的軌跡。全章最後定睛在耶路撒冷的捐獻與保羅將受的苦難上，讀者若知道使徒行傳21章接下來發生的事，就會看見：這一章紙上寫的宣教心志，很快要用保羅自己的鎖鏈去印證——正如那位「不求自己的喜悅」的基督，先走過了十字架的路。
 
@@ -20,35 +24,35 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **O Zion, Haste**
+> **O Zion, Haste** \
 > *Mary Ann Thomson, 1868*
 >
-> O Zion, haste, thy mission high fulfilling,
-> To tell to all the world that God is Light;
-> That He who made all nations is not willing
+> O Zion, haste, thy mission high fulfilling, \
+> To tell to all the world that God is Light; \
+> That He who made all nations is not willing \
 > One soul should perish, lost in shades of night.
 >
-> *Refrain:*
-> Publish glad tidings, tidings of peace;
+> *Refrain:* \
+> Publish glad tidings, tidings of peace; \
 > Tidings of Jesus, redemption and release.
 >
-> Behold how many thousands still are lying
-> Bound in the darksome prison-house of sin,
-> With none to tell them of the Savior's dying,
+> Behold how many thousands still are lying \
+> Bound in the darksome prison-house of sin, \
+> With none to tell them of the Savior's dying, \
 > Or of the life He died for them to win.
 >
-> 錫安速興，成就你崇高使命，
-> 要將神是光的信息傳給萬邦；
-> 那造萬民的主，並不願意
+> 錫安速興，成就你崇高使命， \
+> 要將神是光的信息傳給萬邦； \
+> 那造萬民的主，並不願意 \
 > 有一個靈魂迷失、沉淪在幽暗裏。
 >
-> *副歌：*
-> 傳揚福音，傳揚平安的信息；
+> *副歌：* \
+> 傳揚福音，傳揚平安的信息； \
 > 傳揚耶穌，救贖與釋放的信息。
 >
-> 看哪，何等多的人仍然躺臥，
-> 被捆綁在罪惡幽暗的牢籠中，
-> 無人告訴他們救主的捨命，
+> 看哪，何等多的人仍然躺臥， \
+> 被捆綁在罪惡幽暗的牢籠中， \
+> 無人告訴他們救主的捨命， \
 > 或祂捨命所要為他們贏得的生命。
 
 ---
@@ -57,29 +61,29 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
+
 > **^1^我們堅固的人應該擔代不堅固人的軟弱，不求自己的喜悅。^2^我們各人務要叫鄰舍喜悅，使他得益處，建立德行。^3^因為基督也不求自己的喜悅，如經上所記：「辱罵你人的辱罵都落在我身上。」**^4^從前所寫的聖經都是為教訓我們寫的，叫我們因聖經所生的忍耐和安慰，可以得著盼望。^5^但願賜忍耐、安慰的神叫你們彼此同心，效法基督耶穌，^6^一心一口榮耀神我們主耶穌基督的父！
 
-> ^7^所以，你們要彼此接納，如同基督接納你們一樣，使榮耀歸於神。^8^我說，基督是為神真理做了受割禮人的執事，要證實所應許列祖的話，^9^並叫外邦人因他的憐憫榮耀神。如經上所記：「因此我要在外邦中稱讚你，歌頌你的名。」^10^又說：「你們外邦人，當與主的百姓一同歡樂！」^11^又說：「外邦啊，你們當讚美主！萬民哪，你們都當頌讚他！」^12^又有以賽亞說：「將來有耶西的根，就是那興起來要治理外邦的，外邦人要仰望他。」**^13^但願使人有盼望的神，因信將諸般的喜樂、平安充滿你們的心，使你們藉著聖靈的能力大有盼望！**
+> ^7^所以，你們要彼此接納，如同基督接納你們一樣，使榮耀歸於神。^8^我說，基督是為神真理作了受割禮人的執事，要證實所應許列祖的話，^9^並叫外邦人因他的憐憫榮耀神。如經上所記：「因此我要在外邦中稱讚你，歌頌你的名。」^10^又說：「你們外邦人，當與主的百姓一同歡樂！」^11^又說：「外邦啊，你們當讚美主！萬民哪，你們都當頌讚他！」^12^又有以賽亞說：「將來有耶西的根，就是那興起來要治理外邦的，外邦人要仰望他。」**^13^但願使人有盼望的神，因信將諸般的喜樂、平安充滿你們的心，使你們藉著聖靈的能力大有盼望！**
 
-> ^14^弟兄們，我自己也深信你們是滿有良善，充足了諸般的知識，也能彼此勸誡。^15^但我稍微放膽寫信給你們，是要提醒你們的記性，特因神所給我的恩典，^16^使我為外邦人做基督耶穌的僕役，做神福音的祭司，叫所獻上的外邦人因著聖靈成為聖潔，可蒙悅納。^17^所以論到神的事，我在基督耶穌裏有可誇的。^18^除了基督藉我做的那些事，我甚麼都不敢提，只提他藉我言語作為，用神蹟奇事的能力，並聖靈的能力，使外邦人順服，^19^甚至我從耶路撒冷直轉到以利哩古，到處傳了基督的福音。^20^我立了志向，不在基督的名被稱過的地方傳福音，免得建造在別人的根基上。^21^就如經上所記：「未曾聞知他信息的，將要看見；未曾聽過的，將要明白。」
+> ^14^弟兄們，我自己也深信你們是滿有良善，充足了諸般的知識，也能彼此勸誡。^15^但我稍微放膽寫信給你們，是要提醒你們的記性，特因神所給我的恩典，^16^使我為外邦人作基督耶穌的僕役，作神福音的祭司，叫所獻上的外邦人因著聖靈成為聖潔，可蒙悅納。^17^所以論到神的事，我在基督耶穌裏有可誇的。^18^除了基督藉我做的那些事，我甚麼都不敢提，只提他藉我言語作為，用神蹟奇事的能力，並聖靈的能力，使外邦人順服，^19^甚至我從耶路撒冷直轉到以利哩古，到處傳了基督的福音。^20^我立了志向，不在基督的名被稱過的地方傳福音，免得建造在別人的根基上。^21^就如經上所記：「未曾聞知他信息的，將要看見；未曾聽過的，將要明白。」
 
 > ^22^我因多次被攔阻，總不得到你們那裏去。^23^但如今在這裏再沒有可傳的地方，而且這好幾年，我切心想望到西班牙去的時候，可以到你們那裏。^24^盼望從你們那裏經過，得見你們，先與你們彼此交往，心裏稍微滿足，然後蒙你們送行。^25^但現在，我往耶路撒冷去供給聖徒。^26^因為馬其頓和亞該亞人樂意湊出捐項，給耶路撒冷聖徒中的窮人。^27^這固然是他們樂意的，其實也算是所欠的債；因外邦人既然在他們屬靈的好處上有份，就當把養身之物供給他們。^28^等我辦完了這事，把這善果向他們交付明白，我就要路過你們那裏，往西班牙去。^29^我也曉得，去的時候必帶著基督豐盛的恩典而去。
 
 > ^30^弟兄們，我藉著我們主耶穌基督，又藉著聖靈的愛，勸你們與我一同竭力，為我祈求神，^31^叫我脫離在猶太不順從的人，也叫我為耶路撒冷所辦的捐項可蒙聖徒悅納，^32^並叫我順著神的旨意，歡歡喜喜地到你們那裏，與你們同得安息。^33^願賜平安的神常和你們眾人同在！阿們。
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com（現代標點和合本）逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> **^1^Now we who are strong ought to bear the weaknesses of those without strength and not *just* please ourselves. ^2^Each of us is to please his neighbor for his good, to his edification. ^3^For even Christ did not please Himself; but as it is written, "THE REPROACHES OF THOSE WHO REPROACHED YOU FELL ON ME."** ^4^For whatever was written in earlier times was written for our instruction, so that through perseverance and the encouragement of the Scriptures we might have hope. ^5^Now may the God who gives perseverance and encouragement grant you to be of the same mind with one another according to Christ Jesus, ^6^so that with one accord you may with one voice glorify the God and Father of our Lord Jesus Christ.
 
-> **^1^We who are strong have an obligation to bear with the failings of the weak, and not to please ourselves. ^2^Let each of us please his neighbor for his good, to build him up. ^3^For Christ did not please himself, but as it is written, "The reproaches of those who reproached you fell on me."** ^4^For whatever was written in former days was written for our instruction, that through endurance and through the encouragement of the Scriptures we might have hope. ^5^May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, ^6^that together you may with one voice glorify the God and Father of our Lord Jesus Christ.
+> ^7^Therefore, accept one another, just as Christ also accepted us to the glory of God. ^8^For I say that Christ has become a servant to the circumcision on behalf of the truth of God to confirm the promises *given* to the fathers, ^9^and for the Gentiles to glorify God for His mercy; as it is written, "THEREFORE I WILL GIVE PRAISE TO YOU AMONG THE GENTILES, AND I WILL SING TO YOUR NAME." ^10^Again he says, "REJOICE, O GENTILES, WITH HIS PEOPLE." ^11^And again, "PRAISE THE LORD ALL YOU GENTILES, AND LET ALL THE PEOPLES PRAISE HIM." ^12^Again Isaiah says, "THERE SHALL COME THE ROOT OF JESSE, AND HE WHO ARISES TO RULE OVER THE GENTILES, IN HIM SHALL THE GENTILES HOPE." **^13^Now may the God of hope fill you with all joy and peace in believing, so that you will abound in hope by the power of the Holy Spirit.**
 
-> ^7^Therefore welcome one another as Christ has welcomed you, for the glory of God. ^8^For I tell you that Christ became a servant to the circumcised to show God's truthfulness, in order to confirm the promises given to the patriarchs, ^9^and in order that the Gentiles might glorify God for his mercy. As it is written, "Therefore I will praise you among the Gentiles, and sing to your name." ^10^And again it says, "Rejoice, O Gentiles, with his people." ^11^And again, "Praise the Lord, all you Gentiles, and let all the peoples extol him." ^12^And again Isaiah says, "The root of Jesse will come, even he who arises to rule the Gentiles; in him will the Gentiles hope." **^13^May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.**
+> ^14^And concerning you, my brethren, I myself also am convinced that you yourselves are full of goodness, filled with all knowledge and able also to admonish one another. ^15^But I have written very boldly to you on some points so as to remind you again, because of the grace that was given me from God, ^16^to be a minister of Christ Jesus to the Gentiles, ministering as a priest the gospel of God, so that *my* offering of the Gentiles may become acceptable, sanctified by the Holy Spirit. ^17^Therefore in Christ Jesus I have found reason for boasting in things pertaining to God. ^18^For I will not presume to speak of anything except what Christ has accomplished through me, resulting in the obedience of the Gentiles by word and deed, ^19^in the power of signs and wonders, in the power of the Spirit; so that from Jerusalem and round about as far as Illyricum I have fully preached the gospel of Christ. ^20^And thus I aspired to preach the gospel, not where Christ was *already* named, so that I would not build on another man's foundation; ^21^but as it is written, "THEY WHO HAD NO NEWS OF HIM SHALL SEE, AND THEY WHO HAVE NOT HEARD SHALL UNDERSTAND."
 
-> ^14^I myself am satisfied about you, my brothers, that you yourselves are full of goodness, filled with all knowledge and able to instruct one another. ^15^But on some points I have written to you very boldly by way of reminder, because of the grace given me by God ^16^to be a minister of Christ Jesus to the Gentiles in the priestly service of the gospel of God, so that the offering of the Gentiles may be acceptable, sanctified by the Holy Spirit. ^17^In Christ Jesus, then, I have reason to be proud of my work for God. ^18^For I will not venture to speak of anything except what Christ has accomplished through me to bring the Gentiles to obedience—by word and deed, ^19^by the power of signs and wonders, by the power of the Spirit of God—so that from Jerusalem and all the way around to Illyricum I have fulfilled the ministry of the gospel of Christ; ^20^and thus I make it my ambition to preach the gospel, not where Christ has already been named, lest I build on someone else's foundation, ^21^but as it is written, "Those who have never been told of him will see, and those who have never heard will understand."
+> ^22^For this reason I have often been prevented from coming to you; ^23^but now, with no further place for me in these regions, and since I have had for many years a longing to come to you ^24^whenever I go to Spain—for I hope to see you in passing, and to be helped on my way there by you, when I have first enjoyed your company for a while— ^25^but now, I am going to Jerusalem serving the saints. ^26^For Macedonia and Achaia have been pleased to make a contribution for the poor among the saints in Jerusalem. ^27^Yes, they were pleased *to do so,* and they are indebted to them. For if the Gentiles have shared in their spiritual things, they are indebted to minister to them also in material things. ^28^Therefore, when I have finished this, and have put my seal on this fruit of theirs, I will go on by way of you to Spain. ^29^I know that when I come to you, I will come in the fullness of the blessing of Christ.
 
-> ^22^This is the reason why I have so often been hindered from coming to you. ^23^But now, since I no longer have any room for work in these regions, and since I have longed for many years to come to you, ^24^I hope to see you in passing as I go to Spain, and to be helped on my journey there by you, once I have enjoyed your company for a while. ^25^At present, however, I am going to Jerusalem bringing aid to the saints. ^26^For Macedonia and Achaia have been pleased to make some contribution for the poor among the saints at Jerusalem. ^27^For they were pleased to do it, and indeed they owe it to them. For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings. ^28^When therefore I have completed this and have delivered to them what has been collected, I will leave for Spain by way of you. ^29^I know that when I come to you I will come in the fullness of the blessing of Christ.
-
-> ^30^I appeal to you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God on my behalf, ^31^that I may be delivered from the unbelievers in Judea, and that my service for Jerusalem may be acceptable to the saints, ^32^so that by God's will I may come to you with joy and be refreshed in your company. ^33^May the God of peace be with you all. Amen.
+> ^30^Now I urge you, brethren, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God for me, ^31^that I may be rescued from those who are disobedient in Judea, and *that* my service for Jerusalem may prove acceptable to the saints; ^32^so that I may come to you in joy by the will of God and find *refreshing* rest in your company. ^33^Now the God of peace be with you all. Amen.
 
 ---
 
@@ -91,13 +95,11 @@ publisher: 三書精讀出版系統
 
 ### 「捐項」的真實歷史
 
-15:25-28所描述的「耶路撒冷捐項」（羅16:23所提及的哥林多教會慷慨接待，正是保羅寫作本信之地），是保羅生平中證據最充分、記載最完整的事件之一——同一件事，在羅馬書15章、哥林多前書16:1-4、哥林多後書8-9章（保羅用最長的篇幅為這筆捐款辯護、鼓勵、催促）、以及使徒行傳24:17（保羅在該撒利亞受審時親口提及「我帶著賙濟本國的捐項」）中反覆出現、互相印證。這不是保羅隨口一提的計劃，而是他第三次宣教旅程末期投入最多心力的具體事工——正是這封信寫作當下，他人正在哥林多，即將啟程押解這筆捐款上耶路撒冷（羅16:23「城內管銀庫的以拉都問你們安」，該猶接待他），也正是本書概覽「寫作情境」一節所指出的背景。這個歷史細節提醒讀者：羅馬書不是一篇懸浮在空中的神學論文，而是一封寫給具體處境、由一位正在具體行動中的宣教士所寫的信。
+15:25-28所描述的「耶路撒冷捐項」（羅16:23所提及的哥林多教會慷慨接待，正是保羅寫作本信之地），是保羅生平中證據最充分、記載最完整的事件之一——同一件事，在羅馬書15章、哥林多前書16:1-4、哥林多後書8-9章（保羅用最長的篇幅為這筆捐款辯護、鼓勵、催促）、以及使徒行傳24:17（保羅在該撒利亞受審時親口提及「我帶著賙濟本國的捐項」）中反覆出現、互相印證。這不是保羅隨口一提的計劃，而是他第三次宣教旅程末期投入最多心力的具體事工——正是這封信寫作當下，他人正在哥林多，即將啟程押解這筆捐款上耶路撒冷（羅16:23「城內管銀庫的以拉都問你們安」，該猶接待他），也正是本書概覽「寫作情境」一節所指出的背景。這個歷史細節提醒讀者：羅馬書不是一篇懸浮在空中的論文，而是一封寫給具體處境、由一位正在具體行動中的宣教士所寫的信。
 
-### 保羅的宣教地圖：耶路撒冷到以利哩古，再到西班牙
+### 保羅的宣教地圖與代禱的應驗
 
 15:19「從耶路撒冷，直轉到以利哩古」，指的是保羅第一到第三次宣教旅程所走過的整個弧線——從猶太的心臟地帶，一路向北、向西，直到亞得里亞海東岸的以利哩古（大致相當於今日巴爾幹半島西部）。他在羅馬書寫信時，正站在這條宣教弧線的盡頭，卻已經把眼光投向下一段：先去羅馬（帝國首都，但不是他要「開荒」的地方——羅馬教會已存在），再往西班牙（帝國最西端，福音尚未傳到之地）。這個地圖清楚顯出保羅畢生宣教策略的核心：不是重複建造別人已經立好的根基，而是不斷往「基督的名未曾被稱過的地方」前進（15:20）。
-
-### 這段禱告求的是甚麼——以及後來發生了甚麼
 
 15:30-32保羅求羅馬信徒為他三件事禱告：脫離猶太地不信之人的加害、耶路撒冷的捐獻事工蒙聖徒悅納、能照神的旨意歡喜來到羅馬。使徒行傳21:27及以下清楚記載：保羅確實去了耶路撒冷，卻在聖殿裏被猶太人捉拿，幾乎被打死，隨後被羅馬軍隊逮捕、輾轉受審兩年多——這場禱告請求中最擔心的事，幾乎一字一句地應驗了。然而使徒行傳28章同樣記載：保羅終究到了羅馬，只是不是像他計劃的那樣以自由之身路過，而是戴著鎖鏈、以囚犯的身分抵達（徒28:16,20）。這不是禱告落空的證據，而是提醒讀者：神應允禱告的方式，往往不是移除保羅所懼怕的苦難，而是讓他所懼怕的苦難本身，成為福音抵達羅馬、乃至傳到該撒家裏（腓1:13；4:22）的通路。
 
@@ -116,7 +118,7 @@ publisher: 三書精讀出版系統
 
 ### *hierourgounta to euangelion*——把祭司的語言用在傳道上
 
-15:16「做神福音的祭司」，原文動詞 *hierourgeō* 在整本新約中僅此一見，是一個帶有濃厚舊約獻祭色彩的字——舊約祭司在聖殿裏獻上祭牲，而保羅說自己是在「做神福音的祭司」，把外邦人的信主本身當作獻在祭壇上的祭物，「使所獻上的外邦人……可蒙悅納」。這不是保羅隨手借用的比喻，而是把傳福音這件事，鄭重地放進舊約獻祭體系所指向的終極意義裏：新約的祭司不再獻牛羊，乃是把得救的外邦人，藉著聖靈的成聖，獻給神。
+15:16「作神福音的祭司」，原文動詞 *hierourgeō* 在整本新約中僅此一見，是一個帶有濃厚舊約獻祭色彩的字——舊約祭司在聖殿裏獻上祭牲，而保羅說自己是在「作神福音的祭司」，把外邦人的信主本身當作獻在祭壇上的祭物，「使所獻上的外邦人……可蒙悅納」。這不是保羅隨手借用的比喻，而是把傳福音這件事，鄭重地放進舊約獻祭體系所指向的終極意義裏：新約的祭司不再獻牛羊，乃是把得救的外邦人，藉著聖靈的成聖，獻給神。
 
 ### *koinōnian*——捐款即團契
 
@@ -137,33 +139,21 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 基督是「不求自己喜悅」的終極典範 (Christ, the Ultimate Pattern of Self-Denial)
+### 1. 基督「不求自己喜悅」的典範，也是舊約教訓存留的目的 (15:1-6)
 
-14章教導堅固的人要包容軟弱的人，15:1-3把這條倫理原則從「應該這樣做」提升到「基督就是這樣做的」。保羅引用詩篇69:9——一篇公認的受苦義人詩篇——來說明：基督所承受的，不是祂自己惹來的羞辱，而是別人（悖逆神的世人）本該承受、卻轉嫁到祂身上的羞辱。這意味著，信徒被要求「擔代軟弱人的軟弱」，不是一種可有可無的美德加分，而是在效法福音的核心結構：義者代替不義者受苦。
+14章教導堅固的人要包容軟弱的人，15:1-3把這條倫理原則從「應該這樣做」提升到「基督就是這樣做的」。保羅引用詩篇69:9——一篇公認的受苦義人詩篇——來說明：基督所承受的，不是祂自己惹來的羞辱，而是別人（悖逆神的世人）本該承受、卻轉嫁到祂身上的羞辱。這意味著，信徒被要求「擔代軟弱人的軟弱」，不是一種可有可無的美德加分，而是在效法福音的核心結構：義者代替不義者受苦。緊接著，15:4是一節極重要卻常被輕輕帶過的經文：「從前所寫的聖經都是為教導我們寫的」。保羅剛引用了一節詩篇（69:9）來解釋基督的受苦，緊接著就作出這個一般性的宣告——舊約經文的功用，不只是歷史記錄或猶太人的家譜檔案，而是持續向新約教會發出教導，其目的是藉著「忍耐」與「聖經所生的安慰」，產生「盼望」。這節經文為後面15:9-12大段引用舊約的作法，先立下了解經原則：舊約不是被基督「取代」的過時文獻，而是被基督「應驗」、繼續向教會說話的活的話語。
 
-### 2. 舊約聖經持續向教會說話 (The Old Testament Still Instructs the Church)
+### 2. 猶太人與外邦人的合一，是舊約早已宣告的計劃，也是盼望的神所應驗的 (15:8-13)
 
-15:4是全書一節極重要卻常被輕輕帶過的經文：「從前所寫的聖經都是為教導我們寫的」。保羅剛引用了一節詩篇（69:9）來解釋基督的受苦，緊接著就作出這個一般性的宣告——舊約經文的功用，不只是歷史記錄或猶太人的家譜檔案，而是持續向新約教會發出教導，其目的是藉著「忍耐」與「聖經所生的安慰」，產生「盼望」。這節經文為後面15:9-12大段引用舊約的作法，先立下了解經原則：舊約不是被基督「取代」的過時文獻，而是被基督「應驗」、繼續向教會說話的活的話語。
+15:8-12是全章的高峰。保羅先說基督「為神真理作了受割禮人的執事」（服事猶太人，證實列祖的應許），再說「並叫外邦人因他的憐憫榮耀神」（服事外邦人）——這兩重身分不是互相矛盾，而是同一個福音計劃的一體兩面。緊接著的四段舊約引文（見上「原文研讀」），把這個「一體兩面」的計劃，一路追溯到摩西、大衛、以賽亞，證明這不是保羅事後想出來的權宜之計，而是神從創世記12:3應許亞伯拉罕「地上的萬族都必因你得福」以來，就寫定的救恩藍圖。15:13的祝禱「但願使人有盼望的神，因信將諸般的喜樂、平安充滿你們的心，使你們藉著聖靈的能力大有盼望」，是1-15章教義部分最合宜的收束句。羅馬書從1:18普世的忿怒與絕望開始，一路走過因信稱義（3-5章）、與基督聯合（6章）、律法與肉體的爭戰（7章）、聖靈中得勝的生命（8章）、以色列的問題與神的信實（9-11章），直到12-15章的具體生活倫理——這一切論證的終點，不是一套冷冰冰的教義體系，而是一顆被聖靈充滿、洋溢著盼望的心。
 
-### 3. 猶太人與外邦人的合一，是舊約早已宣告的計劃 (Jewish-Gentile Unity Was Always God's Plan)
+### 3. 傳福音是祭司的獻祭事奉，宣教的雄心不在別人的根基上建造 (15:16, 20-21)
 
-15:8-12是全章神學的高峰。保羅先說基督「為神真理做了受割禮人的執事」（服事猶太人，證實列祖的應許），再說「並叫外邦人因他的憐憫榮耀神」（服事外邦人）——這兩重身分不是互相矛盾，而是同一個福音計劃的一體兩面。緊接著的四段舊約引文（見上「原文研讀」），把這個「一體兩面」的計劃，一路追溯到摩西、大衛、以賽亞，證明這不是保羅事後想出來的權宜之計，而是神從創世記12:3應許亞伯拉罕「地上的萬族都必因你得福」以來，就寫定的救恩藍圖。
+15:16用「祭司」（*hierourgeō*，見上「原文研讀」）的語言形容自己的傳道工作，這是保羅對「事奉」極具原創性的重塑：在舊約，唯獨利未支派的祭司才能到祭壇前獻祭；在新約，福音的使者藉著傳講基督、帶領外邦人歸信，也在履行一種祭司性的服事——他們獻上的祭物，是「因聖靈成為聖潔」的外邦信徒本身。這提醒每一位傳道者：講台上的服事，從來不只是知識的傳遞，而是一種帶著獻祭重量的屬靈行動。15:20-21，保羅引用以賽亞書52:15（這節經文正在以賽亞書52:13-53:12「受苦的僕人」大段預言之內，緊接開篇52:13之後，原本描述列國君王因看見受苦僕人的榮耀而驚訝閉口）來說明自己的宣教策略：他刻意選擇往「基督的名未曾被稱過的地方」去，而不是在別人已經建立的教會裏重複勞動。這不是輕看已建立的教會（他對羅馬教會滿懷敬重，15:14），而是一種清楚的呼召定位——保羅深知自己蒙召的角色，是拓荒者，不是接管者。
 
-### 4. 盼望的神——一卷寫給盼望的書信終於在此定睛 (The God of Hope)
-
-15:13的祝禱「但願使人有盼望的神，因信將諸般的喜樂、平安充滿你們的心，使你們藉著聖靈的能力大有盼望」，是1-15章教義部分最合宜的收束句。羅馬書從1:18普世的忿怒與絕望開始，一路走過因信稱義（3-5章）、與基督聯合（6章）、律法與肉體的爭戰（7章）、聖靈中得勝的生命（8章）、以色列的問題與神的信實（9-11章），直到12-15章的具體生活倫理——這一切論證的終點，不是一套冷冰冰的教義體系，而是一顆被聖靈充滿、洋溢著盼望的心。
-
-### 5. 傳福音本身就是祭司的獻祭事奉 (Gospel Preaching as Priestly Offering)
-
-15:16用「祭司」（*hierourgeō*，見上「原文研讀」）的語言形容自己的傳道工作，這是保羅對「事奉」極具原創性的神學重塑：在舊約，唯獨利未支派的祭司才能到祭壇前獻祭；在新約，福音的使者藉著傳講基督、帶領外邦人歸信，也在履行一種祭司性的服事——他們獻上的祭物，是「因聖靈成為聖潔」的外邦信徒本身。這提醒每一位傳道者：講台上的服事，從來不只是知識的傳遞，而是一種帶著獻祭重量的屬靈行動。
-
-### 6. 宣教的雄心：不在別人的根基上建造 (Missionary Ambition: Not Building on Another's Foundation)
-
-15:20-21，保羅引用以賽亞書52:15（「未曾傳給他們的，他們必看見；未曾聽見過的事，他們要明白」——這節經文正在以賽亞書52:13-53:12「受苦的僕人」大段預言之內（緊接開篇52:13之後），原本描述列國君王因看見受苦僕人的榮耀而驚訝閉口）來說明自己的宣教策略：他刻意選擇往「基督的名未曾被稱過的地方」去，而不是在別人已經建立的教會裏重複勞動。這不是輕看已建立的教會（他對羅馬教會滿懷敬重，15:14），而是一種清楚的呼召定位——保羅深知自己蒙召的角色，是拓荒者，不是接管者。
-
-### 7. 捐款作為神學宣告：靈裏的相交必須有物質的表現 (The Collection as Theological Statement)
+### 4. 捐款作為真理宣告：靈裏的相交必須有物質的表現 (15:26-27)
 
 15:27「外邦人既然分享了他們靈性上的好處，就當把肉體上的需用供給他們」，把「靈性的好處」（屬靈）與「肉體的需用」（物質）並置，宣告了一個保羅一貫的信念：真實的屬靈合一，若不落實在具體的物質行動上，就是空話。耶路撒冷教會把福音的根源（彌賽亞、應許、盼望）給了外邦教會；外邦教會把物質的供應還給耶路撒冷教會——這不是單方面的施予，而是保羅精心設計、讓兩個群體彼此虧欠、彼此相繫的合一實驗。
 
@@ -182,7 +172,7 @@ publisher: 三書精讀出版系統
 
 > 出處：此為對屈梭多模一貫解經立場與其羅馬書相關講道（*Homilies on Romans*，其中談及15章的講道編號約在27-29篇之間）已知重點的一般性、綜合性歸納轉述，未附具體篇號或逐字引句，讀者若需查證，應另行核對其原始講道文本。
 
-### 宗教改革時期
+### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
@@ -190,41 +180,43 @@ publisher: 三書精讀出版系統
 
 > 出處：此為對加爾文《羅馬書註釋》一貫解經立場與已知重點（如「唯獨聖經」的教會論根基、新舊約盟約合一的立場）的一般性歸納轉述，未逐字引用其原文段落，讀者若需查證，應另行核對其原始註釋文本。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：一貫強調，15:16「做神福音的祭司」是保羅對傳道職分極具份量的自我理解——他不是把自己抬高成獻祭的中保（新約唯一的中保是基督自己），而是指出，福音工人把外邦信徒帶到神面前、使他們「因著聖靈成為聖潔，可蒙悅納」，這件事本身帶著獻祭的莊重與代價；麥克阿瑟也常提醒，15:20保羅「不在別人的根基上建造」的宣教原則，對今日教會拓展策略仍是重要的提醒——真正的宣教心志，應當被那些「未曾聽見過」的群體所牽引，而非僅僅在已經飽和的工場裏彼此競爭。
+摩根一貫指出，羅馬書12-15章這整段生活倫理的教導，其實都是「因信稱義」教義（3-5章）與「聖靈中得勝的生命」（8章）在教會日常關係中的落地——15:1-13正是這段落地過程的巔峰：保羅沒有停在「堅固的人該包容軟弱的人」這樣一句訓誡，而是把整個教會論、甚至整卷書信從1章開始鋪陳的猶太人與外邦人的救恩合一，都收攏進基督自己「不求自己喜悅」的十字架邏輯裏。摩根也一貫強調，15:14-33這段常被讀者輕輕略過的「個人計劃」段落，其實不是書信的附錄，而是保羅整個神學體系活生生的示範——一個真正明白「因信稱義」與「萬民蒙恩」的人，必然會像保羅一樣，把生命投入到「未曾聽見過」的群體中去；教義若不長出宣教的腳，教義就還沒有真正被領受。
+
+> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
+
+### 麥克阿瑟 (John MacArthur)
+
+**約翰·麥克阿瑟 (John MacArthur)**：一貫強調，15:16「作神福音的祭司」是保羅對傳道職分極具份量的自我理解——他不是把自己抬高成獻祭的中保（新約唯一的中保是基督自己），而是指出，福音工人把外邦信徒帶到神面前、使他們「因著聖靈成為聖潔，可蒙悅納」，這件事本身帶著獻祭的莊重與代價；麥克阿瑟也常提醒，15:20保羅「不在別人的根基上建造」的宣教原則，對今日教會拓展策略仍是重要的提醒——真正的宣教心志，應當被那些「未曾聽見過」的群體所牽引，而非僅僅在已經飽和的工場裏彼此競爭。
 
 > 出處：此為對麥克阿瑟一貫解經立場與已知重點的一般性歸納轉述，未附具體講題、日期或 gty.org 網址連結，不宜視為逐字引句。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 67:1-4
 
-> **願神憐憫我們，賜福於我們，**
-> 用臉光照我們，
-> 好叫世界得知你的道路，
-> 萬國得知你的救恩。
-> 神啊，願列邦稱讚你，
-> 願萬民都稱讚你！
-> 願萬國都快樂歡呼，
-> 因為你必按公正審判萬民，
+> **願神憐憫我們，賜福於我們，** \
+> 用臉光照我們， \
+> 好叫世界得知你的道路， \
+> 萬國得知你的救恩。 \
+> 神啊，願列邦稱讚你， \
+> 願萬民都稱讚你！ \
+> 願萬國都快樂歡呼， \
+> 因為你必按公正審判萬民， \
 > 引導世上的萬國。
 
-> **May God be gracious to us and bless us**
-> and make his face to shine upon us,
-> that your way may be known on earth,
-> your saving power among all nations.
-> Let the peoples praise you, O God;
-> let all the peoples praise you!
-> Let the nations be glad and sing for joy,
-> for you judge the peoples with equity
-> and guide the nations upon earth.
-
----
-
-## 聖詩默想 (Hymn Meditation)
+> **God be gracious to us and bless us,** \
+> *And* cause His face to shine upon us— \
+> That Your way may be known on the earth, \
+> Your salvation among all nations. \
+> Let the peoples praise You, O God; \
+> Let all the peoples praise You. \
+> Let the nations be glad and sing for joy; \
+> For You will judge the peoples with uprightness \
+> *And* guide the nations on the earth.
 
 ### O Zion, Haste
 
@@ -235,48 +227,26 @@ publisher: 三書精讀出版系統
 - 「無人告訴他們救主的捨命」— 正是15:20-21保羅「未曾傳給他們的，他們必看見」的宣教焦慮與使命感
 - 副歌「傳揚福音，傳揚平安的信息」— 呼應15:33「願賜平安的神常和你們眾人同在」，平安的源頭與平安的信息是同一位
 
----
+**另一節歌詞**：
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-摩根一貫指出，羅馬書12-15章這整段生活倫理的教導，其實都是「因信稱義」教義（3-5章）與「聖靈中得勝的生命」（8章）在教會日常關係中的落地——15:1-13正是這段落地過程的巔峰：保羅沒有停在「堅固的人該包容軟弱的人」這樣一句訓誡，而是把整個教會論、甚至整卷書信從1章開始鋪陳的猶太人與外邦人的救恩合一，都收攏進基督自己「不求自己喜悅」的十字架邏輯裏。摩根也一貫強調，15:14-33這段常被讀者輕輕略過的「個人計劃」段落，其實不是書信的附錄，而是保羅整個神學體系活生生的示範——一個真正明白「因信稱義」與「萬民蒙恩」的人，必然會像保羅一樣，把生命投入到「未曾聽見過」的群體中去；教義若不長出宣教的腳，教義就還沒有真正被領受。
-
-> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**「盼望」不是情緒，是聖經產生的果子**——老弟兄一貫強調，讀經的目的是要在生命裏「住」進盼望與忍耐，而不只是累積知識。羅馬書15:4正是這個信念最直接的聖經根據：「從前所寫的聖經都是為教導我們寫的，要使我們藉著忍耐和因聖經所生的安慰，得著盼望。」老弟兄常提醒：盼望不是一種天生的樂觀性格，也不是自我催眠出來的正能量，而是「因聖經所生」——是持續讀經、持續被聖經的話語餵養出來的果子。你若發現自己近來心裏缺乏盼望，第一個要問的問題不是「我今天心情如何」，而是「我最近有沒有讓聖經的話語住在我裏面」。
-
-**外邦人蒙恩，不是新約的意外，是舊約早已寫定的計劃**——依老弟兄一貫「整本聖經只有一個主角、一個故事」的讀經信念，15:9-12連續四段舊約引文，正是最好的示範教材：保羅不是東拼西湊找幾節經文來支持自己的論點，而是讓律法書（申命記）、詩篇、先知書（以賽亞書）三個聲部合唱同一首歌——外邦人要與神的子民一同歡樂、要仰望那從耶西根而出的一位。老弟兄會問：你讀舊約的時候，眼睛盯著的是「猶太人的歷史」，還是「神從創世記12:3起，向亞伯拉罕應許『地上的萬族都必因你得福』」的那條主線？
-
-**保羅「從未想過」要在別人立好根基的地方傳道**——這是老弟兄式提問最直接能落到今日生命的一句話。保羅明確說「我立了志向，不在基督的名已經傳揚過的地方傳福音，免得建造在別人的根基上」（15:20）。老弟兄帶查經時常追問：你今天甘心服事的地方，是舒適的，還是神呼召你去的「前線」？我們很容易把「服事」等同於「留在自己熟悉、已經有人做好、有掌聲的地方」，但保羅畢生的宣教策略告訴我們：福音的心志，天然會被那些「未曾聽見過」的地方所牽引，而不是被舒適所牽引。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*O Zion, Haste*（錫安速興，如前「配詩」所引）
-
-> Proclaim to every people, tongue, and nation
-> That God, in whom they live and move, is love;
-> Tell how He stooped to save His lost creation,
+> Proclaim to every people, tongue, and nation \
+> That God, in whom they live and move, is love; \
+> Tell how He stooped to save His lost creation, \
 > And died on earth that man might live above.
 
-**詩篇**：詩篇 67:2-3
-
-> 好叫世界得知你的道路，萬國得知你的救恩。神啊，願列邦稱讚你，願萬民都稱讚你！
+這一節正是全詩歌最直接的福音宣告——「祂降卑拯救祂失喪的創造，死在地上，使人得以活在天上」，與15:8-9「基督……使外邦人因他的憐憫榮耀神」遙相呼應。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+
+**精義一句話**：基督不求自己的喜悅，這是全部基督徒倫理與全部宣教心志共同的根——真正明白這福音的人，不會停在教義裏，必然會像保羅一樣，把生命投入到「未曾聽見過」的地方。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：外邦人蒙恩，從創世記12:3就已經寫定。神呼召亞伯拉罕時說：「地上的萬族都必因你得福」（創12:3）——這句應許是整本聖經「萬國蒙恩」這條主線最早的源頭。羅馬書從4章開始，就一直在解釋亞伯拉罕的信如何成為萬人稱義的模式；到了15:9-12，這條線終於結出果子——保羅一連四段舊約引文（詩18、申32、詩117、賽11），證明外邦人與神的子民一同歡樂、一同讚美，正是創世記12:3那句應許一路走到底的成就。這條線往前推到創世記12章的呼召，往後可以一路推到啟示錄7:9「各國、各族、各民、各方」在寶座前敬拜的異象——羅馬書15章，正是這條萬國蒙恩主線走到新約教會現場的中途站。
+**萬國蒙恩主線**：神呼召亞伯拉罕時說：「地上的萬族都必因你得福」（創12:3）——這句應許是整本聖經「萬國蒙恩」這條主線最早的源頭。羅馬書從4章開始，就一直在解釋亞伯拉罕的信如何成為萬人稱義的模式；到了15:9-12，這條線終於結出果子——保羅一連四段舊約引文（詩18、申32、詩117、賽11），證明外邦人與神的子民一同歡樂、一同讚美，正是創世記12:3那句應許一路走到底的成就。這條線往前推到創世記12章的呼召，往後可以一路推到啟示錄7:9「各國、各族、各民、各方」在寶座前敬拜的異象——羅馬書15章，正是這條萬國蒙恩主線走到新約教會現場的中途站。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -297,17 +267,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天有沒有一個時刻，我選擇了「求自己的喜悅」而不是「讓鄰舍得造就」？
 - **一個行動**：具體為一位在「未曾聽見過」福音之地服事的宣教士（或一個尚未有教會的群體）代禱，並考慮實際的物質或行動上的支持——效法馬其頓、亞該亞教會，讓靈裏的相交落實在肉體的供應上。
 
----
+> 「基督不求自己的喜悅，祂承受了本該落在你我身上的羞辱——你還想把福音留在自己舒適的圈子裏嗎？」
 
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：基督不求自己的喜悅，這是全部基督徒倫理與全部宣教心志共同的根——真正明白這福音的人，不會停在教義裏，必然會像保羅一樣，把生命投入到「未曾聽見過」的地方。
-
-**貫通全經**：創世記12:3「地上的萬族都必因你得福」，一路走到羅馬書15:9-12律法、詩篇、先知合聲見證外邦人蒙恩，再走到啟示錄7:9「各國、各族、各民、各方」在寶座前的敬拜——這是同一條萬國蒙恩的主線。
-
-**無法迴避的問題**：「保羅『從未想過』要在別人已經立好根基的地方傳道——你今天甘心服事的地方，是舒適的，還是神呼召你去的『前線』？」
-
-> 「基督不求自己的喜悅，祂承受了本該落在你我身上的羞辱——你還想把福音留在自己舒適的圈子裏嗎？你看見耶穌了嗎？」
+**你看見耶穌了嗎**：整章沒有停在教義裏——那位「不求自己的喜悅」、甘願承受「辱罵你的人的辱罵都落在我身上」（引自詩69:9）的基督，正是保羅「從耶路撒冷直轉到以利哩古」所傳的那一位；祂先在客西馬尼說「不要照我的意思，只要照你的意思」，走過了十字架的路，才使保羅甘願走上耶路撒冷、甚至鎖鏈的路。你看見祂了嗎？
 
 ---
 
@@ -315,13 +277,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **不求自己的喜悅**：我最近一次「讓鄰舍喜悅、使他得益處」而不是「求自己的喜悅」的具體選擇是甚麼？如果基督是我的榜樣，祂會怎麼做？
+1. **聖經與盼望**：我的盼望是從哪裏來的——是環境順利帶來的樂觀，還是「因聖經所生的忍耐和安慰」而來的確據？我最近多久沒有讓聖經的話語「住」在我裏面？
 
-2. **聖經與盼望**：我的盼望是從哪裏來的——是環境順利帶來的樂觀，還是「因聖經所生的忍耐和安慰」而來的確據？我最近多久沒有讓聖經的話語「住」在我裏面？
+2. **十字架受苦的性質**：保羅說「基督也不求自己的喜悅」（15:3），並引用詩篇69:9來解釋——這句舊約經文如何幫助我理解基督十字架受苦的性質？
 
-3. **萬國蒙恩的圖畫**：15:9-12的四段舊約引文，讓我對「福音是給萬民的」這件事有甚麼新的認識？我的禱告清單、我的關心範圍，是否也像神的心意一樣寬廣？
-
-4. **前線與舒適區**：保羅立志不在別人的根基上建造。今天神可能呼召我去服事的「前線」在哪裏——是地理上的遠方，還是我身邊一個被忽略的群體？
+3. **祭司的語言與服事**：15:16保羅用「祭司」的語言形容自己傳福音的事奉——這對我理解「傳道」「服事」這件事，帶來甚麼新的角度？
 
 ### 禱告回應
 
@@ -340,18 +300,16 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅說「基督也不求自己的喜悅」（15:3），並引用詩篇69:9來解釋——這句舊約經文如何幫助你理解基督十字架受苦的性質？
-
-2. 15:9-12連續四段舊約引文，分別出自律法書、詩篇、先知書——這種刻意的鋪排，對「外邦人蒙恩是否是神計劃之內」這個問題，提供了甚麼樣的答案？
-
-3. 15:16保羅用「祭司」的語言形容自己傳福音的事奉——這對你理解「傳道」「服事」這件事，帶來甚麼新的角度？
-
-4. 保羅立志「不在別人的根基上建造」（15:20）——這個宣教原則，對今天教會思考事工方向、資源分配，有甚麼具體的提醒或挑戰？
-
-5. 保羅在15:30-32所求的三件禱告事項，後來（依使徒行傳21-28章）幾乎以「他最擔心的事發生了，但神仍然帶他到了羅馬」的方式應驗——這對你如何看待「禱告沒有按我期待的方式蒙應允」，有甚麼幫助？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 萬國蒙恩的應許 | 15:9-12 | 創12:3、詩18:49／撒下22:50、申32:43、詩117:1、賽11:10、啟7:9 |
+| 基督受苦的典範 | 15:3 | 詩69:9、太26:39 |
+| 受苦僕人的預言 | 15:20-21 | 賽52:13-53:12 |
+| 耶路撒冷捐項 | 15:25-28 | 林前16:1-4、林後8-9、徒24:17、腓1:5 |
+| 禱告的應驗與福音抵達羅馬 | 15:30-32 | 徒21:27起、徒28:16,20、腓1:13、腓4:22 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*

@@ -56,12 +56,9 @@ copyright: |
   中文經文引自《聖經》和合本（1919），屬公有領域；
   逐章核對來源見附錄二〈參考資料〉之逐章說明。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
-
-  All rights reserved.
+  Scripture quotations taken from the New American Standard Bible®
+  (NASB), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. All rights reserved. lockman.org
 ---
 
 HEADER
@@ -86,7 +83,10 @@ add_file() {
 add_volume() {
     printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
     if [ -n "$3" ]; then
-        printf '\n| | |\n|---|---|\n| **救恩的環節** | %s |\n| **鑰節** | %s |\n| **貫穿的問題** | %s |\n' \
+        # The separator row must be at least pandoc's --columns threshold (72),
+        # or pandoc emits bare `l` columns that cannot wrap and the 鑰節 cell
+        # overflows the text block. See scripts/widen-table-separators.py.
+        printf '\n| | |\n|----------------------|-----------------------------------------------------------------|\n| **救恩的環節** | %s |\n| **鑰節** | %s |\n| **貫穿的問題** | %s |\n' \
             "$3" "$4" "$5" >> "$COMBINED_MD"
     fi
     printf '\n\\newpage\n\n' >> "$COMBINED_MD"

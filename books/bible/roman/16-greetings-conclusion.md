@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 16:1-27
 
----
+**經文核對**：[ai-eden.com/bible/romans/16](https://www.ai-eden.com/bible/romans/16?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：同工 Synergos** \
+> **全書坐標**：卷五「活祭」的收尾，也是全書的收尾。12-15章的教導，在16章化為一份有名有姓的名單——福音的能力（1:16）落在具體的人身上；末了16:25-27的頌讚，把全書的論證收在「唯一全智的神」身上。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章常被當作「只是一串名單」匆匆翻過，但它其實是整卷福音書信最具體的「肉身化」證據——因為福音的能力（1:16），如今活在一群真實、有名有姓、跨越猶太人與外邦人、自由人與奴隸、男人與女人的身體裏，「在基督裏」（*en Christō*）這短語在本章反覆出現十餘次，每一次都在說：這些人之所以彼此相連，唯一的原因是耶穌基督。全信以「因信稱義」開始，卻以一份問安名單與一句榮耀頌結束——正說明稱義的教義若不落實成一個彼此相顧、跨越階級與種族的群體，就還沒有活出福音的全貌。而全信最後一句話，不是保羅的名字，是「獨一全智的神，藉着耶穌基督，得着榮耀，直到永遠」——羅馬書從「神的義」開始，以「神的榮耀」結束，中間的橋樑，是耶穌基督。
 
@@ -20,31 +24,31 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **To God Be the Glory**
+> **To God Be the Glory** \
 > *Fanny J. Crosby, 1875*
 >
-> To God be the glory, great things He hath done;
-> So loved He the world that He gave us His Son,
-> Who yielded His life an atonement for sin,
+> To God be the glory, great things He hath done; \
+> So loved He the world that He gave us His Son, \
+> Who yielded His life an atonement for sin, \
 > And opened the life gate that all may go in.
 >
-> Praise the Lord, praise the Lord,
-> Let the earth hear His voice!
-> Praise the Lord, praise the Lord,
-> Let the people rejoice!
-> O come to the Father, through Jesus the Son,
+> Praise the Lord, praise the Lord, \
+> Let the earth hear His voice! \
+> Praise the Lord, praise the Lord, \
+> Let the people rejoice! \
+> O come to the Father, through Jesus the Son, \
 > And give Him the glory, great things He hath done.
 >
-> 榮耀歸於真神，成就大事的神，
-> 祂愛世人，甚至賜下祂的獨生子，
-> 捨命作了贖罪祭，
+> 榮耀歸於真神，成就大事的神， \
+> 祂愛世人，甚至賜下祂的獨生子， \
+> 捨命作了贖罪祭， \
 > 開了生命的門，叫人都可以進來。
 >
-> 讚美主，讚美主，
-> 讓全地都聽見祂的聲音！
-> 讚美主，讚美主，
-> 讓萬民都歡欣！
-> 來到父面前，藉着耶穌聖子，
+> 讚美主，讚美主， \
+> 讓全地都聽見祂的聲音！ \
+> 讚美主，讚美主， \
+> 讓萬民都歡欣！ \
+> 來到父面前，藉着耶穌聖子， \
 > 將榮耀歸給祂，祂已成就大事。
 
 ---
@@ -52,6 +56,8 @@ publisher: 三書精讀出版系統
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > ^1^我對你們舉薦我們的姐妹非比，她是堅革哩教會中的女執事。^2^請你們為主接待她，合乎聖徒的體統。她在何事上要你們幫助，你們就幫助她，因她素來幫助許多人，也幫助了我。
 
@@ -61,35 +67,29 @@ publisher: 三書精讀出版系統
 
 > ^21^與我同工的提摩太和我的親屬路求、耶孫、所西巴德問你們安。^22^我這代筆寫信的德丟在主裏面問你們安。^23^那接待我，也接待全教會的該猶問你們安。^24^城內管銀庫的以拉都和兄弟括土問你們安。
 
-> **^25^唯有神能照我所傳的福音和所講的耶穌基督，並照永古隱藏不言的奧祕，堅固你們的心。^26^這奧祕如今顯明出來，而且按著永生神的命，藉眾先知的書指示萬國的民，使他們信服真道。^27^願榮耀因耶穌基督歸於獨一全智的神，直到永遠！阿們。**
+> **^25^惟有神能照我所傳的福音和所講的耶穌基督，並照永古隱藏不言的奧祕，堅固你們的心。^26^這奧祕如今顯明出來，而且按著永生神的命，藉眾先知的書指示萬國的民，使他們信服真道。^27^願榮耀因耶穌基督歸於獨一全智的神，直到永遠！阿們。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com（現代標點和合本）逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> ^1^I commend to you our sister Phoebe, who is a servant of the church which is at Cenchrea; ^2^that you receive her in the Lord in a manner worthy of the saints, and that you help her in whatever matter she may have need of you; for she herself has also been a helper of many, and of myself as well.
 
-> ^1^I commend to you our sister Phoebe, a servant of the church at Cenchreae, ^2^that you may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well.
+> ^3^Greet Prisca and Aquila, my fellow workers in Christ Jesus, ^4^who for my life risked their own necks, to whom not only do I give thanks, but also all the churches of the Gentiles; ^5^also *greet* the church that is in their house. Greet Epaenetus, my beloved, who is the first convert to Christ from Asia. ^6^Greet Mary, who has worked hard for you. ^7^Greet Andronicus and Junias, my kinsmen and my fellow prisoners, who are outstanding among the apostles, who also were in Christ before me. ^8^Greet Ampliatus, my beloved in the Lord. ^9^Greet Urbanus, our fellow worker in Christ, and Stachys my beloved. ^10^Greet Apelles, the approved in Christ. Greet those who are of the *household* of Aristobulus. ^11^Greet Herodion, my kinsman. Greet those of the *household* of Narcissus, who are in the Lord. ^12^Greet Tryphaena and Tryphosa, workers in the Lord. Greet Persis the beloved, who has worked hard in the Lord. ^13^Greet Rufus, a choice man in the Lord, also his mother and mine. ^14^Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brethren with them. ^15^Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them. ^16^Greet one another with a holy kiss. All the churches of Christ greet you.
 
-> ^3^Greet Prisca and Aquila, my fellow workers in Christ Jesus, ^4^who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well. ^5^Greet also the church in their house. Greet my beloved Epaenetus, who was the first convert to Christ in Asia. ^6^Greet Mary, who has worked hard for you. ^7^Greet Andronicus and Junia, my kinsmen and my fellow prisoners. They are well known to the apostles, and they were in Christ before me. ^8^Greet Ampliatus, my beloved in the Lord. ^9^Greet Urbanus, our fellow worker in Christ, and my beloved Stachys. ^10^Greet Apelles, who is approved in Christ. Greet those who belong to the family of Aristobulus. ^11^Greet my kinsman Herodion. Greet those in the Lord who belong to the family of Narcissus. ^12^Greet those workers in the Lord, Tryphaena and Tryphosa. Greet the beloved Persis, who has worked hard in the Lord. ^13^Greet Rufus, chosen in the Lord; also his mother, who has been a mother to me as well. ^14^Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them. ^15^Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them. ^16^Greet one another with a holy kiss. All the churches of Christ greet you.
+> ^17^Now I urge you, brethren, keep your eye on those who cause dissensions and hindrances contrary to the teaching which you learned, and turn away from them. ^18^For such men are slaves, not of our Lord Christ but of their own appetites; and by their smooth and flattering speech they deceive the hearts of the unsuspecting. ^19^For the report of your obedience has reached to all; therefore I am rejoicing over you, but I want you to be wise in what is good and innocent in what is evil. ^20^The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
 
-> ^17^I appeal to you, brothers, to watch out for those who cause divisions and create obstacles contrary to the doctrine that you have been taught; avoid them. ^18^For such persons do not serve our Lord Christ, but their own appetites, and by smooth talk and flattery they deceive the hearts of the naive. ^19^For your obedience is known to all, so that I rejoice over you, but I want you to be wise as to what is good and innocent as to what is evil. ^20^The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you.
+> ^21^Timothy my fellow worker greets you, and *so* *do* Lucius and Jason and Sosipater, my kinsmen. ^22^I, Tertius, who write this letter, greet you in the Lord. ^23^Gaius, host to me and to the whole church, greets you. Erastus, the city treasurer greets you, and Quartus, the brother. ^24^[The grace of our Lord Jesus Christ be with you all. Amen.]
 
-> ^21^Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen. ^22^I Tertius, who wrote this letter, greet you in the Lord. ^23^Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you.
+> **^25^Now to Him who is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret for long ages past, ^26^but now is manifested, and by the Scriptures of the prophets, according to the commandment of the eternal God, has been made known to all the nations, *leading* to obedience of faith; ^27^to the only wise God, through Jesus Christ, be the glory forever. Amen.**
 
-> **^25^Now to him who is able to strengthen you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery that was kept secret for long ages ^26^but has now been disclosed and through the prophetic writings has been made known to all nations, according to the command of the eternal God, to bring about the obedience of faith— ^27^to the only wise God be glory forevermore through Jesus Christ! Amen.**
-
-*經文小記*：中英經文在16:24上有真實的抄本差異。和合本（CUV）依據其所本的多數文本／公認經文傳統，於23節之後列出24節「城內管銀庫的以拉都和兄弟括土問你們安」；英文 ESV（連同多數現代譯本所依據的較早抄本）則於23節之後直接接25節，將這句話列為異文腳註，不編入正文——這是真實、可查證的抄本差異，下文「背景」一節另有說明。
+*經文小記*：中英文本在16:23-24的分節與內容上，存在真實、可查證的抄本差異，而且比表面看起來更複雜。和合本（CUV）依其所本的多數文本傳統，23節只列該猶一人問安，另立24節「城內管銀庫的以拉都和兄弟括土問你們安」。NASB 1995（經 biblehub.com/nasb/romans/16 核對）的分節方式不同：以拉都、括土的問安被併入23節（與該猶同節），24節則另外印出一句以方括號標示的文字——"[The grace of our Lord Jesus Christ be with you all. Amen.]"（大意：願我們主耶穌基督的恩，常與你們眾人同在，阿們）——這是多數文本傳統裏重複出現的**第二次**「恩惠頌辭」（第一次已見於20節），NASB以方括號註明此句屬後期抄本所加、不見於最早期可靠抄本。換句話說，NASB雖然仍把24節編了號，但24節的實際內容與和合本24節（以拉都、括土的問安）完全不同：和合本把「以拉都、括土問安」單獨列為24節；NASB把同一句問安併入23節，卻另外把一句不同的、有手抄本存疑的恩惠頌辭方括號標為24節。這是真實、可查證的抄本與分節差異，不是本書校訂的疏失。
 
 ---
 
 ## 背景 (Context)
 
-### 非比與「薦信」的古代慣例
+### 非比與「薦信」的古代慣例，及她的身份
 
-保羅寫信給一個他從未親自建立、也從未去過的教會（羅1:13），卻能在16章一口氣點名超過三十個真實姓名——這本身就是古代書信文化留下的線索：非比很可能就是這封信的實際送信人。在缺乏郵政系統的古代世界，重要書信通常交由一位可信賴、要親自前往目的地的人攜帶，而攜帶者往往同時負有「代言」之責——收信教會若有疑問，可以當面詢問她。保羅在16:1-2用的正是古代「薦信」（letter of commendation）的標準格式，與使徒行傳18:27推薦亞波羅、哥林多後書3:1提到的「薦信」、約翰三書12節推薦低米丟，屬於同一種文體。
-
-### 非比的身份：執事？教會的女執事？
-
-原文稱非比為 *diakonon*（διάκονον）——這正是保羅在腓立比書1:1、提摩太前書3:8-13用來稱呼教會「執事」職分的同一個詞。這是一個真實、至今仍在學界持續討論的問題：保羅在這裏是用「執事」的一般意義（僕人、服事者），還是指她在堅革哩教會擔任正式的「執事」職分？兩種讀法在歷代注疏與當代學者中都有人持守，本書不擅自替讀者下最終定論，只誠實呈現：這節經文至少證明，非比在堅革哩教會中擔負著保羅認可、值得全教會鄭重接待的服事角色；而16:2稱她是「許多人和我的 *prostatis*（προστάτις）」——這個詞在當時常指有社會地位、能以財力資助他人事業的「贊助人／保護人」，暗示非比很可能是一位有相當經濟能力與社會地位的婦女，曾實質資助過保羅的宣教工作。
+保羅寫信給一個他從未親自建立、也從未去過的教會（羅1:13），卻能在16章一口氣點名超過三十個真實姓名——這本身就是古代書信文化留下的線索：非比很可能就是這封信的實際送信人。在缺乏郵政系統的古代世界，重要書信通常交由一位可信賴、要親自前往目的地的人攜帶，而攜帶者往往同時負有「代言」之責——收信教會若有疑問，可以當面詢問她。保羅在16:1-2用的正是古代「薦信」（letter of commendation）的標準格式，與使徒行傳18:27推薦亞波羅、哥林多後書3:1提到的「薦信」、約翰三書12節推薦低米丟，屬於同一種文體。原文稱非比為 *diakonon*（διάκονον）——這正是保羅在腓立比書1:1、提摩太前書3:8-13用來稱呼教會「執事」職分的同一個詞。這是一個真實、至今仍在學界持續討論的問題：保羅在這裏是用「執事」的一般意義（僕人、服事者），還是指她在堅革哩教會擔任正式的「執事」職分？兩種讀法在歷代注疏與當代學者中都有人持守，本書不擅自替讀者下最終定論，只誠實呈現：這節經文至少證明，非比在堅革哩教會中擔負著保羅認可、值得全教會鄭重接待的服事角色；而16:2稱她是「許多人和我的 *prostatis*（προστάτις）」——這個詞在當時常指有社會地位、能以財力資助他人事業的「贊助人／保護人」，暗示非比很可能是一位有相當經濟能力與社會地位的婦女，曾實質資助過保羅的宣教工作。
 
 ### 從東方流散到羅馬：一份跨越帝國的人際網絡
 
@@ -97,9 +97,7 @@ publisher: 三書精讀出版系統
 
 ### 名單裏的社會階層：一個真正跨階級的教會
 
-學者（如萊特福特 J. B. Lightfoot 對「該撒家裏的人」的研究）早已指出：16章許多名字——暗伯利、士大古、亞遜其土、弗勒干、黑米、黑馬、非羅羅古——都是當時羅馬常見的奴隸或釋放奴（freedman）名字，在羅馬考古發現的墓誌銘（columbaria）中大量出現同類姓名。「亞利多布家裏的人」與「拿其數家裏的人」也引發真實而審慎的歷史推測：亞利多布可能是希律大王的孫子、亞基帕一世的兄弟，曾住在羅馬；拿其數則可能是革老丟皇帝的釋放奴秘書，主後54年尼祿即位後被迫自盡——若真是同一人，保羅只問候「屬拿其數的人」而不問候拿其數本人，恰恰吻合了他此時可能已經去世、其家眷（奴僕）轉歸皇室的歷史背景。這些身份指認在學界屬於「合理但無法百分之百證實」的推測，本書如實呈現為推測，不當作確證陳述。
-
-無論這些身份指認能否完全坐實，有一件事是肯定的：這份名單裏，猶太人（百基拉、安多尼古、猶尼亞、希羅天）與外邦人並列，奴隸背景的名字與有社會地位的贊助人（非比、該猶）並列，男性與女性並列——這正是保羅在加拉太書3:28所宣告的「不再分猶太人、希臘人，自主的、為奴的，或男或女……在基督耶穌裏都成為一了」的具體、有名有姓的實現。
+學者（如萊特福特 J. B. Lightfoot 對「該撒家裏的人」的研究）早已指出：16章許多名字——暗伯利、士大古、亞遜其土、弗勒干、黑米、黑馬、非羅羅古——都是當時羅馬常見的奴隸或釋放奴（freedman）名字，在羅馬考古發現的墓誌銘（columbaria）中大量出現同類姓名。「亞利多布家裏的人」與「拿其數家裏的人」也引發真實而審慎的歷史推測：亞利多布可能是希律大王的孫子、亞基帕一世的兄弟，曾住在羅馬；拿其數則可能是革老丟皇帝的釋放奴秘書，主後54年尼祿即位後被迫自盡——若真是同一人，保羅只問候「屬拿其數的人」而不問候拿其數本人，恰恰吻合了他此時可能已經去世、其家眷（奴僕）轉歸皇室的歷史背景。這些身份指認在學界屬於「合理但無法百分之百證實」的推測，本書如實呈現為推測，不當作確證陳述。無論這些身份指認能否完全坐實，有一件事是肯定的：這份名單裏，猶太人（百基拉、安多尼古、猶尼亞、希羅天）與外邦人並列，奴隸背景的名字與有社會地位的贊助人（非比、該猶）並列，男性與女性並列——這正是保羅在加拉太書3:28所宣告的「不再分猶太人、希臘人，自主的、為奴的，或男或女……在基督耶穌裏都成為一了」的具體、有名有姓的實現。
 
 ---
 
@@ -129,42 +127,19 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 稱義的社會果效 (The Social Fruit of Justification)
+### 1. 稱義的社會果效：誰配得在教會中被尊重 (16:1-16)
 
-羅馬書前十五章講的是神如何稱一個不配的人為義；第16章讓我們看見這稱義活出來是甚麼樣子——一個原本按律法、階級、種族彼此隔絕的世界，如今因信基督而彼此相認、彼此服事、彼此以聖潔的親吻問安（16:16）。教義若不落實在具體姓名構成的群體裏，就還沒有走完保羅的邏輯。
+羅馬書前十五章講的是神如何稱一個不配的人為義；第16章讓我們看見這稱義活出來是甚麼樣子——一個原本按律法、階級、種族彼此隔絕的世界，如今因信基督而彼此相認、彼此服事、彼此以聖潔的親吻問安（16:16）。教義若不落實在具體姓名構成的群體裏，就還沒有走完保羅的邏輯。這份名單裏最令人驚訝的，不是誰被列在最前面，而是誰被列進來：奴隸背景的暗伯利、士大古，被保羅稱「我所親愛的」；辛勞服事的女性被公開表揚；猶尼亞（很可能是女性）被稱在使徒中有名望。保羅衡量一個人在教會中價值的標準，從來不是社會地位、性別、或出身，而是「在主裏」的忠心與勞苦。
 
-### 2. 誰配得在教會中被尊重？
+### 2. 分門結黨的警戒，與撒但終必被踐踏的應許 (16:17-20)
 
-這份名單裏最令人驚訝的，不是誰被列在最前面，而是誰被列進來：奴隸背景的暗伯利、士大古，被保羅稱「我所親愛的」；辛勞服事的女性被公開表揚；猶尼亞（很可能是女性）被稱在使徒中有名望。保羅衡量一個人在教會中價值的標準，從來不是社會地位、性別、或出身，而是「在主裏」的忠心與勞苦。
+16:17-19警告「那些離間你們、使你們跌倒、違背所學之道的人」，並指出他們的動機是「服侍自己的肚腹」而非基督，手段是「花言巧語」。保羅在此提醒羅馬教會：純正教義（「你們所學之道」）不是可有可無的裝飾，而是辨別假教師的準繩；服事若不是為著基督，遲早會服事自己的私慾。緊接著，16:20「那賜平安的神快要把撒但踐踏在你們腳下」，直接呼應創世記3:15神對蛇說的第一個福音應許——「女人的後裔要傷你的頭」。這不是偶然的措辭巧合：保羅提醒讀者，教會今天與分裂、假教師的爭戰，最終不是人的爭戰，而是創世記3章那場爭戰的延續，而結局早已在伊甸園的應許裏寫定。
 
-### 3. 分門結黨的真正根源
+### 3. 德丟的代筆、榮耀頌的濃縮，與一段誠實的抄本歷史 (16:22, 25-27)
 
-16:17-19警告「那些離間你們、使你們跌倒、違背所學之道的人」，並指出他們的動機是「服侍自己的肚腹」而非基督，手段是「花言巧語」。保羅在此提醒羅馬教會：純正教義（「你們所學之道」）不是可有可無的裝飾，而是辨別假教師的準繩；服事若不是為著基督，遲早會服事自己的私慾。
-
-### 4. 創世記3:15的回聲：撒但終必被踐踏
-
-16:20「那賜平安的神快要把撒但踐踏在你們腳下」，直接呼應創世記3:15神對蛇說的第一個福音應許——「女人的後裔要傷你的頭」。這不是偶然的措辭巧合：保羅在寫完一整卷關於神的義如何勝過罪的信之後，用這句話提醒讀者，教會今天與分裂、假教師的爭戰，最終不是人的爭戰，而是創世記3章那場爭戰的延續，而結局早已在伊甸園的應許裏寫定。
-
-### 5. 德丟與代筆——真實的古代書寫實踐
-
-16:22「我這代筆寫信的德丟」是一個真實、有歷史根據的細節：保羅的書信絕大多數並非親手所寫，而是口述給一位代筆者（amanuensis）記錄，自己只在信末親筆簽署或加上一段（參加拉太書6:11「請看我親手寫給你們的字是何等大」，暗示此前經文出自他人手筆）。德丟在此突然以第一人稱插入問安，是古代書信寫作習慣留下的真實痕跡，也讓我們看見：這封改變教會歷史的信，是由一位我們幾乎一無所知、卻忠心執筆的弟兄親手寫成的。
-
-### 6. 榮耀頌——全信的濃縮
-
-16:25-27不只是禮貌的結尾，而是把全信的論證壓縮成一句話：
-- 「我所傳的福音」——1-11章的整個福音內容
-- 「歷代以來隱藏的奧祕」——與11:25以色列奧祕同詞，暗示這奧祕不只是猶太人得救，更是整個「因信稱義、外邦人也在其內」的救恩計劃，長久隱藏在神心中
-- 「藉眾先知的書指示萬民」——舊約先知的應許如今在福音裏應驗（參1:2「這福音是神從前藉眾先知在聖經上所應許的」）
-- 「使他們因信而順服」——與1:5一字不差重複，首尾呼應
-- 「榮耀，藉着耶穌基督，歸給獨一全智的神」——一切的終點
-
-幾乎羅馬書每一個主要主題，都被濃縮進這一個句子。
-
-### 7. 一個誠實的抄本歷史附記
-
-現存最早的一批羅馬書抄本中，這段榮耀頌（16:25-27）的位置並不完全一致：多數抄本置於16章末尾（即現行編排），但也有部分早期抄本將其置於14章之後，甚至15章之後，還有極少數抄本兩處都保留、或完全省略。這是真實、可查證的經文校勘（textual criticism）現象，多數學者相信這反映了羅馬書早期流傳過程中，可能存在不同長度的抄本版本（例如省去14-16章的簡短版本用於其他教會傳閱），而非榮耀頌本身的真偽受到懷疑——歷代教會普遍接納這段經文為正典的一部分。誠實地認識這段歷史，能幫助我們更深體會：聖經文本是在真實的歷史過程中被抄寫、傳遞、保存下來的，而神的話語經得起這樣的檢視。
+16:22「我這代筆寫信的德丟」是一個真實、有歷史根據的細節：保羅的書信絕大多數並非親手所寫，而是口述給一位代筆者（amanuensis）記錄，自己只在信末親筆簽署或加上一段（參加拉太書6:11「請看我親手寫給你們的字是何等大」，暗示此前經文出自他人手筆）。德丟在此突然以第一人稱插入問安，是古代書信寫作習慣留下的真實痕跡，也讓我們看見：這封改變教會歷史的信，是由一位我們幾乎一無所知、卻忠心執筆的弟兄親手寫成的。16:25-27不只是禮貌的結尾，而是把全信的論證壓縮成一句話：「我所傳的福音」——1-11章的整個福音內容；「歷代以來隱藏的奧祕」——與11:25以色列奧祕同詞，暗示這奧祕不只是猶太人得救，更是整個「因信稱義、外邦人也在其內」的救恩計劃，長久隱藏在神心中；「藉眾先知的書指示萬民」——舊約先知的應許如今在福音裏應驗（參1:2「這福音是神從前藉眾先知在聖經上所應許的」）；「使他們因信而順服」——與1:5一字不差重複，首尾呼應；「榮耀，藉着耶穌基督，歸給獨一全智的神」——一切的終點。幾乎羅馬書每一個主要主題，都被濃縮進這一個句子。現存最早的一批羅馬書抄本中，這段榮耀頌（16:25-27）的位置並不完全一致：多數抄本置於16章末尾（即現行編排），但也有部分早期抄本將其置於14章之後，甚至15章之後，還有極少數抄本兩處都保留、或完全省略。這是真實、可查證的經文校勘（textual criticism）現象，多數學者相信這反映了羅馬書早期流傳過程中，可能存在不同長度的抄本版本（例如省去14-16章的簡短版本用於其他教會傳閱），而非榮耀頌本身的真偽受到懷疑——歷代教會普遍接納這段經文為正典的一部分。誠實地認識這段歷史，能幫助我們更深體會：聖經文本是在真實的歷史過程中被抄寫、傳遞、保存下來的，而神的話語經得起這樣的檢視。
 
 ---
 
@@ -181,7 +156,7 @@ publisher: 三書精讀出版系統
 
 > 出處：對屈梭多模羅馬書講道相關立場的一般性、綜合性轉述（其講道全集傳統上收於《羅馬書講道集》），非逐字引句核對；此為新約學界討論猶尼亞問題時經常引述的一項教父時期見證，具體篇章文字讀者可另行查核原文。
 
-### 改教家時期
+### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
@@ -189,9 +164,15 @@ publisher: 三書精讀出版系統
 
 > 出處：對加爾文《羅馬書註釋》相關立場的一般性、綜合性轉述，非逐字引句。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，羅馬書16章常被讀者輕輕翻過，視為「不過是一份問候名單」，但若細看，會發現這是全信真理最生動的實踐版本：前面十五章論證「神如何使不同的人（猶太人、外邦人）在基督裏成為一」，第16章則是這個真理長出的具體果子——一份由奴隸、婦女、猶太人、外邦人、有地位的贊助人共同組成的名單，彼此以「我所親愛的」相稱。摩根強調，保羅在此展現的，不是空泛的教牧客套，而是使徒深刻記得每一位同工具體的勞苦與付出——在保羅筆下，沒有一個人只是「某某人的同工」，他記得的是一個個活生生的名字。
+
+摩根也特別看重16:25-27榮耀頌作為全信的「拱心石」：整卷書信從「神的義」的宣告開始，中間論證因信稱義、與基督同死同活、聖靈中的新生命、以色列的奧祕、基督徒的倫理生活，最終全部收攏於這一句對「獨一全智的神」的頌讚——在摩根看來，一封論證最嚴謹的教義書信，最合宜的結尾不是總結重點，而是敬拜。
+
+> 出處：對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性、綜合性轉述，非逐字引句核對。
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，保羅用如此長的篇幅一一點名問安，正說明使徒事工從來不是「一人英雄式」的孤軍奮戰，而是建立在無數默默勞苦、甚至許多今日已無從考證身份的信徒身上；16:25-27的榮耀頌則是「整卷羅馬書神學論證的濃縮結晶」，把因信稱義的福音、長久隱藏如今顯明的奧祕、萬民因信而順服的異象，全部收攏於一句對神榮耀的頌讚。
 
@@ -199,22 +180,18 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 115:1
 
-> **榮耀不要歸與我們，耶和華啊，不要歸與我們**；
+> **榮耀不要歸與我們，耶和華啊，不要歸與我們**； \
 > 要因你的慈愛和信實歸在你的名下！
 
-> **Not to us, O LORD, not to us**,
-> but to your name give glory,
-> for the sake of your steadfast love and your faithfulness!
+> **Not to us, O LORD, not to us**, \
+> But to Your name give glory \
+> Because of Your lovingkindness, because of Your truth.
 
 這正是16:27「願榮耀……歸給獨一全智的神」的舊約回聲：保羅在信末沒有為自己或任何一位被提名的同工求榮耀，而是把一切歸回詩篇最古老的禱告——榮耀不屬於我們，只屬於祂。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### To God Be the Glory
 
@@ -222,9 +199,9 @@ publisher: 三書精讀出版系統
 
 **另一配詩：Praise God From Whom All Blessings Flow**（Ken's Doxology，Thomas Ken, 1674）
 
-> Praise God, from whom all blessings flow;
-> Praise Him, all creatures here below;
-> Praise Him above, ye heavenly host;
+> Praise God, from whom all blessings flow; \
+> Praise Him, all creatures here below; \
+> Praise Him above, ye heavenly host; \
 > Praise Father, Son, and Holy Ghost. Amen.
 
 這首三百多年來被無數教會用作崇拜結束頌的短詩，與羅馬書16:25-27一樣，把一切服事、一切問安、一切教義的爭辯，最終都收束在同一個動作：將榮耀歸給神。
@@ -233,54 +210,25 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-摩根指出，羅馬書16章常被讀者輕輕翻過，視為「不過是一份問候名單」，但若細看，會發現這是全信神學最生動的實踐版本：前面十五章論證「神如何使不同的人（猶太人、外邦人）在基督裏成為一」，第16章則是這個真理長出的具體果子——一份由奴隸、婦女、猶太人、外邦人、有地位的贊助人共同組成的名單，彼此以「我所親愛的」相稱。摩根強調，保羅在此展現的，不是空泛的教牧客套，而是使徒深刻記得每一位同工具體的勞苦與付出——在保羅筆下，沒有一個人只是「某某人的同工」，他記得的是一個個活生生的名字。
-
-摩根也特別看重16:25-27榮耀頌作為全信的「拱心石」：整卷書信從「神的義」的宣告開始，中間論證因信稱義、與基督同死同活、聖靈中的新生命、以色列的奧祕、基督徒的倫理生活，最終全部收攏於這一句對「獨一全智的神」的頌讚——在摩根看來，一封論證最嚴謹的教義書信，最合宜的結尾不是總結重點，而是敬拜。
-
-> 出處：對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性、綜合性轉述，非逐字引句核對。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-老弟兄常提醒：「不是我們去建立教會，是你手上有沒有釘痕的手。」（按：這是口語的濃縮說法——建立教會的不是我們，而是那位手上有釘痕的主；我們的服事，端看倚靠的是不是祂。）——這句話直接切中羅馬書16章的核心：這份名單裏沒有一個人的名字被高舉過基督，保羅自己也不例外；每一位被題名的人，價值都不在於他們是誰、屬於誰，而在於他們「在主裏」的忠心。
-
-老弟兄也常引哥林多前書1:12-15提醒：「很多人說：我是某某名牧師施洗的。保羅怎麼看這件事？」——這句提問，正好呼應羅馬書16:17-19保羅對「離間、使人跌倒」之人的警戒。教會的分裂，往往不是從教義的爭論開始，而是從「以人為中心」開始——把教會叫做「某某人的教會」，把服事的果效歸給某一位屬人的領袖，而不是歸給那位釘痕的手所代表的基督自己。
-
-老弟兄的查經方法，總是把讀者引向一個問題：保羅特別提到的這些名字，很多是女性、是奴隸、是外邦人——這對「誰在教會裏配得尊重」給你甚麼挑戰？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*To God Be the Glory*（榮耀歸於真神，如前「配詩」所引）
-
-> To God be the glory, great things He hath done;
-> So loved He the world that He gave us His Son.
-
-**詩篇**：詩篇 115:1
-
-> 榮耀不要歸與我們，耶和華啊，不要歸與我們；要因你的慈愛和信實歸在你的名下！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：一封論證最嚴謹的教義書信，最後不是用更多道理收尾，而是用一份跨越階級與種族的名單、和一句「願榮耀歸給神」的頌讚收尾——因為福音若不長成一個彼此相顧的群體，教義就還沒有走完它該走的路。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：從第一個福音應許，到全信最後一句「阿們」。羅馬書16:20說「那賜平安的神快要把撒但踐踏在你們腳下」，這句話直接回到聖經最早的一個福音宣告——創世記3:15，神對蛇說：「女人的後裔要傷你的頭。」保羅寫這封論證最嚴謹的教義書信，最後卻用伊甸園裏最古老的應許來鼓勵讀者：教會今天面對的分裂、假教師、試探，本質上仍是那場最早的爭戰的延續——而神已經應許了結局。
+**蛇必被踐踏線**：羅馬書16:20說「那賜平安的神快要把撒但踐踏在你們腳下」，這句話直接回到聖經最早的一個福音宣告——創世記3:15，神對蛇說：「女人的後裔要傷你的頭。」保羅寫這封論證最嚴謹的教義書信，最後卻用伊甸園裏最古老的應許來鼓勵讀者：教會今天面對的分裂、假教師、試探，本質上仍是那場最早的爭戰的延續——而神已經應許了結局。
 
-這條線也連著16:25-27的「奧祕」（*mystērion*）——與11:25以色列得救的奧祕同一個詞。整卷羅馬書講的，其實是一個從創世記3:15就開始、藏在神心裏許多世代，如今在基督裏向萬民顯明的奧祕：神要藉着女人的後裔，把猶太人和外邦人都收納進同一個因信而順服的群體裏。
+**奧祕收合線**：16:25-27的「奧祕」（*mystērion*）與11:25以色列得救的奧祕同一個詞。整卷羅馬書講的，其實是一個從創世記3:15就開始、藏在神心裏許多世代，如今在基督裏向萬民顯明的奧祕：神要藉着女人的後裔，把猶太人和外邦人都收納進同一個因信而順服的群體裏。
+
+**教會不分門結黨線**：老弟兄常引哥林多前書1:12-15提醒：「很多人說：我是某某名牧師施洗的。保羅怎麼看這件事？」——這句提問，正好呼應羅馬書16:17-19保羅對「離間、使人跌倒」之人的警戒。教會的分裂，往往不是從教義的爭論開始，而是從「以人為中心」開始——把教會叫做「某某人的教會」，把服事的果效歸給某一位屬人的領袖，而不是歸給那位釘痕的手所代表的基督自己。
 
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
-- 先問：「保羅寫了一整卷最嚴謹的神學書信，為甚麼最後一章用來寫一份人名單，而不是再多寫一段教義？」
+- 先問：「保羅寫了一整卷最嚴謹的教義書信，為甚麼最後一章用來寫一份人名單，而不是再多寫一段教義？」
 - 再問：「這份名單裏，猶太人、外邦人、奴隸、有地位的贊助人都在一起——這是巧合，還是保羅刻意要讓讀者看見因信稱義活出來的樣子？」
 - 追問：「保羅特別提到的這些名字，很多是女性、是奴隸、是外邦人——這對『誰在教會裏配得尊重』給你甚麼挑戰？」
 - 再問：「16:17警告『離間、使人跌倒』的人——你有沒有見過教會裏『我是某某名牧師施洗的』這種說法？問題出在哪裏？」
@@ -296,19 +244,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我心裏，教會的價值是繫在某一個人的名字上，還是繫在那隻有釘痕的手上？
 - **一個行動**：今天具體地向一位平時被忽略、卻忠心服事的弟兄姊妹表達感謝——像保羅一樣，叫出他的名字。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：一封論證最嚴謹的教義書信，最後不是用更多神學收尾，而是用一份跨越階級與種族的名單、和一句「願榮耀歸給神」的頌讚收尾——因為福音若不長成一個彼此相顧的群體，教義就還沒有走完它該走的路。
-
-**貫通全經**：創世記3:15「女人的後裔要傷你的頭」的應許，在羅馬書16:20「神快要把撒但踐踏在你們腳下」找到迴響——伊甸園最早的福音宣告，仍在教會今天的爭戰中應驗。
-
-**無法迴避的問題**：「教會若不是靠某一個人的名字站立，是靠誰？那隻手上有沒有釘痕？」
-
 > 「不是我們去建立教會，是你手上有沒有釘痕的手。」——建立教會的不是我們，是那位手上有釘痕的主。
 
-**你看見耶穌了嗎？**——走過羅馬書十六章，我們看見的耶穌是誰？祂是1章那使人得救的福音大能；是2章按公義審判各人的審判者；是3章神所設立、用祂的血作挽回祭、平息神忿怒的那一位；是5章那位「末後的亞當」，使因信之人得着與亞當所失去的相反的一切；是6-8章那位使人與祂同死同活、叫聖靈內住、叫人不再被定罪的復活的主；是11章那位「必有一位救主從錫安出來，要消除雅各家的一切罪惡」的拯救者；是13章那位信徒被呼召要「披戴」的基督；是15章那位「不求自己的喜悅」、成為捨己之愛的樣式的主；如今在16章的末了，祂是那位一切榮耀、藉着祂、直到永遠都要歸給獨一全智之神的中保與道路——羅馬書從頭到尾，只有一位主角，而祂的名字，配得末了那一句「阿們」。
+**你看見耶穌了嗎**：整章沒有一句直接的教訓，卻句句都在說耶穌基督——「在基督裏」（*en Christō*）這短語在問安名單裏反覆出現十餘次，每一次都在宣告：這些猶太人與外邦人、奴隸與贊助人、男人與女人之所以彼此相連，唯一的原因是祂。全信以「神的義」開始，如今在16:27以「獨一全智的神，藉着耶穌基督，得着榮耀」收尾——中間的橋樑，從頭到尾只有一位：耶穌基督。你看見祂了嗎？
 
 ---
 
@@ -316,13 +254,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **我如何衡量一個人在教會裏的價值？**：是按地位、恩賜的顯眼程度、還是按保羅在16章那樣，按「在主裏」的忠心與勞苦？
+1. **非比被稱為堅革哩教會的「執事」（*diakonos*）**——這對今日教會如何理解女性在服事中的角色，帶來甚麼樣真實而值得深思的問題？請誠實面對這個至今仍在討論中的問題，不急於下結論。
 
-2. **我有沒有活出福音的社會果效？**：我與教會裏和我背景、地位、種族不同的肢體，是否真正彼此相認、彼此服事，如同羅馬教會那份名單所顯明的？
+2. **猶尼亞「在使徒中是有名望的」這句話，歷代解經有不同讀法**——這提醒我們在面對聖經中不易一次讀清楚的經文時，應該抱持怎樣的態度？
 
-3. **我如何面對教會裏的分裂與假教導？**：16:17-19提醒我們要「留意躲避」離間、使人跌倒的人——我今天是否曾被花言巧語打動，卻沒有回到「所學之道」去查驗？
-
-4. **我是否把教會的根基放錯了地方？**：教會的合一，是繫於某位屬人的領袖，還是繫於那位釘痕的手？
+3. **16:25-27的榮耀頌把「福音」「奧祕」「先知的書」「因信而順服」「神的榮耀」全部串連在一起**——請試着用自己的話，把整卷羅馬書的信息濃縮成一句禱告般的頌讚。
 
 ### 禱告回應
 
@@ -333,18 +269,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅在16章點名超過三十位真實姓名，這對「使徒事工從來不是一人之功」這件事，給你甚麼提醒？
-
-2. 非比被稱為堅革哩教會的「執事」（*diakonos*）——這對今日教會如何理解女性在服事中的角色，帶來甚麼樣真實而值得深思的問題？請誠實面對這個至今仍在討論中的問題，不急於下結論。
-
-3. 猶尼亞「在使徒中是有名望的」這句話，歷代解經有不同讀法——這提醒我們在面對聖經中不易一次讀清楚的經文時，應該抱持怎樣的態度？
-
-4. 16:17-20把「教會的分裂」和「撒但終必被踐踏」放在一起講——這對你理解教會裏的紛爭，有甚麼屬靈層面的提醒？
-
-5. 16:25-27的榮耀頌把「福音」「奧祕」「先知的書」「因信而順服」「神的榮耀」全部串連在一起——請試着用自己的話，把整卷羅馬書的信息濃縮成一句禱告般的頌讚。
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 撒但終必被踐踏 | 16:20 | 創3:15 |
+| 因信而順服：全信的文學收合 | 16:26 | 羅1:5 |
+| 隱藏的奧祕，如今顯明 | 16:25 | 羅11:25、1:2 |
+| 教會不分門結黨 | 16:17-19 | 林前1:12-15 |
+| 跨越階級與種族的合一 | 16:1-16 | 加3:28 |
+| 兩個榮耀頌，一個結構 | 16:25-27 | 羅11:33-36 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論、John MacArthur (gty.org)、G. Campbell Morgan；經文核對來源：CUV 經 cnbible.com（現代標點和合本）逐節核實，ESV 經 biblegateway.com 逐節核實*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*

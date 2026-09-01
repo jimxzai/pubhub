@@ -140,7 +140,7 @@ date: 2025年12月
 
 ---
 
-## 神學要點
+## 領受要點 (Truths Received)
 
 ### 因信稱義 (Justification by Faith)
 

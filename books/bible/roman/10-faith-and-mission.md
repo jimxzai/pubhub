@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 10:1-21
 
----
+**經文核對**：[ai-eden.com/bible/romans/10](https://www.ai-eden.com/bible/romans/10?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：終結／目標 Telos** \
+> **全書坐標**：羅馬書五卷（定罪／稱義／成聖／揀選／活祭）行進到「揀選」一卷（9-11章）的中段——9章講神主權的揀選，10章補上人責任的一面：因信稱義的福音，必須「傳」到人「口裏認、心裏信」；11章再收束為神向猶太人與外邦人「眾人」施憐憫的頌讚。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章的中心不是方法，是一個人。「律法的總結就是基督」（10:4）——摩西五經所指向的終點站到了。「你若口裏認耶穌為主，心裏信神叫他從死裏復活，就必得救」（10:9）——救恩不是攀升到天上或下到陰間去尋找的遠方奧祕，「這道離你不遠」，因為那位「道」已經親自降下、又從死裏復活，如今近在人的口中、心裏。「凡求告主名的，就必得救」（10:13），這裏的「主」，就是被釘十字架、又復活的耶穌——約珥書中呼求「耶和華」之名的應許，如今向著呼求「耶穌」之名的人敞開。整章末了，先知以賽亞的兩句話疊在一起：「沒有尋找我的，我叫他們遇見」，以及「我整天伸手招呼那悖逆頂嘴的百姓」——那雙終日伸出的手，正是後來被釘在木頭上的手。
 
@@ -20,31 +24,31 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Just As I Am**
+> **Just As I Am** \
 > *Charlotte Elliott, 1835*
 >
-> Just as I am, without one plea,
-> But that Thy blood was shed for me,
-> And that Thou bidd'st me come to Thee,
+> Just as I am, without one plea, \
+> But that Thy blood was shed for me, \
+> And that Thou bidd'st me come to Thee, \
 > O Lamb of God, I come, I come.
 >
-> Just as I am, and waiting not
-> To rid my soul of one dark blot,
-> To Thee whose blood can cleanse each spot,
+> Just as I am, and waiting not \
+> To rid my soul of one dark blot, \
+> To Thee whose blood can cleanse each spot, \
 > O Lamb of God, I come, I come.
 >
-> 我來就你，並無別詞，
-> 只憑救主流血捨命；
-> 並蒙呼召來到主前，
+> 我來就你，並無別詞， \
+> 只憑救主流血捨命； \
+> 並蒙呼召來到主前， \
 > 神的羔羊，我來，我來。
 
 ---
 
 ## 經文 (Scripture)
 
-> **版本說明**：中文經文核對來源為 ai-eden.com 與 cnbible.com（現代標點和合本 CUVMP），寫作當時未能穩定取得逐節可核對的「和合本修訂版 (RCUV)」文本，故如實改用已核實之和合本 (CUV/CUVMP)，與本書其他各章標示之 RCUV 版本不完全一致，特此誠實註明，供讀者查核。English 採用 English Standard Version (ESV)，經 biblegateway.com 逐節核對。
-
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 ai-eden.com 與 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > ^1^弟兄們，我心裏所願的，向神所求的，是要以色列人得救。^2^我可以證明他們向神有熱心，但不是按著真知識；^3^因為不知道神的義，想要立自己的義，就不服神的義了。^4^律法的總結就是基督，使凡信他的都得著義。
 
@@ -56,17 +60,17 @@ publisher: 三書精讀出版系統
 
 > ^18^但我說，人沒有聽見麼？誠然聽見了。他們的聲音傳遍天下；他們的言語傳到地極。^19^我再說，以色列人不知道麼？先有摩西說：我要用那不成子民的，惹動你們的憤恨；我要用那無知的民觸動你們的怒氣。^20^又有以賽亞放膽說：沒有尋找我的，我叫他們遇見；沒有訪問我的，我向他們顯現。^21^至於以色列人，他說：我整天伸手招呼那悖逆頂嘴的百姓。
 
-### English — ESV
+### English — NASB
 
-> ¹Brothers, my heart's desire and prayer to God for them is that they may be saved. ²For I bear them witness that they have a zeal for God, but not according to knowledge. ³For, being ignorant of the righteousness of God, and seeking to establish their own, they did not submit to God's righteousness. ⁴For Christ is the end of the law for righteousness to everyone who believes.
+> ^1^Brethren, my heart's desire and my prayer to God for them is for *their* salvation. ^2^For I testify about them that they have a zeal for God, but not in accordance with knowledge. ^3^For not knowing about God's righteousness and seeking to establish their own, they did not subject themselves to the righteousness of God. ^4^For Christ is the end of the law for righteousness to everyone who believes.
 
-> ⁵For Moses writes about the righteousness that is based on the law, that the person who does the commandments shall live by them. ⁶But the righteousness based on faith says, "Do not say in your heart, 'Who will ascend into heaven?' (that is, to bring Christ down) ⁷or 'Who will descend into the abyss?' (that is, to bring Christ up from the dead)." ⁸But what does it say? "The word is near you, in your mouth and in your heart" (that is, the word of faith that we proclaim);
+> ^5^For Moses writes that the man who practices the righteousness which is based on law shall live by that righteousness. ^6^But the righteousness based on faith speaks as follows: "DO NOT SAY IN YOUR HEART, 'WHO WILL ASCEND INTO HEAVEN?' (that is, to bring Christ down), ^7^or 'WHO WILL DESCEND INTO THE ABYSS?' (that is, to bring Christ up from the dead)." ^8^But what does it say? "THE WORD IS NEAR YOU, IN YOUR MOUTH AND IN YOUR HEART"—that is, the word of faith which we are preaching,
 
-> **⁹because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. ¹⁰For with the heart one believes and is justified, and with the mouth one confesses and is saved.** ¹¹For the Scripture says, "Everyone who believes in him will not be put to shame." ¹²For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. **¹³For "everyone who calls on the name of the Lord will be saved."**
+> **^9^that if you confess with your mouth Jesus *as* Lord, and believe in your heart that God raised Him from the dead, you will be saved; ^10^for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.** ^11^For the Scripture says, "WHOEVER BELIEVES IN HIM WILL NOT BE DISAPPOINTED." ^12^For there is no distinction between Jew and Greek; for the same *Lord* is Lord of all, abounding in riches for all who call on Him; **^13^for "WHOEVER WILL CALL ON THE NAME OF THE LORD WILL BE SAVED."**
 
-> **¹⁴How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? ¹⁵And how are they to preach unless they are sent? As it is written, "How beautiful are the feet of those who preach the good news!"** ¹⁶But they have not all obeyed the gospel. For Isaiah says, "Lord, who has believed what he has heard from us?" **¹⁷So faith comes from hearing, and hearing through the word of Christ.**
+> **^14^How then will they call on Him in whom they have not believed? How will they believe in Him whom they have not heard? And how will they hear without a preacher? ^15^How will they preach unless they are sent? Just as it is written, "HOW BEAUTIFUL ARE THE FEET OF THOSE WHO BRING GOOD NEWS OF GOOD THINGS!"** ^16^However, they did not all heed the good news; for Isaiah says, "LORD, WHO HAS BELIEVED OUR REPORT?" **^17^So faith *comes* from hearing, and hearing by the word of Christ.**
 
-> ¹⁸But I ask, have they not heard? Indeed they have, for "Their voice has gone out to all the earth, and their words to the ends of the world." ¹⁹But I ask, did Israel not understand? First Moses says, "I will make you jealous of those who are not a nation; with a foolish nation I will make you angry." ²⁰Then Isaiah is so bold as to say, "I have been found by those who did not seek me; I have shown myself to those who did not ask for me." ²¹But of Israel he says, "All day long I have held out my hands to a disobedient and contrary people."
+> ^18^But I say, surely they have never heard, have they? Indeed they have; "THEIR VOICE HAS GONE OUT INTO ALL THE EARTH, AND THEIR WORDS TO THE ENDS OF THE WORLD." ^19^But I say, surely Israel did not know, did they? First Moses says, "I WILL MAKE YOU JEALOUS BY THAT WHICH IS NOT A NATION, BY A NATION WITHOUT UNDERSTANDING WILL I ANGER YOU." ^20^And Isaiah is very bold and says, "I WAS FOUND BY THOSE WHO DID NOT SEEK ME, I BECAME MANIFEST TO THOSE WHO DID NOT ASK FOR ME." ^21^But as for Israel He says, "ALL THE DAY LONG I HAVE STRETCHED OUT MY HANDS TO A DISOBEDIENT AND OBSTINATE PEOPLE."
 
 ---
 
@@ -78,7 +82,7 @@ publisher: 三書精讀出版系統
 
 ### 保羅的心：為誰禱告
 
-10:1「我心裏所願的，向神所求的，是要以色列人得救」——這句話緊接在9:1-3「我大有憂愁，心裏時常傷痛……為我弟兄、我骨肉之親，就是自己被咒詛，與基督分離，我也願意」之後。保羅不是站在遠處分析以色列人的問題，他是含著眼淚寫這一章。神學的精確與牧者的心腸，在保羅身上從不分開。
+10:1「我心裏所願的，向神所求的，是要以色列人得救」——這句話緊接在9:1-3「我大有憂愁，心裏時常傷痛……為我弟兄、我骨肉之親，就是自己被咒詛，與基督分離，我也願意」之後。保羅不是站在遠處分析以色列人的問題，他是含著眼淚寫這一章。真理的精確與牧者的心腸，在保羅身上從不分開。
 
 ### 「律法的義」與「信心的義」的舊約根據
 
@@ -103,7 +107,7 @@ publisher: 三書精讀出版系統
 1. **「終結」（termination）**：律法作為「靠遵行稱義」這條路，到基督就終止了——不是說律法本身作廢，而是「藉律法稱義」這條路走到了盡頭，因為基督親自成就了律法要求的義。
 2. **「目標／成全」（goal / fulfilment）**：律法從一開始的方向、目的地就是基督——律法所有的預表、獻祭、誡命，都指向那將要來的那一位；基督不是律法的終止，而是律法一直想抵達的地方。
 
-當代不少釋經者（例如 Douglas Moo 在其《羅馬書》註釋中的討論）主張這兩個意思其實**同時成立**，並非非此即彼——保羅刻意選用這個雙義詞，正是因為「基督既是律法要人靠行為稱義這條路的終結，也是律法一切預表所指向、要成全的目標」。這不是迴避難題的和稀泥，而是承認保羅的語言本身容許、甚至可能刻意運用了這種雙重指涉。讀者若查考不同英文譯本，會看到 KJV/ESV 多譯作 "end"（保留雙義的模糊性），而 NIV 則譯作 "culmination"（明顯偏向「成全」一義）——這差異本身就是這場解經爭論的縮影。
+當代不少釋經者（例如 Douglas Moo 在其《羅馬書》註釋中的討論）主張這兩個意思其實**同時成立**，並非非此即彼——保羅刻意選用這個雙義詞，正是因為「基督既是律法要人靠行為稱義這條路的終結，也是律法一切預表所指向、要成全的目標」。這不是迴避難題的和稀泥，而是承認保羅的語言本身容許、甚至可能刻意運用了這種雙重指涉。讀者若查考不同英文譯本，會看到 KJV/ESV 多譯作 "end"（保留雙義的模糊性）——本書英文所據之 NASB 1995 在10:4同樣譯作 "end"，保留同樣的雙義空間——而 NIV 則譯作 "culmination"（明顯偏向「成全」一義）——這差異本身就是這場解經爭論的縮影。
 
 ### *homologeō*（10:9-10）——不是私下同意，是公開宣告
 
@@ -115,11 +119,11 @@ publisher: 三書精讀出版系統
 
 ### *akoē*（10:17）——信心從何而來
 
-「信道是從聽道來的」，原文 *hē pistis ex akoēs*，*akoē* 既可指「聽的動作」，也可指「所聽見的信息、報告」——這正是英文 acoustic（聲學）一詞的字根。保羅在這裏講的不是一種神秘的、內在自生的信心，而是一個非常「平凡」的因果鏈：信心不是人自己憑空生出來的感覺，是因為聽見了一個具體的信息（基督的話）才生出來的。這節經文因此成了教會歷史上「講道」與「宣教」神學的根基之一：沒有宣講，就沒有可聽見的信息；沒有可聽見的信息，就沒有信心的產生。
+「信道是從聽道來的」，原文 *hē pistis ex akoēs*，*akoē* 既可指「聽的動作」，也可指「所聽見的信息、報告」——這正是英文 acoustic（聲學）一詞的字根。保羅在這裏講的不是一種神秘的、內在自生的信心，而是一個非常「平凡」的因果鏈：信心不是人自己憑空生出來的感覺，是因為聽見了一個具體的信息（基督的話）才生出來的。這節經文因此成了教會歷史上「講道」與「宣教」的根基之一：沒有宣講，就沒有可聽見的信息；沒有可聽見的信息，就沒有信心的產生。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 熱心不等於認識（10:1-3）
 
@@ -131,15 +135,13 @@ publisher: 三書精讀出版系統
 
 ### 3. 「沒有分別」——福音的普世性（10:11-13）
 
-「猶太人和希利尼人並沒有分別」，這句話直接呼應3:22-23「並沒有分別，因為世人都犯了罪」——第3章講的是「沒有分別地都需要」，第10章講的是「沒有分別地都可以得」。約珥書2:32原本說「凡求告耶和華名的，就必得救」，保羅在此毫不猶豫地將這應許中的「耶和華」對應到「主耶穌」，並且宣告這應許現在向著「凡」（*pas*，一切、任何人）求告主名的人敞開——這是舊約盟約應許在基督裏向萬民開放的關鍵一步，為第11章「外邦人得接在橄欖樹上」預備了神學基礎。
+「猶太人和希利尼人並沒有分別」，這句話直接呼應3:22-23「並沒有分別，因為世人都犯了罪」——第3章講的是「沒有分別地都需要」，第10章講的是「沒有分別地都可以得」。約珥書2:32原本說「凡求告耶和華名的，就必得救」，保羅在此毫不猶豫地將這應許中的「耶和華」對應到「主耶穌」，並且宣告這應許現在向著「凡」（*pas*，一切、任何人）求告主名的人敞開——這是舊約盟約應許在基督裏向萬民開放的關鍵一步，為第11章「外邦人得接在橄欖樹上」預備了基礎。
 
-### 4. 宣教的邏輯鏈（10:14-15）
+### 4. 宣教的邏輯鏈：神未曾失信，是人不肯聽從（10:14-21）
 
-保羅在這裏不是講抽象神學，而是用一連串反問句，倒推出宣教的必然次序：**得救** ← 求告 ← **相信** ← 聽見 ← **傳講** ← 差遣。這條鏈子若少了任何一環，前面的都不會發生——沒有差遣，就沒有傳講；沒有傳講，就沒有可聽的信息；沒有可聽的信息，就不可能有信心；沒有信心，就不會有求告；沒有求告，就沒有得救。以賽亞書52:7「報佳音、傳平安、報好信、傳救恩的，對錫安說：你的神作王了」——那雙傳好消息的腳「何等佳美」，不是因為腳本身美，而是因為它所帶來的信息美。
+保羅在這裏不是講抽象的道理，而是用一連串反問句，倒推出宣教的必然次序：**得救** ← 求告 ← **相信** ← 聽見 ← **傳講** ← 差遣。這條鏈子若少了任何一環，前面的都不會發生——沒有差遣，就沒有傳講；沒有傳講，就沒有可聽的信息；沒有可聽的信息，就不可能有信心；沒有信心，就不會有求告；沒有求告，就沒有得救。以賽亞書52:7「報佳音、傳平安、報好信、傳救恩的，對錫安說：你的神作王了」——那雙傳好消息的腳「何等佳美」，不是因為腳本身美，而是因為它所帶來的信息美。
 
-### 5. 神未曾失信，是人不肯聽從（10:16-21）
-
-本章結尾不是絕望的控訴，而是精確的分辨：問題不在於「福音沒有傳到」（18節：他們的聲音已經傳遍天下，引自詩19:4），也不在於「以色列人不明白」（19節：摩西早已用「非民」惹動他們的憤恨），而在於「他們不肯聽從」（16、21節）。20-21節把兩句以賽亞的話並排放：「沒有尋找我的，我叫他們遇見」（外邦人蒙恩的預言）與「我整天伸手招呼那悖逆頂嘴的百姓」（以色列人硬心的寫照）。這一組對比為第11章鋪好了路：以色列今天的悖逆，是不是意味著神已經棄絕他們？保羅在下一章要回答：斷乎不是。
+本章結尾（10:16-21）不是絕望的控訴，而是精確的分辨：問題不在於「福音沒有傳到」（18節：他們的聲音已經傳遍天下，引自詩19:4），也不在於「以色列人不明白」（19節：摩西早已用「非民」惹動他們的憤恨），而在於「他們不肯聽從」（16、21節）。20-21節把兩句以賽亞的話並排放：「沒有尋找我的，我叫他們遇見」（外邦人蒙恩的預言）與「我整天伸手招呼那悖逆頂嘴的百姓」（以色列人硬心的寫照）。這一組對比為第11章鋪好了路：以色列今天的悖逆，是不是意味著神已經棄絕他們？保羅在下一章要回答：斷乎不是。
 
 ---
 
@@ -148,7 +150,7 @@ publisher: 三書精讀出版系統
 > **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
 > 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
 
-**誠實說明**：以下引述除加爾文《羅馬書註釋》確有可查考之原著文本外，其餘均屬對該作者一貫解經立場、廣為人知之神學重點的一般性、綜合性歸納轉述，並非逐字逐句可查證的原文引句，特此如實標明，不杜撰具體篇章頁碼。
+**誠實說明**：以下引述除加爾文《羅馬書註釋》確有可查考之原著文本外，其餘均屬對該作者一貫解經立場、廣為人知之解經重點的一般性、綜合性歸納轉述，並非逐字逐句可查證的原文引句，特此如實標明，不杜撰具體篇章頁碼。
 
 ### 教父時期
 
@@ -164,65 +166,9 @@ publisher: 三書精讀出版系統
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德一生的神學轉折與羅馬書密不可分，他多次強調羅馬書10:9-10這類經文將「稱義」從煩瑣的教會禮儀與功德制度中釋放出來，回到最單純的「信」與「認」——這也是宗教改革「唯獨信心」（*sola fide*）神學的重要經文根據之一。
+路德一生的轉折與羅馬書密不可分，他多次強調羅馬書10:9-10這類經文將「稱義」從煩瑣的教會禮儀與功德制度中釋放出來，回到最單純的「信」與「認」——這也是宗教改革「唯獨信心」（*sola fide*）的重要經文根據之一。
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-麥克阿瑟在其羅馬書系列講道與註釋中一貫指出，10:9-10是全本聖經中最直接、最常被用來領人信主的經文之一——「福音的濃縮版」；他也特別強調10:14-15的宣教邏輯鏈，認為這是保羅留給教會最清楚的宣教神學，任何教會的宣教策略都繞不開這條「差遣—傳講—聽見—相信—求告—得救」的次序。
-
-> 出處：以上教父與改教家段落屬對其一貫解經立場之一般性歸納轉述，非逐字引句；加爾文《羅馬書註釋》段落依其論羅馬書10章之一貫主張整理；MacArthur 段落屬對其講道系列一貫立場之綜合轉述，未附具體講題與日期，讀者若需查證應另行核對其原著。
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 19:1-4
-
-保羅在10:18正是引用這段詩篇來說明：福音的聲音已經「傳遍天下」，如同諸天不用言語卻已將神的榮耀傳到地極。
-
-> **諸天述說神的榮耀**；穹蒼傳揚他的手段。
-> 這日到那日發出言語；這夜到那夜傳出知識。
-> 無言無語，也無聲音可聽。
-> **他的量帶通遍天下，他的言語傳到地極。**
-
-> **The heavens declare the glory of God**,
-> and the sky above proclaims his handiwork.
-> Day to day pours out speech,
-> and night to night reveals knowledge.
-> There is no speech, nor are there words,
-> whose voice is not heard.
-> **Their voice has gone out to all the earth,
-> and their words to the ends of the world.**
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Just As I Am
-
-這首詩歌由 Charlotte Elliott 於1835年創作，她長年臥病，據其家族與教會傳統流傳，這首詩正是出於她個人在軟弱無力中單單仰賴基督恩典的心境所寫成——這首詩歌後來成為近代佈道會（如葛培理佈道大會）最常用的呼召詩歌之一，每一次呼召，都是把10:9-10「口裏承認、心裏相信」具體化成一個當下的行動：不必先把自己收拾乾淨，「就照著現在的我」（just as I am）來到主前。
-
-**歌詞與經文對照**：
-- "Just as I am, without one plea" — 呼應10:3「想要立自己的義」的相反：不是先立功德才能來，是現在就可以來
-- "O Lamb of God, I come, I come" — 呼應10:9-10心與口的雙重回應：來，是一個既在心裏、也用行動宣告出來的動作
-- 整首詩歌重複的呼召結構，正對應10:13「凡求告主名的，就必得救」的「凡」字——不設門檻，只等你來
-
-### 另一配詩：How Firm a Foundation
-
-> How firm a foundation, ye saints of the Lord,
-> Is laid for your faith in His excellent Word!
-> What more can He say than to you He hath said,
-> To you who for refuge to Jesus have fled?
-
-這首詩歌（1787年 Rippon's Selection 收錄）呼應10:8「這道離你不遠，正在你口裏，在你心裏」——那立定的根基，就是神已經賜下、如今近在人心口之間的話語。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **熱心與知識的分離，是宗教最危險的狀態**：摩根對羅馬書9-11章的一貫論述指出，保羅描述以色列人「有熱心，但不是按著真知識」，正點出宗教生活中最隱蔽、也最危險的一種光景——不是冷淡，而是方向錯誤的火熱。一個人可以極其認真地遵守宗教規條、極其投入地服事，卻同時完全誤解了神的義究竟是甚麼，因為他把力氣都花在「立自己的義」，而不是「服在神的義」之下。
 
@@ -234,53 +180,78 @@ publisher: 三書精讀出版系統
 
 > 出處：對 G. Campbell Morgan 羅馬書9-11章相關講章一貫解經立場的一般性歸納轉述，非逐字引句，未附具體篇章頁碼。
 
-### 老弟兄查經洞見 (The Elder's Insights)
+### 麥克阿瑟 (John MacArthur)
 
-**哪裏有信，哪裏就有聖靈的工作**：老弟兄常提醒，讀經最容易掉進的陷阱，是把「明白福音的知識」誤當作「已經相信福音」。羅馬書10:9-10正是檢驗這個陷阱最鋒利的一把刀——不是「你懂不懂三步禱告詞」，而是「你是用口信、用心稱義，還是只是頭腦知道福音的知識？」老弟兄一貫強調：字句叫人死，精義（聖靈）叫人活；同樣，知識若不化成心裏的信與口裏的認，也叫人死。
+麥克阿瑟在其羅馬書系列講道與註釋中一貫指出，10:9-10是全本聖經中最直接、最常被用來領人信主的經文之一——「福音的濃縮版」；他也特別強調10:14-15的宣教邏輯鏈，認為這是保羅留給教會最清楚的宣教教導，任何教會的宣教策略都繞不開這條「差遣—傳講—聽見—相信—求告—得救」的次序。
 
-**心與口的次序，不是偶然**：老弟兄查經時習慣逐字拆解經文結構，若照此方法逐字讀10:9-10，會發現保羅其實用了一個交錯的結構——第9節先講口（認），後講心（信）；第10節卻反過來，先講心（信而稱義），後講口（認而得救）。這個交錯本身在提醒讀者：口裏的認，若沒有心裏真實的信作根基，只是空話；但心裏真實的信，遲早也必然要在口裏認出來——兩者互相印證，缺一不可。
-
-**宣教不是活動，是信的自然結果**：老弟兄一貫的教導方法論強調，服事要靠聖靈的恩賜，不是靠人的方法或組織技巧堆出來的；同樣，10:14-15的宣教邏輯鏈，起點不是「教會需要一個宣教部門」，而是「有人真信了，就無法不傳」——傳講的行動，是信心真實性的自然流露，不是外加的宗教義務。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+> 出處：以上教父與改教家段落屬對其一貫解經立場之一般性歸納轉述，非逐字引句；加爾文《羅馬書註釋》段落依其論羅馬書10章之一貫主張整理；MacArthur 段落屬對其講道系列一貫立場之綜合轉述，未附具體講題與日期，讀者若需查證應另行核對其原著。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Just As I Am*（如前「配詩」所引）
+### 詩篇 19:1-4
 
-> Just as I am, without one plea,
-> But that Thy blood was shed for me,
-> And that Thou bidd'st me come to Thee,
-> O Lamb of God, I come, I come.
+保羅在10:18正是引用這段詩篇來說明：福音的聲音已經「傳遍天下」，如同諸天不用言語卻已將神的榮耀傳到地極。
 
-**詩篇**：詩篇 19:4
+> **諸天述說神的榮耀**；穹蒼傳揚他的手段。 \
+> 這日到那日發出言語；這夜到那夜傳出知識。 \
+> 無言無語，也無聲音可聽。 \
+> **他的量帶通遍天下，他的言語傳到地極。**
 
-> 他的量帶通遍天下，他的言語傳到地極。
+> **The heavens are telling of the glory of God**; \
+> And their expanse is declaring the work of His hands. \
+> Day to day pours forth speech, \
+> And night to night reveals knowledge. \
+> There is no speech, nor are there words; \
+> Their voice is not heard. \
+> **Their line has gone out through all the earth, \
+> And their utterances to the end of the world.**
+
+### Just As I Am
+
+這首詩歌由 Charlotte Elliott 於1835年創作，她長年臥病，據其家族與教會傳統流傳，這首詩正是出於她個人在軟弱無力中單單仰賴基督恩典的心境所寫成——這首詩歌後來成為近代佈道會（如葛培理佈道大會）最常用的呼召詩歌之一，每一次呼召，都是把10:9-10「口裏承認、心裏相信」具體化成一個當下的行動：不必先把自己收拾乾淨，「就照著現在的我」（just as I am）來到主前。
+
+**歌詞與經文對照**：
+- "Just as I am, without one plea" — 呼應10:3「想要立自己的義」的相反：不是先立功德才能來，是現在就可以來
+- "O Lamb of God, I come, I come" — 呼應10:9-10心與口的雙重回應：來，是一個既在心裏、也用行動宣告出來的動作
+- 整首詩歌重複的呼召結構，正對應10:13「凡求告主名的，就必得救」的「凡」字——不設門檻，只等你來
+
+### How Firm a Foundation
+
+> How firm a foundation, ye saints of the Lord, \
+> Is laid for your faith in His excellent Word! \
+> What more can He say than to you He hath said, \
+> To you who for refuge to Jesus have fled?
+
+這首詩歌（1787年 Rippon's Selection 收錄）呼應10:8「這道離你不遠，正在你口裏，在你心裏」——那立定的根基，就是神已經賜下、如今近在人心口之間的話語。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+
+**精義一句話**：救恩不是遠方的攀登，是近在咫尺的信靠——口裏承認、心裏相信，就必得救；而這道要傳到地極，還需要有人開口。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：那離人不遠的道。申命記30:11-14，摩西告訴百姓：神的誡命「不是難行的，也不是離你遠的……這話是離你甚近，就在你口中，在你心裏，使你可以遵行」。保羅在羅馬書10:6-8重新應用這段話：如今那「近在咫尺」的，不再只是誡命條文，而是基督自己——祂已經降世（不必上天去領祂下來），已經復活（不必下陰間去領祂上來）。
+**近在咫尺線**：申命記30:11-14，摩西告訴百姓：神的誡命「不是難行的，也不是離你遠的……這話是離你甚近，就在你口中，在你心裏，使你可以遵行」。保羅在羅馬書10:6-8重新應用這段話：如今那「近在咫尺」的，不再只是誡命條文，而是基督自己——祂已經降世（不必上天去領祂下來），已經復活（不必下陰間去領祂上來）。
 
-這條線繼續往前走，通向以賽亞書52:7「報佳音之人的腳蹤何等佳美」，保羅在10:15直接引用這節經文，把「近在咫尺的道」與「傳講出去的道」接在一起——道近在心口，卻仍然需要有人開口把它帶到還沒聽過的人那裏。這條線再往下走，就是主耶穌升天前的大使命：「你們要去，使萬民作我的門徒」（太28:19-20），以及「聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒馬利亞，直到地極，作我的見證」（徒1:8）。從申命記30章的「近」，到羅馬書10章的「傳」，到使徒行傳1章的「地極」——這是同一條道，越走越遠，卻始終沒有離開過起點：那位近在人心口的基督。
+**傳講·大使命線**：這條線繼續往前走，通向以賽亞書52:7「報佳音之人的腳蹤何等佳美」，保羅在10:15直接引用這節經文，把「近在咫尺的道」與「傳講出去的道」接在一起——道近在心口，卻仍然需要有人開口把它帶到還沒聽過的人那裏。這條線再往下走，就是主耶穌升天前的大使命：「你們要去，使萬民作我的門徒」（太28:19-20），以及「聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒馬利亞，直到地極，作我的見證」（徒1:8）。從申命記30章的「近」，到羅馬書10章的「傳」，到使徒行傳1章的「地極」——這是同一條道，越走越遠，卻始終沒有離開過起點：那位近在人心口的基督。
 
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
-- 先問：「保羅說以色列人『有熱心，但不是按著真知識』——你覺得，一個人可以錯得多認真？」
+- 先問：「保羅一開口不談自己，先談福音的內容。你介紹自己的信仰時，先談的是自己的經歷，還是福音本身的事實？」
 - 再問：「10:9-10，先講『口認』再講『心信』，接著又反過來——你覺得心和口，到底哪個先？為甚麼保羅要這樣交錯著寫？」
 - 追問：「『信道是從聽道來的』——如果沒有人給你講過福音，你今天會信嗎？那你今天信了，是誰把這道傳給了你？」
 - 落到自己：「你是用口信、用心稱義？還是只是頭腦知道福音的知識？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天我們身處一個資訊爆炸、知識唾手可得的時代——任何人打開手機，幾秒鐘就能查到「甚麼是因信稱義」「羅馬書10章講甚麼」，甚至可以讓AI替你總結整段神學論證。但保羅在這一章要說的核心，恰恰不是「知道福音」，而是「口裏認、心裏信」——這是知識無法代勞的行動。AI可以幫你找到、整理、甚至精準複述聖經的每一個論證，卻不能替你相信，也不能替你在口裏承認。「有熱心，但不是按著真知識」，換一個現代的說法，可能就是：搜集了大量的資訊、甚至熱衷於神學辯論，卻始終停在「知道」的層面，沒有跨進「信」與「認」的門檻。
+今天我們身處一個資訊爆炸、知識唾手可得的時代——任何人打開手機，幾秒鐘就能查到「甚麼是因信稱義」「羅馬書10章講甚麼」，甚至可以讓AI替你總結整段論證。但保羅在這一章要說的核心，恰恰不是「知道福音」，而是「口裏認、心裏信」——這是知識無法代勞的行動。AI可以幫你找到、整理、甚至精準複述聖經的每一個論證，卻不能替你相信，也不能替你在口裏承認。「有熱心，但不是按著真知識」，換一個現代的說法，可能就是：搜集了大量的資訊、甚至熱衷於道理上的辯論，卻始終停在「知道」的層面，沒有跨進「信」與「認」的門檻。
 
 ### 今天的祭壇 (Today's Altar)
 
@@ -288,17 +259,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我有沒有把福音的信息傳給某一個還沒聽見的人？如果沒有，攔阻我的是甚麼？
 - **一個行動**：今天向一位還未信主的人，具體地開口說一句關於耶穌的話——哪怕只是一句見證。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：救恩不是遠方的攀登，是近在咫尺的信靠——口裏承認、心裏相信，就必得救；而這道要傳到地極，還需要有人開口。
-
-**貫通全經**：申命記30章「這話離你甚近，就在你口中，在你心裏」——保羅把這句話直接應用在基督身上；以賽亞書52:7「報佳音之人的腳蹤何等佳美」，是主耶穌升天前大使命的舊約根源。
-
-**無法迴避的問題**：「你是用口信、用心稱義，還是只是頭腦知道福音的知識？」
-
 > 「信道是從聽道來的，聽道是從基督的話來的——你今天信了，是因為有人開口；那今天，換你開口了嗎？」
+
+**你看見耶穌了嗎**：整章沒有一節直接描寫十字架的場景，卻句句指向那位「道」——祂已降世、又已復活，如今近在人的口與心；那被釘十字架又復活的，正是人人可以求告得救的「主」；而先知筆下那雙終日向著悖逆百姓伸出的手，正是後來被釘在木頭上的手。你看見祂了嗎？
 
 ---
 
@@ -306,13 +269,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **熱心的方向**：我的宗教熱心，是「按著真知識」，還是仍在「想要立自己的義」？
+1. **心與口的一致**：我對耶穌是主的信，是否已經化成口裏具體的承認？有沒有哪個場合，我因為害怕而選擇不認？
 
-2. **心與口的一致**：我對耶穌是主的信，是否已經化成口裏具體的承認？有沒有哪個場合，我因為害怕而選擇不認？
+2. **近在咫尺的道**：我是否還在某些方面「向天上去尋找」——用複雜的宗教努力，尋找一個其實已經近在我心口的救恩？
 
-3. **近在咫尺的道**：我是否還在某些方面「向天上去尋找」——用複雜的宗教努力，尋找一個其實已經近在我心口的救恩？
-
-4. **宣教的鎖鏈**：這條「差遣—傳講—聽見—相信—求告—得救」的鏈子上，我目前站在哪一環？我是否願意成為那雙「何等佳美的腳」？
+3. **宣教的鎖鏈**：這條「差遣—傳講—聽見—相信—求告—得救」的鏈子上，我目前站在哪一環？我是否願意成為那雙「何等佳美的腳」？
 
 ### 禱告回應
 
@@ -326,17 +287,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅說以色列人「有熱心，但不是按著真知識」——這句話對今天教會的警惕是甚麼？
-
-2. 羅馬書10:4「律法的總結就是基督」，「總結」（*telos*）一詞有「終結」與「目標」兩種讀法，這兩種讀法如何幫助你更全面地理解律法與基督的關係？
-
-3. 10:9-10為甚麼要同時提到「心裏信」與「口裏認」？只有其中一項，是否足夠？
-
-4. 10:14-15的宣教邏輯鏈，從「差遣」到「得救」，哪一環是你目前最需要參與、卻還沒有參與的？
-
-5. 本章結尾（10:16-21）如何區分「福音沒有傳到」與「人不肯聽從」？這個區分對你理解「為甚麼有人不信」有甚麼幫助？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 律法之義與信心之義的舊約根據 | 10:5-8 | 利18:5、申30:12-14 |
+| 心信口認 | 10:9-10 | 太10:32-33、約12:42-43 |
+| 「沒有分別」的普世應許 | 10:11-13 | 羅3:22-23、珥2:32 |
+| 近在咫尺·大使命 | 10:6-8, 15 | 申30:11-14、賽52:7、太28:19-20、徒1:8 |
+| 以色列悖逆早有預言 | 10:19 | 申32:21 |
 
 ---
 

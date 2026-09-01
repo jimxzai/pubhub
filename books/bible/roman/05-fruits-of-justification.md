@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 5:1-21
 
----
+**經文核對**：[ai-eden.com/bible/romans/5](https://www.ai-eden.com/bible/romans/5?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：和好 Katallagē** \
+> **全書坐標**：卷二「因信稱義」的收束。論證從法庭走進家中——稱義的判決（3-4章）帶出與神相和的關係（5:1-11）；末段再以亞當與基督兩個元首的對比（5:12-21），把個人的稱義擴大成全人類的兩條線，並為6章「與基督聯合」開路。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 3-4章證明了「因信稱義」的道理，5章回答的是「稱了義又怎樣？」——答案不是一種感覺，而是一個人：耶穌基督。我們「藉著我們的主耶穌基督」得與神相和（5:1）、「藉著他」得進入恩典（5:2）、「藉著他」得免神的忿怒（5:9）、「藉著他的生」得救（5:10）。從12節起，保羅把鏡頭拉到最遠——不再只看某一個人的信心旅程，而看整個人類的兩個元首：亞當與基督。凡在亞當裏的，承受死的轄制；凡在基督裏的，承受恩典的掌權。這一章從頭到尾都在說一件事：一切都「藉著他」，一切都「在他裏面」。
 
@@ -20,27 +24,27 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Grace Greater Than Our Sin**
+> **Grace Greater Than Our Sin** \
 > *Julia H. Johnston, 1911*
 >
-> Marvelous grace of our loving Lord,
-> Grace that exceeds our sin and our guilt!
-> Yonder on Calvary's mount outpoured,
+> Marvelous grace of our loving Lord, \
+> Grace that exceeds our sin and our guilt! \
+> Yonder on Calvary's mount outpoured, \
 > There where the blood of the Lamb was spilt.
 >
-> Grace, grace, God's grace,
-> Grace that will pardon and cleanse within;
-> Grace, grace, God's grace,
+> Grace, grace, God's grace, \
+> Grace that will pardon and cleanse within; \
+> Grace, grace, God's grace, \
 > Grace that is greater than all our sin!
 >
-> 我主奇妙恩典何等浩大，
-> 恩典勝過我一切罪污！
-> 各各他山上恩流傾下，
+> 我主奇妙恩典何等浩大， \
+> 恩典勝過我一切罪污！ \
+> 各各他山上恩流傾下， \
 > 羔羊寶血在那裏流出。
 >
-> 恩典，恩典，神的恩典，
-> 恩典赦免、潔淨我裏面；
-> 恩典，恩典，神的恩典，
+> 恩典，恩典，神的恩典， \
+> 恩典赦免、潔淨我裏面； \
+> 恩典，恩典，神的恩典， \
 > 恩典勝過我一切罪愆！
 
 ---
@@ -48,6 +52,8 @@ publisher: 三書精讀出版系統
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 ai-eden.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > ^1^我們既因信稱義，就藉著我們的主耶穌基督**得與神相和**。^2^我們又藉著他，因信得進入現在所站的這恩典中，並且歡歡喜喜盼望神的榮耀。
 
@@ -63,23 +69,21 @@ publisher: 三書精讀出版系統
 
 > **^18^如此說來，因一次的過犯，眾人都被定罪；照樣，因一次的義行，眾人也就被稱義得生命了。^19^因一人的悖逆，眾人成為罪人；照樣，因一人的順從，眾人也成為義了。^20^律法本是外添的，叫過犯顯多；只是罪在那裏顯多，恩典就更顯多了。^21^就如罪作王叫人死；照樣，恩典也藉著義作王，叫人因我們的主耶穌基督得永生。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 ai-eden.com 逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> **^1^Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,** ^2^through whom also we have obtained our introduction by faith into this grace in which we stand; and we exult in hope of the glory of God.
 
-> **^1^Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.** ^2^Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God.
+> ^3^And not only this, but we also exult in our tribulations, knowing that tribulation brings about perseverance; ^4^and perseverance, proven character; and proven character, hope; ^5^and hope does not disappoint, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.
 
-> ^3^Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance, ^4^and endurance produces character, and character produces hope, ^5^and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us.
+> ^6^For while we were still helpless, at the right time Christ died for the ungodly. ^7^For one will hardly die for a righteous man; though perhaps for the good man someone would dare even to die. **^8^But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.**
 
-> ^6^For while we were still weak, at the right time Christ died for the ungodly. ^7^For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die— **^8^but God shows his love for us in that while we were still sinners, Christ died for us.**
+> ^9^Much more then, having now been justified by His blood, we shall be saved from the wrath *of God* through Him. ^10^For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life. ^11^And not only this, but we also exult in God through our Lord Jesus Christ, through whom we have now received the reconciliation.
 
-> ^9^Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God. ^10^For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life. ^11^More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.
+> **^12^Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned— ^13^for until the Law sin was in the world, but sin is not imputed when there is no law. ^14^Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the offense of Adam, who is a type of Him who was to come.**
 
-> **^12^Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned— ^13^for sin indeed was in the world before the law was given, but sin is not counted where there is no law. ^14^Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.**
+> **^15^But the free gift is not like the transgression. For if by the transgression of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, abound to the many. ^16^The gift is not like *that which came* through the one who sinned; for on the one hand the judgment *arose* from one *transgression* resulting in condemnation, but on the other hand the free gift *arose* from many transgressions resulting in justification. ^17^For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.**
 
-> **^15^But the free gift is not like the trespass. For if many died through one man's trespass, much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many. ^16^And the free gift is not like the result of that one man's sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification. ^17^For if, because of one man's trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of righteousness reign in life through the one man Jesus Christ.**
-
-> **^18^Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men. ^19^For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous. ^20^Now the law came in to increase the trespass, but where sin increased, grace abounded all the more, ^21^so that, as sin reigned in death, grace also might reign through righteousness leading to eternal life through Jesus Christ our Lord.**
+> **^18^So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men. ^19^For as through the one man's disobedience the many were made sinners, even so through the obedience of the One the many will be made righteous. ^20^The Law came in so that the transgression would increase; but where sin increased, grace abounded all the more, ^21^so that, as sin reigned in death, even so grace would reign through righteousness to eternal life through Jesus Christ our Lord.**
 
 ---
 
@@ -115,7 +119,7 @@ publisher: 三書精讀出版系統
 | παράβασις | parabasis | 逾越誡命 | 5:14，特指違犯已知的、成文的命令（與亞當在伊甸園裏明確被吩咐相關） |
 | ἁμαρτία | hamartia | 罪 | 更廣義，指罪這個權勢、狀態，5:12-21中與「死」並列作為轄制人的兩股勢力 |
 | ὑπακοή | hypakoē | 順從 | 5:19，與亞當的「悖逆」（*parakoē*）相對，指基督在十字架上的順服 |
-| ὑπερεπερίσσευσεν | hypereperisseusen | 格外顯多、超越增多 | 原形 hyperperisseuō；5:20，*perisseuō*（充盈、有餘）加上前綴*hyper*（超越）構成的加強複合動詞，保羅似乎特意用這個較罕見的強化形式，要說恩典不只是「多」，而是「超越所需地多」 |
+| ὑπερεπερίσσευσεν | hypereperisseusen | 格外顯多、超越增多 | 原形 hyperperisseuō；5:20，*perisseuō* （充盈、有餘）加上前綴 *hyper* （超越）構成的加強複合動詞，保羅似乎特意用這個較罕見的強化形式，要說恩典不只是「多」，而是「超越所需地多」 |
 
 ### *eirēnē* 與 *prosagōgē* 的宮廷意象
 
@@ -127,43 +131,25 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 稱義的三重「現在」（5:1-2）
+### 1. 稱義的三重「現在」與苦難的煉金術（5:1-5）
 
-「我們既因信稱義」用的是不定過去式被動分詞（*dikaiōthentes*）——指向一件已然成就的事實，不是一個仍在等待、仍需努力鞏固的過程。緊接著三個現在的果實：
+「我們既因信稱義」用的是不定過去式被動分詞（*dikaiōthentes*）——指向一件已然成就的事實，不是一個仍在等待、仍需努力鞏固的過程。緊接著三個現在的果實：**和好**（現在擁有的關係）、**恩典中的站立**（現在擁有的地位）、**對神榮耀的盼望**（現在擁有的方向）。平安不是一種情緒上的平靜感，而是一個客觀已成就的狀態——正如兩國簽署和約，不論人民當下心情如何，和平已經法律上生效。保羅沒有說「苦難消失了」，而是說「患難生忍耐，忍耐生老練，老練生盼望」——一條從苦難通向盼望的鏈子。這條鏈子之所以走得通，不是因為苦難本身有魔力，而是因為5:5的那句話：「所賜給我們的聖靈將神的愛澆灌在我們心裏。」「澆灌」（*ekkechytai*）是完成式，描述一次性、卻持續浸潤的傾倒——不是一滴一滴地施捨，而是像水漫過整片土地。
 
-- **和好**（現在擁有的關係）
-- **恩典中的站立**（現在擁有的地位）
-- **對神榮耀的盼望**（現在擁有的方向）
+### 2. 恩典的定義句與「何況」邏輯的確據（5:6-11）
 
-平安不是一種情緒上的平靜感，而是一個客觀已成就的狀態——正如兩國簽署和約，不論人民當下心情如何，和平已經法律上生效。
+5:8是全本聖經對「恩典」最精煉的定義：不是神愛可愛的人，而是「我們還作罪人的時候」，基督就為我們死。5:6用了「不敬虔的人」（*asebōn*）——不是道德上還過得去的人，是與神為敵、毫無資格的人。恩典不是神看見我們裏面某些值得愛的東西才愛我們；恩典是神在我們裏面毫無可愛之處時，仍然愛我們——這正是恩典與一般意義下「愛」最根本的分別。如果神在我們是罪人、仇敵時，就已經完成了最難的一步（稱義、和好），那麼已經稱義、已經和好之人蒙保守到底，豈不是邏輯上更容易確定的事？保羅不是在教一套抽象的道理，而是在為信徒的確據立根基：你今天的信心若軟弱，不要從自己的感覺找答案，要從十字架已經成就的事實找答案。
 
-### 2. 苦難的煉金術（5:3-5）
-
-保羅沒有說「苦難消失了」，而是說「患難生忍耐，忍耐生老練，老練生盼望」——一條從苦難通向盼望的鏈子。這條鏈子之所以走得通，不是因為苦難本身有魔力，而是因為5:5的那句話：「所賜給我們的聖靈將神的愛澆灌在我們心裏。」「澆灌」（*ekkechytai*）是完成式，描述一次性、卻持續浸潤的傾倒——不是一滴一滴地施捨，而是像水漫過整片土地。
-
-### 3. 恩典的定義句（5:6-8）
-
-5:8是全本聖經對「恩典」最精煉的定義：不是神愛可愛的人，而是「我們還作罪人的時候」，基督就為我們死。5:6用了「不敬虔的人」（*asebōn*）——不是道德上還過得去的人，是與神為敵、毫無資格的人。恩典不是神看見我們裏面某些值得愛的東西才愛我們；恩典是神在我們裏面毫無可愛之處時，仍然愛我們——這正是恩典與一般意義下「愛」最根本的分別。
-
-### 4. 「何況」邏輯：從十字架到將來的確據（5:9-11）
-
-如果神在我們是罪人、仇敵時，就已經完成了最難的一步（稱義、和好），那麼已經稱義、已經和好之人蒙保守到底，豈不是邏輯上更容易確定的事？保羅不是在教一套抽象神學，而是在為信徒的確據立根基：你今天的信心若軟弱，不要從自己的感覺找答案，要從十字架已經成就的事實找答案。
-
-### 5. 亞當與基督：兩個元首的對比（5:12-21）
+### 3. 亞當與基督：兩個元首的對比（5:12-21）
 
 保羅的論證邏輯是「相同的結構，相反的方向」：一人的行動（過犯／義行）帶來一個結果（定罪／稱義），臨到「眾人」。這個結構本身要求讀者接受一個前提：人類不是一群互不相干的個體，而是被安放在某一位「代表元首」之下——亞當或基督。5:14稱亞當是「那以後要來之人的預像」（*typos*）——第一個亞當預表末後的亞當，兩人都不只是個人，都是代表全人類的元首。
 
 **5:12的難題，誠實地說**：「因為眾人都犯了罪」（*eph' hō pantes hēmarton*）這半節經文，是新約解經史上最受爭議的片語之一。歷代主要有三種理解方向：(a) 每個人都因親身犯罪而承受死的後果（伯拉糾式的個人責任論）；(b) 全人類在亞當犯罪的那一刻，已經在某種代表性的意義上「在他裏面」犯了罪，因此亞當的罪被算為全人類的罪（奧古斯丁及多數改革宗傳統的「原罪歸算」立場）；(c) 亞當開啟了罪與死轄制人類的權勢，後裔生在這權勢之下，因此都成為罪人並都親身犯罪（介於前兩者之間的「敗壞承襲」立場）。這是一個至今仍在認真的釋經者之間持續討論的問題，本書不強作解人替讀者下定論，而是誠實地把這幾條路擺在讀者面前——正如奧古斯丁與伯拉糾在主後五世紀初的論戰所顯明的，這個問題從古至今從未真正「一次性」被辯論完畢。
 
-### 6. 「不像」也「遠超」（5:15-17）
+### 4. 「不像」也「遠超」：恩典超越過犯的邏輯，以及律法的位置（5:15-21）
 
-保羅三次強調恩典的果效「不像」（*ouch hōs*）過犯的果效——不是同等份量的兩件事在拉鋸，而是恩典從一開始就在規模上遠超過犯。過犯只需要一次就帶來死的轄制；恩典卻要處理「許多過犯」卻仍然稱義（5:16）。這不是恩典「勉強打平」罪的破壞，而是恩典「大幅超越」罪的破壞。
-
-### 7. 律法的位置與恩典的「超越增多」（5:20-21）
-
-「律法本是外添的」——律法不是解決罪的方案，而是讓罪的性質更清楚顯露出來（把「罪」從模糊的狀態，變成具體可指認的「過犯」）。正是在罪被律法照得最清楚、看起來最無望的地方，保羅說「恩典就更顯多了」——原文*hypereperisseusen*是全段用詞最強烈的一個動詞，恩典不只是「夠用」，而是「格外地、超越地、滿溢地」湧流。這是整章的高峰句，也是下一章（羅6章）保羅要立刻處理的問題的伏筆——「這樣，我們可以仍在罪中，叫恩典顯多嗎？」（6:1）。
+保羅三次強調恩典的果效「不像」（*ouch hōs*）過犯的果效——不是同等份量的兩件事在拉鋸，而是恩典從一開始就在規模上遠超過犯。過犯只需要一次就帶來死的轄制；恩典卻要處理「許多過犯」卻仍然稱義（5:16）。這不是恩典「勉強打平」罪的破壞，而是恩典「大幅超越」罪的破壞。「律法本是外添的」——律法不是解決罪的方案，而是讓罪的性質更清楚顯露出來（把「罪」從模糊的狀態，變成具體可指認的「過犯」）。正是在罪被律法照得最清楚、看起來最無望的地方，保羅說「恩典就更顯多了」——原文*hypereperisseusen*是全段用詞最強烈的一個動詞，恩典不只是「夠用」，而是「格外地、超越地、滿溢地」湧流。這是整章的高峰句，也是下一章（羅6章）保羅要立刻處理的問題的伏筆——「這樣，我們可以仍在罪中，叫恩典顯多嗎？」（6:1）。
 
 ---
 
@@ -189,37 +175,43 @@ publisher: 三書精讀出版系統
 
 這段記載與羅馬書5:5「所賜給我們的聖靈將神的愛澆灌在我們心裏」的語言遙相呼應——衛斯理所描述的，正是保羅所說「聖靈將神的愛澆灌在心裏」那種帶著確據、不再只是頭腦贊同、而是心裏真實經歷的信心。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫指出，5:1的「得與神相和」不是一種主觀感受，而是一個客觀成就的法律狀態——保羅用的是過去已完成的動詞，意思是「這和好已經確立，並持續有效」，信徒的確據應該建立在這個客觀事實上，而非隨著情緒起伏的主觀感覺。他也強調5:12-21的亞當—基督對比，是保羅在羅馬書中神學論證的高峰之一——唯有先明白人類全體在亞當裏所承受的定罪與死的轄制何等真實、何等徹底，才能明白基督所成就的稱義與生命何等更加真實、更加徹底。
+摩根一貫將5:1-11與5:12-21視為同一段論證的兩個層次——前段是「個人的經歷」（我因信稱義，得享平安），後段是「宇宙的圖景」（人類歷史的兩個元首）；他指出保羅寫作的邏輯次序極具智慧：先讓讀者確知自己個人已經得著的地位，再把這地位放進整個救恩歷史的宏大框架裏，使信徒不至於把稱義窄化為一種私人感受，而看見自己乃是被接入了一個新造的人類元首之下。
 
-**坎伯·摩根 (G. Campbell Morgan)**：摩根一貫將5:1-11與5:12-21視為同一段論證的兩個層次——前段是「個人的經歷」（我因信稱義，得享平安），後段是「宇宙的圖景」（人類歷史的兩個元首）；他指出保羅寫作的邏輯次序極具智慧：先讓讀者確知自己個人已經得著的地位，再把這地位放進整個救恩歷史的宏大框架裏，使信徒不至於把稱義窄化為一種私人感受，而看見自己乃是被接入了一個新造的人類元首之下。
+**從法庭到家中**：摩根指出，3:21-4:25所建立的「稱義」，若只停在法律宣告的層次，對一般信徒而言仍嫌抽象——5章的任務，正是把這個法律宣告翻譯成一個人可以實際站立、實際經歷的生命狀態。他將5:1-11的三個「藉著他」——藉著他得和好、藉著他得進入恩典、藉著他得免忿怒——比喻為一個被赦免的囚犯，不只被釋放出監牢，更被領回家中，坐在原本被得罪之人的桌前用飯。
+
+**「何況」是全段的骨架**：摩根一貫將5:9-10、5:15、5:17的「何況」（much more）視為保羅論證確據時最喜愛使用的修辭工具——若神在我們毫無資格時，就已經完成了最艱難、代價最高的一步（十字架），那麼已經稱義之人得蒙保守到底，邏輯上豈不是更容易確定的事？他認為，信徒許多的懼怕與不安，其實都是忘記了從「已成就的十字架」去推論「未來的確據」，反倒本末倒置，想從自己搖擺的感覺去證明神的信實。
+
+**兩個元首的宇宙圖景**：摩根強調，5:12-21把整章從「一個蒙恩之人的經歷」提升到「全人類歷史的結構」——亞當與基督，不是聖經裏的兩個普通人物，而是兩個代表人類命運方向的元首。他指出，若不先明白人類在亞當裏所承受的定罪何等真實、何等徹底地臨到「眾人」，就無法明白基督所成就的稱義與生命，何等同樣真實、同樣徹底地臨到「凡在他裏面的人」。
+
+> 出處：G. Campbell Morgan 羅馬書相關講章與著作對5章「稱義果實」與「亞當基督對比」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟一貫指出，5:1的「得與神相和」不是一種主觀感受，而是一個客觀成就的法律狀態——保羅用的是過去已完成的動詞，意思是「這和好已經確立，並持續有效」，信徒的確據應該建立在這個客觀事實上，而非隨著情緒起伏的主觀感覺。他也強調5:12-21的亞當—基督對比，是保羅在羅馬書中論證的高峰之一——唯有先明白人類全體在亞當裏所承受的定罪與死的轄制何等真實、何等徹底，才能明白基督所成就的稱義與生命何等更加真實、更加徹底。
 
 **誠實說明**：以上麥克阿瑟與坎伯·摩根之引句，均為對其著作與講道中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份或講題可逐字查核的原始引句；屈梭多模之陳述屬同一性質的一般性歸納。奧古斯丁與伯拉糾之爭乃真實可考的歷史事件（主後五世紀初，教會歷史文獻與大公會議記錄可查），此處僅作歷史背景之如實描述，未杜撰任何一方的逐字語錄。加爾文之陳述亦屬對其《羅馬書註釋》一貫解經立場的一般性歸納。唯一附有具體日期、且為逐字引句的是約翰·衛斯理1738年5月24日的日記原文，此為公開、可查證之一手史料。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 103:8-12
 
-> 耶和華有憐憫，有恩惠，不輕易發怒，且有豐盛的慈愛。
-> 他不長久責備，也不永遠懷怒。
-> **他沒有按我們的罪待我們，也沒有照我們的罪孽報應我們。**
-> 天離地何等的高，他的慈愛向敬畏他的人也是何等的大！
+> 耶和華有憐憫，有恩惠，不輕易發怒，且有豐盛的慈愛。 \
+> 他不長久責備，也不永遠懷怒。 \
+> **他沒有按我們的罪待我們，也沒有照我們的罪孽報應我們。** \
+> 天離地何等的高，他的慈愛向敬畏他的人也是何等的大！ \
 > 東離西有多遠，他叫我們的過犯離我們也有多遠！
 
-> The Lord is merciful and gracious, slow to anger and abounding in steadfast love.
-> He will not always chide, nor will he keep his anger forever.
-> **He does not deal with us according to our sins, nor repay us according to our iniquities.**
-> For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him;
-> as far as the east is from the west, so far does he remove our transgressions from us.
+> The LORD is compassionate and gracious, Slow to anger and abounding in *lovingkindness*. \
+> He will not always strive *with us*, Nor will He keep *His anger* forever. \
+> **He has not dealt with us according to our sins, Nor rewarded us according to our iniquities.** \
+> For as high as the heavens are above the earth, So great is His *lovingkindness* toward those who fear Him. \
+> As far as the east is from the west, So far has He removed our transgressions from us.
 
 這篇詩篇早於保羅約一千年，已經用「東離西有多遠」描繪出一種超越量度的赦免——羅馬書5:20的「格外顯多」，正是這篇詩篇在十字架事件裏找到了最終的落地之處。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### Grace Greater Than Our Sin
 
@@ -230,58 +222,21 @@ publisher: 三書精讀出版系統
 - 「各各他山上恩流傾下」— 呼應5:8「基督在我們還作罪人的時候為我們死」
 - 「恩典赦免、潔淨我裏面」— 呼應5:9「靠著他的血稱義」
 
-### 另一配詩：It Is Well with My Soul
+### It Is Well with My Soul
 
 Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace like a river attendeth my way」，正是羅馬書5:1「我們既因信稱義，就……得與神相和」在苦難中被實際活出來的見證——這首詩歌寫於他四個女兒在海難中喪生之後，是「患難生忍耐，忍耐生老練，老練生盼望」（5:3-4）最沉重也最真實的印證。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**從法庭到家中**：摩根指出，3:21-4:25所建立的「稱義」，若只停在法律宣告的層次，對一般信徒而言仍嫌抽象——5章的任務，正是把這個法律宣告翻譯成一個人可以實際站立、實際經歷的生命狀態。他將5:1-11的三個「藉著他」——藉著他得和好、藉著他得進入恩典、藉著他得免忿怒——比喻為一個被赦免的囚犯，不只被釋放出監牢，更被領回家中，坐在原本被得罪之人的桌前用飯。
-
-**「何況」是全段的骨架**：摩根一貫將5:9-10、5:15、5:17的「何況」（much more）視為保羅論證確據時最喜愛使用的修辭工具——若神在我們毫無資格時，就已經完成了最艱難、代價最高的一步（十字架），那麼已經稱義之人得蒙保守到底，邏輯上豈不是更容易確定的事？他認為，信徒許多的懼怕與不安，其實都是忘記了從「已成就的十字架」去推論「未來的確據」，反倒本末倒置，想從自己搖擺的感覺去證明神的信實。
-
-**兩個元首的宇宙圖景**：摩根強調，5:12-21把整章從「一個蒙恩之人的經歷」提升到「全人類歷史的結構」——亞當與基督，不是聖經裏的兩個普通人物，而是兩個代表人類命運方向的元首。他指出，若不先明白人類在亞當裏所承受的定罪何等真實、何等徹底地臨到「眾人」，就無法明白基督所成就的稱義與生命，何等同樣真實、同樣徹底地臨到「凡在他裏面的人」。
-
-> 出處：G. Campbell Morgan 羅馬書相關講章與著作對5章「稱義果實」與「亞當基督對比」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**先問「你站在哪裏」，再問「你信了甚麼」**：老弟兄帶查經時，習慣先讓人回到自己的生命光景，再進入教義。他會這樣問：「你今天早上起來，心裏是安的，還是不安的？你的平安，是靠今天的工作順不順利，還是靠一件已經成就、不會改變的事實？」5:1的「相和」不是一種情緒管理的技巧，而是一個已經簽了字、生效了的和約——問題不是「我今天覺得平安嗎」，而是「我知不知道我已經與神和好了」。
-
-**「你以為苦難是懲罰，還是煉金爐？」**：面對5:3-5的苦難鏈條，老弟兄不會安慰人「一切都會過去」，他會反問：「你遇見苦難時，第一個念頭是『神在懲罰我』，還是『神在煉我』？聖經沒有應許沒有苦難，聖經應許的是苦難有方向——通向老練、通向盼望，而不是通向絕望。」
-
-**亞當與基督：你活在哪一個元首之下？**：老弟兄一貫的查經方法是把個別經文放回整本聖經的骨架裏看——5:12-19若脫離創世記3章單獨讀，會顯得抽象；但一旦連上創世記3章的墮落，這一段就成了保羅對「人類為甚麼是現在這個光景」最完整的解釋。他會這樣提問：「創世記3章講一個人的悖逆，帶進了整個受造界的咒詛與死亡——你今天經歷的每一個死亡的痕跡（衰老、疾病、關係的破裂），根源都在那一章。羅馬書5章告訴你：這條線不是死路，因為有另一個『人』出現了，祂的順從，翻轉了第一個人的悖逆所帶來的一切。」
-
-**誠實說明——本節內容的出處**：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Grace Greater Than Our Sin*（如前「配詩」所引）
-
-> Grace, grace, God's grace,
-> Grace that will pardon and cleanse within;
-> Grace, grace, God's grace,
-> Grace that is greater than all our sin!
-
-**詩篇**：詩篇 103:12
-
-> 東離西有多遠，他叫我們的過犯離我們也有多遠！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：稱義不是一種感覺，是一個已經簽字生效的和約——你今天站在哪一個元首（亞當或基督）之下，決定了死轄制你，還是恩典掌權在你身上。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一人墮落，一人拯救——兩個元首，兩個人類。創世記3:17-19記載神對亞當說：「你既聽從你妻子的話……土地必因你的緣故受詛咒；你必終生勞苦才能從土地得吃的……你本是塵土，仍要歸回塵土。」死不是一個抽象的概念，是一個真實的、透過一個人的悖逆進入整個受造界的權勢。羅馬書5:12-14把這段歷史神學化：「罪是從一人入了世界，死又是從罪來的；於是死就臨到眾人」。
-
-這條線往前追到創世記3章的根，往後連到哥林多前書15:21-22保羅自己所作的總結：「既然死是因一人而來，死人復活也因一人而來。在亞當裏眾人都死了；同樣，在基督裏眾人也都要復活。」（*hōsper en tō Adam pantes apothnēskousin, houtōs kai en tō Christō pantes zōopoiēthēsontai*，「正如在亞當裏眾人都死了，照樣在基督裏眾人也都要復活。」）從創世記到羅馬書到哥林多前書，是同一條敘事線：第一個人帶進死，末後的亞當帶進復活的生命。
+**元首轉換線**：創世記3:17-19記載神對亞當說：「你既聽從你妻子的話……土地必因你的緣故受詛咒；你必終生勞苦才能從土地得吃的……你本是塵土，仍要歸回塵土。」死不是一個抽象的概念，是一個真實的、透過一個人的悖逆進入整個受造界的權勢。羅馬書5:12-14把這段歷史濃縮成一句話：「罪是從一人入了世界，死又是從罪來的；於是死就臨到眾人」。這條線往前追到創世記3章的根，往後連到哥林多前書15:21-22保羅自己所作的總結：「既然死是因一人而來，死人復活也因一人而來。在亞當裏眾人都死了；同樣，在基督裏眾人也都要復活。」（*hōsper en tō Adam pantes apothnēskousin, houtōs kai en tō Christō pantes zōopoiēthēsontai*，「正如在亞當裏眾人都死了，照樣在基督裏眾人也都要復活。」）從創世記到羅馬書到哥林多前書，是同一條敘事線：第一個人帶進死，末後的亞當帶進復活的生命。你今天經歷的每一個死亡的痕跡——衰老、疾病、關係的破裂——根源都在創世記3章那一次悖逆；羅馬書5章告訴你：這條線不是死路，因為有另一個「人」出現了，祂的順從，翻轉了第一個人的悖逆所帶來的一切。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -304,17 +259,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天遇見的患難，我是想辦法把它優化消除，還是讓它照著5:3-4的次序，在我裏面做工？
 - **一個行動**：今天向一個人具體活出「何況」的邏輯——如果神連我作仇敵時都愛我到底，我今天願不願意先原諒一個曾經得罪我的人。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：稱義不是一種感覺，是一個已經簽字生效的和約——你今天站在哪一個元首（亞當或基督）之下，決定了死轄制你，還是恩典掌權在你身上。
-
-**貫通全經**：創世記3章一人的悖逆帶進死的轄制（創3:17-19）；哥林多前書15:22收束——「在亞當裏眾人都死了；同樣，在基督裏眾人也都要復活。」
-
-**無法迴避的問題**：「你今天活著，是在亞當這個元首之下，還是已經轉換到基督這個元首之下？」
-
 > 「恩典不是勉強打平罪的破壞，是格外地、超越地淹過罪的破壞。你還在算計自己的罪有多重，配不配得恩典嗎？聖經說：哪裏罪顯多，哪裏恩典就更顯多。」
+
+**你看見耶穌了嗎**：這一章從頭到尾都在說一件事——一切都「藉著他」，一切都「在他裏面」。我們藉著他得與神相和，藉著他得進入恩典，藉著他免去神的忿怒，藉著他的生得救；凡在亞當裏的，承受死的轄制，凡在他裏面的，承受恩典的掌權。你今天所站的地位、所盼望的榮耀，沒有一樣不是「藉著他」——你看見這位耶穌了嗎？
 
 ---
 
@@ -326,9 +273,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 2. **苦難生老練**：回想最近一次的患難，我是任憑它把我磨成苦毒，還是讓它照著5:3-5的次序，通向忍耐、老練與盼望？
 
-3. **神愛的證據**：5:8說基督為「還作罪人」的我死——我是否曾經試圖用自己的表現去「配得」神的愛？今天我願不願意單單接受這份不是因為我配得、而是因為神願意賜下的愛？
-
-4. **我站在哪一個元首之下？**：亞當的悖逆與基督的順從，兩條線都經過我——我是否清楚知道自己此刻活在哪一位元首所掌權的生命裏？
+3. **恩典顯多會不會成為藉口？**：「哪裏罪顯多，哪裏恩典就更顯多」這句話會不會被誤用成「犯罪無妨」的藉口？羅馬書接下來（6:1-2）如何處理這個問題？
 
 ### 禱告回應
 
@@ -342,20 +287,14 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 「我們既因信稱義，就……得與神相和」——這句話用的是不定過去式被動分詞，這對「平安」的本質有甚麼提醒？平安是一種感覺，還是一個既成的事實？
-
-2. 5:3-5描述苦難如何一步步生出盼望——這條鏈子和一般人「苦難就是要撐過去」的想法有甚麼不同？
-
-3. 5:8如何定義「神的愛」？這個定義和一般人以「值不值得被愛」來理解愛，有甚麼根本的不同？
-
-4. 5:12「因為眾人都犯了罪」這句話為何在解經史上引起長期討論？請整理至少兩種理解的方向。
-
-5. 保羅為甚麼要在5:12-21花這麼長的篇幅講亞當與基督的對比？這對你理解「因信稱義」的果效範圍，有甚麼幫助？
-
-6. 「哪裏罪顯多，哪裏恩典就更顯多」——這句話會不會被誤用成「犯罪無妨」的藉口？羅馬書接下來（6:1-2）如何處理這個問題？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 元首轉換：亞當帶來死的轄制，基督帶來生命的掌權 | 5:12-21 | 創3:17-19、林前15:21-22 |
+| 神不照我們的罪過待我們 | 5:8-11 | 詩103:8-12 |
+| 恩典顯多，是否等於容讓罪惡：下一章的伏筆 | 5:20-21 | 羅6:1-2 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*

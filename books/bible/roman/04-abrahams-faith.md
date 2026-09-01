@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 4:1-25
 
----
+**經文核對**：[ai-eden.com/bible/romans/4](https://www.ai-eden.com/bible/romans/4?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：算 Logizomai** \
+> **全書坐標**：卷二「因信稱義」的首章。3:21-26宣告了稱義的根據，4章隨即傳喚兩個舊約見證人——亞伯拉罕與大衛——證明「算為義」自始就是恩典的算法，不是工價的算法；稱義早於割禮，也早於律法。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上講的是亞伯拉罕，核心卻是耶穌。保羅在全章沒有一次直接說出「耶穌」，直到第24-25節才揭曉：亞伯拉罕所信的那位「叫死人復活、使無變為有的神」，就是「使我們的主耶穌從死裏復活」的神。亞伯拉罕仰望一個尚未存在的應許（多國之父、從死胎般的身體生出後裔），我們仰望一個已經成就的事實（耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義）。亞伯拉罕的信心望向前方，我們的信心望向十字架與空墳墓——但那位被信靠的神，從未改變。
 
@@ -20,32 +24,32 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **My Hope Is Built on Nothing Less**
+> **My Hope Is Built on Nothing Less** \
 > *Edward Mote, 1834*
 >
-> My hope is built on nothing less
-> Than Jesus' blood and righteousness;
-> I dare not trust the sweetest frame,
+> My hope is built on nothing less \
+> Than Jesus' blood and righteousness; \
+> I dare not trust the sweetest frame, \
 > But wholly lean on Jesus' name.
 >
-> *Refrain:*
-> On Christ, the solid Rock, I stand;
-> All other ground is sinking sand,
+> *Refrain:* \
+> On Christ, the solid Rock, I stand; \
+> All other ground is sinking sand, \
 > All other ground is sinking sand.
 >
-> When darkness veils His lovely face,
-> I rest on His unchanging grace;
-> In every high and stormy gale,
+> When darkness veils His lovely face, \
+> I rest on His unchanging grace; \
+> In every high and stormy gale, \
 > My anchor holds within the veil.
 >
-> 中文意譯：
-> 我的盼望毫無根基，
-> 除了耶穌的血和公義；
-> 我不敢靠自己最美的光景，
+> 中文意譯： \
+> 我的盼望毫無根基， \
+> 除了耶穌的血和公義； \
+> 我不敢靠自己最美的光景， \
 > 只單單倚靠耶穌的名。
 >
-> 我站立在基督這磐石上；
-> 其餘一切都是流沙，
+> 我站立在基督這磐石上； \
+> 其餘一切都是流沙， \
 > 其餘一切都是流沙。
 
 ---
@@ -53,6 +57,8 @@ publisher: 三書精讀出版系統
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > ^1^如此說來，我們的祖宗亞伯拉罕憑著肉體得了甚麼呢？^2^倘若亞伯拉罕是因行為稱義，就有可誇的；只是在神面前並無可誇。**^3^經上說甚麼呢？說：「亞伯拉罕信神，這就算為他的義。」^4^做工的得工價，不算恩典，乃是該得的；^5^惟有不做工的，只信稱罪人為義的神，他的信就算為義。**
 
@@ -66,17 +72,19 @@ publisher: 三書精讀出版系統
 
 > **^23^算為他義的這句話不是單為他寫的，^24^也是為我們將來得算為義之人寫的，就是我們這信神使我們的主耶穌從死裏復活的人。^25^耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義。**
 
-### English — ESV
+### English — NASB
 
-> **^3^For what does the Scripture say? "Abraham believed God, and it was counted to him as righteousness." ^4^Now to the one who works, his wages are not counted as a gift but as his due. ^5^And to the one who does not work but believes in him who justifies the ungodly, his faith is counted as righteousness,**
+> ^1^What then shall we say that Abraham, our forefather according to the flesh, has found? ^2^For if Abraham was justified by works, he has something to boast about, but not before God. **^3^For what does the Scripture say? "ABRAHAM BELIEVED GOD, AND IT WAS CREDITED TO HIM AS RIGHTEOUSNESS." ^4^Now to the one who works, his wage is not credited as a favor, but as what is due. ^5^But to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness,**
 
-> ^9^Is this blessing then only for the circumcised, or also for the uncircumcised? For we say that faith was counted to Abraham as righteousness. ^10^How then was it counted to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised.
+> ^6^just as David also speaks of the blessing on the man to whom God credits righteousness apart from works: ^7^"BLESSED ARE THOSE WHOSE LAWLESS DEEDS HAVE BEEN FORGIVEN, AND WHOSE SINS HAVE BEEN COVERED. ^8^BLESSED IS THE MAN WHOSE SIN THE LORD WILL NOT TAKE INTO ACCOUNT."
 
-> ^17^as it is written, "I have made you the father of many nations"—in the presence of the God in whom he believed, who gives life to the dead and calls into existence the things that do not exist. ^18^In hope he believed against hope, that he should become the father of many nations, as he had been told, "So shall your offspring be." ^19^He did not weaken in faith when he considered his own body, which was as good as dead (since he was about a hundred years old), or when he considered the barrenness of Sarah's womb. ^20^No unbelief made him waver concerning the promise of God, but he grew strong in his faith as he gave glory to God, ^21^fully convinced that God was able to do what he had promised.
+> ^9^Is this blessing then on the circumcised, or on the uncircumcised also? For we say, "FAITH WAS CREDITED TO ABRAHAM AS RIGHTEOUSNESS." ^10^How then was it credited? While he was circumcised, or uncircumcised? Not while circumcised, but while uncircumcised; ^11^and he received the sign of circumcision, a seal of the righteousness of the faith which he had while uncircumcised, so that he might be the father of all who believe without being circumcised, that righteousness might be credited to them, ^12^and the father of circumcision to those who not only are of the circumcision, but who also follow in the steps of the faith of our father Abraham which he had while uncircumcised.
 
-> **^23^But the words "it was counted to him" were not written for his sake alone, ^24^but for ours also. It will be counted to us who believe in him who raised from the dead Jesus our Lord, ^25^who was delivered up for our trespasses and raised for our justification.**
+> ^13^For the promise to Abraham or to his descendants that he would be heir of the world was not through the Law, but through the righteousness of faith. ^14^For if those who are of the Law are heirs, faith is made void and the promise is nullified; ^15^for the Law brings about wrath, but where there is no law, there also is no violation. ^16^For this reason *it is* by faith, in order that *it may be* in accordance with grace, so that the promise will be guaranteed to all the descendants, not only to those who are of the Law, but also to those who are of the faith of Abraham, who is the father of us all, ^17^(as it is written, "A FATHER OF MANY NATIONS HAVE I MADE YOU") in the presence of Him whom he believed, *even* God, who gives life to the dead and calls into being that which does not exist.
 
-*（中文採和合本 CUV；撰寫時 RCUV 和合本修訂版逐節文本未能穩定取得，故改採已逐節核實之 CUV，與本系列提摩太前書01-03章相同處理方式一致。英文 ESV 已逐節透過 biblehub.com 核對。）*
+> ^18^In hope against hope he believed, so that he might become a father of many nations according to that which had been spoken, "SO SHALL YOUR DESCENDANTS BE." ^19^Without becoming weak in faith he contemplated his own body, now as good as dead since he was about a hundred years old, and the deadness of Sarah's womb; ^20^yet, with respect to the promise of God, he did not waver in unbelief but grew strong in faith, giving glory to God, ^21^and being fully assured that what God had promised, He was able also to perform. ^22^Therefore IT WAS ALSO CREDITED TO HIM AS RIGHTEOUSNESS.
+
+> **^23^Now not for his sake only was it written that it was credited to him, ^24^but for our sake also, to whom it will be credited, as those who believe in Him who raised Jesus our Lord from the dead, ^25^*He* who was delivered over because of our transgressions, and was raised because of our justification.**
 
 ---
 
@@ -129,35 +137,23 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 因信稱義不是保羅或路德的發明
+### 1. 因信稱義不是新教義，恩典的邏輯與工價的邏輯互相排斥 (4:1-8)
 
-這是全章的骨幹論證：保羅引用的不是自己的神學創見，而是創世記15:6——律法（西奈之約）頒布之前四百三十年（參加3:17）就已經記載的經文。因信稱義是神從起初一貫的救法，摩西的律法從未取代它，只是暫時性地被加在中間（加3:19）。
+保羅引用的不是自己的創見，而是創世記15:6——律法（西奈之約）頒布之前四百三十年（參加3:17）就已經記載的經文。因信稱義是神從起初一貫的救法，摩西的律法從未取代它，只是暫時性地被加在中間（加3:19）。這個救法的邏輯不能妥協：「做工的得工價，不算恩典，乃是該得的」——救恩若摻雜任何一絲「我配得」，就不再是恩典，而是交易，羅馬書11:6 用同樣的邏輯總結：「既是出於恩典，就不在乎行為；不然，恩典就不是恩典了。」保羅引用詩篇32:1-2 補強論證：大衛所描述的「有福」，不是「行為完全的人」，而是「過犯得赦免、罪惡被遮蓋、主不算為有罪的人」。這節詩篇原文使用的也是「算」(*ḥashab*，七十士譯本譯作 *logizomai*) 這個字——舊約與新約在此完全銜接：稱義的核心動作，從大衛的時代到保羅的時代，都是神「不算」人的罪、反而「算」人為義。
 
-### 2. 恩典的邏輯與工價的邏輯互相排斥
-
-「做工的得工價，不算恩典，乃是該得的」——這是一句不能妥協的邏輯：救恩若摻雜任何一絲「我配得」，就不再是恩典，而是交易。羅馬書11:6 用同樣的邏輯總結：「既是出於恩典，就不在乎行為；不然，恩典就不是恩典了。」
-
-### 3. 大衛的見證——稱義是「不算」而非「配得」（4:6-8）
-
-保羅引用詩篇32:1-2 補強論證：大衛所描述的「有福」，不是「行為完全的人」，而是「過犯得赦免、罪惡被遮蓋、主不算為有罪的人」。這節詩篇原文使用的也是「算」(*ḥashab*，七十士譯本譯作 *logizomai*) 這個字——舊約與新約在此完全銜接：稱義的核心動作，從大衛的時代到保羅的時代，都是神「不算」人的罪、反而「算」人為義。
-
-### 4. 亞伯拉罕是猶太人與外邦人共同的信心之父（4:9-12）
+### 2. 亞伯拉罕是猶太人與外邦人共同的信心之父（4:9-12）
 
 保羅用一個簡單卻致命的年代學問題拆解猶太人的割禮優越感：亞伯拉罕「幾時」被算為義？創世記15:6 的時候，還是創世記17章受割禮的時候？答案是前者——中間相隔至少十四年。割禮不是稱義的原因，只是「因信稱義的印證」(*sphragis*，印記/封印)，是後來才加添的記號。這使亞伯拉罕能同時作兩種人的父：未受割禮而信的外邦人，以及受割禮又行在信心蹤跡中的猶太人。
 
-### 5. 應許本於信，不本於律法（4:13-17）
+### 3. 應許本於信，不本於律法（4:13-17）
 
 如果承受應許的資格是「屬乎律法」，那麼信心就落空，應許也作廢——因為沒有人能完全遵行律法（羅3:20）。應許之所以能「定然」臨到「一切後裔」，正是因為它的根基是恩典而非律法表現：恩典的應許不會因人的失敗而落空，律法的承諾卻必然因人的失敗而落空。
 
-### 6. 亞伯拉罕信心的性質：望向不可能，仰望神的大能（4:18-21）
+### 4. 亞伯拉罕信心的性質，以及稱義的終極根基（4:18-25）
 
-亞伯拉罕的信心不是盲目樂觀，而是清醒地正視「身體如同已死」、「撒拉的生育已經斷絕」的事實，然後把眼光轉向那位「叫死人復活、使無變為有的神」。這信心「不軟弱」、「總沒有因不信心裏起疑惑」、「反倒因信心裏得堅固」——這幾個動詞描寫的是一個持續增長的過程，不是一次性的決志。
-
-### 7. 4:25——稱義的終極根基是基督的死而復活
-
-「耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義」——這是全章、也是全部因信稱義教義的收束句。亞伯拉罕相信一位「叫死人復活」的神，這信心的真正對象，如今顯明就是那位使耶穌從死裏復活的神。沒有復活，就沒有稱義的根基；正如哥林多前書15:17所言：「基督若沒有復活，你們的信便是徒然，你們仍在罪裏。」
+亞伯拉罕的信心不是盲目樂觀，而是清醒地正視「身體如同已死」、「撒拉的生育已經斷絕」的事實，然後把眼光轉向那位「叫死人復活、使無變為有的神」。這信心「不軟弱」、「總沒有因不信心裏起疑惑」、「反倒因信心裏得堅固」——這幾個動詞描寫的是一個持續增長的過程，不是一次性的決志。「耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義」——這是全章、也是全部因信稱義教義的收束句。亞伯拉罕相信一位「叫死人復活」的神，這信心的真正對象，如今顯明就是那位使耶穌從死裏復活的神。沒有復活，就沒有稱義的根基；正如哥林多前書15:17所言：「基督若沒有復活，你們的信便是徒然，你們仍在罪裏。」
 
 ---
 
@@ -194,32 +190,36 @@ publisher: 三書精讀出版系統
 
 > 出處：對加爾文《基督教要義》卷三第11章與《羅馬書註釋》相關論述精神的一般性歸納，非逐字引句。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**從辯詞到見證**：摩根指出，羅馬書1-3章的筆法近乎法庭辯詞——保羅像檢察官一樣，逐項列舉外邦人、猶太人的罪狀，直到3:20「凡有血氣的，沒有一個因行律法能在神面前稱義」。第4章的筆調卻整個轉變——保羅不再辯論，而是舉證：他請出猶太人最敬重的見證人亞伯拉罕與大衛，讓他們親口證明，因信稱義從來不是新教義。
+
+**亞伯拉罕作為「信心的原型」**：摩根一貫強調，保羅選擇亞伯拉罕不是隨機取例，而是因為亞伯拉罕在猶太人的自我認同裏佔據著無可取代的地位——「我們的父」。如果連這位「父」都要靠信心才蒙悅納，任何後裔靠血統、靠律法的誇口就都站立不住。摩根將這種論證方式稱為「用對手最堅固的堡壘，證明對手的立場本身站不住」。
+
+**「使無變為有」的創造性信心**：摩根特別看重4:17「叫死人復活、使無變為有的神」這句描述——這不只是亞伯拉罕個人處境的寫照（撒拉的不孕、身體的衰老），更是整本羅馬書救恩論的縮影：神的恩典從來不是修補已有的良善，而是從無到有的創造性作為，正如稱義本身不是承認人原本的義，而是神創造性地宣告、賜下本來沒有的義。
+
+> 出處：對 G. Campbell Morgan 羅馬書相關講章（含《The Analyzed Bible》系列對羅馬書因信稱義主題的論述精神）之一般性、綜合性歸納轉述，非逐字引句、無具體篇章頁碼。
+
+### 麥克阿瑟 (John MacArthur)
 
 > 「『算』(*logizomai*) 這個詞非常重要——意思是『記在某人賬上、歸算、算為』。亞伯拉罕的信被算為義——這是稱義教義的核心。」
 > — 麥克阿瑟論羅馬書4章亞伯拉罕的信（已於本書《羅馬書概覽》一章核實引用）
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 32:1-2
 
-> **得赦免其過、遮蓋其罪的，這人是有福的！**
+> **得赦免其過、遮蓋其罪的，這人是有福的！** \
 > 凡心裏沒有詭詐、耶和華不算為有罪的，這人是有福的！
 
-> **Blessed is the one whose transgression is forgiven,**
-> **whose sin is covered.**
-> Blessed is the man against whom the LORD counts no iniquity,
-> and in whose spirit there is no deceit.
+> **How blessed is he whose transgression is forgiven,** \
+> **Whose sin is covered!** \
+> How blessed is the man to whom the LORD does not impute iniquity, \
+> And in whose spirit there is no deceit!
 
 保羅在羅馬書4:7-8 直接引用這兩節，作為大衛對「因信稱義」的見證——大衛所描述的「有福」不是行為配得，而是罪被「不算」、被「遮蓋」。這與亞伯拉罕的「算為義」是同一個恩典邏輯的兩面：一面是神不將罪歸於人，一面是神將義歸給人。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### My Hope Is Built on Nothing Less
 
@@ -232,63 +232,19 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**從辯詞到見證**：摩根指出，羅馬書1-3章的筆法近乎法庭辯詞——保羅像檢察官一樣，逐項列舉外邦人、猶太人的罪狀，直到3:20「凡有血氣的，沒有一個因行律法能在神面前稱義」。第4章的筆調卻整個轉變——保羅不再辯論，而是舉證：他請出猶太人最敬重的見證人亞伯拉罕與大衛，讓他們親口證明，因信稱義從來不是新教義。
-
-**亞伯拉罕作為「信心的原型」**：摩根一貫強調，保羅選擇亞伯拉罕不是隨機取例，而是因為亞伯拉罕在猶太人的自我認同裏佔據著無可取代的地位——「我們的父」。如果連這位「父」都要靠信心才蒙悅納，任何後裔靠血統、靠律法的誇口就都站立不住。摩根將這種論證方式稱為「用對手最堅固的堡壘，證明對手的立場本身站不住」。
-
-**「使無變為有」的創造性信心**：摩根特別看重4:17「叫死人復活、使無變為有的神」這句描述——這不只是亞伯拉罕個人處境的寫照（撒拉的不孕、身體的衰老），更是整本羅馬書救恩論的縮影：神的恩典從來不是修補已有的良善，而是從無到有的創造性作為，正如稱義本身不是承認人原本的義，而是神創造性地宣告、賜下本來沒有的義。
-
-> 出處：對 G. Campbell Morgan 羅馬書相關講章（含《The Analyzed Bible》系列對羅馬書因信稱義主題的論述精神）之一般性、綜合性歸納轉述，非逐字引句、無具體篇章頁碼。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**「你們若不信摩西的書，怎能信我的話？」**（化用約5:47）——老弟兄一貫的查經根基，正落在羅馬書4章上得著最直接的印證。他常提醒：很多信徒跳過創世記直接讀福音書、書信，結果讀到「因信稱義」時只把它當作保羅個人的神學創見，卻不知道這道理早已寫在摩西五經裏——創世記15:6，比西奈山頒布律法還早了四百三十年。
-
-**「亞伯拉罕怎樣因信稱義，耶穌的赦罪才有意義」**——這是老弟兄另一句常提醒的話，正是這一章的核心。若稱義的邏輯從創世記到羅馬書都是一致的——神稱信祂的人為義，不是因為他們配得，而是因為祂的應許與恩典——那麼耶穌對罪人說「你的罪赦了」就不是憑空施恩，而是延續神從亞伯拉罕時代就已經定下的救法。反過來說，若不明白亞伯拉罕的因信稱義，就很難真正明白耶穌赦罪的權柄從何而來，也很難明白十字架為何是必要的——因為義終究要「算」在某處：算在人自己身上（人必永遠虧欠），或算在代替者身上（十字架）。
-
-**兩大國度的框架應用在亞伯拉罕身上**：老弟兄常用「塔」（巴別，高舉人名）與「壇」（亞伯拉罕，敬拜神名）的對比框架讀創世記，這個框架同樣照亮羅馬書4章——亞伯拉罕一生沒有靠自己「建造」甚麼來換取神的稱許，他所做的只是「信」與「築壇」。羅馬書4章證明了這一點在神學上的份量：稱義從不是「建塔」式的自我證明，而是「築壇」式的單純倚靠。
-
-**帶領提問**：
-- 你讀羅馬書4章之前，知道創世記15:6這節經文嗎？如果因信稱義早在西奈山頒布律法四百三十年前就已經寫在聖經裏，這對你原本以為「稱義是保羅的神學創見」的想法有甚麼衝擊？
-- 亞伯拉罕稱義的時候還沒有受割禮——如果連猶太人最看重的身份記號都不是稱義的原因，你今天倚靠的「割禮」是甚麼（宗教背景、教會資歷、事奉年日）？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*My Hope Is Built on Nothing Less*（如前「配詩」所引）
-
-> On Christ, the solid Rock, I stand;
-> All other ground is sinking sand,
-> All other ground is sinking sand.
-
-**詩篇**：詩篇32:1
-
-> 得赦免其過、遮蓋其罪的，這人是有福的！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：亞伯拉罕怎樣因信稱義，耶穌的赦罪才有意義——稱義從來不是靠工價換來的功德，而是神白白算給信祂之人的恩典。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一條從創世記直通新約書信的因信稱義主線。
+**因信稱義源流線**：創世記15:6「亞伯蘭信耶和華，耶和華就以此為他的義」是整條主線的源頭，比割禮（創17章）早，比西奈山頒布律法早四百三十年。保羅在羅馬書4章把這節經文當作全章的核心引句（4:3, 22），反覆論證：稱義的方式從亞伯拉罕到今天從未改變。老弟兄常用「塔」（巴別，高舉人名）與「壇」（亞伯拉罕，敬拜神名）的對比框架讀創世記——亞伯拉罕一生沒有靠自己「建造」甚麼來換取神的稱許，他所做的只是「信」與「築壇」；羅馬書4章證明了這一點的份量：稱義從不是「建塔」式的自我證明，而是「築壇」式的單純倚靠。
 
-**創世記15:6**——「亞伯蘭信耶和華，耶和華就以此為他的義。」這是整條主線的源頭，比割禮（創17章）早，比西奈山律法早四百三十年。
+**加拉太書呼應線**：加拉太書3:6-9「正如亞伯拉罕『信神，這就算為他的義』。所以你們要知道：那以信為本的人，就是亞伯拉罕的子孫。……以信為本的人，和有信心的亞伯拉罕一同得福。」保羅在加拉太書用幾乎同一句經文（創15:6），對付的是另一群人——想靠割禮和律法「補足」因信稱義的加拉太教會。羅馬書與加拉太書像兩支軍隊從不同方向攻打同一座城：一個駁斥猶太人靠血統與律法的誇口，一個駁斥外邦信徒被說服要靠律法「加分」的軟弱。
 
-**羅馬書4章**——保羅把這節經文當作全章的核心引句（4:3, 22），反覆論證：稱義的方式從亞伯拉罕到今天從未改變。
-
-**加拉太書3:6-9**——「正如亞伯拉罕『信神，這就算為他的義』。所以你們要知道：那以信為本的人，就是亞伯拉罕的子孫。……以信為本的人，和有信心的亞伯拉罕一同得福。」保羅在加拉太書用幾乎同一句經文（創15:6），對付的是另一群人——想靠割禮和律法「補足」因信稱義的加拉太教會。羅馬書與加拉太書像兩支軍隊從不同方向攻打同一座城：一個駁斥猶太人靠血統與律法的誇口，一個駁斥外邦信徒被說服要靠律法「加分」的軟弱。
-
-**雅各書2:21-24**——「我們的祖宗亞伯拉罕把他兒子以撒獻在壇上，豈不是因行為稱義嗎？……這樣看來，人稱義是因著行為，不是單因著信。」這節經文表面上與保羅正面衝突，但仔細讀會發現，雅各處理的是另一個問題：不是「人如何在神面前最初被稱義」（保羅的問題，答案是單靠信），而是「一個聲稱有信心卻毫無行為的人，他的信心是真是假」（雅各的問題，雅2:14-20已經鋪陳）。雅各所舉的「獻以撒」（創22章）發生在亞伯拉罕已經因信稱義（創15章）之後至少二十多年——雅各要證明的是：真信心必然結出行為的果子，獻以撒是亞伯拉罕已有之信心的「顯明」，不是他稱義的「原因」。保羅講的是稱義的根，雅各講的是生命的果；兩者不是矛盾，而是同一棵樹的不同部位。
-
-這條線給我們看見：神的救法從創世記到書信，是一條沒有斷過的線——因信稱義（源頭在創15章）、因信與律法無關（加拉太書的戰場）、真信心必有行為印證（雅各書的提醒）。三段經文合起來，才是完整的「因信稱義」教義。
+**雅各書行為印證線**：雅各書2:21-24「我們的祖宗亞伯拉罕把他兒子以撒獻在壇上，豈不是因行為稱義嗎？……這樣看來，人稱義是因著行為，不是單因著信。」這節經文表面上與保羅正面衝突，但仔細讀會發現，雅各處理的是另一個問題：不是「人如何在神面前最初被稱義」（保羅的問題，答案是單靠信），而是「一個聲稱有信心卻毫無行為的人，他的信心是真是假」（雅各的問題，雅2:14-20已經鋪陳）。雅各所舉的「獻以撒」（創22章）發生在亞伯拉罕已經因信稱義（創15章）之後至少二十多年——雅各要證明的是：真信心必然結出行為的果子，獻以撒是亞伯拉罕已有之信心的「顯明」，不是他稱義的「原因」。保羅講的是稱義的根，雅各講的是生命的果；兩者不是矛盾，而是同一棵樹的不同部位。這條線給我們看見：神的救法從創世記到書信，是一條沒有斷過的線——因信稱義（源頭在創15章）、因信與律法無關（加拉太書的戰場）、真信心必有行為印證（雅各書的提醒）。三段經文合起來，才是完整的「因信稱義」教義。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -311,17 +267,9 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 - **晚上**：今天我是否又不自覺地想先靠某種「證明」，才敢相信神真的顧念我？
 - **一個行動**：今天向一位覺得自己「不夠好」而灰心的弟兄姊妹，具體傳講「神稱不虔者為義」這句話。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：亞伯拉罕怎樣因信稱義，耶穌的赦罪才有意義——稱義從來不是靠工價換來的功德，而是神白白算給信祂之人的恩典。
-
-**貫通全經**：創世記15:6「亞伯蘭信耶和華，耶和華就以此為他的義」，比律法早四百三十年——因信稱義是神從起初一貫的救法，不是保羅或路德的發明。
-
-**無法迴避的問題**：「你今天倚靠的『割禮』是甚麼——是教會資歷、服事年日，還是『我至少比別人努力』？」
-
 > 「你們若不信摩西的書，怎能信我的話？亞伯拉罕怎樣因信稱義，耶穌的赦罪才有意義。」（前半句化用約5:47）
+
+**你看見耶穌了嗎**：整章沒有一次直接說出「耶穌」二字，直到24-25節才揭曉——亞伯拉罕所信的那位「叫死人復活、使無變為有的神」，正是「使我們的主耶穌從死裏復活」的神。亞伯拉罕仰望一個尚未存在的應許，我們仰望一個已經成就的事實：耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義。亞伯拉罕的信心望向前方，我們的信心望向十字架與空墳墓——你看見那位從未改變、始終信實的神了嗎？
 
 ---
 
@@ -329,13 +277,11 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ### 默想問題
 
-1. **我的稱義根基是甚麼？**：我是否在不自覺中，把某種「表現」（服事、道德、宗教背景）當作神悅納我的原因？
+1. **仰望復活的神**：我是否像亞伯拉罕一樣，在自己「如同已死」的處境中（人力用盡、關係破裂、事業停滯），仍仰望那位「叫死人復活」的神？
 
 2. **恩典還是工價？**：如果稱義是恩典，不是工價，我為甚麼還常常用「賺功德」的心態面對神？
 
-3. **不虔者的福分**：神「稱不虔者為義」這句話，對我而言是好消息，還是讓我不安？為甚麼？
-
-4. **仰望復活的神**：我是否像亞伯拉罕一樣，在自己「如同已死」的處境中（人力用盡、關係破裂、事業停滯），仍仰望那位「叫死人復活」的神？
+3. **保羅與雅各**：保羅在羅馬書4章與雅各在雅各書2章都討論亞伯拉罕的稱義，看似結論相反——我能否用自己的話說出，為甚麼兩者其實並不矛盾？
 
 ### 禱告回應
 
@@ -350,18 +296,18 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅為甚麼特別選擇亞伯拉罕（而不是隨便一個外邦人）作為因信稱義的例證？這個選擇的說服力在哪裏？
-
-2. 「算」(*logizomai*) 這個會計術語，如何幫助我們理解「稱義」不是道德品質的改變，而是地位的宣告？
-
-3. 恩典（*charis*）與工價（*opheilēma*）為甚麼互相排斥？如果稱義摻雜一絲行為的功勞，會產生甚麼神學後果？
-
-4. 亞伯拉罕稱義的時間（創15章）早於受割禮的時間（創17章），這個年代學上的事實，如何拆解猶太人「靠割禮誇口」的立場？
-
-5. 保羅（羅馬書4章）與雅各（雅各書2章）都討論亞伯拉罕的稱義，卻得出看似不同的結論。請整理兩者各自回答的問題是甚麼，說明他們為何不矛盾。
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 因信稱義的舊約源頭 | 4:3, 22 | 創15:6 |
+| 稱義先於割禮，先於獻以撒的忠信考驗 | 4:9-12 | 創17章、創22章 |
+| 神稱「不虔者」為義的驚人宣告 | 4:5 | 出23:7 |
+| 恩典與工價互斥的邏輯 | 4:4-5, 16 | 羅11:6 |
+| 大衛的見證：罪不被算，義被算 | 4:6-8 | 詩32:1-2 |
+| 應許本於信，不因律法；雅各書的行為印證 | 4:13-17 | 加3:6-9, 17, 19；雅2:21-24 |
+| 稱義的終極根基：基督的死而復活 | 4:24-25 | 林前15:17 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論之忠實應用、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*

@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 2:1-29
 
----
+**經文核對**：[ai-eden.com/bible/romans/2](https://www.ai-eden.com/bible/romans/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：無可推諉 Anapologētos** \
+> **全書坐標**：卷一「定罪」的中段。1章把外邦人釘在「無可推諉」的判詞下（1:20），2章用同一個字（2:1）把論斷者與擁有律法的猶太人一併帶到同一座法庭前——為3:9-20「都在罪惡之下」的總起訴書鋪路。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章只提到耶穌一次——「神藉耶穌基督審判人隱祕事的日子」（2:16）——卻是全章的樞紐。保羅拆毀的兩座人造避難所（自義的論斷者、擁有律法卻不行律法的猶太人），最終都指向同一位審判者。祂不只是審判的執行者，也是2:13「行律法的稱義」這句話唯一真正的滿足者：律法要求的是「行」，而歷史上只有一位真正「行」全了律法——正是那位將要按公義審判活人死人的耶穌基督（提後4:1）。2:29「割禮也是心裏的，在乎靈」所預告的，不是一個抽象原則，而是祂藉聖靈要在信祂之人心裏動的工（羅8:3-4；多3:5）。這一章把每一條人的路都堵死，是為了讓讀者在第三章看見：唯有基督，是律法的終結，也是律法的成全（羅10:4）。
 
@@ -20,49 +24,49 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Rock of Ages**
+> **Rock of Ages** \
 > *Augustus Toplady, 1775年首次發表*
 >
-> Rock of Ages, cleft for me,
-> Let me hide myself in Thee;
-> Let the water and the blood,
-> From Thy wounded side which flowed,
-> Be of sin the double cure,
+> Rock of Ages, cleft for me, \
+> Let me hide myself in Thee; \
+> Let the water and the blood, \
+> From Thy wounded side which flowed, \
+> Be of sin the double cure, \
 > Save from wrath and make me pure.
 >
-> 永久磐石為我開，讓我藏身在你懷；
-> 讓你所流血與水，兩面醫治我的罪：
+> 永久磐石為我開，讓我藏身在你懷； \
+> 讓你所流血與水，兩面醫治我的罪： \
 > 使我得救能脫離罪的刑罰與能力。
 
 ---
 
 ## 經文 (Scripture)
 
-*版本說明：本章寫作時，和合本修訂版 (RCUV) 原文未能穩定取得逐節核實之全文，故改用經 cnbible.com 電子文本逐節核對之現代標點和合本 (CUV)，並在此如實標明版本；英文採用 ESV，經 biblegateway.com 核實。*
-
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > **^1^你這論斷人的，無論你是誰，也無可推諉。**你在甚麼事上論斷人，就在甚麼事上定自己的罪，因你這論斷人的，自己所行卻和別人一樣。^2^我們知道這樣行的人，神必照真理審判他。^3^你這人哪，你論斷行這樣事的人，自己所行的卻和別人一樣，你以為能逃脫神的審判嗎？^4^還是你藐視他豐富的恩慈、寬容、忍耐，不曉得他的恩慈是領你悔改呢？^5^你竟任著你剛硬不悔改的心，為自己積蓄憤怒，以致神震怒，顯他公義審判的日子來到。
 
-> ^6^他必照各人的行為報應各人。^7^凡恆心行善，尋求榮耀、尊貴和不能朽壞之福的，就以永生報應他們；^8^唯有結黨、不順從真理反順從不義的，就以憤怒、惱恨報應他們。^9^將患難、困苦加給一切作惡的人，先是猶太人，後是希臘人；^10^卻將榮耀、尊貴、平安加給一切行善的人，先是猶太人，後是希臘人。**^11^因為神不偏待人。**
+> ^6^他必照各人的行為報應各人。^7^凡恆心行善，尋求榮耀、尊貴和不能朽壞之福的，就以永生報應他們；^8^惟有結黨、不順從真理反順從不義的，就以憤怒、惱恨報應他們。^9^將患難、困苦加給一切作惡的人，先是猶太人，後是希臘人；^10^卻將榮耀、尊貴、平安加給一切行善的人，先是猶太人，後是希臘人。**^11^因為神不偏待人。**
 
 > ^12^凡沒有律法犯了罪的，也必不按律法滅亡；凡在律法以下犯了罪的，也必按律法受審判。**^13^（原來在神面前，不是聽律法的為義，乃是行律法的稱義。**^14^沒有律法的外邦人，若順著本性行律法上的事，他們雖然沒有律法，自己就是自己的律法。^15^這是顯出律法的功用刻在他們心裏，他們是非之心同作見證，並且他們的思念互相較量，或以為是，或以為非。）^16^就在神藉耶穌基督審判人隱祕事的日子，照著我的福音所言。
 
 > ^17^你稱為猶太人，又倚靠律法，且指著神誇口；^18^既從律法中受了教訓，就曉得神的旨意，也能分別是非；^19^又深信自己是給瞎子領路的，是黑暗中人的光，^20^是蠢笨人的師傅，是小孩子的先生，在律法上有知識和真理的模範。^21^你既是教導別人，還不教導自己嗎？你講說人不可偷竊，自己還偷竊嗎？^22^你說人不可姦淫，自己還姦淫嗎？你厭惡偶像，自己還偷竊廟中之物嗎？^23^你指著律法誇口，自己倒犯律法玷辱神嗎？^24^神的名在外邦人中，因你們受了褻瀆，正如經上所記的。
 
-> ^25^你若是行律法的，割禮固然於你有益；若是犯律法的，你的割禮就算不得割禮。^26^所以那未受割禮的，若遵守律法的條例，他雖然未受割禮，豈不算是有割禮嗎？^27^而且那本來未受割禮的，若能全守律法，豈不是要審判你這有儀文和割禮竟犯律法的人嗎？^28^因為外面做猶太人的，不是真猶太人；外面肉身的割禮，也不是真割禮。**^29^唯有裏面做的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。**這人的稱讚不是從人來的，乃是從神來的。
+> ^25^你若是行律法的，割禮固然於你有益；若是犯律法的，你的割禮就算不得割禮。^26^所以那未受割禮的，若遵守律法的條例，他雖然未受割禮，豈不算是有割禮嗎？^27^而且那本來未受割禮的，若能全守律法，豈不是要審判你這有儀文和割禮竟犯律法的人嗎？^28^因為外面作猶太人的，不是真猶太人；外面肉身的割禮，也不是真割禮。**^29^惟有裏面作的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。**這人的稱讚不是從人來的，乃是從神來的。
 
-### English — ESV
+### English — NASB
 
-> **^1^Therefore you have no excuse, O man, every one of you who judges.** For in passing judgment on another you condemn yourself, because you, the judge, practice the very same things. ^2^We know that the judgment of God rightly falls on those who practice such things. ^3^Do you suppose, O man—you who judge those who practice such things and yet do them yourself—that you will escape the judgment of God? ^4^Or do you presume on the riches of his kindness and forbearance and patience, not knowing that God's kindness is meant to lead you to repentance? ^5^But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed.
+> **^1^Therefore you have no excuse, everyone of you who passes judgment, for in that which you judge another, you condemn yourself; for you who judge practice the same things.** ^2^And we know that the judgment of God rightly falls upon those who practice such things. ^3^But do you suppose this, O man, when you pass judgment on those who practice such things and do the same *yourself,* that you will escape the judgment of God? ^4^Or do you think lightly of the riches of His kindness and tolerance and patience, not knowing that the kindness of God leads you to repentance? ^5^But because of your stubbornness and unrepentant heart you are storing up wrath for yourself in the day of wrath and revelation of the righteous judgment of God,
 
-> ^6^He will render to each one according to his works: ^7^to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life; ^8^but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury. ^9^There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek, ^10^but glory and honor and peace for everyone who does good, the Jew first and also the Greek. **^11^For God shows no partiality.**
+> ^6^who WILL RENDER TO EACH PERSON ACCORDING TO HIS DEEDS: ^7^to those who by perseverance in doing good seek for glory and honor and immortality, eternal life; ^8^but to those who are selfishly ambitious and do not obey the truth, but obey unrighteousness, wrath and indignation. ^9^*There will be* tribulation and distress for every soul of man who does evil, of the Jew first and also of the Greek, ^10^but glory and honor and peace to everyone who does good, to the Jew first and also to the Greek. **^11^For there is no partiality with God.**
 
-> ^12^For all who have sinned without the law will also perish without the law, and all who have sinned under the law will be judged by the law. **^13^For it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified.** ^14^For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law. ^15^They show that the work of the law is written on their hearts, while their conscience also bears witness, and their conflicting thoughts accuse or even excuse them ^16^on that day when, according to my gospel, God judges the secrets of men by Christ Jesus.
+> ^12^For all who have sinned without the Law will also perish without the Law, and all who have sinned under the Law will be judged by the Law; **^13^for *it is* not the hearers of the Law *who* are just before God, but the doers of the Law will be justified.** ^14^For when Gentiles who do not have the Law do instinctively the things of the Law, these, not having the Law, are a law to themselves, ^15^in that they show the work of the Law written in their hearts, their conscience bearing witness and their thoughts alternately accusing or else defending them, ^16^on the day when, according to my gospel, God will judge the secrets of men through Christ Jesus.
 
-> ^17^But if you call yourself a Jew and rely on the law and boast in God ^18^and know his will and approve what is excellent, because you are instructed from the law; ^19^and if you are sure that you yourself are a guide to the blind, a light to those who are in darkness, ^20^an instructor of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth— ^21^you then who teach others, do you not teach yourself? While you preach against stealing, do you steal? ^22^You who say that one must not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? ^23^You who boast in the law dishonor God by breaking the law. ^24^For, as it is written, "The name of God is blasphemed among the Gentiles because of you."
+> ^17^But if you bear the name "Jew" and rely upon the Law and boast in God, ^18^and know *His* will and approve the things that are essential, being instructed out of the Law, ^19^and are confident that you yourself are a guide to the blind, a light to those who are in darkness, ^20^a corrector of the foolish, a teacher of the immature, having in the Law the embodiment of knowledge and of the truth, ^21^you, therefore, who teach another, do you not teach yourself? You who preach that one shall not steal, do you steal? ^22^You who say that one should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? ^23^You who boast in the Law, through your breaking the Law, do you dishonor God? ^24^For "THE NAME OF GOD IS BLASPHEMED AMONG THE GENTILES BECAUSE OF YOU," just as it is written.
 
-> ^25^For circumcision indeed is of value if you obey the law, but if you break the law, your circumcision becomes uncircumcision. ^26^So, if a man who is uncircumcised keeps the precepts of the law, will not his uncircumcision be regarded as circumcision? ^27^Then he who is physically uncircumcised but keeps the law will condemn you who have the written code and circumcision but break the law. ^28^For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. **^29^But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter.** His praise is not from man but from God.
+> ^25^For indeed circumcision is of value if you practice the Law; but if you are a transgressor of the Law, your circumcision has become uncircumcision. ^26^So if the uncircumcised man keeps the requirements of the Law, will not his uncircumcision be regarded as circumcision? ^27^And he who is physically uncircumcised, if he keeps the Law, will he not judge you who though having the letter *of the Law* and circumcision are a transgressor of the Law? ^28^For he is not a Jew who is one outwardly, nor is circumcision that which is outward in the flesh. **^29^But he is a Jew who is one inwardly; and circumcision is that which is of the heart, by the Spirit, not by the letter.** and his praise is not from men, but from God.
 
 ---
 
@@ -102,37 +106,29 @@ publisher: 三書精讀出版系統
 
 ### *grammati* / *pneumati* 的重量
 
-「儀文」（*gramma*，字面「字母、文字」）與「靈」（*pneuma*）在2:29只是一句話的收尾，卻是保羅日後展開的一條重要神學軸線：羅7:6「按著心靈的新樣，不按著儀文的舊樣」；林後3:6「那字句是叫人死，精意是叫人活」（*to gramma apoktennei, to de pneuma zōopoiei*）。2:29 是這條軸線第一次出現——真割禮不是刀割在肉身，而是聖靈在心裏的工作，這件事律法本身做不到，只有聖靈能做到。
+「儀文」（*gramma*，字面「字母、文字」）與「靈」（*pneuma*）在2:29只是一句話的收尾，卻是保羅日後展開的一條重要真理軸線：羅7:6「按著心靈的新樣，不按著儀文的舊樣」；林後3:6「那字句是叫人死，精意是叫人活」（*to gramma apoktennei, to de pneuma zōopoiei*）。2:29 是這條軸線第一次出現——真割禮不是刀割在肉身，而是聖靈在心裏的工作，這件事律法本身做不到，只有聖靈能做到。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 這一章在全書的位置，是要把每一條靠自己脫罪的路都堵死，好讓3:21「但如今」的恩典顯得是唯一的出路。它不是道德教訓，而是**救恩論的拆牆工程**。
 
-### 1. 審判的公義與普世性 (2:1-11)
+### 1. 審判的公義與普世性，恩慈是通向悔改的門 (2:1-11)
 
-神「照真理審判」（2:2）、「照各人的行為報應各人」（2:6）、「不偏待人」（2:11）——先是猶太人、後是希利尼人，同一個標準。這排除了「我比別人道德」的自我豁免：論斷別人的罪，恰恰證明自己知道那是罪，卻仍然去做，這使論斷者比被論斷的人更無可推諉。
+神「照真理審判」（2:2）、「照各人的行為報應各人」（2:6）、「不偏待人」（2:11）——先是猶太人、後是希利尼人，同一個標準。這排除了「我比別人道德」的自我豁免：論斷別人的罪，恰恰證明自己知道那是罪，卻仍然去做，這使論斷者比被論斷的人更無可推諉。「神的恩慈是領你悔改」（2:4）——這節經文界定了神忍耐的目的：神遲延審判不是因為祂不在意，而是留出空間讓人悔改（參彼後3:9）。把神的恩慈解讀成「祂不會真的審判我」，正是2:5「剛硬不悔改的心」的寫照。
 
-### 2. 恩慈是通向悔改的門，不是縱容的憑證 (2:4)
-
-「神的恩慈是領你悔改」——這節經文界定了神忍耐的目的。神遲延審判不是因為祂不在意，而是留出空間讓人悔改（參彼後3:9）。把神的恩慈解讀成「祂不會真的審判我」，正是2:5「剛硬不悔改的心」的寫照。
-
-### 3. 良心與心版的律法：普遍啟示定罪，卻不能救人 (2:12-16)
+### 2. 良心與心版的律法：普遍啟示定罪，卻不能救人 (2:12-16)
 
 沒有摩西律法的外邦人，「本性」裏仍有律法的功用刻在心上，良心作見證、思念彼此較量。這說明神的道德標準不是猶太人的專利，而是刻在每個人裏面的普遍見證。**但這條真理是雙刃的**：它證明外邦人「無可推諉」，卻絲毫不能提供救恩——良心能定罪，不能贖罪；它是被告席上的證人，不是辯護律師。
 
-### 4. 擁有律法而不遵行，是猶太人特有的試探 (2:17-24)
+### 3. 擁有律法而不遵行，是猶太人特有的試探 (2:17-24)
 
 2:17-20 一連串「你稱為……你倚靠……你誇口……你深信自己是……」，勾勒出一個因擁有律法、身份、知識而自信滿滿的形象。2:21-23 用三個問句戳破：你教導人不可偷竊，自己偷竊嗎？這不是說猶太人比外邦人更壞，而是指出**擁有真理的知識本身，從不能使人遵行真理**——這正是全羅馬書要處理的核心困境（參7:14-25）。2:24 引用以賽亞書52:5：「神的名在外邦人中，因你們受了褻瀆」——蒙揀選的群體若行為與所領受的啟示不符，不但不能見證神，反倒使神的名蒙羞。
 
-### 5. 真割禮是心裏的，靠聖靈，不靠儀文 (2:25-29)
+### 4. 真割禮是心裏的，靠聖靈，不靠儀文——為3章鋪路 (2:25-29)
 
-割禮若不伴隨遵行律法，「就算不得割禮」；反過來，未受割禮的人若遵行律法的實質，「豈不算是有割禮嗎」。2:28-29 把這推到極致：「外面做猶太人的，不是真猶太人……惟有裏面做的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。」這句話預告了申命記30:6「耶和華你的神必將你心裏……的汙穢除掉」與以西結書36:26-27「賜給你們肉心……將我的靈放在你們裏面」的應許——舊約早已宣告，真正的割禮從來不是刀能完成的手術，而是神自己要做的心臟移植。
-
-### 6. 為3章鋪路：定罪的完成
-
-到2章末，兩種人——不假裝有律法的外邦論斷者，和誇口有律法的猶太人——都已站在同一個審判台前，無一人能靠自己的「行」通過。3:9「並沒有義人，連一個也沒有」不是新的指控，而是1-2章論證的自然結論。誠如麥克阿瑟指出：「羅馬書的主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義」——而2章的功用，正是要讓讀者先徹底承認自己「有罪、被定罪」，恩典才能被當作恩典來領受，而不是被誤認成理所當然的獎賞。
+割禮若不伴隨遵行律法，「就算不得割禮」；反過來，未受割禮的人若遵行律法的實質，「豈不算是有割禮嗎」。2:28-29 把這推到極致：「外面做猶太人的，不是真猶太人……惟有裏面做的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。」這句話預告了申命記30:6「耶和華你的神必將你心裏……的汙穢除掉」與以西結書36:26-27「賜給你們肉心……將我的靈放在你們裏面」的應許——舊約早已宣告，真正的割禮從來不是刀能完成的手術，而是神自己要做的心臟移植。到2章末，兩種人——不假裝有律法的外邦論斷者，和誇口有律法的猶太人——都已站在同一個審判台前，無一人能靠自己的「行」通過。3:9「並沒有義人，連一個也沒有」不是新的指控，而是1-2章論證的自然結論——2章的功用，正是要讓讀者先徹底承認自己「有罪、被定罪」，恩典才能被當作恩典來領受，而不是被誤認成理所當然的獎賞。
 
 ---
 
@@ -169,64 +165,7 @@ publisher: 三書精讀出版系統
 
 > 出處：對加爾文《羅馬書註釋》處理2:6與因信稱義關係之一貫立場的一般性歸納，非逐字引句。
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-麥克阿瑟對羅馬書2章的一貫解經立場可歸納為：這一章的猶太讀者代表著歷世歷代最危險的一種屬靈狀態——不是不認識神的道德標準，而是把「認識」本身誤當成「達到」，把擁有聖經的知識誤當成擁有聖經所要求的義。這正是他對全羅馬書「神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義」這一主題句（見〈羅馬書概覽〉）在2章的具體應用。
-
-> 出處：對麥克阿瑟一貫解經立場之一般性歸納，未附具體 gty.org 講題連結或講道日期。
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 14:1-3
-
-> 愚頑人心裏說：**沒有神**。
-> 他們都是邪惡，行了可憎惡的事；
-> 沒有一個人行善。
-> 耶和華從天上垂看世人，
-> 要看有明白的沒有，有尋求神的沒有。
-> **他們都偏離正路，一同變為汙穢；**
-> **並沒有行善的，連一個也沒有。**
-
-> The fool says in his heart, **"There is no God."**
-> They are corrupt, they do abominable deeds;
-> there is none who does good.
-> The LORD looks down from heaven on the children of man,
-> to see if there are any who understand, who seek after God.
-> **They have all turned aside; together they have become corrupt;**
-> **there is none who does good, not even one.**
-
-這篇詩篇，正是保羅在羅馬書3:10-12直接引用來總結1-2章論證的經文——羅馬書2章拆毀的每一座人造避難所，最終都要落在這句判詞之下：「並沒有行善的，連一個也沒有。」
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Rock of Ages（萬古磐石）
-
-Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel Magazine*)。第二節正是羅馬書2章論證的詩歌版本：
-
-> Not the labor of my hands
-> Can fulfill Thy law's demands;
-> Could my zeal no respite know,
-> Could my tears forever flow,
-> All for sin could not atone;
-> Thou must save, and Thou alone.
->
-> 縱我雙手不罷休，不能滿足你要求；
-> 縱我眼淚永遠流，縱我熱心能持久，
-> 這些不足贖愆尤；必須你來施拯救。
-
-「縱我雙手不罷休，不能滿足你要求」——這正是羅馬書2:13「行律法的稱義」對每一位讀者的宣判：律法的要求是完全的行為，而人的行為，無論多麼虔誠、多麼持久的熱心，都達不到那個標準。Toplady 沒有停在絕望裏，第三節立刻轉向：「空空兩手無代價，單單投靠你十架」——這正是羅馬書從2章的定罪走向3章「因信稱義」的路徑。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **論證的修辭策略**：摩根對羅馬書整體論證結構的分析，一貫強調保羅在1:18-3:20 採取的是法庭式的層層逼近：先呈給讀者一份令人義憤的罪惡清單（1:18-32），再讓讀者自己踏入審判台（2:1起），最後把猶太人——最不可能被指控的一群——也帶上被告席（2:17起）。摩根認為，這種寫法的果效不在於資訊的傳遞，而在於**讓讀者自己宣判自己**：2:1的論斷者，不是被保羅定罪的，是被自己的論斷定罪的。
 
@@ -236,39 +175,66 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 > 出處：對 G. Campbell Morgan 羅馬書結構分析與一貫解經立場之一般性歸納，非逐字引句、未附具體篇章頁碼。
 
-### 老弟兄查經洞見 (The Elder's Insights)
+### 麥克阿瑟 (John MacArthur)
 
-**三個律，在2:14-15 交會**：老弟兄在查經中一貫教導「三個律：自然律、道德律、屬靈的律」的架構（此為其查經筆記中真實記錄之教導框架，見2024/5/16、2025/3/6筆記）。用這個框架讀2:14-15格外清楚：「本性行律法上的事」是**自然律**在起作用——受造界殘存的道德直覺；「律法的功用刻在他們心裏……良心作見證」是**道德律**——是非的標準，人人心裏都有；而2:29「真割禮也是心裏的，在乎靈」，是**屬靈的律**——不是人靠自然律或道德律能達到的，是聖靈親自的工作。老弟兄這個框架原本用於教牧書信的查經，這裏是將同一個真實的教導框架，忠實應用在羅馬書2章的文本上。
+麥克阿瑟對羅馬書2章的一貫解經立場可歸納為：這一章的猶太讀者代表著歷世歷代最危險的一種屬靈狀態——不是不認識神的道德標準，而是把「認識」本身誤當成「達到」，把擁有聖經的知識誤當成擁有聖經所要求的義。這正是他對全羅馬書「神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義」這一主題句（見〈羅馬書概覽〉）在2章的具體應用。
 
-**「字句叫人死，精意叫人活」直接應驗在2:29**：老弟兄最常引用的一句話——「字句叫人死，精意（聖靈）叫人活」（林後3:6）——在羅馬書2:29 第一次埋下種子：「真割禮也是心裏的，在乎靈，不在乎儀文」。老弟兄一貫用這句話提醒查經者：知道律法的字句（儀文）不能使人活；律法若沒有聖靈同工，只會定人的罪。這句話後來在羅馬書7:6 再次出現（「按著心靈的新樣，不按著儀文的舊樣」），老弟兄認為這正是羅馬書從第2章到第7章一條隱藏的軸線。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。「三個律」框架與「字句叫人死，精意叫人活」為其查經筆記中真實記載之教導內容（原用於教牧書信查經），在此忠實應用於羅馬書2章文本，非杜撰之羅馬書專屬筆記。
+> 出處：對麥克阿瑟一貫解經立場之一般性歸納，未附具體 gty.org 講題連結或講道日期。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Rock of Ages*（萬古磐石，如前「聖詩默想」所引第二節）
+### 詩篇 14:1-3
 
-> Not the labor of my hands
-> Can fulfill Thy law's demands;
+> 愚頑人心裏說：**沒有神**。 \
+> 他們都是邪惡，行了可憎惡的事； \
+> 沒有一個人行善。 \
+> 耶和華從天上垂看世人， \
+> 要看有明白的沒有，有尋求神的沒有。 \
+> **他們都偏離正路，一同變為污穢；** \
+> **並沒有行善的，連一個也沒有。**
+
+> The fool has said in his heart, **"There is no God."** \
+> They are corrupt, they have committed abominable deeds; \
+> There is no one who does good. \
+> The LORD has looked down from heaven upon the sons of men \
+> To see if there are any who understand, who seek after God. \
+> **They have all turned aside, together they have become corrupt;** \
+> **There is no one who does good, not even one.**
+
+這篇詩篇，正是保羅在羅馬書3:10-12直接引用來總結1-2章論證的經文——羅馬書2章拆毀的每一座人造避難所，最終都要落在這句判詞之下：「並沒有行善的，連一個也沒有。」
+
+### Rock of Ages（萬古磐石）
+
+Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel Magazine*)。第二節正是羅馬書2章論證的詩歌版本：
+
+> Not the labor of my hands \
+> Can fulfill Thy law's demands; \
+> Could my zeal no respite know, \
+> Could my tears forever flow, \
+> All for sin could not atone; \
 > Thou must save, and Thou alone.
+>
+> 縱我雙手不罷休，不能滿足你要求； \
+> 縱我眼淚永遠流，縱我熱心能持久， \
+> 這些不足贖愆尤；必須你來施拯救。
 
-**詩篇**：詩篇 14:3
-
-> 他們都偏離正路，一同變為汙穢；並沒有行善的，連一個也沒有。
+「縱我雙手不罷休，不能滿足你要求」——這正是羅馬書2:13「行律法的稱義」對每一位讀者的宣判：律法的要求是完全的行為，而人的行為，無論多麼虔誠、多麼持久的熱心，都達不到那個標準。Toplady 沒有停在絕望裏，第三節立刻轉向：「空空兩手無代價，單單投靠你十架」——這正是羅馬書從2章的定罪走向3章「因信稱義」的路徑。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。「三個律」框架與「字句叫人死，精意叫人活」為其查經筆記中真實記載之教導內容（原用於教牧書信查經，見2024/5/16、2025/3/6筆記），在此忠實應用於羅馬書2章文本，非杜撰之羅馬書專屬筆記。
+
+**精義一句話**：論斷別人和誇口律法，是兩種不同的自義，卻是同一條死路——神要的不是更嚴格的標準，是一顆被祂親手更換的心。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一顆心，從應許到成就。申命記30:6：「耶和華你的神必將你心裏……的汙穢除掉，好叫你盡心、盡性愛耶和華你的神。」這是律法之約末了最深的一句應許——律法本身要求割禮，卻連摩西都知道，真正需要被「割」的不是身體，是心；而那把刀，人自己拿不動。
+**新心新靈線**：申命記30:6：「耶和華你的神必將你心裏……的汙穢除掉，好叫你盡心、盡性愛耶和華你的神。」這是律法之約末了最深的一句應許——律法本身要求割禮，卻連摩西都知道，真正需要被「割」的不是身體，是心；而那把刀，人自己拿不動。以西結書36:26-27 把這應許說得更具體：「我也要賜給你們一個新心，將新靈放在你們裏面……我必將我的靈放在你們裏面，使你們順從我的律例。」新心與新靈——這是舊約盡頭指向的，正是羅馬書2:29所說「真割禮也是心裏的，在乎靈」。這條線繼續往前走，到羅馬書7:6「按著心靈的新樣，不按著儀文的舊樣」，再到哥林多後書3:6「字句是叫人死，精意是叫人活」——一條從摩西、經以西結、到保羅的完整弧線，主題只有一個：律法能寫下標準，卻不能賜下心；能寫下命令，卻不能賜下能力。唯有神自己動手，換一顆心，放進祂的靈，才能使人真正遵行。
 
-以西結書36:26-27 把這應許說得更具體：「我也要賜給你們一個新心，將新靈放在你們裏面……我必將我的靈放在你們裏面，使你們順從我的律例。」新心與新靈——這是舊約盡頭指向的，正是羅馬書2:29所說「真割禮也是心裏的，在乎靈」。保羅寫這節經文的時候，沒有發明新教義，他是在宣告：申命記30章、以西結書36章所應許的那件事，如今在信靠基督、領受聖靈的人身上正在成就。
-
-這條線繼續往前走，到羅馬書7:6「按著心靈的新樣，不按著儀文的舊樣」，再到哥林多後書3:6「字句是叫人死，精意是叫人活」——一條從摩西、經以西結、到保羅的完整弧線，主題只有一個：**律法能寫下標準，卻不能賜下心；能寫下命令，卻不能賜下能力。唯有神自己動手，換一顆心，放進祂的靈，才能使人真正遵行。**
+**三律遞進線**：老弟兄查經常用「自然律、道德律、屬靈的律」三層架構讀這一章：2:14「本性行律法上的事」是**自然律**在起作用——受造界殘存的道德直覺；2:15「律法的功用刻在他們心裏……良心作見證」是**道德律**——是非的標準，人人心裏都有；而2:29「真割禮也是心裏的，在乎靈」，是**屬靈的律**——不是人靠自然律或道德律能達到的，是聖靈親自的工作。三層遞進，最後仍舊落在同一個結論：唯有聖靈能做到自然律與道德律都做不到的事。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -289,17 +255,9 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 - **晚上**：今天我是不是靠著「我還不錯」的感覺過日子？還是誠實承認，我需要的不是修補，是換心？
 - **一個行動**：今天在一件我平常論斷別人的事上，先為自己認罪禱告，再開口。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：論斷別人和誇口律法，是兩種不同的自義，卻是同一條死路——神要的不是更嚴格的標準，是一顆被祂親手更換的心。
-
-**貫通全經**：申命記30:6神應許要割去心裏的汙穢，以西結書36:26-27應許賜下新心新靈——羅馬書2:29宣告，這應許正藉著聖靈成就在信靠基督的人身上。
-
-**無法迴避的問題**：「你有沒有一件事，是你私下譴責別人做的，自己卻正在做？」
-
 > 「字句叫人死，精意叫人活。你以為拿到了律法、懂了聖經，就已經合格了嗎？聖經說，不行——你需要的，是換一顆心。」
+
+**你看見耶穌了嗎**：全章只提到耶穌一次（2:16），卻是壓在每一句審判之言背後的那位——祂是2:13「行律法的稱義」這句話唯一真正的滿足者，是2:29「在乎靈」的割禮要藉聖靈在信祂之人心裏成就的那位。這一章把人的每一條自救之路都堵死，正是為了讓你在下一章看見：律法的終結，也是律法的成全，就是這位耶穌基督——你看見祂了嗎？
 
 ---
 
@@ -307,13 +265,11 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ### 默想問題
 
-1. **我是那個論斷者嗎？**：想一件我最近私下批評、論斷別人的事，誠實檢視：我自己有沒有做過同樣性質的事？
+1. **恩慈或縱容？**：神的忍耐，在我生命中被我當成領我悔改的恩慈，還是被我當成「反正祂不會真的審判」的藉口？
 
-2. **恩慈或縱容？**：神的忍耐，在我生命中被我當成領我悔改的恩慈，還是被我當成「反正祂不會真的審判」的藉口？
+2. **儀文還是靈？**：我的信仰操練（讀經、禱告、聚會）是外在的儀文，還是聖靈真正在我心裏動的工？
 
-3. **擁有還是遵行？**：我有哪些屬靈的「身份標籤」（教會背景、聖經知識、事奉年資）是我可能誤當成義的憑證，而不是遵行的起點？
-
-4. **儀文還是靈？**：我的信仰操練（讀經、禱告、聚會）是外在的儀文，還是聖靈真正在我心裏動的工？
+3. **良心與救恩**：2:14-15「本性行律法上的事」「良心作見證」，這對從未聽過福音的人的道德責任，說明了甚麼？這與救恩本身有何不同？
 
 ### 禱告回應
 
@@ -326,18 +282,17 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅在2:1如何把讀者從1章的「旁觀者」位置，轉為「被告」位置？這種修辭手法對今天的讀者有甚麼提醒？
-
-2. 「神的恩慈是領你悔改」（2:4）和「神必照各人的行為報應各人」（2:6），這兩句話如何同時成立而不矛盾？
-
-3. 2:14-15「本性行律法上的事」「良心作見證」，這對從未聽過福音的人的道德責任，說明了甚麼？這與救恩本身有何不同？
-
-4. 為甚麼保羅特別引用以賽亞書52:5「神的名在外邦人中，因你們受了褻瀆」？這對今天教會的見證有甚麼提醒？
-
-5. 「真割禮也是心裏的，在乎靈，不在乎儀文」（2:29），這句話如何為羅馬書3章「因信稱義」預備道路？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 無可推諉的呼應 | 2:1 | 羅1:20 |
+| 恩慈是悔改的門 | 2:4 | 彼後3:9 |
+| 儀文與靈 | 2:29 | 羅7:6、林後3:6 |
+| 心的割禮：新心新靈 | 2:29 | 申30:6、結36:26-27 |
+| 擁有律法卻虧負神的名 | 2:24 | 賽52:5 |
+| 論證匯流：普世定罪 | 2:1-29 | 羅3:9 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經洞見」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*

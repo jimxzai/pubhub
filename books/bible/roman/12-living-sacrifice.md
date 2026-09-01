@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 12:1-21
 
----
+**經文核對**：[ai-eden.com/bible/romans/12](https://www.ai-eden.com/bible/romans/12?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：活祭 Thysian Zōsan** \
+> **全書坐標**：12:1「所以」是全書五卷（定罪／稱義／成聖／揀選／活祭）的樞紐——前十一章是「定罪」「稱義」「成聖」「揀選」四卷的教義陳述，12:1-15:13「活祭」卷從這裏正式開始：蒙恩之人當如何生活。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 羅馬書十二章沒有一次直接說出耶穌的名字，但整章都是祂的形狀。「神的慈悲」（原文複數 *oiktirmōn*）正是前十一章所展開的一切：神在基督裏稱罪人為義（3-5章）、使人在基督裏向罪死、向神活（6章）、藉聖靈使人脫離定罪的轄制（8章）、又信實地保守對以色列的應許（9-11章）——這一切慈悲，都繫於一個名字：釘十字架又復活的耶穌基督。從祂的角度讀，「活祭」首先不是保羅給信徒新增的功課，而是耶穌自己已經走過的路——祂一次獻上自己為祭，成就了律法所有祭牲一生一世都做不到的事（來十10-14；羅六10「他死是向罪死了，只有一次；他活，是向神活著」）。信徒能夠獻上「活」祭，正是因為那位真正的祭物已經死而復活，不再死了。十二章9-21節那一串「不可虛假的愛」「逼迫你們的要祝福」「以善勝惡」，不是保羅發明的新道德律，而是登山寶訓裏耶穌自己教訓、又親自活到十字架上的生命——「他被罵不還口，受害不說威嚇的話」（彼前二23）。這一章追問的其實只有一件事：你所獻上的身體上，看得見耶穌的形狀嗎？
 
@@ -20,37 +24,37 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Take My Life, and Let It Be**
+> **Take My Life, and Let It Be** \
 > *Frances Ridley Havergal, 1874*
 >
-> Take my life, and let it be
-> Consecrated, Lord, to Thee;
-> Take my moments and my days,
+> Take my life, and let it be \
+> Consecrated, Lord, to Thee; \
+> Take my moments and my days, \
 > Let them flow in ceaseless praise.
 >
-> Take my hands, and let them move
-> At the impulse of Thy love;
-> Take my feet and let them be
+> Take my hands, and let them move \
+> At the impulse of Thy love; \
+> Take my feet and let them be \
 > Swift and beautiful for Thee.
 >
-> Take my voice, and let me sing
-> Always, only, for my King;
-> Take my lips, and let them be
+> Take my voice, and let me sing \
+> Always, only, for my King; \
+> Take my lips, and let them be \
 > Filled with messages from Thee.
 >
-> Take my silver and my gold;
-> Not a mite would I withhold;
-> Take my intellect, and use
+> Take my silver and my gold; \
+> Not a mite would I withhold; \
+> Take my intellect, and use \
 > Every power as Thou shalt choose.
 >
-> Take my will, and make it Thine;
-> It shall be no longer mine;
-> Take my heart, it is Thine own;
+> Take my will, and make it Thine; \
+> It shall be no longer mine; \
+> Take my heart, it is Thine own; \
 > It shall be Thy royal throne.
 >
-> Take my love; my Lord, I pour
-> At Thy feet its treasure store;
-> Take myself, and I will be
+> Take my love; my Lord, I pour \
+> At Thy feet its treasure store; \
+> Take myself, and I will be \
 > Ever, only, all for Thee.
 >
 > **中文大意**：取我一生，分別為聖，歸屬於祢；取我雙手雙腳，隨祢的愛差遣、為祢奔跑；取我口舌，只為祢的王權歌唱；取我銀錢才智，毫無保留地任祢使用；取我意志，不再屬我；取我心，作祢的寶座；取我全人所有的愛，都澆奠在祢腳前。這首詩歌逐節正是羅馬書十二章1-2節「將身體獻上，當作活祭」的生活展開——身體、雙手、雙腳、口舌、財物、才智、意志、心，一項一項獻上，正呼應12:4-8「肢體」與「恩賜」的清單。Havergal 本人記述，這首詩是在1874年2月4日夜裏，一句一句自己湧上心頭，直到以「永永遠遠、只、全為祢！」收束。
@@ -61,7 +65,7 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ＊版本說明：寫作查證時透過線上聖經資源反覆嘗試取得穩定、可信的「和合本修訂版」(RCUV) 逐節文字，未能穩定取得；為避免經文有誤，改用已多次核實、逐節查證之和合本 (CUV) 經文，並在此如實標明版本，讀者可另行以 RCUV 或其他譯本逐節核對。
+> **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > ^1^所以弟兄們，我以神的慈悲勸你們，**將身體獻上，當作活祭，是聖潔的，是神所喜悅的；你們如此事奉乃是理所當然的。**^2^**不要效法這個世界，只要心意更新而變化，叫你們察驗何為神的善良、純全、可喜悅的旨意。**
 
@@ -75,19 +79,19 @@ publisher: 三書精讀出版系統
 
 > ^19^親愛的弟兄，不要自己伸冤，寧可讓步，聽憑主怒；因為經上記著：主說：伸冤在我；我必報應。^20^所以，你的仇敵若餓了，就給他吃，若渴了，就給他喝；因為你這樣行就是把炭火堆在他的頭上。^21^你不可為惡所勝，反要以善勝惡。
 
-### English — ESV
+### English — NASB
 
-> ^1^**I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.** ^2^**Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.**
+> ^1^**Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, *which is* your spiritual service of worship.** ^2^**And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.**
 
-> ^3^For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned. ^4^For as in one body we have many members, and the members do not all have the same function, ^5^so we, though many, are one body in Christ, and individually members one of another.
+> ^3^For through the grace given to me I say to everyone among you not to think more highly of himself than he ought to think; but to think so as to have sound judgment, as God has allotted to each a measure of faith. ^4^For just as we have many members in one body and all the members do not have the same function, ^5^so we, who are many, are one body in Christ, and individually members one of another.
 
-> ^6^Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith; ^7^if service, in our serving; the one who teaches, in his teaching; ^8^the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness.
+> ^6^Since we have gifts that differ according to the grace given to us, *each of us is to exercise them accordingly:* if prophecy, according to the proportion of his faith; ^7^if service, in his serving; or he who teaches, in his teaching; ^8^or he who exhorts, in his exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.
 
-> ^9^Let love be genuine. Abhor what is evil; hold fast to what is good. ^10^Love one another with brotherly affection. Outdo one another in showing honor. ^11^Do not be slothful in zeal, be fervent in spirit, serve the Lord. ^12^Rejoice in hope, be patient in tribulation, be constant in prayer. ^13^Contribute to the needs of the saints and seek to show hospitality.
+> ^9^*Let* love *be* without hypocrisy. Abhor what is evil; cling to what is good. ^10^*Be* devoted to one another in brotherly love; give preference to one another in honor; ^11^not lagging behind in diligence, fervent in spirit, serving the Lord; ^12^rejoicing in hope, persevering in tribulation, devoted to prayer, ^13^contributing to the needs of the saints, practicing hospitality.
 
-> ^14^Bless those who persecute you; bless and do not curse them. ^15^Rejoice with those who rejoice, weep with those who weep. ^16^Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight. ^17^Repay no one evil for evil, but give thought to do what is honorable in the sight of all. ^18^If possible, so far as it depends on you, live peaceably with all.
+> ^14^Bless those who persecute you; bless and do not curse. ^15^Rejoice with those who rejoice, and weep with those who weep. ^16^Be of the same mind toward one another; do not be haughty in mind, but associate with the lowly. Do not be wise in your own estimation. ^17^Never pay back evil for evil to anyone. Respect what is right in the sight of all men. ^18^If possible, so far as it depends on you, be at peace with all men.
 
-> ^19^Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, "Vengeance is mine, I will repay, says the Lord." ^20^"If your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head." ^21^Do not be overcome by evil, but overcome evil with good.
+> ^19^Never take your own revenge, beloved, but leave room for the wrath *of God,* for it is written, "VENGEANCE IS MINE, I WILL REPAY," says the Lord. ^20^"BUT IF YOUR ENEMY IS HUNGRY, FEED HIM, AND IF HE IS THIRSTY, GIVE HIM A DRINK; FOR IN SO DOING YOU WILL HEAP BURNING COALS ON HIS HEAD." ^21^Do not be overcome by evil, but overcome evil with good.
 
 ---
 
@@ -103,7 +107,7 @@ publisher: 三書精讀出版系統
 
 ### 舊約獻祭制度作為背景
 
-十二章1節「活祭」一詞，對第一世紀懂舊約的讀者而言是一句驚人的矛盾修辭。利未記所定的燔祭、贖罪祭、平安祭，無一不是**先宰殺、後獻上**——祭牲的生命必須流出，才能成為聖潔蒙悅納的祭物。保羅卻要信徒獻上一個「活」的祭——這在舊約獻祭制度裏是不存在的類別。這個弔詭正是十二章最重要的釋經鑰匙，下文「原文研讀」與「老弟兄查經 · 深讀」的「全經連線」都會回到這一點展開。
+十二章1節「活祭」一詞，對第一世紀懂舊約的讀者而言是一句驚人的矛盾修辭。利未記所定的燔祭、贖罪祭、平安祭，無一不是**先宰殺、後獻上**——祭牲的生命必須流出，才能成為聖潔蒙悅納的祭物。保羅卻要信徒獻上一個「活」的祭——這在舊約獻祭制度裏是不存在的類別。這個弔詭正是十二章最重要的釋經鑰匙，下文「原文研讀」與「老弟兄查經」的「全經連線」都會回到這一點展開。
 
 ---
 
@@ -120,49 +124,33 @@ publisher: 三書精讀出版系統
 | χαρίσματα | *charismata* | 恩賜 | 12:6，字根 *charis*（恩典）；恩賜本身就是恩典具體化的產物，不是憑功績、靈性等級賺得的成就 |
 | ἀνυπόκριτος | *anypokritos* | 不虛假、真誠（無偽裝） | 12:9，*an*（無）+ *hypokritēs*（演員、戴面具的人）；「愛人不可虛假」是9-21節一長串命令句的統攝原則 |
 
-### *syschēmatizesthe* 與 *metamorphousthe* 的對照
+### *dynamis* 不是「炸藥」，是復活的能力——本章的呼應
 
-兩個動詞都是現在式被動語態命令句，意味著這是持續進行、而非一次完成的過程；也意味著信徒在其中不是主動的塑造者，而是被塑造者——問題只在於：任由「這世界」（*aiōn*，這個時代的風氣、價值系統）繼續模塑你，還是讓神藉著「心意更新」持續變化你。保羅沒有說「努力不要效法世界」，而是說「讓自己被變化」——被動語態提醒讀者，真正的動力來自聖靈，人的責任是不斷把自己交在這個變化的過程裏。
+*syschēmatizesthe*（效法）與 *metamorphousthe*（變化）兩個動詞都是現在式被動語態命令句，意味著這是持續進行、而非一次完成的過程；也意味著信徒在其中不是主動的塑造者，而是被塑造者——問題只在於：任由「這世界」（*aiōn*，這個時代的風氣、價值系統）繼續模塑你，還是讓神藉著「心意更新」持續變化你。保羅沒有說「努力不要效法世界」，而是說「讓自己被變化」——被動語態提醒讀者，真正的動力來自聖靈，人的責任是不斷把自己交在這個變化的過程裏。
+
+### *paradidōmi* 的呼應：任憑與獻上
+
+一章三次「神就任憑他們」(*paredōken autous ho theos*) 的動詞 *paradidōmi*，到十二章仍在背景裏迴盪：一章的「交出」是審判——神把人交給人自己選擇的深淵；十二章的「獻上」（*parastēsai*，另一個獻祭用語，「呈獻、擺上」）卻是信徒主動的回應——把身體交在神面前，作蒙悅納的活祭。同一種「交出」的姿態，方向卻完全相反：一次是被神任憑走向敗壞，一次是自己甘心獻給神。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 「所以」的重量：十一章的恩典壓成十二章的獻上
+### 1. 活祭的邏輯：從十一章的恩典到十二章合理的獻上
 
-保羅從不要求人先獻上活祭，才換取神的憐憫；他要求的獻上，是在十一章的憐憫已經全部賜下之後，才發出的「所以」。這是整本聖經倫理教導的根本結構：**恩典在先，順服在後**；順服不是換取恩典的代價，而是領受恩典之後唯一合理的回應。
+保羅從不要求人先獻上活祭，才換取神的憐憫；他要求的獻上，是在十一章的憐憫已經全部賜下之後，才發出的「所以」。這是整本聖經倫理教導的根本結構：恩典在先，順服在後；順服不是換取恩典的代價，而是領受恩典之後唯一合理的回應。舊約祭牲的生命透過死亡而流出，換取蒙悅納；保羅卻要信徒獻上一個「活」的祭——生命不是被奪走，而是被重新定向、天天獻上。這弔詭之所以能成立，唯一的原因是：耶穌已經死了那「一次」該死的死（來十10），信徒不再需要死，只需要天天活著、天天獻上。*logikēn latreian*（合理的事奉）常被譯作「理所當然的事奉」，但更貼近原文的意思是「合乎邏輯的敬拜」——你若真明白十一章所陳明神何等浩大的憐憫，把身體獻上為活祭，就不是額外加添的宗教負擔，而是唯一說得通的結論。
 
-### 2. 活祭的弔詭：一個不死的祭
+### 2. 從「模成」到「變化」：兩種改變的方向，與按恩典度量看自己
 
-舊約祭牲的生命透過死亡而流出，換取蒙悅納。保羅卻要信徒獻上一個「活」的祭——生命不是被奪走，而是被重新定向、天天獻上。這弔詭之所以能成立，唯一的原因是：耶穌已經死了那「一次」該死的死（來十10），信徒不再需要死，只需要天天活著、天天獻上。
+「效法」（*syschēmatizesthe*）描述的是外力塑造出的外形，「變化」（*metamorphousthe*）描述的是由內而外、觸及本質的轉化。世界從外面壓給你一個形狀；聖靈從裏面改變你的本質。「心意更新」（*anakainōsis tou noos*）是這轉化的機制——不是壓抑外在行為，而是重新校準判斷是非、辨別神旨意的整個思考系統，使人能「察驗」（*dokimazein*，原意用於檢驗金屬純度）何為神的善良、純全、可喜悅的旨意。12:3「不要看自己過於所當看的……照著神所分給各人信心的大小，看得合乎中道」正是這心意更新落在自我認知上的具體場景：既然信心的度量是神所「分給」的（動詞的主詞是神），一個人若自高，等於是把神給的東西誤認成自己掙來的；一個人若自卑到否定自己的恩賜，也同樣忽略了神主權的分配。真正的謙卑，是誠實承認：我所有的一切度量，都是被分給的，不是被賺得的。
 
-### 3. 「合理的事奉」：敬拜的邏輯
+### 3. 一個身體，眾恩賜：合一中的多元事奉
 
-*logikēn latreian* 常被譯作「理所當然的事奉」，但更貼近原文的意思是「合乎邏輯的敬拜」——保羅的論證有嚴密的邏輯次序：你若真明白十一章所陳明神何等浩大的憐憫，把身體獻上為活祭，就不是額外加添的宗教負擔，而是唯一說得通的結論。敬拜若與神的憐憫脫節，就成了沒有邏輯的儀式；敬拜若扎根在神的憐憫裏，就成了「理所當然」的生活方式。
+12:4-5的身體比喻與哥林多前書12章各自獨立成文，卻表達同一個真理：教會不是一群個體的集合，而是一個有機的身體，「互相聯絡作肢體」（*allēlōn melē*，字面是「彼此互為肢體」）。多元不是問題，而是身體運作的必要條件；問題只在於肢體是否記得自己屬於同一個身體。12:6-8的恩賜清單（先知講道、服事、教導、勸勉、施捨、治理、憐憫）刻意平鋪並列，沒有高低次序。每個恩賜後面都附上一個與其性質相稱的態度詞：說預言要「照著信心的程度」、施捨要「誠實」（原文有「單純、不圖回報」之意）、治理要「殷勤」、憐憫人要「甘心」——保羅關心的不只是「你有甚麼恩賜」，更是「你用甚麼心志運用它」。既然恩賜（*charismata*）源自恩典（*charis*），使用恩賜時的驕傲或勉強，都是對恩典本質的背叛。
 
-### 4. 從「模成」到「變化」：兩種改變的方向
+### 4. 「不虛假的愛」：統攝9-21節的命令，紮根舊約而非新約發明
 
-「效法」（*syschēmatizesthe*）描述的是外力塑造出的外形，「變化」（*metamorphousthe*）描述的是由內而外、觸及本質的轉化。世界從外面壓給你一個形狀；聖靈從裏面改變你的本質。「心意更新」（*anakainōsis tou noos*）是這轉化的機制——不是壓抑外在行為，而是重新校準判斷是非、辨別神旨意的整個思考系統，使人能「察驗」（*dokimazein*，原意用於檢驗金屬純度）何為神的善良、純全、可喜悅的旨意。
-
-### 5. 謙卑不是自貶，是按恩典的度量看自己
-
-12:3「不要看自己過於所當看的……照著神所分給各人信心的大小，看得合乎中道」——這節經文常被誤讀成一種道德命令：要謙虛。但保羅的邏輯根基是恩典，不是道德努力：既然信心的度量是神所「分給」的（動詞的主詞是神），一個人若自高，等於是把神給的東西誤認成自己掙來的；一個人若自卑到否定自己的恩賜，也同樣忽略了神主權的分配。真正的謙卑，是誠實承認：我所有的一切度量，都是被分給的，不是被賺得的。
-
-### 6. 一個身體，眾多肢體：合一中的多元
-
-12:4-5的身體比喻與哥林多前書12章各自獨立成文，卻表達同一個真理：教會不是一群個體的集合，而是一個有機的身體，「互相聯絡作肢體」（*allēlōn melē*，字面是「彼此互為肢體」）。多元不是問題，而是身體運作的必要條件；問題只在於肢體是否記得自己屬於同一個身體。
-
-### 7. 恩賜清單：恩典的具體化
-
-12:6-8的恩賜清單（先知講道、服事、教導、勸勉、施捨、治理、憐憫）刻意平鋪並列，沒有高低次序。每個恩賜後面都附上一個與其性質相稱的態度詞：說預言要「照著信心的程度」、施捨要「誠實」（原文有「單純、不圖回報」之意）、治理要「殷勤」、憐憫人要「甘心」——保羅關心的不只是「你有甚麼恩賜」，更是「你用甚麼心志運用它」。既然恩賜（*charismata*）源自恩典（*charis*），使用恩賜時的驕傲或勉強，都是對恩典本質的背叛。
-
-### 8. 「不虛假的愛」：統攝9-21節的一句話
-
-9-21節密集羅列近三十個命令，容易讀成一份行為清單。但9節的「愛人不可虛假」（*hē agapē anypokritos*）其實是整段的主題句——後面所有命令，都是這「不虛假的愛」在具體處境中的展開：對弟兄的愛（親熱、推讓）、對神的愛（心裏火熱、禱告恆切）、對困乏者的愛（幫補、款待）、對敵人的愛（祝福、不咒詛、以善勝惡）。不是先有一份規則手冊，再談愛；而是真愛本身自然長成這些具體的形狀。
-
-### 9. 「不可報復」：紮根舊約，而非新約發明
-
-12:19-20保羅直接引用申命記32:35「伸冤在我，我必報應」與箴言25:21-22「你的仇敵若餓了，就給他吃」。這是一個常被忽略的事實：很多人以為「愛仇敵、不可報復」是耶穌與保羅才有的「新約倫理」，用來對照「以眼還眼」的舊約——但保羅在這裏引用的，恰恰是摩西五經與智慧文學本身。禁止私人復仇、善待仇敵，從來不是新約的發明，而是刻在律法與智慧書裏的古老命令；耶穌與保羅所做的，是把這條命令從律法條文，升高為藉聖靈才能真正活出來的生命品質——「登山寶訓」不是廢掉這古老的命令，而是把它從外在規範，變成內住聖靈所結的果子。
+9-21節密集羅列近三十個命令，容易讀成一份行為清單。但9節的「愛人不可虛假」（*hē agapē anypokritos*）其實是整段的主題句——後面所有命令，都是這「不虛假的愛」在具體處境中的展開：對弟兄的愛（親熱、推讓）、對神的愛（心裏火熱、禱告恆切）、對困乏者的愛（幫補、款待）、對敵人的愛（祝福、不咒詛、以善勝惡）。不是先有一份規則手冊，再談愛；而是真愛本身自然長成這些具體的形狀。12:19-20保羅直接引用申命記32:35「伸冤在我，我必報應」與箴言25:21-22「你的仇敵若餓了，就給他吃」——很多人以為「愛仇敵、不可報復」是耶穌與保羅才有的「新約倫理」，用來對照「以眼還眼」的舊約，但保羅在這裏引用的，恰恰是摩西五經與智慧文學本身。禁止私人復仇、善待仇敵，從來不是新約的發明，而是刻在律法與智慧書裏的古老命令；耶穌與保羅所做的，是把這條命令從律法條文，升高為藉聖靈才能真正活出來的生命品質。
 
 ---
 
@@ -194,11 +182,17 @@ publisher: 三書精讀出版系統
 > 「我們不是屬自己的：因此不要以肉體的益處為我們生活的目標。我們不是屬自己的：因此盡我們所能，忘記自己和一切屬自己的。反過來說，我們是屬神的：所以讓我們為祂而活、為祂而死。我們是屬神的：所以讓祂的智慧和旨意管理我們一切的行動。我們是屬神的：所以讓我們生命的每一部分，都以祂為唯一合法的目標。」
 > — *基督教要義 (Institutes of the Christian Religion)*，卷三第7章第1節
 
-加爾文《基督教要義》論「基督徒生活的總綱：捨己」這一整章，開篇就是以羅馬書12:1為根基展開的。「我們不是屬自己的」這句反覆的宣告，正是「活祭」神學最精煉的系統化表達：獻上身體為活祭之所以可能，前提是先承認自己的所有權已經易手。
+加爾文《基督教要義》論「基督徒生活的總綱：捨己」這一整章，開篇就是以羅馬書12:1為根基展開的。「我們不是屬自己的」這句反覆的宣告，正是「活祭」最精煉的系統化表達：獻上身體為活祭之所以可能，前提是先承認自己的所有權已經易手。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根在分析羅馬書全書結構時，一貫將全信分為三大段落：**教義的**（1-8章，講明人的失喪與神的救法）、**寓意的／關乎以色列的**（9-11章，講明神對揀選之民信實的計劃）、**實踐的**（12-16章，講明蒙恩之人當如何生活）。他特別指出，十二章開頭的「所以」不是隨口的連接詞，而是全信結構上刻意設計的鉸鏈：前面十一章以陳述神的作為為主軸，這並非偶然——保羅刻意等到把神的憐憫完整陳明之後，才發出首個以福音為根基的主要倫理勸勉。摩根認為，這正是保羅寫作倫理教導一貫的方法——**先給「是甚麼」，才給「當如何」**；凡是顛倒這次序、先講行為要求、後講恩典基礎的講道，都誤解了保羅的邏輯。
+
+摩根也特別留意12:9「愛人不可虛假」在原文結構上的位置——它沒有動詞，是一句濃縮的格言式命令，直譯近似「愛：不虛假的」，摩根認為這正是保羅刻意把它放在整段命令句之首、作為統攝原則的寫作手法：後面每一項具體命令，都是回答「不虛假的愛，在這個處境裏看起來是甚麼樣子」。
+
+> 出處：G. Campbell Morgan 對羅馬書結構與教義倫理次序的一貫解經立場之綜合轉述（相關講章及注釋精神），未附具體篇章、頁碼，依本系列一貫誠實標註慣例處理。
+
+### 麥克阿瑟 (John MacArthur)
 
 > 麥克阿瑟指出，12:1「理所當然」一詞，原文含有「合乎邏輯、講得通」的意思——保羅的邏輯是：一個人若真的明白了十一章所陳明神那何等浩大、毫無保留的憐憫，把身體獻上為活祭，就是唯一合理、唯一講得通的回應，而不是外加的宗教義務；把它當作重擔的人，其實是還沒真正明白前十一章在說甚麼。
 
@@ -206,29 +200,25 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 116:12-17
 
-> **我拿甚麼報答耶和華向我所賜的一切厚恩？**
-> 我要舉起救恩的杯，稱揚耶和華的名。
-> 我要在他眾民面前向耶和華還我的願。
-> 在耶和華眼中，看聖民之死極為寶貴。
-> 耶和華啊，我真是你的僕人；我是你的僕人，是你婢女的兒子。你已經解開我的綁索。
+> **我拿甚麼報答耶和華向我所賜的一切厚恩？** \
+> 我要舉起救恩的杯，稱揚耶和華的名。 \
+> 我要在他眾民面前向耶和華還我的願。 \
+> 在耶和華眼中，看聖民之死極為寶貴。 \
+> 耶和華啊，我真是你的僕人；我是你的僕人，是你婢女的兒子。你已經解開我的綁索。 \
 > **我要以感謝為祭獻給你，又要求告耶和華的名。**
 
-> **What shall I render to the Lord for all his benefits to me?**
-> I will lift up the cup of salvation and call on the name of the Lord.
-> I will pay my vows to the Lord in the presence of all his people.
-> Precious in the sight of the Lord is the death of his saints.
-> O Lord, I am your servant; I am your servant, the son of your maidservant. You have loosed my bonds.
-> **I will offer to you the sacrifice of thanksgiving and call on the name of the Lord.**
+> **What shall I render to the LORD For all His benefits toward me?** \
+> I shall lift up the cup of salvation And call upon the name of the LORD. \
+> I shall pay my vows to the LORD, Oh *may it be* in the presence of all His people. \
+> Precious in the sight of the LORD Is the death of His godly ones. \
+> O LORD, surely I am Your servant, I am Your servant, the son of Your handmaid, You have loosed my bonds. \
+> **To You I shall offer a sacrifice of thanksgiving, And call upon the name of the LORD.**
 
 詩人的問題「我拿甚麼報答耶和華」，正是羅馬書12:1要回答的問題。詩篇的答案是「感謝為祭」；保羅把這答案推到極致：不只是言語的感謝，而是整個身體——時間、恩賜、關係、每一天——都成為那份「感謝之祭」。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### Take My Life, and Let It Be
 
@@ -248,46 +238,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：本書寫作查證時，老弟兄原始查經筆記檔案（`Logos_meditation/church/Thursday.md`，2024-2025年Thursday查經班逐條記錄）中並無羅馬書十二章的逐節記載。以下「老弟兄查經」內容，是以老弟兄查經方法論與領受框架撰寫，忠實應用於羅馬書十二章而成，非逐字引用他的歷史原始記錄。
 
-摩根在分析羅馬書全書結構時，一貫將全信分為三大段落：**教義的**（1-8章，講明人的失喪與神的救法）、**寓意的／關乎以色列的**（9-11章，講明神對揀選之民信實的計劃）、**實踐的**（12-16章，講明蒙恩之人當如何生活）。他特別指出，十二章開頭的「所以」不是隨口的連接詞，而是全信結構上刻意設計的鉸鏈：前面十一章以陳述神的作為為主軸，這並非偶然——保羅刻意等到把神的憐憫完整陳明之後，才發出首個以福音為根基的主要倫理勸勉。摩根認為，這正是保羅寫作倫理教導一貫的方法——**先給「是甚麼」，才給「當如何」**；凡是顛倒這次序、先講行為要求、後講恩典基礎的講道，都誤解了保羅的邏輯。
-
-摩根也特別留意12:9「愛人不可虛假」在原文結構上的位置——它沒有動詞，是一句濃縮的格言式命令，直譯近似「愛：不虛假的」，摩根認為這正是保羅刻意把它放在整段命令句之首、作為統攝原則的寫作手法：後面每一項具體命令，都是回答「不虛假的愛，在這個處境裏看起來是甚麼樣子」。
-
-> 出處：G. Campbell Morgan 對羅馬書結構與教義倫理次序的一貫解經立場之綜合轉述（相關講章及注釋精神），未附具體篇章、頁碼，依本系列一貫誠實標註慣例處理。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**每日的活祭**：老弟兄帶查經時，最常落腳的一句實踐提醒是——「每天早上起床，把當天的主權交給神」，他稱之為「每日的活祭」。這不是他對羅馬書逐節查經留下的文字紀錄（本書寫作查證時，老弟兄原始查經筆記檔案 `Logos_meditation/church/Thursday.md` 中並無羅馬書十二章的逐節記載），而是他一貫查經方法論與神學框架中反覆出現的核心操練，與12:1「將身體獻上，當作活祭」在精神上完全對應——他常提醒：活祭不是教會裏一週一次的宗教行為，是每天早上、具體到今天要做的每一個決定裏的主權交託。
-
-**讀報紙看股票，就知道怎麼讀聖經**：老弟兄另一句常提醒的話——「看弟兄們怎麼讀報紙（看股票），就知道他們怎麼讀聖經了」——直指12:2「不要效法這個世界」最貼身的檢驗方式：一個人如果每天花在市場行情、新聞資訊上的專注與焦慮，遠超過花在神話語上的專注，他的心意早已被這個世界「模成」了某種形狀，卻自以為只是「關心時事」。老弟兄一貫強調：注意力本身是一門生意（Attention is a business），互聯網把人的注意力賣給了出價最高的人；問題不是要不要看新聞，而是——你今天的心思，被誰模成了？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Take My Life, and Let It Be*（如前「配詩」所引，首節）
-
-> Take my life, and let it be
-> Consecrated, Lord, to Thee;
-> Take my moments and my days,
-> Let them flow in ceaseless praise.
-
-**詩篇**：詩篇 116:12, 17
-
-> 我拿甚麼報答耶和華向我所賜的一切厚恩？……我要以感謝為祭獻給你。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：活祭不是一週一次的宗教行為，是每天早上把身體、時間、主權交給神——因為那位真正該死的，已經替你死了那「一次」。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：從「必死的祭」到「活祭」的完成。利未記所定的燔祭、贖罪祭，祭牲必先流血而死，才能被神悅納（利一3-9）；亞伯拉罕在摩利亞山上獻以撒，那隻代替以撒而死的公羊（創22:13），是舊約裏最接近「以生命換生命」的畫面，但那頭羊仍舊是「必死的祭」。希伯來書十章說得清楚：「因為公牛和山羊的血，斷不能除罪」（來十4），一切舊約的祭都在等一個真正能除罪、卻不必年年重複獻上的祭——「祂只一次獻上自己，就把這事成全了」（來七27）。正因為耶穌已經死了那「一次」該死的死，向罪只死了一次（羅六10），信徒才有可能獻上一個「活」的祭——不是替代性地流血而死，而是天天將已經與基督同死同活的身體，重新獻上。這條線再往前延伸到彼得前書2:5：「你們……作聖潔的祭司，藉著耶穌基督奉獻神所悅納的靈祭」——活祭不是羅馬書孤立的意象，而是整本新約對舊約獻祭制度共同的成全宣告。
+**「必死的祭」線**：利未記所定的燔祭、贖罪祭，祭牲必先流血而死，才能被神悅納（利一3-9）；亞伯拉罕在摩利亞山上獻以撒，那隻代替以撒而死的公羊（創22:13），是舊約裏最接近「以生命換生命」的畫面，但那頭羊仍舊是「必死的祭」。希伯來書說得清楚：「因為公牛和山羊的血，斷不能除罪」（來十4）——一切舊約的祭都在等一個真正能除罪、卻不必年年重複獻上的祭：「祂只一次獻上自己，就把這事成全了」（來七27）。
+
+**「活祭」的完成線**：正因為耶穌已經死了那「一次」該死的死，向罪只死了一次（羅六10），信徒才有可能獻上一個「活」的祭——不是替代性地流血而死，而是天天將已經與基督同死同活的身體，重新獻上。這條線再往前延伸到彼得前書2:5：「你們……作聖潔的祭司，藉著耶穌基督奉獻神所悅納的靈祭」——活祭不是羅馬書孤立的意象，而是整本新約對舊約獻祭制度共同的成全宣告。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -308,17 +269,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我心裏的焦慮與注意力，多半被甚麼模成了？是神的話，還是新聞與行情？
 - **一個行動**：今天在一件具體的人際衝突裏，選擇「不以惡報惡」，主動為那讓你受傷的人求一件實在的好處。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：活祭不是一週一次的宗教行為，是每天早上把身體、時間、主權交給神——因為那位真正該死的，已經替你死了那「一次」。
-
-**貫通全經**：舊約的祭牲必先流血而死才能蒙悅納（利一3-9）；基督一次獻上自己，把這事永遠成全了（來十10-14）——你能獻上「活」祭，是因為祂已經獻上了那「死」的祭。
-
-**無法迴避的問題**：「你今天早上，有沒有把身體、時間、財富，當作活祭獻上？還是只把『信耶穌』留在星期天？」
-
 > 「字句叫人死，精義叫人活。活祭不是修規條修出來的，是天天把主權交出去，聖靈才能天天更新你的心意。」
+
+**你看見耶穌了嗎**：羅馬書十二章沒有一次直接說出耶穌的名字，但祂一次獻上自己為祭，成就了律法所有祭牲一生一世都做不到的事——你能獻上活祭，是因為那真正的祭物已經死而復活，不再死了。9-21節那一串「不可虛假的愛」，正是祂自己在十字架上已經活出的生命：「他被罵不還口，受害不說威嚇的話」。你所獻上的身體上，看得見耶穌的形狀嗎？
 
 ---
 
@@ -328,11 +281,9 @@ publisher: 三書精讀出版系統
 
 1. **活祭是甚麼**：我對「將身體獻上，當作活祭」的理解，是一次性的決志，還是每天具體的交託？今天早上，我把哪一部分的自己留在了自己手裏？
 
-2. **效法還是變化**：這一週有哪個具體處境，讓我發現自己是被「這個世界」的價值觀模成的，而不是被神的話更新的？
+2. **恩賜與謙卑**：我對自己的恩賜，是自高自誇，還是自貶埋沒？如果恩賜是「按著神所分給的信心大小」，我今天可以怎樣更誠實地看待自己？
 
-3. **恩賜與謙卑**：我對自己的恩賜，是自高自誇，還是自貶埋沒？如果恩賜是「按著神所分給的信心大小」，我今天可以怎樣更誠實地看待自己？
-
-4. **不虛假的愛**：12:9-21列出的種種命令中，哪一項是我這週最難做到的（例如：為逼迫我的人祝福、不以惡報惡）？這件事上，我看見耶穌怎樣活出這個命令？
+3. **不虛假的愛**：12:9-21列出的種種命令中，哪一項是我這週最難做到的（例如：為逼迫我的人祝福、不以惡報惡）？這件事上，我看見耶穌怎樣活出這個命令？
 
 ### 禱告回應
 
@@ -345,18 +296,14 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 12:1的「所以」連接著前面十一章的甚麼內容？為甚麼保羅要等到這裏才發出首個以福音為根基的主要倫理勸勉？
-
-2. 「活祭」這個詞在舊約獻祭制度裏為甚麼是矛盾修辭？這個矛盾如何因基督的死而成立？
-
-3. 「效法」（*syschēmatizesthe*）與「變化」（*metamorphousthe*）有甚麼不同？這兩個詞的被動語態，對「誰是改變的動力來源」有甚麼提示？
-
-4. 12:3「不要看自己過於所當看的」與「照著神所分給各人信心的大小」有甚麼邏輯關係？這如何重新定義「謙卑」？
-
-5. 12:19-20引用申命記32:35與箴言25:21-22，說明「不可報復、善待仇敵」的教導其實紮根在舊約。這如何改變你對「新舊約倫理對比」的理解？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 從必死的祭到活祭的完成 | 12:1 | 利1:3-9、創22:13、來7:27、來10:4、羅6:10、彼前2:5 |
+| 一個身體，眾恩賜（合一中的多元） | 12:4-8 | 林前12章 |
+| 不可報復：根植舊約律法與智慧書 | 12:19-20 | 申32:35、箴25:21-22 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論與神學框架、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論與領受框架、John MacArthur (gty.org)、G. Campbell Morgan*

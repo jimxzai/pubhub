@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 13:1-14
 
----
+**經文核對**：[ai-eden.com/bible/romans/13](https://www.ai-eden.com/bible/romans/13?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：律法的總結 Plērōma Nomou** \
+> **全書坐標**：13:1-14上承12章活祭的邏輯，在「活祭」卷（12:1-15:13）中把獻祭具體化到公民生活；13:8-10「愛是律法的總結」回答羅馬書七章「我所願意的善，我不做」的絕望，也呼應8:2「聖靈的律……釋放了我」。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 保羅在這一章沒有直接提耶穌的名字，然而整章的重量都壓在祂身上。「凡掌權的都是神所命的」——這句話能站立得住，是因為在萬有之上，還有一位「萬王之王，萬主之主」（提前6:15），凱撒的權柄不過是暫時的、有限的、受託的；真正配得無條件順服的，只有那位「一切權柄都賜給我了」的基督（太28:18）。而全章的高峰在13:14：「總要披戴主耶穌基督」——這不是一句勸勉的裝飾語，是保羅在12:1「將身體獻上，當作活祭」之後，把獻祭具體化到每一個清晨：你今天穿上的，是誰？是律法要求卻無力成全的規條，還是那位已經成全了律法、如今要活在你裏面的主耶穌基督？愛人如己，只有在祂裏面才不是苛求，而是「披戴」上一位已經完全活出這愛的主。
 
@@ -20,35 +24,35 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Soldiers of Christ, Arise**
+> **Soldiers of Christ, Arise** \
 > *Charles Wesley, 1749*
 >
-> Soldiers of Christ, arise,
-> And put your armor on,
-> Strong in the strength which God supplies
-> Through His eternal Son;
-> Strong in the Lord of hosts,
-> And in His mighty power,
-> Who in the strength of Jesus trusts
+> Soldiers of Christ, arise, \
+> And put your armor on, \
+> Strong in the strength which God supplies \
+> Through His eternal Son; \
+> Strong in the Lord of hosts, \
+> And in His mighty power, \
+> Who in the strength of Jesus trusts \
 > Is more than conqueror.
 >
-> Stand then in His great might,
-> With all His strength endued;
-> But take, to arm you for the fight,
-> The panoply of God;
-> That, having all things done,
-> And all your conflicts passed,
-> Ye may o'ercome through Christ alone,
+> Stand then in His great might, \
+> With all His strength endued; \
+> But take, to arm you for the fight, \
+> The panoply of God; \
+> That, having all things done, \
+> And all your conflicts passed, \
+> Ye may o'ercome through Christ alone, \
 > And stand entire at last.
 >
-> （中文意譯，非正式聖詩譯本）
-> 基督精兵，起來披甲，
-> 靠主賜下的大能剛強；
-> 萬軍之主的能力在你裏面，
-> 倚靠耶穌者必然得勝有餘。
-> 站立在祂大能之中，
-> 披戴神所賜的全副軍裝；
-> 直到爭戰過去，一切成全，
+> （中文意譯，非正式聖詩譯本） \
+> 基督精兵，起來披甲， \
+> 靠主賜下的大能剛強； \
+> 萬軍之主的能力在你裏面， \
+> 倚靠耶穌者必然得勝有餘。 \
+> 站立在祂大能之中， \
+> 披戴神所賜的全副軍裝； \
+> 直到爭戰過去，一切成全， \
 > 惟靠基督，站立到底。
 
 ---
@@ -57,29 +61,29 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
+
 > ^1^在上有權柄的，人人當順服他，因為沒有權柄不是出於神的，凡掌權的都是神所命的。^2^所以，抗拒掌權的就是抗拒神的命，抗拒的必自取刑罰。
 
-> ^3^做官的原不是叫行善的懼怕，乃是叫作惡的懼怕。你願意不懼怕掌權的嗎？你只要行善，就可得他的稱讚；^4^因為他是神的用人，是於你有益的。你若作惡，卻當懼怕；因為他不是空空地佩劍，他是神的用人，是申冤的，刑罰那作惡的。^5^所以你們必須順服，不但是因為刑罰，也是因為良心。
+> ^3^作官的原不是叫行善的懼怕，乃是叫作惡的懼怕。你願意不懼怕掌權的嗎？你只要行善，就可得他的稱讚；^4^因為他是神的用人，是於你有益的。你若作惡，卻當懼怕；因為他不是空空地佩劍，他是神的用人，是申冤的，刑罰那作惡的。^5^所以你們必須順服，不但是因為刑罰，也是因為良心。
 
 > ^6^你們納糧也為這個緣故，因他們是神的差役，常常特管這事。^7^凡人所當得的，就給他：當得糧的，給他納糧；當得稅的，給他上稅；當懼怕的，懼怕他；當恭敬的，恭敬他。
 
-> ^8^**凡事都不可虧欠人，唯有彼此相愛，要常以為虧欠。因為愛人的，就完全了律法。**^9^**像那「不可姦淫，不可殺人，不可偷盜，不可貪婪」，或有別的誡命，都包在「愛人如己」這一句話之內了。**^10^**愛是不加害於人的，所以愛就完全了律法。**
+> ^8^**凡事都不可虧欠人，惟有彼此相愛，要常以為虧欠。因為愛人的，就完全了律法。**^9^**像那「不可姦淫，不可殺人，不可偷盜，不可貪婪」，或有別的誡命，都包在「愛人如己」這一句話之內了。**^10^**愛是不加害於人的，所以愛就完全了律法。**
 
 > ^11^再者，你們曉得，現今就是該趁早睡醒的時候，因為我們得救，現今比初信的時候更近了。^12^黑夜已深，白晝將近，我們就當脫去暗昧的行為，帶上光明的兵器。^13^行事為人要端正，好像行在白晝。不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒。^14^**總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com 逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> ^1^Every person is to be in subjection to the governing authorities. For there is no authority except from God, and those which exist are established by God. ^2^Therefore whoever resists authority has opposed the ordinance of God; and they who have opposed will receive condemnation upon themselves.
 
-> ^1^Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. ^2^Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment.
+> ^3^For rulers are not a cause of fear for good behavior, but for evil. Do you want to have no fear of authority? Do what is good and you will have praise from the same; ^4^for it is a minister of God to you for good. But if you do what is evil, be afraid; for it does not bear the sword for nothing; for it is a minister of God, an avenger who brings wrath on the one who practices evil. ^5^Therefore it is necessary to be in subjection, not only because of wrath, but also for conscience' sake.
 
-> ^3^For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval, ^4^for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God's wrath on the wrongdoer. ^5^Therefore one must be in subjection, not only to avoid God's wrath but also for the sake of conscience.
+> ^6^For because of this you also pay taxes, for *rulers* are servants of God, devoting themselves to this very thing. ^7^Render to all what is due them: tax to whom tax *is due;* custom to whom custom; fear to whom fear; honor to whom honor.
 
-> ^6^For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing. ^7^Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
+> ^8^**Owe nothing to anyone except to love one another; for he who loves his neighbor has fulfilled *the* law.** ^9^**For this, "YOU SHALL NOT COMMIT ADULTERY, YOU SHALL NOT MURDER, YOU SHALL NOT STEAL, YOU SHALL NOT COVET," and if there is any other commandment, it is summed up in this saying, "YOU SHALL LOVE YOUR NEIGHBOR AS YOURSELF."** ^10^**Love does no wrong to a neighbor; therefore love is the fulfillment of *the* law.**
 
-> ^8^**Owe no one anything, except to love each other, for the one who loves another has fulfilled the law.** ^9^**For the commandments, "You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet," and any other commandment, are summed up in this word: "You shall love your neighbor as yourself."** ^10^**Love does no wrong to a neighbor; therefore love is the fulfilling of the law.**
-
-> ^11^Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed. ^12^The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light. ^13^Let us walk properly as in the daytime, not in orgies and drunkenness, not in sexual immorality and sensuality, not in quarreling and jealousy. ^14^**But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.**
+> ^11^*Do* this, knowing the time, that it is already the hour for you to awaken from sleep; for now salvation is nearer to us than when we believed. ^12^The night is almost gone, and the day is near. Therefore let us lay aside the deeds of darkness and put on the armor of light. ^13^Let us behave properly as in the day, not in carousing and drunkenness, not in sexual promiscuity and sensuality, not in strife and jealousy. ^14^**But put on the Lord Jesus Christ, and make no provision for the flesh in regard to *its* lusts.**
 
 ---
 
@@ -125,29 +129,25 @@ publisher: 三書精讀出版系統
 
 ### *diakonos* 與 *leitourgos* 的驚人並置
 
-保羅在13:4稱掌權者為神的「用人」（*diakonos*），13:6又稱之為「差役」（*leitourgos*）——兩個字都是教會服事語彙（執事、事奉）。這不是修辭上的美化，而是神學上的宣告：連不認識神、甚至逼迫教會的羅馬帝國官員，在神主權的安排下，也在扮演一個「服事」的角色——正如以賽亞書45:1稱波斯王古列為神的「受膏者」，儘管古列「不認識」耶和華。政權的權柄不是自有的，是被賦予、被使用的。
+保羅在13:4稱掌權者為神的「用人」（*diakonos*），13:6又稱之為「差役」（*leitourgos*）——兩個字都是教會服事語彙（執事、事奉）。這不是修辭上的美化，而是真理上的宣告：連不認識神、甚至逼迫教會的羅馬帝國官員，在神主權的安排下，也在扮演一個「服事」的角色——正如以賽亞書45:1稱波斯王古列為神的「受膏者」，儘管古列「不認識」耶和華。政權的權柄不是自有的，是被賦予、被使用的。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 政權的神聖起源與其有限性 (Divine Origin and Its Limits)
+### 1. 政權的神聖起源、其有限性，與作為普遍恩典的器皿
 
-「沒有權柄不是出於神的」——這不是為某個具體政府背書，而是宣告「秩序本身」出於神，對抗無政府的混亂（參創9:6神設立死刑背後的秩序原則）。但起源於神，不等於每一項作為都蒙神認可；正如婚姻起源於神，不代表每樁婚姻的每個決定都合神心意。
+「沒有權柄不是出於神的」——這不是為某個具體政府背書，而是宣告「秩序本身」出於神，對抗無政府的混亂（參創9:6神設立死刑背後的秩序原則）。但起源於神，不等於每一項作為都蒙神認可；正如婚姻起源於神，不代表每樁婚姻的每個決定都合神心意。13:3-4描繪的是一個功能性的圖像：秩序良善時，行善者不必懼怕；作惡者才需懼怕。這正是加爾文後來在《基督教要義》中反覆強調的——政權存在的價值，是攔阻這個墮落世界滑向徹底的暴力與混亂，讓福音有安穩的土壤可以傳揚。
 
-### 2. 政權作為普遍恩典的器皿 (Common Grace Restraining Evil)
-
-13:3-4描繪的是一個功能性的圖像：秩序良善時，行善者不必懼怕；作惡者才需懼怕。這正是加爾文後來在《基督教要義》中反覆強調的——政權存在的價值，是攔阻這個墮落世界滑向徹底的暴力與混亂，讓福音有安穩的土壤可以傳揚。
-
-### 3. 順服的雙重根基：懼怕與良心 (13:5)
+### 2. 順服的雙重根基：懼怕與良心 (13:5)
 
 保羅特意加上「不但是因為刑罰，也是因為良心」——如果順服只出於怕受罰，那是奴僕的心；良心的順服，是因為明白這是神所喜悅的秩序，即使沒有人監督也如此行。這與12:1-2「心意更新而變化」一脈相承：外在行為的改變若沒有內裏良心的更新，終究只是懼怕的表演。
 
-### 4. 愛是律法的總結——回答第7章的難題 (13:8-10)
+### 3. 愛是律法的總結——回答第7章的難題 (13:8-10)
 
-這是全章的神學樞紐。羅馬書7章描繪了一個絕望的處境：「我所願意的善，我不做；我所不願意的惡，我反倒去做」（7:19）——律法本身是聖潔的，卻無力使人真正行出聖潔。8章給出答案：「聖靈的律……釋放了我」（8:2）。13:8-10正是把這個答案落實到最具體的倫理場景：不是靠更嚴格地遵守字句去成全律法，而是靠著愛——那被聖靈澆灌在心裏的愛（5:5「神的愛……藉著所賜給我們的聖靈，已經澆灌在我們心裏」）——去成全律法真正的意圖。保羅引用利未記19:18「愛人如己」，宣告一切具體誡命（不姦淫、不殺人、不偷盜、不貪婪）都被這一句話「總括」（*anakephalaioutai*，原文有「濃縮到一個標題底下」之意）。律法沒有被廢棄，是被成全了——用一種律法本身無法產生、卻正是律法所渴望的方式。
+這是全章的樞紐。羅馬書7章描繪了一個絕望的處境：「我所願意的善，我不做；我所不願意的惡，我反倒去做」（7:19）——律法本身是聖潔的，卻無力使人真正行出聖潔。8章給出答案：「聖靈的律……釋放了我」（8:2）。13:8-10正是把這個答案落實到最具體的倫理場景：不是靠更嚴格地遵守字句去成全律法，而是靠著愛——那被聖靈澆灌在心裏的愛（5:5「神的愛……藉著所賜給我們的聖靈，已經澆灌在我們心裏」）——去成全律法真正的意圖。保羅引用利未記19:18「愛人如己」，宣告一切具體誡命（不姦淫、不殺人、不偷盜、不貪婪）都被這一句話「總括」（*anakephalaioutai*，原文有「濃縮到一個標題底下」之意）。律法沒有被廢棄，是被成全了——用一種律法本身無法產生、卻正是律法所渴望的方式。
 
-### 5. 末世的迫切與每日的披戴 (13:11-14)
+### 4. 末世的迫切與每日的披戴 (13:11-14)
 
 「黑夜已深，白晝將近」——不是說世界正在變好，而是說信徒與末後榮耀之間的距離，比初信那天更近了。這迫切感不是催逼恐慌，而是催逼清醒：既然屬乎白晝，就不該再穿夜裏的衣服。13:14的「披戴基督」呼應加拉太書3:27受洗那日一次性的「披戴基督」——保羅要羅馬的讀者明白，那一次性的身分，需要每一天重新活出來，成為每天早晨具體的抉擇：今天，我要為滿足肉體私慾定計劃，還是披戴基督？
 
@@ -182,13 +182,21 @@ publisher: 三書精讀出版系統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》第四卷第二十章專論「公民政府」，肯定政權出於神的設立、應受尊重，但同時清楚劃出界線：當地上的掌權者「悖逆神、興起敵擋神」時，順服神必須優先於順服人——他引用使徒行傳5:29作結。加爾文的立場正是本章「背景」一節所強調的張力的經典神學表述：政權的權柄是被賦予的、有從屬性的，不是絕對的。
+加爾文在《基督教要義》第四卷第二十章專論「公民政府」，肯定政權出於神的設立、應受尊重，但同時清楚劃出界線：當地上的掌權者「悖逆神、興起敵擋神」時，順服神必須優先於順服人——他引用使徒行傳5:29作結。加爾文的立場正是本章「背景」一節所強調的張力的經典表述：政權的權柄是被賦予的、有從屬性的，不是絕對的。
 
 > 以上為加爾文《基督教要義》第四卷第二十章一貫論述精神之綜合轉述，非逐字引句。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**從活祭到市場與稅單**：摩根一貫強調羅馬書的結構轉折——1-11章是教義（神所成就的），12-15章是倫理（信徒當如何回應）。13章正是這個轉折最具體的落地：12:1的「活祭」若只停留在主日崇拜的情感裏，就還沒有真正獻上；活祭必須延伸到納稅單、延伸到面對掌權者時的態度、延伸到與鄰舍的日常往來。真正的敬拜，是連稅務誠實都算在內的敬拜。
+
+**「神的用人」與以賽亞書的古列**：摩根常將13:4「神的用人」與以賽亞書45:1神稱波斯王古列為「我的受膏者」並讀——古列「不認識」耶和華（賽45:4），卻被神使用成就祂的計劃。這說明政權的權柄從不依賴掌權者自己是否認識神；神主權的安排超越掌權者本人的信仰狀態，這既是安慰（歷史不失控），也是警醒（無人可僭越神的主權）。
+
+**律法與愛的辯證**：摩根指出，13:8-10不是要廢掉十誡的具體誡命，而是指出誡命背後那唯一的動機源頭——愛若真實存在，姦淫、殺人、偷盜、貪婪這些行為根本無從發生；律法是外在的圍欄，愛是內在的泉源，圍欄本是為了還沒有泉源的人而設的。
+
+> 以上為G. Campbell Morgan對羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述，非逐字引句、未附具體講題或頁碼。
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟一貫指出，羅馬書13章教導的政權觀，是神在墮落世界中維持公共秩序、抑制罪惡蔓延的普遍恩典安排；信徒對政權的順服，出於對神主權安排的信靠，而非對任何具體政權的政治認同——當政權的要求與神的命令直接衝突時，「順從神勝於順從人」的原則始終優先。
 
@@ -196,33 +204,29 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 72:1-4
 
-> 神啊，求你將判斷的權柄賜給王，
-> 將公義賜給王的兒子。
-> 他要按公義審判你的民，
-> 按公平審判你的困苦人。
-> 大山小山，都要因公義使民得享平安。
-> 他必為民中的困苦人申冤，
+> 神啊，求你將判斷的權柄賜給王， \
+> 將公義賜給王的兒子。 \
+> 他要按公義審判你的民， \
+> 按公平審判你的困苦人。 \
+> 大山小山，都要因公義使民得享平安。 \
+> 他必為民中的困苦人申冤， \
 > 拯救窮乏之輩，壓碎那欺壓人的。
 
-> Give the king your justice, O God,
-> and your righteousness to the royal son!
-> May he judge your people with righteousness,
-> and your poor with justice!
-> Let the mountains bear prosperity for the people,
-> and the hills, in righteousness!
-> May he defend the cause of the poor of the people,
-> give deliverance to the children of the needy,
-> and crush the oppressor!
+> Give the king Your judgments, O God, \
+> And Your righteousness to the king's son. \
+> May he judge Your people with righteousness \
+> And Your afflicted with justice. \
+> Let the mountains bring peace to the people, \
+> And the hills, in righteousness. \
+> May he vindicate the afflicted of the people, \
+> Save the children of the needy \
+> And crush the oppressor.
 
 這篇所羅門所作的禱告詞，為地上君王祈求神自己的公義——這正是羅馬書13章教導的另一面：政權若真正扮演神所託付的角色，理當為困苦人伸冤，而非壓迫他們。當政權背離這呼召，詩篇72篇提醒我們該為掌權者禱告甚麼，而不是絕望地放棄「掌權者也當屬神」的盼望。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### Soldiers of Christ, Arise
 
@@ -239,52 +243,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**從活祭到市場與稅單**：摩根一貫強調羅馬書的結構轉折——1-11章是教義（神所成就的），12-15章是倫理（信徒當如何回應）。13章正是這個轉折最具體的落地：12:1的「活祭」若只停留在主日崇拜的情感裏，就還沒有真正獻上；活祭必須延伸到納稅單、延伸到面對掌權者時的態度、延伸到與鄰舍的日常往來。真正的敬拜，是連稅務誠實都算在內的敬拜。
-
-**「神的用人」與以賽亞書的古列**：摩根常將13:4「神的用人」與以賽亞書45:1神稱波斯王古列為「我的受膏者」並讀——古列「不認識」耶和華（賽45:4），卻被神使用成就祂的計劃。這說明政權的權柄從不依賴掌權者自己是否認識神；神主權的安排超越掌權者本人的信仰狀態，這既是安慰（歷史不失控），也是警醒（無人可僭越神的主權）。
-
-**律法與愛的辯證**：摩根指出，13:8-10不是要廢掉十誡的具體誡命，而是指出誡命背後那唯一的動機源頭——愛若真實存在，姦淫、殺人、偷盜、貪婪這些行為根本無從發生；律法是外在的圍欄，愛是內在的泉源，圍欄本是為了還沒有泉源的人而設的。
-
-> 以上為G. Campbell Morgan對羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述，非逐字引句、未附具體講題或頁碼。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**找主句：13:8是這整段的樞紐**：老弟兄慣常的查經方法，是先問「這一段拿掉哪一句話，其餘的就站不住？」在羅馬書13章，這句話是第8節：「愛人的，就完全了律法。」13:1-7講順服政權，是愛鄰舍、維護群體秩序的具體實踐之一；13:9-10講不姦淫、不殺人、不偷盜、不貪婪，是愛鄰舍在十誡上的具體展開；13:11-14講披戴基督、脫離暗昧，是愛得以真實發生的能力來源。三段看似不同的主題，其實都被第8節這一句話串起來。
-
-**字句叫人死，精義叫人活**：老弟兄常說，聖經懂得很多、規條守得再嚴的人，往往是最容易自高的人——因為字句本身無法產生生命，只能定人的罪（參林後3:6）。13:9把十誡中「不可」開頭的具體誡命一一列出，卻立刻說這一切「都包在『愛人如己』這一句話之內了」——這正是「精義」高於「字句」的活生生範例：不是廢掉十誡，是找到十誡真正指向的那個活的源頭。一個真正愛鄰舍的人，根本不需要被告誡「不可姦淫、不可殺人」，因為愛已經先一步排除了這些可能。
-
-**兩大國度框架下重讀13:1**：老弟兄一貫用「巴比倫（塔，高舉人名）vs 亞伯拉罕（壇，敬拜神名）」的框架看整本聖經的歷史。用這個框架重讀13:1「在上有權柄的，人人當順服他」，就更清楚保羅在說甚麼：地上的政權，正常情況下屬於神所設立、用以維持秩序的「壇」的延伸——不是自己封神的「塔」。當某個政權要求的，不再是維持公共秩序，而是要求人像敬拜神一樣敬拜它（如尼布甲尼撒的金像、如任何要求「順我者昌」的極權崇拜），它就從神所設立的「壇」變質成了自我高舉的「塔」——這時彼得在使徒行傳5:29的宣告才顯出它真正的份量：「我們必須順從神，勝於順從人。」
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Soldiers of Christ, Arise*（基督精兵，起來披甲，如前「配詩」所引）
-
-> Soldiers of Christ, arise,
-> And put your armor on,
-> Strong in the strength which God supplies
-> Through His eternal Son.
-
-**詩篇**：詩篇 72:1
-
-> 神啊，求你將判斷的權柄賜給王，將公義賜給王的兒子。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：地上的權柄若真是神所立的秩序（壇），值得你正常的順服；若變質成要求你敬拜它的自我高舉（塔），你要記得彼得的話——但無論哪一種光景，你真正欠鄰舍的，只有一筆永遠還不清、也不該想還清的債：愛。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一句誡命，貫穿三約。利未記19:18「不可報仇，也不可埋怨你本國的子民，卻要愛鄰如己」，是摩西律法中一句容易被忽略的誡命；耶穌在馬太福音22:37-40被問「律法上的誡命，哪一條是最大的」時，把這句話與申命記6:5「盡心、盡性、盡意愛主你的神」並列，宣告「這兩條誡命是律法和先知一切道理的總綱」；保羅在羅馬書13:9-10再次引用利未記19:18，作為十誡具體條文的「總括」。從摩西到耶穌到保羅，這句話沒有被取代，是被不斷確認為律法的核心。
+**「愛鄰如己」總綱線**：利未記19:18「不可報仇，也不可埋怨你本國的子民，卻要愛鄰如己」，是摩西律法中一句容易被忽略的誡命；耶穌在馬太福音22:37-40被問「律法上的誡命，哪一條是最大的」時，把這句話與申命記6:5「盡心、盡性、盡意愛主你的神」並列，宣告「這兩條誡命是律法和先知一切道理的總綱」；保羅在羅馬書13:9-10再次引用利未記19:18，作為十誡具體條文的「總括」。從摩西到耶穌到保羅，這句話沒有被取代，是被不斷確認為律法的核心。
 
-再往下一條線：加拉太書3:27「你們受洗歸入基督的都是披戴基督了」，是受洗那一天一次性宣告的身分；羅馬書13:14「總要披戴基督」，用的是同一個希臘動詞（*endyō*），此處為不定過去式（aorist）中間語態的命令（ἐνδύσασθε）——在13:11-14「該趁早睡醒」的清晨脈絡裏，呼召已經受洗、已經披戴過基督的人，把那一次領受的身分重新穿上、天天活出來。受洗是一次的，披戴是每天的。
+**「披戴基督」線**：加拉太書3:27「你們受洗歸入基督的都是披戴基督了」，是受洗那一天一次性宣告的身分；羅馬書13:14「總要披戴基督」，用的是同一個希臘動詞（*endyō*），此處為不定過去式（aorist）中間語態的命令（ἐνδύσασθε）——在13:11-14「該趁早睡醒」的清晨脈絡裏，呼召已經受洗、已經披戴過基督的人，把那一次領受的身分重新穿上、天天活出來。受洗是一次的，披戴是每天的。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -297,7 +266,7 @@ publisher: 三書精讀出版系統
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天「在上有權柄的」，不再只是可以申訴、可以問責的官員——越來越多決定人日常命運的「掌權者」，是一套外人看不懂、也無從對話的演算法：貸款是否核准、履歷是否被人看見、貼文是否被下架，都可能由一個黑箱模型判定。保羅描述的掌權者，本該是「做官的原不是叫行善的懼怕，乃是叫作惡的懼怕……他不是空空地佩劍……是申冤的，刑罰那作惡的」（13:3-4）——一個以看得見的公義為運作邏輯、原則上可以被追問「你憑甚麼」的秩序。演算法式的「掌權」卻常相反：判準是黑箱的，你不知道自己被甚麼標準論斷，也無處喊冤。
+今天「在上有權柄的」，不再只是可以申訴、可以問責的官員——越來越多決定人日常命運的「掌權者」，是一套外人看不懂、也無從對話的演算法：貸款是否核准、履歷是否被人看見、貼文是否被下架，都可能由一個黑箱模型判定。保羅描述的掌權者，本該是「作官的原不是叫行善的懼怕，乃是叫作惡的懼怕……他不是空空地佩劍……是申冤的，刑罰那作惡的」（13:3-4）——一個以看得見的公義為運作邏輯、原則上可以被追問「你憑甚麼」的秩序。演算法式的「掌權」卻常相反：判準是黑箱的，你不知道自己被甚麼標準論斷，也無處喊冤。
 
 這不是說教會可以拿這一點當作不順服的藉口——13:1「在上有權柄的，人人當順服他」的教導沒有廢去；而是提醒教會：當「掌權者」從有血有肉、原則上可被問責的官員，變成連「行善行惡」都說不清楚的系統，13章教導的「順服」，需要格外清醒地分辨兩件事——秩序本身出於神，與執行秩序者是否仍配得「神的用人」之名，不能混為一談。
 
@@ -307,17 +276,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天在對掌權者（政府、上司、平台）的態度上，我的順服出於懼怕，還是出於清潔的良心？
 - **一個行動**：今天具體地向一位鄰舍還一筆「愛的債」——不是道德義務式的還債，是主動去做一件他需要、你原可以不做的事。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：地上的權柄若真是神所立的秩序（壇），值得你正常的順服；若變質成要求你敬拜它的自我高舉（塔），你要記得彼得的話——但無論哪一種光景，你真正欠鄰舍的，只有一筆永遠還不清、也不該想還清的債：愛。
-
-**貫通全經**：利未記19:18的「愛鄰如己」，耶穌宣告為律法和先知的總綱（太22:37-40），保羅在羅馬書13:9-10再次確認——一句誡命，貫穿摩西、基督、使徒。
-
-**無法迴避的問題**：「你今天早上『穿上』的，是基督，還是滿足肉體私慾的計劃？」
-
 > 「字句叫人死，精義叫人活。十誡列出『不可』的清單，是為了那還沒有愛的人；有了愛，清單自然成全，不是廢掉。」
+
+**你看見耶穌了嗎**：保羅在這一章沒有直接提耶穌的名字，然而全章的重量都壓在祂身上——「凡掌權的都是神所命的」能站立得住，是因為那位「一切權柄都賜給我了」的基督，才是真正配得無條件順服的萬王之王。13:14「總要披戴主耶穌基督」，是保羅把12:1「將身體獻上，當作活祭」具體化到每一個清晨：你今天穿上的，是誰？愛人如己，只有在祂裏面才不是苛求，而是披戴上一位已經完全活出這愛的主。你看見祂了嗎？
 
 ---
 
@@ -330,8 +291,6 @@ publisher: 三書精讀出版系統
 2. **我虧欠鄰舍的債**：13:8說唯一該欠、且永遠還不完的債是愛。我這週有沒有一筆「愛的債」還沒還——一通該打的電話、一個該饒恕的人、一件該主動去做的事？
 
 3. **字句還是精義**：我遵守的誡命，是出於外在規條的懼怕，還是出於裏面那被聖靈澆灌的愛（5:5）自然流出的結果？
-
-4. **每天的披戴**：13:14要我「總要」披戴基督——不是一次的宗教經歷，是每天的抉擇。我今天早晨，有沒有具體地把主權交給祂？
 
 ### 禱告回應
 
@@ -346,18 +305,16 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 「凡掌權的都是神所命的」（13:1）與「我們必須順從神，勝於順從人」（徒5:29）如何同時成立？請結合但以理書3、6章與出埃及記1章的例子說明。
-
-2. 保羅稱掌權者為神的「用人」（*diakonos*，13:4）與「差役」（*leitourgos*，13:6），這兩個字在教會裏另有甚麼用途？這個用字選擇對我們看待「屬世職分」有甚麼提醒？
-
-3. 13:8-10如何回答羅馬書7章「我所願意的善，我不做」的絕望？愛與聖靈的工作（8章）之間有甚麼關係？
-
-4. 奧古斯丁在花園裏聽見「拿起來，讀」，翻開的正是羅馬書13:13-14。為甚麼這段經文——而不是別的經文——能在那一刻擊碎他多年的猶豫？
-
-5. 「披戴基督」（13:14）與受洗時的「披戴基督」（加3:27）用的是同一個動詞。這對「重生後仍要每天披戴」提醒了甚麼？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 政權的合法性與其界限：順服神優先於順服人 | 13:1, 13:5 | 徒5:29、但3章、但6章、出1:15-21 |
+| 「愛鄰如己」總綱：貫穿摩西、基督、使徒 | 13:9-10 | 利19:18、太22:37-40 |
+| 披戴基督：受洗一次性的身分，天天活出 | 13:14 | 加3:27、弗6:11 |
+| 政權作為神的用人：與波斯王古列的類比 | 13:4, 13:6 | 賽45:1、賽45:4 |
+| 愛是律法的總結，回答羅馬書七章的絕望 | 13:8-10 | 羅7:19、羅8:2、羅5:5 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論與神學框架、John MacArthur (gty.org)、G. Campbell Morgan——本章老弟兄部分為查經方法論之忠實應用，非逐字歷史引句，詳見正文「出處」說明。*
+*本章研讀整合三方資源：老弟兄查經方法論與領受框架、John MacArthur (gty.org)、G. Campbell Morgan——本章老弟兄部分為查經方法論之忠實應用，非逐字歷史引句，詳見正文「出處」說明。*

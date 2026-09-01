@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 3:1-31
 
----
+**經文核對**：[ai-eden.com/bible/romans/3](https://www.ai-eden.com/bible/romans/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：神的義 Dikaiosynē Theou** \
+> **全書坐標**：卷一「定罪」的收束，也是全書的轉折點。3:9-20 用一連串舊約引文把起訴書寫到最後一句「沒有義人，連一個也沒有」；3:21「但如今」一轉，卷二「因信稱義」就此開始——挽回祭是這段的重心。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章的每一句話，最終都指向十字架上的一個人。保羅先花二十節經文把全人類——猶太人和外邦人——一起釘死在神公義的法庭前：「沒有義人，連一個也沒有」；然後在第21節，一個轉折詞「但如今」（希臘文 *nyni de*）劈開了全部的黑暗。神的義「在律法以外」顯明出來，不是靠人做到了甚麼，而是靠一個人：神設立耶穌，「作挽回祭」（*hilastērion*，3:25）。這個詞，七十士譯本用來翻譯利未記16章約櫃上那塊「施恩座」——大祭司一年一次，帶著贖罪祭牲的血，灑在那裏，使神的怒氣止息、神與百姓相會之處。保羅說：耶穌基督自己，就是那施恩座。祂的血，就是那使神公義的怒氣得到滿足、又使罪人得以坦然無懼來到神面前的血。羅馬書3:21-26不是一段教義綱要，是站在至聖所裏，看見那真正的施恩座——不是金子做的，是被釘的。
 
@@ -20,21 +24,21 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **And Can It Be**
+> **And Can It Be** \
 > *Charles Wesley, 1738*
 >
-> And can it be that I should gain
-> An interest in the Savior's blood?
-> Died He for me, who caused His pain?
-> For me, who Him to death pursued?
-> Amazing love! How can it be
+> And can it be that I should gain \
+> An interest in the Savior's blood? \
+> Died He for me, who caused His pain? \
+> For me, who Him to death pursued? \
+> Amazing love! How can it be \
 > That Thou, my God, shouldst die for me?
 >
-> No condemnation now I dread;
-> Jesus, and all in Him, is mine!
-> Alive in Him, my living Head,
-> And clothed in righteousness divine,
-> Bold I approach th' eternal throne,
+> No condemnation now I dread; \
+> Jesus, and all in Him, is mine! \
+> Alive in Him, my living Head, \
+> And clothed in righteousness divine, \
+> Bold I approach th' eternal throne, \
 > And claim the crown, through Christ my own.
 
 ---
@@ -42,6 +46,8 @@ publisher: 三書精讀出版系統
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > ^1^這樣說來，猶太人有甚麼長處？割禮有甚麼益處呢？^2^凡事大有好處：第一是神的聖言交託他們。^3^即便有不信的，這有何妨呢？難道他們的不信就廢掉神的信麼？^4^斷乎不能！不如說，神是真實的，人都是虛謊的。如經上所記：「你責備人的時候，顯為公義；被人議論的時候，可以得勝。」
 
@@ -55,33 +61,27 @@ publisher: 三書精讀出版系統
 
 > ^27^既是這樣，那裏能誇口呢？沒有可誇的了。用何法沒有的呢？是用立功之法麼？不是，乃用信主之法。^28^所以我們看定了：人稱義是因著信，不在乎遵行律法。^29^難道神只作猶太人的神麼？不也是作外邦人的神麼？是的，也作外邦人的神。^30^神既是一位，他就要因信稱那受割禮的為義，也要因信稱那未受割禮的為義。^31^這樣，我們因信廢了律法麼？斷乎不是！更是堅固律法。
 
-*（本章中文經文引用和合本 CUV；寫作時 RCUV 和合本修訂版經核對線上來源未能穩定逐節取得，故如實改用已核實之 CUV，特此標明，讀者可另以和合本修訂版紙本或穩定電子版核對。）*
+### English — NASB
 
-### English — ESV
+> ^1^Then what advantage has the Jew? Or what is the benefit of circumcision? ^2^Great in every respect. First of all, that they were entrusted with the oracles of God. ^3^What then? If some did not believe, their unbelief will not nullify the faithfulness of God, will it? ^4^May it never be! Rather, let God be found true, though every man *be found* a liar, as it is written, "THAT YOU MAY BE JUSTIFIED IN YOUR WORDS, AND PREVAIL WHEN YOU ARE JUDGED."
 
-> ^1^Then what advantage has the Jew? Or what is the value of circumcision? ^2^Much in every way. To begin with, the Jews were entrusted with the oracles of God. ^3^What if some were unfaithful? Does their faithlessness nullify the faithfulness of God? ^4^By no means! Let God be true though every one were a liar, as it is written, "That you may be justified in your words, and prevail when you are judged."
+> ^5^But if our unrighteousness demonstrates the righteousness of God, what shall we say? The God who inflicts wrath is not unrighteous, is He? (I am speaking in human terms.) ^6^May it never be! For otherwise, how will God judge the world? ^7^But if through my lie the truth of God abounded to His glory, why am I also still being judged as a sinner? ^8^And why not *say* (as we are slanderously reported and as some claim that we say), "Let us do evil that good may come"? Their condemnation is just.
 
-> ^5^But if our unrighteousness serves to show the righteousness of God, what shall we say? That God is unrighteous to inflict wrath on us? (I speak in a human way.) ^6^By no means! For then how could God judge the world? ^7^But if through my lie God's truth abounds to his glory, why am I still being condemned as a sinner? ^8^And why not do evil that good may come?—as some people slanderously charge us with saying. Their condemnation is just.
+> ^9^What then? Are we better than they? Not at all; for we have already charged that both Jews and Greeks are all under sin; ^10^as it is written, "THERE IS NONE RIGHTEOUS, NOT EVEN ONE; ^11^THERE IS NONE WHO UNDERSTANDS, THERE IS NONE WHO SEEKS FOR GOD; ^12^ALL HAVE TURNED ASIDE, TOGETHER THEY HAVE BECOME USELESS; THERE IS NONE WHO DOES GOOD, THERE IS NOT EVEN ONE." ^13^"THEIR THROAT IS AN OPEN GRAVE, WITH THEIR TONGUES THEY KEEP DECEIVING," "THE POISON OF ASPS IS UNDER THEIR LIPS"; ^14^"WHOSE MOUTH IS FULL OF CURSING AND BITTERNESS"; ^15^"THEIR FEET ARE SWIFT TO SHED BLOOD, ^16^DESTRUCTION AND MISERY ARE IN THEIR PATHS, ^17^AND THE PATH OF PEACE THEY HAVE NOT KNOWN." ^18^"THERE IS NO FEAR OF GOD BEFORE THEIR EYES."
 
-> ^9^What then? Are we Jews any better off? No, not at all. For we have already charged that all, both Jews and Greeks, are under sin, ^10^as it is written: "None is righteous, no, not one; ^11^no one understands; no one seeks for God. ^12^All have turned aside; together they have become worthless; no one does good, not even one." ^13^"Their throat is an open grave; they use their tongues to deceive." "The venom of asps is under their lips." ^14^"Their mouth is full of curses and bitterness." ^15^"Their feet are swift to shed blood; ^16^in their paths are ruin and misery, ^17^and the way of peace they have not known." ^18^"There is no fear of God before their eyes."
+> ^19^Now we know that whatever the Law says, it speaks to those who are under the Law, so that every mouth may be closed and all the world may become accountable to God; ^20^because by the works of the Law no flesh will be justified in His sight; for through the Law *comes* the knowledge of sin.
 
-> ^19^Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God. ^20^For by works of the law no human being will be justified in his sight, since through the law comes knowledge of sin.
+> **^21^But now apart from the Law *the* righteousness of God has been manifested, being witnessed by the Law and the Prophets, ^22^even *the* righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction; ^23^for all have sinned and fall short of the glory of God, ^24^being justified as a gift by His grace through the redemption which is in Christ Jesus; ^25^whom God displayed publicly as a propitiation in His blood through faith. *This was* to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; ^26^for the demonstration, *I say,* of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus.**
 
-> **^21^But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it— ^22^the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: ^23^for all have sinned and fall short of the glory of God, ^24^and are justified by his grace as a gift, through the redemption that is in Christ Jesus, ^25^whom God put forward as a propitiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins. ^26^It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus.**
-
-> ^27^Then what becomes of our boasting? It is excluded. By what kind of law? By a law of works? No, but by the law of faith. ^28^For we hold that one is justified by faith apart from works of the law. ^29^Or is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also, ^30^since God is one—who will justify the circumcised by faith and the uncircumcised through faith. ^31^Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law.
+> ^27^Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. ^28^For we maintain that a man is justified by faith apart from works of the Law. ^29^Or is God *the God* of Jews only? Is He not *the God* of Gentiles also? Yes, of Gentiles also, ^30^since indeed God who will justify the circumcised by faith and the uncircumcised through faith is one. ^31^Do we then nullify the Law through faith? May it never be! On the contrary, we establish the Law.
 
 ---
 
 ## 背景 (Context)
 
-### 保羅剛剛做了甚麼
+### 保羅剛剛做了甚麼，猶太人的長處也是真實的恩典
 
-第1-3章是一場精心佈局的法庭戲。1:18-32保羅定外邦人的罪——他們有神藉著受造之物顯明的普遍啟示，卻拜受造之物，不拜造物主。2:1-29保羅轉身定猶太人的罪——他們有律法、有割禮，卻論斷別人所犯的，自己也照樣犯。到了3章開頭，保羅預料讀者會問：那猶太人豈不是白白領受了神特別的恩寵？3:1-8正是處理這個「異議」——保羅用四組一問一答（διατριβή，古代修辭學的「假想對話」文體）逐一擋開讀者可能提出的抗辯，最後把矛頭轉回：不，猶太人也一樣在罪惡之下。
-
-### 「猶太人有甚麼長處」不是修辭性的貶低
-
-保羅立刻肯定：「凡事大有好處：第一是神的聖言交託他們」（3:2）。以色列蒙揀選、領受律法與應許，這是真實的恩典，不是虛話。保羅絕不是說猶太人的身分毫無意義——他是說，這身分不能替代因信稱義。特權不等於免罪牌。
+第1-3章是一場精心佈局的法庭戲。1:18-32保羅定外邦人的罪——他們有神藉著受造之物顯明的普遍啟示，卻拜受造之物，不拜造物主。2:1-29保羅轉身定猶太人的罪——他們有律法、有割禮，卻論斷別人所犯的，自己也照樣犯。到了3章開頭，保羅預料讀者會問：那猶太人豈不是白白領受了神特別的恩寵？3:1-8正是處理這個「異議」——保羅用四組一問一答（διατριβή，古代修辭學的「假想對話」文體）逐一擋開讀者可能提出的抗辯，最後把矛頭轉回：不，猶太人也一樣在罪惡之下。保羅立刻肯定：「凡事大有好處：第一是神的聖言交託他們」（3:2）。以色列蒙揀選、領受律法與應許，這是真實的恩典，不是虛話。保羅絕不是說猶太人的身分毫無意義——他是說，這身分不能替代因信稱義。特權不等於免罪牌。
 
 ### 一份法庭起訴書：3:9-20 的舊約引文串
 
@@ -140,11 +140,11 @@ publisher: 三書精讀出版系統
 
 ### *hilastērion*（挽回祭／施恩座）——本章最深的一個詞
 
-這是整段經文神學份量最重的字。它在七十士譯本（希臘文舊約）裏，固定用來翻譯利未記16章約櫃蓋上那塊「施恩座」（*kapporeth*）——大祭司每年贖罪日一次，把贖罪祭牲的血灑在其上，使神與百姓相會、神的公義與百姓的罪之間得著遮蓋與挽回。保羅用同一個詞說：神設立耶穌作 *hilastērion*。意思是：以色列人一年一度、間接地、透過動物的血才能靠近的那個地方，如今在耶穌基督身上，一次永遠地、直接地成就了。祂不只是獻祭者，祂自己就是那施恩座——神的公義在此得著滿足，神的憐憫也在此向罪人敞開。這是「挽回」（propitiation，止息神公義的怒氣）而非僅僅「除罪」（expiation，除去罪本身）——兩層意義保羅在此都涵蓋了，但 *hilastērion* 這個詞的舊約背景，把重點鎖定在「神與人相會之處」。
+這是整段經文份量最重的字。它在七十士譯本（希臘文舊約）裏，固定用來翻譯利未記16章約櫃蓋上那塊「施恩座」（*kapporeth*）——大祭司每年贖罪日一次，把贖罪祭牲的血灑在其上，使神與百姓相會、神的公義與百姓的罪之間得著遮蓋與挽回。保羅用同一個詞說：神設立耶穌作 *hilastērion*。意思是：以色列人一年一度、間接地、透過動物的血才能靠近的那個地方，如今在耶穌基督身上，一次永遠地、直接地成就了。祂不只是獻祭者，祂自己就是那施恩座——神的公義在此得著滿足，神的憐憫也在此向罪人敞開。這是「挽回」（propitiation，止息神公義的怒氣）而非僅僅「除罪」（expiation，除去罪本身）——兩層意義保羅在此都涵蓋了，但 *hilastērion* 這個詞的舊約背景，把重點鎖定在「神與人相會之處」。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 普世的定罪，沒有例外
 
@@ -163,13 +163,9 @@ publisher: 三書精讀出版系統
 
 3:25-26兩次出現「顯明他的義」。這是本章最深刻的一點：神若只赦免罪而不處理罪的刑罰，祂就不再公義（祂縱容了罪）；神若只按公義審判而不施憐憫，人就無一得救。十字架同時做到兩件事——神在耶穌身上執行了公義所要求的刑罰，又藉此向凡信靠祂的人施出憐憫。這就是3:26的驚人結語：神「自己為義，也稱信耶穌的人為義」——祂沒有犧牲祂的公義來換取祂的慈愛，兩者在十字架上同時成就。
 
-### 4. 因信稱義排除一切誇口
+### 4. 因信稱義排除一切誇口，也堅固律法
 
-3:27「誇口……用何法沒有的呢？是用立功之法麼？不是，乃用信主之法。」如果稱義有任何一部分依靠人的行為，人就有理由誇口——「我比別人做得好」。但因信稱義從根本上排除了這個可能，因為信心本身不是一種「功勞」，而是空手領受禮物的姿態。這正是宗教改革「唯獨信心」（*sola fide*）教義最直接的聖經根基——羅馬書3:21-26，加上3:28「人稱義是因著信，不在乎遵行律法」，是這條教義歷史上被引用最多的經文之一。
-
-### 5. 「不廢掉律法，更是堅固律法」
-
-3:31常被忽略卻極重要：因信稱義不但沒有廢掉律法，反而「堅固」（*histēmi*，使之站立得住）了律法。律法對罪的控告是真實的、必須被正視的——十字架正是神認真對待律法要求的地方：律法要求的刑罰，在基督身上被執行了；律法要求的義，藉著信被歸算給信的人。因信稱義不是繞過律法的門路，是律法終於得著滿足的地方。
+3:27「誇口……用何法沒有的呢？是用立功之法麼？不是，乃用信主之法。」如果稱義有任何一部分依靠人的行為，人就有理由誇口——「我比別人做得好」。但因信稱義從根本上排除了這個可能，因為信心本身不是一種「功勞」，而是空手領受禮物的姿態。這正是宗教改革「唯獨信心」（*sola fide*）教義最直接的聖經根基——羅馬書3:21-26，加上3:28「人稱義是因著信，不在乎遵行律法」，是這條教義歷史上被引用最多的經文之一。3:31常被忽略卻極重要：因信稱義不但沒有廢掉律法，反而「堅固」（*histēmi*，使之站立得住）了律法。律法對罪的控告是真實的、必須被正視的——十字架正是神認真對待律法要求的地方：律法要求的刑罰，在基督身上被執行了；律法要求的義，藉著信被歸算給信的人。因信稱義不是繞過律法的門路，是律法終於得著滿足的地方。
 
 ---
 
@@ -178,11 +174,11 @@ publisher: 三書精讀出版系統
 > **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
 > 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他1522年為德文新約所寫的〈羅馬書序言〉（Preface to the Epistle to the Romans）中，稱羅馬書全卷是「新約中最重要的部分，是最純正的福音」（"the chief part of the New Testament, and is truly the purest Gospel"，與本書第1章所引為同一句話）——而3:21-26正是這卷「最純正的福音」的核心段落。他後來的整個宗教改革神學突破，正是在苦讀羅馬書、特別是「神的義」這個片語的過程中發生的——他從原先懼怕「神的義」（以為指神審判人的公義標準），到終於明白這是神「賜給」人、人可以因信領受的義。
+路德在他1522年為德文新約所寫的〈羅馬書序言〉（Preface to the Epistle to the Romans）中，稱羅馬書全卷是「新約中最重要的部分，是最純正的福音」（"the chief part of the New Testament, and is truly the purest Gospel"，與本書第1章所引為同一句話）——而3:21-26正是這卷「最純正的福音」的核心段落。他後來整個宗教改革的突破，正是在苦讀羅馬書、特別是「神的義」這個片語的過程中發生的——他從原先懼怕「神的義」（以為指神審判人的公義標準），到終於明白這是神「賜給」人、人可以因信領受的義。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
@@ -190,7 +186,17 @@ publisher: 三書精讀出版系統
 
 **歷史事實補充**：宗教改革「唯獨信心、唯獨恩典」（*sola fide, sola gratia*）的教義主張，其最直接的聖經根基正是羅馬書3:21-31這一段——這是教會歷史上可查證的事實，不是後人附會。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
+
+**羅馬書前三章是保羅刻意搭建的一座法庭**：摩根指出，保羅在1:18到3:20之間，像一位檢察官，先傳喚外邦人受審（1:18-32：他們有普遍啟示卻拜偶像），再傳喚猶太人受審（2:1-29：他們有律法卻論斷人、自己也犯律法），到3:9-20做出總結陳詞——「都在罪惡之下」。這不是保羅隨興發揮的道德說教，是一份精心構築、無可辯駁的起訴書，目的只有一個：讓每一張嘴都閉口無言（3:19「塞住各人的口」），使人再沒有僥倖脫罪的空間，才能真正聽見3:21「但如今」帶來的好消息。
+
+**「但如今」是全信、甚至可以說是全本聖經的軸心**：摩根將羅馬書的結構視為一齣兩幕劇——第一幕（1:18-3:20）是黑暗，是「你眼睛所見過最悲觀的文學篇章」；第二幕（3:21起）驟然轉為光明，是「你耳朵所聽過最樂觀的詩歌」。兩幕之間的轉場，只靠兩個字：「但如今」。摩根特別提醒讀者，不要把這個轉折讀得太輕——它不是保羅換了一個溫和一點的話題，而是神在歷史中真實介入、成就了一件人絕對做不到的事。
+
+**挽回祭是全段的重心**：摩根認為，3:25「挽回祭」一詞，是把整段經文從抽象的法律術語，拉回到活生生的獻祭現場——利未記裏那個大祭司一年一度、戰戰兢兢帶著血進入至聖所的畫面，如今在十字架上，一次性地、公開地、為萬民成就了。信徒因信站在神面前，靠的不是自己有沒有把功課做好，而是那滴在施恩座上的血，是否已經流出。
+
+> 出處：對 G. Campbell Morgan 羅馬書1-3章相關講章與釋經著作一貫解經立場的綜合性歸納陳述，非逐字引句、未附具體出版頁碼。
+
+### 麥克阿瑟 (John MacArthur)
 
 **約翰·麥克阿瑟 (John MacArthur)**（引自本書卷概覽 00-overview.md 已核實之研究，論羅馬書因信稱義相關）：
 
@@ -202,32 +208,28 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 130:1-4, 7-8
 
-> 耶和華啊，我從深處向你求告！
-> 主啊，求你聽我的聲音！願你側耳聽我懇求的聲音！
-> 主──耶和華啊，你若究察罪孽，誰能站得住呢？
+> 耶和華啊，我從深處向你求告！ \
+> 主啊，求你聽我的聲音！願你側耳聽我懇求的聲音！ \
+> 主──耶和華啊，你若究察罪孽，誰能站得住呢？ \
 > 但在你有赦免之恩，要叫人敬畏你。
 >
-> 以色列啊，你當仰望耶和華！因他有慈愛，有豐盛的救恩。
+> 以色列啊，你當仰望耶和華！因他有慈愛，有豐盛的救恩。 \
 > 他必救贖以色列脫離一切的罪孽。
 
-> Out of the depths I cry to you, O LORD!
-> O Lord, hear my voice! Let your ears be attentive to the voice of my pleas for mercy!
-> If you, O LORD, should mark iniquities, O Lord, who could stand?
-> But with you there is forgiveness, that you may be feared.
+> Out of the depths I have cried to You, O LORD. \
+> Lord, hear my voice! Let Your ears be attentive To the voice of my supplications. \
+> If You, LORD, should mark iniquities, O Lord, who could stand? \
+> But there is forgiveness with You, That You may be feared.
 >
-> O Israel, hope in the LORD! For with the LORD there is steadfast love,
-> and with him is plentiful redemption.
-> And he will redeem Israel from all his iniquities.
+> O Israel, hope in the LORD; For with the LORD there is lovingkindness, \
+> And with Him is abundant redemption. \
+> And He will redeem Israel From all his iniquities.
 
 詩篇130篇的邏輯，正是羅馬書3章的濃縮：「你若究察罪孽，誰能站得住呢」——這是3:9-20的呼喊；「但在你有赦免之恩」——這是3:21的「但如今」；「有豐盛的救恩」——原文正是「豐盛的救贖」（*apolytrōsis* 一詞的舊約遠親），呼應3:24的「救贖」。詩人在律法之下不能站立，卻仰望一位施行救贖的神——保羅要說的是，這位神已經在基督裏做成了。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### And Can It Be
 
@@ -237,67 +239,34 @@ publisher: 三書精讀出版系統
 
 > **Nikolaus Ludwig von Zinzendorf, 1739；John Wesley 英譯**
 >
-> Jesus, thy blood and righteousness
-> My beauty are, my glorious dress;
-> 'Midst flaming worlds, in these arrayed,
+> Jesus, thy blood and righteousness \
+> My beauty are, my glorious dress; \
+> 'Midst flaming worlds, in these arrayed, \
 > With joy shall I lift up my head.
 
 這首詩歌的德文原作者親岑多夫伯爵（Zinzendorf），以及英譯者約翰·衛斯理，都在這一節裏把「祢的血」與「祢的義」並列成一件「衣裳」——這不是詩意的誇張，正是羅馬書3:24-25「因基督耶穌的救贖」（血所成就的）與「顯明神的義」（義的彰顯）兩件事，在同一個人身上合一的寫照。當我在神面前站立，我所披戴的不是自己的行為記錄，而是基督的血與義。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**羅馬書前三章是保羅刻意搭建的一座法庭**：摩根指出，保羅在1:18到3:20之間，像一位檢察官，先傳喚外邦人受審（1:18-32：他們有普遍啟示卻拜偶像），再傳喚猶太人受審（2:1-29：他們有律法卻論斷人、自己也犯律法），到3:9-20做出總結陳詞——「都在罪惡之下」。這不是保羅隨興發揮的道德說教，是一份精心構築、無可辯駁的起訴書，目的只有一個：讓每一張嘴都閉口無言（3:19「塞住各人的口」），使人再沒有僥倖脫罪的空間，才能真正聽見3:21「但如今」帶來的好消息。
+**精義一句話**：稱義不是我變好了，是神在十字架上，藉著耶穌的血，同時滿足了自己的公義、又白白稱信祂的人為義——這是一次完成、永不撤銷的宣告，不是成聖那條漫長的路。
 
-**「但如今」是全信、甚至可以說是全本聖經的軸心**：摩根將羅馬書的結構視為一齣兩幕劇——第一幕（1:18-3:20）是黑暗，是「你眼睛所見過最悲觀的文學篇章」；第二幕（3:21起）驟然轉為光明，是「你耳朵所聽過最樂觀的詩歌」。兩幕之間的轉場，只靠兩個字：「但如今」。摩根特別提醒讀者，不要把這個轉折讀得太輕——它不是保羅換了一個溫和一點的話題，而是神在歷史中真實介入、成就了一件人絕對做不到的事。
+### 全經連線 (Tracing It Through Scripture)
 
-**挽回祭是全段的重心**：摩根認為，3:25「挽回祭」一詞，是把整段經文從抽象的法律術語，拉回到活生生的獻祭現場——利未記裏那個大祭司一年一度、戰戰兢兢帶著血進入至聖所的畫面，如今在十字架上，一次性地、公開地、為萬民成就了。信徒因信站在神面前，靠的不是自己有沒有把功課做好，而是那滴在施恩座上的血，是否已經流出。
+**施恩座成就線**：利未記16章，大祭司一年一次，帶著血進入至聖所，灑在約櫃上的施恩座（*kapporeth*）上，遮蓋以色列全會眾一年的罪；羅馬書3:25說，神設立耶穌作「挽回祭」（*hilastērion*）——七十士譯本裏正是同一個字。這條線往前連著利未記的贖罪日，往後連著希伯來書9-10章——「因為他一次獻祭，便叫那得以成聖的人永遠完全」（來10:14）。舊約獻祭年復一年，因為沒有一次是真正夠格的；十字架只需一次，因為獻祭的和被獻的是同一位。整本聖經只有一個祭壇最終立得住——各各他的十字架。老弟兄常提醒：「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」羅馬書3章特別如此，因為經文自己已經把預表（利未記的施恩座）與成就（3:25的耶穌）擺在一起，不必猜。
 
-> 出處：對 G. Campbell Morgan 羅馬書1-3章相關講章與釋經著作一貫解經立場的綜合性歸納陳述，非逐字引句、未附具體出版頁碼。
+**稱義三階段線**：老弟兄帶查經時，常常糾正一個普遍的誤解——「得救」不是信主那一刻就把整個救恩經歷講完了。他用一張簡表，把救恩分成三個完整卻性質不同的階段：
 
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**救恩不是一個點，是三個階段**：老弟兄帶查經時，常常糾正一個普遍的誤解——「得救」不是信主那一刻就把整個救恩經歷講完了。他用一張簡表，把救恩分成三個完整卻性質不同的階段：
-
-| 階段 | 神學術語 | 核心動作 | 解決的問題 |
+| 階段 | 救恩術語 | 核心動作 | 解決的問題 |
 |-------------|---------------------|---------------------|-------------------------|
 | 稱義 | Justification | 一次完成 | 罪的刑罰（靈死了） |
 | 成聖 | Sanctification | 持續漸進 | 罪的權勢（對付「己」） |
 | 得榮 | Glorification | 末後完成 | 罪的存在（得榮耀之體） |
 
-羅馬書3章講的，精確地說，只是這三個階段裏的第一個——稱義。這是老弟兄查經時會反覆追問的一點：「你認為信了耶穌，得救就完了？還是剛剛開始？」——3:24「白白的稱義」，是一次性、法庭性的宣告，罪的刑罰在那一刻已經徹底解決，這是確定無疑、不會反覆的地位。但緊接著的問題是：那接下來呢？羅馬書6-8章要處理的，正是稱義之後、成聖過程中「罪的權勢」——那個仍然活躍、仍然要天天對付的「己」。得榮，則要等到羅馬書8章末了、身體得贖之時才完全成就。
-
-**為甚麼要把三個階段分清楚**：老弟兄指出，把稱義和成聖混為一談，是教會裏兩種常見錯誤的根源——一種人以為稱義之後不需要再追求聖潔（廉價恩典）；另一種人反過來，以為自己在神面前的地位，要靠今天靈修得好不好、今天犯罪沒犯罪來決定（把稱義變成了成聖）。羅馬書3章講的稱義，是一次性完成、不再反覆的宣告——3:24「稱義」原文（*dikaioumenoi*）是現在式被動分詞，描寫神白白稱人為義的恩典作為；稱義「一次完成、不再反覆」的確據，不在於某個動詞時態，而在於它是神法庭上的宣告：這件事在人信的那一刻已經發生，已經完成，不會因為信徒今天軟弱跌倒而被撤銷。
-
-**挽回祭——最直接的答案就是耶穌自己**：老弟兄查經最根本的信念，是整本聖經都指著耶穌基督。用在羅馬書3章，這個原則不需要拐彎抹角——利未記16章的施恩座，不是一個「預表」需要費力去挖掘，保羅自己已經把答案寫在3:25：耶穌就是那施恩座。老弟兄常提醒：「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」羅馬書3章特別如此，因為這一次，經文自己已經把預表和成就擺在一起，不必猜。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*And Can It Be*（如前「配詩」所引）
-
-> No condemnation now I dread;
-> Jesus, and all in Him, is mine!
-
-**詩篇**：詩篇 130:3-4
-
-> 主──耶和華啊，你若究察罪孽，誰能站得住呢？但在你有赦免之恩，要叫人敬畏你。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：施恩座的成就。利未記16章，大祭司一年一次，帶著血進入至聖所，灑在約櫃上的施恩座（*kapporeth*）上，遮蓋以色列全會眾一年的罪；羅馬書3:25說，神設立耶穌作「挽回祭」（*hilastērion*）——七十士譯本裏正是同一個字。
-
-這條線往前連著利未記的贖罪日，往後連著希伯來書9-10章——「因為他一次獻祭，便叫那得以成聖的人永遠完全」（來10:14）。舊約獻祭年復一年，因為沒有一次是真正夠格的；十字架只需一次，因為獻祭的和被獻的是同一位。整本聖經只有一個祭壇最終立得住——各各他的十字架。
+羅馬書3章講的，精確地說，只是這三個階段裏的第一個——稱義：3:24「白白的稱義」是一次性、法庭性的宣告，罪的刑罰在那一刻已經徹底解決，這是確定無疑、不會反覆的地位。羅馬書6-8章要處理的，正是稱義之後、成聖過程中「罪的權勢」——那個仍然活躍、仍然要天天對付的「己」；得榮，則要等到羅馬書8章末了、身體得贖之時才完全成就。把稱義和成聖混為一談，是教會裏兩種常見錯誤的根源——一種人以為稱義之後不需要再追求聖潔（廉價恩典）；另一種人反過來，以為自己在神面前的地位，要靠今天靈修得好不好、今天犯罪沒犯罪來決定（把稱義變成了成聖）。稱義「一次完成、不再反覆」的確據，不在於某個動詞時態，而在於它是神法庭上的宣告：這件事在人信的那一刻已經發生，已經完成，不會因為信徒今天軟弱跌倒而被撤銷。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -318,17 +287,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我是活在「已經被稱義」的自由裏，還是仍然活在「要證明自己配得」的焦慮裏？
 - **一個行動**：向一個因罪自責、覺得自己「不夠格」的人，具體地說出羅馬書3:24-25的好消息。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：稱義不是我變好了，是神在十字架上，藉著耶穌的血，同時滿足了自己的公義、又白白稱信祂的人為義——這是一次完成、永不撤銷的宣告，不是成聖那條漫長的路。
-
-**貫通全經**：利未記16章的施恩座一年一次、需要祭司代替；羅馬書3:25說，耶穌自己就是那真正的施恩座，一次永遠成就。
-
-**無法迴避的問題**：「你今天站在神面前的信心，是靠今天靈修做得好不好，還是靠十字架上已經流出的那滴血？」
-
 > 「你以為得救是一條漫長的自我改造之路，起點模糊、終點焦慮？不是。稱義是一次法庭的宣告——已經成就，不會反覆。」
+
+**你看見耶穌了嗎**：3:25一個詞——「挽回祭」（*hilastērion*）——把整段最深的祕密揭開：利未記裏那塊金子做的施恩座，如今成了被釘十字架的這個人。祂的血，就是止息神公義怒氣、又使罪人坦然無懼來到神面前的血。3:21-26不是一段冷冰冰的教義綱要，是站在至聖所裏，親眼看見那真正的施恩座——你看見祂了嗎？
 
 ---
 
@@ -336,13 +297,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **我站立的根基是甚麼？**：當我想到自己在神面前的地位時，我心裏浮現的是「我今天表現得如何」，還是「基督已經為我成就的」？
+1. **誇口被排除了嗎？**：3:27說「誇口……沒有的了」——我是否仍然在暗地裏，用自己的靈修、事奉、道德表現，跟別的信徒比較、以此為傲？
 
-2. **誇口被排除了嗎？**：3:27說「誇口……沒有的了」——我是否仍然在暗地裏，用自己的靈修、事奉、道德表現，跟別的信徒比較、以此為傲？
+2. **稱義與成聖分清楚了嗎？**：我是否把今天靈修得好不好、犯罪沒犯罪，當成了自己在神面前地位是否穩固的依據？
 
-3. **看見施恩座**：利未記的施恩座，一年一次，隔著幔子；羅馬書3:25的挽回祭，一次永遠，幔子已經裂開（太27:51）。我是否活在這個已經被打開的道路裏，還是仍然像舊約祭司一樣，戰戰兢兢地靠近神？
-
-4. **稱義與成聖分清楚了嗎？**：我是否把今天靈修得好不好、犯罪沒犯罪，當成了自己在神面前地位是否穩固的依據？
+3. **律法的目的**：3:31「因信……更是堅固律法」——因信稱義如何不是廢掉律法，反而是律法終於得著滿足？
 
 ### 禱告回應
 
@@ -357,20 +316,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 3:1-8保羅為甚麼要用一連串「假想對話」的方式，處理猶太人的特權問題？這對今天「屬靈特權」的迷思有甚麼提醒？
-
-2. 3:10-18的舊約引文串，涵蓋了人身體從喉嚨到腳的各個部位——這在說明甚麼樣的罪的本質？
-
-3. 「稱義」（*dikaioō*）是法庭宣告，不是道德改造——這個分別，如何幫助你分辨「稱義」與「成聖」？
-
-4. 「挽回祭」（*hilastērion*）與利未記16章施恩座的關聯，如何改變你對十字架的理解？
-
-5. 3:27「誇口……沒有的了」——在你的信仰生活中，還有哪些地方，你其實在靠自己的表現「誇口」？
-
-6. 3:31「因信……更是堅固律法」——因信稱義如何不是廢掉律法，反而是律法終於得著滿足？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 罪的起訴書（詩歌智慧書與先知書合證） | 3:10-18 | 詩14:1-3、53:1-3、5:9、140:3、10:7；賽59:7-8、詩36:1 |
+| 挽回祭／施恩座的成就 | 3:25 | 利16章、來9-10章、來10:14 |
+| 「無故地」的恩典與恨 | 3:24（*dōrean*） | 約15:25 |
+| 罪的奴役與救贖 | 3:24（*apolytrōsis*） | 羅6:17-20 |
+| 稱義之後：成聖與得榮 | 3:24 | 羅6-8章 |
+| 幔子已裂：坦然無懼來到神面前 | 3:21-26 | 太27:51 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論、John MacArthur (gty.org) 已核實之羅馬書研究、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org) 已核實之羅馬書研究、G. Campbell Morgan*

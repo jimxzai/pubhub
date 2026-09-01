@@ -10,9 +10,13 @@ publisher: 三書精讀出版系統
 
 羅馬書 9:1-33
 
----
+**經文核對**：[ai-eden.com/bible/romans/9](https://www.ai-eden.com/bible/romans/9?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：揀選 Eklogē** \
+> **全書坐標**：羅馬書9章是「揀選」卷（9:1-11:36）的開篇——8章以「不能隔絕」的確據收束「成聖」卷，9章立刻轉向一個尖銳的追問：如果神的愛如此堅定，為何多數以色列人拒絕了彌賽亞？全書五卷（定罪／稱義／成聖／揀選／活祭）在此進入第四卷，9-11章要處理神的應許有沒有落空。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上在談以色列、談揀選、談窯匠與泥土，中心卻始終是基督。9:5說得再清楚不過：「按肉體說，基督也是從他們（以色列人）出來的——他是在萬有之上永遠可稱頌的神！」以色列一切的特權——兒子的名分、榮耀、諸約、律法、禮儀、應許、列祖——全都是為了一件事而存在：讓基督從這個民族中誕生。而全章最終落在9:33：神在錫安放了一塊石頭，「信靠他的人必不至於羞愧」。這塊石頭不是抽象的教義，是耶穌自己——祂是使人跌倒的絆腳石，也是使人不至於羞愧的磐石。同一位基督，對兩種人是兩種結局。
 
@@ -20,34 +24,34 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **O Love That Wilt Not Let Me Go**
+> **O Love That Wilt Not Let Me Go** \
 > *George Matheson, 1882*
 >
-> O Love that wilt not let me go,
-> I rest my weary soul in Thee;
-> I give Thee back the life I owe,
-> That in Thine ocean depths its flow
+> O Love that wilt not let me go, \
+> I rest my weary soul in Thee; \
+> I give Thee back the life I owe, \
+> That in Thine ocean depths its flow \
 > May richer, fuller be.
 >
-> 主愛何等長闊高深，
-> 我心疲倦得安穩；
-> 我把虧欠的生命交還，
-> 願它匯入你愛的深淵，
+> 主愛何等長闊高深， \
+> 我心疲倦得安穩； \
+> 我把虧欠的生命交還， \
+> 願它匯入你愛的深淵， \
 > 更豐盛，更真純。
 
 ---
 
 ## 經文 (Scripture)
 
-**版本說明**：中文採用和合本 (CUV)，經與 cnbible.com 逐節核對；本卷寫作當時未能穩定取得和合本修訂版 (RCUV) 之逐節原文，比照本書系《提摩太前書》01-03章之先例，改用已核實之CUV，並在此如實標明版本。英文採用English Standard Version (ESV)，經biblegateway.com逐節核對。
-
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > ^1^我在基督裏說真話，並不謊言，有我良心被聖靈感動給我作見證。^2^我是大有憂愁，心裏時常傷痛。^3^為我弟兄，我骨肉之親，就是自己被咒詛，與基督分離，我也願意。
 
 > ^4^他們是以色列人，那兒子的名分、榮耀、諸約、律法、禮儀、應許都是他們的；^5^列祖就是他們的祖宗；按肉體說，基督也是從他們出來的——**他是在萬有之上永遠可稱頌的神！阿們。**
 
-> ^6^這不是說神的話落了空。因為從以色列生的，不都是以色列人；^7^也不因為是亞伯拉罕的後裔，就都做他的兒女，唯獨「從以撒生的，才要稱為你的後裔」。^8^這就是說，肉身所生的兒女不是神的兒女，唯獨那應許的兒女才算是後裔。^9^因為所應許的話是這樣說：「到明年這時候我要來，撒拉必生一個兒子。」
+> ^6^這不是說神的話落了空。因為從以色列生的，不都是以色列人；^7^也不因為是亞伯拉罕的後裔，就都作他的兒女，惟獨「從以撒生的，才要稱為你的後裔」。^8^這就是說，肉身所生的兒女不是神的兒女，惟獨那應許的兒女才算是後裔。^9^因為所應許的話是這樣說：「到明年這時候我要來，撒拉必生一個兒子。」
 
 > ^10^不但如此，還有利百加，既從一個人，就是從我們的祖宗以撒懷了孕，^11^雙子還沒有生下來，善惡還沒有做出來——只因要顯明神揀選人的旨意，不在乎人的行為，乃在乎召人的主——^12^神就對利百加說：「將來大的要服侍小的。」^13^正如經上所記：「雅各是我所愛的，以掃是我所惡的。」
 
@@ -61,25 +65,25 @@ publisher: 三書精讀出版系統
 
 > ^30^這樣，我們可說甚麼呢？那本來不追求義的外邦人反得了義，就是因信而得的義；^31^但以色列人追求律法的義，反得不著律法的義。^32^這是甚麼緣故呢？是因為他們不憑著信心求，只憑著行為求，他們正跌在那絆腳石上。^33^就如經上所記：「我在錫安放一塊絆腳的石頭、跌人的磐石，信靠他的人必不至於羞愧。」
 
-### English — ESV
+### English — NASB
 
-> ^1^I am speaking the truth in Christ—I am not lying; my conscience bears me witness in the Holy Spirit— ^2^that I have great sorrow and unceasing anguish in my heart. ^3^For I could wish that I myself were accursed and cut off from Christ for the sake of my brothers, my kinsmen according to the flesh.
+> ^1^I am telling the truth in Christ, I am not lying, my conscience testifies with me in the Holy Spirit, ^2^that I have great sorrow and unceasing grief in my heart. ^3^For I could wish that I myself were accursed, *separated* from Christ for the sake of my brethren, my kinsmen according to the flesh,
 
-> ^4^They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises. ^5^To them belong the patriarchs, and from their race, according to the flesh, is the Christ, **who is God over all, blessed forever. Amen.**
+> ^4^who are Israelites, to whom belongs the adoption as sons, and the glory and the covenants and the giving of the Law and the *temple* service and the promises, ^5^whose are the fathers, and from whom is the Christ according to the flesh, **who is over all, God blessed forever. Amen.**
 
-> ^6^But it is not as though the word of God has failed. For not all who are descended from Israel belong to Israel, ^7^and not all are children of Abraham because they are his offspring, but "Through Isaac shall your offspring be named." ^8^This means that it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring. ^9^For this is what the promise said: "About this time next year I will return, and Sarah shall have a son."
+> ^6^But *it is* not as though the word of God has failed. For they are not all Israel who are *descended* from Israel; ^7^nor are they all children because they are Abraham's descendants, but: "THROUGH ISAAC YOUR DESCENDANTS WILL BE NAMED." ^8^That is, it is not the children of the flesh who are children of God, but the children of the promise are regarded as descendants. ^9^For this is the word of promise: "AT THIS TIME I WILL COME, AND SARAH SHALL HAVE A SON."
 
-> ^10^And not only so, but also when Rebekah had conceived children by one man, our forefather Isaac, ^11^though they were not yet born and had done nothing either good or bad—in order that God's purpose of election might continue, not because of works but because of him who calls— ^12^she was told, "The older will serve the younger." ^13^As it is written, "Jacob I loved, but Esau I hated."
+> ^10^And not only this, but there was Rebekah also, when she had conceived *twins* by one man, our father Isaac; ^11^for though *the twins* were not yet born and had not done anything good or bad, so that God's purpose according to *His* choice would stand, not because of works but because of Him who calls, ^12^it was said to her, "THE OLDER WILL SERVE THE YOUNGER." ^13^Just as it is written, "JACOB I LOVED, BUT ESAU I HATED."
 
-> ^14^What shall we say then? Is there injustice on God's part? By no means! ^15^**For he says to Moses, "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."** ^16^**So then it depends not on human will or exertion, but on God, who has mercy.** ^17^For the Scripture says to Pharaoh, "For this very purpose I have raised you up, that I might show my power in you, and that my name might be proclaimed in all the earth." ^18^So then he has mercy on whomever he wills, and he hardens whomever he wills.
+> ^14^What shall we say then? There is no injustice with God, is there? May it never be! **^15^For He says to Moses, "I WILL HAVE MERCY ON WHOM I HAVE MERCY, AND I WILL HAVE COMPASSION ON WHOM I HAVE COMPASSION." ^16^So then it *does* not *depend* on the man who wills or the man who runs, but on God who has mercy.** ^17^For the Scripture says to Pharaoh, "FOR THIS VERY PURPOSE I RAISED YOU UP, TO DEMONSTRATE MY POWER IN YOU, AND THAT MY NAME MIGHT BE PROCLAIMED THROUGHOUT THE WHOLE EARTH." ^18^So then He has mercy on whom He desires, and He hardens whom He desires.
 
-> ^19^You will say to me then, "Why does he still find fault? For who can resist his will?" ^20^**But who are you, O man, to answer back to God? Will what is molded say to its molder, "Why have you made me like this?"** ^21^**Has the potter no right over the clay, to make out of the same lump one vessel for honorable use and another for dishonorable use?**
+> ^19^You will say to me then, "Why does He still find fault? For who resists His will?" **^20^On the contrary, who are you, O man, who answers back to God? The thing molded will not say to the molder, "Why did you make me like this," will it? ^21^Or does not the potter have a right over the clay, to make from the same lump one vessel for honorable use and another for common use?**
 
-> ^22^What if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath prepared for destruction, ^23^in order to make known the riches of his glory for vessels of mercy, which he has prepared beforehand for glory— ^24^even us whom he has called, not from the Jews only but also from the Gentiles? ^25^As indeed he says in Hosea, "Those who were not my people I will call 'my people,' and her who was not beloved I will call 'beloved.'" ^26^"And in the very place where it was said to them, 'You are not my people,' there they will be called 'sons of the living God.'"
+> ^22^What if God, although willing to demonstrate His wrath and to make His power known, endured with much patience vessels of wrath prepared for destruction? ^23^And *He did so* to make known the riches of His glory upon vessels of mercy, which He prepared beforehand for glory, ^24^*even* us, whom He also called, not from among Jews only, but also from among Gentiles. ^25^As He says also in Hosea, "I WILL CALL THOSE WHO WERE NOT MY PEOPLE, 'MY PEOPLE,' AND HER WHO WAS NOT BELOVED, 'BELOVED.'" ^26^"AND IT SHALL BE THAT IN THE PLACE WHERE IT WAS SAID TO THEM, 'YOU ARE NOT MY PEOPLE,' THERE THEY SHALL BE CALLED SONS OF THE LIVING GOD."
 
-> ^27^And Isaiah cries out concerning Israel: "Though the number of the sons of Israel be as the sand of the sea, only a remnant of them will be saved, ^28^for the Lord will carry out his sentence upon the earth fully and without delay." ^29^And as Isaiah predicted, "If the Lord of hosts had not left us offspring, we would have been like Sodom and become like Gomorrah."
+> ^27^Isaiah cries out concerning Israel, "THOUGH THE NUMBER OF THE SONS OF ISRAEL BE LIKE THE SAND OF THE SEA, IT IS THE REMNANT THAT WILL BE SAVED; ^28^FOR THE LORD WILL EXECUTE HIS WORD ON THE EARTH, THOROUGHLY AND QUICKLY." ^29^And just as Isaiah foretold, "UNLESS THE LORD OF SABAOTH HAD LEFT TO US A POSTERITY, WE WOULD HAVE BECOME LIKE SODOM, AND WOULD HAVE RESEMBLED GOMORRAH."
 
-> ^30^What shall we say, then? That Gentiles who did not pursue righteousness have attained it, that is, a righteousness that is by faith; ^31^but that Israel who pursued a law that would lead to righteousness did not succeed in reaching that law. ^32^Why? Because they did not pursue it by faith, but as if it were based on works. They have stumbled over the stumbling stone, ^33^as it is written, "Behold, I am laying in Zion a stone of stumbling, and a rock of offense; and whoever believes in him will not be put to shame."
+> ^30^What shall we say then? That Gentiles, who did not pursue righteousness, attained righteousness, even the righteousness which is by faith; ^31^but Israel, pursuing a law of righteousness, did not arrive at *that* law. ^32^Why? Because *they did* not *pursue it* by faith, but as though *it were* by works. They stumbled over the stumbling stone, ^33^just as it is written, "BEHOLD, I LAY IN ZION A STONE OF STUMBLING AND A ROCK OF OFFENSE, AND HE WHO BELIEVES IN HIM WILL NOT BE DISAPPOINTED."
 
 ---
 
@@ -87,7 +91,7 @@ publisher: 三書精讀出版系統
 
 ### 從8章到9章的轉折
 
-羅馬書8章以無法搖動的確據結束：「誰能使我們與基督的愛隔絕呢？」（8:35）——飢餓、患難、死亡、天使、掌權的，都不能。但這樣的確據立刻帶出一個尖銳的問題：如果神對祂百姓的愛如此堅定不移，那麼神最初揀選的百姓——以色列——為甚麼大多數拒絕了彌賽亞？神的應許失效了嗎？如果連以色列都可以被神放棄，保羅在8章所應許的「不能隔絕」還算數嗎？9-11章正是保羅親自處理這個問題——不是抽象神學辯論，而是他個人的骨肉之痛。
+羅馬書8章以無法搖動的確據結束：「誰能使我們與基督的愛隔絕呢？」（8:35）——飢餓、患難、死亡、天使、掌權的，都不能。但這樣的確據立刻帶出一個尖銳的問題：如果神對祂百姓的愛如此堅定不移，那麼神最初揀選的百姓——以色列——為甚麼大多數拒絕了彌賽亞？神的應許失效了嗎？如果連以色列都可以被神放棄，保羅在8章所應許的「不能隔絕」還算數嗎？9-11章正是保羅親自處理這個問題——不是抽象的辯論，而是他個人的骨肉之痛。
 
 ### 保羅的哀傷 (9:1-3)
 
@@ -95,7 +99,7 @@ publisher: 三書精讀出版系統
 
 ### 全章的結構
 
-9章大致可分四段：（1）1-5節，保羅的哀傷與以色列的特權；（2）6-13節，「神的話沒有落空」——揀選從來不是靠血統，而是靠應許；（3）14-29節，神揀選的主權——摩西、法老、窯匠與泥；（4）30-33節，全章的收束——外邦人因信得了義，以色列因追求靠行為的義而跌倒。第四段是整章的鑰匙：保羅不是在做抽象的宿命論神學，而是在解釋一個歷史事實——為甚麼今天許多以色列人在福音之外。答案不是神的話落空，而是他們用錯了方法追求義。
+9章大致可分四段：（1）1-5節，保羅的哀傷與以色列的特權；（2）6-13節，「神的話沒有落空」——揀選從來不是靠血統，而是靠應許；（3）14-29節，神揀選的主權——摩西、法老、窯匠與泥；（4）30-33節，全章的收束——外邦人因信得了義，以色列因追求靠行為的義而跌倒。第四段是整章的鑰匙：保羅不是在談抽象的宿命論，而是在解釋一個歷史事實——為甚麼今天許多以色列人在福音之外。答案不是神的話落空，而是他們用錯了方法追求義。
 
 ---
 
@@ -120,33 +124,21 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 揀選從來不是靠血統 (9:6-9)
+### 1. 揀選不靠血統，也先於行為 (9:6-13)
 
-「從以色列生的，不都是以色列人」——這句話拆解了猶太人「憑血統自動得救」的假設。以實瑪利也是亞伯拉罕的兒子，卻不是應許的後裔；以撒才是。從最開始，神的揀選就不是靠肉身的傳承，而是靠祂主權的應許。這對羅馬教會的意義極大：外邦信徒不需要靠猶太血統或律法儀文才能成為「真以色列」的一部分——因為連以色列人自己的身分認同，從來就不是靠血統。
+「從以色列生的，不都是以色列人」——這句話拆解了猶太人「憑血統自動得救」的假設。以實瑪利也是亞伯拉罕的兒子，卻不是應許的後裔；以撒才是。從最開始，神的揀選就不是靠肉身的傳承，而是靠祂主權的應許。這對羅馬教會的意義極大：外邦信徒不需要靠猶太血統或律法儀文才能成為「真以色列」的一部分——因為連以色列人自己的身分認同，從來就不是靠血統。雅各與以掃的例子比以實瑪利的例子更尖銳，因為以實瑪利與以撒有不同的母親，還可以用「妾的兒子」來解釋差異；雅各與以掃卻是同一對父母、同一次懷孕的雙生子，「還沒有生下來，善惡還沒有做出來」，神的揀選已經宣告。這是全章最核心的宣告：揀選的根基「不在乎人的行為，乃在乎召人的主」。這也提醒讀者：雅各與以掃的例子，聖經從未明講兩人個人最終得救與否——經文真正要說的是誰承接應許的血脈，不是二人死後命運的宣判。
 
-### 2. 揀選先於行為 (9:10-13)
+### 2. 神的公義不受人的邏輯審判——從摩西到窯匠與泥 (9:14-21)
 
-雅各與以掃的例子比以實瑪利的例子更尖銳，因為以實瑪利與以撒有不同的母親，還可以用「妾的兒子」來解釋差異；雅各與以掃卻是同一對父母、同一次懷孕的雙生子，「還沒有生下來，善惡還沒有做出來」，神的揀選已經宣告。這是全章最核心的神學命題：揀選的根基「不在乎人的行為，乃在乎召人的主」。
+「難道神有甚麼不公平嗎？斷乎沒有！」保羅沒有用人的公平標準來為神辯護，而是引出埃及記33:19神對摩西所說的話：「我要憐憫誰就憐憫誰。」憐憫本質上是不能被要求的——若人有資格要求，那就不再是憐憫，而是欠債。法老的例子（引出埃及記9:16）補上另一面：神的主權不僅施予憐憫，也在歷史中使用剛硬的心來彰顯祂的權能與名聲。這一段的問題「祂為甚麼還指責人呢」，是每一個誠實讀這段經文的人遲早會問的問題。保羅的回答不是邏輯論證，而是重申創造主與受造物之間根本的位分差距——這呼應以賽亞書29:16、45:9與耶利米書18章反覆出現的窯匠意象。這不是要人閉口不問，而是提醒人：任何關於神公義的討論，起點都必須是「祂是造我的，我不是造祂的」，而不是相反——正如創世記2:7「耶和華神用地上的塵土造人」，人受造的事實本身，就已經先於一切關於受造者能否質問造物主的辯論。
 
-### 3. 神的公義不受人的邏輯審判 (9:14-18)
+### 3. 蒙憐憫的器皿包括外邦人，神的話沒有落空 (9:22-29)
 
-「難道神有甚麼不公平嗎？斷乎沒有！」保羅沒有用人的公平標準來為神辯護，而是引出埃及記33:19神對摩西所說的話：「我要憐憫誰就憐憫誰。」憐憫本質上是不能被要求的——若人有資格要求，那就不再是憐憫，而是欠債。法老的例子（引出埃及記9:16）補上另一面：神的主權不僅施予憐憫，也在歷史中使用剛硬的心來彰顯祂的權能與名聲。
+「不但是從猶太人中，也是從外邦人中」——保羅引何西阿書1:10、2:23，原本論及北國以色列（因悖逆被神稱為「羅·阿米」，不是我民），保羅把它應用在外邦人蒙召上。這個引用本身極具張力：一段原本論以色列悖逆後蒙恢復的經文，被用來說明外邦人如今蒙召——暗示外邦人蒙恩與以色列蒙恢復，在神的心意中是同一條線上的兩端，這條線11章會再次展開。引以賽亞書10:22-23、1:9：以色列雖多如海沙，得救的不過是「剩下的餘數」。這不是新教義，是先知傳統一貫的立場——神從來沒有應許全體以色列人都必得救，祂應許的是保守一個餘民。今天教會裏有信主的猶太人，正是這餘民應許的延續，不是「神的話落空」的證據，而是「神的話應驗」的證據。
 
-### 4. 窯匠與泥：受造者無權質問造物主 (9:19-21)
-
-這一段的問題「祂為甚麼還指責人呢」，是每一個誠實讀這段經文的人遲早會問的問題。保羅的回答不是邏輯論證，而是重申創造主與受造物之間根本的位分差距——這呼應以賽亞書29:16、45:9與耶利米書18章反覆出現的窯匠意象。這不是要人閉口不問，而是提醒人：任何關於神公義的討論，起點都必須是「祂是造我的，我不是造祂的」，而不是相反。
-
-### 5. 蒙憐憫的器皿包括外邦人 (9:22-26)
-
-「不但是從猶太人中，也是從外邦人中」——保羅引何西阿書1:10、2:23，原本論及北國以色列（因悖逆被神稱為「羅·阿米」，不是我民），保羅把它應用在外邦人蒙召上。這個引用本身極具張力：一段原本論以色列悖逆後蒙恢復的經文，被用來說明外邦人如今蒙召——暗示外邦人蒙恩與以色列蒙恢復，在神的心意中是同一條線上的兩端，這條線11章會再次展開。
-
-### 6. 餘民神學：神的話沒有落空 (9:27-29)
-
-引以賽亞書10:22-23、1:9：以色列雖多如海沙，得救的不過是「剩下的餘數」。這不是新教義，是先知傳統一貫的立場——神從來沒有應許全體以色列人都必得救，祂應許的是保守一個餘民。今天教會裏有信主的猶太人，正是這餘民應許的延續，不是「神的話落空」的證據，而是「神的話應驗」的證據。
-
-### 7. 全章的鑰匙：因信，不因行為 (9:30-33)
+### 4. 全章的鑰匙：因信，不因行為 (9:30-33)
 
 保羅自己給出的結論最重要：外邦人「不追求義」反倒得了義，因為他們因信而得；以色列「追求律法的義」卻得不著，因為「不憑著信心求，只憑著行為求」。這句話把整章從「抽象的預定論辯論」拉回到3-4章已經建立的福音核心——因信稱義。以色列現在的光景，不是因為神偏心不揀選他們，而是因為他們把追求義的方法弄錯了，跌在那塊本該使人得救的絆腳石上。這正是10章要展開的主題。
 
@@ -187,17 +179,25 @@ publisher: 三書精讀出版系統
 
 > 出處：對阿民念／衛斯理傳統及「民族揀選」釋經進路之一般性學術歸納轉述，非逐字引句。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**從「不能隔絕」到「大有憂愁」**：摩根指出，8章與9章之間有一個看似矛盾、實則彼此支撐的轉折——8章結束於「無論是死，是生……都不能叫我們與神的愛隔絕」，緊接著9章卻是保羅「大有憂愁，心裏時常傷痛」。這不是保羅信心動搖，而是保羅深知：正因為他確知神揀選的愛何等堅定不移，他才對那些還在這愛之外的骨肉同胞何等痛心——確據沒有使人冷漠，反而使人更懂得為失喪的人心碎。
 
-麥克阿瑟在其講道與注釋中，一貫從個人揀選的角度解讀羅馬書9章，認為窯匠與泥的意象正是要打破人以為自己有「天生的資格」向神提出要求的錯覺——受造物本來就無權質問造物主為何如此造他；同時他也強調，9:30-33才是全章的落腳點：以色列失敗的真正原因不是「沒有被揀選」，而是「用錯誤的方法（靠行為而非信心）追求義」。
+**器皿的意象不是宿命，是呼召**：摩根特別提醒讀者，不要把9:22-23的「憤怒的器皿」與「憐憫的器皿」讀成兩種截然不同、彼此無關的族類。保羅接下來立刻說「這器皿就是我們被神所召的，不但是從猶太人中，也是從外邦人中」——蒙憐憫的器皿，正是被神呼召出來、原本也在憤怒之下的人。這一章最終指向的，不是把人分類，而是頌讚神主動呼召的憐憫。
+
+**全章的收束句才是鑰匙**：摩根強調，若只停留在9:6-29討論神的主權而不讀到9:30-33，會完全誤解保羅的用意。9章不是要建立一套抽象的預定論體系，而是要為10章鋪路——說明以色列現在的光景，根源在於他們「不憑著信心求，只憑著行為求」。摩根說，整段論述最終要把讀者帶回到3章已經立定的根基：稱義只因著信。
+
+> 出處：對G. Campbell Morgan羅馬書相關講章一貫解經取向之一般性歸納轉述，非逐字引句。
+
+### 麥克阿瑟 (John MacArthur)
+
+**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟在其講道與注釋中，一貫從個人揀選的角度解讀羅馬書9章，認為窯匠與泥的意象正是要打破人以為自己有「天生的資格」向神提出要求的錯覺——受造物本來就無權質問造物主為何如此造他；同時他也強調，9:30-33才是全章的落腳點：以色列失敗的真正原因不是「沒有被揀選」，而是「用錯誤的方法（靠行為而非信心）追求義」。
 
 > 出處：對麥克阿瑟一貫解經立場之一般性歸納轉述（未附具體講題與日期），非逐字引句。
 
-**當代「民族／群體揀選」釋經進路（如新約學界對「新保羅觀」相關討論）**：
+### 當代學界的多元聲音
 
-近數十年，部分新約學者（如提出「新保羅觀」的相關學者群）主張，應更多從第二聖殿猶太教的歷史背景理解羅馬書9-11章：保羅關心的核心問題，是「誰屬於神的約民」這個群體性、歷史性的問題，而非個別靈魂命定得救或滅亡的抽象問題。這一進路與傳統阿民念式「群體揀選」有相近之處，但立論基礎（第二聖殿猶太教研究）不同，構成當代學界另一股重要聲音。
+**當代「民族／群體揀選」釋經進路（如新約學界對「新保羅觀」相關討論）**：近數十年，部分新約學者（如提出「新保羅觀」的相關學者群）主張，應更多從第二聖殿猶太教的歷史背景理解羅馬書9-11章：保羅關心的核心問題，是「誰屬於神的約民」這個群體性、歷史性的問題，而非個別靈魂命定得救或滅亡的抽象問題。這一進路與傳統阿民念式「群體揀選」有相近之處，但立論基礎（第二聖殿猶太教研究）不同，構成當代學界另一股重要聲音。
 
 > 出處：對「新保羅觀」相關學術討論方向之一般性歸納，非引自特定學者的逐字著作，亦未指名特定學者以免張冠李戴。
 
@@ -205,33 +205,29 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 100:3-5
 
-> **你們當曉得耶和華是神！**
-> 我們是他造的，也是屬他的；
-> 我們是他的民，也是他草場的羊。
-> 當稱謝進入他的門，
-> 當讚美進入他的院；
-> 當感謝他，稱頌他的名！
-> 因為耶和華本為善，
-> 他的慈愛存到永遠，
+> **你們當曉得耶和華是神！** \
+> 我們是他造的，也是屬他的； \
+> 我們是他的民，也是他草場的羊。 \
+> 當稱謝進入他的門， \
+> 當讚美進入他的院； \
+> 當感謝他，稱頌他的名！ \
+> 因為耶和華本為善， \
+> 他的慈愛存到永遠， \
 > 他的信實直到萬代。
 
-> **Know that the LORD, he is God!**
-> It is he who made us, and we are his;
-> we are his people, and the sheep of his pasture.
-> Enter his gates with thanksgiving,
-> and his courts with praise!
-> Give thanks to him; bless his name!
-> For the LORD is good;
-> his steadfast love endures forever,
-> and his faithfulness to all generations.
-
----
-
-## 聖詩默想 (Hymn Meditation)
+> **Know that the LORD Himself is God;** \
+> It is He who has made us, and not we ourselves; \
+> *We are* His people and the sheep of His pasture. \
+> Enter His gates with thanksgiving \
+> *And* His courts with praise. \
+> Give thanks to Him, bless His name. \
+> For the LORD is good; \
+> His lovingkindness is everlasting \
+> And His faithfulness to all generations.
 
 ### O Love That Wilt Not Let Me Go
 
@@ -242,62 +238,26 @@ publisher: 三書精讀出版系統
 - 「我把虧欠的生命交還」— 呼應9:16「不在乎那定意的，也不在乎那奔跑的」
 - 「更豐盛，更真純」— 呼應9:23「豐盛的榮耀」彰顯在蒙憐憫的器皿上
 
-### 另一配詩：詩篇 100 韻文版 (Old Hundredth)
+**另一配詩：詩篇100韻文版 (Old Hundredth)**
 
-> All people that on earth do dwell,
-> Sing to the Lord with cheerful voice;
-> Him serve with mirth, His praise forth tell,
+> All people that on earth do dwell, \
+> Sing to the Lord with cheerful voice; \
+> Him serve with mirth, His praise forth tell, \
 > Come ye before Him and rejoice.
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**從「不能隔絕」到「大有憂愁」**：摩根指出，8章與9章之間有一個看似矛盾、實則彼此支撐的轉折——8章結束於「無論是死，是生……都不能叫我們與神的愛隔絕」，緊接著9章卻是保羅「大有憂愁，心裏時常傷痛」。這不是保羅信心動搖，而是保羅深知：正因為他確知神揀選的愛何等堅定不移，他才對那些還在這愛之外的骨肉同胞何等痛心——確據沒有使人冷漠，反而使人更懂得為失喪的人心碎。
-
-**器皿的意象不是宿命，是呼召**：摩根特別提醒讀者，不要把9:22-23的「憤怒的器皿」與「憐憫的器皿」讀成兩種截然不同、彼此無關的族類。保羅接下來立刻說「這器皿就是我們被神所召的，不但是從猶太人中，也是從外邦人中」——蒙憐憫的器皿，正是被神呼召出來、原本也在憤怒之下的人。這一章最終指向的，不是把人分類，而是頌讚神主動呼召的憐憫。
-
-**全章的收束句才是鑰匙**：摩根強調，若只停留在9:6-29討論神的主權而不讀到9:30-33，會完全誤解保羅的用意。9章不是要建立一套抽象的預定論體系，而是要為10章鋪路——說明以色列現在的光景，根源在於他們「不憑著信心求，只憑著行為求」。摩根說，整段論述最終要把讀者帶回到3章已經立定的根基：稱義只因著信。
-
-> 出處：對G. Campbell Morgan羅馬書相關講章一貫解經取向之一般性歸納轉述，非逐字引句。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**揀選的兩極不能各執一端**：老弟兄一貫的查經原則是——聖經裏凡是人的理性無法完全調和的真理（神的主權與人的責任、神的揀選與人的相信），不要急著用邏輯把其中一端消解掉，而要兩端都持守、活在敬畏與謙卑中。羅馬書9章講神揀選的主權，10章馬上講「凡求告主名的就必得救」——人的呼求、人的信，同樣是真實的。整本聖經從不把這兩者對立，是後來的系統神學家才把它們拆開來辯論。
-
-**窯匠的比喻要回到創世記讀**：老弟兄查經常強調「摩西五經是理解新約話語的根基」。9:20-21窯匠與泥的意象，根源在耶利米書18章，但更深的根源是創世記2:7——「耶和華神用地上的塵土造人」，人的受造本身就是「泥」被神的手塑造。保羅不是發明一個新比喻，是把整本聖經對「受造」與「創造主」的關係重新擺在讀者面前：你今天活著的每一口氣，本來就是被造的，不是自己給自己的。
-
-**雅各與以掃：不是關於個人得救，是關於誰承接應許**：老弟兄查經時習慣先問而不先答——「雅各和以掃，誰後來個人信主、誰沒有信主，聖經有沒有明講？」（沒有明講）「經文說的是甚麼？是誰要服侍誰，是應許藉哪一個兒子的血脈往下傳。」這樣的提問，把讀者從急著推論「以掃是不是下地獄了」拉回到經文實際說的話——這段的核心是應許的傳承，不是二人死後命運的宣判。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*O Love That Wilt Not Let Me Go*（如前「配詩」所引）
-
-> O Love that wilt not let me go,
-> I rest my weary soul in Thee;
-> I give Thee back the life I owe,
-> That in Thine ocean depths its flow
-> May richer, fuller be.
-
-**詩篇**：詩篇 100:3
-
-> 你們當曉得耶和華是神！我們是他造的，也是屬他的；我們是他的民，也是他草場的羊。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：揀選不是因為你配得，是因為神主動呼召——受造之物的位分，是被塑造，不是質問塑造者。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-揀選這條線，從創世記就開始了：神從吾珥（Ur）眾多的人中揀選亞伯拉罕一人（創15:7；徒7:2-4），不是因為亞伯拉罕比別人更配得，聖經沒有一個字說他當時已經信靠耶和華、或行為更良善——揀選在他被召之前就已經是神的主動。接著雅各與以掃，還沒出生，「大的要服侍小的」已經定案（創25:23）。出埃及記把這個揀選從個人擴大到一個民族：「耶和華專愛你們，揀選你們，並非因你們的人數多於別民……只因耶和華愛你們」（申7:7-8）——以色列被揀選，同樣不是因為他們配得。
+**蒙召在先線**：揀選這條線，從創世記就開始了——神從吾珥（Ur）眾多的人中揀選亞伯拉罕一人（創15:7；徒7:2-4），不是因為亞伯拉罕比別人更配得，聖經沒有一個字說他當時已經信靠耶和華、或行為更良善——揀選在他被召之前就已經是神的主動。接著雅各與以掃，還沒出生，「大的要服侍小的」已經定案（創25:23）——這條線提醒我們：雅各與以掃的例子，聖經從未明講兩人個人最終得救與否，經文真正要說的是誰承接應許的血脈，不是二人死後命運的宣判。
 
-這條線到羅馬書9章，保羅把它濃縮成一句神學命題：「不在乎人的行為，乃在乎召人的主」。而這條線並沒有停在這裏——以弗所書1:4-5把它推到創世以前：「就如神從創立世界以前，在基督裏揀選了我們……又因愛我們，就按著自己意旨所喜悅的，預定我們藉著耶穌基督得兒子的名分。」揀選最終的落腳點，不是雅各或以色列，而是「在基督裏」——一切揀選，都是為了把人帶進基督裏。
+**揀選歸於基督線**：出埃及記把這個揀選從個人擴大到一個民族：「耶和華專愛你們，揀選你們，並非因你們的人數多於別民……只因耶和華愛你們」（申7:7-8）——以色列被揀選，同樣不是因為他們配得。這條線到羅馬書9章，保羅把它濃縮成一句話：「不在乎人的行為，乃在乎召人的主」。而這條線並沒有停在這裏——以弗所書1:4-5把它推到創世以前：「就如神從創立世界以前，在基督裏揀選了我們……又因愛我們，就按著自己意旨所喜悅的，預定我們藉著耶穌基督得兒子的名分。」揀選最終的落腳點，不是雅各或以色列，而是「在基督裏」——一切揀選，都是為了把人帶進基督裏。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -318,17 +278,9 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我是不是像那個向窯匠強嘴的泥，質問神為甚麼這樣安排我的處境？
 - **一個行動**：為一位還沒有信主的骨肉之親，用保羅式的「大有憂愁」為他們具體代求，而不是遠遠地評論。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：揀選不是因為你配得，是因為神主動呼召——受造之物的位分，是被塑造，不是質問塑造者。
-
-**貫通全經**：亞伯拉罕被召出吾珥、雅各在未出生前蒙揀選、以色列因神的愛而非人數被選——這條線最終匯入以弗所書1章：「從創立世界以前，在基督裏揀選了我們。」
-
-**無法迴避的問題**：「你今天是願意被塑造，還是常常向神強嘴，質問祂為甚麼這樣安排你的生命？」
-
 > 「揀選的兩極——神的主權與人的責任——不要急著用邏輯把其中一端消解掉。兩端都持守，活在敬畏與謙卑中，這才是聖經要你站的位置。」
+
+**你看見耶穌了嗎**：整章圍繞著揀選、器皿、餘民打轉，最終卻在9:5停下腳步，說出全章最重的一句話——「基督也是從他們出來的——他是在萬有之上永遠可稱頌的神！」以色列的兒子名分、榮耀、諸約、律法、應許，全都是為了讓這一位從他們中間誕生。而9:33那塊「放在錫安」的石頭，不是抽象的教義，是這同一位基督——祂使人跌倒，也使信靠祂的人不至於羞愧。你今天面對的，正是這塊石頭：你把祂當作絆腳石在迴避，還是當作磐石在信靠？
 
 ---
 
@@ -336,13 +288,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **我的信心是靠甚麼**：我信主，是因為我做了甚麼配得神揀選的事，還是因為神主動的恩典先臨到我？
+1. **保羅式的憂愁**：我心裏是否也有像保羅一樣「大有憂愁，心裏時常傷痛」的人——為那些還沒有信主的至親骨肉？我最近一次真誠為他們代求是甚麼時候？
 
-2. **面對神的主權**：當我遇到不明白、無法用邏輯完全解釋的神的安排時，我的第一反應是質問（像向窯匠強嘴），還是敬畏地信靠？
+2. **絆腳石還是磐石**：9:33說同一塊石頭，對信的人是磐石，對不信的人是絆腳石。今天我對基督的態度，是把祂當作絆腳石在迴避，還是把祂當作磐石在信靠？
 
-3. **保羅式的憂愁**：我心裏是否也有像保羅一樣「大有憂愁，心裏時常傷痛」的人——為那些還沒有信主的至親骨肉？我最近一次真誠為他們代求是甚麼時候？
-
-4. **絆腳石還是磐石**：9:33說同一塊石頭，對信的人是磐石，對不信的人是絆腳石。今天我對基督的態度，是把祂當作絆腳石在迴避，還是把祂當作磐石在信靠？
+3. **不同的解讀進路**：「雅各是我所愛的，以掃是我所惡的」這句話，本章如實呈現了幾種不同的解讀進路（個人揀選、民族角色、群體約民身分）——我認為每一種進路各自的優點與難處是甚麼？
 
 ### 禱告回應
 
@@ -356,17 +306,16 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅在9:1-3表達的哀傷，與摩西在出埃及記32:32的代求有甚麼相似之處？這對今天為未信家人代求的基督徒有甚麼提醒？
-
-2. 9:6「這不是說神的話落了空」，保羅如何用以撒與以實瑪利、雅各與以掃的例子來證明這一點？
-
-3. 「雅各是我所愛的，以掃是我所惡的」這句話，本書如實呈現了幾種不同的解讀進路——你認為每一種進路各自的優點與難處是甚麼？
-
-4. 9:20-21窯匠與泥的比喻，要回答的問題是甚麼？它有沒有回答「神為甚麼揀選這人不揀選那人」，還是回答另一個問題？
-
-5. 9:30-33是全章的收束——你認為保羅在這裏最想讓讀者明白的一件事是甚麼？這如何連接到10章「信心與宣教」？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 揀選先於行為：雅各與以掃 | 9:10-13 | 創25:23 |
+| 窯匠與泥的意象 | 9:20-21 | 創2:7、耶18章、賽29:16、賽45:9 |
+| 蒙憐憫的器皿包括外邦人 | 9:24-26 | 何1:10、何2:23 |
+| 餘民神學：神的話沒有落空 | 9:27-29 | 賽10:22-23、賽1:9 |
+| 保羅的代求與摩西的代求 | 9:1-3 | 出32:32 |
+| 揀選從個人到群體，終點在基督裏 | 9:6-13 | 申7:7-8、弗1:4-5 |
 
 ---
 

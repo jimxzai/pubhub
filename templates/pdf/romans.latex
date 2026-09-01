@@ -295,6 +295,14 @@
 \definecolor{CoverMuted}{RGB}{188,183,166}
 
 %% ============================================
+%% SECTION NUMBERING
+%% ============================================
+% A devotional study book's sections are named (經文/背景/原文研讀/…), not
+% numbered — without this, every H2/H3 prints as "8.6.1 領受要點" and the TOC
+% turns into an outline of a technical manual.
+\setcounter{secnumdepth}{0}
+
+%% ============================================
 %% HYPERLINKS
 %% ============================================
 \usepackage{hyperref}
@@ -303,7 +311,11 @@
   linkcolor=ChapterBlue,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={羅馬書研讀},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={Romans Deep Study},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -504,9 +516,9 @@ $endif$
 這義是本於信，以致於信。如經上所記：「義人必因信得生。」\\[0.2em]
 {\baskervillefont\footnotesize\color{CoverCream} For I am not ashamed of the gospel, for it is the power of God\\
 for salvation to everyone who believes, to the Jew first and also to the Greek.\\
-For in it the righteousness of God is revealed from faith for faith,\\
-as it is written, ``The righteous shall live by faith.''}\\
-{\footnotesize\color{CoverCream} — 羅馬書 1:16-17 \textbullet\ {\baskervillefont Romans 1:16-17}}
+For in it the righteousness of God is revealed from faith to faith;\\
+as it is written, “BUT THE RIGHTEOUS \textit{man} SHALL LIVE BY FAITH.”}\\
+{\footnotesize\color{CoverCream} — 羅馬書 1:16-17 \textbullet\ {\baskervillefont Romans 1:16-17 (NASB 1995)}}
 \vspace{0.35cm}
 {\color{CoverGoldBright}\hrule height 0.6pt}
 \end{minipage}
@@ -624,14 +636,14 @@ $endif$
 \vspace{0.8cm}
 
 {\baskervillefont\itshape\small\color{LightGray}
-To everyone who has heard the words ``but now''\\
---- and still finds it hard to believe\\
+To everyone who has heard the words “but now”\\
+— and still finds it hard to believe\\
 they have already been justified.}
 
 \vspace{0.9cm}
 
 {\small\color{ScriptureGold} 但如今，神的義……已經顯明出來。}\\[0.15em]
-{\baskervillefont\footnotesize\itshape\color{LightGray} ``But now the righteousness of God has been made known...'' --- Romans 3:21}
+{\baskervillefont\footnotesize\itshape\color{LightGray} “But now apart from the Law the righteousness of God has been manifested…” — Romans 3:21 (NASB 1995)}
 
 \vspace{0.8cm}
 
@@ -657,16 +669,16 @@ All rights reserved.\\[0.8em]
 \textbf{聖經版本 / Bible Versions}\\
 中文經文統一採用和合本（CUV），逐節經 ai-eden.com 或 cnbible.com 核對；各章核對來源詳見附錄二（99-appendix-references.md）逐章說明。\\
 Chinese Scripture is uniformly the Chinese Union Version (CUV), verse-by-verse verified against ai-eden.com or cnbible.com; see the references appendix for the exact per-chapter verification source.\\
-English: English Standard Version (ESV)\\[0.8em]
+English: New American Standard Bible (NASB 1995)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 老弟兄查經方法論與神學框架之應用（本書無對應之老弟兄羅馬書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
+\textbullet\ 老弟兄查經方法論與領受框架之應用（本書無對應之老弟兄羅馬書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
 \textbullet\ John MacArthur - MacArthur New Testament Commentary (gty.org)\\
 \textbullet\ G. Campbell Morgan\\[0.8em]
 
 \textbf{核心主題 / Central Theme}\\
 保羅寫給羅馬教會最系統的一封信——從普世的罪，到因信稱義的恩典，到聖靈中得勝的新生命，直到教會如何在世上活出這福音。\\
-Paul's most systematic letter --- from universal sin, to the grace of justification by faith, to victorious new life in the Spirit, to how the church lives out this gospel in the world.\\[0.8em]
+Paul's most systematic letter — from universal sin, to the grace of justification by faith, to victorious new life in the Spirit, to how the church lives out this gospel in the world.\\[0.8em]
 
 本書為三書精讀項目成果之一。\\
 Part of the Three Books Deep Reading Project.
@@ -677,6 +689,11 @@ $endif$
 
 % Table of contents
 \pagestyle{fancy}
+% tocdepth 1 = chapters + their H2 sections. Left at the LaTeX default, this
+% book's TOC ran 22 pages (subsection entries for every 原文研讀/領受要點
+% sub-heading); chapters-only would be too coarse, since the 11 named sections
+% ARE the reference surface a reader navigates by.
+\setcounter{tocdepth}{1}
 {\color{ChapterBlue}\tableofcontents}
 \cleardoublepage
 
@@ -701,7 +718,7 @@ $body$
 \vspace{1cm}
 
 {\itshape\normalsize\color{CommentaryBrown} 你站立的根基，是自己的行為，還是基督的義？}\\[0.3em]
-{\baskervillefont\itshape\small\color{LightGray} What is the ground you stand on --- your own works, or the righteousness of Christ?}
+{\baskervillefont\itshape\small\color{LightGray} What is the ground you stand on — your own works, or the righteousness of Christ?}
 
 \vspace{1.4cm}
 
@@ -745,9 +762,9 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書逐章研讀羅馬書全書十六章，並附索引與參考資料附錄，整合老弟兄一貫的查經方法論與以基督為中心的神學框架（本書並無對應之老弟兄羅馬書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道，以及 G. Campbell Morgan 的屬靈與結構分析。全信的軌跡，從全人類普世的罪、到因信稱義而不靠行為、到聖靈能力中的成聖生命、到神向以色列信實不變的揀選，直到一個被福音塑造的群體在世上當有的實際樣式——保羅寫給羅馬教會最系統的一封信，在這裡逐章展開。
+本書逐章研讀羅馬書全書十六章，並附索引與參考資料附錄，整合老弟兄一貫的查經方法論與以基督為中心的領受框架（本書並無對應之老弟兄羅馬書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道，以及 G. Campbell Morgan 的屬靈與結構分析。全信的軌跡，從全人類普世的罪、到因信稱義而不靠行為、到聖靈能力中的成聖生命、到神向以色列信實不變的揀選，直到一個被福音塑造的群體在世上當有的實際樣式——保羅寫給羅馬教會最系統的一封信，在這裡逐章展開。
 
-{\baskervillefont\color{CoverCream} chapter-by-chapter study of all sixteen chapters of Romans, with index and references appendices, integrating the Elder's documented Bible-study methodology and Christ-centered theological framework (this book has no corresponding verse-by-verse Elder teaching notes on Romans itself --- an honest disclosure detailed in the appendix), alongside John MacArthur's verse-by-verse exposition and G. Campbell Morgan's spiritual and structural analysis. The letter's arc unfolds chapter by chapter: from the universal guilt of all humanity, through justification by faith apart from works, through the Spirit-empowered life of sanctification, through God's sovereign faithfulness to Israel, to the practical shape of a gospel-formed community in the world --- Paul's most systematic letter, traced here in full.}
+{\baskervillefont\color{CoverCream} chapter-by-chapter study of all sixteen chapters of Romans, with index and references appendices, integrating the Elder's documented Bible-study methodology and Christ-centered theological framework (this book has no corresponding verse-by-verse Elder teaching notes on Romans itself — an honest disclosure detailed in the appendix), alongside John MacArthur's verse-by-verse exposition and G. Campbell Morgan's spiritual and structural analysis. The letter's arc unfolds chapter by chapter: from the universal guilt of all humanity, through justification by faith apart from works, through the Spirit-empowered life of sanctification, through God's sovereign faithfulness to Israel, to the practical shape of a gospel-formed community in the world — Paul's most systematic letter, traced here in full.}
 $endif$
 \end{minipage}
 
@@ -779,8 +796,8 @@ $endif$
 \centering
 \footnotesize\itshape\color{CoverCream}
 我不以福音為恥；這福音本是神的大能，要救一切相信的，先是猶太人，後是希利尼人。因為神的義正在這福音上顯明出來；這義是本於信，以致於信。如經上所記：「義人必因信得生。」\\[0.15em]
-{\baskervillefont\footnotesize\color{CoverCream} For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith for faith, as it is written, ``The righteous shall live by faith.''}\\
-{\footnotesize\color{CoverCream} --- 羅馬書 1:16-17 \textbullet\ {\baskervillefont Romans 1:16-17}}
+{\baskervillefont\footnotesize\color{CoverCream} For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it the righteousness of God is revealed from faith to faith; as it is written, “BUT THE RIGHTEOUS \textit{man} SHALL LIVE BY FAITH.”}\\
+{\footnotesize\color{CoverCream} — 羅馬書 1:16-17 \textbullet\ {\baskervillefont Romans 1:16-17 (NASB 1995)}}
 \end{minipage}
 
 \vspace{0.18cm}
