@@ -1,23 +1,9 @@
-% PubHub Gospel Devotional Template 2026 (Enhanced)
-% 6×9" Trade Paperback Edition with Full TikZ Graphics
-% Full CJK Bilingual + Red Letter Bible + Holy Land Maps
+% PubHub Jesus' Parables Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
 % Requires XeLaTeX for CJK support
 
-\documentclass[11pt,openany,twoside]{memoir}
-
-%% ============================================
-%% PAGE SIZE - 6×9" Trade Paperback (Memoir)
-%% ============================================
-\setstocksize{9in}{6in}
-\settrimmedsize{\stockheight}{\stockwidth}{*}
-\settrims{0pt}{0pt}
-
-% Margins for 6×9" format with comfortable reading
-\setlrmarginsandblock{0.75in}{0.6in}{*}
-\setulmarginsandblock{0.7in}{0.8in}{*}
-\setheadfoot{0.4in}{0.4in}
-\setheaderspaces{*}{0.3in}{*}
-\checkandfixthelayout
+\documentclass[11pt,openany]{book}
 
 %% ============================================
 %% FONT SETUP WITH CJK LINE BREAKING
@@ -35,7 +21,7 @@
 %% Greek and Hebrew font support - auto-switch for Unicode blocks
 \usepackage{ucharclasses}
 \newfontfamily\greekfont{Times New Roman}[Script=Greek]
-\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
 %% ucharclasses — full block coverage via \setTransitionTo.
 %%
 %% Two traps this replaces (see .claude/skills/eat-bible/references/gotchas.md):
@@ -118,45 +104,58 @@
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
 
 %% ============================================
-%% LINE AND PARAGRAPH SPACING
+%% PAGE GEOMETRY - Fixed margins (more conservative)
 %% ============================================
-\linespread{1.15}
-\setlength{\parindent}{0pt}
-\setlength{\parskip}{0.4em}
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
 
 %% ============================================
-%% COLOR SCHEME - Devotional Edition
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Parables / Hidden and Revealed Theme
 %% ============================================
 \usepackage{xcolor}
 
-% Primary colors
-\definecolor{ChapterBlue}{RGB}{25,55,95}        % Deep navy for chapters
-\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs
-\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
+% Primary colors - Royal purple and gold: the supremacy and fullness of Christ
+\definecolor{ChapterPurple}{RGB}{75,35,95}       % Deep royal purple
+\definecolor{ScriptureGold}{RGB}{175,135,55}     % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{90,65,55}     % Warm brown for commentary
+\definecolor{FullnessTeal}{RGB}{35,85,90}        % Deep teal accent
 
-% RED LETTER BIBLE - Jesus's Words (ai-eden.com inspired)
-\definecolor{JesusRed}{RGB}{180,0,0}            % Deep red letter Bible red
-
-% Map colors
-\definecolor{WaterBlue}{RGB}{180,210,230}       % Sea/river blue
-\definecolor{LandBeige}{RGB}{245,235,220}       % Land color
-\definecolor{MountainBrown}{RGB}{180,160,140}   % Mountain shading
-\definecolor{SeaDark}{RGB}{100,140,170}         % Deeper water
+% Diagram colors
+\definecolor{DiagramLilac}{RGB}{225,210,235}     % Soft lilac fill
+\definecolor{DiagramCream}{RGB}{245,238,220}     % Cream fill
+\definecolor{DiagramTealLight}{RGB}{205,230,230} % Light teal fill
 
 % Box colors
-\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
-\definecolor{GreekBg}{RGB}{245,248,252}         % Light blue for Greek
-\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
-\definecolor{SignsBg}{RGB}{255,250,240}         % Warm cream for signs box
-\definecolor{IAmBg}{RGB}{240,248,255}           % Light blue for I AM box
+\definecolor{ScriptureBg}{RGB}{251,248,252}      % Pale lilac-white for scripture boxes
+\definecolor{GreekBg}{RGB}{248,248,252}          % Light lavender for Greek
+\definecolor{ApplicationBg}{RGB}{250,248,245}    % Light cream for application
 
 % Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
 
-% Vine colors
-\definecolor{VineGreen}{RGB}{60,100,50}
-\definecolor{GrapesPurple}{RGB}{100,50,120}
+% Red Letter Bible (Jesus's words) — defined for template consistency with
+% the project's other Gospel templates; this volume covers Jesus' parables and
+% contains no direct quoted speech of Jesus, so \jesus{} has zero usages
+% in this book's actual content.
+\definecolor{JesusRed}{RGB}{204,0,0}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
 
 %% ============================================
 %% MATH AND SYMBOLS
@@ -169,257 +168,26 @@
 %% ============================================
 \usepackage{graphicx}
 \usepackage{tikz}
-\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing,patterns,shadows}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
 
 %% ============================================
-%% RED LETTER BIBLE COMMAND
-%% ============================================
-% Command for Jesus's words - inspired by ai-eden.com
-\newcommand{\jesus}[1]{\textcolor{JesusRed}{\textit{#1}}}
-
-%% ============================================
-%% VINE DECORATIONS
+%% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
 
-% Simple vine decoration with leaves
-\newcommand{\vinedecor}[1]{%
+% Crown/royal decoration command (supremacy of Christ)
+\newcommand{\crownline}[1]{%
 \begin{tikzpicture}[scale=0.6]
-  \draw[color=VineGreen,line width=0.8pt,decorate,decoration={snake,amplitude=1.2pt,segment length=10pt}]
+  \draw[color=ChapterPurple,line width=0.8pt,decorate,decoration={snake,amplitude=0.5pt,segment length=6pt}]
     (0,0) -- (#1,0);
-  \foreach \x in {0.4,1.0,1.6,2.2,2.8} {
-    \pgfmathparse{\x < #1 ? 1 : 0}
-    \ifnum\pgfmathresult=1
-      \draw[color=VineGreen,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.18) and (\x+0.22,0.18) .. (\x+0.28,0.06);
-      \draw[color=VineGreen,line width=0.4pt] (\x+0.15,0.12) .. controls (\x+0.2,0.2) .. (\x+0.3,0.15);
-    \fi
+\end{tikzpicture}%
+}
+
+% Star decoration
+\newcommand{\starsymbol}{%
+\begin{tikzpicture}[scale=0.12]
+  \foreach \i in {0,72,...,288} {
+    \draw[color=ScriptureGold,line width=1pt] (0,0) -- (\i:1);
   }
-\end{tikzpicture}%
-}
-
-% Grape cluster decoration
-\newcommand{\grapecluster}{%
-\begin{tikzpicture}[scale=0.3]
-  % Stem
-  \draw[color=VineGreen,line width=0.8pt] (0,0.8) -- (0,0.4);
-  % Grapes
-  \foreach \x/\y in {0/0, -0.2/-0.25, 0.2/-0.25, -0.1/-0.5, 0.1/-0.5, 0/-0.75} {
-    \fill[color=GrapesPurple] (\x,\y) circle (0.12);
-  }
-  % Leaf
-  \draw[color=VineGreen,fill=VineGreen!30,line width=0.4pt]
-    (0.3,0.6) .. controls (0.5,0.8) and (0.6,0.6) .. (0.4,0.4)
-    .. controls (0.3,0.5) .. (0.3,0.6);
-\end{tikzpicture}%
-}
-
-% Cross decoration
-\newcommand{\crosssymbol}{%
-\begin{tikzpicture}[scale=0.15]
-  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
-  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
-\end{tikzpicture}%
-}
-
-% Ornament line
-\newcommand{\ornamentline}{%
-  \begin{center}
-    \vspace{0.3em}
-    {\color{ScriptureGold}\rule{0.3\textwidth}{0.5pt}%
-    \hspace{0.5em}\ensuremath{\diamond}\hspace{0.5em}%
-    \rule{0.3\textwidth}{0.5pt}}
-    \vspace{0.3em}
-  \end{center}
-}
-
-%% ============================================
-%% KINGDOM PARABLES BOX
-%% ============================================
-\newcommand{\kingdomparablesbox}{%
-\begin{tikzpicture}[scale=0.75]
-  % Background
-  \fill[SignsBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
-  \draw[ScriptureGold,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
-
-  % Title
-  \node[font=\large\bfseries,color=ChapterBlue] at (4.1,4.3) {天國的奧祕 Kingdom Parables (太 13)};
-
-  % Divider
-  \draw[ScriptureGold,line width=0.8pt] (0.2,3.9) -- (8,3.9);
-
-  % Signs list
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {1. 撒種的比喻 Sower (13:1-23)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {2. 稗子的比喻 Weeds (13:24-43)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {3. 芥菜種的比喻 Mustard Seed (13:31-32)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {4. 麵酵的比喻 Leaven (13:33)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.5) {5. 藏寶的比喻 Hidden Treasure (13:44)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.0) {6. 尋珠的比喻 Pearl of Great Price (13:45-46)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.5) {7. 撒網的比喻 Net (13:47-50)};
-
-  % Decorative grape
-  \node at (7.8,0.5) {\grapecluster};
-\end{tikzpicture}%
-}
-
-%% ============================================
-%% GRACE AND WATCHFULNESS BOX
-%% ============================================
-\newcommand{\graceandwatchfulnessbox}{%
-\begin{tikzpicture}[scale=0.75]
-  % Background
-  \fill[IAmBg,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
-  \draw[ChapterBlue,line width=1.5pt,rounded corners=8pt] (-0.3,-0.3) rectangle (8.5,4.8);
-
-  % Title
-  \node[font=\large\bfseries,color=JesusRed] at (4.1,4.3) {恩典與警醒 Grace \& Watchfulness};
-
-  % Divider
-  \draw[ChapterBlue,line width=0.8pt] (0.2,3.9) -- (8,3.9);
-
-  % I AM statements
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.5) {1. 浪子的比喻 Prodigal Son (路 15:11-32)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,3.0) {2. 好撒瑪利亞人 Good Samaritan (路 10:25-37)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.5) {3. 葡萄園的工人 Workers in the Vineyard (太 20:1-16)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,2.0) {4. 十童女的比喻 Ten Virgins (太 25:1-13)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.5) {5. 按才幹受託 Talents (太 25:14-30)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,1.0) {6. 綿羊與山羊 Sheep and Goats (太 25:31-46)};
-  \node[font=\small,anchor=west,color=TextGray] at (0.2,0.5) {7. 兩種根基 Two Foundations (太 7:24-27)};
-\end{tikzpicture}%
-}%% ============================================
-%% PARABLES STRUCTURE DIAGRAM
-%% ============================================
-\newcommand{\parablesstructure}{%
-\begin{tikzpicture}[scale=0.85]
-  % Title
-  \node[font=\large\bfseries,color=ChapterBlue] at (4.5,5.5) {耶穌比喻結構 Classification of Parables};
-
-  % Boxes
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.5cm,minimum height=0.8cm,font=\small\bfseries,
-        drop shadow={opacity=0.3},align=center] (mystery) at (1,4) {天國奧祕\\Kingdom Secrets};
-  \node[font=\tiny,color=LightGray] at (1,3.2) {馬太13章等};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.5cm,minimum height=0.8cm,font=\small\bfseries,
-        drop shadow={opacity=0.3},align=center] (grace) at (4.5,4) {恩典主權\\Grace \& Sovereignty};
-  \node[font=\tiny,color=LightGray] at (4.5,3.2) {浪子、葡萄園工人等};
-
-  \node[draw=JesusRed,fill=ScriptureBg,rounded corners=5pt,
-        minimum width=2.5cm,minimum height=0.8cm,font=\small\bfseries,
-        drop shadow={opacity=0.3},align=center] (watch) at (8,4) {警醒預備\\Watchfulness};
-  \node[font=\tiny,color=LightGray] at (8,3.2) {十童女、按才幹等};
-
-  % Key themes
-  \node[font=\tiny,color=CommentaryBrown] at (1,2.3) {啟示與遮蔽};
-  \node[font=\tiny,color=CommentaryBrown] at (4.5,2.3) {憐憫與賜予};
-  \node[font=\tiny,color=JesusRed] at (8,2.3) {忠心與交帳};
-\end{tikzpicture}%
-}
-
-
-%% HOLY LAND MAP (Full Page)
-%% ============================================
-\newcommand{\holylandmap}{%
-\begin{tikzpicture}[scale=1.0]
-  % Background - Land
-  \fill[LandBeige] (0,0) rectangle (10,12);
-
-  % Mediterranean Sea
-  \fill[WaterBlue] (-0.5,0) rectangle (1.8,12);
-  \draw[SeaDark,line width=0.8pt] (1.8,0) -- (1.8,12);
-  \node[font=\normalsize,color=ChapterBlue,rotate=90] at (0.6,6) {Mediterranean Sea 地中海};
-
-  % Sea of Galilee
-  \fill[WaterBlue] (6.2,9.2) ellipse (1 and 1.3);
-  \draw[SeaDark,line width=0.5pt] (6.2,9.2) ellipse (1 and 1.3);
-  \node[font=\small,color=white] at (6.2,9.4) {Sea of Galilee};
-  \node[font=\small,color=white] at (6.2,8.9) {加利利海};
-
-  % Jordan River
-  \draw[WaterBlue,line width=2.5pt] (6.2,7.9)
-    .. controls (5.8,7) and (6.3,6) .. (6,5)
-    .. controls (5.7,4) and (6.2,3) .. (6,2);
-  \node[font=\footnotesize,color=SeaDark,rotate=-75] at (5.4,5.5) {Jordan River 約旦河};
-
-  % Dead Sea
-  \fill[WaterBlue!70!SeaDark] (6,1) ellipse (0.7 and 0.9);
-  \draw[SeaDark,line width=0.5pt] (6,1) ellipse (0.7 and 0.9);
-  \node[font=\small,color=white] at (6,1.1) {Dead Sea};
-  \node[font=\small,color=white] at (6,0.6) {死海};
-
-  % Mountain regions (shading)
-  \fill[MountainBrown!25] (7.5,6) ellipse (1.6 and 2.2);
-  \fill[MountainBrown!20] (3.5,7.5) ellipse (1.1 and 1.6);
-
-  % ========== KEY LOCATIONS ==========
-
-  % Cana - Wedding miracle
-  \fill[ScriptureGold] (4.8,10.5) circle (0.16);
-  \draw[ScriptureGold,line width=0.8pt] (4.8,10.5) circle (0.23);
-  \node[font=\normalsize\bfseries,right,color=ChapterBlue] at (5.1,10.5) {Cana 迦拿};
-  \node[font=\footnotesize,right,color=TextGray] at (5.1,10.1) {Water to Wine 水變酒 (2:1-11)};
-
-  % Capernaum
-  \fill[ScriptureGold] (6.7,10.3) circle (0.16);
-  \draw[ScriptureGold,line width=0.8pt] (6.7,10.3) circle (0.23);
-  \node[font=\normalsize\bfseries,right,color=ChapterBlue] at (7,10.3) {Capernaum};
-  \node[font=\footnotesize,right,color=TextGray] at (7,9.9) {迦百農 (4:46, 6:59)};
-
-  % Nazareth
-  \fill[ScriptureGold] (3.8,9.5) circle (0.14);
-  \node[font=\small,left,color=ChapterBlue] at (3.6,9.5) {Nazareth 拿撒勒};
-
-  % Bethsaida
-  \fill[ScriptureGold] (7.1,9.5) circle (0.12);
-  \node[font=\footnotesize,right,color=TextGray] at (7.3,9.5) {Bethsaida 伯賽大};
-
-  % Sychar (Samaria)
-  \fill[ScriptureGold] (5.5,7) circle (0.16);
-  \draw[ScriptureGold,line width=0.8pt] (5.5,7) circle (0.23);
-  \node[font=\normalsize\bfseries,left,color=ChapterBlue] at (5.2,7) {Sychar 敘加};
-  \node[font=\footnotesize,left,color=TextGray] at (5.2,6.6) {Samaritan Woman (4:5)};
-
-  % Bethany beyond Jordan
-  \fill[ScriptureGold] (7.2,4.8) circle (0.14);
-  \node[font=\footnotesize,right,color=TextGray] at (7.4,4.8) {Bethany beyond Jordan};
-  \node[font=\footnotesize,right,color=TextGray] at (7.4,4.4) {約旦河外伯大尼 (1:28)};
-
-  % Bethany near Jerusalem
-  \fill[ScriptureGold] (6.8,3.4) circle (0.16);
-  \draw[ScriptureGold,line width=0.8pt] (6.8,3.4) circle (0.23);
-  \node[font=\normalsize\bfseries,right,color=ChapterBlue] at (7.1,3.4) {Bethany 伯大尼};
-  \node[font=\footnotesize,right,color=TextGray] at (7.1,3) {Lazarus Raised (11:1-44)};
-
-  % JERUSALEM - Central focus
-  \fill[JesusRed] (5.5,3.8) circle (0.22);
-  \draw[JesusRed,line width=1.5pt] (5.5,3.8) circle (0.32);
-  \node[font=\Large\bfseries,left,color=JesusRed] at (5.1,3.8) {JERUSALEM};
-  \node[font=\normalsize,left,color=JesusRed] at (5.1,3.3) {耶路撒冷};
-  \node[font=\footnotesize,left,color=TextGray] at (5.1,2.9) {Temple, Bethesda, Siloam};
-  \node[font=\footnotesize,left,color=TextGray] at (5.1,2.5) {Passion \& Resurrection};
-
-  % Bethlehem
-  \fill[ScriptureGold] (5,3.1) circle (0.12);
-  \node[font=\footnotesize,left,color=TextGray] at (4.8,3.1) {Bethlehem 伯利恆};
-
-  % ========== COMPASS ==========
-  \draw[->,very thick,color=ChapterBlue] (9,10.5) -- (9,11.3);
-  \draw[->,thick,color=ChapterBlue] (8.5,10.5) -- (9.5,10.5);
-  \node[font=\normalsize\bfseries,color=ChapterBlue] at (9,11.6) {N};
-
-  % ========== SCALE ==========
-  \draw[very thick,color=TextGray] (2.5,0.5) -- (4.5,0.5);
-  \draw[thick,color=TextGray] (2.5,0.35) -- (2.5,0.65);
-  \draw[thick,color=TextGray] (4.5,0.35) -- (4.5,0.65);
-  \node[font=\small,color=TextGray] at (3.5,0.15) {50 km / 30 miles};
-
-  % ========== LEGEND ==========
-  \fill[ScriptureBg,rounded corners=3pt] (0.3,10.8) rectangle (3,12.1);
-  \draw[ScriptureGold,line width=0.8pt,rounded corners=3pt] (0.3,10.8) rectangle (3,12.1);
-  \node[font=\small\bfseries,color=ChapterBlue] at (1.65,11.8) {Legend 圖例};
-  \fill[JesusRed] (0.6,11.45) circle (0.1);
-  \node[font=\footnotesize,right,color=TextGray] at (0.8,11.45) {Jerusalem};
-  \fill[ScriptureGold] (0.6,11.1) circle (0.08);
-  \node[font=\footnotesize,right,color=TextGray] at (0.8,11.1) {Key Location};
 \end{tikzpicture}%
 }
 
@@ -429,17 +197,14 @@
 \usepackage{hyperref}
 \hypersetup{
   colorlinks=true,
-  linkcolor=ChapterBlue,
+  linkcolor=ChapterPurple,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true,
-  pdfauthor={PubHub Three Books Project},
-  pdftitle={Gospel Devotional 2026},
-  pdfsubject={Gospel of John Study}
+  bookmarksnumbered=true
 }
 
 %% ============================================
-%% TABLES
+%% TABLES - with proper width control
 %% ============================================
 \usepackage{longtable}
 \usepackage{booktabs}
@@ -447,6 +212,7 @@
 \usepackage{tabularx}
 \usepackage{calc}
 
+% Set table width to text width - constrain tables
 \setlength{\LTleft}{0pt}
 \setlength{\LTright}{0pt}
 \setlength{\LTpre}{6pt}
@@ -460,61 +226,81 @@
 \@ifundefined{c@none}{\newcounter{none}}{}
 \makeatother
 
+% Style table rules
 \renewcommand{\toprule}{\hline\hline}
 \renewcommand{\midrule}{\hline}
 \renewcommand{\bottomrule}{\hline\hline}
 
 %% ============================================
-%% MEMOIR CHAPTER STYLE
-%% ============================================
-\makechapterstyle{devotional}{%
-  \chapterstyle{default}
-  \renewcommand*{\chapnamefont}{\normalfont\large\bfseries\color{ChapterBlue}}
-  \renewcommand*{\chapnumfont}{\normalfont\huge\bfseries\color{ScriptureGold}}
-  \renewcommand*{\chaptitlefont}{\normalfont\LARGE\bfseries\color{ChapterBlue}}
-  \renewcommand*{\printchaptername}{\centering\chapnamefont Chapter}
-  \renewcommand*{\printchapternum}{\centering\chapnumfont \thechapter}
-  \renewcommand*{\printchaptertitle}[1]{%
-    \centering\chaptitlefont ##1\par
-    \vskip 8pt
-    {\color{ScriptureGold}\rule{3in}{1.5pt}}
-  }
-  \setlength{\beforechapskip}{20pt}
-  \setlength{\afterchapskip}{25pt}
-}
-\chapterstyle{devotional}
-
-%% ============================================
-%% SECTION STYLING
-%% ============================================
-\setsecheadstyle{\normalfont\large\bfseries\color{ChapterBlue}}
-\setsubsecheadstyle{\normalfont\normalsize\bfseries\color{CommentaryBrown}}
-\setsubsubsecheadstyle{\normalfont\normalsize\bfseries\color{TextGray}}
-
-%% ============================================
 %% HEADERS AND FOOTERS
 %% ============================================
-\makepagestyle{devotional}
-\makeevenhead{devotional}{\small\thepage}{}{\small\itshape\color{LightGray}\leftmark}
-\makeoddhead{devotional}{\small\itshape\color{LightGray}\rightmark}{}{\small\thepage}
-\makeheadrule{devotional}{\textwidth}{\normalrulethickness}
-\makeevenfoot{devotional}{}{}{}
-\makeoddfoot{devotional}{}{}{}
-\pagestyle{devotional}
-
-% Plain style for chapter pages
-\makepagestyle{plain}
-\makeevenfoot{plain}{}{\small\thepage}{}
-\makeoddfoot{plain}{}{\small\thepage}{}
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
 
 %% ============================================
-%% BLOCKQUOTE STYLING
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterPurple} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterPurple}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
 %% ============================================
 \renewenvironment{quote}{%
-  \par\vspace{0.4\baselineskip}%
+  \par\vspace{0.3\baselineskip}%
   \list{}{%
-    \leftmargin=0.6em
-    \rightmargin=0.3em
+    \leftmargin=0.5em
+    \rightmargin=0.2em
     \parsep=0pt
     \itemsep=0pt
   }%
@@ -522,11 +308,11 @@
   \small\color{TextGray}%
 }{%
   \endlist
-  \par\vspace{0.4\baselineskip}%
+  \par\vspace{0.3\baselineskip}%
 }
 
 %% ============================================
-%% WIDOW/ORPHAN AND LINE BREAKING
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
 %% ============================================
 \widowpenalty=10000
 \clubpenalty=10000
@@ -570,136 +356,145 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
-% Half title page
-\begin{center}
-\vspace*{1.8in}
-{\Huge\bfseries\color{ChapterBlue} 耶穌的比喻}\\[0.3cm]
-{\Large\itshape\color{LightGray} The Parables of Jesus}
-\vfill
-\end{center}
-\cleardoublepage
-
 % Title page
+\begin{titlepage}
+\thispagestyle{empty}
 \begin{center}
-\vspace*{0.25in}
+\vspace*{0.5cm}
 
-% Decorative header
-\grapecluster\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{1pt}}\hspace{0.2cm}\grapecluster
-
-\vspace{0.35cm}
-
-% Main title
-{\fontsize{30}{36}\selectfont\bfseries\color{ChapterBlue} 耶穌的比喻}\\[0.15cm]
-{\large\itshape\color{LightGray} The Parables of Jesus}
+% Decorative star and line
+\starsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
 
 \vspace{0.4cm}
 
-% Subtitle
-{\fontsize{16}{22}\selectfont\bfseries 黃長老查經靈修研讀}\\[0.1cm]
-{\normalsize Bible Study in the Voice of Elder Huang}
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterPurple} παραβολή}\\[0.2cm]
+{\large\itshape\color{LightGray} The Parables of Jesus}
 
-\vspace{0.35cm}
+\vspace{0.6cm}
 
-% Key verse box
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 耶穌的比喻}\\[0.15cm]
+{\normalsize A Study of the Parables}
+
+\vspace{0.5cm}
+
+% Key verse in box
 \fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{3.2in}
+\begin{minipage}{4in}
 \centering
-\vspace{0.2cm}
+\vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
-\jesus{因為天國的奧祕只叫你們知道，不叫他們知道。我用比喻對他們講，是因他們看也看不見，聽也聽不見，也不明白。}\\[0.08em]
-\footnotesize To you it has been given to know the secrets of the kingdom of heaven, but to them it has not been given... This is why I speak to them in parables, because seeing they do not see, and hearing they do not hear, nor do they understand. \\ — 馬太福音 Matthew 13:11, 13
-\vspace{0.2cm}
+我要開口用比喻，把創世以來所隱藏的事發明出來。\\[0.15em]
+\footnotesize I will open my mouth in parables; I will utter what has been\\
+hidden since the foundation of the world. — Matthew 13:35
+\vspace{0.3cm}
 \end{minipage}
 }
 
-\vspace{0.4cm}
+\vspace{0.5cm}
 
-% Parables Structure Diagram (compact)
-\begin{tikzpicture}[scale=0.5]
-  \node[font=\small\bfseries,color=ChapterBlue] at (0,2.2) {比喻分類 Classification};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.45cm,font=\tiny] at (-2.5,1.2) {天國奧祕};
-  \node[font=\tiny,color=LightGray] at (-2.5,0.75) {馬太13章等};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.45cm,font=\tiny] at (0,1.2) {恩典主權};
-  \node[font=\tiny,color=LightGray] at (0,0.75) {浪子、葡萄園};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.45cm,font=\tiny] at (2.5,1.2) {警醒預備};
-  \node[font=\tiny,color=LightGray] at (2.5,0.75) {十童女、按才幹};
+% The parable's double edge — hidden to some, revealed to others (Matt 13:10-17)
+\begin{tikzpicture}[
+  every node/.style={align=center, inner sep=6pt},
+  scale=0.62, transform shape
+]
+\node[font=\scriptsize\bfseries, text=ChapterPurple] at (3,4.9)
+  {比喻的雙刃 The Two Edges of a Parable（太13:10-17）};
+\node[draw=ScriptureGold, thick, fill=ScriptureBg, rounded corners,
+      text width=5.4cm, font=\scriptsize] (seed) at (3,4.0)
+  {同一個故事 The same story};
+\node[draw=ChapterPurple, thick, fill=ScriptureBg, rounded corners,
+      text width=3.6cm, font=\scriptsize] (hide) at (0.4,2.4)
+  {對硬心的人\\ \textit{隱藏}\\ 「看是看見，卻不曉得」};
+\node[draw=ChapterPurple, thick, fill=ScriptureBg, rounded corners,
+      text width=3.6cm, font=\scriptsize] (show) at (5.6,2.4)
+  {對願聽的人\\ \textit{顯明}\\ 「你們的眼睛是有福的」};
+\node[draw=ScriptureGold, thick, fill=ScriptureBg, rounded corners,
+      text width=5.4cm, font=\scriptsize] (key) at (3,0.8)
+  {分別不在故事，在聽的人\\ \textit{The difference is not in the story}};
+\draw[->, ChapterPurple, thick] (seed) -- (hide);
+\draw[->, ChapterPurple, thick] (seed) -- (show);
+\draw[->, ScriptureGold, thick] (hide) -- (key);
+\draw[->, ScriptureGold, thick] (show) -- (key);
 \end{tikzpicture}
 
-\vfill
-
-% Equation
-{\normalsize\color{ScriptureGold}\bfseries 聽見 + 去行 = 磐石上的根基}\\[0.06cm]
-{\footnotesize\color{LightGray} Hearing + Doing = House on the Rock (Matthew 7:24)}
-
-\vspace{0.35cm}
-
-$if(author)$
-{\normalsize $author$}\\[0.2cm]
-$endif$
-
-$if(publisher)$
-{\small $publisher$}\\[0.08cm]
-$endif$
-
-$if(date)$
-{\small $date$}
-$else$
-{\small \today}
-$endif$
-
-\vspace{0.25cm}
-\crosssymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\crosssymbol
-
-\end{center}
-\cleardoublepage
-
-% Full-page Holy Land Map
-\thispagestyle{empty}
-\begin{center}
-\vspace*{0.15in}
-{\Large\bfseries\color{ChapterBlue} 耶穌比喻重要地點}\\[0.08cm]
-{\normalsize Key Locations in the Parables of Jesus}
-
-\vspace{0.2cm}
-
-\holylandmap
-
-\vspace{0.15cm}
-{\footnotesize\color{LightGray} \jesus{「凡有耳的，就應當聽。」}— 馬太福音 13:9}
-\end{center}
-\cleardoublepage
-
-% Seven Signs and I AM page (now Parables boxes)
-\thispagestyle{empty}
-\begin{center}
-\vspace*{0.25in}
-{\Large\bfseries\color{ChapterBlue} 耶穌比喻的核心分類}\\[0.08cm]
-{\normalsize Central Classifications and Key Parables}
-
 \vspace{0.4cm}
 
-\kingdomparablesbox
+{\normalsize\color{ScriptureGold}\bfseries 隱藏，是為了要顯明}\\[0.1cm]
+{\footnotesize\color{LightGray} Hidden, So That It Might Be Revealed}
 
-\vspace{0.35cm}
+\vspace{0.5cm}
 
-\graceandwatchfulnessbox
+{\large $if(author)$$author$$endif$}
 
-\vfill
+\vspace{0.3cm}
 
-{\footnotesize\color{CommentaryBrown}\itshape
-「所以，凡聽見我這話就去行的，\\
-好比一個聰明人，把房子蓋在磐石上。」\\[0.08em]
-\footnotesize Everyone then who hears these words of mine and does them\\
-will be like a wise man who built his house on the rock.\\
-— 馬太福音 Matthew 7:24}
+{\normalsize $if(publisher)$$publisher$$endif$}\\[0.2cm]
+{\normalsize $if(date)$$date$$endif$}
 
-\vspace{0.25cm}
-\ornamentline
+\vspace{0.5cm}
+
+\starsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
+
+\end{center}
+\end{titlepage}
+
+\begin{center}
+{\Large\bfseries\color{ChapterPurple} 四種土 The Four Soils}\\[0.1cm]
+{\small\itshape\color{LightGray} 馬太福音 13:1-23——比喻的總鑰匙}
+
+\vspace{0.6cm}
+
+\begin{tikzpicture}[every node/.style={align=center, inner sep=5pt}, scale=0.9, transform shape]
+\node[draw=ScriptureGold, thick, fill=ScriptureBg, rounded corners,
+      text width=11cm, font=\small\bfseries, text=ChapterPurple] (sower) at (0,4.2)
+  {撒種之人所撒的，就是道 The sower sows the word（可 4:14）};
+\node[draw=ChapterPurple, fill=white, rounded corners, text width=2.4cm,
+      font=\scriptsize] (a) at (-4.2,2.2) {\textbf{路旁}\\ 心硬\\ 惡者奪去};
+\node[draw=ChapterPurple, fill=white, rounded corners, text width=2.4cm,
+      font=\scriptsize] (b) at (-1.4,2.2) {\textbf{石頭地}\\ 沒有根\\ 遭患難就跌倒};
+\node[draw=ChapterPurple, fill=white, rounded corners, text width=2.4cm,
+      font=\scriptsize] (c) at (1.4,2.2) {\textbf{荊棘地}\\ 被擠住\\ 思慮與錢財};
+\node[draw=ScriptureGold, very thick, fill=ScriptureBg, rounded corners,
+      text width=2.4cm, font=\scriptsize] (d) at (4.2,2.2)
+  {\textbf{好土}\\ 聽了，明白了\\ 持守，就結實};
+\draw[->, ChapterPurple] (sower) -- (a);
+\draw[->, ChapterPurple] (sower) -- (b);
+\draw[->, ChapterPurple] (sower) -- (c);
+\draw[->, ScriptureGold, thick] (sower) -- (d);
+\node[font=\scriptsize\itshape, text=CommentaryBrown, text width=11cm] at (0,0.6)
+  {四種土不是四種人，是同一顆心面對神的話時，可能出現的四種光景。};
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+{\Large\bfseries\color{ChapterPurple} 比喻在四福音中的分布}\\[0.4cm]
+
+\begin{tikzpicture}[every node/.style={align=center, inner sep=5pt}, scale=0.9, transform shape]
+\node[draw=ChapterPurple, fill=ScriptureBg, rounded corners, text width=2.6cm,
+      font=\scriptsize] at (-4.2,0) {\textbf{馬太}\\ 天國的比喻\\ 國度與審判};
+\node[draw=ChapterPurple, fill=ScriptureBg, rounded corners, text width=2.6cm,
+      font=\scriptsize] at (-1.4,0) {\textbf{馬可}\\ 最少\\ 精簡與行動};
+\node[draw=ChapterPurple, fill=ScriptureBg, rounded corners, text width=2.6cm,
+      font=\scriptsize] at (1.4,0) {\textbf{路加}\\ 最多\\ 恩典與失喪者};
+\node[draw=ScriptureGold, thick, fill=ScriptureBg, rounded corners, text width=2.6cm,
+      font=\scriptsize] at (4.2,0) {\textbf{約翰}\\ 沒有比喻\\ 直接說「我是」};
+\end{tikzpicture}
+
+\vspace{0.6cm}
+
+% Key insight box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{5in}
+\small\color{CommentaryBrown}
+\textbf{從中領受}：比喻不是為了把道理講得更淺，是為了把人分出來。同一個故事，對硬著心的人是遮蔽，對願意聽的人是開啟——「凡有的，還要加給他」（太13:12）。所以讀比喻的第一個問題不是「這是甚麼意思」，是「我是哪一種土」。
+\end{minipage}
+}
+
 \end{center}
 \cleardoublepage
+
 
 % Copyright page
 \thispagestyle{empty}
@@ -710,37 +505,30 @@ will be like a wise man who built his house on the rock.\\
 $if(copyright)$
 $copyright$
 $else$
-\textbf{耶穌的比喻：黃長老查經}\\
-\textbf{The Parables of Jesus: Bible Study in the Voice of Elder Huang}\\[0.8em]
+\textbf{耶穌的比喻 / The Parables of Jesus}\\[0.8em]
 
 Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
+中文：和合本 (CUV)\\
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
-\textbullet\ G. Campbell Morgan — \textit{The Parables and Metaphors of Our Lord}\\[0.8em]
+\textbullet\ CCIC 週四查經班讀經分享 (Thursday Bible Class)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Westminster Pulpit / The Analyzed Bible\\[0.8em]
 
-\textbf{Red Letter Bible}\\
-本書採用紅字聖經格式，以\textcolor{JesusRed}{紅色斜體}標示耶穌的話語。\\
-This edition uses Red Letter format with Jesus's words in \textcolor{JesusRed}{\textit{red italics}}.\\[0.8em]
-
-本書為七年三書精讀項目成果之一。\\
-Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
-
-6×9" Trade Paperback Edition\\
-PubHub Publishing 2026
+本書為三書精讀出版系統成果之一。\\
+Part of the Three Books Deep Reading Publishing System.
 $endif$
 
 \end{flushleft}
 \cleardoublepage
 
 % Table of contents
-\pagestyle{devotional}
-{\color{ChapterBlue}\tableofcontents}
+\pagestyle{fancy}
+{\color{ChapterPurple}\tableofcontents}
 \cleardoublepage
 
 %% --------------------------------------------
@@ -750,40 +538,50 @@ $endif$
 
 $body$
 
-%% --------------------------------------------
-%% BACK MATTER
-%% --------------------------------------------
+%% ============================================
+%% BACK MATTER — appendices live in books/col/99[a-g]-*.md, not here.
+%% ============================================
 \backmatter
-
-% Final page
 \cleardoublepage
+
+%% --------------------------------------------
+%% BACK COVER
+%% --------------------------------------------
 \thispagestyle{empty}
 \vspace*{\fill}
 \begin{center}
-\grapecluster
+{\Large $if(backcover-symbol)$$backcover-symbol$$else$παραβολή$endif$}\\[0.1cm]
+{\small\itshape\color{LightGray} “Parable” · 比喻}
 
-\vspace{0.4cm}
+\vspace{0.8cm}
 
-{\Large\color{ScriptureGold}\bfseries 聽見就去行}\\[0.15cm]
-{\normalsize\color{LightGray} Hear and Put into Practice}
+\starsymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\starsymbol
 
-\vspace{0.4cm}
+\vspace{0.8cm}
 
-{\small\color{CommentaryBrown}\itshape
-「所以，凡聽見我這話就去行的，\\
-好比一個聰明人，把房子蓋在磐石上。」\\[0.1em]
-— 馬太福音 7:24}
+{\large\bfseries\color{ChapterPurple} 關於本書}\qquad{\large\bfseries\color{ChapterPurple} About This Book}
 
-\vspace{0.25cm}
+\vspace{0.5cm}
 
-{\footnotesize\color{LightGray}
-"Everyone then who hears these words of mine and does them\\
-will be like a wise man who built his house on the rock."\\
-— Matthew 7:24}
+\begin{minipage}{5in}
+\small\color{TextGray}
+$if(backcover)$
+$backcover$
+$else$
+本書分五卷研讀主耶穌的二十七個比喻，整合 CCIC 週四查經班教導、John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，並附原文字義、約翰福音貫通與對觀平行考據。全書以馬太福音 13:35 為總綱：「我要開口用比喻，把創世以來所隱藏的事發明出來。」
 
-\vspace{0.6cm}
+A study of twenty-seven parables of Jesus in five volumes, integrating the Thursday Bible Class teaching, John MacArthur's verse-by-verse exposition, and G. Campbell Morgan's spiritual analysis, with Greek word studies, connections to John's Gospel, and synoptic parallels.
+$endif$
+\end{minipage}
 
-\crosssymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\crosssymbol
+\vspace{1cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
 \end{center}
 \vspace*{\fill}
 

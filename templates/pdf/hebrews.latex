@@ -42,16 +42,29 @@
 %% uses must be listed: an unlisted block inherits the previous font.
 %% Block list derived from a census of this book's own markdown sources.
 %%
-%% \latinrun keeps the main font's own Latin glyphs — upright text is
-%% unchanged — but adds a real italic, which \setmainfont cannot supply
-%% because its ItalicFont is Kaiti SC, a brush face whose Latin glyphs are
-%% UPRIGHT. Without this every italicised work title renders as roman.
+%% \latinrun carries every Latin run in the book. It was Songti SC's own
+%% Latin glyphs (a CJK font's bundled Latin) with Times italic bolted on and
+%% FakeBold for weight. That was tolerable while English was a few pull
+%% quotes; it is not, now that the book carries all 303 verses of Hebrews in
+%% English as a parallel column. Three concrete failures it caused:
+%%
+%%   1. NO SMALL CAPS. Songti SC has no `smcp` feature, so \textsc{} was a
+%%      silent no-op — NASB sets every OT quotation in small capitals, and
+%%      this book has ~35 of them. They printed as ordinary roman with no
+%%      warning of any kind from xelatex.
+%%   2. FAKE BOLD. BoldFeatures={FakeBold=2.2} smears the outline instead of
+%%      selecting a drawn bold.
+%%   3. BORROWED ITALIC. Times New Roman Italic next to Songti's upright is a
+%%      different type family mid-sentence.
+%%
+%% Libertinus Serif (TeX Live, libertinus-fonts) supplies real upright, bold,
+%% italic, bold-italic AND small caps in one family, so all three go away.
 %% \uckeep carries series/shape across the boundary; a bare \newfontfamily
 %% switch resets both and drops \emph / \textbf mid-run.
-\newfontfamily\latinrun{Songti SC}[
-  ItalicFont={Times New Roman Italic},
-  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
-  BoldItalicFont={Times New Roman Bold Italic}
+\newfontfamily\latinrun{LibertinusSerif-Regular.otf}[
+  BoldFont=LibertinusSerif-Bold.otf,
+  ItalicFont=LibertinusSerif-Italic.otf,
+  BoldItalicFont=LibertinusSerif-BoldItalic.otf
 ]
 \newfontfamily\cjkrun{Songti SC}[
   BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
@@ -164,6 +177,72 @@
 \usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
 
 %% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% Same design language as templates/pdf/revelation.latex, in this book's
+%% own royal-purple/gold livery rather than Revelation's navy.
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{pgfornament}
+
+% Cover-only palette. The gradient runs from a near-black plum to
+% ChapterBlue's royal purple, so the cover reads as the same family as the
+% chapter openers inside.
+\definecolor{PurpleDark}{RGB}{26,6,44}
+\definecolor{PurpleLight}{RGB}{78,20,120}
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{212,178,90}
+\definecolor{CoverMuted}{RGB}{188,183,166}
+
+% Full-bleed gradient, painted in the shipout BACKGROUND hook so it reaches
+% the true physical page edge without disturbing the \geometry text block
+% every other page uses. The starred form applies to this page only.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=PurpleDark,bottom color=PurpleLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a corner ornament at
+% each corner. Ornament 61 at 0.85cm — Revelation's 88 at 0.45cm renders as an
+% almost invisible speck at this trim size.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=CoverGoldBright,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=CoverGoldBright,line width=0.4pt]
+        ($$(current page.south west)+(0.54in,0.54in)$$) rectangle ($$(current page.north east)-(0.54in,0.54in)$$);
+      \node at ($$(current page.south west)+(0.495in,0.495in)$$) {\pgfornament[width=0.85cm,color=CoverGoldBright,anchor=center]{61}};
+      \node at ($$(current page.north west)+(0.495in,-0.495in)$$) {\pgfornament[width=0.85cm,color=CoverGoldBright,anchor=center,symmetry=v]{61}};
+      \node at ($$(current page.south east)+(-0.495in,0.495in)$$) {\pgfornament[width=0.85cm,color=CoverGoldBright,anchor=center,symmetry=h]{61}};
+      \node at ($$(current page.north east)+(-0.495in,-0.495in)$$) {\pgfornament[width=0.85cm,color=CoverGoldBright,anchor=center,symmetry=c]{61}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A single fleuron, used standalone on the cover pages. Ornament 88 — which
+% revelation.latex uses — is a plain hairline, so between two rules it is
+% invisible; 75 is a symmetric pair of scrolls that actually reads at this size.
+\newcommand{\fleuron}[1][CoverGoldBright]{%
+  \pgfornament[width=0.85cm,color=#1]{75}%
+}
+
+% Rule — fleuron — rule, the cover's divider.
+\newcommand{\coverdivider}[1][1.5in]{%
+  {\color{CoverGoldBright}\rule{#1}{0.4pt}}\hspace{0.3cm}%
+  \raisebox{-0.28cm}{\fleuron}\hspace{0.3cm}%
+  {\color{CoverGoldBright}\rule{#1}{0.4pt}}%
+}
+
+% The publisher's device, echoing the priestly theme.
+\newcommand{\publishersmark}[1][CoverGoldBright]{%
+  \pgfornament[width=1.15cm,color=#1]{69}%
+}
+
+%% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
 
@@ -188,13 +267,37 @@
 %% HYPERLINKS
 %% ============================================
 \usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% hyperref writes the /Info dictionary only, which modern cataloguing and
+% preflight tools no longer read. Must be loaded AFTER hyperref.
+\usepackage{hyperxmp}
+
 \hypersetup{
   colorlinks=true,
   linkcolor=ChapterBlue,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  % Without these the PDF has no Title, Author or Subject at all: the file
+  % shows as its bare filename in a reader's title bar, in a library
+  % catalogue, and in any DMS that indexes PDF metadata. pdflang additionally
+  % tells a screen reader and the hyphenation engine the primary language.
+  pdftitle={希伯來書研讀 — Hebrews Deep Study},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={希伯來書逐章研讀：更美的中保——一次獻上，就坐下了},
+  pdfkeywords={希伯來書, Hebrews, 聖經研讀, Bible study, 和合本, CUV, NASB, 大祭司, 麥基洗德, 更美之約, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
 }
+
+% \tableofcontents obeys the LaTeX counter, NOT pandoc's --toc-depth=1 /
+% -V tocdepth=0 — those look like they have it covered while doing nothing.
+% Left unset, the contents list itemises down to sub-subsection: measured on
+% this book, entries like "10.14.2 二、大衛的「今日」" across seven pages.
+% secnumdepth must go with it, or body headings and running heads print as
+% "14.7 領受要點" — technical-manual numbering in a devotional book.
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
 
 %% ============================================
 %% TABLES - with proper width control
@@ -233,6 +336,17 @@
 \fancyhead[LE,RO]{\small\thepage}
 \fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
 \fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+% pandoc turns a {.unnumbered} H1 into \chapter*, and \chapter* never touches
+% \markboth — so the running head keeps whatever the last NUMBERED chapter set.
+% Every unnumbered division (preface, the three orientation essays, each volume
+% divider, 卷末, 跋 and the three appendices) was printing
+% "Chapter 13. 最後的勸勉" across its versos. Patch the starred-chapter
+% internal so it sets the marks the way \chapter does.
+\makeatletter
+\let\hb@origschapter\@schapter
+\def\@schapter#1{\hb@origschapter{#1}\markboth{#1}{#1}}
+\makeatother
+
 \renewcommand{\headrulewidth}{0.4pt}
 \renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
 \fancypagestyle{plain}{%
@@ -349,136 +463,78 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
-% Title page
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
 \begin{titlepage}
 \thispagestyle{empty}
+\color{CoverCream}
 \begin{center}
-\vspace*{0.5cm}
+\vspace*{1.0cm}
 
-% Decorative cross and line
-\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+\publishersmark
 
-\vspace{0.4cm}
+\vspace{0.55cm}
+
+\coverdivider
+
+\vspace{0.75cm}
 
 % Main title
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 神的終極啟示}\\[0.2cm]
-{\large\itshape\color{LightGray} God's Final Word to Man}
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 神的終極啟示}\\[0.3cm]
+{\large\itshape\color{CoverGoldBright} God's Final Word to Man}
 
-\vspace{0.6cm}
+\vspace{0.85cm}
 
 % Book title
-{\fontsize{22}{28}\selectfont\bfseries 希伯來書研讀}\\[0.15cm]
-{\normalsize A Study of the Epistle to the Hebrews}
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 希伯來書研讀}\\[0.25cm]
+{\itshape\normalsize\color{CoverGoldBright} A Study of the Epistle to the Hebrews}
 
-\vspace{0.5cm}
+\vspace{0.95cm}
 
-% Key verse in box
-\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{4in}
+% Key verse — the sentence the title is drawn from, in a thin gold frame
+\begin{minipage}{4.4in}
 \centering
-\vspace{0.3cm}
-\small\itshape\color{CommentaryBrown}
-神在古時候，多次多方藉著先知向列祖說話，\\
-到了這末後的日子，卻藉著他的兒子向我們說話。\\[0.15em]
-\footnotesize Long ago God spoke to our fathers by the prophets,\\
-but in these last days he has spoken to us by his Son.\\
-— Hebrews 1:1-2
-\vspace{0.3cm}
-\end{minipage}
-}
-
-\vspace{0.5cm}
-
-% Structure diagram - Christ's Supremacy
-\begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,4) {基督的超越性 Christ's Supremacy};
-
-  % Old Covenant elements (left side)
-  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,2.5) {Angels 天使};
-  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,1.5) {Moses 摩西};
-  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,0.5) {Joshua 約書亞};
-  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,-0.5) {Aaron 亞倫};
-  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=1.5cm,font=\tiny] at (-3,-1.5) {Old Covenant 舊約};
-
-  % Christ in center
-  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=2cm,line width=2pt,font=\normalsize\bfseries,color=ChapterBlue] (christ) at (0,0.5) {CHRIST};
-
-  % New Covenant elements (right side)
-  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,2) {Better Covenant};
-  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,1) {Better Sanctuary};
-  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,0) {Better Sacrifice};
-  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=1.8cm,font=\tiny] at (3,-1) {Eternal Priest};
-
-  % Arrows showing superiority
-  \foreach \y in {2.5,1.5,0.5,-0.5,-1.5} {
-    \draw[->,thick,color=ScriptureGold] (-2,\y) -- (-0.8,0.5);
-  }
-  \foreach \y in {2,1,0,-1} {
-    \draw[->,thick,color=NewCovenantGreen] (0.8,0.5) -- (2,\y);
-  }
-
-  % Labels
-  \node[font=\tiny,color=OldCovenantRed] at (-3,-2.2) {舊約 Old};
-  \node[font=\tiny,color=NewCovenantGreen] at (3,-2.2) {新約 New};
-\end{tikzpicture}
-
+{\color{CoverGoldBright}\rule{4.4in}{0.6pt}}
 \vspace{0.4cm}
 
-% Tabernacle diagram
-\begin{tikzpicture}[scale=0.5]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (4,4.5) {會幕結構 Tabernacle Structure};
+\small\itshape\color{CoverCream}
+神既在古時藉著眾先知多次多方地曉諭列祖，\\
+就在這末世藉著他兒子曉諭我們。\\[0.45em]
+{\footnotesize\upshape\color{CoverCream} God, after He spoke long ago to the fathers in the prophets\\
+in many portions and in many ways, in these last days\\
+has spoken to us in His Son.\\[0.3em]
+{\color{CoverMuted} 希伯來書 1:1-2 · Hebrews 1:1-2}}
 
-  % Outer court
-  \draw[ChapterBlue,line width=1pt] (0,0) rectangle (8,3.5);
-  \node[font=\tiny,color=ChapterBlue] at (4,3.2) {Outer Court 外院};
+\vspace{0.4cm}
+{\color{CoverGoldBright}\rule{4.4in}{0.6pt}}
+\end{minipage}
 
-  % Holy Place
-  \fill[ScriptureBg] (4.5,0.5) rectangle (7.5,3);
-  \draw[ScriptureGold,line width=1.5pt] (4.5,0.5) rectangle (7.5,3);
-  \node[font=\tiny,color=CommentaryBrown] at (6,2.2) {Holy Place};
-  \node[font=\tiny,color=CommentaryBrown] at (6,1.7) {聖所};
+\vspace{1.0cm}
 
-  % Most Holy Place
-  \fill[ChapterBlue!20] (6,0.5) rectangle (7.5,3);
-  \draw[ScriptureGold,line width=2pt] (6,0.5) -- (6,3);
-  \node[font=\tiny\bfseries,color=ChapterBlue] at (6.75,2.2) {Most};
-  \node[font=\tiny\bfseries,color=ChapterBlue] at (6.75,1.7) {Holy};
-  \node[font=\tiny,color=ChapterBlue] at (6.75,1.2) {至聖所};
-
-  % Altar
-  \fill[OldCovenantRed!50] (2,1.5) rectangle (2.8,2.3);
-  \node[font=\tiny,color=TextGray] at (2.4,1.1) {Altar};
-
-  % Veil arrow
-  \draw[->,very thick,color=ScriptureGold] (6,-0.3) -- (6,-0.8);
-  \node[font=\tiny,color=ScriptureGold] at (6,-1.2) {Veil Torn 幔子裂開};
-  \node[font=\tiny,color=ScriptureGold] at (6,-1.6) {Heb 10:20};
-\end{tikzpicture}
+% Core theme
+{\normalsize\bfseries\color{CoverGoldBright} 更美之約的中保}\\[0.18cm]
+{\itshape\footnotesize\color{CoverCream} Mediator of a Better Covenant (Hebrews 8:6)}
 
 \vfill
 
-% Core theme
-{\normalsize\color{ScriptureGold}\bfseries 更美之約的中保}\\[0.1cm]
-{\footnotesize\color{LightGray} Mediator of a Better Covenant (Heb 8:6)}
-
-\vspace{0.5cm}
-
 $if(author)$
-{\normalsize $author$}\\[0.3cm]
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
 $endif$
 
 $if(publisher)$
-{\small $publisher$}\\[0.15cm]
+{\small\color{CoverMuted} $publisher$}\\[0.15cm]
 $endif$
 
 $if(date)$
-{\small $date$}
+{\small\color{CoverMuted} $date$}
 $else$
-{\small \today}
+{\small\color{CoverMuted} \today}
 $endif$
 
-\vspace{0.3cm}
-\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+\vspace{0.55cm}
+
+\coverdivider
 
 \end{center}
 \end{titlepage}
@@ -526,11 +582,11 @@ $endif$
 
 \begin{tikzpicture}[scale=0.7]
   \foreach \x/\num/\txt in {
-    0/1/Better Hope 更美的盼望,
+    0/1/Better Hope 更美的指望,
     2.5/2/Better Covenant 更美之約,
     5/3/Better Promises 更美的應許,
     7.5/4/Better Sacrifice 更美的祭物,
-    10/5/Better Possession 更美的產業,
+    10/5/Better Possession 更美的家業,
     12.5/6/Better Country 更美的家鄉,
     15/7/Better Resurrection 更美的復活
   } {
@@ -584,8 +640,8 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+中文：和合本 (CUV, 1919) — 公有領域\\
+English: New American Standard Bible (NASB, 1995)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ John MacArthur - MacArthur New Testament Commentary\\
@@ -617,45 +673,80 @@ $endif$
 $body$
 
 %% --------------------------------------------
-%% BACK COVER
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
 %% --------------------------------------------
 \backmatter
+\CoverBackground
+\CoverBorder
 \thispagestyle{empty}
-\vspace*{\fill}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.2cm}
 \begin{center}
-{\Large\itshape\color{ChapterBlue} $if(backcover-symbol)$$backcover-symbol$$else$κρείττων$endif$}\\[0.1cm]
-{\small\itshape\color{LightGray} "Better" · 更美——全書貫穿的鑰字}
 
-\vspace{0.8cm}
+{\Large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$κρείττων$endif$}\\[0.15cm]
+{\itshape\small\color{CoverMuted} "Better" · 更美——全書貫穿的鑰字}
 
-\priestsymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\priestsymbol
+\vspace{0.4cm}
 
-\vspace{0.8cm}
+\coverdivider[1.3in]
 
-{\large\bfseries\color{ChapterBlue} 關於本書}\qquad{\large\bfseries\color{ChapterBlue} About This Book}
+\vspace{0.4cm}
 
-\vspace{0.5cm}
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.45cm}
 
 \begin{minipage}{5in}
-\small\color{TextGray}
+\small\color{CoverCream}
 $if(backcover)$
 $backcover$
 $else$
-本書逐章研讀希伯來書全書十三章，並附全書領受總綱與參考資料附錄，整合黃長老查經教導、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan《God's Last Word to Man》屬靈組織分析，貫穿全書「更美」（κρείττων）的論證骨架與五個嚴厲警告，見證基督如何超越天使、摩西、約書亞、亞倫祭司體系，成為更美之約的中保。全書以基督的「昨日、今日、一直到永遠是一樣的」（來13:8）收筆，指向那位不改變的主。
+本書依約翰福音研讀體例重編，分五卷逐章研讀希伯來書全書十三章：卷首三篇定位，十三章各設十六節——由〈基督焦點〉起，經原文研讀、歷代注疏、詩篇回應、聖詩默想、三大資源整合，到各章專設的〈鑰詞深讀〉與〈今天的祭壇〉，卷末以〈出到營外〉收束，書末附五種附錄。中文和合本與英文 NASB 十三章全文逐段對照。整合老弟兄查經教導、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan《God's Last Word to Man》屬靈組織分析，貫穿全書「更美」（κρείττων）的論證骨架與五段嚴厲警告。
 
-A chapter-by-chapter study of all thirteen chapters of Hebrews, with a whole-book systematic reception essay and a references appendix, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and G. Campbell Morgan's spiritual analysis in \textit{God's Last Word to Man}. The study traces the book's "better" (κρείττων) argument and its five solemn warnings, witnessing how Christ surpasses angels, Moses, Joshua, and the Aaronic priesthood to become the mediator of a better covenant. The whole book closes on Hebrews 13:8 — Jesus Christ, the same yesterday, today, and forever.
+{\footnotesize\color{CoverCream} A chapter-by-chapter study of all thirteen chapters of Hebrews in five volumes, with the Chinese Union Version and the NASB set in parallel throughout, sixteen sections per chapter, and five appendices. It traces the book's \textit{better} (κρείττων) argument and its five solemn warnings — witnessing how Christ surpasses angels, Moses, Joshua and the Aaronic priesthood to become the mediator of a better covenant.}
 $endif$
 \end{minipage}
 
-\vspace{1cm}
+\vspace{0.4cm}
 
-{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
-{\footnotesize\color{LightGray} 三書精讀出版系統}
+{\small\bfseries\color{CoverCream} 七個「更美」}\qquad{\itshape\small\color{CoverGoldBright} Seven Better Things}
 
 \vspace{0.3cm}
 
-{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}p{1.5in}p{2.4in}l@{}}
+更美的指望 & \textit{\color{CoverCream} A better hope} & {\tiny\color{CoverMuted} 7:19}\\[0.18em]
+更美之約 & \textit{\color{CoverCream} A better covenant} & {\tiny\color{CoverMuted} 7:22}\\[0.18em]
+更美的應許 & \textit{\color{CoverCream} Better promises} & {\tiny\color{CoverMuted} 8:6}\\[0.18em]
+更美的祭物 & \textit{\color{CoverCream} Better sacrifices} & {\tiny\color{CoverMuted} 9:23}\\[0.18em]
+更美的家業 & \textit{\color{CoverCream} A better possession} & {\tiny\color{CoverMuted} 10:34}\\[0.18em]
+更美的家鄉 & \textit{\color{CoverCream} A better country} & {\tiny\color{CoverMuted} 11:16}\\[0.18em]
+更美的復活 & \textit{\color{CoverCream} A better resurrection} & {\tiny\color{CoverMuted} 11:35}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.35cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.3cm}
+
+{\normalsize\itshape\color{CoverCream} 耶穌基督昨日、今日、一直到永遠，是一樣的。}\\[0.15em]
+{\footnotesize\itshape\color{CoverMuted} "Jesus Christ is the same yesterday and today and forever." · Hebrews 13:8}
+
+\vspace{0.3cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.35cm}
+
+{\footnotesize\color{CoverMuted} \S\ Hebrews Edition v1.0 \S\ 2026 \S}\\[0.2cm]
+{\footnotesize\color{CoverMuted} Soli Deo Gloria — 唯獨榮耀神}
+
 \end{center}
-\vspace*{\fill}
 
 \end{document}

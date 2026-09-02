@@ -132,24 +132,24 @@ sed -i '' \
 echo "Generating PDF (XeLaTeX)..."
 echo ""
 
+# --verbose is load-bearing: without it pandoc swallows the whole xelatex log
+# and any grep-the-log check passes vacuously. See scripts/lib/latex-check.sh.
+source "$SCRIPT_DIR/lib/latex-check.sh"
+LATEX_LOG="${OUTPUT_PDF%.pdf}-build.log"
 pandoc "$COMBINED_MD" \
     -o "$OUTPUT_PDF" \
+    --verbose \
     --pdf-engine=xelatex \
     --template="$TEMPLATE" \
     --from=markdown-superscript-subscript \
     --toc \
     --toc-depth=3 \
     --top-level-division=chapter \
-    -V geometry:margin=0.75in
+    -V geometry:margin=0.75in > "$LATEX_LOG" 2>&1
 
 EXIT_CODE=$?
 
-if [ $EXIT_CODE -ne 0 ]; then
-    echo ""
-    echo "ERROR: pandoc/XeLaTeX failed (exit $EXIT_CODE)"
-    echo "       Check LaTeX log above for details."
-    exit $EXIT_CODE
-fi
+latex_build_report "$EXIT_CODE" "$LATEX_LOG" "$OUTPUT_PDF" || exit 1
 
 if [ -f "$OUTPUT_PDF" ]; then
     SIZE=$(ls -lh "$OUTPUT_PDF" | awk '{print $5}')

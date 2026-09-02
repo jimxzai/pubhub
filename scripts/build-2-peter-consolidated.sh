@@ -60,11 +60,8 @@ copyright: |
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
-
+  Scripture quotations are from the New American Standard Bible®,
+  Copyright © 1960, 1971, 1977, 1995, 2020 by The Lockman Foundation.
   All rights reserved.
 ---
 
@@ -140,21 +137,6 @@ add_front "$INPUT_DIR/00-overview.md"
 add_front "$INPUT_DIR/00a-2peter-position.md"
 add_front "$INPUT_DIR/00b-knowledge-spine.md"
 
-# 全書領受總綱——老弟兄查經法 (Systematic Reception)
-# The study file has no YAML frontmatter and its own first line is already
-# an H1, so it is not run through add_file/add_front: demote its headings
-# one level and give it a wrapper H1 of its own instead.
-if [ -f "$STUDY_FILE" ]; then
-    echo "  Adding: elder-wong-systematic-study.md (as 全書領受總綱)"
-    printf '# 全書領受總綱——老弟兄查經法 (Systematic Reception) {.unnumbered}\n\n' >> "$COMBINED_MD"
-    tail -n +2 "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
-    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
-else
-    echo "❌ Missing file: $STUDY_FILE — aborting build"
-    exit 1
-fi
-
 # ============================================================
 # 正文 · 三卷
 # ============================================================
@@ -173,8 +155,30 @@ add_chapter 03
 # ============================================================
 # 卷末 · 永恆的日子 (The Day of Eternity)
 # ============================================================
-add_volume "卷末 · 永恆的日子 (Toward the Day of Eternity)" \
-    "從創世記到啟示錄，一封將盡的遺言把讀者的眼目再一次帶回基督。"
+add_volume "卷末 · 回望與永恆 (Looking Back, and Forward)" \
+    "三章讀完了，先把全書的領受收攏成一張圖，再讓那封將盡的遺言把眼目帶回基督。"
+
+# 全書領受總綱——老弟兄查經法 (Systematic Reception).
+# Moved here from 卷首 on 2026-08-31. It is a synthesis OF the three chapters
+# (第一部/第二部/第三部, each with 精義 · 深度探索 · 帶著走的問題), so as front
+# matter it asked the reader to digest conclusions about chapters they had not
+# read — and its own text says 「這一點在三章逐章研讀中已如實揭示」, a claim only
+# true once they have. Reading it here also cuts the front matter a reader must
+# cross before 彼得後書 1:1 from 27 pages to 18.
+# The study file has no YAML frontmatter and its own first line is already an
+# H1, so it is not run through add_file/add_front: demote its headings one
+# level and give it a wrapper H1 of its own instead.
+if [ -f "$STUDY_FILE" ]; then
+    echo "  Adding: elder-wong-systematic-study.md (as 全書領受總綱)"
+    printf '# 全書領受總綱——老弟兄查經法 (Systematic Reception) {.unnumbered}\n\n' >> "$COMBINED_MD"
+    tail -n +2 "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
+    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
+    ((chapter_count++))
+else
+    echo "❌ Missing file: $STUDY_FILE — aborting build"
+    exit 1
+fi
+
 add_front "$INPUT_DIR/99-day-of-eternity.md"
 
 # ============================================================
@@ -275,8 +279,9 @@ echo "🔨 Generating PDF with 2-peter.latex template..."
 source "$SCRIPT_DIR/lib/latex-check.sh"
 LATEX_LOG="${OUTPUT_PDF%.pdf}-build.log"
 
-# Note: template hardcodes \setcounter{tocdepth}{0} directly (~line 520),
-# so a `-V tocdepth=0` pandoc flag here would be a no-op — omitted.
+# Note: the LaTeX tocdepth counter is set in the template (\setcounter{tocdepth}{1},
+# near \tableofcontents), not here — a `-V tocdepth=N` pandoc flag would be a no-op.
+# --toc-depth below governs pandoc's own TOC generation; keep the two in step.
 pandoc "$COMBINED_MD" \
   -o "$OUTPUT_PDF" \
   --verbose \
@@ -284,8 +289,29 @@ pandoc "$COMBINED_MD" \
   --template="$TEMPLATE" \
   --from=markdown-superscript-subscript \
   --toc \
-  --toc-depth=1 \
+  --toc-depth=2 \
   --top-level-division=chapter > "$LATEX_LOG" 2>&1
 PANDOC_EXIT=$?
 
 latex_build_report "$PANDOC_EXIT" "$LATEX_LOG" "$OUTPUT_PDF" || exit 1
+
+# The scripture index in 98-appendix-indices.md carries real printed page
+# numbers, generated from a previous build of this very PDF (see
+# scripts/build-2-peter-index.py for the three-pass contract). Any content
+# edit can move a page and silently falsify them — an index that is quietly
+# wrong is worse than one that admits it points at chapters — so check every
+# build and say so loudly. Non-fatal: the PDF itself is fine, the index just
+# needs regenerating.
+if [ -f "$SCRIPT_DIR/build-2-peter-index.py" ]; then
+    echo ""
+    if python3 "$SCRIPT_DIR/build-2-peter-index.py" --check > /tmp/2peter-index-check.log 2>&1; then
+        echo "✅ Scripture index page numbers are current."
+    else
+        echo "⚠️  STALE SCRIPTURE INDEX — page numbers no longer match this PDF:"
+        sed 's/^/     /' /tmp/2peter-index-check.log
+        echo ""
+        echo "     Regenerate with the three-pass sequence:"
+        echo "       python3 scripts/build-2-peter-index.py"
+        echo "       scripts/build-2-peter-consolidated.sh"
+    fi
+fi

@@ -156,7 +156,7 @@ header-includes:
 function generateChapterTitle(filename) {
   const titles = {
     '00-overview.md': '# 概覽：啟示錄研讀導引',
-    '01-introduction.md': '# 第一章：正典脈絡與神學框架',
+    '01-introduction.md': '# 第一章：正典脈絡與領受框架',
     '02-seven-churches.md': '# 第二章：七教會書信 (1-3章)',
     '03-heavenly-worship.md': '# 第三章：天上的敬拜 (4-5章)',
     '04-seals-trumpets.md': '# 第四章：七印與七號 (6-11章)',

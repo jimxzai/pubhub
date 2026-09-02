@@ -194,7 +194,11 @@
   linkcolor=ChapterBlue,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={哥林多後書逐章研讀 · 2 Corinthians Deep Study},
+  pdfkeywords={哥林多後書, 2 Corinthians, 聖經研讀, Bible Study}
 }
 
 %% ============================================
@@ -391,7 +395,7 @@ $endif$
 \end{tikzpicture}
 \vspace{0.22cm}
 
-{\fontsize{13}{15}\selectfont\itshape\color{TextGray} We have this treasure in jars of clay \textperiodcentered\ 我們有這寶貝放在瓦器裡}
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} We have this treasure in earthen vessels \textperiodcentered\ 我們有這寶貝放在瓦器裏}
 
 \vspace{0.30cm}
 
@@ -434,7 +438,7 @@ $endif$
 
 \vspace{0.24cm}
 {\fontsize{15}{18}\selectfont\itshape\color{ThornRed} παράκλησις}\quad
-{\footnotesize\scshape\color{TextGray} ``Comfort''}\quad
+{\footnotesize\scshape\color{TextGray} “Comfort”}\quad
 {\footnotesize\bfseries\color{JesusRed} 安慰}
 
 \vfill
@@ -445,7 +449,7 @@ $endif$
 {\footnotesize\color{ThornRed}
 「我的恩典夠你用的，因為我的能力是在人的軟弱上顯得完全。」}\\[0.10em]
 {\scriptsize\itshape\color{TextGray}
-``My grace is sufficient for you, for my power is made perfect in weakness.''}\\[0.10em]
+“My grace is sufficient for you, for power is perfected in weakness.”}\\[0.10em]
 {\scriptsize\color{ThornRed} 哥林多後書 12:9 \textperiodcentered\ 2 Corinthians 12:9}
 \vspace{0.15cm}
 \end{minipage}}
@@ -477,11 +481,11 @@ $endif$
 \begin{minipage}{4.6in}
 \centering\vspace{0.2cm}
 \normalsize\color{TextGray}
-我們有這\textbf{\color{JesusRed}寶貝}放在\textbf{\color{JesusRed}瓦器}裡，\\
+我們有這\textbf{\color{JesusRed}寶貝}放在\textbf{\color{JesusRed}瓦器}裏，\\
 要顯明這莫大的能力是出於神，不是出於我們。\\[0.5em]
 \footnotesize\itshape
-But we have this treasure in \textbf{\color{JesusRed}jars of clay}, to show that the surpassing\\
-power belongs to God and not to us.\\[0.4em]
+But we have this treasure in \textbf{\color{JesusRed}earthen vessels}, so that the surpassing\\
+greatness of the power will be of God and not from ourselves.\\[0.4em]
 \small\color{ThornRed} 哥林多後書 4:7 \textperiodcentered\ 2 Corinthians 4:7
 \vspace{0.2cm}
 \end{minipage}}
@@ -513,8 +517,8 @@ power belongs to God and not to us.\\[0.4em]
 \small\color{TextGray}
 每一章的處境都不一樣——患難、飽受質疑、奉獻的呼召、身上的刺——但保羅每次都把讀者帶回同一個地方——\\
 不是自己的資格，乃是基督的十架與復活的大能。\\
-讀這封信，不要只停在「保羅在為自己辯護什麼」，\\
-要問：這處境裡的軟弱，如何正是恩典顯明的地方？\\[0.5em]
+讀這封信，不要只停在「保羅在為自己辯護甚麼」，\\
+要問：這處境裏的軟弱，如何正是恩典顯明的地方？\\[0.5em]
 \textit{\footnotesize
 Each chapter's situation looks different — affliction, suspicion, the call to give, a thorn in the flesh —\\
 but Paul keeps leading the reader back to the same place:\\
@@ -571,8 +575,8 @@ ask how the weakness in this situation is exactly where grace is displayed.}
 \vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
 我的恩典夠你用的，因為我的能力是在人的軟弱上顯得完全。\\[0.15em]
-\footnotesize My grace is sufficient for you, for my power\\
-is made perfect in weakness. — 2 Corinthians 12:9
+\footnotesize My grace is sufficient for you,\\
+for power is perfected in weakness. — 2 Corinthians 12:9
 \vspace{0.3cm}
 \end{minipage}
 }
@@ -580,29 +584,35 @@ is made perfect in weakness. — 2 Corinthians 12:9
 \vspace{0.4cm}
 
 % Two-Part structure diagram
-\begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.3) {全書結構 Structure};
+% NOTE: tikz `scale` does not scale node minimum sizes or text, so a scaled
+% coordinate system with cm-sized nodes silently overlaps the boxes. Positions
+% here are plain cm, spaced from the real box widths.
+\begin{tikzpicture}
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,1.5) {全書結構 Structure};
 
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=0.6cm,font=\tiny,align=center] at (-1.9,1.3) {聖靈中的新約事奉\\1:1 -- 7:16};
-  \node[draw=ThornRed,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=0.6cm,font=\tiny,align=center] at (1.9,1.3) {十字架能力的見證\\8:1 -- 13:14};
+  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=0.8cm,font=\tiny,align=center] at (-1.85,0.6) {聖靈中的新約事奉\\1:1–7:16};
+  \node[draw=ThornRed,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=0.8cm,font=\tiny,align=center] at (1.85,0.6) {十字架能力的見證\\8:1–13:14};
 
-  \draw[->,color=ScriptureGold,thick] (-0.2,1.3) -- (0.2,1.3);
+  \draw[->,color=ScriptureGold,thick] (-0.14,0.6) -- (0.14,0.6);
 \end{tikzpicture}
 
 \vspace{0.35cm}
 
 % From affliction to power flow
-\begin{tikzpicture}[scale=0.55]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,1.7) {從患難到能力};
+% Same caveat as above: no `scale`, uniform minimum width wide enough for the
+% longest label ("Jars of Clay"), arrows drawn in the gaps between boxes.
+\begin{tikzpicture}
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,1.5) {從患難到能力};
 
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (-3.3,0.6) {患難\\Affliction\\1:3-11};
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (-1.1,0.6) {安慰\\Comfort\\1:3-7};
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (1.1,0.6) {瓦器\\Jars of Clay\\4:7};
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (3.5,0.6) {能力\\Power\\12:9};
+  \tikzset{flowbox/.style={draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=1.0cm,font=\tiny,align=center}}
+  \node[flowbox] at (-3.3,0.5) {患難\\Affliction\\1:3-11};
+  \node[flowbox] at (-1.1,0.5) {安慰\\Comfort\\1:3-7};
+  \node[flowbox] at (1.1,0.5) {瓦器\\Jars of Clay\\4:7};
+  \node[flowbox] at (3.3,0.5) {能力\\Power\\12:9};
 
-  \draw[->,color=ThornRed,thick] (-2.5,0.6) -- (-1.9,0.6);
-  \draw[->,color=ThornRed,thick] (-0.3,0.6) -- (0.3,0.6);
-  \draw[->,color=ThornRed,thick] (1.9,0.6) -- (2.5,0.6);
+  \draw[->,color=ThornRed,thick] (-2.3,0.5) -- (-2.1,0.5);
+  \draw[->,color=ThornRed,thick] (-0.1,0.5) -- (0.1,0.5);
+  \draw[->,color=ThornRed,thick] (2.1,0.5) -- (2.3,0.5);
 \end{tikzpicture}
 
 \vspace{0.3cm}
@@ -701,7 +711,7 @@ $endif$
 \vspace{0.3cm}
 {\normalsize\bfseries\color{ChapterBlue} John MacArthur 約翰·麥克阿瑟}\\[0.3em]
 \small\color{TextGray}
-麥克阿瑟的《MacArthur New Testament Commentary: 2 Corinthians》與 gty.org 收錄的哥林多後書逐節講道系列，是本書歷代注疏與三大資源整合部分最主要的當代釋經來源，逐章逐節核對、引用。\\[0.5em]
+麥克阿瑟的《MacArthur New Testament Commentary: 2 Corinthians》與 gty.org 收錄的哥林多後書逐節講道系列，是本書「歷代注疏」一節最主要的當代釋經來源，逐章逐節核對、引用。\\[0.5em]
 {\footnotesize\itshape MacArthur's New Testament Commentary on 2 Corinthians and his verse-by-verse sermon series at gty.org are the primary contemporary exposition source cited throughout this study, chapter by chapter.}
 \vspace{0.3cm}
 \end{minipage}
@@ -723,8 +733,8 @@ $endif$
 \vspace{0.5cm}
 
 {\small\color{TextGray}
-\textbf{黃長老查經法 Elder Wong's Method:}\\
-每章「黃長老查經．深讀」與「三大資源深度整合」中的黃長老段落，皆按黃長老一貫的查經方法論——以整本聖經為根基、以認識耶穌基督為中心、以生命的領受為目標——原創寫成，並非逐字引用任何已存檔的哥林多後書查經記錄。
+\textbf{老弟兄查經法 Elder Wong's Method:}\\
+每章「老弟兄查經」一節中的老弟兄段落，皆按老弟兄一貫的查經方法論——以整本聖經為根基、以認識耶穌基督為中心、以生命的領受為目標——原創寫成，並非逐字引用任何已存檔的哥林多後書查經記錄。
 }
 \end{center}
 \cleardoublepage
@@ -745,10 +755,14 @@ All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
 中文：和合本 (CUV)，經 ai-eden.com/bible 核對\\
-English: English Standard Version (ESV)\\[0.8em]
+English: New American Standard Bible (NASB 1995)\\[0.8em]
+
+Scripture quotations taken from the New American Standard Bible\textregistered\ (NASB),\\
+Copyright \textcopyright\ 1960, 1971, 1977, 1995 by The Lockman Foundation.\\
+Used by permission. All rights reserved. lockman.org\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老查經法 (Elder Wong's Bible Study Method)\\
+\textbullet\ 老弟兄查經法 (Elder Wong's Bible Study Method)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
 \textbullet\ G. Campbell Morgan - The Corinthian Letters of Paul\\[0.8em]
 
@@ -889,23 +903,32 @@ $body$
 \vspace{0.3cm}
 
 \noindent\textbf{English}\\
-\textbullet\ English Standard Version (ESV) — Primary
+\textbullet\ New American Standard Bible (NASB 1995) — Primary
 \end{small}
 
 \section*{解經資源 Commentary Resources}
 
 \begin{small}
-\textbullet\ \textbf{黃長老查經法} — Elder Wong's Bible Study Method\\
+\textbullet\ \textbf{老弟兄查經法} — Elder Wong's Bible Study Method\\
 \textbullet\ \textbf{John MacArthur} — \textit{2 Corinthians: MacArthur New Testament Commentary}, gty.org 講道系列\\
 \textbullet\ \textbf{G. Campbell Morgan} — \textit{The Corinthian Letters of Paul} (1946)\\
 \textbullet\ \textbf{John Chrysostom} — \textit{Homilies on Second Corinthians} (NPNF1-12)\\
 \textbullet\ \textbf{John Calvin} — \textit{Commentary on the Second Epistle to the Corinthians}
+
+\vspace{0.3cm}
+
+\noindent\textbf{關於摩根引文的說明}\\
+G. Campbell Morgan 的《The Corinthian Letters of Paul》(1946) 目前僅有
+archive.org 的掃描本，未提供可檢索之全文，因此無法逐頁核對逐字引文。
+本書凡列「摩根」一節者，除另有標明逐字引文外，均為編者依其一貫釋經取向
+所作的\textbf{要旨綜述}，並在該節末以「出處」行標明；查不到可靠依據的章次，
+寧可不列此節，也不臆測其論述。
 \end{small}
 
 \section*{線上資源 Online Resources}
 
 \begin{small}
-\textbullet\ \textbf{ai-eden.com/bible} — 經文核對 (CUV + ESV)\\
+\textbullet\ \textbf{ai-eden.com/bible} — 經文核對 (CUV + NASB)\\
 \textbullet\ \textbf{gty.org} — Grace To You (John MacArthur)\\
 \textbullet\ \textbf{ccel.org} — Christian Classics Ethereal Library (教父與改教家著作)\\
 \textbullet\ \textbf{newadvent.org} — 教父文獻 (Nicene and Post-Nicene Fathers)
@@ -1179,8 +1202,8 @@ $body$
 \vspace{0.18cm}
 
 {\footnotesize\color{LightGray}
-"The grace of the Lord Jesus Christ and the love of God\\
-and the fellowship of the Holy Spirit be with you all." — 2 Corinthians 13:14}
+"The grace of the Lord Jesus Christ, and the love of God,\\
+and the fellowship of the Holy Spirit, be with you all." — 2 Corinthians 13:14}
 
 \vspace{0.16cm}
 
@@ -1197,11 +1220,11 @@ and the fellowship of the Holy Spirit be with you all." — 2 Corinthians 13:14}
 \vspace{0.14cm}
 \begin{minipage}{4.5in}
 \footnotesize\color{TextGray}
-本書逐課研讀哥林多後書全書十三章、二十四課，是CCIC Sunnyvale主日學課程的研讀教材，也是保羅最私密的自傳性書信——他如何在患難中經歷神的安慰、在瓦器般的軟弱裡承載莫大的能力。全書整合黃長老查經法、John MacArthur逐節解經、與G. Campbell Morgan的屬靈分析。
+本書逐課研讀哥林多後書全書十三章、二十四課，是CCIC Sunnyvale主日學課程的研讀教材，也是保羅最私密的自傳性書信——他如何在患難中經歷神的安慰、在瓦器般的軟弱裏承載莫大的能力。全書整合老弟兄查經法、John MacArthur逐節解經、與G. Campbell Morgan的屬靈分析。
 
 \vspace{0.14cm}
 \scriptsize\itshape
-A lesson-by-lesson study of all thirteen chapters and twenty-four lessons of 2 Corinthians — Paul's most personal, autobiographical letter, tracing how he experienced God's comfort in affliction and carried surpassing power in jars of clay.
+A lesson-by-lesson study of all thirteen chapters and twenty-four lessons of 2 Corinthians — Paul's most personal, autobiographical letter, tracing how he experienced God's comfort in affliction and carried surpassing power in earthen vessels.
 \end{minipage}
 
 \vspace{0.2cm}

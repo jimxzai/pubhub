@@ -425,8 +425,8 @@ bodily. — Colossians 2:9
 \vspace{0.4cm}
 
 % Equation
-{\normalsize\color{ScriptureGold}\bfseries 恩典 + 真理 + 豐盛 = 已經完全的基督}\\[0.1cm]
-{\footnotesize\color{LightGray} Grace + Truth + Fullness = The Christ Who Is Already Complete}
+{\normalsize\color{ScriptureGold}\bfseries 不必再加——你們在他裏面已經得了豐盛}\\[0.1cm]
+{\footnotesize\color{LightGray} Nothing to Add — In Him You Have Been Filled}
 
 \vspace{0.5cm}
 
@@ -614,7 +614,7 @@ All rights reserved.\\[0.8em]
 English: English Standard Version (ESV)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老查經班 (Elder Wong's Bible Class)\\
+\textbullet\ CCIC 週四查經班讀經分享 (Thursday Bible Class)\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
 \textbullet\ G. Campbell Morgan - The Westminster Pulpit / The Analyzed Bible\\[0.8em]
 
@@ -638,302 +638,9 @@ $endif$
 $body$
 
 %% ============================================
-%% BACK MATTER — APPENDICES
+%% BACK MATTER — appendices live in books/col/99[a-g]-*.md, not here.
 %% ============================================
 \backmatter
-\cleardoublepage
-
-%% ============================================
-%% APPENDIX A: SCRIPTURE INDEX
-%% ============================================
-\chapter*{附錄一：經文索引 (Appendix A: Scripture Index)}
-\addcontentsline{toc}{chapter}{附錄一：經文索引 (Appendix A: Scripture Index)}
-\markboth{}{}
-
-\noindent 歌羅西書不像福音書那樣有大量「這是要應驗……」的舊約明文引句；保羅在這封短信裡主要以\textbf{迴響與呼應}的方式，把舊約的圖畫用在基督與教會身上。本索引依本書研讀中實際引用、且在正文中已建立連結的經文，依書卷順序排列。
-
-\section*{舊約迴響 Old Testament Echoes}
-
-{\small
-\begin{longtable}{@{}p{3.20cm}p{3.95cm}p{6.03cm}@{}}
-\toprule
-\textbf{經文} & \textbf{主題} & \textbf{與歌羅西書的連結} \\
-\midrule
-\endhead
-創世記 1:26-27 & 神照自己的形像造人 & 西1:15「不能看見之神的像」；西3:10「這新人……正如造他主的形像」——末後的亞當成就頭一個亞當做不到的事 \\
-出埃及記 40章 & 耶和華的榮光充滿帳幕 & 西2:9「豐盛……居住」——舊約榮光暫時充滿會幕、聖殿，如今豐盛「有形有體」居住在基督的身體裡 \\
-耶利米書 31:33 & 「我要將我的律法放在他們裡面」 & 西2:14「字據」被塗抹、釘在十字架上——舊約刻在石版上控告人的律法，如今被撤去 \\
-\bottomrule
-\end{longtable}
-}
-
-\section*{新約平行與呼應 New Testament Parallels}
-
-{\small
-\begin{longtable}{@{}p{3.30cm}p{10.30cm}@{}}
-\toprule
-\textbf{經文} & \textbf{與歌羅西書的連結} \\
-\midrule
-\endhead
-約翰福音 1:1-3 & 「太初有道……萬物是藉著他造的」——與西1:16-17「萬有都是靠他造的……萬有也靠他而立」，約翰和保羅用不同的詞（道／像）描述同一位創造萬有的基督 \\
-羅馬書 6:1-11 & 「與基督同死、同埋葬、同復活」的洗禮領受——西3:1-4 是這領受在具體倫理教導上的應用版 \\
-哥林多前書 13:13 & 信、望、愛三根柱子——西1:4-5 保羅為歌羅西教會禱告時同樣以此為結構 \\
-以弗所書 1:15-19 & 求「照明你們心中的眼睛」——與西1:9-11 求「滿心知道神的旨意」並列，兩間教會的代求核心都是「認識」加深 \\
-以弗所書 1:23 & 「教會是他的身體，是那充滿萬有者所充滿的」——與西2:9-10 呼應同一個「豐盛」的領受 \\
-以弗所書 3:1-6 & 外邦人在基督裡同為後嗣的「奧祕」——與西1:24-27 幾乎相同的語言，兩處都把奧祕與保羅自己的受苦相連 \\
-以弗所書 5:22-6:9 & 家庭守則——與西3:18-4:1 幾乎並列的姊妹書信版本，以弗所書更詳細地把夫妻關係連於「基督愛教會」 \\
-腓利門書 & 逃奴阿尼西母——西3:22-4:1 家庭守則、西4:9「親愛忠心的兄弟」，與腓利門書是同一批送信人、同一個真實個案 \\
-腓立比書 3:7-8 & 保羅自己活出「減法」——他曾靠割禮、律法、血統誇口，遇見基督後當作糞土；歌羅西異端想加回去的，正是保羅親身丟棄的東西 \\
-希伯來書 1:2-3 & 「他是神榮耀所發的光輝，是神本體的真像」——與西1:15-17 幾乎相同的語言，宣告基督超越萬有、超越天使 \\
-彼得前書 1:10-12 & 眾先知渴望明白卻看不透的奧祕——西1:26「歷世歷代所隱藏的奧祕，但如今向他的聖徒顯明了」 \\
-提摩太後書 4:9-11 & 「底馬貪愛現今的世界，就離棄我」——西4:14 問安名單中的底馬，同一個人從同工走到離棄的活生生警戒 \\
-\bottomrule
-\end{longtable}
-}
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX B: KEY THEMES INDEX
-%% ============================================
-\chapter*{附錄二：主題索引 (Appendix B: Key Themes Index)}
-\addcontentsline{toc}{chapter}{附錄二：主題索引 (Appendix B: Key Themes Index)}
-\markboth{}{}
-
-\section*{基督論 Christology}
-
-{\small
-\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
-\toprule
-神的像 Image of God (\textit{eikōn}) & 1:15 \\
-首生的 Firstborn (\textit{prōtotokos}) & 1:15（創造之先）；1:18（復活之先） \\
-教會的頭 Head of the Church (\textit{kephalē}) & 1:18；2:19 \\
-神本性的豐盛 Fullness of Deity (\textit{plērōma}) & 1:19；2:9-10 \\
-有形有體地 Bodily (\textit{sōmatikōs}) & 2:9，全新約僅此一次 \\
-誇勝 Triumph (\textit{thriambeuō}) & 2:15，羅馬凱旋式意象 \\
-\bottomrule
-\end{tabular}
-}
-
-\vspace{0.4cm}
-\section*{奧祕與合一 Mystery and Union with Christ}
-
-{\small
-\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
-\toprule
-奧祕 Mystery (\textit{mystērion}) & 1:26-27；2:2；4:3 \\
-補滿基督的患難 Filling Up Christ's Afflictions (\textit{antanaplēroō}) & 1:24，新約僅此一見，指身體與元首一同受苦的參與 \\
-與基督同死、同復活 Died and Raised with Christ & 2:12, 20；3:1, 3 \\
-基督是包括一切 Christ Is All, and in All & 3:11 \\
-\bottomrule
-\end{tabular}
-}
-
-\vspace{0.4cm}
-\section*{新生命倫理 New Life Ethics}
-
-{\small
-\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
-\toprule
-脫去 Put Off (\textit{apekdyomai}) & 3:9 \\
-穿上 Put On (\textit{endyō}) & 3:10, 12 \\
-更新 Renewed (\textit{anakainoō}) & 3:10，持續進行式 \\
-豐豐富富地 Richly (\textit{plousiōs}) & 3:16 \\
-從心裡做 From the Soul (\textit{ex psychēs}) & 3:23 \\
-\bottomrule
-\end{tabular}
-}
-
-\vspace{0.4cm}
-\section*{家庭與群體倫理 Household and Community Ethics}
-
-{\small
-\begin{tabular}{@{}p{4.3cm}p{7.7cm}@{}}
-\toprule
-主 Lord (\textit{kyrios}) & 3:18, 20, 22(x2), 23, 24(x2)；4:1，貫穿全段框住六種身分 \\
-恆切禱告 Devoted to Prayer (\textit{proskartereō}) & 4:2 \\
-儆醒 Watchful (\textit{grēgoreō}) & 4:2 \\
-贖回時機 Making the Most of Time (\textit{kairos}) & 4:5 \\
-\bottomrule
-\end{tabular}
-}
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX C: REFERENCES
-%% ============================================
-\chapter*{附錄三：參考資料 (Appendix C: References)}
-\addcontentsline{toc}{chapter}{附錄三：參考資料 (Appendix C: References)}
-\markboth{}{}
-
-\noindent 本書「兩位牧者的洞見」各節所引用的講道與著作如下，依章節順序排列；每篇 MacArthur 講道均附 gty.org 原始連結。
-
-\section*{John MacArthur — Grace To You (gty.org)}
-
-\begin{itemize}
-\item "Introduction to Colossians" (Colossians 1:1-2), 1976年2月8日 — \url{https://www.gty.org/library/sermons-library/2130/introduction-to-colossians}
-\item "The Gospel Truth" (Colossians 1:3-8), 1976年2月15日 — \url{https://www.gty.org/library/sermons-library/2131/the-gospel-truth}
-\item "Christ Above All" (Colossians 1:15-19), 1976年3月28日 — \url{https://www.gty.org/library/sermons-library/2135/christ-above-all}
-\item "Paul's Ministry: The Mystery of Christ in You" (Colossians 1:26-29), 1976年5月2日 — \url{https://www.gty.org/library/sermons-library/2138/pauls-ministry-the-mystery-of-christ-in-you}
-\item "Philosophy or Christ?" (Colossians 2:8-10), 1976年7月11日 — \url{https://www.gty.org/library/sermons-library/2141/philosophy-or-christ}
-\item "Living the Risen Life" (Colossians 3:1-4), 1976年9月26日 — \url{https://www.gty.org/library/sermons-library/2145/living-the-risen-life}
-\item "The New Man Makes a New Home" (Colossians 3:18-4:1), 1976年11月7日 — \url{https://www.gty.org/library/sermons-library/2149/the-new-man-makes-a-new-home}
-\item "With a Little Help from My Friends" (Colossians 4:7-18), 1976年12月5日 — \url{https://www.gty.org/library/sermons-library/2152/with-a-little-help-from-my-friends}
-\end{itemize}
-
-\section*{G. Campbell Morgan — The Westminster Pulpit}
-
-\begin{itemize}
-\item "Forgiveness" (Colossians 1:14)
-\item "Church Ideals: The Church Governed" (Colossians 1:18)
-\item "Peace By The Cross" (Colossians 1:20)
-\item "Christ In You, The Hope Of Glory" (Colossians 1:27)
-\item "How God Has Made Possible What He Requires" (Colossians 2:6)
-\item "The Deity Of Jesus" (Colossians 2:9)
-\end{itemize}
-
-\section*{中文查經資源 Chinese-Language Bible Study Resources}
-
-\begin{itemize}
-\item 黃長老（Elder Wong）。查經教導法，整合於本書「黃長老這樣帶你讀」各節。
-\end{itemize}
-
-\section*{聖經版本與經文核對 Bible Versions \& Cross-Reference}
-
-\begin{itemize}
-\item 中文：和合本 (Chinese Union Version, CUV)
-\item English: English Standard Version (ESV)
-\item 逐章經文核對：\url{https://www.ai-eden.com/bible/colossians}
-\end{itemize}
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX D: COLOSSIANS AND EPHESIANS — SISTER EPISTLES
-%% ============================================
-\chapter*{附錄四：歌羅西書與以弗所書——姊妹書信 (Appendix D: Colossians and Ephesians — Sister Epistles)}
-\addcontentsline{toc}{chapter}{附錄四：歌羅西書與以弗所書——姊妹書信 (Appendix D: Colossians and Ephesians — Sister Epistles)}
-\markboth{}{}
-
-\noindent 歌羅西書與以弗所書由同一次差遣送達——推基古一人同時攜帶兩封信（弗6:21；西4:7-9）——寫作時間相近，主題大量重疊，卻各有側重。把兩卷書合起來讀，才是完整的圖畫。
-
-\section*{主題互補對照}
-
-{\small
-\begin{longtable}{@{}p{2.82cm}p{5.18cm}p{5.18cm}@{}}
-\toprule
-\textbf{主題} & \textbf{歌羅西書} & \textbf{以弗所書} \\
-\midrule
-\endhead
-基督與教會 & 基督是教會的頭，豐盛居住在祂裡面（1:18；2:9-10） & 教會是基督的身體，是那充滿萬有者所充滿的（弗1:22-23） \\
-代求的核心 & 求滿心知道神的旨意（1:9-11） & 求照明心中的眼睛（弗1:15-19） \\
-奧祕 & 外邦人得與基督同享榮耀的盼望（1:24-27） & 外邦人同為後嗣、同為一體（弗3:1-6） \\
-家庭守則 & 簡潔版，鎖進「在主裡」的框架（3:18-4:1） & 詳細版，把夫妻關係連於「基督愛教會，為教會捨己」（弗5:22-6:9） \\
-主要對付的問題 & 歌羅西異端——哲學、律法主義、天使敬拜、苦修規條（2:8-23） & 教會的合一與長大成人，較少著墨於具體異端 \\
-\bottomrule
-\end{longtable}
-}
-
-\section*{為什麼要合起來讀}
-
-歌羅西書寫給一間保羅從未親自到訪的教會，聚焦基督個人的豐富與得勝，作為對付具體異端的武器；以弗所書寫作對象更廣，聚焦教會作為基督身體的合一與長大。兩卷信一先一後由推基古送達歌羅西——讀者若同時展讀，才看見保羅心目中「豐富的基督」與「合一的教會」原是同一幅圖畫的兩面。
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX E: GREEK WORD GLOSSARY
-%% ============================================
-\chapter*{附錄五：希臘文原文詞彙表 (Appendix E: Greek Word Glossary)}
-\addcontentsline{toc}{chapter}{附錄五：希臘文原文詞彙表 (Appendix E: Greek Word Glossary)}
-\markboth{}{}
-
-\noindent 本表彙整全書八章「原文研讀」小節出現的重要詞彙，依希臘字母順序排列，供查閱參考。
-
-{\small
-\begin{longtable}{@{}p{2.63cm}p{2.25cm}p{2.82cm}p{5.07cm}@{}}
-\toprule
-\textbf{希臘文} & \textbf{音譯} & \textbf{意義} & \textbf{出處與註解} \\
-\midrule
-\endhead
-ἀγάπη & agapē & 愛心 & 1:4, 8，信心的果子，向眾聖徒而發 \\
-ἀνακαινόω & anakainoō & 更新 & 3:10，「這新人在知識上漸漸更新」，持續進行式 \\
-ἀνήκω & anēkō & 相宜、合宜 & 3:18，「在主裡面」才成立的順服 \\
-ἀνταναπληρόω & antanaplēroō & 補滿、代替填補 & 1:24，新約僅此一見，指身體與元首一同受苦的參與，不是救贖有缺欠 \\
-ἀπεκδύομαι & apekdyomai & 徹底脫去 & 3:9，比一般「脫」語氣更強，呼應洗禮意象 \\
-ἀποκαταλλάσσω & apokatallassō & 使完全和好 & 1:20, 22，帶著 apo- 前綴，強調徹底、完全的和好 \\
-ἀπόκρυφοι & apokryphoi & 隱藏的、珍藏的 & 2:3，「所積蓄的一切智慧知識」都「藏」在基督裡面 \\
-αὐξάνω & auxanō & 增長 & 1:6, 10，福音向外擴展的動作，與結果子並列 \\
-δοῦλος & doulos & 僕人、奴僕 & 3:22，初代教會奴僕與主人同席敬拜的實際處境 \\
-εἰκών & eikōn & 像、本質的顯現 & 1:15，不是被造的形像，是神本體藉著祂顯明出來 \\
-εἰ & ei & 既然（肯定語氣，非懷疑假設） & 3:1，承接2:12「與他一同復活」的既定事實 \\
-ἐλπίς & elpis & 盼望 & 1:5，存在天上的、托住信心與愛心的地基 \\
-ἐνδύω & endyō & 穿上 & 3:10, 12，與「脫去」相對的穿衣意象 \\
-ἐρεθίζω & erethizō & 惹動、持續刺激 & 3:21，父親不可對兒女做的事 \\
-ἐξ ψυχῆς & ex psychēs & 從心裡、從靈魂裡 & 3:23，「無論做甚麼，都要從心裡做」 \\
-ἅλας & halas & 鹽 & 4:6，兼具調味與防腐兩重古代常見用法 \\
-καιρός & kairos & 時機、恰當的時候 & 4:5，「愛惜光陰」原文直譯是「贖回時機」 \\
-καρποφορέω & karpophoreō & 結果子 & 1:6, 10，福音內在的、自然而然的生發 \\
-κεφαλή & kephalē & 頭、元首 & 1:18；2:19，「教會全體之首」，全身聯絡於此 \\
-κύριος & kyrios & 主 & 3:18, 20, 22(x2), 23, 24(x2)；4:1，貫穿全段的關鍵詞 \\
-μεθίστημι & methistēmi & 遷移、遷徙 & 1:13「遷到」，過去完成式，古代常用於整族被強制遷移 \\
-μυστήριον & mystērion & 奧祕、隱藏後顯明之事 & 1:26-27；2:2；4:3，全書貫穿的核心詞 \\
-πίστις & pistis & 信心 & 1:4，與愛心、盼望並列成三根柱子 \\
-πλῆρωμα & plērōma & 豐盛、完全的容量 & 1:19；2:9-10，全書關鍵詞，姊妹書信以弗所書也反覆使用 \\
-πλουσίως & plousiōs & 豐豐富富地 & 3:16，字根雖與 plērōma 不同（出自 ploutos「財富」），呼應同一主題 \\
-προσκαρτερέω & proskartereō & 恆切、堅持不懈 & 4:2，同一字用於徒1:14 \\
-πρωτότοκος & prōtotokos & 首生的、地位在先者 & 1:15, 18，兩次出現：創造之先、復活之先 \\
-σωματικῶς & sōmatikōs & 有形有體地 & 2:9，全新約僅此一次，強調神性「實體地」居住在基督裡 \\
-συμβιβάζω & symbibazō & 聯絡在一起、使緊密結合 & 2:2, 19，愛心互相聯絡；身體的相助聯絡 \\
-θριαμβεύω & thriambeuō & 誇勝、公開凱旋遊行 & 2:15，羅馬軍事凱旋式的意象，基督在十字架上「誇勝」 \\
-φιλοσοφία & philosophia & 理學、哲學 & 2:8，全新約唯一一次出現，帶負面意涵 \\
-χειρόγραφον & cheirographon & 債務字據 & 2:14，指控告人的律法字據 \\
-γρηγορέω & grēgoreō & 儆醒 & 4:2，呼應太26:41「總要儆醒禱告」 \\
-\bottomrule
-\end{longtable}
-}
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX F: READING PLAN
-%% ============================================
-\chapter*{附錄六：歌羅西書讀經計劃 (Appendix F: An 8-Day Reading Plan for Colossians)}
-\addcontentsline{toc}{chapter}{附錄六：歌羅西書讀經計劃 (Appendix F: An 8-Day Reading Plan for Colossians)}
-\markboth{}{}
-
-\noindent\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{\dimexpr\textwidth-2\fboxsep-2\fboxrule\relax}\vspace{0.18cm}
-\centering
-{\footnotesize\bfseries\color{ChapterPurple} 讀經之鑰 \;\textperiodcentered\; The Key}\\[0.4em]
-{\footnotesize\color{TextGray}
-重要的不是\textit{讀完}，是\textit{遇見}。\\
-若某一日的話打中你——停下來，在那裡住一天。}
-\vspace{0.18cm}
-\end{minipage}}
-
-\vspace{0.3cm}
-\noindent 本計劃依全書結構分為八天，一天一章，對應本書的八個查經單元（00-07）。
-
-{\small
-\renewcommand{\arraystretch}{1.2}
-\begin{longtable}{@{}p{1.16cm}p{2.32cm}p{2.51cm}p{6.77cm}@{}}
-\toprule
-\textbf{天} & \textbf{經文} & \textbf{主題} & \textbf{帶入的問題} \\
-\midrule
-\endhead
-第一天 & 全書導論 & 骨架與精義 & 你想在這卷書裡，加法還是減法？ \\
-第二天 & 1:1-14 & 問安與代求 & 你上一次代禱，求的是解決問題，還是更認識神的旨意？ \\
-第三天 & 1:15-23 & 基督是誰（那首大詩） & 你今天心裡對基督的認識，配得上這首詩的分量嗎？ \\
-第四天 & 1:24-2:5 & 保羅的職事與奧祕 & 「基督在你們心裡成了有榮耀的盼望」——這盼望，你活出來了嗎？ \\
-第五天 & 2:6-23 & 基督的豐盛，對付假教訓 & 你今天最想在基督之上「加」的，是什麼？ \\
-第六天 & 3:1-17 & 與基督同復活的新生活 & 「求在上面的事」——今天你的心思意念，朝向哪裡？ \\
-第七天 & 3:18-4:1 & 家庭守則 & 你在家裡最親近的關係，有沒有活出「在主裡」的樣式？ \\
-第八天 & 4:2-18 & 禱告、行為與問安 & 讀完整卷書，你會如何用自己的話，總結基督對你生命的意義？ \\
-\bottomrule
-\end{longtable}
-}
-
 \cleardoublepage
 
 %% --------------------------------------------
@@ -960,7 +667,7 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書逐章研讀歌羅西書全書四章，整合黃長老查經教導、John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，並貫通四福音、保羅其他監獄書信與啟示錄。全書以歌羅西書 2:9-10 為總綱：「因為神本性一切的豐盛，都有形有體地居住在基督裏面；你們在他裏面也得了豐盛。」
+本書分六卷十三章研讀歌羅西書全書，整合 CCIC 週四查經班教導、John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，並貫通四福音、保羅其他監獄書信與啟示錄。全書以歌羅西書 2:9-10 為總綱：「因為神本性一切的豐盛，都有形有體地居住在基督裏面；你們在他裏面也得了豐盛。」
 
 A chapter-by-chapter study of all four chapters of Colossians, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition, and G. Campbell Morgan's spiritual analysis, connected throughout to the Gospels, Paul's other prison epistles, and Revelation. The whole book is framed by Colossians 2:9-10: "For in him the whole fullness of deity dwells bodily, and you have been filled in him."
 $endif$

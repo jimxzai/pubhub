@@ -47,10 +47,16 @@ if [ -z "$SLUG" ]; then
   echo "Usage: $0 <book-slug> [page-to-screenshot]" >&2
   echo "Available books:" >&2
   ls scripts/build-*-consolidated.sh 2>/dev/null | sed -E 's#scripts/build-(.*)-consolidated\.sh#  \1#' >&2
+  ls scripts/build-*.sh 2>/dev/null | grep -v -- -consolidated | sed -E 's#scripts/build-(.*)\.sh#  \1#' >&2
   exit 2
 fi
 
+# Most books use scripts/build-<slug>-consolidated.sh, but the older
+# one-off books (genesis, 1-samuel, 2-samuel, 1-chronicles, 2-chronicles,
+# samuel-chronicles, history-books) are scripts/build-<slug>.sh and were
+# outside this driver entirely — so they got no verification at all.
 BUILD_SCRIPT="scripts/build-${SLUG}-consolidated.sh"
+[ -f "$BUILD_SCRIPT" ] || BUILD_SCRIPT="scripts/build-${SLUG}.sh"
 LOG="/tmp/build-${SLUG}-driver.log"
 
 # Do NOT assume the PDF is output/<slug>-consolidated.pdf — the slug is the
