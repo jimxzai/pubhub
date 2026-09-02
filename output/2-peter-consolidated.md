@@ -25,11 +25,8 @@ copyright: |
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
-
+  Scripture quotations are from the New American Standard Bible®,
+  Copyright © 1960, 1971, 1977, 1995, 2020 by The Lockman Foundation.
   All rights reserved.
 ---
 
@@ -42,7 +39,7 @@ copyright: |
 
 多年來，神在基督徒會堂（CCIC）當中施恩，把一群平凡的人聚在祂的話語面前——**許多的週四，有些在晚上，有些在早上**——翻開聖經，一節一節地讀，一章一章地問。沒有講台的高度，只有一本翻舊了的聖經。回頭看，這正是恩典的記號：\textcolor{ScriptureGold}{\textbf{不是我們揀選了這條路，是主把我們放在祂的話語旁邊，又給了我們坐下來的恆心。}}
 
-教會的異象始終簡單：**以整本聖經為根基，以認識耶穌基督為中心，以生命的領受為目標**——\textcolor{ScriptureGold}{\textbf{在每一卷書、每一章、每一節裏，看見耶穌。}}「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」彼得後書尤其貼近這群查經桌旁的人：使徒寫這封信時，明知「脫離這帳棚的時候快到了」（彼後 1:14），便趁着還在世上的日子，把所領受的真道再一次提醒、再一次立定。這也正是老弟兄與這群弟兄姊妹多年來所做的事——\textcolor{ScriptureGold}{\textbf{不趁着年日還在，把整本聖經的領受留下來，更待何時？}}
+教會的異象始終簡單：**以整本聖經為根基，以認識耶穌基督為中心，以生命的領受為目標**——\textcolor{ScriptureGold}{\textbf{在每一卷書、每一章、每一節裏，看見耶穌。}}「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」彼得後書尤其貼近這群查經桌旁的人：使徒寫這封信時，明知「脫離這帳棚的時候快到了」（彼後 1:14），便趁著還在世上的日子，把所領受的真道再一次提醒、再一次立定。這也正是老弟兄與這群弟兄姊妹多年來所做的事——\textcolor{ScriptureGold}{\textbf{不趁著年日還在，把整本聖經的領受留下來，更待何時？}}
 
 本書各章的領受只署「老弟兄」與「週四查經班」，不寫姓名——這是帶領者自己的心願。他的理由，施洗約翰早已替他說了：\textcolor{ScriptureGold}{\textbf{「他必興旺，我必衰微。」}}（約 3:30）這本書若叫人記住了某個名字，它就失敗了；若叫人看見了那位使我們「在恩典和知識上有長進」的主，名字有沒有印在紙上，就一點也不要緊。
 
@@ -91,8 +88,8 @@ copyright: |
 > 你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。願榮耀歸給他，從今直到永遠！阿們。
 > — 彼得後書 3:18（和合本 CUV）
 
-> But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.
-> — 2 Peter 3:18 (ESV)
+> but grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory, both now and to the day of eternity. Amen.
+> — 2 Peter 3:18 (NASB)
 
 這節經文既是全書的收尾，也是全書的鑰匙——「知識」(*epignōsis*／*gnōsis*) 一詞，在 1:2-3 開卷的祝福裏已經先出現，到 3:18 收尾時再次響起，前後呼應，把整卷信扣在一個問號上：**你所擁有的，是真知識，還是假知識？**（詳見卷首〈知識的骨幹〉一章）
 
@@ -113,26 +110,11 @@ copyright: |
 
 ### 全書的主角——「知識」
 
-「知識」(*epignōsis*, *gnōsis*) 是彼得後書最鮮明的關鍵詞。全新約 *epignōsis* 共出現約二十次，多集中在保羅較晚期的書信；而僅三章的彼得後書一卷就佔了其中四次（1:2, 3, 8；2:20）——密度超過保羅任何一封單一書信。彼得對付假教導的主要方案，始終是真教義的真知識：
+「知識」(*epignōsis*, *gnōsis*) 是彼得後書最鮮明的關鍵詞。全新約 *epignōsis* 共出現約二十次，多集中在保羅較晚期的書信；而僅三章的彼得後書一卷就佔了其中四次（1:2, 3, 8；2:20）——密度超過保羅任何一封單一書信。彼得對付假教導的主要方案，始終是真教義的真知識；麥克阿瑟把三章讀成「三重知識防線」：第一章知道自己的救恩與呼召（根基穩固），第二章認出假教師（分辨真偽），第三章知道主的日子必要來到（聖潔生活）。
 
-| 經文 | 知識的內容 |
-|------|------------|
-| 1:2 | 認識神和我們主耶穌 |
-| 1:3 | 認識那用自己榮耀和美德召我們的主 |
-| 1:5-6 | 信心加上德行、知識…… |
-| 1:8 | 認識我們的主耶穌基督 |
-| 2:20 | 認識主救主耶穌基督（卻又背棄） |
-| 3:18 | 在恩典和知識上有長進 |
+彼得的時代已見「原始諾斯底」（proto-Gnostic）傾向的種子——把「知道」變成一種與道德操守脫鉤的特權；彼得強調的，始終是那種活生生、關係性的、必然結出美德的真知識。
 
-**三重知識防線**（麥克阿瑟分析）：
-
-| 章節 | 當知道的 | 防禦功能 |
-|------|----------|----------|
-| 第一章 | 知道你的救恩與呼召 | 根基穩固 |
-| 第二章 | 認出假教師 | 分辨真偽 |
-| 第三章 | 知道主的日子必要來到 | 聖潔生活 |
-
-**對比假知識**：彼得的時代已見「原始諾斯底」（proto-Gnostic）傾向的種子——把「知道」變成一種與道德操守脫鉤的特權；彼得強調的，始終是那種活生生、關係性的、必然結出美德的真知識。
+> **這是全書的骨幹，也是本書最重要的一條線索。** 逐處經文的字族普查、1:2-3 與 3:18 的封套結構、真知識與假知識的對照，全部集中在卷首〈「知識」——全書的骨幹〉一章，本節只作提示。
 
 ---
 
@@ -157,55 +139,23 @@ copyright: |
 
 ### 2. 假教師的特徵 (Characteristics of False Teachers)
 
-| 特徵 | 經文 | 描述 |
-|------|------|------|
-| 暗中引進異端 | 2:1 | 偷偷帶進毀滅的道理 |
-| 不認主 | 2:1 | 連買他們的主也不承認 |
-| 貪財 | 2:3, 14-15 | 用捏造的話剝削人 |
-| 放縱情慾 | 2:2, 10, 13-14, 18 | 隨肉身縱污穢的情慾 |
-| 藐視主治者 | 2:10 | 膽大任性，毀謗在尊位的 |
-| 如無知畜類 | 2:12 | 將要敗壞 |
-| 貪婪成性 | 2:14 | 眼中滿了淫色，心中習慣了貪婪 |
-| 離棄正路 | 2:15 | 如巴蘭走錯了路 |
+彼得用整整一章（2:1-22）為假教師畫像，八項特徵從「暗中引進異端」（2:1）一路排到「離棄正路，隨從巴蘭的路」（2:15）。**完整的特徵表與逐項解說，見第二章。**
 
 ### 3. 末世論 (Eschatology)
 
-| 主題 | 經文 | 教導 |
-|------|------|------|
-| 好譏誚的人 | 3:3-4 | 譏誚主再來的應許 |
-| 主再來的確據 | 3:5-7 | 不是耽延，乃是寬容 |
-| 一日千年 | 3:8-9 | 神的時間觀與神的寬容 |
-| 主的日子 | 3:10, 12 | 像賊來到，天地都要銷化 |
-| 新天新地 | 3:13 | 有義居在其中 |
-| 如何等候 | 3:11, 14 | 聖潔敬虔度日 |
+第三章從譏誚者的質問（3:3-4）走到新天新地的應許（3:13），中間經過洪水與烈火的類比（3:5-7）、一日千年的時間觀（3:8-9）、主的日子如賊來到（3:10）。**完整的主題表與逐段解說，見第三章。**
 
 ---
 
 ## 與猶大書的關係 (Relationship with Jude)
 
-彼得後書第 2 章與猶大書有高度相似的材料：
-
-| 主題 | 彼得後書 | 猶大書 |
-|------|----------|--------|
-| 假教師描述 | 2:1-3 | 4 |
-| 天使的審判 | 2:4 | 6 |
-| 所多瑪的審判 | 2:6 | 7 |
-| 藐視主治者 | 2:10-11 | 8-9 |
-| 巴蘭 | 2:15-16 | 11 |
-
-**學術討論**：兩卷書的依存方向（彼得引用猶大、猶大引用彼得，或兩者共同引用更早的材料）至今仍是懸而未決的問題，本書不作定論（詳見第二章「背景」一節與卷首〈正典定位〉一章）。
+彼得後書第 2 章與猶大書在措辭與例證次序上有極高的重疊，是新約裏文字最貼近的兩卷書。兩卷書的依存方向（彼得引用猶大、猶大引用彼得，或兩者共同引用更早的材料）至今懸而未決，本書不作定論。**逐點對照表與三種假設的評估，見卷首〈使徒的遺言〉第四節；經文層面的處理見第二章「背景」一節。**
 
 ---
 
 ## 舊約事例 (Old Testament Examples)
 
-彼得引用三個審判與拯救並列的例子（2:4-10a）——**審判是確定的，但神知道怎樣搭救敬虔的人（2:9）：**
-
-| 事例 | 經文 | 教訓 |
-|------|------|------|
-| 犯罪天使 | 2:4 | 神不姑息叛逆——無一得救 |
-| 挪亞洪水 | 2:5 | 神保守義人——挪亞（傳義道的）得救 |
-| 所多瑪蛾摩拉 | 2:6-8 | 不虔敬者的結局——羅得（心天天傷痛的義人）得救 |
+彼得引用三個審判與拯救並列的例子（2:4-10a）：犯罪的天使、挪亞洪水、所多瑪與蛾摩拉——**審判是確定的，但神知道怎樣搭救敬虔的人（2:9）。三組對照的完整解說，見第二章。**
 
 ---
 
@@ -230,7 +180,7 @@ copyright: |
 | 1e | 登山變像的見證 | 1:16-18 |
 | 1f | 先知預言的確據 | 1:19-21 |
 | 2a | 假教師的出現 | 2:1-3 |
-| 2b | 審判與拯救的歷史鑒戒 | 2:4-10a |
+| 2b | 審判與拯救的歷史鑑戒 | 2:4-10a |
 | 2c | 假教師的特徵 | 2:10b-16 |
 | 2d | 假教師的虛空 | 2:17-22 |
 | 3a | 寫信的目的 | 3:1-2 |
@@ -286,7 +236,7 @@ copyright: |
 | 步驟 | 內容 | 說明 |
 |------|------|------|
 | 1 | 禱告預備 | 求主開眼 |
-| 2 | 經文朗讀 | 中英對照 (和合本 CUV + ESV) |
+| 2 | 經文朗讀 | 中英對照 (和合本 CUV + NASB) |
 | 3 | 三方資源 | 老弟兄 + MacArthur + Morgan |
 | 4 | 筆記記錄 | 使用標準模板 |
 | 5 | 默想回應 | 思想在真知識上長進 |
@@ -316,7 +266,7 @@ copyright: |
 
 ## 老弟兄精義一句話
 
-**彼得前書防的是外面燒來的火，彼得後書防的是裏面長出來的蟲——外面的火燒得着皮肉，燒不着信心；裏面的蟲若不及早除掉，能把整棵樹從根爛起，教會自己都不會發覺。所以彼得寫完第一封信，沒有停筆，趁着「脫離這帳棚的時候快到了」，把最後一口氣，用在防這條蟲上。**
+**彼得前書防的是外面燒來的火，彼得後書防的是裏面長出來的蟲——外面的火燒得著皮肉，燒不著信心；裏面的蟲若不及早除掉，能把整棵樹從根爛起，教會自己都不會發覺。所以彼得寫完第一封信，沒有停筆，趁著「脫離這帳棚的時候快到了」，把最後一口氣，用在防這條蟲上。**
 
 ---
 
@@ -343,7 +293,7 @@ copyright: |
 
 同一時期，另一份重要的史料——約主後170年編成的《穆拉多利殘篇》（Muratorian Fragment，現存最早的新約書目清單之一）——**沒有列出彼得後書。**這份文獻本身殘缺不全，開頭已佚（現存部分是從馬可福音的敘述中間開始的），希伯來書、雅各書也同樣缺席；但學者對這些空白的成因至今仍有分歧——有人認為主要是抄本傳抄過程中的殘破或編者疏漏所致（連新約公認無爭議的彼得前書，在現存殘篇裏同樣找不到，這一點常被引來支持「殘破說」），也有人認為至少希伯來書的缺席可能反映編者當時刻意的取捨。不能單憑這一項空白，就斷言彼得後書在當時被明確拒絕。**史料的沉默，不等於史料的否決——這一點在講爭議史的時候，同樣要誠實交代。**
 
-真正把懸案定案的，是四世紀下半葉一連串的清單：**主後367年，亞他那修的《復活節教牧書信第三十九號》（39th Festal Letter）**，是現存最早、完整列出我們今天所用二十七卷新約書目的文獻，彼得後書在列；**主後363年前後的老底嘉會議**，傳世的教規清單裏也收了它——但這裏要格外誠實地補一句：這份清單本身（傳統編號第60條）的真確性，歷代學者持保留態度，不少抄本傳統裏根本沒有這一條，很可能是後人添附上去的，未必是老底嘉會議原初議決的一部分；此會議本身規模也只是地方性的教區會議，並非普世性大公會議。**主後397年8月28日，迦太基會議**明確重申了包括「彼得後書」在內的二十七卷新約書目，與393年希坡會議的清單一致——這兩處纔是真正堅實、無爭議的史料基礎。**從俄利根的猶豫，到迦太基的確認，中間隔了將近一百五十年——彼得後書是整本新約裏，教會走得最慢、卻也走到底的一卷。**
+真正把懸案定案的，是四世紀下半葉一連串的清單：**主後367年，亞他那修的《復活節教牧書信第三十九號》（39th Festal Letter）**，是現存最早、完整列出我們今天所用二十七卷新約書目的文獻，彼得後書在列；**主後363年前後的老底嘉會議**，傳世的教規清單裏也收了它——但這裏要格外誠實地補一句：這份清單本身（傳統編號第60條）的真確性，歷代學者持保留態度，不少抄本傳統裏根本沒有這一條，很可能是後人添附上去的，未必是老底嘉會議原初議決的一部分；此會議本身規模也只是地方性的教區會議，並非普世性大公會議。**主後397年8月28日，迦太基會議**明確重申了包括「彼得後書」在內的二十七卷新約書目，與393年希坡會議的清單一致——這兩處才是真正堅實、無爭議的史料基礎。**從俄利根的猶豫，到迦太基的確認，中間隔了將近一百五十年——彼得後書是整本新約裏，教會走得最慢、卻也走到底的一卷。**
 
 ---
 
@@ -363,13 +313,13 @@ copyright: |
 
 登山變像，三本福音書一致記載，在場的只有彼得、雅各、約翰三人（太17:1-8；可9:2-8；路9:28-36）——這不是一個泛泛的宣稱，是把自己釘在一個極小、極具體的目擊者名單裏。再加上3:1「親愛的弟兄啊，我現在寫給你們的是第二封信」，作者明白宣告這是寫給同一批讀者的**第二封信**，與彼得前書構成一組。
 
-本研讀採取傳統立場（麥克阿瑟與多數福音派學者所持）：**彼得後書確實出於使徒彼得，文風的差異可以用不同代筆人（amanuensis）、不同寫作場合、甚至彼得本人在最後歲月親自執筆（不再假手西拉）等因素合理解釋。**批判學界對此仍有異議，這是誠實查經必須承認的事實；但本書後面每一章的研讀，都以「這是彼得本人晚年最後的遺言」為前提展開——**因為信的內容本身，從頭到尾都在說一件事：我快死了，趁還活着，把最要緊的話留給你們。**這正是下一節要展開的主題。
+本研讀採取傳統立場（麥克阿瑟與多數福音派學者所持）：**彼得後書確實出於使徒彼得，文風的差異可以用不同代筆人（amanuensis）、不同寫作場合、甚至彼得本人在最後歲月親自執筆（不再假手西拉）等因素合理解釋。**批判學界對此仍有異議，這是誠實查經必須承認的事實；但本書後面每一章的研讀，都以「這是彼得本人晚年最後的遺言」為前提展開——**因為信的內容本身，從頭到尾都在說一件事：我快死了，趁還活著，把最要緊的話留給你們。**這正是下一節要展開的主題。
 
 ---
 
 ## 三、與彼得前書——同一位使徒，兩場不同的火
 
-彼得後書明確自稱是「第二封信」，這就逼着讀者把它與彼得前書並排讀。兩封信處理的，是同一個群體在不同時刻面對的兩種完全不同的危險：
+彼得後書明確自稱是「第二封信」，這就逼著讀者把它與彼得前書並排讀。兩封信處理的，是同一個群體在不同時刻面對的兩種完全不同的危險：
 
 | | 彼得前書 | 彼得後書 |
 |---|---|---|
@@ -379,9 +329,9 @@ copyright: |
 | **筆調** | 溫柔牧養，反覆安慰受苦的羊 | 嚴厲警告，反覆刻畫假教師的醜態（整章第2章） |
 | **末世的角色** | 苦難是通往榮耀的必經之路（1:6-7） | 主的日子必要來到，是儆醒聖潔生活的理由（3:10-14） |
 
-一位在羅馬教過牧養課程的老弟兄常說一句話（雖不是逐字紀錄，卻是他一貫的教法）：**外面的敵人逼你否認基督，裏面的敵人哄你重新定義基督；前者要你的命，後者要你的道。彼得寫第一封信保護羊群的命，寫第二封信保護羊群的道——兩封信合起來，才是一份完整的牧養遺囑。**
+老弟兄常說一句話（雖不是逐字紀錄，卻是他一貫的教法）：**外面的敵人逼你否認基督，裏面的敵人哄你重新定義基督；前者要你的命，後者要你的道。彼得寫第一封信保護羊群的命，寫第二封信保護羊群的道——兩封信合起來，才是一份完整的牧養遺囑。**
 
-值得留意的是，這兩種危險在教會歷史上從未真正分開過：尼祿在羅馬燒教會的同一個世代，諾斯底主義的雛形也已在小亞細亞的教會裏悄悄發酵。彼得寫這兩封信的時候，兩場火事實上正同時燒着——只是遠近不同、明暗不同。
+值得留意的是，這兩種危險在教會歷史上從未真正分開過：尼祿在羅馬燒教會的同一個世代，諾斯底主義的雛形也已在小亞細亞的教會裏悄悄發酵。彼得寫這兩封信的時候，兩場火事實上正同時燒著——只是遠近不同、明暗不同。
 
 ---
 
@@ -400,7 +350,7 @@ copyright: |
 
 這種密度的重疊，在保羅書信之間、在福音書之間都找不到第二例。學者對這個現象有三種解釋：彼得後書引用了猶大書；猶大書引用了彼得後書；或兩者各自取材於一個更早、已經失傳的共同來源（可能是初代教會裏一篇流傳的講章或教理材料）。**三種說法都有支持者，至今沒有定論，本研讀不強行選邊。**
 
-有一個常被提出、值得記在心裏的觀察，是關於兩卷書用的動詞時態：彼得後書論到假教師，多半用未來式——「將有假師傅在你們中間出現」（2:1，直譯語氣近「必要出現」）；猶大書論到同一批人，卻用現在完成、既成事實的語氣——「因為有些人偷着進來」（猶4，直譯近「已經溜了進來」）。有解經者據此推論：**彼得寫信在先，是預告；猶大寫信在後，是印證——彼得所警告要來的，到猶大寫信時已經來到。**這是一個吸引人的讀法，但務必知道它不是鐵案：彼得後書自己在別處（如2:10、12、17、20節）也用現在式描寫這些假教師，猶大書則從頭到尾完全沒有使用未來式——時態證據本身並不像乍看那樣一致，學界至今仍在爭論。**這個觀察，最好當作一種可能的讀法保留下來，而不是拿來當作解決文學關係之爭的定論。**
+有一個常被提出、值得記在心裏的觀察，是關於兩卷書用的動詞時態：彼得後書論到假教師，多半用未來式——「將有假師傅在你們中間出現」（2:1，直譯語氣近「必要出現」）；猶大書論到同一批人，卻用現在完成、既成事實的語氣——「因為有些人偷著進來」（猶4，直譯近「已經溜了進來」）。有解經者據此推論：**彼得寫信在先，是預告；猶大寫信在後，是印證——彼得所警告要來的，到猶大寫信時已經來到。**這是一個吸引人的讀法，但務必知道它不是鐵案：彼得後書自己在別處（如2:10、12、17、20節）也用現在式描寫這些假教師，猶大書則從頭到尾完全沒有使用未來式——時態證據本身並不像乍看那樣一致，學界至今仍在爭論。**這個觀察，最好當作一種可能的讀法保留下來，而不是拿來當作解決文學關係之爭的定論。**
 
 不管方向如何，兩卷書合起來，構成了新約裏對「教會內部假教師」刻畫得最生動、最不留情面的一組文字——正如麥克阿瑟論彼得後書所說：「這是聖經中對假教師最生動、最透徹的揭露，只有猶大書可與之相比。」（John MacArthur, *Bible Introductions: 2 Peter*, Blue Letter Bible / Grace to You）
 
@@ -414,7 +364,7 @@ copyright: |
 
 「正如我們主耶穌基督所指示我的」——這句話直接呼應約翰福音末章，復活的主親口對彼得說的話：
 
-> **約 21:18-19**　「我實實在在地告訴你：你年少的時候，自己束上帶子，隨意往來；但年老的時候，你要伸出手來，別人要把你束上，帶你到不願意去的地方。」耶穌說這話，是指着彼得要怎樣死，榮耀神。
+> **約 21:18-19**　「我實實在在地告訴你：你年少的時候，自己束上帶子，隨意往來；但年老的時候，你要伸出手來，別人要把你束上，帶你到不願意去的地方。」耶穌說這話，是指著彼得要怎樣死，榮耀神。
 
 （這段對話與其解經，本系列《約翰福音研讀》第21章〈尾聲〉一章已詳細展開。）**彼得後書1:14，正是那句預言三十多年後，在彼得自己筆下的回聲——一個曾經三次不認主的漁夫，如今知道自己「怎樣死」的日子近了，用一封信作了最後的預備。**教會傳統一致記載，彼得晚年確實死在羅馬尼祿逼迫之下（約主後64-68年），倒釘十字架而死（此傳統詳見本系列《彼得前書研讀》卷首〈客旅之家〉一章所引優西比烏《教會史》轉引俄利根等早期見證）。
 
@@ -489,10 +439,10 @@ copyright: |
 > **彼後 1:2**　願恩惠、平安，因你們認識神和我們主耶穌，多多的加給你們。
 > **1:3**　神的神能已將一切關乎生命和虔敬的事賜給我們，皆因我們認識那用自己榮耀和美德召我們的主。
 
-> **ESV 1:2**　May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord.
-> **1:3**　His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence.
+> **NASB 1:2**　Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,
+> **1:3**　for His divine power has granted to us everything pertaining to life and godliness, through the true knowledge of Him who called us by His own glory and excellence.
 
-兩節裏「認識」都是同一個希臘字：`{\greekfont ἐπίγνωσις}`{=latex}（epignōsis）。這不是一句客套的祝福語，而是一句因果宣告——恩惠平安「因」認識神而多多加給，神能與一切恩賜「皆因」認識那位呼召我們的主而賜下。彼得沒有先講「你們要怎樣做」，他先講「你們已經認識了誰」。全卷書一切後面要展開的——美德的階梯、假教師的分辨、主再來的盼望——都懸在這兩節經文的因果鏈上：**不是先努力，後認識；是先認識，後一切纔有根。**
+兩節裏「認識」都是同一個希臘字：`{\greekfont ἐπίγνωσις}`{=latex}（epignōsis）。這不是一句客套的祝福語，而是一句因果宣告——恩惠平安「因」認識神而多多加給，神能與一切恩賜「皆因」認識那位呼召我們的主而賜下。彼得沒有先講「你們要怎樣做」，他先講「你們已經認識了誰」。全卷書一切後面要展開的——美德的階梯、假教師的分辨、主再來的盼望——都懸在這兩節經文的因果鏈上：**不是先努力，後認識；是先認識，後一切才有根。**
 
 ---
 
@@ -505,7 +455,7 @@ copyright: |
 | 1:2 | 「因你們認識神和我們主耶穌」 | 問安的根據 |
 | 1:3 | 「皆因我們認識那……召我們的主」 | 神能與應許的來源 |
 | 1:8 | 「使你們在認識我們的主耶穌基督上，不至於閒懶不結果子」 | 美德階梯的果效標的 |
-| 2:20 | 「倘若他們因認識主——救主耶穌基督，得以脫離世上的汙穢」 | 假教師曾經有過、後來背棄的知識 |
+| 2:20 | 「倘若他們因認識主——救主耶穌基督，得以脫離世上的污穢」 | 假教師曾經有過、後來背棄的知識 |
 
 除此之外，這個字族還有一個更平常的表親——`{\greekfont γνῶσις}`{=latex}（gnōsis，知識），出現在美德階梯（1:5-6「有了德行，又要加上知識；有了知識，又要加上節制」）與全書末了的收束句（3:18「在恩典和知識上有長進」）。兩個字彼得後書並不嚴格切割——歷代解經者一般認為 *epignōsis* 更常指向那決定性的、與神建立關係的「確實認識」，*gnōsis* 則更常指向這認識展開之後、在日常生活裏持續累積的「知識」；但兩者共用同一個字根 `{\greekfont γινώσκω}`{=latex}，指向的是同一件事：**不是抽象資訊，是與那一位的關係。**
 
@@ -520,8 +470,8 @@ copyright: |
 | 章 | 麥克阿瑟框架 | 這一種「知道」的內容 | 防禦的對象 |
 |----|-------------|----------------------|-----------|
 | 第一章 | 根基穩固 | **知道你的呼召與救恩是真的**——不是感覺，是有登山變像的目擊見證（1:16-18）與先知確據的話語（1:19-21）作根基 | 對自己得救確據的懷疑 |
-| 第二章 | 分辨真偽 | **知道怎樣認出假教師**——他們曾經「因認識主……得以脫離世上的汙穢」（2:20），如今卻背棄，被同一個字揭穿 | 教會內部披着知識外衣的異端 |
-| 第三章 | 聖潔生活 | **知道將來要發生的事，並知道現在該怎樣活**——因為知道主的日子必要來到（3:10），所以現在「當殷勤，使自己沒有玷汙」（3:14） | 譏誚主再來的懷疑論 |
+| 第二章 | 分辨真偽 | **知道怎樣認出假教師**——他們曾經「因認識主……得以脫離世上的污穢」（2:20），如今卻背棄，被同一個字揭穿 | 教會內部披著知識外衣的異端 |
+| 第三章 | 聖潔生活 | **知道將來要發生的事，並知道現在該怎樣活**——因為知道主的日子必要來到（3:10），所以現在「當殷勤，使自己沒有玷污」（3:14） | 譏誚主再來的懷疑論 |
 
 三章的次序不能顛倒，也不是偶然的編排：**沒有第一章「知道你信的是誰」，第二章就沒有分辨假教師的立足點；沒有第二章「知道假知識長甚麼樣子」，第三章的警醒生活就失去了迫切的理由。**這正是這卷書最深的結構性論證——彼得不是先給一套系統性的教義整理，再附上應用；他讓「知識」這個字本身，一路從根基走到分辨，再走到盼望，**全書的目錄，就是全書的論證。**
 
@@ -535,7 +485,7 @@ copyright: |
 
 > **彼後 3:18**　你們卻要在我們主——救主耶穌基督的恩典和**知識**（gnōsis）上有長進。願榮耀歸給他，從今直到永遠！阿們。
 
-> **ESV 3:18**　But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.
+> **NASB 3:18**　but grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory, both now and to the day of eternity. Amen.
 
 開頭是1:3「神的神能已將一切關乎生命和虔敬的事**賜給**我們」（*dedōrēmenēs*，完成式分詞，已然成就、持續有效的恩典）；結尾是「知識」仍要**長進**（*auxanete*，現在命令式，持續的動作）。這個轉換本身就是一句無聲的信仰宣告：**真知識不是一次領受就完結的財產，而是一條終身要走下去的路。**開卷的認識是根基，是彼得能寫這封信的理由；末了的知識是呼召，是彼得留給讀者一生的功課。中間第二章那些背棄真知識的假教師，正是這條封套裏最尖銳的反例——他們證明了：**認識過，不等於留住了；起點對了，終點仍可能走岔。**這正是為甚麼彼得末了不說「你們已經知道夠了」，而說「你們要……有長進」——真知識從不是可以停下腳步的地方。
 
@@ -545,9 +495,9 @@ copyright: |
 
 彼得後書用力最深的地方，不只是正面陳述真知識，更是揭穿一種冒牌貨。第二章形容的假教師，用的正是同一個字：
 
-> **彼後 2:20**　倘若他們因**認識**主——救主耶穌基督，得以脫離世上的汙穢，後來又在其中被纏住、制伏，他們末後的景況就比先前更不好了。
+> **彼後 2:20**　倘若他們因**認識**主——救主耶穌基督，得以脫離世上的污穢，後來又在其中被纏住、制伏，他們末後的景況就比先前更不好了。
 
-> **ESV 2:20**　For if, after they have escaped the defilements of the world through the **knowledge** of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first.
+> **NASB 2:20**　For if, after they have escaped the defilements of the world by the **knowledge** of the Lord and Savior Jesus Christ, they are again entangled in them and are overcome, the last state has become worse for them than the first.
 
 這一節不是空泛的道德警告，而是彼得整卷書「知識教導」最尖銳的一刀：**這些人不是從未聽過真道，是曾經真實觸碰過那個決定性的「認識」（epignōsis），如今卻被纏住、退回原狀。**第二章已詳細陳明，這段經文本身刻意保留了解讀上的張力——究竟是「認識卻從未真信」，還是「真信之後嚴重背道」，彼得自己沒有替讀者下結論；但無論哪一種讀法，經文所揭露的危機是同一個：**真知識與假知識，外表可能長得一模一樣，直到被試煉揭穿的那一刻。**
 
@@ -555,7 +505,7 @@ copyright: |
 
 > **提前 6:20**　提摩太啊，你要保守所託付你的，躲避世俗的虛談和那敵真道、**似是而非的學問**。
 
-> **ESV 1 Timothy 6:20**　O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called **knowledge** (*gnōsis*).
+> **NASB 1 Timothy 6:20**　Timothy, protect what has been entrusted to you, avoiding worldly, empty chatter and the opposing arguments of what is falsely called **"knowledge"** (*gnōsis*)—
 
 「似是而非的學問」正是被冒了名的 *gnōsis*——保羅稱它「假冒為名」（*pseudōnymos*），彼得後書2:20-21用的是同一種邏輯，只是換了一個角度：不是抽象地警告「有人假冒知識之名」，而是具體地描繪「有人真曾觸碰過真知識，卻選擇回頭」。**兩卷信合起來讀，構成了新約對『假知識』最完整的畫像：一種是從一開始就冒名頂替的（提前6:20），一種是真實嘗過、卻又背棄的（彼後2:20-21）。**彼得整卷書用「真知識」作為抵禦這兩種危機共同的武器——這也正是全書卷首〈概覽〉一章所引麥克阿瑟「三重知識防線」結構分析的核心洞見：彼得對付假教導的主要方案，始終是真教義的知識，而不是情緒性的辯駁。
 
@@ -585,7 +535,7 @@ copyright: |
 
 ## 讓話語住在裏面
 
-**默想一整天的問題**（不要急着回答，帶着走）：
+**默想一整天的問題**（不要急著回答，帶著走）：
 
 1. 1:3「皆因我們認識那……召我們的主」——你信主以來所領受的一切，你有多少時候記得這是「因為認識」在先，而不是「因為努力」在先？
 2. 2:20說有人「因認識主……得以脫離……後來又在其中被纏住」——你生命裏有沒有一處，你曾經真正「知道」，如今卻悄悄鬆手、退回原狀？
@@ -608,172 +558,6 @@ copyright: |
 彼得用一封將盡的遺言問完了這卷信最後一句話：「你們卻要在我們主——救主耶穌基督的恩典和知識上有長進。」他沒有問你知道多少，他問你認不認識祂。
 
 你看見耶穌了嗎？
-
-
-\newpage
-
-# 全書領受總綱——老弟兄查經法 (Systematic Reception) {.unnumbered}
-
-
-> 「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」
->
-> 「我們並有先知更確的預言，如同燈照在暗處。」（彼後 1:19）
->
-> 「你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。願榮耀歸給他，從今直到永遠！阿們。」（彼後 3:18）
-
-**整理日期**：2026-08
-**方法**：以彼得後書自身「知識」（*epignōsis／gnōsis*）首尾扣住全書的文學結構為骨架——1:2-3「認識神和我們主耶穌」開卷，3:18「在恩典和知識上有長進」收卷——逐部深度領受；跨書參照彼得前書、猶大書、約翰福音21章、創世記、以賽亞書、啟示錄
-**經文核對**：01-03各章中文經文已統一為和合本 (CUV)，經 ai-eden.com 或 cnbible.com 核對；English 統一採 ESV。本篇所引經文均直接取自各章「經文」小節已核對之文本，未另行引入未經核實之新經文。
-
----
-
-### 全書精義一句話
-
-彼得後書全書只做一件事：一位知道自己「脫離這帳棚的時候快到了」（1:14）的使徒，用生命最後的三章，把最要緊的話留給後人——**你所信的，站得住嗎？（一章：真知識的根基）你能分辨裏面長出來的蟲嗎？（二章：假教師的警告）你等候的方式，對嗎？（三章：主的日子）**三個問題，一條線索貫穿：真知識若不能分辨真假、若不能塑造聖潔的等候，就還不是彼得所說的「真知識」。
-
----
-
-### 卷首：定位與鑰匙
-
-#### 一句話貫穿首尾——「認識」從頭到尾
-
-彼得後書自己已經把鑰匙放在讀者手裏。1:2-3彼得一開篇就說「願恩惠、平安因你們認識神和我們主耶穌多多地加給你們」「皆因我們認識那用自己榮耀和美德召我們的主」；3:18全信收尾的最後一句囑咐，是「你們卻要在我們主──救主耶穌基督的恩典和知識上有長進」。這不是保羅式反覆論證後才收合的長繩，是彼得用一封短短三章的信，刻意把同一個詞——「認識」（*epignōsis*）——綁在信的頭尾。中間第二章拆穿假教師偽裝的「知識」，第三章分辨真假末世論的準繩，全部只回到這一個詞：**你所信的，是不是真的「認識」？**
-
-#### 第三章的四次「親愛的弟兄啊」——一封遺言裏的四個轉折
-
-第三章的結構本身就是一份講稿的痕跡：「親愛的弟兄啊」在3:1、3:8、3:14、3:17四次重複出現，每一次都標記著一個新的轉折——3:1轉入寫信的目的（提醒），3:8轉入神的時間觀（寬容不是耽延），3:14轉入該有的生活（殷勤、聖潔），3:17轉入最後的囑咐（防備、長進）。**一位知道自己時候不多的人，說話從不拐彎抹角；他用最直接的稱呼，一次又一次把讀者的注意力拉回來——這正是遺言文學共同的語氣。**
-
-#### 目的句——全書首尾扣住的那個詞（彼後 3:18）
-
-> 「你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。願榮耀歸給他，從今直到永遠！阿們。」（和合本）
-
-#### 鑰字——數關鍵詞，找主題
-
-| 鑰字 | 出現位置（已核實經文） | 領受 |
-|------|----------------------|------|
-| `{\greekfont ἐπίγνωσις}`{=latex}（真知識、確實的認識） | 1:2, 3, 8；2:20；3:18 | 全書的合頁針——從「認識神和我們主耶穌」開卷，到「知識上有長進」收卷；第2章正是假知識企圖取代真知識的戰場 |
-| `{\greekfont ὑπόμνησις}`{=latex}／提醒 | 1:12, 13, 15；3:1, 2 | 彼得不寫新道理，只寫「提醒」——遺言文學共同的語氣：時候不多的人，不會浪費字句在新奇的教訓上 |
-| `{\greekfont ἀσέβεια}`{=latex}／不敬虔 | 2:5（洪水前的世代）；2:6（所多瑪、蛾摩拉）；3:7（將受審判的今世） | 一條從洪水到烈火的審判線，把第2章的歷史例證與第3章的末日預告縫在一起 |
-| `{\greekfont ἐμπαῖκται}`{=latex}／好譏誚的人 | 3:3 | 第2章的假教師，第3章換了一張臉——譏誚背後似是而非的道理，是道德敗壞用來自我辯護的最後一道防線 |
-| `{\greekfont σκήνωμα}`{=latex}／帳棚（必朽的身體） | 1:13, 14 | 彼得知道自己「脫離這帳棚的時候快到了」——全書寫作處境的核心：一封在倒數計時裏寫成的信 |
-
-#### 全書結構一覽
-
-| 部分 | 章節 | 主題 | 一句話定位 |
-|------|------|------|-----------|
-| 第一部 | 1:1-21 | 真知識的根基 | 你所信的，站得住 |
-| 第二部 | 2:1-22 | 假教師的警告 | 裏面長出來的蟲，比外面的火更難防 |
-| 第三部 | 3:1-18 | 主的日子 | 神的沉默不是缺席，是寬容 |
-
----
-
-### 誠實的起手式（出處說明）
-
-本篇所依據之老弟兄原始查經筆記經查證，並無任何一則以彼得後書為主題的記載——這一點在三章逐章研讀中已如實揭示（見各章「老弟兄查經洞見」出處說明）。這篇貫通全書的〈全書精義〉延續同一個誠實原則：文中「老弟兄」的框架與提問方式——救恩三階段（稱義／成聖／得榮）、六層次讀經法（念·找·問·連·住·行）、提問式帶領、追蹤一個觀念貫通全本聖經、每次查經末了都問「你看見耶穌了嗎？」——都是老弟兄在其他書卷查經中真實留下的教導方法論，忠實應用在彼得後書的文本上，**不是**逐字引用他對這卷書本身的歷史記錄。這是一次方法論的應用，不是一份逐節查經筆記的複現，讀者理當清楚知道這個分別。
-
-**用六層次讀完整卷書**：老弟兄一貫的讀經法，用來讀一整卷短信同樣合用——**念**：把三章一口氣讀完，感受一封遺言的節奏，不要在任何一節逗留太久。**找**：三章各自反覆出現的圖畫是甚麼（美德的階梯、動物與泉源、烈火與新天新地）？**問**：這三幅圖畫，最終回答的是不是同一個問題——你所信的，站得住嗎？**連**：把「認識」這條線索從1:2連到3:18，中間第2章缺了它會發生甚麼事？**住**：如果1:3「神的神能已將一切關乎生命和虔敬的事賜給我們」真的住在你裏面，你今天面對試探與等候的心態會有甚麼不同？**行**：這一週，你要為「認識」祂而不是為「知道更多」多做的那件事，是甚麼？
-
----
-
-### 第一部：真知識的根基（1:1-21）
-
-#### 精義
-
-彼得從第一節就把兩件事釘死：他是誰（僕人和使徒），耶穌是誰（「我們的神和救主」——1:1原文一個定冠詞同時管轄兩個名詞，語法上把神與救主焊接成同一位格）。整章接下來的美德階梯（1:5-7）、確據（1:10）、登山變像的見證（1:16-18）、先知預言的默示論（1:19-21），全部只回答一個問題：**你所信的，站得住嗎？**——不是靠感覺，不是靠經歷本身，而是靠一位真實可查證的主，和一段真實被聖靈感動、可反覆查驗的話語。這是一位知道自己「脫離這帳棚的時候快到了」（1:14）的人，最不肯浪費的一段話。
-
-#### 深度探索
-
-1. **恩典先於責任，這條次序全書只講一次，卻管住了整本書**——1:3「神的神能已將一切……賜給我們」在前，1:5「你們要分外地殷勤」在後。這不只是第一章的邏輯，是整卷書的邏輯：第二章拆穿假教師，不是要讀者靠自己更努力去防備，而是要讀者回到已經領受的「真知識」；第三章呼籲聖潔敬虔（3:11），根據仍然是已經賜下的應許（3:13），不是對審判的恐懼。**彼得後書沒有一句命令句，是走在恩典前面的。**
-
-2. **登山變像不是彼得最有力的武器，先知的話才是**——1:16-19的次序值得留意：彼得先訴諸他一生最壯麗的親身經歷（「親眼見過他的威榮」），卻立刻說「我們並有先知更確的預言」（1:19）。連使徒本人最不平凡的異象，也不是信仰最終的根基；已然寫定、可反覆查驗的話語才是。**這條原則貫穿全書三章：第二章分辨真假教師的準繩，不是誰的經歷更動人，是誰的話合乎已經確立的真道；第三章分辨真假末世論的準繩，也不是誰的推測更合理，是「聖先知預先所說的話」（3:2）。**一章立下的原則，二三章原樣沿用。
-
-3. **這一章埋下的伏筆，二三章逐一引爆**——1:16「乖巧捏造的虛言」與2:3「捏造的言語」用同一組詞根；1:9「眼瞎，只看見近處的」（近視，不是全盲）預告了3:5譏誚者「故意忘記」歷史的盲目；1:20「沒有可隨私意解說」預告了3:16「無學問、不堅固的人強解」聖經。**彼得不是寫完一章換一個話題，他在第一章就已經把全書的骨架埋好了。**
-
-4. **1:3-11本身就是一幅救恩的縮影**——1:3-4「神的性情有分」談的是已經完成、一次性的地位（近乎稱義）；1:5-11「分外地殷勤」談的是持續一生的操練（成聖）；1:11「豐豐富富地得以進入……永遠的國」談的是末後的盼望（得榮）。**老弟兄慣用的救恩三階段框架，第一章自己就先示範了一次——這條線索會在全書的結構上再放大一次（見下文「跨書貫通」）。**
-
-#### 帶著走的問題
-
-你所信的根基，是「親眼見過」的話語，還是別人隨口告訴你的故事？如果今天有人問你信仰的憑據，你會先講你的經歷，還是先講那已經寫定的話？
-
----
-
-### 第二部：假教師的警告（2:1-22）
-
-#### 精義
-
-整章讀起來像是全書「最不講恩典」的一章——沒有一句直接的安慰，通篇是舊約審判史、動物比喻、道德控訴。但正因如此，這一章才是第一章「真知識」最嚴厲的考卷：**知識若不能分辨真假，知識就還沒有真正發揮它的作用。**彼得選擇的方法，不是抽象辯論異端的邏輯漏洞，而是把三組舊約歷史（犯罪的天使、洪水前的世代、所多瑪蛾摩拉）並排擺出來，讓歷史自己說話。全章的鉸鏈句（2:9）把審判與搭救縫在一起：**神從不曾在審判不敬虔人的同時，忘記祂那一小群敬虔的百姓。**
-
-#### 深度探索
-
-1. **假教師不是門外的敵人，是「正與你們一同坐席」的同席者（2:13）**——彼得前書處理外面燒來的火（苦難、逼迫），彼得後書處理裏面長出來的蟲（教義的腐蝕）；這不是兩種各自獨立的危機，是同一個群體在不同時刻要學會分辨的兩種完全不同的仗。前書教人如何在火裏站立，後書教人如何在蟲蛀之前發現它。
-
-2. **三組「審判／搭救」的例證，不是嚇唬人的修辭，是神一貫作為的歷史證據**——天使全數被囚、洪水前的世代全部滅頂、所多瑪蛾摩拉全城焚毀，唯獨「傳義道的」挪亞與「常為惡人淫行憂傷」的羅得被分別出來。**這條線一路連到第三章：3:6-7再次提起洪水，作為未來烈火審判最有力的歷史證據——第二章的「過去」，正是第三章「將來」的鑰匙。**彼得不是分兩次隨機引用洪水，是刻意把同一段歷史，安放在全書結構的兩個關鍵接口上。
-
-3. **巴蘭與2:20-22的狗豬，是同一個問題的兩種畫法：認識真理，卻仍然選擇背棄**——巴蘭認識神的話語，卻仍然貪愛不義的工價（2:15-16；參2:21「他們曉得義路，竟背棄了傳給他們的聖命」）；2:20-22描述的人「因認識主救主耶穌基督，得以脫離世上的汙穢，後來又在其中被纏住」。彼得沒有替讀者解決這段經文的解經難題（這是曾經真信、還是從未真信），他要的效果，正是逼每一個讀者回頭省察自己與基督的關係——**這正是第一章1:10「使你們所蒙的恩召和揀選堅定不移」最尖銳的反面應用：確據不是一次宣稱就終身有效的護身符，是一生持守的生命樣式。**
-
-4. **「連買他們的主他們也不承認」（2:1）——全章唯一一次明說的福音**——這句控訴裏藏著全章唯一一次正面的救贖宣告：他們之所以能被稱為「祂所買的」，是因為祂已經用重價買了他們。**整章對假教師最嚴厲的審判語言，都是繞著十字架轉的——連最黑暗的一章，基督也沒有缺席，只是祂在這裏是那位被否認、卻仍然真實買贖了人的主。**
-
-#### 帶著走的問題
-
-巴蘭認識神的話，卻仍然選擇貪愛不義的工價——你生命裏，有沒有一件事，是你「知道」卻仍然選擇？如果今天要誠實回答，你會怎樣描述自己與基督的關係？
-
----
-
-### 第三部：主的日子（3:1-18）
-
-#### 精義
-
-第三章把讀者的目光，從第二章「裏面的蟲」，轉向「外面終極的答案」：主必再來，審判必要臨到，新天新地必要成就。譏誚者的論證（「萬物……仍是一樣」，3:4）表面是理性的觀察，實質是把神的緘默當作神的缺席——彼得的回應不是訴諸情感，是訴諸歷史（洪水，3:5-7）與神自己的時間觀（詩90:4，3:8）。**全章的樞紐句（3:9）給出了最終的答案：神看似的遲延，不是耽延，是寬容——祂多留一天，就是多給一個人悔改的機會。**這是全書從真知識（一章）、假教師的警告（二章），走到末了唯一合理的落腳點：因為知道祂要來，所以現在要活得不一樣（3:11）。
-
-#### 深度探索
-
-1. **3:18不是隨手的結語，是回到卷首已經立下的鑰匙**——如前文「卷首：定位與鑰匙」所述，「認識」一詞把全書首尾扣住；3:18把這個詞從單純的「知道」（1:5-7美德階梯裏的*gnōsis*）升級為「在恩典和知識上有長進」——**知識不是一次到位的資訊，是一生持續生長的關係，這正是全書從第一章的美德階梯、到第二章的警告、走到第三章末了唯一合理的結論：長進，不是停在原地確認自己已經懂了。**
-
-2. **一條從創造、洪水、到烈火、到新天新地的直線，是全書真正的時間軸**——3:5預設創世記1章「神說……就有了」的創造敘事，3:6引用創世記6-9章的洪水審判，3:7指向將臨的烈火審判，3:13引用以賽亞書65:17「我造新天新地」。**這條線不只是第三章自己的論證，它同時回答了第二章留下的問題：洪水前的世代全部滅頂、唯獨挪亞一家蒙保守（2:5）——這不是一次孤立的古代災難，是神一貫審判與搭救模式最早的示範，第三章不過是把同一個模式，投射到未來的烈火與新天新地。**
-
-3. **保羅的信被稱為「經書」（3:15-16），是彼得留給教會最後、也最謙卑的一句話**——一位快要殉道的使徒，在他生命最後的文字裏，把「我們所親愛的兄弟保羅」的著作，與舊約正典並列，同時誠實承認保羅的信「有些難明白的」。**這不是弱點的自白，是遺言文學共有的姿態：真正明白自己時候不多的人，不急著建立自己的權威，只急著把讀者引向比自己更可靠的根基。**彼得寫最後一封信，把讀者引向保羅、引向先知、引向「主救主的命令」（3:2）——沒有一句話，是要讀者記住彼得自己。
-
-4. **全書最後一句話，是頌榮，不是警告**——2:20-22與3:10-12是全書用詞最嚴厲的兩段，但彼得沒有讓警告成為最後的聲音。3:18b「願榮耀歸給他，從今直到永遠！阿們」——這是新約基督論最不張揚、卻最沉重的證據之一：一位使徒臨終前，把永遠的榮耀歸給耶穌基督，不是辯論的結論，是敬拜的自然流露。**教義若不長成敬拜，教義就還沒有走完它該走的路。**
-
-#### 帶著走的問題
-
-如果你確實知道主隨時可能再來，你今天會不會做一件不一樣的事？神多留的每一天，會不會正是為了你認識的某一個人？
-
----
-
-### 跨書貫通
-
-#### 一、與彼得前書——同一雙曾經發抖、如今堅定的手
-
-彼得前書防外面的火（4:12「火煉的試驗」），彼得後書防裏面的蟲（2:1「假師傅在你們中間」）——兩封信合起來，是同一位曾經三次不認主的漁夫，如今用生命最後的力氣寫成的完整牧養遺囑：**前書護羊群的命，後書護羊群的道。**兩卷書各自的鑰字也照出這個分工：彼得前書的鑰字是「盼望」（1:3「活潑的盼望」），彼得後書的鑰字是「知識」（3:18）——**盼望叫人在苦難中撐得住，知識叫人在迷惑中認得清；一個曾經連一句話都保不住自己信心的人，如今要教會在他去世以後，靠著已經寫定的話語站立得穩（1:15）——這條弧線，本身就是恩典最有力的見證。**
-
-#### 二、與猶大書——同一場警告，各自站在時態的兩端
-
-彼得後書2章預告「將來……必有假師傅」（2:1，多用未來式），猶大書描述同一批人「偷著進來」（猶4，既成事實的語氣）——無論文學關係的方向如何（本系列不強行判定），兩卷書合起來，構成新約裏對「教會內部假教師」刻畫得最生動的一組文字。**這提醒讀者：彼得所警告的，從來不是一個遙遠的假設——教會歷史上，這條「裏面長出來的蟲」，從未真正停止過。**
-
-#### 三、與遺言文類——摩西、約書亞、耶穌、保羅、彼得，同一種不肯浪費字句的迫切
-
-彼得後書屬於聖經一個古老的文類：一位知道自己時候不多的僕人，把畢生最要緊的話留給後人（申命記、書23-24、約13-17、徒20:17-38、提後）。**這條線索的重量，落在彼得後書自己身上格外清楚**：三章經文，幾乎每一句都在用力——知識要真（一章）、假教師要防（二章）、主的日子要等（三章）。約翰福音21章復活的主對彼得說：「但年老的時候，你要伸出手來，別人要把你束上，帶你到不願意去的地方」（21:18）——彼得後書1:14正是那句預言三十多年後的回聲。**一個曾經被主挽回三次「你愛我比這些更深嗎」的人，用他生命最後的三章，回答了同一個問題：愛，就是把最要緊的真理，留給你所愛的人。**
-
-#### 四、與提摩太後書——同一個時代，兩位使徒各自寫下的遺書
-
-彼得寫「我脫離這帳棚的時候快到了」（1:14），保羅在羅馬獄中寫「我現在被澆奠……離世的時候到了」（提後4:6）——同一個世代、同一場尼祿的逼迫下，兩位使徒各自用一個屬於自己一生的意象，描述同一件事：**彼得是漁夫、是曾經住過帳棚的旅人，他用「帳棚」；保羅是敬虔猶太人、深諳獻祭禮儀，他用「澆奠」——兩個意象都指向同一個終點，卻各自帶著寫信之人一生的印記。**這提醒讀者：聖經的默示（彼後1:21）從不抹去作者的個性，只是透過各自不同的一生，說出同一句真話：這世上的日子快到了，該說的話，要趁著還有氣息說完。
-
-#### 五、稱義／成聖／得榮——同一個框架，套在全書三章上
-
-老弟兄慣用的救恩三階段框架，不只適用於單一段落（如第一章1:3-11自身已經示範的地位／操練／盼望結構），也可以套在全書三章的大結構上：第一章「真知識的根基」（1:3-4「神的性情有分」）近乎稱義——已經賜下、一次性的地位；第二章「假教師的警告」處理的正是成聖路上最危險的功課——認識真理之後，是否仍然選擇背棄（2:20-22）；第三章「主的日子」展望的是得榮的完成——「新天新地，有義居在其中」（3:13）。**三章合起來，是稱義、成聖、得榮這條線，被壓縮進一封三章的遺言裏——彼得沒有像保羅寫十六章鋪陳這個框架，卻用最短的篇幅，走完了同一條救恩的路。**
-
----
-
-### 全書的句號：你看見耶穌了嗎？
-
-彼得後書走了一條很短、卻走到底的路：從「我們的神和救主耶穌基督」（1:1）開卷，經過「連買他們的主他們也不承認」（2:1）的沉痛控訴，走到「願榮耀歸給他，從今直到永遠」（3:18）的頌榮收尾。**三章讀下來，每一次論證的終點，都是同一位**——1章那位在聖山上「從極大榮光之中」向三個門徒顯出真貌的主；2章那位被否認、卻仍然真實用重價買贖了人的主；3章那位「看一日如千年」、以恆久忍耐等候人悔改，終必按著自己的應許使「主的日子要像賊來到一樣」臨到的主。
-
-你若讀完彼得後書三章，卻只記得一套嚴謹的辨異端手冊，這卷書就等於白讀了；你若讀完三章，卻更清楚看見那位在山上威榮顯現、如今仍在恆久忍耐、終必再來的基督，並且更願意像彼得一樣，把生命最後的力氣用在「認識」祂而非別的甚麼上——這卷書才真正完成了它的使命。
-
-一個曾經三次不認主的漁夫，用他生命最後的三章，寫下了一封最短、卻最不肯浪費一個字的信。他沒有留給教會一個更精彩的異象，他留給教會一盞更確的燈，一句更重的囑咐：**「你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。」**（3:18）
-
-這帳棚很快就要卸下了——但這句話，要一直照到天發亮。
 
 
 \newpage
@@ -842,15 +626,19 @@ copyright: |
 
 > \textsuperscript{19}{}**我們並有先知更確的預言，如同燈照在暗處。你們在這預言上留意，直等到天發亮、晨星在你們心裏出現的時候，才是好的。**\textsuperscript{20}{}**第一要緊的，該知道經上所有的預言沒有可隨私意解說的。**\textsuperscript{21}{}**因為預言從來沒有出於人意的，乃是人被聖靈感動，說出神的話來。**
 
-### English — ESV
+### English — NASB (New American Standard Bible)
 
-> **1:3-4** His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence, by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.
+> \textsuperscript{1}{}Simon Peter, a bond-servant and apostle of Jesus Christ, To those who have received a faith of the same kind as ours, by the righteousness of our God and Savior, Jesus Christ: \textsuperscript{2}{}Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,
 
-> **1:5-7** For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness, and godliness with brotherly affection, and brotherly affection with love.
+> \textsuperscript{3}{}**for His divine power has granted to us everything pertaining to life and godliness, through the true knowledge of Him who called us by His own glory and excellence.** \textsuperscript{4}{}**Through these He has granted to us His precious and magnificent promises, so that by them you may become partakers of the divine nature, having escaped the corruption that is in the world on account of lust.**
 
-> **1:16-18** For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, "This is my beloved Son, with whom I am well pleased," we ourselves heard this very voice borne from heaven, for we were with him on the holy mountain.
+> \textsuperscript{5}{}**Now for this very reason also, applying all diligence, in your faith supply moral excellence, and in your moral excellence, knowledge,** \textsuperscript{6}{}**and in your knowledge, self-control, and in your self-control, perseverance, and in your perseverance, godliness,** \textsuperscript{7}{}**and in your godliness, brotherly kindness, and in your brotherly kindness, love.**
 
-> **1:19-21** And we have the prophetic word more fully confirmed, to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts, knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.
+> \textsuperscript{16}{}**For we did not follow cleverly devised tales when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty.** \textsuperscript{17}{}**For when He received honor and glory from God the Father, such a declaration as this was made to Him by the Majestic Glory: “This is My beloved Son with whom I am well pleased”—** \textsuperscript{18}{}**and we ourselves heard this declaration made from heaven when we were with Him on the holy mountain.**
+
+> \textsuperscript{19}{}**And so we have the prophetic word made more sure, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts.** \textsuperscript{20}{}**But know this first of all, that no prophecy of Scripture becomes a matter of someone's own interpretation,** \textsuperscript{21}{}**for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God.**
+
+> **英譯體例**：本章英譯（NASB 2020）只列正在解說的兩段（1:1-7、1:16-21），不逐節全錄——英譯在本書是為對照解說而設，不是另備一部英文聖經。全書英譯引用範圍與版權條件見卷末〈附錄：參考資料〉「經文版本」一節。
 
 ---
 
@@ -901,7 +689,7 @@ copyright: |
 | `{\greekfont φιλαδελφία}`{=latex} | philadelphia | 愛弟兄的心 | 1:7；原指血緣手足之情，此處轉指信仰群體內部的親情 |
 | `{\greekfont ἀγάπη}`{=latex} | agapē | 愛（眾人的心） | 1:7；美德階梯的頂點，自我捨己、不計回報的愛，涵蓋弟兄之外的眾人 |
 | `{\greekfont ἐπόπται}`{=latex} | epoptai | 親眼見過的人、目擊者 | 1:16「親眼見過他的威榮」；此字在希臘密教（如厄琉息斯秘儀）中專指已被引入、得見最高奧秘的人 |
-| `{\greekfont ἴδιος ἐπιλύσεως}`{=latex} | idias epilyseōs | 私意解說 | 1:20「沒有可隨私意解說的」；*epilysis*原意是「解開、釋放」，此處指解經 |
+| `{\greekfont ἰδίας ἐπιλύσεως}`{=latex} | idias epilyseōs | 私意解說 | 1:20「沒有可隨私意解說的」；*epilysis*原意是「解開、釋放」，此處指解經 |
 
 ### *epoptai*：彼得奪回了一個異教的詞
 
@@ -979,14 +767,14 @@ copyright: |
 > 我以你的法度為永遠的產業，因這是我心中所喜愛的。
 > 我的心專向你的律例，永遠遵行，一直到底。
 
-> Your word is a lamp to my feet and a light to my path.
-> I have sworn an oath and confirmed it, to keep your righteous rules.
-> I am severely afflicted; give me life, O Lord, according to your word!
-> Accept my freewill offerings of praise, O Lord, and teach me your rules.
-> I hold my life in my hand continually, but I do not forget your law.
-> The wicked have laid a snare for me, but I do not stray from your precepts.
-> Your testimonies are my heritage forever, for they are the joy of my heart.
-> I incline my heart to perform your statutes forever, to the end.
+> Your word is a lamp to my feet And a light to my path.
+> I have sworn and I will confirm it, That I will keep Your righteous judgments.
+> I am exceedingly afflicted; Revive me, LORD, according to Your word.
+> Be pleased to accept the voluntary offerings of my mouth, LORD, And teach me Your judgments.
+> My life is continually in my hand, Yet I do not forget Your Law.
+> The wicked have set a trap for me, Yet I have not wandered from Your precepts.
+> I have inherited Your testimonies forever, For they are the joy of my heart.
+> I have inclined my heart to perform Your statutes Forever, *even* to the end.
 
 「你的話是我腳前的燈」正是彼得後書1:19「先知更確的預言，如同燈照在暗處」最古老的迴響。詩人和使徒說的是同一件事：在一個危機四伏、真假莫辨的世界裏（詩119:107, 110；彼後1:16的假話威脅），能引路的不是感覺或經歷，而是那盞已經點亮、始終如一的話語之燈。
 
@@ -999,12 +787,12 @@ copyright: |
 > 諸山見耶和華的面，就是全地之主的面，便消化如蠟。
 > 諸天表明他的公義；萬民看見他的榮耀。
 
-> The Lord reigns, let the earth rejoice; let the many coastlands be glad!
-> Clouds and thick darkness are all around him; righteousness and justice are the foundation of his throne.
-> Fire goes before him and burns up his adversaries all around.
-> His lightnings light up the world; the earth sees and trembles.
-> The mountains melt like wax before the Lord, before the Lord of all the earth.
-> The heavens proclaim his righteousness, and all the peoples see his glory.
+> The LORD reigns, may the earth rejoice; May the many islands be joyful.
+> Clouds and thick darkness surround Him; Righteousness and justice are the foundation of His throne.
+> Fire goes before Him And burns up His enemies all around.
+> His lightning lit up the world; The earth saw it and trembled.
+> The mountains melted like wax at the presence of the LORD, At the presence of the Lord of the whole earth.
+> The heavens declare His righteousness, And all the peoples have seen His glory.
 
 這篇詩描寫的雲彩、烈火、震動、榮光，正是舊約神顯現（*theophany*）一貫的意象——與登山變像時「有聲音從雲彩裏出來」（太17:5）、彼得所見的「威榮」（彼後1:16-17）屬於同一條屬靈脈絡。詩篇97篇對君王身分的描繪，在登山變像裏得著新約的成全：那位「作王」、「萬民看見他的榮耀」的耶和華，正是那位在聖山上向三個門徒顯出自己真實身分的耶穌基督。
 
@@ -1066,19 +854,6 @@ copyright: |
 
 ---
 
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*How Firm a Foundation*（如前「配詩」所引）
-
-> Fear not, I am with thee, O be not dismayed,
-> For I am thy God and will still give thee aid.
-
-**詩篇**：詩篇 119:105
-
-> 你的話是我腳前的燈，是我路上的光。
-
----
-
 ## 老弟兄查經 · 深讀 (Going Deeper)
 
 > 出處說明：本節依老弟兄查經方法論撰寫（無對應之老弟兄彼得後書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
@@ -1089,7 +864,7 @@ copyright: |
 
 這條線索也連到提摩太後書3:16「聖經都是神所默示的，於教訓、督責、使人歸正、教導人學義都是有益的」——與彼得後書1:20-21「預言……乃是人被聖靈感動，說出神的話來」，是新約論聖經來源僅有的兩處最直接論述，一處出於保羅，一處出於彼得，兩位使徒在此完全一致。再往下追，這條「話語比經歷更確」的原則，正是宗教改革「唯獨聖經」(*Sola Scriptura*) 的聖經根據之一：不是異象、不是傳統、不是經歷，乃是已然賜下、可反覆查驗的話語，才是信仰最終的根基。
 
-老弟兄讀提摩太後書3:14-17這段時，曾把阿摩司書8:11-12的飢荒對照著讀：「主耶和華說：日子將到，我必命饑荒降在地上……人饑餓非因無餅，乾渴非因無水，乃因不聽耶和華的話。」他說，末世最深的危機從來不是外在物資的缺乏，而是**聽不見神話語的飢荒**——彼得後書1:19「先知更確的預言，如同燈照在暗處」，正是神給這場飢荒唯一的解方（黃長老 2025/3/27 查經筆記，引阿摩司書8:11-12；見本系列《提摩太後書》研讀〈末後的日子〉一章）。
+老弟兄讀提摩太後書3:14-17這段時，曾把阿摩司書8:11-12的飢荒對照著讀：「主耶和華說：日子將到，我必命饑荒降在地上……人饑餓非因無餅，乾渴非因無水，乃因不聽耶和華的話。」他說，末世最深的危機從來不是外在物資的缺乏，而是**聽不見神話語的飢荒**——彼得後書1:19「先知更確的預言，如同燈照在暗處」，正是神給這場飢荒唯一的解方（老弟兄 2025/3/27 查經筆記，引阿摩司書8:11-12；見本系列《提摩太後書》研讀〈末後的日子〉一章）。
 
 1:21「人被聖靈感動」原文*pheromenoi*，是「被托著、被帶著走」——同一個動詞，用來描寫保羅那艘在暴風中被風浪吹著走、無法自己掌舵的船（徒27:15「船被風抓住，敵不住風，我們就任風颳去」；27:17「就任船飄去」）。先知不是自己掌舵，是被聖靈的風吹著走，卻仍用自己的筆、自己的聲音寫下來——彼得的希臘文和保羅的希臘文明顯不同，人的個性沒有被抹殺，推動內容真確性的，卻始終是聖靈，不是人。
 
@@ -1171,7 +946,7 @@ copyright: |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無彼得後書逐節查經筆記原始記錄，見「老弟兄查經洞見」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan (*The Living Messages of the Books of the Bible*)*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無彼得後書逐節查經筆記原始記錄，見「老弟兄查經洞見」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan (The Living Messages of the Books of the Bible)*
 
 
 \newpage
@@ -1193,7 +968,7 @@ copyright: |
 
 這一整章讀起來像是彼得書信中最不「講基督」的一章——沒有一句直接稱頌恩典，通篇都是審判的歷史、假教師的醜態、狗與豬的比喻。但正因如此，基督在這裏出現的方式格外重要：祂不是被歌頌的對象，而是被否認的對象。2:1說假教師「連買他們的主（*despotēn*，主宰、擁有者）他們也不承認」——這句話本身就是一句基督論的宣告：他們之所以能被稱為「祂所買的」，是因為祂已經用重價買了他們（參林前6:20「你們是重價買來的」）。否認祂，不是否認一個抽象教義，而是否認一個已經發生、已經付上代價的救贖事實。
 
-2:20再次出現同樣的重心：「倘若他們因認識主救主耶穌基督，得以脫離世上的汙穢，後來又在其中被纏住、制伏……」——這裏用的是本書信一貫強調的「認識」(*epignōsis*，第1章的關鍵詞) ，不是空泛的宗教經歷。整章對假教師最嚴厲的控訴，歸根結底只有一個中心：他們的問題不是道德敗壞本身，而是他們與那位「用自己的血買贖」他們之主的關係破裂——無論是從未真正認識祂而假冒相識，或是認識之後選擇背棄。基督是這一整章審判敘事裏，那位隱而不顯、卻從未離場的買贖者。
+2:20再次出現同樣的重心：「倘若他們因認識主救主耶穌基督，得以脫離世上的污穢，後來又在其中被纏住、制伏……」——這裏用的是本書信一貫強調的「認識」(*epignōsis*，第1章的關鍵詞) ，不是空泛的宗教經歷。整章對假教師最嚴厲的控訴，歸根結底只有一個中心：他們的問題不是道德敗壞本身，而是他們與那位「用自己的血買贖」他們之主的關係破裂——無論是從未真正認識祂而假冒相識，或是認識之後選擇背棄。基督是這一整章審判敘事裏，那位隱而不顯、卻從未離場的買贖者。
 
 ---
 
@@ -1228,21 +1003,23 @@ copyright: |
 
 > \textsuperscript{1}{}從前在百姓中有假先知起來，將來在你們中間也必有假師傅，私自引進陷害人的異端，連買他們的主他們也不承認，自取速速的滅亡。\textsuperscript{2}{}將有許多人隨從他們邪淫的行為，便叫真道因他們的緣故被毀謗。\textsuperscript{3}{}他們因有貪心，要用捏造的言語在你們身上取利。他們的刑罰，自古以來並不遲延，他們的滅亡也必速速來到。
 
-> \textsuperscript{4}{}就是天使犯了罪，神也沒有寬容，曾把他們丟在地獄，交在黑暗坑中，等候審判。\textsuperscript{5}{}神也沒有寬容上古的世代，曾叫洪水臨到那不敬虔的世代，卻**保護了傳義道的挪亞一家八口**。\textsuperscript{6}{}又判定所多瑪、蛾摩拉，將二城傾覆，焚燒成灰，作為後世不敬虔人的鑒戒。\textsuperscript{7}{}只搭救了那常為惡人淫行憂傷的義人羅得。\textsuperscript{8}{}因為那義人住在他們中間，看見聽見他們不法的事，他的義心就天天傷痛。\textsuperscript{9}{}**主知道搭救敬虔的人脫離試探，把不義的人留在刑罰之下，等候審判的日子。**
+> \textsuperscript{4}{}就是天使犯了罪，神也沒有寬容，曾把他們丟在地獄，交在黑暗坑中，等候審判。\textsuperscript{5}{}神也沒有寬容上古的世代，曾叫洪水臨到那不敬虔的世代，卻**保護了傳義道的挪亞一家八口**。\textsuperscript{6}{}又判定所多瑪、蛾摩拉，將二城傾覆，焚燒成灰，作為後世不敬虔人的鑑戒。\textsuperscript{7}{}只搭救了那常為惡人淫行憂傷的義人羅得。\textsuperscript{8}{}因為那義人住在他們中間，看見聽見他們不法的事，他的義心就天天傷痛。\textsuperscript{9}{}**主知道搭救敬虔的人脫離試探，把不義的人留在刑罰之下，等候審判的日子。**
 
-> \textsuperscript{10}{}那些隨肉身縱汙穢的情慾、輕慢主治之人的，更是如此。他們膽大任性，毀謗在尊位的也不知懼怕。\textsuperscript{11}{}就是天使，雖然力量權能更大，還不用毀謗的話在主面前告他們。\textsuperscript{12}{}但這些人好像沒有靈性，生來就是畜類，以備捉拿宰殺的。他們毀謗所不曉得的事，正在敗壞人的時候，自己必遭遇敗壞。\textsuperscript{13}{}行得不義，就得了不義的工價。這些人喜愛白晝宴樂，他們已被玷汙，又有瑕疵，正與你們一同坐席，就以自己的詭詐為快樂。\textsuperscript{14}{}他們滿眼是淫色，止不住犯罪，引誘那心不堅固的人，心中習慣了貪婪，正是被咒詛的種類。\textsuperscript{15}{}他們離棄正路，就走差了，隨從比珥之子巴蘭的路。巴蘭就是那貪愛不義之工價的先知。\textsuperscript{16}{}他卻為自己的過犯受了責備——那不能說話的驢，以人言攔阻先知的狂妄。
+> \textsuperscript{10}{}那些隨肉身縱污穢的情慾、輕慢主治之人的，更是如此。他們膽大任性，毀謗在尊位的也不知懼怕。\textsuperscript{11}{}就是天使，雖然力量權能更大，還不用毀謗的話在主面前告他們。\textsuperscript{12}{}但這些人好像沒有靈性，生來就是畜類，以備捉拿宰殺的。他們毀謗所不曉得的事，正在敗壞人的時候，自己必遭遇敗壞。\textsuperscript{13}{}行的不義，就得了不義的工價。這些人喜愛白晝宴樂，他們已被玷污，又有瑕疵，正與你們一同坐席，就以自己的詭詐為快樂。\textsuperscript{14}{}他們滿眼是淫色，止不住犯罪，引誘那心不堅固的人，心中習慣了貪婪，正是被咒詛的種類。\textsuperscript{15}{}他們離棄正路，就走差了，隨從比珥之子巴蘭的路。巴蘭就是那貪愛不義之工價的先知。\textsuperscript{16}{}他卻為自己的過犯受了責備——那不能說話的驢，以人言攔阻先知的狂妄。
 
-> \textsuperscript{17}{}這些人是無水的井，是狂風催逼的霧氣，有墨黑的幽暗為他們存留。\textsuperscript{18}{}他們說虛妄矜誇的大話，用肉身的情慾和邪淫的事引誘那些剛才脫離妄行的人。\textsuperscript{19}{}他們應許人得以自由，自己卻做敗壞的奴僕。因為人被誰制伏，就是誰的奴僕。\textsuperscript{20}{}**倘若他們因認識主救主耶穌基督，得以脫離世上的汙穢，後來又在其中被纏住、制伏，他們末後的景況就比先前更不好了。**\textsuperscript{21}{}他們曉得義路，竟背棄了傳給他們的聖命，倒不如不曉得為妙。\textsuperscript{22}{}俗語說得真不錯：「狗所吐的，牠轉過來又吃；豬洗淨了，又回到泥裏去滾。」這話在他們身上正合式。
+> \textsuperscript{17}{}這些人是無水的井，是狂風催逼的霧氣，有墨黑的幽暗為他們存留。\textsuperscript{18}{}他們說虛妄矜誇的大話，用肉身的情慾和邪淫的事引誘那些剛才脫離妄行的人。\textsuperscript{19}{}他們應許人得以自由，自己卻作敗壞的奴僕。因為人被誰制伏，就是誰的奴僕。\textsuperscript{20}{}**倘若他們因認識主救主耶穌基督，得以脫離世上的污穢，後來又在其中被纏住、制伏，他們末後的景況就比先前更不好了。**\textsuperscript{21}{}他們曉得義路，竟背棄了傳給他們的聖命，倒不如不曉得為妙。\textsuperscript{22}{}俗語說得真不錯：「狗所吐的，牠轉過來又吃；豬洗淨了，又回到泥裏去滾。」這話在他們身上正合式。
 
-### English — ESV
+### English — NASB (New American Standard Bible)
 
-> \textsuperscript{1}{}But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Master who bought them, bringing upon themselves swift destruction. \textsuperscript{2}{}And many will follow their sensuality, and because of them the way of truth will be blasphemed. \textsuperscript{3}{}And in their greed they will exploit you with false words. Their condemnation from long ago is not idle, and their destruction is not asleep.
+> \textsuperscript{1}{}But false prophets also appeared among the people, just as there will also be false teachers among you, who will secretly introduce destructive heresies, even denying the Master who bought them, bringing swift destruction upon themselves. \textsuperscript{2}{}Many will follow their indecent behavior, and because of them the way of the truth will be maligned; \textsuperscript{3}{}and in their greed they will exploit you with false words; their judgment from long ago is not idle, and their destruction is not asleep.
 
-> \textsuperscript{4}{}For if God did not spare angels when they sinned, but cast them into hell and committed them to chains of gloomy darkness to be kept until the judgment; \textsuperscript{5}{}if he did not spare the ancient world, but **preserved Noah, a herald of righteousness**, with seven others, when he brought a flood upon the world of the ungodly; \textsuperscript{6}{}if by turning the cities of Sodom and Gomorrah to ashes he condemned them to extinction, making them an example of what is going to happen to the ungodly; \textsuperscript{7}{}and if he rescued righteous Lot, greatly distressed by the sensual conduct of the wicked \textsuperscript{8}{}(for as that righteous man lived among them day after day, he was tormenting his righteous soul over their lawless deeds that he saw and heard); \textsuperscript{9}{}**then the Lord knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment.**
+> \textsuperscript{4}{}For if God did not spare angels when they sinned, but cast them into hell and committed them to pits of darkness, held for judgment; \textsuperscript{5}{}and did not spare the ancient world, but **protected Noah, a preacher of righteousness**, with seven others, when He brought a flood upon the world of the ungodly; \textsuperscript{6}{}and if He condemned the cities of Sodom and Gomorrah to destruction by reducing them to ashes, having made them an example of what is coming for the ungodly; \textsuperscript{7}{}and if He rescued righteous Lot, who was oppressed by the perverted conduct of unscrupulous people \textsuperscript{8}{}(for by what he saw and heard that righteous man, while living among them, felt his righteous soul tormented day after day by their lawless deeds), \textsuperscript{9}{}**then the Lord knows how to rescue the godly from a trial, and to keep the unrighteous under punishment for the day of judgment,**
 
-> \textsuperscript{10}{}And especially those who indulge in the lust of defiling passion and despise authority. Bold and willful, they do not tremble as they blaspheme the glorious ones, \textsuperscript{11}{}whereas angels, though greater in might and power, do not pronounce a blasphemous judgment against them before the Lord. \textsuperscript{12}{}But these, like irrational animals, creatures of instinct, born to be caught and destroyed, blaspheming about matters of which they are ignorant, will also be destroyed in their destruction, \textsuperscript{13}{}suffering wrong as the wage for their wrongdoing. They count it pleasure to revel in the daytime. They are blots and blemishes, reveling in their deceptions, while they feast with you. \textsuperscript{14}{}They have eyes full of adultery, insatiable for sin. They entice unsteady souls. They have hearts trained in greed. Accursed children! \textsuperscript{15}{}Forsaking the right way, they have gone astray. They have followed the way of Balaam, the son of Beor, who loved gain from wrongdoing, \textsuperscript{16}{}but was rebuked for his own transgression; a speechless donkey spoke with human voice and restrained the prophet's madness.
+> \textsuperscript{10}{}and especially those who indulge the flesh in its corrupt passion, and despise authority. Reckless, self-centered, they speak abusively of angelic majesties without trembling, \textsuperscript{11}{}whereas angels who are greater in might and power do not bring a demeaning judgment against them before the Lord. \textsuperscript{12}{}But these, like unreasoning animals, born as creatures of instinct to be captured and killed, using abusive speech where they have no knowledge, will in the destruction of those creatures also be destroyed, \textsuperscript{13}{}suffering wrong as the wages of doing wrong. They count it a pleasure to revel in the daytime. They are stains and blemishes, reveling in their deceptions as they feast with you, \textsuperscript{14}{}having eyes full of adultery that never cease from sin, enticing unstable souls, having hearts trained in greed, accursed children; \textsuperscript{15}{}abandoning the right way, they have gone astray, having followed the way of Balaam, the son of Beor, who loved the reward of unrighteousness; \textsuperscript{16}{}but he received a rebuke for his own offense, for a mute donkey, speaking with a human voice, restrained the insanity of the prophet.
 
-> \textsuperscript{17}{}These are waterless springs and mists driven by a storm. For them the gloom of utter darkness has been reserved. \textsuperscript{18}{}For, speaking loud boasts of folly, they entice by sensual passions of the flesh those who are barely escaping from those who live in error. \textsuperscript{19}{}They promise them freedom, but they themselves are slaves of corruption. For whatever overcomes a person, to that he is enslaved. \textsuperscript{20}{}**For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first.** \textsuperscript{21}{}For it would have been better for them never to have known the way of righteousness than after knowing it to turn back from the holy commandment delivered to them. \textsuperscript{22}{}What the true proverb says has happened to them: "The dog returns to its own vomit, and the sow, after washing herself, returns to wallow in the mire."
+> \textsuperscript{17}{}These are springs without water and mists driven by a storm, for whom the black darkness has been reserved. \textsuperscript{18}{}For, while speaking out arrogant words of no value they entice by fleshly desires, by indecent behavior, those who barely escape from the ones who live in error, \textsuperscript{19}{}promising them freedom while they themselves are slaves of corruption; for by what anyone is overcome, by this he is enslaved. \textsuperscript{20}{}**For if, after they have escaped the defilements of the world by the knowledge of the Lord and Savior Jesus Christ, they are again entangled in them and are overcome, the last state has become worse for them than the first.** \textsuperscript{21}{}For it would be better for them not to have known the way of righteousness, than having known it, to turn away from the holy commandment handed on to them. \textsuperscript{22}{}It has happened to them according to the true proverb, “A dog returns to its own vomit,” and, “A sow, after washing, returns to wallowing in the mire.”
+
+> **英譯體例**：本章英譯（NASB 2020）為全章 22 節。英譯在本書是為對照解說而設，不是另備一部英文聖經；第一章只列正在解說的段落。全書英譯引用範圍與版權條件見卷末〈附錄：參考資料〉「經文版本」一節。
 
 ---
 
@@ -1260,7 +1037,7 @@ copyright: |
 |------|------|--------|
 | 假教師／不敬虔者的出現 | 2:1-3 | 4 |
 | 犯罪天使的審判 | 2:4 | 6 |
-| 所多瑪、蛾摩拉為鑒戒 | 2:6 | 7 |
+| 所多瑪、蛾摩拉為鑑戒 | 2:6 | 7 |
 | 藐視主治者、天使不敢毀謗 | 2:10-11 | 8-9 |
 | 巴蘭的路 | 2:15-16 | 11 |
 | 無水的井／無雨的雲，狂風催逼 | 2:17 | 12（沒有雨的雲彩，被風飄蕩） |
@@ -1285,13 +1062,13 @@ copyright: |
 | `{\greekfont ταρταρώσας}`{=latex} | tartarōsas | 「丟在地獄」 | 全新約唯一一次出現的動詞，字面是「打入他耳塔羅斯（Tartarus）」——借用當時希臘世界熟悉的「幽冥深處」概念，指向2:4犯罪天使被囚之處 |
 | `{\greekfont κήρυκα δικαιοσύνης}`{=latex} | kēryka dikaiosynēs | 傳義道的（宣講者） | 2:5稱挪亞為「義道的傳令官」——挪亞不只是「造方舟的人」，更是一位長年不被人理睬、卻仍忠心宣講的先知型人物 |
 | `{\greekfont τεφρώσας}`{=latex} | tephrōsas | 燒成灰 | 2:6全新約僅見一次，字面是「使其化為灰燼」，描寫所多瑪、蛾摩拉徹底焚毀的結局 |
-| `{\greekfont σπίλοι καὶ μῶμοι}`{=latex} | spiloi kai mōmoi | 玷汙、瑕疵（汙點與疵病） | 2:13描寫假教師「正與你們一同坐席」時的樣子——原文常用於祭牲「有瑕疵」不堪獻祭，這裏反諷地用在坐愛宴席的人身上 |
+| `{\greekfont σπίλοι καὶ μῶμοι}`{=latex} | spiloi kai mōmoi | 玷污、瑕疵（污點與疵病） | 2:13描寫假教師「正與你們一同坐席」時的樣子——原文常用於祭牲「有瑕疵」不堪獻祭，這裏反諷地用在坐愛宴席的人身上 |
 | `{\greekfont πηγαὶ ἄνυδροι}`{=latex} | pēgai anydroi | 無水的井（泉源） | 2:17，「泉源」本該湧流活水，「無水」卻是名不副實的諷刺——假教師應許生命的活水，本身卻乾涸 |
 | `{\greekfont ἐπίγνωσις}`{=latex} | epignōsis | 真知識、確實認識 | 2:20再次出現這第1章反覆強調的關鍵詞——「透過認識主救主耶穌基督」，正是本卷書一貫強調「真知識」這一主題在審判語境中的迴響 |
 
 ### 「買他們的主」：一句藏在控訴裏的福音
 
-2:1「連買他們的主他們也不承認」這句話，常常被讀者一晃而過當作單純的控訴，卻藏著全章唯一一次明確的救贖宣告。原文*agorasanta*（買）是市場買賣用語，正是彼得前書1:18-19「知道你們得贖……乃是憑著基督的寶血」所用的同一個意象群。這句話最耐人尋味之處在於：經文並沒有說「這些人從未被贖」，而是說他們「不承認」那位買他們的主——無論這是指他們從未真心信靠、只是外表混跡於蒙贖的群體之中（如3:6猶大式的解讀），或是曾一度承認、如今背棄（如2:20-22所暗示更嚴重的情況），這節經文本身刻意保留了這層未解的張力，沒有替讀者把問題簡化。
+2:1「連買他們的主他們也不承認」這句話，常常被讀者一晃而過當作單純的控訴，卻藏著全章唯一一次明確的救贖宣告。原文*agorasanta*（買）是市場買賣用語，正是彼得前書1:18-19「知道你們得贖……乃是憑著基督的寶血」所用的同一個意象群。這句話最耐人尋味之處在於：經文並沒有說「這些人從未被贖」，而是說他們「不承認」那位買他們的主——無論這是指他們從未真心信靠、只是外表混跡於蒙贖的群體之中（如約6:70-71「你們中間有一個是魔鬼」所指的加略人猶大式的解讀），或是曾一度承認、如今背棄（如2:20-22所暗示更嚴重的情況），這節經文本身刻意保留了這層未解的張力，沒有替讀者把問題簡化。
 
 ---
 
@@ -1319,9 +1096,9 @@ copyright: |
 
 ### 6. 2:20-22：一段必須誠實面對、不能輕易下定論的警告
 
-這是全章解經上最尖銳、也最容易被誤讀或誤用的一段。經文本身的用詞——「認識主救主耶穌基督」「脫離世上的汙穢」「聖命」——聽起來很像是描述曾經真實得救的人。歷代解經在這裏分成幾條路線，本書如實陳列，不代讀者下定論：
+這是全章解經上最尖銳、也最容易被誤讀或誤用的一段。經文本身的用詞——「認識主救主耶穌基督」「脫離世上的污穢」「聖命」——聽起來很像是描述曾經真實得救的人。歷代解經在這裏分成幾條路線，本書如實陳列，不代讀者下定論：
 
-- **主流福音派立場之一（如MacArthur）**：這裏描述的是「認識」卻從未真正「相信」的人——他們在知識層面認識福音的真理、甚至在道德上暫時脫離世界的汙穢（如同2:1的假教師「連買他們的主也不承認」），卻從未真正重生；2:22的狗與豬正是這個立場的關鍵——狗與豬的「本性」從未改變，牠們回到原本的樣子，恰恰證明牠們原本就不是綿羊。
+- **主流福音派立場之一（如MacArthur）**：這裏描述的是「認識」卻從未真正「相信」的人——他們在知識層面認識福音的真理、甚至在道德上暫時脫離世界的污穢（如同2:1的假教師「連買他們的主也不承認」），卻從未真正重生；2:22的狗與豬正是這個立場的關鍵——狗與豬的「本性」從未改變，牠們回到原本的樣子，恰恰證明牠們原本就不是綿羊。
 - **另一種歷史上也有人持守的立場**：這段經文描述的確實是曾經真實跟隨基督、後來徹底背道的人，是新約中警告「離棄真道」段落（如來6:4-6、來10:26-29）的又一個例子，教會應嚴肅看待「持守到底」的呼召，而非僅僅安慰式地讀過。
 
 彼得自己並沒有在經文裏明確解決這個問題——他要的效果，很可能正是讓每一位讀者都認真省察自己與基督的關係，而不是找到一個理論上的安全出口。
@@ -1380,21 +1157,18 @@ copyright: |
 > 因此，當審判的時候，惡人必站立不住；罪人在義人的會中也是如此。
 > 因為耶和華知道義人的道路；惡人的道路卻必滅亡。
 
-> Blessed is the man who walks not in the counsel of the wicked,
-> nor stands in the way of sinners,
-> nor sits in the seat of scoffers;
-> but his delight is in the law of the Lord,
-> and on his law he meditates day and night.
-> He is like a tree planted by streams of water
-> that yields its fruit in its season,
-> and its leaf does not wither.
-> In all that he does, he prospers.
-> The wicked are not so,
-> but are like chaff that the wind drives away.
+> Blessed is the person who does not walk in the counsel of the wicked,
+> Nor stand in the path of sinners, Nor sit in the seat of scoffers!
+> But his delight is in the Law of the LORD,
+> And on His Law he meditates day and night.
+> He will be like a tree planted by streams of water,
+> Which yields its fruit in its season, And its leaf does not wither;
+> And in whatever he does, he prospers.
+> The wicked are not so, But they are like chaff which the wind blows away.
 > Therefore the wicked will not stand in the judgment,
-> nor sinners in the congregation of the righteous;
-> for the Lord knows the way of the righteous,
-> but the way of the wicked will perish.
+> Nor sinners in the assembly of the righteous.
+> For the LORD knows the way of the righteous,
+> But the way of the wicked will perish.
 
 詩篇1篇「惡人……乃像糠秕被風吹散」，與2:17「無水的井」「狂風催逼的霧氣」是同一個圖畫的兩種畫法——外表看似有分量，實際上經不起風一吹。詩篇1:6「耶和華知道義人的道路」，正是彼得後書2:9「主知道搭救敬虔的人」最古老的迴聲——同一位神，從詩篇的時代到彼得的時代，「知道」祂百姓的道路，從未改變。
 
@@ -1419,7 +1193,7 @@ copyright: |
 
 ### 摩根深讀 (G. Campbell Morgan)
 
-**誠實說明（出處）**：摩根沒有留下像他為約翰福音、路加福音所寫那樣逐節、逐章的彼得後書註釋專著；他對彼得書信較完整的討論，見於《歷代聖經信息》(*The Living Messages of the Books of the Bible*) 中論彼得前後書的短章，篇幅遠不及他對四福音的處理。以下依他一貫的解經風格與已知重點，作忠實的主題性歸納，不引用未經查證、加了引號的逐句原文。
+**誠實說明（出處）**：摩根沒有留下像他為約翰福音、路加福音所寫那樣逐節、逐章的彼得後書註釋專著；他對彼得書信較完整的討論，見於《聖經各卷的生命信息》(*The Living Messages of the Books of the Bible*) 中論彼得前後書的短章，篇幅遠不及他對四福音的處理。以下依他一貫的解經風格與已知重點，作忠實的主題性歸納，不引用未經查證、加了引號的逐句原文。
 
 摩根一貫強調彼得書信整體的核心關切是「站立得穩」——彼得前書處理外來的苦難如何叫信徒站立得穩，彼得後書處理內部的錯謬如何叫信徒站立得穩，兩者共同構成他所謂「使徒臨終遺言」的完整關懷。摩根對2章的整體判斷，落在彼得刻意選擇舊約歷史（而非抽象論證）來警告讀者這一點上——對摩根而言，這反映出彼得一貫的解經方法：用神在歷史中已經做過的事，去確立神在末後必要做的事；三組審判與搭救的例證，不是嚇唬人的修辭，而是把讀者的目光從眼前的假教師，轉向那位掌管全部歷史、也必掌管審判日的主。
 
@@ -1430,18 +1204,6 @@ copyright: |
 **用「六層次」讀2:1-22**：老弟兄一貫的讀經法，用在這一章特別合適，因為這段經文的語言極其強烈，容易叫讀者要麼快速跳過、要麼陷入單純的道德義憤——**念**：先把2:1-22一口氣讀完，不要在任何一節逗留。**找**：這一章重複出現的圖畫是甚麼？（動物、水、灰燼、奴僕）**問**：為甚麼彼得選擇舊約歷史例證，而不是直接責備？**連**：巴蘭的例子和你認識的「哪一種」屬靈危險最接近？**住**：2:9「主知道搭救敬虔的人」，如果真的住在你裏面，你今天面對試探的心態會有甚麼不同？**行**：今天有沒有一句「捏造的言語」——不一定是別人的，也可能是我自己講給自己聽的——需要被真理拆穿？
 
 **用「稱義／成聖／得榮」框架看2:20-22的警告**：老弟兄的救恩三階段框架，在這段最容易被誤讀的經文上特別有幫助——它提醒讀者，經文本身沒有明確區分「這是描述一個從未真正稱義的人」還是「這是描述一個已經稱義、卻在成聖路上嚴重跌倒的人」，而是把這個問題留給每一個讀者，回到自己與基督真實的關係裏去省察。老弟兄一貫不急著替人下結論，而是把問題原原本本地交還給讀者：這正是這段經文本身的作法。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Stand Up, Stand Up for Jesus*（如前「配詩」所引）
-
-> Lift high His royal banner, it must not suffer loss.
-
-**詩篇**：詩篇 1:6
-
-> 因為耶和華知道義人的道路；惡人的道路卻必滅亡。
 
 ---
 
@@ -1490,6 +1252,8 @@ copyright: |
 
 **無法迴避的問題**：「如果今天要誠實回答，你會怎樣描述自己與基督的關係：從未真正認識，還是認識了卻正在被纏住？」
 
+> 「狗吐過了，豬也洗過了——牠們都動過，卻沒有一隻換過本性。彼得整章不是在數假教師做過甚麼，是在問：那件事之後，你還是不是原來的你。」
+
 ---
 
 ## 生命應用 (Application)
@@ -1510,7 +1274,7 @@ copyright: |
 > 求祢不要讓我因為不舒服就跳過它，
 > 也不要讓我因為義憤就忘了省察自己。
 > 求祢光照我心裏有沒有捏造的言語、貪愛的工價、
-> 有沒有一處我已經認識了真理，卻仍然被世上的汙穢纏住。
+> 有沒有一處我已經認識了真理，卻仍然被世上的污穢纏住。
 > 求祢的恩典，不只是叫我脫離，更叫我持守到底。
 > 奉主耶穌基督的名禱告，阿們。
 
@@ -1587,27 +1351,29 @@ copyright: |
 
 > \textsuperscript{8}{}親愛的弟兄啊，有一件事你們不可忘記，就是主看一日如千年，千年如一日。\textsuperscript{9}{}**主所應許的尚未成就，有人以為他是耽延，其實不是耽延，乃是寬容你們，不願有一人沉淪，乃願人人都悔改。**
 
-> \textsuperscript{10}{}但主的日子要像賊來到一樣。那日，天必大有響聲廢去，有形質的都要被烈火銷化，地和其上的物都要燒盡了。\textsuperscript{11}{}這一切既然都要如此銷化，你們為人該當怎樣聖潔，怎樣敬虔，\textsuperscript{12}{}切切仰望神的日子來到！在那日，天被火燒就銷化了，有形質的都要被烈火熔化。\textsuperscript{13}{}**但我們照他的應許，盼望新天新地，有義居在其中。**
+> \textsuperscript{10}{}但主的日子要像賊來到一樣。那日，天必大有響聲廢去，有形質的都要被烈火銷化，地和其上的物都要燒盡了。\textsuperscript{11}{}這一切既然都要如此銷化，你們為人該當怎樣聖潔，怎樣敬虔，\textsuperscript{12}{}切切仰望神的日子來到！在那日，天被火燒就銷化了，有形質的都要被烈火鎔化。\textsuperscript{13}{}**但我們照他的應許，盼望新天新地，有義居在其中。**
 
-> \textsuperscript{14}{}親愛的弟兄啊，你們既盼望這些事，就當殷勤，使自己沒有玷汙，無可指摘，安然見主；\textsuperscript{15}{}並且要以我主長久忍耐為得救的因由，就如我們所親愛的兄弟保羅，照著所賜給他的智慧寫了信給你們。\textsuperscript{16}{}他一切的信上也都是講論這事。信中有些難明白的，那無學問、不堅固的人強解，如強解別的經書一樣，就自取沉淪。
+> \textsuperscript{14}{}親愛的弟兄啊，你們既盼望這些事，就當殷勤，使自己沒有玷污，無可指摘，安然見主；\textsuperscript{15}{}並且要以我主長久忍耐為得救的因由，就如我們所親愛的兄弟保羅，照著所賜給他的智慧寫了信給你們。\textsuperscript{16}{}他一切的信上也都是講論這事。信中有些難明白的，那無學問、不堅固的人強解，如強解別的經書一樣，就自取沉淪。
 
 > \textsuperscript{17}{}親愛的弟兄啊，你們既然預先知道這事，就當防備，恐怕被惡人的錯謬誘惑，就從自己堅固的地步上墜落。\textsuperscript{18}{}**你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。願榮耀歸給他，從今直到永遠！阿們。**
 
-### English — ESV
+### English — NASB (New American Standard Bible)
 
-> \textsuperscript{1}{}This is now the second letter that I am writing to you, beloved. In both of them I am stirring up your sincere mind by way of reminder, \textsuperscript{2}{}that you should remember the predictions of the holy prophets and the commandment of the Lord and Savior through your apostles.
+> \textsuperscript{1}{}Beloved, this is now the second letter I am writing to you in which I am stirring up your sincere mind by way of a reminder, \textsuperscript{2}{}to remember the words spoken beforehand by the holy prophets and the commandment of the Lord and Savior spoken by your apostles.
 
-> \textsuperscript{3}{}knowing this first of all, that scoffers will come in the last days with scoffing, following their own sinful desires. \textsuperscript{4}{}They will say, "Where is the promise of his coming? For ever since the fathers fell asleep, all things are continuing as they were from the beginning of creation." \textsuperscript{5}{}For they deliberately overlook this fact, that the heavens existed long ago, and the earth was formed out of water and through water by the word of God, \textsuperscript{6}{}and that by means of these the world that then existed was deluged with water and perished. \textsuperscript{7}{}But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly.
+> \textsuperscript{3}{}Know this first of all, that in the last days mockers will come with their mocking, following after their own lusts, \textsuperscript{4}{}and saying, “Where is the promise of His coming? For ever since the fathers fell asleep, all things continue just as they were from the beginning of creation.” \textsuperscript{5}{}For when they maintain this, it escapes their notice that by the word of God the heavens existed long ago and the earth was formed out of water and by water, \textsuperscript{6}{}through which the world at that time was destroyed by being flooded with water. \textsuperscript{7}{}But by His word the present heavens and earth are being reserved for fire, kept for the day of judgment and destruction of ungodly people.
 
-> \textsuperscript{8}{}But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day. \textsuperscript{9}{}**The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.**
+> \textsuperscript{8}{}But do not let this one fact escape your notice, beloved, that with the Lord one day is like a thousand years, and a thousand years like one day. \textsuperscript{9}{}**The Lord is not slow about His promise, as some count slowness, but is patient toward you, not willing for any to perish, but for all to come to repentance.**
 
-> \textsuperscript{10}{}But the day of the Lord will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed. \textsuperscript{11}{}Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness, \textsuperscript{12}{}waiting for and hastening the coming of the day of God, because of which the heavens will be set on fire and dissolved, and the heavenly bodies will melt as they burn! \textsuperscript{13}{}**But according to his promise we are waiting for new heavens and a new earth in which righteousness dwells.**
+> \textsuperscript{10}{}But the day of the Lord will come like a thief, in which the heavens will pass away with a roar and the elements will be destroyed with intense heat, and the earth and its works will be discovered. \textsuperscript{11}{}Since all these things are to be destroyed in this way, what sort of people ought you to be in holy conduct and godliness, \textsuperscript{12}{}looking for and hastening the coming of the day of God, because of which the heavens will be destroyed by burning, and the elements will melt with intense heat! \textsuperscript{13}{}**But according to His promise we are looking for new heavens and a new earth, in which righteousness dwells.**
 
-> \textsuperscript{14}{}Therefore, beloved, since you are waiting for these, be diligent to be found by him without spot or blemish, and at peace. \textsuperscript{15}{}And count the patience of our Lord as salvation, just as our beloved brother Paul also wrote to you according to the wisdom given him, \textsuperscript{16}{}as he does in all his letters when he speaks in them of these matters. There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures.
+> \textsuperscript{14}{}Therefore, beloved, since you look for these things, be diligent to be found spotless and blameless by Him, at peace, \textsuperscript{15}{}and regard the patience of our Lord as salvation; just as also our beloved brother Paul, according to the wisdom given him, wrote to you, \textsuperscript{16}{}as also in all his letters, speaking in them of these things, in which there are some things that are hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction.
 
-> \textsuperscript{17}{}You therefore, beloved, knowing this beforehand, take care that you are not carried away with the error of lawless people and lose your own stability. \textsuperscript{18}{}**But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.**
+> \textsuperscript{17}{}You therefore, beloved, knowing this beforehand, be on your guard so that you are not carried away by the error of unscrupulous people and lose your own firm commitment, \textsuperscript{18}{}**but grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory, both now and to the day of eternity. Amen.**
 
-> 註：3:10「地和其上的物都要燒盡了」（和合本，多數文本 *katakaēsetai*「被燒盡」）與ESV所依據的較早抄本異文「will be exposed／曝露、顯露出來」(*heurethēsetai*「被查出」) 存在文本差異；兩者所要傳達的重點一致——受造界要在主的日子被徹底揭露、審判、更新，本章採和合本傳統譯文，並在原文研讀中一併說明。
+> **註（3:10 的文本異文）**：3:10 末句和合本作「地和其上的物都要燒盡了」，依從多數抄本的 *katakaēsetai*（「被燒盡」）；本章英譯 NASB 2020 作 “the earth and its works **will be discovered**”（「地和其上的工都要被顯露出來」），依從較早抄本的 *heurethēsetai*（「被查出、被發現」）。值得一提的是，**NASB 兩個版本自己就在這節分道揚鑣**：1995 年版作 “will be burned up”，與和合本同一路；2020 年版改從較早的異文。兩種讀法所指向的重點其實一致——受造界要在主的日子被徹底揭露、審判、更新；差別在於強調「燒盡」還是「顯露」。本書中文從和合本，英譯從 NASB 2020，並在此如實並陳。
+
+> **英譯體例**：本章英譯（NASB 2020）為全章 18 節。英譯在本書是為對照解說而設，不是另備一部英文聖經；第一章只列正在解說的段落。全書英譯引用範圍與版權條件見卷末〈附錄：參考資料〉「經文版本」一節。
 
 ---
 
@@ -1648,7 +1414,7 @@ copyright: |
 
 ### *speudontas*：等候，也是催促
 
-3:12「切切仰望神的日子來到」，原文動詞*speudontas*同時帶著「等候」與「催促、加速」兩層意思——中文和合本、英文ESV都採「等候並催促／hastening」的翻譯方向。這意味著信徒對主再來的態度，不是被動的旁觀，而是帶著某種積極性——彼得後書沒有詳細解釋這如何運作，但歷代解經者普遍認為，這與信徒聖潔的生活、教會的禱告、福音的廣傳有關（呼應3:9「不願有一人沉淪」——神的寬容留出的空間，正是給教會完成大使命的時間）。
+3:12「切切仰望神的日子來到」，原文動詞*speudontas*同時帶著「等候」與「催促、加速」兩層意思——中文和合本作「切切仰望」，英文 NASB 2020 作 “looking for and **hastening** the coming of the day of God”——兩者都採「等候並催促」的翻譯方向。這意味著信徒對主再來的態度，不是被動的旁觀，而是帶著某種積極性——彼得後書沒有詳細解釋這如何運作，但歷代解經者普遍認為，這與信徒聖潔的生活、教會的禱告、福音的廣傳有關（呼應3:9「不願有一人沉淪」——神的寬容留出的空間，正是給教會完成大使命的時間）。
 
 ### *graphas*：保羅書信是「經書」
 
@@ -1678,7 +1444,7 @@ copyright: |
 
 彼得後書全書從未直接引用耶穌親口所說的話，但3:10「主的日子要像賊來到一樣」，字面上正是耶穌自己在馬太福音24:43「家主若知道幾更天有賊來，就必儆醒」的教訓迴響，也與保羅在帖前5:2「主的日子來到好像夜間的賊一樣」、以及啟示錄3:3、16:15幾乎相同的用語一脈相承。這是初代教會共同承接、反覆傳講的一句主的教訓——彼得沒有標明出處，正說明這句話在當時教會裏已經是眾所週知、口傳相承的核心教導，不需要每次都加註來源。
 
-### 6. 宇宙的解體：形質銷化，被烈火熔化（3:10-12）
+### 6. 宇宙的解體：形質銷化，被烈火鎔化（3:10-12）
 
 「有形質的都要被烈火銷化」——*stoicheia*一詞原指構成宇宙的基本元素或天體，彼得用最強烈的宇宙論語言，描述受造界本身在主的日子將經歷徹底的解體與煉淨。這不是世界的「毀滅」在虛無意義上的消失，而是一次徹底的審判性煉淨——正如洪水沒有使世界從此不存在，而是使舊世界的秩序終結、開啟挪亞之後的新秩序，末後的烈火審判也將終結現今被罪玷污的天地秩序，為3:13的「新天新地」開路。
 
@@ -1688,7 +1454,7 @@ copyright: |
 
 ### 8. 末世論塑造倫理：因為知道要來，所以現在要活得不一樣（3:11, 14）
 
-彼得後書第三章最實際的教導，不是滿足讀者對末世時間表的好奇心，而是反覆逼問一個問題：「你們為人該當怎樣聖潔，怎樣敬虔」（3:11）？「就當殷勤，使自己沒有玷汙，無可指摘，安然見主」（3:14）。整段末世論教導的終點，不是教義知識的累積，而是聖潔生活的塑造——這正是彼得後書從第1章的美德階梯（1:5-7），到第2章的假教師警告，到第3章的末世盼望，一以貫之的邏輯：真知識必然結出敬虔生活的果子。
+彼得後書第三章最實際的教導，不是滿足讀者對末世時間表的好奇心，而是反覆逼問一個問題：「你們為人該當怎樣聖潔，怎樣敬虔」（3:11）？「就當殷勤，使自己沒有玷污，無可指摘，安然見主」（3:14）。整段末世論教導的終點，不是教義知識的累積，而是聖潔生活的塑造——這正是彼得後書從第1章的美德階梯（1:5-7），到第2章的假教師警告，到第3章的末世盼望，一以貫之的邏輯：真知識必然結出敬虔生活的果子。
 
 ### 9. 保羅書信是「經書」：新約對自身正典地位最早的自我見證（3:15-16）
 
@@ -1704,7 +1470,23 @@ copyright: |
 
 > **體例說明**：本節是歷代解經者立場的綜述，非逐字引文。除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，不應作為原文引用轉引。
 
-### 約翰·加爾文 (John Calvin, 1509-1564)
+### 教父時期：奧古斯丁 (Augustine, 354-430)
+
+彼得後書第三章是少數在教父時代就被整章拿來處理的段落——奧古斯丁在《上帝之城》(*De civitate Dei*) 第二十卷第十八章，專門處理「使徒彼得論末日審判怎麼說」，把3:3-13幾乎逐節走過一遍。他的讀法有兩點值得留意。
+
+第一，他把彼得的洪水類比看作全章論證的骨幹：那場洪水毀掉的不只是地面，連「天」也在其中——
+
+> "The world which then was perished, and not only the earth itself, but also the heavens, by which we understand the air"
+>
+> 「當時的世界就消滅了；消滅的不只是地本身，還有那『天』——我們理解為空氣的那一層。」
+
+奧古斯丁的意思是：3:6所說「當時的世界被水淹沒就消滅了」，指的是那個世界的整個秩序（連同其上的大氣）被廢去，不是地球這顆星球被抹掉。這正好對上本章3:10-13的讀法——烈火要終結的是現今被罪玷污的天地秩序，不是把受造界化為虛無。同一段裏，他讀3:7「現在的天地……用火焚燒」，說這天地是「reserved unto fire against the day of judgment」（存留著，等候審判之日的烈火），末了指向彼得所應許的「new heavens and a new earth, wherein dwells righteousness」（新天新地，有義居在其中）。
+
+第二，在同卷第七章論千禧年時，奧古斯丁引3:8「主看一日如千年，千年如一日」，用它來反對把預言中的年數一律按字面算——神的時間不受人的曆法管轄。這與本章「要義」第4點的讀法一致：3:8不是一條換算公式，是一句提醒，叫人別拿自己的尺去量神的耐性。
+
+> 出處：Augustine, *De civitate Dei*（《上帝之城》）XX.18（論彼得後書3章）、XX.7（引3:8論千禧年）。英文引句取自 newadvent.org 所刊 NPNF 英譯，經逐字核對，中文為編者對照翻譯。
+
+### 改革宗時期：約翰·加爾文 (John Calvin, 1509-1564)
 
 加爾文在其《彼得後書註釋》論3:8時指出，人之所以急於催促神的時間表，是因為人「按著自己肉體的判斷衡量時間」，天性傾向不耐煩，以至於「快」在人的感受裏也成了「慢」；加爾文勸勉讀者「當存心思飛升至天上」，如此一來，等候的時間對人就「既不長也不短」——換句話說，問題不在神的時間，而在人衡量時間的角度（撮述自其《彼得後書註釋》3:8註）。
 
@@ -1712,7 +1494,7 @@ copyright: |
 
 論3:15-16，加爾文承認保羅書信中確有難解之處，但強調問題不在經文本身，而在讀者是否存著受教、謙卑的心去讀——凡是「阻礙人長進」的惡習，才會使「神為我們的救恩所賜下的」變成「致命的」（撮述自其《彼得後書註釋》3:16註）。加爾文由此肯定保羅書信理當被誦讀，只是讀者必須帶著謙卑受教的心，而非驕傲的臆測。
 
-### 約翰·麥克阿瑟 (John MacArthur)
+### 當代釋經：約翰·麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在gty.org講道系列《The Certainty of the Second Coming》(2 Peter 3) 中指出，譏誚者的論證核心是：「神從來沒有在審判中介入過，所以我們憑甚麼相信祂將來會介入」——這正是3:5-7要駁斥的錯誤前提。他強調3:7所說「現在的天地……直留到……用火焚燒」，是神用水審判挪亞世代之後，向世人預告的下一場審判方式的轉換：「神從前用水審判，將來要用火審判」(*water then, fire now/then*，撮述其講道立場)。
 
@@ -1732,7 +1514,7 @@ copyright: |
 
 > \textsuperscript{1}{}（神人摩西的祈禱）主啊，你世世代代作我們的居所。\textsuperscript{2}{}諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。\textsuperscript{3}{}你使人歸於塵土，說：你們世人要歸回。\textsuperscript{4}{}在你看來，千年如已過的昨日，又如夜間的一更。……\textsuperscript{12}{}求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。
 
-> Lord, you have been our dwelling place in all generations. Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God. You return man to dust and say, "Return, O children of man!" For a thousand years in your sight are but as yesterday when it is past, or as a watch in the night. ... So teach us to number our days that we may get a heart of wisdom.
+> Lord, You have been our dwelling place in all generations. Before the mountains were born Or You gave birth to the earth and the world, Even from everlasting to everlasting, You are God. You turn mortals back into dust And say, "Return, you sons of mankind." For a thousand years in Your sight Are like yesterday when it passes by, Or like a watch in the night. … So teach us to number our days, That we may present to You a heart of wisdom.
 
 詩篇90是摩西的禱告——一篇把人的短暫脆弱與神的永恆穩固並排陳明的詩。彼得後書3:8「主看一日如千年，千年如一日」正是直接引用詩90:4，而這節詩所在的整篇禱告，主題正是這一章要教導的：人容易用自己短促的一生去衡量神的作為，因而覺得神「耽延」；但摩西的禱告告訴我們，真正的智慧不是催促神照著我們的時間表行事，而是「數算自己的日子」——在神永恆不變的信實裏，安頓自己短暫的一生。
 
@@ -1766,15 +1548,27 @@ copyright: |
 
 ### 摩根深讀 (G. Campbell Morgan)
 
-> **誠實說明**：摩根並沒有像他為約翰福音、路加福音所寫的逐節註釋那樣，為彼得後書留下同等規模的專著。他對本書的分析，集中在《歷代書卷的活信息》(*The Living Messages of the Books of the Bible*, 1912) 中論彼得後書的一章。以下是對其一貫分析立場的忠實撮述，並標明可直接查證的段落，非逐句逐字的翻譯引句。
+> **體例說明**：摩根並沒有像他為約翰福音、路加福音所寫的逐節註釋那樣，為彼得後書留下同等規模的專著；他對本書的完整分析，集中在《聖經各卷的生命信息》(*The Living Messages of the Books of the Bible*, 1912) 中論彼得後書的一章。以下**加引號並附英文者為該章逐字引句**（經全文電子版核對），其餘為編者依其論證脈絡的撮述。
 
-摩根把彼得後書全書的主題概括為「恩典所生的責任」("Responsibilities of Grace")：一方面是神所賜的資源（神的大能與基督的再來），另一方面是這資源所生出的責任（善用資源、躲避危險）。他認為全書最終的呼召濃縮在一個詞：「當殷勤」("Give Diligence")——這詞在1:5「你們要分外的殷勤」與3:14「就當殷勤」首尾呼應，構成全書行動上的主線。
+摩根為彼得後書全書定下的主題，是「恩典所生的責任」：
 
-論3:3-4的譏誚者，摩根引述經文本身：「在末世必有好譏誚的人隨從自己的私慾出來譏誚說，主要降臨的應許在哪裏呢」——並指出，譏誚者的邏輯「事情向來如此，將來也必如此」("as things have been, so they will remain") 本質上是一種不信；他強調，唯獨信心能真正持定主再來的應許，理性的觀察與經驗的歸納，永遠無法單獨產生這樣的確信。
+> "The central teaching has to do with the responsibilities of grace; first, the resource creating the responsibilities, and secondly the responsibilities created by that resource."
+>
+> 「全書的中心教訓，關乎恩典所生的責任：其一，是那創造出責任來的資源；其二，是那資源所造出的責任。」
+
+「資源」指神的大能與基督的再來，「責任」指善用這資源、躲避隨之而來的危險。摩根把全書最終的呼召濃縮成一個動作——「當殷勤」：
+
+> "The abiding appeal of the letter is that we give diligence. This we do first by cooperation with the Power."
+>
+> 「這封信恆久的呼籲，就是叫我們當殷勤。而我們首先要做的，是與那大能同工。」
+
+這正對上1:5「你們要分外的殷勤」與3:14「就當殷勤」的首尾呼應，構成全書行動上的主線。摩根為本書歸納的「生命信息」，也把「記念」與「殷勤」鎖在一起——「remembrance in order to diligence, remembrance the inspiration of diligence」（記念是為了殷勤，記念正是殷勤的動力），這與3:1-2「這兩封都是提醒你們」的寫作目的完全吻合。
+
+論3:3-4的譏誚者，摩根直接把經文本身擺出來——「Where is the promise of His coming? for, from the day that the fathers fell asleep, all things continue as they were from the beginning of the creation.」——他指出，譏誚者是把「萬物照舊」的經驗歸納當成了論據，而這本質上是一種不信；唯獨信心能真正持定主再來的應許，理性的觀察與經驗的推演，永遠無法單獨產生這樣的確信。
 
 論本章的末世盼望，摩根區分了主再來對世界的意義（審判，建立公義）與對信徒的意義（脫離敗壞，進入完全）；全書的終點，不只是「站立得穩」，而是積極地藉著殷勤與品格的建造，進入「永遠的國」——一種末世性的完全，而非單純世上國度的建立。
 
-> 出處：G. Campbell Morgan, *The Living Messages of the Books of the Bible* (New Testament), 論2 Peter一章，經可公開查閱之全文電子版核實後撮述。
+> 出處：G. Campbell Morgan, *The Living Messages of the Books of the Bible* (New Testament, Fleming H. Revell, 1912)，論 2 Peter 一章。上列英文引句經該書公開全文電子版逐字核對，中文為編者對照翻譯。
 
 ### 老弟兄查經洞見 (Thursday Class Insights)
 
@@ -1792,19 +1586,6 @@ copyright: |
 - **連**：3:9「不願有一人沉淪」和提前2:4「他願意萬人得救」是不是同一個心意的兩種說法？
 - **住**：如果神的寬容住在我裏面，我今天會不會對某個「還沒信主的人」多一點耐心？
 - **行**：今天有沒有一個具體的人，我可以為他多禱告一次，因為神的寬容還在給他悔改的機會？
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*It Is Well with My Soul*（如前「聖詩默想」所引）
-
-> The trump shall resound, and the Lord shall descend,
-> Even so, it is well with my soul.
-
-**詩篇**：詩篇 90:4
-
-> 在你看來，千年如已過的昨日，又如夜間的一更。
 
 ---
 
@@ -1906,9 +1687,161 @@ copyright: |
 
 \newpage
 
-# 卷末 · 永恆的日子 (Toward the Day of Eternity) {.unnumbered}
+# 卷末 · 回望與永恆 (Looking Back, and Forward) {.unnumbered}
 
-> 從創世記到啟示錄，一封將盡的遺言把讀者的眼目再一次帶回基督。
+> 三章讀完了，先把全書的領受收攏成一張圖，再讓那封將盡的遺言把眼目帶回基督。
+
+\newpage
+
+# 全書領受總綱——老弟兄查經法 (Systematic Reception) {.unnumbered}
+
+
+> 「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」
+>
+> 「我們並有先知更確的預言，如同燈照在暗處。」（彼後 1:19）
+>
+> 「你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。願榮耀歸給他，從今直到永遠！阿們。」（彼後 3:18）
+
+**整理日期**：2026-08
+**方法**：以彼得後書自身「知識」（*epignōsis／gnōsis*）首尾扣住全書的文學結構為骨架——1:2-3「認識神和我們主耶穌」開卷，3:18「在恩典和知識上有長進」收卷——逐部深度領受；跨書參照彼得前書、猶大書、約翰福音21章、創世記、以賽亞書、啟示錄
+**經文核對**：01-03各章中文經文已統一為和合本 (CUV)，經 ai-eden.com 或 cnbible.com 核對；English 統一採 NASB（New American Standard Bible, 2020）。本篇所引經文均直接取自各章「經文」小節已核對之文本，未另行引入未經核實之新經文。
+
+---
+
+### 全書精義一句話
+
+彼得後書全書只做一件事：一位知道自己「脫離這帳棚的時候快到了」（1:14）的使徒，用生命最後的三章，把最要緊的話留給後人——**你所信的，站得住嗎？（一章：真知識的根基）你能分辨裏面長出來的蟲嗎？（二章：假教師的警告）你等候的方式，對嗎？（三章：主的日子）**三個問題，一條線索貫穿：真知識若不能分辨真假、若不能塑造聖潔的等候，就還不是彼得所說的「真知識」。
+
+---
+
+### 卷首：定位與鑰匙
+
+> 卷首〈「知識」——全書的骨幹〉一章已把 *epignōsis* 的字族普查、1:2-3 與 3:18 的封套結構、真知識與假知識的對照逐一走過，此處不再重複。本節只補上那一章沒有處理、卻是查經桌上真正用得著的兩件事：**第三章的四次稱呼，與全書的結構一覽。**
+
+#### 第三章的四次「親愛的弟兄啊」——一封遺言裏的四個轉折
+
+第三章的結構本身就是一份講稿的痕跡：「親愛的弟兄啊」在3:1、3:8、3:14、3:17四次重複出現，每一次都標記著一個新的轉折——3:1轉入寫信的目的（提醒），3:8轉入神的時間觀（寬容不是耽延），3:14轉入該有的生活（殷勤、聖潔），3:17轉入最後的囑咐（防備、長進）。**一位知道自己時候不多的人，說話從不拐彎抹角；他用最直接的稱呼，一次又一次把讀者的注意力拉回來——這正是遺言文學共同的語氣。**
+
+老弟兄查經常問：「這卷書重複最多的字是甚麼？把它圈出來。」除了 *epignōsis*（見前章）之外，還有三個字值得在讀正文之前先圈起來：**`{\greekfont ὑπόμνησις}`{=latex}／提醒**（1:12, 13, 15；3:1, 2——彼得不寫新道理，只寫「提醒」）、**`{\greekfont ἀσέβεια}`{=latex}／不敬虔**（2:5, 6；3:7——一條從洪水到烈火的審判線，把第2章的歷史例證與第3章的末日預告縫在一起）、**`{\greekfont σκήνωμα}`{=latex}／帳棚**（1:13, 14——一封在倒數計時裏寫成的信）。
+
+#### 全書結構一覽
+
+| 部分 | 章節 | 主題 | 一句話定位 |
+|------|------|------|-----------|
+| 第一部 | 1:1-21 | 真知識的根基 | 你所信的，站得住 |
+| 第二部 | 2:1-22 | 假教師的警告 | 裏面長出來的蟲，比外面的火更難防 |
+| 第三部 | 3:1-18 | 主的日子 | 神的沉默不是缺席，是寬容 |
+
+---
+
+### 誠實的起手式（出處說明）
+
+本篇所依據之老弟兄原始查經筆記經查證，並無任何一則以彼得後書為主題的記載——這一點在三章逐章研讀中已如實揭示（見各章「老弟兄查經洞見」出處說明）。這篇貫通全書的〈全書精義〉延續同一個誠實原則：文中「老弟兄」的框架與提問方式——救恩三階段（稱義／成聖／得榮）、六層次讀經法（念·找·問·連·住·行）、提問式帶領、追蹤一個觀念貫通全本聖經、每次查經末了都問「你看見耶穌了嗎？」——都是老弟兄在其他書卷查經中真實留下的教導方法論，忠實應用在彼得後書的文本上，**不是**逐字引用他對這卷書本身的歷史記錄。這是一次方法論的應用，不是一份逐節查經筆記的複現，讀者理當清楚知道這個分別。
+
+**用六層次讀完整卷書**：老弟兄一貫的讀經法，用來讀一整卷短信同樣合用——**念**：把三章一口氣讀完，感受一封遺言的節奏，不要在任何一節逗留太久。**找**：三章各自反覆出現的圖畫是甚麼（美德的階梯、動物與泉源、烈火與新天新地）？**問**：這三幅圖畫，最終回答的是不是同一個問題——你所信的，站得住嗎？**連**：把「認識」這條線索從1:2連到3:18，中間第2章缺了它會發生甚麼事？**住**：如果1:3「神的神能已將一切關乎生命和虔敬的事賜給我們」真的住在你裏面，你今天面對試探與等候的心態會有甚麼不同？**行**：這一週，你要為「認識」祂而不是為「知道更多」多做的那件事，是甚麼？
+
+---
+
+### 第一部：真知識的根基（1:1-21）
+
+#### 精義
+
+彼得從第一節就把兩件事釘死：他是誰（僕人和使徒），耶穌是誰（「我們的神和救主」——1:1原文一個定冠詞同時管轄兩個名詞，語法上把神與救主焊接成同一位格）。整章接下來的美德階梯（1:5-7）、確據（1:10）、登山變像的見證（1:16-18）、先知預言的默示論（1:19-21），全部只回答一個問題：**你所信的，站得住嗎？**——不是靠感覺，不是靠經歷本身，而是靠一位真實可查證的主，和一段真實被聖靈感動、可反覆查驗的話語。這是一位知道自己「脫離這帳棚的時候快到了」（1:14）的人，最不肯浪費的一段話。
+
+#### 深度探索
+
+1. **恩典先於責任，這條次序全書只講一次，卻管住了整本書**——1:3「神的神能已將一切……賜給我們」在前，1:5「你們要分外地殷勤」在後。這不只是第一章的邏輯，是整卷書的邏輯：第二章拆穿假教師，不是要讀者靠自己更努力去防備，而是要讀者回到已經領受的「真知識」；第三章呼籲聖潔敬虔（3:11），根據仍然是已經賜下的應許（3:13），不是對審判的恐懼。**彼得後書沒有一句命令句，是走在恩典前面的。**
+
+2. **登山變像不是彼得最有力的武器，先知的話才是**——1:16-19的次序值得留意：彼得先訴諸他一生最壯麗的親身經歷（「親眼見過他的威榮」），卻立刻說「我們並有先知更確的預言」（1:19）。連使徒本人最不平凡的異象，也不是信仰最終的根基；已然寫定、可反覆查驗的話語才是。**這條原則貫穿全書三章：第二章分辨真假教師的準繩，不是誰的經歷更動人，是誰的話合乎已經確立的真道；第三章分辨真假末世論的準繩，也不是誰的推測更合理，是「聖先知預先所說的話」（3:2）。**一章立下的原則，二三章原樣沿用。
+
+3. **這一章埋下的伏筆，二三章逐一引爆**——1:16「乖巧捏造的虛言」與2:3「捏造的言語」用同一組詞根；1:9「眼瞎，只看見近處的」（近視，不是全盲）預告了3:5譏誚者「故意忘記」歷史的盲目；1:20「沒有可隨私意解說」預告了3:16「無學問、不堅固的人強解」聖經。**彼得不是寫完一章換一個話題，他在第一章就已經把全書的骨架埋好了。**
+
+4. **1:3-11本身就是一幅救恩的縮影**——1:3-4「神的性情有分」談的是已經完成、一次性的地位（近乎稱義）；1:5-11「分外地殷勤」談的是持續一生的操練（成聖）；1:11「豐豐富富地得以進入……永遠的國」談的是末後的盼望（得榮）。**老弟兄慣用的救恩三階段框架，第一章自己就先示範了一次——這條線索會在全書的結構上再放大一次（見下文「跨書貫通」）。**
+
+#### 帶著走的問題
+
+你所信的根基，是「親眼見過」的話語，還是別人隨口告訴你的故事？如果今天有人問你信仰的憑據，你會先講你的經歷，還是先講那已經寫定的話？
+
+---
+
+### 第二部：假教師的警告（2:1-22）
+
+#### 精義
+
+整章讀起來像是全書「最不講恩典」的一章——沒有一句直接的安慰，通篇是舊約審判史、動物比喻、道德控訴。但正因如此，這一章才是第一章「真知識」最嚴厲的考卷：**知識若不能分辨真假，知識就還沒有真正發揮它的作用。**彼得選擇的方法，不是抽象辯論異端的邏輯漏洞，而是把三組舊約歷史（犯罪的天使、洪水前的世代、所多瑪蛾摩拉）並排擺出來，讓歷史自己說話。全章的鉸鏈句（2:9）把審判與搭救縫在一起：**神從不曾在審判不敬虔人的同時，忘記祂那一小群敬虔的百姓。**
+
+#### 深度探索
+
+1. **假教師不是門外的敵人，是「正與你們一同坐席」的同席者（2:13）**——彼得前書處理外面燒來的火（苦難、逼迫），彼得後書處理裏面長出來的蟲（教義的腐蝕）；這不是兩種各自獨立的危機，是同一個群體在不同時刻要學會分辨的兩種完全不同的仗。前書教人如何在火裏站立，後書教人如何在蟲蛀之前發現它。
+
+2. **三組「審判／搭救」的例證，不是嚇唬人的修辭，是神一貫作為的歷史證據**——天使全數被囚、洪水前的世代全部滅頂、所多瑪蛾摩拉全城焚毀，唯獨「傳義道的」挪亞與「常為惡人淫行憂傷」的羅得被分別出來。**這條線一路連到第三章：3:6-7再次提起洪水，作為未來烈火審判最有力的歷史證據——第二章的「過去」，正是第三章「將來」的鑰匙。**彼得不是分兩次隨機引用洪水，是刻意把同一段歷史，安放在全書結構的兩個關鍵接口上。
+
+3. **巴蘭與2:20-22的狗豬，是同一個問題的兩種畫法：認識真理，卻仍然選擇背棄**——巴蘭認識神的話語，卻仍然貪愛不義的工價（2:15-16；參2:21「他們曉得義路，竟背棄了傳給他們的聖命」）；2:20-22描述的人「因認識主救主耶穌基督，得以脫離世上的污穢，後來又在其中被纏住」。彼得沒有替讀者解決這段經文的解經難題（這是曾經真信、還是從未真信），他要的效果，正是逼每一個讀者回頭省察自己與基督的關係——**這正是第一章1:10「使你們所蒙的恩召和揀選堅定不移」最尖銳的反面應用：確據不是一次宣稱就終身有效的護身符，是一生持守的生命樣式。**
+
+4. **「連買他們的主他們也不承認」（2:1）——全章唯一一次明說的福音**——這句控訴裏藏著全章唯一一次正面的救贖宣告：他們之所以能被稱為「祂所買的」，是因為祂已經用重價買了他們。**整章對假教師最嚴厲的審判語言，都是繞著十字架轉的——連最黑暗的一章，基督也沒有缺席，只是祂在這裏是那位被否認、卻仍然真實買贖了人的主。**
+
+#### 帶著走的問題
+
+巴蘭認識神的話，卻仍然選擇貪愛不義的工價——你生命裏，有沒有一件事，是你「知道」卻仍然選擇？如果今天要誠實回答，你會怎樣描述自己與基督的關係？
+
+---
+
+### 第三部：主的日子（3:1-18）
+
+#### 精義
+
+第三章把讀者的目光，從第二章「裏面的蟲」，轉向「外面終極的答案」：主必再來，審判必要臨到，新天新地必要成就。譏誚者的論證（「萬物……仍是一樣」，3:4）表面是理性的觀察，實質是把神的緘默當作神的缺席——彼得的回應不是訴諸情感，是訴諸歷史（洪水，3:5-7）與神自己的時間觀（詩90:4，3:8）。**全章的樞紐句（3:9）給出了最終的答案：神看似的遲延，不是耽延，是寬容——祂多留一天，就是多給一個人悔改的機會。**這是全書從真知識（一章）、假教師的警告（二章），走到末了唯一合理的落腳點：因為知道祂要來，所以現在要活得不一樣（3:11）。
+
+#### 深度探索
+
+1. **3:18不是隨手的結語，是回到卷首已經立下的鑰匙**——如前文「卷首：定位與鑰匙」所述，「認識」一詞把全書首尾扣住；3:18把這個詞從單純的「知道」（1:5-7美德階梯裏的*gnōsis*）升級為「在恩典和知識上有長進」——**知識不是一次到位的資訊，是一生持續生長的關係，這正是全書從第一章的美德階梯、到第二章的警告、走到第三章末了唯一合理的結論：長進，不是停在原地確認自己已經懂了。**
+
+2. **一條從創造、洪水、到烈火、到新天新地的直線，是全書真正的時間軸**——3:5預設創世記1章「神說……就有了」的創造敘事，3:6引用創世記6-9章的洪水審判，3:7指向將臨的烈火審判，3:13引用以賽亞書65:17「我造新天新地」。**這條線不只是第三章自己的論證，它同時回答了第二章留下的問題：洪水前的世代全部滅頂、唯獨挪亞一家蒙保守（2:5）——這不是一次孤立的古代災難，是神一貫審判與搭救模式最早的示範，第三章不過是把同一個模式，投射到未來的烈火與新天新地。**
+
+3. **保羅的信被稱為「經書」（3:15-16），是彼得留給教會最後、也最謙卑的一句話**——一位快要殉道的使徒，在他生命最後的文字裏，把「我們所親愛的兄弟保羅」的著作，與舊約正典並列，同時誠實承認保羅的信「有些難明白的」。**這不是弱點的自白，是遺言文學共有的姿態：真正明白自己時候不多的人，不急著建立自己的權威，只急著把讀者引向比自己更可靠的根基。**彼得寫最後一封信，把讀者引向保羅、引向先知、引向「主救主的命令」（3:2）——沒有一句話，是要讀者記住彼得自己。
+
+4. **全書最後一句話，是頌榮，不是警告**——2:20-22與3:10-12是全書用詞最嚴厲的兩段，但彼得沒有讓警告成為最後的聲音。3:18b「願榮耀歸給他，從今直到永遠！阿們」——這是新約基督論最不張揚、卻最沉重的證據之一：一位使徒臨終前，把永遠的榮耀歸給耶穌基督，不是辯論的結論，是敬拜的自然流露。**教義若不長成敬拜，教義就還沒有走完它該走的路。**
+
+#### 帶著走的問題
+
+如果你確實知道主隨時可能再來，你今天會不會做一件不一樣的事？神多留的每一天，會不會正是為了你認識的某一個人？
+
+---
+
+### 跨書貫通
+
+#### 一、與彼得前書——同一雙曾經發抖、如今堅定的手
+
+彼得前書防外面的火（4:12「火煉的試驗」），彼得後書防裏面的蟲（2:1「假師傅在你們中間」）——兩封信合起來，是同一位曾經三次不認主的漁夫，如今用生命最後的力氣寫成的完整牧養遺囑：**前書護羊群的命，後書護羊群的道。**兩卷書各自的鑰字也照出這個分工：彼得前書的鑰字是「盼望」（1:3「活潑的盼望」），彼得後書的鑰字是「知識」（3:18）——**盼望叫人在苦難中撐得住，知識叫人在迷惑中認得清；一個曾經連一句話都保不住自己信心的人，如今要教會在他去世以後，靠著已經寫定的話語站立得穩（1:15）——這條弧線，本身就是恩典最有力的見證。**
+
+#### 二、與猶大書——同一場警告，各自站在時態的兩端
+
+彼得後書2章預告「將來……必有假師傅」（2:1，多用未來式），猶大書描述同一批人「偷著進來」（猶4，既成事實的語氣）——無論文學關係的方向如何（本系列不強行判定），兩卷書合起來，構成新約裏對「教會內部假教師」刻畫得最生動的一組文字。**這提醒讀者：彼得所警告的，從來不是一個遙遠的假設——教會歷史上，這條「裏面長出來的蟲」，從未真正停止過。**
+
+#### 三、與遺言文類——摩西、約書亞、耶穌、保羅、彼得，同一種不肯浪費字句的迫切
+
+彼得後書屬於聖經一個古老的文類：一位知道自己時候不多的僕人，把畢生最要緊的話留給後人（申命記、書23-24、約13-17、徒20:17-38、提後）。**這條線索的重量，落在彼得後書自己身上格外清楚**：三章經文，幾乎每一句都在用力——知識要真（一章）、假教師要防（二章）、主的日子要等（三章）。約翰福音21章復活的主對彼得說：「但年老的時候，你要伸出手來，別人要把你束上，帶你到不願意去的地方」（21:18）——彼得後書1:14正是那句預言三十多年後的回聲。**一個曾經被主挽回三次「你愛我比這些更深嗎」的人，用他生命最後的三章，回答了同一個問題：愛，就是把最要緊的真理，留給你所愛的人。**
+
+#### 四、與提摩太後書——同一個時代，兩位使徒各自寫下的遺書
+
+彼得寫「我脫離這帳棚的時候快到了」（1:14），保羅在羅馬獄中寫「我現在被澆奠……離世的時候到了」（提後4:6）——同一個世代、同一場尼祿的逼迫下，兩位使徒各自用一個屬於自己一生的意象，描述同一件事：**彼得是漁夫、是曾經住過帳棚的旅人，他用「帳棚」；保羅是敬虔猶太人、深諳獻祭禮儀，他用「澆奠」——兩個意象都指向同一個終點，卻各自帶著寫信之人一生的印記。**這提醒讀者：聖經的默示（彼後1:21）從不抹去作者的個性，只是透過各自不同的一生，說出同一句真話：這世上的日子快到了，該說的話，要趁著還有氣息說完。
+
+#### 五、稱義／成聖／得榮——同一個框架，套在全書三章上
+
+老弟兄慣用的救恩三階段框架，不只適用於單一段落（如第一章1:3-11自身已經示範的地位／操練／盼望結構），也可以套在全書三章的大結構上：第一章「真知識的根基」（1:3-4「神的性情有分」）近乎稱義——已經賜下、一次性的地位；第二章「假教師的警告」處理的正是成聖路上最危險的功課——認識真理之後，是否仍然選擇背棄（2:20-22）；第三章「主的日子」展望的是得榮的完成——「新天新地，有義居在其中」（3:13）。**三章合起來，是稱義、成聖、得榮這條線，被壓縮進一封三章的遺言裏——彼得沒有像保羅寫十六章鋪陳這個框架，卻用最短的篇幅，走完了同一條救恩的路。**
+
+---
+
+### 全書的句號：你看見耶穌了嗎？
+
+彼得後書走了一條很短、卻走到底的路：從「我們的神和救主耶穌基督」（1:1）開卷，經過「連買他們的主他們也不承認」（2:1）的沉痛控訴，走到「願榮耀歸給他，從今直到永遠」（3:18）的頌榮收尾。**三章讀下來，每一次論證的終點，都是同一位**——1章那位在聖山上「從極大榮光之中」向三個門徒顯出真貌的主；2章那位被否認、卻仍然真實用重價買贖了人的主；3章那位「看一日如千年」、以恆久忍耐等候人悔改，終必按著自己的應許使「主的日子要像賊來到一樣」臨到的主。
+
+你若讀完彼得後書三章，卻只記得一套嚴謹的辨異端手冊，這卷書就等於白讀了；你若讀完三章，卻更清楚看見那位在山上威榮顯現、如今仍在恆久忍耐、終必再來的基督，並且更願意像彼得一樣，把生命最後的力氣用在「認識」祂而非別的甚麼上——這卷書才真正完成了它的使命。
+
+一個曾經三次不認主的漁夫，用他生命最後的三章，寫下了一封最短、卻最不肯浪費一個字的信。他沒有留給教會一個更精彩的異象，他留給教會一盞更確的燈，一句更重的囑咐：**「你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。」**（3:18）
+
+這帳棚很快就要卸下了——但這句話，要一直照到天發亮。
+
 
 \newpage
 
@@ -1935,7 +1868,7 @@ copyright: |
 
 > **彼後 3:18b**　願榮耀歸給他，**從今直到永遠**！阿們。
 >
-> To him be the glory both now and **to the day of eternity**. Amen.
+> To Him be the glory, both now and **to the day of eternity**. Amen.
 
 原文是 **`{\greekfont εἰς ἡμέραν αἰῶνος}`{=latex}**（eis hēmeran aiōnos）——直譯「到永恆的那一日」。「日子」（`{\greekfont ἡμέρα}`{=latex}）與「永恆」（`{\greekfont αἰών}`{=latex}）兩個字都是單數：不是模糊的「永永遠遠」，是**一個日子**，只是這一個日子沒有盡頭。多本原文工具書指出，這個確切措詞在新約全書再無他處——彼得自己在前一封信用的是慣用語，這一次卻不是。
 
@@ -1987,15 +1920,21 @@ copyright: |
 
 彼得後書沒有留下像羅馬書13章之於奧古斯丁那樣著名的歸信軼事，但3:18這句遺言本身，兩千年來一直是講台上、書桌前反覆被引用的一句話。
 
-十九世紀倫敦的講員司布真（Charles H. Spurgeon, 1834-1892），曾以〈在恩典中長進〉（*Growth in Grace*）為題，專講2彼得3:18這一節。他在講章裏這樣說：
+十九世紀倫敦的講員司布真（Charles H. Spurgeon, 1834-1892），曾以〈在恩典中長進〉（*Growth in Grace*）為題，專講彼得後書3:18這一節。他在講章裏把這節經文的邏輯壓成一句話：
 
-> "The way to stand, then, is to go forward; the way to be steadfast is to progress; the way to be alive, according to the apostle, is to 'grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ.'"
+> "The way to stand is to grow; the way to be steadfast is to go forward."
 >
-> 「所以，站立得穩的方法，就是往前走；持守堅定的方法，就是不斷前進；照著使徒的話，活著的方法，就是『在我們主救主耶穌基督的恩典和知識上有長進』。」
+> 「站立得穩的方法，就是長大；持守堅定的方法，就是往前走。」
 
-司布真抓住的，正是這節經文文法上最不起眼、卻最要緊的一個細節：「有長進」不是一次性的成就，是一個持續的動作。**歷代講這節經文的人，幾乎都繞不開這一個發現——彼得留給教會的最後一道命令，不是一個目的地，是一個方向。**
+同一篇講章裏，他還用了一個家常的比喻把同一個道理說了一次：
 
-> 出處：C. H. Spurgeon, "Growth in Grace"，*Metropolitan Tabernacle Pulpit* 第46卷，The Spurgeon Library (spurgeon.org)，經spurgeon.org核實其講章原文後直引（該講章確切講日期已不可考，spurgeon.org 站方註明現行日期為後人推估）。
+> "There is no standing except by progression. If you see even such a simple thing as a child's toy rolling along your floor at home, you will observe that it will always stand upright as long as it keeps on rolling; but when it stops, down it goes. So is it with the Christian; as long as he is in motion, so long he stands; but if it were possible for the motion to cease, then the Christian would fall from his stedfastness."
+>
+> 「除了往前走，沒有別的站立之法。你在家裏看見一件簡單如孩童陀螺的玩具在地板上滾動，就會發現：只要它一直轉，它就一直立著；一停下來，就倒了。基督徒也是這樣——只要還在動，他就站得住；動一停下來，他就要從自己堅固的地步上墜落。」
+
+司布真抓住的，正是這節經文文法上最不起眼、卻最要緊的一個細節：「有長進」不是一次性的成就，是一個持續的動作。而他把這個發現接到了3:17「從自己堅固的地步上墜落」——**站立與長進不是兩件事：彼得留給教會的最後一道命令，不是一個目的地，是一個方向。**
+
+> 出處：C. H. Spurgeon, "Growth in Grace"（彼後3:18），*Metropolitan Tabernacle Pulpit* 第46卷，The Spurgeon Library (spurgeon.org) 註明講於1858年10月17日（該講章為身後編入第46卷出版，講道日期依 spurgeon.org 現行著錄）。以上兩段英文均經 spurgeon.org 講章全文逐字核對後直引，中文為編者對照翻譯。
 
 ---
 
@@ -2035,7 +1974,7 @@ copyright: |
 
 ## 你看見耶穌了嗎？
 
-彼得後書開卷第一句，稱耶穌是「我們的神和救主耶穌基督」（1:1）；全書最後一句，把榮耀直接歸給祂：「願榮耀歸給他，從今直到永遠」（3:18b）。中間夾著三章——講知識的根基、講假教師的醜態、講宇宙終將被烈火熔化——彼得沒有停在任何一件事上作結，他停在敬拜上。
+彼得後書開卷第一句，稱耶穌是「我們的神和救主耶穌基督」（1:1）；全書最後一句，把榮耀直接歸給祂：「願榮耀歸給他，從今直到永遠」（3:18b）。中間夾著三章——講知識的根基、講假教師的醜態、講宇宙終將被烈火鎔化——彼得沒有停在任何一件事上作結，他停在敬拜上。
 
 **這句頌榮，正是新約基督論最安靜、卻最沉重的一個證據。**舊約裏，「稱頌直到永永遠遠」「尊大、能力、榮耀……都是你的」這樣的話語，是專屬耶和華一位真神的頌讚（如代上29:10-11）；彼得把這句話，毫不猶豫地歸給耶穌基督——而且是在他知道自己快要殉道、用生命最後力氣寫下的一句話裏歸給祂。一個人臨終前不會浪費字句去講不確定的事；彼得臨終前選擇的，是把永恆的榮耀，歸給那位他曾在山上親眼見過威榮、曾在提比哩亞海邊三次被問「你愛我嗎」的主。
 
@@ -2059,67 +1998,69 @@ copyright: |
 
 本附錄整理概覽、正典位置、知識骨幹、全書領受總綱、01-03 各章正文與卷末〈永恆的日子〉中實際出現的經文引用與反覆開展的主題，供讀者查閱、跨章對照。索引依實際出現內容編製，不另行增列各章未曾論及的經文或主題。
 
+「頁」欄為該處經文在本書中實際印出的頁碼（同一處經文在多頁出現者並列，超過四頁者標「等」），由 `scripts/build-2-peter-index.py` 於排版完成後自 PDF 逐頁擷取生成，非人工編號。
+
 ---
 
 ## 附錄一：經文索引 (Scripture Index)
 
 ### 彼得後書內部——各章核心經文範圍
 
-| 經文 | 章 | 主題 |
+| 經文 | 頁 | 主題 |
 |------|----|----|
-| 1:1-21 | 01 | 真知識的根基——問安、美德階梯、登山變像、先知預言 |
-| 1:1-2 | 01 | 問安：「我們的神和救主耶穌基督」，一個定冠詞焊接神人二性 |
-| 1:3-4 | 01 | 神的神能已賜下一切；因信得與神的性情有分 |
-| 1:5-7 | 01 | 美德階梯：信心、德行、知識、節制、忍耐、虔敬、愛弟兄、愛眾人 |
-| 1:8-11 | 01 | 結果子與確據：使所蒙的恩召和揀選堅定不移 |
-| 1:12-15 | 01 | 彼得的遺言：脫離帳棚的時候快到了 |
-| 1:16-18 | 01 | 登山變像的第一手見證，並非乖巧捏造的虛言 |
-| 1:19-21 | 01 | 先知更確的預言；經上的預言沒有可隨私意解說的；人被聖靈感動 |
-| 2:1-22 | 02 | 假教師的警告——出現、審判鑒戒、特徵、虛空 |
-| 2:1-3 | 02 | 假師傅暗中引進異端，連買他們的主也不承認 |
-| 2:4-10a | 02 | 三組審判與拯救對照：犯罪天使、挪亞洪水、所多瑪蛾摩拉 |
-| 2:10b-16 | 02 | 假教師的特徵：藐視主治者、貪財、如巴蘭走錯了路 |
-| 2:17-22 | 02 | 無水的井、狗轉過來吃所吐的、豬洗淨了又回到泥裏去滾 |
-| 3:1-18 | 03 | 主的日子——寫信的目的、譏誚者、寬容、審判、盼望、結語 |
-| 3:1-2 | 03 | 寫信的目的：提醒你們記念先知與使徒所傳的命令 |
-| 3:3-7 | 03 | 好譏誚的人；藉水而成的天地藉水滅沒；現在的天地存留，直留到火燒的日子 |
-| 3:8-9 | 03 | 主看一日如千年；主的寬容，不願有一人沉淪 |
-| 3:10-13 | 03 | 主的日子要像賊來到；天必大有響聲廢去；新天新地，有義居在其中 |
-| 3:14-16 | 03 | 當殷勤，使自己沒有玷污；保羅書信中有些難明白的，無學問的把它強解 |
-| 3:17-18 | 03 | 結語勸勉；在恩典和知識上有長進——全書鑰句 |
+| 1:1-21 | 23 | 真知識的根基——問安、美德階梯、登山變像、先知預言 |
+| 1:1-2 | 23 | 問安：「我們的神和救主耶穌基督」，一個定冠詞焊接神人二性 |
+| 1:3-4 | 28、33 | 神的神能已賜下一切；因信得與神的性情有分 |
+| 1:5-7 | 28、29、32 等 | 美德階梯：信心、德行、知識、節制、忍耐、虔敬、愛弟兄、愛眾人 |
+| 1:8-11 | 23 起 | 結果子與確據：使所蒙的恩召和揀選堅定不移 |
+| 1:12-15 | 30、37 | 彼得的遺言：脫離帳棚的時候快到了 |
+| 1:16-18 | 23、26、29 等 | 登山變像的第一手見證，並非乖巧捏造的虛言 |
+| 1:19-21 | 23 起 | 先知更確的預言；經上的預言沒有可隨私意解說的；人被聖靈感動 |
+| 2:1-22 | 39、49 | 假教師的警告——出現、審判鑑戒、特徵、虛空 |
+| 2:1-3 | 42、44、47 | 假師傅暗中引進異端，連買他們的主也不承認 |
+| 2:4-10a | 39 起 | 三組審判與拯救對照：犯罪天使、挪亞洪水、所多瑪蛾摩拉 |
+| 2:10b-16 | 39 起 | 假教師的特徵：藐視主治者、貪財、如巴蘭走錯了路 |
+| 2:17-22 | 39 起 | 無水的井、狗轉過來吃所吐的、豬洗淨了又回到泥裏去滾 |
+| 3:1-18 | 54 | 主的日子——寫信的目的、譏誚者、寬容、審判、盼望、結語 |
+| 3:1-2 | 57、58、64 | 寫信的目的：提醒你們記念先知與使徒所傳的命令 |
+| 3:3-7 | 54 起 | 好譏誚的人；藉水而成的天地藉水滅沒；現在的天地存留，直留到火燒的日子 |
+| 3:8-9 | 59、62、65 | 主看一日如千年；主的寬容，不願有一人沉淪 |
+| 3:10-13 | 61、63 | 主的日子要像賊來到；天必大有響聲廢去；新天新地，有義居在其中 |
+| 3:14-16 | 54 起 | 當殷勤，使自己沒有玷污；保羅書信中有些難明白的，無學問的把它強解 |
+| 3:17-18 | 54 起 | 結語勸勉；在恩典和知識上有長進——全書鑰句 |
 
 ### 彼得前書、猶大書引用對照
 
-| 經文 | 出現於 | 主題 |
+| 經文 | 頁 | 主題 |
 |------|--------|------|
-| 彼前 1:3 | elder-wong-systematic-study.md | 活潑的盼望——與彼後強調的知識並列彼得二封信的兩把火 |
-| 彼前 4:11 | 99-day-of-eternity.md | 「直到永永遠遠」——與彼後3:18「從今直到永遠」對照的標準頌榮公式 |
-| 猶 4 | 02, 00a | 假教師「偷著進來」——與彼後2:1-3高度平行的材料 |
-| 猶 6-11 | 02, 00a | 天使的審判、所多瑪、巴蘭——彼後2:4-16的平行經文 |
-| 猶 12-13 | 02 | 無雨的雲彩、無實的樹——與彼後2:17意象呼應但非逐字相同 |
+| 彼前 1:3 | 68 起 | 活潑的盼望——與彼後強調的知識並列彼得二封信的兩把火 |
+| 彼前 4:11 | 77 | 「直到永永遠遠」——與彼後3:18「從今直到永遠」對照的標準頌榮公式 |
+| 猶 4 | 12；39 起 | 假教師「偷著進來」——與彼後2:1-3高度平行的材料 |
+| 猶 6-11 | 8 起；39 起 | 天使的審判、所多瑪、巴蘭——彼後2:4-16的平行經文 |
+| 猶 12-13 | 39 起 | 無雨的雲彩、無實的樹——與彼後2:17意象呼應但非逐字相同 |
 
 ### 跨卷、舊約引用對照
 
-| 經文 | 出現於 | 主題 |
+| 經文 | 頁 | 主題 |
 |------|--------|------|
-| 創 1:1-3, 9 | 99-day-of-eternity.md | 藉神的話造天地——彼後3:5的背景 |
-| 詩 90:1-4, 12 | 03 | 「在你看來，千年如已過的昨日」——彼後3:8的舊約根源 |
-| 詩 97:1-6 | 01 | 神顯現的雲彩、烈火、震動——與登山變像同一脈絡 |
-| 詩 119:105-112, 1-8 | 01 | 「你的話是我腳前的燈」——與彼後1:19「如同燈照在暗處」呼應 |
-| 詩 1 | 02 | 惡人的道路必致滅亡——與假教師的結局呼應 |
-| 摩 8:11-12 | 01（老弟兄查經洞見） | 聽不見耶和華話語的飢荒——與彼後1:19先知的話對照 |
-| 賽 65:17 | 99 | 我造新天新地——彼後3:13所引 |
-| 代上 29:10-11 | 99 | 稱頌直到永永遠遠——與彼後3:18頌榮同一種讚美傳統 |
-| 太 17:1-8；可 9:2-8；路 9:28-36 | 01 | 登山變像事件本身，與彼後1:16-18互相印證 |
-| 太 24:43；帖前 5:2；啟 3:3, 16:15 | 03 | 主的日子要像賊來到——彼後3:10的新約平行經文 |
-| 太 26:72 | 00a | 彼得不認主——與彼得後書作者晚年見證形成對比 |
-| 約 21:18-19 | 01, 00a | 耶穌預言彼得晚年的死——彼後1:14的直接背景 |
-| 徒 20 | 00a | 保羅向以弗所長老的臨別贈言——與彼得後書同屬「臨別遺言」文體 |
-| 徒 27:15, 17 | 01（老弟兄查經·深讀） | 船被風抓住、任風颳去——與彼後1:21「被聖靈感動」同一動詞 |
-| 提後 3:16；4:6-8 | 01, 00a | 聖經都是神所默示的；我現在被澆奠——與彼後1:14, 20-21並讀 |
-| 提前 6:20 | 00b | 似是而非的學問——與彼後2:20-21「假知識」同一組對照 |
-| 啟 2:28；22:16 | 01（老弟兄查經·深讀） | 晨星——彼後1:19「晨星在你們心裏出現」指向同一位基督 |
-| 啟 21:1 | 99 | 新天新地——彼後3:13所引之應許在此得成就 |
+| 創 1:1-3, 9 | 76 起 | 藉神的話造天地——彼後3:5的背景 |
+| 詩 90:1-4, 12 | 54 起 | 「在你看來，千年如已過的昨日」——彼後3:8的舊約根源 |
+| 詩 97:1-6 | 23 起 | 神顯現的雲彩、烈火、震動——與登山變像同一脈絡 |
+| 詩 119:105-112 | 23 起 | 「你的話是我腳前的燈」——與彼後1:19「如同燈照在暗處」呼應 |
+| 詩 1 | 39 起 | 惡人的道路必致滅亡——與假教師的結局呼應 |
+| 摩 8:11-12 | 23 起 | 聽不見耶和華話語的飢荒——與彼後1:19先知的話對照 |
+| 賽 65:17 | 78、79 | 我造新天新地——彼後3:13所引 |
+| 代上 29:10-11 | 76 起 | 稱頌直到永永遠遠——與彼後3:18頌榮同一種讚美傳統 |
+| 太 17:1-8；可 9:2-8；路 9:28-36 | 37 | 登山變像事件本身，與彼後1:16-18互相印證 |
+| 太 24:43；帖前 5:2；啟 3:3, 16:15 | 54 起 | 主的日子要像賊來到——彼後3:10的新約平行經文 |
+| 太 26:72 | 14 | 彼得不認主——與彼得後書作者晚年見證形成對比 |
+| 約 21:18-19 | 13、25、36 | 耶穌預言彼得晚年的死——彼後1:14的直接背景 |
+| 徒 20 | 14 | 保羅向以弗所長老的臨別贈言——與彼得後書同屬「臨別遺言」文體 |
+| 徒 27:15, 17 | 37 | 船被風抓住、任風颳去——與彼後1:21「被聖靈感動」同一動詞 |
+| 提後 3:16；4:6-8 | 8 起；23 起 | 聖經都是神所默示的；我現在被澆奠——與彼後1:14, 20-21並讀 |
+| 提前 6:20 | 19 | 似是而非的學問——與彼後2:20-21「假知識」同一組對照 |
+| 啟 2:28；22:16 | 37 | 晨星——彼後1:19「晨星在你們心裏出現」指向同一位基督 |
+| 啟 21:1 | 78、79 | 新天新地——彼後3:13所引之應許在此得成就 |
 
 ---
 
@@ -2139,14 +2080,14 @@ copyright: |
 | `{\greekfont φιλαδελφία}`{=latex} | philadelphia | 愛弟兄的心 | 1:7 |
 | `{\greekfont ἀγάπη}`{=latex} | agapē | 愛（眾人的心） | 1:7 |
 | `{\greekfont ἐπόπται}`{=latex} | epoptai | 親眼見過的人、目擊者 | 1:16 |
-| `{\greekfont ἴδιος ἐπιλύσεως}`{=latex} | idias epilyseōs | 私意解說 | 1:20 |
+| `{\greekfont ἰδίας ἐπιλύσεως}`{=latex} | idias epilyseōs | 私意解說 | 1:20 |
 | `{\greekfont φερόμενοι}`{=latex} | pheromenoi | 被托著、被帶著走 | 1:21 |
 | `{\greekfont φωσφόρος}`{=latex} | phōsphoros | 晨星 | 1:19 |
 | `{\greekfont δεσπότην}`{=latex} | despotēn | 主宰、擁有者 | 2:1 |
 | `{\greekfont ταρταρώσας}`{=latex} | tartarōsas | 丟在地獄（打入他耳塔羅斯） | 2:4 |
 | `{\greekfont κήρυκα δικαιοσύνης}`{=latex} | kēryka dikaiosynēs | 傳義道的（宣講者） | 2:5 |
 | `{\greekfont τεφρώσας}`{=latex} | tephrōsas | 燒成灰 | 2:6 |
-| `{\greekfont σπίλοι καὶ μῶμοι}`{=latex} | spiloi kai mōmoi | 汙點與疵病 | 2:13 |
+| `{\greekfont σπίλοι καὶ μῶμοι}`{=latex} | spiloi kai mōmoi | 污點與疵病 | 2:13 |
 | `{\greekfont πηγαὶ ἄνυδροι}`{=latex} | pēgai anydroi | 無水的井（泉源） | 2:17 |
 | `{\greekfont ὑπόμνησις}`{=latex} | hypomnēsis | 提醒、使人記念 | 3:1 |
 | `{\greekfont ἐμπαῖκται}`{=latex} | empaiktai | 好譏誚的人、譏誚者 | 3:3 |
@@ -2162,21 +2103,21 @@ copyright: |
 
 ### 主題索引（依全書骨幹「知識」開展）
 
-| 主題 | 主要經文 | 詳見 |
-|------|----------|------|
-| 真知識與假知識的分界 | 1:2-3, 8；2:20；3:18 | `00b-knowledge-spine.md`；01, 02, 03 |
-| 美德階梯（八層） | 1:5-7 | 01「老弟兄查經·要義」 |
-| 使徒見證 vs 編造的神話 | 1:16-18 | 01「老弟兄查經·要義」「歷代注疏」 |
-| 聖經來源與默示 | 1:19-21；提後3:16 | 01「老弟兄查經·深讀」 |
-| 假教師的特徵 | 2:1-3, 10b-16 | 02「老弟兄查經·要義」 |
-| 審判與拯救並列（三組舊約鑒戒） | 2:4-10a | 02「老弟兄查經·要義」 |
-| 與猶大書的文學關係 | 2:4-16；猶6-11 | 02「背景」；`00a-2peter-position.md` |
-| 主的日子與宇宙的終局 | 3:3-13 | 03「老弟兄查經·要義」 |
-| 神的寬容與人的悔改 | 3:8-9 | 03「老弟兄查經·要義」 |
-| 保羅書信的正典地位 | 3:15-16 | 03「老弟兄查經·要義」 |
-| 彼得後書的正典爭議史 | 全書 | `00a-2peter-position.md` |
-| 「臨別遺言」文體 | 1:12-15 | `00a-2peter-position.md` |
-| 永恆的日子（3:18b的獨特措辭） | 3:18 | `99-day-of-eternity.md` |
+| 主題 | 主要經文 | 詳見 | 頁 |
+|------|----------|------|----|
+| 真知識與假知識的分界 | 1:2-3, 8；2:20；3:18 | 卷首〈「知識」——全書的骨幹〉；並見第一、二、三章 | 15 起 |
+| 美德階梯（八層） | 1:5-7 | 第一章「老弟兄查經 · 要義」 | 30 起 |
+| 使徒見證 vs 編造的神話 | 1:16-18 | 第一章「老弟兄查經 · 要義」「歷代注疏」 | 30 起 |
+| 聖經來源與默示 | 1:19-21；提後 3:16 | 第一章「老弟兄查經 · 深讀」 | 30 起 |
+| 假教師的特徵 | 2:1-3, 10b-16 | 第二章「老弟兄查經 · 要義」 | 46 起 |
+| 審判與拯救並列（三組舊約鑑戒） | 2:4-10a | 第二章「背景」「老弟兄查經 · 要義」 | 46 起 |
+| 與猶大書的文學關係 | 2:4-16；猶 6-11 | 第二章「背景」；卷首〈使徒的遺言〉第四節 | 46、8 |
+| 主的日子與宇宙的終局 | 3:3-13 | 第三章「老弟兄查經 · 要義」 | 61 起 |
+| 神的寬容與人的悔改 | 3:8-9 | 第三章「老弟兄查經 · 要義」「歷代注疏」 | 61 起 |
+| 保羅書信的正典地位 | 3:15-16 | 第三章「原文研讀」「老弟兄查經 · 要義」 | 61 起 |
+| 彼得後書的正典爭議史 | 全書 | 卷首〈使徒的遺言〉第一節 | 8 起 |
+| 「臨別遺言」文體 | 1:12-15 | 卷首〈使徒的遺言〉第五節 | 8 起 |
+| 永恆的日子（3:18b 的獨特措辭） | 3:18 | 卷末〈永恆的日子〉第一節 | 75 起 |
 
 
 \newpage
@@ -2247,25 +2188,34 @@ copyright: |
 
 | 出現章 | 講道標題 | 涵蓋經文 | 講道日期 | gty.org連結代碼 | 查證方式 |
 |--------|----------|----------|----------|----------|----------|
-| 01 | *Is Experience a Valid Test of Truth* | 1:16-19 | 未標明 | 90-461 | 經gty.org核實講道逐字稿內容後直引 |
-| 02 | *A Portrait of False Teachers, Part 1* | 2:1-3 | 1990年11月11日 | 61-16 | 經gty.org核實講道逐字稿內容後直引 |
+| 01 | *Is Experience a Valid Test of Truth?* | 1:16-19 | 2013年8月4日 | 90-461 | 逐字稿核實，直引 |
+| 02 | *A Portrait of False Teachers, Part 1* | 2:1-3 | 1990年11月11日 | 61-16 | 逐字稿核實，直引 |
 | 02 | *Divine Judgment on False Teachers, Part 2* | 2:5-10a | 1990年12月16日 | 61-19 | 同上 |
 | 02 | *Creatures Born to Be Killed, Part 1* | 2:10b-14 | 1991年1月6日 | 61-20 | 同上 |
 | 02 | *Creatures Born to Be Killed, Part 2* | 2:15-18a | 1991年1月13日 | 61-21 | 同上 |
 | 02 | *Creatures Born to Be Killed, Part 3* | 2:18b-22 | 1991年1月20日 | 61-22 | 同上 |
-| 03 | *The Certainty of the Second Coming, Part 3* | 3:1-13 | 未標明 | 61-25 | 經gty.org核實講道逐字稿內容後撮述、部分直引 |
-| 03 | *Living in Anticipation of Christ's Return, Part 2* | 3:14-18 | 未標明 | 61-27 | 同上 |
+| 03 | *The Certainty of the Second Coming, Part 3* | 3:10 | 1991年4月21日 | 61-25 | 逐字稿核實，撮述、部分直引 |
+| 03 | *Living in Anticipation of Christ's Return, Part 2* | 3:14-18 | 1991年5月5日 | 61-27 | 同上 |
 
-**誠實說明（2026-08-28更新）**：全部八篇講道之引句已逐一核對gty.org現行刊出之講道逐字稿內容
-（含日期、經文範圍、英語原文措辭），確認02章五篇講道的中文引句與英語原文完全相符，屬已核實
-之逐字引句，不再是初版所稱「頁面摘要」；02章正文「歷代注疏」一節之引句已同步補上英語原文
-對照，供讀者逐字查核。
+**誠實說明（2026-08-30 第二次覆核）**：全部八篇講道已再次逐一開啟 gty.org 現行刊出之逐字稿，
+核對標題、講道日期、經文範圍與所引英語原文措辭，八篇全數相符。本次覆核並補正三處著錄疏漏：
+90-461、61-25、61-27 原記「講道日期未標明」，實則站方均有著錄，現已補上；61-25 原記涵蓋經文
+「3:1-13」，實為「3:10」，已更正。02章正文「歷代注疏」一節之引句均附英語原文對照，供讀者
+逐字查核。
 
 ---
 
 ## 二、G. Campbell Morgan
 
-**誠實說明**：Morgan並未留下如他對約翰福音、路加福音那樣逐節詳盡的彼得後書註釋，其相關材料主要見於《聖經各卷的生命信息》(*The Living Messages of the Books of the Bible*, 1912) 中論彼得書信的簡短篇章。01、02、03三章「摩根深讀」一節，均為對其解經風格與一貫分析取向的一般性應用、撮述，非逐篇逐字引句，各章已自陳此限制。
+**誠實說明（2026-08-30 更新）**：Morgan 並未留下如他對約翰福音、路加福音那樣逐節詳盡的彼得後書註釋，其相關材料見於《聖經各卷的生命信息》(*The Living Messages of the Books of the Bible*, New Testament, Fleming H. Revell, 1912) 中論彼得後書的一章。本次覆核已取得該章全文電子版並逐字核對，故三章的處理方式現分為兩級：
+
+| 出現章 | 性質 | 說明 |
+|--------|------|------|
+| 01 | 一般性歸納 | 「美德階梯是有機生長」「眼瞎是近視」兩則，為依 Morgan 一貫解經取向所作之應用，該章原文無對應逐字段落，正文已自陳此限制，**不加引號** |
+| 02 | 一般性歸納 | 「站立得穩」的主題歸納，同上，**不加引號** |
+| 03 | **逐字引句** | 「responsibilities of grace」「the abiding appeal of the letter is that we give diligence」「remembrance in order to diligence」及所引 3:3-4 譏誚者段落，均為該章逐字原文，已附英文對照 |
+
+初版 03 章曾以引號形式引用一句 "as things have been, so they will remain"，經核對該章原文並無此語，係編者概括之語誤標為引句，本次已刪除並改以 Morgan 實際引用的經文原句取代。
 
 ---
 
@@ -2293,7 +2243,13 @@ copyright: |
 
 ## 五、C. H. Spurgeon
 
-**Charles H. Spurgeon (1834-1892)**，"Growth in Grace"，*Metropolitan Tabernacle Pulpit* 第46卷，The Spurgeon Library (spurgeon.org)——專講彼得後書3:18一節。經spurgeon.org核實其講章原文後直引，見`99-day-of-eternity.md`（該講章確切講日期已不可考，spurgeon.org 站方註明現行日期為後人推估）。
+**Charles H. Spurgeon (1834-1892)**，"Growth in Grace"，*Metropolitan Tabernacle Pulpit* 第46卷，The Spurgeon Library (spurgeon.org)——專講彼得後書3:18一節，spurgeon.org 著錄講道日期為1858年10月17日（該講章身後編入第46卷出版）。見`99-day-of-eternity.md`。
+
+**勘誤（2026-08-30）**：本書初版在`99-day-of-eternity.md`以引號形式引用了一句
+"The way to stand, then, is to go forward; the way to be steadfast is to progress; the way to be alive, according to the apostle, is to 'grow in grace…'"，
+並在本附錄聲稱該句「經spurgeon.org核實其講章原文後直引」。本次覆核逐字比對該講章全文，**確認司布真並無此句**；講章中對應的原句是
+"The way to stand is to grow; the way to be steadfast is to go forward."
+初版所引係編者擴寫之語誤標為逐字引句，與本書「不編造一條注疏」的自我要求相違。現已於正文改用經核實之原句，並補入同章另一段經核實之逐字比喻（孩童玩具的例子）。初版關於「講道日期已不可考」的說明亦一併更正。此處如實記錄，不作淡化。
 
 ---
 
@@ -2314,9 +2270,38 @@ copyright: |
 
 ## 七、經文版本
 
-中文經文一律採和合本 (CUV)，逐節經 cnbible.com（網址格式為 `2_peter/chapter-verse.htm`）核對，並以 ai-eden.com 為主要核對來源（網址格式為 `bible/2pe/chapter?t=CUV,ESV&cols=2`，因JS渲染與速率限制，多數查證實際以cnbible.com完成，兩者交叉核對無衝突）。English 一律採 ESV，經 biblegateway.com / esv.org 核對。
+中文經文一律採和合本 (CUV)，逐節經 cnbible.com（網址格式為 `2_peter/chapter-verse.htm`）核對，並以 ai-eden.com 為主要核對來源（網址格式為 `bible/2pe/chapter?t=CUV,ESV&cols=2`，因JS渲染與速率限制，多數查證實際以cnbible.com完成，兩者交叉核對無衝突）。English 一律採 **NASB 2020**（New American Standard Bible，The Lockman Foundation），經 biblehub.com 之 NASB 2020 章頁（網址格式 `biblehub.com/nasb_/2_peter/<chapter>.htm`）逐節核對。**注意**：biblehub 的 `nasb/`（無底線）章頁供的是 NASB **1995**，`nasb_/`（有底線）才是 2020；兩版在本卷至少 3:10 一節有實質差異（1995 作 "will be burned up"，2020 作 "will be discovered"），取錯版本會直接影響第三章的異文註。
+
+**經文逐節覆核（2026-08-31）**：全書 61 節和合本經文首次以程式逐節比對兩個獨立來源（cnbible.com 與信望愛 bible.fhl.net 之和合本），查出並更正**四處字級誤植**——初版所印與兩個來源皆不符：
+
+| 經文 | 初版誤作 | 和合本原文 |
+|------|----------|------------|
+| 2:6 | 後世不敬虔人的**鑒**戒 | **鑑**戒 |
+| 2:13 | 行**得**不義 | 行**的**不義 |
+| 2:19 | 自己卻**做**敗壞的奴僕 | 自己卻**作**敗壞的奴僕 |
+| 3:12 | 有形質的都要被烈火**熔**化 | 烈火**鎔**化 |
+
+各章正文與相關索引、標題已一併更正。覆核後全書僅餘兩類刻意差異：（一）「裡」一律作「裏」，為本系列既定用字體例（1:19、2:22、3:4）；（二）2:1「自取速速的滅亡」——此處各數位版和合本本有「的／地」異文，本書從 cnbible.com 作「的」。另全書標點依本書體例作過統一（如刪去「（有古卷……）」「（原文是……）」等譯註夾注、部分句讀改用頓號），共 17 節，均不涉字義。
+
+**這一項應當如實記下**：本附錄先前即聲稱經文「逐節經 cnbible.com 核對」，而上述四處誤植顯示該次核對並未真正逐節執行。本次改以程式比對，並保留比對方法，供日後重驗。
+
+**用字統一（2026-08-30）**：初版全書「汙／污」「着／著」「纔／才」三組異體字混用（分別為15處、9處、2處），其中「汙穢／玷汙」與 cnbible.com 所載和合本原文（「污穢」「玷污」）不符。現已全書統一為「污」「著」「才」，並以和合本原文為準重新核對各章「經文」小節。
+
+**英譯版本與引用範圍（NASB 2020）**：本書英譯原採 ESV，2026-08-31 依用戶指定改用 **NASB 2020**。引用範圍不變——01章13節（1:1-7、1:16-21）、02章22節、03章18節，另卷首〈知識的骨幹〉引1:2-3、2:20、3:18與提前6:20，全書合計 53 節彼得後書經文，未及全卷61節。第一章刻意只列正在解說的兩段；二、三章為全章。
+
+此範圍在 The Lockman Foundation 的 NASB 標準授權條款之內：**1,000 節以內、不超過本書總文字的 50%、且不構成聖經任何一卷之全文**，三項均遠未觸及（Lockman 的節數上限較 Crossway 的 500 節寬鬆，此為改版的實際好處之一）。版權聲明依 Lockman 規定之措辭置於版權頁，與本系列《約翰福音研讀 NASB 版》所用者逐字相同。
+
+**體例說明**：NASB 以小型大寫字排印舊約引句（如 2:22 引箴26:11）；本書無小型大寫字體，一律改排為正常大小寫，不另加標記。
+
+**版本一致性提醒**：本系列目前 NASB 版本並不統一——《約翰福音研讀 NASB 版》用 2020，《腓利門書研讀》用 1995，本卷從 2020。日後若統一全系列英譯版本，此三卷需一併重訂。
 
 **2026年8月校對覆核**：全書十份檔案經獨立校對，發現並修正約29處引文與格式問題（含彼後3:1、3:13誤引、太26:72人稱誤引、猶大書12節誤引、MacArthur講道出處錯置等），修正後全書3:18引句已核對一致。
+
+**2026-08-30 出版標準覆核（第二輪）**：全書依專業出版標準重新審閱，逐項處理如下——
+（一）**引文誠信**：八篇 MacArthur 講道、加爾文三處、俄利根／優西比烏三處、Morgan 一章，全部重新開啟原始來源逐字核對，結果相符；唯司布真一處查出為編者擴寫誤標為直引，已更正並於本附錄第五節如實記錄。
+（二）**出處誤植**：刪去〈使徒的遺言〉一章對老弟兄「在羅馬教過牧養課程」之無據描述；`01`章一處具名「黃長老」與卷首「不寫姓名」之聲明相違，已改回「老弟兄」。
+（三）**交叉引註**：修正`02`章「3:6」失效引註（實指約6:70-71）、本書索引誤列詩119:1-8。
+（四）**體例統一**：Morgan 書名中譯三種並存，統一為《聖經各卷的生命信息》；各章重複之「配詩」小節、`00`與`00b`重複之表格，均已整併。
 
 
 \newpage

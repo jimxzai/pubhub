@@ -85,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 基督的得勝靠祂話語的權柄，而非武力的較量 (Christ's Victory Comes by the Authority of His Word, Not by Military Force)
 

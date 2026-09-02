@@ -6,7 +6,7 @@ date: 2026年7月
 publisher: 三書精讀出版系統
 ---
 
-# 附錄：參考資料 (Appendix: References)
+# 附錄一：參考資料 (Appendix I: References)
 
 本附錄彙整 00-overview.md 及 01-13 各章「歷代注疏 (Historical Commentary)」與「三大資源深度整合 (Deep Integration: Three Core Resources)」兩節中實際引用過的全部真實出處，按作者分類、去重整理。每一條目盡量標明講題／篇章、經文範圍、日期（若原章節有註明）與網址；同一出處在多章重複引用時，合併為一條，並在「出現章」欄列出全部章號。凡原章節本身已標明「非逐字引句」「主旨轉述」「未能逐字核實」「僅以已核實部分為據」之處，本附錄如實保留該誠實說明，不逕行改寫為逐字引文，也不將部分核實的引句升級為完整核實。
 
@@ -16,33 +16,33 @@ publisher: 三書精讀出版系統
 
 | 講題 | 經文範圍 | 日期 | 網址 | 出現章 |
 |------|------|------|------|------|
-| *Jesus Christ, Superior to Angels, Part 1* | 來1:4-6 | 1972年2月6日 | https://www.gty.org/library/sermons-library/1602/jesus-christ-superior-to-angels-part-1 | 01 |
-| *Jesus Christ, Superior to Angels, Part 2* | 來1:4-14 | 1972年2月13日 | https://www.gty.org/library/sermons-library/1603/jesus-christ-superior-to-angels-part-2 | 01 |
-| *The Tragedy of Neglecting Salvation* | 來2:1-4 | 1972年2月27日 | https://www.gty.org/library/sermons-library/1604/the-tragedy-of-neglecting-salvation | 02 |
-| *Our Perfect Savior* | 來2:9-18 | 1972年3月12日 | https://www.gty.org/library/sermons-library/1606/our-perfect-savior | 02 |
-| *Jesus Christ, Greater than Moses* | 來3:1-6 | 1972年4月9日 | https://www.gty.org/library/sermons-library/1607/jesus-christ-greater-than-moses | 03 |
-| *Harden Not Your Hearts* | 來3:7-19 | 1972年4月16日 | https://www.gty.org/library/sermons-library/1608/harden-not-your-hearts | 03 |
-| *Entering into God's Rest* | 來4:1-13 | 1972年4月23日（Sermon #1609） | https://www.gty.org/sermons/1609/entering-into-gods-rest | 04 |
-| *Jesus Christ, the Perfect Priest* | 來5:1-9 | 1972年5月7日 | https://www.gty.org/sermons/1611/jesus-christ-the-perfect-priest | 05 |
-| *If They Fall Away* | 來5:10-6:12 | 1975年2月23日 | https://www.gty.org/library/sermons-library/1304/if-they-fall-away | 06 |
-| *The Securities of God's Promise* | 來6:13-20 | 1972年6月11日（*Hebrews, Vol. 02* 系列） | https://www.gty.org/library/sermons-library/1615/the-securities-of-gods-promise | 06 |
-| *Melchizedek: A Type of Christ* | 來7:1-10 | 1972年7月2日 | https://www.gty.org/library/sermons-library/1616/melchizedek-a-type-of-christ | 07 |
-| *Jesus: The Superior Priest* | 來7:11-19 | 1972年8月20日 | https://gty.org/library/sermons-library/1617/jesus-the-superior-priest | 07 |
-| *Jesus: The Guarantee of a Better Covenant* | 來7:20-28 | 1972年8月27日 | https://gty.org/library/sermons-library/1618/jesus-the-guarantee-of-a-better-covenant | 07 |
-| *The New Covenant, Part 1* | 來8:1-13 | 1972年9月10日 | https://www.gty.org/sermons/1619/the-new-covenant-part-1 | 08 |
-| *The New Covenant, Part 2* | 來9:1-14 | 1972年9月17日 | https://www.gty.org/sermons/1620/the-new-covenant-part-2 | 09 |
-| *Christ: The Living Sacrifice* | 來10:1-18 | 1972年10月22日 | https://www.gty.org/library/sermons-library/1622/christ--the-living-sacrifice | 10 |
-| *Responding to the New Covenant* | 來10:19-25 | 1972年11月5日 | https://www.gty.org/library/sermons-library/1623/responding-to-the-new-covenant | 10 |
-| *Apostasy: The Negative Response to the New Covenant, Part 2* | 來10:28-39 | 1972年11月19日 | https://www.gty.org/library/sermons-library/1625/apostasy-the-negative-response-to-the-new-covenant-part-2 | 10 |
-| *The Substance of Faith* | 來11:1-3 | 2009年10月18日（Sermon 90-381） | https://www.gty.org/library/sermons-library/90-381/the-substance-of-faith | 11 |
-| *Running the Race That Is Set Before Us* | 來12:1-4 | 1977年6月5日 | https://www.gty.org/sermons/1254/running-the-race-that-is-set-before-us | 12 |
-| *The Discipline of God* | 來12:5-11 | 1977年7月3日 | https://www.gty.org/library/sermons-library/1255/the-discipline-of-god | 12 |
-| *Christian Ethics, Pt. 2: The Principles of Contentment* | 來13:5-6 | 1973年5月13日 | https://www.gty.org/library/sermons-library/1640/christian-ethics-pt-2-the-principles-of-contentment | 13 |
+| *Jesus Christ, Superior to Angels, Part 1* | 來1:4-6 | 1972-02-06 | https://www.gty.org/library/sermons-library/1602/jesus-christ-superior-to-angels-part-1 | 01 |
+| *Jesus Christ, Superior to Angels, Part 2* | 來1:4-14 | 1972-02-13 | https://www.gty.org/library/sermons-library/1603/jesus-christ-superior-to-angels-part-2 | 01 |
+| *The Tragedy of Neglecting Salvation* | 來2:1-4 | 1972-02-27 | https://www.gty.org/library/sermons-library/1604/the-tragedy-of-neglecting-salvation | 02 |
+| *Our Perfect Savior* | 來2:9-18 | 1972-03-12 | https://www.gty.org/library/sermons-library/1606/our-perfect-savior | 02 |
+| *Jesus Christ, Greater than Moses* | 來3:1-6 | 1972-04-09 | https://www.gty.org/library/sermons-library/1607/jesus-christ-greater-than-moses | 03 |
+| *Harden Not Your Hearts* | 來3:7-19 | 1972-04-16 | https://www.gty.org/library/sermons-library/1608/harden-not-your-hearts | 03 |
+| *Entering into God's Rest* | 來4:1-13 | 1972-04-23（Sermon #1609） | https://www.gty.org/sermons/1609/entering-into-gods-rest | 04 |
+| *Jesus Christ, the Perfect Priest* | 來5:1-9 | 1972-05-07 | https://www.gty.org/sermons/1611/jesus-christ-the-perfect-priest | 05 |
+| *If They Fall Away* | 來5:10-6:12 | 1975-02-23 | https://www.gty.org/library/sermons-library/1304/if-they-fall-away | 06 |
+| *The Securities of God's Promise* | 來6:13-20 | 1972-06-11（*Hebrews, Vol. 02* 系列） | https://www.gty.org/library/sermons-library/1615/the-securities-of-gods-promise | 06 |
+| *Melchizedek: A Type of Christ* | 來7:1-10 | 1972-07-02 | https://www.gty.org/library/sermons-library/1616/melchizedek-a-type-of-christ | 07 |
+| *Jesus: The Superior Priest* | 來7:11-19 | 1972-08-20 | https://gty.org/library/sermons-library/1617/jesus-the-superior-priest | 07 |
+| *Jesus: The Guarantee of a Better Covenant* | 來7:20-28 | 1972-08-27 | https://gty.org/library/sermons-library/1618/jesus-the-guarantee-of-a-better-covenant | 07 |
+| *The New Covenant, Part 1* | 來8:1-13 | 1972-09-10 | https://www.gty.org/sermons/1619/the-new-covenant-part-1 | 08 |
+| *The New Covenant, Part 2* | 來9:1-14 | 1972-09-17 | https://www.gty.org/sermons/1620/the-new-covenant-part-2 | 09 |
+| *Christ: The Living Sacrifice* | 來10:1-18 | 1972-10-22 | https://www.gty.org/library/sermons-library/1622/christ--the-living-sacrifice | 10 |
+| *Responding to the New Covenant* | 來10:19-25 | 1972-11-05 | https://www.gty.org/library/sermons-library/1623/responding-to-the-new-covenant | 10 |
+| *Apostasy: The Negative Response to the New Covenant, Part 2* | 來10:28-39 | 1972-11-19 | https://www.gty.org/library/sermons-library/1625/apostasy-the-negative-response-to-the-new-covenant-part-2 | 10 |
+| *The Substance of Faith* | 來11:1-3 | 2009-10-18（Sermon 90-381） | https://www.gty.org/library/sermons-library/90-381/the-substance-of-faith | 11 |
+| *Running the Race That Is Set Before Us* | 來12:1-4 | 1977-06-05 | https://www.gty.org/sermons/1254/running-the-race-that-is-set-before-us | 12 |
+| *The Discipline of God* | 來12:5-11 | 1977-07-03 | https://www.gty.org/library/sermons-library/1255/the-discipline-of-god | 12 |
+| *Christian Ethics, Pt. 2: The Principles of Contentment* | 來13:5-6 | 1973-05-13 | https://www.gty.org/library/sermons-library/1640/christian-ethics-pt-2-the-principles-of-contentment | 13 |
 | *Christian Ethics, Pt. 4: Submission and Supplication*（同系列，13章正文僅提及篇名與經文範圍，未附網址、未逐字核實） | 來13:17-19 | — | — | 13 |
 
 **其他背景資源（歷代注疏〈當代釋經〉一節引用，屬 MacArthur 之注釋書而非 gty.org 講章，未附網址）**：
 
-- John MacArthur, *MacArthur New Testament Commentary: Hebrews* — 於 01、05、06、08、10 章之「歷代注疏．當代釋經」小節被引用（分別論1:3基督神性的完整宣告、5:11-14屬靈幼稚的責備、6:9作為解讀警告的鑰匙、8章新約的完整解釋、10:26「故意犯罪」的上下文）
+- John MacArthur, *MacArthur New Testament Commentary: Hebrews* — 於 01、05、06、08、10 章之「歷代注疏 · 當代釋經」小節被引用（分別論1:3基督神性的完整宣告、5:11-14屬靈幼稚的責備、6:9作為解讀警告的鑰匙、8章新約的完整解釋、10:26「故意犯罪」的上下文）
 
 ---
 
@@ -86,7 +86,7 @@ publisher: 三書精讀出版系統
 | （未標明著作）基督成為人是因人的需要，非祂自己的需要 | 來2:14-18 | 02 |
 | （未標明著作）曠野世代的失敗在於缺乏信心而非缺乏神蹟 | 來3:7-19 | 03 |
 | *Confessions* | 來4:9-10，神的安息是工作完成後的滿足 | 04 |
-| （未標明著作）基督禱告蒙應允，是神使祂從死裡復活 | 來5:7 | 05 |
+| （未標明著作）基督禱告蒙應允，是神使祂從死裏復活 | 來5:7 | 05 |
 | （未標明著作）真正被揀選的人不會最終離棄 | 來6:4-6 | 06 |
 | *The Spirit and the Letter* | 來8:10，新舊約的區別在於賜予的方式（外在命令／內在的愛） | 08 |
 | （未標明著作）祭物和禮物不是神最終的目的，神要的是順服的心 | 來10:5-10 | 10 |
@@ -153,7 +153,7 @@ publisher: 三書精讀出版系統
 | 來8:12「不再記念他們的罪」——福音的心臟，永遠完全的赦免 | 08 |
 | 來9:27「死後且有審判」——對一切錯誤盼望的終結 | 09 |
 | 來10:12「坐在神的右邊」——工作完成，無可再添 | 10 |
-| 來11:8亞伯拉罕「不知道往哪裡去」——信心只需要認識帶路的那一位 | 11 |
+| 來11:8亞伯拉罕「不知道往哪裏去」——信心只需要認識帶路的那一位 | 11 |
 | 來12:14「非聖潔沒有人能見主」——聖潔是得救的必然結果 | 12 |
 | 來13:5「我絕不撇下你」——神應許的絕對性與無條件性 | 13 |
 
@@ -167,7 +167,7 @@ publisher: 三書精讀出版系統
 
 ## 四、當代釋經 (Contemporary Commentary)
 
-（下列均見於各章「歷代注疏．當代釋經」小節，與 MacArthur、Morgan 之「三大資源」引用分開列出。）
+（下列均見於各章「歷代注疏 · 當代釋經」小節，與 MacArthur、Morgan 之「三大資源」引用分開列出。）
 
 ### F.F. 布魯斯 (F.F. Bruce)，*The Epistle to the Hebrews* (NICNT)
 
@@ -175,7 +175,7 @@ publisher: 三書精讀出版系統
 |------|------|
 | 作者刻意選擇無法應用於天使的經文，高舉基督到應得的位置 | 01 |
 | 「安息日的安息」是圓滿、喜樂、慶典式的安息，信徒終極的盼望 | 04 |
-| 6:4-6的警告是嚴肅真實的，對真正在基督裡的人是保護而非威脅 | 06 |
+| 6:4-6的警告是嚴肅真實的，對真正在基督裏的人是保護而非威脅 | 06 |
 | 耶利米書31章是舊約中「新約」一詞唯一出現之處 | 08 |
 | 「不可停止聚會」在今天仍然適用，孤獨的基督徒容易被獵捕 | 10 |
 | 信心英雄不是超人，是信靠神應許勝過眼前環境的普通人 | 11 |
@@ -210,4 +210,4 @@ publisher: 三書精讀出版系統
 
 *本附錄僅收錄 00-overview.md 及 01-13 各章正文中實際出現、可追溯至具體出處的引文與資源，不另行增列未經各章驗證引用的學術著作。*
 
-*三書精讀項目 · 希伯來書研讀 · 附錄：參考資料*
+*三書精讀項目 · 希伯來書研讀 · 附錄一：參考資料*

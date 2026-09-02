@@ -87,7 +87,7 @@
 
 ---
 
-## 13.5 神學要點 (Theological Points)
+## 13.5 領受要點 (Truths Received)
 
 ### 1. 「**是我，不要怕**」 — 整本聖經的縮影
 

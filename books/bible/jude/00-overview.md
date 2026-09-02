@@ -231,7 +231,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學主題 (Theological Themes)
+## 領受主題 (Truths Received)
 
 ### 1. 真道的確定性
 「從前一次交給聖徒的真道」(*hapax paradotheisē*)：

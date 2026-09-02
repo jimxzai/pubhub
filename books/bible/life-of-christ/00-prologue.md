@@ -287,7 +287,7 @@ URL 格式：`/bible/{book}/{chapter}?t=CUV,ESV&cols=2`
 2. **背景 (Context)** — 歷史、地理、文化、政治
 3. **原文研讀 (Word Study)** — 希臘文／希伯來文關鍵詞
 4. **解經洞見 (Commentary)** — 教父與當代解經
-5. **神學要點 (Theological Points)** — 系統神學的核心
+5. **領受要點 (Truths Received)** — 整本聖經真理的核心
 6. **個人反思 (Personal Reflection)** — 默想與應用
 7. **配詩 (Hymns & Psalms)** — 聖詩 + 詩篇配應
 

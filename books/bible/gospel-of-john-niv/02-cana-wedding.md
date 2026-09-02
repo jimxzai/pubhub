@@ -78,7 +78,7 @@ publisher: 三書精讀出版系統
 | *hydria* | hydria | 水缸 | 用於潔淨禮儀 |
 | *archi-triklinos* | architriklinos | 管宴席的 | 宴會總管 |
 
-### 「時候」(*hōra*) 的神學意義
+### 「時候」(*hōra*) 的屬靈意義
 
 約翰福音中「我的時候」出現多次，始終指向十字架：
 - 2:4 — 「我的時候還沒有到」
@@ -89,7 +89,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 新約超越舊約
 

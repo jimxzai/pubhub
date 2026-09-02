@@ -93,7 +93,7 @@
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 不可按外貌待人 (No Partiality)
 

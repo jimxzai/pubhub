@@ -86,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 敬拜先於審判——得勝者已經站在得勝的位置上 (Worship Precedes Judgment — the Overcomers Already Stand in Victory)
 

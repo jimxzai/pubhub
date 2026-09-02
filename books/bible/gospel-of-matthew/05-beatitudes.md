@@ -192,7 +192,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 天國憲章，非得救條件 (Constitution, Not Condition)
 

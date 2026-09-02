@@ -91,7 +91,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 神的話語同時是甘甜與苦澀的 (God's Word Is Both Sweet and Bitter)
 

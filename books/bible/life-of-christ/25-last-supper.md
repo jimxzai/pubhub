@@ -107,7 +107,7 @@
 
 ---
 
-## 25.5 神學要點 (Theological Points)
+## 25.5 領受要點 (Truths Received)
 
 ### 1. 主餐 = 立新約典禮
 

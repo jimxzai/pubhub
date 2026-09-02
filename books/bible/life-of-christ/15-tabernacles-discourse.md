@@ -104,7 +104,7 @@
 
 ---
 
-## 15.5 神學要點 (Theological Points)
+## 15.5 領受要點 (Truths Received)
 
 ### 1. 第二個「我是」：世界的光
 

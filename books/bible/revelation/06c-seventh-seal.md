@@ -85,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 靜默不是缺席，而是敬畏的預備 (Silence Is Not Absence, but Reverent Preparation)
 

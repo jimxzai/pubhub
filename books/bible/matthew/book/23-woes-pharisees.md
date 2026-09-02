@@ -43,15 +43,15 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^那時，耶穌對眾人和門徒講論，^2^說：\jesus{「文士和法利賽人坐在摩西的位上，^3^凡他們所吩咐你們的，你們都要謹守遵行；但不要效法他們的行為；因為他們能說，不能行。^4^他們把難擔的重擔捆起來，擱在人的肩上，但自己一個指頭也不肯動。^5^他們一切所做的事都是要叫人看見，所以將佩戴的經文做寬了，衣裳的繸子做長了，^6^喜愛筵席上的首座，會堂裏的高位，^7^又喜愛人在街市上問他安，稱呼他拉比（拉比就是夫子）。^8^但你們不要受拉比的稱呼，因為只有一位是你們的夫子；你們都是弟兄。^9^也不要稱呼地上的人為父，因為只有一位是你們的父，就是在天上的父。^10^也不要受師尊的稱呼，因為只有一位是你們的師尊，就是基督。^11^你們中間誰為大，誰就要作你們的用人。^12^凡自高的，必降為卑；自卑的，必升為高。」}
+> ^1^那時，耶穌對眾人和門徒講論，^2^說：\jesus{「文士和法利賽人坐在摩西的位上，^3^凡他們所吩咐你們的，你們都要謹守遵行。但不要效法他們的行為；因為他們能說，不能行。^4^他們把難擔的重擔捆起來，擱在人的肩上，但自己一個指頭也不肯動。^5^他們一切所做的事都是要叫人看見，所以將佩戴的經文做寬了，衣裳的繸子做長了，^6^喜愛筵席上的首座，會堂裏的高位，^7^又喜愛人在街市上問他安，稱呼他拉比（拉比就是夫子）。^8^但你們不要受拉比的稱呼，因為只有一位是你們的夫子；你們都是弟兄。^9^也不要稱呼地上的人為父，因為只有一位是你們的父，就是在天上的父。^10^也不要受師尊的稱呼，因為只有一位是你們的師尊，就是基督。^11^你們中間誰為大，誰就要作你們的用人。^12^凡自高的，必降為卑；自卑的，必升為高。」}
 
 > ^23^\jesus{「你們這假冒為善的文士和法利賽人有禍了！因為你們將薄荷、茴香、芹菜，獻上十分之一，那律法上更重的事，就是公義、憐憫、信實，反倒不行了。這更重的是你們當行的；那也是不可不行的。^24^你們這瞎眼領路的，蠓蟲你們就濾出來，駱駝你們倒吞下去。^25^你們這假冒為善的文士和法利賽人有禍了！因為你們洗淨杯盤的外面，裏面卻盛滿了勒索和放蕩。^26^你這瞎眼的法利賽人，先洗淨杯盤的裏面，好叫外面也乾淨了。^27^你們這假冒為善的文士和法利賽人有禍了！因為你們好像粉飾的墳墓，外面好看，裏面卻裝滿了死人的骨頭和一切的污穢。^28^你們也是如此，在人前，外面顯出公義來，裏面卻裝滿了假善和不法的事。」}
 
 ### English — NASB
 
-> ^1^Then Jesus spoke to the crowds and to His disciples, ^2^\jesus{saying: "The scribes and the Pharisees have seated themselves in the chair of Moses; ^3^therefore all that they tell you, do and observe, but do not do according to their deeds; for they say \textit{things} and do not do \textit{them.} ^4^They tie up heavy burdens and lay them on men's shoulders, but they themselves are unwilling to move them with \textit{so much as} a finger. ^5^But they do all their deeds to be noticed by men; for they broaden their phylacteries and lengthen the tassels \textit{of their garments.} ^6^They love the place of honor at banquets and the chief seats in the synagogues, ^7^and respectful greetings in the market places, and being called Rabbi by men. ^8^But do not be called Rabbi; for One is your Teacher, and you are all brothers. ^9^Do not call \textit{anyone} on earth your father; for One is your Father, He who is in heaven. ^10^Do not be called leaders; for One is your Leader, \textit{that is,} Christ. ^11^But the greatest among you shall be your servant. ^12^Whoever exalts himself shall be humbled; and whoever humbles himself shall be exalted.}
+> ^1^Then Jesus spoke to the crowds and to His disciples, ^2^\jesus{saying: "The scribes and the Pharisees have seated themselves in the chair of Moses; ^3^therefore all that they tell you, do and observe, but do not do according to their deeds; for they say \textit{things} and do not do \textit{them.} ^4^They tie up heavy burdens and lay them on men's shoulders, but they themselves are unwilling to move them with \textit{so much as} a finger. ^5^But they do all their deeds to be noticed by men; for they broaden their phylacteries and lengthen the tassels \textit{of their garments.} ^6^They love the place of honor at banquets and the chief seats in the synagogues, ^7^and respectful greetings in the market places, and being called Rabbi by men. ^8^But do not be called Rabbi; for One is your Teacher, and you are all brothers. ^9^Do not call \textit{anyone} on earth your father; for One is your Father, He who is in heaven. ^10^Do not be called leaders; for One is your Leader, \textit{that is,} Christ. ^11^But the greatest among you shall be your servant. ^12^Whoever exalts himself shall be humbled; and whoever humbles himself shall be exalted."}
 
-> ^23^\jesus{"Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cummin, and have neglected the weightier provisions of the law: justice and mercy and faithfulness; but these are the things you should have done without neglecting the others. ^24^You blind guides, who strain out a gnat and swallow a camel! ^25^Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the dish, but inside they are full of robbery and self-indulgence. ^26^You blind Pharisee, first clean the inside of the cup and of the dish, so that the outside of it may become clean also. ^27^Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs which on the outside appear beautiful, but inside they are full of dead men's bones and all uncleanness. ^28^So you, too, outwardly appear righteous to men, but inwardly you are full of hypocrisy and lawlessness.}
+> ^23^\jesus{"Woe to you, scribes and Pharisees, hypocrites! For you tithe mint and dill and cummin, and have neglected the weightier provisions of the law: justice and mercy and faithfulness; but these are the things you should have done without neglecting the others. ^24^You blind guides, who strain out a gnat and swallow a camel! ^25^Woe to you, scribes and Pharisees, hypocrites! For you clean the outside of the cup and of the dish, but inside they are full of robbery and self-indulgence. ^26^You blind Pharisee, first clean the inside of the cup and of the dish, so that the outside of it may become clean also. ^27^Woe to you, scribes and Pharisees, hypocrites! For you are like whitewashed tombs which on the outside appear beautiful, but inside they are full of dead men's bones and all uncleanness. ^28^So you, too, outwardly appear righteous to men, but inwardly you are full of hypocrisy and lawlessness."}
 
 ## 背景 (Context)
 
@@ -79,12 +79,12 @@ publisher: 三書精讀出版系統
 
 | 希臘文 | 音譯 | 意義 | 註解 |
 |-------------------------|------------------|------------------|------------------|
-| ὑποκριτής | hypokritēs | 演員、假冒為善的人 | 希臘戲劇的「戴面具的人」——本章的鑰詞，2、13、15、23、25、27、29節反覆出現 |
-| οὐαί | ouai | 有禍了 | 先知性審判的宣告詞，舊約先知常用的哀嘆／警告詞（賽5:8-23; 哈2:6-19） |
+| ὑποκριτής | hypokritēs | 演員、假冒為善的人 | 希臘戲劇的「戴面具的人」——本章的鑰詞，13、14、15、23、25、27、29節反覆出現 |
+| οὐαί | ouai | 有禍了 | 先知性審判的宣告詞，舊約先知常用的哀嘆／警告詞（賽5:8-23；哈2:6-19） |
 | γραμματεύς | grammateus | 文士 | 律法的抄寫者與解釋者，猶太教的「經學家」階層 |
 | φυλακτήριον | phylaktērion | 經文匣 | 即 tefillin，本為謹守申6:8的記號，卻被做寬以炫耀 |
 | κράσπεδον | kraspedon | 衣裳的繸子 | 即民15:38的流蘇，本為提醒守誡命的記號 |
-| τυφλός | typhlos | 瞎眼的 | 23章七次出現的另一個關鍵詞——他們自以為看得清楚，實則是「瞎眼領路的」(23:16, 17, 19, 24, 26) |
+| τυφλός | typhlos | 瞎眼的 | 23章五次出現的另一個關鍵詞——他們自以為看得清楚，實則是「瞎眼領路的」(23:16, 17, 19, 24, 26) |
 
 ### οὐαί——先知的哀嘆，不只是咒詛
 
@@ -92,7 +92,7 @@ publisher: 三書精讀出版系統
 
 ### ὑποκριτής——面具與臉
 
-在希臘戲劇裏，*hypokritēs* 是演員在舞台上戴著面具，扮演一個不是自己的角色。耶穌用這個字形容文士和法利賽人：**他們的敬虔是一場表演，觀眾是人，不是神。**23章反覆出現這個字（七次），像鏡子照出六副面具：教師（23:2-3）、傳教士（23:15）、起誓守法（23:16-22）、十一奉獻（23:23）、潔淨（23:25）、敬拜先賢（23:29）。
+在希臘戲劇裏，*hypokritēs* 是演員在舞台上戴著面具，扮演一個不是自己的角色。耶穌用這個字形容文士和法利賽人：**他們的敬虔是一場表演，觀眾是人，不是神。**23章反覆出現這個字（七次：13、14、15、23、25、27、29節），而全章像鏡子照出六副面具：教師（23:2-3）、傳教士（23:15）、起誓守法（23:16-22）、十一奉獻（23:23）、潔淨（23:25）、敬拜先賢（23:29）。
 
 ---
 
@@ -113,12 +113,14 @@ publisher: 三書精讀出版系統
 | # | 經文 | 內容 |
 |----------------|--------------------------------|--------------------------------|
 | 1 | 23:13 | 自己不進天國，也不容別人進去 |
-| 2 | 23:15 | 走遍海洋陸地，勾引一個人入教，卻使他成為加倍的地獄之子 |
+| 2 | 23:15 | 走遍洋海陸地，勾引一個人入教，卻使他作地獄之子，比你們還加倍 |
 | 3 | 23:16-22 | 瞎眼領路的，發明「指著金子起誓才算數」之類的詭辯，本末倒置 |
 | 4 | 23:23-24 | 將薄荷、茴香、芹菜獻上十分之一，卻忽略律法上更重的公義、憐憫、信實——「蠓蟲你們就濾出來，駱駝你們倒吞下去」 |
 | 5 | 23:25-26 | 洗淨杯盤的外面，裏面卻盛滿了勒索和放蕩 |
 | 6 | 23:27-28 | 好像粉飾的墳墓，外面好看，裏面卻裝滿死人的骨頭和一切的污穢 |
-| 7 | 23:29-36 | 建造先知的墳，裝飾義人的墓，卻是殺害先知之人的子孫，將要把這一切世代積累的義人血債擔在自己身上 |
+| 7 | 23:29-36 | 建造先知的墳，修飾義人的墓，卻是殺害先知之人的子孫，將要把這一切世代積累的義人血債擔在自己身上 |
+
+**版本說明**：和合本在23:13之後另有23:14（「侵吞寡婦的家產，假意做很長的禱告」），並註明「有古卷加」——此節在部分抄本中另立一節，多數早期抄本則無。若把23:14計入，全章「有禍了」可數出八次；本書依較早抄本的傳統，仍以「七禍」稱之。
 
 七禍是一層一層剝開同一個問題：一至三禍剝開他們對「進天國」與「起誓」這類神聖之事的操弄；四至六禍剝開他們對「潔淨」的錯置——對付外面的雜草與污漬，放過裏面真正致命的；第七禍最深：他們以為自己與殺害先知的祖宗不同，其實正重演同一齣戲，即將演到最高潮——殺害那位比眾先知更大的先知。
 
@@ -140,7 +142,7 @@ publisher: 三書精讀出版系統
 
 「看哪，你們的家成為荒場留給你們」預告了聖殿即將被拆毀（主後70年應驗）——耶穌剛從聖殿走出來，就對門徒說「將來在這裏沒有一塊石頭留在石頭上」(24:2)。**23章的結尾與24章的開頭，是同一句話的兩種說法。**
 
-哀歎的最後一句話留下一個懸而未決的應許：\jesus{「我告訴你們，從今以後，你們不得再見我，直等到你們說：『奉主名來的是應當稱頌的！』」}(23:39)——這句話引自詩篇118:26，正是21:9群眾在榮耀進城時已經喊過的話。這世代這一次拒絕了「奉主名來的」君王，但拒絕不是終局。**審判之後，仍有盼望。**
+哀歎的最後一句話留下一個懸而未決的應許：\jesus{「我告訴你們，從今以後，你們不得再見我，直等到你們說：『奉主名來的是應當稱頌的。』」}(23:39)——這句話引自詩篇118:26，正是21:9群眾在榮耀進城時已經喊過的話。這世代這一次拒絕了「奉主名來的」君王，但拒絕不是終局。**審判之後，仍有盼望。**
 
 ---
 
@@ -176,7 +178,7 @@ publisher: 三書精讀出版系統
 
 ### 摩根 (G. Campbell Morgan)
 
-> **體例說明**：本章摩根部分為依其*The Gospel According to Matthew*(1929) 一貫解經進路（先知性審判、君王的憐憫）所作的概述，不加引號，不作逐字引文處理。
+> **體例說明**：本章摩根部分為依其 *The Gospel According to Matthew* (1929) 一貫解經進路（先知性審判、君王的憐憫）所作的概述，不加引號，不作逐字引文處理。
 
 摩根一貫把耶穌在馬太福音裏呈現為「君王」，23章正是這位君王行使審判權柄的時刻——但摩根提醒讀者：君王的審判言論，最終沒有停在憤怒，而是停在眼淚。君王的權柄從不是為了定罪而定罪，是為了呼召人悔改、進入祂的國度；23:37-39正是這個原則最鮮明的示範——審判的宣告裏，藏著一位牧者不忍百姓滅亡的心腸。
 
@@ -315,7 +317,7 @@ publisher: 三書精讀出版系統
 ## 與其他經文的關聯
 
 - 馬可福音 12:38-40（平行經文，較簡短）
-- 路加福音 11:37-54; 13:34-35（平行經文，法利賽人的六禍與哀歎耶路撒冷）
+- 路加福音 11:37-54；13:34-35（平行經文，法利賽人的六禍與哀歎耶路撒冷）
 - 以賽亞書 1:10-17（表裏不一的敬拜，先知的責備）
 - 瑪拉基書 2:1-9（祭司失職的責備）
 - 以西結書 37:1-14（枯骨復活的異象——粉飾的墳墓所不能解決的問題，唯有神的靈能解決）

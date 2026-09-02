@@ -66,7 +66,7 @@ publisher: 三書精讀出版系統
 
 > ^17^But if you bear the name "Jew" and rely upon the Law and boast in God, ^18^and know *His* will and approve the things that are essential, being instructed out of the Law, ^19^and are confident that you yourself are a guide to the blind, a light to those who are in darkness, ^20^a corrector of the foolish, a teacher of the immature, having in the Law the embodiment of knowledge and of the truth, ^21^you, therefore, who teach another, do you not teach yourself? You who preach that one shall not steal, do you steal? ^22^You who say that one should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? ^23^You who boast in the Law, through your breaking the Law, do you dishonor God? ^24^For "THE NAME OF GOD IS BLASPHEMED AMONG THE GENTILES BECAUSE OF YOU," just as it is written.
 
-> ^25^For indeed circumcision is of value if you practice the Law; but if you are a transgressor of the Law, your circumcision has become uncircumcision. ^26^So if the uncircumcised man keeps the requirements of the Law, will not his uncircumcision be regarded as circumcision? ^27^And he who is physically uncircumcised, if he keeps the Law, will he not judge you who though having the letter *of the Law* and circumcision are a transgressor of the Law? ^28^For he is not a Jew who is one outwardly, nor is circumcision that which is outward in the flesh. **^29^But he is a Jew who is one inwardly; and circumcision is that which is of the heart, by the Spirit, not by the letter.** and his praise is not from men, but from God.
+> ^25^For indeed circumcision is of value if you practice the Law; but if you are a transgressor of the Law, your circumcision has become uncircumcision. ^26^So if the uncircumcised man keeps the requirements of the Law, will not his uncircumcision be regarded as circumcision? ^27^And he who is physically uncircumcised, if he keeps the Law, will he not judge you who though having the letter *of the Law* and circumcision are a transgressor of the Law? ^28^For he is not a Jew who is one outwardly, nor is circumcision that which is outward in the flesh. **^29^But he is a Jew who is one inwardly; and circumcision is that which is of the heart, by the Spirit, not by the letter;** and his praise is not from men, but from God.
 
 ---
 
@@ -124,11 +124,11 @@ publisher: 三書精讀出版系統
 
 ### 3. 擁有律法而不遵行，是猶太人特有的試探 (2:17-24)
 
-2:17-20 一連串「你稱為……你倚靠……你誇口……你深信自己是……」，勾勒出一個因擁有律法、身份、知識而自信滿滿的形象。2:21-23 用三個問句戳破：你教導人不可偷竊，自己偷竊嗎？這不是說猶太人比外邦人更壞，而是指出**擁有真理的知識本身，從不能使人遵行真理**——這正是全羅馬書要處理的核心困境（參7:14-25）。2:24 引用以賽亞書52:5：「神的名在外邦人中，因你們受了褻瀆」——蒙揀選的群體若行為與所領受的啟示不符，不但不能見證神，反倒使神的名蒙羞。
+2:17-20 一連串「你稱為……你倚靠……你誇口……你深信自己是……」，勾勒出一個因擁有律法、身份、知識而自信滿滿的形象。2:21-23 用一連串問句戳破：你教導人不可偷竊，自己偷竊嗎？這不是說猶太人比外邦人更壞，而是指出**擁有真理的知識本身，從不能使人遵行真理**——這正是全羅馬書要處理的核心困境（參7:14-25）。2:24 引用以賽亞書52:5：「神的名在外邦人中，因你們受了褻瀆」——蒙揀選的群體若行為與所領受的啟示不符，不但不能見證神，反倒使神的名蒙羞。
 
 ### 4. 真割禮是心裏的，靠聖靈，不靠儀文——為3章鋪路 (2:25-29)
 
-割禮若不伴隨遵行律法，「就算不得割禮」；反過來，未受割禮的人若遵行律法的實質，「豈不算是有割禮嗎」。2:28-29 把這推到極致：「外面做猶太人的，不是真猶太人……惟有裏面做的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。」這句話預告了申命記30:6「耶和華你的神必將你心裏……的汙穢除掉」與以西結書36:26-27「賜給你們肉心……將我的靈放在你們裏面」的應許——舊約早已宣告，真正的割禮從來不是刀能完成的手術，而是神自己要做的心臟移植。到2章末，兩種人——不假裝有律法的外邦論斷者，和誇口有律法的猶太人——都已站在同一個審判台前，無一人能靠自己的「行」通過。3:9「並沒有義人，連一個也沒有」不是新的指控，而是1-2章論證的自然結論——2章的功用，正是要讓讀者先徹底承認自己「有罪、被定罪」，恩典才能被當作恩典來領受，而不是被誤認成理所當然的獎賞。
+割禮若不伴隨遵行律法，「就算不得割禮」；反過來，未受割禮的人若遵行律法的實質，「豈不算是有割禮嗎」。2:28-29 把這推到極致：「外面作猶太人的，不是真猶太人……惟有裏面作的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。」這句話所說的，正是申命記30:6「耶和華你的神必將你心裏……的污穢除掉」與以西結書36:26-27「賜給你們肉心……將我的靈放在你們裏面」的應許——舊約早已宣告，真正的割禮從來不是刀能完成的手術，而是神自己要做的心臟移植。到2章末，兩種人——不假裝有律法的外邦論斷者，和誇口有律法的猶太人——都已站在同一個審判台前，無一人能靠自己的「行」通過。3:9「並沒有義人，連一個也沒有」不是新的指控，而是1-2章論證的自然結論——2章的功用，正是要讓讀者先徹底承認自己「有罪、被定罪」，恩典才能被當作恩典來領受，而不是被誤認成理所當然的獎賞。
 
 ---
 
@@ -232,7 +232,7 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ### 全經連線 (Tracing It Through Scripture)
 
-**新心新靈線**：申命記30:6：「耶和華你的神必將你心裏……的汙穢除掉，好叫你盡心、盡性愛耶和華你的神。」這是律法之約末了最深的一句應許——律法本身要求割禮，卻連摩西都知道，真正需要被「割」的不是身體，是心；而那把刀，人自己拿不動。以西結書36:26-27 把這應許說得更具體：「我也要賜給你們一個新心，將新靈放在你們裏面……我必將我的靈放在你們裏面，使你們順從我的律例。」新心與新靈——這是舊約盡頭指向的，正是羅馬書2:29所說「真割禮也是心裏的，在乎靈」。這條線繼續往前走，到羅馬書7:6「按著心靈的新樣，不按著儀文的舊樣」，再到哥林多後書3:6「字句是叫人死，精意是叫人活」——一條從摩西、經以西結、到保羅的完整弧線，主題只有一個：律法能寫下標準，卻不能賜下心；能寫下命令，卻不能賜下能力。唯有神自己動手，換一顆心，放進祂的靈，才能使人真正遵行。
+**新心新靈線**：申命記30:6：「耶和華你的神必將你心裏……的污穢除掉，好叫你盡心、盡性愛耶和華你的神。」這是律法之約末了最深的一句應許——律法本身要求割禮，卻連摩西都知道，真正需要被「割」的不是身體，是心；而那把刀，人自己拿不動。以西結書36:26-27 把這應許說得更具體：「我也要賜給你們一個新心，將新靈放在你們裏面……我必將我的靈放在你們裏面，使你們順從我的律例。」新心與新靈——這是舊約盡頭指向的，正是羅馬書2:29所說「真割禮也是心裏的，在乎靈」。這條線繼續往前走，到羅馬書7:6「按著心靈的新樣，不按著儀文的舊樣」，再到哥林多後書3:6「字句是叫人死，精意是叫人活」——一條從摩西、經以西結、到保羅的完整弧線，主題只有一個：律法能寫下標準，卻不能賜下心；能寫下命令，卻不能賜下能力。唯有神自己動手，換一顆心，放進祂的靈，才能使人真正遵行。
 
 **三律遞進線**：老弟兄查經常用「自然律、道德律、屬靈的律」三層架構讀這一章：2:14「本性行律法上的事」是**自然律**在起作用——受造界殘存的道德直覺；2:15「律法的功用刻在他們心裏……良心作見證」是**道德律**——是非的標準，人人心裏都有；而2:29「真割禮也是心裏的，在乎靈」，是**屬靈的律**——不是人靠自然律或道德律能達到的，是聖靈親自的工作。三層遞進，最後仍舊落在同一個結論：唯有聖靈能做到自然律與道德律都做不到的事。
 

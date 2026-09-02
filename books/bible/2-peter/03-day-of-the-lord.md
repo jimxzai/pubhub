@@ -51,27 +51,29 @@ publisher: 三書精讀出版系統
 
 > ^8^親愛的弟兄啊，有一件事你們不可忘記，就是主看一日如千年，千年如一日。^9^**主所應許的尚未成就，有人以為他是耽延，其實不是耽延，乃是寬容你們，不願有一人沉淪，乃願人人都悔改。**
 
-> ^10^但主的日子要像賊來到一樣。那日，天必大有響聲廢去，有形質的都要被烈火銷化，地和其上的物都要燒盡了。^11^這一切既然都要如此銷化，你們為人該當怎樣聖潔，怎樣敬虔，^12^切切仰望神的日子來到！在那日，天被火燒就銷化了，有形質的都要被烈火熔化。^13^**但我們照他的應許，盼望新天新地，有義居在其中。**
+> ^10^但主的日子要像賊來到一樣。那日，天必大有響聲廢去，有形質的都要被烈火銷化，地和其上的物都要燒盡了。^11^這一切既然都要如此銷化，你們為人該當怎樣聖潔，怎樣敬虔，^12^切切仰望神的日子來到！在那日，天被火燒就銷化了，有形質的都要被烈火鎔化。^13^**但我們照他的應許，盼望新天新地，有義居在其中。**
 
-> ^14^親愛的弟兄啊，你們既盼望這些事，就當殷勤，使自己沒有玷汙，無可指摘，安然見主；^15^並且要以我主長久忍耐為得救的因由，就如我們所親愛的兄弟保羅，照著所賜給他的智慧寫了信給你們。^16^他一切的信上也都是講論這事。信中有些難明白的，那無學問、不堅固的人強解，如強解別的經書一樣，就自取沉淪。
+> ^14^親愛的弟兄啊，你們既盼望這些事，就當殷勤，使自己沒有玷污，無可指摘，安然見主；^15^並且要以我主長久忍耐為得救的因由，就如我們所親愛的兄弟保羅，照著所賜給他的智慧寫了信給你們。^16^他一切的信上也都是講論這事。信中有些難明白的，那無學問、不堅固的人強解，如強解別的經書一樣，就自取沉淪。
 
 > ^17^親愛的弟兄啊，你們既然預先知道這事，就當防備，恐怕被惡人的錯謬誘惑，就從自己堅固的地步上墜落。^18^**你們卻要在我們主──救主耶穌基督的恩典和知識上有長進。願榮耀歸給他，從今直到永遠！阿們。**
 
-### English — ESV
+### English — NASB (New American Standard Bible)
 
-> ^1^This is now the second letter that I am writing to you, beloved. In both of them I am stirring up your sincere mind by way of reminder, ^2^that you should remember the predictions of the holy prophets and the commandment of the Lord and Savior through your apostles.
+> ^1^Beloved, this is now the second letter I am writing to you in which I am stirring up your sincere mind by way of a reminder, ^2^to remember the words spoken beforehand by the holy prophets and the commandment of the Lord and Savior spoken by your apostles.
 
-> ^3^knowing this first of all, that scoffers will come in the last days with scoffing, following their own sinful desires. ^4^They will say, "Where is the promise of his coming? For ever since the fathers fell asleep, all things are continuing as they were from the beginning of creation." ^5^For they deliberately overlook this fact, that the heavens existed long ago, and the earth was formed out of water and through water by the word of God, ^6^and that by means of these the world that then existed was deluged with water and perished. ^7^But by the same word the heavens and earth that now exist are stored up for fire, being kept until the day of judgment and destruction of the ungodly.
+> ^3^Know this first of all, that in the last days mockers will come with their mocking, following after their own lusts, ^4^and saying, “Where is the promise of His coming? For ever since the fathers fell asleep, all things continue just as they were from the beginning of creation.” ^5^For when they maintain this, it escapes their notice that by the word of God the heavens existed long ago and the earth was formed out of water and by water, ^6^through which the world at that time was destroyed by being flooded with water. ^7^But by His word the present heavens and earth are being reserved for fire, kept for the day of judgment and destruction of ungodly people.
 
-> ^8^But do not overlook this one fact, beloved, that with the Lord one day is as a thousand years, and a thousand years as one day. ^9^**The Lord is not slow to fulfill his promise as some count slowness, but is patient toward you, not wishing that any should perish, but that all should reach repentance.**
+> ^8^But do not let this one fact escape your notice, beloved, that with the Lord one day is like a thousand years, and a thousand years like one day. ^9^**The Lord is not slow about His promise, as some count slowness, but is patient toward you, not willing for any to perish, but for all to come to repentance.**
 
-> ^10^But the day of the Lord will come like a thief, and then the heavens will pass away with a roar, and the heavenly bodies will be burned up and dissolved, and the earth and the works that are done on it will be exposed. ^11^Since all these things are thus to be dissolved, what sort of people ought you to be in lives of holiness and godliness, ^12^waiting for and hastening the coming of the day of God, because of which the heavens will be set on fire and dissolved, and the heavenly bodies will melt as they burn! ^13^**But according to his promise we are waiting for new heavens and a new earth in which righteousness dwells.**
+> ^10^But the day of the Lord will come like a thief, in which the heavens will pass away with a roar and the elements will be destroyed with intense heat, and the earth and its works will be discovered. ^11^Since all these things are to be destroyed in this way, what sort of people ought you to be in holy conduct and godliness, ^12^looking for and hastening the coming of the day of God, because of which the heavens will be destroyed by burning, and the elements will melt with intense heat! ^13^**But according to His promise we are looking for new heavens and a new earth, in which righteousness dwells.**
 
-> ^14^Therefore, beloved, since you are waiting for these, be diligent to be found by him without spot or blemish, and at peace. ^15^And count the patience of our Lord as salvation, just as our beloved brother Paul also wrote to you according to the wisdom given him, ^16^as he does in all his letters when he speaks in them of these matters. There are some things in them that are hard to understand, which the ignorant and unstable twist to their own destruction, as they do the other Scriptures.
+> ^14^Therefore, beloved, since you look for these things, be diligent to be found spotless and blameless by Him, at peace, ^15^and regard the patience of our Lord as salvation; just as also our beloved brother Paul, according to the wisdom given him, wrote to you, ^16^as also in all his letters, speaking in them of these things, in which there are some things that are hard to understand, which the untaught and unstable distort, as they do also the rest of the Scriptures, to their own destruction.
 
-> ^17^You therefore, beloved, knowing this beforehand, take care that you are not carried away with the error of lawless people and lose your own stability. ^18^**But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.**
+> ^17^You therefore, beloved, knowing this beforehand, be on your guard so that you are not carried away by the error of unscrupulous people and lose your own firm commitment, ^18^**but grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory, both now and to the day of eternity. Amen.**
 
-> 註：3:10「地和其上的物都要燒盡了」（和合本，多數文本 *katakaēsetai*「被燒盡」）與ESV所依據的較早抄本異文「will be exposed／曝露、顯露出來」(*heurethēsetai*「被查出」) 存在文本差異；兩者所要傳達的重點一致——受造界要在主的日子被徹底揭露、審判、更新，本章採和合本傳統譯文，並在原文研讀中一併說明。
+> **註（3:10 的文本異文）**：3:10 末句和合本作「地和其上的物都要燒盡了」，依從多數抄本的 *katakaēsetai*（「被燒盡」）；本章英譯 NASB 2020 作 “the earth and its works **will be discovered**”（「地和其上的工都要被顯露出來」），依從較早抄本的 *heurethēsetai*（「被查出、被發現」）。值得一提的是，**NASB 兩個版本自己就在這節分道揚鑣**：1995 年版作 “will be burned up”，與和合本同一路；2020 年版改從較早的異文。兩種讀法所指向的重點其實一致——受造界要在主的日子被徹底揭露、審判、更新；差別在於強調「燒盡」還是「顯露」。本書中文從和合本，英譯從 NASB 2020，並在此如實並陳。
+
+> **英譯體例**：本章英譯（NASB 2020）為全章 18 節。英譯在本書是為對照解說而設，不是另備一部英文聖經；第一章只列正在解說的段落。全書英譯引用範圍與版權條件見卷末〈附錄：參考資料〉「經文版本」一節。
 
 ---
 
@@ -112,7 +114,7 @@ publisher: 三書精讀出版系統
 
 ### *speudontas*：等候，也是催促
 
-3:12「切切仰望神的日子來到」，原文動詞*speudontas*同時帶著「等候」與「催促、加速」兩層意思——中文和合本、英文ESV都採「等候並催促／hastening」的翻譯方向。這意味著信徒對主再來的態度，不是被動的旁觀，而是帶著某種積極性——彼得後書沒有詳細解釋這如何運作，但歷代解經者普遍認為，這與信徒聖潔的生活、教會的禱告、福音的廣傳有關（呼應3:9「不願有一人沉淪」——神的寬容留出的空間，正是給教會完成大使命的時間）。
+3:12「切切仰望神的日子來到」，原文動詞*speudontas*同時帶著「等候」與「催促、加速」兩層意思——中文和合本作「切切仰望」，英文 NASB 2020 作 “looking for and **hastening** the coming of the day of God”——兩者都採「等候並催促」的翻譯方向。這意味著信徒對主再來的態度，不是被動的旁觀，而是帶著某種積極性——彼得後書沒有詳細解釋這如何運作，但歷代解經者普遍認為，這與信徒聖潔的生活、教會的禱告、福音的廣傳有關（呼應3:9「不願有一人沉淪」——神的寬容留出的空間，正是給教會完成大使命的時間）。
 
 ### *graphas*：保羅書信是「經書」
 
@@ -142,7 +144,7 @@ publisher: 三書精讀出版系統
 
 彼得後書全書從未直接引用耶穌親口所說的話，但3:10「主的日子要像賊來到一樣」，字面上正是耶穌自己在馬太福音24:43「家主若知道幾更天有賊來，就必儆醒」的教訓迴響，也與保羅在帖前5:2「主的日子來到好像夜間的賊一樣」、以及啟示錄3:3、16:15幾乎相同的用語一脈相承。這是初代教會共同承接、反覆傳講的一句主的教訓——彼得沒有標明出處，正說明這句話在當時教會裏已經是眾所週知、口傳相承的核心教導，不需要每次都加註來源。
 
-### 6. 宇宙的解體：形質銷化，被烈火熔化（3:10-12）
+### 6. 宇宙的解體：形質銷化，被烈火鎔化（3:10-12）
 
 「有形質的都要被烈火銷化」——*stoicheia*一詞原指構成宇宙的基本元素或天體，彼得用最強烈的宇宙論語言，描述受造界本身在主的日子將經歷徹底的解體與煉淨。這不是世界的「毀滅」在虛無意義上的消失，而是一次徹底的審判性煉淨——正如洪水沒有使世界從此不存在，而是使舊世界的秩序終結、開啟挪亞之後的新秩序，末後的烈火審判也將終結現今被罪玷污的天地秩序，為3:13的「新天新地」開路。
 
@@ -152,7 +154,7 @@ publisher: 三書精讀出版系統
 
 ### 8. 末世論塑造倫理：因為知道要來，所以現在要活得不一樣（3:11, 14）
 
-彼得後書第三章最實際的教導，不是滿足讀者對末世時間表的好奇心，而是反覆逼問一個問題：「你們為人該當怎樣聖潔，怎樣敬虔」（3:11）？「就當殷勤，使自己沒有玷汙，無可指摘，安然見主」（3:14）。整段末世論教導的終點，不是教義知識的累積，而是聖潔生活的塑造——這正是彼得後書從第1章的美德階梯（1:5-7），到第2章的假教師警告，到第3章的末世盼望，一以貫之的邏輯：真知識必然結出敬虔生活的果子。
+彼得後書第三章最實際的教導，不是滿足讀者對末世時間表的好奇心，而是反覆逼問一個問題：「你們為人該當怎樣聖潔，怎樣敬虔」（3:11）？「就當殷勤，使自己沒有玷污，無可指摘，安然見主」（3:14）。整段末世論教導的終點，不是教義知識的累積，而是聖潔生活的塑造——這正是彼得後書從第1章的美德階梯（1:5-7），到第2章的假教師警告，到第3章的末世盼望，一以貫之的邏輯：真知識必然結出敬虔生活的果子。
 
 ### 9. 保羅書信是「經書」：新約對自身正典地位最早的自我見證（3:15-16）
 
@@ -168,7 +170,23 @@ publisher: 三書精讀出版系統
 
 > **體例說明**：本節是歷代解經者立場的綜述，非逐字引文。除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，不應作為原文引用轉引。
 
-### 約翰·加爾文 (John Calvin, 1509-1564)
+### 教父時期：奧古斯丁 (Augustine, 354-430)
+
+彼得後書第三章是少數在教父時代就被整章拿來處理的段落——奧古斯丁在《上帝之城》(*De civitate Dei*) 第二十卷第十八章，專門處理「使徒彼得論末日審判怎麼說」，把3:3-13幾乎逐節走過一遍。他的讀法有兩點值得留意。
+
+第一，他把彼得的洪水類比看作全章論證的骨幹：那場洪水毀掉的不只是地面，連「天」也在其中——
+
+> "The world which then was perished, and not only the earth itself, but also the heavens, by which we understand the air"
+>
+> 「當時的世界就消滅了；消滅的不只是地本身，還有那『天』——我們理解為空氣的那一層。」
+
+奧古斯丁的意思是：3:6所說「當時的世界被水淹沒就消滅了」，指的是那個世界的整個秩序（連同其上的大氣）被廢去，不是地球這顆星球被抹掉。這正好對上本章3:10-13的讀法——烈火要終結的是現今被罪玷污的天地秩序，不是把受造界化為虛無。同一段裏，他讀3:7「現在的天地……用火焚燒」，說這天地是「reserved unto fire against the day of judgment」（存留著，等候審判之日的烈火），末了指向彼得所應許的「new heavens and a new earth, wherein dwells righteousness」（新天新地，有義居在其中）。
+
+第二，在同卷第七章論千禧年時，奧古斯丁引3:8「主看一日如千年，千年如一日」，用它來反對把預言中的年數一律按字面算——神的時間不受人的曆法管轄。這與本章「要義」第4點的讀法一致：3:8不是一條換算公式，是一句提醒，叫人別拿自己的尺去量神的耐性。
+
+> 出處：Augustine, *De civitate Dei*（《上帝之城》）XX.18（論彼得後書3章）、XX.7（引3:8論千禧年）。英文引句取自 newadvent.org 所刊 NPNF 英譯，經逐字核對，中文為編者對照翻譯。
+
+### 改革宗時期：約翰·加爾文 (John Calvin, 1509-1564)
 
 加爾文在其《彼得後書註釋》論3:8時指出，人之所以急於催促神的時間表，是因為人「按著自己肉體的判斷衡量時間」，天性傾向不耐煩，以至於「快」在人的感受裏也成了「慢」；加爾文勸勉讀者「當存心思飛升至天上」，如此一來，等候的時間對人就「既不長也不短」——換句話說，問題不在神的時間，而在人衡量時間的角度（撮述自其《彼得後書註釋》3:8註）。
 
@@ -176,7 +194,7 @@ publisher: 三書精讀出版系統
 
 論3:15-16，加爾文承認保羅書信中確有難解之處，但強調問題不在經文本身，而在讀者是否存著受教、謙卑的心去讀——凡是「阻礙人長進」的惡習，才會使「神為我們的救恩所賜下的」變成「致命的」（撮述自其《彼得後書註釋》3:16註）。加爾文由此肯定保羅書信理當被誦讀，只是讀者必須帶著謙卑受教的心，而非驕傲的臆測。
 
-### 約翰·麥克阿瑟 (John MacArthur)
+### 當代釋經：約翰·麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在gty.org講道系列《The Certainty of the Second Coming》(2 Peter 3) 中指出，譏誚者的論證核心是：「神從來沒有在審判中介入過，所以我們憑甚麼相信祂將來會介入」——這正是3:5-7要駁斥的錯誤前提。他強調3:7所說「現在的天地……直留到……用火焚燒」，是神用水審判挪亞世代之後，向世人預告的下一場審判方式的轉換：「神從前用水審判，將來要用火審判」(*water then, fire now/then*，撮述其講道立場)。
 
@@ -196,7 +214,7 @@ publisher: 三書精讀出版系統
 
 > ^1^（神人摩西的祈禱）主啊，你世世代代作我們的居所。^2^諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。^3^你使人歸於塵土，說：你們世人要歸回。^4^在你看來，千年如已過的昨日，又如夜間的一更。……^12^求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。
 
-> Lord, you have been our dwelling place in all generations. Before the mountains were brought forth, or ever you had formed the earth and the world, from everlasting to everlasting you are God. You return man to dust and say, "Return, O children of man!" For a thousand years in your sight are but as yesterday when it is past, or as a watch in the night. ... So teach us to number our days that we may get a heart of wisdom.
+> Lord, You have been our dwelling place in all generations. Before the mountains were born Or You gave birth to the earth and the world, Even from everlasting to everlasting, You are God. You turn mortals back into dust And say, "Return, you sons of mankind." For a thousand years in Your sight Are like yesterday when it passes by, Or like a watch in the night. … So teach us to number our days, That we may present to You a heart of wisdom.
 
 詩篇90是摩西的禱告——一篇把人的短暫脆弱與神的永恆穩固並排陳明的詩。彼得後書3:8「主看一日如千年，千年如一日」正是直接引用詩90:4，而這節詩所在的整篇禱告，主題正是這一章要教導的：人容易用自己短促的一生去衡量神的作為，因而覺得神「耽延」；但摩西的禱告告訴我們，真正的智慧不是催促神照著我們的時間表行事，而是「數算自己的日子」——在神永恆不變的信實裏，安頓自己短暫的一生。
 
@@ -230,15 +248,27 @@ publisher: 三書精讀出版系統
 
 ### 摩根深讀 (G. Campbell Morgan)
 
-> **誠實說明**：摩根並沒有像他為約翰福音、路加福音所寫的逐節註釋那樣，為彼得後書留下同等規模的專著。他對本書的分析，集中在《歷代書卷的活信息》(*The Living Messages of the Books of the Bible*, 1912) 中論彼得後書的一章。以下是對其一貫分析立場的忠實撮述，並標明可直接查證的段落，非逐句逐字的翻譯引句。
+> **體例說明**：摩根並沒有像他為約翰福音、路加福音所寫的逐節註釋那樣，為彼得後書留下同等規模的專著；他對本書的完整分析，集中在《聖經各卷的生命信息》(*The Living Messages of the Books of the Bible*, 1912) 中論彼得後書的一章。以下**加引號並附英文者為該章逐字引句**（經全文電子版核對），其餘為編者依其論證脈絡的撮述。
 
-摩根把彼得後書全書的主題概括為「恩典所生的責任」("Responsibilities of Grace")：一方面是神所賜的資源（神的大能與基督的再來），另一方面是這資源所生出的責任（善用資源、躲避危險）。他認為全書最終的呼召濃縮在一個詞：「當殷勤」("Give Diligence")——這詞在1:5「你們要分外的殷勤」與3:14「就當殷勤」首尾呼應，構成全書行動上的主線。
+摩根為彼得後書全書定下的主題，是「恩典所生的責任」：
 
-論3:3-4的譏誚者，摩根引述經文本身：「在末世必有好譏誚的人隨從自己的私慾出來譏誚說，主要降臨的應許在哪裏呢」——並指出，譏誚者的邏輯「事情向來如此，將來也必如此」("as things have been, so they will remain") 本質上是一種不信；他強調，唯獨信心能真正持定主再來的應許，理性的觀察與經驗的歸納，永遠無法單獨產生這樣的確信。
+> "The central teaching has to do with the responsibilities of grace; first, the resource creating the responsibilities, and secondly the responsibilities created by that resource."
+>
+> 「全書的中心教訓，關乎恩典所生的責任：其一，是那創造出責任來的資源；其二，是那資源所造出的責任。」
+
+「資源」指神的大能與基督的再來，「責任」指善用這資源、躲避隨之而來的危險。摩根把全書最終的呼召濃縮成一個動作——「當殷勤」：
+
+> "The abiding appeal of the letter is that we give diligence. This we do first by cooperation with the Power."
+>
+> 「這封信恆久的呼籲，就是叫我們當殷勤。而我們首先要做的，是與那大能同工。」
+
+這正對上1:5「你們要分外的殷勤」與3:14「就當殷勤」的首尾呼應，構成全書行動上的主線。摩根為本書歸納的「生命信息」，也把「記念」與「殷勤」鎖在一起——「remembrance in order to diligence, remembrance the inspiration of diligence」（記念是為了殷勤，記念正是殷勤的動力），這與3:1-2「這兩封都是提醒你們」的寫作目的完全吻合。
+
+論3:3-4的譏誚者，摩根直接把經文本身擺出來——「Where is the promise of His coming? for, from the day that the fathers fell asleep, all things continue as they were from the beginning of the creation.」——他指出，譏誚者是把「萬物照舊」的經驗歸納當成了論據，而這本質上是一種不信；唯獨信心能真正持定主再來的應許，理性的觀察與經驗的推演，永遠無法單獨產生這樣的確信。
 
 論本章的末世盼望，摩根區分了主再來對世界的意義（審判，建立公義）與對信徒的意義（脫離敗壞，進入完全）；全書的終點，不只是「站立得穩」，而是積極地藉著殷勤與品格的建造，進入「永遠的國」——一種末世性的完全，而非單純世上國度的建立。
 
-> 出處：G. Campbell Morgan, *The Living Messages of the Books of the Bible* (New Testament), 論2 Peter一章，經可公開查閱之全文電子版核實後撮述。
+> 出處：G. Campbell Morgan, *The Living Messages of the Books of the Bible* (New Testament, Fleming H. Revell, 1912)，論 2 Peter 一章。上列英文引句經該書公開全文電子版逐字核對，中文為編者對照翻譯。
 
 ### 老弟兄查經洞見 (Thursday Class Insights)
 
@@ -256,19 +286,6 @@ publisher: 三書精讀出版系統
 - **連**：3:9「不願有一人沉淪」和提前2:4「他願意萬人得救」是不是同一個心意的兩種說法？
 - **住**：如果神的寬容住在我裏面，我今天會不會對某個「還沒信主的人」多一點耐心？
 - **行**：今天有沒有一個具體的人，我可以為他多禱告一次，因為神的寬容還在給他悔改的機會？
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*It Is Well with My Soul*（如前「聖詩默想」所引）
-
-> The trump shall resound, and the Lord shall descend,
-> Even so, it is well with my soul.
-
-**詩篇**：詩篇 90:4
-
-> 在你看來，千年如已過的昨日，又如夜間的一更。
 
 ---
 

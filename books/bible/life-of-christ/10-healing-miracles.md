@@ -99,7 +99,7 @@
 
 ---
 
-## 10.5 神學要點 (Theological Points)
+## 10.5 領受要點 (Truths Received)
 
 ### 1. 神蹟的目的
 

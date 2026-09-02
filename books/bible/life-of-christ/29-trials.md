@@ -95,7 +95,7 @@
 
 ---
 
-## 29.5 神學要點 (Theological Points)
+## 29.5 領受要點 (Truths Received)
 
 ### 1. 基督的最高沉默
 

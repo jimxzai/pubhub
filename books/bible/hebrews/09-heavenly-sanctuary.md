@@ -6,7 +6,7 @@ date: 2025年12月
 publisher: 三書精讀出版系統
 ---
 
-# 天上的聖所
+# 天上的聖所 (The Heavenly Sanctuary)
 
 ## Hebrews 9:1-28 — The Heavenly Sanctuary
 
@@ -16,7 +16,7 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-這一章從頭到尾都在做一件事：把地上會幕的每一件器物，一一放在基督面前，然後說——那只是影兒，這才是實體。金燈臺、陳設餅、香壇、約櫃、施恩座，全部是「照著天上樣式做的物件」（9:23），不是最終的目的地，是指路的記號。大祭司一年一次、戰戰兢兢帶著血進入至聖所，基督卻「只一次進入聖所，成了永遠贖罪的事」（9:12）——不是用山羊和牛犢的血，是用自己的血。9:22 那句「若不流血，罪就不得赦免了」，不是野蠻的獻祭邏輯，是整本聖經一以貫之的原則，在各各他找到了終極的答案。你讀這一章，若只看見一套古代宗教禮儀的比較，就還沒有讀懂；你要看見的是：那位曾經進到至聖所裡、如今「為我們顯在神面前」（9:24）的大祭司，正是你今天可以坦然無懼靠近的那一位。
+這一章從頭到尾都在做一件事：把地上會幕的每一件器物，一一放在基督面前，然後說——那只是影兒，這才是實體。金燈臺、陳設餅、香壇、約櫃、施恩座，全部是「照著天上樣式做的物件」（9:23），不是最終的目的地，是指路的記號。大祭司一年一次、戰戰兢兢帶著血進入至聖所，基督卻「只一次進入聖所，成了永遠贖罪的事」（9:12）——不是用山羊和牛犢的血，是用自己的血。9:22 那句「若不流血，罪就不得赦免了」，不是野蠻的獻祭邏輯，是整本聖經一以貫之的原則，在各各他找到了終極的答案。你讀這一章，若只看見一套古代宗教禮儀的比較，就還沒有讀懂；你要看見的是：那位曾經進到至聖所裏、如今「為我們顯在神面前」（9:24）的大祭司，正是你今天可以坦然無懼靠近的那一位。
 
 ---
 
@@ -53,45 +53,48 @@ publisher: 三書精讀出版系統
 
 **地上的聖所 (9:1-10)**
 
-> ¹原來前約有禮拜的條例和屬世界的聖幕。²因為有預備的帳幕，頭一層叫做聖所，裡面有燈臺、桌子和陳設餅。³第二幔子後又有一層帳幕，叫做至聖所，⁴有金香爐，有包金的約櫃，櫃裡有盛嗎哪的金罐和亞倫發過芽的杖並兩塊約版，⁵櫃上面有榮耀基路伯的影罩著施恩座。這幾件我現在不能一一細說。
+> ^1^原來前約有禮拜的條例和屬世界的聖幕。^2^因為有預備的帳幕，頭一層叫做聖所，裏面有燈臺、桌子和陳設餅。^3^第二幔子後又有一層帳幕，叫做至聖所，^4^有金香爐，有包金的約櫃，櫃裏有盛嗎哪的金罐和亞倫發過芽的杖並兩塊約版，^5^櫃上面有榮耀基路伯的影罩著施恩座。這幾件我現在不能一一細說。
 
-> ⁶這些物件既如此預備齊了，眾祭司就常進頭一層帳幕，行拜神的禮。⁷至於第二層帳幕，唯有大祭司一年一次獨自進去，沒有不帶著血為自己和百姓的過錯獻上。⁸**聖靈用此指明：頭一層帳幕仍存的時候，進入至聖所的路還未顯明。**⁹那頭一層帳幕做現今的一個表樣，所獻的禮物和祭物就著良心說，都不能叫禮拜的人得以完全。¹⁰這些事，連那飲食和諸般洗濯的規矩，都不過是屬肉體的條例，命定到振興的時候為止。
+> ^6^這些物件既如此預備齊了，眾祭司就常進頭一層帳幕，行拜神的禮。^7^至於第二層帳幕，唯有大祭司一年一次獨自進去，沒有不帶著血為自己和百姓的過錯獻上。^8^**聖靈用此指明：頭一層帳幕仍存的時候，進入至聖所的路還未顯明。**^9^那頭一層帳幕做現今的一個表樣，所獻的禮物和祭物就著良心說，都不能叫禮拜的人得以完全。^10^這些事，連那飲食和諸般洗濯的規矩，都不過是屬肉體的條例，命定到振興的時候為止。
 
 **基督進入天上聖所 (9:11-14)**
 
-> ¹¹但現在基督已經來到，做了將來美事的大祭司，經過那更大、更全備的帳幕，不是人手所造，也不是屬乎這世界的。¹²**並且不用山羊和牛犢的血，乃用自己的血，只一次進入聖所，成了永遠贖罪的事。**¹³若山羊和公牛的血並母牛犢的灰灑在不潔的人身上，尚且叫人成聖，身體潔淨，¹⁴**何況基督藉著永遠的靈，將自己無瑕無疵獻給神，他的血豈不更能洗淨你們的心，除去你們的死行，使你們侍奉那永生神嗎？**
+> ^11^但現在基督已經來到，做了將來美事的大祭司，經過那更大、更全備的帳幕，不是人手所造，也不是屬乎這世界的。^12^**並且不用山羊和牛犢的血，乃用自己的血，只一次進入聖所，成了永遠贖罪的事。**^13^若山羊和公牛的血並母牛犢的灰灑在不潔的人身上，尚且叫人成聖，身體潔淨，^14^**何況基督藉著永遠的靈，將自己無瑕無疵獻給神，他的血豈不更能洗淨你們的心，除去你們的死行，使你們侍奉那永生神嗎？**
 
 **約的生效需要死 (9:15-22)**
 
-> ¹⁵為此，他做了新約的中保，既然受死贖了人在前約之時所犯的罪過，便叫蒙召之人得著所應許永遠的產業。¹⁶凡有遺命，必須等到留遺命的人死了。¹⁷因為人死了，遺命才有效力，若留遺命的尚在，那遺命還有用處嗎？¹⁸所以，前約也不是不用血立的。¹⁹因為摩西當日照著律法將各樣誡命傳給眾百姓，就拿朱紅色絨和牛膝草，把牛犢、山羊的血和水灑在書上，又灑在眾百姓身上，說：²⁰「這血就是神與你們立約的憑據。」²¹他又照樣把血灑在帳幕和各樣器皿上。²²**按著律法，凡物差不多都是用血潔淨的，若不流血，罪就不得赦免了。**
+> ^15^為此，他做了新約的中保，既然受死贖了人在前約之時所犯的罪過，便叫蒙召之人得著所應許永遠的產業。^16^凡有遺命，必須等到留遺命的人死了。^17^因為人死了，遺命才有效力，若留遺命的尚在，那遺命還有用處嗎？^18^所以，前約也不是不用血立的。^19^因為摩西當日照著律法將各樣誡命傳給眾百姓，就拿朱紅色絨和牛膝草，把牛犢、山羊的血和水灑在書上，又灑在眾百姓身上，說：^20^「這血就是神與你們立約的憑據。」^21^他又照樣把血灑在帳幕和各樣器皿上。^22^**按著律法，凡物差不多都是用血潔淨的，若不流血，罪就不得赦免了。**
 
 **基督一次獻上 (9:23-28)**
 
-> ²³照著天上樣式做的物件必須用這些祭物去潔淨，但那天上的本物自然當用更美的祭物去潔淨。²⁴因為基督並不是進了人手所造的聖所——這不過是真聖所的影像——乃是進了天堂，如今為我們顯在神面前。²⁵也不是多次將自己獻上，像那大祭司每年帶著牛羊的血進入聖所。²⁶如果這樣，他從創世以來，就必多次受苦了。但如今在這末世顯現一次，把自己獻為祭，好除掉罪。
+> ^23^照著天上樣式做的物件必須用這些祭物去潔淨，但那天上的本物自然當用更美的祭物去潔淨。^24^因為基督並不是進了人手所造的聖所——這不過是真聖所的影像——乃是進了天堂，如今為我們顯在神面前。^25^也不是多次將自己獻上，像那大祭司每年帶著牛羊的血進入聖所。^26^如果這樣，他從創世以來，就必多次受苦了。但如今在這末世顯現一次，把自己獻為祭，好除掉罪。
 >
-> ²⁷按著定命，人人都有一死，死後且有審判；²⁸**像這樣，基督既然一次被獻，擔當了多人的罪，將來要向那等候他的人第二次顯現，並與罪無關，乃是為拯救他們。**
+> ^27^按著定命，人人都有一死，死後且有審判；^28^**像這樣，基督既然一次被獻，擔當了多人的罪，將來要向那等候他的人第二次顯現，並與罪無關，乃是為拯救他們。**
 
 *核對來源：cnbible.com/hebrews/9.htm — 與底本第一版所引之「和合本修訂版 (RCUV)」用字有明顯差異（例如 RCUV「屬世的聖所」，CUV 原作「屬世界的聖幕」），現統一改回未經修訂的和合本 (CUV) 原文，並標明出處。*
 
-### English — ESV
+### English — New American Standard Bible (NASB)
 
-> ¹²**He entered once for all into the holy places, not by means of the blood of goats and calves but by means of his own blood, thus securing an eternal redemption.**
+> ^1^Now even the first [covenant] had regulations of divine worship and the earthly sanctuary. ^2^For there was a tabernacle prepared, the outer one, in which [were] the lampstand and the table and the sacred bread; this is called the holy place. ^3^Behind the second veil there was a tabernacle which is called the Holy of Holies, ^4^having a golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden jar holding the manna, and Aaron's rod which budded, and the tables of the covenant; ^5^and above it [were] the cherubim of glory overshadowing the mercy seat; but of these things we cannot now speak in detail.
 
-> ¹⁴**How much more will the blood of Christ, who through the eternal Spirit offered himself without blemish to God, purify our conscience from dead works to serve the living God.**
+> ^6^Now when these things have been so prepared, the priests are continually entering the outer tabernacle performing the divine worship, ^7^but into the second, only the high priest [enters] once a year, not without [taking] blood, which he offers for himself and for the sins of the people committed in ignorance. ^8^**The Holy Spirit [is] signifying this, that the way into the holy place has not yet been disclosed while the outer tabernacle is still standing,** ^9^which [is] a symbol for the present time. Accordingly both gifts and sacrifices are offered which cannot make the worshiper perfect in conscience, ^10^since they [relate] only to food and drink and various washings, regulations for the body imposed until a time of reformation.
 
-> ²²**Indeed, under the law almost everything is purified with blood, and without the shedding of blood there is no forgiveness of sins.**
+> ^11^But when Christ appeared [as] a high priest of the good things to come, [He entered] through the greater and more perfect tabernacle, not made with hands, that is to say, not of this creation; ^12^**and not through the blood of goats and calves, but through His own blood, He entered the holy place once for all, having obtained eternal redemption.** ^13^For if the blood of goats and bulls and the ashes of a heifer sprinkling those who have been defiled sanctify for the cleansing of the flesh, ^14^**how much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, cleanse your conscience from dead works to serve the living God?**
 
-> ²⁸**So Christ, having been offered once to bear the sins of many, will appear a second time, not to deal with sin but to save those who are eagerly waiting for him.**
-> — Hebrews 9:12, 14, 22, 28 (ESV)
+> ^15^For this reason He is the mediator of a new covenant, so that, since a death has taken place for the redemption of the transgressions that were [committed] under the first covenant, those who have been called may receive the promise of the eternal inheritance. ^16^For where a covenant is, there must of necessity be the death of the one who made it. ^17^For a covenant is valid [only] when men are dead, for it is never in force while the one who made it lives. ^18^Therefore even the first [covenant] was not inaugurated without blood. ^19^For when every commandment had been spoken by Moses to all the people according to the Law, he took the blood of the calves and the goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people, ^20^saying, '\textsc{This is the blood of the covenant which God commanded you}.' ^21^And in the same way he sprinkled both the tabernacle and all the vessels of the ministry with the blood. ^22^**And according to the Law, [one may] almost [say], all things are cleansed with blood, and without shedding of blood there is no forgiveness.**
 
----
+> ^23^Therefore it was necessary for the copies of the things in the heavens to be cleansed with these, but the heavenly things themselves with better sacrifices than these. ^24^For Christ did not enter a holy place made with hands, a [mere] copy of the true one, but into heaven itself, now to appear in the presence of God for us; ^25^nor was it that He would offer Himself often, as the high priest enters the holy place year by year with blood that is not his own. ^26^Otherwise, He would have needed to suffer often since the foundation of the world; but now once at the consummation of the ages He has been manifested to put away sin by the sacrifice of Himself.
+
+> ^27^And inasmuch as it is appointed for men to die once and after this [comes] judgment, ^28^**so Christ also, having been offered once to bear the sins of many, will appear a second time for salvation without [reference to] sin, to those who eagerly await Him.**
+
+> — Hebrews 9:1-28 (NASB)
 
 ## 背景 (Context)
 
 ### 會幕的結構
 
 | 部分 | 物件 | 象徵意義 |
-|------|------|----------|
+|------|------|------|
 | 外院 | 銅祭壇、洗濯盆 | 獻祭、潔淨 |
 | 聖所 | 燈臺、陳設餅、香壇 | 光、生命、禱告 |
 | 至聖所 | 約櫃、施恩座、基路伯 | 神的同在 |
@@ -105,7 +108,7 @@ publisher: 三書精讀出版系統
 3. 把血彈在施恩座上、約櫃前
 4. 另一隻公山羊按手承認百姓的罪，送入曠野歸與阿撒瀉勒
 
-這套禮儀年年重複，正是希伯來書作者要指出的關鍵：**它從未真正解決罪的問題，只是年年提醒百姓罪還在（10:3）。** 沒有讀懂利未記 16 章的贖罪日，就讀不懂希伯來書 9-10 章在對比什麼。
+這套禮儀年年重複，正是希伯來書作者要指出的關鍵：**它從未真正解決罪的問題，只是年年提醒百姓罪還在（10:3）。** 沒有讀懂利未記 16 章的贖罪日，就讀不懂希伯來書 9-10 章在對比甚麼。
 
 ### 文學結構
 
@@ -120,7 +123,7 @@ publisher: 三書精讀出版系統
 ### 舊約根源一覽
 
 | 來9: | 舊約來源 | 主題 |
-|------|----------|------|
+|------|------|------|
 | 9:2-5 | 出埃及記 25:23-40；26:31-35 | 會幕的陳設 |
 | 9:4 | 出埃及記 16:33-34；民數記 17:8-10 | 嗎哪的金罐、亞倫發芽的杖 |
 | 9:7 | 利未記 16:1-34 | 贖罪日禮儀 |
@@ -135,15 +138,15 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
-| *skia* | skia | 影兒 | 未直接出現於9章經文，卻是全章的隱形骨架——會幕與其陳設是「天上事物的樣式」（9:23）、「真聖所的影像」（9:24），與10:1「律法……只是將來美事的影兒，不是本物的真像」互相呼應 |
-| *hagia* | hagia | 聖所 | 複數形，指整個聖所系統 |
-| *hilastērion* | hilastērion | 施恩座 | 贖罪蓋，神與人相會處 |
-| *ephapax* | ephapax | 一次（並永遠） | 9:12「只一次進入聖所」——不只是「一次」(*hapax*)，更是「一次且不需要、也不能重複」；與利未祭司「每年」（κατ᾽ ἐνιαυτόν）形成尖銳對比 |
-| *lytrōsis* | lytrōsis | 救贖 | 付贖價釋放 |
-| *katharizō* | katharizō | 潔淨 | 9:14「潔淨你們的心」、9:22-23貫穿全段的動詞——舊約潔淨止於身體（9:13），基督的血直達良心 |
-| *syneidēsis* | syneidēsis | 良心 | 道德意識，9:9「不能叫禮拜的人得以完全」正是就著良心說的 |
-| *diathēkē* | diathēkē | 約／遺命 | 雙重意義，9:15-17作者刻意利用這個雙關 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| *σκιά* | skia | 影兒 | 未直接出現於9章經文，卻是全章的隱形骨架——會幕與其陳設是「天上事物的樣式」（9:23）、「真聖所的影像」（9:24），與10:1「律法……只是將來美事的影兒，不是本物的真像」互相呼應 |
+| *ἅγια* | hagia | 聖所 | 複數形，指整個聖所系統 |
+| *ἱλαστήριον* | hilastērion | 施恩座 | 贖罪蓋，神與人相會處 |
+| *ἐφάπαξ* | ephapax | 一次（並永遠） | 9:12「只一次進入聖所」——不只是「一次」(*hapax*)，更是「一次且不需要、也不能重複」；與利未祭司「每年」（κατ᾽ ἐνιαυτόν）形成尖銳對比 |
+| *λύτρωσις* | lytrōsis | 救贖 | 付贖價釋放 |
+| *καθαρίζω* | katharizō | 潔淨 | 9:14「潔淨你們的心」、9:22-23貫穿全段的動詞——舊約潔淨止於身體（9:13），基督的血直達良心 |
+| *συνείδησις* | syneidēsis | 良心 | 道德意識，9:9「不能叫禮拜的人得以完全」正是就著良心說的 |
+| *διαθήκη* | diathēkē | 約／遺命 | 雙重意義，9:15-17作者刻意利用這個雙關 |
 
 ### *ephapax*（一次）與 *skia*（影兒）合起來看
 
@@ -155,7 +158,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 作者用整整一章的篇幅，逐一拆解一套運作了一千五百年的敬拜體系——不是要否定它，是要告訴讀者：影兒已經完成了它的任務，實體已經來到，不要再抱著影兒不放。
 
@@ -169,11 +172,11 @@ publisher: 三書精讀出版系統
 
 9:12 的「只一次」（ephapax）常常被讀得太輕，好像只是說「省了很多麻煩」。真正的重量在於：舊約祭司「常常站著事奉，屢次獻上一樣的祭物，這祭物永不能除罪」（10:11），而基督「只一次」就「成了永遠贖罪的事」——**這不是效率的提升，是性質的不同：一個是永遠做不完的工，一個是徹底做完的工。**
 
-帶領提問：**你今天的信仰生活裡，有沒有一件事，你其實一直在用「重複的努力」去換取一個基督早已「一次」為你成就的地位？**
+帶領提問：**你今天的信仰生活裏，有沒有一件事，你其實一直在用「重複的努力」去換取一個基督早已「一次」為你成就的地位？**
 
 ### 3. 血的真理——沒有流血，就沒有赦罪
 
-9:22「若不流血，罪就不得赦免了」根源於利未記17:11「血裡有生命」——血代表的不是恐怖，是無辜生命的獻出。**罪的代價從來不是抽象的，是具體的、要付上生命代價的。** 舊約用牛羊的血一次次提醒這個代價，基督用自己的血一次徹底償清了這個代價。
+9:22「若不流血，罪就不得赦免了」根源於利未記17:11「血裏有生命」——血代表的不是恐怖，是無辜生命的獻出。**罪的代價從來不是抽象的，是具體的、要付上生命代價的。** 舊約用牛羊的血一次次提醒這個代價，基督用自己的血一次徹底償清了這個代價。
 
 帶領提問：**「沒有流血，就沒有赦罪」——你今天理解赦免，是不是把它想得太廉價、太理所當然，忘了赦免的背後有一個生命的代價？**
 
@@ -187,7 +190,7 @@ publisher: 三書精讀出版系統
 
 9:26 過去：「顯現一次，把自己獻為祭，好除掉罪」；9:24 現在：「如今為我們顯在神面前」；9:28 將來：「將來要向那等候他的人第二次顯現……乃是為拯救他們」。**三個時態合起來，是一幅完整的救恩地圖**——罪已經被除掉，你現在有一位在神面前為你顯現的中保，將來還有一次顯現在等著你——不是為了處理罪，是為了完成拯救。9:27「人人都有一死，死後且有審判」這句話，正是提醒讀者：時間有限，這幅地圖不是選項，是每個人都要面對的事實。
 
-帶領提問：**你今天活著，比較活在「過去已經被赦免」的平安裡，還是活在「將來還要再顯現」的盼望裡？這兩個時態，你今天缺哪一個？**
+帶領提問：**你今天活著，比較活在「過去已經被赦免」的平安裏，還是活在「將來還要再顯現」的盼望裏？這兩個時態，你今天缺哪一個？**
 
 ---
 
@@ -225,6 +228,54 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 51:7, 10, 17——牛膝草、清潔的心、憂傷的靈
+
+9 章滿了血、牛膝草、灑水的禮儀（9:13, 19）。詩篇 51 是大衛在犯了姦淫與謀殺之後寫的——**他知道律法沒有為他這種罪預備贖罪祭。**
+
+> ^7^求你用**牛膝草**潔淨我，我就乾淨；求你洗滌我，我就比雪更白。
+> ^10^神啊，求你為我造清潔的心，使我裏面重新有正直的靈。
+> ^17^**神所要的祭就是憂傷的靈；神啊，憂傷痛悔的心，你必不輕看。**
+
+> ^7^Purify me with hyssop, and I shall be clean; Wash me, and I shall be whiter than snow.
+> ^10^Create in me a clean heart, O God, And renew a steadfast spirit within me.
+> ^17^**The sacrifices of God are a broken spirit; A broken and a contrite heart, O God, You will not despise.**
+
+**領受**：大衛求的是「牛膝草」——那是逾越節塗血的工具（出 12:22），也是潔淨大痲瘋與屍體污穢的工具（利 14:4；民 19:18）。**他繞過了獻祭制度，直接求那制度背後的實體。**
+
+\textcolor{ScriptureGold}{\textbf{希伯來書 9:13-14 用的正是這條線：牛犢的血和母牛的灰能潔淨人的外體，「何況基督……的血」。大衛在一千年前就已經摸到 9:14 的門口了。}}
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Nothing but the Blood
+
+Robert Lowry 1876 年寫成。全首詩由一連串問句組成，每一句的答案都一樣。
+
+> What can wash away my sin?
+> **Nothing but the blood of Jesus.**
+> What can make me whole again?
+> **Nothing but the blood of Jesus.**
+>
+> 何能洗我諸罪愆？
+> **惟有耶穌寶血。**
+> 何能使我再完全？
+> **惟有耶穌寶血。**
+
+**歌詞與經文對照**：
+
+| 歌詞 | 希伯來書 9 章 |
+|------|------|
+| What can wash away my sin? | 「若不流血，罪就不得赦免了」（9:22） |
+| Naught of good that I have done | 「不用山羊和牛犢的血，乃用自己的血」（9:12） |
+| This is all my hope and peace | 「成了永遠贖罪的事」（9:12） |
+
+**默想**：Lowry 用的字是 *nothing but*——「除此以外，甚麼也不能」。\textcolor{ScriptureGold}{\textbf{9 章整章的論證，就是把所有其他選項一項一項劃掉，最後只剩一項。}}
+
+---
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 麥克阿瑟：影兒已過，如今是「如何親近神」的問題 (John MacArthur)
@@ -235,17 +286,17 @@ publisher: 三書精讀出版系統
 
 ### 摩根：更美之約與更美的敬拜 (G. Campbell Morgan)
 
-摩根在《神對人最後的話》（*God's Last Word to Man: Studies in Hebrews*，1936年出版）全書共十六章，按希伯來書的論證脈絡逐段展開；其中第十章〈THE SON - THE BETTER COVENANT〉對應希伯來書8章的新約應許，第十一章〈THE SON - THE BETTER WORSHIP〉按書中章節安排，主題正是希伯來書9章「更美的敬拜」——會幕、大祭司職分與基督一次獻上的祭。這本書的公開電子版本已核實存在（收錄於biblenotes.online等公開典藏），全書章節標題與大綱也已核對；但第十一章論希伯來書9章的逐字內容，本次未能在公開數位典藏中完整定位到可引用的原文段落。以下僅根據摩根對全書的一貫解經原則，忠實轉述其可能的論述方向，而非逐字引句：摩根解讀希伯來書一貫的原則是，每一次「更美」的比較，最終要問的都是同一個問題——猶太基督徒離開華麗可見的敬拜體系，是否失去了什麼？他的答案總是：他們得到的，是那華麗體系從一開始就指向、卻無法親自成就的實體本身。
+摩根在《神對人最後的話》（*God's Last Word to Man: Studies in Hebrews*，1936年出版）全書共十六章，按希伯來書的論證脈絡逐段展開；其中第十章〈THE SON - THE BETTER COVENANT〉對應希伯來書8章的新約應許，第十一章〈THE SON - THE BETTER WORSHIP〉按書中章節安排，主題正是希伯來書9章「更美的敬拜」——會幕、大祭司職分與基督一次獻上的祭。這本書的公開電子版本已核實存在（收錄於biblenotes.online等公開典藏），全書章節標題與大綱也已核對；但第十一章論希伯來書9章的逐字內容，本次未能在公開數位典藏中完整定位到可引用的原文段落。以下僅根據摩根對全書的一貫解經原則，忠實轉述其可能的論述方向，而非逐字引句：摩根解讀希伯來書一貫的原則是，每一次「更美」的比較，最終要問的都是同一個問題——猶太基督徒離開華麗可見的敬拜體系，是否失去了甚麼？他的答案總是：他們得到的，是那華麗體系從一開始就指向、卻無法親自成就的實體本身。
 
 > 出處：G. Campbell Morgan, *God's Last Word to Man: Studies in Hebrews* (1936)，全書十六章結構與第十一章標題〈THE SON - THE BETTER WORSHIP〉已於公開電子典藏核實存在；第十一章逐字原文本次未能核實定位，故以上為根據其解經原則的主旨轉述，非逐字引句。
 
-### 黃長老查經
+### 老弟兄查經
 
-**精義一句話**：麥克阿瑟看見的是這一章要回答的「問題」——如何親近神；摩根（若按其一貫原則推想）看見的是這一章給出的「答案」的性質——不是更好的規條，是更美的敬拜本身。黃長老常提醒：兩者其實是同一件事——你若真明白「如何親近神」這個問題的答案不是一套更精緻的宗教程序，而是一位「只一次」就完成了一切的大祭司，你今天親近神的方式，會完全不一樣。
+**精義一句話**：麥克阿瑟看見的是這一章要回答的「問題」——如何親近神；摩根（若按其一貫原則推想）看見的是這一章給出的「答案」的性質——不是更好的規條，是更美的敬拜本身。老弟兄常提醒：兩者其實是同一件事——你若真明白「如何親近神」這個問題的答案不是一套更精緻的宗教程序，而是一位「只一次」就完成了一切的大祭司，你今天親近神的方式，會完全不一樣。
 
 帶領提問：
 - 麥克阿瑟問的是「如何親近神」——你今天親近神的方式，比較像是在執行一套宗教程序，還是像走進一位已經為你完成一切的大祭司面前？
-- 如果有人問你「基督徒為什麼不用像舊約那樣獻祭」，你會怎麼用9:12「只一次」來回答他？
+- 如果有人問你「基督徒為甚麼不用像舊約那樣獻祭」，你會怎麼用9:12「只一次」來回答他？
 
 ---
 
@@ -269,7 +320,7 @@ publisher: 三書精讀出版系統
 > **Purge me with hyssop, and I shall be clean;**
 > **wash me, and I shall be whiter than snow.**
 
-大衛渴望的潔淨，正呼應9:13「母牛犢的灰灑在不潔的人身上」的潔淨禮——他所求的，卻早已超越禮儀範圍，直指良心。這渴望在基督的血裡完全實現。
+大衛渴望的潔淨，正呼應9:13「母牛犢的灰灑在不潔的人身上」的潔淨禮——他所求的，卻早已超越禮儀範圍，直指良心。這渴望在基督的血裏完全實現。
 
 **另一配詩**：*When I Survey the Wondrous Cross*（Isaac Watts, 1707）
 
@@ -282,7 +333,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -294,19 +345,77 @@ publisher: 三書精讀出版系統
 
 ### 提問式對話 (Let the Reader Speak)
 
-- 大祭司進至聖所之前，要先為自己的罪獻祭——你今天禱告、來到神面前之前，心裡有沒有先默默地「為自己辯護」或「證明自己夠資格」？基督已經替你走完這一步了，你為什麼還要重走一次？
+- 大祭司進至聖所之前，要先為自己的罪獻祭——你今天禱告、來到神面前之前，心裏有沒有先默默地「為自己辯護」或「證明自己夠資格」？基督已經替你走完這一步了，你為甚麼還要重走一次？
 
 - 「只一次」（9:12）與「常常站著事奉」（10:11）是兩種完全不同的姿態——你今天信仰生活的姿態，比較像哪一種：站著、還沒做完，還是坐下、已經完工？
 
 - 舊約的血只能潔淨身體（9:13），基督的血能潔淨良心（9:14）——你有沒有一件事，行為上早已「合乎規矩」，良心卻始終過不去？你把那件事帶到基督的血前了嗎？
 
-### 活在今天 (Living It Today)
+### 活在今天 · AI時代 (Living It Today)
 
-我們活在一個很擅長「反覆贖罪」的時代——一則公開道歉不夠，還要第二則、第三則；一次犯錯後的自我審判，往往不是一次性地承認、悔改、然後往前走，而是反反覆覆地在心裡、在社群媒體上重新翻出來、重新鞭笞自己一次。這其實就是希伯來書9章要拆解的那套邏輯：一套「永遠獻不完的祭」的邏輯——因為沒有一次獻祭真正夠了，所以只能不斷重複。但9:12說的是：「只一次進入聖所，成了永遠贖罪的事。」不是你要不斷向自己、向別人、向神證明你已經悔改夠了，是基督已經一次、徹底、永遠地把那筆帳付清了。下一次你發現自己又在心裡重新審判自己一次、想要用「多做一點」去補償某個過去的失敗時，停下來問自己：我是不是正在試圖用自己的方式，重複一件基督早已「只一次」完成的事？
+我們活在一個很擅長「反覆贖罪」的時代——一則公開道歉不夠，還要第二則、第三則；一次犯錯後的自我審判，往往不是一次性地承認、悔改、然後往前走，而是反反覆覆地在心裏、在社群媒體上重新翻出來、重新鞭笞自己一次。這其實就是希伯來書9章要拆解的那套邏輯：一套「永遠獻不完的祭」的邏輯——因為沒有一次獻祭真正夠了，所以只能不斷重複。但9:12說的是：「只一次進入聖所，成了永遠贖罪的事。」不是你要不斷向自己、向別人、向神證明你已經悔改夠了，是基督已經一次、徹底、永遠地把那筆帳付清了。下一次你發現自己又在心裏重新審判自己一次、想要用「多做一點」去補償某個過去的失敗時，停下來問自己：我是不是正在試圖用自己的方式，重複一件基督早已「只一次」完成的事？
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：讀 9:14——「洗淨你們的良心，除去你們的死行」。今天先讓良心被洗，再去做事。
+- **晚上**：省察——今天我有沒有用「死行」（靠自己的表現去換神的接納）代替信靠？
+- **一個行動**：把一件你反覆為它自責、卻早已認過的罪，交在 9:26「一次」這兩個字底下，不再重複認。
+
+---
+
+## 鑰詞深讀：一次 (Key Word — ἅπαξ / ἐφάπαξ)
+
+### 一、贖罪日的節奏，與十字架的節奏
+
+> ^25^也不是多次將自己獻上，像那大祭司**每年**帶著牛羊的血進入聖所。
+> ^26^但如今在這末世顯現**一次**，把自己獻為祭，好除掉罪。
+> ^28^像這樣，基督既然**一次**被獻，擔當了多人的罪……
+
+ἅπαξ（一次）與 ἐφάπαξ（一次而永遠）在希伯來書出現十一次，密度高過新約任何一卷。
+
+### 二、把兩種節奏並排
+
+| 亞倫的大祭司 | 基督 |
+|------|------|
+| 每年一次（9:7） | 「一次」（9:26） |
+| 帶著別人的血（9:12） | 帶著自己的血（9:12） |
+| 進入人手所造的聖所（9:24） | 進入天堂本身（9:24） |
+| 為自己的罪，也為百姓（9:7） | 「他本是無有罪的」（4:15） |
+| 進去了必須出來，明年再進去 | 「就坐在高天至大者的右邊」（1:3） |
+
+\textcolor{ScriptureGold}{\textbf{留意最後一行：舊約的至聖所裏沒有椅子。祭司永遠不能坐下，因為工作永遠沒有做完。}}
+
+### 三、9:27-28 是全本聖經最工整的一組對照
+
+> ^27^按著定命，人人都有**一次**死，死後且有審判。
+> ^28^像這樣，基督既然**一次**被獻，擔當了多人的罪，將來要向那等候他的人第二次顯現，並與罪無關，乃是為拯救他們。
+
+| 人 | 基督 |
+|------|------|
+| 一次死 | 一次被獻 |
+| 死後有審判 | 第二次顯現，「並與罪無關」 |
+
+**人的第二件事是審判；祂的第二件事是拯救。**祂第一次來處理罪，第二次來已經與罪無關了——**因為那件事在第一次就辦完了。**
+
+### 四、為甚麼「一次」是好消息，也是重話
+
+「一次」使人得安息：**你不必再獻。**
+
+「一次」也堵死了退路：**沒有第二次可獻。**10:26 接著就說：「若故意犯罪，贖罪的祭就再沒有了。」
+
+\textcolor{ScriptureGold}{\textbf{同一個字，一面是床，一面是門檻。}}
+
+### 五、逼近核心的一問
+
+> 你每次犯罪之後，是回到十字架前，還是回到自己的努力裏，想「補償」一次？
+
+**若是後者，你的心其實還在贖罪日的循環裏，一年一年地進去，一年一年地出來。**
+
+---
+
+## 老弟兄精義 (The Distilled Key)
 
 整章的重量，都壓在一個對比上：一邊是「常常」、「每年」、「多次」——大祭司年年進去，永遠獻不完的祭；一邊是「只一次」——基督一次進入，永遠贖罪的事。地上的會幕再華麗，也只是「照著天上樣式做的物件」（9:23），是影兒，不是實體；基督卻是那個實體本身，如今「為我們顯在神面前」（9:24），而且「將來要向那等候他的人第二次顯現」（9:28）。你若還在用「多做一點、多獻一點、多證明一點」的心態活著，這一章要對你說的只有一句話：夠了，已經成了，你要做的不是再獻上一次，是坦然無懼地進來。
 
@@ -318,9 +427,9 @@ publisher: 三書精讀出版系統
 
 1. **良心的潔淨**：基督的血如何「洗淨我的良心」？我是否仍活在罪疚感中，沒有經歷這潔淨？
 
-2. **一次的完成**：基督「只一次」獻上就完成了救贖——這對我試圖「加添」什麼到救恩中的傾向有什麼意義？
+2. **一次的完成**：基督「只一次」獻上就完成了救贖——這對我試圖「加添」甚麼到救恩中的傾向有甚麼意義？
 
-3. **死後的審判**：「死後且有審判」——這對我今天的生活有什麼影響？
+3. **死後的審判**：「死後且有審判」——這對我今天的生活有甚麼影響？
 
 4. **基督的代求**：基督現在「為我們顯在神面前」——這如何影響我的信心和禱告？
 
@@ -346,16 +455,16 @@ publisher: 三書精讀出版系統
 
 1. 舊約敬拜的三重限制（進入、時間、效果）如何「指明進入至聖所的路還未顯明」？
 
-2. 「若不流血，罪就不得赦免了」——血在救贖中為什麼如此重要？
+2. 「若不流血，罪就不得赦免了」——血在救贖中為甚麼如此重要？
 
-3. 基督的血如何「洗淨良心」？這與舊約祭物只能潔淨「身體」有什麼不同？
+3. 基督的血如何「洗淨良心」？這與舊約祭物只能潔淨「身體」有甚麼不同？
 
-4. 9:27如何反駁輪迴觀念？這對傳福音有什麼意義？
+4. 9:27如何反駁輪迴觀念？這對傳福音有甚麼意義？
 
-5. 基督的三次顯現（過去、現在、將來）對我們的信仰生活有什麼全面的意義？
+5. 基督的三次顯現（過去、現在、將來）對我們的信仰生活有甚麼全面的意義？
 
 ---
 
-*本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章整合：老弟兄查經、John MacArthur (gty.org)、G. Campbell Morgan*
 
 *三書精讀項目 · 希伯來書：更美的約 · 09-天上的聖所*

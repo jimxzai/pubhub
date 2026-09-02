@@ -81,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 撒但的權勢終必被完全限制 (Satan's Power Will Ultimately Be Fully Restrained)
 

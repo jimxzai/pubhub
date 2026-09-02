@@ -25,10 +25,10 @@ publisher: 三書精讀出版系統
 > **彼後 1:2**　願恩惠、平安，因你們認識神和我們主耶穌，多多的加給你們。
 > **1:3**　神的神能已將一切關乎生命和虔敬的事賜給我們，皆因我們認識那用自己榮耀和美德召我們的主。
 
-> **ESV 1:2**　May grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord.
-> **1:3**　His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence.
+> **NASB 1:2**　Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,
+> **1:3**　for His divine power has granted to us everything pertaining to life and godliness, through the true knowledge of Him who called us by His own glory and excellence.
 
-兩節裏「認識」都是同一個希臘字：ἐπίγνωσις（epignōsis）。這不是一句客套的祝福語，而是一句因果宣告——恩惠平安「因」認識神而多多加給，神能與一切恩賜「皆因」認識那位呼召我們的主而賜下。彼得沒有先講「你們要怎樣做」，他先講「你們已經認識了誰」。全卷書一切後面要展開的——美德的階梯、假教師的分辨、主再來的盼望——都懸在這兩節經文的因果鏈上：**不是先努力，後認識；是先認識，後一切纔有根。**
+兩節裏「認識」都是同一個希臘字：ἐπίγνωσις（epignōsis）。這不是一句客套的祝福語，而是一句因果宣告——恩惠平安「因」認識神而多多加給，神能與一切恩賜「皆因」認識那位呼召我們的主而賜下。彼得沒有先講「你們要怎樣做」，他先講「你們已經認識了誰」。全卷書一切後面要展開的——美德的階梯、假教師的分辨、主再來的盼望——都懸在這兩節經文的因果鏈上：**不是先努力，後認識；是先認識，後一切才有根。**
 
 ---
 
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 | 1:2 | 「因你們認識神和我們主耶穌」 | 問安的根據 |
 | 1:3 | 「皆因我們認識那……召我們的主」 | 神能與應許的來源 |
 | 1:8 | 「使你們在認識我們的主耶穌基督上，不至於閒懶不結果子」 | 美德階梯的果效標的 |
-| 2:20 | 「倘若他們因認識主——救主耶穌基督，得以脫離世上的汙穢」 | 假教師曾經有過、後來背棄的知識 |
+| 2:20 | 「倘若他們因認識主——救主耶穌基督，得以脫離世上的污穢」 | 假教師曾經有過、後來背棄的知識 |
 
 除此之外，這個字族還有一個更平常的表親——γνῶσις（gnōsis，知識），出現在美德階梯（1:5-6「有了德行，又要加上知識；有了知識，又要加上節制」）與全書末了的收束句（3:18「在恩典和知識上有長進」）。兩個字彼得後書並不嚴格切割——歷代解經者一般認為 *epignōsis* 更常指向那決定性的、與神建立關係的「確實認識」，*gnōsis* 則更常指向這認識展開之後、在日常生活裏持續累積的「知識」；但兩者共用同一個字根 γινώσκω，指向的是同一件事：**不是抽象資訊，是與那一位的關係。**
 
@@ -56,8 +56,8 @@ publisher: 三書精讀出版系統
 | 章 | 麥克阿瑟框架 | 這一種「知道」的內容 | 防禦的對象 |
 |----|-------------|----------------------|-----------|
 | 第一章 | 根基穩固 | **知道你的呼召與救恩是真的**——不是感覺，是有登山變像的目擊見證（1:16-18）與先知確據的話語（1:19-21）作根基 | 對自己得救確據的懷疑 |
-| 第二章 | 分辨真偽 | **知道怎樣認出假教師**——他們曾經「因認識主……得以脫離世上的汙穢」（2:20），如今卻背棄，被同一個字揭穿 | 教會內部披着知識外衣的異端 |
-| 第三章 | 聖潔生活 | **知道將來要發生的事，並知道現在該怎樣活**——因為知道主的日子必要來到（3:10），所以現在「當殷勤，使自己沒有玷汙」（3:14） | 譏誚主再來的懷疑論 |
+| 第二章 | 分辨真偽 | **知道怎樣認出假教師**——他們曾經「因認識主……得以脫離世上的污穢」（2:20），如今卻背棄，被同一個字揭穿 | 教會內部披著知識外衣的異端 |
+| 第三章 | 聖潔生活 | **知道將來要發生的事，並知道現在該怎樣活**——因為知道主的日子必要來到（3:10），所以現在「當殷勤，使自己沒有玷污」（3:14） | 譏誚主再來的懷疑論 |
 
 三章的次序不能顛倒，也不是偶然的編排：**沒有第一章「知道你信的是誰」，第二章就沒有分辨假教師的立足點；沒有第二章「知道假知識長甚麼樣子」，第三章的警醒生活就失去了迫切的理由。**這正是這卷書最深的結構性論證——彼得不是先給一套系統性的教義整理，再附上應用；他讓「知識」這個字本身，一路從根基走到分辨，再走到盼望，**全書的目錄，就是全書的論證。**
 
@@ -71,7 +71,7 @@ publisher: 三書精讀出版系統
 
 > **彼後 3:18**　你們卻要在我們主——救主耶穌基督的恩典和**知識**（gnōsis）上有長進。願榮耀歸給他，從今直到永遠！阿們。
 
-> **ESV 3:18**　But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen.
+> **NASB 3:18**　but grow in the grace and knowledge of our Lord and Savior Jesus Christ. To Him be the glory, both now and to the day of eternity. Amen.
 
 開頭是1:3「神的神能已將一切關乎生命和虔敬的事**賜給**我們」（*dedōrēmenēs*，完成式分詞，已然成就、持續有效的恩典）；結尾是「知識」仍要**長進**（*auxanete*，現在命令式，持續的動作）。這個轉換本身就是一句無聲的信仰宣告：**真知識不是一次領受就完結的財產，而是一條終身要走下去的路。**開卷的認識是根基，是彼得能寫這封信的理由；末了的知識是呼召，是彼得留給讀者一生的功課。中間第二章那些背棄真知識的假教師，正是這條封套裏最尖銳的反例——他們證明了：**認識過，不等於留住了；起點對了，終點仍可能走岔。**這正是為甚麼彼得末了不說「你們已經知道夠了」，而說「你們要……有長進」——真知識從不是可以停下腳步的地方。
 
@@ -81,9 +81,9 @@ publisher: 三書精讀出版系統
 
 彼得後書用力最深的地方，不只是正面陳述真知識，更是揭穿一種冒牌貨。第二章形容的假教師，用的正是同一個字：
 
-> **彼後 2:20**　倘若他們因**認識**主——救主耶穌基督，得以脫離世上的汙穢，後來又在其中被纏住、制伏，他們末後的景況就比先前更不好了。
+> **彼後 2:20**　倘若他們因**認識**主——救主耶穌基督，得以脫離世上的污穢，後來又在其中被纏住、制伏，他們末後的景況就比先前更不好了。
 
-> **ESV 2:20**　For if, after they have escaped the defilements of the world through the **knowledge** of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first.
+> **NASB 2:20**　For if, after they have escaped the defilements of the world by the **knowledge** of the Lord and Savior Jesus Christ, they are again entangled in them and are overcome, the last state has become worse for them than the first.
 
 這一節不是空泛的道德警告，而是彼得整卷書「知識教導」最尖銳的一刀：**這些人不是從未聽過真道，是曾經真實觸碰過那個決定性的「認識」（epignōsis），如今卻被纏住、退回原狀。**第二章已詳細陳明，這段經文本身刻意保留了解讀上的張力——究竟是「認識卻從未真信」，還是「真信之後嚴重背道」，彼得自己沒有替讀者下結論；但無論哪一種讀法，經文所揭露的危機是同一個：**真知識與假知識，外表可能長得一模一樣，直到被試煉揭穿的那一刻。**
 
@@ -91,7 +91,7 @@ publisher: 三書精讀出版系統
 
 > **提前 6:20**　提摩太啊，你要保守所託付你的，躲避世俗的虛談和那敵真道、**似是而非的學問**。
 
-> **ESV 1 Timothy 6:20**　O Timothy, guard the deposit entrusted to you. Avoid the irreverent babble and contradictions of what is falsely called **knowledge** (*gnōsis*).
+> **NASB 1 Timothy 6:20**　Timothy, protect what has been entrusted to you, avoiding worldly, empty chatter and the opposing arguments of what is falsely called **"knowledge"** (*gnōsis*)—
 
 「似是而非的學問」正是被冒了名的 *gnōsis*——保羅稱它「假冒為名」（*pseudōnymos*），彼得後書2:20-21用的是同一種邏輯，只是換了一個角度：不是抽象地警告「有人假冒知識之名」，而是具體地描繪「有人真曾觸碰過真知識，卻選擇回頭」。**兩卷信合起來讀，構成了新約對『假知識』最完整的畫像：一種是從一開始就冒名頂替的（提前6:20），一種是真實嘗過、卻又背棄的（彼後2:20-21）。**彼得整卷書用「真知識」作為抵禦這兩種危機共同的武器——這也正是全書卷首〈概覽〉一章所引麥克阿瑟「三重知識防線」結構分析的核心洞見：彼得對付假教導的主要方案，始終是真教義的知識，而不是情緒性的辯駁。
 
@@ -121,7 +121,7 @@ publisher: 三書精讀出版系統
 
 ## 讓話語住在裏面
 
-**默想一整天的問題**（不要急着回答，帶着走）：
+**默想一整天的問題**（不要急著回答，帶著走）：
 
 1. 1:3「皆因我們認識那……召我們的主」——你信主以來所領受的一切，你有多少時候記得這是「因為認識」在先，而不是「因為努力」在先？
 2. 2:20說有人「因認識主……得以脫離……後來又在其中被纏住」——你生命裏有沒有一處，你曾經真正「知道」，如今卻悄悄鬆手、退回原狀？

@@ -4,13 +4,34 @@
 
 **Lesson 20** | 2026-07-12
 
-**經文核對**：[ai-eden.com/bible/2-corinthians/10](https://www.ai-eden.com/bible/2-corinthians/10?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/2-corinthians/10](https://www.ai-eden.com/bible/2-corinthians/10?t=CUV,NASB&cols=2)
 
 ---
 
 ## 基督焦點 (Christ at the Center)
 
-保羅在這裡不是在為自己的名譽辯護，他是把讀者的眼目轉向一位終極的審判者。v.17引耶利米書9:24「誇口的，當指著主誇口」；v.18更進一步：「蒙悅納的，不是自己稱許的，乃是主所稱許的」。這正呼應保羅在本書信5:10已經宣告的：「因為我們眾人必要在基督臺前顯露出來」。假使徒的自薦、比較、包裝，終必在主的寶座前失效——唯有那位察驗人心肺腑的主所發出的稱許，才是一切事奉真實權柄的唯一根據。
+保羅在這裏不是在為自己的名譽辯護，他是把讀者的眼目轉向一位終極的審判者。v.17承接耶利米書9:23-24的宣告說：「誇口的，當指著主誇口」；v.18更進一步：「蒙悅納的，不是自己稱許的，乃是主所稱許的」。這正呼應保羅在本書信5:10已經宣告的：「因為我們眾人必要在基督臺前顯露出來」。假使徒的自薦、比較、包裝，終必在主的寶座前失效——唯有那位察驗人心肺腑的主所發出的稱許，才是一切事奉真實權柄的唯一根據。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Not What My Hands Have Done**
+> *Horatius Bonar (1861)；公有領域*
+>
+> Not what my hands have done can save my guilty soul;
+> Not what my toiling flesh has borne can make my spirit whole.
+>
+> 我雙手所做的，救不了我有罪的靈魂；
+> 我肉體所擔的勞苦，也不能使我的靈得完全。
+>
+> Thy work alone, O Christ, can ease this weight of sin;
+> Thy blood alone, O Lamb of God, can give me peace within.
+>
+> 基督啊，唯有你的工作能卸下這罪的重擔；
+> 神的羔羊啊，唯有你的血能給我裏面的平安。
+
+保羅說「誇口的，當指著主誇口」（10:17）。**權柄的真假，看它最後把榮耀送到誰那裏。**
 
 ---
 
@@ -18,27 +39,27 @@
 
 ### 中文 — 和合本 (CUV)
 
-> ⁷你們是看眼前的麼？倘若有人自信是屬基督的，他要再想想，他如何屬基督，我們也是如何屬基督的。⁸主賜給我們權柄，是要造就你們，並不是要敗壞你們；我就是為這權柄稍微誇口，也不至於慚愧。
+> ^7^你們是看眼前的麼？倘若有人自信是屬基督的，他要再想想，他如何屬基督，我們也是如何屬基督的。^8^主賜給我們權柄，是要造就你們，並不是要敗壞你們；我就是為這權柄稍微誇口，也不至於慚愧。
 
-> ⁹我說這話，免得你們以為我寫信是要威嚇你們；¹⁰因為有人說：他的信又沉重又利害，及至見面，卻是氣貌不揚，言語粗俗的。¹¹這等人當想，我們不在那裡的時候，信上的言語如何，見面的時候，行事也必如何。
+> ^9^我說這話，免得你們以為我寫信是要威嚇你們；^10^因為有人說：他的信又沉重又利害，及至見面，卻是氣貌不揚，言語粗俗的。^11^這等人當想，我們不在那裏的時候，信上的言語如何，見面的時候，行事也必如何。
 
-> ¹²因為我們不敢將自己和那自薦的人同列相比。他們用自己度量自己，用自己比較自己，乃是不通達的。
+> ^12^因為我們不敢將自己和那自薦的人同列相比。他們用自己度量自己，用自己比較自己，乃是不通達的。
 
-> ¹³我們不願意分外誇口，只要照神所量給我們的界限搆到你們那裡。¹⁴我們並非過了自己的界限，好像搆不到你們那裡；因為我們早到你們那裡，傳了基督的福音。¹⁵我們不仗著別人所勞碌的，分外誇口；但指望你們信心增長的時候，所量給我們的界限，就可以因著你們更加開展，¹⁶得以將福音傳到你們以外的地方；並不是在別人界限之內，藉著他現成的事誇口。
+> ^13^我們不願意分外誇口，只要照神所量給我們的界限搆到你們那裏。^14^我們並非過了自己的界限，好像搆不到你們那裏；因為我們早到你們那裏，傳了基督的福音。^15^我們不仗著別人所勞碌的，分外誇口；但指望你們信心增長的時候，所量給我們的界限，就可以因著你們更加開展，^16^得以將福音傳到你們以外的地方；並不是在別人界限之內，藉著他現成的事誇口。
 
-> ¹⁷但誇口的，當指著主誇口。¹⁸因為蒙悅納的，不是自己稱許的，乃是主所稱許的。
+> ^17^但誇口的，當指著主誇口。^18^因為蒙悅納的，不是自己稱許的，乃是主所稱許的。
 
-### English — ESV
+### English — NASB
 
-> ⁷Look at what is before your eyes. If anyone is confident that he is Christ's, let him remind himself that just as he is Christ's, so also are we. ⁸For even if I boast a little too much of our authority, which the Lord gave for building you up and not for destroying you, I will not be ashamed.
+> ^7^You are looking at things as they are outwardly. If anyone is confident in himself that he is Christ's, let him consider this again within himself, that just as he is Christ's, so also are we. ^8^For even if I boast somewhat further about our authority, which the Lord gave for building you up and not for destroying you, I will not be put to shame,
 
-> ⁹I do not want to appear to be frightening you with my letters. ¹⁰For they say, "His letters are weighty and strong, but his bodily presence is weak, and his speech of no account." ¹¹Let such a person understand that what we say by letter when absent, we do when present.
+> ^9^for I do not wish to seem as if I would terrify you by my letters. ^10^For they say, "His letters are weighty and strong, but his personal presence is unimpressive and his speech contemptible." ^11^Let such a person consider this, that what we are in word by letters when absent, such persons *we are* also in deed when present.
 
-> ¹²Not that we dare to classify or compare ourselves with some of those who are commending themselves. But when they measure themselves by one another and compare themselves with one another, they are without understanding.
+> ^12^For we are not bold to class or compare ourselves with some of those who commend themselves; but when they measure themselves by themselves and compare themselves with themselves, they are without understanding.
 
-> ¹³But we will not boast beyond limits, but will boast only with regard to the area of influence God assigned to us, to reach even to you. ¹⁴For we are not overextending ourselves, as though we did not reach you. For we were the first to come all the way to you with the gospel of Christ. ¹⁵We do not boast beyond limit in the labors of others. But our hope is that as your faith increases, our area of influence among you may be greatly enlarged, ¹⁶so that we may preach the gospel in lands beyond you, without boasting of work already done in another's area of influence.
+> ^13^But we will not boast beyond *our* measure, but within the measure of the sphere which God apportioned to us as a measure, to reach even as far as you. ^14^For we are not overextending ourselves, as if we did not reach to you, for we were the first to come even as far as you in the gospel of Christ; ^15^not boasting beyond *our* measure, *that is,* in other men's labors, but with the hope that as your faith grows, we will be, within our sphere, enlarged even more by you, ^16^so as to preach the gospel even to the regions beyond you, *and* not to boast in what has been accomplished in the sphere of another.
 
-> ¹⁷"Let the one who boasts, boast in the Lord." ¹⁸For it is not the one who commends himself who is approved, but the one whom the Lord commends.
+> ^17^But HE WHO BOASTS IS TO BOAST IN THE LORD. ^18^For it is not he who commends himself that is approved, but he whom the Lord commends.
 
 ---
 
@@ -46,12 +67,12 @@
 
 ### 歷史背景
 
-哥林多後書寫於主後約55-56年，這段經文（10:7-18）處在保羅最激烈的自辯段落（10-13章）的開頭。哥林多教會裡出現一批「自薦的人」（v.12）——後文稱他們為「最大的使徒」（11:5，帶著反諷）——他們不憑基督的呼召，而憑推薦信、修辭口才、猶太血統來建立自己的權威，並嘲笑保羅「氣貌不揚，言語粗俗」（v.10）。更嚴重的是，他們「分外誇口」（v.15），把保羅在哥林多辛苦栽種的果子，當作自己的功績來誇耀。保羅在此不是要贏一場口舌之爭，而是要糾正一個根本的錯亂：事奉的權柄和果效，究竟由誰來斷定？
+哥林多後書寫於主後約55-56年，這段經文（10:7-18）處在保羅最激烈的自辯段落（10-13章）的開頭。哥林多教會裏出現一批「自薦的人」（v.12）——後文稱他們為「最大的使徒」（11:5，帶著反諷）——他們不憑基督的呼召，而憑推薦信、修辭口才、猶太血統來建立自己的權威，並嘲笑保羅「氣貌不揚，言語粗俗」（v.10）。更嚴重的是，他們「分外誇口」（v.15），把保羅在哥林多辛苦栽種的果子，當作自己的功績來誇耀。保羅在此不是要贏一場口舌之爭，而是要糾正一個根本的錯亂：事奉的權柄和果效，究竟由誰來斷定？
 
 ### 文學結構
 
 | 段落 | 經文 | 內容 |
-|------|------|------|
+|----------------------------|----------------------------|----------------------------|
 | 外貌與真實 | 7 | 屬乎基督才是真憑據，不是外貌 |
 | 權柄的目的 | 8-11 | 權柄是為造就，不為敗壞；言行必須一致 |
 | 錯誤的度量 | 12 | 假使徒「用自己度量自己，用自己比較自己」 |
@@ -63,18 +84,18 @@
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|----------------------|----------------------|--------------|------------------------------------------|
 | ἐξουσία | *exousia* | 權柄 | v.8，主所賜下的使徒權柄 |
 | οἰκοδομή | *oikodomē* | 建造、造就 | v.8，與「敗壞」相對，13:10重複同一組對比 |
 | καθαίρεσις | *kathairesis* | 拆毀、敗壞 | v.8，與「造就」相對；10:4「攻破」用同字根 |
-| συνίστημι (συνιστάνω) | *synistēmi / synistanō* | 推薦、自薦 | v.12,18，自我推薦 對比 主的稱許 |
+| συνίστημι (συνιστάνω) | *synistēmi / synistanō* | 推薦、自薦 | v.12,18，自我推薦對比主的稱許 |
 | μετρέω | *metreō* | 度量 | v.12，「用自己度量自己」，度量的對象與標準本身錯了 |
 | καυχάομαι | *kauchaomai* | 誇口 | v.8,13,15,16,17，全段反覆出現的核心動詞 |
 | κανών | *kanōn* | 準則、量尺、界限 | v.13,15,16，神所量給每個工人的服事範圍 |
 
 ### καυχάομαι（誇口）——全段的核心動詞
 
-短短十二節經文裡，「誇口」一詞出現五次，是這段的樞紐。假使徒的誇口，是「分外」的（v.15，ὑπὲρ τὰ μέτρα，超過了量度），把別人的勞苦算作自己的成就。保羅的誇口，卻始終指向v.17——這是他直接引用七十士譯本耶利米書9:24的話。這條線索一路貫穿保羅書信：哥林多前書1:31「誇口的，當指著主誇口」（同一句引文）；加拉太書6:14「但我斷不以別的誇口，只誇我們主耶穌基督的十字架」；腓立比書3:3「我們是……在基督耶穌裡誇口，不靠著肉體」。保羅從不是不誇口的人，他只是把誇口的對象，從自己身上挪到了十字架上。
+短短十二節經文裏，「誇口」一詞出現於五節、共六次，是這段的樞紐。假使徒的誇口，是「分外」的（v.15，ὑπὲρ τὰ μέτρα，超過了量度），把別人的勞苦算作自己的成就。保羅的誇口，卻始終指向v.17——這是他直接引用七十士譯本耶利米書9:24的話。這條線索一路貫穿保羅書信：哥林多前書1:31「誇口的，當指著主誇口」（同一句引文）；加拉太書6:14「但我斷不以別的誇口，只誇我們主耶穌基督的十字架」；腓立比書3:3「乃是我們這以神的靈敬拜、在基督耶穌裏誇口、不靠著肉體的」。保羅從不是不誇口的人，他只是把誇口的對象，從自己身上挪到了十字架上。
 
 ### κανών（準則、界限）——蒙召的範圍
 
@@ -82,42 +103,45 @@
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 權柄為建造，不為拆毀
 
 v.8「主賜給我們權柄，是要造就你們，並不是要敗壞你們」，這一組「建造／拆毀」的對比，保羅在13:10再次重複，可見這不是一時的用詞，而是他對使徒權柄的根本理解。這語言的根源，來自神呼召耶利米時所說的話：「我今日立你在列邦列國之上，為要施行拔出、拆毀、毀壞、傾覆，又要建立、栽植」（耶1:10）。耶利米蒙召的權柄，先拆毀後建造；保羅在哥林多行使的權柄，卻幾乎全是為了建造——即便偶爾要「拆毀」（10:4「攻破堅固的營壘」），最終的目的仍是使人歸向基督、被建立起來。凡不以造就人為目的的權柄，無論披著多麼屬靈的外衣，都不是主所賜的權柄。這是我們從保羅在此領受的第一件事：權柄的合法性，不在乎有沒有、有多大，而在乎它往哪個方向使力。
 
-### 2. 誇口只在主裡——從耶利米到十字架的一條線
+### 2. 誇口只在主裏——從耶利米到十字架的一條線
 
-v.17直接引自耶利米書9:23-24：「智慧人不要因他的智慧誇口，勇士不要因他的勇力誇口，財主不要因他的財物誇口。誇口的，卻誇自己認識我，知道我是耶和華」。保羅在哥林多前書1:31已經引用過同一句話，回應哥林多教會當時因跟隨保羅、亞波羅、磯法而彼此紛爭誇口的問題；此刻他再次引用，回應假使徒憑外表誇口的問題。這條線一路延伸到加拉太書6:14「但我斷不以別的誇口，只誇我們主耶穌基督的十字架；因這十字架，就我而論，世界已經釘在十字架上；就世界而論，我已經釘在十字架上了」。從先知的宣告，到哥林多前書的糾正，到哥林多後書的自辯，再到加拉太書的總結，我們領受的是同一條真理：一切值得誇口的，最終都要收在十字架底下，因為唯有在那裡，人的智慧、勇力、財物都顯出是虛空的。
+v.17直接引自耶利米書9:23-24：「智慧人不要因他的智慧誇口，勇士不要因他的勇力誇口，財主不要因他的財物誇口。誇口的卻因他有聰明，認識我是耶和華，又知道我喜悅在世上施行慈愛、公平，和公義，以此誇口」。保羅在哥林多前書1:31已經引用過同一句話，回應哥林多教會當時因跟隨保羅、亞波羅、磯法而彼此紛爭誇口的問題；此刻他再次引用，回應假使徒憑外表誇口的問題。這條線一路延伸到加拉太書6:14「但我斷不以別的誇口，只誇我們主耶穌基督的十字架；因這十字架，就我而論，世界已經釘在十字架上；就世界而論，我已經釘在十字架上」。從先知的宣告，到哥林多前書的糾正，到哥林多後書的自辯，再到加拉太書的總結，我們領受的是同一條真理：一切值得誇口的，最終都要收在十字架底下，因為唯有在那裏，人的智慧、勇力、財物都顯出是虛空的。
 
 ### 3. 蒙悅納的，是主所稱許的——不是自己稱許的
 
-v.18是這段的結論句：「因為蒙悅納的，不是自己稱許的，乃是主所稱許的」。這句話擊中了每一個世代事奉者最深的試探——用自己的口、自己的成績單來論斷自己是否被神使用。保羅在羅馬書2:29有一句類似的話：「這人的稱讚不是從人來的，乃是從神來的」（原文「稱讚」與「稱許」同一字根ἔπαινος）。真正決定性的稱許，永遠不是來自同儕的比較、社群的按讚，而是主在末後那一句「好，你這又良善又忠心的僕人」（太25:21,23）。我們從這裡領受的，是一種深深的釋放：既然最終的稱許不在我手裡，我就不必靠自己的成績單活著，也不必用別人的失敗來墊高自己。
+v.18是這段的結論句：「因為蒙悅納的，不是自己稱許的，乃是主所稱許的」。這句話擊中了每一個世代事奉者最深的試探——用自己的口、自己的成績單來論斷自己是否被神使用。保羅在羅馬書2:29有一句類似的話：「這人的稱讚不是從人來的，乃是從神來的」（原文「稱讚」與「稱許」同一字根ἔπαινος）。真正決定性的稱許，永遠不是來自同儕的比較、社群的按讚，而是主在末後那一句「好，你這又良善又忠心的僕人」（太25:21,23）。我們從這裏領受的，是一種深深的釋放：既然最終的稱許不在我手裏，我就不必靠自己的成績單活著，也不必用別人的失敗來墊高自己。
 
 ### 4. 屬乎基督（v.7）——事奉合法性唯一的度量
 
-假使徒的問題，v.7一語道破：「你們是看眼前的麼？」他們看的是眼前——口才、氣派、推薦信；保羅要他們看的，是「屬乎基督」這一件事。哥林多前書3:23早已宣告：「你們是屬基督的，基督是屬神的」，這是每一個信徒共同的身分，不是保羅或假使徒獨有的特權。羅馬書8:9進一步說：「人若沒有基督的靈，就不是屬基督的」——屬乎基督不是一種外在的頭銜或風格，而是聖靈內住所結的生命實質。凡把事奉的合法性建立在其他任何度量（口才、學歷、跟隨者數目）之上的，都偏離了保羅在此為我們立下的唯一準繩。
+假使徒的問題，v.7一語道破：「你們是看眼前的麼？」他們看的是眼前——口才、氣派、推薦信；保羅要他們看的，是「屬乎基督」這一件事。哥林多前書3:23早已宣告：「並且你們是屬基督的，基督又是屬神的」，這是每一個信徒共同的身分，不是保羅或假使徒獨有的特權。羅馬書8:9進一步說：「人若沒有基督的靈，就不是屬基督的」——屬乎基督不是一種外在的頭銜或風格，而是聖靈內住所結的生命實質。凡把事奉的合法性建立在其他任何度量（口才、學歷、跟隨者數目）之上的，都偏離了保羅在此為我們立下的唯一準繩。
 
 ### 5. 界限與呼召——謙卑地站在神所量給我的地方
 
-v.13-16保羅三次提到「界限」（κανών），堅持自己不誇耀別人的勞苦，也不越界搶奪別人已耕種的土地。以弗所書2:10說：「我們原是他的工作，在基督耶穌裡造成的，為要叫我們行善，就是神所預備叫我們行的」——每個人蒙召的「善工」都是神預先量定的，不是自己爭來的。哥林多前書3:6-9把這幅圖畫說得更清楚：「我栽種了，亞波羅澆灌了，惟有神叫他生長……我們是與神同工的」。保羅在哥林多後書10章所守的界限，正是這幅圖畫的具體實踐：他甘心只在神量給他的地上勞力，把生長的果效全然交托給神。我們從這裡領受的，是在自己蒙召的範圍裡忠心站立的自由——不必羨慕別人的界限，也不必為自己的界限太小而焦慮。
+v.13-16保羅三次提到「界限」（κανών），堅持自己不誇耀別人的勞苦，也不越界搶奪別人已耕種的土地。以弗所書2:10說：「我們原是他的工作，在基督耶穌裏造成的，為要叫我們行善，就是神所預備叫我們行的」——每個人蒙召的「善工」都是神預先量定的，不是自己爭來的。哥林多前書3:6-9把這幅圖畫說得更清楚：「我栽種了，亞波羅澆灌了，惟有神叫他生長……我們是與神同工的」。保羅在哥林多後書10章所守的界限，正是這幅圖畫的具體實踐：他甘心只在神量給他的地上勞力，把生長的果效全然交托給神。我們從這裏領受的，是在自己蒙召的範圍裏忠心站立的自由——不必羨慕別人的界限，也不必為自己的界限太小而焦慮。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
 
+> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
+> 不應作為原文逐字引用轉引。
+
 ### 教父時期
 
-**聖金口約翰 (John Chrysostom, c. 349-407)**：
+**屈梭多模 (John Chrysostom, 349-407)** 第二十二篇講章逐節展開的，正是本段兩處互相對照的話——量錯了尺的人，與量對了尺的人：
 
 > "They themselves measuring themselves by themselves, and comparing themselves among themselves, are without understanding."（他們用自己度量自己，用自己比較自己，乃是不通達的。）
 >
 > "He that glorieth, let him glory in the Lord... not he that commendeth himself is approved, but whom the Lord commendeth."（誇口的，當指著主誇口……蒙悅納的，不是自己稱許的，乃是主所稱許的。）
 > — St. John Chrysostom, *Homily XXII on the Second Epistle to the Corinthians* (on 10:7-18), in *NPNF1-12: Saint Chrysostom: Homilies on the Epistles of Paul to the Corinthians*, ed. Philip Schaff, https://ccel.org/ccel/schaff/npnf112.html（另見 https://www.ewtn.com/catholicism/library/homilies-on-2nd-corinthians-2030-11699 所收錄之全文）
 
-金口約翰指出，假使徒「用自己度量自己」的荒謬，正在於他們拒絕接受任何在自己之外的準繩——保羅卻堅持一切服事的果效，最終只在主前才算數，不容任何人自我加冕。
+屈梭多模指出，假使徒「用自己度量自己」的荒謬，正在於他們拒絕接受任何在自己之外的準繩——保羅卻堅持一切服事的果效，最終只在主前才算數，不容任何人自我加冕。
 
 ### 改革宗時期
 
@@ -126,40 +150,43 @@ v.13-16保羅三次提到「界限」（κανών），堅持自己不誇耀別
 > "To glory in the Lord... means to place our glory at the disposal of God alone."（指著主誇口……意思是把我們的誇耀，全然交在神一人手中。）
 >
 > "Let us, therefore, leaving off all other things, aim exclusively at this — that we may be approved by God."（因此，讓我們撇下其他一切，單單以蒙神稱許為目標。）
-> — John Calvin, *Commentary on the Second Epistle to the Corinthians*, on 10:17-18, Christian Classics Ethereal Library, https://ccel.org/ccel/calvin/calcom40.xvi.i.html（另見 https://biblehub.com/commentaries/calvin/2_corinthians/10.htm 所收錄之譯文）
+> — John Calvin, *Commentary on the Second Epistle to the Corinthians*, on 10:17-18, Christian Classics Ethereal Library, https://ccel.org/ccel/calvin/calcom40.xvi.iii.html（另見 https://biblehub.com/commentaries/calvin/2_corinthians/10.htm 所收錄之譯文）
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**三種假的度量之後，只剩最後一種是真的**：
+
+> "It is only when the Lord's judgment is sought, and is found to commend, that a man may be sure he is approved."（唯有當人尋求主的判斷，並且得著主的稱許時，他才可以確知自己是蒙悅納的。）
+
+摩根把10:12-18的整段論證，收在一句層層剝除的話裏：
+
+> "Not what does my neighbour think of me; not how do I compare with others; not what do I think of myself; but what does the Lord think of me, is the thing that matters."（不是我的鄰舍怎麼看我；不是我與別人比較起來如何；不是我自己怎麼看自己；乃是主怎麼看我——這才是要緊的事。）
+
+摩根指出，保羅在此依次否定了三種度量：別人的評價、與人的比較、自我的稱許。前兩種尚且明顯，第三種最難察覺，因為它披著自信的外衣；而三者被否定之後，人若不肯把自己交在主的判斷之下，就一無所有——這正是v.18所要人站上去的地方。
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟在「How to Recognize a Man of God」系列（47-68至47-71，1996年4-6月）中，把10:7-18處理為一套辨識真僕人的準則：不是憑外表氣派，也不是憑自我推薦的信函，而是憑生命與果子。他在47-68中把v.7「屬乎基督」列為第一道試驗，把v.8「造就而非敗壞」列為第二道試驗——一個真正屬神的工人，他的服事使人被建立起來，而不是使人惶惶不安或彼此紛爭。到47-71處理v.17-18時，他把整段的邏輯收束於一點：既然人隨時可能被表象迷惑，唯一穩妥的度量，就是把一切都交還給那位「察驗人心肺腑」的主。
 
 > "If anyone is confident in himself that he is Christ's, let him consider this again... The Lord gave [that authority] for building you up and not for destroying you."（若有人自信是屬基督的，他要再想想……主賜下這權柄，是要造就你們，並不是要敗壞你們。）
 > — John MacArthur, "How to Recognize a Man of God, Part 1" (gty.org, 講道編號 47-68，1996年4月14日), on 2 Corinthians 10:7-8, https://www.gty.org/library/sermons-library/47-68
 
-> "But let him who boasts, boast in the Lord... For not he who commends himself is approved, but whom the Lord commends."（誇口的，當指著主誇口……蒙悅納的，不是自己稱許的，乃是主所稱許的。）
+麥克阿瑟講到10:17-18時，把保羅的話接回它的舊約出處——耶利米書9:24與哥林多前書1:31的同一句「誇口的，當指著主誇口」——指出保羅並非自創一條事奉的準則，是引用神早已立定的準則：蒙悅納的不是自己稱許的，乃是主所稱許的。
 > — John MacArthur, "How to Recognize a Man of God, Part 4" (gty.org, 講道編號 47-71，1996年6月2日), on 2 Corinthians 10:14-18, https://www.gty.org/library/sermons-library/47-71
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-（此段落之三大資源中，G. Campbell Morgan 著作《The Corinthian Letters of Paul》〔1946〕論及本段的具體文字，經多次查證archive.org掃描本與相關檢索，暫未能取得可逐字引用之原文，故本節不列摩根之分項，以免杜撰引文，僅保留麥克阿瑟與黃長老兩項。）
+### 詩篇 20:7
 
-### 麥克阿瑟：憑果子，不憑自薦 (John MacArthur)
+> **詩篇 20:7**　有人靠車，有人靠馬，但我們要提到耶和華——我們神的名。
 
-麥克阿瑟在「How to Recognize a Man of God」系列（47-68至47-71，1996年4-6月）中，把10:7-18處理為一套辨識真僕人的準則：不是憑外表氣派，也不是憑自我推薦的信函，而是憑生命與果子。他在47-68中把v.7「屬乎基督」列為第一道試驗，把v.8「造就而非敗壞」列為第二道試驗——一個真正屬神的工人,他的服事使人被建立起來，而不是使人惶惶不安或彼此紛爭。到47-71處理v.17-18時，他把整段的邏輯收束於一點：既然人隨時可能被表象迷惑，唯一穩妥的度量，就是把一切都交還給那位「察驗人心肺腑」的主。
+車和馬是當時最先進的軍備——不是壞東西，是靠錯了對象。
 
-> "But let him who boasts, boast in the Lord... For not he who commends himself is approved, but whom the Lord commends."
-> — John MacArthur, "How to Recognize a Man of God, Part 4" (gty.org, 47-71, 1996年6月2日), https://www.gty.org/library/sermons-library/47-71
+保羅在 10:12 說：「他們用自己度量自己，用自己比較自己，乃是不通達的。」\textcolor{ScriptureGold}{\textbf{自己量自己，永遠量得剛剛好。所以 10:18 說：「因為蒙悅納的，不是自己稱許的，乃是主所稱許的。」}}
 
-### 黃長老查經：屬乎基督，不屬乎自己 (Ask Elder Wong)
-
-黃長老常把v.7和v.12擺在一起讀：「你們是看眼前的麼？」和「他們用自己度量自己」，是同一個病的兩個症狀——都是把眼睛從基督身上挪開，落到自己或別人身上。他會這樣問：「你今天決定一個人是否『有屬靈份量』，你用的是什麼度量衡？是他的頭銜、他的追隨者，還是他手上有沒有釘痕？」他也常把v.17-18和哥林多前書4:2放在一起讀：「所求於管家的，是要他有忠心」——不是要管家自己宣佈忠心，而是主人來查看的那一天，才算數。他會說：「你辛苦一輩子建立的一切，最後過秤的，不是你自己站上磅秤，是主站在磅秤旁邊。」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-### 聖詩：When I Survey the Wondrous Cross
+### When I Survey the Wondrous Cross
 
 > **When I Survey the Wondrous Cross**
 > *Isaac Watts, 1707*
@@ -181,43 +208,46 @@ v.13-16保羅三次提到「界限」（κανών），堅持自己不誇耀別
 
 以撒·華滋（Isaac Watts）於1707年所作，被公認是英語聖詩中最偉大的作品之一，其領受的根源正是加拉太書6:14「但我斷不以別的誇口，只誇我們主耶穌基督的十字架」。第二節「Forbid it, Lord, that I should boast, save in the death of Christ my God」，幾乎是保羅在哥林多後書10:17「誇口的，當指著主誇口」的詩化迴響——一切值得誇耀的資本（富足、驕傲、成就），在十字架前都成了「損失」（詩中"loss"一詞，正是腓立比書3:7「我先前以為與我有益的，我現在因基督都當作有損的」的用字）。
 
-### 詩篇：詩篇 44:6-8
+### 詩篇 44:6-8
 
-> ⁶因為，我必不靠我的弓；我的刀也不能使我得勝。
-> ⁷惟你救了我們脫離敵人，使恨我們的人羞愧。
-> ⁸我們終日因神誇耀，還要永遠稱謝你的名。（細拉）
+> ^6^因為，我必不靠我的弓；我的刀也不能使我得勝。
+> ^7^惟你救了我們脫離敵人，使恨我們的人羞愧。
+> ^8^我們終日因神誇耀，還要永遠稱謝你的名。（細拉）
 
-> ⁶For not in my bow do I trust, nor can my sword save me.
-> ⁷But you have saved us from our foes and have put to shame those who hate us.
-> ⁸In God we have boasted continually, and we will give thanks to your name forever. Selah
+> ^6^For I will not trust in my bow, Nor will my sword save me.
+> ^7^But You have saved us from our adversaries, And You have put to shame those who hate us.
+> ^8^In God we have boasted all day long, And we will give thanks to Your name forever. Selah.
 
 詩篇44篇的詩人回顧列祖不是靠自己的刀劍得地土（v.3），而是全然歸功於神的右手；到了v.8，這信念結出果子：「我們終日因神誇耀」——原文動詞正是七十士譯本中與哥林多後書10:17同源的「誇口」一詞。這篇詩篇比保羅早了近千年，卻已經在教導同一個功課：屬神子民的誇口，不是不誇口，而是把誇口的對象換了一位——從自己的弓箭刀劍，換成那位施行拯救的耶和華。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：真實的權柄不是靠外貌、口才或推薦信建立起來的，而是靠它是否使人被建造起來；真實的誇口，不是把自己和別人相比，而是把眼目全然轉向那位在末後親自稱許人的主——蒙悅納的，從來不是自己稱許自己，乃是主所稱許的。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-「誇口」這條線索，從耶利米書9:23-24發端：「智慧人不要因他的智慧誇口……誇口的，卻誇自己認識我，知道我是耶和華」，一路穿過保羅的書信——哥林多前書1:31（面對紛爭）、哥林多後書10:17（面對假使徒）、加拉太書6:14（面對割禮派的驕傲），最後在啟示錄裡收束成敬拜的姿態：二十四位長老俯伏在寶座前，把冠冕放在寶座前，說：「我們的主，我們的神，你是配得榮耀、尊貴、權柄的」（啟4:10-11）。整本聖經只允許一種誇口方式：把自己的冠冕摘下來，放在寶座前。保羅在哥林多後書10章所做的，正是提前示範了啟示錄末了眾聖徒要做的那件事。
+「誇口」這條線索，從耶利米書9:23-24發端：「智慧人不要因他的智慧誇口……誇口的卻因他有聰明，認識我是耶和華，又知道我喜悅在世上施行慈愛、公平，和公義，以此誇口」，一路穿過保羅的書信——哥林多前書1:31（面對紛爭）、哥林多後書10:17（面對假使徒）、加拉太書6:14（面對割禮派的驕傲），最後在啟示錄裏收束成敬拜的姿態：二十四位長老俯伏在寶座前，把冠冕放在寶座前，說：「我們的主，我們的神，你是配得榮耀、尊貴、權柄的」（啟4:10-11）。整本聖經只允許一種誇口方式：把自己的冠冕摘下來，放在寶座前。保羅在哥林多後書10章所做的，正是提前示範了啟示錄末了眾聖徒要做的那件事。
 
 ### 提問式對話 (Let the Reader Speak)
 
-保羅說「你們是看眼前的麼」——你今天判斷一個人「有沒有分量」，看的是什麼？如果連保羅這樣的使徒都被人嫌棄「氣貌不揚，言語粗俗」，你覺得神揀選人做工，最看重的到底是什麼？「用自己度量自己」，這句話聽起來很荒謬，但你上一次拿自己和誰比較，是什麼時候？比較完之後，你心裡是驕傲，還是更沮喪？
+老弟兄不急著給答案，他一層一層地問：
 
-### 活在今天．AI時代 (Living It Today)
+- 先問：保羅說「你們是看眼前的麼」——你今天判斷一個人「有沒有分量」，看的是甚麼？如果連保羅這樣的使徒都被人嫌棄「氣貌不揚，言語粗俗」，你覺得神揀選人做工，最看重的到底是甚麼？
+- 再問：「用自己度量自己」，這句話聽起來很荒謬，但你上一次拿自己和誰比較，是甚麼時候？比較完之後，你心裏是驕傲，還是更沮喪？
+- 追問：老弟兄常把v.7和v.12擺在一起讀：「你們是看眼前的麼？」和「他們用自己度量自己」，是同一個病的兩個症狀——都是把眼睛從基督身上挪開，落到自己或別人身上。他會這樣問：「你今天決定一個人是否『有屬靈份量』，你用的是甚麼度量衡？是他的頭銜、他的追隨者，還是他手上有沒有釘痕？」他也常把v.17-18和哥林多前書4:2放在一起讀：「所求於管家的，是要他有忠心」——不是要管家自己宣佈忠心，而是主人來查看的那一天，才算數。他會說：「你辛苦一輩子建立的一切，最後過秤的，不是你自己站上磅秤，是主站在磅秤旁邊。」
+- 落到自己：保羅在10:8說他的權柄「是要造就你們，並不是要敗壞你們」。權柄的用途，是判別權柄真假的標準。安靜一分鐘，問：我手上有沒有一點權柄——在家裏、在職場、在教會？我用它造就了誰？
 
-v.12「他們用自己度量自己，用自己比較自己」，這句兩千年前的話，精準地描述了今天社群媒體的運作邏輯——追蹤者數字、按讚數、履歷上的頭銜，都是「用自己比較自己」的現代版工具。演算法甚至會主動把「和你相似的人」推到你面前，讓比較變成一種不需要你主動尋找、卻無時無刻不在發生的背景噪音。矽谷和AI時代的職場，把「個人品牌」("personal branding")當作生存法則，鼓勵每個人都成為自己的行銷部門——但保羅在這裡提醒我們：自我行銷做得再精緻，若沒有主的稱許，也只是「不通達」。今天，你的價值感是被追蹤者數字餵養的，還是被「主所稱許」餵養的？
+### 活在今天 · AI時代 (Living It Today)
+
+v.12「他們用自己度量自己，用自己比較自己」，這句兩千年前的話，精準地描述了今天社群媒體的運作邏輯——追蹤者數字、按讚數、履歷上的頭銜，都是「用自己比較自己」的現代版工具。演算法甚至會主動把「和你相似的人」推到你面前，讓比較變成一種不需要你主動尋找、卻無時無刻不在發生的背景噪音。矽谷和AI時代的職場，把「個人品牌」("personal branding")當作生存法則，鼓勵每個人都成為自己的行銷部門——但保羅在這裏提醒我們：自我行銷做得再精緻，若沒有主的稱許，也只是「不通達」。今天，你的價值感是被追蹤者數字餵養的，還是被「主所稱許」餵養的？
 
 ### 今天的祭壇 (Today's Altar)
 
 具體行動：今天刻意停止一次「比較」的衝動——當你發現自己正在拿自己和某個人（同事、同工、社群媒體上的某個帳號）比較時，停下來，把那個念頭轉成一句禱告：「主啊，我不要用自己度量自己，我只求你的稱許」，然後繼續手上的工作，不再看那個比較的對象。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-真實的權柄不是靠外貌、口才或推薦信建立起來的，而是靠它是否使人被建造起來；真實的誇口，不是把自己和別人相比，而是把眼目全然轉向那位在末後親自稱許人的主——蒙悅納的，從來不是自己稱許自己，乃是主所稱許的。
+**你看見耶穌了嗎**：保羅在這一整段裏，眼目從未真正停在自己或假使徒身上——他要哥林多人看見的，是那位在末後審判臺前，親自稱許或不稱許每一個工人的主；你在這一章看見的，不是一個為自己辯護的使徒，而是一位把一切誇口都指向十字架、把一切稱許都交還給主的僕人。
 
 ---
 
@@ -225,13 +255,11 @@ v.12「他們用自己度量自己，用自己比較自己」，這句兩千年�
 
 ### 默想問題
 
-1. **屬乎基督**：如果有人問我「你憑什麼」，我第一個反射性想到的憑據，是「我屬乎基督」，還是別的東西（成績、頭銜、人脈）？
+1. **屬乎基督**：如果有人問我「你憑甚麼」，我第一個反射性想到的憑據，是「我屬乎基督」，還是別的東西（成績、頭銜、人脈）？
 
-2. **造就或敗壞**：我這週在家庭、職場、教會裡使用的每一分「影響力」，是在造就人，還是在無意中敗壞人？
+2. **比較的試探**：我最近一次陷入「用自己度量自己」的比較，是在甚麼場景下發生的？結果如何？
 
-3. **比較的試探**：我最近一次陷入「用自己度量自己」的比較，是在什麼場景下發生的？結果如何？
-
-4. **主的稱許**：如果我今天生命中一切成就都不能拿出來說，只剩下「主怎麼看我」這一件事，我心裡會是平安，還是不安？
+3. **主的稱許**：如果我今天生命中一切成就都不能拿出來說，只剩下「主怎麼看我」這一件事，我心裏會是平安，還是不安？
 
 ### 禱告回應
 
@@ -239,7 +267,7 @@ v.12「他們用自己度量自己，用自己比較自己」，這句兩千年�
 > 求你赦免我常常想用自己稱許自己，
 > 也常常拿自己和別人比較。
 > 求你幫助我，
-> 只求你所量給我的界限裡忠心，
+> 只求你所量給我的界限裏忠心，
 > 只指著你誇口，
 > 因為蒙悅納的，不是自己稱許的，
 > 乃是你所稱許的。
@@ -247,21 +275,19 @@ v.12「他們用自己度量自己，用自己比較自己」，這句兩千年�
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅說「我們不敢將自己和那自薦的人同列相比」，這句話對今天教會界的名氣文化，有什麼提醒？
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 權柄為建造不為拆毀 | 10:8 | 耶1:10、10:4 |
+| 誇口的當指著主誇口 | 10:17 | 耶9:23-24、林前1:31、加6:14、腓3:3 |
+| 蒙悅納在乎主的稱許 | 10:18 | 羅2:29、太25:21,23 |
+| 屬乎基督的身分 | 10:7 | 林前3:23、羅8:9 |
+| 蒙召的界限與量尺 | 10:13-16 | 加6:16、羅12:3、林前3:6-9 |
+| 錯誤的自我度量 | 10:12 | 詩20:7 |
+| 誇口對象的轉換 | 10:17 | 詩44:6-8 |
 
-2. v.8「造就」與「敗壞」的對比，如何幫助我們分辨一個屬靈影響力是否出於神？
-
-3. 「主賜給我們權柄」——我今天所擁有的任何權柄（父母、主管、帶領者），是從誰領受的？我如何使用它？
-
-4. 詩篇44:8說「我們終日因神誇耀」，這與我平常理解的「謙卑」是否矛盾？為什麼不矛盾？
-
-5. 如果「蒙悅納的，不是自己稱許的，乃是主所稱許的」是真的，這如何改變我對「成功」的定義？
-
----
-
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
 
 ---
 

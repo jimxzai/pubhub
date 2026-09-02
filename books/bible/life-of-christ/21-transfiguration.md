@@ -85,7 +85,7 @@
 
 ---
 
-## 21.5 神學要點 (Theological Points)
+## 21.5 領受要點 (Truths Received)
 
 ### 1. 父神的第二次發聲
 

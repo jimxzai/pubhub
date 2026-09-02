@@ -48,7 +48,7 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^1^'To the angel of the church in Sardis write: He who has the seven Spirits of God and the seven stars, says this: 'I know your deeds, that you have a name that you are alive, but you are dead. \jesus{ ^2^'Wake up, and strengthen the things that remain, which were about to die; for I have not found your deeds completed in the sight of My God. ^3^'So remember what you have received and heard; and keep *it*, and repent. Therefore if you do not wake up, I will come like a thief, and you will not know at what hour I will come to you.
+> ^1^'To the angel of the church in Sardis write: He who has the seven Spirits of God and the seven stars, says this: 'I know your deeds, that you have a name that you are alive, but you are dead. \jesus{ ^2^'Wake up, and strengthen the things that remain, which were about to die; for I have not found your deeds completed in the sight of My God. ^3^'So remember what you have received and heard; and keep \textit{it}, and repent. Therefore if you do not wake up, I will come like a thief, and you will not know at what hour I will come to you.
 
 > ^4^'But you have a few people in Sardis who have not soiled their garments; and they will walk with Me in white, for they are worthy. ^5^'He who overcomes will thus be clothed in white garments; and I will not erase his name from the book of life, and I will confess his name before My Father and before His angels. ^6^'He who has an ear, let him hear what the Spirit says to the churches.'}
 
@@ -83,7 +83,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 名聲與實際的落差 (The Gap Between Reputation and Reality)
 

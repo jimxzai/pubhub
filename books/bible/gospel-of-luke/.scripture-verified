@@ -1,0 +1,23 @@
+# 和合本 做／作 verdicts for this volume — verified 2026-08-31 against
+# bible.fhl.net (VERSION1=unv, whole-chapter fetch) and recorded so nobody
+# repeats the work. scripts/lint-scripture-text.py deliberately refuses to
+# auto-fix this class because CUV genuinely uses both members word-by-word.
+#
+# CORRECTED (book had 做, CUV has 作):
+#   路 2:2   居里扭作敘利亞巡撫
+#   路 2:34  又要作毀謗的話柄
+#   路 3:1   本丟·彼拉多作猶太巡撫 / 希律作加利利分封的王 /
+#            腓力作以土利亞… / 呂撒聶作亞比利尼分封的王
+#   路 3:2   該亞法作大祭司
+#   路 12:19 可作多年的費用   (2 places in the file)
+#
+# CONFIRMED CORRECT AS PRINTED (CUV also uses 做) — do not "fix" these:
+#   路 6:2   你們為甚麼做安息日不可做的事
+#   路 6:3-4 大衛…所做的事，連這個你們也沒有念過麼
+#   路 7:8   你做這事
+#   路 8:39  神為你做了何等大的事 / 耶穌為他做了何等大的事
+#   路 8:56  不要把所做的事告訴人
+#   路 10:2  做工的人少
+#   路 10:25 我該做甚麼才可以承受永生
+#   路 13:14 有六日應當做工
+#   詩 1:3   凡他所做的盡都順利   (quoted in ch06 詩篇與聖詩)

@@ -247,7 +247,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 基督的先存性 (Pre-existence of Christ)
 
@@ -418,7 +418,7 @@ publisher: 三書精讀出版系統
 | *hydria* | hydria | 水缸 | 用於潔淨禮儀 |
 | *archi-triklinos* | architriklinos | 管宴席的 | 宴會總管 |
 
-### 「時候」(*hōra*) 的神學意義
+### 「時候」(*hōra*) 的屬靈意義
 
 約翰福音中「我的時候」出現多次，始終指向十字架：
 - 2:4 — 「我的時候還沒有到」
@@ -429,7 +429,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 新約超越舊約
 
@@ -646,7 +646,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 重生的必要性 (Necessity of New Birth)
 
@@ -860,7 +860,7 @@ publisher: 三書精讀出版系統
 - 猶太人繞路避開撒瑪利亞
 
 **耶穌的突破**：
-- 「必須經過撒瑪利亞」(4:4) — 神學上的必須
+- 「必須經過撒瑪利亞」(4:4) — 出於神旨意的必須
 - 與婦人對話 — 打破性別隔閡
 - 要水喝 — 打破潔淨禁忌
 
@@ -890,7 +890,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 普世的救恩
 
@@ -1110,7 +1110,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 安息日的主
 
@@ -1238,7 +1238,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 第一個「我是」宣告
 
@@ -1391,7 +1391,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 活水的應許
 
@@ -1525,7 +1525,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 第二個「我是」宣告
 
@@ -1648,7 +1648,7 @@ publisher: 三書精讀出版系統
 
 ### 猶太人的苦難觀
 
-當時普遍認為疾病是罪的結果。門徒的問題反映這種神學：誰犯了罪？耶穌打破這錯誤觀念。
+當時普遍認為疾病是罪的結果。門徒的問題反映這種觀念：誰犯了罪？耶穌打破這錯誤觀念。
 
 ### 西羅亞池
 
@@ -1669,7 +1669,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 苦難的目的
 
@@ -1854,7 +1854,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 兩個「我是」宣告
 
@@ -2091,7 +2091,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 第五個「我是」宣告
 
@@ -2310,7 +2310,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 馬利亞的膏抹
 
@@ -2490,11 +2490,11 @@ publisher: 三書精讀出版系統
 - *louō* (沐浴) — 指救恩的潔淨，一次完成
 - *niptō* (洗) — 指日常行走中的潔淨，需要持續
 
-神學意義：信徒得救是一次性的（稱義），但需要持續的潔淨（成聖）。
+屬靈意義：信徒得救是一次性的（稱義），但需要持續的潔淨（成聖）。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 愛到底 (*eis telos*)
 
@@ -2735,7 +2735,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 基督是唯一的道路
 
@@ -2885,7 +2885,7 @@ publisher: 三書精讀出版系統
 
 3. 「若不藉著我，沒有人能到父那裏去」——這話在今天的多元社會中有什麼挑戰？
 
-4. 「另一位保惠師」的「另一位」(*allos*) 有什麼神學意義？
+4. 「另一位保惠師」的「另一位」(*allos*) 有什麼屬靈意義？
 
 5. 基督的平安與世界的平安有什麼不同？你如何在困難中經歷這平安？
 
@@ -2969,7 +2969,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 第七個「我是」宣告
 
@@ -3141,7 +3141,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 聖靈來的益處
 
@@ -3353,7 +3353,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 耶穌為自己禱告 (17:1-5)
 
@@ -3583,7 +3583,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 耶穌主動受難
 
@@ -3817,7 +3817,7 @@ publisher: 三書精讀出版系統
 |--------|------|------|------|
 | *tetelestai* | tetelestai | 成了 | 完成時態：已經完成、永遠完成 |
 | *paradidōmi* | paradidōmi | 交付 | 主動交出生命 |
-| *haima kai hydōr* | haima kai hydōr | 血和水 | 醫學和神學意義 |
+| *haima kai hydōr* | haima kai hydōr | 血和水 | 醫學和屬靈意義 |
 | *idou ho anthrōpos* | idou ho anthrōpos | 看這個人 | 拉丁文 Ecce Homo |
 
 ### 「成了」(*Tetelestai*) 的深意
@@ -3830,7 +3830,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 「看這個人！」(*Ecce Homo*)
 
@@ -3849,7 +3849,7 @@ publisher: 三書精讀出版系統
 | 5 | 「我渴了」(19:28) | 肉身的痛苦 |
 | 6 | 「成了！」(19:30) | 救贖的完成 |
 
-### 3. 「成了！」的神學意義
+### 3. 「成了！」的屬靈意義
 
 | 層面 | 意義 |
 |------|------|
@@ -3860,7 +3860,7 @@ publisher: 三書精讀出版系統
 
 ### 4. 血和水
 
-「有血和水流出來」(19:34) — 醫學上可能是心包積液和血液；神學上象徵：
+「有血和水流出來」(19:34) — 醫學上可能是心包積液和血液；屬靈上象徵：
 - **血** — 救贖、潔淨罪（利未記 17:11）
 - **水** — 潔淨、聖靈、新生命（約翰福音 7:38-39）
 
@@ -3884,7 +3884,7 @@ publisher: 三書精讀出版系統
 > ^1^我的神，我的神，為甚麼離棄我？
 
 > ^14^我如水被倒出來，我的骨頭都脫了節；
-> 我心如蠟，在我裏面熔化。
+> 我心如蠟，在我裏面鎔化。
 > ^15^我的精力枯乾，如同瓦片；我的舌頭貼在牙床上。
 > 你將我安置在死亡的塵土中。
 > ^16^犬類圍著我，惡人一夥環繞我；
@@ -4002,7 +4002,7 @@ publisher: 三書精讀出版系統
 
 2. 「成了」(*tetelestai*) 作為商業用語「付清」，對理解救恩有什麼幫助？
 
-3. 血和水從耶穌肋旁流出，有什麼醫學和神學的意義？
+3. 血和水從耶穌肋旁流出，有什麼醫學和屬靈的意義？
 
 4. 約翰為什麼特別強調舊約預言的應驗？這對我們的信心有什麼幫助？
 
@@ -4108,7 +4108,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 復活的證據
 
@@ -4350,7 +4350,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 回到起點
 

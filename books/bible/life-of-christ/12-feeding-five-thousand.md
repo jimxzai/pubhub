@@ -86,7 +86,7 @@
 
 ---
 
-## 12.5 神學要點 (Theological Points)
+## 12.5 領受要點 (Truths Received)
 
 ### 1. 五餅二魚的數學
 

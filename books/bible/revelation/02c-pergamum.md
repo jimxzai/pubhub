@@ -50,9 +50,9 @@ publisher: 三書精讀出版系統
 
 > ^12^'And to the angel of the church in Pergamum write: The One who has the sharp two-edged sword says this: \jesus{ ^13^'I know where you dwell, where Satan's throne is; and you hold fast My name, and did not deny My faith even in the days of Antipas, My witness, My faithful one, who was killed among you, where Satan dwells.
 
-> ^14^'But I have a few things against you, because you have there some who hold the teaching of Balaam, who kept teaching Balak to put a stumbling block before the sons of Israel, to eat things sacrificed to idols and to commit *acts of* immorality. ^15^'So you also have some who in the same way hold the teaching of the Nicolaitans.
+> ^14^'But I have a few things against you, because you have there some who hold the teaching of Balaam, who kept teaching Balak to put a stumbling block before the sons of Israel, to eat things sacrificed to idols and to commit \textit{acts of} immorality. ^15^'So you also have some who in the same way hold the teaching of the Nicolaitans.
 
-> ^16^'Therefore repent; or else I am coming to you quickly, and I will make war against them with the sword of My mouth. ^17^'He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, to him I will give *some* of the hidden manna, and I will give him a white stone, and a new name written on the stone which no one knows but he who receives it.'}
+> ^16^'Therefore repent; or else I am coming to you quickly, and I will make war against them with the sword of My mouth. ^17^'He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, to him I will give \textit{some} of the hidden manna, and I will give him a white stone, and a new name written on the stone which no one knows but he who receives it.'}
 
 ---
 
@@ -86,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 外部的忠貞不能替代內部的聖潔
 

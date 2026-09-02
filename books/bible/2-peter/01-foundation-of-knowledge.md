@@ -63,15 +63,19 @@ publisher: 三書精讀出版系統
 
 > ^19^**我們並有先知更確的預言，如同燈照在暗處。你們在這預言上留意，直等到天發亮、晨星在你們心裏出現的時候，才是好的。**^20^**第一要緊的，該知道經上所有的預言沒有可隨私意解說的。**^21^**因為預言從來沒有出於人意的，乃是人被聖靈感動，說出神的話來。**
 
-### English — ESV
+### English — NASB (New American Standard Bible)
 
-> **1:3-4** His divine power has granted to us all things that pertain to life and godliness, through the knowledge of him who called us to his own glory and excellence, by which he has granted to us his precious and very great promises, so that through them you may become partakers of the divine nature, having escaped from the corruption that is in the world because of sinful desire.
+> ^1^Simon Peter, a bond-servant and apostle of Jesus Christ, To those who have received a faith of the same kind as ours, by the righteousness of our God and Savior, Jesus Christ: ^2^Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,
 
-> **1:5-7** For this very reason, make every effort to supplement your faith with virtue, and virtue with knowledge, and knowledge with self-control, and self-control with steadfastness, and steadfastness with godliness, and godliness with brotherly affection, and brotherly affection with love.
+> ^3^**for His divine power has granted to us everything pertaining to life and godliness, through the true knowledge of Him who called us by His own glory and excellence.** ^4^**Through these He has granted to us His precious and magnificent promises, so that by them you may become partakers of the divine nature, having escaped the corruption that is in the world on account of lust.**
 
-> **1:16-18** For we did not follow cleverly devised myths when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of his majesty. For when he received honor and glory from God the Father, and the voice was borne to him by the Majestic Glory, "This is my beloved Son, with whom I am well pleased," we ourselves heard this very voice borne from heaven, for we were with him on the holy mountain.
+> ^5^**Now for this very reason also, applying all diligence, in your faith supply moral excellence, and in your moral excellence, knowledge,** ^6^**and in your knowledge, self-control, and in your self-control, perseverance, and in your perseverance, godliness,** ^7^**and in your godliness, brotherly kindness, and in your brotherly kindness, love.**
 
-> **1:19-21** And we have the prophetic word more fully confirmed, to which you will do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star rises in your hearts, knowing this first of all, that no prophecy of Scripture comes from someone's own interpretation. For no prophecy was ever produced by the will of man, but men spoke from God as they were carried along by the Holy Spirit.
+> ^16^**For we did not follow cleverly devised tales when we made known to you the power and coming of our Lord Jesus Christ, but we were eyewitnesses of His majesty.** ^17^**For when He received honor and glory from God the Father, such a declaration as this was made to Him by the Majestic Glory: “This is My beloved Son with whom I am well pleased”—** ^18^**and we ourselves heard this declaration made from heaven when we were with Him on the holy mountain.**
+
+> ^19^**And so we have the prophetic word made more sure, to which you do well to pay attention as to a lamp shining in a dark place, until the day dawns and the morning star arises in your hearts.** ^20^**But know this first of all, that no prophecy of Scripture becomes a matter of someone's own interpretation,** ^21^**for no prophecy was ever made by an act of human will, but men moved by the Holy Spirit spoke from God.**
+
+> **英譯體例**：本章英譯（NASB 2020）只列正在解說的兩段（1:1-7、1:16-21），不逐節全錄——英譯在本書是為對照解說而設，不是另備一部英文聖經。全書英譯引用範圍與版權條件見卷末〈附錄：參考資料〉「經文版本」一節。
 
 ---
 
@@ -122,7 +126,7 @@ publisher: 三書精讀出版系統
 | φιλαδελφία | philadelphia | 愛弟兄的心 | 1:7；原指血緣手足之情，此處轉指信仰群體內部的親情 |
 | ἀγάπη | agapē | 愛（眾人的心） | 1:7；美德階梯的頂點，自我捨己、不計回報的愛，涵蓋弟兄之外的眾人 |
 | ἐπόπται | epoptai | 親眼見過的人、目擊者 | 1:16「親眼見過他的威榮」；此字在希臘密教（如厄琉息斯秘儀）中專指已被引入、得見最高奧秘的人 |
-| ἴδιος ἐπιλύσεως | idias epilyseōs | 私意解說 | 1:20「沒有可隨私意解說的」；*epilysis*原意是「解開、釋放」，此處指解經 |
+| ἰδίας ἐπιλύσεως | idias epilyseōs | 私意解說 | 1:20「沒有可隨私意解說的」；*epilysis*原意是「解開、釋放」，此處指解經 |
 
 ### *epoptai*：彼得奪回了一個異教的詞
 
@@ -200,14 +204,14 @@ publisher: 三書精讀出版系統
 > 我以你的法度為永遠的產業，因這是我心中所喜愛的。
 > 我的心專向你的律例，永遠遵行，一直到底。
 
-> Your word is a lamp to my feet and a light to my path.
-> I have sworn an oath and confirmed it, to keep your righteous rules.
-> I am severely afflicted; give me life, O Lord, according to your word!
-> Accept my freewill offerings of praise, O Lord, and teach me your rules.
-> I hold my life in my hand continually, but I do not forget your law.
-> The wicked have laid a snare for me, but I do not stray from your precepts.
-> Your testimonies are my heritage forever, for they are the joy of my heart.
-> I incline my heart to perform your statutes forever, to the end.
+> Your word is a lamp to my feet And a light to my path.
+> I have sworn and I will confirm it, That I will keep Your righteous judgments.
+> I am exceedingly afflicted; Revive me, LORD, according to Your word.
+> Be pleased to accept the voluntary offerings of my mouth, LORD, And teach me Your judgments.
+> My life is continually in my hand, Yet I do not forget Your Law.
+> The wicked have set a trap for me, Yet I have not wandered from Your precepts.
+> I have inherited Your testimonies forever, For they are the joy of my heart.
+> I have inclined my heart to perform Your statutes Forever, *even* to the end.
 
 「你的話是我腳前的燈」正是彼得後書1:19「先知更確的預言，如同燈照在暗處」最古老的迴響。詩人和使徒說的是同一件事：在一個危機四伏、真假莫辨的世界裏（詩119:107, 110；彼後1:16的假話威脅），能引路的不是感覺或經歷，而是那盞已經點亮、始終如一的話語之燈。
 
@@ -220,12 +224,12 @@ publisher: 三書精讀出版系統
 > 諸山見耶和華的面，就是全地之主的面，便消化如蠟。
 > 諸天表明他的公義；萬民看見他的榮耀。
 
-> The Lord reigns, let the earth rejoice; let the many coastlands be glad!
-> Clouds and thick darkness are all around him; righteousness and justice are the foundation of his throne.
-> Fire goes before him and burns up his adversaries all around.
-> His lightnings light up the world; the earth sees and trembles.
-> The mountains melt like wax before the Lord, before the Lord of all the earth.
-> The heavens proclaim his righteousness, and all the peoples see his glory.
+> The LORD reigns, may the earth rejoice; May the many islands be joyful.
+> Clouds and thick darkness surround Him; Righteousness and justice are the foundation of His throne.
+> Fire goes before Him And burns up His enemies all around.
+> His lightning lit up the world; The earth saw it and trembled.
+> The mountains melted like wax at the presence of the LORD, At the presence of the Lord of the whole earth.
+> The heavens declare His righteousness, And all the peoples have seen His glory.
 
 這篇詩描寫的雲彩、烈火、震動、榮光，正是舊約神顯現（*theophany*）一貫的意象——與登山變像時「有聲音從雲彩裏出來」（太17:5）、彼得所見的「威榮」（彼後1:16-17）屬於同一條屬靈脈絡。詩篇97篇對君王身分的描繪，在登山變像裏得著新約的成全：那位「作王」、「萬民看見他的榮耀」的耶和華，正是那位在聖山上向三個門徒顯出自己真實身分的耶穌基督。
 
@@ -287,19 +291,6 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*How Firm a Foundation*（如前「配詩」所引）
-
-> Fear not, I am with thee, O be not dismayed,
-> For I am thy God and will still give thee aid.
-
-**詩篇**：詩篇 119:105
-
-> 你的話是我腳前的燈，是我路上的光。
-
----
-
 ## 老弟兄查經 · 深讀 (Going Deeper)
 
 > 出處說明：本節依老弟兄查經方法論撰寫（無對應之老弟兄彼得後書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
@@ -310,7 +301,7 @@ publisher: 三書精讀出版系統
 
 這條線索也連到提摩太後書3:16「聖經都是神所默示的，於教訓、督責、使人歸正、教導人學義都是有益的」——與彼得後書1:20-21「預言……乃是人被聖靈感動，說出神的話來」，是新約論聖經來源僅有的兩處最直接論述，一處出於保羅，一處出於彼得，兩位使徒在此完全一致。再往下追，這條「話語比經歷更確」的原則，正是宗教改革「唯獨聖經」(*Sola Scriptura*) 的聖經根據之一：不是異象、不是傳統、不是經歷，乃是已然賜下、可反覆查驗的話語，才是信仰最終的根基。
 
-老弟兄讀提摩太後書3:14-17這段時，曾把阿摩司書8:11-12的飢荒對照著讀：「主耶和華說：日子將到，我必命饑荒降在地上……人饑餓非因無餅，乾渴非因無水，乃因不聽耶和華的話。」他說，末世最深的危機從來不是外在物資的缺乏，而是**聽不見神話語的飢荒**——彼得後書1:19「先知更確的預言，如同燈照在暗處」，正是神給這場飢荒唯一的解方（黃長老 2025/3/27 查經筆記，引阿摩司書8:11-12；見本系列《提摩太後書》研讀〈末後的日子〉一章）。
+老弟兄讀提摩太後書3:14-17這段時，曾把阿摩司書8:11-12的飢荒對照著讀：「主耶和華說：日子將到，我必命饑荒降在地上……人饑餓非因無餅，乾渴非因無水，乃因不聽耶和華的話。」他說，末世最深的危機從來不是外在物資的缺乏，而是**聽不見神話語的飢荒**——彼得後書1:19「先知更確的預言，如同燈照在暗處」，正是神給這場飢荒唯一的解方（老弟兄 2025/3/27 查經筆記，引阿摩司書8:11-12；見本系列《提摩太後書》研讀〈末後的日子〉一章）。
 
 1:21「人被聖靈感動」原文*pheromenoi*，是「被托著、被帶著走」——同一個動詞，用來描寫保羅那艘在暴風中被風浪吹著走、無法自己掌舵的船（徒27:15「船被風抓住，敵不住風，我們就任風颳去」；27:17「就任船飄去」）。先知不是自己掌舵，是被聖靈的風吹著走，卻仍用自己的筆、自己的聲音寫下來——彼得的希臘文和保羅的希臘文明顯不同，人的個性沒有被抹殺，推動內容真確性的，卻始終是聖靈，不是人。
 
@@ -392,4 +383,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無彼得後書逐節查經筆記原始記錄，見「老弟兄查經洞見」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan (*The Living Messages of the Books of the Bible*)*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無彼得後書逐節查經筆記原始記錄，見「老弟兄查經洞見」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan (The Living Messages of the Books of the Bible)*

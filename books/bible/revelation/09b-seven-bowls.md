@@ -102,7 +102,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 出埃及的模式重演——神的審判有其連貫的性情 (The Exodus Pattern Repeats — God's Judgment Has a Consistent Character)
 

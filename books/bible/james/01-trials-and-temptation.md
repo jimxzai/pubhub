@@ -93,7 +93,7 @@
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 試煉的目的 (Purpose of Trials)
 

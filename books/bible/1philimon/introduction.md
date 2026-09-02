@@ -8,11 +8,11 @@ subtitle: "Introduction: Why Study Philemon with Les Misérables and Resurrectio
 
 ---
 
-## 一封最短的書信，卻有最深的奧秘
+## 一封最短的書信，卻有最深的奧祕
 
 腓利門書只有25節，是保羅書信中最短的一封。它沒有系統神學的論述，沒有教會治理的指導，甚至沒有長篇的道德勸勉。它只是一封私人信件——一位年老的使徒為一個逃跑的奴隸向他的主人求情。
 
-然而，這封信卻被納入新約正典。為什麼？
+然而，這封信卻被納入新約正典。為甚麼？
 
 因為在這25節經文中，濃縮了福音的全部精髓：
 
@@ -22,11 +22,11 @@ subtitle: "Introduction: Why Study Philemon with Les Misérables and Resurrectio
 - **和好**：「不再是奴僕，乃是親愛的兄弟」
 - **新身份**：從「沒有益處」到「有益處」
 
-這不是神學理論，這是福音的實況轉播。
+這不是理論，這是福音的實況轉播。
 
 ---
 
-## 為什麼選擇《悲慘世界》和《復活》？
+## 為甚麼選擇《悲慘世界》和《復活》？
 
 ### 《悲慘世界》——恩典的法國迴響
 
@@ -56,7 +56,7 @@ subtitle: "Introduction: Why Study Philemon with Les Misérables and Resurrectio
 
 ### 第一書：聖經經卷
 
-腓利門書25節經文是我們的根基。每一章都從經文出發，進行原文研究、神學分析、歷史背景考察。
+腓利門書25節經文是我們的根基。每一章都從經文出發，進行原文研究、歷史背景考察，並整理該章的領受。
 
 ### 第二書：世界文學
 
@@ -72,14 +72,14 @@ subtitle: "Introduction: Why Study Philemon with Les Misérables and Resurrectio
 
 ### 1. 希臘原文的深度解析
 
-| 關鍵詞彙 | 音譯 | 含義 | 神學意涵 |
+| 關鍵詞彙 | 音譯 | 含義 | 屬靈意涵 |
 |----------|------|------|----------|
 | Ὀνήσιμος | Onesimus | 有益處的 | 名字成為命定 |
 | σπλάγχνα | splanchna | 心腸 | 最深的情感連結 |
 | κοινωνός | koinōnos | 同伴 | 生命的分享者 |
 | ἐλλόγα | elloga | 歸算 | 代贖的會計學 |
 
-### 2. 跨文本的神學對話
+### 2. 跨文本的主題對話
 
 | 主題 | 腓利門書 | 悲慘世界 | 復活 |
 |------|----------|----------|------|
@@ -135,5 +135,3 @@ subtitle: "Introduction: Why Study Philemon with Les Misérables and Resurrectio
 **三書精讀系統 · 2026**
 
 ---
-
-*下一章：[第一章：罪的三張面孔](ch01-three-faces-of-sin.md)*

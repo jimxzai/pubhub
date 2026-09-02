@@ -426,7 +426,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 保羅神學核心主題 (Key Pauline Themes)
+## 保羅領受核心主題 (Key Pauline Themes)
 
 ### 1. 因信稱義 (Justification by Faith)
 > 人稱義不是因行律法，乃是因信耶穌基督。— 加 2:16

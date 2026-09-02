@@ -97,7 +97,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 地上的哀哭與天上的歡呼形成鮮明對比 (Earth's Mourning and Heaven's Rejoicing Stand in Stark Contrast)
 

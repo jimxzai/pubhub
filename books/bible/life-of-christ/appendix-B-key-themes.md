@@ -4,7 +4,7 @@
 
 ---
 
-## 神學主題 (Theological Themes)
+## 領受主題 (Truths Received)
 
 ### 1. 道成肉身 (Incarnation)
 - Ch 0：太初有道 + 約 1:14 道成肉身的奧秘

@@ -134,7 +134,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 黑暗中所見的大光，是一個具體的名字
 

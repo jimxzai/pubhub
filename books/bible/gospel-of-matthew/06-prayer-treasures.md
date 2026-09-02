@@ -112,7 +112,7 @@ publisher: 三書精讀出版系統
 > ^14^\jesus{"For if you forgive others their trespasses, your heavenly Father will also forgive you,}
 > ^15^\jesus{but if you do not forgive others their trespasses, neither will your Father forgive your trespasses."}
 
-**神學澄清**：這不是說靠饒恕人換取救恩，而是說**真正被神饒恕的人必會饒恕人**。不願饒恕人的心證明他未曾真正領受神的饒恕。
+**必須澄清**：這不是說靠饒恕人換取救恩，而是說**真正被神饒恕的人必會饒恕人**。不願饒恕人的心證明他未曾真正領受神的饒恕。
 
 ---
 
@@ -211,7 +211,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 動機的重要 (Importance of Motive)
 
