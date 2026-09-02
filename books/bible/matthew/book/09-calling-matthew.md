@@ -182,6 +182,10 @@ publisher: 三書精讀出版系統
 
 摩根也留意到9:36的憐憫與9:9「你跟從我來」之間的連貫：憐憫先催生了對個人的呼召（馬太），再催生對群眾的呼召（工人）——**個人的蒙召，總是通向群體的差遣。**
 
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟在講道《Receiving the Sinner, Refusing the Righteous, Part 2》（1980年12月7日，論太9:9-17）中指出，主呼召的對象，正是迦百農人眼中「稅吏中的稅吏」——馬太自己也毫不掩飾這個稱號；主一句「你跟從我來」，他就起來跟從了。麥克阿瑟特別強調9:13「我喜愛憐恤，不喜愛祭祀」這句話的分量：法利賽人所要的是儀式上的潔淨，主所要的卻是憐憫的心腸——不是外在的宗教操演，是回轉的心。（撮述自 John MacArthur, *Receiving the Sinner/Refusing the Righteous, Part 2*, Grace to You, gty.org, sermon 2264）
+
 ---
 
 ## 詩篇與聖詩 (Psalm & Hymn)
