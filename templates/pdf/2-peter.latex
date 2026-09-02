@@ -470,7 +470,7 @@ of eternity. Amen.}\\
 
 % Core theme
 {\normalsize\color{CoverGoldBright}\bfseries 成長 = 恩典 + 知識}\\[0.12cm]
-{\itshape\footnotesize\color{CoverCream} "Growth in Grace and Knowledge" (2 Peter 3:18)}
+{\itshape\footnotesize\color{CoverCream} “Growth in Grace and Knowledge” (2 Peter 3:18)}
 
 \vfill
 
@@ -532,7 +532,7 @@ $endif$
         font=\small,align=center] at (-4,0) {Angels\\犯罪天使\\2:4};
 
   \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,minimum height=1.2cm,
-        font=\small,align=center] at (0,0) {Noah's World\\挪亞世代\\2:5};
+        font=\small,align=center] (mid) at (0,0) {Noah's World\\挪亞世代\\2:5};
 
   \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,minimum height=1.2cm,
         font=\small,align=center] at (4,0) {Sodom\\所多瑪\\2:6};
@@ -541,9 +541,13 @@ $endif$
   \draw[->,ChapterPurple,thick] (-2.3,0) -- (-1.7,0);
   \draw[->,ChapterPurple,thick] (1.7,0) -- (2.3,0);
 
-  % Conclusion
+  % Conclusion. Anchored BELOW the middle judgment node rather than at a
+  % hardcoded y: the judgment nodes hold three lines of \small CJK, so they
+  % grow past their 1.2cm minimum and a fixed y=-1.5 left this box's top
+  % border sitting exactly on their bottom border (measured: 1px of overlap
+  % at 300dpi — the two groups read as one fused block).
   \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=6cm,minimum height=0.8cm,
-        font=\footnotesize,align=center] at (0,-1.5) {主知道搭救敬虔的人……把不義的人留在刑罰之下 (2:9)};
+        font=\footnotesize,align=center,below=0.45cm of mid] {主知道搭救敬虔的人……把不義的人留在刑罰之下 (2:9)};
 \end{tikzpicture}
 
 \vspace{0.8cm}
@@ -556,20 +560,28 @@ $endif$
   % Timeline
   \draw[ChapterPurple,line width=2pt] (0,0) -- (12,0);
 
-  % Points on timeline
-  \node[draw=ChapterPurple,fill=ScriptureBg,circle,minimum size=1cm,font=\tiny,align=center] at (2,0) {Scoffers\\譏誚者};
-  \node[font=\tiny,color=LightGray] at (2,-0.8) {3:3-4};
+  % Points on timeline.
+  % The verse labels used to sit at a hardcoded y=-0.8. A circle node holding
+  % two lines of \tiny text grows well past its 1cm minimum size, so that
+  % coordinate landed INSIDE the circle and the stroke ran straight through
+  % the label — all three read as struck-through text on the finished page,
+  % with no overfull-box or missing-glyph warning to show for it. Anchoring
+  % each label `below` its own node makes the placement follow the node
+  % however the text reflows.
+  \node[draw=ChapterPurple,fill=ScriptureBg,circle,minimum size=1cm,font=\tiny,align=center] (scoff) at (2,0) {Scoffers\\譏誚者};
+  \node[font=\tiny,color=LightGray,below=1mm of scoff] {3:3-4};
 
-  \node[draw=ChapterPurple,fill=ScriptureBg,circle,minimum size=1cm,font=\tiny,align=center] at (6,0) {Patience\\寬容};
-  \node[font=\tiny,color=LightGray] at (6,-0.8) {3:8-9};
+  \node[draw=ChapterPurple,fill=ScriptureBg,circle,minimum size=1cm,font=\tiny,align=center] (pat) at (6,0) {Patience\\寬容};
+  \node[font=\tiny,color=LightGray,below=1mm of pat] {3:8-9};
 
-  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=1.2cm,font=\tiny,align=center] at (10,0) {Day of\\Lord};
-  \node[font=\tiny,color=LightGray] at (10,-0.8) {3:10-13};
+  \node[draw=ScriptureGold,fill=ScriptureBg,circle,minimum size=1.3cm,font=\tiny,align=center] (dol) at (10,0) {Day of\\Lord};
+  \node[font=\tiny,color=LightGray,below=1mm of dol] {3:10-13};
 
-  % New heaven and earth
+  % New heaven and earth — likewise anchored, so the connector always spans a
+  % real gap instead of disappearing behind a node that grew into it.
   \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3cm,minimum height=0.6cm,
-        font=\tiny,align=center] at (10,1.5) {New Heaven \& Earth\\新天新地};
-  \draw[->,ScriptureGold,thick] (10,0.7) -- (10,1.1);
+        font=\tiny,align=center,above=6mm of dol] (nhe) {New Heaven \& Earth\\新天新地};
+  \draw[->,ScriptureGold,thick] (dol.north) -- (nhe.south);
 \end{tikzpicture}
 
 \vspace{0.5cm}
@@ -612,7 +624,11 @@ $endif$
 
 % Table of contents — chapters only (subsection entries would run the TOC to 30+ pages)
 \pagestyle{fancy}
-\setcounter{tocdepth}{0}
+% tocdepth 1 = chapters + their H2 sections. A 100+ page study book whose
+% chapters each carry ~15 named sections (經文/背景/原文研讀/歷代注疏/…) is
+% unnavigable from a chapters-only TOC; the sections ARE the reference
+% surface. Raised from 0 in the 2026-08-30 publishing-standard pass.
+\setcounter{tocdepth}{1}
 {\color{ChapterPurple}\tableofcontents}
 \ClearDoublePageEmpty
 

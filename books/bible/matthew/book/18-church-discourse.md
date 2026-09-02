@@ -48,11 +48,11 @@ publisher: 三書精讀出版系統
 
 > ^21^那時，彼得進前來，對耶穌說：「主啊，我弟兄得罪我，我當饒恕他幾次呢？到七次可以嗎？」^22^耶穌說：\jesus{「我對你說，不是到七次，乃是到七十個七次。^23^天國好像一個王要和他僕人算賬。^24^才算的時候，有人帶了一個欠一千萬銀子的來。^25^因為他沒有甚麼償還之物，主人吩咐把他和他妻子兒女，並一切所有的都賣了償還。^26^那僕人就俯伏拜他，說：『主啊，寬容我，將來我都要還清。』^27^那僕人的主人就動了慈心，把他釋放了，並且免了他的債。」}
 
-> ^28^\jesus{「那僕人出來，遇見他的一個同伴欠他十兩銀子，便揪著他，掐住他的喉嚨，說：『你把所欠的還我！』^29^他的同伴就俯伏央求他，說：『寬容我吧，將來我必還清。』^30^他不肯，竟去把他下在監裏，等他還了所欠的債。^31^眾同伴看見他所做的事就甚憂愁，去把這事都告訴了主人。^32^於是主人叫了他來，對他說：『你這惡奴才！你央求我，我就把你所欠的都免了，^33^你不應當憐恤你的同伴，像我憐恤你嗎？』^34^主人就大怒，把他交給掌刑的，等他還清了所欠的債。^35^你們各人若不從心裏饒恕你的弟兄，我天父也要這樣待你們了。」}
+> ^28^\jesus{「那僕人出來，遇見他的一個同伴欠他十兩銀子，便揪著他，掐住他的喉嚨，說：『你把所欠的還我！』^29^他的同伴就俯伏央求他，說：『寬容我罷，將來我必還清。』^30^他不肯，竟去把他下在監裏，等他還了所欠的債。^31^眾同伴看見他所做的事就甚憂愁，去把這事都告訴了主人。^32^於是主人叫了他來，對他說：『你這惡奴才！你央求我，我就把你所欠的都免了，^33^你不應當憐恤你的同伴，像我憐恤你嗎？』^34^主人就大怒，把他交給掌刑的，等他還清了所欠的債。^35^你們各人若不從心裏饒恕你的弟兄，我天父也要這樣待你們了。」}
 
 ### English — NASB
 
-> ^1^At that time the disciples came to Jesus and said, "Who then is greatest in the kingdom of heaven?" ^2^And He called a child to Himself and set him before them, ^3^and said, \jesus{"Truly I say to you, unless you are converted and become like children, you will not enter the kingdom of heaven. ^4^Whoever then humbles himself as this child, he is the greatest in the kingdom of heaven. ^5^And whoever receives one such child in My name receives Me; ^6^but whoever causes one of these little ones who believe in Me to stumble, it would be better for him to have a heavy millstone hung around his neck, and to be drowned in the depth of the sea.}
+> ^1^At that time the disciples came to Jesus and said, "Who then is greatest in the kingdom of heaven?" ^2^And He called a child to Himself and set him before them, ^3^and said, \jesus{"Truly I say to you, unless you are converted and become like children, you will not enter the kingdom of heaven. ^4^Whoever then humbles himself as this child, he is the greatest in the kingdom of heaven. ^5^And whoever receives one such child in My name receives Me; ^6^but whoever causes one of these little ones who believe in Me to stumble, it would be better for him to have a heavy millstone hung around his neck, and to be drowned in the depth of the sea."}
 
 > ^15^\jesus{"If your brother sins, go and show him his fault in private; if he listens to you, you have won your brother. ^16^But if he does not listen \textit{to you,} take one or two more with you, so that BY THE MOUTH OF TWO OR THREE WITNESSES EVERY FACT MAY BE CONFIRMED. ^17^If he refuses to listen to them, tell it to the church; and if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector. ^18^Truly I say to you, whatever you bind on earth shall have been bound in heaven; and whatever you loose on earth shall have been loosed in heaven. ^19^Again I say to you, that if two of you agree on earth about anything that they may ask, it shall be done for them by My Father who is in heaven. ^20^For where two or three have gathered together in My name, I am there in their midst."}
 
@@ -163,7 +163,7 @@ publisher: 三書精讀出版系統
 
 **不饒恕的惡僕**比喻說明：我們欠神的債是天文數字級的一萬他連得，別人欠我們的不過是十兩銀子——已經被赦免巨債的人，卻不肯赦免小債，這是不可接受的。
 
-留意比喻裏的兩個動作幾乎是鏡像：惡僕「俯伏拜他……寬容我，將來我都要還清」（18:26），同伴也「俯伏央求他……寬容我吧，將來我必還清」（18:29）——**兩人說的是同一句話，姿態幾乎相同，惡僕卻聽不見自己曾經說過的話。**
+留意比喻裏的兩個動作幾乎是鏡像：惡僕「俯伏拜他……寬容我，將來我都要還清」（18:26），同伴也「俯伏央求他……寬容我罷，將來我必還清」（18:29）——**兩人說的是同一句話，姿態幾乎相同，惡僕卻聽不見自己曾經說過的話。**
 
 > \jesus{「你們各人若不從心裏饒恕你的弟兄，我天父也要這樣待你們了。」}(18:35)
 
@@ -191,7 +191,7 @@ publisher: 三書精讀出版系統
 
 ### 摩根 (G. Campbell Morgan)
 
-**G. Campbell Morgan** 在《馬太福音註釋》（*The Gospel According to Matthew*, 1929）中指出，這一整篇講論的次序極有意義：從「誰為大」的問題開始，卻以「饒恕多少次」的問題結束——**天國群體真正的偉大，最終都要落實在饒恕的能力上**。他也留意到，這篇講論安排在第二次受難預言（17:22-23）之後、緊接著登山變像天父吩咐「你們要聽他」——耶穌是在自己即將走向十字架的陰影下，教導門徒如何在教會裏彼此相待；十字架本身就是最大的饒恕行動，教會的饒恕不過是效法十字架的心腸。
+**G. Campbell Morgan** 在《馬太福音註釋》（*The Gospel According to Matthew*, 1929）中指出，這一整篇講論的次序極有意義：從「誰為大」的問題開始，卻以「饒恕多少次」的問題結束——**天國群體真正的偉大，最終都要落實在饒恕的能力上**。他也留意到，這篇講論緊接在登山變像天父吩咐「你們要聽他」與第二次受難預言（17:22-23）之後——耶穌是在自己即將走向十字架的陰影下，教導門徒如何在教會裏彼此相待；十字架本身就是最大的饒恕行動，教會的饒恕不過是效法十字架的心腸。
 
 ### 麥克阿瑟 (John MacArthur)
 
@@ -210,7 +210,7 @@ publisher: 三書精讀出版系統
 ### 詩篇 103:10-12
 
 > 他沒有按我們的罪過待我們，也沒有照我們的罪孽報應我們。
-> 天離地何等地高，他的慈愛向敬畏他的人也是何等地大！
+> 天離地何等的高，他的慈愛向敬畏他的人也是何等的大！
 > 東離西有多遠，他叫我們的過犯離我們也有多遠！
 
 這是不饒恕的惡僕比喻最深的對照——大衛歌頌的正是主人「動了慈心」免債的心腸；「東離西有多遠」形容神的赦免何等徹底，惡僕卻片刻之後就忘了自己剛領受的這份徹底。
@@ -293,7 +293,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我是否輕看了某個「小子」——信心軟弱、地位卑微的人？我心裏是否還扣著某個人的「十兩銀子」？
 - **一個行動**：主動去饒恕一個你一直耿耿於懷的人，不是因為他值得，是因為你欠的更多。
 
-**你看見耶穌了嗎**：門徒還在爭論誰最大，耶穌卻抱來一個在當時社會毫無地位的小孩子，站在他們中間，糾正一群成年門徒對「偉大」的定義。祂講迷羊的比喻，講的正是自己正在做的事——**祂就是那位撇下九十九隻，去找那一隻迷路的羊的牧人**；而祂教導的「七十個七次」，自己在十字架上活了出來：**那位被釘的君王，正是免了我們一萬他連得之債的主人，你所欠的，祂已經付清。**
+**你看見耶穌了嗎**：門徒還在爭論誰最大，耶穌卻抱來一個在當時社會毫無地位的小孩子，站在他們中間，糾正一群成年門徒對「偉大」的定義。祂講迷羊的比喻，講的正是自己正在做的事——**祂就是那位撇下九十九隻，去尋找那一隻迷路之羊的牧人**；而祂教導的「七十個七次」，自己在十字架上活了出來：**那位被釘的君王，正是免了我們一萬他連得之債的主人，你所欠的，祂已經付清。**
 
 ---
 

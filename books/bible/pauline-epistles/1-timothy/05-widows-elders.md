@@ -99,7 +99,7 @@ date: 2025年12月
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 教會是家——四種關係的類比
 

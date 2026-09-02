@@ -86,7 +86,7 @@
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 真理中行走的喜樂
 

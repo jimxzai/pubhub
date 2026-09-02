@@ -82,7 +82,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 莊稼已經熟透——審判有它的時候 (The Harvest Has Its Appointed Hour)
 

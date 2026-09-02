@@ -89,7 +89,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 見證的本質是效法基督的死而復活 (Witness Means Following the Pattern of Death and Resurrection)
 

@@ -77,7 +77,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 假教師的三重罪行 (v.8)
 

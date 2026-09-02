@@ -52,9 +52,9 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^1^'To the angel of the church in Ephesus write: The One who holds the seven stars in His right hand, the One who walks among the seven golden lampstands, says this: \jesus{ ^2^'I know your deeds and your toil and perseverance, and that you cannot tolerate evil men, and you put to the test those who call themselves apostles, and they are not, and you found them *to be* false; ^3^and you have perseverance and have endured for My name's sake, and have not grown weary.}
+> ^1^'To the angel of the church in Ephesus write: The One who holds the seven stars in His right hand, the One who walks among the seven golden lampstands, says this: \jesus{ ^2^'I know your deeds and your toil and perseverance, and that you cannot tolerate evil men, and you put to the test those who call themselves apostles, and they are not, and you found them \textit{to be} false; ^3^and you have perseverance and have endured for My name's sake, and have not grown weary.}
 
-> \jesus{ ^4^'But I have *this* against you, that you have left your first love. ^5^'Therefore remember from where you have fallen, and repent and do the deeds you did at first; or else I am coming to you and will remove your lampstand out of its place— unless you repent. ^6^'Yet this you do have, that you hate the deeds of the Nicolaitans, which I also hate.}
+> \jesus{ ^4^'But I have \textit{this} against you, that you have left your first love. ^5^'Therefore remember from where you have fallen, and repent and do the deeds you did at first; or else I am coming to you and will remove your lampstand out of its place— unless you repent. ^6^'Yet this you do have, that you hate the deeds of the Nicolaitans, which I also hate.}
 
 > \jesus{ ^7^'He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, I will grant to eat of the tree of life which is in the Paradise of God.'}
 
@@ -90,7 +90,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 正統教義不能取代起初的愛 (Sound Doctrine Cannot Replace First Love)
 

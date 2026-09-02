@@ -47,11 +47,11 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> \jesus{「^1^因為天國好像家主清早去雇人進他的葡萄園做工，^2^和工人講定一天一錢銀子，就打發他們進葡萄園去。^3^約在巳初出去，看見市上還有閒站的人，^4^就對他們說：『你們也進葡萄園去，所當給的，我必給你們。』^5^約在午正和申初又出去，也是這樣行。^6^約在酉初出去，看見還有人站在那裏，就問他們說：『你們為甚麼整天在這裏閒站呢？』^7^他們說：『因為沒有人雇我們。』他說：『你們也進葡萄園去。』」}
+> \jesus{「^1^因為天國好像家主清早去雇人進他的葡萄園做工，^2^和工人講定一天一錢銀子，就打發他們進葡萄園去。^3^約在巳初出去，看見市上還有閒站的人，^4^就對他們說：『你們也進葡萄園去，所當給的，我必給你們。』他們也進去了。^5^約在午正和申初又出去，也是這樣行。^6^約在酉初出去，看見還有人站在那裏，就問他們說：『你們為甚麼整天在這裏閒站呢？』^7^他們說：『因為沒有人雇我們。』他說：『你們也進葡萄園去。』」}
 
 > \jesus{「^8^到了晚上，園主對管事的說：『叫工人都來，給他們工錢，從後來的起，到先來的為止。』^9^約在酉初雇的人來了，各人得了一錢銀子。^10^及至那先雇的來了，他們以為必要多得；誰知也是各得一錢。^11^他們得了，就埋怨家主說：^12^『我們整天勞苦受熱，那後來的只做了一小時，你竟叫他們和我們一樣麼？』^13^家主回答其中的一人說：『朋友，我不虧負你，你與我講定的不是一錢銀子麼？^14^拿你的走罷！我給那後來的和給你一樣，這是我願意的。^15^我的東西難道不可隨我的意思用麼？因為我作好人，你就紅了眼麼？』^16^這樣，那在後的，將要在前；在前的，將要在後了。」}
 
-> 「^20^那時，西庇太兒子的母親同他兩個兒子上前來拜耶穌，求他一件事。^21^耶穌說：」\jesus{『你要甚麼呢？』}「他說：『願你叫我這兩個兒子在你國裏，一個坐在你右邊，一個坐在你左邊。』^22^耶穌回答說：」\jesus{『你們不知道所求的是甚麼；我將要喝的杯，你們能喝麼？』}「他們說：『我們能。』^23^耶穌說：」\jesus{『我所喝的杯，你們必要喝；只是坐在我的左右，不是我可以賜的，乃是我父為誰預備的，就賜給誰。』}「^24^那十個門徒聽見，就惱怒他們弟兄二人。^25^耶穌叫了他們來，說：」\jesus{『你們知道外邦人有君王為主治理他們，有大臣操權管束他們。^26^只是在你們中間，不可這樣；你們中間誰願為大，就必作你們的用人；^27^誰願為首，就必作你們的僕人。^28^正如人子來，不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。』}
+> 「^20^那時，西庇太兒子的母親同她兩個兒子上前來拜耶穌，求他一件事。^21^耶穌說：」\jesus{『你要甚麼呢？』}「她說：『願你叫我這兩個兒子在你國裏，一個坐在你右邊，一個坐在你左邊。』^22^耶穌回答說：」\jesus{『你們不知道所求的是甚麼；我將要喝的杯，你們能喝麼？』}「他們說：『我們能。』^23^耶穌說：」\jesus{『我所喝的杯，你們必要喝；只是坐在我的左右，不是我可以賜的，乃是我父為誰預備的，就賜給誰。』}「^24^那十個門徒聽見，就惱怒他們弟兄二人。^25^耶穌叫了他們來，說：」\jesus{『你們知道外邦人有君王為主治理他們，有大臣操權管束他們。^26^只是在你們中間，不可這樣；你們中間誰願為大，就必作你們的用人；^27^誰願為首，就必作你們的僕人。^28^正如人子來，不是要受人的服事，乃是要服事人，並且要捨命，作多人的贖價。』}
 
 ### English — NASB
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^8^\jesus{"When evening came, the owner of the vineyard said to his foreman, 'Call the laborers and pay them their wages, beginning with the last \textit{group} to the first.' ^9^When those \textit{hired} about the eleventh hour came, each one received a denarius. ^10^When those \textit{hired} first came, they thought that they would receive more; but each of them also received a denarius. ^11^When they received it, they grumbled at the landowner, ^12^saying, 'These last men have worked \textit{only} one hour, and you have made them equal to us who have borne the burden and the scorching heat of the day.' ^13^But he answered and said to one of them, 'Friend, I am doing you no wrong; did you not agree with me for a denarius? ^14^'Take what is yours and go, but I wish to give to this last man the same as to you. ^15^'Is it not lawful for me to do what I wish with what is my own? Or is your eye envious because I am generous?' ^16^So the last shall be first, and the first last."}
 
-> ^20^Then the mother of the sons of Zebedee came to Jesus with her sons, bowing down and making a request of Him. ^21^And He said to her, "What do you wish?\jesus{" She said to Him, "}Command that in Your kingdom these two sons of mine may sit one on Your right and one on Your left." ^22^But Jesus answered, "You do not know what you are asking. Are you able to drink the cup that I am about to drink?\jesus{" They said to Him, "}We are able." ^23^He said to them, "My cup you shall drink; but to sit on My right and on *My* left, this is not Mine to give, but it is for those for whom it has been prepared by My Father.\jesus{"} ^24^And hearing *this,* the ten became indignant with the two brothers. ^25^But Jesus called them to Himself and said, \jesus{"You know that the rulers of the Gentiles lord it over them, and \textit{their} great men exercise authority over them. ^26^It is not this way among you, but whoever wishes to become great among you shall be your servant, ^27^and whoever wishes to be first among you shall be your slave; ^28^just as the Son of Man did not come to be served, but to serve, and to give His life a ransom for many."}
+> ^20^Then the mother of the sons of Zebedee came to Jesus with her sons, bowing down and making a request of Him. ^21^And He said to her, \jesus{"What do you wish?"} She said to Him, "Command that in Your kingdom these two sons of mine may sit one on Your right and one on Your left." ^22^But Jesus answered, \jesus{"You do not know what you are asking. Are you able to drink the cup that I am about to drink?"} They said to Him, "We are able." ^23^He said to them, \jesus{"My cup you shall drink; but to sit on My right and on \textit{My} left, this is not Mine to give, but it is for those for whom it has been prepared by My Father."} ^24^And hearing *this,* the ten became indignant with the two brothers. ^25^But Jesus called them to Himself and said, \jesus{"You know that the rulers of the Gentiles lord it over them, and \textit{their} great men exercise authority over them. ^26^It is not this way among you, but whoever wishes to become great among you shall be your servant, ^27^and whoever wishes to be first among you shall be your slave; ^28^just as the Son of Man did not come to be served, but to serve, and to give His life a ransom for many."}
 
 ## 背景 (Context)
 
@@ -88,7 +88,7 @@ publisher: 三書精讀出版系統
 | διάκονος | diakonos | 用人、僕役、執事 | 20:26「就必作你們的用人」——服事的第一階，日常性的伺候 |
 | δοῦλος | doulos | 奴僕、奴隸 | 20:27「就必作你們的僕人」——比διάκονος更低一階，是毫無自主權的奴隸身分 |
 | λύτρον | lytron | 贖價 | 20:28，釋放奴隸或戰俘所付的代價 |
-| ἀντί | anti | 代替、代價交換 | 20:28「作多人的贖價」中「代替」之意，強調substitution（替代） |
+| ἀντί | anti | 代替、代價交換 | 20:28「作多人的贖價」中「代替」之意，強調替代性的救贖 |
 | δηνάριον | dēnarion | 得拿利、羅馬銀幣 | 20:2, 9, 10，一日工資的通用單位 |
 | ὀφθαλμὸς πονηρός | ophthalmos ponēros | 惡眼、紅了眼 | 20:15，猶太慣用語，指嫉妒、吝嗇之心；與6:23同一意象 |
 
@@ -106,13 +106,13 @@ publisher: 三書精讀出版系統
 
 ### 早來者的抱怨
 
-> 「這後來的只做了一小時，你竟叫他們和我們一樣嗎？我們整天勞苦受熱！」(20:12)
+> 「我們整天勞苦受熱，那後來的只做了一小時，你竟叫他們和我們一樣麼？」(20:12)
 
 ### 家主的回應
 
-> \jesus{「朋友，我不虧負你。你與我講定的不是一錢銀子嗎？……我的東西難道不可隨我的意思用嗎？因為我作好人，你就紅了眼嗎？」}(20:13, 15)
+> \jesus{「朋友，我不虧負你。你與我講定的不是一錢銀子麼？……我的東西難道不可隨我的意思用麼？因為我作好人，你就紅了眼麼？」}(20:13, 15)
 
-「你就紅了眼嗎」，原文直譯是「你的眼是惡的嗎」（ὀφθαλμὸς πονηρός）——猶太傳統裏形容嫉妒、吝嗇的慣用說法（參6:23「你的眼若昏花，全身就黑暗」），與家主自稱的「我作好人」（ἀγαθός εἰμι）恰成對照：**一個是良善本身的施予，一個是見不得別人得福的那隻「壞眼睛」。**
+「你就紅了眼麼」，原文直譯是「你的眼是惡的嗎」（ὀφθαλμὸς πονηρός）——猶太傳統裏形容嫉妒、吝嗇的慣用說法（參6:23「你的眼若昏花，全身就黑暗」），與家主自稱的「我作好人」（ἀγαθός εἰμι）恰成對照：**一個是良善本身的施予，一個是見不得別人得福的那隻「壞眼睛」。**
 
 ### 比喻的意義
 
@@ -129,7 +129,7 @@ publisher: 三書精讀出版系統
 
 ### 第三次受難預言 (20:17-19)
 
-> 「耶穌上耶路撒冷去的時候，在路上把十二個門徒帶到一邊，對他們說：」\jesus{「看哪，我們上耶路撒冷去，人子要被交給祭司長和文士。他們要定他死罪，又交給外邦人，將他戲弄，鞭打，釘在十字架上；第三日他要復活。」}(20:17-19)
+> 「耶穌上耶路撒冷去的時候，在路上把十二個門徒帶到一邊，對他們說：」\jesus{『看哪，我們上耶路撒冷去，人子要被交給祭司長和文士。他們要定他死罪，又交給外邦人，將他戲弄，鞭打，釘在十字架上；第三日他要復活。』}(20:17-19)
 
 這是三次受難預言中最詳細的一次（另見16:21；17:22-23），逐項列出即將發生的事：被交、定罪、交外邦人、戲弄、鞭打、釘十字架、第三日復活——**每一個細節，21-27章都要一一應驗。**
 
@@ -139,7 +139,7 @@ publisher: 三書精讀出版系統
 
 門徒仍在爭位，君王卻已在細數受難的每一個環節——這是全章最刺眼的落差。
 
-耶穌問：\jesus{「我將要喝的杯，你們能喝嗎？」}——「杯」象徵苦難和審判（詩75:8；賽51:17；客西馬尼裏耶穌親自求「這杯離開我」，26:39）。雅各約翰隨口應承「我們能」（20:22），未必明白代價——雅各後來成為十二使徒中第一個殉道的（徒12:2）。
+耶穌問：\jesus{「我將要喝的杯，你們能喝麼？」}——「杯」象徵苦難和審判（詩75:8；賽51:17；客西馬尼裏耶穌親自求「這杯離開我」，26:39）。雅各約翰隨口應承「我們能」（20:22），未必明白代價——雅各後來成為十二使徒中第一個殉道的（徒12:2）。
 
 ### 服事的真義 (20:25-28)
 
@@ -159,7 +159,7 @@ publisher: 三書精讀出版系統
 
 ## 第三節 兩個瞎子的呼求 (20:29-34)
 
-> 「他們出耶利哥的時候，有極多的人跟著他。有兩個瞎子坐在路旁，聽說是耶穌經過，就喊著說：『主啊，大衛的子孫，可憐我們吧！』眾人責備他們，不許他們作聲；他們卻越發喊著說：『主啊，大衛的子孫，可憐我們吧！』」(20:29-31)
+> 「他們出耶利哥的時候，有極多的人跟著他。有兩個瞎子坐在路旁，聽說是耶穌經過，就喊著說：『主啊，大衛的子孫，可憐我們罷！』眾人責備他們，不許他們作聲；他們卻越發喊著說：『主啊，大衛的子孫，可憐我們罷！』」(20:29-31)
 
 這是耶穌上耶路撒冷前，馬太記載的**最後一個神蹟**，緊接著就是榮耀進城（21章）。
 
@@ -171,11 +171,11 @@ publisher: 三書精讀出版系統
 
 > 「耶穌就站住，叫他們來，說：」\jesus{『要我為你們做甚麼？』}(20:32)
 
-這問題與20:21雅各約翰母親所求的問題幾乎一字不差（「你要甚麼」／「要我為你們做甚麼」），引出的回答卻天差地遠：西庇太的兒子要地位，瞎子只求「主啊，要我們的眼睛能看見」（20:33）。**同一位君王問了同一個問題，卻照著各人真實的需要回應。**
+這問題與20:21耶穌問西庇太兒子母親的那一句遙相呼應（「你要甚麼呢」／「要我為你們做甚麼」），引出的回答卻天差地遠：西庇太的兒子要地位，瞎子只求「主啊，要我們的眼睛能看見」（20:33）。**同一位君王問了同一個問題，卻照著各人真實的需要回應。**
 
 > 「耶穌就動了慈心，把他們的眼睛一摸，他們立刻看見，就跟從了耶穌。」(20:34)
 
-### 領受的意義
+### 這一段的意義
 
 一位即將被出賣、戲弄、釘十字架的君王，仍「動了慈心」，停下腳步醫治兩個沒有名字的乞丐。**祂走向十字架的路上，沒有一步是急著趕路而略過憐憫的。**
 
@@ -203,7 +203,7 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-在馬太福音系列講道（Grace to You, gty.org）中強調，20:28「捨命作多人的贖價」是全卷書對十字架意義最清楚的自我宣告——耶穌用λύτρον這個詞，要門徒明白祂的死不是意外的悲劇，是一筆真實付清的代價。
+麥克阿瑟在馬太福音系列講道（Grace to You, gty.org）中強調，20:28「捨命作多人的贖價」是全卷書對十字架意義最清楚的自我宣告——耶穌用λύτρον這個詞，要門徒明白祂的死不是意外的悲劇，是一筆真實付清的代價。
 
 ---
 
@@ -257,7 +257,7 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：天國的恩典不按人的算術運作——最後來的和最先來的領一樣的工錢，因為神的慷慨不是欠你的，是祂樂意給的；而這位快要被出賣的君王，仍然停下腳步，問兩個瞎眼的乞丐一句話：「你們要我為你們做甚麼？」**祂的恩典，從頭到尾，都不是按功勞計算的。**
+**精義一句話**：天國的恩典不按人的算術運作——最後來的和最先來的領一樣的工錢，因為神的慷慨不是欠你的，是祂樂意給的；而這位快要被出賣的君王，仍然停下腳步，問兩個瞎眼的乞丐一句話：「要我為你們做甚麼？」**祂的恩典，從頭到尾，都不是按功勞計算的。**
 
 ### 老弟兄查經洞見 (Thursday Class Insights)
 
@@ -308,12 +308,12 @@ publisher: 三書精讀出版系統
 
 ### 禱告回應
 
-> 主耶穌，祢說「人子來，不是要受人的服事，乃是要服事人」，
+> 主耶穌，你說「人子來，不是要受人的服事，乃是要服事人」，
 > 又親自捨命，作多人的贖價——這樣的偉大，世上從未有過。
-> 求祢赦免我心裏那些關於地位、關於「應得多少」的算計，
+> 求你赦免我心裏那些關於地位、關於「應得多少」的算計，
 > 也赦免我看見別人蒙恩就紅了眼的時刻。
 > 賜我瞎子一樣單純的呼求，不因人的責備而止息；
-> 也求祢使我今天甘心作一件「用人」的事，不求回報，不計工時。阿們。
+> 也求你使我今天甘心作一件「用人」的事，不求回報，不計工時。阿們。
 
 ---
 

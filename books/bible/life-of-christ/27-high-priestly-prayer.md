@@ -101,7 +101,7 @@
 
 ---
 
-## 27.5 神學要點 (Theological Points)
+## 27.5 領受要點 (Truths Received)
 
 ### 1. 禱告的三個層面
 

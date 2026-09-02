@@ -93,7 +93,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 審判與婚筵是同一個公義故事的兩面 (Judgment and the Wedding Feast Are Two Sides of the Same Story of Justice)
 

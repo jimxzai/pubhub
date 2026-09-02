@@ -49,7 +49,7 @@ publisher: 三書精讀出版系統
 
 > ^23^耶穌對門徒說：\jesus{「我實在告訴你們，財主進天國是難的。^24^我又告訴你們，駱駝穿過針的眼，比財主進神的國還容易呢！」}^25^門徒聽見這話，就希奇得很，說：「這樣誰能得救呢？」^26^耶穌看著他們，說：\jesus{「在人這是不能的，在神凡事都能。」}
 
-> ^27^彼得就對他說：「看哪，我們已經撇下所有的跟從你，將來我們要得甚麼呢？」^28^耶穌說：\jesus{「我實在告訴你們，你們這跟從我的人，到復興的時候，人子坐在他榮耀的寶座上，你們也要坐在十二個寶座上，審判以色列十二個支派。^29^凡為我的名撇下房屋，或是弟兄、姐妹、父親、母親、兒女、田地的，必要得著百倍，並且承受永生。^30^然而，有許多在前的，將要在後；在後的，將要在前。」}
+> ^27^彼得就對他說：「看哪，我們已經撇下所有的跟從你，將來我們要得甚麼呢？」^28^耶穌說：\jesus{「我實在告訴你們，你們這跟從我的人，到復興的時候，人子坐在他榮耀的寶座上，你們也要坐在十二個寶座上，審判以色列十二個支派。^29^凡為我的名撇下房屋，或是弟兄、姊妹、父親、母親、兒女、田地的，必要得著百倍，並且承受永生。^30^然而，有許多在前的，將要在後；在後的，將要在前。」}
 
 ### English — NASB
 
@@ -57,13 +57,13 @@ publisher: 三書精讀出版系統
 
 > ^23^And Jesus said to His disciples, \jesus{"Truly I say to you, it is hard for a rich man to enter the kingdom of heaven. ^24^Again I say to you, it is easier for a camel to go through the eye of a needle, than for a rich man to enter the kingdom of God."} ^25^When the disciples heard *this,* they were very astonished and said, "Then who can be saved?" ^26^And looking at *them* Jesus said to them, \jesus{"With people this is impossible, but with God all things are possible."}
 
-> ^27^Then Peter said to Him, "Behold, we have left everything and followed You; what then will there be for us?" ^28^And Jesus said to them, \jesus{"Truly I say to you, that you who have followed Me, in the regeneration when the Son of Man will sit on His glorious throne, you also shall sit upon twelve thrones, judging the twelve tribes of Israel. ^29^And everyone who has left houses or brothers or sisters or father or mother or children or farms for My name's sake, will receive many times as much, and will inherit eternal life. ^30^But many \textit{who are} first will be last; and \textit{the} last, first.}
+> ^27^Then Peter said to Him, "Behold, we have left everything and followed You; what then will there be for us?" ^28^And Jesus said to them, \jesus{"Truly I say to you, that you who have followed Me, in the regeneration when the Son of Man will sit on His glorious throne, you also shall sit upon twelve thrones, judging the twelve tribes of Israel. ^29^And everyone who has left houses or brothers or sisters or father or mother or children or farms for My name's sake, will receive many times as much, and will inherit eternal life. ^30^But many \textit{who are} first will be last; and \textit{the} last, first."}
 
 ## 背景 (Context)
 
 ### 歷史背景
 
-**離開加利利，向耶路撒冷去**。19:1「耶穌說完了這些話，就離開加利利，來到猶太的境界，約旦河外」——這是全書地理的轉捩點。從這一節起，主不再往加利利各城傳道，祂的腳步只有一個方向：耶路撒冷、十字架。19-20章的每一段對話與教導，都發生在這最後的旅程上；21章的榮耀進城是這段路的終點。
+**離開加利利，向耶路撒冷去**。19:1「耶穌說完了這些話，就離開加利利，來到猶太的境界約旦河外」——這是全書地理的轉捩點。從這一節起，主不再往加利利各城傳道，祂的腳步只有一個方向：耶路撒冷、十字架。19-20章的每一段對話與教導，都發生在這最後的旅程上；21章的榮耀進城是這段路的終點。
 
 **休妻之爭：夏梅與希勒爾兩派**。法利賽人問「人無論甚麼緣故都可以休妻嗎」，不是抽象的道理問題，是當時拉比學界公開爭論的真實議題（見《米示拿》Gittin 9:10）：夏梅派（Shammai）主張休妻的理由僅限於「淫行」；希勒爾派（Hillel）則寬鬆得多，連妻子把飯燒焦都可以構成休妻的理由。
 
@@ -113,9 +113,9 @@ publisher: 三書精讀出版系統
 
 > \jesus{「凡休妻另娶的，若不是為淫亂的緣故，就是犯姦淫了。」}(19:9)
 
-門徒的反應很誠實：「人和妻子既是這樣，倒不如不娶」(19:10)——連他們都覺得這標準太高。耶穌回答：\jesus{「這話不是人都能領受的，惟獨賜給誰，誰才能領受。」}（19:11），有人為天國的緣故自己選擇獨身（19:12）——但這是恩賜，不是逃避婚姻責任的藉口。
+門徒的反應很誠實：「人和妻子既是這樣，倒不如不娶」(19:10)——連他們都覺得這標準太高。耶穌回答：\jesus{「這話不是人都能領受的，惟獨賜給誰，誰才能領受。」}（19:11）。有人為天國的緣故自己選擇獨身（19:12）——但這是恩賜，不是逃避婚姻責任的藉口。
 
-**領受的提醒**：婚姻的問題揭露一個更大的問題——**你是要神起初的設計，還是要找一條方便自己的例外？** 而19:12選擇獨身事奉天國的人，走的是同一條路的另一種形式：不是放棄委身，是把整個人的委身，直接獻給了天國。
+**這一段的提醒**：婚姻的問題揭露一個更大的問題——**你是要神起初的設計，還是要找一條方便自己的例外？** 而19:12選擇獨身事奉天國的人，走的是同一條路的另一種形式：不是放棄委身，是把整個人的委身，直接獻給了天國。
 
 ---
 
@@ -151,7 +151,7 @@ publisher: 三書精讀出版系統
 
 門徒的反應暴露了他們的假設：「這樣誰能得救呢？」（19:25）——在一個把財富當作神祝福記號的社會裏，這句驚呼是必然的。
 
-耶穌回答：\jesus{\textbf{「在人這是不能的，在神凡事都能。」}}(19:26)
+耶穌回答：\jesus{「在人這是不能的，在神凡事都能。」}(19:26)
 
 **救恩是神的工作，不是人的成就**——這句話不只是安慰門徒，也回頭替少年財主的離去下了註腳：他失敗的地方，不是意志不夠堅強，是把一件唯獨神能成就的事，當成了自己可以靠變賣家產換來的交易。
 
@@ -166,7 +166,7 @@ publisher: 三書精讀出版系統
 - **今世**：凡為祂的名撇下房屋、親人、田地的，必得著百倍（19:29）
 - **永生**：承受永生
 
-\jesus{\textbf{「然而，有許多在前的，將要在後；在後的，將要在前。」}}(19:30)
+\jesus{「然而，有許多在前的，將要在後；在後的，將要在前。」}(19:30)
 
 這句話既是本章的結語，也是下一章葡萄園工人比喻的引言：**彼得問「我們要得甚麼」，聽起來很像早來的工人在算工錢；耶穌馬上要用一個比喻，把這句問話裏潛藏的算計一併翻轉過來。**
 
@@ -192,7 +192,7 @@ publisher: 三書精讀出版系統
 
 **三個場景排出遞進的次序**。摩根注意到，法利賽人論婚姻、門徒攔阻孩童、財主憂愁離去，這三段話不是隨機收錄的軼事，而是刻意的鋪排：先重申神起初的設計（秩序），再示範天國最基本的入門姿態（謙卑領受），最後揭穿人心最頑固的攔阻（財富）。
 
-**財主的憂愁不是拒絕，是猶豫**。摩根特別提醒，經文沒有說少年人「拒絕了」耶穌，只說他「憂憂愁愁地走了」——這是一個沒有把話說死的結局。他心裏的天平還在搖擺，只是那一刻，產業的份量壓過了對永生的渴慕。這也是為甚麼馬可福音補上一句「耶穌看著他，就愛他」（可10:21）：**主對這少年人的邀請，直到他轉身離開的那一刻，仍然是出於愛。**
+**財主的憂愁不是拒絕，是猶豫**。摩根特別提醒，經文沒有說少年人「拒絕了」耶穌，只說他「憂憂愁愁的走了」——這是一個沒有把話說死的結局。他心裏的天平還在搖擺，只是那一刻，產業的份量壓過了對永生的渴慕。這也是為甚麼馬可福音補上一句「耶穌看著他，就愛他」（可10:21）：**主對這少年人的邀請，直到他轉身離開的那一刻，仍然是出於愛。**
 
 ### 麥克阿瑟 (John MacArthur)
 
@@ -226,7 +226,7 @@ publisher: 三書精讀出版系統
 > 我今將萬事全然交託，甘心樂意獻給主；
 > 我要時常愛他信他，天天與主同居住。
 
-少年財主的問題，正是這首聖詩要對付的：不是「交出一部分」，是「全然交託」。他若唱得出這首詩的心志，就不會憂憂愁愁地走了。
+少年財主的問題，正是這首聖詩要對付的：不是「交出一部分」，是「全然交託」。他若唱得出這首詩的心志，就不會憂憂愁愁的走了。
 
 ---
 
@@ -307,11 +307,11 @@ publisher: 三書精讀出版系統
 
 ### 禱告回應
 
-> 主耶穌，祢問少年人「你還缺少甚麼」，也在問我。
-> 求祢光照我心裏那份不肯攤開的清單，那些我以為早已遵守、其實從未真正交出的部分。
-> 賜我孩子一樣的手——空空地伸向祢，不先計算能換回甚麼。
-> 也求祢記念：在人不能的，在祢凡事都能；
-> 求祢親自成就我裏面那一步「捨」，好叫我起來，真正跟從祢。阿們。
+> 主耶穌，你對少年人說「你還缺少一件」，也在對我說。
+> 求你光照我心裏那份不肯攤開的清單，那些我以為早已遵守、其實從未真正交出的部分。
+> 賜我孩子一樣的手——空空地伸向你，不先計算能換回甚麼。
+> 也求你記念：在人不能的，在你凡事都能；
+> 求你親自成就我裏面那一步「捨」，好叫我起來，真正跟從你。阿們。
 
 ---
 

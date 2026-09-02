@@ -90,7 +90,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 屬靈的痛苦遠比肉體的死亡更叫人絕望 (Spiritual Torment Is More Dreadful Than Physical Death)
 

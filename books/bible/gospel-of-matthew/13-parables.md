@@ -120,7 +120,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 天國的奧秘 (The Mystery of the Kingdom)
 
@@ -175,7 +175,7 @@ publisher: 三書精讀出版系統
 
 ### G. Campbell Morgan 論天國比喻
 
-**比喻群組的編排**：Morgan指出第13章的七個比喻是刻意編排的群組，產生累積的神學效果。
+**比喻群組的編排**：Morgan指出第13章的七個比喻是刻意編排的群組，產生累積的效果。
 
 > 「這比喻不是關於撒種者，而是關於土地。問題不在種子，種子是活的、有能力的。問題在於人心對神話語的回應。」
 > — G. Campbell Morgan

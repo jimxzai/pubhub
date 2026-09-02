@@ -84,7 +84,7 @@
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 教師的責任 (Teachers' Accountability)
 

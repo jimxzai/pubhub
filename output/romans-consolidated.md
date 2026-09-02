@@ -26,12 +26,9 @@ copyright: |
   中文經文引自《聖經》和合本（1919），屬公有領域；
   逐章核對來源見附錄二〈參考資料〉之逐章說明。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
-
-  All rights reserved.
+  Scripture quotations taken from the New American Standard Bible®
+  (NASB), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. All rights reserved. lockman.org
 ---
 
 
@@ -47,7 +44,7 @@ copyright: |
 
 這一本，輪到羅馬書——書信中的頭一卷，教義書信中最重的一卷。四福音書記下十字架上**發生了**甚麼；羅馬書解釋十字架**成就了**甚麼。查經桌上讀福音書，常常是看見了就感動；讀羅馬書，卻是要一層一層地問下去——**這卷書不遷就懶惰的讀者，它把福音一句一句拆開來給人看，直到人不得不俯伏。**
 
-本書各章的領受只署「老弟兄」與「週四查經班」，不寫姓名——這是帶領者自己的心願。他的理由，施洗約翰早已替他說了：\textcolor{ScriptureGold}{\textbf{「他必興旺，我必衰微。」}}（約 3:30）需要向讀者誠實交代的是：查經班的原始筆記中，並沒有以羅馬書為主題的逐節記錄；本書「老弟兄」各節，是把他六十多年一貫的查經方法與神學框架，忠實應用在羅馬書的經文上，不是歷史筆記的複現——詳情見附錄的逐章說明。\textcolor{ScriptureGold}{\textbf{寧可少一句金句，不可造一句假話。}}
+本書各章的領受只署「老弟兄」與「週四查經班」，不寫姓名——這是帶領者自己的心願。他的理由，施洗約翰早已替他說了：\textcolor{ScriptureGold}{\textbf{「他必興旺，我必衰微。」}}（約 3:30）需要向讀者誠實交代的是：查經班的原始筆記中，並沒有以羅馬書為主題的逐節記錄；本書「老弟兄」各節，是把他六十多年一貫的查經方法與領受框架，忠實應用在羅馬書的經文上，不是歷史筆記的複現——詳情見附錄的逐章說明。\textcolor{ScriptureGold}{\textbf{寧可少一句金句，不可造一句假話。}}
 
 成書有三個用途：**陪讀**（每章鑰詞、提問與「今天的祭壇」，為每日靈修預備）；**查經**（結構、原文與注疏，可作查經班底稿）；**傳承**（叫沒有坐在那張桌旁的人，同得這份糧）。所引經文以和合本為準，並與英譯對照；注疏凡標明篇章者均經核校，其餘一律註明為撮述——\textcolor{ScriptureGold}{\textbf{不杜撰一句經文，不編造一條注疏。}}
 
@@ -74,7 +71,7 @@ copyright: |
 ## 書卷簡介
 
 | 項目 | 內容 |
-|------|------|
+|----------------------------------------|----------------------------------------|
 | **作者** | 使徒保羅 |
 | **日期** | 主後 57 年 |
 | **寫作地點** | 哥林多 (Corinth) |
@@ -88,25 +85,13 @@ copyright: |
 
 ### 羅馬城
 
-```
-羅馬城地理位置
-
-                    ★ 羅馬 ROME
-                    │
-                    ▼
-        ┌───────────────────────┐
-        │    義 大 利 半 島      │
-        │       ITALY           │
-        │                       │
-        │    台伯河 Tiber River │
-        │         │             │
-        │         ★ 羅馬        │
-        │                       │
-        │   ★ 部丟利 Puteoli   │
-        │     (保羅登陸處)      │
-        └───────────────────────┘
-              地 中 海
-```
+| 地點 | 位置 | 與本書的關係 |
+|----------------|--------------------------------|--------------------------------|
+| 羅馬 (Rome) | 義大利半島中部，台伯河 (Tiber) 畔 | 收信教會所在；帝國首都 |
+| 部丟利 (Puteoli) | 那不勒斯灣，羅馬西南方的港口 | 保羅日後押解赴羅馬時的登陸港（徒28:13-14） |
+| 哥林多 (Corinth) | 希臘南部地峽 | 本書寫作地（羅16:23；徒20:2-3） |
+| 耶路撒冷 | 猶太 | 寫信時保羅正要送捐款前往（羅15:25-26） |
+| 士班雅 (Spain) | 帝國最西端 | 保羅寫信時的下一站目標（羅15:24, 28） |
 
 - **人口**：約100萬（當時世界最大城市）
 - **地位**：帝國首都，政治文化中心
@@ -121,7 +106,7 @@ copyright: |
 ## 使徒行傳對照
 
 | 使徒行傳 | 事件 | 羅馬書相關 |
-|----------|------|-----------|
+|------------------------------|------------------|---------------------------------|
 | 徒 18:1-18 | 第二次旅程建立哥林多教會 | 寫作地點 |
 | 徒 20:2-3 | 第三次旅程在希臘三個月 | 寫作時期 |
 | 徒 28:14-31 | 保羅終抵羅馬 | 羅15:23夙願實現 |
@@ -130,15 +115,18 @@ copyright: |
 
 ## 核心經文
 
-> 我不以福音為恥；這福音本是神的大能，要救一切相信的，先是猶太人，後是希臘人。因為神的義正在這福音上顯明出來；這義是本於信，以至於信。如經上所記：「義人必因信得生。」
-> — 羅馬書 1:16-17
+> 我不以福音為恥；這福音本是神的大能，要救一切相信的，先是猶太人，後是希利尼人。因為神的義正在這福音上顯明出來；這義是本於信，以致於信。如經上所記：「義人必因信得生。」
+> — 羅馬書 1:16-17（和合本）
+
+> For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek. For in it *the* righteousness of God is revealed from faith to faith; as it is written, "BUT THE RIGHTEOUS *man* SHALL LIVE BY FAITH."
+> — Romans 1:16-17 (NASB 1995)
 
 ---
 
 ## 全書結構
 
 | 部分 | 章節 | 主題 |
-|------|------|------|
+|---------------------------|---------------------------|---------------------------|
 | **引言** | 1:1-17 | 福音的能力 |
 | **定罪** | 1:18-3:20 | 普世有罪 |
 | **稱義** | 3:21-5:21 | 因信稱義 |
@@ -152,7 +140,7 @@ copyright: |
 ## 章節目錄
 
 | 章 | 標題 | 經文 |
-|----|------|------|
+|--------------------|------------------------------|------------------------------|
 | 1 | 福音與定罪 | 1:1-32 |
 | 2 | 神公義的審判 | 2:1-29 |
 | 3 | 普世有罪、因信稱義 | 3:1-31 |
@@ -204,7 +192,7 @@ copyright: |
 
 ---
 
-## 神學要點
+## 領受要點 (Truths Received)
 
 ### 因信稱義 (Justification by Faith)
 
@@ -228,7 +216,7 @@ copyright: |
 ### 詩篇對照
 
 | 羅馬書 | 詩篇 | 主題 |
-|--------|------|------|
+|--------------------------------|------------------------|------------------------|
 | 羅 3:10-18 | 詩 14, 53 | 普世有罪 |
 | 羅 4:7-8 | 詩 32:1-2 | 罪得赦免 |
 | 羅 8:36 | 詩 44:22 | 為主受苦 |
@@ -238,7 +226,7 @@ copyright: |
 ### 經典聖詩
 
 | 聖詩 | 相關經文 |
-|------|----------|
+|------------------------------|--------------------------------------------------|
 | **萬古磐石** (Rock of Ages) | 羅 3:24-25 因信稱義 |
 | **奇異恩典** (Amazing Grace) | 羅 5:8 神的愛 |
 | **我靈鎮靜** (Be Still, My Soul) | 羅 8:28 萬事效力 |
@@ -246,7 +234,7 @@ copyright: |
 
 ---
 
-*三書精讀項目 · 羅馬書研讀 · 2025*
+*三書精讀項目 · 羅馬書研讀 · 2026*
 
 
 \newpage
@@ -285,7 +273,7 @@ copyright: |
 
 第三次宣教旅程將盡，他住在哥林多該猶的家裏（16:23），身邊是替他執筆的德丟（16:22），手上是馬其頓與亞該亞眾教會為耶路撒冷窮困聖徒湊的捐項（15:26）。他的行程表寫在 15:24-28：**先上耶路撒冷送捐款，再取道羅馬，往西班牙（Hispania）去**——當時地中海世界的最西端。
 
-東方的工作，他說「從耶路撒冷，直轉到以利哩古，到處傳了基督的福音」（15:19）；「如今，在這裏再沒有可傳的地方」（15:23）。一個把東半邊傳遍了的人，眼睛望著最西邊的地極——羅馬恰好在中間，是他從未去過、卻必須經過的一站。
+東方的工作，他說「從耶路撒冷直轉到以利哩古，到處傳了基督的福音」（15:19）；「但如今在這裏再沒有可傳的地方」（15:23）。一個把東半邊傳遍了的人，眼睛望著最西邊的地極——羅馬恰好在中間，是他從未去過、卻必須經過的一站。
 
 這個處境解釋了羅馬書獨一無二的性質。保羅別的信件都是對著具體的難處寫的：哥林多有分黨結派，加拉太有律法主義滲入，帖撒羅尼迦對主再來有誤解。**唯獨羅馬教會不是他建立的，他沒有見過這群人的面，沒有一場地方性的火要救。**於是這封信不救火，只鋪路——他把自己所傳的福音，從根基到屋頂，完完整整陳明一遍，作為日後親身到訪、同得堅固（1:11-12）、並被差往西班牙（15:24「蒙你們送行」）的鋪墊。
 
@@ -304,7 +292,7 @@ copyright: |
 兩卷書像兩支軍隊，從相反的方向攻打同一座城：
 
 | | 加拉太書 | 羅馬書 |
-|---|---|---|
+|---------------------------|---------------------------|---------------------------|
 | **對手** | 外邦信徒被說服要靠割禮律法「補足」信心 | 猶太人靠血統與律法誇口 |
 | **筆調** | 急迫，如戰場快報（「我希奇你們這麼快離開」） | 從容，如法庭辯詞（層層推進，滴水不漏） |
 | **共同的地基** | 創 15:6「亞伯蘭信耶和華，耶和華就以此為他的義」 | 同一節 |
@@ -320,7 +308,7 @@ copyright: |
 
 **主後 386 年，米蘭的一個園子。**奧古斯丁——半生在情慾與哲學之間打轉的修辭學教授——聽見牆外孩童唱著「拿起來讀，拿起來讀」（tolle lege），抓起身邊的書卷，映入眼簾的正是羅馬書：
 
-> 「不可荒宴醉酒；不可好色邪蕩；不可爭競嫉妒。總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。」（羅 13:13-14）
+> 「……不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒。總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。」（羅 13:13下-14）
 >
 > 「我不願再讀下去，也不需要了。讀完這一句，彷彿有確據之光注入我心，疑慮的陰霾一掃而空。」
 >
@@ -360,7 +348,7 @@ copyright: |
 
 有一件史事直接影響了這封信的內容。**主後 49 年，革老丟皇帝下令把猶太人逐出羅馬**——羅馬史家蘇埃托尼烏斯記載，起因是猶太社群裏「因基督（Chrestus）之故不斷生亂」（Suetonius, *Divus Claudius* 25.4，撮述）；使徒行傳 18:2 記的正是這道命令的餘波：亞居拉和百基拉「因為革老丟命猶太人都離開羅馬」，才流落到哥林多，遇見保羅。革老丟死後（主後 54 年），猶太信徒陸續回到羅馬，卻發現教會已經是外邦信徒當家。**猶太信徒與外邦信徒同席不同心——這正是 9-11 章「以色列問題」與 14-15 章「軟弱與剛強要彼此接納」背後那個具體、火熱的處境。**
 
-所以羅馬書雖是最系統的一卷，卻不是抽象的神學論文。它的每一章都朝著一個實際的目標：**叫猶太人與外邦人在同一個福音面前同時閉口無言（3:19），又在同一位主面前同席吃飯（15:7）——「你們要彼此接納，如同基督接納你們一樣。」**
+所以羅馬書雖是最系統的一卷，卻不是抽象的道理。它的每一章都朝著一個實際的目標：**叫猶太人與外邦人在同一個福音面前同時閉口無言（3:19），又在同一位主面前同席吃飯（15:7）——「你們要彼此接納，如同基督接納你們一樣。」**
 
 ---
 
@@ -412,9 +400,9 @@ copyright: |
 這兩節裏，全書的每一條線都已經埋好了：
 
 | 片語 | 展開在 |
-|------|--------|
+|----------------------------------|----------------------------------------------|
 | 「神的大能」（δύναμις） | 1:4 復活的大能——救恩的能力就是叫死人復活的能力，貫穿 6 章同活、8 章身體得贖、11 章「從死裏復生」 |
-| 「要救一切相信的」 | 3:22「並沒有分別」、10:12-13「凡求告主名的就必得救」 |
+| 「要救一切相信的」 | 3:22「並沒有分別」、10:12-13「凡求告主名的，就必得救」 |
 | 「先是猶太人，後是希利尼人」 | 2-3 章兩造同受審，9-11 章以色列的奧祕，14-15 章兩群人同席 |
 | 「神的義」 | 3:21-26 十字架上的顯明——既是神自己的公義，又是神賜給人的義 |
 | 「本於信，以致於信」 | 4 章亞伯拉罕（信的起點），8 章確據（信走到底），12-15 章（信活出來） |
@@ -434,7 +422,7 @@ copyright: |
 
 這不是保羅詞窮，是刻意的文學收合（*inclusio*）——把整封信像書卷一樣捲起來，首尾用同一根繩子繫緊。中間一切論證——普世的罪、因信稱義、聖靈裏的新生命、以色列的奧祕、教會的倫理——都在回答同一個問題：**這個「因信而順服」到底是甚麼，如何發生，如何活出來。**
 
-留意這個片語的兩個字缺一不可。只有「信」沒有「順服」，福音淪為一張不改變人的入場券——那是 6:1 保羅親自駁斥的漫畫（「我們可以仍在罪中、叫恩典顯多麼？斷乎不可！」）；只有「順服」沒有「信」，福音退回律法主義——那是 9:32 以色列跌倒的地方（「不憑著信心求，只憑著行為求」）。**羅馬書全書，就走在這兩個懸崖中間的窄路上。**
+留意這個片語的兩個字缺一不可。只有「信」沒有「順服」，福音淪為一張不改變人的入場券——那是 6:1 保羅親自駁斥的漫畫（「我們可以仍在罪中，叫恩典顯多嗎？斷乎不可！」）；只有「順服」沒有「信」，福音退回律法主義——那是 9:32 以色列跌倒的地方（「不憑著信心求，只憑著行為求」）。**羅馬書全書，就走在這兩個懸崖中間的窄路上。**
 
 ---
 
@@ -465,7 +453,7 @@ copyright: |
 老弟兄的辦法：「這卷書重複出現最多次的詞是甚麼？把它圈出來。」羅馬書的原文給出三個壓倒性的數字（按希臘文經文統計，取整說「約」）：
 
 | 鑰詞 | 出現次數 | 說明 |
-|------|---------|------|
+|-----------------------|----------------------------------|-----------------------|
 | **律法**（νόμος） | 約 74 次 | 全新約之冠——這卷書不是繞開律法講恩典，是正面回答「律法怎麼辦」 |
 | **信**（πίστις／πιστεύω） | 合計約 60 次 | 「本於信，以致於信」——從 1:5 到 16:26 |
 | **義**（δικ- 字族：義、稱義、定罪之反面） | 合計約 60 次 | 其中名詞「義」（δικαιοσύνη）在羅馬書出現的密度為全新約最高 |
@@ -479,12 +467,12 @@ copyright: |
 老弟兄查經一貫的救恩框架——**稱義、成聖、得榮**——恰好是羅馬書自己的次序：
 
 | 階段 | 解決的問題 | 完成的方式 | 羅馬書 |
-|------|-----------|-----------|--------|
+|-------------|------------------------|------------------------|------------------|
 | **稱義** | 罪的**刑罰** | 一次完成，法庭宣告 | 3:21-5:21 |
 | **成聖** | 罪的**權勢** | 持續進行，天天治死 | 6:1-8:17 |
 | **得榮** | 罪的**存在** | 末後完成，身體得贖 | 8:18-30 |
 
-分不清這三個階段，是讀羅馬書最常見的迷路：把稱義讀成漸進的（於是一生沒有確據），或把成聖讀成自動的（於是不再爭戰）。8:30 的金鏈把三環扣在一起——「預先所定下的人又召他們來；所召來的人又稱他們為義；所稱為義的人又叫他們得榮耀」——**五個動詞全是過去式，連尚未成就的「得榮耀」也是：從神永恆的視角看，這條鏈子沒有一環是不確定的。**
+分不清這三個階段，是讀羅馬書最常見的迷路：把稱義讀成漸進的（於是一生沒有確據），或把成聖讀成自動的（於是不再爭戰）。8:29-30 的金鏈把五環扣在一起——「因為他預先所知道的人，就預先定下效法他兒子的模樣……預先所定下的人又召他們來；所召來的人又稱他們為義；所稱為義的人又叫他們得榮耀」——**五個動詞（預知、預定、召、稱義、得榮耀）全是過去式，連尚未成就的「得榮耀」也是：從神永恆的視角看，這條鏈子沒有一環是不確定的。**
 
 ---
 
@@ -493,7 +481,7 @@ copyright: |
 1:17 所引的哈巴谷書 2:4，在新約被完整引用三次。歷代解經者流傳一個讀法：三卷書恰好各自展開這句話的一個片語——
 
 | 片語 | 書卷 | 那卷書的負擔 |
-|------|------|------------|
+|--------------------|--------------------|----------------------------------------|
 | **義人** | 羅馬書（1:17） | 人如何在神面前成為義人——因信稱義 |
 | **必因信** | 加拉太書（3:11） | 這信不容任何律法的附加——唯獨因信 |
 | **得生** | 希伯來書（10:38） | 這信要存到底——得生命，直到見主 |
@@ -538,7 +526,7 @@ copyright: |
 
 **整理日期**：2026-07
 **方法**：以羅馬書自身的文學結構為骨架——首（1:5）尾（16:26）一字不差重複的「因信而順服」（*hypakoēn pisteōs*）作為全信的鑰匙，逐段深度領受；跨書參照創世記、加拉太書、哥林多前書、以弗所書、雅各書
-**經文核對**：01-16各章中文經文已統一為和合本 (CUV)，逐章逐節經 ai-eden.com 或 cnbible.com（現代標點和合本）核對；English 統一採 ESV，經 biblegateway.com 核對。各章正文均已如實標明所用版本與核對來源，詳見各章「經文」小節之版本說明，以及附錄二〈參考資料〉之逐章清單。
+**經文核對**：01-16各章中文經文已統一為和合本 (CUV)，逐章逐節經 ai-eden.com 或 cnbible.com（現代標點和合本）核對；English 於2026年8月31日全面改採 NASB 1995，經 biblehub.com 核對。各章正文均已如實標明所用版本與核對來源，詳見各章經文小節之版本說明，以及附錄二〈參考資料〉之逐章清單。
 
 ---
 
@@ -552,7 +540,7 @@ copyright: |
 
 ### 全書精義一句話
 
-羅馬書全書只做一件事：把一個人從「神的忿怒已經顯明在他身上」（1:18）這句最沉重的判詞開始，一路帶到「無論是死，是活……都不能叫我們與神的愛隔絕」（8:38-39）這句最徹底的確據，再帶到「神沒有棄絕祂的百姓」（11:1-2）與「你們要彼此接納，如同基督接納你們一樣」（15:7）——**這不是七段各自獨立的神學專題，是同一場福音的辯詞，從人徹底無可推諉的敗壞開始，經過神在十字架上白白賜下、卻不折損祂公義分毫的稱義，走進聖靈使人天天向罪死、向神活的新生命，穿過神對以色列不離不棄的信實，最終落在一群猶太人與外邦人、奴隸與自由人、男人與女人彼此接納、以聖潔的親吻問安的具體群體裏。羅馬書要證明的只有一件事：這義，本於神的信實，因著人的信，「本於信，以致於信」（1:17）——從起頭到末了，沒有一步是人自己走出來的。**
+羅馬書全書只做一件事：把一個人從「神的忿怒已經顯明在他身上」（1:18）這句最沉重的判詞開始，一路帶到「無論是死，是活……都不能叫我們與神的愛隔絕」（8:38-39）這句最徹底的確據，再帶到「神沒有棄絕祂的百姓」（11:1-2）與「你們要彼此接納，如同基督接納你們一樣」（15:7）——**這不是七段各自獨立的專題，是同一場福音的辯詞，從人徹底無可推諉的敗壞開始，經過神在十字架上白白賜下、卻不折損祂公義分毫的稱義，走進聖靈使人天天向罪死、向神活的新生命，穿過神對以色列不離不棄的信實，最終落在一群猶太人與外邦人、奴隸與自由人、男人與女人彼此接納、以聖潔的親吻問安的具體群體裏。羅馬書要證明的只有一件事：這義，本於神的信實，因著人的信，「本於信，以致於信」（1:17）——從起頭到末了，沒有一步是人自己走出來的。**
 
 ---
 
@@ -564,12 +552,12 @@ copyright: |
 
 #### 兩個榮耀頌，一條敬拜的暗線
 
-11:33-36與16:25-27是全信僅有的兩處榮耀頌，都與「奧祕」（*mystērion*）緊密相連——前者上文剛論及以色列得救的奧祕（11:25），後者直接頌讚奧祕的啟示（16:25）——都以「歸給祂，直到永遠，阿們」收尾。前一個站在「揀選」論證最沉重之處（保羅剛剛講完以色列大半硬心、神卻仍然信實），後一個站在全信最後。這暗示一件事：保羅的神學論證從不以「我把道理講清楚了」為終點，每一次論證走到最深處，他都情不自禁地轉向敬拜。**這正是羅馬書作為一封「教義書信」最容易被誤讀的地方——它從不是一套供人分析的系統，是一條引人俯伏的路。**
+11:33-36與16:25-27是全信僅有的兩處榮耀頌，都與「奧祕」（*mystērion*）緊密相連——前者上文剛論及以色列得救的奧祕（11:25），後者直接頌讚奧祕的啟示（16:25）——都以「歸給祂，直到永遠，阿們」收尾。前一個站在「揀選」論證最沉重之處（保羅剛剛講完以色列大半硬心、神卻仍然信實），後一個站在全信最後。這暗示一件事：保羅的論證從不以「我把道理講清楚了」為終點，每一次論證走到最深處，他都情不自禁地轉向敬拜。**這正是羅馬書作為一封「教義書信」最容易被誤讀的地方——它從不是一套供人分析的系統，是一條引人俯伏的路。**
 
 #### 全書結構一覽
 
 | 部分 | 章節 | 主題 | 一句話定位 |
-|------|------|------|-----------|
+|-----------------|-----------------|-----------------|------------------------------|
 | 引言 | 1:1-17 | 福音的宣告 | 立下全信的主題句：因信稱義 |
 | 定罪 | 1:18-3:20 | 普世都有罪 | 讓每一張嘴都閉口無言 |
 | 稱義 | 3:21-5:21 | 因信稱義的教義 | 「但如今」——恩典介入歷史 |
@@ -606,11 +594,11 @@ copyright: |
 
 #### 深度探索
 
-1:24, 26, 28三次「神就任憑他們」（*paradidōmi*）是這段經文最沉重的副歌——神忿怒的一種樣式，常常不是雷擊，而是放手，容讓人走進自己選擇的深淵。但這同一個希臘字，8:32卻反過來使用：「神……不愛惜自己的兒子，為我們眾人捨了（*paredōken*）。」**一次「交出」是審判，一次「交出」是救恩，方向完全相反，卻是同一位神、同一個動詞。**這是全書最容易被忽略、卻最能說明神學走向的一組文字呼應——羅馬書1章與8章，用同一根線縫在一起。
+1:24, 26, 28三次「神就任憑他們」（*paradidōmi*）是這段經文最沉重的副歌——神忿怒的一種樣式，常常不是雷擊，而是放手，容讓人走進自己選擇的深淵。但這同一個希臘字，8:32卻反過來使用：「神……不愛惜自己的兒子，為我們眾人捨了（*paredōken*）。」**一次「交出」是審判，一次「交出」是救恩，方向完全相反，卻是同一位神、同一個動詞。**這是全書最容易被忽略、卻最能說明全書走向的一組文字呼應——羅馬書1章與8章，用同一根線縫在一起。
 
-1:23「將神的榮耀變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式」，是創世記1:26「照著我們的形像造人」的反面——人本來領受神的形像，卻把它換成受造物的形像。這條交換的線，一直到5:12-19才被逆轉：亞當（第一個把神的形像換掉的人）與基督（末後的亞當，完全的神的形像，西1:15「那不能看見之神的像」）並排對照。**羅馬書1章寫的是交換的悲劇，5章寫的是交換的逆轉——這兩章隔著三章因信稱義的論證彼此呼應，證明保羅從一開始就已經在心裏規劃好了整封信的骨架。**
+1:23「將不能朽壞之神的榮耀變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式」，是創世記1:26「照著我們的形像造人」的反面——人本來領受神的形像，卻把它換成受造物的形像。這條交換的線，一直到5:12-19才被逆轉：亞當（第一個把神的形像換掉的人）與基督（末後的亞當，完全的神的形像，西1:15「那不能看見之神的像」）並排對照。**羅馬書1章寫的是交換的悲劇，5章寫的是交換的逆轉——這兩章隔著三章因信稱義的論證彼此呼應，證明保羅從一開始就已經在心裏規劃好了整封信的骨架。**
 
-2:29「真割禮也是心裏的，在乎靈，不在乎儀文」是全信「字句與靈」這條軸線第一次出現。這句話7:6再說一次（「按著聖靈的新樣，不按著儀文的舊樣」），與哥林多後書3:6「那字句是叫人死，精意是叫人活」完全同源。**律法能定義何為罪，卻沒有能力使人活出義——這個張力，2章埋下，7章展開，8章才給出答案。**
+2:29「真割禮也是心裏的，在乎靈，不在乎儀文」是全信「字句與靈」這條軸線第一次出現。這句話7:6再說一次（「按著心靈的新樣，不按著儀文的舊樣」），與哥林多後書3:6「那字句是叫人死，精意是叫人活」完全同源。**律法能定義何為罪，卻沒有能力使人活出義——這個張力，2章埋下，7章展開，8章才給出答案。**
 
 #### 帶著走的問題
 
@@ -646,7 +634,7 @@ copyright: |
 
 #### 深度探索
 
-6:3-11密集使用以*syn*-（「與……同」）為字首的複合動詞——同埋葬、同釘十字架、同死、同活。這條動詞鏈本身就是一篇神學論文：我們的死不是一次獨立的道德決心，是「與祂一同」；我們的活也不是靠自己翻新，是「與祂一同」。6:11「你們也要看自己對罪是死的」（*logizesthe*），與4:3「亞伯拉罕信神，這就算為他的義」是同一個希臘字——**保羅在第4章用它描述神「算」義給信心之人，第6章用同一個字命令信徒「算」自己向罪死、向神活。成聖不是靠一種新的、與信心不同的邏輯，而是把稱義的同一套「信心會計學」，繼續應用在每天的生活上。**
+6:3-11密集使用以*syn*-（「與……同」）為字首的複合動詞——同埋葬、同釘十字架、同死、同活。這條動詞鏈本身就把道理講完了：我們的死不是一次獨立的道德決心，是「與祂一同」；我們的活也不是靠自己翻新，是「與祂一同」。6:11「你們也要看自己對罪是死的」（*logizesthe*），與4:3「亞伯拉罕信神，這就算為他的義」是同一個希臘字——**保羅在第4章用它描述神「算」義給信心之人，第6章用同一個字命令信徒「算」自己向罪死、向神活。成聖不是靠一種新的、與信心不同的邏輯，而是把稱義的同一套「信心會計學」，繼續應用在每天的生活上。**
 
 7章是全信最誠實、也最容易被誤讀的一段。律法本身「是聖的，誡命也是聖的、義的、善的」（7:12）——問題從來不在律法，而在「我卻是屬肉體的」。律法能診斷，卻不能醫治；它像一面精準的鏡子，卻沒有一句話應許能除去罪。**這正是加拉太書3:24「律法是訓蒙的師傅，引人到基督那裏」在羅馬書裏最詳細的展開——十誡最後一條「不可貪心」揭開的，不是保羅一個人的問題，是自伊甸園以來所有人的問題。**7:24「我真苦啊」與7:25「感謝神」之間的劇烈轉折，不是保羅寫壞了邏輯，而是基督徒真實生命的寫照——得救的確據與仍在掙扎的現實同時存在，福音的答案，在系統的論述展開之前，已經先破口而出。
 
@@ -672,7 +660,7 @@ copyright: |
 
 10章不是新話題，是同一個問題換一個角度：如果神真的揀選、真的掌權，那以色列今天不信，責任在誰？保羅的答案很尖銳：責任在他們自己——「有熱心，但不是按著真知識」（10:2）。**神的主權（9章）與人的責任（10章），不是互相取消，是保羅同時堅持的兩條真理，中間沒有邏輯上的縫。**10:9-10「口裏認耶穌為主，心裏信神叫他從死裏復活，就必得救」，把3-8章正式的法庭術語，翻譯成最平常的人話；10:14-15一連串反問句倒推出宣教的必然次序——得救、求告、相信、聽見、傳講、差遣——這條鏈子若少了任何一環，前面的都不會發生。
 
-11章的橄欖樹寓意（11:17-24）是全段的核心圖像：根是聖潔的（神向列祖所立的應許），枝子被折下（以色列因不信），野橄欖被接上（外邦人因信，且這在農藝上其實是「違反自然」的做法，凸顯外邦人蒙恩沒有任何本錢可誇）。**11:12與11:25用同一個希臘字「滿數」（*plērōma*）：以色列的部分失落帶來外邦人的豐盛，外邦人的「滿數」進來之後，將迎來以色列的「全家」得救——這是全章暗藏的骨架，把兩端縫成一個完整的邏輯。**「神的恩賜和選召是不會撤回的」（11:29）——這節經文的神學意義遠超以色列的處境，它同時是每一個因信稱義之人得蒙保守的根基。全章最終不是以更多論證收尾，是以一聲「深哉」（11:33）的驚嘆收尾——**真正明白神的道理，終點不是「我懂了」，是「我敬拜」。**
+11章的橄欖樹寓意（11:17-24）是全段的核心圖像：根是聖潔的（神向列祖所立的應許），枝子被折下（以色列因不信），野橄欖被接上（外邦人因信，且這在農藝上其實是「違反自然」的做法，凸顯外邦人蒙恩沒有任何本錢可誇）。**11:12與11:25用同一個希臘字「滿數」（*plērōma*）：以色列的部分失落帶來外邦人的豐盛，外邦人的「滿數」進來之後，將迎來以色列的「全家」得救——這是全章暗藏的骨架，把兩端縫成一個完整的邏輯。**「神的恩賜和選召是不會撤回的」（11:29）——這節經文的屬靈意義遠超以色列的處境，它同時是每一個因信稱義之人得蒙保守的根基。全章最終不是以更多論證收尾，是以一聲「深哉」（11:33）的驚嘆收尾——**真正明白神的道理，終點不是「我懂了」，是「我敬拜」。**
 
 #### 帶著走的問題
 
@@ -706,11 +694,11 @@ copyright: |
 
 #### 精義
 
-15:14起，保羅從教會倫理轉向自己的宣教策略、耶路撒冷的捐款，以及一份超過三十個真實姓名的問安名單。**這一章常被讀者輕輕翻過，視為「不過是一份名單」，其實是全信神學最具體的落地版本——教義若不長成一個彼此相顧、跨越階級與種族的群體，就還沒有活出福音的全貌。**
+15:14起，保羅從教會倫理轉向自己的宣教策略、耶路撒冷的捐款，以及一份超過三十個真實姓名的問安名單。**這一章常被讀者輕輕翻過，視為「不過是一份名單」，其實是全信真理最具體的落地版本——教義若不長成一個彼此相顧、跨越階級與種族的群體，就還沒有活出福音的全貌。**
 
 #### 深度探索
 
-15:20保羅「不在別人的根基上建造」的宣教雄心，與15:25-28耶路撒冷捐項的具體行動，證明羅馬書不是一篇懸浮在空中的神學論文，是一封寫給具體處境、由一位正在具體行動中的宣教士所寫的信。15:30-32保羅所求的三件禱告事項——脫離猶太不信之人的加害、捐獻蒙悅納、能照神旨意來到羅馬——後來幾乎全部以「他最擔心的事發生了，神卻仍然帶他到了羅馬」的方式應驗（徒21-28章）。這提醒讀者：神應允禱告的方式，往往不是移除人所懼怕的苦難，而是讓所懼怕的苦難本身，成為福音抵達下一站的通路。
+15:20保羅「不在別人的根基上建造」的宣教雄心，與15:25-28耶路撒冷捐項的具體行動，證明羅馬書不是一篇懸浮在空中的論文，是一封寫給具體處境、由一位正在具體行動中的宣教士所寫的信。15:30-32保羅所求的三件禱告事項——脫離猶太不信之人的加害、捐獻蒙悅納、能照神旨意來到羅馬——後來幾乎全部以「他最擔心的事發生了，神卻仍然帶他到了羅馬」的方式應驗（徒21-28章）。這提醒讀者：神應允禱告的方式，往往不是移除人所懼怕的苦難，而是讓所懼怕的苦難本身，成為福音抵達下一站的通路。
 
 16章這份問安名單裏，猶太人與外邦人並列，奴隸背景的名字與有社會地位的贊助人並列，男性與女性並列——這正是加拉太書3:28「不再分猶太人、希臘人，自主的、為奴的，或男或女……在基督耶穌裏都成為一了」的具體、有名有姓的實現。**稱義的教義若不落實在一個真正跨越隔閡的群體裏，教義就還沒有走完保羅的邏輯。**16:20「那賜平安的神快要把撒但踐踏在你們腳下」直接呼應創世記3:15「女人的後裔要傷你的頭」——保羅寫完一整卷關於神的義如何勝過罪的信，最後用伊甸園裏最古老的應許提醒讀者：教會今天面對的紛爭與試探，是那場最早爭戰的延續，而結局早已寫定。
 
@@ -730,7 +718,7 @@ copyright: |
 
 #### 二、加拉太書與哥林多前書——同一場辯詞，不同的戰場
 
-摩根指出：「保羅在寫完加拉太書後立即寫羅馬書，他的心充滿稱義的教義。在加拉太書中，人因信稱義（強調人的一面）；在羅馬書中，神將自己的義賜給信者使他稱義（強調神的一面）」——這是〈羅馬書概覽〉已核實的引句，也是理解這兩卷書關係最精確的一句話。加拉太書與羅馬書像兩支軍隊從不同方向攻打同一座城：加拉太書駁斥外邦信徒被說服要靠割禮與律法「補足」因信稱義的軟弱，羅馬書駁斥猶太人靠血統與律法誇口的驕傲——**方向相反，根基相同。**哥林多前書15:21-22則從另一個角度加固羅馬書5章的論證：「在亞當裏眾人都死了；同樣，在基督裏眾人也都要復活」，與羅馬書5:12-19是同一條神學骨架在不同書信裏的重述——**人類的命運，從來不是各自獨立的個體加總，而是被安放在兩個代表元首之下，這件事，保羅在寫給加拉太人、羅馬人、哥林多人的三封不同的信裏，反覆確認同一件事。**
+摩根指出：「保羅在寫完加拉太書後立即寫羅馬書，他的心充滿稱義的教義。在加拉太書中，人因信稱義（強調人的一面）；在羅馬書中，神將自己的義賜給信者使他稱義（強調神的一面）」——這是〈羅馬書概覽〉已核實的引句，也是理解這兩卷書關係最精確的一句話。加拉太書與羅馬書像兩支軍隊從不同方向攻打同一座城：加拉太書駁斥外邦信徒被說服要靠割禮與律法「補足」因信稱義的軟弱，羅馬書駁斥猶太人靠血統與律法誇口的驕傲——**方向相反，根基相同。**哥林多前書15:21-22則從另一個角度加固羅馬書5章的論證：「在亞當裏眾人都死了；同樣，在基督裏眾人也都要復活」，與羅馬書5:12-19是同一條真理骨架在不同書信裏的重述——**人類的命運，從來不是各自獨立的個體加總，而是被安放在兩個代表元首之下，這件事，保羅在寫給加拉太人、羅馬人、哥林多人的三封不同的信裏，反覆確認同一件事。**
 
 #### 三、以弗所書與雅各書——揀選的終點與信心的果子
 
@@ -756,7 +744,7 @@ copyright: |
 > 先讓每一張嘴都閉口——1:18 到 3:20 是聖經最長的一份起訴書；它存在的唯一理由，是叫 3:21 的「但如今」成為天亮。
 
 | | |
-|---|---|
+|----------------------|-----------------------------------------------------------------|
 | **救恩的環節** | **定罪**——沒有義人，連一個也沒有（3:10） |
 | **鑰節** | 3:23「因為世人都犯了罪，虧缺了神的榮耀」 |
 | **貫穿的問題** | 人為甚麼需要救？ |
@@ -768,33 +756,35 @@ copyright: |
 
 羅馬書 1:1-32
 
----
+**經文核對**：[ai-eden.com/bible/romans/1](https://www.ai-eden.com/bible/romans/1?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-這一章的每一句話，最終都指向一個人。保羅一開口就不是自我介紹，而是介紹福音——「論到他兒子，我主耶穌基督：按肉體說，是從大衛後裔生的；按聖善的靈說，因從死裏復活，以大能顯明是神的兒子」（1:3-4）。整封信最有名的一句「義人必因信得生」（1:17），問題也不是「我怎樣才夠義」，而是「誰的義能成為我的義」——答案是那位「按肉體」真實進入歷史、又「按聖靈」從死裏復活得勝的耶穌基督。
+> **本章鑰詞：大能 Dynamis** \
+> **全書坐標**：1:16-17是全羅馬書的主題句，1:18-3:20是這主題句成立的前提——普世有罪，才顯出因信稱義的必要。全書五卷（定罪／稱義／成聖／揀選／活祭）都是從這裏「神的義……顯明」與「神的忿怒……顯明」兩條並行的線展開。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
-再往下讀，1:23「將不能朽壞之神的榮耀變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式」，說的正是人拿「神的形像」去換「受造之物的形像」。保羅後來在歌羅西書這樣稱呼基督：「愛子是那不能看見之神的像」（西1:15）——人所交換掉的那個形像，正是基督自己。羅馬書1章寫盡了人如何把神的榮耀換成偶像，羅馬書5章的答案，是那位不曾交換、反而甘心虛己成為「末後的亞當」的耶穌基督（腓2:6-8；羅5:12-19）。人人都在「被交出去」的審判裏（1:24, 26, 28, *paradidōmi*），基督卻是那位「被交出來」擔當我們過犯的一位（羅8:32：「神既不愛惜自己的兒子，為我們眾人捨了，豈不也把萬物和他一同白白地賜給我們嗎？」）——同一個希臘動詞，一次是審判的交出，一次是救恩的交出。
+這一章的每一句話，最終都指向一個人。保羅一開口不是自我介紹，而是介紹福音——「論到他兒子，我主耶穌基督：按肉體說，是從大衛後裔生的；按聖善的靈說，因從死裏復活，以大能顯明是神的兒子」（1:3-4）。全信最有名的一句「義人必因信得生」（1:17），問題不是「我怎樣才夠義」，而是「誰的義能成為我的義」——答案是這位「按肉體」真實進入歷史、又「按聖靈」從死裏復活得勝的耶穌基督。人人都在「被交出去」的審判裏（1:24, 26, 28，*paradidōmi*），基督卻是那位「被交出來」擔當我們過犯的一位（羅8:32：「神既不愛惜自己的兒子，為我們眾人捨了……」）——同一個希臘動詞，一次是審判的交出，一次是救恩的交出。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **And Can It Be**
+> **And Can It Be** \
 > *Charles Wesley, 1738*
 >
-> And can it be that I should gain
-> An interest in the Savior's blood?
-> Died He for me, who caused His pain?
-> For me, who Him to death pursued?
-> Amazing love! How can it be
+> And can it be that I should gain \
+> An interest in the Savior's blood? \
+> Died He for me, who caused His pain? \
+> For me, who Him to death pursued? \
+> Amazing love! How can it be \
 > That Thou, my God, shouldst die for me?
 >
-> 這何等事？我竟得分
-> 有份於救主的寶血？
-> 祂竟為我死——我這使祂受苦的人？
-> 為我，那曾將祂置於死地的我？
-> 奇異的愛！怎能如此？
+> 這何等事？我竟得分 \
+> 有份於救主的寶血？ \
+> 祂竟為我死——我這使祂受苦的人？ \
+> 為我，那曾將祂置於死地的我？ \
+> 奇異的愛！怎能如此？ \
 > 祢竟願為我捨命，我的神？
 
 ---
@@ -803,7 +793,7 @@ copyright: |
 
 ### 中文 — 和合本 (CUV)
 
-> 說明：本章寫作時未能穩定取得和合本修訂版 (RCUV) 逐節文本，改用經電子文本逐節核對之和合本 (CUV) 繁體版，如實標明版本，不冒充 RCUV。
+> **版本說明**：本章中文經文為和合本 (CUV)，經線上電子文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}耶穌基督的僕人保羅，奉召為使徒，特派傳神的福音。\textsuperscript{2}這福音是神從前藉眾先知在聖經上所應許的，\textsuperscript{3}論到他兒子——我主耶穌基督。按肉體說，是從大衛後裔生的；\textsuperscript{4}按聖善的靈說，因從死裏復活，以大能顯明是神的兒子。\textsuperscript{5}我們從他受了恩惠並使徒的職分，在萬國之中叫人為他的名信服真道；\textsuperscript{6}其中也有你們這蒙召屬耶穌基督的人。\textsuperscript{7}我寫信給你們在羅馬、為神所愛、奉召作聖徒的眾人。願恩惠、平安從我們的父神並主耶穌基督歸與你們！
 
@@ -821,23 +811,23 @@ copyright: |
 
 > \textsuperscript{28}他們既然故意不認識神，神就任憑他們存邪僻的心，行那些不合理的事；\textsuperscript{29}裝滿了各樣不義、邪惡、貪婪、惡毒，滿心是嫉妒、兇殺、爭競、詭詐、毒恨；\textsuperscript{30}又是讒毀的、背後說人的、怨恨神的、侮慢人的、狂傲的、自誇的、捏造惡事的、違背父母的。\textsuperscript{31}無知的，背約的，無親情的，不憐憫人的。\textsuperscript{32}他們雖知道神判定行這樣事的人是當死的，然而他們不但自己去行，還喜歡別人去行。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God, \textsuperscript{2}which he promised beforehand through his prophets in the holy Scriptures, \textsuperscript{3}concerning his Son, who was descended from David according to the flesh \textsuperscript{4}and was declared to be the Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord, \textsuperscript{5}through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations, \textsuperscript{6}including you who are called to belong to Jesus Christ, \textsuperscript{7}To all those in Rome who are loved by God and called to be saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
+> \textsuperscript{1}Paul, a bond-servant of Christ Jesus, called *as* an apostle, set apart for the gospel of God, \textsuperscript{2}which He promised beforehand through His prophets in the holy Scriptures, \textsuperscript{3}concerning His Son, who was born of a descendant of David according to the flesh, \textsuperscript{4}who was declared the Son of God with power by the resurrection from the dead, according to the Spirit of holiness, Jesus Christ our Lord, \textsuperscript{5}through whom we have received grace and apostleship to bring about *the* obedience of faith among all the Gentiles for His name's sake, \textsuperscript{6}among whom you also are the called of Jesus Christ; \textsuperscript{7}to all who are beloved of God in Rome, called *as* saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
 
-> \textsuperscript{8}First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world. \textsuperscript{9}For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you \textsuperscript{10}always in my prayers, asking that somehow by God's will I may now at last succeed in coming to you. \textsuperscript{11}For I long to see you, that I may impart to you some spiritual gift to strengthen you — \textsuperscript{12}that is, that we may be mutually encouraged by each other's faith, both yours and mine. \textsuperscript{13}I do not want you to be unaware, brothers, that I have often intended to come to you (but thus far have been prevented), in order that I may reap some harvest among you as well as among the rest of the Gentiles. \textsuperscript{14}I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish. \textsuperscript{15}So I am eager to preach the gospel to you also who are in Rome.
+> \textsuperscript{8}First, I thank my God through Jesus Christ for you all, because your faith is being proclaimed throughout the whole world. \textsuperscript{9}For God, whom I serve in my spirit in the *preaching of the* gospel of His Son, is my witness *as to* how unceasingly I make mention of you, \textsuperscript{10}always in my prayers making request, if perhaps now at last by the will of God I may succeed in coming to you. \textsuperscript{11}For I long to see you so that I may impart some spiritual gift to you, that you may be established; \textsuperscript{12}that is, that I may be encouraged together with you *while* among you, each of us by the other's faith, both yours and mine. \textsuperscript{13}I do not want you to be unaware, brethren, that often I have planned to come to you (and have been prevented so far) so that I may obtain some fruit among you also, even as among the rest of the Gentiles. \textsuperscript{14}I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish. \textsuperscript{15}So, for my part, I am eager to preach the gospel to you also who are in Rome.
 
-> \textsuperscript{16}**For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.** \textsuperscript{17}**For in it the righteousness of God is revealed from faith for faith, as it is written, "The righteous shall live by faith."**
+> \textsuperscript{16}**For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.** \textsuperscript{17}**For in it *the* righteousness of God is revealed from faith to faith; as it is written, "BUT THE RIGHTEOUS *man* SHALL LIVE BY FAITH."**
 
-> \textsuperscript{18}For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men, who by their unrighteousness suppress the truth. \textsuperscript{19}For what can be known about God is plain to them, because God has shown it to them. \textsuperscript{20}For his invisible attributes, namely, his eternal power and divine nature, have been clearly perceived, ever since the creation of the world, in the things that have been made. So they are without excuse.
+> \textsuperscript{18}For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, \textsuperscript{19}because that which is known about God is evident within them; for God made it evident to them. \textsuperscript{20}For since the creation of the world His invisible attributes, His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse.
 
-> \textsuperscript{21}For although they knew God, they did not honor him as God or give thanks to him, but they became futile in their thinking, and their foolish hearts were darkened. \textsuperscript{22}Claiming to be wise, they became fools, \textsuperscript{23}and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and creeping things.
+> \textsuperscript{21}For even though they knew God, they did not honor Him as God or give thanks, but they became futile in their speculations, and their foolish heart was darkened. \textsuperscript{22}Professing to be wise, they became fools, \textsuperscript{23}and exchanged the glory of the incorruptible God for an image in the form of corruptible man and of birds and four-footed animals and crawling creatures.
 
-> \textsuperscript{24}Therefore God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves, \textsuperscript{25}because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed forever! Amen.
+> \textsuperscript{24}Therefore God gave them over in the lusts of their hearts to impurity, so that their bodies would be dishonored among them. \textsuperscript{25}For they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.
 
-> \textsuperscript{26}For this reason God gave them up to dishonorable passions. For their women exchanged natural relations for those that are contrary to nature; \textsuperscript{27}and the men likewise gave up natural relations with women and were consumed with passion for one another, men committing shameless acts with men and receiving in themselves the due penalty for their error.
+> \textsuperscript{26}For this reason God gave them over to degrading passions; for their women exchanged the natural function for that which is unnatural, \textsuperscript{27}and in the same way also the men abandoned the natural function of the woman and burned in their desire toward one another, men with men committing indecent acts and receiving in their own persons the due penalty of their error.
 
-> \textsuperscript{28}And since they did not see fit to acknowledge God, God gave them up to a debased mind to do what ought not to be done. \textsuperscript{29}They were filled with all manner of unrighteousness, evil, covetousness, malice. They are full of envy, murder, strife, deceit, maliciousness. They are gossips, \textsuperscript{30}slanderers, haters of God, insolent, haughty, boastful, inventors of evil, disobedient to parents, \textsuperscript{31}foolish, faithless, heartless, ruthless. \textsuperscript{32}Though they know God's righteous decree that those who practice such things deserve to die, they not only do them but give approval to those who practice them.
+> \textsuperscript{28}And just as they did not see fit to acknowledge God any longer, God gave them over to a depraved mind, to do those things which are not proper, \textsuperscript{29}being filled with all unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice; *they are* gossips, \textsuperscript{30}slanderers, haters of God, insolent, arrogant, boastful, inventors of evil, disobedient to parents, \textsuperscript{31}without understanding, untrustworthy, unloving, unmerciful; \textsuperscript{32}and although they know the ordinance of God, that those who practice such things are worthy of death, they not only do the same, but also give hearty approval to those who practice them.
 
 ---
 
@@ -845,26 +835,22 @@ copyright: |
 
 ### 保羅寫這封信的處境
 
-保羅第三次宣教旅程末期，住在哥林多該猶家中（羅16:23），正把外邦教會的捐款送往耶路撒冷（15:25-26），計劃事成之後西行探訪羅馬，再往西班牙宣教（15:24, 28）。羅馬教會不是保羅建立的——很可能是五旬節那天在耶路撒冷聽道歸信、後來回到羅馬的猶太僑民所建立（徒2:10）。保羅寫信給一群他從未謀面卻「切切想見」的信徒（1:11），這決定了全信的語氣：不是牧養既有關係的家書，而是有系統地、完整地把福音講清楚，作為未來合作宣教的神學根基。
+保羅第三次宣教旅程末期，住在哥林多該猶家中（羅16:23），正把外邦教會的捐款送往耶路撒冷（15:25-26），計劃事成之後西行探訪羅馬，再往西班牙宣教（15:24, 28）。羅馬教會不是保羅建立的——很可能是五旬節那天在耶路撒冷聽道歸信、後來回到羅馬的猶太僑民所建立（徒2:10）。保羅寫信給一群他從未謀面卻「切切想見」的信徒（1:11），這決定了全信的語氣：不是牧養既有關係的家書，而是有系統地、完整地把福音講清楚，作為未來合作宣教的真理根基。
 
 ### 1:1-17 是整封信的鑰匙
 
 這段經文的結構本身就是論證：先確立福音的內容（1:1-6）、再確立寫信人與收信人的關係（1:7-15）、最後在1:16-17提出全信的主題句。1:16「不以福音為恥」不是修辭上的謙虛語，而是有具體對象的——在羅馬，十字架處死的耶穌被猶太人視為律法的咒詛（申21:23），被希臘人視為愚拙（林前1:23），保羅卻宣告：這正是「神的大能」。
 
-### 1:18-32 不是離題，而是論證的起點
+### 1:18-32：問題的全部深度
 
-許多讀者疑惑：為甚麼講完「因信稱義」的主題句（1:16-17），保羅立刻轉去講神的忿怒與人的敗壞？答案是：1:18-3:20整段（普世有罪）正是1:16-17（因信稱義）成立的前提。如果人不是全然虧欠、無可推諉地站在神的忿怒之下，因信稱義的福音就是多餘的答案。保羅要讀者先看清問題的全部深度，才能明白福音的大能有多真實。
-
-### 一般啟示與特殊啟示
-
-1:19-20談的是神學上所稱的「一般啟示」（General Revelation）——透過受造的宇宙，神的「永能和神性」向所有人「明明可知」。這一般啟示足以叫人「無可推諉」，卻不足以叫人得救——它顯明神的存在與屬性，卻沒有顯明基督釘十字架、復活的救恩（這是「特殊啟示」，Special Revelation，要靠福音的傳講，10:14-17）。這正是羅馬書10章要處理的問題：一般啟示定人的罪，特殊啟示才能救人的命。
+許多讀者疑惑：為甚麼講完「因信稱義」的主題句（1:16-17），保羅立刻轉去講神的忿怒與人的敗壞？答案是：1:18-3:20整段（普世有罪）正是1:16-17（因信稱義）成立的前提。如果人不是全然虧欠、無可推諉地站在神的忿怒之下，因信稱義的福音就是多餘的答案。1:19-20談的正是所謂的「一般啟示」（General Revelation）——透過受造的宇宙，神的「永能和神性」向所有人「明明可知」。這一般啟示足以叫人「無可推諉」，卻不足以叫人得救——它顯明神的存在與屬性，卻沒有顯明基督釘十字架、復活的救恩（這是「特殊啟示」，Special Revelation，要靠福音的傳講，10:14-17）。一般啟示定人的罪，特殊啟示才能救人的命——保羅要讀者先看清問題的全部深度，才能明白福音的大能有多真實。
 
 ---
 
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | εὐαγγέλιον | euangelion | 福音、好消息 | 羅馬帝國原用於宣告皇帝登基、軍事勝利的「喜訊」；保羅奪回這個詞，宣告的是另一位王的得勝 |
 | δικαιοσύνη θεοῦ | dikaiosynē theou | 神的義 | 1:17全信核心詞組；是「神自己公義的屬性」還是「神所賜、使人稱義的義」，是路德掙扎多年的問題 |
 | πίστις | pistis | 信、信心 | 「本於信，以致於信」(ek pisteōs eis pistin)——信心是起點，也是貫穿始終的原則 |
@@ -874,7 +860,7 @@ copyright: |
 
 ### *dynamis* 不是「炸藥」，是復活的能力
 
-講道中常把1:16的「大能」(*dynamis*) 直接類比英文的dynamite（炸藥）——字源上確有關聯（諾貝爾用希臘文dynamis命名他發明的炸藥），但這個類比若停在「爆炸性、摧毀性的力量」，反而錯過保羅真正的意思。1:4已經先用了同一個字：耶穌「因從死裏復活，以大能（*en dynamei*）顯明是神的兒子」。保羅把1:16的「福音的大能」與1:4的「復活的大能」用同一個詞刻意連起來——福音不是摧毀人的炸藥，而是叫死人復活的能力；它救人，不是炸人。
+講道中常把1:16的「大能」(*dynamis*) 直接類比英文的 dynamite（炸藥）——字源上確有關聯（諾貝爾用希臘文 dynamis 命名他發明的炸藥），但這個類比若停在「爆炸性、摧毀性的力量」，反而錯過保羅真正的意思。1:4已經先用了同一個字：耶穌「因從死裏復活，以大能（*en dynamei*）顯明是神的兒子」。保羅把1:16的「福音的大能」與1:4的「復活的大能」用同一個詞刻意連起來——福音不是摧毀人的炸藥，而是叫死人復活的能力；它救人，不是炸人。
 
 ### *paradidōmi*：審判的交出，也是救恩的交出
 
@@ -882,7 +868,7 @@ copyright: |
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 福音的定義：不是感覺，是宣告 (1:1-4)
 
@@ -890,29 +876,15 @@ copyright: |
 
 ### 2. 全信的主題句：因信稱義 (1:16-17)
 
-1:16-17是全羅馬書的鑰匙句，三個要素缺一不可：
-- **福音是神的大能**——不是道理、不是勸勉，而是能真正救人的力量
-- **神的義藉福音顯明**——不是人努力達到的義，而是從神那裏「顯明出來」、白白賜下的義
-- **「本於信，以致於信」**——信心是唯一的接受方式，從始至終
-
-保羅引用哈巴谷書2:4「義人必因信得生」——原本的處境是先知面對巴比倫將要興起的不公，神應許：忠心信靠祂的人必然存活。保羅把這句先知對當代處境的應許，提升為救恩論的普世宣告：這句話在新約總共出現三次（羅1:17、加3:11、來10:38），是初代教會用來總結「因信稱義」最核心的舊約根據。
+1:16-17是全羅馬書的鑰匙句，三個要素缺一不可：福音是神的大能——不是道理、不是勸勉，而是能真正救人的力量；神的義藉福音顯明——不是人努力達到的義，而是從神那裏「顯明出來」、白白賜下的義；「本於信，以致於信」——信心是唯一的接受方式，從始至終。保羅引用哈巴谷書2:4「義人必因信得生」——原本的處境是先知面對巴比倫將要興起的不公，神應許：忠心信靠祂的人必然存活。保羅把這句先知對當代處境的應許，提升為救恩論的普世宣告：這句話在新約總共出現三次（羅1:17、加3:11、來10:38），是初代教會用來總結「因信稱義」最核心的舊約根據。
 
 ### 3. 神的忿怒與人的無可推諉 (1:18-20)
 
 「神的忿怒……顯明」與「神的義……顯明」用同一個動詞、同一種現在式語態——這不是巧合。保羅要讀者明白：在福音顯明神的義之前，神的忿怒已經顯明在世界的敗壞裏。一般啟示（受造之物）叫「神的永能和神性……明明可知」，結果不是叫人自然而然認識神、敬拜神，而是叫人「無可推諉」——這正是因信稱義為何必要的前提：人不能靠著看得見神存在，就自動與神和好；人需要的是特殊啟示所傳講的福音。
 
-### 4. 三次「任憑」：忿怒的一種樣式常常是放手 (1:24, 26, 28)
+### 4. 三次「任憑」：忿怒的樣式，也是全書論證的起點 (1:24-32)
 
-保羅描寫神忿怒的方式，出人意料地不是立即的雷擊，而是「任憑」(*paredōken*)——神容讓人得著自己選擇的結果。三次「任憑」形成下降的螺旋：
-- 拜偶像 → 神任憑他們的情慾玷辱自己的身體 (1:24-25)
-- 繼續悖逆 → 神任憑他們放縱可羞恥的情慾 (1:26-27)
-- 故意不認識神 → 神任憑他們存邪僻的心 (1:28-31)
-
-罪本身帶著審判——這是保羅神學裏一個常被忽略卻極其嚴肅的洞見：地獄有時候不是神介入去懲罰，而是神容許人一直往他們自己選的方向走到底。
-
-### 5. 惡行清單與全書的論證骨架 (1:29-32)
-
-1:29-31的罪惡清單不是要單獨定外邦人的罪，而是要為2:1的轉折鋪路——「你這論斷人的，無論你是誰，也無可推諉」。1:18-3:20整段（普世有罪）的存在理由，正是要讓每一個讀者，無論猶太人或外邦人，都在3:23「世人都犯了罪，虧缺了神的榮耀」裏找到自己。沒有這個「全然敗壞」的認知，3:21-26「因信稱義」的宣告就只是選項之一，而不是唯一的出路。羅馬書1章定的罪，正是羅馬書3章之後恩典要解決的問題——這就是老弟兄所說「稱義」為何是救恩論的第一步：先看清「靈死了」的事實，才會明白「因信稱義」不是宗教選項，而是唯一的活路。
+保羅描寫神忿怒的方式，出人意料地不是立即的雷擊，而是「任憑」(*paredōken*)——神容讓人得著自己選擇的結果。三次「任憑」形成下降的螺旋：拜偶像 → 神任憑他們的情慾玷辱自己的身體 (1:24-25)；繼續悖逆 → 神任憑他們放縱可羞恥的情慾 (1:26-27)；故意不認識神 → 神任憑他們存邪僻的心 (1:28-31)。罪本身帶著審判——地獄有時候不是神介入去懲罰，而是神容許人一直往他們自己選的方向走到底。1:29-31的罪惡清單也不是要單獨定外邦人的罪，而是要為2:1的轉折鋪路——「你這論斷人的，無論你是誰，也無可推諉」。1:18-3:20整段的存在理由，正是要讓每一個讀者，無論猶太人或外邦人，都在3:23「世人都犯了罪，虧缺了神的榮耀」裏找到自己：沒有這個「全然敗壞」的認知，3:21-26「因信稱義」的宣告就只是選項之一，而不是唯一的出路。
 
 ---
 
@@ -931,7 +903,7 @@ copyright: |
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德晚年（1545年）在《拉丁文全集序言》(*Preface to the Complete Edition of His Latin Writings*) 中，回顧自己年輕時如何被羅馬書1:17「神的義」這句話長期困擾——他當時把「神的義」理解為神用以審判、懲罰罪人的公義，因此越讀這節經文，越覺得無法承受、甚至對神生出怨恨。直到他透過上下文與哈巴谷書2:4重新領悟：這裏的「神的義」不是神向人要求的義，而是神藉著信白白賜給人的義（「本於信，以致於信」）。路德自述，這個領悟臨到的那一刻，他感覺自己像是被引導「重新出生」("altogether born again")，「彷彿走進了敞開的樂園大門」("entered paradise itself through open gates")——這段常被稱為他的「高塔經歷」(*Turmerlebnis*)，是宗教改革神學上最具轉折意義的個人見證之一（以上為對這篇廣為人知、常被學界引用之序言內容的概述性轉述，短語引自其英譯常見譯法，非逐字全文翻譯）。
+路德晚年（1545年）在《拉丁文全集序言》(*Preface to the Complete Edition of His Latin Writings*) 中，回顧自己年輕時如何被羅馬書1:17「神的義」這句話長期困擾——他當時把「神的義」理解為神用以審判、懲罰罪人的公義，因此越讀這節經文，越覺得無法承受、甚至對神生出怨恨。直到他透過上下文與哈巴谷書2:4重新領悟：這裏的「神的義」不是神向人要求的義，而是神藉著信白白賜給人的義（「本於信，以致於信」）。路德自述，這個領悟臨到的那一刻，他感覺自己像是被引導「重新出生」("altogether born again")，「彷彿走進了敞開的樂園大門」("entered paradise itself through open gates")——這段常被稱為他的「高塔經歷」(*Turmerlebnis*)，是宗教改革史上最具轉折意義的個人見證之一（以上為對這篇廣為人知、常被學界引用之序言內容的概述性轉述，短語引自其英譯常見譯法，非逐字全文翻譯）。
 
 路德在更早的1522年《羅馬書序言》(*Preface to the Epistle to the Romans*) 中，稱這卷書是「新約中最重要的部分，是最純正的福音」("the chief part of the New Testament, and is truly the purest Gospel")——這是路德著作中被廣泛引用的一句話。
 
@@ -939,120 +911,69 @@ copyright: |
 
 以下為對加爾文《羅馬書註釋》獻辭與導論一貫立場的綜合性歸納：加爾文認為，一旦讀者真正明白羅馬書的論證脈絡，等於握有一把打開全部聖經的鑰匙——因為羅馬書把福音的邏輯次序（罪、恩典、稱義、成聖）講得最完整、最有系統。這是他對羅馬書整體地位一貫強調的立場，非逐字引句。
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-> 「羅馬書的主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義——這榮耀的真理。」
-> ——已於00-overview.md核實引用
-
-**坎伯·摩根 (G. Campbell Morgan)**：
+### 摩根 (G. Campbell Morgan)
 
 > 「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）。」
 > ——已於00-overview.md核實引用
 
-這句話精準地概括了1章的結構本身：1:1-17是「最樂觀的詩歌」（福音的大能），1:18-32是「最悲觀的文學篇章」（人的敗壞）——保羅刻意把兩者並排在同一章，讓讀者無法只取其一。
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 19:1-4
-
-> 諸天述說神的榮耀，穹蒼傳揚他的手段。
-> 這日到那日發出言語，這夜到那夜傳出知識。
-> 無言無語，也無聲音可聽，
-> 他的量帶通遍天下，他的言語傳到地極。
-
-> The heavens declare the glory of God,
-> and the sky above proclaims his handiwork.
-> Day to day pours out speech,
-> and night to night reveals knowledge.
-> There is no speech, nor are there words,
-> whose voice is not heard.
-> Their voice goes out through all the earth,
-> and their words to the end of the world.
-
-這篇詩正是羅馬書1:19-20「神的永能和神性是明明可知的……藉著所造之物就可以曉得」最古老的見證——大衛遠在保羅之前就已經聽見，受造之物「無言無語」，卻「發出言語」；這一般啟示叫人無可推諉，也叫人俯伏敬拜。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### And Can It Be
-
-這首詩歌由查理·衛斯理 (Charles Wesley) 於1738年寫成，一般認為與他和兄長約翰·衛斯理同年經歷的信仰轉折密切相關，後收錄於1739年出版的《讚美詩與聖詩集》(*Hymns and Sacred Poems*)。
-
-**歌詞與經文對照**：
-
-> 'Tis mystery all: th' Immortal dies:
-> Who can explore His strange design?
-> In vain the firstborn seraph tries
-> To sound the depths of love divine.
-> 'Tis mercy all! Let earth adore,
-> Let angel minds inquire no more.
-
-- 「Amazing love, how can it be, that Thou my God shouldst die for me」——正是1:16-17「福音本是神的大能」最個人化的迴響：福音不是抽象的教義，是「祂為我死了」的具體事實。
-- 「No condemnation now I dread」（末節）——直接呼應羅馬書8:1「如今，那些在基督耶穌裏的就不定罪了」，是1章「神的忿怒」與8章「不再定罪」之間，整封信要走的路。
-
-**歷史連結**：1738年5月24日，約翰·衛斯理在倫敦奧德斯門街 (Aldersgate Street) 的一次聚會中，聽人朗讀路德為羅馬書所寫的序言，據他日記記載："I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation."（「我覺得我的心奇異地溫暖起來。我覺得我確實單單信靠基督，為要得救。」）——羅馬書1:17這句話，就這樣在一千六百多年後的倫敦，再次點燃了一場屬靈復興。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-以下為對摩根一貫解經立場與已知重點的一般性論述，非逐篇逐字引句：
+這句話精準地概括了1章的結構本身：1:1-17是「最樂觀的詩歌」（福音的大能），1:18-32是「最悲觀的文學篇章」（人的敗壞）——保羅刻意把兩者並排在同一章，讓讀者無法只取其一。以下為對摩根一貫解經立場與已知重點的一般性論述，非逐篇逐字引句：
 
 **「不以福音為恥」的具體處境**：摩根指出，保羅寫「我不以福音為恥」時，羅馬正是帝國權力、修辭學、軍事榮耀的中心；一個被釘十字架的猶太拿撒勒人被宣揚為救主，對羅馬的價值觀是徹底的冒犯。「不以為恥」不是空洞的自我肯定，而是保羅明知這福音在世人眼中何等荒謬，仍然選擇公開站在它這一邊。
 
 **福音的邏輯次序**：摩根強調1:16-17的三個介詞結構值得留意——福音「是神的大能」（能力）、「要救」（目的）、「神的義正在這福音上顯明」（內容）。三者環環相扣：因為有能力，所以能救；因為顯明神的義，所以這能力才是救恩而非單純的宗教感動。
 
-**1:18-32的結構是倒退的創造敘事**：摩根觀察到，這段經文幾乎是創世記1章的逆向重演——神造人，按自己的形像（創1:26-27）；人卻把神的榮耀「變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式」（1:23），正好對應創世記1章造物的次序（人、飛鳥、走獸、爬物）反過來被人拿來取代神。墮落不是隨機的敗壞，而是有結構的、朝造物主形像的反方向退行。
+**1:18-32的結構是倒退的創造敘事**：摩根觀察到，這段經文幾乎是創世記1章的逆向重演——神造人，按自己的形像（創1:26-27）；人卻把神的榮耀「變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式」（1:23），而這份清單的次序——人、飛禽、走獸、昆蟲——正是創世記1章造物次序（飛鳥、走獸、爬物，最後才造人）的倒轉：受造的次序被逆行著走回去，拿來取代造物的主。墮落不是隨機的敗壞，而是有結構的、朝造物主形像的反方向退行。
 
-> 出處：對G. Campbell Morgan羅馬書相關講章一貫解經立場的一般性論述綜合整理，非逐篇逐字引句。
+> 出處：對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性論述綜合整理，非逐篇逐字引句。
 
-### 老弟兄查經洞見 (The Elder's Insights)
+### 麥克阿瑟 (John MacArthur)
 
-**誠實說明（出處）**：本書所依據之老弟兄原始查經筆記（`Logos_meditation/church/Thursday.md`，2024-2025年Thursday查經班逐條記錄）經查證，並無任何一則以羅馬書為主題的記載，這與提摩太前書等已有原始筆記可逐條核實的書卷不同。以下「老弟兄查經洞見」與「老弟兄查經 · 深讀」內容，是以老弟兄一貫的查經方法論與神學框架（救恩三階段：稱義／成聖／得榮；「從讀到領受六層次」；提問式帶領；以整本聖經為根基、以認識耶穌基督為中心）忠實應用於羅馬書1章而成，**不是**逐字引用他對本章的歷史原始記錄。
-
-**用「稱義／成聖／得榮」框架讀羅馬書全書**：老弟兄一貫的救恩三階段框架，恰好對應羅馬書的整體結構——1:18-3:20（人人都虧欠）解決的是「靈死了」的問題，答案是**稱義**（3:21-5:21，一次完成，解決罪的刑罰）；6-8章解決的是「己」的問題，答案是**成聖**（持續漸進，解決罪的權勢）；8章末了「兒女的名分」「得贖」則指向**得榮**（末後完成，解決罪的存在）。羅馬書1章不是孤立的一章，而是整個救恩論證的起跑線——不先看清「人人都虧欠」，就不會明白「因信稱義」為何是唯一的答案，而不是眾多宗教選項之一。
-
-**用六層次讀經法讀1:18-32**：
-- **念**：把1:18-32一口氣讀完，不要中途停下來分析——先感受這段文字下墜的速度。
-- **找**：這段裏重複出現的動詞是甚麼？（「任憑」，三次）
-- **問**：神的忿怒，為甚麼常常是「任憑」而不是立刻介入？這對你理解「神為甚麼不管我」有沒有新的亮光？
-- **連**：這段話和創世記1章「照著我們的形像造人」有甚麼相反的關係？（人把神的形像換成受造物的形像）
-- **住**：這段經文如果住在你裏面，會怎樣改變你對「罪的後果」的看法？
-- **行**：今天有沒有一個「我明明知道，卻繼續做」的領域，正處在被「任憑」的邊緣？
+> 「羅馬書的主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義——這榮耀的真理。」
+> ——已於00-overview.md核實引用
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*And Can It Be*（如前「配詩」所引）
+### 詩篇 19:1-4
 
-> Amazing love! How can it be
-> That Thou, my God, shouldst die for me?
+> 諸天述說神的榮耀，穹蒼傳揚他的手段。 \
+> 這日到那日發出言語，這夜到那夜傳出知識。 \
+> 無言無語，也無聲音可聽， \
+> 他的量帶通遍天下，他的言語傳到地極。
 
-**詩篇**：詩篇 19:1
+> The heavens are telling of the glory of God; \
+> And their expanse is declaring the work of His hands. \
+> Day to day pours forth speech, \
+> And night to night reveals knowledge. \
+> There is no speech, nor are there words; \
+> Their voice is not heard. \
+> Their line has gone out through all the earth, \
+> And their utterances to the end of the world.
 
-> 諸天述說神的榮耀，穹蒼傳揚他的手段。
+這篇詩正是羅馬書1:19-20「神的永能和神性是明明可知的……藉著所造之物就可以曉得」最古老的見證——大衛遠在保羅之前就已經聽見，受造之物「無言無語」，卻「發出言語」；這一般啟示叫人無可推諉，也叫人俯伏敬拜。
+
+### And Can It Be
+
+這首詩歌由查理·衛斯理 (Charles Wesley) 於1738年寫成，一般認為與他和兄長約翰·衛斯理同年經歷的信仰轉折密切相關，後收錄於1739年出版的《讚美詩與聖詩集》(*Hymns and Sacred Poems*)。
+
+「Amazing love, how can it be, that Thou my God shouldst die for me」——正是1:16-17「福音本是神的大能」最個人化的迴響：福音不是抽象的教義，是「祂為我死了」的具體事實。「No condemnation now I dread」（末節）——直接呼應羅馬書8:1「如今，那些在基督耶穌裏的就不定罪了」，是1章「神的忿怒」與8章「不再定罪」之間，整封信要走的路。
+
+**歷史連結**：1738年5月24日，約翰·衛斯理在倫敦奧德斯門街 (Aldersgate Street) 的一次聚會中，聽人朗讀路德為羅馬書所寫的序言，據他日記記載："I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation."（「我覺得我的心奇異地溫暖起來。我覺得我確實單單信靠基督，為要得救。」）——羅馬書1:17這句話，就這樣在一千六百多年後的倫敦，再次點燃了一場屬靈復興。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-> 出處說明：本節依老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+> **誠實說明（出處）**：本書所依據之老弟兄原始查經筆記（`Logos_meditation/church/Thursday.md`，2024-2025年 Thursday 查經班逐條記錄）經查證，並無任何一則以羅馬書為主題的記載，這與提摩太前書等已有原始筆記可逐條核實的書卷不同。以下「老弟兄查經」內容，是以老弟兄一貫的查經方法論與領受框架（救恩三階段：稱義／成聖／得榮；「從讀到領受六層次」；提問式帶領；以整本聖經為根基、以認識耶穌基督為中心）忠實應用於羅馬書1章而成，**不是**逐字引用他對本章的歷史原始記錄。
+
+**精義一句話**：福音不是給好人的獎勵，是給無可推諉之人的唯一活路——神的義藉信心顯明，正是因為人人都虧欠，靠自己一步也走不到。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：形像的交換，與交換的逆轉。1:23「將不能朽壞之神的榮耀變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式」——這是創世記1:26「神說，我們要照著我們的形像、按著我們的樣式造人」的反面：人本來領受神的形像，如今卻把它拿去交換受造物的形像。出埃及記32章的金牛犢、以賽亞書44章對偶像匠人的嘲諷，都是同一個悲劇的重演。
+**形像交換線**：1:23「將不能朽壞之神的榮耀變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式」——這是創世記1:26「神說，我們要照著我們的形像、按著我們的樣式造人」的反面：人本來領受神的形像，如今卻把它拿去交換受造物的形像。人在伊甸園把神的形像換成蛇的話，在羅馬書1章把神的榮耀換成飛禽走獸的像——出埃及記32章的金牛犢、以賽亞書44章對偶像匠人的嘲諷，都是同一個悲劇的重演。這條線往後連到歌羅西書1:15：「愛子是那不能看見之神的像」(*eikōn tou theou tou aoratou*)——人所交換掉的形像，正是基督自己成為的那個形像。羅馬書5:12-19把亞當（第一個把神的形像換掉的人）和基督（末後的亞當，完全的神的形像）並排對照：羅馬書1章寫的是「交換的悲劇」，羅馬書5章寫的是「交換的逆轉」——因一人的悖逆，眾人成為罪人；因一人的順從，眾人也成為義了（5:19），直到末後的亞當基督，把交換徹底逆轉。
 
-這條線往後連到哪裏？歌羅西書1:15說：「愛子是那不能看見之神的像」(*eikōn tou theou tou aoratou*)——人所交換掉的形像，正是基督自己成為的那個形像。羅馬書5:12-19把亞當（第一個把神的形像換掉的人）和基督（末後的亞當，完全的神的形像）並排對照。羅馬書1章寫的是「交換的悲劇」，羅馬書5章寫的是「交換的逆轉」——因一人的悖逆，眾人成為罪人；因一人的順從，眾人也成為義了（5:19）。
-
-哈巴谷書2:4「義人必因信得生」也是一條清楚的線：先知在強權壓境時領受這句應許（哈巴谷書），保羅在羅馬書1:17把它變成全信的主題句，加拉太書3:11、希伯來書10:38又各自引用它，來回應「因信稱義」與「持守信心到底」兩個不同的處境。同一句舊約經文，在新約被引用三次，串起整個救恩論的骨架。
+**「因信得生」引用線**：哈巴谷書2:4「義人必因信得生」也是一條清楚的線：先知在強權壓境時領受這句應許（哈巴谷書），保羅在羅馬書1:17把它變成全信的主題句，加拉太書3:11、希伯來書10:38又各自引用它，來回應「因信稱義」與「持守信心到底」兩個不同的處境。同一句舊約經文，在新約被引用三次，串起整個救恩論的骨架。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -1073,17 +994,9 @@ copyright: |
 - **晚上**：今天我用神所賜的一般啟示（理性、良心、受造界），是走向敬拜祂，還是走向自己的偶像？
 - **一個行動**：今天具體地為一件「知道卻拖延順服」的事悔改，不只是感覺抱歉，而是實際的改變。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：福音不是給好人的獎勵，是給無可推諉之人的唯一活路——神的義藉信心顯明，正是因為人人都虧欠，靠自己一步也走不到。
-
-**貫通全經**：人在伊甸園把神的形像換成蛇的話，在羅馬書1章把神的榮耀換成飛禽走獸的像——直到末後的亞當基督，把交換徹底逆轉。
-
-**無法迴避的問題**：「你現在生命裏，有沒有一件『明知道，卻繼續』的事，正走在被神『任憑』的路上？」
-
 > 「你以為神的忿怒是打雷閃電嗎？有時候，神的忿怒只是不再攔阻你，任憑你走你自己選的路，走到底。」
+
+**你看見耶穌了嗎**：整章沒有一節的主詞是十字架上的耶穌，卻句句都在為十字架鋪路——1:3-4已經先介紹了那位「按肉體」真實進入歷史、又「按聖靈」從死裏復活得勝的耶穌基督；1:18-32定的每一項罪，正是羅馬書5-8章要藉著祂解決的問題。祂是那位人人虧欠、卻甘心被「交出」替我們死的末後的亞當——你看見祂了嗎？
 
 ---
 
@@ -1093,11 +1006,9 @@ copyright: |
 
 1. **我以福音為恥嗎？**：在甚麼場合、對甚麼人，我曾經因為福音顯得「不合時宜」而選擇沉默？
 
-2. **一般啟示夠了嗎？**：我是否曾以為「只要相信有神」就等於信主？1:19-20和10:14-17之間的差別，對我意味著甚麼？
+2. **交換清單**：1:23「用神的榮耀換偶像」——我生命中，有沒有一件我暗自拿神的位置去交換的東西？
 
-3. **交換清單**：1:23「用神的榮耀換偶像」——我生命中，有沒有一件我暗自拿神的位置去交換的東西？
-
-4. **任憑的邊緣**：三次「神就任憑他們」——我此刻有沒有一件「明知不對，卻仍然選擇」的事，正走向被任憑的邊緣？
+3. **形像的對照**：1:23「將神的榮耀變為偶像」和創世記1:26-27「照著神的形像造人」有甚麼對照關係？這對理解「罪」的本質有甚麼幫助？
 
 ### 禱告回應
 
@@ -1111,21 +1022,19 @@ copyright: |
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅在1:1-4如何定義「福音」？這個定義和「宗教感受」有甚麼不同？
-
-2. 1:16-17為甚麼被稱為羅馬書的主題句？「本於信，以致於信」是甚麼意思？
-
-3. 「一般啟示」（1:19-20）能叫人「無可推諉」，卻不能叫人得救——這個區分為甚麼重要？
-
-4. 三次「神就任憑他們」（1:24, 26, 28）描繪的是甚麼樣的審判？這和你原本對「神的忿怒」的想像有甚麼不同？
-
-5. 1:23「將神的榮耀變為偶像」和創世記1:26-27「照著神的形像造人」有甚麼對照關係？這對理解「罪」的本質有甚麼幫助？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 形像的交換 | 1:23 | 創1:26-27、出32、賽44、西1:15、羅5:12-19 |
+| 「因信得生」的引用鏈 | 1:17 | 哈2:4、加3:11、來10:38 |
+| 交出 (*paradidōmi*)：審判與救恩 | 1:24, 26, 28 | 太26:15、羅8:32 |
+| 一般啟示與特殊啟示 | 1:19-20 | 詩19:1-4、羅10:14-17 |
+| 律法的咒詛與十架的愚拙 | 1:16 | 申21:23、林前1:23 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經 · 深讀」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -1135,9 +1044,13 @@ copyright: |
 
 羅馬書 2:1-29
 
----
+**經文核對**：[ai-eden.com/bible/romans/2](https://www.ai-eden.com/bible/romans/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：無可推諉 Anapologētos** \
+> **全書坐標**：卷一「定罪」的中段。1章把外邦人釘在「無可推諉」的判詞下（1:20），2章用同一個字（2:1）把論斷者與擁有律法的猶太人一併帶到同一座法庭前——為3:9-20「都在罪惡之下」的總起訴書鋪路。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章只提到耶穌一次——「神藉耶穌基督審判人隱祕事的日子」（2:16）——卻是全章的樞紐。保羅拆毀的兩座人造避難所（自義的論斷者、擁有律法卻不行律法的猶太人），最終都指向同一位審判者。祂不只是審判的執行者，也是2:13「行律法的稱義」這句話唯一真正的滿足者：律法要求的是「行」，而歷史上只有一位真正「行」全了律法——正是那位將要按公義審判活人死人的耶穌基督（提後4:1）。2:29「割禮也是心裏的，在乎靈」所預告的，不是一個抽象原則，而是祂藉聖靈要在信祂之人心裏動的工（羅8:3-4；多3:5）。這一章把每一條人的路都堵死，是為了讓讀者在第三章看見：唯有基督，是律法的終結，也是律法的成全（羅10:4）。
 
@@ -1145,49 +1058,49 @@ copyright: |
 
 ## 配詩 (Opening Hymn)
 
-> **Rock of Ages**
+> **Rock of Ages** \
 > *Augustus Toplady, 1775年首次發表*
 >
-> Rock of Ages, cleft for me,
-> Let me hide myself in Thee;
-> Let the water and the blood,
-> From Thy wounded side which flowed,
-> Be of sin the double cure,
+> Rock of Ages, cleft for me, \
+> Let me hide myself in Thee; \
+> Let the water and the blood, \
+> From Thy wounded side which flowed, \
+> Be of sin the double cure, \
 > Save from wrath and make me pure.
 >
-> 永久磐石為我開，讓我藏身在你懷；
-> 讓你所流血與水，兩面醫治我的罪：
+> 永久磐石為我開，讓我藏身在你懷； \
+> 讓你所流血與水，兩面醫治我的罪： \
 > 使我得救能脫離罪的刑罰與能力。
 
 ---
 
 ## 經文 (Scripture)
 
-*版本說明：本章寫作時，和合本修訂版 (RCUV) 原文未能穩定取得逐節核實之全文，故改用經 cnbible.com 電子文本逐節核對之現代標點和合本 (CUV)，並在此如實標明版本；英文採用 ESV，經 biblegateway.com 核實。*
-
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > **\textsuperscript{1}你這論斷人的，無論你是誰，也無可推諉。**你在甚麼事上論斷人，就在甚麼事上定自己的罪，因你這論斷人的，自己所行卻和別人一樣。\textsuperscript{2}我們知道這樣行的人，神必照真理審判他。\textsuperscript{3}你這人哪，你論斷行這樣事的人，自己所行的卻和別人一樣，你以為能逃脫神的審判嗎？\textsuperscript{4}還是你藐視他豐富的恩慈、寬容、忍耐，不曉得他的恩慈是領你悔改呢？\textsuperscript{5}你竟任著你剛硬不悔改的心，為自己積蓄憤怒，以致神震怒，顯他公義審判的日子來到。
 
-> \textsuperscript{6}他必照各人的行為報應各人。\textsuperscript{7}凡恆心行善，尋求榮耀、尊貴和不能朽壞之福的，就以永生報應他們；\textsuperscript{8}唯有結黨、不順從真理反順從不義的，就以憤怒、惱恨報應他們。\textsuperscript{9}將患難、困苦加給一切作惡的人，先是猶太人，後是希臘人；\textsuperscript{10}卻將榮耀、尊貴、平安加給一切行善的人，先是猶太人，後是希臘人。**\textsuperscript{11}因為神不偏待人。**
+> \textsuperscript{6}他必照各人的行為報應各人。\textsuperscript{7}凡恆心行善，尋求榮耀、尊貴和不能朽壞之福的，就以永生報應他們；\textsuperscript{8}惟有結黨、不順從真理反順從不義的，就以憤怒、惱恨報應他們。\textsuperscript{9}將患難、困苦加給一切作惡的人，先是猶太人，後是希臘人；\textsuperscript{10}卻將榮耀、尊貴、平安加給一切行善的人，先是猶太人，後是希臘人。**\textsuperscript{11}因為神不偏待人。**
 
 > \textsuperscript{12}凡沒有律法犯了罪的，也必不按律法滅亡；凡在律法以下犯了罪的，也必按律法受審判。**\textsuperscript{13}（原來在神面前，不是聽律法的為義，乃是行律法的稱義。**\textsuperscript{14}沒有律法的外邦人，若順著本性行律法上的事，他們雖然沒有律法，自己就是自己的律法。\textsuperscript{15}這是顯出律法的功用刻在他們心裏，他們是非之心同作見證，並且他們的思念互相較量，或以為是，或以為非。）\textsuperscript{16}就在神藉耶穌基督審判人隱祕事的日子，照著我的福音所言。
 
 > \textsuperscript{17}你稱為猶太人，又倚靠律法，且指著神誇口；\textsuperscript{18}既從律法中受了教訓，就曉得神的旨意，也能分別是非；\textsuperscript{19}又深信自己是給瞎子領路的，是黑暗中人的光，\textsuperscript{20}是蠢笨人的師傅，是小孩子的先生，在律法上有知識和真理的模範。\textsuperscript{21}你既是教導別人，還不教導自己嗎？你講說人不可偷竊，自己還偷竊嗎？\textsuperscript{22}你說人不可姦淫，自己還姦淫嗎？你厭惡偶像，自己還偷竊廟中之物嗎？\textsuperscript{23}你指著律法誇口，自己倒犯律法玷辱神嗎？\textsuperscript{24}神的名在外邦人中，因你們受了褻瀆，正如經上所記的。
 
-> \textsuperscript{25}你若是行律法的，割禮固然於你有益；若是犯律法的，你的割禮就算不得割禮。\textsuperscript{26}所以那未受割禮的，若遵守律法的條例，他雖然未受割禮，豈不算是有割禮嗎？\textsuperscript{27}而且那本來未受割禮的，若能全守律法，豈不是要審判你這有儀文和割禮竟犯律法的人嗎？\textsuperscript{28}因為外面做猶太人的，不是真猶太人；外面肉身的割禮，也不是真割禮。**\textsuperscript{29}唯有裏面做的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。**這人的稱讚不是從人來的，乃是從神來的。
+> \textsuperscript{25}你若是行律法的，割禮固然於你有益；若是犯律法的，你的割禮就算不得割禮。\textsuperscript{26}所以那未受割禮的，若遵守律法的條例，他雖然未受割禮，豈不算是有割禮嗎？\textsuperscript{27}而且那本來未受割禮的，若能全守律法，豈不是要審判你這有儀文和割禮竟犯律法的人嗎？\textsuperscript{28}因為外面作猶太人的，不是真猶太人；外面肉身的割禮，也不是真割禮。**\textsuperscript{29}惟有裏面作的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。**這人的稱讚不是從人來的，乃是從神來的。
 
-### English — ESV
+### English — NASB
 
-> **\textsuperscript{1}Therefore you have no excuse, O man, every one of you who judges.** For in passing judgment on another you condemn yourself, because you, the judge, practice the very same things. \textsuperscript{2}We know that the judgment of God rightly falls on those who practice such things. \textsuperscript{3}Do you suppose, O man—you who judge those who practice such things and yet do them yourself—that you will escape the judgment of God? \textsuperscript{4}Or do you presume on the riches of his kindness and forbearance and patience, not knowing that God's kindness is meant to lead you to repentance? \textsuperscript{5}But because of your hard and impenitent heart you are storing up wrath for yourself on the day of wrath when God's righteous judgment will be revealed.
+> **\textsuperscript{1}Therefore you have no excuse, everyone of you who passes judgment, for in that which you judge another, you condemn yourself; for you who judge practice the same things.** \textsuperscript{2}And we know that the judgment of God rightly falls upon those who practice such things. \textsuperscript{3}But do you suppose this, O man, when you pass judgment on those who practice such things and do the same *yourself,* that you will escape the judgment of God? \textsuperscript{4}Or do you think lightly of the riches of His kindness and tolerance and patience, not knowing that the kindness of God leads you to repentance? \textsuperscript{5}But because of your stubbornness and unrepentant heart you are storing up wrath for yourself in the day of wrath and revelation of the righteous judgment of God,
 
-> \textsuperscript{6}He will render to each one according to his works: \textsuperscript{7}to those who by patience in well-doing seek for glory and honor and immortality, he will give eternal life; \textsuperscript{8}but for those who are self-seeking and do not obey the truth, but obey unrighteousness, there will be wrath and fury. \textsuperscript{9}There will be tribulation and distress for every human being who does evil, the Jew first and also the Greek, \textsuperscript{10}but glory and honor and peace for everyone who does good, the Jew first and also the Greek. **\textsuperscript{11}For God shows no partiality.**
+> \textsuperscript{6}who WILL RENDER TO EACH PERSON ACCORDING TO HIS DEEDS: \textsuperscript{7}to those who by perseverance in doing good seek for glory and honor and immortality, eternal life; \textsuperscript{8}but to those who are selfishly ambitious and do not obey the truth, but obey unrighteousness, wrath and indignation. \textsuperscript{9}*There will be* tribulation and distress for every soul of man who does evil, of the Jew first and also of the Greek, \textsuperscript{10}but glory and honor and peace to everyone who does good, to the Jew first and also to the Greek. **\textsuperscript{11}For there is no partiality with God.**
 
-> \textsuperscript{12}For all who have sinned without the law will also perish without the law, and all who have sinned under the law will be judged by the law. **\textsuperscript{13}For it is not the hearers of the law who are righteous before God, but the doers of the law who will be justified.** \textsuperscript{14}For when Gentiles, who do not have the law, by nature do what the law requires, they are a law to themselves, even though they do not have the law. \textsuperscript{15}They show that the work of the law is written on their hearts, while their conscience also bears witness, and their conflicting thoughts accuse or even excuse them \textsuperscript{16}on that day when, according to my gospel, God judges the secrets of men by Christ Jesus.
+> \textsuperscript{12}For all who have sinned without the Law will also perish without the Law, and all who have sinned under the Law will be judged by the Law; **\textsuperscript{13}for *it is* not the hearers of the Law *who* are just before God, but the doers of the Law will be justified.** \textsuperscript{14}For when Gentiles who do not have the Law do instinctively the things of the Law, these, not having the Law, are a law to themselves, \textsuperscript{15}in that they show the work of the Law written in their hearts, their conscience bearing witness and their thoughts alternately accusing or else defending them, \textsuperscript{16}on the day when, according to my gospel, God will judge the secrets of men through Christ Jesus.
 
-> \textsuperscript{17}But if you call yourself a Jew and rely on the law and boast in God \textsuperscript{18}and know his will and approve what is excellent, because you are instructed from the law; \textsuperscript{19}and if you are sure that you yourself are a guide to the blind, a light to those who are in darkness, \textsuperscript{20}an instructor of the foolish, a teacher of children, having in the law the embodiment of knowledge and truth— \textsuperscript{21}you then who teach others, do you not teach yourself? While you preach against stealing, do you steal? \textsuperscript{22}You who say that one must not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? \textsuperscript{23}You who boast in the law dishonor God by breaking the law. \textsuperscript{24}For, as it is written, "The name of God is blasphemed among the Gentiles because of you."
+> \textsuperscript{17}But if you bear the name "Jew" and rely upon the Law and boast in God, \textsuperscript{18}and know *His* will and approve the things that are essential, being instructed out of the Law, \textsuperscript{19}and are confident that you yourself are a guide to the blind, a light to those who are in darkness, \textsuperscript{20}a corrector of the foolish, a teacher of the immature, having in the Law the embodiment of knowledge and of the truth, \textsuperscript{21}you, therefore, who teach another, do you not teach yourself? You who preach that one shall not steal, do you steal? \textsuperscript{22}You who say that one should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? \textsuperscript{23}You who boast in the Law, through your breaking the Law, do you dishonor God? \textsuperscript{24}For "THE NAME OF GOD IS BLASPHEMED AMONG THE GENTILES BECAUSE OF YOU," just as it is written.
 
-> \textsuperscript{25}For circumcision indeed is of value if you obey the law, but if you break the law, your circumcision becomes uncircumcision. \textsuperscript{26}So, if a man who is uncircumcised keeps the precepts of the law, will not his uncircumcision be regarded as circumcision? \textsuperscript{27}Then he who is physically uncircumcised but keeps the law will condemn you who have the written code and circumcision but break the law. \textsuperscript{28}For no one is a Jew who is merely one outwardly, nor is circumcision outward and physical. **\textsuperscript{29}But a Jew is one inwardly, and circumcision is a matter of the heart, by the Spirit, not by the letter.** His praise is not from man but from God.
+> \textsuperscript{25}For indeed circumcision is of value if you practice the Law; but if you are a transgressor of the Law, your circumcision has become uncircumcision. \textsuperscript{26}So if the uncircumcised man keeps the requirements of the Law, will not his uncircumcision be regarded as circumcision? \textsuperscript{27}And he who is physically uncircumcised, if he keeps the Law, will he not judge you who though having the letter *of the Law* and circumcision are a transgressor of the Law? \textsuperscript{28}For he is not a Jew who is one outwardly, nor is circumcision that which is outward in the flesh. **\textsuperscript{29}But he is a Jew who is one inwardly; and circumcision is that which is of the heart, by the Spirit, not by the letter;** and his praise is not from men, but from God.
 
 ---
 
@@ -1214,7 +1127,7 @@ copyright: |
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | ἀναπολόγητος | anapologētos | 無可推諉、無法申辯 | 2:1 呼應 1:20，把外邦人與論斷者釘在同一判詞下 |
 | κρίμα / κρίσις | krima / krisis | 判決／審判（過程與結果） | 2:2-3 「神必照真理審判」，2:5「審判的日子」 |
 | χρηστότης | chrēstotēs | 恩慈 | 2:4「豐富的恩慈」，與「忿怒」（*orgē*）對比 |
@@ -1227,37 +1140,29 @@ copyright: |
 
 ### *grammati* / *pneumati* 的重量
 
-「儀文」（*gramma*，字面「字母、文字」）與「靈」（*pneuma*）在2:29只是一句話的收尾，卻是保羅日後展開的一條重要神學軸線：羅7:6「按著心靈的新樣，不按著儀文的舊樣」；林後3:6「那字句是叫人死，精意是叫人活」（*to gramma apoktennei, to de pneuma zōopoiei*）。2:29 是這條軸線第一次出現——真割禮不是刀割在肉身，而是聖靈在心裏的工作，這件事律法本身做不到，只有聖靈能做到。
+「儀文」（*gramma*，字面「字母、文字」）與「靈」（*pneuma*）在2:29只是一句話的收尾，卻是保羅日後展開的一條重要真理軸線：羅7:6「按著心靈的新樣，不按著儀文的舊樣」；林後3:6「那字句是叫人死，精意是叫人活」（*to gramma apoktennei, to de pneuma zōopoiei*）。2:29 是這條軸線第一次出現——真割禮不是刀割在肉身，而是聖靈在心裏的工作，這件事律法本身做不到，只有聖靈能做到。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 這一章在全書的位置，是要把每一條靠自己脫罪的路都堵死，好讓3:21「但如今」的恩典顯得是唯一的出路。它不是道德教訓，而是**救恩論的拆牆工程**。
 
-### 1. 審判的公義與普世性 (2:1-11)
+### 1. 審判的公義與普世性，恩慈是通向悔改的門 (2:1-11)
 
-神「照真理審判」（2:2）、「照各人的行為報應各人」（2:6）、「不偏待人」（2:11）——先是猶太人、後是希利尼人，同一個標準。這排除了「我比別人道德」的自我豁免：論斷別人的罪，恰恰證明自己知道那是罪，卻仍然去做，這使論斷者比被論斷的人更無可推諉。
+神「照真理審判」（2:2）、「照各人的行為報應各人」（2:6）、「不偏待人」（2:11）——先是猶太人、後是希利尼人，同一個標準。這排除了「我比別人道德」的自我豁免：論斷別人的罪，恰恰證明自己知道那是罪，卻仍然去做，這使論斷者比被論斷的人更無可推諉。「神的恩慈是領你悔改」（2:4）——這節經文界定了神忍耐的目的：神遲延審判不是因為祂不在意，而是留出空間讓人悔改（參彼後3:9）。把神的恩慈解讀成「祂不會真的審判我」，正是2:5「剛硬不悔改的心」的寫照。
 
-### 2. 恩慈是通向悔改的門，不是縱容的憑證 (2:4)
-
-「神的恩慈是領你悔改」——這節經文界定了神忍耐的目的。神遲延審判不是因為祂不在意，而是留出空間讓人悔改（參彼後3:9）。把神的恩慈解讀成「祂不會真的審判我」，正是2:5「剛硬不悔改的心」的寫照。
-
-### 3. 良心與心版的律法：普遍啟示定罪，卻不能救人 (2:12-16)
+### 2. 良心與心版的律法：普遍啟示定罪，卻不能救人 (2:12-16)
 
 沒有摩西律法的外邦人，「本性」裏仍有律法的功用刻在心上，良心作見證、思念彼此較量。這說明神的道德標準不是猶太人的專利，而是刻在每個人裏面的普遍見證。**但這條真理是雙刃的**：它證明外邦人「無可推諉」，卻絲毫不能提供救恩——良心能定罪，不能贖罪；它是被告席上的證人，不是辯護律師。
 
-### 4. 擁有律法而不遵行，是猶太人特有的試探 (2:17-24)
+### 3. 擁有律法而不遵行，是猶太人特有的試探 (2:17-24)
 
-2:17-20 一連串「你稱為……你倚靠……你誇口……你深信自己是……」，勾勒出一個因擁有律法、身份、知識而自信滿滿的形象。2:21-23 用三個問句戳破：你教導人不可偷竊，自己偷竊嗎？這不是說猶太人比外邦人更壞，而是指出**擁有真理的知識本身，從不能使人遵行真理**——這正是全羅馬書要處理的核心困境（參7:14-25）。2:24 引用以賽亞書52:5：「神的名在外邦人中，因你們受了褻瀆」——蒙揀選的群體若行為與所領受的啟示不符，不但不能見證神，反倒使神的名蒙羞。
+2:17-20 一連串「你稱為……你倚靠……你誇口……你深信自己是……」，勾勒出一個因擁有律法、身份、知識而自信滿滿的形象。2:21-23 用一連串問句戳破：你教導人不可偷竊，自己偷竊嗎？這不是說猶太人比外邦人更壞，而是指出**擁有真理的知識本身，從不能使人遵行真理**——這正是全羅馬書要處理的核心困境（參7:14-25）。2:24 引用以賽亞書52:5：「神的名在外邦人中，因你們受了褻瀆」——蒙揀選的群體若行為與所領受的啟示不符，不但不能見證神，反倒使神的名蒙羞。
 
-### 5. 真割禮是心裏的，靠聖靈，不靠儀文 (2:25-29)
+### 4. 真割禮是心裏的，靠聖靈，不靠儀文——為3章鋪路 (2:25-29)
 
-割禮若不伴隨遵行律法，「就算不得割禮」；反過來，未受割禮的人若遵行律法的實質，「豈不算是有割禮嗎」。2:28-29 把這推到極致：「外面做猶太人的，不是真猶太人……惟有裏面做的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。」這句話預告了申命記30:6「耶和華你的神必將你心裏……的汙穢除掉」與以西結書36:26-27「賜給你們肉心……將我的靈放在你們裏面」的應許——舊約早已宣告，真正的割禮從來不是刀能完成的手術，而是神自己要做的心臟移植。
-
-### 6. 為3章鋪路：定罪的完成
-
-到2章末，兩種人——不假裝有律法的外邦論斷者，和誇口有律法的猶太人——都已站在同一個審判台前，無一人能靠自己的「行」通過。3:9「並沒有義人，連一個也沒有」不是新的指控，而是1-2章論證的自然結論。誠如麥克阿瑟指出：「羅馬書的主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義」——而2章的功用，正是要讓讀者先徹底承認自己「有罪、被定罪」，恩典才能被當作恩典來領受，而不是被誤認成理所當然的獎賞。
+割禮若不伴隨遵行律法，「就算不得割禮」；反過來，未受割禮的人若遵行律法的實質，「豈不算是有割禮嗎」。2:28-29 把這推到極致：「外面作猶太人的，不是真猶太人……惟有裏面作的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。」這句話所說的，正是申命記30:6「耶和華你的神必將你心裏……的污穢除掉」與以西結書36:26-27「賜給你們肉心……將我的靈放在你們裏面」的應許——舊約早已宣告，真正的割禮從來不是刀能完成的手術，而是神自己要做的心臟移植。到2章末，兩種人——不假裝有律法的外邦論斷者，和誇口有律法的猶太人——都已站在同一個審判台前，無一人能靠自己的「行」通過。3:9「並沒有義人，連一個也沒有」不是新的指控，而是1-2章論證的自然結論——2章的功用，正是要讓讀者先徹底承認自己「有罪、被定罪」，恩典才能被當作恩典來領受，而不是被誤認成理所當然的獎賞。
 
 ---
 
@@ -1294,64 +1199,7 @@ copyright: |
 
 > 出處：對加爾文《羅馬書註釋》處理2:6與因信稱義關係之一貫立場的一般性歸納，非逐字引句。
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-麥克阿瑟對羅馬書2章的一貫解經立場可歸納為：這一章的猶太讀者代表著歷世歷代最危險的一種屬靈狀態——不是不認識神的道德標準，而是把「認識」本身誤當成「達到」，把擁有聖經的知識誤當成擁有聖經所要求的義。這正是他對全羅馬書「神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義」這一主題句（見〈羅馬書概覽〉）在2章的具體應用。
-
-> 出處：對麥克阿瑟一貫解經立場之一般性歸納，未附具體 gty.org 講題連結或講道日期。
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 14:1-3
-
-> 愚頑人心裏說：**沒有神**。
-> 他們都是邪惡，行了可憎惡的事；
-> 沒有一個人行善。
-> 耶和華從天上垂看世人，
-> 要看有明白的沒有，有尋求神的沒有。
-> **他們都偏離正路，一同變為汙穢；**
-> **並沒有行善的，連一個也沒有。**
-
-> The fool says in his heart, **"There is no God."**
-> They are corrupt, they do abominable deeds;
-> there is none who does good.
-> The LORD looks down from heaven on the children of man,
-> to see if there are any who understand, who seek after God.
-> **They have all turned aside; together they have become corrupt;**
-> **there is none who does good, not even one.**
-
-這篇詩篇，正是保羅在羅馬書3:10-12直接引用來總結1-2章論證的經文——羅馬書2章拆毀的每一座人造避難所，最終都要落在這句判詞之下：「並沒有行善的，連一個也沒有。」
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Rock of Ages（萬古磐石）
-
-Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel Magazine*)。第二節正是羅馬書2章論證的詩歌版本：
-
-> Not the labor of my hands
-> Can fulfill Thy law's demands;
-> Could my zeal no respite know,
-> Could my tears forever flow,
-> All for sin could not atone;
-> Thou must save, and Thou alone.
->
-> 縱我雙手不罷休，不能滿足你要求；
-> 縱我眼淚永遠流，縱我熱心能持久，
-> 這些不足贖愆尤；必須你來施拯救。
-
-「縱我雙手不罷休，不能滿足你要求」——這正是羅馬書2:13「行律法的稱義」對每一位讀者的宣判：律法的要求是完全的行為，而人的行為，無論多麼虔誠、多麼持久的熱心，都達不到那個標準。Toplady 沒有停在絕望裏，第三節立刻轉向：「空空兩手無代價，單單投靠你十架」——這正是羅馬書從2章的定罪走向3章「因信稱義」的路徑。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **論證的修辭策略**：摩根對羅馬書整體論證結構的分析，一貫強調保羅在1:18-3:20 採取的是法庭式的層層逼近：先呈給讀者一份令人義憤的罪惡清單（1:18-32），再讓讀者自己踏入審判台（2:1起），最後把猶太人——最不可能被指控的一群——也帶上被告席（2:17起）。摩根認為，這種寫法的果效不在於資訊的傳遞，而在於**讓讀者自己宣判自己**：2:1的論斷者，不是被保羅定罪的，是被自己的論斷定罪的。
 
@@ -1361,39 +1209,66 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 > 出處：對 G. Campbell Morgan 羅馬書結構分析與一貫解經立場之一般性歸納，非逐字引句、未附具體篇章頁碼。
 
-### 老弟兄查經洞見 (The Elder's Insights)
+### 麥克阿瑟 (John MacArthur)
 
-**三個律，在2:14-15 交會**：老弟兄在查經中一貫教導「三個律：自然律、道德律、屬靈的律」的架構（此為其查經筆記中真實記錄之教導框架，見2024/5/16、2025/3/6筆記）。用這個框架讀2:14-15格外清楚：「本性行律法上的事」是**自然律**在起作用——受造界殘存的道德直覺；「律法的功用刻在他們心裏……良心作見證」是**道德律**——是非的標準，人人心裏都有；而2:29「真割禮也是心裏的，在乎靈」，是**屬靈的律**——不是人靠自然律或道德律能達到的，是聖靈親自的工作。老弟兄這個框架原本用於教牧書信的查經，這裏是將同一個真實的教導框架，忠實應用在羅馬書2章的文本上。
+麥克阿瑟對羅馬書2章的一貫解經立場可歸納為：這一章的猶太讀者代表著歷世歷代最危險的一種屬靈狀態——不是不認識神的道德標準，而是把「認識」本身誤當成「達到」，把擁有聖經的知識誤當成擁有聖經所要求的義。這正是他對全羅馬書「神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義」這一主題句（見〈羅馬書概覽〉）在2章的具體應用。
 
-**「字句叫人死，精意叫人活」直接應驗在2:29**：老弟兄最常引用的一句話——「字句叫人死，精意（聖靈）叫人活」（林後3:6）——在羅馬書2:29 第一次埋下種子：「真割禮也是心裏的，在乎靈，不在乎儀文」。老弟兄一貫用這句話提醒查經者：知道律法的字句（儀文）不能使人活；律法若沒有聖靈同工，只會定人的罪。這句話後來在羅馬書7:6 再次出現（「按著心靈的新樣，不按著儀文的舊樣」），老弟兄認為這正是羅馬書從第2章到第7章一條隱藏的軸線。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。「三個律」框架與「字句叫人死，精意叫人活」為其查經筆記中真實記載之教導內容（原用於教牧書信查經），在此忠實應用於羅馬書2章文本，非杜撰之羅馬書專屬筆記。
+> 出處：對麥克阿瑟一貫解經立場之一般性歸納，未附具體 gty.org 講題連結或講道日期。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Rock of Ages*（萬古磐石，如前「聖詩默想」所引第二節）
+### 詩篇 14:1-3
 
-> Not the labor of my hands
-> Can fulfill Thy law's demands;
+> 愚頑人心裏說：**沒有神**。 \
+> 他們都是邪惡，行了可憎惡的事； \
+> 沒有一個人行善。 \
+> 耶和華從天上垂看世人， \
+> 要看有明白的沒有，有尋求神的沒有。 \
+> **他們都偏離正路，一同變為污穢；** \
+> **並沒有行善的，連一個也沒有。**
+
+> The fool has said in his heart, **"There is no God."** \
+> They are corrupt, they have committed abominable deeds; \
+> There is no one who does good. \
+> The LORD has looked down from heaven upon the sons of men \
+> To see if there are any who understand, who seek after God. \
+> **They have all turned aside, together they have become corrupt;** \
+> **There is no one who does good, not even one.**
+
+這篇詩篇，正是保羅在羅馬書3:10-12直接引用來總結1-2章論證的經文——羅馬書2章拆毀的每一座人造避難所，最終都要落在這句判詞之下：「並沒有行善的，連一個也沒有。」
+
+### Rock of Ages（萬古磐石）
+
+Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel Magazine*)。第二節正是羅馬書2章論證的詩歌版本：
+
+> Not the labor of my hands \
+> Can fulfill Thy law's demands; \
+> Could my zeal no respite know, \
+> Could my tears forever flow, \
+> All for sin could not atone; \
 > Thou must save, and Thou alone.
+>
+> 縱我雙手不罷休，不能滿足你要求； \
+> 縱我眼淚永遠流，縱我熱心能持久， \
+> 這些不足贖愆尤；必須你來施拯救。
 
-**詩篇**：詩篇 14:3
-
-> 他們都偏離正路，一同變為汙穢；並沒有行善的，連一個也沒有。
+「縱我雙手不罷休，不能滿足你要求」——這正是羅馬書2:13「行律法的稱義」對每一位讀者的宣判：律法的要求是完全的行為，而人的行為，無論多麼虔誠、多麼持久的熱心，都達不到那個標準。Toplady 沒有停在絕望裏，第三節立刻轉向：「空空兩手無代價，單單投靠你十架」——這正是羅馬書從2章的定罪走向3章「因信稱義」的路徑。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。「三個律」框架與「字句叫人死，精意叫人活」為其查經筆記中真實記載之教導內容（原用於教牧書信查經，見2024/5/16、2025/3/6筆記），在此忠實應用於羅馬書2章文本，非杜撰之羅馬書專屬筆記。
+
+**精義一句話**：論斷別人和誇口律法，是兩種不同的自義，卻是同一條死路——神要的不是更嚴格的標準，是一顆被祂親手更換的心。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一顆心，從應許到成就。申命記30:6：「耶和華你的神必將你心裏……的汙穢除掉，好叫你盡心、盡性愛耶和華你的神。」這是律法之約末了最深的一句應許——律法本身要求割禮，卻連摩西都知道，真正需要被「割」的不是身體，是心；而那把刀，人自己拿不動。
+**新心新靈線**：申命記30:6：「耶和華你的神必將你心裏……的污穢除掉，好叫你盡心、盡性愛耶和華你的神。」這是律法之約末了最深的一句應許——律法本身要求割禮，卻連摩西都知道，真正需要被「割」的不是身體，是心；而那把刀，人自己拿不動。以西結書36:26-27 把這應許說得更具體：「我也要賜給你們一個新心，將新靈放在你們裏面……我必將我的靈放在你們裏面，使你們順從我的律例。」新心與新靈——這是舊約盡頭指向的，正是羅馬書2:29所說「真割禮也是心裏的，在乎靈」。這條線繼續往前走，到羅馬書7:6「按著心靈的新樣，不按著儀文的舊樣」，再到哥林多後書3:6「字句是叫人死，精意是叫人活」——一條從摩西、經以西結、到保羅的完整弧線，主題只有一個：律法能寫下標準，卻不能賜下心；能寫下命令，卻不能賜下能力。唯有神自己動手，換一顆心，放進祂的靈，才能使人真正遵行。
 
-以西結書36:26-27 把這應許說得更具體：「我也要賜給你們一個新心，將新靈放在你們裏面……我必將我的靈放在你們裏面，使你們順從我的律例。」新心與新靈——這是舊約盡頭指向的，正是羅馬書2:29所說「真割禮也是心裏的，在乎靈」。保羅寫這節經文的時候，沒有發明新教義，他是在宣告：申命記30章、以西結書36章所應許的那件事，如今在信靠基督、領受聖靈的人身上正在成就。
-
-這條線繼續往前走，到羅馬書7:6「按著心靈的新樣，不按著儀文的舊樣」，再到哥林多後書3:6「字句是叫人死，精意是叫人活」——一條從摩西、經以西結、到保羅的完整弧線，主題只有一個：**律法能寫下標準，卻不能賜下心；能寫下命令，卻不能賜下能力。唯有神自己動手，換一顆心，放進祂的靈，才能使人真正遵行。**
+**三律遞進線**：老弟兄查經常用「自然律、道德律、屬靈的律」三層架構讀這一章：2:14「本性行律法上的事」是**自然律**在起作用——受造界殘存的道德直覺；2:15「律法的功用刻在他們心裏……良心作見證」是**道德律**——是非的標準，人人心裏都有；而2:29「真割禮也是心裏的，在乎靈」，是**屬靈的律**——不是人靠自然律或道德律能達到的，是聖靈親自的工作。三層遞進，最後仍舊落在同一個結論：唯有聖靈能做到自然律與道德律都做不到的事。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -1414,17 +1289,9 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 - **晚上**：今天我是不是靠著「我還不錯」的感覺過日子？還是誠實承認，我需要的不是修補，是換心？
 - **一個行動**：今天在一件我平常論斷別人的事上，先為自己認罪禱告，再開口。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：論斷別人和誇口律法，是兩種不同的自義，卻是同一條死路——神要的不是更嚴格的標準，是一顆被祂親手更換的心。
-
-**貫通全經**：申命記30:6神應許要割去心裏的汙穢，以西結書36:26-27應許賜下新心新靈——羅馬書2:29宣告，這應許正藉著聖靈成就在信靠基督的人身上。
-
-**無法迴避的問題**：「你有沒有一件事，是你私下譴責別人做的，自己卻正在做？」
-
 > 「字句叫人死，精意叫人活。你以為拿到了律法、懂了聖經，就已經合格了嗎？聖經說，不行——你需要的，是換一顆心。」
+
+**你看見耶穌了嗎**：全章只提到耶穌一次（2:16），卻是壓在每一句審判之言背後的那位——祂是2:13「行律法的稱義」這句話唯一真正的滿足者，是2:29「在乎靈」的割禮要藉聖靈在信祂之人心裏成就的那位。這一章把人的每一條自救之路都堵死，正是為了讓你在下一章看見：律法的終結，也是律法的成全，就是這位耶穌基督——你看見祂了嗎？
 
 ---
 
@@ -1432,13 +1299,11 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ### 默想問題
 
-1. **我是那個論斷者嗎？**：想一件我最近私下批評、論斷別人的事，誠實檢視：我自己有沒有做過同樣性質的事？
+1. **恩慈或縱容？**：神的忍耐，在我生命中被我當成領我悔改的恩慈，還是被我當成「反正祂不會真的審判」的藉口？
 
-2. **恩慈或縱容？**：神的忍耐，在我生命中被我當成領我悔改的恩慈，還是被我當成「反正祂不會真的審判」的藉口？
+2. **儀文還是靈？**：我的信仰操練（讀經、禱告、聚會）是外在的儀文，還是聖靈真正在我心裏動的工？
 
-3. **擁有還是遵行？**：我有哪些屬靈的「身份標籤」（教會背景、聖經知識、事奉年資）是我可能誤當成義的憑證，而不是遵行的起點？
-
-4. **儀文還是靈？**：我的信仰操練（讀經、禱告、聚會）是外在的儀文，還是聖靈真正在我心裏動的工？
+3. **良心與救恩**：2:14-15「本性行律法上的事」「良心作見證」，這對從未聽過福音的人的道德責任，說明了甚麼？這與救恩本身有何不同？
 
 ### 禱告回應
 
@@ -1451,21 +1316,20 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅在2:1如何把讀者從1章的「旁觀者」位置，轉為「被告」位置？這種修辭手法對今天的讀者有甚麼提醒？
-
-2. 「神的恩慈是領你悔改」（2:4）和「神必照各人的行為報應各人」（2:6），這兩句話如何同時成立而不矛盾？
-
-3. 2:14-15「本性行律法上的事」「良心作見證」，這對從未聽過福音的人的道德責任，說明了甚麼？這與救恩本身有何不同？
-
-4. 為甚麼保羅特別引用以賽亞書52:5「神的名在外邦人中，因你們受了褻瀆」？這對今天教會的見證有甚麼提醒？
-
-5. 「真割禮也是心裏的，在乎靈，不在乎儀文」（2:29），這句話如何為羅馬書3章「因信稱義」預備道路？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 無可推諉的呼應 | 2:1 | 羅1:20 |
+| 恩慈是悔改的門 | 2:4 | 彼後3:9 |
+| 儀文與靈 | 2:29 | 羅7:6、林後3:6 |
+| 心的割禮：新心新靈 | 2:29 | 申30:6、結36:26-27 |
+| 擁有律法卻虧負神的名 | 2:24 | 賽52:5 |
+| 論證匯流：普世定罪 | 2:1-29 | 羅3:9 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經洞見」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -1475,9 +1339,13 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 羅馬書 3:1-31
 
----
+**經文核對**：[ai-eden.com/bible/romans/3](https://www.ai-eden.com/bible/romans/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：神的義 Dikaiosynē Theou** \
+> **全書坐標**：卷一「定罪」的收束，也是全書的轉折點。3:9-20 用一連串舊約引文把起訴書寫到最後一句「沒有義人，連一個也沒有」；3:21「但如今」一轉，卷二「因信稱義」就此開始——挽回祭是這段的重心。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章的每一句話，最終都指向十字架上的一個人。保羅先花二十節經文把全人類——猶太人和外邦人——一起釘死在神公義的法庭前：「沒有義人，連一個也沒有」；然後在第21節，一個轉折詞「但如今」（希臘文 *nyni de*）劈開了全部的黑暗。神的義「在律法以外」顯明出來，不是靠人做到了甚麼，而是靠一個人：神設立耶穌，「作挽回祭」（*hilastērion*，3:25）。這個詞，七十士譯本用來翻譯利未記16章約櫃上那塊「施恩座」——大祭司一年一次，帶著贖罪祭牲的血，灑在那裏，使神的怒氣止息、神與百姓相會之處。保羅說：耶穌基督自己，就是那施恩座。祂的血，就是那使神公義的怒氣得到滿足、又使罪人得以坦然無懼來到神面前的血。羅馬書3:21-26不是一段教義綱要，是站在至聖所裏，看見那真正的施恩座——不是金子做的，是被釘的。
 
@@ -1485,21 +1353,21 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ## 配詩 (Opening Hymn)
 
-> **And Can It Be**
+> **And Can It Be** \
 > *Charles Wesley, 1738*
 >
-> And can it be that I should gain
-> An interest in the Savior's blood?
-> Died He for me, who caused His pain?
-> For me, who Him to death pursued?
-> Amazing love! How can it be
+> And can it be that I should gain \
+> An interest in the Savior's blood? \
+> Died He for me, who caused His pain? \
+> For me, who Him to death pursued? \
+> Amazing love! How can it be \
 > That Thou, my God, shouldst die for me?
 >
-> No condemnation now I dread;
-> Jesus, and all in Him, is mine!
-> Alive in Him, my living Head,
-> And clothed in righteousness divine,
-> Bold I approach th' eternal throne,
+> No condemnation now I dread; \
+> Jesus, and all in Him, is mine! \
+> Alive in Him, my living Head, \
+> And clothed in righteousness divine, \
+> Bold I approach th' eternal throne, \
 > And claim the crown, through Christ my own.
 
 ---
@@ -1507,6 +1375,8 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}這樣說來，猶太人有甚麼長處？割禮有甚麼益處呢？\textsuperscript{2}凡事大有好處：第一是神的聖言交託他們。\textsuperscript{3}即便有不信的，這有何妨呢？難道他們的不信就廢掉神的信麼？\textsuperscript{4}斷乎不能！不如說，神是真實的，人都是虛謊的。如經上所記：「你責備人的時候，顯為公義；被人議論的時候，可以得勝。」
 
@@ -1520,40 +1390,34 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 > \textsuperscript{27}既是這樣，那裏能誇口呢？沒有可誇的了。用何法沒有的呢？是用立功之法麼？不是，乃用信主之法。\textsuperscript{28}所以我們看定了：人稱義是因著信，不在乎遵行律法。\textsuperscript{29}難道神只作猶太人的神麼？不也是作外邦人的神麼？是的，也作外邦人的神。\textsuperscript{30}神既是一位，他就要因信稱那受割禮的為義，也要因信稱那未受割禮的為義。\textsuperscript{31}這樣，我們因信廢了律法麼？斷乎不是！更是堅固律法。
 
-*（本章中文經文引用和合本 CUV；寫作時 RCUV 和合本修訂版經核對線上來源未能穩定逐節取得，故如實改用已核實之 CUV，特此標明，讀者可另以和合本修訂版紙本或穩定電子版核對。）*
+### English — NASB
 
-### English — ESV
+> \textsuperscript{1}Then what advantage has the Jew? Or what is the benefit of circumcision? \textsuperscript{2}Great in every respect. First of all, that they were entrusted with the oracles of God. \textsuperscript{3}What then? If some did not believe, their unbelief will not nullify the faithfulness of God, will it? \textsuperscript{4}May it never be! Rather, let God be found true, though every man *be found* a liar, as it is written, "THAT YOU MAY BE JUSTIFIED IN YOUR WORDS, AND PREVAIL WHEN YOU ARE JUDGED."
 
-> \textsuperscript{1}Then what advantage has the Jew? Or what is the value of circumcision? \textsuperscript{2}Much in every way. To begin with, the Jews were entrusted with the oracles of God. \textsuperscript{3}What if some were unfaithful? Does their faithlessness nullify the faithfulness of God? \textsuperscript{4}By no means! Let God be true though every one were a liar, as it is written, "That you may be justified in your words, and prevail when you are judged."
+> \textsuperscript{5}But if our unrighteousness demonstrates the righteousness of God, what shall we say? The God who inflicts wrath is not unrighteous, is He? (I am speaking in human terms.) \textsuperscript{6}May it never be! For otherwise, how will God judge the world? \textsuperscript{7}But if through my lie the truth of God abounded to His glory, why am I also still being judged as a sinner? \textsuperscript{8}And why not *say* (as we are slanderously reported and as some claim that we say), "Let us do evil that good may come"? Their condemnation is just.
 
-> \textsuperscript{5}But if our unrighteousness serves to show the righteousness of God, what shall we say? That God is unrighteous to inflict wrath on us? (I speak in a human way.) \textsuperscript{6}By no means! For then how could God judge the world? \textsuperscript{7}But if through my lie God's truth abounds to his glory, why am I still being condemned as a sinner? \textsuperscript{8}And why not do evil that good may come?—as some people slanderously charge us with saying. Their condemnation is just.
+> \textsuperscript{9}What then? Are we better than they? Not at all; for we have already charged that both Jews and Greeks are all under sin; \textsuperscript{10}as it is written, "THERE IS NONE RIGHTEOUS, NOT EVEN ONE; \textsuperscript{11}THERE IS NONE WHO UNDERSTANDS, THERE IS NONE WHO SEEKS FOR GOD; \textsuperscript{12}ALL HAVE TURNED ASIDE, TOGETHER THEY HAVE BECOME USELESS; THERE IS NONE WHO DOES GOOD, THERE IS NOT EVEN ONE." \textsuperscript{13}"THEIR THROAT IS AN OPEN GRAVE, WITH THEIR TONGUES THEY KEEP DECEIVING," "THE POISON OF ASPS IS UNDER THEIR LIPS"; \textsuperscript{14}"WHOSE MOUTH IS FULL OF CURSING AND BITTERNESS"; \textsuperscript{15}"THEIR FEET ARE SWIFT TO SHED BLOOD, \textsuperscript{16}DESTRUCTION AND MISERY ARE IN THEIR PATHS, \textsuperscript{17}AND THE PATH OF PEACE THEY HAVE NOT KNOWN." \textsuperscript{18}"THERE IS NO FEAR OF GOD BEFORE THEIR EYES."
 
-> \textsuperscript{9}What then? Are we Jews any better off? No, not at all. For we have already charged that all, both Jews and Greeks, are under sin, \textsuperscript{10}as it is written: "None is righteous, no, not one; \textsuperscript{11}no one understands; no one seeks for God. \textsuperscript{12}All have turned aside; together they have become worthless; no one does good, not even one." \textsuperscript{13}"Their throat is an open grave; they use their tongues to deceive." "The venom of asps is under their lips." \textsuperscript{14}"Their mouth is full of curses and bitterness." \textsuperscript{15}"Their feet are swift to shed blood; \textsuperscript{16}in their paths are ruin and misery, \textsuperscript{17}and the way of peace they have not known." \textsuperscript{18}"There is no fear of God before their eyes."
+> \textsuperscript{19}Now we know that whatever the Law says, it speaks to those who are under the Law, so that every mouth may be closed and all the world may become accountable to God; \textsuperscript{20}because by the works of the Law no flesh will be justified in His sight; for through the Law *comes* the knowledge of sin.
 
-> \textsuperscript{19}Now we know that whatever the law says it speaks to those who are under the law, so that every mouth may be stopped, and the whole world may be held accountable to God. \textsuperscript{20}For by works of the law no human being will be justified in his sight, since through the law comes knowledge of sin.
+> **\textsuperscript{21}But now apart from the Law *the* righteousness of God has been manifested, being witnessed by the Law and the Prophets, \textsuperscript{22}even *the* righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction; \textsuperscript{23}for all have sinned and fall short of the glory of God, \textsuperscript{24}being justified as a gift by His grace through the redemption which is in Christ Jesus; \textsuperscript{25}whom God displayed publicly as a propitiation in His blood through faith. *This was* to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; \textsuperscript{26}for the demonstration, *I say,* of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus.**
 
-> **\textsuperscript{21}But now the righteousness of God has been manifested apart from the law, although the Law and the Prophets bear witness to it— \textsuperscript{22}the righteousness of God through faith in Jesus Christ for all who believe. For there is no distinction: \textsuperscript{23}for all have sinned and fall short of the glory of God, \textsuperscript{24}and are justified by his grace as a gift, through the redemption that is in Christ Jesus, \textsuperscript{25}whom God put forward as a propitiation by his blood, to be received by faith. This was to show God's righteousness, because in his divine forbearance he had passed over former sins. \textsuperscript{26}It was to show his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus.**
-
-> \textsuperscript{27}Then what becomes of our boasting? It is excluded. By what kind of law? By a law of works? No, but by the law of faith. \textsuperscript{28}For we hold that one is justified by faith apart from works of the law. \textsuperscript{29}Or is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also, \textsuperscript{30}since God is one—who will justify the circumcised by faith and the uncircumcised through faith. \textsuperscript{31}Do we then overthrow the law by this faith? By no means! On the contrary, we uphold the law.
+> \textsuperscript{27}Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. \textsuperscript{28}For we maintain that a man is justified by faith apart from works of the Law. \textsuperscript{29}Or is God *the God* of Jews only? Is He not *the God* of Gentiles also? Yes, of Gentiles also, \textsuperscript{30}since indeed God who will justify the circumcised by faith and the uncircumcised through faith is one. \textsuperscript{31}Do we then nullify the Law through faith? May it never be! On the contrary, we establish the Law.
 
 ---
 
 ## 背景 (Context)
 
-### 保羅剛剛做了甚麼
+### 保羅剛剛做了甚麼，猶太人的長處也是真實的恩典
 
-第1-3章是一場精心佈局的法庭戲。1:18-32保羅定外邦人的罪——他們有神藉著受造之物顯明的普遍啟示，卻拜受造之物，不拜造物主。2:1-29保羅轉身定猶太人的罪——他們有律法、有割禮，卻論斷別人所犯的，自己也照樣犯。到了3章開頭，保羅預料讀者會問：那猶太人豈不是白白領受了神特別的恩寵？3:1-8正是處理這個「異議」——保羅用四組一問一答（διατριβή，古代修辭學的「假想對話」文體）逐一擋開讀者可能提出的抗辯，最後把矛頭轉回：不，猶太人也一樣在罪惡之下。
-
-### 「猶太人有甚麼長處」不是修辭性的貶低
-
-保羅立刻肯定：「凡事大有好處：第一是神的聖言交託他們」（3:2）。以色列蒙揀選、領受律法與應許，這是真實的恩典，不是虛話。保羅絕不是說猶太人的身分毫無意義——他是說，這身分不能替代因信稱義。特權不等於免罪牌。
+第1-3章是一場精心佈局的法庭戲。1:18-32保羅定外邦人的罪——他們有神藉著受造之物顯明的普遍啟示，卻拜受造之物，不拜造物主。2:1-29保羅轉身定猶太人的罪——他們有律法、有割禮，卻論斷別人所犯的，自己也照樣犯。到了3章開頭，保羅預料讀者會問：那猶太人豈不是白白領受了神特別的恩寵？3:1-8正是處理這個「異議」——保羅用四組一問一答（διατριβή，古代修辭學的「假想對話」文體）逐一擋開讀者可能提出的抗辯，最後把矛頭轉回：不，猶太人也一樣在罪惡之下。保羅立刻肯定：「凡事大有好處：第一是神的聖言交託他們」（3:2）。以色列蒙揀選、領受律法與應許，這是真實的恩典，不是虛話。保羅絕不是說猶太人的身分毫無意義——他是說，這身分不能替代因信稱義。特權不等於免罪牌。
 
 ### 一份法庭起訴書：3:9-20 的舊約引文串
 
 3:10-18不是保羅自己寫的散文，是一連串舊約引文編織而成的「起訴書」（拉比傳統稱之為 *ḥaruzim*，「串珠」）——把分散在詩篇與以賽亞書裏描寫罪人的經文，串成一份無可辯駁的判決文件：
 
 | 經文 | 引自 | 主題 |
-|------|------|------|
+|---------------------------|---------------------------|---------------------------|
 | 3:10-12 | 詩14:1-3／詩53:1-3 | 無人尋求神、無人行善 |
 | 3:13上 | 詩5:9 | 喉嚨、舌頭的詭詐 |
 | 3:13下 | 詩140:3 | 嘴唇裏的毒氣 |
@@ -1572,7 +1436,7 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | δικαιοσύνη θεοῦ | dikaiosynē theou | 神的義 | 3:21-22；歷代解經對此片語有「屬格」歸屬爭議，見下文 |
 | δικαιόω / δικαίωσις | dikaioō / dikaiōsis | 稱義／使成義 | 法庭宣告用語，非「使變好」 |
 | χάρις | charis | 恩典 | 3:24；白白的、不配得的恩惠 |
@@ -1593,7 +1457,7 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ### *dikaioō*——法庭用語，不是道德改造
 
-這是本章最容易被誤解的一個詞。中文「稱義」常被誤讀成「使人變義」，但希臘文 *dikaioō* 屬於一組以 *-oō* 結尾的動詞，這類動詞的意思通常是「宣告某人具有某種身分」，而非「使某人變成那種狀態」——正如審判官「宣告」被告無罪，不是把被告「變成」一個從未犯過罪的人。稱義是神的法庭宣告：「這人在我面前是義的」，地位的改變，不是本性即刻的道德重造（本性的更新，是接下來「成聖」要做的工作，見羅6-8章）。
+這是本章最容易被誤解的一個詞。中文「稱義」常被誤讀成「使人變義」，但這要從字根與聖經用例來定：以 *-oō* 結尾的動詞多半帶使役意味（如 *douloō* 使為奴、*eleutheroō* 使得自由），*dikaioō* 卻是其中值得注意的一個——它的字根是法庭與道德性的形容詞，因此在七十士譯本與新約的用法裏一貫是「宣告某人為義」，而非「使某人變成義的」——正如審判官「宣告」被告無罪，不是把被告「變成」一個從未犯過罪的人。稱義是神的法庭宣告：「這人在我面前是義的」，地位的改變，不是本性即刻的道德重造（本性的更新，是接下來「成聖」要做的工作，見羅6-8章）。
 
 ### *charis*（恩典）與 *dōrean*（作為禮物）——雙重強調「不花你一分錢」
 
@@ -1605,11 +1469,11 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ### *hilastērion*（挽回祭／施恩座）——本章最深的一個詞
 
-這是整段經文神學份量最重的字。它在七十士譯本（希臘文舊約）裏，固定用來翻譯利未記16章約櫃蓋上那塊「施恩座」（*kapporeth*）——大祭司每年贖罪日一次，把贖罪祭牲的血灑在其上，使神與百姓相會、神的公義與百姓的罪之間得著遮蓋與挽回。保羅用同一個詞說：神設立耶穌作 *hilastērion*。意思是：以色列人一年一度、間接地、透過動物的血才能靠近的那個地方，如今在耶穌基督身上，一次永遠地、直接地成就了。祂不只是獻祭者，祂自己就是那施恩座——神的公義在此得著滿足，神的憐憫也在此向罪人敞開。這是「挽回」（propitiation，止息神公義的怒氣）而非僅僅「除罪」（expiation，除去罪本身）——兩層意義保羅在此都涵蓋了，但 *hilastērion* 這個詞的舊約背景，把重點鎖定在「神與人相會之處」。
+這是整段經文份量最重的字。它在七十士譯本（希臘文舊約）裏，固定用來翻譯利未記16章約櫃蓋上那塊「施恩座」（*kapporeth*）——大祭司每年贖罪日一次，把贖罪祭牲的血灑在其上，使神與百姓相會、神的公義與百姓的罪之間得著遮蓋與挽回。保羅用同一個詞說：神設立耶穌作 *hilastērion*。意思是：以色列人一年一度、間接地、透過動物的血才能靠近的那個地方，如今在耶穌基督身上，一次永遠地、直接地成就了。祂不只是獻祭者，祂自己就是那施恩座——神的公義在此得著滿足，神的憐憫也在此向罪人敞開。這是「挽回」（propitiation，止息神公義的怒氣）而非僅僅「除罪」（expiation，除去罪本身）——兩層意義保羅在此都涵蓋了，但 *hilastērion* 這個詞的舊約背景，把重點鎖定在「神與人相會之處」。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 普世的定罪，沒有例外
 
@@ -1618,7 +1482,7 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 ### 2. 稱義的四重性質
 
 | 性質 | 說明 |
-|------|------|
+|----------------------------------------|----------------------------------------|
 | 法庭性／宣告性 | 神宣告罪人為義，不是逐漸把人改造成義人 |
 | 白白的 | 「因著祂的恩典，白白的」——人沒有、也不可能付出任何代價 |
 | 有客觀根基 | 不是神憑空赦免，乃是「因基督耶穌的救贖」——公義的代價已經付清 |
@@ -1628,13 +1492,9 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 3:25-26兩次出現「顯明他的義」。這是本章最深刻的一點：神若只赦免罪而不處理罪的刑罰，祂就不再公義（祂縱容了罪）；神若只按公義審判而不施憐憫，人就無一得救。十字架同時做到兩件事——神在耶穌身上執行了公義所要求的刑罰，又藉此向凡信靠祂的人施出憐憫。這就是3:26的驚人結語：神「自己為義，也稱信耶穌的人為義」——祂沒有犧牲祂的公義來換取祂的慈愛，兩者在十字架上同時成就。
 
-### 4. 因信稱義排除一切誇口
+### 4. 因信稱義排除一切誇口，也堅固律法
 
-3:27「誇口……用何法沒有的呢？是用立功之法麼？不是，乃用信主之法。」如果稱義有任何一部分依靠人的行為，人就有理由誇口——「我比別人做得好」。但因信稱義從根本上排除了這個可能，因為信心本身不是一種「功勞」，而是空手領受禮物的姿態。這正是宗教改革「唯獨信心」（*sola fide*）教義最直接的聖經根基——羅馬書3:21-26，加上3:28「人稱義是因著信，不在乎遵行律法」，是這條教義歷史上被引用最多的經文之一。
-
-### 5. 「不廢掉律法，更是堅固律法」
-
-3:31常被忽略卻極重要：因信稱義不但沒有廢掉律法，反而「堅固」（*histēmi*，使之站立得住）了律法。律法對罪的控告是真實的、必須被正視的——十字架正是神認真對待律法要求的地方：律法要求的刑罰，在基督身上被執行了；律法要求的義，藉著信被歸算給信的人。因信稱義不是繞過律法的門路，是律法終於得著滿足的地方。
+3:27「誇口……用何法沒有的呢？是用立功之法麼？不是，乃用信主之法。」如果稱義有任何一部分依靠人的行為，人就有理由誇口——「我比別人做得好」。但因信稱義從根本上排除了這個可能，因為信心本身不是一種「功勞」，而是空手領受禮物的姿態。這正是宗教改革「唯獨信心」（*sola fide*）教義最直接的聖經根基——羅馬書3:21-26，加上3:28「人稱義是因著信，不在乎遵行律法」，是這條教義歷史上被引用最多的經文之一。3:31常被忽略卻極重要：因信稱義不但沒有廢掉律法，反而「堅固」（*histēmi*，使之站立得住）了律法。律法對罪的控告是真實的、必須被正視的——十字架正是神認真對待律法要求的地方：律法要求的刑罰，在基督身上被執行了；律法要求的義，藉著信被歸算給信的人。因信稱義不是繞過律法的門路，是律法終於得著滿足的地方。
 
 ---
 
@@ -1643,11 +1503,11 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 > **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
 > 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他1522年為德文新約所寫的〈羅馬書序言〉（Preface to the Epistle to the Romans）中，稱羅馬書全卷是「新約中最重要的部分，是最純正的福音」（"the chief part of the New Testament, and is truly the purest Gospel"，與本書第1章所引為同一句話）——而3:21-26正是這卷「最純正的福音」的核心段落。他後來的整個宗教改革神學突破，正是在苦讀羅馬書、特別是「神的義」這個片語的過程中發生的——他從原先懼怕「神的義」（以為指神審判人的公義標準），到終於明白這是神「賜給」人、人可以因信領受的義。
+路德在他1522年為德文新約所寫的〈羅馬書序言〉（Preface to the Epistle to the Romans）中，稱羅馬書全卷是「新約中最重要的部分，是最純正的福音」（"the chief part of the New Testament, and is truly the purest Gospel"，與本書第1章所引為同一句話）——而3:21-26正是這卷「最純正的福音」的核心段落。他後來整個宗教改革的突破，正是在苦讀羅馬書、特別是「神的義」這個片語的過程中發生的——他從原先懼怕「神的義」（以為指神審判人的公義標準），到終於明白這是神「賜給」人、人可以因信領受的義。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
@@ -1655,7 +1515,17 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 **歷史事實補充**：宗教改革「唯獨信心、唯獨恩典」（*sola fide, sola gratia*）的教義主張，其最直接的聖經根基正是羅馬書3:21-31這一段——這是教會歷史上可查證的事實，不是後人附會。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
+
+**羅馬書前三章是保羅刻意搭建的一座法庭**：摩根指出，保羅在1:18到3:20之間，像一位檢察官，先傳喚外邦人受審（1:18-32：他們有普遍啟示卻拜偶像），再傳喚猶太人受審（2:1-29：他們有律法卻論斷人、自己也犯律法），到3:9-20做出總結陳詞——「都在罪惡之下」。這不是保羅隨興發揮的道德說教，是一份精心構築、無可辯駁的起訴書，目的只有一個：讓每一張嘴都閉口無言（3:19「塞住各人的口」），使人再沒有僥倖脫罪的空間，才能真正聽見3:21「但如今」帶來的好消息。
+
+**「但如今」是全信、甚至可以說是全本聖經的軸心**：摩根將羅馬書的結構視為一齣兩幕劇——第一幕（1:18-3:20）是黑暗，是「你眼睛所見過最悲觀的文學篇章」；第二幕（3:21起）驟然轉為光明，是「你耳朵所聽過最樂觀的詩歌」。兩幕之間的轉場，只靠兩個字：「但如今」。摩根特別提醒讀者，不要把這個轉折讀得太輕——它不是保羅換了一個溫和一點的話題，而是神在歷史中真實介入、成就了一件人絕對做不到的事。
+
+**挽回祭是全段的重心**：摩根認為，3:25「挽回祭」一詞，是把整段經文從抽象的法律術語，拉回到活生生的獻祭現場——利未記裏那個大祭司一年一度、戰戰兢兢帶著血進入至聖所的畫面，如今在十字架上，一次性地、公開地、為萬民成就了。信徒因信站在神面前，靠的不是自己有沒有把功課做好，而是那滴在施恩座上的血，是否已經流出。
+
+> 出處：對 G. Campbell Morgan 羅馬書1-3章相關講章與釋經著作一貫解經立場的綜合性歸納陳述，非逐字引句、未附具體出版頁碼。
+
+### 麥克阿瑟 (John MacArthur)
 
 **約翰·麥克阿瑟 (John MacArthur)**（引自本書卷概覽 00-overview.md 已核實之研究，論羅馬書因信稱義相關）：
 
@@ -1667,32 +1537,28 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 130:1-4, 7-8
 
-> 耶和華啊，我從深處向你求告！
-> 主啊，求你聽我的聲音！願你側耳聽我懇求的聲音！
-> 主──耶和華啊，你若究察罪孽，誰能站得住呢？
+> 耶和華啊，我從深處向你求告！ \
+> 主啊，求你聽我的聲音！願你側耳聽我懇求的聲音！ \
+> 主──耶和華啊，你若究察罪孽，誰能站得住呢？ \
 > 但在你有赦免之恩，要叫人敬畏你。
 >
-> 以色列啊，你當仰望耶和華！因他有慈愛，有豐盛的救恩。
+> 以色列啊，你當仰望耶和華！因他有慈愛，有豐盛的救恩。 \
 > 他必救贖以色列脫離一切的罪孽。
 
-> Out of the depths I cry to you, O LORD!
-> O Lord, hear my voice! Let your ears be attentive to the voice of my pleas for mercy!
-> If you, O LORD, should mark iniquities, O Lord, who could stand?
-> But with you there is forgiveness, that you may be feared.
+> Out of the depths I have cried to You, O LORD. \
+> Lord, hear my voice! Let Your ears be attentive To the voice of my supplications. \
+> If You, LORD, should mark iniquities, O Lord, who could stand? \
+> But there is forgiveness with You, That You may be feared.
 >
-> O Israel, hope in the LORD! For with the LORD there is steadfast love,
-> and with him is plentiful redemption.
-> And he will redeem Israel from all his iniquities.
+> O Israel, hope in the LORD; For with the LORD there is lovingkindness, \
+> And with Him is abundant redemption. \
+> And He will redeem Israel From all his iniquities.
 
 詩篇130篇的邏輯，正是羅馬書3章的濃縮：「你若究察罪孽，誰能站得住呢」——這是3:9-20的呼喊；「但在你有赦免之恩」——這是3:21的「但如今」；「有豐盛的救恩」——原文正是「豐盛的救贖」（*apolytrōsis* 一詞的舊約遠親），呼應3:24的「救贖」。詩人在律法之下不能站立，卻仰望一位施行救贖的神——保羅要說的是，這位神已經在基督裏做成了。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### And Can It Be
 
@@ -1702,67 +1568,34 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 > **Nikolaus Ludwig von Zinzendorf, 1739；John Wesley 英譯**
 >
-> Jesus, thy blood and righteousness
-> My beauty are, my glorious dress;
-> 'Midst flaming worlds, in these arrayed,
+> Jesus, thy blood and righteousness \
+> My beauty are, my glorious dress; \
+> 'Midst flaming worlds, in these arrayed, \
 > With joy shall I lift up my head.
 
 這首詩歌的德文原作者親岑多夫伯爵（Zinzendorf），以及英譯者約翰·衛斯理，都在這一節裏把「祢的血」與「祢的義」並列成一件「衣裳」——這不是詩意的誇張，正是羅馬書3:24-25「因基督耶穌的救贖」（血所成就的）與「顯明神的義」（義的彰顯）兩件事，在同一個人身上合一的寫照。當我在神面前站立，我所披戴的不是自己的行為記錄，而是基督的血與義。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**羅馬書前三章是保羅刻意搭建的一座法庭**：摩根指出，保羅在1:18到3:20之間，像一位檢察官，先傳喚外邦人受審（1:18-32：他們有普遍啟示卻拜偶像），再傳喚猶太人受審（2:1-29：他們有律法卻論斷人、自己也犯律法），到3:9-20做出總結陳詞——「都在罪惡之下」。這不是保羅隨興發揮的道德說教，是一份精心構築、無可辯駁的起訴書，目的只有一個：讓每一張嘴都閉口無言（3:19「塞住各人的口」），使人再沒有僥倖脫罪的空間，才能真正聽見3:21「但如今」帶來的好消息。
+**精義一句話**：稱義不是我變好了，是神在十字架上，藉著耶穌的血，同時滿足了自己的公義、又白白稱信祂的人為義——這是一次完成、永不撤銷的宣告，不是成聖那條漫長的路。
 
-**「但如今」是全信、甚至可以說是全本聖經的軸心**：摩根將羅馬書的結構視為一齣兩幕劇——第一幕（1:18-3:20）是黑暗，是「你眼睛所見過最悲觀的文學篇章」；第二幕（3:21起）驟然轉為光明，是「你耳朵所聽過最樂觀的詩歌」。兩幕之間的轉場，只靠兩個字：「但如今」。摩根特別提醒讀者，不要把這個轉折讀得太輕——它不是保羅換了一個溫和一點的話題，而是神在歷史中真實介入、成就了一件人絕對做不到的事。
+### 全經連線 (Tracing It Through Scripture)
 
-**挽回祭是全段的重心**：摩根認為，3:25「挽回祭」一詞，是把整段經文從抽象的法律術語，拉回到活生生的獻祭現場——利未記裏那個大祭司一年一度、戰戰兢兢帶著血進入至聖所的畫面，如今在十字架上，一次性地、公開地、為萬民成就了。信徒因信站在神面前，靠的不是自己有沒有把功課做好，而是那滴在施恩座上的血，是否已經流出。
+**施恩座成就線**：利未記16章，大祭司一年一次，帶著血進入至聖所，灑在約櫃上的施恩座（*kapporeth*）上，遮蓋以色列全會眾一年的罪；羅馬書3:25說，神設立耶穌作「挽回祭」（*hilastērion*）——七十士譯本裏正是同一個字。這條線往前連著利未記的贖罪日，往後連著希伯來書9-10章——「因為他一次獻祭，便叫那得以成聖的人永遠完全」（來10:14）。舊約獻祭年復一年，因為沒有一次是真正夠格的；十字架只需一次，因為獻祭的和被獻的是同一位。整本聖經只有一個祭壇最終立得住——各各他的十字架。老弟兄常提醒：「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」羅馬書3章特別如此，因為經文自己已經把預表（利未記的施恩座）與成就（3:25的耶穌）擺在一起，不必猜。
 
-> 出處：對 G. Campbell Morgan 羅馬書1-3章相關講章與釋經著作一貫解經立場的綜合性歸納陳述，非逐字引句、未附具體出版頁碼。
+**稱義三階段線**：老弟兄帶查經時，常常糾正一個普遍的誤解——「得救」不是信主那一刻就把整個救恩經歷講完了。他用一張簡表，把救恩分成三個完整卻性質不同的階段：
 
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**救恩不是一個點，是三個階段**：老弟兄帶查經時，常常糾正一個普遍的誤解——「得救」不是信主那一刻就把整個救恩經歷講完了。他用一張簡表，把救恩分成三個完整卻性質不同的階段：
-
-| 階段 | 神學術語 | 核心動作 | 解決的問題 |
-|------|----------|----------|------------|
+| 階段 | 救恩術語 | 核心動作 | 解決的問題 |
+|-------------|---------------------|---------------------|-------------------------|
 | 稱義 | Justification | 一次完成 | 罪的刑罰（靈死了） |
 | 成聖 | Sanctification | 持續漸進 | 罪的權勢（對付「己」） |
 | 得榮 | Glorification | 末後完成 | 罪的存在（得榮耀之體） |
 
-羅馬書3章講的，精確地說，只是這三個階段裏的第一個——稱義。這是老弟兄查經時會反覆追問的一點：「你認為信了耶穌，得救就完了？還是剛剛開始？」——3:24「白白的稱義」，是一次性、法庭性的宣告，罪的刑罰在那一刻已經徹底解決，這是確定無疑、不會反覆的地位。但緊接著的問題是：那接下來呢？羅馬書6-8章要處理的，正是稱義之後、成聖過程中「罪的權勢」——那個仍然活躍、仍然要天天對付的「己」。得榮，則要等到羅馬書8章末了、身體得贖之時才完全成就。
-
-**為甚麼要把三個階段分清楚**：老弟兄指出，把稱義和成聖混為一談，是教會裏兩種常見錯誤的根源——一種人以為稱義之後不需要再追求聖潔（廉價恩典）；另一種人反過來，以為自己在神面前的地位，要靠今天靈修得好不好、今天犯罪沒犯罪來決定（把稱義變成了成聖）。羅馬書3章講的稱義，是一次性完成、不再反覆的宣告——3:24「稱義」原文（*dikaioumenoi*）是現在式被動分詞，描寫神白白稱人為義的恩典作為；稱義「一次完成、不再反覆」的確據，不在於某個動詞時態，而在於它是神法庭上的宣告：這件事在人信的那一刻已經發生，已經完成，不會因為信徒今天軟弱跌倒而被撤銷。
-
-**挽回祭——最直接的答案就是耶穌自己**：老弟兄查經最根本的信念，是整本聖經都指著耶穌基督。用在羅馬書3章，這個原則不需要拐彎抹角——利未記16章的施恩座，不是一個「預表」需要費力去挖掘，保羅自己已經把答案寫在3:25：耶穌就是那施恩座。老弟兄常提醒：「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」羅馬書3章特別如此，因為這一次，經文自己已經把預表和成就擺在一起，不必猜。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*And Can It Be*（如前「配詩」所引）
-
-> No condemnation now I dread;
-> Jesus, and all in Him, is mine!
-
-**詩篇**：詩篇 130:3-4
-
-> 主──耶和華啊，你若究察罪孽，誰能站得住呢？但在你有赦免之恩，要叫人敬畏你。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-### 全經連線 (Tracing It Through Scripture)
-
-鑰匙：施恩座的成就。利未記16章，大祭司一年一次，帶著血進入至聖所，灑在約櫃上的施恩座（*kapporeth*）上，遮蓋以色列全會眾一年的罪；羅馬書3:25說，神設立耶穌作「挽回祭」（*hilastērion*）——七十士譯本裏正是同一個字。
-
-這條線往前連著利未記的贖罪日，往後連著希伯來書9-10章——「因為他一次獻祭，便叫那得以成聖的人永遠完全」（來10:14）。舊約獻祭年復一年，因為沒有一次是真正夠格的；十字架只需一次，因為獻祭的和被獻的是同一位。整本聖經只有一個祭壇最終立得住——各各他的十字架。
+羅馬書3章講的，精確地說，只是這三個階段裏的第一個——稱義：3:24「白白的稱義」是一次性、法庭性的宣告，罪的刑罰在那一刻已經徹底解決，這是確定無疑、不會反覆的地位。羅馬書6-8章要處理的，正是稱義之後、成聖過程中「罪的權勢」——那個仍然活躍、仍然要天天對付的「己」；得榮，則要等到羅馬書8章末了、身體得贖之時才完全成就。把稱義和成聖混為一談，是教會裏兩種常見錯誤的根源——一種人以為稱義之後不需要再追求聖潔（廉價恩典）；另一種人反過來，以為自己在神面前的地位，要靠今天靈修得好不好、今天犯罪沒犯罪來決定（把稱義變成了成聖）。稱義「一次完成、不再反覆」的確據，不在於某個動詞時態，而在於它是神法庭上的宣告：這件事在人信的那一刻已經發生，已經完成，不會因為信徒今天軟弱跌倒而被撤銷。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -1783,17 +1616,9 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 - **晚上**：今天我是活在「已經被稱義」的自由裏，還是仍然活在「要證明自己配得」的焦慮裏？
 - **一個行動**：向一個因罪自責、覺得自己「不夠格」的人，具體地說出羅馬書3:24-25的好消息。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：稱義不是我變好了，是神在十字架上，藉著耶穌的血，同時滿足了自己的公義、又白白稱信祂的人為義——這是一次完成、永不撤銷的宣告，不是成聖那條漫長的路。
-
-**貫通全經**：利未記16章的施恩座一年一次、需要祭司代替；羅馬書3:25說，耶穌自己就是那真正的施恩座，一次永遠成就。
-
-**無法迴避的問題**：「你今天站在神面前的信心，是靠今天靈修做得好不好，還是靠十字架上已經流出的那滴血？」
-
 > 「你以為得救是一條漫長的自我改造之路，起點模糊、終點焦慮？不是。稱義是一次法庭的宣告——已經成就，不會反覆。」
+
+**你看見耶穌了嗎**：3:25一個詞——「挽回祭」（*hilastērion*）——把整段最深的祕密揭開：利未記裏那塊金子做的施恩座，如今成了被釘十字架的這個人。祂的血，就是止息神公義怒氣、又使罪人坦然無懼來到神面前的血。3:21-26不是一段冷冰冰的教義綱要，是站在至聖所裏，親眼看見那真正的施恩座——你看見祂了嗎？
 
 ---
 
@@ -1801,13 +1626,11 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ### 默想問題
 
-1. **我站立的根基是甚麼？**：當我想到自己在神面前的地位時，我心裏浮現的是「我今天表現得如何」，還是「基督已經為我成就的」？
+1. **誇口被排除了嗎？**：3:27說「誇口……沒有的了」——我是否仍然在暗地裏，用自己的靈修、事奉、道德表現，跟別的信徒比較、以此為傲？
 
-2. **誇口被排除了嗎？**：3:27說「誇口……沒有的了」——我是否仍然在暗地裏，用自己的靈修、事奉、道德表現，跟別的信徒比較、以此為傲？
+2. **稱義與成聖分清楚了嗎？**：我是否把今天靈修得好不好、犯罪沒犯罪，當成了自己在神面前地位是否穩固的依據？
 
-3. **看見施恩座**：利未記的施恩座，一年一次，隔著幔子；羅馬書3:25的挽回祭，一次永遠，幔子已經裂開（太27:51）。我是否活在這個已經被打開的道路裏，還是仍然像舊約祭司一樣，戰戰兢兢地靠近神？
-
-4. **稱義與成聖分清楚了嗎？**：我是否把今天靈修得好不好、犯罪沒犯罪，當成了自己在神面前地位是否穩固的依據？
+3. **律法的目的**：3:31「因信……更是堅固律法」——因信稱義如何不是廢掉律法，反而是律法終於得著滿足？
 
 ### 禱告回應
 
@@ -1822,23 +1645,20 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 3:1-8保羅為甚麼要用一連串「假想對話」的方式，處理猶太人的特權問題？這對今天「屬靈特權」的迷思有甚麼提醒？
-
-2. 3:10-18的舊約引文串，涵蓋了人身體從喉嚨到腳的各個部位——這在說明甚麼樣的罪的本質？
-
-3. 「稱義」（*dikaioō*）是法庭宣告，不是道德改造——這個分別，如何幫助你分辨「稱義」與「成聖」？
-
-4. 「挽回祭」（*hilastērion*）與利未記16章施恩座的關聯，如何改變你對十字架的理解？
-
-5. 3:27「誇口……沒有的了」——在你的信仰生活中，還有哪些地方，你其實在靠自己的表現「誇口」？
-
-6. 3:31「因信……更是堅固律法」——因信稱義如何不是廢掉律法，反而是律法終於得著滿足？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 罪的起訴書（詩歌智慧書與先知書合證） | 3:10-18 | 詩14:1-3、53:1-3、5:9、140:3、10:7；賽59:7-8、詩36:1 |
+| 挽回祭／施恩座的成就 | 3:25 | 利16章、來9-10章、來10:14 |
+| 「無故地」的恩典與恨 | 3:24（*dōrean*） | 約15:25 |
+| 罪的奴役與救贖 | 3:24（*apolytrōsis*） | 羅6:17-20 |
+| 稱義之後：成聖與得榮 | 3:24 | 羅6-8章 |
+| 幔子已裂：坦然無懼來到神面前 | 3:21-26 | 太27:51 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論、John MacArthur (gty.org) 已核實之羅馬書研究、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org) 已核實之羅馬書研究、G. Campbell Morgan*
 
 
 \newpage
@@ -1848,7 +1668,7 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 > 兩個見證人（亞伯拉罕與大衛），兩個元首（亞當與基督）。稱義不是感覺，是判決；不是過程，是地位。
 
 | | |
-|---|---|
+|----------------------|-----------------------------------------------------------------|
 | **救恩的環節** | **稱義**——解決罪的刑罰，一次完成 |
 | **鑰節** | 5:1「我們既因信稱義，就藉著我們的主耶穌基督得與神相和」 |
 | **貫穿的問題** | 神怎樣救人？ |
@@ -1860,9 +1680,13 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 羅馬書 4:1-25
 
----
+**經文核對**：[ai-eden.com/bible/romans/4](https://www.ai-eden.com/bible/romans/4?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：算 Logizomai** \
+> **全書坐標**：卷二「因信稱義」的首章。3:21-26宣告了稱義的根據，4章隨即傳喚兩個舊約見證人——亞伯拉罕與大衛——證明「算為義」自始就是恩典的算法，不是工價的算法；稱義早於割禮，也早於律法。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上講的是亞伯拉罕，核心卻是耶穌。保羅在全章沒有一次直接說出「耶穌」，直到第24-25節才揭曉：亞伯拉罕所信的那位「叫死人復活、使無變為有的神」，就是「使我們的主耶穌從死裏復活」的神。亞伯拉罕仰望一個尚未存在的應許（多國之父、從死胎般的身體生出後裔），我們仰望一個已經成就的事實（耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義）。亞伯拉罕的信心望向前方，我們的信心望向十字架與空墳墓——但那位被信靠的神，從未改變。
 
@@ -1870,32 +1694,32 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ## 配詩 (Opening Hymn)
 
-> **My Hope Is Built on Nothing Less**
+> **My Hope Is Built on Nothing Less** \
 > *Edward Mote, 1834*
 >
-> My hope is built on nothing less
-> Than Jesus' blood and righteousness;
-> I dare not trust the sweetest frame,
+> My hope is built on nothing less \
+> Than Jesus' blood and righteousness; \
+> I dare not trust the sweetest frame, \
 > But wholly lean on Jesus' name.
 >
-> *Refrain:*
-> On Christ, the solid Rock, I stand;
-> All other ground is sinking sand,
+> *Refrain:* \
+> On Christ, the solid Rock, I stand; \
+> All other ground is sinking sand, \
 > All other ground is sinking sand.
 >
-> When darkness veils His lovely face,
-> I rest on His unchanging grace;
-> In every high and stormy gale,
+> When darkness veils His lovely face, \
+> I rest on His unchanging grace; \
+> In every high and stormy gale, \
 > My anchor holds within the veil.
 >
-> 中文意譯：
-> 我的盼望毫無根基，
-> 除了耶穌的血和公義；
-> 我不敢靠自己最美的光景，
+> 中文意譯： \
+> 我的盼望毫無根基， \
+> 除了耶穌的血和公義； \
+> 我不敢靠自己最美的光景， \
 > 只單單倚靠耶穌的名。
 >
-> 我站立在基督這磐石上；
-> 其餘一切都是流沙，
+> 我站立在基督這磐石上； \
+> 其餘一切都是流沙， \
 > 其餘一切都是流沙。
 
 ---
@@ -1903,6 +1727,8 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}如此說來，我們的祖宗亞伯拉罕憑著肉體得了甚麼呢？\textsuperscript{2}倘若亞伯拉罕是因行為稱義，就有可誇的；只是在神面前並無可誇。**\textsuperscript{3}經上說甚麼呢？說：「亞伯拉罕信神，這就算為他的義。」\textsuperscript{4}做工的得工價，不算恩典，乃是該得的；\textsuperscript{5}惟有不做工的，只信稱罪人為義的神，他的信就算為義。**
 
@@ -1916,17 +1742,19 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 > **\textsuperscript{23}算為他義的這句話不是單為他寫的，\textsuperscript{24}也是為我們將來得算為義之人寫的，就是我們這信神使我們的主耶穌從死裏復活的人。\textsuperscript{25}耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義。**
 
-### English — ESV
+### English — NASB
 
-> **\textsuperscript{3}For what does the Scripture say? "Abraham believed God, and it was counted to him as righteousness." \textsuperscript{4}Now to the one who works, his wages are not counted as a gift but as his due. \textsuperscript{5}And to the one who does not work but believes in him who justifies the ungodly, his faith is counted as righteousness,**
+> \textsuperscript{1}What then shall we say that Abraham, our forefather according to the flesh, has found? \textsuperscript{2}For if Abraham was justified by works, he has something to boast about, but not before God. **\textsuperscript{3}For what does the Scripture say? "ABRAHAM BELIEVED GOD, AND IT WAS CREDITED TO HIM AS RIGHTEOUSNESS." \textsuperscript{4}Now to the one who works, his wage is not credited as a favor, but as what is due. \textsuperscript{5}But to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness,**
 
-> \textsuperscript{9}Is this blessing then only for the circumcised, or also for the uncircumcised? For we say that faith was counted to Abraham as righteousness. \textsuperscript{10}How then was it counted to him? Was it before or after he had been circumcised? It was not after, but before he was circumcised.
+> \textsuperscript{6}just as David also speaks of the blessing on the man to whom God credits righteousness apart from works: \textsuperscript{7}"BLESSED ARE THOSE WHOSE LAWLESS DEEDS HAVE BEEN FORGIVEN, AND WHOSE SINS HAVE BEEN COVERED. \textsuperscript{8}BLESSED IS THE MAN WHOSE SIN THE LORD WILL NOT TAKE INTO ACCOUNT."
 
-> \textsuperscript{17}as it is written, "I have made you the father of many nations"—in the presence of the God in whom he believed, who gives life to the dead and calls into existence the things that do not exist. \textsuperscript{18}In hope he believed against hope, that he should become the father of many nations, as he had been told, "So shall your offspring be." \textsuperscript{19}He did not weaken in faith when he considered his own body, which was as good as dead (since he was about a hundred years old), or when he considered the barrenness of Sarah's womb. \textsuperscript{20}No unbelief made him waver concerning the promise of God, but he grew strong in his faith as he gave glory to God, \textsuperscript{21}fully convinced that God was able to do what he had promised.
+> \textsuperscript{9}Is this blessing then on the circumcised, or on the uncircumcised also? For we say, "FAITH WAS CREDITED TO ABRAHAM AS RIGHTEOUSNESS." \textsuperscript{10}How then was it credited? While he was circumcised, or uncircumcised? Not while circumcised, but while uncircumcised; \textsuperscript{11}and he received the sign of circumcision, a seal of the righteousness of the faith which he had while uncircumcised, so that he might be the father of all who believe without being circumcised, that righteousness might be credited to them, \textsuperscript{12}and the father of circumcision to those who not only are of the circumcision, but who also follow in the steps of the faith of our father Abraham which he had while uncircumcised.
 
-> **\textsuperscript{23}But the words "it was counted to him" were not written for his sake alone, \textsuperscript{24}but for ours also. It will be counted to us who believe in him who raised from the dead Jesus our Lord, \textsuperscript{25}who was delivered up for our trespasses and raised for our justification.**
+> \textsuperscript{13}For the promise to Abraham or to his descendants that he would be heir of the world was not through the Law, but through the righteousness of faith. \textsuperscript{14}For if those who are of the Law are heirs, faith is made void and the promise is nullified; \textsuperscript{15}for the Law brings about wrath, but where there is no law, there also is no violation. \textsuperscript{16}For this reason *it is* by faith, in order that *it may be* in accordance with grace, so that the promise will be guaranteed to all the descendants, not only to those who are of the Law, but also to those who are of the faith of Abraham, who is the father of us all, \textsuperscript{17}(as it is written, "A FATHER OF MANY NATIONS HAVE I MADE YOU") in the presence of Him whom he believed, *even* God, who gives life to the dead and calls into being that which does not exist.
 
-*（中文採和合本 CUV；撰寫時 RCUV 和合本修訂版逐節文本未能穩定取得，故改採已逐節核實之 CUV，與本系列提摩太前書01-03章相同處理方式一致。英文 ESV 已逐節透過 biblehub.com 核對。）*
+> \textsuperscript{18}In hope against hope he believed, so that he might become a father of many nations according to that which had been spoken, "SO SHALL YOUR DESCENDANTS BE." \textsuperscript{19}Without becoming weak in faith he contemplated his own body, now as good as dead since he was about a hundred years old, and the deadness of Sarah's womb; \textsuperscript{20}yet, with respect to the promise of God, he did not waver in unbelief but grew strong in faith, giving glory to God, \textsuperscript{21}and being fully assured that what God had promised, He was able also to perform. \textsuperscript{22}Therefore IT WAS ALSO CREDITED TO HIM AS RIGHTEOUSNESS.
+
+> **\textsuperscript{23}Now not for his sake only was it written that it was credited to him, \textsuperscript{24}but for our sake also, to whom it will be credited, as those who believe in Him who raised Jesus our Lord from the dead, \textsuperscript{25}*He* who was delivered over because of our transgressions, and was raised because of our justification.**
 
 ---
 
@@ -1940,7 +1768,7 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 保羅所處的時代，猶太傳統普遍把亞伯拉罕描寫為一個因順服而配得稱義的模範人物。次經《馬加比一書》2:52 記載瑪他提亞臨終前的訓誡：「亞伯拉罕豈不是在患難中被察驗為忠信，就算為他的義嗎？」——這句話把「算為義」直接連到亞伯拉罕在摩利亞山獻以撒的「忠信考驗」（創22章），而不是創世記15章單純的「信」。米示拿《先賢篇》(Pirkei Avot 5:3) 也記載了亞伯拉罕經歷「十次試驗」都站立得住的傳統。換句話說，當時的猶太讀者聽慣的敘事是：亞伯拉罕先信，然後憑他一連串的順服行為（獻以撒是最高峰）才「配得」被神稱義。
 
-保羅在羅馬書4章做的事，正是要把敘事拉回創世記15:6本身——在亞伯拉罕還沒有任何行為可誇口之前（甚至在他受割禮之前，創17章），神已經「算他為義」。這不是否定亞伯拉罕後來的順服毫無意義，而是要指明：稱義的那一刻，發生在信的當下，不是行為的終點。這正是保羅論證力量之所在：他沒有迴避猶太傳統，而是直接回到猶太人自己最敬重的文本——摩西五經——來重新定義「亞伯拉罕的義」從哪裏來。
+保羅在羅馬書4章做的事，正是要把敘事拉回創世記15:6本身——在亞伯拉罕還沒有任何行為可誇口之前（甚至在他受割禮之前，創17章），神已經「算他為義」。這不是說亞伯拉罕後來的順服毫無意義，而是要指明：稱義的那一刻，發生在信的當下，不是行為的終點。這正是保羅論證力量之所在：他沒有迴避猶太傳統，而是直接回到猶太人自己最敬重的文本——摩西五經——來重新定義「亞伯拉罕的義」從哪裏來。
 
 ### 保羅的論證結構
 
@@ -1955,7 +1783,7 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | λογίζομαι | logizomai | 算、歸算、記在帳上 | 商業會計術語，本章反覆出現逾十次 |
 | χάρις | charis | 恩典、白白的禮物 | 4:4, 16 |
 | ὀφείλημα | opheilēma | 欠債、應得之物 | 4:4「工價」 |
@@ -1975,39 +1803,27 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 ### *asebēs*：神稱「不虔誠的人」為義（4:5）
 
-*asebēs* 這個字通常翻譯作「不虔誠的」、「不敬畏神的」，是舊約先知書中形容悖逆神、該受審判之人的用詞（如詩篇1:1, 4-6 的「惡人」）。舊約律法一再強調：「我必不以惡人為義」（出23:7）。保羅卻在這裏直接稱神為「稱罪人為義的神」(*ton dikaiounta ton asebē*)——直譯是「那稱不虔者為義的神」。這句話若出自一個猶太拉比之口，會被視為褻瀆；但保羅正是要讀者被這句話震動：稱義的對象從來不是那些已經配得的人，而是那些毫無資格、只能空手來信的人。
+*asebēs* 這個字通常翻譯作「不虔誠的」、「不敬畏神的」，是舊約詩歌書與先知書中形容悖逆神、該受審判之人的用詞（如詩篇1:1, 4-6 的「惡人」）。舊約律法一再強調：「我必不以惡人為義」（出23:7）。保羅卻在這裏直接稱神為「稱罪人為義的神」(*ton dikaiounta ton asebē*)——直譯是「那稱不虔者為義的神」。這句話若出自一個猶太拉比之口，會被視為褻瀆；但保羅正是要讀者被這句話震動：稱義的對象從來不是那些已經配得的人，而是那些毫無資格、只能空手來信的人。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 因信稱義不是保羅或路德的發明
+### 1. 因信稱義不是新教義，恩典的邏輯與工價的邏輯互相排斥 (4:1-8)
 
-這是全章的骨幹論證：保羅引用的不是自己的神學創見，而是創世記15:6——律法（西奈之約）頒布之前四百三十年（參加3:17）就已經記載的經文。因信稱義是神從起初一貫的救法，摩西的律法從未取代它，只是暫時性地被加在中間（加3:19）。
+保羅引用的不是自己的創見，而是創世記15:6——律法（西奈之約）頒布之前四百三十年（參加3:17）就已經記載的經文。因信稱義是神從起初一貫的救法，摩西的律法從未取代它，只是暫時性地被加在中間（加3:19）。這個救法的邏輯不能妥協：「做工的得工價，不算恩典，乃是該得的」——救恩若摻雜任何一絲「我配得」，就不再是恩典，而是交易，羅馬書11:6 用同樣的邏輯總結：「既是出於恩典，就不在乎行為；不然，恩典就不是恩典了。」保羅引用詩篇32:1-2 補強論證：大衛所描述的「有福」，不是「行為完全的人」，而是「過犯得赦免、罪惡被遮蓋、主不算為有罪的人」。這節詩篇原文使用的也是「算」(*ḥashab*，七十士譯本譯作 *logizomai*) 這個字——舊約與新約在此完全銜接：稱義的核心動作，從大衛的時代到保羅的時代，都是神「不算」人的罪、反而「算」人為義。
 
-### 2. 恩典的邏輯與工價的邏輯互相排斥
-
-「做工的得工價，不算恩典，乃是該得的」——這是一句不能妥協的邏輯：救恩若摻雜任何一絲「我配得」，就不再是恩典，而是交易。羅馬書11:6 用同樣的邏輯總結：「既是出於恩典，就不在乎行為；不然，恩典就不是恩典了。」
-
-### 3. 大衛的見證——稱義是「不算」而非「配得」（4:6-8）
-
-保羅引用詩篇32:1-2 補強論證：大衛所描述的「有福」，不是「行為完全的人」，而是「過犯得赦免、罪惡被遮蓋、主不算為有罪的人」。這節詩篇原文使用的也是「算」(*ḥashab*，七十士譯本譯作 *logizomai*) 這個字——舊約與新約在此完全銜接：稱義的核心動作，從大衛的時代到保羅的時代，都是神「不算」人的罪、反而「算」人為義。
-
-### 4. 亞伯拉罕是猶太人與外邦人共同的信心之父（4:9-12）
+### 2. 亞伯拉罕是猶太人與外邦人共同的信心之父 (4:9-12)
 
 保羅用一個簡單卻致命的年代學問題拆解猶太人的割禮優越感：亞伯拉罕「幾時」被算為義？創世記15:6 的時候，還是創世記17章受割禮的時候？答案是前者——中間相隔至少十四年。割禮不是稱義的原因，只是「因信稱義的印證」(*sphragis*，印記/封印)，是後來才加添的記號。這使亞伯拉罕能同時作兩種人的父：未受割禮而信的外邦人，以及受割禮又行在信心蹤跡中的猶太人。
 
-### 5. 應許本於信，不本於律法（4:13-17）
+### 3. 應許本於信，不本於律法 (4:13-17)
 
 如果承受應許的資格是「屬乎律法」，那麼信心就落空，應許也作廢——因為沒有人能完全遵行律法（羅3:20）。應許之所以能「定然」臨到「一切後裔」，正是因為它的根基是恩典而非律法表現：恩典的應許不會因人的失敗而落空，律法的承諾卻必然因人的失敗而落空。
 
-### 6. 亞伯拉罕信心的性質：望向不可能，仰望神的大能（4:18-21）
+### 4. 亞伯拉罕信心的性質，以及稱義的終極根基 (4:18-25)
 
-亞伯拉罕的信心不是盲目樂觀，而是清醒地正視「身體如同已死」、「撒拉的生育已經斷絕」的事實，然後把眼光轉向那位「叫死人復活、使無變為有的神」。這信心「不軟弱」、「總沒有因不信心裏起疑惑」、「反倒因信心裏得堅固」——這幾個動詞描寫的是一個持續增長的過程，不是一次性的決志。
-
-### 7. 4:25——稱義的終極根基是基督的死而復活
-
-「耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義」——這是全章、也是全部因信稱義教義的收束句。亞伯拉罕相信一位「叫死人復活」的神，這信心的真正對象，如今顯明就是那位使耶穌從死裏復活的神。沒有復活，就沒有稱義的根基；正如哥林多前書15:17所言：「基督若沒有復活，你們的信便是徒然，你們仍在罪裏。」
+亞伯拉罕的信心不是盲目樂觀，而是清醒地正視「身體如同已死」、「撒拉的生育已經斷絕」的事實，然後把眼光轉向那位「叫死人復活、使無變為有的神」。這信心「不軟弱」、「總沒有因不信心裏起疑惑」、「反倒因信心裏得堅固」——這幾個動詞描寫的是一個持續增長的過程，不是一次性的決志。「耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義」——這是全章、也是全部因信稱義教義的收束句。亞伯拉罕相信一位「叫死人復活」的神，這信心的真正對象，如今顯明就是那位使耶穌從死裏復活的神。沒有復活，就沒有稱義的根基；正如哥林多前書15:17所言：「基督若沒有復活，你們的信便是徒然，你們仍在罪裏。」
 
 ---
 
@@ -2044,32 +1860,36 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 > 出處：對加爾文《基督教要義》卷三第11章與《羅馬書註釋》相關論述精神的一般性歸納，非逐字引句。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**從辯詞到見證**：摩根指出，羅馬書1-3章的筆法近乎法庭辯詞——保羅像檢察官一樣，逐項列舉外邦人、猶太人的罪狀，直到3:20「凡有血氣的，沒有一個因行律法能在神面前稱義」。第4章的筆調卻整個轉變——保羅不再辯論，而是舉證：他請出猶太人最敬重的見證人亞伯拉罕與大衛，讓他們親口證明，因信稱義從來不是新教義。
+
+**亞伯拉罕作為「信心的原型」**：摩根一貫強調，保羅選擇亞伯拉罕不是隨機取例，而是因為亞伯拉罕在猶太人的自我認同裏佔據著無可取代的地位——「我們的父」。如果連這位「父」都要靠信心才蒙悅納，任何後裔靠血統、靠律法的誇口就都站立不住。摩根將這種論證方式稱為「用對手最堅固的堡壘，證明對手的立場本身站不住」。
+
+**「使無變為有」的創造性信心**：摩根特別看重4:17「叫死人復活、使無變為有的神」這句描述——這不只是亞伯拉罕個人處境的寫照（撒拉的不孕、身體的衰老），更是整本羅馬書救恩論的縮影：神的恩典從來不是修補已有的良善，而是從無到有的創造性作為，正如稱義本身不是承認人原本的義，而是神創造性地宣告、賜下本來沒有的義。
+
+> 出處：對 G. Campbell Morgan 羅馬書相關講章（含《The Analyzed Bible》系列對羅馬書因信稱義主題的論述精神）之一般性、綜合性歸納轉述，非逐字引句、無具體篇章頁碼。
+
+### 麥克阿瑟 (John MacArthur)
 
 > 「『算』(*logizomai*) 這個詞非常重要——意思是『記在某人賬上、歸算、算為』。亞伯拉罕的信被算為義——這是稱義教義的核心。」
 > — 麥克阿瑟論羅馬書4章亞伯拉罕的信（已於本書《羅馬書概覽》一章核實引用）
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 32:1-2
 
-> **得赦免其過、遮蓋其罪的，這人是有福的！**
+> **得赦免其過、遮蓋其罪的，這人是有福的！** \
 > 凡心裏沒有詭詐、耶和華不算為有罪的，這人是有福的！
 
-> **Blessed is the one whose transgression is forgiven,**
-> **whose sin is covered.**
-> Blessed is the man against whom the LORD counts no iniquity,
-> and in whose spirit there is no deceit.
+> **How blessed is he whose transgression is forgiven,** \
+> **Whose sin is covered!** \
+> How blessed is the man to whom the LORD does not impute iniquity, \
+> And in whose spirit there is no deceit!
 
 保羅在羅馬書4:7-8 直接引用這兩節，作為大衛對「因信稱義」的見證——大衛所描述的「有福」不是行為配得，而是罪被「不算」、被「遮蓋」。這與亞伯拉罕的「算為義」是同一個恩典邏輯的兩面：一面是神不將罪歸於人，一面是神將義歸給人。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### My Hope Is Built on Nothing Less
 
@@ -2082,63 +1902,19 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**從辯詞到見證**：摩根指出，羅馬書1-3章的筆法近乎法庭辯詞——保羅像檢察官一樣，逐項列舉外邦人、猶太人的罪狀，直到3:20「凡有血氣的，沒有一個因行律法能在神面前稱義」。第4章的筆調卻整個轉變——保羅不再辯論，而是舉證：他請出猶太人最敬重的見證人亞伯拉罕與大衛，讓他們親口證明，因信稱義從來不是新教義。
-
-**亞伯拉罕作為「信心的原型」**：摩根一貫強調，保羅選擇亞伯拉罕不是隨機取例，而是因為亞伯拉罕在猶太人的自我認同裏佔據著無可取代的地位——「我們的父」。如果連這位「父」都要靠信心才蒙悅納，任何後裔靠血統、靠律法的誇口就都站立不住。摩根將這種論證方式稱為「用對手最堅固的堡壘，證明對手的立場本身站不住」。
-
-**「使無變為有」的創造性信心**：摩根特別看重4:17「叫死人復活、使無變為有的神」這句描述——這不只是亞伯拉罕個人處境的寫照（撒拉的不孕、身體的衰老），更是整本羅馬書救恩論的縮影：神的恩典從來不是修補已有的良善，而是從無到有的創造性作為，正如稱義本身不是承認人原本的義，而是神創造性地宣告、賜下本來沒有的義。
-
-> 出處：對 G. Campbell Morgan 羅馬書相關講章（含《The Analyzed Bible》系列對羅馬書因信稱義主題的論述精神）之一般性、綜合性歸納轉述，非逐字引句、無具體篇章頁碼。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**「你們若不信摩西的書，怎能信我的話？」**（化用約5:47）——老弟兄一貫的查經根基，正落在羅馬書4章上得著最直接的印證。他常提醒：很多信徒跳過創世記直接讀福音書、書信，結果讀到「因信稱義」時只把它當作保羅個人的神學創見，卻不知道這道理早已寫在摩西五經裏——創世記15:6，比西奈山頒布律法還早了四百三十年。
-
-**「亞伯拉罕怎樣因信稱義，耶穌的赦罪才有意義」**——這是老弟兄另一句常提醒的話，正是這一章的核心。若稱義的邏輯從創世記到羅馬書都是一致的——神稱信祂的人為義，不是因為他們配得，而是因為祂的應許與恩典——那麼耶穌對罪人說「你的罪赦了」就不是憑空施恩，而是延續神從亞伯拉罕時代就已經定下的救法。反過來說，若不明白亞伯拉罕的因信稱義，就很難真正明白耶穌赦罪的權柄從何而來，也很難明白十字架為何是必要的——因為義終究要「算」在某處：算在人自己身上（人必永遠虧欠），或算在代替者身上（十字架）。
-
-**兩大國度的框架應用在亞伯拉罕身上**：老弟兄常用「塔」（巴別，高舉人名）與「壇」（亞伯拉罕，敬拜神名）的對比框架讀創世記，這個框架同樣照亮羅馬書4章——亞伯拉罕一生沒有靠自己「建造」甚麼來換取神的稱許，他所做的只是「信」與「築壇」。羅馬書4章證明了這一點在神學上的份量：稱義從不是「建塔」式的自我證明，而是「築壇」式的單純倚靠。
-
-**帶領提問**：
-- 你讀羅馬書4章之前，知道創世記15:6這節經文嗎？如果因信稱義早在西奈山頒布律法四百三十年前就已經寫在聖經裏，這對你原本以為「稱義是保羅的神學創見」的想法有甚麼衝擊？
-- 亞伯拉罕稱義的時候還沒有受割禮——如果連猶太人最看重的身份記號都不是稱義的原因，你今天倚靠的「割禮」是甚麼（宗教背景、教會資歷、事奉年日）？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*My Hope Is Built on Nothing Less*（如前「配詩」所引）
-
-> On Christ, the solid Rock, I stand;
-> All other ground is sinking sand,
-> All other ground is sinking sand.
-
-**詩篇**：詩篇32:1
-
-> 得赦免其過、遮蓋其罪的，這人是有福的！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：亞伯拉罕怎樣因信稱義，耶穌的赦罪才有意義——稱義從來不是靠工價換來的功德，而是神白白算給信祂之人的恩典。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一條從創世記直通新約書信的因信稱義主線。
+**因信稱義源流線**：創世記15:6「亞伯蘭信耶和華，耶和華就以此為他的義」是整條主線的源頭，比割禮（創17章）早，比西奈山頒布律法早四百三十年。保羅在羅馬書4章把這節經文當作全章的核心引句（4:3, 22），反覆論證：稱義的方式從亞伯拉罕到今天從未改變。老弟兄常用「塔」（巴別，高舉人名）與「壇」（亞伯拉罕，敬拜神名）的對比框架讀創世記——亞伯拉罕一生沒有靠自己「建造」甚麼來換取神的稱許，他所做的只是「信」與「築壇」；羅馬書4章證明了這一點的份量：稱義從不是「建塔」式的自我證明，而是「築壇」式的單純倚靠。
 
-**創世記15:6**——「亞伯蘭信耶和華，耶和華就以此為他的義。」這是整條主線的源頭，比割禮（創17章）早，比西奈山律法早四百三十年。
+**加拉太書呼應線**：加拉太書3:6-9「正如亞伯拉罕『信神，這就算為他的義』。所以你們要知道：那以信為本的人，就是亞伯拉罕的子孫。……以信為本的人，和有信心的亞伯拉罕一同得福。」保羅在加拉太書用幾乎同一句經文（創15:6），對付的是另一群人——想靠割禮和律法「補足」因信稱義的加拉太教會。羅馬書與加拉太書像兩支軍隊從不同方向攻打同一座城：一個駁斥猶太人靠血統與律法的誇口，一個駁斥外邦信徒被說服要靠律法「加分」的軟弱。
 
-**羅馬書4章**——保羅把這節經文當作全章的核心引句（4:3, 22），反覆論證：稱義的方式從亞伯拉罕到今天從未改變。
-
-**加拉太書3:6-9**——「正如亞伯拉罕『信神，這就算為他的義』。所以你們要知道：那以信為本的人，就是亞伯拉罕的子孫。……以信為本的人，和有信心的亞伯拉罕一同得福。」保羅在加拉太書用幾乎同一句經文（創15:6），對付的是另一群人——想靠割禮和律法「補足」因信稱義的加拉太教會。羅馬書與加拉太書像兩支軍隊從不同方向攻打同一座城：一個駁斥猶太人靠血統與律法的誇口，一個駁斥外邦信徒被說服要靠律法「加分」的軟弱。
-
-**雅各書2:21-24**——「我們的祖宗亞伯拉罕把他兒子以撒獻在壇上，豈不是因行為稱義嗎？……這樣看來，人稱義是因著行為，不是單因著信。」這節經文表面上與保羅正面衝突，但仔細讀會發現，雅各處理的是另一個問題：不是「人如何在神面前最初被稱義」（保羅的問題，答案是單靠信），而是「一個聲稱有信心卻毫無行為的人，他的信心是真是假」（雅各的問題，雅2:14-20已經鋪陳）。雅各所舉的「獻以撒」（創22章）發生在亞伯拉罕已經因信稱義（創15章）之後至少二十多年——雅各要證明的是：真信心必然結出行為的果子，獻以撒是亞伯拉罕已有之信心的「顯明」，不是他稱義的「原因」。保羅講的是稱義的根，雅各講的是生命的果；兩者不是矛盾，而是同一棵樹的不同部位。
-
-這條線給我們看見：神的救法從創世記到書信，是一條沒有斷過的線——因信稱義（源頭在創15章）、因信與律法無關（加拉太書的戰場）、真信心必有行為印證（雅各書的提醒）。三段經文合起來，才是完整的「因信稱義」教義。
+**雅各書行為印證線**：雅各書2:21-24「我們的祖宗亞伯拉罕把他兒子以撒獻在壇上，豈不是因行為稱義嗎？……這樣看來，人稱義是因著行為，不是單因著信。」這節經文表面上與保羅正面衝突，但仔細讀會發現，雅各處理的是另一個問題：不是「人如何在神面前最初被稱義」（保羅的問題，答案是單靠信），而是「一個聲稱有信心卻毫無行為的人，他的信心是真是假」（雅各的問題，雅2:14-20已經鋪陳）。雅各所舉的「獻以撒」（創22章）發生在亞伯拉罕已經因信稱義（創15章）之後至少二十多年——雅各要證明的是：真信心必然結出行為的果子，獻以撒是亞伯拉罕已有之信心的「顯明」，不是他稱義的「原因」。保羅講的是稱義的根，雅各講的是生命的果；兩者不是矛盾，而是同一棵樹的不同部位。這條線給我們看見：神的救法從創世記到書信，是一條沒有斷過的線——因信稱義（源頭在創15章）、因信與律法無關（加拉太書的戰場）、真信心必有行為印證（雅各書的提醒）。三段經文合起來，才是完整的「因信稱義」教義。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -2161,17 +1937,9 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 - **晚上**：今天我是否又不自覺地想先靠某種「證明」，才敢相信神真的顧念我？
 - **一個行動**：今天向一位覺得自己「不夠好」而灰心的弟兄姊妹，具體傳講「神稱不虔者為義」這句話。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：亞伯拉罕怎樣因信稱義，耶穌的赦罪才有意義——稱義從來不是靠工價換來的功德，而是神白白算給信祂之人的恩典。
-
-**貫通全經**：創世記15:6「亞伯蘭信耶和華，耶和華就以此為他的義」，比律法早四百三十年——因信稱義是神從起初一貫的救法，不是保羅或路德的發明。
-
-**無法迴避的問題**：「你今天倚靠的『割禮』是甚麼——是教會資歷、服事年日，還是『我至少比別人努力』？」
-
 > 「你們若不信摩西的書，怎能信我的話？亞伯拉罕怎樣因信稱義，耶穌的赦罪才有意義。」（前半句化用約5:47）
+
+**你看見耶穌了嗎**：整章沒有一次直接說出「耶穌」二字，直到24-25節才揭曉——亞伯拉罕所信的那位「叫死人復活、使無變為有的神」，正是「使我們的主耶穌從死裏復活」的神。亞伯拉罕仰望一個尚未存在的應許，我們仰望一個已經成就的事實：耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義。亞伯拉罕的信心望向前方，我們的信心望向十字架與空墳墓——你看見那位從未改變、始終信實的神了嗎？
 
 ---
 
@@ -2179,13 +1947,11 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ### 默想問題
 
-1. **我的稱義根基是甚麼？**：我是否在不自覺中，把某種「表現」（服事、道德、宗教背景）當作神悅納我的原因？
+1. **仰望復活的神**：我是否像亞伯拉罕一樣，在自己「如同已死」的處境中（人力用盡、關係破裂、事業停滯），仍仰望那位「叫死人復活」的神？
 
 2. **恩典還是工價？**：如果稱義是恩典，不是工價，我為甚麼還常常用「賺功德」的心態面對神？
 
-3. **不虔者的福分**：神「稱不虔者為義」這句話，對我而言是好消息，還是讓我不安？為甚麼？
-
-4. **仰望復活的神**：我是否像亞伯拉罕一樣，在自己「如同已死」的處境中（人力用盡、關係破裂、事業停滯），仍仰望那位「叫死人復活」的神？
+3. **保羅與雅各**：保羅在羅馬書4章與雅各在雅各書2章都討論亞伯拉罕的稱義，看似結論相反——我能否用自己的話說出，為甚麼兩者其實並不矛盾？
 
 ### 禱告回應
 
@@ -2200,21 +1966,21 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅為甚麼特別選擇亞伯拉罕（而不是隨便一個外邦人）作為因信稱義的例證？這個選擇的說服力在哪裏？
-
-2. 「算」(*logizomai*) 這個會計術語，如何幫助我們理解「稱義」不是道德品質的改變，而是地位的宣告？
-
-3. 恩典（*charis*）與工價（*opheilēma*）為甚麼互相排斥？如果稱義摻雜一絲行為的功勞，會產生甚麼神學後果？
-
-4. 亞伯拉罕稱義的時間（創15章）早於受割禮的時間（創17章），這個年代學上的事實，如何拆解猶太人「靠割禮誇口」的立場？
-
-5. 保羅（羅馬書4章）與雅各（雅各書2章）都討論亞伯拉罕的稱義，卻得出看似不同的結論。請整理兩者各自回答的問題是甚麼，說明他們為何不矛盾。
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 因信稱義的舊約源頭 | 4:3, 22 | 創15:6 |
+| 稱義先於割禮，先於獻以撒的忠信考驗 | 4:9-12 | 創17章、創22章 |
+| 神稱「不虔者」為義的驚人宣告 | 4:5 | 出23:7 |
+| 恩典與工價互斥的邏輯 | 4:4-5, 16 | 羅11:6 |
+| 大衛的見證：罪不被算，義被算 | 4:6-8 | 詩32:1-2 |
+| 應許本於信，不因律法；雅各書的行為印證 | 4:13-17 | 加3:6-9, 17, 19；雅2:21-24 |
+| 稱義的終極根基：基督的死而復活 | 4:24-25 | 林前15:17 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論之忠實應用、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -2224,9 +1990,13 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 羅馬書 5:1-21
 
----
+**經文核對**：[ai-eden.com/bible/romans/5](https://www.ai-eden.com/bible/romans/5?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：和好 Katallagē** \
+> **全書坐標**：卷二「因信稱義」的收束。論證從法庭走進家中——稱義的判決（3-4章）帶出與神相和的關係（5:1-11）；末段再以亞當與基督兩個元首的對比（5:12-21），把個人的稱義擴大成全人類的兩條線，並為6章「與基督聯合」開路。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 3-4章證明了「因信稱義」的道理，5章回答的是「稱了義又怎樣？」——答案不是一種感覺，而是一個人：耶穌基督。我們「藉著我們的主耶穌基督」得與神相和（5:1）、「藉著他」得進入恩典（5:2）、「藉著他」得免神的忿怒（5:9）、「藉著他的生」得救（5:10）。從12節起，保羅把鏡頭拉到最遠——不再只看某一個人的信心旅程，而看整個人類的兩個元首：亞當與基督。凡在亞當裏的，承受死的轄制；凡在基督裏的，承受恩典的掌權。這一章從頭到尾都在說一件事：一切都「藉著他」，一切都「在他裏面」。
 
@@ -2234,27 +2004,27 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ## 配詩 (Opening Hymn)
 
-> **Grace Greater Than Our Sin**
+> **Grace Greater Than Our Sin** \
 > *Julia H. Johnston, 1911*
 >
-> Marvelous grace of our loving Lord,
-> Grace that exceeds our sin and our guilt!
-> Yonder on Calvary's mount outpoured,
+> Marvelous grace of our loving Lord, \
+> Grace that exceeds our sin and our guilt! \
+> Yonder on Calvary's mount outpoured, \
 > There where the blood of the Lamb was spilt.
 >
-> Grace, grace, God's grace,
-> Grace that will pardon and cleanse within;
-> Grace, grace, God's grace,
+> Grace, grace, God's grace, \
+> Grace that will pardon and cleanse within; \
+> Grace, grace, God's grace, \
 > Grace that is greater than all our sin!
 >
-> 我主奇妙恩典何等浩大，
-> 恩典勝過我一切罪污！
-> 各各他山上恩流傾下，
+> 我主奇妙恩典何等浩大， \
+> 恩典勝過我一切罪污！ \
+> 各各他山上恩流傾下， \
 > 羔羊寶血在那裏流出。
 >
-> 恩典，恩典，神的恩典，
-> 恩典赦免、潔淨我裏面；
-> 恩典，恩典，神的恩典，
+> 恩典，恩典，神的恩典， \
+> 恩典赦免、潔淨我裏面； \
+> 恩典，恩典，神的恩典， \
 > 恩典勝過我一切罪愆！
 
 ---
@@ -2262,6 +2032,8 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 ai-eden.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}我們既因信稱義，就藉著我們的主耶穌基督**得與神相和**。\textsuperscript{2}我們又藉著他，因信得進入現在所站的這恩典中，並且歡歡喜喜盼望神的榮耀。
 
@@ -2277,23 +2049,21 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 > **\textsuperscript{18}如此說來，因一次的過犯，眾人都被定罪；照樣，因一次的義行，眾人也就被稱義得生命了。\textsuperscript{19}因一人的悖逆，眾人成為罪人；照樣，因一人的順從，眾人也成為義了。\textsuperscript{20}律法本是外添的，叫過犯顯多；只是罪在那裏顯多，恩典就更顯多了。\textsuperscript{21}就如罪作王叫人死；照樣，恩典也藉著義作王，叫人因我們的主耶穌基督得永生。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 ai-eden.com 逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> **\textsuperscript{1}Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,** \textsuperscript{2}through whom also we have obtained our introduction by faith into this grace in which we stand; and we exult in hope of the glory of God.
 
-> **\textsuperscript{1}Therefore, since we have been justified by faith, we have peace with God through our Lord Jesus Christ.** \textsuperscript{2}Through him we have also obtained access by faith into this grace in which we stand, and we rejoice in hope of the glory of God.
+> \textsuperscript{3}And not only this, but we also exult in our tribulations, knowing that tribulation brings about perseverance; \textsuperscript{4}and perseverance, proven character; and proven character, hope; \textsuperscript{5}and hope does not disappoint, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.
 
-> \textsuperscript{3}Not only that, but we rejoice in our sufferings, knowing that suffering produces endurance, \textsuperscript{4}and endurance produces character, and character produces hope, \textsuperscript{5}and hope does not put us to shame, because God's love has been poured into our hearts through the Holy Spirit who has been given to us.
+> \textsuperscript{6}For while we were still helpless, at the right time Christ died for the ungodly. \textsuperscript{7}For one will hardly die for a righteous man; though perhaps for the good man someone would dare even to die. **\textsuperscript{8}But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.**
 
-> \textsuperscript{6}For while we were still weak, at the right time Christ died for the ungodly. \textsuperscript{7}For one will scarcely die for a righteous person—though perhaps for a good person one would dare even to die— **\textsuperscript{8}but God shows his love for us in that while we were still sinners, Christ died for us.**
+> \textsuperscript{9}Much more then, having now been justified by His blood, we shall be saved from the wrath *of God* through Him. \textsuperscript{10}For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life. \textsuperscript{11}And not only this, but we also exult in God through our Lord Jesus Christ, through whom we have now received the reconciliation.
 
-> \textsuperscript{9}Since, therefore, we have now been justified by his blood, much more shall we be saved by him from the wrath of God. \textsuperscript{10}For if while we were enemies we were reconciled to God by the death of his Son, much more, now that we are reconciled, shall we be saved by his life. \textsuperscript{11}More than that, we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.
+> **\textsuperscript{12}Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned— \textsuperscript{13}for until the Law sin was in the world, but sin is not imputed when there is no law. \textsuperscript{14}Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the offense of Adam, who is a type of Him who was to come.**
 
-> **\textsuperscript{12}Therefore, just as sin came into the world through one man, and death through sin, and so death spread to all men because all sinned— \textsuperscript{13}for sin indeed was in the world before the law was given, but sin is not counted where there is no law. \textsuperscript{14}Yet death reigned from Adam to Moses, even over those whose sinning was not like the transgression of Adam, who was a type of the one who was to come.**
+> **\textsuperscript{15}But the free gift is not like the transgression. For if by the transgression of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, abound to the many. \textsuperscript{16}The gift is not like *that which came* through the one who sinned; for on the one hand the judgment *arose* from one *transgression* resulting in condemnation, but on the other hand the free gift *arose* from many transgressions resulting in justification. \textsuperscript{17}For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.**
 
-> **\textsuperscript{15}But the free gift is not like the trespass. For if many died through one man's trespass, much more have the grace of God and the free gift by the grace of that one man Jesus Christ abounded for many. \textsuperscript{16}And the free gift is not like the result of that one man's sin. For the judgment following one trespass brought condemnation, but the free gift following many trespasses brought justification. \textsuperscript{17}For if, because of one man's trespass, death reigned through that one man, much more will those who receive the abundance of grace and the free gift of righteousness reign in life through the one man Jesus Christ.**
-
-> **\textsuperscript{18}Therefore, as one trespass led to condemnation for all men, so one act of righteousness leads to justification and life for all men. \textsuperscript{19}For as by the one man's disobedience the many were made sinners, so by the one man's obedience the many will be made righteous. \textsuperscript{20}Now the law came in to increase the trespass, but where sin increased, grace abounded all the more, \textsuperscript{21}so that, as sin reigned in death, grace also might reign through righteousness leading to eternal life through Jesus Christ our Lord.**
+> **\textsuperscript{18}So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men. \textsuperscript{19}For as through the one man's disobedience the many were made sinners, even so through the obedience of the One the many will be made righteous. \textsuperscript{20}The Law came in so that the transgression would increase; but where sin increased, grace abounded all the more, \textsuperscript{21}so that, as sin reigned in death, even so grace would reign through righteousness to eternal life through Jesus Christ our Lord.**
 
 ---
 
@@ -2319,7 +2089,7 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|--------------------|--------------------------|-------------------|-------------------|
 | εἰρήνη | eirēnē | 和好、平安 | 不只是敵意的消失，而是一個被重建、恢復的關係狀態（5:1） |
 | προσαγωγή | prosagōgē | 進入、引見 | 古代宮廷用語，指被引見到君王面前的特權（5:2） |
 | καυχάομαι | kauchaomai | 誇口、歡喜盼望 | 5:2、5:3、5:11 三次出現，是全段的情感主線 |
@@ -2329,7 +2099,7 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 | παράβασις | parabasis | 逾越誡命 | 5:14，特指違犯已知的、成文的命令（與亞當在伊甸園裏明確被吩咐相關） |
 | ἁμαρτία | hamartia | 罪 | 更廣義，指罪這個權勢、狀態，5:12-21中與「死」並列作為轄制人的兩股勢力 |
 | ὑπακοή | hypakoē | 順從 | 5:19，與亞當的「悖逆」（*parakoē*）相對，指基督在十字架上的順服 |
-| ὑπερεπερίσσευσεν | hypereperisseusen（原形 hyperperisseuō） | 格外顯多、超越增多 | 5:20，*perisseuō*（充盈、有餘）加上前綴*hyper*（超越）構成的加強複合動詞，保羅似乎特意用這個較罕見的強化形式，要說恩典不只是「多」，而是「超越所需地多」 |
+| ὑπερεπερίσσευσεν | hypereperisseusen | 格外顯多、超越增多 | 原形 hyperperisseuō（5:20）。此字由「充盈、有餘」之意的 *perisseuō* 加上表「超越」的前綴 *hyper* 構成，是較罕見的加強複合動詞；保羅似乎特意用這個形式，要說恩典不只是「多」，而是「超越所需地多」 |
 
 ### *eirēnē* 與 *prosagōgē* 的宮廷意象
 
@@ -2341,43 +2111,25 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 稱義的三重「現在」（5:1-2）
+### 1. 稱義的三重「現在」與苦難的煉金術（5:1-5）
 
-「我們既因信稱義」用的是不定過去式被動分詞（*dikaiōthentes*）——指向一件已然成就的事實，不是一個仍在等待、仍需努力鞏固的過程。緊接著三個現在的果實：
+「我們既因信稱義」用的是不定過去式被動分詞（*dikaiōthentes*）——指向一件已然成就的事實，不是一個仍在等待、仍需努力鞏固的過程。緊接著三個現在的果實：**和好**（現在擁有的關係）、**恩典中的站立**（現在擁有的地位）、**對神榮耀的盼望**（現在擁有的方向）。平安不是一種情緒上的平靜感，而是一個客觀已成就的狀態——正如兩國簽署和約，不論人民當下心情如何，和平已經法律上生效。保羅沒有說「苦難消失了」，而是說「患難生忍耐，忍耐生老練，老練生盼望」——一條從苦難通向盼望的鏈子。這條鏈子之所以走得通，不是因為苦難本身有魔力，而是因為5:5的那句話：「所賜給我們的聖靈將神的愛澆灌在我們心裏。」「澆灌」（*ekkechytai*）是完成式，描述一次性、卻持續浸潤的傾倒——不是一滴一滴地施捨，而是像水漫過整片土地。
 
-- **和好**（現在擁有的關係）
-- **恩典中的站立**（現在擁有的地位）
-- **對神榮耀的盼望**（現在擁有的方向）
+### 2. 恩典的定義句與「何況」邏輯的確據（5:6-11）
 
-平安不是一種情緒上的平靜感，而是一個客觀已成就的狀態——正如兩國簽署和約，不論人民當下心情如何，和平已經法律上生效。
+5:8是全本聖經對「恩典」最精煉的定義：不是神愛可愛的人，而是「我們還作罪人的時候」，基督就為我們死。5:6用了「不敬虔的人」（*asebōn*）——不是道德上還過得去的人，是與神為敵、毫無資格的人。恩典不是神看見我們裏面某些值得愛的東西才愛我們；恩典是神在我們裏面毫無可愛之處時，仍然愛我們——這正是恩典與一般意義下「愛」最根本的分別。如果神在我們是罪人、仇敵時，就已經完成了最難的一步（稱義、和好），那麼已經稱義、已經和好之人蒙保守到底，豈不是邏輯上更容易確定的事？保羅不是在教一套抽象的道理，而是在為信徒的確據立根基：你今天的信心若軟弱，不要從自己的感覺找答案，要從十字架已經成就的事實找答案。
 
-### 2. 苦難的煉金術（5:3-5）
-
-保羅沒有說「苦難消失了」，而是說「患難生忍耐，忍耐生老練，老練生盼望」——一條從苦難通向盼望的鏈子。這條鏈子之所以走得通，不是因為苦難本身有魔力，而是因為5:5的那句話：「所賜給我們的聖靈將神的愛澆灌在我們心裏。」「澆灌」（*ekkechytai*）是完成式，描述一次性、卻持續浸潤的傾倒——不是一滴一滴地施捨，而是像水漫過整片土地。
-
-### 3. 恩典的定義句（5:6-8）
-
-5:8是全本聖經對「恩典」最精煉的定義：不是神愛可愛的人，而是「我們還作罪人的時候」，基督就為我們死。5:6用了「不敬虔的人」（*asebōn*）——不是道德上還過得去的人，是與神為敵、毫無資格的人。恩典不是神看見我們裏面某些值得愛的東西才愛我們；恩典是神在我們裏面毫無可愛之處時，仍然愛我們——這正是恩典與一般意義下「愛」最根本的分別。
-
-### 4. 「何況」邏輯：從十字架到將來的確據（5:9-11）
-
-如果神在我們是罪人、仇敵時，就已經完成了最難的一步（稱義、和好），那麼已經稱義、已經和好之人蒙保守到底，豈不是邏輯上更容易確定的事？保羅不是在教一套抽象神學，而是在為信徒的確據立根基：你今天的信心若軟弱，不要從自己的感覺找答案，要從十字架已經成就的事實找答案。
-
-### 5. 亞當與基督：兩個元首的對比（5:12-21）
+### 3. 亞當與基督：兩個元首的對比（5:12-21）
 
 保羅的論證邏輯是「相同的結構，相反的方向」：一人的行動（過犯／義行）帶來一個結果（定罪／稱義），臨到「眾人」。這個結構本身要求讀者接受一個前提：人類不是一群互不相干的個體，而是被安放在某一位「代表元首」之下——亞當或基督。5:14稱亞當是「那以後要來之人的預像」（*typos*）——第一個亞當預表末後的亞當，兩人都不只是個人，都是代表全人類的元首。
 
 **5:12的難題，誠實地說**：「因為眾人都犯了罪」（*eph' hō pantes hēmarton*）這半節經文，是新約解經史上最受爭議的片語之一。歷代主要有三種理解方向：(a) 每個人都因親身犯罪而承受死的後果（伯拉糾式的個人責任論）；(b) 全人類在亞當犯罪的那一刻，已經在某種代表性的意義上「在他裏面」犯了罪，因此亞當的罪被算為全人類的罪（奧古斯丁及多數改革宗傳統的「原罪歸算」立場）；(c) 亞當開啟了罪與死轄制人類的權勢，後裔生在這權勢之下，因此都成為罪人並都親身犯罪（介於前兩者之間的「敗壞承襲」立場）。這是一個至今仍在認真的釋經者之間持續討論的問題，本書不強作解人替讀者下定論，而是誠實地把這幾條路擺在讀者面前——正如奧古斯丁與伯拉糾在主後五世紀初的論戰所顯明的，這個問題從古至今從未真正「一次性」被辯論完畢。
 
-### 6. 「不像」也「遠超」（5:15-17）
+### 4. 「不像」也「遠超」：恩典超越過犯的邏輯，以及律法的位置（5:15-21）
 
-保羅三次強調恩典的果效「不像」（*ouch hōs*）過犯的果效——不是同等份量的兩件事在拉鋸，而是恩典從一開始就在規模上遠超過犯。過犯只需要一次就帶來死的轄制；恩典卻要處理「許多過犯」卻仍然稱義（5:16）。這不是恩典「勉強打平」罪的破壞，而是恩典「大幅超越」罪的破壞。
-
-### 7. 律法的位置與恩典的「超越增多」（5:20-21）
-
-「律法本是外添的」——律法不是解決罪的方案，而是讓罪的性質更清楚顯露出來（把「罪」從模糊的狀態，變成具體可指認的「過犯」）。正是在罪被律法照得最清楚、看起來最無望的地方，保羅說「恩典就更顯多了」——原文*hypereperisseusen*是全段用詞最強烈的一個動詞，恩典不只是「夠用」，而是「格外地、超越地、滿溢地」湧流。這是整章的高峰句，也是下一章（羅6章）保羅要立刻處理的問題的伏筆——「這樣，我們可以仍在罪中，叫恩典顯多嗎？」（6:1）。
+保羅三次強調恩典的果效「不像」（*ouch hōs*）過犯的果效——不是同等份量的兩件事在拉鋸，而是恩典從一開始就在規模上遠超過犯。過犯只需要一次就帶來死的轄制；恩典卻要處理「許多過犯」卻仍然稱義（5:16）。這不是恩典「勉強打平」罪的破壞，而是恩典「大幅超越」罪的破壞。「律法本是外添的」——律法不是解決罪的方案，而是讓罪的性質更清楚顯露出來（把「罪」從模糊的狀態，變成具體可指認的「過犯」）。正是在罪被律法照得最清楚、看起來最無望的地方，保羅說「恩典就更顯多了」——原文*hypereperisseusen*是全段用詞最強烈的一個動詞，恩典不只是「夠用」，而是「格外地、超越地、滿溢地」湧流。這是整章的高峰句，也是下一章（羅6章）保羅要立刻處理的問題的伏筆——「這樣，我們可以仍在罪中，叫恩典顯多嗎？」（6:1）。
 
 ---
 
@@ -2403,37 +2155,43 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 這段記載與羅馬書5:5「所賜給我們的聖靈將神的愛澆灌在我們心裏」的語言遙相呼應——衛斯理所描述的，正是保羅所說「聖靈將神的愛澆灌在心裏」那種帶著確據、不再只是頭腦贊同、而是心裏真實經歷的信心。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫指出，5:1的「得與神相和」不是一種主觀感受，而是一個客觀成就的法律狀態——保羅用的是過去已完成的動詞，意思是「這和好已經確立，並持續有效」，信徒的確據應該建立在這個客觀事實上，而非隨著情緒起伏的主觀感覺。他也強調5:12-21的亞當—基督對比，是保羅在羅馬書中神學論證的高峰之一——唯有先明白人類全體在亞當裏所承受的定罪與死的轄制何等真實、何等徹底，才能明白基督所成就的稱義與生命何等更加真實、更加徹底。
+摩根一貫將5:1-11與5:12-21視為同一段論證的兩個層次——前段是「個人的經歷」（我因信稱義，得享平安），後段是「宇宙的圖景」（人類歷史的兩個元首）；他指出保羅寫作的邏輯次序極具智慧：先讓讀者確知自己個人已經得著的地位，再把這地位放進整個救恩歷史的宏大框架裏，使信徒不至於把稱義窄化為一種私人感受，而看見自己乃是被接入了一個新造的人類元首之下。
 
-**坎伯·摩根 (G. Campbell Morgan)**：摩根一貫將5:1-11與5:12-21視為同一段論證的兩個層次——前段是「個人的經歷」（我因信稱義，得享平安），後段是「宇宙的圖景」（人類歷史的兩個元首）；他指出保羅寫作的邏輯次序極具智慧：先讓讀者確知自己個人已經得著的地位，再把這地位放進整個救恩歷史的宏大框架裏，使信徒不至於把稱義窄化為一種私人感受，而看見自己乃是被接入了一個新造的人類元首之下。
+**從法庭到家中**：摩根指出，3:21-4:25所建立的「稱義」，若只停在法律宣告的層次，對一般信徒而言仍嫌抽象——5章的任務，正是把這個法律宣告翻譯成一個人可以實際站立、實際經歷的生命狀態。他將5:1-11的三個「藉著他」——藉著他得和好、藉著他得進入恩典、藉著他得免忿怒——比喻為一個被赦免的囚犯，不只被釋放出監牢，更被領回家中，坐在原本被得罪之人的桌前用飯。
+
+**「何況」是全段的骨架**：摩根一貫將5:9-10、5:15、5:17的「何況」（much more）視為保羅論證確據時最喜愛使用的修辭工具——若神在我們毫無資格時，就已經完成了最艱難、代價最高的一步（十字架），那麼已經稱義之人得蒙保守到底，邏輯上豈不是更容易確定的事？他認為，信徒許多的懼怕與不安，其實都是忘記了從「已成就的十字架」去推論「未來的確據」，反倒本末倒置，想從自己搖擺的感覺去證明神的信實。
+
+**兩個元首的宇宙圖景**：摩根強調，5:12-21把整章從「一個蒙恩之人的經歷」提升到「全人類歷史的結構」——亞當與基督，不是聖經裏的兩個普通人物，而是兩個代表人類命運方向的元首。他指出，若不先明白人類在亞當裏所承受的定罪何等真實、何等徹底地臨到「眾人」，就無法明白基督所成就的稱義與生命，何等同樣真實、同樣徹底地臨到「凡在他裏面的人」。
+
+> 出處：G. Campbell Morgan 羅馬書相關講章與著作對5章「稱義果實」與「亞當基督對比」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟一貫指出，5:1的「得與神相和」不是一種主觀感受，而是一個客觀成就的法律狀態——保羅用的是過去已完成的動詞，意思是「這和好已經確立，並持續有效」，信徒的確據應該建立在這個客觀事實上，而非隨著情緒起伏的主觀感覺。他也強調5:12-21的亞當—基督對比，是保羅在羅馬書中論證的高峰之一——唯有先明白人類全體在亞當裏所承受的定罪與死的轄制何等真實、何等徹底，才能明白基督所成就的稱義與生命何等更加真實、更加徹底。
 
 **誠實說明**：以上麥克阿瑟與坎伯·摩根之引句，均為對其著作與講道中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份或講題可逐字查核的原始引句；屈梭多模之陳述屬同一性質的一般性歸納。奧古斯丁與伯拉糾之爭乃真實可考的歷史事件（主後五世紀初，教會歷史文獻與大公會議記錄可查），此處僅作歷史背景之如實描述，未杜撰任何一方的逐字語錄。加爾文之陳述亦屬對其《羅馬書註釋》一貫解經立場的一般性歸納。唯一附有具體日期、且為逐字引句的是約翰·衛斯理1738年5月24日的日記原文，此為公開、可查證之一手史料。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 103:8-12
 
-> 耶和華有憐憫，有恩惠，不輕易發怒，且有豐盛的慈愛。
-> 他不長久責備，也不永遠懷怒。
-> **他沒有按我們的罪待我們，也沒有照我們的罪孽報應我們。**
-> 天離地何等的高，他的慈愛向敬畏他的人也是何等的大！
+> 耶和華有憐憫，有恩惠，不輕易發怒，且有豐盛的慈愛。 \
+> 他不長久責備，也不永遠懷怒。 \
+> **他沒有按我們的罪待我們，也沒有照我們的罪孽報應我們。** \
+> 天離地何等的高，他的慈愛向敬畏他的人也是何等的大！ \
 > 東離西有多遠，他叫我們的過犯離我們也有多遠！
 
-> The Lord is merciful and gracious, slow to anger and abounding in steadfast love.
-> He will not always chide, nor will he keep his anger forever.
-> **He does not deal with us according to our sins, nor repay us according to our iniquities.**
-> For as high as the heavens are above the earth, so great is his steadfast love toward those who fear him;
-> as far as the east is from the west, so far does he remove our transgressions from us.
+> The LORD is compassionate and gracious, Slow to anger and abounding in *lovingkindness*. \
+> He will not always strive *with us*, Nor will He keep *His anger* forever. \
+> **He has not dealt with us according to our sins, Nor rewarded us according to our iniquities.** \
+> For as high as the heavens are above the earth, So great is His *lovingkindness* toward those who fear Him. \
+> As far as the east is from the west, So far has He removed our transgressions from us.
 
 這篇詩篇早於保羅約一千年，已經用「東離西有多遠」描繪出一種超越量度的赦免——羅馬書5:20的「格外顯多」，正是這篇詩篇在十字架事件裏找到了最終的落地之處。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### Grace Greater Than Our Sin
 
@@ -2444,58 +2202,21 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 - 「各各他山上恩流傾下」— 呼應5:8「基督在我們還作罪人的時候為我們死」
 - 「恩典赦免、潔淨我裏面」— 呼應5:9「靠著他的血稱義」
 
-### 另一配詩：It Is Well with My Soul
+### It Is Well with My Soul
 
 Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace like a river attendeth my way」，正是羅馬書5:1「我們既因信稱義，就……得與神相和」在苦難中被實際活出來的見證——這首詩歌寫於他四個女兒在海難中喪生之後，是「患難生忍耐，忍耐生老練，老練生盼望」（5:3-4）最沉重也最真實的印證。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**從法庭到家中**：摩根指出，3:21-4:25所建立的「稱義」，若只停在法律宣告的層次，對一般信徒而言仍嫌抽象——5章的任務，正是把這個法律宣告翻譯成一個人可以實際站立、實際經歷的生命狀態。他將5:1-11的三個「藉著他」——藉著他得和好、藉著他得進入恩典、藉著他得免忿怒——比喻為一個被赦免的囚犯，不只被釋放出監牢，更被領回家中，坐在原本被得罪之人的桌前用飯。
-
-**「何況」是全段的骨架**：摩根一貫將5:9-10、5:15、5:17的「何況」（much more）視為保羅論證確據時最喜愛使用的修辭工具——若神在我們毫無資格時，就已經完成了最艱難、代價最高的一步（十字架），那麼已經稱義之人得蒙保守到底，邏輯上豈不是更容易確定的事？他認為，信徒許多的懼怕與不安，其實都是忘記了從「已成就的十字架」去推論「未來的確據」，反倒本末倒置，想從自己搖擺的感覺去證明神的信實。
-
-**兩個元首的宇宙圖景**：摩根強調，5:12-21把整章從「一個蒙恩之人的經歷」提升到「全人類歷史的結構」——亞當與基督，不是聖經裏的兩個普通人物，而是兩個代表人類命運方向的元首。他指出，若不先明白人類在亞當裏所承受的定罪何等真實、何等徹底地臨到「眾人」，就無法明白基督所成就的稱義與生命，何等同樣真實、同樣徹底地臨到「凡在他裏面的人」。
-
-> 出處：G. Campbell Morgan 羅馬書相關講章與著作對5章「稱義果實」與「亞當基督對比」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**先問「你站在哪裏」，再問「你信了甚麼」**：老弟兄帶查經時，習慣先讓人回到自己的生命光景，再進入教義。他會這樣問：「你今天早上起來，心裏是安的，還是不安的？你的平安，是靠今天的工作順不順利，還是靠一件已經成就、不會改變的事實？」5:1的「相和」不是一種情緒管理的技巧，而是一個已經簽了字、生效了的和約——問題不是「我今天覺得平安嗎」，而是「我知不知道我已經與神和好了」。
-
-**「你以為苦難是懲罰，還是煉金爐？」**：面對5:3-5的苦難鏈條，老弟兄不會安慰人「一切都會過去」，他會反問：「你遇見苦難時，第一個念頭是『神在懲罰我』，還是『神在煉我』？聖經沒有應許沒有苦難，聖經應許的是苦難有方向——通向老練、通向盼望，而不是通向絕望。」
-
-**亞當與基督：你活在哪一個元首之下？**：老弟兄一貫的查經方法是把個別經文放回整本聖經的骨架裏看——5:12-19若脫離創世記3章單獨讀，會顯得抽象；但一旦連上創世記3章的墮落，這一段就成了保羅對「人類為甚麼是現在這個光景」最完整的解釋。他會這樣提問：「創世記3章講一個人的悖逆，帶進了整個受造界的咒詛與死亡——你今天經歷的每一個死亡的痕跡（衰老、疾病、關係的破裂），根源都在那一章。羅馬書5章告訴你：這條線不是死路，因為有另一個『人』出現了，祂的順從，翻轉了第一個人的悖逆所帶來的一切。」
-
-**誠實說明——本節內容的出處**：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Grace Greater Than Our Sin*（如前「配詩」所引）
-
-> Grace, grace, God's grace,
-> Grace that will pardon and cleanse within;
-> Grace, grace, God's grace,
-> Grace that is greater than all our sin!
-
-**詩篇**：詩篇 103:12
-
-> 東離西有多遠，他叫我們的過犯離我們也有多遠！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：稱義不是一種感覺，是一個已經簽字生效的和約——你今天站在哪一個元首（亞當或基督）之下，決定了死轄制你，還是恩典掌權在你身上。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一人墮落，一人拯救——兩個元首，兩個人類。創世記3:17-19記載神對亞當說：「你既聽從你妻子的話……土地必因你的緣故受詛咒；你必終生勞苦才能從土地得吃的……你本是塵土，仍要歸回塵土。」死不是一個抽象的概念，是一個真實的、透過一個人的悖逆進入整個受造界的權勢。羅馬書5:12-14把這段歷史神學化：「罪是從一人入了世界，死又是從罪來的；於是死就臨到眾人」。
-
-這條線往前追到創世記3章的根，往後連到哥林多前書15:21-22保羅自己所作的總結：「既然死是因一人而來，死人復活也因一人而來。在亞當裏眾人都死了；同樣，在基督裏眾人也都要復活。」（*hōsper en tō Adam pantes apothnēskousin, houtōs kai en tō Christō pantes zōopoiēthēsontai*，「正如在亞當裏眾人都死了，照樣在基督裏眾人也都要復活。」）從創世記到羅馬書到哥林多前書，是同一條敘事線：第一個人帶進死，末後的亞當帶進復活的生命。
+**元首轉換線**：創世記3:17-19記載神對亞當說：「你既聽從你妻子的話……土地必因你的緣故受詛咒；你必終生勞苦才能從土地得吃的……你本是塵土，仍要歸回塵土。」死不是一個抽象的概念，是一個真實的、透過一個人的悖逆進入整個受造界的權勢。羅馬書5:12-14把這段歷史濃縮成一句話：「罪是從一人入了世界，死又是從罪來的；於是死就臨到眾人」。這條線往前追到創世記3章的根，往後連到哥林多前書15:21-22保羅自己所作的總結：「既然死是因一人而來，死人復活也因一人而來。在亞當裏眾人都死了；同樣，在基督裏眾人也都要復活。」（*hōsper en tō Adam pantes apothnēskousin, houtōs kai en tō Christō pantes zōopoiēthēsontai*，「正如在亞當裏眾人都死了，照樣在基督裏眾人也都要復活。」）從創世記到羅馬書到哥林多前書，是同一條敘事線：第一個人帶進死，末後的亞當帶進復活的生命。你今天經歷的每一個死亡的痕跡——衰老、疾病、關係的破裂——根源都在創世記3章那一次悖逆；羅馬書5章告訴你：這條線不是死路，因為有另一個「人」出現了，祂的順從，翻轉了第一個人的悖逆所帶來的一切。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -2518,17 +2239,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天遇見的患難，我是想辦法把它優化消除，還是讓它照著5:3-4的次序，在我裏面做工？
 - **一個行動**：今天向一個人具體活出「何況」的邏輯——如果神連我作仇敵時都愛我到底，我今天願不願意先原諒一個曾經得罪我的人。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：稱義不是一種感覺，是一個已經簽字生效的和約——你今天站在哪一個元首（亞當或基督）之下，決定了死轄制你，還是恩典掌權在你身上。
-
-**貫通全經**：創世記3章一人的悖逆帶進死的轄制（創3:17-19）；哥林多前書15:22收束——「在亞當裏眾人都死了；同樣，在基督裏眾人也都要復活。」
-
-**無法迴避的問題**：「你今天活著，是在亞當這個元首之下，還是已經轉換到基督這個元首之下？」
-
 > 「恩典不是勉強打平罪的破壞，是格外地、超越地淹過罪的破壞。你還在算計自己的罪有多重，配不配得恩典嗎？聖經說：哪裏罪顯多，哪裏恩典就更顯多。」
+
+**你看見耶穌了嗎**：這一章從頭到尾都在說一件事——一切都「藉著他」，一切都「在他裏面」。我們藉著他得與神相和，藉著他得進入恩典，藉著他免去神的忿怒，藉著他的生得救；凡在亞當裏的，承受死的轄制，凡在他裏面的，承受恩典的掌權。你今天所站的地位、所盼望的榮耀，沒有一樣不是「藉著他」——你看見這位耶穌了嗎？
 
 ---
 
@@ -2540,9 +2253,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 2. **苦難生老練**：回想最近一次的患難，我是任憑它把我磨成苦毒，還是讓它照著5:3-5的次序，通向忍耐、老練與盼望？
 
-3. **神愛的證據**：5:8說基督為「還作罪人」的我死——我是否曾經試圖用自己的表現去「配得」神的愛？今天我願不願意單單接受這份不是因為我配得、而是因為神願意賜下的愛？
-
-4. **我站在哪一個元首之下？**：亞當的悖逆與基督的順從，兩條線都經過我——我是否清楚知道自己此刻活在哪一位元首所掌權的生命裏？
+3. **恩典顯多會不會成為藉口？**：「哪裏罪顯多，哪裏恩典就更顯多」這句話會不會被誤用成「犯罪無妨」的藉口？羅馬書接下來（6:1-2）如何處理這個問題？
 
 ### 禱告回應
 
@@ -2556,23 +2267,17 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 「我們既因信稱義，就……得與神相和」——這句話用的是不定過去式被動分詞，這對「平安」的本質有甚麼提醒？平安是一種感覺，還是一個既成的事實？
-
-2. 5:3-5描述苦難如何一步步生出盼望——這條鏈子和一般人「苦難就是要撐過去」的想法有甚麼不同？
-
-3. 5:8如何定義「神的愛」？這個定義和一般人以「值不值得被愛」來理解愛，有甚麼根本的不同？
-
-4. 5:12「因為眾人都犯了罪」這句話為何在解經史上引起長期討論？請整理至少兩種理解的方向。
-
-5. 保羅為甚麼要在5:12-21花這麼長的篇幅講亞當與基督的對比？這對你理解「因信稱義」的果效範圍，有甚麼幫助？
-
-6. 「哪裏罪顯多，哪裏恩典就更顯多」——這句話會不會被誤用成「犯罪無妨」的藉口？羅馬書接下來（6:1-2）如何處理這個問題？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 元首轉換：亞當帶來死的轄制，基督帶來生命的掌權 | 5:12-21 | 創3:17-19、林前15:21-22 |
+| 神不照我們的罪過待我們 | 5:8-11 | 詩103:8-12 |
+| 恩典顯多，是否等於容讓罪惡：下一章的伏筆 | 5:20-21 | 羅6:1-2 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -2582,7 +2287,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 > 從「豈可仍在罪中」到「不能隔絕的愛」——6 章講地位，7 章講誠實，8 章講確據。
 
 | | |
-|---|---|
+|----------------------|-----------------------------------------------------------------|
 | **救恩的環節** | **成聖**——解決罪的權勢，天天進行 |
 | **鑰節** | 8:1「如今，那些在基督耶穌裏的就不定罪了」 |
 | **貫穿的問題** | 得救的人怎樣活？ |
@@ -2594,33 +2299,37 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 6:1-23
 
----
+**經文核對**：[ai-eden.com/bible/romans/6](https://www.ai-eden.com/bible/romans/6?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-這一章的動詞主詞看似是「我們」——我們死了、我們活著、我們獻上肢體——但整章真正的重心是「基督」。保羅不是說「你要努力向罪死」，而是說「基督已經向罪死了，只有一次」（6:10）；不是說「你要想辦法活出新生命」，而是說「基督既從死裏復活，就不再死，死也不再做他的主」（6:9）。我們的「向罪死、向神活」，不是一項新的屬靈成就，而是一個已經完成的事實的「算」（logizesthe，6:11）——因為我們已經與那一位死而復活的基督聯合。整章沒有一句話離得開祂：受洗，是歸入「祂的死」；復活，是像「祂」從死人中復活；奴僕的身分，換了新的主人，就是「我們的主基督耶穌」（6:23）。看不見這位已經得勝死亡的基督，這一章只會變成一套道德命令；看見了祂，這一章才成為福音——因祂活著，我們也必與祂同活。
+> **本章鑰詞：聯合 Symphytoi** \
+> **全書坐標**：6-8章是全羅馬書從「稱義」（3-5章：地位，一次性宣告）轉入「成聖」（權勢的對付，持續進行）的起點——老弟兄查經框架裏「稱義／成聖／得榮」三階段從第一階段跨入第二階段，正在此開始。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
+
+這一章的動詞主詞看似是「我們」——我們死了、我們活著、我們獻上肢體——但整章真正的重心是「基督」。保羅不是說「你要努力向罪死」，而是說「基督已經向罪死了，只有一次」（6:10）；不是說「你要想辦法活出新生命」，而是說「基督既從死裏復活，就不再死，死也不再作他的主」（6:9）。我們的「向罪死、向神活」，不是一項新的屬靈成就，而是一個已經完成的事實的「算」（logizesthe，6:11）——因為我們已經與那一位死而復活的基督聯合。整章沒有一句話離得開祂：受洗，是歸入「祂的死」；復活，是像「祂」從死人中復活；奴僕的身分，換了新的主人，就是「我們的主基督耶穌」（6:23）。看不見這位已經得勝死亡的基督，這一章只會變成一套道德命令；看見了祂，這一章才成為福音——因祂活著，我們也必與祂同活。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **O for a Thousand Tongues to Sing**
+> **O for a Thousand Tongues to Sing** \
 > *Charles Wesley, 1739*
 >
-> O for a thousand tongues to sing
-> My great Redeemer's praise,
-> The glories of my God and King,
+> O for a thousand tongues to sing \
+> My great Redeemer's praise, \
+> The glories of my God and King, \
 > The triumphs of His grace!
 >
-> He breaks the power of cancelled sin,
-> He sets the prisoner free;
-> His blood can make the foulest clean,
+> He breaks the power of cancelled sin, \
+> He sets the prisoner free; \
+> His blood can make the foulest clean, \
 > His blood availed for me.
 >
-> （大意譯述，非特定聖詩本之逐字譯文）
-> 願我有千萬張口，歌頌我救贖之主，
-> 頌揚我神我王的榮耀，頌揚祂恩典的得勝！
-> 祂破除已被塗抹之罪的權勢，祂釋放被囚的人；
+> （大意譯述，非特定聖詩本之逐字譯文） \
+> 願我有千萬張口，歌頌我救贖之主， \
+> 頌揚我神我王的榮耀，頌揚祂恩典的得勝！ \
+> 祂破除已被塗抹之罪的權勢，祂釋放被囚的人； \
 > 祂的血能潔淨最污穢的，祂的血也為我而流。
 
 ---
@@ -2629,81 +2338,77 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 中文 — 和合本 (CUV)
 
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
+
 > \textsuperscript{1}這樣，怎麼說呢？我們可以仍在罪中，叫恩典顯多嗎？\textsuperscript{2}斷乎不可！我們在罪上死了的人，豈可仍在罪中活著呢？
 
 > \textsuperscript{3}豈不知我們這受洗歸入基督耶穌的人，是受洗歸入他的死嗎？**\textsuperscript{4}所以，我們藉著洗禮歸入死，和他一同埋葬，原是叫我們一舉一動有新生的樣式，像基督藉著父的榮耀從死裏復活一樣。**
 
-> \textsuperscript{5}我們若在他死的形狀上與他聯合，也要在他復活的形狀上與他聯合。\textsuperscript{6}因為知道，我們的舊人和他同釘十字架，使罪身滅絕，叫我們不再做罪的奴僕，\textsuperscript{7}因為已死的人是脫離了罪。
+> \textsuperscript{5}我們若在他死的形狀上與他聯合，也要在他復活的形狀上與他聯合。\textsuperscript{6}因為知道，我們的舊人和他同釘十字架，使罪身滅絕，叫我們不再作罪的奴僕，\textsuperscript{7}因為已死的人是脫離了罪。
 
-> \textsuperscript{8}我們若是與基督同死，就信必與他同活。\textsuperscript{9}因為知道，基督既從死裏復活，就不再死，死也不再做他的主了。\textsuperscript{10}他死是向罪死了，只有一次；他活是向神活著。**\textsuperscript{11}這樣，你們向罪也當看自己是死的；向神，在基督耶穌裏，卻當看自己是活的。**
+> \textsuperscript{8}我們若是與基督同死，就信必與他同活。\textsuperscript{9}因為知道，基督既從死裏復活，就不再死，死也不再作他的主了。\textsuperscript{10}他死是向罪死了，只有一次；他活是向神活著。**\textsuperscript{11}這樣，你們向罪也當看自己是死的；向神，在基督耶穌裏，卻當看自己是活的。**
 
-> \textsuperscript{12}所以，不要容罪在你們必死的身上做王，使你們順從身子的私慾。\textsuperscript{13}也不要將你們的肢體獻給罪做不義的器具，倒要像從死裏復活的人，將自己獻給神，並將肢體做義的器具獻給神。\textsuperscript{14}罪必不能做你們的主，因你們不在律法之下，乃在恩典之下。
+> \textsuperscript{12}所以，不要容罪在你們必死的身上作王，使你們順從身子的私慾。\textsuperscript{13}也不要將你們的肢體獻給罪作不義的器具，倒要像從死裏復活的人，將自己獻給神，並將肢體作義的器具獻給神。\textsuperscript{14}罪必不能作你們的主，因你們不在律法之下，乃在恩典之下。
 
-> \textsuperscript{15}這卻怎麼樣呢？我們在恩典之下，不在律法之下，就可以犯罪嗎？斷乎不可！\textsuperscript{16}豈不曉得你們獻上自己做奴僕，順從誰，就做誰的奴僕嗎？或做罪的奴僕，以至於死；或做順命的奴僕，以致成義。\textsuperscript{17}感謝神！因為你們從前雖然做罪的奴僕，現今卻從心裏順服了所傳給你們道理的模範。\textsuperscript{18}你們既從罪裏得了釋放，就做了義的奴僕。\textsuperscript{19}我因你們肉體的軟弱，就照人的常話對你們說：你們從前怎樣將肢體獻給不潔、不法做奴僕，以至於不法；現今也要照樣將肢體獻給義做奴僕，以至於成聖。
+> \textsuperscript{15}這卻怎麼樣呢？我們在恩典之下，不在律法之下，就可以犯罪嗎？斷乎不可！\textsuperscript{16}豈不曉得你們獻上自己作奴僕，順從誰，就作誰的奴僕嗎？或作罪的奴僕，以至於死；或作順命的奴僕，以致成義。\textsuperscript{17}感謝神！因為你們從前雖然作罪的奴僕，現今卻從心裏順服了所傳給你們道理的模範。\textsuperscript{18}你們既從罪裏得了釋放，就作了義的奴僕。\textsuperscript{19}我因你們肉體的軟弱，就照人的常話對你們說：你們從前怎樣將肢體獻給不潔、不法作奴僕，以至於不法；現今也要照樣將肢體獻給義作奴僕，以至於成聖。
 
-> \textsuperscript{20}因為你們做罪之奴僕的時候，就不被義約束了。\textsuperscript{21}你們現今所看為羞恥的事，當日有甚麼果子呢？那些事的結局就是死。\textsuperscript{22}但現今，你們既從罪裏得了釋放，做了神的奴僕，就有成聖的果子，那結局就是永生。**\textsuperscript{23}因為罪的工價乃是死，唯有神的恩賜，在我們的主基督耶穌裏乃是永生。**
+> \textsuperscript{20}因為你們作罪之奴僕的時候，就不被義約束了。\textsuperscript{21}你們現今所看為羞恥的事，當日有甚麼果子呢？那些事的結局就是死。\textsuperscript{22}但現今，你們既從罪裏得了釋放，作了神的奴僕，就有成聖的果子，那結局就是永生。**\textsuperscript{23}因為罪的工價乃是死，惟有神的恩賜，在我們的主基督耶穌裏乃是永生。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com 逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> \textsuperscript{1}What shall we say then? Are we to continue in sin so that grace may increase? \textsuperscript{2}May it never be! How shall we who died to sin still live in it?
 
-> \textsuperscript{1}What shall we say then? Are we to continue in sin that grace may abound? \textsuperscript{2}By no means! How can we who died to sin still live in it?
+> \textsuperscript{3}Or do you not know that all of us who have been baptized into Christ Jesus have been baptized into His death? **\textsuperscript{4}Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life.**
 
-> \textsuperscript{3}Do you not know that all of us who have been baptized into Christ Jesus were baptized into his death? **\textsuperscript{4}We were buried therefore with him by baptism into death, in order that, just as Christ was raised from the dead by the glory of the Father, we too might walk in newness of life.**
+> \textsuperscript{5}For if we have become united with *Him* in the likeness of His death, certainly we shall also be *in the likeness* of His resurrection, \textsuperscript{6}knowing this, that our old self was crucified with *Him,* in order that our body of sin might be done away with, so that we would no longer be slaves to sin; \textsuperscript{7}for he who has died is freed from sin.
 
-> \textsuperscript{5}For if we have been united with him in a death like his, we shall certainly be united with him in a resurrection like his. \textsuperscript{6}We know that our old self was crucified with him in order that the body of sin might be brought to nothing, so that we would no longer be enslaved to sin. \textsuperscript{7}For one who has died has been set free from sin.
+> \textsuperscript{8}Now if we have died with Christ, we believe that we shall also live with Him, \textsuperscript{9}knowing that Christ, having been raised from the dead, is never to die again; death no longer is master over Him. \textsuperscript{10}For the death that He died, He died to sin once for all; but the life that He lives, He lives to God. **\textsuperscript{11}Even so consider yourselves to be dead to sin, but alive to God in Christ Jesus.**
 
-> \textsuperscript{8}Now if we have died with Christ, we believe that we will also live with him. \textsuperscript{9}We know that Christ, being raised from the dead, will never die again; death no longer has dominion over him. \textsuperscript{10}For the death he died he died to sin, once for all, but the life he lives he lives to God. **\textsuperscript{11}So you also must consider yourselves dead to sin and alive to God in Christ Jesus.**
+> \textsuperscript{12}Therefore do not let sin reign in your mortal body so that you obey its lusts, \textsuperscript{13}and do not go on presenting the members of your body to sin *as* instruments of unrighteousness; but present yourselves to God as those alive from the dead, and your members *as* instruments of righteousness to God. \textsuperscript{14}For sin shall not be master over you, for you are not under law but under grace.
 
-> \textsuperscript{12}Let not sin therefore reign in your mortal body, to make you obey its passions. \textsuperscript{13}Do not present your members to sin as instruments for unrighteousness, but present yourselves to God as those who have been brought from death to life, and your members to God as instruments for righteousness. \textsuperscript{14}For sin will have no dominion over you, since you are not under law but under grace.
+> \textsuperscript{15}What then? Shall we sin because we are not under law but under grace? May it never be! \textsuperscript{16}Do you not know that when you present yourselves to someone *as* slaves for obedience, you are slaves of the one whom you obey, either of sin resulting in death, or of obedience resulting in righteousness? \textsuperscript{17}But thanks be to God that though you were slaves of sin, you became obedient from the heart to that form of teaching to which you were committed, \textsuperscript{18}and having been freed from sin, you became slaves of righteousness. \textsuperscript{19}I am speaking in human terms because of the weakness of your flesh. For just as you presented your members as slaves to impurity and to lawlessness, resulting in *further* lawlessness, so now present your members as slaves to righteousness, resulting in sanctification.
 
-> \textsuperscript{15}What then? Are we to sin because we are not under law but under grace? By no means! \textsuperscript{16}Do you not know that if you present yourselves to anyone as obedient slaves, you are slaves of the one whom you obey, either of sin, which leads to death, or of obedience, which leads to righteousness? \textsuperscript{17}But thanks be to God, that you who were once slaves of sin have become obedient from the heart to the standard of teaching to which you were committed, \textsuperscript{18}and, having been set free from sin, have become slaves of righteousness. \textsuperscript{19}I am speaking in human terms, because of your natural limitations. For just as you once presented your members as slaves to impurity and to lawlessness leading to more lawlessness, so now present your members as slaves to righteousness leading to sanctification.
-
-> \textsuperscript{20}For when you were slaves of sin, you were free in regard to righteousness. \textsuperscript{21}But what fruit were you getting at that time from the things of which you are now ashamed? For the end of those things is death. \textsuperscript{22}But now that you have been set free from sin and have become slaves of God, the fruit you get leads to sanctification and its end, eternal life. **\textsuperscript{23}For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.**
+> \textsuperscript{20}For when you were slaves of sin, you were free in regard to righteousness. \textsuperscript{21}Therefore what benefit were you then deriving from the things of which you are now ashamed? For the outcome of those things is death. \textsuperscript{22}But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life. **\textsuperscript{23}For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.**
 
 ---
 
 ## 背景 (Context)
 
-### 第5章留下的問題
+### 第5章留下的問題與辯難式寫作
 
-第5章結束在一句震撼的話：「law came in to increase the trespass, but where sin increased, grace abounded all the more」（5:20）——律法叫過犯顯多，但罪在哪裏顯多，恩典就更顯多。任何讀者讀到這裏，心裏都會冒出一個邏輯上的追問：既然罪越多、恩典就顯得越大，那麼「我們可以仍在罪中，叫恩典顯多嗎？」（6:1）這正是第6章開頭那個問題的來歷——不是保羅自己編出來的難題，而是他自己講的福音必然引出的反駁。
+第5章結束在一句震撼的話：「律法本是外添的，叫過犯顯多；只是罪在那裏顯多，恩典就更顯多了」（5:20）——律法叫過犯顯多，但罪在哪裏顯多，恩典就更顯多。任何讀者讀到這裏，心裏都會冒出一個邏輯上的追問：既然罪越多、恩典就顯得越大，那麼「我們可以仍在罪中，叫恩典顯多嗎？」（6:1）這正是第6章開頭那個問題的來歷——不是保羅自己編出來的難題，而是他自己講的福音必然引出的反駁。
 
-### 「辯難式」寫作手法 (Diatribe)
-
-6:1、6:15 兩次以「這卻怎麼樣呢？」「我們可以⋯⋯嗎？」開頭，緊接著保羅自己用「斷乎不可！」(mē genoito，直譯「絕不可能發生的事」) 斷然否定——這是希臘羅馬修辭學裏常見的「辯難式」(diatribe) 寫法：作者虛擬一個反對者的提問，再逐步駁斥。保羅在羅馬書裏多次使用這個手法（另見3:1-9、9:19-20、11:1），是當時公開演講與哲學辯論常見的教學方式，不是保羅獨創，但他用得極其精準——每一次「斷乎不可」之後，跟著的不是道德說教，而是一段扎實的神學論證。
+6:1、6:15 兩次以「這卻怎麼樣呢？」「我們可以……嗎？」開頭，緊接著保羅自己用「斷乎不可！」(mē genoito，直譯「絕不可能發生的事」) 斷然否定——這是希臘羅馬修辭學裏常見的「辯難式」(diatribe) 寫法：作者虛擬一個反對者的提問，再逐步駁斥。保羅在羅馬書裏多次使用這個手法（另見3:1-9、9:19-20、11:1），是當時公開演講與哲學辯論常見的教學方式，不是保羅獨創，但他用得極其精準——每一次「斷乎不可」之後，跟著的不是道德說教，而是一段扎實的論證。
 
 ### 從「稱義」的地位到「成聖」的能力
 
 第3-5章回答的問題是「一個有罪的人如何能在神面前被稱為義？」——答案是因信稱義，一次性、法庭性的宣告。第6章開始，保羅轉向下一個必然的問題：「一個已經被稱義的人，接下來如何活？」這正是老弟兄查經框架裏「稱義／成聖／得榮」三階段中，從第一階段進到第二階段的轉折點——稱義解決的是罪的刑罰（一次完成），成聖對付的是罪的權勢（持續進行）。6-8這三章都在講這件事：不是「你要不要繼續活在罪中」，而是「你還能不能繼續活在罪中」——因為地位已經改變了。
 
-### 洗禮的圖畫
+### 兩幅圖畫：洗禮與奴僕
 
-保羅在6:3-4用「受洗」(baptizō) 作為整章的核心圖畫。這不是要在此處裁定洗禮的神學細節或施行方式，而是借用羅馬信徒都熟悉的一個公開儀式，來說明一個看不見的屬靈事實：受洗的人，是「歸入」(eis) 基督的死裏，像被埋葬一樣與祂一同埋葬。歷代教會對6:3-4「受洗歸入他的死」與「藉著洗禮歸入死，和他一同埋葬」這幾句話，在洗禮的意義與施行方式上一直存在不同傳統的理解——有的傳統從這裏的「埋葬」意象出發，特別強調洗禮應以浸沒方式進行，最貼近「與基督一同埋葬、一同復活」的圖畫；也有傳統將重點放在這段經文所描述的屬靈實質（與基督聯合、向罪死、向神活）本身，而非儀式的外在形式。本書在此只客觀陳述這是教會歷史上一個持續存在、至今仍有討論的差異領域，不代其中一方立場發言。
+保羅在6:3-4用「受洗」(baptizō) 作為整章的核心圖畫。這不是要在此處裁定洗禮的細節或施行方式，而是借用羅馬信徒都熟悉的一個公開儀式，來說明一個看不見的屬靈事實：受洗的人，是「歸入」(eis) 基督的死裏，像被埋葬一樣與祂一同埋葬。歷代教會對6:3-4「受洗歸入他的死」與「藉著洗禮歸入死，和他一同埋葬」這幾句話，在洗禮的意義與施行方式上一直存在不同傳統的理解——有的傳統從這裏的「埋葬」意象出發，特別強調洗禮應以浸沒方式進行，最貼近「與基督一同埋葬、一同復活」的圖畫；也有傳統將重點放在這段經文所描述的屬靈實質（與基督聯合、向罪死、向神活）本身，而非儀式的外在形式。本書在此只客觀陳述這是教會歷史上一個持續存在、至今仍有討論的差異領域，不代其中一方立場發言。
 
-### 羅馬社會裏的「奴僕」
-
-6:15-23整段用「奴僕」(douloi) 作比喻，這對羅馬信徒是極其貼身的圖畫——羅馬帝國人口中奴隸佔相當高的比例，「順從誰，就做誰的奴僕」(6:16) 是他們生活裏天天看得見的現實：奴僕沒有中立地帶，只有一個主人。保羅正是要用這個誰都懂的社會現實，逼問讀者一個屬靈問題：你以為自己「自由」了嗎？不，你只是換了主人——不再是罪的奴僕，而是「義的奴僕」「神的奴僕」（6:18、22）。保羅自己也在19節坦承：「我因你們肉體的軟弱，就照人的常話對你們說」——他知道這個比喻有其侷限（信徒與神的關係遠不止於主僕），但選它，是因為沒有別的圖畫能這樣直接地說明：人從來就不是「自主」的存在，人只能選擇服事哪一位主人。
+6:15-23整段則用「奴僕」(douloi) 作比喻，這對羅馬信徒是極其貼身的圖畫——羅馬帝國人口中奴隸佔相當高的比例，「順從誰，就作誰的奴僕」(6:16) 是他們生活裏天天看得見的現實：奴僕沒有中立地帶，只有一個主人。保羅正是要用這個誰都懂的社會現實，逼問讀者一個屬靈問題：你以為自己「自由」了嗎？不，你只是換了主人——不再是罪的奴僕，而是「義的奴僕」「神的奴僕」（6:18、22）。保羅自己也在19節坦承：「我因你們肉體的軟弱，就照人的常話對你們說」——他知道這個比喻有其侷限（信徒與神的關係遠不止於主僕），但選它，是因為沒有別的圖畫能這樣直接地說明：人從來就不是「自主」的存在，人只能選擇服事哪一位主人。
 
 ---
 
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | βαπτίζω | baptizō | 浸入、受洗 | 原意是「浸入、沒入」，圖畫是完全進入另一人的歷史 |
 | συνεσταυρώθη | synestaurōthē | 同釘十字架 | 6:6，syn-（一同）+ 動詞，複合詞 |
 | συνετάφημεν | synetaphēmen | 同埋葬 | 6:4 |
 | σύμφυτοι | symphytoi | 聯合生長、接枝 | 6:5，園藝意象——像兩根枝子接在一起長成一體 |
 | συζήσομεν | syzēsomen | 同活 | 6:8 |
-| λογίζεσθε | logizesthe（原形 logizomai） | 算、看作、記在賬上 | 6:11，命令語氣；與4:3「算為他的義」同一動詞 |
-| δοῦλοι | douloi（原形 doulos） | 奴僕、奴隸 | 6:15-23 主導比喻，非受薪雇工而是完全隸屬的奴僕 |
-| χάρισμα | charisma | 恩賜、白白的禮物 | 6:23，與opsōnia對比 |
-| ὀψώνια | opsōnia（原形 opsōnion） | 工價、軍餉 | 6:23，原指士兵按功績領取的薪餉 |
+| λογίζεσθε | logizesthe | 算、看作、記在賬上 | 原形 logizomai；6:11，命令語氣；與4:3「算為他的義」同一動詞 |
+| δοῦλοι | douloi | 奴僕、奴隸 | 原形 doulos；6:15-23 主導比喻，非受薪雇工而是完全隸屬的奴僕 |
+| χάρισμα | charisma | 恩賜、白白的禮物 | 6:23，與 opsōnia 對比 |
+| ὀψώνια | opsōnia | 工價、軍餉 | 原形 opsōnion；6:23，原指士兵按功績領取的薪餉 |
 
-### 「與⋯同」的動詞鏈 (syn- 字首)
+### 「與……同」的動詞鏈 (syn- 字首)
 
-保羅在這一章密集使用以 *syn-*（「一同、與⋯同」）為字首的複合動詞，是他描述「與基督聯合」最喜歡用的文字工具，短短11節裏出現了四次：*synetaphēmen*（一同埋葬，6:4）、*symphytoi*（聯合生長，6:5）、*synestaurōthē*（同釘十字架，6:6）、*syzēsomen*（同活，6:8）。這條動詞鏈本身就是一篇神學論文：我們的死，不是一次獨立的道德決心，而是「與祂一同」；我們的活，也不是一次獨立的努力翻新，而是「與祂一同」。全部的動作核心都是那個介系詞 *syn*——沒有基督，這些動詞一個都用不上。
+保羅在這一章密集使用以 *syn-*（「一同、與……同」）為字首的複合動詞，是他描述「與基督聯合」最喜歡用的文字工具，短短11節裏出現了四次：*synetaphēmen*（一同埋葬，6:4）、*symphytoi*（聯合生長，6:5）、*synestaurōthē*（同釘十字架，6:6）、*syzēsomen*（同活，6:8）。這條動詞鏈本身就把道理講完了：我們的死，不是一次獨立的道德決心，而是「與祂一同」；我們的活，也不是一次獨立的努力翻新，而是「與祂一同」。全部的動作核心都是那個介系詞 *syn*——沒有基督，這些動詞一個都用不上。
 
 ### *logizesthe* ——與第4章同一個「算」字
 
@@ -2711,15 +2416,15 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 先有「事實」，才有「命令」——直說語氣先於命令語氣
 
-6:1-10全是直說語氣（indicative）：我們已經受洗歸入基督的死、已經與祂同埋葬、舊人已經同釘十字架、已經脫離了罪。直到6:11才第一次出現命令語氣（imperative）：「你們向罪也當看⋯」。這個順序不能顛倒。保羅沒有說「去死於罪，然後你就會與基督聯合」，而是說「你已經與基督聯合、已經死於罪了，所以現在按這個事實去算、去活」。所有基督教倫理最根本的結構都在這裏：命令建立在已完成的事實之上，不是靠命令去換取事實。
+6:1-10全是直說語氣（indicative）：我們已經受洗歸入基督的死、已經與祂同埋葬、舊人已經同釘十字架、已經脫離了罪。直到6:11才第一次出現命令語氣（imperative）：「你們向罪也當看……」。這個順序不能顛倒。保羅沒有說「去死於罪，然後你就會與基督聯合」，而是說「你已經與基督聯合、已經死於罪了，所以現在按這個事實去算、去活」。所有基督教倫理最根本的結構都在這裏：命令建立在已完成的事實之上，不是靠命令去換取事實。
 
 ### 2. 與基督聯合 (Union with Christ)——成聖的根基，不只是稱義的裝飾
 
-第6章常被簡化為「教你怎樣脫離罪」的實用倫理段落，但它真正的神學重量在於：它證明「與基督聯合」不只是稱義教義的附屬品，而是整個救恩——稱義、成聖、得榮——共同的根基。因為與基督聯合，祂的死算作我的死，祂的復活成為我活著的能力來源。這一點在改革宗神學傳統裏受到高度重視，一般認為以約翰·加爾文（John Calvin, 1509-1564）為代表，他把「與基督的聯合」視為信徒領受一切救恩恩惠（稱義、成聖、得兒子的名分）共同流出的「源頭」，而不僅僅是諸多恩惠中的一項——這是對加爾文神學一貫立場的一般性、綜合性概括，並非逐字引句自其《基督教要義》的特定章節，讀者若需查證加爾文原文，應另行核對《基督教要義》第三卷相關章節。
+第6章常被簡化為「教你怎樣脫離罪」的實用倫理段落，但它真正的份量在於：它證明「與基督聯合」不只是稱義教義的附屬品，而是整個救恩——稱義、成聖、得榮——共同的根基。因為與基督聯合，祂的死算作我的死，祂的復活成為我活著的能力來源。這一點在改革宗傳統裏受到高度重視，一般認為以約翰·加爾文（John Calvin, 1509-1564）為代表，他把「與基督的聯合」視為信徒領受一切救恩恩惠（稱義、成聖、得兒子的名分）共同流出的「源頭」，而不僅僅是諸多恩惠中的一項——這是對加爾文神學一貫立場的一般性、綜合性概括，並非逐字引句自其《基督教要義》的特定章節，讀者若需查證加爾文原文，應另行核對《基督教要義》第三卷相關章節。
 
 ### 3. 奴僕的比喻——自由不是「沒有主人」，而是「換了主人」
 
@@ -2727,7 +2432,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 4. 羅馬書6:23——福音的縮寫
 
-「因為罪的工價乃是死，唯有神的恩賜，在我們的主基督耶穌裏乃是永生」——這節經文用兩個對比詞總結了整卷書的邏輯：*opsōnia*（工價，士兵按功受償的薪餉）對比 *charisma*（白白的恩賜）。罪付給人的，是人該得的、按公義計算的工價——死。神給人的，不是按功績計算的酬勞，而是白白的禮物——永生，且這禮物只「在我們的主基督耶穌裏」才存在。這一節與3:23-24（「都虧缺了神的榮耀，如今卻蒙神的恩典，藉著在基督耶穌裏的救贖，就白白地稱義」）前後呼應，把稱義與成聖用同一個邏輯貫穿起來：都是恩典，都在基督耶穌裏。
+「因為罪的工價乃是死，惟有神的恩賜，在我們的主基督耶穌裏乃是永生」——這節經文用兩個對比詞總結了整卷書的邏輯：*opsōnia*（工價，士兵按功受償的薪餉）對比 *charisma*（白白的恩賜）。罪付給人的，是人該得的、按公義計算的工價——死。神給人的，不是按功績計算的酬勞，而是白白的禮物——永生，且這禮物只「在我們的主基督耶穌裏」才存在。這一節與3:23-24（「都虧缺了神的榮耀，如今卻蒙神的恩典，藉著在基督耶穌裏的救贖，就白白地稱義」）前後呼應，把稱義與成聖用同一個邏輯貫穿起來：都是恩典，都在基督耶穌裏。
 
 ---
 
@@ -2746,101 +2451,74 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《羅馬書註釋》(*Commentary on Romans*) 中一貫強調：成聖與稱義雖有分別（一個是宣告地位，一個是持續更新），卻同出於一個源頭——與基督的聯合——絕不可分割成兩件互不相干的事：凡真正藉信心與基督聯合、領受祂稱義之恩的人，也必然同時領受祂成聖的生命；沒有無成聖的稱義，正如沒有無光的太陽。此為對其一貫神學立場的一般性歸納，非逐字引句，讀者若需查證，應另行核對《羅馬書註釋》6章相關段落。
+加爾文在《羅馬書註釋》(*Commentary on Romans*) 中一貫強調：成聖與稱義雖有分別（一個是宣告地位，一個是持續更新），卻同出於一個源頭——與基督的聯合——絕不可分割成兩件互不相干的事：凡真正藉信心與基督聯合、領受祂稱義之恩的人，也必然同時領受祂成聖的生命；沒有無成聖的稱義，正如沒有無光的太陽。此為對其一貫解經立場的一般性歸納，非逐字引句，讀者若需查證，應另行核對《羅馬書註釋》6章相關段落。
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
 路德在《小教理問答》(*Small Catechism*) 論洗禮一節，有一句廣為人知、常被總結轉述的教導：洗禮的意義，是要「舊人天天藉痛悔認罪被淹沒、被治死」，「新人天天興起、復活，在神面前存著公義、聖潔存活，直到永遠」——這句常見轉述精確反映路德一貫的洗禮神學：洗禮的果效不是一次性的儀式了結，而是終身「天天」的操練，與羅馬書6:4「一舉一動有新生的樣式」（原文有持續、習慣性的意味）相互呼應。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**羅馬書的兩種文學氣質，在第6章交會**：摩根形容羅馬書「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）」（見〈羅馬書概覽〉之已核實引句）。第6章正站在這兩種氣質交會的位置——它一方面正視罪的權勢何等真實（「罪的工價乃是死」），一方面又用最確定的口氣宣告這權勢已被打破（「罪必不能作你們的主」）。摩根對保羅書信一貫的解經方法，是先問「這一段在全書的論證裏站在哪一個轉折點」，再逐句細讀——用這個方法讀第6章，會看見它正是全書從「地位」(position) 轉向「經歷」(experience) 的樞紐：3-5章講神為信徒「做成」了甚麼，6-8章講信徒因此「活出」甚麼。
 
-麥克阿瑟論羅馬書6章時一貫強調的重點是：這一章講的是「定位性的成聖」(positional sanctification)——一個已經完成、不再改變的事實（信徒的舊生命已經與基督同死、新生命已經與基督同復活），這個事實是「實際性的成聖」(practical sanctification，即信徒一生持續與罪爭戰、逐漸像基督）的地基。他一貫提醒讀者，6:11的命令「你們向罪也當看」不是叫人「假裝」自己沒有罪性，而是叫人相信一個已經真實發生、只是尚未完全彰顯的屬靈事實，並按這事實而活。此為對其一貫解經立場的一般性歸納，未附具體講題、日期或gty.org連結，非逐字引句。
+**「你們要算」——一個會計學的命令**：摩根對保羅書信裏「算」(logizomai) 這一類會計、法庭用語一貫有濃厚興趣，常提醒讀者保羅出身於稅務、貿易往來頻繁的地中海商業世界，用詞習慣帶著「記賬」「核算」的精確感——6:11「你們向罪也當看自己是死的」，用的正是這種精確記賬式的語言：不是一種模糊的宗教感覺，而是一項清楚、可以憑信心「核對」的事實，如同核對一本已經結清的賬本。
+
+**受洗與「一舉一動有新生的樣式」**：摩根一貫強調，6:4「新生的樣式」原文 kainotēs（新）不是指從舊物「修補」出來的新，而是指一種前所未見、質性不同的「新」——正如創造之初的「新」，不是舊材料的翻修。這與羅馬書8:19-23「受造之物……正在歎息勞苦」呼應的，是同一個盼望：舊創造的敗壞終將被一個真正嶄新的創造取代，而信徒在受洗那一刻，已經是這個嶄新創造的「頭一批果子」。
+
+> 出處：對 G. Campbell Morgan羅馬書相關講章與著作一貫解經精神之綜合性歸納，非逐字引句自特定篇章頁碼。
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟論羅馬書6章時一貫強調的重點是：這一章講的是「定位性的成聖」(positional sanctification)——一個已經完成、不再改變的事實（信徒的舊生命已經與基督同死、新生命已經與基督同復活），這個事實是「實際性的成聖」（practical sanctification，即信徒一生持續與罪爭戰、逐漸像基督）的地基。他一貫提醒讀者，6:11的命令「你們向罪也當看」不是叫人「假裝」自己沒有罪性，而是叫人相信一個已經真實發生、只是尚未完全彰顯的屬靈事實，並按這事實而活。此為對其一貫解經立場的一般性歸納，未附具體講題、日期或 gty.org 連結，非逐字引句。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 40:1-3
 
-> 我曾耐性等候耶和華；
-> 他垂聽我的呼求。
-> **他從禍坑裏，從淤泥中，把我拉上來**，
-> 使我的腳立在磐石上，使我腳步穩當。
-> 他使我口唱新歌，就是讚美我們神的話。
+> 我曾耐性等候耶和華； \
+> 他垂聽我的呼求。 \
+> **他從禍坑裏，從淤泥中，把我拉上來**， \
+> 使我的腳立在磐石上，使我腳步穩當。 \
+> 他使我口唱新歌，就是讚美我們神的話。 \
 > 許多人必看見而懼怕，並要倚靠耶和華。
 
-> I waited patiently for the LORD;
-> he inclined to me and heard my cry.
-> **He drew me up from the pit of destruction, out of the miry bog**,
-> and set my feet upon a rock, making my steps secure.
-> He put a new song in my mouth, a song of praise to our God.
-> Many will see and fear, and put their trust in the LORD.
+> I waited patiently for the LORD; \
+> And He inclined to me and heard my cry. \
+> **He brought me up out of the pit of destruction, out of the miry clay**, \
+> And He set my feet upon a rock making my footsteps firm. \
+> He put a new song in my mouth, a song of praise to our God; \
+> Many will see and fear And will trust in the LORD.
 
 大衛從「禍坑」「淤泥」被拉上來，腳立在磐石上，口中有了「新歌」——這正是羅馬書6:4「一舉一動有新生的樣式」(kainotēs zōēs) 的舊約迴響。禍坑是死亡的圖畫，磐石是穩固新生命的圖畫，新歌是脫離舊轄制之後才唱得出來的歌。這首詩沒有說大衛「靠自己爬出禍坑」，而是說「他把我拉上來」——正如第6章沒有一句話說「你要努力脫離罪」，而是說基督已經替你死、替你活，你只需「看」（算）這個事實，然後站立在這磐石上。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### O for a Thousand Tongues to Sing
 
 這首詩歌由查理·衛斯理 (Charles Wesley) 寫於1739年，據他自己記述，靈感來自一位摩拉維亞弟兄彼得·波勒 (Peter Böhler) 的一句話：「若我有千萬舌頭，我要用它們全部頌讚基督」——衛斯理把這句話寫成了自己歸信週年紀念的詩歌，原有多節，今日詩集常選用其中數節傳唱。
 
 **歌詞與經文對照**：
-- 「祂破除已被塗抹之罪的權勢，祂釋放被囚的人」——直接呼應6:6-7「使罪身滅絕，叫我們不再做罪的奴僕⋯已死的人是脫離了罪」；「已被塗抹」（cancelled）與保羅「同釘十字架」的圖畫幾乎是同一件事的兩種說法——舊的賬已經一筆勾銷。
-- 「祂的血能潔淨最污穢的，祂的血也為我而流」——呼應6:17-18「你們從前雖然做罪的奴僕⋯你們既從罪裏得了釋放，就做了義的奴僕」；不是靠自己洗淨自己，乃是被贖買、換了主人。
-- 首節「頌揚祂恩典的得勝」——與6:14「罪必不能做你們的主，因你們不在律法之下，乃在恩典之下」同一個字：得勝的不是律法，是恩典。
+- 「祂破除已被塗抹之罪的權勢，祂釋放被囚的人」——直接呼應6:6-7「使罪身滅絕，叫我們不再作罪的奴僕……已死的人是脫離了罪」；「已被塗抹」（cancelled）與保羅「同釘十字架」的圖畫幾乎是同一件事的兩種說法——舊的賬已經一筆勾銷。
+- 「祂的血能潔淨最污穢的，祂的血也為我而流」——呼應6:17-18「你們從前雖然作罪的奴僕……你們既從罪裏得了釋放，就作了義的奴僕」；不是靠自己洗淨自己，乃是被贖買、換了主人。
+- 首節「頌揚祂恩典的得勝」——與6:14「罪必不能作你們的主，因你們不在律法之下，乃在恩典之下」同一個字：得勝的不是律法，是恩典。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：本書所依據之老弟兄原始查經筆記（`Logos_meditation/church/Thursday.md`，2024-2025年 Thursday 查經班逐條記錄）經查證，並無任何一則以羅馬書為主題的記載，這與提摩太前書等已有原始筆記可逐條核實的書卷不同。以下「老弟兄查經」內容，是以老弟兄一貫的查經方法論與領受框架（救恩三階段：稱義／成聖／得榮；「從讀到領受六層次」；提問式帶領；以整本聖經為根基、以認識耶穌基督為中心）忠實應用於羅馬書6章而成，**不是**逐字引用他對本章的歷史原始記錄。
 
-**羅馬書的兩種文學氣質，在第6章交會**：摩根形容羅馬書前半是「你眼睛所見過最悲觀的文學篇章」（論人的罪），後半是「你耳朵所聽過最樂觀的詩歌」（論神的救恩）。第6章正站在這兩種氣質交會的位置——它一方面正視罪的權勢何等真實（「罪的工價乃是死」），一方面又用最確定的口氣宣告這權勢已被打破（「罪必不能做你們的主」）。摩根對教牧書信與保羅書信一貫的解經方法，是先問「這一段在全書的論證裏站在哪一個轉折點」，再逐句細讀——用這個方法讀第6章，會看見它正是全書從「地位」(position) 轉向「經歷」(experience) 的樞紐：3-5章講神為信徒「做成」了甚麼，6-8章講信徒因此「活出」甚麼。
+**精義一句話**：你不是要努力「變得」向罪死——你已經與基督同死同活了；成聖不是新的一套努力，是把稱義時信靠的同一個信心，天天用在今天的自己身上。
 
-**「你們要算」——一個會計學的命令**：摩根對保羅書信裏「算」(logizomai) 這一類會計、法庭用語一貫有濃厚興趣，常提醒讀者保羅出身於稅務、貿易往來頻繁的地中海商業世界，用詞習慣帶著「記賬」「核算」的精確感——6:11「你們向罪也當看自己是死的」，用的正是這種精確記賬式的語言：不是一種模糊的宗教感覺，而是一項清楚、可以憑信心「核對」的事實，如同核對一本已經結清的賬本。
+**底圖一：用「靈魂體」讀「新生的樣式」**——老弟兄帶查經時，常以「靈、魂、體」作底層地圖：人的靈本是與神交通的器官，卻因罪失去功效；魂（思想、感情、意志）因此成了自我中心的主宰；體則聽從靈或魂的指揮執行。用這個架構讀6:4「一舉一動有新生的樣式」，「新生」(*kainotēs zōēs*) 指向的正是靈的復活——重生是靈的復活，恢復和神的交通。第6章講的「向罪死、向神活」，不是先從外在行為改起，而是靈已經復活、重新能與神交通，行為的更新是這個裏面事實自然結出的果子，不是相反。
 
-**受洗與「一舉一動有新生的樣式」**：摩根一貫強調，6:4「新生的樣式」原文kainotēs（新）不是指從舊物「修補」出來的新，而是指一種前所未見、質性不同的「新」——正如創造之初的「新」，不是舊材料的翻修。這與羅馬書8:19-23「受造之物⋯正在歎息勞苦」呼應的，是同一個盼望：舊創造的敗壞終將被一個真正嶄新的創造取代，而信徒在受洗那一刻，已經是這個嶄新創造的「頭一批果子」。
-
-> 出處：對G. Campbell Morgan羅馬書相關講章與著作一貫解經精神之綜合性歸納，非逐字引句自特定篇章頁碼。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**用「靈魂體」的架構讀「新生的樣式」**：老弟兄帶查經時，常以「屬靈人的三元結構——靈、魂、體」作底層地圖：人的靈本是與神交通的器官，卻因罪的緣故失去功效；魂（思想、感情、意志）因此變成自我中心的主宰；體則聽從靈或魂的指揮執行。用這個架構讀6:4「一舉一動有新生的樣式」，「新生」（kainotēs zōēs）指向的正是靈的復活——老弟兄一貫的教導是：「重生是靈的復活，恢復和神的交通。」第6章講的「向罪死、向神活」，不是先從外在行為改起，而是靈已經復活、重新能與神交通，行為的更新是這個裏面事實自然結出的果子，不是相反。
-
-**「算」是信心的操練，不是自我催眠**：老弟兄常提醒，「算」（logizesthe）不是叫人閉著眼睛否認自己還會犯罪的現實，而是像亞伯拉罕因信被算為義一樣——憑著神已經說過的話去相信一件看不見、卻真實已經成就的事。他常用的提問方式是：「你今天是向罪算自己死了，還是仍活在罪中？」——這句問話不是要人回答「知道」或「不知道」，而是要人誠實面對：今天早晨起來，我把主權交給了誰？
-
-**「奴僕」比喻與「兩大國度」的對立**：老弟兄查經常用的另一個底層架構是「兩大國度」的對立——巴比倫（塔，高舉人名）與神的國（壇，敬拜神名）。6:16-22「做罪的奴僕，以至於死；做順命的奴僕，以致成義」，正可以放進這個架構裏讀：作罪的奴僕，是活在「塔」的邏輯裏（自己是自己的主）；作神的奴僕，是活在「壇」的邏輯裏（凡事獻上、凡事敬拜）。老弟兄常追問：「你的生活中，哪些是『塔』？哪些是『壇』？」——這問題放在第6章的脈絡裏，變成更尖銳的一問：你今天獻上肢體作「不義的器具」，還是作「義的器具」（6:13）？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*O for a Thousand Tongues to Sing*（如前「配詩」所引）
-
-> He breaks the power of cancelled sin,
-> He sets the prisoner free;
-> His blood can make the foulest clean,
-> His blood availed for me.
-
-**詩篇**：詩篇 40:2
-
-> 他從禍坑裏，從淤泥中，把我拉上來，使我的腳立在磐石上，使我腳步穩當。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**底圖二：「奴僕」比喻與「兩大國度」的對立**——老弟兄查經常用的另一個底層架構，是巴比倫（塔，高舉人名）與神的國（壇，敬拜神名）的對立。6:16-22「作罪的奴僕，以至於死；作順命的奴僕，以致成義」，正可以放進這個架構裏讀：作罪的奴僕，是活在「塔」的邏輯裏（自己是自己的主）；作神的奴僕，是活在「壇」的邏輯裏（凡事獻上、凡事敬拜）。放在第6章的脈絡裏，「你的生活中哪些是塔、哪些是壇」這個問題，變成更尖銳的一問：你今天獻上肢體作「不義的器具」，還是作「義的器具」（6:13）？
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：出埃及的圖畫。以色列人在埃及作奴僕，神藉摩西領他們經過紅海，「在雲裏、海裏受洗歸了摩西」（林前10:1-2）——保羅自己在寫給哥林多教會的信裏，用「受洗歸了摩西」形容以色列人過紅海這件事：「弟兄們，我不願意你們不知道，我們的祖宗從前都在雲下，都從海中經過，都在雲裏、海裏受洗歸了摩西」。這是全本聖經最早的一幅「受洗＝出死入生、脫離為奴之地」的圖畫：埃及是奴役與死亡（法老在後追殺），紅海是分界（水），曠野的另一頭是新生命與應許之地。羅馬書6章的結構，幾乎是逐字重演這幅圖畫——「受洗歸入基督耶穌⋯歸入他的死」對應「受洗歸了摩西」；「一舉一動有新生的樣式」對應以色列人在曠野開始學習作一個屬神的百姓；「不再做罪的奴僕」對應「不再做法老的奴僕」。
+**出埃及／紅海線**：以色列人在埃及作奴僕，神藉摩西領他們經過紅海，「在雲裏、海裏受洗歸了摩西」（林前10:1-2）——保羅自己在寫給哥林多教會的信裏，用「受洗歸了摩西」形容以色列人過紅海這件事。這是全本聖經最早的一幅「受洗＝出死入生、脫離為奴之地」的圖畫：埃及是奴役與死亡（法老在後追殺），紅海是分界（水），曠野的另一頭是新生命與應許之地。羅馬書6章的結構，幾乎是逐字重演這幅圖畫——「受洗歸入基督耶穌……歸入他的死」對應「受洗歸了摩西」；「一舉一動有新生的樣式」對應以色列人在曠野開始學習作一個屬神的百姓；「不再做罪的奴僕」對應「不再做法老的奴僕」。這條線再往前追，能追到創世記——亞伯拉罕的後裔要「寄居別人的地，又服事那地的人，那地的人要苦待他們四百年」，後來「我要懲罰……他們必帶著許多財物從那裏出來」（創15:13-14）。神應許的，從來不只是「離開埃及」，而是「帶著財物出來」——不是空手的自由，是滿載恩典的自由。羅馬書6:22也是同一個結構：「你們既從罪裏得了釋放……就有成聖的果子，那結局就是永生」——不是空手的釋放，是結果子的釋放。
 
-這條線再往前追，能追到創世記——亞伯拉罕的後裔要「寄居別人的地，又服事那地的人，那地的人要苦待他們四百年」，後來「我要懲罰⋯他們必帶著許多財物從那裏出來」（創15:13-14）。神應許的，從來不只是「離開埃及」，而是「帶著財物出來」——不是空手的自由，是滿載恩典的自由。羅馬書6:22也是同一個結構：「你們既從罪裏得了釋放⋯就有成聖的果子，那結局就是永生」——不是空手的釋放，是結果子的釋放。
+**工價與恩賜線**：6:23「罪的工價乃是死，惟有神的恩賜，在我們的主基督耶穌裏乃是永生」，與3:23-24「都虧缺了神的榮耀，如今卻蒙神的恩典，藉著在基督耶穌裏的救贖，就白白地稱義」前後呼應——稱義與成聖用的是同一個邏輯貫穿：都不是按功績計算的工價，都是白白的恩賜，都「在基督耶穌裏」。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -2853,7 +2531,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天很少有人再把「奴僕」這個詞用在自己身上——我們自認為是「自由」的現代人，能自己選擇看甚麼、買甚麼、信甚麼。可是看看自己的手機使用時間，看看演算法怎樣一次又一次把你的注意力導向它要你看的內容——「網際網路把你的注意力賣給了誰？注意力是一門生意」。保羅在6:16那句「豈不曉得你們獻上自己做奴僕，順從誰，就做誰的奴僕嗎」，放在今天，可以換一個問法：你每天不假思索滑動的那個app，它是不是已經成了你「順從」的那一位？人從來沒有「無主」的自由，只有「換主人」的自由——今天多少人以為自己在自由地滑手機，其實是在向一套演算法俯首稱奴，換來的果子，是6:21那句「那些事的結局就是死」的當代版本——時間死了，注意力死了，深度思考的能力也死了。
+今天很少有人再把「奴僕」這個詞用在自己身上——我們自認為是「自由」的現代人，能自己選擇看甚麼、買甚麼、信甚麼。可是看看自己的手機使用時間，看看演算法怎樣一次又一次把你的注意力導向它要你看的內容——「網際網路把你的注意力賣給了誰？注意力是一門生意」。保羅在6:16那句「豈不曉得你們獻上自己作奴僕，順從誰，就作誰的奴僕嗎」，放在今天，可以換一個問法：你每天不假思索滑動的那個app，它是不是已經成了你「順從」的那一位？人從來沒有「無主」的自由，只有「換主人」的自由——今天多少人以為自己在自由地滑手機，其實是在向一套演算法俯首稱奴，換來的果子，是6:21那句「那些事的結局就是死」的當代版本——時間死了，注意力死了，深度思考的能力也死了。
 
 ### 今天的祭壇 (Today's Altar)
 
@@ -2861,17 +2539,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天我把哪一部分的自己（時間、口舌、眼目）獻給了罪作工具？哪一部分獻給了義作工具？
 - **一個行動**：今天具體地把一項「我以為理所當然、其實正在轄制我」的習慣，實際交還給神作祭。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：你不是要努力「變得」向罪死——你已經與基督同死同活了；成聖不是新的一套努力，是把稱義時信靠的同一個信心，天天用在今天的自己身上。
-
-**貫通全經**：以色列人「在雲裏、海裏受洗歸了摩西」（林前10:2），脫離法老的奴役——受洗歸入基督，是脫離罪的奴役，走進應許的新生命。
-
-**無法迴避的問題**：「你今天是向罪算自己死了，還是仍活在罪中？」
-
 > 「你受洗那天，不是辦了一個宗教手續，是舊人真實地下葬了。你還想回到那座墳墓裏去挖出那個舊人嗎？聖經說：他已經死了，脫離了罪。」
+
+**你看見耶穌了嗎**：這一章看似句句都在說「我們」，其實句句都在說「祂」——祂已經向罪死了，只有一次；祂既從死裏復活，就不再死，死也不再作祂的主。你今天「算」自己向罪死、向神活，不是自我催眠，而是相信這位已經得勝死亡的基督真實成就的事——你看見祂了嗎？
 
 ---
 
@@ -2879,13 +2549,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 默想問題
 
-1. **我算了嗎？**：今天早晨起來，我有沒有先「算」自己已經向罪死、向神活了，還是一整天憑感覺、憑情緒行事？
+1. **我服事的是哪一位主人**：有沒有一個習慣、一個嗜好、一個平台，正在我身上運作得像一個「主人」，而不是我在管理它？
 
-2. **我獻上了甚麼**：今天我的時間、言語、眼目、注意力，更多是獻給罪作「不義的器具」，還是獻給神作「義的器具」？
+2. **我唱新歌了嗎**：詩篇40篇說「他使我口唱新歌」——我的生命裏，有沒有一首因著脫離舊轄制才唱得出來的新歌？
 
-3. **我服事的是哪一位主人**：有沒有一個習慣、一個嗜好、一個平台，正在我身上運作得像一個「主人」，而不是我在管理它？
-
-4. **我唱新歌了嗎**：詩篇40篇說「他使我口唱新歌」——我的生命裏，有沒有一首因著脫離舊轄制才唱得出來的新歌？
+3. **工價與恩賜**：6:23把「工價」與「恩賜」對比——今天我的生活裏，有沒有哪個角落，我還在憑「工價」的邏輯（我做了甚麼、我配得甚麼）而不是「恩賜」的邏輯活著？
 
 ### 禱告回應
 
@@ -2899,21 +2567,17 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 6:1-2的問題「我們可以仍在罪中，叫恩典顯多嗎？」是怎麼從第5章的邏輯裏自然冒出來的？保羅為甚麼用「斷乎不可」這麼強烈的方式回應？
-
-2. 6:3-11密集使用「同」字（同埋葬、同釘十字架、同死、同活），這些詞為甚麼都少不了「與基督」這個對象？如果拿掉基督，這段話還站得住嗎？
-
-3. 6:11的「算」和第4章亞伯拉罕「信神這就算為他的義」用的是同一個希臘字，這對「稱義」與「成聖」的關係有甚麼提示？
-
-4. 保羅為甚麼在6:15-23選用「奴僕」這麼刺耳的比喻？他自己在19節怎樣坦承這個比喻的侷限？這個坦承對我們讀比喻經文有甚麼提醒？
-
-5. 6:23把「工價」與「恩賜」對比——今天我的生活裏，有沒有哪個角落，我還在憑「工價」的邏輯（我做了甚麼、我配得甚麼）而不是「恩賜」的邏輯活著？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 出埃及／受洗圖畫 | 6:3-4 | 林前10:1-2、創15:13-14 |
+| 「算」的會計學 | 6:11 | 羅4:3 |
+| 工價與恩賜 | 6:23 | 羅3:23-24 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論與神學框架、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -2923,9 +2587,13 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 7:1-25
 
----
+**經文核對**：[ai-eden.com/bible/romans/7](https://www.ai-eden.com/bible/romans/7?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：律 Nomos** \
+> **全書坐標**：7章夾在6章「向罪死、向神活」的宣告與8章「聖靈中的生命」的高峰之間，誠實地攔住「成聖很輕省」的錯覺——律法能診斷罪，卻不能醫治罪，唯獨基督能。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上是保羅最個人化、最痛苦的自白，中心卻仍是耶穌基督。婚姻的比喻說：信徒「藉著基督的身體」對律法死了，為要「歸於那從死裏復活的」（7:4）——是十字架斷開了律法的轄制，是復活的基督成了新的丈夫，新的生命之源。當內心的爭戰逼出那聲「我真是苦啊！誰能救我脫離這取死的身體呢？」時，答案不是一套方法、不是加倍的努力，而是一個名字：「感謝神！靠著我們的主耶穌基督」（7:25）。第7章的黑暗，正是為了讓人看清：離了基督，連最好的律法也救不了人；唯有基督，才是這場戰爭唯一的出路。
 
@@ -2933,35 +2601,35 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ## 配詩 (Opening Hymn)
 
-> **Come, Thou Fount of Every Blessing**
+> **Come, Thou Fount of Every Blessing** \
 > *Robert Robinson, 1758*
 >
-> Come, Thou Fount of every blessing,
-> Tune my heart to sing Thy grace;
-> Streams of mercy, never ceasing,
+> Come, Thou Fount of every blessing, \
+> Tune my heart to sing Thy grace; \
+> Streams of mercy, never ceasing, \
 > Call for songs of loudest praise.
 >
-> O to grace how great a debtor
-> Daily I'm constrained to be!
-> Let Thy goodness, like a fetter,
-> Bind my wandering heart to Thee.
-> **Prone to wander, Lord, I feel it,**
-> **Prone to leave the God I love;**
-> Here's my heart, O take and seal it,
+> O to grace how great a debtor \
+> Daily I'm constrained to be! \
+> Let Thy goodness, like a fetter, \
+> Bind my wandering heart to Thee. \
+> **Prone to wander, Lord, I feel it,** \
+> **Prone to leave the God I love;** \
+> Here's my heart, O take and seal it, \
 > Seal it for Thy courts above.
 >
-> 萬福泉源，主，我來朝見，
-> 調諧我心歌頌你恩；
-> 憐憫如流，永不止息，
+> 萬福泉源，主，我來朝見， \
+> 調諧我心歌頌你恩； \
+> 憐憫如流，永不止息， \
 > 當用頌讚聲聲相稱。
 >
-> 我這負恩深重的罪人，
-> 天天蒙你恩典扶持；
-> 願你慈愛如鏈牽引，
-> 拴住我這易於流蕩的心。
-> **我知道我心易於流蕩，**
-> **易於離開我所愛的神；**
-> 這是我心，求主收納封印，
+> 我這負恩深重的罪人， \
+> 天天蒙你恩典扶持； \
+> 願你慈愛如鏈牽引， \
+> 拴住我這易於流蕩的心。 \
+> **我知道我心易於流蕩，** \
+> **易於離開我所愛的神；** \
+> 這是我心，求主收納封印， \
 > 封印它歸向你的天庭。
 
 ---
@@ -2969,6 +2637,8 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}弟兄們，我現在對明白律法的人說：你們豈不曉得律法管人是在活著的時候嗎？\textsuperscript{2}就如女人有了丈夫，丈夫還活著，就被律法約束，丈夫若死了，就脫離了丈夫的律法。\textsuperscript{3}所以丈夫活著，她若歸於別人，便叫淫婦；丈夫若死了，她就脫離了丈夫的律法，雖然歸於別人，也不是淫婦。
 
@@ -2984,23 +2654,21 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > **\textsuperscript{24}我真是苦啊！誰能救我脫離這取死的身體呢？\textsuperscript{25}感謝神！靠著我們的主耶穌基督就能脫離了。這樣看來，我以內心順服神的律，我肉體卻順服罪的律了。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com 逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> \textsuperscript{1}Or do you not know, brethren (for I am speaking to those who know the law), that the law has jurisdiction over a person as long as he lives? \textsuperscript{2}For the married woman is bound by law to her husband while he is living; but if her husband dies, she is released from the law concerning the husband. \textsuperscript{3}So then, if while her husband is living she is joined to another man, she shall be called an adulteress; but if her husband dies, she is free from the law, so that she is not an adulteress though she is joined to another man.
 
-> \textsuperscript{1}Or do you not know, brothers—for I am speaking to those who know the law—that the law is binding on a person only as long as he lives? \textsuperscript{2}For a married woman is bound by law to her husband while he lives, but if her husband dies she is released from the law of marriage. \textsuperscript{3}Accordingly, she will be called an adulteress if she lives with another man while her husband is alive. But if her husband dies, she is free from that law, and if she marries another man she is not an adulteress.
+> \textsuperscript{4}Therefore, my brethren, you also were made to die to the Law through the body of Christ, so that you might be joined to another, to Him who was raised from the dead, in order that we might bear fruit for God. \textsuperscript{5}For while we were in the flesh, the sinful passions, which were *aroused* by the Law, were at work in the members of our body to bear fruit for death. \textsuperscript{6}But now we have been released from the Law, having died to that by which we were bound, so that we serve in newness of the Spirit and not in oldness of the letter.
 
-> \textsuperscript{4}Likewise, my brothers, you also have died to the law through the body of Christ, so that you may belong to another, to him who has been raised from the dead, in order that we may bear fruit for God. \textsuperscript{5}For while we were living in the flesh, our sinful passions, aroused by the law, were at work in our members to bear fruit for death. \textsuperscript{6}But now we are released from the law, having died to that which held us captive, so that we serve in the new way of the Spirit and not in the old way of the written code.
+> \textsuperscript{7}What shall we say then? Is the Law sin? May it never be! On the contrary, I would not have come to know sin except through the Law; for I would not have known about coveting if the Law had not said, "YOU SHALL NOT COVET." \textsuperscript{8}But sin, taking opportunity through the commandment, produced in me coveting of every kind; for apart from the Law sin *is* dead. \textsuperscript{9}I was once alive apart from the Law; but when the commandment came, sin became alive and I died; \textsuperscript{10}and this commandment, which was to result in life, proved to result in death for me; \textsuperscript{11}for sin, taking an opportunity through the commandment, deceived me and through it killed me. \textsuperscript{12}So then, the Law is holy, and the commandment is holy and righteous and good.
 
-> \textsuperscript{7}What then shall we say? That the law is sin? By no means! Yet if it had not been for the law, I would not have known sin. For I would not have known what it is to covet if the law had not said, "You shall not covet." \textsuperscript{8}But sin, seizing an opportunity through the commandment, produced in me all kinds of covetousness. For apart from the law, sin lies dead. \textsuperscript{9}I was once alive apart from the law, but when the commandment came, sin came alive and \textsuperscript{10}I died. The very commandment that promised life proved to be death to me. \textsuperscript{11}For sin, seizing an opportunity through the commandment, deceived me and through it killed me. \textsuperscript{12}So the law is holy, and the commandment is holy and righteous and good.
+> \textsuperscript{13}Therefore did that which is good become *a cause of* death for me? May it never be! Rather it was sin, in order that it might be shown to be sin by effecting my death through that which is good, so that through the commandment sin would become utterly sinful.
 
-> \textsuperscript{13}Did that which is good, then, bring death to me? By no means! It was sin, producing death in me through what is good, in order that sin might be shown to be sin, and through the commandment might become sinful beyond measure.
+> \textsuperscript{14}For we know that the Law is spiritual, but I am of flesh, sold into bondage to sin. **\textsuperscript{15}For what I am doing, I do not understand; for I am not practicing what I *would* like to *do,* but I am doing the very thing I hate.** \textsuperscript{16}But if I do the very thing I do not want *to do,* I agree with the Law, *confessing* that the Law is good. \textsuperscript{17}So now, no longer am I the one doing it, but sin which dwells in me. \textsuperscript{18}For I know that nothing good dwells in me, that is, in my flesh; for the willing is present in me, but the doing of the good *is* not. \textsuperscript{19}For the good that I want, I do not do, but I practice the very evil that I do not want. \textsuperscript{20}But if I am doing the very thing I do not want, I am no longer the one doing it, but sin which dwells in me.
 
-> \textsuperscript{14}For we know that the law is spiritual, but I am of the flesh, sold under sin. **\textsuperscript{15}For I do not understand my own actions. For I do not do what I want, but I do the very thing I hate.** \textsuperscript{16}Now if I do what I do not want, I agree with the law, that it is good. \textsuperscript{17}So now it is no longer I who do it, but sin that dwells within me. \textsuperscript{18}For I know that nothing good dwells in me, that is, in my flesh. For I have the desire to do what is right, but not the ability to carry it out. \textsuperscript{19}For I do not do the good I want, but the evil I do not want is what I keep on doing. \textsuperscript{20}Now if I do what I do not want, it is no longer I who do it, but sin that dwells within me.
+> \textsuperscript{21}I find then the principle that evil is present in me, the one who wants to do good. \textsuperscript{22}For I joyfully concur with the law of God in the inner man, \textsuperscript{23}but I see a different law in the members of my body, waging war against the law of my mind and making me a prisoner of the law of sin which is in my members.
 
-> \textsuperscript{21}So I find it to be a law that when I want to do right, evil lies close at hand. \textsuperscript{22}For I delight in the law of God, in my inner being, \textsuperscript{23}but I see in my members another law waging war against the law of my mind and making me captive to the law of sin that dwells in my members.
-
-> **\textsuperscript{24}Wretched man that I am! Who will deliver me from this body of death? \textsuperscript{25}Thanks be to God through Jesus Christ our Lord! So then, I myself serve the law of God with my mind, but with my flesh I serve the law of sin.**
+> **\textsuperscript{24}Wretched man that I am! Who will set me free from the body of this death? \textsuperscript{25}Thanks be to God through Jesus Christ our Lord! So then, on the one hand I myself with my mind am serving the law of God, but on the other, with my flesh the law of sin.**
 
 ---
 
@@ -3012,11 +2680,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 婚姻比喻的邏輯
 
-保羅是對「明白律法的人」說話（7:1），可能同時包括熟悉摩西律法的猶太背景信徒，以及熟悉羅馬法律的外邦信徒——羅馬法同樣有「丈夫死後妻子解除婚姻義務」的原則。這比喻的重點不在律法本身的細節，而在一個簡單的法律常識：約束的力量止於死亡。保羅要說的是：你我藉著與基督同死（呼應6:3-6「與基督同死同復活」的洗禮神學），已經合法地脫離了律法對「舊我」的轄制，好叫我們能「歸於別人」——這不是無法無天，而是換了一位新的丈夫、新的生命源頭。
-
-### 「字句」與「靈」的伏筆
-
-7:6「按著心靈的新樣，不按著儀文的舊樣」（「心靈」原文或作「聖靈」）呼應2:29「割禮是心裏的，在乎聖靈，不在乎儀文」。保羅在全書中反覆使用這組對比，7章正是把這個原則具體展開：律法（儀文）能定義善惡、能定罪，卻沒有能力賜下遵行的力量；唯有聖靈才能。
+保羅是對「明白律法的人」說話（7:1），可能同時包括熟悉摩西律法的猶太背景信徒，以及熟悉羅馬法律的外邦信徒——羅馬法同樣有「丈夫死後妻子解除婚姻義務」的原則。這比喻的重點不在律法本身的細節，而在一個簡單的法律常識：約束的力量止於死亡。保羅要說的是：你我藉著與基督同死（呼應6:3-6「與基督同死同復活」的洗禮真理），已經合法地脫離了律法對「舊我」的轄制，好叫我們能「歸於別人」——這不是無法無天，而是換了一位新的丈夫、新的生命源頭。7:6「按著心靈的新樣，不按著儀文的舊樣」（「心靈」原文或作「聖靈」）呼應2:29「割禮是心裏的，在乎聖靈，不在乎儀文」。保羅在全書中反覆使用這組對比，7章正是把這個原則具體展開：律法（儀文）能定義善惡、能定罪，卻沒有能力賜下遵行的力量；唯有聖靈才能。
 
 ### 「我」是誰在說話？
 
@@ -3027,7 +2691,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | σάρξ | sarx | 肉體 | 不單指物質身體，更指墮落、以自我為中心的人性傾向 |
 | νόμος | nomos | 律法／律 | 全章一詞多義，見下方說明 |
 | ἐπιθυμία | epithymia | 貪心／情慾 | 七十士譯本出埃及記20:17「不可貪心」用的是同字根動詞 *epithymeō* |
@@ -3055,38 +2719,30 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 律法本身是聖潔的 (The Law Itself Is Holy)
+### 1. 律法本身是聖潔的，卻只能診斷，不能醫治 (The Law Is Holy, but Diagnoses Rather Than Cures)
 
-保羅三次為律法辯護：「律法是罪嗎？斷乎不是」（7:7）、「律法是聖潔的，誡命也是聖潔、公義、良善的」（7:12）、「我們原曉得律法是屬乎靈的」（7:14）。問題從來不在律法，而在「我是屬乎肉體的」。這是全章最容易被誤讀之處——第7章不是在控告律法，而是在為律法平反，同時控告人裏面那沒有能力遵行律法的肉體。
+保羅三次為律法辯護：「律法是罪嗎？斷乎不是」（7:7）、「律法是聖潔的，誡命也是聖潔、公義、良善的」（7:12）、「我們原曉得律法是屬乎靈的」（7:14）。問題從來不在律法，而在「我是屬乎肉體的」。這是全章最容易被誤讀之處——第7章不是在控告律法，而是在為律法平反，同時控告人裏面那沒有能力遵行律法的肉體。律法像一面精準的鏡子、一台靈敏的X光機——它能準確地照出貪心（7:7）、暴露罪的存在（7:13），卻沒有一句話應許它能除去罪。診斷的精準與醫治的無力，正是第7章要人看清的悖論：知道自己病了，和有能力自己痊癒，是兩件完全不同的事。
 
-### 2. 律法能診斷，不能醫治 (The Law Diagnoses, It Does Not Cure)
-
-律法像一面精準的鏡子、一台靈敏的X光機——它能準確地照出貪心（7:7）、暴露罪的存在（7:13），卻沒有一句話應許它能除去罪。診斷的精準與醫治的無力，正是第7章要人看清的悖論：知道自己病了，和有能力自己痊癒，是兩件完全不同的事。
-
-### 3. 罪的位格化 (Sin Personified)
+### 2. 罪的位格化 (Sin Personified)
 
 7:8-11、17、20 中，「罪」不是抽象概念，而被保羅描寫成一個伺機而動的主體——它「趁著機會」「發動」「引誘」「殺」「住在」人裏面。這種寫法呼應創世記4:7「罪伏在門前，它想要控制你」——罪不只是一個行為的總稱，更像一個盤踞在人裏面、有自己意志和策略的權勢。
 
-### 4. 婚姻比喻：從律法之下到基督裏面 (Married to Another)
+### 3. 婚姻比喻：從律法之下到基督裏面 (Married to Another)
 
 7:1-6 的婚姻比喻常被簡化忽略，其實是全章的鑰匙：信徒與律法的關係不是「努力遵守得更好」，而是「已經死了、已經改嫁」。這不是逃避責任，而是換了一個能真正結果子的婚姻——「歸於別人……叫我們結果子給神」（7:4）。第6-25節所有的掙扎描寫，都是為了襯托這句話：離了與基督的聯合，人在律法之下永遠只能結出「死亡的果子」（7:5）。
 
-### 5. 「誰在說話」——一個誠實開放的問題
+### 4. 「誰在說話」與福音的提前闖入 (Who Is Speaking, and the Gospel Breaks In)
 
 7:14-25「我」的身分，是教會歷史上真誠、長期被討論的問題，本書不擅自宣稱唯一正確答案，而如實呈現兩種主要讀法：
 
 | 讀法 | 主張 | 代表 |
-|------|------|------|
+|---------------------------|---------------------------|---------------------------|
 | **重生後信徒的掙扎** | 這是保羅寫信當下、身為使徒仍在經歷的內心爭戰——正是因為越親近神、越活在聖靈中，才越敏銳地看見自己肉體的敗壞 | 奧古斯丁晚期立場、多數宗教改革家（路德、加爾文）、多數當代福音派釋經家 |
 | **未重生者／律法之下者的處境** | 這是描述人在單靠律法、尚未經歷聖靈更新之人的普遍光景，是為了襯托第8章「靠聖靈得勝」的對比 | 部分教父（如屈梭多模傾向此讀法）、部分當代學者 |
 
-兩種讀法都同意一件事：無論這段描述的是誰，答案都不在「我」自己裏面，而在7:25「感謝神！靠著我們的主耶穌基督」——這節經文，正是全章唯一無爭議的結論。
-
-### 6. 「感謝神」——福音提前闖入絕望 (The Gospel Breaks In Before Chapter 8 Begins)
-
-7:24-25 的結構極不尋常：絕望的哀嘆（24節）之後，緊接著爆發出感恩的宣告（25節上），然後又回到一句冷靜、近乎沮喪的總結（25節下：「肉體卻順服罪的律了」）。這不是保羅忘了收尾、寫壞了邏輯——這正是基督徒真實生命的寫照：得救的確據與仍在掙扎的現實同時存在。8章的得勝道理要到下一章才展開，但福音的答案，此刻已經先破口而出。
+兩種讀法都同意一件事：無論這段描述的是誰，答案都不在「我」自己裏面，而在7:25「感謝神！靠著我們的主耶穌基督」——這節經文，正是全章唯一無爭議的結論。7:24-25 的結構極不尋常：絕望的哀嘆（24節）之後，緊接著爆發出感恩的宣告（25節上），然後又回到一句冷靜、近乎沮喪的總結（25節下：「肉體卻順服罪的律了」）。這不是保羅忘了收尾、寫壞了邏輯——這正是基督徒真實生命的寫照：得救的確據與仍在掙扎的現實同時存在。8章的得勝道理要到下一章才展開，但福音的答案，此刻已經先破口而出。
 
 ---
 
@@ -3103,46 +2759,48 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > 出處：此為對奧古斯丁思想發展的一般性、綜合性描述，其早期與反伯拉糾時期著作對羅馬書7章解讀的轉變是教會歷史上有記載的公認事實，惟本書未逐字引用其原文段落，讀者若需查證，可另行核對《致辛普里西安》與《駁二封伯拉糾派書信》原文。
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他1515-1516年於維滕堡大學講授羅馬書的講義（*Lectures on Romans*）中，正是從羅馬書7章的掙扎中，讀出了他神學生涯中最重要的洞見之一——後世稱之為 ***simul iustus et peccator***（拉丁文，「同時是義人，也是罪人」）：信徒在基督裏已經被神完全稱義（地位上是義人），但在今生的實際光景中，罪的敗壞傾向仍然真實存在、仍要終身與之爭戰（狀態上仍是罪人）。這正是7:25那句看似矛盾的總結——「我以內心順服神的律，我肉體卻順服罪的律」——的神學提煉：稱義是一次性、法庭性的宣告，成聖卻是終身、漸進的爭戰，兩者同時真實，並不互相取消。
+路德在他1515-1516年於維滕堡大學講授羅馬書的講義（*Lectures on Romans*）中，正是從羅馬書7章的掙扎中，讀出了他一生中最重要的洞見之一——後世稱之為 ***simul iustus et peccator***（拉丁文，「同時是義人，也是罪人」）：信徒在基督裏已經被神完全稱義（地位上是義人），但在今生的實際光景中，罪的敗壞傾向仍然真實存在、仍要終身與之爭戰（狀態上仍是罪人）。這正是7:25那句看似矛盾的總結——「我以內心順服神的律，我肉體卻順服罪的律」——的精準提煉：稱義是一次性、法庭性的宣告，成聖卻是終身、漸進的爭戰，兩者同時真實，並不互相取消。
 
 > 出處：*simul iustus et peccator* 是路德神學中極為著名、有廣泛文獻記載的核心表述，直接根植於他對羅馬書（尤其第7章）的解讀；本書對其思想脈絡作一般性摘述，未逐字引用其講義原文段落。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：一貫強調，羅馬書7章描繪的正是每一個誠實省察自己的信徒都會經歷的光景——越深地認識神的律法何等聖潔，就越深地看見自己肉體何等敗壞；這一章不是要人灰心絕望，而是要打碎「靠自己努力就能討神喜悅」的幻覺，把人徹底推向唯獨依靠聖靈、唯獨依靠基督的第8章。
+摩根對羅馬書的整體觀察是：這卷書「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）」（見〈羅馬書概覽〉之已核實引句）——第7章正是這兩極之間最尖銳的交會點。摩根一貫強調，保羅在此並非在攻擊律法，而是在為律法「平反」：律法從未被造出來拯救人，它被賜下是要顯明人需要拯救。若把第7章單獨抽出來讀，會得出一幅絕望的圖畫；但摩根提醒讀者，保羅寫這一章從來不是為了讓人停在這裏——7:25那聲「感謝神」已經是第8章的序曲，是保羅刻意讓福音的答案先於系統的論述闖進讀者心裏。
+
+> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
+
+### 麥克阿瑟 (John MacArthur)
+
+一貫強調，羅馬書7章描繪的正是每一個誠實省察自己的信徒都會經歷的光景——越深地認識神的律法何等聖潔，就越深地看見自己肉體何等敗壞；這一章不是要人灰心絕望，而是要打碎「靠自己努力就能討神喜悅」的幻覺，把人徹底推向唯獨依靠聖靈、唯獨依靠基督的第8章。
 
 > 出處：此為對麥克阿瑟一貫解經立場與已知重點的一般性歸納轉述，未附具體講題、日期或 gty.org 網址連結，不宜視為逐字引句。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 130:1-4
 
-> **我從深處求告你，耶和華啊！**
-> 主啊，求你聽我的聲音；
-> 願你側耳聽我懇求的聲音！
-> 耶和華啊，你若究察罪孽，
-> 主啊，誰能站得住呢？
-> 但在你有赦免之恩，
+> **我從深處求告你，耶和華啊！** \
+> 主啊，求你聽我的聲音； \
+> 願你側耳聽我懇求的聲音！ \
+> 耶和華啊，你若究察罪孽， \
+> 主啊，誰能站得住呢？ \
+> 但在你有赦免之恩， \
 > 要叫人敬畏你。
 
-> **Out of the depths I cry to you, O LORD!**
-> O Lord, hear my voice!
-> Let your ears be attentive
-> to the voice of my pleas for mercy!
-> If you, O LORD, should mark iniquities,
-> O Lord, who could stand?
-> But with you there is forgiveness,
-> that you may be feared.
-
----
-
-## 聖詩默想 (Hymn Meditation)
+> **Out of the depths I have cried to You, O LORD.** \
+> Lord, hear my voice! \
+> Let Your ears be attentive \
+> To the voice of my supplications. \
+> If You, LORD, should mark iniquities, \
+> O Lord, who could stand? \
+> But there is forgiveness with You, \
+> That You may be feared.
 
 ### Come, Thou Fount of Every Blessing
 
@@ -3155,46 +2813,19 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：本書所依據之老弟兄原始查經筆記（`Logos_meditation/church/Thursday.md`，2024-2025年 Thursday 查經班逐條記錄）經查證，並無任何一則以羅馬書為主題的記載，這與提摩太前書等已有原始筆記可逐條核實的書卷不同。以下「老弟兄查經」內容，是以老弟兄一貫的查經方法論與領受框架（救恩三階段：稱義／成聖／得榮；「從讀到領受六層次」；提問式帶領；以整本聖經為根基、以認識耶穌基督為中心）忠實應用於羅馬書7章而成，**不是**逐字引用他對本章的歷史原始記錄。
 
-摩根對羅馬書的整體觀察是：這卷書「一半是你眼睛所見過最悲觀的文學篇章（論人的罪），一半是你耳朵所聽過最樂觀的詩歌（論神的救恩）」——第7章正是這兩極之間最尖銳的交會點。摩根一貫強調，保羅在此並非在攻擊律法，而是在為律法「平反」：律法從未被造出來拯救人，它被賜下是要顯明人需要拯救。若把第7章單獨抽出來讀，會得出一幅絕望的圖畫；但摩根提醒讀者，保羅寫這一章從來不是為了讓人停在這裏——7:25那聲「感謝神」已經是第8章的序曲，是保羅刻意讓福音的答案先於系統的論述闖進讀者心裏。
+**精義一句話**：律法能照出罪，卻不能除去罪；能定義善，卻不能生出行善的力量——基督徒最大的敵人不是魔鬼，是「己」，而唯一能勝過「己」的，唯獨基督。
 
-> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**基督徒最大的敵人是誰？**——老弟兄在帶領查經時，常以這個問題直指人心：「基督徒最大的敵人是誰？不是魔鬼——是『己』。」羅馬書7章正是這句話最赤裸的聖經印證：保羅面對的敵人，不是外面的逼迫或試探，而是「住在我裏頭的罪」（7:17,20）——那個連他自己都無法完全掌控的「己」。
-
-**屬靈人的三元結構**——老弟兄一貫以「靈、魂、體」的架構來解釋人裏面爭戰的根源：人犯罪之後，「靈」（原是與神交通的器官）失去了功效；「魂」（思想、情感、意志）就取代了靈原本的主導地位，成了「自我中心」的主宰；「體」則被靈或魂所指揮執行。用這個框架讀羅馬書7章，會發現保羅描述的正是這個結構的失序：「按著我裏面的意思，我是喜歡神的律」（7:22，這是重生之靈的渴望），但「肢體中另有個律和我心中的律交戰」（7:23，這是仍以自我為中心的魂與肉體的抵抗）。成聖，不是把「魂」修理得更聽話，而是讓「靈」重新在人裏面居首位——這唯獨是聖靈的工作，不是自我修養的工程。
-
-**你在7章，還是8章？**——依老弟兄一貫帶領查經的提問方式，這一章最適合的追問是：「你今天經歷的，是保羅在羅馬書7章的掙扎，還是8章的得勝？」這不是要人否認7章的真實（它確實是每一個誠實信徒終身都會回到的處境），而是要人分辨：你是停留在「靠自己」與罪纏鬥的循環裏，還是已經轉向「靠聖靈」得勝的道路（羅8:2「賜生命聖靈的律在基督耶穌裏釋放了我，使我脫離罪和死的律了」，和合本）？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Come, Thou Fount of Every Blessing*（萬福泉源，如前「配詩」所引）
-
-> Prone to wander, Lord, I feel it,
-> Prone to leave the God I love;
-> Here's my heart, O take and seal it,
-> Seal it for Thy courts above.
-
-**詩篇**：詩篇 130:3-4
-
-> 耶和華啊，你若究察罪孽，主啊，誰能站得住呢？但在你有赦免之恩，要叫人敬畏你。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**底圖：用「靈魂體」讀7章的失序**——老弟兄一貫以「靈、魂、體」的架構解釋人裏面爭戰的根源：人犯罪之後，「靈」（原是與神交通的器官）失去了功效；「魂」（思想、情感、意志）就取代了靈原本的主導地位，成了「自我中心」的主宰；「體」則被靈或魂所指揮執行。用這個框架讀羅馬書7章，會發現保羅描述的正是這個結構的失序：「按著我裏面的意思，我是喜歡神的律」（7:22，這是重生之靈的渴望），但「肢體中另有個律和我心中的律交戰」（7:23，這是仍以自我為中心的魂與肉體的抵抗）。成聖，不是把「魂」修理得更聽話，而是讓「靈」重新在人裏面居首位——這唯獨是聖靈的工作，不是自我修養的工程。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：律法是訓蒙的師傅，引人到基督那裏（加拉太書3:24）。羅馬書7章正是這節經文最詳細的展開——十誡最後一條「不可貪心」（7:7）揭開的，不是保羅一個人的問題，而是自伊甸園以來所有人的問題：創世記3章夏娃「貪」那分別善惡樹的果子，正是這一切「貪心」的原型。律法從西奈山頒下（出埃及記20章），從不是要人靠自己的力氣達到，而是要人在一次次「立志為善由得我，行出來由不得我」的挫敗中，承認自己需要一位救主。這條線從創世記3章的貪，經西奈山的律法，直到羅馬書7章「我真是苦啊」的哀嘆，最後收束在7:25「感謝神！靠著我們的主耶穌基督」——唯獨基督，是這條線的終點。
+**律法引到基督線**：律法是訓蒙的師傅，引人到基督那裏（加拉太書3:24）。羅馬書7章正是這節經文最詳細的展開——十誡最後一條「不可貪心」（7:7）揭開的，不是保羅一個人的問題，而是自伊甸園以來所有人的問題：創世記3章夏娃「貪」那分別善惡樹的果子，正是這一切「貪心」的原型。律法從西奈山頒下（出埃及記20章），從不是要人靠自己的力氣達到，而是要人在一次次「立志為善由得我，行出來由不得我」的挫敗中，承認自己需要一位救主。這條線從創世記3章的貪，經西奈山的律法，直到羅馬書7章「我真是苦啊」的哀嘆，最後收束在7:25「感謝神！靠著我們的主耶穌基督」——唯獨基督，是這條線的終點。
+
+**罪的位格化線**：7:8-11、17、20的「罪」被保羅描寫成一個伺機而動的主體——它「趁著機會」「發動」「引誘」「殺」「住在」人裏面，這呼應創世記4:7「罪伏在門前，它想要控制你」——罪不只是一個行為的總稱，更像一個盤踞在人裏面、有自己意志和策略的權勢，自伊甸園之外就已經如此。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -3215,17 +2846,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天有沒有經歷「立志為善由得我，行出來由不得我」的時刻？我當時是回到自己身上掙扎，還是回到「感謝神，靠著耶穌基督」？
 - **一個行動**：找出今天一個反覆出現、靠自己屢戰屢敗的軟弱，今天不再嘗試「下定決心」，而是具體向神說一次「我做不到，求你」。
 
----
+> 「律法叫你看見自己的病，卻沒有一句話應許能醫治你——你還想靠更嚴格地守律法變好嗎？聖經說『行出來由不得我』。」
 
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：律法能照出罪，卻不能除去罪；能定義善，卻不能生出行善的力量——基督徒最大的敵人不是魔鬼，是「己」，而唯一能勝過「己」的，唯獨基督。
-
-**貫通全經**：律法是訓蒙的師傅，引人到基督那裏（加3:24）——從伊甸園的貪心（創3章），到西奈山的誡命，到羅馬書7章「我真是苦啊」的哀嘆，終點只有一個：「感謝神！靠著我們的主耶穌基督」。
-
-**無法迴避的問題**：「你今天經歷的，是保羅在羅馬書7章的掙扎，還是8章的得勝？」
-
-> 「律法叫你看見自己的病，卻沒有一句話應許能醫治你——你還想靠更嚴格地守律法變好嗎？聖經說『行出來由不得我』。你看見耶穌了嗎？」
+**你看見耶穌了嗎**：整章的哀嘆——「我真是苦啊！誰能救我脫離這取死的身體呢？」——沒有停在絕望裏，因為下一句已經指名道姓：「感謝神！靠著我們的主耶穌基督」。是十字架斷開了律法的轄制，是復活的基督成了新的丈夫、新的生命之源——離了祂，連最好的律法也救不了人；你看見這位在黑暗盡頭等著你的基督了嗎？
 
 ---
 
@@ -3233,13 +2856,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 默想問題
 
-1. **誠實的自我認識**：我最近一次「我所願意的，我並不做；我所恨惡的，我倒去做」的經歷是甚麼？我當時如何回應——靠自己再努力一次，還是轉向基督？
+1. **simul iustus et peccator**：我是否能同時持守兩件事——因信稱義、在基督裏已經完全被神接納，以及承認自己仍在與罪爭戰、仍需要每天的恩典——而不偏向自義或絕望的任何一端？
 
 2. **律法與福音**：在我信仰生活中，有沒有把某些屬靈操練（讀經、禱告、服事）當成「靠自己守好律法」而非「靠聖靈結果子」？兩者的差別實際表現在哪裏？
 
-3. **「己」這個敵人**：老弟兄說基督徒最大的敵人是「己」——我今天生命中，「己」最頑固盤踞的一個具體領域是甚麼？
-
-4. **simul iustus et peccator**：我是否能同時持守兩件事——因信稱義、在基督裏已經完全被神接納，以及承認自己仍在與罪爭戰、仍需要每天的恩典——而不偏向自義或絕望的任何一端？
+3. **誰在說話**：「7:14-25的『我』是重生後的信徒，還是未重生者」這個問題，教會歷史上有不同讀法——你認為兩種讀法各自的道理在哪裏？為甚麼保羅不明確說清楚？
 
 ### 禱告回應
 
@@ -3255,21 +2876,18 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅為甚麼要用婚姻比喻（7:1-6）來解釋信徒與律法的關係？「歸於別人」對你有甚麼具體意義？
-
-2. 律法既是「聖潔、公義、良善的」（7:12），為甚麼它反而會使貪心「發動」（7:8）？這對你如何看待「規條」與「內心的罪」有甚麼提醒？
-
-3. 「誰在說話」（7:14-25的「我」是重生後的信徒，還是未重生者）這個問題，教會歷史上有不同讀法——你認為兩種讀法各自的道理在哪裏？為甚麼保羅不明確說清楚？
-
-4. 路德說「simul iustus et peccator」（同時是義人，也是罪人）——這句話如何幫助你理解7:25那看似矛盾的結尾（「我以內心順服神的律，我肉體卻順服罪的律」）？
-
-5. 老弟兄說「基督徒最大的敵人不是魔鬼，是『己』」——你同意嗎？在你自己的屬靈爭戰經驗中，「己」通常以甚麼樣貌出現？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 律法是訓蒙的師傅，引人到基督 | 7:7 | 加3:24、創3章、出20:17 |
+| 罪的位格化 | 7:8-11, 17, 20 | 創4:7 |
+| 心靈的新樣，不按儀文的舊樣 | 7:6 | 羅2:29 |
+| 「苦啊」的哀嘆 | 7:24 | 啟3:17 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -3279,27 +2897,31 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 8:1-39
 
----
+**經文核對**：[ai-eden.com/bible/romans/8](https://www.ai-eden.com/bible/romans/8?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-羅馬書8章從頭到尾都在說一件事：一切都「在基督耶穌裏」。第1節「不定罪」因為「在基督耶穌裏」；第39節「不能叫我們與神的愛隔絕」因為這愛「是在我們的主基督耶穌裏的」。中間的每一句應許——聖靈的內住、兒子的名分、將來的榮耀、萬事互相效力——都不是抽象的教義，而是那位「不愛惜自己的兒子，為我們眾人捨了」的神，藉著祂的兒子已經成就、正在成就、將要成就的事。7章結尾那個絕望的呼喊「我真是苦啊！誰能救我脫離這取死的身體呢？」，8章第一個字就是答案：「感謝神，藉著我們的主耶穌基督就能脫離了！」（7:24-25）羅馬書8章不是一份神學大綱，是一封寫給「在基督裏」之人的家書，從第一句到最後一句，主角只有一位——那位死了、復活了、如今在神右邊、也替我們祈求的基督耶穌（8:34）。
+> **本章鑰詞：不定罪 Katakrima** \
+> **全書坐標**：羅馬書8章是「成聖」卷（6:1-8:39）的最高峰與收束——6章與基督同死同活的宣告、7章與肉體掙扎的誠實坦白，都在8章「不再定罪」與「不能隔絕」之間收束成確據。全書五卷（定罪／稱義／成聖／揀選／活祭）在此完成「成聖」一卷，8:31-39的頌讚是6-8章整段論證的頂點。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
+
+羅馬書8章從頭到尾都在說一件事：一切都「在基督耶穌裏」。第1節「不定罪」因為「在基督耶穌裏」；第39節「不能叫我們與神的愛隔絕」因為這愛「是在我們的主基督耶穌裏的」。中間的每一句應許——聖靈的內住、兒子的名分、將來的榮耀、萬事互相效力——都不是抽象的教義，而是那位「不愛惜自己的兒子，為我們眾人捨了」的神，藉著祂的兒子已經成就、正在成就、將要成就的事。7章結尾那個絕望的呼喊「我真是苦啊！誰能救我脫離這取死的身體呢？」，8章第一個字就是答案：「感謝神，藉著我們的主耶穌基督就能脫離了！」（7:24-25）羅馬書8章不是一份教義大綱，是一封寫給「在基督裏」之人的家書，從第一句到最後一句，主角只有一位——那位死了、復活了、如今在神右邊、也替我們祈求的基督耶穌（8:34）。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Blessed Assurance**
+> **Blessed Assurance** \
 > *Fanny J. Crosby, 1873*
 >
-> Blessed assurance, Jesus is mine!
-> Oh, what a foretaste of glory divine!
-> Heir of salvation, purchase of God,
+> Blessed assurance, Jesus is mine! \
+> Oh, what a foretaste of glory divine! \
+> Heir of salvation, purchase of God, \
 > Born of His Spirit, washed in His blood.
 >
-> This is my story, this is my song,
-> Praising my Savior all the day long;
-> This is my story, this is my song,
+> This is my story, this is my song, \
+> Praising my Savior all the day long; \
+> This is my story, this is my song, \
 > Praising my Savior all the day long.
 
 芬妮·克羅斯比（Fanny Crosby）幼年失明，一生寫了超過八千首詩歌。這首詩歌寫於1873年，主題恰好呼應羅馬書8:16「聖靈與我們的心同證我們是神的兒女」。「Born of His Spirit」（從祂的靈生的）、「Heir of salvation」（承受救恩的後嗣），幾乎是羅馬書8:14-17的白話翻譯。
@@ -3309,6 +2931,8 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 ai-eden.com 逐節核對，並以 cnbible.com（現代標點和合本）交叉核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > **\textsuperscript{1}如今，那些在基督耶穌裏的就不定罪了。**\textsuperscript{2}因為賜生命聖靈的律，在基督耶穌裏釋放了我，使我脫離罪和死的律了。\textsuperscript{3}律法既因肉體軟弱，有所不能行的，神就差遣自己的兒子，成為罪身的形狀，作了贖罪祭，在肉體中定了罪案，\textsuperscript{4}使律法的義成就在我們這不隨從肉體、只隨從聖靈的人身上。
 
@@ -3328,27 +2952,25 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > **\textsuperscript{31}既是這樣，還有甚麼說的呢？神若幫助我們，誰能敵擋我們呢？\textsuperscript{32}神既不愛惜自己的兒子，為我們眾人捨了，豈不也把萬物和他一同白白的賜給我們麼？\textsuperscript{33}誰能控告神所揀選的人呢？有神稱他們為義了。\textsuperscript{34}誰能定他們的罪呢？有基督耶穌已經死了，而且從死裏復活，現今在神的右邊，也替我們祈求。\textsuperscript{35}誰能使我們與基督的愛隔絕呢？難道是患難麼？是困苦麼？是逼迫麼？是飢餓麼？是赤身露體麼？是危險麼？是刀劍麼？\textsuperscript{36}如經上所記：「我們為你的緣故終日被殺；人看我們如將宰的羊。」\textsuperscript{37}然而，靠著愛我們的主，在這一切的事上已經得勝有餘了。\textsuperscript{38}因為我深信無論是死，是生，是天使，是掌權的，是有能的，是現在的事，是將來的事，\textsuperscript{39}是高處的，是低處的，是別的受造之物，都不能叫我們與神的愛隔絕；這愛是在我們的主基督耶穌裏的。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 ai-eden.com 逐節核對（並以 cnbible.com 現代標點和合本交叉核對）；英文 ESV。
+### English — NASB
 
-### English — ESV
+> **\textsuperscript{1}Therefore there is now no condemnation for those who are in Christ Jesus.** \textsuperscript{2}For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and of death. \textsuperscript{3}For what the Law could not do, weak as it was through the flesh, God *did:* sending His own Son in the likeness of sinful flesh and *as an offering* for sin, He condemned sin in the flesh, \textsuperscript{4}so that the requirement of the Law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
 
-> **\textsuperscript{1}There is therefore now no condemnation for those who are in Christ Jesus.** \textsuperscript{2}For the law of the Spirit of life has set you free in Christ Jesus from the law of sin and death. \textsuperscript{3}For God has done what the law, weakened by the flesh, could not do. By sending his own Son in the likeness of sinful flesh and for sin, he condemned sin in the flesh, \textsuperscript{4}in order that the righteous requirement of the law might be fulfilled in us, who walk not according to the flesh but according to the Spirit.
+> \textsuperscript{5}For those who are according to the flesh set their minds on the things of the flesh, but those who are according to the Spirit, the things of the Spirit. \textsuperscript{6}For the mind set on the flesh is death, but the mind set on the Spirit is life and peace, \textsuperscript{7}because the mind set on the flesh is hostile toward God; for it does not subject itself to the law of God, for it is not even able *to do so,* \textsuperscript{8}and those who are in the flesh cannot please God. \textsuperscript{9}However, you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. But if anyone does not have the Spirit of Christ, he does not belong to Him.
 
-> \textsuperscript{5}For those who live according to the flesh set their minds on the things of the flesh, but those who live according to the Spirit set their minds on the things of the Spirit. \textsuperscript{6}For to set the mind on the flesh is death, but to set the mind on the Spirit is life and peace. \textsuperscript{7}For the mind that is set on the flesh is hostile to God, for it does not submit to God's law; indeed, it cannot. \textsuperscript{8}Those who are in the flesh cannot please God. \textsuperscript{9}You, however, are not in the flesh but in the Spirit, if in fact the Spirit of God dwells in you. Anyone who does not have the Spirit of Christ does not belong to him.
+> \textsuperscript{10}If Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness. \textsuperscript{11}But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit who dwells in you.
 
-> \textsuperscript{10}But if Christ is in you, although the body is dead because of sin, the Spirit is life because of righteousness. \textsuperscript{11}If the Spirit of him who raised Jesus from the dead dwells in you, he who raised Christ Jesus from the dead will also give life to your mortal bodies through his Spirit who dwells in you.
+> \textsuperscript{12}So then, brethren, we are under obligation, not to the flesh, to live according to the flesh— \textsuperscript{13}for if you are living according to the flesh, you must die; but if by the Spirit you are putting to death the deeds of the body, you will live.
 
-> \textsuperscript{12}So then, brothers, we are debtors, not to the flesh, to live according to the flesh. \textsuperscript{13}For if you live according to the flesh you will die, but if by the Spirit you put to death the deeds of the body, you will live.
+> **\textsuperscript{14}For all who are being led by the Spirit of God, these are sons of God. \textsuperscript{15}For you have not received a spirit of slavery leading to fear again, but you have received a spirit of adoption as sons by which we cry out, "Abba! Father!" \textsuperscript{16}The Spirit Himself testifies with our spirit that we are children of God, \textsuperscript{17}and if children, heirs also, heirs of God and fellow heirs with Christ, if indeed we suffer with *Him* so that we may also be glorified with *Him.***
 
-> **\textsuperscript{14}For all who are led by the Spirit of God are sons of God. \textsuperscript{15}For you did not receive the spirit of slavery to fall back into fear, but you have received the Spirit of adoption as sons, by whom we cry, "Abba! Father!" \textsuperscript{16}The Spirit himself bears witness with our spirit that we are children of God, \textsuperscript{17}and if children, then heirs — heirs of God and fellow heirs with Christ, provided we suffer with him in order that we may also be glorified with him.**
+> \textsuperscript{18}For I consider that the sufferings of this present time are not worthy to be compared with the glory that is to be revealed to us. \textsuperscript{19}For the anxious longing of the creation waits eagerly for the revealing of the sons of God. \textsuperscript{20}For the creation was subjected to futility, not willingly, but because of Him who subjected it, in hope \textsuperscript{21}that the creation itself also will be set free from its slavery to corruption into the freedom of the glory of the children of God. \textsuperscript{22}For we know that the whole creation groans and suffers the pains of childbirth together until now. \textsuperscript{23}And not only this, but also we ourselves, having the first fruits of the Spirit, even we ourselves groan within ourselves, waiting eagerly for *our* adoption as sons, the redemption of our body. \textsuperscript{24}For in hope we have been saved, but hope that is seen is not hope; for who hopes for what he *already* sees? \textsuperscript{25}But if we hope for what we do not see, with perseverance we wait eagerly for it.
 
-> \textsuperscript{18}For I consider that the sufferings of this present time are not worth comparing with the glory that is to be revealed to us. \textsuperscript{19}For the creation waits with eager longing for the revealing of the sons of God. \textsuperscript{20}For the creation was subjected to futility, not willingly, but because of him who subjected it, in hope \textsuperscript{21}that the creation itself will be set free from its bondage to corruption and obtain the freedom of the glory of the children of God. \textsuperscript{22}For we know that the whole creation has been groaning together in the pains of childbirth until now. \textsuperscript{23}And not only the creation, but we ourselves, who have the firstfruits of the Spirit, groan inwardly as we wait eagerly for adoption as sons, the redemption of our bodies. \textsuperscript{24}For in this hope we were saved. Now hope that is seen is not hope. For who hopes for what he sees? \textsuperscript{25}But if we hope for what we do not see, we wait for it with patience.
+> \textsuperscript{26}In the same way the Spirit also helps our weakness; for we do not know how to pray as we should, but the Spirit Himself intercedes for *us* with groanings too deep for words; \textsuperscript{27}and He who searches the hearts knows what the mind of the Spirit is, because He intercedes for the saints according to *the will of* God.
 
-> \textsuperscript{26}Likewise the Spirit helps us in our weakness. For we do not know what to pray for as we ought, but the Spirit himself intercedes for us with groanings too deep for words. \textsuperscript{27}And he who searches hearts knows what is the mind of the Spirit, because the Spirit intercedes for the saints according to the will of God.
+> **\textsuperscript{28}And we know that God causes all things to work together for good to those who love God, to those who are called according to *His* purpose. \textsuperscript{29}For those whom He foreknew, He also predestined *to become* conformed to the image of His Son, so that He would be the firstborn among many brethren; \textsuperscript{30}and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.**
 
-> **\textsuperscript{28}And we know that for those who love God all things work together for good, for those who are called according to his purpose. \textsuperscript{29}For those whom he foreknew he also predestined to be conformed to the image of his Son, in order that he might be the firstborn among many brothers. \textsuperscript{30}And those whom he predestined he also called, and those whom he called he also justified, and those whom he justified he also glorified.**
-
-> **\textsuperscript{31}What then shall we say to these things? If God is for us, who can be against us? \textsuperscript{32}He who did not spare his own Son but gave him up for us all, how will he not also with him graciously give us all things? \textsuperscript{33}Who shall bring any charge against God's elect? It is God who justifies. \textsuperscript{34}Who is to condemn? Christ Jesus is the one who died — more than that, who was raised — who is at the right hand of God, who indeed is interceding for us. \textsuperscript{35}Who shall separate us from the love of Christ? Shall tribulation, or distress, or persecution, or famine, or nakedness, or danger, or sword? \textsuperscript{36}As it is written, "For your sake we are being killed all the day long; we are regarded as sheep to be slaughtered." \textsuperscript{37}No, in all these things we are more than conquerors through him who loved us. \textsuperscript{38}For I am sure that neither death nor life, nor angels nor rulers, nor things present nor things to come, nor powers, \textsuperscript{39}nor height nor depth, nor anything else in all creation, will be able to separate us from the love of God in Christ Jesus our Lord.**
+> **\textsuperscript{31}What then shall we say to these things? If God *is* for us, who *is* against us? \textsuperscript{32}He who did not spare His own Son, but delivered Him over for us all, how will He not also with Him freely give us all things? \textsuperscript{33}Who will bring a charge against God's elect? God is the one who justifies; \textsuperscript{34}who is the one who condemns? Christ Jesus is He who died, yes, rather who was raised, who is at the right hand of God, who also intercedes for us. \textsuperscript{35}Who will separate us from the love of Christ? Will tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? \textsuperscript{36}Just as it is written, "FOR YOUR SAKE WE ARE BEING PUT TO DEATH ALL DAY LONG; WE WERE CONSIDERED AS SHEEP TO BE SLAUGHTERED." \textsuperscript{37}But in all these things we overwhelmingly conquer through Him who loved us. \textsuperscript{38}For I am convinced that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, \textsuperscript{39}nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.**
 
 ---
 
@@ -3377,7 +2999,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | κατάκριμα | katakrima | 定罪 | 法庭用語，與3章「稱義」（*dikaiōsis*）相對；8:1宣告這判決已被撤銷 |
 | ὁ νόμος τοῦ πνεύματος τῆς ζωῆς | ho nomos tou pneumatos tēs zōēs | 賜生命聖靈的律 | 與「罪和死的律」相對，「律」在此指運作的原則/權勢，非摩西律法 |
 | σάρξ / πνεῦμα | sarx / pneuma | 肉體 / 靈 | 8:5-9核心對比；非指物質身體，而是兩種生命取向、兩種主權歸屬 |
@@ -3391,7 +3013,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 8:29-30「金鏈」的文法奇觀——為何「得榮耀」用過去式？
 
-保羅在這兩節連用五個動詞：預知、預定、召、稱義、得榮耀，全部是希臘文的**過去時態（aorist）**。前四個動詞描述已經或正在信徒生命中發生的事，尚可理解；但「得榮耀」（*edoxasen*）明明是信徒肉身復活、完全得贖之後才會發生的事（8:23「等候得著兒子的名分，乃是我們的身體得贖」），保羅卻用過去式寫出。這不是文法失誤，而是保羅刻意的宣告：從神永恆的視角看，這條從預知到得榮耀的鏈條沒有一環是不確定的——神說了算的事，即使尚未在時間裏成就，在神的計劃裏已經和「已經稱義」一樣確實。這正是羅馬書8章「確據」（assurance）神學最堅實的文法根基。
+保羅在這兩節連用五個動詞：預知、預定、召、稱義、得榮耀，全部是希臘文的**過去時態（aorist）**。前四個動詞描述已經或正在信徒生命中發生的事，尚可理解；但「得榮耀」（*edoxasen*）明明是信徒肉身復活、完全得贖之後才會發生的事（8:23「等候得著兒子的名分，乃是我們的身體得贖」），保羅卻用過去式寫出。這不是文法失誤，而是保羅刻意的宣告：從神永恆的視角看，這條從預知到得榮耀的鏈條沒有一環是不確定的——神說了算的事，即使尚未在時間裏成就，在神的計劃裏已經和「已經稱義」一樣確實。這正是羅馬書8章「確據」（assurance）最堅實的文法根基。
 
 ### *synergei*（8:28）——「萬事都是好的」還是「萬事都互相效力叫人得益處」？
 
@@ -3399,45 +3021,29 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 無可定罪的判決 (8:1) — 稱義的確據
 
 「不定罪」（*katakrima*）是法庭宣告，與3:21-26「稱義」（*dikaiōsis*）是同一個法庭用語的正反兩面：稱義是神宣告「義」，不定罪是神宣告「不再有罪的刑罰」。這判決一次性完成，不會因信徒日後的軟弱而重新開庭——因為判決的根據不是信徒的表現，而是「在基督耶穌裏」這個位置性的事實。7章描寫的內心掙扎，不能推翻8:1的判決；恰恰相反，8:1是7章掙扎唯一站得住的地基。
 
-### 2. 神做了律法做不到的事 (8:2-4)
+### 2. 神做了律法做不到的事，兩種心思的試金石 (8:2-9)
 
-律法本身是聖潔、公義、良善的（7:12），但律法「因肉體軟弱，有所不能行的」——它能定義何為罪，卻不能賜下勝過罪的能力。神做的，是差遣自己的兒子「成為罪身的形狀」（不是有罪的肉身，而是取了與罪人相同的、會受苦會死的肉身樣式），「作了贖罪祭，在肉體中定了罪案」——罪在基督的肉身上被神審判、被解決了，使「律法的義」（不是律法本身，而是律法所要求、卻無人能達到的義），能夠「成就在我們這不隨從肉體、只隨從聖靈的人身上」。
+律法本身是聖潔、公義、良善的（7:12），但律法「因肉體軟弱，有所不能行的」——它能定義何為罪，卻不能賜下勝過罪的能力。神做的，是差遣自己的兒子「成為罪身的形狀」（不是有罪的肉身，而是取了與罪人相同的、會受苦會死的肉身樣式），「作了贖罪祭，在肉體中定了罪案」——罪在基督的肉身上被神審判、被解決了，使「律法的義」（不是律法本身，而是律法所要求、卻無人能達到的義），能夠「成就在我們這不隨從肉體、只隨從聖靈的人身上」。「體貼肉體」與「體貼聖靈」不是兩種生活風格的選擇，而是兩種生命的本質——「體貼肉體的，就是與神為仇」，「屬肉體的人不能得神的喜歡」。8:9是全章最叫人肅然的一句：「人若沒有基督的靈，就不是屬基督的。」這不是威脅信徒失去救恩，而是為「甚麼是真信心」劃下一條清楚的界線——聖靈的內住不是屬靈生活的裝飾，是屬乎基督的人**必然**擁有的記號。
 
-### 3. 兩種心思，一個真信心的試金石 (8:5-9)
+### 3. 聖靈——復活生命的保證，也是不可撤銷的兒子名分 (8:10-17)
 
-「體貼肉體」與「體貼聖靈」不是兩種生活風格的選擇，而是兩種生命的本質——「體貼肉體的，就是與神為仇」，「屬肉體的人不能得神的喜歡」。8:9是全章最叫人肅然的一句：「人若沒有基督的靈，就不是屬基督的。」這不是威脅信徒失去救恩，而是為「甚麼是真信心」劃下一條清楚的界線——聖靈的內住不是屬靈生活的裝飾，是屬乎基督的人**必然**擁有的記號。
+「叫耶穌從死裏復活者的靈」若住在信徒裏面，「也必藉著住在你們心裏的聖靈，使你們必死的身體又活過來」。這不是比喻性的「屬靈復活」，而是明確指向末日身體的復活——聖靈的內住，是神給信徒身體將來要復活的**保證**（參弗1:14「作我們得基業的憑據」）。見上文「背景」對*huiothesia*的說明。8:15-16的重點是雙重見證：「聖靈與我們的心同證」——不是信徒單方面的自我感覺，而是聖靈親自參與、確認的見證。8:17把兒子名分推到極致：「既是兒女，便是後嗣」，而且「和基督同作後嗣」——這意味著信徒承受的，不是次等的產業，而是與基督同等的產業，條件是「如果我們和他一同受苦，也必和他一同得榮耀」。
 
-### 4. 聖靈——復活生命的保證 (8:10-11)
+### 4. 宇宙性的盼望，也是聖靈親自的代求 (8:18-27)
 
-「叫耶穌從死裏復活者的靈」若住在信徒裏面，「也必藉著住在你們心裏的聖靈，使你們必死的身體又活過來」。這不是比喻性的「屬靈復活」，而是明確指向末日身體的復活——聖靈的內住，是神給信徒身體將來要復活的**保證**（參弗1:14「作我們得基業的憑據」）。
+保羅把個人的救恩放進整個受造界的敘事裏：不只信徒，「一切受造之物一同歎息、勞苦，直到如今」。這提醒我們，救恩的終局不是靈魂脫離物質世界飛升天堂，而是整個被造的世界與神兒女一同「脫離敗壞的轄制」，「得享神兒女自由的榮耀」。8:24-25「我們得救是在乎盼望；只是所見的盼望不是盼望」——盼望的本質就是尚未看見，因此「忍耐等候」不是軟弱的表現，是盼望真實的證據。「我們本不曉得當怎樣禱告」——這是每個誠實禱告者都經歷過的軟弱。聖靈的回應不是教我們說出更漂亮的禱詞，而是「親自用說不出來的歎息替我們禱告」。8:27保證這代求「照著神的旨意」，與8:28「按他旨意被召的人」前後呼應——聖靈的嘆息與神的旨意之間，沒有落差。
 
-### 5. 兒子名分——法律上完全、不可撤銷的收養 (8:14-17)
+### 5. 萬事互相效力，也是從永恆到永恆的金鏈 (8:28-30)
 
-見上文「背景」對*huiothesia*的說明。8:15-16的重點是雙重見證：「聖靈與我們的心同證」——不是信徒單方面的自我感覺，而是聖靈親自參與、確認的見證。8:17把兒子名分推到極致：「既是兒女，便是後嗣」，而且「和基督同作後嗣」——這意味著信徒承受的，不是次等的產業，而是與基督同等的產業，條件是「如果我們和他一同受苦，也必和他一同得榮耀」。
+見上文原文研讀對*synergei*的分析。這節經文常被輕率地當作安慰創可貼使用，但保羅的原意更深沉、也更誠實：他不否認苦難是真實的惡，他宣告的是神主權介入這些真實的惡、使之服事一個更大的善——「叫愛神的人得益處」，而這益處在下一節立刻被定義：不是財富健康，而是「效法他兒子的模樣」（8:29）。五個動詞連成一條從創世以前到末世完成、沒有斷環的鏈子。**誠實的說明**：「預知」（*proegnō*）與「預定」（*proōrisen*）二詞之間的關係——神是預知了誰會信而後預定，還是神主權的預定本身塑造了信心的發生——是教會歷史上跨越改革宗、亞米念、及其他傳統，長期存在、至今仍在持續討論的問題。本書不在此代替讀者選邊站；無論讀者傾向哪一種理解，保羅在這裏的**目的**是清楚的——不是要挑起思辨的爭論，而是要給正在受苦的信徒（8:18起的脈絡）一個堅實的確據：從神那一端看，救恩的鏈條沒有一環會斷。
 
-### 6. 宇宙性的盼望——受造界也在等候 (8:18-25)
-
-保羅把個人的救恩放進整個受造界的敘事裏：不只信徒，「一切受造之物一同歎息、勞苦，直到如今」。這提醒我們，救恩的終局不是靈魂脫離物質世界飛升天堂，而是整個被造的世界與神兒女一同「脫離敗壞的轄制」，「得享神兒女自由的榮耀」。8:24-25「我們得救是在乎盼望；只是所見的盼望不是盼望」——盼望的本質就是尚未看見，因此「忍耐等候」不是軟弱的表現，是盼望真實的證據。
-
-### 7. 聖靈的代求——用嘆息代替我們不知如何說出的禱告 (8:26-27)
-
-「我們本不曉得當怎樣禱告」——這是每個誠實禱告者都經歷過的軟弱。聖靈的回應不是教我們說出更漂亮的禱詞，而是「親自用說不出來的歎息替我們禱告」。8:27保證這代求「照著神的旨意」，與8:28「按他旨意被召的人」前後呼應——聖靈的嘆息與神的旨意之間，沒有落差。
-
-### 8. 萬事互相效力——不是「都是好的」，而是「都被引向益處」 (8:28)
-
-見上文原文研讀對*synergei*的分析。這節經文常被輕率地當作安慰創可貼使用，但保羅的原意更深沉、也更誠實：祂不否認苦難是真實的惡，祂宣告的是神主權介入這些真實的惡、使之服事一個更大的善——「叫愛神的人得益處」，而這益處在下一節立刻被定義：不是財富健康，而是「效法他兒子的模樣」（8:29）。
-
-### 9. 金鏈：從永恆的預知到永恆的得榮 (8:29-30)
-
-五個動詞連成一條從創世以前到末世完成、沒有斷環的鏈子。**誠實的說明**：「預知」（*proegnō*）與「預定」（*proōrisen*）二詞之間的關係——神是預知了誰會信而後預定，還是神主權的預定本身塑造了信心的發生——是教會歷史上跨越改革宗、亞米念、及其他傳統，長期存在、至今仍在持續討論的問題。本書不在此代替讀者選邊站；無論讀者傾向哪一種理解，保羅在這裏的**目的**是清楚的——不是要挑起思辨的爭論，而是要給正在受苦的信徒（8:18起的脈絡）一個堅實的確據：從神那一端看，救恩的鏈條沒有一環會斷。
-
-### 10. 若神幫助我們，誰能抵擋我們？——全書最高的頌讚 (8:31-39)
+### 6. 若神幫助我們，誰能抵擋我們？——全書最高的頌讚 (8:31-39)
 
 這是保羅用一連串修辭問句寫成的法庭場景：誰能控告？誰能定罪？誰能隔絕？每個問題的答案都指向同一個事實——「神既不愛惜自己的兒子，為我們眾人捨了」（8:32），這是全部應許的擔保：如果神連最大的都給了，還有甚麼會留著不給？8:33-34把場景搬進最高法庭：控告者出現，但「有神稱他們為義了」；定罪者出現，但「有基督耶穌已經死了，而且從死裏復活，現今在神的右邊，也替我們祈求」——原告根本無法開口，因為法官已經宣判，辯護律師就是那位替我們死而復活的基督自己。8:35-39是保羅刻意窮盡一切可能的分隔者——患難、困苦、逼迫、飢餓、赤身露體、危險、刀劍、死、生、天使、掌權的、有能的、現在、將來、高處、低處、別的受造之物——列出十七樣，逐一否定，最後宣告：沒有一樣、也不可能有任何一樣，能使我們與神在基督耶穌裏的愛隔絕。
 
@@ -3462,19 +3068,32 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **馬丁·路德 (Martin Luther, 1483-1546)**
 
-路德一生神學突破的核心，正是重新發現「因信稱義」使人脫離定罪恐懼的自由——這也是他在講論羅馬書時反覆強調的主題。羅馬書8:1「不定罪」，與他所理解的因信稱義的果效高度一致：良心的確據不是靠不斷檢視自己的行為表現，而是單單仰望基督已經完成的義。
+路德一生真理突破的核心，正是重新發現「因信稱義」使人脫離定罪恐懼的自由——這也是他在講論羅馬書時反覆強調的主題。羅馬書8:1「不定罪」，與他所理解的因信稱義的果效高度一致：良心的確據不是靠不斷檢視自己的行為表現，而是單單仰望基督已經完成的義。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
+
+> 「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）。」
+> ——已於00-overview.md核實引用
+
+8章正是這首「最樂觀的詩歌」唱到最高音的地方——1-3章描寫人的絕境有多深，8章就描寫神的恩典有多高。
+
+**從「取死的身體」到「不被定罪」**：摩根一貫的解經進路，重視段落與段落之間的連接詞與語氣轉折。7:24「我真是苦啊！誰能救我脫離這取死的身體呢？」與8:1「如今……就不被定罪了」之間，是羅馬書全書語氣最劇烈的轉折之一——從第一人稱單數的孤軍奮戰（「我」在7章出現超過三十次），轉為「在基督耶穌裏」的群體性確據。這個轉折本身，就是保羅要傳達的信息：脫離罪與死的轄制，靠的不是「我」更努力地掙扎，而是「在基督裏」這個已然成就的位置。
+
+**三個階段的結構——稱義、成聖、得榮，全部在8章交會**：摩根對羅馬書的結構分析，一貫強調6-8章整體是論證「成聖」（新生命如何實際活出來），而8章本身又是一個微型的救恩全景——8:1是稱義的確據回顧（一次完成，解決罪的刑罰），8:1-17是聖靈引導下成聖生活的展開（持續進行，對付罪的權勢），8:18-30是得榮盼望的展望（末後完成，解決罪的存在）。三個階段的術語雖是後代系統神學的整理，但保羅在8章的鋪陳次序本身，正是沿著這條時間軸行進的。
+
+**萬物與神兒女一同得釋放**：摩根對8:19-22「受造之物切望等候」的處理，強調救恩的終局範圍遠比一般信徒想像的更宏大——不只是靈魂得救、身體復活，連帶整個被造世界都要「從敗壞的轄制下得釋放」。這提醒讀者，基督教盼望不是逃離物質世界，而是物質世界本身的更新與釋放。
+
+**8:31-39是全羅馬書、甚至全新約辯護詞的巔峰**：摩根將這段稱為保羅式論證法（一連串修辭問句、逐一自問自答）用得最淋漓盡致的段落——每個問題背後，都是保羅先在心裏想過、也逐一駁倒過的控告，最後才敢寫下「無人能定我們的罪、無物能叫我們與神的愛隔絕」這樣毫無保留的宣告。
+
+> 出處：本節為對 G. Campbell Morgan 羅馬書相關講章一貫解經立場與結構分析方法的一般性、綜合性論述（未附具體篇章頁碼），僅「你眼睛所見過最悲觀的文學篇章……」一句沿用 00-overview.md 已核實之逐字引句。
+
+### 麥克阿瑟 (John MacArthur)
 
 **約翰·麥克阿瑟 (John MacArthur)** — 對8章的觀點屬一般性歸納轉述，非逐字引句：麥克阿瑟一貫強調，8:1的「不定罪」與8:9「人若沒有基督的靈，就不是屬基督的」必須合併來讀——真確據不是廉價的安全感，而是建立在聖靈實際內住這個可驗證的生命記號上；假冒的確據會忽略8:9這道試金石。
 
-**坎伯·摩根 (G. Campbell Morgan)** — 摩根在00-overview中已被引用的名句，適切地總結了羅馬書從1-8章的整體弧線：「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）。」8章正是這首「最樂觀的詩歌」唱到最高音的地方——1-3章描寫人的絕境有多深，8章就描寫神的恩典有多高。
-
-> 出處：奧古斯丁、加爾文、路德三段為對其一貫神學立場之一般性、綜合性歸納轉述，非逐字引句，未附具體著作頁碼；MacArthur段為對其解經立場之一般性歸納；Morgan段之引句沿用 00-overview.md 已核實之引文原文。
-
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 44:20-26
 
@@ -3484,15 +3103,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 >
 > \textsuperscript{20}倘若我們忘了神的名，或向別神舉手，\textsuperscript{21}神豈不鑒察這事嗎？因為他曉得人心裏的隱祕。\textsuperscript{22}我們為你的緣故終日被殺，人看我們如將宰的羊。\textsuperscript{23}主啊，求你睡醒！為何儘睡呢？求你興起，不要永遠丟棄我們！\textsuperscript{24}你為何掩面，不顧我們所遭的苦難和所受的欺壓？\textsuperscript{25}我們的性命伏於塵土，我們的肚腹緊貼地面。\textsuperscript{26}求你起來幫助我們，憑你的慈愛救贖我們！
 
-> **English (ESV)**
+> **English (NASB)**
 >
-> \textsuperscript{20}If we had forgotten the name of our God or spread out our hands to a foreign god, \textsuperscript{21}would not God discover this? For he knows the secrets of the heart. \textsuperscript{22}Yet for your sake we are killed all the day long; we are regarded as sheep to be slaughtered. \textsuperscript{23}Awake! Why are you sleeping, O Lord? Rouse yourself! Do not reject us forever! \textsuperscript{24}Why do you hide your face? Why do you forget our affliction and oppression? \textsuperscript{25}For our soul is bowed down to the dust; our belly clings to the ground. \textsuperscript{26}Rise up; come to our help! Redeem us for the sake of your steadfast love!
+> \textsuperscript{20}If we had forgotten the name of our God Or extended our hands to a strange god, \textsuperscript{21}Would not God find this out? For He knows the secrets of the heart. \textsuperscript{22}But for Your sake we are killed all day long; We are considered as sheep to be slaughtered. \textsuperscript{23}Arouse Yourself, why do You sleep, O Lord? Awake, do not reject us forever. \textsuperscript{24}Why do You hide Your face *And* forget our affliction and our oppression? \textsuperscript{25}For our soul has sunk down into the dust; Our body cleaves to the earth. \textsuperscript{26}Rise up, be our help, And redeem us for the sake of Your lovingkindness.
 
 詩篇44的詩人在苦難中幾乎要質問神是否「睡著了」；保羅引用同一句經文，卻不是要延續這質問，而是要正面回答它——是的，苦難真實存在，「終日被殺」不是誇張；但正是在承認苦難最誠實的地方，羅馬書8章給出詩篇44所沒有的確據：不是神睡著了，而是神的兒子已經替我們死而復活，如今在神右邊代求。詩篇的呻吟被8:26-27「聖靈用無可言喻的嘆息替我們祈求」接住，也被8:37「我們已經得勝有餘了」翻轉過來。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### Blessed Assurance
 
@@ -3500,91 +3115,38 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### The Love of God
 
-> **The Love of God**
+> **The Love of God** \
 > *Frederick M. Lehman, 1917*
 >
-> The love of God is greater far
-> Than tongue or pen can ever tell;
-> It goes beyond the highest star,
+> The love of God is greater far \
+> Than tongue or pen can ever tell; \
+> It goes beyond the highest star, \
 > And reaches to the lowest hell;
 >
-> Could we with ink the ocean fill,
-> And were the skies of parchment made,
-> Were every stalk on earth a quill,
-> And every man a scribe by trade;
-> To write the love of God above
-> Would drain the ocean dry;
-> Nor could the scroll contain the whole,
+> Could we with ink the ocean fill, \
+> And were the skies of parchment made, \
+> Were every stalk on earth a quill, \
+> And every man a scribe by trade; \
+> To write the love of God above \
+> Would drain the ocean dry; \
+> Nor could the scroll contain the whole, \
 > Though stretched from sky to sky.
 
 這首詩歌的第三節（「Could we with ink the ocean fill」）流傳的歷史相當特別：據流傳的記載，弗雷德里克·萊曼（Frederick Lehman）當年是在一間罐頭工廠工作時，讀到一首古老的、據說曾寫在一間精神病院牆上的詩，深受感動，將其略作修改後加為第三節，配上自己新寫的前兩節與副歌。無論這段軼事的細節如何，這節歌詞本身流傳已久，其「用海洋作墨、用穹蒼作紙，仍寫不盡神的愛」的意象，與羅馬書8:35-39保羅窮盡一切可能的分隔者、逐一否定的寫法，是同一種修辭衝動——用「寫不完」來說明「愛大到無法測度」。8:35-39列出十七樣「不能」，這首詩歌用「墨水寫不盡」表達的，是同一件事的另一面：不是分隔者太多數不完，而是神的愛太大，任何清單都裝不下。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**從「取死的身體」到「不被定罪」**：摩根一貫的解經進路，重視段落與段落之間的連接詞與語氣轉折。7:24「我真是苦啊！誰能救我脫離這取死的身體呢？」與8:1「如今……就不被定罪了」之間，是羅馬書全書語氣最劇烈的轉折之一——從第一人稱單數的孤軍奮戰（「我」在7章出現超過三十次），轉為「在基督耶穌裏」的群體性確據。這個轉折本身，就是保羅要傳達的信息：脫離罪與死的轄制，靠的不是「我」更努力地掙扎，而是「在基督裏」這個已然成就的位置。
-
-**三個階段的結構——稱義、成聖、得榮，全部在8章交會**：摩根對羅馬書的結構分析，一貫強調6-8章整體是論證「成聖」（新生命如何實際活出來），而8章本身又是一個微型的救恩全景——8:1是稱義的確據回顧，8:1-17是聖靈引導下成聖生活的展開，8:18-30是得榮盼望的展望。三個階段的神學術語雖是後代系統神學的整理，但保羅在8章的鋪陳次序本身，正是沿著這條時間軸行進的。
-
-**萬物與神兒女一同得釋放**：摩根對8:19-22「受造之物切望等候」的處理，強調救恩的終局範圍遠比一般信徒想像的更宏大——不只是靈魂得救、身體復活，連帶整個被造世界都要「從敗壞的轄制下得釋放」。這提醒讀者，基督教盼望不是逃離物質世界，而是物質世界本身的更新與釋放。
-
-**8:31-39是全羅馬書、甚至全新約辯護詞的巔峰**：摩根將這段稱為保羅式論證法（一連串修辭問句、逐一自問自答）用得最淋漓盡致的段落——每個問題背後，都是保羅先在心裏想過、也逐一駁倒過的控告，最後才敢寫下「無人能定我們的罪、無物能叫我們與神的愛隔絕」這樣毫無保留的宣告。
-
-> 出處：本節為對 G. Campbell Morgan 羅馬書相關講章一貫解經立場與結構分析方法的一般性、綜合性論述（未附具體篇章頁碼），僅「你眼睛所見過最悲觀的文學篇章……」一句沿用 00-overview.md 已核實之逐字引句。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**救恩三階段在羅馬書8章的完整顯現**：老弟兄帶查經時常用的「救恩三階段」框架——稱義、成聖、得榮——在羅馬書全書中散佈各處，但唯獨在第8章，三者被壓縮進同一章、以清楚可辨的次序依序出現：
-
-| 階段 | 神學術語 | 8章中的對應經文 | 核心動作 | 解決的問題 |
-|------|----------|----------------|----------|------------|
-| 稱義 | Justification | 8:1「不被定罪」 | 一次完成 | 罪的刑罰（過去） |
-| 成聖 | Sanctification | 8:1-17「隨從聖靈」「治死身體的惡行」 | 持續漸進 | 罪的權勢（現在） |
-| 得榮 | Glorification | 8:18-30「將來的榮耀」「身體得贖」 | 末後完成 | 罪的存在（將來） |
-
-老弟兄一貫的提問方式是：「你今天活在8:1的『不再定罪』裏，還是仍活在7章的定罪感裏？」——這一句話，把整章神學收束成一個每天早晨都要重新回答的問題。許多信徒理智上同意「不再定罪」，生活中卻仍每天活在自我控告的循環裏，那正是還沒有真正「住」在8:1的確據裏。
-
-**聖靈的內住是試金石，不是加分項**：8:9「人若沒有基督的靈，就不是屬基督的」，老弟兄的查經方法論一貫強調：知識、道德努力、宗教熱心都不能替代聖靈的內住這個記號——這與他一貫的提醒「任何讀經方法都不夠，必須靠聖靈」「字句叫人死，精義（聖靈）叫人活」完全一致。讀羅馬書8章，若只把它當作神學系統來分析，卻沒有聖靈自己在心裏「一同見證」（8:16），那也只是「字句」，不是「精義」。
-
-**確據是今天的、每天的，不是一次性的宗教情感**：老弟兄一貫強調屬靈操練要落在「每日的活祭」——早晨交託，晚上省察。羅馬書8章的確據若不落到每日的生活節奏裏，就容易退化成一次性的情感高峰，而不是持續的生命狀態。8:1的判決是一次完成、永不改判的；但活在這判決的確據裏，卻是每天早晨要重新選擇、重新領受的操練。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*The Love of God*（見前「聖詩默想」所引第三節）
-
-> Could we with ink the ocean fill,
-> And were the skies of parchment made,
-> Were every stalk on earth a quill,
-> And every man a scribe by trade;
-> To write the love of God above
-> Would drain the ocean dry;
-> Nor could the scroll contain the whole,
-> Though stretched from sky to sky.
-
-**詩篇**：詩篇 44:26
-
-> 求你興起幫助我們！因你的慈愛救贖我們！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
-
-*（方法論說明：見上文「三大資源深度整合」出處行）*
+**精義一句話**：定罪已經撤銷，兒子名分已經賜下，得勝已經確定——你今天的問題不是「我夠不夠格」，而是「我信不信這已經是事實」。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：從「奴僕的靈」到「兒子的靈」，是整本聖經一直在講的一條線。出埃及記，以色列人是埃及的奴僕，神說「以色列是我的兒子，我的長子」（出4:22）；羅馬書8:15「你們所受的，不是奴僕的心，仍舊害怕；所受的，乃是兒子的心」，正是這條出埃及敘事在新約的屬靈成就——不再是為法老作苦工的奴僕，而是被神親自領出來、稱為兒子的百姓。
+**兒子名分線**：出埃及記中，以色列人原是埃及的奴僕，神卻說「以色列是我的兒子，我的長子」（出4:22）；羅馬書8:15「你們所受的，不是奴僕的心，仍舊害怕；所受的，乃是兒子的心」，正是這條出埃及敘事在新約的屬靈成就——不再是為法老作苦工的奴僕，而是被神親自領出來、稱為兒子的百姓。這條線也連著加拉太書4:4-7：「及至時候滿足，神就差遣他的兒子……要把律法以下的人贖出來，叫我們得著兒子的名分。你們既為兒子，神就差他兒子的靈進入你們的心，呼叫：『阿爸！父！』」——羅馬書8:15與加拉太書4:6幾乎是同一句話的兩次書寫，保羅在不同的教會、面對不同的問題，卻用同一個「阿爸」的呼喊，去說明信徒與神最深的關係。
 
-這條線也連著加拉太書4:4-7：「及至時候滿足，神就差遣他的兒子……要把律法以下的人贖出來，叫我們得著兒子的名分。你們既為兒子，神就差他兒子的靈進入你們的心，呼叫：『阿爸！父！』」——羅馬書8:15與加拉太書4:6幾乎是同一句話的兩次書寫，保羅在不同的教會、面對不同的問題，卻用同一個「阿爸」的呼喊，去說明信徒與神最深的關係。
-
-再往前連著創世記——亞當夏娃犯罪之後，不再能坦然無懼地與神同行，反而「藏在園裏的樹木中」（創3:8）；羅馬書8章要說的是：那個失落的、能坦然稱神為父、與神無所隔閡的關係，因著基督，重新被恢復了。從伊甸園的「你在哪裏？」到羅馬書8章的「阿爸，父！」，是整本聖經一條沒有斷過的線。
+**伊甸園·阿爸線**：這條線再往前連著創世記——亞當夏娃犯罪之後，不再能坦然無懼地與神同行，反而「藏在園裏的樹木中」（創3:8）；羅馬書8章要說的是：那個失落的、能坦然稱神為父、與神無所隔閡的關係，因著基督，重新被恢復了。從伊甸園的「你在哪裏？」到羅馬書8章的「阿爸，父！」，這條線後來也在客西馬尼園裏再次出現——耶穌在十字架前夕呼叫「阿爸，父啊」（可14:36，見上文「背景」），與羅馬書8:15信徒呼叫的是同一句禱告；從伊甸園的躲藏，到客西馬尼園的順服，到今天每一個信徒的呼喊，是整本聖經一條沒有斷過的線。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -3602,21 +3164,15 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 今天的祭壇 (Today's Altar)
 
+確據不是一次性的宗教情感，而是每天早晨要重新選擇、重新領受的操練：
+
 - **早晨**：不從「今天我表現得夠不夠好」開始一天，而是先安靜宣告：「如今，我在基督耶穌裏，不被定罪。」讓判決先於表現。
 - **晚上**：省察——今天我心裏活在8:1的確據裏，還是活在自我控告或自我證明的循環裏？今天有沒有一件難處，我看見了它「互相效力」的痕跡？
 - **一個行動**：今天向神具體說出一件正在經歷的難處，不是求神立刻挪走它，而是求聖靈為它代禱——因為「我們本不知道當怎樣禱告」（8:26），這是誠實的起點，不是信心不足的表現。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：定罪已經撤銷，兒子名分已經賜下，得勝已經確定——你今天的問題不是「我夠不夠格」，而是「我信不信這已經是事實」。
-
-**貫通全經**：從埃及的奴僕到迦南的兒子，從伊甸園裏躲藏的亞當到客西馬尼園裏呼叫「阿爸」的耶穌，再到羅馬書8:15呼叫「阿爸，父」的每一個信徒——整本聖經只有一條線：神要把奴僕變成兒子。
-
-**無法迴避的問題**：「8:31-39列了十七樣『不能』把你和神的愛隔絕——你心裏悄悄加了第十八樣嗎？」
-
 > 「你不是靠自己撐住這場官司，是法官已經宣判、辯護律師已經死而復活——你唯一要做的，不是再去證明自己無罪，是相信判決已經下了。」
+
+**你看見耶穌了嗎**：整章沒有一節不是在說祂——8:1的「不定罪」因祂而立，8:3「神就差遣自己的兒子」使罪案在祂的肉身裏被定，8:32「神既不愛惜自己的兒子，為我們眾人捨了」是十七樣「不能」背後唯一的擔保，8:34「基督耶穌已經死了，而且從死裏復活，現今在神的右邊，也替我們祈求」——祂不只是那位替你死的，也是此刻仍在為你辯護的那一位。你看見祂了嗎？
 
 ---
 
@@ -3624,15 +3180,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 默想問題
 
-1. **我活在哪一章？**：今天早晨醒來，我心裏先想到的是7章「我真是苦啊」的自我控告，還是8:1「不被定罪」的確據？是甚麼讓我更常回到前者？
+1. **阿爸，父**：我向神禱告時，內心是奴僕的害怕，還是兒子的親近？「阿爸」這個稱呼，在我心裏是真實的，還是只是一個熟悉的宗教詞彙？
 
-2. **試金石**：8:9說「人若沒有基督的靈，就不是屬基督的」——聖靈在我生命中，是可以被我指認出來的實際同在，還是只停留在我對教義的認同？
+2. **兒子名分的法律分量**：「兒子名分」（huiothesia）作為羅馬法律術語，法律上完全、不可撤銷——這對我理解自己在神家中的身分，比單純的情感親近感多了甚麼？
 
-3. **阿爸，父**：我向神禱告時，內心是奴僕的害怕，還是兒子的親近？「阿爸」這個稱呼，在我心裏是真實的，還是只是一個熟悉的宗教詞彙？
-
-4. **萬事互相效力**：想一件我正在經歷、覺得純然是「壞事」的難處——我能否誠實地把它帶到神面前，求祂讓我看見祂如何使用它，而不急著要求祂立刻挪去它？
-
-5. **十七樣「不能」**：8:35-39列出十七樣不能把我與神的愛隔絕的事——我心裏是否偷偷相信有一個「第十八樣」（某個罪、某個失敗、某段過去）是例外？
+3. **金鏈的目的，不是思辨的武器**：8:29-30的「金鏈」在教會歷史上引發預知與預定關係的長期討論——保羅寫這段的目的，是要給受苦中的人確據，而不是挑起思辨的爭論。我是否曾把這段經文當作辯論的武器，卻忘了它原本要給我的，是安慰？
 
 ### 禱告回應
 
@@ -3647,23 +3199,19 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 羅馬書7:24-25與8:1之間的語氣轉折，對理解「稱義」與「與罪掙扎」之間的關係有甚麼幫助？
-
-2. 「兒子名分」（huiothesia）作為羅馬法律術語，如何幫助我們理解保羅寫給羅馬教會時選用這個詞的用意？
-
-3. 8:9「人若沒有基督的靈，就不是屬基督的」——這句話應該如何被正確使用：作為安慰真信徒的確據，還是作為叫假冒者自省的警戒？兩者如何並存而不互相矛盾？
-
-4. 8:28「萬事都互相效力，叫愛神的人得益處」與「萬事都是好的」有甚麼本質上的不同？這個分別對於安慰受苦中的人有甚麼實際意義？
-
-5. 8:29-30的「金鏈」在教會歷史上引發了不同傳統（改革宗、亞米念派等）對預知與預定關係的不同理解——保羅寫這段經文的直接目的（安慰、確據），與後代神學對其機制的思辨爭論，兩者應該如何分開來看？
-
-6. 8:31-39列出的十七樣「不能」，哪一樣是我此刻生命中最真實的試探——讓我懷疑自己可能是那第十八樣的例外？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 兒子名分（huiothesia）：從奴僕到兒子 | 8:14-17 | 出4:22、加4:4-7、加4:5、弗1:5、創3:8 |
+| 阿爸的呼喊 | 8:15 | 可14:36、加4:6 |
+| 聖靈是復活與得基業的憑據 | 8:11 | 弗1:14 |
+| 受造之物的呻吟與咒詛的迴響 | 8:19-22 | 創3:17-19 |
+| 詩篇44:22的引用：為主受苦 | 8:36 | 詩44:20-26 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -3673,7 +3221,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 > 若神在以色列身上失信，8 章的確據就站不住腳。這三章不是離題，是應許的保證書——末了以「深哉」的敬拜收尾。
 
 | | |
-|---|---|
+|----------------------|-----------------------------------------------------------------|
 | **救恩的環節** | **揀選**——神的話沒有落空（9:6） |
 | **鑰節** | 11:29「因為神的恩賜和選召是沒有後悔的」 |
 | **貫穿的問題** | 神的應許可靠嗎？ |
@@ -3685,9 +3233,13 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 9:1-33
 
----
+**經文核對**：[ai-eden.com/bible/romans/9](https://www.ai-eden.com/bible/romans/9?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：揀選 Eklogē** \
+> **全書坐標**：羅馬書9章是「揀選」卷（9:1-11:36）的開篇——8章以「不能隔絕」的確據收束「成聖」卷，9章立刻轉向一個尖銳的追問：如果神的愛如此堅定，為何多數以色列人拒絕了彌賽亞？全書五卷（定罪／稱義／成聖／揀選／活祭）在此進入第四卷，9-11章要處理神的應許有沒有落空。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上在談以色列、談揀選、談窯匠與泥土，中心卻始終是基督。9:5說得再清楚不過：「按肉體說，基督也是從他們（以色列人）出來的——他是在萬有之上永遠可稱頌的神！」以色列一切的特權——兒子的名分、榮耀、諸約、律法、禮儀、應許、列祖——全都是為了一件事而存在：讓基督從這個民族中誕生。而全章最終落在9:33：神在錫安放了一塊石頭，「信靠他的人必不至於羞愧」。這塊石頭不是抽象的教義，是耶穌自己——祂是使人跌倒的絆腳石，也是使人不至於羞愧的磐石。同一位基督，對兩種人是兩種結局。
 
@@ -3695,34 +3247,34 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ## 配詩 (Opening Hymn)
 
-> **O Love That Wilt Not Let Me Go**
+> **O Love That Wilt Not Let Me Go** \
 > *George Matheson, 1882*
 >
-> O Love that wilt not let me go,
-> I rest my weary soul in Thee;
-> I give Thee back the life I owe,
-> That in Thine ocean depths its flow
+> O Love that wilt not let me go, \
+> I rest my weary soul in Thee; \
+> I give Thee back the life I owe, \
+> That in Thine ocean depths its flow \
 > May richer, fuller be.
 >
-> 主愛何等長闊高深，
-> 我心疲倦得安穩；
-> 我把虧欠的生命交還，
-> 願它匯入你愛的深淵，
+> 主愛何等長闊高深， \
+> 我心疲倦得安穩； \
+> 我把虧欠的生命交還， \
+> 願它匯入你愛的深淵， \
 > 更豐盛，更真純。
 
 ---
 
 ## 經文 (Scripture)
 
-**版本說明**：中文採用和合本 (CUV)，經與 cnbible.com 逐節核對；本卷寫作當時未能穩定取得和合本修訂版 (RCUV) 之逐節原文，比照本書系《提摩太前書》01-03章之先例，改用已核實之CUV，並在此如實標明版本。英文採用English Standard Version (ESV)，經biblegateway.com逐節核對。
-
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}我在基督裏說真話，並不謊言，有我良心被聖靈感動給我作見證。\textsuperscript{2}我是大有憂愁，心裏時常傷痛。\textsuperscript{3}為我弟兄，我骨肉之親，就是自己被咒詛，與基督分離，我也願意。
 
 > \textsuperscript{4}他們是以色列人，那兒子的名分、榮耀、諸約、律法、禮儀、應許都是他們的；\textsuperscript{5}列祖就是他們的祖宗；按肉體說，基督也是從他們出來的——**他是在萬有之上永遠可稱頌的神！阿們。**
 
-> \textsuperscript{6}這不是說神的話落了空。因為從以色列生的，不都是以色列人；\textsuperscript{7}也不因為是亞伯拉罕的後裔，就都做他的兒女，唯獨「從以撒生的，才要稱為你的後裔」。\textsuperscript{8}這就是說，肉身所生的兒女不是神的兒女，唯獨那應許的兒女才算是後裔。\textsuperscript{9}因為所應許的話是這樣說：「到明年這時候我要來，撒拉必生一個兒子。」
+> \textsuperscript{6}這不是說神的話落了空。因為從以色列生的，不都是以色列人；\textsuperscript{7}也不因為是亞伯拉罕的後裔，就都作他的兒女，惟獨「從以撒生的，才要稱為你的後裔」。\textsuperscript{8}這就是說，肉身所生的兒女不是神的兒女，惟獨那應許的兒女才算是後裔。\textsuperscript{9}因為所應許的話是這樣說：「到明年這時候我要來，撒拉必生一個兒子。」
 
 > \textsuperscript{10}不但如此，還有利百加，既從一個人，就是從我們的祖宗以撒懷了孕，\textsuperscript{11}雙子還沒有生下來，善惡還沒有做出來——只因要顯明神揀選人的旨意，不在乎人的行為，乃在乎召人的主——\textsuperscript{12}神就對利百加說：「將來大的要服侍小的。」\textsuperscript{13}正如經上所記：「雅各是我所愛的，以掃是我所惡的。」
 
@@ -3736,25 +3288,25 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > \textsuperscript{30}這樣，我們可說甚麼呢？那本來不追求義的外邦人反得了義，就是因信而得的義；\textsuperscript{31}但以色列人追求律法的義，反得不著律法的義。\textsuperscript{32}這是甚麼緣故呢？是因為他們不憑著信心求，只憑著行為求，他們正跌在那絆腳石上。\textsuperscript{33}就如經上所記：「我在錫安放一塊絆腳的石頭、跌人的磐石，信靠他的人必不至於羞愧。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}I am speaking the truth in Christ—I am not lying; my conscience bears me witness in the Holy Spirit— \textsuperscript{2}that I have great sorrow and unceasing anguish in my heart. \textsuperscript{3}For I could wish that I myself were accursed and cut off from Christ for the sake of my brothers, my kinsmen according to the flesh.
+> \textsuperscript{1}I am telling the truth in Christ, I am not lying, my conscience testifies with me in the Holy Spirit, \textsuperscript{2}that I have great sorrow and unceasing grief in my heart. \textsuperscript{3}For I could wish that I myself were accursed, *separated* from Christ for the sake of my brethren, my kinsmen according to the flesh,
 
-> \textsuperscript{4}They are Israelites, and to them belong the adoption, the glory, the covenants, the giving of the law, the worship, and the promises. \textsuperscript{5}To them belong the patriarchs, and from their race, according to the flesh, is the Christ, **who is God over all, blessed forever. Amen.**
+> \textsuperscript{4}who are Israelites, to whom belongs the adoption as sons, and the glory and the covenants and the giving of the Law and the *temple* service and the promises, \textsuperscript{5}whose are the fathers, and from whom is the Christ according to the flesh, **who is over all, God blessed forever. Amen.**
 
-> \textsuperscript{6}But it is not as though the word of God has failed. For not all who are descended from Israel belong to Israel, \textsuperscript{7}and not all are children of Abraham because they are his offspring, but "Through Isaac shall your offspring be named." \textsuperscript{8}This means that it is not the children of the flesh who are the children of God, but the children of the promise are counted as offspring. \textsuperscript{9}For this is what the promise said: "About this time next year I will return, and Sarah shall have a son."
+> \textsuperscript{6}But *it is* not as though the word of God has failed. For they are not all Israel who are *descended* from Israel; \textsuperscript{7}nor are they all children because they are Abraham's descendants, but: "THROUGH ISAAC YOUR DESCENDANTS WILL BE NAMED." \textsuperscript{8}That is, it is not the children of the flesh who are children of God, but the children of the promise are regarded as descendants. \textsuperscript{9}For this is the word of promise: "AT THIS TIME I WILL COME, AND SARAH SHALL HAVE A SON."
 
-> \textsuperscript{10}And not only so, but also when Rebekah had conceived children by one man, our forefather Isaac, \textsuperscript{11}though they were not yet born and had done nothing either good or bad—in order that God's purpose of election might continue, not because of works but because of him who calls— \textsuperscript{12}she was told, "The older will serve the younger." \textsuperscript{13}As it is written, "Jacob I loved, but Esau I hated."
+> \textsuperscript{10}And not only this, but there was Rebekah also, when she had conceived *twins* by one man, our father Isaac; \textsuperscript{11}for though *the twins* were not yet born and had not done anything good or bad, so that God's purpose according to *His* choice would stand, not because of works but because of Him who calls, \textsuperscript{12}it was said to her, "THE OLDER WILL SERVE THE YOUNGER." \textsuperscript{13}Just as it is written, "JACOB I LOVED, BUT ESAU I HATED."
 
-> \textsuperscript{14}What shall we say then? Is there injustice on God's part? By no means! \textsuperscript{15}**For he says to Moses, "I will have mercy on whom I have mercy, and I will have compassion on whom I have compassion."** \textsuperscript{16}**So then it depends not on human will or exertion, but on God, who has mercy.** \textsuperscript{17}For the Scripture says to Pharaoh, "For this very purpose I have raised you up, that I might show my power in you, and that my name might be proclaimed in all the earth." \textsuperscript{18}So then he has mercy on whomever he wills, and he hardens whomever he wills.
+> \textsuperscript{14}What shall we say then? There is no injustice with God, is there? May it never be! **\textsuperscript{15}For He says to Moses, "I WILL HAVE MERCY ON WHOM I HAVE MERCY, AND I WILL HAVE COMPASSION ON WHOM I HAVE COMPASSION." \textsuperscript{16}So then it *does* not *depend* on the man who wills or the man who runs, but on God who has mercy.** \textsuperscript{17}For the Scripture says to Pharaoh, "FOR THIS VERY PURPOSE I RAISED YOU UP, TO DEMONSTRATE MY POWER IN YOU, AND THAT MY NAME MIGHT BE PROCLAIMED THROUGHOUT THE WHOLE EARTH." \textsuperscript{18}So then He has mercy on whom He desires, and He hardens whom He desires.
 
-> \textsuperscript{19}You will say to me then, "Why does he still find fault? For who can resist his will?" \textsuperscript{20}**But who are you, O man, to answer back to God? Will what is molded say to its molder, "Why have you made me like this?"** \textsuperscript{21}**Has the potter no right over the clay, to make out of the same lump one vessel for honorable use and another for dishonorable use?**
+> \textsuperscript{19}You will say to me then, "Why does He still find fault? For who resists His will?" **\textsuperscript{20}On the contrary, who are you, O man, who answers back to God? The thing molded will not say to the molder, "Why did you make me like this," will it? \textsuperscript{21}Or does not the potter have a right over the clay, to make from the same lump one vessel for honorable use and another for common use?**
 
-> \textsuperscript{22}What if God, desiring to show his wrath and to make known his power, has endured with much patience vessels of wrath prepared for destruction, \textsuperscript{23}in order to make known the riches of his glory for vessels of mercy, which he has prepared beforehand for glory— \textsuperscript{24}even us whom he has called, not from the Jews only but also from the Gentiles? \textsuperscript{25}As indeed he says in Hosea, "Those who were not my people I will call 'my people,' and her who was not beloved I will call 'beloved.'" \textsuperscript{26}"And in the very place where it was said to them, 'You are not my people,' there they will be called 'sons of the living God.'"
+> \textsuperscript{22}What if God, although willing to demonstrate His wrath and to make His power known, endured with much patience vessels of wrath prepared for destruction? \textsuperscript{23}And *He did so* to make known the riches of His glory upon vessels of mercy, which He prepared beforehand for glory, \textsuperscript{24}*even* us, whom He also called, not from among Jews only, but also from among Gentiles. \textsuperscript{25}As He says also in Hosea, "I WILL CALL THOSE WHO WERE NOT MY PEOPLE, 'MY PEOPLE,' AND HER WHO WAS NOT BELOVED, 'BELOVED.'" \textsuperscript{26}"AND IT SHALL BE THAT IN THE PLACE WHERE IT WAS SAID TO THEM, 'YOU ARE NOT MY PEOPLE,' THERE THEY SHALL BE CALLED SONS OF THE LIVING GOD."
 
-> \textsuperscript{27}And Isaiah cries out concerning Israel: "Though the number of the sons of Israel be as the sand of the sea, only a remnant of them will be saved, \textsuperscript{28}for the Lord will carry out his sentence upon the earth fully and without delay." \textsuperscript{29}And as Isaiah predicted, "If the Lord of hosts had not left us offspring, we would have been like Sodom and become like Gomorrah."
+> \textsuperscript{27}Isaiah cries out concerning Israel, "THOUGH THE NUMBER OF THE SONS OF ISRAEL BE LIKE THE SAND OF THE SEA, IT IS THE REMNANT THAT WILL BE SAVED; \textsuperscript{28}FOR THE LORD WILL EXECUTE HIS WORD ON THE EARTH, THOROUGHLY AND QUICKLY." \textsuperscript{29}And just as Isaiah foretold, "UNLESS THE LORD OF SABAOTH HAD LEFT TO US A POSTERITY, WE WOULD HAVE BECOME LIKE SODOM, AND WOULD HAVE RESEMBLED GOMORRAH."
 
-> \textsuperscript{30}What shall we say, then? That Gentiles who did not pursue righteousness have attained it, that is, a righteousness that is by faith; \textsuperscript{31}but that Israel who pursued a law that would lead to righteousness did not succeed in reaching that law. \textsuperscript{32}Why? Because they did not pursue it by faith, but as if it were based on works. They have stumbled over the stumbling stone, \textsuperscript{33}as it is written, "Behold, I am laying in Zion a stone of stumbling, and a rock of offense; and whoever believes in him will not be put to shame."
+> \textsuperscript{30}What shall we say then? That Gentiles, who did not pursue righteousness, attained righteousness, even the righteousness which is by faith; \textsuperscript{31}but Israel, pursuing a law of righteousness, did not arrive at *that* law. \textsuperscript{32}Why? Because *they did* not *pursue it* by faith, but as though *it were* by works. They stumbled over the stumbling stone, \textsuperscript{33}just as it is written, "BEHOLD, I LAY IN ZION A STONE OF STUMBLING AND A ROCK OF OFFENSE, AND HE WHO BELIEVES IN HIM WILL NOT BE DISAPPOINTED."
 
 ---
 
@@ -3762,7 +3314,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 從8章到9章的轉折
 
-羅馬書8章以無法搖動的確據結束：「誰能使我們與基督的愛隔絕呢？」（8:35）——飢餓、患難、死亡、天使、掌權的，都不能。但這樣的確據立刻帶出一個尖銳的問題：如果神對祂百姓的愛如此堅定不移，那麼神最初揀選的百姓——以色列——為甚麼大多數拒絕了彌賽亞？神的應許失效了嗎？如果連以色列都可以被神放棄，保羅在8章所應許的「不能隔絕」還算數嗎？9-11章正是保羅親自處理這個問題——不是抽象神學辯論，而是他個人的骨肉之痛。
+羅馬書8章以無法搖動的確據結束：「誰能使我們與基督的愛隔絕呢？」（8:35）——飢餓、患難、死亡、天使、掌權的，都不能。但這樣的確據立刻帶出一個尖銳的問題：如果神對祂百姓的愛如此堅定不移，那麼神最初揀選的百姓——以色列——為甚麼大多數拒絕了彌賽亞？神的應許失效了嗎？如果連以色列都可以被神放棄，保羅在8章所應許的「不能隔絕」還算數嗎？9-11章正是保羅親自處理這個問題——不是抽象的辯論，而是他個人的骨肉之痛。
 
 ### 保羅的哀傷 (9:1-3)
 
@@ -3770,14 +3322,14 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 全章的結構
 
-9章大致可分四段：（1）1-5節，保羅的哀傷與以色列的特權；（2）6-13節，「神的話沒有落空」——揀選從來不是靠血統，而是靠應許；（3）14-29節，神揀選的主權——摩西、法老、窯匠與泥；（4）30-33節，全章的收束——外邦人因信得了義，以色列因追求靠行為的義而跌倒。第四段是整章的鑰匙：保羅不是在做抽象的宿命論神學，而是在解釋一個歷史事實——為甚麼今天許多以色列人在福音之外。答案不是神的話落空，而是他們用錯了方法追求義。
+9章大致可分四段：（1）1-5節，保羅的哀傷與以色列的特權；（2）6-13節，「神的話沒有落空」——揀選從來不是靠血統，而是靠應許；（3）14-29節，神揀選的主權——摩西、法老、窯匠與泥；（4）30-33節，全章的收束——外邦人因信得了義，以色列因追求靠行為的義而跌倒。第四段是整章的鑰匙：保羅不是在談抽象的宿命論，而是在解釋一個歷史事實——為甚麼今天許多以色列人在福音之外。答案不是神的話落空，而是他們用錯了方法追求義。
 
 ---
 
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | ἐκλογή | eklogē | 揀選、選擇 | 9:11「揀選人的旨意」，11章將反覆出現的核心詞 |
 | καλοῦντος | kalountos | 那召人的（現在分詞） | 9:11「乃在乎召人的主」——揀選的根基是神的呼召行動，不是人的資格 |
 | σκεύη ὀργῆς | skeuē orgēs | 憤怒的器皿 | 9:22，呼應耶利米書18章窯匠的意象 |
@@ -3795,33 +3347,21 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 揀選從來不是靠血統 (9:6-9)
+### 1. 揀選不靠血統，也先於行為 (9:6-13)
 
-「從以色列生的，不都是以色列人」——這句話拆解了猶太人「憑血統自動得救」的假設。以實瑪利也是亞伯拉罕的兒子，卻不是應許的後裔；以撒才是。從最開始，神的揀選就不是靠肉身的傳承，而是靠祂主權的應許。這對羅馬教會的意義極大：外邦信徒不需要靠猶太血統或律法儀文才能成為「真以色列」的一部分——因為連以色列人自己的身分認同，從來就不是靠血統。
+「從以色列生的，不都是以色列人」——這句話拆解了猶太人「憑血統自動得救」的假設。以實瑪利也是亞伯拉罕的兒子，卻不是應許的後裔；以撒才是。從最開始，神的揀選就不是靠肉身的傳承，而是靠祂主權的應許。這對羅馬教會的意義極大：外邦信徒不需要靠猶太血統或律法儀文才能成為「真以色列」的一部分——因為連以色列人自己的身分認同，從來就不是靠血統。雅各與以掃的例子比以實瑪利的例子更尖銳，因為以實瑪利與以撒有不同的母親，還可以用「妾的兒子」來解釋差異；雅各與以掃卻是同一對父母、同一次懷孕的雙生子，「還沒有生下來，善惡還沒有做出來」，神的揀選已經宣告。這是全章最核心的宣告：揀選的根基「不在乎人的行為，乃在乎召人的主」。這也提醒讀者：雅各與以掃的例子，正是後文幾種解讀進路的分歧所在——經文的焦點是誰承接應許的血脈，還是二人個人的永恆歸宿？（見本章「歷代注疏」）
 
-### 2. 揀選先於行為 (9:10-13)
+### 2. 神的公義不受人的邏輯審判——從摩西到窯匠與泥 (9:14-21)
 
-雅各與以掃的例子比以實瑪利的例子更尖銳，因為以實瑪利與以撒有不同的母親，還可以用「妾的兒子」來解釋差異；雅各與以掃卻是同一對父母、同一次懷孕的雙生子，「還沒有生下來，善惡還沒有做出來」，神的揀選已經宣告。這是全章最核心的神學命題：揀選的根基「不在乎人的行為，乃在乎召人的主」。
+「難道神有甚麼不公平嗎？斷乎沒有！」保羅沒有用人的公平標準來為神辯護，而是引出埃及記33:19神對摩西所說的話：「我要憐憫誰就憐憫誰。」憐憫本質上是不能被要求的——若人有資格要求，那就不再是憐憫，而是欠債。法老的例子（引出埃及記9:16）補上另一面：神的主權不僅施予憐憫，也在歷史中使用剛硬的心來彰顯祂的權能與名聲。這一段的問題「祂為甚麼還指責人呢」，是每一個誠實讀這段經文的人遲早會問的問題。保羅的回答不是邏輯論證，而是重申創造主與受造物之間根本的位分差距——這呼應以賽亞書29:16、45:9與耶利米書18章反覆出現的窯匠意象。這不是要人閉口不問，而是提醒人：任何關於神公義的討論，起點都必須是「祂是造我的，我不是造祂的」，而不是相反——正如創世記2:7「耶和華神用地上的塵土造人」，人受造的事實本身，就已經先於一切關於受造者能否質問造物主的辯論。
 
-### 3. 神的公義不受人的邏輯審判 (9:14-18)
+### 3. 蒙憐憫的器皿包括外邦人，神的話沒有落空 (9:22-29)
 
-「難道神有甚麼不公平嗎？斷乎沒有！」保羅沒有用人的公平標準來為神辯護，而是引出埃及記33:19神對摩西所說的話：「我要憐憫誰就憐憫誰。」憐憫本質上是不能被要求的——若人有資格要求，那就不再是憐憫，而是欠債。法老的例子（引出埃及記9:16）補上另一面：神的主權不僅施予憐憫，也在歷史中使用剛硬的心來彰顯祂的權能與名聲。
+「不但是從猶太人中，也是從外邦人中」——保羅引何西阿書1:10、2:23，原本論及北國以色列（因悖逆被神稱為「羅·阿米」，不是我民），保羅把它應用在外邦人蒙召上。這個引用本身極具張力：一段原本論以色列悖逆後蒙恢復的經文，被用來說明外邦人如今蒙召——暗示外邦人蒙恩與以色列蒙恢復，在神的心意中是同一條線上的兩端，這條線11章會再次展開。引以賽亞書10:22-23、1:9：以色列雖多如海沙，得救的不過是「剩下的餘數」。這不是新教義，是先知傳統一貫的立場——神從來沒有應許全體以色列人都必得救，祂應許的是保守一個餘民。今天教會裏有信主的猶太人，正是這餘民應許的延續，不是「神的話落空」的證據，而是「神的話應驗」的證據。
 
-### 4. 窯匠與泥：受造者無權質問造物主 (9:19-21)
-
-這一段的問題「祂為甚麼還指責人呢」，是每一個誠實讀這段經文的人遲早會問的問題。保羅的回答不是邏輯論證，而是重申創造主與受造物之間根本的位分差距——這呼應以賽亞書29:16、45:9與耶利米書18章反覆出現的窯匠意象。這不是要人閉口不問，而是提醒人：任何關於神公義的討論，起點都必須是「祂是造我的，我不是造祂的」，而不是相反。
-
-### 5. 蒙憐憫的器皿包括外邦人 (9:22-26)
-
-「不但是從猶太人中，也是從外邦人中」——保羅引何西阿書1:10、2:23，原本論及北國以色列（因悖逆被神稱為「羅·阿米」，不是我民），保羅把它應用在外邦人蒙召上。這個引用本身極具張力：一段原本論以色列悖逆後蒙恢復的經文，被用來說明外邦人如今蒙召——暗示外邦人蒙恩與以色列蒙恢復，在神的心意中是同一條線上的兩端，這條線11章會再次展開。
-
-### 6. 餘民神學：神的話沒有落空 (9:27-29)
-
-引以賽亞書10:22-23、1:9：以色列雖多如海沙，得救的不過是「剩下的餘數」。這不是新教義，是先知傳統一貫的立場——神從來沒有應許全體以色列人都必得救，祂應許的是保守一個餘民。今天教會裏有信主的猶太人，正是這餘民應許的延續，不是「神的話落空」的證據，而是「神的話應驗」的證據。
-
-### 7. 全章的鑰匙：因信，不因行為 (9:30-33)
+### 4. 全章的鑰匙：因信，不因行為 (9:30-33)
 
 保羅自己給出的結論最重要：外邦人「不追求義」反倒得了義，因為他們因信而得；以色列「追求律法的義」卻得不著，因為「不憑著信心求，只憑著行為求」。這句話把整章從「抽象的預定論辯論」拉回到3-4章已經建立的福音核心——因信稱義。以色列現在的光景，不是因為神偏心不揀選他們，而是因為他們把追求義的方法弄錯了，跌在那塊本該使人得救的絆腳石上。這正是10章要展開的主題。
 
@@ -3862,73 +3402,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > 出處：對阿民念／衛斯理傳統及「民族揀選」釋經進路之一般性學術歸納轉述，非逐字引句。
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-麥克阿瑟在其講道與注釋中，一貫從個人揀選的角度解讀羅馬書9章，認為窯匠與泥的意象正是要打破人以為自己有「天生的資格」向神提出要求的錯覺——受造物本來就無權質問造物主為何如此造他；同時他也強調，9:30-33才是全章的落腳點：以色列失敗的真正原因不是「沒有被揀選」，而是「用錯誤的方法（靠行為而非信心）追求義」。
-
-> 出處：對麥克阿瑟一貫解經立場之一般性歸納轉述（未附具體講題與日期），非逐字引句。
-
-**當代「民族／群體揀選」釋經進路（如新約學界對「新保羅觀」相關討論）**：
-
-近數十年，部分新約學者（如提出「新保羅觀」的相關學者群）主張，應更多從第二聖殿猶太教的歷史背景理解羅馬書9-11章：保羅關心的核心問題，是「誰屬於神的約民」這個群體性、歷史性的問題，而非個別靈魂命定得救或滅亡的抽象問題。這一進路與傳統阿民念式「群體揀選」有相近之處，但立論基礎（第二聖殿猶太教研究）不同，構成當代學界另一股重要聲音。
-
-> 出處：對「新保羅觀」相關學術討論方向之一般性歸納，非引自特定學者的逐字著作，亦未指名特定學者以免張冠李戴。
-
-**誠實的總結**：這幾種進路——個人無條件揀選（奧古斯丁、加爾文傳統）、民族／歷史角色揀選（阿民念、衛斯理傳統）、群體性約民身分（當代部分學界）——都是由嚴謹、忠於聖經的學者長期持守的立場，本書不在此裁定何者「正確」，而是誠實呈現這場延續一千六百年的對話，邀請讀者自己在敬畏與謙卑中查考。
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 100:3-5
-
-> **你們當曉得耶和華是神！**
-> 我們是他造的，也是屬他的；
-> 我們是他的民，也是他草場的羊。
-> 當稱謝進入他的門，
-> 當讚美進入他的院；
-> 當感謝他，稱頌他的名！
-> 因為耶和華本為善，
-> 他的慈愛存到永遠，
-> 他的信實直到萬代。
-
-> **Know that the LORD, he is God!**
-> It is he who made us, and we are his;
-> we are his people, and the sheep of his pasture.
-> Enter his gates with thanksgiving,
-> and his courts with praise!
-> Give thanks to him; bless his name!
-> For the LORD is good;
-> his steadfast love endures forever,
-> and his faithfulness to all generations.
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### O Love That Wilt Not Let Me Go
-
-蘇格蘭牧師喬治·馬西森（George Matheson）在1882年一個晚上，據他自己所述，在極深的個人痛苦中，僅用五分鐘寫成這首詩歌，「幾乎沒有修改一個字」。這首詩歌不是在歌頌一份人可以隨時抽身的愛，而是一份「不肯放手」的愛（*wilt not let me go*）——這正是羅馬書9章要傳達的：神的揀選不是被動等待人來尋找祂，而是主動、堅定、不因人的抗拒而收回的愛。
-
-**歌詞與經文對照**：
-- 「主愛不肯放手」— 呼應9:11「乃在乎召人的主」，主動權從頭到尾在神
-- 「我把虧欠的生命交還」— 呼應9:16「不在乎那定意的，也不在乎那奔跑的」
-- 「更豐盛，更真純」— 呼應9:23「豐盛的榮耀」彰顯在蒙憐憫的器皿上
-
-### 另一配詩：詩篇 100 韻文版 (Old Hundredth)
-
-> All people that on earth do dwell,
-> Sing to the Lord with cheerful voice;
-> Him serve with mirth, His praise forth tell,
-> Come ye before Him and rejoice.
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **從「不能隔絕」到「大有憂愁」**：摩根指出，8章與9章之間有一個看似矛盾、實則彼此支撐的轉折——8章結束於「無論是死，是生……都不能叫我們與神的愛隔絕」，緊接著9章卻是保羅「大有憂愁，心裏時常傷痛」。這不是保羅信心動搖，而是保羅深知：正因為他確知神揀選的愛何等堅定不移，他才對那些還在這愛之外的骨肉同胞何等痛心——確據沒有使人冷漠，反而使人更懂得為失喪的人心碎。
 
@@ -3936,45 +3410,81 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **全章的收束句才是鑰匙**：摩根強調，若只停留在9:6-29討論神的主權而不讀到9:30-33，會完全誤解保羅的用意。9章不是要建立一套抽象的預定論體系，而是要為10章鋪路——說明以色列現在的光景，根源在於他們「不憑著信心求，只憑著行為求」。摩根說，整段論述最終要把讀者帶回到3章已經立定的根基：稱義只因著信。
 
-> 出處：對G. Campbell Morgan羅馬書相關講章一貫解經取向之一般性歸納轉述，非逐字引句。
+> 出處：對 G. Campbell Morgan羅馬書相關講章一貫解經取向之一般性歸納轉述，非逐字引句。
 
-### 老弟兄查經洞見 (The Elder's Insights)
+### 麥克阿瑟 (John MacArthur)
 
-**揀選的兩極不能各執一端**：老弟兄一貫的查經原則是——聖經裏凡是人的理性無法完全調和的真理（神的主權與人的責任、神的揀選與人的相信），不要急著用邏輯把其中一端消解掉，而要兩端都持守、活在敬畏與謙卑中。羅馬書9章講神揀選的主權，10章馬上講「凡求告主名的就必得救」——人的呼求、人的信，同樣是真實的。整本聖經從不把這兩者對立，是後來的系統神學家才把它們拆開來辯論。
+**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟在其講道與注釋中，一貫從個人揀選的角度解讀羅馬書9章，認為窯匠與泥的意象正是要打破人以為自己有「天生的資格」向神提出要求的錯覺——受造物本來就無權質問造物主為何如此造他；同時他也強調，9:30-33才是全章的落腳點：以色列失敗的真正原因不是「沒有被揀選」，而是「用錯誤的方法（靠行為而非信心）追求義」。
 
-**窯匠的比喻要回到創世記讀**：老弟兄查經常強調「摩西五經是理解新約話語的根基」。9:20-21窯匠與泥的意象，根源在耶利米書18章，但更深的根源是創世記2:7——「耶和華神用地上的塵土造人」，人的受造本身就是「泥」被神的手塑造。保羅不是發明一個新比喻，是把整本聖經對「受造」與「創造主」的關係重新擺在讀者面前：你今天活著的每一口氣，本來就是被造的，不是自己給自己的。
+> 出處：對麥克阿瑟一貫解經立場之一般性歸納轉述（未附具體講題與日期），非逐字引句。
 
-**雅各與以掃：不是關於個人得救，是關於誰承接應許**：老弟兄查經時習慣先問而不先答——「雅各和以掃，誰後來個人信主、誰沒有信主，聖經有沒有明講？」（沒有明講）「經文說的是甚麼？是誰要服侍誰，是應許藉哪一個兒子的血脈往下傳。」這樣的提問，把讀者從急著推論「以掃是不是下地獄了」拉回到經文實際說的話——這段的核心是應許的傳承，不是二人死後命運的宣判。
+### 當代學界的多元聲音
 
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+**當代「民族／群體揀選」釋經進路（如新約學界對「新保羅觀」相關討論）**：近數十年，部分新約學者（如提出「新保羅觀」的相關學者群）主張，應更多從第二聖殿猶太教的歷史背景理解羅馬書9-11章：保羅關心的核心問題，是「誰屬於神的約民」這個群體性、歷史性的問題，而非個別靈魂命定得救或滅亡的抽象問題。這一進路與傳統阿民念式「群體揀選」有相近之處，但立論基礎（第二聖殿猶太教研究）不同，構成當代學界另一股重要聲音。
 
----
+> 出處：對「新保羅觀」相關學術討論方向之一般性歸納，非引自特定學者的逐字著作，亦未指名特定學者以免張冠李戴。
 
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*O Love That Wilt Not Let Me Go*（如前「配詩」所引）
-
-> O Love that wilt not let me go,
-> I rest my weary soul in Thee;
-> I give Thee back the life I owe,
-> That in Thine ocean depths its flow
-> May richer, fuller be.
-
-**詩篇**：詩篇 100:3
-
-> 你們當曉得耶和華是神！我們是他造的，也是屬他的；我們是他的民，也是他草場的羊。
+**誠實的總結**：這幾種進路——個人無條件揀選（奧古斯丁、加爾文傳統）、民族／歷史角色揀選（阿民念、衛斯理傳統）、群體性約民身分（當代部分學界）——都是由嚴謹、忠於聖經的學者長期持守的立場，本書不在此裁定何者「正確」，而是誠實呈現這場延續一千六百年的對話，邀請讀者自己在敬畏與謙卑中查考。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇 100:3-5
+
+> **你們當曉得耶和華是神！** \
+> 我們是他造的，也是屬他的； \
+> 我們是他的民，也是他草場的羊。 \
+> 當稱謝進入他的門， \
+> 當讚美進入他的院； \
+> 當感謝他，稱頌他的名！ \
+> 因為耶和華本為善， \
+> 他的慈愛存到永遠， \
+> 他的信實直到萬代。
+
+> **Know that the LORD Himself is God;** \
+> It is He who has made us, and not we ourselves; \
+> *We are* His people and the sheep of His pasture. \
+> Enter His gates with thanksgiving \
+> *And* His courts with praise. \
+> Give thanks to Him, bless His name. \
+> For the LORD is good; \
+> His lovingkindness is everlasting \
+> And His faithfulness to all generations.
+
+### O Love That Wilt Not Let Me Go
+
+蘇格蘭牧師喬治·馬西森（George Matheson）在1882年一個晚上，據他自己所述，在極深的個人痛苦中，僅用五分鐘寫成這首詩歌，事後幾乎未再改動一字。這首詩歌不是在歌頌一份人可以隨時抽身的愛，而是一份「不肯放手」的愛（*wilt not let me go*）——這正是羅馬書9章要傳達的：神的揀選不是被動等待人來尋找祂，而是主動、堅定、不因人的抗拒而收回的愛。
+
+**歌詞與經文對照**：
+- 「主愛不肯放手」— 呼應9:11「乃在乎召人的主」，主動權從頭到尾在神
+- 「我把虧欠的生命交還」— 呼應9:16「不在乎那定意的，也不在乎那奔跑的」
+- 「更豐盛，更真純」— 呼應9:23「豐盛的榮耀」彰顯在蒙憐憫的器皿上
+
+**另一配詩：詩篇100韻文版 (Old Hundredth)**
+
+> All people that on earth do dwell, \
+> Sing to the Lord with cheerful voice; \
+> Him serve with mirth, His praise forth tell, \
+> Come ye before Him and rejoice.
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+
+**精義一句話**：揀選不是因為你配得，是因為神主動呼召——受造之物的位分，是被塑造，不是質問塑造者。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-揀選這條線，從創世記就開始了：神從吾珥（Ur）眾多的人中揀選亞伯拉罕一人（創15:7；徒7:2-4），不是因為亞伯拉罕比別人更配得，聖經沒有一個字說他當時已經信靠耶和華、或行為更良善——揀選在他被召之前就已經是神的主動。接著雅各與以掃，還沒出生，「大的要服侍小的」已經定案（創25:23）。出埃及記把這個揀選從個人擴大到一個民族：「耶和華專愛你們，揀選你們，並非因你們的人數多於別民……只因耶和華愛你們」（申7:7-8）——以色列被揀選，同樣不是因為他們配得。
+**蒙召在先線**：揀選這條線，從創世記就開始了——神從吾珥（Ur）眾多的人中揀選亞伯拉罕一人（創15:7；徒7:2-4），不是因為亞伯拉罕比別人更配得，聖經沒有一個字說他當時已經信靠耶和華、或行為更良善——揀選在他被召之前就已經是神的主動。接著雅各與以掃，還沒出生，「大的要服侍小的」已經定案（創25:23）——這條線提醒我們：雅各與以掃的例子，聖經從未明講兩人個人最終得救與否，經文真正要說的是誰承接應許的血脈，不是二人死後命運的宣判。
 
-這條線到羅馬書9章，保羅把它濃縮成一句神學命題：「不在乎人的行為，乃在乎召人的主」。而這條線並沒有停在這裏——以弗所書1:4-5把它推到創世以前：「就如神從創立世界以前，在基督裏揀選了我們……又因愛我們，就按著自己意旨所喜悅的，預定我們藉著耶穌基督得兒子的名分。」揀選最終的落腳點，不是雅各或以色列，而是「在基督裏」——一切揀選，都是為了把人帶進基督裏。
+**揀選歸於基督線**：出埃及記把這個揀選從個人擴大到一個民族：「耶和華專愛你們，揀選你們，並非因你們的人數多於別民……只因耶和華愛你們」（申7:7-8）——以色列被揀選，同樣不是因為他們配得。這條線到羅馬書9章，保羅把它濃縮成一句話：「不在乎人的行為，乃在乎召人的主」。而這條線並沒有停在這裏——以弗所書1:4-5把它推到創世以前：「就如神從創立世界以前，在基督裏揀選了我們……又因愛我們，就按著自己意旨所喜悅的，預定我們藉著耶穌基督得兒子的名分。」揀選最終的落腳點，不是雅各或以色列，而是「在基督裏」——一切揀選，都是為了把人帶進基督裏。
 
 ### 提問式對話 (Let the Reader Speak)
+
+老弟兄不急著給答案，他一層一層地問：
 
 - 先問：「神揀選雅各，不是因為他的行為——這對你倚靠自己的『資格』有甚麼挑戰？」
 - 再問：「你信主的那一刻，是你先伸手抓住神，還是神先呼召了你？保羅在這裏怎麼說？」
@@ -3993,17 +3503,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天我是不是像那個向窯匠強嘴的泥，質問神為甚麼這樣安排我的處境？
 - **一個行動**：為一位還沒有信主的骨肉之親，用保羅式的「大有憂愁」為他們具體代求，而不是遠遠地評論。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：揀選不是因為你配得，是因為神主動呼召——受造之物的位分，是被塑造，不是質問塑造者。
-
-**貫通全經**：亞伯拉罕被召出吾珥、雅各在未出生前蒙揀選、以色列因神的愛而非人數被選——這條線最終匯入以弗所書1章：「從創立世界以前，在基督裏揀選了我們。」
-
-**無法迴避的問題**：「你今天是願意被塑造，還是常常向神強嘴，質問祂為甚麼這樣安排你的生命？」
-
 > 「揀選的兩極——神的主權與人的責任——不要急著用邏輯把其中一端消解掉。兩端都持守，活在敬畏與謙卑中，這才是聖經要你站的位置。」
+
+**你看見耶穌了嗎**：整章圍繞著揀選、器皿、餘民打轉，最終卻在9:5停下腳步，說出全章最重的一句話——「基督也是從他們出來的——他是在萬有之上永遠可稱頌的神！」以色列的兒子名分、榮耀、諸約、律法、應許，全都是為了讓這一位從他們中間誕生。而9:33那塊「放在錫安」的石頭，不是抽象的教義，是這同一位基督——祂使人跌倒，也使信靠祂的人不至於羞愧。你今天面對的，正是這塊石頭：你把祂當作絆腳石在迴避，還是當作磐石在信靠？
 
 ---
 
@@ -4011,13 +3513,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 默想問題
 
-1. **我的信心是靠甚麼**：我信主，是因為我做了甚麼配得神揀選的事，還是因為神主動的恩典先臨到我？
+1. **保羅式的憂愁**：我心裏是否也有像保羅一樣「大有憂愁，心裏時常傷痛」的人——為那些還沒有信主的至親骨肉？我最近一次真誠為他們代求是甚麼時候？
 
-2. **面對神的主權**：當我遇到不明白、無法用邏輯完全解釋的神的安排時，我的第一反應是質問（像向窯匠強嘴），還是敬畏地信靠？
+2. **絆腳石還是磐石**：9:33說同一塊石頭，對信的人是磐石，對不信的人是絆腳石。今天我對基督的態度，是把祂當作絆腳石在迴避，還是把祂當作磐石在信靠？
 
-3. **保羅式的憂愁**：我心裏是否也有像保羅一樣「大有憂愁，心裏時常傷痛」的人——為那些還沒有信主的至親骨肉？我最近一次真誠為他們代求是甚麼時候？
-
-4. **絆腳石還是磐石**：9:33說同一塊石頭，對信的人是磐石，對不信的人是絆腳石。今天我對基督的態度，是把祂當作絆腳石在迴避，還是把祂當作磐石在信靠？
+3. **不同的解讀進路**：「雅各是我所愛的，以掃是我所惡的」這句話，本章如實呈現了幾種不同的解讀進路（個人揀選、民族角色、群體約民身分）——我認為每一種進路各自的優點與難處是甚麼？
 
 ### 禱告回應
 
@@ -4031,17 +3531,16 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅在9:1-3表達的哀傷，與摩西在出埃及記32:32的代求有甚麼相似之處？這對今天為未信家人代求的基督徒有甚麼提醒？
-
-2. 9:6「這不是說神的話落了空」，保羅如何用以撒與以實瑪利、雅各與以掃的例子來證明這一點？
-
-3. 「雅各是我所愛的，以掃是我所惡的」這句話，本書如實呈現了幾種不同的解讀進路——你認為每一種進路各自的優點與難處是甚麼？
-
-4. 9:20-21窯匠與泥的比喻，要回答的問題是甚麼？它有沒有回答「神為甚麼揀選這人不揀選那人」，還是回答另一個問題？
-
-5. 9:30-33是全章的收束——你認為保羅在這裏最想讓讀者明白的一件事是甚麼？這如何連接到10章「信心與宣教」？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 揀選先於行為：雅各與以掃 | 9:10-13 | 創25:23 |
+| 窯匠與泥的意象 | 9:20-21 | 創2:7、耶18章、賽29:16、賽45:9 |
+| 蒙憐憫的器皿包括外邦人 | 9:24-26 | 何1:10、何2:23 |
+| 餘民神學：神的話沒有落空 | 9:27-29 | 賽10:22-23、賽1:9 |
+| 保羅的代求與摩西的代求 | 9:1-3 | 出32:32 |
+| 揀選從個人到群體，終點在基督裏 | 9:6-13 | 申7:7-8、弗1:4-5 |
 
 ---
 
@@ -4055,9 +3554,13 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 10:1-21
 
----
+**經文核對**：[ai-eden.com/bible/romans/10](https://www.ai-eden.com/bible/romans/10?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：終結／目標 Telos** \
+> **全書坐標**：羅馬書五卷（定罪／稱義／成聖／揀選／活祭）行進到「揀選」一卷（9-11章）的中段——9章講神主權的揀選，10章補上人責任的一面：因信稱義的福音，必須「傳」到人「口裏認、心裏信」；11章再收束為神向猶太人與外邦人「眾人」施憐憫的頌讚。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章的中心不是方法，是一個人。「律法的總結就是基督」（10:4）——摩西五經所指向的終點站到了。「你若口裏認耶穌為主，心裏信神叫他從死裏復活，就必得救」（10:9）——救恩不是攀升到天上或下到陰間去尋找的遠方奧祕，「這道離你不遠」，因為那位「道」已經親自降下、又從死裏復活，如今近在人的口中、心裏。「凡求告主名的，就必得救」（10:13），這裏的「主」，就是被釘十字架、又復活的耶穌——約珥書中呼求「耶和華」之名的應許，如今向著呼求「耶穌」之名的人敞開。整章末了，先知以賽亞的兩句話疊在一起：「沒有尋找我的，我叫他們遇見」，以及「我整天伸手招呼那悖逆頂嘴的百姓」——那雙終日伸出的手，正是後來被釘在木頭上的手。
 
@@ -4065,31 +3568,31 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ## 配詩 (Opening Hymn)
 
-> **Just As I Am**
+> **Just As I Am** \
 > *Charlotte Elliott, 1835*
 >
-> Just as I am, without one plea,
-> But that Thy blood was shed for me,
-> And that Thou bidd'st me come to Thee,
+> Just as I am, without one plea, \
+> But that Thy blood was shed for me, \
+> And that Thou bidd'st me come to Thee, \
 > O Lamb of God, I come, I come.
 >
-> Just as I am, and waiting not
-> To rid my soul of one dark blot,
-> To Thee whose blood can cleanse each spot,
+> Just as I am, and waiting not \
+> To rid my soul of one dark blot, \
+> To Thee whose blood can cleanse each spot, \
 > O Lamb of God, I come, I come.
 >
-> 我來就你，並無別詞，
-> 只憑救主流血捨命；
-> 並蒙呼召來到主前，
+> 我來就你，並無別詞， \
+> 只憑救主流血捨命； \
+> 並蒙呼召來到主前， \
 > 神的羔羊，我來，我來。
 
 ---
 
 ## 經文 (Scripture)
 
-> **版本說明**：中文經文核對來源為 ai-eden.com 與 cnbible.com（現代標點和合本 CUVMP），寫作當時未能穩定取得逐節可核對的「和合本修訂版 (RCUV)」文本，故如實改用已核實之和合本 (CUV/CUVMP)，與本書其他各章標示之 RCUV 版本不完全一致，特此誠實註明，供讀者查核。English 採用 English Standard Version (ESV)，經 biblegateway.com 逐節核對。
-
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 ai-eden.com 與 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}弟兄們，我心裏所願的，向神所求的，是要以色列人得救。\textsuperscript{2}我可以證明他們向神有熱心，但不是按著真知識；\textsuperscript{3}因為不知道神的義，想要立自己的義，就不服神的義了。\textsuperscript{4}律法的總結就是基督，使凡信他的都得著義。
 
@@ -4101,17 +3604,17 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > \textsuperscript{18}但我說，人沒有聽見麼？誠然聽見了。他們的聲音傳遍天下；他們的言語傳到地極。\textsuperscript{19}我再說，以色列人不知道麼？先有摩西說：我要用那不成子民的，惹動你們的憤恨；我要用那無知的民觸動你們的怒氣。\textsuperscript{20}又有以賽亞放膽說：沒有尋找我的，我叫他們遇見；沒有訪問我的，我向他們顯現。\textsuperscript{21}至於以色列人，他說：我整天伸手招呼那悖逆頂嘴的百姓。
 
-### English — ESV
+### English — NASB
 
-> ¹Brothers, my heart's desire and prayer to God for them is that they may be saved. ²For I bear them witness that they have a zeal for God, but not according to knowledge. ³For, being ignorant of the righteousness of God, and seeking to establish their own, they did not submit to God's righteousness. ⁴For Christ is the end of the law for righteousness to everyone who believes.
+> \textsuperscript{1}Brethren, my heart's desire and my prayer to God for them is for *their* salvation. \textsuperscript{2}For I testify about them that they have a zeal for God, but not in accordance with knowledge. \textsuperscript{3}For not knowing about God's righteousness and seeking to establish their own, they did not subject themselves to the righteousness of God. \textsuperscript{4}For Christ is the end of the law for righteousness to everyone who believes.
 
-> ⁵For Moses writes about the righteousness that is based on the law, that the person who does the commandments shall live by them. ⁶But the righteousness based on faith says, "Do not say in your heart, 'Who will ascend into heaven?' (that is, to bring Christ down) ⁷or 'Who will descend into the abyss?' (that is, to bring Christ up from the dead)." ⁸But what does it say? "The word is near you, in your mouth and in your heart" (that is, the word of faith that we proclaim);
+> \textsuperscript{5}For Moses writes that the man who practices the righteousness which is based on law shall live by that righteousness. \textsuperscript{6}But the righteousness based on faith speaks as follows: "DO NOT SAY IN YOUR HEART, 'WHO WILL ASCEND INTO HEAVEN?' (that is, to bring Christ down), \textsuperscript{7}or 'WHO WILL DESCEND INTO THE ABYSS?' (that is, to bring Christ up from the dead)." \textsuperscript{8}But what does it say? "THE WORD IS NEAR YOU, IN YOUR MOUTH AND IN YOUR HEART"—that is, the word of faith which we are preaching,
 
-> **⁹because, if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. ¹⁰For with the heart one believes and is justified, and with the mouth one confesses and is saved.** ¹¹For the Scripture says, "Everyone who believes in him will not be put to shame." ¹²For there is no distinction between Jew and Greek; for the same Lord is Lord of all, bestowing his riches on all who call on him. **¹³For "everyone who calls on the name of the Lord will be saved."**
+> **\textsuperscript{9}that if you confess with your mouth Jesus *as* Lord, and believe in your heart that God raised Him from the dead, you will be saved; \textsuperscript{10}for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.** \textsuperscript{11}For the Scripture says, "WHOEVER BELIEVES IN HIM WILL NOT BE DISAPPOINTED." \textsuperscript{12}For there is no distinction between Jew and Greek; for the same *Lord* is Lord of all, abounding in riches for all who call on Him; **\textsuperscript{13}for "WHOEVER WILL CALL ON THE NAME OF THE LORD WILL BE SAVED."**
 
-> **¹⁴How then will they call on him in whom they have not believed? And how are they to believe in him of whom they have never heard? And how are they to hear without someone preaching? ¹⁵And how are they to preach unless they are sent? As it is written, "How beautiful are the feet of those who preach the good news!"** ¹⁶But they have not all obeyed the gospel. For Isaiah says, "Lord, who has believed what he has heard from us?" **¹⁷So faith comes from hearing, and hearing through the word of Christ.**
+> **\textsuperscript{14}How then will they call on Him in whom they have not believed? How will they believe in Him whom they have not heard? And how will they hear without a preacher? \textsuperscript{15}How will they preach unless they are sent? Just as it is written, "HOW BEAUTIFUL ARE THE FEET OF THOSE WHO BRING GOOD NEWS OF GOOD THINGS!"** \textsuperscript{16}However, they did not all heed the good news; for Isaiah says, "LORD, WHO HAS BELIEVED OUR REPORT?" **\textsuperscript{17}So faith *comes* from hearing, and hearing by the word of Christ.**
 
-> ¹⁸But I ask, have they not heard? Indeed they have, for "Their voice has gone out to all the earth, and their words to the ends of the world." ¹⁹But I ask, did Israel not understand? First Moses says, "I will make you jealous of those who are not a nation; with a foolish nation I will make you angry." ²⁰Then Isaiah is so bold as to say, "I have been found by those who did not seek me; I have shown myself to those who did not ask for me." ²¹But of Israel he says, "All day long I have held out my hands to a disobedient and contrary people."
+> \textsuperscript{18}But I say, surely they have never heard, have they? Indeed they have; "THEIR VOICE HAS GONE OUT INTO ALL THE EARTH, AND THEIR WORDS TO THE ENDS OF THE WORLD." \textsuperscript{19}But I say, surely Israel did not know, did they? First Moses says, "I WILL MAKE YOU JEALOUS BY THAT WHICH IS NOT A NATION, BY A NATION WITHOUT UNDERSTANDING WILL I ANGER YOU." \textsuperscript{20}And Isaiah is very bold and says, "I WAS FOUND BY THOSE WHO DID NOT SEEK ME, I BECAME MANIFEST TO THOSE WHO DID NOT ASK FOR ME." \textsuperscript{21}But as for Israel He says, "ALL THE DAY LONG I HAVE STRETCHED OUT MY HANDS TO A DISOBEDIENT AND OBSTINATE PEOPLE."
 
 ---
 
@@ -4123,7 +3626,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 保羅的心：為誰禱告
 
-10:1「我心裏所願的，向神所求的，是要以色列人得救」——這句話緊接在9:1-3「我大有憂愁，心裏時常傷痛……為我弟兄、我骨肉之親，就是自己被咒詛，與基督分離，我也願意」之後。保羅不是站在遠處分析以色列人的問題，他是含著眼淚寫這一章。神學的精確與牧者的心腸，在保羅身上從不分開。
+10:1「我心裏所願的，向神所求的，是要以色列人得救」——這句話緊接在9:1-3「我大有憂愁，心裏時常傷痛……為我弟兄、我骨肉之親，就是自己被咒詛，與基督分離，我也願意」之後。保羅不是站在遠處分析以色列人的問題，他是含著眼淚寫這一章。真理的精確與牧者的心腸，在保羅身上從不分開。
 
 ### 「律法的義」與「信心的義」的舊約根據
 
@@ -4134,7 +3637,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | τέλος | telos | 終結／目標 | 10:4「律法的總結」，見下方專題討論 |
 | ὁμολογέω | homologeō | 承認、公開宣認 | 10:9-10，法庭與公開場合的宣告用詞 |
 | πιστεύω | pisteuō | 相信、信靠 | 10:9-10，14，心裏的信靠，非僅頭腦同意 |
@@ -4148,7 +3651,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 1. **「終結」（termination）**：律法作為「靠遵行稱義」這條路，到基督就終止了——不是說律法本身作廢，而是「藉律法稱義」這條路走到了盡頭，因為基督親自成就了律法要求的義。
 2. **「目標／成全」（goal / fulfilment）**：律法從一開始的方向、目的地就是基督——律法所有的預表、獻祭、誡命，都指向那將要來的那一位；基督不是律法的終止，而是律法一直想抵達的地方。
 
-當代不少釋經者（例如 Douglas Moo 在其《羅馬書》註釋中的討論）主張這兩個意思其實**同時成立**，並非非此即彼——保羅刻意選用這個雙義詞，正是因為「基督既是律法要人靠行為稱義這條路的終結，也是律法一切預表所指向、要成全的目標」。這不是迴避難題的和稀泥，而是承認保羅的語言本身容許、甚至可能刻意運用了這種雙重指涉。讀者若查考不同英文譯本，會看到 KJV/ESV 多譯作 "end"（保留雙義的模糊性），而 NIV 則譯作 "culmination"（明顯偏向「成全」一義）——這差異本身就是這場解經爭論的縮影。
+當代不少釋經者（例如 Douglas Moo 在其《羅馬書》註釋中的討論）主張這兩個意思其實**同時成立**，並非非此即彼——保羅刻意選用這個雙義詞，正是因為「基督既是律法要人靠行為稱義這條路的終結，也是律法一切預表所指向、要成全的目標」。這不是迴避難題的和稀泥，而是承認保羅的語言本身容許、甚至可能刻意運用了這種雙重指涉。讀者若查考不同英文譯本，會看到 KJV/ESV 多譯作 "end"（保留雙義的模糊性）——本書英文所據之 NASB 1995 在10:4同樣譯作 "end"，保留同樣的雙義空間——而 NIV 則譯作 "culmination"（明顯偏向「成全」一義）——這差異本身就是這場解經爭論的縮影。
 
 ### *homologeō*（10:9-10）——不是私下同意，是公開宣告
 
@@ -4160,11 +3663,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### *akoē*（10:17）——信心從何而來
 
-「信道是從聽道來的」，原文 *hē pistis ex akoēs*，*akoē* 既可指「聽的動作」，也可指「所聽見的信息、報告」——這正是英文 acoustic（聲學）一詞的字根。保羅在這裏講的不是一種神秘的、內在自生的信心，而是一個非常「平凡」的因果鏈：信心不是人自己憑空生出來的感覺，是因為聽見了一個具體的信息（基督的話）才生出來的。這節經文因此成了教會歷史上「講道」與「宣教」神學的根基之一：沒有宣講，就沒有可聽見的信息；沒有可聽見的信息，就沒有信心的產生。
+「信道是從聽道來的」，原文 *hē pistis ex akoēs*，*akoē* 既可指「聽的動作」，也可指「所聽見的信息、報告」——這正是英文 acoustic（聲學）一詞的字根。保羅在這裏講的不是一種神秘的、內在自生的信心，而是一個非常「平凡」的因果鏈：信心不是人自己憑空生出來的感覺，是因為聽見了一個具體的信息（基督的話）才生出來的。這節經文因此成了教會歷史上「講道」與「宣教」的根基之一：沒有宣講，就沒有可聽見的信息；沒有可聽見的信息，就沒有信心的產生。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 熱心不等於認識（10:1-3）
 
@@ -4176,15 +3679,13 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 3. 「沒有分別」——福音的普世性（10:11-13）
 
-「猶太人和希利尼人並沒有分別」，這句話直接呼應3:22-23「並沒有分別，因為世人都犯了罪」——第3章講的是「沒有分別地都需要」，第10章講的是「沒有分別地都可以得」。約珥書2:32原本說「凡求告耶和華名的，就必得救」，保羅在此毫不猶豫地將這應許中的「耶和華」對應到「主耶穌」，並且宣告這應許現在向著「凡」（*pas*，一切、任何人）求告主名的人敞開——這是舊約盟約應許在基督裏向萬民開放的關鍵一步，為第11章「外邦人得接在橄欖樹上」預備了神學基礎。
+「猶太人和希利尼人並沒有分別」，這句話直接呼應3:22-23「並沒有分別，因為世人都犯了罪」——第3章講的是「沒有分別地都需要」，第10章講的是「沒有分別地都可以得」。約珥書2:32原本說「凡求告耶和華名的，就必得救」，保羅在此毫不猶豫地將這應許中的「耶和華」對應到「主耶穌」，並且宣告這應許現在向著「凡」（*pas*，一切、任何人）求告主名的人敞開——這是舊約盟約應許在基督裏向萬民開放的關鍵一步，為第11章「外邦人得接在橄欖樹上」預備了基礎。
 
-### 4. 宣教的邏輯鏈（10:14-15）
+### 4. 宣教的邏輯鏈：神未曾失信，是人不肯聽從（10:14-21）
 
-保羅在這裏不是講抽象神學，而是用一連串反問句，倒推出宣教的必然次序：**得救** ← 求告 ← **相信** ← 聽見 ← **傳講** ← 差遣。這條鏈子若少了任何一環，前面的都不會發生——沒有差遣，就沒有傳講；沒有傳講，就沒有可聽的信息；沒有可聽的信息，就不可能有信心；沒有信心，就不會有求告；沒有求告，就沒有得救。以賽亞書52:7「報佳音、傳平安、報好信、傳救恩的，對錫安說：你的神作王了」——那雙傳好消息的腳「何等佳美」，不是因為腳本身美，而是因為它所帶來的信息美。
+保羅在這裏不是講抽象的道理，而是用一連串反問句，倒推出宣教的必然次序：**得救** ← 求告 ← **相信** ← 聽見 ← **傳講** ← 差遣。這條鏈子若少了任何一環，前面的都不會發生——沒有差遣，就沒有傳講；沒有傳講，就沒有可聽的信息；沒有可聽的信息，就不可能有信心；沒有信心，就不會有求告；沒有求告，就沒有得救。以賽亞書52:7「報佳音、傳平安、報好信、傳救恩的，對錫安說：你的神作王了」——那雙傳好消息的腳「何等佳美」，不是因為腳本身美，而是因為它所帶來的信息美。
 
-### 5. 神未曾失信，是人不肯聽從（10:16-21）
-
-本章結尾不是絕望的控訴，而是精確的分辨：問題不在於「福音沒有傳到」（18節：他們的聲音已經傳遍天下，引自詩19:4），也不在於「以色列人不明白」（19節：摩西早已用「非民」惹動他們的憤恨），而在於「他們不肯聽從」（16、21節）。20-21節把兩句以賽亞的話並排放：「沒有尋找我的，我叫他們遇見」（外邦人蒙恩的預言）與「我整天伸手招呼那悖逆頂嘴的百姓」（以色列人硬心的寫照）。這一組對比為第11章鋪好了路：以色列今天的悖逆，是不是意味著神已經棄絕他們？保羅在下一章要回答：斷乎不是。
+本章結尾（10:16-21）不是絕望的控訴，而是精確的分辨：問題不在於「福音沒有傳到」（18節：他們的聲音已經傳遍天下，引自詩19:4），也不在於「以色列人不明白」（19節：摩西早已用「非民」惹動他們的憤恨），而在於「他們不肯聽從」（16、21節）。20-21節把兩句以賽亞的話並排放：「沒有尋找我的，我叫他們遇見」（外邦人蒙恩的預言）與「我整天伸手招呼那悖逆頂嘴的百姓」（以色列人硬心的寫照）。這一組對比為第11章鋪好了路：以色列今天的悖逆，是不是意味著神已經棄絕他們？保羅在下一章要回答：斷乎不是。
 
 ---
 
@@ -4193,7 +3694,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 > **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
 > 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
 
-**誠實說明**：以下引述除加爾文《羅馬書註釋》確有可查考之原著文本外，其餘均屬對該作者一貫解經立場、廣為人知之神學重點的一般性、綜合性歸納轉述，並非逐字逐句可查證的原文引句，特此如實標明，不杜撰具體篇章頁碼。
+**誠實說明**：以下引述除加爾文《羅馬書註釋》確有可查考之原著文本外，其餘均屬對該作者一貫解經立場、廣為人知之解經重點的一般性、綜合性歸納轉述，並非逐字逐句可查證的原文引句，特此如實標明，不杜撰具體篇章頁碼。
 
 ### 教父時期
 
@@ -4209,65 +3710,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德一生的神學轉折與羅馬書密不可分，他多次強調羅馬書10:9-10這類經文將「稱義」從煩瑣的教會禮儀與功德制度中釋放出來，回到最單純的「信」與「認」——這也是宗教改革「唯獨信心」（*sola fide*）神學的重要經文根據之一。
+路德一生的轉折與羅馬書密不可分，他多次強調羅馬書10:9-10這類經文將「稱義」從煩瑣的教會禮儀與功德制度中釋放出來，回到最單純的「信」與「認」——這也是宗教改革「唯獨信心」（*sola fide*）的重要經文根據之一。
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：
-
-麥克阿瑟在其羅馬書系列講道與註釋中一貫指出，10:9-10是全本聖經中最直接、最常被用來領人信主的經文之一——「福音的濃縮版」；他也特別強調10:14-15的宣教邏輯鏈，認為這是保羅留給教會最清楚的宣教神學，任何教會的宣教策略都繞不開這條「差遣—傳講—聽見—相信—求告—得救」的次序。
-
-> 出處：以上教父與改教家段落屬對其一貫解經立場之一般性歸納轉述，非逐字引句；加爾文《羅馬書註釋》段落依其論羅馬書10章之一貫主張整理；MacArthur 段落屬對其講道系列一貫立場之綜合轉述，未附具體講題與日期，讀者若需查證應另行核對其原著。
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 19:1-4
-
-保羅在10:18正是引用這段詩篇來說明：福音的聲音已經「傳遍天下」，如同諸天不用言語卻已將神的榮耀傳到地極。
-
-> **諸天述說神的榮耀**；穹蒼傳揚他的手段。
-> 這日到那日發出言語；這夜到那夜傳出知識。
-> 無言無語，也無聲音可聽。
-> **他的量帶通遍天下，他的言語傳到地極。**
-
-> **The heavens declare the glory of God**,
-> and the sky above proclaims his handiwork.
-> Day to day pours out speech,
-> and night to night reveals knowledge.
-> There is no speech, nor are there words,
-> whose voice is not heard.
-> **Their voice has gone out to all the earth,
-> and their words to the ends of the world.**
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Just As I Am
-
-這首詩歌由 Charlotte Elliott 於1835年創作，她長年臥病，據其家族與教會傳統流傳，這首詩正是出於她個人在軟弱無力中單單仰賴基督恩典的心境所寫成——這首詩歌後來成為近代佈道會（如葛培理佈道大會）最常用的呼召詩歌之一，每一次呼召，都是把10:9-10「口裏承認、心裏相信」具體化成一個當下的行動：不必先把自己收拾乾淨，「就照著現在的我」（just as I am）來到主前。
-
-**歌詞與經文對照**：
-- "Just as I am, without one plea" — 呼應10:3「想要立自己的義」的相反：不是先立功德才能來，是現在就可以來
-- "O Lamb of God, I come, I come" — 呼應10:9-10心與口的雙重回應：來，是一個既在心裏、也用行動宣告出來的動作
-- 整首詩歌重複的呼召結構，正對應10:13「凡求告主名的，就必得救」的「凡」字——不設門檻，只等你來
-
-### 另一配詩：How Firm a Foundation
-
-> How firm a foundation, ye saints of the Lord,
-> Is laid for your faith in His excellent Word!
-> What more can He say than to you He hath said,
-> To you who for refuge to Jesus have fled?
-
-這首詩歌（1787年 Rippon's Selection 收錄）呼應10:8「這道離你不遠，正在你口裏，在你心裏」——那立定的根基，就是神已經賜下、如今近在人心口之間的話語。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **熱心與知識的分離，是宗教最危險的狀態**：摩根對羅馬書9-11章的一貫論述指出，保羅描述以色列人「有熱心，但不是按著真知識」，正點出宗教生活中最隱蔽、也最危險的一種光景——不是冷淡，而是方向錯誤的火熱。一個人可以極其認真地遵守宗教規條、極其投入地服事，卻同時完全誤解了神的義究竟是甚麼，因為他把力氣都花在「立自己的義」，而不是「服在神的義」之下。
 
@@ -4279,53 +3724,78 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > 出處：對 G. Campbell Morgan 羅馬書9-11章相關講章一貫解經立場的一般性歸納轉述，非逐字引句，未附具體篇章頁碼。
 
-### 老弟兄查經洞見 (The Elder's Insights)
+### 麥克阿瑟 (John MacArthur)
 
-**哪裏有信，哪裏就有聖靈的工作**：老弟兄常提醒，讀經最容易掉進的陷阱，是把「明白福音的知識」誤當作「已經相信福音」。羅馬書10:9-10正是檢驗這個陷阱最鋒利的一把刀——不是「你懂不懂三步禱告詞」，而是「你是用口信、用心稱義，還是只是頭腦知道福音的知識？」老弟兄一貫強調：字句叫人死，精義（聖靈）叫人活；同樣，知識若不化成心裏的信與口裏的認，也叫人死。
+麥克阿瑟在其羅馬書系列講道與註釋中一貫指出，10:9-10是全本聖經中最直接、最常被用來領人信主的經文之一——「福音的濃縮版」；他也特別強調10:14-15的宣教邏輯鏈，認為這是保羅留給教會最清楚的宣教教導，任何教會的宣教策略都繞不開這條「差遣—傳講—聽見—相信—求告—得救」的次序。
 
-**心與口的次序，不是偶然**：老弟兄查經時習慣逐字拆解經文結構，若照此方法逐字讀10:9-10，會發現保羅其實用了一個交錯的結構——第9節先講口（認），後講心（信）；第10節卻反過來，先講心（信而稱義），後講口（認而得救）。這個交錯本身在提醒讀者：口裏的認，若沒有心裏真實的信作根基，只是空話；但心裏真實的信，遲早也必然要在口裏認出來——兩者互相印證，缺一不可。
-
-**宣教不是活動，是信的自然結果**：老弟兄一貫的教導方法論強調，服事要靠聖靈的恩賜，不是靠人的方法或組織技巧堆出來的；同樣，10:14-15的宣教邏輯鏈，起點不是「教會需要一個宣教部門」，而是「有人真信了，就無法不傳」——傳講的行動，是信心真實性的自然流露，不是外加的宗教義務。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+> 出處：以上教父與改教家段落屬對其一貫解經立場之一般性歸納轉述，非逐字引句；加爾文《羅馬書註釋》段落依其論羅馬書10章之一貫主張整理；MacArthur 段落屬對其講道系列一貫立場之綜合轉述，未附具體講題與日期，讀者若需查證應另行核對其原著。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Just As I Am*（如前「配詩」所引）
+### 詩篇 19:1-4
 
-> Just as I am, without one plea,
-> But that Thy blood was shed for me,
-> And that Thou bidd'st me come to Thee,
-> O Lamb of God, I come, I come.
+保羅在10:18正是引用這段詩篇來說明：福音的聲音已經「傳遍天下」，如同諸天不用言語卻已將神的榮耀傳到地極。
 
-**詩篇**：詩篇 19:4
+> **諸天述說神的榮耀**；穹蒼傳揚他的手段。 \
+> 這日到那日發出言語；這夜到那夜傳出知識。 \
+> 無言無語，也無聲音可聽。 \
+> **他的量帶通遍天下，他的言語傳到地極。**
 
-> 他的量帶通遍天下，他的言語傳到地極。
+> **The heavens are telling of the glory of God**; \
+> And their expanse is declaring the work of His hands. \
+> Day to day pours forth speech, \
+> And night to night reveals knowledge. \
+> There is no speech, nor are there words; \
+> Their voice is not heard. \
+> **Their line has gone out through all the earth, \
+> And their utterances to the end of the world.**
+
+### Just As I Am
+
+這首詩歌由 Charlotte Elliott 於1835年創作，她長年臥病，據其家族與教會傳統流傳，這首詩正是出於她個人在軟弱無力中單單仰賴基督恩典的心境所寫成——這首詩歌後來成為近代佈道會（如葛培理佈道大會）最常用的呼召詩歌之一，每一次呼召，都是把10:9-10「口裏承認、心裏相信」具體化成一個當下的行動：不必先把自己收拾乾淨，「就照著現在的我」（just as I am）來到主前。
+
+**歌詞與經文對照**：
+- "Just as I am, without one plea" — 呼應10:3「想要立自己的義」的相反：不是先立功德才能來，是現在就可以來
+- "O Lamb of God, I come, I come" — 呼應10:9-10心與口的雙重回應：來，是一個既在心裏、也用行動宣告出來的動作
+- 整首詩歌重複的呼召結構，正對應10:13「凡求告主名的，就必得救」的「凡」字——不設門檻，只等你來
+
+### How Firm a Foundation
+
+> How firm a foundation, ye saints of the Lord, \
+> Is laid for your faith in His excellent Word! \
+> What more can He say than to you He hath said, \
+> To you who for refuge to Jesus have fled?
+
+這首詩歌（1787年 Rippon's Selection 收錄）呼應10:8「這道離你不遠，正在你口裏，在你心裏」——那立定的根基，就是神已經賜下、如今近在人心口之間的話語。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+
+**精義一句話**：救恩不是遠方的攀登，是近在咫尺的信靠——口裏承認、心裏相信，就必得救；而這道要傳到地極，還需要有人開口。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：那離人不遠的道。申命記30:11-14，摩西告訴百姓：神的誡命「不是難行的，也不是離你遠的……這話是離你甚近，就在你口中，在你心裏，使你可以遵行」。保羅在羅馬書10:6-8重新應用這段話：如今那「近在咫尺」的，不再只是誡命條文，而是基督自己——祂已經降世（不必上天去領祂下來），已經復活（不必下陰間去領祂上來）。
+**近在咫尺線**：申命記30:11-14，摩西告訴百姓：神的誡命「不是難行的，也不是離你遠的……這話是離你甚近，就在你口中，在你心裏，使你可以遵行」。保羅在羅馬書10:6-8重新應用這段話：如今那「近在咫尺」的，不再只是誡命條文，而是基督自己——祂已經降世（不必上天去領祂下來），已經復活（不必下陰間去領祂上來）。
 
-這條線繼續往前走，通向以賽亞書52:7「報佳音之人的腳蹤何等佳美」，保羅在10:15直接引用這節經文，把「近在咫尺的道」與「傳講出去的道」接在一起——道近在心口，卻仍然需要有人開口把它帶到還沒聽過的人那裏。這條線再往下走，就是主耶穌升天前的大使命：「你們要去，使萬民作我的門徒」（太28:19-20），以及「聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒馬利亞，直到地極，作我的見證」（徒1:8）。從申命記30章的「近」，到羅馬書10章的「傳」，到使徒行傳1章的「地極」——這是同一條道，越走越遠，卻始終沒有離開過起點：那位近在人心口的基督。
+**傳講·大使命線**：這條線繼續往前走，通向以賽亞書52:7「報佳音之人的腳蹤何等佳美」，保羅在10:15直接引用這節經文，把「近在咫尺的道」與「傳講出去的道」接在一起——道近在心口，卻仍然需要有人開口把它帶到還沒聽過的人那裏。這條線再往下走，就是主耶穌升天前的大使命：「你們要去，使萬民作我的門徒」（太28:19-20），以及「聖靈降臨在你們身上，你們就必得著能力，並要在耶路撒冷、猶太全地和撒馬利亞，直到地極，作我的見證」（徒1:8）。從申命記30章的「近」，到羅馬書10章的「傳」，到使徒行傳1章的「地極」——這是同一條道，越走越遠，卻始終沒有離開過起點：那位近在人心口的基督。
 
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
-- 先問：「保羅說以色列人『有熱心，但不是按著真知識』——你覺得，一個人可以錯得多認真？」
+- 先問：「保羅一開口不談自己，先談福音的內容。你介紹自己的信仰時，先談的是自己的經歷，還是福音本身的事實？」
 - 再問：「10:9-10，先講『口認』再講『心信』，接著又反過來——你覺得心和口，到底哪個先？為甚麼保羅要這樣交錯著寫？」
 - 追問：「『信道是從聽道來的』——如果沒有人給你講過福音，你今天會信嗎？那你今天信了，是誰把這道傳給了你？」
-- 落到自己：「你是用口信、用心稱義？還是只是頭腦知道福音的知識？」
+- 落到自己：「你是心裏真信、口裏真認，還是只停在頭腦知道福音？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天我們身處一個資訊爆炸、知識唾手可得的時代——任何人打開手機，幾秒鐘就能查到「甚麼是因信稱義」「羅馬書10章講甚麼」，甚至可以讓AI替你總結整段神學論證。但保羅在這一章要說的核心，恰恰不是「知道福音」，而是「口裏認、心裏信」——這是知識無法代勞的行動。AI可以幫你找到、整理、甚至精準複述聖經的每一個論證，卻不能替你相信，也不能替你在口裏承認。「有熱心，但不是按著真知識」，換一個現代的說法，可能就是：搜集了大量的資訊、甚至熱衷於神學辯論，卻始終停在「知道」的層面，沒有跨進「信」與「認」的門檻。
+今天我們身處一個資訊爆炸、知識唾手可得的時代——任何人打開手機，幾秒鐘就能查到「甚麼是因信稱義」「羅馬書10章講甚麼」，甚至可以讓AI替你總結整段論證。但保羅在這一章要說的核心，恰恰不是「知道福音」，而是「口裏認、心裏信」——這是知識無法代勞的行動。AI可以幫你找到、整理、甚至精準複述聖經的每一個論證，卻不能替你相信，也不能替你在口裏承認。「有熱心，但不是按著真知識」，換一個現代的說法，可能就是：搜集了大量的資訊、甚至熱衷於道理上的辯論，卻始終停在「知道」的層面，沒有跨進「信」與「認」的門檻。
 
 ### 今天的祭壇 (Today's Altar)
 
@@ -4333,17 +3803,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天我有沒有把福音的信息傳給某一個還沒聽見的人？如果沒有，攔阻我的是甚麼？
 - **一個行動**：今天向一位還未信主的人，具體地開口說一句關於耶穌的話——哪怕只是一句見證。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：救恩不是遠方的攀登，是近在咫尺的信靠——口裏承認、心裏相信，就必得救；而這道要傳到地極，還需要有人開口。
-
-**貫通全經**：申命記30章「這話離你甚近，就在你口中，在你心裏」——保羅把這句話直接應用在基督身上；以賽亞書52:7「報佳音之人的腳蹤何等佳美」，是主耶穌升天前大使命的舊約根源。
-
-**無法迴避的問題**：「你是用口信、用心稱義，還是只是頭腦知道福音的知識？」
-
 > 「信道是從聽道來的，聽道是從基督的話來的——你今天信了，是因為有人開口；那今天，換你開口了嗎？」
+
+**你看見耶穌了嗎**：整章沒有一節直接描寫十字架的場景，卻句句指向那位「道」——祂已降世、又已復活，如今近在人的口與心；那被釘十字架又復活的，正是人人可以求告得救的「主」；而先知筆下那雙終日向著悖逆百姓伸出的手，正是後來被釘在木頭上的手。你看見祂了嗎？
 
 ---
 
@@ -4351,13 +3813,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 默想問題
 
-1. **熱心的方向**：我的宗教熱心，是「按著真知識」，還是仍在「想要立自己的義」？
+1. **心與口的一致**：我對耶穌是主的信，是否已經化成口裏具體的承認？有沒有哪個場合，我因為害怕而選擇不認？
 
-2. **心與口的一致**：我對耶穌是主的信，是否已經化成口裏具體的承認？有沒有哪個場合，我因為害怕而選擇不認？
+2. **近在咫尺的道**：我是否還在某些方面「向天上去尋找」——用複雜的宗教努力，尋找一個其實已經近在我心口的救恩？
 
-3. **近在咫尺的道**：我是否還在某些方面「向天上去尋找」——用複雜的宗教努力，尋找一個其實已經近在我心口的救恩？
-
-4. **宣教的鎖鏈**：這條「差遣—傳講—聽見—相信—求告—得救」的鏈子上，我目前站在哪一環？我是否願意成為那雙「何等佳美的腳」？
+3. **宣教的鎖鏈**：這條「差遣—傳講—聽見—相信—求告—得救」的鏈子上，我目前站在哪一環？我是否願意成為那雙「何等佳美的腳」？
 
 ### 禱告回應
 
@@ -4371,17 +3831,15 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅說以色列人「有熱心，但不是按著真知識」——這句話對今天教會的警惕是甚麼？
-
-2. 羅馬書10:4「律法的總結就是基督」，「總結」（*telos*）一詞有「終結」與「目標」兩種讀法，這兩種讀法如何幫助你更全面地理解律法與基督的關係？
-
-3. 10:9-10為甚麼要同時提到「心裏信」與「口裏認」？只有其中一項，是否足夠？
-
-4. 10:14-15的宣教邏輯鏈，從「差遣」到「得救」，哪一環是你目前最需要參與、卻還沒有參與的？
-
-5. 本章結尾（10:16-21）如何區分「福音沒有傳到」與「人不肯聽從」？這個區分對你理解「為甚麼有人不信」有甚麼幫助？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 律法之義與信心之義的舊約根據 | 10:5-8 | 利18:5、申30:12-14 |
+| 心信口認 | 10:9-10 | 太10:32-33、約12:42-43 |
+| 「沒有分別」的普世應許 | 10:11-13 | 羅3:22-23、珥2:32 |
+| 近在咫尺·大使命 | 10:6-8, 15 | 申30:11-14、賽52:7、太28:19-20、徒1:8 |
+| 以色列悖逆早有預言 | 10:19 | 申32:21 |
 
 ---
 
@@ -4395,9 +3853,13 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 11:1-36
 
----
+**經文核對**：[ai-eden.com/bible/romans/11](https://www.ai-eden.com/bible/romans/11?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：豐滿 Plērōma** \
+> **全書坐標**：本章是「揀選」一卷（9-11章，全書五卷：定罪／稱義／成聖／揀選／活祭之一）的終點——9章講神主權的揀選，10章講人當盡的傳講與相信的責任，11章把兩者收束成11:33-36的頌讚：神的憐憫最終臨到猶太人與外邦人「眾人」。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面在談以色列的命運，核心卻始終是那位「從錫安出來的救主」（11:26）。橄欖樹的根是聖潔的——那根不是亞伯拉罕的血統本身，而是神向亞伯拉罕所立、在基督裏成就的應許（加3:16）。猶太人與外邦人能同享一棵樹的肥汁，不是因為兩者本來相通，而是因為基督藉著十字架拆毀了中間隔斷的牆（弗2:14）。全章的邏輯終點——「因為萬有都是本於他，倚靠他，歸於他」（11:36）——所指的「他」，正是那位使猶太人和外邦人都能因信蒙憐憫的主。讀懂以色列的故事，若沒有看見那位使一切歸於祂自己的基督，這一章就只讀懂了一半。
 
@@ -4405,17 +3867,17 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ## 配詩 (Opening Hymn)
 
-> **Praise God, from Whom All Blessings Flow (The Doxology)**
+> **Praise God, from Whom All Blessings Flow (The Doxology)** \
 > *Thomas Ken, 1674*
 >
-> Praise God, from whom all blessings flow;
-> Praise Him, all creatures here below;
-> Praise Him above, ye heavenly host;
+> Praise God, from whom all blessings flow; \
+> Praise Him, all creatures here below; \
+> Praise Him above, ye heavenly host; \
 > Praise Father, Son, and Holy Ghost. Amen.
 >
-> 讚美真神萬福之根，
-> 世上萬民都當頌恩；
-> 天上萬軍讚美主名，
+> 讚美真神萬福之根， \
+> 世上萬民都當頌恩； \
+> 天上萬軍讚美主名， \
 > 讚美聖父聖子聖靈。阿們。
 
 ---
@@ -4424,9 +3886,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 中文 — 和合本 (CUV)
 
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
+
 > \textsuperscript{1}我且說，神棄絕了他的百姓嗎？斷乎沒有。因為我也是以色列人，亞伯拉罕的後裔，屬便雅憫支派的。\textsuperscript{2}神並沒有棄絕他預先所知道的百姓。你們豈不曉得經上論到以利亞是怎麼說的呢？他在神面前怎樣控告以色列人說：\textsuperscript{3}「主啊，他們殺了你的先知，拆了你的祭壇，只剩下我一個人，他們還要尋索我的命。」\textsuperscript{4}神的回話是怎麼說的呢？他說：「我為自己留下七千人，是未曾向巴力屈膝的。」\textsuperscript{5}如今也是這樣，照著揀選的恩典，還有所留的餘數。\textsuperscript{6}既是出於恩典，就不在乎行為；不然，恩典就不是恩典了。
 
-> \textsuperscript{7}這是怎麼樣呢？以色列人所求的，他們沒有得著，唯有蒙揀選的人得著了，其餘的就成了頑梗不化的。\textsuperscript{8}如經上所記：「神給他們昏迷的心，眼睛不能看見，耳朵不能聽見，直到今日。」\textsuperscript{9}大衛也說：「願他們的筵席變為網羅，變為機檻，變為絆腳石，做他們的報應。\textsuperscript{10}願他們的眼睛昏矇，不得看見，願你時常彎下他們的腰。」
+> \textsuperscript{7}這是怎麼樣呢？以色列人所求的，他們沒有得著，惟有蒙揀選的人得著了，其餘的就成了頑梗不化的。\textsuperscript{8}如經上所記：「神給他們昏迷的心，眼睛不能看見，耳朵不能聽見，直到今日。」\textsuperscript{9}大衛也說：「願他們的筵席變為網羅，變為機檻，變為絆腳石，作他們的報應。\textsuperscript{10}願他們的眼睛昏矇，不得看見，願你時常彎下他們的腰。」
 
 > \textsuperscript{11}我且說，他們失腳是要他們跌倒嗎？斷乎不是。反倒因他們的過失，救恩便臨到外邦人，要激動他們發憤。\textsuperscript{12}若他們的過失為天下的富足，他們的缺乏為外邦人的富足，何況他們的豐滿呢？\textsuperscript{13}我對你們外邦人說這話：因我是外邦人的使徒，所以敬重我的職分，\textsuperscript{14}或者可以激動我骨肉之親發憤，好救他們一些人。\textsuperscript{15}若他們被丟棄，天下就得與神和好，他們被收納，豈不是死而復生嗎？\textsuperscript{16}所獻的新麵若是聖潔，全團也就聖潔了；樹根若是聖潔，樹枝也就聖潔了。
 
@@ -4434,23 +3898,21 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > **\textsuperscript{25}弟兄們，我不願意你們不知道這奧祕，恐怕你們自以為聰明，就是：以色列人有幾分是硬心的，等到外邦人的數目添滿了，\textsuperscript{26}於是以色列全家都要得救。如經上所記：「必有一位救主從錫安出來，要消除雅各家的一切罪惡。」**\textsuperscript{27}又說：「我除去他們罪的時候，這就是我與他們所立的約。」\textsuperscript{28}就著福音說，他們為你們的緣故是仇敵；就著揀選說，他們為列祖的緣故是蒙愛的。\textsuperscript{29}因為神的恩賜和選召是沒有後悔的。\textsuperscript{30}你們從前不順服神，如今因他們的不順服，你們倒蒙了憐恤。\textsuperscript{31}這樣，他們也是不順服，叫他們因著施給你們的憐恤，現在也就蒙憐恤。\textsuperscript{32}因為神將眾人都圈在不順服之中，特意要憐恤眾人。
 
-> **\textsuperscript{33}深哉，神豐富的智慧和知識！他的判斷何其難測，他的蹤跡何其難尋！\textsuperscript{34}「誰知道主的心，誰做過他的謀士呢？\textsuperscript{35}誰是先給了他，使他後來償還呢？」\textsuperscript{36}因為萬有都是本於他，倚靠他，歸於他。願榮耀歸給他，直到永遠！阿們。**
+> **\textsuperscript{33}深哉，神豐富的智慧和知識！他的判斷何其難測，他的蹤跡何其難尋！\textsuperscript{34}「誰知道主的心，誰作過他的謀士呢？\textsuperscript{35}誰是先給了他，使他後來償還呢？」\textsuperscript{36}因為萬有都是本於他，倚靠他，歸於他。願榮耀歸給他，直到永遠！阿們。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com 逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> \textsuperscript{1}I say then, God has not rejected His people, has He? May it never be! For I too am an Israelite, a descendant of Abraham, of the tribe of Benjamin. \textsuperscript{2}God has not rejected His people whom He foreknew. Or do you not know what the Scripture says in *the passage about* Elijah, how he pleads with God against Israel? \textsuperscript{3}"Lord, THEY HAVE KILLED YOUR PROPHETS, THEY HAVE TORN DOWN YOUR ALTARS, AND I ALONE AM LEFT, AND THEY ARE SEEKING MY LIFE." \textsuperscript{4}But what is the divine response to him? "I HAVE KEPT for Myself SEVEN THOUSAND MEN WHO HAVE NOT BOWED THE KNEE TO BAAL." \textsuperscript{5}In the same way then, there has also come to be at the present time a remnant according to *God's* gracious choice. \textsuperscript{6}But if it is by grace, it is no longer on the basis of works, otherwise grace is no longer grace.
 
-> \textsuperscript{1}I ask, then, has God rejected his people? By no means! For I myself am an Israelite, a descendant of Abraham, a member of the tribe of Benjamin. \textsuperscript{2}God has not rejected his people whom he foreknew. Do you not know what the Scripture says of Elijah, how he appeals to God against Israel? \textsuperscript{3}"Lord, they have killed your prophets, they have demolished your altars, and I alone am left, and they seek my life." \textsuperscript{4}But what is God's reply to him? "I have kept for myself seven thousand men who have not bowed the knee to Baal." \textsuperscript{5}So too at the present time there is a remnant, chosen by grace. \textsuperscript{6}But if it is by grace, it is no longer on the basis of works; otherwise grace would no longer be grace.
+> \textsuperscript{7}What then? What Israel is seeking, it has not obtained, but those who were chosen obtained it, and the rest were hardened; \textsuperscript{8}just as it is written, "GOD GAVE THEM A SPIRIT OF STUPOR, EYES TO SEE NOT AND EARS TO HEAR NOT, DOWN TO THIS VERY DAY." \textsuperscript{9}And David says, "LET THEIR TABLE BECOME A SNARE AND A TRAP, AND A STUMBLING BLOCK AND A RETRIBUTION TO THEM. \textsuperscript{10}LET THEIR EYES BE DARKENED TO SEE NOT, AND BEND THEIR BACKS FOREVER."
 
-> \textsuperscript{7}What then? Israel failed to obtain what it was seeking. The elect obtained it, but the rest were hardened, \textsuperscript{8}as it is written, "God gave them a spirit of stupor, eyes that would not see and ears that would not hear, down to this very day." ^9-10^And David says, "Let their table become a snare and a trap, a stumbling block and a retribution for them; let their eyes be darkened so that they cannot see, and bend their backs forever."
+> \textsuperscript{11}I say then, they did not stumble so as to fall, did they? May it never be! But by their transgression salvation *has come* to the Gentiles, to make them jealous. \textsuperscript{12}Now if their transgression is riches for the world and their failure is riches for the Gentiles, how much more will their fulfillment be! \textsuperscript{13}But I am speaking to you who are Gentiles. Inasmuch then as I am an apostle of Gentiles, I magnify my ministry, \textsuperscript{14}if somehow I might move to jealousy my fellow countrymen and save some of them. \textsuperscript{15}For if their rejection is the reconciliation of the world, what will *their* acceptance be but life from the dead? \textsuperscript{16}If the first piece *of dough* is holy, the lump is also; and if the root is holy, the branches are too.
 
-> \textsuperscript{11}So I ask, did they stumble in order that they might fall? By no means! Rather, through their trespass salvation has come to the Gentiles, so as to make Israel jealous. \textsuperscript{12}Now if their trespass means riches for the world, and if their failure means riches for the Gentiles, how much more will their full inclusion mean! \textsuperscript{13}Now I am speaking to you Gentiles. Inasmuch then as I am an apostle to the Gentiles, I magnify my ministry \textsuperscript{14}in order somehow to make my fellow Jews jealous, and thus save some of them. \textsuperscript{15}For if their rejection means the reconciliation of the world, what will their acceptance mean but life from the dead? \textsuperscript{16}If the dough offered as firstfruits is holy, so is the whole lump, and if the root is holy, so are the branches.
+> \textsuperscript{17}But if some of the branches were broken off, and you, being a wild olive, were grafted in among them and became partaker with them of the rich root of the olive tree, \textsuperscript{18}do not be arrogant toward the branches; but if you are arrogant, *remember that* it is not you who supports the root, but the root *supports* you. \textsuperscript{19}You will say then, "Branches were broken off so that I might be grafted in." \textsuperscript{20}Quite right, they were broken off for their unbelief, but you stand by your faith. Do not be conceited, but fear; \textsuperscript{21}for if God did not spare the natural branches, He will not spare you, either. \textsuperscript{22}Behold then the kindness and severity of God; to those who fell, severity, but to you, God's kindness, if you continue in His kindness; otherwise you also will be cut off. \textsuperscript{23}And they also, if they do not continue in their unbelief, will be grafted in, for God is able to graft them in again. \textsuperscript{24}For if you were cut off from what is by nature a wild olive tree, and were grafted contrary to nature into a cultivated olive tree, how much more will these who are the natural *branches* be grafted into their own olive tree?
 
-> \textsuperscript{17}But if some of the branches were broken off, and you, although a wild olive shoot, were grafted in among the others and now share in the nourishing root of the olive tree, \textsuperscript{18}do not be arrogant toward the branches. If you are, remember it is not you who support the root, but the root that supports you. \textsuperscript{19}Then you will say, "Branches were broken off so that I might be grafted in." \textsuperscript{20}That is true. They were broken off because of their unbelief, but you stand fast through faith. So do not become proud, but fear. \textsuperscript{21}For if God did not spare the natural branches, neither will he spare you. \textsuperscript{22}Note then the kindness and the severity of God: severity toward those who have fallen, but God's kindness to you, provided you continue in his kindness. Otherwise you too will be cut off. \textsuperscript{23}And even they, if they do not continue in their unbelief, will be grafted in, for God has the power to graft them in again. \textsuperscript{24}For if you were cut from what is by nature a wild olive tree, and grafted, contrary to nature, into a cultivated olive tree, how much more will these, the natural branches, be grafted back into their own olive tree.
+> **\textsuperscript{25}For I do not want you, brethren, to be uninformed of this mystery—so that you will not be wise in your own estimation—that a partial hardening has happened to Israel until the fullness of the Gentiles has come in; \textsuperscript{26}and so all Israel will be saved; just as it is written, "THE DELIVERER WILL COME FROM ZION, HE WILL REMOVE UNGODLINESS FROM JACOB."** \textsuperscript{27}"THIS IS MY COVENANT WITH THEM, WHEN I TAKE AWAY THEIR SINS." \textsuperscript{28}From the standpoint of the gospel they are enemies for your sake, but from the standpoint of *God's* choice they are beloved for the sake of the fathers; \textsuperscript{29}for the gifts and the calling of God are irrevocable. \textsuperscript{30}For just as you once were disobedient to God, but now have been shown mercy because of their disobedience, \textsuperscript{31}so these also now have been disobedient, that because of the mercy shown to you they also may now be shown mercy. \textsuperscript{32}For God has shut up all in disobedience so that He may show mercy to all.
 
-> **\textsuperscript{25}Lest you be wise in your own sight, I do not want you to be unaware of this mystery, brothers: a partial hardening has come upon Israel, until the fullness of the Gentiles has come in. \textsuperscript{26}And in this way all Israel will be saved, as it is written, "The Deliverer will come from Zion, he will banish ungodliness from Jacob";** \textsuperscript{27}"and this will be my covenant with them when I take away their sins." \textsuperscript{28}As regards the gospel, they are enemies for your sake. But as regards election, they are beloved for the sake of their forefathers. \textsuperscript{29}For the gifts and the calling of God are irrevocable. \textsuperscript{30}For just as you were at one time disobedient to God but now have received mercy because of their disobedience, \textsuperscript{31}so they too have now been disobedient in order that by the mercy shown to you they also may now receive mercy. \textsuperscript{32}For God has consigned all to disobedience, that he may have mercy on all.
-
-> **\textsuperscript{33}Oh, the depth of the riches and wisdom and knowledge of God! How unsearchable are his judgments and how inscrutable his ways! ^34-35^"For who has known the mind of the Lord, or who has been his counselor?" "Or who has given a gift to him that he might be repaid?" \textsuperscript{36}For from him and through him and to him are all things. To him be glory forever. Amen.**
+> **\textsuperscript{33}Oh, the depth of the riches both of the wisdom and knowledge of God! How unsearchable are His judgments and unfathomable His ways! \textsuperscript{34}For WHO HAS KNOWN THE MIND OF THE LORD, OR WHO BECAME HIS COUNSELOR? \textsuperscript{35}Or WHO HAS FIRST GIVEN TO HIM THAT IT MIGHT BE PAID BACK TO HIM AGAIN? \textsuperscript{36}For from Him and through Him and to Him are all things. To Him *be* the glory forever. Amen.**
 
 ---
 
@@ -4460,13 +3922,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書9-11章是一個不可拆散的論證單元。9章開頭，保羅說自己「大有憂愁，心裏時常傷痛」（9:2），因為他骨肉之親竟大多拒絕了彌賽亞；10章追問「以色列人為甚麼跌倒」——不是因為福音沒有傳到他們（10:18），而是因為他們「不服神的義，想要立自己的義」（10:3）。到了11章，保羅把整個問題收束成一句最尖銳的提問：「神棄絕了他的百姓嗎？」（11:1）這問題若答「是」，神向亞伯拉罕、以撒、雅各所起的誓就落空了，神的信實就成了問題——這正是9-11章要處理的，不只是猶太人的救恩問題，更是「神是否信實」的問題。11章的結尾——一段驚嘆神智慧深不可測的頌讚——正是這個問題唯一站得住腳的答案：神沒有失信，只是祂成就應許的方式，超過人所能測透。
 
-### 保羅自己就是答案的第一部分
+### 保羅自己與以利亞的先例
 
 保羅回答「神棄絕了他的百姓嗎」的第一步，不是引經據典，而是指著自己：「因為我也是以色列人，亞伯拉罕的後裔，屬便雅憫支派的」（11:1）。這不是自我介紹，而是活生生的反證——一個曾經逼迫教會、如今蒙召作外邦人使徒的法利賽人，本身就是神揀選之恩尚未離開以色列的證據。
 
-### 以利亞的先例
-
-保羅引用列王紀上19章：以利亞在何烈山向神哭訴「只剩下我一個人」，神的回答卻是「我為自己留下七千人，是未曾向巴力屈膝的」（王上19:14,18）。以利亞看不見的，神看得見——當人以為信仰的火快要熄滅，神手中其實仍握著一群祂親自保守的餘民。保羅用這段舊約敘事，為當下的處境定調：現今教會中猶太信徒的存在，本身就是「照著揀選的恩典」所留下的餘數（11:5）。
+保羅接著引用列王紀上19章：以利亞在何烈山向神哭訴「只剩下我一個人」，神的回答卻是「我為自己留下七千人，是未曾向巴力屈膝的」（王上19:14,18）。以利亞看不見的，神看得見——當人以為信仰的火快要熄滅，神手中其實仍握著一群祂親自保守的餘民。保羅用這段舊約敘事，為當下的處境定調：現今教會中猶太信徒的存在，本身就是「照著揀選的恩典」所留下的餘數（11:5）。
 
 ### 收信群體的處境
 
@@ -4477,35 +3937,31 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
-| λεῖμμα / ὑπόλειμμα | leimma / hypoleimma | 餘數／餘民 | 11:5用leimma；9:27引以賽亞書10:22用hypoleimma——與9章的「餘民」主題一脈相承 |
+|--------------------|--------------------------|-------------------|-------------------|
+| λεῖμμα / ὑπόλειμμα | leimma / hypoleimma | 餘數／餘民 | 11:5用 leimma；9:27引以賽亞書10:22用 hypoleimma——與9章的「餘民」主題一脈相承 |
 | πωρόω / πώρωσις | pōroō / pōrōsis | 使變硬、蒙翳、麻木 | 11:7「成了頑梗不化的」、11:25「有幾分是硬心的」原文都是此字根，本義是眼睛蒙上白翳、感覺遲鈍；9:18另用*sklērynō*描述神使法老的心剛硬——保羅在11章改用這個帶醫學意象的詞，暗示「硬心」也是一種需要被醫治的病 |
-| ἐγκεντρίζω | enkentrizō | 接枝 | 11:17,19,23,24 四次出現，是園藝專業術語（把枝子嫁接進活樹），保羅罕見地用農業意象承載神學論證 |
-| πλήρωμα | plērōma | 滿足的數目、豐盛 | 11:12「他們的豐滿（原文即plērōma）」與11:25「外邦人的數目添滿（plērōma）」用同一個字，兩處遙遙呼應，構成本章的核心對稱結構——以色列的plērōma與外邦人的plērōma彼此牽動 |
+| ἐγκεντρίζω | enkentrizō | 接枝 | 11:17,19,23,24 四次出現，是園藝專業術語（把枝子嫁接進活樹），保羅罕見地用農業意象承載整段論證 |
+| πλήρωμα | plērōma | 滿足的數目、豐盛 | 11:12「他們的豐滿（原文即 plērōma）」與11:25「外邦人的數目添滿（plērōma）」用同一個字，兩處遙遙呼應，構成本章的核心對稱結構——以色列的 plērōma與外邦人的 plērōma彼此牽動 |
 | ἀμεταμέλητα | ametamelēta | 不會撤回的、不致後悔的 | 11:29，雙重否定結構（a-否定 + metamelomai「後悔、收回」），是新約中極強烈的用詞，形容神的恩賜和選召 |
-| ἀνεξεραύνητα / ἀνεξιχνίαστοι | anexeraunēta / anexichniastoi | 測不透的／尋不著蹤跡的 | 11:33，兩個極罕見的複合詞，*anexeraunēta*全新約僅此一見，*anexichniastoi*亦見於弗3:8「測不透的豐富」，形容人類理性抵達不了的邊界 |
+| ἀνεξεραύνητα / ἀνεξιχνίαστοι | anexeraunēta / anexichniastoi | 測不透的／尋不著蹤跡的 | 11:33，兩個極罕見的複合詞；前者全新約僅此一見，後者亦見於弗3:8「測不透的豐富」，形容人類理性抵達不了的邊界 |
 
 ### *plērōma* 的雙重出現——本章的暗藏骨架
 
-11:12的「他們的豐滿」與11:25的「外邦人的數目添滿」，中文譯本因意譯而讓讀者看不出這是同一個希臘字。保羅其實是用這個詞把全章縫合成一個完整的邏輯：以色列的部分失落（此刻）帶來外邦人的豐盛，而外邦人的「滿數」進來之後，將迎來以色列的「全家」得救——一個接一個的plērōma，最終匯合成神救恩計劃完整的豐盛。
+11:12的「他們的豐滿」與11:25的「外邦人的數目添滿」，中文譯本因意譯而讓讀者看不出這是同一個希臘字。保羅其實是用這個詞把全章縫合成一個完整的邏輯：以色列的部分失落（此刻）帶來外邦人的豐盛，而外邦人的「滿數」進來之後，將迎來以色列的「全家」得救——一個接一個的 plērōma，最終匯合成神救恩計劃完整的豐盛。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 餘民出於恩典的揀選 (11:1-6)
+### 1. 餘民出於恩典，剛硬並非最終的命運 (11:1-16)
 
 以利亞的先例揭示一個貫穿全本聖經的原則：神從不讓祂的百姓完全斷絕，總留下「出於恩典的揀選」的餘數。保羅緊接著加上一句幾乎是公理式的宣告：「既是出於恩典，就不在乎行為；不然，恩典就不是恩典了」（11:6）——恩典與行為在「稱義的根基」這件事上是互斥的，一旦摻入一絲人的功勞，恩典的性質就變了。這句話不只回答以色列的問題，也是整卷羅馬書因信稱義教義（3:21-5:21）在9-11章的重申。
 
-### 2. 揀選與剛硬並存的張力 (11:7-10)
-
-保羅毫不迴避地陳述：以色列全體所尋求的，並非全體都得著——蒙揀選的得著了，其餘的成了「頑梗不化的」，這是神學史上最難處理的張力之一：神的主權揀選與人的責任如何並存。保羅引用申命記29:4、以賽亞書29:10與詩篇69:22-23，說明這剛硬本身也在聖經的預言範圍之內，不是計劃外的意外。
-
-### 3. 失腳不是跌倒：以色列的失敗有策略性的意義 (11:11-16)
+保羅毫不迴避地陳述：以色列全體所尋求的，並非全體都得著——蒙揀選的得著了，其餘的成了「頑梗不化的」，這是教會史上最難處理的張力之一：神的主權揀選與人的責任如何並存。保羅引用申命記29:4、以賽亞書29:10與詩篇69:22-23，說明這剛硬本身也在聖經的預言範圍之內，不是計劃外的意外。
 
 「他們失腳是要他們跌倒嗎？斷乎不是。」——保羅在此劃出一條關鍵界線：跌倒（*piptō*）是終局性的毀滅，失腳（*ptaiō*）是暫時的踉蹌。以色列的過犯反而成了外邦人蒙恩的管道，這既呼應了保羅自己在10:19引用申命記32:21「我要用那不成子民的惹動你們的憤恨」的邏輯，也說明了保羅為何如此看重自己「外邦人使徒」的職分（11:13-14）——他傳福音給外邦人，本身帶著要激起猶太同胞嫉妒、進而使他們回轉的牧養策略。
 
-### 4. 橄欖樹的寓意——警告與盼望的一體兩面 (11:17-24)
+### 2. 橄欖樹的寓意——警告與盼望的一體兩面 (11:17-24)
 
 這是全章的核心圖像，值得逐節細讀：
 - **根是聖潔的**（11:16）：橄欖樹的根不是猶太民族血統本身，而是神向列祖所立、在基督裏成就的應許之根。
@@ -4515,29 +3971,25 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **神的恩慈與嚴厲**（11:22）：這節經文是全章倫理應用的樞紐——神對跌倒的人是嚴厲的，對持守在恩慈中的人是恩慈的，但「長久在他的恩慈裏」是條件句，不是自動保證。
 - **盼望**：「他們若不是長久不信，仍要被接上，因為神能夠把他們重新接上」（11:23）——這是全段最溫柔的一句，被折下的枝子，並非注定永遠折斷。
 
-### 5. 奧祕：外邦人的數目添滿，以色列全家要得救 (11:25-27)
+### 3. 奧祕與憐憫：外邦人的數目添滿，以色列全家要得救 (11:25-32)
 
 這是全卷書信中最受矚目、也最具爭議的一節。保羅用「奧祕」（*mystērion*）這個詞——不是指難解的謎語，而是指過去隱藏、如今才藉啟示顯明的神計劃。「以色列全家都要得救」（πᾶς Ἰσραὴλ σωθήσεται）在教會歷史上至少有以下幾種嚴肅、各有支持者的解讀，本書如實並陳，不強行判定唯一答案：
 
 | 觀點 | 主張 | 代表性立場 |
-|------|------|-----------|
+|---------------------|---------------------|--------------------------------------|
 | (a) 未來大規模民族性歸信 | 在歷史終末、基督再來前後，會有相當規模的猶太民族整體轉向基督 | 多數時代論者、部分改革宗學者（如約翰·慕理 John Murray）持此看法 |
 | (b) 屬靈以色列／歷世歷代蒙揀選的餘民總和 | 「以色列全家」指歷史上所有蒙揀選之以色列人的總和，即真以色列（屬靈意義），未必指向單一未來事件 | 部分改革宗與奧古斯丁式解經傳統的延伸讀法 |
 | (c) 其他變化讀法 | 例如「以色列」在此仍指族裔身份，但「得救」的實現分散在歷史各階段，藉福音持續進行，而非單一末世事件 | 當代學界仍有持續討論 |
 
 保羅自己用「奧祕」這個詞框住這段話，本身就是一個誠實的提醒：這不是一個可以完全解開、系統化排列的公式，而是一個要人在敬畏中領受、卻不必然要求每個細節都被理性掌握的計劃。二十世紀後半葉，尤其在大屠殺之後，基督教神學界對這一章展開了遠比以往更深、更謹慎的重新反思——這是一段真實存在、可查證的當代神學發展，本書在此只作誠實的一般性註記，不代表對其中任何具體立場的背書。
 
-### 6. 神的恩賜和選召是沒有後悔的 (11:28-29)
-
-無論猶太人此刻在福音上是「仇敵」，或是為列祖的緣故仍「蒙愛」，有一件事是確定的：「神的恩賜和選召是沒有後悔的」（*ametamelēta*）。這節經文的神學意義遠超以色列的處境——它同時是每一個因信稱義之人得蒙保守的根基：神一旦揀選、呼召，就不會反悔。
-
-### 7. 圈在不順服之中，特意要憐恤眾人 (11:30-32)
+無論猶太人此刻在福音上是「仇敵」，或是為列祖的緣故仍「蒙愛」，有一件事是確定的：「神的恩賜和選召是沒有後悔的」（*ametamelēta*）。這節經文的屬靈意義遠超以色列的處境——它同時是每一個因信稱義之人得蒙保守的根基：神一旦揀選、呼召，就不會反悔。
 
 11章的邏輯在此收束成一句令人屏息的話：「神將眾人都圈在不順服之中，特意要憐恤眾人」。外邦人從前不順服，如今因以色列的不順服而蒙憐憫；以色列現今不順服，將來也要因外邦人所蒙的憐憫而蒙憐憫。這不是說神以罪為工具，而是說：無論猶太人或外邦人，得救的唯一根基都是「憐憫」，沒有一個群體可以憑血統、律法或任何屬人的資本站在神面前誇口。這正是羅馬書1-3章「普世有罪」與3-5章「因信稱義」兩大論證，在9-11章以色列問題上的最終收合。
 
-### 8. 深哉！——頌讚是神學論證唯一恰當的終點 (11:33-36)
+### 4. 深哉！——頌讚是論證唯一恰當的終點 (11:33-36)
 
-保羅用三個希伯來平行句式的驚嘆句收束整卷書信前十一章最沉重的神學論證：神豐富的智慧和知識何其深；祂的判斷何其難測；祂的蹤跡何其難尋。緊接著引用以賽亞書40:13與約伯記41:11——「誰知道主的心，誰做過他的謀士呢？誰是先給了他，使他後來償還呢？」——這兩處舊約經文原本都在描述神超越人類理性掌控的絕對主權，保羅把它們接到一起，作為對整個「因信稱義、以色列的命運」這場漫長論證的最終回應。最後一句「因為萬有都是本於他，倚靠他，歸於他。願榮耀歸給他，直到永遠」，把一切都收回到神自己——這不是論證的結束語，而是敬拜的起始句。
+保羅用三個希伯來平行句式的驚嘆句收束整卷書信前十一章最沉重的論證：神豐富的智慧和知識何其深；祂的判斷何其難測；祂的蹤跡何其難尋。緊接著引用以賽亞書40:13與約伯記41:11——「誰知道主的心，誰作過他的謀士呢？誰是先給了他，使他後來償還呢？」——這兩處舊約經文原本都在描述神超越人類理性掌控的絕對主權，保羅把它們接到一起，作為對整個「因信稱義、以色列的命運」這場漫長論證的最終回應。最後一句「因為萬有都是本於他，倚靠他，歸於他。願榮耀歸給他，直到永遠」，把一切都收回到神自己——這不是論證的結束語，而是敬拜的起始句。
 
 ---
 
@@ -4556,92 +4008,61 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **與加爾文立場不同的改革宗聲音**：二十世紀改革宗學者約翰·慕理（John Murray）在其羅馬書註釋中則主張11:26確實指向猶太民族未來一次大規模的歸信，與加爾文的讀法形成改革宗傳統內部真實存在的分歧——本書如實並陳，讀者可自行進一步查考兩人原著比較。
 
-### 當代釋經
-
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫持守未來論／時代論的解經立場，主張「以色列全家得救」指向歷史終末、基督再來前後，將會有大規模猶太民族性的歸信——這是他在羅馬書相關教導與著作中公開、可查證的一貫立場，本書在此僅作一般性歸納轉述，非逐字引句。
-
----
-
-## 詩篇回應 (Psalm Response)
-
-### 詩篇 145:3, 8-9, 13, 21
-
-> 耶和華本為大，該受大讚美，**其大無法測度**。
-> 耶和華有恩惠，有憐憫，不輕易發怒，大有慈愛。
-> **耶和華善待萬有**，他的憐憫覆庇他一切所造的。
-> 你的國是永遠的國！你執掌的權柄存到萬代！
-> 我的口要述說讚美耶和華的話；惟願有血肉之軀的都永永遠遠稱頌他的聖名。
-
-> Great is the Lord, and greatly to be praised, and **his greatness is unsearchable**.
-> The Lord is gracious and merciful, slow to anger and abounding in steadfast love.
-> **The Lord is good to all**, and his mercy is over all that he has made.
-> Your kingdom is an everlasting kingdom, and your dominion endures throughout all generations.
-> My mouth will speak the praise of the Lord, and let all flesh bless his holy name forever and ever.
-
-詩篇145篇早於羅馬書一千年，卻已預先唱出11:32-33的兩個核心真理：神的「善待萬有」（good to all）呼應「憐恤眾人」，神「其大無法測度」（greatness unsearchable）直接呼應「他的判斷何其難測」。保羅寫下的不是一段新發現的神學命題，而是把大衛早已敬拜的那位神，重新對準了猶太人與外邦人共同蒙恩的處境。
-
----
-
-## 聖詩默想 (Hymn Meditation)
-
-### Praise God, from Whom All Blessings Flow
-
-這四行詩節出自英國聖公會主教多馬·肯恩（Thomas Ken, 1637-1711）於1674年為溫徹斯特公學（Winchester College）學生所寫的〈晨禱詩〉與〈晚禱詩〉結尾段落，後來獨立成為基督教歷史上傳唱最廣的頌榮詩節之一，普遍配以〈老一百調〉（Old 100th，源自1551年日內瓦詩篇集、路易·布爾茹瓦（Louis Bourgeois）所譜的曲調；威廉·凱瑟（William Kethe）曾為此曲調配上詩篇100篇的英文韻文歌詞）傳唱至今。
-
-**歌詞與11:36的結構呼應**：
-
-肯恩這四行詩，結構上正好與保羅11:36的三個介詞——「本於他（源頭）、倚靠他（憑藉）、歸於他（終點）」——彼此唱和：萬福從神而出（本於他），萬物、萬人、萬使都當回轉向祂讚美（歸於他），而這頌讚本身，正是「倚靠他」而發出的——若不是祂先賜下恩典，被造之物哪來讚美的能力與資格？保羅用一句嚴謹的神學命題總結十一章艱深的論證，肯恩用四行短詩把同一個真理，變成了每一個普通信徒口中都能唱出的敬拜。
-
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
+### 摩根 (G. Campbell Morgan)
 
 **九至十一章是一個完整的「插入語」，卻是全信不可缺的骨架**：摩根一貫的解經方法，習慣先找出一卷書的「主句」與整體結構脈絡，再逐段填入細節。以這個方法檢視羅馬書，9-11章常被讀者當作插在「稱義」（1-8章）與「生活」（12-16章）之間的離題段落，但按摩根一貫強調「結構就是啟示」的原則，這三章其實是保羅論證不可省略的一環：如果神在以色列身上失信，8章「誰能使我們與基督的愛隔絕」的確據就站不住腳——9-11章不是題外話，而是8章應許的必要保證。
 
 **橄欖樹的圖像是全信「因信站立、非因行為誇口」主題在民族層面的重演**：摩根一貫強調羅馬書的核心張力是「因行為誇口」與「因信站立」的對比（3:27「既是這樣，哪裏可誇口呢？沒有可誇的了」）。11:17-24對外邦人誇口的警告，正是把2-3章對猶太人「誇口律法」的警告，原樣套用在外邦信徒身上——沒有一個群體、一種身份，可以憑藉本身的地位在神面前站立，唯獨信心。
 
-**頌讚是論證的必然終點，不是論證之外的裝飾**：摩根一貫強調，保羅式的神學從不停在邏輯本身，而是以敬拜收束——羅馬書前十一章是全新約最縝密的神學論證之一，卻以「深哉」這聲驚嘆收尾，這本身就是一個解經提醒：真正明白神的道理，終點不是「我懂了」，而是「我敬拜」。
+**頌讚是論證的必然終點，不是論證之外的裝飾**：摩根一貫強調，保羅講道理從不停在邏輯本身，而是以敬拜收束——羅馬書前十一章是全新約最縝密的論證之一，卻以「深哉」這聲驚嘆收尾，這本身就是一個解經提醒：真正明白神的道理，終點不是「我懂了」，而是「我敬拜」。
 
-> 出處：此為對G. Campbell Morgan一貫解經風格與其已知羅馬書釋經重點（結構分析法、「因信站立」主題、論證與敬拜的關係）之一般性、綜合性歸納，未能定位可逐字核對之特定講章或篇章，非逐字引句。
+> 出處：此為對 G. Campbell Morgan一貫解經風格與其已知羅馬書釋經重點（結構分析法、「因信站立」主題、論證與敬拜的關係）之一般性、綜合性歸納，未能定位可逐字核對之特定講章或篇章，非逐字引句。
 
-### 老弟兄查經洞見 (The Elder's Insights)
+### 麥克阿瑟 (John MacArthur)
 
-老弟兄查考聖經一貫的信念是：整本聖經的主角只有一位，讀經若不能回到「你看見耶穌了嗎？」這個問題，這段經文就還沒有真正被領受。用這個框架讀羅馬書11章，會發現一些容易被神學辯論淹沒的線索。
-
-**「奧祕」不是留給人破解的謎題，而是邀請人敬拜的邊界**：老弟兄一貫強調，聖經裏的「奧祕」（mystērion）從來不是要人窮盡理性去拆解的密碼，而是神主動掀開一角、卻仍保留完整主權的計劃。保羅在11:25用「奧祕」這個詞，緊接著卻在11:33-36用「深哉」這聲驚嘆收尾，而不是用更多論證——這正符合老弟兄常說的「字句叫人死，精義叫人活」：字句上窮盡每一個細節，不等於屬靈上真正明白；真正明白一段奧祕，最終的記號不是「我能解釋了」，而是「我俯伏敬拜了」。
-
-**橄欖樹是舊約應許在基督裏成就的具體圖畫**：老弟兄一貫的方法是「找到舊約的根，新約的話才會活」。11章的橄欖樹圖像，根就是創世記12章神向亞伯拉罕所立、要「地上的萬族都因你得福」的應許——這棵樹的根從一開始就預備要接上外邦的枝子，不是後來才加的補丁。
-
-**憐憫是全書真正的收束，不是恩典教義的附註**：老弟兄查經常提醒，讀神學命題容易忘記命題背後那位發出憐憫的主。11:32「神將眾人都圈在不順服之中，特意要憐恤眾人」——這句話若只當作一個邏輯命題來分析，就錯過了它真正要人做的事：俯伏承認自己也曾在「圈」裏，然後轉身敬拜那位主動臨到的憐憫。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫持守未來論／時代論的解經立場，主張「以色列全家得救」指向歷史終末、基督再來前後，將會有大規模猶太民族性的歸信——這是他在羅馬書相關教導與著作中公開、可查證的一貫立場，本書在此僅作一般性歸納轉述，非逐字引句。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Praise God, from Whom All Blessings Flow*（三一頌，如前「配詩」所引）
+### 詩篇 145:3, 8-9, 13, 21
 
-> Praise God, from whom all blessings flow;
-> Praise Him, all creatures here below;
-> Praise Him above, ye heavenly host;
-> Praise Father, Son, and Holy Ghost. Amen.
+> 耶和華本為大，該受大讚美，**其大無法測度**。 \
+> 耶和華有恩惠，有憐憫，不輕易發怒，大有慈愛。 \
+> **耶和華善待萬有**，他的憐憫覆庇他一切所造的。 \
+> 你的國是永遠的國！你執掌的權柄存到萬代！ \
+> 我的口要述說讚美耶和華的話；惟願有血肉之軀的都永永遠遠稱頌他的聖名。
 
-**詩篇**：詩篇 145:3
+> Great is the LORD, and highly to be praised, And **His greatness is unsearchable**. \
+> The LORD is gracious and merciful; Slow to anger and great in lovingkindness. \
+> **The LORD is good to all**, And His mercies are over all His works. \
+> Your kingdom is an everlasting kingdom, And Your dominion *endures* throughout all generations. \
+> My mouth will speak the praise of the LORD, And all flesh will bless His holy name forever and ever.
 
-> 耶和華本為大，該受大讚美，其大無法測度。
+詩篇145篇早於羅馬書一千年，卻已預先唱出11:32-33的兩個核心真理：神的「善待萬有」（good to all）呼應「憐恤眾人」，神「其大無法測度」（greatness unsearchable）直接呼應「他的判斷何其難測」。保羅寫下的不是一段新發現的道理，而是把大衛早已敬拜的那位神，重新對準了猶太人與外邦人共同蒙恩的處境。
+
+### Praise God, from Whom All Blessings Flow
+
+這四行詩節出自英國聖公會主教多馬·肯恩（Thomas Ken, 1637-1711）於1674年為溫徹斯特公學（Winchester College）學生所寫的〈晨禱詩〉與〈晚禱詩〉結尾段落，後來獨立成為基督教歷史上傳唱最廣的頌榮詩節之一（華人教會習稱「三一頌」），普遍配以〈老一百調〉（Old 100th，源自1551年日內瓦詩篇集、路易·布爾茹瓦（Louis Bourgeois）所譜的曲調；威廉·凱瑟（William Kethe）曾為此曲調配上詩篇100篇的英文韻文歌詞）傳唱至今。
+
+**歌詞與11:36的結構呼應**：
+
+肯恩這四行詩，結構上正好與保羅11:36的三個介詞——「本於他（源頭）、倚靠他（憑藉）、歸於他（終點）」——彼此唱和：萬福從神而出（本於他），萬物、萬人、萬使都當回轉向祂讚美（歸於他），而這頌讚本身，正是「倚靠他」而發出的——若不是祂先賜下恩典，被造之物哪來讚美的能力與資格？保羅用一句嚴謹的話總結十一章艱深的論證，肯恩用四行短詩把同一個真理，變成了每一個普通信徒口中都能唱出的敬拜。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+
+**精義一句話**：神沒有棄絕祂的百姓，祂的憐憫臨到猶太人，也臨到外邦人——這奧祕測不透，卻唯獨叫人俯伏敬拜。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一個應許，兩群蒙恩的人。神對亞伯拉罕的呼召，起頭就不是只為一個民族：「我必賜福給你……地上的萬族都必因你得福」（創12:1-3）。這應許的張力在整本舊約裏一直存在——以色列蒙揀選，卻始終是「為了萬族」而蒙揀選，不是「代替萬族」而蒙揀選。羅馬書11章的橄欖樹，正是這條線走到新約的具體圖畫：猶太的根與外邦的枝子，本來就注定要長在同一棵樹上。
+**萬族蒙福線**：神對亞伯拉罕的呼召，起頭就不是只為一個民族：「我必賜福給你……地上的萬族都必因你得福」（創12:1-3）。這應許的張力在整本舊約裏一直存在——以色列蒙揀選，卻始終是「為了萬族」而蒙揀選，不是「代替萬族」而蒙揀選。羅馬書11章的橄欖樹，正是這條線走到新約的具體圖畫：猶太的根與外邦的枝子，本來就注定要長在同一棵樹上。
 
-這條線繼續往前走，走到啟示錄7:9——「有許多人，沒有人能計算，是從各邦國、各支派、各民族、各語言來的，站在寶座和羔羊面前」。從創世記12章的一個應許，到啟示錄7章一幅說不盡的圖畫，中間橫跨的正是羅馬書11章這場關於「猶太人與外邦人如何一同蒙恩」的艱難論證。11:36的頌讚——「因為萬有都是本於他，倚靠他，歸於他」——正是這整條救恩歷史線的收束句。
+**萬國敬拜線**：這條線繼續往前走，走到啟示錄7:9——「有許多人，沒有人能計算，是從各邦國、各支派、各民族、各語言來的，站在寶座和羔羊面前」。從創世記12章的一個應許，到啟示錄7章一幅說不盡的圖畫，中間橫跨的正是羅馬書11章這場關於「猶太人與外邦人如何一同蒙恩」的艱難論證。11:36的頌讚——「因為萬有都是本於他，倚靠他，歸於他」——正是這整條救恩歷史線的收束句。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -4650,7 +4071,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - 先問：「保羅一開頭就問『神棄絕了他的百姓嗎』——你覺得，這個問題保羅自己心裏有沒有答案？他為甚麼還要問？」
 - 再問：「以利亞覺得『只剩下我一個人』，神卻說『我為自己留下七千人』——你在信仰的低潮裏，是不是也常常高估了自己的孤單，低估了神所保守的？」
 - 追問：「橄欖樹上，野枝子被接上，原本的枝子卻被折下——你讀到這裏，心裏是驕傲，還是戰兢？保羅要你有哪一種反應？」
-- 落到核心：「神的憐憫臨到外邦人和以色列人的模式，你怎樣經歷這位『滿有智慧、滿有恩慈』的神？」
+- 落到自己：「神憐憫外邦人，也沒有放棄以色列——你自己是怎樣經歷這位滿有智慧、滿有恩慈的神的？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
@@ -4662,17 +4083,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天我是想把神的作為都解釋清楚，還是願意在祂面前俯伏，說「深哉」？
 - **一個行動**：今天為一位還未信主的親友具體禱告，把「激起嫉妒、領人歸主」的心志，落實成一次具體的關心或邀約。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：神沒有棄絕祂的百姓，祂的憐憫臨到猶太人，也臨到外邦人——這奧祕測不透，卻唯獨叫人俯伏敬拜。
-
-**貫通全經**：神向亞伯拉罕起的誓——「地上的萬族都必因你得福」（創12:1-3）——在橄欖樹上猶太根與外邦枝同享肥汁的圖畫裏成就，最終要在啟示錄「從各邦國、各支派、各民族來的」大群人身上完全實現（啟7:9）。
-
-**無法迴避的問題**：「你讀完這卷書最艱深的神學論證，心裏的反應是想再多懂一點，還是想俯伏敬拜？」
-
 > 「字句叫人死，精義叫人活。真正明白一段奧祕，最終的記號不是『我能解釋了』，而是『我俯伏敬拜了』。」
+
+**你看見耶穌了嗎**：橄欖樹的根是聖潔的，不是因為亞伯拉罕的血統本身聖潔，而是神向他所立、在基督裏成就的應許（加3:16）；猶太人與外邦人能同享一棵樹的肥汁，是因為基督已藉十字架拆毀了中間隔斷的牆（弗2:14）；那位「從錫安出來的救主」（11:26），正是11:36「萬有本於他、倚靠他、歸於他」那句頌讚所指的「他」。你看見祂了嗎？
 
 ---
 
@@ -4685,8 +4098,6 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 2. **橄欖樹的警告**：作為外邦背景的信徒，我是否曾在心裏（哪怕沒說出口）輕看過猶太根源，或輕看過任何一群「先我而信」卻如今軟弱跌倒的弟兄姊妹？
 
 3. **激起嫉妒、領人歸主**：保羅甘願用自己的整個外邦人事工去激起同胞的嫉妒，好救他們一些人——我的生活方式，是否也在向身邊未信的人，見證一種他們渴慕卻沒有的生命？
-
-4. **在測不透之處敬拜**：有哪一件我信仰生命中至今仍不明白、無法解釋的事，我願意效法保羅，把它交還給神，用「深哉」代替「為甚麼」？
 
 ### 禱告回應
 
@@ -4702,21 +4113,20 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅為甚麼要用自己的身份（「我也是以色列人」）作為「神沒有棄絕祂百姓」的第一個證據？這對我們今天回答信仰上的難題有甚麼提醒？
-
-2. 以利亞以為「只剩下我一個人」，神卻說「我為自己留下七千人」——這對今天感到孤單、覺得信仰群體正在縮小的信徒，有甚麼安慰與提醒？
-
-3. 橄欖樹的比喻裏，「不是你托著根，乃是根托著你」這句話，具體挑戰了哪些屬靈的驕傲？請舉出生活中的實例。
-
-4. 「以色列全家都要得救」（11:26）在教會歷史上有幾種不同的理解？你認為誠實面對這種解經上的分歧，對讀經的態度有甚麼幫助？
-
-5. 11:33-36的頌讚，為甚麼是回應前面十一章艱深神學論證「唯一恰當」的方式？當你自己想不通某個信仰上的難題時，你的第一反應通常是繼續辯論，還是像保羅一樣轉向敬拜？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 以利亞的先例：餘民出於恩典 | 11:2-5 | 王上19:14, 18 |
+| 剛硬也在預言範圍之內 | 11:8-10 | 申29:4、賽29:10、詩69:22-23 |
+| 以色列的失腳與外邦人的蒙恩 | 11:11, 19 | 羅10:19、申32:21 |
+| 應許的根：亞伯拉罕之約在基督裏成就 | 11:16-18 | 創12:1-3、加3:16、弗2:14 |
+| 深哉的智慧：舊約的根據 | 11:34-35 | 賽40:13、伯41:11 |
+| 萬國敬拜的終局 | 11:36 | 啟7:9 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -4726,7 +4136,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 > 前十一章幾乎沒有一句命令句；12:1 的「所以」之後，命令排山倒海——恩典在先，順服在後。
 
 | | |
-|---|---|
+|----------------------|-----------------------------------------------------------------|
 | **救恩的環節** | **生活**——因信稱義的人如何而活 |
 | **鑰節** | 12:1「將身體獻上，當作活祭，是聖潔的，是神所喜悅的」 |
 | **貫穿的問題** | 恩典要求甚麼回應？ |
@@ -4738,47 +4148,51 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 12:1-21
 
----
+**經文核對**：[ai-eden.com/bible/romans/12](https://www.ai-eden.com/bible/romans/12?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-羅馬書十二章沒有一次直接說出耶穌的名字，但整章都是祂的形狀。「神的慈悲」（原文複數 *oiktirmōn*）正是前十一章所展開的一切：神在基督裏稱罪人為義（3-5章）、使人在基督裏向罪死、向神活（6章）、藉聖靈使人脫離定罪的轄制（8章）、又信實地保守對以色列的應許（9-11章）——這一切慈悲，都繫於一個名字：釘十字架又復活的耶穌基督。從祂的角度讀，「活祭」首先不是保羅給信徒新增的功課，而是耶穌自己已經走過的路——祂一次獻上自己為祭，成就了律法所有祭牲一生一世都做不到的事（來十10-14；羅六10「他死是向罪死了，只有一次；他活，是向神活著」）。信徒能夠獻上「活」祭，正是因為那位真正的祭物已經死而復活，不再死了。十二章9-21節那一串「不可虛假的愛」「逼迫你們的要祝福」「以善勝惡」，不是保羅發明的新道德律，而是登山寶訓裏耶穌自己教訓、又親自活到十字架上的生命——「他被罵不還口，受害不說威嚇的話」（彼前二23）。這一章追問的其實只有一件事：你所獻上的身體上，看得見耶穌的形狀嗎？
+> **本章鑰詞：活祭 Thysian Zōsan** \
+> **全書坐標**：12:1「所以」是全書五卷（定罪／稱義／成聖／揀選／活祭）的樞紐——前十一章是「定罪」「稱義」「成聖」「揀選」四卷的教義陳述，12:1-15:13「活祭」卷從這裏正式開始：蒙恩之人當如何生活。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
+
+羅馬書十二章沒有一次直接說出耶穌的名字，但整章都是祂的形狀。「神的慈悲」（原文複數 *oiktirmōn*）正是前十一章所展開的一切：神在基督裏稱罪人為義（3-5章）、使人在基督裏向罪死、向神活（6章）、藉聖靈使人脫離定罪的轄制（8章）、又信實地保守對以色列的應許（9-11章）——這一切慈悲，都繫於一個名字：釘十字架又復活的耶穌基督。從祂的角度讀，「活祭」首先不是保羅給信徒新增的功課，而是耶穌自己已經走過的路——祂一次獻上自己為祭，成就了律法所有祭牲一生一世都做不到的事（來10:10-14；羅6:10「他死是向罪死了，只有一次；他活，是向神活著」）。信徒能夠獻上「活」祭，正是因為那位真正的祭物已經死而復活，不再死了。十二章9-21節那一串「不可虛假的愛」「逼迫你們的要祝福」「以善勝惡」，不是保羅發明的新道德律，而是登山寶訓裏耶穌自己教訓、又親自活到十字架上的生命——「他被罵不還口，受害不說威嚇的話」（彼前2:23）。這一章追問的其實只有一件事：你所獻上的身體上，看得見耶穌的形狀嗎？
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Take My Life, and Let It Be**
+> **Take My Life, and Let It Be** \
 > *Frances Ridley Havergal, 1874*
 >
-> Take my life, and let it be
-> Consecrated, Lord, to Thee;
-> Take my moments and my days,
+> Take my life, and let it be \
+> Consecrated, Lord, to Thee; \
+> Take my moments and my days, \
 > Let them flow in ceaseless praise.
 >
-> Take my hands, and let them move
-> At the impulse of Thy love;
-> Take my feet and let them be
+> Take my hands, and let them move \
+> At the impulse of Thy love; \
+> Take my feet and let them be \
 > Swift and beautiful for Thee.
 >
-> Take my voice, and let me sing
-> Always, only, for my King;
-> Take my lips, and let them be
+> Take my voice, and let me sing \
+> Always, only, for my King; \
+> Take my lips, and let them be \
 > Filled with messages from Thee.
 >
-> Take my silver and my gold;
-> Not a mite would I withhold;
-> Take my intellect, and use
+> Take my silver and my gold; \
+> Not a mite would I withhold; \
+> Take my intellect, and use \
 > Every power as Thou shalt choose.
 >
-> Take my will, and make it Thine;
-> It shall be no longer mine;
-> Take my heart, it is Thine own;
+> Take my will, and make it Thine; \
+> It shall be no longer mine; \
+> Take my heart, it is Thine own; \
 > It shall be Thy royal throne.
 >
-> Take my love; my Lord, I pour
-> At Thy feet its treasure store;
-> Take myself, and I will be
+> Take my love; my Lord, I pour \
+> At Thy feet its treasure store; \
+> Take myself, and I will be \
 > Ever, only, all for Thee.
 >
 > **中文大意**：取我一生，分別為聖，歸屬於祢；取我雙手雙腳，隨祢的愛差遣、為祢奔跑；取我口舌，只為祢的王權歌唱；取我銀錢才智，毫無保留地任祢使用；取我意志，不再屬我；取我心，作祢的寶座；取我全人所有的愛，都澆奠在祢腳前。這首詩歌逐節正是羅馬書十二章1-2節「將身體獻上，當作活祭」的生活展開——身體、雙手、雙腳、口舌、財物、才智、意志、心，一項一項獻上，正呼應12:4-8「肢體」與「恩賜」的清單。Havergal 本人記述，這首詩是在1874年2月4日夜裏，一句一句自己湧上心頭，直到以「永永遠遠、只、全為祢！」收束。
@@ -4789,7 +4203,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 中文 — 和合本 (CUV)
 
-> ＊版本說明：寫作查證時透過線上聖經資源反覆嘗試取得穩定、可信的「和合本修訂版」(RCUV) 逐節文字，未能穩定取得；為避免經文有誤，改用已多次核實、逐節查證之和合本 (CUV) 經文，並在此如實標明版本，讀者可另行以 RCUV 或其他譯本逐節核對。
+> **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}所以弟兄們，我以神的慈悲勸你們，**將身體獻上，當作活祭，是聖潔的，是神所喜悅的；你們如此事奉乃是理所當然的。**\textsuperscript{2}**不要效法這個世界，只要心意更新而變化，叫你們察驗何為神的善良、純全、可喜悅的旨意。**
 
@@ -4803,19 +4217,19 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > \textsuperscript{19}親愛的弟兄，不要自己伸冤，寧可讓步，聽憑主怒；因為經上記著：主說：伸冤在我；我必報應。\textsuperscript{20}所以，你的仇敵若餓了，就給他吃，若渴了，就給他喝；因為你這樣行就是把炭火堆在他的頭上。\textsuperscript{21}你不可為惡所勝，反要以善勝惡。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}**I appeal to you therefore, brothers, by the mercies of God, to present your bodies as a living sacrifice, holy and acceptable to God, which is your spiritual worship.** \textsuperscript{2}**Do not be conformed to this world, but be transformed by the renewal of your mind, that by testing you may discern what is the will of God, what is good and acceptable and perfect.**
+> \textsuperscript{1}**Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, *which is* your spiritual service of worship.** \textsuperscript{2}**And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.**
 
-> \textsuperscript{3}For by the grace given to me I say to everyone among you not to think of himself more highly than he ought to think, but to think with sober judgment, each according to the measure of faith that God has assigned. \textsuperscript{4}For as in one body we have many members, and the members do not all have the same function, \textsuperscript{5}so we, though many, are one body in Christ, and individually members one of another.
+> \textsuperscript{3}For through the grace given to me I say to everyone among you not to think more highly of himself than he ought to think; but to think so as to have sound judgment, as God has allotted to each a measure of faith. \textsuperscript{4}For just as we have many members in one body and all the members do not have the same function, \textsuperscript{5}so we, who are many, are one body in Christ, and individually members one of another.
 
-> \textsuperscript{6}Having gifts that differ according to the grace given to us, let us use them: if prophecy, in proportion to our faith; \textsuperscript{7}if service, in our serving; the one who teaches, in his teaching; \textsuperscript{8}the one who exhorts, in his exhortation; the one who contributes, in generosity; the one who leads, with zeal; the one who does acts of mercy, with cheerfulness.
+> \textsuperscript{6}Since we have gifts that differ according to the grace given to us, *each of us is to exercise them accordingly:* if prophecy, according to the proportion of his faith; \textsuperscript{7}if service, in his serving; or he who teaches, in his teaching; \textsuperscript{8}or he who exhorts, in his exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.
 
-> \textsuperscript{9}Let love be genuine. Abhor what is evil; hold fast to what is good. \textsuperscript{10}Love one another with brotherly affection. Outdo one another in showing honor. \textsuperscript{11}Do not be slothful in zeal, be fervent in spirit, serve the Lord. \textsuperscript{12}Rejoice in hope, be patient in tribulation, be constant in prayer. \textsuperscript{13}Contribute to the needs of the saints and seek to show hospitality.
+> \textsuperscript{9}*Let* love *be* without hypocrisy. Abhor what is evil; cling to what is good. \textsuperscript{10}*Be* devoted to one another in brotherly love; give preference to one another in honor; \textsuperscript{11}not lagging behind in diligence, fervent in spirit, serving the Lord; \textsuperscript{12}rejoicing in hope, persevering in tribulation, devoted to prayer, \textsuperscript{13}contributing to the needs of the saints, practicing hospitality.
 
-> \textsuperscript{14}Bless those who persecute you; bless and do not curse them. \textsuperscript{15}Rejoice with those who rejoice, weep with those who weep. \textsuperscript{16}Live in harmony with one another. Do not be haughty, but associate with the lowly. Never be wise in your own sight. \textsuperscript{17}Repay no one evil for evil, but give thought to do what is honorable in the sight of all. \textsuperscript{18}If possible, so far as it depends on you, live peaceably with all.
+> \textsuperscript{14}Bless those who persecute you; bless and do not curse. \textsuperscript{15}Rejoice with those who rejoice, and weep with those who weep. \textsuperscript{16}Be of the same mind toward one another; do not be haughty in mind, but associate with the lowly. Do not be wise in your own estimation. \textsuperscript{17}Never pay back evil for evil to anyone. Respect what is right in the sight of all men. \textsuperscript{18}If possible, so far as it depends on you, be at peace with all men.
 
-> \textsuperscript{19}Beloved, never avenge yourselves, but leave it to the wrath of God, for it is written, "Vengeance is mine, I will repay, says the Lord." \textsuperscript{20}"If your enemy is hungry, feed him; if he is thirsty, give him something to drink; for by so doing you will heap burning coals on his head." \textsuperscript{21}Do not be overcome by evil, but overcome evil with good.
+> \textsuperscript{19}Never take your own revenge, beloved, but leave room for the wrath *of God,* for it is written, "VENGEANCE IS MINE, I WILL REPAY," says the Lord. \textsuperscript{20}"BUT IF YOUR ENEMY IS HUNGRY, FEED HIM, AND IF HE IS THIRSTY, GIVE HIM A DRINK; FOR IN SO DOING YOU WILL HEAP BURNING COALS ON HIS HEAD." \textsuperscript{21}Do not be overcome by evil, but overcome evil with good.
 
 ---
 
@@ -4823,7 +4237,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 「所以」——十一章教義向著十二章生活的轉折
 
-羅馬書前十一章雖偶有命令句（如六11-13、十一18、20），主軸卻是**神做了甚麼**的陳述：從1:18普世有罪的定罪，到3:21-26因信稱義的宣告，到6-8章與基督同死同活的新生命，到9-11章神對以色列信實的揀選。十二章1節的「所以」（*oun*）是全信的樞紐：從這裏開始，保羅發出首個以福音為根基的主要倫理勸勉，命令句排山倒海而來。這正是新約書信一貫的骨架——先講「你在基督裏是誰、神為你做了甚麼」（教義），再講「所以你要如何生活」（倫理）。順序不能顛倒：不是先努力生活討神喜悅，換取神的憐憫；而是先領受神白白的憐憫，活祭才成為「理所當然」的回應，而非交換的代價。
+羅馬書前十一章雖偶有命令句（如6:11-13、11:18、20），主軸卻是**神做了甚麼**的陳述：從1:18普世有罪的定罪，到3:21-26因信稱義的宣告，到6-8章與基督同死同活的新生命，到9-11章神對以色列信實的揀選。十二章1節的「所以」（*oun*）是全信的樞紐：從這裏開始，保羅發出首個以福音為根基的主要倫理勸勉，命令句排山倒海而來。這正是新約書信一貫的骨架——先講「你在基督裏是誰、神為你做了甚麼」（教義），再講「所以你要如何生活」（倫理）。順序不能顛倒：不是先努力生活討神喜悅，換取神的憐憫；而是先領受神白白的憐憫，活祭才成為「理所當然」的回應，而非交換的代價。
 
 ### 羅馬教會的處境
 
@@ -4831,14 +4245,14 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 舊約獻祭制度作為背景
 
-十二章1節「活祭」一詞，對第一世紀懂舊約的讀者而言是一句驚人的矛盾修辭。利未記所定的燔祭、贖罪祭、平安祭，無一不是**先宰殺、後獻上**——祭牲的生命必須流出，才能成為聖潔蒙悅納的祭物。保羅卻要信徒獻上一個「活」的祭——這在舊約獻祭制度裏是不存在的類別。這個弔詭正是十二章最重要的釋經鑰匙，下文「原文研讀」與「老弟兄查經 · 深讀」的「全經連線」都會回到這一點展開。
+十二章1節「活祭」一詞，對第一世紀懂舊約的讀者而言是一句驚人的矛盾修辭。利未記所定的燔祭、贖罪祭、平安祭，無一不是**先宰殺、後獻上**——祭牲的生命必須流出，才能成為聖潔蒙悅納的祭物。保羅卻要信徒獻上一個「活」的祭——這在舊約獻祭制度裏是不存在的類別。這個弔詭正是十二章最重要的釋經鑰匙，下文「原文研讀」與「老弟兄查經」的「全經連線」都會回到這一點展開。
 
 ---
 
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | θυσίαν ζῶσαν | *thysian zōsan* | 活祭 | 12:1，舊約祭牲必先宰殺才能獻上；「活」的祭在獻祭制度裏是矛盾修辭，正是全章的鑰匙 |
 | τῶν οἰκτιρμῶν | *tōn oiktirmōn* | 慈悲、憐憫（複數） | 12:1，複數形式，總結前十一章一切神的憐憫作為——稱義、成聖、揀選 |
 | λογικὴν λατρείαν | *logikēn latreian* | 理所當然的事奉／合乎理性的敬拜 | 12:1，*logikos* 是英文 logic（邏輯）的字根；這事奉的「合理」，是因為它是回應十一章「慈悲」之後唯一說得通的回應，不是憑空的宗教義務 |
@@ -4848,49 +4262,33 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 | χαρίσματα | *charismata* | 恩賜 | 12:6，字根 *charis*（恩典）；恩賜本身就是恩典具體化的產物，不是憑功績、靈性等級賺得的成就 |
 | ἀνυπόκριτος | *anypokritos* | 不虛假、真誠（無偽裝） | 12:9，*an*（無）+ *hypokritēs*（演員、戴面具的人）；「愛人不可虛假」是9-21節一長串命令句的統攝原則 |
 
-### *syschēmatizesthe* 與 *metamorphousthe* 的對照
+### 兩個被動語態的命令——被誰模成？被誰變化？
 
-兩個動詞都是現在式被動語態命令句，意味著這是持續進行、而非一次完成的過程；也意味著信徒在其中不是主動的塑造者，而是被塑造者——問題只在於：任由「這世界」（*aiōn*，這個時代的風氣、價值系統）繼續模塑你，還是讓神藉著「心意更新」持續變化你。保羅沒有說「努力不要效法世界」，而是說「讓自己被變化」——被動語態提醒讀者，真正的動力來自聖靈，人的責任是不斷把自己交在這個變化的過程裏。
+*syschēmatizesthe*（效法）與 *metamorphousthe*（變化）兩個動詞都是現在式被動語態命令句，意味著這是持續進行、而非一次完成的過程；也意味著信徒在其中不是主動的塑造者，而是被塑造者——問題只在於：任由「這世界」（*aiōn*，這個時代的風氣、價值系統）繼續模塑你，還是讓神藉著「心意更新」持續變化你。保羅沒有說「努力不要效法世界」，而是說「讓自己被變化」——被動語態提醒讀者，真正的動力來自聖靈，人的責任是不斷把自己交在這個變化的過程裏。
+
+### *paradidōmi* 的呼應：任憑與獻上
+
+一章三次「神就任憑他們」(*paredōken autous ho theos*) 的動詞 *paradidōmi*，到十二章仍在背景裏迴盪：一章的「交出」是審判——神把人交給人自己選擇的深淵；十二章的「獻上」（*parastēsai*，另一個獻祭用語，「呈獻、擺上」）卻是信徒主動的回應——把身體交在神面前，作蒙悅納的活祭。同一種「交出」的姿態，方向卻完全相反：一次是被神任憑走向敗壞，一次是自己甘心獻給神。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 「所以」的重量：十一章的恩典壓成十二章的獻上
+### 1. 活祭的邏輯：從十一章的恩典到十二章合理的獻上
 
-保羅從不要求人先獻上活祭，才換取神的憐憫；他要求的獻上，是在十一章的憐憫已經全部賜下之後，才發出的「所以」。這是整本聖經倫理教導的根本結構：**恩典在先，順服在後**；順服不是換取恩典的代價，而是領受恩典之後唯一合理的回應。
+保羅從不要求人先獻上活祭，才換取神的憐憫；他要求的獻上，是在十一章的憐憫已經全部賜下之後，才發出的「所以」。這是整本聖經倫理教導的根本結構：恩典在先，順服在後；順服不是換取恩典的代價，而是領受恩典之後唯一合理的回應。舊約祭牲的生命透過死亡而流出，換取蒙悅納；保羅卻要信徒獻上一個「活」的祭——生命不是被奪走，而是被重新定向、天天獻上。這弔詭之所以能成立，唯一的原因是：耶穌已經死了那「一次」該死的死（來10:10），信徒不再需要死，只需要天天活著、天天獻上。*logikēn latreian*（合理的事奉）常被譯作「理所當然的事奉」，但更貼近原文的意思是「合乎邏輯的敬拜」——你若真明白十一章所陳明神何等浩大的憐憫，把身體獻上為活祭，就不是額外加添的宗教負擔，而是唯一說得通的結論。
 
-### 2. 活祭的弔詭：一個不死的祭
+### 2. 從「模成」到「變化」：兩種改變的方向，與按恩典度量看自己
 
-舊約祭牲的生命透過死亡而流出，換取蒙悅納。保羅卻要信徒獻上一個「活」的祭——生命不是被奪走，而是被重新定向、天天獻上。這弔詭之所以能成立，唯一的原因是：耶穌已經死了那「一次」該死的死（來十10），信徒不再需要死，只需要天天活著、天天獻上。
+「效法」（*syschēmatizesthe*）描述的是外力塑造出的外形，「變化」（*metamorphousthe*）描述的是由內而外、觸及本質的轉化。世界從外面壓給你一個形狀；聖靈從裏面改變你的本質。「心意更新」（*anakainōsis tou noos*）是這轉化的機制——不是壓抑外在行為，而是重新校準判斷是非、辨別神旨意的整個思考系統，使人能「察驗」（*dokimazein*，原意用於檢驗金屬純度）何為神的善良、純全、可喜悅的旨意。12:3「不要看自己過於所當看的……照著神所分給各人信心的大小，看得合乎中道」正是這心意更新落在自我認知上的具體場景：既然信心的度量是神所「分給」的（動詞的主詞是神），一個人若自高，等於是把神給的東西誤認成自己掙來的；一個人若自卑到否定自己的恩賜，也同樣忽略了神主權的分配。真正的謙卑，是誠實承認：我所有的一切度量，都是被分給的，不是被賺得的。
 
-### 3. 「合理的事奉」：敬拜的邏輯
+### 3. 一個身體，眾恩賜：合一中的多元事奉
 
-*logikēn latreian* 常被譯作「理所當然的事奉」，但更貼近原文的意思是「合乎邏輯的敬拜」——保羅的論證有嚴密的邏輯次序：你若真明白十一章所陳明神何等浩大的憐憫，把身體獻上為活祭，就不是額外加添的宗教負擔，而是唯一說得通的結論。敬拜若與神的憐憫脫節，就成了沒有邏輯的儀式；敬拜若扎根在神的憐憫裏，就成了「理所當然」的生活方式。
+12:4-5的身體比喻與哥林多前書12章各自獨立成文，卻表達同一個真理：教會不是一群個體的集合，而是一個有機的身體，「互相聯絡作肢體」（*allēlōn melē*，字面是「彼此互為肢體」）。多元不是問題，而是身體運作的必要條件；問題只在於肢體是否記得自己屬於同一個身體。12:6-8的恩賜清單（先知講道、服事、教導、勸勉、施捨、治理、憐憫）刻意平鋪並列，沒有高低次序。每個恩賜後面都附上一個與其性質相稱的態度詞：說預言要「照著信心的程度」、施捨要「誠實」（原文有「單純、不圖回報」之意）、治理要「殷勤」、憐憫人要「甘心」——保羅關心的不只是「你有甚麼恩賜」，更是「你用甚麼心志運用它」。既然恩賜（*charismata*）源自恩典（*charis*），使用恩賜時的驕傲或勉強，都是對恩典本質的背叛。
 
-### 4. 從「模成」到「變化」：兩種改變的方向
+### 4. 「不虛假的愛」：統攝9-21節的命令，紮根舊約而非新約發明
 
-「效法」（*syschēmatizesthe*）描述的是外力塑造出的外形，「變化」（*metamorphousthe*）描述的是由內而外、觸及本質的轉化。世界從外面壓給你一個形狀；聖靈從裏面改變你的本質。「心意更新」（*anakainōsis tou noos*）是這轉化的機制——不是壓抑外在行為，而是重新校準判斷是非、辨別神旨意的整個思考系統，使人能「察驗」（*dokimazein*，原意用於檢驗金屬純度）何為神的善良、純全、可喜悅的旨意。
-
-### 5. 謙卑不是自貶，是按恩典的度量看自己
-
-12:3「不要看自己過於所當看的……照著神所分給各人信心的大小，看得合乎中道」——這節經文常被誤讀成一種道德命令：要謙虛。但保羅的邏輯根基是恩典，不是道德努力：既然信心的度量是神所「分給」的（動詞的主詞是神），一個人若自高，等於是把神給的東西誤認成自己掙來的；一個人若自卑到否定自己的恩賜，也同樣忽略了神主權的分配。真正的謙卑，是誠實承認：我所有的一切度量，都是被分給的，不是被賺得的。
-
-### 6. 一個身體，眾多肢體：合一中的多元
-
-12:4-5的身體比喻與哥林多前書12章各自獨立成文，卻表達同一個真理：教會不是一群個體的集合，而是一個有機的身體，「互相聯絡作肢體」（*allēlōn melē*，字面是「彼此互為肢體」）。多元不是問題，而是身體運作的必要條件；問題只在於肢體是否記得自己屬於同一個身體。
-
-### 7. 恩賜清單：恩典的具體化
-
-12:6-8的恩賜清單（先知講道、服事、教導、勸勉、施捨、治理、憐憫）刻意平鋪並列，沒有高低次序。每個恩賜後面都附上一個與其性質相稱的態度詞：說預言要「照著信心的程度」、施捨要「誠實」（原文有「單純、不圖回報」之意）、治理要「殷勤」、憐憫人要「甘心」——保羅關心的不只是「你有甚麼恩賜」，更是「你用甚麼心志運用它」。既然恩賜（*charismata*）源自恩典（*charis*），使用恩賜時的驕傲或勉強，都是對恩典本質的背叛。
-
-### 8. 「不虛假的愛」：統攝9-21節的一句話
-
-9-21節密集羅列近三十個命令，容易讀成一份行為清單。但9節的「愛人不可虛假」（*hē agapē anypokritos*）其實是整段的主題句——後面所有命令，都是這「不虛假的愛」在具體處境中的展開：對弟兄的愛（親熱、推讓）、對神的愛（心裏火熱、禱告恆切）、對困乏者的愛（幫補、款待）、對敵人的愛（祝福、不咒詛、以善勝惡）。不是先有一份規則手冊，再談愛；而是真愛本身自然長成這些具體的形狀。
-
-### 9. 「不可報復」：紮根舊約，而非新約發明
-
-12:19-20保羅直接引用申命記32:35「伸冤在我，我必報應」與箴言25:21-22「你的仇敵若餓了，就給他吃」。這是一個常被忽略的事實：很多人以為「愛仇敵、不可報復」是耶穌與保羅才有的「新約倫理」，用來對照「以眼還眼」的舊約——但保羅在這裏引用的，恰恰是摩西五經與智慧文學本身。禁止私人復仇、善待仇敵，從來不是新約的發明，而是刻在律法與智慧書裏的古老命令；耶穌與保羅所做的，是把這條命令從律法條文，升高為藉聖靈才能真正活出來的生命品質——「登山寶訓」不是廢掉這古老的命令，而是把它從外在規範，變成內住聖靈所結的果子。
+9-21節密集羅列近三十個命令，容易讀成一份行為清單。但9節的「愛人不可虛假」（*hē agapē anypokritos*）其實是整段的主題句——後面所有命令，都是這「不虛假的愛」在具體處境中的展開：對弟兄的愛（親熱、推讓）、對神的愛（心裏火熱、禱告恆切）、對困乏者的愛（幫補、款待）、對敵人的愛（祝福、不咒詛、以善勝惡）。不是先有一份規則手冊，再談愛；而是真愛本身自然長成這些具體的形狀。12:19-20保羅直接引用申命記32:35「伸冤在我，我必報應」與箴言25:21-22「你的仇敵若餓了，就給他吃」——很多人以為「愛仇敵、不可報復」是耶穌與保羅才有的「新約倫理」，用來對照「以眼還眼」的舊約，但保羅在這裏引用的，恰恰是摩西五經與智慧文學本身。禁止私人復仇、善待仇敵，從來不是新約的發明，而是刻在律法與智慧書裏的古老命令；耶穌與保羅所做的，是把這條命令從律法條文，升高為藉聖靈才能真正活出來的生命品質。
 
 ---
 
@@ -4922,48 +4320,50 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 > 「我們不是屬自己的：因此不要以肉體的益處為我們生活的目標。我們不是屬自己的：因此盡我們所能，忘記自己和一切屬自己的。反過來說，我們是屬神的：所以讓我們為祂而活、為祂而死。我們是屬神的：所以讓祂的智慧和旨意管理我們一切的行動。我們是屬神的：所以讓我們生命的每一部分，都以祂為唯一合法的目標。」
 > — *基督教要義 (Institutes of the Christian Religion)*，卷三第7章第1節
 
-加爾文《基督教要義》論「基督徒生活的總綱：捨己」這一整章，開篇就是以羅馬書12:1為根基展開的。「我們不是屬自己的」這句反覆的宣告，正是「活祭」神學最精煉的系統化表達：獻上身體為活祭之所以可能，前提是先承認自己的所有權已經易手。
+加爾文《基督教要義》論「基督徒生活的總綱：捨己」這一整章，開篇就是以羅馬書12:1為根基展開的。「我們不是屬自己的」這句反覆的宣告，正是「活祭」最精煉的系統化表達：獻上身體為活祭之所以可能，前提是先承認自己的所有權已經易手。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根在分析羅馬書全書結構時，一貫將全信分為三大段落：**教義的**（1-8章，講明人的失喪與神的救法）、**寓意的／關乎以色列的**（9-11章，講明神對揀選之民信實的計劃）、**實踐的**（12-16章，講明蒙恩之人當如何生活）。他特別指出，十二章開頭的「所以」不是隨口的連接詞，而是全信結構上刻意設計的鉸鏈：前面十一章以陳述神的作為為主軸，這並非偶然——保羅刻意等到把神的憐憫完整陳明之後，才發出首個以福音為根基的主要倫理勸勉。摩根認為，這正是保羅寫作倫理教導一貫的方法——**先給「是甚麼」，才給「當如何」**；凡是顛倒這次序、先講行為要求、後講恩典基礎的講道，都誤解了保羅的邏輯。
 
-> 麥克阿瑟指出，12:1「理所當然」一詞，原文含有「合乎邏輯、講得通」的意思——保羅的邏輯是：一個人若真的明白了十一章所陳明神那何等浩大、毫無保留的憐憫，把身體獻上為活祭，就是唯一合理、唯一講得通的回應，而不是外加的宗教義務；把它當作重擔的人，其實是還沒真正明白前十一章在說甚麼。
+摩根也特別留意12:9「愛人不可虛假」在原文結構上的位置——它沒有動詞，是一句濃縮的格言式命令，直譯近似「愛：不虛假的」，摩根認為這正是保羅刻意把它放在整段命令句之首、作為統攝原則的寫作手法：後面每一項具體命令，都是回答「不虛假的愛，在這個處境裏看起來是甚麼樣子」。
+
+> 出處：G. Campbell Morgan 對羅馬書結構與教義倫理次序的一貫解經立場之綜合轉述（相關講章及注釋精神），未附具體篇章、頁碼，依本系列一貫誠實標註慣例處理。
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟指出，12:1「理所當然」一詞，原文含有「合乎邏輯、講得通」的意思——保羅的邏輯是：一個人若真的明白了十一章所陳明神那何等浩大、毫無保留的憐憫，把身體獻上為活祭，就是唯一合理、唯一講得通的回應，而不是外加的宗教義務；把它當作重擔的人，其實是還沒真正明白前十一章在說甚麼。
 
 > 出處：奧古斯丁與加爾文引句經 CCEL (Christian Classics Ethereal Library) 線上原始文本查證；屈梭多模引句經 New Advent 線上《羅馬書講道集》第20篇原文查證，並經多方獨立來源交叉核對。麥克阿瑟部分為其對羅馬書十二章一貫解經立場的綜合轉述，未附具體講題、日期或 gty.org 網址，依本系列一貫誠實標註慣例處理，不視為逐字引句。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 116:12-17
 
-> **我拿甚麼報答耶和華向我所賜的一切厚恩？**
-> 我要舉起救恩的杯，稱揚耶和華的名。
-> 我要在他眾民面前向耶和華還我的願。
-> 在耶和華眼中，看聖民之死極為寶貴。
-> 耶和華啊，我真是你的僕人；我是你的僕人，是你婢女的兒子。你已經解開我的綁索。
+> **我拿甚麼報答耶和華向我所賜的一切厚恩？** \
+> 我要舉起救恩的杯，稱揚耶和華的名。 \
+> 我要在他眾民面前向耶和華還我的願。 \
+> 在耶和華眼中，看聖民之死極為寶貴。 \
+> 耶和華啊，我真是你的僕人；我是你的僕人，是你婢女的兒子。你已經解開我的綁索。 \
 > **我要以感謝為祭獻給你，又要求告耶和華的名。**
 
-> **What shall I render to the Lord for all his benefits to me?**
-> I will lift up the cup of salvation and call on the name of the Lord.
-> I will pay my vows to the Lord in the presence of all his people.
-> Precious in the sight of the Lord is the death of his saints.
-> O Lord, I am your servant; I am your servant, the son of your maidservant. You have loosed my bonds.
-> **I will offer to you the sacrifice of thanksgiving and call on the name of the Lord.**
+> **What shall I render to the LORD For all His benefits toward me?** \
+> I shall lift up the cup of salvation And call upon the name of the LORD. \
+> I shall pay my vows to the LORD, Oh *may it be* in the presence of all His people. \
+> Precious in the sight of the LORD Is the death of His godly ones. \
+> O LORD, surely I am Your servant, I am Your servant, the son of Your handmaid, You have loosed my bonds. \
+> **To You I shall offer a sacrifice of thanksgiving, And call upon the name of the LORD.**
 
 詩人的問題「我拿甚麼報答耶和華」，正是羅馬書12:1要回答的問題。詩篇的答案是「感謝為祭」；保羅把這答案推到極致：不只是言語的感謝，而是整個身體——時間、恩賜、關係、每一天——都成為那份「感謝之祭」。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### Take My Life, and Let It Be
 
 這首詩歌是 Frances Ridley Havergal 於1874年2月4日夜裏所作，她自述那晚經歷了一次生命更新的奉獻，一句一句的詞句自己在心裏湧現、串連，直到以「永永遠遠、只、全為祢！」作結。這首詩歌值得作為十二章的聖詩，不只因為它主題貼合，更因為它的**結構**本身就是一份逐項的活祭清單：
 
 | 詩節內容 | 對應12章經文 |
-|----------|-------------|
+|-----------------------------------|---------------------------------------------|
 | 一生、時日 | 12:1「將身體獻上」——時間是身體活動的度量 |
 | 雙手、雙腳 | 12:1「身體」——具體的肢體行動 |
 | 聲音、口舌 | 12:6「說預言」「勸化」——恩賜藉言語運用 |
@@ -4976,46 +4376,17 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：本書寫作查證時，老弟兄原始查經筆記檔案（`Logos_meditation/church/Thursday.md`，2024-2025年 Thursday 查經班逐條記錄）中並無羅馬書十二章的逐節記載。以下「老弟兄查經」內容，是以老弟兄查經方法論與領受框架撰寫，忠實應用於羅馬書十二章而成，非逐字引用他的歷史原始記錄。
 
-摩根在分析羅馬書全書結構時，一貫將全信分為三大段落：**教義的**（1-8章，講明人的失喪與神的救法）、**寓意的／關乎以色列的**（9-11章，講明神對揀選之民信實的計劃）、**實踐的**（12-16章，講明蒙恩之人當如何生活）。他特別指出，十二章開頭的「所以」不是隨口的連接詞，而是全信結構上刻意設計的鉸鏈：前面十一章以陳述神的作為為主軸，這並非偶然——保羅刻意等到把神的憐憫完整陳明之後，才發出首個以福音為根基的主要倫理勸勉。摩根認為，這正是保羅寫作倫理教導一貫的方法——**先給「是甚麼」，才給「當如何」**；凡是顛倒這次序、先講行為要求、後講恩典基礎的講道，都誤解了保羅的邏輯。
-
-摩根也特別留意12:9「愛人不可虛假」在原文結構上的位置——它沒有動詞，是一句濃縮的格言式命令，直譯近似「愛：不虛假的」，摩根認為這正是保羅刻意把它放在整段命令句之首、作為統攝原則的寫作手法：後面每一項具體命令，都是回答「不虛假的愛，在這個處境裏看起來是甚麼樣子」。
-
-> 出處：G. Campbell Morgan 對羅馬書結構與教義倫理次序的一貫解經立場之綜合轉述（相關講章及注釋精神），未附具體篇章、頁碼，依本系列一貫誠實標註慣例處理。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**每日的活祭**：老弟兄帶查經時，最常落腳的一句實踐提醒是——「每天早上起床，把當天的主權交給神」，他稱之為「每日的活祭」。這不是他對羅馬書逐節查經留下的文字紀錄（本書寫作查證時，老弟兄原始查經筆記檔案 `Logos_meditation/church/Thursday.md` 中並無羅馬書十二章的逐節記載），而是他一貫查經方法論與神學框架中反覆出現的核心操練，與12:1「將身體獻上，當作活祭」在精神上完全對應——他常提醒：活祭不是教會裏一週一次的宗教行為，是每天早上、具體到今天要做的每一個決定裏的主權交託。
-
-**讀報紙看股票，就知道怎麼讀聖經**：老弟兄另一句常提醒的話——「看弟兄們怎麼讀報紙（看股票），就知道他們怎麼讀聖經了」——直指12:2「不要效法這個世界」最貼身的檢驗方式：一個人如果每天花在市場行情、新聞資訊上的專注與焦慮，遠超過花在神話語上的專注，他的心意早已被這個世界「模成」了某種形狀，卻自以為只是「關心時事」。老弟兄一貫強調：注意力本身是一門生意（Attention is a business），互聯網把人的注意力賣給了出價最高的人；問題不是要不要看新聞，而是——你今天的心思，被誰模成了？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Take My Life, and Let It Be*（如前「配詩」所引，首節）
-
-> Take my life, and let it be
-> Consecrated, Lord, to Thee;
-> Take my moments and my days,
-> Let them flow in ceaseless praise.
-
-**詩篇**：詩篇 116:12, 17
-
-> 我拿甚麼報答耶和華向我所賜的一切厚恩？……我要以感謝為祭獻給你。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：活祭不是一週一次的宗教行為，是每天早上把身體、時間、主權交給神——因為那位真正該死的，已經替你死了那「一次」。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：從「必死的祭」到「活祭」的完成。利未記所定的燔祭、贖罪祭，祭牲必先流血而死，才能被神悅納（利一3-9）；亞伯拉罕在摩利亞山上獻以撒，那隻代替以撒而死的公羊（創22:13），是舊約裏最接近「以生命換生命」的畫面，但那頭羊仍舊是「必死的祭」。希伯來書十章說得清楚：「因為公牛和山羊的血，斷不能除罪」（來十4），一切舊約的祭都在等一個真正能除罪、卻不必年年重複獻上的祭——「祂只一次獻上自己，就把這事成全了」（來七27）。正因為耶穌已經死了那「一次」該死的死，向罪只死了一次（羅六10），信徒才有可能獻上一個「活」的祭——不是替代性地流血而死，而是天天將已經與基督同死同活的身體，重新獻上。這條線再往前延伸到彼得前書2:5：「你們……作聖潔的祭司，藉著耶穌基督奉獻神所悅納的靈祭」——活祭不是羅馬書孤立的意象，而是整本新約對舊約獻祭制度共同的成全宣告。
+**「必死的祭」線**：利未記所定的燔祭、贖罪祭，祭牲必先流血而死，才能被神悅納（利1:3-9）；亞伯拉罕在摩利亞山上獻以撒，那隻代替以撒而死的公羊（創22:13），是舊約裏最接近「以生命換生命」的畫面，但那頭羊仍舊是「必死的祭」。希伯來書說得清楚：「因為公牛和山羊的血，斷不能除罪」（來10:4）——一切舊約的祭都在等一個真正能除罪、卻不必年年重複獻上的祭：「祂只一次獻上自己，就把這事成全了」（來7:27）。
+
+**「活祭」的完成線**：正因為耶穌已經死了那「一次」該死的死，向罪只死了一次（羅6:10），信徒才有可能獻上一個「活」的祭——不是替代性地流血而死，而是天天將已經與基督同死同活的身體，重新獻上。這條線再往前延伸到彼得前書2:5：「你們……作聖潔的祭司，藉著耶穌基督奉獻神所悅納的靈祭」——活祭不是羅馬書孤立的意象，而是整本新約對舊約獻祭制度共同的成全宣告。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -5036,17 +4407,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天我心裏的焦慮與注意力，多半被甚麼模成了？是神的話，還是新聞與行情？
 - **一個行動**：今天在一件具體的人際衝突裏，選擇「不以惡報惡」，主動為那讓你受傷的人求一件實在的好處。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：活祭不是一週一次的宗教行為，是每天早上把身體、時間、主權交給神——因為那位真正該死的，已經替你死了那「一次」。
-
-**貫通全經**：舊約的祭牲必先流血而死才能蒙悅納（利一3-9）；基督一次獻上自己，把這事永遠成全了（來十10-14）——你能獻上「活」祭，是因為祂已經獻上了那「死」的祭。
-
-**無法迴避的問題**：「你今天早上，有沒有把身體、時間、財富，當作活祭獻上？還是只把『信耶穌』留在星期天？」
-
 > 「字句叫人死，精義叫人活。活祭不是修規條修出來的，是天天把主權交出去，聖靈才能天天更新你的心意。」
+
+**你看見耶穌了嗎**：羅馬書十二章沒有一次直接說出耶穌的名字，但祂一次獻上自己為祭，成就了律法所有祭牲一生一世都做不到的事——你能獻上活祭，是因為那真正的祭物已經死而復活，不再死了。9-21節那一串「不可虛假的愛」，正是祂自己在十字架上已經活出的生命：「他被罵不還口，受害不說威嚇的話」。你所獻上的身體上，看得見耶穌的形狀嗎？
 
 ---
 
@@ -5056,11 +4419,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 1. **活祭是甚麼**：我對「將身體獻上，當作活祭」的理解，是一次性的決志，還是每天具體的交託？今天早上，我把哪一部分的自己留在了自己手裏？
 
-2. **效法還是變化**：這一週有哪個具體處境，讓我發現自己是被「這個世界」的價值觀模成的，而不是被神的話更新的？
+2. **恩賜與謙卑**：我對自己的恩賜，是自高自誇，還是自貶埋沒？如果恩賜是「按著神所分給的信心大小」，我今天可以怎樣更誠實地看待自己？
 
-3. **恩賜與謙卑**：我對自己的恩賜，是自高自誇，還是自貶埋沒？如果恩賜是「按著神所分給的信心大小」，我今天可以怎樣更誠實地看待自己？
-
-4. **不虛假的愛**：12:9-21列出的種種命令中，哪一項是我這週最難做到的（例如：為逼迫我的人祝福、不以惡報惡）？這件事上，我看見耶穌怎樣活出這個命令？
+3. **不虛假的愛**：12:9-21列出的種種命令中，哪一項是我這週最難做到的（例如：為逼迫我的人祝福、不以惡報惡）？這件事上，我看見耶穌怎樣活出這個命令？
 
 ### 禱告回應
 
@@ -5073,21 +4434,17 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 12:1的「所以」連接著前面十一章的甚麼內容？為甚麼保羅要等到這裏才發出首個以福音為根基的主要倫理勸勉？
-
-2. 「活祭」這個詞在舊約獻祭制度裏為甚麼是矛盾修辭？這個矛盾如何因基督的死而成立？
-
-3. 「效法」（*syschēmatizesthe*）與「變化」（*metamorphousthe*）有甚麼不同？這兩個詞的被動語態，對「誰是改變的動力來源」有甚麼提示？
-
-4. 12:3「不要看自己過於所當看的」與「照著神所分給各人信心的大小」有甚麼邏輯關係？這如何重新定義「謙卑」？
-
-5. 12:19-20引用申命記32:35與箴言25:21-22，說明「不可報復、善待仇敵」的教導其實紮根在舊約。這如何改變你對「新舊約倫理對比」的理解？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 從必死的祭到活祭的完成 | 12:1 | 利1:3-9、創22:13、來7:27、來10:4、羅6:10、彼前2:5 |
+| 一個身體，眾恩賜（合一中的多元） | 12:4-8 | 林前12章 |
+| 不可報復：根植舊約律法與智慧書 | 12:19-20 | 申32:35、箴25:21-22 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論與神學框架、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論與領受框架、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -5097,9 +4454,13 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 13:1-14
 
----
+**經文核對**：[ai-eden.com/bible/romans/13](https://www.ai-eden.com/bible/romans/13?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：律法的總結 Plērōma Nomou** \
+> **全書坐標**：13:1-14上承12章活祭的邏輯，在「活祭」卷（12:1-15:13）中把獻祭具體化到公民生活；13:8-10「愛是律法的總結」回答羅馬書七章「我所願意的善，我反不做」的絕望，也呼應8:2「聖靈的律……釋放了我」。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 保羅在這一章沒有直接提耶穌的名字，然而整章的重量都壓在祂身上。「凡掌權的都是神所命的」——這句話能站立得住，是因為在萬有之上，還有一位「萬王之王，萬主之主」（提前6:15），凱撒的權柄不過是暫時的、有限的、受託的；真正配得無條件順服的，只有那位「一切權柄都賜給我了」的基督（太28:18）。而全章的高峰在13:14：「總要披戴主耶穌基督」——這不是一句勸勉的裝飾語，是保羅在12:1「將身體獻上，當作活祭」之後，把獻祭具體化到每一個清晨：你今天穿上的，是誰？是律法要求卻無力成全的規條，還是那位已經成全了律法、如今要活在你裏面的主耶穌基督？愛人如己，只有在祂裏面才不是苛求，而是「披戴」上一位已經完全活出這愛的主。
 
@@ -5107,35 +4468,35 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ## 配詩 (Opening Hymn)
 
-> **Soldiers of Christ, Arise**
+> **Soldiers of Christ, Arise** \
 > *Charles Wesley, 1749*
 >
-> Soldiers of Christ, arise,
-> And put your armor on,
-> Strong in the strength which God supplies
-> Through His eternal Son;
-> Strong in the Lord of hosts,
-> And in His mighty power,
-> Who in the strength of Jesus trusts
+> Soldiers of Christ, arise, \
+> And put your armor on, \
+> Strong in the strength which God supplies \
+> Through His eternal Son; \
+> Strong in the Lord of hosts, \
+> And in His mighty power, \
+> Who in the strength of Jesus trusts \
 > Is more than conqueror.
 >
-> Stand then in His great might,
-> With all His strength endued;
-> But take, to arm you for the fight,
-> The panoply of God;
-> That, having all things done,
-> And all your conflicts passed,
-> Ye may o'ercome through Christ alone,
+> Stand then in His great might, \
+> With all His strength endued; \
+> But take, to arm you for the fight, \
+> The panoply of God; \
+> That, having all things done, \
+> And all your conflicts passed, \
+> Ye may o'ercome through Christ alone, \
 > And stand entire at last.
 >
-> （中文意譯，非正式聖詩譯本）
-> 基督精兵，起來披甲，
-> 靠主賜下的大能剛強；
-> 萬軍之主的能力在你裏面，
-> 倚靠耶穌者必然得勝有餘。
-> 站立在祂大能之中，
-> 披戴神所賜的全副軍裝；
-> 直到爭戰過去，一切成全，
+> （中文意譯，非正式聖詩譯本） \
+> 基督精兵，起來披甲， \
+> 靠主賜下的大能剛強； \
+> 萬軍之主的能力在你裏面， \
+> 倚靠耶穌者必然得勝有餘。 \
+> 站立在祂大能之中， \
+> 披戴神所賜的全副軍裝； \
+> 直到爭戰過去，一切成全， \
 > 惟靠基督，站立到底。
 
 ---
@@ -5144,29 +4505,29 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 中文 — 和合本 (CUV)
 
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
+
 > \textsuperscript{1}在上有權柄的，人人當順服他，因為沒有權柄不是出於神的，凡掌權的都是神所命的。\textsuperscript{2}所以，抗拒掌權的就是抗拒神的命，抗拒的必自取刑罰。
 
-> \textsuperscript{3}做官的原不是叫行善的懼怕，乃是叫作惡的懼怕。你願意不懼怕掌權的嗎？你只要行善，就可得他的稱讚；\textsuperscript{4}因為他是神的用人，是於你有益的。你若作惡，卻當懼怕；因為他不是空空地佩劍，他是神的用人，是申冤的，刑罰那作惡的。\textsuperscript{5}所以你們必須順服，不但是因為刑罰，也是因為良心。
+> \textsuperscript{3}作官的原不是叫行善的懼怕，乃是叫作惡的懼怕。你願意不懼怕掌權的嗎？你只要行善，就可得他的稱讚；\textsuperscript{4}因為他是神的用人，是於你有益的。你若作惡，卻當懼怕；因為他不是空空地佩劍，他是神的用人，是申冤的，刑罰那作惡的。\textsuperscript{5}所以你們必須順服，不但是因為刑罰，也是因為良心。
 
 > \textsuperscript{6}你們納糧也為這個緣故，因他們是神的差役，常常特管這事。\textsuperscript{7}凡人所當得的，就給他：當得糧的，給他納糧；當得稅的，給他上稅；當懼怕的，懼怕他；當恭敬的，恭敬他。
 
-> \textsuperscript{8}**凡事都不可虧欠人，唯有彼此相愛，要常以為虧欠。因為愛人的，就完全了律法。**\textsuperscript{9}**像那「不可姦淫，不可殺人，不可偷盜，不可貪婪」，或有別的誡命，都包在「愛人如己」這一句話之內了。**\textsuperscript{10}**愛是不加害於人的，所以愛就完全了律法。**
+> \textsuperscript{8}**凡事都不可虧欠人，惟有彼此相愛，要常以為虧欠。因為愛人的，就完全了律法。**\textsuperscript{9}**像那「不可姦淫，不可殺人，不可偷盜，不可貪婪」，或有別的誡命，都包在「愛人如己」這一句話之內了。**\textsuperscript{10}**愛是不加害於人的，所以愛就完全了律法。**
 
 > \textsuperscript{11}再者，你們曉得，現今就是該趁早睡醒的時候，因為我們得救，現今比初信的時候更近了。\textsuperscript{12}黑夜已深，白晝將近，我們就當脫去暗昧的行為，帶上光明的兵器。\textsuperscript{13}行事為人要端正，好像行在白晝。不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒。\textsuperscript{14}**總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com 逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> \textsuperscript{1}Every person is to be in subjection to the governing authorities. For there is no authority except from God, and those which exist are established by God. \textsuperscript{2}Therefore whoever resists authority has opposed the ordinance of God; and they who have opposed will receive condemnation upon themselves.
 
-> \textsuperscript{1}Let every person be subject to the governing authorities. For there is no authority except from God, and those that exist have been instituted by God. \textsuperscript{2}Therefore whoever resists the authorities resists what God has appointed, and those who resist will incur judgment.
+> \textsuperscript{3}For rulers are not a cause of fear for good behavior, but for evil. Do you want to have no fear of authority? Do what is good and you will have praise from the same; \textsuperscript{4}for it is a minister of God to you for good. But if you do what is evil, be afraid; for it does not bear the sword for nothing; for it is a minister of God, an avenger who brings wrath on the one who practices evil. \textsuperscript{5}Therefore it is necessary to be in subjection, not only because of wrath, but also for conscience' sake.
 
-> \textsuperscript{3}For rulers are not a terror to good conduct, but to bad. Would you have no fear of the one who is in authority? Then do what is good, and you will receive his approval, \textsuperscript{4}for he is God's servant for your good. But if you do wrong, be afraid, for he does not bear the sword in vain. For he is the servant of God, an avenger who carries out God's wrath on the wrongdoer. \textsuperscript{5}Therefore one must be in subjection, not only to avoid God's wrath but also for the sake of conscience.
+> \textsuperscript{6}For because of this you also pay taxes, for *rulers* are servants of God, devoting themselves to this very thing. \textsuperscript{7}Render to all what is due them: tax to whom tax *is due;* custom to whom custom; fear to whom fear; honor to whom honor.
 
-> \textsuperscript{6}For because of this you also pay taxes, for the authorities are ministers of God, attending to this very thing. \textsuperscript{7}Pay to all what is owed to them: taxes to whom taxes are owed, revenue to whom revenue is owed, respect to whom respect is owed, honor to whom honor is owed.
+> \textsuperscript{8}**Owe nothing to anyone except to love one another; for he who loves his neighbor has fulfilled *the* law.** \textsuperscript{9}**For this, "YOU SHALL NOT COMMIT ADULTERY, YOU SHALL NOT MURDER, YOU SHALL NOT STEAL, YOU SHALL NOT COVET," and if there is any other commandment, it is summed up in this saying, "YOU SHALL LOVE YOUR NEIGHBOR AS YOURSELF."** \textsuperscript{10}**Love does no wrong to a neighbor; therefore love is the fulfillment of *the* law.**
 
-> \textsuperscript{8}**Owe no one anything, except to love each other, for the one who loves another has fulfilled the law.** \textsuperscript{9}**For the commandments, "You shall not commit adultery, You shall not murder, You shall not steal, You shall not covet," and any other commandment, are summed up in this word: "You shall love your neighbor as yourself."** \textsuperscript{10}**Love does no wrong to a neighbor; therefore love is the fulfilling of the law.**
-
-> \textsuperscript{11}Besides this you know the time, that the hour has come for you to wake from sleep. For salvation is nearer to us now than when we first believed. \textsuperscript{12}The night is far gone; the day is at hand. So then let us cast off the works of darkness and put on the armor of light. \textsuperscript{13}Let us walk properly as in the daytime, not in orgies and drunkenness, not in sexual immorality and sensuality, not in quarreling and jealousy. \textsuperscript{14}**But put on the Lord Jesus Christ, and make no provision for the flesh, to gratify its desires.**
+> \textsuperscript{11}*Do* this, knowing the time, that it is already the hour for you to awaken from sleep; for now salvation is nearer to us than when we believed. \textsuperscript{12}The night is almost gone, and the day is near. Therefore let us lay aside the deeds of darkness and put on the armor of light. \textsuperscript{13}Let us behave properly as in the day, not in carousing and drunkenness, not in sexual promiscuity and sensuality, not in strife and jealousy. \textsuperscript{14}**But put on the Lord Jesus Christ, and make no provision for the flesh in regard to *its* lusts.**
 
 ---
 
@@ -5200,7 +4561,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | ἐξουσίαις ὑπερεχούσαις | exousiais hyperechousais | 在上/居首位的權柄 | 直譯「凌駕、居於其上的權柄」，13:1 |
 | τεταγμέναι | tetagmenai | 被設立、被安排 | τάσσω的完成被動分詞，原是軍隊「排列陣式」的用詞——神把掌權者「排定」在秩序中 |
 | διάκονος | diakonos | 僕役、執事 | 13:4用在世俗掌權者身上，與教會「執事」職分同一個字——保羅刻意把政權放進「服事神」的框架裏 |
@@ -5212,29 +4573,25 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### *diakonos* 與 *leitourgos* 的驚人並置
 
-保羅在13:4稱掌權者為神的「用人」（*diakonos*），13:6又稱之為「差役」（*leitourgos*）——兩個字都是教會服事語彙（執事、事奉）。這不是修辭上的美化，而是神學上的宣告：連不認識神、甚至逼迫教會的羅馬帝國官員，在神主權的安排下，也在扮演一個「服事」的角色——正如以賽亞書45:1稱波斯王古列為神的「受膏者」，儘管古列「不認識」耶和華。政權的權柄不是自有的，是被賦予、被使用的。
+保羅在13:4稱掌權者為神的「用人」（*diakonos*），13:6又稱之為「差役」（*leitourgos*）——兩個字都是教會服事語彙（執事、事奉）。這不是修辭上的美化，而是真理上的宣告：連不認識神、甚至逼迫教會的羅馬帝國官員，在神主權的安排下，也在扮演一個「服事」的角色——正如以賽亞書45:1稱波斯王古列為神的「受膏者」，儘管古列「不認識」耶和華。政權的權柄不是自有的，是被賦予、被使用的。
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 政權的神聖起源與其有限性 (Divine Origin and Its Limits)
+### 1. 政權的神聖起源、其有限性，與作為普遍恩典的器皿
 
-「沒有權柄不是出於神的」——這不是為某個具體政府背書，而是宣告「秩序本身」出於神，對抗無政府的混亂（參創9:6神設立死刑背後的秩序原則）。但起源於神，不等於每一項作為都蒙神認可；正如婚姻起源於神，不代表每樁婚姻的每個決定都合神心意。
+「沒有權柄不是出於神的」——這不是為某個具體政府背書，而是宣告「秩序本身」出於神，對抗無政府的混亂（參創9:6神設立死刑背後的秩序原則）。但起源於神，不等於每一項作為都蒙神認可；正如婚姻起源於神，不代表每樁婚姻的每個決定都合神心意。13:3-4描繪的是一個功能性的圖像：秩序良善時，行善者不必懼怕；作惡者才需懼怕。這正是加爾文後來在《基督教要義》中反覆強調的——政權存在的價值，是攔阻這個墮落世界滑向徹底的暴力與混亂，讓福音有安穩的土壤可以傳揚。
 
-### 2. 政權作為普遍恩典的器皿 (Common Grace Restraining Evil)
-
-13:3-4描繪的是一個功能性的圖像：秩序良善時，行善者不必懼怕；作惡者才需懼怕。這正是加爾文後來在《基督教要義》中反覆強調的——政權存在的價值，是攔阻這個墮落世界滑向徹底的暴力與混亂，讓福音有安穩的土壤可以傳揚。
-
-### 3. 順服的雙重根基：懼怕與良心 (13:5)
+### 2. 順服的雙重根基：懼怕與良心 (13:5)
 
 保羅特意加上「不但是因為刑罰，也是因為良心」——如果順服只出於怕受罰，那是奴僕的心；良心的順服，是因為明白這是神所喜悅的秩序，即使沒有人監督也如此行。這與12:1-2「心意更新而變化」一脈相承：外在行為的改變若沒有內裏良心的更新，終究只是懼怕的表演。
 
-### 4. 愛是律法的總結——回答第7章的難題 (13:8-10)
+### 3. 愛是律法的總結——回答第7章的難題 (13:8-10)
 
-這是全章的神學樞紐。羅馬書7章描繪了一個絕望的處境：「我所願意的善，我不做；我所不願意的惡，我反倒去做」（7:19）——律法本身是聖潔的，卻無力使人真正行出聖潔。8章給出答案：「聖靈的律……釋放了我」（8:2）。13:8-10正是把這個答案落實到最具體的倫理場景：不是靠更嚴格地遵守字句去成全律法，而是靠著愛——那被聖靈澆灌在心裏的愛（5:5「神的愛……藉著所賜給我們的聖靈，已經澆灌在我們心裏」）——去成全律法真正的意圖。保羅引用利未記19:18「愛人如己」，宣告一切具體誡命（不姦淫、不殺人、不偷盜、不貪婪）都被這一句話「總括」（*anakephalaioutai*，原文有「濃縮到一個標題底下」之意）。律法沒有被廢棄，是被成全了——用一種律法本身無法產生、卻正是律法所渴望的方式。
+這是全章的樞紐。羅馬書7章描繪了一個絕望的處境：「我所願意的善，我反不做；我所不願意的惡，我反倒去做」（7:19）——律法本身是聖潔的，卻無力使人真正行出聖潔。8章給出答案：「聖靈的律……釋放了我」（8:2）。13:8-10正是把這個答案落實到最具體的倫理場景：不是靠更嚴格地遵守字句去成全律法，而是靠著愛——那被聖靈澆灌在心裏的愛（5:5「神的愛……藉著所賜給我們的聖靈，已經澆灌在我們心裏」）——去成全律法真正的意圖。保羅引用利未記19:18「愛人如己」，宣告一切具體誡命（不姦淫、不殺人、不偷盜、不貪婪）都被這一句話「總括」（*anakephalaioutai*，原文有「濃縮到一個標題底下」之意）。律法沒有被廢棄，是被成全了——用一種律法本身無法產生、卻正是律法所渴望的方式。
 
-### 5. 末世的迫切與每日的披戴 (13:11-14)
+### 4. 末世的迫切與每日的披戴 (13:11-14)
 
 「黑夜已深，白晝將近」——不是說世界正在變好，而是說信徒與末後榮耀之間的距離，比初信那天更近了。這迫切感不是催逼恐慌，而是催逼清醒：既然屬乎白晝，就不該再穿夜裏的衣服。13:14的「披戴基督」呼應加拉太書3:27受洗那日一次性的「披戴基督」——保羅要羅馬的讀者明白，那一次性的身分，需要每一天重新活出來，成為每天早晨具體的抉擇：今天，我要為滿足肉體私慾定計劃，還是披戴基督？
 
@@ -5261,7 +4618,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 改革宗時期
 
-**馬丁·路德 (Martin Luther, 1483-1546) ——兩個國度的教義**：
+**馬丁·路德 (Martin Luther, 1483-1546)——兩個國度的教義**：
 
 路德在1523年的論著《論屬世的權柄：應當服從到甚麼程度》(*Temporal Authority: To What Extent It Should Be Obeyed*) 中，正是以羅馬書13章為根基，發展出他著名的「兩個國度」教義：神用兩種方式治理世界——藉著福音與聖靈治理教會（屬靈的國度），藉著律法與刀劍治理世上的秩序（屬世的國度）。兩者都出於神，卻不可混淆：教會不該用刀劍推行信仰，政權也不該僭越屬靈的職分。
 
@@ -5269,13 +4626,21 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》第四卷第二十章專論「公民政府」，肯定政權出於神的設立、應受尊重，但同時清楚劃出界線：當地上的掌權者「悖逆神、興起敵擋神」時，順服神必須優先於順服人——他引用使徒行傳5:29作結。加爾文的立場正是本章「背景」一節所強調的張力的經典神學表述：政權的權柄是被賦予的、有從屬性的，不是絕對的。
+加爾文在《基督教要義》第四卷第二十章專論「公民政府」，肯定政權出於神的設立、應受尊重，但同時清楚劃出界線：當地上的掌權者「悖逆神、興起敵擋神」時，順服神必須優先於順服人——他引用使徒行傳5:29作結。加爾文的立場正是本章「背景」一節所強調的張力的經典表述：政權的權柄是被賦予的、有從屬性的，不是絕對的。
 
 > 以上為加爾文《基督教要義》第四卷第二十章一貫論述精神之綜合轉述，非逐字引句。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+**從活祭到市場與稅單**：摩根一貫強調羅馬書的結構轉折——1-11章是教義（神所成就的），12-15章是倫理（信徒當如何回應）。13章正是這個轉折最具體的落地：12:1的「活祭」若只停留在主日崇拜的情感裏，就還沒有真正獻上；活祭必須延伸到納稅單、延伸到面對掌權者時的態度、延伸到與鄰舍的日常往來。真正的敬拜，是連稅務誠實都算在內的敬拜。
+
+**「神的用人」與以賽亞書的古列**：摩根常將13:4「神的用人」與以賽亞書45:1神稱波斯王古列為「我的受膏者」並讀——古列「不認識」耶和華（賽45:4），卻被神使用成就祂的計劃。這說明政權的權柄從不依賴掌權者自己是否認識神；神主權的安排超越掌權者本人的信仰狀態，這既是安慰（歷史不失控），也是警醒（無人可僭越神的主權）。
+
+**律法與愛的辯證**：摩根指出，13:8-10不是要廢掉十誡的具體誡命，而是指出誡命背後那唯一的動機源頭——愛若真實存在，姦淫、殺人、偷盜、貪婪這些行為根本無從發生；律法是外在的圍欄，愛是內在的泉源，圍欄本是為了還沒有泉源的人而設的。
+
+> 以上為 G. Campbell Morgan對羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述，非逐字引句、未附具體講題或頁碼。
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟一貫指出，羅馬書13章教導的政權觀，是神在墮落世界中維持公共秩序、抑制罪惡蔓延的普遍恩典安排；信徒對政權的順服，出於對神主權安排的信靠，而非對任何具體政權的政治認同——當政權的要求與神的命令直接衝突時，「順從神勝於順從人」的原則始終優先。
 
@@ -5283,33 +4648,29 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 72:1-4
 
-> 神啊，求你將判斷的權柄賜給王，
-> 將公義賜給王的兒子。
-> 他要按公義審判你的民，
-> 按公平審判你的困苦人。
-> 大山小山，都要因公義使民得享平安。
-> 他必為民中的困苦人申冤，
+> 神啊，求你將判斷的權柄賜給王， \
+> 將公義賜給王的兒子。 \
+> 他要按公義審判你的民， \
+> 按公平審判你的困苦人。 \
+> 大山小山，都要因公義使民得享平安。 \
+> 他必為民中的困苦人申冤， \
 > 拯救窮乏之輩，壓碎那欺壓人的。
 
-> Give the king your justice, O God,
-> and your righteousness to the royal son!
-> May he judge your people with righteousness,
-> and your poor with justice!
-> Let the mountains bear prosperity for the people,
-> and the hills, in righteousness!
-> May he defend the cause of the poor of the people,
-> give deliverance to the children of the needy,
-> and crush the oppressor!
+> Give the king Your judgments, O God, \
+> And Your righteousness to the king's son. \
+> May he judge Your people with righteousness \
+> And Your afflicted with justice. \
+> Let the mountains bring peace to the people, \
+> And the hills, in righteousness. \
+> May he vindicate the afflicted of the people, \
+> Save the children of the needy \
+> And crush the oppressor.
 
 這篇所羅門所作的禱告詞，為地上君王祈求神自己的公義——這正是羅馬書13章教導的另一面：政權若真正扮演神所託付的角色，理當為困苦人伸冤，而非壓迫他們。當政權背離這呼召，詩篇72篇提醒我們該為掌權者禱告甚麼，而不是絕望地放棄「掌權者也當屬神」的盼望。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### Soldiers of Christ, Arise
 
@@ -5326,52 +4687,17 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-**從活祭到市場與稅單**：摩根一貫強調羅馬書的結構轉折——1-11章是教義（神所成就的），12-15章是倫理（信徒當如何回應）。13章正是這個轉折最具體的落地：12:1的「活祭」若只停留在主日崇拜的情感裏，就還沒有真正獻上；活祭必須延伸到納稅單、延伸到面對掌權者時的態度、延伸到與鄰舍的日常往來。真正的敬拜，是連稅務誠實都算在內的敬拜。
-
-**「神的用人」與以賽亞書的古列**：摩根常將13:4「神的用人」與以賽亞書45:1神稱波斯王古列為「我的受膏者」並讀——古列「不認識」耶和華（賽45:4），卻被神使用成就祂的計劃。這說明政權的權柄從不依賴掌權者自己是否認識神；神主權的安排超越掌權者本人的信仰狀態，這既是安慰（歷史不失控），也是警醒（無人可僭越神的主權）。
-
-**律法與愛的辯證**：摩根指出，13:8-10不是要廢掉十誡的具體誡命，而是指出誡命背後那唯一的動機源頭——愛若真實存在，姦淫、殺人、偷盜、貪婪這些行為根本無從發生；律法是外在的圍欄，愛是內在的泉源，圍欄本是為了還沒有泉源的人而設的。
-
-> 以上為G. Campbell Morgan對羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述，非逐字引句、未附具體講題或頁碼。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**找主句：13:8是這整段的樞紐**：老弟兄慣常的查經方法，是先問「這一段拿掉哪一句話，其餘的就站不住？」在羅馬書13章，這句話是第8節：「愛人的，就完全了律法。」13:1-7講順服政權，是愛鄰舍、維護群體秩序的具體實踐之一；13:9-10講不姦淫、不殺人、不偷盜、不貪婪，是愛鄰舍在十誡上的具體展開；13:11-14講披戴基督、脫離暗昧，是愛得以真實發生的能力來源。三段看似不同的主題，其實都被第8節這一句話串起來。
-
-**字句叫人死，精義叫人活**：老弟兄常說，聖經懂得很多、規條守得再嚴的人，往往是最容易自高的人——因為字句本身無法產生生命，只能定人的罪（參林後3:6）。13:9把十誡中「不可」開頭的具體誡命一一列出，卻立刻說這一切「都包在『愛人如己』這一句話之內了」——這正是「精義」高於「字句」的活生生範例：不是廢掉十誡，是找到十誡真正指向的那個活的源頭。一個真正愛鄰舍的人，根本不需要被告誡「不可姦淫、不可殺人」，因為愛已經先一步排除了這些可能。
-
-**兩大國度框架下重讀13:1**：老弟兄一貫用「巴比倫（塔，高舉人名）vs 亞伯拉罕（壇，敬拜神名）」的框架看整本聖經的歷史。用這個框架重讀13:1「在上有權柄的，人人當順服他」，就更清楚保羅在說甚麼：地上的政權，正常情況下屬於神所設立、用以維持秩序的「壇」的延伸——不是自己封神的「塔」。當某個政權要求的，不再是維持公共秩序，而是要求人像敬拜神一樣敬拜它（如尼布甲尼撒的金像、如任何要求「順我者昌」的極權崇拜），它就從神所設立的「壇」變質成了自我高舉的「塔」——這時彼得在使徒行傳5:29的宣告才顯出它真正的份量：「我們必須順從神，勝於順從人。」
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Soldiers of Christ, Arise*（基督精兵，起來披甲，如前「配詩」所引）
-
-> Soldiers of Christ, arise,
-> And put your armor on,
-> Strong in the strength which God supplies
-> Through His eternal Son.
-
-**詩篇**：詩篇 72:1
-
-> 神啊，求你將判斷的權柄賜給王，將公義賜給王的兒子。
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：地上的權柄若真是神所立的秩序（壇），值得你正常的順服；若變質成要求你敬拜它的自我高舉（塔），你要記得彼得的話——但無論哪一種光景，你真正欠鄰舍的，只有一筆永遠還不清、也不該想還清的債：愛。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一句誡命，貫穿三約。利未記19:18「不可報仇，也不可埋怨你本國的子民，卻要愛鄰如己」，是摩西律法中一句容易被忽略的誡命；耶穌在馬太福音22:37-40被問「律法上的誡命，哪一條是最大的」時，把這句話與申命記6:5「盡心、盡性、盡意愛主你的神」並列，宣告「這兩條誡命是律法和先知一切道理的總綱」；保羅在羅馬書13:9-10再次引用利未記19:18，作為十誡具體條文的「總括」。從摩西到耶穌到保羅，這句話沒有被取代，是被不斷確認為律法的核心。
+**「愛鄰如己」總綱線**：利未記19:18「不可報仇，也不可埋怨你本國的子民，卻要愛人如己」，是摩西律法中一句容易被忽略的誡命；耶穌在馬太福音22:37-40被問「律法上的誡命，哪一條是最大的」時，把這句話與申命記6:5「盡心、盡性、盡意愛主你的神」並列，宣告「這兩條誡命是律法和先知一切道理的總綱」；保羅在羅馬書13:9-10再次引用利未記19:18，作為十誡具體條文的「總括」。從摩西到耶穌到保羅，這句話沒有被取代，是被不斷確認為律法的核心。
 
-再往下一條線：加拉太書3:27「你們受洗歸入基督的都是披戴基督了」，是受洗那一天一次性宣告的身分；羅馬書13:14「總要披戴基督」，用的是同一個希臘動詞（*endyō*），此處為不定過去式（aorist）中間語態的命令（ἐνδύσασθε）——在13:11-14「該趁早睡醒」的清晨脈絡裏，呼召已經受洗、已經披戴過基督的人，把那一次領受的身分重新穿上、天天活出來。受洗是一次的，披戴是每天的。
+**「披戴基督」線**：加拉太書3:27「你們受洗歸入基督的都是披戴基督了」，是受洗那一天一次性宣告的身分；羅馬書13:14「總要披戴基督」，用的是同一個希臘動詞（*endyō*），此處為不定過去式（aorist）中間語態的命令（ἐνδύσασθε）——在13:11-14「該趁早睡醒」的清晨脈絡裏，呼召已經受洗、已經披戴過基督的人，把那一次領受的身分重新穿上、天天活出來。受洗是一次的，披戴是每天的。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -5384,7 +4710,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天「在上有權柄的」，不再只是可以申訴、可以問責的官員——越來越多決定人日常命運的「掌權者」，是一套外人看不懂、也無從對話的演算法：貸款是否核准、履歷是否被人看見、貼文是否被下架，都可能由一個黑箱模型判定。保羅描述的掌權者，本該是「做官的原不是叫行善的懼怕，乃是叫作惡的懼怕……他不是空空地佩劍……是申冤的，刑罰那作惡的」（13:3-4）——一個以看得見的公義為運作邏輯、原則上可以被追問「你憑甚麼」的秩序。演算法式的「掌權」卻常相反：判準是黑箱的，你不知道自己被甚麼標準論斷，也無處喊冤。
+今天「在上有權柄的」，不再只是可以申訴、可以問責的官員——越來越多決定人日常命運的「掌權者」，是一套外人看不懂、也無從對話的演算法：貸款是否核准、履歷是否被人看見、貼文是否被下架，都可能由一個黑箱模型判定。保羅描述的掌權者，本該是「作官的原不是叫行善的懼怕，乃是叫作惡的懼怕……他不是空空地佩劍……是申冤的，刑罰那作惡的」（13:3-4）——一個以看得見的公義為運作邏輯、原則上可以被追問「你憑甚麼」的秩序。演算法式的「掌權」卻常相反：判準是黑箱的，你不知道自己被甚麼標準論斷，也無處喊冤。
 
 這不是說教會可以拿這一點當作不順服的藉口——13:1「在上有權柄的，人人當順服他」的教導沒有廢去；而是提醒教會：當「掌權者」從有血有肉、原則上可被問責的官員，變成連「行善行惡」都說不清楚的系統，13章教導的「順服」，需要格外清醒地分辨兩件事——秩序本身出於神，與執行秩序者是否仍配得「神的用人」之名，不能混為一談。
 
@@ -5394,17 +4720,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天在對掌權者（政府、上司、平台）的態度上，我的順服出於懼怕，還是出於清潔的良心？
 - **一個行動**：今天具體地向一位鄰舍還一筆「愛的債」——不是道德義務式的還債，是主動去做一件他需要、你原可以不做的事。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：地上的權柄若真是神所立的秩序（壇），值得你正常的順服；若變質成要求你敬拜它的自我高舉（塔），你要記得彼得的話——但無論哪一種光景，你真正欠鄰舍的，只有一筆永遠還不清、也不該想還清的債：愛。
-
-**貫通全經**：利未記19:18的「愛鄰如己」，耶穌宣告為律法和先知的總綱（太22:37-40），保羅在羅馬書13:9-10再次確認——一句誡命，貫穿摩西、基督、使徒。
-
-**無法迴避的問題**：「你今天早上『穿上』的，是基督，還是滿足肉體私慾的計劃？」
-
 > 「字句叫人死，精義叫人活。十誡列出『不可』的清單，是為了那還沒有愛的人；有了愛，清單自然成全，不是廢掉。」
+
+**你看見耶穌了嗎**：保羅在這一章沒有直接提耶穌的名字，然而全章的重量都壓在祂身上——「凡掌權的都是神所命的」能站立得住，是因為那位「一切權柄都賜給我了」的基督，才是真正配得無條件順服的萬王之王。13:14「總要披戴主耶穌基督」，是保羅把12:1「將身體獻上，當作活祭」具體化到每一個清晨：你今天穿上的，是誰？愛人如己，只有在祂裏面才不是苛求，而是披戴上一位已經完全活出這愛的主。你看見祂了嗎？
 
 ---
 
@@ -5417,8 +4735,6 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 2. **我虧欠鄰舍的債**：13:8說唯一該欠、且永遠還不完的債是愛。我這週有沒有一筆「愛的債」還沒還——一通該打的電話、一個該饒恕的人、一件該主動去做的事？
 
 3. **字句還是精義**：我遵守的誡命，是出於外在規條的懼怕，還是出於裏面那被聖靈澆灌的愛（5:5）自然流出的結果？
-
-4. **每天的披戴**：13:14要我「總要」披戴基督——不是一次的宗教經歷，是每天的抉擇。我今天早晨，有沒有具體地把主權交給祂？
 
 ### 禱告回應
 
@@ -5433,21 +4749,19 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 「凡掌權的都是神所命的」（13:1）與「我們必須順從神，勝於順從人」（徒5:29）如何同時成立？請結合但以理書3、6章與出埃及記1章的例子說明。
-
-2. 保羅稱掌權者為神的「用人」（*diakonos*，13:4）與「差役」（*leitourgos*，13:6），這兩個字在教會裏另有甚麼用途？這個用字選擇對我們看待「屬世職分」有甚麼提醒？
-
-3. 13:8-10如何回答羅馬書7章「我所願意的善，我不做」的絕望？愛與聖靈的工作（8章）之間有甚麼關係？
-
-4. 奧古斯丁在花園裏聽見「拿起來，讀」，翻開的正是羅馬書13:13-14。為甚麼這段經文——而不是別的經文——能在那一刻擊碎他多年的猶豫？
-
-5. 「披戴基督」（13:14）與受洗時的「披戴基督」（加3:27）用的是同一個動詞。這對「重生後仍要每天披戴」提醒了甚麼？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 政權的合法性與其界限：順服神優先於順服人 | 13:1, 13:5 | 徒5:29、但3章、但6章、出1:15-21 |
+| 「愛鄰如己」總綱：貫穿摩西、基督、使徒 | 13:9-10 | 利19:18、太22:37-40 |
+| 披戴基督：受洗一次性的身分，天天活出 | 13:14 | 加3:27、弗6:11 |
+| 政權作為神的用人：與波斯王古列的類比 | 13:4, 13:6 | 賽45:1、賽45:4 |
+| 愛是律法的總結，回答羅馬書七章的絕望 | 13:8-10 | 羅7:19、羅8:2、羅5:5 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論與神學框架、John MacArthur (gty.org)、G. Campbell Morgan——本章老弟兄部分為查經方法論之忠實應用，非逐字歷史引句，詳見正文「出處」說明。*
+*本章研讀整合三方資源：老弟兄查經方法論與領受框架、John MacArthur (gty.org)、G. Campbell Morgan——本章老弟兄部分為查經方法論之忠實應用，非逐字歷史引句，詳見正文「出處」說明。*
 
 
 \newpage
@@ -5457,54 +4771,58 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 14:1-23
 
----
+**經文核對**：[ai-eden.com/bible/romans/14](https://www.ai-eden.com/bible/romans/14?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-12-13章教導基督徒如何活祭獻己、如何順服掌權者；14章轉向教會內部一個更難處理的角落——弟兄姊妹在「非本質」的事上意見不同，該怎麼辦？保羅沒有先給規則，而是先把焦點拉回基督：吃的人「是為主吃的」，不吃的人「是為主不吃的」；守日子的「是為主守的」；「我們或死或活總是主的人」（14:6-8）。祂不只是教義的中心，更是每一個尋常抉擇——今天吃甚麼、今天怎麼安排時間——的主。祂死而復活，「為要作死人和活人的主」（14:9）；祂是那審判台前的主（14:10），也是那位「為他死」的主（14:15）。這一章沒有一句直接講十字架的教義句，卻句句都在說：基督的主權夠大，大到可以掌管一頓飯；基督的愛夠深，深到一個「軟弱」的弟兄也值得祂的死。
+> **本章鑰詞：出於信心 Ek Pisteōs** \
+> **全書坐標**：14章屬於「活祭」書卷（12:1-15:13）——12-13章教導活祭獻己、順服掌權，14章把全書主題句「本於信，以致於信」（1:17）落實到教會內部飲食、日子這類非本質之事的具體操練上；14:23「凡不出於信心的都是罪」，正是這個主題句走進一頓尋常飯桌的迴響。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
+
+12-13章教導基督徒如何活祭獻己、如何順服掌權者；14章轉向教會內部一個更難處理的角落——弟兄姊妹在「非本質」的事上意見不同，該怎麼辦？保羅沒有先給規則，而是先把焦點拉回基督：吃的人「是為主吃的」，不吃的人「是為主不吃的」；守日子的「是為主守的」；「我們或活或死，總是主的人」（14:6-8）。祂不只是教義的中心，更是每一個尋常抉擇——今天吃甚麼、今天怎麼安排時間——的主。祂死而復活，「為要作死人並活人的主」（14:9）；祂是那審判台前的主（14:10），也是那位「為他死」的主（14:15）。這一章沒有一句直接講十字架的教義句，卻句句都在說：基督的主權夠大，大到可以掌管一頓飯；基督的愛夠深，深到一個「軟弱」的弟兄也值得祂的死。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **Blest Be the Tie That Binds**
+> **Blest Be the Tie That Binds** \
 > *John Fawcett, 1782*
 >
-> Blest be the tie that binds
-> Our hearts in Christian love;
-> The fellowship of kindred minds
+> Blest be the tie that binds \
+> Our hearts in Christian love; \
+> The fellowship of kindred minds \
 > Is like to that above.
 >
-> Before our Father's throne
-> We pour our ardent prayers;
-> Our fears, our hopes, our aims are one,
+> Before our Father's throne \
+> We pour our ardent prayers; \
+> Our fears, our hopes, our aims are one, \
 > Our comforts and our cares.
 >
-> We share our mutual woes,
-> Our mutual burdens bear;
-> And often for each other flows
+> We share our mutual woes, \
+> Our mutual burdens bear; \
+> And often for each other flows \
 > The sympathizing tear.
 >
-> When we asunder part,
-> It gives us inward pain;
-> But we shall still be joined in heart,
+> When we asunder part, \
+> It gives us inward pain; \
+> But we shall still be joined in heart, \
 > And hope to meet again.
 
 > 中文意譯（本書譯文，非特定聖詩集之逐字引用）：
 >
-> 何等寶貴的聯繫，
-> 將我們的心繫在基督的愛裏；
-> 這相親相愛的團契，
+> 何等寶貴的聯繫， \
+> 將我們的心繫在基督的愛裏； \
+> 這相親相愛的團契， \
 > 如同天上的相交。
 >
-> 在天父的寶座前，
-> 我們同心切切禱告；
-> 我們的懼怕、盼望、目標一致，
+> 在天父的寶座前， \
+> 我們同心切切禱告； \
+> 我們的懼怕、盼望、目標一致， \
 > 我們的安慰、我們的憂慮相通。
 >
-> 我們分擔彼此的哀愁，
-> 一同背負彼此的重擔；
-> 常為對方流下，
+> 我們分擔彼此的哀愁， \
+> 一同背負彼此的重擔； \
+> 常為對方流下， \
 > 那體恤的眼淚。
 
 ---
@@ -5513,33 +4831,33 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 中文 — 和合本 (CUV)
 
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
+
 > \textsuperscript{1}信心軟弱的，你們要接納，但不要辯論所疑惑的事。\textsuperscript{2}有人信百物都可吃，但那軟弱的只吃蔬菜。\textsuperscript{3}吃的人不可輕看不吃的人，不吃的人不可論斷吃的人，因為神已經收納他了。\textsuperscript{4}你是誰，竟論斷別人的僕人呢？他或站住，或跌倒，自有他的主人在；而且他也必要站住，因為主能使他站住。
 
-> \textsuperscript{5}有人看這日比那日強，有人看日日都是一樣，只是各人心裏要意見堅定。\textsuperscript{6}守日的人是為主守的；吃的人是為主吃的，因他感謝神；不吃的人是為主不吃的，也感謝神。**\textsuperscript{7}我們沒有一個人為自己活，也沒有一個人為自己死。\textsuperscript{8}我們若活著，是為主而活；若死了，是為主而死。所以，我們或活或死，總是主的人。**\textsuperscript{9}因此基督死了，又活了，為要做死人並活人的主。
+> \textsuperscript{5}有人看這日比那日強，有人看日日都是一樣，只是各人心裏要意見堅定。\textsuperscript{6}守日的人是為主守的；吃的人是為主吃的，因他感謝神；不吃的人是為主不吃的，也感謝神。**\textsuperscript{7}我們沒有一個人為自己活，也沒有一個人為自己死。\textsuperscript{8}我們若活著，是為主而活；若死了，是為主而死。所以，我們或活或死，總是主的人。**\textsuperscript{9}因此基督死了，又活了，為要作死人並活人的主。
 
 > \textsuperscript{10}你這個人，為甚麼論斷弟兄呢？又為甚麼輕看弟兄呢？因我們都要站在神的臺前。\textsuperscript{11}經上寫著：「主說：『我憑著我的永生起誓：萬膝必向我跪拜，萬口必向我承認。』」\textsuperscript{12}這樣看來，我們各人必要將自己的事在神面前說明。
 
-> \textsuperscript{13}所以，我們不可再彼此論斷，寧可定意誰也不給弟兄放下絆腳跌人之物。\textsuperscript{14}我憑著主耶穌確知深信：凡物本來沒有不潔淨的；唯獨人以為不潔淨的，在他就不潔淨了。\textsuperscript{15}你若因食物叫弟兄憂愁，就不是按著愛人的道理行。基督已經替他死，你不可因你的食物叫他敗壞。\textsuperscript{16}不可叫你的善被人毀謗。
+> \textsuperscript{13}所以，我們不可再彼此論斷，寧可定意誰也不給弟兄放下絆腳跌人之物。\textsuperscript{14}我憑著主耶穌確知深信：凡物本來沒有不潔淨的；惟獨人以為不潔淨的，在他就不潔淨了。\textsuperscript{15}你若因食物叫弟兄憂愁，就不是按著愛人的道理行。基督已經替他死，你不可因你的食物叫他敗壞。\textsuperscript{16}不可叫你的善被人毀謗。
 
 > **\textsuperscript{17}因為神的國不在乎吃喝，只在乎公義、和平並聖靈中的喜樂。**\textsuperscript{18}在這幾樣上服侍基督的，就為神所喜悅，又為人所稱許。\textsuperscript{19}所以，我們務要追求和睦的事與彼此建立德行的事。
 
 > \textsuperscript{20}不可因食物毀壞神的工程。凡物固然潔淨，但有人因食物叫人跌倒，就是他的罪了。\textsuperscript{21}無論是吃肉，是喝酒，是甚麼別的事，叫弟兄跌倒，一概不做才好。\textsuperscript{22}你有信心，就當在神面前守著。人在自己以為可行的事上能不自責，就有福了。**\textsuperscript{23}若有疑心而吃的，就必有罪，因為他吃不是出於信心；凡不出於信心的都是罪。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com（現代標點和合本）逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> \textsuperscript{1}Now accept the one who is weak in faith, *but* not for *the purpose of* passing judgment on his opinions. \textsuperscript{2}One person has faith that he may eat all things, but he who is weak eats vegetables *only.* \textsuperscript{3}The one who eats is not to regard with contempt the one who does not eat, and the one who does not eat is not to judge the one who eats, for God has accepted him. \textsuperscript{4}Who are you to judge the servant of another? To his own master he stands or falls; and he will stand, for the Lord is able to make him stand.
 
-> \textsuperscript{1}As for the one who is weak in faith, welcome him, but not to quarrel over opinions. \textsuperscript{2}One person believes he may eat anything, while the weak person eats only vegetables. \textsuperscript{3}Let not the one who eats despise the one who abstains, and let not the one who abstains pass judgment on the one who eats, for God has welcomed him. \textsuperscript{4}Who are you to pass judgment on the servant of another? It is before his own master that he stands or falls. And he will be upheld, for the Lord is able to make him stand.
+> \textsuperscript{5}One person regards one day above another, another regards every day *alike.* Each person must be fully convinced in his own mind. \textsuperscript{6}He who observes the day, observes it for the Lord, and he who eats, does so for the Lord, for he gives thanks to God; and he who eats not, for the Lord he does not eat, and gives thanks to God. **\textsuperscript{7}For not one of us lives for himself, and not one dies for himself; \textsuperscript{8}for if we live, we live for the Lord, or if we die, we die for the Lord; therefore whether we live or die, we are the Lord's.** \textsuperscript{9}For to this end Christ died and lived again, that He might be Lord both of the dead and of the living.
 
-> \textsuperscript{5}One person esteems one day as better than another, while another esteems all days alike. Each one should be fully convinced in his own mind. \textsuperscript{6}The one who observes the day, observes it in honor of the Lord. The one who eats, eats in honor of the Lord, since he gives thanks to God, while the one who abstains, abstains in honor of the Lord and gives thanks to God. **\textsuperscript{7}For none of us lives to himself, and none of us dies to himself. \textsuperscript{8}For if we live, we live to the Lord, and if we die, we die to the Lord. So then, whether we live or whether we die, we are the Lord's.** \textsuperscript{9}For to this end Christ died and lived again, that he might be Lord both of the dead and of the living.
+> \textsuperscript{10}But you, why do you judge your brother? Or you again, why do you regard your brother with contempt? For we will all stand before the judgment seat of God. \textsuperscript{11}For it is written, "AS I LIVE, SAYS THE LORD, EVERY KNEE SHALL BOW TO ME, AND EVERY TONGUE SHALL GIVE PRAISE TO GOD." \textsuperscript{12}So then each one of us will give an account of himself to God.
 
-> \textsuperscript{10}Why do you pass judgment on your brother? Or you, why do you despise your brother? For we will all stand before the judgment seat of God. \textsuperscript{11}For it is written, "As I live, says the Lord, every knee shall bow to me, and every tongue shall confess to God." \textsuperscript{12}So then each of us will give an account of himself to God.
+> \textsuperscript{13}Therefore let us not judge one another anymore, but rather determine this—not to put an obstacle or a stumbling block in a brother's way. \textsuperscript{14}I know and am convinced in the Lord Jesus that nothing is unclean in itself; but to him who thinks anything to be unclean, to him it is unclean. \textsuperscript{15}For if because of food your brother is hurt, you are no longer walking according to love. Do not destroy with your food him for whom Christ died. \textsuperscript{16}Therefore do not let what is for you a good thing be spoken of as evil;
 
-> \textsuperscript{13}Therefore let us not pass judgment on one another any longer, but rather decide never to put a stumbling block or hindrance in the way of a brother. \textsuperscript{14}I know and am persuaded in the Lord Jesus that nothing is unclean in itself, but it is unclean for anyone who thinks it unclean. \textsuperscript{15}For if your brother is grieved by what you eat, you are no longer walking in love. By what you eat, do not destroy the one for whom Christ died. \textsuperscript{16}So do not let what you regard as good be spoken of as evil.
+> **\textsuperscript{17}for the kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit.** \textsuperscript{18}For he who in this *way* serves Christ is acceptable to God and approved by men. \textsuperscript{19}So then we pursue the things which make for peace and the building up of one another.
 
-> **\textsuperscript{17}For the kingdom of God is not a matter of eating and drinking but of righteousness and peace and joy in the Holy Spirit.** \textsuperscript{18}Whoever thus serves Christ is acceptable to God and approved by men. \textsuperscript{19}So then let us pursue what makes for peace and for mutual upbuilding.
-
-> \textsuperscript{20}Do not, for the sake of food, destroy the work of God. Everything is indeed clean, but it is wrong for anyone to make another stumble by what he eats. \textsuperscript{21}It is good not to eat meat or drink wine or do anything that causes your brother to stumble. \textsuperscript{22}The faith that you have, keep between yourself and God. Blessed is the one who has no reason to pass judgment on himself for what he approves. **\textsuperscript{23}But whoever has doubts is condemned if he eats, because the eating is not from faith. For whatever does not proceed from faith is sin.**
+> \textsuperscript{20}Do not tear down the work of God for the sake of food. All things indeed are clean, but they are evil for the man who eats and gives offense. \textsuperscript{21}It is good not to eat meat or to drink wine, or *to do anything* by which your brother stumbles. \textsuperscript{22}The faith which you have, have as your own conviction before God. Happy is he who does not condemn himself in what he approves. **\textsuperscript{23}But he who doubts is condemned if he eats, because *his eating is* not from faith; and whatever is not from faith is sin.**
 
 ---
 
@@ -5553,27 +4871,20 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬教會並非由使徒直接建立，其會眾組成很可能同時包括猶太裔信徒與外邦裔信徒——這是研究羅馬書14-15章時最普遍被接受的歷史重建，本節如實以「一般學界看法」呈現，不作定論式的斷言。
 
-一個常被提出的背景線索是：羅馬皇帝革老丟（Claudius）約於主後49年下令將猶太人逐出羅馬城——此事件本身有羅馬史家蘇埃托尼烏斯（Suetonius）《革老丟傳》25.4的記載為據，並與使徒行傳18:2「有一個猶太人，名叫亞居拉……因為革老丟命猶太人都離開羅馬」的記載相互印證，屬真實可考的歷史事件。革老丟於主後54年去世後，猶太人（包括猶太裔信徒）陸續返回羅馬——此時羅馬教會的實際領導與多數會眾組成，很可能已在外邦信徒手中穩定了五年之久。不少研究羅馬書的學者（如研究早期羅馬教會社會史的學者彼得·蘭普〔Peter Lampe〕等）據此推測，14章的張力很可能正反映了這個返城猶太信徒群體，重新融入一個已由外邦信徒主導的教會時所產生的真實摩擦——這是一個有歷史線索支持、但無法百分之百確證的重建，本書按學術誠實原則，只以「很可能」「一般認為」表述，不作過度肯定的歷史宣稱。
+一個常被提出的背景線索是：羅馬皇帝革老丟（Claudius）約於主後49年下令將猶太人逐出羅馬城——此事件本身有羅馬史家蘇埃托尼烏斯（Suetonius）《革老丟傳》25.4的記載為據，並與使徒行傳18:2「有一個猶太人，名叫亞居拉……因為革老丟命猶太人都離開羅馬」的記載相互印證，屬真實可考的歷史事件。革老丟於主後54年去世後，猶太人（包括猶太裔信徒）陸續返回羅馬——此時羅馬教會的實際領導與多數會眾組成，很可能已在外邦信徒手中穩定了五年之久。不少研究羅馬書的學者（如研究早期羅馬教會社會史的學者彼得·蘭普 (Peter Lampe) 等）據此推測，14章的張力很可能正反映了這個返城猶太信徒群體，重新融入一個已由外邦信徒主導的教會時所產生的真實摩擦——這是一個有歷史線索支持、但無法百分之百確證的重建，本書按學術誠實原則，只以「很可能」「一般認為」表述，不作過度肯定的歷史宣稱。
 
-### 「吃」的爭議：兩種可能同時存在的關切
+### 「吃」與「日子」的爭議：兩種具體處境
 
-保羅沒有明說軟弱者為何「只吃蔬菜」，釋經傳統上通常提出兩種、且可能同時並存的關切：
+保羅沒有明說軟弱者為何「只吃蔬菜」，釋經傳統上通常提出兩種、且可能同時並存的關切：**猶太潔淨律法**——猶太裔信徒承襲摩西律法對潔淨與不潔淨食物的區分（利未記11章），即使在基督裏，這樣的良心習慣未必立刻消失；**祭偶像之物**——羅馬城市集（*macellum*）出售的肉類，相當一部分可能來自異教祭祀後轉售的肉，這正是保羅在哥林多前書8-10章處理的同一類問題，對敬拜過偶像的外邦信徒而言，這樣的肉可能觸動良心的記憶。這兩者未必互相排斥，很可能是同一批「軟弱」的信徒身上同時存在的顧慮。
 
-1. **猶太潔淨律法**：猶太裔信徒承襲摩西律法對潔淨與不潔淨食物的區分（利未記11章），即使在基督裏，這樣的良心習慣未必立刻消失。
-2. **祭偶像之物**：羅馬城市集（*macellum*）出售的肉類，相當一部分可能來自異教祭祀後轉售的肉——這正是保羅在哥林多前書8-10章處理的同一類問題，對敬拜過偶像的外邦信徒而言，這樣的肉可能觸動良心的記憶。
-
-這兩者未必互相排斥，很可能是同一批「軟弱」的信徒身上同時存在的顧慮。
-
-### 「日子」的爭議
-
-「有人看這日比那日強」最普遍的理解是猶太裔信徒仍持守安息日與猶太節期的曆法，「看日日都是一樣」則是外邦信徒沒有這樣的曆法背景。保羅的處理方式值得注意：他沒有裁定哪一方「對」，而是說「各人要在自己的心意上堅定」——這節經文，連同歌羅西書2:16「所以，不拘在飲食上，或節期、月朔、安息日都不可讓人論斷你們」，是新約中最直接處理「非本質規條」自由問題的兩段經文。
+「日子」的爭議則最普遍理解為猶太裔信徒仍持守安息日與猶太節期的曆法，「看日日都是一樣」則是外邦信徒沒有這樣的曆法背景。保羅的處理方式值得注意：他沒有裁定哪一方「對」，而是說「各人要在自己的心意上堅定」——這節經文，連同歌羅西書2:16「所以，不拘在飲食上，或節期、月朔、安息日都不可讓人論斷你們」，是新約中最直接處理「非本質規條」自由問題的兩段經文。
 
 ---
 
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | ἀσθενοῦντα τῇ πίστει | asthenounta tē pistei | 信心軟弱的 | 14:1，指良心自由尚未鬆開的人，而非信心不真實的人 |
 | διακρίσεις διαλογισμῶν | diakriseis dialogismōn | 辨明意見的爭論 | 14:1，字面「意見的裁斷」——保羅要接納軟弱者，卻不是為了跟他辯論、裁定誰對誰錯 |
 | κοινός | koinos | 俗、不潔 | 14:14，與 *katharos*（潔淨）相對，14:20又說「一切都是潔淨的」，前後呼應 |
@@ -5584,7 +4895,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### *koinos* 與 14:14-15 的張力
 
-保羅一方面「憑着主耶穌確知深信，凡物本來沒有不潔淨的」（14:14）——這是他自己堅定的神學立場，也呼應了耶穌在馬可福音7:19「潔淨了一切的食物」的宣告；但同一節的下半句立刻補上：「除非人以為不潔淨的，在他就不潔淨了」。這不是自相矛盾，而是保羅區分了兩個層次：物本身的客觀性質（不潔淨已被廢除），與個人良心的主觀狀態（良心若還沒有被更新，勉強違背良心去吃，對那人而言仍是犯罪）。這正是14:22-23「出於信心」原則的鋪墊。
+保羅一方面「憑著主耶穌確知深信，凡物本來沒有不潔淨的」（14:14）——這是他自己堅定的立場，也呼應了耶穌在馬可福音7:19「潔淨了一切的食物」的宣告；但同一節的下半句立刻補上：「惟獨人以為不潔淨的，在他就不潔淨了」。這不是自相矛盾，而是保羅區分了兩個層次：物本身的客觀性質（不潔淨已被廢除），與個人良心的主觀狀態（良心若還沒有被更新，勉強違背良心去吃，對那人而言仍是犯罪）。這正是14:22-23「出於信心」原則的鋪墊。
 
 ### *bēma* 的畫面
 
@@ -5592,31 +4903,23 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 非本質之事：一個真實卻常被忽略的聖經類別
+### 1. 非本質之事：憑良心而行的原則 (14:1, 22-23)
 
-保羅接納「信心軟弱的」，卻明說「不要辯論所疑惑的事」（14:1）——這句話劃出了一條界線：有些事是福音的核心，不容讓步（如3:21-26因信稱義的教義）；有些事是良心可以自由持守的個人領受（如吃甚麼、守不守某些日子）。這一章（連同哥林多前書8-10章）是基督教倫理史上「非本質之事」（adiaphora，「無關緊要之事」）這個長久存在的類別最主要的聖經根據——歷代不同宗派對哪些事屬於這個類別容或有不同判斷，但「存在這樣一個類別」這件事本身，正是羅馬書14章確立的。
+保羅接納「信心軟弱的」，卻明說「不要辯論所疑惑的事」（14:1）——這句話劃出了一條界線：有些事是福音的核心，不容讓步（如3:21-26因信稱義的教義）；有些事是良心可以自由持守的個人領受（如吃甚麼、守不守某些日子）。這一章（連同哥林多前書8-10章）是基督教倫理史上「非本質之事」（adiaphora，「無關緊要之事」）這個長久存在的類別最主要的聖經根據——歷代不同宗派對哪些事屬於這個類別容或有不同判斷，但「存在這樣一個類別」這件事本身，正是羅馬書14章確立的。**14:23是全章的結論句**：「凡不出於信心的都是罪。」這句話的精微之處，在於它不是說某件事客觀上是罪或不是罪，而是說：一個人若違背自己尚未得自由的良心去行一件事——即使那件事本身中性、甚至在保羅看來根本「沒有不潔淨」——對那個人而言，仍然構成犯罪，因為他行動的根源不是信心的確信，而是勉強、猶疑、討好或屈服。這節經文提醒剛強的人：不要用你的自由，逼軟弱的弟兄去做他良心尚未預備好要做的事——那不是幫助他自由，而是叫他犯罪。
 
 ### 2. 基督對日常生活的完全主權（14:6-9）
 
-**14:7-8是全章的重心句**：「我們沒有一個人為自己而活，也沒有一個人為自己而死……我們或死或活總是主的人。」這句話的驚人之處，不在於它宣告了甚麼宏大的教義，而在於它把「主權」延伸進了最瑣碎的日常——吃甚麼、守不守某個日子。多數信徒容易把「屬靈的事」與「日常的事」分成兩個抽屜，以為主權只管前者；保羅卻說：連一頓飯，也是「為主吃的」。14:9進一步說明這主權的來源——「基督死了，又活了，為要作死人和活人的主」——祂的主權不是靠強加而來，是靠死而復活「贏得」的，這使祂配得掌管一切，包括最微小的抉擇。
+**14:7-8是全章的重心句**：「我們沒有一個人為自己而活，也沒有一個人為自己而死……我們或活或死，總是主的人。」這句話的驚人之處，不在於它宣告了甚麼宏大的教義，而在於它把「主權」延伸進了最瑣碎的日常——吃甚麼、守不守某個日子。多數信徒容易把「屬靈的事」與「日常的事」分成兩個抽屜，以為主權只管前者；保羅卻說：連一頓飯，也是「為主吃的」。14:9進一步說明這主權的來源——「基督死了，又活了，為要作死人和活人的主」——祂的主權不是靠強加而來，是靠死而復活「贏得」的，這使祂配得掌管一切，包括最微小的抉擇。
 
 ### 3. 論斷的雙向警告與審判臺前的謙卑（14:10-12）
 
 保羅同時對兩種人說話：「你這個人，為甚麼論斷弟兄呢？」（對嚴謹守規條、容易論斷自由者的一方說）「又為甚麼輕看弟兄呢？」（對自由、容易輕視守規條者的一方說）。兩種罪，方向相反，根源相同——都是把自己放在了神的審判臺前那個位置上。14:11引用以賽亞書45:23，這節經文在腓立比書2:10-11用來描述萬膝要向耶穌基督下拜——保羅在此把它用在神身上，反映他對父神與子神榮耀身分之緊密關聯的理解。既然「我們各人一定要把自己的事在神面前交代」（14:12），論斷弟兄，其實是搶了一個不屬於自己的位置。
 
-### 4. 一個弟兄的價值，用基督的死來衡量（14:14-15）
+### 4. 一個弟兄的價值與神的國度的本質（14:14-17）
 
-**14:15是全章神學重量最大的一句**：「基督已經為他死，你不可因你的食物使他敗壞。」保羅沒有說「不要讓一頓飯毀了教會的和睦」這種功能性的理由，他給的理由是基督論式的（christological）——這位軟弱的弟兄，基督曾經為他捨命。用一頓飯去傷害一個基督用生命買贖的人，等於用微不足道的自由，去輕看那不可估量的十字架代價。這是新約中對「一個普通信徒的價值」最高的一句陳述之一——不是因為他的知識、恩賜或屬靈成熟度，而是因為基督為他死了。
-
-### 5. 神的國不在飲食，而在公義、和平、聖靈中的喜樂（14:17）
-
-**這是全章最常被引用、卻也最容易被表面化理解的一句**。保羅不是說飲食完全不重要，而是重新定位神的國的本質——神的國不是靠外在規條的整齊劃一來彰顯，而是靠聖靈所結的生命品格彰顯。值得注意的是，「公義、和平、喜樂」與加拉太書5:22-23「聖靈的果子」（仁愛、喜樂、和平、忍耐、恩慈、良善、信實、溫柔、節制）高度重疊——這暗示：真正解決「軟弱與剛強」之爭的，不是誰的規條系統更正確，而是聖靈是否真的在雙方生命中結出了公義、和平、喜樂的果子。一個對規條無比精確、卻論斷弟兄的「剛強者」，聖靈的果子未必比一個守規條卻心存愛的「軟弱者」更多。
-
-### 6. 憑信心而行：良心的原則（14:22-23）
-
-**14:23是全章的結論句**：「凡不出於信心的都是罪。」這句話的精微之處，在於它不是說某件事客觀上是罪或不是罪，而是說：一個人若違背自己尚未得自由的良心去行一件事——即使那件事本身中性、甚至在保羅看來根本「沒有不潔淨」——對那個人而言，仍然構成犯罪，因為他行動的根源不是信心的確信，而是勉強、猶疑、討好或屈服。這節經文提醒剛強的人：不要用你的自由，逼軟弱的弟兄去做他良心尚未預備好要做的事——那不是幫助他自由，而是叫他犯罪。
+**14:15是全章份量最重的一句**：「基督已經為他死，你不可因你的食物使他敗壞。」保羅沒有說「不要讓一頓飯毀了教會的和睦」這種功能性的理由，他給的理由是基督論式的（christological）——這位軟弱的弟兄，基督曾經為他捨命。用一頓飯去傷害一個基督用生命買贖的人，等於用微不足道的自由，去輕看那不可估量的十字架代價。這是新約中對「一個普通信徒的價值」最高的一句陳述之一——不是因為他的知識、恩賜或屬靈成熟度，而是因為基督為他死了。**14:17是全章最常被引用、卻也最容易被表面化理解的一句**：「神的國不在乎吃喝，只在乎公義、和平並聖靈中的喜樂。」保羅不是說飲食完全不重要，而是重新定位神的國的本質——神的國不是靠外在規條的整齊劃一來彰顯，而是靠聖靈所結的生命品格彰顯。值得注意的是，「公義、和平、喜樂」與加拉太書5:22-23「聖靈的果子」（仁愛、喜樂、和平、忍耐、恩慈、良善、信實、溫柔、節制）高度重疊——這暗示：真正解決「軟弱與剛強」之爭的，不是誰的規條系統更正確，而是聖靈是否真的在雙方生命中結出了公義、和平、喜樂的果子。一個對規條無比精確、卻論斷弟兄的「剛強者」，聖靈的果子未必比一個守規條卻心存愛的「軟弱者」更多。
 
 ---
 
@@ -5633,36 +4936,42 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：加爾文在他對羅馬書的解經傳統中一貫強調，14:1「不要辯論所疑惑的事」劃出了教會紀律的重要界線——並非一切分歧都值得、或應當帶進公開的爭論，教會領袖必須有智慧分辨哪些是信仰的根基、哪些是良心可以自由持守的次要之事；他也一貫指出14:23「凡不出於信心的都是罪」教導的是一個普遍原則——凡不是出於對神真確信靠而做的事，無論這事本身好壞，對行事的人而言都帶有虧欠神的性質。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
+
+摩根一貫將14章與13章的政權服從教導並列閱讀，指出保羅剛教導完信徒要在公共領域順服掌權者，隨即轉向教會內部，教導信徒在私人良心的領域彼此接納——兩者合起來，勾勒出一幅完整的基督徒公民與教會成員的圖像：對外，順服而不失見證；對內，接納而不失原則。
+
+**從公共領域到私人良心**：摩根指出，羅馬書從12章起進入全書的實踐部分，其內在結構值得留意——12章教導信徒對神（獻上活祭）、對教會（各按恩賜配搭）、對眾人（愛裏行事）；13章教導信徒對掌權者（順服）；14章則轉向一個更微妙、也更容易被忽略的領域：信徒彼此之間，在良心可以自由持守的事上，如何相待。他認為這個順序本身是有意義的——保羅先處理了「大是大非」層次的服從問題（政權），才處理「灰色地帶」層次的接納問題（飲食、日子），顯出後者其實比前者更難操練，因為沒有一條清楚的規則可以套用，唯一的指引是愛與聖靈裏的智慧。
+
+**「審判臺」是全章的軸心意象**：摩根一貫強調，14:10「我們都要站在神的審判臺前」不是用來嚇阻信徒、叫人自我審查到動彈不得，而是用來提醒信徒一件釋放性的事實——既然審判的權柄已經完全在神手中，信徒就不必、也不該僭越去扮演那個裁判的角色。他指出，保羅在此展現出一種深刻的屬靈智慧：把「論斷弟兄」的衝動，直接引導向「敬畏那位真正的審判者」——這比單純道德勸誡「不要論斷人」更有力，因為它給出了不論斷的屬靈理由。
+
+**神的國度的再定義**：摩根認為14:17是全章、甚至全書實踐部分最具突破性的一句——它把「屬靈」從外在規條的框架裏釋放出來，重新安放進聖靈所結果子的框架裏。他指出，教會歷史上一再重複同一個錯誤：把某個時代特定的行為規範（衣著、飲食、娛樂方式等）等同於敬虔本身，而14:17正是對這種傾向最直接的聖經糾正——神的國不是一份行為清單，是一種被聖靈充滿的生命狀態。
+
+> 出處：G. Campbell Morgan 羅馬書相關講章與著作對14章「軟弱與剛強」「神的國度」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
+
+### 麥克阿瑟 (John MacArthur)
 
 **約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫指出，14章討論的不是道德是非分明的罪與義的問題，而是「可爭議事項」（disputable matters）——他強調現代教會常常把這類事項（飲食、生活方式選擇、文化習俗等）錯誤地提升到與福音教義同等的地位，因而製造了保羅在此極力要避免的紛爭；他也一貫強調14:17是理解神國本質的關鍵經文——神的國度不是一套外在規條，而是聖靈在信徒生命中所產生的公義、和平、喜樂。
-
-**坎伯·摩根 (G. Campbell Morgan)**：摩根一貫將14章與13章的政權服從教導並列閱讀，指出保羅剛教導完信徒要在公共領域順服掌權者，隨即轉向教會內部，教導信徒在私人良心的領域彼此接納——兩者合起來，勾勒出一幅完整的基督徒公民與教會成員的圖像：對外，順服而不失見證；對內，接納而不失原則。
 
 **誠實說明**：以上屈梭多模、加爾文、麥克阿瑟、坎伯·摩根之陳述，均為對其著作與講道傳統中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份或講題可逐字查核的原始引句。羅馬皇帝革老丟於主後49年逐猶太人出羅馬一事，乃真實可考的歷史事件（蘇埃托尼烏斯《革老丟傳》25.4；使徒行傳18:2），此處僅作歷史背景之如實描述；其與羅馬書14章張力之關聯，乃學界普遍接受但無法百分之百確證的歷史重建，本書已以「很可能」「一般認為」等措辭誠實標明，未作過度肯定之歷史宣稱。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 133篇
 
-> **看哪，弟兄和睦同住，是何等的善，何等的美！**
-> 這好比那貴重的油澆在亞倫的頭上，
-> 流到鬍鬚，又流到他的衣襟；
-> 又好比黑門的甘露降在錫安山；
+> **看哪，弟兄和睦同住，是何等的善，何等的美！** \
+> 這好比那貴重的油澆在亞倫的頭上， \
+> 流到鬍鬚，又流到他的衣襟； \
+> 又好比黑門的甘露降在錫安山； \
 > 因為在那裏有耶和華所命定的福，就是永遠的生命。
 
-> **Behold, how good and pleasant it is when brothers dwell in unity!**
-> It is like the precious oil on the head, running down on the beard, on the beard of Aaron, running down on the collar of his robes!
-> It is like the dew of Hermon, which falls on the mountains of Zion!
-> For there the Lord has commanded the blessing, life forevermore.
+> **Behold, how good and how pleasant it is For brothers to dwell together in unity!** \
+> It is like the precious oil upon the head, Coming down upon the beard, *Even* Aaron's beard, Coming down upon the edge of his robes. \
+> It is like the dew of Hermon Coming down upon the mountains of Zion; \
+> For there the LORD commanded the blessing—life forever.
 
-大衛沒有說「弟兄意見完全一致」是美好的，他說「弟兄和睦同住」是美好的——和睦不等於意見一致，而是即使有不同的意見，仍然選擇同住、同心。羅馬書14章正是這篇詩篇在教會日常生活中最具體的操作手冊：軟弱與剛強仍有分歧，卻「和睦同住」，因為那澆灌下來的膏油與甘露——聖靈所結的公義、和平、喜樂（14:17）——比誰對誰錯更重要。
-
----
-
-## 聖詩默想 (Hymn Meditation)
+大衛沒有說「弟兄意見完全一致」是美好的，他說「弟兄和睦同住」是美好的——和睦不等於意見一致，而是即使有不同的意見，仍然選擇同住、同心。羅馬書14章正是這篇詩篇在教會日常生活中最具體的操作手冊：軟弱與剛強仍有分歧，卻「和睦同住」，因為那澆灌下來的膏油與甘露——聖靈所結的公義、和平、喜樂（14:17）——比誰對誰錯更重要。多首詩篇聖詩（如以「看哪，何等美善」為主題的敬拜詩歌）皆取材自這篇詩篇的意象——膏油與甘露，象徵聖靈的同在如何在合一的群體中格外豐盛地澆灌下來，正是羅馬書14:17「聖靈中的喜樂」最古老的詩歌迴響。
 
 ### Blest Be the Tie That Binds
 
@@ -5673,58 +4982,17 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - 「我們的懼怕、盼望、目標一致」— 呼應14:19「追求和睦的事與彼此建立德行的事」
 - 「一同背負彼此的重擔」— 呼應15:1「我們堅固的人應該擔代不堅固人的軟弱」
 
-### 另一配詩：詩篇133篇頌歌
-
-多首詩篇聖詩（如以「看哪，何等美善」為主題的敬拜詩歌）皆取材自詩篇133篇的意象——膏油與甘露，象徵聖靈的同在如何在合一的群體中格外豐盛地澆灌下來，正是羅馬書14:17「聖靈中的喜樂」最古老的詩歌迴響。
-
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。「知識叫人自高」一句，摘自老弟兄查經帶領時的常用關鍵語錄，屬其一貫教導風格中已被記錄下來的真實用語。
 
-**從公共領域到私人良心**：摩根指出，羅馬書從12章起進入全書的實踐部分，其內在結構值得留意——12章教導信徒對神（獻上活祭）、對教會（各按恩賜配搭）、對眾人（愛裏行事）；13章教導信徒對掌權者（順服）；14章則轉向一個更微妙、也更容易被忽略的領域：信徒彼此之間，在良心可以自由持守的事上，如何相待。他認為這個順序本身是有意義的——保羅先處理了「大是大非」層次的服從問題（政權），才處理「灰色地帶」層次的接納問題（飲食、日子），顯出後者其實比前者更難操練，因為沒有一條清楚的規則可以套用，唯一的指引是愛與聖靈裏的智慧。
-
-**「審判臺」是全章的軸心意象**：摩根一貫強調，14:10「我們都要站在神的審判臺前」不是用來嚇阻信徒、叫人自我審查到動彈不得，而是用來提醒信徒一件釋放性的事實——既然審判的權柄已經完全在神手中，信徒就不必、也不該僭越去扮演那個裁判的角色。他指出，保羅在此展現出一種深刻的屬靈智慧：把「論斷弟兄」的衝動，直接引導向「敬畏那位真正的審判者」——這比單純道德勸誡「不要論斷人」更有力，因為它給出了不論斷的神學理由。
-
-**神的國度的再定義**：摩根認為14:17是全章、甚至全書實踐部分最具突破性的一句——它把「屬靈」從外在規條的框架裏釋放出來，重新安放進聖靈所結果子的框架裏。他指出，教會歷史上一再重複同一個錯誤：把某個時代特定的行為規範（衣着、飲食、娛樂方式等）等同於敬虔本身，而14:17正是對這種傾向最直接的聖經糾正——神的國不是一份行為清單，是一種被聖靈充滿的生命狀態。
-
-> 出處：G. Campbell Morgan 羅馬書相關講章與著作對14章「軟弱與剛強」「神的國度」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**「知識叫人自高」——對剛強者最直接的提醒**：老弟兄常說一句話：「知識叫人自高。屬靈的人，聖經懂得很多的人，往往是相當自高的人。」這句話放在羅馬書14章，正好對準了「剛強者」最容易跌倒的地方——一個信仰上更自由、神學上更清楚的人，很容易把這份清楚變成一種優越感，用來輕看那個「還在守規條」的弟兄。老弟兄會這樣提問：「你有沒有因為別人在『非本質』的事上和你不同，就論斷他、輕看他？你的『自由』，是不是有時候只是你『驕傲』的另一個名字？」
-
-**不讓次要的事，搶走中心的位置**：老弟兄帶查經時，一貫的原則是不讓任何次要的爭議，取代基督在群體中應有的中心位置——他會提醒，教會歷史上多少次的紛爭、分裂，起初爭的都不是福音的核心，而是某個具體規條、某種敬拜形式、某種生活方式的對錯；羅馬書14章不是要信徒放棄自己的信念（14:5「各人要在自己的心意上堅定」），而是要信徒守住一個更根本的次序——弟兄相愛、彼此接納，永遠排在意見一致之前。
-
-**問題落到自己**：「你今天心裏有沒有一個『弟兄』，是你因為他在某件小事上和你不一樣，就悄悄看輕了他，或悄悄論斷了他？把那個人的名字想出來——今天，你願不願意像神接納你一樣接納他？」
-
-**誠實說明——本節內容的出處**：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。「知識叫人自高」一句，摘自老弟兄查經帶領時的常用關鍵語錄，屬其一貫教導風格中已被記錄下來的真實用語。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Blest Be the Tie That Binds*（如前「配詩」所引）
-
-> Blest be the tie that binds
-> Our hearts in Christian love;
-> The fellowship of kindred minds
-> Is like to that above.
-
-**詩篇**：詩篇 133:1
-
-> 看哪，弟兄和睦同住，是何等的善，何等的美！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：弟兄和睦同住，不是因為意見一致，而是因為基督已經為那個與你不同的人死了——你的自由若絆倒他，你的自由就不再是愛。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：一個原則，兩次書寫。哥林多前書8-10章，保羅處理的是同一類問題——祭偶像之物可不可以吃？他給出的原則和羅馬書14章遙相呼應：「知識是叫人自高自大，惟有愛心能造就人」（林前8:1），「無論是吃是喝，或做甚麼事，都要為榮耀神而行」（林前10:31）——這句話，其實就是羅馬書14:6-8「是為主吃的……是為主而活」用另一種方式的重述。
-
-這條線再往下連到歌羅西書2:16：「所以，不拘在飲食上，或節期、月朔、安息日都不可讓人論斷你們。」保羅在不同的教會、面對不同的具體爭議（哥林多的祭偶像之物、歌羅西的節期規條、羅馬的飲食與日子），反覆教導同一個底層原則——凡福音本身沒有裁定的事，不可讓它成為論斷弟兄的武器。從羅馬書到哥林多前書到歌羅西書，這是聖靈藉着保羅，在不同處境裏一再重申的同一句話。
+**規條自由線（哥林多前書 → 羅馬書 → 歌羅西書）**：哥林多前書8-10章，保羅處理的是同一類問題——祭偶像之物可不可以吃？他給出的原則和羅馬書14章遙相呼應：「知識是叫人自高自大，惟有愛心能造就人」（林前8:1），「無論是吃是喝，或做甚麼事，都要為榮耀神而行」（林前10:31）——這句話，其實就是羅馬書14:6-8「是為主吃的……是為主而活」用另一種方式的重述。這條線再往下連到歌羅西書2:16：「所以，不拘在飲食上，或節期、月朔、安息日都不可讓人論斷你們。」保羅在不同的教會、面對不同的具體爭議（哥林多的祭偶像之物、歌羅西的節期規條、羅馬的飲食與日子），反覆教導同一個底層原則——凡福音本身沒有裁定的事，不可讓它成為論斷弟兄的武器。從羅馬書到哥林多前書到歌羅西書，這是聖靈藉著保羅，在不同處境裏一再重申的同一句話。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -5745,17 +5013,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天我有沒有在心裏輕看過一個「軟弱」的弟兄，或論斷過一個「剛強」的弟兄？
 - **一個行動**：今天具體地為一個與你在某件小事上意見不同的人禱告，把他的名字帶到神面前，而不是帶到論斷裏。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：弟兄和睦同住，不是因為意見一致，而是因為基督已經為那個與你不同的人死了——你的自由若絆倒他，你的自由就不再是愛。
-
-**貫通全經**：哥林多前書10:31「無論是吃是喝，或做甚麼事，都要為榮耀神而行」；歌羅西書2:16「不拘在飲食上，或節期……都不可讓人論斷你們」——同一個原則，聖靈藉保羅一再重申。
-
-**無法迴避的問題**：「你今天心裏有沒有一個弟兄，是你因為他在某件小事上和你不一樣，就悄悄看輕了他，或悄悄論斷了他？」
-
 > 「知識叫人自高，惟有愛心造就人。你懂得多、自由多，不代表你更屬靈——你若因此輕看一個基督為他死的人，你的知識反倒成了絆腳石。」
+
+**你看見耶穌了嗎**：這一章沒有一句直接講十字架的教義句，卻句句都在說：那位「死了，又活了，為要作死人並活人的主」的基督（14:9），祂的主權大到可以掌管一頓飯的吃或不吃；那位坐在審判臺上的（14:10），也正是那位「為他死」的（14:15）——你今天心裏悄悄論斷或輕看的那個弟兄，正是基督用生命買贖回來的人，你看見祂了嗎？
 
 ---
 
@@ -5765,11 +5025,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 1. **我的「軟弱」與「剛強」**：在哪些非本質的事上，我是「軟弱」的一方（良心尚未自由）？在哪些事上，我是「剛強」的一方（自由卻可能傷人）？
 
-2. **審判臺前的自省**：我是否常常不自覺地站在神的審判臺前那個位置上，論斷或輕看與我不同的弟兄姊妹？
+2. **保羅為甚麼說「不要辯論所疑惑的事」**（14:1）？這和教會該持守純正教義的責任，如何取得平衡？
 
-3. **基督死的重量**：14:15說「基督已經為他死」——我是否曾用一件微小的堅持，傷害過一個基督用生命買贖的人？
-
-4. **神的國度在哪裏**：我花心力爭論、堅持的事，屬於「飲食」（次要規條）那一類，還是屬於「公義、和平、聖靈中的喜樂」那一類？
+3. **14:6-9反覆說「是為主」**——這對「屬靈」與「日常」二分的常見想法，提出了甚麼挑戰？
 
 ### 禱告回應
 
@@ -5782,19 +5040,15 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅為甚麼說「不要辯論所疑惑的事」（14:1）？這和教會該持守純正教義的責任，如何取得平衡？
-
-2. 14:6-9反覆說「是為主」——這對「屬靈」與「日常」二分的常見想法，提出了甚麼挑戰？
-
-3. 14:15「基督已經為他死，你不可因你的食物使他敗壞」——這句話用甚麼理由勸阻「剛強者」，而不是單純訴諸和睦或面子？
-
-4. 14:17如何重新定義「神的國度」？這對今天教會過度聚焦某些外在規條或風格的傾向，有甚麼提醒？
-
-5. 14:23「凡不出於信心的都是罪」——這是否意味著一件事本身的對錯，反而不是保羅在此最關心的？請說明你的理解。
-
-6. 比較羅馬書14章、哥林多前書8-10章、歌羅西書2:16——保羅在不同教會處境中反覆教導同一個原則，這對今天教會處理「非本質」爭議，有甚麼具體的操作提醒？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 潔淨／不潔的教訓 | 14:14 | 可7:19 |
+| 審判臺前的審判 | 14:10 | 林後5:10、約5:22、徒18:12 |
+| 萬口稱頌、萬膝跪拜 | 14:11 | 賽45:23、腓2:10-11 |
+| 聖靈的果子與神的國度 | 14:17 | 加5:22-23 |
+| 規條自由的原則 | 14:1, 13, 21 | 林前8:1、林前10:31、西2:16 |
 
 ---
 
@@ -5808,9 +5062,13 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 15:1-33
 
----
+**經文核對**：[ai-eden.com/bible/romans/15](https://www.ai-eden.com/bible/romans/15?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：接納 Proslambanō** \
+> **全書坐標**：15章跨在「活祭」書卷（12:1-15:13）與「結語」（15:14-16:27）之間——1-13節把14章「彼此接納」的教會倫理，收束進基督自己「不求自己的喜悅」（15:3）的十字架邏輯裏，並藉四段舊約引文（15:9-12）把猶太人與外邦人蒙恩合一，追溯到全書1:16「先是猶太人，後是希臘人」的福音宣告；14-33節保羅個人的宣教足跡與耶路撒冷捐項，則是全書即將收尾的「結語」部分的開始。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 第14章教導「堅固的人」如何在飲食、日子這類「灰色地帶」上包容「軟弱的人」，第15章一開頭立刻把這個倫理原則釘死在一個名字上：「因為基督也不求自己的喜悅」（15:3）。原來「不求自己的喜悅」從來不是保羅發明的道德教訓，而是道成肉身那位的生命本相——祂在客西馬尼說「不要照我的意思，只要照你的意思」（太26:39），祂在十字架上承受了那本該落在悖逆的人身上的羞辱（「辱罵你的人的辱罵都落在我身上」，引自詩69:9）。第7-13節把鏡頭拉遠：基督不但成了猶太人的僕人，證實神向列祖的應許，也使外邦人因祂的憐憫得以榮耀神——祂是那位使猶太人與外邦人、堅固的與軟弱的、都能「同心同聲」歌頌一位父神的元首（15:6）。第17-21節，保羅不誇口自己做了甚麼，只誇「基督藉我做的那些事」——他一生從耶路撒冷直到以利哩古的宣教足跡，不過是基督自己藉著使徒的口和手，繼續完成祂賜下大使命的軌跡。全章最後定睛在耶路撒冷的捐獻與保羅將受的苦難上，讀者若知道使徒行傳21章接下來發生的事，就會看見：這一章紙上寫的宣教心志，很快要用保羅自己的鎖鏈去印證——正如那位「不求自己的喜悅」的基督，先走過了十字架的路。
 
@@ -5818,35 +5076,35 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ## 配詩 (Opening Hymn)
 
-> **O Zion, Haste**
+> **O Zion, Haste** \
 > *Mary Ann Thomson, 1868*
 >
-> O Zion, haste, thy mission high fulfilling,
-> To tell to all the world that God is Light;
-> That He who made all nations is not willing
+> O Zion, haste, thy mission high fulfilling, \
+> To tell to all the world that God is Light; \
+> That He who made all nations is not willing \
 > One soul should perish, lost in shades of night.
 >
-> *Refrain:*
-> Publish glad tidings, tidings of peace;
+> *Refrain:* \
+> Publish glad tidings, tidings of peace; \
 > Tidings of Jesus, redemption and release.
 >
-> Behold how many thousands still are lying
-> Bound in the darksome prison-house of sin,
-> With none to tell them of the Savior's dying,
+> Behold how many thousands still are lying \
+> Bound in the darksome prison-house of sin, \
+> With none to tell them of the Savior's dying, \
 > Or of the life He died for them to win.
 >
-> 錫安速興，成就你崇高使命，
-> 要將神是光的信息傳給萬邦；
-> 那造萬民的主，並不願意
+> 錫安速興，成就你崇高使命， \
+> 要將神是光的信息傳給萬邦； \
+> 那造萬民的主，並不願意 \
 > 有一個靈魂迷失、沉淪在幽暗裏。
 >
-> *副歌：*
-> 傳揚福音，傳揚平安的信息；
+> *副歌：* \
+> 傳揚福音，傳揚平安的信息； \
 > 傳揚耶穌，救贖與釋放的信息。
 >
-> 看哪，何等多的人仍然躺臥，
-> 被捆綁在罪惡幽暗的牢籠中，
-> 無人告訴他們救主的捨命，
+> 看哪，何等多的人仍然躺臥， \
+> 被捆綁在罪惡幽暗的牢籠中， \
+> 無人告訴他們救主的捨命， \
 > 或祂捨命所要為他們贏得的生命。
 
 ---
@@ -5855,29 +5113,29 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 中文 — 和合本 (CUV)
 
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
+
 > **\textsuperscript{1}我們堅固的人應該擔代不堅固人的軟弱，不求自己的喜悅。\textsuperscript{2}我們各人務要叫鄰舍喜悅，使他得益處，建立德行。\textsuperscript{3}因為基督也不求自己的喜悅，如經上所記：「辱罵你人的辱罵都落在我身上。」**\textsuperscript{4}從前所寫的聖經都是為教訓我們寫的，叫我們因聖經所生的忍耐和安慰，可以得著盼望。\textsuperscript{5}但願賜忍耐、安慰的神叫你們彼此同心，效法基督耶穌，\textsuperscript{6}一心一口榮耀神我們主耶穌基督的父！
 
-> \textsuperscript{7}所以，你們要彼此接納，如同基督接納你們一樣，使榮耀歸於神。\textsuperscript{8}我說，基督是為神真理做了受割禮人的執事，要證實所應許列祖的話，\textsuperscript{9}並叫外邦人因他的憐憫榮耀神。如經上所記：「因此我要在外邦中稱讚你，歌頌你的名。」\textsuperscript{10}又說：「你們外邦人，當與主的百姓一同歡樂！」\textsuperscript{11}又說：「外邦啊，你們當讚美主！萬民哪，你們都當頌讚他！」\textsuperscript{12}又有以賽亞說：「將來有耶西的根，就是那興起來要治理外邦的，外邦人要仰望他。」**\textsuperscript{13}但願使人有盼望的神，因信將諸般的喜樂、平安充滿你們的心，使你們藉著聖靈的能力大有盼望！**
+> \textsuperscript{7}所以，你們要彼此接納，如同基督接納你們一樣，使榮耀歸於神。\textsuperscript{8}我說，基督是為神真理作了受割禮人的執事，要證實所應許列祖的話，\textsuperscript{9}並叫外邦人因他的憐憫榮耀神。如經上所記：「因此我要在外邦中稱讚你，歌頌你的名。」\textsuperscript{10}又說：「你們外邦人，當與主的百姓一同歡樂！」\textsuperscript{11}又說：「外邦啊，你們當讚美主！萬民哪，你們都當頌讚他！」\textsuperscript{12}又有以賽亞說：「將來有耶西的根，就是那興起來要治理外邦的，外邦人要仰望他。」**\textsuperscript{13}但願使人有盼望的神，因信將諸般的喜樂、平安充滿你們的心，使你們藉著聖靈的能力大有盼望！**
 
-> \textsuperscript{14}弟兄們，我自己也深信你們是滿有良善，充足了諸般的知識，也能彼此勸誡。\textsuperscript{15}但我稍微放膽寫信給你們，是要提醒你們的記性，特因神所給我的恩典，\textsuperscript{16}使我為外邦人做基督耶穌的僕役，做神福音的祭司，叫所獻上的外邦人因著聖靈成為聖潔，可蒙悅納。\textsuperscript{17}所以論到神的事，我在基督耶穌裏有可誇的。\textsuperscript{18}除了基督藉我做的那些事，我甚麼都不敢提，只提他藉我言語作為，用神蹟奇事的能力，並聖靈的能力，使外邦人順服，\textsuperscript{19}甚至我從耶路撒冷直轉到以利哩古，到處傳了基督的福音。\textsuperscript{20}我立了志向，不在基督的名被稱過的地方傳福音，免得建造在別人的根基上。\textsuperscript{21}就如經上所記：「未曾聞知他信息的，將要看見；未曾聽過的，將要明白。」
+> \textsuperscript{14}弟兄們，我自己也深信你們是滿有良善，充足了諸般的知識，也能彼此勸誡。\textsuperscript{15}但我稍微放膽寫信給你們，是要提醒你們的記性，特因神所給我的恩典，\textsuperscript{16}使我為外邦人作基督耶穌的僕役，作神福音的祭司，叫所獻上的外邦人因著聖靈成為聖潔，可蒙悅納。\textsuperscript{17}所以論到神的事，我在基督耶穌裏有可誇的。\textsuperscript{18}除了基督藉我做的那些事，我甚麼都不敢提，只提他藉我言語作為，用神蹟奇事的能力，並聖靈的能力，使外邦人順服，\textsuperscript{19}甚至我從耶路撒冷直轉到以利哩古，到處傳了基督的福音。\textsuperscript{20}我立了志向，不在基督的名被稱過的地方傳福音，免得建造在別人的根基上。\textsuperscript{21}就如經上所記：「未曾聞知他信息的，將要看見；未曾聽過的，將要明白。」
 
 > \textsuperscript{22}我因多次被攔阻，總不得到你們那裏去。\textsuperscript{23}但如今在這裏再沒有可傳的地方，而且這好幾年，我切心想望到西班牙去的時候，可以到你們那裏。\textsuperscript{24}盼望從你們那裏經過，得見你們，先與你們彼此交往，心裏稍微滿足，然後蒙你們送行。\textsuperscript{25}但現在，我往耶路撒冷去供給聖徒。\textsuperscript{26}因為馬其頓和亞該亞人樂意湊出捐項，給耶路撒冷聖徒中的窮人。\textsuperscript{27}這固然是他們樂意的，其實也算是所欠的債；因外邦人既然在他們屬靈的好處上有份，就當把養身之物供給他們。\textsuperscript{28}等我辦完了這事，把這善果向他們交付明白，我就要路過你們那裏，往西班牙去。\textsuperscript{29}我也曉得，去的時候必帶著基督豐盛的恩典而去。
 
 > \textsuperscript{30}弟兄們，我藉著我們主耶穌基督，又藉著聖靈的愛，勸你們與我一同竭力，為我祈求神，\textsuperscript{31}叫我脫離在猶太不順從的人，也叫我為耶路撒冷所辦的捐項可蒙聖徒悅納，\textsuperscript{32}並叫我順著神的旨意，歡歡喜喜地到你們那裏，與你們同得安息。\textsuperscript{33}願賜平安的神常和你們眾人同在！阿們。
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com（現代標點和合本）逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> **\textsuperscript{1}Now we who are strong ought to bear the weaknesses of those without strength and not *just* please ourselves. \textsuperscript{2}Each of us is to please his neighbor for his good, to his edification. \textsuperscript{3}For even Christ did not please Himself; but as it is written, "THE REPROACHES OF THOSE WHO REPROACHED YOU FELL ON ME."** \textsuperscript{4}For whatever was written in earlier times was written for our instruction, so that through perseverance and the encouragement of the Scriptures we might have hope. \textsuperscript{5}Now may the God who gives perseverance and encouragement grant you to be of the same mind with one another according to Christ Jesus, \textsuperscript{6}so that with one accord you may with one voice glorify the God and Father of our Lord Jesus Christ.
 
-> **\textsuperscript{1}We who are strong have an obligation to bear with the failings of the weak, and not to please ourselves. \textsuperscript{2}Let each of us please his neighbor for his good, to build him up. \textsuperscript{3}For Christ did not please himself, but as it is written, "The reproaches of those who reproached you fell on me."** \textsuperscript{4}For whatever was written in former days was written for our instruction, that through endurance and through the encouragement of the Scriptures we might have hope. \textsuperscript{5}May the God of endurance and encouragement grant you to live in such harmony with one another, in accord with Christ Jesus, \textsuperscript{6}that together you may with one voice glorify the God and Father of our Lord Jesus Christ.
+> \textsuperscript{7}Therefore, accept one another, just as Christ also accepted us to the glory of God. \textsuperscript{8}For I say that Christ has become a servant to the circumcision on behalf of the truth of God to confirm the promises *given* to the fathers, \textsuperscript{9}and for the Gentiles to glorify God for His mercy; as it is written, "THEREFORE I WILL GIVE PRAISE TO YOU AMONG THE GENTILES, AND I WILL SING TO YOUR NAME." \textsuperscript{10}Again he says, "REJOICE, O GENTILES, WITH HIS PEOPLE." \textsuperscript{11}And again, "PRAISE THE LORD ALL YOU GENTILES, AND LET ALL THE PEOPLES PRAISE HIM." \textsuperscript{12}Again Isaiah says, "THERE SHALL COME THE ROOT OF JESSE, AND HE WHO ARISES TO RULE OVER THE GENTILES, IN HIM SHALL THE GENTILES HOPE." **\textsuperscript{13}Now may the God of hope fill you with all joy and peace in believing, so that you will abound in hope by the power of the Holy Spirit.**
 
-> \textsuperscript{7}Therefore welcome one another as Christ has welcomed you, for the glory of God. \textsuperscript{8}For I tell you that Christ became a servant to the circumcised to show God's truthfulness, in order to confirm the promises given to the patriarchs, \textsuperscript{9}and in order that the Gentiles might glorify God for his mercy. As it is written, "Therefore I will praise you among the Gentiles, and sing to your name." \textsuperscript{10}And again it says, "Rejoice, O Gentiles, with his people." \textsuperscript{11}And again, "Praise the Lord, all you Gentiles, and let all the peoples extol him." \textsuperscript{12}And again Isaiah says, "The root of Jesse will come, even he who arises to rule the Gentiles; in him will the Gentiles hope." **\textsuperscript{13}May the God of hope fill you with all joy and peace in believing, so that by the power of the Holy Spirit you may abound in hope.**
+> \textsuperscript{14}And concerning you, my brethren, I myself also am convinced that you yourselves are full of goodness, filled with all knowledge and able also to admonish one another. \textsuperscript{15}But I have written very boldly to you on some points so as to remind you again, because of the grace that was given me from God, \textsuperscript{16}to be a minister of Christ Jesus to the Gentiles, ministering as a priest the gospel of God, so that *my* offering of the Gentiles may become acceptable, sanctified by the Holy Spirit. \textsuperscript{17}Therefore in Christ Jesus I have found reason for boasting in things pertaining to God. \textsuperscript{18}For I will not presume to speak of anything except what Christ has accomplished through me, resulting in the obedience of the Gentiles by word and deed, \textsuperscript{19}in the power of signs and wonders, in the power of the Spirit; so that from Jerusalem and round about as far as Illyricum I have fully preached the gospel of Christ. \textsuperscript{20}And thus I aspired to preach the gospel, not where Christ was *already* named, so that I would not build on another man's foundation; \textsuperscript{21}but as it is written, "THEY WHO HAD NO NEWS OF HIM SHALL SEE, AND THEY WHO HAVE NOT HEARD SHALL UNDERSTAND."
 
-> \textsuperscript{14}I myself am satisfied about you, my brothers, that you yourselves are full of goodness, filled with all knowledge and able to instruct one another. \textsuperscript{15}But on some points I have written to you very boldly by way of reminder, because of the grace given me by God \textsuperscript{16}to be a minister of Christ Jesus to the Gentiles in the priestly service of the gospel of God, so that the offering of the Gentiles may be acceptable, sanctified by the Holy Spirit. \textsuperscript{17}In Christ Jesus, then, I have reason to be proud of my work for God. \textsuperscript{18}For I will not venture to speak of anything except what Christ has accomplished through me to bring the Gentiles to obedience—by word and deed, \textsuperscript{19}by the power of signs and wonders, by the power of the Spirit of God—so that from Jerusalem and all the way around to Illyricum I have fulfilled the ministry of the gospel of Christ; \textsuperscript{20}and thus I make it my ambition to preach the gospel, not where Christ has already been named, lest I build on someone else's foundation, \textsuperscript{21}but as it is written, "Those who have never been told of him will see, and those who have never heard will understand."
+> \textsuperscript{22}For this reason I have often been prevented from coming to you; \textsuperscript{23}but now, with no further place for me in these regions, and since I have had for many years a longing to come to you \textsuperscript{24}whenever I go to Spain—for I hope to see you in passing, and to be helped on my way there by you, when I have first enjoyed your company for a while— \textsuperscript{25}but now, I am going to Jerusalem serving the saints. \textsuperscript{26}For Macedonia and Achaia have been pleased to make a contribution for the poor among the saints in Jerusalem. \textsuperscript{27}Yes, they were pleased *to do so,* and they are indebted to them. For if the Gentiles have shared in their spiritual things, they are indebted to minister to them also in material things. \textsuperscript{28}Therefore, when I have finished this, and have put my seal on this fruit of theirs, I will go on by way of you to Spain. \textsuperscript{29}I know that when I come to you, I will come in the fullness of the blessing of Christ.
 
-> \textsuperscript{22}This is the reason why I have so often been hindered from coming to you. \textsuperscript{23}But now, since I no longer have any room for work in these regions, and since I have longed for many years to come to you, \textsuperscript{24}I hope to see you in passing as I go to Spain, and to be helped on my journey there by you, once I have enjoyed your company for a while. \textsuperscript{25}At present, however, I am going to Jerusalem bringing aid to the saints. \textsuperscript{26}For Macedonia and Achaia have been pleased to make some contribution for the poor among the saints at Jerusalem. \textsuperscript{27}For they were pleased to do it, and indeed they owe it to them. For if the Gentiles have come to share in their spiritual blessings, they ought also to be of service to them in material blessings. \textsuperscript{28}When therefore I have completed this and have delivered to them what has been collected, I will leave for Spain by way of you. \textsuperscript{29}I know that when I come to you I will come in the fullness of the blessing of Christ.
-
-> \textsuperscript{30}I appeal to you, brothers, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God on my behalf, \textsuperscript{31}that I may be delivered from the unbelievers in Judea, and that my service for Jerusalem may be acceptable to the saints, \textsuperscript{32}so that by God's will I may come to you with joy and be refreshed in your company. \textsuperscript{33}May the God of peace be with you all. Amen.
+> \textsuperscript{30}Now I urge you, brethren, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God for me, \textsuperscript{31}that I may be rescued from those who are disobedient in Judea, and *that* my service for Jerusalem may prove acceptable to the saints; \textsuperscript{32}so that I may come to you in joy by the will of God and find *refreshing* rest in your company. \textsuperscript{33}Now the God of peace be with you all. Amen.
 
 ---
 
@@ -5889,13 +5147,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 「捐項」的真實歷史
 
-15:25-28所描述的「耶路撒冷捐項」（羅16:23所提及的哥林多教會慷慨接待，正是保羅寫作本信之地），是保羅生平中證據最充分、記載最完整的事件之一——同一件事，在羅馬書15章、哥林多前書16:1-4、哥林多後書8-9章（保羅用最長的篇幅為這筆捐款辯護、鼓勵、催促）、以及使徒行傳24:17（保羅在該撒利亞受審時親口提及「我帶著賙濟本國的捐項」）中反覆出現、互相印證。這不是保羅隨口一提的計劃，而是他第三次宣教旅程末期投入最多心力的具體事工——正是這封信寫作當下，他人正在哥林多，即將啟程押解這筆捐款上耶路撒冷（羅16:23「城內管銀庫的以拉都問你們安」，該猶接待他），也正是本書概覽「寫作情境」一節所指出的背景。這個歷史細節提醒讀者：羅馬書不是一篇懸浮在空中的神學論文，而是一封寫給具體處境、由一位正在具體行動中的宣教士所寫的信。
+15:25-28所描述的「耶路撒冷捐項」（保羅寫這封信時正住在哥林多，受該猶接待，羅16:23），是保羅生平中證據最充分、記載最完整的事件之一——同一件事，在羅馬書15章、哥林多前書16:1-4、哥林多後書8-9章（保羅用最長的篇幅為這筆捐款辯護、鼓勵、催促）、以及使徒行傳24:17（保羅在該撒利亞受審時親口提及「我帶著賙濟本國的捐項」）中反覆出現、互相印證。這不是保羅隨口一提的計劃，而是他第三次宣教旅程末期投入最多心力的具體事工——正是這封信寫作當下，他人正在哥林多，即將啟程押解這筆捐款上耶路撒冷（羅16:23「城內管銀庫的以拉都問你們安」，該猶接待他），也正是本書概覽「寫作情境」一節所指出的背景。這個歷史細節提醒讀者：羅馬書不是一篇懸浮在空中的論文，而是一封寫給具體處境、由一位正在具體行動中的宣教士所寫的信。
 
-### 保羅的宣教地圖：耶路撒冷到以利哩古，再到西班牙
+### 保羅的宣教地圖與代禱的應驗
 
 15:19「從耶路撒冷，直轉到以利哩古」，指的是保羅第一到第三次宣教旅程所走過的整個弧線——從猶太的心臟地帶，一路向北、向西，直到亞得里亞海東岸的以利哩古（大致相當於今日巴爾幹半島西部）。他在羅馬書寫信時，正站在這條宣教弧線的盡頭，卻已經把眼光投向下一段：先去羅馬（帝國首都，但不是他要「開荒」的地方——羅馬教會已存在），再往西班牙（帝國最西端，福音尚未傳到之地）。這個地圖清楚顯出保羅畢生宣教策略的核心：不是重複建造別人已經立好的根基，而是不斷往「基督的名未曾被稱過的地方」前進（15:20）。
-
-### 這段禱告求的是甚麼——以及後來發生了甚麼
 
 15:30-32保羅求羅馬信徒為他三件事禱告：脫離猶太地不信之人的加害、耶路撒冷的捐獻事工蒙聖徒悅納、能照神的旨意歡喜來到羅馬。使徒行傳21:27及以下清楚記載：保羅確實去了耶路撒冷，卻在聖殿裏被猶太人捉拿，幾乎被打死，隨後被羅馬軍隊逮捕、輾轉受審兩年多——這場禱告請求中最擔心的事，幾乎一字一句地應驗了。然而使徒行傳28章同樣記載：保羅終究到了羅馬，只是不是像他計劃的那樣以自由之身路過，而是戴著鎖鏈、以囚犯的身分抵達（徒28:16,20）。這不是禱告落空的證據，而是提醒讀者：神應允禱告的方式，往往不是移除保羅所懼怕的苦難，而是讓他所懼怕的苦難本身，成為福音抵達羅馬、乃至傳到該撒家裏（腓1:13；4:22）的通路。
 
@@ -5904,7 +5160,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | δυνατοί / ἀδύνατοι | dynatoi / adynatoi | 堅固的人／不堅固的人 | 承接14章的「軟弱」（*asthenōn*）主題，15:1改用「有能力／無能力」的說法，強調的是屬靈上的成熟與擔待能力，而非道德優劣 |
 | οἰκοδομή | oikodomē | 建立、造就 | 字面是「建造房屋」，保羅常用來指教會群體被建立起來（15:2；林前14章反覆出現） |
 | προσελάβετο | proselabeto（字典形 proslambanō） | 接納、接待 | 15:7「彼此接納」呼應14:1「你們要接納信心軟弱的人」，全章把14章個別教導收束成「像基督接納你們一樣」的總原則 |
@@ -5914,7 +5170,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### *hierourgounta to euangelion*——把祭司的語言用在傳道上
 
-15:16「做神福音的祭司」，原文動詞 *hierourgeō* 在整本新約中僅此一見，是一個帶有濃厚舊約獻祭色彩的字——舊約祭司在聖殿裏獻上祭牲，而保羅說自己是在「做神福音的祭司」，把外邦人的信主本身當作獻在祭壇上的祭物，「使所獻上的外邦人……可蒙悅納」。這不是保羅隨手借用的比喻，而是把傳福音這件事，鄭重地放進舊約獻祭體系所指向的終極意義裏：新約的祭司不再獻牛羊，乃是把得救的外邦人，藉著聖靈的成聖，獻給神。
+15:16「作神福音的祭司」，原文動詞 *hierourgeō* 在整本新約中僅此一見，是一個帶有濃厚舊約獻祭色彩的字——舊約祭司在聖殿裏獻上祭牲，而保羅說自己是在「作神福音的祭司」，把外邦人的信主本身當作獻在祭壇上的祭物，「使所獻上的外邦人……可蒙悅納」。這不是保羅隨手借用的比喻，而是把傳福音這件事，鄭重地放進舊約獻祭體系所指向的終極意義裏：新約的祭司不再獻牛羊，乃是把得救的外邦人，藉著聖靈的成聖，獻給神。
 
 ### *koinōnian*——捐款即團契
 
@@ -5925,7 +5181,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 15:9-12連續引用四段舊約經文，並非隨意堆砌，而是精心按照猶太人熟悉的舊約三分法（律法、先知、聖卷）刻意排列，證明外邦人得蒙救恩、與猶太人一同敬拜，從來不是保羅個人的新奇教導，而是整本舊約早已一致見證的事：
 
 | 引文 | 出處 | 舊約分類 |
-|------|------|----------|
+|----------------------|----------------------|------------------------------------|
 | 「因此，我要在外邦中稱頌你」 | 詩18:49／撒下22:50 | 聖卷（詩篇） |
 | 「外邦人哪，你們要與主的子民一同歡樂」 | 申32:43 | 律法書（摩西五經） |
 | 「列邦啊，你們要讚美主」 | 詩117:1 | 聖卷（詩篇） |
@@ -5935,33 +5191,21 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 基督是「不求自己喜悅」的終極典範 (Christ, the Ultimate Pattern of Self-Denial)
+### 1. 基督「不求自己喜悅」的典範，也是舊約教訓存留的目的 (15:1-6)
 
-14章教導堅固的人要包容軟弱的人，15:1-3把這條倫理原則從「應該這樣做」提升到「基督就是這樣做的」。保羅引用詩篇69:9——一篇公認的受苦義人詩篇——來說明：基督所承受的，不是祂自己惹來的羞辱，而是別人（悖逆神的世人）本該承受、卻轉嫁到祂身上的羞辱。這意味著，信徒被要求「擔代軟弱人的軟弱」，不是一種可有可無的美德加分，而是在效法福音的核心結構：義者代替不義者受苦。
+14章教導堅固的人要包容軟弱的人，15:1-3把這條倫理原則從「應該這樣做」提升到「基督就是這樣做的」。保羅引用詩篇69:9——一篇公認的受苦義人詩篇——來說明：基督所承受的，不是祂自己惹來的羞辱，而是別人（悖逆神的世人）本該承受、卻轉嫁到祂身上的羞辱。這意味著，信徒被要求「擔代軟弱人的軟弱」，不是一種可有可無的美德加分，而是在效法福音的核心結構：義者代替不義者受苦。緊接著，15:4是一節極重要卻常被輕輕帶過的經文：「從前所寫的聖經都是為教訓我們寫的」。保羅剛引用了一節詩篇（69:9）來解釋基督的受苦，緊接著就作出這個一般性的宣告——舊約經文的功用，不只是歷史記錄或猶太人的家譜檔案，而是持續向新約教會發出教導，其目的是藉著「忍耐」與「聖經所生的安慰」，產生「盼望」。這節經文為後面15:9-12大段引用舊約的作法，先立下了解經原則：舊約不是被基督「取代」的過時文獻，而是被基督「應驗」、繼續向教會說話的活的話語。
 
-### 2. 舊約聖經持續向教會說話 (The Old Testament Still Instructs the Church)
+### 2. 猶太人與外邦人的合一，是舊約早已宣告的計劃，也是盼望的神所應驗的 (15:8-13)
 
-15:4是全書一節極重要卻常被輕輕帶過的經文：「從前所寫的聖經都是為教導我們寫的」。保羅剛引用了一節詩篇（69:9）來解釋基督的受苦，緊接著就作出這個一般性的宣告——舊約經文的功用，不只是歷史記錄或猶太人的家譜檔案，而是持續向新約教會發出教導，其目的是藉著「忍耐」與「聖經所生的安慰」，產生「盼望」。這節經文為後面15:9-12大段引用舊約的作法，先立下了解經原則：舊約不是被基督「取代」的過時文獻，而是被基督「應驗」、繼續向教會說話的活的話語。
+15:8-12是全章的高峰。保羅先說基督「為神真理作了受割禮人的執事」（服事猶太人，證實列祖的應許），再說「並叫外邦人因他的憐憫榮耀神」（服事外邦人）——這兩重身分不是互相矛盾，而是同一個福音計劃的一體兩面。緊接著的四段舊約引文（見上「原文研讀」），把這個「一體兩面」的計劃，一路追溯到摩西、大衛、以賽亞，證明這不是保羅事後想出來的權宜之計，而是神從創世記12:3應許亞伯拉罕「地上的萬族都必因你得福」以來，就寫定的救恩藍圖。15:13的祝禱「但願使人有盼望的神，因信將諸般的喜樂、平安充滿你們的心，使你們藉著聖靈的能力大有盼望」，是1-15章教義部分最合宜的收束句。羅馬書從1:18普世的忿怒與絕望開始，一路走過因信稱義（3-5章）、與基督聯合（6章）、律法與肉體的爭戰（7章）、聖靈中得勝的生命（8章）、以色列的問題與神的信實（9-11章），直到12-15章的具體生活倫理——這一切論證的終點，不是一套冷冰冰的教義體系，而是一顆被聖靈充滿、洋溢著盼望的心。
 
-### 3. 猶太人與外邦人的合一，是舊約早已宣告的計劃 (Jewish-Gentile Unity Was Always God's Plan)
+### 3. 傳福音是祭司的獻祭事奉，宣教的雄心不在別人的根基上建造 (15:16, 20-21)
 
-15:8-12是全章神學的高峰。保羅先說基督「為神真理做了受割禮人的執事」（服事猶太人，證實列祖的應許），再說「並叫外邦人因他的憐憫榮耀神」（服事外邦人）——這兩重身分不是互相矛盾，而是同一個福音計劃的一體兩面。緊接著的四段舊約引文（見上「原文研讀」），把這個「一體兩面」的計劃，一路追溯到摩西、大衛、以賽亞，證明這不是保羅事後想出來的權宜之計，而是神從創世記12:3應許亞伯拉罕「地上的萬族都必因你得福」以來，就寫定的救恩藍圖。
+15:16用「祭司」（*hierourgeō*，見上「原文研讀」）的語言形容自己的傳道工作，這是保羅對「事奉」極具原創性的重塑：在舊約，唯獨利未支派的祭司才能到祭壇前獻祭；在新約，福音的使者藉著傳講基督、帶領外邦人歸信，也在履行一種祭司性的服事——他們獻上的祭物，是「因聖靈成為聖潔」的外邦信徒本身。這提醒每一位傳道者：講台上的服事，從來不只是知識的傳遞，而是一種帶著獻祭重量的屬靈行動。15:20-21，保羅引用以賽亞書52:15（這節經文正在以賽亞書52:13-53:12「受苦的僕人」大段預言之內，緊接開篇52:13之後，原本描述列國君王因看見受苦僕人的榮耀而驚訝閉口）來說明自己的宣教策略：他刻意選擇往「基督的名未曾被稱過的地方」去，而不是在別人已經建立的教會裏重複勞動。這不是輕看已建立的教會（他對羅馬教會滿懷敬重，15:14），而是一種清楚的呼召定位——保羅深知自己蒙召的角色，是拓荒者，不是接管者。
 
-### 4. 盼望的神——一卷寫給盼望的書信終於在此定睛 (The God of Hope)
-
-15:13的祝禱「但願使人有盼望的神，因信將諸般的喜樂、平安充滿你們的心，使你們藉著聖靈的能力大有盼望」，是1-15章教義部分最合宜的收束句。羅馬書從1:18普世的忿怒與絕望開始，一路走過因信稱義（3-5章）、與基督聯合（6章）、律法與肉體的爭戰（7章）、聖靈中得勝的生命（8章）、以色列的問題與神的信實（9-11章），直到12-15章的具體生活倫理——這一切論證的終點，不是一套冷冰冰的教義體系，而是一顆被聖靈充滿、洋溢著盼望的心。
-
-### 5. 傳福音本身就是祭司的獻祭事奉 (Gospel Preaching as Priestly Offering)
-
-15:16用「祭司」（*hierourgeō*，見上「原文研讀」）的語言形容自己的傳道工作，這是保羅對「事奉」極具原創性的神學重塑：在舊約，唯獨利未支派的祭司才能到祭壇前獻祭；在新約，福音的使者藉著傳講基督、帶領外邦人歸信，也在履行一種祭司性的服事——他們獻上的祭物，是「因聖靈成為聖潔」的外邦信徒本身。這提醒每一位傳道者：講台上的服事，從來不只是知識的傳遞，而是一種帶著獻祭重量的屬靈行動。
-
-### 6. 宣教的雄心：不在別人的根基上建造 (Missionary Ambition: Not Building on Another's Foundation)
-
-15:20-21，保羅引用以賽亞書52:15（「未曾傳給他們的，他們必看見；未曾聽見過的事，他們要明白」——這節經文正在以賽亞書52:13-53:12「受苦的僕人」大段預言之內（緊接開篇52:13之後），原本描述列國君王因看見受苦僕人的榮耀而驚訝閉口）來說明自己的宣教策略：他刻意選擇往「基督的名未曾被稱過的地方」去，而不是在別人已經建立的教會裏重複勞動。這不是輕看已建立的教會（他對羅馬教會滿懷敬重，15:14），而是一種清楚的呼召定位——保羅深知自己蒙召的角色，是拓荒者，不是接管者。
-
-### 7. 捐款作為神學宣告：靈裏的相交必須有物質的表現 (The Collection as Theological Statement)
+### 4. 捐款作為真理宣告：靈裏的相交必須有物質的表現 (15:26-27)
 
 15:27「外邦人既然分享了他們靈性上的好處，就當把肉體上的需用供給他們」，把「靈性的好處」（屬靈）與「肉體的需用」（物質）並置，宣告了一個保羅一貫的信念：真實的屬靈合一，若不落實在具體的物質行動上，就是空話。耶路撒冷教會把福音的根源（彌賽亞、應許、盼望）給了外邦教會；外邦教會把物質的供應還給耶路撒冷教會——這不是單方面的施予，而是保羅精心設計、讓兩個群體彼此虧欠、彼此相繫的合一實驗。
 
@@ -5980,49 +5224,51 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > 出處：此為對屈梭多模一貫解經立場與其羅馬書相關講道（*Homilies on Romans*，其中談及15章的講道編號約在27-29篇之間）已知重點的一般性、綜合性歸納轉述，未附具體篇號或逐字引句，讀者若需查證，應另行核對其原始講道文本。
 
-### 宗教改革時期
+### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《羅馬書註釋》（*Commentary on Romans*，1540年出版，是他撰寫的第一部聖經註釋）中，特別看重15:4「從前所寫的聖經都是為教導我們寫的」這節經文——他一貫強調，這節經文為整個宗教改革「唯獨聖經」（*sola scriptura*）的教會論提供了關鍵支持：舊約經文並非只對古代以色列人說話而與教會無關的死文獻，而是被聖靈默示、持續向歷世歷代教會說話的活的話語，其功用正是要藉著忍耐與安慰，產生盼望。加爾文也一貫指出，15:9-12連續四段舊約引文，證明使徒教會對「外邦人蒙恩」的教導，並非新奇的創見，而是舊約律法、先知、詩篇早已一致見證的事——這正呼應了他神學體系中「新舊約盟約本質為一」的核心立場。
+加爾文在《羅馬書註釋》（*Commentary on Romans*，1540年出版，是他撰寫的第一部聖經註釋）中，特別看重15:4「從前所寫的聖經都是為教訓我們寫的」這節經文——他一貫強調，這節經文為整個宗教改革「唯獨聖經」（*sola scriptura*）的教會論提供了關鍵支持：舊約經文並非只對古代以色列人說話而與教會無關的死文獻，而是被聖靈默示、持續向歷世歷代教會說話的活的話語，其功用正是要藉著忍耐與安慰，產生盼望。加爾文也一貫指出，15:9-12連續四段舊約引文，證明使徒教會對「外邦人蒙恩」的教導，並非新奇的創見，而是舊約律法、先知、詩篇早已一致見證的事——這正呼應了他神學體系中「新舊約盟約本質為一」的核心立場。
 
 > 出處：此為對加爾文《羅馬書註釋》一貫解經立場與已知重點（如「唯獨聖經」的教會論根基、新舊約盟約合一的立場）的一般性歸納轉述，未逐字引用其原文段落，讀者若需查證，應另行核對其原始註釋文本。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：一貫強調，15:16「做神福音的祭司」是保羅對傳道職分極具份量的自我理解——他不是把自己抬高成獻祭的中保（新約唯一的中保是基督自己），而是指出，福音工人把外邦信徒帶到神面前、使他們「因著聖靈成為聖潔，可蒙悅納」，這件事本身帶著獻祭的莊重與代價；麥克阿瑟也常提醒，15:20保羅「不在別人的根基上建造」的宣教原則，對今日教會拓展策略仍是重要的提醒——真正的宣教心志，應當被那些「未曾聽見過」的群體所牽引，而非僅僅在已經飽和的工場裏彼此競爭。
+摩根一貫指出，羅馬書12-15章這整段生活倫理的教導，其實都是「因信稱義」教義（3-5章）與「聖靈中得勝的生命」（8章）在教會日常關係中的落地——15:1-13正是這段落地過程的巔峰：保羅沒有停在「堅固的人該包容軟弱的人」這樣一句訓誡，而是把整個教會論、甚至整卷書信從1章開始鋪陳的猶太人與外邦人的救恩合一，都收攏進基督自己「不求自己喜悅」的十字架邏輯裏。摩根也一貫強調，15:14-33這段常被讀者輕輕略過的「個人計劃」段落，其實不是書信的附錄，而是保羅整個神學體系活生生的示範——一個真正明白「因信稱義」與「萬民蒙恩」的人，必然會像保羅一樣，把生命投入到「未曾聽見過」的群體中去；教義若不長出宣教的腳，教義就還沒有真正被領受。
+
+> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
+
+### 麥克阿瑟 (John MacArthur)
+
+**約翰·麥克阿瑟 (John MacArthur)**：一貫強調，15:16「作神福音的祭司」是保羅對傳道職分極具份量的自我理解——他不是把自己抬高成獻祭的中保（新約唯一的中保是基督自己），而是指出，福音工人把外邦信徒帶到神面前、使他們「因著聖靈成為聖潔，可蒙悅納」，這件事本身帶著獻祭的莊重與代價；麥克阿瑟也常提醒，15:20保羅「不在別人的根基上建造」的宣教原則，對今日教會拓展策略仍是重要的提醒——真正的宣教心志，應當被那些「未曾聽見過」的群體所牽引，而非僅僅在已經飽和的工場裏彼此競爭。
 
 > 出處：此為對麥克阿瑟一貫解經立場與已知重點的一般性歸納轉述，未附具體講題、日期或 gty.org 網址連結，不宜視為逐字引句。
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 67:1-4
 
-> **願神憐憫我們，賜福於我們，**
-> 用臉光照我們，
-> 好叫世界得知你的道路，
-> 萬國得知你的救恩。
-> 神啊，願列邦稱讚你，
-> 願萬民都稱讚你！
-> 願萬國都快樂歡呼，
-> 因為你必按公正審判萬民，
+> **願神憐憫我們，賜福於我們，** \
+> 用臉光照我們， \
+> 好叫世界得知你的道路， \
+> 萬國得知你的救恩。 \
+> 神啊，願列邦稱讚你， \
+> 願萬民都稱讚你！ \
+> 願萬國都快樂歡呼， \
+> 因為你必按公正審判萬民， \
 > 引導世上的萬國。
 
-> **May God be gracious to us and bless us**
-> and make his face to shine upon us,
-> that your way may be known on earth,
-> your saving power among all nations.
-> Let the peoples praise you, O God;
-> let all the peoples praise you!
-> Let the nations be glad and sing for joy,
-> for you judge the peoples with equity
-> and guide the nations upon earth.
-
----
-
-## 聖詩默想 (Hymn Meditation)
+> **God be gracious to us and bless us,** \
+> *And* cause His face to shine upon us— \
+> That Your way may be known on the earth, \
+> Your salvation among all nations. \
+> Let the peoples praise You, O God; \
+> Let all the peoples praise You. \
+> Let the nations be glad and sing for joy; \
+> For You will judge the peoples with uprightness \
+> *And* guide the nations on the earth.
 
 ### O Zion, Haste
 
@@ -6033,48 +5279,26 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - 「無人告訴他們救主的捨命」— 正是15:20-21保羅「未曾傳給他們的，他們必看見」的宣教焦慮與使命感
 - 副歌「傳揚福音，傳揚平安的信息」— 呼應15:33「願賜平安的神常和你們眾人同在」，平安的源頭與平安的信息是同一位
 
----
+**另一節歌詞**：
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根深讀 (G. Campbell Morgan)
-
-摩根一貫指出，羅馬書12-15章這整段生活倫理的教導，其實都是「因信稱義」教義（3-5章）與「聖靈中得勝的生命」（8章）在教會日常關係中的落地——15:1-13正是這段落地過程的巔峰：保羅沒有停在「堅固的人該包容軟弱的人」這樣一句訓誡，而是把整個教會論、甚至整卷書信從1章開始鋪陳的猶太人與外邦人的救恩合一，都收攏進基督自己「不求自己喜悅」的十字架邏輯裏。摩根也一貫強調，15:14-33這段常被讀者輕輕略過的「個人計劃」段落，其實不是書信的附錄，而是保羅整個神學體系活生生的示範——一個真正明白「因信稱義」與「萬民蒙恩」的人，必然會像保羅一樣，把生命投入到「未曾聽見過」的群體中去；教義若不長出宣教的腳，教義就還沒有真正被領受。
-
-> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-**「盼望」不是情緒，是聖經產生的果子**——老弟兄一貫強調，讀經的目的是要在生命裏「住」進盼望與忍耐，而不只是累積知識。羅馬書15:4正是這個信念最直接的聖經根據：「從前所寫的聖經都是為教導我們寫的，要使我們藉著忍耐和因聖經所生的安慰，得著盼望。」老弟兄常提醒：盼望不是一種天生的樂觀性格，也不是自我催眠出來的正能量，而是「因聖經所生」——是持續讀經、持續被聖經的話語餵養出來的果子。你若發現自己近來心裏缺乏盼望，第一個要問的問題不是「我今天心情如何」，而是「我最近有沒有讓聖經的話語住在我裏面」。
-
-**外邦人蒙恩，不是新約的意外，是舊約早已寫定的計劃**——依老弟兄一貫「整本聖經只有一個主角、一個故事」的讀經信念，15:9-12連續四段舊約引文，正是最好的示範教材：保羅不是東拼西湊找幾節經文來支持自己的論點，而是讓律法書（申命記）、詩篇、先知書（以賽亞書）三個聲部合唱同一首歌——外邦人要與神的子民一同歡樂、要仰望那從耶西根而出的一位。老弟兄會問：你讀舊約的時候，眼睛盯著的是「猶太人的歷史」，還是「神從創世記12:3起，向亞伯拉罕應許『地上的萬族都必因你得福』」的那條主線？
-
-**保羅「從未想過」要在別人立好根基的地方傳道**——這是老弟兄式提問最直接能落到今日生命的一句話。保羅明確說「我立了志向，不在基督的名已經傳揚過的地方傳福音，免得建造在別人的根基上」（15:20）。老弟兄帶查經時常追問：你今天甘心服事的地方，是舒適的，還是神呼召你去的「前線」？我們很容易把「服事」等同於「留在自己熟悉、已經有人做好、有掌聲的地方」，但保羅畢生的宣教策略告訴我們：福音的心志，天然會被那些「未曾聽見過」的地方所牽引，而不是被舒適所牽引。
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*O Zion, Haste*（錫安速興，如前「配詩」所引）
-
-> Proclaim to every people, tongue, and nation
-> That God, in whom they live and move, is love;
-> Tell how He stooped to save His lost creation,
+> Proclaim to every people, tongue, and nation \
+> That God, in whom they live and move, is love; \
+> Tell how He stooped to save His lost creation, \
 > And died on earth that man might live above.
 
-**詩篇**：詩篇 67:2-3
-
-> 好叫世界得知你的道路，萬國得知你的救恩。神啊，願列邦稱讚你，願萬民都稱讚你！
+這一節正是全詩歌最直接的福音宣告——「祂降卑拯救祂失喪的創造，死在地上，使人得以活在天上」，與15:8-9「基督……使外邦人因他的憐憫榮耀神」遙相呼應。
 
 ---
 
-## 老弟兄查經 · 深讀 (Going Deeper)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
+
+**精義一句話**：基督不求自己的喜悅，這是全部基督徒倫理與全部宣教心志共同的根——真正明白這福音的人，不會停在教義裏，必然會像保羅一樣，把生命投入到「未曾聽見過」的地方。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：外邦人蒙恩，從創世記12:3就已經寫定。神呼召亞伯拉罕時說：「地上的萬族都必因你得福」（創12:3）——這句應許是整本聖經「萬國蒙恩」這條主線最早的源頭。羅馬書從4章開始，就一直在解釋亞伯拉罕的信如何成為萬人稱義的模式；到了15:9-12，這條線終於結出果子——保羅一連四段舊約引文（詩18、申32、詩117、賽11），證明外邦人與神的子民一同歡樂、一同讚美，正是創世記12:3那句應許一路走到底的成就。這條線往前推到創世記12章的呼召，往後可以一路推到啟示錄7:9「各國、各族、各民、各方」在寶座前敬拜的異象——羅馬書15章，正是這條萬國蒙恩主線走到新約教會現場的中途站。
+**萬國蒙恩主線**：神呼召亞伯拉罕時說：「地上的萬族都必因你得福」（創12:3）——這句應許是整本聖經「萬國蒙恩」這條主線最早的源頭。羅馬書從4章開始，就一直在解釋亞伯拉罕的信如何成為萬人稱義的模式；到了15:9-12，這條線終於結出果子——保羅一連四段舊約引文（詩18、申32、詩117、賽11），證明外邦人與神的子民一同歡樂、一同讚美，正是創世記12:3那句應許一路走到底的成就。這條線往前推到創世記12章的呼召，往後可以一路推到啟示錄7:9「各國、各族、各民、各方」在寶座前敬拜的異象——羅馬書15章，正是這條萬國蒙恩主線走到新約教會現場的中途站。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -6095,17 +5319,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天有沒有一個時刻，我選擇了「求自己的喜悅」而不是「讓鄰舍得造就」？
 - **一個行動**：具體為一位在「未曾聽見過」福音之地服事的宣教士（或一個尚未有教會的群體）代禱，並考慮實際的物質或行動上的支持——效法馬其頓、亞該亞教會，讓靈裏的相交落實在肉體的供應上。
 
----
+> 「基督不求自己的喜悅，祂承受了本該落在你我身上的羞辱——你還想把福音留在自己舒適的圈子裏嗎？」
 
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：基督不求自己的喜悅，這是全部基督徒倫理與全部宣教心志共同的根——真正明白這福音的人，不會停在教義裏，必然會像保羅一樣，把生命投入到「未曾聽見過」的地方。
-
-**貫通全經**：創世記12:3「地上的萬族都必因你得福」，一路走到羅馬書15:9-12律法、詩篇、先知合聲見證外邦人蒙恩，再走到啟示錄7:9「各國、各族、各民、各方」在寶座前的敬拜——這是同一條萬國蒙恩的主線。
-
-**無法迴避的問題**：「保羅『從未想過』要在別人已經立好根基的地方傳道——你今天甘心服事的地方，是舒適的，還是神呼召你去的『前線』？」
-
-> 「基督不求自己的喜悅，祂承受了本該落在你我身上的羞辱——你還想把福音留在自己舒適的圈子裏嗎？你看見耶穌了嗎？」
+**你看見耶穌了嗎**：整章沒有停在教義裏——那位「不求自己的喜悅」、甘願承受「辱罵你的人的辱罵都落在我身上」（引自詩69:9）的基督，正是保羅「從耶路撒冷直轉到以利哩古」所傳的那一位；祂先在客西馬尼說「不要照我的意思，只要照你的意思」，走過了十字架的路，才使保羅甘願走上耶路撒冷、甚至鎖鏈的路。你看見祂了嗎？
 
 ---
 
@@ -6113,13 +5329,11 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 默想問題
 
-1. **不求自己的喜悅**：我最近一次「讓鄰舍喜悅、使他得益處」而不是「求自己的喜悅」的具體選擇是甚麼？如果基督是我的榜樣，祂會怎麼做？
+1. **聖經與盼望**：我的盼望是從哪裏來的——是環境順利帶來的樂觀，還是「因聖經所生的忍耐和安慰」而來的確據？我最近多久沒有讓聖經的話語「住」在我裏面？
 
-2. **聖經與盼望**：我的盼望是從哪裏來的——是環境順利帶來的樂觀，還是「因聖經所生的忍耐和安慰」而來的確據？我最近多久沒有讓聖經的話語「住」在我裏面？
+2. **十字架受苦的性質**：保羅說「基督也不求自己的喜悅」（15:3），並引用詩篇69:9來解釋——這句舊約經文如何幫助我理解基督十字架受苦的性質？
 
-3. **萬國蒙恩的圖畫**：15:9-12的四段舊約引文，讓我對「福音是給萬民的」這件事有甚麼新的認識？我的禱告清單、我的關心範圍，是否也像神的心意一樣寬廣？
-
-4. **前線與舒適區**：保羅立志不在別人的根基上建造。今天神可能呼召我去服事的「前線」在哪裏——是地理上的遠方，還是我身邊一個被忽略的群體？
+3. **祭司的語言與服事**：15:16保羅用「祭司」的語言形容自己傳福音的事奉——這對我理解「傳道」「服事」這件事，帶來甚麼新的角度？
 
 ### 禱告回應
 
@@ -6138,21 +5352,19 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅說「基督也不求自己的喜悅」（15:3），並引用詩篇69:9來解釋——這句舊約經文如何幫助你理解基督十字架受苦的性質？
-
-2. 15:9-12連續四段舊約引文，分別出自律法書、詩篇、先知書——這種刻意的鋪排，對「外邦人蒙恩是否是神計劃之內」這個問題，提供了甚麼樣的答案？
-
-3. 15:16保羅用「祭司」的語言形容自己傳福音的事奉——這對你理解「傳道」「服事」這件事，帶來甚麼新的角度？
-
-4. 保羅立志「不在別人的根基上建造」（15:20）——這個宣教原則，對今天教會思考事工方向、資源分配，有甚麼具體的提醒或挑戰？
-
-5. 保羅在15:30-32所求的三件禱告事項，後來（依使徒行傳21-28章）幾乎以「他最擔心的事發生了，但神仍然帶他到了羅馬」的方式應驗——這對你如何看待「禱告沒有按我期待的方式蒙應允」，有甚麼幫助？
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 萬國蒙恩的應許 | 15:9-12 | 創12:3、詩18:49／撒下22:50、申32:43、詩117:1、賽11:10、啟7:9 |
+| 基督受苦的典範 | 15:3 | 詩69:9、太26:39 |
+| 受苦僕人的預言 | 15:20-21 | 賽52:13-53:12 |
+| 耶路撒冷捐項 | 15:25-28 | 林前16:1-4、林後8-9、徒24:17、腓1:5 |
+| 禱告的應驗與福音抵達羅馬 | 15:30-32 | 徒21:27起、徒28:16,20、腓1:13、腓4:22 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -6162,41 +5374,45 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書 16:1-27
 
----
+**經文核對**：[ai-eden.com/bible/romans/16](https://www.ai-eden.com/bible/romans/16?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-這一章常被當作「只是一串名單」匆匆翻過，但它其實是整卷福音書信最具體的「肉身化」證據——因為福音的能力（1:16），如今活在一群真實、有名有姓、跨越猶太人與外邦人、自由人與奴隸、男人與女人的身體裏，「在基督裏」（*en Christō*）這短語在本章反覆出現十餘次，每一次都在說：這些人之所以彼此相連，唯一的原因是耶穌基督。全信以「因信稱義」開始，卻以一份問安名單與一句榮耀頌結束——正說明稱義的教義若不落實成一個彼此相顧、跨越階級與種族的群體，就還沒有活出福音的全貌。而全信最後一句話，不是保羅的名字，是「獨一全智的神，藉着耶穌基督，得着榮耀，直到永遠」——羅馬書從「神的義」開始，以「神的榮耀」結束，中間的橋樑，是耶穌基督。
+> **本章鑰詞：同工 Synergos** \
+> **全書坐標**：卷五「活祭」的收尾，也是全書的收尾。12-15章的教導，在16章化為一份有名有姓的名單——福音的能力（1:16）落在具體的人身上；末了16:25-27的頌讚，把全書的論證收在「獨一全智的神」身上。 \
+> （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
+
+這一章常被當作「只是一串名單」匆匆翻過，但它其實是整卷福音書信最具體的「肉身化」證據——因為福音的能力（1:16），如今活在一群真實、有名有姓、跨越猶太人與外邦人、自由人與奴隸、男人與女人的身體裏，「在基督裏」（*en Christō*）這短語在本章反覆出現十餘次，每一次都在說：這些人之所以彼此相連，唯一的原因是耶穌基督。全信以「因信稱義」開始，卻以一份問安名單與一句榮耀頌結束——正說明稱義的教義若不落實成一個彼此相顧、跨越階級與種族的群體，就還沒有活出福音的全貌。而全信最後一句話，不是保羅的名字，是「獨一全智的神，藉著耶穌基督，得著榮耀，直到永遠」——羅馬書從「神的義」開始，以「神的榮耀」結束，中間的橋樑，是耶穌基督。
 
 ---
 
 ## 配詩 (Opening Hymn)
 
-> **To God Be the Glory**
+> **To God Be the Glory** \
 > *Fanny J. Crosby, 1875*
 >
-> To God be the glory, great things He hath done;
-> So loved He the world that He gave us His Son,
-> Who yielded His life an atonement for sin,
+> To God be the glory, great things He hath done; \
+> So loved He the world that He gave us His Son, \
+> Who yielded His life an atonement for sin, \
 > And opened the life gate that all may go in.
 >
-> Praise the Lord, praise the Lord,
-> Let the earth hear His voice!
-> Praise the Lord, praise the Lord,
-> Let the people rejoice!
-> O come to the Father, through Jesus the Son,
+> Praise the Lord, praise the Lord, \
+> Let the earth hear His voice! \
+> Praise the Lord, praise the Lord, \
+> Let the people rejoice! \
+> O come to the Father, through Jesus the Son, \
 > And give Him the glory, great things He hath done.
 >
-> 榮耀歸於真神，成就大事的神，
-> 祂愛世人，甚至賜下祂的獨生子，
-> 捨命作了贖罪祭，
+> 榮耀歸於真神，成就大事的神， \
+> 祂愛世人，甚至賜下祂的獨生子， \
+> 捨命作了贖罪祭， \
 > 開了生命的門，叫人都可以進來。
 >
-> 讚美主，讚美主，
-> 讓全地都聽見祂的聲音！
-> 讚美主，讚美主，
-> 讓萬民都歡欣！
-> 來到父面前，藉着耶穌聖子，
+> 讚美主，讚美主， \
+> 讓全地都聽見祂的聲音！ \
+> 讚美主，讚美主， \
+> 讓萬民都歡欣！ \
+> 來到父面前，藉着耶穌聖子， \
 > 將榮耀歸給祂，祂已成就大事。
 
 ---
@@ -6204,6 +5420,8 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
+
+> **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
 > \textsuperscript{1}我對你們舉薦我們的姐妹非比，她是堅革哩教會中的女執事。\textsuperscript{2}請你們為主接待她，合乎聖徒的體統。她在何事上要你們幫助，你們就幫助她，因她素來幫助許多人，也幫助了我。
 
@@ -6213,52 +5431,44 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > \textsuperscript{21}與我同工的提摩太和我的親屬路求、耶孫、所西巴德問你們安。\textsuperscript{22}我這代筆寫信的德丟在主裏面問你們安。\textsuperscript{23}那接待我，也接待全教會的該猶問你們安。\textsuperscript{24}城內管銀庫的以拉都和兄弟括土問你們安。
 
-> **\textsuperscript{25}唯有神能照我所傳的福音和所講的耶穌基督，並照永古隱藏不言的奧祕，堅固你們的心。\textsuperscript{26}這奧祕如今顯明出來，而且按著永生神的命，藉眾先知的書指示萬國的民，使他們信服真道。\textsuperscript{27}願榮耀因耶穌基督歸於獨一全智的神，直到永遠！阿們。**
+> **\textsuperscript{25}惟有神能照我所傳的福音和所講的耶穌基督，並照永古隱藏不言的奧祕，堅固你們的心。\textsuperscript{26}這奧祕如今顯明出來，而且按著永生神的命，藉眾先知的書指示萬國的民，使他們信服真道。\textsuperscript{27}願榮耀因耶穌基督歸於獨一全智的神，直到永遠！阿們。**
 
-> **版本說明**：本章中文經文為和合本（CUV），經 cnbible.com（現代標點和合本）逐節核對；英文 ESV。
+### English — NASB
 
-### English — ESV
+> \textsuperscript{1}I commend to you our sister Phoebe, who is a servant of the church which is at Cenchrea; \textsuperscript{2}that you receive her in the Lord in a manner worthy of the saints, and that you help her in whatever matter she may have need of you; for she herself has also been a helper of many, and of myself as well.
 
-> \textsuperscript{1}I commend to you our sister Phoebe, a servant of the church at Cenchreae, \textsuperscript{2}that you may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well.
+> \textsuperscript{3}Greet Prisca and Aquila, my fellow workers in Christ Jesus, \textsuperscript{4}who for my life risked their own necks, to whom not only do I give thanks, but also all the churches of the Gentiles; \textsuperscript{5}also *greet* the church that is in their house. Greet Epaenetus, my beloved, who is the first convert to Christ from Asia. \textsuperscript{6}Greet Mary, who has worked hard for you. \textsuperscript{7}Greet Andronicus and Junias, my kinsmen and my fellow prisoners, who are outstanding among the apostles, who also were in Christ before me. \textsuperscript{8}Greet Ampliatus, my beloved in the Lord. \textsuperscript{9}Greet Urbanus, our fellow worker in Christ, and Stachys my beloved. \textsuperscript{10}Greet Apelles, the approved in Christ. Greet those who are of the *household* of Aristobulus. \textsuperscript{11}Greet Herodion, my kinsman. Greet those of the *household* of Narcissus, who are in the Lord. \textsuperscript{12}Greet Tryphaena and Tryphosa, workers in the Lord. Greet Persis the beloved, who has worked hard in the Lord. \textsuperscript{13}Greet Rufus, a choice man in the Lord, also his mother and mine. \textsuperscript{14}Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brethren with them. \textsuperscript{15}Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them. \textsuperscript{16}Greet one another with a holy kiss. All the churches of Christ greet you.
 
-> \textsuperscript{3}Greet Prisca and Aquila, my fellow workers in Christ Jesus, \textsuperscript{4}who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well. \textsuperscript{5}Greet also the church in their house. Greet my beloved Epaenetus, who was the first convert to Christ in Asia. \textsuperscript{6}Greet Mary, who has worked hard for you. \textsuperscript{7}Greet Andronicus and Junia, my kinsmen and my fellow prisoners. They are well known to the apostles, and they were in Christ before me. \textsuperscript{8}Greet Ampliatus, my beloved in the Lord. \textsuperscript{9}Greet Urbanus, our fellow worker in Christ, and my beloved Stachys. \textsuperscript{10}Greet Apelles, who is approved in Christ. Greet those who belong to the family of Aristobulus. \textsuperscript{11}Greet my kinsman Herodion. Greet those in the Lord who belong to the family of Narcissus. \textsuperscript{12}Greet those workers in the Lord, Tryphaena and Tryphosa. Greet the beloved Persis, who has worked hard in the Lord. \textsuperscript{13}Greet Rufus, chosen in the Lord; also his mother, who has been a mother to me as well. \textsuperscript{14}Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them. \textsuperscript{15}Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them. \textsuperscript{16}Greet one another with a holy kiss. All the churches of Christ greet you.
+> \textsuperscript{17}Now I urge you, brethren, keep your eye on those who cause dissensions and hindrances contrary to the teaching which you learned, and turn away from them. \textsuperscript{18}For such men are slaves, not of our Lord Christ but of their own appetites; and by their smooth and flattering speech they deceive the hearts of the unsuspecting. \textsuperscript{19}For the report of your obedience has reached to all; therefore I am rejoicing over you, but I want you to be wise in what is good and innocent in what is evil. \textsuperscript{20}The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
 
-> \textsuperscript{17}I appeal to you, brothers, to watch out for those who cause divisions and create obstacles contrary to the doctrine that you have been taught; avoid them. \textsuperscript{18}For such persons do not serve our Lord Christ, but their own appetites, and by smooth talk and flattery they deceive the hearts of the naive. \textsuperscript{19}For your obedience is known to all, so that I rejoice over you, but I want you to be wise as to what is good and innocent as to what is evil. \textsuperscript{20}The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you.
+> \textsuperscript{21}Timothy my fellow worker greets you, and *so* *do* Lucius and Jason and Sosipater, my kinsmen. \textsuperscript{22}I, Tertius, who write this letter, greet you in the Lord. \textsuperscript{23}Gaius, host to me and to the whole church, greets you. Erastus, the city treasurer greets you, and Quartus, the brother. \textsuperscript{24}[The grace of our Lord Jesus Christ be with you all. Amen.]
 
-> \textsuperscript{21}Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen. \textsuperscript{22}I Tertius, who wrote this letter, greet you in the Lord. \textsuperscript{23}Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you.
+> **\textsuperscript{25}Now to Him who is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret for long ages past, \textsuperscript{26}but now is manifested, and by the Scriptures of the prophets, according to the commandment of the eternal God, has been made known to all the nations, *leading* to obedience of faith; \textsuperscript{27}to the only wise God, through Jesus Christ, be the glory forever. Amen.**
 
-> **\textsuperscript{25}Now to him who is able to strengthen you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery that was kept secret for long ages \textsuperscript{26}but has now been disclosed and through the prophetic writings has been made known to all nations, according to the command of the eternal God, to bring about the obedience of faith— \textsuperscript{27}to the only wise God be glory forevermore through Jesus Christ! Amen.**
-
-*經文小記*：中英經文在16:24上有真實的抄本差異。和合本（CUV）依據其所本的多數文本／公認經文傳統，於23節之後列出24節「城內管銀庫的以拉都和兄弟括土問你們安」；英文 ESV（連同多數現代譯本所依據的較早抄本）則於23節之後直接接25節，將這句話列為異文腳註，不編入正文——這是真實、可查證的抄本差異，下文「背景」一節另有說明。
+*經文小記*：中英文本在16:23-24的分節與內容上，存在真實、可查證的抄本差異，而且比表面看起來更複雜。和合本（CUV）依其所本的多數文本傳統，23節只列該猶一人問安，另立24節「城內管銀庫的以拉都和兄弟括土問你們安」。NASB 1995（經 biblehub.com/nasb/romans/16 核對）的分節方式不同：以拉都、括土的問安被併入23節（與該猶同節），24節則另外印出一句以方括號標示的文字——"[The grace of our Lord Jesus Christ be with you all. Amen.]"（大意：願我們主耶穌基督的恩，常與你們眾人同在，阿們）——這是多數文本傳統裏重複出現的**第二次**「恩惠頌辭」（第一次已見於20節），NASB以方括號註明此句屬後期抄本所加、不見於最早期可靠抄本。換句話說，NASB雖然仍把24節編了號，但24節的實際內容與和合本24節（以拉都、括土的問安）完全不同：和合本把「以拉都、括土問安」單獨列為24節；NASB把同一句問安併入23節，卻另外把一句不同的、有手抄本存疑的恩惠頌辭方括號標為24節。這是真實、可查證的抄本與分節差異，不是本書校訂的疏失。
 
 ---
 
 ## 背景 (Context)
 
-### 非比與「薦信」的古代慣例
+### 非比與「薦信」的古代慣例，及她的身份
 
-保羅寫信給一個他從未親自建立、也從未去過的教會（羅1:13），卻能在16章一口氣點名超過三十個真實姓名——這本身就是古代書信文化留下的線索：非比很可能就是這封信的實際送信人。在缺乏郵政系統的古代世界，重要書信通常交由一位可信賴、要親自前往目的地的人攜帶，而攜帶者往往同時負有「代言」之責——收信教會若有疑問，可以當面詢問她。保羅在16:1-2用的正是古代「薦信」（letter of commendation）的標準格式，與使徒行傳18:27推薦亞波羅、哥林多後書3:1提到的「薦信」、約翰三書12節推薦低米丟，屬於同一種文體。
-
-### 非比的身份：執事？教會的女執事？
-
-原文稱非比為 *diakonon*（διάκονον）——這正是保羅在腓立比書1:1、提摩太前書3:8-13用來稱呼教會「執事」職分的同一個詞。這是一個真實、至今仍在學界持續討論的問題：保羅在這裏是用「執事」的一般意義（僕人、服事者），還是指她在堅革哩教會擔任正式的「執事」職分？兩種讀法在歷代注疏與當代學者中都有人持守，本書不擅自替讀者下最終定論，只誠實呈現：這節經文至少證明，非比在堅革哩教會中擔負著保羅認可、值得全教會鄭重接待的服事角色；而16:2稱她是「許多人和我的 *prostatis*（προστάτις）」——這個詞在當時常指有社會地位、能以財力資助他人事業的「贊助人／保護人」，暗示非比很可能是一位有相當經濟能力與社會地位的婦女，曾實質資助過保羅的宣教工作。
+保羅寫信給一個他從未親自建立、也從未去過的教會（羅1:13），卻能在16章一口氣點名超過三十個真實姓名——這本身就是古代書信文化留下的線索：非比很可能就是這封信的實際送信人。在缺乏郵政系統的古代世界，重要書信通常交由一位可信賴、要親自前往目的地的人攜帶，而攜帶者往往同時負有「代言」之責——收信教會若有疑問，可以當面詢問她。保羅在16:1-2用的正是古代「薦信」（letter of commendation）的標準格式，與使徒行傳18:27推薦亞波羅、哥林多後書3:1提到的「薦信」、約翰三書12節推薦低米丟，屬於同一種文體。原文稱非比為 *diakonon*（διάκονον）——這正是保羅在腓立比書1:1、提摩太前書3:8-13用來稱呼教會「執事」職分的同一個詞。這是一個真實、至今仍在學界持續討論的問題：保羅在這裏是用「執事」的一般意義（僕人、服事者），還是指她在堅革哩教會擔任正式的「執事」職分？兩種讀法在歷代注疏與當代學者中都有人持守，本書不擅自替讀者下最終定論，只誠實呈現：這節經文至少證明，非比在堅革哩教會中擔負著保羅認可、值得全教會鄭重接待的服事角色；而16:2稱她是「許多人和我的 *prostatis*（προστάτις）」——這個詞在當時常指有社會地位、能以財力資助他人事業的「贊助人／保護人」，暗示非比很可能是一位有相當經濟能力與社會地位的婦女，曾實質資助過保羅的宣教工作。
 
 ### 從東方流散到羅馬：一份跨越帝國的人際網絡
 
-保羅從未到過羅馬，卻認識這麼多羅馬教會的人——原因並不神祕：羅馬帝國的道路與商業網絡使人口高度流動。百基拉和亞居拉正是活生生的例子：他們原本住在羅馬，因革老丟皇帝驅逐猶太人的命令（徒18:2）遷到哥林多，在那裏與保羅同工，後隨保羅到以弗所（徒18:18-19），此時顯然已經回到羅馬——保羅稱他們「為我的性命把自己的生死置之度外」，這極可能呼應使徒行傳19章以弗所暴動一類真實發生過的凶險場面，只是細節聖經沒有明說。
+保羅從未到過羅馬，卻認識這麼多羅馬教會的人——原因並不神祕：羅馬帝國的道路與商業網絡使人口高度流動。百基拉和亞居拉正是活生生的例子：他們原本住在羅馬，因革老丟皇帝驅逐猶太人的命令（徒18:2）遷到哥林多，在那裏與保羅同工，後隨保羅到以弗所（徒18:18-19），此時顯然已經回到羅馬——保羅稱他們「也為我的命將自己的頸項置之度外」，這極可能呼應使徒行傳19章以弗所暴動一類真實發生過的凶險場面，只是細節聖經沒有明說。
 
 ### 名單裏的社會階層：一個真正跨階級的教會
 
-學者（如萊特福特 J. B. Lightfoot 對「該撒家裏的人」的研究）早已指出：16章許多名字——暗伯利、士大古、亞遜其土、弗勒干、黑米、黑馬、非羅羅古——都是當時羅馬常見的奴隸或釋放奴（freedman）名字，在羅馬考古發現的墓誌銘（columbaria）中大量出現同類姓名。「亞利多布家裏的人」與「拿其數家裏的人」也引發真實而審慎的歷史推測：亞利多布可能是希律大王的孫子、亞基帕一世的兄弟，曾住在羅馬；拿其數則可能是革老丟皇帝的釋放奴秘書，主後54年尼祿即位後被迫自盡——若真是同一人，保羅只問候「屬拿其數的人」而不問候拿其數本人，恰恰吻合了他此時可能已經去世、其家眷（奴僕）轉歸皇室的歷史背景。這些身份指認在學界屬於「合理但無法百分之百證實」的推測，本書如實呈現為推測，不當作確證陳述。
-
-無論這些身份指認能否完全坐實，有一件事是肯定的：這份名單裏，猶太人（百基拉、安多尼古、猶尼亞、希羅天）與外邦人並列，奴隸背景的名字與有社會地位的贊助人（非比、該猶）並列，男性與女性並列——這正是保羅在加拉太書3:28所宣告的「不再分猶太人、希臘人，自主的、為奴的，或男或女……在基督耶穌裏都成為一了」的具體、有名有姓的實現。
+學者（如萊特福特 J. B. Lightfoot 對「該撒家裏的人」的研究）早已指出：16章許多名字——暗伯利、士大古、亞遜其土、弗勒干、黑米、黑馬、非羅羅古——都是當時羅馬常見的奴隸或釋放奴（freedman）名字，在羅馬考古發現的墓誌銘（columbaria）中大量出現同類姓名。「亞利多布家裏的人」與「拿其數家裏的人」也引發真實而審慎的歷史推測：亞利多布可能是希律大王的孫子、亞基帕一世的兄弟，曾住在羅馬；拿其數則可能是革老丟皇帝的釋放奴秘書，主後54年尼祿即位後被迫自盡——若真是同一人，保羅只問候「屬拿其數的人」而不問候拿其數本人，恰恰吻合了他此時可能已經去世、其家眷（奴僕）轉歸皇室的歷史背景。這些身份指認在學界屬於「合理但無法百分之百證實」的推測，本書如實呈現為推測，不當作確證陳述。無論這些身份指認能否完全坐實，有一件事是肯定的：這份名單裏，猶太人（百基拉、安多尼古、猶尼亞、希羅天）與外邦人並列，奴隸背景的名字與有社會地位的贊助人（非比、該猶）並列，男性與女性並列——這正是保羅在加拉太書3:28所宣告的「不再分猶太人、希臘人，自主的、為奴的，或男或女……在基督耶穌裏都成為一了」的具體、有名有姓的實現。
 
 ---
 
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
+|-------------------------|------------------|------------------|------------------|
 | διάκονον | diakonon | 執事／僕人 | 16:1，用於非比，與提前3章、腓1:1同詞 |
 | προστάτις | prostatis | 贊助人／保護人 | 16:2，暗示社會地位與財力資助 |
 | συνεργούς | synergous（字典形 synergos） | 同工 | 16:3、9、21，男女皆稱「同工」，無分別 |
@@ -6281,42 +5491,19 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
-### 1. 稱義的社會果效 (The Social Fruit of Justification)
+### 1. 稱義的社會果效：誰配得在教會中被尊重 (16:1-16)
 
-羅馬書前十五章講的是神如何稱一個不配的人為義；第16章讓我們看見這稱義活出來是甚麼樣子——一個原本按律法、階級、種族彼此隔絕的世界，如今因信基督而彼此相認、彼此服事、彼此以聖潔的親吻問安（16:16）。教義若不落實在具體姓名構成的群體裏，就還沒有走完保羅的邏輯。
+羅馬書前十五章講的是神如何稱一個不配的人為義；第16章讓我們看見這稱義活出來是甚麼樣子——一個原本按律法、階級、種族彼此隔絕的世界，如今因信基督而彼此相認、彼此服事、彼此以聖潔的親吻問安（16:16）。教義若不落實在具體姓名構成的群體裏，就還沒有走完保羅的邏輯。這份名單裏最令人驚訝的，不是誰被列在最前面，而是誰被列進來：奴隸背景的暗伯利、士大古，被保羅稱「我所親愛的」；辛勞服事的女性被公開表揚；猶尼亞（很可能是女性）被稱在使徒中有名望。保羅衡量一個人在教會中價值的標準，從來不是社會地位、性別、或出身，而是「在主裏」的忠心與勞苦。
 
-### 2. 誰配得在教會中被尊重？
+### 2. 分門結黨的警戒，與撒但終必被踐踏的應許 (16:17-20)
 
-這份名單裏最令人驚訝的，不是誰被列在最前面，而是誰被列進來：奴隸背景的暗伯利、士大古，被保羅稱「我所親愛的」；辛勞服事的女性被公開表揚；猶尼亞（很可能是女性）被稱在使徒中有名望。保羅衡量一個人在教會中價值的標準，從來不是社會地位、性別、或出身，而是「在主裏」的忠心與勞苦。
+16:17-19警告「那些離間你們、使你們跌倒、違背所學之道的人」，並指出他們的動機是「服侍自己的肚腹」而非基督，手段是「花言巧語」。保羅在此提醒羅馬教會：純正教義（「你們所學之道」）不是可有可無的裝飾，而是辨別假教師的準繩；服事若不是為著基督，遲早會服事自己的私慾。緊接著，16:20「那賜平安的神快要把撒但踐踏在你們腳下」，直接呼應創世記3:15神對蛇說的第一個福音應許——「女人的後裔要傷你的頭」。這不是偶然的措辭巧合：保羅提醒讀者，教會今天與分裂、假教師的爭戰，最終不是人的爭戰，而是創世記3章那場爭戰的延續，而結局早已在伊甸園的應許裏寫定。
 
-### 3. 分門結黨的真正根源
+### 3. 德丟的代筆、榮耀頌的濃縮，與一段誠實的抄本歷史 (16:22, 25-27)
 
-16:17-19警告「那些離間你們、使你們跌倒、違背所學之道的人」，並指出他們的動機是「服侍自己的肚腹」而非基督，手段是「花言巧語」。保羅在此提醒羅馬教會：純正教義（「你們所學之道」）不是可有可無的裝飾，而是辨別假教師的準繩；服事若不是為著基督，遲早會服事自己的私慾。
-
-### 4. 創世記3:15的回聲：撒但終必被踐踏
-
-16:20「那賜平安的神快要把撒但踐踏在你們腳下」，直接呼應創世記3:15神對蛇說的第一個福音應許——「女人的後裔要傷你的頭」。這不是偶然的措辭巧合：保羅在寫完一整卷關於神的義如何勝過罪的信之後，用這句話提醒讀者，教會今天與分裂、假教師的爭戰，最終不是人的爭戰，而是創世記3章那場爭戰的延續，而結局早已在伊甸園的應許裏寫定。
-
-### 5. 德丟與代筆——真實的古代書寫實踐
-
-16:22「我這代筆寫信的德丟」是一個真實、有歷史根據的細節：保羅的書信絕大多數並非親手所寫，而是口述給一位代筆者（amanuensis）記錄，自己只在信末親筆簽署或加上一段（參加拉太書6:11「請看我親手寫給你們的字是何等大」，暗示此前經文出自他人手筆）。德丟在此突然以第一人稱插入問安，是古代書信寫作習慣留下的真實痕跡，也讓我們看見：這封改變教會歷史的信，是由一位我們幾乎一無所知、卻忠心執筆的弟兄親手寫成的。
-
-### 6. 榮耀頌——全信的濃縮
-
-16:25-27不只是禮貌的結尾，而是把全信的論證壓縮成一句話：
-- 「我所傳的福音」——1-11章的整個福音內容
-- 「歷代以來隱藏的奧祕」——與11:25以色列奧祕同詞，暗示這奧祕不只是猶太人得救，更是整個「因信稱義、外邦人也在其內」的救恩計劃，長久隱藏在神心中
-- 「藉眾先知的書指示萬民」——舊約先知的應許如今在福音裏應驗（參1:2「這福音是神從前藉眾先知在聖經上所應許的」）
-- 「使他們因信而順服」——與1:5一字不差重複，首尾呼應
-- 「榮耀，藉着耶穌基督，歸給獨一全智的神」——一切的終點
-
-幾乎羅馬書每一個主要主題，都被濃縮進這一個句子。
-
-### 7. 一個誠實的抄本歷史附記
-
-現存最早的一批羅馬書抄本中，這段榮耀頌（16:25-27）的位置並不完全一致：多數抄本置於16章末尾（即現行編排），但也有部分早期抄本將其置於14章之後，甚至15章之後，還有極少數抄本兩處都保留、或完全省略。這是真實、可查證的經文校勘（textual criticism）現象，多數學者相信這反映了羅馬書早期流傳過程中，可能存在不同長度的抄本版本（例如省去14-16章的簡短版本用於其他教會傳閱），而非榮耀頌本身的真偽受到懷疑——歷代教會普遍接納這段經文為正典的一部分。誠實地認識這段歷史，能幫助我們更深體會：聖經文本是在真實的歷史過程中被抄寫、傳遞、保存下來的，而神的話語經得起這樣的檢視。
+16:22「我這代筆寫信的德丟」是一個真實、有歷史根據的細節：保羅的書信絕大多數並非親手所寫，而是口述給一位代筆者（amanuensis）記錄，自己只在信末親筆簽署或加上一段（參加拉太書6:11「請看我親手寫給你們的字是何等大」，暗示此前經文出自他人手筆）。德丟在此突然以第一人稱插入問安，是古代書信寫作習慣留下的真實痕跡，也讓我們看見：這封改變教會歷史的信，是由一位我們幾乎一無所知、卻忠心執筆的弟兄親手寫成的。16:25-27不只是禮貌的結尾，而是把全信的論證壓縮成一句話：「我所傳的福音」——1-11章的整個福音內容；「歷代以來隱藏的奧祕」——與11:25以色列奧祕同詞，暗示這奧祕不只是猶太人得救，更是整個「因信稱義、外邦人也在其內」的救恩計劃，長久隱藏在神心中；「藉眾先知的書指示萬民」——舊約先知的應許如今在福音裏應驗（參1:2「這福音是神從前藉眾先知在聖經上所應許的」）；「使他們因信而順服」——與1:5一字不差重複，首尾呼應；「榮耀，藉著耶穌基督，歸給獨一全智的神」——一切的終點。幾乎羅馬書每一個主要主題，都被濃縮進這一個句子。現存最早的一批羅馬書抄本中，這段榮耀頌（16:25-27）的位置並不完全一致：多數抄本置於16章末尾（即現行編排），但也有部分早期抄本將其置於14章之後，甚至15章之後，還有極少數抄本兩處都保留、或完全省略。這是真實、可查證的經文校勘（textual criticism）現象，多數學者相信這反映了羅馬書早期流傳過程中，可能存在不同長度的抄本版本（例如省去14-16章的簡短版本用於其他教會傳閱），而非榮耀頌本身的真偽受到懷疑——歷代教會普遍接納這段經文為正典的一部分。誠實地認識這段歷史，能幫助我們更深體會：聖經文本是在真實的歷史過程中被抄寫、傳遞、保存下來的，而神的話語經得起這樣的檢視。
 
 ---
 
@@ -6333,7 +5520,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > 出處：對屈梭多模羅馬書講道相關立場的一般性、綜合性轉述（其講道全集傳統上收於《羅馬書講道集》），非逐字引句核對；此為新約學界討論猶尼亞問題時經常引述的一項教父時期見證，具體篇章文字讀者可另行查核原文。
 
-### 改教家時期
+### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
@@ -6341,9 +5528,15 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 > 出處：對加爾文《羅馬書註釋》相關立場的一般性、綜合性轉述，非逐字引句。
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，羅馬書16章常被讀者輕輕翻過，視為「不過是一份問候名單」，但若細看，會發現這是全信真理最生動的實踐版本：前面十五章論證「神如何使不同的人（猶太人、外邦人）在基督裏成為一」，第16章則是這個真理長出的具體果子——一份由奴隸、婦女、猶太人、外邦人、有地位的贊助人共同組成的名單，彼此以「我所親愛的」相稱。摩根強調，保羅在此展現的，不是空泛的教牧客套，而是使徒深刻記得每一位同工具體的勞苦與付出——在保羅筆下，沒有一個人只是「某某人的同工」，他記得的是一個個活生生的名字。
+
+摩根也特別看重16:25-27榮耀頌作為全信的「拱心石」：整卷書信從「神的義」的宣告開始，中間論證因信稱義、與基督同死同活、聖靈中的新生命、以色列的奧祕、基督徒的倫理生活，最終全部收攏於這一句對「獨一全智的神」的頌讚——在摩根看來，一封論證最嚴謹的教義書信，最合宜的結尾不是總結重點，而是敬拜。
+
+> 出處：對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性、綜合性轉述，非逐字引句核對。
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，保羅用如此長的篇幅一一點名問安，正說明使徒事工從來不是「一人英雄式」的孤軍奮戰，而是建立在無數默默勞苦、甚至許多今日已無從考證身份的信徒身上；16:25-27的榮耀頌則是「整卷羅馬書神學論證的濃縮結晶」，把因信稱義的福音、長久隱藏如今顯明的奧祕、萬民因信而順服的異象，全部收攏於一句對神榮耀的頌讚。
 
@@ -6351,22 +5544,18 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 詩篇回應 (Psalm Response)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 115:1
 
-> **榮耀不要歸與我們，耶和華啊，不要歸與我們**；
+> **榮耀不要歸與我們，耶和華啊，不要歸與我們**； \
 > 要因你的慈愛和信實歸在你的名下！
 
-> **Not to us, O LORD, not to us**,
-> but to your name give glory,
-> for the sake of your steadfast love and your faithfulness!
+> **Not to us, O LORD, not to us**, \
+> But to Your name give glory \
+> Because of Your lovingkindness, because of Your truth.
 
 這正是16:27「願榮耀……歸給獨一全智的神」的舊約回聲：保羅在信末沒有為自己或任何一位被提名的同工求榮耀，而是把一切歸回詩篇最古老的禱告——榮耀不屬於我們，只屬於祂。
-
----
-
-## 聖詩默想 (Hymn Meditation)
 
 ### To God Be the Glory
 
@@ -6374,9 +5563,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **另一配詩：Praise God From Whom All Blessings Flow**（Ken's Doxology，Thomas Ken, 1674）
 
-> Praise God, from whom all blessings flow;
-> Praise Him, all creatures here below;
-> Praise Him above, ye heavenly host;
+> Praise God, from whom all blessings flow; \
+> Praise Him, all creatures here below; \
+> Praise Him above, ye heavenly host; \
 > Praise Father, Son, and Holy Ghost. Amen.
 
 這首三百多年來被無數教會用作崇拜結束頌的短詩，與羅馬書16:25-27一樣，把一切服事、一切問安、一切教義的爭辯，最終都收束在同一個動作：將榮耀歸給神。
@@ -6385,54 +5574,25 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 老弟兄查經 (Reading with the Elder Brother)
 
-### 摩根深讀 (G. Campbell Morgan)
+> **誠實說明（出處）**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
 
-摩根指出，羅馬書16章常被讀者輕輕翻過，視為「不過是一份問候名單」，但若細看，會發現這是全信神學最生動的實踐版本：前面十五章論證「神如何使不同的人（猶太人、外邦人）在基督裏成為一」，第16章則是這個真理長出的具體果子——一份由奴隸、婦女、猶太人、外邦人、有地位的贊助人共同組成的名單，彼此以「我所親愛的」相稱。摩根強調，保羅在此展現的，不是空泛的教牧客套，而是使徒深刻記得每一位同工具體的勞苦與付出——在保羅筆下，沒有一個人只是「某某人的同工」，他記得的是一個個活生生的名字。
-
-摩根也特別看重16:25-27榮耀頌作為全信的「拱心石」：整卷書信從「神的義」的宣告開始，中間論證因信稱義、與基督同死同活、聖靈中的新生命、以色列的奧祕、基督徒的倫理生活，最終全部收攏於這一句對「獨一全智的神」的頌讚——在摩根看來，一封論證最嚴謹的教義書信，最合宜的結尾不是總結重點，而是敬拜。
-
-> 出處：對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性、綜合性轉述，非逐字引句核對。
-
-### 老弟兄查經洞見 (The Elder's Insights)
-
-老弟兄常提醒：「不是我們去建立教會，是你手上有沒有釘痕的手。」（按：這是口語的濃縮說法——建立教會的不是我們，而是那位手上有釘痕的主；我們的服事，端看倚靠的是不是祂。）——這句話直接切中羅馬書16章的核心：這份名單裏沒有一個人的名字被高舉過基督，保羅自己也不例外；每一位被題名的人，價值都不在於他們是誰、屬於誰，而在於他們「在主裏」的忠心。
-
-老弟兄也常引哥林多前書1:12-15提醒：「很多人說：我是某某名牧師施洗的。保羅怎麼看這件事？」——這句提問，正好呼應羅馬書16:17-19保羅對「離間、使人跌倒」之人的警戒。教會的分裂，往往不是從教義的爭論開始，而是從「以人為中心」開始——把教會叫做「某某人的教會」，把服事的果效歸給某一位屬人的領袖，而不是歸給那位釘痕的手所代表的基督自己。
-
-老弟兄的查經方法，總是把讀者引向一個問題：保羅特別提到的這些名字，很多是女性、是奴隸、是外邦人——這對「誰在教會裏配得尊重」給你甚麼挑戰？
-
-> 出處：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄，此書卷之老弟兄內容為方法論之忠實應用，非逐字歷史引句）。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*To God Be the Glory*（榮耀歸於真神，如前「配詩」所引）
-
-> To God be the glory, great things He hath done;
-> So loved He the world that He gave us His Son.
-
-**詩篇**：詩篇 115:1
-
-> 榮耀不要歸與我們，耶和華啊，不要歸與我們；要因你的慈愛和信實歸在你的名下！
-
----
-
-## 老弟兄查經 · 深讀 (Going Deeper)
+**精義一句話**：一封論證最嚴謹的教義書信，最後不是用更多道理收尾，而是用一份跨越階級與種族的名單、和一句「願榮耀歸給神」的頌讚收尾——因為福音若不長成一個彼此相顧的群體，教義就還沒有走完它該走的路。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：從第一個福音應許，到全信最後一句「阿們」。羅馬書16:20說「那賜平安的神快要把撒但踐踏在你們腳下」，這句話直接回到聖經最早的一個福音宣告——創世記3:15，神對蛇說：「女人的後裔要傷你的頭。」保羅寫這封論證最嚴謹的教義書信，最後卻用伊甸園裏最古老的應許來鼓勵讀者：教會今天面對的分裂、假教師、試探，本質上仍是那場最早的爭戰的延續——而神已經應許了結局。
+**蛇必被踐踏線**：羅馬書16:20說「那賜平安的神快要把撒但踐踏在你們腳下」，這句話直接回到聖經最早的一個福音宣告——創世記3:15，神對蛇說：「女人的後裔要傷你的頭。」保羅寫這封論證最嚴謹的教義書信，最後卻用伊甸園裏最古老的應許來鼓勵讀者：教會今天面對的分裂、假教師、試探，本質上仍是那場最早的爭戰的延續——而神已經應許了結局。
 
-這條線也連著16:25-27的「奧祕」（*mystērion*）——與11:25以色列得救的奧祕同一個詞。整卷羅馬書講的，其實是一個從創世記3:15就開始、藏在神心裏許多世代，如今在基督裏向萬民顯明的奧祕：神要藉着女人的後裔，把猶太人和外邦人都收納進同一個因信而順服的群體裏。
+**奧祕收合線**：16:25-27的「奧祕」（*mystērion*）與11:25以色列得救的奧祕同一個詞。整卷羅馬書講的，其實是一個從創世記3:15就開始、藏在神心裏許多世代，如今在基督裏向萬民顯明的奧祕：神要藉著女人的後裔，把猶太人和外邦人都收納進同一個因信而順服的群體裏。
+
+**教會不分門結黨線**：老弟兄常引哥林多前書1:12-15提醒：「很多人說：我是某某名牧師施洗的。保羅怎麼看這件事？」——這句提問，正好呼應羅馬書16:17-19保羅對「離間、使人跌倒」之人的警戒。教會的分裂，往往不是從教義的爭論開始，而是從「以人為中心」開始——把教會叫做「某某人的教會」，把服事的果效歸給某一位屬人的領袖，而不是歸給那位釘痕的手所代表的基督自己。
 
 ### 提問式對話 (Let the Reader Speak)
 
 老弟兄不急著給答案，他一層一層地問：
 
-- 先問：「保羅寫了一整卷最嚴謹的神學書信，為甚麼最後一章用來寫一份人名單，而不是再多寫一段教義？」
+- 先問：「保羅寫了一整卷最嚴謹的教義書信，為甚麼最後一章用來寫一份人名單，而不是再多寫一段教義？」
 - 再問：「這份名單裏，猶太人、外邦人、奴隸、有地位的贊助人都在一起——這是巧合，還是保羅刻意要讓讀者看見因信稱義活出來的樣子？」
 - 追問：「保羅特別提到的這些名字，很多是女性、是奴隸、是外邦人——這對『誰在教會裏配得尊重』給你甚麼挑戰？」
 - 再問：「16:17警告『離間、使人跌倒』的人——你有沒有見過教會裏『我是某某名牧師施洗的』這種說法？問題出在哪裏？」
@@ -6448,19 +5608,9 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 - **晚上**：今天我心裏，教會的價值是繫在某一個人的名字上，還是繫在那隻有釘痕的手上？
 - **一個行動**：今天具體地向一位平時被忽略、卻忠心服事的弟兄姊妹表達感謝——像保羅一樣，叫出他的名字。
 
----
-
-## 老弟兄精義 (The Distilled Key)
-
-**一句話精義**：一封論證最嚴謹的教義書信，最後不是用更多神學收尾，而是用一份跨越階級與種族的名單、和一句「願榮耀歸給神」的頌讚收尾——因為福音若不長成一個彼此相顧的群體，教義就還沒有走完它該走的路。
-
-**貫通全經**：創世記3:15「女人的後裔要傷你的頭」的應許，在羅馬書16:20「神快要把撒但踐踏在你們腳下」找到迴響——伊甸園最早的福音宣告，仍在教會今天的爭戰中應驗。
-
-**無法迴避的問題**：「教會若不是靠某一個人的名字站立，是靠誰？那隻手上有沒有釘痕？」
-
 > 「不是我們去建立教會，是你手上有沒有釘痕的手。」——建立教會的不是我們，是那位手上有釘痕的主。
 
-**你看見耶穌了嗎？**——走過羅馬書十六章，我們看見的耶穌是誰？祂是1章那使人得救的福音大能；是2章按公義審判各人的審判者；是3章神所設立、用祂的血作挽回祭、平息神忿怒的那一位；是5章那位「末後的亞當」，使因信之人得着與亞當所失去的相反的一切；是6-8章那位使人與祂同死同活、叫聖靈內住、叫人不再被定罪的復活的主；是11章那位「必有一位救主從錫安出來，要消除雅各家的一切罪惡」的拯救者；是13章那位信徒被呼召要「披戴」的基督；是15章那位「不求自己的喜悅」、成為捨己之愛的樣式的主；如今在16章的末了，祂是那位一切榮耀、藉着祂、直到永遠都要歸給獨一全智之神的中保與道路——羅馬書從頭到尾，只有一位主角，而祂的名字，配得末了那一句「阿們」。
+**你看見耶穌了嗎**：整章沒有一句直接的教訓，卻句句都在說耶穌基督——「在基督裏」（*en Christō*）這短語在問安名單裏反覆出現十餘次，每一次都在宣告：這些猶太人與外邦人、奴隸與贊助人、男人與女人之所以彼此相連，唯一的原因是祂。全信以「神的義」開始，如今在16:27以「獨一全智的神，藉著耶穌基督，得著榮耀」收尾——中間的橋樑，從頭到尾只有一位：耶穌基督。你看見祂了嗎？
 
 ---
 
@@ -6468,38 +5618,35 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 默想問題
 
-1. **我如何衡量一個人在教會裏的價值？**：是按地位、恩賜的顯眼程度、還是按保羅在16章那樣，按「在主裏」的忠心與勞苦？
+1. **非比被稱為堅革哩教會的「執事」（*diakonos*）**——這對今日教會如何理解女性在服事中的角色，帶來甚麼樣真實而值得深思的問題？請誠實面對這個至今仍在討論中的問題，不急於下結論。
 
-2. **我有沒有活出福音的社會果效？**：我與教會裏和我背景、地位、種族不同的肢體，是否真正彼此相認、彼此服事，如同羅馬教會那份名單所顯明的？
+2. **猶尼亞「在使徒中是有名望的」這句話，歷代解經有不同讀法**——這提醒我們在面對聖經中不易一次讀清楚的經文時，應該抱持怎樣的態度？
 
-3. **我如何面對教會裏的分裂與假教導？**：16:17-19提醒我們要「留意躲避」離間、使人跌倒的人——我今天是否曾被花言巧語打動，卻沒有回到「所學之道」去查驗？
-
-4. **我是否把教會的根基放錯了地方？**：教會的合一，是繫於某位屬人的領袖，還是繫於那位釘痕的手？
+3. **16:25-27的榮耀頌把「福音」「奧祕」「先知的書」「因信而順服」「神的榮耀」全部串連在一起**——請試著用自己的話，把整卷羅馬書的信息濃縮成一句禱告般的頌讚。
 
 ### 禱告回應
 
 > 天父，感謝祢在基督裏，把猶太人和外邦人、自主的和為奴的、男的和女的，都收納成同一個身體。
 > 求祢讓我看重那些常被忽略、卻忠心勞苦服事的肢體，像保羅記念非比、百基拉、馬利亞、猶尼亞一樣記念他們。
 > 求祢保守我不被花言巧語誘惑，離開祢所教導我的純正之道。
-> 願榮耀，藉着耶穌基督，歸給獨一全智的祢，直到永遠。阿們。
+> 願榮耀，藉著耶穌基督，歸給獨一全智的祢，直到永遠。阿們。
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 保羅在16章點名超過三十位真實姓名，這對「使徒事工從來不是一人之功」這件事，給你甚麼提醒？
-
-2. 非比被稱為堅革哩教會的「執事」（*diakonos*）——這對今日教會如何理解女性在服事中的角色，帶來甚麼樣真實而值得深思的問題？請誠實面對這個至今仍在討論中的問題，不急於下結論。
-
-3. 猶尼亞「在使徒中是有名望的」這句話，歷代解經有不同讀法——這提醒我們在面對聖經中不易一次讀清楚的經文時，應該抱持怎樣的態度？
-
-4. 16:17-20把「教會的分裂」和「撒但終必被踐踏」放在一起講——這對你理解教會裏的紛爭，有甚麼屬靈層面的提醒？
-
-5. 16:25-27的榮耀頌把「福音」「奧祕」「先知的書」「因信而順服」「神的榮耀」全部串連在一起——請試着用自己的話，把整卷羅馬書的信息濃縮成一句禱告般的頌讚。
+| 主題 | 本章經文 | 相關經文 |
+|----------------------------|----------------------------|----------------------------|
+| 撒但終必被踐踏 | 16:20 | 創3:15 |
+| 因信而順服：全信的文學收合 | 16:26 | 羅1:5 |
+| 隱藏的奧祕，如今顯明 | 16:25 | 羅11:25、1:2 |
+| 教會不分門結黨 | 16:17-19 | 林前1:12-15 |
+| 跨越階級與種族的合一 | 16:1-16 | 加3:28 |
+| 兩個榮耀頌，一個結構 | 16:25-27 | 羅11:33-36 |
 
 ---
 
-*本章研讀整合三方資源：老弟兄查經方法論、John MacArthur (gty.org)、G. Campbell Morgan；經文核對來源：CUV 經 cnbible.com（現代標點和合本）逐節核實，ESV 經 biblegateway.com 逐節核實*
+*本章研讀整合三方資源：老弟兄查經方法論之忠實應用（無羅馬書逐節查經筆記原始記錄，見「老弟兄查經」出處說明）、John MacArthur (gty.org)、G. Campbell Morgan*
 
 
 \newpage
@@ -6515,7 +5662,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 # 卷末：從羅馬到西班牙——福音未走完的路 (From Rome to Spain: The Road the Gospel Has Not Finished)
 
-> 讀完十六章，不要合上書。保羅自己說了，羅馬不是終點——「我必從你們那裏經過，**往西班牙去**」（15:28）。
+> 讀完十六章，不要合上書。保羅自己說了，羅馬不是終點——「我就要路過你們那裏，**往西班牙去**」（15:28）。
 > 這一章把羅馬書接進它的下文：使徒行傳的結尾、初代教會的見證、伊甸園最古老的應許，一直接到啟示錄的寶座；也接到這卷書此刻所在的地方——你的手上。
 
 ---
@@ -6530,7 +5677,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 羅馬書的行程表寫得清清楚楚：
 
-> **15:23-24**　但如今，在這裏再沒有可傳的地方，而且這好幾年，我切心想望到西班牙去的時候，可以到你們那裏……\textsuperscript{28}等我辦完了這事……我就要從你們那裏經過，**往西班牙去**。
+> **15:23-24, 28**　但如今在這裏再沒有可傳的地方，而且這好幾年，我切心想望到西班牙去的時候，可以到你們那裏……\textsuperscript{28}等我辦完了這事……我就要路過你們那裏，**往西班牙去**。
 
 西班牙（Hispania）——當時羅馬世界的最西端，直布羅陀之外就是「世界的盡頭」。保羅的心從來不安於已經點亮的地方：「我立了志向，不在基督的名被稱過的地方傳福音」（15:20）。
 
@@ -6548,7 +5695,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 然後，這條線走到了一張查經桌上。老弟兄從中國大陸到香港，再到美國灣區，六十多年，把一群平凡的人聚在這本聖經面前。11:17 說外邦人是「野橄欖」，逆著農藝的常理，被接在栽培的橄欖樹上——**我們就是那根野枝子。**羅馬書 16 章那份名單裏的每一個名字——百基拉、亞居拉、非比、魯孚和他的母親——當年也不過是「平凡的人」；名單的最後一行沒有寫滿，兩千年來，一直有人往上添。
 
-> **11:18**　你就不可向舊枝子誇口；若是誇口，當知道**不是你托著根，乃是根托著你**。
+> **11:18**　你就不可向舊枝子誇口。若是誇口，當知道**不是你托著根，乃是根托著你**。
 
 ---
 
@@ -6579,7 +5726,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 羅馬書 8 章有一段常被匆匆讀過的話，它的下文遠在聖經的最後兩章：
 
 | 羅馬書 8 章 | 啟示錄 21-22 章 |
-|------------|----------------|
+|----------------------------------|----------------------------------------------|
 | 8:19 受造之物切望等候**神的眾子顯出來** | 21:7 得勝的，要承受這些為業；我要作他的神，**他要作我的兒子** |
 | 8:21 受造之物仍然指望脫離敗壞的轄制 | 21:1 我又看見**一個新天新地** |
 | 8:22 一切受造之物一同歎息勞苦，直到如今 | 21:4 神要擦去他們一切的眼淚，**不再有死亡**，也不再有悲哀、哭號、疼痛 |
@@ -6598,7 +5745,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 五、讀完羅馬書，接下來讀甚麼
 
 | 下一卷 | 為甚麼 |
-|--------|--------|
+|----------------------------------------|----------------------------------------|
 | **加拉太書** | 同一場辯詞更急切的版本——「人的一面」的因信稱義；羅馬書讀累了，去那裏聽保羅拍桌子 |
 | **創世記 12-22 章** | 亞伯拉罕的信原本的現場——帳篷、祭壇、以撒；羅馬書 4 章的根 |
 | **哈巴谷書** | 「義人必因信得生」原本的處境——一個先知在國破前夕的瞭望樓上 |
@@ -6626,7 +5773,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ## 你看見耶穌了嗎？
 
-羅馬書 1:3-4 介紹祂出場：「按肉體說，是從大衛後裔生的；按聖善的靈說，因從死裏復活，以大能顯明是神的兒子。」十六章之後，16:27 送祂收尾：「願榮耀，因耶穌基督，歸與獨一全智的神，直到永遠。阿們。」
+羅馬書 1:3-4 介紹祂出場：「按肉體說，是從大衛後裔生的；按聖善的靈說，因從死裏復活，以大能顯明是神的兒子。」十六章之後，16:27 送祂收尾：「願榮耀因耶穌基督歸於獨一全智的神，直到永遠！阿們。」
 
 從大衛的後裔，到榮耀的中保——中間隔著的，是挽回祭的血（3 章）、末後亞當的順服（5 章）、同死同活的聯合（6 章）、右邊的代求（8 章）、錫安的拯救者（11 章）、被披戴的主（13 章）、不求自己喜悅的僕人（15 章）。
 
@@ -6654,7 +5801,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ### 羅馬書內部——各章核心經文範圍
 
 | 經文 | 章 | 主題 |
-|------|----|----|
+|----------------------------------|-----------------------|-----------------------|
 | 1:1-32 | 01 | 福音的大能與人的敗壞——全信引言與定罪的起點 |
 | 1:1-6 | 01 | 福音的定義：論到神兒子的宣告，非感覺或原則 |
 | 1:16-17 | 01 | 全信主題句：因信稱義（「本於信，以致於信」） |
@@ -6718,10 +5865,10 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 跨書引用——出現在「三大資源深度整合」與「老弟兄查經 · 深讀」中的其他經文
 
-以下僅收錄實際出現在各章「三大資源深度整合」（含摩根深讀、老弟兄查經洞見）與「老弟兄查經 · 深讀」（含全經連線）兩類小節中的跨書經文，依出現章別如實列出；正文「背景」「原文研讀」「神學要點」等其他小節中出現、但未在這兩類小節重複的經文，不列入本表。
+以下僅收錄實際出現在各章「三大資源深度整合」（含摩根深讀、老弟兄查經洞見）與「老弟兄查經 · 深讀」（含全經連線）兩類小節中的跨書經文，依出現章別如實列出；正文「背景」「原文研讀」「領受要點」等其他小節中出現、但未在這兩類小節重複的經文，不列入本表。
 
 | 經文 | 出現章 | 關聯主題 |
-|------|--------|----------|
+|--------------------|---------------------------|---------------------------------|
 | 創世記1:26 | 01 | 神照自己形像造人——與1:23人把神的榮耀換偶像形成對照 |
 | 創世記2:7 | 09 | 耶和華用塵土造人——窯匠與泥意象的更深根源 |
 | 創世記3:8 | 08 | 亞當夏娃犯罪後躲藏，與8:15「阿爸，父」的坦然對比 |
@@ -6771,7 +5918,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ## 附錄二：主題索引 (Key Themes Index)
 
 | 主題 | 簡述 | 主要章節 |
-|------|------|----------|
+|----------------------|----------------------|------------------------------------|
 | 因信稱義 | 神因恩典、藉信基督，稱有罪、被定罪的人為義；全信核心教義 | 01、03、04、05、09、10 |
 | 挽回祭與十字架的果效 | 耶穌作施恩座（*hilastērion*），一次同時滿足神的公義、又向罪人施憐憫 | 03（獻祭語言延伸至12、15） |
 | 亞當與基督：兩元首對比 | 人類分屬兩個代表性元首——一人的悖逆帶入定罪，一人的順從帶入稱義 | 01、05 |
@@ -6809,7 +5956,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 本附錄彙整 00-overview.md 及 01-16 各章「歷代注疏 (Historical Commentary)」「三大資源深度整合 (Deep Integration: Three Core Resources)」與正文「出處」標記中實際出現過的全部出處，按作者分類、去重整理，並如實記錄每一章實際採用的聖經版本與核對來源。與提摩太前書附錄相同的誠實原則在此同樣適用：本書歷代注疏與 MacArthur／Morgan 段落絕大多數屬於**對其一貫解經立場與已知重點的一般性、綜合性歸納轉述**，而非可逐字核對、附有講題與網址的個別講章或篇章引句——各章正文本身已在對應「出處」行如實標明此點。但與提摩太前書不同的是，羅馬書全書十六章之中出現了**若干篇幅較長、且經作者自陳已透過線上原始文本查證的直接引句**（見下文第三節），本附錄如實區分這些「已核實逐字引句」與其餘「一般性歸納轉述」，不將兩者混為一談。
 
-**最重要的一項誠實聲明**（詳見第四節）：本書寫作前已獨立查證，老弟兄原始查經筆記檔案（`Logos_meditation/church/Thursday.md`）中**沒有任何一則以羅馬書為主題的記載**——這與提摩太前書、以弗所書等已有原始逐節筆記可核實的書卷完全不同。全書16章「老弟兄查經洞見」與「老弟兄查經 · 深讀」的一切內容，均為老弟兄一貫查經方法論與神學框架（記錄於方法論文件 `ask-elder-wong.md`）在羅馬書經文上的忠實應用，**不是**對任何歷史原始查經記錄的逐字引用。
+**最重要的一項誠實聲明**（詳見第四節）：本書寫作前已獨立查證，老弟兄原始查經筆記檔案（`Logos_meditation/church/Thursday.md`）中**沒有任何一則以羅馬書為主題的記載**——這與提摩太前書、以弗所書等已有原始逐節筆記可核實的書卷完全不同。全書16章「老弟兄查經洞見」與「老弟兄查經 · 深讀」的一切內容，均為老弟兄一貫查經方法論與領受框架（記錄於方法論文件 `ask-elder-wong.md`）在羅馬書經文上的忠實應用，**不是**對任何歷史原始查經記錄的逐字引用。
 
 ---
 
@@ -6818,7 +5965,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 各章「歷代注疏 · 當代釋經」及「三大資源深度整合」小節均以「麥克阿瑟指出／認為／一貫強調」的方式轉述其一貫解經立場，未附具體講題、日期或 gty.org 網址，故不宜視為逐字引句——這與 00-overview.md 中四段以直接引句形式收錄的 MacArthur 文字（見下方「基準引句」說明）性質不同。各章論及主題如下：
 
 | 出現章 | 論及經文／主題 |
-|------|------|
+|----------------------------------------|----------------------------------------|
 | 00（overview） | 羅馬書的主題：從神而來的義；稱義的本質是法庭宣告而非神對信徒的改變；「算」(*logizomai*) 是稱義教義核心；稱義的益處 |
 | 01 | （00-overview.md 引句於1章「歷代注疏」重申，未附新內容） |
 | 02 | 2章猶太讀者的危險：把「認識」神的標準誤當成「達到」神的標準 |
@@ -6846,24 +5993,24 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 同上，各章均以「摩根指出／認為／一貫強調」轉述其對羅馬書一貫解經立場的綜合歸納，多章「出處」行明確自陳為「一般性論述」「綜合性歸納轉述」，未附具體篇章、頁碼：
 
 | 出現章 | 論及經文／主題 | 出處行原文自陳 |
-|------|------|------|
+|---------------------------|---------------------------|---------------------------|
 | 00（overview） | 羅馬書的特色（「最悲觀的文學篇章」／「最樂觀的詩歌」）；加拉太書與羅馬書的關係 | 未附書目 |
-| 01 | 「不以福音為恥」的具體處境；福音的邏輯次序；1:18-32是創造敘事的倒退 | 「對G. Campbell Morgan羅馬書相關講章一貫解經立場的一般性論述綜合整理」 |
+| 01 | 「不以福音為恥」的具體處境；福音的邏輯次序；1:18-32是創造敘事的倒退 | 「對 G. Campbell Morgan羅馬書相關講章一貫解經立場的一般性論述綜合整理」 |
 | 02 | 論證的修辭策略（法庭式層層逼近）；「悲觀」與「樂觀」的張力；「不偏待人」與福音普世性 | 「對 G. Campbell Morgan 羅馬書結構分析與一貫解經立場之一般性歸納」 |
 | 03 | 前三章是精心搭建的法庭；「但如今」是全信軸心；挽回祭是全段重心 | 「對 G. Campbell Morgan 羅馬書1-3章相關講章與釋經著作一貫解經立場的綜合性歸納陳述」 |
 | 04 | 從辯詞到見證；亞伯拉罕作「信心的原型」；「使無變為有」的創造性信心 | 「對 G. Campbell Morgan 羅馬書相關講章（含《The Analyzed Bible》系列）之一般性、綜合性歸納轉述」 |
 | 05 | 從法庭到家中；「何況」是全段骨架；兩個元首的宇宙圖景 | 「G. Campbell Morgan 羅馬書相關講章與著作對5章主題之綜合闡述精神」 |
-| 06 | 羅馬書兩種文學氣質在此交會；「算」是會計學命令；「新生的樣子」與受造之物盼望呼應 | 「對G. Campbell Morgan羅馬書相關講章與著作一貫解經精神之綜合性歸納」 |
+| 06 | 羅馬書兩種文學氣質在此交會；「算」是會計學命令；「新生的樣子」與受造之物盼望呼應 | 「對 G. Campbell Morgan羅馬書相關講章與著作一貫解經精神之綜合性歸納」 |
 | 07 | 保羅為律法「平反」；7:25「感謝神」是第8章的序曲 | 「對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作已知重點的一般性、綜合性歸納轉述」 |
 | 08 | 從「取死的身體」到「不被定罪」的劇烈轉折；三階段結構在8章交會；8:31-39是辯護詞的巔峰 | 「本節為對 G. Campbell Morgan……一般性、綜合性論述」（僅「最悲觀的文學篇章」一句沿用00-overview.md已核實逐字引句） |
-| 09 | 從「不能隔絕」到「大有憂愁」；器皿的意象不是宿命是呼召；全章收束句才是鑰匙 | 「對G. Campbell Morgan羅馬書相關講章一貫解經取向之一般性歸納轉述」 |
+| 09 | 從「不能隔絕」到「大有憂愁」；器皿的意象不是宿命是呼召；全章收束句才是鑰匙 | 「對 G. Campbell Morgan羅馬書相關講章一貫解經取向之一般性歸納轉述」 |
 | 10 | 熱心與知識的分離是宗教最危險的狀態；律法的終點站；近在咫尺的福音；宣教的鎖鏈 | 「對 G. Campbell Morgan 羅馬書9-11章相關講章一貫解經立場的一般性歸納轉述」 |
 | 11 | 9-11章是全信不可缺的骨架；橄欖樹是「因信站立」主題的民族層面重演；頌讚是論證的必然終點 | 「未能定位可逐字核對之特定講章或篇章，非逐字引句」 |
 | 12 | 教義倫理次序（先「是甚麼」才「當如何」）；12:9「愛：不虛假的」的格言式命令結構 | 「G. Campbell Morgan 對羅馬書結構與教義倫理次序的一貫解經立場之綜合轉述」 |
-| 13 | 從活祭到市場與稅單；「神的用人」與古列並讀；律法與愛的辯證 | 「以上為G. Campbell Morgan對羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述」 |
+| 13 | 從活祭到市場與稅單；「神的用人」與古列並讀；律法與愛的辯證 | 「以上為 G. Campbell Morgan對羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述」 |
 | 14 | 從公共領域到私人良心；「審判臺」是全章軸心意象；神國度的再定義 | 「一般性論述，非逐字逐句之單一出處引句」 |
 | 15 | 12-15章是教義的落地；15:14-33「個人計劃」是神學體系活生生的示範 | 「未附具體篇章頁碼，不宜視為逐字引句」 |
-| 16 | 16章是全信神學最生動的實踐版本；榮耀頌是全信的「拱心石」 | 「對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性、綜合性轉述，非逐字引句核對」 |
+| 16 | 16章是全信真理最生動的實踐版本；榮耀頌是全信的「拱心石」 | 「對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性、綜合性轉述，非逐字引句核對」 |
 
 未見任何一章附具體出版頁碼或可逐字核對之篇章來源，除00-overview.md的兩段基準引句（羅馬書特色、加拉太書與羅馬書的關係）外，其餘均為一般性歸納轉述——此為本書寫作時的實際情況，如實記錄，與部分其他書卷附錄採用之逐篇核實格式不同。
 
@@ -6876,7 +6023,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ### 屈梭多模／金口約翰 (John Chrysostom, 約347-407)
 
 | 出現章 | 論及經文／主題 |
-|------|------|
+|----------------------------------------|----------------------------------------|
 | 01 | 保羅稱自己是「僕人」在先、「使徒」在後的順序；福音的能力不靠雄辯言詞 |
 | 02 | 2:1的對象不只是猶太人，也包括自居道德教師的異教哲學家 |
 | 04 | 「稱不虔者為義」的驚人程度，顯明救恩完全出於神的恩慈 |
@@ -6894,7 +6041,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ### 奧古斯丁 (Augustine, 354-430)
 
 | 出現章 | 論及經文／主題 | 性質 |
-|------|------|------|
+|---------------------------|---------------------------|---------------------------|
 | 02 | 《論精神與字句》(*De Spiritu et Littera*, 412年) 回應伯拉糾主義，論律法若無聖靈同在只能是「叫人死的儀文」 | 一般性歸納，非逐字引句 |
 | 04 | 反伯拉糾論證：連信心本身也是神所賜的禮物，非人憑意志換取稱義的功德 | 一般性歸納 |
 | 05 | 與伯拉糾之爭（主後五世紀初）——原罪教義形成的關鍵戰場，418年迦太基議會、431年以弗所大公會議譴責伯拉糾主義 | 真實可考的歷史事件，非逐字引句 |
@@ -6908,7 +6055,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ### 馬丁·路德 (Martin Luther, 1483-1546)
 
 | 出現章 | 論及經文／主題 | 性質 |
-|------|------|------|
+|---------------------------|---------------------------|---------------------------|
 | 01 | 1545年《拉丁文全集序言》回顧「高塔經歷」(*Turmerlebnis*)；1522年《羅馬書序言》稱此書「新約中最重要的部分」 | 概述性轉述，明確自陳「非逐字全文翻譯」；1522年一句為廣泛引用之常見譯法 |
 | 02 | 《羅馬書講義》(*Lectures on Romans*，1515-1516年羅馬書講義)：律法的「神學性用途」——像鏡子照出污穢卻不能洗淨 | 一般性歸納，未附具體頁碼 |
 | 03 | 1522年〈羅馬書序言〉稱羅馬書為「最純淨的福音」「聖經的心臟與核心」 | 一般性歸納轉述 |
@@ -6925,7 +6072,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 除12章外，其餘各章均以「一貫強調」「一般性歸納」轉述，未逐字引用《基督教要義》或《羅馬書註釋》原文：
 
 | 出現章 | 論及經文／主題 |
-|------|------|
+|----------------------------------------|----------------------------------------|
 | 01 | 羅馬書是解開全部聖經的鑰匙——福音邏輯次序講得最完整、最有系統 |
 | 02 | 2:6「照行為報應」不與因信稱義衝突——行為是信心的果子，非稱義根基 |
 | 03 | 3:21-26是因信稱義教義的源頭經文；稱義是法庭宣告（*acceptilatio*），非改造過程 |
@@ -6944,7 +6091,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 ### 約翰·衛斯理 (John Wesley, 1703-1791)
 
 | 出現章 | 論及經文／主題 | 性質 |
-|------|------|------|
+|---------------------------|---------------------------|---------------------------|
 | 01 | 1738年5月24日亞爾道斯門街聚會，聽路德羅馬書序言被朗讀而歸信 | 日記原文引用，公開可查證之一手史料 |
 | 05 | 同一事件，附完整英文日記原文引句 | **明確標註為「唯一附有具體日期、且為逐字引句的是約翰·衛斯理1738年5月24日的日記原文，此為公開、可查證之一手史料」** |
 
@@ -6955,7 +6102,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 羅馬書12章「歷代注疏」小節收錄三段**明確附出處、並經作者自陳查證來源**的直接引句，性質與本書其餘各章、以及提摩太前書附錄中一律「非逐字引句」的注疏顯著不同：
 
 | 作者 | 出處 | 出處行自陳查證方式 |
-|------|------|------|
+|---------------------------|---------------------------|---------------------------|
 | 奧古斯丁 | 《上帝之城》(*City of God*)，卷十第6章 | 經 CCEL (Christian Classics Ethereal Library) 線上原始文本查證 |
 | 屈梭多模 | 《羅馬書講道集》第20篇 | 經 New Advent 線上《羅馬書講道集》第20篇原文查證，並經多方獨立來源交叉核對 |
 | 約翰·加爾文 | 《基督教要義》卷三第7章第1節 | 經 CCEL 線上原始文本查證 |
@@ -6968,19 +6115,19 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **與提摩太前書附錄的根本差異，必須在此鄭重聲明**：提摩太前書附錄能夠逐條列出老弟兄 2024-2025年 Thursday 查經筆記（`Logos_meditation/church/Thursday.md`）中對應提摩太前書具體章節的原始記載日期與筆記原文，因為那份原始檔案裏確實存在提摩太前書的逐節查經記錄。**羅馬書的情況完全不同**：本書寫作前已獨立查證，`Logos_meditation/church/Thursday.md` 中**沒有任何一則以羅馬書為主題的記載**。這不是本附錄的推測或猜想，而是01章「老弟兄查經洞見」小節開篇即明確寫下的查證結果：
 
-> 「本書所依據之老弟兄原始查經筆記（`Logos_meditation/church/Thursday.md`，2024-2025年Thursday查經班逐條記錄）經查證，並無任何一則以羅馬書為主題的記載，這與提摩太前書等已有原始筆記可逐條核實的書卷不同。」
+> 「本書所依據之老弟兄原始查經筆記（`Logos_meditation/church/Thursday.md`，2024-2025年 Thursday 查經班逐條記錄）經查證，並無任何一則以羅馬書為主題的記載，這與提摩太前書等已有原始筆記可逐條核實的書卷不同。」
 
-因此，全書16章「老弟兄查經洞見」與「老弟兄查經 · 深讀」小節的一切內容，**沒有一章**是對某年某月某日原始筆記的逐字引用或核實轉錄；**全部**是以老弟兄一貫的查經方法論與神學框架——救恩三階段（稱義／成聖／得榮）、「三個律」（自然律、道德律、屬靈的律）、「字句叫人死，精義叫人活」、「兩大國度」（塔與壇）、提問式帶領（先問、再問、追問、落到自己）、以整本聖經為根基、以認識耶穌基督為中心——忠實應用於羅馬書各章經文而成。這套方法論本身記錄於方法論文件 `ask-elder-wong.md`，是真實存在、可查核的框架文件，但它是**方法論文件**，不是**羅馬書逐節查經記錄**。
+因此，全書16章「老弟兄查經洞見」與「老弟兄查經 · 深讀」小節的一切內容，**沒有一章**是對某年某月某日原始筆記的逐字引用或核實轉錄；**全部**是以老弟兄一貫的查經方法論與領受框架——救恩三階段（稱義／成聖／得榮）、「三個律」（自然律、道德律、屬靈的律）、「字句叫人死，精義叫人活」、「兩大國度」（塔與壇）、提問式帶領（先問、再問、追問、落到自己）、以整本聖經為根基、以認識耶穌基督為中心——忠實應用於羅馬書各章經文而成。這套方法論本身記錄於方法論文件 `ask-elder-wong.md`，是真實存在、可查核的框架文件，但它是**方法論文件**，不是**羅馬書逐節查經記錄**。
 
 下表逐章列出各章自身「出處」行的實際自陳文字，供讀者逐一核對：
 
 | 章 | 出處行實際文字（節錄） |
-|----|------|
-| 01 | 「本書所依據之老弟兄原始查經筆記……經查證，並無任何一則以羅馬書為主題的記載……以下內容……**不是**逐字引用他對本章的歷史原始記錄。」另於「老弟兄查經 · 深讀」節首重申：「本節依老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。」 |
-| 02 | 「以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。『三個律』框架與『字句叫人死，精義叫人活』為其查經筆記中真實記載之教導內容（原用於教牧書信查經），在此忠實應用於羅馬書2章文本，非杜撰之羅馬書專屬筆記。」 |
-| 03 | 「以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。」 |
+|--------------------------------|------------------------------------------------|
+| 01 | 「本書所依據之老弟兄原始查經筆記……經查證，並無任何一則以羅馬書為主題的記載……以下內容……**不是**逐字引用他對本章的歷史原始記錄。」另於「老弟兄查經 · 深讀」節首重申：「本節依老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。」 |
+| 02 | 「以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。『三個律』框架與『字句叫人死，精義叫人活』為其查經筆記中真實記載之教導內容（原用於教牧書信查經），在此忠實應用於羅馬書2章文本，非杜撰之羅馬書專屬筆記。」 |
+| 03 | 「以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。」 |
 | 04 | 同上標準用語（無對應原始記錄，方法論之忠實應用）。 |
-| 05 | 「**誠實說明——本節內容的出處**：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。」 |
+| 05 | 「**誠實說明——本節內容的出處**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。」 |
 | 06 | 同上標準用語。 |
 | 07 | 同上標準用語。 |
 | 08 | 同上標準用語。 |
@@ -6989,7 +6136,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 | 11 | 同上標準用語。 |
 | 12 | 同上標準用語。 |
 | 13 | 同上標準用語（「本章老弟兄部分為查經方法論之忠實應用，非逐字歷史引句，詳見正文『出處』說明」，見章末整體出處）。 |
-| 14 | 「**誠實說明——本節內容的出處**：以老弟兄查經方法論與神學框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。『知識叫人自高』一句，摘自老弟兄查經帶領時的常用關鍵語錄，屬其一貫教導風格中已被記錄下來的真實用語。」 |
+| 14 | 「**誠實說明——本節內容的出處**：以老弟兄查經方法論與領受框架撰寫（無對應之老弟兄羅馬書逐節查經筆記原始記錄……非逐字歷史引句）。『知識叫人自高』一句，摘自老弟兄查經帶領時的常用關鍵語錄，屬其一貫教導風格中已被記錄下來的真實用語。」 |
 | 15 | 同上標準用語。 |
 | 16 | 同上標準用語。 |
 
@@ -6999,26 +6146,30 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 2. **14章「知識叫人自高」一語的特殊地位**：與其餘章節不同，14章明確指出「知識叫人自高」這句老弟兄常用語錄，屬於「其一貫教導風格中已被記錄下來的真實用語」——換言之，這是老弟兄真實說過、且已被記錄下來的一句話，但這句話本身並非取自羅馬書14章的逐節查經筆記，而是他一貫教導風格中的通用語錄，被忠實應用在羅馬書14章的處境上。這與提摩太前書附錄中「老弟兄查經筆記中真實記載之教導內容（原用於教牧書信查經），在此忠實應用」的性質類似（見02章「三個律」框架），值得與「完全出於方法論延伸、無任何已知原話依據」的其餘內容區分開來。
 
-**總結**：羅馬書全書「老弟兄」相關內容的可信定位是——**忠於一位真實存在、有據可查之查經方法論的神學應用寫作**，而非**對某一場已發生之羅馬書查經聚會的歷史記錄**。這是本卷與提摩太前書附錄在此議題上最根本的差異，讀者引用本書「老弟兄查經洞見」內容時，應以此定位理解，不宜誤引為老弟兄本人對羅馬書逐節發表過的歷史言論。
+**總結**：羅馬書全書「老弟兄」相關內容的可信定位是——**忠於一位真實存在、有據可查之查經方法論的領受應用寫作**，而非**對某一場已發生之羅馬書查經聚會的歷史記錄**。這是本卷與提摩太前書附錄在此議題上最根本的差異，讀者引用本書「老弟兄查經洞見」內容時，應以此定位理解，不宜誤引為老弟兄本人對羅馬書逐節發表過的歷史言論。
 
 ---
 
 ## 五、聖經版本與經文核對來源 (Bible Versions & Scripture Verification)
 
-**2026年8月版本統一說明**：本書初版（2026年7月）各章中文經文版本並不一致——部分章標示和合本 (CUV)，部分章標示和合本修訂版 (RCUV) 卻未附可查核的核對來源（詳見下方「初版狀況存檔」）。2026年8月，全書01-16章**逐章逐節重新核對**，中文經文**統一改為和合本 (CUV)**，核對來源為 ai-eden.com 或 cnbible.com（現代標點和合本 CUVMPT，繁體）；English 統一為 ESV，核對來源為 biblegateway.com 或 biblehub.com。各章「經文」小節現均附「版本說明」一行，如實標明該章實際使用的核對來源。凡經文段落之後有引號直接引用的正文（歷代注疏、原文研讀、老弟兄查經等小節），已同步核對並統一為 CUV 用字；未加引號的釋義性轉述、對 RCUV／和合本修訂版之歷史沿革的客觀描述，以及 16 章關於16:24抄本異文的說明，均按其性質保留，不強行改寫。
+**2026年8月版本統一說明**：本書初版（2026年7月）各章中文經文版本並不一致——部分章標示和合本 (CUV)，部分章標示和合本修訂版 (RCUV) 卻未附可查核的核對來源（詳見下方「初版狀況存檔」）。2026年8月，全書01-16章**逐章逐節重新核對**，中文經文**統一改為和合本 (CUV)**，核對來源為 ai-eden.com 或 cnbible.com（現代標點和合本 CUVMPT，繁體）；English 當時統一為 ESV，核對來源為 biblegateway.com 或 biblehub.com。各章「經文」小節現均附「版本說明」一行，如實標明該章實際使用的核對來源。凡經文段落之後有引號直接引用的正文（歷代注疏、原文研讀、老弟兄查經等小節），已同步核對並統一為 CUV 用字；未加引號的釋義性轉述、對 RCUV／和合本修訂版之歷史沿革的客觀描述，以及 16 章關於16:24抄本異文的說明，均按其性質保留，不強行改寫。
+
+**2026年8月31日出版編修說明**：全書01-16章依《約翰福音》《路加福音》《馬可福音》已採用之出版格式，進行兩項編修：（一）每章由舊有15段落式結構，精簡整併為11節出版體例（基督焦點／配詩／經文／背景／原文研讀／領受要點／歷代注疏／詩篇與聖詩／老弟兄查經／生命應用／與其他經文的關聯），刪除原本重複出現三、四次的相同內容（一句話精義、全經連結、討論問題各僅保留一處），不刪減任何獨特事實或引句；（二）English 經文版本由 ESV 全面改為 **New American Standard Bible (NASB 1995)**，逐章逐節經 biblehub.com（NASB 1995版，非2020修訂版）重新核對取得逐字文本；各章「詩篇與聖詩」一節所引之英文詩篇，亦一併改採 NASB 1995（同一來源逐節核對），使全書英文經文版本一致。聖詩歌詞屬公有領域之原文，未作更動。
+
+（三）中文和合本經文於本次編修**未作版本變更**，但另行處理了一項版本混用問題：本書部分章節初版之中文經文係以 cnbible.com 的**現代標點和合本 (CUVMPT)** 核對，而該版與本書所宣告採用的**和合本 (CUV)** 在若干字形上不同。2026年8月31日就 `scripts/lint-scripture-text.py` 標示之全部候選字逐節查證，凡 bible.fhl.net（unv 和合本）與 ai-eden.com（CUV）**兩個來源一致**者才予更正，共更正13處經文（2:8、2:28-29、9:7-8、11:7、11:9、11:34、13:3、13:8、14:9、14:14、15:8、15:16、16:25，主要為「做→作」與「唯→惟」），並同步更正同章正文中引用同一節的字句；凡兩源皆作「做」者（如4:4「做工的」、7:15-20「我所做的」、9:21「做成貴重的器皿」、14:21「一概不做」等共10處）一律保留不動——和合本本身即混用此二字，不可一律轉換。
 
 | 章 | 統一後版本 | 核對來源 |
-|----|----------|------|
+|----------------|----------------------------------------|------------------------|
 | 00（overview） | 未附逐節經文（僅引用金句與名家引句） | 不適用 |
 | 01 | 和合本 (CUV) | WebFetch 逐節核對 |
-| 02 | 和合本 (CUV) | cnbible.com 逐節核對；ESV 經 biblegateway.com 核對 |
+| 02 | 和合本 (CUV) | cnbible.com 逐節核對；English 2026-08-31改採 NASB 1995，經 biblehub.com 核對 |
 | 03 | 和合本 (CUV) | 線上文本逐節核對 |
-| 04 | 和合本 (CUV) | 線上文本核對；ESV 經 biblehub.com 核對 |
+| 04 | 和合本 (CUV) | 線上文本核對；English 2026-08-31改採 NASB 1995，經 biblehub.com 核對 |
 | 05 | 和合本 (CUV) | ai-eden.com 逐節核對，並以 cnbible.com 交叉核對 |
 | 06 | 和合本 (CUV) | cnbible.com（現代標點和合本）逐節核對 |
 | 07 | 和合本 (CUV) | cnbible.com（現代標點和合本）逐節核對 |
 | 08 | 和合本 (CUV) | ai-eden.com 逐節核對，並以 cnbible.com 交叉核對 |
-| 09 | 和合本 (CUV) | cnbible.com 逐節核對；ESV 經 biblegateway.com 核對 |
+| 09 | 和合本 (CUV) | cnbible.com 逐節核對；English 2026-08-31改採 NASB 1995，經 biblehub.com 核對 |
 | 10 | 和合本 (CUV/CUVMP) | ai-eden.com 與 cnbible.com（現代標點和合本 CUVMP）核對 |
 | 11 | 和合本 (CUV) | cnbible.com（現代標點和合本）逐節核對 |
 | 12 | 和合本 (CUV) | 線上文本逐節核對 |
@@ -7027,15 +6178,21 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 | 15 | 和合本 (CUV) | cnbible.com（現代標點和合本）逐節核對 |
 | 16 | 和合本 (CUV) | cnbible.com（現代標點和合本）逐節核對 |
 
-English 經文全書統一採用 **English Standard Version (ESV)**，各章經文段落沿用初版已核對之 ESV 文字，未因本次中文版本統一而變動。
+English 經文全書統一採用 **New American Standard Bible (NASB 1995)**——2026年8月31日全書逐章逐節經 biblehub.com（確認為1995版，非2020修訂版）重新核對取得逐字文本，取代初版所用之 ESV。中文和合本經文未因此次 English版本變更而變動。
 
-**16章的一個特殊之處**：16:24「城內管銀庫的以拉都和兄弟括土問你們安」，和合本 (CUV) 依其所本的多數文本傳統列為正文；ESV（依較早抄本傳統）將其列為異文腳註、不編入正文編號，直接由23節接25節。這是真實、可查證的抄本差異，不是本書校訂的疏失——詳見16章「經文」小節之「經文小記」。
+**16章的一個特殊之處**：16章末尾的編號在中英文版本之間有真實的抄本差異，且**三方各不相同**（2026年8月31日改用 NASB 後經 biblehub.com 原始頁面重新核實）：
 
-讀者若需通篇統一版本比對，建議另以 ai-eden.com（https://www.ai-eden.com/bible/romans/{章}?t=CUV,ESV&cols=2）、cnbible.com（https://cnbible.com/cuvmpt/romans/{章}.htm）或 biblegateway.com 逐章覆核。
+- **和合本 (CUV)**：23節只記該猶；另立24節「城內管銀庫的以拉都和兄弟括土問你們安」，編入正文。
+- **NASB 1995**：把以拉都與括土的問安**併入23節**（故其23節內容多於和合本的23節）；NASB 另有編號的24節，但內容是另一句重複的祝福語 "\[The grace of our Lord Jesus Christ be with you all. Amen.\]"，biblehub 以方括號標示，表明這是多數文本傳統的添加、不見於最早抄本。
+- **ESV**（本書初版所用）：不為24節編號，由23節直接接25節，將該句列為異文腳註。
+
+換言之，NASB 既不同於和合本、也不同於 ESV：它有24節的編號，但24節的內容與和合本的24節並非同一句話。這是真實、可查證的抄本差異，不是本書校訂的疏失——詳見16章「經文」小節之「經文小記」。
+
+讀者若需通篇統一版本比對，建議另以 ai-eden.com（https://www.ai-eden.com/bible/romans/{章}?t=CUV,NASB&cols=2）、cnbible.com（https://cnbible.com/cuvmpt/romans/{章}.htm）或 biblehub.com/nasb/romans/{章}.htm 逐章覆核。
 
 ### 初版狀況存檔（2026年7月，已於2026年8月統一為上表）
 
-為保留寫作過程的誠實記錄，初版逐章版本標示存檔如下：01、02、03、04、09、10、12章初版已標示 CUV（因取得 RCUV 穩定線上文本失敗，已在正文如實註明並改用 CUV）；05、06、07、08、11、13、14、15章初版標示 RCUV，但正文**未附**可查核的核對來源footnote；16章初版標示 RCUV，附「biblegateway.com RCU17TS 版本」之核對來源。2026年8月的統一工程，正是為了消除這個不一致——不是要抹去這段過程，而是把它如實記在這裏，讓讀者知道這本小冊子的經文核對，走過了一條從不完整到完整的路。
+為保留寫作過程的誠實記錄，初版逐章版本標示存檔如下：01、02、03、04、09、10、12章初版已標示 CUV（因取得 RCUV 穩定線上文本失敗，已在正文如實註明並改用 CUV）；05、06、07、08、11、13、14、15章初版標示 RCUV，但正文**未附**可查核的核對來源 footnote；16章初版標示 RCUV，附「biblegateway.com RCU17TS 版本」之核對來源。2026年8月的統一工程，正是為了消除這個不一致——不是要抹去這段過程，而是把它如實記在這裏，讓讀者知道這本小冊子的經文核對，走過了一條從不完整到完整的路。
 
 ---
 
@@ -7057,7 +6214,7 @@ English 經文全書統一採用 **English Standard Version (ESV)**，各章經�
 
 在他與同工們的帶領下，週四查經班一卷一卷地走：約翰福音、希伯來書、提摩太前後書、提多書……每一卷讀完，桌上就多一疊筆記。這些筆記本來只是為了下一次查經；後來我們才看明白，**神給的糧，從來不是只夠一張桌子吃的。**
 
-這一本羅馬書，與前幾本略有不同，須在此再交代一次：查經班的原始筆記中沒有羅馬書的逐節記錄，本書「老弟兄」各節，是把他一貫的查經方法與神學框架，忠實應用在羅馬書經文上——是方法的傳承，不是筆記的複現（詳見附錄逐章說明）。**我們寧可把這句話多說一遍，也不願讀者把應用誤作歷史。**這正是從那張桌上學來的規矩：一句經文不杜撰，一條注疏不編造。
+這一本羅馬書，與前幾本略有不同，須在此再交代一次：查經班的原始筆記中沒有羅馬書的逐節記錄，本書「老弟兄」各節，是把他一貫的查經方法與領受框架，忠實應用在羅馬書經文上——是方法的傳承，不是筆記的複現（詳見附錄逐章說明）。**我們寧可把這句話多說一遍，也不願讀者把應用誤作歷史。**這正是從那張桌上學來的規矩：一句經文不杜撰，一條注疏不編造。
 
 他們不願意名字被印在書上。前言已交代了緣由，這裏只補一句：**這個事工裏沒有講員，只有指路的人**——指向那位神的義所歸給的、又把義白白給人的主。
 
@@ -7075,8 +6232,8 @@ English 經文全書統一採用 **English Standard Version (ESV)**，各章經�
 
 ## 給拿起這本小冊子的你
 
-如果這本小冊子對你有一點益處，請不要找寫的人——**找那本被寫的書。**翻開羅馬書，從「福音本是神的大能」讀到「願榮耀歸與獨一全智的神」，然後把你的重擔帶到那位「為我們眾人捨了」自己兒子的父面前。**祂既把最重的都給了，豈不把萬物和祂一同白白地賜給我們嗎？**（羅 8:32）
+如果這本小冊子對你有一點益處，請不要找寫的人——**找那本被寫的書。**翻開羅馬書，從「福音本是神的大能」讀到「願榮耀……歸於獨一全智的神」，然後把你的重擔帶到那位「為我們眾人捨了」自己兒子的父面前。**祂既把最重的都給了，豈不把萬物和祂一同白白地賜給我們嗎？**（羅 8:32）
 
 > **羅 1:16**（和合本）我不以福音為恥；這福音本是神的大能，要救一切相信的。
 
-**阿們。願榮耀，因耶穌基督，歸與獨一全智的神，直到永遠。**
+**阿們。願榮耀，因耶穌基督，歸於獨一全智的神，直到永遠。**

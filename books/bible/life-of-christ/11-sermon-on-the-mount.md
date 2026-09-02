@@ -114,7 +114,7 @@
 
 ---
 
-## 11.5 神學要點 (Theological Points)
+## 11.5 領受要點 (Truths Received)
 
 ### 1. 律法的內在化（六個「但我告訴你們」）
 

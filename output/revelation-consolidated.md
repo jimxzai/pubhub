@@ -27,10 +27,9 @@ copyright: |
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
-  Scripture quotations marked (ESV) are from the ESV® Bible
-  (The Holy Bible, English Standard Version®), © 2001 by Crossway,
-  a publishing ministry of Good News Publishers. Used by permission.
-  All rights reserved.
+  Scripture quotations taken from the New American Standard Bible® (NASB),
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. All rights reserved. lockman.org
 
   All rights reserved.
 ---
@@ -86,15 +85,15 @@ copyright: |
 > 我是阿拉法，我是俄梅戛，是昔在、今在、以後永在的全能者。
 > — 啟示錄 1:8
 
-> "I am the Alpha and the Omega," says the Lord God, "who is and who was and who is to come, the Almighty."
-> — Revelation 1:8 (ESV)
+> "'I am the Alpha and the Omega,' says the Lord God, 'who is and who was and who is to come, the Almighty.'"
+> — Revelation 1:8 (NASB)
 
 ---
 
 ## 全書結構 (Book Structure) {-}
 
 | 部分 | 章節 | 主題 | 關鍵詞 |
-|------|------|------|--------|
+|---------------------|---------------------|---------------------|---------------------|
 | **序言** | 1:1-20 | 榮耀的基督 | 人子、七星、七燈臺 |
 | **七教會書信** | 2:1-3:22 | 對教會的信息 | 得勝者、聽命 |
 | **天上的敬拜** | 4:1-5:14 | 寶座與羔羊 | 四活物、二十四長老 |
@@ -112,7 +111,7 @@ copyright: |
 ## 章節目錄 (Chapter Index) {-}
 
 | 檔案 | 標題 | 經文 |
-|------|------|------|
+|----------------------------|----------------------------|----------------------------|
 | 01a-prologue | 啟示的序言與問安 | 1:1-8 |
 | 01b-vision-of-christ | 榮耀基督的異象 | 1:9-20 |
 | 02a-ephesus | 以弗所教會：失去起初的愛心 | 2:1-7 |
@@ -154,7 +153,7 @@ copyright: |
 ## 七的結構 (The Sevens) {-}
 
 | 七 | 章節 | 主題 |
-|----|------|------|
+|----------------------------|----------------------------|----------------------------|
 | **七教會** | 2-3 | 亞細亞七教會 |
 | **七印** | 6-8:1 | 書卷的封印 |
 | **七號** | 8:6-11:19 | 警告的號角 |
@@ -166,7 +165,7 @@ copyright: |
 ## 七福 (Seven Beatitudes) {-}
 
 | # | 經文 | 有福的人 |
-|---|------|---------|
+|----------------------------|----------------------------|----------------------------|
 | 1 | 1:3 | 誦讀、聽見、遵守這預言的 |
 | 2 | 14:13 | 在主裡面而死的 |
 | 3 | 16:15 | 警醒、看守衣服的 |
@@ -180,7 +179,7 @@ copyright: |
 ## 基督的形像 (Images of Christ) {-}
 
 | 形像 | 經文 | 意義 |
-|------|------|------|
+|----------------------------|----------------------------|----------------------------|
 | 人子 | 1:13 | 審判的權柄 |
 | 首先的、末後的 | 1:17 | 永恆的主宰 |
 | 曾死過又活的 | 1:18 | 復活的得勝 |
@@ -194,7 +193,7 @@ copyright: |
 ## 主要解經派別 (Interpretive Approaches) {-}
 
 | 派別 | 觀點 | 代表人物 |
-|------|------|---------|
+|----------------------------|----------------------------|----------------------------|
 | **過去派** (Preterist) | 主要預言已在主後70年應驗 | R.C. Sproul |
 | **歷史派** (Historicist) | 預言教會歷史的進程 | 早期改革宗 |
 | **未來派** (Futurist) | 4章後主要指未來 | MacArthur, Walvoord |
@@ -211,7 +210,7 @@ copyright: |
 麥克阿瑟根據啟示錄 1:19 將全書分為三部分：
 
 | 部分 | 章節 | 內容 |
-|------|------|------|
+|----------------------------|----------------------------|----------------------------|
 | **「所看見的事」** | 第1章 | 約翰的初次異象 |
 | **「現在的事」** | 第2-3章 | 給七教會的信息 |
 | **「將來必成的事」** | 第4-22章 | 未來的事件 |
@@ -221,7 +220,7 @@ copyright: |
 每個教會代表教會歷史中不同類型的會眾：
 
 | 教會 | 特徵 | 今日應用 |
-|------|------|---------|
+|----------------------------|----------------------------|----------------------------|
 | **以弗所** | 正統但靈裡冷淡 | 失去起初的愛 |
 | **士每拿** | 受逼迫但純正 | 忠心至死 |
 | **別迦摩** | 世俗化、妥協 | 與世界聯合 |
@@ -238,7 +237,7 @@ copyright: |
 麥克阿瑟指出七的審判都有相同的模式：四加三的劃分。
 
 | 系列 | 結構 | 插曲位置 |
-|------|------|---------|
+|----------------------------|----------------------------|----------------------------|
 | 七印 | 4 + 3 | 第六與第七印之間 (第7章) |
 | 七號 | 4 + 3 | 第六與第七號之間 |
 | 七碗 | 4 + 3 | 第六與第七碗之間 (16:13-16) |
@@ -268,7 +267,7 @@ copyright: |
 ### 聖詩資源 {-}
 
 | 聖詩 | 主題 | 對應經文 |
-|------|------|---------|
+|----------------------------|----------------------------|----------------------------|
 | **Crown Him with Many Crowns** | 基督加冕 | 啟 19:12, 16 |
 | **Holy, Holy, Holy** | 三一頌讚 | 啟 4:8 |
 | **Lo! He Comes with Clouds Descending** | 基督再來 | 啟 1:7 |
@@ -283,7 +282,7 @@ copyright: |
 ### 詩篇對照 {-}
 
 | 啟示錄主題 | 對應詩篇 |
-|-----------|---------|
+|------------------------------------------|------------------------------------------|
 | 榮耀的基督 | 詩篇 97:1-6, 104:1-2 |
 | 寶座與敬拜 | 詩篇 96:1-4, 99:1-3 |
 | 神的審判 | 詩篇 75, 76, 98:9 |
@@ -331,7 +330,7 @@ copyright: |
 
 ---
 
-## 二、渐进启示的終點
+## 二、漸進啟示的終點
 
 神的啟示是漸進的：「神既在古時藉著眾先知多次多方地曉諭列祖，就在這末世藉著他兒子曉諭我們」（來 1:1-2）。啟示錄是這條路的終點站：
 
@@ -343,7 +342,7 @@ copyright: |
 終點站的意思，是**每一條線都在這裡收頭**。創世記前三章撒下的，啟示錄末三章全數收回：
 
 | 創世記 | 啟示錄 |
-|--------|--------|
+|------------------------------------------|------------------------------------------|
 | 起初神創造天地（1:1） | 新天新地（21:1） |
 | 伊甸園的生命樹（2:9） | 城內的生命樹（22:2） |
 | 蛇進了園子（3:1） | 古蛇被扔進火湖（20:10） |
@@ -373,7 +372,7 @@ copyright: |
 啟示錄是新約唯一一卷把三種體裁合在一起的書：
 
 | 體裁 | 在哪裡 | 提醒我們 |
-|------|--------|----------|
+|----------------------------|----------------------------|----------------------------|
 | **書信** (Epistle) | 1:4「約翰寫信給亞西亞的七個教會」 | 它寫給真實的教會，處理真實的患難 |
 | **預言** (Prophecy) | 1:3「這書上預言」 | 它宣告神必成的事，要求人遵守 |
 | **啟示文學** (Apocalyptic) | 異象、數字、象徵 | 它用圖畫說話，圖畫的字典是舊約 |
@@ -389,7 +388,7 @@ copyright: |
 本書分為**卷首定位 + 正文七卷 + 卷末一章**。正文以「七」分卷——這卷書自己的數字。
 
 | 卷 | 章節 | 主題 |
-|----|------|------|
+|----------------------------|----------------------------|----------------------------|
 | 卷首 · 定位 | — | 地圖、座標、骨幹、方法 |
 | 卷一 · 榮耀的人子 | 1 | 拔摩島上的第一幅異象：不是災難，是基督 |
 | 卷二 · 七教會 | 2-3 | 七封信，七個「我知道」，七個得勝應許 |
@@ -455,7 +454,7 @@ copyright: |
 把「羔羊」出現的場景排出來，就是整卷書的路線圖：
 
 | 站 | 經文 | 羔羊在作甚麼 |
-|----|------|--------------|
+|----------------------------|----------------------------|----------------------------|
 | 1 | 5:6 | **站立，像是被殺過的**——傷痕還在，人卻活著站著 |
 | 2 | 5:9 | 用自己的血**買了人來**——從各族、各方、各民、各國 |
 | 3 | 6:1 | **揭開七印**——審判由救贖主親手展開 |
@@ -480,7 +479,7 @@ copyright: |
 七封信每封的結尾都是「得勝的……」。這七個應許不是散落的安慰話——**每一個都在 21-22 章的新耶路撒冷裡兌現**。教會在第 2-3 章聽見的，正是她在第 21-22 章要承受的：
 
 | 教會 | 應許（2-3 章） | 兌現（20-22 章） |
-|------|----------------|------------------|
+|----------------------------|----------------------------|----------------------------|
 | 以弗所 | 吃神樂園中生命樹的果子（2:7） | 生命樹在城內河邊，每月結果子（22:2） |
 | 士每拿 | 必不受第二次死的害（2:11） | 在頭一次復活有分的，第二次死無權（20:6） |
 | 別迦摩 | 隱藏的嗎哪、白石上的新名（2:17） | 他的名字必寫在他們的額上（22:4） |
@@ -500,7 +499,7 @@ copyright: |
 約翰福音的骨幹「我是」，沒有停在福音書——它一路走進啟示錄，說話的是同一位：
 
 | 經文 | 宣告 |
-|------|------|
+|------------------------------------------|------------------------------------------|
 | 啟 1:8 | 「我是阿拉法，我是俄梅戛」——是昔在、今在、以後永在的全能者 |
 | 啟 1:17-18 | 「我是首先的，我是末後的，又是那存活的；我曾死過，現在又活了」 |
 | 啟 21:6 | 「都成了！我是阿拉法，我是俄梅戛；我是初，我是終」 |
@@ -516,7 +515,7 @@ copyright: |
 一章記一個詞，二十二個詞串起來，全書就在手裡：
 
 | 章 | 鑰詞 | 一句話 |
-|----|------|--------|
+|----------------------------|----------------------------|----------------------------|
 | 1 | **人子** | 燈臺中間行走的那位，右手按著仆倒的人 |
 | 2 | **我知道** | 四封信：主的眼如火焰，察看教會的實情 |
 | 3 | **得勝** | 三封信：死的可以活，小力量的有敞開的門 |
@@ -785,13 +784,33 @@ copyright: |
 
 啟示錄 1:1-8
 
-**經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 啟示錄不是以恐怖的異象開篇，而是以一個名字開篇——「耶穌基督的啟示」。整卷書卷首七節，一連串頭銜與稱號密集出現：忠信的見證者、從死人中復活的首生者、世上君王的元首、愛我們用血釋放我們的那位、使我們成為國度祭司的那位、駕雲降臨眾目要看見的那位、阿拉法俄梅戛、今在昔在以後永在的全能者。約翰還沒有描述一個異象，就已經把讀者的目光牢牢釘在一個人身上。這卷書要揭開的，首先不是「將要發生甚麼事」，而是「這位掌管一切之事的是誰」。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Lo! He Comes with Clouds Descending**
+> *Charles Wesley, 1758*
+>
+> Lo! He comes with clouds descending,
+> Once for favored sinners slain;
+> Thousand thousand saints attending
+> Swell the triumph of His train:
+> Hallelujah! God appears on earth to reign.
+>
+> 看哪，主駕雲降臨，
+> 昔日為選民被殺身；
+> 千千萬萬聖徒相隨，
+> 同來歡呼慶凱旋：
+> 哈利路亞！神今顯現，在地掌權。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -805,15 +824,15 @@ copyright: |
 
 > \textsuperscript{8}主神說：「我是阿拉法，我是俄梅戛，（阿拉法，俄梅戛：是希利尼字母首末二字），是昔在、今在、以後永在的全能者。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}The revelation of Jesus Christ, which God gave him to show to his servants the things that must soon take place. He made it known by sending his angel to his servant John, \textsuperscript{2}who bore witness to the word of God and to the testimony of Jesus Christ, even to all that he saw. \textsuperscript{3}Blessed is the one who reads aloud the words of this prophecy, and blessed are those who hear, and who keep what is written in it, for the time is near.
+> \textsuperscript{1}The Revelation of Jesus Christ, which God gave Him to show to His bond-servants, the things which must soon take place; and He sent and communicated *it* by His angel to His bond-servant John, \textsuperscript{2}who testified to the word of God and to the testimony of Jesus Christ, *even* to all that he saw. \textsuperscript{3}Blessed is he who reads and those who hear the words of the prophecy, and heed the things which are written in it; for the time is near.
 
-> \textsuperscript{4}John to the seven churches that are in Asia: Grace to you and peace from him who is and who was and who is to come, and from the seven spirits who are before his throne, \textsuperscript{5}and from Jesus Christ the faithful witness, the firstborn of the dead, and the ruler of kings on earth. To him who loves us and has freed us from our sins by his blood \textsuperscript{6}and made us a kingdom, priests to his God and Father, to him be glory and dominion forever and ever. Amen.
+> \textsuperscript{4}John to the seven churches that are in Asia: Grace to you and peace, from Him who is and who was and who is to come, and from the seven Spirits who are before His throne, \textsuperscript{5}and from Jesus Christ, the faithful witness, the firstborn of the dead, and the ruler of the kings of the earth. To Him who loves us and released us from our sins by His blood— \textsuperscript{6}and He has made us *to be* a kingdom, priests to His God and Father— to Him *be* the glory and the dominion forever and ever. Amen.
 
-> \textsuperscript{7}Behold, he is coming with the clouds, and every eye will see him, even those who pierced him, and all tribes of the earth will wail on account of him. Even so. Amen.
+> \textsuperscript{7}BEHOLD, HE IS COMING WITH THE CLOUDS, and every eye will see Him, even those who pierced Him; and all the tribes of the earth will mourn over Him. So it is to be. Amen.
 
-> \textsuperscript{8}"I am the Alpha and the Omega," says the Lord God, "who is and who was and who is to come, the Almighty."
+> \textsuperscript{8}'I am the Alpha and the Omega,' says the Lord God, 'who is and who was and who is to come, the Almighty.'
 
 ---
 
@@ -832,14 +851,14 @@ copyright: |
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *apokalypsis* | apokalypsis | 啟示、揭開帷幕 | 全書書名，由 *apo*（揭開）+ *kalyptō*（遮蓋）組成 |
-| *martyria* | martyria | 見證 | 2節，是全書反覆出現的關鍵詞，後衍生「殉道者」（martyr）一詞 |
-| *doulos* | doulos | 僕人、奴僕 | 1節，約翰與眾讀者的共同身分——不是旁觀者，而是主的奴僕 |
-| *en tachei* | en tachei | 快速地、快要 | 1節，指事情一旦展開將迅速成就，而非指時間表上的「立即」 |
-| *prōtotokos* | prōtotokos | 首生的、首先的 | 5節，「從死裡首先復活」，宣告基督在復活者中的首位與元首地位 |
-| *lyō* | lyō | 釋放、解開 | 5節，「用自己的血使我們脫離罪惡」原文動詞為*lysanti*，字面是「解開鎖鏈」 |
-| *pantokratōr* | pantokrator | 全能者 | 8節，希臘文七十士譯本常用來翻譯希伯來文「萬軍之耶和華」 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ἀποκάλυψις | apokalypsis | 啟示、揭開帷幕 | 全書書名，由 *apo*（揭開）+ *kalyptō*（遮蓋）組成 |
+| μαρτυρία | martyria | 見證 | 2節，是全書反覆出現的關鍵詞，後衍生「殉道者」（martyr）一詞 |
+| δοῦλος | doulos | 僕人、奴僕 | 1節，約翰與眾讀者的共同身分——不是旁觀者，而是主的奴僕 |
+| ἐν τάχει | en tachei | 快速地、快要 | 1節，指事情一旦展開將迅速成就，而非指時間表上的「立即」 |
+| πρωτότοκος | prōtotokos | 首生的、首先的 | 5節，「從死裡首先復活」，宣告基督在復活者中的首位與元首地位 |
+| λύω | lyō | 釋放、解開 | 5節，「用自己的血使我們脫離罪惡」原文動詞為*lysanti*，字面是「解開鎖鏈」 |
+| παντοκράτωρ | pantokrator | 全能者 | 8節，希臘文七十士譯本常用來翻譯希伯來文「萬軍之耶和華」 |
 
 ### 「阿拉法與俄梅戛」的宣告
 
@@ -847,7 +866,7 @@ copyright: |
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 啟示的鏈條與權柄
 
@@ -875,13 +894,29 @@ copyright: |
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 90:1-2
+
+> \textsuperscript{1}（神人摩西的祈禱）主啊，你世世代代作我們的居所。
+> \textsuperscript{2}諸山未曾生出，地與世界你未曾造成，從亙古到永遠，你是神。
+
+摩西的祈禱從「世世代代」起頭，落在「從亙古到永遠，你是神」——這正是啟示錄 1:8「昔在、今在、以後永在」所展開的同一句話。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林是現存最早的啟示錄註釋書作者，在戴克里先大逼迫期間殉道。他的《啟示錄註釋》是教會歷史上第一部嘗試逐段解讀這卷書的著作，見證了初代教會早已鄭重看待這卷「耶穌基督的啟示」，並非後世才發展出的解經傳統。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*
 
 ### 改革宗時期
@@ -889,6 +924,7 @@ copyright: |
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 蘇黎世改教家布靈格所著《啟示錄百篇講章》(*A Hundred Sermons upon the Apocalypse*, 1557) 是宗教改革時期最重要的啟示錄講道集。他在第一篇講論1:1-8時強調，約翰在異象之前先領受清楚的權柄鏈條與問安祝福，正是要讀者明白：這卷書從第一個字開始，就不是用來恐嚇信徒，而是用來堅固信徒——因為賜下這啟示的，正是那愛我們、用血釋放我們的主。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon 1
 
 ### 當代釋經
@@ -896,16 +932,47 @@ copyright: |
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《新約注釋：啟示錄1-11章》中指出，約翰在此清楚交代了這卷書的來源與權柄——這不是出於人的猜測或異夢，而是神親自賜下、藉著天使傳給祂僕人的啟示；他認為，任何正確解讀啟示錄的嘗試，都必須從承認這一點開始。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**羅伯特·孟思 (Robert Mounce)**：
+**孟斯 (Robert Mounce)**：
 
-孟思在其《啟示錄注釋》(NICNT) 論到「啟示」(*apokalypsis*) 一詞時指出，這個詞本身就宣告了整卷書的性質：不是要隱藏奧秘，而是要揭開帷幕，讓教會看清在表面混亂之下，基督仍在掌管歷史的真相。
+孟斯在其《啟示錄注釋》(NICNT) 論到「啟示」(*apokalypsis*) 一詞時指出，這個詞本身就宣告了整卷書的性質：不是要隱藏奧秘，而是要揭開帷幕，讓教會看清在表面混亂之下，基督仍在掌管歷史的真相。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Of the Father's Love Begotten
+
+*Aurelius Prudentius (348-413); tr. John M. Neale, 1854, and Henry W. Baker, 1859*
+
+> Of the Father's love begotten,
+> Ere the worlds began to be,
+> He is Alpha and Omega,
+> He the Source, the Ending He,
+> Of the things that are, that have been,
+> And that future years shall see,
+> Evermore and evermore!
+
+四世紀的拉丁詩人在福音初傳的年代，已經把 1:8「我是阿拉法，我是俄梅戛」寫成了詩歌。默想：一首唱了一千六百年的歌，唱的是同一位「無始無終」的主——你今天所讀的這卷書，不是新的，是古的；不是關於未來的猜測，是關於那位掌管始終者的宣告。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**書名已經定了全書的讀法**：麥克阿瑟強調，1:1「耶穌基督的啟示」(apokalypsis) 意思是「揭開、揭幕」——這卷書的本意不是把末世藏進謎語，而是把基督的榮耀揭給教會看。把啟示錄讀成難解天書的人，恰恰把書名讀反了。
+
+**全書唯一附帶福氣應許的書卷**：他指出 1:3「念這書上預言的和那些聽見又遵守其中所記載的，都是有福的」——聖經六十六卷中，唯有啟示錄開卷就給讀者一個福。神無意讓這卷書被跳過。
+
+**「必要快成」的解釋**：對 1:1 的「快」(en tachei)，他解作「一旦開始，必迅速成就」——重點不是時間表的長短，而是事件啟動後的不可逆轉，因此每一個世代的教會都當儆醒。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：啟示的序言與問安 (Ask Elder Wong)
 
@@ -942,7 +1009,7 @@ copyright: |
 
 **詩篇**：詩篇2:6-8
 
-> 「我已經立我的君在錫安──我的聖山上了。」我要傳聖旨：耶和華曾對我說：「你是我的兒子，我今日生你。你求我，我就將列國賜你為基業，將地極賜你為田產。」
+> 說：我已經立我的君在錫安─我的聖山上了。受膏者說：我要傳聖旨。耶和華曾對我說：你是我的兒子，我今日生你。你求我，我就將列國賜你為基業，將地極賜你為田產。
 
 詩篇2篇宣告神所立的君王要治理列國，啟示錄1:5「世上君王的元首」正是這應許的終極成就——那被列國拒絕、釘上十字架的，正是詩篇2篇所應許要治理萬邦的那一位。
 
@@ -1024,13 +1091,31 @@ copyright: |
 
 啟示錄 1:9-20
 
-**經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 同一位使徒約翰，在寫約翰福音時，記錄了在最後晚餐時靠著耶穌胸膛的那位溫柔的主；但在拔摩海島上，他看見的卻是榮耀威嚴的人子——頭髮皆白如雪，眼目好像火焰，腳好像爐中鍛鍊發亮的銅，聲音好像眾水轟鳴，口中吐出兩刃利劍，面貌好像烈日放光。約翰一見這位榮耀的基督，「就仆倒在他腳前，像死了一樣」。這就是啟示錄的基調：我們所認識的耶穌，遠比我們熟悉的形像更榮耀、更威嚴、更可畏——而正是這一位，親手按著仆倒的約翰說：「不要懼怕。」
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Immortal, Invisible, God Only Wise**
+> *Walter Chalmers Smith, 1867*
+>
+> Immortal, invisible, God only wise,
+> In light inaccessible hid from our eyes,
+> Most blessed, most glorious, the Ancient of Days,
+> Almighty, victorious, Thy great name we praise.
+>
+> 永生神，不朽壞，獨一全智，
+> 住在人不能靠近的光裡；
+> 至聖哉，至榮哉，亙古常在，
+> 全能者，得勝者，我讚你名。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -1042,13 +1127,13 @@ copyright: |
 
 > \textsuperscript{17}我一看見，就仆倒在他腳前，像死了一樣。他用右手按著我，說：\jesus{「不要懼怕！我是首先的，我是末後的，\textsuperscript{18}又是那存活的；我曾死過，現在又活了，直活到永永遠遠；並且拿著死亡和陰間的鑰匙。\textsuperscript{19}所以你要把所看見的，和現在的事，並將來必成的事，都寫出來。\textsuperscript{20}論到你所看見、在我右手中的七星和七個金燈臺的奧祕，那七星就是七個教會的使者，七燈臺就是七個教會。」}
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{9}I, John, your brother and partner in the tribulation and the kingdom and the patient endurance that are in Jesus, was on the island called Patmos on account of the word of God and the testimony of Jesus. \textsuperscript{10}I was in the Spirit on the Lord's day, and I heard behind me a loud voice like a trumpet \textsuperscript{11}saying, "Write what you see in a book and send it to the seven churches, to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea."
+> \textsuperscript{9}I, John, your brother and fellow partaker in the tribulation and kingdom and perseverance *which are* in Jesus, was on the island called Patmos because of the word of God and the testimony of Jesus. \textsuperscript{10}I was in the Spirit on the Lord's day, and I heard behind me a loud voice like *the sound* of a trumpet, \textsuperscript{11}saying, 'Write in a book what you see, and send *it* to the seven churches: to Ephesus and to Smyrna and to Pergamum and to Thyatira and to Sardis and to Philadelphia and to Laodicea.'
 
-> \textsuperscript{12}Then I turned to see the voice that was speaking to me, and on turning I saw seven golden lampstands, \textsuperscript{13}and in the midst of the lampstands one like a son of man, clothed with a long robe and with a golden sash around his chest. \textsuperscript{14}The hairs of his head were white, like white wool, like snow. His eyes were like a flame of fire, \textsuperscript{15}his feet were like burnished bronze, refined in a furnace, and his voice was like the roar of many waters. \textsuperscript{16}In his right hand he held seven stars, from his mouth came a sharp two-edged sword, and his face was like the sun shining in full strength.
+> \textsuperscript{12}Then I turned to see the voice that was speaking with me. And having turned I saw seven golden lampstands; \textsuperscript{13}and in the middle of the lampstands *I saw* one like a son of man, clothed in a robe reaching to the feet, and girded across His chest with a golden sash. \textsuperscript{14}His head and His hair were white like white wool, like snow; and His eyes were like a flame of fire. \textsuperscript{15}His feet *were* like burnished bronze, when it has been made to glow in a furnace, and His voice *was* like the sound of many waters. \textsuperscript{16}In His right hand He held seven stars, and out of His mouth came a sharp two-edged sword; and His face was like the sun shining in its strength.
 
-> \textsuperscript{17}When I saw him, I fell at his feet as though dead. But he laid his right hand on me, saying, \jesus{"Fear not, I am the first and the last, \textsuperscript{18}and the living one. I died, and behold I am alive forevermore, and I have the keys of Death and Hades. \textsuperscript{19}Write therefore the things that you have seen, those that are and those that are to take place after this. \textsuperscript{20}As for the mystery of the seven stars that you saw in my right hand, and the seven golden lampstands, the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches."}
+> \textsuperscript{17}When I saw Him, I fell at His feet like a dead man. And He placed His right hand on me, saying, \jesus{'Do not be afraid; I am the first and the last, \textsuperscript{18}and the living One; and I was dead, and behold, I am alive forevermore, and I have the keys of death and of Hades. \textsuperscript{19}'Therefore write the things which you have seen, and the things which are, and the things which will take place after these things. \textsuperscript{20}'As for the mystery of the seven stars which you saw in My right hand, and the seven golden lampstands: the seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.}
 
 ---
 
@@ -1067,14 +1152,14 @@ copyright: |
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
-| *synkoinōnos* | synkoinōnos | 一同有分、同伴 | 9節「在耶穌的患難⋯⋯裡一同有分」，強調患難中的團契 |
-| *hypomonē* | hypomonē | 忍耐、堅忍 | 9節，不是被動的忍受，而是在壓力下持守到底的力量 |
-| *homoion huion anthrōpou* | homoion huion anthrōpou | 好像人子 | 13節，直接呼應但以理書7:13 |
-| *rhomphaia* | rhomphaia | （雙刃）大刀 | 16節，審判性話語的象徵，非一般短劍 (*machaira*) |
-| *kleis* | kleis | 鑰匙 | 18節，權柄的象徵，此處指基督掌管死亡與陰間的權柄 |
-| *mystērion* | mystērion | 奧祕 | 20節，指原本隱藏、如今被解開的意義 |
-| *angelos* | angelos | 使者、天使 | 20節「七個教會的使者」，可指教會的守護天使或人間的傳信者 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| συγκοινωνός | synkoinōnos | 一同有分、同伴 | 9節「在耶穌的患難⋯⋯裡一同有分」，強調患難中的團契 |
+| ὑπομονή | hypomonē | 忍耐、堅忍 | 9節，不是被動的忍受，而是在壓力下持守到底的力量 |
+| ὅμοιον υἱὸν ἀνθρώπου | homoion huion anthrōpou | 好像人子 | 13節，直接呼應但以理書7:13 |
+| ῥομφαία | rhomphaia | （雙刃）大刀 | 16節，審判性話語的象徵，非一般短劍 (*machaira*) |
+| κλείς | kleis | 鑰匙 | 18節，權柄的象徵，此處指基督掌管死亡與陰間的權柄 |
+| μυστήριον | mystērion | 奧祕 | 20節，指原本隱藏、如今被解開的意義 |
+| ἄγγελος | angelos | 使者、天使 | 20節「七個教會的使者」，可指教會的守護天使或人間的傳信者 |
 
 ### 「好像人子」的重量
 
@@ -1082,7 +1167,7 @@ copyright: |
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 患難、國度、忍耐三者並存
 
@@ -1110,13 +1195,29 @@ copyright: |
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 104:1-2
+
+> \textsuperscript{1}我的心哪，你要稱頌耶和華！耶和華─我的神啊，你為至大！你以尊榮威嚴為衣服，
+> \textsuperscript{2}披上亮光，如披外袍，鋪張穹蒼，如鋪幔子，
+
+「披上亮光，如披外袍」——詩人筆下那位以光為衣的創造主，正是約翰在拔摩海島上所見「面貌如同烈日放光」的那一位。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在《駁異端》中多次引用啟示錄論證基督的神性與祂對歷史的主權，特別指出約翰見到的這位「人子」形像，正是舊約中那位耶和華榮耀顯現的延續——同一位神在但以理面前、如今在約翰面前，以同樣使人仆倒的榮耀顯現自己。
+
 > — Irenaeus, *Against Heresies*, Book IV
 
 ### 改革宗時期
@@ -1124,6 +1225,7 @@ copyright: |
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在《啟示錄百篇講章》第二篇講論基督在七燈臺中間顯現的異象時指出，這幅圖畫本身就是對受苦教會最大的安慰：教會或許看似軟弱、四散、被世界輕視，但基督沒有丟下他們獨自在遠方，祂親自「站在」燈臺中間，眼目察看，親手扶持。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon 2
 
 ### 當代釋經
@@ -1131,16 +1233,44 @@ copyright: |
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《新約注釋：啟示錄1-11章》中提醒讀者，約翰所見的基督，與福音書中溫柔醫治病人、抱起孩童的耶穌是同一位，但這裡強調的是祂審判者與掌權者的身分；他認為教會若只記得溫柔的耶穌，卻忘了這位眼目如火焰的榮耀基督，就無法正確面對這個世界。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其《啟示錄注釋》(BECNT) 中論到「不要懼怕」一語出現在異象最令人戰慄的時刻，認為這正說明了啟示錄的寫作目的：不是要恐嚇讀者，而是要藉著顯明基督的至高權柄，把他們的懼怕轉化為敬拜。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O Worship the King
+
+*Robert Grant, 1833*
+
+> O worship the King, all glorious above,
+> And gratefully sing His wonderful love;
+> Our Shield and Defender, the Ancient of Days,
+> Pavilioned in splendor, and girded with praise.
+
+「亙古常在者」(the Ancient of Days) 是但以理書 7:9 的稱號，而約翰所見的人子，正是從那一幅異象裡走出來的。默想：約翰一見就仆倒如死，卻聽見「不要懼怕」——榮耀使人俯伏，恩典使人站起。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**教會中間的大祭司**：麥克阿瑟指出，1:13 人子「穿長衣、束金帶」是大祭司式的裝束，而他行走的位置是「燈臺中間」——榮耀的基督此刻不在遠處，而在他的眾教會中間，察看、修剪、供應每一個燈臺。
+
+**先仆倒、後受差**：約翰是與主同行三年半、曾靠在主胸膛的使徒，見到榮耀的基督仍「仆倒在他腳前像死了一樣」。麥克阿瑟以此提醒：一切對基督不冷不熱的態度，都出於從未真正看見他的榮耀。
+
+**鑰匙在誰手裡**：1:18「拿著死亡和陰間的鑰匙」——對正在受逼迫、隨時可能殉道的教會，這句話是最實際的安慰：仇敵至多能用死亡恐嚇，卻連死亡的門鎖都不在牠手中。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：榮耀基督的異象 (Ask Elder Wong)
 
@@ -1273,13 +1403,35 @@ copyright: |
 
 啟示錄 2:1-7
 
-**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封書信的第一封寫給以弗所——保羅曾在此牧養三年、提摩太曾在此牧養、使徒約翰晚年也在此服事的教會。這是一間血統最純正、教導最扎實、辨別力最強的教會，主也毫不吝惜地稱讚她「勞碌、忍耐」、「不能容忍惡人」、「試驗那自稱為使徒卻不是使徒的」。但主開口的第一句話卻是「然而，有一件事我要責備你」。以弗所教會做對了幾乎所有的事，卻做丟了一件事——起初的愛心。基督在此顯明自己是「那右手拿著七星、在七個金燈臺中間行走的」，祂行走在燈臺之間，意味著祂親自察看、親自量度每一間教會，而祂所看重的，不只是教會做了甚麼，更是教會為誰而做。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Come, Thou Fount of Every Blessing**
+> *Robert Robinson, 1758*
+>
+> O to grace how great a debtor
+> Daily I'm constrained to be!
+> Let Thy goodness, like a fetter,
+> Bind my wandering heart to Thee.
+> Prone to wander, Lord, I feel it,
+> Prone to leave the God I love.
+>
+> 我欠恩典何等深重，
+> 天天被恩典所催逼；
+> 願你良善如同鎖鏈，
+> 繫住我漂流的心。
+> 主啊，我知我易漂流，
+> 易於離棄我所愛的神。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -1291,13 +1443,13 @@ copyright: |
 
 > \jesus{\textsuperscript{7}聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將神樂園中生命樹的果子賜給他吃。}」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}"To the angel of the church in Ephesus write: 'The words of him who holds the seven stars in his right hand, who walks among the seven golden lampstands. \jesus{\textsuperscript{2}I know your works, your toil and your patient endurance, and how you cannot bear with those who are evil, but have tested those who call themselves apostles and are not, and found them to be false. \textsuperscript{3}I know you are enduring patiently and bearing up for my name's sake, and you have not grown weary.}
+> \textsuperscript{1}'To the angel of the church in Ephesus write: The One who holds the seven stars in His right hand, the One who walks among the seven golden lampstands, says this: \jesus{ \textsuperscript{2}'I know your deeds and your toil and perseverance, and that you cannot tolerate evil men, and you put to the test those who call themselves apostles, and they are not, and you found them \textit{to be} false; \textsuperscript{3}and you have perseverance and have endured for My name's sake, and have not grown weary.}
 
-> \jesus{\textsuperscript{4}But I have this against you, that you have abandoned the love you had at first. \textsuperscript{5}Remember therefore from where you have fallen; repent, and do the works you did at first. If not, I will come to you and remove your lampstand from its place, unless you repent. \textsuperscript{6}Yet this you have: you hate the works of the Nicolaitans, which I also hate.'}
+> \jesus{ \textsuperscript{4}'But I have \textit{this} against you, that you have left your first love. \textsuperscript{5}'Therefore remember from where you have fallen, and repent and do the deeds you did at first; or else I am coming to you and will remove your lampstand out of its place— unless you repent. \textsuperscript{6}'Yet this you do have, that you hate the deeds of the Nicolaitans, which I also hate.}
 
-> \jesus{\textsuperscript{7}He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will grant to eat of the tree of life, which is in the paradise of God.'}"
+> \jesus{ \textsuperscript{7}'He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, I will grant to eat of the tree of life which is in the Paradise of God.'}
 
 ---
 
@@ -1316,14 +1468,14 @@ copyright: |
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *kopos* | kopos | 勞碌、辛勞 | 帶著疲憊代價的工作，而非輕鬆的服事 |
-| *hypomonē* | hypomonē | 忍耐、堅忍 | 在壓力下持守到底的能力，七封書信中反覆出現 |
-| *agapē* | agapē | 愛（心） | 4節「起初的愛心」，指向捨己、委身的愛，而非情感上的熱度 |
-| *ekpiptō* | ekpiptō | 墜落、跌落 | 5節「你是從那裡墜落的」，暗示從高處跌下的意象 |
-| *metanoeō* | metanoeō | 悔改 | 5節連用兩次，是七封書信中反覆出現的核心呼召 |
-| *nikaō* | nikaō | 得勝、征服 | 7節「得勝的」，七封書信各自應許的對象，全啟示錄出現17次 |
-| *paradeisos* | paradeisos | 樂園 | 源自波斯文的「園林」，七十士譯本用以指伊甸園 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| κόπος | kopos | 勞碌、辛勞 | 帶著疲憊代價的工作，而非輕鬆的服事 |
+| ὑπομονή | hypomonē | 忍耐、堅忍 | 在壓力下持守到底的能力，七封書信中反覆出現 |
+| ἀγάπη | agapē | 愛（心） | 4節「起初的愛心」，指向捨己、委身的愛，而非情感上的熱度 |
+| πίπτω（TR 作 ἐκπίπτω） | piptō / ekpiptō | 墜落、跌落 | 2:5「你是從那裡墜落的」，暗示從高處跌下的意象。NA28／SBLGNT 作 πέπτωκας，公認經文（TR）作 ἐκπέπτωκας，多出「離開」的字首 |
+| μετανοέω | metanoeō | 悔改 | 5節連用兩次，是七封書信中反覆出現的核心呼召 |
+| νικάω | nikaō | 得勝、征服 | 7節「得勝的」，七封書信各自應許的對象，全啟示錄出現17次 |
+| παράδεισος | paradeisos | 樂園 | 源自波斯文的「園林」，七十士譯本用以指伊甸園 |
 
 ### 「起初的愛心」(*tēn agapēn sou tēn prōtēn*)
 
@@ -1331,7 +1483,7 @@ copyright: |
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 正統教義不能取代起初的愛 (Sound Doctrine Cannot Replace First Love)
 
@@ -1351,13 +1503,30 @@ copyright: |
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 51:10-12
+
+> \textsuperscript{10}神啊，求你為我造清潔的心，使我裡面重新有正直（或譯：堅定）的靈。
+> \textsuperscript{11}不要丟棄我，使我離開你的面；不要從我收回你的聖靈。
+> \textsuperscript{12}求你使我仍得救恩之樂，賜我樂意的靈扶持我，
+
+以弗所教會勞碌、忍耐、恨惡惡行，卻把起初的愛心丟了——大衛的禱告正是這一類光景唯一的出路：不是加倍努力，是求神「造清潔的心」。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在《駁異端》中提到，使徒約翰在以弗所一直服事到圖拉真皇帝在位期間，並且在以弗所堅決抵擋諾斯底派教師克林妥（Cerinthus）的異端教導，甚至一見克林妥在澡堂中便立刻離開，唯恐澡堂倒塌。這段記載印證了以弗所教會「試驗那自稱為使徒卻不是使徒的」（2節）並非空泛的稱讚，而是承接了使徒約翰親自留下的警醒傳統。
+
 > — Irenaeus, *Against Heresies*, Book III, Chapter 3, Section 4
 
 ### 改革宗時期
@@ -1365,6 +1534,7 @@ copyright: |
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在其《啟示錄百篇講章》中論到以弗所教會時指出，一間教會可以在教義與紀律上無可指摘，卻仍然墜落——因為外在的純正若不是從愛湧流而出，終究會枯乾。他提醒讀者，主的責備不是廢棄以弗所教會過去的一切勞苦，而是要她回到愛的根源，使日後的勞苦重新有生命的支撐。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1561 English translation)
 
 ### 當代釋經
@@ -1372,16 +1542,44 @@ copyright: |
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄1-11章註釋》中論到以弗所教會時指出，這是一間教義純正、道德嚴謹、辨別力敏銳的教會，卻患了屬靈上的問題——她仍然照常運轉，卻失去了愛的驅動力。他強調，主的責備不是要以弗所放棄她的純正，而是要她讓這份純正重新被起初的愛充滿。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「起初的愛心」很可能同時指向對基督的愛與對彼此的愛，二者在新約中從不分割——愛神卻不愛弟兄的宣稱，約翰壹書早已判定為虛謊（約壹4:20）。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Jesus, Lover of My Soul
+
+*Charles Wesley, 1740*
+
+> Jesus, lover of my soul,
+> Let me to Thy bosom fly,
+> While the nearer waters roll,
+> While the tempest still is high.
+
+衛斯理這首詩把信仰的重心放回「祂愛我」而不是「我事奉祂」。默想：主對以弗所的責備不是「你作得不夠」，而是「你離棄了起初的愛心」——事奉可以照舊，愛卻已經冷了，而只有本人知道。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**先數算七項可稱讚的**：麥克阿瑟指出，主對以弗所的稱讚多達七項——勞碌、忍耐、不容忍惡人、試驗假使徒、為主名勞苦、不乏倦、恨惡尼哥拉黨——這是一間正統、勤奮、有分辨力的模範教會，然後才有那一句「然而」。
+
+**離棄的是對主自己的愛**：他強調 2:4 的核心是關係而非事工：教義純正與事奉忙碌，都可能在愛已冷卻之後靠慣性繼續運轉，而主察看的不是運轉，是心。
+
+**回想、悔改、行起初所行的事**：他把 2:5 讀作醫治初愛冷卻的三步路徑——記起從前的光景、承認如今的墮落、回到起初的行動——並提醒：燈臺被挪去不是空話，以弗所城如今的荒涼就是歷史的註腳。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：以弗所教會 (Ask Elder Wong)
 
@@ -1500,13 +1698,35 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 2:8-11
 
-**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封書信中，士每拿與非拉鐵非是僅有的兩封沒有一句責備的信——而士每拿教會偏偏是七間教會中最貧窮、最受苦的一間。主向這間在患難、貧窮、毀謗中掙扎的教會顯現，自稱是「那首先的、末後的、死過又活的」——這正是1:17-18約翰見異象時仆倒又被扶起時基督對自己的宣告。對一群隨時可能因信仰付上性命代價的信徒，沒有任何身份比「死過又活的」更能安慰人心：你們所懼怕的死亡，祂已經親自經過，並且勝過了。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Faith of Our Fathers**
+> *Frederick W. Faber, 1849*
+>
+> Faith of our fathers, living still
+> In spite of dungeon, fire, and sword;
+> O how our hearts beat high with joy
+> Whene'er we hear that glorious word!
+> Faith of our fathers, holy faith!
+> We will be true to thee till death.
+>
+> 先祖信仰，至今猶存，
+> 雖經牢獄、烈火、刀劍；
+> 每逢聽見那榮耀的道，
+> 我心便歡然踴躍！
+> 先祖信仰，聖潔信仰！
+> 我必至死持守不移。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -1516,11 +1736,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{10}你將要受的苦你不用怕。魔鬼要把你們中間幾個人下在監裡，叫你們被試煉，你們必受患難十日。你務要至死忠心，我就賜給你那生命的冠冕。\textsuperscript{11}聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，必不受第二次死的害。}」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{8}"And to the angel of the church in Smyrna write: 'The words of the first and the last, who died and came to life. \jesus{\textsuperscript{9}I know your tribulation and your poverty (but you are rich) and the slander of those who say that they are Jews and are not, but are a synagogue of Satan.
+> \textsuperscript{8}'And to the angel of the church in Smyrna write: The first and the last, who was dead, and has come to life, says this: \jesus{ \textsuperscript{9}'I know your tribulation and your poverty (but you are rich), and the blasphemy by those who say they are Jews and are not, but are a synagogue of Satan.
 
-> \textsuperscript{10}Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, that you may be tested, and for ten days you will have tribulation. Be faithful unto death, and I will give you the crown of life. \textsuperscript{11}He who has an ear, let him hear what the Spirit says to the churches. The one who conquers will not be hurt by the second death.'}"
+> \textsuperscript{10}'Do not fear what you are about to suffer. Behold, the devil is about to cast some of you into prison, so that you will be tested, and you will have tribulation for ten days. Be faithful until death, and I will give you the crown of life. \textsuperscript{11}'He who has an ear, let him hear what the Spirit says to the churches. He who overcomes will not be hurt by the second death.'}
 
 ---
 
@@ -1539,14 +1759,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *thlipsis* | thlipsis | 患難、壓迫 | 字面指重壓、擠壓，新約常用於形容因信仰受的苦難 |
-| *ptōcheia* | ptōcheia | 赤貧 | 比一般「貧窮」（*penia*）更嚴重，指一無所有的赤貧 |
-| *blasphēmia* | blasphēmia | 毀謗、褻瀆 | 9節指向猶太社群對基督徒的毀謗指控 |
-| *synagōgē tou Satana* | synagōgē tou Satana | 撒但的會堂 | 直接與「猶太人的會堂」形成尖銳對比，非指所有猶太人 |
-| *peirasthēte* | peirazō（被動） | 受試煉 | 10節，強調苦難有煉淨、印證信心的功用 |
-| *pistos achri thanatou* | pistos achri thanatou | 至死忠心 | 10節，全啟示錄中對信徒最高的呼召之一 |
-| *ho stephanos tēs zōēs* | ho stephanos tēs zōēs | 生命的冠冕 | *stephanos*指運動員得勝的花冠，而非君王的權冕（*diadēma*） |
+|----------------------|----------------------|--------------|------------------------------------------|
+| θλῖψις | thlipsis | 患難、壓迫 | 字面指重壓、擠壓，新約常用於形容因信仰受的苦難 |
+| πτωχεία | ptōcheia | 赤貧 | 比一般「貧窮」（*penia*）更嚴重，指一無所有的赤貧 |
+| βλασφημία | blasphēmia | 毀謗、褻瀆 | 9節指向猶太社群對基督徒的毀謗指控 |
+| συναγωγὴ τοῦ Σατανᾶ | synagōgē tou Satana | 撒但的會堂 | 直接與「猶太人的會堂」形成尖銳對比，非指所有猶太人 |
+| πειρασθῆτε | peirazō（被動） | 受試煉 | 10節，強調苦難有煉淨、印證信心的功用 |
+| πιστὸς ἄχρι θανάτου | pistos achri thanatou | 至死忠心 | 10節，全啟示錄中對信徒最高的呼召之一 |
+| ὁ στέφανος τῆς ζωῆς | ho stephanos tēs zōēs | 生命的冠冕 | *stephanos*指運動員得勝的花冠，而非君王的權冕（*diadēma*） |
 
 ### 「至死忠心」與生命的冠冕
 
@@ -1554,7 +1774,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 屬世的貧窮與屬靈的富足
 
@@ -1574,13 +1794,32 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 31:1-5
+
+> \textsuperscript{1}（大衛的詩，交與伶長。）耶和華啊，我投靠你；求你使我永不羞愧；憑你的公義搭救我！
+> \textsuperscript{2}求你側耳而聽，快快救我！作我堅固的磐石，拯救我的保障！
+> \textsuperscript{3}因為你是我的巖石，我的山寨；所以，求你為你名的緣故引導我，指點我。
+> \textsuperscript{4}求你救我脫離人為我暗設的網羅，因為你是我的保障。
+> \textsuperscript{5}我將我的靈魂交在你手裡；耶和華誠實的神啊，你救贖了我。
+
+「我將我的靈魂交在你手裡」——主在十字架上引用的正是這一節（路 23:46）。士每拿教會被要求「至死忠心」，走的是主自己走過的路。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在現存最早的啟示錄註釋中指出，士每拿信中「十日」的患難，象徵一段有限度、由神親自量度的試煉期，而非無止境的苦難；他特別提醒讀者，主在應許冠冕之前先說「不要懼怕」，顯明苦難本身從不是神對教會憤怒的記號，而是煉淨與印證信心的途徑。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*
 
 ### 改革宗時期
@@ -1588,6 +1827,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在其《聖經註釋》論到士每拿教會時寫道，這是七封書信中唯一沒有絲毫責備的兩封信之一，苦難反倒煉淨了她，使她在物質貧乏中保守了信仰的純淨；他提醒讀者，教會歷史一再證明：受逼迫的教會往往比安逸的教會更貼近起初的愛心與純正的信仰。
+
 > — Matthew Henry, *An Exposition of the Old and New Testament* (Acts–Revelation volume completed by other nonconformist ministers after Henry's death, 1721)
 
 ### 當代釋經
@@ -1595,16 +1835,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，士每拿教會所擁有的，是這個世界不能給、也不能奪去的財富——與基督聯合的生命，以及那將要顯明的、永不朽壞的冠冕。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯在其啟示錄註釋（NICNT）中論到基督自稱「首先的、末後的、死過又活的」時指出，對一個隨時可能被要求為信仰付上性命的群體而言，這不是抽象的教義宣告，而是最直接的安慰——基督比他們更早經過死亡，並且已經得勝。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### In the Cross of Christ I Glory
+
+*John Bowring, 1825*
+
+> In the cross of Christ I glory,
+> Towering o'er the wrecks of time;
+> All the light of sacred story
+> Gathers round its head sublime.
+
+士每拿是七封信中唯一沒有受責備的教會，也是最貧窮、最受逼迫的教會。默想：主對他們說「你卻是富足的」——在主的帳目裡，患難欄與財富欄是同一欄。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**主向受苦者亮出的名號**：麥克阿瑟指出，基督向士每拿的自我介紹是「那首先的、末後的、死過又活的」——對一間天天面對死亡威脅的教會，沒有比「我親自死過、又活了」更對症的安慰。
+
+**貧窮卻富足的帳目**：士每拿 (Smyrna) 一名與「沒藥」相關——被壓碎才發香。他指出主完全知道他們的患難與貧窮，卻宣告「你卻是富足的」；與老底嘉「自以為富足、其實貧窮」恰成鏡像。
+
+**「十日」的患難有主量定的邊界**：無論十日作何解，麥克阿瑟強調重點是：患難的長度由主規定，不由逼迫者決定；因此「至死忠心」的呼召，配上的是「生命的冠冕」的應許。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：士每拿教會 (Ask Elder Wong)
 
@@ -1724,13 +1992,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 2:12-17
 
-**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 主稱別迦摩是「撒但座位之所在」的城市——這座亞細亞省的宗教與政治中心，滿佈異教神廟與皇帝崇拜的祭壇，教會就活在這座城市的正中心。主稱讚她「還堅守我的名，沒有棄絕我的道」，甚至有弟兄安提帕在此殉道。但緊接著，主卻要責備她——不是因為外在的逼迫使她妥協，而是因為她在教會內部容讓了巴蘭與尼哥拉黨的教訓。基督在此顯現為「那有兩刃利劍的」，這把劍不是用來對付外面的仇敵，而是用來對付教會內部容忍罪惡的光景。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Stand Up, Stand Up for Jesus**
+> *George Duffield Jr., 1858*
+>
+> Stand up, stand up for Jesus, ye soldiers of the cross;
+> Lift high His royal banner, it must not suffer loss.
+> From victory unto victory His army shall He lead,
+> Till every foe is vanquished and Christ is Lord indeed.
+>
+> 為主耶穌站起來，十架精兵齊向前；
+> 高舉君王的旌旗，不容旗幟受虧損。
+> 祂必領軍節節勝，從得勝直到得勝，
+> 直到仇敵盡敗亡，基督真作萬有主。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -1742,13 +2028,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{16}所以，你當悔改；若不悔改，我就快臨到你那裡，用我口中的劍攻擊他們。\textsuperscript{17}聖靈向眾教會所說的話，凡有耳的，就應當聽！得勝的，我必將那隱藏的嗎哪賜給他，並賜他一塊白石，石上寫著新名；除了那領受的以外，沒有人能認識。}」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{12}"And to the angel of the church in Pergamum write: 'The words of him who has the sharp two-edged sword. \jesus{\textsuperscript{13}I know where you dwell, where Satan's throne is. Yet you hold fast my name, and you did not deny my faith even in the days of Antipas my faithful witness, who was killed among you, where Satan dwells.
+> \textsuperscript{12}'And to the angel of the church in Pergamum write: The One who has the sharp two-edged sword says this: \jesus{ \textsuperscript{13}'I know where you dwell, where Satan's throne is; and you hold fast My name, and did not deny My faith even in the days of Antipas, My witness, My faithful one, who was killed among you, where Satan dwells.
 
-> \textsuperscript{14}But I have a few things against you: you have some there who hold the teaching of Balaam, who taught Balak to put a stumbling block before the sons of Israel, so that they might eat food sacrificed to idols and practice sexual immorality. \textsuperscript{15}So also you have some who hold the teaching of the Nicolaitans.
+> \textsuperscript{14}'But I have a few things against you, because you have there some who hold the teaching of Balaam, who kept teaching Balak to put a stumbling block before the sons of Israel, to eat things sacrificed to idols and to commit \textit{acts of} immorality. \textsuperscript{15}'So you also have some who in the same way hold the teaching of the Nicolaitans.
 
-> \textsuperscript{16}Therefore repent. If not, I will come to you soon and war against them with the sword of my mouth. \textsuperscript{17}He who has an ear, let him hear what the Spirit says to the churches. To the one who conquers I will give some of the hidden manna, and I will give him a white stone, with a new name written on the stone that no one knows except the one who receives it.'}"
+> \textsuperscript{16}'Therefore repent; or else I am coming to you quickly, and I will make war against them with the sword of My mouth. \textsuperscript{17}'He who has an ear, let him hear what the Spirit says to the churches. To him who overcomes, to him I will give \textit{some} of the hidden manna, and I will give him a white stone, and a new name written on the stone which no one knows but he who receives it.'}
 
 ---
 
@@ -1767,14 +2053,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *ho thronos tou Satana* | ho thronos tou Satana | 撒但的座位 | 13節，可能實指宙斯大祭壇，也象徵這城作為異教與帝國權力中心的地位 |
-| *rhomphaia distomos* | rhomphaia distomos | 兩刃的利劍 | 取自1:16，象徵基督話語審判的權柄 |
-| *didachē Balaam* | didachē Balaam | 巴蘭的教訓 | 14節，取自民數記22-25章的典故 |
-| *skandalon* | skandalon | 絆腳石 | 14節，原指誘捕的機關，引申為使人跌倒犯罪的事物 |
-| *porneuō* | porneuō | 行淫亂 | 14節，可能兼指實際的性道德敗壞與屬靈上與異教崇拜的「淫合」 |
-| *manna kekrymmenon* | manna kekrymmenon | 隱藏的嗎哪 | 17節，與曠野嗎哪（出16章）及約櫃中存留的嗎哪（來9:4）相對 |
-| *psēphos leukē* | psēphos leukē | 白石 | 17節，古代用途多元：陪審團投無罪票、競技優勝入場憑證、貴賓邀請函 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ὁ θρόνος τοῦ Σατανᾶ | ho thronos tou Satana | 撒但的座位 | 13節，可能實指宙斯大祭壇，也象徵這城作為異教與帝國權力中心的地位 |
+| ῥομφαία δίστομος | rhomphaia distomos | 兩刃的利劍 | 取自1:16，象徵基督話語審判的權柄 |
+| διδαχὴ Βαλαάμ | didachē Balaam | 巴蘭的教訓 | 14節，取自民數記22-25章的典故 |
+| σκάνδαλον | skandalon | 絆腳石 | 14節，原指誘捕的機關，引申為使人跌倒犯罪的事物 |
+| πορνεύω | porneuō | 行淫亂 | 14節，可能兼指實際的性道德敗壞與屬靈上與異教崇拜的「淫合」 |
+| μάννα κεκρυμμένον | manna kekrymmenon | 隱藏的嗎哪 | 17節，與曠野嗎哪（出16章）及約櫃中存留的嗎哪（來9:4）相對 |
+| ψῆφος λευκή | psēphos leukē | 白石 | 17節，古代用途多元：陪審團投無罪票、競技優勝入場憑證、貴賓邀請函 |
 
 ### 巴蘭的教訓與尼哥拉黨
 
@@ -1782,7 +2068,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 外部的忠貞不能替代內部的聖潔
 
@@ -1802,13 +2088,30 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 15:1-3
+
+> \textsuperscript{1}（大衛的詩。）耶和華啊，誰能寄居你的帳幕？誰能住在你的聖山？
+> \textsuperscript{2}就是行為正直、做事公義、心裡說實話的人。
+> \textsuperscript{3}他不以舌頭讒謗人，不惡待朋友，也不隨夥毀謗鄰里。
+
+別迦摩住在「撒但座位之處」，問題卻不在住址，在心術。詩篇 15 篇問的正是這個問題：誰能寄居在神的帳幕裡？答案與環境無關，與行為、言語、心裡的實話有關。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在論及尼哥拉黨時記載，這群人自稱擁有特殊的屬靈知識，教導信徒在肉體上的放縱與信仰的純正毫不相干，甚至可以毫無顧忌地參與異教筵席；他明確指出，使徒約翰所寫的啟示錄正面駁斥這種「知識脫離生活」的教訓，堅稱基督徒的信仰必須在生活行為中如實活出。
+
 > — Irenaeus, *Against Heresies*, Book I, Chapter 26
 
 ### 改革宗時期
@@ -1816,6 +2119,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格論到別迦摩教會時提醒讀者，這封信最嚴厲之處不在責備行淫亂或拜偶像的人本身，而在責備那容讓這些教訓存在的整間教會——他將此應用於他所處的宗教改革時代，警戒教會領袖：容忍錯謬的教導，其罪責不亞於親自教導錯謬。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1561 English translation)
 
 ### 當代釋經
@@ -1823,16 +2127,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，別迦摩教會證明了一件事：教會可以在外部逼迫下勇敢不屈，卻在內部紀律上軟弱無力——抵擋外面的獅子相對容易辨認，識破裡面披著羊皮的狼卻需要更深的儆醒。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其啟示錄註釋（BECNT）中指出，巴蘭的策略之所以奏效，正是因為它不要求人公開背叛信仰，只要求人在細節上「融入」——這正是別迦摩教會，以及每個世代的教會，最容易失守的防線。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O for a Closer Walk with God
+
+*William Cowper, 1772*
+
+> O for a closer walk with God,
+> A calm and heavenly frame,
+> A light to shine upon the road
+> That leads me to the Lamb!
+
+考柏一生與憂鬱症搏鬥，卻寫下這首求「更親近神」的詩。默想：主應許給別迦摩得勝者的是「隱藏的嗎哪」——不是公開的獎賞，是只有祂和你知道的供應。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**堅守主名與容讓錯謬可以並存**：麥克阿瑟指出別迦摩的弔詭——他們在殉道者安提帕流血之處沒有棄絕信仰（2:13），卻在教內容讓巴蘭的教訓與尼哥拉黨（2:14-15）。外部逼迫壓不垮的教會，可能被內部的妥協蛀空。
+
+**巴蘭路線的本質是同化**：他提醒，巴蘭無法咒詛以色列，就教巴勒引誘以色列——撒但攻擊教會的第二條路線從來不是刀劍，而是通婚式的混合：讓教會與世界的界線消失。
+
+**主的武器是他口中的劍**：對不肯悔改的教會，主說「我就快臨到你那裡，用我口中的劍攻擊他們」——審判錯謬教訓的，正是曾經被錯謬扭曲的那道。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：別迦摩教會 (Ask Elder Wong)
 
@@ -1953,13 +2285,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 2:18-29
 
-**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 推雅推喇是七封書信中篇幅最長的一封，寫給七間教會中知名度最小、卻在某些方面最活躍的一間——她的「愛心、信心、勤勞、忍耐，又知道你末後所行的善事，比起初所行的更多」，是七間教會中唯一被稱讚「越來越好」的。然而，她卻容忍了一個自稱先知、被主直接點名為「耶洗別」的女人，引誘信徒行淫亂、吃祭偶像之物。基督在此顯現為「眼目如火燄、腳像光明銅的神之子」——這雙能洞察一切隱藏之事的眼目，正是要照透推雅推喇教會表面活躍下所掩蓋的容忍與敗壞。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Jesus, Thy Blood and Righteousness**
+> *Nikolaus L. von Zinzendorf, 1739; tr. John Wesley, 1740*
+>
+> Jesus, Thy blood and righteousness
+> My beauty are, my glorious dress;
+> 'Midst flaming worlds, in these arrayed,
+> With joy shall I lift up my head.
+>
+> 主耶穌，你的血與義，
+> 是我榮美，是我華服；
+> 世界烈火焚燒之日，
+> 我必披此坦然舉首。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -1971,13 +2321,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{24}至於你們推雅推喇其餘的人，就是一切不從那教訓、不曉得他們素常所說撒但深奧之理的人，我告訴你們，我不將別的擔子放在你們身上。\textsuperscript{25}但你們已經有的，總要持守，直等到我來。\textsuperscript{26}那得勝又遵守我命令到底的，我要賜給他權柄制伏列國；\textsuperscript{27}他必用鐵杖轄管（轄管：原文是牧）他們，將他們如同窯戶的瓦器打得粉碎，像我從我父領受的權柄一樣。\textsuperscript{28}我又要把晨星賜給他。\textsuperscript{29}聖靈向眾教會所說的話，凡有耳的，就應當聽！}」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{18}"And to the angel of the church in Thyatira write: 'The words of the Son of God, who has eyes like a flame of fire, and whose feet are like burnished bronze. \jesus{\textsuperscript{19}I know your works, your love and faith and service and patient endurance, and that your latter works exceed the first.
+> \textsuperscript{18}'And to the angel of the church in Thyatira write: The Son of God, who has eyes like a flame of fire, and His feet are like burnished bronze, says this: \jesus{ \textsuperscript{19}'I know your deeds, and your love and faith and service and perseverance, and that your deeds of late are greater than at first.
 
-> \textsuperscript{20}But I have this against you, that you tolerate that woman Jezebel, who calls herself a prophetess and is teaching and seducing my servants to practice sexual immorality and to eat food sacrificed to idols. \textsuperscript{21}I gave her time to repent, but she refuses to repent of her sexual immorality. \textsuperscript{22}Behold, I will throw her onto a sickbed, and those who commit adultery with her I will throw into great tribulation, unless they repent of her works, \textsuperscript{23}and I will strike her children dead. And all the churches will know that I am he who searches mind and heart, and I will give to each of you according to your works.
+> \textsuperscript{20}'But I have \textit{this} against you, that you tolerate the woman Jezebel, who calls herself a prophetess, and she teaches and leads My bond-servants astray so that they commit \textit{acts of} immorality and eat things sacrificed to idols. \textsuperscript{21}'I gave her time to repent, and she does not want to repent of her immorality. \textsuperscript{22}'Behold, I will throw her on a bed \textit{of sickness}, and those who commit adultery with her into great tribulation, unless they repent of her deeds. \textsuperscript{23}'And I will kill her children with pestilence, and all the churches will know that I am He who searches the minds and hearts; and I will give to each one of you according to your deeds.
 
-> \textsuperscript{24}But to the rest of you in Thyatira, who do not hold this teaching, who have not learned what some call the deep things of Satan, to you I say, I do not lay on you any other burden. \textsuperscript{25}Only hold fast what you have until I come. \textsuperscript{26}The one who conquers and who keeps my works until the end, to him I will give authority over the nations, \textsuperscript{27}and he will rule them with a rod of iron, as when earthen pots are broken in pieces, even as I myself have received authority from my Father. \textsuperscript{28}And I will give him the morning star. \textsuperscript{29}He who has an ear, let him hear what the Spirit says to the churches.'}"
+> \textsuperscript{24}'But I say to you, the rest who are in Thyatira, who do not hold this teaching, who have not known the deep things of Satan, as they call them— I place no other burden on you. \textsuperscript{25}'Nevertheless what you have, hold fast until I come. \textsuperscript{26}'He who overcomes, and he who keeps My deeds until the end, TO HIM I WILL GIVE AUTHORITY OVER THE NATIONS; \textsuperscript{27}AND HE SHALL RULE THEM WITH A ROD OF IRON, AS THE VESSELS OF THE POTTER ARE BROKEN TO PIECES, as I also have received \textit{authority} from My Father; \textsuperscript{28}and I will give him the morning star. \textsuperscript{29}'He who has an ear, let him hear what the Spirit says to the churches.'}
 
 ---
 
@@ -1996,14 +2346,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *ho huios tou theou* | ho huios tou theou | 神的兒子 | 18節，七封書信中唯一直接稱基督為「神的兒子」的一封 |
-| *ophthalmoi hōs phloga pyros* | ophthalmoi hōs phloga pyros | 眼目如火焰 | 取自1:14，象徵洞察一切隱藏之事的能力 |
-| *aphes* | aphiēmi（現在時） | 容讓、容忍 | 20節，強調教會消極的縱容而非主動的參與 |
-| *planaō* | planaō | 引誘、使迷失 | 20節，字根與「行星」（漂移不定的星）相關，指偏離正道 |
-| *ta bathea tou Satana* | ta bathea tou Satana | 撒但深奧之理 | 24節，可能諷刺性地引用了異端自誇「屬靈深度」的用語 |
-| *rhabdos sidēra* | rhabdos sidēra | 鐵杖 | 27節，取自詩篇2:9彌賽亞詩篇 |
-| *ho astēr ho prōinos* | ho astēr ho prōinos | 晨星 | 28節，與22:16基督自稱「明亮的晨星」相呼應 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ὁ υἱὸς τοῦ θεοῦ | ho huios tou theou | 神的兒子 | 18節，七封書信中唯一直接稱基督為「神的兒子」的一封 |
+| ὀφθαλμοὶ ὡς φλόγα πυρός | ophthalmoi hōs phloga pyros | 眼目如火焰 | 取自1:14，象徵洞察一切隱藏之事的能力 |
+| ἀφεῖς | aphiēmi（現在時） | 容讓、容忍 | 20節，強調教會消極的縱容而非主動的參與 |
+| πλανάω | planaō | 引誘、使迷失 | 20節，字根與「行星」（漂移不定的星）相關，指偏離正道 |
+| τὰ βαθέα τοῦ Σατανᾶ | ta bathea tou Satana | 撒但深奧之理 | 24節，可能諷刺性地引用了異端自誇「屬靈深度」的用語 |
+| ῥάβδος σιδηρᾶ | rhabdos sidēra | 鐵杖 | 27節，取自詩篇2:9彌賽亞詩篇 |
+| ὁ ἀστὴρ ὁ πρωϊνός | ho astēr ho prōinos | 晨星 | 28節，與22:16基督自稱「明亮的晨星」相呼應 |
 
 ### 「耶洗別」的文學與屬靈意義
 
@@ -2011,7 +2361,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 「越來越好」也可能藏著致命的縱容
 
@@ -2035,13 +2385,30 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 26:1-3
+
+> \textsuperscript{1}（大衛的詩。）耶和華啊，求你為我伸冤，因我向來行事純全；我又倚靠耶和華，並不搖動。
+> \textsuperscript{2}耶和華啊，求你察看我，試驗我，熬煉我的肺腑心腸。
+> \textsuperscript{3}因為你的慈愛常在我眼前，我也按你的真理而行。
+
+推雅推喇的事工「後來的行為比起初所行的更多」，主卻說「我是那察看人肺腑心腸的」。詩人不怕被察看，反倒求神察看——這是容讓罪惡的教會最需要的膽量。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在其註釋中將推雅推喇的耶洗別視為教會歷史中反覆出現的假教師原型——任何以屬靈權柄之名，引誘信徒與世界的偶像及道德敗壞妥協的聲音，都承接著這同一個屬靈的譜系；他特別提醒讀者留意23節「我是那察看人肺腑心腸的」這句宣告，強調基督審判的根據不是外在的言辭，而是內心真實的動機與行為。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*
 
 ### 改革宗時期
@@ -2049,6 +2416,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利論到推雅推喇教會時指出，這封信最發人深省之處在於：教會的敗壞往往不是從公開背叛真道開始，而是從「容忍」一個看似有恩賜、卻教導錯謬的聲音開始；他提醒教會領袖，容忍罪惡如同容忍發酵的麵酵，起初微小，終將使全團發起來（引申自加拉太書5:9）。
+
 > — Matthew Henry, *An Exposition of the Old and New Testament* (Acts–Revelation volume completed by other nonconformist ministers after Henry's death, 1721)
 
 ### 當代釋經
@@ -2056,16 +2424,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，推雅推喇教會的悲劇不在於她缺乏愛心、信心或勤勞——她樣樣都有，甚至越來越多——她的悲劇在於，她把這一切美德用在容忍一個假先知身上，而不是用來抵擋她。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「撒但深奧之理」很可能是耶洗別一派自己使用的語言，諷刺性地被主引用——她自稱帶領信徒進入屬靈的深處，主卻宣告，那深處不過是撒但的深處。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Purer in Heart, O God
+
+*Fannie Estelle Davison, 1877*
+
+> Purer in heart, O God,
+> Help me to be;
+> May I devote my life
+> Wholly to Thee.
+
+推雅推喇的病不是懶惰，是寬容——愛心、信心、勤勞、忍耐都在，卻「容讓那自稱是先知的婦人耶洗別教導」。默想：一間教會可以事工興旺而同時容讓罪惡，因為忙碌最能遮蓋不聖潔。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**七封信中最長的一封，寫給最小的城**：麥克阿瑟指出這個反差——推雅推喇不過是個行會林立的商業小城，主卻用最長的篇幅處理它，因為「容讓耶洗別」的問題最深：不是缺乏愛心，而是把容忍罪惡誤當愛心。
+
+**行會筵席的現實壓力**：他描繪當時的處境：不加入行會就沒有生意，行會筵席就有偶像的祭物與淫亂——「耶洗別」的教訓正是為這種壓力提供道理上的藉口。經濟壓力至今仍是教會妥協最常見的入口。
+
+**「察看人肺腑心腸」的主**：向這間教會顯現的，是「眼目如火焰」的神子——事工可以越做越多（2:19），但主察看的深度直達肺腑；同時他也記念「其餘的人」，不再加給他們別的擔子（2:24）。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：推雅推喇教會 (Ask Elder Wong)
 
@@ -2186,13 +2582,33 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 3:1-6
 
-**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封信中，撒狄是唯一一封找不到一句稱讚的信。主耶穌對以弗所說「然而有一件事我要責備你」，對別迦摩、推雅推喇也是先讚後責，但對撒狄，開口就是「其實是死的」。這封最短、最嚴厲的信，卻不是要定這教會的罪就此了結——基督在此自稱「那有神的七靈和七星的」，正是啟示錄1:4、1:16「拿著七星」的同一位。祂沒有放棄這間看似死氣沉沉的教會，反而親自握著它、親自數點它剩下的幾個名字。死亡從不是基督止步的地方；祂正是「那存活的；我曾死過，現在又活了」（1:18）的那一位——連死亡都能被祂扭轉。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Wake, Awake, for Night Is Flying**
+> *Philipp Nicolai, 1599; tr. Catherine Winkworth, 1858*
+>
+> Wake, awake, for night is flying,
+> The watchmen on the heights are crying:
+> Awake, Jerusalem, at last!
+> Midnight hears the welcome voices,
+> And at the thrilling cry rejoices.
+>
+> 醒來，醒來，黑夜將盡，
+> 守望者在高處呼喊：
+> 耶路撒冷，快快醒來！
+> 子夜聽見那歡迎之聲，
+> 因這震動的呼喚歡騰。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -2202,11 +2618,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{4}然而在撒狄，你還有幾名是未曾污穢自己衣服的，他們要穿白衣與我同行，因為他們是配得過的。\textsuperscript{5}凡得勝的必這樣穿白衣，我也必不從生命冊上塗抹他的名；且要在我父面前，和我父眾使者面前，認他的名。\textsuperscript{6}聖靈向眾教會所說的話，凡有耳的，就應當聽！}」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}"And to the angel of the church in Sardis write: 'The words of him who has the seven spirits of God and the seven stars. \jesus{I know your works. You have the reputation of being alive, but you are dead. \textsuperscript{2}Wake up, and strengthen what remains and is about to die, for I have not found your works complete in the sight of my God. \textsuperscript{3}Remember, then, what you received and heard. Keep it, and repent. If you will not wake up, I will come like a thief, and you will not know at what hour I will come against you.
+> \textsuperscript{1}'To the angel of the church in Sardis write: He who has the seven Spirits of God and the seven stars, says this: 'I know your deeds, that you have a name that you are alive, but you are dead. \jesus{ \textsuperscript{2}'Wake up, and strengthen the things that remain, which were about to die; for I have not found your deeds completed in the sight of My God. \textsuperscript{3}'So remember what you have received and heard; and keep \textit{it}, and repent. Therefore if you do not wake up, I will come like a thief, and you will not know at what hour I will come to you.
 
-> \textsuperscript{4}Yet you have still a few names in Sardis, people who have not soiled their garments, and they will walk with me in white, for they are worthy. \textsuperscript{5}The one who conquers will be clothed thus in white garments, and I will never blot his name out of the book of life. I will confess his name before my Father and before his angels. \textsuperscript{6}He who has an ear, let him hear what the Spirit says to the churches.}'"
+> \textsuperscript{4}'But you have a few people in Sardis who have not soiled their garments; and they will walk with Me in white, for they are worthy. \textsuperscript{5}'He who overcomes will thus be clothed in white garments; and I will not erase his name from the book of life, and I will confess his name before My Father and before His angels. \textsuperscript{6}'He who has an ear, let him hear what the Spirit says to the churches.'}
 
 ---
 
@@ -2225,13 +2641,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *onoma* | onoma | 名字、名聲 | 「按名你是活的」——徒有其名 |
-| *grēgoreō* | grēgoreō | 警醒、儆醒 | 本節出現兩次（2, 3節），呼應撒狄失守的歷史 |
-| *stērizō* | stērizō | 堅固、扶持 | 對那「剩下、快要死的」發出的呼召 |
-| *molynō* | molynō | 玷污、弄髒 | 「未曾污穢自己衣服的」——衣服代表生命與見證 |
-| *leukos* | leukos | 白色的 | 得勝者的白衣，象徵潔淨與得勝 |
-| *exaleiphō* | exaleiphō | 塗去、抹去 | 「我也不從生命冊上塗去他的名」 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ὄνομα | onoma | 名字、名聲 | 「按名你是活的」——徒有其名 |
+| γρηγορέω | grēgoreō | 警醒、儆醒 | 本節出現兩次（2, 3節），呼應撒狄失守的歷史 |
+| στηρίζω | stērizō | 堅固、扶持 | 對那「剩下、快要死的」發出的呼召 |
+| μολύνω | molynō | 玷污、弄髒 | 「未曾污穢自己衣服的」——衣服代表生命與見證 |
+| λευκός | leukos | 白色的 | 得勝者的白衣，象徵潔淨與得勝 |
+| ἐξαλείφω | exaleiphō | 塗去、抹去 | 「我也不從生命冊上塗去他的名」 |
 
 ### 「其實是死的」（*nekros ei*）
 
@@ -2239,7 +2655,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 名聲與實際的落差 (The Gap Between Reputation and Reality)
 
@@ -2263,13 +2679,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 130:5-6
+
+> \textsuperscript{5}我等候耶和華，我的心等候；我也仰望他的話。
+> \textsuperscript{6}我的心等候主，勝於守夜的，等候天亮，勝於守夜的，等候天亮。
+
+「勝於守夜的等候天亮」——守望是撒狄信的關鍵詞（3:2「你要警醒」）。真正的警醒不是焦慮地張望，是等候天亮的人心裡已經知道天必要亮。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在現存最早的啟示錄註釋中，特別留意撒狄信獨缺讚美一事，指出這是七信中語氣最急切的一封——基督不與這教會客套，因為沉睡中的人若不被大聲喚醒，就會真的死去。他將「我必臨到你那裡，如同賊一樣」與馬太福音24:42-43的儆醒教訓並讀，提醒讀者：主的再來對警醒的人是盼望，對沉睡的人卻是出其不意的審判。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 3
 
 ### 改革宗時期
@@ -2277,6 +2709,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在他百篇啟示錄講道集中論到撒狄一信時強調，「按名是活的」正描繪了他那個時代許多徒具形式的教會——外有敬虔的規矩，內無敬虔的實際。他呼籲聽眾不要以參與教會生活為滿足，而要省察自己的行為是否「在我神面前」（3:2）——不是在人前，乃是在神眼中——被算為完全。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:1-6
 
 ### 當代釋經
@@ -2284,16 +2717,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，撒狄教會的核心問題，不是遭受逼迫、也不是被異端滲透，而是一種屬靈的死寂——最難察覺、卻最致命的光景，因為死人不會覺得自己有病。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯論到撒狄城牆固若金湯的歷史記憶時指出，這份自信反而成了它兩度被夜襲攻陷的諷刺；同樣，一間自滿於過去光景的教會，往往正是在毫無防備之處，被屬靈的衰敗攻陷。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Christ, Whose Glory Fills the Skies
+
+*Charles Wesley, 1740*
+
+> Christ, whose glory fills the skies,
+> Christ, the true, the only Light,
+> Sun of Righteousness, arise,
+> Triumph o'er the shades of night.
+
+撒狄「按名你是活的，其實是死的」——這是七封信中最可怕的一句，因為它意味著這間教會自己並不知道。默想：名聲是別人給的，實際是主看見的；兩者之間的距離，就是撒狄的病。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**按名是活的，其實是死的**：麥克阿瑟把撒狄視為「有名無實」教會的定案研究：沒有異端記錄、沒有逼迫記錄、名聲良好——問題恰恰是連撒但都不必攻擊一間已死的教會。
+
+**歷史成了講章**：撒狄城建在峭壁上，自恃天險，歷史上卻兩次因守軍懈怠在夜間失城。他指出主的「你要警醒」正是拿這座城最著名的恥辱作講章——屬靈的失守，同樣從自恃安全開始。
+
+**衣服未曾污穢的少數人**：即使在死了的教會裡，主仍點名「還有幾名是未曾污穢自己衣服的」——審判以教會為單位，記念卻以名字為單位；主的眼目從不把忠心的少數混在整體裡一併勾銷。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：撒狄教會 (Ask Elder Wong)
 
@@ -2329,9 +2790,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 「甩開懶惰的沉睡，歡然起來」——這正是基督對撒狄教會的心意：不是定罪後棄絕，而是呼喚甦醒。
 
-**詩篇**：詩篇 88
+**詩篇**：詩篇 88:1-3
 
-> 耶和華，拯救我的神啊，我晝夜在你面前呼籲。願我的禱告達到你面前；求你側耳聽我的呼求。因為我心裡滿了患難，我的性命臨近陰間。
+> 耶和華─拯救我的神啊，我晝夜在你面前呼籲。願我的禱告達到你面前；求你側耳聽我的呼求！因為我心裡滿了患難；我的性命臨近陰間。
 
 詩篇88是詩篇中少有的、通篇沒有轉向盼望的哀歌，貼切描繪出「名義上活著、實際卻在陰間邊緣」的掙扎——但正因如此，這詩篇的存在本身就是應許：即使在最幽暗、看似無出路的光景裡，仍可以向神呼籲，而神仍然垂聽。
 
@@ -2411,13 +2872,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 3:7-13
 
-**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封信中，非拉鐵非與士每拿是僅有的兩間沒有受到任何責備的教會——而非拉鐵非收到的稱讚也最溫柔懇切。這間教會「略有一點力量」，論人數、論資源，都不是亞細亞七城中最起眼的一個，卻蒙基督親自稱許「你既遵守我忍耐的道」。基督在此自稱「那聖潔、真實、拿著大衛的鑰匙、開了就沒有人能關、關了就沒有人能開的」——這呼應以賽亞書22:22以利亞敬掌管王家鑰匙的職分，宣告祂對進入神國度的門戶擁有絕對的權柄。一個「略有一點力量」的教會，若單靠自己的力量，開不了任何一扇門；但基督親自為他們開了一扇「無人能關」的門——這正是全信的核心：不是這教會有多強大，而是這教會所倚靠的那一位有多信實。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Guide Me, O Thou Great Jehovah**
+> *William Williams, 1745; tr. Peter Williams, 1771*
+>
+> Guide me, O Thou great Jehovah,
+> Pilgrim through this barren land;
+> I am weak, but Thou art mighty;
+> Hold me with Thy powerful hand.
+>
+> 引導我，全能的耶和華，
+> 我是曠野中的客旅；
+> 我雖軟弱，你卻全能，
+> 求以大能的手扶持。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -2427,11 +2906,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \jesus{\textsuperscript{11}我必快來，你要持守你所有的，免得人奪去你的冠冕。\textsuperscript{12}得勝的，我要叫他在我神殿中作柱子，他也必不再從那裡出去。我又要將我神的名和我神城的名（這城就是從天上、從我神那裡降下來的新耶路撒冷），並我的新名，都寫在他上面。}\textsuperscript{13}聖靈向眾教會所說的話，凡有耳的，就應當聽！』
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{7}"And to the angel of the church in Philadelphia write: 'The words of the holy one, the true one, who has the key of David, who opens and no one will shut, who shuts and no one opens. \jesus{\textsuperscript{8}"I know your works. Behold, I have set before you an open door, which no one is able to shut. I know that you have but little power, and yet you have kept my word and have not denied my name. \textsuperscript{9}Behold, I will make those of the synagogue of Satan who say that they are Jews and are not, but lie—behold, I will make them come and bow down before your feet, and they will learn that I have loved you. \textsuperscript{10}Because you have kept my word about patient endurance, I will keep you from the hour of trial that is coming on the whole world, to try those who dwell on the earth.}
+> \textsuperscript{7}'And to the angel of the church in Philadelphia write: He who is holy, who is true, who has the key of David, who opens and no one will shut, and who shuts and no one opens, says this: \jesus{ \textsuperscript{8}'I know your deeds. Behold, I have put before you an open door which no one can shut, because you have a little power, and have kept My word, and have not denied My name. \textsuperscript{9}'Behold, I will cause \textit{those} of the synagogue of Satan, who say that they are Jews and are not, but lie— I will make them come and bow down at your feet, and \textit{make them} know that I have loved you. \textsuperscript{10}'Because you have kept the word of My perseverance, I also will keep you from the hour of testing, that \textit{hour} which is about to come upon the whole world, to test those who dwell on the earth.}
 
-> \jesus{\textsuperscript{11}I am coming soon. Hold fast what you have, so that no one may seize your crown. \textsuperscript{12}The one who conquers, I will make him a pillar in the temple of my God. Never shall he go out of it, and I will write on him the name of my God, and the name of the city of my God, the new Jerusalem, which comes down from my God out of heaven, and my own new name.} \textsuperscript{13}He who has an ear, let him hear what the Spirit says to the churches.'"
+> \jesus{ \textsuperscript{11}'I am coming quickly; hold fast what you have, so that no one will take your crown. \textsuperscript{12}'He who overcomes, I will make him a pillar in the temple of My God, and he will not go out from it anymore; and I will write on him the name of My God, and the name of the city of My God, the new Jerusalem, which comes down out of heaven from My God, and My new name.} \textsuperscript{13}'He who has an ear, let him hear what the Spirit says to the churches.'
 
 ---
 
@@ -2450,13 +2929,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *kleis Dauid* | kleis Dauid | 大衛的鑰匙 | 引自賽22:22，象徵掌管進入神家的絕對權柄 |
-| *thyra aneōgmenē* | thyra aneōgmenē | 敞開的門 | 完成式分詞，表示「已經開了、且持續開著」的狀態 |
-| *mikran dynamin* | mikran dynamin | 一點力量 | 承認軟弱，卻不是責備，而是稱讚的前提 |
-| *synagōgē tou Satana* | synagōgē tou Satana | 撒但的會堂 | 與2:9士每拿信用語相同，指敵擋福音的猶太會堂 |
-| *hypomonē* | hypomonē | 忍耐、堅忍 | 主動的、積極的持守，非被動的忍受 |
-| *stylos* | stylos | 柱子 | 得勝者應許——永久、穩固、承重的角色 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| κλεὶς Δαυίδ | kleis Dauid | 大衛的鑰匙 | 引自賽22:22，象徵掌管進入神家的絕對權柄 |
+| θύρα ἠνεῳγμένη | thyra aneōgmenē | 敞開的門 | 完成式分詞，表示「已經開了、且持續開著」的狀態 |
+| μικρὰν δύναμιν | mikran dynamin | 一點力量 | 承認軟弱，卻不是責備，而是稱讚的前提 |
+| συναγωγὴ τοῦ Σατανᾶ | synagōgē tou Satana | 撒但的會堂 | 與2:9士每拿信用語相同，指敵擋福音的猶太會堂 |
+| ὑπομονή | hypomonē | 忍耐、堅忍 | 主動的、積極的持守，非被動的忍受 |
+| στῦλος | stylos | 柱子 | 得勝者應許——永久、穩固、承重的角色 |
 
 ### 「敞開的門」（*thyra aneōgmenē*）
 
@@ -2464,7 +2943,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 軟弱與忠心可以並存 (Weakness and Faithfulness Can Coexist)
 
@@ -2488,13 +2967,30 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 118:19-21
+
+> \textsuperscript{19}給我敞開義門；我要進去稱謝耶和華！
+> \textsuperscript{20}這是耶和華的門；義人要進去！
+> \textsuperscript{21}我要稱謝你，因為你已經應允我，又成了我的拯救！
+
+「給我敞開義門」——非拉鐵非的應許是一扇「敞開的門，是無人能關的」(3:8)。門不是我們推開的，是那位「拿著大衛的鑰匙」的主開的。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林論到「大衛的鑰匙」時指出，這鑰匙的權柄與以賽亞書中以利亞敬的職分相連，象徵基督掌管神家的門戶，唯獨祂能決定誰進、誰出；他特別強調「敞開的門」對當時遭受猶太會堂敵視、又勢單力薄的信徒群體，是何等實際的安慰——縱使外面的門被人試圖關閉，基督所開的門終究無人能奪去。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 3
 
 ### 改革宗時期
@@ -2502,6 +2998,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在講論非拉鐵非信時提醒會眾，這封信證明教會的價值不在乎外表的規模與力量，而在乎對主道的持守；「略有一點力量」的教會，若忠心到底，所得的稱許與應許，並不亞於任何看似強大的群體——這是對他那個時代許多弱小、卻持守純正信仰的改教會眾極大的鼓勵。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:7-13
 
 ### 當代釋經
@@ -2509,16 +3006,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，非拉鐵非教會所擁有的，不是龐大的資源或顯赫的聲望，而是對基督之道毫不妥協的持守——正是這份持守，換來了基督毫無保留的稱許。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本觀察到，「敞開的門」的意象貫串保羅書信與啟示錄，總是指向神所賜下、人無法奪去的事奉機會；非拉鐵非教會的軟弱，反倒成了這扇門得以持續敞開的背景，因為門的持久不繫於教會的力量，而繫於開門者的信實。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### A Charge to Keep I Have
+
+*Charles Wesley, 1762*
+
+> A charge to keep I have,
+> A God to glorify,
+> A never-dying soul to save,
+> And fit it for the sky.
+
+主對非拉鐵非說「你要持守你所有的」——不是去爭取更多，是不要放掉手中已有的。默想：「你略有一點力量」不是責備，是主準確的體恤；祂從不要求超過祂所賜的。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**兩間無可責備的教會之一**：麥克阿瑟指出，七封信中唯有士每拿與非拉鐵非不受責備——一間是受苦的教會，一間是傳道的教會。這個組合本身就是信息。
+
+**「略有一點力量」是稱讚不是遺憾**：他強調 3:8 的語氣：主沒有要求非拉鐵非變強，而是記念他們用僅有的一點力量遵守主道、沒有棄絕主名——敞開的門是為軟弱而忠心的教會開的，不是為強者開的。
+
+**聖殿中的柱子，永不再出去**：非拉鐵非屢遭地震，居民一次次逃出城外。他指出 3:12 的應許正對著這個創傷說話：得勝者要作神殿中的柱子，「他也必不再從那裡出去」——永不再逃難的家。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：非拉鐵非教會 (Ask Elder Wong)
 
@@ -2636,7 +3161,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 3:14-22
 
-**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/3](https://www.ai-eden.com/bible/revelation/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
@@ -2644,19 +3169,37 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 配詩 (Opening Hymn)
+
+> **O Jesus, Thou Art Standing**
+> *William Walsham How, 1867*
+>
+> O Jesus, Thou art standing
+> Outside the fast-closed door,
+> In lowly patience waiting
+> To pass the threshold o'er.
+>
+> 主耶穌，你正站立
+> 在那緊閉的門外，
+> 以卑微的忍耐等候，
+> 要越過那道門檻。
+
+---
+
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本 (CUV)
 
 > \textsuperscript{14}你要寫信給老底嘉教會的使者，說：『那為阿們的，為誠信真實見證的，在神創造萬物之上為元首的，說：\jesus{\textsuperscript{15}我知道你的行為，你也不冷也不熱；我巴不得你或冷或熱。\textsuperscript{16}你既如溫水，也不冷也不熱，所以我必從我口中把你吐出去。\textsuperscript{17}你說：我是富足，已經發了財，一樣都不缺；卻不知道你是那困苦、可憐、貧窮、瞎眼、赤身的。\textsuperscript{18}我勸你向我買火煉的金子，叫你富足；又買白衣穿上，叫你赤身的羞恥不露出來；又買眼藥擦你的眼睛，使你能看見。}
 
-> \jesus{\textsuperscript{19}凡我所疼愛的，我就責備管教他；所以你要發熱心，也要悔改。\textsuperscript{20}看哪，我站在門外叩門，若有聽見我聲音就開門的，我要進到他那裡去，我與他，他與我一同坐席。\textsuperscript{21}得勝的，我要賜他在我寶座上與我同坐，就如我得了勝，在我父的寶座上與他同坐一般。}\textsuperscript{22}凡有耳朵的都應當聽聖靈向眾教會所說的話。』
+> \jesus{\textsuperscript{19}凡我所疼愛的，我就責備管教他；所以你要發熱心，也要悔改。\textsuperscript{20}看哪，我站在門外叩門；若有聽見我聲音就開門的，我要進到他那裡去，我與他、他與我一同坐席。\textsuperscript{21}得勝的，我要賜他在我寶座上與我同坐，就如我得了勝，在我父的寶座上與他同坐一般。}\textsuperscript{22}聖靈向眾教會所說的話，凡有耳的，就應當聽！』
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{14}"And to the angel of the church in Laodicea write: 'The words of the Amen, the faithful and true witness, the beginning of God's creation. \jesus{\textsuperscript{15}"I know your works: you are neither cold nor hot. Would that you were either cold or hot! \textsuperscript{16}So, because you are lukewarm, and neither hot nor cold, I will spit you out of my mouth. \textsuperscript{17}For you say, "I am rich, I have prospered, and I need nothing," not realizing that you are wretched, pitiable, poor, blind, and naked. \textsuperscript{18}I counsel you to buy from me gold refined by fire, so that you may be rich, and white garments so that you may clothe yourself and the shame of your nakedness may not be seen, and salve to anoint your eyes, so that you may see.}
+> \textsuperscript{14}'To the angel of the church in Laodicea write: The Amen, the faithful and true Witness, the Beginning of the creation of God, says this: \jesus{ \textsuperscript{15}'I know your deeds, that you are neither cold nor hot; I wish that you were cold or hot. \textsuperscript{16}'So because you are lukewarm, and neither hot nor cold, I will spit you out of My mouth. \textsuperscript{17}'Because you say, 'I am rich, and have become wealthy, and have need of nothing,' and you do not know that you are wretched and miserable and poor and blind and naked, \textsuperscript{18}I advise you to buy from Me gold refined by fire so that you may become rich, and white garments so that you may clothe yourself, and \textit{that} the shame of your nakedness will not be revealed; and eye salve to anoint your eyes so that you may see.}
 
-> \jesus{\textsuperscript{19}Those whom I love, I reprove and discipline, so be zealous and repent. \textsuperscript{20}Behold, I stand at the door and knock. If anyone hears my voice and opens the door, I will come in to him and eat with him, and he with me. \textsuperscript{21}The one who conquers, I will grant him to sit with me on my throne, as I also conquered and sat down with my Father on his throne.}\textsuperscript{22}He who has an ear, let him hear what the Spirit says to the churches.'"
+> \jesus{ \textsuperscript{19}'Those whom I love, I reprove and discipline; therefore be zealous and repent. \textsuperscript{20}'Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me. \textsuperscript{21}'He who overcomes, I will grant to him to sit down with Me on My throne, as I also overcame and sat down with My Father on His throne.} \textsuperscript{22}'He who has an ear, let him hear what the Spirit says to the churches.''
 
 ---
 
@@ -2675,13 +3218,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *ho Amēn* | ho Amēn | 「那阿們」 | 基督自稱，呼應賽65:16「真實的神」（原文作「阿們的神」） |
-| *chliaros* | chliaros | 溫的、不冷不熱的 | 新約僅此一見，反映老底嘉水道供水的實況 |
-| *emesai* | emesai | 吐出、嘔吐 | 強烈的生理厭惡反應，非單純「拒絕」 |
-| *talaipōros* | talaipōros | 困苦的 | 五個形容詞之首，總括老底嘉真實的屬靈景況 |
-| *chrysion pepyrōmenon* | chrysion pepyrōmenon | 從火中鍛鍊出來的金子 | 呼應彼前1:7「被試驗的信心」比金子更寶貴 |
-| *krouō* | krouō | 敲、叩 | 3:20「我站在門外叩門」，現在式，表持續的動作 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ὁ Ἀμήν | ho Amēn | 「那阿們」 | 基督自稱，呼應賽65:16「真實的神」（原文作「阿們的神」） |
+| χλιαρός | chliaros | 溫的、不冷不熱的 | 新約僅此一見，反映老底嘉水道供水的實況 |
+| ἐμέσαι | emesai | 吐出、嘔吐 | 強烈的生理厭惡反應，非單純「拒絕」 |
+| ταλαίπωρος | talaipōros | 困苦的 | 五個形容詞之首，總括老底嘉真實的屬靈景況 |
+| χρυσίον πεπυρωμένον | chrysion pepyrōmenon | 從火中鍛鍊出來的金子 | 呼應彼前1:7「被試驗的信心」比金子更寶貴 |
+| κρούω | krouō | 敲、叩 | 3:20「我站在門外叩門」，現在式，表持續的動作 |
 
 ### 「那阿們」（*ho Amēn*）
 
@@ -2689,7 +3232,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 自我感覺與真實光景的落差 (Self-Perception vs. Reality)
 
@@ -2713,13 +3256,33 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 81:8-13
+
+> \textsuperscript{8}我的民哪，你當聽，我要勸戒你；以色列啊，甚願你肯聽從我。
+> \textsuperscript{9}在你當中，不可有別的神；外邦的神，你也不可下拜。
+> \textsuperscript{10}我是耶和華─你的神，曾把你從埃及地領上來；你要大大張口，我就給你充滿。
+> \textsuperscript{11}無奈，我的民不聽我的聲音；以色列全不理我。
+> \textsuperscript{12}我便任憑他們心裡剛硬，隨自己的計謀而行。
+> \textsuperscript{13}甚願我的民肯聽從我，以色列肯行我的道，
+
+「甚願我的民肯聽從我」——神對老底嘉的心情，詩篇 81 篇早已寫盡：不是憤怒的宣判，是被拒絕之後仍然敞開的邀請。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林指出，老底嘉的「不冷不熱」不是指信心程度的高低，而是指一種對真理毫無熱切回應的麻木狀態——這樣的靈魂比公開拒絕真理者更難挽回，因為他們既不激烈反對，也不真誠委身，只是無感地漂浮在中間地帶。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 3
 
 ### 改革宗時期
@@ -2727,6 +3290,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在論到老底嘉信時特別提醒，物質的富足是這封信中隱藏的主角——老底嘉人正是因為在地上樣樣不缺，才對屬靈的匱乏毫無知覺；他呼籲信徒不要以世上的順利與豐足，作為衡量自己與神關係是否健康的標準，反倒要常常省察內心對真理的熱切程度。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:14-22
 
 ### 當代釋經
@@ -2734,16 +3298,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟論到老底嘉教會的悲劇時指出，問題不在於他們遭遇了甚麼災難，而在於他們甚麼災難都沒有遭遇——舒適本身，成了讓他們對基督無感的溫床。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
 畢爾指出，「我站在門外叩門」一節的驚人之處，在於這是對一間已經自稱基督徒的群體所說的——基督竟站在祂自己教會的門外，等候被邀請進入；這幅圖畫本身，就是對名義信仰最深刻的控訴。
+
 > — G.K. Beale, *The Book of Revelation* (NIGTC)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Rock of Ages, Cleft for Me
+
+*Augustus M. Toplady, 1763*
+
+> Nothing in my hand I bring,
+> Simply to Thy cross I cling;
+> Naked, come to Thee for dress,
+> Helpless, look to Thee for grace.
+
+「我手中一無所有」——這正是老底嘉最不肯承認的一句話。他們說「我是富足，已經發了財，一樣都不缺」，主說「你卻不知道你是那困苦、可憐、貧窮、瞎眼、赤身的」。默想：買眼藥的第一步，是先承認自己瞎了。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**寫給未重生教會的信**：麥克阿瑟對老底嘉的判斷在七封信中最重：這封信沒有一句稱讚，而主竟站在「門外」叩門——他據此把老底嘉讀作一間基督在其外面的教會：宗教活動齊全，重生的生命闕如。
+
+**溫水的地理註腳**：老底嘉的供水由遠處引來，到城已成溫水——不如歌羅西的涼水解渴，不如希拉波立的溫泉療病。「我巴不得你或冷或熱」用的正是全城最日常的抱怨。
+
+**向自我感覺良好者開的藥方**：「你說我是富足……卻不知道你是那困苦、可憐、貧窮、瞎眼、赤身的」——他指出 3:17 是全聖經對宗教式自滿最徹底的一份診斷書，而 3:18 的「買金子、白衣、眼藥」全指向唯獨基督能給的救恩。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：老底嘉教會 (Ask Elder Wong)
 
@@ -2873,13 +3465,35 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 4:1-11
 
-**經文核對**：[ai-eden.com/bible/revelation/4](https://www.ai-eden.com/bible/revelation/4?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/4](https://www.ai-eden.com/bible/revelation/4?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七封信結束後，場景陡然一變：「此後，我觀看，見天上有門開了」——約翰被提到天上，眼前展開的不再是七個地上教會的光景，而是宇宙的中心：一個寶座，一位坐在其上的。整卷啟示錄接下來所有的審判、爭戰、災難，都要從這一幕出發才能被正確理解——無論地上的局勢看來多麼混亂失控，天上的寶座從未空置，也從未動搖。第4章本身還沒有出現羔羊（那要留到第5章），這一章單單定睛在「坐寶座的」身上，讓讀者在看見任何審判或爭戰之前，先看清楚：誰才是真正掌權的那一位。這正是啟示錄「寶座的核心地位」在全書中的起點，也是整卷書得以承受一切震撼異象的根基。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Round the Lord in Glory Seated**
+> *Richard Mant, 1837*
+>
+> Round the Lord in glory seated
+> Cherubim and seraphim
+> Filled His temple, and repeated
+> Each to each the alternate hymn:
+> Lord, Thy glory fills the heaven;
+> Earth is with its fulness stored.
+>
+> 環繞榮耀寶座四圍，
+> 基路伯與撒拉弗，
+> 充滿聖殿，彼此輪唱
+> 那此起彼落的頌歌：
+> 主啊，你榮光充滿諸天，
+> 大地也滿了你的豐盛。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -2889,11 +3503,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > 寶座中和寶座周圍有四個活物，前後遍體都滿了眼睛。\textsuperscript{7}第一個活物像獅子，第二個像牛犢，第三個臉面像人，第四個像飛鷹。\textsuperscript{8}四活物各有六個翅膀，遍體內外都滿了眼睛。他們晝夜不住的說：「聖哉！聖哉！聖哉！主神是昔在、今在、以後永在的全能者。」\textsuperscript{9}每逢四活物將榮耀、尊貴、感謝歸給那坐在寶座上、活到永永遠遠者的時候，\textsuperscript{10}那二十四位長老就俯伏在坐寶座的面前敬拜那活到永永遠遠的，又把他們的冠冕放在寶座前，說：\textsuperscript{11}「我們的主，我們的神，你是配得榮耀、尊貴、權柄的；因為你創造了萬物，並且萬物是因你的旨意被創造而有的。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}After this I looked, and behold, a door standing open in heaven! And the first voice, which I had heard speaking to me like a trumpet, said, "Come up here, and I will show you what must take place after this." \textsuperscript{2}At once I was in the Spirit, and behold, a throne stood in heaven, with one seated on the throne. \textsuperscript{3}And he who sat there had the appearance of jasper and carnelian, and around the throne was a rainbow that had the appearance of an emerald. \textsuperscript{4}Around the throne were twenty-four thrones, and seated on the thrones were twenty-four elders, clothed in white garments, with golden crowns on their heads. \textsuperscript{5}From the throne came flashes of lightning, and rumblings and peals of thunder, and before the throne were burning seven torches of fire, which are the seven spirits of God. \textsuperscript{6}And before the throne there was as it were a sea of glass, like crystal.
+> \textsuperscript{1}After these things I looked, and behold, a door *standing* open in heaven, and the first voice which I had heard, like *the sound* of a trumpet speaking with me, said, 'Come up here, and I will show you what must take place after these things.' \textsuperscript{2}Immediately I was in the Spirit; and behold, a throne was standing in heaven, and One sitting on the throne. \textsuperscript{3}And He who was sitting *was* like a jasper stone and a sardius in appearance; and *there was* a rainbow around the throne, like an emerald in appearance. \textsuperscript{4}Around the throne *were* twenty-four thrones; and upon the thrones *I saw* twenty-four elders sitting, clothed in white garments, and golden crowns on their heads. \textsuperscript{5}Out from the throne come flashes of lightning and sounds and peals of thunder. And *there were* seven lamps of fire burning before the throne, which are the seven Spirits of God; \textsuperscript{6}and before the throne *there was something* like a sea of glass, like crystal; and in the center and around the throne, four living creatures full of eyes in front and behind.
 
-> And around the throne, on each side of the throne, are four living creatures, full of eyes in front and behind. \textsuperscript{7}The first living creature like a lion, the second living creature like an ox, the third living creature with the face of a man, and the fourth living creature like an eagle in flight. \textsuperscript{8}And the four living creatures, each of them with six wings, are full of eyes all around and within, and day and night they never cease to say, "Holy, holy, holy, is the Lord God Almighty, who was and is and is to come!" \textsuperscript{9}And whenever the living creatures give glory and honor and thanks to him who is seated on the throne, who lives forever and ever, \textsuperscript{10}the twenty-four elders fall down before him who is seated on the throne and worship him who lives forever and ever. They cast their crowns before the throne, saying, \textsuperscript{11}"Worthy are you, our Lord and God, to receive glory and honor and power, for you created all things, and by your will they existed and were created."
+> \textsuperscript{7}The first creature *was* like a lion, and the second creature like a calf, and the third creature had a face like that of a man, and the fourth creature *was* like a flying eagle. \textsuperscript{8}And the four living creatures, each one of them having six wings, are full of eyes around and within; and day and night they do not cease to say, 'HOLY, HOLY, HOLY *is* THE LORD GOD, THE ALMIGHTY, WHO WAS AND WHO IS AND WHO IS TO COME.' \textsuperscript{9}And when the living creatures give glory and honor and thanks to Him who sits on the throne, to Him who lives forever and ever, \textsuperscript{10}the twenty-four elders will fall down before Him who sits on the throne, and will worship Him who lives forever and ever, and will cast their crowns before the throne, saying, \textsuperscript{11}'Worthy are You, our Lord and our God, to receive glory and honor and power; for You created all things, and because of Your will they existed, and were created.'
 
 ---
 
@@ -2912,13 +3526,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *thronos* | thronos | 寶座 | 本章出現14次，是啟示錄全書出現最多的一章，全書共40餘次 |
-| *iaspis* | iaspis | 碧玉 | 象徵神榮光的視覺意象，21:11再度用以形容新耶路撒冷的光輝 |
-| *presbyteroi* | presbyteroi | 長老 | 二十四位，多數學者認為代表十二支派＋十二使徒＝完整的救贖群體 |
-| *zōa* | zōa | 活物 | 呼應以西結書1章的基路伯，代表受造界中最顯著的四類生命 |
-| *hagios* | hagios | 聖潔的 | 「聖哉、聖哉、聖哉」三聲疊呼，呼應賽6:3 |
-| *pantokratōr* | pantokrator | 全能者 | 啟示錄常用神的稱號，強調祂掌管萬有的絕對主權 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| θρόνος | thronos | 寶座 | 本章出現14次，是啟示錄全書出現最多的一章，全書共40餘次 |
+| ἴασπις | iaspis | 碧玉 | 象徵神榮光的視覺意象，21:11再度用以形容新耶路撒冷的光輝 |
+| πρεσβύτεροι | presbyteroi | 長老 | 二十四位，多數學者認為代表十二支派＋十二使徒＝完整的救贖群體 |
+| ζῷα | zōa | 活物 | 呼應以西結書1章的基路伯，代表受造界中最顯著的四類生命 |
+| ἅγιος | hagios | 聖潔的 | 「聖哉、聖哉、聖哉」三聲疊呼，呼應賽6:3 |
+| παντοκράτωρ | pantokrator | 全能者 | 啟示錄常用神的稱號，強調祂掌管萬有的絕對主權 |
 
 ### 三聲「聖哉」與撒拉弗的頌讚
 
@@ -2926,7 +3540,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 敬拜先於審判 (Worship Precedes Judgment)
 
@@ -2950,13 +3564,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 93:1-2
+
+> \textsuperscript{1}耶和華作王！他以威嚴為衣穿上；耶和華以能力為衣，以能力束腰，世界就堅定，不得動搖。
+> \textsuperscript{2}你的寶座從太初立定；你從亙古就有。
+
+「你的寶座從太初立定」——第 4 章不是說寶座剛被設立，是說寶座從來就在。約翰看見的不是新聞，是實況。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在論到四活物時，將獅子、牛犢、人、飛鷹的意象與四福音書的性質相連（獅子象徵君王的權能、牛犢象徵祭司的服事、人臉象徵道成肉身、飛鷹象徵屬天的高度），雖然這個對應方式在教會歷史中曾有不同版本，但他所要傳達的核心信息清楚：受造界最完整、最豐富的代表性生命型態，都聚集在寶座前晝夜不住地讚美創造主。
+
 > — Irenaeus of Lyons, *Against Heresies*, Book III, Chapter 11
 
 ### 改革宗時期
@@ -2964,6 +3594,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在講論第4章時強調，約翰蒙召「上到這裡來」看見天上的異象，正是要讓地上受逼迫的教會明白：他們眼前所受的苦難，絕非出於失控的偶然，而是在一位坐寶座者的主權之下發生的；一切敬拜、一切安慰，都要從仰望這寶座開始，而非單單凝視地上紛擾的局勢。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 4
 
 ### 當代釋經
@@ -2971,16 +3602,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，在啟示錄展開任何一項審判之前，約翰首先被帶到寶座前——這個次序本身就是一個宣告：一切即將發生的事，無論多麼可怕，都不會超出那位坐在寶座上者的主權範圍。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯認為，二十四位長老將冠冕擲於寶座前的動作，是啟示錄中最深刻的敬拜圖像之一——真正的敬拜，總是以放下自己所擁有的尊榮為記號，而不是緊握不放。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Praise, My Soul, the King of Heaven
+
+*Henry Francis Lyte, 1834*
+
+> Angels, help us to adore Him;
+> Ye behold Him face to face;
+> Sun and moon, bow down before Him,
+> Dwellers all in time and space.
+
+二十四位長老把冠冕摘下放在寶座前——他們並不是不配戴，是看見了那位更配得的。默想：你手中最捨不得放下的那頂冠冕，若擺在寶座前，會不會反而第一次找到它的意義？
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**天上的控制室**：麥克阿瑟把第4章稱作整卷審判敘事的前提：在任何一個印被揭開之前，約翰先被帶到寶座前——地上將要發生的一切，都是從這個從未動搖的指揮中心發出的，沒有一項是失控的災變。
+
+**二十四位長老代表蒙贖的教會**：按他的解讀，白衣、金冠冕、座位這三樣都是應許給教會的（3:5, 21；2:10），故二十四位長老最自然的身分是蒙贖群體的代表——他們把冠冕放回寶座前，正是教會將來要做的第一件事。
+
+**敬拜聚焦於創造主權**：他提醒，4:11 的頌讚只講創造、未及救贖——那要留到第5章。敬拜的次序是先承認「萬物是因你的旨意被創造而有的」，這是一切後續審判合法性的根基：審判者本是萬有的主。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：天上的寶座 (Ask Elder Wong)
 
@@ -3098,13 +3757,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 5:1-14
 
-**經文核對**：[ai-eden.com/bible/revelation/5](https://www.ai-eden.com/bible/revelation/5?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/5](https://www.ai-eden.com/bible/revelation/5?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 第4章讓我們看見寶座，第5章讓我們看見寶座旁邊那道無人能解的難題：一卷用七印封嚴的書卷，天上地下沒有一位配展開、配觀看。約翰因此「大哭」——這哭聲道出了整個受造界面對神救贖計劃時的絕望：若沒有人配打開這書卷，神永恆的計劃將如何成就？然而，就在這絕望的頂點，長老宣告：「猶大支派中的獅子……他已得勝」。可是當約翰轉頭要看那頭得勝的獅子時，他看見的卻是「羔羊站立，像是被殺過的」——這是啟示錄最震撼的一次「聽見與看見」的反轉：他聽見的是獅子，看見的卻是羔羊。得勝的方式，不是憑武力征服，而是憑捨命流血。這正是整卷啟示錄基督論的核心：那配展開歷史書卷的君王，是一隻被殺過的羔羊。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **All Hail the Power of Jesus' Name**
+> *Edward Perronet, 1780; alt. John Rippon, 1787*
+>
+> All hail the power of Jesus' name!
+> Let angels prostrate fall;
+> Bring forth the royal diadem,
+> And crown Him Lord of all.
+>
+> 全能耶穌至聖之名！
+> 眾天使俯伏敬拜；
+> 快取那君王的冠冕，
+> 尊祂為萬有之主。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -3116,13 +3793,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{11}我又看見且聽見，寶座與活物並長老的周圍有許多天使的聲音；他們的數目有千千萬萬，\textsuperscript{12}大聲說：「曾被殺的羔羊是配得權柄、豐富、智慧、能力、尊貴、榮耀、頌讚的。」\textsuperscript{13}我又聽見在天上、地上、地底下、滄海裡，和天地間一切所有被造之物，都說：「但願頌讚、尊貴、榮耀、權勢都歸給坐寶座的和羔羊，直到永永遠遠！」\textsuperscript{14}四活物就說：「阿們！」眾長老也俯伏敬拜。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then I saw in the right hand of him who was seated on the throne a scroll written within and on the back, sealed with seven seals. \textsuperscript{2}And I saw a mighty angel proclaiming with a loud voice, "Who is worthy to open the scroll and break its seals?" \textsuperscript{3}And no one in heaven or on earth or under the earth was able to open the scroll or to look into it, \textsuperscript{4}and I began to weep loudly because no one was found worthy to open the scroll or to look into it. \textsuperscript{5}And one of the elders said to me, "Weep no more; behold, the Lion of the tribe of Judah, the Root of David, has conquered, so that he can open the scroll and its seven seals."
+> \textsuperscript{1}I saw in the right hand of Him who sat on the throne a book written inside and on the back, sealed up with seven seals. \textsuperscript{2}And I saw a strong angel proclaiming with a loud voice, 'Who is worthy to open the book and to break its seals?' \textsuperscript{3}And no one in heaven or on the earth or under the earth was able to open the book or to look into it. \textsuperscript{4}Then I *began* to weep greatly because no one was found worthy to open the book or to look into it; \textsuperscript{5}and one of the elders said to me, 'Stop weeping; behold, the Lion that is from the tribe of Judah, the Root of David, has overcome so as to open the book and its seven seals.'
 
-> \textsuperscript{6}And between the throne and the four living creatures and among the elders I saw a Lamb standing, as though it had been slain, with seven horns and with seven eyes, which are the seven spirits of God sent out into all the earth. \textsuperscript{7}And he went and took the scroll from the right hand of him who was seated on the throne. \textsuperscript{8}And when he had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each holding a harp, and golden bowls full of incense, which are the prayers of the saints. \textsuperscript{9}And they sang a new song, saying, "Worthy are you to take the scroll and to open its seals, for you were slain, and by your blood you ransomed people for God from every tribe and language and people and nation," \textsuperscript{10}"and you have made them a kingdom and priests to our God, and they shall reign on the earth."
+> \textsuperscript{6}And I saw between the throne (with the four living creatures) and the elders a Lamb standing, as if slain, having seven horns and seven eyes, which are the seven Spirits of God, sent out into all the earth. \textsuperscript{7}And He came and took the book out of the right hand of Him who sat on the throne. \textsuperscript{8}When He had taken the book, the four living creatures and the twenty-four elders fell down before the Lamb, each one holding a harp and golden bowls full of incense, which are the prayers of the saints. \textsuperscript{9}And they sang a new song, saying, 'Worthy are You to take the book and to break its seals; for You were slain, and purchased for God with Your blood *men* from every tribe and tongue and people and nation. \textsuperscript{10}'You have made them *to be* a kingdom and priests to our God; and they will reign upon the earth.'
 
-> \textsuperscript{11}Then I looked, and I heard around the throne and the living creatures and the elders the voice of many angels, numbering myriads of myriads and thousands of thousands, \textsuperscript{12}saying with a loud voice, "Worthy is the Lamb who was slain, to receive power and wealth and wisdom and might and honor and glory and blessing!" \textsuperscript{13}And I heard every creature in heaven and on earth and under the earth and in the sea, and all that is in them, saying, "To him who sits on the throne and to the Lamb be blessing and honor and glory and might forever and ever!" \textsuperscript{14}And the four living creatures said, "Amen!" and the elders fell down and worshiped.
+> \textsuperscript{11}Then I looked, and I heard the voice of many angels around the throne and the living creatures and the elders; and the number of them was myriads of myriads, and thousands of thousands, \textsuperscript{12}saying with a loud voice, 'Worthy is the Lamb that was slain to receive power and riches and wisdom and might and honor and glory and blessing.' \textsuperscript{13}And every created thing which is in heaven and on the earth and under the earth and on the sea, and all things in them, I heard saying, 'To Him who sits on the throne, and to the Lamb, *be* blessing and honor and glory and dominion forever and ever.' \textsuperscript{14}And the four living creatures kept saying, 'Amen.' And the elders fell down and worshiped.
 
 ---
 
@@ -3141,13 +3818,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *biblion* | biblion | 書卷 | 用七印封嚴，象徵神救贖計劃與審判的完整內容 |
-| *axios* | axios | 配得 | 全章反覆出現的關鍵詞，貫串2, 4, 9, 12節 |
-| *arnion* | arnion | 羔羊（小羊） | 啟示錄特有的暱稱式用詞，全書出現28次，幾乎專指基督 |
-| *esphagmenon* | esphagmenon | 曾被殺的 | 完成式分詞，表明「殺」的傷痕永久可見，即使如今站立、得勝 |
-| *ōdē kainē* | ōdē kainē | 新歌 | 呼應詩篇多處「向耶和華唱新歌」，因新的救贖大功而唱 |
-| *agorazō* | agorazō | 買、贖買 | 5:9「用自己的血……買了人來」，市場交易用語，指付出代價贖回 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| βιβλίον | biblion | 書卷 | 用七印封嚴，象徵神救贖計劃與審判的完整內容 |
+| ἄξιος | axios | 配得 | 全章反覆出現的關鍵詞，貫串2, 4, 9, 12節 |
+| ἀρνίον | arnion | 羔羊（小羊） | 啟示錄特有的暱稱式用詞，全書出現28次，幾乎專指基督 |
+| ἐσφαγμένον | esphagmenon | 曾被殺的 | 完成式分詞，表明「殺」的傷痕永久可見，即使如今站立、得勝 |
+| ᾠδὴ καινή | ōdē kainē | 新歌 | 呼應詩篇多處「向耶和華唱新歌」，因新的救贖大功而唱 |
+| ἀγοράζω | agorazō | 買、贖買 | 5:9「用自己的血……買了人來」，市場交易用語，指付出代價贖回 |
 
 ### 「像是被殺過的」羔羊（*arnion hōs esphagmenon*）
 
@@ -3155,7 +3832,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 從絕望的哭泣到得勝的宣告 (From Despair to Declared Victory)
 
@@ -3179,13 +3856,30 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 40:6-8
+
+> \textsuperscript{6}祭物和禮物，你不喜悅；你已經開通我的耳朵。燔祭和贖罪祭非你所要。
+> \textsuperscript{7}那時我說：看哪，我來了！我的事在經卷上已經記載了。
+> \textsuperscript{8}我的神啊，我樂意照你的旨意行；你的律法在我心裡。
+
+「我的事在經卷上已經記載了」——書卷在天上，卻只有一位配展開，因為那書卷上所寫的，正是祂自己所要成就的。第 5 章的問題「誰配」，詩篇 40 篇早已答過：那位說「看哪，我來了」的。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林特別強調書卷「七印」的封閉性，象徵神救贖計劃在舊約時代雖已預言、卻尚未完全揭開的奧秘；唯有那位配得的羔羊親自拆封，歷史的意義與方向才得以真正顯明——這呼應了他對整卷啟示錄的理解：全書的核心正是「揭開」（*apokalypsis*）神早已定意、卻等候合宜時候才顯明的計劃。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 5
 
 ### 改革宗時期
@@ -3193,6 +3887,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在講論第5章時指出，約翰「聽見獅子、看見羔羊」的落差，正是要教導教會：世人所期待的得勝方式（權柄、武力、征服），與神藉基督成就得勝的方式（捨命、流血、受死），常常大相逕庭；唯有謙卑接受十字架的道路，才能真正認識這位配展開歷史書卷的主。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 5
 
 ### 當代釋經
@@ -3200,16 +3895,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，約翰聽見的是「獅子」，看見的卻是「羔羊」——這個聽與看之間的落差，正是整本啟示錄基督論最關鍵的鑰匙：基督的得勝，不是繞過十字架而來的，乃是透過十字架而來的。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
 畢爾認為，羔羊「像是被殺過的」這個形象，把受死的記號帶入了永恆的敬拜場景中——這提醒我們，基督升為至高、配受萬有敬拜的根基，正是祂在十字架上所付上的代價，而這代價的印記，直到永遠都不會被抹去。
+
 > — G.K. Beale, *The Book of Revelation* (NIGTC)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### There Is a Fountain Filled with Blood
+
+*William Cowper, 1772*
+
+> There is a fountain filled with blood
+> Drawn from Immanuel's veins;
+> And sinners plunged beneath that flood
+> Lose all their guilty stains.
+
+「你曾被殺，用自己的血從各族、各方、各民、各國中買了人來」(5:9)。默想：約翰聽見的是「猶大支派的獅子已得勝」，一回頭看見的卻是一隻「像是被殺過的羔羊」——得勝的方式，就是被殺；這是整本聖經最大的反轉。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**書卷是地的地契**：麥克阿瑟把 5:1 封了七印的書卷理解為「地的所有權契據」——人類在伊甸把管治權拱手讓給了篡位者，這卷書問的正是：誰有權把它收回？全天庭無人配，直到羔羊出現。
+
+**聽見獅子，看見羔羊**：他強調 5:5-6 的張力是刻意的：長老宣告的是「猶大支派的獅子已得勝」，約翰轉身看見的卻是「像是被殺過的羔羊」——得勝的方式就是被殺；獅子的權柄，是用羔羊的血買來的。
+
+**「新歌」的救贖範圍**：5:9「從各族、各方、各民、各國中買了人來」——他指出這節推翻一切狹隘的救恩觀：寶座前的敬拜群體從起初就是萬族的，宣教不是教會的附加項目，是羔羊配得敬拜的理由之一。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：配得展開書卷的羔羊 (Ask Elder Wong)
 
@@ -3339,13 +4062,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 6:1-17
 
-**經文核對**：[ai-eden.com/bible/revelation/6](https://www.ai-eden.com/bible/revelation/6?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/6](https://www.ai-eden.com/bible/revelation/6?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 第五章的敬拜還在耳畔迴盪——「你配拿書卷，配揭開七印」——第六章立刻讓我們看見這配得的羔羊親自動手。四匹馬依序奔出，不是脫離掌控的災難，而是羔羊一印一印親手揭開的歷史進程。這正是啟示錄最容易被誤解、卻最需要被領受的一點：審判不是脫離基督掌權的失控局面，審判本身就是基督掌權的具體彰顯。第五印下殉道者的呼喊、第六印下天地的震動，都在同一位揭卷者手中依序展開。羔羊不是被歷史推著走的旁觀者，祂是歷史的執筆者。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **God Moves in a Mysterious Way**
+> *William Cowper, 1774*
+>
+> God moves in a mysterious way
+> His wonders to perform;
+> He plants His footsteps in the sea,
+> And rides upon the storm.
+>
+> 神以奧祕莫測的方式
+> 成就祂的奇妙作為；
+> 祂在海中留下腳蹤，
+> 乘駕風暴而行。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -3363,19 +4104,19 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{12}揭開第六印的時候，我又看見地大震動，日頭變黑像毛布，滿月變紅像血，\textsuperscript{13}天上的星辰墜落於地，如同無花果樹被大風搖動，落下未熟的果子一樣。\textsuperscript{14}天就挪移，好像書卷被捲起來；山嶺海島都被挪移離開本位。\textsuperscript{15}地上的君王、臣宰、將軍、富戶、壯士，和一切為奴的、自主的，都藏在山洞和巖石穴裡，\textsuperscript{16}向山和巖石說：「倒在我們身上罷！把我們藏起來，躲避坐寶座者的面目和羔羊的忿怒；\textsuperscript{17}因為他們忿怒的大日到了，誰能站得住呢？」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Now I watched when the Lamb opened one of the seven seals, and I heard one of the four living creatures say with a voice like thunder, "Come!" \textsuperscript{2}And I looked, and behold, a white horse! And its rider had a bow, and a crown was given to him, and he came out conquering, and to conquer.
+> \textsuperscript{1}Then I saw when the Lamb broke one of the seven seals, and I heard one of the four living creatures saying as with a voice of thunder, 'Come.' \textsuperscript{2}I looked, and behold, a white horse, and he who sat on it had a bow; and a crown was given to him, and he went out conquering and to conquer.
 
-> \textsuperscript{3}When he opened the second seal, I heard the second living creature say, "Come!" \textsuperscript{4}And out came another horse, bright red. Its rider was permitted to take peace from the earth, so that people should slay one another, and he was given a great sword.
+> \textsuperscript{3}When He broke the second seal, I heard the second living creature saying, 'Come.' \textsuperscript{4}And another, a red horse, went out; and to him who sat on it, it was granted to take peace from the earth, and that *men* would slay one another; and a great sword was given to him.
 
-> \textsuperscript{5}When he opened the third seal, I heard the third living creature say, "Come!" And I looked, and behold, a black horse! And its rider had a pair of scales in his hand. \textsuperscript{6}And I heard what seemed to be a voice in the midst of the four living creatures, saying, "A quart of wheat for a denarius, and three quarts of barley for a denarius, and do not harm the oil and wine!"
+> \textsuperscript{5}When He broke the third seal, I heard the third living creature saying, 'Come.' I looked, and behold, a black horse; and he who sat on it had a pair of scales in his hand. \textsuperscript{6}And I heard *something* like a voice in the center of the four living creatures saying, 'A quart of wheat for a denarius, and three quarts of barley for a denarius; and do not damage the oil and the wine.'
 
-> \textsuperscript{7}When he opened the fourth seal, I heard the voice of the fourth living creature say, "Come!" \textsuperscript{8}And I looked, and behold, a pale horse! And its rider's name was Death, and Hades followed him. And they were given authority over a fourth of the earth, to kill with sword and with famine and with pestilence and by wild beasts of the earth.
+> \textsuperscript{7}When the Lamb broke the fourth seal, I heard the voice of the fourth living creature saying, 'Come.' \textsuperscript{8}I looked, and behold, an ashen horse; and he who sat on it had the name Death; and Hades was following with him. Authority was given to them over a fourth of the earth, to kill with sword and with famine and with pestilence and by the wild beasts of the earth.
 
-> \textsuperscript{9}When he opened the fifth seal, I saw under the altar the souls of those who had been slain for the word of God and for the witness they had borne. \textsuperscript{10}They cried out with a loud voice, "O Sovereign Lord, holy and true, how long before you will judge and avenge our blood on those who dwell on the earth?" \textsuperscript{11}Then they were each given a white robe and told to rest a little longer, until the number of their fellow servants and their brothers should be complete, who were to be killed as they themselves had been.
+> \textsuperscript{9}When the Lamb broke the fifth seal, I saw underneath the altar the souls of those who had been slain because of the word of God, and because of the testimony which they had maintained; \textsuperscript{10}and they cried out with a loud voice, saying, 'How long, O Lord, holy and true, will You refrain from judging and avenging our blood on those who dwell on the earth?' \textsuperscript{11}And there was given to each of them a white robe; and they were told that they should rest for a little while longer, until *the number of* their fellow servants and their brethren who were to be killed even as they had been, would be completed also.
 
-> \textsuperscript{12}When he opened the sixth seal, I looked, and behold, there was a great earthquake, and the sun became black as sackcloth, the full moon became like blood, \textsuperscript{13}and the stars of the sky fell to the earth as the fig tree sheds its winter fruit when shaken by a gale. \textsuperscript{14}The sky vanished like a scroll that is being rolled up, and every mountain and island was removed from its place. \textsuperscript{15}Then the kings of the earth and the great ones and the generals and the rich and the powerful, and everyone, slave and free, hid themselves in the caves and among the rocks of the mountains, \textsuperscript{16}calling to the mountains and rocks, "Fall on us and hide us from the face of him who is seated on the throne, and from the wrath of the Lamb, \textsuperscript{17}for the great day of their wrath has come, and who can stand?"
+> \textsuperscript{12}I looked when He broke the sixth seal, and there was a great earthquake; and the sun became black as sackcloth *made* of hair, and the whole moon became like blood; \textsuperscript{13}and the stars of the sky fell to the earth, as a fig tree casts its unripe figs when shaken by a great wind. \textsuperscript{14}The sky was split apart like a scroll when it is rolled up, and every mountain and island were moved out of their places. \textsuperscript{15}Then the kings of the earth and the great men and the commanders and the rich and the strong and every slave and free man hid themselves in the caves and among the rocks of the mountains; \textsuperscript{16}and they said to the mountains and to the rocks, 'Fall on us and hide us from the presence of Him who sits on the throne, and from the wrath of the Lamb; \textsuperscript{17}for the great day of their wrath has come, and who is able to stand?'
 
 ---
 
@@ -3394,14 +4135,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *sphragis* | sphragis | 印、封印 | 全章關鍵詞，古代文件以蠟封緘，唯有合法持有人能開啟 |
-| *nikōn* | nikōn | 得勝的、正在得勝的 | 現在分詞，「勝了又要勝」，持續進行的得勝行動 |
-| *eirēnē* | eirēnē | 和平 | 紅馬「奪去和平」，與羔羊所賜的平安（約14:27）形成尖銳對比 |
-| *choinix* | choinix | 一升（容量單位） | 約一人一日的口糧，暗示嚴重的糧食短缺與物價飛漲 |
-| *chloros* | chloros | 灰綠色、蒼白色 | 描述第四匹馬，屍體或病態的顏色，與死亡直接呼應 |
-| *psychē* | psychē | 靈魂、生命 | 祭壇底下「被殺之人的靈魂」，指向舊約獻祭時血倒在壇底的意象（利4:7） |
-| *despotēs* | despotēs | 主宰、主人 | 殉道者稱神為「主宰」，強調絕對的權柄，而非僅是慈愛的父 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| σφραγίς | sphragis | 印、封印 | 全章關鍵詞，古代文件以蠟封緘，唯有合法持有人能開啟 |
+| νικῶν | nikōn | 得勝的、正在得勝的 | 現在分詞，「勝了又要勝」，持續進行的得勝行動 |
+| εἰρήνη | eirēnē | 和平 | 紅馬「奪去和平」，與羔羊所賜的平安（約14:27）形成尖銳對比 |
+| χοῖνιξ | choinix | 一升（容量單位） | 約一人一日的口糧，暗示嚴重的糧食短缺與物價飛漲 |
+| χλωρός | chloros | 灰綠色、蒼白色 | 描述第四匹馬，屍體或病態的顏色，與死亡直接呼應 |
+| ψυχή | psychē | 靈魂、生命 | 祭壇底下「被殺之人的靈魂」，指向舊約獻祭時血倒在壇底的意象（利4:7） |
+| δεσπότης | despotēs | 主宰、主人 | 殉道者稱神為「主宰」，強調絕對的權柄，而非僅是慈愛的父 |
 
 ### 「你來」(erchou) 的呼喚
 
@@ -3409,7 +4150,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 審判出於揭卷者的手，不是脫離掌控 (Judgment Flows from the Hand That Opens, Not Out of Control)
 
@@ -3433,13 +4174,30 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 76:7-9
+
+> \textsuperscript{7}惟獨你是可畏的！你怒氣一發，誰能在你面前站得住呢？
+> \textsuperscript{8}你從天上使人聽判斷。
+> \textsuperscript{9}神起來施行審判，要救地上一切謙卑的人；那時地就懼怕而靜默。（細拉）
+
+「你發怒的時候，誰能在你面前站得住呢？」——六印之下地上的人躲在巖穴裡問的正是這句話（6:17）。同一個問題，詩人早已問過；分別在於，詩人是在敬拜中問的。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林是現存最早的啟示錄逐節注釋作者，他將四騎士理解為福音傳揚初期教會所經歷的爭戰、饑荒與死亡等真實苦難的預表，指出白馬騎士所代表的得勝，正是福音本身在列國中不斷得勝的形像，而非單一的軍事征服者。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, ch. 6 (ANF07)
 
 ### 改革宗時期
@@ -3447,6 +4205,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在他的聖經註釋中強調，四印的次序本身就是一篇道德教訓：爭戰之後必有饑荒，饑荒之後必有瘟疫死亡——神容許這條因果鏈按自然的軌跡展開，為要讓世人看見悖逆神所結出的，不過是一連串彼此加增的苦果，而非隨機的厄運。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 6
 
 ### 當代釋經
@@ -3454,16 +4213,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在《啟示錄1-11章注釋》中強調，這些審判不是隨機的宇宙災難，而是主耶穌基督——那配得揭開書卷的一位——親自執行的審判；歷史並未失控，而是正按著羔羊手中所定的次序展開。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯在《啟示錄》註釋（NICNT）中指出，四騎士的異象並非預言某個遙遠未來才會發生的單一事件，而是描繪貫穿整個教會時代、不斷重演的歷史模式——征服的野心、暴力的爭戰、資源的匱乏、無可避免的死亡——直到主再來的那日達到高潮。
+
 > — Robert H. Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Day of Judgment, Day of Wonders
+
+*John Newton, 1774*
+
+> Day of judgment, day of wonders!
+> Hark! the trumpet's awful sound,
+> Louder than a thousand thunders,
+> Shakes the vast creation round.
+
+牛頓曾是販奴船長，後來寫下《奇異恩典》，也寫下這首審判之詩——寫審判寫得最有份量的，往往是最深知自己蒙赦免的人。默想：六印之下沒有人問「這是誰作的」，人人都知道；他們問的是「誰能站得住」。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**白馬騎士不是基督**：麥克阿瑟明確區分 6:2 與 19:11 的兩位白馬騎士：第一印的騎士持弓無箭、受冠而出，是敵基督式的假和平——以不流血的征服開場，隨後的紅馬立刻揭穿這和平的底細。
+
+**揭印的是羔羊**：他不斷把讀者拉回一個語法事實：每一個災禍的動詞主詞都是羔羊「揭開」——災難不是脫離神手的黑暗力量，而是救贖主親自啟動的審判程序；能安慰教會的正是這一點。
+
+**第六印下人人都成了神學家**：6:16-17 山崩地裂之際，藏躲的人準確說出「羔羊忿怒的大日到了，誰能站得住呢」——他指出：到那日沒有無神論者，只有太遲的承認者；問題從來不是知不知道，而是肯不肯悔改。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：六印的災禍 (Ask Elder Wong)
 
@@ -3583,13 +4370,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 7:1-17
 
-**經文核對**：[ai-eden.com/bible/revelation/7](https://www.ai-eden.com/bible/revelation/7?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/7](https://www.ai-eden.com/bible/revelation/7?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 第六印下，世人驚恐地問「誰能站得住呢」，第七章立刻給出答案：站得住的，是那些被神親自印記、被羔羊的血洗淨的人。這一章是六印與七印之間的插曲，卻是全書情感最溫柔的高峰之一——從精確計數的十四萬四千，到「沒有人能數過來」的大群眾，鏡頭從嚴謹的次序轉向壯闊的敬拜。無論是精確的數字還是無法計數的群眾，焦點始終落在同一位：「坐寶座的羔羊」，祂親自牧養、親自擦去他們一切的眼淚。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Ten Thousand Times Ten Thousand**
+> *Henry Alford, 1867*
+>
+> Ten thousand times ten thousand,
+> In sparkling raiment bright,
+> The armies of the ransomed saints
+> Throng up the steeps of light.
+>
+> 千千萬萬，萬萬千千，
+> 身穿光明閃耀的衣袍，
+> 被贖聖徒的大軍
+> 擁上那光明的高處。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -3603,15 +4408,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{13}長老中有一位問我說：「這些穿白衣的是誰？是從那裡來的？」\textsuperscript{14}我對他說：「我主，你知道。」他向我說：「這些人是從大患難中出來的，曾用羔羊的血把衣裳洗白淨了。\textsuperscript{15}所以，他們在神寶座前，晝夜在他殿中事奉他。坐寶座的要用帳幕覆庇他們。\textsuperscript{16}他們不再飢，不再渴；日頭和炎熱也必不傷害他們。\textsuperscript{17}因為寶座中的羔羊必牧養他們，領他們到生命水的泉源；神也必擦去他們一切的眼淚。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, that no wind might blow on earth or sea or against any tree. \textsuperscript{2}Then I saw another angel ascending from the rising of the sun, with the seal of the living God, and he called with a loud voice to the four angels who had been given power to harm earth and sea, \textsuperscript{3}saying, "Do not harm the earth or the sea or the trees, until we have sealed the servants of our God on their foreheads."
+> \textsuperscript{1}After this I saw four angels standing at the four corners of the earth, holding back the four winds of the earth, so that no wind would blow on the earth or on the sea or on any tree. \textsuperscript{2}And I saw another angel ascending from the rising of the sun, having the seal of the living God; and he cried out with a loud voice to the four angels to whom it was granted to harm the earth and the sea, \textsuperscript{3}saying, 'Do not harm the earth or the sea or the trees until we have sealed the bond-servants of our God on their foreheads.'
 
-> \textsuperscript{4}And I heard the number of the sealed, 144,000, sealed from every tribe of the sons of Israel: \textsuperscript{5}12,000 from the tribe of Judah were sealed, 12,000 from the tribe of Reuben, 12,000 from the tribe of Gad, \textsuperscript{6}12,000 from the tribe of Asher, 12,000 from the tribe of Naphtali, 12,000 from the tribe of Manasseh, \textsuperscript{7}12,000 from the tribe of Simeon, 12,000 from the tribe of Levi, 12,000 from the tribe of Issachar, \textsuperscript{8}12,000 from the tribe of Zebulun, 12,000 from the tribe of Joseph, 12,000 from the tribe of Benjamin were sealed.
+> \textsuperscript{4}And I heard the number of those who were sealed, one hundred and forty-four thousand sealed from every tribe of the sons of Israel: \textsuperscript{5}from the tribe of Judah, twelve thousand *were* sealed, from the tribe of Reuben twelve thousand, from the tribe of Gad twelve thousand, \textsuperscript{6}from the tribe of Asher twelve thousand, from the tribe of Naphtali twelve thousand, from the tribe of Manasseh twelve thousand, \textsuperscript{7}from the tribe of Simeon twelve thousand, from the tribe of Levi twelve thousand, from the tribe of Issachar twelve thousand, \textsuperscript{8}from the tribe of Zebulun twelve thousand, from the tribe of Joseph twelve thousand, from the tribe of Benjamin, twelve thousand *were* sealed.
 
-> \textsuperscript{9}After this I looked, and behold, a great multitude that no one could number, from every nation, from all tribes and peoples and languages, standing before the throne and before the Lamb, clothed in white robes, with palm branches in their hands, \textsuperscript{10}and crying out with a loud voice, "Salvation belongs to our God who sits on the throne, and to the Lamb!" \textsuperscript{11}And all the angels were standing around the throne and around the elders and the four living creatures, and they fell on their faces before the throne and worshiped God, \textsuperscript{12}saying, "Amen! Blessing and glory and wisdom and thanksgiving and honor and power and might be to our God forever and ever! Amen."
+> \textsuperscript{9}After these things I looked, and behold, a great multitude which no one could count, from every nation and *all* tribes and peoples and tongues, standing before the throne and before the Lamb, clothed in white robes, and palm branches *were* in their hands; \textsuperscript{10}and they cry out with a loud voice, saying, 'Salvation to our God who sits on the throne, and to the Lamb.' \textsuperscript{11}And all the angels were standing around the throne and *around* the elders and the four living creatures; and they fell on their faces before the throne and worshiped God, \textsuperscript{12}saying, 'Amen, blessing and glory and wisdom and thanksgiving and honor and power and might, *be* to our God forever and ever. Amen.'
 
-> \textsuperscript{13}Then one of the elders addressed me, saying, "Who are these, clothed in white robes, and from where have they come?" \textsuperscript{14}I said to him, "Sir, you know." And he said to me, "These are the ones coming out of the great tribulation. They have washed their robes and made them white in the blood of the Lamb. \textsuperscript{15}Therefore they are before the throne of God, and serve him day and night in his temple; and he who sits on the throne will shelter them with his presence. \textsuperscript{16}They shall hunger no more, neither thirst anymore; the sun shall not strike them, nor any scorching heat. \textsuperscript{17}For the Lamb in the midst of the throne will be their shepherd, and he will guide them to springs of living water, and God will wipe away every tear from their eyes."
+> \textsuperscript{13}Then one of the elders answered, saying to me, 'These who are clothed in the white robes, who are they, and where have they come from?' \textsuperscript{14}I said to him, 'My lord, you know.' And he said to me, 'These are the ones who come out of the great tribulation, and they have washed their robes and made them white in the blood of the Lamb. \textsuperscript{15}'For this reason, they are before the throne of God; and they serve Him day and night in His temple; and He who sits on the throne will spread His tabernacle over them. \textsuperscript{16}'They will hunger no longer, nor thirst anymore; nor will the sun beat down on them, nor any heat; \textsuperscript{17}for the Lamb in the center of the throne will be their shepherd, and will guide them to springs of the water of life; and God will wipe every tear from their eyes.'
 
 ---
 
@@ -3630,14 +4435,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *sphragizō* | sphragizō | 蓋印、加封 | 全章關鍵動詞，古代印記標示所有權與保護 |
-| *ochlos polys* | ochlos polys | 許多的群眾、大群眾 | 「沒有人能數過來」，強調數量之浩大無法計量 |
-| *thlipsis megalē* | thlipsis megalē | 大患難 | 帶定冠詞，指向一段特定而普世性的苦難時期 |
-| *stolē leukē* | stolē leukē | 白衣 | 象徵潔淨與得勝，貫穿啟示錄的重複意象 |
-| *phoinix* | phoinix | 棕樹枝 | 呼應住棚節（利23:40）與主進耶路撒冷（約12:13）的得勝慶典意象 |
-| *skēnoō* | skēnoō | 支搭帳幕、覆庇 | 與約1:14「道成肉身住在我們中間」同一詞根，此處指神親自的同在保護 |
-| *poimanei* | poimanei | 必牧養 | 呼應詩23篇與約10章好牧人的意象，此處牧養者竟是「寶座中的羔羊」 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| σφραγίζω | sphragizō | 蓋印、加封 | 全章關鍵動詞，古代印記標示所有權與保護 |
+| ὄχλος πολύς | ochlos polys | 許多的群眾、大群眾 | 「沒有人能數過來」，強調數量之浩大無法計量 |
+| θλῖψις μεγάλη | thlipsis megalē | 大患難 | 帶定冠詞，指向一段特定而普世性的苦難時期 |
+| στολὴ λευκή | stolē leukē | 白衣 | 象徵潔淨與得勝，貫穿啟示錄的重複意象 |
+| φοῖνιξ | phoinix | 棕樹枝 | 呼應住棚節（利23:40）與主進耶路撒冷（約12:13）的得勝慶典意象 |
+| σκηνόω | skēnoō | 支搭帳幕、覆庇 | 與約1:14「道成肉身住在我們中間」同一詞根，此處指神親自的同在保護 |
+| ποιμανεῖ | poimanei | 必牧養 | 呼應詩23篇與約10章好牧人的意象，此處牧養者竟是「寶座中的羔羊」 |
 
 ### 「寶座中的羔羊」(the Lamb in the midst of the throne) 的張力
 
@@ -3645,7 +4450,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 神百姓在審判中被保守，而非被豁免經歷世界 (God's People Preserved Through, Not Exempted From, the World)
 
@@ -3669,13 +4474,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 84:1-4
+
+> \textsuperscript{1}（可拉後裔的詩，交與伶長。用迦特樂器。）萬軍之耶和華啊，你的居所何等可愛！
+> \textsuperscript{2}我羨慕渴想耶和華的院宇；我的心腸，我的肉體向永生神呼籲（或譯：歡呼）。
+> \textsuperscript{3}萬軍之耶和華─我的王，我的神啊，在你祭壇那裡，麻雀為自己找著房屋，燕子為自己找著菢雛之窩。
+> \textsuperscript{4}如此住在你殿中的便為有福！他們仍要讚美你。（細拉）
+
+「住在你殿中的便為有福」——第 7 章那「沒有人能數過來」的大群人，最後的歸宿是「在神寶座前，晝夜在他殿中事奉他」(7:15)。詩人所渴慕的，他們已經進入了。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林認為，十四萬四千受印的以色列人與隨後那沒有人能數過來的大群眾，是同一群蒙救贖之人在教會歷史不同階段的呈現，強調印記所代表的，是神百姓在患難中不至於完全失喪的確據。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, ch. 7 (ANF07)
 
 ### 改革宗時期
@@ -3683,6 +4506,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在註釋第七章時特別強調16-17節「不再飢、不再渴」的應許，指出這段經文的安慰力量，正在於它精確對應信徒在世上實際經歷的匱乏與痛苦——神所應許的，不是抽象的幸福，而是針對每一種具體苦楚的終極醫治。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 7
 
 ### 當代釋經
@@ -3690,16 +4514,46 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這一大群人不能被計數，不是因為約翰懶得數算，而是因為救贖的浩大超越了人類語言與想像的極限——這是神百姓最終榮耀的預覽，是每一位真信徒都當存記在心的盼望。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在《啟示錄》註釋（BECNT）中指出，十四萬四千與大群眾並非兩個彼此競爭的群體，而是同一群蒙救贖者的兩種描繪方式：前者強調神百姓的完整與被保守，後者強調他們最終在敬拜中的榮耀。
+
 > — Grant R. Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Who Are These Like Stars Appearing
+
+*Theobald Heinrich Schenck, 1719; tr. Frances E. Cox, 1841*
+
+> Who are these like stars appearing,
+> These before God's throne who stand?
+> Each a golden crown is wearing;
+> Who are all this glorious band?
+> Alleluia, hark, they sing,
+> Praising loud their heavenly King.
+
+這首德文聖詩逐字取自 7:13「這些穿白衣的是誰？是從哪裡來的？」默想：長老問了問題，卻自己不答，反而回問約翰——直到主自己說出答案：「這些人是從大患難中出來的。」白衣不是躲過患難的獎章，是走過患難的印記。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**審判暫停，先蓋印**：麥克阿瑟強調 7:1-3 的次序：四風被勒住、災難被叫停，直到神的僕人受了印——在他的讀法裡這是全書的一貫格律：神的忿怒從不誤傷屬他的人，保守總是走在審判前面。
+
+**十四萬四千按字面理解**：他按經文明說的讀：以色列十二支派、每支派一萬二千（7:4-8）——在患難時期蒙印、被保守、作見證的猶太信徒；名單如此具體，不宜輕易化為純象徵。
+
+**大群人是患難中得救的收成**：7:9 那「沒有人能數過來」的大群人，長老親自解明是「從大患難中出來的」——他指出這是全書最大的宣教應許：在最黑暗的審判時期，福音的收割反而最大。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：十四萬四千人受印與大群人 (Ask Elder Wong)
 
@@ -3739,6 +4593,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **詩篇**：詩篇 34:4-6
 
 > 我曾尋求耶和華，他就應允我，救我脫離了一切的恐懼。
+> 凡仰望他的，便有光榮；他們的臉必不蒙羞。
 > 我這困苦人呼求，耶和華便垂聽，救我脫離一切患難。
 
 大衛從個人的困苦呼求，到啟示錄整個蒙救贖群體的呼喊，是同一位垂聽禱告、施行拯救的神。
@@ -3819,13 +4674,35 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 8:1-5
 
-**經文核對**：[ai-eden.com/bible/revelation/8](https://www.ai-eden.com/bible/revelation/8?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/8](https://www.ai-eden.com/bible/revelation/8?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七印的系列在最高潮處，卻給出全書最出人意料的一幕：不是雷轟閃電，而是「天上寂靜約有二刻」。這寂靜不是空白，而是懸念——是羔羊揭開最後一印之後，全天庭屏息等候接下來要展開的七號審判。緊接著寂靜之後，是眾聖徒的祈禱與香一同升到神面前的畫面：原來這靜默的核心，是神俯聽祂百姓禱告的那一刻。羔羊掌權，不只是展開審判的次序，也包括為祂百姓的呼求留出被聽見的空間。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Let All Mortal Flesh Keep Silence**
+> *Liturgy of St. James (4th c.); tr. Gerard Moultrie, 1864*
+>
+> Let all mortal flesh keep silence,
+> And with fear and trembling stand;
+> Ponder nothing earthly-minded,
+> For with blessing in His hand
+> Christ our God to earth descendeth,
+> Our full homage to demand.
+>
+> 凡有血氣的都當靜默，
+> 存敬畏戰兢站立；
+> 不再思念屬地的事，
+> 因為我們的主基督
+> 手中帶著祝福降臨，
+> 要收取我們全然的敬拜。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -3835,11 +4712,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{3}另有一位天使，拿著金香爐來，站在祭壇旁邊。有許多香賜給他，要和眾聖徒的祈禱一同獻在寶座前的金壇上。\textsuperscript{4}那香的煙和眾聖徒的祈禱從天使的手中一同升到神面前。\textsuperscript{5}天使拿著香爐，盛滿了壇上的火，倒在地上；隨有雷轟、大聲、閃電、地震。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}When the Lamb opened the seventh seal, there was silence in heaven for about half an hour. \textsuperscript{2}Then I saw the seven angels who stand before God, and seven trumpets were given to them.
+> \textsuperscript{1}When the Lamb broke the seventh seal, there was silence in heaven for about half an hour. \textsuperscript{2}And I saw the seven angels who stand before God, and seven trumpets were given to them.
 
-> \textsuperscript{3}And another angel came and stood at the altar with a golden censer, and he was given much incense to offer with the prayers of all the saints on the golden altar before the throne, \textsuperscript{4}and the smoke of the incense, with the prayers of the saints, rose before God from the hand of the angel. \textsuperscript{5}Then the angel took the censer and filled it with fire from the altar and threw it on the earth, and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
+> \textsuperscript{3}Another angel came and stood at the altar, holding a golden censer; and much incense was given to him, so that he might add it to the prayers of all the saints on the golden altar which was before the throne. \textsuperscript{4}And the smoke of the incense, with the prayers of the saints, went up before God out of the angel's hand. \textsuperscript{5}Then the angel took the censer and filled it with the fire of the altar, and threw it to the earth; and there followed peals of thunder and sounds and flashes of lightning and an earthquake.
 
 ---
 
@@ -3858,13 +4735,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *sigē* | sigē | 寂靜、靜默 | 全書僅此一次出現，強調此刻的獨特與不尋常 |
-| *hēmiōrion* | hēmiōrion | 半小時 | 新約聖經中唯一出現此詞之處，具體卻短暫的時間單位 |
-| *libanōtos chrysous* | libanōtos chrysous | 金香爐 | 呼應會幕中祭司獻香所用的器皿（出30:1-10） |
-| *thymiama* | thymiama | 香、香料 | 與「眾聖徒的祈禱」並列，象徵祈禱蒙悅納地升到神面前 |
-| *proseuchai tōn hagiōn* | proseuchai tōn hagiōn | 眾聖徒的祈禱 | 呼應5:8同樣的意象，將禱告與敬拜緊密相連 |
-| *seismos* | seismos | 地震 | 與雷轟、閃電並列，是神顯現與審判來臨的典型徵兆 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| σιγή | sigē | 寂靜、靜默 | 全書僅此一次出現，強調此刻的獨特與不尋常 |
+| ἡμιώριον | hēmiōrion | 半小時 | 新約聖經中唯一出現此詞之處，具體卻短暫的時間單位 |
+| λιβανωτὸς χρυσοῦς | libanōtos chrysous | 金香爐 | 呼應會幕中祭司獻香所用的器皿（出30:1-10） |
+| θυμίαμα | thymiama | 香、香料 | 與「眾聖徒的祈禱」並列，象徵祈禱蒙悅納地升到神面前 |
+| προσευχαὶ τῶν ἁγίων | proseuchai tōn hagiōn | 眾聖徒的祈禱 | 呼應5:8同樣的意象，將禱告與敬拜緊密相連 |
+| σεισμός | seismos | 地震 | 與雷轟、閃電並列，是神顯現與審判來臨的典型徵兆 |
 
 ### 「寂靜」的分量
 
@@ -3872,7 +4749,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 靜默不是缺席，而是敬畏的預備 (Silence Is Not Absence, but Reverent Preparation)
 
@@ -3892,13 +4769,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 62:1-2
+
+> \textsuperscript{1}（大衛的詩，照耶杜頓的作法，交與伶長。）我的心默默無聲，專等候神；我的救恩是從他而來。
+> \textsuperscript{2}惟獨他是我的磐石，我的拯救；他是我的高臺，我必不很動搖。
+
+「我的心默默無聲，專等候神」——天上約有二刻的寂靜，不是空白，是等候。默想的靜默與焦慮的沉默，外表一樣，裡面相反。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將天上的寂靜理解為末後審判來臨前的莊嚴停頓，指出這寂靜的功用正是要讓讀者專注、屏息，預備迎接接下來更劇烈的七號審判——寂靜本身就是一種宣告的方式。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, ch. 8 (ANF07)
 
 ### 改革宗時期
@@ -3906,6 +4799,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利特別注意到香與眾聖徒祈禱一同獻上的畫面，指出這幅圖畫向受苦的信徒保證：他們最微小、最私下的禱告，都被天使謹慎地收集、與馨香之祭一同呈獻在神寶座前，沒有一句被遺漏或輕看。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 8
 
 ### 當代釋經
@@ -3913,16 +4807,45 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟形容，這二刻的寂靜，是全宇宙在審判即將傾倒之前所能有的最莊嚴時刻——連天使都屏住了讚美的聲音，等候神接下來的作為。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
 畢爾在《啟示錄》註釋（NIGTC）中指出，香與祈禱一同上升、隨即火從壇上倒在地上的次序，清楚地表明聖徒為公義伸張所發的禱告，正是神接下來審判行動的直接觸媒——這不是巧合的並置，而是因果的連結。
+
 > — G. K. Beale, *The Book of Revelation* (NIGTC)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Dear Lord and Father of Mankind
+
+*John Greenleaf Whittier, 1872*
+
+> Drop Thy still dews of quietness,
+> Till all our strivings cease;
+> Take from our souls the strain and stress,
+> And let our ordered lives confess
+> The beauty of Thy peace.
+
+第七印揭開，天上竟然安靜——不是甚麼都沒發生，是眾天軍都停下來了。默想：在這個把安靜當作浪費的世代，天上用二刻的寂靜宣告：神將要行事的時候，受造之物該做的第一件事是住口。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**寂靜是敬畏，不是空白**：麥克阿瑟把 8:1 天上約二刻的寂靜讀作全天庭在神最後審判啟動前的屏息——連不住頌讚的四活物也停了聲；審判之重，重到天上先安靜下來。
+
+**聖徒的禱告與金香爐**：他特別停在 8:3-5：眾聖徒的祈禱與香一同升到神面前，隨後香爐盛了壇上的火倒在地上——歷世歷代「願你的國降臨」與殉道者「要到幾時」的禱告，此刻成了審判的引信。禱告不是儀式，是天上檔案。
+
+**七號從禱告裡出來**：七位天使拿號站定，是在香爐倒下之後——他以此提醒教會：神施行公義的時間表，與他百姓的呼求緊密相連，無一句禱告落空。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：第七印天上寂靜二刻 (Ask Elder Wong)
 
@@ -3960,7 +4883,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 **詩篇**：詩篇 46:10
 
-> 你們要休息，要知道我是神！我必在列國中受尊崇，在全地也受尊崇。
+> 你們要休息，要知道我是神！我必在外邦中被尊崇，在遍地上也被尊崇。
 
 「休息」在原文有「住手、安靜下來」之意——這正是啟示錄8:1天上寂靜所要傳達的信息：在神即將施行祂的作為之前，受造之物當存敬畏，安靜下來。
 
@@ -4040,13 +4963,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 8:6-13
 
-**經文核對**：[ai-eden.com/bible/revelation/8](https://www.ai-eden.com/bible/revelation/8?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/8](https://www.ai-eden.com/bible/revelation/8?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 天上的寂靜結束了，七枝號依次吹響。前四號的審判擊打自然界——地、海、江河泉源、日月星辰，各遭三分之一的損害——這幅圖畫深深回響著出埃及記中神藉十災審判埃及、拯救以色列的敘事。羔羊揭開的書卷，如今透過號角的宣告，把審判的火從祭壇（8:5）延伸到全地。這不是失控的天災，而是那位配得書卷的羔羊，藉著受造界本身，向悖逆的世界發出警告——目的不是毀滅到底，而是留下悔改的空間，正如埃及的十災每一次都在給法老悔改的機會。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The God of Abraham Praise**
+> *Thomas Olivers, 1770 (after the Hebrew Yigdal)*
+>
+> The God of Abraham praise,
+> Who reigns enthroned above,
+> Ancient of everlasting days,
+> And God of love.
+>
+> 讚美亞伯拉罕的神，
+> 祂在至高處登寶座，
+> 亙古永存的日子之主，
+> 慈愛的神。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -4064,19 +5005,19 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{13}我又看見一個鷹飛在空中，並聽見他大聲說：「三位天使要吹那其餘的號。你們住在地上的民，禍哉！禍哉！禍哉！」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{6}Now the seven angels who had the seven trumpets prepared to blow them.
+> \textsuperscript{6}And the seven angels who had the seven trumpets prepared themselves to sound them.
 
-> \textsuperscript{7}The first angel blew his trumpet, and there followed hail and fire, mixed with blood, and these were thrown upon the earth. And a third of the earth was burned up, and a third of the trees were burned up, and all green grass was burned up.
+> \textsuperscript{7}The first sounded, and there came hail and fire, mixed with blood, and they were thrown to the earth; and a third of the earth was burned up, and a third of the trees were burned up, and all the green grass was burned up.
 
-> \textsuperscript{8}The second angel blew his trumpet, and something like a great mountain, burning with fire, was thrown into the sea, and a third of the sea became blood. \textsuperscript{9}A third of the living creatures in the sea died, and a third of the ships were destroyed.
+> \textsuperscript{8}The second angel sounded, and *something* like a great mountain burning with fire was thrown into the sea; and a third of the sea became blood, \textsuperscript{9}and a third of the creatures which were in the sea and had life, died; and a third of the ships were destroyed.
 
-> \textsuperscript{10}The third angel blew his trumpet, and a great star fell from heaven, blazing like a torch, and it fell on a third of the rivers and on the springs of water. \textsuperscript{11}The name of the star is Wormwood. A third of the waters became wormwood, and many people died from the water, because it had been made bitter.
+> \textsuperscript{10}The third angel sounded, and a great star fell from heaven, burning like a torch, and it fell on a third of the rivers and on the springs of waters. \textsuperscript{11}The name of the star is called Wormwood; and a third of the waters became wormwood, and many men died from the waters, because they were made bitter.
 
-> \textsuperscript{12}The fourth angel blew his trumpet, and a third of the sun was struck, and a third of the moon, and a third of the stars, so that a third of their light might be darkened, and a third of the day might be kept from shining, and likewise a third of the night.
+> \textsuperscript{12}The fourth angel sounded, and a third of the sun and a third of the moon and a third of the stars were struck, so that a third of them would be darkened and the day would not shine for a third of it, and the night in the same way.
 
-> \textsuperscript{13}Then I looked, and I heard an eagle crying with a loud voice, as it flew directly overhead, "Woe, woe, woe to those who dwell on the earth, at the blasts of the other trumpets that the three angels are about to blow!"
+> \textsuperscript{13}Then I looked, and I heard an eagle flying in midheaven, saying with a loud voice, 'Woe, woe, woe to those who dwell on the earth, because of the remaining blasts of the trumpet of the three angels who are about to sound!'
 
 ---
 
@@ -4095,13 +5036,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *chalaza* | chalaza | 冰雹 | 呼應出埃及記第七災 |
-| *haima* | haima | 血 | 冰雹與火「攙著血」，強調審判帶有生命被奪去的分量 |
-| *apsinthos* | apsinthos | 茵陳、苦艾 | 舊約中常象徵神的審判與咒詛（申29:18, 耶9:15） |
-| *aetos* | aetos | 鷹 | 部分抄本作「天使」，但鷹的形像常與宣告神旨意（申32:11）或審判臨近（何8:1）相連 |
-| *ouai* | ouai | 禍哉 | 三次重複，強調警告的迫切與嚴重 |
-| *plēssō* | plēssō | 擊打 | 描述日月星辰「被擊打」，暗示背後有主動施行審判者 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| χάλαζα | chalaza | 冰雹 | 呼應出埃及記第七災 |
+| αἷμα | haima | 血 | 冰雹與火「攙著血」，強調審判帶有生命被奪去的分量 |
+| ἄψινθος | apsinthos | 茵陳、苦艾 | 舊約中常象徵神的審判與咒詛（申29:18, 耶9:15） |
+| ἀετός | aetos | 鷹 | 部分抄本作「天使」，但鷹的形像常與宣告神旨意（申32:11）或審判臨近（何8:1）相連 |
+| οὐαί | ouai | 禍哉 | 三次重複，強調警告的迫切與嚴重 |
+| πλήσσω | plēssō | 擊打 | 描述日月星辰「被擊打」，暗示背後有主動施行審判者 |
 
 ### 「三分之一」的克制性審判
 
@@ -4109,7 +5050,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 審判帶著出埃及的記號，指向拯救而非單純毀滅 (Judgment Bears the Marks of the Exodus, Pointing to Deliverance, Not Mere Destruction)
 
@@ -4129,13 +5070,32 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 97:1-5
+
+> \textsuperscript{1}耶和華作王！願地快樂！願眾海島歡喜！
+> \textsuperscript{2}密雲和幽暗在他的四圍；公義和公平是他寶座的根基。
+> \textsuperscript{3}有烈火在他前頭行，燒滅他四圍的敵人。
+> \textsuperscript{4}他的閃電光照世界，大地看見便震動。
+> \textsuperscript{5}諸山見耶和華的面，就是全地之主的面，便消化如蠟。
+
+「有烈火在他前頭行」「諸山見耶和華的面便消化如蠟」——前四號所擊打的，正是詩篇 97 篇裡在祂面前站立不住的天地。審判不是自然災害，是那位王的臨在。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將前四號的災禍與埃及十災並列比較，指出兩者共同的功用，都是要在審判臨到之前，先給世人清楚而反覆的警告，使人無可推諉地知道神的審判並非毫無預兆的突襲。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, ch. 8 (ANF07)
 
 ### 改革宗時期
@@ -4143,6 +5103,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在解釋七號審判時指出，「三分之一」反覆出現的克制性審判，正彰顯神在施行公義之時仍不忘祂的憐憫——祂本可以一次擊打全地，卻選擇分階段、留餘地地審判，為要給世人悔改回轉的機會。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 8
 
 ### 當代釋經
@@ -4150,16 +5111,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這些審判與埃及十災的相似之處絕非巧合——神再一次向全地施行審判，為要顯明祂的主權，也為要在審判中留下憐憫與呼召悔改的空間。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯指出，「三分之一」這個反覆出現的限定詞，提醒我們這些審判雖然嚴重，卻仍是部分性、有節制的——末日的完全審判尚未來到，這是警告，而非終結。
+
 > — Robert H. Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### God of Our Fathers, Whose Almighty Hand
+
+*Daniel C. Roberts, 1876*
+
+> God of our fathers, whose almighty hand
+> Leads forth in beauty all the starry band
+> Of shining worlds in splendor through the skies,
+> Our grateful songs before Thy throne arise.
+
+前四號擊打的是地、海、江河、日月星辰——正是創世記第一週神所造的四樣。默想：號筒吹響的不是毀滅的新事，是創造的收回；祂能造，也能收。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**按字面讀的生態審判**：麥克阿瑟反對把前四號寓意化：地、海、江河、天體各三分之一被擊打，是真實的、可經歷的生態浩劫——如同出埃及的災是真災；把它們讀淡，就把「不悔改」之人的責任也讀淡了。
+
+**三分之一是節制的記號**：他指出比例本身就是信息：號災及於三分之一，還不是全部——審判在加重，恩典的空間仍在；這是忿怒中留餘地的神。
+
+**呼應出埃及**：血、火、黑暗——前四號幾乎逐項重演擊打埃及的災。他提醒讀者：這位神從前用災擊打法老、為要領百姓出來；如今擊打世界，呼召仍是同一個：讓我的百姓出來。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：前四位天使吹號 (Ask Elder Wong)
 
@@ -4195,10 +5184,10 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 即使在審判擊打自然界的時刻，這受造的世界依然是天父的世界——祂掌管的，不只是拯救的歷史，也包括審判的次序。
 
-**詩篇**：詩篇 78:43-51
+**詩篇**：詩篇 78:43-44
 
-> 他怎樣在埃及顯神蹟，在瑣安田顯奇事，
-> 把江河並河汊的水都變為血，使他們不能喝。
+> 他怎樣在埃及地顯神蹟，在瑣安田顯奇事，
+> 把他們的江河並河的水都變為血，使他們不能喝。
 
 詩篇78篇回顧埃及十災的歷史，正是啟示錄七號審判最直接的舊約迴響——神昔日的審判與拯救，成為理解今日審判的鑰匙。
 
@@ -4278,13 +5267,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 9:1-21
 
-**經文核對**：[ai-eden.com/bible/revelation/9](https://www.ai-eden.com/bible/revelation/9?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/9](https://www.ai-eden.com/bible/revelation/9?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 空中飛鷹的三重「禍哉」在這一章開始應驗。前四號擊打自然界，第五、六號卻直接轉向人——先是無底坑放出的蝗蟲軍團，折磨沒有神印記的人五個月；接著是二億騎兵，殺死三分之一的人類。這一章的意象極其恐怖，卻在末了留下全書最沉痛的一句話：「其餘未曾被這些災所殺的人仍不悔改。」羔羊容許這樣劇烈的審判展開，不是因為祂殘忍，而正是因為祂深知：連地獄般的痛苦，都無法憑自身力量軟化一顆堅硬到底的人心——唯有恩典才能。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Depth of Mercy! Can There Be**
+> *Charles Wesley, 1740*
+>
+> Depth of mercy! can there be
+> Mercy still reserved for me?
+> Can my God His wrath forbear?
+> Me, the chief of sinners, spare?
+>
+> 何等深的憐憫！豈還有
+> 憐憫為我存留？
+> 我的神豈肯忍住怒氣，
+> 寬容我這罪魁？
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -4298,15 +5305,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{20}其餘未曾被這些災所殺的人仍舊不悔改自己手所做的，還是去拜鬼魔和那些不能看、不能聽、不能走，金、銀、銅、木、石的偶像，\textsuperscript{21}又不悔改他們那些兇殺、邪術、姦淫、偷竊的事。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}And the fifth angel blew his trumpet, and I saw a star fallen from heaven to earth, and he was given the key to the shaft of the bottomless pit. \textsuperscript{2}He opened the shaft of the bottomless pit, and from the shaft rose smoke like the smoke of a great furnace, and the sun and the air were darkened with the smoke from the shaft. \textsuperscript{3}Then from the smoke came locusts on the earth, and they were given power like the power of scorpions of the earth. \textsuperscript{4}They were told not to harm the grass of the earth or any green plant or any tree, but only those people who do not have the seal of God on their foreheads. \textsuperscript{5}They were allowed to torment them for five months, but not to kill them, and their torment was like the torment of a scorpion when it stings someone. \textsuperscript{6}And in those days people will seek death and will not find it. They will long to die, but death will flee from them.
+> \textsuperscript{1}Then the fifth angel sounded, and I saw a star from heaven which had fallen to the earth; and the key of the bottomless pit was given to him. \textsuperscript{2}He opened the bottomless pit, and smoke went up out of the pit, like the smoke of a great furnace; and the sun and the air were darkened by the smoke of the pit. \textsuperscript{3}Then out of the smoke came locusts upon the earth, and power was given them, as the scorpions of the earth have power. \textsuperscript{4}They were told not to hurt the grass of the earth, nor any green thing, nor any tree, but only the men who do not have the seal of God on their foreheads. \textsuperscript{5}And they were not permitted to kill anyone, but to torment for five months; and their torment was like the torment of a scorpion when it stings a man. \textsuperscript{6}And in those days men will seek death and will not find it; they will long to die, and death flees from them.
 
-> \textsuperscript{7}In appearance the locusts were like horses prepared for battle: on their heads were what looked like crowns of gold; their faces were like human faces, \textsuperscript{8}their hair like women's hair, and their teeth like lions' teeth; \textsuperscript{9}they had breastplates like breastplates of iron, and the noise of their wings was like the noise of many chariots with horses rushing into battle. \textsuperscript{10}They have tails and stings like scorpions, and their power to hurt people for five months is in their tails. \textsuperscript{11}They have as king over them the angel of the bottomless pit. His name in Hebrew is Abaddon, and in Greek he is called Apollyon. \textsuperscript{12}The first woe has passed; behold, two woes are still to come.
+> \textsuperscript{7}The appearance of the locusts was like horses prepared for battle; and on their heads appeared to be crowns like gold, and their faces were like the faces of men. \textsuperscript{8}They had hair like the hair of women, and their teeth were like *the teeth* of lions. \textsuperscript{9}They had breastplates like breastplates of iron; and the sound of their wings was like the sound of chariots, of many horses rushing to battle. \textsuperscript{10}They have tails like scorpions, and stings; and in their tails is their power to hurt men for five months. \textsuperscript{11}They have as king over them, the angel of the abyss; his name in Hebrew is Abaddon, and in the Greek he has the name Apollyon. \textsuperscript{12}The first woe is past; behold, two woes are still coming after these things.
 
-> \textsuperscript{13}Then the sixth angel blew his trumpet, and I heard a voice from the four horns of the golden altar before God, \textsuperscript{14}saying to the sixth angel who had the trumpet, "Release the four angels who are bound at the great river Euphrates." \textsuperscript{15}So the four angels, who had been prepared for the hour, the day, the month, and the year, were released to kill a third of mankind. \textsuperscript{16}The number of mounted troops was twice ten thousand times ten thousand; I heard their number. \textsuperscript{17}And this is how I saw the horses in my vision and those who rode them: they had breastplates the color of fire and of sapphire and of sulfur, and the heads of the horses were like lions' heads, and fire and smoke and sulfur came out of their mouths. \textsuperscript{18}By these three plagues a third of mankind was killed, by the fire and smoke and sulfur coming out of their mouths. \textsuperscript{19}For the power of the horses is in their mouths and in their tails, for their tails are like serpents with heads, and by means of them they wound.
+> \textsuperscript{13}Then the sixth angel sounded, and I heard a voice from the four horns of the golden altar which is before God, \textsuperscript{14}one saying to the sixth angel who had the trumpet, 'Release the four angels who are bound at the great river Euphrates.' \textsuperscript{15}And the four angels, who had been prepared for the hour and day and month and year, were released, so that they would kill a third of mankind. \textsuperscript{16}The number of the armies of the horsemen was two hundred million; I heard the number of them. \textsuperscript{17}And this is how I saw in the vision the horses and those who sat on them: *the riders* had breastplates *the color* of fire and of hyacinth and of brimstone; and the heads of the horses are like the heads of lions; and out of their mouths proceed fire and smoke and brimstone. \textsuperscript{18}A third of mankind was killed by these three plagues, by the fire and the smoke and the brimstone which proceeded out of their mouths. \textsuperscript{19}For the power of the horses is in their mouths and in their tails; for their tails are like serpents and have heads, and with them they do harm.
 
-> \textsuperscript{20}The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands nor give up worshiping demons and idols of gold and silver and bronze and stone and wood, which cannot see or hear or walk, \textsuperscript{21}nor did they repent of their murders or their sorceries or their sexual immorality or their thefts.
+> \textsuperscript{20}The rest of mankind, who were not killed by these plagues, did not repent of the works of their hands, so as not to worship demons, and the idols of gold and of silver and of brass and of stone and of wood, which can neither see nor hear nor walk; \textsuperscript{21}and they did not repent of their murders nor of their sorceries nor of their immorality nor of their thefts.
 
 ---
 
@@ -4325,14 +5332,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *abyssos* | abyssos | 無底坑、深淵 | 常指被囚禁的邪惡勢力之處（路8:31） |
-| *akris* | akris | 蝗蟲 | 呼應約珥書1-2章的蝗蟲之災意象 |
-| *Abaddōn* | Abaddōn | 亞巴頓（希伯來文，意為「毀滅」） | 舊約中常指陰間或毀滅之處（伯26:6, 詩88:11） |
-| *Apollyōn* | Apollyōn | 亞玻倫（希臘文，意為「毀滅者」） | 與希伯來文亞巴頓同義，強調這王的本質就是毀滅 |
-| *Euphratēs* | Euphratēs | 幼發拉底河 | 羅馬帝國東界，象徵來自東方的威脅與審判 |
-| *daimonion* | daimonion | 鬼魔 | 20節指人所拜的對象，揭示偶像崇拜背後的屬靈實質 |
-| *metanoeō* | metanoeō | 悔改 | 20、21節反覆出現卻以否定式呈現——「仍不悔改」 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ἄβυσσος | abyssos | 無底坑、深淵 | 常指被囚禁的邪惡勢力之處（路8:31） |
+| ἀκρίς | akris | 蝗蟲 | 呼應約珥書1-2章的蝗蟲之災意象 |
+| Ἀβαδδών | Abaddōn | 亞巴頓（希伯來文，意為「毀滅」） | 舊約中常指陰間或毀滅之處（伯26:6, 詩88:11） |
+| Ἀπολλύων | Apollyōn | 亞玻倫（希臘文，意為「毀滅者」） | 與希伯來文亞巴頓同義，強調這王的本質就是毀滅 |
+| Εὐφράτης | Euphratēs | 幼發拉底河 | 羅馬帝國東界，象徵來自東方的威脅與審判 |
+| δαιμόνιον | daimonion | 鬼魔 | 20節指人所拜的對象，揭示偶像崇拜背後的屬靈實質 |
+| μετανοέω | metanoeō | 悔改 | 20、21節反覆出現卻以否定式呈現——「仍不悔改」 |
 
 ### 「仍不悔改」(ou metenoēsan) 的沉重迴響
 
@@ -4340,7 +5347,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 屬靈的痛苦遠比肉體的死亡更叫人絕望 (Spiritual Torment Is More Dreadful Than Physical Death)
 
@@ -4364,13 +5371,32 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 32:1-5
+
+> \textsuperscript{1}（大衛的訓誨詩。）得赦免其過、遮蓋其罪的，這人是有福的！
+> \textsuperscript{2}凡心裡沒有詭詐、耶和華不算為有罪的，這人是有福的！
+> \textsuperscript{3}我閉口不認罪的時候，因終日唉哼而骨頭枯乾。
+> \textsuperscript{4}黑夜白日，你的手在我身上沉重；我的精液耗盡，如同夏天的乾旱。（細拉）
+> \textsuperscript{5}我向你陳明我的罪，不隱瞞我的惡。我說：我要向耶和華承認我的過犯，你就赦免我的罪惡。（細拉）
+
+「我閉口不認罪的時候，因終日唉哼而骨頭枯乾」——9:20-21 說「其餘未曾被這些災所殺的人仍舊不悔改」。詩篇 32 篇讓我們看見，不悔改的人不是沒有痛苦，是拒絕承認痛苦的來源。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將無底坑釋放的蝗蟲理解為屬靈欺哄與異端教導所帶來的痛苦，強調這種痛苦雖不致命，卻比肉身的傷害更難忍受，因為它侵蝕的是人裡面對真理的辨識能力。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, ch. 9 (ANF07)
 
 ### 改革宗時期
@@ -4378,6 +5404,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在解釋9:20-21時特別沉痛地指出，這是聖經中對人心敗壞最直接的見證之一：外在的審判無論多麼劇烈，若沒有神恩典的內在工作，只會使人更加剛硬，而不會使人自然而然地悔改——這徹底粉碎了「苦難本身能拯救人」的錯誤觀念。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 9
 
 ### 當代釋經
@@ -4385,16 +5412,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這一章最令人心碎的，不是蝗蟲或馬軍的恐怖描繪，而是最後兩節經文：即使親眼目睹三分之一人類死亡的浩劫，倖存者依然拒絕悔改——這是罪如何徹底蒙蔽人心的最有力見證。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本指出，蝗蟲與馬軍的意象，其功用不僅是描繪審判的恐怖，更是要揭露一個更深的屬靈真相：脫離神印記保護的人，終將經歷屬靈勢力真實的轄制與折磨——這場審判的核心，是屬靈的，而非單純軍事或自然的。
+
 > — Grant R. Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Come, Ye Sinners, Poor and Needy
+
+*Joseph Hart, 1759*
+
+> Let not conscience make you linger,
+> Nor of fitness fondly dream;
+> All the fitness He requireth
+> Is to feel your need of Him.
+
+五、六號的災難之後，經文兩次說「仍舊不悔改」。默想：災難本身從不使人悔改——法老看過十災，那些人受過蝗災與馬軍。使人回轉的從來只有恩典。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**無底坑出來的是鬼魔軍團**：麥克阿瑟把第五號的蝗蟲讀作被釋放的鬼魔勢力——牠們不吃草、專傷人、有王管轄（9:11，與箴30:27的蝗蟲無王恰成對照）；這是屬靈黑暗第一次如此赤裸地登場。
+
+**求死不得的痛苦**：9:6「人要求死，決不得死」——他指出這是墮落世界最深的絕望形態：人最後的逃路（死亡）也被關閉，唯獨顯明離開神的存在本身就是刑罰。
+
+**兩次「仍舊不悔改」是本段真正的恐怖**：比二萬萬馬軍更可怕的，是 9:20-21 的結語——經歷了這一切的人「仍舊不悔改」。他總結：災難能顯明人心，卻不能更換人心；使人悔改的從來是恩典，不是恐懼。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：第五、六號蝗蟲與馬軍 (Ask Elder Wong)
 
@@ -4432,7 +5487,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 **詩篇**：詩篇 95:7-8
 
-> 惟願你們今天聽他的話！你們不可硬著心，像在米利巴，就是在曠野瑪撒的日子。
+> 因為他是我們的神；我們是他草場的羊，是他手下的民。惟願你們今天聽他的話：
+> 你們不可硬著心，像當日在米利巴，就是在曠野的瑪撒。
 
 詩篇提醒我們，硬心不是新約才出現的現象，而是貫穿整本聖經、人性最深處的悖逆——啟示錄9:20-21只是這古老悲劇在末世的重演。
 
@@ -4512,13 +5568,35 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 10:1-11
 
-**經文核對**：[ai-eden.com/bible/revelation/10](https://www.ai-eden.com/bible/revelation/10?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/10](https://www.ai-eden.com/bible/revelation/10?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七號之間，敘事忽然停頓——約翰不是繼續數算災禍，而是被帶到一幕插曲：一位大力的天使從天降下，「披著雲彩，頭上有虹，臉面像日頭，兩腳像火柱」。這些描述與啟示錄1章榮耀基督的異象、與出埃及記雲柱火柱的引導遙相呼應，讓讀者一再確認：無論審判如何加劇，掌管一切、親自引導祂百姓的那一位，從未離開祂的寶座，也從未離開祂的百姓。這位天使右腳踏海、左腳踏地，宣告「不再有時日了」——那掌管海洋與陸地、時間本身的主權，正是這卷書從頭到尾唯一的焦點。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Break Thou the Bread of Life**
+> *Mary A. Lathbury, 1877*
+>
+> Break Thou the bread of life,
+> Dear Lord, to me,
+> As Thou didst break the loaves
+> Beside the sea;
+> Beyond the sacred page
+> I seek Thee, Lord.
+>
+> 親愛的主，求你為我
+> 擘開生命之糧，
+> 如同你當日在海邊
+> 擘開那餅；
+> 在聖言的字句之外，
+> 主啊，我尋求你自己。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -4530,13 +5608,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{8}我先前從天上所聽見的那聲音又吩咐我說：「你去，把那踏海踏地之天使手中展開的小書卷取過來。」\textsuperscript{9}我就走到天使那裡，對他說：「請你把小書卷給我。」他對我說：「你拿著吃盡了，便叫你肚子發苦，然而在你口中要甜如蜜。」\textsuperscript{10}我從天使手中把小書卷接過來，吃盡了，在我口中果然甜如蜜，吃了以後，肚子覺得發苦了。\textsuperscript{11}天使（原文是他們）對我說：「你必指著多民、多國、多方、多王再說預言。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then I saw another mighty angel coming down from heaven, wrapped in a cloud, with a rainbow over his head, and his face was like the sun, and his legs like pillars of fire. \textsuperscript{2}He had a little scroll open in his hand. And he set his right foot on the sea, and his left foot on the land, \textsuperscript{3}and called out with a loud voice, like a lion roaring. When he called out, the seven thunders sounded. \textsuperscript{4}And when the seven thunders had sounded, I was about to write, but I heard a voice from heaven saying, "Seal up what the seven thunders have said, and do not write it down."
+> \textsuperscript{1}I saw another strong angel coming down out of heaven, clothed with a cloud; and the rainbow was upon his head, and his face was like the sun, and his feet like pillars of fire; \textsuperscript{2}and he had in his hand a little book which was open. He placed his right foot on the sea and his left on the land; \textsuperscript{3}and he cried out with a loud voice, as when a lion roars; and when he had cried out, the seven peals of thunder uttered their voices. \textsuperscript{4}When the seven peals of thunder had spoken, I was about to write; and I heard a voice from heaven saying, 'Seal up the things which the seven peals of thunder have spoken and do not write them.'
 
-> \textsuperscript{5}And the angel whom I saw standing on the sea and on the land raised his right hand to heaven \textsuperscript{6}and swore by him who lives forever and ever, who created heaven and what is in it, the earth and what is in it, and the sea and what is in it, that there would be no more delay, \textsuperscript{7}but that in the days of the trumpet call to be sounded by the seventh angel, the mystery of God would be fulfilled, just as he announced to his servants the prophets.
+> \textsuperscript{5}Then the angel whom I saw standing on the sea and on the land lifted up his right hand to heaven, \textsuperscript{6}and swore by Him who lives forever and ever, WHO CREATED HEAVEN AND THE THINGS IN IT, AND THE EARTH AND THE THINGS IN IT, AND THE SEA AND THE THINGS IN IT, that there will be delay no longer, \textsuperscript{7}but in the days of the voice of the seventh angel, when he is about to sound, then the mystery of God is finished, as He preached to His servants the prophets.
 
-> \textsuperscript{8}Then the voice that I had heard from heaven spoke to me again, saying, "Go, take the scroll that is open in the hand of the angel who is standing on the sea and on the land." \textsuperscript{9}So I went to the angel and told him to give me the little scroll. And he said to me, "Take and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey." \textsuperscript{10}And I took the little scroll from the hand of the angel and ate it. It was sweet as honey in my mouth, but when I had eaten it my stomach was made bitter. \textsuperscript{11}And I was told, "You must again prophesy about many peoples and nations and languages and kings."
+> \textsuperscript{8}Then the voice which I heard from heaven, *I heard* again speaking with me, and saying, 'Go, take the book which is open in the hand of the angel who stands on the sea and on the land.' \textsuperscript{9}So I went to the angel, telling him to give me the little book. And he said to me, 'Take it and eat it; it will make your stomach bitter, but in your mouth it will be sweet as honey.' \textsuperscript{10}I took the little book out of the angel's hand and ate it, and in my mouth it was sweet as honey; and when I had eaten it, my stomach was made bitter. \textsuperscript{11}And they said to me, 'You must prophesy again concerning many peoples and nations and tongues and kings.'
 
 ---
 
@@ -4557,13 +5635,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *biblaridion* | biblaridion | 小書卷 | 「小」字加強了與5章大書卷的對比——這是一份具體、可吞下的先知信息 |
-| *sphragizō* | sphragizō | 封上、蓋印 | 用於七雷之語，與5章書卷的七印相呼應，但方向相反：那卷要被展開，這段話卻要被封住 |
-| *omnyō* | omnyō | 起誓 | 天使指著永活的創造主起誓，這是聖經中最鄭重的宣告方式 |
-| *chronos* | chronos | 時間、時候 | 「不再有時日了」中的關鍵詞，指向歷史時間的終結，而非單純的「延遲」 |
-| *mystērion* | mystērion | 奧祕 | 保羅書信常用詞，指過去隱藏、如今顯明的神的計劃；此處指神救贖計劃的最終完成 |
-| *pikrainō* | pikrainō | 使發苦 | 描述吃盡書卷後腹中的感受，與蜜的甘甜形成強烈對比 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| βιβλαρίδιον | biblaridion | 小書卷 | 「小」字加強了與5章大書卷的對比——這是一份具體、可吞下的先知信息 |
+| σφραγίζω | sphragizō | 封上、蓋印 | 用於七雷之語，與5章書卷的七印相呼應，但方向相反：那卷要被展開，這段話卻要被封住 |
+| ὀμνύω | omnyō | 起誓 | 天使指著永活的創造主起誓，這是聖經中最鄭重的宣告方式 |
+| χρόνος | chronos | 時間、時候 | 「不再有時日了」中的關鍵詞，指向歷史時間的終結，而非單純的「延遲」 |
+| μυστήριον | mystērion | 奧祕 | 保羅書信常用詞，指過去隱藏、如今顯明的神的計劃；此處指神救贖計劃的最終完成 |
+| πικραίνω | pikrainō | 使發苦 | 描述吃盡書卷後腹中的感受，與蜜的甘甜形成強烈對比 |
 
 ### 「不再有時日了」的深意
 
@@ -4571,7 +5649,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 神的話語同時是甘甜與苦澀的 (God's Word Is Both Sweet and Bitter)
 
@@ -4591,20 +5669,38 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 119:103-105
+
+> \textsuperscript{103}你的言語在我上膛何等甘美，在我口中比蜜更甜！
+> \textsuperscript{104}我藉著你的訓詞得以明白，所以我恨一切的假道。
+> \textsuperscript{105}你的話是我腳前的燈，是我路上的光。
+
+「你的言語在我上膛何等甘美」——約翰吃下小書卷，「在口中果然甜如蜜，吃了以後肚子覺得發苦」(10:10)。神的話先甜後苦：領受是甜的，承擔是苦的。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在他現存最早的啟示錄注釋中，將這位大力天使的異象與基督自己聯繫起來，指出雲彩、彩虹、如日頭的臉面等描述，延續了1章對榮耀基督的刻畫，說明即使在插曲段落中，全書焦點仍未偏離基督本身。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 10
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在他著名的《啟示錄百篇講章》中論到這段經文時強調，天使「不再有時日了」的宣告，是對歷世歷代受苦教會最大的安慰——神的應許終必實現，拖延不是遺忘，乃是神智慧安排的時候未到。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 10
 
 ### 當代釋經
@@ -4612,16 +5708,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在他的注釋中指出，約翰吃書卷的經歷教導了一個重要的功課：神的話語必須先被個人領受、消化、成為自己生命的一部分，然後才能被傳講出去；傳講神話語的人，必須先是領受神話語的人。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯認為，小書卷的內容正是接下來將要展開的最後審判與最終得勝的信息——它之所以甘甜，是因為其中包含神最終得勝的應許；之所以苦澀，是因為傳講的過程必然要經歷苦難與逼迫。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O Word of God Incarnate
+
+*William Walsham How, 1867*
+
+> O Word of God incarnate,
+> O Wisdom from on high,
+> O Truth unchanged, unchanging,
+> O Light of our dark sky.
+
+以西結也吃過書卷（結 3:1-3），耶利米也吃過（耶 15:16）——先知的職分不是傳遞別人的信息，是先把信息吃下去。默想：你最近一次讀經，是把話語讀進眼睛裡，還是吃到肚子裡？
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**大力天使與敞開的小書卷**：麥克阿瑟指出第10章是六、七號之間的插敘：書卷是「展開的」——神的旨意此刻不再封嚴；天使腳踏海與地——所宣告的主權覆蓋全地。
+
+**「不再有時日了」**：10:6 的宣告他讀作「不再耽延」：殉道者「要到幾時」的等候（6:10）在此得到答覆——第七號一吹，神的奧祕就成全，再無下一輪的暫緩。
+
+**先吃下去，再說預言**：約翰吃書卷、口甜腹苦，隨後才聽見「你必指著多民、多國……再說預言」（10:11）——他以此講傳道者的次序：神的話必須先成為傳講者自己裡面的經歷，甜與苦都吞下，然後才有資格出口。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：天使與小書卷 (Ask Elder Wong)
 
@@ -4737,13 +5861,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 11:1-14
 
-**經文核對**：[ai-eden.com/bible/revelation/11](https://www.ai-eden.com/bible/revelation/11?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/11](https://www.ai-eden.com/bible/revelation/11?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 兩個見證人的故事，是啟示錄中最戲劇化的一幕：他們傳道、受逼迫、被殺、暴屍街頭、又復活升天——整個過程濃縮了教會歷史的完整弧線。但焦點不在這兩位見證人本身，而在他們所見證的那一位。他們「穿著毛衣」傳道，正如以利亞與施洗約翰的裝束；他們的死而復活，正是主自己死而復活的縮影；他們升天時「駕著雲」，正呼應主耶穌自己「駕雲降臨」的應許（1:7）。這段經文告訴我們：教會的見證之所以有能力、之所以最終得勝，不是因為見證人本身有多剛強，而是因為他們所指向、所效法的那一位，早已親自走過死亡又得勝死亡的道路。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The Son of God Goes Forth to War**
+> *Reginald Heber, 1812*
+>
+> The Son of God goes forth to war,
+> A kingly crown to gain;
+> His blood-red banner streams afar:
+> Who follows in His train?
+>
+> 神的兒子出去爭戰，
+> 為要得著君王的冠冕；
+> 祂血染的旌旗遠揚：
+> 誰願跟隨祂的行列？
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -4757,15 +5899,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{11}過了這三天半，有生氣從神那裡進入他們裡面，他們就站起來；看見他們的人甚是害怕。\textsuperscript{12}兩位先知聽見有大聲音從天上來，對他們說：「上到這裡來。」他們就駕著雲上了天，他們的仇敵也看見了。\textsuperscript{13}正在那時候，地大震動，城就倒塌了十分之一，因地震而死的有七千人；其餘的都恐懼，歸榮耀給天上的神。\textsuperscript{14}第二樣災禍過去，第三樣災禍快到了。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then I was given a measuring rod like a staff, and I was told, "Rise and measure the temple of God and the altar and those who worship there, \textsuperscript{2}but do not measure the court outside the temple; leave that out, for it is given over to the nations, and they will trample the holy city for forty-two months. \textsuperscript{3}And I will grant authority to my two witnesses, and they will prophesy for 1,260 days, clothed in sackcloth." \textsuperscript{4}These are the two olive trees and the two lampstands that stand before the Lord of the earth.
+> \textsuperscript{1}Then there was given me a measuring rod like a staff; and someone said, 'Get up and measure the temple of God and the altar, and those who worship in it. \textsuperscript{2}'Leave out the court which is outside the temple and do not measure it, for it has been given to the nations; and they will tread under foot the holy city for forty-two months. \textsuperscript{3}'And I will grant *authority* to my two witnesses, and they will prophesy for twelve hundred and sixty days, clothed in sackcloth.' \textsuperscript{4}These are the two olive trees and the two lampstands that stand before the Lord of the earth.
 
-> \textsuperscript{5}And if anyone would harm them, fire pours from their mouth and consumes their foes. If anyone would harm them, this is how he is doomed to be killed. \textsuperscript{6}They have the power to shut the sky, that no rain may fall during the days of their prophesying, and they have power over the waters to turn them into blood and to strike the earth with every kind of plague, as often as they desire.
+> \textsuperscript{5}And if anyone wants to harm them, fire flows out of their mouth and devours their enemies; so if anyone wants to harm them, he must be killed in this way. \textsuperscript{6}These have the power to shut up the sky, so that rain will not fall during the days of their prophesying; and they have power over the waters to turn them into blood, and to strike the earth with every plague, as often as they desire.
 
-> \textsuperscript{7}And when they have finished their testimony, the beast that rises from the bottomless pit will make war on them and conquer them and kill them, \textsuperscript{8}and their dead bodies will lie in the street of the great city that symbolically is called Sodom and Egypt, where their Lord was crucified. \textsuperscript{9}For three and a half days some from the peoples and tribes and languages and nations will gaze at their dead bodies and refuse to let them be placed in a tomb, \textsuperscript{10}and those who dwell on the earth will rejoice over them and make merry and exchange presents, because these two prophets had been a torment to those who dwell on the earth.
+> \textsuperscript{7}When they have finished their testimony, the beast that comes up out of the abyss will make war with them, and overcome them and kill them. \textsuperscript{8}And their dead bodies *will lie* in the street of the great city which mystically is called Sodom and Egypt, where also their Lord was crucified. \textsuperscript{9}Those from the peoples and tribes and tongues and nations *will* look at their dead bodies for three and a half days, and will not permit their dead bodies to be laid in a tomb. \textsuperscript{10}And those who dwell on the earth *will* rejoice over them and celebrate; and they will send gifts to one another, because these two prophets tormented those who dwell on the earth.
 
-> \textsuperscript{11}But after the three and a half days a breath of life from God entered them, and they stood up on their feet, and great fear fell on those who saw them. \textsuperscript{12}Then they heard a loud voice from heaven saying to them, "Come up here!" And they went up to heaven in a cloud, and their enemies watched them. \textsuperscript{13}And at that hour there was a great earthquake, and a tenth of the city fell. Seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven. \textsuperscript{14}The second woe has passed; behold, the third woe is soon to come.
+> \textsuperscript{11}But after the three and a half days, the breath of life from God came into them, and they stood on their feet; and great fear fell upon those who were watching them. \textsuperscript{12}And they heard a loud voice from heaven saying to them, 'Come up here.' Then they went up into heaven in the cloud, and their enemies watched them. \textsuperscript{13}And in that hour there was a great earthquake, and a tenth of the city fell; seven thousand people were killed in the earthquake, and the rest were terrified and gave glory to the God of heaven. \textsuperscript{14}The second woe is past; behold, the third woe is coming quickly.
 
 ---
 
@@ -4784,13 +5926,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *martys* | martys | 見證人 | 英文martyr（殉道者）的字源，說明在啟示錄的世界裡，「見證」與「殉道」幾乎是同義詞 |
-| *sakkos* | sakkos | 毛衣、麻衣 | 舊約先知悔改宣告時的裝束（如以利亞），象徵嚴肅的呼籲悔改 |
-| *thērion* | thērion | 獸 | 首次出現在此，從無底坑上來，第13章將完整展開這獸的身分與作為 |
-| *abyssos* | abyssos | 無底坑 | 邪惡勢力的囚禁之地，20章撒但被扔入此處 |
-| *pneuma zōēs* | pneuma zōēs | 生命的氣息 | 呼應以西結書37章枯骨復活異象中「氣息從四方而來，吹在這些被殺的人身上，使他們活了」 |
-| *seismos megas* | seismos megas | 大地震 | 啟示錄中反覆出現的審判記號，此處伴隨見證人升天 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| μάρτυς | martys | 見證人 | 英文martyr（殉道者）的字源，說明在啟示錄的世界裡，「見證」與「殉道」幾乎是同義詞 |
+| σάκκος | sakkos | 毛衣、麻衣 | 舊約先知悔改宣告時的裝束（如以利亞），象徵嚴肅的呼籲悔改 |
+| θηρίον | thērion | 獸 | 首次出現在此，從無底坑上來，第13章將完整展開這獸的身分與作為 |
+| ἄβυσσος | abyssos | 無底坑 | 邪惡勢力的囚禁之地，20章撒但被扔入此處 |
+| πνεῦμα ζωῆς | pneuma zōēs | 生命的氣息 | 呼應以西結書37章枯骨復活異象中「氣息從四方而來，吹在這些被殺的人身上，使他們活了」 |
+| σεισμὸς μέγας | seismos megas | 大地震 | 啟示錄中反覆出現的審判記號，此處伴隨見證人升天 |
 
 ### 「兩棵橄欖樹，兩個燈臺」
 
@@ -4798,7 +5940,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 見證的本質是效法基督的死而復活 (Witness Means Following the Pattern of Death and Resurrection)
 
@@ -4818,25 +5960,43 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 79:9-10
+
+> \textsuperscript{9}拯救我們的神啊，求你因你名的榮耀幫助我們！為你名的緣故搭救我們，赦免我們的罪。
+> \textsuperscript{10}為何容外邦人說他們的神在哪裡呢？願你使外邦人知道你在我們眼前伸你僕人流血的冤。
+
+「願你使外邦人知道你在我們眼前伸你僕人流血的冤」——兩個見證人的屍首陳列在街上，地上的人歡喜快樂彼此餽送禮物；三天半之後，神就伸了這個冤。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐將兩個見證人與以利亞、以諾的傳統聯繫起來，認為他們代表神在末後日子差來、公開對抗敵基督勢力的先知性見證，其死而復活的模式，正是要向普世顯明：即使敵基督看似得勝，神的見證終必復活得勝。
+
 > — Irenaeus, *Against Heresies*, Book V, Chapter 5
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在他的注釋中，將兩個見證人理解為以利亞與以諾——兩位在舊約中未曾經歷肉身死亡、將在末後回來完成見證使命的先知，他們的傳道與殉道，象徵著神在歷史終結之前，仍然給普世留下悔改的機會。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 11
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在他的聖經註釋中指出，兩個見證人「穿著毛衣」傳道的形象，提醒教會：真正屬神的見證，總是伴隨嚴肅的悔改呼籲，而非討好世界的信息；正因如此，這樣的見證常常招致世界的敵視，卻正是神眼中蒙悅納的忠心。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 11
 
 ### 當代釋經
@@ -4844,16 +6004,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟認為，兩個見證人的故事是整本啟示錄中最鼓舞人心的一幕之一：它向每一個世代的信徒證明，看似最終的失敗——甚至死亡——都不是神計劃的終點；神的見證人可能被壓制、被殺害，但永遠不會被最終擊敗。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本指出，這兩個見證人所代表的，不僅僅是兩個個別人物，更是整個教會在末世所承擔的先知性見證使命——傳講真理、招致逼迫、看似失敗，卻終必因神的介入而得勝。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Who Is on the Lord's Side?
+
+*Frances Ridley Havergal, 1877*
+
+> Who is on the Lord's side?
+> Who will serve the King?
+> Who will be His helpers,
+> Other lives to bring?
+
+兩個見證人被殺、被辱、然後被召「上到這裡來」——與約翰在 4:1 聽見的是同一句話。默想：主給祂見證人的保守不是不死，是死後仍要站起來。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**兩個真實的人物**：麥克阿瑟把兩個見證人讀作兩位實際的先知人物，而非純粹的象徵：他們的神蹟——叫天閉塞不下雨、叫水變血——刻意重現以利亞與摩西的權能，是舊約先知職分在末期的最後一班崗。
+
+**不能被殺，直到見證完畢**：11:5-7 的次序是他反覆強調的：見證人盡職期間刀槍不入，「作完見證的時候」獸才「得勝」——神僕人的性命長度由使命決定，不由仇敵決定。
+
+**世界為先知之死互送禮物**：11:10 是聖經中唯一一處「普天同慶」式的歡樂場面，慶祝的竟是真理之聲的沉默。他指出這是對人性最冷的一筆素描——而三天半後的復活與被提，把這場慶祝變成極大的懼怕。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：兩個見證人 (Ask Elder Wong)
 
@@ -4969,13 +6157,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 11:15-19
 
-**經文核對**：[ai-eden.com/bible/revelation/11](https://www.ai-eden.com/bible/revelation/11?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/11](https://www.ai-eden.com/bible/revelation/11?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七號吹到最後一聲，天上沒有再降下一個新的災禍，而是響起一句宣告：「世上的國成了我主和主基督的國；他要作王，直到永永遠遠。」這是全書的一個高峰——不是審判的高峰，而是掌權的高峰。二十四位長老立刻俯伏敬拜，不是因為看見了毀滅，而是因為看見了那早已屬於基督、如今被公開宣告的王權終於臨到。這節經文濃縮了啟示錄的核心信息：世界的歷史，無論表面上如何被列國、掌權者所左右，最終的主權，從創世以來就屬於那位「昔在、今在」的主和祂的基督。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Jesus Shall Reign Where'er the Sun**
+> *Isaac Watts, 1719 (from Psalm 72)*
+>
+> Jesus shall reign where'er the sun
+> Does his successive journeys run;
+> His kingdom stretch from shore to shore,
+> Till moons shall wax and wane no more.
+>
+> 日光所照之處，耶穌必掌權，
+> 日復一日運行不息；
+> 祂的國度從此岸到彼岸，
+> 直到月亮不再盈虧。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -4985,11 +6191,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{19}當時，神天上的殿開了，在他殿中現出他的約櫃。隨後有閃電、聲音、雷轟、地震、大雹。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{15}Then the seventh angel blew his trumpet, and there were loud voices in heaven, saying, "The kingdom of the world has become the kingdom of our Lord and of his Christ, and he shall reign forever and ever." \textsuperscript{16}And the twenty-four elders who sit on their thrones before God fell on their faces and worshiped God, \textsuperscript{17}saying, "We give thanks to you, Lord God Almighty, who is and who was, for you have taken your great power and begun to reign. \textsuperscript{18}The nations raged, but your wrath came, and the time for the dead to be judged, and for rewarding your servants, the prophets and saints, and those who fear your name, both small and great, and for destroying the destroyers of the earth."
+> \textsuperscript{15}Then the seventh angel sounded; and there were loud voices in heaven, saying, 'The kingdom of the world has become *the kingdom* of our Lord and of His Christ; and He will reign forever and ever.' \textsuperscript{16}And the twenty-four elders, who sit on their thrones before God, fell on their faces and worshiped God, \textsuperscript{17}saying, 'We give You thanks, O Lord God, the Almighty, who are and who were, because You have taken Your great power and have begun to reign. \textsuperscript{18}'And the nations were enraged, and Your wrath came, and the time *came* for the dead to be judged, and *the time* to reward Your bond-servants the prophets and the saints and those who fear Your name, the small and the great, and to destroy those who destroy the earth.'
 
-> \textsuperscript{19}Then God's temple in heaven was opened, and the ark of his covenant was seen within his temple. There were flashes of lightning, rumblings, peals of thunder, an earthquake, and heavy hail.
+> \textsuperscript{19}And the temple of God which is in heaven was opened; and the ark of His covenant appeared in His temple, and there were flashes of lightning and sounds and peals of thunder and an earthquake and a great hailstorm.
 
 ---
 
@@ -5008,13 +6214,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *basileia* | basileia | 國度、王權 | 「世上的國」原文為單數，暗示所有列國最終被視為一個整體，都歸屬於基督的王權之下 |
-| *ebasileusas* | ebasileusas | 執掌大權作王了 | 過去時態，表明這王權的開始不是未來才發生，而是已然確立的事實，此刻只是公開宣告 |
-| *orgē* | orgē | 忿怒 | 神聖公義的憤怒，區別於人的情緒性憤怒，指向對罪惡系統性的審判 |
-| *misthos* | misthos | 賞賜、工價 | 用於「得賞賜的時候」，強調神紀念祂僕人忠心事奉的公義 |
-| *diaphtheirō* | diaphtheirō | 敗壞、毀滅 | 「敗壞那些敗壞世界之人」形成文字遊戲——用同一個動詞描述神對敗壞者的審判，暗示以其人之道還治其人之身 |
-| *kibōtos diathēkēs* | kibōtos diathēkēs | 約櫃 | 舊約中神與以色列立約、神同在的具體記號，此處象徵神信實守約的永恆性 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| βασιλεία | basileia | 國度、王權 | 「世上的國」原文為單數，暗示所有列國最終被視為一個整體，都歸屬於基督的王權之下 |
+| ἐβασίλευσας | ebasileusas | 執掌大權作王了 | 過去時態，表明這王權的開始不是未來才發生，而是已然確立的事實，此刻只是公開宣告 |
+| ὀργή | orgē | 忿怒 | 神聖公義的憤怒，區別於人的情緒性憤怒，指向對罪惡系統性的審判 |
+| μισθός | misthos | 賞賜、工價 | 用於「得賞賜的時候」，強調神紀念祂僕人忠心事奉的公義 |
+| διαφθείρω | diaphtheirō | 敗壞、毀滅 | 「敗壞那些敗壞世界之人」形成文字遊戲——用同一個動詞描述神對敗壞者的審判，暗示以其人之道還治其人之身 |
+| κιβωτὸς διαθήκης | kibōtos diathēkēs | 約櫃 | 舊約中神與以色列立約、神同在的具體記號，此處象徵神信實守約的永恆性 |
 
 ### 「執掌大權作王了」的時態意義
 
@@ -5022,7 +6228,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 基督的王權早已確立，末世只是公開彰顯 (Christ's Reign Is Already Established; the End Only Makes It Public)
 
@@ -5042,13 +6248,39 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 47:1-4
+
+> \textsuperscript{1}（可拉後裔的詩，交與伶長。）萬民哪，你們都要拍掌！要用誇勝的聲音向神呼喊！
+> \textsuperscript{2}因為耶和華至高者是可畏的；他是治理全地的大君王。
+> \textsuperscript{3}他叫萬民服在我們以下，又叫列邦服在我們腳下。
+> \textsuperscript{4}他為我們選擇產業，就是他所愛之雅各的榮耀。（細拉）
+
+「他是治理全地的大君王」——第七號吹響時天上大聲說「世上的國成了我主和主基督的國」(11:15)。詩篇 47 篇是提前唱出來的同一句話。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
 
-### 宗教改革時期
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+
+### 教父時期
+
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
+
+維克多林是現存最早的啟示錄拉丁文注釋的作者，他讀第七號的方式成了後世「重演論」(recapitulation) 解經的起點：第七號既已宣告「世上的國成了我主和主基督的國」，末了的結局就在此已經到達——因此他認為其後的碗災不是接續發生的新事件，而是同一終局審判從另一個角度的重述。無論讀者是否採納這個結構判斷，他抓住的重點是準確的：第七號吹響時，天上宣告的是終點，不是過程。
+
+> — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 11（大意整理，非逐字翻譯）
+
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格特別強調這節經文對受苦教會的安慰：即使外邦發怒、逼迫加劇，神的忿怒與審判必然臨到那些逼迫者，而祂的僕人終必得著賞賜——這是支撐宗教改革時期眾多受逼迫信徒的重要盼望。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 11
 
 ### 當代釋經
@@ -5056,16 +6288,46 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟認為，第七號的宣告是整本啟示錄的樞紐——它向前總結了神對抗一切悖逆祂的勢力的計劃，也向後預告了基督再來、建立祂公開國度的最終場景；這不是又一個災禍，而是得勝的宣告。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
 畢爾在他的注釋中指出，「世上的國成了我主和主基督的國」這句宣告使用單數形式的「國」，暗示所有地上分裂、彼此爭戰的列國，最終將被視為一個統一的整體，全部臣服在基督普世的王權之下。
+
 > — G.K. Beale, *The Book of Revelation* (NIGTC)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Come, Thou Almighty King
+
+*Anonymous, c. 1757*
+
+> Come, Thou almighty King,
+> Help us Thy name to sing,
+> Help us to praise:
+> Father all glorious,
+> O'er all victorious,
+> Come and reign over us, Ancient of Days.
+
+韓德爾把 11:15 譜成《哈利路亞大合唱》時，用的是完成式的語氣：不是「將要成為」，是「成了」。默想：天上宣告國度更替，用的是過去式；地上的爭戰卻還沒打完——這正是信心站立的位置。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**國度宣告用的是成就式**：麥克阿瑟指出 11:15 天上的大聲音不是展望而是宣告：「世上的國成了我主和主基督的國」——第七號涵蓋此後直到終局的全部內容，天上先用完成式把結局唱了出來。
+
+**「你的忿怒」與「你僕人的賞賜」並列**：11:18 把外邦的忿恨、神的忿怒、死人受審判、僕人得賞賜放在同一節裡——他提醒讀者：同一個日子，對兩種人是兩件事；審判與賞賜從來是同一次降臨的兩面。
+
+**約櫃顯現**：11:19 天上的殿開了，約櫃顯露——被擄以來從人間消失的約櫃，原來在天上。他讀作立約信實的宣言：神未曾一刻忘記他與百姓所立的約，第七號的終局正是守約的高峰。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：第七號的宣告 (Ask Elder Wong)
 
@@ -5103,7 +6365,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 **詩篇**：詩篇2:6-8
 
-> 「我已經立我的君在錫安我的聖山上了。」…你求我，我就將列國賜你為基業，將地極賜你為田產。
+> 說：我已經立我的君在錫安─我的聖山上了。……你求我，我就將列國賜你為基業，將地極賜你為田產。
 
 詩篇2篇的古老應許，在啟示錄11:15完全應驗——那被列國抵擋的受膏者，終必得著列國為祂的基業。
 
@@ -5193,13 +6455,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 12:1-17
 
-**經文核對**：[ai-eden.com/bible/revelation/12](https://www.ai-eden.com/bible/revelation/12?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/12](https://www.ai-eden.com/bible/revelation/12?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 啟示錄的敘事在此轉入全書的核心戰場——不是列國之間的戰爭，而是貫穿整本聖經、從創世記3:15就已宣告的那場更深的爭戰：女人的後裔與蛇之間的爭戰。婦人生了一個「將來要用鐵杖轄管萬國」的男孩子（引自詩篇2:9），龍立刻要吞吃這孩子——但孩子「被提到神寶座那裡去了」。這短短一句話，濃縮了基督降生、受死、復活、升天的整個救贖工程：仇敵想要毀滅祂，卻無法阻止祂完成救贖、登上寶座。這一章告訴我們：世界歷史真正的主軸，從來不是帝國興衰，而是這位曾被試圖吞吃、如今已坐在寶座上的基督，與那條古蛇之間的爭戰——而這場爭戰，早已在十字架上決定了結局。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Christian, Dost Thou See Them**
+> *Andrew of Crete (c. 660-732); tr. John Mason Neale, 1862*
+>
+> Christian, dost thou see them
+> On the holy ground,
+> How the powers of darkness
+> Rage thy steps around?
+>
+> 基督徒，你可看見
+> 在這聖潔的地上，
+> 黑暗的權勢如何
+> 環繞你的腳步狂怒？
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -5211,13 +6491,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{13}龍見自己被摔在地上，就逼迫那生男孩子的婦人。\textsuperscript{14}於是有大鷹的兩個翅膀賜給婦人，叫他能飛到曠野，到自己的地方，躲避那蛇；他在那裡被養活一載二載半載。\textsuperscript{15}蛇就在婦人身後，從口中吐出水來，像河一樣，要將婦人沖去。\textsuperscript{16}地卻幫助婦人，開口吞了從龍口吐出來的水（原文作河）。\textsuperscript{17}龍向婦人發怒，去與他其餘的兒女爭戰，這兒女就是那守神誡命、為耶穌作見證的。那時龍就站在海邊的沙上。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}And a great sign appeared in heaven: a woman clothed with the sun, with the moon under her feet, and on her head a crown of twelve stars. \textsuperscript{2}She was pregnant and was crying out in birth pains and the agony of giving birth. \textsuperscript{3}And another sign appeared in heaven: behold, a great red dragon, with seven heads and ten horns, and on his heads seven diadems. \textsuperscript{4}His tail swept down a third of the stars of heaven and cast them to the earth. And the dragon stood before the woman who was about to give birth, so that when she bore her child he might devour it. \textsuperscript{5}She gave birth to a male child, one who is to rule all the nations with a rod of iron, but her child was caught up to God and to his throne, \textsuperscript{6}and the woman fled into the wilderness, where she has a place prepared by God, in which she is to be nourished for 1,260 days.
+> \textsuperscript{1}A great sign appeared in heaven: a woman clothed with the sun, and the moon under her feet, and on her head a crown of twelve stars; \textsuperscript{2}and she was with child; and she cried out, being in labor and in pain to give birth. \textsuperscript{3}Then another sign appeared in heaven: and behold, a great red dragon having seven heads and ten horns, and on his heads *were* seven diadems. \textsuperscript{4}And his tail swept away a third of the stars of heaven and threw them to the earth. And the dragon stood before the woman who was about to give birth, so that when she gave birth he might devour her child. \textsuperscript{5}And she gave birth to a son, a male *child*, who is to rule all the nations with a rod of iron; and her child was caught up to God and to His throne. \textsuperscript{6}Then the woman fled into the wilderness where she had a place prepared by God, so that there she would be nourished for one thousand two hundred and sixty days.
 
-> \textsuperscript{7}Now war arose in heaven, Michael and his angels fighting against the dragon. And the dragon and his angels fought back, \textsuperscript{8}but he was defeated, and there was no longer any place for them in heaven. \textsuperscript{9}And the great dragon was thrown down, that ancient serpent, who is called the devil and Satan, the deceiver of the whole world—he was thrown down to the earth, and his angels were thrown down with him. \textsuperscript{10}And I heard a loud voice in heaven, saying, "Now the salvation and the power and the kingdom of our God and the authority of his Christ have come, for the accuser of our brothers has been thrown down, who accuses them day and night before our God. \textsuperscript{11}And they have conquered him by the blood of the Lamb and by the word of their testimony, for they loved not their lives even unto death. \textsuperscript{12}Therefore, rejoice, O heavens and you who dwell in them! But woe to you, O earth and sea, for the devil has come down to you in great wrath, because he knows that his time is short!"
+> \textsuperscript{7}And there was war in heaven, Michael and his angels waging war with the dragon. The dragon and his angels waged war, \textsuperscript{8}and they were not strong enough, and there was no longer a place found for them in heaven. \textsuperscript{9}And the great dragon was thrown down, the serpent of old who is called the devil and Satan, who deceives the whole world; he was thrown down to the earth, and his angels were thrown down with him. \textsuperscript{10}Then I heard a loud voice in heaven, saying, 'Now the salvation, and the power, and the kingdom of our God and the authority of His Christ have come, for the accuser of our brethren has been thrown down, he who accuses them before our God day and night. \textsuperscript{11}'And they overcame him because of the blood of the Lamb and because of the word of their testimony, and they did not love their life even when faced with death. \textsuperscript{12}'For this reason, rejoice, O heavens and you who dwell in them. Woe to the earth and the sea, because the devil has come down to you, having great wrath, knowing that he has *only* a short time.'
 
-> \textsuperscript{13}And when the dragon saw that he had been thrown down to the earth, he pursued the woman who had given birth to the male child. \textsuperscript{14}But the woman was given the two wings of the great eagle so that she might fly from the serpent into the wilderness, to the place where she is to be nourished for a time, and times, and half a time. \textsuperscript{15}The serpent poured water like a river out of his mouth after the woman, to sweep her away with a flood. \textsuperscript{16}But the earth came to the help of the woman, and the earth opened its mouth and swallowed the river that the dragon had poured from his mouth. \textsuperscript{17}Then the dragon became furious with the woman and went off to make war on the rest of her offspring, on those who keep the commandments of God and hold to the testimony of Jesus. And he stood on the sand of the sea.
+> \textsuperscript{13}And when the dragon saw that he was thrown down to the earth, he persecuted the woman who gave birth to the male *child*. \textsuperscript{14}But the two wings of the great eagle were given to the woman, so that she could fly into the wilderness to her place, where she was nourished for a time and times and half a time, from the presence of the serpent. \textsuperscript{15}And the serpent poured water like a river out of his mouth after the woman, so that he might cause her to be swept away with the flood. \textsuperscript{16}But the earth helped the woman, and the earth opened its mouth and drank up the river which the dragon poured out of his mouth. \textsuperscript{17}So the dragon was enraged with the woman, and went off to make war with the rest of her children, who keep the commandments of God and hold to the testimony of Jesus.
 
 ---
 
@@ -5236,13 +6516,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *sēmeion* | sēmeion | 異象、神蹟、記號 | 婦人與龍都被稱為「異象」（原文同一詞），強調這是屬靈實體的象徵性揭示 |
-| *drakōn* | drakōn | 龍 | 啟示錄中撒但的稱號，出現13次，全部集中在12-20章 |
-| *ophis archaios* | ophis archaios | 古蛇 | 直接連結創世記3章的蛇，確認撒但的身分與歷史根源 |
-| *katēgōr* | katēgōr | 控告者 | 撒但的核心工作是「控告」，與希伯來文「撒但」(satan，意為「控告者、敵對者」)同義 |
-| *nikaō* | nikaō | 勝過、得勝 | 啟示錄的關鍵詞，此處用於「弟兄勝過他」，是全書「得勝者」主題的核心宣告 |
-| *martyria* | martyria | 見證 | 與「羔羊的血」並列，構成得勝的兩大要素 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| σημεῖον | sēmeion | 異象、神蹟、記號 | 婦人與龍都被稱為「異象」（原文同一詞），強調這是屬靈實體的象徵性揭示 |
+| δράκων | drakōn | 龍 | 啟示錄中撒但的稱號，出現13次，全部集中在12-20章 |
+| ὄφις ἀρχαῖος | ophis archaios | 古蛇 | 直接連結創世記3章的蛇，確認撒但的身分與歷史根源 |
+| κατήγωρ | katēgōr | 控告者 | 撒但的核心工作是「控告」，與希伯來文「撒但」(satan，意為「控告者、敵對者」)同義 |
+| νικάω | nikaō | 勝過、得勝 | 啟示錄的關鍵詞，此處用於「弟兄勝過他」，是全書「得勝者」主題的核心宣告 |
+| μαρτυρία | martyria | 見證 | 與「羔羊的血」並列，構成得勝的兩大要素 |
 
 ### 「弟兄勝過他」的三大要素
 
@@ -5250,7 +6530,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 撒但已經在十字架上被擊敗 (Satan Has Already Been Defeated at the Cross)
 
@@ -5270,25 +6550,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 74:12-14
+
+> \textsuperscript{12}神自古以來為我的王，在地上施行拯救。
+> \textsuperscript{13}你曾用能力將海分開，將水中大魚的頭打破。
+> \textsuperscript{14}你曾砸碎鱷魚的頭，把他給曠野的禽獸（禽獸：原文是民）為食物。
+
+「你曾砸碎鱷魚的頭」——第 12 章的大紅龍不是新出現的仇敵，是那條古蛇；而牠的頭，在創世記 3:15 就已經被判定要被傷。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐將這條「古蛇」與創世記3章的蛇直接連結，論證撒但從伊甸園開始、貫穿整個救贖歷史，始終是那同一個敵對神計劃的靈體，而基督降生受死正是要應驗創世記3:15「女人的後裔要傷蛇的頭」這個最早的救贖應許。
+
 > — Irenaeus, *Against Heresies*, Book V, Chapter 21
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁的教會論一貫將舊約蒙揀選的百姓與新約教會理解為同一座「神的城」，歷代相承、蒙神保守；循此讀法，啟示錄12章的婦人正可理解為象徵這歷代蒙神揀選的百姓整體，而非單指某一位個人——她所生的孩子是基督，她因逼迫而逃往曠野，正是教會在世上經歷苦難卻蒙神保守的寫照。
+
 > — 此讀法屬奧古斯丁《上帝之城》教會論一貫立場的延伸應用，並非逐章直引的原文出處
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在他的講章中，特別強調12:11「弟兄勝過他」的宣告，鼓勵當時飽受逼迫的宗教改革信徒：真正的得勝不是逃避苦難，而是靠著基督的血與堅定的見證，即使付上生命的代價也不退縮。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 12
 
 ### 當代釋經
@@ -5296,16 +6595,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，12:11揭示了得勝的完整公式：救恩的根基（羔羊的血）、見證的實踐（所見證的道）、以及甘心捨己的心志（不愛惜性命）；少了任何一環，都不是啟示錄所描述的真實得勝。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本認為，這一章的整體結構清楚顯明：撒但在天上的失敗（7-9節）導致牠在地上加倍的忿怒（12-17節）；逼迫的加劇，恰恰是撒但已經失敗的證據，而非牠仍然得勢的證明。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Soldiers of Christ, Arise
+
+*Charles Wesley, 1749*
+
+> Soldiers of Christ, arise,
+> And put your armor on,
+> Strong in the strength which God supplies
+> Through His eternal Son.
+
+12:11 說得勝有三樣憑據：羔羊的血、自己所見證的道、不愛惜性命至於死。默想：這三樣沒有一樣是能力，全是倚靠與擺上——爭戰得勝的方式，與世界所知道的完全相反。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**婦人是以色列**：麥克阿瑟按 12:1 的日、月、十二星（創37:9-10 約瑟的夢）把婦人斷為以色列——生下男孩子的是這個民族（羅9:5），隨後被龍追殺、在曠野蒙保守的也是她；把婦人讀作教會，會使整章的敘事錯位。
+
+**戰爭其實環繞一個嬰孩**：從 12:4 龍蹲在婦人面前等著吞吃孩子，他把整部舊約讀成一場漫長的暗殺行動——從該隱、法老殺男嬰到希律屠伯利恆，都是創3:15 那場古老敵意的展開；而孩子已「被提到神寶座那裡去了」——刺殺失敗了。
+
+**控告者被摔下來**：12:10 撒但的頭銜是「在我們神面前晝夜控告我們弟兄的」。他指出信徒得勝的依據在 12:11 排第一的是「羔羊的血」——血使一切控告失去案由；不明白這一點的信徒，會一生活在已被駁回的控告之下。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：婦人與龍 (Ask Elder Wong)
 
@@ -5421,13 +6748,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 13:1-10
 
-**經文核對**：[ai-eden.com/bible/revelation/13](https://www.ai-eden.com/bible/revelation/13?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/13](https://www.ai-eden.com/bible/revelation/13?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 龍在12章戰敗之後，並未消失，而是站在海邊的沙上，召喚一個代理者登場——從海中上來的獸，擁有龍所給予的能力、座位和大權柄。這獸模仿基督：牠有「似乎受了死傷，那死傷卻醫好了」的經歷，模仿基督死而復活的樣式，企圖竊取世人的敬拜。但經文清楚指出敬拜的界線——「凡住在地上、名字從創世以來沒有記在被殺之羔羊生命冊上的人，都要拜他」。這句話把整章的焦點重新拉回：真正的問題不是這獸有多可怕，而是你的名字在不在「被殺之羔羊」的生命冊上。全章從頭到尾，都是在襯托那位真正配得敬拜的羔羊。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Lead On, O King Eternal**
+> *Ernest W. Shurtleff, 1887*
+>
+> Lead on, O King eternal,
+> The day of march has come;
+> Henceforth in fields of conquest
+> Thy tents shall be our home.
+>
+> 永恆的君王，求你前導，
+> 出征的日子已經來到；
+> 從此在爭戰的疆場上，
+> 你的營幕就是我家。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -5439,13 +6784,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{9}凡有耳的，就應當聽！\textsuperscript{10}擄掠人的，必被擄掠；用刀殺人的，必被刀殺。聖徒的忍耐和信心就是在此。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}And I saw a beast rising out of the sea, with ten horns and seven heads, with ten diadems on its horns and blasphemous names on its heads. \textsuperscript{2}And the beast that I saw was like a leopard; its feet were like a bear's, and its mouth was like a lion's mouth. And to it the dragon gave his power and his throne and great authority. \textsuperscript{3}One of its heads seemed to have a mortal wound, but its mortal wound was healed, and the whole earth marveled as they followed the beast. \textsuperscript{4}And they worshiped the dragon, for he had given his authority to the beast, and they worshiped the beast, saying, "Who is like the beast, and who can fight against it?"
+> \textsuperscript{1}And the dragon stood on the sand of the seashore. Then I saw a beast coming up out of the sea, having ten horns and seven heads, and on his horns *were* ten diadems, and on his heads *were* blasphemous names. \textsuperscript{2}And the beast which I saw was like a leopard, and his feet were like *those* of a bear, and his mouth like the mouth of a lion. And the dragon gave him his power and his throne and great authority. \textsuperscript{3}*I saw* one of his heads as if it had been slain, and his fatal wound was healed. And the whole earth was amazed *and followed* after the beast; \textsuperscript{4}they worshiped the dragon because he gave his authority to the beast; and they worshiped the beast, saying, 'Who is like the beast, and who is able to wage war with him?'
 
-> \textsuperscript{5}And the beast was given a mouth uttering haughty and blasphemous words, and it was allowed to exercise authority for forty-two months. \textsuperscript{6}It opened its mouth to utter blasphemies against God, blaspheming his name and his dwelling, that is, those who dwell in heaven. \textsuperscript{7}Also it was allowed to make war on the saints and to conquer them. And authority was given it over every tribe and people and language and nation, \textsuperscript{8}and all who dwell on earth will worship it, everyone whose name has not been written before the foundation of the world in the book of life of the Lamb who was slain.
+> \textsuperscript{5}There was given to him a mouth speaking arrogant words and blasphemies, and authority to act for forty-two months was given to him. \textsuperscript{6}And he opened his mouth in blasphemies against God, to blaspheme His name and His tabernacle, *that is*, those who dwell in heaven. \textsuperscript{7}It was also given to him to make war with the saints and to overcome them, and authority over every tribe and people and tongue and nation was given to him. \textsuperscript{8}All who dwell on the earth will worship him, *everyone* whose name has not been written from the foundation of the world in the book of life of the Lamb who has been slain.
 
-> \textsuperscript{9}If anyone has an ear, let him hear: \textsuperscript{10}If anyone is to be taken captive, to captivity he goes; if anyone is to be slain with the sword, with the sword must he be slain. Here is a call for the endurance and faith of the saints.
+> \textsuperscript{9}If anyone has an ear, let him hear. \textsuperscript{10}If anyone *is destined* for captivity, to captivity he goes; if anyone kills with the sword, with the sword he must be killed. Here is the perseverance and the faith of the saints.
 
 ---
 
@@ -5464,13 +6809,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *thērion* | thērion | 獸 | 啟示錄13-19章的關鍵詞，出現超過30次，強調其獸性、非人性的本質 |
-| *diadēma* | diadēma | 冠冕（王冠） | 與2:10、3:11提到得勝者的「冠冕」（*stephanos*）是不同的字，此處特指王權的冠冕 |
-| *blasphēmia* | blasphēmia | 褻瀆 | 出現在獸的名號、獸的口中，強調牠公然褻瀆神的本質 |
-| *plēgē thanatou* | plēgē thanatou | 死傷、致命的創傷 | 字面意為「死亡的打擊」，用來描述獸的頭部似乎致命卻又痊癒的傷 |
-| *proskyneō* | proskyneō | 敬拜、俯伏 | 全章的核心動詞，反覆出現，強調敬拜對象的爭奪是整章的核心議題 |
-| *hypomonē* | hypomonē | 忍耐 | 與「信心」並列，是啟示錄一貫呼籲聖徒在患難中持守的兩大德行 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| θηρίον | thērion | 獸 | 啟示錄13-19章的關鍵詞，出現超過30次，強調其獸性、非人性的本質 |
+| διάδημα | diadēma | 冠冕（王冠） | 與2:10、3:11提到得勝者的「冠冕」（*stephanos*）是不同的字，此處特指王權的冠冕 |
+| βλασφημία | blasphēmia | 褻瀆 | 出現在獸的名號、獸的口中，強調牠公然褻瀆神的本質 |
+| πληγὴ θανάτου | plēgē thanatou | 死傷、致命的創傷 | 字面意為「死亡的打擊」，用來描述獸的頭部似乎致命卻又痊癒的傷 |
+| προσκυνέω | proskyneō | 敬拜、俯伏 | 全章的核心動詞，反覆出現，強調敬拜對象的爭奪是整章的核心議題 |
+| ὑπομονή | hypomonē | 忍耐 | 與「信心」並列，是啟示錄一貫呼籲聖徒在患難中持守的兩大德行 |
 
 ### 「凡有耳的，就應當聽」的呼籲
 
@@ -5478,7 +6823,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 獸的權柄是被允許的、有限的 (The Beast's Authority Is Permitted and Limited)
 
@@ -5498,25 +6843,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 10:16-18
+
+> \textsuperscript{16}耶和華永永遠遠為王；外邦人從他的地已經滅絕了。
+> \textsuperscript{17}耶和華啊，謙卑人的心願，你早已知道（原文是聽見）。你必預備他們的心，也必側耳聽他們的祈求，
+> \textsuperscript{18}為要給孤兒和受欺壓的人伸冤，使強橫的人不再威嚇他們。
+
+「耶和華永永遠遠為王」——第 13 章的獸得了權柄「四十二個月」，有期限；詩人所宣告的王權，沒有期限。獸的可怕在於凶暴，牠的虛弱在於短暫。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在論到獸與敵基督的身分時，特別謹慎——他列舉了幾個可能的名字解法（透過希臘文字母的數值換算），卻明確拒絕武斷地指認一個具體的歷史人物，主張這樣的推測本身就充滿風險，教會應當謹守經文所啟示的原則，而非過度延伸猜測。
+
 > — Irenaeus, *Against Heresies*, Book V, Chapter 30
 
-**維克多林 (Victorinus of Pettau, c. 260-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將這獸與羅馬帝國的皇帝崇拜直接連結，認為第一世紀的讀者能夠清楚辨認：那要求敬拜、逼迫不肯妥協之基督徒的權勢，正是他們身處的羅馬帝國體制本身。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 13
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在他的講章中強調，這獸所代表的，不僅僅是某個特定的歷史人物或政權，更是每個世代都可能出現、要求人以某種形式敬拜世俗權柄、與神爭奪忠誠的體制性力量，教會需要在每個世代中保持警醒。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 13
 
 ### 當代釋經
@@ -5524,16 +6888,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟認為，這獸最深層的本質，是要取代神在人心中的地位——牠要求的不只是政治上的服從，更是宗教式的敬拜；每個世代都有這種要求人以終極忠誠獻給世俗權勢的壓力，信徒必須清楚分辨。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯指出，獸模仿羔羊死而復活的樣式，正說明了邪惡最危險的形式不是公然的敵對，而是巧妙的模仿——它借用真理的外殼，卻掏空其中的實質。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O God of Earth and Altar
+
+*G. K. Chesterton, 1906*
+
+> O God of earth and altar,
+> Bow down and hear our cry;
+> Our earthly rulers falter,
+> Our people drift and die.
+
+13:4 說「誰能比這獸，誰能與牠交戰呢？」——這是拜偶像最原始的邏輯：把不可抵擋當作值得敬拜。默想：本章沒有給信徒一句反擊的口號，只給了一句「聖徒的忍耐和信心就是在此」。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**敵基督是撒但的傑作**：麥克阿瑟把海中上來的獸讀作末期真實的世界統治者——龍給牠能力、座位、權柄（13:2），是撒但對「道成肉身」的黑暗模仿；牠的死傷醫好（13:3）則是對復活的仿冒。
+
+**權柄是「賜給」的**：他數算本章反覆出現的被動語態——「賜給牠說誇大褻瀆話的口」「任憑牠與聖徒爭戰」（13:5-7）——連獸最猖狂的四十二個月，都在神許可的框架之內；這是受逼迫教會能站立的地基。
+
+**聖徒的武器是忍耐和信心**：13:10 的結語不是呼籲反抗，而是「聖徒的忍耐和信心就是在此」。他指出：面對不可抵擋的強權，教會的得勝方式從來不是奪權，而是至死忠心——與 12:11 一脈相承。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：從海中上來的獸 (Ask Elder Wong)
 
@@ -5649,13 +7041,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 13:11-18
 
-**經文核對**：[ai-eden.com/bible/revelation/13](https://www.ai-eden.com/bible/revelation/13?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/13](https://www.ai-eden.com/bible/revelation/13?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 從海中上來的獸有王冠、有寶座、有權柄，一望而知是仿冒的君王；但從地中上來的這一個，樣子卻溫馴——「有兩角如同羊羔」。牠不篡奪寶座，牠只做一件事：把所有目光引向前一個獸，叫全地拜牠。這正是啟示錄最鋒利的警告：最危險的仇敵，往往不是張牙舞爪地與羔羊為敵，而是披著羔羊的樣式、說著龍的話語，把敬拜從真羔羊身上偷走。約翰在此讓我們看見，唯有那位真正被殺又真活著的羔羊，才配受敬拜；一切仿冒者，無論裝扮得多麼溫馴、多麼有能力行奇事，終究只是指向自己而非指向神的空殼。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Be Thou My Vision**
+> *Ancient Irish hymn (8th c.); tr. Mary E. Byrne, 1905; versified Eleanor H. Hull, 1912*
+>
+> Be Thou my vision, O Lord of my heart;
+> Naught be all else to me, save that Thou art—
+> Thou my best thought, by day or by night,
+> Waking or sleeping, Thy presence my light.
+>
+> 求主作我異象，我心之主宰；
+> 除你以外，萬事於我無所愛——
+> 你是我晝夜最美的意念，
+> 或醒或睡，你的同在是我光。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -5667,13 +7077,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{18}在這裡有智慧：凡有聰明的，可以算計獸的數目；因為這是人的數目，他的數目是六百六十六。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{11}Then I saw another beast rising out of the earth. It had two horns like a lamb and it spoke like a dragon. \textsuperscript{12}It exercises all the authority of the first beast in its presence, and makes the earth and its inhabitants worship the first beast, whose mortal wound was healed. \textsuperscript{13}It performs great signs, even making fire come down from heaven to earth in front of people,
+> \textsuperscript{11}Then I saw another beast coming up out of the earth; and he had two horns like a lamb and he spoke as a dragon. \textsuperscript{12}He exercises all the authority of the first beast in his presence. And he makes the earth and those who dwell in it to worship the first beast, whose fatal wound was healed. \textsuperscript{13}He performs great signs, so that he even makes fire come down out of heaven to the earth in the presence of men.
 
-> \textsuperscript{14}and by the signs that it is allowed to work in the presence of the beast it deceives those who dwell on earth, telling them to make an image for the beast that was wounded by the sword and yet lived. \textsuperscript{15}And it was allowed to give breath to the image of the beast, so that the image of the beast might even speak and might cause those who would not worship the image of the beast to be slain. \textsuperscript{16}Also it causes all, both small and great, both rich and poor, both free and slave, to be marked on the right hand or the forehead, \textsuperscript{17}so that no one can buy or sell unless he has the mark, that is, the name of the beast or the number of its name.
+> \textsuperscript{14}And he deceives those who dwell on the earth because of the signs which it was given him to perform in the presence of the beast, telling those who dwell on the earth to make an image to the beast who had the wound of the sword and has come to life. \textsuperscript{15}And it was given to him to give breath to the image of the beast, so that the image of the beast would even speak and cause as many as do not worship the image of the beast to be killed. \textsuperscript{16}And he causes all, the small and the great, and the rich and the poor, and the free men and the slaves, to be given a mark on their right hand or on their forehead, \textsuperscript{17}and *he provides* that no one will be able to buy or to sell, except the one who has the mark, *either* the name of the beast or the number of his name.
 
-> \textsuperscript{18}This calls for wisdom: let the one who has understanding calculate the number of the beast, for it is the number of a man, and his number is 666.
+> \textsuperscript{18}Here is wisdom. Let him who has understanding calculate the number of the beast, for the number is that of a man; and his number is six hundred and sixty-six.
 
 ---
 
@@ -5692,12 +7102,12 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *arnion* | arnion | 小羊羔 | 全書用來稱呼基督的常用詞（29次），此處卻用在假先知的外貌上，形成刻意的反諷 |
-| *planaō* | planaō | 迷惑、引入歧途 | 13:14；假先知的核心工作就是「迷惑」，與啟12:9龍「迷惑普天下」呼應 |
-| *charagma* | charagma | 印記、烙印 | 通常指皇帝肖像鑄印在錢幣上的官方印記，此處轉指效忠獸的記號 |
-| *psēphizō* | psēphizō | 計算、核算 | 13:18；原指用石子計數，暗示這數目需要智慧與細心才能算出 |
-| *arithmos anthrōpou* | arithmos anthrōpou | 人的數目 | 強調這數目屬乎「人」的範疇，是受造的、有限的，並非神聖的 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ἀρνίον | arnion | 小羊羔 | 全書用來稱呼基督的常用詞（29次），此處卻用在假先知的外貌上，形成刻意的反諷 |
+| πλανάω | planaō | 迷惑、引入歧途 | 13:14；假先知的核心工作就是「迷惑」，與啟12:9龍「迷惑普天下」呼應 |
+| χάραγμα | charagma | 印記、烙印 | 通常指皇帝肖像鑄印在錢幣上的官方印記，此處轉指效忠獸的記號 |
+| ψηφίζω | psēphizō | 計算、核算 | 13:18；原指用石子計數，暗示這數目需要智慧與細心才能算出 |
+| ἀριθμὸς ἀνθρώπου | arithmos anthrōpou | 人的數目 | 強調這數目屬乎「人」的範疇，是受造的、有限的，並非神聖的 |
 
 ### 「666」的計算方式
 
@@ -5705,7 +7115,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 溫馴的外表可能藏著最深的迷惑 (A Gentle Appearance May Hide the Deepest Deception)
 
@@ -5725,20 +7135,39 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 12:1-4
+
+> \textsuperscript{1}（大衛的詩，交與伶長。調用第八。）耶和華啊，求你幫助，因虔誠人斷絕了；世人中間的忠信人沒有了。
+> \textsuperscript{2}人人向鄰舍說謊；他們說話，是嘴唇油滑，心口不一。
+> \textsuperscript{3}凡油滑的嘴唇和誇大的舌頭，耶和華必要剪除。
+> \textsuperscript{4}他們曾說：我們必能以舌頭得勝；我們的嘴唇是我們自己的，誰能作我們的主呢？
+
+「人人向鄰舍說謊；他們說話，是嘴唇油滑，心口不一」——地中上來的獸「有兩角如同羊羔，說話好像龍」(13:11)。外貌像羔羊、聲音是龍——詩篇 12 篇早已描寫過這種口舌的世界。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在《駁異端》第五卷專門討論了666這個數字，他提出了幾個候選的希臘文姓名（包括Lateinos、Teitan等），但特別謹慎地表示，與其冒然猜測敵基督確切的名字，不如謹守約翰的原意——凡自稱、或被高舉為當拜之對象、卻不是那位真正的基督者，都帶著這仿冒者的印記；他更強調，教會應當等候真確的啟示應驗，而非急於下定論。
+
 > — Irenaeus, *Against Heresies*, Book V, Chapter 30
 
-### 宗教改革與清教徒時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 在其百篇啟示錄講道集中，布靈格將地中的獸解讀為披著宗教外衣、卻服事屬世權勢的假教導體系——牠的角「如同羊羔」，正說明牠慣於借用信仰的語言與外貌，來為悖逆真道的體系背書；他提醒讀者，教會歷史一再證明，最危險的迷惑往往來自教會內部披戴著敬虔外衣的聲音，而非教會外顯而易見的敵對者。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon on Revelation 13
 
 ### 當代釋經
@@ -5746,16 +7175,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其新約注釋中指出，第二個獸的角色是動用屬靈與超自然的欺騙手段，強逼世人敬拜敵基督；牠「兩角如同羊羔」的樣式，正是刻意模仿基督，把自己包裝成溫和無害、甚至屬靈的形象，藉此降低世人的戒心。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其注釋中強調，印記制度所描繪的是一個全面控制經濟生活的體系，敬拜的抉擇與日常生存的抉擇被緊緊綁在一起；他提醒讀者，約翰要讓原初讀者明白，忠於羔羊很可能要付上具體、看得見的經濟代價。
+
 > — Grant Osborne, *Revelation*, Baker Exegetical Commentary on the New Testament (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Once to Every Man and Nation
+
+*James Russell Lowell, 1845*
+
+> Once to every man and nation
+> Comes the moment to decide,
+> In the strife of truth with falsehood,
+> For the good or evil side.
+
+666 的計算引來歷代無數猜測，但本章的重點不是解謎，是分辨：額上或是有羔羊父的名（14:1），或是有獸的印記——沒有第三個選項。默想：印記的本質不是符號，是歸屬。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**假先知：宗教包裝的權力**：麥克阿瑟把地中上來的獸（後文明稱「假先知」，16:13; 19:20）讀作末期的宗教領袖——羊羔的角、龍的聲音（13:11），職務是叫地上的人拜第一個獸；撒但的體系至此湊成一個完整的仿冒三一。
+
+**神蹟不是真理的充分證據**：13:13-14 假先知能行大奇事、甚至叫火從天降下。他以此立一條分辨原則：超自然現象本身證明不了甚麼，申命記13章早已警告——行神蹟而引人拜別神的，正是要除滅的假先知。
+
+**666：總歸是人**：對這個引發無窮猜測的數字，他的立場克制：六是人的數字（人受造於第六日），三個六是「人到極致、仍差一步到七」——敵基督無論多像神，終究是人；謎底不在演算法，在這個對比裡。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：從地中上來的獸 (Ask Elder Wong)
 
@@ -5878,13 +7335,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 14:1-13
 
-**經文核對**：[ai-eden.com/bible/revelation/14](https://www.ai-eden.com/bible/revelation/14?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/14](https://www.ai-eden.com/bible/revelation/14?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 十三章結束在獸與假先知營造出的巨大恐懼與經濟壓迫之中；十四章一開篇，鏡頭猛然一轉——「我又觀看，見羔羊站在錫安山」。仇敵剛剛還在地上耀武揚威，這裡卻立刻讓我們看見：羔羊已經站穩了，而且不是孤身一人，是與十四萬四千人一同站立。這是啟示錄慣用的敘事手法——每當黑暗顯得快要得勝，作者總會拉開幔子，讓我們看一眼寶座那邊早已底定的結局。羔羊站立的姿態本身就是宣告：無論獸的印記多麼具有脅迫性，真正得勝的，是站在羔羊那邊、額上寫著祂名字的人。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Glorious Things of Thee Are Spoken**
+> *John Newton, 1779*
+>
+> Glorious things of thee are spoken,
+> Zion, city of our God;
+> He whose word cannot be broken
+> Formed thee for His own abode.
+>
+> 榮耀之事已論到你，
+> 錫安，我們神的城；
+> 那話語永不落空的主，
+> 造你作祂自己的居所。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -5900,17 +7375,17 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{13}我聽見從天上有聲音說：「你要寫下：從今以後，在主裡面而死的人有福了！」聖靈說：「是的，他們息了自己的勞苦，作工的果效也隨著他們。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then I looked, and behold, on Mount Zion stood the Lamb, and with him 144,000 who had his name and his Father's name written on their foreheads. \textsuperscript{2}And I heard a voice from heaven like the roar of many waters and like the sound of loud thunder. The voice I heard was like the sound of harpists playing on their harps, \textsuperscript{3}and they were singing a new song before the throne and before the four living creatures and before the elders. No one could learn that song except the 144,000 who had been redeemed from the earth. \textsuperscript{4}It is these who have not defiled themselves with women, for they are virgins. It is these who follow the Lamb wherever he goes. These have been redeemed from mankind as firstfruits for God and the Lamb, \textsuperscript{5}and in their mouth no lie was found, for they are blameless.
+> \textsuperscript{1}Then I looked, and behold, the Lamb *was* standing on Mount Zion, and with Him one hundred and forty-four thousand, having His name and the name of His Father written on their foreheads. \textsuperscript{2}And I heard a voice from heaven, like the sound of many waters and like the sound of loud thunder, and the voice which I heard *was* like *the sound* of harpists playing on their harps. \textsuperscript{3}And they sang a new song before the throne and before the four living creatures and the elders; and no one could learn the song except the one hundred and forty-four thousand who had been purchased from the earth. \textsuperscript{4}These are the ones who have not been defiled with women, for they have kept themselves chaste. These *are* the ones who follow the Lamb wherever He goes. These have been purchased from among men as first fruits to God and to the Lamb. \textsuperscript{5}And no lie was found in their mouth; they are blameless.
 
-> \textsuperscript{6}Then I saw another angel flying directly overhead, with an eternal gospel to proclaim to those who dwell on earth, to every nation and tribe and language and people. \textsuperscript{7}And he said with a loud voice, "Fear God and give him glory, because the hour of his judgment has come, and worship him who made heaven and earth, the sea and the springs of water."
+> \textsuperscript{6}And I saw another angel flying in midheaven, having an eternal gospel to preach to those who live on the earth, and to every nation and tribe and tongue and people; \textsuperscript{7}and he said with a loud voice, 'Fear God, and give Him glory, because the hour of His judgment has come; worship Him who made the heaven and the earth and sea and springs of waters.'
 
-> \textsuperscript{8}Another angel, a second, followed, saying, "Fallen, fallen is Babylon the great, she who made all nations drink the wine of the passion of her sexual immorality."
+> \textsuperscript{8}And another angel, a second one, followed, saying, 'Fallen, fallen is Babylon the great, she who has made all the nations drink of the wine of the passion of her immorality.'
 
-> \textsuperscript{9}And another angel, a third, followed them, saying with a loud voice, "If anyone worships the beast and its image and receives a mark on his forehead or on his hand, \textsuperscript{10}he also will drink the wine of God's wrath, poured full strength into the cup of his anger, and he will be tormented with fire and sulfur in the presence of the holy angels and in the presence of the Lamb. \textsuperscript{11}And the smoke of their torment goes up forever and ever, and they have no rest, day or night, these worshipers of the beast and its image, and whoever receives the mark of its name." \textsuperscript{12}Here is a call for the endurance of the saints, those who keep the commandments of God and their faith in Jesus.
+> \textsuperscript{9}Then another angel, a third one, followed them, saying with a loud voice, 'If anyone worships the beast and his image, and receives a mark on his forehead or on his hand, \textsuperscript{10}he also will drink of the wine of the wrath of God, which is mixed in full strength in the cup of His anger; and he will be tormented with fire and brimstone in the presence of the holy angels and in the presence of the Lamb. \textsuperscript{11}'And the smoke of their torment goes up forever and ever; they have no rest day and night, those who worship the beast and his image, and whoever receives the mark of his name.' \textsuperscript{12}Here is the perseverance of the saints who keep the commandments of God and their faith in Jesus.
 
-> \textsuperscript{13}And I heard a voice from heaven saying, "Write this: Blessed are the dead who die in the Lord from now on." "Blessed indeed," says the Spirit, "that they may rest from their labors, for their deeds follow them!"
+> \textsuperscript{13}And I heard a voice from heaven, saying, 'Write, 'Blessed are the dead who die in the Lord from now on!'' 'Yes,' says the Spirit, 'so that they may rest from their labors, for their deeds follow with them.'
 
 ---
 
@@ -5929,12 +7404,12 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *aparchē* | aparchē | 初熟的果子 | 14:4；舊約獻祭用語，指最先且屬神的部分，象徵這群人完全歸屬於神 |
-| *euangelion aiōnion* | euangelion aiōnion | 永遠的福音 | 14:6；啟示錄中唯一一次用「福音」一詞，強調這信息貫穿古今、永不改變 |
-| *epesen epesen* | epesen epesen | 傾倒了！傾倒了！ | 14:8；重複的過去式動詞，宣告巴比倫的敗落是已成定局的事，雖然實際傾覆要到17-18章才詳述 |
-| *thymos* | thymos | 忿怒、烈怒 | 14:8, 10；與*orgē*（神長久的義怒）並用，強調審判的猛烈與立即性 |
-| *hypomonē* | hypomonē | 忍耐、堅忍 | 14:12；啟示錄的關鍵德性之一，不是消極的忍受，而是在壓力下持守到底的主動堅持 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ἀπαρχή | aparchē | 初熟的果子 | 14:4；舊約獻祭用語，指最先且屬神的部分，象徵這群人完全歸屬於神 |
+| εὐαγγέλιον αἰώνιον | euangelion aiōnion | 永遠的福音 | 14:6；啟示錄中唯一一次用「福音」一詞，強調這信息貫穿古今、永不改變 |
+| ἔπεσεν ἔπεσεν | epesen epesen | 傾倒了！傾倒了！ | 14:8；重複的過去式動詞，宣告巴比倫的敗落是已成定局的事，雖然實際傾覆要到17-18章才詳述 |
+| θυμός | thymos | 忿怒、烈怒 | 14:8, 10；與*orgē*（神長久的義怒）並用，強調審判的猛烈與立即性 |
+| ὑπομονή | hypomonē | 忍耐、堅忍 | 14:12；啟示錄的關鍵德性之一，不是消極的忍受，而是在壓力下持守到底的主動堅持 |
 
 ### 「新歌」與「無人能學」
 
@@ -5942,7 +7417,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 得勝的群體早已站穩，審判尚未開始 (The Overcoming Company Already Stands Firm Before Judgment Unfolds)
 
@@ -5962,20 +7437,38 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 48:1-3
+
+> \textsuperscript{1}（可拉後裔的詩歌。）耶和華本為大！在我們神的城中，在他的聖山上，該受大讚美。
+> \textsuperscript{2}錫安山─大君王的城，在北面居高華美，為全地所喜悅。
+> \textsuperscript{3}神在其宮中，自顯為避難所。
+
+「錫安山──大君王的城」——羔羊站在錫安山上，同著十四萬四千人。詩篇 48 篇所頌讚的那座山，在第 14 章成了羔羊與屬祂之人站立的地方。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, d. c. 304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在他現存最早的啟示錄註釋中，將十四萬四千人與地上教會的完整群體相連，指出這數字（12x12x1000）本身就宣告著：屬神百姓的完整性，不多不少，是神親自數點、親自保守的群體；他特別強調第13節「在主裡面而死的人有福了」，正是對當時面對逼迫（包括他自己最終也殉道）之信徒最直接的安慰。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 14
 
-### 宗教改革與清教徒時期
+### 改革宗時期
 
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在他的聖經註釋中特別看重「作工的果效也隨著他們」這句話，指出這不是說行為能使人得救，而是說信徒憑信心所結的果子——他們的忍耐、忠心、愛心——不會被審判的火燒盡，而要在永恆裡顯明並蒙記念；這對在世上勞苦卻似乎徒然的信徒，是極大的激勵。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 14
 
 ### 當代釋經
@@ -5983,16 +7476,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯在其注釋中指出，三位天使所傳的信息構成一個完整的宣告：呼召人敬拜真神（第一位天使）、宣告一切悖逆體系終必傾覆（第二位天使）、警告拜獸者將面臨的審判（第三位天使）；他認為這三重信息在審判即將展開之際，是向普世發出的最後呼籲。
+
 > — Robert Mounce, *The Book of Revelation*, New International Commentary on the New Testament (NICNT)（大意整理，非逐字翻譯）
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟認為，十四萬四千人站在錫安山上這幅圖畫要傳達的核心信息是：無論仇敵看似多麼得勢，神的百姓終必安然站立，一個也不會失落。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### How Sweet the Name of Jesus Sounds
+
+*John Newton, 1779*
+
+> How sweet the name of Jesus sounds
+> In a believer's ear!
+> It soothes his sorrows, heals his wounds,
+> And drives away his fear.
+
+十四萬四千人「額上都寫著他的名和他父的名」——與 13 章獸的印記針鋒相對。默想：他們唱的新歌「除了那十四萬四千人以外，沒有人能學」——有些詩歌，只有走過那條路的人才唱得出來。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**從獸的印記到父的名**：麥克阿瑟指出 13 與 14 章的接縫是刻意的：上一幕人人被迫受獸的印記，下一幕鏡頭切到錫安山——十四萬四千人額上寫著羔羊與父的名。歷史的終局不是獸的登基，而是羔羊與屬他之人的站立。
+
+**唯有走過那條路的人能學的歌**：14:3 的新歌「除了……十四萬四千人以外，沒有人能學」。他讀作經歷的專屬性：有些讚美，只能從特定的患難裡長出來；神不浪費他百姓的任何眼淚。
+
+**永遠的福音與最後的呼召**：三位天使的信息（14:6-11）他讀作審判前最後的全球佈道——「要敬畏神，把榮耀歸給他」；隨後 14:13 立刻接上「在主裡面而死的人有福了」——福音、審判、安息，三者在同一段裡並肩而立。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：羔羊與十四萬四千人 (Ask Elder Wong)
 
@@ -6114,13 +7635,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 14:14-20
 
-**經文核對**：[ai-eden.com/bible/revelation/14](https://www.ai-eden.com/bible/revelation/14?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/14](https://www.ai-eden.com/bible/revelation/14?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 三位天使的信息剛剛宣告完畢——永遠的福音、巴比倫的傾覆、拜獸者的警告——約翰的異象立刻轉向收割的畫面。雲上坐著的「好像人子」，頭戴金冠冕，手拿快鐮刀，這稱謂直接呼應啟示錄1:13約翰所見「好像人子」的那一位，也呼應但以理書7:13-14「有一位像人子的，駕著天雲而來」。收割與踹酒醡，不是兩個獨立的意象，而是同一位掌管歷史的主，用兩幅圖畫宣告同一件事：祂決定收割的時候，也決定審判的分量。這一段沒有記載祂說一句話，只記載祂「把鐮刀扔在地上」——動作本身就是宣告，比言語更直接。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Come, Ye Thankful People, Come**
+> *Henry Alford, 1844*
+>
+> Come, ye thankful people, come,
+> Raise the song of harvest home;
+> All is safely gathered in,
+> Ere the winter storms begin.
+>
+> 感恩的群眾，都來吧，
+> 高唱收成歸家之歌；
+> 一切都已安然收聚，
+> 在冬日風暴來臨之前。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -6130,11 +7669,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{17}又有一位天使從天上的殿中出來，他也拿著快鐮刀。\textsuperscript{18}又有一位天使從祭壇中出來，是有權柄管火的，向拿著快鐮刀的大聲喊著說：「伸出快鐮刀來，收取地上葡萄樹的果子，因為葡萄熟透了！」\textsuperscript{19}那天使就把鐮刀扔在地上，收取了地上的葡萄，丟在神忿怒的大酒醡中。\textsuperscript{20}那酒醡踹在城外，就有血從酒醡裡流出來，高到馬的嚼環，遠有六百里。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{14}Then I looked, and behold, a white cloud, and seated on the cloud one like a son of man, with a golden crown on his head, and a sharp sickle in his hand. \textsuperscript{15}And another angel came out of the temple, calling with a loud voice to him who sat on the cloud, "Put in your sickle, and reap, for the hour to reap has come, for the harvest of the earth is fully ripe." \textsuperscript{16}So he who sat on the cloud swung his sickle across the earth, and the earth was reaped.
+> \textsuperscript{14}Then I looked, and behold, a white cloud, and sitting on the cloud *was* one like a son of man, having a golden crown on His head and a sharp sickle in His hand. \textsuperscript{15}And another angel came out of the temple, crying out with a loud voice to Him who sat on the cloud, 'Put in your sickle and reap, for the hour to reap has come, because the harvest of the earth is ripe.' \textsuperscript{16}Then He who sat on the cloud swung His sickle over the earth, and the earth was reaped.
 
-> \textsuperscript{17}Then another angel came out of the temple in heaven, and he too had a sharp sickle. \textsuperscript{18}And another angel came out from the altar, the angel who has authority over the fire, and he called with a loud voice to the one who had the sharp sickle, "Put in your sickle and gather the clusters from the vine of the earth, for its grapes are ripe." \textsuperscript{19}So the angel swung his sickle across the earth and gathered the grape harvest of the earth and threw it into the great winepress of the wrath of God. \textsuperscript{20}And the winepress was trodden outside the city, and blood flowed from the winepress, as high as a horse's bridle, for 1,600 stadia.
+> \textsuperscript{17}And another angel came out of the temple which is in heaven, and he also had a sharp sickle. \textsuperscript{18}Then another angel, the one who has power over fire, came out from the altar; and he called with a loud voice to him who had the sharp sickle, saying, 'Put in your sharp sickle and gather the clusters from the vine of the earth, because her grapes are ripe.' \textsuperscript{19}So the angel swung his sickle to the earth and gathered *the clusters from* the vine of the earth, and threw them into the great wine press of the wrath of God. \textsuperscript{20}And the wine press was trodden outside the city, and blood came out from the wine press, up to the horses' bridles, for a distance of two hundred miles.
 
 ---
 
@@ -6153,14 +7692,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *therismos* | therismos | 收割 | 呼應太13:39「收割的時候就是世界的末了」 |
-| *drepanon* | drepanon | 鐮刀 | 本段出現7次，是整段的核心器具 |
-| *exēranthē* | xēranō (完成式) | 熟透了、乾透了 | 直譯「已經枯乾」，指穀物完全成熟可收 |
-| *lēnos* | lēnos | 酒醡、榨酒槽 | 賽63:2 LXX同詞，連結以賽亞的審判異象 |
-| *thymos* | thymos | 忿怒、烈怒 | 與 *orgē*（義怒）並用時，*thymos* 強調爆發性的一面 |
-| *epatēthē* | pateō (被動式) | 被踹踏 | 動詞被動語態，暗示這踹踏是被執行、非自然發生 |
-| *chalinos* | chalinos | 馬嚼環 | 誇張手法，形容血流之深廣 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| θερισμός | therismos | 收割 | 呼應太13:39「收割的時候就是世界的末了」 |
+| δρέπανον | drepanon | 鐮刀 | 本段出現7次，是整段的核心器具 |
+| ἐξηράνθη | xēranō (完成式) | 熟透了、乾透了 | 直譯「已經枯乾」，指穀物完全成熟可收 |
+| ληνός | lēnos | 酒醡、榨酒槽 | 賽63:2 LXX同詞，連結以賽亞的審判異象 |
+| θυμός | thymos | 忿怒、烈怒 | 與 *orgē*（義怒）並用時，*thymos* 強調爆發性的一面 |
+| ἐπατήθη | pateō (被動式) | 被踹踏 | 動詞被動語態，暗示這踹踏是被執行、非自然發生 |
+| χαλινός | chalinos | 馬嚼環 | 誇張手法，形容血流之深廣 |
 
 ### 「酒醡」(lēnos) 的雙重回聲
 
@@ -6168,7 +7707,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 莊稼已經熟透——審判有它的時候 (The Harvest Has Its Appointed Hour)
 
@@ -6188,13 +7727,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 1:3-6
+
+> \textsuperscript{3}他要像一棵樹栽在溪水旁，按時候結果子，葉子也不枯乾。凡他所做的盡都順利。
+> \textsuperscript{4}惡人並不是這樣，乃像糠秕被風吹散。
+> \textsuperscript{5}因此，當審判的時候惡人必站立不住；罪人在義人的會中也是如此。
+> \textsuperscript{6}因為耶和華知道義人的道路；惡人的道路卻必滅亡。
+
+「惡人並不是這樣，乃像糠秕被風吹散」——詩篇第 1 篇的兩條路，在 14:14-20 走到終點：一個是莊稼被收進倉，一個是葡萄被扔進酒醡。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在他現存最早的啟示錄註釋中，將這收割與踹酒醡的異象，與以賽亞書63章的酒醡異象並讀，指出約翰刻意讓讀者「先見動作，後見身份」——直到19章白馬騎士出現，讀者才恍然明白14章那位踹醡者是誰。他認為這種敘事手法本身就在教導讀者：神審判的執行者，正是那被釘十字架的羔羊。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*
 
 ### 改革宗時期
@@ -6202,6 +7759,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在他的《聖經註釋》論到這段經文時強調，收割與踹酒醡雖是同一時刻的兩幅圖畫，卻教導信徒兩件事：一是神的審判有祂自己定的「熟透」的時候，人無法催逼也無法拖延；二是被丟進酒醡的血流至馬嚼環之高，是要讓讀者明白，凡抵擋到底、不肯悔改的，其結局的嚴重程度遠超人所能想像。
+
 > — Matthew Henry, *An Exposition of the Old and New Testament*, Revelation
 
 ### 當代釋經
@@ -6209,16 +7767,46 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這收割的畫面不是溫和的比喻，而是最終審判的預演——鐮刀揮下的那一刻，象徵人一生悔改的機會之窗就此關閉。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奥斯本在他的注釋中指出，14:14-20刻意留下一個懸而未決的問題——踹酒醡的天使身份始終模糊，直到19:15才由基督親自「填補」這個空白，這種敘事上的延遲手法，正是啟示錄慣用的「預告—應驗」結構，目的是讓讀者在往後的閱讀中始終惦記著這幅尚未完成的圖畫。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Almost Persuaded
+
+*Philip P. Bliss, 1871*
+
+> 'Almost persuaded' now to believe;
+> 'Almost persuaded' Christ to receive;
+> Seems now some soul to say,
+> 'Go, Spirit, go Thy way,
+> Some more convenient day
+> On Thee I'll call.'
+
+收割的比喻裡最沉重的字是「熟了」(14:15, 18)——莊稼熟了要收，葡萄熟透了也要收。默想：兩種成熟，兩個結局；今天還不是收割的日子，正是恩典的日子。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**兩場收割，一位人子**：麥克阿瑟區分 14:14-16 的莊稼與 14:17-20 的葡萄：前者是聚攏，後者是踹踏——同一位「好像人子」的主，對兩種人執行兩種收成；約3:16 與 14:19 出自同一位神，這是現代人最不肯接受、聖經卻從不迴避的並列。
+
+**「熟了」是時間表的關鍵詞**：天使喊「伸出鐮刀來收割，因為收割的時候已經到了，地上的莊稼已經熟透了」——他強調審判從不提前也不延誤；今日審判未到，不是神遲延，是果子未熟、恩典還在等（彼後3:9）。
+
+**酒醡在城外被踹**：14:20「那酒醡踹在城外」——他提醒讀者，另一位也曾「在城外」受難（來13:12）：各各他在城外流的血是為救人，酒醡在城外流的血是為審判；拒絕前者的人，終要面對後者。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：收割與酒醡 (Ask Elder Wong)
 
@@ -6353,13 +7941,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 15:1-8
 
-**經文核對**：[ai-eden.com/bible/revelation/15](https://www.ai-eden.com/bible/revelation/15?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/15](https://www.ai-eden.com/bible/revelation/15?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 在七碗傾倒之前，約翰先看見一幅出人意料的畫面：不是憤怒的天使，而是站在玻璃海上、拿著神的琴、歡唱「摩西的歌和羔羊的歌」的得勝者。審判即將臨到地上，天上卻先響起敬拜的詩歌——這個次序本身就是一篇無聲的講道：神的百姓看見的，永遠先是神自己的榮耀與公義，然後才是審判的執行。羔羊的名字與摩西的名字並列在同一首歌裡，宣告出埃及的拯救與各各他的救贖，本是同一位神、同一個計劃、同一場得勝。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The Lord Is King! Lift Up Thy Voice**
+> *Josiah Conder, 1836*
+>
+> The Lord is King! lift up thy voice,
+> O earth, and all ye heavens, rejoice;
+> From world to world the joy shall ring:
+> 'The Lord omnipotent is King!'
+>
+> 主是王！揚起你的聲音，
+> 地啊，諸天啊，都當歡欣；
+> 喜樂要從這世界傳到那世界：
+> 「全能的主作王了！」
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -6371,13 +7977,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{5}此後，我看見在天上那存法櫃的殿開了。\textsuperscript{6}那掌管七災的七位天使從殿中出來，穿著潔白光明的細麻衣（細麻衣；有古卷是寶石），胸間束著金帶。\textsuperscript{7}四活物中有一個把盛滿了活到永永遠遠之神大怒的七個金碗給了那七位天使。\textsuperscript{8}因神的榮耀和能力，殿中充滿了煙。於是沒有人能以進殿，直等到那七位天使所降的七災完畢了。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then I saw another sign in heaven, great and amazing, seven angels with seven plagues, which are the last, for with them the wrath of God is finished.
+> \textsuperscript{1}Then I saw another sign in heaven, great and marvelous, seven angels who had seven plagues, *which are* the last, because in them the wrath of God is finished.
 
-> \textsuperscript{2}And I saw what appeared to be a sea of glass mingled with fire—and also those who had conquered the beast and its image and the number of its name, standing beside the sea of glass with harps of God in their hands. \textsuperscript{3}And they sing the song of Moses, the servant of God, and the song of the Lamb, saying, "Great and amazing are your deeds, O Lord God the Almighty! Just and true are your ways, O King of the nations! \textsuperscript{4}Who will not fear, O Lord, and glorify your name? For you alone are holy. All nations will come and worship you, for your righteous acts have been revealed."
+> \textsuperscript{2}And I saw something like a sea of glass mixed with fire, and those who had been victorious over the beast and his image and the number of his name, standing on the sea of glass, holding harps of God. \textsuperscript{3}And they sang the song of Moses, the bond-servant of God, and the song of the Lamb, saying, 'Great and marvelous are Your works, O Lord God, the Almighty; Righteous and true are Your ways, King of the nations! \textsuperscript{4}'Who will not fear, O Lord, and glorify Your name? For You alone are holy; For ALL THE NATIONS WILL COME AND WORSHIP BEFORE YOU, FOR YOUR RIGHTEOUS ACTS HAVE BEEN REVEALED.'
 
-> \textsuperscript{5}After this I looked, and the sanctuary of the tent of witness in heaven was opened, \textsuperscript{6}and out of the sanctuary came the seven angels with the seven plagues, clothed in pure, bright linen, with golden sashes around their chests. \textsuperscript{7}And one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God who lives forever and ever, \textsuperscript{8}and the sanctuary was filled with smoke from the glory of God and from his power, and no one could enter the sanctuary until the seven plagues of the seven angels were finished.
+> \textsuperscript{5}After these things I looked, and the temple of the tabernacle of testimony in heaven was opened, \textsuperscript{6}and the seven angels who had the seven plagues came out of the temple, clothed in linen, clean *and* bright, and girded around their chests with golden sashes. \textsuperscript{7}Then one of the four living creatures gave to the seven angels seven golden bowls full of the wrath of God, who lives forever and ever. \textsuperscript{8}And the temple was filled with smoke from the glory of God and from His power; and no one was able to enter the temple until the seven plagues of the seven angels were finished.
 
 ---
 
@@ -6396,14 +8002,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *sēmeion* | sēmeion | 異象、神蹟、記號 | 與12:1「大異象」同詞，標誌重大啟示的開端 |
-| *plēgē* | plēgē | 災難、災殃 | 本段「七災」，14-16章反覆出現的核心詞 |
-| *etelesthē* | teleō (完成式被動) | 完畢、發盡 | 「神的大怒在這七災中發盡了」，強調終結性，此後再無更多憤怒 |
-| *hyalinē thalassa* | hyalinē thalassa | 玻璃海 | 呼應4:6，此處攙雜著火 |
-| *kithara* | kithara | 琴 | 得勝者手中的樂器，敬拜先於審判 |
-| *skēnē tou martyriou* | skēnē tou martyriou | 作證的帳幕 | 直接取自七十士譯本出埃及記用語 |
-| *linon katharon lampron* | linon katharon lampron | 潔白光明的細麻衣 | 天使的裝束，象徵聖潔與威嚴 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| σημεῖον | sēmeion | 異象、神蹟、記號 | 與12:1「大異象」同詞，標誌重大啟示的開端 |
+| πληγή | plēgē | 災難、災殃 | 本段「七災」，14-16章反覆出現的核心詞 |
+| ἐτελέσθη | teleō (完成式被動) | 完畢、發盡 | 「神的大怒在這七災中發盡了」，強調終結性，此後再無更多憤怒 |
+| ὑαλίνη θάλασσα | hyalinē thalassa | 玻璃海 | 呼應4:6，此處攙雜著火 |
+| κιθάρα | kithara | 琴 | 得勝者手中的樂器，敬拜先於審判 |
+| σκηνὴ τοῦ μαρτυρίου | skēnē tou martyriou | 作證的帳幕 | 直接取自七十士譯本出埃及記用語 |
+| λίνον καθαρὸν λαμπρόν | linon katharon lampron | 潔白光明的細麻衣 | 天使的裝束，象徵聖潔與威嚴 |
 
 ### 「發盡了」(*etelesthē*) 的分量
 
@@ -6411,7 +8017,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 敬拜先於審判——得勝者已經站在得勝的位置上 (Worship Precedes Judgment — the Overcomers Already Stand in Victory)
 
@@ -6431,20 +8037,39 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 145:10-13
+
+> \textsuperscript{10}耶和華啊，你一切所造的都要稱謝你；你的聖民也要稱頌你，
+> \textsuperscript{11}傳說你國的榮耀，談論你的大能，
+> \textsuperscript{12}好叫世人知道你大能的作為，並你國度威嚴的榮耀。
+> \textsuperscript{13}你的國是永遠的國！你執掌的權柄存到萬代！
+
+「你的國是永遠的國」——站在玻璃海上的得勝者唱摩西的歌和羔羊的歌（15:3），內容正是詩篇 145 篇的內容：祂的作為、祂的公義、祂的國。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將「摩西的歌和羔羊的歌」視為新舊兩約救贖歷史合一的明證，他指出，正如以色列人過紅海後歌唱，教會也要在歷經患難、得勝仇敵之後同聲歌唱——這首歌屬於一切曾經在患難中持守信心到底的人，不分新舊兩約的世代。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*
 
 ### 改革宗時期
 
-**海因里希·布靈格 (Heinrich Bullinger, 1504-1575)**：
+**布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在他關於啟示錄的百篇講道中，特別強調15章得勝者「站在玻璃海上」而非「行走在海中」的細節，認為這象徵信徒已經越過一切試煉的水域，站在穩固不動的得勝之地——這與以色列人過紅海站在對岸歌唱的畫面完全呼應，教導信徒現今的患難終必成為歌頌的材料。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*
 
 ### 當代釋經
@@ -6452,16 +8077,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，在神將要傾倒最後的忿怒之前，祂先讓天上的百姓看見一幅敬拜的畫面；他認為這教導信徒，即使面對最嚴厲的審判，神百姓的第一個反應也應該是敬拜，而不是恐懼。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **羅伯特·蒙斯 (Robert Mounce)**：
 
 蒙斯在他的注釋中指出，15:1-4作為16章的序曲，其功能不僅是敘事上的過渡，更是一篇真理性的宣告：審判與救贖出於同一位神、同一個公義的性情，得勝者的詩歌先確立了這個立場，才讓讀者能以正確的角度理解接下來的七碗審判。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Holy God, We Praise Thy Name
+
+*Attr. Ignaz Franz, c. 1771; tr. Clarence A. Walworth, 1858 (Te Deum)*
+
+> Holy God, we praise Thy name;
+> Lord of all, we bow before Thee!
+> All on earth Thy scepter claim,
+> All in heaven above adore Thee.
+
+15:4「萬民都要來在你面前敬拜，因你公義的作為已經顯出來了」。默想：得勝者站在玻璃海上唱歌，手裡拿的是神的琴——他們勝過獸，卻沒有一句歌詞提到獸；得勝者的歌只唱那位使他們得勝的。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**玻璃海上的得勝者**：麥克阿瑟指出 15:2 站在玻璃海上的，是「勝了獸和獸的像」的人——在地上的帳目裡他們是被獸殺害的失敗者，在天上的帳目裡他們是得勝者拿著神的琴；兩本帳，只有一本算數。
+
+**摩西的歌和羔羊的歌**：15:3 把出埃及的得勝之歌與羔羊的救贖之歌並題——他讀作救恩歷史的首尾呼應：紅海邊唱的與玻璃海上唱的是同一位神的作為，歌詞的焦點全在神的公義與作為，沒有一句歌頌唱歌的人自己。
+
+**煙充滿了殿，無人能進**：15:8 神的榮耀與能力成煙充滿聖殿，「於是沒有人能以進殿，直等到七位天使所降的七災完畢了」。他讀出其中的嚴肅：最後的審判期間，代求的門暫時關閉——恩典的日子有終點，這正是今日傳福音急迫性的根據。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：站在玻璃海上的敬拜 (Ask Elder Wong)
 
@@ -6584,13 +8237,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 16:1-21
 
-**經文核對**：[ai-eden.com/bible/revelation/16](https://www.ai-eden.com/bible/revelation/16?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/16](https://www.ai-eden.com/bible/revelation/16?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 七碗是啟示錄三個七之中最後、最猛烈的一組審判——七印揭開了序幕，七號吹響了警告，七碗則是「神大怒的終局」（15:1）。這一章沒有出現羔羊的名字，卻處處是羔羊配得敬拜之後（15章）必然的結果：一位配得敬拜的神，也必然是一位施行公義審判的神。第17節那句「成了！」（*Gegonen*）預告了十字架上「成了」（19:30，*Tetelestai*）的終極應驗——救贖已然「成了」，審判也終將「成了」，兩者出於同一位掌管歷史的主。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Great God, What Do I See and Hear**
+> *Attr. Bartholomäus Ringwaldt, 1582; tr. William B. Collyer, 1812*
+>
+> Great God, what do I see and hear!
+> The end of things created!
+> The Judge of mankind doth appear
+> On clouds of glory seated.
+>
+> 大哉神啊，我所見所聞！
+> 受造之物的終局！
+> 審判世人的主顯現，
+> 坐在榮耀的雲中。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -6612,19 +8283,19 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{17}第七位天使把碗倒在空中，就有大聲音從殿中的寶座上出來，說：「成了！」\textsuperscript{18}又有閃電、聲音、雷轟、大地震，自從地上有人以來，沒有這樣大、這樣利害的地震。\textsuperscript{19}那大城裂為三段，列國的城也都倒塌了；神也想起巴比倫大城來，要把那盛自己烈怒的酒杯遞給他。\textsuperscript{20}各海島都逃避了，眾山也不見了。\textsuperscript{21}又有大雹子從天落在人身上，每一個約重一他連得（一他連得約有九十斤）。為這雹子的災極大，人就褻瀆神。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then I heard a loud voice from the temple telling the seven angels, "Go and pour out on the earth the seven bowls of the wrath of God." \textsuperscript{2}So the first angel went and poured out his bowl on the earth, and harmful and painful sores came upon the people who bore the mark of the beast and worshiped its image.
+> \textsuperscript{1}Then I heard a loud voice from the temple, saying to the seven angels, 'Go and pour out on the earth the seven bowls of the wrath of God.' \textsuperscript{2}So the first *angel* went and poured out his bowl on the earth; and it became a loathsome and malignant sore on the people who had the mark of the beast and who worshiped his image.
 
-> \textsuperscript{3}The second angel poured out his bowl into the sea, and it became like the blood of a corpse, and every living thing died that was in the sea. \textsuperscript{4}The third angel poured out his bowl into the rivers and the springs of water, and they became blood. \textsuperscript{5}And I heard the angel in charge of the waters say, "Just are you, O Holy One, who is and who was, for you brought these judgments. \textsuperscript{6}For they have shed the blood of saints and prophets, and you have given them blood to drink. It is what they deserve!" \textsuperscript{7}And I heard the altar saying, "Yes, Lord God the Almighty, true and just are your judgments!"
+> \textsuperscript{3}The second *angel* poured out his bowl into the sea, and it became blood like *that* of a dead man; and every living thing in the sea died. \textsuperscript{4}Then the third *angel* poured out his bowl into the rivers and the springs of waters; and they became blood. \textsuperscript{5}And I heard the angel of the waters saying, 'Righteous are You, who are and who were, O Holy One, because You judged these things; \textsuperscript{6}for they poured out the blood of saints and prophets, and You have given them blood to drink. They deserve it.' \textsuperscript{7}And I heard the altar saying, 'Yes, O Lord God, the Almighty, true and righteous are Your judgments.'
 
-> \textsuperscript{8}The fourth angel poured out his bowl on the sun, and it was allowed to scorch people with fire. \textsuperscript{9}They were scorched by the fierce heat, and they cursed the name of God who had power over these plagues. They did not repent and give him glory.
+> \textsuperscript{8}The fourth *angel* poured out his bowl upon the sun, and it was given to it to scorch men with fire. \textsuperscript{9}Men were scorched with fierce heat; and they blasphemed the name of God who has the power over these plagues, and they did not repent so as to give Him glory.
 
-> \textsuperscript{10}The fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness. People gnawed their tongues in anguish \textsuperscript{11}and cursed the God of heaven for their pain and sores. They did not repent of their deeds.
+> \textsuperscript{10}Then the fifth *angel* poured out his bowl on the throne of the beast, and his kingdom became darkened; and they gnawed their tongues because of pain, \textsuperscript{11}and they blasphemed the God of heaven because of their pains and their sores; and they did not repent of their deeds.
 
-> \textsuperscript{12}The sixth angel poured out his bowl on the great river Euphrates, and its water was dried up, to prepare the way for the kings from the east. \textsuperscript{13}And I saw, coming out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs. \textsuperscript{14}For they are demonic spirits, performing signs, who go abroad to the kings of the whole world, to assemble them for battle on the great day of God the Almighty. \textsuperscript{15}(\jesus{"Behold, I am coming like a thief! Blessed is the one who stays awake, keeping his garments on, that he may not go about naked and be seen exposed!"}) \textsuperscript{16}And they assembled them at the place that in Hebrew is called Armageddon.
+> \textsuperscript{12}The sixth *angel* poured out his bowl on the great river, the Euphrates; and its water was dried up, so that the way would be prepared for the kings from the east. \textsuperscript{13}And I saw *coming* out of the mouth of the dragon and out of the mouth of the beast and out of the mouth of the false prophet, three unclean spirits like frogs; \textsuperscript{14}for they are spirits of demons, performing signs, which go out to the kings of the whole world, to gather them together for the war of the great day of God, the Almighty. \textsuperscript{15}(\jesus{'Behold, I am coming like a thief. Blessed is the one who stays awake and keeps his clothes, so that he will not walk about naked and men will not see his shame.'}) \textsuperscript{16}And they gathered them together to the place which in Hebrew is called Har-Magedon.
 
-> \textsuperscript{17}The seventh angel poured out his bowl into the air, and a loud voice came out of the temple, from the throne, saying, "It is done!" \textsuperscript{18}And there were flashes of lightning, rumblings, peals of thunder, and a great earthquake such as there had never been since man was on the earth, so great was that earthquake. \textsuperscript{19}The great city was split into three parts, and the cities of the nations fell, and God remembered Babylon the great, to make her drain the cup of the wine of the fury of his wrath. \textsuperscript{20}And every island fled away, and no mountains were to be found. \textsuperscript{21}And great hailstones, about one hundred pounds each, fell from heaven on people; and they cursed God for the plague of the hail, because the plague was so severe.
+> \textsuperscript{17}Then the seventh *angel* poured out his bowl upon the air, and a loud voice came out of the temple from the throne, saying, 'It is done.' \textsuperscript{18}And there were flashes of lightning and sounds and peals of thunder; and there was a great earthquake, such as there had not been since man came to be upon the earth, so great an earthquake *was it, and* so mighty. \textsuperscript{19}The great city was split into three parts, and the cities of the nations fell. Babylon the great was remembered before God, to give her the cup of the wine of His fierce wrath. \textsuperscript{20}And every island fled away, and the mountains were not found. \textsuperscript{21}And huge hailstones, about one hundred pounds each, came down from heaven upon men; and men blasphemed God because of the plague of the hail, because its plague was extremely severe.
 
 ---
 
@@ -6643,14 +8314,14 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *phialē* | phialē | 碗、淺盤 | 與五印和七號用的「號筒」不同，碗是傾倒淨盡的器皿，象徵毫無保留 |
-| *helkos* | helkos | 瘡、潰爛的傷口 | 呼應出9:9-11埃及的瘡災 |
-| *blasphēmeō* | blasphēmeō | 褻瀆 | 9, 11, 21節反覆出現，是本章的關鍵動詞 |
-| *metanoeō* | metanoeō | 悔改 | 9, 11節皆以否定形式出現：「並不悔改」 |
-| *batrachos* | batrachos | 青蛙 | 呼應出8章的蛙災，象徵污穢的靈 |
-| *Har-Magedōn* | Har-Magedōn | 哈米吉多頓 | 希伯來文音譯，字面「米吉多山」 |
-| *gegonen* | ginomai (完成式) | 成了 | 17節，與約19:30「成了」（*tetelestai*）為不同動詞，但含義彼此呼應 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| φιάλη | phialē | 碗、淺盤 | 與五印和七號用的「號筒」不同，碗是傾倒淨盡的器皿，象徵毫無保留 |
+| ἕλκος | helkos | 瘡、潰爛的傷口 | 呼應出9:9-11埃及的瘡災 |
+| βλασφημέω | blasphēmeō | 褻瀆 | 9, 11, 21節反覆出現，是本章的關鍵動詞 |
+| μετανοέω | metanoeō | 悔改 | 9, 11節皆以否定形式出現：「並不悔改」 |
+| βάτραχος | batrachos | 青蛙 | 呼應出8章的蛙災，象徵污穢的靈 |
+| Ἁρμαγεδών | Har-Magedōn | 哈米吉多頓 | 希伯來文音譯，字面「米吉多山」 |
+| γέγονεν | ginomai (完成式) | 成了 | 17節，與約19:30「成了」（*tetelestai*）為不同動詞，但含義彼此呼應 |
 
 ### 「並不悔改」(*ou metenoēsan*) 的沉重反覆
 
@@ -6658,7 +8329,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 出埃及的模式重演——神的審判有其連貫的性情 (The Exodus Pattern Repeats — God's Judgment Has a Consistent Character)
 
@@ -6678,13 +8349,30 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 75:6-8
+
+> \textsuperscript{6}因為高舉非從東，非從西，也非從南而來。
+> \textsuperscript{7}惟有神斷定；他使這人降卑，使那人升高。
+> \textsuperscript{8}耶和華手裡有杯，其中的酒起沫，杯內滿了攙雜的酒；他倒出來，地上的惡人必都喝這酒的渣滓，而且喝盡。
+
+「耶和華手裡有杯……地上的惡人必都喝這酒的渣滓，而且喝盡」——七碗就是這杯的倒盡。詩人早已看見：杯在耶和華手裡，何時傾倒、倒給誰，從來不由地上決定。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**依仁紐 (Irenaeus of Lyons, 約130-202年)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
-依仁紐在論到末後審判時，特別提到七碗與埃及十災之間的呼應，指出神在歷史中反覆使用相似的審判模式，為要向每個世代顯明：祂是那位曾在埃及拯救以色列的神，也是那位要在末後拯救祂教會的同一位神——歷史的重複模式本身就是神信實不變的記號。
+愛任紐在論到末後審判時，特別提到七碗與埃及十災之間的呼應，指出神在歷史中反覆使用相似的審判模式，為要向每個世代顯明：祂是那位曾在埃及拯救以色列的神，也是那位要在末後拯救祂教會的同一位神——歷史的重複模式本身就是神信實不變的記號。
+
 > — Irenaeus of Lyons, *Against Heresies*, Book V
 
 ### 改革宗時期
@@ -6692,6 +8380,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利在他的《聖經註釋》中特別留意16:9、11、21三次「並不悔改」的反覆，指出這是聖經對人性最嚴肅的診斷之一：外在的災難本身無法叫人回轉，唯有神恩典所動的心才能真正悔改；這也提醒傳道人，不能單靠描繪審判的可怕來使人悔改，而要傳講十字架的恩典。
+
 > — Matthew Henry, *An Exposition of the Old and New Testament*, Revelation
 
 ### 當代釋經
@@ -6699,16 +8388,46 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟認為，三次「並不悔改」的記載是整本啟示錄裡最令人心碎的經文之一，印證了羅馬書1章所描述的光景：人心一旦被交在剛硬之中，即使面對最直接的神聖審判，仍會選擇褻瀆而非降服。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本指出，七碗與七號的差異在於「範圍」的擴大——七號的災殃限於三分之一，七碗卻是全面性的，這種升級的模式教導讀者，神的忍耐雖然長久，但祂的公義終究要得著完全、無保留的伸張。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Rock of Ages, Cleft for Me
+
+*Augustus M. Toplady, 1763*
+
+> Rock of Ages, cleft for me,
+> Let me hide myself in Thee;
+> Let the water and the blood,
+> From Thy wounded side which flowed,
+> Be of sin the double cure,
+> Save from wrath and make me pure.
+
+「救我脫離忿怒，使我潔淨」——這句歌詞是第 16 章唯一的出路。默想：16:15 在七碗中間突然插進一句「看哪，我來像賊一樣。那儆醒、看守衣服……的有福了」——審判的敘事中央，仍然嵌著一個給儆醒者的福。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**傾倒的節奏不再有間歇**：麥克阿瑟對比三個七的節奏：印與號之間有插敘、有暫停，七碗卻一氣傾盡（16 章一章之內全部倒完）——「神大怒的碗」是不再稀釋、不再分批的終局審判。
+
+**審判的對等性**：16:5-6 天使的頌詞是他停留最久的地方：「他們曾流聖徒與先知的血，你給他們血喝，這是他們所該受的」——碗災不是失控的暴怒，是精確對等的公義；天上的回應是「是的……你的判斷義哉，誠哉」。
+
+**「成了」與哈米吉多頓**：16:17 從寶座出來的大聲音說「成了」——與十字架上的「成了」（約19:30）遙相呼應：救贖的成了不肯領受的人，要面對審判的成了。而 16:16 眾王聚集哈米吉多頓，他提醒：那不是勝負未卜的大戰，是自投羅網的集結。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：七碗與「並不悔改」的心 (Ask Elder Wong)
 
@@ -6830,13 +8549,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 17:1-18
 
-**經文核對**：[ai-eden.com/bible/revelation/17](https://www.ai-eden.com/bible/revelation/17?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/17](https://www.ai-eden.com/bible/revelation/17?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 這章描繪了一幅極其墮落的畫面——一個坐在獸上、穿戴奢華、喝醉了聖徒之血的淫婦。但在這幅陰暗的圖畫正中央，經文突然亮起一句宣告：「他們與羔羊爭戰，羔羊必勝過他們，因為羔羊是萬主之主、萬王之王」（14節）。這是整章唯一的光——所有的權勢、聯盟、榮華、逼迫，最終都要面對這位羔羊，而結局早已註定：羔羊必得勝。這提醒我們，啟示錄描繪罪惡的黑暗，從來不是為了讓讀者絕望，而是為了襯托那唯一配得敬拜、且必然得勝的羔羊。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **O God, Our Help in Ages Past**
+> *Isaac Watts, 1719 (from Psalm 90)*
+>
+> O God, our help in ages past,
+> Our hope for years to come,
+> Our shelter from the stormy blast,
+> And our eternal home.
+>
+> 上主是人千古保障，
+> 是人將來希望，
+> 是人居所抵禦風暴，
+> 是人永久家鄉。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -6848,13 +8585,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{15}天使又對我說，「你所看見那淫婦坐的眾水，就是多民、多人、多國、多方。\textsuperscript{16}你所看見的那十角與獸必恨這淫婦，使他冷落赤身，又要吃他的肉，用火將他燒盡。\textsuperscript{17}因為神使諸王同心合意，遵行他的旨意，把自己的國給那獸，直等到神的話都應驗了。\textsuperscript{18}你所看見的那女人就是管轄地上眾王的大城。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then one of the seven angels who had the seven bowls came and said to me, "Come, I will show you the judgment of the great prostitute who is seated on many waters, \textsuperscript{2}with whom the kings of the earth have committed sexual immorality, and with the wine of whose sexual immorality the dwellers on earth have become drunk." \textsuperscript{3}And he carried me away in the Spirit into a wilderness, and I saw a woman sitting on a scarlet beast that was full of blasphemous names, and it had seven heads and ten horns. \textsuperscript{4}The woman was arrayed in purple and scarlet, and adorned with gold and jewels and pearls, holding in her hand a golden cup full of abominations and the impurities of her sexual immorality. \textsuperscript{5}And on her forehead was written a name of mystery: "Babylon the great, mother of prostitutes and of earth's abominations." \textsuperscript{6}And I saw the woman, drunk with the blood of the saints, the blood of the martyrs of Jesus. When I saw her, I marveled greatly.
+> \textsuperscript{1}Then one of the seven angels who had the seven bowls came and spoke with me, saying, 'Come here, I will show you the judgment of the great harlot who sits on many waters, \textsuperscript{2}with whom the kings of the earth committed *acts of* immorality, and those who dwell on the earth were made drunk with the wine of her immorality.' \textsuperscript{3}And he carried me away in the Spirit into a wilderness; and I saw a woman sitting on a scarlet beast, full of blasphemous names, having seven heads and ten horns. \textsuperscript{4}The woman was clothed in purple and scarlet, and adorned with gold and precious stones and pearls, having in her hand a gold cup full of abominations and of the unclean things of her immorality, \textsuperscript{5}and on her forehead a name *was* written, a mystery, 'BABYLON THE GREAT, THE MOTHER OF HARLOTS AND OF THE ABOMINATIONS OF THE EARTH.' \textsuperscript{6}And I saw the woman drunk with the blood of the saints, and with the blood of the witnesses of Jesus. When I saw her, I wondered greatly.
 
-> \textsuperscript{7}But the angel said to me, "Why do you marvel? I will tell you the mystery of the woman, and of the beast with seven heads and ten horns that carries her. \textsuperscript{8}The beast that you saw was, and is not, and is about to rise from the bottomless pit and go to destruction. And the dwellers on earth whose names have not been written in the book of life from the foundation of the world will marvel to see the beast, because it was and is not and is to come. \textsuperscript{9}This calls for a mind with wisdom: the seven heads are seven mountains on which the woman is seated; \textsuperscript{10}they are also seven kings, five of whom have fallen, one is, the other has not yet come, and when he does come he must remain only a little while. \textsuperscript{11}As for the beast that was and is not, it is an eighth but it belongs to the seven, and it goes to destruction. \textsuperscript{12}And the ten horns that you saw are ten kings who have not yet received royal power, but they are to receive authority as kings for one hour, together with the beast. \textsuperscript{13}These are of one mind, and they hand over their power and authority to the beast. \textsuperscript{14}They will make war on the Lamb, and the Lamb will conquer them, for he is Lord of lords and King of kings, and those with him are called and chosen and faithful."
+> \textsuperscript{7}And the angel said to me, 'Why do you wonder? I will tell you the mystery of the woman and of the beast that carries her, which has the seven heads and the ten horns. \textsuperscript{8}'The beast that you saw was, and is not, and is about to come up out of the abyss and go to destruction. And those who dwell on the earth, whose name has not been written in the book of life from the foundation of the world, will wonder when they see the beast, that he was and is not and will come. \textsuperscript{9}'Here is the mind which has wisdom. The seven heads are seven mountains on which the woman sits, \textsuperscript{10}and they are seven kings; five have fallen, one is, the other has not yet come; and when he comes, he must remain a little while. \textsuperscript{11}'The beast which was and is not, is himself also an eighth and is *one* of the seven, and he goes to destruction. \textsuperscript{12}'The ten horns which you saw are ten kings who have not yet received a kingdom, but they receive authority as kings with the beast for one hour. \textsuperscript{13}'These have one purpose, and they give their power and authority to the beast. \textsuperscript{14}'These will wage war against the Lamb, and the Lamb will overcome them, because He is Lord of lords and King of kings, and those who are with Him *are the* called and chosen and faithful.'
 
-> \textsuperscript{15}And the angel said to me, "The waters that you saw, where the prostitute is seated, are peoples and multitudes and nations and languages. \textsuperscript{16}And the ten horns that you saw, they and the beast will hate the prostitute. They will make her desolate and naked, and devour her flesh and burn her up with fire, \textsuperscript{17}for God has put it into their hearts to carry out his purpose by being of one mind and handing over their royal power to the beast, until the words of God are fulfilled. \textsuperscript{18}And the woman that you saw is the great city that has dominion over the kings of the earth."
+> \textsuperscript{15}And he said to me, 'The waters which you saw where the harlot sits, are peoples and multitudes and nations and tongues. \textsuperscript{16}'And the ten horns which you saw, and the beast, these will hate the harlot and will make her desolate and naked, and will eat her flesh and will burn her up with fire. \textsuperscript{17}'For God has put it in their hearts to execute His purpose by having a common purpose, and by giving their kingdom to the beast, until the words of God will be fulfilled. \textsuperscript{18}'The woman whom you saw is the great city, which reigns over the kings of the earth.'
 
 ---
 
@@ -6873,13 +8610,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *pornē* | pornē | 淫婦、妓女 | 貫穿17-19章的核心稱號，象徵屬靈的不忠——與神以外的權勢「行淫」 |
-| *mystērion* | mystērion | 奧祕 | 天使明確表示要「解釋」這奧祕，暗示這異象的象徵意義需要智慧才能理解 |
-| *methyō* | methyō | 喝醉 | 「喝醉了聖徒的血」極其怵目驚心，描繪這體制對逼迫聖徒麻木、甚至以此為樂的程度 |
-| *erēmōsis* | erēmōsis | 荒涼、冷落 | 用於「使他冷落赤身」，形容巴比倫最終被自己曾經倚靠的盟友拋棄、羞辱的結局 |
-| *homophrōn* | homophrōn | 同心合意 | 出現兩次（13, 17節），諷刺地描述列王「同心合意」服事獸，卻不知這正是神旨意的成就 |
-| *kyrios kyriōn kai basileus basileōn* | kyrios kyriōn kai basileus basileōn | 萬主之主、萬王之王 | 啟示錄中對基督最高的稱號之一，在此章與19:16重複出現，框住了整個巴比倫審判的敘事 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| πόρνη | pornē | 淫婦、妓女 | 貫穿17-19章的核心稱號，象徵屬靈的不忠——與神以外的權勢「行淫」 |
+| μυστήριον | mystērion | 奧祕 | 天使明確表示要「解釋」這奧祕，暗示這異象的象徵意義需要智慧才能理解 |
+| μεθύω | methyō | 喝醉 | 「喝醉了聖徒的血」極其怵目驚心，描繪這體制對逼迫聖徒麻木、甚至以此為樂的程度 |
+| ἐρημόω（分詞 ἠρημωμένην） | erēmoō | 使荒涼、使冷落 | 17:16「使他冷落赤身」，形容巴比倫最終被自己曾經倚靠的盟友拋棄、羞辱的結局 |
+| μία γνώμη | mia gnōmē | 同一個心意 | 17:13、17 兩次，諷刺地描述列王「同心合意」服事獸，卻不知這正是神旨意的成就 |
+| κύριος κυρίων καὶ βασιλεὺς βασιλέων | kyrios kyriōn kai basileus basileōn | 萬主之主、萬王之王 | 啟示錄中對基督最高的稱號之一，在此章與19:16重複出現，框住了整個巴比倫審判的敘事 |
 
 ### 「同心合意」的反諷
 
@@ -6887,7 +8624,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 邪惡的聯盟沒有真正的忠誠 (Alliances of Evil Have No True Loyalty)
 
@@ -6907,25 +8644,46 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 73:16-20
+
+> \textsuperscript{16}我思索怎能明白這事，眼看實係為難，
+> \textsuperscript{17}等我進了神的聖所，思想他們的結局。
+> \textsuperscript{18}你實在把他們安在滑地，使他們掉在沉淪之中。
+> \textsuperscript{19}他們轉眼之間成了何等的荒涼！他們被驚恐滅盡了。
+> \textsuperscript{20}人睡醒了，怎樣看夢；主啊，你醒了也必照樣輕看他們的影像。
+
+「等我進了神的聖所，思想他們的結局」——大淫婦「穿著紫色和朱紅色的衣服，用金子、寶石、珍珠為妝飾」，外表極其榮華。亞薩的困惑與解答，正是讀第 17 章的正確方法：不看現在的排場，看聖所裡顯明的結局。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在論到但以理與啟示錄的末世預言時，將淫婦與獸並列為敵擋神百姓的兩種不同權勢——一是以奢華誘惑妥協，一是以暴力公開逼迫；他提醒信徒：真正的危險不僅來自公開的逼迫（獸），也來自看似誘人、卻本質敗壞的世俗體制（淫婦）。
+
 > — 此讀法屬愛任紐《駁異端》卷五末世論一貫立場的延伸應用，非逐章直引
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁在《上帝之城》中，將巴比倫理解為「地上之城」的象徵——一切以自我為中心、追求地上榮華權勢的人類文明體制，與「神之城」形成鮮明對比，而這兩座城的張力貫穿整部人類歷史。
+
 > — Augustine, *City of God*, Book 18, Chapter 2
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在他的講章中，特別提醒信徒：巴比倫的淫亂不僅是政治或經濟層面的墮落，更是屬靈層面的不忠——任何讓人的心離開對神專一敬拜、轉而倚靠世俗權勢與財富安全感的體制，都帶有巴比倫的性質。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 17
 
 ### 當代釋經
@@ -6933,16 +8691,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其註釋中指出，巴比倫所代表的，是一切誘惑人離棄神、追求世俗奢華與權勢的體制性力量；這股力量看似強大、看似永恆，但14節清楚宣告牠終必面對羔羊，而羔羊必得勝。
+
 > — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
 畢爾在其註釋中論到，淫婦與獸最終互相殘殺的畫面，揭示了一個貫穿聖經的屬靈原則：罪惡的聯盟終將自我毀滅，因為建立在悖逆神之上的關係，從來不能提供真正持久的忠誠與安全。
+
 > — 參 G.K. Beale, *The Book of Revelation* (NIGTC)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Fight the Good Fight
+
+*John S. B. Monsell, 1863*
+
+> Fight the good fight with all thy might;
+> Christ is thy strength, and Christ thy right;
+> Lay hold on life, and it shall be
+> Thy joy and crown eternally.
+
+17:14「他們與羔羊爭戰，羔羊必勝過他們，因為羔羊是萬主之主、萬王之王」。默想：這節經文把結局寫在爭戰之前——信徒的爭戰不是為了取得勝利，是從已定的勝利裡打出來的。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**宗教的巴比倫**：麥克阿瑟把 17 章的大淫婦讀作末期的假宗教體系——她與地上君王行淫（政教勾結）、以金玉妝飾（宗教的華美外殼）、喝醉了聖徒的血（假宗教史上從不缺殉道者的血）；18 章的商業巴比倫則是同一體系的經濟面。
+
+**獸恨淫婦**：17:16-17 是本章的轉軸：獸和十王「必恨這淫婦」，把她燒了——邪惡的同盟自相吞吃，而經文明說這是「神使諸王同心合意……成就他的旨意」。撒但的內鬨，也在神的劇本裡。
+
+**「羔羊必勝過他們」的排序**：17:14 先宣告結局——與羔羊爭戰者必敗，「因為羔羊是萬主之主、萬王之王」——然後才補一句同在羔羊一邊的人：「蒙召、被選、有忠心的」。他指出：得勝屬於羔羊，跟隨者是「同在」，不是「合力」。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：大淫婦巴比倫 (Ask Elder Wong)
 
@@ -7058,13 +8844,35 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 18:1-24
 
-**經文核對**：[ai-eden.com/bible/revelation/18](https://www.ai-eden.com/bible/revelation/18?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/18](https://www.ai-eden.com/bible/revelation/18?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 這一章沒有直接描述基督的出現，卻處處是祂公義掌權的迴響。地上的君王、客商、船主都為巴比倫的傾覆哭泣哀號，天上卻傳來完全不同的呼聲：「天哪，眾聖徒、眾使徒、眾先知阿，你們都要因他歡喜，因為神已經在他身上伸了你們的冤」（20節）。地上的哭聲與天上的歡呼形成強烈對比，揭示了一個貫穿全書的真理：真正的審判者是那位掌管公義的神，祂終必為受逼迫的聖徒伸冤，而世人所倚靠、所哀悼的一切財富與榮華，在祂公義的審判面前終必歸於無有。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Abide with Me**
+> *Henry Francis Lyte, 1847*
+>
+> Abide with me; fast falls the eventide;
+> The darkness deepens; Lord, with me abide.
+> When other helpers fail and comforts flee,
+> Help of the helpless, O abide with me.
+> Change and decay in all around I see;
+> O Thou who changest not, abide with me.
+>
+> 求主同住，日已西沉；
+> 黑暗漸深，求主與我同住。
+> 安慰消逝，援手無門，
+> 無助者的幫助啊，與我同住。
+> 四圍所見盡是改變朽壞；
+> 永不改變的主，與我同住。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -7080,17 +8888,17 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{21}有一位大力的天使舉起一塊石頭，好像大磨石，扔在海裡，說：「巴比倫大城也必這樣猛力的被扔下去，決不能再見了。\textsuperscript{22}彈琴、作樂、吹笛、吹號的聲音，在你中間決不能再聽見；各行手藝人在你中間決不能再遇見；推磨的聲音在你中間決不能再聽見；\textsuperscript{23}燈光在你中間決不能再照耀；新郎和新婦的聲音，在你中間決不能再聽見。你的客商原來是地上的尊貴人；萬國也被你的邪術迷惑了。\textsuperscript{24}先知和聖徒，並地上一切被殺之人的血，都在這城裡看見了。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}After this I saw another angel coming down from heaven, having great authority, and the earth was made bright with his glory. \textsuperscript{2}And he called out with a mighty voice, "Fallen, fallen is Babylon the great! She has become a dwelling place for demons, a haunt for every unclean spirit, a haunt for every unclean bird, a haunt for every unclean and detestable beast. \textsuperscript{3}For all nations have drunk the wine of the passion of her sexual immorality, and the kings of the earth have committed immorality with her, and the merchants of the earth have grown rich from the power of her luxurious living."
+> \textsuperscript{1}After these things I saw another angel coming down from heaven, having great authority, and the earth was illumined with his glory. \textsuperscript{2}And he cried out with a mighty voice, saying, 'Fallen, fallen is Babylon the great! She has become a dwelling place of demons and a prison of every unclean spirit, and a prison of every unclean and hateful bird. \textsuperscript{3}'For all the nations have drunk of the wine of the passion of her immorality, and the kings of the earth have committed *acts of* immorality with her, and the merchants of the earth have become rich by the wealth of her sensuality.'
 
-> \textsuperscript{4}Then I heard another voice from heaven saying, "Come out of her, my people, lest you take part in her sins, lest you share in her plagues; \textsuperscript{5}for her sins are heaped high as heaven, and God has remembered her iniquities. \textsuperscript{6}Pay her back as she herself has paid back others, and repay her double for her deeds; mix a double portion for her in the cup she mixed. \textsuperscript{7}As she glorified herself and lived in luxury, so give her a like measure of torment and mourning, since in her heart she says, 'I sit as a queen, I am no widow, and mourning I shall never see.' \textsuperscript{8}For this reason her plagues will come in a single day, death and mourning and famine, and she will be burned up with fire; for mighty is the Lord God who has judged her."
+> \textsuperscript{4}I heard another voice from heaven, saying, 'Come out of her, my people, so that you will not participate in her sins and receive of her plagues; \textsuperscript{5}for her sins have piled up as high as heaven, and God has remembered her iniquities. \textsuperscript{6}'Pay her back even as she has paid, and give back *to her* double according to her deeds; in the cup which she has mixed, mix twice as much for her. \textsuperscript{7}'To the degree that she glorified herself and lived sensuously, to the same degree give her torment and mourning; for she says in her heart, 'I SIT *as* A QUEEN AND I AM NOT A WIDOW, and will never see mourning.' \textsuperscript{8}'For this reason in one day her plagues will come, pestilence and mourning and famine, and she will be burned up with fire; for the Lord God who judges her is strong.
 
-> \textsuperscript{9}And the kings of the earth, who committed sexual immorality and lived in luxury with her, will weep and wail over her when they see the smoke of her burning. \textsuperscript{10}They will stand far off, in fear of her torment, and say, "Alas! Alas! You great city, you mighty city, Babylon! For in a single hour your judgment has come." \textsuperscript{11}And the merchants of the earth weep and mourn for her, since no one buys their cargo anymore, \textsuperscript{12}cargo of gold, silver, jewels, pearls, fine linen, purple cloth, silk, scarlet cloth, all kinds of scented wood, all kinds of articles of ivory, all kinds of articles of costly wood, bronze, iron and marble, \textsuperscript{13}cinnamon, spice, incense, myrrh, frankincense, wine, oil, fine flour, wheat, cattle and sheep, horses and chariots, and slaves, that is, human souls.
+> \textsuperscript{9}'And the kings of the earth, who committed *acts of* immorality and lived sensuously with her, will weep and lament over her when they see the smoke of her burning, \textsuperscript{10}standing at a distance because of the fear of her torment, saying, 'Woe, woe, the great city, Babylon, the strong city! For in one hour your judgment has come.' \textsuperscript{11}'And the merchants of the earth weep and mourn over her, because no one buys their cargoes any more— \textsuperscript{12}cargoes of gold and silver and precious stones and pearls and fine linen and purple and silk and scarlet, and every *kind of* citron wood and every article of ivory and every article *made* from very costly wood and bronze and iron and marble, \textsuperscript{13}and cinnamon and spice and incense and perfume and frankincense and wine and olive oil and fine flour and wheat and cattle and sheep, and *cargoes* of horses and chariots and slaves and human lives.
 
-> \textsuperscript{14}"The fruit for which your soul longed has gone from you, and all your delicacies and your splendors are lost to you, never to be found again!" \textsuperscript{15}The merchants of these wares, who gained wealth from her, will stand far off, in fear of her torment, weeping and mourning aloud, \textsuperscript{16}"Alas, alas, for the great city that was clothed in fine linen, in purple and scarlet, adorned with gold, with jewels, and with pearls! \textsuperscript{17}For in a single hour all this wealth has been laid waste." And all shipmasters and seafaring men, sailors and all whose trade is on the sea, stood far off \textsuperscript{18}and cried out as they saw the smoke of her burning, "What city was like the great city?" \textsuperscript{19}And they threw dust on their heads as they wept and mourned, crying out, "Alas, alas, for the great city where all who had ships at sea grew rich by her wealth! For in a single hour she has been laid waste. \textsuperscript{20}Rejoice over her, O heaven, and you saints and apostles and prophets, for God has given judgment for you against her!"
+> \textsuperscript{14}'The fruit you long for has gone from you, and all things that were luxurious and splendid have passed away from you and *men* will no longer find them. \textsuperscript{15}'The merchants of these things, who became rich from her, will stand at a distance because of the fear of her torment, weeping and mourning, \textsuperscript{16}saying, 'Woe, woe, the great city, she who was clothed in fine linen and purple and scarlet, and adorned with gold and precious stones and pearls; \textsuperscript{17}for in one hour such great wealth has been laid waste!' And every shipmaster and every passenger and sailor, and as many as make their living by the sea, stood at a distance, \textsuperscript{18}and were crying out as they saw the smoke of her burning, saying, 'What *city* is like the great city?' \textsuperscript{19}'And they threw dust on their heads and were crying out, weeping and mourning, saying, 'Woe, woe, the great city, in which all who had ships at sea became rich by her wealth, for in one hour she has been laid waste!' \textsuperscript{20}'Rejoice over her, O heaven, and you saints and apostles and prophets, because God has pronounced judgment for you against her.'
 
-> \textsuperscript{21}Then a mighty angel took up a stone like a great millstone and threw it into the sea, saying, "So will Babylon the great city be thrown down with violence, and will be found no more; \textsuperscript{22}and the sound of harpists and musicians, of flute players and trumpeters, will be heard in you no more, and a craftsman of any craft will be found in you no more, and the sound of the mill will be heard in you no more, \textsuperscript{23}and the light of a lamp will shine in you no more, and the voice of bridegroom and bride will be heard in you no more, for your merchants were the great ones of the earth, and all nations were deceived by your sorcery. \textsuperscript{24}And in her was found the blood of prophets and of saints, and of all who have been slain on earth."
+> \textsuperscript{21}Then a strong angel took up a stone like a great millstone and threw it into the sea, saying, 'So will Babylon, the great city, be thrown down with violence, and will not be found any longer. \textsuperscript{22}'And the sound of harpists and musicians and flute-players and trumpeters will not be heard in you any longer; and no craftsman of any craft will be found in you any longer; and the sound of a mill will not be heard in you any longer; \textsuperscript{23}and the light of a lamp will not shine in you any longer; and the voice of the bridegroom and bride will not be heard in you any longer; for your merchants were the great men of the earth, because all the nations were deceived by your sorcery. \textsuperscript{24}'And in her was found the blood of prophets and of saints and of all who have been slain on the earth.'
 
 ---
 
@@ -7109,13 +8917,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *epesen epesen* | epesen epesen | 傾倒了！傾倒了！ | 重複的過去時態宣告，模仿以賽亞書21:9「巴比倫傾倒了！傾倒了！」的先知宣判語氣 |
-| *strēnos* | strēnos | 奢華、驕奢淫逸 | 用於描述巴比倫過度的物質享受，隱含道德敗壞的意味 |
-| *diplōsate* | diplōsate | 加倍報應 | 命令語氣，呼籲執行公義的加倍審判，對應她加倍的罪惡 |
-| *mylos megas* | mylos megas | 大磨石 | 天使扔下大磨石的具體動作，象徵徹底、不可逆轉的毀滅 |
-| *pharmakeia* | pharmakeia | 邪術、法術 | 字源與英文pharmacy相關，暗示某種令人上癮、失去清醒判斷力的迷惑力量 |
-| *sōmata kai psychas anthrōpōn* | sōmata kai psychas anthrōpōn | 身體和人的靈魂 | 商品清單的最後一項，揭示巴比倫體制連人的生命本身都商品化的終極敗壞 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ἔπεσεν ἔπεσεν | epesen epesen | 傾倒了！傾倒了！ | 重複的過去時態宣告，模仿以賽亞書21:9「巴比倫傾倒了！傾倒了！」的先知宣判語氣 |
+| στρῆνος | strēnos | 奢華、驕奢淫逸 | 用於描述巴比倫過度的物質享受，隱含道德敗壞的意味 |
+| διπλώσατε | diplōsate | 加倍報應 | 命令語氣，呼籲執行公義的加倍審判，對應她加倍的罪惡 |
+| μύλινος μέγας | mylinos megas | 大磨石 | 18:21 天使扔下大磨石的具體動作，象徵徹底、不可逆轉的毀滅 |
+| φαρμακεία | pharmakeia | 邪術、法術 | 字源與英文pharmacy相關，暗示某種令人上癮、失去清醒判斷力的迷惑力量 |
+| σώματα καὶ ψυχὰς ἀνθρώπων | sōmata kai psychas anthrōpōn | 身體和人的靈魂 | 商品清單的最後一項，揭示巴比倫體制連人的生命本身都商品化的終極敗壞 |
 
 ### 「從那城出來」的呼召
 
@@ -7123,7 +8931,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 地上的哀哭與天上的歡呼形成鮮明對比 (Earth's Mourning and Heaven's Rejoicing Stand in Stark Contrast)
 
@@ -7143,25 +8951,47 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 137:1-6
+
+> \textsuperscript{1}我們曾在巴比倫的河邊坐下，一追想錫安就哭了。
+> \textsuperscript{2}我們把琴掛在那裡的柳樹上；
+> \textsuperscript{3}因為在那裡，擄掠我們的要我們唱歌，搶奪我們的要我們作樂，說：給我們唱一首錫安歌罷！
+> \textsuperscript{4}我們怎能在外邦唱耶和華的歌呢？
+> \textsuperscript{5}耶路撒冷啊，我若忘記你，情願我的右手忘記技巧！
+> \textsuperscript{6}我若不記念你，若不看耶路撒冷過於我所最喜樂的，情願我的舌頭貼於上膛！
+
+「我們曾在巴比倫的河邊坐下」——神的百姓曾為巴比倫哭，如今天上為巴比倫的傾倒歡呼（18:20）。兩種眼淚之間隔著的，是「我的民哪，你們要從那城出來」(18:4) 這一句呼召。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 260-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將這章對羅馬奢華貿易的描繪，理解為對當時讀者切身處境的直接對照——他們親眼目睹羅馬的富庶與逼迫並存，這章正是要提醒他們：這種繁華終必傾覆，不要被表面的興盛迷惑而妥協信仰。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 18
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁在《上帝之城》寫作於西羅馬帝國衰亡之際，他引用巴比倫傾覆的異象，安慰當時因羅馬淪陷而驚恐的基督徒：地上之城的興衰從來不是最終的關懷所在，神之城才是信徒真正的家鄉與盼望。
+
 > — Augustine, *City of God*, Book 1, Preface
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格特別強調「從那城出來」的呼召對當代信徒的意義：這不僅是地理上的分離，更是拒絕被任何體制性的奢華、腐敗、與逼迫聖徒的權勢所同化的堅定立場。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 18
 
 ### 當代釋經
@@ -7169,16 +8999,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這一整章最深刻的對比，不在於巴比倫的傾覆有多麼壯觀，而在於20節「你們都要因他歡喜」這句話——當地上為失去的財富哭泣時，天上卻因公義得申而歡呼；這提醒每一位信徒省察自己喜樂的根基究竟建立在哪裡。
+
 > — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯在其註釋中論到，商品清單末尾「人的靈魂」一詞，是這章最沉重的一擊——它揭示了任何以物質積累為終極目標的體制，最終都會走向將人的尊嚴徹底商品化的深淵。
+
 > — 參 Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Fading Is the Worldling's Pleasure
+
+*John Newton, 1779 (from Glorious Things)*
+
+> Fading is the worldling's pleasure,
+> All his boasted pomp and show;
+> Solid joys and lasting treasure
+> None but Zion's children know.
+
+第 18 章用三章篇幅寫地上的君王、客商、船主為巴比倫哀哭——哀哭的原因全是貿易停了、貨物沒人買了。默想：一座城傾覆，哀悼者計算的全是損失的金額；這正是巴比倫式繁華的本相——連眼淚都是經濟的。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**一小時之內**：麥克阿瑟數算 18 章三次「一時之間」（18:10, 17, 19）——人類歷史上最龐大的經濟體系，崩塌所需的時間是一小時。所有把安全感建在市場與財富上的人，這一章是寫給他們的。
+
+**哀哭者的名單**：君王、客商、船主——他指出 18 章的輓歌全部出自受益者之口，而他們「遠遠地站著」哭（18:10, 15, 17）：巴比倫式的關係到了審判之日只剩利益的距離，沒有一個哀哭者為她捨命。
+
+**「我的民哪，你們要從那城出來」**：18:4 是全章唯一向信徒發出的命令。他強調這呼召的屬靈本質：不是地理上的搬遷，而是價值系統的撤離——在體系傾覆之前就與它劃清界線，「免得與她一同有罪，受她所受的災殃」。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：巴比倫傾倒了 (Ask Elder Wong)
 
@@ -7216,7 +9074,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 **詩篇**：詩篇52:5-7
 
-> 神也要把你拆毀，直到永遠；他要把你拿去，從你帳棚中抽出，從活人之地將你拔出……看哪，這就是那不以神為他力量的人，只倚仗他豐富的財物，在邪惡上堅立自己。
+> 神也要毀滅你，直到永遠；他要把你拿去，從你的帳棚中抽出，從活人之地將你拔出。（細拉）……說：看哪，這就是那不以神為他力量的人，只倚仗他豐富的財物，在邪惡上堅立自己。
 
 大衛描繪倚靠財富、行惡的人終必被神拔除，正是巴比倫傾覆的先聲。
 
@@ -7306,13 +9164,39 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 19:1-10
 
-**經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 巴比倫傾倒的濃煙尚未散去，天上已經響起連續的「哈利路亞」——這是新約聖經中唯一集中出現「哈利路亞」的一段經文（1, 3, 4, 6節）。焦點從審判轉向婚筵：「羔羊婚娶的時候到了；新婦也自己預備好了」。這是全書情感的高峰之一——教會，這位曾經軟弱、曾經失敗、曾經流淚的新婦，如今「蒙恩得穿光明潔白的細麻衣」，預備好與羔羊永遠聯合。這幅圖畫告訴我們：基督徒生命的終極盼望，不是逃離苦難的消極解脫，而是與羔羊永遠聯合、共赴婚筵的積極喜樂。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The Church's One Foundation**
+> *Samuel J. Stone, 1866*
+>
+> The Church's one foundation
+> Is Jesus Christ her Lord;
+> She is His new creation
+> By water and the Word.
+> From heaven He came and sought her
+> To be His holy bride;
+> With His own blood He bought her,
+> And for her life He died.
+>
+> 教會唯一的根基
+> 是主耶穌基督；
+> 她是主的新造，
+> 藉著水與道而生。
+> 主從天上降臨尋她，
+> 要她作聖潔新婦；
+> 主用自己的血買贖她，
+> 並且為她捨命。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -7324,13 +9208,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{9}天使吩咐我說：「你要寫上：凡被請赴羔羊之婚筵的有福了！」又對我說：「這是神真實的話。」\textsuperscript{10}我就俯伏在他腳前要拜他。他說：「千萬不可！我和你，並你那些為耶穌作見證的弟兄同是作僕人的，你要敬拜神。因為預言中的靈意乃是為耶穌作見證。」
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}After this I heard what seemed to be the loud voice of a great multitude in heaven, crying out, "Hallelujah! Salvation and glory and power belong to our God, \textsuperscript{2}for his judgments are true and just; for he has judged the great prostitute who corrupted the earth with her immorality, and has avenged on her the blood of his servants." \textsuperscript{3}Once more they cried out, "Hallelujah! The smoke from her goes up forever and ever." \textsuperscript{4}And the twenty-four elders and the four living creatures fell down and worshiped God who was seated on the throne, saying, "Amen. Hallelujah!"
+> \textsuperscript{1}After these things I heard something like a loud voice of a great multitude in heaven, saying, 'Hallelujah! Salvation and glory and power belong to our God; \textsuperscript{2}BECAUSE HIS JUDGMENTS ARE TRUE AND RIGHTEOUS; for He has judged the great harlot who was corrupting the earth with her immorality, and HE HAS AVENGED THE BLOOD OF HIS BOND-SERVANTS ON HER.' \textsuperscript{3}And a second time they said, 'Hallelujah! HER SMOKE RISES UP FOREVER AND EVER.' \textsuperscript{4}And the twenty-four elders and the four living creatures fell down and worshiped God who sits on the throne saying, 'Amen. Hallelujah!'
 
-> \textsuperscript{5}And from the throne came a voice saying, "Praise our God, all you his servants, you who fear him, small and great." \textsuperscript{6}Then I heard what seemed to be the voice of a great multitude, like the roar of many waters and like the sound of mighty peals of thunder, crying out, "Hallelujah! For the Lord our God the Almighty reigns. \textsuperscript{7}Let us rejoice and exult and give him the glory, for the marriage of the Lamb has come, and his Bride has made herself ready; \textsuperscript{8}it was granted her to clothe herself with fine linen, bright and pure"—for the fine linen is the righteous deeds of the saints.
+> \textsuperscript{5}And a voice came from the throne, saying, 'Give praise to our God, all you His bond-servants, you who fear Him, the small and the great.' \textsuperscript{6}Then I heard *something* like the voice of a great multitude and like the sound of many waters and like the sound of mighty peals of thunder, saying, 'Hallelujah! For the Lord our God, the Almighty, reigns. \textsuperscript{7}'Let us rejoice and be glad and give the glory to Him, for the marriage of the Lamb has come and His bride has made herself ready.' \textsuperscript{8}It was given to her to clothe herself in fine linen, bright *and* clean; for the fine linen is the righteous acts of the saints.
 
-> \textsuperscript{9}And the angel said to me, "Write this: Blessed are those who are invited to the marriage supper of the Lamb." And he said to me, "These are the true words of God." \textsuperscript{10}Then I fell down at his feet to worship him, but he said to me, "You must not do that! I am a fellow servant with you and your brothers who hold to the testimony of Jesus. Worship God." For the testimony of Jesus is the spirit of prophecy.
+> \textsuperscript{9}Then he said to me, 'Write, 'Blessed are those who are invited to the marriage supper of the Lamb.'' And he said to me, 'These are true words of God.' \textsuperscript{10}Then I fell at his feet to worship him. But he said to me, 'Do not do that; I am a fellow servant of yours and your brethren who hold the testimony of Jesus; worship God. For the testimony of Jesus is the spirit of prophecy.'
 
 ---
 
@@ -7349,13 +9233,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *hallēlouia* | hallēlouia | 哈利路亞（你們要讚美耶和華） | 新約中僅出現於本段（4次），源自希伯來文詩篇的讚美用語 |
-| *gamos tou arniou* | gamos tou arniou | 羔羊的婚筵 | 直接呼應舊約先知常用以色列/教會為「神的新婦」的意象（何西阿書、以弗所書5章） |
-| *nymphē* | nymphē | 新婦 | 用於描述教會與基督聯合的親密關係，在啟示錄21:2, 9再次出現，用於新耶路撒冷 |
-| *byssinon* | byssinon | 細麻衣 | 珍貴的白色麻布衣料，經文明確解釋為「聖徒所行的義」 |
-| *dikaiōmata* | dikaiōmata | 義行、公義的行為 | 複數形式，指具體的、實際的義行，而非單指稱義的地位 |
-| *martyria Iēsou* | martyria Iēsou | 耶穌的見證 | 10節結尾的關鍵短語，說明所有真預言的核心與終極目的，都是為耶穌作見證 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ἁλληλουϊά | hallēlouia | 哈利路亞（你們要讚美耶和華） | 新約中僅出現於本段（4次），源自希伯來文詩篇的讚美用語 |
+| γάμος τοῦ ἀρνίου | gamos tou arniou | 羔羊的婚筵 | 直接呼應舊約先知常用以色列/教會為「神的新婦」的意象（何西阿書、以弗所書5章） |
+| νύμφη | nymphē | 新婦 | 描述教會與基督聯合的親密關係。19:7 本節原文實作 γυνή（妻），νύμφη 一詞出現於 21:2、21:9、22:17，用於新耶路撒冷 |
+| βύσσινον | byssinon | 細麻衣 | 珍貴的白色麻布衣料，經文明確解釋為「聖徒所行的義」 |
+| δικαιώματα | dikaiōmata | 義行、公義的行為 | 複數形式，指具體的、實際的義行，而非單指稱義的地位 |
+| μαρτυρία Ἰησοῦ | martyria Iēsou | 耶穌的見證 | 10節結尾的關鍵短語，說明所有真預言的核心與終極目的，都是為耶穌作見證 |
 
 ### 「聖徒所行的義」與稱義的關係
 
@@ -7363,7 +9247,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 審判與婚筵是同一個公義故事的兩面 (Judgment and the Wedding Feast Are Two Sides of the Same Story of Justice)
 
@@ -7383,25 +9267,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 45:13-15
+
+> \textsuperscript{13}王女在宮裡極其榮華；他的衣服是用金線繡的。
+> \textsuperscript{14}他要穿錦繡的衣服，被引到王前；隨從他的陪伴童女也要被帶到你面前。
+> \textsuperscript{15}他們要歡喜快樂被引導；他們要進入王宮。
+
+「王女在宮裡極其榮華；她的衣服是用金線繡的」——羔羊婚筵上新婦「蒙恩得穿光明潔白的細麻衣」(19:8)。詩篇 45 篇的婚禮頌歌，在此找到它的正主。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁一貫將教會理解為基督的新婦，這婚姻的聯合並非始於末世，而是貫穿整個救贖歷史逐步展開的過程——從舊約神與以色列立約的婚姻意象，到新約基督與教會的聯合；循此讀法，啟示錄19章羔羊婚筵的異象正是這條線在末了的完全實現。
+
 > — 此讀法屬奧古斯丁《上帝之城》教會論一貫立場的延伸應用，非逐章直引
 
-**維克多林 (Victorinus of Pettau, c. 260-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林將這段連續的「哈利路亞」讚美，理解為天上敬拜對地上教會受苦歷史的最終回應——教會歷代所忍受的一切苦難與逼迫，在這一刻都被神公義的審判與婚筵的喜樂所總結、所回應。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 19
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 亨利特別強調「聖徒所行的義」這個細節，提醒信徒：因信稱義的教義，絕不意味著行為不重要——恰恰相反，忠心的義行正是那件將要在婚筵中穿上的細麻衣，是恩典在生命中結出的真實果子。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 19
 
 ### 當代釋經
@@ -7409,16 +9312,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，約翰兩次想要敬拜天使（此處與22:8），兩次都被糾正——這個重複的細節提醒我們：即使是最蒙神使用、最接近神榮耀的受造之物，也絕不能取代神本身在敬拜中的位置。
+
 > — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本論到，羔羊婚筵的意象，將整本啟示錄——乃至整本聖經——的救贖故事，總結為一個愛的故事：神揀選、預備、潔淨祂的新婦，直到她終於預備好與祂永遠聯合。
+
 > — 參 Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Love Divine, All Loves Excelling
+
+*Charles Wesley, 1747*
+
+> Love divine, all loves excelling,
+> Joy of heaven, to earth come down,
+> Fix in us Thy humble dwelling,
+> All Thy faithful mercies crown.
+
+19:8 說細麻衣「就是聖徒所行的義」，但句首先說「蒙恩得穿」——義行是穿上的，恩典是賜下的。默想：新婦「自己預備好了」(19:7)，這預備不在婚筵當天，在今天。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**四聲哈利路亞**：麥克阿瑟指出，新約唯一出現「哈利路亞」的地方就是 19:1-6 這四聲——而頌讚的內容是巴比倫的審判與主神作王：天上的敬拜把神的公義與神的救恩一同唱進去，不挑選、不迴避。
+
+**新婦自己預備好了，衣服卻是「蒙恩得穿」**：19:7-8 的並列是他反覆講的救恩要義：「自己預備好了」與「蒙恩得穿光明潔白的細麻衣」在同一口氣裡；細麻衣「就是聖徒所行的義」——恩典是根，義行是果，次序不可倒置。
+
+**天使不受拜**：約翰兩次要拜使者，兩次被止住（19:10; 22:8-9）——「你要敬拜神」。他指出連傳遞啟示的天使都急忙推開敬拜，正反襯出全書中安然受拜的羔羊是誰：敬拜的界線，就是神性的界線。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：羔羊的婚筵 (Ask Elder Wong)
 
@@ -7456,7 +9387,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 **詩篇**：詩篇45:10-11
 
-> 女子啊，你要聽，要想，要側耳而聽！不要記念你的民和你的父家，王就羨慕你的美貌；因他是你的主，你當敬拜他。
+> 女子啊，你要聽，要想，要側耳而聽！不要記念你的民和你的父家，王就羨慕你的美貌；因為他是你的主，你當敬拜他。
 
 詩篇45篇這首「愛的詩歌」，傳統上被理解為預表彌賽亞王與祂新婦的婚禮，直接呼應啟示錄19章羔羊婚筵的異象。
 
@@ -7534,13 +9465,35 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 19:11-21
 
-**經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 天開了，一匹白馬出現——這不再是隱藏在異象象徵背後的基督，而是全書中最直接、最不容置疑的祂：「誠信真實」、「神之道」、「萬王之王，萬主之主」。祂眼中如火焰，衣服濺了血，口中出利劍，祂來不是為了再次受苦，而是為了審判與爭戰，終結一切敵擋神的權勢。這是啟示錄1章榮耀基督異象的完全展開——那位曾在1:13-16向約翰顯現、令他仆倒如死人的基督，如今公開地、決定性地介入歷史，帶著祂的軍隊，終結這場貫穿全書的宇宙爭戰。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Rejoice, the Lord Is King**
+> *Charles Wesley, 1746*
+>
+> Rejoice, the Lord is King!
+> Your Lord and King adore;
+> Mortals, give thanks and sing,
+> And triumph evermore.
+> Lift up your heart, lift up your voice;
+> Rejoice; again I say, rejoice.
+>
+> 當歡欣，主作王！
+> 敬拜你的主你的王；
+> 世人都當稱謝歌唱，
+> 永遠歡呼得勝。
+> 揚起你心，揚起你聲；
+> 歡欣，我再說，當歡欣。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -7550,11 +9503,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{17}我又看見一位天使站在日頭中，向天空所飛的鳥大聲喊著說：「你們聚集來赴神的大筵席，\textsuperscript{18}可以吃君王與將軍的肉，壯士與馬和騎馬者的肉，並一切自主的為奴的，以及大小人民的肉。」\textsuperscript{19}我看見那獸和地上的君王，並他們的眾軍都聚集，要與騎白馬的並他的軍兵爭戰。\textsuperscript{20}那獸被擒拿；那在獸面前曾行奇事、迷惑受獸印記和拜獸像之人的假先知，也與獸同被擒拿。他們兩個就活活的被扔在燒著硫磺的火湖裡；\textsuperscript{21}其餘的被騎白馬者口中出來的劍殺了；飛鳥都吃飽了他們的肉。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{11}Then I saw heaven opened, and behold, a white horse! The one sitting on it is called Faithful and True, and in righteousness he judges and makes war. \textsuperscript{12}His eyes are like a flame of fire, and on his head are many diadems, and he has a name written that no one knows but himself. \textsuperscript{13}He is clothed in a robe dipped in blood, and the name by which he is called is The Word of God. \textsuperscript{14}And the armies of heaven, arrayed in fine linen, white and pure, were following him on white horses. \textsuperscript{15}From his mouth comes a sharp sword with which to strike down the nations, and he will rule them with a rod of iron. He will tread the winepress of the fury of the wrath of God the Almighty. \textsuperscript{16}On his robe and on his thigh he has a name written, King of kings and Lord of lords.
+> \textsuperscript{11}And I saw heaven opened, and behold, a white horse, and He who sat on it *is* called Faithful and True, and in righteousness He judges and wages war. \textsuperscript{12}His eyes *are* a flame of fire, and on His head *are* many diadems; and He has a name written *on Him* which no one knows except Himself. \textsuperscript{13}*He is* clothed with a robe dipped in blood, and His name is called The Word of God. \textsuperscript{14}And the armies which are in heaven, clothed in fine linen, white *and* clean, were following Him on white horses. \textsuperscript{15}From His mouth comes a sharp sword, so that with it He may strike down the nations, and He will rule them with a rod of iron; and He treads the wine press of the fierce wrath of God, the Almighty. \textsuperscript{16}And on His robe and on His thigh He has a name written, 'KING OF KINGS, AND LORD OF LORDS.'
 
-> \textsuperscript{17}Then I saw an angel standing in the sun, and with a loud voice he called to all the birds that fly directly overhead, "Come, gather for the great supper of God, \textsuperscript{18}to eat the flesh of kings, the flesh of captains, the flesh of mighty men, the flesh of horses and their riders, and the flesh of all men, both free and slave, both small and great." \textsuperscript{19}And I saw the beast and the kings of the earth with their armies gathered to make war against him who was sitting on the horse and against his army. \textsuperscript{20}And the beast was captured, and with it the false prophet who in its presence had done the signs by which he deceived those who had received the mark of the beast and those who worshiped its image. These two were thrown alive into the lake of fire that burns with sulfur. \textsuperscript{21}And the rest were slain by the sword that came from the mouth of him who was sitting on the horse, and all the birds were gorged with their flesh.
+> \textsuperscript{17}Then I saw an angel standing in the sun, and he cried out with a loud voice, saying to all the birds which fly in midheaven, 'Come, assemble for the great supper of God, \textsuperscript{18}so that you may eat the flesh of kings and the flesh of commanders and the flesh of mighty men and the flesh of horses and of those who sit on them and the flesh of all men, both free men and slaves, and small and great.' \textsuperscript{19}And I saw the beast and the kings of the earth and their armies assembled to make war against Him who sat on the horse and against His army. \textsuperscript{20}And the beast was seized, and with him the false prophet who performed the signs in his presence, by which he deceived those who had received the mark of the beast and those who worshiped his image; these two were thrown alive into the lake of fire which burns with brimstone. \textsuperscript{21}And the rest were killed with the sword which came from the mouth of Him who sat on the horse, and all the birds were filled with their flesh.
 
 ---
 
@@ -7573,13 +9526,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *pistos kai alēthinos* | pistos kai alēthinos | 誠信真實 | 與3:14基督對老底嘉教會自稱的稱號相同，強調祂話語與應許的絕對可靠 |
-| *diadēmata polla* | diadēmata polla | 許多冠冕 | 與獸的「十個冠冕」（13:1）形成對比，象徵基督掌管的權柄遠超一切地上的王權 |
-| *ho logos tou theou* | ho logos tou theou | 神之道 | 直接呼應約翰福音1:1「太初有道」，確認啟示錄的基督與約翰福音的道成肉身是同一位 |
-| *rhomphaia* | rhomphaia | 利劍 | 從口中出來的劍，呼應1:16「從他口中出來一把兩刃的利劍」，象徵話語的審判權柄 |
-| *lēnos tou thymou* | lēnos tou thymou | 忿怒的酒榨 | 呼應以賽亞書63:3「我獨自踹酒榨」，是舊約中神獨自施行審判的意象 |
-| *basileus basileōn kai kyrios kyriōn* | basileus basileōn kai kyrios kyriōn | 萬王之王，萬主之主 | 與17:14的稱號順序相反（那裡是「萬主之主，萬王之王」），加強對稱與宣告的力度 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| πιστὸς καὶ ἀληθινός | pistos kai alēthinos | 誠信真實 | 與3:14基督對老底嘉教會自稱的稱號相同，強調祂話語與應許的絕對可靠 |
+| διαδήματα πολλά | diadēmata polla | 許多冠冕 | 與獸的「十個冠冕」（13:1）形成對比，象徵基督掌管的權柄遠超一切地上的王權 |
+| ὁ λόγος τοῦ θεοῦ | ho logos tou theou | 神之道 | 直接呼應約翰福音1:1「太初有道」，確認啟示錄的基督與約翰福音的道成肉身是同一位 |
+| ῥομφαία | rhomphaia | 利劍 | 從口中出來的劍，呼應1:16「從他口中出來一把兩刃的利劍」，象徵話語的審判權柄 |
+| ληνὸς τοῦ θυμοῦ | lēnos tou thymou | 忿怒的酒榨 | 呼應以賽亞書63:3「我獨自踹酒榨」，是舊約中神獨自施行審判的意象 |
+| βασιλεὺς βασιλέων καὶ κύριος κυρίων | basileus basileōn kai kyrios kyriōn | 萬王之王，萬主之主 | 與17:14的稱號順序相反（那裡是「萬主之主，萬王之王」），加強對稱與宣告的力度 |
 
 ### 「濺了血的衣服」的雙重意涵
 
@@ -7587,7 +9540,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 基督的得勝靠祂話語的權柄，而非武力的較量 (Christ's Victory Comes by the Authority of His Word, Not by Military Force)
 
@@ -7607,25 +9560,43 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 9:7-8
+
+> \textsuperscript{7}惟耶和華坐著為王，直到永遠；他已經為審判設擺他的寶座。
+> \textsuperscript{8}他要按公義審判世界，按正直判斷萬民。
+
+「他已經為審判設擺他的寶座。他要按公義審判世界」——白馬騎士「審判、爭戰，都按著公義」(19:11)。祂的爭戰不是報復，是審判的執行。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐一貫主張基督的再來將是公開的、決定性的、不容置疑的，與祂第一次降生的隱藏卑微形成對比——這幫助他反駁諾斯底主義那種將基督局限於隱密屬靈知識的錯誤教導。
+
 > — 此讀法屬愛任紐《駁異端》卷五基督再來論一貫立場的延伸應用，非逐章直引
 
-**維克多林 (Victorinus of Pettau, c. 260-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林特別留意19:15「利劍從他口中出來」的細節，將其與以賽亞書11:4「以口中的杖擊打世界，以嘴裡的氣殺戮惡人」連結，說明基督最終的審判是話語本身的權柄，而非需要憑藉外在武力。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 19
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在講章中強調，這段經文向受逼迫的信徒保證：基督再來時，將以無可抵擋的權柄終結一切逼迫祂百姓的勢力，這是支撐信徒忍耐到底、持守盼望的最堅實根基。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 19
 
 ### 當代釋經
@@ -7633,16 +9604,48 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這是整本啟示錄中，基督形像最直接、最不帶隱喻遮蔽的一次顯現——祂不再是燈臺中的人子、不再是寶座前的羔羊，而是騎著白馬、親自率領天軍降臨、終結一切悖逆的得勝之王。
+
 > — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
 畢爾論到，利劍從口中而出、而非握在手中，這個意象貫穿啟示錄1:16與19:15，強調基督審判的權柄本質上是話語性的——祂的話語本身，就具有創造與毀滅的絕對權柄。
+
 > — 參 G.K. Beale, *The Book of Revelation* (NIGTC)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Crown Him with Many Crowns
+
+*Matthew Bridges, 1851; Godfrey Thring, 1874*
+
+> Crown Him the Lord of years,
+> The Potentate of time,
+> Creator of the rolling spheres,
+> Ineffably sublime.
+> All hail, Redeemer, hail!
+> For Thou hast died for me;
+> Thy praise shall never, never fail
+> Throughout eternity.
+
+白馬騎士「穿著濺了血的衣服」(19:13)——出征之前衣服已經有血，因為那是祂自己在十字架上流的血。默想：祂口中的利劍是祂的話；擊殺列國的，正是當初創造諸世界的那一句話。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**同一位耶穌，另一種降臨**：麥克阿瑟對照兩次降臨的畫面：第一次騎驢駒、被審判、頭戴荊棘冠；這一次騎白馬、施行審判、頭戴許多冠冕——教會傳講的基督若只有第一幅畫面，只傳了一半。
+
+**先濺血的衣，後開始的戰**：19:13 騎士出場時衣服已經濺了血——按賽63 的背景，這是踹酒醡者的血衣。他指出這場「戰爭」沒有交鋒的過程：武器只有一樣——口中的利劍（19:15, 21），話語創造了世界，話語也終結叛亂。
+
+**兩場筵席**：19:9 羔羊的婚筵與 19:17-18 飛鳥的大筵席在同一章裡——他不迴避這個對比的殘酷：每個人終必出現在其中一場筵席裡；福音的急迫，在這兩節的距離之間。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：白馬騎士 (Ask Elder Wong)
 
@@ -7680,7 +9683,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 **詩篇**：詩篇45:3-5
 
-> 大能者啊，願你腰間佩刀，大有榮耀和威嚴！為真理、謙卑、公義赫然坐車前往，無不得勝；你的右手必顯明可畏的事。你的箭鋒快，射入王敵之心；萬民仆倒在你以下。
+> 大能者啊，願你腰間佩刀，大有榮耀和威嚴！為真理、謙卑、公義赫然坐車前往，無不得勝；你的右手必顯明可畏的事。你的箭鋒快，射中王敵之心；萬民仆倒在你以下。
 
 詩篇45篇這首彌賽亞婚禮詩，同時描繪了新郎王者的威嚴與得勝的權柄——與啟示錄19章白馬騎士的異象前後呼應。
 
@@ -7758,13 +9761,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 20:1-6
 
-**經文核對**：[ai-eden.com/bible/revelation/20](https://www.ai-eden.com/bible/revelation/20?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/20](https://www.ai-eden.com/bible/revelation/20?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 19章白馬騎士剛剛終結了獸與假先知的悖逆，20章緊接著處理那條古蛇——龍被捉住、捆綁一千年，扔在無底坑裡。這一章因對「一千年」的不同理解，成為歷代教會解經爭議最多的段落之一，但無論採取哪一種立場，經文的核心信息始終清楚：與基督一同作王的，是那些「因為給耶穌作見證，並為神之道被斬者」（4節）——這一章從頭到尾都在講述，基督徒忠心至死所換來的，不是被遺忘的犧牲，而是與基督一同掌權的尊榮。真正配得敬畏與盼望的，不是對千禧年細節的精確掌握，而是那位使死人復活、使忠心者與祂一同作王的基督自己。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Ten Thousand Times Ten Thousand**
+> *Henry Alford, 1867*
+>
+> O then what raptured greetings
+> On Canaan's happy shore,
+> What knitting severed friendships up,
+> Where partings are no more!
+>
+> 在迦南快樂的岸邊，
+> 何等狂喜的相見；
+> 折斷的情誼重新繫上，
+> 在那裡不再有離別！
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -7774,11 +9795,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{4}我又看見幾個寶座，也有坐在上面的，並有審判的權柄賜給他們。我又看見那些因為給耶穌作見證，並為神之道被斬者的靈魂，和那沒有拜過獸與獸像，也沒有在額上和手上受過他印記之人的靈魂，他們都復活了，與基督一同作王一千年。\textsuperscript{5}這是頭一次的復活。其餘的死人還沒有復活，直等那一千年完了。\textsuperscript{6}在頭一次復活有分的有福了，聖潔了！第二次的死在他們身上沒有權柄。他們必作神和基督的祭司，並要與基督一同作王一千年。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then I saw an angel coming down from heaven, holding in his hand the key to the bottomless pit and a great chain. \textsuperscript{2}And he seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years, \textsuperscript{3}and threw him into the pit, and shut it and sealed it over him, so that he might not deceive the nations any longer, until the thousand years were ended. After that he must be released for a little while.
+> \textsuperscript{1}Then I saw an angel coming down from heaven, holding the key of the abyss and a great chain in his hand. \textsuperscript{2}And he laid hold of the dragon, the serpent of old, who is the devil and Satan, and bound him for a thousand years; \textsuperscript{3}and he threw him into the abyss, and shut *it* and sealed *it* over him, so that he would not deceive the nations any longer, until the thousand years were completed; after these things he must be released for a short time.
 
-> \textsuperscript{4}Then I saw thrones, and seated on them were those to whom the authority to judge was committed. Also I saw the souls of those who had been beheaded for the testimony of Jesus and for the word of God, and those who had not worshiped the beast or its image and had not received its mark on their foreheads or their hands. They came to life and reigned with Christ for a thousand years. \textsuperscript{5}The rest of the dead did not come to life until the thousand years were ended. This is the first resurrection. \textsuperscript{6}Blessed and holy is the one who shares in the first resurrection! Over such the second death has no power, but they will be priests of God and of Christ, and they will reign with him for a thousand years.
+> \textsuperscript{4}Then I saw thrones, and they sat on them, and judgment was given to them. And I *saw* the souls of those who had been beheaded because of their testimony of Jesus and because of the word of God, and those who had not worshiped the beast or his image, and had not received the mark on their forehead and on their hand; and they came to life and reigned with Christ for a thousand years. \textsuperscript{5}The rest of the dead did not come to life until the thousand years were completed. This is the first resurrection. \textsuperscript{6}Blessed and holy is the one who has a part in the first resurrection; over these the second death has no power, but they will be priests of God and of Christ and will reign with Him for a thousand years.
 
 ---
 
@@ -7797,13 +9818,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *chilia etē* | chilia etē | 一千年 | 出現六次（2, 3, 4, 5, 6, 7節），是全書唯一明確的具體時間長度用語 |
-| *abyssos* | abyssos | 無底坑 | 與9:1-2、11:7同一詞，是邪惡勢力被囚禁的所在，非最終的懲罰地（火湖才是最終的懲罰地） |
-| *deō* | deō | 捆綁 | 呼應馬可福音3:27耶穌論及「先捆綁那壯士」才能奪回他所霸佔的家業的比喻 |
-| *prōtē anastasis* | prōtē anastasis | 頭一次的復活 | 與「其餘的死人」形成對比，暗示存在兩個階段或兩種性質的復活 |
-| *hiereis tou theou kai tou Christou* | hiereis tou theou kai tou Christou | 神和基督的祭司 | 呼應1:6「又使我們成為國民，作他父神的祭司」，是舊約祭司職分的終極應驗 |
-| *ho thanatos ho deuteros* | ho thanatos ho deuteros | 第二次的死 | 啟示錄特有的詞彙（2:11, 20:6, 14, 21:8），指靈魂永遠與神隔絕的終極結局 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| χίλια ἔτη | chilia etē | 一千年 | 出現六次（2, 3, 4, 5, 6, 7節），是全書唯一明確的具體時間長度用語 |
+| ἄβυσσος | abyssos | 無底坑 | 與9:1-2、11:7同一詞，是邪惡勢力被囚禁的所在，非最終的懲罰地（火湖才是最終的懲罰地） |
+| δέω | deō | 捆綁 | 呼應馬可福音3:27耶穌論及「先捆綁那壯士」才能奪回他所霸佔的家業的比喻 |
+| ἡ ἀνάστασις ἡ πρώτη | hē anastasis hē prōtē | 頭一次的復活 | 20:5-6，與「其餘的死人」形成對比，暗示存在兩個階段或兩種性質的復活 |
+| ἱερεῖς τοῦ θεοῦ καὶ τοῦ Χριστοῦ | hiereis tou theou kai tou Christou | 神和基督的祭司 | 呼應1:6「又使我們成為國民，作他父神的祭司」，是舊約祭司職分的終極應驗 |
+| ὁ θάνατος ὁ δεύτερος | ho thanatos ho deuteros | 第二次的死 | 啟示錄特有的詞彙（2:11, 20:6, 14, 21:8），指靈魂永遠與神隔絕的終極結局 |
 
 ### 「頭一次的復活」的三種理解
 
@@ -7811,7 +9832,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 撒但的權勢終必被完全限制 (Satan's Power Will Ultimately Be Fully Restrained)
 
@@ -7831,25 +9852,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 37:9-11
+
+> \textsuperscript{9}因為作惡的必被剪除；惟有等候耶和華的必承受地土。
+> \textsuperscript{10}還有片時，惡人要歸於無有；你就是細察他的住處也要歸於無有。
+> \textsuperscript{11}但謙卑人必承受地土，以豐盛的平安為樂。
+
+「惟有等候耶和華的必承受地土」——與基督一同作王一千年的，是那些「沒有拜過獸」、曾被斬首的人（20:4）。承受地土的路，詩篇早已說明：不是奪取，是等候。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**愛任紐 (Irenaeus, c. 130-202)**：
+**愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐是早期教會明確持守前千禧年立場的教父之一，他將這一千年理解為基督再來後、在地上實際建立的一段治理時期，是聖徒在經歷過患難之後、蒙神應許得享安息與復興的具體實現。
+
 > — Irenaeus, *Against Heresies*, Book V, Chapter 32-36
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁早年曾持守前千禧年的理解，但後來在《上帝之城》中發展出影響深遠的無千禧年立場，將千年理解為教會時代整體、撒但受到限制不能再「迷惑列國」阻止福音廣傳的這段期間，這觀點成為後世無千禧年派最重要的根源。
+
 > — Augustine, *City of God*, Book 20, Chapter 9
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在他的講章中，特別強調無論對千年細節持何種理解，最核心且不容爭議的信息是：撒但的權勢有限、終必被神完全制伏，而忠心殉道的聖徒，他們的犧牲絕不會被神遺忘或視為徒然。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 20
 
 ### 當代釋經
@@ -7857,16 +9897,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，無論對千禧年的具體性質持何種立場，20章最核心的信息無可爭議：那些為基督忠心至死的人，他們的犧牲絕非徒然——他們要得著復活的生命與一同掌權的尊榮，這是神給每一位忠心見證者最確實的應許。
+
 > — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本論到，這一千年最重要的屬靈領受，不在於它的具體時間長度或性質為何，而在於它向歷代受苦的教會宣告：神的公義終必伸張，撒但的權勢終必受限，殉道者的犧牲終必得著超乎想像的獎賞。
+
 > — 參 Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### It Is Well with My Soul
+
+*Horatio G. Spafford, 1873*
+
+> And Lord, haste the day when my faith shall be sight,
+> The clouds be rolled back as a scroll;
+> The trump shall resound, and the Lord shall descend,
+> Even so, it is well with my soul.
+
+「在頭一次復活有分的有福了、聖潔了，第二次的死在他們身上沒有權柄」(20:6)。默想：司百福在喪女的大西洋上寫下「我的心靈得安寧」，末節卻是催促主快來——安寧與等候，在同一顆心裡並存。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**六次「一千年」**：麥克阿瑟強調 20:1-7 短短七節，「一千年」出現六次——若這數字純屬象徵，聖靈不必如此反覆；他按前千禧年立場讀作基督再來後在地上的真實國度，應驗眾先知對彌賽亞國度的預言。
+
+**捆綁是真捆綁**：20:1-3 撒但被鎖鏈捆住、扔進無底坑、封印——四個動作層層加碼。他反對把這讀成「部分限制」：經文的用意是全面的禁錮，「使牠不得再迷惑列國」，直到千年完了。
+
+**與基督一同作王的是殉道者**：20:4 特別點名「那些因為給耶穌作見證……被斬者的靈魂」——地上以為被消滅的人，在國度裡與王同坐。他指出這是對 13 章的最終翻案：獸的四十二個月換來的是火湖，殉道者的至死忠心換來的是千年的寶座。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：撒但被捆綁與第一次復活 (Ask Elder Wong)
 
@@ -7982,13 +10050,39 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 20:7-15
 
-**經文核對**：[ai-eden.com/bible/revelation/20](https://www.ai-eden.com/bible/revelation/20?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/20](https://www.ai-eden.com/bible/revelation/20?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 千年國度的平安過去之後，約翰筆鋒一轉，讓我們看見一件驚心的事：撒但被釋放了。這不是神計劃的漏洞，而是神計劃的最後一次揭示——連在基督親自掌權、公義完全彰顯的千年裡，人心的悖逆仍未被環境改變。歌革瑪各的叛亂被火一舉燒滅，撒但被扔進硫磺的火湖，「晝夜受痛苦，直到永永遠遠」（20:10）。緊接著是全書最莊嚴的一幕：白色大寶座前，死了的人都站著，案卷展開，生命冊展開。這裡沒有基督流血代贖的畫面，只有審判本身——因為坐在寶座上的那一位，正是被殺的羔羊，如今以審判者的身分顯現（參約5:22, 27）。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **There Is a Green Hill Far Away**
+> *Cecil Frances Alexander, 1847*
+>
+> There is a green hill far away,
+> Outside a city wall,
+> Where the dear Lord was crucified,
+> Who died to save us all.
+> He died that we might be forgiven,
+> He died to make us good,
+> That we might go at last to heaven,
+> Saved by His precious blood.
+>
+> 遠遠有一座青山，
+> 在城牆的外邊，
+> 親愛的主在那裡被釘，
+> 祂死為要救萬人。
+> 祂死使我們得蒙赦免，
+> 祂死使我們成聖，
+> 使我們終能進入天家，
+> 靠祂寶血得救恩。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -7998,11 +10092,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{11}我又看見一個白色的大寶座與坐在上面的；從他面前天地都逃避，再無可見之處了。\textsuperscript{12}我又看見死了的人，無論大小，都站在寶座前。案卷展開了，並且另有一卷展開，就是生命冊。死了的人都憑著這些案卷所記載的，照他們所行的受審判。\textsuperscript{13}於是海交出其中的死人；死亡和陰間也交出其中的死人；他們都照各人所行的受審判。\textsuperscript{14}死亡和陰間也被扔在火湖裡；這火湖就是第二次的死。\textsuperscript{15}若有人名字沒記在生命冊上，他就被扔在火湖裡。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{7}And when the thousand years are ended, Satan will be released from his prison \textsuperscript{8}and will come out to deceive the nations that are at the four corners of the earth, Gog and Magog, to gather them for battle; their number is like the sand of the sea. \textsuperscript{9}And they marched up over the broad plain of the earth and surrounded the camp of the saints and the beloved city, but fire came down from heaven and consumed them, \textsuperscript{10}and the devil who had deceived them was thrown into the lake of fire and sulfur where the beast and the false prophet were, and they will be tormented day and night forever and ever.
+> \textsuperscript{7}When the thousand years are completed, Satan will be released from his prison, \textsuperscript{8}and will come out to deceive the nations which are in the four corners of the earth, Gog and Magog, to gather them together for the war; the number of them is like the sand of the seashore. \textsuperscript{9}And they came up on the broad plain of the earth and surrounded the camp of the saints and the beloved city, and fire came down from heaven and devoured them. \textsuperscript{10}And the devil who deceived them was thrown into the lake of fire and brimstone, where the beast and the false prophet are also; and they will be tormented day and night forever and ever.
 
-> \textsuperscript{11}Then I saw a great white throne and him who was seated on it. From his presence earth and sky fled away, and no place was found for them. \textsuperscript{12}And I saw the dead, great and small, standing before the throne, and books were opened. Then another book was opened, which is the book of life. And the dead were judged by what was written in the books, according to what they had done. \textsuperscript{13}And the sea gave up the dead who were in it, Death and Hades gave up the dead who were in them, and they were judged, each one of them, according to what they had done. \textsuperscript{14}Then Death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. \textsuperscript{15}And if anyone's name was not found written in the book of life, he was thrown into the lake of fire.
+> \textsuperscript{11}Then I saw a great white throne and Him who sat upon it, from whose presence earth and heaven fled away, and no place was found for them. \textsuperscript{12}And I saw the dead, the great and the small, standing before the throne, and books were opened; and another book was opened, which is *the book* of life; and the dead were judged from the things which were written in the books, according to their deeds. \textsuperscript{13}And the sea gave up the dead which were in it, and death and Hades gave up the dead which were in them; and they were judged, every one *of them* according to their deeds. \textsuperscript{14}Then death and Hades were thrown into the lake of fire. This is the second death, the lake of fire. \textsuperscript{15}And if anyone's name was not found written in the book of life, he was thrown into the lake of fire.
 
 ---
 
@@ -8021,13 +10115,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *lythēsetai* | lythēsetai | 被釋放 | 20:3, 7；被動語態，強調這釋放本身也在神的許可之下 |
-| *planēsai* | planēsai | 迷惑 | 與撒但貫穿全書的活動一致（12:9, 20:3, 8） |
-| *thronos leukos megas* | thronos leukos megas | 白色的大寶座 | 「白色」象徵純潔無瑕的公義，與獸的血紅、淫婦的紫色形成對比 |
-| *biblia* | biblia | 案卷（複數） | 記錄各人行為的冊子，與「生命冊」（biblion tēs zōēs，單數）明確區分 |
-| *krinō* | krinō | 審判 | 20:12-13三次出現，強調審判的公正性——「照他們所行的」 |
-| *thanatos ho deuteros* | thanatos ho deuteros | 第二次的死 | 啟示錄特有詞（2:11, 20:6, 14, 21:8），指與神永遠隔絕的狀態，有別於肉身的死亡 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| λυθήσεται | lythēsetai | 被釋放 | 20:3, 7；被動語態，強調這釋放本身也在神的許可之下 |
+| πλανῆσαι | planēsai | 迷惑 | 與撒但貫穿全書的活動一致（12:9, 20:3, 8） |
+| θρόνος μέγας λευκός | thronos megas leukos | 白色的大寶座 | 20:11 原文作 θρόνον μέγαν λευκόν；「白色」象徵純潔無瑕的公義，與獸的血紅、淫婦的紫色形成對比 |
+| βιβλία | biblia | 案卷（複數） | 記錄各人行為的冊子，與「生命冊」（biblion tēs zōēs，單數）明確區分 |
+| κρίνω | krinō | 審判 | 20:12-13三次出現，強調審判的公正性——「照他們所行的」 |
+| ὁ δεύτερος θάνατος | ho deuteros thanatos | 第二次的死 | 啟示錄特有詞（2:11, 20:6, 14, 21:8），指與神永遠隔絕的狀態，有別於肉身的死亡 |
 
 ### 「案卷」與「生命冊」的分別
 
@@ -8035,7 +10129,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 千年的平安不能改變人心 (A Thousand Years of Peace Cannot Change the Heart)
 
@@ -8059,25 +10153,43 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 130:3-4
+
+> \textsuperscript{3}主─耶和華啊，你若究察罪孽，誰能站得住呢？
+> \textsuperscript{4}但在你有赦免之恩，要叫人敬畏你。
+
+「主──耶和華啊，你若究察罪孽，誰能站得住呢？但在你有赦免之恩」——案卷展開，「死了的人都憑著這些案卷所記載的，照他們所行的受審判」(20:12)。惟一站得住的根據，不在案卷，在另一卷書：生命冊。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐在《駁異端》第五卷論到千年國度之後的結局時指出，撒但最後的釋放與被扔入火湖，正顯明神容許試探存在到底的目的，不是要人失敗，而是要藉著審判徹底、公開、無可辯駁地將公義彰顯出來，使凡看見的都無話可說。
+
 > — Irenaeus, *Against Heresies*, Book V, Ch. 35-36
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁在《上帝之城》第二十卷十四章論到「案卷」展開的意義時寫道：「我們必須將這理解為一種神聖的能力，藉著這能力，各人都要將自己一切的作為，無論善惡，重新帶回記憶之中，並以驚人的速度在心中逐一省察，使這知識足以指控或為良心辯護，如此，眾人便同時受審判。」他接著指出，這能力之所以被稱為「冊子」，是因為它使我們如同閱讀一般，看見它所使我們記起的一切。
+
 > — Augustine, *City of God*, Book XX, Ch. 14 (trans. Marcus Dods)
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在其百篇啟示錄講道中論到這段經文時強調，撒但最終被扔入火湖並非神遲來的報應，而是祂從創世以來早已定下、如今按時成就的公義——教會在患難中的忍耐，正是因為深知這結局早已確定。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 20
 
 ### 當代釋經
@@ -8085,16 +10197,46 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其新約注釋中論到這段經文時指出，案卷所記載的是每一個未曾因信基督而得赦免之人一生的完整記錄——沒有一句閒話、沒有一個意念被遺漏；正因如此，每一個站在這寶座前、名字卻不在生命冊上的人，都無可申訴。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其啟示錄注釋中指出，歌革瑪各之戰的重點不在於戰事本身的過程，而在於它戲劇性地短暫——神一句話就終結了看似無可抵擋的悖逆聯軍；這正是全書一貫的模式：仇敵的聲勢愈大，神介入的簡易愈顯明祂的至高。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### And Can It Be That I Should Gain
+
+*Charles Wesley, 1738*
+
+> No condemnation now I dread;
+> Jesus, and all in Him, is mine!
+> Alive in Him, my living Head,
+> And clothed in righteousness divine,
+> Bold I approach th'eternal throne,
+> And claim the crown, through Christ my own.
+
+「我坦然無懼來到永恆寶座前」——這句歌詞只有一種人敢唱：名字在生命冊上的人。默想：白色大寶座前的問題不是「你作過甚麼」，最終是「你的名字在哪一卷書上」。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**千年之後的最後叛亂**：撒但被釋放，仍能從四方招聚「多如海沙」的叛軍（20:8）——麥克阿瑟視此為聖經對人性最終極的一次實驗報告：在王親自治理、環境完美的一千年之後，未重生的心依然一點就著。問題從來不在環境，在心。
+
+**案卷與生命冊**：20:12 有兩種書：記載行為的案卷，與生命冊。他的讀法很清楚：受審者「照他們所行的受審判」——案卷定罪責的輕重；而定去向的只有一個標準：「若有人名字沒記在生命冊上，他就被扔在火湖裡」。
+
+**死亡本身被扔進火湖**：20:14「死亡和陰間也被扔在火湖裡」——最後被處決的仇敵是死亡自己（林前15:26）。他指出這是全聖經敘事的必然終點：從伊甸闖入的死，在新天新地的門檻前被永遠清除。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：白色大寶座前的名字 (Ask Elder Wong)
 
@@ -8214,13 +10356,31 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 21:1-8
 
-**經文核對**：[ai-eden.com/bible/revelation/21](https://www.ai-eden.com/bible/revelation/21?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/21](https://www.ai-eden.com/bible/revelation/21?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 審判的火湖過去之後，約翰的異象忽然轉入全書最溫柔的一幕。沒有審判的威嚴，只有一位新郎迎接新娘的喜悅：「聖城新耶路撒冷由神那裡從天而降，預備好了，就如新婦妝飾整齊，等候丈夫。」創世記三章咒詛臨到之後失落的一切——與神同住、無死無淚、萬物更新——在這八節經文裡被一一贖回。而說話的那一位，正是坐在寶座上的那位：「我是阿拉法，我是俄梅戛；我是初，我是終」——這稱號正是1:8、1:17基督自我啟示的稱號，如今由祂親口宣告更新萬有的工作已經「都成了」（21:6）。從十字架上的「成了」（約19:30）到這裡萬有更新的「都成了」，和合本用的是同一句中文譯語，是同一位主、同一份救贖工作的兩個高峰。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Jerusalem, My Happy Home**
+> *Attr. Joseph Bromehead, 1795 (from a 16th-c. text)*
+>
+> Jerusalem, my happy home,
+> When shall I come to thee?
+> When shall my sorrows have an end?
+> Thy joys when shall I see?
+>
+> 耶路撒冷，我快樂的家，
+> 我何時能到你那裡？
+> 我的憂傷何時了結？
+> 何時得見你的喜樂？
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -8230,11 +10390,11 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{5}坐寶座的說：\jesus{「看哪，我將一切都更新了！」}又說：\jesus{「你要寫上；因這些話是可信的，是真實的。」}\textsuperscript{6}他又對我說：\jesus{「都成了！我是阿拉法，我是俄梅戛；我是初，我是終。我要將生命泉的水白白賜給那口渴的人喝。\textsuperscript{7}得勝的，必承受這些為業：我要作他的神，他要作我的兒子。\textsuperscript{8}惟有膽怯的、不信的、可憎的、殺人的、淫亂的、行邪術的、拜偶像的，和一切說謊話的，他們的分就在燒著硫磺的火湖裡；這是第二次的死。」}
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{1}Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and the sea was no more. \textsuperscript{2}And I saw the holy city, new Jerusalem, coming down out of heaven from God, prepared as a bride adorned for her husband. \textsuperscript{3}And I heard a loud voice from the throne saying, "Behold, the dwelling place of God is with man. He will dwell with them, and they will be his people, and God himself will be with them as their God. \textsuperscript{4}He will wipe away every tear from their eyes, and death shall be no more, neither shall there be mourning, nor crying, nor pain anymore, for the former things have passed away."
+> \textsuperscript{1}Then I saw a new heaven and a new earth; for the first heaven and the first earth passed away, and there is no longer *any* sea. \textsuperscript{2}And I saw the holy city, new Jerusalem, coming down out of heaven from God, made ready as a bride adorned for her husband. \textsuperscript{3}And I heard a loud voice from the throne, saying, 'Behold, the tabernacle of God is among men, and He will dwell among them, and they shall be His people, and God Himself will be among them, \textsuperscript{4}and He will wipe away every tear from their eyes; and there will no longer be *any* death; there will no longer be *any* mourning, or crying, or pain; the first things have passed away.'
 
-> \textsuperscript{5}And he who was seated on the throne said, \jesus{"Behold, I am making all things new."} Also he said, \jesus{"Write this down, for these words are trustworthy and true."} \textsuperscript{6}And he said to me, \jesus{"It is done! I am the Alpha and the Omega, the beginning and the end. To the thirsty I will give from the spring of the water of life without payment. \textsuperscript{7}The one who conquers will have this heritage, and I will be his God and he will be my son. \textsuperscript{8}But as for the cowardly, the faithless, the detestable, as for murderers, the sexually immoral, sorcerers, idolaters, and all liars, their portion will be in the lake that burns with fire and sulfur, which is the second death."}
+> \textsuperscript{5}And He who sits on the throne said, \jesus{'Behold, I am making all things new.'} And He said, \jesus{'Write, for these words are faithful and true.'} \textsuperscript{6}Then He said to me, \jesus{'It is done. I am the Alpha and the Omega, the beginning and the end. I will give to the one who thirsts from the spring of the water of life without cost. \textsuperscript{7}'He who overcomes will inherit these things, and I will be his God and he will be My son. \textsuperscript{8}'But for the cowardly and unbelieving and abominable and murderers and immoral persons and sorcerers and idolaters and all liars, their part \textit{will be} in the lake that burns with fire and brimstone, which is the second death.'}
 
 ---
 
@@ -8253,13 +10413,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *kainos* | kainos | 新（性質上的新，非時間上的新） | 與*neos*（時間新）不同，*kainos*強調本質的更新，非另造一個 |
-| *skēnē* | skēnē | 帳幕 | 呼應約1:14「道成了肉身，住（*skēnoō*）在我們中間」與出埃及記會幕，顯明神與人同住的主題貫穿全本聖經 |
-| *exaleiphō* | exaleiphō | 擦去 | 溫柔而徹底的動作，21:4「擦去他們一切的眼淚」 |
-| *gegonan* | gegonan | 成了、完成了 | 完成時態，21:6「都成了」，與約19:30十字架上的「成了」（*tetelestai*）呼應同一救贖工程的完成 |
-| *nikōn* | nikōn | 得勝的（現在分詞） | 呼應七教會書信七次「得勝的」應許，此處是這一切應許的總收成 |
-| *deiloi* | deiloi | 膽怯的 | 21:8罪惡清單之首，非指自然的懼怕，而指因懼怕而背棄信仰的軟弱 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| καινός | kainos | 新（性質上的新，非時間上的新） | 與*neos*（時間新）不同，*kainos*強調本質的更新，非另造一個 |
+| σκηνή | skēnē | 帳幕 | 呼應約1:14「道成了肉身，住（*skēnoō*）在我們中間」與出埃及記會幕，顯明神與人同住的主題貫穿全本聖經 |
+| ἐξαλείφω | exaleiphō | 擦去 | 溫柔而徹底的動作，21:4「擦去他們一切的眼淚」 |
+| γέγοναν | gegonan | 成了、完成了 | 完成時態，21:6「都成了」，與約19:30十字架上的「成了」（*tetelestai*）呼應同一救贖工程的完成 |
+| νικῶν | nikōn | 得勝的（現在分詞） | 呼應七教會書信七次「得勝的」應許，此處是這一切應許的總收成 |
+| δειλοί | deiloi | 膽怯的 | 21:8罪惡清單之首，非指自然的懼怕，而指因懼怕而背棄信仰的軟弱 |
 
 ### 「新」(kainos) 的深意
 
@@ -8267,7 +10427,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 創世記的失落，在此全部贖回 (Everything Lost in Genesis Is Redeemed Here)
 
@@ -8291,25 +10451,42 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 30:5
+
+> \textsuperscript{5}因為，他的怒氣不過是轉眼之間；他的恩典乃是一生之久。一宿雖然有哭泣，早晨便必歡呼。
+
+「一宿雖然有哭泣，早晨便必歡呼」——21:4「神要擦去他們一切的眼淚」是這句應許的終極清晨：不再是哭一宿、歡呼一晨的循環，而是眼淚本身成為歷史。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
 **愛任紐 (Irenaeus of Lyons, c. 130-202)**：
 
 愛任紐論到萬物更新時強調，這更新是神救贖計劃從起初就一貫的目標——神造萬物本為美好，人的墮落使受造界一同嘆息，但神藉基督救贖的，正是這同一個受造界，而非另造一個與物質世界無關的天堂。
+
 > — Irenaeus, *Against Heresies*, Book V, Ch. 36
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁在《上帝之城》結尾論到「新天新地」時寫道，這將是一個「安息」（*sabbatismus*）的境界——不是停止一切活動，而是不再有任何缺乏、爭戰或勞苦需要對抗，一切都在對神的敬拜與享受中得着完全的滿足。
+
 > — Augustine, *City of God*, Book XXII, Ch. 30
 
-### 宗教改革時期
+### 改革宗時期
 
 **馬太·亨利 (Matthew Henry, 1662-1714)**：
 
 馬太亨利論到21:4「不再有死亡」時指出，這節經文之所以帶給信徒極大的安慰，是因為它應許的不只是「減少」痛苦，而是「除盡」一切痛苦的根源——先前的事都要過去，沒有絲毫殘留。
+
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 21
 
 ### 當代釋經
@@ -8317,16 +10494,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其新約注釋中指出，「神的帳幕在人間」是全本聖經歷史的終極目標——從伊甸園的同行，到會幕與聖殿的同在，到道成肉身的「住在我們中間」，最終在新耶路撒冷裡，神與祂的子民永遠、直接、毫無阻隔地同住。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
 孟斯在其啟示錄注釋中論到「成了」這句宣告時指出，這是啟示錄整卷書的關鍵句之一——它宣告的不是一個新計劃的開始，而是神從創世以來救贖計劃的最終完成。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### Face to Face with Christ, My Savior
+
+*Carrie E. Breck, 1898*
+
+> Face to face with Christ, my Savior,
+> Face to face—what will it be,
+> When with rapture I behold Him,
+> Jesus Christ who died for me?
+
+「神的帳幕在人間。他要與人同住」(21:3)——這句話是整本聖經的心願：伊甸園裡神與人同行、會幕與聖殿的居中、道成肉身的「住在我們中間」，到此全部歸位。默想：新天新地最大的更新不是街道與城牆，是「神要親自與他們同在」。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**「不再有海」與一連串的「不再有」**：麥克阿瑟數算 21 章的否定句——不再有海、不再有死亡、不再有悲哀哭號疼痛、先前的事都過去了。新創造的榮耀先用減法寫成：把咒詛帶進來的每一項，逐一清空。
+
+**帳幕的應許走到終點**：21:3「神的帳幕在人間」——從伊甸同行、會幕居中、道成肉身「支搭帳幕」在我們中間（約1:14），到此「神要親自與他們同在」。他讀作全本聖經的目的句：救贖的終點不是天堂的風景，是神自己。
+
+**得勝的與膽怯的**：21:7-8 的對照他從不軟化：承受這一切為業的是「得勝的」，名單另一頭排第一的竟是「膽怯的」——在逼迫的世代，不敢認主的軟弱不是小事；而 21:6 白白賜生命水的應許，正是給每一個此刻仍可回轉的人。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：帳幕與眼淚 (Ask Elder Wong)
 
@@ -8362,7 +10567,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 **詩篇**：詩篇 126:5-6
 
-> 流淚撒種的，必歡呼收割。那帶種流淚出去的，必要歡呼收割禾捆回來。
+> 流淚撒種的，必歡呼收割！那帶種流淚出去的，必要歡歡樂樂地帶禾捆回來！
 
 大衛時代的朝聖詩歌，早已預表了眼淚終必轉為歡呼的盼望——21:4「擦去眼淚」正是這應許最終極、永恆的成就。
 
@@ -8444,13 +10649,39 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 21:9-22:5
 
-**經文核對**：[ai-eden.com/bible/revelation/21](https://www.ai-eden.com/bible/revelation/21?t=CUV,ESV&cols=2) ／ [ai-eden.com/bible/revelation/22](https://www.ai-eden.com/bible/revelation/22?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/21](https://www.ai-eden.com/bible/revelation/21?t=CUV,NASB&cols=2) ／ [ai-eden.com/bible/revelation/22](https://www.ai-eden.com/bible/revelation/22?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 一位拿着七碗災殃的天使，如今換了一個角色：「你到這裡來，我要將新婦，就是羔羊的妻，指給你看」（21:9）。同一位天使，曾指給約翰看那騎在獸上的大淫婦（17:1），如今用幾乎一模一樣的句式，指給他看羔羊的新婦——這不是巧合，而是全書刻意的對照：兩座城、兩個女人、兩種結局，最終都要收束在一個問題上：你屬於哪一座城？新耶路撒冷的一切榮美——碧玉城牆、精金街道、十二根基、常開的城門——最終都指向一個中心：「我未見城內有殿，因主神─全能者和羔羊為城的殿」（21:22）。這座城沒有殿，因為整座城本身就是至聖所；沒有日月，因為羔羊自己就是燈。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **Jerusalem the Golden**
+> *Bernard of Cluny (12th c.); tr. John Mason Neale, 1858*
+>
+> Jerusalem the golden,
+> With milk and honey blest,
+> Beneath thy contemplation
+> Sink heart and voice oppressed.
+> I know not, O I know not,
+> What joys await us there,
+> What radiancy of glory,
+> What bliss beyond compare.
+>
+> 金色的耶路撒冷，
+> 奶與蜜所祝福之地，
+> 每逢默想你的榮美，
+> 壓傷的心與聲俱沉。
+> 我不知道，啊，我不知道
+> 何等喜樂在那裡等候，
+> 何等燦爛的榮光，
+> 何等無可比擬的福分。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -8464,15 +10695,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{1}天使又指示我在城內街道當中一道生命水的河，明亮如水晶，從神和羔羊的寶座流出來。\textsuperscript{2}在河這邊與那邊有生命樹，結十二樣（或作：回）果子，每月都結果子；樹上的葉子乃為醫治萬民。\textsuperscript{3}以後再沒有咒詛；在城裡有神和羔羊的寶座；他的僕人都要事奉他，\textsuperscript{4}也要見他的面。他的名字必寫在他們的額上。\textsuperscript{5}不再有黑夜；他們也不用燈光、日光，因為主神要光照他們。他們要作王，直到永永遠遠。
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{9}Then came one of the seven angels who had the seven bowls full of the seven last plagues and spoke to me, saying, "Come, I will show you the Bride, the wife of the Lamb." \textsuperscript{10}And he carried me away in the Spirit to a great, high mountain, and showed me the holy city Jerusalem coming down out of heaven from God, \textsuperscript{11}having the glory of God, its radiance like a most rare jewel, like a jasper, clear as crystal. \textsuperscript{12}It had a great, high wall, with twelve gates, and at the gates twelve angels, and on the gates the names of the twelve tribes of the sons of Israel were inscribed— \textsuperscript{13}on the east three gates, on the north three gates, on the south three gates, and on the west three gates. \textsuperscript{14}And the wall of the city had twelve foundations, and on them were the twelve names of the twelve apostles of the Lamb.
+> \textsuperscript{9}Then one of the seven angels who had the seven bowls full of the seven last plagues came and spoke with me, saying, 'Come here, I will show you the bride, the wife of the Lamb.' \textsuperscript{10}And he carried me away in the Spirit to a great and high mountain, and showed me the holy city, Jerusalem, coming down out of heaven from God, \textsuperscript{11}having the glory of God. Her brilliance was like a very costly stone, as a stone of crystal-clear jasper. \textsuperscript{12}It had a great and high wall, with twelve gates, and at the gates twelve angels; and names *were* written on them, which are *the names* of the twelve tribes of the sons of Israel. \textsuperscript{13}*There were* three gates on the east and three gates on the north and three gates on the south and three gates on the west. \textsuperscript{14}And the wall of the city had twelve foundation stones, and on them *were* the twelve names of the twelve apostles of the Lamb.
 
-> \textsuperscript{15}And the one who spoke with me had a measuring rod of gold to measure the city and its gates and walls. \textsuperscript{16}The city lies foursquare, its length the same as its width. And he measured the city with his rod, 12,000 stadia. Its length and width and height are equal. \textsuperscript{17}He also measured its wall, 144 cubits by human measurement, which is also an angel's measurement. \textsuperscript{18}The wall was built of jasper, while the city was pure gold, like clear glass. \textsuperscript{19}The foundations of the wall of the city were adorned with every kind of jewel. The first was jasper, the second sapphire, the third agate, the fourth emerald, \textsuperscript{20}the fifth onyx, the sixth carnelian, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, the twelfth amethyst. \textsuperscript{21}And the twelve gates were twelve pearls, each of the gates made of a single pearl, and the street of the city was pure gold, like transparent glass.
+> \textsuperscript{15}The one who spoke with me had a gold measuring rod to measure the city, and its gates and its wall. \textsuperscript{16}The city is laid out as a square, and its length is as great as the width; and he measured the city with the rod, fifteen hundred miles; its length and width and height are equal. \textsuperscript{17}And he measured its wall, seventy-two yards, *according to* human measurements, which are *also* angelic *measurements*. \textsuperscript{18}The material of the wall was jasper; and the city was pure gold, like clear glass. \textsuperscript{19}The foundation stones of the city wall were adorned with every kind of precious stone. The first foundation stone was jasper; the second, sapphire; the third, chalcedony; the fourth, emerald; \textsuperscript{20}the fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, topaz; the tenth, chrysoprase; the eleventh, jacinth; the twelfth, amethyst. \textsuperscript{21}And the twelve gates were twelve pearls; each one of the gates was a single pearl. And the street of the city was pure gold, like transparent glass.
 
-> \textsuperscript{22}And I saw no temple in the city, for its temple is the Lord God the Almighty and the Lamb. \textsuperscript{23}And the city has no need of sun or moon to shine on it, for the glory of God gives it light, and its lamp is the Lamb. \textsuperscript{24}By its light will the nations walk, and the kings of the earth will bring their glory into it, \textsuperscript{25}and its gates will never be shut by day—and there will be no night there. \textsuperscript{26}They will bring into it the glory and the honor of the nations. \textsuperscript{27}But nothing unclean will ever enter it, nor anyone who does what is detestable or false, but only those who are written in the Lamb's book of life.
+> \textsuperscript{22}I saw no temple in it, for the Lord God the Almighty and the Lamb are its temple. \textsuperscript{23}And the city has no need of the sun or of the moon to shine on it, for the glory of God has illumined it, and its lamp *is* the Lamb. \textsuperscript{24}The nations will walk by its light, and the kings of the earth will bring their glory into it. \textsuperscript{25}In the daytime (for there will be no night there) its gates will never be closed; \textsuperscript{26}and they will bring the glory and the honor of the nations into it; \textsuperscript{27}and nothing unclean, and no one who practices abomination and lying, shall ever come into it, but only those whose names are written in the Lamb's book of life.
 
-> \textsuperscript{1}Then the angel showed me the river of the water of life, bright as crystal, flowing from the throne of God and of the Lamb \textsuperscript{2}through the middle of the street of the city; also, on either side of the river, the tree of life with its twelve kinds of fruit, yielding its fruit each month. The leaves of the tree were for the healing of the nations. \textsuperscript{3}No longer will there be anything accursed, but the throne of God and of the Lamb will be in it, and his servants will worship him. \textsuperscript{4}They will see his face, and his name will be on their foreheads. \textsuperscript{5}And night will be no more. They will need no light of lamp or sun, for the Lord God will be their light, and they will reign forever and ever.
+> \textsuperscript{1}Then he showed me a river of the water of life, clear as crystal, coming from the throne of God and of the Lamb, \textsuperscript{2}in the middle of its street. On either side of the river was the tree of life, bearing twelve *kinds of* fruit, yielding its fruit every month; and the leaves of the tree were for the healing of the nations. \textsuperscript{3}There will no longer be any curse; and the throne of God and of the Lamb will be in it, and His bond-servants will serve Him; \textsuperscript{4}they will see His face, and His name *will be* on their foreheads. \textsuperscript{5}And there will no longer be *any* night; and they will not have need of the light of a lamp nor the light of the sun, because the Lord God will illumine them; and they will reign forever and ever.
 
 ---
 
@@ -8491,13 +10722,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *nymphē* | nymphē | 新婦、新娘 | 21:9，與19:7「羔羊的婚娶」呼應，是全書婚姻意象的最終畫面 |
-| *tetragōnos* | tetragōnos | 四方的 | 21:16，呼應出埃及記至聖所與王上6:20所羅門聖殿至聖所的立方體結構 |
-| *iaspis* | iaspis | 碧玉 | 21:11, 18-19，也是4:3描述神自己顯現時的寶石，全城因此分享神榮耀的光輝 |
-| *naos* | naos | 殿、聖所 | 21:22「我未見城內有殿」，特指內殿至聖所，強調神與羔羊親自成為聖所本身 |
-| *katara* | katara | 咒詛 | 22:3「再沒有咒詛」，直接回應創世記3:14-19伊甸園的咒詛 |
-| *xylon zōēs* | xylon zōēs | 生命樹 | 22:2，呼應創2:9與3:22-24，如今不再有基路伯把守，人人可以自由親近 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| νύμφη | nymphē | 新婦、新娘 | 21:9，與19:7「羔羊的婚娶」呼應，是全書婚姻意象的最終畫面 |
+| τετράγωνος | tetragōnos | 四方的 | 21:16，呼應出埃及記至聖所與王上6:20所羅門聖殿至聖所的立方體結構 |
+| ἴασπις | iaspis | 碧玉 | 21:11, 18-19，也是4:3描述神自己顯現時的寶石，全城因此分享神榮耀的光輝 |
+| ναός | naos | 殿、聖所 | 21:22「我未見城內有殿」，特指內殿至聖所，強調神與羔羊親自成為聖所本身 |
+| κατάθεμα | katathema | 咒詛、當受咒詛之物 | 22:3「再沒有咒詛」（πᾶν κατάθεμα οὐκ ἔσται ἔτι），直接回應創世記3:14-19伊甸園的咒詛 |
+| ξύλον ζωῆς | xylon zōēs | 生命樹 | 22:2，呼應創2:9與3:22-24，如今不再有基路伯把守，人人可以自由親近 |
 
 ### 「沒有殿」的深意
 
@@ -8505,7 +10736,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 兩座城、兩個女人的最終對照 (Two Cities, Two Women — The Final Contrast)
 
@@ -8529,25 +10760,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 36:7-9
+
+> \textsuperscript{7}神啊，你的慈愛何其寶貴！世人投靠在你翅膀的蔭下。
+> \textsuperscript{8}他們必因你殿裡的肥甘得以飽足；你也必叫他們喝你樂河的水。
+> \textsuperscript{9}因為，在你那裡有生命的源頭；在你的光中，我們必得見光。
+
+「在你那裡有生命的源頭；在你的光中，我們必得見光」——新耶路撒冷「不用日月光照，因有神的榮耀光照，又有羔羊為城的燈」(21:23)，生命水的河從寶座流出（22:1）。詩人以比喻說的，那城按字面成就。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林在現存最早的啟示錄注釋中論到新耶路撒冷的十二根基與十二使徒的名字時指出，這座城的根基「不是石頭，而是使徒所傳、以基督為中心的信仰本身」——城牆的堅固，象徵的是這信仰傳承的堅固不移。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 21
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁在《上帝之城》第二十二卷二十九章（論「榮福直觀」）論到「他們要見他的面」時，引用保羅的話說：「我如今彷彿對著鏡子觀看，模糊不清……到那時就要面對面了」（林前13:12），並寫道，我們「必要在靈裡不間斷地看見祂」——這觀看不是斷續的、有時有無的，而是永遠、不間斷的享受神自己。
+
 > — Augustine, *City of God*, Book XXII, Ch. 29 (trans. Marcus Dods)
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格講論新耶路撒冷時特別強調，經文說「我未見城內有殿」，這對當時仍執着於聖殿與外在敬拜形式的爭議極具意義——真正的敬拜終極的實現，不在乎地上的建築，而在乎與神和羔羊毫無阻隔的直接同在。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 21
 
 ### 當代釋經
@@ -8555,16 +10805,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄12-22章註釋》中指出，新耶路撒冷不是象徵性的比喻，而是蒙救贖之人真實、永遠的居所——但它的一切榮美，最終都指向一個事實：城的真正光榮，不是牆、不是門、不是寶石，而是神與羔羊自己的同在。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **孟斯 (Robert Mounce)**：
 
 孟斯在其啟示錄註釋（NICNT）中指出，城的立方體形狀直接呼應至聖所——這不是巧合，而是要清楚宣告：全城如今就是那擴大到無限的至聖所，每一位蒙贖之人都活在曾經只屬於大祭司的聖潔同在之中。
+
 > — Robert Mounce, *The Book of Revelation* (NICNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### For All the Saints
+
+*William Walsham How, 1864*
+
+> But lo! there breaks a yet more glorious day;
+> The saints triumphant rise in bright array;
+> The King of glory passes on His way.
+> Alleluia, Alleluia!
+
+城的十二根基上有使徒的名字，十二個門上有以色列支派的名字（21:12-14）——舊約與新約的百姓合成一城。默想：城中沒有殿，「主神──全能者和羔羊為城的殿」(21:22)；一切聖所本是指向祂的路標，如今到了祂面前，路標就功成身退。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**一座真實的城**：麥克阿瑟按字面讀新耶路撒冷：有量度（21:16-17）、有根基、有城牆、有街道——主說「我去原是為你們預備地方」（約14:2），預備的是地方，不是氣氛；信徒的盼望具體到有城可進、有名可查。
+
+**城裡沒有的東西**：沒有殿（主神和羔羊就是殿）、不用日月（神的榮耀光照）、城門不關（不再有威脅）、沒有咒詛——他指出 21-22 章的筆法與 21:4 一致：用「沒有」寫「圓滿」，一切中介與防衛都功成身退，因為神自己在城中。
+
+**羔羊是燈**：21:23「羔羊為城的燈」——十字架上被殺的羔羊，成了永恆之城的光源。他總結：新耶路撒冷最大的榮耀不是精金與碧玉，而是 22:4「他們要見他的面」——歷代聖徒求而不得的（出33:20），成了城中居民的日常。
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：沒有殿的城 (Ask Elder Wong)
 
@@ -8602,7 +10880,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 **詩篇**：詩篇 87:1-3
 
-> 耶和華所立的根基在聖山上。他愛錫安的門勝過愛雅各一切的住處。神的城啊，有榮耀的事乃指着你說的。細拉
+> 耶和華所立的根基在聖山上。他愛錫安的門，勝於愛雅各一切的住處。神的城啊，有榮耀的事乃指著你說的。（細拉）
 
 大衛家的詩人對錫安城的頌讚，早已預表了新耶路撒冷這座「神所立根基」之城的終極榮耀——地上的錫安城，是天上新耶路撒冷的影兒。
 
@@ -8685,13 +10963,39 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 啟示錄 22:6-21
 
-**經文核對**：[ai-eden.com/bible/revelation/22](https://www.ai-eden.com/bible/revelation/22?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/revelation/22](https://www.ai-eden.com/bible/revelation/22?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
 異象結束了，但啟示錄沒有以平靜的畫面收尾，而是以一連串急切的呼聲作結：「看哪，我必快來！」——這句話在短短十六節裡出現三次（7, 12, 20節）。說話的那一位，此刻不再隱藏在異象的象徵背後，直接自稱其名：「我─耶穌差遣我的使者……我是大衛的根，又是他的後裔。我是明亮的晨星」（16節）。全書開篇是「耶穌基督的啟示」（1:1），全書結尾是耶穌親口的應許與邀請；中間所有的異象、審判、榮耀，最終都收束成一句對話——祂說「是了，我必快來」，教會回應「阿們！主耶穌阿，我願你來」（20節）。這是整本聖經、也是每一位信徒此刻仍在說出的禱告。
 
 ---
+
+## 配詩 (Opening Hymn)
+
+> **The Sands of Time Are Sinking**
+> *Anne R. Cousin, 1857 (after Samuel Rutherford)*
+>
+> The sands of time are sinking,
+> The dawn of heaven breaks;
+> The summer morn I've sighed for—
+> The fair, sweet morn awakes:
+> Dark, dark hath been the midnight,
+> But dayspring is at hand,
+> And glory, glory dwelleth
+> In Immanuel's land.
+>
+> 時間的沙漏將盡，
+> 天上的黎明破曉；
+> 我長久歎望的夏晨——
+> 那美好清晨已醒來：
+> 子夜曾何等黑暗，
+> 但晨光已在手邊，
+> 榮耀啊，榮耀居住
+> 在以馬內利之地。
+
+---
+
 
 ## 經文 (Scripture)
 
@@ -8709,19 +11013,19 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > \textsuperscript{20}證明這事的說：\jesus{「是了，我必快來！」}阿們！主耶穌阿，我願你來！\textsuperscript{21}願主耶穌的恩惠常與眾聖徒同在。阿們！
 
-### English — ESV
+### English — NASB
 
-> \textsuperscript{6}And he said to me, "These words are trustworthy and true. And the Lord, the God of the spirits of the prophets, has sent his angel to show his servants what must soon take place." \textsuperscript{7}\jesus{"And behold, I am coming soon. Blessed is the one who keeps the words of the prophecy of this book."}
+> \textsuperscript{6}And he said to me, 'These words are faithful and true'; and the Lord, the God of the spirits of the prophets, sent His angel to show to His bond-servants the things which must soon take place. \jesus{\textsuperscript{7}'And behold, I am coming quickly. Blessed is he who heeds the words of the prophecy of this book.'}
 
-> \textsuperscript{8}I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me, \textsuperscript{9}but he said to me, "You must not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God." \textsuperscript{10}And he said to me, "Do not seal up the words of the prophecy of this book, for the time is near. \textsuperscript{11}Let the evildoer still do evil, and the filthy still be filthy, and the righteous still do right, and the holy still be holy."
+> \textsuperscript{8}I, John, am the one who heard and saw these things. And when I heard and saw, I fell down to worship at the feet of the angel who showed me these things. \textsuperscript{9}But he said to me, 'Do not do that. I am a fellow servant of yours and of your brethren the prophets and of those who heed the words of this book. Worship God.' \textsuperscript{10}And he said to me, 'Do not seal up the words of the prophecy of this book, for the time is near. \textsuperscript{11}'Let the one who does wrong, still do wrong; and the one who is filthy, still be filthy; and let the one who is righteous, still practice righteousness; and the one who is holy, still keep himself holy.'
 
-> \textsuperscript{12}\jesus{"Behold, I am coming soon, bringing my recompense with me, to repay each one for what he has done. \textsuperscript{13}I am the Alpha and the Omega, the first and the last, the beginning and the end."} \textsuperscript{14}Blessed are those who wash their robes, so that they may have the right to the tree of life and that they may enter the city by the gates. \textsuperscript{15}Outside are the dogs and sorcerers and the sexually immoral and murderers and idolaters, and everyone who loves and practices falsehood.
+> \jesus{\textsuperscript{12}'Behold, I am coming quickly, and My reward \textit{is} with Me, to render to every man according to what he has done. \textsuperscript{13}'I am the Alpha and the Omega, the first and the last, the beginning and the end.'} \textsuperscript{14}Blessed are those who wash their robes, so that they may have the right to the tree of life, and may enter by the gates into the city. \textsuperscript{15}Outside are the dogs and the sorcerers and the immoral persons and the murderers and the idolaters, and everyone who loves and practices lying.
 
-> \textsuperscript{16}\jesus{"I, Jesus, have sent my angel to testify to you about these things for the churches. I am the root and the descendant of David, the bright morning star."} \textsuperscript{17}The Spirit and the Bride say, "Come." And let the one who hears say, "Come." And let the one who is thirsty come; let the one who desires take the water of life without price.
+> \jesus{\textsuperscript{16}'I, Jesus, have sent My angel to testify to you these things for the churches. I am the root and the descendant of David, the bright morning star.'} \textsuperscript{17}The Spirit and the bride say, 'Come.' And let the one who hears say, 'Come.' And let the one who is thirsty come; let the one who wishes take the water of life without cost.
 
-> \textsuperscript{18}I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues described in this book, \textsuperscript{19}and if anyone takes away from the words of the book of this prophecy, God will take away his share in the tree of life and in the holy city, which are described in this book.
+> \textsuperscript{18}I testify to everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to him the plagues which are written in this book; \textsuperscript{19}and if anyone takes away from the words of the book of this prophecy, God will take away his part from the tree of life and from the holy city, which are written in this book.
 
-> \textsuperscript{20}He who testifies to these things says, \jesus{"Surely I am coming soon."} Amen. Come, Lord Jesus! \textsuperscript{21}The grace of the Lord Jesus be with all. Amen.
+> \textsuperscript{20}He who testifies to these things says, \jesus{'Yes, I am coming quickly.'} Amen. Come, Lord Jesus. \textsuperscript{21}The grace of the Lord Jesus be with all. Amen.
 
 ---
 
@@ -8740,12 +11044,12 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 出現次數／說明 |
-|--------|------|------|----------|
-| *tachy* | tachy | 快、迅速 | 22:7, 12, 20，與1:1「快發生的事」呼應，強調應許的迫切性 |
-| *makarios* | makarios | 有福的 | 22:7, 14，全書七福宣告中的第六與第七個 |
-| *rhizē kai genos Dauid* | rhizē kai genos Dauid | 大衛的根與後裔 | 22:16，同時是大衛的根源（先於大衛存在）與大衛的子孫（成就大衛之約），宣告基督的先存性與彌賽亞身分 |
-| *astēr ho lampros ho prōinos* | astēr ho lampros ho prōinos | 明亮的晨星 | 22:16，晨星在黑夜將盡時出現，宣告黎明將至 |
-| *Erchou* | Erchou | 來！ | 22:17三次出現，聖靈、新娘、與每一位讀者的呼求彼此呼應 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| ταχύ | tachy | 快、迅速 | 22:7, 12, 20，與1:1「快發生的事」呼應，強調應許的迫切性 |
+| μακάριος | makarios | 有福的 | 22:7, 14，全書七福宣告中的第六與第七個 |
+| ῥίζα καὶ γένος Δαυίδ | rhizē kai genos Dauid | 大衛的根與後裔 | 22:16，同時是大衛的根源（先於大衛存在）與大衛的子孫（成就大衛之約），宣告基督的先存性與彌賽亞身分 |
+| ἀστὴρ ὁ λαμπρὸς ὁ πρωϊνός | astēr ho lampros ho prōinos | 明亮的晨星 | 22:16，晨星在黑夜將盡時出現，宣告黎明將至 |
+| Ἔρχου | Erchou | 來！ | 22:17三次出現，聖靈、新娘、與每一位讀者的呼求彼此呼應 |
 | *Marana tha* (亞蘭文，非本節希臘文但意義相通) | — | 主啊，我願你來 | 22:20的呼求與林前16:22「主必要來」的亞蘭文禱詞同屬初代教會最古老的禱告用語之一 |
 
 ### 「阿拉法俄梅戛」在全書的三次出現
@@ -8754,7 +11058,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 全書以應許開始，也以應許結束 (The Book Begins and Ends with Promise)
 
@@ -8778,25 +11082,43 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 27:13-14
+
+> \textsuperscript{13}我若不信在活人之地得見耶和華的恩惠，就早已喪膽了。
+> \textsuperscript{14}要等候耶和華！當壯膽，堅固你的心！我再說，要等候耶和華！
+
+「要等候耶和華！當壯膽，堅固你的心！我再說，要等候耶和華！」——全書最後一句禱告是「主耶穌啊，我願你來」(22:20)。等候不是消極的拖延，是壯膽的儆醒。
+
+---
+
+
 ## 歷代注疏 (Historical Commentary)
+
+> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
+> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
 
 ### 教父時期
 
-**維克多林 (Victorinus of Pettau, c. 230-304)**：
+**維克多林 (Victorinus of Pettau, 卒於約304年)**：
 
 維克多林論到全書結尾「不可加添、不可刪去」的警告時指出，這句話正式確認了啟示錄作為使徒權威著作、完整無缺的正典地位——這不僅是對這卷書本身的保護，也是對整個新約正典邊界的宣告之一。
+
 > — Victorinus of Pettau, *Commentary on the Apocalypse*, on Revelation 22
 
 **奧古斯丁 (Augustine, 354-430)**：
 
 奧古斯丁論到「主必快來」時提醒讀者，不要單從時間長短去衡量這應許的「快」，因為對每一個人而言，「他生命的終點，就是這世界對他而言的終點」——主的再來與個人生命的終結，在屬靈的迫切性上是相同的呼召：儆醒等候。
+
 > — Augustine, *Letter 199* (to Hesychius), *On the End of the World*（大意整理自其論末世迫切性的教導）
 
-### 宗教改革時期
+### 改革宗時期
 
 **布靈格 (Heinrich Bullinger, 1504-1575)**：
 
 布靈格在其啟示錄講道系列的最後一篇總結道，全書最終極的信息，不是滿足讀者對末世細節的好奇心，而是「讓每一位基督徒，無論活在哪個世代、面對哪種患難，都能夠誠心說出：主耶穌阿，我願你來」。
+
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon 100, on Revelation 22
 
 ### 當代釋經
@@ -8804,16 +11126,44 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其《啟示錄12-22章註釋》中指出，啟示錄以「我必快來」的應許貫穿結尾，這不是要滿足我們對時間表的好奇，而是要塑造我們每天生活的方式——如同隨時可能面見君王一般儆醒、聖潔、忠心地活着。
+
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「主耶穌阿，我願你來」這句禱告，是啟示錄留給教會最持久的遺產——它教導每一個世代的信徒，無論身處哪種患難，都可以、也應當熱切地渴望並呼求主的再來。
+
 > — Grant Osborne, *Revelation* (BECNT)（大意整理，非逐字翻譯）
 
 ---
 
+## 聖詩默想 (Hymn Meditation)
+
+### O Day of God, Draw Nigh
+
+*Robert B. Y. Scott, 1937*
+
+> O day of God, draw nigh
+> In beauty and in power;
+> Come with thy timeless judgment now
+> To match our present hour.
+
+22:17「聖靈和新婦都說：來！聽見的人也該說：來！」——這節有兩個方向的「來」：向主說「願你來」，向口渴的人說「你來取生命的水喝」。默想：等候主再來的教會，同時是發出邀請的教會；儆醒與傳福音，是同一個「來」字的兩面。
+
+---
+
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
+
+### 麥克阿瑟深讀 (John MacArthur)
+
+**「不可封了這書上的預言」**：但以理被吩咐把預言封住（但12:4），約翰卻被吩咐不可封（22:10）——麥克阿瑟指出理由就在下半句：「因為日期近了」。啟示錄從寫成之日起就是給眾教會公開誦讀的書，任何把它束之高閣的傳統都違背了它自己的吩咐。
+
+**三次「我必快來」**：22:7, 12, 20——他把「快」讀作「必然且隨時」(imminency)：不是預告日程，而是規定姿態；教會兩千年來的儆醒不是誤會了時間表，而是聽懂了命令。
+
+**聖經的最後一個邀請**：22:17「聖靈和新婦都說：來！……願意的，都可以白白取生命的水喝」——全書以審判為主調，最後一頁卻是敞開的邀請。他強調：啟示錄的正確讀法永遠帶著佈道的溫度；而讀者的最後一句話，理當是約翰的那一句：「主耶穌啊，我願你來！」
+
+> 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
 
 ### 老弟兄查經：晨星與呼求 (Ask Elder Wong)
 
@@ -8955,7 +11305,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 聖經開卷是一個園子，收卷是一座城。中間隔著整部人類的歷史，但頭尾嚴絲合縫：
 
 | 創世記 | 啟示錄 |
-|--------|--------|
+|------------------------------------------|------------------------------------------|
 | 起初神創造天地（1:1） | 我又看見一個新天新地（21:1） |
 | 生命樹在園子當中（2:9） | 生命樹在城內河邊，葉子醫治萬民（22:2） |
 | 蛇進了園子（3:1） | 古蛇被扔在硫磺的火湖裡（20:2, 10） |
@@ -9073,3 +11423,198 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 > **啟 2:10**（和合本）你務要至死忠心，我就賜給你那生命的冠冕。
 
 **阿們。主耶穌阿，我願你來。**
+
+
+\newpage
+
+
+# 附錄一：舊約引用對照表 (Appendix A: Old Testament Allusions)
+
+啟示錄是全本聖經舊約引用密度最高的書卷——404 節經文中，與舊約呼應之處超過五百次，卻沒有一處是正式的「引用格式」（「經上記著說」一類引言），全部以意象、詞彙、結構織入異象之中。**讀不出舊約，就讀不懂啟示錄。**
+
+本表按啟示錄章節順序，列出正文各章研讀中涉及的主要舊約根源，供讀者對照查考。所有舊約出處均經和合本核對；本表不求窮盡，只列骨幹。
+
+---
+
+## 第一至三章：人子與七教會
+
+| 啟示錄 | 意象／主題 | 舊約根源 |
+|--------------------------|--------------------------------|--------------------------|
+| 1:7 駕雲降臨、眾目要看見他 | 人子駕天雲；仰望所扎的 | 但 7:13；亞 12:10 |
+| 1:13-15 人子、白髮、火焰的眼 | 亙古常在者與人子的異象 | 但 7:9, 13 |
+| 1:13-16 細麻衣、金帶、面如閃電 | 大河邊的異象人物 | 但 10:5-6 |
+| 1:6; 5:10 祭司的國度 | 「你們要歸我作祭司的國度」 | 出 19:6 |
+| 2:7 生命樹 | 伊甸園中的生命樹 | 創 2:9 |
+| 2:27 鐵杖轄管、如瓦器打碎 | 受膏者的權柄 | 詩 2:9 |
+| 3:7 大衛的鑰匙、開了無人能關 | 以利亞敬肩上的鑰匙 | 賽 22:22 |
+
+## 第四至五章：寶座與羔羊
+
+| 啟示錄 | 意象／主題 | 舊約根源 |
+|--------------------------|--------------------------------|--------------------------|
+| 4:2-3 寶座與虹 | 先知所見的寶座異象 | 結 1 章；賽 6:1 |
+| 4:6-7 四活物 | 基路伯四臉：人、獅、牛、鷹 | 結 1:5-10 |
+| 4:8 聖哉！聖哉！聖哉！ | 撒拉弗的三聖頌 | 賽 6:2-3 |
+| 5:1 封嚴的書卷 | 手中伸出的書卷 | 結 2:9-10；但 12:4 |
+| 5:5 猶大支派的獅子 | 雅各對猶大的祝福 | 創 49:9 |
+| 5:5; 22:16 大衛的根 | 耶西的本與根 | 賽 11:1, 10 |
+
+## 第六至十一章：印與號
+
+| 啟示錄 | 意象／主題 | 舊約根源 |
+|--------------------------|--------------------------------|--------------------------|
+| 6:1-8 四色馬 | 紅、黑、白、斑點的馬與車 | 亞 1:8；亞 6:2-3 |
+| 6:13-14 天捲起如書卷 | 天上萬象消沒 | 賽 34:4 |
+| 6:16 向山說：倒在我們身上 | 審判之日的呼喊 | 何 10:8 |
+| 7:16 不飢不渴、烈日不傷 | 蒙憐恤者被領到水泉旁 | 賽 49:10 |
+| 7:17; 21:4 擦去一切眼淚 | 吞滅死亡直到永遠 | 賽 25:8 |
+| 8:7 雹與火攙著血 | 第七災：雹與火 | 出 9:24 |
+| 8:8-9 海變血 | 第一災：河水變血 | 出 7:20 |
+| 8:12; 16:10 黑暗 | 第九災：摸得著的黑暗 | 出 10:21 |
+| 10:9-10 吃小書卷、口甜腹苦 | 以西結吃書卷、其甜如蜜 | 結 2:9-3:3 |
+| 11:4 兩棵橄欖樹、兩個燈臺 | 金燈臺與兩個受膏者 | 亞 4:2-3, 14 |
+
+## 第十二至十八章：爭戰與巴比倫
+
+| 啟示錄 | 意象／主題 | 舊約根源 |
+|--------------------------|--------------------------------|--------------------------|
+| 12:1-5 婦人、龍、男孩子 | 女人的後裔要傷蛇的頭 | 創 3:15 |
+| 12:7 米迦勒與龍爭戰 | 保佑本國之民的天使長米迦勒 | 但 12:1 |
+| 12:14 一載二載半載 | 但以理的定期 | 但 7:25；但 12:7 |
+| 13:1-2 從海中上來的獸 | 從海中上來的四獸 | 但 7 章 |
+| 14:14-20 收割與酒醡 | 開鐮吧，因為莊稼熟了 | 珥 3:13 |
+| 15:3 摩西的歌 | 紅海邊的得勝之歌 | 出 15:1-18 |
+| 16 章 七碗 | 出埃及十災的終末重演 | 出 7-12 章 |
+| 17:4; 18:6 金杯 | 巴比倫是耶和華手中的金杯 | 耶 51:7 |
+| 18:2 傾倒了！傾倒了！ | 巴比倫忽然傾覆毀壞 | 耶 51:8；賽 21:9 |
+| 18:7-8 我坐了皇后的位 | 「惟有我」——一日之間喪子寡居 | 賽 47:8-9 |
+
+## 第十九至二十二章：再來與新創造
+
+| 啟示錄 | 意象／主題 | 舊約根源 |
+|--------------------------|--------------------------------|--------------------------|
+| 19:13, 15 濺血的衣、踹酒醡 | 獨自踹酒醡、衣服被血濺染 | 賽 63:2-3 |
+| 19:15 鐵杖轄管列國 | 受膏者的權柄 | 詩 2:9 |
+| 20:8 歌革與瑪各 | 攻擊瑪各地的歌革的預言 | 結 38-39 章 |
+| 20:12 案卷展開 | 審判者坐著、案卷展開 | 但 7:9-10 |
+| 21:1 新天新地 | 看哪，我造新天新地 | 賽 65:17 |
+| 21:3 神的帳幕在人間 | 我的居所必在他們中間 | 結 37:27 |
+| 21:10 至高山上見聖城 | 以西結在至高山上見城 | 結 40:2 |
+| 21:23; 22:5 不用日月光照 | 耶和華作你永遠的光 | 賽 60:19 |
+| 21:24-25 萬國就光、城門不關 | 萬國要來就你的光 | 賽 60:3, 11 |
+| 22:1-2 生命水的河、果樹葉子 | 從殿中流出的活水河 | 結 47:1-12 |
+| 22:2 生命樹 | 回到伊甸——且有加增 | 創 2:9 |
+| 22:5 不再有黑夜 | 到了晚上才有光明 | 亞 14:7 |
+
+---
+
+> 啟示錄不是憑空的新異象，而是把整本舊約的線頭一一收攏、打結、完成。
+> 創世記失去的，在此全數歸回；先知所望的，在此一一應驗。
+
+
+\newpage
+
+
+# 附錄二：七印、七號、七碗對觀表 (Appendix B: Seals, Trumpets, and Bowls)
+
+三個「七」是啟示錄審判敘事的骨架。三列並排對讀，可以看見兩件事：
+
+1. **層層加深**：印的災禍及於「四分之一」（6:8），號及於「三分之一」（8:7-12），碗則是全然傾倒、不再有比例（16 章）——審判在忍耐中步步加重，為要給人悔改的空間（9:20-21；16:9, 11）。
+2. **出埃及的重演**：血、雹、黑暗、蝗蟲、瘡——七號與七碗大量重複出埃及十災的元素。昔日擊打埃及、領百姓出來的神，末後要擊打「大巴比倫」，呼召祂的民「從那城出來」（18:4）。
+
+---
+
+## 對觀總表
+
+| 序 | 七印（6:1-8:1） | 七號（8:6-11:19） | 七碗（16:1-21） |
+|----|----------------------|----------------------|----------------------|
+| 一 | 白馬：持弓戴冠，勝了又勝 | 雹與火攙血扔地上，地與樹草三分之一被燒 | 惡而且毒的瘡，生在拜獸像的人身上 |
+| 二 | 紅馬：奪去太平，大刀相殺 | 火燒的大山扔海中，海三分之一變血 | 碗倒在海裡，海變如死人之血 |
+| 三 | 黑馬：手拿天平，糧價騰貴 | 茵蔯星墜落，江河水源變苦 | 碗倒在江河水源，水就變成血 |
+| 四 | 灰馬：名字叫死，陰府隨著，權柄及地四分之一 | 日月星三分之一被擊打昏暗 | 碗倒在日頭上，用火烤人 |
+| 五 | 祭壇底下殉道者的靈魂呼喊：要到幾時呢 | 【第一樣災禍】無底坑的蝗蟲，傷人五個月 | 碗倒在獸的座位上，獸國就黑暗了 |
+| 六 | 大地震、日黑月血、天捲起、眾人藏躲 | 【第二樣災禍】幼發拉底河四使者釋放，馬軍二萬萬 | 幼發拉底河水乾了，三個污穢的靈聚集眾王到哈米吉多頓 |
+| 插敘 | 十四萬四千人受印；大群人（7 章） | 小書卷與兩個見證人（10:1-11:14） | 「看哪，我來像賊一樣」（16:15） |
+| 七 | 天上寂靜約有二刻（8:1） | 【第三樣災禍】世上的國成了我主和主基督的國（11:15） | 「成了！」大地震，大雹（16:17-21） |
+
+---
+
+## 三個觀察
+
+**第六與第七之間的插敘**：七印在六、七印之間插入受印的異象（7 章），七號在六、七號之間插入小書卷與兩個見證人（10:1-11:14）——審判臨到最高點之前，神先做的事永遠是：**印上、保守、差遣見證**。
+
+**第七項都指向寶座**：第七印是天上的寂靜，第七號是天上的大聲音，第七碗是從殿中寶座出來的大聲音說「成了」——每一個七的終點，都不在地上的災禍裡，而在天上的寶座前。
+
+**「成了」的兩次呼應**：十字架上的「成了」（約 19:30）是救贖的成了；第七碗的「成了」（16:17）是審判的成了。同一位主，兩件都完成——不肯躲進前一個「成了」裡的人，終必面對後一個。
+
+
+
+\newpage
+
+
+# 附錄三：經文索引與讀經計劃 (Appendix C: Scripture Index and Reading Plan)
+
+## 一、全書經文索引
+
+本書正文三十五章，覆蓋啟示錄全部二十二章、404 節，無一節遺漏。
+
+| 卷 | 章題 | 經文範圍 |
+|----------------------------|----------------------------|----------------------------|
+| 卷一 | 啟示的序言與問安 | 1:1-8 |
+| 卷一 | 榮耀基督的異象 | 1:9-20 |
+| 卷二 | 以弗所教會：失去起初的愛心 | 2:1-7 |
+| 卷二 | 士每拿教會：患難中的忠心 | 2:8-11 |
+| 卷二 | 別迦摩教會：住在撒但座位之處 | 2:12-17 |
+| 卷二 | 推雅推喇教會：容讓耶洗別 | 2:18-29 |
+| 卷二 | 撒狄教會：死而不自知 | 3:1-6 |
+| 卷二 | 非拉鐵非教會：敞開的門 | 3:7-13 |
+| 卷二 | 老底嘉教會：不冷不熱 | 3:14-22 |
+| 卷三 | 天上的寶座 | 4:1-11 |
+| 卷三 | 配得展開書卷的羔羊 | 5:1-14 |
+| 卷四 | 前六印：審判的開始 | 6:1-17 |
+| 卷四 | 十四萬四千人受印與大群人 | 7:1-17 |
+| 卷四 | 第七印：天上的靜默 | 8:1-5 |
+| 卷四 | 前四號 | 8:6-13 |
+| 卷四 | 第五、六號：蝗蟲與馬軍 | 9:1-21 |
+| 卷四 | 天使與小書卷 | 10:1-11 |
+| 卷四 | 兩個見證人 | 11:1-14 |
+| 卷四 | 第七號：世上的國成了主的國 | 11:15-19 |
+| 卷五 | 婦人與龍 | 12:1-17 |
+| 卷五 | 從海中上來的獸 | 13:1-10 |
+| 卷五 | 從地中上來的獸與666 | 13:11-18 |
+| 卷五 | 羔羊在錫安山／三位天使的信息 | 14:1-13 |
+| 卷五 | 地上的收割與神忿怒的酒醡 | 14:14-20 |
+| 卷六 | 七位天使拿著末了的七災 | 15:1-8 |
+| 卷六 | 七碗的審判 | 16:1-21 |
+| 卷六 | 大淫婦巴比倫 | 17:1-18 |
+| 卷六 | 巴比倫傾倒了 | 18:1-24 |
+| 卷七 | 羔羊的婚筵 | 19:1-10 |
+| 卷七 | 白馬騎士：得勝的基督 | 19:11-21 |
+| 卷七 | 撒但被捆綁與第一次復活 | 20:1-6 |
+| 卷七 | 撒但的結局與白色大寶座 | 20:7-15 |
+| 卷七 | 新天新地 | 21:1-8 |
+| 卷七 | 新耶路撒冷 | 21:9-22:5 |
+| 卷七 | 結語：主必快來 | 22:6-21 |
+
+---
+
+## 二、七週讀經計劃
+
+每日一段：先讀經文（中英對照），再讀該章研讀；晚間用「生命應用」與「反思問題」收尾。每週第六日回顧本週五段，第七日安息、敬拜、唱本週最觸動你的一首配詩。
+
+| 週 | 主題 | 每日進度（週一至週五） |
+|----|--------------------------|----------------------------------------|
+| 第一週 | 榮耀的人子與得勝的呼召 | 1:1-8｜1:9-20｜2:1-7｜2:8-11｜2:12-17 |
+| 第二週 | 七教會：主知道 | 2:18-29｜3:1-6｜3:7-13｜3:14-22｜回顧七封信 |
+| 第三週 | 寶座、羔羊與六印 | 4:1-11｜5:1-14｜6:1-17｜7:1-17｜8:1-5 |
+| 第四週 | 七號與見證人 | 8:6-13｜9:1-21｜10:1-11｜11:1-14｜11:15-19 |
+| 第五週 | 宇宙的爭戰 | 12:1-17｜13:1-10｜13:11-18｜14:1-13｜14:14-20 |
+| 第六週 | 七碗與巴比倫 | 15:1-8｜16:1-21｜17:1-18｜18:1-24｜19:1-10 |
+| 第七週 | 得勝的羔羊與新創造 | 19:11-21｜20:1-6｜20:7-15｜21:1-8｜21:9-22:21 |
+
+**讀經三問**（老弟兄查經法，每日皆用）：
+
+1. 這段裡，誰在寶座上？（主權）
+2. 這段給「得勝的」甚麼應許或呼召？（盼望）
+3. 透過這段，你看見耶穌是誰？（基督）
+

@@ -16,7 +16,7 @@ publisher: 三書精讀出版系統
 
 這一整章讀起來像是彼得書信中最不「講基督」的一章——沒有一句直接稱頌恩典，通篇都是審判的歷史、假教師的醜態、狗與豬的比喻。但正因如此，基督在這裏出現的方式格外重要：祂不是被歌頌的對象，而是被否認的對象。2:1說假教師「連買他們的主（*despotēn*，主宰、擁有者）他們也不承認」——這句話本身就是一句基督論的宣告：他們之所以能被稱為「祂所買的」，是因為祂已經用重價買了他們（參林前6:20「你們是重價買來的」）。否認祂，不是否認一個抽象教義，而是否認一個已經發生、已經付上代價的救贖事實。
 
-2:20再次出現同樣的重心：「倘若他們因認識主救主耶穌基督，得以脫離世上的汙穢，後來又在其中被纏住、制伏……」——這裏用的是本書信一貫強調的「認識」(*epignōsis*，第1章的關鍵詞) ，不是空泛的宗教經歷。整章對假教師最嚴厲的控訴，歸根結底只有一個中心：他們的問題不是道德敗壞本身，而是他們與那位「用自己的血買贖」他們之主的關係破裂——無論是從未真正認識祂而假冒相識，或是認識之後選擇背棄。基督是這一整章審判敘事裏，那位隱而不顯、卻從未離場的買贖者。
+2:20再次出現同樣的重心：「倘若他們因認識主救主耶穌基督，得以脫離世上的污穢，後來又在其中被纏住、制伏……」——這裏用的是本書信一貫強調的「認識」(*epignōsis*，第1章的關鍵詞) ，不是空泛的宗教經歷。整章對假教師最嚴厲的控訴，歸根結底只有一個中心：他們的問題不是道德敗壞本身，而是他們與那位「用自己的血買贖」他們之主的關係破裂——無論是從未真正認識祂而假冒相識，或是認識之後選擇背棄。基督是這一整章審判敘事裏，那位隱而不顯、卻從未離場的買贖者。
 
 ---
 
@@ -51,21 +51,23 @@ publisher: 三書精讀出版系統
 
 > ^1^從前在百姓中有假先知起來，將來在你們中間也必有假師傅，私自引進陷害人的異端，連買他們的主他們也不承認，自取速速的滅亡。^2^將有許多人隨從他們邪淫的行為，便叫真道因他們的緣故被毀謗。^3^他們因有貪心，要用捏造的言語在你們身上取利。他們的刑罰，自古以來並不遲延，他們的滅亡也必速速來到。
 
-> ^4^就是天使犯了罪，神也沒有寬容，曾把他們丟在地獄，交在黑暗坑中，等候審判。^5^神也沒有寬容上古的世代，曾叫洪水臨到那不敬虔的世代，卻**保護了傳義道的挪亞一家八口**。^6^又判定所多瑪、蛾摩拉，將二城傾覆，焚燒成灰，作為後世不敬虔人的鑒戒。^7^只搭救了那常為惡人淫行憂傷的義人羅得。^8^因為那義人住在他們中間，看見聽見他們不法的事，他的義心就天天傷痛。^9^**主知道搭救敬虔的人脫離試探，把不義的人留在刑罰之下，等候審判的日子。**
+> ^4^就是天使犯了罪，神也沒有寬容，曾把他們丟在地獄，交在黑暗坑中，等候審判。^5^神也沒有寬容上古的世代，曾叫洪水臨到那不敬虔的世代，卻**保護了傳義道的挪亞一家八口**。^6^又判定所多瑪、蛾摩拉，將二城傾覆，焚燒成灰，作為後世不敬虔人的鑑戒。^7^只搭救了那常為惡人淫行憂傷的義人羅得。^8^因為那義人住在他們中間，看見聽見他們不法的事，他的義心就天天傷痛。^9^**主知道搭救敬虔的人脫離試探，把不義的人留在刑罰之下，等候審判的日子。**
 
-> ^10^那些隨肉身縱汙穢的情慾、輕慢主治之人的，更是如此。他們膽大任性，毀謗在尊位的也不知懼怕。^11^就是天使，雖然力量權能更大，還不用毀謗的話在主面前告他們。^12^但這些人好像沒有靈性，生來就是畜類，以備捉拿宰殺的。他們毀謗所不曉得的事，正在敗壞人的時候，自己必遭遇敗壞。^13^行得不義，就得了不義的工價。這些人喜愛白晝宴樂，他們已被玷汙，又有瑕疵，正與你們一同坐席，就以自己的詭詐為快樂。^14^他們滿眼是淫色，止不住犯罪，引誘那心不堅固的人，心中習慣了貪婪，正是被咒詛的種類。^15^他們離棄正路，就走差了，隨從比珥之子巴蘭的路。巴蘭就是那貪愛不義之工價的先知。^16^他卻為自己的過犯受了責備——那不能說話的驢，以人言攔阻先知的狂妄。
+> ^10^那些隨肉身縱污穢的情慾、輕慢主治之人的，更是如此。他們膽大任性，毀謗在尊位的也不知懼怕。^11^就是天使，雖然力量權能更大，還不用毀謗的話在主面前告他們。^12^但這些人好像沒有靈性，生來就是畜類，以備捉拿宰殺的。他們毀謗所不曉得的事，正在敗壞人的時候，自己必遭遇敗壞。^13^行的不義，就得了不義的工價。這些人喜愛白晝宴樂，他們已被玷污，又有瑕疵，正與你們一同坐席，就以自己的詭詐為快樂。^14^他們滿眼是淫色，止不住犯罪，引誘那心不堅固的人，心中習慣了貪婪，正是被咒詛的種類。^15^他們離棄正路，就走差了，隨從比珥之子巴蘭的路。巴蘭就是那貪愛不義之工價的先知。^16^他卻為自己的過犯受了責備——那不能說話的驢，以人言攔阻先知的狂妄。
 
-> ^17^這些人是無水的井，是狂風催逼的霧氣，有墨黑的幽暗為他們存留。^18^他們說虛妄矜誇的大話，用肉身的情慾和邪淫的事引誘那些剛才脫離妄行的人。^19^他們應許人得以自由，自己卻做敗壞的奴僕。因為人被誰制伏，就是誰的奴僕。^20^**倘若他們因認識主救主耶穌基督，得以脫離世上的汙穢，後來又在其中被纏住、制伏，他們末後的景況就比先前更不好了。**^21^他們曉得義路，竟背棄了傳給他們的聖命，倒不如不曉得為妙。^22^俗語說得真不錯：「狗所吐的，牠轉過來又吃；豬洗淨了，又回到泥裏去滾。」這話在他們身上正合式。
+> ^17^這些人是無水的井，是狂風催逼的霧氣，有墨黑的幽暗為他們存留。^18^他們說虛妄矜誇的大話，用肉身的情慾和邪淫的事引誘那些剛才脫離妄行的人。^19^他們應許人得以自由，自己卻作敗壞的奴僕。因為人被誰制伏，就是誰的奴僕。^20^**倘若他們因認識主救主耶穌基督，得以脫離世上的污穢，後來又在其中被纏住、制伏，他們末後的景況就比先前更不好了。**^21^他們曉得義路，竟背棄了傳給他們的聖命，倒不如不曉得為妙。^22^俗語說得真不錯：「狗所吐的，牠轉過來又吃；豬洗淨了，又回到泥裏去滾。」這話在他們身上正合式。
 
-### English — ESV
+### English — NASB (New American Standard Bible)
 
-> ^1^But false prophets also arose among the people, just as there will be false teachers among you, who will secretly bring in destructive heresies, even denying the Master who bought them, bringing upon themselves swift destruction. ^2^And many will follow their sensuality, and because of them the way of truth will be blasphemed. ^3^And in their greed they will exploit you with false words. Their condemnation from long ago is not idle, and their destruction is not asleep.
+> ^1^But false prophets also appeared among the people, just as there will also be false teachers among you, who will secretly introduce destructive heresies, even denying the Master who bought them, bringing swift destruction upon themselves. ^2^Many will follow their indecent behavior, and because of them the way of the truth will be maligned; ^3^and in their greed they will exploit you with false words; their judgment from long ago is not idle, and their destruction is not asleep.
 
-> ^4^For if God did not spare angels when they sinned, but cast them into hell and committed them to chains of gloomy darkness to be kept until the judgment; ^5^if he did not spare the ancient world, but **preserved Noah, a herald of righteousness**, with seven others, when he brought a flood upon the world of the ungodly; ^6^if by turning the cities of Sodom and Gomorrah to ashes he condemned them to extinction, making them an example of what is going to happen to the ungodly; ^7^and if he rescued righteous Lot, greatly distressed by the sensual conduct of the wicked ^8^(for as that righteous man lived among them day after day, he was tormenting his righteous soul over their lawless deeds that he saw and heard); ^9^**then the Lord knows how to rescue the godly from trials, and to keep the unrighteous under punishment until the day of judgment.**
+> ^4^For if God did not spare angels when they sinned, but cast them into hell and committed them to pits of darkness, held for judgment; ^5^and did not spare the ancient world, but **protected Noah, a preacher of righteousness**, with seven others, when He brought a flood upon the world of the ungodly; ^6^and if He condemned the cities of Sodom and Gomorrah to destruction by reducing them to ashes, having made them an example of what is coming for the ungodly; ^7^and if He rescued righteous Lot, who was oppressed by the perverted conduct of unscrupulous people ^8^(for by what he saw and heard that righteous man, while living among them, felt his righteous soul tormented day after day by their lawless deeds), ^9^**then the Lord knows how to rescue the godly from a trial, and to keep the unrighteous under punishment for the day of judgment,**
 
-> ^10^And especially those who indulge in the lust of defiling passion and despise authority. Bold and willful, they do not tremble as they blaspheme the glorious ones, ^11^whereas angels, though greater in might and power, do not pronounce a blasphemous judgment against them before the Lord. ^12^But these, like irrational animals, creatures of instinct, born to be caught and destroyed, blaspheming about matters of which they are ignorant, will also be destroyed in their destruction, ^13^suffering wrong as the wage for their wrongdoing. They count it pleasure to revel in the daytime. They are blots and blemishes, reveling in their deceptions, while they feast with you. ^14^They have eyes full of adultery, insatiable for sin. They entice unsteady souls. They have hearts trained in greed. Accursed children! ^15^Forsaking the right way, they have gone astray. They have followed the way of Balaam, the son of Beor, who loved gain from wrongdoing, ^16^but was rebuked for his own transgression; a speechless donkey spoke with human voice and restrained the prophet's madness.
+> ^10^and especially those who indulge the flesh in its corrupt passion, and despise authority. Reckless, self-centered, they speak abusively of angelic majesties without trembling, ^11^whereas angels who are greater in might and power do not bring a demeaning judgment against them before the Lord. ^12^But these, like unreasoning animals, born as creatures of instinct to be captured and killed, using abusive speech where they have no knowledge, will in the destruction of those creatures also be destroyed, ^13^suffering wrong as the wages of doing wrong. They count it a pleasure to revel in the daytime. They are stains and blemishes, reveling in their deceptions as they feast with you, ^14^having eyes full of adultery that never cease from sin, enticing unstable souls, having hearts trained in greed, accursed children; ^15^abandoning the right way, they have gone astray, having followed the way of Balaam, the son of Beor, who loved the reward of unrighteousness; ^16^but he received a rebuke for his own offense, for a mute donkey, speaking with a human voice, restrained the insanity of the prophet.
 
-> ^17^These are waterless springs and mists driven by a storm. For them the gloom of utter darkness has been reserved. ^18^For, speaking loud boasts of folly, they entice by sensual passions of the flesh those who are barely escaping from those who live in error. ^19^They promise them freedom, but they themselves are slaves of corruption. For whatever overcomes a person, to that he is enslaved. ^20^**For if, after they have escaped the defilements of the world through the knowledge of our Lord and Savior Jesus Christ, they are again entangled in them and overcome, the last state has become worse for them than the first.** ^21^For it would have been better for them never to have known the way of righteousness than after knowing it to turn back from the holy commandment delivered to them. ^22^What the true proverb says has happened to them: "The dog returns to its own vomit, and the sow, after washing herself, returns to wallow in the mire."
+> ^17^These are springs without water and mists driven by a storm, for whom the black darkness has been reserved. ^18^For, while speaking out arrogant words of no value they entice by fleshly desires, by indecent behavior, those who barely escape from the ones who live in error, ^19^promising them freedom while they themselves are slaves of corruption; for by what anyone is overcome, by this he is enslaved. ^20^**For if, after they have escaped the defilements of the world by the knowledge of the Lord and Savior Jesus Christ, they are again entangled in them and are overcome, the last state has become worse for them than the first.** ^21^For it would be better for them not to have known the way of righteousness, than having known it, to turn away from the holy commandment handed on to them. ^22^It has happened to them according to the true proverb, “A dog returns to its own vomit,” and, “A sow, after washing, returns to wallowing in the mire.”
+
+> **英譯體例**：本章英譯（NASB 2020）為全章 22 節。英譯在本書是為對照解說而設，不是另備一部英文聖經；第一章只列正在解說的段落。全書英譯引用範圍與版權條件見卷末〈附錄：參考資料〉「經文版本」一節。
 
 ---
 
@@ -83,7 +85,7 @@ publisher: 三書精讀出版系統
 |------|------|--------|
 | 假教師／不敬虔者的出現 | 2:1-3 | 4 |
 | 犯罪天使的審判 | 2:4 | 6 |
-| 所多瑪、蛾摩拉為鑒戒 | 2:6 | 7 |
+| 所多瑪、蛾摩拉為鑑戒 | 2:6 | 7 |
 | 藐視主治者、天使不敢毀謗 | 2:10-11 | 8-9 |
 | 巴蘭的路 | 2:15-16 | 11 |
 | 無水的井／無雨的雲，狂風催逼 | 2:17 | 12（沒有雨的雲彩，被風飄蕩） |
@@ -108,13 +110,13 @@ publisher: 三書精讀出版系統
 | ταρταρώσας | tartarōsas | 「丟在地獄」 | 全新約唯一一次出現的動詞，字面是「打入他耳塔羅斯（Tartarus）」——借用當時希臘世界熟悉的「幽冥深處」概念，指向2:4犯罪天使被囚之處 |
 | κήρυκα δικαιοσύνης | kēryka dikaiosynēs | 傳義道的（宣講者） | 2:5稱挪亞為「義道的傳令官」——挪亞不只是「造方舟的人」，更是一位長年不被人理睬、卻仍忠心宣講的先知型人物 |
 | τεφρώσας | tephrōsas | 燒成灰 | 2:6全新約僅見一次，字面是「使其化為灰燼」，描寫所多瑪、蛾摩拉徹底焚毀的結局 |
-| σπίλοι καὶ μῶμοι | spiloi kai mōmoi | 玷汙、瑕疵（汙點與疵病） | 2:13描寫假教師「正與你們一同坐席」時的樣子——原文常用於祭牲「有瑕疵」不堪獻祭，這裏反諷地用在坐愛宴席的人身上 |
+| σπίλοι καὶ μῶμοι | spiloi kai mōmoi | 玷污、瑕疵（污點與疵病） | 2:13描寫假教師「正與你們一同坐席」時的樣子——原文常用於祭牲「有瑕疵」不堪獻祭，這裏反諷地用在坐愛宴席的人身上 |
 | πηγαὶ ἄνυδροι | pēgai anydroi | 無水的井（泉源） | 2:17，「泉源」本該湧流活水，「無水」卻是名不副實的諷刺——假教師應許生命的活水，本身卻乾涸 |
 | ἐπίγνωσις | epignōsis | 真知識、確實認識 | 2:20再次出現這第1章反覆強調的關鍵詞——「透過認識主救主耶穌基督」，正是本卷書一貫強調「真知識」這一主題在審判語境中的迴響 |
 
 ### 「買他們的主」：一句藏在控訴裏的福音
 
-2:1「連買他們的主他們也不承認」這句話，常常被讀者一晃而過當作單純的控訴，卻藏著全章唯一一次明確的救贖宣告。原文*agorasanta*（買）是市場買賣用語，正是彼得前書1:18-19「知道你們得贖……乃是憑著基督的寶血」所用的同一個意象群。這句話最耐人尋味之處在於：經文並沒有說「這些人從未被贖」，而是說他們「不承認」那位買他們的主——無論這是指他們從未真心信靠、只是外表混跡於蒙贖的群體之中（如3:6猶大式的解讀），或是曾一度承認、如今背棄（如2:20-22所暗示更嚴重的情況），這節經文本身刻意保留了這層未解的張力，沒有替讀者把問題簡化。
+2:1「連買他們的主他們也不承認」這句話，常常被讀者一晃而過當作單純的控訴，卻藏著全章唯一一次明確的救贖宣告。原文*agorasanta*（買）是市場買賣用語，正是彼得前書1:18-19「知道你們得贖……乃是憑著基督的寶血」所用的同一個意象群。這句話最耐人尋味之處在於：經文並沒有說「這些人從未被贖」，而是說他們「不承認」那位買他們的主——無論這是指他們從未真心信靠、只是外表混跡於蒙贖的群體之中（如約6:70-71「你們中間有一個是魔鬼」所指的加略人猶大式的解讀），或是曾一度承認、如今背棄（如2:20-22所暗示更嚴重的情況），這節經文本身刻意保留了這層未解的張力，沒有替讀者把問題簡化。
 
 ---
 
@@ -142,9 +144,9 @@ publisher: 三書精讀出版系統
 
 ### 6. 2:20-22：一段必須誠實面對、不能輕易下定論的警告
 
-這是全章解經上最尖銳、也最容易被誤讀或誤用的一段。經文本身的用詞——「認識主救主耶穌基督」「脫離世上的汙穢」「聖命」——聽起來很像是描述曾經真實得救的人。歷代解經在這裏分成幾條路線，本書如實陳列，不代讀者下定論：
+這是全章解經上最尖銳、也最容易被誤讀或誤用的一段。經文本身的用詞——「認識主救主耶穌基督」「脫離世上的污穢」「聖命」——聽起來很像是描述曾經真實得救的人。歷代解經在這裏分成幾條路線，本書如實陳列，不代讀者下定論：
 
-- **主流福音派立場之一（如MacArthur）**：這裏描述的是「認識」卻從未真正「相信」的人——他們在知識層面認識福音的真理、甚至在道德上暫時脫離世界的汙穢（如同2:1的假教師「連買他們的主也不承認」），卻從未真正重生；2:22的狗與豬正是這個立場的關鍵——狗與豬的「本性」從未改變，牠們回到原本的樣子，恰恰證明牠們原本就不是綿羊。
+- **主流福音派立場之一（如MacArthur）**：這裏描述的是「認識」卻從未真正「相信」的人——他們在知識層面認識福音的真理、甚至在道德上暫時脫離世界的污穢（如同2:1的假教師「連買他們的主也不承認」），卻從未真正重生；2:22的狗與豬正是這個立場的關鍵——狗與豬的「本性」從未改變，牠們回到原本的樣子，恰恰證明牠們原本就不是綿羊。
 - **另一種歷史上也有人持守的立場**：這段經文描述的確實是曾經真實跟隨基督、後來徹底背道的人，是新約中警告「離棄真道」段落（如來6:4-6、來10:26-29）的又一個例子，教會應嚴肅看待「持守到底」的呼召，而非僅僅安慰式地讀過。
 
 彼得自己並沒有在經文裏明確解決這個問題——他要的效果，很可能正是讓每一位讀者都認真省察自己與基督的關係，而不是找到一個理論上的安全出口。
@@ -203,21 +205,18 @@ publisher: 三書精讀出版系統
 > 因此，當審判的時候，惡人必站立不住；罪人在義人的會中也是如此。
 > 因為耶和華知道義人的道路；惡人的道路卻必滅亡。
 
-> Blessed is the man who walks not in the counsel of the wicked,
-> nor stands in the way of sinners,
-> nor sits in the seat of scoffers;
-> but his delight is in the law of the Lord,
-> and on his law he meditates day and night.
-> He is like a tree planted by streams of water
-> that yields its fruit in its season,
-> and its leaf does not wither.
-> In all that he does, he prospers.
-> The wicked are not so,
-> but are like chaff that the wind drives away.
+> Blessed is the person who does not walk in the counsel of the wicked,
+> Nor stand in the path of sinners, Nor sit in the seat of scoffers!
+> But his delight is in the Law of the LORD,
+> And on His Law he meditates day and night.
+> He will be like a tree planted by streams of water,
+> Which yields its fruit in its season, And its leaf does not wither;
+> And in whatever he does, he prospers.
+> The wicked are not so, But they are like chaff which the wind blows away.
 > Therefore the wicked will not stand in the judgment,
-> nor sinners in the congregation of the righteous;
-> for the Lord knows the way of the righteous,
-> but the way of the wicked will perish.
+> Nor sinners in the assembly of the righteous.
+> For the LORD knows the way of the righteous,
+> But the way of the wicked will perish.
 
 詩篇1篇「惡人……乃像糠秕被風吹散」，與2:17「無水的井」「狂風催逼的霧氣」是同一個圖畫的兩種畫法——外表看似有分量，實際上經不起風一吹。詩篇1:6「耶和華知道義人的道路」，正是彼得後書2:9「主知道搭救敬虔的人」最古老的迴聲——同一位神，從詩篇的時代到彼得的時代，「知道」祂百姓的道路，從未改變。
 
@@ -242,7 +241,7 @@ publisher: 三書精讀出版系統
 
 ### 摩根深讀 (G. Campbell Morgan)
 
-**誠實說明（出處）**：摩根沒有留下像他為約翰福音、路加福音所寫那樣逐節、逐章的彼得後書註釋專著；他對彼得書信較完整的討論，見於《歷代聖經信息》(*The Living Messages of the Books of the Bible*) 中論彼得前後書的短章，篇幅遠不及他對四福音的處理。以下依他一貫的解經風格與已知重點，作忠實的主題性歸納，不引用未經查證、加了引號的逐句原文。
+**誠實說明（出處）**：摩根沒有留下像他為約翰福音、路加福音所寫那樣逐節、逐章的彼得後書註釋專著；他對彼得書信較完整的討論，見於《聖經各卷的生命信息》(*The Living Messages of the Books of the Bible*) 中論彼得前後書的短章，篇幅遠不及他對四福音的處理。以下依他一貫的解經風格與已知重點，作忠實的主題性歸納，不引用未經查證、加了引號的逐句原文。
 
 摩根一貫強調彼得書信整體的核心關切是「站立得穩」——彼得前書處理外來的苦難如何叫信徒站立得穩，彼得後書處理內部的錯謬如何叫信徒站立得穩，兩者共同構成他所謂「使徒臨終遺言」的完整關懷。摩根對2章的整體判斷，落在彼得刻意選擇舊約歷史（而非抽象論證）來警告讀者這一點上——對摩根而言，這反映出彼得一貫的解經方法：用神在歷史中已經做過的事，去確立神在末後必要做的事；三組審判與搭救的例證，不是嚇唬人的修辭，而是把讀者的目光從眼前的假教師，轉向那位掌管全部歷史、也必掌管審判日的主。
 
@@ -253,18 +252,6 @@ publisher: 三書精讀出版系統
 **用「六層次」讀2:1-22**：老弟兄一貫的讀經法，用在這一章特別合適，因為這段經文的語言極其強烈，容易叫讀者要麼快速跳過、要麼陷入單純的道德義憤——**念**：先把2:1-22一口氣讀完，不要在任何一節逗留。**找**：這一章重複出現的圖畫是甚麼？（動物、水、灰燼、奴僕）**問**：為甚麼彼得選擇舊約歷史例證，而不是直接責備？**連**：巴蘭的例子和你認識的「哪一種」屬靈危險最接近？**住**：2:9「主知道搭救敬虔的人」，如果真的住在你裏面，你今天面對試探的心態會有甚麼不同？**行**：今天有沒有一句「捏造的言語」——不一定是別人的，也可能是我自己講給自己聽的——需要被真理拆穿？
 
 **用「稱義／成聖／得榮」框架看2:20-22的警告**：老弟兄的救恩三階段框架，在這段最容易被誤讀的經文上特別有幫助——它提醒讀者，經文本身沒有明確區分「這是描述一個從未真正稱義的人」還是「這是描述一個已經稱義、卻在成聖路上嚴重跌倒的人」，而是把這個問題留給每一個讀者，回到自己與基督真實的關係裏去省察。老弟兄一貫不急著替人下結論，而是把問題原原本本地交還給讀者：這正是這段經文本身的作法。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*Stand Up, Stand Up for Jesus*（如前「配詩」所引）
-
-> Lift high His royal banner, it must not suffer loss.
-
-**詩篇**：詩篇 1:6
-
-> 因為耶和華知道義人的道路；惡人的道路卻必滅亡。
 
 ---
 
@@ -313,6 +300,8 @@ publisher: 三書精讀出版系統
 
 **無法迴避的問題**：「如果今天要誠實回答，你會怎樣描述自己與基督的關係：從未真正認識，還是認識了卻正在被纏住？」
 
+> 「狗吐過了，豬也洗過了——牠們都動過，卻沒有一隻換過本性。彼得整章不是在數假教師做過甚麼，是在問：那件事之後，你還是不是原來的你。」
+
 ---
 
 ## 生命應用 (Application)
@@ -333,7 +322,7 @@ publisher: 三書精讀出版系統
 > 求祢不要讓我因為不舒服就跳過它，
 > 也不要讓我因為義憤就忘了省察自己。
 > 求祢光照我心裏有沒有捏造的言語、貪愛的工價、
-> 有沒有一處我已經認識了真理，卻仍然被世上的汙穢纏住。
+> 有沒有一處我已經認識了真理，卻仍然被世上的污穢纏住。
 > 求祢的恩典，不只是叫我脫離，更叫我持守到底。
 > 奉主耶穌基督的名禱告，阿們。
 

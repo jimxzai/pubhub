@@ -66,7 +66,7 @@ publisher: 三書精讀出版系統
 
 > ^8^I, John, am the one who heard and saw these things. And when I heard and saw, I fell down to worship at the feet of the angel who showed me these things. ^9^But he said to me, 'Do not do that. I am a fellow servant of yours and of your brethren the prophets and of those who heed the words of this book. Worship God.' ^10^And he said to me, 'Do not seal up the words of the prophecy of this book, for the time is near. ^11^'Let the one who does wrong, still do wrong; and the one who is filthy, still be filthy; and let the one who is righteous, still practice righteousness; and the one who is holy, still keep himself holy.'
 
-> \jesus{^12^'Behold, I am coming quickly, and My reward *is* with Me, to render to every man according to what he has done. ^13^'I am the Alpha and the Omega, the first and the last, the beginning and the end.'} ^14^Blessed are those who wash their robes, so that they may have the right to the tree of life, and may enter by the gates into the city. ^15^Outside are the dogs and the sorcerers and the immoral persons and the murderers and the idolaters, and everyone who loves and practices lying.
+> \jesus{^12^'Behold, I am coming quickly, and My reward \textit{is} with Me, to render to every man according to what he has done. ^13^'I am the Alpha and the Omega, the first and the last, the beginning and the end.'} ^14^Blessed are those who wash their robes, so that they may have the right to the tree of life, and may enter by the gates into the city. ^15^Outside are the dogs and the sorcerers and the immoral persons and the murderers and the idolaters, and everyone who loves and practices lying.
 
 > \jesus{^16^'I, Jesus, have sent My angel to testify to you these things for the churches. I am the root and the descendant of David, the bright morning star.'} ^17^The Spirit and the bride say, 'Come.' And let the one who hears say, 'Come.' And let the one who is thirsty come; let the one who wishes take the water of life without cost.
 
@@ -105,7 +105,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 全書以應許開始，也以應許結束 (The Book Begins and Ends with Promise)
 

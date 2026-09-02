@@ -4,11 +4,16 @@
 % Theme: Grace, Redemption, Reconciliation
 % Requires XeLaTeX for CJK support
 
-\documentclass[11pt,openany]{book}
+\documentclass[11pt,openright]{book}
 
 % Number sections and subsections, but not chapters
 % Chapter titles already contain Chinese numbers (第一章, 第二章...)
-\setcounter{secnumdepth}{2}
+% Devotional study book, not a technical manual: no heading numbers, and the
+% table of contents lists chapters only. secnumdepth 2 + the report class
+% default tocdepth 2 previously produced numbered headings ("2.1 ...") and a
+% TOC that itemised every subsection across 26 chapters.
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{0}
 \renewcommand{\thechapter}{}
 \renewcommand{\thesection}{\arabic{section}}
 \renewcommand{\thesubsection}{\thesection.\arabic{subsection}}
@@ -115,6 +120,15 @@
 %% ============================================
 %% PAGE GEOMETRY - Letter size
 %% ============================================
+%% ---------------------------------------------------------------
+%% TRIM. Change these three lines together; \PhlmTrimStatement is what
+%% prints on the copyright page, so it can never drift from the geometry.
+%% 8.5x11in is a study/curriculum trim. A 7x10in trade trim is the
+%% alternative -- it narrows the text block by ~1.35in, which the wide
+%% word-study tables must be re-proportioned for before switching.
+%% ---------------------------------------------------------------
+\newcommand{\PhlmTrimStatement}{8.5 \texttimes\ 11 in Study Edition\\ PubHub Publishing \the\year}
+
 \usepackage{geometry}
 \geometry{
   paperwidth=8.5in,
@@ -211,9 +225,25 @@
   urlcolor=GraceGold,
   bookmarks=true,
   bookmarksnumbered=true,
-  pdfauthor={PubHub Three Books Project},
-  pdftitle={Philemon Study 2026},
-  pdfsubject={Grace Redemption Reconciliation}
+  pdfauthor={PubHub Three Books Deep Reading Project},
+  pdftitle={Philemon Deep Study — 腓利門書研讀：恩典的懷抱},
+  pdfsubject={Philemon verse-by-verse exposition with Les Misérables and Resurrection},
+  pdfkeywords={Philemon, Onesimus, grace, imputation, reconciliation, 腓利門書}
+}
+
+%% XMP metadata packet — required by distribution pipelines; plain hyperref
+%% writes only the old DocInfo dictionary.
+\usepackage{hyperxmp}
+\hypersetup{
+  pdflang={zh-Hant},
+  pdfmetalang={zh-Hant},
+  pdfcopyright={Copyright (c) 2026. Scripture quotations are in the public
+    domain: 和合本 (1919); World English Bible (eBible.org).},
+  pdfsubtitle={恩典的懷抱 — Philemon Deep Study},
+  pdfpublisher={三書精讀出版系統 / PubHub},
+  pdfpubtype={book},
+  pdfsubject={Philemon verse-by-verse exposition; BISAC REL006080, REL006700,
+    REL012120, LCO002000}
 }
 
 %% ============================================
@@ -300,7 +330,18 @@
 %% ============================================
 %% HEADERS AND FOOTERS
 %% ============================================
+\usepackage{needspace}
 \usepackage{fancyhdr}
+\setlength{\headheight}{14pt}
+\addtolength{\topmargin}{-2pt}
+
+%% A \cleardoublepage-inserted blank verso must be truly blank:
+%% no running head, no folio. (book class leaves the current style on it.)
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside\ifodd\c@page\else
+  \hbox{}\thispagestyle{empty}\newpage
+  \if@twocolumn\hbox{}\newpage\fi\fi\fi}
+\makeatother
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\thepage}
@@ -328,6 +369,12 @@
     \itemsep=0pt
   }%
   \item\relax
+  % Scripture, hymn stanzas and cited verse are set ragged-right: a short
+  % measure full of deliberately short lines should not have its inter-word
+  % space stretched to justify. This is also what made the loose-line count
+  % meaningful -- justified verse was generating thousands of spurious
+  % Underfull \hbox warnings that masked any real ones.
+  \raggedright
   \large\color{TextGray}%
 }{%
   \endlist
@@ -339,13 +386,42 @@
 %% ============================================
 \widowpenalty=10000
 \clubpenalty=10000
-\tolerance=9999
-\emergencystretch=6em
+
+% Let a page end short rather than stretching it. With this many headings,
+% quote blocks and tables, \flushbottom was inventing near-empty pages and
+% 12 Underfull \vbox warnings.
+\raggedbottom
+
+% A heading must not be left stranded near the foot of a page.
+% NOTE the starred form: needspace documents \Needspace* as the variant to use
+% under \raggedbottom, and plain \needspace as the \flushbottom one. An earlier
+% attempt used the unstarred \needspace here with \raggedbottom in force and
+% broke a page at nearly every heading (408 pages -> 867).
+\let\PhlmOldSection\section
+\renewcommand{\section}{\Needspace*{4\baselineskip}\PhlmOldSection}
+\let\PhlmOldSubsection\subsection
+\renewcommand{\subsection}{\Needspace*{3\baselineskip}\PhlmOldSubsection}
+
+\tolerance=3000
+\emergencystretch=3em
 \hyphenpenalty=50
 \exhyphenpenalty=50
-\sloppy
-\hbadness=10000
-\hfuzz=2pt
+% \hbadness was previously 10000 (and \sloppy set it there again), which
+% silenced EVERY Underfull \hbox warning -- the build's "0 underfull" was
+% meaningless. The LaTeX default of 1000 is too strict for CJK, which cannot
+% hyphenate and so legitimately produces looser lines than Latin; at 1000
+% this book reports ~7200 lines. 2500 reports lines that are genuinely badly
+% spaced while accepting normal CJK looseness, so the number means something.
+\hbadness=2500
+\hfuzz=0.5pt
+
+% Every short cell in a p{}-column table is an Underfull \hbox "in alignment"
+% at badness 10000. That is inherent to tables, not a defect, and this book has
+% ~3600 of them -- enough to bury any real warning. Silence them inside table
+% environments ONLY, so body-text looseness still reports honestly.
+\AtBeginEnvironment{longtable}{\hbadness=10000}
+\AtBeginEnvironment{tabular}{\hbadness=10000}
+\AtBeginEnvironment{tabularx}{\hbadness=10000}
 
 %% ============================================
 %% METADATA
@@ -444,18 +520,6 @@ $endif$
 \end{center}
 \clearpage
 
-% Half title page
-\begin{center}
-\vspace*{1.5in}
-{\fontsize{16}{20}\selectfont\scshape\color{DeepBlue} 三書精讀系列}\\[0.3cm]
-{\fontsize{14}{18}\selectfont\color{LightGray} Three Books Deep Reading Series}\\[0.8cm]
-{\fontsize{48}{54}\selectfont\bfseries\color{RedemptionRed} 腓利門書}\\[0.2cm]
-{\fontsize{24}{28}\selectfont\color{DeepBlue} 恩典的懷抱}\\[0.5cm]
-{\Large\itshape\color{LightGray} The Embrace of Grace}
-\vfill
-\end{center}
-\clearpage
-
 % Title page
 \begin{center}
 \vspace*{0.3in}
@@ -538,42 +602,73 @@ $endif$
 \small\color{TextGray}
 
 \textbf{腓利門書研讀——恩典的懷抱}\\
-\textbf{Philemon Study — Three Books Deep Reading Edition}\\[0.8em]
+\textbf{Philemon: The Embrace of Grace}\\
+\textit{三書精讀系列 · Three Books Deep Reading Series}\\[0.9em]
 
-Copyright \copyright\ \the\year\ Soli Deo Gloria — 唯獨榮耀神\\
-All rights reserved.\\[0.8em]
+初版第一刷　First Edition, First Printing\\
+10\ \ 9\ \ 8\ \ 7\ \ 6\ \ 5\ \ 4\ \ 3\ \ 2\ \ 1\\[0.9em]
 
-\textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+Copyright \copyright\ \the\year\ \ 三書精讀出版系統 / PubHub\\
+Soli Deo Gloria — 唯獨榮耀神\\
+版權所有 · All rights reserved.\\[0.9em]
+
+\textbf{出版者 / Publisher}\\
+三書精讀出版系統（PubHub）\\
+{\color{RedemptionRed}\textbf{［出版地址待填 — PUBLISHER ADDRESS TO BE SUPPLIED］}}\\[0.9em]
+
+\textbf{國際標準書號 / ISBN}\\
+{\color{RedemptionRed}\textbf{［ISBN 待指派 — TO BE ASSIGNED BEFORE PRINTING］}}\\
+{\footnotesize 平裝 Paperback：\ ---\ \ \ 電子書 EPUB：\ ---}\\[0.9em]
+
+\textbf{主題分類 / BISAC Subject Codes}\\
+{\footnotesize
+REL006080\ \ RELIGION / Biblical Commentary / New Testament / Paul's Letters\\
+REL006700\ \ RELIGION / Biblical Studies / Paul's Letters\\
+REL012120\ \ RELIGION / Christian Living / Spiritual Growth\\
+LCO002000\ \ LITERARY CRITICISM / Books \& Reading}\\[0.9em]
+
+\textbf{經文版本 / Scripture Versions}\\
+中文：和合本（CUV, 1919）——公有領域\\
+English: World English Bible (WEB) — public domain, eBible.org\\
+{\footnotesize 本書所引兩種聖經譯本均屬公有領域，全文轉載無需授權。\\
+WEB 經文未經改動；\textit{World English Bible} 為 eBible.org 之商標。\\
+希臘文校訂本：Nestle-Aland 28th Edition (NA28)。WEB 底本與 NA28 之差異見附錄一。}\\[0.9em]
 
 \textbf{文學作品 / Literary Works}\\
-\textbullet\ 《悲慘世界》— 維克多·雨果 (Victor Hugo, 1862)\\
-\textbullet\ 《復活》— 列夫·托爾斯泰 (Leo Tolstoy, 1899)\\[0.8em]
+\textbullet\ 《悲慘世界》— 維克多·雨果 (Victor Hugo, 1862)，公有領域\\
+\textbullet\ 《復活》— 列夫·托爾斯泰 (Leo Tolstoy, 1899)，公有領域\\
+{\footnotesize 英譯引文據 Isabel F. Hapgood 譯本 (1887) 與 Louise Maude 及 Aylmer Maude 譯本 (1899)，均屬公有領域；中譯為編者依前述英譯所譯。}\\[0.9em]
+
+\textbf{聖詩 / Hymns}\\
+{\footnotesize 本書所引聖詩全部為公有領域作品，各章均註明作者與年份。}\\[0.9em]
 
 \textbf{三書精讀方法}\\
 第一書：聖經經卷（腓利門書）— 永恆真理\\
 第二書：世界文學（悲慘世界、復活）— 歷史迴響\\
-第三書：生命實踐 — 當代應用\\[0.8em]
+第三書：生命實踐 — 當代應用\\[0.9em]
 
 本書為七年三書精讀項目成果之一。\\
-Part of the 7-Year Three Books Deep Reading Project.\\[0.8em]
+Part of the 7-Year Three Books Deep Reading Project.\\[0.9em]
 
-8.5×11" Study Edition\\
-PubHub Publishing 2026
+{\color{RedemptionRed}\textbf{［印製地待填 — PRINTED IN \rule{1.2cm}{0.4pt}\ ］}}\\
+\PhlmTrimStatement
 
 \end{flushleft}
 \clearpage
 
-% Table of contents
+%% --------------------------------------------
+%% FRONT MATTER continues in the document body below:
+%%   dedication → \tableofcontents → preface → \mainmatter
+%% CAUTION: never write a pandoc variable name in a LaTeX comment here.
+%% Pandoc substitutes template variables before LaTeX sees the file, so a
+%% commented-out body placeholder still expands -- and because a % comment
+%% ends at the first newline, only the body's first line stays commented and
+%% the entire book is emitted a second time (408 pages -> 863).
+%% The build script emits the contents call and \mainmatter at the right
+%% points, so the dedication sits before the contents (trade convention)
+%% instead of after it.
+%% --------------------------------------------
 \pagestyle{fancy}
-{\color{DeepBlue}\tableofcontents}
-\clearpage
-
-%% --------------------------------------------
-%% MAIN MATTER
-%% --------------------------------------------
-\mainmatter
 
 $body$
 

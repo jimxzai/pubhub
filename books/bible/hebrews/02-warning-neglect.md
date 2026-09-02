@@ -6,7 +6,7 @@ date: 2026年7月
 publisher: 三書精讀出版系統
 ---
 
-# 救恩的警告與基督的人性
+# 救恩的警告與基督的人性 (Warning Against Neglect and Christ’s Humanity)
 ## Hebrews 2:1-18 — Warning Against Neglect and Christ's Humanity
 
 **經文核對**：[ai-eden.com/bible/hebrews/2](https://www.ai-eden.com/bible/hebrews/2?t=CUV,ESV&cols=2)
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-希伯來書第一章把基督的神性推到頂點——祂是神榮耀的光輝、神本體的真像，萬有靠祂的話托住。第二章卻突然轉了一個急彎：這一位配得萬有服在祂腳下的主，竟「成為比天使小一點的耶穌」（2:9），「照樣親自成了血肉之體」（2:14），「凡事該與他的弟兄相同」（2:17）。為什麼要這樣降卑？不是因為祂有所欠缺，是「因受苦難得以完全」（2:10）——好讓祂能真正「搭救被試探的人」（2:18）。夾在這幅降卑圖像中間的，是全書第一個警告（2:1-4）：這樣一位為你受苦、為你死的主所帶來的救恩，你若還輕忽不理，怎能逃罪？看見基督怎樣俯就到你的地步，才會明白忽略祂是何等的事。
+希伯來書第一章把基督的神性推到頂點——祂是神榮耀的光輝、神本體的真像，萬有靠祂的話托住。第二章卻突然轉了一個急彎：這一位配得萬有服在祂腳下的主，竟「成為比天使小一點的耶穌」（2:9），「照樣親自成了血肉之體」（2:14），「凡事該與他的弟兄相同」（2:17）。為甚麼要這樣降卑？不是因為祂有所欠缺，是「因受苦難得以完全」（2:10）——好讓祂能真正「搭救被試探的人」（2:18）。夾在這幅降卑圖像中間的，是全書第一個警告（2:1-4）：這樣一位為你受苦、為你死的主所帶來的救恩，你若還輕忽不理，怎能逃罪？看見基督怎樣俯就到你的地步，才會明白忽略祂是何等的事。
 
 ---
 
@@ -42,33 +42,32 @@ publisher: 三書精讀出版系統
 
 > **希伯來書 2:1-18**（和合本）
 >
-> 1 所以，我們當越發鄭重所聽見的道理，恐怕我們隨流失去。
-> 2 那藉著天使所傳的話既是確定的，凡干犯悖逆的都受了該受的報應，
-> 3 我們若忽略這麼大的救恩，怎能逃罪呢？這救恩起先是主親自講的，後來是聽見的人給我們證實了，
-> 4 神又按自己的旨意，用神蹟、奇事和百般的異能並聖靈的恩賜，同他們作見證。
-> 5 我們所說將來的世界，神原沒有交給天使管轄。
-> 6 但有人在經上某處證明說：「人算什麼，你竟顧念他？世人算什麼，你竟眷顧他？
-> 7 你叫他比天使微小一點，賜他榮耀、尊貴為冠冕，並將你手所造的都派他管理，
-> 8 叫萬物都服在他的腳下。」既叫萬物都服他，就沒有剩下一樣不服他的。只是如今我們還不見萬物都服他，
-> 9 唯獨見那成為比天使小一點的耶穌，因為受死的苦，就得了尊貴、榮耀為冠冕，叫他因著神的恩為人人嘗了死味。
-> 10 原來那為萬物所屬、為萬物所本的，要領許多的兒子進榮耀裡去，使救他們的元帥因受苦難得以完全，本是合宜的。
-> 11 因那使人成聖的和那些得以成聖的，都是出於一，所以他稱他們為弟兄也不以為恥，
-> 12 說：「我要將你的名傳於我的弟兄，在會中我要頌揚你。」
-> 13 又說：「我要依賴他。」又說：「看哪，我與神所給我的兒女。」
-> 14 兒女既同有血肉之體，他也照樣親自成了血肉之體，特要藉著死敗壞那掌死權的，就是魔鬼，
-> 15 並要釋放那些一生因怕死而為奴僕的人。
-> 16 他並不救拔天使，乃是救拔亞伯拉罕的後裔。
-> 17 所以，他凡事該與他的弟兄相同，為要在神的事上成為慈悲忠信的大祭司，為百姓的罪獻上挽回祭。
-> 18 他自己既然被試探而受苦，就能搭救被試探的人。
+> ^1^所以，我們當越發鄭重所聽見的道理，恐怕我們隨流失去。
+> ^2^那藉著天使所傳的話既是確定的，凡干犯悖逆的都受了該受的報應，
+> ^3^我們若忽略這麼大的救恩，怎能逃罪呢？這救恩起先是主親自講的，後來是聽見的人給我們證實了，
+> ^4^神又按自己的旨意，用神蹟、奇事和百般的異能並聖靈的恩賜，同他們作見證。
+> ^5^我們所說將來的世界，神原沒有交給天使管轄。
+> ^6^但有人在經上某處證明說：「人算甚麼，你竟顧念他？世人算甚麼，你竟眷顧他？
+> ^7^你叫他比天使微小一點，賜他榮耀、尊貴為冠冕，並將你手所造的都派他管理，
+> ^8^叫萬物都服在他的腳下。」既叫萬物都服他，就沒有剩下一樣不服他的。只是如今我們還不見萬物都服他，
+> ^9^唯獨見那成為比天使小一點的耶穌，因為受死的苦，就得了尊貴、榮耀為冠冕，叫他因著神的恩為人人嘗了死味。
+> ^10^原來那為萬物所屬、為萬物所本的，要領許多的兒子進榮耀裏去，使救他們的元帥因受苦難得以完全，本是合宜的。
+> ^11^因那使人成聖的和那些得以成聖的，都是出於一，所以他稱他們為弟兄也不以為恥，
+> ^12^說：「我要將你的名傳於我的弟兄，在會中我要頌揚你。」
+> ^13^又說：「我要依賴他。」又說：「看哪，我與神所給我的兒女。」
+> ^14^兒女既同有血肉之體，他也照樣親自成了血肉之體，特要藉著死敗壞那掌死權的，就是魔鬼，
+> ^15^並要釋放那些一生因怕死而為奴僕的人。
+> ^16^他並不救拔天使，乃是救拔亞伯拉罕的後裔。
+> ^17^所以，他凡事該與他的弟兄相同，為要在神的事上成為慈悲忠信的大祭司，為百姓的罪獻上挽回祭。
+> ^18^他自己既然被試探而受苦，就能搭救被試探的人。
 
 *經核對 cnbible.com 和合本原文，與慣用之新標點修訂版（RCUV）在多處措辭不同——例如 9 節「得了尊貴、榮耀為冠冕」（RCUV 作「得了榮耀尊貴為冠冕」）、17 節「獻上挽回祭」（RCUV 作「獻上贖罪祭」）。本章採用和合本（CUV）原文，「挽回祭」一詞更貼近原文 *hilaskomai* 的「平息神怒」意涵，見下方〈原文研讀〉。*
 
-### English — ESV
+### English — New American Standard Bible (NASB)
 
-> *1 Therefore we must pay much closer attention to what we have heard, lest we drift away from it. 2 For since the message declared by angels proved to be reliable, and every transgression or disobedience received a just retribution, 3 how shall we escape if we neglect such a great salvation? It was declared at first by the Lord, and it was attested to us by those who heard, 4 while God also bore witness by signs and wonders and various miracles and by gifts of the Holy Spirit distributed according to his will. 5 For it was not to angels that God subjected the world to come, of which we are speaking. 6 It has been testified somewhere, "What is man, that you are mindful of him, or the son of man, that you care for him? 7 You made him for a little while lower than the angels; you have crowned him with glory and honor, 8 putting everything in subjection under his feet." Now in putting everything in subjection to him, he left nothing outside his control. At present, we do not yet see everything in subjection to him. 9 But we see him who for a little while was made lower than the angels, namely Jesus, crowned with glory and honor because of the suffering of death, so that by the grace of God he might taste death for everyone. 10 For it was fitting that he, for whom and by whom all things exist, in bringing many sons to glory, should make the founder of their salvation perfect through suffering. 11 For he who sanctifies and those who are sanctified all have one source. That is why he is not ashamed to call them brothers, 12 saying, "I will tell of your name to my brothers; in the midst of the congregation I will sing your praise." 13 And again, "I will put my trust in him." And again, "Behold, I and the children God has given me." 14 Since therefore the children share in flesh and blood, he himself likewise partook of the same things, that through death he might destroy the one who has the power of death, that is, the devil, 15 and deliver all those who through fear of death were subject to lifelong slavery. 16 For surely it is not angels that he helps, but he helps the offspring of Abraham. 17 Therefore he had to be made like his brothers in every respect, so that he might become a merciful and faithful high priest in the service of God, to make propitiation for the sins of the people. 18 For because he himself has suffered when tempted, he is able to help those who are being tempted.*
-> — Hebrews 2:1-18 (ESV)
+> ^1^For this reason we must pay much closer attention to what we have heard, so that we do not drift away [from it]. ^2^For if the word spoken through angels proved unalterable, and every transgression and disobedience received a just penalty, ^3^how will we escape if we neglect so great a salvation? After it was at the first spoken through the Lord, it was confirmed to us by those who heard, ^4^God also testifying with them, both by signs and wonders and by various miracles and by gifts of the Holy Spirit according to His own will. ^5^For He did not subject to angels the world to come, concerning which we are speaking. ^6^But one has testified somewhere, saying, '\textsc{What is man, that you remember him? Or the son of man, that you are concerned about him}? ^7^'\textsc{You have made him for a little while lower than the angels; you have crowned him with glory and honor, and have appointed him over the works of your hands}; ^8^\textsc{You have put all things in subjection under his feet}.' For in subjecting all things to him, He left nothing that is not subject to him. But now we do not yet see all things subjected to him. ^9^But we do see Him who was made for a little while lower than the angels, [namely], Jesus, because of the suffering of death crowned with glory and honor, so that by the grace of God He might taste death for everyone. ^10^For it was fitting for Him, for whom are all things, and through whom are all things, in bringing many sons to glory, to perfect the author of their salvation through sufferings. ^11^For both He who sanctifies and those who are sanctified are all from one [Father]; for which reason He is not ashamed to call them brethren, ^12^saying, '\textsc{I will proclaim your name to my brethren, in the midst of the congregation I will sing your praise}.' ^13^And again, '\textsc{I will put my trust in him}.' And again, '\textsc{Behold, I and the children whom God has given me}.' ^14^Therefore, since the children share in flesh and blood, He Himself likewise also partook of the same, that through death He might render powerless him who had the power of death, that is, the devil, ^15^and might free those who through fear of death were subject to slavery all their lives. ^16^For assuredly He does not give help to angels, but He gives help to the descendant of Abraham. ^17^Therefore, He had to be made like His brethren in all things, so that He might become a merciful and faithful high priest in things pertaining to God, to make propitiation for the sins of the people. ^18^For since He Himself was tempted in that which He has suffered, He is able to come to the aid of those who are tempted.
 
----
+> — Hebrews 2:1-18 (NASB)
 
 ## 背景 (Context)
 
@@ -92,28 +91,28 @@ publisher: 三書精讀出版系統
 ### 本章引用的舊約經文
 
 | 經文 | 舊約來源 | 主題 |
-|------|----------|------|
-| 2:6-8 | 詩篇 8:4-6 | 「人算什麼，你竟顧念他」——人在創造中的尊貴地位 |
+|------|------|------|
+| 2:6-8 | 詩篇 8:4-6 | 「人算甚麼，你竟顧念他」——人在創造中的尊貴地位 |
 | 2:12 | 詩篇 22:22 | 「我要將你的名傳給我的弟兄」——彌賽亞受苦後的讚美 |
 | 2:13a | 以賽亞書 8:17 | 「我要倚靠他」——先知在黑暗中的信靠 |
 | 2:13b | 以賽亞書 8:18 | 「我與神所給我的兒女」——先知與門徒作為記號 |
 
-詩篇22是彌賽亞受苦的預言詩——基督在十架上引用了它的開頭（「我的神，我的神，為什麼離棄我？」），而2:12引用的卻是同一首詩受苦之後的讚美句（22:22）。從受苦到讚美，正是希伯來書2章從「降卑」走到「加冕」的同一條路。
+詩篇22是彌賽亞受苦的預言詩——基督在十架上引用了它的開頭（「我的神，我的神，為甚麼離棄我？」），而2:12引用的卻是同一首詩受苦之後的讚美句（22:22）。從受苦到讚美，正是希伯來書2章從「降卑」走到「加冕」的同一條路。
 
 ---
 
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
-| *pararrueō* | pararrueō | 隨流失去 | 如船漂離碼頭，2:1 |
-| *ameleō* | ameleō | 忽略 | 不當一回事，2:3 |
-| *archēgos* | archēgos | 元帥、先鋒 | 開路者、創始者，2:10；使徒行傳3:15、5:31 也用同一字稱耶穌 |
-| *teleioō* | teleioō | 完全、成全 | 達到目標、完成該完成的，2:10 |
-| *hilaskomai* | hilaskomai | 挽回、贖罪 | 平息神的義怒，2:17 |
-| *sympatheō* | sympatheō | 同情、體恤 | 一同感受，源自 2:18 的意涵 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| *παραρρέω* | pararrheō | 隨流失去 | 如船漂離碼頭，2:1 |
+| *ἀμελέω* | ameleō | 忽略 | 不當一回事，2:3 |
+| *ἀρχηγός* | archēgos | 元帥、先鋒 | 開路者、創始者，2:10；使徒行傳3:15、5:31 也用同一字稱耶穌 |
+| *τελειόω* | teleioō | 完全、成全 | 達到目標、完成該完成的，2:10 |
+| *ἱλάσκομαι* | hilaskomai | 挽回、贖罪 | 平息神的義怒，2:17 |
+| *συμπαθέω* | sympatheō | 同情、體恤 | 一同感受，源自 2:18 的意涵 |
 
-### *pararrueō*（隨流失去）的警告
+### *παραρρέω*（隨流失去）的警告
 
 這個字描繪一艘船不經意間漂離碼頭的畫面。危險不在於故意背離，而在於不留意、不警醒，結果不知不覺就偏離了。這是對「忽略」最生動的描繪。
 
@@ -123,7 +122,7 @@ publisher: 三書精讀出版系統
 
 ### *teleioō*（完全）——全書鑰字的第一次出現
 
-2:10「使救他們的元帥因受苦難得以完全」，是全書 τελειόω 一字九次出現中的第一次（另見5:9, 7:19, 7:28, 9:9, 10:1, 10:14, 11:40, 12:23）。這裡不是說基督原本有道德瑕疵，是說祂透過受苦的路，完整地取得了作救恩元帥、大祭司的資格。全書會反覆回到這個字，直到10:14「他一次獻祭，便叫那得以成聖的人永遠完全」——2:10 是這條線的起點。
+2:10「使救他們的元帥因受苦難得以完全」，是全書 τελειόω 一字九次出現中的第一次（另見5:9, 7:19, 7:28, 9:9, 10:1, 10:14, 11:40, 12:23）。這裏不是說基督原本有道德瑕疵，是說祂透過受苦的路，完整地取得了作救恩元帥、大祭司的資格。全書會反覆回到這個字，直到10:14「他一次獻祭，便叫那得以成聖的人永遠完全」——2:10 是這條線的起點。
 
 ### *hilaskomai*（挽回祭）的意義
 
@@ -131,19 +130,19 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 忽略比拒絕更危險——一艘不知不覺漂離的船
 
-「隨流失去」（*pararrueō*）描繪的不是船隻被風暴打翻，是無聲無息地漂離了原本停泊的碼頭——不需要一次背叛，只需要不留心。作者接著用的動詞是「忽略」（*ameleō*，2:3）——不是拒絕，是不當一回事。麥克阿瑟講這段時說得直白：「你要下地獄，只需要什麼都不做」（詳見下方〈三大資源深度整合〉）。你信仰生命裡有沒有一件事，不是你決定放棄了，只是你已經很久沒有靠近了？
+「隨流失去」（*παραρρέω*，pararrheō）描繪的不是船隻被風暴打翻，是無聲無息地漂離了原本停泊的碼頭——不需要一次背叛，只需要不留心。作者接著用的動詞是「忽略」（*ameleō*，2:3）——不是拒絕，是不當一回事。麥克阿瑟講這段時說得直白：「你要下地獄，只需要甚麼都不做」（詳見下方〈三大資源深度整合〉）。你信仰生命裏有沒有一件事，不是你決定放棄了，只是你已經很久沒有靠近了？
 
-帶領提問：**「這麼大的救恩」（2:3），你上一次因著它而心裡火熱，是什麼時候？如果答不出來，你可能正在隨流失去。**
+帶領提問：**「這麼大的救恩」（2:3），你上一次因著它而心裏火熱，是甚麼時候？如果答不出來，你可能正在隨流失去。**
 
-### 2. 詩篇8的應驗——「人算什麼」問的其實是耶穌
+### 2. 詩篇8的應驗——「人算甚麼」問的其實是耶穌
 
-詩篇8說「你叫他比天使微小一點，賜他榮耀尊貴為冠冕，並將你手所造的都派他管理」——你以為這說的是誰？創造之初，神確實把管理權交給了人（創1:26-28），但作者緊接著誠實地說：「只是如今我們還不見萬物都服他」（2:8）。人類的管理權在墮落裡失落了。詩篇8真正應驗的地方，只有一處：「唯獨見那成為比天使小一點的耶穌……得了尊貴、榮耀為冠冕」（2:9）。你若只把詩篇8讀成「人類真偉大」的勵志詩，就錯過了它真正指向的那位。
+詩篇8說「你叫他比天使微小一點，賜他榮耀尊貴為冠冕，並將你手所造的都派他管理」——你以為這說的是誰？創造之初，神確實把管理權交給了人（創1:26-28），但作者緊接著誠實地說：「只是如今我們還不見萬物都服他」（2:8）。人類的管理權在墮落裏失落了。詩篇8真正應驗的地方，只有一處：「唯獨見那成為比天使小一點的耶穌……得了尊貴、榮耀為冠冕」（2:9）。你若只把詩篇8讀成「人類真偉大」的勵志詩，就錯過了它真正指向的那位。
 
-帶領提問：**你讀詩篇8的時候，心裡浮現的主角是誰——是「人類」的潛能，還是那位替全人類重新贏回這頂冠冕的耶穌？**
+帶領提問：**你讀詩篇8的時候，心裏浮現的主角是誰——是「人類」的潛能，還是那位替全人類重新贏回這頂冠冕的耶穌？**
 
 ### 3. 因受苦難得以完全——一位受苦的元帥
 
@@ -155,13 +154,13 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 
 「那使人成聖的和那些得以成聖的，都是出於一」（2:11）——一位聖潔的神子，與被祂救贖、卻仍帶著軟弱的你，被說成「出於一」。祂稱你為弟兄，引用的是詩篇22:22——那首耶穌在十字架上開口唱的受苦詩，最後卻轉為在弟兄中頌揚神的讚美詩。從受苦到宣告「這是我的弟兄」，是同一首詩、同一條路。
 
-帶領提問：**如果耶穌今天當著眾人的面說「這是我的弟兄」，指的是你，你心裡的第一個反應，是感動，還是覺得自己配不上？**
+帶領提問：**如果耶穌今天當著眾人的面說「這是我的弟兄」，指的是你，你心裏的第一個反應，是感動，還是覺得自己配不上？**
 
 ### 5. 從怕死的奴僕到得釋放
 
 「一生因怕死而為奴僕」（2:15）——這句話說中了很多人自己都沒有察覺的光景：不是每個人都怕鬼、怕地獄，但幾乎每個人都在某種程度上被死亡的陰影管轄著——過度的安全感需求、無法放手的掌控欲、對衰老的恐懼，都是這捆鎖的變形。基督「照樣親自成了血肉之體」，不只是為了同情你的怕，是為了「藉著死敗壞那掌死權的」（2:14）——祂用死亡本身，摧毀了死亡的權勢。
 
-帶領提問：**你生命裡有哪一個決定、哪一種生活方式，其實是被「怕死」在背後操控，而不是被信心在帶領？**
+帶領提問：**你生命裏有哪一個決定、哪一種生活方式，其實是被「怕死」在背後操控，而不是被信心在帶領？**
 
 ---
 
@@ -198,15 +197,55 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 8:3-6——本章 2:6-8 直接引用的詩
+
+作者要證明「人子」的尊貴，卻不從創世記講起，從一個人夜裏抬頭看天講起。
+
+> ^3^我觀看你指頭所造的天，並你所陳設的月亮星宿，
+> ^4^便說：「**人算甚麼，你竟顧念他？世人算甚麼，你竟眷顧他？**
+> ^5^你叫他比天使微小一點，並賜他榮耀尊貴為冠冕。
+> ^6^你派他管理你手所造的，使萬物……都服在他的腳下。」
+
+> ^3^When I consider Your heavens, the work of Your fingers, The moon and the stars, which You have ordained;
+> ^4^**What is man that You take thought of him, And the son of man that You care for him?**
+> ^5^Yet You have made him a little lower than God, And You crown him with glory and majesty!
+> ^6^You make him to rule over the works of Your hands; You have put all things under his feet,
+
+**領受**：詩篇 8 描述的是人受造時的尊榮——而作者在 2:8 誠實地承認：「只是如今我們還不見萬物都服他。」\textcolor{ScriptureGold}{\textbf{應許與現實中間，有一道明顯的裂縫。作者不掩飾這道裂縫，他只在 2:9 加上一句：「惟獨見耶穌……」}}
+
+**這是全本聖經處理「還沒有成就」的標準答案：不是解釋，是指出一位。**
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### What a Friend We Have in Jesus
+
+Joseph Scriven 1855 年寫這首詩，不是為了出版——是寫給遠在愛爾蘭的母親。他自己的未婚妻在婚禮前一天溺斃；後來在加拿大，第二位未婚妻又病逝。**這首「耶穌是我親愛朋友」，是從兩次失去裏寫出來的。**
+
+**歌詞與經文對照**：
+
+| 歌詞 | 希伯來書 2 章 |
+|------|------|
+| All our sins and griefs to bear | 「除掉百姓的罪」（2:17） |
+| What a privilege to carry / Everything to God in prayer | 「能搭救被試探的人」（2:18） |
+| Do thy friends despise, forsake thee? | 「稱他們為弟兄，也不以為恥」（2:11） |
+
+**默想**：2:17 說祂「凡事該與他的弟兄相同」。**「朋友」這個詞若沒有 2:14-18 撐著，就只是一句安慰話；有了 2:14-18，它是一項事實：祂真的照樣成了血肉之體。**
+
+---
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 麥克阿瑟：忽略是通往滅亡最容易的路 (John MacArthur)
 
-麥克阿瑟以兩篇分開的講章處理希伯來書2章，剛好對應本章的兩個段落。論2:1-4的講章題為 *The Tragedy of Neglecting Salvation*（1972年2月27日），他說："Hell is undoubtedly full of people who are not actively opposed to Jesus Christ, but who simply drifted into damnation by neglecting to respond to the gospel."（地獄裡必定滿了並非積極抵擋耶穌基督、只是因忽略回應福音而漂流入沉淪的人）。他把整段警告濃縮成一句：**"All you need to do to go to hell is do nothing."**（你要下地獄，只需要什麼都不做）他用救恩的港口作比喻："The harbor of salvation is static. It's in one spot. It's in Jesus Christ. It never moves."（救恩的港口是靜止不動的，它就在一個地方，就是耶穌基督，它從不移動）——漂流的是船，不是港口。
+麥克阿瑟以兩篇分開的講章處理希伯來書2章，剛好對應本章的兩個段落。論2:1-4的講章題為 *The Tragedy of Neglecting Salvation*（1972年2月27日），他說："Hell is undoubtedly full of people who are not actively opposed to Jesus Christ, but who simply drifted into damnation by neglecting to respond to the gospel."（地獄裏必定滿了並非積極抵擋耶穌基督、只是因忽略回應福音而漂流入沉淪的人）。他把整段警告濃縮成一句：**"All you need to do to go to hell is do nothing."**（你要下地獄，只需要甚麼都不做）他用救恩的港口作比喻："The harbor of salvation is static. It's in one spot. It's in Jesus Christ. It never moves."（救恩的港口是靜止不動的，它就在一個地方，就是耶穌基督，它從不移動）——漂流的是船，不是港口。
 
 > 出處：John MacArthur, "The Tragedy of Neglecting Salvation" (Hebrews 2:1-4), Grace to You (gty.org), 1972年2月27日 — https://www.gty.org/library/sermons-library/1604/the-tragedy-of-neglecting-salvation
 
-論2:9-18的講章題為 *Our Perfect Savior*（1972年3月12日），麥克阿瑟指出基督在這段經文裡承擔了五重角色——替身（Substitute）、救恩元帥（Salvation Captain，即 *archēgos*）、成聖者（Sanctifier）、撒但的征服者（Satan-Conqueror）、體恤者（Sympathizer）。他說："Jesus was born to die. And so it is not that Jesus loses His dignity by being lower than angels. It is that He becomes lower than angels for a very distinct and definite purpose."（耶穌生下來就是為了死。所以並非耶穌因比天使小而失去尊嚴，而是祂為了一個非常明確的目的，才成為比天使小。）
+論2:9-18的講章題為 *Our Perfect Savior*（1972年3月12日），麥克阿瑟指出基督在這段經文裏承擔了五重角色——替身（Substitute）、救恩元帥（Salvation Captain，即 *archēgos*）、成聖者（Sanctifier）、撒但的征服者（Satan-Conqueror）、體恤者（Sympathizer）。他說："Jesus was born to die. And so it is not that Jesus loses His dignity by being lower than angels. It is that He becomes lower than angels for a very distinct and definite purpose."（耶穌生下來就是為了死。所以並非耶穌因比天使小而失去尊嚴，而是祂為了一個非常明確的目的，才成為比天使小。）
 
 > 出處：John MacArthur, "Our Perfect Savior" (Hebrews 2:9-18), Grace to You (gty.org), 1972年3月12日 — https://www.gty.org/library/sermons-library/1606/our-perfect-savior
 
@@ -216,12 +255,12 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 
 > 出處：G. Campbell Morgan, "The Son — Lower Than the Angels — Crowned" (Hebrews 2:9), *God's Last Word to Man: Studies in Hebrews* (1936)，全文見 biblenotes.online — https://biblenotes.online/resources/books/cmorgan_godslastwordtoman.htm （已核實：章節標題、經文範圍與引句均見於該公開全文）
 
-### 黃長老查經
+### 老弟兄查經
 
-**精義一句話**：麥克阿瑟看見的是「忽略」這條最容易的滅亡之路——你什麼都不用做，就會漂走；摩根看見的是「降卑」與「加冕」原是同一個動作——基督越低下去，就越顯出祂配得的冠冕越大。兩者合在一起，正是黃長老常說的：你讀聖經，若沒有因此更緊抓住耶穌，就等於白讀了——這一章逼你回答的，正是你要不要緊抓住這位為你降到最低、又因此得冠冕的主。
+**精義一句話**：麥克阿瑟看見的是「忽略」這條最容易的滅亡之路——你甚麼都不用做，就會漂走；摩根看見的是「降卑」與「加冕」原是同一個動作——基督越低下去，就越顯出祂配得的冠冕越大。兩者合在一起，正是老弟兄常說的：你讀聖經，若沒有因此更緊抓住耶穌，就等於白讀了——這一章逼你回答的，正是你要不要緊抓住這位為你降到最低、又因此得冠冕的主。
 
 帶領提問：
-- 麥克阿瑟說「下地獄不需要做任何事」——你今天的信仰生活，是主動在做什麼親近神的事，還是只是任由時間流逝、什麼都沒做？
+- 麥克阿瑟說「下地獄不需要做任何事」——你今天的信仰生活，是主動在做甚麼親近神的事，還是只是任由時間流逝、甚麼都沒做？
 - 摩根說基督「越降卑，冠冕越大」——你生命中有沒有一次「降卑」（放下面子、放下權利、放下自己），結果反而讓你看見神更大的榮耀？
 
 ---
@@ -240,7 +279,7 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 **詩篇**：詩篇 8:3-6
 
 > 我觀看你指頭所造的天，並你所陳設的月亮星宿，
-> 便說：人算什麼，你竟顧念他？世人算什麼，你竟眷顧他？
+> 便說：人算甚麼，你竟顧念他？世人算甚麼，你竟眷顧他？
 > 你叫他比天使微小一點，並賜他榮耀尊貴為冠冕。
 > 你派他管理你手所造的，使萬物都服在他的腳下。
 
@@ -252,7 +291,7 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 **建議配詩一覽**
 
 | 詩歌 | 作者/年代 | 與經文關聯 |
-|------|-----------|------------|
+|------|------|------|
 | *What a Friend We Have in Jesus* | Scriven, 1855 | 基督能體恤我們 (2:17-18) |
 | *O Sacred Head, Now Wounded* | Bernard, 12世紀 | 基督受苦得榮耀 (2:9) |
 | *Man of Sorrows* | Bliss, 1875 | 擔當我們的憂患 (2:10) |
@@ -263,7 +302,7 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -275,19 +314,64 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 
 ### 提問式對話 (Let the Reader Speak)
 
-- 詩篇8問「人算什麼，你竟顧念他」——如果這問題的答案原來不是泛指全人類，而是特指耶穌，你今天讀這篇詩篇，會不會讀出不一樣的敬畏？
+- 詩篇8問「人算甚麼，你竟顧念他」——如果這問題的答案原來不是泛指全人類，而是特指耶穌，你今天讀這篇詩篇，會不會讀出不一樣的敬畏？
 
 - 「因受苦難得以完全」——你是否曾經因為自己正在受苦，就懷疑神是不是離棄了你？這段經文告訴你的，恰好相反。
 
-- 「一生因怕死而為奴僕」——你生命中被這種恐懼捆綁最深的一個具體決定是什麼？
+- 「一生因怕死而為奴僕」——你生命中被這種恐懼捆綁最深的一個具體決定是甚麼？
 
-### 活在今天 (Living It Today)
+### 活在今天 · AI時代 (Living It Today)
 
-我們活在一個把「忽略」變得前所未有容易的時代——手機一亮就是幾十個通知，注意力被切成幾秒鐘的碎片，連禱告都可能被下一則推播打斷。希伯來書2:1說的「隨流失去」（*pararrueō*），在演算法時代有了一個更貼切的畫面：不是你決定不再信，是你的注意力被一路餵養到別的地方去了，信仰只是眾多分頁裡，一直沒有被點開的那一個。這一章的警告和安慰，剛好是同一件事的兩面——你若真的知道，那位配得你注意力的，是一位「凡事被試探而受苦」、能真正明白你、正在為你活著代求的主，你今天打開手機的第一個動作，會不會不一樣？
+我們活在一個把「忽略」變得前所未有容易的時代——手機一亮就是幾十個通知，注意力被切成幾秒鐘的碎片，連禱告都可能被下一則推播打斷。希伯來書2:1說的「隨流失去」（*παραρρέω*），在演算法時代有了一個更貼切的畫面：不是你決定不再信，是你的注意力被一路餵養到別的地方去了，信仰只是眾多分頁裏，一直沒有被點開的那一個。這一章的警告和安慰，剛好是同一件事的兩面——你若真的知道，那位配得你注意力的，是一位「凡事被試探而受苦」、能真正明白你、正在為你活著代求的主，你今天打開手機的第一個動作，會不會不一樣？
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：讀 2:1 一次——「恐怕我們隨流失去」。求主指出今天最可能把你沖走的那道水流。
+- **晚上**：省察——今天我不是「拒絕」了神，但有沒有哪一刻，我只是「沒有留意」？
+- **一個行動**：在你今天最容易漂走的那個時段（通勤？睡前？），設一個具體的錨——一節經文、一句禱告、一分鐘的停頓。
+
+---
+
+## 鑰詞深讀：隨流失去 (Key Word — παραρρέω)
+
+### 一、原文是一個航海的字
+
+> ^1^所以，我們當越發鄭重所聽見的道理，恐怕我們**隨流失去**。
+
+παραρρυῶμεν（動詞 παραρρέω），字面是「從旁邊流過去」。古典希臘文用它形容：**一隻沒有下錨的船，順著水流，慢慢漂離了它本來要靠的港。**
+
+留意作者沒有用的字：他沒有說「背道」、沒有說「反叛」、沒有說「否認」。
+
+### 二、危險不在攻擊，在無所作為
+
+\textcolor{ScriptureGold}{\textbf{漂流不需要任何決定。它只需要你甚麼都不做。}}
+
+| 「背道」 | 「隨流失去」 |
+|------|------|
+| 需要一個決定 | 不需要任何決定 |
+| 有時間點，看得出來 | 沒有時間點，看不出來 |
+| 別人會發現 | 通常只有自己知道，而且知道得太晚 |
+| 對付的是敵擋 | 對付的是「不夠鄭重」 |
+
+希伯來書的讀者不是要去拜偶像，他們只是**慢慢地少聚會、慢慢地不再談、慢慢地把那個名字從日常裏挪開**。作者第一段警告就是為這個寫的。
+
+### 三、對應的動詞：「越發鄭重」
+
+同一節裏，作者給了解藥：προσέχειν περισσοτέρως——「越發專注地留意」。這個字在新約也常譯作「留心」、「謹慎」。
+
+**注意這是主動的。**漂流是被動的，留意是主動的。**一隻船不會自己漂回港口。**
+
+### 四、逼近核心的一問
+
+> 若把你三年前的屬靈光景和今天並排放著看，你是往前劃了，還是只是漂著？
+
+漂著的人通常會說：「我沒有離開啊。」——**是的，你沒有離開。你只是不在原來的地方了。**
+
+---
+
+## 老弟兄精義 (The Distilled Key)
 
 希伯來書第二章把一章的高峰突然拉低——不是基督配不上那高峰，是祂甘願從那高峰走下來，成為比天使小一點的耶穌，好使祂能真正替你死，又真正明白你。夾在中間的警告（2:1-4），不是離題，是全章唯一合理的結論：一位願意降到這麼低、只為救你的主，你若對祂的救恩無動於衷，才是最說不通的事。你讀完這十八節，若沒有更想靠近祂一點，這一章就白讀了。
 
@@ -303,7 +387,7 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 
 3. **從死亡恐懼中釋放**：我是否仍然「因怕死而為奴僕」？基督的得勝如何影響我面對死亡的態度？
 
-4. **稱為弟兄**：基督不以稱我為「弟兄」為恥——這對我的自我形象有什麼影響？
+4. **稱為弟兄**：基督不以稱我為「弟兄」為恥——這對我的自我形象有甚麼影響？
 
 5. **這麼大的救恩**：我是否真正珍惜這「這麼大的救恩」？還是把它當作理所當然？
 
@@ -323,18 +407,18 @@ CUV 譯作「挽回祭」，比 RCUV「贖罪祭」更貼近原文——這字�
 
 ## 反思問題 (Reflection Questions)
 
-1. 「隨流失去」和「故意離棄」有什麼不同？為什麼「忽略」也是危險的？
+1. 「隨流失去」和「故意離棄」有甚麼不同？為甚麼「忽略」也是危險的？
 
-2. 為什麼作者要強調基督「成為比天使小一點」？這與第一章的論證有什麼關係？
+2. 為甚麼作者要強調基督「成為比天使小一點」？這與第一章的論證有甚麼關係？
 
-3. 基督「因受苦難而得以完全」是什麼意思？這是否暗示基督原本不完全？
+3. 基督「因受苦難而得以完全」是甚麼意思？這是否暗示基督原本不完全？
 
-4. 道成肉身的四個原因（2:9, 14, 15, 17）中，哪一個對你最有意義？為什麼？
+4. 道成肉身的四個原因（2:9, 14, 15, 17）中，哪一個對你最有意義？為甚麼？
 
 5. 「他自己既然被試探而受苦，就能搭救被試探的人」——這如何影響你向基督禱告的信心？
 
 ---
 
-*本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章整合：老弟兄查經、John MacArthur (gty.org)、G. Campbell Morgan*
 
-*三書精讀項目 · 希伯來書：更美的約 · 黃長老式查經 · 02-救恩的警告與基督的人性*
+*三書精讀項目 · 希伯來書：更美的約 · 老弟兄查經 · 02-救恩的警告與基督的人性*

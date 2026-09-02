@@ -38,7 +38,7 @@ subtitle: "Historical Background: Roman Slavery"
 - 賣給更殘忍的主人
 - 送去做礦工（等於死刑）
 
-這就是為什麼保羅的代求如此重要。
+這就是為甚麼保羅的代求如此重要。
 
 ---
 
@@ -100,7 +100,7 @@ subtitle: "Historical Background: Roman Slavery"
 | 「在基督裡不分主僕」(加3:28) | 確立人在神面前的平等 |
 | 「收納他如同收納我」(門17) | 要求主人改變對待奴隸的方式 |
 
-### 為什麼保羅沒有直接呼籲廢奴？
+### 為甚麼保羅沒有直接呼籲廢奴？
 
 1. **時機問題**：立即廢奴會造成社會崩潰
 2. **策略問題**：從內在改變比外在革命更持久
@@ -123,6 +123,3 @@ subtitle: "Historical Background: Roman Slavery"
 - 「不再是奴僕，是兄弟」成為廢奴的聖經依據
 
 ---
-
-*返回：[附錄五：《復活》原文選讀](appendix-05-resurrection.md)*
-*下一篇：[附錄七：延伸閱讀書目](appendix-07-bibliography.md)*

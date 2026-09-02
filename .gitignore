@@ -62,3 +62,7 @@ coverage/
 # Sync state (contains Firebase tokens)
 .sync-state.json
 /output
+
+# Python bytecode
+__pycache__/
+*.pyc

@@ -97,7 +97,7 @@
 
 ---
 
-## 35.5 神學要點 (Theological Points)
+## 35.5 領受要點 (Truths Received)
 
 ### 1. 教會的真正誕生日
 

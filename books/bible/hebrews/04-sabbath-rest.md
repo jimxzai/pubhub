@@ -6,7 +6,7 @@ date: 2025年12月
 publisher: 三書精讀出版系統
 ---
 
-# 安息日的安息
+# 安息日的安息 (The Sabbath Rest)
 ## Hebrews 4:1-16 — The Sabbath Rest
 
 **經文核對**：[ai-eden.com/bible/hebrews/4](https://www.ai-eden.com/bible/hebrews/4?t=CUV,ESV&cols=2)
@@ -63,12 +63,21 @@ publisher: 三書精讀出版系統
 
 > ^14^我們既然有一位已經升入高天尊榮的大祭司，就是神的兒子耶穌，便當持定所承認的道。^15^因我們的大祭司並非不能體恤我們的軟弱，他也曾凡事受過試探，與我們一樣，只是他沒有犯罪。^16^**所以我們只管坦然無懼地來到施恩的寶座前，為要得憐恤，蒙恩惠，做隨時的幫助。**
 
-### English — ESV
+### English — New American Standard Bible (NASB)
 
-> *1 Therefore, while the promise of entering his rest still stands, let us fear lest any of you should seem to have failed to reach it. 2 For good news came to us just as to them, but the message they heard did not benefit them, because they were not united by faith with those who listened. 3 For we who have believed enter that rest, as he has said, "As I swore in my wrath, 'They shall not enter my rest,'" although his works were finished from the foundation of the world. 4 For he has somewhere spoken of the seventh day in this way: "And God rested on the seventh day from all his works." 5 And again in this passage he said, "They shall not enter my rest." 6 Since therefore it remains for some to enter it, and those who formerly received the good news failed to enter because of disobedience, 7 again he appoints a certain day, "Today," saying through David so long afterward, in the words already quoted, "Today, if you hear his voice, do not harden your hearts." 8 For if Joshua had given them rest, God would not have spoken of another day later on. 9 So then, there remains a Sabbath rest for the people of God, 10 for whoever has entered God's rest has also rested from his works as God did from his. 11 Let us therefore strive to enter that rest, so that no one may fall by the same sort of disobedience. 12 For the word of God is living and active, sharper than any two-edged sword, piercing to the division of soul and of spirit, of joints and of marrow, and discerning the thoughts and intentions of the heart. 13 And no creature is hidden from his sight, but all are naked and exposed to the eyes of him to whom we must give account. 14 Since then we have a great high priest who has passed through the heavens, Jesus, the Son of God, let us hold fast our confession. 15 For we do not have a high priest who is unable to sympathize with our weaknesses, but one who in every respect has been tempted as we are, yet without sin. 16 Let us then with confidence draw near to the throne of grace, that we may receive mercy and find grace to help in time of need.*
-> — Hebrews 4:1-16 (ESV)
+> ^1^Therefore, let us fear if, while a promise remains of entering His rest, any one of you may seem to have come short of it. ^2^For indeed we have had good news preached to us, just as they also; but the word they heard did not profit them, because it was not united by faith in those who heard.
 
----
+> ^3^For we who have believed enter that rest, just as He has said, '\textsc{As I swore in my wrath, they shall not enter my rest},' although His works were finished from the foundation of the world. ^4^For He has said somewhere concerning the seventh [day]: '\textsc{And God rested on the seventh day from all his works}'; ^5^and again in this [passage], '\textsc{They shall not enter my rest}.'
+
+> ^6^Therefore, since it remains for some to enter it, and those who formerly had good news preached to them failed to enter because of disobedience, ^7^He again fixes a certain day, 'Today,' saying through David after so long a time just as has been said before, '\textsc{Today if you hear his voice, do not harden your hearts}.'
+
+> ^8^For if Joshua had given them rest, He would not have spoken of another day after that. ^9^**So there remains a Sabbath rest for the people of God.** ^10^**For the one who has entered His rest has himself also rested from his works, as God did from His.**
+
+> ^11^Therefore let us be diligent to enter that rest, so that no one will fall, through [following] the same example of disobedience. ^12^**For the word of God is living and active and sharper than any two-edged sword, and piercing as far as the division of soul and spirit, of both joints and marrow, and able to judge the thoughts and intentions of the heart.** ^13^And there is no creature hidden from His sight, but all things are open and laid bare to the eyes of Him with whom we have to do.
+
+> ^14^Therefore, since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast our confession. ^15^For we do not have a high priest who cannot sympathize with our weaknesses, but One who has been tempted in all things as [we are, yet] without sin. ^16^**Therefore let us draw near with confidence to the throne of grace, so that we may receive mercy and find grace to help in time of need.**
+
+> — Hebrews 4:1-16 (NASB)
 
 ## 背景 (Context)
 
@@ -77,7 +86,7 @@ publisher: 三書精讀出版系統
 作者在本章使用「安息」（*katapausis*, *sabbatismos*）時，涉及三個層面：
 
 | 類型 | 經文背景 | 意義 |
-|------|----------|------|
+|------|------|------|
 | 創造的安息 | 創2:2 | 神完成創造後的安息 |
 | 迦南的安息 | 詩95:11 | 進入應許之地 |
 | 屬靈的安息 | 來4:9 | 信徒在基督裏的安息 |
@@ -107,7 +116,7 @@ publisher: 三書精讀出版系統
 ### 本章引用的舊約經文
 
 | 來4: | 舊約來源 | 主題 | 原文脈絡 |
-|------|----------|------|----------|
+|------|------|------|------|
 | 4:3, 5 | **詩篇 95:11** | 「他們絕不可進入我的安息」 | 曠野世代的審判 |
 | 4:4 | **創世記 2:2** | 「到第七日，神歇了他一切的工」 | 創造完成的安息 |
 | 4:7 | **詩篇 95:7-8** | 「你們今日若聽他的話」 | 大衛的更新呼召 |
@@ -115,7 +124,7 @@ publisher: 三書精讀出版系統
 ### 延伸舊約對照
 
 | 主題 | 希伯來書4章 | 舊約對照 |
-|------|-------------|----------|
+|------|------|------|
 | 安息的應許 | 4:1 | 申12:9-10（迦南地的安息） |
 | 神的工完成 | 4:3-4 | 出20:11（安息日的依據） |
 | 約書亞帶領 | 4:8 | 書21:44（約書亞給他們安息） |
@@ -127,7 +136,7 @@ publisher: 三書精讀出版系統
 ## 使徒行傳關聯 (Acts Connections)
 
 | 使徒行傳 | 希伯來書4章 | 主題關聯 |
-|----------|-------------|----------|
+|------|------|------|
 | 徒7:45 | 來4:8 | 約書亞帶領以色列人進入應許之地 |
 | 徒13:19 | 來4:8 | 神將迦南地分給以色列人 |
 | 徒13:32-33 | 來4:7 | 「今日」的應許在基督裏成就 |
@@ -139,14 +148,14 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
-| *katapausis* | katapausis | 安息 | 停止工作的狀態，本章使用最多的「安息」用字 |
-| *sabbatismos* | sabbatismos | 安息日的安息 | 新約僅此一次（4:9），作者自創的新詞 |
-| *logos* | logos | 道、話語 | 4:12「活潑的」道，與1:1-2「神藉著子說話」同一個字根 |
-| *spoudazō* | spoudazō | 竭力、殷勤 | 積極努力 |
-| *energēs* | energēs | 有功效的 | 英文 "energy" 來源 |
-| *sympatheō* | sympatheō | 體恤、同情 | 一同感受 |
-| *parrēsia* | parrēsia | 坦然、坦白 | 公開自由的說話 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| *κατάπαυσις* | katapausis | 安息 | 停止工作的狀態，本章使用最多的「安息」用字 |
+| *σαββατισμός* | sabbatismos | 安息日的安息 | 新約僅此一次（4:9），作者自創的新詞 |
+| *λόγος* | logos | 道、話語 | 4:12「活潑的」道，與1:1-2「神藉著子說話」同一個字根 |
+| *σπουδάζω* | spoudazō | 竭力、殷勤 | 積極努力 |
+| *ἐνεργής* | energēs | 有功效的 | 英文 "energy" 來源 |
+| *συμπαθέω* | sympatheō | 體恤、同情 | 一同感受 |
+| *παρρησία* | parrēsia | 坦然、坦白 | 公開自由的說話 |
 
 ### *katapausis* 與 *sabbatismos*——兩種安息，一個實體
 
@@ -154,7 +163,7 @@ publisher: 三書精讀出版系統
 
 ### *logos*——活潑的道，不只是文字
 
-4:12「神的道（*logos*）是活潑的，是有功效的」，這個字在1:2「神……藉著他兒子向我們說話」的「話」也是同一個字根家族。歷代解經者對這節有兩種讀法：多數現代解經（包括麥克阿瑟）認為主要指聖經；但也有解經者（見下方摩根的解讀）認為，按上下文緊接著14節「大祭司……神的兒子耶穌」，這裡的「道」最終指向的其實是那位親自「刺入、剖開」人心的主自己——聖經之所以有這樣的能力，正因為它是那位活著之道的啟示。
+4:12「神的道（*logos*）是活潑的，是有功效的」，這個字在1:2「神……藉著他兒子向我們說話」的「話」也是同一個字根家族。歷代解經者對這節有兩種讀法：多數現代解經（包括麥克阿瑟）認為主要指聖經；但也有解經者（見下方摩根的解讀）認為，按上下文緊接著14節「大祭司……神的兒子耶穌」，這裏的「道」最終指向的其實是那位親自「刺入、剖開」人心的主自己——聖經之所以有這樣的能力，正因為它是那位活著之道的啟示。
 
 ### *energēs*（有功效的）
 
@@ -162,9 +171,9 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-「安息」在本章不是一個安慰性的形容詞，是一個要你重新檢視自己「還在靠什麼站立」的提問。作者把三層安息疊在一起——創造的、迦南的、還存留的——不是為了做一場歷史回顧，是要逼你回答：你今天的信仰生活，究竟是安息在基督已成的工上，還是仍在拼命做工，好證明自己配得。
+「安息」在本章不是一個安慰性的形容詞，是一個要你重新檢視自己「還在靠甚麼站立」的提問。作者把三層安息疊在一起——創造的、迦南的、還存留的——不是為了做一場歷史回顧，是要逼你回答：你今天的信仰生活，究竟是安息在基督已成的工上，還是仍在拼命做工，好證明自己配得。
 
 ### 1. 三層安息——迦南是預表，基督才是實體
 
@@ -182,7 +191,7 @@ publisher: 三書精讀出版系統
 
 「神的道是活潑的……甚至魂與靈、骨節與骨髓，都能刺入、剖開」（4:12）。這是外科手術刀的意象，不是刑具的意象。目的不是傷害，是讓你看清楚自己藏在深處、連自己都分辨不出的「思念和主意」。**你若從未被神的話刺痛過，很可能是還沒有真正讓它靠近。**
 
-帶領提問：**神的話上一次「刺入」你心裡一個你原本不想被觸碰的地方，是什麼時候？你當時的反應是躲開，還是留下來？**
+帶領提問：**神的話上一次「刺入」你心裏一個你原本不想被觸碰的地方，是甚麼時候？你當時的反應是躲開，還是留下來？**
 
 ### 4. 大祭司的體恤——因為祂自己也曾受試探
 
@@ -227,6 +236,58 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 62:1-2, 5-8——安息的內在形狀
+
+希伯來書 4 章講的安息，不是停止工作，是停止自救。詩篇 62 用兩次幾乎相同的疊句，把這件事說得最清楚。
+
+> ^1^**我的心默默無聲，專等候神**；我的救恩是從他而來。
+> ^2^惟獨他是我的磐石，我的拯救；他是我的高臺，我必不很動搖。
+> ^5^**我的心哪，你當默默無聲，專等候神**，因為我的盼望是從他而來。
+> ^6^惟獨他是我的磐石，我的拯救；他是我的高臺，我必不動搖。
+> ^7^我的拯救、我的榮耀都在乎神；我力量的磐石、我的避難所都在乎神。
+> ^8^你們眾民當時時倚靠他，在他面前傾心吐意；神是我們的避難所。
+
+> ^1^**For the choir director; according to Jeduthun. A Psalm of David. My soul [waits] in silence for God only; From Him is my salvation.**
+> ^2^He only is my rock and my salvation, My stronghold; I shall not be greatly shaken.
+> ^5^**My soul, wait in silence for God only, For my hope is from Him.**
+> ^8^Trust in Him at all times, O people; Pour out your heart before Him; God is a refuge for us. Selah.
+
+**領受**：第 1 節是陳述——「我的心默默無聲」；第 5 節是命令——「我的心哪，你當默默無聲」。\textcolor{ScriptureGold}{\textbf{同一個人，先描述自己的安息，再回頭命令自己的心進入安息。安息不是一種心情，是一個要對自己下的命令。}}
+
+**這正是 4:11 的邏輯：「務必竭力進入那安息。」——竭力，為要安息。**
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Near to the Heart of God
+
+Cleland B. McAfee 1903 年寫這首詩的那一週，他的兩個姪女因白喉在同一天過世。教會不准會眾靠近那間被隔離的房子，McAfee 就站在門外的台階上唱這首歌。
+
+> There is a place of quiet rest,
+> Near to the heart of God;
+> A place where sin cannot molest,
+> Near to the heart of God.
+>
+> 有一安靜安息之處，
+> 靠近神的心懷；
+> 罪惡不能侵擾之處，
+> 靠近神的心懷。
+
+**歌詞與經文對照**：
+
+| 歌詞 | 希伯來書 4 章 |
+|------|------|
+| A place of quiet rest | 「必有安息日的安息」（4:9） |
+| A place where sin cannot molest | 「連心中的思念和主意都能辨明」（4:12） |
+| A place of full release | 「坦然無懼地來到施恩的寶座前」（4:16） |
+
+**默想**：留意這首詩的動詞——「**Draw** me nearer」，不是「Take me away」。\textcolor{ScriptureGold}{\textbf{4:16 的安息不是逃到一個沒有患難的地方，是在患難中走到寶座前面去。}}
+
+---
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 麥克阿瑟：安息不是躺平，是不再自己做工 (John MacArthur)
@@ -239,15 +300,15 @@ publisher: 三書精讀出版系統
 
 ### 摩根：這「道」不只是一本書，是一個活著的祂 (G. Campbell Morgan)
 
-摩根在《神對人最後的話》（*God's Last Word to Man: Studies in Hebrews*，1936年出版）第六章〈子——勝過約書亞〉（"The Son – Greater Than Joshua"，論來4:8-10）中，先指出「安息」（*katapausis*）這個希臘字："The Greek word used here for rest means quite literally to settle down, and it is found in classical Greek, used to describe colonization."（這個希臘字的原意就是「安頓下來」，古典希臘文用它描述「移民定居」。）約書亞把百姓帶進了迦南地，卻無法讓他們真正安頓下來——摩根接著指出，那正是因為只有基督才配得說："Come unto Me, and I will give you rest."（到我這裡來，我就使你們得安息。）他用士師記的歷史印證約書亞的失敗："it is a history of constant restlessness"（那是一部持續動盪不安的歷史）。
+摩根在《神對人最後的話》（*God's Last Word to Man: Studies in Hebrews*，1936年出版）第六章〈子——勝過約書亞〉（"The Son – Greater Than Joshua"，論來4:8-10）中，先指出「安息」（*katapausis*）這個希臘字："The Greek word used here for rest means quite literally to settle down, and it is found in classical Greek, used to describe colonization."（這個希臘字的原意就是「安頓下來」，古典希臘文用它描述「移民定居」。）約書亞把百姓帶進了迦南地，卻無法讓他們真正安頓下來——摩根接著指出，那正是因為只有基督才配得說："Come unto Me, and I will give you rest."（到我這裏來，我就使你們得安息。）他用士師記的歷史印證約書亞的失敗："it is a history of constant restlessness"（那是一部持續動盪不安的歷史）。
 
-摩根對4:12「神的道是活潑的」最獨到的一點，是他堅持這裡的「道」（*logos*）指的不是聖經這卷書，而是那位說話的子本身："The Word of God is not a document merely, but a Person, living and dealing with personality... the reference of the writer was not first to the Bible, but to the Son Who is the Word of God."（神的道不只是一份文件，乃是一個位格，活著並與人的位格打交道……作者所指的，首先不是聖經，而是那位本身就是神之道的兒子。）
+摩根對4:12「神的道是活潑的」最獨到的一點，是他堅持這裏的「道」（*logos*）指的不是聖經這卷書，而是那位說話的子本身："The Word of God is not a document merely, but a Person, living and dealing with personality... the reference of the writer was not first to the Bible, but to the Son Who is the Word of God."（神的道不只是一份文件，乃是一個位格，活著並與人的位格打交道……作者所指的，首先不是聖經，而是那位本身就是神之道的兒子。）
 
 > 出處：G. Campbell Morgan, *God's Last Word to Man: Studies in Hebrews* (1936), Chapter 6 "The Son – Greater Than Joshua"（論來4:8-10），全文見 biblenotes.online — https://biblenotes.online/resources/books/cmorgan_godslastwordtoman.htm （已核實：章節標題、經文範圍與逐字引句均與該書公開全文電子版相符）
 
-### 黃長老查經
+### 老弟兄查經
 
-**精義一句話**：麥克阿瑟看見的是安息的「代價」——你必須停止自己的工，因為靠工作換不來神的喜悅；摩根看見的是安息的「對象」——那賜安息的道，不是一本書，是一個活著的祂。黃長老常說：字句叫人死，精義（聖靈）叫人活——這正是希伯來書4:12要你明白的：神的道刺入你心，不是為了定罪，是因為那道有生命，祂認識你，也要你認識祂。
+**精義一句話**：麥克阿瑟看見的是安息的「代價」——你必須停止自己的工，因為靠工作換不來神的喜悅；摩根看見的是安息的「對象」——那賜安息的道，不是一本書，是一個活著的祂。老弟兄常說：字句叫人死，精義（聖靈）叫人活——這正是希伯來書4:12要你明白的：神的道刺入你心，不是為了定罪，是因為那道有生命，祂認識你，也要你認識祂。
 
 帶領提問：
 - 麥克阿瑟講「不再自己做工」，摩根講「這道是一個位格」——如果神的話今天親自向你說話，不是透過一段文字，是透過那位活著的主，你今天最需要祂對你說哪一句話？
@@ -278,7 +339,7 @@ publisher: 三書精讀出版系統
 ### 建議配詩一覽
 
 | 詩歌 | 作者/年代 | 與經文關聯 |
-|------|-----------|------------|
+|------|------|------|
 | *Near to the Heart of God* | McAfee, 1903 | 安息日的安息 (4:9) |
 | *It Is Well with My Soul* | Spafford, 1873 | 任何處境的平安 (4:10) |
 | *I Heard the Voice of Jesus Say* | Bonar, 1846 | 來到基督得安息 (4:16) |
@@ -317,33 +378,90 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
-- **創世記 2:2-3 ↔ 希伯來書 4:4, 9-10**：神造物的工完成後，「到第七日，神就歇了他一切的工」——這是全本聖經第一個「安息」，早於摩西的律法、早於迦南地存在。希伯來書4章的整個論證，根都紮在這裡：安息不是靠遵守誡命換來的獎賞，是神創造次序裡本來就有的節奏。
+- **創世記 2:2-3 ↔ 希伯來書 4:4, 9-10**：神造物的工完成後，「到第七日，神就歇了他一切的工」——這是全本聖經第一個「安息」，早於摩西的律法、早於迦南地存在。希伯來書4章的整個論證，根都紮在這裏：安息不是靠遵守誡命換來的獎賞，是神創造次序裏本來就有的節奏。
 
 - **約書亞記 21:44 ↔ 希伯來書 4:8**：「耶和華照著向他們列祖起誓所應許的一切話，使他們四境平安」——約書亞記自己也宣告百姓「得了安息」，但希伯來書卻說「若是約書亞已叫他們享了安息，後來神就不再提別的日子了」（4:8）。兩段經文並不矛盾，是層次不同：約書亞給的是地理上的、暫時的安息；神藉大衛的詩篇（詩95）仍然說「今日」，正說明還有一個更深的安息在前面。
 
-- **馬太福音 11:28 ↔ 希伯來書 4:9-11**：「凡勞苦擔重擔的人，可以到我這裡來，我就使你們得安息」——耶穌自己在地上時說的這句話，正是希伯來書「安息日的安息為神的子民存留」（4:9）的成就。約書亞（Ἰησοῦς）帶百姓進了地卻給不出安息；耶穌（Ἰησοῦς，同一個名字）親自出聲呼召：到我這裡來。
+- **馬太福音 11:28 ↔ 希伯來書 4:9-11**：「凡勞苦擔重擔的人，可以到我這裏來，我就使你們得安息」——耶穌自己在地上時說的這句話，正是希伯來書「安息日的安息為神的子民存留」（4:9）的成就。約書亞（Ἰησοῦς）帶百姓進了地卻給不出安息；耶穌（Ἰησοῦς，同一個名字）親自出聲呼召：到我這裏來。
 
 ### 提問式對話 (Let the Reader Speak)
 
-- 「你們今日若聽他的話，就不可硬著心」（4:7）——這句話在希伯來書出現不止一次。你心裡有沒有一句神已經對你說了很久、你卻一直用「明天再說」拖延回應的話？
+- 「你們今日若聽他的話，就不可硬著心」（4:7）——這句話在希伯來書出現不止一次。你心裏有沒有一句神已經對你說了很久、你卻一直用「明天再說」拖延回應的話？
 
 - 「歇了自己的工，正如神歇了他的工一樣」（4:10）——你今天的禱告、你今天的服事，是從「已經被接納」出發，還是從「還要證明自己」出發？如果誠實回答，你的答案會不會讓你自己意外？
 
-- 「神的道……連心中的思念和主意都能辨明」（4:12）——你上一次讓神的話「刺入」到一個你其實不想被觸碰的地方，是什麼時候？
+- 「神的道……連心中的思念和主意都能辨明」（4:12）——你上一次讓神的話「刺入」到一個你其實不想被觸碰的地方，是甚麼時候？
 
-### 活在今天 (Living It Today)
+### 活在今天 · AI時代 (Living It Today)
 
-現代人最擅長的一件事，就是把「休息」也變成一項要達標的績效——追蹤睡眠分數、規劃「高效放鬆」的行程、甚至把靈修也排進待辦清單，好證明自己「有在休息」。這正是希伯來書4章要拆穿的假安息：你越努力「表演」休息，就越證明你根本沒有進入那安息，因為真正的安息，起點不是「我做了什麼讓自己感覺好一點」，是「歇了自己的工」（4:10）——徹底停止用行為向神、向自己、向別人證明你配得被愛。下一次你發現自己在「努力放鬆」卻感到更累的時候，那正是希伯來書4章要問你的問題：你是不是還在用另一種方式做工，只是換了一個名字叫「休息」？
+現代人最擅長的一件事，就是把「休息」也變成一項要達標的績效——追蹤睡眠分數、規劃「高效放鬆」的行程、甚至把靈修也排進待辦清單，好證明自己「有在休息」。這正是希伯來書4章要拆穿的假安息：你越努力「表演」休息，就越證明你根本沒有進入那安息，因為真正的安息，起點不是「我做了甚麼讓自己感覺好一點」，是「歇了自己的工」（4:10）——徹底停止用行為向神、向自己、向別人證明你配得被愛。下一次你發現自己在「努力放鬆」卻感到更累的時候，那正是希伯來書4章要問你的問題：你是不是還在用另一種方式做工，只是換了一個名字叫「休息」？
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+### 今天的祭壇 (Today's Altar)
 
-希伯來書4章把「安息」拆成三層——創造第七日的安息、迦南地的安息、「安息日的安息」（4:9）還為神的子民存留——三層疊在一起，只為了指向一件事：這安息不是你掙來的地方，是一個位格，是那升入高天、又親自體恤你軟弱的大祭司（4:14-15）。這也是整卷書從第一部（1:1-4:13，基督超越天使、摩西、約書亞）走向第二部（4:14起，基督的大祭司職分）的轉折點——4:14-16不是這一章的附錄，是整卷書下一半、長達六章篇幅要展開的序幕。你若讀到這裡只學到「要休息」，這一章就白讀了；你要讀到的是：那位能給你真安息的，現在正邀請你「坦然無懼地來到施恩的寶座前」。
+- **早晨**：把 4:16 當作今天第一句話——「坦然無懼地來到施恩的寶座前」。留意「坦然無懼」四個字，是給誰的。
+- **晚上**：省察——今天我有沒有一件事，是靠自己撐著、卻始終沒有交出去的？
+- **一個行動**：今天為一件你一直用力抓著的事禱告，禱告的內容只有一句：「主，這件事我不再自己扛。」
+
+---
+
+## 鑰詞深讀：安息 (Key Word — κατάπαυσις / σαββατισμός)
+
+### 一、兩個字，不是同一件事
+
+4 章出現兩個「安息」：
+
+| 原文 | 出處 | 意思 |
+|------|------|------|
+| κατάπαυσις | 3:11, 18；4:1, 3, 5, 10, 11 | 停下來、安頓下來——迦南地的那種「進入」 |
+| **σαββατισμός** | **4:9（全本聖經僅此一次）** | **守安息日、安息日的安息** |
+
+第 9 節作者忽然換了字：「這樣看來，必另有一**安息日的安息**為神的子民存留。」
+
+\textcolor{ScriptureGold}{\textbf{他換字，是因為他要說的不再是「一塊地」，而是「神自己在第七日所進入的那個安息」。}}
+
+### 二、三層安息，指向同一個實體
+
+作者在 3-4 章一層一層拆開：
+
+| 層 | 甚麼安息 | 為何不夠 |
+|--------------|--------------------------------|--------------------------------|
+| 第一層 | 迦南地（約書亞領進去的） | 4:8「若是約書亞已叫他們享了安息，後來神就不再提別的日子了」 |
+| 第二層 | 安息日（第七日的條例） | 是影子——記號指向實體 |
+| **第三層** | **神自己的安息** | **4:10「進入安息的，乃是歇了自己的工」** |
+
+### 三、4:10 是全章最容易讀錯的一節
+
+> ^10^因為那進入安息的，乃是歇了自己的工，正如神歇了他的工一樣。
+
+「歇了自己的工」——不是叫你停止工作，是叫你停止**用自己的工去換一個地位**。
+
+神在第七日歇了工，不是因為累了，是因為**完成了**。信的人進入安息，也不是因為放棄了，是因為**祂完成了**。
+
+### 四、「竭力進入安息」——這句話矛盾嗎
+
+> ^11^所以，我們務必竭力進入那安息。
+
+σπουδάσωμεν：竭盡全力、殷勤努力。
+
+作者要人「竭力」得著「安息」——聽起來自相矛盾，其實不然。**你要出的力，不是用來賺那安息，是用來抵擋那把你拉離安息的東西**：不信（4:2）、硬心（3:13）、隨流失去（2:1）。
+
+### 五、逼近核心的一問
+
+> 你這一個星期最累的，是身體，還是那個「還不夠好」的聲音？
+
+如果是後者——\textcolor{ScriptureGold}{\textbf{那不是需要休假，那是需要 4:10。}}
+
+---
+
+## 老弟兄精義 (The Distilled Key)
+
+希伯來書4章把「安息」拆成三層——創造第七日的安息、迦南地的安息、「安息日的安息」（4:9）還為神的子民存留——三層疊在一起，只為了指向一件事：這安息不是你掙來的地方，是一個位格，是那升入高天、又親自體恤你軟弱的大祭司（4:14-15）。這也是整卷書從第一部（1:1-4:13，基督超越天使、摩西、約書亞）走向第二部（4:14起，基督的大祭司職分）的轉折點——4:14-16不是這一章的附錄，是整卷書下一半、長達六章篇幅要展開的序幕。你若讀到這裏只學到「要休息」，這一章就白讀了；你要讀到的是：那位能給你真安息的，現在正邀請你「坦然無懼地來到施恩的寶座前」。
 
 ---
 
@@ -378,18 +496,18 @@ publisher: 三書精讀出版系統
 
 ## 反思問題 (Reflection Questions)
 
-1. 「安息日的安息」與普通的「安息」有什麼不同？為什麼作者要特意為4:9造一個新詞？
+1. 「安息日的安息」與普通的「安息」有甚麼不同？為甚麼作者要特意為4:9造一個新詞？
 
-2. 「歇了自己的工」在實際生活中是什麼意思？這與懶惰有什麼區別？
+2. 「歇了自己的工」在實際生活中是甚麼意思？這與懶惰有甚麼區別？
 
 3. 神的話語如何「刺入、剖開」我們的心？這是令人害怕還是令人感恩的事？
 
-4. 為什麼強調基督「受過試探，與我們一樣」？這對我們禱告有什麼影響？
+4. 為甚麼強調基督「受過試探，與我們一樣」？這對我們禱告有甚麼影響？
 
-5. 「施恩的寶座」與舊約的「約櫃」有什麼關聯？為什麼我們可以「坦然無懼」地來？
+5. 「施恩的寶座」與舊約的「約櫃」有甚麼關聯？為甚麼我們可以「坦然無懼」地來？
 
 ---
 
-*本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章整合：老弟兄查經、John MacArthur (gty.org)、G. Campbell Morgan*
 
-*三書精讀項目 · 希伯來書：更美的中保 · 黃長老式查經 · 04-安息日的安息*
+*三書精讀項目 · 希伯來書：更美的中保 · 老弟兄查經 · 04-安息日的安息*

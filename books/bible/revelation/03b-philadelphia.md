@@ -46,7 +46,7 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^7^'And to the angel of the church in Philadelphia write: He who is holy, who is true, who has the key of David, who opens and no one will shut, and who shuts and no one opens, says this: \jesus{ ^8^'I know your deeds. Behold, I have put before you an open door which no one can shut, because you have a little power, and have kept My word, and have not denied My name. ^9^'Behold, I will cause *those* of the synagogue of Satan, who say that they are Jews and are not, but lie— I will make them come and bow down at your feet, and *make them* know that I have loved you. ^10^'Because you have kept the word of My perseverance, I also will keep you from the hour of testing, that *hour* which is about to come upon the whole world, to test those who dwell on the earth.}
+> ^7^'And to the angel of the church in Philadelphia write: He who is holy, who is true, who has the key of David, who opens and no one will shut, and who shuts and no one opens, says this: \jesus{ ^8^'I know your deeds. Behold, I have put before you an open door which no one can shut, because you have a little power, and have kept My word, and have not denied My name. ^9^'Behold, I will cause \textit{those} of the synagogue of Satan, who say that they are Jews and are not, but lie— I will make them come and bow down at your feet, and \textit{make them} know that I have loved you. ^10^'Because you have kept the word of My perseverance, I also will keep you from the hour of testing, that \textit{hour} which is about to come upon the whole world, to test those who dwell on the earth.}
 
 > \jesus{ ^11^'I am coming quickly; hold fast what you have, so that no one will take your crown. ^12^'He who overcomes, I will make him a pillar in the temple of My God, and he will not go out from it anymore; and I will write on him the name of My God, and the name of the city of My God, the new Jerusalem, which comes down out of heaven from My God, and My new name.} ^13^'He who has an ear, let him hear what the Spirit says to the churches.'
 
@@ -81,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 軟弱與忠心可以並存 (Weakness and Faithfulness Can Coexist)
 

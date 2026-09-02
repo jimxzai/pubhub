@@ -50,9 +50,9 @@ publisher: 三書精讀出版系統
 
 > ^18^'And to the angel of the church in Thyatira write: The Son of God, who has eyes like a flame of fire, and His feet are like burnished bronze, says this: \jesus{ ^19^'I know your deeds, and your love and faith and service and perseverance, and that your deeds of late are greater than at first.
 
-> ^20^'But I have *this* against you, that you tolerate the woman Jezebel, who calls herself a prophetess, and she teaches and leads My bond-servants astray so that they commit *acts of* immorality and eat things sacrificed to idols. ^21^'I gave her time to repent, and she does not want to repent of her immorality. ^22^'Behold, I will throw her on a bed *of sickness*, and those who commit adultery with her into great tribulation, unless they repent of her deeds. ^23^'And I will kill her children with pestilence, and all the churches will know that I am He who searches the minds and hearts; and I will give to each one of you according to your deeds.
+> ^20^'But I have \textit{this} against you, that you tolerate the woman Jezebel, who calls herself a prophetess, and she teaches and leads My bond-servants astray so that they commit \textit{acts of} immorality and eat things sacrificed to idols. ^21^'I gave her time to repent, and she does not want to repent of her immorality. ^22^'Behold, I will throw her on a bed \textit{of sickness}, and those who commit adultery with her into great tribulation, unless they repent of her deeds. ^23^'And I will kill her children with pestilence, and all the churches will know that I am He who searches the minds and hearts; and I will give to each one of you according to your deeds.
 
-> ^24^'But I say to you, the rest who are in Thyatira, who do not hold this teaching, who have not known the deep things of Satan, as they call them— I place no other burden on you. ^25^'Nevertheless what you have, hold fast until I come. ^26^'He who overcomes, and he who keeps My deeds until the end, TO HIM I WILL GIVE AUTHORITY OVER THE NATIONS; ^27^AND HE SHALL RULE THEM WITH A ROD OF IRON, AS THE VESSELS OF THE POTTER ARE BROKEN TO PIECES, as I also have received *authority* from My Father; ^28^and I will give him the morning star. ^29^'He who has an ear, let him hear what the Spirit says to the churches.'}
+> ^24^'But I say to you, the rest who are in Thyatira, who do not hold this teaching, who have not known the deep things of Satan, as they call them— I place no other burden on you. ^25^'Nevertheless what you have, hold fast until I come. ^26^'He who overcomes, and he who keeps My deeds until the end, TO HIM I WILL GIVE AUTHORITY OVER THE NATIONS; ^27^AND HE SHALL RULE THEM WITH A ROD OF IRON, AS THE VESSELS OF THE POTTER ARE BROKEN TO PIECES, as I also have received \textit{authority} from My Father; ^28^and I will give him the morning star. ^29^'He who has an ear, let him hear what the Spirit says to the churches.'}
 
 ---
 
@@ -86,7 +86,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 「越來越好」也可能藏著致命的縱容
 
@@ -182,7 +182,7 @@ publisher: 三書精讀出版系統
 
 **七封信中最長的一封，寫給最小的城**：麥克阿瑟指出這個反差——推雅推喇不過是個行會林立的商業小城，主卻用最長的篇幅處理它，因為「容讓耶洗別」的問題最深：不是缺乏愛心，而是把容忍罪惡誤當愛心。
 
-**行會筵席的現實壓力**：他描繪當時的處境：不加入行會就沒有生意，行會筵席就有偶像的祭物與淫亂——「耶洗別」的教訓正是為這種壓力提供神學藉口。經濟壓力至今仍是教會妥協最常見的入口。
+**行會筵席的現實壓力**：他描繪當時的處境：不加入行會就沒有生意，行會筵席就有偶像的祭物與淫亂——「耶洗別」的教訓正是為這種壓力提供道理上的藉口。經濟壓力至今仍是教會妥協最常見的入口。
 
 **「察看人肺腑心腸」的主**：向這間教會顯現的，是「眼目如火焰」的神子——事工可以越做越多（2:19），但主察看的深度直達肺腑；同時他也記念「其餘的人」，不再加給他們別的擔子（2:24）。
 

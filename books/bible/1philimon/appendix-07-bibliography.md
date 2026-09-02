@@ -13,7 +13,7 @@ subtitle: "Bibliography & References"
 | 版本 | 語言 | 用途 |
 |------|------|------|
 | 和合本修訂版 (RCUV) | 繁體中文 | 主要中文經文引用 |
-| English Standard Version (ESV) | 英文 | 主要英文經文引用 |
+| World English Bible (WEB) | 英文 | 主要英文經文引用；公有領域，eBible.org |
 | Nestle-Aland 28th Edition (NA28) | 希臘文 | 新約原文研究 |
 | Biblia Hebraica Stuttgartensia (BHS) | 希伯來文 | 舊約原文研究 |
 | Septuagint (LXX) | 希臘文 | 舊約希臘文譯本 |
@@ -71,13 +71,13 @@ subtitle: "Bibliography & References"
 |------|------|------|
 | 安瑟倫 (Anselm of Canterbury) | 《神為何成為人》(*Cur Deus Homo*) | 代贖的「滿足說」 |
 | 古斯塔夫·奧倫 (Gustaf Aulén) | 《得勝的基督》(*Christus Victor*) | 代贖的「勝利說」 |
-| John Stott | *The Cross of Christ* | 十架神學 |
+| John Stott | *The Cross of Christ* | 十字架的真理 |
 
 ### 恩典與饒恕
 
 | 作者 | 書名 | 主題 |
 |------|------|------|
-| Miroslav Volf | *Free of Charge: Giving and Forgiving in a Culture Stripped of Grace* | 饒恕神學 |
+| Miroslav Volf | *Free of Charge: Giving and Forgiving in a Culture Stripped of Grace* | 饒恕的真理 |
 | Timothy Keller | *The Prodigal God* | 恩典與浪子 |
 | Lewis Smedes | *Forgive and Forget: Healing the Hurts We Don't Deserve* | 饒恕的實踐 |
 | Philip Yancey | *What's So Amazing About Grace?* | 恩典的驚奇 |
@@ -87,7 +87,7 @@ subtitle: "Bibliography & References"
 
 | 作者 | 書名 | 主題 |
 |------|------|------|
-| C.S. Lewis | *The Problem of Pain* | 苦難神學 |
+| C.S. Lewis | *The Problem of Pain* | 苦難的真理 |
 | C.S. Lewis | *Mere Christianity* | 基督教核心信仰 |
 | Viktor Frankl | *Man's Search for Meaning* | 苦難中的意義 |
 
@@ -134,7 +134,7 @@ subtitle: "Bibliography & References"
 
 **主要演員與角色**：
 
-| 演員 | 角色 | 神學對應 |
+| 演員 | 角色 | 屬靈對應 |
 |------|------|---------|
 | Hugh Jackman 休·傑克曼 | Jean Valjean 冉阿讓 | 蒙恩的罪人 |
 | Anne Hathaway 安·海瑟薇 | Fantine 芳汀 | 苦難中的盼望 |
@@ -208,5 +208,18 @@ subtitle: "Bibliography & References"
 
 ---
 
-*返回：[附錄六：歷史背景](appendix-06-historical-background.md)*
-*下一篇：[附錄八：研讀問題](appendix-08-study-questions.md)*
+---
+
+## 已核對之公開全文（供讀者自行查證）
+
+本書〈歷代注疏〉各節凡標明「已核對」者，均對照下列公開全文查證。讀者可循此逐條複核：
+
+| 作者 | 著作 | 公開全文出處 |
+|---|---|---|
+| 屈梭多模 | *Homilies on Philemon*（Argument + Homilies 1-3） | CCEL, *NPNF* 1-13 |
+| 加爾文 | *Commentary on Philemon* | CCEL, Calvin's Commentaries vol. 43 |
+| 萊特福 | *Saint Paul's Epistles to the Colossians and to Philemon* (1875) | Project Gutenberg #50857 |
+| 路德 | *Preface to the Epistle of Saint Paul to Philemon* (1522) | *Works of Martin Luther*, Prefaces to the Books of the Bible |
+
+**未核對者**：耶柔米《腓利門書注釋》序言——目前無自由取得的英譯全文，拉丁原文見 *Patrologia Latina* 26；
+麥克阿瑟 *Colossians and Philemon*（MacArthur New Testament Commentary）——在版權中，一律維持標明的撮述。

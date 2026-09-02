@@ -80,7 +80,7 @@
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 真理與愛的結合
 

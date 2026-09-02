@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-本章是希伯來書「基督的大祭司職分」（4:14-10:18）這半卷書的高峰，也是全卷唯一一次把「一次」（ἐφάπαξ）與「永遠」並列說盡三遍的地方：10:10「只一次獻上他的身體，就得以成聖」，10:12「基督獻了一次永遠的贖罪祭，就在神的右邊坐下了」，10:14「他一次獻祭，便叫那得以成聖的人永遠完全」。三次「一次」，一次比一次逼近核心——這卷書從第1章就在追問「誰能真正除罪」，到這裡終於給出答案：不是更好的祭物，是那一位親自成了祭物，又親自完成了祭司的工作，如今坐著，等候仇敵成為祂的腳凳。你若在別處遍尋不著安息，10:10-14就是希伯來書遞給你的那句話：**工作已經做完了，你不必再做什麼去加添。**
+本章是希伯來書「基督的大祭司職分」（4:14-10:18）這半卷書的高峰，也是全卷唯一一次把「一次」（ἐφάπαξ）與「永遠」並列說盡三遍的地方：10:10「只一次獻上他的身體，就得以成聖」，10:12「基督獻了一次永遠的贖罪祭，就在神的右邊坐下了」，10:14「他一次獻祭，便叫那得以成聖的人永遠完全」。三次「一次」，一次比一次逼近核心——這卷書從第1章就在追問「誰能真正除罪」，到這裏終於給出答案：不是更好的祭物，是那一位親自成了祭物，又親自完成了祭司的工作，如今坐著，等候仇敵成為祂的腳凳。你若在別處遍尋不著安息，10:10-14就是希伯來書遞給你的那句話：**工作已經做完了，你不必再做甚麼去加添。**
 
 ---
 
@@ -62,7 +62,7 @@ publisher: 三書精讀出版系統
 
 > ^11^凡祭司天天站著侍奉神，屢次獻上一樣的祭物，這祭物永不能除罪。^12^**但基督獻了一次永遠的贖罪祭，就在神的右邊坐下了**，^13^從此等候他仇敵成了他的腳凳。^14^**因為他一次獻祭，便叫那得以成聖的人永遠完全。**
 >
-> ^15^聖靈也對我們作見證，因為他既已說過：^16^「主說：『那些日子以後，我與他們所立的約乃是這樣：我要將我的律法寫在他們心上，又要放在他們的裡面』」，^17^以後就說：「**我不再記念他們的罪愆和他們的過犯。**」^18^這些罪過既已赦免，就不用再為罪獻祭了。
+> ^15^聖靈也對我們作見證，因為他既已說過：^16^「主說：『那些日子以後，我與他們所立的約乃是這樣：我要將我的律法寫在他們心上，又要放在他們的裏面』」，^17^以後就說：「**我不再記念他們的罪愆和他們的過犯。**」^18^這些罪過既已赦免，就不用再為罪獻祭了。
 
 **坦然進入至聖所 (10:19-25)**
 
@@ -70,27 +70,35 @@ publisher: 三書精讀出版系統
 
 **第四警告：故意犯罪的後果 (10:26-31)**
 
-> ^26^**因為我們得知真道以後，若故意犯罪，贖罪的祭就再沒有了**，^27^唯有戰懼等候審判和那燒滅眾敵人的烈火。^28^人干犯摩西的律法，憑兩三個見證人，尚且不得憐恤而死；^29^何況人踐踏神的兒子，將那使他成聖之約的血當做平常，又褻慢施恩的聖靈，你們想，他要受的刑罰該怎樣加重呢！^30^因為我們知道誰說「申冤在我，我必報應」，又說「主要審判他的百姓」。^31^**落在永生神的手裡，真是可怕的！**
+> ^26^**因為我們得知真道以後，若故意犯罪，贖罪的祭就再沒有了**，^27^唯有戰懼等候審判和那燒滅眾敵人的烈火。^28^人干犯摩西的律法，憑兩三個見證人，尚且不得憐恤而死；^29^何況人踐踏神的兒子，將那使他成聖之約的血當做平常，又褻慢施恩的聖靈，你們想，他要受的刑罰該怎樣加重呢！^30^因為我們知道誰說「申冤在我，我必報應」，又說「主要審判他的百姓」。^31^**落在永生神的手裏，真是可怕的！**
 
 **堅持到底的勸勉 (10:32-39)**
 
 > ^32^你們要追念往日蒙了光照以後，所忍受大爭戰的各樣苦難。^33^一面被毀謗，遭患難，成了戲景叫眾人觀看；一面陪伴那些受這樣苦難的人。^34^因為你們體恤了那些被捆鎖的人，並且你們的家業被人搶去，也甘心忍受，知道自己有更美、長存的家業。^35^**所以，你們不可丟棄勇敢的心，存這樣的心必得大賞賜。**^36^你們必須忍耐，使你們行完了神的旨意，就可以得著所應許的。
 >
-> ^37^「因為還有一點點時候，那要來的就來，並不遲延。^38^**只是義人必因信得生；他若退後，我心裡就不喜歡他。**」^39^**我們卻不是退後入沉淪的那等人，乃是有信心以致靈魂得救的人。**
+> ^37^「因為還有一點點時候，那要來的就來，並不遲延。^38^**只是義人必因信得生；他若退後，我心裏就不喜歡他。**」^39^**我們卻不是退後入沉淪的那等人，乃是有信心以致靈魂得救的人。**
 
 *中文經文核對來源：cnbible.com（和合本 CUV），與原文既有的和合本修訂版（RCUV）用詞略有出入（例如10:1「總不能」對RCUV「就不能」、10:4「斷不能除罪」對RCUV「絕不可能除去罪」），已依CUV原文重新核對更正。*
 
-### English — ESV
+### English — New American Standard Bible (NASB)
 
-> ^10^**And by that will we have been sanctified through the offering of the body of Jesus Christ once for all.**
+> ^1^For the Law, since it has [only] a shadow of the good things to come [and] not the very form of things, can never, by the same sacrifices which they offer continually year by year, make perfect those who draw near. ^2^Otherwise, would they not have ceased to be offered, because the worshipers, having once been cleansed, would no longer have had consciousness of sins? ^3^But in those [sacrifices] there is a reminder of sins year by year. ^4^For it is impossible for the blood of bulls and goats to take away sins.
 
-> ^12^**But when Christ had offered for all time a single sacrifice for sins, he sat down at the right hand of God,** ^13^waiting from that time until his enemies should be made a footstool for his feet. ^14^**For by a single offering he has perfected for all time those who are being sanctified.**
+> ^5^Therefore, when He comes into the world, He says, '\textsc{Sacrifice and offering you have not desired, but a body you have prepared for me}; ^6^\textsc{In whole burnt offerings and} [sacrifices] \textsc{For sin you have taken no pleasure}. ^7^'\textsc{Then I said, 'behold, I have come (in the scroll of the book it is written of me) to do your will, o God}.'' ^8^After saying above, '\textsc{Sacrifices and offerings and whole burnt offerings and} [sacrifices] \textsc{For sin you have not desired, nor have you taken pleasure} [in them]' (which are offered according to the Law), ^9^then He said, '\textsc{Behold, I have come to do your will}.' He takes away the first in order to establish the second. ^10^**By this will we have been sanctified through the offering of the body of Jesus Christ once for all.**
 
-> ^19^Therefore, brothers, since we have confidence to enter the holy places by the blood of Jesus, ^20^by the new and living way that he opened for us through the curtain, that is, through his flesh...
+> ^11^Every priest stands daily ministering and offering time after time the same sacrifices, which can never take away sins; ^12^**but He, having offered one sacrifice for sins for all time, \textsc{Sat down at the right hand of God},** ^13^waiting from that time onward \textsc{Until his enemies be made a footstool for his feet}. ^14^**For by one offering He has perfected for all time those who are sanctified.**
 
-> ^39^**But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls.**
+> ^15^And the Holy Spirit also testifies to us; for after saying, ^16^'\textsc{This is the covenant that I will make with them after those days, says the Lord: I will put my laws upon their heart, and on their mind I will write them},' [He then says], ^17^'\textsc{And their sins and their lawless deeds I will remember no more}.' ^18^Now where there is forgiveness of these things, there is no longer [any] offering for sin.
 
----
+> ^19^Therefore, brethren, since we have confidence to enter the holy place by the blood of Jesus, ^20^by a new and living way which He inaugurated for us through the veil, that is, His flesh, ^21^and since [we have] a great priest over the house of God, ^22^let us draw near with a sincere heart in full assurance of faith, having our hearts sprinkled [clean] from an evil conscience and our bodies washed with pure water. ^23^Let us hold fast the confession of our hope without wavering, for He who promised is faithful; ^24^and let us consider how to stimulate one another to love and good deeds, ^25^**not forsaking our own assembling together, as is the habit of some, but encouraging [one another]; and all the more as you see the day drawing near.**
+
+> ^26^**For if we go on sinning willfully after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,** ^27^but a terrifying expectation of judgment and \textsc{The fury of a fire which will consume the adversaries}. ^28^Anyone who has set aside the Law of Moses dies without mercy on [the testimony of] two or three witnesses. ^29^How much severer punishment do you think he will deserve who has trampled under foot the Son of God, and has regarded as unclean the blood of the covenant by which he was sanctified, and has insulted the Spirit of grace? ^30^For we know Him who said, '\textsc{Vengeance is mine, I will repay}.' And again, '\textsc{The Lord will judge his people}.' ^31^**It is a terrifying thing to fall into the hands of the living God.**
+
+> ^32^But remember the former days, when, after being enlightened, you endured a great conflict of sufferings, ^33^partly by being made a public spectacle through reproaches and tribulations, and partly by becoming sharers with those who were so treated. ^34^For you showed sympathy to the prisoners and accepted joyfully the seizure of your property, knowing that you have for yourselves a better possession and a lasting one. ^35^**Therefore, do not throw away your confidence, which has a great reward.** ^36^For you have need of endurance, so that when you have done the will of God, you may receive what was promised.
+
+> ^37^\textsc{For yet in a very little while, he who is coming will come, and will not delay}. ^38^**\textsc{But my righteous one shall live by faith; and if he shrinks back, my soul has no pleasure in him}.** ^39^**But we are not of those who shrink back to destruction, but of those who have faith to the preserving of the soul.**
+
+> — Hebrews 10:1-39 (NASB)
 
 ## 背景 (Context)
 
@@ -116,7 +124,7 @@ publisher: 三書精讀出版系統
 ### 本章引用的舊約經文
 
 | 來10: | 舊約來源 | 主題 | 原文脈絡 |
-|------|----------|------|----------|
+|------|------|------|------|
 | 10:5-7 | 詩篇 40:6-8 (LXX) | 「祭物和禮物是你不願意的」 | 大衛表達順服之心 |
 | 10:16 | 耶利米書 31:33 | 「律法寫在心上」 | 新約的應許 |
 | 10:17 | 耶利米書 31:34 | 「不再記念他們的罪」 | 罪的完全赦免 |
@@ -128,7 +136,7 @@ publisher: 三書精讀出版系統
 ### 舊約獻祭與基督獻祭對照
 
 | 對比項目 | 舊約獻祭 | 基督的獻祭 | 經文 |
-|----------|----------|------------|------|
+|------|------|------|------|
 | 本質 | 影兒 | 本物的真像 | 10:1 |
 | 效果 | 不能使人得以完全 | 使人永遠完全 | 10:1, 14 |
 | 祭物 | 公牛山羊的血 | 基督自己的身體 | 10:4, 10 |
@@ -141,14 +149,14 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
-| *skia* | skia | 影子 | 10:1，預表，不是本體 |
-| *ephapax* | ephapax | 一次（並永遠） | 10:10，本章核心字——與舊約「年年」（κατ᾽ ἐνιαυτόν）相對 |
-| *kathizō* | kathizō | 坐下 | 10:12，工作完成的記號 |
-| *teleioō* | teleioō | 使完全 | 10:14，不是道德上無瑕疵，是「達到目的、完成該完成的」 |
-| *parrēsia* | parrēsia | 坦然、無懼 | 10:19，自由進入至聖所的權利，不是靠功績掙來的膽量 |
-| *hekousios* | hekousios | 故意 | 10:26，蓄意、有意識地 |
-| *hypostolē* | hypostolē | 退縮 | 10:39，畏縮後退 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| *σκιά* | skia | 影子 | 10:1，預表，不是本體 |
+| *ἐφάπαξ* | ephapax | 一次（並永遠） | 10:10，本章核心字——與舊約「年年」（κατ᾽ ἐνιαυτόν）相對 |
+| *καθίζω* | kathizō | 坐下 | 10:12，工作完成的記號 |
+| *τελειόω* | teleioō | 使完全 | 10:14，不是道德上無瑕疵，是「達到目的、完成該完成的」 |
+| *παρρησία* | parrēsia | 坦然、無懼 | 10:19，自由進入至聖所的權利，不是靠功績掙來的膽量 |
+| *ἑκουσίως* | hekousiōs | 故意 | 10:26，蓄意、有意識地 |
+| *ὑποστολή* | hypostolē | 退縮 | 10:39，畏縮後退 |
 
 ### *ephapax*（一次）在10:10的位置
 
@@ -156,7 +164,7 @@ publisher: 三書精讀出版系統
 
 ### *teleioō*（使完全）在10:14的位置
 
-「他一次獻祭，便叫那得以成聖的人**永遠完全**」——這裡的「完全」不是說信徒從此不再犯罪，是說在神面前的地位已經被一次性地、徹底地確立，不需要再靠任何後續的獻祭去補足。
+「他一次獻祭，便叫那得以成聖的人**永遠完全**」——這裏的「完全」不是說信徒從此不再犯罪，是說在神面前的地位已經被一次性地、徹底地確立，不需要再靠任何後續的獻祭去補足。
 
 ### *parrēsia*（坦然）在10:19的位置
 
@@ -172,9 +180,9 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-### 1. 舊約祭物的四重不足——影兒為什麼救不了你
+### 1. 舊約祭物的四重不足——影兒為甚麼救不了你
 
 （10:1-4）律法只是「將來美事的影兒」，不是「本物的真像」；正因如此，它「總不能……叫那近前來的人得以完全」——不是因為獻祭的人不夠虔誠，是因為影兒本身，不管重複獻上多少次，都不是那個能真正除罪的實體。你今天若靠不斷「重新努力」來安撫自己對罪的不安，那正是舊約祭司的處境——天天站著，卻永遠做不完。
 
@@ -188,7 +196,7 @@ publisher: 三書精讀出版系統
 
 ### 3. 「站著」與「坐下」——工作完成的姿勢
 
-（10:11-14）舊約祭司「天天站著事奉神」——因為工作永遠沒有做完的一天；基督「獻了一次永遠的贖罪祭，就在神的右邊坐下了」。整本聖經的會幕、聖殿裡，從來沒有一張讓祭司坐下的椅子。基督坐下的那一刻，是最安靜、卻最震撼的宣告：**做完了。**
+（10:11-14）舊約祭司「天天站著事奉神」——因為工作永遠沒有做完的一天；基督「獻了一次永遠的贖罪祭，就在神的右邊坐下了」。整本聖經的會幕、聖殿裏，從來沒有一張讓祭司坐下的椅子。基督坐下的那一刻，是最安靜、卻最震撼的宣告：**做完了。**
 
 帶領提問：**你今天的禱告、你今天的服事，是「坐下」之後的感恩回應，還是「站著」的、還沒做完就先討好神的焦慮？**
 
@@ -200,15 +208,15 @@ publisher: 三書精讀出版系統
 
 ### 5. 故意犯罪——不是軟弱，是蓄意的踐踏
 
-（10:26-31）「故意」（*hekousios*）不是指一般的跌倒犯罪，是指明知真道、卻蓄意棄絕的心志——這是曠野世代的罪（民15:30-31），是對神公然的悖逆。作者用三重動作描述這罪的嚴重：踐踏神的兒子、把立約的血當作污俗之物、褻慢施恩的聖靈。「落在永生神的手裡，真是可怕的」——這句話不是嚇唬人的修辭，是對讀者處境最誠實的警告：你正站在一個十字路口。
+（10:26-31）「故意」（*hekousios*）不是指一般的跌倒犯罪，是指明知真道、卻蓄意棄絕的心志——這是曠野世代的罪（民15:30-31），是對神公然的悖逆。作者用三重動作描述這罪的嚴重：踐踏神的兒子、把立約的血當作污俗之物、褻慢施恩的聖靈。「落在永生神的手裏，真是可怕的」——這句話不是嚇唬人的修辭，是對讀者處境最誠實的警告：你正站在一個十字路口。
 
 帶領提問：**你有沒有見過身邊有人，從「軟弱跌倒」慢慢走成「蓄意棄絕」？那條界線，是怎麼一步步跨過去的？**
 
 ### 6. 因信得生，不退縮——哈巴谷書的迴響
 
-（10:32-39）作者先叫讀者「追念往日」——那時他們忍受苦難，還「甘心忍受」家業被搶。然後引用哈巴谷書2:4：「義人必因信得生；他若退後，我心裡就不喜歡他。」兩種人：退後沉淪的，有信心保全靈魂的。作者確信讀者是後者——不是因為他們表現得好，是因為信心的本質就是「不退縮」。
+（10:32-39）作者先叫讀者「追念往日」——那時他們忍受苦難，還「甘心忍受」家業被搶。然後引用哈巴谷書2:4：「義人必因信得生；他若退後，我心裏就不喜歡他。」兩種人：退後沉淪的，有信心保全靈魂的。作者確信讀者是後者——不是因為他們表現得好，是因為信心的本質就是「不退縮」。
 
-帶領提問：**「追念往日」——你信主以來，有沒有一段曾經憑信心忍受、如今卻漸漸淡忘的日子？回想那段日子，對你今天有什麼提醒？**
+帶領提問：**「追念往日」——你信主以來，有沒有一段曾經憑信心忍受、如今卻漸漸淡忘的日子？回想那段日子，對你今天有甚麼提醒？**
 
 ---
 
@@ -234,7 +242,7 @@ publisher: 三書精讀出版系統
 
 **約翰·歐文 (John Owen, 1616-1683)**:
 
-> 「『坐在神的右邊』——這一個動作說明了一切。舊約祭司永遠在工作，因為罪永遠沒有完全除去。基督坐下，因為祂的工作完成了。再沒有什麼可以加添的了。」
+> 「『坐在神的右邊』——這一個動作說明了一切。舊約祭司永遠在工作，因為罪永遠沒有完全除去。基督坐下，因為祂的工作完成了。再沒有甚麼可以加添的了。」
 > — *An Exposition of the Epistle to the Hebrews*
 
 ### 當代釋經
@@ -248,6 +256,54 @@ publisher: 三書精讀出版系統
 
 > 「『不可停止聚會』在今天仍然適用。基督徒需要群體。孤獨的基督徒容易成為被獵捕的對象。教會聚會不是選項，而是必需。」
 > — *The Epistle to the Hebrews* (NICNT)
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 40:6-8——10:5-7 直接引用的詩
+
+作者在 10:5 把這首詩放在基督口中：「所以基督到世上來的時候，就說……」——**這是舊約裏,聖子對聖父說話的一段。**
+
+> ^6^祭物和禮物你不喜悅，你已經開通我的耳朵。燔祭和贖罪祭非你所要。
+> ^7^那時我說：「**看哪，我來了，我的事在經卷上已經記載了。**
+> ^8^我的神啊，**我樂意照你的旨意行**，你的律法在我心裏。」
+
+> ^6^Sacrifice and meal offering You have not desired; My ears You have opened; Burnt offering and sin offering You have not required.
+> ^7^**Then I said, 'Behold, I come; In the scroll of the book it is written of me.**
+> ^8^**I delight to do Your will, O my God; Your Law is within my heart.'**
+
+**領受**：第 6 節說「你已經開通我的耳朵」——希伯來原文是「你為我挖通了耳朵」，很可能指出埃及記 21:6 那個甘願終身留下的僕人：主人用錐子把他的耳朵貼門柱穿透。
+
+\textcolor{ScriptureGold}{\textbf{一個本可以自由離去的僕人，選擇留下，並且在耳朵上留下永久的記號。詩篇 40 把這幅畫面放進基督口中；希伯來書 10:9 給出結論：「他是除去在先的，為要立定在後的。」}}
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### It Is Well with My Soul
+
+Horatio Spafford 1873 年寫成。他的四個女兒在橫渡大西洋時因船難全部罹難，妻子獨自生還，發回一封電報：「Saved alone.」Spafford 搭船前往會合，船長告訴他這裏就是失事的海域——他在那片水面上寫下這首詩。
+
+> When peace like a river attendeth my way,
+> When sorrows like sea billows roll;
+> Whatever my lot, Thou hast taught me to say,
+> **It is well, it is well with my soul.**
+>
+> 有時享平安，如江河平又穩，
+> 有時憂傷來似浪滾；
+> 不論何環境，我已蒙主引領，
+> **我心靈得安寧，得安寧。**
+
+**歌詞與經文對照**：
+
+| 歌詞 | 希伯來書 10 章 |
+|------|------|
+| My sin, not in part but the whole | 「一次獻上……便叫那得以成聖的人永遠完全」（10:14） |
+| Is nailed to the cross, and I bear it no more | 「不再有贖罪的祭了」（10:18） |
+| It is well with my soul | 「就當存著誠心和充足的信心來到神面前」（10:22） |
+
+**默想**：Spafford 寫的不是「一切都好」——他的女兒沒有回來。\textcolor{ScriptureGold}{\textbf{他寫的是「我的靈魂安好」。10:22 那句「良心的虧欠已經灑去」，是他能在那片海面上寫字的唯一理由。}}
 
 ---
 
@@ -271,13 +327,13 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *God's Last Word to Man: Studies in Hebrews* (1936)，第十講"The Son – The Better Covenant"、第十一講"The Son – The Better Worship"——書名、出版年份與十六講標題已於 biblenotes.online 收錄之全書目錄核實；逐字講稿內容本次未能於公開數位典藏中完整定位，故以上為根據章節編排與標題的主旨轉述，而非逐字引句。
 
-### 黃長老查經
+### 老弟兄查經
 
-**精義一句話**：麥克阿瑟看見的是「已經做完的工作」——一次獻祭、坐下、不再有懸而未決的焦慮；摩根看見的是「重新打開的敬拜」——約成就了，敬拜才真正開始。黃長老常提醒：這兩者是同一個真理的兩面——你若真明白基督已經「坐下」，你今天的敬拜就不會再是「討好」，而會是「回應」。
+**精義一句話**：麥克阿瑟看見的是「已經做完的工作」——一次獻祭、坐下、不再有懸而未決的焦慮；摩根看見的是「重新打開的敬拜」——約成就了，敬拜才真正開始。老弟兄常提醒：這兩者是同一個真理的兩面——你若真明白基督已經「坐下」，你今天的敬拜就不會再是「討好」，而會是「回應」。
 
 帶領提問：
-- 你今天來到神面前敬拜，心裡的姿勢比較像「還在努力證明自己」，還是「已經被接納、單單來回應」？
-- 如果第四警告（10:26-31）讓你心裡發顫，那顫抖是把你推向「更努力表現」，還是推向「更緊緊抓住基督已經做完的工作」？哪一種反應才是希伯來書真正要的？
+- 你今天來到神面前敬拜，心裏的姿勢比較像「還在努力證明自己」，還是「已經被接納、單單來回應」？
+- 如果第四警告（10:26-31）讓你心裏發顫，那顫抖是把你推向「更努力表現」，還是推向「更緊緊抓住基督已經做完的工作」？哪一種反應才是希伯來書真正要的？
 
 ---
 
@@ -319,7 +375,7 @@ publisher: 三書精讀出版系統
 ### 建議配詩一覽
 
 | 詩歌 | 作者/年份 | 與本章關聯 |
-|------|-----------|------------|
+|------|------|------|
 | It Is Well with My Soul | Horatio Spafford, 1873 | 罪不再擔當 (10:17) |
 | Rock of Ages | Augustus Toplady, 1776 | 藏身於基督的獻祭 |
 | Before the Throne of God Above | Charitie Bancroft, 1863 | 坦然進入至聖所 (10:19) |
@@ -332,7 +388,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -342,25 +398,83 @@ publisher: 三書精讀出版系統
 
 - **哈巴谷書2:4 ↔ 希伯來書10:38**：哈巴谷在猶大將亡、巴比倫將至的絕望處境中，聽見神說「義人必因信得生」；希伯來書把這句話用在同樣面對逼迫、幾乎要放棄信仰的讀者身上。保羅在羅馬書1:17、加拉太書3:11也引用同一句經文，卻各自照亮不同的一面——羅馬書講「因信稱義」的起初，希伯來書講「因信持守」的堅忍。同一句經文，回答了信仰的兩端。
 
-- **使徒行傳2:42-47、5:1-11 ↔ 希伯來書10:24-31**：初代教會「恆心遵守使徒的教導、彼此相交、擘餅、祈禱」（徒2:42），正是來10:24-25「彼此相顧，不可停止聚會」活生生的實踐；而亞拿尼亞和撒非喇「欺哄聖靈」、當場仆倒斷氣（徒5:1-11），則是來10:26-31「故意犯罪」、「落在永生神的手裡真是可怕」最鮮明的歷史例證——這警告不是修辭，初代教會真實經歷過。
+- **使徒行傳2:42-47、5:1-11 ↔ 希伯來書10:24-31**：初代教會「恆心遵守使徒的教導、彼此相交、擘餅、祈禱」（徒2:42），正是來10:24-25「彼此相顧，不可停止聚會」活生生的實踐；而亞拿尼亞和撒非喇「欺哄聖靈」、當場仆倒斷氣（徒5:1-11），則是來10:26-31「故意犯罪」、「落在永生神的手裏真是可怕」最鮮明的歷史例證——這警告不是修辭，初代教會真實經歷過。
 
 ### 提問式對話 (Let the Reader Speak)
 
-- 舊約祭司「天天站著」，基督「一次坐下」——你今天的信仰生活裡，有沒有哪一件事，你其實心裡知道已經「做完了」（罪已赦免、關係已修復），卻還在用某種方式「天天站著」重新處理？
+- 舊約祭司「天天站著」，基督「一次坐下」——你今天的信仰生活裏，有沒有哪一件事，你其實心裏知道已經「做完了」（罪已赦免、關係已修復），卻還在用某種方式「天天站著」重新處理？
 
 - 「不可停止聚會，好像那些停止慣了的人」（10:25）——「停止慣了」這四個字很扎心：這不是說一次沒去聚會，是說已經養成了不去的習慣。你現在的聚會節奏，是在往哪個方向養成習慣？
 
-- 「你們要追念往日蒙了光照以後，所忍受……的各樣苦難」（10:32）——你信主以來，有沒有一段憑信心撐過的日子，如今卻已經淡忘？如果今天要你重新追念那段日子，你會想起什麼？
+- 「你們要追念往日蒙了光照以後，所忍受……的各樣苦難」（10:32）——你信主以來，有沒有一段憑信心撐過的日子，如今卻已經淡忘？如果今天要你重新追念那段日子，你會想起甚麼？
 
-### 活在今天 (Living It Today)
+### 活在今天 · AI時代 (Living It Today)
 
-我們活在一個「持續優化」成為信仰的時代——健身要追蹤數據、工作要持續復盤、連靈修都被切成每日打卡的習慣清單。這個時代最容易把10:11那位「天天站著、屢次獻上」的祭司當作值得效法的榜樣：勤奮、持續、永不停歇。但希伯來書10:12-14要打斷這個直覺——基督「坐下」，不是懶惰，是工作真的做完了。你今天若在信仰生活裡感到一種說不出的疲憊，那疲憊很可能不是因為你不夠努力，而是因為你把一件「已經一次完成」的事，活成了一件「需要天天重做」的事。下一次你發現自己又在為了「配得神的愛」而拼命表現時，停下來，回到10:14：「他一次獻祭，便叫那得以成聖的人永遠完全」——不是「正在完全」，是「已經完全」。今天，你可以選擇「坐下」。
+我們活在一個「持續優化」成為信仰的時代——健身要追蹤數據、工作要持續復盤、連靈修都被切成每日打卡的習慣清單。這個時代最容易把10:11那位「天天站著、屢次獻上」的祭司當作值得效法的榜樣：勤奮、持續、永不停歇。但希伯來書10:12-14要打斷這個直覺——基督「坐下」，不是懶惰，是工作真的做完了。你今天若在信仰生活裏感到一種說不出的疲憊，那疲憊很可能不是因為你不夠努力，而是因為你把一件「已經一次完成」的事，活成了一件「需要天天重做」的事。下一次你發現自己又在為了「配得神的愛」而拼命表現時，停下來，回到10:14：「他一次獻祭，便叫那得以成聖的人永遠完全」——不是「正在完全」，是「已經完全」。今天，你可以選擇「坐下」。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+### 今天的祭壇 (Today's Altar)
 
-希伯來書用九章半的篇幅（4:14-10:18）才走到這裡，只為了說一句話：**工作做完了。** 舊約的祭司天天站著，因為罪從未真正被除去；基督只獻一次，就坐在神的右邊——這一坐，是整本聖經裡最安靜卻最震撼的動作。你若還在用「更努力」去換取神的接納，10:10-14在提醒你：你要的那個接納，早已經是事實，不是你正在爭取的目標。而10:19-39緊接著問：既然如此，你要怎麼活？答案不是縮回舊約的安全感，是坦然進入、彼此相顧、憑信忍耐到底——因為義人必因信得生。
+- **早晨**：讀 10:14——「一次獻上，便叫那得以成聖的人永遠完全」。今天你不是要去掙一個地位，你是從那個地位出發。
+- **晚上**：省察——今天我有沒有一刻不敢來到神面前？10:19 說「坦然進入至聖所」，那份不敢是從哪裏來的？
+- **一個行動**：照 10:24-25 做一件事——今天「相顧」一個人，具體地激發他的愛心。一通電話，不是一個表情符號。
+
+---
+
+## 鑰詞深讀：坐下 (Key Word — ἐκάθισεν)
+
+### 一、一個動作，勝過一整章的論證
+
+> ^11^凡祭司天天**站著**事奉神，屢次獻上一樣的祭物，這祭物永不能除罪。
+> ^12^但基督獻了一次永遠的贖罪祭，就在神的右邊**坐下**了。
+
+11 節與 12 節之間，全部的分別在兩個姿勢：**站著**（ἕστηκεν）與**坐下**（ἐκάθισεν）。
+
+### 二、會幕裏為甚麼沒有椅子
+
+出埃及記 25-27 章詳列會幕的傢俱：約櫃、桌子、燈臺、壇、洗濯盆、幔子、柱子、插銷。
+
+**沒有椅子。**
+
+\textcolor{ScriptureGold}{\textbf{祭司不能坐，因為工作永遠沒有完。血一年一年地流，罪一年一年地被「想起」（10:3），沒有一次是了結。}}
+
+### 三、「坐下」在希伯來書出現四次，一次比一次重
+
+| 經文 | 說了甚麼 |
+|------|------|
+| 1:3 | 「洗淨了人的罪，就坐在高天至大者的右邊」 |
+| 8:1 | 「已經坐在天上至大者寶座的右邊」 |
+| **10:12** | **「獻了一次永遠的贖罪祭，就……坐下了」** |
+| 12:2 | 「便輕看羞辱，忍受了十字架的苦難，便坐在神寶座的右邊」 |
+
+**四次「坐下」，把全書從第一章串到第十二章。**這是作者最安靜、也最有力的論證方式：他不辯論，他只描述一個姿勢。
+
+### 四、「坐下」對你意味著甚麼
+
+10:14 立刻給出結論：
+
+> ^14^因為他一次獻祭，便叫那得以成聖的人**永遠完全**。
+
+τετελείωκεν——完成式：**已經完成，並且效力持續到現在。**
+
+| 若祂還站著 | 因為祂坐下了 |
+|------|------|
+| 我的罪還在等候處理 | 「不再有贖罪的祭了」（10:18） |
+| 我來到神面前要先確認自己夠好 | 「坦然進入至聖所」（10:19） |
+| 我的良心永遠有一筆懸帳 | 「良心的虧欠已經灑去」（10:22） |
+
+### 五、逼近核心的一問
+
+> 你禱告的時候，心裏那位大祭司是坐著的，還是站著的？
+
+如果祂在你心裏還站著——\textcolor{ScriptureGold}{\textbf{那你每一次來，都得先為自己補上一點甚麼。而那正是 10 章要拆掉的東西。}}
+
+---
+
+## 老弟兄精義 (The Distilled Key)
+
+希伯來書用九章半的篇幅（4:14-10:18）才走到這裏，只為了說一句話：**工作做完了。** 舊約的祭司天天站著，因為罪從未真正被除去；基督只獻一次，就坐在神的右邊——這一坐，是整本聖經裏最安靜卻最震撼的動作。你若還在用「更努力」去換取神的接納，10:10-14在提醒你：你要的那個接納，早已經是事實，不是你正在爭取的目標。而10:19-39緊接著問：既然如此，你要怎麼活？答案不是縮回舊約的安全感，是坦然進入、彼此相顧、憑信忍耐到底——因為義人必因信得生。
 
 ---
 
@@ -368,7 +482,7 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **完成的工作**：基督「坐下」代表工作完成——我是否仍試圖靠自己的努力來「加添」什麼到救恩中？
+1. **完成的工作**：基督「坐下」代表工作完成——我是否仍試圖靠自己的努力來「加添」甚麼到救恩中？
 
 2. **坦然進入**：我是否「坦然」來到神面前？還是仍然畏懼、遲疑？
 
@@ -396,18 +510,18 @@ publisher: 三書精讀出版系統
 
 ## 反思問題 (Reflection Questions)
 
-1. 舊約祭物為什麼「斷不能除罪」（10:4）？它們的功用是什麼？
+1. 舊約祭物為甚麼「斷不能除罪」（10:4）？它們的功用是甚麼？
 
-2. 詩篇40:6-8如何應用於基督？「你曾為我預備了身體」是什麼意思？
+2. 詩篇40:6-8如何應用於基督？「你曾為我預備了身體」是甚麼意思？
 
-3. 祭司「站著」與基督「坐下」的對比有什麼深意？
+3. 祭司「站著」與基督「坐下」的對比有甚麼深意？
 
-4. 「故意犯罪」(10:26) 是指什麼？這與信徒一般的犯罪有什麼不同？
+4. 「故意犯罪」(10:26) 是指甚麼？這與信徒一般的犯罪有甚麼不同？
 
-5. 「不可停止聚會」在今天的處境中有什麼意義？為什麼群體對信仰如此重要？
+5. 「不可停止聚會」在今天的處境中有甚麼意義？為甚麼群體對信仰如此重要？
 
 ---
 
-*本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章整合：老弟兄查經、John MacArthur (gty.org)、G. Campbell Morgan*
 
 *三書精讀項目 · 希伯來書：更美的祭 · 10-一次獻上永遠的祭*

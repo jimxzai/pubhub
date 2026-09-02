@@ -28,7 +28,7 @@ publisher: 三書精讀出版系統
 
 > **彼後 3:18b**　願榮耀歸給他，**從今直到永遠**！阿們。
 >
-> To him be the glory both now and **to the day of eternity**. Amen.
+> To Him be the glory, both now and **to the day of eternity**. Amen.
 
 原文是 **εἰς ἡμέραν αἰῶνος**（eis hēmeran aiōnos）——直譯「到永恆的那一日」。「日子」（ἡμέρα）與「永恆」（αἰών）兩個字都是單數：不是模糊的「永永遠遠」，是**一個日子**，只是這一個日子沒有盡頭。多本原文工具書指出，這個確切措詞在新約全書再無他處——彼得自己在前一封信用的是慣用語，這一次卻不是。
 
@@ -80,15 +80,21 @@ publisher: 三書精讀出版系統
 
 彼得後書沒有留下像羅馬書13章之於奧古斯丁那樣著名的歸信軼事，但3:18這句遺言本身，兩千年來一直是講台上、書桌前反覆被引用的一句話。
 
-十九世紀倫敦的講員司布真（Charles H. Spurgeon, 1834-1892），曾以〈在恩典中長進〉（*Growth in Grace*）為題，專講2彼得3:18這一節。他在講章裏這樣說：
+十九世紀倫敦的講員司布真（Charles H. Spurgeon, 1834-1892），曾以〈在恩典中長進〉（*Growth in Grace*）為題，專講彼得後書3:18這一節。他在講章裏把這節經文的邏輯壓成一句話：
 
-> "The way to stand, then, is to go forward; the way to be steadfast is to progress; the way to be alive, according to the apostle, is to 'grow in grace, and in the knowledge of our Lord and Saviour Jesus Christ.'"
+> "The way to stand is to grow; the way to be steadfast is to go forward."
 >
-> 「所以，站立得穩的方法，就是往前走；持守堅定的方法，就是不斷前進；照著使徒的話，活著的方法，就是『在我們主救主耶穌基督的恩典和知識上有長進』。」
+> 「站立得穩的方法，就是長大；持守堅定的方法，就是往前走。」
 
-司布真抓住的，正是這節經文文法上最不起眼、卻最要緊的一個細節：「有長進」不是一次性的成就，是一個持續的動作。**歷代講這節經文的人，幾乎都繞不開這一個發現——彼得留給教會的最後一道命令，不是一個目的地，是一個方向。**
+同一篇講章裏，他還用了一個家常的比喻把同一個道理說了一次：
 
-> 出處：C. H. Spurgeon, "Growth in Grace"，*Metropolitan Tabernacle Pulpit* 第46卷，The Spurgeon Library (spurgeon.org)，經spurgeon.org核實其講章原文後直引（該講章確切講日期已不可考，spurgeon.org 站方註明現行日期為後人推估）。
+> "There is no standing except by progression. If you see even such a simple thing as a child's toy rolling along your floor at home, you will observe that it will always stand upright as long as it keeps on rolling; but when it stops, down it goes. So is it with the Christian; as long as he is in motion, so long he stands; but if it were possible for the motion to cease, then the Christian would fall from his stedfastness."
+>
+> 「除了往前走，沒有別的站立之法。你在家裏看見一件簡單如孩童陀螺的玩具在地板上滾動，就會發現：只要它一直轉，它就一直立著；一停下來，就倒了。基督徒也是這樣——只要還在動，他就站得住；動一停下來，他就要從自己堅固的地步上墜落。」
+
+司布真抓住的，正是這節經文文法上最不起眼、卻最要緊的一個細節：「有長進」不是一次性的成就，是一個持續的動作。而他把這個發現接到了3:17「從自己堅固的地步上墜落」——**站立與長進不是兩件事：彼得留給教會的最後一道命令，不是一個目的地，是一個方向。**
+
+> 出處：C. H. Spurgeon, "Growth in Grace"（彼後3:18），*Metropolitan Tabernacle Pulpit* 第46卷，The Spurgeon Library (spurgeon.org) 註明講於1858年10月17日（該講章為身後編入第46卷出版，講道日期依 spurgeon.org 現行著錄）。以上兩段英文均經 spurgeon.org 講章全文逐字核對後直引，中文為編者對照翻譯。
 
 ---
 
@@ -128,7 +134,7 @@ publisher: 三書精讀出版系統
 
 ## 你看見耶穌了嗎？
 
-彼得後書開卷第一句，稱耶穌是「我們的神和救主耶穌基督」（1:1）；全書最後一句，把榮耀直接歸給祂：「願榮耀歸給他，從今直到永遠」（3:18b）。中間夾著三章——講知識的根基、講假教師的醜態、講宇宙終將被烈火熔化——彼得沒有停在任何一件事上作結，他停在敬拜上。
+彼得後書開卷第一句，稱耶穌是「我們的神和救主耶穌基督」（1:1）；全書最後一句，把榮耀直接歸給祂：「願榮耀歸給他，從今直到永遠」（3:18b）。中間夾著三章——講知識的根基、講假教師的醜態、講宇宙終將被烈火鎔化——彼得沒有停在任何一件事上作結，他停在敬拜上。
 
 **這句頌榮，正是新約基督論最安靜、卻最沉重的一個證據。**舊約裏，「稱頌直到永永遠遠」「尊大、能力、榮耀……都是你的」這樣的話語，是專屬耶和華一位真神的頌讚（如代上29:10-11）；彼得把這句話，毫不猶豫地歸給耶穌基督——而且是在他知道自己快要殉道、用生命最後力氣寫下的一句話裏歸給祂。一個人臨終前不會浪費字句去講不確定的事；彼得臨終前選擇的，是把永恆的榮耀，歸給那位他曾在山上親眼見過威榮、曾在提比哩亞海邊三次被問「你愛我嗎」的主。
 

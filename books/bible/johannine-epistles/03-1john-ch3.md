@@ -86,7 +86,7 @@
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 神兒女的特權與盼望
 

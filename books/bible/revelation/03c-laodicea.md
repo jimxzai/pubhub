@@ -46,7 +46,7 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^14^'To the angel of the church in Laodicea write: The Amen, the faithful and true Witness, the Beginning of the creation of God, says this: \jesus{ ^15^'I know your deeds, that you are neither cold nor hot; I wish that you were cold or hot. ^16^'So because you are lukewarm, and neither hot nor cold, I will spit you out of My mouth. ^17^'Because you say, 'I am rich, and have become wealthy, and have need of nothing,' and you do not know that you are wretched and miserable and poor and blind and naked, ^18^I advise you to buy from Me gold refined by fire so that you may become rich, and white garments so that you may clothe yourself, and *that* the shame of your nakedness will not be revealed; and eye salve to anoint your eyes so that you may see.}
+> ^14^'To the angel of the church in Laodicea write: The Amen, the faithful and true Witness, the Beginning of the creation of God, says this: \jesus{ ^15^'I know your deeds, that you are neither cold nor hot; I wish that you were cold or hot. ^16^'So because you are lukewarm, and neither hot nor cold, I will spit you out of My mouth. ^17^'Because you say, 'I am rich, and have become wealthy, and have need of nothing,' and you do not know that you are wretched and miserable and poor and blind and naked, ^18^I advise you to buy from Me gold refined by fire so that you may become rich, and white garments so that you may clothe yourself, and \textit{that} the shame of your nakedness will not be revealed; and eye salve to anoint your eyes so that you may see.}
 
 > \jesus{ ^19^'Those whom I love, I reprove and discipline; therefore be zealous and repent. ^20^'Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me. ^21^'He who overcomes, I will grant to him to sit down with Me on My throne, as I also overcame and sat down with My Father on His throne.} ^22^'He who has an ear, let him hear what the Spirit says to the churches.''
 
@@ -81,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 自我感覺與真實光景的落差 (Self-Perception vs. Reality)
 

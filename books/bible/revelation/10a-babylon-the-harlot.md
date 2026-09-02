@@ -85,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 邪惡的聯盟沒有真正的忠誠 (Alliances of Evil Have No True Loyalty)
 

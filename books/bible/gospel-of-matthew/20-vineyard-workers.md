@@ -34,7 +34,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 恩典的平等 (Equality of Grace)
 
@@ -97,7 +97,7 @@ publisher: 三書精讀出版系統
 - **作...贖價** (*anti*) ——「代替」，substitutionary
 - **多人** (*pollon*) ——指所有相信的人
 
-這是馬太福音中最清楚的贖罪神學宣告。
+這是馬太福音中最清楚的贖罪宣告。
 
 ### 7. 瞎子與門徒的對比
 

@@ -108,7 +108,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 蒙召先於受造——僕人的呼召何等古老
 

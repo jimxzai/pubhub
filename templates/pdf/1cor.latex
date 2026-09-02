@@ -537,7 +537,12 @@
   linkcolor=ChapterPurple,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={哥林多前書逐章研讀 · 1 Corinthians Deep Study},
+  pdfkeywords={哥林多前書, 1 Corinthians, 聖經研讀, Bible Study},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -585,7 +590,13 @@
 %% ============================================
 %% SECTION STYLING
 %% ============================================
+% Number chapters only: no 8.1-style section numbers in the body or running heads
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
 \makeatletter
+% Running head carries the title only: this volume's chapter titles already
+% begin with 第N章, so prefixing the counter would print it twice.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 \def\@makechapterhead#1{%
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
@@ -784,7 +795,7 @@ $endif$
 
 \vspace{0.24cm}
 {\fontsize{15}{18}\selectfont\itshape\color{ChapterPurple} ἀνάστασις}\quad
-{\footnotesize\scshape\color{TextGray} ``Resurrection''}\quad
+{\footnotesize\scshape\color{TextGray} “Resurrection”}\quad
 {\footnotesize\bfseries\color{JesusRed} 復活}
 
 \vfill
@@ -795,7 +806,7 @@ $endif$
 {\footnotesize\color{JesusRed}
 「感謝神，使我們藉着我們的主耶穌基督得勝！」}\\[0.10em]
 {\scriptsize\itshape\color{TextGray}
-``But thanks be to God, who gives us the victory through our Lord Jesus Christ.''}\\[0.10em]
+“But thanks be to God, who gives us the victory through our Lord Jesus Christ.”}\\[0.10em]
 {\scriptsize\color{ChapterPurple} 哥林多前書 15:57 \textperiodcentered\ 1 Corinthians 15:57}
 \vspace{0.15cm}
 \end{minipage}}
@@ -830,8 +841,8 @@ $endif$
 \textbf{\color{JesusRed}基督若沒有復活}，你們的信便是徒然，你們仍在罪裏……\\
 但基督已經從死人中復活，成為睡了之人\textbf{\color{JesusRed}初熟的果子}。\\[0.5em]
 \footnotesize\itshape
-And if Christ has not been raised, your faith is futile and you are still in your sins...\\
-But in fact Christ has been raised from the dead, the \textbf{\color{JesusRed}firstfruits} of those who have fallen asleep.\\[0.4em]
+And if Christ has not been raised, your faith is worthless; you are still in your sins\ldots\\
+But now Christ has been raised from the dead, the \textbf{\color{JesusRed}first fruits} of those who are asleep.\\[0.4em]
 \small\color{ChapterPurple} 哥林多前書 15:17, 20 \textperiodcentered\ 1 Corinthians 15:17, 20
 \vspace{0.2cm}
 \end{minipage}}
@@ -920,7 +931,7 @@ ask whether the root is a forgotten hope of resurrection.}
 \vspace{0.3cm}
 \small\itshape\color{ChapterPurple}
 愛是永不止息。\\[0.15em]
-\footnotesize Love never ends. — 1 Corinthians 13:8
+\footnotesize Love never fails. — 1 Corinthians 13:8 (NASB)
 \vspace{0.3cm}
 \end{minipage}
 }
@@ -940,8 +951,8 @@ ask whether the root is a forgotten hope of resurrection.}
   % Five aspects arranged in a circle
   \foreach \angle/\txt/\ch/\ref in {
     90/Wisdom/智慧/Ch 1-4,
-    162/Holiness/聖潔/Ch 5-6,
-    234/Freedom/自由/Ch 7-10,
+    162/Holiness/聖潔/Ch 5-7,
+    234/Freedom/自由/Ch 8-10,
     306/Gifts/恩賜/Ch 11-14,
     18/Hope/盼望/Ch 15-16
   } {
@@ -1020,13 +1031,13 @@ $endif$
   \node[font=\scriptsize\bfseries,color=ChapterPurple] at (1,4.1) {Wisdom};
   \node[font=\tiny,color=TextGray] at (1,3.6) {1-4};
 
-  % Holiness (Ch 5-6)
+  % Holiness (Ch 5-7)
   \fill[SpiritBlue!20] (2.2,0) rectangle (3.8,4);
   \draw[SpiritBlue,line width=1.5pt] (2.2,0) rectangle (3.8,4);
   \node[font=\scriptsize\bfseries,color=SpiritBlue] at (3,3.6) {Holiness};
   \node[font=\tiny,color=TextGray] at (3,3.1) {5-6};
 
-  % Freedom (Ch 7-10)
+  % Freedom (Ch 8-10)
   \fill[ChapterPurple!20] (4.2,0) rectangle (5.8,4.5);
   \draw[ChapterPurple,line width=1.5pt] (4.2,0) rectangle (5.8,4.5);
   \node[font=\scriptsize\bfseries,color=ChapterPurple] at (5,4.1) {Freedom};
@@ -1401,8 +1412,8 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+中文：和合本 (CUV, 1919)\\
+English: New American Standard Bible (NASB 1995)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ John MacArthur - Grace To You (gty.org)\\
@@ -1521,22 +1532,22 @@ $body$
 
 \begin{small}
 \noindent\textbf{中文}\\
-\textbullet\ 和合本修訂版 (RCUV) — 主要版本\\
+\textbullet\ 和合本 (CUV, 1919) — 主要版本\\
 \textbullet\ 新譯本 (CNV)\\
 \textbullet\ 呂振中譯本
 
 \vspace{0.3cm}
 
 \noindent\textbf{English}\\
-\textbullet\ English Standard Version (ESV) — Primary\\
-\textbullet\ New American Standard Bible (NASB)\\
+\textbullet\ New American Standard Bible (NASB 1995) — Primary\\
+\textbullet\ English Standard Version (ESV)\\
 \textbullet\ New International Version (NIV)
 \end{small}
 
 \section*{解經資源 Commentary Resources}
 
 \begin{small}
-\textbullet\ \textbf{黃長老讀經分享} — Elder Wong's Bible Class\\
+\textbullet\ \textbf{CCIC 週四查經班讀經分享} — Thursday Bible Class\\
 \textbullet\ \textbf{John MacArthur} — \textit{1 Corinthians: MacArthur NT Commentary}\\
 \textbullet\ \textbf{G. Campbell Morgan} — \textit{The Corinthian Letters of Paul}\\
 \textbullet\ \textbf{Gordon D. Fee} — \textit{The First Epistle to the Corinthians} (NICNT)\\
@@ -1565,7 +1576,7 @@ $body$
 \textit{Key Greek terms occurring across all sixteen chapters, grouped thematically; repeated headwords are merged into a single entry with all their verse references combined.}
 \end{small}
 
-\section*{智慧與屬靈 Wisdom \& Spirituality (1--4章)}
+\section*{智慧與屬靈 Wisdom \& Spirituality (1–4章)}
 
 \begin{small}
 \begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
@@ -1589,7 +1600,7 @@ $body$
 \end{tabular}
 \end{small}
 
-\section*{身體與聖潔 Body \& Holiness (3, 5--7章)}
+\section*{身體與聖潔 Body \& Holiness (3, 5–7章)}
 
 \begin{small}
 \begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
@@ -1618,7 +1629,7 @@ $body$
 
 \pagebreak
 
-\section*{自由與良心 Freedom \& Conscience (8--10章)}
+\section*{自由與良心 Freedom \& Conscience (8–10章)}
 
 \begin{small}
 \begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
@@ -1645,7 +1656,7 @@ $body$
 \end{tabular}
 \end{small}
 
-\section*{恩賜與身體 Gifts \& the Body (11--14章)}
+\section*{恩賜與身體 Gifts \& the Body (11–14章)}
 
 \begin{small}
 \begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
@@ -1694,7 +1705,7 @@ $body$
 \end{tabular}
 \end{small}
 
-\section*{其他 Other (3--4, 16章)}
+\section*{其他 Other (3–4, 16章)}
 
 \begin{small}
 \begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
@@ -1781,12 +1792,12 @@ $body$
 %% ============================================
 %% APPENDIX F: THE TEN "DO YOU NOT KNOW" QUESTIONS
 %% ============================================
-\chapter*{Appendix F: ``Do You Not Know?'' --- 1 Corinthians' Signature Rhetorical Question 「你們豈不知道」——哥林多前書的詰問風格}
-\addcontentsline{toc}{chapter}{Appendix F: ``Do You Not Know?'' --- 1 Corinthians' Signature Rhetorical Question 「你們豈不知道」——哥林多前書的詰問風格}
+\chapter*{Appendix F: “Do You Not Know?” --- 1 Corinthians' Signature Rhetorical Question 「你們豈不知道」——哥林多前書的詰問風格}
+\addcontentsline{toc}{chapter}{Appendix F: “Do You Not Know?” --- 1 Corinthians' Signature Rhetorical Question 「你們豈不知道」——哥林多前書的詰問風格}
 
 \begin{small}
 哥林多前書在保羅書信中，以反覆使用「你們豈不知道」（οὐκ οἴδατε, ouk oidate）這句詰問著稱——全卷共出現十次，比新約任何一卷書都多。這不是修辭上的巧合，而是一種一貫的教導策略：保羅不是在傳遞哥林多人所不知道的新知識，而是提醒他們早已領受、卻在生活中忘記了的身分與事實。
-\textit{First Corinthians is distinctive among Paul's letters for its repeated use of the rhetorical question ``Do you not know'' (οὐκ οἴδατε, ouk oidate) --- occurring ten times, more than any other New Testament book. This is not rhetorical coincidence but a consistent teaching strategy: Paul is not delivering new information the Corinthians lack, but reminding them of an identity and a set of facts they had already received, yet had forgotten to live out of.}
+\textit{First Corinthians is distinctive among Paul's letters for its repeated use of the rhetorical question “Do you not know” (οὐκ οἴδατε, ouk oidate) --- occurring ten times, more than any other New Testament book. This is not rhetorical coincidence but a consistent teaching strategy: Paul is not delivering new information the Corinthians lack, but reminding them of an identity and a set of facts they had already received, yet had forgotten to live out of.}
 \end{small}
 
 \vspace{0.3cm}
@@ -1797,16 +1808,16 @@ $body$
 \toprule
 \textbf{經文} & \textbf{中文} & \textbf{English} \\
 \midrule
-3:16 & 豈不知你們是神的殿，神的靈住在你們裏頭嗎？ & Do you not know that you are God's temple and that God's Spirit dwells in you? \\
-5:6 & 豈不知一點麵酵能使全團發起來嗎？ & Do you not know that a little leaven leavens the whole lump? \\
-6:2 & 豈不知聖徒要審判世界嗎？ & Do you not know that the saints will judge the world? \\
-6:3 & 豈不知我們要審判天使嗎？ & Do you not know that we are to judge angels? \\
-6:9 & 你們豈不知不義的人不能承受神的國嗎？ & Do you not know that the unrighteous will not inherit the kingdom of God? \\
+3:16 & 豈不知你們是神的殿，神的靈住在你們裏頭嗎？ & Do you not know that you are a temple of God and \textit{that} the Spirit of God dwells in you? \\
+5:6 & 豈不知一點麵酵能使全團發起來嗎？ & Do you not know that a little leaven leavens the whole lump \textit{of dough?} \\
+6:2 & 豈不知聖徒要審判世界嗎？ & Or do you not know that the saints will judge the world? \\
+6:3 & 豈不知我們要審判天使嗎？ & Do you not know that we will judge angels? \\
+6:9 & 你們豈不知不義的人不能承受神的國嗎？ & Or do you not know that the unrighteous will not inherit the kingdom of God? \\
 6:15 & 豈不知你們的身體是基督的肢體嗎？ & Do you not know that your bodies are members of Christ? \\
-6:16 & 豈不知與娼妓聯合的，就是與她成為一體嗎？ & Do you not know that he who is joined to a prostitute becomes one body with her? \\
-6:19 & 豈不知你們的身體就是聖靈的殿嗎？ & Do you not know that your body is a temple of the Holy Spirit within you? \\
-9:13 & 你們豈不知在殿裏事奉的吃殿裏的食物嗎？ & Do you not know that those who are employed in the temple service get their food from the temple? \\
-9:24 & 你們不知道在運動場上賽跑的都跑，但得獎的只有一人嗎？ & Do you not know that in a race all the runners run, but only one receives the prize? \\
+6:16 & 豈不知與娼妓聯合的，就是與她成為一體嗎？ & Or do you not know that the one who joins himself to a prostitute is one body \textit{with her?} \\
+6:19 & 豈不知你們的身體就是聖靈的殿嗎？ & Or do you not know that your body is a temple of the Holy Spirit who is in you? \\
+9:13 & 你們豈不知在殿裏事奉的吃殿裏的食物嗎？ & Do you not know that those who perform sacred services eat the \textit{food} of the temple? \\
+9:24 & 你們不知道在運動場上賽跑的都跑，但得獎的只有一人嗎？ & Do you not know that those who run in a race all run, but \textit{only} one receives the prize? \\
 \bottomrule
 \end{tabular}
 \end{small}
@@ -1895,8 +1906,8 @@ $body$
 \vspace{0.18cm}
 
 {\small\color{LightGray}
-"So now faith, hope, and love abide, these three;\\
-but the greatest of these is love."\\
+“But now faith, hope, love, abide these three;\\
+but the greatest of these is love.”\\
 — 1 Corinthians 13:13}
 
 \vspace{0.25cm}
@@ -1912,11 +1923,11 @@ but the greatest of these is love."\\
 \centering
 \small\jesus{「以色列啊，你要聽！耶和華我們神是獨一的主。\\
 你要盡心、盡性、盡意、盡力愛主你的神。」}\\[0.2em]
-\footnotesize\itshape\jesus{"Hear, O Israel: The Lord our God, the Lord is one.\\
-You shall love the Lord your God with all your heart\\
-and with all your soul and with all your mind and with all your strength."}\\[0.1em]
+\footnotesize\itshape\jesus{"THE FOREMOST IS, 'HEAR, O ISRAEL! THE LORD OUR GOD IS ONE LORD;\\
+AND YOU SHALL LOVE THE LORD YOUR GOD WITH ALL YOUR HEART, AND WITH ALL YOUR SOUL,\\
+AND WITH ALL YOUR MIND, AND WITH ALL YOUR STRENGTH.'"}\\[0.1em]
 \normalfont\color{LightGray}
-— 馬可福音 Mark 12:29-30 (ESV)
+— 馬可福音 Mark 12:29-30 (NASB 1995)
 \vspace{0.2cm}
 \end{minipage}
 }

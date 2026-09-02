@@ -85,7 +85,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 撒但已經在十字架上被擊敗 (Satan Has Already Been Defeated at the Cross)
 

@@ -79,13 +79,13 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 信徒三重身份 (Threefold Identity of Believers)
 
 猶大用三個完成式被動分詞描述收信人的身份：
 
-| 身份 | 希臘文 | 神學意義 |
+| 身份 | 希臘文 | 屬靈意義 |
 |------|--------|----------|
 | 蒙召的 | *klētois* | 神有效的呼召 |
 | 蒙愛的 | *ēgapēmenois* | 在父神裏的愛 |

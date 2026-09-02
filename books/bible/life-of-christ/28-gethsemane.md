@@ -90,7 +90,7 @@
 
 ---
 
-## 28.5 神學要點 (Theological Points)
+## 28.5 領受要點 (Truths Received)
 
 ### 1. 第二亞當的順服
 

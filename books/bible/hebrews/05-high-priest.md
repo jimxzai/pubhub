@@ -6,7 +6,7 @@ date: 2025年12月
 publisher: 三書精讀出版系統
 ---
 
-# 大祭司的呼召
+# 大祭司的呼召 (The Call of the High Priest)
 ## Hebrews 5:1-14 — The Call of the High Priest
 
 **經文核對**：[ai-eden.com/bible/hebrews/5](https://www.ai-eden.com/bible/hebrews/5?t=CUV,ESV&cols=2)
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-這一章把「大祭司」這個職分，從一個猶太宗教制度的角色，變成一句對每一個疲乏、想要放棄的人說的話：**你有一位大祭司，祂完全懂你的軟弱，也完全站在神面前為你代求。** 作者先鋪陳地上大祭司的兩個條件——能體恤軟弱、蒙神所召——然後說基督兩樣都滿足，且滿足得比亞倫更徹底：祂「大聲哀哭，流淚禱告」（5:7），是真實的人；祂「照著麥基洗德的等次永遠為祭司」（5:6），是永恆的職分。但這一章沒有停在安慰裡——它突然轉向，責備讀者屬靈幼稚（5:11-14），因為認識這樣一位大祭司，本該把人帶向長大成熟，而不是停留在初信的奶水裡。整章的中心不是一套祭司職分的知識，是一個問題：你認不認得出，站在神面前為你代求的那一位，是誰？
+這一章把「大祭司」這個職分，從一個猶太宗教制度的角色，變成一句對每一個疲乏、想要放棄的人說的話：**你有一位大祭司，祂完全懂你的軟弱，也完全站在神面前為你代求。** 作者先鋪陳地上大祭司的兩個條件——能體恤軟弱、蒙神所召——然後說基督兩樣都滿足，且滿足得比亞倫更徹底：祂「大聲哀哭，流淚禱告」（5:7），是真實的人；祂「照著麥基洗德的等次永遠為祭司」（5:6），是永恆的職分。但這一章沒有停在安慰裏——它突然轉向，責備讀者屬靈幼稚（5:11-14），因為認識這樣一位大祭司，本該把人帶向長大成熟，而不是停留在初信的奶水裏。整章的中心不是一套祭司職分的知識，是一個問題：你認不認得出，站在神面前為你代求的那一位，是誰？
 
 ---
 
@@ -66,18 +66,17 @@ publisher: 三書精讀出版系統
 
 *經 [cnbible.com/hebrews/5](https://cnbible.com/hebrews/5.htm) 核對：本次採用之和合本（CUV）文本，於 5:1、5:2、5:3、5:4、5:11 等節與此前版本所標示的「修訂版」（RCUV）用字略有出入（如「奉派替人辦理屬神的事」對照「替人辦理神的事」、「論到麥基洗德」對照「論到這位大祭司」），現已依實際 CUV 原文更正並標明版本。*
 
-### English — ESV
+### English — New American Standard Bible (NASB)
 
-> ^1^For every high priest chosen from among men is appointed to act on behalf of men in relation to God, to offer gifts and sacrifices for sins. ^2^He can deal gently with the ignorant and wayward, since he himself is beset with weakness. ^3^Because of this he is obligated to offer sacrifice for his own sins just as he does for those of the people. ^4^And no one takes this honor for himself, but only when called by God, just as Aaron was.
+> ^1^For every high priest taken from among men is appointed on behalf of men in things pertaining to God, in order to offer both gifts and sacrifices for sins; ^2^he can deal gently with the ignorant and misguided, since he himself also is beset with weakness; ^3^and because of it he is obligated to offer [sacrifices] for sins, as for the people, so also for himself. ^4^And no one takes the honor to himself, but [receives it] when he is called by God, even as Aaron was.
 
-> ^5^So also Christ did not exalt himself to be made a high priest, but was appointed by him who said to him, "You are my Son, today I have begotten you"; ^6^as he says also in another place, **"You are a priest forever, after the order of Melchizedek."**
+> ^5^So also Christ did not glorify Himself so as to become a high priest, but He who said to Him, '\textsc{You are my son, today I have begotten you}'; ^6^just as He says also in another [passage], '\textsc{You are a priest forever according to the order of Melchizedek}.'
 
-> ^7^**In the days of his flesh, Jesus offered up prayers and supplications, with loud cries and tears, to him who was able to save him from death, and he was heard because of his reverence.** ^8^Although he was a son, he learned obedience through what he suffered. ^9^**And being made perfect, he became the source of eternal salvation to all who obey him,** ^10^being designated by God a high priest after the order of Melchizedek.
+> ^7^**In the days of His flesh, He offered up both prayers and supplications with loud crying and tears to the One able to save Him from death, and He was heard because of His piety.** ^8^Although He was a Son, He learned obedience from the things which He suffered. ^9^**And having been made perfect, He became to all those who obey Him the source of eternal salvation,** ^10^being designated by God as a high priest according to the order of Melchizedek.
 
-> ^11^About this we have much to say, and it is hard to explain, since you have become dull of hearing. ^12^For though by this time you ought to be teachers, you need someone to teach you again the basic principles of the oracles of God. You need milk, not solid food, ^13^for everyone who lives on milk is unskilled in the word of righteousness, since he is a child. ^14^**But solid food is for the mature, for those who have their powers of judgment trained by constant practice to distinguish good from evil.**
-> — Hebrews 5:1-14 (ESV)
+> ^11^Concerning him we have much to say, and [it is] hard to explain, since you have become dull of hearing. ^12^For though by this time you ought to be teachers, you have need again for someone to teach you the elementary principles of the oracles of God, and you have come to need milk and not solid food. ^13^For everyone who partakes [only] of milk is not accustomed to the word of righteousness, for he is an infant. ^14^**But solid food is for the mature, who because of practice have their senses trained to discern good and evil.**
 
----
+> — Hebrews 5:1-14 (NASB)
 
 ## 背景 (Context)
 
@@ -92,15 +91,15 @@ publisher: 三書精讀出版系統
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 註解 |
-|--------|------|------|------|
-| *metriopatheō* | metriopatheō | 體諒、溫和對待 | 5:2，不過分嚴厲或縱容，是一種節制的同情 |
-| *eulabeia* | eulabeia | 虔誠、敬畏 | 5:7，對神旨意的順服，不是膽怯的恐懼 |
-| *teleiōtheis* | teleiōtheis | 既得以完全（過去被動分詞） | 5:9，源自 *teleioō*——達到目的、完成該完成的資格 |
-| *aitios* | aitios | 根源、原因 | 5:9，救恩的源頭，不只是管道 |
-| *nōthros* | nōthros | 遲鈍、聽不進 | 5:11，屬靈懶惰，而非智力不足 |
-| *gala* | gala | 奶 | 5:12-13，初信者的靈糧，非永久的食物 |
-| *sterea trophē* | sterea trophē | 乾糧、堅固的食物 | 5:12, 14，成熟信徒能消化的道理 |
-| *gegymnasmena* | gymnazō | 操練 | 5:14，英文 "gymnasium" 的字源 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| *μετριοπαθέω* | metriopatheō | 體諒、溫和對待 | 5:2，不過分嚴厲或縱容，是一種節制的同情 |
+| *εὐλάβεια* | eulabeia | 虔誠、敬畏 | 5:7，對神旨意的順服，不是膽怯的恐懼 |
+| *τελειωθείς* | teleiōtheis | 既得以完全（過去被動分詞） | 5:9，源自 *teleioō*——達到目的、完成該完成的資格 |
+| *αἴτιος* | aitios | 根源、原因 | 5:9，救恩的源頭，不只是管道 |
+| *νωθρός* | nōthros | 遲鈍、聽不進 | 5:11，屬靈懶惰，而非智力不足 |
+| *γάλα* | gala | 奶 | 5:12-13，初信者的靈糧，非永久的食物 |
+| *στερεὰ τροφή* | sterea trophē | 乾糧、堅固的食物 | 5:12, 14，成熟信徒能消化的道理 |
+| *γεγυμνασμένα (γυμνάζω)* | gegymnasmena | 操練 | 5:14，英文 "gymnasium" 的字源 |
 
 ### 「他既得以完全」（τελειωθεὶς）的意義
 
@@ -112,7 +111,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 大祭司的雙重資格——體恤與蒙召
 
@@ -123,11 +122,11 @@ publisher: 三書精讀出版系統
 
 亞倫的體恤，是靠自己也軟弱換來的；基督的體恤，是靠祂真實經歷試探、卻從未失敗換來的——祂能靠近你的軟弱，不是因為祂也跌倒過，是因為祂全程清醒地走過同一條試探的路，卻沒有被擊倒。這使祂的體恤比亞倫的體恤更深、更可靠。
 
-帶領提問：**你今天靠近神的時候，心裡覺得祂能不能真正理解你的軟弱？如果基督的體恤來自於「祂受過試探卻沒有犯罪」，這如何改變你對「軟弱可以坦然帶到神面前」這件事的態度？**
+帶領提問：**你今天靠近神的時候，心裏覺得祂能不能真正理解你的軟弱？如果基督的體恤來自於「祂受過試探卻沒有犯罪」，這如何改變你對「軟弱可以坦然帶到神面前」這件事的態度？**
 
 ### 2. 客西馬尼的迴聲——基督的禱告與受苦
 
-「大聲哀哭，流淚禱告」（5:7）最合理指向客西馬尼園的禱告（太26:36-46；路22:44「汗珠如大血點」）。這不是象徵性的修辭，是四福音書記錄下來的真實場景：基督俯伏在地，向那位「能救他免死的」懇求。祂的祈求「蒙了應允」，卻不是免去十字架——是神使祂從死裡復活，這是更深一層的應允。
+「大聲哀哭，流淚禱告」（5:7）最合理指向客西馬尼園的禱告（太26:36-46；路22:44「汗珠如大血點」）。這不是象徵性的修辭，是四福音書記錄下來的真實場景：基督俯伏在地，向那位「能救他免死的」懇求。祂的祈求「蒙了應允」，卻不是免去十字架——是神使祂從死裏復活，這是更深一層的應允。
 
 帶領提問：**「懇求那能救他免死的，就因他的虔誠蒙了應允」——你有沒有經歷過禱告的答案，不是你求的那個「免去」，而是走過之後才明白的「更好的應允」？**
 
@@ -146,7 +145,7 @@ publisher: 三書精讀出版系統
 ### 5. 從奶到乾糧——屬靈幼稚的責備
 
 | 嬰孩 | 成熟的人 |
-|------|----------|
+|------|------|
 | 只能吃奶 | 能吃乾糧 |
 | 不熟練仁義的道理 | 心竅習練得通達 |
 | 不能分辨善惡 | 能分辨好歹 |
@@ -196,6 +195,54 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 22:1-5, 24——5:7「大聲哀哭」的背後
+
+5:7 說基督「大聲哀哭，流淚禱告」。這不是憑空的描述——詩篇 22 是那位受苦者自己的聲音，而主在十字架上引的第一句，正是這一篇的第一句。
+
+> ^1^**我的神，我的神！為甚麼離棄我？**為甚麼遠離不救我？不聽我唉哼的言語？
+> ^2^我的神啊，我白日呼求，你不應允；夜間呼求，並不住聲。
+> ^3^但你是聖潔的，是用以色列的讚美為寶座的。
+> ^4^我們的祖宗倚靠你，他們倚靠你，你便解救他們。
+> ^5^他們哀求你便蒙解救，他們倚靠你就不羞愧。
+> ^24^**因為他沒有藐視、憎惡受苦的人，也沒有向他掩面；那受苦之人呼籲的時候，他就垂聽。**
+
+> ^1^**For the choir director; upon Aijeleth Hashshahar. A Psalm of David. My God, my God, why have You forsaken me? Far from my deliverance are the words of my groaning.**
+> ^24^**For He has not despised nor abhorred the affliction of the afflicted; Nor has He hidden His face from him; But when he cried to Him for help, He heard.**
+
+**領受**：第 1 節說「你不應允」，第 24 節說「他就垂聽」——同一首詩，前後不衝突。\textcolor{ScriptureGold}{\textbf{希伯來書 5:7 用的正是這個張力：「就因他的虔誠蒙了應允。」父沒有把那杯挪開，卻聽了那禱告。得應允，不等於得到你所求的那一項。}}
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Before the Throne of God Above
+
+Charitie Lees Bancroft 1863 年寫成，原題〈The Advocate〉——「中保」。整首詩就是希伯來書 4:14-5:10 的祈禱版。
+
+> Before the throne of God above
+> I have a strong and perfect plea:
+> A great High Priest whose name is Love,
+> Who ever lives and pleads for me.
+>
+> 在天上神的寶座前，
+> 我有堅穩完全的祈求：
+> 一位大祭司，名是慈愛，
+> 永遠活著為我代求。
+
+**歌詞與經文對照**：
+
+| 歌詞 | 希伯來書 |
+|------|------|
+| A great High Priest whose name is Love | 「我們既然有一位……大祭司」（4:14） |
+| Who ever lives and pleads for me | 「長遠活著，替他們祈求」（7:25） |
+| My name is written on His heart | 大祭司胸牌上刻著十二支派的名（出 28:29） |
+
+**默想**：Bancroft 用的字是 *plea*——法庭上的申辯。\textcolor{ScriptureGold}{\textbf{你在神面前的「強而完全的申辯」，不是你的悔改，不是你的熱心，是一個人的名字。}}
+
+---
+
 ## 三大資源深度整合 (Deep Integration: Three Core Resources)
 
 ### 麥克阿瑟：完全稱職的大祭司 (John MacArthur)
@@ -210,13 +257,13 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *God's Last Word to Man: Studies in Hebrews*, Chapter 7 "The Son – Greater as Priest"（章節標題與上述引句已於公開電子文本 biblenotes.online 核實收錄；至於5:7「大聲哀哭，流淚禱告」與5:11-14奶與乾糧的責備段落，本次未能在可取得的文本片段中定位到摩根的逐字論述，故此二節不作逐字引用，僅以上列已核實段落為據）
 
-### 黃長老查經
+### 老弟兄查經
 
-**精義一句話**：麥克阿瑟看見的是基督體恤的「真實性」——祂真的感受過你所感受的；摩根看見的是這職分的「合法性」——沒有人能自封為祭司，連基督也是被呼召的。兩者合起來，正是黃長老常說的「整本聖經都指著耶穌」的一個縮影：你不需要一位遙遠的中保，也不需要一位自我加冕的中保——你有的，是一位真實同你受苦、又真正被神親自差來的大祭司。
+**精義一句話**：麥克阿瑟看見的是基督體恤的「真實性」——祂真的感受過你所感受的；摩根看見的是這職分的「合法性」——沒有人能自封為祭司，連基督也是被呼召的。兩者合起來，正是老弟兄常說的「整本聖經都指著耶穌」的一個縮影：你不需要一位遙遠的中保，也不需要一位自我加冕的中保——你有的，是一位真實同你受苦、又真正被神親自差來的大祭司。
 
 帶領提問：
 - 麥克阿瑟講的是基督「感受過你所感受的」，摩根講的是基督「被神親自呼召」——你今天更需要哪一句來安慰你的軟弱？
-- 如果有人問你「你憑什麼相信有人在天上為你代求」，你會怎麼用5:5-6「蒙神所召」這件事來回答？
+- 如果有人問你「你憑甚麼相信有人在天上為你代求」，你會怎麼用5:5-6「蒙神所召」這件事來回答？
 
 ---
 
@@ -249,7 +296,7 @@ publisher: 三書精讀出版系統
 ### 建議聖詩
 
 | 詩歌 | 作者/年代 | 與經文關聯 |
-|------|-----------|------------|
+|------|------|------|
 | *Before the Throne of God Above* | Bancroft, 1863 | 大祭司代求 (5:5-6) |
 | *Arise, My Soul, Arise* | Wesley, 1742 | 基督的代禱 (5:7) |
 | *There Is a Fountain* | Cowper, 1772 | 大祭司的獻祭 (5:1) |
@@ -257,7 +304,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -265,7 +312,7 @@ publisher: 三書精讀出版系統
 
 - **詩篇 110:4 ↔ 希伯來書 5:6**：大衛一千年前寫下的這句誓言，是希伯來書全書引用最多次的舊約經文（5:6, 6:20, 7:17, 21）。作者不是隨手引一節詩篇，是把整個論證的重量都壓在這一句「起了誓，決不改變」上——基督的祭司職分不是人封的，是神起誓應許的。
 
-- **客西馬尼園 ↔ 希伯來書 5:7**：「大聲哀哭，流淚禱告」與福音書記載的客西馬尼禱告（太26:36-46；路22:44）幾乎是同一個場景的兩種寫法——一個是敘事，一個是屬靈總結。四福音書讓你看見那個夜晚實際發生了什麼，希伯來書告訴你那個夜晚為什麼重要：那正是大祭司「凡事受過試探」的具體證據。
+- **客西馬尼園 ↔ 希伯來書 5:7**：「大聲哀哭，流淚禱告」與福音書記載的客西馬尼禱告（太26:36-46；路22:44）幾乎是同一個場景的兩種寫法——一個是敘事，一個是屬靈總結。四福音書讓你看見那個夜晚實際發生了甚麼，希伯來書告訴你那個夜晚為甚麼重要：那正是大祭司「凡事受過試探」的具體證據。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -275,13 +322,66 @@ publisher: 三書精讀出版系統
 
 - 作者在10節安慰完讀者，11節卻立刻責備他們「聽不進去」——你讀聖經的時候，有沒有那種「這段太難、跳過去」的習慣？那個習慣背後，是不是就是5:11-14說的屬靈懶惰？
 
-### 活在今天 (Living It Today)
+### 活在今天 · AI時代 (Living It Today)
 
-「本該作師傅了，卻還得有人重新教導」（5:12）——這句話特別適合對照今天教會裡一種常見的光景：很多信徒信主多年，主日聚會不缺席，卻從沒有主動教導過任何人，也從沒有被要求過要長進，因為教會的節奏本身就把「聽道」當作信仰生活的終點。停留在奶水裡，不一定是懶惰的表現，有時候只是因為身邊沒有人期待你長大——牧養的節奏本身默許了長期的幼稚。今天不妨誠實地問自己一個具體的問題：如果有一位初信的弟兄姊妹來問你一個基本的信仰問題，你能不能不查手機、不轉頭找別人，就用神的話把他帶明白？如果不能，那不是知識的缺口，是操練的缺口——而操練，從今天就可以開始。
+「本該作師傅了，卻還得有人重新教導」（5:12）——這句話特別適合對照今天教會裏一種常見的光景：很多信徒信主多年，主日聚會不缺席，卻從沒有主動教導過任何人，也從沒有被要求過要長進，因為教會的節奏本身就把「聽道」當作信仰生活的終點。停留在奶水裏，不一定是懶惰的表現，有時候只是因為身邊沒有人期待你長大——牧養的節奏本身默許了長期的幼稚。今天不妨誠實地問自己一個具體的問題：如果有一位初信的弟兄姊妹來問你一個基本的信仰問題，你能不能不查手機、不轉頭找別人，就用神的話把他帶明白？如果不能，那不是知識的缺口，是操練的缺口——而操練，從今天就可以開始。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+### 今天的祭壇 (Today's Altar)
+
+- **早晨**：讀 5:8——「他雖然為兒子，還是因所受的苦難學了順從」。求主指出，今天你手上那件難事，可能正是課堂。
+- **晚上**：省察——今天我求了甚麼？神沒有給我那一項的時候，我是失望，還是等候？
+- **一個行動**：把一件求了很久卻沒有答案的事寫下來，在旁邊寫上 5:7「就因他的虔誠蒙了應允」。留著，過三個月再看。
+
+---
+
+## 鑰詞深讀：學了順從 (Key Word — ἔμαθεν ὑπακοήν)
+
+### 一、全書最令人不安的一句話
+
+> ^8^他雖然為兒子，還是因所受的苦難**學了順從**。
+
+ἔμαθεν ἀφ' ὧν ἔπαθεν ὑπακοήν——原文裏 ἔμαθεν（學了）與 ἔπαθεν（受苦）只差一個字母，是一個刻意的雙聲：**「由所受的，學所行的。」**
+
+### 二、「學」不等於「從不會到會」
+
+無罪的神子怎麼需要「學」順從？作者不是說祂從前不順從。
+
+μανθάνω 在此的意思是**由經歷而知**——不是取得資訊，是進入處境。
+
+| 誤讀 | 正讀 |
+|------|------|
+| 祂本來不順從，後來學會了 | 祂一直順從，如今在苦難裏把順從活了出來 |
+| 順從是祂缺的一課 | 順從是祂已有的心，苦難是那心的考場 |
+| 這削弱了祂的神性 | 這證實了祂真實的人性（2:17「凡事該與他的弟兄相同」） |
+
+\textcolor{ScriptureGold}{\textbf{祂不是從不順從學到順從，是從「順從」學到「順從到死」。}}
+
+### 三、順從與代求，是同一件事的兩面
+
+5 章把兩件事扣在一起：
+
+- **5:7-8** — 祂在客西馬尼哀哭、順從。
+- **5:9-10** — 「就為凡順從他的人成了永遠得救的根源。」
+
+**祂先成為順從的那一位，才能作順從之人得救的根源。**你今天被要求的順從，祂已經走過同一條路——而且走到最底。
+
+### 四、5:11-14 的責備，接在這裏不是偶然
+
+作者剛講完最深的一段基督論，忽然轉口責備：「你們……已經是該作師傅的，誰知還得有人將神聖言小學的開端另教導你們。」
+
+為甚麼在這裏責備？**因為「學了順從」這件事，正是他們停下來的地方。**他們的問題不是聽不懂麥基洗德，是**不肯進入那間叫作苦難的教室**。
+
+### 五、逼近核心的一問
+
+> 你這幾年最不願意再經歷一次的那段日子——你從中「學」到了甚麼？
+
+如果答案是「甚麼也沒有，只是熬過去了」——\textcolor{ScriptureGold}{\textbf{那堂課可能還沒有下課。}}
+
+---
+
+## 老弟兄精義 (The Distilled Key)
 
 這一章把「大祭司」從一個舊約制度的職稱，變成一個你可以每天倚靠的實體：祂體恤你，因為祂真的受過試探；祂能代求，因為祂是神親自呼召、又靠復活的大能長遠活著的祭司。但這一章沒有讓你停在被安慰的位置——它立刻轉身問你：認識這樣一位大祭司這麼久了，你長大了嗎？還是仍然只能喝奶？希伯來書從不讓你只做一個被服事的人，它要把你帶向一個能服事別人的成熟。
 
@@ -291,7 +391,7 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **基督的體恤**：知道基督「曾大聲哀哭，流淚禱告」，如何改變我對祂的認識？祂的苦難與我有什麼關係？
+1. **基督的體恤**：知道基督「曾大聲哀哭，流淚禱告」，如何改變我對祂的認識？祂的苦難與我有甚麼關係？
 
 2. **順從的學習**：基督「因所受的苦難學了順從」——我是否在苦難中學習順從，還是抱怨逃避？
 
@@ -319,16 +419,16 @@ publisher: 三書精讀出版系統
 
 ## 反思問題 (Reflection Questions)
 
-1. 地上的大祭司為什麼能「體諒愚蒙的和失迷的人」？基督的體恤與亞倫的體恤有什麼不同？
+1. 地上的大祭司為甚麼能「體諒愚蒙的和失迷的人」？基督的體恤與亞倫的體恤有甚麼不同？
 
 2. 基督的禱告如何「蒙了應允」？如果祂仍然被釘十字架，怎麼算是應允？
 
-3. 「學了順從」是什麼意思？基督原本不順從嗎？這對我們的順從有什麼教導？
+3. 「學了順從」是甚麼意思？基督原本不順從嗎？這對我們的順從有甚麼教導？
 
-4. 為什麼作者突然從大祭司的教導轉到責備讀者的屬靈幼稚？這兩者有什麼關係？
+4. 為甚麼作者突然從大祭司的教導轉到責備讀者的屬靈幼稚？這兩者有甚麼關係？
 
-5. 「乾糧」代表什麼？「操練」在屬靈成長中有什麼作用？
+5. 「乾糧」代表甚麼？「操練」在屬靈成長中有甚麼作用？
 
 ---
 
-*本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章整合：老弟兄查經、John MacArthur (gty.org)、G. Campbell Morgan*

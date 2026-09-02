@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-整整四十節經文，一長串舊約人物的信心事蹟，耶穌的名字卻一次都沒有出現——這正是這一章要留給讀者的問題。亞伯、以諾、挪亞、亞伯拉罕、摩西……他們「都是存著信心死的，並沒有得著所應許的」（11:13），「因信得了美好的證據，卻仍未得著所應許的」（11:39）。他們一生仰望、卻沒有活著看見的那件事，到底是什麼？答案不在11章裡，在下一節：12:2——「仰望為我們信心創始成終的耶穌」。信心堂裡的每一位見證人，都是指著一位還沒有出場的主角；他們的信心之所以「美好」，不是因為他們看見了結局，是因為他們憑信望向了一位連他們自己都還說不出名字的救主。你今天讀完這一整章名單，若沒有更想認識那位「創始成終」的耶穌，這一章就還沒有讀完。
+整整四十節經文，一長串舊約人物的信心事蹟，耶穌的名字卻一次都沒有出現——這正是這一章要留給讀者的問題。亞伯、以諾、挪亞、亞伯拉罕、摩西……他們「都是存著信心死的，並沒有得著所應許的」（11:13），「因信得了美好的證據，卻仍未得著所應許的」（11:39）。他們一生仰望、卻沒有活著看見的那件事，到底是甚麼？答案不在11章裏，在下一節：12:2——「仰望為我們信心創始成終的耶穌」。信心堂裏的每一位見證人，都是指著一位還沒有出場的主角；他們的信心之所以「美好」，不是因為他們看見了結局，是因為他們憑信望向了一位連他們自己都還說不出名字的救主。你今天讀完這一整章名單，若沒有更想認識那位「創始成終」的耶穌，這一章就還沒有讀完。
 
 ---
 
@@ -56,13 +56,13 @@ publisher: 三書精讀出版系統
 
 **亞伯拉罕的信心 (11:8-19)**
 
-> ^8^**亞伯拉罕**因著信，蒙召的時候就遵命出去，往將來要得為業的地方去；出去的時候，還不知往哪裡去。^9^他因著信，就在所應許之地作客，好像在異地居住帳篷，與那同蒙一個應許的以撒、雅各一樣。^10^因為他等候那座有根基的城，就是神所經營、所建造的。
+> ^8^**亞伯拉罕**因著信，蒙召的時候就遵命出去，往將來要得為業的地方去；出去的時候，還不知往哪裏去。^9^他因著信，就在所應許之地作客，好像在異地居住帳篷，與那同蒙一個應許的以撒、雅各一樣。^10^因為他等候那座有根基的城，就是神所經營、所建造的。
 
 > ^11^因著信，連**撒拉**自己，雖然過了生育的歲數，還能懷孕，因她以為那應許她的是可信的。^12^所以從一個彷彿已死的人就生出子孫，如同天上的星那樣眾多，海邊的沙那樣無數。
 
 > ^13^這些人都是存著信心死的，並沒有得著所應許的，卻從遠處望見，且歡喜迎接，又承認自己在世上是客旅，是寄居的。^14^說這樣話的人，是表明自己要找一個家鄉。^15^他們若想念所離開的家鄉，還有可以回去的機會。^16^他們卻羨慕一個更美的家鄉，就是在天上的。所以神被稱為他們的神，並不以為恥，因為他已經給他們預備了一座城。
 
-> ^17^亞伯拉罕因著信，被試驗的時候，就把以撒獻上；這便是那歡喜領受應許的，將自己的獨生的兒子獻上。^18^論到這兒子，曾有話說：「從以撒生的才要稱為你的後裔。」^19^他以為神還能叫人從死裡復活，他也彷彿從死中得回他的兒子來。
+> ^17^亞伯拉罕因著信，被試驗的時候，就把以撒獻上；這便是那歡喜領受應許的，將自己的獨生的兒子獻上。^18^論到這兒子，曾有話說：「從以撒生的才要稱為你的後裔。」^19^他以為神還能叫人從死裏復活，他也彷彿從死中得回他的兒子來。
 
 **以撒、雅各、約瑟 (11:20-22)**
 
@@ -82,21 +82,31 @@ publisher: 三書精讀出版系統
 
 > ^39^**這些人都是因信得了美好的證據，卻仍未得著所應許的。**^40^**因為神給我們預備了更美的事，叫他們若不與我們同得，就不能完全。**
 
-### English — ESV
+### English — New American Standard Bible (NASB)
 
-> ^1^**Now faith is the assurance of things hoped for, the conviction of things not seen.**
+> ^1^**Now faith is the assurance of [things] hoped for, the conviction of things not seen.** ^2^For by it the men of old gained approval. ^3^By faith we understand that the worlds were prepared by the word of God, so that what is seen was not made out of things which are visible.
 
-> ^6^**And without faith it is impossible to please God,** for whoever would draw near to God must believe that he exists and that he rewards those who seek him.
+> ^4^**By faith Abel offered to God a better sacrifice than Cain, through which he obtained the testimony that he was righteous, God testifying about his gifts, and through faith, though he is dead, he still speaks.** ^5^**By faith Enoch was taken up so that he would not see death; \textsc{And he was not found because God took him up}; for he obtained the witness that before his being taken up he was pleasing to God.** ^6^**And without faith it is impossible to please [Him], for he who comes to God must believe that He is and [that] He is a rewarder of those who seek Him.** ^7^**By faith Noah, being warned [by God] about things not yet seen, in reverence prepared an ark for the salvation of his household, by which he condemned the world, and became an heir of the righteousness which is according to faith.**
 
-> ^13^These all died in faith, not having received the things promised, but having seen them and greeted them from afar, and having acknowledged that they were strangers and exiles on the earth.
+> ^8^**By faith Abraham, when he was called, obeyed by going out to a place which he was to receive for an inheritance; and he went out, not knowing where he was going.** ^9^By faith he lived as an alien in the land of promise, as in a foreign [land], dwelling in tents with Isaac and Jacob, fellow heirs of the same promise; ^10^for he was looking for the city which has foundations, whose architect and builder is God.
 
-> ^38^**Of whom the world was not worthy**—wandering about in deserts and mountains, and in dens and caves of the earth.
+> ^11^By faith even Sarah herself received ability to conceive, even beyond the proper time of life, since she considered Him faithful who had promised. ^12^Therefore there was born even of one man, and him as good as dead at that, [as many descendants] \textsc{As the stars of heaven in number, and innumerable as the sand which is by the seashore}.
 
-> ^39-40^**And all these, though commended through their faith, did not receive what was promised, since God had provided something better for us, that apart from us they should not be made perfect.**
+> ^13^All these died in faith, without receiving the promises, but having seen them and having welcomed them from a distance, and having confessed that they were strangers and exiles on the earth. ^14^For those who say such things make it clear that they are seeking a country of their own. ^15^And indeed if they had been thinking of that [country] from which they went out, they would have had opportunity to return. ^16^But as it is, they desire a better [country], that is, a heavenly one. Therefore God is not ashamed to be called their God; for He has prepared a city for them.
 
-*校對說明：本章中文經文已核對 CUV（和合本）原文（cnbible.com/hebrews/11.htm），與舊版所引「和合本修訂版 (RCUV)」用字不同（例如11:1原作「有把握」「有確據」，CUV原作「實底」「確據」；11:6原作「沒有信，就不能討神的喜悅」，CUV原作「人非有信就不能得神的喜悅」），現統一改標「和合本 (CUV)」並採用核對後的文字。*
+> ^17^By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises was offering up his only begotten [son]; ^18^[it was he] to whom it was said, '\textsc{In Isaac your descendants shall be called}.' ^19^He considered that God is able to raise [people] even from the dead, from which he also received him back as a type.
 
----
+> ^20^**By faith Isaac blessed Jacob and Esau, even regarding things to come.** ^21^**By faith Jacob, as he was dying, blessed each of the sons of Joseph, and worshiped, [leaning] on the top of his staff.** ^22^**By faith Joseph, when he was dying, made mention of the exodus of the sons of Israel, and gave orders concerning his bones.**
+
+> ^23^**By faith Moses, when he was born, was hidden for three months by his parents, because they saw he was a beautiful child; and they were not afraid of the king's edict.** ^24^By faith Moses, when he had grown up, refused to be called the son of Pharaoh's daughter, ^25^choosing rather to endure ill-treatment with the people of God than to enjoy the passing pleasures of sin, ^26^**considering the reproach of Christ greater riches than the treasures of Egypt; for he was looking to the reward.** ^27^By faith he left Egypt, not fearing the wrath of the king; for he endured, as seeing Him who is unseen. ^28^By faith he kept the Passover and the sprinkling of the blood, so that he who destroyed the firstborn would not touch them.
+
+> ^29^By faith they passed through the Red Sea as though [they were passing] through dry land; and the Egyptians, when they attempted it, were drowned. ^30^By faith the walls of Jericho fell down after they had been encircled for seven days. ^31^By faith Rahab the harlot did not perish along with those who were disobedient, after she had welcomed the spies in peace.
+
+> ^32^And what more shall I say? For time will fail me if I tell of Gideon, Barak, Samson, Jephthah, of David and Samuel and the prophets, ^33^who by faith conquered kingdoms, performed [acts of] righteousness, obtained promises, shut the mouths of lions, ^34^quenched the power of fire, escaped the edge of the sword, from weakness were made strong, became mighty in war, put foreign armies to flight. ^35^Women received [back] their dead by resurrection; and others were tortured, not accepting their release, so that they might obtain a better resurrection; ^36^and others experienced mockings and scourgings, yes, also chains and imprisonment. ^37^They were stoned, they were sawn in two, they were tempted, they were put to death with the sword; they went about in sheepskins, in goatskins, being destitute, afflicted, ill-treated ^38^**([men] of whom the world was not worthy), wandering in deserts and mountains and caves and holes in the ground.**
+
+> ^39^**And all these, having gained approval through their faith, did not receive what was promised,** ^40^**because God had provided something better for us, so that apart from us they would not be made perfect.**
+
+> — Hebrews 11:1-40 (NASB)
 
 ## 背景 (Context)
 
@@ -119,7 +129,7 @@ publisher: 三書精讀出版系統
 ### 舊約出處
 
 | 人物 | 舊約出處 | 信心行動 |
-|------|----------|----------|
+|------|------|------|
 | 亞伯 | 創4:3-5 | 獻上更美的祭 |
 | 以諾 | 創5:21-24 | 與神同行被接去 |
 | 挪亞 | 創6-9章 | 建造方舟 |
@@ -130,20 +140,20 @@ publisher: 三書精讀出版系統
 
 ### 與使徒行傳7章的呼應
 
-司提反在殉道前的講道（徒7章），幾乎是希伯來書11章的最佳註腳：他講亞伯拉罕「不知往哪裡去」就出去（徒7:2-8，對應來11:8）、約瑟被賣卻蒙神眷佑（徒7:9-16，對應來11:22）、摩西拒絕稱為法老女兒之子（徒7:17-36，對應來11:24-28）。司提反自己隨後被石頭打死（徒7:59-60），活成了來11:37「被石頭打死」在新約裡的實例——信心的代價，從舊約走進了新約，沒有間斷。
+司提反在殉道前的講道（徒7章），幾乎是希伯來書11章的最佳註腳：他講亞伯拉罕「不知往哪裏去」就出去（徒7:2-8，對應來11:8）、約瑟被賣卻蒙神眷佑（徒7:9-16，對應來11:22）、摩西拒絕稱為法老女兒之子（徒7:17-36，對應來11:24-28）。司提反自己隨後被石頭打死（徒7:59-60），活成了來11:37「被石頭打死」在新約裏的實例——信心的代價，從舊約走進了新約，沒有間斷。
 
 ---
 
 ## 原文研讀 (Word Study)
 
 | 希臘文 | 音譯 | 意義 | 說明 |
-|--------|------|------|------|
-| *hypostasis* | ὑπόστασις | 實底、把握 | 11:1「信就是所望之事的實底」 |
-| *elegchos* | ἔλεγχος | 確據、證明 | 11:1「未見之事的確據」 |
-| *pistis* | πίστις | 信心 | 本章核心詞，18次「因著信」 |
-| *martyreō* | μαρτυρέω | 見證、得證 | 11:2, 4「得了美好的證據」 |
-| *parepidēmos* | παρεπίδημος | 客旅、寄居的 | 11:13 |
-| *axios* | ἄξιος | 配得 | 11:38「世界不配有的人」 |
+|----------------------|----------------------|--------------|------------------------------------------|
+| *ὑπόστασις* | hypostasis | 實底、把握 | 11:1「信就是所望之事的實底」 |
+| *ἔλεγχος* | elenchos | 確據、證明 | 11:1「未見之事的確據」 |
+| *πίστις* | pistis | 信心 | 本章核心詞，18次「因著信」 |
+| *μαρτυρέω* | martyreō | 見證、得證 | 11:2, 4「得了美好的證據」 |
+| *παρεπίδημος* | parepidēmos | 客旅、寄居的 | 11:13 |
+| *ἄξιος* | axios | 配得 | 11:38「世界不配有的人」 |
 
 ### *hypostasis*（實底）——同一個字，兩處出現
 
@@ -155,13 +165,13 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 信心的定義——實底與確據
 
 11:1一句話定義了整章要展開的內容：信心的對象是「所望之事」（未來的應許）與「未見之事」（看不見的實在），性質是「實底」（現今的確信）與「確據」（內在的確定）。信心不是盲目的跳躍，是基於神話語、把未來的應許提前變成現今可以站立的實質。
 
-帶領提問：**你上一次說「我信」的時候，你信的是一個模糊的期望，還是一件已經在你裡面站穩了的「實底」？**
+帶領提問：**你上一次說「我信」的時候，你信的是一個模糊的期望，還是一件已經在你裏面站穩了的「實底」？**
 
 ### 2. 信心的必要性——不是「好有」，是「必須」
 
@@ -173,17 +183,17 @@ publisher: 三書精讀出版系統
 
 「這些人……承認自己在世上是客旅，是寄居的」（11:13）——不是自憐，是清醒。他們羨慕的「更美的家鄉」（11:16）讓神「並不以為恥」被稱為他們的神，因為他已經為他們預備了一座城。信心不是叫人逃避現實，是叫人看見一個更真實的現實。
 
-帶領提問：**你活得像這地是你永久的家，還是像一個正在路上、心裡念著另一個家鄉的客旅？**
+帶領提問：**你活得像這地是你永久的家，還是像一個正在路上、心裏念著另一個家鄉的客旅？**
 
 ### 4. 信心的代價——世界不配有的人
 
 11:35-38列出信心的代價：嚴刑、戲弄、鞭打、監禁、被石頭打死、被鋸鋸死、披著羊皮到處漂流、受窮乏患難苦害。「本是世界不配有的人」（11:38）——這句話把整個評價顛倒過來：世界拒絕他們，是世界配不上他們，不是他們配不上世界。
 
-帶領提問：**如果為信仰付代價這件事今天臨到你身上，你心裡的第一個反應，會是「為什麼是我」，還是「這世界本來就配不上這樣活著的人」？**
+帶領提問：**如果為信仰付代價這件事今天臨到你身上，你心裏的第一個反應，會是「為甚麼是我」，還是「這世界本來就配不上這樣活著的人」？**
 
 ### 5. 已然與未然——因信得了美好的證據，卻仍未得著
 
-「這些人都是存著信心死的，並沒有得著所應許的」（11:13）；到了11:39再說一次，一字不差地重複這個張力：「因信得了美好的證據，卻仍未得著所應許的」。信心堂裡沒有一個人是「圓滿結局」收場的——他們都死在應許成就之前。這不是這章的缺憾，是整章最重要的伏筆。
+「這些人都是存著信心死的，並沒有得著所應許的」（11:13）；到了11:39再說一次，一字不差地重複這個張力：「因信得了美好的證據，卻仍未得著所應許的」。信心堂裏沒有一個人是「圓滿結局」收場的——他們都死在應許成就之前。這不是這章的缺憾，是整章最重要的伏筆。
 
 帶領提問：**你正在等候一件神已經應許、卻還沒有成就的事嗎？信心堂告訴你：「還沒有得著」不等於「信心落了空」，等候本身就是被神記念的見證。**
 
@@ -211,7 +221,7 @@ publisher: 三書精讀出版系統
 
 **約翰·歐文 (John Owen, 1616-1683)**:
 
-> 「亞伯拉罕『出去的時候，不知道往哪裡去』——這是信心的本質。信心不需要知道全部地圖，只需要認識帶路的那一位。神的話語足夠了。」
+> 「亞伯拉罕『出去的時候，不知道往哪裏去』——這是信心的本質。信心不需要知道全部地圖，只需要認識帶路的那一位。神的話語足夠了。」
 > — *An Exposition of the Epistle to the Hebrews*
 
 ### 近代釋經
@@ -220,6 +230,52 @@ publisher: 三書精讀出版系統
 
 > 「這些信心英雄不是超人，而是普通人。他們有軟弱、有失敗。但他們的共同點是：他們信靠神的應許勝過眼前的環境。這是信心的核心。」
 > — *The Epistle to the Hebrews* (NICNT)
+
+---
+
+## 詩篇回應 (Psalm Response)
+
+### 詩篇 39:7, 12——「在你面前是客旅」
+
+11:13 說信心的先祖「承認自己在世上是客旅，是寄居的」。這句話不是作者的形容，是舊約聖徒自己的話。
+
+> ^7^**主啊，如今我等甚麼呢？我的指望在乎你。**
+> ^12^耶和華啊，求你聽我的禱告，留心聽我的呼求！我流淚，求你不要靜默無聲！**因為我在你面前是客旅，是寄居的，像我列祖一般。**
+
+> ^7^'And now, Lord, for what do I wait? My hope is in You.
+> ^12^**'Hear my prayer, \textsc{O Lord}, and give ear to my cry; Do not be silent at my tears; For I am a stranger with You, A sojourner like all my fathers.**
+
+**領受**：留意第 12 節的介詞——不是「我在世上是客旅」，是「**我在你面前**是客旅」。
+
+\textcolor{ScriptureGold}{\textbf{寄居不是被世界排除在外的處境，是與神同行的處境。亞伯拉罕在應許之地搭帳棚（11:9），不是因為他沒有資格買地，是因為他在等一座「有根基的城」（11:10）。}}
+
+---
+
+## 聖詩默想 (Hymn Meditation)
+
+### Faith of Our Fathers
+
+Frederick W. Faber 1849 年寫成，紀念英國宗教改革時期為信仰殉道的人。
+
+> Faith of our fathers, living still,
+> In spite of dungeon, fire, and sword;
+> O how our hearts beat high with joy
+> Whene'er we hear that glorious word!
+>
+> 先祖之信，仍然存活，
+> 縱有牢獄、烈火、刀劍；
+> 每逢聽見那榮耀之名，
+> 我心歡躍不能自禁！
+
+**歌詞與經文對照**：
+
+| 歌詞 | 希伯來書 11 章 |
+|------|------|
+| In spite of dungeon, fire, and sword | 「受了戲弄、鞭打、捆鎖、監禁……被刀殺」（11:36-37） |
+| Living still | 「他雖然死了，卻因這信仍舊說話」（11:4） |
+| We will be true to thee till death | 「他們卻羨慕一個更美的家鄉」（11:16） |
+
+**默想**：11:35-38 那一段常被跳過——沒有得著拯救的那一群。**Faber 寫的正是這一群。**\textcolor{ScriptureGold}{\textbf{信心堂的名單不是成功者名冊。前半是「因著信……得了」，後半是「因著信……沒有得著」（11:39）。兩半用的是同一個字。}}
 
 ---
 
@@ -239,12 +295,12 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, "The Witnesses of the Past to Faith" (Hebrews 11), *God's Last Word to Man: Studies in Hebrews*, 1936 — 章節標題與篇章順序已於全書目錄核實存在（biblenotes.online 收錄全文）；惟該章逐字內容本次未能於可存取的線上版本中完整核對，故以上僅為根據書目結構的忠實轉述，非逐字引句。
 
-### 黃長老查經
+### 老弟兄查經
 
-**精義一句話**：麥克阿瑟看見的是信心的「實底」——一種現在就能扶住未來應許重量的確信；摩根看見的是11章在全書中的「位置」——它是13章裡的過渡席，坐在這席位上的每一位，都在等候14章那位「唯一的見證人」出場。黃長老常說：**信心堂裡沒有一個人是故事的主角，他們每一位都只是指向那位還沒有出場的主角的手指。**
+**精義一句話**：麥克阿瑟看見的是信心的「實底」——一種現在就能扶住未來應許重量的確信；摩根看見的是11章在全書中的「位置」——它是13章裏的過渡席，坐在這席位上的每一位，都在等候14章那位「唯一的見證人」出場。老弟兄常說：**信心堂裏沒有一個人是故事的主角，他們每一位都只是指向那位還沒有出場的主角的手指。**
 
 帶領提問：
-- 麥克阿瑟講的是信心「此刻」的性質——確信、實底；摩根講的是信心榜樣在全書結構裡的「位置」——過渡、見證。你今天更需要哪一句：一句叫你此刻站穩，還是一句叫你看清自己在整個故事裡的位置？
+- 麥克阿瑟講的是信心「此刻」的性質——確信、實底；摩根講的是信心榜樣在全書結構裏的「位置」——過渡、見證。你今天更需要哪一句：一句叫你此刻站穩，還是一句叫你看清自己在整個故事裏的位置？
 - 如果11章的每一位見證人都只是「指向」而不是「終點」，你今天在人生某個階段活出的信心，是希望被人記念成終點，還是甘心只作一根指向耶穌的手指？
 
 ---
@@ -259,7 +315,7 @@ publisher: 三書精讀出版系統
 > **I believe that I shall look upon the goodness of the LORD in the land of the living!**
 > Wait for the LORD; be strong, and let your heart take courage; wait for the LORD!
 
-大衛在這裡說的「我若不信……就早已喪膽了」，正是希伯來書11章每一位見證人共同的心跳——他們沒有看見成就，卻沒有喪膽，因為他們「信」在活人之地終必看見。
+大衛在這裏說的「我若不信……就早已喪膽了」，正是希伯來書11章每一位見證人共同的心跳——他們沒有看見成就，卻沒有喪膽，因為他們「信」在活人之地終必看見。
 
 ### 聖詩默想：Faith of Our Fathers 與經文對照
 
@@ -277,17 +333,17 @@ publisher: 三書精讀出版系統
 > O let me from this day
 > Be wholly Thine!
 
-這首詩歌把「信心」從舊約的等候，帶到新約已經成就的十字架前——信心堂裡的人仰望還沒有到來的應許，這首詩歌的人仰望已經成就的髑髏地，是同一個「仰望」的動作，望向的對象不同了。
+這首詩歌把「信心」從舊約的等候，帶到新約已經成就的十字架前——信心堂裏的人仰望還沒有到來的應許，這首詩歌的人仰望已經成就的髑髏地，是同一個「仰望」的動作，望向的對象不同了。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 · 深讀 (Going Deeper)
 
 ### 全經連線 (Tracing It Through Scripture)
 
 - **創世記15:6 ↔ 希伯來書11:8-12**：「亞伯拉罕信耶和華，耶和華就以此為他的義」——這是全本聖經第一次把「信」與「義」連在一起，是亞伯拉罕整個信心生涯的根。來11章沒有重複這節經文的字句，卻整段都是這節經文的展開：因信遵命出去、因信在應許之地作客、因信（連同撒拉）等候一個過了生育年歲卻仍能懷孕的應許。
 
-- **創世記22 ↔ 希伯來書11:17-19**：「亞伯拉罕因著信，被試驗的時候，就把以撒獻上」——來11:19補上創22章沒有明說的內心邏輯：「他以為神還能叫人從死裡復活」。亞伯拉罕不是盲目的順服，是把神先前的應許（「從以撒生的才要稱為你的後裔」）和神現在的命令放在一起，得出一個信心的結論：神必有辦法，即使那辦法是復活。
+- **創世記22 ↔ 希伯來書11:17-19**：「亞伯拉罕因著信，被試驗的時候，就把以撒獻上」——來11:19補上創22章沒有明說的內心邏輯：「他以為神還能叫人從死裏復活」。亞伯拉罕不是盲目的順服，是把神先前的應許（「從以撒生的才要稱為你的後裔」）和神現在的命令放在一起，得出一個信心的結論：神必有辦法，即使那辦法是復活。
 
 - **羅馬書4:1-3, 18-21 ↔ 希伯來書11:11-12**：保羅在羅馬書引用創15:6，論證因信稱義不是靠割禮、不是靠律法，是白白算為義；他描述亞伯拉罕「在無可指望的時候，因信仍有指望」（羅4:18），與來11:11「連撒拉自己，雖然過了生育的歲數，還能懷孕」講的是同一件事的兩個角度——保羅講「這信心如何使人稱義」，希伯來書講「這信心如何使人活到看不見盡頭的地方」。
 
@@ -297,17 +353,82 @@ publisher: 三書精讀出版系統
 
 - 「這些人都是存著信心死的，並沒有得著所應許的」（11:13）——如果你此刻正站在一件「還沒有成就」的應許面前，你願不願意把「還沒有」讀成「還沒有」，而不是讀成「不會有」？
 
-- 摩西「看為基督受的凌辱比埃及的財寶更有價值」（11:26）——注意這裡說的是「基督」，摩西活在基督降生前一千多年。你相信舊約的聖徒真的看見了基督嗎？如果是，這對你今天讀舊約的方式，會有什麼改變？
+- 摩西「看為基督受的凌辱比埃及的財寶更有價值」（11:26）——注意這裏說的是「基督」，摩西活在基督降生前一千多年。你相信舊約的聖徒真的看見了基督嗎？如果是，這對你今天讀舊約的方式，會有甚麼改變？
 
-### 活在今天 (Living It Today)
+### 活在今天 · AI時代 (Living It Today)
 
-我們活在一個凡事追求「立即看到成果」的時代——投入了時間就要看見回報，禱告了就想立刻看見答案，做了一件對的事，就期待它今天、這週、最遲這個月結出果子。但希伯來書11章列出的每一位，沒有一個人是「投入信心、立刻看見成果」的：亞伯拉罕沒有活著看見迦南真正屬於他的後裔；摩西沒有踏進應許之地；他們「都是存著信心死的，並沒有得著所應許的」。這對今天的我們是一記提醒：如果你正在做一件你相信是對的事——教養一個孩子、堅持一段誠實卻艱難的婚姻、在一份看不出果效的服事裡忠心——而你還沒有看見成果，你不是信心失敗了，你只是還站在11章的名單裡，還沒有走到12章。
+我們活在一個凡事追求「立即看到成果」的時代——投入了時間就要看見回報，禱告了就想立刻看見答案，做了一件對的事，就期待它今天、這週、最遲這個月結出果子。但希伯來書11章列出的每一位，沒有一個人是「投入信心、立刻看見成果」的：亞伯拉罕沒有活著看見迦南真正屬於他的後裔；摩西沒有踏進應許之地；他們「都是存著信心死的，並沒有得著所應許的」。這對今天的我們是一記提醒：如果你正在做一件你相信是對的事——教養一個孩子、堅持一段誠實卻艱難的婚姻、在一份看不出果效的服事裏忠心——而你還沒有看見成果，你不是信心失敗了，你只是還站在11章的名單裏，還沒有走到12章。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+### 今天的祭壇 (Today's Altar)
 
-信心堂走到最後，作者沒有給任何一位英雄一個「圓滿結局」的收場——「這些人都是因信得了美好的證據，卻仍未得著所應許的」（11:39）。這不是一個令人洩氣的結尾，是整章最重要的一句話：他們的信心是真實的、蒙神稱許的，但成就不在他們手裡完成，「因為神給我們預備了更美的事，叫他們若不與我們同得，就不能完全」（11:40）。你今天所站的位置——已經認識耶穌、已經活在應許成就之後——正是他們一生用信心換來、卻沒有活著看見的那一件「更美的事」。他們的信心故事，缺了你這一章，還不完整；而你今天的信心故事，若沒有接上他們留下的接力棒，也還沒有開始。
+- **早晨**：讀 11:6——「人非有信，就不能得神的喜悅」。今天先確認你信的那位「賞賜尋求他的人」。
+- **晚上**：省察——今天我有沒有一個決定，是憑眼見作的？換成憑信，會有甚麼不同？
+- **一個行動**：找出一件你「還沒有看見成就」的禱告，今天為它感謝神一次——不是再求一次，是先謝。
+
+---
+
+## 鑰詞深讀：實底 (Key Word — ὑπόστασις)
+
+### 一、11:1 那個字，第一章出現過
+
+> ^1^信就是所望之事的**實底**，是未見之事的確據。
+
+ὑπόστασις——這個字在希伯來書出現三次：
+
+| 經文 | 譯法 | 指甚麼 |
+|------|------|------|
+| 1:3 | 「神**本體**的真像」 | 神的實質、真實存在 |
+| 3:14 | 「將起初確實的**信心**堅持到底」 | 確信、立場 |
+| **11:1** | **「所望之事的實底」** | **使所望之事成為實在的那個東西** |
+
+\textcolor{ScriptureGold}{\textbf{同一個字，第一章用來說神的本體，第十一章用來說你的信心。這不是巧合——信心之所以是「實底」，因為它扣在那個「本體」上。}}
+
+### 二、ὑπόστασις 字面是「站在下面的東西」
+
+ὑπό（下面）+ στάσις（站立）。
+
+在當時的商業文書裏，這個字用來指**地契、產權證明**——你人還沒到那塊地，但你手上那張紙已經使它是你的了。
+
+**11:1 不是說「信心讓你感覺未來是真的」，是說「信心是未來的所有權證明」。**
+
+### 三、「沒有得著」的那一半
+
+11 章前半反覆說「因著信……得了」：得了美好的證據、得了應許、得了兒子。
+
+11:39 卻收在這裏：
+
+> ^39^這些人都是因信得了美好的證據，**卻仍未得著所應許的**。
+
+| 得著的 | 沒得著的 |
+|------|------|
+| 亞伯拉罕得了以撒 | 卻沒有得著那城（11:10, 16） |
+| 挪亞得了方舟 | 卻沒有看見洪水之後的救恩 |
+| 摩西出了埃及 | 卻沒有進迦南 |
+| 11:33-35a 得勝的一群 | 11:35b-38 被鋸鋸死的一群 |
+
+**兩半用的是同一個詞：「因著信」。**\textcolor{ScriptureGold}{\textbf{信心不保證結果相同，只保證所望的那一位相同。}}
+
+### 四、11:40 是全章的鑰匙
+
+> ^40^因為神給我們預備了更美的事，叫他們若不與我們同得，就不能完全。
+
+**舊約的聖徒在等我們。**他們的「完全」要等到基督裏的救恩成就——而那已經成就了。
+
+所以 12:1 才說：「我們既有這許多的見證人，如同雲彩圍著我們。」**他們不是觀眾，他們是在同一場賽事裏、已經跑完自己那一段的人。**
+
+### 五、逼近核心的一問
+
+> 如果神今生不成就你最想要的那一件事，你還信祂嗎？
+
+11:39 說，信心堂裏那些人，一生都是這個答案。**而神稱他們為「美好的證據」。**
+
+---
+
+## 老弟兄精義 (The Distilled Key)
+
+信心堂走到最後，作者沒有給任何一位英雄一個「圓滿結局」的收場——「這些人都是因信得了美好的證據，卻仍未得著所應許的」（11:39）。這不是一個令人洩氣的結尾，是整章最重要的一句話：他們的信心是真實的、蒙神稱許的，但成就不在他們手裏完成，「因為神給我們預備了更美的事，叫他們若不與我們同得，就不能完全」（11:40）。你今天所站的位置——已經認識耶穌、已經活在應許成就之後——正是他們一生用信心換來、卻沒有活著看見的那一件「更美的事」。他們的信心故事，缺了你這一章，還不完整；而你今天的信心故事，若沒有接上他們留下的接力棒，也還沒有開始。
 
 ---
 
@@ -323,28 +444,28 @@ publisher: 三書精讀出版系統
 
 4. **信心的代價**：我願意為信仰付上代價嗎？如果遇到逼迫，我會堅持還是放棄？
 
-5. **信心的榜樣**：在11章的信心見證人中，哪一位最激勵你？為什麼？
+5. **信心的榜樣**：在11章的信心見證人中，哪一位最激勵你？為甚麼？
 
 ### 禱告回應
 
-主啊，感謝祢給我們這麼多信心的見證人，讓我看見信心不是空洞的理論，而是活出來的行動。求祢加增我的信心，使我對所望之事有實底，對未見之事有確據。幫助我像列祖一樣，承認自己是客旅、是寄居的，渴慕那更美的天上家鄉。求祢也幫助我，在「還沒有得著所應許的」這段等候裡，不喪膽、不轉身回頭走安全的老路，而是像他們一樣，存著信心堅持到底，仰望那位為我信心創始成終的耶穌。奉主耶穌基督的名禱告，阿們。
+主啊，感謝祢給我們這麼多信心的見證人，讓我看見信心不是空洞的理論，而是活出來的行動。求祢加增我的信心，使我對所望之事有實底，對未見之事有確據。幫助我像列祖一樣，承認自己是客旅、是寄居的，渴慕那更美的天上家鄉。求祢也幫助我，在「還沒有得著所應許的」這段等候裏，不喪膽、不轉身回頭走安全的老路，而是像他們一樣，存著信心堅持到底，仰望那位為我信心創始成終的耶穌。奉主耶穌基督的名禱告，阿們。
 
 ---
 
 ## 反思問題 (Reflection Questions)
 
-1. 希伯來書11:1如何定義信心？「實底」和「確據」有什麼不同？
+1. 希伯來書11:1如何定義信心？「實底」和「確據」有甚麼不同？
 
-2. 為什麼「人非有信就不能得神的喜悅」？信心為什麼如此重要？
+2. 為甚麼「人非有信就不能得神的喜悅」？信心為甚麼如此重要？
 
-3. 信心見證人「並沒有得著所應許的」——這對我們理解信心有什麼意義？
+3. 信心見證人「並沒有得著所應許的」——這對我們理解信心有甚麼意義？
 
-4. 「本是世界不配有的人」——這句話如何評價信心見證人？這對我們有什麼鼓勵？
+4. 「本是世界不配有的人」——這句話如何評價信心見證人？這對我們有甚麼鼓勵？
 
 5. 「神給我們預備了更美的事」——舊約聖徒與新約信徒如何一同「達到完全」？
 
 ---
 
-*本章整合：黃長老式查經、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章整合：老弟兄查經、John MacArthur (gty.org)、G. Campbell Morgan*
 
 *三書精讀項目 · 希伯來書研讀 · 11-信心的榜樣*

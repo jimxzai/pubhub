@@ -97,7 +97,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 兩座城、兩個女人的最終對照 (Two Cities, Two Women — The Final Contrast)
 

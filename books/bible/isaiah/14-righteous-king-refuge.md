@@ -117,7 +117,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 真正的避難所是一個人，不是一個地方
 

@@ -84,7 +84,7 @@
 
 ---
 
-## 7.5 神學要點 (Theological Points)
+## 7.5 領受要點 (Truths Received)
 
 ### 1. 真聖殿
 

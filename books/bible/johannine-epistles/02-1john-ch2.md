@@ -88,7 +88,7 @@
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 認識神的證據
 

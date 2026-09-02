@@ -92,7 +92,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 得勝的群體早已站穩，審判尚未開始 (The Overcoming Company Already Stands Firm Before Judgment Unfolds)
 

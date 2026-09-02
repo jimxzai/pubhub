@@ -89,7 +89,7 @@
 
 ---
 
-## 18.5 神學要點 (Theological Points)
+## 18.5 領受要點 (Truths Received)
 
 ### 1. 第五個「我是」：復活在我，生命也在我
 

@@ -48,7 +48,7 @@ publisher: 三書精讀出版系統
 
 > ^1^Then I saw a new heaven and a new earth; for the first heaven and the first earth passed away, and there is no longer *any* sea. ^2^And I saw the holy city, new Jerusalem, coming down out of heaven from God, made ready as a bride adorned for her husband. ^3^And I heard a loud voice from the throne, saying, 'Behold, the tabernacle of God is among men, and He will dwell among them, and they shall be His people, and God Himself will be among them, ^4^and He will wipe away every tear from their eyes; and there will no longer be *any* death; there will no longer be *any* mourning, or crying, or pain; the first things have passed away.'
 
-> ^5^And He who sits on the throne said, \jesus{'Behold, I am making all things new.'} And He said, \jesus{'Write, for these words are faithful and true.'} ^6^Then He said to me, \jesus{'It is done. I am the Alpha and the Omega, the beginning and the end. I will give to the one who thirsts from the spring of the water of life without cost. ^7^'He who overcomes will inherit these things, and I will be his God and he will be My son. ^8^'But for the cowardly and unbelieving and abominable and murderers and immoral persons and sorcerers and idolaters and all liars, their part *will be* in the lake that burns with fire and brimstone, which is the second death.'}
+> ^5^And He who sits on the throne said, \jesus{'Behold, I am making all things new.'} And He said, \jesus{'Write, for these words are faithful and true.'} ^6^Then He said to me, \jesus{'It is done. I am the Alpha and the Omega, the beginning and the end. I will give to the one who thirsts from the spring of the water of life without cost. ^7^'He who overcomes will inherit these things, and I will be his God and he will be My son. ^8^'But for the cowardly and unbelieving and abominable and murderers and immoral persons and sorcerers and idolaters and all liars, their part \textit{will be} in the lake that burns with fire and brimstone, which is the second death.'}
 
 ---
 
@@ -81,7 +81,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 創世記的失落，在此全部贖回 (Everything Lost in Genesis Is Redeemed Here)
 

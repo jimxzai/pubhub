@@ -97,7 +97,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 神學要點 (Theological Points)
+## 領受要點 (Truths Received)
 
 ### 1. 審判帶著出埃及的記號，指向拯救而非單純毀滅 (Judgment Bears the Marks of the Exodus, Pointing to Deliverance, Not Mere Destruction)
 

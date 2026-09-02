@@ -110,7 +110,7 @@
 
 ---
 
-## 33.5 神學要點 (Theological Points)
+## 33.5 領受要點 (Truths Received)
 
 ### 1. 復活身體的特性
 
