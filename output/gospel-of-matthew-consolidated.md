@@ -345,7 +345,7 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 
 ### 講道預備
 
-「背景 + 原文研讀 + 歷代注疏」是講章的材料層，「鑰詞深讀」提供一條貫穿全章的主線，「你看見耶穌了嗎」通常可以直接作結語的骨架。摩根與麥克阿瑟兩節凡出現處均附出處，可回原書或 gty.org 追讀（少數章因查無可靠材料而從缺，寧缺不補）。
+「背景 + 原文研讀 + 歷代注疏」是講章的材料層，「鑰詞深讀」提供一條貫穿全章的主線，「你看見耶穌了嗎」通常可以直接作結語的骨架。每章的摩根與麥克阿瑟兩節都附出處，可回原書或 gty.org 追讀。
 
 ---
 
@@ -4469,6 +4469,10 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 
 摩根也留意到9:36的憐憫與9:9「你跟從我來」之間的連貫：憐憫先催生了對個人的呼召（馬太），再催生對群眾的呼召（工人）——**個人的蒙召，總是通向群體的差遣。**
 
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟在講道《Receiving the Sinner, Refusing the Righteous, Part 2》（1980年12月7日，論太9:9-17）中指出，主呼召的對象，正是迦百農人眼中「稅吏中的稅吏」——馬太自己也毫不掩飾這個稱號；主一句「你跟從我來」，他就起來跟從了。麥克阿瑟特別強調9:13「我喜愛憐恤，不喜愛祭祀」這句話的分量：法利賽人所要的是儀式上的潔淨，主所要的卻是憐憫的心腸——不是外在的宗教操演，是回轉的心。（撮述自 John MacArthur, *Receiving the Sinner/Refusing the Righteous, Part 2*, Grace to You, gty.org, sermon 2264）
+
 ---
 
 ## 詩篇與聖詩 (Psalm & Hymn)
@@ -5861,6 +5865,10 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 摩根把這七個比喻理解為對「天國奧祕」的漸進揭示——不是七個互不相關的小故事，而是同一個奧祕從不同角度被照亮：**神的道如何進入人心、天國如何在混雜的世界中增長、天國的價值如何配得上人傾盡所有去換取**。他對芥菜種與麵酵提出的「負面解讀」（見上文各節），提醒天國的增長並不保證純淨。他在藏寶、尋珠兩個比喻上提出的「基督尋見教會」視角，把整章的重心從「人的委身」翻轉為「基督捨己的愛」：**奧祕的揭開，最終指向的不是人多會找，是神多肯捨。**
 
 > 出處：G. Campbell Morgan, *The Gospel According to Matthew* / *Exposition on the Whole Bible*, on Matthew 13（轉引自 bibliaplus.org）
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟在《Kingdom Parables, Part 1》（1982年3月14日，論太13:1-2）開講整個天國比喻系列時指出，耶穌用這些「有隱藏含義的真實故事」，是要回答歷代信徒都會問的問題：天國是甚麼？在哪裏可以找到？要進去需要甚麼條件？它已經開始了，還是尚未來到？麥克阿瑟認為，第十三章這七個比喻的功用，正是要界定天國、說明進入的門檻、並描繪國內與國外兩種光景——好叫信徒學會「活得像已經在天上，卻仍活在地上」。（撮述自 John MacArthur, *Kingdom Parables, Part 1*, Grace to You, gty.org, sermon 2297）
 
 ---
 
@@ -10156,6 +10164,14 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 
 **潘霍華 (Dietrich Bonhoeffer, 1906-1945)**：潘霍華論客西馬尼園時指出，耶穌在園中所經歷的，正是祂自己所要求門徒付上的代價——順服到底，即或杯不能離開；祂沒有繞過這代價，而是親自先付上了。（撮述自 Bonhoeffer, *Nachfolge*〈追隨基督〉論代價的門徒訓練要旨）
 
+### 摩根 (G. Campbell Morgan)
+
+摩根論這一章時說，逾越節的筵席耶穌與十二門徒（連同那背叛祂的一人）同席，是這節期歷代以來守得最莊嚴的一次——舊約的筵席在此走到盡頭，而猶大的同席與離去，正標記著「舊」對這一位的態度。摩根論客西馬尼園的語氣尤其低沉：他說沒有言語能幫助我們默想主在客西馬尼那黑暗時刻的心境，惟有存著敬畏、安靜地讀這幾節經文，走近祂受苦的聖地。（撮述自 G. Campbell Morgan, *The Gospel According to Matthew*，論太26章，轉引自 bibliaplus.org）
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟在講道《The Last Passover, Part 2》（1984年11月25日，論太26:20-30）中指出，這是神所命定、合法可行的最後一次逾越節——一千五百年來的節期，在耶穌手中被終結，同時被祂設立為新的記念筵席。祂拿起餅說「這是我的身體」，拿起杯說「這是我立約的血」，是在宣告：立約向來需要流血為憑（來9:22「若不流血，罪就不得赦免了」），而祂自己的身體與血，正是這新約真正的憑據。（撮述自 John MacArthur, *The Last Passover, Part 2*, Grace to You, gty.org, sermon 2383）
+
 ---
 
 ## 詩篇與聖詩 (Psalm & Hymn)
@@ -11132,6 +11148,9 @@ Isaac Watts寫這首聖詩時，把目光定在十字架上——不是作為歷
 | *Solving the Problem of Doubt* | 太11:1-6（施洗約翰的疑問） | https://www.gty.org/library/sermons-library/2285/solving-the-problem-of-doubt | 11 |
 | *Jesus' Personal Invitation, Part 1* | 太11:25-30（安息的邀請） | https://www.gty.org/library/sermons-library/2288/jesus-personal-invitation-part-1 | 11 |
 | *The Lord of the Sabbath* | 太12:1-8（安息日的主） | https://www.gty.org/library/sermons-library/2290/the-lord-of-the-sabbath | 12 |
+| *Receiving the Sinner/Refusing the Righteous, Part 2* | 太9:9-17（呼召馬太） | https://www.gty.org/library/sermons-library/2264/receiving-the-sinnerrefusing-the-righteous-part-2 | 09 |
+| *Kingdom Parables, Part 1* | 太13:1-2（天國比喻總論） | https://www.gty.org/library/sermons-library/2297/kingdom-parables-part-1 | 13 |
+| *The Last Passover, Part 2* | 太26:20-30（最後的晚餐） | https://gty.org/library/sermons-library/2383/the-last-passover-part-2 | 26 |
 
 ### 未附網址的概述性引述
 
@@ -11158,6 +11177,7 @@ Isaac Watts寫這首聖詩時，把目光定在十字架上——不是作為歷
 | 太11章施洗約翰在獄中的處境；責備不悔改的城；安息的邀請 | 11 |
 | 太12章對基督的四波攻擊（安息日爭議、別西卜指控、求神蹟、家人誤解） | 12 |
 | 太13章七個比喻是「天國奧祕」漸進揭示的整體觀察 | 13 |
+| 太26章逾越節筵席的莊嚴（猶大的同席標記「舊」的態度）；客西馬尼園當存敬畏靜默默想 | 26 |
 
 ### 未附網址的概述性引述
 

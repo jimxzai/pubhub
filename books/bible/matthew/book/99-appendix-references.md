@@ -25,6 +25,9 @@ publisher: 三書精讀出版系統
 | *Solving the Problem of Doubt* | 太11:1-6（施洗約翰的疑問） | https://www.gty.org/library/sermons-library/2285/solving-the-problem-of-doubt | 11 |
 | *Jesus' Personal Invitation, Part 1* | 太11:25-30（安息的邀請） | https://www.gty.org/library/sermons-library/2288/jesus-personal-invitation-part-1 | 11 |
 | *The Lord of the Sabbath* | 太12:1-8（安息日的主） | https://www.gty.org/library/sermons-library/2290/the-lord-of-the-sabbath | 12 |
+| *Receiving the Sinner/Refusing the Righteous, Part 2* | 太9:9-17（呼召馬太） | https://www.gty.org/library/sermons-library/2264/receiving-the-sinnerrefusing-the-righteous-part-2 | 09 |
+| *Kingdom Parables, Part 1* | 太13:1-2（天國比喻總論） | https://www.gty.org/library/sermons-library/2297/kingdom-parables-part-1 | 13 |
+| *The Last Passover, Part 2* | 太26:20-30（最後的晚餐） | https://gty.org/library/sermons-library/2383/the-last-passover-part-2 | 26 |
 
 ### 未附網址的概述性引述
 
@@ -51,6 +54,7 @@ publisher: 三書精讀出版系統
 | 太11章施洗約翰在獄中的處境；責備不悔改的城；安息的邀請 | 11 |
 | 太12章對基督的四波攻擊（安息日爭議、別西卜指控、求神蹟、家人誤解） | 12 |
 | 太13章七個比喻是「天國奧祕」漸進揭示的整體觀察 | 13 |
+| 太26章逾越節筵席的莊嚴（猶大的同席標記「舊」的態度）；客西馬尼園當存敬畏靜默默想 | 26 |
 
 ### 未附網址的概述性引述
 

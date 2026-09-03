@@ -325,6 +325,10 @@ publisher: 三書精讀出版系統
 
 > 出處：G. Campbell Morgan, *The Gospel According to Matthew* / *Exposition on the Whole Bible*, on Matthew 13（轉引自 bibliaplus.org）
 
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟在《Kingdom Parables, Part 1》（1982年3月14日，論太13:1-2）開講整個天國比喻系列時指出，耶穌用這些「有隱藏含義的真實故事」，是要回答歷代信徒都會問的問題：天國是甚麼？在哪裏可以找到？要進去需要甚麼條件？它已經開始了，還是尚未來到？麥克阿瑟認為，第十三章這七個比喻的功用，正是要界定天國、說明進入的門檻、並描繪國內與國外兩種光景——好叫信徒學會「活得像已經在天上，卻仍活在地上」。（撮述自 John MacArthur, *Kingdom Parables, Part 1*, Grace to You, gty.org, sermon 2297）
+
 ---
 
 ## 詩篇與聖詩 (Psalm & Hymn)
