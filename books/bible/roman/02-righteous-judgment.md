@@ -171,9 +171,15 @@ publisher: 三書精讀出版系統
 
 **「悲觀」與「樂觀」的張力**：摩根有一句已核實的逐字引句，說單讀到第3章結尾（3:20「都在罪惡之下」）為止，是「你眼睛所見過最悲觀的一頁文字」；讀下去到3:21「但如今」，就成了「你耳朵所聽過最樂觀的一首詩歌」（原文與完整出處見第3章「歷代注疏」）。2章正站在這兩極之間最悲觀的一端——它不留一條後路，但正因如此，3:21以後的樂觀才不是廉價的安慰，而是真正的好消息。
 
-**「不偏待人」與福音的普世性**：摩根對2:11「神不偏待人」的一貫論述可歸納為，這節經文不只是審判原則，也預告了整卷書後段的宣教邏輯——「先是猶太人，後是希利尼人」既是審判的次序，也是福音的次序（羅1:16）；神的公義若不偏待人，神的恩典同樣不偏待人。
+**審判的終極標準：基督與福音**：摩根指出，保羅論2:13-16猶太人與外邦人一同受審，最終的判準不落在律法知識本身，而是2:16「就在神藉耶穌基督審判人隱祕事的日子」——人格與行為最終的試驗，是人對這位救主的態度。
 
-> 出處：對 G. Campbell Morgan 羅馬書結構分析與一貫解經立場之一般性歸納，非逐字引句、未附具體篇章頁碼。
+> "the final test of character and of conduct is to be that of man's attitude to the Saviour. Evidently therefore the presentation of the Gospel is the last opportunity that man has; and equally evident is it, that every man must have this opportunity as the basis of judgment."
+>
+> 「人格與行為最終的試驗，在於人對這位救主的態度。福音的顯明顯然是人最後的機會；同樣顯然的是，每一個人都必須得著這個機會，作為審判的根基。」
+>
+> — G. Campbell Morgan, *The Analyzed Bible: Romans*, Fleming H. Revell, 1909, p. 38
+
+> 出處：「論證的修辭策略」一段，為對 G. Campbell Morgan 羅馬書結構分析一貫立場的一般性歸納，非逐字引句，經查證《The Analyzed Bible: Romans》(Fleming H. Revell, 1909) pp. 29-38相關章節，方向相符；「審判的終極標準：基督與福音」一段之逐字引句已核實，出處見上。
 
 ### 麥克阿瑟 (John MacArthur)
 

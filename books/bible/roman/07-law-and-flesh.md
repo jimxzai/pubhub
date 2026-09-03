@@ -192,9 +192,23 @@ publisher: 三書精讀出版系統
 
 ### 摩根 (G. Campbell Morgan)
 
-摩根一貫強調，保羅在第7章並非在攻擊律法，而是在為律法「平反」：律法從未被造出來拯救人，它被賜下是要顯明人需要拯救。若把第7章單獨抽出來讀，會得出一幅絕望的圖畫；但摩根提醒讀者，保羅寫這一章從來不是為了讓人停在這裏——7:25那聲「感謝神」已經是第8章的序曲，是保羅刻意讓福音的答案先於系統的論述闖進讀者心裏。這與摩根論第3章那句已核實的名言（見第3章「歷代注疏」）是同一種筆法：讀到絕望為止是最悲觀的一頁，讀下去到「感謝神」卻已轉為最樂觀的一首詩。
+摩根明確指出，保羅在第7章的立場是為律法「平反」，而非攻擊律法——保羅自己提出「律法是罪嗎？」的問題並斷然否認，最終的答案是：問題不在律法，而在那違犯律法、因而被律法定罪的人。
 
-> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章著作已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句（唯「悲觀／樂觀」一句之逐字引句已核實，出處見第3章）。
+> "It is not the law that is sin, but the one who, breaking it, is condemned by it."
+>
+> 「不是律法本身是罪，而是那違犯律法、因而被律法定罪的人。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Obligation of Grace〉, Fleming H. Revell, 1909, p. 98
+
+摩根也指出，第7章從絕望的呼喊「我真是苦啊」到隨即而來的「感謝神」，整段自白的作用，是要把律法之下人生所能達到的最高經歷揭示出來，並為第8章要描述的、從恩典而來的能力、自由與得勝鋪路。這與摩根論第3章那句已核實的名言（見第3章「歷代注疏」）是同一種筆法：讀到絕望為止是最悲觀的一頁，讀下去到「感謝神」卻已轉為最樂觀的一首詩。
+
+> "The whole paragraph, then, is a forceful revelation of the highest possible experience of the life under law, and prepares the way for the description of the power and freedom and triumph of the sanctified life, resulting from the operation of grace through Christ Jesus."
+>
+> 「這整段自白，是對律法之下人生所能達到之最高經歷的一次有力揭示，也為接下來要描述那藉基督耶穌、從恩典之工而來的能力、自由與得勝的成聖生命鋪了路。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Obligation of Grace — The Principle Illustrated〉, Fleming H. Revell, 1909, p. 104
+
+> 出處：以上兩段英文引句均逐字核對自 G. Campbell Morgan,《The Analyzed Bible: Romans》(1909)〈The Obligation of Grace〉一節原文（頁碼如上）；「悲觀／樂觀」一句之逐字引句已核實，出處見第3章「歷代注疏」。
 
 ### 麥克阿瑟 (John MacArthur)
 

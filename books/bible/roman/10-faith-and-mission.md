@@ -174,11 +174,27 @@ publisher: 三書精讀出版系統
 
 **律法的終點站**：摩根對10:4的一貫詮釋，是把「律法的總結」理解為一條路走到盡頭時看見的那座城——律法本身從不是目的地，是指路牌；當旅人終於抵達基督，指路牌完成了它的使命，不是被拋棄，而是被成全。
 
-**近在咫尺的福音**：摩根特別強調10:6-8保羅重新詮釋申命記30章的用意——舊約的百姓曾經以為神的話遙不可及，需要上天下海去尋找；保羅要說的是，如今在基督裏，這話已經「近」到不能再近——就在口中，就在心裏。摩根認為，這正是福音與一切宗教哲學最根本的分別：宗教哲學要人往外、往上去攀爬尋找；福音卻說，神已經先來到人這裏。
+**近在咫尺的福音**：摩根特別強調10:6-8保羅重新詮釋申命記30章的用意——舊約的百姓曾經以為神的話遙不可及，需要上天下海去尋找；保羅要說的是，如今在基督裏，這話已經「近」到不能再近：
 
-**宣教的鎖鏈**：摩根對10:14-15的討論，一貫強調這一連串反問句不是修辭裝飾，而是一條無法拆解的邏輯鎖鏈，每一環都不可少——教會若不差遣，就沒有傳講；沒有傳講，福音就無法「近」到還沒聽過的人身上。
+> "He need not be sought for in the height or the depth, for now He has indeed come. The word is nigh men, in the mouth and in the heart."
+>
+> 「不必到高處，也不必到深處去尋找祂，因為如今祂確實已經來到。這話已經臨近人，就在口裡，就在心裡。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.150
 
-> 出處：對 G. Campbell Morgan 羅馬書9-11章相關講章一貫解經立場的一般性歸納轉述，非逐字引句，未附具體篇章頁碼。
+摩根認為，這正是福音與一切宗教哲學最根本的分別：宗教哲學要人往外、往上去攀爬尋找；福音卻說，神已經先來到人這裏。
+
+**宣教的鎖鏈**：摩根對10:14-15的討論，一貫強調這一連串反問句不是修辭裝飾，而是一條無法拆解的邏輯鎖鏈，每一環都不可少：
+
+> "There can be no calling on One not believed in. There can be no belief in One not heard of. There can be no hearing without a preacher. There can be no preaching without a commission."
+>
+> 「不信，就不能求告；未曾聽見，就不能相信；沒有傳道的，就不能聽見；沒有奉差遣，就不能傳道。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.151
+
+教會若不差遣，就沒有傳講；沒有傳講，福音就無法「近」到還沒聽過的人身上。
+
+> 出處：核心論點已對照 G. Campbell Morgan,《The Analyzed Bible: Romans》(Fleming H. Revell, 1909) 逐段核校；直接引句已附出處與頁碼，其餘為對其一貫解經立場之歸納轉述。
 
 ### 麥克阿瑟 (John MacArthur)
 
