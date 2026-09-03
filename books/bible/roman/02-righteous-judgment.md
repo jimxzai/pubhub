@@ -141,29 +141,63 @@ publisher: 三書精讀出版系統
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-屈梭多模在他對羅馬書的講道中，一貫強調2:1的對象不只是猶太人，也包括當時異教哲學家中那些以道德教師自居、卻私下行惡的人——他認為保羅刻意不點名「猶太人」直到17節，正是要先讓每一位自認站在道德高處的讀者，不分猶太或外邦，都先在1-16節裏認出自己的臉。
+**2:1先指向掌權者，再指向每一個人**：屈梭多模認為保羅說「你這論斷人的」，首先是針對羅馬城裏手握世界統治權的人，但隨即擴及所有私人與平民——因為人人都在言談、集會和良心的投票裏審判別人：
 
-> 出處：屈梭多模《羅馬書講道集》(*Homilies on Romans*) 對2章一貫論證方式的一般性歸納，非逐字引句、未附具體講次篇號。
+> "These things he says, with an aim at the rulers, inasmuch as that city then had the rule of the world put into its hands."
+>
+> 「他說這些話，是針對掌權者，因為那城當時握有統治世界的權柄。」
+
+> "But when he says, whosoever you are that judgest, he is not addressing himself to the rulers only, but to private individuals and subjects also. For all men, even if they have no chair of state, nor executioners, nor stocks at command, yet even they judge those that offend, in conversations and public meetings ... and by the vote of their conscience."
+>
+> 「但當他說『你這論斷人的，無論你是誰』，他不只是對掌權者說，也是對私人和平民說。因為所有人，即使沒有審判席、沒有行刑人、沒有刑具可用，也照樣在言談裏、在公眾集會裏、憑良心的投票，審判那些犯錯的人。」（Chrysostom, *Homilies on Romans*, Homily 5, on 2:1）
+
+**對猶太人先從遠處拆牆，免得激怒他**：屈梭多模也注意到保羅在2章不急於點名猶太人；他的解釋不是讓讀者「先認出自己的臉」，而是保羅刻意先在「恩典之前」的年代裏拆除猶太人與希臘人的分別，好叫這話不惹人猜疑：
+
+> "Here then he is first breaking through the partition between the circumcision and the uncircumcision: and at a distance dissipates this distinction beforehand, so as to do it without being suspected"
+>
+> 「所以他在這裏先打破受割禮與未受割禮之間的隔牆，從遠處預先消解這個分別，好不惹人猜疑地做成此事。」（Homily 5, on 2:10）
+
+> 出處：Chrysostom, *Homilies on the Epistle to the Romans*, Homily 5（NPNF 英譯，New Advent 網站）；引文已核對。原撮述所稱「異教哲學家中以道德教師自居者」，經查證第5講未見，屈梭多模所指是羅馬的掌權者與一切私下論斷人的人，已依原文改正。
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-奧古斯丁的論著《論精神與字句》(*De Spiritu et Littera*, 主後412年) 正是以羅馬書（包括2:29的「儀文與靈」）為核心文本寫成，回應伯拉糾主義對人靠自己遵行律法之能力的樂觀看法。他的論點可以一般性地歸納為：律法若沒有聖靈同在，只能是「叫人死的儀文」——它顯明義的標準，卻不賜下遵行的能力；唯有聖靈將愛澆灌在心裏（羅5:5），律法才不再是外在的控告者，而成為內在生命的樣式。
+**沒有賜生命之靈的教導，就是叫人死的儀文**：奧古斯丁的論著《論精神與字句》(*De Spiritu et Littera*, 主後412年) 以羅馬書為主軸，回應伯拉糾主義對人靠自己遵行律法之能力的樂觀看法。他一開頭就界定甚麼是「叫人死的字句」：
 
-> 出處：Augustine, *De Spiritu et Littera*（《論精神與字句》）論題主旨之一般性歸納，非逐字引句。
+> "For that teaching which brings to us the command to live in chastity and righteousness is the letter that kills, unless accompanied with the spirit that gives life."
+>
+> 「那把貞潔與公義的命令帶給我們的教導，若沒有賜生命的靈相伴，就是叫人死的字句。」（Augustine, *On the Spirit and the Letter*, ch. 6 [IV]）
+
+律法顯明標準卻不賜能力；能力來自聖靈澆灌在心裏的愛（羅5:5）：
+
+> "Now, in order that such a course may engage our affections, God's love is shed abroad in our hearts, not through the free-will which arises from ourselves, but through the Holy Ghost, which is given to us."
+>
+> 「為要使這樣的道路得著我們的情感，神的愛澆灌在我們心裏，不是藉著出於我們自己的自由意志，而是藉著所賜給我們的聖靈。」（ch. 5 [III]）
+
+講到2:29的「心裏的割禮」，他說：
+
+> "He calls, however, the circumcision of the heart the will that is pure from all unlawful desire; which comes not from the letter, inculcating and threatening, but from the Spirit, assisting and healing."
+>
+> 「他所謂心裏的割禮，是指脫離一切不法慾望的潔淨意志；這不是從那反覆訓誡、威嚇的字句來的，而是從那扶助、醫治的聖靈來的。」（ch. 13 [VIII]）
+
+> 出處：Augustine, *De Spiritu et Littera*（《論精神與字句》；NPNF 英譯，New Advent 網站，章號依該版）；引文已核對，原撮述要旨經查證屬實。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他早年的《羅馬書講義》(*Lectures on Romans*, 1515-1516年羅馬書講義) 中，對羅馬書2章的一貫立場可歸納為：律法的其中一項功用，是把人的自義擊碎，讓他從「我能做到」的幻覺中驚醒，轉向基督——這後來在改教家的系統神學中被稱為律法的「神學性用途」(*usus theologicus* / *usus elenchticus*)：律法像鏡子，照出污穢，卻不能替人洗淨。
+路德在1515-1516年於威登堡講授羅馬書（後世稱《羅馬書講義》，*Lectures on Romans*）。他對羅馬書2章的立場，一般歸納為：律法的一項功用是把人的自義擊碎，讓他從「我能做到」的幻覺中驚醒，轉向基督——這後來在改教家的系統神學中被稱為律法的「神學性用途」(*usus theologicus* / *usus elenchticus*)：律法像鏡子，照出污穢，卻不能替人洗淨。
 
-> 出處：對路德《羅馬書講義》及其律法神學一貫立場的一般性歸納，非逐字引句、未附具體頁碼。
+> 出處：對路德律法神學一貫立場的一般性歸納，非逐字引句、未附頁碼。《羅馬書講義》現行英譯（Pauck 1961；LW 25）均受版權保護，本書無法逐句核對，故不加引號。路德曾在大學講授羅馬書一事，以他1545年《拉丁文著作全集序言》的自述為據（見第1章、第4章）。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《羅馬書註釋》(*Commentary on Romans*) 中對2:6「照各人的行為報應各人」的一貫解釋是：這節經文並不與因信稱義的教義衝突，因為審判「照行為」指的是行為作為信心真實與否的證據和果子，而非稱義的根基——真信心必然結出行為的果子，但果子從不是樹根本身。
+**「從賞賜推出功德，是荒謬的推論」**：加爾文在《羅馬書註釋》(*Commentary on Romans*) 處理2:6「照各人的行為報應各人」時，並不訴諸「行為是信心的果子」這類說法，而是直接指出：這節經文只說善行將得甚麼賞賜，完全沒有說善行值多少——神冠冕信徒的善行，不是因為功德，而是因為祂先定意榮耀誰，就先使誰成聖：
 
-> 出處：對加爾文《羅馬書註釋》處理2:6與因信稱義關係之一貫立場的一般性歸納，非逐字引句。
+> "as he sanctifies those whom he has previously resolved to glorify, he will also crown their good works, but not on account of any merit: nor can this be proved from this verse; for though it declares what reward good works are to have, it does yet by no means show what they are worth, or what price is due to them. And it is an absurd inference, to deduce merit from reward."
+>
+> 「祂既使那些祂先前定意要榮耀的人成聖，也必冠冕他們的善行，卻不是因為任何功德——這一點也無法從本節證明；因為本節雖宣告善行將得甚麼賞賜，卻絲毫沒有顯明善行值多少、該付甚麼代價。從賞賜推出功德，是荒謬的推論。」（Calvin, *Commentary on Romans*, on 2:6）
+
+> 出處：Calvin, *Commentary on the Epistle to the Romans*, on 2:6（John Owen 英譯，CCEL）；引文已核對。原撮述「行為作為信心真實與否的證據和果子」是改革宗通說，加爾文在2:6處的論法是「賞賜不等於功德」，已依原文改正。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -183,9 +217,29 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟對羅馬書2章的一貫解經立場可歸納為：這一章的猶太讀者代表著歷世歷代最危險的一種屬靈狀態——不是不認識神的道德標準，而是把「認識」本身誤當成「達到」，把擁有聖經的知識誤當成擁有聖經所要求的義。這正是他對全羅馬書「神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義」這一主題句（見〈羅馬書概覽〉）在2章的具體應用。
+麥克阿瑟講羅馬書 2:17-29 時，把猶太人的三重「安全感」——身為以色列人、擁有律法、受過割禮——逐一拆開。他的重點不是猶太人不認識神的標準，而是他們把「擁有」誤當成「遵守」，把「知道」誤當成「達到」。
 
-> 出處：對麥克阿瑟一貫解經立場之一般性歸納，未附具體 gty.org 講題連結或講道日期。
+**安息在「擁有」上，不是安息在「遵守」上**：
+
+> "They were resting in the possession of it rather than in the keeping of it, truly."
+>
+> 「他們安息在『擁有』律法這件事上，而不是真正安息在『遵守』律法上。」（45-22）
+
+> "Because to know God's will doesn't mean anything except you're more responsible, again, if you don't do it."
+>
+> 「因為知道神的旨意本身不代表甚麼——只代表你若不去行，責任更重。」（45-22）
+
+**字句不是關鍵，內在的人裏有沒有神的話才是**：
+
+> "Having the letter of the law, possessing the knowledge, isn't the issue. It is in the spirit, the soul, the inner self having the Word of God."
+>
+> 「擁有律法的字句、擁有那知識，不是關鍵。關鍵在於靈裏、魂裏、內在的人裏面有神的話。」（45-23）
+
+> "the man who has a false security needs to know how false it really is."
+>
+> 「一個抱著虛假安全感的人，需要知道那安全感究竟有多虛假。」（45-23）
+
+> — John MacArthur, *False Security, Part 1* (45-22), *False Security, Part 2* (45-23), gty.org, sermon 45-22 / 45-23（講道逐字稿已核對）
 
 ---
 

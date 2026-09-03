@@ -155,29 +155,75 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-歷史學界公認，奧古斯丁對恩典與預定論的成熟立場，是他在主後396年寫給辛普里齊安努（Simplicianus）的論著（*Ad Simplicianum*）中，正面處理羅馬書9章之後才確立的——在此之前，他的立場更接近「神的揀選建基於祂預知人將如何回應」；讀完9:11「不在乎人的行為，乃在乎召人的主」之後，他轉向一個更堅定的立場：揀選完全出於神主權的恩典，甚至信心本身也是神所賜的禮物，而非人憑自由意志所產生的功勞。這個轉折後來在他的反伯拉糾派著作（如《論聖徒的預定》）中系統化，深刻影響了後來一千多年西方教會對恩典的理解。
+**轉折是他自己記下的**：奧古斯丁對恩典與預定的成熟立場，是他在主後396年初任主教時寫給米蘭主教辛普里齊安努（Simplicianus）的論著（*Ad Simplicianum*）中，正面處理羅馬書9:10-29之後才確立的。晚年他在《論聖徒的預定》裏親口交代這段轉折。早先他以為揀選建基於神預知人將要相信：
 
-> 出處：對奧古斯丁恩典論轉折歷史的一般性學術歸納（其轉折過程見於學界對*Ad Simplicianum*與其反伯拉糾派著作的研究），非逐字引句。
+> "God did not therefore choose the works of any one in foreknowledge of what He Himself would give them, but he chose the faith, in the foreknowledge that He would choose that very person whom He foreknew would believe in Him"
+>
+> 「所以神不是憑預知祂自己將賜下甚麼而揀選人的行為，而是揀選了信心——祂預知那人將要信祂，就預定揀選那人。」（Augustine, *On the Predestination of the Saints*, ch. 7，自述其早期立場）
+
+到了處理羅馬書9章時，他發現自己守不住這個立場：
+
+> "In the solution of this question I laboured indeed on behalf of the free choice of the human will, but God's grace overcame"
+>
+> 「在解決這個問題時，我確實曾為人意志的自由抉擇竭力辯護，但神的恩典得勝了。」（Augustine, *On the Predestination of the Saints*, ch. 8，論寫給辛普里齊安努的第一卷）
+
+自此他的立場是：揀選完全出於神主權的恩典，連信心本身也是神所賜的禮物，而非人憑自由意志所產生的功勞。這個轉折後來在他的反伯拉糾派著作中系統化，深刻影響了後來一千多年西方教會對恩典的理解。
+
+> 出處：Augustine, *On the Predestination of the Saints* (428/429), ch. 7-8（NPNF1 vol. 5，New Advent 電子版），奧古斯丁自述其轉折，逐字引句；*Ad Simplicianum* 本身無公開英譯可查，本段依其自述轉述。
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-與奧古斯丁的走向不同，屈梭多模在《羅馬書講道集》（*Homilies on Romans*）論及9章時，更強調神的揀選與神的預知並不衝突，也更著力於為神的公義辯護，指出法老的剛硬是神使用了法老自己已有的悖逆心，而非神無緣無故使一個中立的人剛硬。東方教會傳統整體上較少走向奧古斯丁式對「揀選先於一切、不受任何人的因素影響」的強調。
+**揀選按預知，法老自己使自己剛硬**：與奧古斯丁的走向不同，屈梭多模在《羅馬書講道集》第16篇論雅各與以掃時，把揀選建立在神的預知上：
 
-> 出處：對屈梭多模《羅馬書講道集》一貫解經取向之一般性歸納轉述，非逐字引句。
+> "for this was a sign of foreknowledge, that they were chosen from the very birth. That the election made according to foreknowledge, might be manifestly of God, from the first day He at once saw and proclaimed which was good and which not."
+>
+> 「因為這正是預知的記號：他們從一出生就被揀選了。為要使這按預知而有的揀選顯明是出於神，祂從第一天起就同時看見並宣告了誰是好的、誰不是。」（Chrysostom, *Homilies on Romans*, Homily 16, on 9:11-12）
+
+論到法老，他著力為神的公義辯護，指出剛硬出於法老自己：
+
+> "Pharaoh was a vessel of wrath, that is, a man who by his own hard-heartedness had kindled the wrath of God."
+>
+> 「法老是可怒的器皿，就是說，一個因自己的硬心而點燃了神怒氣的人。」（Chrysostom, *Homilies on Romans*, Homily 16, on 9:22）
+
+對9:16「不在乎那定意的，也不在乎那奔跑的」，他也不肯讀成取消自由意志：
+
+> "he does not deprive us of free-will, but shows that all is not one's own, for that it requires grace from above."
+>
+> 「他並沒有剝奪我們的自由意志，只是顯明一切並非全靠自己，因為這需要從上頭來的恩典。」（同上，on 9:16）
+
+東方教會傳統整體上較少走向奧古斯丁式對「揀選先於一切、不受任何人的因素影響」的強調。
+
+> 出處：Chrysostom, *Homilies on Romans*, Homily 16（NPNF1 vol. 11，New Advent 電子版），以上三句均為逐字引句。
 
 ### 改革宗與阿民念傳統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》第三卷21-24章與其《羅馬書注釋》中，把羅馬書9章當作無條件揀選教義最重要的聖經根基之一：揀選完全出於神在創世以前的主權旨意，不受人預見的信心或行為所左右；雅各與以掃的例子正是明證——揀選發生在「善惡還沒有做出來」之前。
+**預定的定義，與雅各以掃的例證**：加爾文在《基督教要義》第三卷21-24章與其《羅馬書注釋》中，把羅馬書9章當作無條件揀選教義最重要的聖經根基之一。他先給預定下定義：
 
-> 出處：對加爾文《基督教要義》III.21-24及其《羅馬書注釋》一貫立場之一般性歸納轉述，非逐字引句。
+> "By predestination we mean the eternal decree of God, by which he determined with himself whatever he wished to happen with regard to every man. All are not created on equal terms, but some are preordained to eternal life, others to eternal damnation"
+>
+> 「我們所謂的預定，是指神永恆的旨意，祂藉此在自己裏面決定了祂願意臨到每一個人的事。並非所有人都在同等條件下被造：有些人被預定得永生，另一些人被預定受永刑。」（Calvin, *Institutes* III.21.5）
+
+然後以雅各與以掃駁斥「按預見的行為揀選」：
+
+> "If foreknowledge had anything to do with this distinction of the brothers, the mention of time would have been out of place. Granting that Jacob was elected for a worth to be obtained by future virtues, to what end did Paul say that he was not yet born?"
+>
+> 「若預知與這兩兄弟之間的分別有任何關係，經文提到時間就是多餘的了。就算雅各是因將來要有的美德而被揀選，保羅又何必說他還沒有出生？」（Calvin, *Institutes* III.22.4）
+
+《羅馬書注釋》論9:11亦同：
+
+> "Now indeed he openly ascribes the whole cause to the election of God, and that gratuitous, and in no way depending on men; so that in the salvation of the godly nothing higher (nihil superius) must be sought than the goodness of God, and nothing higher in the perdition of the reprobate than his just severity."
+>
+> 「如今他公開把全部原因歸於神的揀選——白白的、絲毫不倚賴人的揀選；因此在敬虔人的得救上，除神的良善以外不必再尋求更高的原因；在被棄者的滅亡上，除祂公義的嚴厲以外也不必再尋求更高的原因。」（Calvin, *Commentary on Romans*, on 9:11）
+
+> 出處：Calvin, *Institutes* III.21.5、III.22.4（Beveridge 英譯）；*Commentary on Romans*, on 9:11（CCEL calcom38, Owen 英譯），以上均為逐字引句。
 
 **雅各·阿民念與衛斯理傳統 (Jacobus Arminius, 1560-1609；John Wesley, 1703-1791)**：
 
 阿民念與後來的衛斯理傳統，並不否認神的揀選是主權的，但強調羅馬書9章的揀選，主要對象是雅各與以掃所代表的「民族角色」與「歷史使命」（誰承接應許的血脈、誰服事誰），而非每一個人永恆命運的個別預定；瑪拉基書1:2-3「雅各是我所愛的，以掃是我所惡的」，其上下文論的正是以東（以掃的後裔）作為一個國家的歷史命運，而非以掃個人死後的去向。這一支傳統也指出，「恨」（希伯來文*sane*）在閃族語言的比較用法中，常見的功能是「愛得較少」，如創世記29:31利亞被稱為「失寵的」（原文同一個詞根），並非字面上的憎恨。
 
-> 出處：對阿民念／衛斯理傳統及「民族揀選」釋經進路之一般性學術歸納轉述，非逐字引句。
+> 出處：對阿民念／衛斯理傳統及「民族揀選」釋經進路之一般性學術歸納轉述，非逐字引句。經查證《衛斯理日記》未見對應段落（衛斯理論預定的專文與阿民念著作不在本次核校文本之列）。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -213,9 +259,33 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟在其講道與注釋中，一貫從個人揀選的角度解讀羅馬書9章，認為窯匠與泥的意象正是要打破人以為自己有「天生的資格」向神提出要求的錯覺——受造物本來就無權質問造物主為何如此造他；同時他也強調，9:30-33才是全章的落腳點：以色列失敗的真正原因不是「沒有被揀選」，而是「用錯誤的方法（靠行為而非信心）追求義」。
+麥克阿瑟講羅馬書 9:19-33 時，一方面直講窯匠的權柄——受造之物無權把神帶到自己的法庭上受審；另一方面他明言不相信神造人是為了刑罰，並且在 9:30 處指出保羅「轉了彎」，講的是人的責任：外邦人得著義，不是因為蒙揀選，而是因為相信。
 
-> 出處：對麥克阿瑟一貫解經立場之一般性歸納轉述（未附具體講題與日期），非逐字引句。
+**窯匠有權**：
+
+> "A potter makes choices. Clay has no part in it. He has the power to do whatever he wants. He has the right to do whatever he wants."
+>
+> 「窯匠作選擇。泥沒有份。他有能力做他要做的任何事，也有權做他要做的任何事。」（45-73）
+
+> "Be satisfied to let God be God."
+>
+> 「甘心讓神作神。」（45-73）
+
+> "I do not believe that God claims the right to create sinful, damnable creatures in order to punish them."
+>
+> 「我不相信神聲稱自己有權造出有罪、該受咒詛的受造物，只為了刑罰他們。」（45-73）
+
+**9:30 轉向人的責任**：
+
+> "He's now turned a corner and he's talking about human responsibility."
+>
+> 「他此刻轉了一個彎，講的是人的責任。」（45-74）
+
+> "The Gentile got it not because he was elect, but because he believed. That's the balance of human responsibility."
+>
+> 「外邦人得著了，不是因為他蒙揀選，而是因為他相信。這就是人的責任這一端的平衡。」（45-74）
+
+> — John MacArthur, *Is Israel's Unbelief Inconsistent with God's Plan? Part 3* (45-73), *Is Israel's Unbelief Inconsistent with God's Plan? Part 4* (45-74), gty.org, sermon 45-73 / 45-74（講道逐字稿已核對）
 
 ### 當代學界的多元聲音
 

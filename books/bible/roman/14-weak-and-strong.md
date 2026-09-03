@@ -169,11 +169,55 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：屈梭多模在他對羅馬書的講道傳統中一貫指出，14章的爭議雙方都需要被糾正——他強調保羅並非簡單站在「剛強」一方為自由辯護，而是把責任更多地放在剛強者身上：知識若不受愛的約束，反而成為傷害弟兄的武器；真正的剛強，是有能力自我節制，而非有資格任意而行。
+**屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
+
+**雙方都要被糾正**：屈梭多模在第二十五篇講道開頭就說明，保羅面對的是兩種人——守律法飲食規條的軟弱者，和責備、逼迫他們的「較長進者」；保羅的智慧在於兩邊都顧到，責備的話對準每一方。
+
+> "For neither does he venture to say to those who rebuke, You are doing amiss, that he may not seem to be confirming the other in their observances; nor again, You are doing right, lest he should make them the more vehement accusers: but he makes his rebuke to square with each. And in appearance he is rebuking the stronger, but he pours forth all he has to say against the other in his address to these."
+>
+> 「他既不敢對那些責備人的說『你們做錯了』，免得像是在肯定另一方的規條；也不說『你們做得對』，免得叫他們成為更猛烈的控訴者：他的責備是量著各方而發的。表面上他是在責備剛強的一方，卻是在對這些人的話裏，把他要對另一方說的全都傾倒出來。」（Chrysostom, *Homilies on Romans*, Homily 25, on 14:1）
+
+**為何先打剛強的一方**：不是因為剛強者錯得更多，而是因為軟弱者更需要照顧——
+
+> "For the weaker part ever requires more forethought. Wherefore he aims his blow against the strong, immediately saying as follows, Him that is weak in the faith."
+>
+> 「因為軟弱的一方總需要更多的顧念。所以他把打擊對準剛強的，立刻這樣說：信心軟弱的。」（同上）
+
+**真正的剛強是俯就**：論到14:21，他指出保羅要求的不只是不勉強弟兄，而是主動遷就——
+
+> "Again, he requires the greater alternative, that they should not only not force him, but even condescend to him. ... For nothing is so important as your brother's salvation."
+>
+> 「他再一次要求更高的那一種：不但不勉強他，還要俯就他……因為沒有甚麼比你弟兄的救恩更要緊。」（同上，Homily 26, on 14:21）
+
+> 以上引文據 New Advent 所載 NPNF 英譯本逐字核對，中譯為編者所譯。本書前一版所述「知識若不受愛的約束，反而成為傷害弟兄的武器」一語，經查證《羅馬書講道集》第25、26篇未見對應段落（該思路出自林前8章的語境），已刪去。
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin, 1509-1564)**：加爾文在他對羅馬書的解經傳統中一貫強調，14:1「不要辯論所疑惑的事」劃出了教會紀律的重要界線——並非一切分歧都值得、或應當帶進公開的爭論，教會領袖必須有智慧分辨哪些是信仰的根基、哪些是良心可以自由持守的次要之事；他也一貫指出14:23「凡不出於信心的都是罪」教導的是一個普遍原則——凡不是出於對神真確信靠而做的事，無論這事本身好壞，對行事的人而言都帶有虧欠神的性質。
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+**剛強是為了扶持，不是為了壓制**：加爾文論14:1，把整段的目的定為「在基督教義上長進最多的人，應當遷就較無知的人」——
+
+> "For God, by making us stronger than others, does not bestow strength that we may oppress the weak; nor is it the part of Christian wisdom to be above measure insolent, and to despise others. The import then of what he addresses to the more intelligent and the already confirmed, is this, -- that the ampler the grace which they had received from the Lord, the more bound they were to help their neighbors."
+>
+> 「神使我們比別人剛強，並不是賜下力量叫我們欺壓軟弱的人；過分傲慢、藐視他人，也不是基督徒的智慧。他對較明白、已經堅固的人所說的話，要旨是：他們從主所領受的恩典越豐厚，就越有責任幫助鄰舍。」（Calvin, *Commentary on Romans*, on 14:1）
+
+**「不要辯論所疑惑的事」**：加爾文的解釋不是教會紀律的分界，而是教導上的體貼——不要用無益的爭論叫軟弱的良心不安，要按各人所能承受的施教。
+
+> "It may at the same time be proper to extend this farther, even to any thorny and difficult questions, by which weak consciences, without any edification, may be disquieted and disturbed. We ought then to consider what questions any one is able to bear, and to accommodate our teaching to the capacity of individuals."
+>
+> 「同時也不妨把這話推廣，及於一切棘手難解的問題——這些問題毫無造就，只會叫軟弱的良心不安、受攪擾。所以我們應當思量各人能承受甚麼問題，使我們的教導配合個人的程度。」（同上）
+
+**「凡不出於信心的都是罪」**：論14:23，他讀出一個普遍原則——
+
+> "The reason for this condemnation is, that every work, however splendid and excellent in appearance, is counted as sin, except it be founded on a right conscience; for God regards not the outward display, but the inward obedience of the heart, by this alone is an estimate made of our works."
+>
+> 「這定罪的理由是：任何行為，無論外表多麼輝煌美好，若不是建立在正直的良心上，都算為罪；因為神看的不是外面的展示，而是心裏的順服，惟獨憑這一點衡量我們的行為。」（同上，on 14:23）
+
+> "The word faith is to be taken here for a fixed persuasion of the mind, or, so to speak, for a firm assurance, and not that of any kind, but what is derived from the truth of God."
+>
+> 「這裏的『信心』，應當理解為心思中定準的信念，或者說，一種堅固的確據——不是隨便哪一種，而是出於神真理的那一種。」（同上）
+
+> 以上引文據 CCEL 所載 John Owen 英譯《羅馬書註釋》逐字核對，中譯為編者所譯。本書前一版所述 14:1「劃出教會紀律的界線……分辨信仰根基與次要之事」，經查證加爾文原文未見此說，已按原文改寫。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -201,9 +245,23 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫指出，14章討論的不是道德是非分明的罪與義的問題，而是「可爭議事項」（disputable matters）——他強調現代教會常常把這類事項（飲食、生活方式選擇、文化習俗等）錯誤地提升到與福音教義同等的地位，因而製造了保羅在此極力要避免的紛爭；他也一貫強調14:17是理解神國本質的關鍵經文——神的國度不是一套外在規條，而是聖靈在信徒生命中所產生的公義、和平、喜樂。
+麥克阿瑟講羅馬書 14 章時，把爭端的性質定為「非道德性的偏好」——做與不做本身不是罪，卻能在教會裏變成極嚴重的問題；講 14:17 時，他把「神的國」解為靠恩典、藉信心得救的範圍，因此教會不是為了推廣外在事物而存在。
 
-**誠實說明**：以上屈梭多模、加爾文、麥克阿瑟、坎伯·摩根之陳述，均為對其著作與講道傳統中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份或講題可逐字查核的原始引句。羅馬皇帝革老丟於主後49年逐猶太人出羅馬一事，乃真實可考的歷史事件（蘇埃托尼烏斯《革老丟傳》25.4；使徒行傳18:2），此處僅作歷史背景之如實描述；其與羅馬書14章張力之關聯，乃學界普遍接受但無法百分之百確證的歷史重建，本書已以「很可能」「一般認為」等措辭誠實標明，未作過度肯定之歷史宣稱。
+> "But here you have what we will call non-moral preferences, that we want to talk about here, non-moral preferences. In other words, it isn't necessarily a sin issue in and of itself to do or not do these kinds of things we're talking about, but it can become a very, very serious issue in the church"
+>
+> 「這裏所講的，我們可以稱之為『非道德性的偏好』。換句話說，做或不做我們談的這類事，本身未必是罪的問題，卻可能在教會裏變成一個非常、非常嚴重的問題。」（45-108）
+
+> "“Kingdom” here refers to the sphere of salvation by grace through faith where God rules in Christ over the souls of those who believe."
+>
+> 「這裏的『國』指的是靠恩典、藉信心得救的範圍——神在基督裏在信的人心裏掌權的範圍。」（45-111）
+
+> "In other words, we're not here to promote externals, are we?"
+>
+> 「換句話說，我們在這裏不是為了推廣外在的事物，對吧？」（45-111）
+
+> — John MacArthur, *Receiving One Another with Understanding, Part 1* (45-108), *Building Up One Another Without Offending, Part 2* (45-111), gty.org, sermon 45-108 / 45-111（講道逐字稿已核對）
+
+**誠實說明**：以上屈梭多模引句已逐字對照 New Advent 所載 NPNF 英譯《羅馬書講道集》第25、26篇核實，加爾文引句已逐字對照 CCEL 所載 John Owen 英譯《羅馬書註釋》核實，出處附於各句之後；坎伯·摩根之陳述，為對其著作與講道傳統中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份可逐字查核的原始引句；麥克阿瑟引句已逐句對照 gty.org 講道逐字稿核實，講道編號附於各句之後。羅馬皇帝革老丟於主後49年逐猶太人出羅馬一事，乃真實可考的歷史事件（蘇埃托尼烏斯《革老丟傳》25.4；使徒行傳18:2），此處僅作歷史背景之如實描述；其與羅馬書14章張力之關聯，乃學界普遍接受但無法百分之百確證的歷史重建，本書已以「很可能」「一般認為」等措辭誠實標明，未作過度肯定之歷史宣稱。
 
 ---
 

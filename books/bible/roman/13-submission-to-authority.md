@@ -162,29 +162,99 @@ publisher: 三書精讀出版系統
 
 **屈梭多模 (John Chrysostom, 約347-407)**：
 
-屈梭多模在他對羅馬書的講道中一貫強調，13:1的教導對象是所有人，甚至包括修士與教牧人員——沒有人可以自認屬靈到不受地上秩序約束。他區分了「權柄本身作為一種制度」與「掌權之人的品行」：制度出於神的安排，個別掌權者的惡行則是另一回事，人不能因某個統治者的邪惡就宣稱整個政治秩序不出於神。
+**「人人」包括使徒、祭司與修士**：屈梭多模在第二十三篇講道開頭指出，保羅說「在上有權柄的，人人當順服」，正是要把使徒、傳福音者、先知一併納入——沒有人可以自認屬靈到不受地上秩序約束。
 
-> 以上為屈梭多模對羅馬書13章一貫解經立場之綜合歸納轉述，非逐字引句。
+> "And to show that these regulations are for all, even for priests, and monks, and not for men of secular occupations only, he has made this plan at the outset, by saying as follows: let every soul be subject unto the higher powers, if you be an Apostle even, or an Evangelist, or a Prophet, or anything whatsoever, inasmuch as this subjection is not subversive of religion."
+>
+> 「為了表明這些規定是給所有人的——連祭司與修士也在內，不單是給從事屬世職業的人——他一開始便這樣佈局，說：在上有權柄的，人人當順服；你就是使徒也罷、傳福音的也罷、先知也罷，或無論是甚麼人，因為這樣的順服並不顛覆敬虔。」（Chrysostom, *Homilies on Romans*, Homily 23, on 13:1）
+
+**「權柄本身」與「個別掌權者」之分**：他借一個設問，把制度與掌權之人分開——制度出於神的安排，個別統治者的惡行則是另一回事。
+
+> "What say you? It may be said; is every ruler then elected by God? This I do not say, he answers. Nor am I now speaking about individual rulers, but about the thing in itself. For that there should be rulers, and some rule and others be ruled, and that all things should not just be carried on in one confusion, the people swaying like waves in this direction and that; this, I say, is the work of God's wisdom."
+>
+> 「你說甚麼？有人會問：那麼每一個統治者都是神所揀選的嗎？他答：我不是這樣說。我此刻談的不是個別的統治者，而是這件事本身。要有統治者，有人治理、有人受治，萬事不至於一片混亂、百姓像波浪般東倒西歪——我說，這正是神智慧的工作。」（同上，on 13:1）
+
+> "For do not tell me of some one who makes an ill use of the thing, but look to the good order that is in the institution itself, and you will see the great wisdom of Him who enacted this law from the first."
+>
+> 「不要對我說某某人濫用了這件事，倒要看制度本身裏面的良好秩序，你就會看見那位起初立下這法則者的大智慧。」（同上，on 13:6）
+
+> 以上引文據 New Advent 所載 NPNF 英譯本（*Homilies on Romans*, Homily 23）逐字核對；中譯為編者所譯。
 
 **奧古斯丁 (Augustine, 354-430)——「拿起來，讀」**：
 
-羅馬書13章在教會歷史上最著名、也最有據可查的場景，發生在主後386年米蘭的一座花園裏。奧古斯丁在《懺悔錄》第八卷第十二章親筆記述：他當時內心正被罪與信仰的拉扯撕裂，痛哭倒在一棵無花果樹下，忽然聽見隔壁院子傳來一個孩子反覆吟唱的聲音：「拿起來，讀；拿起來，讀」（*tolle lege, tolle lege*）。他絞盡腦汁回想是否有哪種兒童遊戲用這句話當歌詞，卻想不起來，於是把這當作神對他的命令——起身走回朋友亞利比烏（Alypius）坐著的長椅，那裏放著一卷保羅書信，他隨手翻開，第一眼看到的正是羅馬書13:13-14：「不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒……總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。」奧古斯丁自己寫道：「我不需要再讀下去了……剎那間，一道確信的光注入我心，一切疑惑的幽暗盡都消散。」亞利比烏隨後翻到下一節（14:1「信心軟弱的，你們要接納」），也把這句話應用在自己身上，同時歸信。這場面沒有任何誇飾的必要——它本身就是教會歷史上記載最詳實、影響最深遠的歸信事件之一，而觸發它的，正是這段論「披戴基督」的經文。
+羅馬書13章在教會歷史上最著名、也最有據可查的場景，發生在主後386年米蘭的一座花園裏。奧古斯丁在《懺悔錄》第八卷第十二章親筆記述：他當時內心正被罪與信仰的拉扯撕裂，痛哭倒在一棵無花果樹下，忽然聽見鄰舍傳來一個孩子反覆吟唱的聲音：「拿起來，讀；拿起來，讀」（*tolle lege, tolle lege*）。
 
-> 以上敘事與引句撮述自 Augustine, *Confessions* VIII.12.29（英譯本如 E. B. Pusey 譯本內容一致，經 newadvent.org／ccel.org 核對，中文為本書譯述，非逐字對照原文之學術翻譯）。
+> "I heard the voice as of a boy or girl, I know not which, coming from a neighbouring house, chanting, and oft repeating, Take up and read; take up and read. Immediately my countenance was changed, and I began most earnestly to consider whether it was usual for children in any kind of game to sing such words; nor could I remember ever to have heard the like."
+>
+> 「我聽見一個聲音，像是男孩或女孩的——我不知道是哪一個——從鄰舍傳來，吟唱著、反覆說著：拿起來，讀；拿起來，讀。我的臉色立刻變了，開始極認真地思想：孩子們在甚麼遊戲裏會唱這樣的話？卻想不起曾聽過類似的。」（Augustine, *Confessions* VIII.12.29）
+
+他把這當作神對他的命令——起身走回朋友亞利比烏（Alypius）坐著的地方，那裏放著一卷保羅書信，他隨手翻開，第一眼看到的正是羅馬書13:13-14：「不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒……總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。」
+
+> "I grasped, opened, and in silence read that paragraph on which my eyes first fell ... No further would I read, nor did I need; for instantly, as the sentence ended — by a light, as it were, of security infused into my heart — all the gloom of doubt vanished away."
+>
+> 「我抓起書，打開，默默讀我目光最先落到的那一段……我不需要再讀下去了，也不必；因為那句話一讀完，剎那間，彷彿一道確信的光注入我心，一切疑惑的幽暗盡都消散。」（同上）
+
+亞利比烏隨後翻到下一節（14:1「信心軟弱的，你們要接納」），也把這句話應用在自己身上，同時歸信：
+
+> "He asked to look at what I had read. I showed him; and he looked even further than I had read, and I knew not what followed. This it was, verily, Him that is weak in the faith, receive"
+>
+> 「他要看我讀了甚麼。我給他看；他比我讀得更遠，讀到我還不知道的下文。那正是：信心軟弱的，你們要接納。」（同上，VIII.12.30）
+
+這場面沒有任何誇飾的必要——它本身就是教會歷史上記載最詳實、影響最深遠的歸信事件之一，而觸發它的，正是這段論「披戴基督」的經文。
+
+> 以上敘事與引句出自 Augustine, *Confessions* VIII.12.29-30；英文據 newadvent.org 所載 J. G. Pilkington 英譯本（NPNF 第一系列第一卷）逐字核對，中譯為編者所譯。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)——兩個國度的教義**：
 
-路德在1523年的論著《論屬世的權柄：應當服從到甚麼程度》(*Temporal Authority: To What Extent It Should Be Obeyed*) 中，正是以羅馬書13章為根基，發展出他著名的「兩個國度」教義：神用兩種方式治理世界——藉著福音與聖靈治理教會（屬靈的國度），藉著律法與刀劍治理世上的秩序（屬世的國度）。兩者都出於神，卻不可混淆：教會不該用刀劍推行信仰，政權也不該僭越屬靈的職分。
+路德在1523年的論著《論屬世的權柄：應當服從到甚麼程度》(*Temporal Authority: To What Extent It Should Be Obeyed*；Schindel 英譯題為 *Secular Authority*) 中，以羅馬書13章與彼得前書2章立定屬世權柄出於神，並由此發展出他著名的「兩個國度」教義：
 
-> 以上為路德《論屬世的權柄》一貫論述精神之綜合轉述，非逐字引句。
+> "For this reason God has ordained the two governments; the spiritual, which by the Holy Spirit under Christ makes Christians and pious people, and the secular, which restrains the unchristian and wicked so that they must needs keep the peace outwardly, even against their will. So Paul interprets the secular sword, Romans 13:3, and says it is not a terror to good works, but to the evil."
+>
+> 「因此神設立了兩種治理：屬靈的治理，藉聖靈在基督之下使人成為基督徒、成為敬虔的人；屬世的治理，約束不信與邪惡的人，使他們即使不情願，也必須在外面守住和平。保羅正是這樣解釋屬世的刀劍——羅馬書13:3——說它不是叫行善的懼怕，乃是叫作惡的懼怕。」（Luther, *Secular Authority: To What Extent It Should Be Obeyed*, Part I）
+
+> "For this reason these two kingdoms must be sharply distinguished, and both be permitted to remain; the one to produce piety, the other to bring about external peace and prevent evil deeds; neither is sufficient in the world without the other."
+>
+> 「因此這兩個國度必須清楚分開，也都必須容許存留：一個產生敬虔，另一個帶來外在的和平、防止惡行；在這世界上，缺了哪一個，另一個都不夠用。」（同上）
+
+兩者都出於神，卻不可混淆。政權不該僭越屬靈的職分——
+
+> "Worldly government has laws which extend no farther than to life and property and what is external upon earth. For over the soul God can and will let no one rule but Himself. Therefore, where temporal power presumes to prescribe laws for the soul, it encroaches upon God's government and only misleads and destroys the souls."
+>
+> 「屬世政府的法律，所及不過生命、財產與地上外在的事。至於靈魂，除了神自己，神不能也不願讓任何人治理。所以屬世權力若擅自為靈魂立法，就是侵犯神的治理，只會誤導並毀壞靈魂。」（同上，Part II）
+
+——而信仰也不能靠刀劍推行：
+
+> "Heresy can never be prevented by force. ... Heresy is a spiritual matter, which no iron can strike, no fire burn, no water drown. God's Word alone avails here"
+>
+> 「異端永不能靠武力防止……異端是屬靈的事，鐵打不著，火燒不掉，水淹不滅。惟有神的話在這裏有用。」（同上，Part II）
+
+> 以上引文據 J. J. Schindel 英譯 *Secular Authority: To What Extent It Should Be Obeyed*（*Works of Martin Luther*, vol. 3, Philadelphia, 1930）逐字核對；該版本無現代標準頁碼可附，故以篇章標示；中譯為編者所譯。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》第四卷第二十章專論「公民政府」，肯定政權出於神的設立、應受尊重，但同時清楚劃出界線：當地上的掌權者「悖逆神、興起敵擋神」時，順服神必須優先於順服人——他引用使徒行傳5:29作結。加爾文的立場正是本章「背景」一節所強調的張力的經典表述：政權的權柄是被賦予的、有從屬性的，不是絕對的。
+加爾文在《羅馬書註釋》論13:1時，與屈梭多模一樣把「治理的權利」和「暴政」分開：
 
-> 以上為加爾文《基督教要義》第四卷第二十章一貫論述精神之綜合轉述，非逐字引句。
+> "For though tyrannies and unjust exercise of power, as they are full of disorder, (ataxias) are not an ordained government; yet the right of government is ordained by God for the wellbeing of mankind."
+>
+> 「因為暴政與不義的弄權，既充滿混亂，就不是神所設立的治理；然而治理的權利本身，卻是神為人類的福祉所設立的。」（Calvin, *Commentary on Romans*, on 13:1）
+
+他在《基督教要義》第四卷第二十章專論「公民政府」，肯定政權出於神的設立、應受尊重，但在該章最後一節清楚劃出界線：順服掌權者，只能是「在主裏」的順服。
+
+> "We are subject to the men who rule over us, but subject only in the Lord. If they command anything against Him let us not pay the least regard to it, nor be moved by all the dignity which they possess as magistrates--a dignity to which no injury is done when it is subordinated to the special and truly supreme power of God."
+>
+> 「我們順服那些治理我們的人，但只是在主裏順服。他們若吩咐任何違背祂的事，我們就絲毫不必理會，也不必被他們作為官長所有的一切尊榮所動——那尊榮被置於神獨特而真正至高的權柄之下時，並未受到任何損害。」（Calvin, *Institutes* IV.20.32）
+
+他正是引用使徒行傳5:29作結：
+
+> "But since Peter, one of heaven's heralds, has published the edict, 'We ought to obey God rather than men' (Acts 5:29), let us console ourselves with the thought, that we are rendering the obedience which the Lord requires, when we endure anything rather than turn aside from piety."
+>
+> 「但既然天上的使者之一彼得已頒布這道諭令：『順從神，不順從人，是應當的』（徒5:29），我們就當以此自慰：當我們寧可忍受一切也不偏離敬虔時，我們所獻上的，正是主所要求的順服。」（同上）
+
+加爾文的立場正是本章「背景」一節所強調的張力的經典表述：政權的權柄是被賦予的、有從屬性的，不是絕對的。
+
+> 以上引文分別據 CCEL 所載 John Owen 英譯《羅馬書註釋》及 Henry Beveridge 英譯《基督教要義》逐字核對；中譯為編者所譯。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -204,9 +274,17 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟一貫指出，羅馬書13章教導的政權觀，是神在墮落世界中維持公共秩序、抑制罪惡蔓延的普遍恩典安排；信徒對政權的順服，出於對神主權安排的信靠，而非對任何具體政權的政治認同——當政權的要求與神的命令直接衝突時，「順從神勝於順從人」的原則始終優先。
+麥克阿瑟講羅馬書 13:1-5 時，把信徒順服政權的根據放在政權「抑制罪惡」這個功能上——即使是他當時點名的共產政權也在抑制罪惡；而信徒違抗政權的唯一時刻，是「順從神勝於順從人」的那一刻。
 
-> 以上為麥克阿瑟一貫解經立場之綜合歸納轉述，非逐字引句、未附具體講題或日期。
+> "And that tells us that we are to submit to the government because government serves to restrain evil."
+>
+> 「這告訴我們，我們要順服政權，因為政權的作用是抑制罪惡。」（45-98）
+
+> "We ought to obey God rather than men. That's the only time a Christian comes to the point of tension where he must violate his government."
+>
+> 「我們應當順從神勝於順從人。那是一個基督徒唯一會走到必須違抗政權這種張力的時刻。」（45-97）
+
+> — John MacArthur, *The Christian's Responsibility to Government, Part 1* (45-97), *The Christian's Responsibility to Government, Part 2* (45-98), gty.org, sermon 45-97 / 45-98（講道逐字稿已核對）
 
 ---
 

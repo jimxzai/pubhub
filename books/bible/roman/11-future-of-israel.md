@@ -157,13 +157,43 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**奧古斯丁 (Augustine, 354-430)**：奧古斯丁在論恩典與自由意志的著作中反覆處理「揀選出於恩典，不憑行為」（11:6）這一原則，將其視為對抗任何形式「靠功德稱義」思想的核心經文之一——恩典若摻入人的功勞就不再是恩典，這個邏輯貫穿他晚年與伯拉糾主義的論戰。（此為對其一貫神學立場之一般性歸納，並非逐字引句。）
+**奧古斯丁 (Augustine, 354-430)**：
+
+**「不然恩典就不是恩典了」**：奧古斯丁在《論恩典與自由意志》中反覆以11:5-6對抗任何形式的「靠功德得恩」：
+
+> "Grace, however, is not bestowed according to men's deserts; otherwise grace would be no longer grace. ... For grace is so designated because it is given gratuitously."
+>
+> 「然而恩典不是按人的功勞賜下的；不然恩典就不再是恩典了。……恩典之所以稱為恩典，正因它是白白給的。」（Augustine, *On Grace and Free Will*, ch. 43）
+
+> "But most certainly there is no prevenient merit, otherwise the grace would be no longer grace."
+>
+> 「但可以完全確定：沒有甚麼先在的功勞，不然恩典就不再是恩典了。」（同上，ch. 44）
+
+恩典若摻入人的功勞就不再是恩典——這個邏輯貫穿他晚年與伯拉糾主義的論戰。
+
+> 出處：Augustine, *On Grace and Free Will* (426/427), ch. 43-44（NPNF1 vol. 5，New Advent 電子版），逐字引句。
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin, 1509-1564)**：加爾文在其《羅馬書註釋》中，傾向將11:26「以色列全家都要得救」理解為神歷世歷代所揀選之百姓的完整數目——既包括蒙恩的猶太餘民，也包括藉信心被接上的外邦信徒，兩者合成一個屬靈意義上的「以色列全家」，而非單指未來某次猶太民族的整體歸信事件。這是他解經傳統中一個持續受討論、也持續有人商榷的具體立場。（此為對其註釋一貫立場之一般性歸納，非逐字引句。）
+**約翰·加爾文 (John Calvin, 1509-1564)**：
 
-**與加爾文立場不同的改革宗聲音**：二十世紀改革宗學者約翰·慕理（John Murray）在其羅馬書註釋中則主張11:26確實指向猶太民族未來一次大規模的歸信，與加爾文的讀法形成改革宗傳統內部真實存在的分歧——本書如實並陳，讀者可自行進一步查考兩人原著比較。
+**「以色列全家」——擴大為神全體的百姓**：加爾文在《羅馬書註釋》論11:26，明言自己與「許多人」的讀法不同：
+
+> "Many understand this of the Jewish people, as though Paul had said, that religion would again be restored among them as before: but I extend the word Israel to all the people of God"
+>
+> 「許多人把這話理解為指猶太民族，好像保羅是說宗教會像從前一樣在他們中間復興；但我把『以色列』一詞擴大為指神全體的百姓。」（Calvin, *Commentary on Romans*, on 11:26）
+
+但要留意，他並未把猶太人排除在外，而是把猶太人的回轉包含在「全以色列」的完成之中：
+
+> "When the Gentiles shall come in, the Jews also shall return from their defection to the obedience of faith; and thus shall be completed the salvation of the whole Israel of God, which must be gathered from both; and yet in such a way that the Jews shall obtain the first place, being as it were the first-born in God's family."
+>
+> 「當外邦人進來的時候，猶太人也要從他們的背離回轉，歸於信心的順服；這樣，神全以色列的救恩就得以完成——它必須從兩方聚集而成；然而猶太人要得首位，好像是神家中的長子。」（同上）
+
+這是他解經傳統中一個持續受討論、也持續有人商榷的具體立場。
+
+> 出處：Calvin, *Commentary on Romans*（CCEL calcom38, Owen 英譯），on 11:26，逐字引句。前版撮述稱其讀法「非單指未來某次猶太民族的整體歸信」，原文確係如此，但亦明言猶太人將回轉歸信，已補足。
+
+**與加爾文立場不同的改革宗聲音**：二十世紀改革宗學者約翰·慕理（John Murray）在其羅馬書註釋中則主張11:26確實指向猶太民族未來一次大規模的歸信，與加爾文的讀法形成改革宗傳統內部真實存在的分歧——本書如實並陳，讀者可自行進一步查考兩人原著比較。（此為對其《羅馬書註釋》(1965) 立場之一般性歸納，非逐字引句。）
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -185,7 +215,21 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫持守未來論／時代論的解經立場，主張「以色列全家得救」指向歷史終末、基督再來前後，將會有大規模猶太民族性的歸信——這是他在羅馬書相關教導與著作中公開、可查證的一貫立場，本書在此僅作一般性歸納轉述，非逐字引句。
+麥克阿瑟講羅馬書 11:16-29 時，明白持守「以色列全家得救」指以色列民族將來的歸信，並認為任何別的讀法都對不起經文。
+
+> "So, it's possible, it's probable, it's promised. Are you ready for this? It's positive."
+>
+> 「所以，這是可能的，這是很可能的，這是應許了的。你準備好了嗎？這是確定的。」（45-86）
+
+> "And please, there is no way to interpret that other than as the nation Israel and be fair with the text, no way."
+>
+> 「而且拜託，要對經文公道，這句話除了指以色列這個民族之外，沒有別的解法，沒有。」（45-87）
+
+> "Now those are just samples of the Old Testament prophecies that cause us to believe that there must be in the future salvation to the nation Israel. Anything else does not do justice to the biblical text."
+>
+> 「以上只是舊約預言的幾個樣本，它們使我們相信：以色列民族將來必然得救。任何別的說法都對不起聖經的經文。」（45-87）
+
+> — John MacArthur, *Has God Cancelled His Promises to Israel? Part 5* (45-86), *Has God Cancelled His Promises to Israel? Part 6* (45-87), gty.org, sermon 45-86 / 45-87（講道逐字稿已核對）
 
 ---
 

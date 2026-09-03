@@ -104,21 +104,35 @@ publisher: 三書精讀出版系統
 
 ### 約翰·麥克阿瑟 (John MacArthur)
 
-**論羅馬書主題**:
+以下四段引句於 2026 年 9 月 2 日逐句對照原文核實；英文原文在前，編者中譯在後。
 
-> 「羅馬書的主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義——這榮耀的真理。」
+**論羅馬書主題**（*The MacArthur Study Bible*，羅馬書導論〈Historical and Theological Themes〉；文字經 blueletterbible.org 所載該導論核對）:
 
-**論稱義的本質**:
+> "The overarching theme of Romans is the righteousness that comes from God: the glorious truth that God justifies guilty, condemned sinners by grace alone through faith in Christ alone."
+>
+> 「羅馬書的總主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義——這榮耀的真理。」
 
-> 「稱義在神學意義上是法律術語。它描述神對信徒的宣告，而非神對信徒的改變。稱義超越單純的赦免；單是赦免仍使罪人在神面前沒有功德。因此當神稱人為義時，祂將神聖的義歸算給罪人。」
+**論稱義的本質**（John MacArthur, "Justification by Faith", Grace to You 文章 A194, gty.org）:
 
-**論羅馬書4章亞伯拉罕的信**:
+> "In its theological sense, justification is a forensic, or purely legal, term. It describes what God declares about the believer, not what He does to change the believer."
+>
+> 「就神學意義而言，稱義是一個法庭的、純粹法律性的用語。它描述的是神對信徒的宣告，而不是神對信徒所作的改變。」
 
-> 「『算』(*logizomai*) 這個詞非常重要——意思是『記在某人賬上、歸算、算為』。亞伯拉罕的信被算為義——這是稱義教義的核心。」
+> "Justification is more than simple pardon; pardon alone would still leave the sinner without merit before God. So when God justifies He imputes divine righteousness to the sinner (Romans 4:22-25)."
+>
+> 「稱義超過單純的赦免；單是赦免，仍使罪人在神面前沒有功德。所以神稱人為義時，祂把神聖的義歸算給罪人（羅 4:22-25）。」
 
-**論稱義的益處**:
+**論羅馬書 4 章「算」字**（講道 *Abraham--Justified by Faith, Part 1*，gty.org, sermon 45-34，1982 年 6 月 20 日）:
 
-> 「稱義將信徒提升到完全蒙接納和在基督耶穌裏享有神聖特權的境界。因此，因著稱義，信徒不僅完全免於任何定罪的指控（羅8:33），而且基督的全部功德都歸算在他們個人賬上。」
+> "And what does it mean, logizomai? It means “to credit to one's account, to put to one's account, to reckon, to impute to one.” And what it's saying is that because he believed, God imputed to him, put to his account, a righteousness which Abraham on his own did not possess. That's the whole point."
+>
+> 「logizomai 是甚麼意思？意思是『記在某人賬上、歸到某人賬上、算為、歸算給某人』。這裏說的是：因為他信，神就把一個亞伯拉罕自己並不擁有的義歸算給他、記在他賬上。這就是全部的要點。」
+
+**論稱義的益處**（同上 "Justification by Faith" 一文）:
+
+> "So justification elevates the believer to a realm of full acceptance and divine privilege in Jesus Christ. Therefore, because of justification, believers not only are perfectly free from any charge of guilt (Romans 8:33) but also have the full merit of Christ reckoned to their personal account (Romans 5:17)."
+>
+> 「所以，稱義把信徒提升到在基督耶穌裏完全蒙接納、享有神聖特權的境界。因此，因著稱義，信徒不但完全免於任何罪責的指控（羅 8:33），基督的全部功德也都歸算在他們個人的賬上（羅 5:17）。」
 
 ### 坎伯·摩根 (G. Campbell Morgan)
 

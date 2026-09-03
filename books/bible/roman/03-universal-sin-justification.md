@@ -178,11 +178,49 @@ publisher: 三書精讀出版系統
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他1522年為德文新約所寫的〈羅馬書序言〉（Preface to the Epistle to the Romans）中，稱羅馬書全卷是「新約中最重要的部分，是最純正的福音」（"the chief part of the New Testament, and is truly the purest Gospel"，與本書第1章所引為同一句話）——而3:21-26正是這卷「最純正的福音」的核心段落。他後來整個宗教改革的突破，正是在苦讀羅馬書、特別是「神的義」這個片語的過程中發生的——他從原先懼怕「神的義」（以為指神審判人的公義標準），到終於明白這是神「賜給」人、人可以因信領受的義。
+**「最純正的福音」與「樂園之門」**：路德在1522年為德文新約所寫的〈羅馬書序言〉（Preface to the Epistle to the Romans）開頭說：
+
+> "This letter is truly the most important piece in the New Testament. It is purest Gospel."
+>
+> 「這封信實在是新約中最重要的一篇。它是最純正的福音。」（Luther, *Preface to the Epistle to the Romans*, 1522, trans. Andrew Thornton；與本書第1章所引為同一句）
+
+而3:21-26正是這卷「最純正的福音」的核心段落。路德整個宗教改革的突破，是在苦讀羅馬書、特別是「神的義」這個片語的過程中發生的——他從懼怕「神的義」（以為指神審判人的公義標準），到明白這是神賜給人、人因信領受的義。他在1545年的回顧裏這樣說：
+
+> "I began to understand that this verse means that the justice of God is revealed through the Gospel, but it is a passive justice, i.e. that by which the merciful God justifies us by faith"
+>
+> 「我開始明白這一節的意思是：神的義藉著福音顯明出來，但它是一種被動的義，就是憐憫的神藉以因信稱我們為義的那個義。」
+
+> "This phrase of Paul was for me the very gate of paradise."
+>
+> 「保羅這句話對我來說，就是樂園之門。」（Luther, *Preface to the Complete Edition of Luther's Latin Works*, 1545, trans. Andrew Thornton, Project Wittenberg；全段見第1章）
+
+> 出處：兩篇序言均用 Andrew Thornton 英譯（Project Wittenberg）；引文已核對。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》與其羅馬書註釋中，將3:21-26視為因信稱義教義的源頭經文（此為對其一貫解經立場的一般性歸納，非逐字引句）。他反覆強調：稱義是神法庭上的宣告行為（*acceptilatio*，會計用語，意指債務已被勾銷），而非把人實際改造成義人的過程；人的義完全是「歸算的義」（*imputed righteousness*）——基督的義被算在信徒的賬上，正如信徒的罪被算在基督的賬上。
+**稱義是神法庭上的宣告，不是改造**：加爾文在《基督教要義》卷三第11章給稱義下定義時，用的字是「接納」(acceptance) 與「歸算」(imputation)，而不是把人實際改造成義人：
+
+> "Thus we simply interpret justification, as the acceptance with which God receives us into his favor as if we were righteous; and we say that this justification consists in the forgiveness of sins and the imputation of the righteousness of Christ"
+>
+> 「所以我們簡單地把稱義解釋為：神接納我們進入祂的恩眷，如同我們是義的；我們說這稱義包含赦罪與基督之義的歸算。」（Calvin, *Institutes* III.11.2）
+
+> "To justify, therefore, is nothing else than to acquit from the charge of guilt, as if innocence were proved."
+>
+> 「因此，稱義不是別的，就是從罪的控告中宣告無罪，如同清白已經證明。」（*Institutes* III.11.3）
+
+他在同章引3:24、3:26作經文根據，並在章末把「歸算」與哥林多後書5:21的交換連起來——基督的義被算在信徒賬上，而信徒本身仍是該受刑罰的人：
+
+> "the righteousness of Christ is communicated to him by imputation, while he is strictly deserving of punishment."
+>
+> 「基督的義藉著歸算傳給他，而他本身嚴格說來是該受刑罰的。」（*Institutes* III.11.23）
+
+在《羅馬書註釋》論3:21，加爾文說保羅把對行為的一切信靠拿走之後，單單立起憐憫：
+
+> "but having taken away and wholly removed all confidence in works, he sets up mercy alone."
+>
+> 「他把對行為的一切信靠都拿走、完全除去之後，就單單立起憐憫。」（Calvin, *Commentary on Romans*, on 3:21）
+
+> 出處：Calvin, *Institutes of the Christian Religion* III.11.2, 3, 23（Beveridge 英譯）；*Commentary on Romans*, on 3:21（Owen 英譯，CCEL）；引文已核對。原撮述稱加爾文用「*acceptilatio*（會計用語，債務勾銷）」一詞，經查證《要義》與《羅馬書註釋》英譯均無此詞，加爾文用的是 acceptance 與 imputation，已改正。
 
 **歷史事實補充**：宗教改革「唯獨信心、唯獨恩典」（*sola fide, sola gratia*）的教義主張，其最直接的聖經根基正是羅馬書3:21-31這一段——這是教會歷史上可查證的事實，不是後人附會。
 
@@ -214,13 +252,29 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**（沿用〈羅馬書概覽〉引句，論羅馬書因信稱義相關）：
+麥克阿瑟講羅馬書 3:21-26 時，先劃清「律法」一詞在此指的是人為的律法主義，再把稱義定義為神的一次宣告——真實的宣告無罪、真實的歸算，而且是白白的禮物。
 
-> 「稱義在神學意義上是法律術語。它描述神對信徒的宣告，而非神對信徒的改變。稱義超越單純的赦免；單是赦免仍使罪人在神面前沒有功德。因此當神稱人為義時，祂將神聖的義歸算給罪人。」
+**義是「在律法以外」——與任何人為努力無關**：
 
-> 「稱義將信徒提升到完全蒙接納和在基督耶穌裏享有神聖特權的境界。因此，因著稱義，信徒不僅完全免於任何定罪的指控（羅8:33），而且基督的全部功德都歸算在他們個人賬上。」
+> "He says this righteousness is apart from the law and I believe very clearly he uses the word there in the sense of legalism. It is apart from any man-made human effort."
+>
+> 「他說這義是在律法以外；我認為他在這裏用『律法』一詞，明顯是指律法主義。這義與任何人為的努力無關。」（45-29）
 
-> 出處：沿用〈羅馬書概覽〉引句，論羅馬書3-4章因信稱義主題；未附具體講題日期或原始出處連結，詳見附錄二〈參考資料〉。
+**稱義是一次真實的宣告無罪、真實的歸算**：
+
+> "Now I believe we are made right with God, an actual acquittal, an actual imputation. And how? Freely by His grace. Freely means as a gift."
+>
+> 「我相信我們得以在神面前為義，是一次真實的宣告無罪、一次真實的歸算。怎麼來的？白白地，靠祂的恩典。白白，意思就是作為禮物。」（45-30）
+
+**這是一個法律行動**（講羅 4:3 時回頭總結 3 章的稱義）：
+
+> "That's a legal act. Righteousness is put on your account. It's like being a beggar, a pauper, and having nothing, and having the world's richest person put in the bank a fortune to your account; it belongs to you."
+>
+> 「那是一個法律行動。義被記在你的賬上。就像一個乞丐、一個一無所有的窮人，世上最富有的人把一筆財富存進銀行記在你的賬上；它就屬於你了。」（45-34）
+
+> — John MacArthur, *How to Be Right with God, Part 1* (45-29), *How to Be Right with God, Part 2* (45-30), *Abraham--Justified by Faith, Part 1* (45-34), gty.org, sermon 45-29 / 45-30 / 45-34（講道逐字稿已核對）
+
+〈羅馬書概覽〉所收「稱義在神學意義上是法律術語……」與「稱義將信徒提升到……」兩段中譯引句，疑出自麥克阿瑟的印刷著作，未能以 gty.org 線上逐字稿核對，本章不再沿用；其論點已由上列講道原句涵蓋。
 
 ---
 

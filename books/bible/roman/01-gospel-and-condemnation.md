@@ -151,19 +151,71 @@ publisher: 三書精讀出版系統
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-以下為對其《羅馬書講道集》(*Homilies on the Epistle to the Romans*) 一貫解經立場的一般性、綜合性歸納，非逐字引句——屈梭多模一再強調，保羅在1:1稱自己是基督的「僕人」(*doulos*，奴僕) 在先，才自稱「使徒」，順序不是偶然：先降服，才有差遣；這也呼應他對整卷羅馬書的觀察——福音的能力不是靠雄辯的言詞（1:16「不以福音為恥」），而是靠十字架本身的大能，這對當時羅馬社會以修辭學論高下的文化，是刻意的對照。
+**「僕人」是最高的尊稱**：屈梭多模注意到保羅在1:1先自稱基督的「僕人」(*doulos*)，但他的重點不在「先降服、後差遣」的次序，而在保羅把奴僕這個稱呼放在最高尊榮的位置上：
+
+> "Since then, in all the forms of the marvellous servitude, Paul was a servant, this he puts in the room of the greatest title of dignity, saying, a servant of Jesus Christ."
+>
+> 「既然在各種奇妙的僕役裏保羅都是僕人，他就把這稱呼放在最高尊榮頭銜的位置上，說：耶穌基督的僕人。」（Chrysostom, *Homilies on Romans*, Homily 1, on 1:1）
+
+講到1:5「我們從他受了恩惠並使徒的職分」，他又補一句：
+
+> "See the candor of the servant. He wishes nothing to be his own, but all his Master's."
+>
+> 「看這僕人的坦率：他不願有一樣是自己的，全都是主人的。」（Homily 1, on 1:5）
+
+**不以福音為恥，是對修辭文化的刻意對照**：屈梭多模解釋保羅為何在1:16只說「不以為恥」而不說「以此誇口」——羅馬人因財富、帝國與勝利而自高，又以華麗言辭和外在智慧自誇，保羅卻帶著一位被當作木匠之子、與強盜同死的耶穌來到他們面前：
+
+> "since they were puffed up with great pomposity of speech and with their cloak of external wisdom, I, he means to say, bidding an entire farewell to these reasonings, come to preach the Cross, and am not ashamed because of it: for it is the power of God to salvation."
+>
+> 「既然他們因誇張的言辭與外在智慧的外衣而自高，保羅的意思是：我向這一切推理完全告別，來傳十字架，並不以此為恥——因為這是神的大能，要救人。」（Homily 2, on 1:16）
+
+> 出處：Chrysostom, *Homilies on the Epistle to the Romans*, Homilies 1-2（NPNF 英譯，New Advent 網站）；引文已逐句對照核實。原撮述所稱「先降服，才有差遣」的次序論，經查證第1講未見此說，已改為屈梭多模本人的論點。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德晚年（1545年）在《拉丁文全集序言》(*Preface to the Complete Edition of His Latin Writings*) 中，回顧自己年輕時如何被羅馬書1:17「神的義」這句話長期困擾——他當時把「神的義」理解為神用以審判、懲罰罪人的公義，因此越讀這節經文，越覺得無法承受、甚至對神生出怨恨。直到他透過上下文與哈巴谷書2:4重新領悟：這裏的「神的義」不是神向人要求的義，而是神藉著信白白賜給人的義（「本於信，以致於信」）。路德自述，這個領悟臨到的那一刻，他感覺自己像是被引導「重新出生」("altogether born again")，「彷彿走進了敞開的樂園大門」("entered paradise itself through open gates")——這段常被稱為他的「高塔經歷」(*Turmerlebnis*)，是宗教改革史上最具轉折意義的個人見證之一（以上為對這篇廣為人知、常被學界引用之序言內容的概述性轉述，短語引自其英譯常見譯法，非逐字全文翻譯）。
+**從恨惡「神的義」到走進樂園之門**：路德晚年（1545年）在《拉丁文著作全集序言》(*Preface to the Complete Edition of Luther's Latin Works*) 中回顧，他早年受教於經院傳統，把1:17「神的義」理解為神藉以懲罰罪人的「主動的義」，因此恨惡這個詞，甚至恨惡那位審判罪人的神：
 
-路德在更早的1522年《羅馬書序言》(*Preface to the Epistle to the Romans*) 中，稱這卷書是「新約中最重要的部分，是最純正的福音」("the chief part of the New Testament, and is truly the purest Gospel")——這是路德著作中被廣泛引用的一句話。
+> "I hated that word, ... which, by the use and custom of all my teachers, I had been taught to understand philosophically as referring to formal or active justice, as they call it, i.e., that justice by which God is just and by which he punishes sinners and the unjust. ... I did not love, no, rather I hated the just God who punishes sinners."
+>
+> 「我恨惡那個詞……照我所有老師的用法和習慣，我受教把它從哲學上理解為所謂形式的或主動的義，也就是神藉以成為公義、藉以懲罰罪人和不義之人的那種義……我不愛，不，我恨惡那位懲罰罪人的公義的神。」
+
+直到他晝夜默想，留意到上下文與哈巴谷書2:4「義人必因信得生」：
+
+> "I began to understand that in this verse the justice of God is that by which the just person lives by a gift of God, that is by faith. ... All at once I felt that I had been born again and entered into paradise itself through open gates. Immediately I saw the whole of Scripture in a different light."
+>
+> 「我開始明白，這一節裏神的義，是義人藉著神的恩賜、就是藉著信而活的那個義……剎那間我覺得自己重生了，穿過敞開的門走進了樂園本身。我立刻用另一種眼光看見整本聖經。」（Luther, *Preface to the Complete Edition of Luther's Latin Works*, 1545, trans. Andrew Thornton, Project Wittenberg）
+
+路德自己把這件事繫於1519年重講詩篇之際，並說隨後讀到奧古斯丁《論靈與字句》，發現奧古斯丁對「神的義」有相近的理解。這段常被稱為他的「高塔經歷」(*Turmerlebnis*)，是宗教改革史上最具轉折意義的個人見證之一。
+
+**「最純正的福音」**：路德更早在1522年為德文新約所寫的《羅馬書序言》(*Preface to the Epistle to the Romans*) 開頭便說：
+
+> "This letter is truly the most important piece in the New Testament. It is purest Gospel."
+>
+> 「這封信實在是新約中最重要的一篇。它是最純正的福音。」（Luther, *Preface to the Epistle to the Romans*, 1522, trans. Andrew Thornton）
+
+> 出處：兩篇序言均用 Andrew Thornton 英譯（Project Wittenberg，可自由引用）；引文已逐句核對。本書先前所引「the chief part of the New Testament, and is truly the purest Gospel」與「altogether born again」出自另一英譯，已改為可查證之版本。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-以下為對加爾文《羅馬書註釋》獻辭與導論一貫立場的綜合性歸納：加爾文認為，一旦讀者真正明白羅馬書的論證脈絡，等於握有一把打開全部聖經的鑰匙——因為羅馬書把福音的邏輯次序（罪、恩典、稱義、成聖）講得最完整、最有系統。這是他對羅馬書整體地位一貫強調的立場，非逐字引句。
+**認識羅馬書，就有了進入全部聖經的入口**：加爾文在《羅馬書註釋》的〈題旨〉(The Argument) 開頭說：
+
+> "when any one gains a knowledge of this Epistle, he has an entrance opened to him to all the most hidden treasures of Scripture."
+>
+> 「人一旦真正認識這封書信，通往聖經一切最隱藏寶藏的入口，就向他敞開了。」（Calvin, *Commentary on Romans*, "The Argument"）
+
+他接著說明理由——這封信的鋪陳極有條理，主題就是因信稱義：
+
+> "The whole Epistle is so methodical, that even its very beginning is framed according to the rules of art."
+>
+> 「整封書信如此有條理，連它的開頭都是照著章法佈局的。」
+
+> "and thus he enters on the main subject of the whole Epistle justification by faith; in treating which he is engaged to the end of the fifth chapter."
+>
+> 「就這樣他進入了整封書信的主題——因信稱義；他一直討論到第五章結束。」（同上）
+
+> 出處：Calvin, *Commentary on the Epistle to the Romans*, "The Argument"（John Owen 英譯，CCEL）；引文已核對。原撮述的「鑰匙」比喻，加爾文原文作「入口敞開」，已依原文改正；所謂「罪、恩典、稱義、成聖的邏輯次序」為編者歸納，加爾文原文只說主題是因信稱義、論到第五章末。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -192,7 +244,27 @@ publisher: 三書精讀出版系統
 ### 麥克阿瑟 (John MacArthur)
 
 > 「羅馬書的主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義——這榮耀的真理。」
-> ——沿用〈羅馬書概覽〉引句，未附具體講題日期或原始出處連結（詳見附錄二〈參考資料〉）
+> ——引自〈羅馬書概覽〉已核實引句：*The MacArthur Study Bible* 羅馬書導論〈Historical and Theological Themes〉（英文原文與出處見〈羅馬書概覽〉）
+
+麥克阿瑟講羅馬書 1:16-18 時，把 1:16-17 定為全書的主題與論題，並指出福音的信息從神的忿怒開始講起：
+
+> "these two verses form the theme and the thesis for the epistle to the Romans. In brief but glorious and comprehensive terms the epistle is compressed into these basic truths."
+>
+> 「這兩節構成了羅馬書的主題與論題。整封書信以簡短卻榮耀而全面的字句，濃縮在這幾條基本真理裏。」（45-08）
+
+> "The reason it can save is because when you believe, the righteousness of God is revealed to you. In other words, it becomes yours."
+>
+> 「它之所以能拯救，是因為你一信，神的義就向你顯明——換句話說，它成了你的。」（45-08）
+
+> "The gospel message begins with a statement about the wrath of God."
+>
+> 「福音的信息，是從一句關於神忿怒的宣告開始的。」（45-09）
+
+> "You cannot be holy and tolerate unholiness. It can't be done."
+>
+> 「你不可能既是聖潔的，又容忍不聖潔。這做不到。」（45-09）
+
+> — John MacArthur, *The Gospel of Christ* (45-08), *The Wrath of God* (45-09), gty.org, sermon 45-08 / 45-09（講道逐字稿已核對）
 
 ---
 

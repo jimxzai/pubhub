@@ -171,17 +171,53 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine, 354-430)**
 
-奧古斯丁晚年與伯拉糾派（Pelagianism）的長期論戰，反覆回到羅馬書8章、尤其是8:29-30「金鏈」與8:28「按祂旨意被召的人」這些經文，作為他堅持救恩完全出於神恩典、而非人自身功德的聖經根據。以下是對其一貫立場的一般性歸納，並非逐字引句：奧古斯丁認為，這一段經文顯明救恩的起頭（預知、預定）、過程（召、稱義）與終局（得榮耀），沒有一步是出於人的功德，全部出於神先於人一切回應的主權恩典。
+奧古斯丁晚年與伯拉糾派及半伯拉糾派的論戰，反覆回到羅馬書8:28「按祂旨意被召的人」與8:30「所預定的人又召他們來」，作為救恩從起頭（信心的開始）到終局（堅忍到底）都出於神恩典、而非人功德的聖經根據：
+
+> "From all which it is shown with sufficient clearness that the grace of God, which both begins a man's faith and which enables it to persevere unto the end, is not given according to our merits, but is given according to His own most secret and at the same time most righteous, wise, and beneficent will; since those whom He predestinated, them He also called"
+>
+> 「由此足以清楚顯明：神的恩典——既開始人的信心、又使信心堅忍到底的恩典——不是按我們的功德賜下的，而是按祂自己至為隱密、同時至為公義、智慧、良善的旨意賜下的；因為祂所預定的人，也召了他們來。」（Augustine, *On the Gift of Perseverance*, ch. 33）
+
+他在《論聖徒的預定》裏把「召」與「揀選」的先後說得更尖銳：
+
+> "Let us, then, understand the calling whereby they become elected — not those who are elected because they have believed, but who are elected that they may believe."
+>
+> 「所以我們要明白那使他們成為蒙揀選者的呼召——不是因為他們信了才蒙揀選，而是蒙揀選好叫他們相信。」（Augustine, *On the Predestination of the Saints*, ch. 34）
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**
 
-加爾文在其著作中對羅馬書8:28-30有大量的討論，將這段經文視為他揀選教義最重要的聖經根據之一。以下為對其立場的一般性歸納：加爾文強調，這條「金鏈」的重點不在於讓信徒去揣測自己是否被「預知預定」在鏈條之內——那是屬乎神隱藏的旨意，人無從探測；金鏈真正的功用，是讓已經在基督裏、已經蒙召、已經稱義的信徒，回頭確信自己蒙揀選的確據——因為呼召與稱義是看得見的果子，從果子可以確知源頭。
+加爾文的《羅馬書註釋》並沒有把8:28-30當作揀選教義的主要證據來讀；他從這段經文讀出的重點，是分擔十字架與蒙召、稱義、得榮耀同在一條鏈上，不可拆開：
+
+> "he adopts a graduating process, by which he teaches us, that a participation of the cross is so connected with our vocation, justification, and, in short, with our future glory, that they can by no means be separated."
+>
+> 「他採用層層遞進的方式，教導我們：分擔十字架與我們的蒙召、稱義，總之與我們將來的榮耀，緊密相連，絕不能分開。」（Calvin, *Commentary on Romans*, on 8:30）
+
+同時他強調，8:29的「預先所知道」不是空泛的預見，而是神的收納；而「召」正是神向人顯明祂隱藏旨意的憑據——信徒不必揣測自己是否在鏈條之內，蒙召是看得見的見證：
+
+> "the Apostle says, that God by his calling bears an evident testimony respecting his hidden purpose. But this testimony is not only found in the outward preaching of the gospel, but it has also the power of the Spirit connected with it"
+>
+> 「使徒說，神藉著祂的呼召，為祂隱藏的旨意作出明顯的見證。這見證不只在福音的外在宣講裏，也有聖靈的能力與之相連。」（Calvin, *Commentary on Romans*, on 8:30）
+
+《基督教要義》把這個確據的落腳點說得更清楚：
+
+> "But if we are elected in him, we cannot find the certainty of our election in ourselves; and not even in God the Father, if we look at him apart from the Son. Christ, then, is the mirror in which we ought, and in which, without deception, we may contemplate our election."
+>
+> 「我們既是在祂裏面蒙揀選，就不能在自己裏面找到揀選的確據；若撇開子單看父，在父神那裏也找不到。所以基督是一面鏡子，我們應當、也能夠毫無錯謬地在其中察看自己的揀選。」（Calvin, *Institutes* III.24.5）
 
 **馬丁·路德 (Martin Luther, 1483-1546)**
 
-路德一生真理突破的核心，正是重新發現「因信稱義」使人脫離定罪恐懼的自由——這也是他在講論羅馬書時反覆強調的主題。羅馬書8:1「不定罪」，與他所理解的因信稱義的果效高度一致：良心的確據不是靠不斷檢視自己的行為表現，而是單單仰望基督已經完成的義。
+路德在《羅馬書序言》裏，把第8章讀作對第7章那些爭戰者的安慰：
+
+> "In chapter 8, St. Paul comforts fighters such as these and tells them that this flesh will not bring them condemnation."
+>
+> 「在第八章，聖保羅安慰這樣的爭戰者，告訴他們：這肉體不會給他們帶來定罪。」（Luther, *Preface to Romans*, 1522, on ch. 8）
+
+> "The Holy Spirit assures us that we are God's children no matter how furiously sin may rage within us, so long as we follow the Spirit and struggle against sin in order to kill it."
+>
+> 「聖靈向我們保證我們是神的兒女，無論罪在我們裏面如何狂暴，只要我們跟隨聖靈、與罪爭戰以治死它。」（Luther, *Preface to Romans*, 1522, on ch. 8）
+
+這與他因信稱義的核心一脈相承：良心的確據不是靠不斷檢視自己的行為表現，而是單單仰望基督已經完成的義。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -205,7 +241,25 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)** — 對8章的觀點屬一般性歸納轉述，非逐字引句：麥克阿瑟一貫強調，8:1的「不定罪」與8:9「人若沒有基督的靈，就不是屬基督的」必須合併來讀——真確據不是廉價的安全感，而是建立在聖靈實際內住這個可驗證的生命記號上；假冒的確據會忽略8:9這道試金石。
+麥克阿瑟講羅馬書 8:1-11 時，把 8:1「不定罪」稱為稱義結果的最高點，又把 8:9 當作「在聖靈裏」的憑據：不是口頭宣稱、名聲或聚會出席，而是聖靈是否住在你裏面。
+
+**8:1 是最高點**：
+
+> "And that is the—that's the high point. That's the great epitome of his expressions of the results of justification."
+>
+> 「那就是——那就是最高點。那是他論稱義結果的種種表述的總縮影。」（45-57）
+
+> "And the theme of chapter 8 really is that we are not condemned."
+>
+> 「第 8 章的主題，實在就是：我們不被定罪。」（45-57）
+
+**8:9 是憑據**：
+
+> "If the Spirit dwells in you, you're not in the flesh, you're in the Spirit. What a great thought. You see, being in the Spirit isn't a question of profession, it isn't a question of reputation, it isn't a question of church attendance. Being in the Spirit is a question of having the Spirit in you."
+>
+> 「聖靈若住在你裏面，你就不屬肉體，乃屬聖靈。何等大的意念。你看，『在聖靈裏』不是口頭宣稱的問題，不是名聲的問題，也不是聚會出席的問題。『在聖靈裏』是聖靈在不在你裏面的問題。」（45-57）
+
+> — John MacArthur, *The Spirit Takes Us from Sin to Righteousness* (45-57), gty.org, sermon 45-57（講道逐字稿已核對）
 
 ---
 

@@ -156,17 +156,53 @@ publisher: 三書精讀出版系統
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-金口約翰著有《羅馬書講道集》(*Homilies on the Epistle to the Romans*)，是教會歷史上最早、篇幅最完整的羅馬書逐章講道集之一。他對第6章一貫強調的解經重點是：洗禮不只是赦罪的記號，更是「與基督同死同復活」這件事的親身經歷——他常提醒聽眾，受洗那一刻，舊有的自己已經真實地埋葬了，這不是比喻的說法，而是屬靈的真實。此處為對其一貫解經立場的一般性歸納轉述，並非逐字引句自特定講篇，讀者若需查證原文，應另行核對《羅馬書講道集》相關講篇。
+金口約翰的《羅馬書講道集》(*Homilies on the Epistle to the Romans*) 是教會歷史上最早、篇幅最完整的羅馬書逐章講道集之一。他講解6:3-4時，把洗禮直接對上十字架與埋葬——基督是在肉身裏死而被葬，我們則是向罪死而被葬；對象不同，卻同樣真實：
+
+> "For Baptism is the Cross. What the Cross then, and Burial, is to Christ, that Baptism has been to us, even if not in the same respects. For He died Himself and was buried in the Flesh, but we have done both to sin."
+>
+> 「因為洗禮就是十字架。十字架與埋葬之於基督，洗禮之於我們也是如此，儘管不在同一個層面。祂是自己在肉身裏死了、被埋葬；我們則是在罪上經歷了這兩樣。」（Chrysostom, *Homilies on Romans*, Homily 10, on 6:3-4）
+
+他隨即補上一句，堵住「只是比喻」的讀法：
+
+> "As then that is real, so is this."
+>
+> 「那一個既是真實的，這一個也是真實的。」（Chrysostom, *Homilies on Romans*, Homily 10, on 6:5）
+
+到了第十一講，這個真實變成了命令：
+
+> "If then you have died in baptism, remain dead, for any one that dies can sin no more; but if you sin, you mar God's gift."
+>
+> 「你既已在洗禮裏死了，就要一直死下去；因為死了的人再不能犯罪。你若犯罪，就是損毀了神的恩賜。」（Chrysostom, *Homilies on Romans*, Homily 11, on 6:7）
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《羅馬書註釋》(*Commentary on Romans*) 中一貫強調：成聖與稱義雖有分別（一個是宣告地位，一個是持續更新），卻同出於一個源頭——與基督的聯合——絕不可分割成兩件互不相干的事：凡真正藉信心與基督聯合、領受祂稱義之恩的人，也必然同時領受祂成聖的生命；沒有無成聖的稱義，正如沒有無光的太陽。此為對其一貫解經立場的一般性歸納，非逐字引句，讀者若需查證，應另行核對《羅馬書註釋》6章相關段落。
+加爾文註釋6:2時強調：稱義與重生從不分開賜下，人得稱義正是為了此後在聖潔中事奉神：
+
+> "The state of the case is really this, -- that the faithful are never reconciled to God without the gift of regeneration; nay, we are for this end justified, -- that we may afterwards serve God in holiness of life."
+>
+> 「實情是這樣：信徒與神和好，從來不會沒有重生的恩賜；不僅如此，我們得稱義正是為了這個目的——好叫我們此後在聖潔的生活中事奉神。」（Calvin, *Commentary on Romans*, on 6:2）
+
+《基督教要義》裏他把同一個意思講成一句格言，又用太陽作比——光與熱不可分割，卻不可混為一談：
+
+> "Christ, therefore, justifies no man without also sanctifying him. These blessings are conjoined by a perpetual and inseparable tie."
+>
+> 「所以，基督稱義一個人，沒有不同時使他成聖的。這兩樣福分是以永久、不可分割的繫帶連在一起的。」（Calvin, *Institutes* III.16.1）
+
+> "The sun by its heat quickens and fertilizes the earth; by its rays enlightens and illumines it. Here is a mutual and undivided connection, and yet reason itself prohibits us from transferring the peculiar properties of the one to the other."
+>
+> 「太陽以它的熱使大地甦醒、肥沃，以它的光線照亮大地。這是彼此相連、不可分割的關係，然而理性本身不容我們把其中一方的特性挪給另一方。」（Calvin, *Institutes* III.11.6）
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在《小教理問答》(*Small Catechism*) 論洗禮一節，有一句廣為人知、常被總結轉述的教導：洗禮的意義，是要「舊人天天藉痛悔認罪被淹沒、被治死」，「新人天天興起、復活，在神面前存著公義、聖潔存活，直到永遠」——這句常見轉述精確反映路德一貫的洗禮神學：洗禮的果效不是一次性的儀式了結，而是終身「天天」的操練，與羅馬書6:4「一舉一動有新生的樣式」（原文有持續、習慣性的意味）相互呼應。
+路德《小教理問答》(*Small Catechism*) 論洗禮第四問「這樣用水施洗表明甚麼」，答案直接以羅馬書6:4作根據：
+
+> "It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts, and, again, a new man daily come forth and arise; who shall live before God in righteousness and purity forever."
+>
+> 「它表明我們裏面的老亞當，當藉著天天的痛悔與悔改被淹沒、治死，連同一切的罪與惡慾；又有新人天天出來、興起，在神面前存公義與純潔活到永遠。」（Luther, *Small Catechism*, Baptism IV，1921年 Triglot Concordia 英譯）
+
+洗禮的果效不是一次性的儀式了結，而是終身「天天」的操練，與羅馬書6:4「一舉一動有新生的樣式」（原文有持續、習慣性的意味）相互呼應。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -190,7 +226,29 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟論羅馬書6章時一貫強調的重點是：這一章講的是「定位性的成聖」(positional sanctification)——一個已經完成、不再改變的事實（信徒的舊生命已經與基督同死、新生命已經與基督同復活），這個事實是「實際性的成聖」（practical sanctification，即信徒一生持續與罪爭戰、逐漸像基督）的地基。他一貫提醒讀者，6:11的命令「你們向罪也當看」不是叫人「假裝」自己沒有罪性，而是叫人相信一個已經真實發生、只是尚未完全彰顯的屬靈事實，並按這事實而活。此為對其一貫解經立場的一般性歸納，未附具體講題、日期或 gty.org 連結，非逐字引句。
+麥克阿瑟講羅馬書 6 章時，先講「地位」（信徒已與基督同死同復活，這是既成的事實），再講「實踐」；6:11 的「看」(reckon) 是把已知的事實在心裏當真——先是「知道」，再是「看」，然後是「獻上」。
+
+**先講地位，再講實踐**：
+
+> "Now, that's a positional statement. It has practical workings that we'll see as we go along, but I'm just trying to tell you who you are, right now."
+>
+> 「這是一句論地位的話。它有實際的運作，我們往下會看到；但此刻我只是要告訴你——你是誰。」（45-46）
+
+> "First of all, holiness in our position before God, and then holiness in our practice."
+>
+> 「首先，是我們在神面前地位上的聖潔；然後，是我們實踐上的聖潔。」（45-47）
+
+**知道、看、獻上**：
+
+> "The three words are in the text: know, reckon and yield."
+>
+> 「這三個字就在經文裏：知道、看（算）、獻上。」（45-47）
+
+> "The word “know” dealt with the mind. The word “reckon” deals with the heart. You know it to be so intellectually, and now you believe it to be so, you reckon."
+>
+> 「『知道』這個字關乎頭腦；『看』這個字關乎心。你在理智上知道事情是這樣，現在你相信事情是這樣——這就是『看』。」（45-47）
+
+> — John MacArthur, *Dying to Live, Part 2* (45-46), *Dying to Live, Part 3* (45-47), gty.org, sermon 45-46 / 45-47（講道逐字稿已核對）
 
 ---
 

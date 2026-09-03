@@ -180,6 +180,7 @@ add_file "$INPUT_DIR/99-to-spain.md"
 # ============================================================
 add_volume "附錄 (Appendices)" \
     "經文與主題索引；資料來源與版本之逐章誠實說明。"
+python3 "$SCRIPT_DIR/gen-romans-scripture-index.py" --write
 add_file "$INPUT_DIR/98-appendix-indices.md"
 add_file "$INPUT_DIR/99-appendix-references.md"
 

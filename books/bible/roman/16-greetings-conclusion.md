@@ -152,17 +152,39 @@ publisher: 三書精讀出版系統
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-在論羅馬書的講道中，屈梭多模論及安多尼古和猶尼亞時，將猶尼亞理解為女性，並對保羅稱她「在使徒中是有名望的」大為驚嘆，認為能被算作在使徒之中受尊重、甚至可能本身即被視為使徒之列的一員，是何等崇高的稱許——他由此讚嘆這位女性所具備的屬靈智慧與服事分量。這是教會歷史上最早、也最具體地認真看待猶尼亞其人其事的注疏聲音之一。
+**「這位女子」——猶尼亞在使徒中有名望**：在第三十一篇講道論16:7時，屈梭多模把猶尼亞理解為女性，並對保羅稱她「在使徒中是有名望的」大為驚嘆：
 
-> 出處：對屈梭多模羅馬書講道相關立場的一般性、綜合性轉述（其講道全集傳統上收於《羅馬書講道集》），非逐字引句核對；此為新約學界討論猶尼亞問題時經常引述的一項教父時期見證，具體篇章文字讀者可另行查核原文。
+> "And indeed to be apostles at all is a great thing. But to be even among these of note, just consider what a great encomium this is! But they were of note owing to their works, to their achievements. Oh! How great is the devotion (φιλοσοφία) of this woman, that she should be even counted worthy of the appellation of apostle!"
+>
+> 「能被算在使徒之列，本身已是大事。而在這些人當中還能『有名望』，想想看，這是何等的稱許！他們的名望，是憑著他們的工作、他們的成就得來的。啊，這位女子的敬虔（φιλοσοφία）是何等的大，竟連『使徒』的稱呼也算她配得！」（Chrysostom, *Homilies on Romans*, Homily 31, on 16:7）
+
+這是教會歷史上最早、也最具體地認真看待猶尼亞其人其事的注疏聲音之一，也是新約學界討論猶尼亞問題時經常引述的一項教父見證。
+
+> 以上引文據 New Advent 所載 NPNF 英譯本逐字核對，中譯為編者所譯。本書前一版將此段歸於第三十篇講道，經查證第三十篇止於16:5，猶尼亞見於第三十一篇，已改正。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在他的羅馬書註釋中，對16章的問安名單抱持鄭重的態度，認為保羅逐一點名問安，顯明使徒對每一位同工、每一份微小勞苦的看重——教會的建造不是靠一人之力，而是靠許多不同恩賜、不同背景的肢體各按其職。他也將百基拉與亞居拉視為夫婦同工服事主的典範。
+加爾文在《羅馬書註釋》論16章開頭坦言，這一章大部分是問安，「並無難處，不必久留」；但他仍解釋了保羅逐一點名稱讚的用意——藉著尊榮忠心的人，使忠心本身得尊榮，也使被稱讚的人不至在敬虔的路上鬆懈：
 
-> 出處：對加爾文《羅馬書註釋》相關立場的一般性、綜合性轉述，非逐字引句。
+> "The testimonies which he brings here in favor of some individuals, were partly intended for this end, that by honoring those who were faithful and worthy, faithfulness itself might be honored, and that they who could and would do more good than others, might have authority; and partly that they themselves might study to act in a manner corresponding to their past life, and not fail in their religious course, nor ever grow languid in their pious ardor."
+>
+> 「他在這裏為某些人所作的見證，一方面是為了這個目的：藉著尊榮那些忠心而配得的人，使忠心本身得著尊榮，也使那些能夠並願意比別人行更多善的人有威望；另一方面，是叫他們自己盡力活得與過去相稱，在敬虔的路上不致失敗，熱心也永不冷淡。」（Calvin, *Commentary on Romans*, on 16:3）
+
+**百基拉與亞居拉**：加爾文特別注意的，不只是夫婦同工，更是保羅毫不避諱地把一位婦人稱為自己在主工上的同伴——
+
+> "It is a singular honor which he ascribes here to Prisca and Aquila, especially with regard to a woman. The modesty of the holy man does on this account more clearly shine forth; for he disdained not to have a woman as his associate in the work of the Lord; nor was he ashamed to confess this."
+>
+> 「他在這裏歸給百基拉與亞居拉的，是一種特殊的尊榮，尤其是對一位婦人而言。這位聖者的謙卑也因此更加顯明：他不以有一位婦人作他主工上的同伴為不屑，也不以承認這事為恥。」（同上）
+
+**猶尼亞與「使徒」一詞**：論16:7，加爾文認為保羅這裏的「使徒」用的是廣義——
+
+> "In the third place, he calls them Apostles: he uses not this word in its proper and common meaning, but extends it wider, even to all those who not only teach in one Church, but also spend their labor in promulgating the gospel everywhere."
+>
+> 「第三，他稱他們為使徒：他在這裏用這個詞，不是取其本義與通常的意義，而是把它擴大，及於一切不只在一個教會裏教導、更把勞苦花在四處傳揚福音的人。」（同上，on 16:7）
+
+> 以上引文據 CCEL 所載 John Owen 英譯《羅馬書註釋》逐字核對，中譯為編者所譯。本書前一版稱加爾文對問安名單「抱持鄭重的態度」，經查證他明言此章問安「並無難處，不必久留」，已按原文改寫。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -186,9 +208,21 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟指出，保羅用如此長的篇幅一一點名問安，正說明使徒事工從來不是「一人英雄式」的孤軍奮戰，而是建立在無數默默勞苦、甚至許多今日已無從考證身份的信徒身上；16:25-27的榮耀頌則是「整卷羅馬書神學論證的濃縮結晶」，把因信稱義的福音、長久隱藏如今顯明的奧祕、萬民因信而順服的異象，全部收攏於一句對神榮耀的頌讚。
+麥克阿瑟講羅馬書 16 章時，從百基拉、亞居拉「為保羅的命將自己的頸項置之度外」讀出使徒事工背後那些幾乎無人記得的人；講 16:25-27 時，他指出這段榮耀頌把全書開頭的要素一一收攏，首尾相扣。
 
-> 出處：對麥克阿瑟羅馬書相關講道與《MacArthur Study Bible》一貫立場的一般性、綜合性轉述，未附具體講題日期或逐字引句，讀者如需查證請另行核對 gty.org 原始資料。
+**兩個幾乎無人記得的人**：
+
+> "But do we need to be reminded that it may have been that there would have been nothing but a dead body had it not been for these two rather obscure dear people who were willing to lay their head on a chopping block to spare the life of that man they knew God had anointed? That's great devotion, great devotion."
+>
+> 「但我們是否需要被提醒：若不是這兩位相當默默無聞的親愛的人，甘願把自己的頭放在砧板上，好保住那位他們深知是神所膏之人的性命，很可能剩下的只是一具屍體？這是何等的委身，何等的委身。」（45-119）
+
+**榮耀頌與全書開頭首尾相扣**：
+
+> "It's almost a bracketing of the same truth with which he introduced this great epistle. It is introduced, and concluded then, with elements that summarize all that is in between."
+>
+> 「這幾乎是用同一個真理把這封大書前後括起來——他用它開篇，也用它收尾；開頭與結尾的要素，把中間的一切都總結了。」（45-121）
+
+> — John MacArthur, *Love for the Saints, Part 1* (45-119), *The Unveiling of God's Secret* (45-121), gty.org, sermon 45-119 / 45-121（講道逐字稿已核對）
 
 ---
 

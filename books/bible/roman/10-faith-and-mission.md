@@ -150,23 +150,61 @@ publisher: 三書精讀出版系統
 > **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
 > 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
 
-**誠實說明**：以下引述除加爾文《羅馬書註釋》確有可查考之原著文本外，其餘均屬對該作者一貫解經立場、廣為人知之解經重點的一般性、綜合性歸納轉述，並非逐字逐句可查證的原文引句，特此如實標明，不杜撰具體篇章頁碼。
+**誠實說明**：以下屈梭多模、加爾文、路德三家的引句，已逐條核對一手文本（New Advent 電子版 NPNF1 屈梭多模《羅馬書講道集》、CCEL 加爾文《羅馬書註釋》、Thornton 英譯路德《羅馬書序言》）：引號內為逐字引句，中譯為編者所作。核對中發現前版三處憑記憶寫成的撮述與原文不符（屈梭多模論殉道認信、加爾文論 *telos* 雙義與駁中世紀、路德「多次強調10:9-10」），已改為原文實際所言，並於各段出處註明。
 
 ### 教父時期
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-在他對羅馬書的講道傳統中（*Homilies on Romans*），屈梭多模一貫強調10:9-10「口裏承認」的公開性——他指出，初代教會的信徒常常正是在殉道的審判台前，被逼著在異教官長面前「口裏承認耶穌為主」，這一節經文因此不只是教義陳述，更是無數殉道者用生命實踐出來的宣告。
+**「這道離你不遠」——救恩之易得**：屈梭多模在《羅馬書講道集》第17篇論10:6-13，重點不在殉道時的公開認信，而在信心之義的「易」與「近」——與律法之義要求「行全部」相對：
+
+> "There is no long journey to go, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross so much as the threshold, you may even while you sit at home be saved. For in your mouth and in your heart is the source of salvation."
+>
+> 「得救不必走遠路，不必渡海，不必翻山。你若連門檻都不願跨出，坐在家裏也能得救。因為救恩的源頭就在你口裏、在你心裏。」（Chrysostom, *Homilies on Romans*, Homily 17, on 10:8-9）
+
+論到11-13節，他把「信」與「認」分別對應保羅引的兩處經文：
+
+> "For the words, Every one that believes, point out the faith. But the words, Whosoever shall call upon, set forth confession."
+>
+> 「『凡信祂的』這話指向信心；『凡求告的』這話則陳明認信。」（同上，on 10:11-13）
+
+> 出處：Chrysostom, *Homilies on Romans*, Homily 17（NPNF1 vol. 11，New Advent 電子版），逐字引句。前版稱屈梭多模在此強調殉道者於審判台前的公開認信，經查證第17篇未見此意，已改正。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**，*Commentary on Romans*：
 
-加爾文在論到10:4「律法的總結就是基督」時，明確主張 *telos* 一詞應同時包含「目標」與「終結」兩義——律法從起初就指向基督為它的完成，而人靠律法本身稱義的努力，也在基督裏終止。他論到10:17「信道是從聽道來的」，強調信心從來不是憑空而來的內在感覺，而是「聖道」這個外在、客觀的媒介所生的果子，藉此駁斥中世紀將信心建立在教會權威或個人靈修經驗之上的傾向。
+**律法的「總結」是完成，不只是終止**：加爾文論10:4時，表明自己傾向把 *telos* 讀作「完成」（*complementum*），但也不反對通行的「終結」譯法；他真正的重點是律法整體指向基督：
+
+> "whatever the law teaches, whatever it commands, whatever it promises, has always a reference to Christ as its main object; and hence all its parts ought to be applied to him."
+>
+> 「律法所教導的、所吩咐的、所應許的一切，向來都以基督為它的主要目標；因此它的每一部分都當應用在祂身上。」（Calvin, *Commentary on Romans*, on 10:4）
+
+**信心從聖道生，聖道從神的差遣來**：論10:17「信道是從聽道來的」，他把14-17節這一串連鎖歸結為：
+
+> "faith is produced by the word of God, but the word of God is nowhere preached, except through God's special providence and appointment. Where then there is a calling on God, there is faith; and where faith is, the seed of the word has preceded; where there is preaching there is the calling of God."
+>
+> 「信心是由神的道所生，而神的道除非藉著神特別的護理與安排，無處被傳講。所以哪裏有人求告神，哪裏就有信心；哪裏有信心，道的種子必已先撒下；哪裏有傳講，哪裏就有神的呼召。」（Calvin, *Commentary on Romans*, on 10:17）
+
+> 出處：Calvin, *Commentary on Romans*（CCEL calcom38, Owen 英譯），on 10:4、10:17，逐字引句。前版稱加爾文「明確主張 *telos* 同時包含目標與終結兩義」、並在10:17駁斥中世紀將信心建基於教會權威或靈修經驗，經查證註釋原文未見此二說，已改正。
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德一生的轉折與羅馬書密不可分，他多次強調羅馬書10:9-10這類經文將「稱義」從煩瑣的教會禮儀與功德制度中釋放出來，回到最單純的「信」與「認」——這也是宗教改革「唯獨信心」（*sola fide*）的重要經文根據之一。
+**信心只從福音的道而來**：路德一生的轉折與羅馬書密不可分。他在《羅馬書序言》裏把第10章與第3、4章並列，作為「信心只從神的道而來」的根據：
+
+> "faith comes only through the word of God, the Gospel, that preaches Christ: how he is both Son of God and man, how he died and rose for our sake. Paul says all this in chapters 3, 4 and 10."
+>
+> 「信心只從神的道、就是傳講基督的福音而來：祂怎樣既是神的兒子又是人，怎樣為我們死而復活。保羅在第3、4、10章講的都是這個。」（Luther, *Preface to Romans*, Thornton 英譯）
+
+緊接著就是「唯獨信心」（*sola fide*）的宣告：
+
+> "That is why faith alone makes someone just and fulfills the law"
+>
+> 「這就是為甚麼唯獨信心使人成義並成全律法。」（同上）
+
+至於9-11章，他讀作論神永恆的護理，並警告初學者不要用理性去探測預定的深淵。
+
+> 出處：Luther, *Preface to the Epistle to the Romans* (1522/1545), Thornton 英譯，逐字引句。前版稱路德「多次強調10:9-10」，序言中未見以此二節為據的論述，已改為序言實際所言。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -178,7 +216,7 @@ publisher: 三書精讀出版系統
 
 > "He need not be sought for in the height or the depth, for now He has indeed come. The word is nigh men, in the mouth and in the heart."
 >
-> 「不必到高處，也不必到深處去尋找祂，因為如今祂確實已經來到。這話已經臨近人，就在口裡，就在心裡。」
+> 「不必到高處，也不必到深處去尋找祂，因為如今祂確實已經來到。這話已經臨近人，就在口裏，就在心裏。」
 >
 > — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.150
 
@@ -198,9 +236,27 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟在其羅馬書系列講道與註釋中一貫指出，10:9-10是全本聖經中最直接、最常被用來領人信主的經文之一——「福音的濃縮版」；他也特別強調10:14-15的宣教邏輯鏈，認為這是保羅留給教會最清楚的宣教教導，任何教會的宣教策略都繞不開這條「差遣—傳講—聽見—相信—求告—得救」的次序。
+麥克阿瑟講羅馬書 10:8-15 時，把 10:8 的「信主的道」稱為使徒信息的核心——不必追尋、不必攀登，它就在近處；講 10:14-15 時，他把那四個「怎能」讀成一條再簡單不過的邏輯鏈：神若不差遣傳道的人，人就不能得救。
 
-> 出處：以上教父與改教家段落屬對其一貫解經立場之一般性歸納轉述，非逐字引句；加爾文《羅馬書註釋》段落依其論羅馬書10章之一貫主張整理；MacArthur 段落屬對其講道系列一貫立場之綜合轉述，未附具體講題與日期，讀者若需查證應另行核對其原著。
+**信主的道就在近處**：
+
+> "It's the word of faith which we preach, he says, which we continually herald, which is the heart of the apostolic message."
+>
+> 「他說，這就是我們所傳、我們不斷宣告的信主之道，是使徒信息的核心。」（45-79）
+
+**四個「怎能」是一條邏輯鏈**：
+
+> "Now what is he saying? Listen carefully. This is a very simple process of logic."
+>
+> 「他在說甚麼？仔細聽。這是一段再簡單不過的邏輯推演。」（45-80）
+
+> "In other words, if God doesn't send preachers who preach the truth so that men can believe and call on the name of the Lord, they can't be saved."
+>
+> 「換句話說，神若不差遣傳講真理的人，使人能相信並求告主名，人就不能得救。」（45-80）
+
+> — John MacArthur, *Israel's Failure, Part 5* (45-79), *Israel's Failure, Part 6* (45-80), gty.org, sermon 45-79 / 45-80（講道逐字稿已核對）
+
+> 出處：以上教父與改教家段落屬對其一貫解經立場之一般性歸納轉述，非逐字引句；加爾文《羅馬書註釋》段落依其論羅馬書10章之一貫主張整理；MacArthur 引句已逐句對照 gty.org 講道逐字稿核實，講道編號附於各句之後。
 
 ---
 

@@ -166,29 +166,69 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-奧古斯丁於412年撰寫《論靈與字句》(*De Spiritu et Littera*)，正是以羅馬書（尤其是3-4章）作為反駁伯拉糾主義的核心戰場。伯拉糾主張人靠自己的意志努力可以達到神所要求的義；奧古斯丁則反覆指出，羅馬書4章「算為義」的邏輯已經排除了這種可能——連信心本身，也是神恩典所賜下的，而不是人自己憑意志產生、用來換取稱義的功德。
+**信心本身是否在我們手中？**：奧古斯丁於412年撰寫《論靈與字句》(*De Spiritu et Littera*)，以羅馬書為主軸反駁伯拉糾主義——伯拉糾主張人靠自己的意志努力可以達到神所要求的義。他在書末追問「信心是否在我們自己的權能之內」時，引的正是創世記15:6與羅馬書4:5：
 
-> 出處：對奧古斯丁《論靈與字句》處理羅馬書3-4章反伯拉糾論證的一般性歸納，非逐字引句。
+> "Even the faith by which we believe God, or believe in God. For of this it is written, Abraham believed God, and it was counted unto him for righteousness. And again, To him that believes in Him that justifies the ungodly, his faith is counted for righteousness."
+>
+> 「就是我們藉以信神、信靠神的那信心。關於它，經上記著：亞伯拉罕信神，這就算為他的義；又說：那信稱不虔者為義之神的，他的信就算為義。」（Augustine, *On the Spirit and the Letter*, ch. 54 [XXXI]）
+
+他的結論是：在人裏面作成「願意相信」的，是神——但在這部早期反伯拉糾作品裏，他仍保留一句：對神的召喚點頭或拒絕，是我們自己意志的功用：
+
+> "it surely follows that it is God who both works in man the willing to believe, and in all things prevents us with His mercy. To yield our consent, indeed, to God's summons, or to withhold it, is (as I have said) the function of our own will."
+>
+> 「由此必然可見，在人裏面作成那相信之意願的，是神；祂的憐憫在一切事上都先行於我們。至於對神的召喚點頭或拒絕，（如我所說）確實是我們自己意志的功用。」（ch. 60 [XXXIV]）
+
+> 出處：Augustine, *De Spiritu et Littera*, ch. 54, 60（NPNF 英譯，New Advent 網站，章號依該版）；引文已核對。原撮述謂「羅馬書4章的邏輯已經排除這種可能……連信心本身也是神恩典所賜」，經查證：奧古斯丁引羅4:5是在討論「信心是否在我們權能之內」，結論是「使人願意相信的是神」，但同時保留「同意與否是我們意志的功用」，語氣比原撮述審慎，已依原文改正；原稱「尤其是3-4章」，本書用得最多的其實是林後3:6、羅2-3章、5:5、7章與耶31，已刪去。
 
 **屈梭多模 (John Chrysostom, 約347-407)**：
 
-屈梭多模在《羅馬書講道集》中一貫強調本章「稱不虔者為義」一語的驚人程度：神稱義的對象不是已經潔淨的人，而是仍在不虔敬狀態中、單單憑信心投靠祂的人；這正顯明救恩完全出於神的恩慈，而非人先自潔才蒙悅納。
+**「稱不虔者為義」的驚人程度**：屈梭多模在《羅馬書講道集》(*Homilies on Romans*) 講到4:5時說：
 
-> 出處：對屈梭多模《羅馬書講道集》(*Homilies on Romans*) 相關論述精神的一般性轉述，非逐字引句。
+> "For reflect how great a thing it is to be persuaded and have full confidence that God is able on a sudden not to free a man who has lived in impiety from punishment only, but even to make him just, and to count him worthy of those immortal honors."
+>
+> 「想想看，這是何等大的事：確信、且全然信靠神能在剎那間，不只叫一個活在不虔中的人免受刑罰，更叫他成為義，算他配得那些不朽的尊榮。」（Chrysostom, *Homilies on Romans*, Homily 8, on 4:5）
+
+他也指出保羅選亞伯拉罕作例證的用意——一個滿有善行的人竟不是從行為、而是從信得稱為義，才真正顯出信心的能力：
+
+> "For for a person who had no works, to be justified by faith, was nothing unlikely. But for a person richly adorned with good deeds, not to be made just from hence, but from faith, this is the thing to cause wonder, and to set the power of faith in a strong light."
+>
+> 「一個沒有行為的人因信稱義，並不奇怪；但一個滿有善行的人，不是從善行、而是從信得以稱義，這才叫人驚奇，也把信心的能力放在強光之下。」（Homily 8, on 4:1）
+
+> 出處：Chrysostom, *Homilies on the Epistle to the Romans*, Homily 8（NPNF 英譯，New Advent 網站）；引文已核對，原撮述要旨經查證屬實。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在1515-1516年於威登堡大學講授羅馬書（後世稱為《羅馬書講義》），正是在對本章的深入研讀中，逐漸確立「因信稱義」是整本聖經一貫的救法，而非中世紀教會所理解的「因信加上行為稱義」。路德一再指出：羅馬書4章證明神稱義的方法自亞伯拉罕以來從未改變——這使他確信，宗教改革所堅持的「唯獨因信」(*sola fide*) 不是新教義，而是要恢復被中世紀經院神學遮蔽的舊真理。
+路德在1515-1516年於威登堡大學講授羅馬書（後世稱為《羅馬書講義》，*Lectures on Romans*）。他自己在1545年的回顧裏也提到這段講課：
 
-> 出處：對路德《羅馬書講義》(*Lectures on Romans*, 1515-1516) 及其因信稱義神學形成過程的一般性歸納，非逐字引句。
+> "I felt confident that I was now more experienced, since I had dealt in university courses with St. Paul's Letters to the Romans, to the Galatians, and the Letter to the Hebrews."
+>
+> 「我覺得自己更有把握了，因為我已在大學課程裏講過保羅的羅馬書、加拉太書和希伯來書。」（Luther, *Preface to the Complete Edition of Luther's Latin Works*, 1545, trans. Andrew Thornton）
+
+一般認為，正是在這幾年對羅馬書（包括本章）的研讀中，他逐漸確立「因信稱義」是整本聖經一貫的救法，而非中世紀教會所理解的「因信加上行為稱義」——羅馬書4章證明神稱義的方法自亞伯拉罕以來從未改變，所以「唯獨因信」(*sola fide*) 不是新教義，而是恢復被經院神學遮蔽的舊真理。
+
+> 出處：路德《羅馬書講義》現行英譯（Pauck 1961；LW 25）均受版權保護，本書無法逐句核對其論本章的文字，故以上為對其因信稱義神學形成過程的一般性歸納，不加引號、不附頁碼；講授羅馬書的史實以路德1545年序言為據。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》卷三論稱義的部分，以及他的《羅馬書註釋》中，反覆援引羅馬書4章與創世記15:6，論證舊約聖徒與新約信徒得稱義的方式完全相同——都是「因信」，而非「因行為」。加爾文特別強調，保羅選擇亞伯拉罕而非隨便一個外邦人作例證，正是為了堵住猶太人「我們是亞伯拉罕的後裔」的自誇：連亞伯拉罕自己都是靠恩典，他的後裔又怎能靠血統或律法誇口？
+**亞伯拉罕是全教會公用的鏡子，也堵住了猶太人的誇口**：加爾文在《羅馬書註釋》論4:1說，得義的路只有一條，亞伯拉罕的例子因此對整個教會有效；保羅選他作例證，正是要堵住猶太人「我們是亞伯拉罕子孫」的自誇：
 
-> 出處：對加爾文《基督教要義》卷三第11章與《羅馬書註釋》相關論述精神的一般性歸納，非逐字引句。
+> "there is also but one way and not many ways by which righteousness may be obtained by all."
+>
+> 「使眾人得著義的路也只有一條，並非多條。」
+
+> "at the same time he gives a check to the Jews, who had nothing more plausible to glory in than that they were the children of Abraham; and they could not have dared to claim to themselves more holiness than what they ascribed to the holy patriarch. Since it is then evident that he was justified freely, his posterity, who claimed a righteousness of their own by the law, ought to have been made silent even through shame."
+>
+> 「同時他也給猶太人一個制止——他們最拿得出手的誇口，莫過於自己是亞伯拉罕的子孫；他們總不敢自稱比這位聖潔的族長更聖潔。既然亞伯拉罕顯然是白白得稱為義，他那些靠律法自稱有義的後裔，就該羞愧得閉口無言了。」（Calvin, *Commentary on Romans*, on 4:1）
+
+在《基督教要義》卷三第11章，他同樣以4:2為據：
+
+> "The conclusion, therefore, is, that he was not justified by works. He then employs another argument from contraries--viz. when reward is paid to works, it is done of debt, not of grace; but the righteousness of faith is of grace: therefore it is not of the merit of works."
+>
+> 「所以結論是：亞伯拉罕不是因行為稱義。保羅接著又從對立面論證——賞賜若是付給行為，就是出於債，不是出於恩典；而信心的義是出於恩典，所以不是出於行為的功德。」（Calvin, *Institutes* III.11.13）
+
+> 出處：Calvin, *Commentary on the Epistle to the Romans*, on 4:1-3（Owen 英譯，CCEL）；*Institutes* III.11.13（Beveridge 英譯）；引文已核對，原撮述要旨經查證屬實。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -202,8 +242,31 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> 「『算』(*logizomai*) 這個詞非常重要——意思是『記在某人賬上、歸算、算為』。亞伯拉罕的信被算為義——這是稱義教義的核心。」
-> — 麥克阿瑟論羅馬書4章亞伯拉罕的信（沿用本書〈羅馬書概覽〉引句，未附具體講題日期或原始出處連結，詳見附錄二〈參考資料〉）
+麥克阿瑟講羅馬書 4:1-8 時，把整段的重量放在「算」(*logizomai*) 這個字上：它是記賬的用語，而歸算的義正是全部基督教神學的核心。
+
+**「算」是記賬的字**：
+
+> "The word “counted,” very important word. It's the word logizomai. That word is used eleven times in this section."
+>
+> 「『算』這個字，非常重要的字。就是 logizomai。這個字在這一段裏用了十一次。」（45-34）
+
+> "And what does it mean, logizomai? It means “to credit to one's account, to put to one's account, to reckon, to impute to one.” And what it's saying is that because he believed, God imputed to him, put to his account, a righteousness which Abraham on his own did not possess. That's the whole point."
+>
+> 「logizomai 是甚麼意思？意思是『記在某人賬上、歸到某人賬上、算為、歸算給某人』。這裏說的是：因為他信，神就把一個亞伯拉罕自己並不擁有的義歸算給他、記在他賬上。這就是全部的要點。」（45-34）
+
+**這是全部基督教神學的核心**：
+
+> "We are credited with a righteousness we do not have and how? By faith; this is the heart, listen, of all Christian theology."
+>
+> 「一個我們自己沒有的義被記在我們賬上——怎麼記的？藉著信。聽好，這是全部基督教神學的核心。」（45-34）
+
+> "Listen, do you know why God can credit righteousness to your account? Because He credited your sin to Christ's account."
+>
+> 「聽著，你知道神為甚麼能把義記在你的賬上嗎？因為祂把你的罪記在了基督的賬上。」（45-34）
+
+> — John MacArthur, *Abraham--Justified by Faith, Part 1* (45-34), gty.org, sermon 45-34（講道逐字稿已核對）
+
+〈羅馬書概覽〉所收「『算』(*logizomai*) 這個詞非常重要……」一段中譯引句，與上列 45-34 講道原句意思相合，但措辭並非逐字，本章改以講道原句為準。
 
 ---
 

@@ -164,27 +164,45 @@ copyright: |
 
 ### 約翰·麥克阿瑟 (John MacArthur)
 
-**論羅馬書主題**:
+以下四段引句於 2026 年 9 月 2 日逐句對照原文核實；英文原文在前，編者中譯在後。
 
-> 「羅馬書的主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義——這榮耀的真理。」
+**論羅馬書主題**（*The MacArthur Study Bible*，羅馬書導論〈Historical and Theological Themes〉；文字經 blueletterbible.org 所載該導論核對）:
 
-**論稱義的本質**:
+> "The overarching theme of Romans is the righteousness that comes from God: the glorious truth that God justifies guilty, condemned sinners by grace alone through faith in Christ alone."
+>
+> 「羅馬書的總主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義——這榮耀的真理。」
 
-> 「稱義在神學意義上是法律術語。它描述神對信徒的宣告，而非神對信徒的改變。稱義超越單純的赦免；單是赦免仍使罪人在神面前沒有功德。因此當神稱人為義時，祂將神聖的義歸算給罪人。」
+**論稱義的本質**（John MacArthur, "Justification by Faith", Grace to You 文章 A194, gty.org）:
 
-**論羅馬書4章亞伯拉罕的信**:
+> "In its theological sense, justification is a forensic, or purely legal, term. It describes what God declares about the believer, not what He does to change the believer."
+>
+> 「就神學意義而言，稱義是一個法庭的、純粹法律性的用語。它描述的是神對信徒的宣告，而不是神對信徒所作的改變。」
 
-> 「『算』(*logizomai*) 這個詞非常重要——意思是『記在某人賬上、歸算、算為』。亞伯拉罕的信被算為義——這是稱義教義的核心。」
+> "Justification is more than simple pardon; pardon alone would still leave the sinner without merit before God. So when God justifies He imputes divine righteousness to the sinner (Romans 4:22-25)."
+>
+> 「稱義超過單純的赦免；單是赦免，仍使罪人在神面前沒有功德。所以神稱人為義時，祂把神聖的義歸算給罪人（羅 4:22-25）。」
 
-**論稱義的益處**:
+**論羅馬書 4 章「算」字**（講道 *Abraham--Justified by Faith, Part 1*，gty.org, sermon 45-34，1982 年 6 月 20 日）:
 
-> 「稱義將信徒提升到完全蒙接納和在基督耶穌裏享有神聖特權的境界。因此，因著稱義，信徒不僅完全免於任何定罪的指控（羅8:33），而且基督的全部功德都歸算在他們個人賬上。」
+> "And what does it mean, logizomai? It means “to credit to one's account, to put to one's account, to reckon, to impute to one.” And what it's saying is that because he believed, God imputed to him, put to his account, a righteousness which Abraham on his own did not possess. That's the whole point."
+>
+> 「logizomai 是甚麼意思？意思是『記在某人賬上、歸到某人賬上、算為、歸算給某人』。這裏說的是：因為他信，神就把一個亞伯拉罕自己並不擁有的義歸算給他、記在他賬上。這就是全部的要點。」
+
+**論稱義的益處**（同上 "Justification by Faith" 一文）:
+
+> "So justification elevates the believer to a realm of full acceptance and divine privilege in Jesus Christ. Therefore, because of justification, believers not only are perfectly free from any charge of guilt (Romans 8:33) but also have the full merit of Christ reckoned to their personal account (Romans 5:17)."
+>
+> 「所以，稱義把信徒提升到在基督耶穌裏完全蒙接納、享有神聖特權的境界。因此，因著稱義，信徒不但完全免於任何罪責的指控（羅 8:33），基督的全部功德也都歸算在他們個人的賬上（羅 5:17）。」
 
 ### 坎伯·摩根 (G. Campbell Morgan)
 
-**論羅馬書的特色**:
+**論羅馬書第3章與其後的轉折**（已核實逐字引句，見下方出處）:
 
-> 「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）。」
+> "Read the third chapter of this book, and read no more, and you will say that it is the most pessimistic page of literature upon which your eyes ever rested. Read that which immediately follows it, and follow the argument to the end, and you will say that it is the most optimistic poem to which your ears ever listened."
+>
+> 「單讀這卷書的第三章，讀到此為止，你會說這是你眼睛所見過最悲觀的一頁文字；再讀緊接其後的內容，一路跟隨這論證讀到末了，你會說這是你耳朵所聽過最樂觀的一首詩歌。」
+>
+> — G. Campbell Morgan, *Living Messages of the Books of the Bible*（新約卷）〈The Message of Romans〉一章，Fleming H. Revell, 1912（原文論的是第3章結尾與3:21以後的轉折，非泛指全書）
 
 **論加拉太書與羅馬書的關係**:
 
@@ -240,9 +258,9 @@ copyright: |
 \newpage
 
 
-# 書信之門——羅馬書站在哪裡 (The Door of the Epistles: Where Romans Stands)
+# 書信之門——羅馬書站在哪裏 (The Door of the Epistles: Where Romans Stands)
 
-> 讀一卷書之前，先要知道它站在哪裡。這一章回答三個問題：
+> 讀一卷書之前，先要知道它站在哪裏。這一章回答三個問題：
 > **羅馬書在新約正典中站在哪個位置？它與使徒行傳、與加拉太書是甚麼關係？為甚麼教會歷史上幾次最大的轉折，都從這卷書開始？**
 
 ---
@@ -352,7 +370,7 @@ copyright: |
 
 ---
 
-## 讓話語住在裡面
+## 讓話語住在裏面
 
 **默想一整天的問題：**
 
@@ -380,7 +398,7 @@ copyright: |
 
 # 「神的義」與「因信而順服」——全書的骨幹 (The Righteousness of God: The Spine of Romans)
 
-> 上一章講了這卷書站在哪裡（書信之門），這一章講它**怎麼走**：
+> 上一章講了這卷書站在哪裏（書信之門），這一章講它**怎麼走**：
 > **一節經文定了它的主題，一個片語繫住它的首尾，一個轉折詞劈開它的黑夜與清晨。**
 
 ---
@@ -490,7 +508,7 @@ copyright: |
 
 ---
 
-## 讓話語住在裡面
+## 讓話語住在裏面
 
 **默想一整天的問題：**
 
@@ -897,39 +915,120 @@ copyright: |
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-以下為對其《羅馬書講道集》(*Homilies on the Epistle to the Romans*) 一貫解經立場的一般性、綜合性歸納，非逐字引句——屈梭多模一再強調，保羅在1:1稱自己是基督的「僕人」(*doulos*，奴僕) 在先，才自稱「使徒」，順序不是偶然：先降服，才有差遣；這也呼應他對整卷羅馬書的觀察——福音的能力不是靠雄辯的言詞（1:16「不以福音為恥」），而是靠十字架本身的大能，這對當時羅馬社會以修辭學論高下的文化，是刻意的對照。
+**「僕人」是最高的尊稱**：屈梭多模注意到保羅在1:1先自稱基督的「僕人」(*doulos*)，但他的重點不在「先降服、後差遣」的次序，而在保羅把奴僕這個稱呼放在最高尊榮的位置上：
+
+> "Since then, in all the forms of the marvellous servitude, Paul was a servant, this he puts in the room of the greatest title of dignity, saying, a servant of Jesus Christ."
+>
+> 「既然在各種奇妙的僕役裏保羅都是僕人，他就把這稱呼放在最高尊榮頭銜的位置上，說：耶穌基督的僕人。」（Chrysostom, *Homilies on Romans*, Homily 1, on 1:1）
+
+講到1:5「我們從他受了恩惠並使徒的職分」，他又補一句：
+
+> "See the candor of the servant. He wishes nothing to be his own, but all his Master's."
+>
+> 「看這僕人的坦率：他不願有一樣是自己的，全都是主人的。」（Homily 1, on 1:5）
+
+**不以福音為恥，是對修辭文化的刻意對照**：屈梭多模解釋保羅為何在1:16只說「不以為恥」而不說「以此誇口」——羅馬人因財富、帝國與勝利而自高，又以華麗言辭和外在智慧自誇，保羅卻帶著一位被當作木匠之子、與強盜同死的耶穌來到他們面前：
+
+> "since they were puffed up with great pomposity of speech and with their cloak of external wisdom, I, he means to say, bidding an entire farewell to these reasonings, come to preach the Cross, and am not ashamed because of it: for it is the power of God to salvation."
+>
+> 「既然他們因誇張的言辭與外在智慧的外衣而自高，保羅的意思是：我向這一切推理完全告別，來傳十字架，並不以此為恥——因為這是神的大能，要救人。」（Homily 2, on 1:16）
+
+> 出處：Chrysostom, *Homilies on the Epistle to the Romans*, Homilies 1-2（NPNF 英譯，New Advent 網站）；引文已逐句對照核實。原撮述所稱「先降服，才有差遣」的次序論，經查證第1講未見此說，已改為屈梭多模本人的論點。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德晚年（1545年）在《拉丁文全集序言》(*Preface to the Complete Edition of His Latin Writings*) 中，回顧自己年輕時如何被羅馬書1:17「神的義」這句話長期困擾——他當時把「神的義」理解為神用以審判、懲罰罪人的公義，因此越讀這節經文，越覺得無法承受、甚至對神生出怨恨。直到他透過上下文與哈巴谷書2:4重新領悟：這裏的「神的義」不是神向人要求的義，而是神藉著信白白賜給人的義（「本於信，以致於信」）。路德自述，這個領悟臨到的那一刻，他感覺自己像是被引導「重新出生」("altogether born again")，「彷彿走進了敞開的樂園大門」("entered paradise itself through open gates")——這段常被稱為他的「高塔經歷」(*Turmerlebnis*)，是宗教改革史上最具轉折意義的個人見證之一（以上為對這篇廣為人知、常被學界引用之序言內容的概述性轉述，短語引自其英譯常見譯法，非逐字全文翻譯）。
+**從恨惡「神的義」到走進樂園之門**：路德晚年（1545年）在《拉丁文著作全集序言》(*Preface to the Complete Edition of Luther's Latin Works*) 中回顧，他早年受教於經院傳統，把1:17「神的義」理解為神藉以懲罰罪人的「主動的義」，因此恨惡這個詞，甚至恨惡那位審判罪人的神：
 
-路德在更早的1522年《羅馬書序言》(*Preface to the Epistle to the Romans*) 中，稱這卷書是「新約中最重要的部分，是最純正的福音」("the chief part of the New Testament, and is truly the purest Gospel")——這是路德著作中被廣泛引用的一句話。
+> "I hated that word, ... which, by the use and custom of all my teachers, I had been taught to understand philosophically as referring to formal or active justice, as they call it, i.e., that justice by which God is just and by which he punishes sinners and the unjust. ... I did not love, no, rather I hated the just God who punishes sinners."
+>
+> 「我恨惡那個詞……照我所有老師的用法和習慣，我受教把它從哲學上理解為所謂形式的或主動的義，也就是神藉以成為公義、藉以懲罰罪人和不義之人的那種義……我不愛，不，我恨惡那位懲罰罪人的公義的神。」
+
+直到他晝夜默想，留意到上下文與哈巴谷書2:4「義人必因信得生」：
+
+> "I began to understand that in this verse the justice of God is that by which the just person lives by a gift of God, that is by faith. ... All at once I felt that I had been born again and entered into paradise itself through open gates. Immediately I saw the whole of Scripture in a different light."
+>
+> 「我開始明白，這一節裏神的義，是義人藉著神的恩賜、就是藉著信而活的那個義……剎那間我覺得自己重生了，穿過敞開的門走進了樂園本身。我立刻用另一種眼光看見整本聖經。」（Luther, *Preface to the Complete Edition of Luther's Latin Works*, 1545, trans. Andrew Thornton, Project Wittenberg）
+
+路德自己把這件事繫於1519年重講詩篇之際，並說隨後讀到奧古斯丁《論靈與字句》，發現奧古斯丁對「神的義」有相近的理解。這段常被稱為他的「高塔經歷」(*Turmerlebnis*)，是宗教改革史上最具轉折意義的個人見證之一。
+
+**「最純正的福音」**：路德更早在1522年為德文新約所寫的《羅馬書序言》(*Preface to the Epistle to the Romans*) 開頭便說：
+
+> "This letter is truly the most important piece in the New Testament. It is purest Gospel."
+>
+> 「這封信實在是新約中最重要的一篇。它是最純正的福音。」（Luther, *Preface to the Epistle to the Romans*, 1522, trans. Andrew Thornton）
+
+> 出處：兩篇序言均用 Andrew Thornton 英譯（Project Wittenberg，可自由引用）；引文已逐句核對。本書先前所引「the chief part of the New Testament, and is truly the purest Gospel」與「altogether born again」出自另一英譯，已改為可查證之版本。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-以下為對加爾文《羅馬書註釋》獻辭與導論一貫立場的綜合性歸納：加爾文認為，一旦讀者真正明白羅馬書的論證脈絡，等於握有一把打開全部聖經的鑰匙——因為羅馬書把福音的邏輯次序（罪、恩典、稱義、成聖）講得最完整、最有系統。這是他對羅馬書整體地位一貫強調的立場，非逐字引句。
+**認識羅馬書，就有了進入全部聖經的入口**：加爾文在《羅馬書註釋》的〈題旨〉(The Argument) 開頭說：
+
+> "when any one gains a knowledge of this Epistle, he has an entrance opened to him to all the most hidden treasures of Scripture."
+>
+> 「人一旦真正認識這封書信，通往聖經一切最隱藏寶藏的入口，就向他敞開了。」（Calvin, *Commentary on Romans*, "The Argument"）
+
+他接著說明理由——這封信的鋪陳極有條理，主題就是因信稱義：
+
+> "The whole Epistle is so methodical, that even its very beginning is framed according to the rules of art."
+>
+> 「整封書信如此有條理，連它的開頭都是照著章法佈局的。」
+
+> "and thus he enters on the main subject of the whole Epistle justification by faith; in treating which he is engaged to the end of the fifth chapter."
+>
+> 「就這樣他進入了整封書信的主題——因信稱義；他一直討論到第五章結束。」（同上）
+
+> 出處：Calvin, *Commentary on the Epistle to the Romans*, "The Argument"（John Owen 英譯，CCEL）；引文已核對。原撮述的「鑰匙」比喻，加爾文原文作「入口敞開」，已依原文改正；所謂「罪、恩典、稱義、成聖的邏輯次序」為編者歸納，加爾文原文只說主題是因信稱義、論到第五章末。
 
 ### 摩根 (G. Campbell Morgan)
 
-> 「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）。」
-> ——沿用〈羅馬書概覽〉引句，未附具體講題日期或原始出處連結（詳見附錄二〈參考資料〉）
+摩根有一句已核實的逐字引句，論的是羅馬書第3章與3:21以後的轉折（見第3章「歷代注疏」的完整引文與出處）；1:16-17與1:18-32這一章自身的明暗對比，是同一組「福音的大能／人的敗壞」張力更早的一次預演。以下段落經查證《The Analyzed Bible: Romans》相關章節後修訂：
 
-這句話精準地概括了1章的結構本身：1:1-17是「最樂觀的詩歌」（福音的大能），1:18-32是「最悲觀的文學篇章」（人的敗壞）——保羅刻意把兩者並排在同一章，讓讀者無法只取其一。以下為對摩根一貫解經立場與已知重點的一般性論述，非逐篇逐字引句：
+**「不以福音為恥」——宣教熱忱的最後一句自白**：摩根指出，「我不以福音為恥」這句個人化的宣告，是保羅在引言部分三句自我剖白裏收尾的一句——「我是欠債的」「我是預備好的」「我不以為恥」；三句合起來，正揭開了保羅宣教熱忱背後的祕密。
 
-**「不以福音為恥」的具體處境**：摩根指出，保羅寫「我不以福音為恥」時，羅馬正是帝國權力、修辭學、軍事榮耀的中心；一個被釘十字架的猶太拿撒勒人被宣揚為救主，對羅馬的價值觀是徹底的冒犯。「不以為恥」不是空洞的自我肯定，而是保羅明知這福音在世人眼中何等荒謬，仍然選擇公開站在它這一邊。
+> "The personal affirmation, 'I am not ashamed,' links the great argument to the introductory section, and indeed completes the threefold statement which unveils the secret of Paul's missionary enthusiasm."
+>
+> 「這句個人化的宣告『我不以為恥』，把這場大論證與引言部分連結起來，也正好完成了那揭開保羅宣教熱忱背後祕密的三重自白。」
+>
+> — G. Campbell Morgan, *The Analyzed Bible: Romans*, Fleming H. Revell, 1909, p. 26
 
-**福音的邏輯次序**：摩根強調1:16-17的三個介詞結構值得留意——福音「是神的大能」（能力）、「要救」（目的）、「神的義正在這福音上顯明」（內容）。三者環環相扣：因為有能力，所以能救；因為顯明神的義，所以這能力才是救恩而非單純的宗教感動。
+**福音的三重內容**：摩根將1:16-17拆解為三個要素——福音的「果效」（是神的大能，要救人）、福音的「條件」（給一切相信的人）、福音的「本質」（神的義的顯明）。他特別強調，「神的義……顯明」不是在宣告神自己本是公義的（這一點人早已從律法知道），而是宣告一件遠更驚人的事：
 
-**1:18-32的結構是倒退的創造敘事**：摩根觀察到，這段經文幾乎是創世記1章的逆向重演——神造人，按自己的形像（創1:26-27）；人卻把神的榮耀「變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式」（1:23），而這份清單的次序——人、飛禽、走獸、昆蟲——正是創世記1章造物次序（飛鳥、走獸、爬物，最後才造人）的倒轉：受造的次序被逆行著走回去，拿來取代造物的主。墮落不是隨機的敗壞，而是有結構的、朝造物主形像的反方向退行。
+> "It is the far more wonderful announcement that God has provided a righteousness for unrighteous men."
+>
+> 「這是一個遠遠更奇妙的宣告：神已經為不義的人預備了一個義。」
+>
+> — G. Campbell Morgan, *The Analyzed Bible: Romans*, Fleming H. Revell, 1909, p. 27
 
-> 出處：對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性論述綜合整理，非逐篇逐字引句。
+**三重「任憑」：全人潰敗的判詞**：摩根分析1:24, 26, 28三次「神就任憑他們」，指出這判詞落在人的全人身上——身體受了羞辱、靈裏陷入了墮落、心思終於變得悖謬。他強調，這不是神隨意、專斷的懲罰，而是人棄絕從受造之物所顯明的神、轉去敬拜受造之物本身之後自然結出的後果；「神任憑他們」正是神是立法之神這一事實最簡單的宣告。
+
+> 出處：以上三段經查證《The Analyzed Bible: Romans》(G. Campbell Morgan, Fleming H. Revell, 1909) pp. 25-33後修訂；前兩段已核實逐字引句，出處見上；第三段為對原著論述的一般性歸納，非逐字引句。
 
 ### 麥克阿瑟 (John MacArthur)
 
 > 「羅馬書的主題是從神而來的義：神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義——這榮耀的真理。」
-> ——沿用〈羅馬書概覽〉引句，未附具體講題日期或原始出處連結（詳見附錄二〈參考資料〉）
+> ——引自〈羅馬書概覽〉已核實引句：*The MacArthur Study Bible* 羅馬書導論〈Historical and Theological Themes〉（英文原文與出處見〈羅馬書概覽〉）
+
+麥克阿瑟講羅馬書 1:16-18 時，把 1:16-17 定為全書的主題與論題，並指出福音的信息從神的忿怒開始講起：
+
+> "these two verses form the theme and the thesis for the epistle to the Romans. In brief but glorious and comprehensive terms the epistle is compressed into these basic truths."
+>
+> 「這兩節構成了羅馬書的主題與論題。整封書信以簡短卻榮耀而全面的字句，濃縮在這幾條基本真理裏。」（45-08）
+
+> "The reason it can save is because when you believe, the righteousness of God is revealed to you. In other words, it becomes yours."
+>
+> 「它之所以能拯救，是因為你一信，神的義就向你顯明——換句話說，它成了你的。」（45-08）
+
+> "The gospel message begins with a statement about the wrath of God."
+>
+> 「福音的信息，是從一句關於神忿怒的宣告開始的。」（45-09）
+
+> "You cannot be holy and tolerate unholiness. It can't be done."
+>
+> 「你不可能既是聖潔的，又容忍不聖潔。這做不到。」（45-09）
+
+> — John MacArthur, *The Gospel of Christ* (45-08), *The Wrath of God* (45-09), gty.org, sermon 45-08 / 45-09（講道逐字稿已核對）
 
 ---
 
@@ -1175,45 +1274,105 @@ copyright: |
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-屈梭多模在他對羅馬書的講道中，一貫強調2:1的對象不只是猶太人，也包括當時異教哲學家中那些以道德教師自居、卻私下行惡的人——他認為保羅刻意不點名「猶太人」直到17節，正是要先讓每一位自認站在道德高處的讀者，不分猶太或外邦，都先在1-16節裏認出自己的臉。
+**2:1先指向掌權者，再指向每一個人**：屈梭多模認為保羅說「你這論斷人的」，首先是針對羅馬城裏手握世界統治權的人，但隨即擴及所有私人與平民——因為人人都在言談、集會和良心的投票裏審判別人：
 
-> 出處：屈梭多模《羅馬書講道集》(*Homilies on Romans*) 對2章一貫論證方式的一般性歸納，非逐字引句、未附具體講次篇號。
+> "These things he says, with an aim at the rulers, inasmuch as that city then had the rule of the world put into its hands."
+>
+> 「他說這些話，是針對掌權者，因為那城當時握有統治世界的權柄。」
+
+> "But when he says, whosoever you are that judgest, he is not addressing himself to the rulers only, but to private individuals and subjects also. For all men, even if they have no chair of state, nor executioners, nor stocks at command, yet even they judge those that offend, in conversations and public meetings ... and by the vote of their conscience."
+>
+> 「但當他說『你這論斷人的，無論你是誰』，他不只是對掌權者說，也是對私人和平民說。因為所有人，即使沒有審判席、沒有行刑人、沒有刑具可用，也照樣在言談裏、在公眾集會裏、憑良心的投票，審判那些犯錯的人。」（Chrysostom, *Homilies on Romans*, Homily 5, on 2:1）
+
+**對猶太人先從遠處拆牆，免得激怒他**：屈梭多模也注意到保羅在2章不急於點名猶太人；他的解釋不是讓讀者「先認出自己的臉」，而是保羅刻意先在「恩典之前」的年代裏拆除猶太人與希臘人的分別，好叫這話不惹人猜疑：
+
+> "Here then he is first breaking through the partition between the circumcision and the uncircumcision: and at a distance dissipates this distinction beforehand, so as to do it without being suspected"
+>
+> 「所以他在這裏先打破受割禮與未受割禮之間的隔牆，從遠處預先消解這個分別，好不惹人猜疑地做成此事。」（Homily 5, on 2:10）
+
+> 出處：Chrysostom, *Homilies on the Epistle to the Romans*, Homily 5（NPNF 英譯，New Advent 網站）；引文已核對。原撮述所稱「異教哲學家中以道德教師自居者」，經查證第5講未見，屈梭多模所指是羅馬的掌權者與一切私下論斷人的人，已依原文改正。
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-奧古斯丁的論著《論精神與字句》(*De Spiritu et Littera*, 主後412年) 正是以羅馬書（包括2:29的「儀文與靈」）為核心文本寫成，回應伯拉糾主義對人靠自己遵行律法之能力的樂觀看法。他的論點可以一般性地歸納為：律法若沒有聖靈同在，只能是「叫人死的儀文」——它顯明義的標準，卻不賜下遵行的能力；唯有聖靈將愛澆灌在心裏（羅5:5），律法才不再是外在的控告者，而成為內在生命的樣式。
+**沒有賜生命之靈的教導，就是叫人死的儀文**：奧古斯丁的論著《論精神與字句》(*De Spiritu et Littera*, 主後412年) 以羅馬書為主軸，回應伯拉糾主義對人靠自己遵行律法之能力的樂觀看法。他一開頭就界定甚麼是「叫人死的字句」：
 
-> 出處：Augustine, *De Spiritu et Littera*（《論精神與字句》）論題主旨之一般性歸納，非逐字引句。
+> "For that teaching which brings to us the command to live in chastity and righteousness is the letter that kills, unless accompanied with the spirit that gives life."
+>
+> 「那把貞潔與公義的命令帶給我們的教導，若沒有賜生命的靈相伴，就是叫人死的字句。」（Augustine, *On the Spirit and the Letter*, ch. 6 [IV]）
+
+律法顯明標準卻不賜能力；能力來自聖靈澆灌在心裏的愛（羅5:5）：
+
+> "Now, in order that such a course may engage our affections, God's love is shed abroad in our hearts, not through the free-will which arises from ourselves, but through the Holy Ghost, which is given to us."
+>
+> 「為要使這樣的道路得著我們的情感，神的愛澆灌在我們心裏，不是藉著出於我們自己的自由意志，而是藉著所賜給我們的聖靈。」（ch. 5 [III]）
+
+講到2:29的「心裏的割禮」，他說：
+
+> "He calls, however, the circumcision of the heart the will that is pure from all unlawful desire; which comes not from the letter, inculcating and threatening, but from the Spirit, assisting and healing."
+>
+> 「他所謂心裏的割禮，是指脫離一切不法慾望的潔淨意志；這不是從那反覆訓誡、威嚇的字句來的，而是從那扶助、醫治的聖靈來的。」（ch. 13 [VIII]）
+
+> 出處：Augustine, *De Spiritu et Littera*（《論精神與字句》；NPNF 英譯，New Advent 網站，章號依該版）；引文已核對，原撮述要旨經查證屬實。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他早年的《羅馬書講義》(*Lectures on Romans*, 1515-1516年羅馬書講義) 中，對羅馬書2章的一貫立場可歸納為：律法的其中一項功用，是把人的自義擊碎，讓他從「我能做到」的幻覺中驚醒，轉向基督——這後來在改教家的系統神學中被稱為律法的「神學性用途」(*usus theologicus* / *usus elenchticus*)：律法像鏡子，照出污穢，卻不能替人洗淨。
+路德在1515-1516年於威登堡講授羅馬書（後世稱《羅馬書講義》，*Lectures on Romans*）。他對羅馬書2章的立場，一般歸納為：律法的一項功用是把人的自義擊碎，讓他從「我能做到」的幻覺中驚醒，轉向基督——這後來在改教家的系統神學中被稱為律法的「神學性用途」(*usus theologicus* / *usus elenchticus*)：律法像鏡子，照出污穢，卻不能替人洗淨。
 
-> 出處：對路德《羅馬書講義》及其律法神學一貫立場的一般性歸納，非逐字引句、未附具體頁碼。
+> 出處：對路德律法神學一貫立場的一般性歸納，非逐字引句、未附頁碼。《羅馬書講義》現行英譯（Pauck 1961；LW 25）均受版權保護，本書無法逐句核對，故不加引號。路德曾在大學講授羅馬書一事，以他1545年《拉丁文著作全集序言》的自述為據（見第1章、第4章）。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《羅馬書註釋》(*Commentary on Romans*) 中對2:6「照各人的行為報應各人」的一貫解釋是：這節經文並不與因信稱義的教義衝突，因為審判「照行為」指的是行為作為信心真實與否的證據和果子，而非稱義的根基——真信心必然結出行為的果子，但果子從不是樹根本身。
+**「從賞賜推出功德，是荒謬的推論」**：加爾文在《羅馬書註釋》(*Commentary on Romans*) 處理2:6「照各人的行為報應各人」時，並不訴諸「行為是信心的果子」這類說法，而是直接指出：這節經文只說善行將得甚麼賞賜，完全沒有說善行值多少——神冠冕信徒的善行，不是因為功德，而是因為祂先定意榮耀誰，就先使誰成聖：
 
-> 出處：對加爾文《羅馬書註釋》處理2:6與因信稱義關係之一貫立場的一般性歸納，非逐字引句。
+> "as he sanctifies those whom he has previously resolved to glorify, he will also crown their good works, but not on account of any merit: nor can this be proved from this verse; for though it declares what reward good works are to have, it does yet by no means show what they are worth, or what price is due to them. And it is an absurd inference, to deduce merit from reward."
+>
+> 「祂既使那些祂先前定意要榮耀的人成聖，也必冠冕他們的善行，卻不是因為任何功德——這一點也無法從本節證明；因為本節雖宣告善行將得甚麼賞賜，卻絲毫沒有顯明善行值多少、該付甚麼代價。從賞賜推出功德，是荒謬的推論。」（Calvin, *Commentary on Romans*, on 2:6）
+
+> 出處：Calvin, *Commentary on the Epistle to the Romans*, on 2:6（John Owen 英譯，CCEL）；引文已核對。原撮述「行為作為信心真實與否的證據和果子」是改革宗通說，加爾文在2:6處的論法是「賞賜不等於功德」，已依原文改正。
 
 ### 摩根 (G. Campbell Morgan)
 
 **論證的修辭策略**：摩根對羅馬書整體論證結構的分析，一貫強調保羅在1:18-3:20 採取的是法庭式的層層逼近：先呈給讀者一份令人義憤的罪惡清單（1:18-32），再讓讀者自己踏入審判台（2:1起），最後把猶太人——最不可能被指控的一群——也帶上被告席（2:17起）。摩根認為，這種寫法的果效不在於資訊的傳遞，而在於**讓讀者自己宣判自己**：2:1的論斷者，不是被保羅定罪的，是被自己的論斷定罪的。
 
-**「悲觀」與「樂觀」的張力**：摩根形容羅馬書「是你眼睛所見過最悲觀的文學篇章（論人的罪），同時也是你耳朵所聽過最樂觀的詩歌（論神的救恩）」（見〈羅馬書概覽〉）。2章正站在這兩極之間最悲觀的一端——它不留一條後路，但正因如此，3:21以後的樂觀才不是廉價的安慰，而是真正的好消息。
+**「悲觀」與「樂觀」的張力**：摩根有一句已核實的逐字引句，說單讀到第3章結尾（3:20「都在罪惡之下」）為止，是「你眼睛所見過最悲觀的一頁文字」；讀下去到3:21「但如今」，就成了「你耳朵所聽過最樂觀的一首詩歌」（原文與完整出處見第3章「歷代注疏」）。2章正站在這兩極之間最悲觀的一端——它不留一條後路，但正因如此，3:21以後的樂觀才不是廉價的安慰，而是真正的好消息。
 
-**「不偏待人」與福音的普世性**：摩根對2:11「神不偏待人」的一貫論述可歸納為，這節經文不只是審判原則，也預告了整卷書後段的宣教邏輯——「先是猶太人，後是希利尼人」既是審判的次序，也是福音的次序（羅1:16）；神的公義若不偏待人，神的恩典同樣不偏待人。
+**審判的終極標準：基督與福音**：摩根指出，保羅論2:13-16猶太人與外邦人一同受審，最終的判準不落在律法知識本身，而是2:16「就在神藉耶穌基督審判人隱祕事的日子」——人格與行為最終的試驗，是人對這位救主的態度。
 
-> 出處：對 G. Campbell Morgan 羅馬書結構分析與一貫解經立場之一般性歸納，非逐字引句、未附具體篇章頁碼。
+> "the final test of character and of conduct is to be that of man's attitude to the Saviour. Evidently therefore the presentation of the Gospel is the last opportunity that man has; and equally evident is it, that every man must have this opportunity as the basis of judgment."
+>
+> 「人格與行為最終的試驗，在於人對這位救主的態度。福音的顯明顯然是人最後的機會；同樣顯然的是，每一個人都必須得著這個機會，作為審判的根基。」
+>
+> — G. Campbell Morgan, *The Analyzed Bible: Romans*, Fleming H. Revell, 1909, p. 38
+
+> 出處：「論證的修辭策略」一段，為對 G. Campbell Morgan 羅馬書結構分析一貫立場的一般性歸納，非逐字引句，經查證《The Analyzed Bible: Romans》(Fleming H. Revell, 1909) pp. 29-38相關章節，方向相符；「審判的終極標準：基督與福音」一段之逐字引句已核實，出處見上。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟對羅馬書2章的一貫解經立場可歸納為：這一章的猶太讀者代表著歷世歷代最危險的一種屬靈狀態——不是不認識神的道德標準，而是把「認識」本身誤當成「達到」，把擁有聖經的知識誤當成擁有聖經所要求的義。這正是他對全羅馬書「神因恩典，藉著單單信靠基督，稱有罪、被定罪的罪人為義」這一主題句（見〈羅馬書概覽〉）在2章的具體應用。
+麥克阿瑟講羅馬書 2:17-29 時，把猶太人的三重「安全感」——身為以色列人、擁有律法、受過割禮——逐一拆開。他的重點不是猶太人不認識神的標準，而是他們把「擁有」誤當成「遵守」，把「知道」誤當成「達到」。
 
-> 出處：對麥克阿瑟一貫解經立場之一般性歸納，未附具體 gty.org 講題連結或講道日期。
+**安息在「擁有」上，不是安息在「遵守」上**：
+
+> "They were resting in the possession of it rather than in the keeping of it, truly."
+>
+> 「他們安息在『擁有』律法這件事上，而不是真正安息在『遵守』律法上。」（45-22）
+
+> "Because to know God's will doesn't mean anything except you're more responsible, again, if you don't do it."
+>
+> 「因為知道神的旨意本身不代表甚麼——只代表你若不去行，責任更重。」（45-22）
+
+**字句不是關鍵，內在的人裏有沒有神的話才是**：
+
+> "Having the letter of the law, possessing the knowledge, isn't the issue. It is in the spirit, the soul, the inner self having the Word of God."
+>
+> 「擁有律法的字句、擁有那知識，不是關鍵。關鍵在於靈裏、魂裏、內在的人裏面有神的話。」（45-23）
+
+> "the man who has a false security needs to know how false it really is."
+>
+> 「一個抱著虛假安全感的人，需要知道那安全感究竟有多虛假。」（45-23）
+
+> — John MacArthur, *False Security, Part 1* (45-22), *False Security, Part 2* (45-23), gty.org, sermon 45-22 / 45-23（講道逐字稿已核對）
 
 ---
 
@@ -1507,11 +1666,49 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他1522年為德文新約所寫的〈羅馬書序言〉（Preface to the Epistle to the Romans）中，稱羅馬書全卷是「新約中最重要的部分，是最純正的福音」（"the chief part of the New Testament, and is truly the purest Gospel"，與本書第1章所引為同一句話）——而3:21-26正是這卷「最純正的福音」的核心段落。他後來整個宗教改革的突破，正是在苦讀羅馬書、特別是「神的義」這個片語的過程中發生的——他從原先懼怕「神的義」（以為指神審判人的公義標準），到終於明白這是神「賜給」人、人可以因信領受的義。
+**「最純正的福音」與「樂園之門」**：路德在1522年為德文新約所寫的〈羅馬書序言〉（Preface to the Epistle to the Romans）開頭說：
+
+> "This letter is truly the most important piece in the New Testament. It is purest Gospel."
+>
+> 「這封信實在是新約中最重要的一篇。它是最純正的福音。」（Luther, *Preface to the Epistle to the Romans*, 1522, trans. Andrew Thornton；與本書第1章所引為同一句）
+
+而3:21-26正是這卷「最純正的福音」的核心段落。路德整個宗教改革的突破，是在苦讀羅馬書、特別是「神的義」這個片語的過程中發生的——他從懼怕「神的義」（以為指神審判人的公義標準），到明白這是神賜給人、人因信領受的義。他在1545年的回顧裏這樣說：
+
+> "I began to understand that this verse means that the justice of God is revealed through the Gospel, but it is a passive justice, i.e. that by which the merciful God justifies us by faith"
+>
+> 「我開始明白這一節的意思是：神的義藉著福音顯明出來，但它是一種被動的義，就是憐憫的神藉以因信稱我們為義的那個義。」
+
+> "This phrase of Paul was for me the very gate of paradise."
+>
+> 「保羅這句話對我來說，就是樂園之門。」（Luther, *Preface to the Complete Edition of Luther's Latin Works*, 1545, trans. Andrew Thornton, Project Wittenberg；全段見第1章）
+
+> 出處：兩篇序言均用 Andrew Thornton 英譯（Project Wittenberg）；引文已核對。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》與其羅馬書註釋中，將3:21-26視為因信稱義教義的源頭經文（此為對其一貫解經立場的一般性歸納，非逐字引句）。他反覆強調：稱義是神法庭上的宣告行為（*acceptilatio*，會計用語，意指債務已被勾銷），而非把人實際改造成義人的過程；人的義完全是「歸算的義」（*imputed righteousness*）——基督的義被算在信徒的賬上，正如信徒的罪被算在基督的賬上。
+**稱義是神法庭上的宣告，不是改造**：加爾文在《基督教要義》卷三第11章給稱義下定義時，用的字是「接納」(acceptance) 與「歸算」(imputation)，而不是把人實際改造成義人：
+
+> "Thus we simply interpret justification, as the acceptance with which God receives us into his favor as if we were righteous; and we say that this justification consists in the forgiveness of sins and the imputation of the righteousness of Christ"
+>
+> 「所以我們簡單地把稱義解釋為：神接納我們進入祂的恩眷，如同我們是義的；我們說這稱義包含赦罪與基督之義的歸算。」（Calvin, *Institutes* III.11.2）
+
+> "To justify, therefore, is nothing else than to acquit from the charge of guilt, as if innocence were proved."
+>
+> 「因此，稱義不是別的，就是從罪的控告中宣告無罪，如同清白已經證明。」（*Institutes* III.11.3）
+
+他在同章引3:24、3:26作經文根據，並在章末把「歸算」與哥林多後書5:21的交換連起來——基督的義被算在信徒賬上，而信徒本身仍是該受刑罰的人：
+
+> "the righteousness of Christ is communicated to him by imputation, while he is strictly deserving of punishment."
+>
+> 「基督的義藉著歸算傳給他，而他本身嚴格說來是該受刑罰的。」（*Institutes* III.11.23）
+
+在《羅馬書註釋》論3:21，加爾文說保羅把對行為的一切信靠拿走之後，單單立起憐憫：
+
+> "but having taken away and wholly removed all confidence in works, he sets up mercy alone."
+>
+> 「他把對行為的一切信靠都拿走、完全除去之後，就單單立起憐憫。」（Calvin, *Commentary on Romans*, on 3:21）
+
+> 出處：Calvin, *Institutes of the Christian Religion* III.11.2, 3, 23（Beveridge 英譯）；*Commentary on Romans*, on 3:21（Owen 英譯，CCEL）；引文已核對。原撮述稱加爾文用「*acceptilatio*（會計用語，債務勾銷）」一詞，經查證《要義》與《羅馬書註釋》英譯均無此詞，加爾文用的是 acceptance 與 imputation，已改正。
 
 **歷史事實補充**：宗教改革「唯獨信心、唯獨恩典」（*sola fide, sola gratia*）的教義主張，其最直接的聖經根基正是羅馬書3:21-31這一段——這是教會歷史上可查證的事實，不是後人附會。
 
@@ -1519,21 +1716,53 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 **羅馬書前三章是保羅刻意搭建的一座法庭**：摩根指出，保羅在1:18到3:20之間，像一位檢察官，先傳喚外邦人受審（1:18-32：他們有普遍啟示卻拜偶像），再傳喚猶太人受審（2:1-29：他們有律法卻論斷人、自己也犯律法），到3:9-20做出總結陳詞——「都在罪惡之下」。這不是保羅隨興發揮的道德說教，是一份精心構築、無可辯駁的起訴書，目的只有一個：讓每一張嘴都閉口無言（3:19「塞住各人的口」），使人再沒有僥倖脫罪的空間，才能真正聽見3:21「但如今」帶來的好消息。
 
-**「但如今」是全信、甚至可以說是全本聖經的軸心**：摩根將羅馬書的結構視為一齣兩幕劇——第一幕（1:18-3:20）是黑暗，是「你眼睛所見過最悲觀的文學篇章」；第二幕（3:21起）驟然轉為光明，是「你耳朵所聽過最樂觀的詩歌」。兩幕之間的轉場，只靠兩個字：「但如今」。摩根特別提醒讀者，不要把這個轉折讀得太輕——它不是保羅換了一個溫和一點的話題，而是神在歷史中真實介入、成就了一件人絕對做不到的事。
+**「但如今」是全信、甚至可以說是全本聖經的軸心**：摩根有一句已核實的逐字引句，正是論這一章的轉折：
 
-**挽回祭是全段的重心**：摩根認為，3:25「挽回祭」一詞，是把整段經文從抽象的法律術語，拉回到活生生的獻祭現場——利未記裏那個大祭司一年一度、戰戰兢兢帶著血進入至聖所的畫面，如今在十字架上，一次性地、公開地、為萬民成就了。信徒因信站在神面前，靠的不是自己有沒有把功課做好，而是那滴在施恩座上的血，是否已經流出。
+> "Read the third chapter of this book, and read no more, and you will say that it is the most pessimistic page of literature upon which your eyes ever rested. Read that which immediately follows it, and follow the argument to the end, and you will say that it is the most optimistic poem to which your ears ever listened."
+>
+> 「單讀這卷書的第三章，讀到此為止，你會說這是你眼睛所見過最悲觀的一頁文字；再讀緊接其後的內容，一路跟隨這論證讀到末了，你會說這是你耳朵所聽過最樂觀的一首詩歌。」
+>
+> — G. Campbell Morgan, *Living Messages of the Books of the Bible*（新約卷）〈The Message of Romans〉一章，Fleming H. Revell, 1912
 
-> 出處：對 G. Campbell Morgan 羅馬書1-3章相關講章與釋經著作一貫解經立場的綜合性歸納陳述，非逐字引句、未附具體出版頁碼。
+摩根說的正是3:1-20（本章）與3:21起的對比：只讀到「都在罪惡之下」（3:9-20）為止，這是最悲觀的一頁；讀下去到3:21「但如今」，就翻轉成最樂觀的一首詩。兩者之間，只靠兩個字：「但如今」。摩根特別提醒讀者，不要把這個轉折讀得太輕——它不是保羅換了一個溫和一點的話題，而是神在歷史中真實介入、成就了一件人絕對做不到的事。
+
+**挽回祭是全段的重心**：摩根指出，神的方法是「將基督耶穌向人設立、顯明出來，作挽回祭」——祂是神自己的供應：人有罪，因此無話可說，既無法勾銷自己的罪，也無法活出義的生命；神卻在祂兒子身上，親自提供人所需要的一切。這工作是藉著「祂的血」所象徵的那奧祕成就的：
+
+> "This work was accomplished in the mystery of all that is symbolized by 'His blood.' Thus the work of the Cross is set at the heart of the evangel of salvation, and is seen to be a fulfilment of God's purpose by God's Son, for the vindication of God's righteousness in the activity of God's forbearance."
+>
+> 「這工作是藉著『祂的血』所象徵的那奧祕成就的。因此，十字架的工作被安放在救恩福音的核心，也顯明這是神藉著祂兒子成就自己旨意的作為，為要在神忍耐的作為中，證實神自己的公義。」
+>
+> — G. Campbell Morgan, *The Analyzed Bible: Romans*, Fleming H. Revell, 1909, pp. 55-56
+
+十字架工作的結果，是保羅那句「既驚人又滿有恩典的宣告」——神「自己為義，也作那信耶穌之人的稱義者」。信徒因信站在神面前，靠的不是自己有沒有把功課做好，而是十字架上這奧祕的血，是否已經流出。
+
+> 出處：「羅馬書前三章是保羅刻意搭建的一座法庭」一段，為對 G. Campbell Morgan 羅馬書1-3章一貫解經立場的綜合性歸納陳述，非逐字引句，經查證《The Analyzed Bible: Romans》(Fleming H. Revell, 1909) pp. 29-49相關章節，方向相符；「但如今」與「挽回祭是全段的重心」兩段之逐字引句均已核實，出處見上。
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**（沿用〈羅馬書概覽〉引句，論羅馬書因信稱義相關）：
+麥克阿瑟講羅馬書 3:21-26 時，先劃清「律法」一詞在此指的是人為的律法主義，再把稱義定義為神的一次宣告——真實的宣告無罪、真實的歸算，而且是白白的禮物。
 
-> 「稱義在神學意義上是法律術語。它描述神對信徒的宣告，而非神對信徒的改變。稱義超越單純的赦免；單是赦免仍使罪人在神面前沒有功德。因此當神稱人為義時，祂將神聖的義歸算給罪人。」
+**義是「在律法以外」——與任何人為努力無關**：
 
-> 「稱義將信徒提升到完全蒙接納和在基督耶穌裏享有神聖特權的境界。因此，因著稱義，信徒不僅完全免於任何定罪的指控（羅8:33），而且基督的全部功德都歸算在他們個人賬上。」
+> "He says this righteousness is apart from the law and I believe very clearly he uses the word there in the sense of legalism. It is apart from any man-made human effort."
+>
+> 「他說這義是在律法以外；我認為他在這裏用『律法』一詞，明顯是指律法主義。這義與任何人為的努力無關。」（45-29）
 
-> 出處：沿用〈羅馬書概覽〉引句，論羅馬書3-4章因信稱義主題；未附具體講題日期或原始出處連結，詳見附錄二〈參考資料〉。
+**稱義是一次真實的宣告無罪、真實的歸算**：
+
+> "Now I believe we are made right with God, an actual acquittal, an actual imputation. And how? Freely by His grace. Freely means as a gift."
+>
+> 「我相信我們得以在神面前為義，是一次真實的宣告無罪、一次真實的歸算。怎麼來的？白白地，靠祂的恩典。白白，意思就是作為禮物。」（45-30）
+
+**這是一個法律行動**（講羅 4:3 時回頭總結 3 章的稱義）：
+
+> "That's a legal act. Righteousness is put on your account. It's like being a beggar, a pauper, and having nothing, and having the world's richest person put in the bank a fortune to your account; it belongs to you."
+>
+> 「那是一個法律行動。義被記在你的賬上。就像一個乞丐、一個一無所有的窮人，世上最富有的人把一筆財富存進銀行記在你的賬上；它就屬於你了。」（45-34）
+
+> — John MacArthur, *How to Be Right with God, Part 1* (45-29), *How to Be Right with God, Part 2* (45-30), *Abraham--Justified by Faith, Part 1* (45-34), gty.org, sermon 45-29 / 45-30 / 45-34（講道逐字稿已核對）
+
+〈羅馬書概覽〉所收「稱義在神學意義上是法律術語……」與「稱義將信徒提升到……」兩段中譯引句，疑出自麥克阿瑟的印刷著作，未能以 gty.org 線上逐字稿核對，本章不再沿用；其論點已由上列講道原句涵蓋。
 
 ---
 
@@ -1836,44 +2065,107 @@ Augustus Toplady 所作，1775年首次發表於《福音雜誌》(*The Gospel M
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-奧古斯丁於412年撰寫《論靈與字句》(*De Spiritu et Littera*)，正是以羅馬書（尤其是3-4章）作為反駁伯拉糾主義的核心戰場。伯拉糾主張人靠自己的意志努力可以達到神所要求的義；奧古斯丁則反覆指出，羅馬書4章「算為義」的邏輯已經排除了這種可能——連信心本身，也是神恩典所賜下的，而不是人自己憑意志產生、用來換取稱義的功德。
+**信心本身是否在我們手中？**：奧古斯丁於412年撰寫《論靈與字句》(*De Spiritu et Littera*)，以羅馬書為主軸反駁伯拉糾主義——伯拉糾主張人靠自己的意志努力可以達到神所要求的義。他在書末追問「信心是否在我們自己的權能之內」時，引的正是創世記15:6與羅馬書4:5：
 
-> 出處：對奧古斯丁《論靈與字句》處理羅馬書3-4章反伯拉糾論證的一般性歸納，非逐字引句。
+> "Even the faith by which we believe God, or believe in God. For of this it is written, Abraham believed God, and it was counted unto him for righteousness. And again, To him that believes in Him that justifies the ungodly, his faith is counted for righteousness."
+>
+> 「就是我們藉以信神、信靠神的那信心。關於它，經上記著：亞伯拉罕信神，這就算為他的義；又說：那信稱不虔者為義之神的，他的信就算為義。」（Augustine, *On the Spirit and the Letter*, ch. 54 [XXXI]）
+
+他的結論是：在人裏面作成「願意相信」的，是神——但在這部早期反伯拉糾作品裏，他仍保留一句：對神的召喚點頭或拒絕，是我們自己意志的功用：
+
+> "it surely follows that it is God who both works in man the willing to believe, and in all things prevents us with His mercy. To yield our consent, indeed, to God's summons, or to withhold it, is (as I have said) the function of our own will."
+>
+> 「由此必然可見，在人裏面作成那相信之意願的，是神；祂的憐憫在一切事上都先行於我們。至於對神的召喚點頭或拒絕，（如我所說）確實是我們自己意志的功用。」（ch. 60 [XXXIV]）
+
+> 出處：Augustine, *De Spiritu et Littera*, ch. 54, 60（NPNF 英譯，New Advent 網站，章號依該版）；引文已核對。原撮述謂「羅馬書4章的邏輯已經排除這種可能……連信心本身也是神恩典所賜」，經查證：奧古斯丁引羅4:5是在討論「信心是否在我們權能之內」，結論是「使人願意相信的是神」，但同時保留「同意與否是我們意志的功用」，語氣比原撮述審慎，已依原文改正；原稱「尤其是3-4章」，本書用得最多的其實是林後3:6、羅2-3章、5:5、7章與耶31，已刪去。
 
 **屈梭多模 (John Chrysostom, 約347-407)**：
 
-屈梭多模在《羅馬書講道集》中一貫強調本章「稱不虔者為義」一語的驚人程度：神稱義的對象不是已經潔淨的人，而是仍在不虔敬狀態中、單單憑信心投靠祂的人；這正顯明救恩完全出於神的恩慈，而非人先自潔才蒙悅納。
+**「稱不虔者為義」的驚人程度**：屈梭多模在《羅馬書講道集》(*Homilies on Romans*) 講到4:5時說：
 
-> 出處：對屈梭多模《羅馬書講道集》(*Homilies on Romans*) 相關論述精神的一般性轉述，非逐字引句。
+> "For reflect how great a thing it is to be persuaded and have full confidence that God is able on a sudden not to free a man who has lived in impiety from punishment only, but even to make him just, and to count him worthy of those immortal honors."
+>
+> 「想想看，這是何等大的事：確信、且全然信靠神能在剎那間，不只叫一個活在不虔中的人免受刑罰，更叫他成為義，算他配得那些不朽的尊榮。」（Chrysostom, *Homilies on Romans*, Homily 8, on 4:5）
+
+他也指出保羅選亞伯拉罕作例證的用意——一個滿有善行的人竟不是從行為、而是從信得稱為義，才真正顯出信心的能力：
+
+> "For for a person who had no works, to be justified by faith, was nothing unlikely. But for a person richly adorned with good deeds, not to be made just from hence, but from faith, this is the thing to cause wonder, and to set the power of faith in a strong light."
+>
+> 「一個沒有行為的人因信稱義，並不奇怪；但一個滿有善行的人，不是從善行、而是從信得以稱義，這才叫人驚奇，也把信心的能力放在強光之下。」（Homily 8, on 4:1）
+
+> 出處：Chrysostom, *Homilies on the Epistle to the Romans*, Homily 8（NPNF 英譯，New Advent 網站）；引文已核對，原撮述要旨經查證屬實。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在1515-1516年於威登堡大學講授羅馬書（後世稱為《羅馬書講義》），正是在對本章的深入研讀中，逐漸確立「因信稱義」是整本聖經一貫的救法，而非中世紀教會所理解的「因信加上行為稱義」。路德一再指出：羅馬書4章證明神稱義的方法自亞伯拉罕以來從未改變——這使他確信，宗教改革所堅持的「唯獨因信」(*sola fide*) 不是新教義，而是要恢復被中世紀經院神學遮蔽的舊真理。
+路德在1515-1516年於威登堡大學講授羅馬書（後世稱為《羅馬書講義》，*Lectures on Romans*）。他自己在1545年的回顧裏也提到這段講課：
 
-> 出處：對路德《羅馬書講義》(*Lectures on Romans*, 1515-1516) 及其因信稱義神學形成過程的一般性歸納，非逐字引句。
+> "I felt confident that I was now more experienced, since I had dealt in university courses with St. Paul's Letters to the Romans, to the Galatians, and the Letter to the Hebrews."
+>
+> 「我覺得自己更有把握了，因為我已在大學課程裏講過保羅的羅馬書、加拉太書和希伯來書。」（Luther, *Preface to the Complete Edition of Luther's Latin Works*, 1545, trans. Andrew Thornton）
+
+一般認為，正是在這幾年對羅馬書（包括本章）的研讀中，他逐漸確立「因信稱義」是整本聖經一貫的救法，而非中世紀教會所理解的「因信加上行為稱義」——羅馬書4章證明神稱義的方法自亞伯拉罕以來從未改變，所以「唯獨因信」(*sola fide*) 不是新教義，而是恢復被經院神學遮蔽的舊真理。
+
+> 出處：路德《羅馬書講義》現行英譯（Pauck 1961；LW 25）均受版權保護，本書無法逐句核對其論本章的文字，故以上為對其因信稱義神學形成過程的一般性歸納，不加引號、不附頁碼；講授羅馬書的史實以路德1545年序言為據。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》卷三論稱義的部分，以及他的《羅馬書註釋》中，反覆援引羅馬書4章與創世記15:6，論證舊約聖徒與新約信徒得稱義的方式完全相同——都是「因信」，而非「因行為」。加爾文特別強調，保羅選擇亞伯拉罕而非隨便一個外邦人作例證，正是為了堵住猶太人「我們是亞伯拉罕的後裔」的自誇：連亞伯拉罕自己都是靠恩典，他的後裔又怎能靠血統或律法誇口？
+**亞伯拉罕是全教會公用的鏡子，也堵住了猶太人的誇口**：加爾文在《羅馬書註釋》論4:1說，得義的路只有一條，亞伯拉罕的例子因此對整個教會有效；保羅選他作例證，正是要堵住猶太人「我們是亞伯拉罕子孫」的自誇：
 
-> 出處：對加爾文《基督教要義》卷三第11章與《羅馬書註釋》相關論述精神的一般性歸納，非逐字引句。
+> "there is also but one way and not many ways by which righteousness may be obtained by all."
+>
+> 「使眾人得著義的路也只有一條，並非多條。」
+
+> "at the same time he gives a check to the Jews, who had nothing more plausible to glory in than that they were the children of Abraham; and they could not have dared to claim to themselves more holiness than what they ascribed to the holy patriarch. Since it is then evident that he was justified freely, his posterity, who claimed a righteousness of their own by the law, ought to have been made silent even through shame."
+>
+> 「同時他也給猶太人一個制止——他們最拿得出手的誇口，莫過於自己是亞伯拉罕的子孫；他們總不敢自稱比這位聖潔的族長更聖潔。既然亞伯拉罕顯然是白白得稱為義，他那些靠律法自稱有義的後裔，就該羞愧得閉口無言了。」（Calvin, *Commentary on Romans*, on 4:1）
+
+在《基督教要義》卷三第11章，他同樣以4:2為據：
+
+> "The conclusion, therefore, is, that he was not justified by works. He then employs another argument from contraries--viz. when reward is paid to works, it is done of debt, not of grace; but the righteousness of faith is of grace: therefore it is not of the merit of works."
+>
+> 「所以結論是：亞伯拉罕不是因行為稱義。保羅接著又從對立面論證——賞賜若是付給行為，就是出於債，不是出於恩典；而信心的義是出於恩典，所以不是出於行為的功德。」（Calvin, *Institutes* III.11.13）
+
+> 出處：Calvin, *Commentary on the Epistle to the Romans*, on 4:1-3（Owen 英譯，CCEL）；*Institutes* III.11.13（Beveridge 英譯）；引文已核對，原撮述要旨經查證屬實。
 
 ### 摩根 (G. Campbell Morgan)
 
 **從辯詞到見證**：摩根指出，羅馬書1-3章的筆法近乎法庭辯詞——保羅像檢察官一樣，逐項列舉外邦人、猶太人的罪狀，直到3:20「凡有血氣的，沒有一個因行律法能在神面前稱義」。第4章的筆調卻整個轉變——保羅不再辯論，而是舉證：他請出猶太人最敬重的見證人亞伯拉罕與大衛，讓他們親口證明，因信稱義從來不是新教義。
 
-**亞伯拉罕作為「信心的原型」**：摩根一貫強調，保羅選擇亞伯拉罕不是隨機取例，而是因為亞伯拉罕在猶太人的自我認同裏佔據著無可取代的地位——「我們的父」。如果連這位「父」都要靠信心才蒙悅納，任何後裔靠血統、靠律法的誇口就都站立不住。摩根將這種論證方式稱為「用對手最堅固的堡壘，證明對手的立場本身站不住」。
+**亞伯拉罕作為「信心的原型」**：摩根指出，保羅選擇亞伯拉罕不是隨機取例，而是因為亞伯拉罕是「這個民族的父親與奠基者」("the father and founder of the nation")——如果連這位民族之「父」都是因信被神接納、因信蒙賞賜，而非因行為，任何後裔靠血統、靠律法的誇口就都站立不住。摩根把這段論證分成四個環節：亞伯拉罕個人蒙悅納、他與應許的關係、他的信心在危機時刻的操練、以及把這段歷史應用到今日信徒身上——目的都在顯明：亞伯拉罕的歷史與信徒的經歷，是同一個原則的兩次印證。
 
-**「使無變為有」的創造性信心**：摩根特別看重4:17「叫死人復活、使無變為有的神」這句描述——這不只是亞伯拉罕個人處境的寫照（撒拉的不孕、身體的衰老），更是整本羅馬書救恩論的縮影：神的恩典從來不是修補已有的良善，而是從無到有的創造性作為，正如稱義本身不是承認人原本的義，而是神創造性地宣告、賜下本來沒有的義。
+**「使無變為有」的創造性信心**：摩根特別看重4:17「叫死人復活、使無變為有的神」這句描述——他指出，這應許之所以能夠實現，正是「神作為的結果：祂因信叫死人復活，稱那不存在的如同存在」("the result of the act of God, by which in answer to faith He quickened the dead, and called the things that were not as though they were")，寫的正是亞伯拉罕個人處境（撒拉的不孕、身體的衰老）如何被這位神翻轉。摩根雖未在此直接把這句話擴大為全書救恩論的縮影，但這幅「從無造有」的圖像，與羅馬書稱義本身「非修補已有的良善，而是神創造性地賜下本來沒有的義」，方向是一致的。
 
-> 出處：對 G. Campbell Morgan 羅馬書相關講章（含《The Analyzed Bible》系列對羅馬書因信稱義主題的論述精神）之一般性、綜合性歸納轉述，非逐字引句、無具體篇章頁碼。
+> 出處：「從辯詞到見證」「亞伯拉罕作為『信心的原型』」「『使無變為有』的創造性信心」三段，經查證《The Analyzed Bible: Romans》(G. Campbell Morgan, Fleming H. Revell, 1909) pp. 59-64相關章節後修訂，方向與原著相符；引號內短語為原著逐字用語，其餘為對原著論述的一般性歸納，非逐篇逐字引句。
 
 ### 麥克阿瑟 (John MacArthur)
 
-> 「『算』(*logizomai*) 這個詞非常重要——意思是『記在某人賬上、歸算、算為』。亞伯拉罕的信被算為義——這是稱義教義的核心。」
-> — 麥克阿瑟論羅馬書4章亞伯拉罕的信（沿用本書〈羅馬書概覽〉引句，未附具體講題日期或原始出處連結，詳見附錄二〈參考資料〉）
+麥克阿瑟講羅馬書 4:1-8 時，把整段的重量放在「算」(*logizomai*) 這個字上：它是記賬的用語，而歸算的義正是全部基督教神學的核心。
+
+**「算」是記賬的字**：
+
+> "The word “counted,” very important word. It's the word logizomai. That word is used eleven times in this section."
+>
+> 「『算』這個字，非常重要的字。就是 logizomai。這個字在這一段裏用了十一次。」（45-34）
+
+> "And what does it mean, logizomai? It means “to credit to one's account, to put to one's account, to reckon, to impute to one.” And what it's saying is that because he believed, God imputed to him, put to his account, a righteousness which Abraham on his own did not possess. That's the whole point."
+>
+> 「logizomai 是甚麼意思？意思是『記在某人賬上、歸到某人賬上、算為、歸算給某人』。這裏說的是：因為他信，神就把一個亞伯拉罕自己並不擁有的義歸算給他、記在他賬上。這就是全部的要點。」（45-34）
+
+**這是全部基督教神學的核心**：
+
+> "We are credited with a righteousness we do not have and how? By faith; this is the heart, listen, of all Christian theology."
+>
+> 「一個我們自己沒有的義被記在我們賬上——怎麼記的？藉著信。聽好，這是全部基督教神學的核心。」（45-34）
+
+> "Listen, do you know why God can credit righteousness to your account? Because He credited your sin to Christ's account."
+>
+> 「聽著，你知道神為甚麼能把義記在你的賬上嗎？因為祂把你的罪記在了基督的賬上。」（45-34）
+
+> — John MacArthur, *Abraham--Justified by Faith, Part 1* (45-34), gty.org, sermon 45-34（講道逐字稿已核對）
+
+〈羅馬書概覽〉所收「『算』(*logizomai*) 這個詞非常重要……」一段中譯引句，與上列 45-34 講道原句意思相合，但措辭並非逐字，本章改以講道原句為準。
 
 ---
 
@@ -2140,38 +2432,109 @@ Edward Mote（1797-1874）是英國浸信會牧師，據他自述，這首詩歌
 
 ### 教父時期
 
-**奧古斯丁與伯拉糾之爭 (Augustine vs. Pelagius, 主後五世紀初)**：羅馬書5:12是教會歷史上「原罪」教義形成過程中最關鍵的戰場之一。這是真實可考的歷史事件——伯拉糾派主張人生來並無承襲亞當的罪性，每個人只因親身犯罪而定罪；奧古斯丁則在與伯拉糾及其門徒（如伯拉糾派的凱萊斯提烏 Caelestius）多年的辯論中，逐步發展出「原罪」（*peccatum originale*）與人性「敗壞傾向」（*concupiscentia*）的教義框架，主張全人類在亞當裏已經以某種真實的方式承受了他的罪與死。這場爭論最終在主後418年迦太基議會與431年以弗所大公會議中，以譴責伯拉糾主義告終，深遠地形塑了此後西方教會對原罪、恩典與人的意志的理解。
+**奧古斯丁與伯拉糾之爭 (Augustine vs. Pelagius, 主後五世紀初)**：羅馬書5:12是教會歷史上「原罪」教義形成過程中最關鍵的戰場之一。伯拉糾派主張人生來並無承襲亞當的罪性，每個人只因親身犯罪而定罪；奧古斯丁則在與伯拉糾及其門徒（如凱萊斯提烏 Caelestius）多年的辯論中，逐步發展出「原罪」（*peccatum originale*）與人性「敗壞傾向」（*concupiscentia*）的教義框架，主張全人類在亞當裏已經以某種真實的方式承受了他的罪與死。這場爭論最終在主後418年迦太基議會與431年以弗所大公會議中，以譴責伯拉糾主義告終。奧古斯丁自己在引用居普良的見證之後，把雙方的分歧概括為兩點：
 
-**屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：屈梭多模在他對羅馬書的講道傳統中一貫強調，5:8「惟有基督在我們還作罪人的時候為我們死」是全本聖經對神之愛最有力的證明方式——因為世人為義人死尚且少有，何況神的兒子竟為著仇敵、為著毫無功德的人捨命；這樣的愛不能用人間任何愛的標準來衡量。
+> "By this testimony this witness refutes two falsehoods of theirs — the one, wherein they say that the human race draws no sin from Adam which needs cure and healing through Christ; the other, in which they say that the saints have no sin after baptism."
+>
+> 「這位見證人的證言駁倒了他們的兩個謬說——其一，他們說人類並未從亞當承襲任何需要藉基督醫治的罪；其二，他們說聖徒受洗之後再沒有罪。」（Augustine, *Against Two Letters of the Pelagians*, IV.21）
+
+**屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：屈梭多模在《羅馬書講道集》第九講講解5:6-8時，把重點放在「為誰死」上——世人尚且不肯輕易為有德之人死，基督卻是為罪人、為仇敵被釘：
+
+> "For if for a virtuous man, no one would hastily choose to die, consider your Master's love, when it is not for virtuous men, but for sinners and enemies that He is seen to have been crucified"
+>
+> 「若是為一個有德的人，也沒有人會輕易選擇去死，那麼請思想你主的愛：祂被人看見釘在十字架上，不是為有德的人，而是為罪人和仇敵。」（Chrysostom, *Homilies on Romans*, Homily 9, on 5:6-8）
+
+他接著說，這樣的死加上死所帶來的恩賜，使我們最高的想像都相形失色，連最遲鈍的人也被引向信心：
+
+> "For there is no one else that will save us, except He Who so loved us when we were sinners, as even to give Himself up for us."
+>
+> 「除了那位在我們還是罪人時就如此愛我們、甚至為我們捨己的主，再沒有別人能救我們。」（Chrysostom, *Homilies on Romans*, Homily 9, on 5:9-10）
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin, 1509-1564)**：加爾文在他對羅馬書的解經傳統中一貫指出，5:1「我們……得與神相和」的「相和」不是信徒努力爭取而來的和平，而是基督已經成就、信徒只需憑信心領受的既定事實；他也一貫強調5:12-19的亞當—基督對比，說明人類在神眼中並非各自獨立受審判，乃是被安放在兩個「元首」的代表關係之下——這正是理解「因一人的悖逆，眾人成為罪人」與「因一人的順從，眾人也成為義了」的鑰匙。
+**約翰·加爾文 (John Calvin, 1509-1564)**：加爾文註釋5:1時指出，「相和」是因信稱義特有的果子，指良心的安穩；凡想靠行為掙得這安穩的，都是徒勞：
 
-**約翰·衛斯理 (John Wesley, 1703-1791) 與亞爾道斯門經歷**：這是一段有原始文獻可查、衛斯理親筆記載於日記中的真實歷史事件。1738年5月24日晚，衛斯理在倫敦亞爾道斯門街（Aldersgate Street）的一次聚會中，聆聽路德《羅馬書注釋》序言被人朗讀，他在當晚的日記中這樣記述：
+> "When any one strives to seek tranquillity of conscience by works, (which is the case with profane and ignorant men,) he labors for it in vain; for either his heart is asleep through his disregard or forgetfulness of God's judgment, or else it is full of trembling and dread, until it reposes on Christ, who is alone our peace."
+>
+> 「人若想靠行為尋求良心的安穩（這正是世俗無知之人的做法），必是徒勞；因為他的心若不是因輕忽、忘記神的審判而沉睡，就是充滿戰兢懼怕，直到它安息在基督裏——惟有基督是我們的平安。」（Calvin, *Commentary on Romans*, on 5:1）
 
-> "About a quarter before nine, while he was describing the change which God works in the heart through faith in Christ, I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation; and an assurance was given me that he had taken away my sins, even mine, and saved me from the law of sin and death."
-> — John Wesley's Journal, 24 May 1738
+至於5:12-19的亞當—基督對比，加爾文的重點不在後世所謂「盟約代表」的框架，而在兩點：其一，我們從亞當承受的是與生俱來、世代相傳的敗壞，不是伯拉糾派所說效法而來的罪；其二，正因如此，惟有把我們在亞當裏所失去的擺在眼前，才能看清我們在基督裏所得的：
+
+> "Besides, we may easily conclude, that he speaks not here of actual sin; for if everyone for himself contracted guilt, why did Paul form a comparison between Adam and Christ? It then follows that our innate and hereditary depravity is what is here referred to."
+>
+> 「此外，我們不難斷定，他在這裏說的不是本身所犯的罪；因為若各人是為自己招致罪責，保羅何必把亞當與基督相比？由此可見，這裏所指的是我們與生俱來、世代相傳的敗壞。」（Calvin, *Commentary on Romans*, on 5:12）
+
+> "For he shows that we are guilty through the offense of one man, in such a manner as not to be ourselves innocent."
+>
+> 「他表明我們因一人的過犯而有罪，卻不是以我們自己仍屬無辜的方式。」（Calvin, *Commentary on Romans*, on 5:19）
+
+**約翰·衛斯理 (John Wesley, 1703-1791) 與亞爾道斯門經歷**：這是一段有原始文獻可查、衛斯理親筆記載於日記中的真實歷史事件。1738年5月24日晚，衛斯理在倫敦亞爾道斯門街（Aldersgate Street）的一次聚會中，聆聽路德的《羅馬書序言》被人朗讀，他在當晚的日記中這樣記述：
+
+> "About a quarter before nine, while he was describing the change which God works in the heart through faith in Christ, I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation; and an assurance was given me that He had taken away my sins, even mine, and saved me from the law of sin and death."
+>
+> 「約在九點差一刻，當他描述神藉著信基督在人心裏所作的改變時，我覺得我的心奇異地溫暖起來。我覺得我確實信靠基督、單單信靠基督得救；並且有一個確據賜給我：祂已除去我的罪，是的，連我的罪也除去了，救我脫離罪和死的律。」（John Wesley, *Journal*, 24 May 1738）
 
 這段記載與羅馬書5:5「所賜給我們的聖靈將神的愛澆灌在我們心裏」的語言遙相呼應——衛斯理所描述的，正是保羅所說「聖靈將神的愛澆灌在心裏」那種帶著確據、不再只是頭腦贊同、而是心裏真實經歷的信心。
 
 ### 摩根 (G. Campbell Morgan)
 
-摩根一貫將5:1-11與5:12-21視為同一段論證的兩個層次——前段是「個人的經歷」（我因信稱義，得享平安），後段是「宇宙的圖景」（人類歷史的兩個元首）；他指出保羅寫作的邏輯次序極具智慧：先讓讀者確知自己個人已經得著的地位，再把這地位放進整個救恩歷史的宏大框架裏，使信徒不至於把稱義窄化為一種私人感受，而看見自己乃是被接入了一個新造的人類元首之下。
+摩根把5章分為「稱義的個人價值」（personal values，5:1-11）與「稱義的種族價值」（racial values，5:12-21）兩部分——前段是個人在基督裏已經得著的具體福分，後段轉向亞當與基督兩位「種族元首」（race headship）的宏觀對比。他明確指出，5:12-21這段論證「是新約中最崇高、最艱深、也最具爭議的段落之一」（原文見下引句），其論證方式是三組對比：過犯與恩賜的對比、審判與稱義的對比、死的掌權與恩典掌權的對比。
 
-**從法庭到家中**：摩根指出，3:21-4:25所建立的「稱義」，若只停在法律宣告的層次，對一般信徒而言仍嫌抽象——5章的任務，正是把這個法律宣告翻譯成一個人可以實際站立、實際經歷的生命狀態。他將5:1-11的三個「藉著他」——藉著他得和好、藉著他得進入恩典、藉著他得免忿怒——比喻為一個被赦免的囚犯，不只被釋放出監牢，更被領回家中，坐在原本被得罪之人的桌前用飯。
+> "[A passage] which is at once one of the most sublime, most difficult, and most debatable in the New Testament."
+>
+> 「〔這是〕一段在新約裏同時最崇高、最艱深、也最具爭議的經文之一。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Privileges Described — Racial Values〉, Fleming H. Revell, 1909, p. 75
 
-**「何況」是全段的骨架**：摩根一貫將5:9-10、5:15、5:17的「何況」（much more）視為保羅論證確據時最喜愛使用的修辭工具——若神在我們毫無資格時，就已經完成了最艱難、代價最高的一步（十字架），那麼已經稱義之人得蒙保守到底，邏輯上豈不是更容易確定的事？他認為，信徒許多的懼怕與不安，其實都是忘記了從「已成就的十字架」去推論「未來的確據」，反倒本末倒置，想從自己搖擺的感覺去證明神的信實。
+**從法庭到親密的團契**：摩根指出，3:21-4:25所建立的「稱義」，若只停在法律宣告的層次，對一般信徒而言仍嫌抽象——5章的任務，正是把這個法律宣告翻譯成一個人可以實際站立、實際經歷的生命狀態。他強調，5:1-2「藉著他得進入這恩典」遠不只是「神不再追究我們的罪」，而是把人領進一種與神「熟識親密」（familiar intimacy）的團契——一個原本毫無資格的人，如今因著基督，得以站立在天庭君王面前、蒙悅納的地位。
 
-**兩個元首的宇宙圖景**：摩根強調，5:12-21把整章從「一個蒙恩之人的經歷」提升到「全人類歷史的結構」——亞當與基督，不是聖經裏的兩個普通人物，而是兩個代表人類命運方向的元首。他指出，若不先明白人類在亞當裏所承受的定罪何等真實、何等徹底地臨到「眾人」，就無法明白基督所成就的稱義與生命，何等同樣真實、同樣徹底地臨到「凡在他裏面的人」。
+**「何況」是全段的骨架**：摩根把5:9-10「何況」（much more）的論證，濃縮為一條清楚的邏輯鏈——神的愛藉基督的死已經得著證明；人既因血稱義、免去忿怒，將來也必因祂的生得救。
 
-> 出處：G. Campbell Morgan 羅馬書相關講章與著作對5章「稱義果實」與「亞當基督對比」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
+> "The love of God; That love proven by Christ's death; Man justified by blood and so saved from wrath; This being so, it is certain that he will also be saved in the life of Christ."
+>
+> 「神的愛；那愛藉著基督的死得著證明；人因血稱義，因此得免忿怒；既是如此，他也必定要因祂的生得救。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Privileges Described — Personal Values〉, Fleming H. Revell, 1909, p. 72
+
+**兩個元首的宇宙圖景**：摩根強調，5:12-21把整章從「一個蒙恩之人的經歷」提升到「全人類歷史的結構」——亞當與基督，不是聖經裏的兩個普通人物，而是兩個代表人類命運方向的元首。他指出，亞當的過犯所帶來的敗壞波及多遠，基督所成就之工的益處就波及多遠——兩者範圍完全對等，不能把其中一邊的應許讀得比另一邊小。
+
+> "As far as the evil results of Adam's sin have spread, so far do the benefits of the work of Jesus extend."
+>
+> 「亞當的罪所帶來的惡果波及多遠，耶穌之工的益處就波及多遠。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Privileges Described — Racial Values〉, Fleming H. Revell, 1909, p. 77
+
+> 出處：以上三段引句均逐字核對自 G. Campbell Morgan,《The Analyzed Bible: Romans》(1909)〈The Privileges Described〉一章原文（頁碼如上）；「從法庭到親密的團契」一段為對該書同一章節解經立場之一般性歸納轉述，非逐字引句。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟一貫指出，5:1的「得與神相和」不是一種主觀感受，而是一個客觀成就的法律狀態——保羅用的是過去已完成的動詞，意思是「這和好已經確立，並持續有效」，信徒的確據應該建立在這個客觀事實上，而非隨著情緒起伏的主觀感覺。他也強調5:12-21的亞當—基督對比，是保羅在羅馬書中論證的高峰之一——唯有先明白人類全體在亞當裏所承受的定罪與死的轄制何等真實、何等徹底，才能明白基督所成就的稱義與生命何等更加真實、更加徹底。
+麥克阿瑟講羅馬書 5:1 時，把「與神相和」從主觀感受裏拉出來：這是客觀的關係，是「戰爭結束了」。講 5:12-21 時，他把亞當一段稱為理解人類歷史的鑰匙，而基督所成就的遠超過把人送回亞當未犯罪時的光景。
 
-**誠實說明**：以上麥克阿瑟與坎伯·摩根之引句，均為對其著作與講道中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份或講題可逐字查核的原始引句；屈梭多模之陳述屬同一性質的一般性歸納。奧古斯丁與伯拉糾之爭乃真實可考的歷史事件（主後五世紀初，教會歷史文獻與大公會議記錄可查），此處僅作歷史背景之如實描述，未杜撰任何一方的逐字語錄。加爾文之陳述亦屬對其《羅馬書註釋》一貫解經立場的一般性歸納。唯一附有具體日期、且為逐字引句的是約翰·衛斯理1738年5月24日的日記原文，此為公開、可查證之一手史料。
+**不是感覺，是關係**：
+
+> "This is not subjective, this is objective. It does not speak of feelings. It speaks of a relationship. Feelings are not the issue here."
+>
+> 「這不是主觀的，這是客觀的。它講的不是感覺，講的是一種關係。感覺在這裏不是問題所在。」（45-40）
+
+> "It isn't a subjective kind of feeling. It is simply that the war between us and God is over."
+>
+> 「它不是一種主觀的感覺。它只是說：我們與神之間的戰爭結束了。」（45-40）
+
+**亞當一段是理解歷史的鑰匙**：
+
+> "Here is the key to history. This is the key to understanding everything. It tells us why man is the way he is. It tells us why death is the dominant monarch."
+>
+> 「這裏是歷史的鑰匙。這是理解一切的鑰匙。它告訴我們人為甚麼是這個樣子，告訴我們死為甚麼作了轄制一切的君王。」（45-43）
+
+**基督所成就的，遠超過回到亞當的無罪狀態**：
+
+> "The evil of Adam brought death. The free gift of Christ not only freed men from death, it didn't just return them to the innocency of Adam; it took them out of death beyond the innocency of Adam to the righteousness of Christ."
+>
+> 「亞當的惡帶來了死。基督白白的恩賜不只使人脫離死，也不只是把人送回亞當無罪的光景；它把人從死裏帶出來，越過亞當的無罪，直到基督的義。」（45-44）
+
+> — John MacArthur, *The Security of Salvation, Part 1* (45-40), *Adam and the Reign of Death* (45-43), *Christ and the Reign of Life* (45-44), gty.org, sermon 45-40 / 45-43 / 45-44（講道逐字稿已核對）
+
+**誠實說明**：麥克阿瑟引句已逐句對照 gty.org 講道逐字稿核實，講道編號附於各句之後；坎伯·摩根之引句為對其著作中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份可逐字查核的原始引句；屈梭多模與加爾文的英文引句已逐句對照一手來源核實（New Advent 所載 NPNF 英譯《羅馬書講道集》第九講；CCEL 所載加爾文《羅馬書註釋》），中譯為編者所作。奧古斯丁與伯拉糾之爭乃真實可考的歷史事件（主後五世紀初），其歷史背景（含迦太基與以弗所會議）為編者概述，所附英文引句則取自 NPNF 英譯《駁二封伯拉糾派書信》第四卷。約翰·衛斯理1738年5月24日的日記原文已對照 CCEL 所載日記全文逐字核實，此為公開、可查證之一手史料。
 
 ---
 
@@ -2445,31 +2808,99 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-金口約翰著有《羅馬書講道集》(*Homilies on the Epistle to the Romans*)，是教會歷史上最早、篇幅最完整的羅馬書逐章講道集之一。他對第6章一貫強調的解經重點是：洗禮不只是赦罪的記號，更是「與基督同死同復活」這件事的親身經歷——他常提醒聽眾，受洗那一刻，舊有的自己已經真實地埋葬了，這不是比喻的說法，而是屬靈的真實。此處為對其一貫解經立場的一般性歸納轉述，並非逐字引句自特定講篇，讀者若需查證原文，應另行核對《羅馬書講道集》相關講篇。
+金口約翰的《羅馬書講道集》(*Homilies on the Epistle to the Romans*) 是教會歷史上最早、篇幅最完整的羅馬書逐章講道集之一。他講解6:3-4時，把洗禮直接對上十字架與埋葬——基督是在肉身裏死而被葬，我們則是向罪死而被葬；對象不同，卻同樣真實：
+
+> "For Baptism is the Cross. What the Cross then, and Burial, is to Christ, that Baptism has been to us, even if not in the same respects. For He died Himself and was buried in the Flesh, but we have done both to sin."
+>
+> 「因為洗禮就是十字架。十字架與埋葬之於基督，洗禮之於我們也是如此，儘管不在同一個層面。祂是自己在肉身裏死了、被埋葬；我們則是在罪上經歷了這兩樣。」（Chrysostom, *Homilies on Romans*, Homily 10, on 6:3-4）
+
+他隨即補上一句，堵住「只是比喻」的讀法：
+
+> "As then that is real, so is this."
+>
+> 「那一個既是真實的，這一個也是真實的。」（Chrysostom, *Homilies on Romans*, Homily 10, on 6:5）
+
+到了第十一講，這個真實變成了命令：
+
+> "If then you have died in baptism, remain dead, for any one that dies can sin no more; but if you sin, you mar God's gift."
+>
+> 「你既已在洗禮裏死了，就要一直死下去；因為死了的人再不能犯罪。你若犯罪，就是損毀了神的恩賜。」（Chrysostom, *Homilies on Romans*, Homily 11, on 6:7）
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《羅馬書註釋》(*Commentary on Romans*) 中一貫強調：成聖與稱義雖有分別（一個是宣告地位，一個是持續更新），卻同出於一個源頭——與基督的聯合——絕不可分割成兩件互不相干的事：凡真正藉信心與基督聯合、領受祂稱義之恩的人，也必然同時領受祂成聖的生命；沒有無成聖的稱義，正如沒有無光的太陽。此為對其一貫解經立場的一般性歸納，非逐字引句，讀者若需查證，應另行核對《羅馬書註釋》6章相關段落。
+加爾文註釋6:2時強調：稱義與重生從不分開賜下，人得稱義正是為了此後在聖潔中事奉神：
+
+> "The state of the case is really this, -- that the faithful are never reconciled to God without the gift of regeneration; nay, we are for this end justified, -- that we may afterwards serve God in holiness of life."
+>
+> 「實情是這樣：信徒與神和好，從來不會沒有重生的恩賜；不僅如此，我們得稱義正是為了這個目的——好叫我們此後在聖潔的生活中事奉神。」（Calvin, *Commentary on Romans*, on 6:2）
+
+《基督教要義》裏他把同一個意思講成一句格言，又用太陽作比——光與熱不可分割，卻不可混為一談：
+
+> "Christ, therefore, justifies no man without also sanctifying him. These blessings are conjoined by a perpetual and inseparable tie."
+>
+> 「所以，基督稱義一個人，沒有不同時使他成聖的。這兩樣福分是以永久、不可分割的繫帶連在一起的。」（Calvin, *Institutes* III.16.1）
+
+> "The sun by its heat quickens and fertilizes the earth; by its rays enlightens and illumines it. Here is a mutual and undivided connection, and yet reason itself prohibits us from transferring the peculiar properties of the one to the other."
+>
+> 「太陽以它的熱使大地甦醒、肥沃，以它的光線照亮大地。這是彼此相連、不可分割的關係，然而理性本身不容我們把其中一方的特性挪給另一方。」（Calvin, *Institutes* III.11.6）
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在《小教理問答》(*Small Catechism*) 論洗禮一節，有一句廣為人知、常被總結轉述的教導：洗禮的意義，是要「舊人天天藉痛悔認罪被淹沒、被治死」，「新人天天興起、復活，在神面前存著公義、聖潔存活，直到永遠」——這句常見轉述精確反映路德一貫的洗禮神學：洗禮的果效不是一次性的儀式了結，而是終身「天天」的操練，與羅馬書6:4「一舉一動有新生的樣式」（原文有持續、習慣性的意味）相互呼應。
+路德《小教理問答》(*Small Catechism*) 論洗禮第四問「這樣用水施洗表明甚麼」，答案直接以羅馬書6:4作根據：
+
+> "It signifies that the old Adam in us should, by daily contrition and repentance, be drowned and die with all sins and evil lusts, and, again, a new man daily come forth and arise; who shall live before God in righteousness and purity forever."
+>
+> 「它表明我們裏面的老亞當，當藉著天天的痛悔與悔改被淹沒、治死，連同一切的罪與惡慾；又有新人天天出來、興起，在神面前存公義與純潔活到永遠。」（Luther, *Small Catechism*, Baptism IV，1921年 Triglot Concordia 英譯）
+
+洗禮的果效不是一次性的儀式了結，而是終身「天天」的操練，與羅馬書6:4「一舉一動有新生的樣式」（原文有持續、習慣性的意味）相互呼應。
 
 ### 摩根 (G. Campbell Morgan)
 
-**羅馬書的兩種文學氣質，在第6章交會**：摩根形容羅馬書「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）」（見〈羅馬書概覽〉之已核實引句）。第6章正站在這兩種氣質交會的位置——它一方面正視罪的權勢何等真實（「罪的工價乃是死」），一方面又用最確定的口氣宣告這權勢已被打破（「罪必不能作你們的主」）。摩根對保羅書信一貫的解經方法，是先問「這一段在全書的論證裏站在哪一個轉折點」，再逐句細讀——用這個方法讀第6章，會看見它正是全書從「地位」(position) 轉向「經歷」(experience) 的樞紐：3-5章講神為信徒「做成」了甚麼，6-8章講信徒因此「活出」甚麼。
+**從「根基」到「正殿」——稱義轉向成聖的樞紐**：摩根把羅馬書的論證結構喻為建築——稱義是根基，成聖則是立於其上的正殿；3-5章講神為信徒成就了甚麼，6-8章則展開這根基上要建成的「成聖」。他把6-8章劃為論證「成聖」的完整一段（再細分為「應許的宣告」6:1-14、「原則的例證」7:7-25、「特權的描述」8:1-17），第6章正是這整段的起點。第6章一方面正視罪的權勢何等真實（「罪的工價乃是死」），一方面又用最確定的口氣宣告這權勢已被打破（「罪必不能作你們的主」）——這正呼應摩根在第3章那句已核實的名言（見第3章「歷代注疏」）：讀到定罪為止是最悲觀的一頁，讀下去到恩典掌權卻是最樂觀的一首詩。
 
-**「你們要算」——一個會計學的命令**：摩根對保羅書信裏「算」(logizomai) 這一類會計、法庭用語一貫有濃厚興趣，常提醒讀者保羅出身於稅務、貿易往來頻繁的地中海商業世界，用詞習慣帶著「記賬」「核算」的精確感——6:11「你們向罪也當看自己是死的」，用的正是這種精確記賬式的語言：不是一種模糊的宗教感覺，而是一項清楚、可以憑信心「核對」的事實，如同核對一本已經結清的賬本。
+> "If in the structure of the apostle's argument, justification is the foundation, then sanctification is the main building."
+>
+> 「若照使徒論證的結構來看，稱義是根基，成聖便是立於其上的正殿。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈Sanctification: The Provision Announced〉, Fleming H. Revell, 1909, p. 79
 
-**受洗與「一舉一動有新生的樣式」**：摩根一貫強調，6:4「新生的樣式」原文 kainotēs（新）不是指從舊物「修補」出來的新，而是指一種前所未見、質性不同的「新」——正如創造之初的「新」，不是舊材料的翻修。這與羅馬書8:19-23「受造之物……正在歎息勞苦」呼應的，是同一個盼望：舊創造的敗壞終將被一個真正嶄新的創造取代，而信徒在受洗那一刻，已經是這個嶄新創造的「頭一批果子」。
+**「你們要算」——建立在已成事實上的命令**：摩根指出，保羅鋪陳信徒與基督「聯合」（因洗禮的圖畫，與基督同死同復活）之後，隨即把一項責任加在信徒身上——算自己是與基督一同承受了向罪的死、也一同承受了向神的生。這責任建立在6:12「所以」（therefore）這個字上：一切命令都取決於已經陳述過的事實——因信徒已經與基督聯合，才有接下來「你們要算」的呼召，不是叫人自己創造一個新的屬靈狀態，而是憑信心承認一件已經真實發生的事。
 
-> 出處：對 G. Campbell Morgan羅馬書相關講章與著作一貫解經精神之綜合性歸納，非逐字引句自特定篇章頁碼。
+> "...charging upon believers the responsibility of reckoning themselves as sharing with Christ both the death unto sin and the life unto God."
+>
+> 「……將這責任加在信徒身上：算自己是與基督一同承受了向罪的死、也一同承受了向神的生。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈Sanctification: The Provision Announced〉, Fleming H. Revell, 1909, p. 83
+
+> 出處：以上兩段引句逐字核對自 G. Campbell Morgan,《The Analyzed Bible: Romans》(1909)〈Sanctification: The Provision Announced〉一節原文（頁碼如上）。「受洗使人進入一種前所未見、質性不同的『新』」一點，經查證《The Analyzed Bible: Romans》與《Living Messages of the Books of the Bible》〈The Message of Romans〉均未見對應段落，故此點已從本節移除，不作為摩根觀點呈現。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟論羅馬書6章時一貫強調的重點是：這一章講的是「定位性的成聖」(positional sanctification)——一個已經完成、不再改變的事實（信徒的舊生命已經與基督同死、新生命已經與基督同復活），這個事實是「實際性的成聖」（practical sanctification，即信徒一生持續與罪爭戰、逐漸像基督）的地基。他一貫提醒讀者，6:11的命令「你們向罪也當看」不是叫人「假裝」自己沒有罪性，而是叫人相信一個已經真實發生、只是尚未完全彰顯的屬靈事實，並按這事實而活。此為對其一貫解經立場的一般性歸納，未附具體講題、日期或 gty.org 連結，非逐字引句。
+麥克阿瑟講羅馬書 6 章時，先講「地位」（信徒已與基督同死同復活，這是既成的事實），再講「實踐」；6:11 的「看」(reckon) 是把已知的事實在心裏當真——先是「知道」，再是「看」，然後是「獻上」。
+
+**先講地位，再講實踐**：
+
+> "Now, that's a positional statement. It has practical workings that we'll see as we go along, but I'm just trying to tell you who you are, right now."
+>
+> 「這是一句論地位的話。它有實際的運作，我們往下會看到；但此刻我只是要告訴你——你是誰。」（45-46）
+
+> "First of all, holiness in our position before God, and then holiness in our practice."
+>
+> 「首先，是我們在神面前地位上的聖潔；然後，是我們實踐上的聖潔。」（45-47）
+
+**知道、看、獻上**：
+
+> "The three words are in the text: know, reckon and yield."
+>
+> 「這三個字就在經文裏：知道、看（算）、獻上。」（45-47）
+
+> "The word “know” dealt with the mind. The word “reckon” deals with the heart. You know it to be so intellectually, and now you believe it to be so, you reckon."
+>
+> 「『知道』這個字關乎頭腦；『看』這個字關乎心。你在理智上知道事情是這樣，現在你相信事情是這樣——這就是『看』。」（45-47）
+
+> — John MacArthur, *Dying to Live, Part 2* (45-46), *Dying to Live, Part 3* (45-47), gty.org, sermon 45-46 / 45-47（講道逐字稿已核對）
 
 ---
 
@@ -2755,29 +3186,77 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-奧古斯丁對羅馬書7章的解讀，是教會歷史上一次有據可查、真實發生的思想轉變。他早期（約公元390年代初，在《致辛普里西安》*Ad Simplicianum* 之前的著作中）傾向將7:14-25理解為描述人在律法之下、尚未蒙恩之人的處境；但隨著與伯拉糾主義（Pelagianism）的論戰展開，他在《駁二封伯拉糾派書信》等反伯拉糾著作中，轉向將這段經文理解為使徒保羅本人、乃至一切重生信徒持續一生的內心爭戰——這個轉變正是他成熟恩典神學的重要基石：人即使重生得救，肉體的敗壞傾向仍終生存在，唯獨靠恩典、不能靠自己的意志力得勝。
+奧古斯丁對羅馬書7章的解讀有一次他自己記錄在案的轉變。他早年傾向把7:14-25讀成描寫在律法之下、尚未蒙恩之人的處境；到了反伯拉糾時期，他在《駁二封伯拉糾派書信》裏親口承認改變了看法——理由是7:17「不是我做的」、7:22「按著我裏面的意思，我是喜歡神的律」，以及8:1「如今不定罪了」，都不可能出自律法之下的人：
 
-> 出處：此為對奧古斯丁思想發展的一般性、綜合性描述，其早期與反伯拉糾時期著作對羅馬書7章解讀的轉變是教會歷史上有記載的公認事實，惟本書未逐字引用其原文段落，讀者若需查證，可另行核對《致辛普里西安》與《駁二封伯拉糾派書信》原文。
+> "And it had once appeared to me also that the apostle was in this argument of his describing a man under the law. But afterwards I was constrained to give up the idea by those words where he says, Now, then, it is no more I that do it."
+>
+> 「我也曾一度以為使徒在這段論證裏描寫的是一個在律法之下的人。但後來，他說『如今不是我做的』這句話，迫使我放棄了那個看法。」（Augustine, *Against Two Letters of the Pelagians*, I.22）
+
+他的結論是：保羅說的不只是自己，也是一切在恩典之下、卻尚未進入完全平安的人：
+
+> "the apostle is rightly understood to have signified not, indeed, himself alone in his own person, but others also established under grace, and with him not yet established in that perfect peace in which death shall be swallowed up in victory."
+>
+> 「正確的理解是：使徒所指的不只是他自己本人，也包括其他已在恩典之下、卻與他一樣尚未進入那『死被得勝吞滅』的完全平安之人。」（Augustine, *Against Two Letters of the Pelagians*, I.24）
+
+這個轉變正是他成熟恩典神學的重要基石：人即使重生得救，肉體的敗壞傾向仍終生存在，唯獨靠恩典、不能靠自己的意志力得勝。
+
+> 出處：以上引句取自 NPNF 英譯（New Advent 所載）《駁二封伯拉糾派書信》第一卷；奧古斯丁早期立場見於《致辛普里西安》之前的著作，本書未引其原文，「轉變」一事以他本人在 I.22 的自述為據。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他1515-1516年於維滕堡大學講授羅馬書的講義（*Lectures on Romans*）中，正是從羅馬書7章的掙扎中，讀出了他一生中最重要的洞見之一——後世稱之為 ***simul iustus et peccator***（拉丁文，「同時是義人，也是罪人」）：信徒在基督裏已經被神完全稱義（地位上是義人），但在今生的實際光景中，罪的敗壞傾向仍然真實存在、仍要終身與之爭戰（狀態上仍是罪人）。這正是7:25那句看似矛盾的總結——「我以內心順服神的律，我肉體卻順服罪的律」——的精準提煉：稱義是一次性、法庭性的宣告，成聖卻是終身、漸進的爭戰，兩者同時真實，並不互相取消。
+路德從羅馬書7章讀出他一生最重要的洞見之一——後世概括為 ***simul iustus et peccator***（拉丁文，「同時是義人，也是罪人」）：信徒在基督裏已經被神完全稱義（地位上是義人），但在今生的實際光景中，罪的敗壞傾向仍然真實存在、仍要終身與之爭戰（狀態上仍是罪人）。這個拉丁短語出自他1515-1516年於維滕堡講授的《羅馬書講義》（*Lectures on Romans*），本書未引其原文；但他1522年的《羅馬書序言》把同一個思想講得很白：
 
-> 出處：*simul iustus et peccator* 是路德神學中極為著名、有廣泛文獻記載的核心表述，直接根植於他對羅馬書（尤其第7章）的解讀；本書對其思想脈絡作一般性摘述，未逐字引用其講義原文段落。
+> "This feud lasts in us for as long as we live, in one person more, in another less, depending on whether spirit or flesh is stronger. Yet the whole human being is both: spirit and flesh. The human being fights with himself until he becomes completely spiritual."
+>
+> 「這場爭戰在我們裏面持續一生，有人多些，有人少些，看靈與肉體哪一個更強。然而整個人同時是兩者：靈與肉體。人與自己爭戰，直到他完全屬靈。」（Luther, *Preface to Romans*, 1522, on ch. 7）
+
+這正是7:25那句看似矛盾的總結——「我以內心順服神的律，我肉體卻順服罪的律」——的精準提煉：稱義是一次性、法庭性的宣告，成聖卻是終身、漸進的爭戰，兩者同時真實，並不互相取消。
+
+> 出處：*simul iustus et peccator* 為路德《羅馬書講義》中的表述，該講義英譯本仍在版權內，本書未逐字引用；上述引句取自 Andrew Thornton 英譯《羅馬書序言》(1522)。
 
 ### 摩根 (G. Campbell Morgan)
 
-摩根對羅馬書的整體觀察是：這卷書「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）」（見〈羅馬書概覽〉之已核實引句）——第7章正是這兩極之間最尖銳的交會點。摩根一貫強調，保羅在此並非在攻擊律法，而是在為律法「平反」：律法從未被造出來拯救人，它被賜下是要顯明人需要拯救。若把第7章單獨抽出來讀，會得出一幅絕望的圖畫；但摩根提醒讀者，保羅寫這一章從來不是為了讓人停在這裏——7:25那聲「感謝神」已經是第8章的序曲，是保羅刻意讓福音的答案先於系統的論述闖進讀者心裏。
+摩根明確指出，保羅在第7章的立場是為律法「平反」，而非攻擊律法——保羅自己提出「律法是罪嗎？」的問題並斷然否認，最終的答案是：問題不在律法，而在那違犯律法、因而被律法定罪的人。
 
-> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
+> "It is not the law that is sin, but the one who, breaking it, is condemned by it."
+>
+> 「不是律法本身是罪，而是那違犯律法、因而被律法定罪的人。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Obligation of Grace〉, Fleming H. Revell, 1909, p. 98
+
+摩根也指出，第7章從絕望的呼喊「我真是苦啊」到隨即而來的「感謝神」，整段自白的作用，是要把律法之下人生所能達到的最高經歷揭示出來，並為第8章要描述的、從恩典而來的能力、自由與得勝鋪路。這與摩根論第3章那句已核實的名言（見第3章「歷代注疏」）是同一種筆法：讀到絕望為止是最悲觀的一頁，讀下去到「感謝神」卻已轉為最樂觀的一首詩。
+
+> "The whole paragraph, then, is a forceful revelation of the highest possible experience of the life under law, and prepares the way for the description of the power and freedom and triumph of the sanctified life, resulting from the operation of grace through Christ Jesus."
+>
+> 「這整段自白，是對律法之下人生所能達到之最高經歷的一次有力揭示，也為接下來要描述那藉基督耶穌、從恩典之工而來的能力、自由與得勝的成聖生命鋪了路。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Obligation of Grace — The Principle Illustrated〉, Fleming H. Revell, 1909, p. 104
+
+> 出處：以上兩段英文引句均逐字核對自 G. Campbell Morgan,《The Analyzed Bible: Romans》(1909)〈The Obligation of Grace〉一節原文（頁碼如上）；「悲觀／樂觀」一句之逐字引句已核實，出處見第3章「歷代注疏」。
 
 ### 麥克阿瑟 (John MacArthur)
 
-一貫強調，羅馬書7章描繪的正是每一個誠實省察自己的信徒都會經歷的光景——越深地認識神的律法何等聖潔，就越深地看見自己肉體何等敗壞；這一章不是要人灰心絕望，而是要打碎「靠自己努力就能討神喜悅」的幻覺，把人徹底推向唯獨依靠聖靈、唯獨依靠基督的第8章。
+麥克阿瑟講羅馬書 7:14-25 時，明確把這段讀成信徒的經歷：新造的人是聖潔的，但與罪的爭戰仍在；成長中的信徒對罪的恨惡只會更深；完全的釋放要等到得榮耀，而今生的得勝則是第 8 章的內容。
 
-> 出處：此為對麥克阿瑟一貫解經立場與已知重點的一般性歸納轉述，未附具體講題、日期或 gty.org 網址連結，不宜視為逐字引句。
+**是信徒，而且仍在爭戰**：
+
+> "And so whether or not you want to see a Christian in chapter 7, you've still got to see a Christian having conflict with sin even though his new creation, his new self is holy."
+>
+> 「所以不論你願不願意在第 7 章看見一個基督徒，你總得看見：一個基督徒即使他的新造、他的新我是聖潔的，仍然與罪有衝突。」（45-52）
+
+> "if you sit down and are honest about it, even though you can see growth in your Christian life, you're going to have a greater hatred for your sin now than you did long ago"
+>
+> 「你若坐下來誠實面對，就會發現：即使你看得見自己基督徒生命的成長，你現在對自己罪的恨惡，也比很久以前更深。」（45-53）
+
+**完全的釋放要等到得榮耀；今生的得勝在第 8 章**：
+
+> "So, the battle isn't going to be over till Jesus gives us immortality and incorruption. Full deliverance awaits glorification. That's the point. But, that is not to say that we can't experience victory here and now, right? And that's chapter 8"
+>
+> 「所以，這場爭戰要到耶穌賜給我們不朽壞、不死的身體才結束。完全的釋放要等到得榮耀。這就是要點。但這不是說我們今生此刻經歷不到得勝，對吧？那就是第 8 章。」（45-53）
+
+> — John MacArthur, *The Believer and Indwelling Sin, Part 1* (45-52), *The Believer and Indwelling Sin, Part 2* (45-53), gty.org, sermon 45-52 / 45-53（講道逐字稿已核對）
 
 ---
 
@@ -3058,24 +3537,57 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **奧古斯丁 (Augustine, 354-430)**
 
-奧古斯丁晚年與伯拉糾派（Pelagianism）的長期論戰，反覆回到羅馬書8章、尤其是8:29-30「金鏈」與8:28「按祂旨意被召的人」這些經文，作為他堅持救恩完全出於神恩典、而非人自身功德的聖經根據。以下是對其一貫立場的一般性歸納，並非逐字引句：奧古斯丁認為，這一段經文顯明救恩的起頭（預知、預定）、過程（召、稱義）與終局（得榮耀），沒有一步是出於人的功德，全部出於神先於人一切回應的主權恩典。
+奧古斯丁晚年與伯拉糾派及半伯拉糾派的論戰，反覆回到羅馬書8:28「按祂旨意被召的人」與8:30「所預定的人又召他們來」，作為救恩從起頭（信心的開始）到終局（堅忍到底）都出於神恩典、而非人功德的聖經根據：
+
+> "From all which it is shown with sufficient clearness that the grace of God, which both begins a man's faith and which enables it to persevere unto the end, is not given according to our merits, but is given according to His own most secret and at the same time most righteous, wise, and beneficent will; since those whom He predestinated, them He also called"
+>
+> 「由此足以清楚顯明：神的恩典——既開始人的信心、又使信心堅忍到底的恩典——不是按我們的功德賜下的，而是按祂自己至為隱密、同時至為公義、智慧、良善的旨意賜下的；因為祂所預定的人，也召了他們來。」（Augustine, *On the Gift of Perseverance*, ch. 33）
+
+他在《論聖徒的預定》裏把「召」與「揀選」的先後說得更尖銳：
+
+> "Let us, then, understand the calling whereby they become elected — not those who are elected because they have believed, but who are elected that they may believe."
+>
+> 「所以我們要明白那使他們成為蒙揀選者的呼召——不是因為他們信了才蒙揀選，而是蒙揀選好叫他們相信。」（Augustine, *On the Predestination of the Saints*, ch. 34）
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**
 
-加爾文在其著作中對羅馬書8:28-30有大量的討論，將這段經文視為他揀選教義最重要的聖經根據之一。以下為對其立場的一般性歸納：加爾文強調，這條「金鏈」的重點不在於讓信徒去揣測自己是否被「預知預定」在鏈條之內——那是屬乎神隱藏的旨意，人無從探測；金鏈真正的功用，是讓已經在基督裏、已經蒙召、已經稱義的信徒，回頭確信自己蒙揀選的確據——因為呼召與稱義是看得見的果子，從果子可以確知源頭。
+加爾文的《羅馬書註釋》並沒有把8:28-30當作揀選教義的主要證據來讀；他從這段經文讀出的重點，是分擔十字架與蒙召、稱義、得榮耀同在一條鏈上，不可拆開：
+
+> "he adopts a graduating process, by which he teaches us, that a participation of the cross is so connected with our vocation, justification, and, in short, with our future glory, that they can by no means be separated."
+>
+> 「他採用層層遞進的方式，教導我們：分擔十字架與我們的蒙召、稱義，總之與我們將來的榮耀，緊密相連，絕不能分開。」（Calvin, *Commentary on Romans*, on 8:30）
+
+同時他強調，8:29的「預先所知道」不是空泛的預見，而是神的收納；而「召」正是神向人顯明祂隱藏旨意的憑據——信徒不必揣測自己是否在鏈條之內，蒙召是看得見的見證：
+
+> "the Apostle says, that God by his calling bears an evident testimony respecting his hidden purpose. But this testimony is not only found in the outward preaching of the gospel, but it has also the power of the Spirit connected with it"
+>
+> 「使徒說，神藉著祂的呼召，為祂隱藏的旨意作出明顯的見證。這見證不只在福音的外在宣講裏，也有聖靈的能力與之相連。」（Calvin, *Commentary on Romans*, on 8:30）
+
+《基督教要義》把這個確據的落腳點說得更清楚：
+
+> "But if we are elected in him, we cannot find the certainty of our election in ourselves; and not even in God the Father, if we look at him apart from the Son. Christ, then, is the mirror in which we ought, and in which, without deception, we may contemplate our election."
+>
+> 「我們既是在祂裏面蒙揀選，就不能在自己裏面找到揀選的確據；若撇開子單看父，在父神那裏也找不到。所以基督是一面鏡子，我們應當、也能夠毫無錯謬地在其中察看自己的揀選。」（Calvin, *Institutes* III.24.5）
 
 **馬丁·路德 (Martin Luther, 1483-1546)**
 
-路德一生真理突破的核心，正是重新發現「因信稱義」使人脫離定罪恐懼的自由——這也是他在講論羅馬書時反覆強調的主題。羅馬書8:1「不定罪」，與他所理解的因信稱義的果效高度一致：良心的確據不是靠不斷檢視自己的行為表現，而是單單仰望基督已經完成的義。
+路德在《羅馬書序言》裏，把第8章讀作對第7章那些爭戰者的安慰：
+
+> "In chapter 8, St. Paul comforts fighters such as these and tells them that this flesh will not bring them condemnation."
+>
+> 「在第八章，聖保羅安慰這樣的爭戰者，告訴他們：這肉體不會給他們帶來定罪。」（Luther, *Preface to Romans*, 1522, on ch. 8）
+
+> "The Holy Spirit assures us that we are God's children no matter how furiously sin may rage within us, so long as we follow the Spirit and struggle against sin in order to kill it."
+>
+> 「聖靈向我們保證我們是神的兒女，無論罪在我們裏面如何狂暴，只要我們跟隨聖靈、與罪爭戰以治死它。」（Luther, *Preface to Romans*, 1522, on ch. 8）
+
+這與他因信稱義的核心一脈相承：良心的確據不是靠不斷檢視自己的行為表現，而是單單仰望基督已經完成的義。
 
 ### 摩根 (G. Campbell Morgan)
 
-> 「羅馬書是『你眼睛所見過最悲觀的文學篇章』（論人的罪），同時也是『你耳朵所聽過最樂觀的詩歌』（論神的救恩）。」
-> ——沿用〈羅馬書概覽〉引句，未附具體講題日期或原始出處連結（詳見附錄二〈參考資料〉）
-
-8章正是這首「最樂觀的詩歌」唱到最高音的地方——1-3章描寫人的絕境有多深，8章就描寫神的恩典有多高。
+摩根有一句已核實的逐字引句，論的是第3章結尾與3:21以後的轉折——單讀到「都在罪惡之下」為止是最悲觀的一頁，讀下去到「但如今」就成了最樂觀的一首詩（原文與出處見第3章「歷代注疏」）。8章正是這條上升曲線唱到最高音的地方——1-3章描寫人的絕境有多深，8章就描寫神的恩典有多高。
 
 **從「取死的身體」到「不被定罪」**：摩根一貫的解經進路，重視段落與段落之間的連接詞與語氣轉折。7:24「我真是苦啊！誰能救我脫離這取死的身體呢？」與8:1「如今……就不被定罪了」之間，是羅馬書全書語氣最劇烈的轉折之一——從第一人稱單數的孤軍奮戰（「我」在7章出現超過三十次），轉為「在基督耶穌裏」的群體性確據。這個轉折本身，就是保羅要傳達的信息：脫離罪與死的轄制，靠的不是「我」更努力地掙扎，而是「在基督裏」這個已然成就的位置。
 
@@ -3083,13 +3595,37 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **萬物與神兒女一同得釋放**：摩根對8:19-22「受造之物切望等候」的處理，強調救恩的終局範圍遠比一般信徒想像的更宏大——不只是靈魂得救、身體復活，連帶整個被造世界都要「從敗壞的轄制下得釋放」。這提醒讀者，基督教盼望不是逃離物質世界，而是物質世界本身的更新與釋放。
 
-**8:31-39是全羅馬書、甚至全新約辯護詞的巔峰**：摩根將這段稱為保羅式論證法（一連串修辭問句、逐一自問自答）用得最淋漓盡致的段落——每個問題背後，都是保羅先在心裏想過、也逐一駁倒過的控告，最後才敢寫下「無人能定我們的罪、無物能叫我們與神的愛隔絕」這樣毫無保留的宣告。
+**8:31-39是第8章論證的巔峰**：摩根在羅馬書9章開頭回顧這段經文時，稱它為「前一章的巔峰」——一連串修辭問句、逐一自問自答（誰能控告？誰能定罪？誰能隔絕？），把8章從1節「不定罪」起步建立的確據，推到最高、最毫無保留的宣告。
 
-> 出處：本節為對 G. Campbell Morgan 羅馬書相關講章一貫解經立場與結構分析方法的一般性、綜合性論述（未附具體篇章頁碼），僅「你眼睛所見過最悲觀的文學篇章……」一句沿用〈羅馬書概覽〉引句，同樣未附具體篇章頁碼。
+> "The connection between this very remarkable passage, and the climax of the preceding chapter is close."
+>
+> 「這段極不尋常的經文，與前一章的巔峰之間，有著緊密的連繫。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈Objections Discussed — Election〉, Fleming H. Revell, 1909, p. 134
+
+> 出處：本節為對 G. Campbell Morgan 羅馬書相關講章一貫解經立場與結構分析方法的一般性、綜合性論述；開頭「悲觀／樂觀」一句與末段「前一章的巔峰」一句之逐字引句均已核實（前者出處見第3章「歷代注疏」，後者見上引句）。
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)** — 對8章的觀點屬一般性歸納轉述，非逐字引句：麥克阿瑟一貫強調，8:1的「不定罪」與8:9「人若沒有基督的靈，就不是屬基督的」必須合併來讀——真確據不是廉價的安全感，而是建立在聖靈實際內住這個可驗證的生命記號上；假冒的確據會忽略8:9這道試金石。
+麥克阿瑟講羅馬書 8:1-11 時，把 8:1「不定罪」稱為稱義結果的最高點，又把 8:9 當作「在聖靈裏」的憑據：不是口頭宣稱、名聲或聚會出席，而是聖靈是否住在你裏面。
+
+**8:1 是最高點**：
+
+> "And that is the—that's the high point. That's the great epitome of his expressions of the results of justification."
+>
+> 「那就是——那就是最高點。那是他論稱義結果的種種表述的總縮影。」（45-57）
+
+> "And the theme of chapter 8 really is that we are not condemned."
+>
+> 「第 8 章的主題，實在就是：我們不被定罪。」（45-57）
+
+**8:9 是憑據**：
+
+> "If the Spirit dwells in you, you're not in the flesh, you're in the Spirit. What a great thought. You see, being in the Spirit isn't a question of profession, it isn't a question of reputation, it isn't a question of church attendance. Being in the Spirit is a question of having the Spirit in you."
+>
+> 「聖靈若住在你裏面，你就不屬肉體，乃屬聖靈。何等大的意念。你看，『在聖靈裏』不是口頭宣稱的問題，不是名聲的問題，也不是聚會出席的問題。『在聖靈裏』是聖靈在不在你裏面的問題。」（45-57）
+
+> — John MacArthur, *The Spirit Takes Us from Sin to Righteousness* (45-57), gty.org, sermon 45-57（講道逐字稿已核對）
 
 ---
 
@@ -3378,45 +3914,137 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-歷史學界公認，奧古斯丁對恩典與預定論的成熟立場，是他在主後396年寫給辛普里齊安努（Simplicianus）的論著（*Ad Simplicianum*）中，正面處理羅馬書9章之後才確立的——在此之前，他的立場更接近「神的揀選建基於祂預知人將如何回應」；讀完9:11「不在乎人的行為，乃在乎召人的主」之後，他轉向一個更堅定的立場：揀選完全出於神主權的恩典，甚至信心本身也是神所賜的禮物，而非人憑自由意志所產生的功勞。這個轉折後來在他的反伯拉糾派著作（如《論聖徒的預定》）中系統化，深刻影響了後來一千多年西方教會對恩典的理解。
+**轉折是他自己記下的**：奧古斯丁對恩典與預定的成熟立場，是他在主後396年初任主教時寫給米蘭主教辛普里齊安努（Simplicianus）的論著（*Ad Simplicianum*）中，正面處理羅馬書9:10-29之後才確立的。晚年他在《論聖徒的預定》裏親口交代這段轉折。早先他以為揀選建基於神預知人將要相信：
 
-> 出處：對奧古斯丁恩典論轉折歷史的一般性學術歸納（其轉折過程見於學界對*Ad Simplicianum*與其反伯拉糾派著作的研究），非逐字引句。
+> "God did not therefore choose the works of any one in foreknowledge of what He Himself would give them, but he chose the faith, in the foreknowledge that He would choose that very person whom He foreknew would believe in Him"
+>
+> 「所以神不是憑預知祂自己將賜下甚麼而揀選人的行為，而是揀選了信心——祂預知那人將要信祂，就預定揀選那人。」（Augustine, *On the Predestination of the Saints*, ch. 7，自述其早期立場）
+
+到了處理羅馬書9章時，他發現自己守不住這個立場：
+
+> "In the solution of this question I laboured indeed on behalf of the free choice of the human will, but God's grace overcame"
+>
+> 「在解決這個問題時，我確實曾為人意志的自由抉擇竭力辯護，但神的恩典得勝了。」（Augustine, *On the Predestination of the Saints*, ch. 8，論寫給辛普里齊安努的第一卷）
+
+自此他的立場是：揀選完全出於神主權的恩典，連信心本身也是神所賜的禮物，而非人憑自由意志所產生的功勞。這個轉折後來在他的反伯拉糾派著作中系統化，深刻影響了後來一千多年西方教會對恩典的理解。
+
+> 出處：Augustine, *On the Predestination of the Saints* (428/429), ch. 7-8（NPNF1 vol. 5，New Advent 電子版），奧古斯丁自述其轉折，逐字引句；*Ad Simplicianum* 本身無公開英譯可查，本段依其自述轉述。
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-與奧古斯丁的走向不同，屈梭多模在《羅馬書講道集》（*Homilies on Romans*）論及9章時，更強調神的揀選與神的預知並不衝突，也更著力於為神的公義辯護，指出法老的剛硬是神使用了法老自己已有的悖逆心，而非神無緣無故使一個中立的人剛硬。東方教會傳統整體上較少走向奧古斯丁式對「揀選先於一切、不受任何人的因素影響」的強調。
+**揀選按預知，法老自己使自己剛硬**：與奧古斯丁的走向不同，屈梭多模在《羅馬書講道集》第16篇論雅各與以掃時，把揀選建立在神的預知上：
 
-> 出處：對屈梭多模《羅馬書講道集》一貫解經取向之一般性歸納轉述，非逐字引句。
+> "for this was a sign of foreknowledge, that they were chosen from the very birth. That the election made according to foreknowledge, might be manifestly of God, from the first day He at once saw and proclaimed which was good and which not."
+>
+> 「因為這正是預知的記號：他們從一出生就被揀選了。為要使這按預知而有的揀選顯明是出於神，祂從第一天起就同時看見並宣告了誰是好的、誰不是。」（Chrysostom, *Homilies on Romans*, Homily 16, on 9:11-12）
+
+論到法老，他著力為神的公義辯護，指出剛硬出於法老自己：
+
+> "Pharaoh was a vessel of wrath, that is, a man who by his own hard-heartedness had kindled the wrath of God."
+>
+> 「法老是可怒的器皿，就是說，一個因自己的硬心而點燃了神怒氣的人。」（Chrysostom, *Homilies on Romans*, Homily 16, on 9:22）
+
+對9:16「不在乎那定意的，也不在乎那奔跑的」，他也不肯讀成取消自由意志：
+
+> "he does not deprive us of free-will, but shows that all is not one's own, for that it requires grace from above."
+>
+> 「他並沒有剝奪我們的自由意志，只是顯明一切並非全靠自己，因為這需要從上頭來的恩典。」（同上，on 9:16）
+
+東方教會傳統整體上較少走向奧古斯丁式對「揀選先於一切、不受任何人的因素影響」的強調。
+
+> 出處：Chrysostom, *Homilies on Romans*, Homily 16（NPNF1 vol. 11，New Advent 電子版），以上三句均為逐字引句。
 
 ### 改革宗與阿民念傳統
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》第三卷21-24章與其《羅馬書注釋》中，把羅馬書9章當作無條件揀選教義最重要的聖經根基之一：揀選完全出於神在創世以前的主權旨意，不受人預見的信心或行為所左右；雅各與以掃的例子正是明證——揀選發生在「善惡還沒有做出來」之前。
+**預定的定義，與雅各以掃的例證**：加爾文在《基督教要義》第三卷21-24章與其《羅馬書注釋》中，把羅馬書9章當作無條件揀選教義最重要的聖經根基之一。他先給預定下定義：
 
-> 出處：對加爾文《基督教要義》III.21-24及其《羅馬書注釋》一貫立場之一般性歸納轉述，非逐字引句。
+> "By predestination we mean the eternal decree of God, by which he determined with himself whatever he wished to happen with regard to every man. All are not created on equal terms, but some are preordained to eternal life, others to eternal damnation"
+>
+> 「我們所謂的預定，是指神永恆的旨意，祂藉此在自己裏面決定了祂願意臨到每一個人的事。並非所有人都在同等條件下被造：有些人被預定得永生，另一些人被預定受永刑。」（Calvin, *Institutes* III.21.5）
+
+然後以雅各與以掃駁斥「按預見的行為揀選」：
+
+> "If foreknowledge had anything to do with this distinction of the brothers, the mention of time would have been out of place. Granting that Jacob was elected for a worth to be obtained by future virtues, to what end did Paul say that he was not yet born?"
+>
+> 「若預知與這兩兄弟之間的分別有任何關係，經文提到時間就是多餘的了。就算雅各是因將來要有的美德而被揀選，保羅又何必說他還沒有出生？」（Calvin, *Institutes* III.22.4）
+
+《羅馬書注釋》論9:11亦同：
+
+> "Now indeed he openly ascribes the whole cause to the election of God, and that gratuitous, and in no way depending on men; so that in the salvation of the godly nothing higher (nihil superius) must be sought than the goodness of God, and nothing higher in the perdition of the reprobate than his just severity."
+>
+> 「如今他公開把全部原因歸於神的揀選——白白的、絲毫不倚賴人的揀選；因此在敬虔人的得救上，除神的良善以外不必再尋求更高的原因；在被棄者的滅亡上，除祂公義的嚴厲以外也不必再尋求更高的原因。」（Calvin, *Commentary on Romans*, on 9:11）
+
+> 出處：Calvin, *Institutes* III.21.5、III.22.4（Beveridge 英譯）；*Commentary on Romans*, on 9:11（CCEL calcom38, Owen 英譯），以上均為逐字引句。
 
 **雅各·阿民念與衛斯理傳統 (Jacobus Arminius, 1560-1609；John Wesley, 1703-1791)**：
 
 阿民念與後來的衛斯理傳統，並不否認神的揀選是主權的，但強調羅馬書9章的揀選，主要對象是雅各與以掃所代表的「民族角色」與「歷史使命」（誰承接應許的血脈、誰服事誰），而非每一個人永恆命運的個別預定；瑪拉基書1:2-3「雅各是我所愛的，以掃是我所惡的」，其上下文論的正是以東（以掃的後裔）作為一個國家的歷史命運，而非以掃個人死後的去向。這一支傳統也指出，「恨」（希伯來文*sane*）在閃族語言的比較用法中，常見的功能是「愛得較少」，如創世記29:31利亞被稱為「失寵的」（原文同一個詞根），並非字面上的憎恨。
 
-> 出處：對阿民念／衛斯理傳統及「民族揀選」釋經進路之一般性學術歸納轉述，非逐字引句。
+> 出處：對阿民念／衛斯理傳統及「民族揀選」釋經進路之一般性學術歸納轉述，非逐字引句。經查證《衛斯理日記》未見對應段落（衛斯理論預定的專文與阿民念著作不在本次核校文本之列）。
 
 ### 摩根 (G. Campbell Morgan)
 
-**從「不能隔絕」到「大有憂愁」**：摩根指出，8章與9章之間有一個看似矛盾、實則彼此支撐的轉折——8章結束於「無論是死，是生……都不能叫我們與神的愛隔絕」，緊接著9章卻是保羅「大有憂愁，心裏時常傷痛」。這不是保羅信心動搖，而是保羅深知：正因為他確知神揀選的愛何等堅定不移，他才對那些還在這愛之外的骨肉同胞何等痛心——確據沒有使人冷漠，反而使人更懂得為失喪的人心碎。
+**從「不能隔絕」到「大有憂愁」**：摩根指出，9章開頭與8章結尾的連結十分緊密——唯有留意這連結，才能明白使徒的原意。保羅的大憂愁、心裏的傷痛，甚至甘願自己被咒詛與基督分離，並非信心動搖的表現，而是他被基督完全充滿、與基督心意合一之下自然流露的結果：
 
-**器皿的意象不是宿命，是呼召**：摩根特別提醒讀者，不要把9:22-23的「憤怒的器皿」與「憐憫的器皿」讀成兩種截然不同、彼此無關的族類。保羅接下來立刻說「這器皿就是我們被神所召的，不但是從猶太人中，也是從外邦人中」——蒙憐憫的器皿，正是被神呼召出來、原本也在憤怒之下的人。這一章最終指向的，不是把人分類，而是頌讚神主動呼召的憐憫。
+> "It was Christ's sorrow, Christ's increasing pain, Christ's readiness to be anathema, of which he was the conscious partner, and to which he now gave expression."
+>
+> 「這是基督自己的憂傷、基督自己的痛楚、基督甘願被咒詛的心志，保羅只是有意識地分擔了它，如今把它表達出來。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.135
 
-**全章的收束句才是鑰匙**：摩根強調，若只停留在9:6-29討論神的主權而不讀到9:30-33，會完全誤解保羅的用意。9章不是要建立一套抽象的預定論體系，而是要為10章鋪路——說明以色列現在的光景，根源在於他們「不憑著信心求，只憑著行為求」。摩根說，整段論述最終要把讀者帶回到3章已經立定的根基：稱義只因著信。
+摩根接著指出，保羅原是為了基督的緣故捨棄了骨肉之情，如今卻在基督裏對他們懷抱一種全新的、更深的愛與憐憫，遠勝過從前單憑血緣的舊情感——確據沒有使人冷漠，反而在基督裏生出更深的愛。
 
-> 出處：對 G. Campbell Morgan羅馬書相關講章一貫解經取向之一般性歸納轉述，非逐字引句。
+**器皿的意象彰顯神的性情，不是任意的宿命**：摩根提醒，窯匠與泥的比喻，重點不能只停留在窯匠「有沒有權柄」這一點上——單單如此理解，反而誤用了這段經文；必須同時記住神自己的性情，以及祂已經顯明的目的。人原本無權抱怨神絕對的公義，即使祂不給悔改的機會、直接毀滅犯罪的族類；但事實上祂沒有這樣做，反倒向「憤怒的器皿」施展極大的恆忍，又預備「憐憫的器皿」得着榮耀，為要使人認識祂豐盛的恩典：
+
+> "Thus in each case the infinite patience and tenderness of God is manifested."
+>
+> 「因此，在兩種器皿身上，神無限的忍耐與慈憐都同樣彰顯出來。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.144
+
+摩根特別提醒：若終有人被棄絕，那並非神單單行使祂公義的權柄，而是因為那人拒絕支取神憐憫所提供的救恩。
+
+**全章的收束句才是鑰匙**：摩根強調，若只停留在9:6-29討論神的主權而不讀到9:30-33，會完全誤解保羅的用意。9章的目的不是要人停在神主權的奧祕裏打轉，而是要為10章鋪路——說明以色列現在的光景，根源在於他們憑行為、不憑信心追求義：
+
+> "Thus the choice of God is of such as believe."
+>
+> 「神的揀選，揀選的就是那些相信的人。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.145
+
+> 出處：核心論點已對照 G. Campbell Morgan,《The Analyzed Bible: Romans》(Fleming H. Revell, 1909) 逐段核校；直接引句已附出處與頁碼，其餘為對其一貫解經取向之歸納轉述。
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟在其講道與注釋中，一貫從個人揀選的角度解讀羅馬書9章，認為窯匠與泥的意象正是要打破人以為自己有「天生的資格」向神提出要求的錯覺——受造物本來就無權質問造物主為何如此造他；同時他也強調，9:30-33才是全章的落腳點：以色列失敗的真正原因不是「沒有被揀選」，而是「用錯誤的方法（靠行為而非信心）追求義」。
+麥克阿瑟講羅馬書 9:19-33 時，一方面直講窯匠的權柄——受造之物無權把神帶到自己的法庭上受審；另一方面他明言不相信神造人是為了刑罰，並且在 9:30 處指出保羅「轉了彎」，講的是人的責任：外邦人得著義，不是因為蒙揀選，而是因為相信。
 
-> 出處：對麥克阿瑟一貫解經立場之一般性歸納轉述（未附具體講題與日期），非逐字引句。
+**窯匠有權**：
+
+> "A potter makes choices. Clay has no part in it. He has the power to do whatever he wants. He has the right to do whatever he wants."
+>
+> 「窯匠作選擇。泥沒有份。他有能力做他要做的任何事，也有權做他要做的任何事。」（45-73）
+
+> "Be satisfied to let God be God."
+>
+> 「甘心讓神作神。」（45-73）
+
+> "I do not believe that God claims the right to create sinful, damnable creatures in order to punish them."
+>
+> 「我不相信神聲稱自己有權造出有罪、該受咒詛的受造物，只為了刑罰他們。」（45-73）
+
+**9:30 轉向人的責任**：
+
+> "He's now turned a corner and he's talking about human responsibility."
+>
+> 「他此刻轉了一個彎，講的是人的責任。」（45-74）
+
+> "The Gentile got it not because he was elect, but because he believed. That's the balance of human responsibility."
+>
+> 「外邦人得著了，不是因為他蒙揀選，而是因為他相信。這就是人的責任這一端的平衡。」（45-74）
+
+> — John MacArthur, *Is Israel's Unbelief Inconsistent with God's Plan? Part 3* (45-73), *Is Israel's Unbelief Inconsistent with God's Plan? Part 4* (45-74), gty.org, sermon 45-73 / 45-74（講道逐字稿已核對）
 
 ### 當代學界的多元聲音
 
@@ -3694,23 +4322,61 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 > **體例說明**：本節是歷代解經者**立場的綜述**，非逐字引文。
 > 除另註明版本與頁碼者外，文字為編者按其著作要旨的中文撮述，**不應作為原文引用轉引**。
 
-**誠實說明**：以下引述除加爾文《羅馬書註釋》確有可查考之原著文本外，其餘均屬對該作者一貫解經立場、廣為人知之解經重點的一般性、綜合性歸納轉述，並非逐字逐句可查證的原文引句，特此如實標明，不杜撰具體篇章頁碼。
+**誠實說明**：以下屈梭多模、加爾文、路德三家的引句，已逐條核對一手文本（New Advent 電子版 NPNF1 屈梭多模《羅馬書講道集》、CCEL 加爾文《羅馬書註釋》、Thornton 英譯路德《羅馬書序言》）：引號內為逐字引句，中譯為編者所作。核對中發現前版三處憑記憶寫成的撮述與原文不符（屈梭多模論殉道認信、加爾文論 *telos* 雙義與駁中世紀、路德「多次強調10:9-10」），已改為原文實際所言，並於各段出處註明。
 
 ### 教父時期
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-在他對羅馬書的講道傳統中（*Homilies on Romans*），屈梭多模一貫強調10:9-10「口裏承認」的公開性——他指出，初代教會的信徒常常正是在殉道的審判台前，被逼著在異教官長面前「口裏承認耶穌為主」，這一節經文因此不只是教義陳述，更是無數殉道者用生命實踐出來的宣告。
+**「這道離你不遠」——救恩之易得**：屈梭多模在《羅馬書講道集》第17篇論10:6-13，重點不在殉道時的公開認信，而在信心之義的「易」與「近」——與律法之義要求「行全部」相對：
+
+> "There is no long journey to go, no seas to sail over, no mountains to pass, to get saved. But if you be not minded to cross so much as the threshold, you may even while you sit at home be saved. For in your mouth and in your heart is the source of salvation."
+>
+> 「得救不必走遠路，不必渡海，不必翻山。你若連門檻都不願跨出，坐在家裏也能得救。因為救恩的源頭就在你口裏、在你心裏。」（Chrysostom, *Homilies on Romans*, Homily 17, on 10:8-9）
+
+論到11-13節，他把「信」與「認」分別對應保羅引的兩處經文：
+
+> "For the words, Every one that believes, point out the faith. But the words, Whosoever shall call upon, set forth confession."
+>
+> 「『凡信祂的』這話指向信心；『凡求告的』這話則陳明認信。」（同上，on 10:11-13）
+
+> 出處：Chrysostom, *Homilies on Romans*, Homily 17（NPNF1 vol. 11，New Advent 電子版），逐字引句。前版稱屈梭多模在此強調殉道者於審判台前的公開認信，經查證第17篇未見此意，已改正。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**，*Commentary on Romans*：
 
-加爾文在論到10:4「律法的總結就是基督」時，明確主張 *telos* 一詞應同時包含「目標」與「終結」兩義——律法從起初就指向基督為它的完成，而人靠律法本身稱義的努力，也在基督裏終止。他論到10:17「信道是從聽道來的」，強調信心從來不是憑空而來的內在感覺，而是「聖道」這個外在、客觀的媒介所生的果子，藉此駁斥中世紀將信心建立在教會權威或個人靈修經驗之上的傾向。
+**律法的「總結」是完成，不只是終止**：加爾文論10:4時，表明自己傾向把 *telos* 讀作「完成」（*complementum*），但也不反對通行的「終結」譯法；他真正的重點是律法整體指向基督：
+
+> "whatever the law teaches, whatever it commands, whatever it promises, has always a reference to Christ as its main object; and hence all its parts ought to be applied to him."
+>
+> 「律法所教導的、所吩咐的、所應許的一切，向來都以基督為它的主要目標；因此它的每一部分都當應用在祂身上。」（Calvin, *Commentary on Romans*, on 10:4）
+
+**信心從聖道生，聖道從神的差遣來**：論10:17「信道是從聽道來的」，他把14-17節這一串連鎖歸結為：
+
+> "faith is produced by the word of God, but the word of God is nowhere preached, except through God's special providence and appointment. Where then there is a calling on God, there is faith; and where faith is, the seed of the word has preceded; where there is preaching there is the calling of God."
+>
+> 「信心是由神的道所生，而神的道除非藉著神特別的護理與安排，無處被傳講。所以哪裏有人求告神，哪裏就有信心；哪裏有信心，道的種子必已先撒下；哪裏有傳講，哪裏就有神的呼召。」（Calvin, *Commentary on Romans*, on 10:17）
+
+> 出處：Calvin, *Commentary on Romans*（CCEL calcom38, Owen 英譯），on 10:4、10:17，逐字引句。前版稱加爾文「明確主張 *telos* 同時包含目標與終結兩義」、並在10:17駁斥中世紀將信心建基於教會權威或靈修經驗，經查證註釋原文未見此二說，已改正。
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德一生的轉折與羅馬書密不可分，他多次強調羅馬書10:9-10這類經文將「稱義」從煩瑣的教會禮儀與功德制度中釋放出來，回到最單純的「信」與「認」——這也是宗教改革「唯獨信心」（*sola fide*）的重要經文根據之一。
+**信心只從福音的道而來**：路德一生的轉折與羅馬書密不可分。他在《羅馬書序言》裏把第10章與第3、4章並列，作為「信心只從神的道而來」的根據：
+
+> "faith comes only through the word of God, the Gospel, that preaches Christ: how he is both Son of God and man, how he died and rose for our sake. Paul says all this in chapters 3, 4 and 10."
+>
+> 「信心只從神的道、就是傳講基督的福音而來：祂怎樣既是神的兒子又是人，怎樣為我們死而復活。保羅在第3、4、10章講的都是這個。」（Luther, *Preface to Romans*, Thornton 英譯）
+
+緊接著就是「唯獨信心」（*sola fide*）的宣告：
+
+> "That is why faith alone makes someone just and fulfills the law"
+>
+> 「這就是為甚麼唯獨信心使人成義並成全律法。」（同上）
+
+至於9-11章，他讀作論神永恆的護理，並警告初學者不要用理性去探測預定的深淵。
+
+> 出處：Luther, *Preface to the Epistle to the Romans* (1522/1545), Thornton 英譯，逐字引句。前版稱路德「多次強調10:9-10」，序言中未見以此二節為據的論述，已改為序言實際所言。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -3718,17 +4384,51 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **律法的終點站**：摩根對10:4的一貫詮釋，是把「律法的總結」理解為一條路走到盡頭時看見的那座城——律法本身從不是目的地，是指路牌；當旅人終於抵達基督，指路牌完成了它的使命，不是被拋棄，而是被成全。
 
-**近在咫尺的福音**：摩根特別強調10:6-8保羅重新詮釋申命記30章的用意——舊約的百姓曾經以為神的話遙不可及，需要上天下海去尋找；保羅要說的是，如今在基督裏，這話已經「近」到不能再近——就在口中，就在心裏。摩根認為，這正是福音與一切宗教哲學最根本的分別：宗教哲學要人往外、往上去攀爬尋找；福音卻說，神已經先來到人這裏。
+**近在咫尺的福音**：摩根特別強調10:6-8保羅重新詮釋申命記30章的用意——舊約的百姓曾經以為神的話遙不可及，需要上天下海去尋找；保羅要說的是，如今在基督裏，這話已經「近」到不能再近：
 
-**宣教的鎖鏈**：摩根對10:14-15的討論，一貫強調這一連串反問句不是修辭裝飾，而是一條無法拆解的邏輯鎖鏈，每一環都不可少——教會若不差遣，就沒有傳講；沒有傳講，福音就無法「近」到還沒聽過的人身上。
+> "He need not be sought for in the height or the depth, for now He has indeed come. The word is nigh men, in the mouth and in the heart."
+>
+> 「不必到高處，也不必到深處去尋找祂，因為如今祂確實已經來到。這話已經臨近人，就在口裏，就在心裏。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.150
 
-> 出處：對 G. Campbell Morgan 羅馬書9-11章相關講章一貫解經立場的一般性歸納轉述，非逐字引句，未附具體篇章頁碼。
+摩根認為，這正是福音與一切宗教哲學最根本的分別：宗教哲學要人往外、往上去攀爬尋找；福音卻說，神已經先來到人這裏。
+
+**宣教的鎖鏈**：摩根對10:14-15的討論，一貫強調這一連串反問句不是修辭裝飾，而是一條無法拆解的邏輯鎖鏈，每一環都不可少：
+
+> "There can be no calling on One not believed in. There can be no belief in One not heard of. There can be no hearing without a preacher. There can be no preaching without a commission."
+>
+> 「不信，就不能求告；未曾聽見，就不能相信；沒有傳道的，就不能聽見；沒有奉差遣，就不能傳道。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.151
+
+教會若不差遣，就沒有傳講；沒有傳講，福音就無法「近」到還沒聽過的人身上。
+
+> 出處：核心論點已對照 G. Campbell Morgan,《The Analyzed Bible: Romans》(Fleming H. Revell, 1909) 逐段核校；直接引句已附出處與頁碼，其餘為對其一貫解經立場之歸納轉述。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟在其羅馬書系列講道與註釋中一貫指出，10:9-10是全本聖經中最直接、最常被用來領人信主的經文之一——「福音的濃縮版」；他也特別強調10:14-15的宣教邏輯鏈，認為這是保羅留給教會最清楚的宣教教導，任何教會的宣教策略都繞不開這條「差遣—傳講—聽見—相信—求告—得救」的次序。
+麥克阿瑟講羅馬書 10:8-15 時，把 10:8 的「信主的道」稱為使徒信息的核心——不必追尋、不必攀登，它就在近處；講 10:14-15 時，他把那四個「怎能」讀成一條再簡單不過的邏輯鏈：神若不差遣傳道的人，人就不能得救。
 
-> 出處：以上教父與改教家段落屬對其一貫解經立場之一般性歸納轉述，非逐字引句；加爾文《羅馬書註釋》段落依其論羅馬書10章之一貫主張整理；MacArthur 段落屬對其講道系列一貫立場之綜合轉述，未附具體講題與日期，讀者若需查證應另行核對其原著。
+**信主的道就在近處**：
+
+> "It's the word of faith which we preach, he says, which we continually herald, which is the heart of the apostolic message."
+>
+> 「他說，這就是我們所傳、我們不斷宣告的信主之道，是使徒信息的核心。」（45-79）
+
+**四個「怎能」是一條邏輯鏈**：
+
+> "Now what is he saying? Listen carefully. This is a very simple process of logic."
+>
+> 「他在說甚麼？仔細聽。這是一段再簡單不過的邏輯推演。」（45-80）
+
+> "In other words, if God doesn't send preachers who preach the truth so that men can believe and call on the name of the Lord, they can't be saved."
+>
+> 「換句話說，神若不差遣傳講真理的人，使人能相信並求告主名，人就不能得救。」（45-80）
+
+> — John MacArthur, *Israel's Failure, Part 5* (45-79), *Israel's Failure, Part 6* (45-80), gty.org, sermon 45-79 / 45-80（講道逐字稿已核對）
+
+> 出處：以上教父與改教家段落屬對其一貫解經立場之一般性歸納轉述，非逐字引句；加爾文《羅馬書註釋》段落依其論羅馬書10章之一貫主張整理；MacArthur 引句已逐句對照 gty.org 講道逐字稿核實，講道編號附於各句之後。
 
 ---
 
@@ -4000,13 +4700,43 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 教父時期
 
-**奧古斯丁 (Augustine, 354-430)**：奧古斯丁在論恩典與自由意志的著作中反覆處理「揀選出於恩典，不憑行為」（11:6）這一原則，將其視為對抗任何形式「靠功德稱義」思想的核心經文之一——恩典若摻入人的功勞就不再是恩典，這個邏輯貫穿他晚年與伯拉糾主義的論戰。（此為對其一貫神學立場之一般性歸納，並非逐字引句。）
+**奧古斯丁 (Augustine, 354-430)**：
+
+**「不然恩典就不是恩典了」**：奧古斯丁在《論恩典與自由意志》中反覆以11:5-6對抗任何形式的「靠功德得恩」：
+
+> "Grace, however, is not bestowed according to men's deserts; otherwise grace would be no longer grace. ... For grace is so designated because it is given gratuitously."
+>
+> 「然而恩典不是按人的功勞賜下的；不然恩典就不再是恩典了。……恩典之所以稱為恩典，正因它是白白給的。」（Augustine, *On Grace and Free Will*, ch. 43）
+
+> "But most certainly there is no prevenient merit, otherwise the grace would be no longer grace."
+>
+> 「但可以完全確定：沒有甚麼先在的功勞，不然恩典就不再是恩典了。」（同上，ch. 44）
+
+恩典若摻入人的功勞就不再是恩典——這個邏輯貫穿他晚年與伯拉糾主義的論戰。
+
+> 出處：Augustine, *On Grace and Free Will* (426/427), ch. 43-44（NPNF1 vol. 5，New Advent 電子版），逐字引句。
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin, 1509-1564)**：加爾文在其《羅馬書註釋》中，傾向將11:26「以色列全家都要得救」理解為神歷世歷代所揀選之百姓的完整數目——既包括蒙恩的猶太餘民，也包括藉信心被接上的外邦信徒，兩者合成一個屬靈意義上的「以色列全家」，而非單指未來某次猶太民族的整體歸信事件。這是他解經傳統中一個持續受討論、也持續有人商榷的具體立場。（此為對其註釋一貫立場之一般性歸納，非逐字引句。）
+**約翰·加爾文 (John Calvin, 1509-1564)**：
 
-**與加爾文立場不同的改革宗聲音**：二十世紀改革宗學者約翰·慕理（John Murray）在其羅馬書註釋中則主張11:26確實指向猶太民族未來一次大規模的歸信，與加爾文的讀法形成改革宗傳統內部真實存在的分歧——本書如實並陳，讀者可自行進一步查考兩人原著比較。
+**「以色列全家」——擴大為神全體的百姓**：加爾文在《羅馬書註釋》論11:26，明言自己與「許多人」的讀法不同：
+
+> "Many understand this of the Jewish people, as though Paul had said, that religion would again be restored among them as before: but I extend the word Israel to all the people of God"
+>
+> 「許多人把這話理解為指猶太民族，好像保羅是說宗教會像從前一樣在他們中間復興；但我把『以色列』一詞擴大為指神全體的百姓。」（Calvin, *Commentary on Romans*, on 11:26）
+
+但要留意，他並未把猶太人排除在外，而是把猶太人的回轉包含在「全以色列」的完成之中：
+
+> "When the Gentiles shall come in, the Jews also shall return from their defection to the obedience of faith; and thus shall be completed the salvation of the whole Israel of God, which must be gathered from both; and yet in such a way that the Jews shall obtain the first place, being as it were the first-born in God's family."
+>
+> 「當外邦人進來的時候，猶太人也要從他們的背離回轉，歸於信心的順服；這樣，神全以色列的救恩就得以完成——它必須從兩方聚集而成；然而猶太人要得首位，好像是神家中的長子。」（同上）
+
+這是他解經傳統中一個持續受討論、也持續有人商榷的具體立場。
+
+> 出處：Calvin, *Commentary on Romans*（CCEL calcom38, Owen 英譯），on 11:26，逐字引句。前版撮述稱其讀法「非單指未來某次猶太民族的整體歸信」，原文確係如此，但亦明言猶太人將回轉歸信，已補足。
+
+**與加爾文立場不同的改革宗聲音**：二十世紀改革宗學者約翰·慕理（John Murray）在其羅馬書註釋中則主張11:26確實指向猶太民族未來一次大規模的歸信，與加爾文的讀法形成改革宗傳統內部真實存在的分歧——本書如實並陳，讀者可自行進一步查考兩人原著比較。（此為對其《羅馬書註釋》(1965) 立場之一般性歸納，非逐字引句。）
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -4014,13 +4744,35 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **橄欖樹的圖像是全信「因信站立、非因行為誇口」主題在民族層面的重演**：摩根一貫強調羅馬書的核心張力是「因行為誇口」與「因信站立」的對比（3:27「既是這樣，哪裏可誇口呢？沒有可誇的了」）。11:17-24對外邦人誇口的警告，正是把2-3章對猶太人「誇口律法」的警告，原樣套用在外邦信徒身上——沒有一個群體、一種身份，可以憑藉本身的地位在神面前站立，唯獨信心。
 
-**頌讚是論證的必然終點，不是論證之外的裝飾**：摩根一貫強調，保羅講道理從不停在邏輯本身，而是以敬拜收束——羅馬書前十一章是全新約最縝密的論證之一，卻以「深哉」這聲驚嘆收尾，這本身就是一個解經提醒：真正明白神的道理，終點不是「我懂了」，而是「我敬拜」。
+**頌讚是論證的必然終點，不是論證之外的裝飾**：摩根一貫強調，保羅講道理從不停在邏輯本身，而是以敬拜收束：
 
-> 出處：此為對 G. Campbell Morgan一貫解經風格與其已知羅馬書釋經重點（結構分析法、「因信站立」主題、論證與敬拜的關係）之一般性、綜合性歸納，未能定位可逐字核對之特定講章或篇章，非逐字引句。
+> "This doxology is really the conclusion of the whole doctrinal statement of the epistle."
+>
+> 「這頌讚實在就是全卷書教義論述的結論。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.165
+
+羅馬書前十一章是全新約最縝密的論證之一，卻以「深哉」這聲驚嘆收尾，這本身就是一個解經提醒：真正明白神的道理，終點不是「我懂了」，而是「我敬拜」。
+
+> 出處：核心論點已對照 G. Campbell Morgan,《The Analyzed Bible: Romans》(Fleming H. Revell, 1909) 逐段核校；頌讚一段已附直接引句與頁碼，其餘（結構分析法、「因信站立」主題）為對其一貫解經風格之一般性、綜合性歸納。
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫持守未來論／時代論的解經立場，主張「以色列全家得救」指向歷史終末、基督再來前後，將會有大規模猶太民族性的歸信——這是他在羅馬書相關教導與著作中公開、可查證的一貫立場，本書在此僅作一般性歸納轉述，非逐字引句。
+麥克阿瑟講羅馬書 11:16-29 時，明白持守「以色列全家得救」指以色列民族將來的歸信，並認為任何別的讀法都對不起經文。
+
+> "So, it's possible, it's probable, it's promised. Are you ready for this? It's positive."
+>
+> 「所以，這是可能的，這是很可能的，這是應許了的。你準備好了嗎？這是確定的。」（45-86）
+
+> "And please, there is no way to interpret that other than as the nation Israel and be fair with the text, no way."
+>
+> 「而且拜託，要對經文公道，這句話除了指以色列這個民族之外，沒有別的解法，沒有。」（45-87）
+
+> "Now those are just samples of the Old Testament prophecies that cause us to believe that there must be in the future salvation to the nation Israel. Anything else does not do justice to the biblical text."
+>
+> 「以上只是舊約預言的幾個樣本，它們使我們相信：以色列民族將來必然得救。任何別的說法都對不起聖經的經文。」（45-87）
+
+> — John MacArthur, *Has God Cancelled His Promises to Israel? Part 5* (45-86), *Has God Cancelled His Promises to Israel? Part 6* (45-87), gty.org, sermon 45-86 / 45-87（講道逐字稿已核對）
 
 ---
 
@@ -4301,40 +5053,73 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-> 「凡是為了使我們與神聯合於聖潔團契中而做的工作，都是真正的祭……因此，蒙救贖的整座城——就是眾聖徒的會眾與團契——藉著那位大祭司獻給神，作我們的祭；祂在受難中將自己獻給神，為要使我們成為這榮耀元首的肢體。」
-> — *上帝之城 (City of God)*，卷十第6章
+> "Thus a true sacrifice is every work which is done that we may be united to God in holy fellowship ... it follows that the whole redeemed city, that is to say, the congregation or community of the saints, is offered to God as our sacrifice through the great High Priest, who offered Himself to God in His passion for us, that we might be members of this glorious head"
+>
+> 「凡是為了使我們與神聯合於聖潔團契中而做的工作，都是真正的祭……因此，蒙救贖的整座城——就是眾聖徒的會眾與團契——藉著那位大祭司獻給神，作我們的祭；祂在受難中將自己獻給神，為要使我們成為這榮耀元首的肢體。」（Augustine, *City of God* X.6）
 
 奧古斯丁在這裏直接以羅馬書12:1為根據，重新定義「祭」的本質：真正的祭不是儀式性的獻物，而是任何使人與神聯合的行動；並延伸出一個深刻的教會論——教會全體（「蒙救贖的城」）本身，就是藉基督獻給神的一個祭。
 
 **屈梭多模 (John Chrysostom, 約347-407)**：
 
-> 「這樣，我們就不再需要刀、不再需要祭壇、也不再需要火了——或者說，我們仍然需要這一切，只是不再是人手所造的：火從上頭來，刀也從上頭來，我們的祭壇就是諸天的寬廣。」
-> — *羅馬書講道集 (Homilies on Romans)*，第20篇
+> "In this way we shall not need the knife any more, nor altar, nor fire, or rather we shall want all these, but not made with the hands, but all of them will come to us from above, fire from above, and knife also, and our altar will the breadth of Heaven be."
+>
+> 「這樣，我們就不再需要刀、不再需要祭壇、也不再需要火了——或者說，我們仍然需要這一切，只是不再是人手所造的：火從上頭來，刀也從上頭來，我們的祭壇就是諸天的寬廣。」（Chrysostom, *Homilies on Romans*, Homily 20, on 12:1）
 
 屈梭多模把活祭與舊約獻祭的器具一一對照：不需要刀，因為治死己身不靠外在的刀；不需要祭壇，因為天本身就是祭壇；不需要火，因為聖靈的火從上頭來。他把「活祭」講成一場屬靈的、不流血卻更徹底的獻祭。
+
+> 出處：Augustine, *City of God* X.6（NPNF1 vol. 2，New Advent 電子版）；Chrysostom, *Homilies on Romans*, Homily 20（NPNF1 vol. 11，New Advent 電子版），英文均為逐字引句，中譯為編者所作。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-> 「我們不是屬自己的：因此不要以肉體的益處為我們生活的目標。我們不是屬自己的：因此盡我們所能，忘記自己和一切屬自己的。反過來說，我們是屬神的：所以讓我們為祂而活、為祂而死。我們是屬神的：所以讓祂的智慧和旨意管理我們一切的行動。我們是屬神的：所以讓我們生命的每一部分，都以祂為唯一合法的目標。」
-> — *基督教要義 (Institutes of the Christian Religion)*，卷三第7章第1節
+> "We are not our own; therefore, let us not make it our end to seek what may be agreeable to our carnal nature. We are not our own; therefore, as far as possible, let us forget ourselves and the things that are ours. On the other hand, we are God's; let us, therefore, live and die to him (Rom. 14:8). We are God's; therefore, let his wisdom and will preside over all our actions. We are God's; to him, then, as the only legitimate end, let every part of our life be directed."
+>
+> 「我們不是屬自己的：因此不要以肉體的益處為我們生活的目標。我們不是屬自己的：因此盡我們所能，忘記自己和一切屬自己的。反過來說，我們是屬神的：所以讓我們為祂而活、為祂而死。我們是屬神的：所以讓祂的智慧和旨意管理我們一切的行動。我們是屬神的：所以讓我們生命的每一部分，都以祂為唯一合法的目標。」（Calvin, *Institutes* III.7.1）
 
 加爾文《基督教要義》論「基督徒生活的總綱：捨己」這一整章，開篇就是以羅馬書12:1為根基展開的。「我們不是屬自己的」這句反覆的宣告，正是「活祭」最精煉的系統化表達：獻上身體為活祭之所以可能，前提是先承認自己的所有權已經易手。
 
+> 出處：Calvin, *Institutes* III.7.1（Beveridge 英譯），逐字引句，中譯為編者所作。
+
 ### 摩根 (G. Campbell Morgan)
 
-摩根在分析羅馬書全書結構時，一貫將全信分為三大段落：**教義的**（1-8章，講明人的失喪與神的救法）、**寓意的／關乎以色列的**（9-11章，講明神對揀選之民信實的計劃）、**實踐的**（12-16章，講明蒙恩之人當如何生活）。他特別指出，十二章開頭的「所以」不是隨口的連接詞，而是全信結構上刻意設計的鉸鏈：前面十一章以陳述神的作為為主軸，這並非偶然——保羅刻意等到把神的憐憫完整陳明之後，才發出首個以福音為根基的主要倫理勸勉。摩根認為，這正是保羅寫作倫理教導一貫的方法——**先給「是甚麼」，才給「當如何」**；凡是顛倒這次序、先講行為要求、後講恩典基礎的講道，都誤解了保羅的邏輯。
+摩根在分析羅馬書全書結構時，其實將全信分為**兩大段落**，而非坊間常見的三分法：**第一大段「基督是神的救恩」**（1-11章，其下再細分「定罪」〔1-3章〕、「救恩的信息」〔3-8章：稱義、成聖、得榮〕、「疑難的討論」〔9-11章：揀選、棄絕、復興，答覆猶太讀者必然會提出的疑問〕），與**第二大段「因救恩而變化」**（12-16章，講明蒙恩之人當如何生活）。他特別指出，十二章開頭的「所以」正是這兩大段落之間刻意設計的鉸鏈：
 
-摩根也特別留意12:9「愛人不可虛假」在原文結構上的位置——它沒有動詞，是一句濃縮的格言式命令，直譯近似「愛：不虛假的」，摩根認為這正是保羅刻意把它放在整段命令句之首、作為統攝原則的寫作手法：後面每一項具體命令，都是回答「不虛假的愛，在這個處境裏看起來是甚麼樣子」。
+> "The word 'therefore' links all that is now to be said, with everything which has already been said. The argument for conduct is based upon the truth enunciated."
+>
+> 「『所以』這個詞，把接下來要說的一切，與前面已經說過的一切連結起來；行為的論證，是建立在已經宣告的真理之上。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.169
 
-> 出處：G. Campbell Morgan 對羅馬書結構與教義倫理次序的一貫解經立場之綜合轉述（相關講章及注釋精神），未附具體篇章、頁碼，依本系列一貫誠實標註慣例處理。
+摩根認為，這正是保羅寫作倫理教導一貫的方法——**先給「是甚麼」，才給「當如何」**；凡是顛倒這次序、先講行為要求、後講恩典基礎的講道，都誤解了保羅的邏輯。
+
+摩根也特別留意12:9「愛人不可虛假」在整段命令中的位置——他稱之為「簡短至極的話語」，是保羅表達「單純生活」的總原則：
+
+> "The command is all-inclusive, at once revealing the true impulse of obedience to all the instructions concerning the practice, and indicating the unifying bond which holds them in true relation."
+>
+> 「這條命令涵蓋一切：它既顯明後面一切具體教導所當有的真實服從動機，也標明把它們維繫在一起、彼此關聯的統一紐帶。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p.180
+
+換言之，後面每一項具體命令，都是回答「不虛假的愛，在這個處境裏看起來是甚麼樣子」。
+
+> 出處：已對照 G. Campbell Morgan,《The Analyzed Bible: Romans》(Fleming H. Revell, 1909) 逐段核校並修正原書結構歸納（原文為兩大段落而非三分法）；直接引句已附出處與頁碼。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟指出，12:1「理所當然」一詞，原文含有「合乎邏輯、講得通」的意思——保羅的邏輯是：一個人若真的明白了十一章所陳明神那何等浩大、毫無保留的憐憫，把身體獻上為活祭，就是唯一合理、唯一講得通的回應，而不是外加的宗教義務；把它當作重擔的人，其實是還沒真正明白前十一章在說甚麼。
+麥克阿瑟講羅馬書 12:1-2 時，把「理所當然」的原文 *logikos* 解為「合理的、出於理性的、屬於內在之人的」，並斷言：把身體獻上為活祭，是救贖唯一合乎邏輯的結論。
 
-> 出處：奧古斯丁與加爾文引句經 CCEL (Christian Classics Ethereal Library) 線上原始文本查證；屈梭多模引句經 New Advent 線上《羅馬書講道集》第20篇原文查證，並經多方獨立來源交叉核對。麥克阿瑟部分為其對羅馬書十二章一貫解經立場的綜合轉述，未附具體講題、日期或 gty.org 網址，依本系列一貫誠實標註慣例處理，不視為逐字引句。
+> "the word is logikos from which we get the word “logic.” It is reasonable, that's a fair translation. It is intelligent. The idea is though that it is of the reason. It is of the inner man rather than of the outer man."
+>
+> 「這個字是 logikos，英文的『邏輯』就是從它來的。譯作『合理的』是恰當的。它是理智的。意思是說，它出於理性，屬於內在的人而不是外在的人。」（45-89）
+
+> "And this, beloved, is the logical, the only logical conclusion to redemption. There is no other logical conclusion. This is it. Romans 12:1 and 2 is the only proper response to God's redeeming work, the only proper response."
+>
+> 「親愛的，這就是救贖合乎邏輯的結論，唯一合乎邏輯的結論。沒有別的合乎邏輯的結論。就是這個。羅馬書 12:1-2 是對神救贖之工唯一恰當的回應，唯一恰當的回應。」（45-89）
+
+> — John MacArthur, *The Believer's Supreme Act of Spiritual Worship* (45-89), gty.org, sermon 45-89（講道逐字稿已核對）
+
+> 出處：奧古斯丁與加爾文引句經 CCEL (Christian Classics Ethereal Library) 線上原始文本查證；屈梭多模引句經 New Advent 線上《羅馬書講道集》第20篇原文查證，並經多方獨立來源交叉核對。麥克阿瑟引句已逐句對照 gty.org 講道逐字稿（45-89）核實。
 
 ---
 
@@ -4606,29 +5391,99 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **屈梭多模 (John Chrysostom, 約347-407)**：
 
-屈梭多模在他對羅馬書的講道中一貫強調，13:1的教導對象是所有人，甚至包括修士與教牧人員——沒有人可以自認屬靈到不受地上秩序約束。他區分了「權柄本身作為一種制度」與「掌權之人的品行」：制度出於神的安排，個別掌權者的惡行則是另一回事，人不能因某個統治者的邪惡就宣稱整個政治秩序不出於神。
+**「人人」包括使徒、祭司與修士**：屈梭多模在第二十三篇講道開頭指出，保羅說「在上有權柄的，人人當順服」，正是要把使徒、傳福音者、先知一併納入——沒有人可以自認屬靈到不受地上秩序約束。
 
-> 以上為屈梭多模對羅馬書13章一貫解經立場之綜合歸納轉述，非逐字引句。
+> "And to show that these regulations are for all, even for priests, and monks, and not for men of secular occupations only, he has made this plan at the outset, by saying as follows: let every soul be subject unto the higher powers, if you be an Apostle even, or an Evangelist, or a Prophet, or anything whatsoever, inasmuch as this subjection is not subversive of religion."
+>
+> 「為了表明這些規定是給所有人的——連祭司與修士也在內，不單是給從事屬世職業的人——他一開始便這樣佈局，說：在上有權柄的，人人當順服；你就是使徒也罷、傳福音的也罷、先知也罷，或無論是甚麼人，因為這樣的順服並不顛覆敬虔。」（Chrysostom, *Homilies on Romans*, Homily 23, on 13:1）
+
+**「權柄本身」與「個別掌權者」之分**：他借一個設問，把制度與掌權之人分開——制度出於神的安排，個別統治者的惡行則是另一回事。
+
+> "What say you? It may be said; is every ruler then elected by God? This I do not say, he answers. Nor am I now speaking about individual rulers, but about the thing in itself. For that there should be rulers, and some rule and others be ruled, and that all things should not just be carried on in one confusion, the people swaying like waves in this direction and that; this, I say, is the work of God's wisdom."
+>
+> 「你說甚麼？有人會問：那麼每一個統治者都是神所揀選的嗎？他答：我不是這樣說。我此刻談的不是個別的統治者，而是這件事本身。要有統治者，有人治理、有人受治，萬事不至於一片混亂、百姓像波浪般東倒西歪——我說，這正是神智慧的工作。」（同上，on 13:1）
+
+> "For do not tell me of some one who makes an ill use of the thing, but look to the good order that is in the institution itself, and you will see the great wisdom of Him who enacted this law from the first."
+>
+> 「不要對我說某某人濫用了這件事，倒要看制度本身裏面的良好秩序，你就會看見那位起初立下這法則者的大智慧。」（同上，on 13:6）
+
+> 以上引文據 New Advent 所載 NPNF 英譯本（*Homilies on Romans*, Homily 23）逐字核對；中譯為編者所譯。
 
 **奧古斯丁 (Augustine, 354-430)——「拿起來，讀」**：
 
-羅馬書13章在教會歷史上最著名、也最有據可查的場景，發生在主後386年米蘭的一座花園裏。奧古斯丁在《懺悔錄》第八卷第十二章親筆記述：他當時內心正被罪與信仰的拉扯撕裂，痛哭倒在一棵無花果樹下，忽然聽見隔壁院子傳來一個孩子反覆吟唱的聲音：「拿起來，讀；拿起來，讀」（*tolle lege, tolle lege*）。他絞盡腦汁回想是否有哪種兒童遊戲用這句話當歌詞，卻想不起來，於是把這當作神對他的命令——起身走回朋友亞利比烏（Alypius）坐著的長椅，那裏放著一卷保羅書信，他隨手翻開，第一眼看到的正是羅馬書13:13-14：「不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒……總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。」奧古斯丁自己寫道：「我不需要再讀下去了……剎那間，一道確信的光注入我心，一切疑惑的幽暗盡都消散。」亞利比烏隨後翻到下一節（14:1「信心軟弱的，你們要接納」），也把這句話應用在自己身上，同時歸信。這場面沒有任何誇飾的必要——它本身就是教會歷史上記載最詳實、影響最深遠的歸信事件之一，而觸發它的，正是這段論「披戴基督」的經文。
+羅馬書13章在教會歷史上最著名、也最有據可查的場景，發生在主後386年米蘭的一座花園裏。奧古斯丁在《懺悔錄》第八卷第十二章親筆記述：他當時內心正被罪與信仰的拉扯撕裂，痛哭倒在一棵無花果樹下，忽然聽見鄰舍傳來一個孩子反覆吟唱的聲音：「拿起來，讀；拿起來，讀」（*tolle lege, tolle lege*）。
 
-> 以上敘事與引句撮述自 Augustine, *Confessions* VIII.12.29（英譯本如 E. B. Pusey 譯本內容一致，經 newadvent.org／ccel.org 核對，中文為本書譯述，非逐字對照原文之學術翻譯）。
+> "I heard the voice as of a boy or girl, I know not which, coming from a neighbouring house, chanting, and oft repeating, Take up and read; take up and read. Immediately my countenance was changed, and I began most earnestly to consider whether it was usual for children in any kind of game to sing such words; nor could I remember ever to have heard the like."
+>
+> 「我聽見一個聲音，像是男孩或女孩的——我不知道是哪一個——從鄰舍傳來，吟唱著、反覆說著：拿起來，讀；拿起來，讀。我的臉色立刻變了，開始極認真地思想：孩子們在甚麼遊戲裏會唱這樣的話？卻想不起曾聽過類似的。」（Augustine, *Confessions* VIII.12.29）
+
+他把這當作神對他的命令——起身走回朋友亞利比烏（Alypius）坐著的地方，那裏放著一卷保羅書信，他隨手翻開，第一眼看到的正是羅馬書13:13-14：「不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒……總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。」
+
+> "I grasped, opened, and in silence read that paragraph on which my eyes first fell ... No further would I read, nor did I need; for instantly, as the sentence ended — by a light, as it were, of security infused into my heart — all the gloom of doubt vanished away."
+>
+> 「我抓起書，打開，默默讀我目光最先落到的那一段……我不需要再讀下去了，也不必；因為那句話一讀完，剎那間，彷彿一道確信的光注入我心，一切疑惑的幽暗盡都消散。」（同上）
+
+亞利比烏隨後翻到下一節（14:1「信心軟弱的，你們要接納」），也把這句話應用在自己身上，同時歸信：
+
+> "He asked to look at what I had read. I showed him; and he looked even further than I had read, and I knew not what followed. This it was, verily, Him that is weak in the faith, receive"
+>
+> 「他要看我讀了甚麼。我給他看；他比我讀得更遠，讀到我還不知道的下文。那正是：信心軟弱的，你們要接納。」（同上，VIII.12.30）
+
+這場面沒有任何誇飾的必要——它本身就是教會歷史上記載最詳實、影響最深遠的歸信事件之一，而觸發它的，正是這段論「披戴基督」的經文。
+
+> 以上敘事與引句出自 Augustine, *Confessions* VIII.12.29-30；英文據 newadvent.org 所載 J. G. Pilkington 英譯本（NPNF 第一系列第一卷）逐字核對，中譯為編者所譯。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)——兩個國度的教義**：
 
-路德在1523年的論著《論屬世的權柄：應當服從到甚麼程度》(*Temporal Authority: To What Extent It Should Be Obeyed*) 中，正是以羅馬書13章為根基，發展出他著名的「兩個國度」教義：神用兩種方式治理世界——藉著福音與聖靈治理教會（屬靈的國度），藉著律法與刀劍治理世上的秩序（屬世的國度）。兩者都出於神，卻不可混淆：教會不該用刀劍推行信仰，政權也不該僭越屬靈的職分。
+路德在1523年的論著《論屬世的權柄：應當服從到甚麼程度》(*Temporal Authority: To What Extent It Should Be Obeyed*；Schindel 英譯題為 *Secular Authority*) 中，以羅馬書13章與彼得前書2章立定屬世權柄出於神，並由此發展出他著名的「兩個國度」教義：
 
-> 以上為路德《論屬世的權柄》一貫論述精神之綜合轉述，非逐字引句。
+> "For this reason God has ordained the two governments; the spiritual, which by the Holy Spirit under Christ makes Christians and pious people, and the secular, which restrains the unchristian and wicked so that they must needs keep the peace outwardly, even against their will. So Paul interprets the secular sword, Romans 13:3, and says it is not a terror to good works, but to the evil."
+>
+> 「因此神設立了兩種治理：屬靈的治理，藉聖靈在基督之下使人成為基督徒、成為敬虔的人；屬世的治理，約束不信與邪惡的人，使他們即使不情願，也必須在外面守住和平。保羅正是這樣解釋屬世的刀劍——羅馬書13:3——說它不是叫行善的懼怕，乃是叫作惡的懼怕。」（Luther, *Secular Authority: To What Extent It Should Be Obeyed*, Part I）
+
+> "For this reason these two kingdoms must be sharply distinguished, and both be permitted to remain; the one to produce piety, the other to bring about external peace and prevent evil deeds; neither is sufficient in the world without the other."
+>
+> 「因此這兩個國度必須清楚分開，也都必須容許存留：一個產生敬虔，另一個帶來外在的和平、防止惡行；在這世界上，缺了哪一個，另一個都不夠用。」（同上）
+
+兩者都出於神，卻不可混淆。政權不該僭越屬靈的職分——
+
+> "Worldly government has laws which extend no farther than to life and property and what is external upon earth. For over the soul God can and will let no one rule but Himself. Therefore, where temporal power presumes to prescribe laws for the soul, it encroaches upon God's government and only misleads and destroys the souls."
+>
+> 「屬世政府的法律，所及不過生命、財產與地上外在的事。至於靈魂，除了神自己，神不能也不願讓任何人治理。所以屬世權力若擅自為靈魂立法，就是侵犯神的治理，只會誤導並毀壞靈魂。」（同上，Part II）
+
+——而信仰也不能靠刀劍推行：
+
+> "Heresy can never be prevented by force. ... Heresy is a spiritual matter, which no iron can strike, no fire burn, no water drown. God's Word alone avails here"
+>
+> 「異端永不能靠武力防止……異端是屬靈的事，鐵打不著，火燒不掉，水淹不滅。惟有神的話在這裏有用。」（同上，Part II）
+
+> 以上引文據 J. J. Schindel 英譯 *Secular Authority: To What Extent It Should Be Obeyed*（*Works of Martin Luther*, vol. 3, Philadelphia, 1930）逐字核對；該版本無現代標準頁碼可附，故以篇章標示；中譯為編者所譯。
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《基督教要義》第四卷第二十章專論「公民政府」，肯定政權出於神的設立、應受尊重，但同時清楚劃出界線：當地上的掌權者「悖逆神、興起敵擋神」時，順服神必須優先於順服人——他引用使徒行傳5:29作結。加爾文的立場正是本章「背景」一節所強調的張力的經典表述：政權的權柄是被賦予的、有從屬性的，不是絕對的。
+加爾文在《羅馬書註釋》論13:1時，與屈梭多模一樣把「治理的權利」和「暴政」分開：
 
-> 以上為加爾文《基督教要義》第四卷第二十章一貫論述精神之綜合轉述，非逐字引句。
+> "For though tyrannies and unjust exercise of power, as they are full of disorder, (ataxias) are not an ordained government; yet the right of government is ordained by God for the wellbeing of mankind."
+>
+> 「因為暴政與不義的弄權，既充滿混亂，就不是神所設立的治理；然而治理的權利本身，卻是神為人類的福祉所設立的。」（Calvin, *Commentary on Romans*, on 13:1）
+
+他在《基督教要義》第四卷第二十章專論「公民政府」，肯定政權出於神的設立、應受尊重，但在該章最後一節清楚劃出界線：順服掌權者，只能是「在主裏」的順服。
+
+> "We are subject to the men who rule over us, but subject only in the Lord. If they command anything against Him let us not pay the least regard to it, nor be moved by all the dignity which they possess as magistrates--a dignity to which no injury is done when it is subordinated to the special and truly supreme power of God."
+>
+> 「我們順服那些治理我們的人，但只是在主裏順服。他們若吩咐任何違背祂的事，我們就絲毫不必理會，也不必被他們作為官長所有的一切尊榮所動——那尊榮被置於神獨特而真正至高的權柄之下時，並未受到任何損害。」（Calvin, *Institutes* IV.20.32）
+
+他正是引用使徒行傳5:29作結：
+
+> "But since Peter, one of heaven's heralds, has published the edict, 'We ought to obey God rather than men' (Acts 5:29), let us console ourselves with the thought, that we are rendering the obedience which the Lord requires, when we endure anything rather than turn aside from piety."
+>
+> 「但既然天上的使者之一彼得已頒布這道諭令：『順從神，不順從人，是應當的』（徒5:29），我們就當以此自慰：當我們寧可忍受一切也不偏離敬虔時，我們所獻上的，正是主所要求的順服。」（同上）
+
+加爾文的立場正是本章「背景」一節所強調的張力的經典表述：政權的權柄是被賦予的、有從屬性的，不是絕對的。
+
+> 以上引文分別據 CCEL 所載 John Owen 英譯《羅馬書註釋》及 Henry Beveridge 英譯《基督教要義》逐字核對；中譯為編者所譯。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -4636,15 +5491,29 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **「神的用人」與以賽亞書的古列**：摩根常將13:4「神的用人」與以賽亞書45:1神稱波斯王古列為「我的受膏者」並讀——古列「不認識」耶和華（賽45:4），卻被神使用成就祂的計劃。這說明政權的權柄從不依賴掌權者自己是否認識神；神主權的安排超越掌權者本人的信仰狀態，這既是安慰（歷史不失控），也是警醒（無人可僭越神的主權）。
 
-**律法與愛的辯證**：摩根指出，13:8-10不是要廢掉十誡的具體誡命，而是指出誡命背後那唯一的動機源頭——愛若真實存在，姦淫、殺人、偷盜、貪婪這些行為根本無從發生；律法是外在的圍欄，愛是內在的泉源，圍欄本是為了還沒有泉源的人而設的。
+**律法與愛的辯證**：摩根指出，13:8-10不是要廢掉十誡的具體誡命，而是指出誡命背後那唯一的動機源頭——常常虧欠著愛這筆債，就使人不可能在貞潔、生命、財產與社會關係上虧負人：
 
-> 以上為 G. Campbell Morgan對羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述，非逐字引句、未附具體講題或頁碼。
+> "To always owe love, is to make it impossible to defraud in matters of purity, of life, of property, and of social relationship."
+>
+> 「若常常虧欠著愛這筆債，就使人不可能在貞潔、生命、財產與社會關係上虧負人。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p. 190
+
+> 出處：「從活祭到市場與稅單」與「神的用人與以賽亞書古列」兩段，為對 G. Campbell Morgan 羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述，非逐字引句、未附具體講題或頁碼；其中「神的用人」與以賽亞書古列並讀一點，經查證《The Analyzed Bible: Romans》（頁187-193論羅馬書13章全文）與《Living Messages of the Books of the Bible》〈The Message of Romans〉均未見對應段落。「律法與愛的辯證」一段之逐字引句已核實，出處見上。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟一貫指出，羅馬書13章教導的政權觀，是神在墮落世界中維持公共秩序、抑制罪惡蔓延的普遍恩典安排；信徒對政權的順服，出於對神主權安排的信靠，而非對任何具體政權的政治認同——當政權的要求與神的命令直接衝突時，「順從神勝於順從人」的原則始終優先。
+麥克阿瑟講羅馬書 13:1-5 時，把信徒順服政權的根據放在政權「抑制罪惡」這個功能上——即使是他當時點名的共產政權也在抑制罪惡；而信徒違抗政權的唯一時刻，是「順從神勝於順從人」的那一刻。
 
-> 以上為麥克阿瑟一貫解經立場之綜合歸納轉述，非逐字引句、未附具體講題或日期。
+> "And that tells us that we are to submit to the government because government serves to restrain evil."
+>
+> 「這告訴我們，我們要順服政權，因為政權的作用是抑制罪惡。」（45-98）
+
+> "We ought to obey God rather than men. That's the only time a Christian comes to the point of tension where he must violate his government."
+>
+> 「我們應當順從神勝於順從人。那是一個基督徒唯一會走到必須違抗政權這種張力的時刻。」（45-97）
+
+> — John MacArthur, *The Christian's Responsibility to Government, Part 1* (45-97), *The Christian's Responsibility to Government, Part 2* (45-98), gty.org, sermon 45-97 / 45-98（講道逐字稿已核對）
 
 ---
 
@@ -4930,29 +5799,99 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ### 教父時期
 
-**屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：屈梭多模在他對羅馬書的講道傳統中一貫指出，14章的爭議雙方都需要被糾正——他強調保羅並非簡單站在「剛強」一方為自由辯護，而是把責任更多地放在剛強者身上：知識若不受愛的約束，反而成為傷害弟兄的武器；真正的剛強，是有能力自我節制，而非有資格任意而行。
+**屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
+
+**雙方都要被糾正**：屈梭多模在第二十五篇講道開頭就說明，保羅面對的是兩種人——守律法飲食規條的軟弱者，和責備、逼迫他們的「較長進者」；保羅的智慧在於兩邊都顧到，責備的話對準每一方。
+
+> "For neither does he venture to say to those who rebuke, You are doing amiss, that he may not seem to be confirming the other in their observances; nor again, You are doing right, lest he should make them the more vehement accusers: but he makes his rebuke to square with each. And in appearance he is rebuking the stronger, but he pours forth all he has to say against the other in his address to these."
+>
+> 「他既不敢對那些責備人的說『你們做錯了』，免得像是在肯定另一方的規條；也不說『你們做得對』，免得叫他們成為更猛烈的控訴者：他的責備是量著各方而發的。表面上他是在責備剛強的一方，卻是在對這些人的話裏，把他要對另一方說的全都傾倒出來。」（Chrysostom, *Homilies on Romans*, Homily 25, on 14:1）
+
+**為何先打剛強的一方**：不是因為剛強者錯得更多，而是因為軟弱者更需要照顧——
+
+> "For the weaker part ever requires more forethought. Wherefore he aims his blow against the strong, immediately saying as follows, Him that is weak in the faith."
+>
+> 「因為軟弱的一方總需要更多的顧念。所以他把打擊對準剛強的，立刻這樣說：信心軟弱的。」（同上）
+
+**真正的剛強是俯就**：論到14:21，他指出保羅要求的不只是不勉強弟兄，而是主動遷就——
+
+> "Again, he requires the greater alternative, that they should not only not force him, but even condescend to him. ... For nothing is so important as your brother's salvation."
+>
+> 「他再一次要求更高的那一種：不但不勉強他，還要俯就他……因為沒有甚麼比你弟兄的救恩更要緊。」（同上，Homily 26, on 14:21）
+
+> 以上引文據 New Advent 所載 NPNF 英譯本逐字核對，中譯為編者所譯。本書前一版所述「知識若不受愛的約束，反而成為傷害弟兄的武器」一語，經查證《羅馬書講道集》第25、26篇未見對應段落（該思路出自林前8章的語境），已刪去。
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin, 1509-1564)**：加爾文在他對羅馬書的解經傳統中一貫強調，14:1「不要辯論所疑惑的事」劃出了教會紀律的重要界線——並非一切分歧都值得、或應當帶進公開的爭論，教會領袖必須有智慧分辨哪些是信仰的根基、哪些是良心可以自由持守的次要之事；他也一貫指出14:23「凡不出於信心的都是罪」教導的是一個普遍原則——凡不是出於對神真確信靠而做的事，無論這事本身好壞，對行事的人而言都帶有虧欠神的性質。
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+**剛強是為了扶持，不是為了壓制**：加爾文論14:1，把整段的目的定為「在基督教義上長進最多的人，應當遷就較無知的人」——
+
+> "For God, by making us stronger than others, does not bestow strength that we may oppress the weak; nor is it the part of Christian wisdom to be above measure insolent, and to despise others. The import then of what he addresses to the more intelligent and the already confirmed, is this, -- that the ampler the grace which they had received from the Lord, the more bound they were to help their neighbors."
+>
+> 「神使我們比別人剛強，並不是賜下力量叫我們欺壓軟弱的人；過分傲慢、藐視他人，也不是基督徒的智慧。他對較明白、已經堅固的人所說的話，要旨是：他們從主所領受的恩典越豐厚，就越有責任幫助鄰舍。」（Calvin, *Commentary on Romans*, on 14:1）
+
+**「不要辯論所疑惑的事」**：加爾文的解釋不是教會紀律的分界，而是教導上的體貼——不要用無益的爭論叫軟弱的良心不安，要按各人所能承受的施教。
+
+> "It may at the same time be proper to extend this farther, even to any thorny and difficult questions, by which weak consciences, without any edification, may be disquieted and disturbed. We ought then to consider what questions any one is able to bear, and to accommodate our teaching to the capacity of individuals."
+>
+> 「同時也不妨把這話推廣，及於一切棘手難解的問題——這些問題毫無造就，只會叫軟弱的良心不安、受攪擾。所以我們應當思量各人能承受甚麼問題，使我們的教導配合個人的程度。」（同上）
+
+**「凡不出於信心的都是罪」**：論14:23，他讀出一個普遍原則——
+
+> "The reason for this condemnation is, that every work, however splendid and excellent in appearance, is counted as sin, except it be founded on a right conscience; for God regards not the outward display, but the inward obedience of the heart, by this alone is an estimate made of our works."
+>
+> 「這定罪的理由是：任何行為，無論外表多麼輝煌美好，若不是建立在正直的良心上，都算為罪；因為神看的不是外面的展示，而是心裏的順服，惟獨憑這一點衡量我們的行為。」（同上，on 14:23）
+
+> "The word faith is to be taken here for a fixed persuasion of the mind, or, so to speak, for a firm assurance, and not that of any kind, but what is derived from the truth of God."
+>
+> 「這裏的『信心』，應當理解為心思中定準的信念，或者說，一種堅固的確據——不是隨便哪一種，而是出於神真理的那一種。」（同上）
+
+> 以上引文據 CCEL 所載 John Owen 英譯《羅馬書註釋》逐字核對，中譯為編者所譯。本書前一版所述 14:1「劃出教會紀律的界線……分辨信仰根基與次要之事」，經查證加爾文原文未見此說，已按原文改寫。
 
 ### 摩根 (G. Campbell Morgan)
 
 摩根一貫將14章與13章的政權服從教導並列閱讀，指出保羅剛教導完信徒要在公共領域順服掌權者，隨即轉向教會內部，教導信徒在私人良心的領域彼此接納——兩者合起來，勾勒出一幅完整的基督徒公民與教會成員的圖像：對外，順服而不失見證；對內，接納而不失原則。
 
-**從公共領域到私人良心**：摩根指出，羅馬書從12章起進入全書的實踐部分，其內在結構值得留意——12章教導信徒對神（獻上活祭）、對教會（各按恩賜配搭）、對眾人（愛裏行事）；13章教導信徒對掌權者（順服）；14章則轉向一個更微妙、也更容易被忽略的領域：信徒彼此之間，在良心可以自由持守的事上，如何相待。他認為這個順序本身是有意義的——保羅先處理了「大是大非」層次的服從問題（政權），才處理「灰色地帶」層次的接納問題（飲食、日子），顯出後者其實比前者更難操練，因為沒有一條清楚的規則可以套用，唯一的指引是愛與聖靈裏的智慧。
+**從公共領域到私人良心**：摩根在《The Analyzed Bible: Romans》的分析大綱裏，正是用一組對照的標題把這個轉折標示出來——13章標作「順服：關係生活（對外人）」，14章至15:13標作「體恤：關係生活（對內人）」：
 
-**「審判臺」是全章的軸心意象**：摩根一貫強調，14:10「我們都要站在神的審判臺前」不是用來嚇阻信徒、叫人自我審查到動彈不得，而是用來提醒信徒一件釋放性的事實——既然審判的權柄已經完全在神手中，信徒就不必、也不該僭越去扮演那個裁判的角色。他指出，保羅在此展現出一種深刻的屬靈智慧：把「論斷弟兄」的衝動，直接引導向「敬畏那位真正的審判者」——這比單純道德勸誡「不要論斷人」更有力，因為它給出了不論斷的屬靈理由。
+> "II. SUBMISSION. RELATIVE LIFE. THOSE WITHOUT" ... "III. SYMPATHY. RELATIVE LIFE. THOSE WITHIN"
+>
+> 「二、順服：關係生活（對外人）」……「三、體恤：關係生活（對內人）」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, pp. 187, 195（章節標題）
 
-**神的國度的再定義**：摩根認為14:17是全章、甚至全書實踐部分最具突破性的一句——它把「屬靈」從外在規條的框架裏釋放出來，重新安放進聖靈所結果子的框架裏。他指出，教會歷史上一再重複同一個錯誤：把某個時代特定的行為規範（衣著、飲食、娛樂方式等）等同於敬虔本身，而14:17正是對這種傾向最直接的聖經糾正——神的國不是一份行為清單，是一種被聖靈充滿的生命狀態。
+**「審判臺」是全章的軸心意象**：摩根一貫強調，14:10「我們都要站在神的審判臺前」，其邏輯的落點正是提醒信徒不必、也不該僭越審判者的位置：
 
-> 出處：G. Campbell Morgan 羅馬書相關講章與著作對14章「軟弱與剛強」「神的國度」主題之綜合闡述精神（一般性論述，非逐字逐句之單一出處引句）
+> "The logical sequence of this is that when I pass judgment on my brother, I am usurping the very throne of God. He alone knows all the facts, and He alone therefore is able to pass a judgment; and this right He reserves to Himself."
+>
+> 「這樣推論下去：我若論斷弟兄，就是在篡奪神自己的寶座。唯有祂知道一切事實，也唯有祂能作出判斷；這權柄，祂留給自己。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p. 199
+
+**神的國度的再定義**：摩根指出，保羅在此把飲食一類具體規條稱為「非本質之事」（not essential things），神的國度真正的內容，是聖靈中結出的公義、和平、喜樂——規條上的讓步，不是妥協真理，而是愛在非本質之事上的具體操練。
+
+> 出處：「從公共領域到私人良心」與「審判臺」兩段之逐字引句已核實，見上；「神的國度的再定義」一段為對 G. Campbell Morgan《The Analyzed Bible: Romans》（1909，頁200論羅馬書14:17）一貫解經立場之綜合歸納轉述，非逐字引句。
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**：麥克阿瑟一貫指出，14章討論的不是道德是非分明的罪與義的問題，而是「可爭議事項」（disputable matters）——他強調現代教會常常把這類事項（飲食、生活方式選擇、文化習俗等）錯誤地提升到與福音教義同等的地位，因而製造了保羅在此極力要避免的紛爭；他也一貫強調14:17是理解神國本質的關鍵經文——神的國度不是一套外在規條，而是聖靈在信徒生命中所產生的公義、和平、喜樂。
+麥克阿瑟講羅馬書 14 章時，把爭端的性質定為「非道德性的偏好」——做與不做本身不是罪，卻能在教會裏變成極嚴重的問題；講 14:17 時，他把「神的國」解為靠恩典、藉信心得救的範圍，因此教會不是為了推廣外在事物而存在。
 
-**誠實說明**：以上屈梭多模、加爾文、麥克阿瑟、坎伯·摩根之陳述，均為對其著作與講道傳統中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份或講題可逐字查核的原始引句。羅馬皇帝革老丟於主後49年逐猶太人出羅馬一事，乃真實可考的歷史事件（蘇埃托尼烏斯《革老丟傳》25.4；使徒行傳18:2），此處僅作歷史背景之如實描述；其與羅馬書14章張力之關聯，乃學界普遍接受但無法百分之百確證的歷史重建，本書已以「很可能」「一般認為」等措辭誠實標明，未作過度肯定之歷史宣稱。
+> "But here you have what we will call non-moral preferences, that we want to talk about here, non-moral preferences. In other words, it isn't necessarily a sin issue in and of itself to do or not do these kinds of things we're talking about, but it can become a very, very serious issue in the church"
+>
+> 「這裏所講的，我們可以稱之為『非道德性的偏好』。換句話說，做或不做我們談的這類事，本身未必是罪的問題，卻可能在教會裏變成一個非常、非常嚴重的問題。」（45-108）
+
+> "“Kingdom” here refers to the sphere of salvation by grace through faith where God rules in Christ over the souls of those who believe."
+>
+> 「這裏的『國』指的是靠恩典、藉信心得救的範圍——神在基督裏在信的人心裏掌權的範圍。」（45-111）
+
+> "In other words, we're not here to promote externals, are we?"
+>
+> 「換句話說，我們在這裏不是為了推廣外在的事物，對吧？」（45-111）
+
+> — John MacArthur, *Receiving One Another with Understanding, Part 1* (45-108), *Building Up One Another Without Offending, Part 2* (45-111), gty.org, sermon 45-108 / 45-111（講道逐字稿已核對）
+
+**誠實說明**：以上屈梭多模引句已逐字對照 New Advent 所載 NPNF 英譯《羅馬書講道集》第25、26篇核實，加爾文引句已逐字對照 CCEL 所載 John Owen 英譯《羅馬書註釋》核實，出處附於各句之後；坎伯·摩根之陳述，為對其著作與講道傳統中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份可逐字查核的原始引句；麥克阿瑟引句已逐句對照 gty.org 講道逐字稿核實，講道編號附於各句之後。羅馬皇帝革老丟於主後49年逐猶太人出羅馬一事，乃真實可考的歷史事件（蘇埃托尼烏斯《革老丟傳》25.4；使徒行傳18:2），此處僅作歷史背景之如實描述；其與羅馬書14章張力之關聯，乃學界普遍接受但無法百分之百確證的歷史重建，本書已以「很可能」「一般認為」等措辭誠實標明，未作過度肯定之歷史宣稱。
 
 ---
 
@@ -5220,29 +6159,93 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-屈梭多模在他對羅馬書的講道系列中，一貫強調15:1-3「不求自己喜悅」的基督徒倫理，其根基不是抽象的道德律，而是效法基督本身的降卑——他常提醒聽眾，保羅要求「堅固的人」擔待「軟弱的人」，正是把腓立比書2章基督「反倒虛己」的降卑邏輯，具體應用在教會日常的飲食與人際張力上；一個人若自誇屬靈上的「堅固」，卻不肯為軟弱的弟兄放下自己的喜悅，那份「堅固」其實還沒有真正認識十字架。
+**剛強者的義務，不是恩惠**：屈梭多模在第二十七篇講道論15:1，先點出「應該」（ought）一詞的分量——這是欠債，不是施恩；而保羅稱對方「剛強」，是為了叫他們俯就。
 
-> 出處：此為對屈梭多模一貫解經立場與其羅馬書相關講道（*Homilies on Romans*，其中談及15章的講道編號約在27-29篇之間）已知重點的一般性、綜合性歸納轉述，未附具體篇號或逐字引句，讀者若需查證，應另行核對其原始講道文本。
+> "For thou, he says, art powerful, and art no whit the worse for condescending. But to him the hazard is of the last consequence, if he is not borne with. And he does not say the infirm, but the infirmities of the weak, so drawing him and bending him to mercy. ... Are you become powerful? Render a return to God for making you so. But render it you will if you set the weakness of the sickly right. For we too were weak, but by grace we have become powerful."
+>
+> 「他說：你是有力量的，俯就一下絲毫無損；但對那人來說，若不被擔待，危險卻是極大的。他也不說『那軟弱的人』，而說『軟弱人的軟弱』，好牽引他、使他傾向憐憫……你成了有力量的人嗎？就當為神使你如此而向神報答。而你若把病弱者的軟弱糾正過來，就是報答了。因為我們也曾軟弱，是靠恩典才成為有力量的。」（Chrysostom, *Homilies on Romans*, Homily 27, on 15:1）
+
+**基督的榜樣——為何不引「虛己」**：論15:3「基督也不求自己的喜悅」，他指出保羅一貫以基督為根據，但這裏特意不引腓立比書2:7的「虛己」，因為要點不只是道成肉身，而是基督受辱、被人看為軟弱。
+
+> "But what is the import of, He pleased not Himself? He had power not to have been reproached, power not to have suffered what He did suffer, had He been minded to look to His own things. But yet He was not so minded. But through looking to our good He neglected His own. And why did he not say, He emptied Himself? ... It is because this was not the only thing he wished to point out, that He became man, but that He was also ill-treated, and obtained a bad reputation with many, being looked upon as weak."
+>
+> 「『祂不求自己的喜悅』是甚麼意思？祂本有能力不受辱罵，有能力不受祂所受的苦——只要祂願意顧念自己的事。但祂不這樣想。祂顧念我們的好處，就撇下了自己的。保羅為甚麼不說『祂虛己』？因為他要指出的不只是祂成了人，還有祂被苦待、在許多人眼中名聲敗壞、被看為軟弱。」（同上，on 15:3）
+
+> 以上引文據 New Advent 所載 NPNF 英譯本（Homily 27）逐字核對，中譯為編者所譯。本書前一版稱屈梭多模把腓立比書2章「虛己」的降卑邏輯應用於此，經查證原文所說恰好相反——他特意指出保羅在此**沒有**引用「虛己」一語——已按原文改正。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《羅馬書註釋》（*Commentary on Romans*，1540年出版，是他撰寫的第一部聖經註釋）中，特別看重15:4「從前所寫的聖經都是為教訓我們寫的」這節經文——他一貫強調，這節經文為整個宗教改革「唯獨聖經」（*sola scriptura*）的教會論提供了關鍵支持：舊約經文並非只對古代以色列人說話而與教會無關的死文獻，而是被聖靈默示、持續向歷世歷代教會說話的活的話語，其功用正是要藉著忍耐與安慰，產生盼望。加爾文也一貫指出，15:9-12連續四段舊約引文，證明使徒教會對「外邦人蒙恩」的教導，並非新奇的創見，而是舊約律法、先知、詩篇早已一致見證的事——這正呼應了他神學體系中「新舊約盟約本質為一」的核心立場。
+**「從前所寫的聖經都是為教訓我們寫的」**：加爾文在《羅馬書註釋》（1540年出版，是他撰寫的第一部聖經註釋）論15:4，把這節讀為對「聖經無一字徒然」的宣告，並直指那些聲稱舊約已廢的人——
 
-> 出處：此為對加爾文《羅馬書註釋》一貫解經立場與已知重點（如「唯獨聖經」的教會論根基、新舊約盟約合一的立場）的一般性歸納轉述，未逐字引用其原文段落，讀者若需查證，應另行核對其原始註釋文本。
+> "This is an interesting passage, by which we understand that there is nothing vain and unprofitable contained in the oracles of God; and we are at the same time taught that it is by the reading of the Scripture that we make progress in piety and holiness of life."
+>
+> 「這是一段值得注意的經文，由此我們明白：神的聖言中沒有任何徒然無益的東西；同時也受教，我們是藉著讀聖經，在敬虔與聖潔的生活上長進。」（Calvin, *Commentary on Romans*, on 15:4）
+
+> "Moreover, we find here a most striking condemnation of those fanatics who vaunt that the Old Testament is abolished, and that it belongs not in any degree to Christians; for with what front can they turn away Christians from those things which, as Paul testifies, have been appointed by God for their salvation?"
+>
+> 「此外，我們在這裏看見對那些狂熱者最有力的定罪——他們誇言舊約已經廢去，與基督徒毫無關係；然而保羅既見證這些事是神為他們的救恩所指定的，他們憑甚麼臉面叫基督徒轉離這些事？」（同上）
+
+他也由此指出，先知與使徒的著作出於同一位聖靈——
+
+> "And though he speaks of the Old Testament, the same thing is also true of the writings of the Apostles; for since the Spirit of Christ is everywhere like itself, there is no doubt but that he has adapted his teaching by the Apostles, as formerly by the Prophets, to the edification of his people."
+>
+> 「雖然他說的是舊約，同樣的話也適用於使徒的著作；因為基督的靈處處如一，祂無疑也像從前藉先知一樣，藉使徒把教導調校得合乎祂子民的造就。」（同上）
+
+至於「忍耐」與「安慰」產生「盼望」，加爾文指出這是聖經功用的「主要目的」：
+
+> "for the Scriptures are especially serviceable for this purpose -- to raise up those who are prepared by patience, and strengthened by consolations, to the hope of eternal life, and to keep them in the contemplation of it."
+>
+> 「因為聖經特別是為這目的效力——把那些藉忍耐預備好、藉安慰得堅固的人，提升到永生的盼望裏，並使他們常在其中默想。」（同上）
+
+**15:9-12：外邦人蒙恩是舊約早已見證的**：加爾文指出這是本段第二個論點，保羅在此多所停留，「因為它不那麼顯而易見」；而四段引文中，以賽亞的預言最為輝煌——
+
+> "This is the second point, on proving which he dwells longer, because it was not so evident."
+>
+> 「這是第二個論點，他在證明這點上停留較久，因為它不那麼明顯。」（同上，on 15:9）
+
+> "This prophecy is the most illustrious of them all: for in that passage, the Prophet, when things were almost past hope, comforted the small remnant of the faithful, even by this, -- that there would arise a shoot from the dry and the dying trunk of David's family, and that a branch would flourish from his despised root, which would restore to God's people their pristine glory."
+>
+> 「這預言是眾預言中最輝煌的：在那段經文裏，先知在幾乎絕望的光景中，正是以此安慰信徒中的小小餘民——大衛家那枯乾將死的樹幹要發出嫩芽，從他被藐視的根要長出茂盛的枝子，使神的子民恢復起初的榮耀。」（同上，on 15:12）
+
+> 以上引文據 CCEL 所載 John Owen 英譯《羅馬書註釋》逐字核對，中譯為編者所譯。本書前一版將加爾文論15:4的重點表述為「唯獨聖經」的教會論根基與「新舊約盟約本質為一」，經查證原文，他在此針對的是「舊約已廢」之說，並以「基督的靈處處如一」立論，已按原文改寫。
 
 ### 摩根 (G. Campbell Morgan)
 
-摩根一貫指出，羅馬書12-15章這整段生活倫理的教導，其實都是「因信稱義」教義（3-5章）與「聖靈中得勝的生命」（8章）在教會日常關係中的落地——15:1-13正是這段落地過程的巔峰：保羅沒有停在「堅固的人該包容軟弱的人」這樣一句訓誡，而是把整個教會論、甚至整卷書信從1章開始鋪陳的猶太人與外邦人的救恩合一，都收攏進基督自己「不求自己喜悅」的十字架邏輯裏。摩根也一貫強調，15:14-33這段常被讀者輕輕略過的「個人計劃」段落，其實不是書信的附錄，而是保羅整個神學體系活生生的示範——一個真正明白「因信稱義」與「萬民蒙恩」的人，必然會像保羅一樣，把生命投入到「未曾聽見過」的群體中去；教義若不長出宣教的腳，教義就還沒有真正被領受。
+**15:1-13：教會倫理收攏於基督十字架的邏輯**：摩根一貫指出，羅馬書12-15章這整段生活倫理的教導，是「因信稱義」教義在教會日常關係中的落地——15:1-13正是這段落地過程的高峰：基督「不求自己喜悅」（15:3）的十字架榜樣，加上保羅隨後引用的四段舊約經文（15:9-12），把「堅固的人該包容軟弱的人」的訓誡，收進全書從1章就開始鋪陳的猶太人與外邦人救恩合一的大圖景裏。
 
-> 出處：此為對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作（如《The Analyzed Bible》系列對羅馬書之分析）已知重點的一般性、綜合性歸納轉述，未附具體篇章頁碼，不宜視為逐字引句。
+**15:14-33：「個人計劃」不是書信的附錄**：摩根指出，這段常被讀者輕輕略過的段落，其實透露了保羅事奉的方法與理想，極具價值——尤其是他「不在別人的根基上建造」、只往未曾聽過福音之處去的宣教原則：
+
+> "How excellent a thing it will be for the whole Church when in all aggressive enterprise she proceeds upon this principle. How much of time, of energy, of money have been lost through forgetfulness of it!"
+>
+> 「若全教會在一切進取的事工上都按這原則而行，那該有多美！多少時間、多少精力、多少金錢，正因忘記了這原則而白白浪費！」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p. 210
+
+> 出處：「15:1-13」一段為對 G. Campbell Morgan《The Analyzed Bible: Romans》（1909，頁195-207論15:1-13）一貫解經立場之綜合歸納轉述，非逐字引句；「15:14-33」一段之逐字引句已核實，見上。
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**：一貫強調，15:16「作神福音的祭司」是保羅對傳道職分極具份量的自我理解——他不是把自己抬高成獻祭的中保（新約唯一的中保是基督自己），而是指出，福音工人把外邦信徒帶到神面前、使他們「因著聖靈成為聖潔，可蒙悅納」，這件事本身帶著獻祭的莊重與代價；麥克阿瑟也常提醒，15:20保羅「不在別人的根基上建造」的宣教原則，對今日教會拓展策略仍是重要的提醒——真正的宣教心志，應當被那些「未曾聽見過」的群體所牽引，而非僅僅在已經飽和的工場裏彼此競爭。
+麥克阿瑟講羅馬書 15:14-21 時，把保羅的自我理解分為祭司、傳道者、開拓者三重；「祭司」只是類比——保羅不贖罪、不獻挽回祭、不作中保。講 15:20 時，他特別澄清：在別人根基上建造並不是錯，而是恩召不同——有人奠基，有人建造，教會兩者都需要。
 
-> 出處：此為對麥克阿瑟一貫解經立場與已知重點的一般性歸納轉述，未附具體講題、日期或 gty.org 網址連結，不宜視為逐字引句。
+**「祭司」是類比，不是定義**：
+
+> "He is not in strict definition a priest. But his role is analogous to a priest."
+>
+> 「嚴格定義上他不是祭司。但他的角色類比於祭司。」（45-114）
+
+> "So, Paul is not a priest who makes atonement for sin. He is not a priest who offers a propitiatory sacrifice. He is not a priest who mediates between God and man. Only by way of illustration does he call himself a priest because he wants the Romans and us to understand what he does."
+>
+> 「所以，保羅不是一個為罪贖罪的祭司。他不是獻挽回祭的祭司，也不是在神人之間作中保的祭司。他只是用比喻的方式自稱祭司，因為他要羅馬人和我們明白他在做的是甚麼。」（45-114）
+
+**15:20 是恩召的問題，不是對錯的問題**：
+
+> "It's not a question of wrong; it's a question of his calling. Some are called to lay the foundation. Some are called to come along and build on that foundation. The role of the pastor-teacher is to build on the foundation that is laid. The role of the evangelist, the apostle, the sent one, is to lay the foundation. The church needs both."
+>
+> 「這不是對錯的問題，是他恩召的問題。有人蒙召奠定根基，有人蒙召接著在那根基上建造。牧師教師的角色是在已奠定的根基上建造；傳福音者、使徒、奉差遣者的角色是奠定根基。教會兩者都需要。」（45-115）
+
+> — John MacArthur, *In Defense of Boldness, Part 1* (45-114), *In Defense of Boldness, Part 2* (45-115), gty.org, sermon 45-114 / 45-115（講道逐字稿已核對）
 
 ---
 
@@ -5516,31 +6519,77 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-在論羅馬書的講道中，屈梭多模論及安多尼古和猶尼亞時，將猶尼亞理解為女性，並對保羅稱她「在使徒中是有名望的」大為驚嘆，認為能被算作在使徒之中受尊重、甚至可能本身即被視為使徒之列的一員，是何等崇高的稱許——他由此讚嘆這位女性所具備的屬靈智慧與服事分量。這是教會歷史上最早、也最具體地認真看待猶尼亞其人其事的注疏聲音之一。
+**「這位女子」——猶尼亞在使徒中有名望**：在第三十一篇講道論16:7時，屈梭多模把猶尼亞理解為女性，並對保羅稱她「在使徒中是有名望的」大為驚嘆：
 
-> 出處：對屈梭多模羅馬書講道相關立場的一般性、綜合性轉述（其講道全集傳統上收於《羅馬書講道集》），非逐字引句核對；此為新約學界討論猶尼亞問題時經常引述的一項教父時期見證，具體篇章文字讀者可另行查核原文。
+> "And indeed to be apostles at all is a great thing. But to be even among these of note, just consider what a great encomium this is! But they were of note owing to their works, to their achievements. Oh! How great is the devotion (φιλοσοφία) of this woman, that she should be even counted worthy of the appellation of apostle!"
+>
+> 「能被算在使徒之列，本身已是大事。而在這些人當中還能『有名望』，想想看，這是何等的稱許！他們的名望，是憑著他們的工作、他們的成就得來的。啊，這位女子的敬虔（φιλοσοφία）是何等的大，竟連『使徒』的稱呼也算她配得！」（Chrysostom, *Homilies on Romans*, Homily 31, on 16:7）
+
+這是教會歷史上最早、也最具體地認真看待猶尼亞其人其事的注疏聲音之一，也是新約學界討論猶尼亞問題時經常引述的一項教父見證。
+
+> 以上引文據 New Advent 所載 NPNF 英譯本逐字核對，中譯為編者所譯。本書前一版將此段歸於第三十篇講道，經查證第三十篇止於16:5，猶尼亞見於第三十一篇，已改正。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在他的羅馬書註釋中，對16章的問安名單抱持鄭重的態度，認為保羅逐一點名問安，顯明使徒對每一位同工、每一份微小勞苦的看重——教會的建造不是靠一人之力，而是靠許多不同恩賜、不同背景的肢體各按其職。他也將百基拉與亞居拉視為夫婦同工服事主的典範。
+加爾文在《羅馬書註釋》論16章開頭坦言，這一章大部分是問安，「並無難處，不必久留」；但他仍解釋了保羅逐一點名稱讚的用意——藉著尊榮忠心的人，使忠心本身得尊榮，也使被稱讚的人不至在敬虔的路上鬆懈：
 
-> 出處：對加爾文《羅馬書註釋》相關立場的一般性、綜合性轉述，非逐字引句。
+> "The testimonies which he brings here in favor of some individuals, were partly intended for this end, that by honoring those who were faithful and worthy, faithfulness itself might be honored, and that they who could and would do more good than others, might have authority; and partly that they themselves might study to act in a manner corresponding to their past life, and not fail in their religious course, nor ever grow languid in their pious ardor."
+>
+> 「他在這裏為某些人所作的見證，一方面是為了這個目的：藉著尊榮那些忠心而配得的人，使忠心本身得著尊榮，也使那些能夠並願意比別人行更多善的人有威望；另一方面，是叫他們自己盡力活得與過去相稱，在敬虔的路上不致失敗，熱心也永不冷淡。」（Calvin, *Commentary on Romans*, on 16:3）
+
+**百基拉與亞居拉**：加爾文特別注意的，不只是夫婦同工，更是保羅毫不避諱地把一位婦人稱為自己在主工上的同伴——
+
+> "It is a singular honor which he ascribes here to Prisca and Aquila, especially with regard to a woman. The modesty of the holy man does on this account more clearly shine forth; for he disdained not to have a woman as his associate in the work of the Lord; nor was he ashamed to confess this."
+>
+> 「他在這裏歸給百基拉與亞居拉的，是一種特殊的尊榮，尤其是對一位婦人而言。這位聖者的謙卑也因此更加顯明：他不以有一位婦人作他主工上的同伴為不屑，也不以承認這事為恥。」（同上）
+
+**猶尼亞與「使徒」一詞**：論16:7，加爾文認為保羅這裏的「使徒」用的是廣義——
+
+> "In the third place, he calls them Apostles: he uses not this word in its proper and common meaning, but extends it wider, even to all those who not only teach in one Church, but also spend their labor in promulgating the gospel everywhere."
+>
+> 「第三，他稱他們為使徒：他在這裏用這個詞，不是取其本義與通常的意義，而是把它擴大，及於一切不只在一個教會裏教導、更把勞苦花在四處傳揚福音的人。」（同上，on 16:7）
+
+> 以上引文據 CCEL 所載 John Owen 英譯《羅馬書註釋》逐字核對，中譯為編者所譯。本書前一版稱加爾文對問安名單「抱持鄭重的態度」，經查證他明言此章問安「並無難處，不必久留」，已按原文改寫。
 
 ### 摩根 (G. Campbell Morgan)
 
-摩根指出，羅馬書16章常被讀者輕輕翻過，視為「不過是一份問候名單」，但若細看，會發現這是全信真理最生動的實踐版本：前面十五章論證「神如何使不同的人（猶太人、外邦人）在基督裏成為一」，第16章則是這個真理長出的具體果子——一份由奴隸、婦女、猶太人、外邦人、有地位的贊助人共同組成的名單，彼此以「我所親愛的」相稱。摩根強調，保羅在此展現的，不是空泛的教牧客套，而是使徒深刻記得每一位同工具體的勞苦與付出——在保羅筆下，沒有一個人只是「某某人的同工」，他記得的是一個個活生生的名字。
+**16:1-16：教會合一活生生的展現**：摩根指出，這份問安名單最重要之處，在於保羅對聖徒之間彼此相繫這件事的深刻意識——這種相繫完全依附於眾人與基督共同的關係（「在主裏」「在基督耶穌裏」等短語反覆出現）：
 
-摩根也特別看重16:25-27榮耀頌作為全信的「拱心石」：整卷書信從「神的義」的宣告開始，中間論證因信稱義、與基督同死同活、聖靈中的新生命、以色列的奧祕、基督徒的倫理生活，最終全部收攏於這一句對「獨一全智的神」的頌讚——在摩根看來，一封論證最嚴謹的教義書信，最合宜的結尾不是總結重點，而是敬拜。
+> "What a glorious picture of the unity of the Church is here afforded! The only realization of that unity possible at any time must come by individual abiding in close relationship with the Lord."
+>
+> 「這裏所呈現教會合一的圖畫何等榮美！這合一在任何時候的實現，都只能藉著個別信徒持續住在與主親密的關係裏。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p. 216
 
-> 出處：對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性、綜合性轉述，非逐字引句核對。
+**16:25-27：全信最合宜的結尾是敬拜，不是總結**：摩根特別看重榮耀頌作為全信的收尾：
+
+> "The final word of the great letter of salvation is fittingly one of praise."
+>
+> 「這封論救恩的偉大書信，最後一句話，合宜地是一句頌讚。」
+>
+> — G. Campbell Morgan, 《The Analyzed Bible: Romans》, Fleming H. Revell, 1909, p. 220
+
+> 出處：以上兩段逐字引句均已核實，見各段出處。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟指出，保羅用如此長的篇幅一一點名問安，正說明使徒事工從來不是「一人英雄式」的孤軍奮戰，而是建立在無數默默勞苦、甚至許多今日已無從考證身份的信徒身上；16:25-27的榮耀頌則是「整卷羅馬書神學論證的濃縮結晶」，把因信稱義的福音、長久隱藏如今顯明的奧祕、萬民因信而順服的異象，全部收攏於一句對神榮耀的頌讚。
+麥克阿瑟講羅馬書 16 章時，從百基拉、亞居拉「為保羅的命將自己的頸項置之度外」讀出使徒事工背後那些幾乎無人記得的人；講 16:25-27 時，他指出這段榮耀頌把全書開頭的要素一一收攏，首尾相扣。
 
-> 出處：對麥克阿瑟羅馬書相關講道與《MacArthur Study Bible》一貫立場的一般性、綜合性轉述，未附具體講題日期或逐字引句，讀者如需查證請另行核對 gty.org 原始資料。
+**兩個幾乎無人記得的人**：
+
+> "But do we need to be reminded that it may have been that there would have been nothing but a dead body had it not been for these two rather obscure dear people who were willing to lay their head on a chopping block to spare the life of that man they knew God had anointed? That's great devotion, great devotion."
+>
+> 「但我們是否需要被提醒：若不是這兩位相當默默無聞的親愛的人，甘願把自己的頭放在砧板上，好保住那位他們深知是神所膏之人的性命，很可能剩下的只是一具屍體？這是何等的委身，何等的委身。」（45-119）
+
+**榮耀頌與全書開頭首尾相扣**：
+
+> "It's almost a bracketing of the same truth with which he introduced this great epistle. It is introduced, and concluded then, with elements that summarize all that is in between."
+>
+> 「這幾乎是用同一個真理把這封大書前後括起來——他用它開篇，也用它收尾；開頭與結尾的要素，把中間的一切都總結了。」（45-121）
+
+> — John MacArthur, *Love for the Saints, Part 1* (45-119), *The Unveiling of God's Secret* (45-121), gty.org, sermon 45-119 / 45-121（講道逐字稿已核對）
 
 ---
 
@@ -5755,7 +6804,7 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 ---
 
-## 讓話語住在裡面
+## 讓話語住在裏面
 
 **默想一整天的問題：**
 
@@ -5863,55 +6912,161 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 | 16:17-20 | 16 | 警戒離間的人；那賜平安的神快要把撒但踐踏在腳下 |
 | 16:25-27 | 16 | 榮耀頌：全信的濃縮，「因信而順服」與1:5首尾呼應 |
 
-### 跨書引用——出現在「三大資源深度整合」與「老弟兄查經 · 深讀」中的其他經文
+### 跨書引用——全書引及的其他經文
 
-以下僅收錄實際出現在各章「三大資源深度整合」（含摩根深讀、老弟兄查經洞見）與「老弟兄查經 · 深讀」（含全經連線）兩類小節中的跨書經文，依出現章別如實列出；正文「背景」「原文研讀」「領受要點」等其他小節中出現、但未在這兩類小節重複的經文，不列入本表。
+本表由程式（`scripts/gen-romans-scripture-index.py`）自正文自動生成，每次建置時重新產生：凡在前言、卷首四章、正文十六章、卷末與跋中引及的羅馬書以外經文，均依書卷、章次列出，並標明本書討論之處；不另行增列各章未曾論及的經文。羅馬書本身的經文不列入本表（見上表）。
 
-| 經文 | 出現章 | 關聯主題 |
-|--------------------|---------------------------|---------------------------------|
-| 創世記1:26 | 01 | 神照自己形像造人——與1:23人把神的榮耀換偶像形成對照 |
-| 創世記2:7 | 09 | 耶和華用塵土造人——窯匠與泥意象的更深根源 |
-| 創世記3:8 | 08 | 亞當夏娃犯罪後躲藏，與8:15「阿爸，父」的坦然對比 |
-| 創世記3:15 | 16 | 女人的後裔傷蛇的頭——16:20「神快要把撒但踐踏」的舊約根源 |
-| 創世記3:17-19 | 05 | 因人犯罪，死的轄制臨到受造界 |
-| 創世記12:1 | 09 | 神揀選亞伯拉罕出吾珥，非因他配得 |
-| 創世記12:1-3 / 12:3 | 11、15 | 「地上的萬族都必因你得福」——萬國蒙恩應許的源頭 |
-| 創世記15:6 | 04 | 「亞伯蘭信耶和華，這就算為他的義」——因信稱義主線的源頭 |
-| 創世記15:13-14 | 06 | 亞伯拉罕後裔寄居為奴，卻要帶著財物出來——不是空手的釋放 |
-| 創世記22:13 | 12 | 摩利亞山代替以撒而死的公羊——仍是「必死的祭」 |
-| 創世記25:23 | 09 | 雅各與以掃未出生前，「大的要服侍小的」已定案 |
-| 出埃及記4:22 | 08 | 「以色列是我的兒子，我的長子」——奴僕的靈到兒子的靈 |
-| 出埃及記20章 | 07 | 十誡頒布的背景，「不可貪心」的舊約脈絡 |
-| 利未記1:3-9 | 12 | 燔祭必先宰殺後獻上——活祭在獻祭制度裏的矛盾修辭 |
-| 利未記16章 | 03 | 施恩座（挽回祭）的舊約原型 |
-| 利未記19:18 | 13 | 「愛鄰如己」——十誡具體誡命的總括 |
-| 申命記7:7-8 | 09 | 以色列被揀選非因人數多，只因神愛他們 |
-| 申命記30:6 | 02 | 神應許將心裏的污穢除掉——真割禮的舊約應許 |
-| 申命記30:11-14 | 10 | 「這話離你甚近，就在你口中，在你心裏」 |
-| 詩篇19:1-4 | 01 | 諸天述說神的榮耀——一般啟示的舊約見證 |
-| 以賽亞書44章 | 01 | 對偶像匠人的嘲諷——形像交換悲劇的重演 |
-| 以賽亞書45:1 | 13 | 神稱波斯王古列為受膏者——政權權柄不依賴掌權者自身信仰 |
-| 以賽亞書52:7 | 10 | 「報佳音之人的腳蹤何等佳美」——大使命的舊約根 |
-| 以西結書36:26-27 | 02 | 賜新心、新靈，使人順從神的律例 |
-| 哈巴谷書2:4 | 01 | 「義人必因信得生」——因信稱義的舊約鑰句 |
-| 馬太福音22:37-40 | 13 | 耶穌宣告愛神愛人是律法和先知的總綱 |
-| 馬太福音28:19-20 | 10 | 大使命：「你們要去，使萬民作我的門徒」 |
-| 使徒行傳1:8 | 10 | 「直到地極，作我的見證」——福音傳講的地理終點 |
-| 哥林多前書1:12-15 | 16 | 「我是某某人的」——保羅對以人為中心之分黨的提醒 |
-| 哥林多前書8:1 | 14 | 「知識叫人自高自大，惟有愛心能造就人」 |
-| 哥林多前書10:1-2 | 06 | 以色列人「在雲裏、海裏受洗歸了摩西」——出埃及與受洗圖畫 |
-| 哥林多前書10:31 | 14 | 「無論是吃是喝……都要為榮耀神而行」 |
-| 哥林多前書15:21-22 | 05 | 「在亞當裏眾人都死了；在基督裏眾人也都要復活」 |
-| 加拉太書3:6-9 | 04 | 保羅在加拉太書引同一節創15:6，對付另一群靠律法加分的信徒 |
-| 加拉太書3:24 | 07 | 律法是訓蒙的師傅，引人到基督那裏 |
-| 加拉太書3:27 | 13 | 「凡受洗歸入基督的都是披戴基督了」——與13:14同一動詞 |
-| 加拉太書4:4-7 | 08 | 「神差他兒子的靈進入你們的心，呼叫『阿爸，父』」 |
-| 雅各書2:21-24 | 04 | 亞伯拉罕獻以撒——真信心必有行為印證，回答的是另一個問題 |
-| 希伯來書9-10章 | 03 | 「基督一次獻上自己，就把這事成全了」 |
-| 希伯來書10:4, 14 | 12 | 「公牛和山羊的血斷不能除罪」；基督一次獻上使人得以成聖 |
-| 歌羅西書2:16 | 14 | 「不拘在飲食上……都不可讓人論斷你們」 |
-| 彼得前書2:5 | 12 | 信徒作聖潔的祭司，奉獻神所悅納的靈祭 |
-| 啟示錄7:9 | 11、15 | 「各國、各族、各民、各方」站在寶座前敬拜的異象 |
+<!-- gen-scripture-index:start -->
+| 經文 | 本書討論之處 |
+|--------------------|--------------------------------|
+| 創世記 1 | 卷首·領受總綱、第1章 |
+| 創世記 2 | 第9章 |
+| 創世記 3 | 卷首·領受總綱、第5章、第7章、第8章、第16章、卷末 |
+| 創世記 4 | 第7章 |
+| 創世記 12 | 卷首·領受總綱、第11章、第15章、卷末 |
+| 創世記 15 | 卷首·定位、卷首·領受總綱、第4章、第6章、第9章 |
+| 創世記 17 | 卷首·領受總綱、第4章 |
+| 創世記 22 | 卷首·領受總綱、第4章、第12章 |
+| 創世記 25 | 第9章 |
+| 創世記 29 | 第9章 |
+| 出埃及記 1 | 卷首·領受總綱、第13章 |
+| 出埃及記 4 | 第8章 |
+| 出埃及記 9 | 第9章 |
+| 出埃及記 20 | 第7章 |
+| 出埃及記 23 | 第4章 |
+| 出埃及記 32 | 第1章、第9章 |
+| 出埃及記 33 | 第9章 |
+| 利未記 1 | 第12章 |
+| 利未記 11 | 第14章 |
+| 利未記 16 | 卷首·領受總綱、第3章 |
+| 利未記 18 | 第10章 |
+| 利未記 19 | 第13章 |
+| 申命記 6 | 第13章 |
+| 申命記 7 | 第9章 |
+| 申命記 21 | 第1章 |
+| 申命記 29 | 第11章 |
+| 申命記 30 | 第2章、第10章 |
+| 申命記 32 | 卷首·領受總綱、第10章、第11章、第12章、第15章 |
+| 撒母耳記下 22 | 第15章 |
+| 列王紀上 19 | 第11章 |
+| 約伯記 41 | 第11章 |
+| 詩篇 1 | 第4章 |
+| 詩篇 5 | 第3章 |
+| 詩篇 10 | 第3章 |
+| 詩篇 14 | 卷首·概覽、第2章、第3章 |
+| 詩篇 18 | 卷首·概覽、第15章 |
+| 詩篇 19 | 第1章、第10章 |
+| 詩篇 32 | 卷首·概覽、第4章 |
+| 詩篇 36 | 第3章 |
+| 詩篇 40 | 第6章 |
+| 詩篇 44 | 卷首·概覽、第8章 |
+| 詩篇 53 | 第3章 |
+| 詩篇 67 | 第15章 |
+| 詩篇 69 | 卷首·概覽、第11章、第15章 |
+| 詩篇 72 | 第13章 |
+| 詩篇 90 | 前言、跋 |
+| 詩篇 100 | 第9章、第11章 |
+| 詩篇 103 | 第5章 |
+| 詩篇 115 | 第16章 |
+| 詩篇 116 | 第12章 |
+| 詩篇 117 | 第15章 |
+| 詩篇 130 | 第3章、第7章 |
+| 詩篇 133 | 第14章 |
+| 詩篇 140 | 第3章 |
+| 詩篇 145 | 第11章 |
+| 箴言 25 | 卷首·領受總綱、第12章 |
+| 以賽亞書 1 | 第9章 |
+| 以賽亞書 8 | 第9章 |
+| 以賽亞書 10 | 第9章、第11章 |
+| 以賽亞書 11 | 第15章 |
+| 以賽亞書 29 | 第9章、第11章 |
+| 以賽亞書 40 | 第11章 |
+| 以賽亞書 44 | 第1章 |
+| 以賽亞書 45 | 卷首·領受總綱、第9章、第13章、第14章 |
+| 以賽亞書 52 | 第2章、第10章、第15章 |
+| 以賽亞書 59 | 第3章 |
+| 耶利米書 18 | 卷首·領受總綱、第9章 |
+| 以西結書 36 | 第2章 |
+| 但以理書 3 | 卷首·領受總綱、第13章 |
+| 但以理書 6 | 第13章 |
+| 何西阿書 1 | 第9章 |
+| 何西阿書 2 | 第9章 |
+| 約珥書 2 | 第10章 |
+| 哈巴谷書 2 | 卷首·定位、卷首·骨幹、卷首·領受總綱、第1章 |
+| 瑪拉基書 1 | 第9章 |
+| 馬太福音 10 | 第10章 |
+| 馬太福音 22 | 第13章 |
+| 馬太福音 26 | 第1章、第15章 |
+| 馬太福音 27 | 卷首·領受總綱、第3章 |
+| 馬太福音 28 | 第10章、第13章 |
+| 馬可福音 7 | 第14章 |
+| 馬可福音 14 | 第8章 |
+| 使徒行傳 1 | 第10章 |
+| 使徒行傳 2 | 卷首·概覽、卷首·定位、第1章 |
+| 使徒行傳 5 | 卷首·領受總綱、第13章 |
+| 使徒行傳 7 | 第9章 |
+| 使徒行傳 18 | 卷首·概覽、卷首·定位、第11章、第14章、第16章 |
+| 使徒行傳 19 | 第16章 |
+| 使徒行傳 20 | 卷首·概覽 |
+| 使徒行傳 21 | 卷首·領受總綱、第15章 |
+| 使徒行傳 24 | 第15章 |
+| 使徒行傳 28 | 卷首·概覽、卷首·定位、第15章、卷末 |
+| 羅馬書 1 | 卷首·定位、第1章、第11章、第16章 |
+| 羅馬書 2 | 第2章 |
+| 羅馬書 3 | 第2章、第3章 |
+| 羅馬書 4 | 卷首·概覽、卷首·領受總綱、第4章 |
+| 羅馬書 5 | 卷首·領受總綱、第1章、第5章 |
+| 羅馬書 6 | 第6章 |
+| 羅馬書 7 | 卷首·領受總綱、第2章、第7章 |
+| 羅馬書 8 | 第1章、第3章、第8章、第10章 |
+| 羅馬書 9 | 卷首·領受總綱、第8章、第9章、第10章 |
+| 羅馬書 10 | 第10章 |
+| 羅馬書 11 | 第11章 |
+| 羅馬書 12 | 第12章 |
+| 羅馬書 13 | 第13章 |
+| 羅馬書 14 | 第14章 |
+| 羅馬書 15 | 第15章 |
+| 羅馬書 16 | 第16章 |
+| 哥林多前書 1 | 卷首·骨幹、第1章、第16章 |
+| 哥林多前書 8 | 第14章 |
+| 哥林多前書 10 | 第6章、第14章 |
+| 哥林多前書 12 | 第12章 |
+| 哥林多前書 14 | 第15章 |
+| 哥林多前書 15 | 卷首·領受總綱、第4章、第5章、第16章 |
+| 哥林多前書 16 | 第15章 |
+| 哥林多後書 3 | 卷首·領受總綱、第2章、第4章、第16章 |
+| 哥林多後書 5 | 第3章、第14章 |
+| 哥林多後書 8 | 第15章 |
+| 加拉太書 3 | 卷首·定位、卷首·領受總綱、第1章、第4章、第7章、第11章、第13章、第16章 |
+| 加拉太書 4 | 第8章、第16章 |
+| 加拉太書 5 | 卷首·領受總綱、第14章 |
+| 加拉太書 6 | 第16章 |
+| 以弗所書 1 | 卷首·領受總綱、第8章、第9章 |
+| 以弗所書 2 | 第11章 |
+| 以弗所書 6 | 第13章 |
+| 腓立比書 1 | 第15章、第16章 |
+| 腓立比書 2 | 第14章、第15章 |
+| 腓立比書 3 | 第13章 |
+| 腓立比書 4 | 第15章 |
+| 歌羅西書 1 | 卷首·領受總綱、第1章 |
+| 歌羅西書 2 | 第14章 |
+| 提摩太前書 3 | 第16章 |
+| 提摩太前書 6 | 第13章 |
+| 提摩太後書 4 | 第2章 |
+| 提多書 3 | 第2章 |
+| 希伯來書 7 | 第12章 |
+| 希伯來書 9 | 第3章 |
+| 希伯來書 10 | 卷首·領受總綱、第1章、第3章、第12章 |
+| 雅各書 2 | 卷首·領受總綱、第4章 |
+| 彼得前書 2 | 第12章、第13章 |
+| 彼得後書 3 | 第2章 |
+| 啟示錄 3 | 第7章 |
+| 啟示錄 5 | 卷末 |
+| 啟示錄 7 | 第11章、第15章 |
+| 啟示錄 12 | 卷末 |
+| 啟示錄 20 | 卷末 |
+| 啟示錄 21 | 卷末 |
+<!-- gen-scripture-index:end -->
 
 ---
 
@@ -5954,160 +7109,187 @@ Horatio Spafford 於1873年所作的這首詩歌，開頭一句「When peace lik
 
 # 附錄：參考資料 (Appendix: References)
 
-本附錄彙整 00-overview.md 及 01-16 各章「歷代注疏 (Historical Commentary)」「三大資源深度整合 (Deep Integration: Three Core Resources)」與正文「出處」標記中實際出現過的全部出處，按作者分類、去重整理，並如實記錄每一章實際採用的聖經版本與核對來源。與提摩太前書附錄相同的誠實原則在此同樣適用：本書歷代注疏與 MacArthur／Morgan 段落絕大多數屬於**對其一貫解經立場與已知重點的一般性、綜合性歸納轉述**，而非可逐字核對、附有講題與網址的個別講章或篇章引句——各章正文本身已在對應「出處」行如實標明此點。但與提摩太前書不同的是，羅馬書全書十六章之中出現了**若干篇幅較長、且經作者自陳已透過線上原始文本查證的直接引句**（見下文第三節），本附錄如實區分這些「已核實逐字引句」與其餘「一般性歸納轉述」，不將兩者混為一談。
+本附錄彙整 00-overview.md 及 01-16 各章「歷代注疏 (Historical Commentary)」「三大資源深度整合 (Deep Integration: Three Core Resources)」與正文「出處」標記中實際出現過的全部出處，按作者分類、去重整理，並如實記錄每一章實際採用的聖經版本與核對來源。與提摩太前書附錄相同的誠實原則在此同樣適用：本書教父與改教家的歷代注疏段落絕大多數屬於**對其一貫解經立場與已知重點的一般性、綜合性歸納轉述**，而非可逐字核對、附有講題與網址的個別講章或篇章引句；MacArthur 與 Morgan 兩節則已於 2026 年 9 月分別對照 gty.org 講道逐字稿與摩根原著逐條核實，詳見下文第一、二節——各章正文本身已在對應「出處」行如實標明此點。但與提摩太前書不同的是，羅馬書全書十六章之中出現了**若干篇幅較長、且經作者自陳已透過線上原始文本查證的直接引句**（見下文第三節），本附錄如實區分這些「已核實逐字引句」與其餘「一般性歸納轉述」，不將兩者混為一談。
 
 **最重要的一項誠實聲明**（詳見第四節）：本書寫作前已獨立查證，老弟兄原始查經筆記檔案（`Logos_meditation/church/Thursday.md`）中**沒有任何一則以羅馬書為主題的記載**——這與提摩太前書、以弗所書等已有原始逐節筆記可核實的書卷完全不同。全書16章「老弟兄查經洞見」與「老弟兄查經 · 深讀」的一切內容，均為老弟兄一貫查經方法論與領受框架（記錄於方法論文件 `ask-elder-wong.md`）在羅馬書經文上的忠實應用，**不是**對任何歷史原始查經記錄的逐字引用。
 
 ---
 
-## 一、John MacArthur
+## 一、John MacArthur — Grace to You (gty.org)
 
-各章「歷代注疏 · 當代釋經」及「三大資源深度整合」小節均以「麥克阿瑟指出／認為／一貫強調」的方式轉述其一貫解經立場，未附具體講題、日期或 gty.org 網址，故不宜視為逐字引句——這與 00-overview.md 中四段以直接引句形式收錄的 MacArthur 文字（見下方「基準引句」說明）性質不同。各章論及主題如下：
+**查證狀態：講道編號、講題、經文範圍與逐字引句於 2026 年 9 月 2 日對照 gty.org 核定。**
 
-| 出現章 | 論及經文／主題 |
-|----------------------------------------|----------------------------------------|
-| 00（overview） | 羅馬書的主題：從神而來的義；稱義的本質是法庭宣告而非神對信徒的改變；「算」(*logizomai*) 是稱義教義核心；稱義的益處 |
-| 01 | （00-overview.md 引句於1章「歷代注疏」重申，未附新內容） |
-| 02 | 2章猶太讀者的危險：把「認識」神的標準誤當成「達到」神的標準 |
-| 03 | 稱義是法庭術語，非道德改造；歸算之義（引自00-overview.md已核實研究） |
-| 04 | 「算」(*logizomai*) 是稱義教義核心（引自00-overview.md已核實研究） |
-| 05 | 5:1「得與神和好」是客觀成就的法律狀態，非主觀感受；亞當基督對比是全書論證高峰之一 |
-| 06 | 「定位性成聖」與「實際性成聖」的區分；6:11命令的意義 |
-| 07 | 7章描繪誠實省察自己之信徒的普遍光景，目的是打碎自恃、推向第8章 |
-| 08 | 8:1與8:9須合併理解：真確據建立在聖靈實際內住這個可驗證的生命記號上 |
-| 09 | 窯匠與泥打破人「天生資格」的錯覺；9:30-33才是全章落腳點 |
-| 10 | 10:9-10是「福音的濃縮版」；10:14-15的宣教邏輯鏈 |
-| 11 | 未來論／時代論立場：「以色列全家得救」指向末世猶太民族性歸信 |
-| 12 | 12:1「理所當然」含「合乎邏輯、講得通」之意——把身體獻上是唯一講得通的回應 |
-| 13 | 政權是神在墮落世界維持公共秩序的普遍恩典安排；「順從神勝於順從人」原則始終優先 |
-| 14 | 14章討論的是「可爭議事項」而非罪與義的問題；14:17是理解神國本質的關鍵 |
-| 15 | 15:16「作福音的祭司」是對傳道職分極具份量的自我理解；15:20的宣教原則 |
-| 16 | 使徒事工非一人英雄式孤軍；16:25-27是「整卷羅馬書神學論證的濃縮結晶」 |
+麥克阿瑟講解羅馬書的系列編號為 **45-x**（1981 年 3 月 1 日至 1986 年 1 月 19 日，45-01 至 45-121；其中 45-16 為專題講道，45-20、45-32、45-51 三號在 gty.org 上查無講道，45-01 至 45-09 之編號在網址中須補零）。本書各章「歷代注疏 · 麥克阿瑟」小節所引講道如下：
 
-**基準引句**：〈羅馬書概覽〉收錄四段以直接引句形式呈現的 MacArthur 文字（論羅馬書主題、稱義的本質、羅馬書4章「算」字、稱義的益處），惟〈羅馬書概覽〉本身並未在該四段旁另附「已核實」標註或原始出處連結；01、03、04、08章「歷代注疏」標註「沿用〈羅馬書概覽〉引句」，沿用同一批文字，未另行新增逐字引句，亦不宣稱已對照原始講章核實。除此之外，全書未見任何一章附具體 gty.org 講題連結或講道日期，與部分其他書卷附錄採用之逐篇核實格式不同——此為本書寫作時的實際情況，如實記錄。
+| 出現章 | 講道編號、講題（經文範圍，講道日期） |
+|--------|----------------------------------------|
+| 01 | 45-08 *The Gospel of Christ*（羅 1:16–17，May 31, 1981）；45-09 *The Wrath of God*（羅 1:18，June 7, 1981） |
+| 02 | 45-22 *False Security, Part 1*（羅 2:17–20，November 1, 1981）；45-23 *False Security, Part 2*（羅 2:19–29，November 8, 1981） |
+| 03 | 45-29 *How to Be Right with God, Part 1*（羅 3:21–22a，March 28, 1982）；45-30 *How to Be Right with God, Part 2*（羅 3:21–25a，April 4, 1982）；45-34 *Abraham--Justified by Faith, Part 1*（羅 4:1–3，June 20, 1982） |
+| 04 | 45-34 *Abraham--Justified by Faith, Part 1*（羅 4:1–3，June 20, 1982） |
+| 05 | 45-40 *The Security of Salvation, Part 1*（羅 5:1–2a，September 19, 1982）；45-43 *Adam and the Reign of Death*（羅 5:12–14，October 31, 1982）；45-44 *Christ and the Reign of Life*（羅 5:15–21，November 7, 1982） |
+| 06 | 45-46 *Dying to Live, Part 2*（羅 6:6–10，January 2, 1983）；45-47 *Dying to Live, Part 3*（羅 6:11–14，January 9, 1983） |
+| 07 | 45-52 *The Believer and Indwelling Sin, Part 1*（羅 7:14–17，March 6, 1983）；45-53 *The Believer and Indwelling Sin, Part 2*（羅 7:18–25，March 13, 1983） |
+| 08 | 45-57 *The Spirit Takes Us from Sin to Righteousness*（羅 8:1–11，April 24, 1983） |
+| 09 | 45-73 *Is Israel's Unbelief Inconsistent with God's Plan? Part 3*（羅 9:19–24，January 8, 1984）；45-74 *Is Israel's Unbelief Inconsistent with God's Plan? Part 4*（羅 9:25–33，January 15, 1984） |
+| 10 | 45-79 *Israel's Failure, Part 5*（羅 10:9–10，March 4, 1984）；45-80 *Israel's Failure, Part 6*（羅 10:11–15，March 18, 1984） |
+| 11 | 45-86 *Has God Cancelled His Promises to Israel? Part 5*（羅 11:16–26a，July 22, 1984）；45-87 *Has God Cancelled His Promises to Israel? Part 6*（羅 11:25–29，July 29, 1984） |
+| 12 | 45-89 *The Believer's Supreme Act of Spiritual Worship*（羅 12:1–2，September 9, 1984） |
+| 13 | 45-97 *The Christian's Responsibility to Government, Part 1*（羅 13:1，January 6, 1985）；45-98 *The Christian's Responsibility to Government, Part 2*（羅 13:1–3a，January 13, 1985） |
+| 14 | 45-108 *Receiving One Another with Understanding, Part 1*（羅 14:1，September 22, 1985）；45-111 *Building Up One Another Without Offending, Part 2*（羅 14:16–23，October 13, 1985） |
+| 15 | 45-114 *In Defense of Boldness, Part 1*（羅 15:14–16，November 24, 1985）；45-115 *In Defense of Boldness, Part 2*（羅 15:17–21，December 1, 1985） |
+| 16 | 45-119 *Love for the Saints, Part 1*（羅 16:1–16，January 5, 1986）；45-121 *The Unveiling of God's Secret*（羅 16:25–27，January 19, 1986） |
+
+- **做法**：本書初版各章麥克阿瑟段落均為「一貫立場之一般性歸納」，未附講題、日期或連結。2026-09-02 逐章取回上列講道的 gty.org 逐字稿，把各章歸納與逐字稿比對；歸納站得住的，改以「**英文原文 + 編者中譯**」並列呈現，並把講道編號標在該句之下；每一句英文原文均以程式回查逐字稿確認逐字相符。
+- **這次核對改正了甚麼**：
+  1. **第 5 章**：原稱麥克阿瑟強調 5:1「保羅用的是過去已完成的動詞」，45-40 逐字稿未見此說；已刪，改用他「不是主觀的，是客觀的……戰爭結束了」的原句。
+  2. **第 10 章**：原稱他把 10:9-10 稱為「福音的濃縮版」，45-79 逐字稿未見此語；改用他對 10:8「使徒信息的核心」與 10:14「一段再簡單不過的邏輯推演」的原句。
+  3. **第 13 章**：原稱他以「普遍恩典」解釋政權，45-97、45-98 逐字稿未用此詞；改用「政權的作用是抑制罪惡」原句。
+  4. **第 15 章**：原把 15:20 寫成對「在飽和工場彼此競爭」的提醒，45-115 逐字稿的實際論點恰是「在別人根基上建造不是錯，是恩召不同，教會兩者都需要」；已依原句改寫。
+  5. **第 9 章**：補入他明言「不相信神造人是為了刑罰」與 9:30「轉向人的責任」兩句，使歸納不致偏向單一面。
+- **〈羅馬書概覽〉四段引句**：初版只有中譯、未附出處。2026-09-02 查得原文：「羅馬書主題」一段出自 *The MacArthur Study Bible* 羅馬書導論〈Historical and Theological Themes〉（文字經 blueletterbible.org 所載該導論核對）；「稱義的本質」與「稱義的益處」兩段出自 gty.org 文章 "Justification by Faith"（A194）；「算」字一段實為講道 45-34 的內容。四段均已改為英文原文＋中譯並附出處；第 3、4 章原「沿用概覽引句」處已改以講道原句取代。
 
 ---
 
 ## 二、G. Campbell Morgan
 
-同上，各章均以「摩根指出／認為／一貫強調」轉述其對羅馬書一貫解經立場的綜合歸納，多章「出處」行明確自陳為「一般性論述」「綜合性歸納轉述」，未附具體篇章、頁碼：
+**2026-09-02 逐頁核校說明**：本書初版各章「摩根一貫強調／指出／認為」式的
+歸納，寫作時並未逐條核對摩根原著，只誠實標「一般性論述，非逐字引句」。
+2026-09-02，全書16章共46段摩根歸納，逐段對照兩個一手來源——
+G. Campbell Morgan, *The Analyzed Bible: Romans*（Fleming H. Revell,
+1909，摩根逐節解經羅馬書的正式著作）與 *Living Messages of the Books of
+the Bible*（新約卷）〈The Message of Romans〉（Fleming H. Revell,
+1912）——查核結果分三類：
 
-| 出現章 | 論及經文／主題 | 出處行原文自陳 |
-|---------------------------|---------------------------|---------------------------|
-| 00（overview） | 羅馬書的特色（「最悲觀的文學篇章」／「最樂觀的詩歌」）；加拉太書與羅馬書的關係 | 未附書目 |
-| 01 | 「不以福音為恥」的具體處境；福音的邏輯次序；1:18-32是創造敘事的倒退 | 「對 G. Campbell Morgan羅馬書相關講章一貫解經立場的一般性論述綜合整理」 |
-| 02 | 論證的修辭策略（法庭式層層逼近）；「悲觀」與「樂觀」的張力；「不偏待人」與福音普世性 | 「對 G. Campbell Morgan 羅馬書結構分析與一貫解經立場之一般性歸納」 |
-| 03 | 前三章是精心搭建的法庭；「但如今」是全信軸心；挽回祭是全段重心 | 「對 G. Campbell Morgan 羅馬書1-3章相關講章與釋經著作一貫解經立場的綜合性歸納陳述」 |
-| 04 | 從辯詞到見證；亞伯拉罕作「信心的原型」；「使無變為有」的創造性信心 | 「對 G. Campbell Morgan 羅馬書相關講章（含《The Analyzed Bible》系列）之一般性、綜合性歸納轉述」 |
-| 05 | 從法庭到家中；「何況」是全段骨架；兩個元首的宇宙圖景 | 「G. Campbell Morgan 羅馬書相關講章與著作對5章主題之綜合闡述精神」 |
-| 06 | 羅馬書兩種文學氣質在此交會；「算」是會計學命令；「新生的樣子」與受造之物盼望呼應 | 「對 G. Campbell Morgan羅馬書相關講章與著作一貫解經精神之綜合性歸納」 |
-| 07 | 保羅為律法「平反」；7:25「感謝神」是第8章的序曲 | 「對 G. Campbell Morgan 一貫解經立場與其羅馬書相關講章／著作已知重點的一般性、綜合性歸納轉述」 |
-| 08 | 從「取死的身體」到「不被定罪」的劇烈轉折；三階段結構在8章交會；8:31-39是辯護詞的巔峰 | 「本節為對 G. Campbell Morgan……一般性、綜合性論述」（僅「最悲觀的文學篇章」一句沿用00-overview.md已核實逐字引句） |
-| 09 | 從「不能隔絕」到「大有憂愁」；器皿的意象不是宿命是呼召；全章收束句才是鑰匙 | 「對 G. Campbell Morgan羅馬書相關講章一貫解經取向之一般性歸納轉述」 |
-| 10 | 熱心與知識的分離是宗教最危險的狀態；律法的終點站；近在咫尺的福音；宣教的鎖鏈 | 「對 G. Campbell Morgan 羅馬書9-11章相關講章一貫解經立場的一般性歸納轉述」 |
-| 11 | 9-11章是全信不可缺的骨架；橄欖樹是「因信站立」主題的民族層面重演；頌讚是論證的必然終點 | 「未能定位可逐字核對之特定講章或篇章，非逐字引句」 |
-| 12 | 教義倫理次序（先「是甚麼」才「當如何」）；12:9「愛：不虛假的」的格言式命令結構 | 「G. Campbell Morgan 對羅馬書結構與教義倫理次序的一貫解經立場之綜合轉述」 |
-| 13 | 從活祭到市場與稅單；「神的用人」與古列並讀；律法與愛的辯證 | 「以上為 G. Campbell Morgan對羅馬書12-13章教牧倫理與政權觀一貫解經立場之綜合歸納轉述」 |
-| 14 | 從公共領域到私人良心；「審判臺」是全章軸心意象；神國度的再定義 | 「一般性論述，非逐字逐句之單一出處引句」 |
-| 15 | 12-15章是教義的落地；15:14-33「個人計劃」是神學體系活生生的示範 | 「未附具體篇章頁碼，不宜視為逐字引句」 |
-| 16 | 16章是全信真理最生動的實踐版本；榮耀頌是全信的「拱心石」 | 「對 G. Campbell Morgan 羅馬書相關講章一貫解經立場的一般性、綜合性轉述，非逐字引句核對」 |
+- **維持原樣**（方向與原著相符，19段，其中10段已附上真正找到的逐字引句
+  升級為已核實引句）；
+- **修正**（14段，原文站不住——查無此句、立場說反，或摩根實際論點與書中
+  歸納的邏輯不同——已改寫為原著實際論述，並多數附上逐字引句）；
+- **查無**（3段，兩個來源均未見對應內容，保持「一般性歸納」標法，出處行
+  補一句「經查證兩來源均未見對應段落」）。
 
-未見任何一章附具體出版頁碼或可逐字核對之篇章來源，除00-overview.md的兩段基準引句（羅馬書特色、加拉太書與羅馬書的關係）外，其餘均為一般性歸納轉述——此為本書寫作時的實際情況，如實記錄，與部分其他書卷附錄採用之逐篇核實格式不同。
+其中兩項特別值得記錄：**04章**「摩根將這種論證方式稱為『用對手最堅固的
+堡壘……』」是原稿裏一句**完全虛構、摩根從未說過的具名引句**，已刪除，換
+成原著實際內容；**12章**原稱摩根把全信分為「教義的(1-8)／關乎以色列的
+(9-11)／實踐的(12-16)」三大段落，經核對，摩根原著其實是**兩大段落**（
+「基督是神的救恩」1-11章整體，內部再細分定罪／救恩信息／疑難討論；「因
+救恩而變化」12-16章）——9-11章在摩根的結構裏是第一大段內部的子部分，
+不是與1-8、12-16並列的獨立第三段，原稿把摩根的書卷結構本身說錯了，已
+據原著修正。
+
+| 出現章 | 摩根歸納段數 | 查核結果 |
+|------|------|------|
+| 00（overview） | 2 | 「悲觀／樂觀」已核實逐字引句（見上）；加拉太書關係一段仍未附書目 |
+| 01 | 3 | 全部修正，其中2段升級為逐字引句（*The Analyzed Bible*, pp.25-27），1段（創世記次序倒退）查無此句，已刪除換成原著真正內容（三重「任憑」） |
+| 02 | 3 | 1段維持原樣，1段回指第3章已核實引句，1段修正並升級逐字引句（p.38） |
+| 03 | 3 | 1段維持原樣，1段為已核實逐字引句（見上），1段修正並升級逐字引句（pp.55-56） |
+| 04 | 3 | 1段維持原樣，2段修正（其中1段刪除虛構具名引句），未升級逐字引句 |
+| 05 | 4 | 4段全部修正或升級，3段附逐字引句（pp.72, 75, 77），其中「從法庭到家中」原有的具體插圖為虛構內容，已刪除換成原著意象 |
+| 06 | 3 | 3段全部修正，2段附逐字引句（pp.79, 83），1段（受洗與新生的樣式）查無此句，已移除 |
+| 07 | 1 | 維持原樣，附2段逐字引句（pp.98, 104） |
+| 08 | 4 | 3段維持原樣，1段（8:31-39範圍誇大為全新約巔峰）修正為摩根原意（僅指第8章巔峰），附逐字引句（p.134） |
+| 09 | 3 | 3段全部修正，均附逐字引句（pp.135, 144, 145）——原稿的因果推論摩根均未提出 |
+| 10 | 4 | 2段維持原樣，2段附逐字引句（pp.150-151） |
+| 11 | 3 | 2段維持原樣，1段附逐字引句（p.165） |
+| 12 | 2 | 2段全部修正（見上「三大段落」說明），均附逐字引句（pp.169, 180） |
+| 13 | 3 | 2段維持原樣（1段附逐字引句，p.190），1段（神的用人與古列並讀）兩來源均查無，保留原標法並註明 |
+| 14 | 3 | 1段附逐字引句（p.199），2段修正（移除查無依據的具體推論與歷史宣稱） |
+| 15 | 2 | 1段維持原樣，1段修正並附逐字引句（p.210） |
+| 16 | 2 | 2段均維持原樣並附逐字引句（pp.216, 220） |
+
+除00-overview.md「加拉太書與羅馬書的關係」一段、02章與13章各1段仍未附
+具體出版頁碼外，其餘均已逐段核對並附上查核結果——這是本書寫作歷程的誠實
+記錄：初版憑一般性印象轉述，2026-09-02逐頁核對後大幅提升為可查證的引句。
 
 ---
 
 ## 三、教父時期與改教家 (Church Fathers and Reformers)
 
-本節依人物分類，逐章列出論及主題，並在每人小節末明確區分「一般性歸納轉述」與「已核實逐字引句／可查證歷史事件」兩種性質——後者是羅馬書全書十六章相較於本系列其他書卷附錄最值得注意之處：本卷首度出現數段作者自陳已透過線上原始文本查證的直接引句。
+**查證狀態：2026 年 9 月 2 日逐條對照一手文本核實。** 本書初版各章「教父時期」「改革宗時期」小節均為憑印象寫成的「一般性歸納，非逐字引句」。本輪把 16 章共 61 項歸納，逐項對照下列公有領域一手文本：判定「維持」36 項（升級為逐字引句）、「修正」20 項（原文查無、立場說反或過度推論，已依原文改寫並附引句）、「查無」5 項（保留為不加引號的撮述，出處行加註「經查證未見對應段落」）。全書教父與改教家英文引句共 108 條，逐條以程式（`scripts/verify-citations.py`）回查一手文本，0 條漂移、0 條查無；每條均以「英文原文＋編者中譯＋出處」呈現。
+
+**核對所用文本**：
+
+| 作者 | 文本 | 來源 |
+|------|------|------|
+| 屈梭多模 | *Homilies on the Epistle to the Romans*，32 篇，NPNF 第一系列第 11 卷英譯 | newadvent.org |
+| 奧古斯丁 | *On the Spirit and the Letter*、*On Grace and Free Will*、*Against Two Letters of the Pelagians*、*On the Predestination of the Saints*、*On the Gift of Perseverance*、*City of God* 卷十、*Confessions* 卷八（Pilkington 譯） | newadvent.org（NPNF） |
+| 加爾文 | *Commentary on Romans*（Owen 譯）、*Institutes of the Christian Religion*（Beveridge 譯） | ccel.org |
+| 路德 | *Preface to Romans*（1522）、*Preface to the Complete Edition of Luther's Latin Works*（1545），Thornton 譯；*Small Catechism*（1921 Triglot 英譯）；*Secular Authority: To What Extent It Should Be Obeyed*（1523，Schindel 譯，1930） | Project Wittenberg、bookofconcord.org、checkluther.com |
+| 衛斯理 | *Journal*，1738 年 5 月 24 日條 | ccel.org |
 
 ### 屈梭多模／金口約翰 (John Chrysostom, 約347-407)
 
-| 出現章 | 論及經文／主題 |
-|----------------------------------------|----------------------------------------|
-| 01 | 保羅稱自己是「僕人」在先、「使徒」在後的順序；福音的能力不靠雄辯言詞 |
-| 02 | 2:1的對象不只是猶太人，也包括自居道德教師的異教哲學家 |
-| 04 | 「稱不虔者為義」的驚人程度，顯明救恩完全出於神的恩慈 |
-| 06 | 洗禮不只是赦罪的記號，更是「與基督同死同復活」的親身經歷 |
-| 09 | 神的揀選與神的預知並不衝突；法老的剛硬是神使用其已有的悖逆心，非使中立者剛硬 |
-| 10 | 10:9-10「口裏承認」的公開性，與初代教會殉道審判台前的宣告相連 |
-| 12 | **已核實逐字引句**（見下方說明） |
-| 13 | 13:1的教導對象包括修士與教牧人員；區分「權柄本身」與「掌權之人的品行」 |
-| 14 | 14章爭議雙方都需要糾正；剛強者的知識若不受愛約束，反成傷人的武器 |
-| 15 | 「不求自己喜悅」的倫理根基是效法基督的降卑，非抽象道德律 |
-| 16 | 認為猶尼亞為女性，對她「在使徒中有名望」大為驚嘆 |
-
-正文多處提及「屈梭多模在他對羅馬書的講道中」「一貫強調」，暗示其著作為 *Homilies on the Epistle to the Romans*（《羅馬書講道集》），除12章一處明確附講次編號並經查證外，其餘各章均**未附**具體篇號或逐字引句，本附錄如實不予杜撰篇號。
+| 出現章 | 已核實引句所在講篇 | 本輪改正 |
+|--------|--------------------|----------|
+| 01 | Homily 1（1:1）、Homily 2（1:16） | 「僕人先於使徒＝先降服才有差遣」的次序論查無；他說的是保羅把「僕人」放在最高尊稱的位置 |
+| 02 | Homily 5（2:1、2:10） | 2:1 的對象是羅馬掌權者、繼而一切私下論斷人的人，非「異教哲學家」；不點名猶太人是「免惹猜疑」 |
+| 04 | Homily 8（4:1、4:5） | 維持 |
+| 05 | Homily 9（5:6-10） | 「全本聖經對神之愛最有力的證明」查無；改用「不是為有德者，而是為罪人和仇敵」原句 |
+| 06 | Homily 10（6:3-5）、Homily 11（6:7） | 維持，補「儘管不在同一個層面」的保留 |
+| 09 | Homily 16（9:11-12、9:16、9:22） | 維持並補強：他明言揀選「按預知」，且不剝奪自由意志 |
+| 10 | Homily 17（10:8-13） | 「殉道審判台前認信」查無；他講的是救恩之「近」與「易」 |
+| 12 | Homily 20（12:1） | 原有中譯引句補上英文原文 |
+| 13 | Homily 23（13:1） | 維持 |
+| 14 | Homily 25、26 | 「知識成為武器」係林前 8 章語境，查無，刪；「責任更在剛強者」改為他的細緻說法 |
+| 15 | Homily 27（15:1-3） | **立場說反**：他明言保羅在此刻意不引「祂虛己」；已改 |
+| 16 | Homily 31（16:7） | 猶尼亞段原標 Homily 30，實為 Homily 31 |
 
 ### 奧古斯丁 (Augustine, 354-430)
 
-| 出現章 | 論及經文／主題 | 性質 |
-|---------------------------|---------------------------|---------------------------|
-| 02 | 《論精神與字句》(*De Spiritu et Littera*, 412年) 回應伯拉糾主義，論律法若無聖靈同在只能是「叫人死的儀文」 | 一般性歸納，非逐字引句 |
-| 04 | 反伯拉糾論證：連信心本身也是神所賜的禮物，非人憑意志換取稱義的功德 | 一般性歸納 |
-| 05 | 與伯拉糾之爭（主後五世紀初）——原罪教義形成的關鍵戰場，418年迦太基議會、431年以弗所大公會議譴責伯拉糾主義 | 真實可考的歷史事件，非逐字引句 |
-| 07 | 對7章「我」之身分的解讀，從早期（*Ad Simplicianum* 之前）傾向未重生者、轉向反伯拉糾時期理解為信徒終生爭戰的思想轉變 | 有據可查的思想發展史，非逐字引句 |
-| 08 | 反伯拉糾論戰中反覆回到8:29-30「金鏈」、8:28「按祂旨意被召的人」，論救恩完全出於神的主權恩典 | 一般性歸納 |
-| 09 | *Ad Simplicianum*（396年）之後恩典論立場的確立與轉折 | 一般性學術歸納 |
-| 11 | 論恩典與自由意志著作中反覆處理11:6「靠恩典就不憑行為」原則 | 一般性歸納 |
-| 12 | **已核實逐字引句**（見下方說明） |
-| 13 | 「拿起來，讀」（*tolle lege*）——米蘭花園歸信事件，《懺悔錄》第八卷第十二章親筆記述 | **有據可查、且附具體出處（《懺悔錄》VIII.12）的歷史記述，含引述其自述內容** |
+| 出現章 | 已核實引句出處 | 本輪改正 |
+|--------|----------------|----------|
+| 02 | *Spirit and Letter* ch. 5、6、13 | 維持 |
+| 04 | *Spirit and Letter* ch. 54、60 | 語氣收斂：使人願意相信的是神，但同意與否仍是意志的功用；刪「尤其 3-4 章」 |
+| 05 | *Against Two Letters of the Pelagians* IV.21 | 伯拉糾派立場改以奧古斯丁原句；418／431 兩次會議為編者歷史概述，未引一手史料 |
+| 07 | *Against Two Letters* I.22、I.24 | 維持；《致辛普里西安》未取得原文，出處行已明說 |
+| 08 | *Gift of Perseverance* ch. 33；*Predestination of the Saints* ch. 34 | 維持 |
+| 09 | *Predestination of the Saints* ch. 7-8 | 維持（以其自述早期立場與轉變為據） |
+| 11 | *Grace and Free Will* ch. 43-44 | 維持 |
+| 12 | *City of God* X.6 | 原有中譯引句補上英文原文 |
+| 13 | *Confessions* VIII.12 | 補三段原文；譯本標示由 Pusey 更正為 newadvent 實際所載之 Pilkington |
 
 ### 馬丁·路德 (Martin Luther, 1483-1546)
 
-| 出現章 | 論及經文／主題 | 性質 |
-|---------------------------|---------------------------|---------------------------|
-| 01 | 1545年《拉丁文全集序言》回顧「高塔經歷」(*Turmerlebnis*)；1522年《羅馬書序言》稱此書「新約中最重要的部分」 | 概述性轉述，明確自陳「非逐字全文翻譯」；1522年一句為廣泛引用之常見譯法 |
-| 02 | 《羅馬書講義》(*Lectures on Romans*，1515-1516年羅馬書講義)：律法的「神學性用途」——像鏡子照出污穢卻不能洗淨 | 一般性歸納，未附具體頁碼 |
-| 03 | 1522年〈羅馬書序言〉稱羅馬書為「最純淨的福音」「聖經的心臟與核心」 | 一般性歸納轉述 |
-| 04 | 《羅馬書講義》(1515-1516) 中確立因信稱義是聖經一貫救法的過程 | 一般性歸納 |
-| 06 | 《小教理問答》論洗禮——「舊人天天被治死，新人天天興起」（常見轉述） | 廣為人知的常見轉述，非逐字全文引句 |
-| 07 | *simul iustus et peccator*（同時是義人，也是罪人）——路德神學核心表述，根植於羅馬書7章解讀 | 有廣泛文獻記載的核心表述，一般性摘述 |
-| 08 | 因信稱義使人脫離定罪恐懼的自由，與8:1「不被定罪」高度一致 | 一般性歸納 |
-| 13 | 《論屬世的權柄》(1523年)「兩個國度」教義 | 一般性論述精神轉述 |
-
-> 補充：《羅馬書講義》(*Lectures on Romans*, 1515-1516) 英譯本（Wilhelm Pauck 譯，Library of Christian Classics 系列，SCM Press, 1961，據 Johannes Ficker 校訂之威瑪版第56卷）可於 Internet Archive 查閱全文：https://archive.org/details/lecturesonromans0000luth ——僅供讀者自行核對之參考連結，本書02、04章相關段落仍為一般性歸納轉述，非逐字引句。
+| 出現章 | 已核實引句出處 | 本輪改正 |
+|--------|----------------|----------|
+| 01 | 1545 序言（Thornton 譯）；1522《羅馬書序言》（Thornton 譯） | 兩段引句均由不可查證的通行譯法改為可查證的 Thornton 譯；補記路德自繫於 1519 年 |
+| 02、04 | —（《羅馬書講義》1515-16 之英譯受版權保護，未能核對） | 維持撮述、不加引號、不附頁碼 |
+| 03 | 1522 序言；1545 序言 | 引句改 Thornton 譯；補「passive justice」「gate of paradise」原句 |
+| 06 | *Small Catechism*, Baptism IV（1921 Triglot） | 由「常見轉述」升級為逐字引句 |
+| 07 | 1522 序言論第 7 章 | *simul iustus et peccator* 保留為摘述（講義未引原文），另以序言「整個人同時是靈與肉體」原句支撐 |
+| 08 | 1522 序言論第 8 章 | 維持；「單仰望基督之義」一句標為編者歸納 |
+| 10 | 1522 序言（論 3、4、10 章） | 序言未以 10:9-10 立論；改為其實際說法 |
+| 13 | *Secular Authority*（1523）Part I、II | 由「論述精神轉述」升級為四段逐字引句；只標 Part，不標頁碼 |
 
 ### 約翰·加爾文 (John Calvin, 1509-1564)
 
-除12章外，其餘各章均以「一貫強調」「一般性歸納」轉述，未逐字引用《基督教要義》或《羅馬書註釋》原文：
+| 出現章 | 已核實引句出處 | 本輪改正 |
+|--------|----------------|----------|
+| 01 | *Comm. Romans*, Argument | 「鑰匙」改為原文意象「入口敞開」；「邏輯次序」標為編者歸納 |
+| 02 | *Comm.* on 2:6 | 論法由「行為是信心的果子」改為「賞賜不等於功德」 |
+| 03 | *Institutes* III.11.2、3、23；*Comm.* on 3:21 | 刪 *acceptilatio*（加爾文英譯無此詞），改用其本人的 acceptance／imputation／acquit |
+| 04 | *Comm.* on 4:1；*Institutes* III.11.13 | 維持 |
+| 05 | *Comm.* on 5:1、5:12、5:19 | 「兩個元首的代表關係」係後世措辭；改為他實際的「世代相傳的敗壞」論點 |
+| 06 | *Comm.* on 6:2；*Institutes* III.16.1、III.11.6 | 「沒有無光的太陽」查無；真正的太陽比喻在 III.11.6（光與熱不可分卻不可混） |
+| 08 | *Comm.* on 8:28-30；*Institutes* III.24.5 | **實質修正**：他明說此處 *proorizein* 不指揀選而指背十字架；刪「揀選教義最重要根據之一」 |
+| 09 | *Institutes* III.21.5、III.22.4；*Comm.* on 9:11 | 維持 |
+| 10 | *Comm.* on 10:4、10:17 | 「*telos* 雙義說」查無；反中世紀論戰一句查無，刪 |
+| 11 | *Comm.* on 11:26 | 維持，補足他同時明言「猶太人也要歸回」 |
+| 12 | *Institutes* III.7.1 | 原有中譯引句補上英文原文 |
+| 13 | *Institutes* IV.20.32；*Comm.* on 13:1 | 維持 |
+| 14 | *Comm.* on 14:1、14:23 | 「教會紀律界線」查無；原文為教導上遷就軟弱者 |
+| 15 | *Comm.* on 15:4、15:9-12 | 「唯獨聖經教會論」屬過度推論；原文針對「舊約已廢」之說 |
+| 16 | *Comm.* on 16:3、16:7 | 「鄭重看待問安名單」與原文相反（「不必久留」）；改為其實際論點 |
 
-| 出現章 | 論及經文／主題 |
-|----------------------------------------|----------------------------------------|
-| 01 | 羅馬書是解開全部聖經的鑰匙——福音邏輯次序講得最完整、最有系統 |
-| 02 | 2:6「照行為報應」不與因信稱義衝突——行為是信心的果子，非稱義根基 |
-| 03 | 3:21-26是因信稱義教義的源頭經文；稱義是法庭宣告（*acceptilatio*），非改造過程 |
-| 04 | 《基督教要義》卷三第11章：舊約聖徒與新約信徒得稱義方式完全相同 |
-| 05 | 5:1「和好」是基督已成就、信徒憑信領受的既定事實；亞當基督對比是理解全人類代表關係的鑰匙 |
-| 06 | 成聖與稱義雖有分別卻同出一源——與基督的聯合；沒有無成聖的稱義 |
-| 09 | 《基督教要義》III.21-24：無條件揀選教義最重要的聖經根基之一 |
-| 10 | 論10:4「總結」（*telos*）同時包含「目標」與「終結」二義；論10:17信心非憑空而來 |
-| 11 | 傾向將11:26「以色列全家」理解為歷世歷代蒙揀選之百姓的完整數目（屬靈以色列） |
-| 12 | **已核實逐字引句**（見下方說明） |
-| 13 | 《基督教要義》卷四第20章「公民政府」：肯定政權出於神設立，卻在悖逆神時劃出「順從神優先」的界線 |
-| 14 | 14:1劃出教會紀律界線；14:23教導凡不出於對神真確信靠而做的事都帶有虧欠神的性質 |
-| 15 | 《羅馬書註釋》(1540年，他撰寫的第一部聖經註釋)：15:4為「唯獨聖經」教會論提供關鍵支持 |
-| 16 | 對16章問安名單抱鄭重態度；視百基拉亞居拉為夫婦同工典範 |
+### 其他
 
-### 約翰·衛斯理 (John Wesley, 1703-1791)
+| 出現章 | 人物 | 狀態 |
+|--------|------|------|
+| 05 | 約翰·衛斯理 | 1738 年 5 月 24 日日記原文已對照 ccel.org 核實；修正一處大小寫漂移（He）與「路德《羅馬書序言》」名稱 |
+| 09 | 阿民念／衛斯理傳統 | 「民族揀選」讀法：《衛斯理日記》無對應段落，阿民念不在文本庫；保留為不加引號的撮述 |
+| 11 | 約翰·慕理 | 11:26 指猶太民族未來歸信之立場，經二手文獻確認，未引句（原著受版權保護） |
 
-| 出現章 | 論及經文／主題 | 性質 |
-|---------------------------|---------------------------|---------------------------|
-| 01 | 1738年5月24日亞爾道斯門街聚會，聽路德羅馬書序言被朗讀而歸信 | 日記原文引用，公開可查證之一手史料 |
-| 05 | 同一事件，附完整英文日記原文引句 | **明確標註為「唯一附有具體日期、且為逐字引句的是約翰·衛斯理1738年5月24日的日記原文，此為公開、可查證之一手史料」** |
-
----
-
-### 已核實逐字引句——羅馬書12章的三段直接引句
-
-羅馬書12章「歷代注疏」小節收錄三段**明確附出處、並經作者自陳查證來源**的直接引句，性質與本書其餘各章、以及提摩太前書附錄中一律「非逐字引句」的注疏顯著不同：
-
-| 作者 | 出處 | 出處行自陳查證方式 |
-|---------------------------|---------------------------|---------------------------|
-| 奧古斯丁 | 《上帝之城》(*City of God*)，卷十第6章 | 經 CCEL (Christian Classics Ethereal Library) 線上原始文本查證 |
-| 屈梭多模 | 《羅馬書講道集》第20篇 | 經 New Advent 線上《羅馬書講道集》第20篇原文查證，並經多方獨立來源交叉核對 |
-| 約翰·加爾文 | 《基督教要義》卷三第7章第1節 | 經 CCEL 線上原始文本查證 |
-
-**誠實說明**：以上三段引句是本卷唯一附有「線上原始文本查證」字樣、性質上明確區別於「一般性歸納轉述」的注疏引句。讀者若欲進一步覆核，可依上列出處自行查找 CCEL（ccel.org）與 New Advent（newadvent.org）原始文本。除此三段之外，本書全部歷代注疏內容——包括奧古斯丁在13章《懺悔錄》「拿起來，讀」一段（有具體出處《懺悔錄》VIII.12，但本書呈現方式為歷史事件的中文轉述與部分引句，未附逐句英文/拉丁文原文與線上查證連結）——均按各章「出處」行的誠實自陳處理，不逕行升級為與12章同等級的「已核實逐字引句」。
+**仍為編者概述、未引一手文本者**：05 章的 418 年迦太基、431 年以弗所會議；07 章的《致辛普里西安》；02、04 章的路德《羅馬書講義》；09 章的阿民念／衛斯理讀法；11 章的慕理。各處均在正文出處行如實標明。
 
 ---
 

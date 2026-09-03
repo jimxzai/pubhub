@@ -168,17 +168,57 @@ publisher: 三書精讀出版系統
 
 **屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：
 
-屈梭多模在他對羅馬書的講道系列中，一貫強調15:1-3「不求自己喜悅」的基督徒倫理，其根基不是抽象的道德律，而是效法基督本身的降卑——他常提醒聽眾，保羅要求「堅固的人」擔待「軟弱的人」，正是把腓立比書2章基督「反倒虛己」的降卑邏輯，具體應用在教會日常的飲食與人際張力上；一個人若自誇屬靈上的「堅固」，卻不肯為軟弱的弟兄放下自己的喜悅，那份「堅固」其實還沒有真正認識十字架。
+**剛強者的義務，不是恩惠**：屈梭多模在第二十七篇講道論15:1，先點出「應該」（ought）一詞的分量——這是欠債，不是施恩；而保羅稱對方「剛強」，是為了叫他們俯就。
 
-> 出處：此為對屈梭多模一貫解經立場與其羅馬書相關講道（*Homilies on Romans*，其中談及15章的講道編號約在27-29篇之間）已知重點的一般性、綜合性歸納轉述，未附具體篇號或逐字引句，讀者若需查證，應另行核對其原始講道文本。
+> "For thou, he says, art powerful, and art no whit the worse for condescending. But to him the hazard is of the last consequence, if he is not borne with. And he does not say the infirm, but the infirmities of the weak, so drawing him and bending him to mercy. ... Are you become powerful? Render a return to God for making you so. But render it you will if you set the weakness of the sickly right. For we too were weak, but by grace we have become powerful."
+>
+> 「他說：你是有力量的，俯就一下絲毫無損；但對那人來說，若不被擔待，危險卻是極大的。他也不說『那軟弱的人』，而說『軟弱人的軟弱』，好牽引他、使他傾向憐憫……你成了有力量的人嗎？就當為神使你如此而向神報答。而你若把病弱者的軟弱糾正過來，就是報答了。因為我們也曾軟弱，是靠恩典才成為有力量的。」（Chrysostom, *Homilies on Romans*, Homily 27, on 15:1）
+
+**基督的榜樣——為何不引「虛己」**：論15:3「基督也不求自己的喜悅」，他指出保羅一貫以基督為根據，但這裏特意不引腓立比書2:7的「虛己」，因為要點不只是道成肉身，而是基督受辱、被人看為軟弱。
+
+> "But what is the import of, He pleased not Himself? He had power not to have been reproached, power not to have suffered what He did suffer, had He been minded to look to His own things. But yet He was not so minded. But through looking to our good He neglected His own. And why did he not say, He emptied Himself? ... It is because this was not the only thing he wished to point out, that He became man, but that He was also ill-treated, and obtained a bad reputation with many, being looked upon as weak."
+>
+> 「『祂不求自己的喜悅』是甚麼意思？祂本有能力不受辱罵，有能力不受祂所受的苦——只要祂願意顧念自己的事。但祂不這樣想。祂顧念我們的好處，就撇下了自己的。保羅為甚麼不說『祂虛己』？因為他要指出的不只是祂成了人，還有祂被苦待、在許多人眼中名聲敗壞、被看為軟弱。」（同上，on 15:3）
+
+> 以上引文據 New Advent 所載 NPNF 英譯本（Homily 27）逐字核對，中譯為編者所譯。本書前一版稱屈梭多模把腓立比書2章「虛己」的降卑邏輯應用於此，經查證原文所說恰好相反——他特意指出保羅在此**沒有**引用「虛己」一語——已按原文改正。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-加爾文在《羅馬書註釋》（*Commentary on Romans*，1540年出版，是他撰寫的第一部聖經註釋）中，特別看重15:4「從前所寫的聖經都是為教訓我們寫的」這節經文——他一貫強調，這節經文為整個宗教改革「唯獨聖經」（*sola scriptura*）的教會論提供了關鍵支持：舊約經文並非只對古代以色列人說話而與教會無關的死文獻，而是被聖靈默示、持續向歷世歷代教會說話的活的話語，其功用正是要藉著忍耐與安慰，產生盼望。加爾文也一貫指出，15:9-12連續四段舊約引文，證明使徒教會對「外邦人蒙恩」的教導，並非新奇的創見，而是舊約律法、先知、詩篇早已一致見證的事——這正呼應了他神學體系中「新舊約盟約本質為一」的核心立場。
+**「從前所寫的聖經都是為教訓我們寫的」**：加爾文在《羅馬書註釋》（1540年出版，是他撰寫的第一部聖經註釋）論15:4，把這節讀為對「聖經無一字徒然」的宣告，並直指那些聲稱舊約已廢的人——
 
-> 出處：此為對加爾文《羅馬書註釋》一貫解經立場與已知重點（如「唯獨聖經」的教會論根基、新舊約盟約合一的立場）的一般性歸納轉述，未逐字引用其原文段落，讀者若需查證，應另行核對其原始註釋文本。
+> "This is an interesting passage, by which we understand that there is nothing vain and unprofitable contained in the oracles of God; and we are at the same time taught that it is by the reading of the Scripture that we make progress in piety and holiness of life."
+>
+> 「這是一段值得注意的經文，由此我們明白：神的聖言中沒有任何徒然無益的東西；同時也受教，我們是藉著讀聖經，在敬虔與聖潔的生活上長進。」（Calvin, *Commentary on Romans*, on 15:4）
+
+> "Moreover, we find here a most striking condemnation of those fanatics who vaunt that the Old Testament is abolished, and that it belongs not in any degree to Christians; for with what front can they turn away Christians from those things which, as Paul testifies, have been appointed by God for their salvation?"
+>
+> 「此外，我們在這裏看見對那些狂熱者最有力的定罪——他們誇言舊約已經廢去，與基督徒毫無關係；然而保羅既見證這些事是神為他們的救恩所指定的，他們憑甚麼臉面叫基督徒轉離這些事？」（同上）
+
+他也由此指出，先知與使徒的著作出於同一位聖靈——
+
+> "And though he speaks of the Old Testament, the same thing is also true of the writings of the Apostles; for since the Spirit of Christ is everywhere like itself, there is no doubt but that he has adapted his teaching by the Apostles, as formerly by the Prophets, to the edification of his people."
+>
+> 「雖然他說的是舊約，同樣的話也適用於使徒的著作；因為基督的靈處處如一，祂無疑也像從前藉先知一樣，藉使徒把教導調校得合乎祂子民的造就。」（同上）
+
+至於「忍耐」與「安慰」產生「盼望」，加爾文指出這是聖經功用的「主要目的」：
+
+> "for the Scriptures are especially serviceable for this purpose -- to raise up those who are prepared by patience, and strengthened by consolations, to the hope of eternal life, and to keep them in the contemplation of it."
+>
+> 「因為聖經特別是為這目的效力——把那些藉忍耐預備好、藉安慰得堅固的人，提升到永生的盼望裏，並使他們常在其中默想。」（同上）
+
+**15:9-12：外邦人蒙恩是舊約早已見證的**：加爾文指出這是本段第二個論點，保羅在此多所停留，「因為它不那麼顯而易見」；而四段引文中，以賽亞的預言最為輝煌——
+
+> "This is the second point, on proving which he dwells longer, because it was not so evident."
+>
+> 「這是第二個論點，他在證明這點上停留較久，因為它不那麼明顯。」（同上，on 15:9）
+
+> "This prophecy is the most illustrious of them all: for in that passage, the Prophet, when things were almost past hope, comforted the small remnant of the faithful, even by this, -- that there would arise a shoot from the dry and the dying trunk of David's family, and that a branch would flourish from his despised root, which would restore to God's people their pristine glory."
+>
+> 「這預言是眾預言中最輝煌的：在那段經文裏，先知在幾乎絕望的光景中，正是以此安慰信徒中的小小餘民——大衛家那枯乾將死的樹幹要發出嫩芽，從他被藐視的根要長出茂盛的枝子，使神的子民恢復起初的榮耀。」（同上，on 15:12）
+
+> 以上引文據 CCEL 所載 John Owen 英譯《羅馬書註釋》逐字核對，中譯為編者所譯。本書前一版將加爾文論15:4的重點表述為「唯獨聖經」的教會論根基與「新舊約盟約本質為一」，經查證原文，他在此針對的是「舊約已廢」之說，並以「基督的靈處處如一」立論，已按原文改寫。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -196,9 +236,25 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-**約翰·麥克阿瑟 (John MacArthur)**：一貫強調，15:16「作神福音的祭司」是保羅對傳道職分極具份量的自我理解——他不是把自己抬高成獻祭的中保（新約唯一的中保是基督自己），而是指出，福音工人把外邦信徒帶到神面前、使他們「因著聖靈成為聖潔，可蒙悅納」，這件事本身帶著獻祭的莊重與代價；麥克阿瑟也常提醒，15:20保羅「不在別人的根基上建造」的宣教原則，對今日教會拓展策略仍是重要的提醒——真正的宣教心志，應當被那些「未曾聽見過」的群體所牽引，而非僅僅在已經飽和的工場裏彼此競爭。
+麥克阿瑟講羅馬書 15:14-21 時，把保羅的自我理解分為祭司、傳道者、開拓者三重；「祭司」只是類比——保羅不贖罪、不獻挽回祭、不作中保。講 15:20 時，他特別澄清：在別人根基上建造並不是錯，而是恩召不同——有人奠基，有人建造，教會兩者都需要。
 
-> 出處：此為對麥克阿瑟一貫解經立場與已知重點的一般性歸納轉述，未附具體講題、日期或 gty.org 網址連結，不宜視為逐字引句。
+**「祭司」是類比，不是定義**：
+
+> "He is not in strict definition a priest. But his role is analogous to a priest."
+>
+> 「嚴格定義上他不是祭司。但他的角色類比於祭司。」（45-114）
+
+> "So, Paul is not a priest who makes atonement for sin. He is not a priest who offers a propitiatory sacrifice. He is not a priest who mediates between God and man. Only by way of illustration does he call himself a priest because he wants the Romans and us to understand what he does."
+>
+> 「所以，保羅不是一個為罪贖罪的祭司。他不是獻挽回祭的祭司，也不是在神人之間作中保的祭司。他只是用比喻的方式自稱祭司，因為他要羅馬人和我們明白他在做的是甚麼。」（45-114）
+
+**15:20 是恩召的問題，不是對錯的問題**：
+
+> "It's not a question of wrong; it's a question of his calling. Some are called to lay the foundation. Some are called to come along and build on that foundation. The role of the pastor-teacher is to build on the foundation that is laid. The role of the evangelist, the apostle, the sent one, is to lay the foundation. The church needs both."
+>
+> 「這不是對錯的問題，是他恩召的問題。有人蒙召奠定根基，有人蒙召接著在那根基上建造。牧師教師的角色是在已奠定的根基上建造；傳福音者、使徒、奉差遣者的角色是奠定根基。教會兩者都需要。」（45-115）
+
+> — John MacArthur, *In Defense of Boldness, Part 1* (45-114), *In Defense of Boldness, Part 2* (45-115), gty.org, sermon 45-114 / 45-115（講道逐字稿已核對）
 
 ---
 

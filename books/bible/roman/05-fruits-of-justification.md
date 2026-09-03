@@ -160,18 +160,47 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-**奧古斯丁與伯拉糾之爭 (Augustine vs. Pelagius, 主後五世紀初)**：羅馬書5:12是教會歷史上「原罪」教義形成過程中最關鍵的戰場之一。這是真實可考的歷史事件——伯拉糾派主張人生來並無承襲亞當的罪性，每個人只因親身犯罪而定罪；奧古斯丁則在與伯拉糾及其門徒（如伯拉糾派的凱萊斯提烏 Caelestius）多年的辯論中，逐步發展出「原罪」（*peccatum originale*）與人性「敗壞傾向」（*concupiscentia*）的教義框架，主張全人類在亞當裏已經以某種真實的方式承受了他的罪與死。這場爭論最終在主後418年迦太基議會與431年以弗所大公會議中，以譴責伯拉糾主義告終，深遠地形塑了此後西方教會對原罪、恩典與人的意志的理解。
+**奧古斯丁與伯拉糾之爭 (Augustine vs. Pelagius, 主後五世紀初)**：羅馬書5:12是教會歷史上「原罪」教義形成過程中最關鍵的戰場之一。伯拉糾派主張人生來並無承襲亞當的罪性，每個人只因親身犯罪而定罪；奧古斯丁則在與伯拉糾及其門徒（如凱萊斯提烏 Caelestius）多年的辯論中，逐步發展出「原罪」（*peccatum originale*）與人性「敗壞傾向」（*concupiscentia*）的教義框架，主張全人類在亞當裏已經以某種真實的方式承受了他的罪與死。這場爭論最終在主後418年迦太基議會與431年以弗所大公會議中，以譴責伯拉糾主義告終。奧古斯丁自己在引用居普良的見證之後，把雙方的分歧概括為兩點：
 
-**屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：屈梭多模在他對羅馬書的講道傳統中一貫強調，5:8「惟有基督在我們還作罪人的時候為我們死」是全本聖經對神之愛最有力的證明方式——因為世人為義人死尚且少有，何況神的兒子竟為著仇敵、為著毫無功德的人捨命；這樣的愛不能用人間任何愛的標準來衡量。
+> "By this testimony this witness refutes two falsehoods of theirs — the one, wherein they say that the human race draws no sin from Adam which needs cure and healing through Christ; the other, in which they say that the saints have no sin after baptism."
+>
+> 「這位見證人的證言駁倒了他們的兩個謬說——其一，他們說人類並未從亞當承襲任何需要藉基督醫治的罪；其二，他們說聖徒受洗之後再沒有罪。」（Augustine, *Against Two Letters of the Pelagians*, IV.21）
+
+**屈梭多模／金口約翰 (John Chrysostom, 約347-407)**：屈梭多模在《羅馬書講道集》第九講講解5:6-8時，把重點放在「為誰死」上——世人尚且不肯輕易為有德之人死，基督卻是為罪人、為仇敵被釘：
+
+> "For if for a virtuous man, no one would hastily choose to die, consider your Master's love, when it is not for virtuous men, but for sinners and enemies that He is seen to have been crucified"
+>
+> 「若是為一個有德的人，也沒有人會輕易選擇去死，那麼請思想你主的愛：祂被人看見釘在十字架上，不是為有德的人，而是為罪人和仇敵。」（Chrysostom, *Homilies on Romans*, Homily 9, on 5:6-8）
+
+他接著說，這樣的死加上死所帶來的恩賜，使我們最高的想像都相形失色，連最遲鈍的人也被引向信心：
+
+> "For there is no one else that will save us, except He Who so loved us when we were sinners, as even to give Himself up for us."
+>
+> 「除了那位在我們還是罪人時就如此愛我們、甚至為我們捨己的主，再沒有別人能救我們。」（Chrysostom, *Homilies on Romans*, Homily 9, on 5:9-10）
 
 ### 改革宗時期
 
-**約翰·加爾文 (John Calvin, 1509-1564)**：加爾文在他對羅馬書的解經傳統中一貫指出，5:1「我們……得與神相和」的「相和」不是信徒努力爭取而來的和平，而是基督已經成就、信徒只需憑信心領受的既定事實；他也一貫強調5:12-19的亞當—基督對比，說明人類在神眼中並非各自獨立受審判，乃是被安放在兩個「元首」的代表關係之下——這正是理解「因一人的悖逆，眾人成為罪人」與「因一人的順從，眾人也成為義了」的鑰匙。
+**約翰·加爾文 (John Calvin, 1509-1564)**：加爾文註釋5:1時指出，「相和」是因信稱義特有的果子，指良心的安穩；凡想靠行為掙得這安穩的，都是徒勞：
 
-**約翰·衛斯理 (John Wesley, 1703-1791) 與亞爾道斯門經歷**：這是一段有原始文獻可查、衛斯理親筆記載於日記中的真實歷史事件。1738年5月24日晚，衛斯理在倫敦亞爾道斯門街（Aldersgate Street）的一次聚會中，聆聽路德《羅馬書注釋》序言被人朗讀，他在當晚的日記中這樣記述：
+> "When any one strives to seek tranquillity of conscience by works, (which is the case with profane and ignorant men,) he labors for it in vain; for either his heart is asleep through his disregard or forgetfulness of God's judgment, or else it is full of trembling and dread, until it reposes on Christ, who is alone our peace."
+>
+> 「人若想靠行為尋求良心的安穩（這正是世俗無知之人的做法），必是徒勞；因為他的心若不是因輕忽、忘記神的審判而沉睡，就是充滿戰兢懼怕，直到它安息在基督裏——惟有基督是我們的平安。」（Calvin, *Commentary on Romans*, on 5:1）
 
-> "About a quarter before nine, while he was describing the change which God works in the heart through faith in Christ, I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation; and an assurance was given me that he had taken away my sins, even mine, and saved me from the law of sin and death."
-> — John Wesley's Journal, 24 May 1738
+至於5:12-19的亞當—基督對比，加爾文的重點不在後世所謂「盟約代表」的框架，而在兩點：其一，我們從亞當承受的是與生俱來、世代相傳的敗壞，不是伯拉糾派所說效法而來的罪；其二，正因如此，惟有把我們在亞當裏所失去的擺在眼前，才能看清我們在基督裏所得的：
+
+> "Besides, we may easily conclude, that he speaks not here of actual sin; for if everyone for himself contracted guilt, why did Paul form a comparison between Adam and Christ? It then follows that our innate and hereditary depravity is what is here referred to."
+>
+> 「此外，我們不難斷定，他在這裏說的不是本身所犯的罪；因為若各人是為自己招致罪責，保羅何必把亞當與基督相比？由此可見，這裏所指的是我們與生俱來、世代相傳的敗壞。」（Calvin, *Commentary on Romans*, on 5:12）
+
+> "For he shows that we are guilty through the offense of one man, in such a manner as not to be ourselves innocent."
+>
+> 「他表明我們因一人的過犯而有罪，卻不是以我們自己仍屬無辜的方式。」（Calvin, *Commentary on Romans*, on 5:19）
+
+**約翰·衛斯理 (John Wesley, 1703-1791) 與亞爾道斯門經歷**：這是一段有原始文獻可查、衛斯理親筆記載於日記中的真實歷史事件。1738年5月24日晚，衛斯理在倫敦亞爾道斯門街（Aldersgate Street）的一次聚會中，聆聽路德的《羅馬書序言》被人朗讀，他在當晚的日記中這樣記述：
+
+> "About a quarter before nine, while he was describing the change which God works in the heart through faith in Christ, I felt my heart strangely warmed. I felt I did trust in Christ, Christ alone, for salvation; and an assurance was given me that He had taken away my sins, even mine, and saved me from the law of sin and death."
+>
+> 「約在九點差一刻，當他描述神藉著信基督在人心裏所作的改變時，我覺得我的心奇異地溫暖起來。我覺得我確實信靠基督、單單信靠基督得救；並且有一個確據賜給我：祂已除去我的罪，是的，連我的罪也除去了，救我脫離罪和死的律。」（John Wesley, *Journal*, 24 May 1738）
 
 這段記載與羅馬書5:5「所賜給我們的聖靈將神的愛澆灌在我們心裏」的語言遙相呼應——衛斯理所描述的，正是保羅所說「聖靈將神的愛澆灌在心裏」那種帶著確據、不再只是頭腦贊同、而是心裏真實經歷的信心。
 
@@ -207,9 +236,33 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟一貫指出，5:1的「得與神相和」不是一種主觀感受，而是一個客觀成就的法律狀態——保羅用的是過去已完成的動詞，意思是「這和好已經確立，並持續有效」，信徒的確據應該建立在這個客觀事實上，而非隨著情緒起伏的主觀感覺。他也強調5:12-21的亞當—基督對比，是保羅在羅馬書中論證的高峰之一——唯有先明白人類全體在亞當裏所承受的定罪與死的轄制何等真實、何等徹底，才能明白基督所成就的稱義與生命何等更加真實、更加徹底。
+麥克阿瑟講羅馬書 5:1 時，把「與神相和」從主觀感受裏拉出來：這是客觀的關係，是「戰爭結束了」。講 5:12-21 時，他把亞當一段稱為理解人類歷史的鑰匙，而基督所成就的遠超過把人送回亞當未犯罪時的光景。
 
-**誠實說明**：以上麥克阿瑟與坎伯·摩根之引句，均為對其著作與講道中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份或講題可逐字查核的原始引句；屈梭多模之陳述屬同一性質的一般性歸納。奧古斯丁與伯拉糾之爭乃真實可考的歷史事件（主後五世紀初，教會歷史文獻與大公會議記錄可查），此處僅作歷史背景之如實描述，未杜撰任何一方的逐字語錄。加爾文之陳述亦屬對其《羅馬書註釋》一貫解經立場的一般性歸納。唯一附有具體日期、且為逐字引句的是約翰·衛斯理1738年5月24日的日記原文，此為公開、可查證之一手史料。
+**不是感覺，是關係**：
+
+> "This is not subjective, this is objective. It does not speak of feelings. It speaks of a relationship. Feelings are not the issue here."
+>
+> 「這不是主觀的，這是客觀的。它講的不是感覺，講的是一種關係。感覺在這裏不是問題所在。」（45-40）
+
+> "It isn't a subjective kind of feeling. It is simply that the war between us and God is over."
+>
+> 「它不是一種主觀的感覺。它只是說：我們與神之間的戰爭結束了。」（45-40）
+
+**亞當一段是理解歷史的鑰匙**：
+
+> "Here is the key to history. This is the key to understanding everything. It tells us why man is the way he is. It tells us why death is the dominant monarch."
+>
+> 「這裏是歷史的鑰匙。這是理解一切的鑰匙。它告訴我們人為甚麼是這個樣子，告訴我們死為甚麼作了轄制一切的君王。」（45-43）
+
+**基督所成就的，遠超過回到亞當的無罪狀態**：
+
+> "The evil of Adam brought death. The free gift of Christ not only freed men from death, it didn't just return them to the innocency of Adam; it took them out of death beyond the innocency of Adam to the righteousness of Christ."
+>
+> 「亞當的惡帶來了死。基督白白的恩賜不只使人脫離死，也不只是把人送回亞當無罪的光景；它把人從死裏帶出來，越過亞當的無罪，直到基督的義。」（45-44）
+
+> — John MacArthur, *The Security of Salvation, Part 1* (45-40), *Adam and the Reign of Death* (45-43), *Christ and the Reign of Life* (45-44), gty.org, sermon 45-40 / 45-43 / 45-44（講道逐字稿已核對）
+
+**誠實說明**：麥克阿瑟引句已逐句對照 gty.org 講道逐字稿核實，講道編號附於各句之後；坎伯·摩根之引句為對其著作中一貫解經立場的綜合性歸納轉述，並非附有具體頁碼、出版年份可逐字查核的原始引句；屈梭多模與加爾文的英文引句已逐句對照一手來源核實（New Advent 所載 NPNF 英譯《羅馬書講道集》第九講；CCEL 所載加爾文《羅馬書註釋》），中譯為編者所作。奧古斯丁與伯拉糾之爭乃真實可考的歷史事件（主後五世紀初），其歷史背景（含迦太基與以弗所會議）為編者概述，所附英文引句則取自 NPNF 英譯《駁二封伯拉糾派書信》第四卷。約翰·衛斯理1738年5月24日的日記原文已對照 CCEL 所載日記全文逐字核實，此為公開、可查證之一手史料。
 
 ---
 

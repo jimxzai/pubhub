@@ -178,17 +178,35 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-奧古斯丁對羅馬書7章的解讀，是教會歷史上一次有據可查、真實發生的思想轉變。他早期（約公元390年代初，在《致辛普里西安》*Ad Simplicianum* 之前的著作中）傾向將7:14-25理解為描述人在律法之下、尚未蒙恩之人的處境；但隨著與伯拉糾主義（Pelagianism）的論戰展開，他在《駁二封伯拉糾派書信》等反伯拉糾著作中，轉向將這段經文理解為使徒保羅本人、乃至一切重生信徒持續一生的內心爭戰——這個轉變正是他成熟恩典神學的重要基石：人即使重生得救，肉體的敗壞傾向仍終生存在，唯獨靠恩典、不能靠自己的意志力得勝。
+奧古斯丁對羅馬書7章的解讀有一次他自己記錄在案的轉變。他早年傾向把7:14-25讀成描寫在律法之下、尚未蒙恩之人的處境；到了反伯拉糾時期，他在《駁二封伯拉糾派書信》裏親口承認改變了看法——理由是7:17「不是我做的」、7:22「按著我裏面的意思，我是喜歡神的律」，以及8:1「如今不定罪了」，都不可能出自律法之下的人：
 
-> 出處：此為對奧古斯丁思想發展的一般性、綜合性描述，其早期與反伯拉糾時期著作對羅馬書7章解讀的轉變是教會歷史上有記載的公認事實，惟本書未逐字引用其原文段落，讀者若需查證，可另行核對《致辛普里西安》與《駁二封伯拉糾派書信》原文。
+> "And it had once appeared to me also that the apostle was in this argument of his describing a man under the law. But afterwards I was constrained to give up the idea by those words where he says, Now, then, it is no more I that do it."
+>
+> 「我也曾一度以為使徒在這段論證裏描寫的是一個在律法之下的人。但後來，他說『如今不是我做的』這句話，迫使我放棄了那個看法。」（Augustine, *Against Two Letters of the Pelagians*, I.22）
+
+他的結論是：保羅說的不只是自己，也是一切在恩典之下、卻尚未進入完全平安的人：
+
+> "the apostle is rightly understood to have signified not, indeed, himself alone in his own person, but others also established under grace, and with him not yet established in that perfect peace in which death shall be swallowed up in victory."
+>
+> 「正確的理解是：使徒所指的不只是他自己本人，也包括其他已在恩典之下、卻與他一樣尚未進入那『死被得勝吞滅』的完全平安之人。」（Augustine, *Against Two Letters of the Pelagians*, I.24）
+
+這個轉變正是他成熟恩典神學的重要基石：人即使重生得救，肉體的敗壞傾向仍終生存在，唯獨靠恩典、不能靠自己的意志力得勝。
+
+> 出處：以上引句取自 NPNF 英譯（New Advent 所載）《駁二封伯拉糾派書信》第一卷；奧古斯丁早期立場見於《致辛普里西安》之前的著作，本書未引其原文，「轉變」一事以他本人在 I.22 的自述為據。
 
 ### 改革宗時期
 
 **馬丁·路德 (Martin Luther, 1483-1546)**：
 
-路德在他1515-1516年於維滕堡大學講授羅馬書的講義（*Lectures on Romans*）中，正是從羅馬書7章的掙扎中，讀出了他一生中最重要的洞見之一——後世稱之為 ***simul iustus et peccator***（拉丁文，「同時是義人，也是罪人」）：信徒在基督裏已經被神完全稱義（地位上是義人），但在今生的實際光景中，罪的敗壞傾向仍然真實存在、仍要終身與之爭戰（狀態上仍是罪人）。這正是7:25那句看似矛盾的總結——「我以內心順服神的律，我肉體卻順服罪的律」——的精準提煉：稱義是一次性、法庭性的宣告，成聖卻是終身、漸進的爭戰，兩者同時真實，並不互相取消。
+路德從羅馬書7章讀出他一生最重要的洞見之一——後世概括為 ***simul iustus et peccator***（拉丁文，「同時是義人，也是罪人」）：信徒在基督裏已經被神完全稱義（地位上是義人），但在今生的實際光景中，罪的敗壞傾向仍然真實存在、仍要終身與之爭戰（狀態上仍是罪人）。這個拉丁短語出自他1515-1516年於維滕堡講授的《羅馬書講義》（*Lectures on Romans*），本書未引其原文；但他1522年的《羅馬書序言》把同一個思想講得很白：
 
-> 出處：*simul iustus et peccator* 是路德神學中極為著名、有廣泛文獻記載的核心表述，直接根植於他對羅馬書（尤其第7章）的解讀；本書對其思想脈絡作一般性摘述，未逐字引用其講義原文段落。
+> "This feud lasts in us for as long as we live, in one person more, in another less, depending on whether spirit or flesh is stronger. Yet the whole human being is both: spirit and flesh. The human being fights with himself until he becomes completely spiritual."
+>
+> 「這場爭戰在我們裏面持續一生，有人多些，有人少些，看靈與肉體哪一個更強。然而整個人同時是兩者：靈與肉體。人與自己爭戰，直到他完全屬靈。」（Luther, *Preface to Romans*, 1522, on ch. 7）
+
+這正是7:25那句看似矛盾的總結——「我以內心順服神的律，我肉體卻順服罪的律」——的精準提煉：稱義是一次性、法庭性的宣告，成聖卻是終身、漸進的爭戰，兩者同時真實，並不互相取消。
+
+> 出處：*simul iustus et peccator* 為路德《羅馬書講義》中的表述，該講義英譯本仍在版權內，本書未逐字引用；上述引句取自 Andrew Thornton 英譯《羅馬書序言》(1522)。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -212,9 +230,25 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-一貫強調，羅馬書7章描繪的正是每一個誠實省察自己的信徒都會經歷的光景——越深地認識神的律法何等聖潔，就越深地看見自己肉體何等敗壞；這一章不是要人灰心絕望，而是要打碎「靠自己努力就能討神喜悅」的幻覺，把人徹底推向唯獨依靠聖靈、唯獨依靠基督的第8章。
+麥克阿瑟講羅馬書 7:14-25 時，明確把這段讀成信徒的經歷：新造的人是聖潔的，但與罪的爭戰仍在；成長中的信徒對罪的恨惡只會更深；完全的釋放要等到得榮耀，而今生的得勝則是第 8 章的內容。
 
-> 出處：此為對麥克阿瑟一貫解經立場與已知重點的一般性歸納轉述，未附具體講題、日期或 gty.org 網址連結，不宜視為逐字引句。
+**是信徒，而且仍在爭戰**：
+
+> "And so whether or not you want to see a Christian in chapter 7, you've still got to see a Christian having conflict with sin even though his new creation, his new self is holy."
+>
+> 「所以不論你願不願意在第 7 章看見一個基督徒，你總得看見：一個基督徒即使他的新造、他的新我是聖潔的，仍然與罪有衝突。」（45-52）
+
+> "if you sit down and are honest about it, even though you can see growth in your Christian life, you're going to have a greater hatred for your sin now than you did long ago"
+>
+> 「你若坐下來誠實面對，就會發現：即使你看得見自己基督徒生命的成長，你現在對自己罪的恨惡，也比很久以前更深。」（45-53）
+
+**完全的釋放要等到得榮耀；今生的得勝在第 8 章**：
+
+> "So, the battle isn't going to be over till Jesus gives us immortality and incorruption. Full deliverance awaits glorification. That's the point. But, that is not to say that we can't experience victory here and now, right? And that's chapter 8"
+>
+> 「所以，這場爭戰要到耶穌賜給我們不朽壞、不死的身體才結束。完全的釋放要等到得榮耀。這就是要點。但這不是說我們今生此刻經歷不到得勝，對吧？那就是第 8 章。」（45-53）
+
+> — John MacArthur, *The Believer and Indwelling Sin, Part 1* (45-52), *The Believer and Indwelling Sin, Part 2* (45-53), gty.org, sermon 45-52 / 45-53（講道逐字稿已核對）
 
 ---
 

@@ -163,26 +163,33 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine, 354-430)**：
 
-> 「凡是為了使我們與神聯合於聖潔團契中而做的工作，都是真正的祭……因此，蒙救贖的整座城——就是眾聖徒的會眾與團契——藉著那位大祭司獻給神，作我們的祭；祂在受難中將自己獻給神，為要使我們成為這榮耀元首的肢體。」
-> — *上帝之城 (City of God)*，卷十第6章
+> "Thus a true sacrifice is every work which is done that we may be united to God in holy fellowship ... it follows that the whole redeemed city, that is to say, the congregation or community of the saints, is offered to God as our sacrifice through the great High Priest, who offered Himself to God in His passion for us, that we might be members of this glorious head"
+>
+> 「凡是為了使我們與神聯合於聖潔團契中而做的工作，都是真正的祭……因此，蒙救贖的整座城——就是眾聖徒的會眾與團契——藉著那位大祭司獻給神，作我們的祭；祂在受難中將自己獻給神，為要使我們成為這榮耀元首的肢體。」（Augustine, *City of God* X.6）
 
 奧古斯丁在這裏直接以羅馬書12:1為根據，重新定義「祭」的本質：真正的祭不是儀式性的獻物，而是任何使人與神聯合的行動；並延伸出一個深刻的教會論——教會全體（「蒙救贖的城」）本身，就是藉基督獻給神的一個祭。
 
 **屈梭多模 (John Chrysostom, 約347-407)**：
 
-> 「這樣，我們就不再需要刀、不再需要祭壇、也不再需要火了——或者說，我們仍然需要這一切，只是不再是人手所造的：火從上頭來，刀也從上頭來，我們的祭壇就是諸天的寬廣。」
-> — *羅馬書講道集 (Homilies on Romans)*，第20篇
+> "In this way we shall not need the knife any more, nor altar, nor fire, or rather we shall want all these, but not made with the hands, but all of them will come to us from above, fire from above, and knife also, and our altar will the breadth of Heaven be."
+>
+> 「這樣，我們就不再需要刀、不再需要祭壇、也不再需要火了——或者說，我們仍然需要這一切，只是不再是人手所造的：火從上頭來，刀也從上頭來，我們的祭壇就是諸天的寬廣。」（Chrysostom, *Homilies on Romans*, Homily 20, on 12:1）
 
 屈梭多模把活祭與舊約獻祭的器具一一對照：不需要刀，因為治死己身不靠外在的刀；不需要祭壇，因為天本身就是祭壇；不需要火，因為聖靈的火從上頭來。他把「活祭」講成一場屬靈的、不流血卻更徹底的獻祭。
+
+> 出處：Augustine, *City of God* X.6（NPNF1 vol. 2，New Advent 電子版）；Chrysostom, *Homilies on Romans*, Homily 20（NPNF1 vol. 11，New Advent 電子版），英文均為逐字引句，中譯為編者所作。
 
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin, 1509-1564)**：
 
-> 「我們不是屬自己的：因此不要以肉體的益處為我們生活的目標。我們不是屬自己的：因此盡我們所能，忘記自己和一切屬自己的。反過來說，我們是屬神的：所以讓我們為祂而活、為祂而死。我們是屬神的：所以讓祂的智慧和旨意管理我們一切的行動。我們是屬神的：所以讓我們生命的每一部分，都以祂為唯一合法的目標。」
-> — *基督教要義 (Institutes of the Christian Religion)*，卷三第7章第1節
+> "We are not our own; therefore, let us not make it our end to seek what may be agreeable to our carnal nature. We are not our own; therefore, as far as possible, let us forget ourselves and the things that are ours. On the other hand, we are God's; let us, therefore, live and die to him (Rom. 14:8). We are God's; therefore, let his wisdom and will preside over all our actions. We are God's; to him, then, as the only legitimate end, let every part of our life be directed."
+>
+> 「我們不是屬自己的：因此不要以肉體的益處為我們生活的目標。我們不是屬自己的：因此盡我們所能，忘記自己和一切屬自己的。反過來說，我們是屬神的：所以讓我們為祂而活、為祂而死。我們是屬神的：所以讓祂的智慧和旨意管理我們一切的行動。我們是屬神的：所以讓我們生命的每一部分，都以祂為唯一合法的目標。」（Calvin, *Institutes* III.7.1）
 
 加爾文《基督教要義》論「基督徒生活的總綱：捨己」這一整章，開篇就是以羅馬書12:1為根基展開的。「我們不是屬自己的」這句反覆的宣告，正是「活祭」最精煉的系統化表達：獻上身體為活祭之所以可能，前提是先承認自己的所有權已經易手。
+
+> 出處：Calvin, *Institutes* III.7.1（Beveridge 英譯），逐字引句，中譯為編者所作。
 
 ### 摩根 (G. Campbell Morgan)
 
@@ -210,9 +217,19 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟指出，12:1「理所當然」一詞，原文含有「合乎邏輯、講得通」的意思——保羅的邏輯是：一個人若真的明白了十一章所陳明神那何等浩大、毫無保留的憐憫，把身體獻上為活祭，就是唯一合理、唯一講得通的回應，而不是外加的宗教義務；把它當作重擔的人，其實是還沒真正明白前十一章在說甚麼。
+麥克阿瑟講羅馬書 12:1-2 時，把「理所當然」的原文 *logikos* 解為「合理的、出於理性的、屬於內在之人的」，並斷言：把身體獻上為活祭，是救贖唯一合乎邏輯的結論。
 
-> 出處：奧古斯丁與加爾文引句經 CCEL (Christian Classics Ethereal Library) 線上原始文本查證；屈梭多模引句經 New Advent 線上《羅馬書講道集》第20篇原文查證，並經多方獨立來源交叉核對。麥克阿瑟部分為其對羅馬書十二章一貫解經立場的綜合轉述，未附具體講題、日期或 gty.org 網址，依本系列一貫誠實標註慣例處理，不視為逐字引句。
+> "the word is logikos from which we get the word “logic.” It is reasonable, that's a fair translation. It is intelligent. The idea is though that it is of the reason. It is of the inner man rather than of the outer man."
+>
+> 「這個字是 logikos，英文的『邏輯』就是從它來的。譯作『合理的』是恰當的。它是理智的。意思是說，它出於理性，屬於內在的人而不是外在的人。」（45-89）
+
+> "And this, beloved, is the logical, the only logical conclusion to redemption. There is no other logical conclusion. This is it. Romans 12:1 and 2 is the only proper response to God's redeeming work, the only proper response."
+>
+> 「親愛的，這就是救贖合乎邏輯的結論，唯一合乎邏輯的結論。沒有別的合乎邏輯的結論。就是這個。羅馬書 12:1-2 是對神救贖之工唯一恰當的回應，唯一恰當的回應。」（45-89）
+
+> — John MacArthur, *The Believer's Supreme Act of Spiritual Worship* (45-89), gty.org, sermon 45-89（講道逐字稿已核對）
+
+> 出處：奧古斯丁與加爾文引句經 CCEL (Christian Classics Ethereal Library) 線上原始文本查證；屈梭多模引句經 New Advent 線上《羅馬書講道集》第20篇原文查證，並經多方獨立來源交叉核對。麥克阿瑟引句已逐句對照 gty.org 講道逐字稿（45-89）核實。
 
 ---
 

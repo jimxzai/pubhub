@@ -337,7 +337,7 @@ publisher: 三書精讀出版系統
 >
 > 他們從懼怕轉為信心。那一夜，他們從困惑轉為認信；那一夜，他們從猜疑轉為敬拜。
 
-> — John MacArthur, *Amazing Unbelief* (41-26), *Ordinary Men, Extraordinary Calling* (41-27), *The Murder of the Greatest Prophet* (41-29), *The Creator Provides* (41-30), *Jesus Walks on Water* (41-31), gty.org
+> — John MacArthur, *Amazing Unbelief* (41-26), *Ordinary Men, Extraordinary Calling, Part 1* (41-27), *The Murder of the Greatest Prophet* (41-29), *The Creator Provides* (41-30), *Jesus Walks on Water* (41-31), gty.org
 
 ---
 
