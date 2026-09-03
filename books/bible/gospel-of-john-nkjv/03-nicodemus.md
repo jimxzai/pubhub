@@ -39,13 +39,13 @@ publisher: 三書精讀出版系統
 
 > ^9^尼哥底母問他：「怎麼能有這些事呢？」^10^耶穌回答他說：\jesus{「你是以色列人的老師，還不明白這些事嗎？^11^我實實在在地告訴你，我們所說的是我們知道的，我們所見證的是我們見過的，你們卻不領受我們的見證。^12^我對你們說地上的事，你們尚且不信，若對你們說天上的事，你們怎麼能信呢？^13^除了從天降下的人子，沒有人升過天。^14^摩西在曠野怎樣舉蛇，人子也必須照樣被舉起來，^15^要使一切信他的人都得永生。」}
 
-> \jesus{^16^**「神愛世人，甚至將他獨一的兒子賜給他們，叫一切信他的人不致滅亡，反得永生。**^17^因為神差他的兒子到世上來，不是要定世人的罪，而是要使世人因他得救。^18^信他的人不被定罪；不信的人已經被定罪了，因為他不信神獨一兒子的名。^19^光來到世上，世人因自己的行為是惡的，不愛光，倒愛黑暗，這就定了他們的罪。^20^凡作惡的人都恨光，不來接近光，免得他的行為被暴露。^21^但行真理的人就來接近光，好讓他的行為能顯明是靠神而行的。」}
+> \jesus{^16^\textbf{「神愛世人，甚至將他獨一的兒子賜給他們，叫一切信他的人不致滅亡，反得永生。}^17^因為神差他的兒子到世上來，不是要定世人的罪，而是要使世人因他得救。^18^信他的人不被定罪；不信的人已經被定罪了，因為他不信神獨一兒子的名。^19^光來到世上，世人因自己的行為是惡的，不愛光，倒愛黑暗，這就定了他們的罪。^20^凡作惡的人都恨光，不來接近光，免得他的行為被暴露。^21^但行真理的人就來接近光，好讓他的行為能顯明是靠神而行的。」}
 
 ### English — NKJV (New King James Version)
 
 > ^3^Jesus answered and said to him, \jesus{"Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God."}
 
-> \jesus{^16^**"For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life."**}
+> \jesus{^16^\textbf{"For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life."}}
 
 ---
 

@@ -82,8 +82,12 @@ echo ""
 
 # Generate PDF
 echo "🔨 Generating PDF..."
+# --verbose is load-bearing: without it pandoc swallows the xelatex log and
+# every "grep the log" check passes vacuously against an empty haystack.
+LATEX_LOG="${OUTPUT_PDF%.pdf}-build.log"
 pandoc "$COMBINED_MD" \
   -o "$OUTPUT_PDF" \
+  --verbose \
   --pdf-engine=xelatex \
   --template="$TEMPLATE" \
   --from=markdown-superscript-subscript \
@@ -91,9 +95,14 @@ pandoc "$COMBINED_MD" \
   --toc-depth=1 \
   --top-level-division=chapter \
   -V tocdepth=0 \
-  2>&1 | grep -v "^$" | head -20
+  > "$LATEX_LOG" 2>&1
+PANDOC_EXIT=$?
 
-if [ ${PIPESTATUS[0]} -eq 0 ]; then
+# surface what the log now actually contains
+echo "   missing glyphs: $(grep -c 'Missing character' "$LATEX_LOG")"
+echo "   overfull boxes: $(grep -c 'Overfull \\hbox' "$LATEX_LOG")"
+
+if [ $PANDOC_EXIT -eq 0 ]; then
     echo ""
     echo "=========================================="
     echo "✅ NASB PDF Generated Successfully!"

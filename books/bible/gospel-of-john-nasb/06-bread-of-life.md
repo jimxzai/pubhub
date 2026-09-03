@@ -37,11 +37,11 @@ publisher: 三書精讀出版系統
 
 > ^26^耶穌回答他們：\jesus{「我實實在在地告訴你們，你們找我，不是因為看見了神蹟，而是因為吃餅吃飽了。^27^不要為那會壞的食物操勞，要為那存到永生的食物操勞，就是人子要賜給你們的，因為父神已經在他身上蓋了印記。」}
 
-> ^35^\jesus{**「我就是生命的糧。到我這裏來的，絕不飢餓；信我的，永不乾渴。」**}
+> ^35^\jesus{\textbf{「我就是生命的糧。到我這裏來的，絕不飢餓；信我的，永不乾渴。」}}
 
 > \jesus{^44^「若不是差我來的父吸引人，沒有人能到我這裏來；到我這裏來的，在末日我要使他復活。」}
 
-> \jesus{^48^「我就是生命的糧。^49^你們的祖宗在曠野吃過嗎哪，還是死了。^50^這是從天上降下來的糧，讓人吃了不死。^51^**我是從天上降下來的生命的糧；人若吃這糧，必永遠活著。我所要賜的糧就是我的肉，是為世人的生命賜的。**」}
+> \jesus{^48^「我就是生命的糧。^49^你們的祖宗在曠野吃過嗎哪，還是死了。^50^這是從天上降下來的糧，讓人吃了不死。^51^\textbf{我是從天上降下來的生命的糧；人若吃這糧，必永遠活著。我所要賜的糧就是我的肉，是為世人的生命賜的。}」}
 
 > ^53^耶穌對他們說：\jesus{「我實實在在地告訴你們，你們若不吃人子的肉，不喝人子的血，在你們裏面就沒有生命。^54^吃我肉、喝我血的人就有永生，在末日我要使他復活。^55^我的肉真是可吃的，我的血真是可喝的。^56^吃我肉、喝我血的人常在我裏面，我也常在他裏面。」}
 
@@ -51,7 +51,7 @@ publisher: 三書精讀出版系統
 
 ### English — NASB (New American Standard Bible)
 
-> ^35^Jesus said to them, \jesus{**"I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."**}
+> ^35^Jesus said to them, \jesus{\textbf{"I am the bread of life; whoever comes to me shall not hunger, and whoever believes in me shall never thirst."}}
 
 > \jesus{^44^"No one can come to me unless the Father who sent me draws him. And I will raise him up on the last day."}
 

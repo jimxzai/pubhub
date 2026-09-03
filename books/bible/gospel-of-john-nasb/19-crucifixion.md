@@ -49,7 +49,7 @@ publisher: 三書精讀出版系統
 
 > ^28^這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，他說：\jesus{「我渴了。」}
 
-> ^30^耶穌嘗了那醋，說：\jesus{**「成了！」**}便低下頭，把靈魂交付神了。
+> ^30^耶穌嘗了那醋，說：\jesus{\textbf{「成了！」}}便低下頭，把靈魂交付神了。
 
 > ^34^然而有一個士兵拿槍扎他的肋旁，立刻有血和水流出來。
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^19^Pilate also wrote an inscription and put it on the cross. It read, **"Jesus of Nazareth, the King of the Jews."**
 
-> ^30^When Jesus had received the sour wine, he said, \jesus{**"It is finished,"**} and he bowed his head and gave up his spirit.
+> ^30^When Jesus had received the sour wine, he said, \jesus{\textbf{"It is finished,"}} and he bowed his head and gave up his spirit.
 
 ---
 
