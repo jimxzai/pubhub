@@ -17,7 +17,12 @@ import re, sys, pathlib
 
 THRESHOLD = 72
 TARGET = 84          # total dash budget, comfortably past the threshold
-WORD_STUDY = {4: [22, 22, 14, 42], 5: [22, 22, 14, 10, 30]}
+# 4/5-col: 希臘文|音譯|意義|經文|註解 (Greek Word Study, e.g. gospel-of-john).
+# 6-col: 希伯來文|音譯|Strong's|意義|經文|註解 (Job's Hebrew tables that keep
+# Strong's as its own column instead of folding it into 經文) — 註解 still
+# gets the largest share since it holds the longest prose, and Strong's gets
+# just enough to hold an unbreakable "Strong's" header / "H1234" cell.
+WORD_STUDY = {4: [22, 22, 14, 42], 5: [22, 22, 14, 10, 30], 6: [14, 14, 10, 12, 10, 24]}
 
 SEP = re.compile(r'^\|(?:\s*:?-{2,}:?\s*\|)+$')
 
@@ -35,7 +40,7 @@ def rewrite(path):
             continue
         cells = [c for c in line.strip().split("|")[1:-1]]
         header = lines[i-1] if i else ""
-        w = widths(len(cells), "希臘文" in header)
+        w = widths(len(cells), "希臘文" in header or "希伯來文" in header)
         out = []
         for cell, n in zip(cells, w):
             c = cell.strip()

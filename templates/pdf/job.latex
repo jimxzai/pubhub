@@ -1,0 +1,885 @@
+% PubHub Job Deep Study Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies
+% Requires XeLaTeX for CJK support
+% Series identity: Ash/Storm/Dawn palette — the ash heap where Job sits (2:8),
+% the whirlwind from which the LORD answers (38:1), and the dawn of restoration
+% (42章). Deliberately distinct from Isaiah's Throne/Coal and Acts's Flame/Ember.
+%
+% Base: adapted from templates/pdf/acts.latex (2026-08-31 editorial-pass
+% structure: secnumdepth/tocdepth, chaptermark without an English "Chapter N."
+% prefix, table/quote machinery) with the Hebrew-text handling, hyperxmp PDF
+% metadata block, and microtype protrusion settings carried over from
+% templates/pdf/isaiah.latex, whose Word Study sections are the closest
+% precedent for this book's own heavy Hebrew use.
+%
+% NOTE on font bug fix (see .claude/skills/eat-bible/SKILL.md "Gotchas"):
+% BoldFont=<Family> Bold pointing at a real separate bold font file silently
+% weakens/flattens \textbf{} for CJK text containing full-width punctuation
+% (：。), with zero warnings. Every font declaration below uses
+% BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
+
+% openright (not openany): every chapter opens on a recto (odd) page, the
+% binding convention for a printed book. It costs a handful of blank versos;
+% the copyright page declares this a printed 贈閱版, so print convention wins
+% over saving screen pages. Switch back to openany for a screen-only edition.
+\documentclass[11pt,openright]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+% CJK-safe monospace — never Menlo (zero CJK glyphs, silently renders blank boxes)
+\setmonofont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+
+%% Hebrew (and Greek, for occasional NT cross-references — e.g. James 5:11's
+%% "patience of Job") font support — auto-switch for Unicode blocks. Job's
+%% Word Study sections use heavy pointed Hebrew (איוב, תָּם וְיָשָׁר, the divine
+%% speeches' vocabulary in 38-41章), so both fixes below are load-bearing here,
+%% not just in principle.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge — a
+% pure legibility defect that produces zero warnings and a clean driver.sh run.
+% Same fix, same reasoning, as templates/pdf/isaiah.latex.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Latin runs keep Songti SC's own Latin glyphs — no visible change to upright
+% text — but gain a REAL italic. \setmainfont cannot supply one: its
+% ItalicFont is Kaiti SC, a Chinese brush face whose Latin glyphs are UPRIGHT,
+% so every italicised commentary title in this book would otherwise render
+% as roman with zero warnings.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek" is a class GROUP, not a block — the block is GreekAndCoptic. Feeding
+%% a group name (or a name that doesn't exist) to the 3-arg form compiles fine
+%% and does nothing, so basic Greek/Hebrew would silently fall back to
+%% Songti SC's own glyphs.
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a later
+%% declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Symptom: a Greek or Hebrew run whose PRECEDING character is CJK or
+%% full-width punctuation (：、。） silently does not switch font.
+%%
+%% FIX: \setTransitionTo sets the entering direction ONLY, so nothing can
+%% clobber anything and declaration order stops mattering.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which drops
+%% \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block this book actually contains (Hebrew Word Study boxes,
+%% occasional Greek cross-references, CJK body text, full-width punctuation).
+%% Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+% LatinExtendedAdditional -> \ucTranslitRun is set further below, near the
+% other transliteration-diacritic fixes; \ucLatinRun (Songti SC) lacks these
+% glyphs entirely, see that comment for why.
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (ḥesed U+1E25 "LatinExtendedAdditional",
+%% tsade ṣ U+1E63 "LatinExtendedAdditional", ʿayin's modifier letter U+02BF
+%% "SpacingModifierLetters") used throughout the Word Study sections.
+%%
+%% THE REAL BUG (found the hard way): ucharclasses' \XeTeXinterchartoks fires
+%% on a character's Unicode class as XeTeX's own primitive lexer processes it,
+%% which is NOT the same thing as, and fires AFTER, ordinary TeX font
+%% selection — so it overrides ANY manual font switch for a block that has a
+%% registered transition, including one from inside an explicit
+%% `{\somefont ...}` group, and even for a character produced indirectly via
+%% \symbol{<codepoint>} rather than typed literally. A \newunicodechar
+%% attempt and a manual `{\translitfont ...}`-wrapping attempt both failed
+%% against this for exactly that reason — there is no overriding
+%% ucharclasses per-character from inside its own mapped blocks. The only
+%% real fix is to make the BLOCK'S OWN mapping point at a font that has the
+%% glyphs. IPAExtensions (used elsewhere in this book's Hebrew vowel-pointing
+%% discussion) already worked fine going to \ucCJKRun and is left alone.
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}[
+  BoldFont=Kaiti SC,
+  BoldFeatures={FakeBold=1.8}
+]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Job identity: ash heap → whirlwind → dawn of restoration
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterAsh}{RGB}{95,88,80}         % Ash/dust — 2:8 ("sat among the
+                                                 % ashes"), 42:6 ("repent in dust
+                                                 % and ashes") — replaces
+                                                 % Acts's ChapterFlame / Isaiah's
+                                                 % ThroneCrimson everywhere
+                                                 % structural: chapter titles,
+                                                 % headers, rules
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared, unchanged)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary (series-shared, unchanged)
+
+% Cool accent — the whirlwind (38:1), the LORD's own answer
+\definecolor{StormTeal}{RGB}{40,95,100}
+
+% Warm accent — the dawn of restoration (42章); also "when the morning stars
+% sang together" (38:7)
+\definecolor{DawnGold}{RGB}{215,155,60}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{HebrewBg}{RGB}{253,247,240}        % Warm cream for Hebrew word studies
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Job is not a Gospel: there is no "red letter" convention to carry over from
+% Acts's \jesus{} macro. God's speeches (38-41章) are set in the ordinary body
+% style, distinguished by heading and context alone, not by a dedicated color
+% macro.
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+% Micro-typography for the Latin/English runs: character protrusion pulls
+% punctuation and light letterforms slightly into the margin so the right edge
+% reads optically straight. expansion=false deliberately — font expansion
+% re-renders glyphs at scaled widths, which xdvipdfmx applies unevenly to the
+% CJK TrueType faces; protrusion alone is the safe half and is where most of
+% the visible gain is. Same setting as templates/pdf/isaiah.latex, verified
+% against this exact font stack (Songti SC + FakeBold + Times New Roman Hebrew).
+\usepackage[protrusion=true,expansion=false]{microtype}
+
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterAsh,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={約伯記逐章研讀：從灰塵中的哀哭到旋風中的回答，從試煉到恢復},
+  pdfkeywords={約伯記, Job, 苦難, 旋風, 恢復, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long 註解 cells from wrapping to a few characters per line (same fix as
+% templates/pdf/isaiah.latex and templates/pdf/gospel-of-luke.latex).
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+% \cleardoublepage's inserted blank verso must be truly blank. fancyhdr's
+% \pagestyle{fancy} otherwise prints the folio on it, so an openright blank
+% came out bearing a lone page number — the one thing a blank leaf must not
+% carry. Same patch as templates/pdf/isaiah.latex.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+% Clean running heads: raw chapter/section title only, no "Chapter N." auto-label.
+% Kept in parity with templates/pdf/acts.latex's 2026-08-31 pass: secnumdepth
+% is set here (in the preamble, alongside the chapter styling it governs);
+% tocdepth is set later, immediately before \tableofcontents — see that block
+% below for why the split placement matters.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\setcounter{secnumdepth}{-1}
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterAsh} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterAsh} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterAsh} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterAsh}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% COVER ART PAGE — three concentric zones tracing the book's own
+%% movement: the ash heap (2:8) at the center, the whirlwind (38:1)
+%% around it, the dawn of restoration (42章) at the rim. Gold-bordered,
+%% matching series palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterAsh, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[DawnGold]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterAsh} Three Books Deep Reading \textbullet\ Job}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 約伯記深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 從灰塵到黎明 \textperiodcentered\ From Dust to Dawn}
+
+\vspace{0.30cm}
+
+% ===== THREE CONCENTRIC ZONES: ASH HEAP / WHIRLWIND / DAWN =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Outer zone — dawn of restoration (42章)
+  \fill[DawnGold, opacity=0.16] (0,0.1) circle (1.65);
+  \draw[DawnGold, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
+  % Middle zone — the whirlwind (38:1)
+  \fill[StormTeal, opacity=0.14] (0,0.1) circle (1.15);
+  \draw[StormTeal, line width=1.0pt, opacity=0.85] (0,0.1) circle (1.15);
+  % Inner zone — the ash heap (2:8)
+  \fill[ChapterAsh, opacity=0.22] (0,0.1) circle (0.55);
+  \draw[ChapterAsh, line width=1.0pt, opacity=0.9] (0,0.1) circle (0.55);
+  \node[font=\tiny,color=ChapterAsh] at (0,-0.65) {灰塵中};
+  \node[font=\tiny,color=StormTeal] at (0,-1.28) {旋風中};
+  \node[font=\tiny,color=DawnGold!70!black]  at (0,-1.9) {黎明中};
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterAsh}\kaiti\selectfont 黎明}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Dawn}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 約伯記研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Book of Job}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterAsh} תָּם וְיָשָׁר}\quad
+{\footnotesize\scshape\color{CommentaryBrown} “tam v'yashar”}\quad
+{\footnotesize\bfseries\color{StormTeal} 完全正直}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{StormTeal}\kaiti\selectfont
+「那時，耶和華從旋風中回答約伯說：」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+“Then the LORD answered Job out of the whirlwind and said,”}\\[0.10em]
+{\scriptsize\color{ChapterAsh} 約伯記 38:1 \textperiodcentered\ Job 38:1}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on Job's own resolution
+%% verse (42:5-6), the same role Acts 1:8 and Isaiah 12:2-3 play in
+%% the sister volumes.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterAsh} 全書一句話 \textperiodcentered\ The Whole Book in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+我從前風聞有你，現在親眼\textbf{\color{DawnGold!80!black}看見}你。\\
+因此我厭惡自己，在塵土和爐灰中\textbf{\color{DawnGold!80!black}懊悔}。\\[0.5em]
+\footnotesize\itshape
+I have heard of You by the hearing of the ear;\\
+but now my eye \textbf{sees} You;\\
+therefore I retract, and I \textbf{repent} in dust and ashes.\\[0.4em]
+\small\color{ChapterAsh} 約伯記 42:5-6 \textperiodcentered\ Job 42:5-6
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 四十二章 \textperiodcentered\ 七卷 \textperiodcentered\ 一句耶和華從旋風中的回答\\
+\textit{Forty-two chapters \textperiodcentered\ seven volumes \textperiodcentered\ one answer from the whirlwind}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{2.8cm}p{2.4cm}p{6.9cm}@{}}
+\toprule
+\textbf{段落} & \textbf{章節} & \textbf{在全書的展開} \\
+\midrule
+苦難的敘事框架 & 1-2, 42章 & 公義人毫無緣由地受試煉，最終滿被恢復——散文體的序幕與結局，包住全書 \\
+三輪人的辯論 & 3-37章 & 約伯與三友三輪對話，繼而以利戶發言——詩體，激辯受苦的意義究竟何在 \\
+耶和華親自回答 & 38-42章 & 神從旋風中回答，卻不直接解釋苦難的原因，而是以創造的智慧使約伯俯伏、看見 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterAsh} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一篇苦難的答案手冊，是來看一位公義人如何在無解之處仍然堅持認識神。\\
+若你讀完四十二章卻只記得「約伯的忍耐」——請從頭再讀，\\
+這次留意：神從未向約伯解釋苦難的原因，卻讓約伯親眼看見了祂自己。\\[0.5em]
+\textit{\footnotesize
+You are not reading a manual of answers to suffering — you are watching a
+righteous man hold on to the knowledge of God where no answer is given.\\
+If after forty-two chapters you remember only "the patience of Job," read it again.\\
+This time notice: the LORD never explains the reason for the suffering — He lets
+Job see Him.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterAsh} 黎明}\\[0.2cm]
+{\large\itshape\color{LightGray} Dawn}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 約伯記研讀}\\[0.15cm]
+{\normalsize A Study of the Book of Job}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+我從前風聞有你，現在親眼看見你。\\
+因此我厭惡自己，在塵土和爐灰中懊悔。\\[0.15em]
+\footnotesize I have heard of You by the hearing of the ear; but now my eye sees You;\\
+therefore I retract, and I repent in dust and ashes. — Job 42:5-6
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Seven-volume structure diagram (TikZ drawn) — the book's own progression
+% from prologue, through three cycles of dialogue and Elihu, to the LORD's
+% answer and restoration.
+% No picture-level `scale`: node sizes (minimum width/height) are NOT affected
+% by TikZ's `scale` key unless `transform shape` is also given, while node
+% POSITIONS always are — mixing the two without `transform shape` silently
+% compresses the coordinate grid while the box borders stay full size, so
+% boxes spaced correctly on paper collide and clip their own text with zero
+% warning. Coordinates below are plain centimetres instead, sized directly.
+\begin{tikzpicture}[every node/.style={align=center}]
+  \node[font=\footnotesize\bfseries,color=ChapterAsh] at (0,2.9) {全書七卷 Seven Volumes, 42 Chapters};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v1) at (-3.825,2.2) {卷一 \textperiodcentered\ 序幕};
+  \node[font=\tiny,color=LightGray] at (-3.825,1.55) {1-2};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v2) at (-1.275,2.2) {卷二 \textperiodcentered\ 第一輪};
+  \node[font=\tiny,color=LightGray] at (-1.275,1.55) {3-14};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v3) at (1.275,2.2) {卷三 \textperiodcentered\ 第二輪};
+  \node[font=\tiny,color=LightGray] at (1.275,1.55) {15-21};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v4) at (3.825,2.2) {卷四 \textperiodcentered\ 智慧頌};
+  \node[font=\tiny,color=LightGray] at (3.825,1.55) {22-28};
+
+  \node[draw=StormTeal,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v5) at (-2.55,0.5) {卷五 \textperiodcentered\ 終極申辯};
+  \node[font=\tiny,color=LightGray] at (-2.55,-0.15) {29-31};
+
+  \node[draw=StormTeal,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v6) at (0,0.5) {卷六 \textperiodcentered\ 以利戶};
+  \node[font=\tiny,color=LightGray] at (0,-0.15) {32-37};
+
+  \node[draw=DawnGold!70!black,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v7) at (2.55,0.5) {卷七 \textperiodcentered\ 神的回答};
+  \node[font=\tiny,color=LightGray] at (2.55,-0.15) {38-42};
+
+  \draw[->,color=ScriptureGold,thick] (v1.east) -- (v2.west);
+  \draw[->,color=ScriptureGold,thick] (v2.east) -- (v3.west);
+  \draw[->,color=ScriptureGold,thick] (v3.east) -- (v4.west);
+  \draw[->,color=ScriptureGold,thick] (v4.south) -- ++(0,-0.5) -| (v5.north);
+  \draw[->,color=ScriptureGold,thick] (v5.east) -- (v6.west);
+  \draw[->,color=ScriptureGold,thick] (v6.east) -- (v7.west);
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+% Framing quotation (Job 1:1, describing Job before the trial begins)
+{\footnotesize\color{TextGray} 烏斯地有一個人名叫約伯；那人完全正直，敬畏神，遠離惡事（伯 1:1）}
+
+\vfill
+
+% Equation and vine
+{\normalsize\color{ScriptureGold}\bfseries 公義 $$\neq$$ 免於苦難；認識神 $$>$$ 明白苦難的原因}\\[0.1cm]
+{\footnotesize\color{LightGray} Righteousness $$\neq$$ exemption from suffering; knowing God $$>$$ understanding why (Job 38-42)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{約伯記研讀 / Job Deep Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 老弟兄查經法 (Elder Wong's Bible Study Method)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Analyzed Bible: The Book of Job (1909)\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\setcounter{tocdepth}{0}
+{\color{ChapterAsh}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% CLOSING PAGE — "從塵土到黎明"
+%% Job's own back matter (99-restoration-and-hope.md, 999-afterword.md) is
+%% supplied as ordinary markdown chapters via the body variable above; this
+%% page is the series' decorative bookend (matching Acts's and Isaiah's own
+%% closing pages), not a substitute for that content.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 從塵土到黎明}\\[0.1cm]
+{\normalsize\itshape\color{LightGray} From Dust to Dawn}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterAsh} 全書七卷 \;\; Seven Volumes}\\[0.3em]
+{\footnotesize\color{TextGray}
+序幕：公義人的試煉 (1-2) \textbullet\ 第一輪對話 (3-14) \textbullet\ 第二輪對話 (15-21)\\
+第三輪對話與智慧頌 (22-28) \textbullet\ 約伯的終極申辯 (29-31) \textbullet\ 以利戶的講論 (32-37) \textbullet\ 耶和華的回答與結局 (38-42)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「我從前風聞有你，現在親眼看見你。」}\\[0.15cm]
+{\scriptsize\color{ChapterAsh} — 約伯記 42:5}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}
