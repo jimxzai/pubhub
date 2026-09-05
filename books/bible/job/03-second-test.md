@@ -122,8 +122,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
-> 不應作為原文逐字引用轉引。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 教父時期
 
@@ -155,7 +156,25 @@ publisher: 三書精讀出版系統
 
 ### 摩根 (G. Campbell Morgan)
 
-摩根將2:1-6標題為「第二輪爭議」，指出：「那莊嚴的會議再度聚集，撒但也再度在場。至高者對祂僕人的評價與先前相同，卻在此刻加上一句話，宣告約伯在先前的爭戰中已經得勝。」隨後撒但把控告升級，摩根形容約伯此刻的光景：「那仇敵出去行他可怕的工作，我們立刻看見這位屬神之人，在難以言喻的肉體痛苦中，內在的人格也隨之被削弱」。論到妻子的介入，摩根措辭審慎：「此刻又加上一項新的、更微妙的攻擊——他妻子的『同情』。這裡『同情』一詞的使用，帶著十分的謹慎」，並指出約伯的回答彰顯了「對神不動搖的忠誠」。論到三友七日的靜默，摩根寫下這段廣為傳頌的評語：「七日七夜，他們在他面前坐著，一言不發。在極度的憂傷中，真摯的友誼，總是藉沉默、而非言語，表達得更為完全。」
+摩根將2:1-6標題為「第二輪爭議」（The Second Cycle — The Council in Heaven）。
+
+> "Again the solemn council met, and again Satan was present. The Most High uttered the same estimate of His servant as before; but adding a word now which claimed victory for His servant Job in the conflict which had taken place."
+>
+> 「那莊嚴的會議再度聚集，撒但也再度在場。至高者對祂僕人的評價與先前相同，卻在此刻加上一句話，宣告祂的僕人約伯在先前的爭戰中已經得勝。」
+
+> "The adversary went forth to his terrible work, and we are immediately presented with the awful picture of the man of God weakened in his own personality by the unutterable misery of physical affliction."
+>
+> 「那仇敵出去行他可怕的工作，我們立刻看見這幅可怕的圖畫——這位屬神的人，在難以言喻的肉體痛苦中，連他自己的人格也隨之被削弱。」
+
+> "the new and subtle attack of the sympathy of his wife. The word sympathy is used here with all care... His answer was characterized by tenderness towards her, and yet by unswerving loyalty to God."
+>
+> 「一項新的、更微妙的攻擊——他妻子的『同情』。這裏『同情』一詞的使用，帶著十分的謹慎……他的回答，一面對她滿有溫柔，一面卻對神持守不移的忠誠。」
+
+論到三友七日的靜默，摩根寫下這段廣為傳頌的評語：
+
+> "The reality of their sympathy is most remarkably demonstrated by the fact that for seven days and nights they sat in his presence in unbroken silence. In overwhelming sorrow, true friendship invariably expresses itself more perfectly by silence than by speech."
+>
+> 「他們同情的真實，最顯著地見證於這件事：七日七夜，他們在他面前坐著，不發一言。在極度的憂傷中，真摯的友誼，總是藉沉默、而非言語，表達得更為完全。」
 
 > 出處：G. Campbell Morgan, *The Analyzed Bible*, vol. 5 (1907)，"THE SECOND CYCLE"，pp.24-31
 
@@ -192,6 +211,8 @@ publisher: 三書精讀出版系統
 **追問**：「三友七日不說一句話——如果換作是我們今天遇見一個正在經歷巨大痛苦的朋友，我們願不願意也『浪費』七天，只是單純地陪伴，不急著給建議、不急著解釋神為甚麼容許這事發生？」——這一問直指今天教會文化最常見的軟弱：急於用「屬靈的答案」填補沉默，卻很少學會單純地、長時間地與哭泣的人同哭。
 
 **落到自己**：「我上一次因極大的痛苦而口出試探性的話，是甚麼時候？當時有沒有一個像約伯那樣的人，用溫和卻堅定的話把我扶回來？」
+
+**你看見耶穌了嗎**：約伯坐在爐灰中，拿瓦片刮身體，這是全書最貼近肉身痛楚的一幕，卻還不是最深的一幕。真正「被藐視，被人厭棄，多受痛苦，常經憂患」（賽53:3），親自「擔當我們的憂患，背負我們的痛苦」（賽53:4）的那一位，是後來被釘十架的基督。約伯的妻子勸他棄掉神、死了吧；曠野裡的試探者，也曾用同一種聲音試探耶穌：「你若是神的兒子，就跳下去吧」（太4:6）。三友七日無言的同坐，是不是也讓你想起那位不曾轉頭離開受苦之人的主？
 
 ---
 

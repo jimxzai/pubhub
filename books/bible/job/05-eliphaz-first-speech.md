@@ -119,36 +119,53 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
-> 不應作為原文逐字引用轉引。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 摩根 (G. Campbell Morgan)
 
-**有禮貌卻無溫度的開場**：摩根形容以利法的態度「有禮貌，卻缺乏溫暖」（"characterized by courtesy, but it lacks warmth"）。他以一句近乎道歉的問話開場，承認開口不易，卻仍堅持非說不可；他驚訝於眼前的光景——那位素來教導、扶持、堅固別人的人，如今在自己的災難中竟顯得軟弱怯懦（"the man who had instructed and strengthened and upheld and confirmed others in hours of trouble, was weak and craven in the midst of his own calamities"）。
+摩根形容以利法開場的態度：
 
-**因果報應的核心命題**：摩根指出以利法論證的骨幹是：「滅亡的人並非無辜；正直的人從未被剪除」（"Those who perish are not innocent; the upright are never cut off"），並解釋其邏輯：「苦難是神對罪惡的懲罰，是必先有所撒種、才會有的收成」（"Suffering is God's punishment of wickedness, a harvest for which there must have been a previous sowing"）。
+> "characterized by courtesy, but it lacks warmth... the man who had instructed and strengthened and upheld and confirmed others in hours of trouble, was weak and craven in the midst of his own calamities."
+>
+> 「有禮貌，卻缺乏溫暖……那位素來教導、扶持、堅固別人的人，如今在自己的災難中竟顯得軟弱怯懦。」
 
-**夜間異象的核心信息**：摩根描述以利法在「沉睡」中經歷了一場屬靈遭遇，感知到一個「靈」或「氣息」的臨在，並聽見一個聲音；這場異象「真正的核心信息，是神的純全，與人的罪和虧欠」（"The great message was that of the purity of God, and the sin and failure of man"）。摩根總評以利法「虔誠而懇切」（"devout and earnest"），但他根本的局限，在於把自己的一般性哲理過於僵化地套用在約伯的具體處境上。
+論以利法論證的骨幹：
+
+> "Those who perish are not innocent; the upright are never cut off... Suffering is God's punishment of wickedness, a harvest for which there must have been a previous sowing."
+>
+> 「滅亡的人並非無辜；正直的人從未被剪除……苦難是神對罪惡的懲罰，是必先有所撒種、才會有的收成。」
+
+論夜間異象：
+
+> "The great message was that of the purity of God, and the sin and failure of man."
+>
+> 「這場異象真正的核心信息，是神的純全，與人的罪和虧欠。」——摩根總評以利法「虔誠而懇切」（devout and earnest），但他根本的局限，在於把自己的一般性哲理過於僵化地套用在約伯的具體處境上。
 
 > 出處：G. Campbell Morgan, *The Analyzed Bible*, vol. 5（論約伯記4-5章，以利法首篇講論）
 
 ### 馬太·亨利 (Matthew Henry)
 
-**論4:7「請你追想：無辜的人有誰滅亡？」**：亨利指出以利法在此訴諸自己的觀察經驗，要約伯回想是否見過無辜人真正滅亡的例子；他也指出，這條原則若用在永恆的滅亡上或許成立，但用在今生的災禍上就站不住腳，因為亞伯、義人雅各等人的遭遇正是反例。
+亨利論4:7「請你追想：無辜的人有誰滅亡？」，指出以利法在此訴諸自己的觀察經驗，要約伯回想是否見過無辜人真正滅亡的例子；他也指出，這條原則若用在永恆的滅亡上或許成立，但用在今生的災禍上就站不住腳，因為亞伯、義人雅各等人的遭遇正是反例。論夜間異象（4:12-21），亨利強調，以利法整個論證——約伯的苦難證明了他的罪惡——根本上是站不住的；這異象所責備的其實是「發怨言」，而不是定人品格的罪，而且僅憑一件遭遇就論斷一個人的道德全貌，本身就違反了正確評判人的原則。
 
-**論夜間異象（4:12-21）**：亨利描述以利法如何「暗暗」領受這信息——正當夜間異象臨到、「沉睡」籠罩世人的時候。他特別留意這屬靈遭遇伴隨的恐懼：「懼怕臨到」他，他的「骨頭」戰慄。信息的核心質問是：必死的人豈能比神更公義？
+> "Man is born in sin, and therefore born to trouble. Even those that are born to honour and estate are yet born to trouble in the flesh."
+>
+> 「人生在罪中，所以生來就要遇患難。就連那生來享尊榮、有產業的人，也一樣在肉身裏生來要遇患難。」（論5:7）
 
-**總評**：亨利強調，以利法的整個論證——約伯的苦難證明了他的罪惡——根本上是站不住的；他指出，這異象所責備的其實是「發怨言」，而不是定人品格的罪，而且僅憑一件遭遇就論斷一個人的道德全貌，本身就違反了正確評判人的原則。
+> "We must by patience refer ourselves and our cause to him: having spread it before him, I would leave it with him; having laid it at his feet, I would lodge it in his hand."
+>
+> 「我們當存忍耐，把自己和我們的案件都交託給他；既將它陳明在他面前，我就要把它留在他那裏；既將它放在他腳前，我就要把它交在他手中。」（論5:8）
 
-**論5:7「人生在世必遇患難」**：「人生在罪中，所以生來就要遇患難。就連那生來享尊榮、有產業的人，也一樣在肉身裡生來要遇患難。」("Man is born in sin, and therefore born to trouble. Even those that are born to honour and estate are yet born to trouble in the flesh.")
-
-**論5:8「把我的事情託付他」**：「我們當存忍耐，把自己和我們的案件都交託給他；既將它陳明在他面前，我就要把它留在他那裡；既將它放在他腳前，我就要把它交在他手中。」("We must by patience refer ourselves and our cause to him: having spread it before him, I would leave it with him; having laid it at his feet, I would lodge it in his hand.")
-
-**論5:17-19「神所懲治的人是有福的」**：「善人縱然受苦，仍是有福的……不但如此，他正因受苦而有福；管教正是他為兒子身分的憑據，也是他成聖的途徑。」("A good man is happy though he be afflicted...Nay, he is happy because he is afflicted; correction is an evidence of his sonship and a means of his sanctification.")論及六次七次搭救的應許：「以往的搭救，在神那裡，不像在人那裡一樣，成了不再搭救的藉口，反倒是將來搭救的憑據。」("Former deliverances are not, as among men, excuses from further deliverances, but earnests of them.")
+> "A good man is happy though he be afflicted...Nay, he is happy because he is afflicted; correction is an evidence of his sonship and a means of his sanctification... Former deliverances are not, as among men, excuses from further deliverances, but earnests of them."
+>
+> 「善人縱然受苦，仍是有福的……不但如此，他正因受苦而有福；管教正是他為兒子身分的憑據，也是他成聖的途徑……以往的搭救，在神那裏，不像在人那裏一樣，成了不再搭救的藉口，反倒是將來搭救的憑據。」（論5:17-19）
 
 > 出處：Matthew Henry, *Commentary on the Whole Bible*, on Job 4-5（CCEL, mhc3.Job.v-vi）
 
-**Gregory the Great（貴格利一世）**：本章對應內容落於《論約伯記的倫理》（*Morals on the Book of Job*）第五卷（Book V，涵蓋伯3:20下半至4章全、5:1-2），惟本次寫作過程中未能取得該卷正文的可核校原文（僅取得目錄條目），故本章從缺，不作引用。
+### 貴格利一世 (Gregory the Great)
+
+> **關於貴格利一世**：本章對應內容落於《約伯記倫理講疏》（*Morals on the Book of Job*）第五卷（Book V，涵蓋伯3:20下半至4章全、5:1-2），惟寫作過程中未能取得該卷正文的可核校原文（僅取得目錄條目），故本章從缺，不作引用，亦不揣測其立場。
 
 ---
 
@@ -189,6 +206,8 @@ publisher: 三書精讀出版系統
 - **早晨**：主啊，求你不要讓我把對你的認識，變成論斷別人的工具。
 - **晚上**：今天我說的話裡，有沒有一句是「神學上正確、卻沒有帶著愛」說出口的？
 - **一個行動**：去找一位正在受苦、卻找不到「合理解釋」的人，今天只陪伴，不解釋。
+
+**你看見耶穌了嗎**：以利法說中了一句全宇宙最終極的問題——沒有一個必死的人能在神面前算為義——卻用錯了對象，也用錯了心。這句話要等到那位「潔淨」自己甘願成為必死之人、親自替人成就義的主出現，才真正找到答案。你今天讀這一章，若也聽見同一句真理，求神不要讓你像以利法一樣把它變成論斷別人的刀，而是先讓它把你自己帶到十字架前。
 
 ---
 

@@ -119,8 +119,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
-> 不應作為原文逐字引用轉引。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 教父時期
 
@@ -148,7 +149,23 @@ publisher: 三書精讀出版系統
 
 ### 摩根 (G. Campbell Morgan)
 
-摩根將1:6-12標題為「天上的爭議」（Council in Heaven），指出這是「天與地爭議的場景，論到地上的一個人；神在爭辯中為一個人辯護，抵擋撒但」。摩根特別點出撒但控告的實質：「這回答實際上是宣告，約伯對神的態度純粹出於自私」。至於1:20-22，摩根標題為「地上的爭戰」（Conflict on Earth），描寫約伯的反應時說：「這裡沒有半點斯多亞式的假裝堅忍。他確實極深地受了創傷，並用一切外在的哀悼記號表達出來」——然而，「就在這極度的災難之中，他卻轉向生命中最高的舉動，俯伏在敬拜裡」。摩根總結：約伯「在災殃中，一如在祝福中，同樣察覺出耶和華的治理；於是從那極深的災難中央，他向神獻上了讚美的祭」。
+摩根將1:6-12標題為「天上的爭議」（The Council in Heaven），將1:13-22標題為「地上的爭戰」（Conflict on Earth）。
+
+> "Heaven is seen in argument with hell about earth. God is heard speaking in defence of a man against Satan."
+>
+> 「天在與地獄爭議，論到地上的一個人；神在爭辯中為這人辯護，抵擋撒但。」
+
+> "That reply practically declared that the attitude of Job toward God was based on pure selfishness."
+>
+> 「那回答實際上是宣告：約伯對神的態度，純粹是出於自私。」——摩根指出，撒但控告的實質正在於此：他不否認約伯敬畏神的事實，卻要否定這敬畏的動機。
+
+> "There was no affectation of stoicism. He was profoundly afflicted, and manifested it by all the outward signs of mourning. In the midst of this, however, he turned again to the highest act of life, and bowed in reverential worship."
+>
+> 「這裏沒有半點斯多亞式的故作堅忍。他確實深深受創，並以一切外在的哀悼記號表達出來；然而就在這一切之中，他卻轉向生命中最高的舉動，俯伏敬拜。」
+
+> "Discerning the government of Jehovah in bane, as well as in blessing, he lifted to Him, out of the midst of dire calamity, the sacrifice of praise."
+>
+> 「他在災殃中，一如在祝福中，同樣察覺出耶和華的治理；於是從那極深的災難中央，向祂獻上了讚美的祭。」
 
 > 出處：G. Campbell Morgan, *The Analyzed Bible*, vol. 5 (1907)，"THE DRAMA — A. Controversy between Heaven and Hell"，pp.20-23
 
@@ -182,6 +199,8 @@ publisher: 三書精讀出版系統
 **追問**：「約伯撕裂外袍、剃了頭，這是壓抑情緒、還是表達情緒？」——這是近東文化裡最強烈的哀慟表達，約伯毫不掩飾自己的悲痛，卻在悲痛中「伏在地上下拜」。真正的信心不是不流淚，乃是流著淚仍願下拜。
 
 **落到自己**：「賞賜的是耶和華，收取的也是耶和華」——如果今天我要失去的，不是約伯失去的牲畜與兒女，而是我自己最看重的某一樣東西，我口裡最先冒出來的，會是抱怨，還是稱頌？
+
+**你看見耶穌了嗎**：約伯撕裂外袍、伏地下拜，說出「賞賜的是耶和華，收取的也是耶和華」（1:21），這句話還只是預告。真正把這句敬拜說到盡頭、說進最深黑暗裡的，是客西馬尼園那句「不要照我的意思，只要照你的意思」（太26:39）——那一位在十架上失去一切、甚至失去與父同在感的至暗一刻，卻仍順服到底的主。約伯回答了撒但「豈是無故」的控告，基督卻用祂的死，把這控告徹底打敗。你所信的，禁不禁得起「若神把一切拿走」這句拷問？
 
 ---
 

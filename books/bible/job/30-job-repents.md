@@ -121,14 +121,15 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
-> 不應作為原文逐字引用轉引。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 教父時期
 
-**大貴格利 (Gregory the Great)**：
+**貴格利一世 (Gregory the Great)**：
 
-大貴格利在《約伯記倫理講疏》（*Moralia in Job*）卷三十五——全書最後一卷——逐節注解42:1-6，將約伯的回應與亞伯拉罕、摩西、以賽亞、耶利米等人在神面前的相似經歷並列，指出凡真正聽見神說話的人，都會同樣地看清自己的渺小。
+貴格利一世在《約伯記倫理講疏》（*Moralia in Job*）卷三十五——全書最後一卷——逐節注解42:1-6，將約伯的回應與亞伯拉罕、摩西、以賽亞、耶利米等人在神面前的相似經歷並列，指出凡真正聽見神說話的人，都會同樣地看清自己的渺小。
 
 > "By these words he doubtless plainly declares, that as far as sight is superior to hearing, so far does the progress also he had made through suffering differ from that which he was before. And because he had beheld more plainly the light of truth with the eye within, he more clearly discerned and beheld the darkness of his humanity."
 >
@@ -140,7 +141,7 @@ publisher: 三書精讀出版系統
 >
 > — Gregory the Great, *Moralia in Job*, Book XXXV（論約42:5-6），*Library of the Fathers*, vol. 31（Oxford, 1847）
 
-（附註：大貴格利所據的武加大譯本，42:6對應的拉丁動詞是 *reprehendo*「責備、反悔」，英譯此處作 "I reproach myself"，與和合本「厭惡自己」、NASB1995「I retract」用詞皆不同——三個翻譯傳統各自捕捉了原文語意光譜的不同側面，恰恰印證了上文〈原文研讀〉所述的翻譯張力。）
+（附註：貴格利一世所據的武加大譯本，42:6對應的拉丁動詞是 *reprehendo*「責備、反悔」，英譯此處作 "I reproach myself"，與和合本「厭惡自己」、NASB1995「I retract」用詞皆不同——三個翻譯傳統各自捕捉了原文語意光譜的不同側面，恰恰印證了上文〈原文研讀〉所述的翻譯張力。）
 
 ### 清教徒時期
 
