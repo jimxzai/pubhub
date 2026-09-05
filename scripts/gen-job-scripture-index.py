@@ -68,6 +68,7 @@ SOURCES = [
     ("00-overview.md",              "卷首·概覽"),
     ("00a-job-position.md",         "卷首·定位"),
     ("00b-suffering-spine.md",      "卷首·骨幹"),
+    ("00c-revelation-order.md",     "卷首·啟示的次序"),
     ("elder-wong-systematic-study.md", "卷首·領受總綱"),
 ] + [(f"{i:02d}", f"第{i}章") for i in range(1, 32)] + [
     ("99-restoration-and-hope.md",  "卷末"),

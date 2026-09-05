@@ -92,7 +92,12 @@ add_front() {
 }
 
 add_volume() {
-    printf '# %s {.unnumbered}\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
+    # %b (not %s) for the description: several volume descriptions carry a
+    # literal \n>\n> to open a second blockquote paragraph (the 啟示的次序
+    # marker). printf only expands escapes inside the FORMAT string, so with
+    # %s those arrive in the markdown as the two characters \ and n and
+    # xelatex then dies on "Undefined control sequence \n".
+    printf '# %s {.unnumbered}\n\n> %b\n' "$1" "$2" >> "$COMBINED_MD"
     if [ -n "$3" ]; then
         printf '\n| %s | %s |\n|---|---|\n' "$3" "$4" >> "$COMBINED_MD"
     fi
@@ -113,11 +118,12 @@ add_front "$INPUT_DIR/000-preface.md"
 # 卷首 · 定位 — orientation: overview, position, spine
 # ============================================================
 add_volume "卷首 · 定位 (Orientation)" \
-    "讀正文之前先讀這幾章：總覽、位置、骨幹。"
+    "讀正文之前先讀這四章：全書地圖、約伯記在正典的位置、約伯這個人的軌跡，以及最要緊的一章——神在這卷書裏按甚麼次序顯明自己。"
 
 add_front "$INPUT_DIR/00-overview.md"
 add_front "$INPUT_DIR/00a-job-position.md"
 add_front "$INPUT_DIR/00b-suffering-spine.md"
+add_front "$INPUT_DIR/00c-revelation-order.md"
 
 # Systematic reception — demote headings one level so it reads as one chapter.
 if [ -f "$STUDY_FILE" ]; then
@@ -138,14 +144,14 @@ fi
 # 的 1-3章／4-14章互相矛盾——讀者會先讀到一張寫著「卷一 1-3章」的表，再翻到一頁
 # 寫著「卷一 1-2章」的分卷扉頁。已改以卷首各檔的分法為準。
 add_volume "卷一 · 序幕與哀歌 (Prologue and Lament) · 1-3章" \
-    "苦難不是從人的罪開始，是從天上的一場對話開始——約伯自己始終不知情；等他開口，先出來的不是答案，是哀歌。"
+    "苦難不是從人的罪開始，是從天上的一場對話開始——約伯自己始終不知情；等他開口，先出來的不是答案，是哀歌。\n>\n> **啟示的次序·第一步**：神先在天上為約伯說話（1:8、2:3），而約伯永遠聽不見。你的處境不等於神對你的評價。"
 for f in 01-blameless-and-upright.md 02-wager-in-heaven.md 03-second-test.md \
          04-jobs-lament.md; do
     add_chapter "$f"
 done
 
 add_volume "卷二 · 第一輪對話：受苦的無辜 (First Cycle) · 4-14章" \
-    "三個朋友輪流回應——第一輪的邏輯還算克制，卻已埋下日後尖銳的種子。"
+    "三個朋友輪流回應——第一輪的邏輯還算克制，卻已埋下日後尖銳的種子。\n>\n> **啟示的次序·第二步（沉默的開始）**：從這裏起，神三十五章不發一言。約伯在 9:33 伸手要第一樣他那個時代給不出的東西——一位能按手在神與人兩造之間的聽訟者。"
 for f in 05-eliphaz-first-speech.md 06-friends-like-a-brook.md \
          07-bildad-tradition.md 08-job-contends-with-god.md 09-zophar-accusation.md \
          10-wisdom-is-with-me.md; do
@@ -153,33 +159,33 @@ for f in 05-eliphaz-first-speech.md 06-friends-like-a-brook.md \
 done
 
 add_volume "卷三 · 第二輪對話：惡人的結局 (Second Cycle) · 15-21章" \
-    "朋友們的話越說越重，全部收窄成同一個公式：惡人必遭報應——約伯的處境卻怎麼看都不合這個公式。"
+    "朋友們的話越說越重，全部收窄成同一個公式：惡人必遭報應——約伯的處境卻怎麼看都不合這個公式。\n>\n> **啟示的次序·沉默之中**：神仍然不說話。約伯卻在最黑的一刻伸手要第二樣——一位至近的救贖主（19:25）。"
 for f in 11-eliphaz-fate-of-wicked.md 12-miserable-comforters.md 13-bildad-lamp-of-wicked.md \
          14-my-redeemer-lives.md 15-zophar-brief-joy.md 16-why-do-wicked-prosper.md; do
     add_chapter "$f"
 done
 
 add_volume "卷四 · 第三輪對話與智慧頌 (Third Cycle & Hymn to Wisdom) · 22-28章" \
-    "第三輪對話漸漸散開、辯論難以為繼，卻在此處插入一首獨立的智慧頌——人能找到金銀，卻找不到智慧本身。"
+    "第三輪對話漸漸散開、辯論難以為繼，卻在此處插入一首獨立的智慧頌——人能找到金銀，卻找不到智慧本身。\n>\n> **啟示的次序·沉默之中**：28 章先給出答案「敬畏主就是智慧」，但那還只是道理；要等到 42 章，約伯才真正遇見。道理在前，遇見在後，次序不能顛倒。"
 for f in 17-eliphaz-final-accusation.md 18-longing-for-gods-presence.md \
          19-bildad-and-jobs-reply.md 20-hymn-to-wisdom.md; do
     add_chapter "$f"
 done
 
 add_volume "卷五 · 約伯的終極申辯 (Job's Final Defense) · 29-31章" \
-    "約伯回顧從前蒙福的日子，對照如今被輕視的地步，最終立下一連串的誓言，宣告自己的清白。"
+    "約伯回顧從前蒙福的日子，對照如今被輕視的地步，最終立下一連串的誓言，宣告自己的清白。\n>\n> **啟示的次序·沉默的盡頭**：約伯伸手要第三樣——一位肯聽、肯回答的（31:35）。話說到這裏，他把能說的都說盡了。"
 for f in 21-job-former-glory.md 22-job-present-disgrace.md 23-oath-of-innocence.md; do
     add_chapter "$f"
 done
 
 add_volume "卷六 · 以利戶的講論 (Elihu's Speeches) · 32-37章" \
-    "一位年輕人打破沉默——他不站在三友的公式裡，卻先為神的公義辯護，再指向即將來臨的旋風。"
+    "一位年輕人打破沉默——他不站在三友的公式裡，卻先為神的公義辯護，再指向即將來臨的旋風。\n>\n> **啟示的次序·沉默的最後一段**：以利戶話沒說完，神就開口了（38:1）。人的話說盡之處，正是神開口之時。"
 for f in 24-elihu-enters.md 25-elihu-gods-justice.md 26-elihu-gods-greatness.md; do
     add_chapter "$f"
 done
 
 add_volume "卷七 · 耶和華的回答與結局 (The LORD's Answer and Restoration) · 38-42章" \
-    "耶和華終於開口，卻不回答「為什麼」，只是一連串的問題——約伯在問題中看見了祂，苦難也在看見裡得著了出路。"
+    "耶和華終於開口，卻不回答「為什麼」，只是一連串的問題——約伯在問題中看見了祂，苦難也在看見裡得著了出路。\n>\n> **啟示的次序·第三與第四步**：神開口卻只發問——祂換掉了約伯的問題，比回答它更好；末了才是平反（42:7），而且是在約伯不再要求平反之後。先得著神，然後才得著名譽。"
 for f in 27-lord-first-speech-creation.md 28-job-first-response.md \
          29-behemoth-and-leviathan.md 30-job-repents.md 31-restoration.md; do
     add_chapter "$f"
