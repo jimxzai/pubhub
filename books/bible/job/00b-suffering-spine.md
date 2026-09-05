@@ -26,7 +26,7 @@ publisher: 三書精讀出版系統
 
 > **Job 1:21 (NASB 1995)** Naked I came from my mother's womb, And naked I shall return there. The LORD gave and the LORD has taken away. Blessed be the name of the LORD.
 
-七個兒女、全部財產，一日之內盡失——約伯的第一個反應不是質問，是敬拜。緊接著第二輪災難（他自己的健康）之後，他對妻子的回答同樣沒有動搖：
+十個兒女（七子三女，伯 1:2）、全部財產，一日之內盡失——約伯的第一個反應不是質問，是敬拜。緊接著第二輪災難（他自己的健康）之後，他對妻子的回答同樣沒有動搖：
 
 > **伯 2:10**　約伯卻對她說：「你說話像愚頑的婦人一樣。哎！難道我們從神手裏得福，不也受禍嗎？」在這一切的事上，約伯並不以口犯罪。
 

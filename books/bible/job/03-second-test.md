@@ -53,9 +53,9 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^3^The LORD said to Satan, "Have you considered My servant Job? For there is no one like him on the earth, a blameless and upright man fearing God and turning away from evil. And he still holds fast his integrity, although you incited Me against him to ruin him without cause."
+> ^1^Again there was a day when the sons of God came to present themselves before the LORD, and Satan also came among them to present himself before the LORD. ^2^The LORD said to Satan, "Where have you come from?" Then Satan answered the LORD and said, "From roaming about on the earth and walking around on it." ^3^The LORD said to Satan, "Have you considered My servant Job? For there is no one like him on the earth, a blameless and upright man fearing God and turning away from evil. And he still holds fast his integrity, although you incited Me against him to ruin him without cause."
 
-> ^4^Satan answered the LORD and said, "Skin for skin! Yes, all that a man has he will give for his life. ^5^However, put forth Your hand now, and touch his bone and his flesh; he will curse You to Your face." ^6^So the LORD said to Satan, "Behold, he is in your power, only spare his life." ^7^Then Satan went out from the presence of the LORD and smote Job with sore boils from the sole of his foot to the crown of his head.
+> ^4^Satan answered the LORD and said, "Skin for skin! Yes, all that a man has he will give for his life. ^5^However, put forth Your hand now, and touch his bone and his flesh; he will curse You to Your face." ^6^So the LORD said to Satan, "Behold, he is in your power, only spare his life." ^7^Then Satan went out from the presence of the LORD and smote Job with sore boils from the sole of his foot to the crown of his head. ^8^And he took a potsherd to scrape himself while he was sitting among the ashes.
 
 > ^9^Then his wife said to him, "Do you still hold fast your integrity? Curse God and die!" ^10^But he said to her, "You speak as one of the foolish women speaks. Shall we indeed accept good from God and not accept adversity?" In all this Job did not sin with his lips.
 
@@ -75,7 +75,7 @@ publisher: 三書精讀出版系統
 
 ### 七日靜默同坐的傳統
 
-「同他七天七夜坐在地上，一個人也不向他說句話」（2:13）——七日的哀悼期，在後世猶太傳統中發展為「息瓦」（shiva，希伯來文意即「七」）守喪禮俗的雛型。三友起初的沉默陪伴，是近東文化裡對至親至痛之人表達尊重的方式：不急於用言語安慰，而是用同在陪伴受苦者，讓他先感受到「有人與我同哭」，而非「有人急著替我解釋」。
+「同他七天七夜坐在地上，一個人也不向他說句話」（2:13）——七日的哀悼期，在後世猶太傳統中發展為「息瓦」（shiva，希伯來文意即「七」）守喪禮俗的雛型。三友起初的沉默陪伴，是近東文化裏對至親至痛之人表達尊重的方式：不急於用言語安慰，而是用同在陪伴受苦者，讓他先感受到「有人與我同哭」，而非「有人急著替我解釋」。
 
 ### 三友的身分
 
@@ -91,7 +91,7 @@ publisher: 三書精讀出版系統
 | עוֹר בְּעַד־עוֹר | or be'ad-or | 以皮代皮（直譯：皮換皮） | 2:4 | 撒但的諺語式控告，意指人寧可犧牲一切外在的東西（甚至他人的皮膚），只求保全自己性命的皮膚 |
 | בָּרַךְ | barak | 委婉語：棄絕、咒詛 | 2:5, 2:9 | Strong's 1288，與1:5、1:11同一委婉用法；2:9妻子的命令「 בָּרֵךְ אֱלֹהִים וָמֻת 」（字面「祝福神然後死」）用的正是這字的祈使語氣 |
 | מוּת | mut | 死 | 2:9 | Strong's 4191，與「棄掉神」並列，妻子的話等於是勸約伯以褻瀆換取速死，脫離苦痛 |
-| נָבָל | naval | 愚頑、悖逆神的愚昧（非單純智力低下） | 2:10 | 約伯回應妻子「你說話像愚頑的婦人一樣」， נָבָל 在舊約中特指道德與屬靈上悖逆神的愚昧（如詩14:1「愚頑人心裡說：沒有神」），非指才智不足 |
+| נָבָל | naval | 愚頑、悖逆神的愚昧（非單純智力低下） | 2:10 | 約伯回應妻子「你說話像愚頑的婦人一樣」， נָבָל 在舊約中特指道德與屬靈上悖逆神的愚昧（如詩14:1「愚頑人心裏說：沒有神」），非指才智不足 |
 | נוד / נחם | nud / nacham | 表同情、安慰 | 2:11 | Strong's 5110, 5162，三友「約會同來，為他悲傷，安慰他」，二詞連用表達充分的哀悼與撫慰之意，是後面全書友情變質的悲劇性起點 |
 
 ### 「以皮代皮」——撒但邏輯的赤裸展現
@@ -106,9 +106,9 @@ publisher: 三書精讀出版系統
 
 2:3中，是耶和華主動向撒但重申約伯「仍然持守他的純正」，並且直言撒但「無故地毀滅他」——這句經文清楚宣告：約伯在第一輪試煉之後所受的稱許，並非人的自我感覺良好，乃是神鑒察之後的公開肯定。
 
-### 2. 「難道我們從神手裡得福，不也受禍嗎」——信心的雙重接受
+### 2. 「難道我們從神手裏得福，不也受禍嗎」——信心的雙重接受
 
-約伯對妻子的回應（2:10）道出全書最核心的信心宣告之一：他不否認苦難的真實，也不假裝苦難不痛，卻堅持「從神手裡」這句話同時適用於祝福與災禍。真正成熟的信心，不是只在順境中承認神的手，也在逆境中承認同一位神的主權。
+約伯對妻子的回應（2:10）道出全書最核心的信心宣告之一：他不否認苦難的真實，也不假裝苦難不痛，卻堅持「從神手裏」這句話同時適用於祝福與災禍。真正成熟的信心，不是只在順境中承認神的手，也在逆境中承認同一位神的主權。
 
 ### 3. 至親的話語，有時比仇敵更傷人
 
@@ -116,7 +116,7 @@ publisher: 三書精讀出版系統
 
 ### 4. 沉默的同在，勝過急於開口的安慰
 
-三友「同他七天七夜坐在地上，一個人也不向他說句話」（2:13）——這七日的靜默陪伴，是全書中三友表現最好的時刻。真正的安慰有時不在言語，而在願意與受苦者一同坐在灰塵裡，忍受那份無法言說的沉重，而不急著用言語去填補沉默。
+三友「同他七天七夜坐在地上，一個人也不向他說句話」（2:13）——這七日的靜默陪伴，是全書中三友表現最好的時刻。真正的安慰有時不在言語，而在願意與受苦者一同坐在灰塵裏，忍受那份無法言說的沉重，而不急著用言語去填補沉默。
 
 ---
 
@@ -204,7 +204,7 @@ publisher: 三書精讀出版系統
 
 按這卷書一貫的讀法，這段經文最容易引人義憤的，是約伯妻子那句「你棄掉神，死了吧」。但若只停在指責她，反而錯過了經文真正要逼問讀者的問題：
 
-**先問**：「約伯的妻子，是這場苦難裡唯一一個和約伯一同失去七個兒女的人，她說出這句絕望的話，是不是完全無法理解？」——經文沒有替她辯護，也沒有替她定罪；但一個誠實的讀者若願意設身處地，會發現這句話的背後，是一位同樣經歷喪子之痛、卻沒有得著約伯那份特殊恩典去承受苦難的母親。這提醒我們：在評斷別人軟弱的話語之前，先問自己，是否也曾在極度的痛苦裡，說過連自己都後悔的話。
+**先問**：「約伯的妻子，是這場苦難裏唯一一個和約伯一同失去十個兒女的人，她說出這句絕望的話，是不是完全無法理解？」——經文沒有替她辯護，也沒有替她定罪；但一個誠實的讀者若願意設身處地，會發現這句話的背後，是一位同樣經歷喪子之痛、卻沒有得著約伯那份特殊恩典去承受苦難的母親。這提醒我們：在評斷別人軟弱的話語之前，先問自己，是否也曾在極度的痛苦裏，說過連自己都後悔的話。
 
 **再問**：「約伯回答『你說話像愚頑的婦人一樣』，這是責備，還是絕情？」——他沒有咒罵她、沒有離棄她，只是指出這句話的性質（悖逆神的愚昧），然後立刻用自己的信心宣告作出回答。真正的屬靈成熟，是能分辨試探的聲音、卻不因此棄絕說出這試探之言的人。
 
@@ -212,7 +212,7 @@ publisher: 三書精讀出版系統
 
 **落到自己**：「我上一次因極大的痛苦而口出試探性的話，是甚麼時候？當時有沒有一個像約伯那樣的人，用溫和卻堅定的話把我扶回來？」
 
-**你看見耶穌了嗎**：約伯坐在爐灰中，拿瓦片刮身體，這是全書最貼近肉身痛楚的一幕，卻還不是最深的一幕。真正「被藐視，被人厭棄，多受痛苦，常經憂患」（賽53:3），親自「擔當我們的憂患，背負我們的痛苦」（賽53:4）的那一位，是後來被釘十架的基督。約伯的妻子勸他棄掉神、死了吧；曠野裡的試探者，也曾用同一種聲音試探耶穌：「你若是神的兒子，就跳下去吧」（太4:6）。三友七日無言的同坐，是不是也讓你想起那位不曾轉頭離開受苦之人的主？
+**你看見耶穌了嗎**：約伯坐在爐灰中，拿瓦片刮身體，這是全書最貼近肉身痛楚的一幕，卻還不是最深的一幕。真正「被藐視，被人厭棄，多受痛苦，常經憂患」（賽53:3），親自「擔當我們的憂患，背負我們的痛苦」（賽53:4）的那一位，是後來被釘十架的基督。約伯的妻子勸他棄掉神、死了吧；曠野裏的試探者，也曾用同一種聲音試探耶穌：「你若是神的兒子，就跳下去吧」（太4:6）。三友七日無言的同坐，是不是也讓你想起那位不曾轉頭離開受苦之人的主？
 
 ---
 
@@ -220,7 +220,7 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **從神手裡受禍**：約伯說「難道我們從神手裡得福，不也受禍嗎」——你在領受祝福時很容易感謝神，但在經歷損失或痛苦時，是否也願意承認這仍出於同一位神的手，而不是抱怨或懷疑祂的良善？
+1. **從神手裏受禍**：約伯說「難道我們從神手裏得福，不也受禍嗎」——你在領受祝福時很容易感謝神，但在經歷損失或痛苦時，是否也願意承認這仍出於同一位神的手，而不是抱怨或懷疑祂的良善？
 
 2. **至親的試探**：撒但慣用最親近的人傳遞試探。回想你生命中，有沒有一次是被至愛的人（出於他們自己的軟弱或痛苦）勸你放棄信仰的堅持？你如何回應？
 
@@ -243,7 +243,7 @@ publisher: 三書精讀出版系統
 | 神為僕人向撒但作見證 | 2:3 | 亞3:1-2、路22:31-32、羅8:33-34 |
 | 撒但的權柄受神限制 | 2:6 | 伯1:12、路22:31、林前10:13 |
 | 至親成為試探的管道 | 2:9 | 創3:6（夏娃試探亞當）、太16:22-23（彼得試探基督）、太4:1-11 |
-| 從神手裡得福也受禍 | 2:10 | 賽45:7、哀3:38、來12:5-11 |
+| 從神手裏得福也受禍 | 2:10 | 賽45:7、哀3:38、來12:5-11 |
 | 撕裂衣袍、揚塵表哀悼 | 2:12 | 創37:34、撒下1:11、拉9:3 |
 | 靜默同在的安慰 | 2:13 | 詩39:1-3、詩62:1、羅12:15 |
 | 受苦僕人的預表 | 全章預表 | 賽53:3-5、來4:15、彼前2:21-24 |

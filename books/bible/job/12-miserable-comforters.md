@@ -12,12 +12,14 @@ publisher: 三書精讀出版系統
 
 **經文核對**：[ai-eden.com/bible/job/16](https://www.ai-eden.com/bible/job/16?t=CUV,NASB&cols=2)、[ai-eden.com/bible/job/17](https://www.ai-eden.com/bible/job/17?t=CUV,NASB&cols=2)
 
+---
+
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：中保 Advocate（16:19）** \
 > 約伯記不是一卷寫給我們看見基督親自顯現的書，但這一章卻藏著全書最奇特的一句吶喊：「現今，在天有我的見證，在上有我的中保」（16:19）。這不是約伯認出了誰，而是約伯在被朋友定罪、被神的手擊打、找不到任何人為他辯護的絕境裏，憑信心伸手抓住一個此刻還沒有名字的盼望——必須有一位在天上，既知道他的清白，又能替他向神陳明。
 
-約伯用的「中保」一字（ שָׂהֵד sahed）在全本希伯來聖經只出現這一次，彷彿連語言本身都要為這獨特的盼望造一個新詞。地上的朋友一個個站到控告者的位置，約伯卻仰望一位還說不清楚是誰、卻確信存在的見證者與代言人。新約揭開了這盼望的名字——「在神和人中間，只有一位中保，就是降世為人的基督耶穌」（提前2:5），「他是那和平的祭牲，如今在神的右邊，也替我們祈求」（羅8:34）。約伯還看不見這一位的面容，但他所仰望的方向——不是靠地上的朋友，乃是靠一位在天上、在神面前為他站立的中保——正是全本聖經最終要指給我們看的那一位。不要把約伯讀成一個提前認出基督的先知；要把他讀成一個在黑暗裏，被聖靈引導著伸手抓住了正確方向的受苦者。
+約伯用的「中保」一字（ שָׂהֵד sahed）在全本希伯來聖經只出現這一次，彷彿連語言本身都要為這獨特的盼望造一個新詞。地上的朋友一個個站到控告者的位置，約伯卻仰望一位還說不清楚是誰、卻確信存在的見證者與代言人。新約揭開了這盼望的名字——「在神和人中間，只有一位中保，就是降世為人的基督耶穌」（提前2:5），「現今在神的右邊，也替我們祈求」（羅8:34）。約伯還看不見這一位的面容，但他所仰望的方向——不是靠地上的朋友，乃是靠一位在天上、在神面前為他站立的中保——正是全本聖經最終要指給我們看的那一位。不要把約伯讀成一個提前認出基督的先知；要把他讀成一個在黑暗裏，被聖靈引導著伸手抓住了正確方向的受苦者。
 
 ---
 
@@ -56,19 +58,19 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^16:1-2^Then Job answered, \textit{“I have heard many such things; Sorry comforters are you all.} ^3^\textit{Is there no limit to windy words? Or what plagues you that you answer?}
+> ^16:1-2^Then Job answered, “I have heard many such things; Sorry comforters are you all. ^3^Is there no limit to windy words? Or what plagues you that you answer?”
 
-> ^16:7-8^\textit{But now He has exhausted me; You have laid waste all my company. You have shriveled me up, It has become a witness; And my leanness rises up against me, it testifies to my face.}
+> ^16:7-8^“But now He has exhausted me; You have laid waste all my company. You have shriveled me up, It has become a witness; And my leanness rises up against me, it testifies to my face.”
 
-> ^16:18-19^\textit{“O earth, do not cover my blood, And let there be no resting place for my cry. Even now, behold, my witness is in heaven, And my advocate is on high.}
+> ^16:18-19^“O earth, do not cover my blood, And let there be no resting place for my cry. Even now, behold, my witness is in heaven, And my advocate is on high.”
 
-> ^16:20-21^\textit{“My friends are my scoffers; My eye weeps to God. O that a man might plead with God As a man \[pleads\] for his neighbor!}
+> ^16:20-21^“My friends are my scoffers; My eye weeps to God. O that a man might plead with God As a man \[pleads\] for his neighbor!”
 
-> ^17:3^\textit{“Lay down, now, a pledge for me with Yourself; Who is there that will be my guarantor?}
+> ^17:3^“Lay down, now, a pledge for me with Yourself; Who is there that will be my guarantor?”
 
-> ^17:9^\textit{Nevertheless the righteous will hold to his way, And he who has clean hands will grow stronger and stronger.}
+> ^17:9^“Nevertheless the righteous will hold to his way, And he who has clean hands will grow stronger and stronger.”
 
-> ^17:15-16^\textit{Where now is my hope? And who regards my hope? \[Will\] it go down with me to Sheol? Shall we together go down into the dust?”}
+> ^17:15-16^“Where now is my hope? And who regards my hope? \[Will\] it go down with me to Sheol? Shall we together go down into the dust?”
 
 ---
 
@@ -93,7 +95,7 @@ publisher: 三書精讀出版系統
 
 ### 「見證」的雙重出現——控告與辯護
 
-16:8「又抓住我，做見證攻擊我」與16:19「在天有我的見證」，同一個「見證」的觀念在短短十一節內出現兩次，方向卻完全相反：一次是約伯自己枯瘦的身體被神當作control控告他的見證（彷彿他的苦難本身就是罪的證據），另一次卻是他向著天上呼求一位為他辯護的見證。這個對照正是16-17章的核心張力——約伯活在雙重的法庭想像裏，一邊是地上（他的身體、他的朋友）都在控告他，另一邊他卻堅信天上必有一位為他作證。
+16:8「又抓住我，做見證攻擊我」與16:19「在天有我的見證」，同一個「見證」的觀念在短短十一節內出現兩次，方向卻完全相反：一次是約伯自己枯瘦的身體被當作控告他的見證（彷彿他的苦難本身就是罪的證據），另一次卻是他向著天上呼求一位為他辯護的見證。這個對照正是16-17章的核心張力——約伯活在雙重的法庭想像裏，一邊是地上（他的身體、他的朋友）都在控告他，另一邊他卻堅信天上必有一位為他作證。
 
 ---
 
@@ -101,7 +103,7 @@ publisher: 三書精讀出版系統
 
 | 希伯來文 | 音譯 | 意義 | 經文 | 註解 |
 |--------------------|--------------------|----------------|----------------|------------------------|
-| מְנַחֲמֵי | mənaḥămê | 安慰者（分詞，源於「安慰、憐恤」5162） | 16:2 | 「你們安慰人，反叫人愁煩」——本是「安慰者」的身分，卻成了反諷；同一個字根在17:2用來形容「戲笑」他的人所帶來的相反效果 |
+| מְנַחֲמֵי | mənaḥămê | 安慰者（分詞，源於「安慰、憐恤」5162） | 16:2 | 「你們安慰人，反叫人愁煩」——他們的身分本是「安慰者」，帶來的效果卻恰恰相反，一個字就寫成了全章的反諷 |
 | עֵדִי | ʿēdî | 見證（5707，「我的見證」） | 16:8, 19 | 16:8指他枯瘦的身體被當作控告他的見證；16:19卻用同一觀念，指向天上為他辯護的見證——一體兩面 |
 | שָׂהֵד | śāhēd | 中保／代言人（7717） | 16:19 | 全希伯來聖經僅出現這一次（hapax legomenon）；與「見證」 עֵד 並列，加重法庭辯護的意味，NASB譯作 "advocate" |
 | רֵעִים | rēʿîm | 朋友、同伴（7453） | 17:5 | 「控告他的朋友、以朋友為可搶奪的」——約伯用這字諷刺三友，本該是「朋友」，如今卻是出賣者 |
@@ -213,7 +215,7 @@ publisher: 三書精讀出版系統
 
 ### 全經連線 (Tracing It Through Scripture)
 
-「中保」這條線貫串全經：出埃及記中摩西站在神與百姓中間代求（出32:11-14），撒母耳記上詩篇中大衛屢次呼求神為他伸冤（詩7:8），到了新約，這條線終於有了清楚的名字——「在神和人中間，只有一位中保，就是降世為人的基督耶穌」（提前2:5），「他是那和平的祭牲，如今在神的右邊，也替我們祈求」（羅8:34），「若有人犯罪，在父那裏我們有一位中保，就是那義者耶穌基督」（約壹2:1）。約伯在16:19伸手抓住的，是這整條線最早、也最赤裸的呼求——他還不知道中保的名字，卻已經確信中保必須存在。
+「中保」這條線貫串全經：出埃及記中摩西站在神與百姓中間代求（出32:11-14），詩篇中大衛屢次呼求神為他伸冤（詩7:8），到了新約，這條線終於有了清楚的名字——「在神和人中間，只有一位中保，就是降世為人的基督耶穌」（提前2:5），「現今在神的右邊，也替我們祈求」（羅8:34），「若有人犯罪，在父那裏我們有一位中保，就是那義者耶穌基督」（約壹2:1）。約伯在16:19伸手抓住的，是這整條線最早、也最赤裸的呼求——他還不知道中保的名字，卻已經確信中保必須存在。
 
 ### 提問式對話 (Let the Reader Speak)
 

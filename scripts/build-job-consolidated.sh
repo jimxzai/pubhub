@@ -33,15 +33,15 @@ copyright: |
 
   **三大核心資源整合：**
 
-  • **週四查經班** — 第一手屬靈教導
+  • **貴格利一世** — 《約伯記倫理講疏》(Morals on the Book of Job)
 
-  • **John MacArthur** — 逐節解經 (gty.org)
+  • **馬太·亨利** — 《聖經全書註釋》約伯記卷 (Commentary on the Whole Bible)
 
   • **G. Campbell Morgan** — 《The Analyzed Bible: The Book of Job》
 
   **從灰塵到黎明：公義人的試煉、三輪對話的激辯、耶和華從旋風中的回答**
 
-  序幕：公義人的試煉 (1-2章) | 第一輪對話：受苦的無辜 (3-14章) | 第二輪對話：惡人的結局 (15-21章)
+  序幕與哀歌 (1-3章) | 第一輪對話：受苦的無辜 (4-14章) | 第二輪對話：惡人的結局 (15-21章)
   第三輪對話與智慧頌 (22-28章) | 約伯的終極申辯 (29-31章) | 以利戶的講論 (32-37章) | 耶和華的回答與結局 (38-42章)
 
   **經文版權聲明 (Scripture Copyright Notices)**
@@ -131,15 +131,22 @@ fi
 # ============================================================
 # 正文 · 七卷 · 31 段
 # ============================================================
-add_volume "卷一 · 序幕：公義人的試煉 (Prologue) · 1-2章" \
-    "苦難不是從人的罪開始，是從天上的一場對話開始——約伯自己始終不知情。"
-for f in 01-blameless-and-upright.md 02-wager-in-heaven.md 03-second-test.md; do
+# 卷一收 01-04 四章（伯 1-3）：序幕的散文（1-2章）與約伯的哀歌（3章）同屬「對話
+# 尚未開始」的階段，這也是卷首各檔（00-overview 的全書結構表與七週讀經計劃、
+# elder-wong-systematic-study 的分卷標題）一致採用的分法。第三輪校對發現本腳本
+# 原將 04-jobs-lament.md（伯3）歸入卷二、並把兩卷標成 1-2章／3-14章，與卷首各檔
+# 的 1-3章／4-14章互相矛盾——讀者會先讀到一張寫著「卷一 1-3章」的表，再翻到一頁
+# 寫著「卷一 1-2章」的分卷扉頁。已改以卷首各檔的分法為準。
+add_volume "卷一 · 序幕與哀歌 (Prologue and Lament) · 1-3章" \
+    "苦難不是從人的罪開始，是從天上的一場對話開始——約伯自己始終不知情；等他開口，先出來的不是答案，是哀歌。"
+for f in 01-blameless-and-upright.md 02-wager-in-heaven.md 03-second-test.md \
+         04-jobs-lament.md; do
     add_chapter "$f"
 done
 
-add_volume "卷二 · 第一輪對話：受苦的無辜 (First Cycle) · 3-14章" \
-    "約伯先開口咒詛自己的生日，三個朋友輪流回應——第一輪的邏輯還算克制，卻已埋下日後尖銳的種子。"
-for f in 04-jobs-lament.md 05-eliphaz-first-speech.md 06-friends-like-a-brook.md \
+add_volume "卷二 · 第一輪對話：受苦的無辜 (First Cycle) · 4-14章" \
+    "三個朋友輪流回應——第一輪的邏輯還算克制，卻已埋下日後尖銳的種子。"
+for f in 05-eliphaz-first-speech.md 06-friends-like-a-brook.md \
          07-bildad-tradition.md 08-job-contends-with-god.md 09-zophar-accusation.md \
          10-wisdom-is-with-me.md; do
     add_chapter "$f"

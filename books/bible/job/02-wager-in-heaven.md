@@ -56,6 +56,8 @@ publisher: 三書精讀出版系統
 
 > ^9^Then Satan answered the LORD, "Does Job fear God for nothing? ^10^Have You not made a hedge about him and his house and all that he has, on every side? You have blessed the work of his hands, and his possessions have increased in the land. ^11^But put forth Your hand now and touch all that he has; he will surely curse You to Your face." ^12^Then the LORD said to Satan, "Behold, all that he has is in your power, only do not put forth your hand on him." So Satan departed from the presence of the LORD.
 
+> ^13^Now on the day when his sons and his daughters were eating and drinking wine in their oldest brother's house, ^14^a messenger came to Job and said, "The oxen were plowing and the donkeys feeding beside them, ^15^and the Sabeans attacked and took them. They also slew the servants with the edge of the sword, and I alone have escaped to tell you." ^16^While he was still speaking, another also came and said, "The fire of God fell from heaven and burned up the sheep and the servants and consumed them, and I alone have escaped to tell you." ^17^While he was still speaking, another also came and said, "The Chaldeans formed three bands and made a raid on the camels and took them and slew the servants with the edge of the sword, and I alone have escaped to tell you." ^18^While he was still speaking, another also came and said, "Your sons and your daughters were eating and drinking wine in their oldest brother's house, ^19^and behold, a great wind came from across the wilderness and struck the four corners of the house, and it fell on the young people and they died, and I alone have escaped to tell you."
+
 > ^20^Then Job arose and tore his robe and shaved his head, and he fell to the ground and worshiped. ^21^He said, "Naked I came from my mother's womb, And naked I shall return there. The LORD gave and the LORD has taken away. Blessed be the name of the LORD." ^22^Through all this Job did not sin nor did he blame God.
 
 ---
@@ -76,7 +78,7 @@ publisher: 三書精讀出版系統
 
 ### 四重連環噩耗的文學結構
 
-1:13-19記載四個噩耗接連傳來（示巴人擄掠、天火焚燒、迦勒底人擄掠、狂風倒塌房屋），每一個都以相同的公式結尾：「惟有我一人逃脫，來報信給你」。這種重複的節奏手法，讓讀者在極短的敘事篇幅裡，感受到接連而來、不容喘息的打擊——人禍（示巴人、迦勒底人）與天災（天火、狂風）交替出現，暗示這場攻擊的源頭超越單純的自然或人為因素。
+1:13-19記載四個噩耗接連傳來（示巴人擄掠、天火焚燒、迦勒底人擄掠、狂風倒塌房屋），每一個都以相同的公式結尾：「惟有我一人逃脫，來報信給你」。這種重複的節奏手法，讓讀者在極短的敘事篇幅裏，感受到接連而來、不容喘息的打擊——人禍（示巴人、迦勒底人）與天災（天火、狂風）交替出現，暗示這場攻擊的源頭超越單純的自然或人為因素。
 
 ---
 
@@ -190,17 +192,17 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-這一段最容易被讀者滑過去的，不是四個噩耗的內容，而是它們發生之前，那一幕約伯完全看不見的天上場景。按這卷書一貫的讀法，該在這裡停下來，一層一層地問：
+這一段最容易被讀者滑過去的，不是四個噩耗的內容，而是它們發生之前，那一幕約伯完全看不見的天上場景。按這卷書一貫的讀法，該在這裏停下來，一層一層地問：
 
-**先問**：「約伯從頭到尾，知不知道天上發生了這場爭戰？」——答案是不知道。整卷書41章，約伯自己始終沒有看見1-2章讀者所看見的天上場景。這提醒我們：許多我們正在經歷的苦難，背後也可能有我們完全看不見的屬靈爭戰在進行，而神並沒有義務把一切都解釋清楚，才容許我們經歷它。
+**先問**：「約伯從頭到尾，知不知道天上發生了這場爭戰？」——答案是不知道。整卷書42章，約伯自己始終沒有看見1-2章讀者所看見的天上場景。這提醒我們：許多我們正在經歷的苦難，背後也可能有我們完全看不見的屬靈爭戰在進行，而神並沒有義務把一切都解釋清楚，才容許我們經歷它。
 
 **再問**：「撒但的控告『約伯敬畏神，豈是無故呢』，聽起來像不像今天有人質疑基督徒的信心：『你信主，還不是因為要上天堂、要得平安？』」——這控告的殺傷力，不在於它完全錯誤，而在於它試圖把一切敬虔都化約成交易。約伯記要證明的，正是敬虔可以不是交易。
 
-**追問**：「約伯撕裂外袍、剃了頭，這是壓抑情緒、還是表達情緒？」——這是近東文化裡最強烈的哀慟表達，約伯毫不掩飾自己的悲痛，卻在悲痛中「伏在地上下拜」。真正的信心不是不流淚，乃是流著淚仍願下拜。
+**追問**：「約伯撕裂外袍、剃了頭，這是壓抑情緒、還是表達情緒？」——這是近東文化裏最強烈的哀慟表達，約伯毫不掩飾自己的悲痛，卻在悲痛中「伏在地上下拜」。真正的信心不是不流淚，乃是流著淚仍願下拜。
 
-**落到自己**：「賞賜的是耶和華，收取的也是耶和華」——如果今天我要失去的，不是約伯失去的牲畜與兒女，而是我自己最看重的某一樣東西，我口裡最先冒出來的，會是抱怨，還是稱頌？
+**落到自己**：「賞賜的是耶和華，收取的也是耶和華」——如果今天我要失去的，不是約伯失去的牲畜與兒女，而是我自己最看重的某一樣東西，我口裏最先冒出來的，會是抱怨，還是稱頌？
 
-**你看見耶穌了嗎**：約伯撕裂外袍、伏地下拜，說出「賞賜的是耶和華，收取的也是耶和華」（1:21），這句話還只是預告。真正把這句敬拜說到盡頭、說進最深黑暗裡的，是客西馬尼園那句「不要照我的意思，只要照你的意思」（太26:39）——那一位在十架上失去一切、甚至失去與父同在感的至暗一刻，卻仍順服到底的主。約伯回答了撒但「豈是無故」的控告，基督卻用祂的死，把這控告徹底打敗。你所信的，禁不禁得起「若神把一切拿走」這句拷問？
+**你看見耶穌了嗎**：約伯撕裂外袍、伏地下拜，說出「賞賜的是耶和華，收取的也是耶和華」（1:21），這句話還只是預告。真正把這句敬拜說到盡頭、說進最深黑暗裏的，是客西馬尼園那句「不要照我的意思，只要照你的意思」（太26:39）——那一位在十架上失去一切、甚至失去與父同在感的至暗一刻，卻仍順服到底的主。約伯回答了撒但「豈是無故」的控告，基督卻用祂的死，把這控告徹底打敗。你所信的，禁不禁得起「若神把一切拿走」這句拷問？
 
 ---
 
@@ -210,7 +212,7 @@ publisher: 三書精讀出版系統
 
 1. **看不見的爭戰**：約伯至死都不知道1-2章發生了甚麼事。你能不能接受，神容許你經歷苦難，卻不一定會讓你明白背後完整的屬靈原因？
 
-2. **敬虔是否有代價**：撒但問「約伯敬畏神，豈是無故呢」——誠實檢視自己，你敬拜神的動機裡，有多少成分是為了得著甚麼？若神從你手中拿走這一切，你還會不會敬拜祂？
+2. **敬虔是否有代價**：撒但問「約伯敬畏神，豈是無故呢」——誠實檢視自己，你敬拜神的動機裏，有多少成分是為了得著甚麼？若神從你手中拿走這一切，你還會不會敬拜祂？
 
 3. **先敬拜、後解釋**：約伯先俯伏下拜，才說出他的信仰告白。你面對難以理解的損失時，第一個反應通常是甚麼？
 
