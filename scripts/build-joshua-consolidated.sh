@@ -138,27 +138,27 @@ fi
 # 正文 · 五卷 · 20 段
 # ============================================================
 add_volume "卷一 · 預備與信心：跨越約旦河 (Preparation) · 1-5章" \
-    "摩西已死，約書亞受命；探子窺探，喇合搭救；全會眾在約旦河乾地上過河，於吉甲立石為記。"
+    "摩西已死，約書亞受命；探子窺探，喇合搭救；全會眾在約旦河乾地上過河，於吉甲立石為記。**啟示的次序**：全書都落在神計劃的第七步「進入」之內，本卷是這一步的起頭——**預備**：先受命、先立約記號（割禮、逾越節），才過河爭戰。"
 for f in 01-commission-and-courage.md 02-rahab-and-the-scarlet-cord.md \
          03-crossing-the-jordan.md 04-gilgal-and-commander-of-the-lords-army.md; do
     add_chapter "$f"
 done
 
 add_volume "卷二 · 中央突破：耶利哥與艾城 (Central Campaign) · 6-8章" \
-    "耶利哥的城牆因信心與順服傾倒；亞干的貪心使艾城初戰慘敗；除罪之後，艾城攻克，以巴路山築壇立約。"
+    "耶利哥的城牆因信心與順服傾倒；亞干的貪心使艾城初戰慘敗；除罪之後，艾城攻克，以巴路山築壇立約。**啟示的次序**：進入之後的第一關——**突破**：得勝不在戰術，在乎順服；而罪不除，路就不通。"
 for f in 05-fall-of-jericho.md 06-achans-sin.md 07-ai-conquered.md; do
     add_chapter "$f"
 done
 
 add_volume "卷三 · 南征北討，全地底定 (Southern and Northern Campaigns) · 9-12章" \
-    "基遍人用詭計求和；南方五王聯軍潰敗、日頭停住；北方諸王聯軍瓦解；三十一個被擊敗的王一一列冊。"
+    "基遍人用詭計求和；南方五王聯軍潰敗、日頭停住；北方諸王聯軍瓦解；三十一個被擊敗的王一一列冊。**啟示的次序**：突破之後是全面的**爭戰**——先求問神，神才為以色列爭戰；全地大勢至此底定。"
 for f in 08-gibeonite-deception.md 09-southern-campaign-sun-stands-still.md \
          10-northern-campaign-and-kings-list.md; do
     add_chapter "$f"
 done
 
 add_volume "卷四 · 地業均分，家家有份 (Division of the Inheritance) · 13-21章" \
-    "河東二支派半先得地業；迦勒憑信心求取希伯崙；猶大、以法蓮、瑪拿西、餘下七支派逐一抽籤分地；又設逃城，立利未人的城邑。"
+    "河東二支派半先得地業；迦勒憑信心求取希伯崙；猶大、以法蓮、瑪拿西、餘下七支派逐一抽籤分地；又設逃城，立利未人的城邑。**啟示的次序**：爭戰之後是**承受**——恩典要具體落到每一支派、每一座城；這是全書最長、也最容易被跳過的一卷。"
 for f in 11-inheritance-east-of-jordan.md 12-caleb-claims-hebron.md \
          13-judahs-inheritance.md 14-ephraim-and-manasseh.md \
          15-seven-tribes-and-joshuas-portion.md 16-cities-of-refuge.md \
@@ -167,7 +167,7 @@ for f in 11-inheritance-east-of-jordan.md 12-caleb-claims-hebron.md \
 done
 
 add_volume "卷五 · 立約立志，至死不渝 (Covenant and Legacy) · 22-24章" \
-    "河東支派築壇為證，幾乎引發內戰卻及時化解；約書亞臨別勸勉全會眾；示劍立約，「至於我和我家，我們必定事奉耶和華」。"
+    "河東支派築壇為證，幾乎引發內戰卻及時化解；約書亞臨別勸勉全會眾；示劍立約，「至於我和我家，我們必定事奉耶和華」。**啟示的次序**：地到手之後才是真正的考驗——**持守**：守約與傳承，才是全書的落點。"
 for f in 18-altar-of-witness.md 19-joshuas-farewell-address.md \
          20-covenant-renewal-and-joshuas-death.md; do
     add_chapter "$f"
