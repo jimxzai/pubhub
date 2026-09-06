@@ -14,10 +14,10 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-> **本章鑰詞：耶和華你們的神本是上天下地的神（2:11）** \
+> **本章鑰詞：耶和華─你們的神本是上天下地的神（2:11）** \
 > **全書座標**：〔卷一·預備〕過河之前的第一個信心告白，出自最不可能的一張口——耶利哥的妓女喇合（2:11）。得地為業從一開始就不憑血統，是憑信心被接進神的產業與家譜（太1:5）。
 
-喇合被馬太福音1:5列在大衛、也就是基督的家譜之中——一個外邦的、曾以身體為業的妓女，因著信，成了彌賽亞家譜上不可或缺的一環。希伯來書11:31把她與亞伯拉罕、摩西並列在信心偉人榜上；雅各書2:25則從「信心與行為」的角度重申她——「和和平平地接待使者，又放他們從別的路上出去」，兩處經文並不矛盾，是同一個真信心的兩面：一面是內心真實的相信，一面是這相信必然結出來的具體行動。喇合窗口上那條朱紅線繩，是全會眾攻城時唯一被保留下來、不被毀滅的記號——這與逾越節時塗在門楣上的羔羊血（出12:13）遙相呼應：凡在血/線繩記號之內的，審判越過，得以存活。喇合一家因這記號得救，正是後來凡藏身在基督寶血遮蓋之下、得蒙拯救之人的一個活生生的預表。
+喇合被馬太福音1:5列在大衛、也就是基督的家譜之中——一個外邦的、曾以身體為業的妓女，因著信，成了彌賽亞家譜上不可或缺的一環。希伯來書11:31把她與亞伯拉罕、摩西並列在信心偉人榜上；雅各書2:25則從行為的角度重申她——同一個真信心的兩面。而她窗口上那條朱紅線繩，是耶利哥城破那日全城唯一被保留的記號：凡在記號之內的，審判越過，得以存活——這正是後來凡藏身在基督寶血遮蓋之下之人的一個活生生的預表。
 
 ---
 
@@ -56,13 +56,13 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^1^Then Joshua the son of Nun sent two men as spies secretly from Shittim, saying, "Go, view the land, especially Jericho." They entered a harlot's house named Rahab, and lodged there. ^2^The king of Jericho was told, "Behold, men from the sons of Israel have come here tonight to search out the land." ^3^Then the king of Jericho sent word to Rahab, saying, "Bring out the men who have come to you, who have entered your house, for they have come to search out all the land." ^4^But the woman had taken the two men and hidden them, and she said, "Yes, the men came to me, but I did not know where they were from. ^5^It came about when *it was time* to shut the gate, at dark, that the men went out; I do not know where the men went. Pursue them quickly, for you will overtake them." ^6^But she had brought them up to the roof and hidden them in the stalks of flax which she had laid in order on the roof. ^7^So the men pursued them on the road to the Jordan to the fords; and as soon as those who were pursuing them had gone out, they shut the gate.
+> ^1^Then Joshua the son of Nun sent two men as spies secretly from Shittim, saying, "Go, view the land, especially Jericho." So they went and came into the house of a harlot whose name was Rahab, and lodged there. ^2^It was told the king of Jericho, saying, "Behold, men from the sons of Israel have come here tonight to search out the land." ^3^And the king of Jericho sent *word* to Rahab, saying, "Bring out the men who have come to you, who have entered your house, for they have come to search out all the land." ^4^But the woman had taken the two men and hidden them, and she said, "Yes, the men came to me, but I did not know where they were from. ^5^It came about when *it was time* to shut the gate at dark, that the men went out; I do not know where the men went. Pursue them quickly, for you will overtake them." ^6^But she had brought them up to the roof and hidden them in the stalks of flax which she had laid in order on the roof. ^7^So the men pursued them on the road to the Jordan to the fords; and as soon as those who were pursuing them had gone out, they shut the gate.
 
 > ^8^Now before they lay down, she came up to them on the roof, ^9^and said to the men, "I know that the LORD has given you the land, and that the terror of you has fallen on us, and that all the inhabitants of the land have melted away before you. ^10^For we have heard how the LORD dried up the water of the Red Sea before you when you came out of Egypt, and what you did to the two kings of the Amorites who were beyond the Jordan, to Sihon and Og, whom you utterly destroyed. ^11^When we heard *it*, our hearts melted and no courage remained in any man any longer because of you; for the LORD your God, He is God in heaven above and on earth beneath. ^12^Now therefore, please swear to me by the LORD, since I have dealt kindly with you, that you also will deal kindly with my father's household, and give me a pledge of truth, ^13^and spare my father and my mother and my brothers and my sisters, with all who belong to them, and deliver our lives from death." ^14^So the men said to her, "Our life for yours if you do not tell this business of ours; and it shall come about when the LORD gives us the land that we will deal kindly and faithfully with you."
 
-> ^15^Then she let them down by a rope through the window, for her house was on the city wall, so that she was living on the wall. ^16^She said to them, "Go to the hill country, so that the pursuers will not happen upon you, and hide yourselves there for three days until the pursuers return. Then afterward, you may go on your way." ^17^The men said to her, "We *shall be* free from this oath to you which you have made us swear, ^18^unless, when we come into the land, you tie this cord of scarlet thread in the window through which you let us down, and gather to yourself into the house your father and your mother and your brothers and all your father's household. ^19^It shall come about that anyone who goes out of the doors of your house into the street, his blood *shall be* on his own head, and we *shall be* free; but anyone who is with you in the house, his blood *shall be* on our head if a hand is *laid* on him. ^20^But if you tell this business of ours, then we shall be free from the oath which you have made us swear." ^21^She said, "According to your words, so be it." So she sent them away, and they departed; and she tied the scarlet cord in the window.
+> ^15^Then she let them down by a rope through the window, for her house was on the city wall, so that she was living on the wall. ^16^She said to them, "Go to the hill country, so that the pursuers will not happen upon you, and hide yourselves there for three days until the pursuers return. Then afterward you may go on your way." ^17^The men said to her, "We *shall be* free from this oath to you which you have made us swear, ^18^unless, when we come into the land, you tie this cord of scarlet thread in the window through which you let us down, and gather to yourself into the house your father and your mother and your brothers and all your father's household. ^19^It shall come about that anyone who goes out of the doors of your house into the street, his blood *shall be* on his own head, and we *shall be* free; but anyone who is with you in the house, his blood *shall be* on our head if a hand is *laid* on him. ^20^But if you tell this business of ours, then we shall be free from the oath which you have made us swear." ^21^She said, "According to your words, so be it." So she sent them away, and they departed; and she tied the scarlet cord in the window.
 
-> ^22^They departed and came to the hill country, and remained there for three days until the pursuers returned. Now the pursuers had sought them all along the road, but had not found them. ^23^Then the two men returned and came down from the hill country and crossed over, and they came to Joshua the son of Nun and narrated to him all that had happened to them. ^24^They said to Joshua, "Surely the LORD has given all the land into our hands, and all the inhabitants of the land, moreover, have melted away before us."
+> ^22^They departed and came to the hill country, and remained there for three days until the pursuers returned. Now the pursuers had sought *them* all along the road, but had not found *them*. ^23^Then the two men returned and came down from the hill country and crossed over and came to Joshua the son of Nun, and they related to him all that had happened to them. ^24^They said to Joshua, "Surely the LORD has given all the land into our hands; moreover, all the inhabitants of the land have melted away before us."
 
 ---
 
@@ -74,11 +74,11 @@ publisher: 三書精讀出版系統
 
 ### 「妓女」一詞——不必為喇合的身分辯白
 
-和合本「妓女」譯自希伯來文זוֹנָה（zonah），加爾文與歷代大多數解經家都指出，某些後世註釋為了替喇合的形象辯護，硬將這字解作「開客棧的女子」，但這樣的解釋既無原文根據，也無必要——聖經記載喇合的過去，正是為了凸顯神恩典何等徹底：一個確實活在罪中、活在耶利哥城邊緣的女子，因著信被接進了以色列的產業，這恩典的深度不需要靠美化她的過去來襯托，反而正是靠著誠實承認她的過去，才更顯出神恩典的浩大。
+和合本「妓女」譯自希伯來文זוֹנָה（zonah）。某些後世註釋為了替喇合的形象辯護，硬將這字解作「開客棧的女子」；加爾文與歷代大多數解經家都指出，這樣的解釋既無原文根據，也無必要（見〈歷代注疏〉）。新約兩次提到她，同樣照舊稱她「妓女喇合」（來11:31、雅2:25）。
 
 ### 迦南人「心都消化了」與神使用列邦懼怕之心
 
-2:9-11喇合向探子描述耶利哥全城因以色列人出埃及、過紅海、勝西宏噩兩王的消息而「心都消化了」，這正應驗了神此前藉摩西所應許的：「我要使我的懼怕行在你們前頭」（出23:27）。喇合的信心告白在2:11達到頂點：「耶和華你們的神本是上天下地的神」——這句宣告比許多以色列人自己在曠野中所發出的信心告白更清楚、更完整，全書藉此向讀者宣告：得地為業的應許，從一開始就向著信而不向著血統敞開。
+2:9-11喇合向探子描述耶利哥全城因以色列人出埃及、過紅海、勝西宏噩兩王的消息而「心都消化了」，這正應驗了神此前藉摩西所應許的：「我要使那裏的眾民在你面前驚駭」（出23:27）。出埃及與紅海是四十年前的舊事，西宏和噩則是近日的戰報；喇合一件也沒有親眼見過，全是傳進城裏的消息。同樣的消息，全城拿去加強戒備，她拿去下了2:11那句斷語。
 
 ---
 
@@ -99,21 +99,21 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 得地為業的應許，從一開始就向信心而非血統敞開
+### 1. 家譜上的第一個外邦名字，出自耶利哥的妓院
 
-喇合是迦南人、是妓女，卻因著一句「耶和華你們的神本是上天下地的神」的告白，被接進了以色列的產業與家譜（太1:5）。這提醒讀者，約書亞記表面上是一卷關於「以色列人」得地為業的書，骨子裏卻早在第二章就宣告：這應許的門，從一開始就是向信而非向血統敞開的。
+喇合是迦南人、是妓女，卻因一句「耶和華─你們的神本是上天下地的神」（2:11），被接進以色列的產業，最後接進了大衛與基督的家譜（太1:5）。約書亞記表面上寫的是「以色列人」得地為業，第二章就先把門推開：這門認的是信，不是血統。
 
-### 2. 真信心必然結出具體、冒險的行動
+### 2. 她信了，當晚就把兩條人命藏在麻秸底下
 
-喇合的信心不只是心裏的相信，更表現在具體、有代價、甚至冒著生命危險的行動上——隱藏探子、欺哄追兵、事先要求立約憑據。雅各書2:25正是以喇合為例，論證「因信稱義」與「因行為稱義」並不矛盾：一個真信心，必然會在具體處境中結出與之相稱的行動。
+喇合的信心不停在心裏認同：藏探子、支開追兵、事先索取立約的憑據，每一步都押上自己的性命。雅各書2:25正是拿她作例——真信心會在具體處境裏長出與它相稱的動作，否則那不叫信心，只是意見。
 
-### 3. 一個記號能救全家，但只救「在記號之內」的人
+### 3. 線繩救得了全家，救不了走出門的人
 
-探子清楚吩咐喇合：凡出了她家門往街上去的，「他的罪必歸到自己的頭上」（2:19）——朱紅線繩能救喇合全家，前提是他們都聚集在那記號劃定的範圍之內。這提醒我們，救恩雖然可以臨到一整個家庭，但每一個人仍然要親自「留在」蒙拯救的記號之內，不能靠親人的信心代替自己與神的關係。
+探子說得毫不含糊：凡出了她家門往街上去的，「他的罪必歸到自己的頭上」（2:19）。記號有效的範圍，就是那扇門以內。救恩可以臨到一整個家庭，卻沒有一個人能靠親人的信心留在門內——各人得自己走進去。
 
-### 4. 喇合的信心，經得起「查無實據」的檢驗，也帶著真實的軟弱
+### 4. 聖經沒有替她的謊話打圓場
 
-喇合的信心值得效法，但她向追兵撒的謊，歷代解經者（包括加爾文、亨利）都誠實指出這是道德上的軟弱，不必為她文過飾非。聖經記載一個真實信心偉人，仍然帶著時代局限與軟弱之處，這正提醒讀者：神使用的器皿從來不是完美無瑕的人，而是願意在有限知識與軟弱之中，仍然真實回應神的人。
+加爾文、亨利論到喇合對追兵撒的謊，都不迴避那是過失（見〈歷代注疏〉）。敘事者一面把她列進信心的行列，一面照實記下她的出身與她的手段。神所用的器皿從來不是無瑕的人，而是在有限的知識與真實的軟弱裏，仍肯照著所信的去行的人。
 
 ---
 
@@ -125,7 +125,7 @@ publisher: 三書精讀出版系統
 
 ### 加爾文 (John Calvin)
 
-加爾文對喇合身分的辯論最為直接：他明確反對將「妓女」曲解為「開客棧的女子」的傳統拉比式解經，並指出這樣的曲解反而模糊了神恩典的真正榮耀。
+加爾文對喇合身分的辯論最為直接：
 
 > "In the fact that a woman who had gained a shameful livelihood by prostitution was shortly after admitted into the body of the chosen people, and became a member of the Church, we are furnished with a striking display of divine grace... Most assuredly while the term almost invariably means harlot, there is nothing here to oblige us to depart from the received meaning."
 >
@@ -143,7 +143,7 @@ publisher: 三書精讀出版系統
 
 ### 馬太·亨利 (Matthew Henry)
 
-亨利同樣正視喇合的謊言，並提出一個平衡的立場：不必為她的謊言辯護，但也不宜以現代人的標準苛責一個尚未受教導、身處極端處境中的外邦女子。
+亨利同樣正視喇合的謊言，卻不肯用現代人的標準苛責一個未曾受教的外邦女子：
 
 > "Divines generally conceive that it was a sin, which however admitted of this extenuation, that being a Canaanite she was not better taught the evil of lying; but God accepted her faith and pardoned her infirmity."
 >
@@ -161,7 +161,7 @@ publisher: 三書精讀出版系統
 
 ### 梅爾 (F.B. Meyer)
 
-梅爾將喇合被拯救的故事，安放在他所稱的「三日停留」（Three Days' Pause，對應1:10-11與2章事件的同一時段）的討論之中，視喇合為神在審判將臨之城中，仍然眷顧、尋找那一個願意相信的人的鮮明例證。
+梅爾將喇合被拯救的故事，安放在他所稱的「三日停留」（Three Days' Pause，對應1:10-11與2章事件的同一時段）的討論之中：
 
 > "There was one soul in their midst who was capable of faith, and was already exercising it... Wherever there is a Rahab, who, amid much sin and ignorance, is living up to the truth she has, and longs for more, God will take her hand and lead her to himself."
 >
@@ -206,7 +206,7 @@ publisher: 三書精讀出版系統
 > 他必救你脫離捕鳥人的網羅和毒害的瘟疫。 \
 > 他必用自己的翎毛遮蔽你；你要投靠在他的翅膀底下；他的誠實是大小的盾牌。
 
-詩篇91篇這幅「投靠在神翅膀底下」的圖畫，正是喇合一家在耶利哥城陷落那日所經歷的實況——當四圍的城牆傾倒、審判臨到全城，惟獨她窗上繫著朱紅線繩的那間房子，成了她全家的「避難所」與「山寨」。喇合實際的經歷，正是這篇詩所宣告之真理的一個具體、看得見的例證：投靠耶和華的人，必不至滅亡。
+詩篇91篇這幅「投靠在神翅膀底下」的圖畫，在喇合身上有一個看得見的版本：當四圍的城牆傾倒、審判臨到全城，惟獨她窗上繫著朱紅線繩的那間房子，成了她全家的「避難所」與「山寨」。
 
 ### Rock of Ages, Cleft for Me
 
@@ -216,11 +216,11 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**先問**：喇合這個人物的出身背景——迦南人、耶利哥城的妓女——在敘事者筆下，有沒有被刻意淡化或美化？沒有。敘事者誠實地稱她「妓女」，沒有為她的過去辯白。這提醒我們甚麼？神的恩典從不需要靠美化一個人的過去來顯出它的浩大，反而正是因為誠實承認一個人真實的光景，恩典的深度才被顯明出來。
+**先問**：約書亞記、希伯來書、雅各書提到她，都沒有省去「妓女」二字。要為她的名聲著想，這兩個字大可略去——為甚麼一處也沒有略？（順帶留意：太1:5的家譜裏，只記著她的名字。）
 
-**再問**：喇合的信心告白（2:9-11）比許多以色列人自己在曠野中發出的信心宣告更清楚、更完整。她所憑藉的，只是「聽見」的傳聞——出埃及、過紅海、勝西宏噩——而不是親眼所見。今天我們所擁有的，是整本已經完成的聖經、兩千年教會歷史的見證、還有身邊無數活著的見證人，我們的信心告白，是否反而比喇合更含糊、更遲疑？
+**再問**：喇合手上只有傳聞：出埃及、紅海、西宏和噩，沒有一件是她親眼見過的（2:10）。憑這幾則舊消息，她說出了2:11那句話。我們手上有整本聖經、兩千年的見證、身邊活著的人證，我們的告白憑甚麼反而比她含糊？
 
-**追問**：那條朱紅線繩，救了喇合和「聚集在她家中」的全家，卻沒有救那些出了門、走到街上的人（2:19）。這提醒我們：救恩雖然臨到一整個家庭，每一個成員卻仍然要親自「留在」記號劃定的範圍之內。我今天是不是也常常倚靠父母、配偶、教會群體的信心，卻沒有親自持守自己與神的關係？
+**追問**：門裏門外，只隔一道門檻，生死卻在兩邊（2:19）。你有沒有一個親人，是你一直以為「他在我們家裏，應該沒問題」的？他自己走進門了嗎？
 
 **落到自己**：如果耶利哥城的傾覆此刻臨到我所在的城市，我的窗戶上，有沒有繫著那條能讓審判天使越過的記號？這記號不是我自己編織的道德或宗教表現，而是基督寶血的遮蓋——我今天是不是真實地、個人地藏身在這記號之下？
 
@@ -232,17 +232,16 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **信心與冒險的行動**：喇合的信心不只是心裏相信，更表現在具體、冒著生命危險的行動上。你今天的信心告白，有沒有一個對應的、具體的、甚至有代價的行動？
+1. **她先求的是父母弟兄**：喇合信心的第一個具體要求，不是自己活命，是「要救活我的父母、弟兄、姊妹，和一切屬他們的」（2:13）。你信主之後，最先為誰的名字向神求過？那份名單有多久沒有更新了？
 
-2. **記號之內的個人持守**：一個記號能救全家，前提是全家人都留在記號劃定的範圍之內。你有沒有倚靠家人、配偶、教會群體的信心，卻疏於親自持守自己與神的關係？
+2. **繩子繫上之後的等待**：喇合當天就把朱紅線繩繫在窗上（2:21），可是耶利哥城破，還要等許多日子。她只能守著一條繩子過日子。你有沒有一個應許，是早已領受、卻仍在等的？這段日子你靠甚麼守住？
 
-3. **不完美的信心，仍蒙神悅納**：喇合的信心真實卻不完美，她仍然說了謊，卻仍蒙神記念、稱許。這對你今天看待自己屬靈光景中的軟弱與瑕疵，有甚麼提醒？
+3. **同一個消息，兩種反應**：全城和她聽見的是同一批消息（2:2-3、2:9-11）：一邊拿去加強戒備，一邊拿去投靠。你身邊也有人聽過與你相同的福音卻沒有信——這件事讓你更明白甚麼？
 
 ### 禱告回應
 
 > 天父，你是那位「上天下地」的神， \
-> 感謝你的恩典從不揀選完美的器皿，反而尋找那願意誠實相信你的人， \
-> 正如你曾尋找、拯救喇合一樣。 \
+> 感謝你的恩典從不揀選完美的器皿，正如你曾尋找、拯救喇合一樣。 \
 > 求你使我的信心不只停留在言語，更結出具體、有代價的行動； \
 > 也求你提醒我，不要倚靠他人的信心代替自己與你的關係， \
 > 願我今天真實地藏身在基督寶血所遮蓋的記號之下。 \

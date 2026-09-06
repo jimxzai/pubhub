@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：約書亞的地業排在最後（19:49-50）** \
 > **全書座標**：〔卷四·承受〕餘下七支派在示羅的會幕前抽籤分地；全部分完之後，約書亞才為自己求地（19:49-50）。真正的領袖，把百姓的產業放在自己的產業之前。
 
-這一幕直接指向那位「本是富足，卻為你們成了貧窮」的主（林後8:9）——祂來到世上「不是要受人的服事，乃是要服事人」（可10:45），甚至「沒有枕頭的地方」（太8:20）。約書亞的謙讓不是基督救贖工作的預表，而是一種真實可效法的僕人領袖形像：把弟兄的需要擺在自己的權益之前，正是那位真正元帥所活出的樣式，也是祂呼召跟隨祂的人所要學習的樣式。
+這一幕直接指向那位「他本來富足，卻為你們成了貧窮」的主（林後8:9）——祂來到世上「不是要受人的服事，乃是要服事人」（可10:45），甚至「沒有枕頭的地方」（太8:20）。約書亞的謙讓不是基督救贖工作的預表，而是一種真實可效法的僕人領袖形像：把弟兄的需要擺在自己的權益之前，正是那位真正元帥所活出的樣式，也是祂呼召跟隨祂的人所要學習的樣式。
 
 ---
 
@@ -48,7 +48,7 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-> ^1^以色列的全會眾都聚集在示羅，把會幕設立在那裏，那地已經被他們制伏了。^2^以色列人中其餘的七個支派還沒有分給他們地業。^3^約書亞對以色列人說：「耶和華你們列祖的神所賜給你們的地，你們耽延不去得，要到幾時呢？^4^你們每支派當選舉三個人，我要打發他們去，他們就要起身走遍那地，按著各支派應得的地業寫明，就回到我這裏來。^5^他們要將地分做七分；猶大仍在南方，住在他的境內。約瑟家仍在北方，住在他的境內。^6^你們要將地分做七分，寫明了拿到我這裏來。我要在耶和華我們神面前，為你們拈鬮。^7^利未人在你們中間沒有分，因為供耶和華祭司的職任就是他們的產業。迦得支派、流便支派，和瑪拿西半支派已經在約旦河東得了地業，就是耶和華僕人摩西所給他們的。」^8^劃地勢的人起身去的時候，約書亞囑咐他們說：「你們去走遍那地，劃明地勢，就回到我這裏來。我要在示羅這裏，耶和華面前，為你們拈鬮。」^9^他們就去了，走遍那地，按著城邑分做七分，寫在冊子上，回到示羅營中見約書亞。^10^約書亞就在示羅，耶和華面前，為他們拈鬮。約書亞在那裏，按著以色列人的支派，將地分給他們。
+> ^1^以色列的全會眾都聚集在示羅，把會幕設立在那裏，那地已經被他們制伏了。^2^以色列人中其餘的七個支派還沒有分給他們地業。^3^約書亞對以色列人說：「耶和華─你們列祖的神所賜給你們的地，你們耽延不去得，要到幾時呢？^4^你們每支派當選舉三個人，我要打發他們去，他們就要起身走遍那地，按著各支派應得的地業寫明，就回到我這裏來。^5^他們要將地分做七分；猶大仍在南方，住在他的境內。約瑟家仍在北方，住在他的境內。^6^你們要將地分做七分，寫明了拿到我這裏來。我要在耶和華─我們神面前，為你們拈鬮。^7^利未人在你們中間沒有分，因為供耶和華祭司的職任就是他們的產業。迦得支派、流便支派，和瑪拿西半支派已經在約旦河東得了地業，就是耶和華僕人摩西所給他們的。」^8^劃地勢的人起身去的時候，約書亞囑咐他們說：「你們去走遍那地，劃明地勢，就回到我這裏來。我要在示羅這裏，耶和華面前，為你們拈鬮。」^9^他們就去了，走遍那地，按著城邑分做七分，寫在冊子上，回到示羅營中見約書亞。^10^約書亞就在示羅，耶和華面前，為他們拈鬮。約書亞在那裏，按著以色列人的支派，將地分給他們。
 
 > ^11^便雅憫支派，按著宗族拈鬮所得之地，是在猶大、約瑟子孫中間。^12^他們的北界是從約旦河起，往上貼近耶利哥的北邊；又往西通過山地，直到伯‧亞文的曠野；^13^從那裏往南接連到路斯，貼近路斯（路斯就是伯特利），又下到亞他綠‧亞達，靠近下伯‧和崙南邊的山；^14^從那裏往西，又轉向南，從伯‧和崙南對面的山，直達到猶大人的城基列‧巴力（基列‧巴力就是基列‧耶琳）；這是西界。^15^南界是從基列‧耶琳的儘邊起，往西達到尼弗多亞的水源；^16^又下到欣嫩子谷對面山的儘邊，就是利乏音谷北邊的山；又下到欣嫩谷，貼近耶布斯的南邊；又下到隱‧羅結；^17^又往北通到隱‧示麥，達到亞都冥坡對面的基利綠；又下到流便之子波罕的磐石；^18^又接連到亞拉巴對面，往北下到亞拉巴；^19^又接連到伯‧曷拉的北邊，直通到鹽海的北汊，就是約旦河的南頭；這是南界。^20^東界是約旦河。這是便雅憫人按著宗族，照他們四圍的交界所得的地業。
 
@@ -60,7 +60,7 @@ publisher: 三書精讀出版系統
 
 > ^17^為以薩迦人，按著宗族，拈出第四鬮。^18^他們的境界是到耶斯列、基蘇律、書念、^19^哈弗連、示按、亞拿哈拉、^20^拉璧、基善、亞別、^21^利篾、隱‧干寧、隱‧哈大、伯‧帕薛；^22^又達到他泊、沙哈洗瑪、伯‧示麥，直通到約旦河為止，共十六座城，還有屬城的村莊。^23^這些城並屬城的村莊就是以薩迦支派按著宗族所得的地業。
 
-> ^24^為亞設支派，按著宗族，拈出第五鬮。^25^他們的境界是黑甲、哈利、比田、押煞、^26^亞拉米勒、亞末、米沙勒；往西達到迦密，又到希曷‧立納、^27^轉向日出之地，到伯‧大袞，達到細步綸；往北到伊弗他‧伊勒谷，到伯‧以墨和尼業，也通到迦布勒的左邊；^28^又到義伯崙、利合、哈們、加拿，直到西頓大城；^29^轉到拉瑪和堅固城泰爾；又轉到何薩，靠近亞革悉一帶地方，直通到海；^30^又有烏瑪、亞弗、利合，共二十二座城，還有屬城的村莊。^31^這些城並屬城的村莊就是亞設支派按著宗族所得的地業。
+> ^24^為亞設支派，按著宗族，拈出第五鬮。^25^他們的境界是黑甲、哈利、比田、押煞、^26^亞拉米勒、亞末、米沙勒；往西達到迦密，又到希曷‧立納、^27^轉向日出之地，到伯‧大袞，達到細步綸；往北到伊弗他‧伊勒谷，到伯‧以墨和尼業，也通到迦步勒的左邊；^28^又到義伯崙、利合、哈們、加拿，直到西頓大城；^29^轉到拉瑪和堅固城泰爾；又轉到何薩，靠近亞革悉一帶地方，直通到海；^30^又有烏瑪、亞弗、利合，共二十二座城，還有屬城的村莊。^31^這些城並屬城的村莊就是亞設支派按著宗族所得的地業。
 
 > ^32^為拿弗他利人，按著宗族，拈出第六鬮。^33^他們的境界是從希利弗從撒拿音的橡樹，從亞大米‧尼吉和雅比聶，直到拉共，通到約旦河；^34^又轉向西到亞斯納‧他泊，從那裏通到戶割，南邊到西布倫，西邊到亞設，又向日出之地，達到約旦河那裏的猶大。^35^堅固的城就是：西丁、側耳、哈末、拉甲、基尼烈、^36^亞大瑪、拉瑪、夏瑣、^37^基低斯、以得來、隱‧夏瑣、^38^以利穩、密大‧伊勒、和璉、伯‧亞納、伯‧示麥，共十九座城，還有屬城的村莊。^39^這些城並屬城的村莊就是拿弗他利支派按著宗族所得的地業。
 
@@ -70,23 +70,23 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^1^Then the whole congregation of the sons of Israel assembled themselves at Shiloh, and set up the tent of meeting there; and the land was subdued before them. ^2^There remained among the sons of Israel seven tribes who had not divided their inheritance. ^3^So Joshua said to the sons of Israel, "How long will you put off entering to take possession of the land which the LORD, God of your fathers, has given you?" ^4^"Provide for yourselves three men from each tribe that I may send them, and they may arise and walk through the land and write a description of it according to their inheritance; then they shall return to me." ^5^"They shall divide it into seven portions; Judah shall stay in its territory on the south, and the house of Joseph shall stay in their territory on the north." ^6^"You shall describe the land in seven divisions, and bring the description here to me. I will cast lots for you here before the LORD our God." ^7^"For the Levites have no portion among you, because the priesthood of the LORD is their inheritance. Gad and Reuben and the half-tribe of Manasseh also have received their inheritance eastward beyond the Jordan, which Moses the servant of the LORD gave them." ^8^Then the men arose and went, and Joshua commanded those who went to describe the land, saying, "Go and walk through the land and describe it, and return to me; then I will cast lots for you here before the LORD in Shiloh." ^9^So the men went and passed through the land, and described it by cities in seven divisions in a book; and they came to Joshua to the camp at Shiloh. ^10^And Joshua cast lots for them in Shiloh before the LORD, and there Joshua divided the land to the sons of Israel according to their divisions.
+> ^1^Then the whole congregation of the sons of Israel assembled themselves at Shiloh, and set up the tent of meeting there; and the land was subdued before them. ^2^There remained among the sons of Israel seven tribes who had not divided their inheritance. ^3^So Joshua said to the sons of Israel, "How long will you put off entering to take possession of the land which the LORD, the God of your fathers, has given you?" ^4^"Provide for yourselves three men from each tribe that I may send them, and that they may arise and walk through the land and write a description of it according to their inheritance; then they shall return to me." ^5^"They shall divide it into seven portions; Judah shall stay in its territory on the south, and the house of Joseph shall stay in their territory on the north." ^6^"You shall describe the land in seven divisions, and bring *the description* here to me. I will cast lots for you here before the LORD our God." ^7^"For the Levites have no portion among you, because the priesthood of the LORD is their inheritance. Gad and Reuben and the half-tribe of Manasseh also have received their inheritance eastward beyond the Jordan, which Moses the servant of the LORD gave them." ^8^Then the men arose and went, and Joshua commanded those who went to describe the land, saying, "Go and walk through the land and describe it, and return to me; then I will cast lots for you here before the LORD in Shiloh." ^9^So the men went and passed through the land, and described it by cities in seven divisions in a book; and they came to Joshua to the camp at Shiloh. ^10^And Joshua cast lots for them in Shiloh before the LORD, and there Joshua divided the land to the sons of Israel according to their divisions.
 
-> ^11^Now the lot of the tribe of the sons of Benjamin came up according to their families, and the territory of their lot lay between the sons of Judah and the sons of Joseph. ^12^Their border on the north side was from the Jordan, then the border went up to the side of Jericho on the north, and went up through the hill country westward, and it ended at the wilderness of Beth-aven. ^13^From there the border continued to Luz, to the side of Luz (that is, Bethel) southward; and the border went down to Ataroth-addar, near the hill which lies on the south of lower Beth-horon. ^14^The border extended from there and turned round on the west side southward, from the hill which lies before Beth-horon southward; and it ended at Kiriath-baal (that is, Kiriath-jearim), a city of the sons of Judah. This was the west side. ^15^Then the south side was from the edge of Kiriath-jearim, and the border went westward and went to the fountain of the waters of Nephtoah. ^16^The border went down to the edge of the hill which is in the valley of Ben-hinnom, which is in the valley of Rephaim northward; and it went down to the valley of Hinnom, to the slope of the Jebusite southward, and went down to En-rogel. ^17^It extended northward and went to En-shemesh and went to Geliloth, which is opposite the ascent of Adummim, and it went down to the stone of Bohan the son of Reuben. ^18^It continued to the side in front of the Arabah northward and went down to the Arabah. ^19^The border continued to the side of Beth-hoglah northward; and the border ended at the north bay of the Salt Sea, at the south end of the Jordan. This was the south border. ^20^Moreover, the Jordan was its border on the east side. This was the inheritance of the sons of Benjamin, according to their families and according to its borders all around.
+> ^11^Now the lot of the tribe of the sons of Benjamin came up according to their families, and the territory of their lot lay between the sons of Judah and the sons of Joseph. ^12^Their border on the north side was from the Jordan, then the border went up to the side of Jericho on the north, and went up through the hill country westward, and it ended at the wilderness of Beth-aven. ^13^From there the border continued to Luz, to the side of Luz (that is, Bethel) southward; and the border went down to Ataroth-addar, near the hill which *lies* on the south of lower Beth-horon. ^14^The border extended *from there* and turned round on the west side southward, from the hill which *lies* before Beth-horon southward; and it ended at Kiriath-baal (that is, Kiriath-jearim), a city of the sons of Judah. This *was* the west side. ^15^Then the south side *was* from the edge of Kiriath-jearim, and the border went westward and went to the fountain of the waters of Nephtoah. ^16^The border went down to the edge of the hill which is in the valley of Ben-hinnom, which is in the valley of Rephaim northward; and it went down to the valley of Hinnom, to the slope of the Jebusite southward, and went down to En-rogel. ^17^It extended northward and went to En-shemesh and went to Geliloth, which is opposite the ascent of Adummim, and it went down to the stone of Bohan the son of Reuben. ^18^It continued to the side in front of the Arabah northward and went down to the Arabah. ^19^The border continued to the side of Beth-hoglah northward; and the border ended at the north bay of the Salt Sea, at the south end of the Jordan. This *was* the south border. ^20^Moreover, the Jordan was its border on the east side. This *was* the inheritance of the sons of Benjamin, according to their families *and* according to its borders all around.
 
 > ^21^Now the cities of the tribe of the sons of Benjamin according to their families were Jericho and Beth-hoglah and Emek-keziz, ^22^and Beth-arabah and Zemaraim and Bethel, ^23^and Avvim and Parah and Ophrah, ^24^and Chephar-ammoni and Ophni and Geba; twelve cities with their villages. ^25^Gibeon and Ramah and Beeroth, ^26^and Mizpeh and Chephirah and Mozah, ^27^and Rekem and Irpeel and Taralah, ^28^and Zelah, Haeleph and the Jebusite (that is, Jerusalem), Gibeah, Kiriath; fourteen cities with their villages. This is the inheritance of the sons of Benjamin according to their families.
 
-> ^1^Then the second lot fell to Simeon, to the tribe of the sons of Simeon according to their families, and their inheritance was in the midst of the inheritance of the sons of Judah. ^2^So they had as their inheritance Beersheba or Sheba and Moladah, ^3^and Hazar-shual and Balah and Ezem, ^4^and Eltolad and Bethul and Hormah, ^5^and Ziklag and Beth-marcaboth and Hazar-susah, ^6^and Beth-lebaoth and Sharuhen; thirteen cities with their villages; ^7^Ain, Rimmon and Ether and Ashan; four cities with their villages; ^8^and all the villages which were around these cities as far as Baalath-beer, Ramah of the Negev. This was the inheritance of the tribe of the sons of Simeon according to their families. ^9^The inheritance of the sons of Simeon was taken from the portion of the sons of Judah, for the share of the sons of Judah was too large for them; so the sons of Simeon received an inheritance in the midst of Judah's inheritance.
+> ^1^Then the second lot fell to Simeon, to the tribe of the sons of Simeon according to their families, and their inheritance was in the midst of the inheritance of the sons of Judah. ^2^So they had as their inheritance Beersheba or Sheba and Moladah, ^3^and Hazar-shual and Balah and Ezem, ^4^and Eltolad and Bethul and Hormah, ^5^and Ziklag and Beth-marcaboth and Hazar-susah, ^6^and Beth-lebaoth and Sharuhen; thirteen cities with their villages; ^7^Ain, Rimmon and Ether and Ashan; four cities with their villages; ^8^and all the villages which *were* around these cities as far as Baalath-beer, Ramah of the Negev. This *was* the inheritance of the tribe of the sons of Simeon according to their families. ^9^The inheritance of the sons of Simeon *was taken* from the portion of the sons of Judah, for the share of the sons of Judah was too large for them; so the sons of Simeon received *an* inheritance in the midst of Judah's inheritance.
 
-> ^10^Now the third lot came up for the sons of Zebulun according to their families. And the territory of their inheritance was as far as Sarid. ^11^Then their border went up to the west and to Maralah, it then touched Dabbesheth and reached to the brook that is before Jokneam. ^12^Then it turned from Sarid to the east toward the sunrise as far as the border of Chisloth-tabor, and it proceeded to Daberath and up to Japhia. ^13^From there it continued eastward toward the sunrise to Gath-hepher, to Eth-kazin, and it proceeded to Rimmon which stretches to Neah. ^14^The border circled around it on the north to Hannathon, and it ended at the valley of Iphtahel. ^15^Included also were Kattah and Nahalal and Shimron and Idalah and Bethlehem; twelve cities with their villages. ^16^This was the inheritance of the sons of Zebulun according to their families, these cities with their villages.
+> ^10^Now the third lot came up for the sons of Zebulun according to their families. And the territory of their inheritance was as far as Sarid. ^11^Then their border went up to the west and to Maralah, it then touched Dabbesheth and reached to the brook that is before Jokneam. ^12^Then it turned from Sarid to the east toward the sunrise as far as the border of Chisloth-tabor, and it proceeded to Daberath and up to Japhia. ^13^From there it continued eastward toward the sunrise to Gath-hepher, to Eth-kazin, and it proceeded to Rimmon which stretches to Neah. ^14^The border circled around it on the north to Hannathon, and it ended at the valley of Iphtahel. ^15^*Included* also *were* Kattah and Nahalal and Shimron and Idalah and Bethlehem; twelve cities with their villages. ^16^This *was* the inheritance of the sons of Zebulun according to their families, these cities with their villages.
 
 > ^17^The fourth lot fell to Issachar, to the sons of Issachar according to their families. ^18^Their territory was to Jezreel and *included* Chesulloth and Shunem, ^19^and Hapharaim and Shion and Anaharath, ^20^and Rabbith and Kishion and Ebez, ^21^and Remeth and En-gannim and En-haddah and Beth-pazzez. ^22^The border reached to Tabor and Shahazumah and Beth-shemesh, and their border ended at the Jordan; sixteen cities with their villages. ^23^This *was* the inheritance of the tribe of the sons of Issachar according to their families, the cities with their villages.
 
 > ^24^Now the fifth lot fell to the tribe of the sons of Asher according to their families. ^25^Their territory was Helkath and Hali and Beten and Achshaph, ^26^and Allammelech and Amad and Mishal; and it reached to Carmel on the west and to Shihor-libnath. ^27^It turned toward the east to Beth-dagon and reached to Zebulun, and to the valley of Iphtahel northward to Beth-emek and Neiel; then it proceeded on north to Cabul, ^28^and Ebron and Rehob and Hammon and Kanah, as far as Great Sidon. ^29^The border turned to Ramah and to the fortified city of Tyre; then the border turned to Hosah, and it ended at the sea by the region of Achzib. ^30^*Included* also *were* Ummah, and Aphek and Rehob; twenty-two cities with their villages. ^31^This *was* the inheritance of the tribe of the sons of Asher according to their families, these cities with their villages.
 
-> ^32^The sixth lot fell to the sons of Naphtali; to the sons of Naphtali according to their families. ^33^Their border was from Heleph, from the oak in Zaanannim and Adami-nekeb and Jabneel, as far as Lakkum, and it ended at the Jordan. ^34^Then the border turned westward to Aznoth-tabor and proceeded from there to Hukkok; and it reached to Zebulun on the south and touched Asher on the west, and to Judah at the Jordan toward the east. ^35^The fortified cities were Ziddim, Zer and Hammath, Rakkath and Chinnereth, ^36^and Adamah and Ramah and Hazor, ^37^and Kedesh and Edrei and En-hazor, ^38^and Yiron and Migdal-el, Horem and Beth-anath and Beth-shemesh; nineteen cities with their villages. ^39^This was the inheritance of the tribe of the sons of Naphtali according to their families, the cities with their villages.
+> ^32^The sixth lot fell to the sons of Naphtali; to the sons of Naphtali according to their families. ^33^Their border was from Heleph, from the oak in Zaanannim and Adami-nekeb and Jabneel, as far as Lakkum, and it ended at the Jordan. ^34^Then the border turned westward to Aznoth-tabor and proceeded from there to Hukkok; and it reached to Zebulun on the south and touched Asher on the west, and to Judah at the Jordan toward the east. ^35^The fortified cities *were* Ziddim, Zer and Hammath, Rakkath and Chinnereth, ^36^and Adamah and Ramah and Hazor, ^37^and Kedesh and Edrei and En-hazor, ^38^and Yiron and Migdal-el, Horem and Beth-anath and Beth-shemesh; nineteen cities with their villages. ^39^This *was* the inheritance of the tribe of the sons of Naphtali according to their families, the cities with their villages.
 
-> ^40^The seventh lot fell to the tribe of the sons of Dan according to their families. ^41^The territory of their inheritance was Zorah and Eshtaol and Ir-shemesh, ^42^and Shaalabbin and Aijalon and Ithlah, ^43^and Elon and Timnah and Ekron, ^44^and Eltekeh and Gibbethon and Baalath, ^45^and Jehud and Bene-berak and Gath-rimmon, ^46^and Me-jarkon and Rakkon, with the territory over against Joppa. ^47^The territory of the sons of Dan proceeded beyond them; for the sons of Dan went up and fought with Leshem and captured it. Then they struck it with the edge of the sword and possessed it and settled in it; and they called Leshem Dan after the name of Dan their father. ^48^This was the inheritance of the tribe of the sons of Dan according to their families, these cities with their villages.
+> ^40^The seventh lot fell to the tribe of the sons of Dan according to their families. ^41^The territory of their inheritance was Zorah and Eshtaol and Ir-shemesh, ^42^and Shaalabbin and Aijalon and Ithlah, ^43^and Elon and Timnah and Ekron, ^44^and Eltekeh and Gibbethon and Baalath, ^45^and Jehud and Bene-berak and Gath-rimmon, ^46^and Me-jarkon and Rakkon, with the territory over against Joppa. ^47^The territory of the sons of Dan proceeded beyond them; for the sons of Dan went up and fought with Leshem and captured it. Then they struck it with the edge of the sword and possessed it and settled in it; and they called Leshem Dan after the name of Dan their father. ^48^This *was* the inheritance of the tribe of the sons of Dan according to their families, these cities with their villages.
 
 > ^49^When they finished apportioning the land for inheritance by its borders, the sons of Israel gave an inheritance in their midst to Joshua the son of Nun. ^50^In accordance with the command of the LORD they gave him the city for which he asked, Timnath-serah in the hill country of Ephraim. So he built the city and settled in it. ^51^These are the inheritances which Eleazar the priest, and Joshua the son of Nun, and the heads of the households of the tribes of the sons of Israel distributed by lot in Shiloh before the LORD at the doorway of the tent of meeting. So they finished dividing the land.
 
@@ -96,7 +96,7 @@ publisher: 三書精讀出版系統
 
 ### 示羅：從曠野帳幕到迦南聖所
 
-示羅位於伯特利以北、示劍以南的中心地帶，是十二支派分地時最合適的聚集地點——梅爾描述其地形為一片被低丘環繞的寬廣平原，北端有一處岩石平台，正是設立會幕的理想場所。會幕在此安設之後，直到以利時代（撒上1-4章）約三百年間，示羅都是以色列敬拜的中心，後因以利兩個兒子的罪、以色列人輕慢地將約櫃當作護身符帶上戰場，示羅終致荒廢——耶利米後來提醒耶路撒冷人「你們且往我在示羅的地方去，就是我先前立為我名的居所」（耶7:12），要百姓引以為戒。
+示羅位於伯特利以北、示劍以南的中心地帶，是十二支派分地時最合適的聚集地點——梅爾描述其地形為一片被低丘環繞的寬廣平原，北端有一處岩石平台，正是設立會幕的理想場所。會幕在此安設之後，直到以利時代（撒上1-4章）約三百年間，示羅都是以色列敬拜的中心，後因以利兩個兒子的罪、以色列人輕慢地將約櫃當作護身符帶上戰場，示羅終致荒廢——耶利米後來提醒耶路撒冷人「你們且往示羅去，就是我先前立為我名的居所」（耶7:12），要百姓引以為戒。
 
 ### 二十一人的土地測量
 
@@ -125,19 +125,19 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 拖延不是無害的中立，而是對應許的輕慢
+### 1. 地已經平靖了，七個支派還坐在示羅沒去拿
 
 七支派「還沒有分給他們地業」（18:2），約書亞責備他們「耽延不去得，要到幾時呢」（18:3）。這不是單純的行政延誤，而是屬靈光景的寫照——神已經賜下的應許，若不憑信心採取行動去支取，遲早會從「暫時擱置」滑向「幾乎放棄」。
 
-### 2. 公正的拈鬮，勝過人的偏私安排
+### 2. 主持分地的那個人，自己也屬於以法蓮支派
 
 18:6-10記載約書亞在耶和華面前為七支派拈鬮，而非按自己的判斷分配——即使身為總指揮的約書亞屬於以法蓮支派，他也沒有為自己的支派謀取任何特殊待遇。神藉拈鬮親自介入分地過程，杜絕了任何人事偏私的可能，也讓每個支派都能坦然接受自己所得的分。
 
-### 3. 但支派的擴張，提醒我們神的應許常有超乎預期的餘地
+### 3. 但支派嫌地小，就自己往北多走了一程
 
 但支派原本所得之地不足容納他們（19:47），神卻藉著他們自己的爭戰行動，讓地界得以擴張到利善（但城）。這提醒讀者：神量給我們的「一份」，有時看似不足，但神也留出憑信心、憑爭戰去擴展的空間——問題不在神給得吝嗇，而在人是否願意起身去爭取。
 
-### 4. 元帥最後才為自己求地——謙讓不是軟弱，而是真正的權柄
+### 4. 他為七支派拈了七次鬮，自己的那一份排在最後
 
 19:49-50這兩節經文平淡地記下：眾支派都分完了地業，以色列人才「將地給嫩的兒子約書亞為業」。約書亞本可以在分地之初就為自己預留最好的一份，他卻選擇等到眾人都得地之後才開口——這正是真正屬神的領袖與世上爭權奪利者最根本的差異。
 
@@ -212,7 +212,7 @@ publisher: 三書精讀出版系統
 > 耶和華啊，我的心不狂傲，我的眼不高大；重大和測不透的事，我也不敢行。 \
 > 我的心平穩安靜，好像斷過奶的孩子在他母親的懷中；我的心在我裏面真像斷過奶的孩子。
 
-大衛在此描繪一顆不狂傲、甘心安靜等候的心——這正是約書亞在19:49-50所活出的樣式：身為元帥，本可理直氣壯地要求優先待遇，他卻甘心排在眾支派之後，安靜等候輪到自己的那一刻。真正的謙卑，不是自輕自賤，而是像斷奶孩子一樣，不再急著爭搶母親懷中最好的位置。
+大衛在此描繪一顆不狂傲、甘心安靜等候的心。真正的謙卑不是自輕自賤，而是像斷過奶的孩子一樣，不再急著爭搶母親懷中最好的位置——這正是約書亞在示羅一連為七個支派拈鬮、卻始終沒有為自己開口的那份安靜。
 
 ### We're Marching to Zion
 
@@ -238,7 +238,7 @@ publisher: 三書精讀出版系統
 
 **落到自己**：你在群體中，是習慣先為自己爭取最好的位置，還是願意效法約書亞，把弟兄姊妹的需要放在自己的需要之前？
 
-**你看見耶穌了嗎**：約書亞不是基督的預表，卻活出了一幅極貼近基督樣式的圖畫——祂本是萬有的主，卻「反倒虛己，取了奴僕的形像」（腓2:7），先成就了眾人的救恩，才「因這順服，將祂升為至高」（腓2:9）。約書亞最後才為自己求地，你從這裏看見那更偉大的僕人領袖，是如何先捨己、後得榮耀的嗎？
+**你看見耶穌了嗎**：約書亞不是基督的預表，卻活出了一幅極貼近基督樣式的圖畫——祂本是萬有的主，卻「反倒虛己，取了奴僕的形像」（腓2:7），先成就了眾人的救恩，才因這順服而被「升為至高」（腓2:9）。約書亞最後才為自己求地，你從這裏看見那更偉大的僕人領袖，是如何先捨己、後得榮耀的嗎？
 
 ---
 
@@ -246,11 +246,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **拖延的代價**：七支派「耽延不去得」神已賜下的地，直到約書亞出面督促。你生命中，是否也有一些神已經賜下、卻因為拖延而遲遲未曾真正支取的應許？
+1. **二十一個人的枯燥差事**：每支派三個人，走遍七支派尚未平靖的土地，逐城寫成清冊帶回示羅（18:4-9）——沒有神蹟、沒有戰功，只有幾個月的測量與記錄。你願不願意接下這樣一件既有風險、又不會被記住名字的差事？
 
 2. **公正勝於偏私**：約書亞以拈鬮而非個人判斷來分地，即使自己身為以法蓮支派的一員也不例外。你在群體中作決定時，是否也願意讓公正的原則凌駕於個人或所屬群體的利益之上？
 
-3. **次序的智慧**：約書亞刻意讓自己的地業排在眾人之後才處理。你在家庭、教會或職場中做決策時，是否也願意調整優先次序，讓他人的需要先於自己的？
+3. **他求的是一座要自己修的城**：約書亞開口求的亭拿‧西拉，不是現成可住的城——經文說「他就修那城，住在其中」（19:50）。你所盼望的那一份，是一件現成可享的東西，還是一件你甘願親手修起來的工？
 
 ### 禱告回應
 

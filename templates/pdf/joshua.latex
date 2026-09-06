@@ -393,6 +393,14 @@
 \renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
 \renewcommand{\sectionmark}[1]{\markright{#1}}
 \setcounter{secnumdepth}{-1}
+% \chaptermark only fires for NUMBERED chapters. Every \chapter* — all the front
+% matter and both appendices — leaves the mark untouched, so those pages inherit
+% the running head of whichever numbered chapter set it last: the appendices would
+% run under 「約書亞的遺言與立約」 (ch.20). Same fix as templates/pdf/ruth.latex.
+\makeatletter
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+\makeatother
 \makeatletter
 % Chapter styling
 \def\@makechapterhead#1{%

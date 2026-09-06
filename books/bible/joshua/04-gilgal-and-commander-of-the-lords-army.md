@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：耶和華軍隊的元帥（5:14-15）** \
 > **全書座標**：〔卷一·預備〕爭戰之前的最後一步。割禮除去埃及的羞辱、逾越節重新被守、嗎哪止息，元帥親自顯現（5:14）。四件事合起來只說明一件事：得地的爭戰，從頭到尾是耶和華的爭戰。
 
-這位「耶和華軍隊的元帥」對約書亞說「把你腳上的鞋脫下來，因為你所站的地方是聖的」（5:15），與神在何烈山的荊棘火焰中對摩西所說的話（出3:5）幾乎一字不差。摩西蒙召帶百姓出埃及之前，先被吩咐脫鞋；約書亞蒙召帶百姓進迦南、真正的爭戰即將展開之前，也同樣被吩咐脫鞋。歷代解經家（加爾文、亨利，以及更早的俄利根）多將這位元帥認作道成肉身之前的基督自己顯現——祂接受約書亞的敬拜，這是被造的天使絕不敢接受的敬意（參徒10:25-26天使拒絕哥尼流下拜；啟19:10天使拒絕約翰下拜）。這位元帥的形象——「拿刀站立」——在啟示錄末了再次出現：那位「用口中的劍」擊打列國、率領「天上的眾軍」的王（啟19:11-16），正是這位曾在耶利哥城外向約書亞顯現的元帥，終極、完全地顯明。
+這位「耶和華軍隊的元帥」對約書亞說「把你腳上的鞋脫下來，因為你所站的地方是聖的」（5:15），與神在何烈山的荊棘火焰中對摩西所說的話（出3:5）幾乎一字不差。摩西蒙召帶百姓出埃及之前，先被吩咐脫鞋；約書亞蒙召帶百姓進迦南、真正的爭戰即將展開之前，也同樣被吩咐脫鞋。歷代解經家（加爾文、亨利，以及更早的俄利根）多將這位元帥認作道成肉身之前的基督自己顯現，關鍵的證據是祂坦然受了約書亞的敬拜（詳見〈歷代注疏〉；參徒10:25-26、啟19:10，天使兩次拒絕人的下拜）。這位元帥的形象——「拿刀站立」——在啟示錄末了再次出現：那位「用口中的劍」擊打列國、率領「天上的眾軍」的王（啟19:11-16），正是這位曾在耶利哥城外向約書亞顯現的元帥，終極、完全地顯明。
 
 ---
 
@@ -58,13 +58,13 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^1^Now it came about when all the kings of the Amorites who were beyond the Jordan to the west, and all the kings of the Canaanites who were by the sea, heard how the LORD had dried up the waters of the Jordan before the sons of Israel until they had crossed, that their hearts melted, and there was no spirit in them any longer because of the sons of Israel.
+> ^1^Now it came about when all the kings of the Amorites who *were* beyond the Jordan to the west, and all the kings of the Canaanites who *were* by the sea, heard how the LORD had dried up the waters of the Jordan before the sons of Israel until they had crossed, that their hearts melted, and there was no spirit in them any longer because of the sons of Israel.
 
-> ^2^At that time the LORD said to Joshua, "Make for yourself flint knives and circumcise again the sons of Israel the second time." ^3^So Joshua made himself flint knives and circumcised the sons of Israel at Gibeath-haaraloth. ^4^This is the reason why Joshua circumcised them: all the people who came out of Egypt who were males, all the men of war, died in the wilderness along the way, after they came out of Egypt. ^5^For all the people who came out were circumcised, but all the people who were born in the wilderness along the way as they came out of Egypt had not been circumcised. ^6^For the sons of Israel walked forty years in the wilderness, until all the nation, that is, the men of war who came out of Egypt, perished because they did not listen to the voice of the LORD, to whom the LORD had sworn that He would not let them see the land which the LORD had sworn to their fathers to give us, a land flowing with milk and honey. ^7^Their children whom He raised up in their place, Joshua circumcised; for they were uncircumcised, because they had not circumcised them along the way. ^8^Now when they had finished circumcising all the nation, they remained in their places in the camp until they were healed. ^9^Then the LORD said to Joshua, "Today I have rolled away the reproach of Egypt from you." So the name of that place is called Gilgal to this day.
+> ^2^At that time the LORD said to Joshua, "Make for yourself flint knives and circumcise again the sons of Israel the second time." ^3^So Joshua made himself flint knives and circumcised the sons of Israel at Gibeath-haaraloth. ^4^This is the reason why Joshua circumcised them: all the people who came out of Egypt who were males, all the men of war, died in the wilderness along the way after they came out of Egypt. ^5^For all the people who came out were circumcised, but all the people who were born in the wilderness along the way as they came out of Egypt had not been circumcised. ^6^For the sons of Israel walked forty years in the wilderness, until all the nation, *that is*, the men of war who came out of Egypt, perished because they did not listen to the voice of the LORD, to whom the LORD had sworn that He would not let them see the land which the LORD had sworn to their fathers to give us, a land flowing with milk and honey. ^7^Their children whom He raised up in their place, Joshua circumcised; for they were uncircumcised, because they had not circumcised them along the way. ^8^Now when they had finished circumcising all the nation, they remained in their places in the camp until they were healed. ^9^Then the LORD said to Joshua, "Today I have rolled away the reproach of Egypt from you." So the name of that place is called Gilgal to this day.
 
-> ^10^While the sons of Israel camped at Gilgal they observed the Passover on the evening of the fourteenth day of the month on the desert plains of Jericho. ^11^On the day after the Passover, on that very day, they ate some of the produce of the land, unleavened cakes and parched grain. ^12^The manna ceased on the day after they had eaten some of the produce of the land, so that the sons of Israel no longer had manna, but they ate some of the yield of the land of Canaan during that year.
+> ^10^While the sons of Israel camped at Gilgal they observed the Passover on the evening of the fourteenth day of the month on the desert plains of Jericho. ^11^On the day after the Passover, on that very day, they ate some of the produce of the land, unleavened cakes and parched *grain*. ^12^The manna ceased on the day after they had eaten some of the produce of the land, so that the sons of Israel no longer had manna, but they ate some of the yield of the land of Canaan during that year.
 
-> ^13^Now it came about when Joshua was by Jericho, that he lifted up his eyes and looked, and behold, a man was standing opposite him with his sword drawn in his hand, and Joshua went to him and said to him, "Are you for us or for our adversaries?" ^14^He said, "No; rather I indeed come now as captain of the host of the LORD." And Joshua fell on his face to the earth, and bowed down, and said to him, "What has my lord to say to his servant?" ^15^The captain of the LORD'S host said to Joshua, "Remove your sandals from your feet, for the place where you are standing is holy." And Joshua did so.
+> ^13^Now it came about when Joshua was by Jericho, that he lifted up his eyes and looked, and behold, a man was standing opposite him with his sword drawn in his hand, and Joshua went to him and said to him, "Are you for us or for our adversaries?" ^14^He said, "No; rather I indeed come now *as* captain of the host of the LORD." And Joshua fell on his face to the earth, and bowed down, and said to him, "What has my lord to say to his servant?" ^15^The captain of the LORD'S host said to Joshua, "Remove your sandals from your feet, for the place where you are standing is holy." And Joshua did so.
 
 ---
 
@@ -80,7 +80,7 @@ publisher: 三書精讀出版系統
 
 ### 「元帥」顯現與何烈山的呼應
 
-5:15「把你腳上的鞋脫下來，因為你所站的地方是聖的」與出埃及記3:5神在荊棘中對摩西所說的話（「把你腳上的鞋脫下來，因為你所站之地是聖地」）幾乎一字不差。這樣的呼應絕非偶然：摩西在曠野牧羊、即將受召帶領百姓出埃及之前，先在何烈山經歷這一幕；約書亞在耶利哥城外、真正的爭戰即將展開之前，也同樣經歷這一幕。兩處經文合看，似乎在告訴讀者：無論是「出」埃及，或是「進」迦南，最初的行動主權，從來不在人的謀略，而在那位親自向兩位領袖顯現的神自己。
+5:15的命令與出埃及記3:5神在荊棘火焰中對摩西所說的話幾乎一字不差。兩幕的位置也對稱：摩西那一幕在「出」埃及之前，約書亞這一幕在「進」迦南之前——出與進的兩端，起手的主權都不在人的謀略。
 
 ---
 
@@ -95,27 +95,27 @@ publisher: 三書精讀出版系統
 
 ### 「吉甲」——一個地名，兩個層次的「滾去」
 
-「吉甲」這地名在4:19-20已先出現（十二塊石頭立在吉甲），但直到5:9耶和華親口說出「我今日將埃及的羞辱從你們身上滾去了」，這地名的意義才被完整揭示。同一個地方，先是十二塊石頭見證著約旦河神蹟的「滾去」——水被滾走、地被踏平；後又見證著埃及羞辱的「滾去」——透過割禮，這一代人終於除去了曠野漂流四十年、未能承受應許的那分羞辱。地理上的同一個吉甲，承載著雙重的「滾去」，恰恰預表著神百姓進入應許之地時，外在的攔阻與內在的羞辱都一併被除去。
+「吉甲」這地名在4:19-20已先出現（十二塊石頭立在吉甲），但直到5:9耶和華親口說出「我今日將埃及的羞辱從你們身上滾去了」，這地名的意義才被完整揭示。同一塊地，先立下十二塊石頭見證河水被神挪開，再見證埃及的羞辱被神滾走：一件在外，一件在內，同一個名字底下。
 
 ---
 
 ## 領受要點 (Truths Received)
 
-### 1. 進入應許之地之前，先要處理內在的、被擱置已久的虧欠
+### 1. 進迦南的第一道命令，是讓全軍暫時不能打仗
 
-以色列人已經奇蹟般地過了約旦河，站在應許之地的土地上，理當立刻整軍備戰；然而耶和華卻先吩咐約書亞行割禮——一件表面上使全軍暫時喪失戰鬥力的舉動（8節「等到痊癒了」）。這提醒神的百姓：在展開新的、更大的事奉或爭戰之前，往往需要先誠實面對一件被擱置已久的虧欠或功課，即便處理這功課會讓人暫時顯得「軟弱」。
+河剛過完，敵城就在眼前，照常理該立刻整軍；耶和華卻先吩咐行割禮，而受了割禮的人要「住在營中自己的地方，等到痊癒了」（5:8）。新的爭戰要開始之前，神先動手處理的往往不是敵人，是祂百姓身上那件擱了四十年的舊帳——即使處理它會讓人暫時毫無戰力。
 
-### 2. 神的供應方式，會隨著祂百姓所處的階段而改變
+### 2. 嗎哪停在他們吃到新糧的第二天
 
-嗎哪止息，正好是在百姓開始吃「那地的出產」之後（5:11-12）——神不是先撤去舊的供應，再讓新的供應姍姍來遲，而是讓兩者有一段重疊，確保百姓從未經歷「無所倚靠」的空窗期。這提醒信徒：神供應祂百姓的具體方式，可能會隨著我們生命階段的轉換而改變，但祂供應的信實從未改變。
+5:11-12的次序寫得很細：先吃了那地的出產，第二日嗎哪才止住。神不是先撤走舊供應、再讓新供應姍姍來遲，中間留了一段重疊，叫百姓沒有一天是空著手的。供應的形式隨階段換，供應的信實不換。
 
-### 3. 得地的爭戰，從頭到尾都是耶和華自己的爭戰
+### 3. 元帥的回答是「不是的」——祂不選邊，祂接管
 
-約書亞問這位神秘的來者「你是幫助我們呢，是幫助我們敵人呢」，得到的回答卻是：「不是的，我來是要作耶和華軍隊的元帥」（5:13-14）——祂既不是單純「幫助」以色列的盟友，也不是敵人，而是這場戰爭真正的統帥。這提醒每一位以為自己在「為神打仗」的人：得地的爭戰，從來不是我們邀請神來幫我們打的仗，而是神自己的仗，我們不過是元帥麾下的士兵。
+約書亞的問題只給了兩個選項：幫我們，還是幫敵人（5:13）。來者一個也沒選，只自報身分是耶和華軍隊的元帥（5:14）。一句話換掉了主角：得地的仗不是我們請神來幫忙的仗，是神自己的仗，我們是祂麾下的兵。凡自認在「為神打仗」的人，都要先被這句話糾正一次。
 
-### 4. 真正認識神的同在，第一個反應是脫鞋，不是急著求戰略
+### 4. 城要怎麼攻，一個字也沒說；先說的是脫鞋
 
-約書亞面對這位元帥，得到的第一道命令不是攻城的戰術指示，而是「把你腳上的鞋脫下來」（5:15）——在真正的爭戰指令下達之前，敬畏與俯伏才是第一步。這提醒我們，無論面對多麼迫切的屬靈爭戰，認識並敬畏神自己的同在，永遠應當先於一切戰略與行動計畫。
+明天就要開打，元帥給的第一道命令與戰術無關，只叫約書亞把鞋脫下來，因為腳下是聖地（5:15）。敬畏排在戰略前面——越急的仗，越不能跳過這一步。
 
 ---
 
@@ -127,7 +127,7 @@ publisher: 三書精讀出版系統
 
 ### 加爾文 (John Calvin)
 
-加爾文對割禮中斷四十年一事感到極為詫異，並直言後世解經家為此提出的種種辯解都難以令人信服；但他也指出，這正是耶和華刻意向那犯罪一代所發出的審判記號。
+加爾文直言後世解經家為割禮中斷四十年所提出的種種辯解都難以令人信服，他自己則從那一代人所受的審判去理解這件事：
 
 > "It seems very strange and almost monstrous, that circumcision had so long been laid aside, especially as it became those who were receiving daily admonitions to be more than usually careful to cultivate the exercises of piety."
 >
@@ -153,7 +153,7 @@ publisher: 三書精讀出版系統
 
 ### 馬太·亨利 (Matthew Henry)
 
-亨利認為神刻意選在百姓已渡河、卻尚未攻城之際才吩咐行割禮，正是要向百姓顯明：得地的關鍵不在軍力，而在神自己直接的護理。
+亨利留意到行割禮的時機——已渡河、未攻城，全軍最無防衛能力的一刻：
 
 > "God would hereby show that the camp of Israel was not governed by the ordinary rules and measures of war, but by immediate direction from God, who by thus exposing them, in the most dangerous moments, magnified his own power in protecting them even then."
 >
@@ -171,7 +171,7 @@ publisher: 三書精讀出版系統
 
 ### 梅爾 (F.B. Meyer)
 
-梅爾將逾越節、地產、嗎哪止息這三日的先後次序，視為基督復活與升天次序的一個預表，特別著墨於「嗎哪的止息恰逢新地產的享用」這個細節。
+梅爾將逾越節、吃地產、嗎哪止息這三日的先後次序，讀作基督復活的一個預表：
 
 > "Is it not significant that on this very day the Lord Jesus arose from the dead, 'the first-fruits of them that slept'?"
 >
@@ -189,7 +189,7 @@ publisher: 三書精讀出版系統
 
 ### 司布真 (C.H. Spurgeon)
 
-司布真1868年在大都會會幕以約書亞記5:13-15為題，講了第795篇講章〈約書亞的異象〉（Joshua's Vision），指出割禮與逾越節這兩件被擱置已久的功課必須先補足，元帥才向約書亞顯現，展開真正的爭戰。
+司布真1868年在大都會會幕以約書亞記5:13-15為題，講了第795篇講章〈約書亞的異象〉（Joshua's Vision），開講先數算神在攻城之前一句也沒有提的事：
 
 > "Not a word about the walls falling flat to the ground, not a syllable concerning compassing the accursed city seven days, until first of all, the reproach of Egypt had been put away, and His people had received the token of the covenant."
 >
@@ -216,23 +216,23 @@ publisher: 三書精讀出版系統
 > 眾城門哪，你們要抬起頭來！永久的門戶，你們要把頭抬起！那榮耀的王將要進來！ \
 > 榮耀的王是誰呢？萬軍之耶和華，他是榮耀的王！
 
-詩篇24篇「萬軍之耶和華，他是榮耀的王」這句宣告，與約書亞記5章「耶和華軍隊的元帥」正是同一位——祂不僅是「有力有能」、「在戰場上有能」的神，更是那位配得城門為祂敞開、萬軍尊祂為王的榮耀之主。約書亞在耶利哥城外俯伏敬拜的這位元帥，正是詩篇這裏所宣告的「榮耀的王」。
+詩篇24篇「萬軍之耶和華，他是榮耀的王」這句宣告，與約書亞記5章「耶和華軍隊的元帥」正是同一位。詩人叫城門為這位王抬起頭來；耶利哥的城門卻「關得嚴緊，無人出入」（6:1）——下一章要記載那城牆自己塌陷（6:20）。
 
 ### Onward, Christian Soldiers
 
-延續本章開篇之詩——「十字架的旌旗，在我們前頭引路」，正呼應著耶和華軍隊的元帥「拿刀站立」、親自率軍的圖畫。這首詩提醒每一位跟隨基督的人：爭戰的元帥從來不是我們自己，我們不過是跟隨那面十字架旌旗前進的精兵。
+延續本章開篇之詩——「十字架的旌旗，在我們前頭引路」，正呼應著耶和華軍隊的元帥「拿刀站立」、親自率軍的圖畫：旌旗在前，精兵在後，次序不能顛倒。
 
 ---
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**先問**：以色列人剛剛奇蹟般地過了約旦河，理當立刻整軍備戰、乘勝追擊，神卻先吩咐約書亞行割禮——一件會讓全軍暫時喪失戰鬥力的舉動（5:8「等到痊癒了」）。這樣的先後次序，與我們一般人急於「乘勝追擊」的直覺完全相反。今天當我站在一個新機會、新任務的門檻前，是不是也常常急著往前衝，卻略過了神要我先處理的、被擱置已久的一件虧欠？
+**先問**：剛過完約旦河，你若是主帥，下一道命令會是甚麼？神的命令是行割禮，全軍躺著養傷（5:8）。你站在一個新機會的門檻上時，有沒有一件神要你先辦、你卻覺得「現在不是時候」的舊帳？
 
-**再問**：約書亞質問這位神秘來者「你是幫助我們呢，是幫助我們敵人呢」，得到的回答卻超出了他的問題本身：「不是的，我來是要作耶和華軍隊的元帥」（5:13-14）。約書亞的問題預設了自己才是這場戰爭的主角，元帥的回答卻糾正了這個預設。今天我在自己的服事、爭戰中，是不是也不知不覺把自己當成了主角，而忘了這終究是神自己的仗？
+**再問**：如果今天有人問你「神到底站在哪一邊」，你會怎麼回答他？5:14 那句「不是的」，是在回答問題，還是在拆掉問題？
 
-**追問**：約書亞得到的第一道命令不是攻城的戰術，而是「把你腳上的鞋脫下來」（5:15）。在真正的行動指示下達之前，敬畏與俯伏才是第一步。我在禱告、在尋求神的引導時，是不是也常常太急著要「戰略」與「答案」，卻略過了先安靜俯伏、脫鞋敬畏這一步？
+**追問**：回想你上一次尋求神的引導：求「該怎麼做」的時間，和單單認祂是神的時間，比例大約是多少？如果把後者刪掉，你的禱告和一次策略會議還有甚麼分別？
 
-**落到自己**：吉甲這地名，意味著「羞辱被滾去」。我生命中有沒有一件被擱置已久、自己也不敢正視的羞辱或虧欠，是神今天要我像以色列人接受割禮一樣，誠實面對、讓祂親自除去的？
+**落到自己**：吉甲的意思是「滾去」。我生命裏有沒有一件不敢正視的羞辱，是神要親自滾走、我卻寧可繞著它走的？我繞了多少年了？
 
 **你看見耶穌了嗎**：這位「拿刀站立」、接受約書亞俯伏敬拜的元帥，正是道成肉身之前的基督自己顯現——祂對摩西在何烈山所說的話（出3:5），在此對約書亞一字不差地重說一遍。這位曾在耶利哥城外顯現的元帥，正是啟示錄末了那位「率領天上的眾軍」、終極得勝的王（啟19:11-16）。你今天讀到這位元帥的顯現，看不看見那位真正、終極率領你我爭戰得勝的耶穌基督？
 
@@ -242,19 +242,18 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **先處理虧欠，再迎向爭戰**：以色列人在整軍備戰之前，先要行割禮。你今天有沒有一件被擱置已久的功課或虧欠，是神要你先誠實面對，才能真正迎向前面的爭戰或服事？
+1. **敵人早就先軟了**：以色列人還在營裏養傷的時候，諸王的心已經消化（5:1）。你眼前那件「非我出手不可」的難處，有沒有可能神早已在你看不見的地方動了工？
 
-2. **誰是這場爭戰真正的元帥**：約書亞以為自己在問一個關於「敵我」的問題，得到的答案卻糾正了他的預設。你今天所面對的難處或服事，是不是也不知不覺把自己當成了主角，忘了神才是真正的元帥？
+2. **戰前先守節**：大戰在即，百姓做的卻是守逾越節、吃無酵餅和烘的穀（5:10-11）。在你最忙、最要緊的季節裏，最先被犧牲掉的是不是敬拜？
 
-3. **敬畏優先於戰略**：約書亞得到的第一道命令是脫鞋敬畏，而非戰術指示。你在尋求神引導的過程中，敬畏與俯伏是否常常被略過，而急著只求一個「該怎麼做」的答案？
+3. **從嗎哪到穀子**：天上降下的供應，換成了要耕種、要收割的出產。當神的供應不再是「神蹟式」的，你會不會覺得祂離你遠了？這種感覺，說明你倚靠的是祂，還是那個形式？
 
 ### 禱告回應
 
 > 天父，你是那位向約書亞顯現、作耶和華軍隊元帥的神， \
-> 求你光照我生命中被擱置已久、不敢正視的虧欠與羞辱， \
-> 使我願意像以色列人接受割禮一樣，誠實面對、讓你親自除去。 \
+> 求你光照我生命中被擱置已久、不敢正視的虧欠與羞辱，使我願意讓你親自滾去。 \
 > 求你提醒我，我所面對的每一個爭戰，都不是我自己的仗，而是你的仗； \
-> 也求你使我在尋求你引導的時候，先學會脫鞋敬畏，而非急著只求戰略。 \
+> 也求你使我在尋求引導的時候，先學會脫鞋敬畏，而非急著只求戰略。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ---

@@ -47,7 +47,7 @@ publisher: 三書精讀出版系統
 
 > ^13^約書亞照耶和華所吩咐的，將猶大人中的一段地，就是基列‧亞巴，分給耶孚尼的兒子迦勒。亞巴是亞衲族的始祖（基列‧亞巴就是希伯崙）。^14^迦勒就從那裏趕出亞衲族的三個族長，就是示篩、亞希幔、撻買；^15^又從那裏上去，攻擊底璧的居民。（這底璧從前名叫基列‧西弗。）^16^迦勒說：「誰能攻打基列‧西弗將城奪取，我就把我女兒押撒給他為妻。」^17^迦勒兄弟基納斯的兒子俄陀聶奪取了那城，迦勒就把女兒押撒給他為妻。^18^押撒過門的時候，勸丈夫向她父親求一塊田，押撒一下驢，迦勒問她說：「你要甚麼？」^19^她說：「求你賜福給我，你既將我安置在南地，求你也給我水泉。」她父親就把上泉下泉賜給她。
 
-> ^20^以下是猶大支派按著宗族所得的產業。^21^猶大支派儘南邊的城邑，與以東交界相近的，就是甲薛、以得、雅姑珥、^22^基拿、底摩拿、亞大達、^23^基低斯、夏瑣、以提楠、^24^西弗、提鍊、比亞綠、^25^夏瑣‧哈大他、加略‧希斯崙（加略‧希斯崙就是夏瑣）、^26^亞曼、示瑪、摩拉大、^27^哈薩‧迦得、黑實門、伯‧帕列、^28^哈薩‧書亞、別是巴、比斯約他、^29^巴拉、以因、以森、^30^伊勒多臘、基失、何珥瑪、^31^洗革拉、麥瑪拿、三撒拿、^32^利巴勿、實忻、亞因、臨門，共二十九座城，還有屬城的村莊。
+> ^20^以下是猶大支派按著宗族所得的產業。^21^猶大支派儘南邊的城邑，與以東交界相近的，就是甲薛、以得、雅姑珥、^22^基拿、底摩拿、亞大達、^23^基低斯、夏瑣、以提楠、^24^西弗、提鍊、比亞綠、^25^夏瑣‧哈大他、加略‧希斯崙（加略‧希斯崙就是夏瑣）、^26^亞曼、示瑪、摩拉大、^27^哈薩‧迦大、黑實門、伯‧帕列、^28^哈薩‧書亞、別是巴、比斯約他、^29^巴拉、以因、以森、^30^伊勒多臘、基失、何珥瑪、^31^洗革拉、麥瑪拿、三撒拿、^32^利巴勿、實忻、亞因、臨門，共二十九座城，還有屬城的村莊。
 
 > ^33^在高原有以實陶、瑣拉、亞實拿、^34^撒挪亞、隱‧干寧、他普亞、以楠、^35^耶末、亞杜蘭、梭哥、亞西加、^36^沙拉音、亞底他音、基底拉、基底羅他音，共十四座城，還有屬城的村莊。^37^又有洗楠、哈大沙、麥大‧迦得、^38^底連、米斯巴、約帖、^39^拉吉、波斯加、伊磯倫、^40^迦本、拉幔、基提利、^41^基低羅、伯‧大袞、拿瑪、瑪基大，共十六座城，還有屬城的村莊。^42^又有立拿、以帖、亞珊、^43^益弗他、亞實拿、尼悉、^44^基伊拉、亞革悉、瑪利沙，共九座城，還有屬城的村莊。^45^又有以革倫和屬以革倫的鎮市村莊；^46^從以革倫直到海，一切靠近亞實突之地，並屬其地的村莊。^47^亞實突和屬亞實突的鎮市村莊；迦薩和屬迦薩的鎮市村莊；直到埃及小河，並大海和靠近大海之地。
 
@@ -57,7 +57,7 @@ publisher: 三書精讀出版系統
 
 > ^1^Now the lot for the tribe of the sons of Judah according to their families reached the border of Edom, southward to the wilderness of Zin at the extreme south. ^2^Their south border was from the lower end of the Salt Sea, from the bay that turns to the south. ^3^Then it proceeded southward to the ascent of Akrabbim and continued to Zin, then went up by the south of Kadesh-barnea and continued to Hezron, and went up to Addar and turned about to Karka. ^4^It continued to Azmon and proceeded to the brook of Egypt, and the border ended at the sea. This shall be your south border. ^5^The east border *was* the Salt Sea, as far as the mouth of the Jordan. And the border of the north side was from the bay of the sea at the mouth of the Jordan. ^6^Then the border went up to Beth-hoglah, and continued on the north of Beth-arabah, and the border went up to the stone of Bohan the son of Reuben. ^7^The border went up to Debir from the valley of Achor, and turned northward toward Gilgal which is opposite the ascent of Adummim, which is on the south of the valley; and the border continued to the waters of En-shemesh and it ended at En-rogel. ^8^Then the border went up the valley of Ben-hinnom to the slope of the Jebusite on the south (that is, Jerusalem); and the border went up to the top of the mountain which is before the valley of Hinnom to the west, which is at the end of the valley of Rephaim toward the north. ^9^From the top of the mountain the border curved to the spring of the waters of Nephtoah and proceeded to the cities of Mount Ephron, then the border curved to Baalah (that is, Kiriath-jearim). ^10^The border turned about from Baalah westward to Mount Seir, and continued to the slope of Mount Jearim on the north (that is, Chesalon), and went down to Beth-shemesh and continued through Timnah. ^11^The border proceeded to the side of Ekron northward. Then the border curved to Shikkeron and continued to Mount Baalah and proceeded to Jabneel, and the border ended at the sea. ^12^The west border *was* at the Great Sea, even *its* coastline. This is the border around the sons of Judah according to their families.
 
-> ^13^Now he gave to Caleb the son of Jephunneh a portion among the sons of Judah, according to the command of the LORD to Joshua, *namely,* Kiriath-arba, *Arba being* the father of Anak (that is, Hebron). ^14^Caleb drove out from there the three sons of Anak: Sheshai and Ahiman and Talmai, the children of Anak. ^15^Then he went up from there against the inhabitants of Debir; now the name of Debir formerly was Kiriath-sepher. ^16^And Caleb said, "The one who attacks Kiriath-sepher and captures it, I will give him Achsah my daughter as a wife." ^17^Othniel the son of Kenaz, the brother of Caleb, captured it; so he gave him Achsah his daughter as a wife. ^18^It came about that when she came *to him,* she persuaded him to ask her father for a field. So she alighted from the donkey, and Caleb said to her, "What do you want?" ^19^Then she said, "Give me a blessing; since you have given me the land of the Negev, give me also springs of water." So he gave her the upper springs and the lower springs.
+> ^13^Now he gave to Caleb the son of Jephunneh a portion among the sons of Judah, according to the command of the LORD to Joshua, *namely*, Kiriath-arba, *Arba being* the father of Anak (that is, Hebron). ^14^Caleb drove out from there the three sons of Anak: Sheshai and Ahiman and Talmai, the children of Anak. ^15^Then he went up from there against the inhabitants of Debir; now the name of Debir formerly was Kiriath-sepher. ^16^And Caleb said, "The one who attacks Kiriath-sepher and captures it, I will give him Achsah my daughter as a wife." ^17^Othniel the son of Kenaz, the brother of Caleb, captured it; so he gave him Achsah his daughter as a wife. ^18^It came about that when she came *to him*, she persuaded him to ask her father for a field. So she alighted from the donkey, and Caleb said to her, "What do you want?" ^19^Then she said, "Give me a blessing; since you have given me the land of the Negev, give me also springs of water." So he gave her the upper springs and the lower springs.
 
 > ^20^This is the inheritance of the tribe of the sons of Judah according to their families. ^21^Now the cities at the extremity of the tribe of the sons of Judah toward the border of Edom in the south were Kabzeel and Eder and Jagur, ^22^and Kinah and Dimonah and Adadah, ^23^and Kedesh and Hazor and Ithnan, ^24^Ziph and Telem and Bealoth, ^25^and Hazor-hadattah and Kerioth-hezron (that is, Hazor), ^26^Amam and Shema and Moladah, ^27^and Hazar-gaddah and Heshmon and Beth-pelet, ^28^and Hazar-shual and Beersheba and Biziothiah, ^29^Baalah and Iim and Ezem, ^30^and Eltolad and Chesil and Hormah, ^31^and Ziklag and Madmannah and Sansannah, ^32^and Lebaoth and Shilhim and Ain and Rimmon; in all, twenty-nine cities with their villages.
 
@@ -94,25 +94,25 @@ publisher: 三書精讀出版系統
 
 ### 「上泉下泉」——一個超乎所求的答案
 
-押撒只求「水泉」（單數泛稱），迦勒卻「把上泉下泉都賜給她」（15:19）——不是一道泉，而是兩道，上下兼備。這呼應了以弗所書3:20「神能照著運行在我們心裏的大力充充足足地成就一切，超過我們所求所想的」——一個懂得慷慨賜福的父親，形象上正指向那位「充充足足」賜恩的天父。
+押撒只求「水泉」（單數泛稱），迦勒卻「把上泉下泉賜給她」（15:19）——不是一道泉，而是兩道，上下兼備。這呼應了以弗所書3:20「神能照著運行在我們心裏的大力充充足足地成就一切，超過我們所求所想的」——一個懂得慷慨賜福的父親，形象上正指向那位「充充足足」賜恩的天父。
 
 ---
 
 ## 領受要點 (Truths Received)
 
-### 1. 猶大的優先，是為了彌賽亞的緣故
+### 1. 先拈到鬮的，是家譜最難看的那一支
 
 猶大支派在分地清單中居首，疆域最廣、城邑最多，這不是出於這支派本身配得誇口的美德（猶大本身的家族史滿了污點，見創38章），而完全是雅各臨終所宣告的、關乎「圭」與「細羅」的預言在地理層面提早落實。神揀選與賜福，從不是因為人本身的良善，而是為要成就祂自己起初所定的救贖計畫。
 
-### 2. 疆界的清單，是神信實的逐字記錄
+### 2. 神的信實，是一百一十四個地名拼出來的
 
-15章大半篇幅只是地名的羅列，讀來枯燥，但加爾文提醒：這些疆界並非隨機劃定，乃是負責分地的人「按最佳判斷、依人口比例分配地業」的具體記錄，神也藉拈鬮親自介入其中，確保分配公正。一份看似瑣碎的清單，其實是神信實兌現應許最踏實的證據——神的信實常常不是轟轟烈烈的神蹟，而是這樣具體、可查驗、逐項落實的細節。
+15章大半篇幅只是地名的羅列，讀來枯燥。但這些疆界並非隨機劃定：鬮擲在人的懷裏，定事卻由耶和華（箴16:33），而每一段界線都得有人親自走過、量過、逐城記下來。一份看似瑣碎的清單，其實是神信實兌現應許最踏實的證據——神的信實常常不是轟轟烈烈的神蹟，而是這樣具體、可查驗、逐項落實的細節。
 
-### 3. 押撒的勇敢求問，不是貪心，而是懂得支取父親的慷慨
+### 3. 她先下了驢，才開口說「求你也給我水泉」
 
 押撒在已經領受南地之後，仍主動向父親求水泉，這個動作乍看有些冒昧，但迦勒毫不猶豫地應允，且加倍賜下。這提醒讀者：向天父祈求，不是對祂已有恩典的不知足，而是深知祂樂意賜下更多的信心之舉——「你們求也得不著，是因為你們妄求」（雅4:3）的反面，正是像押撒這樣坦然無懼地按著真實需要求告。
 
-### 4. 耶布斯人仍住在耶路撒冷——疆界之內，不等於完全得地
+### 4. 地契上寫著耶路撒冷，城裏住的卻是耶布斯人
 
 15:63誠實地記下：猶大人未能把耶布斯人從耶路撒冷趕出去，「耶布斯人卻在耶路撒冷與猶大人同住，直到今日」。這句話直到大衛的時代才被扭轉（撒下5:6-9）。疆界寫在紙上、地契拿在手上，不等於地已經真正「得著」——這是全書13-21章反覆出現的張力：應許已經賜下，但支取應許仍需要一代一代人持續的信心與爭戰。
 
@@ -192,15 +192,15 @@ publisher: 三書精讀出版系統
 > 大能救主，大能救主，作我剛強與盾牌； \
 > 作我剛強與盾牌。
 
-這首威廉·威廉斯（William Williams，1745年）所作的聖詩，第二節唱到「開啟晶瑩泉源，醫治活水由此流」，與押撒所求的「上泉下泉」遙相呼應——曠野路上的以色列人渴望磐石出水（出17章），迦南地裏的押撒渴望南地有泉，而歷世歷代蒙恩的人所渴慕的，始終是那位「叫江河從腹中流出」的活水泉源（約7:38）。
+這首威廉·威廉斯（William Williams，1745年）所作的聖詩，第二節唱到「開啟晶瑩泉源，醫治活水由此流」，與押撒所求的「上泉下泉」遙相呼應——曠野路上的以色列人渴望磐石出水（出17章），迦南地裏的押撒渴望南地有泉，而歷世歷代蒙恩的人所渴慕的，始終是那位應許「從他腹中要流出活水的江河來」的主（約7:38）。
 
 ---
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**先問**：猶大支派拈鬮拈到最先、地業拈到最大，這是猶大本身配得的嗎？翻開創世記38章，猶大的家族史滿了羞辱與失敗——但神的揀選與賜福，從來不是按人的功勞計算，乃是按祂自己起初所定的應許（創49:10）施行到底。
+**先問**：留意15:1的用詞——猶大這一份是「拈鬮所得」，不是約書亞指派給他們的。連這個最有理由被優待、雅各也早已指名祝福過的支派，也得跟其餘各支派一樣，等鬮擲出來才知道自己在哪裏。你想過為甚麼要多這一道手續嗎？
 
-**再問**：押撒已經領受了南地為業，為何還要下驢向父親求水泉？這是貪心，還是信心？留意她的用詞——「求你賜福給我」，她所求的不是額外的財富，而是使已經領受的南地真正能被耕種、能存活的必要供應。她清楚知道自己所缺的是甚麼，也清楚知道向誰求。
+**再問**：15:18的次序很奇怪——押撒先「勸丈夫向她父親求一塊田」，結果下驢開口的卻是她自己。她原可以讓俄陀聶去說，最後仍是自己面對父親。你怎麼看這個轉折？有些事，為甚麼終究得由當事人自己開口？
 
 **追問**：15:63誠實記下耶布斯人仍住在耶路撒冷，「直到今日」——這句話停留在猶大人未能完全得地的遺憾裏，你的生命中，是否也有某塊「疆界之內、卻始終沒有真正趕出仇敵」的角落？
 
@@ -216,9 +216,9 @@ publisher: 三書精讀出版系統
 
 1. **清單式的忠心**：猶大支派的地業清單長達114座城，讀來枯燥卻字字信實。你生命中是否也有一些看似瑣碎、卻是神信實供應具體記號的「清單」，是你平常略過、不曾細數感恩的？
 
-2. **開口求問的勇氣**：押撒主動向父親求水泉，沒有因為已經領受南地而覺得不好意思再求。你在禱告中，是否也常因「已經蒙恩夠多」而不敢再向神提出真實的需要？
+2. **給的那一方**：押撒求一道泉，迦勒給了兩道。當有人向你開口——尤其是開口的方式讓你覺得有點冒昧的時候——你是先掂量對方配不配得，還是像迦勒一樣，連上泉下泉一併給了？
 
-3. **未竟之地的誠實**：15:63沒有粉飾太平，直說耶布斯人仍住在耶路撒冷。你是否願意誠實面對自己生命中「疆界之內卻未曾真正得著」的部分，而不是假裝一切都已經得勝？
+3. **無名的那一仗**：俄陀聶攻下基列‧西弗的時候，經文只提到他是為著一樁婚事上陣的族人；多年之後，他成了以色列第一位士師（士3:7-11）。你今天手上那件沒有人看見、也沒有人記名的難事，會不會正是神為日後所預備的操練？
 
 ### 禱告回應
 

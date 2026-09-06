@@ -62,11 +62,11 @@ publisher: 三書精讀出版系統
 
 > ^5^Now *this* was the territory of the sons of Ephraim according to their families: the border of their inheritance eastward was Ataroth-addar, as far as upper Beth-horon. ^6^Then the border went westward at Michmethath on the north, and the border turned about eastward to Taanath-shiloh and continued *beyond* it to the east of Janoah. ^7^It went down from Janoah to Ataroth and to Naarah, then reached Jericho and came out at the Jordan. ^8^From Tappuah the border continued westward to the brook of Kanah, and it ended at the sea. This is the inheritance of the tribe of the sons of Ephraim according to their families, ^9^*together* with the cities which were set apart for the sons of Ephraim in the midst of the inheritance of the sons of Manasseh, all the cities with their villages. ^10^But they did not drive out the Canaanites who lived in Gezer, so the Canaanites live in the midst of Ephraim to this day, and they became forced laborers.
 
-> ^1^Now this was the lot for the tribe of Manasseh, for he was the firstborn of Joseph. To Machir the firstborn of Manasseh, the father of Gilead, were allotted Gilead and Bashan, because he was a man of war. ^2^So the lot was made for the rest of the sons of Manasseh according to their families: for the sons of Abiezer and for the sons of Helek and for the sons of Asriel and for the sons of Shechem and for the sons of Hepher and for the sons of Shemida; these were the male descendants of Manasseh the son of Joseph according to their families. ^3^However, Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, only daughters; and these are the names of his daughters: Mahlah and Noah, Hoglah, Milcah and Tirzah. ^4^They came near before Eleazar the priest and before Joshua the son of Nun and before the leaders, saying, "The LORD commanded Moses to give us an inheritance among our brothers." So according to the command of the LORD he gave them an inheritance among their father's brothers. ^5^Thus there fell ten portions to Manasseh, besides the land of Gilead and Bashan, which is beyond the Jordan, ^6^because the daughters of Manasseh received an inheritance among his sons. And the land of Gilead belonged to the rest of the sons of Manasseh.
+> ^1^Now *this* was the lot for the tribe of Manasseh, for he was the firstborn of Joseph. To Machir the firstborn of Manasseh, the father of Gilead, were allotted Gilead and Bashan, because he was a man of war. ^2^So *the lot* was *made* for the rest of the sons of Manasseh according to their families: for the sons of Abiezer and for the sons of Helek and for the sons of Asriel and for the sons of Shechem and for the sons of Hepher and for the sons of Shemida; these *were* the male descendants of Manasseh the son of Joseph according to their families. ^3^However, Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, only daughters; and these are the names of his daughters: Mahlah and Noah, Hoglah, Milcah and Tirzah. ^4^They came near before Eleazar the priest and before Joshua the son of Nun and before the leaders, saying, "The LORD commanded Moses to give us an inheritance among our brothers." So according to the command of the LORD he gave them an inheritance among their father's brothers. ^5^Thus there fell ten portions to Manasseh, besides the land of Gilead and Bashan, which is beyond the Jordan, ^6^because the daughters of Manasseh received an inheritance among his sons. And the land of Gilead belonged to the rest of the sons of Manasseh.
 
 > ^7^The border of Manasseh ran from Asher to Michmethath which was east of Shechem; then the border went southward to the inhabitants of En-tappuah. ^8^The land of Tappuah belonged to Manasseh, but Tappuah on the border of Manasseh *belonged* to the sons of Ephraim. ^9^The border went down to the brook of Kanah, southward of the brook (these cities *belonged* to Ephraim among the cities of Manasseh), and the border of Manasseh *was* on the north side of the brook and it ended at the sea. ^10^The south side *belonged* to Ephraim and the north side to Manasseh, and the sea was their border; and they reached to Asher on the north and to Issachar on the east. ^11^In Issachar and in Asher, Manasseh had Beth-shean and its towns and Ibleam and its towns, and the inhabitants of Dor and its towns, and the inhabitants of En-dor and its towns, and the inhabitants of Taanach and its towns, and the inhabitants of Megiddo and its towns, the third is Napheth. ^12^But the sons of Manasseh could not take possession of these cities, because the Canaanites persisted in living in that land. ^13^It came about when the sons of Israel became strong, they put the Canaanites to forced labor, but they did not drive them out completely.
 
-> ^14^Then the sons of Joseph spoke to Joshua, saying, "Why have you given me only one lot and one portion for an inheritance, since I am a numerous people whom the LORD has thus far blessed?" ^15^Joshua said to them, "If you are a numerous people, go up to the forest and clear a place for yourself there in the land of the Perizzites and of the Rephaim, since the hill country of Ephraim is too narrow for you." ^16^The sons of Joseph said, "The hill country is not enough for us, and all the Canaanites who live in the valley land have chariots of iron, both those who are in Beth-shean and its towns and those who are in the valley of Jezreel." ^17^Joshua spoke to the house of Joseph, to Ephraim and Manasseh, saying, "You are a numerous people and have great power; you shall not have one lot *only,*" ^18^"but the hill country shall be yours. For though it is a forest, you shall clear it, and to its farthest borders it shall be yours; for you shall drive out the Canaanites, even though they have chariots of iron *and* though they are strong."
+> ^14^Then the sons of Joseph spoke to Joshua, saying, "Why have you given me only one lot and one portion for an inheritance, since I am a numerous people whom the LORD has thus far blessed?" ^15^Joshua said to them, "If you are a numerous people, go up to the forest and clear a place for yourself there in the land of the Perizzites and of the Rephaim, since the hill country of Ephraim is too narrow for you." ^16^The sons of Joseph said, "The hill country is not enough for us, and all the Canaanites who live in the valley land have chariots of iron, both those who are in Beth-shean and its towns and those who are in the valley of Jezreel." ^17^Joshua spoke to the house of Joseph, to Ephraim and Manasseh, saying, "You are a numerous people and have great power; you shall not have one lot *only*," ^18^"but the hill country shall be yours. For though it is a forest, you shall clear it, and to its farthest borders it shall be yours; for you shall drive out the Canaanites, even though they have chariots of iron *and* though they are strong."
 
 ---
 
@@ -82,7 +82,7 @@ publisher: 三書精讀出版系統
 
 ### 耶斯列平原的「鐵車」：迦南人的軍事科技優勢
 
-約瑟子孫抱怨山地窄小之後，具體提出的理由是「住平原的迦南人……都有鐵車」（17:16）。耶斯列平原（伯善、米吉多一帶）地勢平坦開闊，正是戰車最能發揮衝擊力的地形；而以色列人此時仍以步兵為主，面對配備鐵器加固車輪與刀刃的戰車確實居於劣勢——士師記1:19、4:3亦記載同一類型的軍事困境（底波拉時代耶賓王有鐵車九百輛）。約書亞的回答並不否認鐵車的真實威脅，而是提醒約瑟子孫：真正的問題不在武器的差距，而在信心與行動的差距。
+約瑟子孫抱怨山地窄小之後，具體提出的理由是「住平原的迦南人……都有鐵車」（17:16）。耶斯列平原（伯善、米吉多一帶）地勢平坦開闊，正是戰車最能發揮衝擊力的地形；而以色列人此時仍以步兵為主，面對配備鐵器加固車輪與刀刃的戰車確實居於劣勢——士師記1:19、4:3亦記載同一類型的軍事困境（底波拉時代耶賓王有鐵車九百輛）。約書亞的回答並不否認鐵車的真實威脅，卻沒有停在武器的差距上。
 
 ---
 
@@ -103,19 +103,19 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 女兒也能承受應許——神的公義超越當時的常規
+### 1. 五個女兒站到約書亞面前，重提一樁摩西判過的案
 
 西羅非哈的五個女兒在本章再次得著產業（17:3-6），證明神藉摩西所立的先例並未因換了新領袖、新世代而被遺忘或擱置。神的公義是貫穿世代的——祂紀念一個尋求祂旨意的家庭之請求，即使這請求挑戰了當時常見的繼承習俗。
 
-### 2. 蒙福越多，越容易滋生抱怨的錯覺
+### 2. 這句抱怨，是從「耶和華賜福與我們」開頭的
 
 約瑟的子孫開口便說「耶和華到如今既然賜福與我們，我們也族大人多，你為甚麼僅將一鬮一段之地分給我們為業呢」（17:14）——他們的抱怨，恰恰建立在神已經賜福的事實之上。蒙福常常不能自動帶來知足；相反，若不儆醒，蒙福反倒容易餵養出「理當得更多」的心態。
 
-### 3. 神給的常常不是「更大的地」，而是「開墾的力量」
+### 3. 約書亞沒有重新拈鬮，只叫他們去砍樹
 
-約書亞沒有為約瑟子孫重新拈鬮、擴大他們的疆界，而是指出他們自己疆界之內尚未開墾的樹林（17:15，18）。這提醒讀者：許多時候，我們向神求更寬廣的境界，神卻要我們先看見自己手中早已握有、卻尚未動工開墾的資源與呼召。
+約書亞沒有為約瑟子孫重新拈鬮、擴大他們的疆界，而是指出他們自己疆界之內那片還沒有動過斧頭的林地（17:15，18）。這提醒讀者：許多時候，我們向神求更寬廣的境界，神卻要我們先看見自己手中早已握有、卻一直擱著沒有動工的那一份。
 
-### 4. 「不能趕出」與「不肯趕出」之間的模糊地帶
+### 4. 趕不出去的迦南人，後來替他們做了苦工
 
 16:10說以法蓮「沒有趕出」基色的迦南人，17:12-13則說瑪拿西「不能」（לֹא יָכְלוּ）趕出當地居民；但兩處都緊接著記下「以色列人強盛了，就使迦南人做苦工」——這暗示問題未必全是能力不足，更可能是貪圖迦南人勞力所帶來的經濟利益，而選擇容讓他們留下。這是全書屢次出現的警訊：對仇敵的容忍，常常披著「不得已」的外衣，實質卻是貪心與怠惰。
 
@@ -201,7 +201,7 @@ publisher: 三書精讀出版系統
 > 難道我要安逸地躺臥，被抬入雲霄之上， \
 > 眾人卻爭戰奪取獎賞，勇渡血染滄海？
 
-以撒·華滋這首詩問得直接：難道基督的精兵可以只求安逸、不願流汗爭戰？約瑟的子孫起初正落入這樣的心態——盼望多得地業，卻不願親自砍伐樹林、驅逐迦南人。這首詩恰好成為約書亞回答的詩歌版本。
+以撒·華滋這首詩問得直接：難道基督的精兵可以只求安逸、不願流汗爭戰？約書亞在17:15的回答，等於用一把斧頭回覆了同一個問題。
 
 ---
 
@@ -211,7 +211,7 @@ publisher: 三書精讀出版系統
 
 **再問**：約書亞的回答分成兩層——先叫他們去砍伐樹林（17:15），再叫他們去驅逐迦南人（17:17-18）。為甚麼是這個次序？也許正是因為：能不能面對「鐵車」的爭戰，先要看你願不願意面對「砍樹」的勞苦——不願流汗開墾的人，通常也沒有膽量與鐵車正面交鋒。
 
-**追問**：西羅非哈的五個女兒在17:4再次站到約書亞面前，重申多年前在摩西面前已經爭取到的權益——她們沒有假設「新領袖上任，舊的判例自然失效」，而是主動確認應許被持續承認。你是否也曾因為環境改變，就懷疑神從前所賜的應許是否還算數？
+**追問**：這兩章裏有兩批人開口向約書亞要地。一批是西羅非哈的女兒，約書亞「照耶和華所吩咐的」當場給了（17:4）；另一批是約瑟的子孫，約書亞卻叫他們自己上山去動手（17:15）。同樣是開口，為甚麼一個當場給，一個要他們自己去掙？你分得出這兩種求的差別在哪裏嗎？
 
 **落到自己**：你手中是否也握有一片「山地」，看似窄小，其實還藏著大片未開墾的樹林？你是選擇抱怨地不夠大，還是願意拿起斧頭，先從自己能砍的那一棵樹開始？
 
@@ -223,11 +223,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **抱怨背後的心態**：約瑟子孫的抱怨建立在「神已賜福，理當更多」的邏輯上。你是否也曾在數算恩典的同時，滋生出「理當得更多」的心態，而忽略了神已經豐富賜下的部分？
+1. **數點恩典的兩種方式**：同一件事，可以數成「神已經給了我這些」，也可以數成「照這個給法，我還該再多一點」。你最近一次數算神的恩典，數到最後，心裏浮上來的是感謝，還是不平？
 
-2. **樹林與鐵車**：約書亞先叫他們去砍樹（自己疆界內可以動手的部分），再應許他們能勝過鐵車（真正的爭戰）。你生命中，有沒有一件「先砍樹」的功課，是你在求神為你解決「鐵車」級難題之前，其實可以自己先動手處理的？
+2. **留著，因為還挺有用**：以法蓮與瑪拿西沒把迦南人趕出去，卻在自己強盛之後叫他們做苦工（16:10；17:13）——把仇敵留下來，短期看竟然是划算的。你生命裏有沒有一樣明知該除掉、卻因為「暫時還挺有用」而一直留著的東西？
 
-3. **持續確認應許**：西羅非哈的女兒們沒有假設舊應許會隨領袖更迭而失效，而是主動重申確認。你是否也需要在環境變遷時，重新在神面前確認、支取祂從前向你所說的話？
+3. **不是你以為的次序**：瑪拿西是約瑟的長子（17:1），雅各卻把右手按在以法蓮頭上（創48:13-20），從此這支派一路排在弟弟後面。你能不能接受神給你的位置，不是你以為自己該得的那個位置？
 
 ### 禱告回應
 

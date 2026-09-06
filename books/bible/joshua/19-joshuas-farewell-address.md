@@ -14,10 +14,10 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
-> **本章鑰詞：沒有一句話落空（23:14）** \
-> **全書座標**：〔卷五·持守〕骨幹的第四個定點。約書亞年老，把門檻前的「剛強壯膽」（1:6-9）與分地正中央的「一句都沒有落空」（21:45）重新合在一起，交棒給下一代（見〈剛強壯膽——全書的骨幹〉）。
+> **本章鑰詞：沒有一句落空（23:14）** \
+> **全書座標**：〔卷五·持守〕骨幹的第四個定點。約書亞年老，把門檻前的「剛強壯膽」（1:6-9）與分地正中央的「一句也沒有落空」（21:45）重新合在一起，交棒給下一代（見〈剛強壯膽——全書的骨幹〉）。
 
-本章與其說直接預表基督，不如說是把全書對神信實的見證，總結成一份可以世代相傳的遺言。約書亞用來總結自己一生的，不是自己的戰績，而是神那句話「沒有一句落空」——他從第一個接受這句吩咐的人，成了最後一個為這句應驗作見證的人。新約作者在論到持守信心時，同樣訴諸這位「說了必成就」的神：「也要堅守我們所承認的指望，不至搖動，因為那應許我們的是信實的」（來10:23）——約書亞這番臨終的見證，正是希伯來書這句勸勉最早、最具體的一個舊約範本。
+本章與其說直接預表基督，不如說是把全書對神信實的見證，收成一份可以世代相傳的遺言。約書亞從第一個領受「剛強壯膽」的人，成了最後一個為這句話的應驗作見證的人。新約論到持守信心時所訴諸的，正是同一位神：「也要堅守我們所承認的指望，不至搖動，因為那應許我們的是信實的」（來10:23）——約書亞這番臨終的話，是這句勸勉最早、最具體的一個舊約範本。
 
 ## 配詩 (Opening Hymn)
 
@@ -54,7 +54,7 @@ publisher: 三書精讀出版系統
 
 > ^1^Now it came about after many days, when the LORD had given rest to Israel from all their enemies on every side, and Joshua was old, advanced in years, ^2^that Joshua called for all Israel, for their elders and their heads and their judges and their officers, and said to them, "I am old, advanced in years. ^3^And you have seen all that the LORD your God has done to all these nations because of you, for the LORD your God is He who has been fighting for you. ^4^See, I have apportioned to you these nations which remain as an inheritance for your tribes, with all the nations which I have cut off, from the Jordan even to the Great Sea toward the setting of the sun. ^5^The LORD your God, He will thrust them out from before you and drive them from before you; and you will possess their land, just as the LORD your God promised you.
 
-> ^6^Be very firm, then, to keep and do all that is written in the book of the law of Moses, so that you may not turn aside from it to the right hand or to the left, ^7^so that you will not associate with these nations, these which remain among you, or mention the name of their gods, or make *anyone* swear *by them,* or serve them, or bow down to them. ^8^But you are to cling to the LORD your God, as you have done to this day. ^9^For the LORD has driven out great and strong nations from before you; and as for you, no man has stood before you to this day. ^10^One of your men puts to flight a thousand, for the LORD your God is He who fights for you, just as He promised you. ^11^So take diligent heed to yourselves to love the LORD your God.
+> ^6^Be very firm, then, to keep and do all that is written in the book of the law of Moses, so that you may not turn aside from it to the right hand or to the left, ^7^so that you will not associate with these nations, these which remain among you, or mention the name of their gods, or make *anyone* swear *by them*, or serve them, or bow down to them. ^8^But you are to cling to the LORD your God, as you have done to this day. ^9^For the LORD has driven out great and strong nations from before you; and as for you, no man has stood before you to this day. ^10^One of your men puts to flight a thousand, for the LORD your God is He who fights for you, just as He promised you. ^11^So take diligent heed to yourselves to love the LORD your God.
 
 > ^12^For if you ever go back and cling to the rest of these nations, these which remain among you, and intermarry with them, so that you associate with them and they with you, ^13^know with certainty that the LORD your God will not continue to drive these nations out from before you; but they will be a snare and a trap to you, and a whip on your sides and thorns in your eyes, until you perish from off this good land which the LORD your God has given you.
 
@@ -68,7 +68,7 @@ publisher: 三書精讀出版系統
 
 ### 「還沒有一人在你們面前站立得住」與「還有極多之地未曾得為業」的並存
 
-本章一方面宣告「沒有一人在你們面前站立得住」（23:9），一方面卻也提醒「你們中間所剩下的這些國民」（23:12-13）仍然存在——這與13:1「還有極多之地未曾得為業」的伏筆一致。約書亞沒有用誇大的凱旋語言掩蓋現實：勝利是真實的，但爭戰尚未全部完成，警戒也因此不可鬆懈。
+本章一方面宣告「沒有一人在你們面前站立得住」（23:9），一方面卻也提醒「你們中間所剩下的這些國民」（23:12-13）仍然存在——這與13:1「還有極多之地未曾得為業」的伏筆一致，是全書一貫的據實記錄，不是前後不一。
 
 ### 「與外邦人結親」：申命記早已埋下的警戒線
 
@@ -84,21 +84,21 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 勝利的宣告與警戒的提醒，可以同時真實
+### 1. 同一篇講章裏，既說沒有一人站得住，也說你們會滅亡
 
-本章一方面宣告「沒有一人在你們面前站立得住」（23:9），一方面又警告「你們若稍微轉去……必滅亡」（23:12-13）。這提醒我們：屬靈上的成熟，不是只會說「凱旋的話」，也包括誠實承認尚存的危機與尚未完成的爭戰。
+23:9與23:12-13並排放在一起，語氣截然相反，卻都是真的。屬靈上的成熟，不是只會說凱旋的話，也不是只會數危機；是能在同一口氣裏，既承認神已成就的，又不掩蓋自己這一邊尚未過去的險。
 
-### 2. 「剛強壯膽」到了臨終仍是同一句吩咐
+### 2. 老到臨終，他交出去的還是當年領受的那一句
 
-約書亞在23:6重複的，正是他自己在1:7領受的同一句吩咐（原文用字相同）。這說明真正的順服不是一次性的壯舉，而是終身持守、直到臨終仍要再說一次的同一份委身。
+約書亞在23:6所吩咐的「大大壯膽」，正是他自己在1:7領受的同一句話（原文用字相同）。順服不是一次過的壯舉：一句話領了一輩子，到最後仍舊只有這一句可交。
 
-### 3. 「一句都沒有落空」是可以留給下一代的產業
+### 3. 他留下的不是戰績，是一句可以背下來的話
 
-約書亞把自己一生所經歷的信實，總結成一句可以世代相傳的見證（23:14）。屬靈的傳承，最珍貴的往往不是留下多少財物或成就，而是留下一句「神信實」的親身見證。
+約書亞把一生的經歷收成一句「沒有一句落空」（23:14）交給下一代。屬靈的傳承，最要緊的往往不是留下多少產業或功勳，而是留下一句別人可以記住、日後自己也能驗證的見證。
 
-### 4. 警戒不是恐嚇，而是出於愛的提醒
+### 4. 最嚴厲的那段話，前一句是「你們要愛耶和華」
 
-23:12-16的警告語氣嚴厲，卻不是要嚇唬百姓，而是延續23:11「你們要分外謹慎，愛耶和華」的心志——真正的愛，包括誠實指出可能導致關係破裂的危險，而非一味報喜不報憂。
+23:12-16的警告語氣極重，但它緊接在23:11「你們要分外謹慎，愛耶和華─你們的神」之後。這是次序，不是巧合：愛裏必然包含把危險說破，而不是一味報喜不報憂。
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -175,21 +175,21 @@ publisher: 三書精讀出版系統
 > 耶和華啊，你的話安定在天，直到永遠。 \
 > 你的誠實存到萬代；你堅定了地，地就長存。
 
-詩人所歌頌「你的話安定在天，直到永遠」，與約書亞23:14「沒有一句話落空」是同一份信心的兩種表達——一個從創造與天地的堅立說起，一個從以色列一段具體的歷史經歷說起，卻同樣指向那位說話算話的神。
+「你的話安定在天，直到永遠」與23:14是同一份信心的兩種說法——一個從天地的堅立說起，一個從一段走過來的歷史說起，指向的是同一位說話算數的神。
 
 ### Stand Up, Stand Up for Jesus
 
-見上文〈配詩〉。這首詩歌第三節「Stand up, stand up for Jesus, stand in His strength alone; the arm of flesh will fail you, ye dare not trust your own」，恰與本章「你們要大大壯膽……因耶和華你們的神照他所應許的，為你們爭戰」（23:6, 10）互相呼應——真正的剛強壯膽，從來不是倚靠自己的血氣。
+見上文〈配詩〉。這首詩歌第三節「Stand up, stand up for Jesus, stand in His strength alone; the arm of flesh will fail you, ye dare not trust your own」，把本章一句容易讀漏的話唱明白了：叫人站得住的是「耶和華─你們的神照他所應許的，為你們爭戰」（23:10），不是自己的血氣。
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
 **先問**：約書亞用來勸勉百姓的第一句話，不是命令，而是自我描述——「我年紀已經老邁」（23:2）。一個行將離世的老者，為甚麼要先坦誠說出自己的軟弱與有限，才能說出接下來那些擲地有聲的話？
 
-**再問**：本章同時說了兩件表面看似矛盾的事——「沒有一人在你們面前站立得住」（23:9）與「你們若稍微轉去……必滅亡」（23:12-13）。你今天的信心，能不能同時容納這兩件事：一邊真實地數算神已經成就的勝利，一邊誠實地警醒仍未過去的危險？
+**再問**：23:6-7一連三個「不可」——不可偏離左右、不可與這些國民攙雜、不可提他們神的名——最後才落到一個「只要」：只要專靠耶和華（23:8）。你今天守得住的，是那幾個「不可」，還是那一個「只要」？
 
-**追問**：23:6「大大壯膽」與1:7「剛強壯膽」的原文用字完全相同——這是不是提醒你，你今天所需要的順服，其實不是一件全新的、更困難的功課，而是同一份你早已領受過的吩咐，只是需要再一次、再一次地重新持守？
+**追問**：約書亞把「大大壯膽」交出去的時候，自己已經是個「要走世人必走的路」的老人（23:14）。交棒的人交出去的，往往不是自己還做得到的事，而是自己已經做不到、卻仍舊要緊的事。你手上有沒有一件這樣的事，早該交出去，你卻還握著？
 
-**落到自己**：如果你今天要像約書亞一樣，把自己一生對神信實的經歷，總結成一句可以留給下一代的話，你會怎麼說？你現在就可以說出那句話嗎，還是要等到臨終才想起要說？
+**落到自己**：如果你今天要像約書亞一樣，把一生對神信實的經歷收成一句話留給下一代，你會怎麼說？你現在就說得出來嗎，還是要等到臨終才想起要說？
 
 **你看見耶和華的信實了嗎？**
 
@@ -199,17 +199,17 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. 約書亞坦誠承認自己「年紀已經老邁」，才發出臨終的勸勉。你在提醒、勸勉他人（兒女、同工、學生）之前，是否也願意先誠實承認自己的軟弱與有限，而非以權威壓人？
+1. 約書亞開口第一句是「我年紀已經老邁」（23:2），不是「你們要聽我的」。你勸勉兒女、同工、學生之前，肯不肯先承認自己的有限，而不是先亮出權柄？
 
-2. 本章同時宣告「勝利已然成就」與「危險仍然存在」。你今天的屬靈光景，是傾向於只報喜、迴避尚未解決的爭戰，還是傾向於只看見危機、忘記數算已經得著的恩典？
+2. 23:15說，神怎樣使各樣福氣臨到，也必照樣使各樣禍患臨到——同一位神，同樣說了就算數。你所信的「信實」，是不是只包括好的那一半？若連警告的話也一句不落空，這對你今天的選擇有甚麼分別？
 
-3. 「與外邦人結親」的警告，最終在所羅門身上應驗（王上11章）。你生命中有沒有一條看似無傷大雅、卻可能逐漸把你的心引離神的「小小結親」？
+3. 你生命中有沒有一件看似無傷大雅、卻正在慢慢把你的心引離神的「小小結親」？它是甚麼時候開始的？
 
 ### 禱告回應
 
 > 天父，感謝你，你的話安定在天，直到永遠； \
 > 求你使我像約書亞一樣，一生持守同一份「剛強壯膽」的吩咐，直到臨終。 \
-> 求你使我在數算你已成就的恩典時，仍不失去對仍存危險的警醒。 \
+> 求你使我不只守住那幾個「不可」，更守住那一個「只要」——專靠你。 \
 > 也求你賜我一句可以留給下一代的見證，述說你信實的作為。 \
 > 奉主耶穌基督的名禱告，阿們。
 
@@ -218,7 +218,7 @@ publisher: 三書精讀出版系統
 | 主題 | 本章經文 | 相關經文 |
 |----------------------------|----------------------------|----------------------------|
 | 「剛強壯膽」原文用字前後呼應 | 23:6 | 書1:6-9、書10:25 |
-| 沒有一句話落空 | 23:14 | 書21:45、來10:23 |
+| 沒有一句落空 | 23:14 | 書21:45、來10:23 |
 | 警戒與外邦人結親 | 23:12-13 | 申7:1-4、王上11:1-8 |
 | 老年領袖臨別的交棒 | 23:1-2 | 彼後1:13-15、提後4:6-8 |
 | 神的話安定，直到萬代 | 23:14 | 詩119:89-90、賽40:8 |

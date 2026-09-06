@@ -76,19 +76,19 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^1^Now Jericho was tightly shut because of the sons of Israel; no one went out and no one came in. ^2^The LORD said to Joshua, "See, I have given Jericho into your hand, with its king and the valiant warriors. ^3^You shall march around the city, all the men of war circling the city once. You shall do so for six days. ^4^Also seven priests shall carry seven trumpets of rams' horns before the ark; then on the seventh day you shall march around the city seven times, and the priests shall blow the trumpets. ^5^It shall be that when they make a long blast with the ram's horn, and when you hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city will fall down flat, and the people will go up every man straight ahead."
+> ^1^Now Jericho was tightly shut because of the sons of Israel; no one went out and no one came in. ^2^The LORD said to Joshua, "See, I have given Jericho into your hand, with its king *and* the valiant warriors. ^3^You shall march around the city, all the men of war circling the city once. You shall do so for six days. ^4^Also seven priests shall carry seven trumpets of rams' horns before the ark; then on the seventh day you shall march around the city seven times, and the priests shall blow the trumpets. ^5^It shall be that when they make a long blast with the ram's horn, and when you hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city will fall down flat, and the people will go up every man straight ahead."
 
-> ^6^So Joshua the son of Nun called the priests and said to them, "Take up the ark of the covenant, and let seven priests carry seven trumpets of rams' horns before the ark of the LORD." ^7^Then he said to the people, "Go forward, and march around the city, and let the armed men go on before the ark of the LORD." ^8^And it was so, that when Joshua had spoken to the people, the seven priests carrying the seven trumpets of rams' horns before the LORD went forward and blew the trumpets; and the ark of the covenant of the LORD followed them. ^9^The armed men went before the priests who blew the trumpets, and the rear guard came after the ark, while they continued to blow the trumpets. ^10^But Joshua commanded the people, saying, "You shall not shout nor let your voice be heard nor let a word proceed out of your mouth, until the day I tell you, Shout! Then you shall shout!" ^11^So he had the ark of the LORD taken around the city, circling it once; then they came into the camp and spent the night in the camp.
+> ^6^So Joshua the son of Nun called the priests and said to them, "Take up the ark of the covenant, and let seven priests carry seven trumpets of rams' horns before the ark of the LORD." ^7^Then he said to the people, "Go forward, and march around the city, and let the armed men go on before the ark of the LORD." ^8^And it was *so,* that when Joshua had spoken to the people, the seven priests carrying the seven trumpets of rams' horns before the LORD went forward and blew the trumpets; and the ark of the covenant of the LORD followed them. ^9^The armed men went before the priests who blew the trumpets, and the rear guard came after the ark, while they continued to blow the trumpets. ^10^But Joshua commanded the people, saying, "You shall not shout nor let your voice be heard nor let a word proceed out of your mouth, until the day I tell you, 'Shout!' Then you shall shout!" ^11^So he had the ark of the LORD taken around the city, circling *it* once; then they came into the camp and spent the night in the camp.
 
 > ^12^Now Joshua rose early in the morning, and the priests took up the ark of the LORD. ^13^The seven priests carrying the seven trumpets of rams' horns before the ark of the LORD went on continually, and blew the trumpets; and the armed men went before them and the rear guard came after the ark of the LORD, while they continued to blow the trumpets. ^14^Thus the second day they marched around the city once and returned to the camp; they did so for six days. ^15^Then on the seventh day they rose early at the dawning of the day and marched around the city in the same manner seven times; only on that day they marched around the city seven times. ^16^At the seventh time, when the priests blew the trumpets, Joshua said to the people, "Shout! For the LORD has given you the city.
 
-> ^17^The city shall be under the ban, it and all that is in it belongs to the LORD; only Rahab the harlot and all who are with her in the house shall live, because she hid the messengers whom we sent. ^18^But as for you, only keep yourselves from the things under the ban, so that you do not covet them and take some of the things under the ban, and make the camp of Israel accursed and bring trouble on it. ^19^But all the silver and gold and articles of bronze and iron are holy to the LORD; they shall go into the treasury of the LORD."
+> ^17^The city shall be under the ban, it and all that is in it belongs to the LORD; only Rahab the harlot and all who are with her in the house shall live, because she hid the messengers whom we sent. ^18^But as for you, only keep yourselves from the things under the ban, so that you do not covet *them* and take some of the things under the ban, and make the camp of Israel accursed and bring trouble on it. ^19^But all the silver and gold and articles of bronze and iron are holy to the LORD; they shall go into the treasury of the LORD."
 
-> ^20^So the people shouted, and priests blew the trumpets; and when the people heard the sound of the trumpet, the people shouted with a great shout and the wall fell down flat, so that the people went up into the city, every man straight ahead, and they took the city. ^21^They utterly destroyed everything in the city, both man and woman, young and old, and ox and sheep and donkey, with the edge of the sword.
+> ^20^So the people shouted, and *priests* blew the trumpets; and when the people heard the sound of the trumpet, the people shouted with a great shout and the wall fell down flat, so that the people went up into the city, every man straight ahead, and they took the city. ^21^They utterly destroyed everything in the city, both man and woman, young and old, and ox and sheep and donkey, with the edge of the sword.
 
 > ^22^Joshua said to the two men who had spied out the land, "Go into the harlot's house and bring the woman and all she has out of there, as you have sworn to her." ^23^So the young men who were spies went in and brought out Rahab and her father and her mother and her brothers and all she had; they also brought out all her relatives and placed them outside the camp of Israel. ^24^They burned the city with fire, and all that was in it. Only the silver and gold, and articles of bronze and iron, they put into the treasury of the house of the LORD. ^25^However, Rahab the harlot and her father's household and all she had, Joshua spared; and she has lived in the midst of Israel to this day, for she hid the messengers whom Joshua sent to spy out Jericho.
 
-> ^26^Then Joshua made them take an oath at that time, saying, "Cursed before the LORD is the man who rises up and builds this city Jericho; with the loss of his firstborn he shall lay its foundation, and with the loss of his youngest son he shall set up its gates." ^27^So the LORD was with Joshua, and his fame was in all the land.
+> ^26^Then Joshua made them take an oath at that time, saying, "Cursed before the LORD is the man who rises up and builds this city Jericho; with *the loss of* his firstborn he shall lay its foundation, and with *the loss of* his youngest son he shall set up its gates." ^27^So the LORD was with Joshua, and his fame was in all the land.
 
 ---
 
@@ -102,11 +102,11 @@ publisher: 三書精讀出版系統
 
 本章反覆出現的「當滅的」（希伯來文 חֵרֶם, cherem, H2764；6:17-18）是全書「屍横遍野的征服」中最難消化的一個詞——它不單指殺戮，更指把整座城、其中的人與物，整體「歸給」神，不容許任何人私自佔為己有。這不是以色列人獨有的作法：主前九世紀的摩押王米沙石碑（Mesha Stele，約主前835年）記載，摩押王米沙同樣把以色列的城尼波「獻滅」給他的神基抹（Chemosh）——用詞與希伯來文的 cherem 幾乎完全對應。這說明「獻滅」是當時近東戰爭文化裏真實存在、跨民族共有的一種宗教性戰爭慣例，並非以色列人自創的殘忍手段；加爾文（見下）指出，此舉的核心不是報復，而是把耶利哥——迦南地的「初熟果子」——完整歸神為聖，不容以色列人從中牟利。
 
-同時，現代舊約學界（如 K. A. Kitchen、Younger 等）也提醒讀者：古代近東的戰爭記述普遍帶有誇張的修辭傳統——「滅盡」「無一人存留」一類的詞語，在同時代的埃及、亞述戰爭銘文中也常用來宣告決定性的勝利，未必字面上指涉徹底的種族滅絕；這一觀點有助我們更謹慎地理解本書征服敘事的文體，卻不能取消經文本身確實描述了一場真實的、審判性質的毀滅——約書亞記並不迴避這場毀滅的沉重，而是把它安放在「迦南人的罪惡滿盈」（參創15:16）這個更大的神學脈絡之中。
+同時，現代舊約學界（如 K. A. Kitchen、Younger 等）也提醒讀者：古代近東的戰爭記述普遍帶有誇張的修辭傳統——「滅盡」「無一人存留」一類的詞語，在同時代的埃及、亞述戰爭銘文中也常用來宣告決定性的勝利，未必字面上指涉徹底的種族滅絕；這一觀點有助我們更謹慎地理解本書征服敘事的文體，卻不能取消經文本身確實描述了一場真實的、審判性質的毀滅——約書亞記並不迴避這場毀滅的沉重，而是把它安放在一個更大的神學脈絡之中：神曾對亞伯拉罕說，他的後裔要到第四代才回到此地，「因為亞摩利人的罪孽還沒有滿盈」（創15:16）——審判之所以延遲數百年，正是因為那罪孽當時尚未滿盈；而到了約書亞的日子，滿盈的時候已經到了。
 
 ### 羊角與繞城：不合常理的戰術
 
-祭司所吹的，是最原始的羊角（שׁוֹפָר / יוֹבֵל），而非聖所裏的銀號（民10:1-10所訂的那種）；亨利指出，這正顯出「得勝的能力出於神，不出於器皿的貴重」。
+祭司所吹的，是最原始的羊角（שׁוֹפָר / יוֹבֵל），而非聖所裏的銀號（民10:1-10所訂的那種）；亨利指出，這正顯出得勝的能力出於神，不出於器皿的貴重（其原文見〈歷代注疏〉）。
 
 ---
 
@@ -123,19 +123,19 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 順服比戰術更重要
+### 1. 這一章裏，沒有一件事像打仗
 
-6章的戰術完全不合常理——不是攻城器械，是繞城、吹角、呼喊。加爾文形容這整個過程「看起來完全像小孩子的遊戲」（"nothing else than child's play"），卻正是這種看似荒謬的順服，成了考驗以色列人信心的試金石。**得地的關鍵不在人的軍事智慧，在乎肯不肯照著神吩咐的、哪怕看似荒謬的方式去行**。希伯來書11:30把這場勝利直接歸於「信」，而非戰術——這提醒我們，神有時候刻意選擇一條在人看來「毫無效率」的路，為要讓得勝的榮耀，清楚無誤地歸於祂自己，而不是歸於我們的聰明。
+6章的戰術完全不合常理——不是攻城器械，是繞城、吹角、呼喊。加爾文毫不迴避這整套動作在人眼中有多不像用兵（見〈歷代注疏〉），卻正是這種看似荒謬的順服，成了考驗以色列人信心的試金石。**得地的關鍵不在人的軍事智慧，在乎肯不肯照著神吩咐的、哪怕看似荒謬的方式去行**。希伯來書11:30把這場勝利直接歸於「信」，而非戰術——這提醒我們，神有時候刻意選擇一條在人看來「毫無效率」的路，為要讓得勝的榮耀，清楚無誤地歸於祂自己，而不是歸於我們的聰明。
 
-### 2. 靜默的操練
+### 2. 六天裏最難守的一條命令，是閉口
 
-「你們不可呼喊，不可出聲，連一句話也不可出你們的口」（6:10）——這條命令對一支即將爭戰的軍隊而言，是極不尋常的紀律。梅爾指出，這是「神兒女最後才學會的功課」：不急著發聲、不急著辯解、不急著為自己的處境下註腳，只是安靜等候，直到神吩咐呼喊的日子來到。**信心最深的操練，常常不是轟轟烈烈的行動，而是在還看不見結果之前，先學會閉口不言**。
+「你們不可呼喊，不可出聲，連一句話也不可出你們的口」（6:10）——這條命令對一支即將爭戰的軍隊而言，是極不尋常的紀律。梅爾把它列為眾誡命中最難遵守的一條（見〈歷代注疏〉）：不急著發聲、不急著辯解、不急著為自己的處境下註腳，只是安靜等候，直到神吩咐呼喊的日子來到。**信心最深的操練，常常不是轟轟烈烈的行動，而是在還看不見結果之前，先學會閉口不言**。
 
-### 3. 喇合蒙保守：信心不分族裔
+### 3. 全城只留下一個名字，是妓女的名字
 
-喇合是迦南人、是妓女——照人的算法，她是耶利哥城裏最不配蒙保守的一個。然而正是她「因著信，曾和好接待探子」（來11:31），使她與她的全家在城牆倒塌的那日存活下來，後來更成了大衛先祖、彌賽亞家譜上的一個名字（太1:5）。**神拯救人，從不是按著人的出身或過去，而是按著人有沒有真實的信心回應祂**。
+喇合是迦南人、是妓女——照人的算法，她是耶利哥城裏最不配蒙保守的一個。然而正是她「因著信，曾和和平平地接待探子」（來11:31），使她與她的全家在城牆倒塌的那日存活下來，後來更成了大衛先祖、彌賽亞家譜上的一個名字（太1:5）。**神拯救人，從不是按著人的出身或過去，而是按著人有沒有真實的信心回應祂**。
 
-### 4. 咒詛與記念：不可重建的城
+### 4. 五百多年後，這道咒詛一字不差地應驗
 
 約書亞叫百姓起誓，凡重修耶利哥的人必受咒詛（6:26）——這道咒詛不是一時的情緒，而是要讓這座城的廢墟，世世代代見證神大能的作為，不容易被人遺忘或抹去。主前九世紀，伯特利人希伊勒果然重修了耶利哥，也果然應驗了約書亞這句咒詛：他立根基的時候喪了長子亞比蘭，安門的時候喪了幼子西割（王上16:34）。**神藉著約書亞說的話，五百多年後仍然分毫不差地成就——這提醒我們，神的話語沒有一句會落空（書21:45）**。
 

@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：約櫃在百姓前頭過去（3:11,14）** \
 > **全書座標**：〔卷一·預備〕應許之地的門檻。約櫃先行，祭司的腳一入水，水便斷絕——這不是人力鑿出的路，是神親自開的道。它與紅海分開前後呼應，標誌曠野世代的結束、得地世代的開始。
 
-約櫃「先行」過約旦河，這細節在梅爾看來絕非偶然：耶穌基督也是這樣「先」我們一步，親自踏進死亡的水域，好叫跟隨祂的人得以踏著祂已經走過的路，安然過去。「這日我必使你在以色列眾人眼前尊大」（3:7）——約書亞在這裏蒙尊大的時刻，與後來施洗約翰在同一片約旦河水域為耶穌施洗、天上有聲音說「這是我的愛子」的那一刻，遙相呼應（太3:17）。十二塊立在吉甲的石頭，也讓人想起啟示錄裏新耶路撒冷城牆十二根基石上寫著十二使徒的名字（啟21:14）——同一個「十二」的記號，見證著神百姓歷世歷代蒙拯救、進入應許之地的信實。
+約櫃「先行」過約旦河，這細節在梅爾看來絕非偶然：耶穌基督也是這樣「先」我們一步，親自踏進死亡的水域。「從今日起，我必使你在以色列眾人眼前尊大」（3:7）——約書亞在這裏蒙尊大的時刻，與後來施洗約翰在同一片約旦河水域為耶穌施洗、天上有聲音說「這是我的愛子」的那一刻，遙相呼應（太3:17）。十二塊立在吉甲的石頭，也讓人想起新耶路撒冷城牆上寫著十二使徒名字的十二根基石（啟21:14）——同一個「十二」的記號，跨越兩約，見證同一位神的信實。
 
 ---
 
@@ -58,9 +58,9 @@ publisher: 三書精讀出版系統
 
 > ^1^Then Joshua rose early in the morning; and he and all the sons of Israel set out from Shittim and came to the Jordan, and they lodged there before they crossed. ^2^At the end of three days the officers went through the midst of the camp; ^3^and they commanded the people, saying, "When you see the ark of the covenant of the LORD your God with the Levitical priests carrying it, then you shall set out from your place and go after it. ^4^However, there shall be between you and it a distance of about 2,000 cubits by measure. Do not come near it, that you may know the way by which you shall go, for you have not passed this way before." ^5^Then Joshua said to the people, "Consecrate yourselves, for tomorrow the LORD will do wonders among you." ^6^And Joshua spoke to the priests, saying, "Take up the ark of the covenant and cross over ahead of the people." So they took up the ark of the covenant and went ahead of the people.
 
-> ^7^Now the LORD said to Joshua, "This day I will begin to exalt you in the sight of all Israel, that they may know that just as I have been with Moses, I will be with you. ^8^You shall, moreover, command the priests who are carrying the ark of the covenant, saying, 'When you come to the edge of the waters of the Jordan, you shall stand still in the Jordan.'" ^9^Then Joshua said to the sons of Israel, "Come here, and hear the words of the LORD your God." ^10^Joshua said, "By this you shall know that the living God is among you, and that He will assuredly dispossess from before you the Canaanite, the Hittite, the Hivite, the Perizzite, the Girgashite, the Amorite, and the Jebusite. ^11^Behold, the ark of the covenant of the Lord of all the earth is crossing over ahead of you into the Jordan. ^12^Now then, take for yourselves twelve men from the tribes of Israel, one man for each tribe. ^13^It shall come about when the soles of the feet of the priests who carry the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, the waters of the Jordan will be cut off, and the waters which are flowing down from above will stand in one heap."
+> ^7^Now the LORD said to Joshua, "This day I will begin to exalt you in the sight of all Israel, that they may know that just as I have been with Moses, I will be with you. ^8^You shall, moreover, command the priests who are carrying the ark of the covenant, saying, 'When you come to the edge of the waters of the Jordan, you shall stand *still* in the Jordan.'" ^9^Then Joshua said to the sons of Israel, "Come here, and hear the words of the LORD your God." ^10^Joshua said, "By this you shall know that the living God is among you, and that He will assuredly dispossess from before you the Canaanite, the Hittite, the Hivite, the Perizzite, the Girgashite, the Amorite, and the Jebusite. ^11^Behold, the ark of the covenant of the Lord of all the earth is crossing over ahead of you into the Jordan. ^12^Now then, take for yourselves twelve men from the tribes of Israel, one man for each tribe. ^13^It shall come about when the soles of the feet of the priests who carry the ark of the LORD, the Lord of all the earth, rest in the waters of the Jordan, the waters of the Jordan will be cut off, *and* the waters which are flowing down from above will stand in one heap."
 
-> ^14^So when the people set out from their tents to cross the Jordan with the priests carrying the ark of the covenant before the people, ^15^and when those who carried the ark came into the Jordan, and the feet of the priests carrying the ark were dipped in the edge of the water (for the Jordan overflows all its banks all the days of harvest), ^16^the waters which were flowing down from above stood and rose up in one heap, a great distance away at Adam, the city that is beside Zarethan; and those which were flowing down toward the sea of the Arabah, the Salt Sea, were completely cut off. So the people crossed opposite Jericho. ^17^And the priests who carried the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan while all Israel crossed on dry ground, until all the nation had finished crossing the Jordan.
+> ^14^So when the people set out from their tents to cross the Jordan with the priests carrying the ark of the covenant before the people, ^15^and when those who carried the ark came into the Jordan, and the feet of the priests carrying the ark were dipped in the edge of the water (for the Jordan overflows all its banks all the days of harvest), ^16^the waters which were flowing down from above stood *and* rose up in one heap, a great distance away at Adam, the city that is beside Zarethan; and those which were flowing down toward the sea of the Arabah, the Salt Sea, were completely cut off. So the people crossed opposite Jericho. ^17^And the priests who carried the ark of the covenant of the LORD stood firm on dry ground in the middle of the Jordan while all Israel crossed on dry ground, until all the nation had finished crossing the Jordan.
 
 > ^4:1^Now when all the nation had finished crossing the Jordan, the LORD spoke to Joshua, saying, ^2^"Take for yourselves twelve men from the people, one man from each tribe, ^3^and command them, saying, 'Take up for yourselves twelve stones from here out of the middle of the Jordan, from the place where the priests' feet are standing firm, and carry them over with you and lay them down in the lodging place where you will lodge tonight.'" ^4^So Joshua called the twelve men whom he had appointed from the sons of Israel, one man from each tribe; ^5^and Joshua said to them, "Cross again to the ark of the LORD your God into the middle of the Jordan, and each of you take up a stone on his shoulder, according to the number of the tribes of the sons of Israel. ^6^Let this be a sign among you, so that when your children ask later, saying, 'What do these stones mean to you?' ^7^then you shall say to them, 'Because the waters of the Jordan were cut off before the ark of the covenant of the LORD; when it crossed the Jordan, the waters of the Jordan were cut off.' So these stones shall become a memorial to the sons of Israel forever." ^8^Thus the sons of Israel did as Joshua commanded, and took up twelve stones from the middle of the Jordan, just as the LORD spoke to Joshua, according to the number of the tribes of the sons of Israel; and they carried them over with them to the lodging place and put them down there. ^9^Then Joshua set up twelve stones in the middle of the Jordan at the place where the feet of the priests who carried the ark of the covenant were standing, and they are there to this day.
 
@@ -74,7 +74,7 @@ publisher: 三書精讀出版系統
 
 ### 約旦河「收割的日子漲過兩岸」
 
-3:15特別註明「約旦河水在收割的日子漲過兩岸」——正月（亞筆月，約當陽曆三、四月）正值大麥收割的季節，黎巴嫩山區積雪融化，使約旦河水位遠超平日，河面可能寬達平日的數十倍，深度也大增。這細節不是敘事的枝節，而是刻意凸顯神蹟的份量：以色列人過河的時刻，不是揀選河水最淺、最容易涉水的季節，而正是水勢最盛、人力最不可能徒步跨越的時候。
+3:15特別註明「約旦河水在收割的日子漲過兩岸」——正月（亞筆月，約當陽曆三、四月）正值大麥收割的季節，黎巴嫩山區積雪融化，使約旦河水位遠超平日，河面可能寬達平日的數十倍，深度也大增。全年最不可能徒步過河的季節，正是他們過河的季節。
 
 ### 約櫃：抬約櫃的祭司與百姓之間「二千肘」的距離
 
@@ -82,7 +82,7 @@ publisher: 三書精讀出版系統
 
 ### 十二塊石頭與吉甲的地理位置
 
-吉甲位於約旦河西岸、距河岸約數里、耶利哥城東邊的平原地帶，成為以色列人進入迦南後的第一個營地與日後多次戰役的後方基地（見9:6、10:6等）。十二塊立在吉甲的石頭，與另外十二塊留在約旦河河床中、抬約櫃祭司站立之處的石頭（4:9），構成一組雙重見證——一組供後世子孫親眼所見、隨時可問「這些石頭是甚麼意思」，另一組雖沉在水底不可見，卻同樣真實地見證著神蹟發生的確切地點。
+吉甲位於約旦河西岸、距河岸約數里、耶利哥城東邊的平原地帶，成為以色列人進入迦南後的第一個營地與日後多次戰役的後方基地（見9:6、10:6等）。石頭共有兩組：十二塊立在吉甲，供後世子孫親眼看見；另十二塊立在河床中、抬約櫃祭司站立之處（4:9），河水一回流便再也看不見（加爾文論這組看不見的石頭，見〈歷代注疏〉）。
 
 ---
 
@@ -97,27 +97,27 @@ publisher: 三書精讀出版系統
 
 ### 「二千肘」與敬畏中帶著親近
 
-3:4「相離要量二千肘」看似是一條疏離的規定，實則兼具兩種功能：既維持了百姓對約櫃神聖性應有的敬畏距離，又確保了全會眾都能清楚看見約櫃引路，不因擁擠而錯過這歷史性的一刻。亨利指出，這正對比舊約與新約時代神子民親近神的方式——舊約時代，神的同在被「遮蓋」在幔子與距離之後；新約時代，因著基督，我們才「坦然無懼地來到施恩的寶座前」（來4:16）。
+3:4「相離要量二千肘」看似是一條疏離的規定，實則兼具兩種功能：既維持了百姓對約櫃神聖性應有的敬畏距離，又確保了全會眾都能清楚看見約櫃引路，不因擁擠而錯過這歷史性的一刻。這段距離也標記出舊約敬拜的基本形態——神的同在真實可見，卻始終隔著一段不可踰越的間隔（亨利的申論見〈歷代注疏〉）。
 
 ---
 
 ## 領受要點 (Truths Received)
 
-### 1. 約櫃先行——神先我們一步走進看似不可能的路
+### 1. 約櫃先下水，人才跟上
 
-抬約櫃的祭司要先把腳踏進滔滔漲溢的約旦河水中，水才斷絕；百姓要「跟著約櫃去」（3:3），而不是自己先摸索出一條路來，再讓約櫃跟上。這提醒信徒：神從不是等我們自己先想出辦法、才姍姍來遲地加添幫助；祂總是先我們一步，走進那看似不可能通過的地方。
+3:3的吩咐是「跟著約櫃去」——不是自己先摸出一條路，再請約櫃跟上。神從不等人想出辦法，才姍姍來遲地加添幫助；祂先走進那條看不出出路的路，人跟在後面。
 
-### 2. 順服往往先於神蹟的顯現，而非之後
+### 2. 水不是先斷絕，祭司才敢下腳
 
-祭司的腳「一入水」，水才開始斷絕（3:15-16）——不是水先斷絕，祭司才敢下腳。順服的腳步，往往要先踏進看似仍然「滔滔漲溢」的處境，神蹟才緊接著顯明。這與人天性所期待的順序恰恰相反：我們總希望先看見神蹟，再決定順服；但約書亞記三章教導的次序，是先憑信心邁出那一步，神的作為隨即彰顯。
+3:15-16的次序寫得極清楚：腳一入水，水才立起成壘。我們天性期待的次序恰恰相反——先看見神蹟，再決定順不順服。這一章把次序倒了過來：信心的腳步先踏進去，神的作為隨後顯明。
 
-### 3. 神蹟需要記念的記號，免得後人遺忘
+### 3. 立石頭，是為了讓孩子發問
 
-十二塊石頭立在吉甲，不是裝飾，而是刻意設計來引發「這些石頭是甚麼意思」這樣的提問（4:6,21），好讓神蹟的記念能一代一代傳講下去。這提醒神的百姓：真實經歷過的恩典，若沒有具體的方式被記念、被傳講，很容易在下一代中被遺忘、被淡化。
+十二塊石頭立在吉甲不是紀念碑式的裝飾，是刻意設計來引出一句話：「這些石頭是甚麼意思？」（4:6、21）恩典若沒有一個具體、看得見、能引人開口發問的形式被保存下來，通常撐不過一代人。
 
-### 4. 神蹟的目的不僅是拯救以色列，更是要普天下萬民認識耶和華
+### 4. 開路是為了讓地上萬民知道
 
-4:24明言，這神蹟的目的是「要使地上萬民都知道，耶和華的手大有能力」——神在約旦河所行的奇事，從來不只是為了以色列人自己的益處，更是要藉著這奇事，向普世宣告祂的大能與信實。神向祂百姓所行的每一件奇事，最終都指向一個更大的目的：使萬民都認識並敬畏祂。
+4:24把這場神蹟的目的說到以色列以外：「要使地上萬民都知道，耶和華的手大有能力」。神為祂百姓所行的事，從來不停在受益者身上；每一次拯救，都帶著一個對外的用途。
 
 ---
 
@@ -129,7 +129,7 @@ publisher: 三書精讀出版系統
 
 ### 加爾文 (John Calvin)
 
-加爾文特別留意百姓在漲溢的約旦河前所展現的信心與順服，並將此與他們祖先在曠野中的悖逆作對比。
+加爾文特別留意百姓站在漲溢的河水前所展現的鎮定：
 
 > "That, in such apparently desperate circumstances, they calmly wait the issue, though doubtful, and to them incomprehensible, is an example of faithful obedience, proving how unlike they were to their fathers, who, on the slightest occasions, gave way to turbulence."
 >
@@ -137,7 +137,7 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on Joshua*, on 3:1
 
-論到十二塊立在河床中的石頭，加爾文指出這是為要成為日後代代相傳的見證，即便沉在水底不可見，仍然真實有效：
+論到那十二塊立在河床中、日後再也看不見的石頭：
 
 > "When they talked among themselves of the evidence of the passage left there, the hearing even of what they did not see, strongly tended to confirm their faith."
 >
@@ -147,7 +147,7 @@ publisher: 三書精讀出版系統
 
 ### 馬太·亨利 (Matthew Henry)
 
-亨利特別強調約櫃引路這件事的屬靈意涵，指出百姓「跟從」約櫃的姿態，正是信徒當如何跟從神話語與恩典引導的預表。
+亨利論約櫃引路，把百姓「跟從」的姿態讀成兩約敬拜方式的對比：
 
 > "The ark of the covenant must be their guide... divine grace under the Mosaic dispensation was wrapt up as in a cloud and covered with a veil, while by Christ, our Joshua, it is revealed in the ark of the covenant unveiled."
 >
@@ -209,7 +209,7 @@ publisher: 三書精讀出版系統
 > 那時，猶大為主的聖所，以色列為他所治理的國度， \
 > 滄海看見就奔逃；約旦河也倒流。
 
-詩篇114篇正是以色列人日後傳唱、記念出埃及與過約旦河兩大神蹟的詩歌——「滄海看見就奔逃，約旦河也倒流」，兩個神蹟並列，讓後代子孫在敬拜中一再回顧神兩次為祂百姓開路的信實。這正呼應4:23約書亞吩咐百姓向子孫述說時所用的同一組類比。
+「滄海看見就奔逃，約旦河也倒流」——後代以色列人果然把這兩件事並排唱進了詩篇裏。約書亞吩咐百姓向子孫述說時所用的，正是同一組類比（4:23）；他所盼望的那種代代相傳，真的發生了。
 
 ### Guide Me, O Thou Great Jehovah
 
@@ -219,13 +219,13 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**先問**：3:15特別註明「約旦河水在收割的日子漲過兩岸」——為甚麼敘事者要特意告訴我們，這神蹟發生的時刻，正是水勢最盛、最不可能徒步跨越的季節？如果神揀選在水淺易涉的時候才行這神蹟，這神蹟還會這樣震撼人心嗎？
+**先問**：敘事者為甚麼要在神蹟之前，先讓讀者看清水勢有多大（3:15「在收割的日子漲過兩岸」）？如果神揀選在河水最淺的季節開路，後世還會有人把這件事寫進詩篇裏傳唱嗎（詩114:3）？
 
-**再問**：祭司的腳「一入水」，水才開始斷絕（3:15-16）——不是水先斷絕，祭司才敢下腳。這個次序，與我們天性所期待的（先看見神蹟、才決定順服）恰恰相反。今天我生活中有沒有一個處境，是我在等候「先看見出路」才肯邁出那一步順服的？
+**再問**：假如水先斷了，祭司才下腳，這一章還剩下甚麼？你此刻有沒有一件事，是你在等「先看見出路」才肯抬腳的？那隻腳已經懸在半空多久了？
 
-**追問**：十二塊石頭立在吉甲，是為要讓後代子孫發問「這些石頭是甚麼意思」（4:6,21）。今天在我的家庭、我的教會群體裏，有沒有一個具體的方式，讓神過去所行的恩典，能一代一代地被傳講、被記念，而不是隨著時間漸漸被淡忘？
+**追問**：你的家裏、你的小組裏，有沒有一樣東西，是孩子或新來的人看見了會開口問「這是甚麼意思」的？如果一樣也沒有，十年之後，還有誰會知道神曾在你們中間做過甚麼？
 
-**落到自己**：4:24說，這神蹟的目的是「要使地上萬民都知道，耶和華的手大有能力」。我今天生命中神所行的每一件奇事，是不是也常常只停留在「對我個人有益處」的層面，而忽略了神原本的心意，是要藉著我的見證，使更多人認識並敬畏祂？
+**落到自己**：4:24 說這件事的目的是「地上萬民」。神在我身上所行的，若始終只在我自己的感恩裏打轉，是不是把一件本來要對外的見證，私自留成了個人的紀念品？
 
 **你看見耶穌了嗎**：約櫃先百姓一步踏進滔滔的約旦河水，好叫全會眾能踏著乾地跟上——這正預表著那位先我們一步走進死亡深處的耶穌基督。祂先我們而死，先我們而復活，如今凡跟隨祂的人，都能踏著祂已經走過的路，安然過去。你讀到約櫃「先行」過約旦河的這一幕，看不看見那位「初熟的果子」——那位先你我一步、走過死亡幽谷、如今活著、又要引領你安然到達應許之地的耶穌？
 
@@ -235,18 +235,17 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **信心與順服的次序**：祭司要先把腳踏入尚未斷流的約旦河水，水才開始斷絕。你今天生活中，有沒有一件事，是你在等候「先看見結果」才肯邁出的順服腳步？
+1. **過河前一晚**：神在過河前一天吩咐的不是操練，是「你們要自潔」（3:5）。如果明天神要在你中間行奇事，今晚你需要先處理掉的是甚麼？
 
-2. **記念恩典的具體方式**：十二塊立在吉甲的石頭，是為了讓後代子孫發問、記念。你的家庭或教會有沒有具體的方式，記念神過去為你們所行的恩典？
+2. **沒有走過的路**：3:4 直說「這條路你們向來沒有走過」。你此刻正走的哪一段路是全然陌生的？你憑甚麼判斷方向——過往的經驗，還是前頭那具約櫃？
 
-3. **神蹟的更大目的**：4:24說這神蹟是要使「地上萬民」都認識耶和華的大能。你今天生命中的見證，有沒有真正被用來讓更多人認識神，還是只停留在自己的感恩裏？
+3. **最後才上岸的人**：抬約櫃的祭司站在河中間，直到全民都過去了才上來（4:10-11、18）。你的群體裏，誰是那個站在中間、最後才上岸的人？神有沒有正要你去站那個位置？
 
 ### 禱告回應
 
 > 天父，你是那位使約旦河水斷流、為你百姓開路的神， \
 > 求你使我學習祭司的信心——在看見出路之前，就願意邁出順服的腳步。 \
-> 求你幫助我為著你過去在我生命中所行的奇事，立下屬於我自己的「十二塊石頭」， \
-> 好讓這些恩典的記念，能一代一代傳講下去，不被遺忘。 \
+> 求你幫助我為你所行的奇事，立下屬於我自己的「十二塊石頭」，好讓後來的人有東西可問。 \
 > 也求你使用我的見證，好叫更多人因此認識並敬畏你的大能。 \
 > 奉主耶穌基督的名禱告，阿們。
 

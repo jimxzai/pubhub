@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：這壇在我們中間證明耶和華是神（22:34）** \
 > **全書座標**：〔卷五·持守〕地已分定，考驗卻換了形式：河東支派履約回家之後築了一座壇，幾乎引發同胞相殘的內戰。爭戰結束之處，正是誤會最容易開始之處。
 
-本章的張力不在於敵我之間，而在於神百姓內部——同一位耶和華的子民，竟差點因誤會彼此拔刀相向。這與其說是基督論的預表，不如說是一次極重要的教會論／群體倫理的示範：西岸支派沒有立刻動武，而是先差遣祭司非尼哈與眾首領前去查問（22:13-14），誤會因誠實的溝通而化解，沒有因血氣而擴大。新約論到教會合一時同樣的心志——「用和平彼此聯絡，竭力保守聖靈所賜合而為一的心」（弗4:3）——在本章找到了一個舊約的先聲。若要說本章與基督有何連結，最誠實的說法或許是：本章所守護的，正是基督後來要親自成全、並在十架上「拆毀了中間隔斷的牆」（弗2:14）所建立的那合一。
+本章的張力不在敵我之間，而在神百姓內部——同一位耶和華的子民，竟差點因誤會彼此拔刀相向。這與其說是基督論的預表，不如說是一次教會論／群體倫理的示範。新約論到教會合一的心志——「用和平彼此聯絡，竭力保守聖靈所賜合而為一的心」（弗4:3）——在本章找到了一個舊約的先聲。若要說本章與基督有何連結，最誠實的說法或許是：本章所守護的，正是基督後來要親自成全、在十架上「拆毀了中間隔斷的牆」（弗2:14）所建立的那合一。
 
 ## 配詩 (Opening Hymn)
 
@@ -46,27 +46,27 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^1^Then Joshua summoned the Reubenites and the Gadites and the half-tribe of Manasseh, ^2^and said to them, "You have kept all that Moses the servant of the LORD commanded you, and have listened to my voice in all that I commanded you. ^3^You have not forsaken your brothers these many days to this day, but have kept the charge of the commandment of the LORD your God. ^4^And now the LORD your God has given rest to your brothers, as He spoke to them; therefore turn now and go to your tents, to the land of your possession, which Moses the servant of the LORD gave you beyond the Jordan. ^5^Only be very careful to observe the commandment and the law which Moses the servant of the LORD commanded you, to love the LORD your God and walk in all His ways and keep His commandments and hold fast to Him and serve Him with all your heart and with all your soul." ^6^So Joshua blessed them and sent them away, and they went to their tents. ^7^Now to the one half-tribe of Manasseh Moses had given a possession in Bashan, but to the other half Joshua gave a possession among their brothers westward beyond the Jordan. So when Joshua sent them away to their tents, he blessed them ^8^and said to them, "Return to your tents with great riches and with very much livestock, with silver, gold, bronze, iron, and with very many clothes; divide the spoil of your enemies with your brothers." ^9^The sons of Reuben and the sons of Gad and the half-tribe of Manasseh returned home and departed from the sons of Israel at Shiloh which is in the land of Canaan, to go to the land of Gilead, to the land of their possession which they had possessed, according to the command of the LORD through Moses.
+> ^1^Then Joshua summoned the Reubenites and the Gadites and the half-tribe of Manasseh, ^2^and said to them, "You have kept all that Moses the servant of the LORD commanded you, and have listened to my voice in all that I commanded you. ^3^You have not forsaken your brothers these many days to this day, but have kept the charge of the commandment of the LORD your God. ^4^And now the LORD your God has given rest to your brothers, as He spoke to them; therefore turn now and go to your tents, to the land of your possession, which Moses the servant of the LORD gave you beyond the Jordan. ^5^Only be very careful to observe the commandment and the law which Moses the servant of the LORD commanded you, to love the LORD your God and walk in all His ways and keep His commandments and hold fast to Him and serve Him with all your heart and with all your soul." ^6^So Joshua blessed them and sent them away, and they went to their tents. ^7^Now to the one half-tribe of Manasseh Moses had given *a possession* in Bashan, but to the other half Joshua gave *a possession* among their brothers westward beyond the Jordan. So when Joshua sent them away to their tents, he blessed them, ^8^and said to them, "Return to your tents with great riches and with very much livestock, with silver, gold, bronze, iron, and with very many clothes; divide the spoil of your enemies with your brothers." ^9^The sons of Reuben and the sons of Gad and the half-tribe of Manasseh returned *home* and departed from the sons of Israel at Shiloh which is in the land of Canaan, to go to the land of Gilead, to the land of their possession which they had possessed, according to the command of the LORD through Moses.
 
-> ^10^When they came to the region of the Jordan which is in the land of Canaan, the sons of Reuben and the sons of Gad and the half-tribe of Manasseh built an altar there by the Jordan, a large altar in appearance. ^11^And the sons of Israel heard it said, "Behold, the sons of Reuben and the sons of Gad and the half-tribe of Manasseh have built an altar at the frontier of the land of Canaan, in the region of the Jordan, on the side belonging to the sons of Israel." ^12^When the sons of Israel heard of it, the whole congregation of the sons of Israel gathered themselves at Shiloh to go up against them in war. ^13^Then the sons of Israel sent to the sons of Reuben and to the sons of Gad and to the half-tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest ^14^and with him ten chiefs, one chief for each father's household from each of the tribes of Israel; and each one of them was the head of his father's household among the thousands of Israel. ^15^They came to the sons of Reuben and to the sons of Gad and to the half-tribe of Manasseh, to the land of Gilead, and they spoke with them saying, ^16^"Thus says the whole congregation of the LORD, 'What is this unfaithful act which you have committed against the God of Israel, turning away from following the LORD this day, by building yourselves an altar, to rebel against the LORD this day? ^17^Is not the iniquity of Peor enough for us, from which we have not cleansed ourselves to this day, although a plague came on the congregation of the LORD, ^18^that you must turn away this day from following the LORD? If you rebel against the LORD today, He will be angry with the whole congregation of Israel tomorrow. ^19^If, however, the land of your possession is unclean, then cross into the land of the possession of the LORD, where the LORD'S tabernacle stands, and take possession among us. Only do not rebel against the LORD, or rebel against us by building an altar for yourselves, besides the altar of the LORD our God. ^20^Did not Achan the son of Zerah act unfaithfully in the things under the ban, and wrath fall on all the congregation of Israel? And that man did not perish alone in his iniquity.'"
+> ^10^When they came to the region of the Jordan which is in the land of Canaan, the sons of Reuben and the sons of Gad and the half-tribe of Manasseh built an altar there by the Jordan, a large altar in appearance. ^11^And the sons of Israel heard *it* said, "Behold, the sons of Reuben and the sons of Gad and the half-tribe of Manasseh have built an altar at the frontier of the land of Canaan, in the region of the Jordan, on the side *belonging to* the sons of Israel." ^12^When the sons of Israel heard *of it*, the whole congregation of the sons of Israel gathered themselves at Shiloh to go up against them in war. ^13^Then the sons of Israel sent to the sons of Reuben and to the sons of Gad and to the half-tribe of Manasseh, into the land of Gilead, Phinehas the son of Eleazar the priest, ^14^and with him ten chiefs, one chief for each father's household from each of the tribes of Israel; and each one of them *was* the head of his father's household among the thousands of Israel. ^15^They came to the sons of Reuben and to the sons of Gad and to the half-tribe of Manasseh, to the land of Gilead, and they spoke with them saying, ^16^"Thus says the whole congregation of the LORD, 'What is this unfaithful act which you have committed against the God of Israel, turning away from following the LORD this day, by building yourselves an altar, to rebel against the LORD this day? ^17^Is not the iniquity of Peor enough for us, from which we have not cleansed ourselves to this day, although a plague came on the congregation of the LORD, ^18^that you must turn away this day from following the LORD? If you rebel against the LORD today, He will be angry with the whole congregation of Israel tomorrow. ^19^If, however, the land of your possession is unclean, then cross into the land of the possession of the LORD, where the LORD'S tabernacle stands, and take possession among us. Only do not rebel against the LORD, or rebel against us by building an altar for yourselves, besides the altar of the LORD our God. ^20^Did not Achan the son of Zerah act unfaithfully in the things under the ban, and wrath fall on all the congregation of Israel? And that man did not perish alone in his iniquity.'"
 
-> ^21^Then the sons of Reuben and the sons of Gad and the half-tribe of Manasseh answered and spoke to the heads of the families of Israel. ^22^"The Mighty One, God, the LORD, the Mighty One, God, the LORD! He knows, and may Israel itself know. If it was in rebellion, or if in an unfaithful act against the LORD do not save us this day! ^23^If we have built us an altar to turn away from following the LORD, or if to offer a burnt offering or grain offering on it, or if to offer sacrifices of peace offerings on it, may the LORD Himself require it. ^24^But truly we have done this out of concern, for a reason, saying, 'In time to come your sons may say to our sons, "What have you to do with the LORD, the God of Israel? ^25^For the LORD has made the Jordan a border between us and you, you sons of Reuben and sons of Gad; you have no portion in the LORD." So your sons may make our sons stop fearing the LORD. ^26^Therefore we said, "Let us build an altar, not for burnt offering or for sacrifice; ^27^rather it shall be a witness between us and you and between our generations after us, that we are to perform the service of the LORD before Him with our burnt offerings, and with our sacrifices and with our peace offerings, so that your sons will not say to our sons in time to come, 'You have no portion in the LORD.'"' ^28^Therefore we said, 'It shall also come about if they say this to us or to our generations in time to come, then we shall say, "See the copy of the altar of the LORD which our fathers made, not for burnt offering or for sacrifice; rather it is a witness between us and you."' ^29^Far be it from us that we should rebel against the LORD and turn away from following the LORD this day, by building an altar for burnt offering, for grain offering or for sacrifice, besides the altar of the LORD our God which is before His tabernacle."
+> ^21^Then the sons of Reuben and the sons of Gad and the half-tribe of Manasseh answered and spoke to the heads of the families of Israel. ^22^"The Mighty One, God, the LORD, the Mighty One, God, the LORD! He knows, and may Israel itself know. If *it was* in rebellion, or if in an unfaithful act against the LORD do not save us this day! ^23^If we have built us an altar to turn away from following the LORD, or if to offer a burnt offering or grain offering on it, or if to offer sacrifices of peace offerings on it, may the LORD Himself require it. ^24^But truly we have done this out of concern, for a reason, saying, 'In time to come your sons may say to our sons, "What have you to do with the LORD, the God of Israel? ^25^For the LORD has made the Jordan a border between us and you, *you* sons of Reuben and sons of Gad; you have no portion in the LORD." So your sons may make our sons stop fearing the LORD. ^26^Therefore we said, "Let us build an altar, not for burnt offering or for sacrifice; ^27^rather it shall be a witness between us and you and between our generations after us, that we are to perform the service of the LORD before Him with our burnt offerings, and with our sacrifices and with our peace offerings, so that your sons will not say to our sons in time to come, 'You have no portion in the LORD.'"' ^28^Therefore we said, 'It shall also come about if they say *this* to us or to our generations in time to come, then we shall say, "See the copy of the altar of the LORD which our fathers made, not for burnt offering or for sacrifice; rather it is a witness between us and you."' ^29^Far be it from us that we should rebel against the LORD and turn away from following the LORD this day, by building an altar for burnt offering, for grain offering or for sacrifice, besides the altar of the LORD our God which is before His tabernacle."
 
-> ^30^So when Phinehas the priest and the leaders of the congregation, even the heads of the families of Israel who were with him, heard the words which the sons of Reuben and the sons of Gad and the sons of Manasseh spoke, it pleased them. ^31^And Phinehas the son of Eleazar the priest said to the sons of Reuben and to the sons of Gad and to the sons of Manasseh, "Today we know that the LORD is in our midst, because you have not committed this unfaithful act against the LORD; now you have delivered the sons of Israel from the hand of the LORD." ^32^Then Phinehas the son of Eleazar the priest and the leaders returned from the sons of Reuben and from the sons of Gad, from the land of Gilead to the land of Canaan, to the sons of Israel, and brought back word to them. ^33^The word pleased the sons of Israel, and the sons of Israel blessed God; and they did not speak of going up against them in war to destroy the land in which the sons of Reuben and the sons of Gad were living. ^34^The sons of Reuben and the sons of Gad called the altar Witness; "For," they said, "it is a witness between us that the LORD is God."
+> ^30^So when Phinehas the priest and the leaders of the congregation, even the heads of the families of Israel who *were* with him, heard the words which the sons of Reuben and the sons of Gad and the sons of Manasseh spoke, it pleased them. ^31^And Phinehas the son of Eleazar the priest said to the sons of Reuben and to the sons of Gad and to the sons of Manasseh, "Today we know that the LORD is in our midst, because you have not committed this unfaithful act against the LORD; now you have delivered the sons of Israel from the hand of the LORD." ^32^Then Phinehas the son of Eleazar the priest and the leaders returned from the sons of Reuben and from the sons of Gad, from the land of Gilead to the land of Canaan, to the sons of Israel, and brought back word to them. ^33^The word pleased the sons of Israel, and the sons of Israel blessed God; and they did not speak of going up against them in war to destroy the land in which the sons of Reuben and the sons of Gad were living. ^34^The sons of Reuben and the sons of Gad called the altar *Witness*; "For," *they said*, "it is a witness between us that the LORD is God."
 
 ## 背景 (Context)
 
 ### 河東支派的承諾與履行（民32章的鋪陳）
 
-流便、迦得二支派（及瑪拿西半支派）早在進迦南之前，已向摩西求得約旦河東之地為業，並立下承諾：他們的男丁要帶兵器先過河，與眾弟兄一同爭戰，直到眾弟兄也得地為業，才可回自己的地（民32:16-27）。約書亞在1:12-18再度確認這約定。本章1-9節，正是這長達六、七年（猶太傳統的估算）的承諾終於履行完畢的時刻——這使得後面的誤會格外令人惋惜：一群剛剛信守承諾、被公開讚揚的弟兄，幾乎因一時的誤解而遭同胞攻打。
+流便、迦得二支派（及瑪拿西半支派）早在進迦南之前，已向摩西求得約旦河東之地為業，並立下承諾：他們的男丁要帶兵器先過河，與眾弟兄一同爭戰，直到眾弟兄也得地為業，才可回自己的地（民32:16-27）。約書亞在1:12-18再度確認這約定。本章1-9節，正是這長達六、七年（猶太傳統的估算）的承諾終於履行完畢、約書亞公開讚揚他們並打發他們回家的時刻。
 
 ### 「一個壇」律法：為何築壇會被視為重罪
 
-摩西律法嚴格規定，獻祭只能在耶和華所選定的一處地方進行（申12:5-14），這是防止百姓各自為政、私設祭壇、最終走向偶像崇拜的關鍵防線。因此，當西岸支派聽聞河東支派在約旦河邊「築了一座壇」，第一反應立刻聯想到分裂敬拜、甚至叛教——這不是小題大做，而是對摩西律法核心精神的合理警覺。
+摩西律法嚴格規定，獻祭只能在耶和華所選定的一處地方進行（申12:5-14），這是防止百姓各自為政、私設祭壇、最終走向偶像崇拜的關鍵防線。西岸支派一聽見「築了一座壇」就聯想到分裂敬拜甚至叛教，並非小題大做，而是對這條防線的合理警覺。
 
 ### 毘珥的記憶與亞干的教訓：群體連帶責任的陰影
 
-西岸支派的控訴引用了兩個歷史教訓：毘珥的淫亂與偶像崇拜（民25章，導致瘟疫奪去二萬四千人性命）、以及亞干在當滅之物上犯罪（書7章，導致全軍潰敗、亞干全家滅亡）。這兩個記憶背後的神學是：在神與以色列立約的群體中，個人或部分群體的悖逆，往往牽連全體承受後果——這正是西岸支派如此緊張、不惜整軍備戰的真正原因。
+西岸支派的控訴引用了兩個歷史教訓：毘珥的淫亂與偶像崇拜（民25章，導致瘟疫奪去二萬四千人性命）、以及亞干在當滅之物上犯罪（書7章，導致全軍潰敗、亞干全家滅亡）。這兩個記憶背後的神學是：在立約的群體中，一部分人的悖逆往往牽連全體承受後果。
 
 ## 原文研讀 (Word Study)
 
@@ -74,25 +74,25 @@ publisher: 三書精讀出版系統
 |--------------|----------------|----------------|--------------------|--------------------------------|
 | מַעַל | ma'al | 不忠、悖逆、干犯 | 22:16「這犯的是甚麼罪呢」（原文即מַעַל一詞） | Strong's H4604；與書7:1描述亞干罪行所用的正是同一個詞根，指對耶和華立約關係的背信，而非泛泛的過犯——這解釋了西岸支派為何反應如此激烈 |
 | עֵד | 'ed | 見證、證據 | 22:27, 28, 34（壇名「證壇」） | Strong's H5707；河東支派為壇取名「עֵד」，明白宣告這壇的唯一功能是作證據，而非用於獻祭——這詞後來在24:27約書亞立石為「見證」時再度出現，前後呼應 |
-| מִזְבֵּחַ | mizbeach | 壇、祭壇 | 22:10, 11, 16, 19（原文「另築一座壇」的「壇」） | 源於動詞זָבַח（獻祭），本指獻祭之處；本章的張力恰恰在於：這座「壇」名為壇，實際上卻明言「不是為獻燔祭，也不是為獻別的祭」（22:23, 26） |
+| מִזְבֵּחַ | mizbeach | 壇、祭壇 | 22:10, 11, 16, 19（原文「另築一座壇」的「壇」） | 源於動詞זָבַח（獻祭），本指獻祭之處；本章的張力恰恰在於：這座「壇」名為壇，實際上卻明言「不是為獻燔祭，也不是為獻別的祭」（22:26） |
 
 ## 領受要點 (Truths Received)
 
-### 1. 良善的動機仍可能引發合理的誤會
+### 1. 動機純正，卻沒有先打一聲招呼
 
-河東支派築壇的動機從頭到尾都是良善的（22:24-27），但這不代表他們毫無可議之處——他們在如此敏感的事上，未曾事先諮詢祭司或眾首領，才給了誤會滋長的空間。良善的動機與審慎的溝通，兩者缺一不可。
+河東支派築壇的用意從頭到尾都是良善的（22:24-27），但他們在如此敏感的事上，事前沒有問過祭司、也沒有知會眾首領，誤會就是從這道縫隙裏長出來的。動機純正不能代替商議；越是為了守護共同的信仰而做的事，越需要先讓弟兄知道。
 
-### 2. 群體的懷疑，最好用查問而非刀劍去化解
+### 2. 大軍已經集結，他們卻先派了十一個人去問一句話
 
-西岸支派聽聞消息後第一反應是「聚集要上去攻打」（22:12），但真正付諸行動前，他們先差遣祭司非尼哈與眾首領去查問實情（22:13-14）。這是全書一個極重要的群體智慧示範：捍衛真理的熱心，若不加上查明實情的耐心，很容易錯殺無辜的弟兄。
+西岸支派聽見消息，第一反應是「聚集在示羅，要上去攻打」（22:12）；但動手之前，他們差了祭司非尼哈與十個首領先去查問（22:13-14）。捍衛真理的熱心若沒有配上查明實情的耐心，最先倒下的往往不是異端，而是自己的弟兄。
 
-### 3. 誠實的解釋能化解最深的懷疑
+### 3. 被指控叛教時，他們先呼求神的名，再講理由
 
-河東支派沒有以憤怒或防衛的姿態回應指控，而是誠懇陳明動機（22:21-29）——他們的回答既有對神的敬畏（「大能者神耶和華！他是知道的！」），也有具體、可查驗的解釋。誠實而具體的溝通，往往比激烈的自辯更有說服力。
+面對「悖逆耶和華」這樣的重罪指控，河東支派沒有翻臉，也沒有先問對方憑甚麼：他們先把神請來作見證（「大能者神耶和華！他是知道的！」），再把來龍去脈一條條說清楚（22:21-29）。誠實而具體的陳明，比激烈的自辯更有力。
 
-### 4. 「證壇」提醒下一代：合一不是靠地理位置，而是靠共同敬拜的那一位
+### 4. 他們怕的不是這一代，是幾十年後的一句話
 
-河東支派最深的恐懼，是怕約旦河這條天然的地理分界，有一天會被下一代誤解為屬靈的分界（22:24-25）。他們造的不是敬拜之壇，而是提醒之壇——提醒兩岸的百姓，真正聯結他們的不是土地相連，而是「耶和華是神」這共同的信仰（22:34）。
+河東支派最深的恐懼，是怕約旦河這條地理界線，有一天被下一代讀成屬靈的界線——「你們與耶和華無分了」（22:24-25）。他們築的不是獻祭的壇，是提醒的壇：聯結兩岸的從來不是土地相連，而是「耶和華是神」（22:34）。
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -162,21 +162,19 @@ publisher: 三書精讀出版系統
 > 這好比那貴重的油澆在亞倫的頭上，流到鬍鬚，又流到他的衣襟； \
 > 又好比黑門的甘露降在錫安山；因為在那裏有耶和華所命定的福，就是永遠的生命。
 
-這篇短詩所歌頌的「弟兄和睦同居」，正是本章河東與河西支派幾乎失去、卻又及時挽回的光景。詩篇用「貴重的油」與「黑門的甘露」來形容弟兄和睦的美好，本章則用一場化險為夷的查問與誠實的解釋，示範了這份美好如何在現實中被守護下來。
+這篇短詩所歌頌的「弟兄和睦同居」，正是本章兩岸支派幾乎失去、卻又及時挽回的光景。詩篇用「貴重的油」與「黑門的甘露」形容它有多美，本章則示範這份美好在現實裏是怎樣被守住的——靠一次查問，和一次誠實的解釋。
 
 ### Blest Be the Tie That Binds
 
-見上文〈配詩〉。約翰·福西特這首詩歌所歌頌的「愛的聯繫」，正是本章河東支派築壇所要守護的那份聯繫——不是靠地理上的相連，而是靠「在基督裏同心的團契」。
+見上文〈配詩〉。福西特所歌頌的「愛的聯繫」，正是河東支派築壇所要守護的那一份——他們用一座石壇留住的，這首詩歌用「在基督裏同心的團契」唱了出來。
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**先問**：西岸支派聽聞河東支派築壇的消息後，第一反應是「聚集要上去攻打」（22:12）——這反應合理嗎？他們憑甚麼在還沒查明實情之前，就已經整軍備戰？
+**先問**：西岸支派聽見的，不過是「築了一座壇」幾個字（22:11），全會眾就聚集在示羅要上去攻打（22:12）。消息還沒查證，大軍已經集結——他們憑甚麼認定自己聽見的就是實情？若那天真的開打，事後誰會出來說「這是為了真理」？
 
-**再問**：如果西岸支派當時真的立刻動武，而不是先差派非尼哈與眾首領去查問，這場戰事的後果會是甚麼？一場本可以用一次誠實的對話化解的誤會，若真的兵戎相見，傷害的會是誰？
+**追問**：河東支派被扣上「悖逆耶和華」的罪名，第一句話卻是呼求神的名作見證（22:22），然後才講理由。你被誤解、被指控的時候，第一反應是反問對方憑甚麼，還是先把事情的來龍去脈說清楚？
 
-**追問**：河東支派解釋自己築壇的動機時，沒有以憤怒回應指控，反而先鄭重呼求神的名作見證（22:22），再具體陳明理由。你今天被誤解、被指控的時候，第一反應是為自己辯護，還是像他們一樣，先誠懇地把事情的來龍去脈說清楚？
-
-**落到自己**：你的教會、家庭、或群體裏，有沒有一件因誤解而幾乎釀成大衝突的事？回頭看，是甚麼讓事情沒有惡化——是有人願意先查問，還是有人願意誠實解釋？如果類似的誤會今天發生在你身上，你會選擇哪一條路？
+**落到自己**：你的教會、家庭或群體裏，有沒有一件因誤解而幾乎鬧大的事？回頭看，是甚麼讓它沒有惡化——是有人肯先問，還是有人肯先說？下一次輪到你，你站哪一邊？
 
 **你看見神的同在了嗎**：非尼哈說：「今日我們知道耶和華在我們中間，因為你們沒有向他犯了這罪」（22:31）。神的同在，往往不是顯在轟轟烈烈的神蹟裏，而是顯在一場本可能爆發、卻因誠實與耐心而化解的衝突之中。
 
@@ -184,11 +182,11 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. 河東支派在如此敏感的事上，沒有事先諮詢祭司或眾首領，才給誤會留下空間。你在做重大決定時，有沒有主動尋求屬靈同伴或長輩的意見，還是習慣獨自行動、事後才解釋？
+1. 河東支派在如此敏感的事上獨自行動，事後才解釋。你上一次做重大決定，是先問過屬靈同伴與長輩，還是先做了再說？
 
-2. 西岸支派本可以直接開戰，卻選擇先派人查問。你在懷疑或被冒犯的時候，第一個動作是查問實情，還是急著論斷、甚至散播未經查證的猜測？
+2. 非尼哈聽完解釋就「以為美」，回去一報告，全會眾也「以這事為美，就稱頌神，不再提上去攻打」（22:30-33）。指控收回得乾乾淨淨，沒有留一句「話雖如此，不過……」。你有沒有一次，肯這樣把一個懷疑徹底放下？
 
-3. 河東支派為壇取名「證壇」，提醒下一代合一的根基不是地理，而是共同敬拜的那一位。你今天用甚麼具體的方式，向下一代（兒女、門徒）提醒你們合一的真正根基？
+3. 約書亞打發河東支派回家時吩咐：「要將你們從仇敵奪來的物，與你們眾弟兄同分」（22:8）——得勝之後最容易分裂的一刻，往往就是分東西的時候。你手上的收穫，有沒有一份是留給那些留在後方、沒有分到功勞的弟兄？
 
 ### 禱告回應
 

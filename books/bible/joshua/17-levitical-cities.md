@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：一句也沒有落空（21:45）** \
 > **全書座標**：〔卷四·承受〕分地敘事的最後一站，也是全書結構的正中央。敘事者在四十八座城的清單之後停下來宣告：「一句也沒有落空」（21:45）——這與1:6-9的吩咐、23:14的見證，是同一根骨幹上的三個定點（見〈剛強壯膽——全書的骨幹〉）。
 
-利未支派本章的遭遇，是這句宣告最具體的一個縮影：他們沒有像其他支派一樣抽得一整片土地，只在各支派境內分得四十八座散落的城——但這「沒有」，恰恰應驗了摩西早已宣告的應許：「耶和華是他的產業」（申18:2）。這提醒讀者，神的信實不只兌現在「得著甚麼」上，也兌現在「神自己就是那份產業」這件事上。就整卷書而言，本章與其說直接指向基督的預表，不如說是把神「凡祂應許的，必要成就」這信實本身，鋪陳到讀者面前——而新約把這信實的終極兌現，直接繫在基督身上：「神的應許，不論有多少，在基督都是是的」（林後1:20）。21:45 的「都應驗了」，最終在基督裏找到了那聲永遠的「阿們」。
+利未支派本章的遭遇，是這句宣告最具體的一個縮影：他們沒有像其他支派一樣抽得一整片土地，只在各支派境內分得四十八座散落的城——但這「沒有」，恰恰應驗了摩西早已宣告的應許：「耶和華是他們的產業」（申18:2）。這提醒讀者，神的信實不只兌現在「得著甚麼」上，也兌現在「神自己就是那份產業」這件事上。就整卷書而言，本章與其說直接指向基督的預表，不如說是把神「凡祂應許的，必要成就」這信實本身，鋪陳到讀者面前——而新約把這信實的終極兌現，直接繫在基督身上：「神的應許，不論有多少，在基督都是是的」（林後1:20）。21:45 的「都應驗了」，最終在基督裏找到了那聲永遠的「阿們」。
 
 ## 配詩 (Opening Hymn)
 
@@ -54,13 +54,13 @@ publisher: 三書精讀出版系統
 
 > ^1^Then the heads of households of the Levites approached Eleazar the priest, and Joshua the son of Nun, and the heads of households of the tribes of the sons of Israel. ^2^They spoke to them at Shiloh in the land of Canaan, saying, "The LORD commanded through Moses to give us cities to live in, with their pasture lands for our cattle." ^3^So the sons of Israel gave the Levites from their inheritance these cities with their pasture lands, according to the command of the LORD. ^4^Then the lot came out for the families of the Kohathites. And the sons of Aaron the priest, who were of the Levites, received thirteen cities by lot from the tribe of Judah and from the tribe of the Simeonites and from the tribe of Benjamin. ^5^The rest of the sons of Kohath received ten cities by lot from the families of the tribe of Ephraim and from the tribe of Dan and from the half-tribe of Manasseh. ^6^The sons of Gershon received thirteen cities by lot from the families of the tribe of Issachar and from the tribe of Asher and from the tribe of Naphtali and from the half-tribe of Manasseh in Bashan. ^7^The sons of Merari according to their families received twelve cities from the tribe of Reuben and from the tribe of Gad and from the tribe of Zebulun. ^8^Now the sons of Israel gave by lot to the Levites these cities with their pasture lands, as the LORD had commanded through Moses.
 
-> ^9^They gave these cities which are here mentioned by name from the tribe of the sons of Judah and from the tribe of the sons of Simeon; ^11^Thus they gave them Kiriath-arba, *Arba being* the father of Anak (that is, Hebron), in the hill country of Judah, with its surrounding pasture lands. ^12^But the fields of the city and its villages they gave to Caleb the son of Jephunneh as his possession. ^13^So to the sons of Aaron the priest they gave Hebron, the city of refuge for the manslayer, with its pasture lands, and Libnah with its pasture lands, ^14^and Jattir with its pasture lands and Eshtemoa with its pasture lands, ^15^and Holon with its pasture lands and Debir with its pasture lands, ^16^and Ain with its pasture lands and Juttah with its pasture lands *and* Beth-shemesh with its pasture lands; nine cities from these two tribes. ^17^From the tribe of Benjamin, Gibeon with its pasture lands, Geba with its pasture lands, ^18^Anathoth with its pasture lands and Almon with its pasture lands; four cities. ^19^All the cities of the sons of Aaron, the priests, were thirteen cities with their pasture lands.
+> ^9^They gave these cities which are *here* mentioned by name from the tribe of the sons of Judah and from the tribe of the sons of Simeon; ^11^Thus they gave them Kiriath-arba, *Arba being* the father of Anak (that is, Hebron), in the hill country of Judah, with its surrounding pasture lands. ^12^But the fields of the city and its villages they gave to Caleb the son of Jephunneh as his possession. ^13^So to the sons of Aaron the priest they gave Hebron, the city of refuge for the manslayer, with its pasture lands, and Libnah with its pasture lands, ^14^and Jattir with its pasture lands and Eshtemoa with its pasture lands, ^15^and Holon with its pasture lands and Debir with its pasture lands, ^16^and Ain with its pasture lands and Juttah with its pasture lands *and* Beth-shemesh with its pasture lands; nine cities from these two tribes. ^17^From the tribe of Benjamin, Gibeon with its pasture lands, Geba with its pasture lands, ^18^Anathoth with its pasture lands and Almon with its pasture lands; four cities. ^19^All the cities of the sons of Aaron, the priests, were thirteen cities with their pasture lands.
 
 > ^20^Then the cities from the tribe of Ephraim were allotted to the families of the sons of Kohath, the Levites, *even to* the rest of the sons of Kohath. ^21^They gave them Shechem, the city of refuge for the manslayer, with its pasture lands, in the hill country of Ephraim, and Gezer with its pasture lands, ^22^and Kibzaim with its pasture lands and Beth-horon with its pasture lands; four cities. ^23^From the tribe of Dan, Elteke with its pasture lands, Gibbethon with its pasture lands, ^24^Aijalon with its pasture lands, Gath-rimmon with its pasture lands; four cities. ^25^From the half-tribe of Manasseh, *they allotted* Taanach with its pasture lands and Gath-rimmon with its pasture lands; two cities. ^26^All the cities with their pasture lands for the families of the rest of the sons of Kohath were ten.
 
-> ^27^To the sons of Gershon, one of the families of the Levites, from the half-tribe of Manasseh, they gave Golan in Bashan, the city of refuge for the manslayer, with its pasture lands, and Be-eshterah with its pasture lands; two cities. ^28^From the tribe of Issachar, they gave Kishion with its pasture lands, Daberath with its pasture lands, ^29^Jarmuth with its pasture lands, En-gannim with its pasture lands; four cities. ^30^From the tribe of Asher, they gave Mishal with its pasture lands, Abdon with its pasture lands, ^31^Helkath with its pasture lands and Rehob with its pasture lands; four cities. ^32^From the tribe of Naphtali, they gave Kedesh in Galilee, the city of refuge for the manslayer, with its pasture lands and Hammoth-dor with its pasture lands and Kartan with its pasture lands; three cities. ^33^All the cities of the Gershonites according to their families were thirteen cities with their pasture lands.
+> ^27^To the sons of Gershon, one of the families of the Levites, from the half-tribe of Manasseh, *they gave* Golan in Bashan, the city of refuge for the manslayer, with its pasture lands, and Be-eshterah with its pasture lands; two cities. ^28^From the tribe of Issachar, *they gave* Kishion with its pasture lands, Daberath with its pasture lands, ^29^Jarmuth with its pasture lands, En-gannim with its pasture lands; four cities. ^30^From the tribe of Asher, *they gave* Mishal with its pasture lands, Abdon with its pasture lands, ^31^Helkath with its pasture lands and Rehob with its pasture lands; four cities. ^32^From the tribe of Naphtali, *they gave* Kedesh in Galilee, the city of refuge for the manslayer, with its pasture lands and Hammoth-dor with its pasture lands and Kartan with its pasture lands; three cities. ^33^All the cities of the Gershonites according to their families were thirteen cities with their pasture lands.
 
-> ^34^To the families of the sons of Merari, the rest of the Levites, they gave from the tribe of Zebulun, Jokneam with its pasture lands and Kartah with its pasture lands. ^35^Dimnah with its pasture lands, Nahalal with its pasture lands; four cities. ^36^From the tribe of Reuben, they gave Bezer with its pasture lands and Jahaz with its pasture lands, ^37^Kedemoth with its pasture lands and Mephaath with its pasture lands; four cities. ^38^From the tribe of Gad, they gave Ramoth in Gilead, the city of refuge for the manslayer, with its pasture lands and Mahanaim with its pasture lands, ^39^Heshbon with its pasture lands, Jazer with its pasture lands; four cities in all. ^40^All these were the cities of the sons of Merari according to their families, the rest of the families of the Levites; and their lot was twelve cities. ^41^All the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight cities with their pasture lands. ^42^These cities each had its surrounding pasture lands; thus it was with all these cities.
+> ^34^To the families of the sons of Merari, the rest of the Levites, *they gave* from the tribe of Zebulun, Jokneam with its pasture lands and Kartah with its pasture lands. ^35^Dimnah with its pasture lands, Nahalal with its pasture lands; four cities. ^36^From the tribe of Reuben, *they gave* Bezer with its pasture lands and Jahaz with its pasture lands, ^37^Kedemoth with its pasture lands and Mephaath with its pasture lands; four cities. ^38^From the tribe of Gad, *they gave* Ramoth in Gilead, the city of refuge for the manslayer, with its pasture lands and Mahanaim with its pasture lands, ^39^Heshbon with its pasture lands, Jazer with its pasture lands; four cities in all. ^40^All *these were* the cities of the sons of Merari according to their families, the rest of the families of the Levites; and their lot was twelve cities. ^41^All the cities of the Levites in the midst of the possession of the sons of Israel were forty-eight cities with their pasture lands. ^42^These cities each had its surrounding pasture lands; thus *it was* with all these cities.
 
 > ^43^So the LORD gave Israel all the land which He had sworn to give to their fathers, and they possessed it and lived in it. ^44^And the LORD gave them rest on every side, according to all that He had sworn to their fathers, and no one of all their enemies stood before them; the LORD gave all their enemies into their hand. ^45^Not one of the good promises which the LORD had made to the house of Israel failed; all came to pass.
 
@@ -68,7 +68,7 @@ publisher: 三書精讀出版系統
 
 ### 利未支派「無地為業」的神學鋪陳
 
-早在摩西五經，利未支派不得分地為業就已一再被鄭重宣告：「利未人在弟兄中無分無業；耶和華是他的產業，正如耶和華所應許他的」（申18:2；另見民18:20，「你在他們境內不可有產業，在他們中間也不可有分；我就是你的分，是你的產業」）。本章不是一個新的安排，而是這早已宣告的應許終於落地——利未人分散在四十八座城裏，寄居在各支派的境內，靠各支派的奉獻與什一供給生活（民18:21-24）。這使利未支派成為全書對「產業」一詞最深刻的一次重新定義：對某些蒙召的人，神自己就是他們終極的產業，勝過任何一片土地。
+早在摩西五經，利未支派不得分地為業就已一再被鄭重宣告：「他們在弟兄中必沒有產業；耶和華是他們的產業，正如耶和華所應許他們的」（申18:2；另見民18:20，「你在以色列人的境內不可有產業，在他們中間也不可有分。我就是你的分，是你的產業」）。本章不是一個新的安排，而是這早已宣告的應許終於落地——利未人分散在四十八座城裏，寄居在各支派的境內，靠各支派的奉獻與什一供給生活（民18:21-24）。
 
 ### 逃城與利未城的重疊：審判中的憐憫
 
@@ -82,25 +82,25 @@ publisher: 三書精讀出版系統
 
 | 希伯來文 | 音譯 | 意義 | 經文 | 註解 |
 |--------------|----------------|----------------|--------------------|--------------------------------|
-| נַחֲלָה | nachalah | 產業、地業、基業 | 21:3（利未人「從自己的地業中」分得城邑） | Strong's H5159；貫穿13-21章分地敘事的核心字，本章卻用在利未人「沒有」完整נַחֲלָה的處境上，凸顯「神自己是產業」（申18:2）這更深的意義 |
+| נַחֲלָה | nachalah | 產業、地業、基業 | 21:3（利未人「從自己的地業中」分得城邑） | Strong's H5159；貫穿13-21章分地敘事的核心字，本章卻用在利未人「沒有」完整נַחֲלָה的處境上，凸顯神自己就是產業（申18:2）這更深的意義 |
 | גּוֹרָל | goral | 籤、鬮 | 21:4、5、6、7、8、10（原文「頭一鬮」）等 | Strong's H1486；本義是用以拈鬮的小石子，箴16:33「籤放在懷裏，定事由耶和華」道出其神學：看似隨機的分配，實際出於神的主權 |
 | נָפַל | naphal | 落下、落空 | 21:45「一句也沒有落空」 | Strong's H5307；原文字面是「無一句話落下」，全書信實主題的關鍵動詞，23:14再度以同一詞根重複同一宣告 |
 
 ## 領受要點 (Truths Received)
 
-### 1. 利未人的「沒有」，是全書對「產業」最深刻的一次重新定義
+### 1. 四十八座散落的城，換來一句「耶和華是他的產業」
 
 其他支派抽籤得一整片相連的土地，利未人卻分散在四十八座城裏，寄居於眾支派中間——這「沒有」不是虧損，而是應驗了摩西早已宣告的應許：「耶和華是他的產業」。凡蒙召事奉神的人，都當在這裏看見一個提醒：神自己願意成為某些人終極的產業，這份產業勝過任何一片可以丈量的土地。
 
-### 2. 逃城制度：審判之地與憐憫之地的重疊
+### 2. 六座逃城，全都設在教律法的人家裏
 
 六座逃城座落在利未人的城中，這安排把「公義必須追究流血之罪」與「無心之過仍有出路」這兩件事，安放在同一批被分別出來、負責教導律法的人手中。神的百姓被賦予的職分，從來不只是懲罰，也包括庇護與教導。
 
-### 3. 「一句都沒有落空」：在爭戰仍未止息之時的宣告
+### 3. 「一句也沒有落空」：在爭戰仍未止息之時的宣告
 
 21:43-45 的宣告出現的位置值得注意：不是在士師記式的「從此天下太平」之後，而是在分地敘事仍在進行、13:1「還有極多之地未曾得為業」的伏筆猶在之時。神信實的宣告，不需要等到人這一邊把一切都做得完美，才敢站立得住。
 
-### 4. 神的信實與人的順服，總刻在同一段經文裏
+### 4. 「一句也沒有落空」之後，緊接著就是一場差點開打的內戰
 
 21:45 說神的應許「一句也沒有落空」，緊接著22-23章卻要處理河東支派幾乎引發的內戰誤會、以及約書亞對百姓「你們要謹守遵行」的反覆勸勉。神那一邊的信實是全然的；人這一邊的順服，卻是每一段敘事都要重新面對的功課——這兩件事從不互相取消，而是彼此需要。
 
@@ -120,7 +120,7 @@ publisher: 三書精讀出版系統
 
 > — John Calvin, *Commentary on the Book of Joshua*（Calvin Translation Society版），on Joshua 21:1，p.234
 
-加爾文又特別針對 21:43-45「一句都沒有落空」提出一個重要的神學澄清：既然後文（22-23章）明明記載迦南地仍有未被驅逐的仇敵雜居其中，這宣告如何能說「一句都沒有落空」？他的解法是區分神應許的確實性與百姓順服的怠惰：
+加爾文又特別針對 21:43-45「一句也沒有落空」提出一個重要的神學澄清：既然後文（22-23章）明明記載迦南地仍有未被驅逐的仇敵雜居其中，這宣告如何能說「一句也沒有落空」？他的解法是區分神應許的確實性與百姓順服的怠惰：
 
 > "It is necessary to distinguish between the certain, clear, and steadfast faithfulness of God in keeping his promises, and between the effeminacy and sluggishness of the people, in consequence of which the benefit of the divine goodness in a manner slipped through their hands."
 
@@ -162,7 +162,7 @@ publisher: 三書精讀出版系統
 
 ### 司布真 (C.H. Spurgeon)
 
-經多方查證（spurgeongems.org、blueletterbible.org、spurgeon.org 講章資料庫、以及 monergism.com 所列司布真論約書亞記講章清單），司布真講章庫中未查得直接以約書亞記21章（利未人的城或21:45「一句都沒有落空」）為經文的講章。其中一篇題為〈罪人的避難所〉（"The Sinner's Refuge"）雖以逃城為喻，但經查其講道經文實為民數記35:11，並非約書亞記，故不可張冠李戴地引為本章注疏。誠實記錄此處空缺，留待日後查考。
+經多方查證（spurgeongems.org、blueletterbible.org、spurgeon.org 講章資料庫、以及 monergism.com 所列司布真論約書亞記講章清單），司布真講章庫中未查得直接以約書亞記21章（利未人的城或21:45「一句也沒有落空」）為經文的講章。其中一篇題為〈罪人的避難所〉（"The Sinner's Refuge"）雖以逃城為喻，但經查其講道經文實為民數記35:11，並非約書亞記，故不可張冠李戴地引為本章注疏。誠實記錄此處空缺，留待日後查考。
 
 ## 詩篇與聖詩 (Psalm & Hymn)
 
@@ -171,7 +171,7 @@ publisher: 三書精讀出版系統
 > 耶和華是我的產業，是我杯中的分；我所得的，你為我持守。 \
 > 用繩量給我的地界，坐落在佳美之處；我的產業實在美好。
 
-大衛在此所唱的，正是利未支派在本章活出來的信心：產業的美好，不在乎地界量得多寬，而在乎那賜產業的是誰。利未人沒有一整片相連的土地，卻可以像大衛一樣說「我的產業實在美好」——因為他們的產業，正是耶和華自己。
+大衛在此所唱的，正是利未支派在本章活出來的信心：產業的美好，不在乎地界量得多寬，而在乎那賜產業的是誰。
 
 ### How Firm a Foundation
 
@@ -199,7 +199,7 @@ publisher: 三書精讀出版系統
 
 2. 六座逃城座落在利未人管理的城中，把公義與憐憫安放在同一批人手裏。你在教會或家庭中所擔的職分，是不是也同時需要持守是非的公義，又要對軟弱失手的人存憐憫？
 
-3. 21:45 的宣告出現在困難仍未全部過去之時。今天，你能不能不等一切都圓滿，就先數算一件神已經應驗、你卻還沒有留意到的應許？
+3. 利未人要等到別人都分完了，才自己上前提醒：「從前耶和華藉著摩西吩咐給我們城邑居住」（21:2）。你身邊有沒有一個一直沒開口、也一直沒人記起的人？他該得的那一份，要等他自己來討嗎？
 
 ### 禱告回應
 
@@ -215,6 +215,6 @@ publisher: 三書精讀出版系統
 |----------------------------|----------------------------|----------------------------|
 | 利未人「無地為業」，耶和華是他的產業 | 21:3, 41 | 申18:1-2、民18:20-24 |
 | 逃城制度：公義與憐憫並存 | 21:13, 21, 27, 32, 38 | 書20:1-9、民35:9-15 |
-| 神的話語一句都沒有落空 | 21:45 | 書23:14、王上8:56、林後1:20 |
+| 神的話語一句也沒有落空 | 21:45 | 書23:14、王上8:56、林後1:20 |
 | 拈鬮：神在瑣碎細節中的主權 | 21:4-8 | 箴16:33、徒1:26 |
 | 神自己是信徒的產業 | 21:3（利未人的處境） | 詩16:5-6、詩73:26 |

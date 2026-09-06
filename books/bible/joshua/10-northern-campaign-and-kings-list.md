@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：於是國中太平，沒有爭戰了（11:23）** \
 > **全書座標**：〔卷三·爭戰〕迦南諸王最後一次聯合抵抗；此役潰敗之後，經文宣告「國中太平，沒有爭戰了」（11:23）。12章的三十一王名單為爭戰篇章正式作結——神的應許不是抽象的祝福感，是具體到每一個名字的兌現。
 
-11:23與12章的名單，不是為著頌揚約書亞個人的軍功而寫，是要具體地見證神向亞伯拉罕所起的誓（創12:7；13:15；15:18）「都應驗了」——加爾文稱這是一幅「活生生的圖畫」，讓後世讀者「彷彿親身站在現場，看見神的信實」。這卷書的中心從來不是約書亞的軍事才能，而是那位「為以色列爭戰」（11:6起意，貫穿全卷）的耶和華；祂應許的「安息」（11:23「地已經太平」）也預表著一種更深的安息——來4:8清楚指出，約書亞所賜的地上安息，並非那終極的安息，那安息還要等候一位更大的「約書亞」（希伯來原文與「耶穌」同名）親自帶進來。
+11:23與12章的名單，不是為著頌揚約書亞個人的軍功而寫，是要具體地見證神向亞伯拉罕所起的誓（創12:7；13:15；15:18）都應驗了——加爾文把這份名單讀作神信實的一幅圖畫（見〈歷代注疏〉）。這卷書的中心從來不是約書亞的軍事才能，而是那位為以色列爭戰的耶和華；祂應許的安息（11:23「地已經太平」）也預表著一種更深的安息——來4:8清楚指出，約書亞所賜的地上安息，並非那終極的安息，那安息還要等候一位更大的「約書亞」（希伯來原文與「耶穌」同名）親自帶進來。
 
 ---
 
@@ -76,11 +76,11 @@ publisher: 三書精讀出版系統
 
 ### English — NASB：Chapter 11
 
-> ^1^Then it came about, when Jabin king of Hazor heard *of it,* that he sent to Jobab king of Madon and to the king of Shimron and to the king of Achshaph, ^2^and to the kings who were of the north in the hill country, and in the Arabah—south of Chinneroth and in the lowland and on the heights of Dor on the west— ^3^to the Canaanite on the east and on the west, and the Amorite and the Hittite and the Perizzite and the Jebusite in the hill country, and the Hivite at the foot of Hermon in the land of Mizpeh. ^4^They came out, they and all their armies with them, *as* many people as the sand that is on the seashore, with very many horses and chariots. ^5^So all of these kings having agreed to meet, came and encamped together at the waters of Merom, to fight against Israel.
+> ^1^Then it came about, when Jabin king of Hazor heard *of it*, that he sent to Jobab king of Madon and to the king of Shimron and to the king of Achshaph, ^2^and to the kings who were of the north in the hill country, and in the Arabah—south of Chinneroth and in the lowland and on the heights of Dor on the west— ^3^to the Canaanite on the east and on the west, and the Amorite and the Hittite and the Perizzite and the Jebusite in the hill country, and the Hivite at the foot of Hermon in the land of Mizpeh. ^4^They came out, they and all their armies with them, *as* many people as the sand that is on the seashore, with very many horses and chariots. ^5^So all of these kings having agreed to meet, came and encamped together at the waters of Merom, to fight against Israel.
 
 > ^6^Then the LORD said to Joshua, "Do not be afraid because of them, for tomorrow at this time I will deliver all of them slain before Israel; you shall hamstring their horses and burn their chariots with fire." ^7^So Joshua and all the people of war with him came upon them suddenly by the waters of Merom, and attacked them. ^8^The LORD delivered them into the hand of Israel, so that they defeated them, and pursued them as far as Great Sidon and Misrephoth-maim and the valley of Mizpeh to the east; and they struck them until no survivor was left to them. ^9^Joshua did to them as the LORD had told him; he hamstrung their horses and burned their chariots with fire.
 
-> ^10^Then Joshua turned back at that time, and captured Hazor and struck its king with the sword; for Hazor formerly was the head of all these kingdoms. ^11^They struck every person who was in it with the edge of the sword, utterly destroying *them;* there was no one left who breathed. And he burned Hazor with fire. ^12^Joshua captured all the cities of these kings, and all their kings, and he struck them with the edge of the sword, *and* utterly destroyed them; just as Moses the servant of the LORD had commanded. ^13^However, Israel did not burn any cities that stood on their mounds, except Hazor alone, *which* Joshua burned. ^14^All the spoil of these cities and the cattle, the sons of Israel took as their plunder; but they struck every man with the edge of the sword, until they had destroyed them. They left no one who breathed. ^15^Just as the LORD had commanded Moses his servant, so Moses commanded Joshua, and so Joshua did; he left nothing undone of all that the LORD had commanded Moses.
+> ^10^Then Joshua turned back at that time, and captured Hazor and struck its king with the sword; for Hazor formerly was the head of all these kingdoms. ^11^They struck every person who was in it with the edge of the sword, utterly destroying *them*; there was no one left who breathed. And he burned Hazor with fire. ^12^Joshua captured all the cities of these kings, and all their kings, and he struck them with the edge of the sword, *and* utterly destroyed them; just as Moses the servant of the LORD had commanded. ^13^However, Israel did not burn any cities that stood on their mounds, except Hazor alone, *which* Joshua burned. ^14^All the spoil of these cities and the cattle, the sons of Israel took as their plunder; but they struck every man with the edge of the sword, until they had destroyed them. They left no one who breathed. ^15^Just as the LORD had commanded Moses his servant, so Moses commanded Joshua, and so Joshua did; he left nothing undone of all that the LORD had commanded Moses.
 
 > ^16^Thus Joshua took all that land: the hill country and all the Negev, all that land of Goshen, the lowland, the Arabah, the hill country of Israel and its lowland ^17^from Mount Halak, that rises toward Seir, even as far as Baal-gad in the valley of Lebanon at the foot of Mount Hermon. And he captured all their kings and struck them down and put them to death. ^18^Joshua waged war a long time with all these kings. ^19^There was not a city which made peace with the sons of Israel except the Hivites living in Gibeon; they took them all in battle. ^20^For it was of the LORD to harden their hearts, to meet Israel in battle in order that he might utterly destroy them, that they might receive no mercy, but that he might destroy them, just as the LORD had commanded Moses.
 
@@ -108,7 +108,7 @@ publisher: 三書精讀出版系統
 
 ### 三十一王名單：不是族譜式的枯燥清單，是應許兌現的正式記錄
 
-第12章分兩部分列出被擊敗的君王：1-6節是摩西在約旦河東所滅的西宏、噩二王，7-24節是約書亞在約旦河西所滅的三十一王。這份名單初讀似乎只是枯燥的地名人名堆砌，但正如馬太·亨利所指出，這正是要讓後世讀者看見：神向亞伯拉罕、摩西所應許的地，如今一寸一寸、一個名字一個名字地兌現了。加爾文更進一步提醒，讀者不必因不熟悉這些地名而分心，重點在於：這份名單本身就是「神好意的活生生圖畫」——證明了「亙古已與亞伯拉罕所立、將這地賜給你後裔」（創12:7）這句應許，已經完全、具體地實現。
+第12章分兩部分列出被擊敗的君王：1-6節是摩西在約旦河東所滅的西宏、噩二王，7-24節是約書亞在約旦河西所滅的三十一王。名單的編排本身就是一份正式的結案記錄：河東歸摩西，河西歸約書亞，兩段合起來，涵蓋了神所應許之地的全境。亨利與加爾文都不把它讀作枯燥的地名堆砌，而讀作應許兌現的憑據（見〈歷代注疏〉）。
 
 ---
 
@@ -125,21 +125,21 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 神刻意分批打發爭戰，為要訓練祂的百姓
+### 1. 南方一天打完，北方打了許多年日
 
-11:18「約書亞和這諸王爭戰了許多年日」——與第10章南方戰役的速戰速決形成對比，這場北方戰役曠日持久。加爾文指出，神刻意讓以色列人先經歷南方的速勝，再經歷北方的持久戰，為要「使他們逐步習慣於信心的操練」，而非一次承受過大的震撼。**神訓練祂百姓的節奏，往往按著他們能承受的程度漸進，不是一次把所有的爭戰都堆在眼前。**
+11:18只用一句話交代這場戰役的長度：「約書亞和這諸王爭戰了許多年日」。上一章日頭止住、一日之內解決五王；這一章面對的是規模最大的聯軍，神給的卻是一段沒有寫明年份的漫長時間。**同一位神，可以用一天成就一件事，也可以用許多年成就另一件**；速度從來不是祂同在與否的指標。
 
 ### 2. 「耶和華使他們心裏剛硬」：審判中仍然公義
 
-11:20這句話初讀令人不安——神使迦南人「心裏剛硬」，以致他們主動來與以色列爭戰、自取滅亡。但經文的脈絡清楚：這是神對「罪惡滿盈」（創15:16）之地的審判性回應，不是無端的操縱；迦南人早已從喇合、基遍人的口中聽聞耶和華的作為（書2:9-11；9:9-10），他們的心剛硬，是拒絕真光之後的結果，而非毫無根由的宿命。**神的審判不會越過人的責任；祂讓已經硬心的人，走向他們自己選擇的結局。**
+11:20這句話初讀令人不安——神使迦南人「心裏剛硬」，以致他們主動來與以色列爭戰、自取滅亡。但經文的脈絡清楚：神在亞伯拉罕的時代就說過，「因為亞摩利人的罪孽還沒有滿盈」（創15:16），所以要等到第四代；如今審判臨到，正是因為這地的罪孽已經滿盈——這是審判性的回應，不是無端的操縱；迦南人早已從喇合、基遍人的口中聽聞耶和華的作為（書2:9-11；9:9-10），他們的心剛硬，是拒絕真光之後的結果，而非毫無根由的宿命。**神的審判不會越過人的責任；祂讓已經硬心的人，走向他們自己選擇的結局。**
 
-### 3. 「國中太平，沒有爭戰了」——卻不是永久的終點
+### 3. 「沒有爭戰了」和「還有許多未得之地」，隔了兩章
 
-11:23的「太平」與12章的名單，標誌著大規模征服戰役的結束，但這卷書後面（13:1）馬上又誠實地補充：「還有許多未得之地」。**得勝的宣告與尚待完成的責任並存，這正是全書一貫的誠實——神的信實已經應驗，人卻仍有持續的責任要承擔。**
+11:23宣告國中太平，12章列完名單，13:1劈頭第一句卻是：「還有許多未得之地」。這卷書沒有讓那句凱旋的話多站幾頁。**它不肯讓讀者停在慶功的段落裏**——已經成就的與尚未領取的，聖經一向並排寫，不替任何一邊打折。
 
-### 4. 三十一個名字，是應許最具體的兌現清單
+### 4. 三十一次「一個」
 
-第12章逐一列出的君王名字，讀來或許枯燥，卻正是「得地為業」這句應許最實在的證據——每一個名字背後，都是一片真實被賜下的土地、一次真實發生的爭戰。**神的應許從不是抽象的祝福感，是具體到每一寸土地、每一個名字的兌現；讀經若只讀神蹟的高潮、略過這樣的名單，就錯過了應許落地生根的真實質感。**
+12:9-24的句式一路重複：一個王、一個王、一個王，直到數完。這種寫法讀來單調，卻正是它要的效果——**應許不是一次性地整批發放，是一個一個地交割**。讀經若只挑神蹟的高潮、跳過這樣的名單，錯過的正是應許落地時最真實的那份質感。
 
 ---
 
@@ -229,9 +229,9 @@ publisher: 三書精讀出版系統
 
 **再問**：12章這份三十一王的名單，若你是當時的以色列人，一個一個唸過這些陌生的地名和君王，會是甚麼心情？枯燥，還是震撼？
 
-**追問**：11:20說神「使他們心裏剛硬」，這句話會不會讓你覺得神不公平？但若你注意到書2:9-11、9:9-10，迦南人其實早已從喇合、基遍人那裏聽聞了耶和華的作為——他們的硬心，是拒絕已經臨到的真光之後的結果，這是否改變了你對這句話的理解？
+**追問**：11:20說神「使他們心裏剛硬」。喇合聽見同樣的消息就投降了（2:9-11），迦南諸王聽見了卻集結出兵。同一個消息傳到兩種人耳中，結局南轅北轍——你覺得，差別到底出在消息，還是出在聽的人？
 
-**落到自己**：你生命中有沒有一場「爭戰了許多年日」、遲遲看不到盡頭的功課？你是否還記得，神訓練祂百姓的節奏，往往按著他們能承受的程度漸進？
+**落到自己**：你生命中有沒有一場「爭戰了許多年日」、遲遲看不到盡頭的功課？如果神今天告訴你，這件事還要再打好幾年，你會怎麼調整你現在的打法？
 
 **你看見耶和華的信實了嗎**：三十一個名字，每一個都是祂應許兌現的具體記號；今日祂在你生命中賜下的每一件小小的成就，同樣不是偶然，是那位「為以色列爭戰」的耶和華，親手兌現在你眼前的信實。
 
@@ -243,9 +243,7 @@ publisher: 三書精讀出版系統
 
 1. 11:6神在戰役開始之前就先應許「明日這時，我必將他們交付…全然殺了」——你是否也曾在困難尚未過去之前，就先領受了神給你的確據，並憑此站立？
 
-2. 面對一份看似枯燥、缺乏戲劇性的清單（12章的三十一王名單），你是否願意慢下來，把它當作神信實具體的證據來默想，而不是急著跳到下一段更「精彩」的敘事？
-
-3. 11:23「地已經太平」與13:1「還有許多未得之地」同時並存——你生命中有沒有一件事，已經看見神階段性的得勝，卻仍有未竟的功課要繼續面對？你如何在兩者之間，既感恩又不鬆懈？
+2. 11:23「地已經太平」與13:1「還有許多未得之地」同時並存——你生命中有沒有一件事，已經看見神階段性的得勝，卻仍有未竟的功課要繼續面對？你如何在兩者之間，既感恩又不鬆懈？
 
 ### 禱告回應
 

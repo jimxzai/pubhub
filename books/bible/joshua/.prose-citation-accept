@@ -1,0 +1,19 @@
+# Reviewed exceptions for the in-prose Scripture citation audit
+# (scripts pattern follows books/bible/gospel-of-luke/.citation-accept)
+#
+# The audit flags 「…」 followed by a chapter:verse reference whose words are not in
+# that verse of 和合本. That is normally a real defect — quotation marks plus a
+# reference promise the reader the Bible's exact words. The 2026-09-06 round found
+# and repaired 35 such defects.
+#
+# But Chinese also uses 「」 for a TERM or LABEL, where the adjacent （ref） is a
+# "see also" pointer rather than an attribution. Each line below is one such case,
+# read in context and judged to be a term, not a quotation. Format: file|quote|reason
+#
+01-commission-and-courage.md|剛強壯膽|The book's theme word, verbatim in 1:6/1:7/1:9; the （1:1） belongs to the adjacent 忠心的過去, not to the quoted word.
+04-gilgal-and-commander-of-the-lords-army.md|率領天上的眾軍|Editor's descriptor of the rider of 啟19; 19:14 has 在天上的眾軍…跟隨他. Term, not quotation.
+06-achans-sin.md|神親自定奪|Editor's label; the verbatim verse 箴16:33「籤放在懷裏，定事由耶和華」 is quoted immediately after it on the same line.
+07-ai-conquered.md|宣告咒詛|Editor's label for 以巴路山; 申11:29 has 將咒詛的話陳明在以巴路山上. Same chapter uses the phrase unquoted three more times.
+10-northern-campaign-and-kings-list.md|安息在天上|Title of F.B. Meyer's own chapter 15, not Scripture; （11:23） points at the 太平 it comments on.
+16-cities-of-refuge.md|報血仇者|Technical term for גֹּאֵל הַדָּם, defined in the section heading; CUV's own 報血仇的 is quoted verbatim beside it.
+13-judahs-inheritance.md|一個berakah|Hebrew transliteration בְּרָכָה discussed as a term; the aside 如創33:11 points at a parallel USE of the word, not at quoted words.

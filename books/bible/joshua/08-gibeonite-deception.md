@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：「並沒有求問耶和華」（9:14）** \
 > **全書座標**：〔卷三·爭戰〕南征北討的序幕，開場卻是一次失誤——「並沒有求問耶和華」（9:14）。以色列被騙立約，仍選擇守約不食言（9:19-20）：起誓的話一出口，即便起於錯誤的判斷，仍要信守。
 
-本章與其說是直接指向基督，不如說是更直接地指向神守約的信實這個廣闊的主題——祂即便在祂百姓犯了判斷的錯誤之後，仍然親自守住那一份藉著祂百姓所立的約，不容許人的失誤把祂的名聲拖下水。誠實地說，這一章沒有明顯的基督論預表，但有一條線索值得留意：基遍人本是當滅的迦南人之一，卻因著這場立約，被接納進入以色列的營中，成了「為我神的殿作劈柴挑水的人」（9:23）——被咒詛卻蒙保存，被定罪卻被留在神的家中服事。這與福音的邏輯——恩典臨到不配得的人，把仇敵接進聖殿的服事裏——有著遙遠卻真實的呼應（參以賽亞書56:6-7論外邦人聯於耶和華）。
+誠實地說，這一章沒有明顯的基督論預表，它指向的是一個更廣闊的主題：神守約的信實——即便那約是祂的百姓在判斷失誤之下立的，祂仍不容許人的失誤把祂的名聲拖下水。但有一條線索值得留意：基遍人本是當滅的迦南人之一，卻因著這場立約，被接納進入以色列的營中，成了「為我神的殿作劈柴挑水的人」（9:23）。恩典臨到不配得的人，把仇敵接進聖殿的服事裏——這與福音的邏輯有著遙遠卻真實的呼應（參賽56:6-7論外邦人聯於耶和華）。
 
 ---
 
@@ -56,11 +56,11 @@ publisher: 三書精讀出版系統
 
 > ^1^Now it came about when all the kings who were beyond the Jordan, in the hill country and in the lowland and on all the coast of the Great Sea toward Lebanon, the Hittite and the Amorite, the Canaanite, the Perizzite, the Hivite and the Jebusite, heard of it, ^2^that they gathered themselves together with one accord to fight with Joshua and with Israel.
 
-> ^3^When the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai, ^4^they also acted craftily and set out as envoys, and took worn-out sacks on their donkeys, and wineskins worn-out and torn and mended, ^5^and worn-out and patched sandals on their feet, and worn-out clothes on themselves; and all the bread of their provision was dry and had become crumbled. ^6^They went to Joshua to the camp at Gilgal and said to him and to the men of Israel, "We have come from a far country; now therefore, make a covenant with us." ^7^The men of Israel said to the Hivites, "Perhaps you are living within our land; how then shall we make a covenant with you?" ^8^But they said to Joshua, "We are your servants." Then Joshua said to them, "Who are you and where do you come from?" ^9^They said to him, "Your servants have come from a very far country because of the fame of the LORD your God; for we have heard the report of Him and all that He did in Egypt, ^10^and all that He did to the two kings of the Amorites who were beyond the Jordan, to Sihon king of Heshbon and to Og king of Bashan who was at Ashtaroth. ^11^So our elders and all the inhabitants of our country spoke to us, saying, 'Take provisions in your hand for the journey, and go to meet them and say to them, We are your servants; now then, make a covenant with us.' ^12^This our bread was warm when we took it for our provisions out of our houses on the day that we left to come to you; but now behold, it is dry and has become crumbled. ^13^These wineskins which we filled were new, and behold, they are torn; and these our clothes and our sandals are worn out because of the very long journey."
+> ^3^When the inhabitants of Gibeon heard what Joshua had done to Jericho and to Ai, ^4^they also acted craftily and set out as envoys, and took worn-out sacks on their donkeys, and wineskins worn-out and torn and mended, ^5^and worn-out and patched sandals on their feet, and worn-out clothes on themselves; and all the bread of their provision was dry *and* had become crumbled. ^6^They went to Joshua to the camp at Gilgal and said to him and to the men of Israel, "We have come from a far country; now therefore, make a covenant with us." ^7^The men of Israel said to the Hivites, "Perhaps you are living within our land; how then shall we make a covenant with you?" ^8^But they said to Joshua, "We are your servants." Then Joshua said to them, "Who are you and where do you come from?" ^9^They said to him, "Your servants have come from a very far country because of the fame of the LORD your God; for we have heard the report of Him and all that He did in Egypt, ^10^and all that He did to the two kings of the Amorites who were beyond the Jordan, to Sihon king of Heshbon and to Og king of Bashan who was at Ashtaroth. ^11^So our elders and all the inhabitants of our country spoke to us, saying, 'Take provisions in your hand for the journey, and go to meet them and say to them, We are your servants; now then, make a covenant with us.' ^12^This our bread *was* warm *when* we took it for our provisions out of our houses on the day that we left to come to you; but now behold, it is dry and has become crumbled. ^13^These wineskins which we filled were new, and behold, they are torn; and these our clothes and our sandals are worn out because of the very long journey."
 
-> ^14^So the men of Israel took some of their provisions, and did not ask for the counsel of the LORD. ^15^Joshua made peace with them and made a covenant with them, to let them live; and the leaders of the congregation swore an oath to them.
+> ^14^So the men *of Israel* took some of their provisions, and did not ask for the counsel of the LORD. ^15^Joshua made peace with them and made a covenant with them, to let them live; and the leaders of the congregation swore *an oath* to them.
 
-> ^16^It came about at the end of three days after they had made a covenant with them, that they heard that they were neighbors and that they were living within their land. ^17^Then the sons of Israel set out and came to their cities on the third day. Now their cities were Gibeon and Chephirah and Beeroth and Kiriath-jearim. ^18^The sons of Israel did not strike them because the leaders of the congregation had sworn to them by the LORD the God of Israel. And the whole congregation grumbled against the leaders. ^19^But all the leaders said to the whole congregation, "We have sworn to them by the LORD, the God of Israel, and now we cannot touch them. ^20^This we will do to them, even let them live, so that wrath will not be upon us for the oath which we swore to them." ^21^The leaders said to them, "Let them live." So they became hewers of wood and drawers of water for the whole congregation, just as the leaders had spoken to them.
+> ^16^It came about at the end of three days after they had made a covenant with them, that they heard that they were neighbors and that they were living within their land. ^17^Then the sons of Israel set out and came to their cities on the third day. Now their cities *were* Gibeon and Chephirah and Beeroth and Kiriath-jearim. ^18^The sons of Israel did not strike them because the leaders of the congregation had sworn to them by the LORD the God of Israel. And the whole congregation grumbled against the leaders. ^19^But all the leaders said to the whole congregation, "We have sworn to them by the LORD, the God of Israel, and now we cannot touch them. ^20^This we will do to them, even let them live, so that wrath will not be upon us for the oath which we swore to them." ^21^The leaders said to them, "Let them live." So they became hewers of wood and drawers of water for the whole congregation, just as the leaders had spoken to them.
 
 > ^22^Then Joshua called for them and spoke to them, saying, "Why have you deceived us, saying, We are very far from you, when you are living within our land? ^23^Now therefore, you are cursed, and you shall never cease being slaves, both hewers of wood and drawers of water for the house of my God." ^24^So they answered Joshua and said, "Because it was certainly told your servants that the LORD your God had commanded His servant Moses to give you all the land, and to destroy all the inhabitants of the land before you; therefore we feared greatly for our lives because of you, and have done this thing. ^25^Now behold, we are in your hands; do as it seems good and right in your sight to do to us." ^26^Thus he did to them, and delivered them from the hands of the sons of Israel, and they did not kill them. ^27^But Joshua made them that day hewers of wood and drawers of water for the congregation and for the altar of the LORD, to this day, in the place which He would choose.
 
@@ -78,7 +78,7 @@ publisher: 三書精讀出版系統
 
 ### 起誓的分量
 
-以色列人在還未查明基遍人真實身分之前，就「指著耶和華─以色列的神」向他們起了誓（9:19）。這一個誓言，即便是在被欺騙的情況下許下的，仍然被視為對神之名的公開宣告，具有極重的約束力——這正是加爾文論本章時反覆強調的：神的名比世上一切的財富更加寶貴，人若因起誓受了虧損，也不可因此違背誓言。這條原則後來在撒母耳記下21:1-9有了嚴厲的印證：掃羅違背了約書亞這裏所立的約、擅自殺害基遍人，多年後竟為以色列全地招來三年的饑荒，直到大衛把掃羅的後裔交給基遍人才止息神的怒氣。
+以色列人在還未查明基遍人真實身分之前，就「指著耶和華─以色列的神」向他們起了誓（9:19）。這一個誓言，即便是在被欺騙的情況下許下的，仍然被視為對神之名的公開宣告，具有極重的約束力。這條原則後來在撒母耳記下21:1-9有了嚴厲的印證：掃羅違背了約書亞這裏所立的約、擅自殺害基遍人，多年後竟為以色列全地招來三年的饑荒，直到大衛把掃羅的後裔交給基遍人，才止息神的怒氣。
 
 ---
 
@@ -88,28 +88,28 @@ publisher: 三書精讀出版系統
 |--------------------|--------------------|----------------|----------------|------------------------|
 | עָרְמָה | ormah | 詭詐、狡猾、精明 | 9:4 | Strong's H6195，「就設詭計」所用的字，NASB譯作「acted craftily」；此字根（עָרוּם, arum）與創世記3:1「蛇比田野一切的活物更狡猾」用的是同一個字根——基遍人的詭計，與伊甸園裏蛇的狡猾，在原文用詞上遙相呼應 |
 | שָׁבַע | shava | 起誓 | 9:15, 18-20 | Strong's H7650，字根與「七」（שֶׁבַע, sheba）相關，本義帶有「以七次確認、鄭重立誓」的意味；本章反覆出現，強調以色列人所起的誓，即使起於受騙，仍具有神聖的約束力 |
-| שָׁאַל | sha'al | 求問、尋求 | 9:14 | Strong's H7592，「並沒有求問耶和華」所用的字；全書明確指出的一次領袖失誤，不是打了敗仗，而是省略了本該有的求問神的程序 |
+| שָׁאַל | sha'al | 求問、尋求 | 9:14 | Strong's H7592，「並沒有求問耶和華」所用的字，指的是本該進行、卻被省略的那道求問程序 |
 | בְּרִית | berith | 約、盟約 | 9:6, 7, 11, 15, 16 | Strong's H1285，字根與「切割」有關（古代近東立約常伴隨牲畜被剖開的儀式），本章反覆出現，指以色列人與基遍人所立、日後即使發現受騙仍要信守的盟約 |
 
 ---
 
 ## 領受要點 (Truths Received)
 
-### 1. 沒有求問耶和華：勝利之後最容易鬆懈的警覺
+### 1. 發霉的餅騙得過眼睛，騙不過一句求問
 
-9:14特別點出：「以色列人受了他們些食物，並沒有求問耶和華」——這是全書明確指出的一次領袖失誤：不是打了敗仗，是被騙簽了約。梅爾指出，這是全章第一次「神吩咐約書亞」的句式沒有出現：在此之前，每一次重大的決定都是「耶和華對約書亞說」，這一次卻是約書亞和百姓自己作主。**耶利哥、艾城接連得勝之後，正是最容易憑著經驗與常理、而非憑著禱告與求問來做決定的時刻**。
+基遍人準備的每一樣證據都是可以動手驗證的：摸得到的破皮袋、看得見的霉斑、穿舊的鞋。以色列人也確實驗了——他們「受了他們些食物」（9:14），嚐過那餅。**問題不在他們沒有查證，而在他們查證的每一步都停在人的層面**；那條唯一能穿透偽裝的途徑，經文用一句話點名了：並沒有求問耶和華。
 
-### 2. 起了的誓，即便起於錯誤判斷，仍要信守
+### 2. 首領扛下了全會眾的怨言
 
-即使發現受騙，以色列人仍然選擇守約而不食言（9:19-20）。他們原本大可以宣稱這約是在被騙的情況下訂立的、因而無效，卻沒有這樣做。**起誓的話一出口，即便起於錯誤的判斷，仍要信守**——這條原則後來在撒母耳記下21章，藉著掃羅違約所招致的饑荒，得到了最沉重的印證。
+發現受騙之後，主張守約的是首領，發怨言的是全會眾（9:18）。首領大可以順著民意宣告這約無效——是被騙立的，理由現成。他們卻寧可站在自己百姓的怒氣裏，說「我們不能害他們」（9:19）。**認錯的代價，往往不是承認錯誤本身，而是承擔它帶來的後果**，而且要當著那些不必負責的人的面承擔。
 
-### 3. 恩典勝過人的失誤
+### 3. 神並不需要一個沒出錯的決定才能成事
 
-基遍人本是當滅的迦南人之一，卻因著這場立約，被接納進入以色列的營中，終身「為我神的殿作劈柴挑水的人」（9:23, 27）——被咒詛卻蒙保存，被定罪卻被留在神的家中服事。**神能在祂百姓的失誤之中，仍然成就祂自己的美意**；人的判斷失誤，並不能攔阻神繼續按著祂自己的方式施行憐憫。
+這場立約是誤判的產物，神卻沒有把它作廢重來，反倒讓它繼續生效——下一章南方五王圍攻基遍時，以色列出兵救的正是這批騙過他們的人，而神親自為那場仗爭戰。**人的判斷失誤，攔不住神繼續按祂自己的方式往前走**。這不是替失誤開脫，是說神的計劃不必建立在我們不出錯上面。
 
-### 4. 詭詐帶來的咒詛，卻仍蒙保守——一個誠實的張力
+### 4. 「被咒詛的」和「沒有殺他們」，同時是真的
 
-基遍人「是被咒詛的」（9:23），卻同時「他們就沒有殺他們」（9:26）——這兩件事同時成立，並不互相抵消。**神的公義與神的憐憫，常常同時臨到同一個人身上，而不是彼此取代**；基遍人終身為奴的服事，既是他們詭詐應得的懲罰，也是神容許他們存活、甚至日後親近祂聖所的憐憫。
+約書亞當面宣告「現在你們是被咒詛的」（9:23），同一段經文又說「以色列人就沒有殺他們」（9:26）。這兩句話沒有一句是客套。**公義與憐憫可以同時落在同一個人身上，而不是彼此抵消**：終身劈柴挑水既是詭詐應得的判決，也是他們得以活著、並且活在神壇前的憑據。
 
 ---
 
@@ -210,11 +210,11 @@ publisher: 三書精讀出版系統
 > **耶和華啊，求你將你的道指示我，將你的路教訓我！** \
 > 求你以你的真理引導我，教訓我，因為你是救我的神。我終日等候你。
 
-以色列人在基遍人的事上「並沒有求問耶和華」（9:14），詩篇25篇卻示範了一個相反的心志——主動、終日地求問神的引導。這節詩正好成了本章那道空白的補白：若當日的長老們也曾如此禱告，這場詭計或許早就露出破綻。
+以色列人在基遍人的事上「並沒有求問耶和華」（9:14），詩篇25篇卻示範了一個相反的心志——主動、終日地求問神的引導。這節詩正好成了本章那道空白的補白。
 
 ### Sweet Hour of Prayer
 
-這首詩歌歌頌禱告時刻的甘甜——正是本章的長老們所錯失的那一件事。基遍人帶著發霉的餅和破裂的皮袋前來，若以色列的首領們也曾像這首詩歌所說的，「在天父的寶座前」把這件事帶到神面前，恐怕結局會截然不同。
+這首詩歌所歌頌的禱告時刻，正是本章的首領們沒有留給自己的那一段時間。他們忙著驗餅、驗袋、驗鞋，卻沒有一刻「在天父的寶座前」把這件事說出來。
 
 ---
 
@@ -222,9 +222,9 @@ publisher: 三書精讀出版系統
 
 **先問**：基遍人的偽裝——舊口袋、破皮袋、發霉的餅——每一樣都是可以用眼睛驗證的「證據」。你有沒有想過，為甚麼以色列的長老們單憑眼見的證據就下了判斷，卻沒有想到要多問一句：「這證據會不會是刻意做出來的？」
 
-**再問**：9:14是全書唯一一次，重大的決定不是先有「耶和華對約書亞說」，而是百姓自己作了主。你近來有沒有一個決定，是憑著經驗、常理、眼見的證據做的，卻沒有停下來禱告求問？
+**再問**：你近來有沒有一個決定，是憑著經驗、常理、眼見的證據做成的，卻始終沒有停下來求問神？現在回頭看，若當時多問那一句，會不會問出不同的結果？
 
-**追問**：以色列的首領發現受騙之後，仍然選擇守約而不食言（9:19-20），甚至甘願忍受全會眾的怨言。你有沒有經歷過，因為守住一個已經許下的承諾，而付上了原本可以避免的代價？那次的堅持，值得嗎？
+**追問**：首領守約，全會眾發怨言（9:18）。若你是當日營中的一個普通人——約不是你立的，代價卻要你來付——你會站在哪一邊？
 
 **落到自己**：基遍人終身「為我神的殿作劈柴挑水的人」（9:23, 27）——被定罪，卻又被留在神的家中服事。你生命中有沒有一段因著自己的過犯而蒙受的「懲罰」，卻同時也成了你今天親近神、服事神的起點？
 
@@ -236,11 +236,9 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **未曾求問的決定**：以色列的長老憑眼見的證據做了判斷，卻沒有求問耶和華。回想你最近一個重要的決定，你是憑著甚麼做的——禱告求問，還是單憑經驗與常理？
+1. **守約的代價**：以色列人明知受騙，仍然選擇守約（9:19-20）。你手上有沒有一個當初許得太快、如今守起來很吃虧的承諾？你打算怎麼處理它？
 
-2. **守約的代價**：以色列人明知受騙，仍然選擇守約（9:19-20），甚至因此被全會眾埋怨。你有沒有經歷過，因堅持信守一個承諾，而承受了原本可以規避的代價？
-
-3. **恩典臨到不配得的人**：基遍人本該被滅絕，卻因著這場立約而終身服事聖所。你能不能想到，你生命中有沒有一位——或你自己——本來按公義該被拒絕，卻因著神的憐憫而被接納、被使用？
+2. **恩典臨到不配得的人**：基遍人本該被滅絕，卻因著這場立約而終身服事聖所。你能不能想到，你生命中有沒有一位——或你自己——本來按公義該被拒絕，卻因著神的憐憫而被接納、被使用？
 
 ### 禱告回應
 

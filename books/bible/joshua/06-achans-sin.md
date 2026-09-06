@@ -17,7 +17,7 @@ publisher: 三書精讀出版系統
 > **本章鑰詞：「以色列人在當滅的物上犯了罪」（7:1）** \
 > **全書座標**：〔卷二·突破〕緊接大勝之後的慘敗。7:1的主詞是「以色列人」，不只是「亞干」——在群體之約裏，一人的私罪會攔阻全會眾的爭戰。這個次序是刻意的：罪不除，路不通。
 
-這一章沒有基督顯現，卻把一條全聖經反覆出現的原則說得清清楚楚：一個人的行為，可以使全群體同蒙其害，或同得其益。保羅在羅馬書5:12-19正是用同一條原則，解釋亞當與基督的關係——「因一人的悖逆，眾人成為罪人；照樣，因一人的順從，眾人也成為義了」（羅5:19）。亞干是這條原則陰暗的一面：一人的貪心，使全營受咒詛、三十六人陣亡；而基督，是這條原則光明的另一面：一人的順服，卻使凡屬祂的人都得稱義。約書亞記7章讓我們先看見「一人連累眾人」的可怕，為要在後來的福音裏，更深地驚歎「一人擔當眾人」的恩典有多大。
+這一章沒有基督顯現，卻把一條全聖經反覆出現的原則說得清清楚楚：一個人的行為，可以使全群體同蒙其害，或同得其益。亞干是這原則陰暗的一面——一人的貪心，使全營受咒詛、三十六人陣亡；保羅在羅馬書5:12-19用的正是同一條原則的另一面：「因一人的悖逆，眾人成為罪人；照樣，因一人的順從，眾人也成為義了」（羅5:19）。本章先讓我們看清前者有多可怕。
 
 ---
 
@@ -62,11 +62,11 @@ publisher: 三書精讀出版系統
 
 > ^1^But the sons of Israel acted unfaithfully in regard to the things under the ban, for Achan, the son of Carmi, the son of Zabdi, the son of Zerah, from the tribe of Judah, took some of the things under the ban, therefore the anger of the LORD burned against the sons of Israel.
 
-> ^2^Now Joshua sent men from Jericho to Ai, which is near Beth-aven, east of Bethel, and said to them, "Go up and spy out the land." So the men went up and spied out Ai. ^3^They returned to Joshua and said to him, "Do not let all the people go up; only about two or three thousand men need go up to Ai; do not make all the people toil up there, for they are few." ^4^So about three thousand men from the people went up there, but they fled from the men of Ai. ^5^The men of Ai struck down about thirty-six of their men, and pursued them from the gate as far as Shebarim and struck them down on the descent, so the hearts of the people melted and became as water.
+> ^2^Now Joshua sent men from Jericho to Ai, which is near Beth-aven, east of Bethel, and said to them, "Go up and spy out the land." So the men went up and spied out Ai. ^3^They returned to Joshua and said to him, "Do not let all the people go up; *only* about two or three thousand men need go up to Ai; do not make all the people toil up there, for they are few." ^4^So about three thousand men from the people went up there, but they fled from the men of Ai. ^5^The men of Ai struck down about thirty-six of their men, and pursued them from the gate as far as Shebarim and struck them down on the descent, so the hearts of the people melted and became as water.
 
-> ^6^Then Joshua tore his clothes and fell to the earth on his face before the ark of the LORD until the evening, both he and the elders of Israel; and they put dust on their heads. ^7^Joshua said, "Alas, O Lord GOD, why did You ever bring this people over the Jordan, only to deliver us into the hand of the Amorites, to destroy us? If only we had been willing to dwell beyond the Jordan! ^8^O Lord, what can I say since Israel has turned their back before their enemies? ^9^For the Canaanites and all the inhabitants of the land will hear of it, and they will surround us and cut off our name from the earth. And what will You do for Your great name?"
+> ^6^Then Joshua tore his clothes and fell to the earth on his face before the ark of the LORD until the evening, *both* he and the elders of Israel; and they put dust on their heads. ^7^Joshua said, "Alas, O Lord GOD, why did You ever bring this people over the Jordan, *only* to deliver us into the hand of the Amorites, to destroy us? If only we had been willing to dwell beyond the Jordan! ^8^O Lord, what can I say since Israel has turned *their* back before their enemies? ^9^For the Canaanites and all the inhabitants of the land will hear of it, and they will surround us and cut off our name from the earth. And what will You do for Your great name?"
 
-> ^10^So the LORD said to Joshua, "Rise up! Why is it that you have fallen on your face? ^11^Israel has sinned, and they have also transgressed My covenant which I commanded them. And they have even taken some of the things under the ban and have both stolen and deceived. Moreover, they have also put them among their own things. ^12^Therefore the sons of Israel cannot stand before their enemies; they turn their backs before their enemies, for they have become accursed. I will not be with you anymore unless you destroy the things under the ban from your midst. ^13^Rise up! Consecrate the people and say, 'Consecrate yourselves for tomorrow, for thus the LORD, the God of Israel, has said, "There are things under the ban in your midst, O Israel. You cannot stand before your enemies until you have removed the things under the ban from your midst."' ^14^In the morning then you shall come near by your tribes. And it shall be that the tribe which the LORD takes by lot shall come near by families, and the family which the LORD takes shall come near by households, and the household which the LORD takes shall come near man by man. ^15^It shall be that the one who is taken with the things under the ban shall be burned with fire, he and all that belongs to him, because he has transgressed the covenant of the LORD, and because he has committed a disgraceful thing in Israel."
+> ^10^So the LORD said to Joshua, "Rise up! Why is it that you have fallen on your face? ^11^Israel has sinned, and they have also transgressed My covenant which I commanded them. And they have even taken some of the things under the ban and have both stolen and deceived. Moreover, they have also put *them* among their own things. ^12^Therefore the sons of Israel cannot stand before their enemies; they turn *their* backs before their enemies, for they have become accursed. I will not be with you anymore unless you destroy the things under the ban from your midst. ^13^Rise up! Consecrate the people and say, 'Consecrate yourselves for tomorrow, for thus the LORD, the God of Israel, has said, "There are things under the ban in your midst, O Israel. You cannot stand before your enemies until you have removed the things under the ban from your midst."' ^14^In the morning then you shall come near by your tribes. And it shall be that the tribe which the LORD takes *by lot* shall come near by families, and the family which the LORD takes shall come near by households, and the household which the LORD takes shall come near man by man. ^15^It shall be that the one who is taken with the things under the ban shall be burned with fire, he and all that belongs to him, because he has transgressed the covenant of the LORD, and because he has committed a disgraceful thing in Israel."
 
 > ^16^So Joshua arose early in the morning and brought Israel near by tribes, and the tribe of Judah was taken. ^17^He brought the family of Judah near, and he took the family of the Zerahites; and he brought the family of the Zerahites near man by man, and Zabdi was taken. ^18^He brought his household near man by man; and Achan, son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, was taken.
 
@@ -82,15 +82,15 @@ publisher: 三書精讀出版系統
 
 ### 艾城與亞割谷的地理位置
 
-艾城位於伯特利東邊、靠近伯‧亞文（7:2），距耶利哥約十餘公里的山地，扼守著從約旦河谷通往中央山地的另一條山路。以色列人才剛以全會眾之力攻下耶利哥，這次卻只派了「二三千人」（7:3）——這個判斷的失誤，本身固然是輕敵，但經文清楚指出，真正使他們潰敗的，不是兵力多寡，而是「耶和華的怒氣就向以色列人發作」（7:1）。亞割谷（意即「連累谷」，7:26）此後成了以色列全地一個帶著記號的地名，何西阿書2:15後來把這同一個地名，轉化成「盼望的門」——這是本章日後最動人的一條伏筆。
+艾城位於伯特利東邊、靠近伯‧亞文（7:2），距耶利哥約十餘公里的山地，扼守著從約旦河谷通往中央山地的另一條山路。探子回報「那裏的人少」，於是只派了「二三千人」（7:3）；但經文把敗因指向別處——「耶和華的怒氣就向以色列人發作」（7:1），不是兵力多寡的問題。亞割谷（意即「連累谷」，7:26）此後成了以色列全地一個帶著記號的地名，何西阿書2:15後來把這同一個地名轉化成「指望的門」。
 
 ### 一人的私心，全會眾的責任
 
-7:1「以色列人在當滅的物上犯了罪」——經文的主詞是「以色列人」，而不僅僅是「亞干」，儘管實際取物的只有亞干一人。這種「群體連帶」的責任觀，在古代近東的盟約文化裏並不陌生：盟約的祝福與咒詛，通常臨到整個立約的群體，而非只臨到違約的個人——申命記29:18-21論及「你們中間有人心裏偏離耶和華我們的神」，同樣是把個人隱而未現的悖逆，放進全會眾與神所立之約的框架裏來理解。這是全書一個嚴肅的提醒：在神與祂百姓所立的群體之約裏，個人的罪不只是個人的事，會牽連整個群體的爭戰。
+「群體連帶」的責任觀，在古代近東的盟約文化裏並不陌生：盟約的祝福與咒詛，通常臨到整個立約的群體，而非只臨到違約的個人。申命記29:18-21論及「你們中間有人心裏偏離耶和華─我們的神」，同樣是把個人隱而未現的悖逆，放進全會眾與神所立之約的框架裏來理解。
 
 ### 抽籤問責的程序
 
-7:14-18所描述的「按支派、按宗族、按家室、按人丁」層層縮小範圍的抽籤程序，很可能是藉著烏陵和土明（見出28:30；民27:21）進行的——這是舊約中一種被視為「神親自定奪」的問責方式（箴16:33「籤放在懷裏，定事由耶和華」）。這套程序刻意設計得緩慢、層層遞進，給亞干留了一次又一次可以主動認罪的機會，他卻始終沉默，直到抽籤指名到他為止。
+7:14-18所描述的「按支派、按宗族、按家室、按人丁」層層縮小範圍的抽籤程序，很可能是藉著烏陵和土明（見出28:30；民27:21）進行的——這是舊約中一種被視為「神親自定奪」的問責方式（箴16:33「籤放在懷裏，定事由耶和華」）。這套程序刻意設計得緩慢，層層遞進——每縮小一圈，都是留給亞干的一次機會。
 
 ---
 
@@ -98,30 +98,30 @@ publisher: 三書精讀出版系統
 
 | 希伯來文 | 音譯 | 意義 | 經文 | 註解 |
 |--------------------|--------------------|----------------|----------------|------------------------|
-| מָעַל | ma'al | 詭詐、背信、干犯聖物 | 7:1 | Strong's H4604，「背棄立約之信實」的專門用語，NASB譯作「acted unfaithfully」，強調亞干的罪不只是偷竊，更是對神立約之信實的背叛 |
-| לָכַד | lakad | 奪取、擒拿、（藉籤）指認 | 7:14-18 | Strong's H3920，本義是軍事上的「攻取」，此處轉用於抽籤層層指認出真兇，暗示這場「捉拿」與攻城一樣，都是耶和華親自的作為 |
-| חָמַד | chamad | 貪愛、戀慕 | 7:21 | Strong's H2530，與十誡「不可貪戀」（出20:17）同一個字根；亞干的自白「我就貪愛這些物件」，正是十誡第十誡活生生的犯罪示範 |
-| עָכַר | akar | 連累、擾亂 | 7:25-26 | Strong's H5916，「你為甚麼連累我們呢？今日耶和華必叫你受連累」中兩次出現的字根，與亞割谷（Achor）、亞干（Achan）三字同源，經文刻意用這個雙關語，讓亞干的名字本身就成了他罪行的判決書 |
+| מָעַל | ma'al | 詭詐、背信、干犯聖物 | 7:1 | Strong's H4604，「背棄立約之信實」的專門用語，NASB譯作「acted unfaithfully」——亞干的罪不只是偷竊，是背約 |
+| לָכַד | lakad | 奪取、擒拿、（藉籤）指認 | 7:14-18 | Strong's H3920，本義是軍事上的「攻取」；此處轉用於抽籤指認真兇，暗示這場捉拿與攻城一樣，都是耶和華親自的作為 |
+| חָמַד | chamad | 貪愛、戀慕 | 7:21 | Strong's H2530，與十誡「不可貪戀」（出20:17）同一字根；亞干的自白正是第十誡活生生的犯罪示範 |
+| עָכַר | akar | 連累、擾亂 | 7:25-26 | Strong's H5916，7:25兩次出現，與亞割谷（Achor）、亞干（Achan）同源——這個雙關語讓他的名字本身成了判決書 |
 
 ---
 
 ## 領受要點 (Truths Received)
 
-### 1. 一人的罪，全會眾的責任
+### 1. 一個帳棚底下的坑，挖垮了全營的戰線
 
-7:1「以色列人在當滅的物上犯了罪」——主詞是全會眾，賓語卻只指向亞干一人的行為。梅爾指出：「我們不能犯罪而不在無形中影響到我們所有弟兄的屬靈光景……沒有一顆小行星能夠運行，而不影響其所屬系統中每一個成員的位置與速度。」**在神百姓的群體裏，沒有純粹私人的罪；每一個人的悖逆或順服，都在某種程度上牽動著整個群體的爭戰**。
+7:1的主詞是全會眾，賓語卻只指向亞干一個人的手。三十六個陣亡的人，沒有一個知道自己是為了誰家地底下的那件衣服而死。**在神百姓的群體之約裏，沒有純粹私人的罪**——藏得再深的悖逆，也照樣在別人的戰場上結出果子；梅爾把這一點說得最重，見〈歷代注疏〉。
 
-### 2. 得勝之後最危險的時刻
+### 2. 耶利哥沒有絆倒他們，艾城絆倒了
 
-以色列人才剛以全會眾之力見證耶利哥城牆的傾倒，卻在攻打小小的艾城時輕敵潰敗。梅爾指出，這正是屬靈生命裏最危險的時刻：「基督徒生命中沒有一件事是『小事』——沒有一件小到我們能靠自己的力量去對付。」**昨日的得勝從不保證今日的得勝；剛從一場屬靈爭戰得勝下來的時刻，往往正是最容易輕忽警醒的時刻**。
+城牆是神拆的，所以他們不敢輕忽；艾城「那裏的人少」，於是連問都沒有問神一句。**大得勝之後緊接著的那件小事，才是真正的關口**——因為在小事上，人最容易以為自己還有一點力量可以憑靠。
 
-### 3. 認罪的次序：先俯伏，後查問
+### 3. 哀慟到晚上還不夠，神說「起來」
 
-約書亞俯伏在地直到晚上（7:6），神卻對他說：「起來！你為何這樣俯伏在地呢？」（7:10）——神並非責備約書亞的哀慟本身，而是提醒他：哀慟過後，該做的是起來查明並除去罪的根源，而不是無止境地停留在自責與哀傷之中。**真實的憂傷，最終要引向行動——查驗自己、除去那攔阻神同在的「當滅之物」，而不是停留在原地的自我懲罰**。
+約書亞撕裂衣服、把灰撒在頭上、俯伏直到晚上（7:6），神開口的第一句卻是：「起來！你為何這樣俯伏在地呢？」（7:10）神不是嫌他哭得太久，而是要他知道：失敗的根源就在營裏，趴著找不出來。**真實的憂傷要走到查驗與除去為止**；停在自責裏不動，看起來很像悔改，其實是另一種不肯面對。
 
-### 4. 「見、貪、取」的墮落三部曲
+### 4. 一件示拿衣服，怎麼從眼睛走到手上
 
-亞干的自白清楚地分成三個動詞：「我就貪愛這些物件，便拿去了」——原文順序其實是「我看見……我貪愛……我拿取」（7:21）。這與雅各書1:14-15所描述的墮落次序完全一致：「私慾既懷了胎，就生出罪來」。**罪很少是瞬間發生的意外，它有一條清楚可循的軌跡——從眼目的注視，到心裏的貪戀，到手上的行動**；亞干的自白，正是這條軌跡最誠實的自我記錄。
+亞干的自白按原文是三個接連的動詞：我看見……我貪愛……我拿取（7:21）——中間沒有一步是突然的。雅各書1:14-15描述的正是同一條軌跡：「私慾既懷了胎，就生出罪來」。**跌倒之所以能追溯，是因為它從來不是意外**；亞干替我們把這份記錄誠實地寫了下來。
 
 ---
 
@@ -241,7 +241,15 @@ publisher: 三書精讀出版系統
 >
 > 「這是一篇如此完整的認罪，若容我斗膽判斷，我要說：『我盼望有一天能在神的寶座前見到罪人亞干。』但馬太·亨利卻不作此想。還有許多解經家認為，既然他的身體被毀滅了，他的靈魂也隨之滅亡。」
 
-值得誠實指出：司布真此處所指的亨利立場，與本書實際核對過的亨利原文略有出入——亨利在論7:26時，其實也引述了同一個猶太拉比傳統（「這咒詛只臨到今生，靈魂卻蒙了憐憫」），並稱「若果如此，這刑罰其實比表面看來要輕」，語氣其實相當保留，並未明確斷言亞干的靈魂滅亡。這提醒讀者：即便是最嚴謹的講道者，在轉述其他解經家的立場時，也可能因記憶或側重而產生輕微的偏差——這正是為甚麼核對原始出處，始終是不可省略的一步。
+值得誠實指出：司布真所轉述的亨利立場，與亨利原文並不相符。亨利論7:19約書亞審問亞干時說：
+
+> "Joshua sits judge, and, though abundantly satisfied of his guilt by the determination of the lot, yet urges him to make a penitent confession, that his soul might be saved by it in the other world, though he could not give him any encouragement to hope that he should save his life by it."
+>
+> 「約書亞坐堂審判；雖然拈鬮的結果已使他確知亞干有罪，他仍然力勸亞干作出痛悔的認罪，好叫他的靈魂可以因此在來世得救——儘管約書亞無法給他任何指望，以為這樣就能保住今生的性命。」
+>
+> — Matthew Henry, *Commentary on the Whole Bible*, on Joshua 7:19
+
+**亨利不但沒有斷言亞干的靈魂滅亡，反而正面指出約書亞勸他認罪的目的，正是為了他靈魂在來世的得救。** 換言之，司布真說「亨利卻不作此想」，恰恰把亨利的立場說反了。這提醒讀者：即便是最嚴謹的講道者，在轉述另一位解經家的立場時，也可能因記憶而失準——核對原始出處，始終是不可省略的一步。
 
 > 出處：C. H. Spurgeon, "Confession of Sin—A Sermon with Seven Texts," *New Park Street Pulpit*, No. 113（vol. 3），spurgeongems.org/sermon/chs113.pdf
 
@@ -253,23 +261,23 @@ publisher: 三書精讀出版系統
 
 > 你將我們的罪孽擺在你面前，**將我們的隱惡擺在你面光之中。**
 
-亞干把贓物「藏在帳棚內的地裏」（7:21），自以為神鬼不覺；然而詩篇90:8提醒我們，人一切「隱而未現的過犯」，早已擺在神的面光之中。亞干最終被抽籤指名，不過是把神早已知道的事，攤在了眾人眼前。
+亞干自己招認，贓物「現今藏在我帳棚內的地裏」（7:21），自以為神鬼不覺；然而詩篇90:8提醒我們，人一切「隱而未現的過犯」，早已擺在神的面光之中。亞干最終被抽籤指名，不過是把神早已知道的事，攤在了眾人眼前。
 
 ### Just As I Am
 
-亞干的自白「我實在得罪了耶和華」（7:20），與這首詩歌所表達的「就照我本相、並無別的懇求」異曲同工——真實的認罪，不需要包裝，也無法靠著隱藏來逃避，唯有坦然來到神面前。
+亞干的自白「我實在得罪了耶和華」（7:20），與這首詩歌的「就照我本相、並無別的懇求」異曲同工——認罪若還需要包裝，就還沒有真的來到神面前。
 
 ---
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**先問**：亞干在抽籤層層縮小範圍的過程中——支派、宗族、家室、人丁——一步步逼近他自己，經文卻沒有記載他有任何一次主動站出來認罪。你覺得，是甚麼讓一個人明明知道自己遲早會被查出，卻仍然選擇沉默到最後一刻？
+**先問**：支派、宗族、家室、人丁——每近一步，亞干都還來得及開口，他卻賭到被指名為止。你覺得，是甚麼讓一個人明知遲早會被查出，仍然選擇賭那最後一刻？
 
-**再問**：以色列人才剛以全會眾之力見證耶利哥城牆的傾倒，卻在攻打小小的艾城時輕敵潰敗。你有沒有經歷過，剛從一場屬靈爭戰得勝下來之後，反而在一件小事上跌倒？那次跌倒，跟這次得勝之間，有甚麼你當時沒有察覺的關聯？
+**再問**：你有沒有經歷過，剛從一場屬靈爭戰得勝下來之後，反而在一件小事上跌倒？那次跌倒，跟前面那次得勝之間，有甚麼你當時沒有察覺的關聯？
 
-**追問**：約書亞俯伏在地直到晚上，神卻對他說「起來，你為何這樣俯伏在地呢」（7:10）。你有沒有一種為自己的失敗而哀傷、卻遲遲不肯起來面對、查驗、除去問題根源的時候？神對約書亞說的這句話，是不是也正對著你說？
+**追問**：你有沒有一種為自己的失敗哀傷、卻遲遲不肯起來查驗根源的時候？神對約書亞說的「起來」，若今天對著你說，你最不想起來去查的是哪一件事？
 
-**落到自己**：亞割谷——連累谷——後來卻被稱為「盼望的門」（何2:15）。你生命中有沒有一個像亞割谷一樣、曾經令你羞愧不堪的地方？神有沒有可能，正要把那個地方，變成你今天盼望的起點？
+**落到自己**：亞割谷——連累谷——後來卻被稱為「指望的門」（何2:15）。你生命中有沒有一個像亞割谷一樣、曾經令你羞愧不堪的地方？神有沒有可能，正要把那個地方，變成你今天盼望的起點？
 
 **你看見耶穌了嗎**：亞干一人的悖逆，使全營受咒詛、三十六人陣亡——這是「一人連累眾人」最沉重的示範。但保羅在羅馬書5:19告訴我們，還有另一位「一人」：因這一位的順從，眾人也都成為義了。亞干讓我們看見群體連帶之罪有多可怕；而基督，正是要在同一個原則裏，讓我們看見群體連帶之恩典有多浩大。你看見耶穌了嗎——那位甘願獨自擔當、好叫許多人因祂得稱為義的那一位？
 
@@ -281,9 +289,7 @@ publisher: 三書精讀出版系統
 
 1. **群體的連帶**：亞干一人的貪心，使全營受咒詛。你所在的群體（家庭、教會、職場）裏，有沒有一件看似「只是我一個人的事」，其實正在影響著整個群體的屬靈光景？
 
-2. **得勝之後的警醒**：以色列人在耶利哥得勝之後、在艾城潰敗之前，並沒有先求問神。你近來有沒有一次「順利」之後，反而少了原本的儆醒禱告？
-
-3. **貪愛的三部曲**：「我就貪愛這些物件，便拿去了」——亞干的自白揭露了「見、貪、取」的軌跡。回想你最近一次跌入試探的經歷，你能不能指出，那試探是從哪一個「看見」開始的？
+2. **從哪一個「看見」開始**：回想你最近一次跌入試探的經歷，你能不能一路倒推，指出那試探最初是從哪一眼開始的？在那一眼與伸手之間，你原本有幾次可以停下來？
 
 ### 禱告回應
 

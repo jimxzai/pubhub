@@ -15,9 +15,9 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：至於我和我家，我們必定事奉耶和華（24:15）** \
-> **全書座標**：〔卷五·持守〕全書的落點：示劍立約。約書亞先誠實回顧列祖曾事奉別神（24:2），再正面呼召各人親自選擇。神的信實已一句都沒有落空，剩下要回答的，是人這一邊。
+> **全書座標**：〔卷五·持守〕全書的落點：示劍立約。約書亞先誠實回顧列祖曾事奉別神（24:2），再正面呼召各人親自選擇。神的信實已一句也沒有落空，剩下要回答的，是人這一邊。
 
-約書亞在本章的角色，是舊約中最鮮明的「約書亞／耶穌」同名連結之一——他把百姓從曠野帶進應許之地，又在臨終前親自示範何為忠心事奉，正如新約的約書亞（耶穌）要把祂的百姓帶進那更美的安息（來4:8-9）。24:15的呼召「你們可以選擇所要事奉的……至於我和我家，我們必定事奉耶和華」，其精神在新約找到迴響：「人子在人面前不認我的，人子在神的使者面前也必不認他」（路12:8-9）——信仰從來不是靠血統或家族背景自動延續，每一代人都要親自、正面地作出這選擇。
+約書亞在本章的角色，是舊約中最鮮明的「約書亞／耶穌」同名連結之一——他把百姓從曠野帶進應許之地，又在臨終前親自示範何為忠心事奉，正如新約的約書亞（耶穌）要把祂的百姓帶進那更美的安息（來4:8-9）。而24:15那個要人當眾表態的呼召，在新約有它的迴響：「凡在人面前認我的，人子在神的使者面前也必認他；在人面前不認我的，人子在神的使者面前也必不認他」（路12:8-9）。
 
 ## 配詩 (Opening Hymn)
 
@@ -58,7 +58,7 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^1^Then Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel and for their heads and their judges and their officers; and they presented themselves before God. ^2^Joshua said to all the people, "Thus says the LORD, the God of Israel, 'From ancient times your fathers lived beyond the River, namely, Terah, the father of Abraham and the father of Nahor, and they served other gods. ^3^Then I took your father Abraham from beyond the River, and led him through all the land of Canaan, and multiplied his descendants and gave him Isaac. ^4^To Isaac I gave Jacob and Esau, and to Esau I gave Mount Seir to possess it; but Jacob and his sons went down to Egypt. ^5^Then I sent Moses and Aaron, and I plagued Egypt by what I did in its midst; and afterward I brought you out. ^6^I brought your fathers out of Egypt, and you came to the sea; and Egypt pursued your fathers with chariots and horsemen to the Red Sea. ^7^But when they cried out to the LORD, He put darkness between you and the Egyptians, and brought the sea upon them and covered them; and your own eyes saw what I did in Egypt. And you lived in the wilderness for a long time. ^8^Then I brought you into the land of the Amorites who lived beyond the Jordan, and they fought with you; and I gave them into your hand, and you took possession of their land when I destroyed them before you. ^9^Then Balak the son of Zippor, king of Moab, arose and fought against Israel, and he sent and summoned Balaam the son of Beor to curse you. ^10^But I was not willing to listen to Balaam. So he had to bless you, and I delivered you from his hand. ^11^You crossed the Jordan and came to Jericho; and the citizens of Jericho fought against you, and the Amorite and the Perizzite and the Canaanite and the Hittite and the Girgashite, the Hivite and the Jebusite. Thus I gave them into your hand. ^12^Then I sent the hornet before you and it drove out the two kings of the Amorites from before you, but not by your sword or your bow. ^13^I gave you a land on which you had not labored, and cities which you had not built, and you have lived in them; you are eating of vineyards and olive groves which you did not plant.'
+> ^1^Then Joshua gathered all the tribes of Israel to Shechem, and called for the elders of Israel and for their heads and their judges and their officers; and they presented themselves before God. ^2^Joshua said to all the people, "Thus says the LORD, the God of Israel, 'From ancient times your fathers lived beyond the River, *namely*, Terah, the father of Abraham and the father of Nahor, and they served other gods. ^3^Then I took your father Abraham from beyond the River, and led him through all the land of Canaan, and multiplied his descendants and gave him Isaac. ^4^To Isaac I gave Jacob and Esau, and to Esau I gave Mount Seir to possess it; but Jacob and his sons went down to Egypt. ^5^Then I sent Moses and Aaron, and I plagued Egypt by what I did in its midst; and afterward I brought you out. ^6^I brought your fathers out of Egypt, and you came to the sea; and Egypt pursued your fathers with chariots and horsemen to the Red Sea. ^7^But when they cried out to the LORD, He put darkness between you and the Egyptians, and brought the sea upon them and covered them; and your own eyes saw what I did in Egypt. And you lived in the wilderness for a long time. ^8^Then I brought you into the land of the Amorites who lived beyond the Jordan, and they fought with you; and I gave them into your hand, and you took possession of their land when I destroyed them before you. ^9^Then Balak the son of Zippor, king of Moab, arose and fought against Israel, and he sent and summoned Balaam the son of Beor to curse you. ^10^But I was not willing to listen to Balaam. So he had to bless you, and I delivered you from his hand. ^11^You crossed the Jordan and came to Jericho; and the citizens of Jericho fought against you, *and* the Amorite and the Perizzite and the Canaanite and the Hittite and the Girgashite, the Hivite and the Jebusite. Thus I gave them into your hand. ^12^Then I sent the hornet before you and it drove out the two kings of the Amorites from before you, *but* not by your sword or your bow. ^13^I gave you a land on which you had not labored, and cities which you had not built, and you have lived in them; you are eating of vineyards and olive groves which you did not plant.'
 
 > ^14^Now, therefore, fear the LORD and serve Him in sincerity and truth; and put away the gods which your fathers served beyond the River and in Egypt, and serve the LORD. ^15^If it is disagreeable in your sight to serve the LORD, choose for yourselves today whom you will serve: whether the gods which your fathers served which were beyond the River, or the gods of the Amorites in whose land you are living; but as for me and my house, we will serve the LORD."
 
@@ -76,38 +76,38 @@ publisher: 三書精讀出版系統
 
 ### 「大河那邊」與亞伯拉罕蒙召前的真相
 
-24:2「你們的列祖……住在大河那邊事奉別神」，是一句容易被讀者忽略、卻極重要的坦白——連亞伯拉罕的父親他拉都曾事奉別神（參書24:2；猶太傳統另有他拉是拜偶像者的傳說，但經文本身只清楚說明「事奉別神」，未記載偶像被毀之類的細節）。約書亞沒有為以色列的先祖塑造一個虛構的「純正信仰」起點，而是誠實地承認：這百姓的信仰，從頭到尾都是神揀選的恩典，不是血統或家族傳統的自然結果。
+24:2「你們的列祖……住在大河那邊事奉別神」，是一句容易被讀者忽略、卻極重要的坦白——連亞伯拉罕的父親他拉都在其中。猶太傳統另有他拉是拜偶像者的種種傳說，但經文本身只說「事奉別神」，未記載偶像被毀之類的細節。
 
-### 「你們不能事奉耶和華」：一句看似矛盾的勸勉
+### 三個回合的應允：本章敘事的節奏
 
-24:19約書亞先呼召百姓選擇事奉耶和華，百姓也應允了，約書亞卻立刻潑冷水說「你們不能事奉耶和華」——這不是要打消百姓的熱心，而是要讓他們正視事奉聖潔忌邪之神所需付上的真實代價，不至於把立約當作一時衝動的口頭承諾。這也是本章百姓的回應會出現三個回合（24:16-18、21、24）、一次比一次沉重的原因（詳見〈至於我和我家〉）。
+百姓的回應在本章分成三個回合（24:16-18、21、24）：每一次應允之後，代價都被重述一遍，然後才有下一次應允。立約的儀式並沒有在第一聲「我們斷不敢離棄耶和華」時就完成——讀本章要留意的，正是這個一再被打斷的節奏。
 
 ## 原文研讀 (Word Study)
 
 | 希伯來文 | 音譯 | 意義 | 經文 | 註解 |
 |--------------|----------------|----------------|--------------------|--------------------------------|
 | בָּחַר | bachar | 揀選、選擇 | 24:15「今日就可以選擇所要事奉的」 | Strong's H977；原文本義是「察驗、揀選」，全書結尾把「選擇」的責任正面交還給百姓，而非假設他們理所當然會選擇正確 |
-| עָבַד | avad | 事奉、服事、做工 | 24:14, 15, 16, 18, 19, 20, 21, 22, 24（全章反覆出現） | Strong's H5647；本章短短二十節內出現十餘次，是全章的核心動詞，「事奉」二字貫穿列祖的過去、百姓的現在、與下一代的將來 |
-| קַנּוֹא | qanno | 忌邪的、有嫉妒之心的 | 24:19「他是忌邪的神」 | Strong's H7072（與H7067קַנָּא同根）；描述耶和華對百姓專一敬拜的熱切要求，不容分心事奉，這是約書亞警告百姓「你們不能事奉耶和華」的神學根據 |
-| עֵד | 'ed | 見證、證據 | 24:22（百姓自己作見證）、24:27（石頭作見證） | Strong's H5707；與22:34河東支派的「證壇」同一個詞根，全書結尾再度以「見證」收束——先是壇作證據，最終是石頭與百姓自己的話語作證據 |
+| עָבַד | avad | 事奉、服事、做工 | 24:14, 15, 16, 18, 19, 20, 21, 22, 24（全章反覆出現） | Strong's H5647；本章短短二十節內出現十餘次，是全章的核心動詞，貫穿列祖的過去、百姓的現在、與下一代的將來 |
+| קַנּוֹא | qanno | 忌邪的、有嫉妒之心的 | 24:19「他是忌邪的神」 | Strong's H7072（與H7067קַנָּא同根）；描述耶和華對百姓專一敬拜的熱切要求，不容分心事奉 |
+| עֵד | 'ed | 見證、證據 | 24:22（百姓自己作見證）、24:27（石頭作見證） | Strong's H5707；與22:34河東支派的「證壇」同一個詞根，全書結尾再度以「見證」收束——這一次作證的是石頭，也是百姓自己的話 |
 
 ## 領受要點 (Truths Received)
 
-### 1. 誠實回顧來歷，才有真實的呼召
+### 1. 開場第一句，先抖出列祖拜偶像的家醜
 
-約書亞先坦白列祖曾事奉別神的歷史，才呼召百姓正面選擇（24:2, 15）。信仰的傳承，從不是靠掩蓋家族信仰的掙扎與不完美來維繫，而是誠實面對來歷之後，仍然選擇忠於神。
+約書亞代神說話，開口不是誇耀以色列的來歷，而是「古時你們的列祖……住在大河那邊事奉別神」（24:2）——連亞伯拉罕的父親也在其中。全書最後的呼召，竟從蒙揀選以前的偶像說起：這百姓能站在示劍，沒有一分是憑血統掙來的。要選擇事奉耶和華的人，得先知道自己並非生來就屬於祂。
 
-### 2. 「你們不能」與「我們必定」：代價與委身缺一不可
+### 2. 百姓剛說完「必事奉」，約書亞就潑了一盆冷水
 
-約書亞既說「你們不能事奉耶和華」（24:19），又見證「至於我和我家，我們必定事奉耶和華」（24:15）。真正的委身，既不迴避事奉神所需付上的真實代價，也不因代價而卻步。
+「至於我和我家」（24:15）是約書亞自己的立場；「你們不能事奉耶和華」（24:19）卻是他對百姓熱心的回應。他寧可他們此刻知難而退，也不要一句廉價的應允——要與他們立約的，是聖潔而忌邪的神，不是一個可以隨口許諾、日後再說的對象。
 
-### 3. 三次確認的回應，比一次衝動的承諾更真實
+### 3. 三次追問之後，這句話才算數
 
-百姓對約書亞的呼召三次確認（24:16-18、21、24），一次比一次被提醒代價之後仍然堅持——這使得立約有了真實的重量，遠勝過一句順口的宗教口號。
+三次應允之後，約書亞才要他們自己站出來擔保：「你們選定耶和華，要事奉他，你們自己作見證吧」（24:22）。沒有人能替別人作這個見證；作得了見證的，只有那個親口說到第三次的人。
 
-### 4. 約瑟的骸骨：神記念一句四百年前的遺言
+### 4. 一句遺言等了四百年，也在這一章落地
 
-約瑟臨終遺言要求骸骨被帶出埃及（創50:25），摩西親自帶走（出13:19），四十年曠野漂流之後，終於在本章安葬示劍（24:32）——這根跨越創世記、出埃及記、約書亞記三卷書、逾四百年的敘事線，在此才真正合攏，是「一句都沒有落空」最具體的縮影。
+約瑟臨終吩咐把骸骨帶出埃及（創50:25），摩西在出埃及時親手帶走（出13:19），曠野漂流四十年，直到本章才葬在示劍雅各買下的那塊地裏（24:32）。三卷書、四百多年、幾代人接力守住的一句話，在全書結尾合攏——「一句也沒有落空」（21:45）不是抽象的宣告，它看得見，就埋在示劍的地裏。
 
 ## 歷代注疏 (Historical Commentary)
 
@@ -219,40 +219,40 @@ publisher: 三書精讀出版系統
 > 要尋求耶和華與他的能力，時常尋求他的面。 \
 > 他僕人亞伯拉罕的後裔，他所揀選雅各的子孫哪，你們要記念他奇妙的作為和他的奇事，並他口中的判語。
 
-這篇詩篇呼籲百姓「記念他奇妙的作為」，正是約書亞在24:2-13所做的事——把神從亞伯拉罕蒙召，直到得地為業的整段歷史，重新在百姓面前陳明一遍。歷史的回顧，從來不只是懷舊，而是敬拜與委身的根基。
+詩人呼籲百姓「記念他奇妙的作為」，正是約書亞在24:2-13所做的事。歷史的回顧從來不只是懷舊，而是敬拜與委身的根基。
 
 ### Trust and Obey
 
-見上文〈配詩〉。這首詩歌副歌「信靠順服，此外別無他路，要在耶穌裏喜樂，惟有信靠並順服」，正是24:15呼召的迴響——約書亞給百姓的選擇，最終也只有一條真正帶來喜樂與平安的路。
+見上文〈配詩〉。副歌唱「信靠順服，此外別無他路」——約書亞攤在百姓面前的那幾條路，最終也只有這一條走得通。
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**先問**：約書亞在呼召百姓選擇之前，先誠實地陳明列祖曾事奉別神的歷史（24:2）——連亞伯拉罕的父親都在其中。他為甚麼不迴避這段不太光彩的家族史，反而主動提起？
+**先問**：24:2-13這段回顧，主詞從頭到尾只有一個「我」——我領、我賜、我差遣、我救你們脫離；以色列的勇士一個也沒有提名。若要你這樣回顧自己的半生，把每一件成就的主詞都換成「神」，你講得出來嗎？還是有幾段其實捨不得換？
 
-**再問**：約書亞先讓百姓自由選擇（24:15），百姓應允之後，他卻立刻說「你們不能事奉耶和華」（24:19）——這是不是要打消他們的熱心？還是要讓他們正視事奉神所需付上的真實代價，免得他們的承諾只是一時的口頭之言？
+**再問**：今天若有人要在你面前決志，你敢不敢像約書亞那樣先把代價講清楚，冒著他打退堂鼓的風險？還是你怕嚇跑了他，寧可先讓他答應了再說？
 
-**追問**：百姓對約書亞的呼召，前後回應了三次（24:16-18、21、24），一次比一次沉重、一次比一次被提醒代價。你今天對神所作的承諾，是經得起這樣三次確認的重量，還是只是一時的感動？
+**追問**：你信主這些年，有沒有一次是被追問到底、由你自己親口承認的？還是你的信仰始終走在別人替你鋪好的軌道上——家庭的、教會的、朋友的？
 
-**落到自己**：約瑟臨終前一句關於自己骸骨的遺言，過了四百多年、跨越三卷書，才在本章終於應驗（24:32）。你有沒有一件憑信心交託給神、卻遲遲未見應驗的事？本章末了提醒你：神沒有忘記。
+**落到自己**：約書亞說完「至於我和我家」，就「打發百姓各歸自己的地業去了」（24:28）。示劍的大會，代替不了各家自己的門檻。你的家，今天由誰來說這句話？
 
-**你看見神的信實了嗎**：約書亞用一生見證「一句都沒有落空」（21:45、23:14），最後又用「至於我和我家，我們必定事奉耶和華」這句話，把這信實交還給每一個世代去回應。你今天願意像他一樣，正面說出你的選擇嗎？
+**你看見神的信實了嗎**：約書亞用一生見證「一句也沒有落空」（21:45）、「沒有一句落空」（23:14），最後又用「至於我和我家，我們必定事奉耶和華」這句話，把這信實交還給每一個世代去回應。你今天願意像他一樣，正面說出你的選擇嗎？
 
 ## 生命應用 (Application)
 
 ### 默想問題
 
-1. 約書亞先誠實回顧列祖的信仰掙扎，才呼召百姓選擇。你在向下一代傳遞信仰時，是誠實承認家族信仰的來歷與軟弱，還是假裝一切理所當然？
+1. 百姓口頭應允了兩次，約書亞仍要他們動手：「你們現在要除掉你們中間的外邦神」（24:23）。你有沒有一樣早就答應神要處理、至今還留在家裏、留在手機裏、留在行事曆上的東西？
 
-2. 百姓被提醒事奉神的真實代價之後，仍然三次確認自己的選擇。你有沒有一次，在被提醒代價之後，仍然堅定地說「我願意」？
+2. 約書亞立了一塊大石頭，說它「聽見了耶和華所吩咐我們的一切話」（24:27）。你身邊有沒有這樣一塊「石頭」——一本筆記、一個日期、一個地方——記得你曾經答應過甚麼？
 
-3. 約瑟一句臨終的遺言，四百年後才應驗。你有沒有一件憑信心交託、卻遲遲未見應驗的事？
+3. 約書亞在世的日子，以色列事奉耶和華；那一代親眼見過的長老一過去，信仰就衰微了（24:31；士2:10）。你的群體若失去最年長的一代，還剩幾個人親身知道神為他們做過甚麼？
 
 ### 禱告回應
 
 > 天父，感謝你，你的信實從亞伯拉罕直到今日，從未改變； \
-> 求你使我像約書亞一樣，誠實面對自己信仰的來歷，卻仍堅定選擇事奉你。 \
-> 求你使我明白事奉你所需付上的真實代價，而不只是口頭的應許。 \
-> 也求我今日就能坦然說：至於我和我家，我們必定事奉耶和華。 \
+> 求你使我不靠血統、不靠傳統，只因你的揀選而站立； \
+> 求你使我不只作口頭的應許，乃是數算過代價之後，仍然說願意。 \
+> 也求你使我今日就能坦然說：至於我和我家，我們必定事奉耶和華。 \
 > 奉主耶穌基督的名禱告，阿們。
 
 ## 與其他經文的關聯
