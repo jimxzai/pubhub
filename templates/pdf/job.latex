@@ -390,6 +390,21 @@
 \renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
 \renewcommand{\sectionmark}[1]{\markright{#1}}
 \setcounter{secnumdepth}{-1}
+
+% \chapter* never calls \chaptermark, so every unnumbered heading inherits the
+% running head of whatever set the mark last. In this book that is most of the
+% front and back matter: the preface, the four orientation chapters, the seven
+% volume dividers, the afterword and the appendices. Before this patch the
+% bibliography and both indices ran under the head 「結局：復興與加倍」 — the
+% title of chapter 31 — and the orientation chapters ran under 「Contents」,
+% left behind by \tableofcontents, which sets the mark and is followed by
+% nothing that resets it. Neither shows up in any log: the pages compose
+% perfectly, they are just labelled with the wrong chapter.
+\makeatletter
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+\makeatother
+
 \makeatletter
 % Chapter styling
 \def\@makechapterhead#1{%

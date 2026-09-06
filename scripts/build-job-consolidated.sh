@@ -29,24 +29,18 @@ author: "PubHub 三書精讀系統"
 date: "2026年9月"
 publisher: "三書精讀出版系統"
 copyright: |
+  **約伯記研讀** (A Study of the Book of Job)
+
+  三書精讀出版系統 · 從灰塵到黎明系列
+
+  初版　2026 年 9 月
+
   版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
 
-  **三大核心資源整合：**
-
-  • **貴格利一世** — 《約伯記倫理講疏》(Morals on the Book of Job)
-
-  • **馬太·亨利** — 《聖經全書註釋》約伯記卷 (Commentary on the Whole Bible)
-
-  • **G. Campbell Morgan** — 《The Analyzed Bible: The Book of Job》
-
-  **從灰塵到黎明：公義人的試煉、三輪對話的激辯、耶和華從旋風中的回答**
-
-  序幕與哀歌 (1-3章) | 第一輪對話：受苦的無辜 (4-14章) | 第二輪對話：惡人的結局 (15-21章)
-  第三輪對話與智慧頌 (22-28章) | 約伯的終極申辯 (29-31章) | 以利戶的講論 (32-37章) | 耶和華的回答與結局 (38-42章)
+  本版為教會內部贈閱版（非賣品），未公開發行；公開發行時另行申請 ISBN。
+  歡迎為個人研讀與教會查經複印使用，請保留完整版權頁。
 
   **經文版權聲明 (Scripture Copyright Notices)**
-
-  本版為教會內部贈閱版（非賣品）；公開發行時另行申請 ISBN。
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
@@ -55,7 +49,10 @@ copyright: |
   1995 by The Lockman Foundation. Used by permission. www.Lockman.org.
   All rights reserved.
 
-  All rights reserved.
+  **注疏引用 (Commentary Sources)**
+
+  本書引用之歷代注疏均屬公有領域。逐條出處、版本與核校方式，
+  見卷末《附錄：參考資料》。
 ---
 
 HEADER
@@ -110,6 +107,15 @@ add_volume() {
 add_chapter() {
     add_file "$INPUT_DIR/$1"
 }
+
+# The two index tables in 98-appendix-indices.md carry a note saying they are
+# generated from the chapter files at build time. That note was false until
+# the generators were wired in here — the appendix asserted a freshness it did
+# not have. Regenerate first so the claim is true of the PDF being produced.
+echo "🔄 Regenerating indices from chapter sources..."
+python3 "$SCRIPT_DIR/gen-job-scripture-index.py" --write || exit 1
+python3 "$SCRIPT_DIR/gen-job-theme-index.py" --write || exit 1
+echo ""
 
 # 前言 — preface
 add_front "$INPUT_DIR/000-preface.md"
@@ -198,11 +204,28 @@ add_volume "卷末 · 從塵土到黎明 (From Dust to Dawn)" \
     "全書從灰塵中的哀哭起頭，走過旋風中的沉默，最終停在黎明的恢復——這條路沒有一步是繞過苦難走的。"
 add_front "$INPUT_DIR/99-restoration-and-hope.md"
 
-# 跋 — afterword. Last content file: no trailing \newpage.
+# 跋 — afterword.
 echo "  Adding (unnumbered): 999-afterword.md"
 tail -n +8 "$INPUT_DIR/999-afterword.md" \
   | awk 'BEGIN{done=0} /^# /{ if(!done){ sub(/[[:space:]]*$/,""); $0=$0" {.unnumbered}" ; done=1 } } {print}' >> "$COMBINED_MD"
+printf '\n\\newpage\n\n' >> "$COMBINED_MD"
 ((chapter_count++))
+
+# ============================================================
+# 附錄 — bibliography and indices
+# ============================================================
+# These were written, verified and then never added to the build. The book
+# shipped 363 pages with no bibliography and no index, while all 31 chapters
+# printed 「各條出處與核校方式，見卷末《附錄：引用出處總表》」 — a cross-reference
+# to a section that was not in the volume. check-citation-ledger.py reads
+# 99-appendix-references.md from disk, so it passed the whole time: every
+# checker was green because every checker reads the sources, not the artifact.
+#
+# Order is bibliography then indices: the index goes last in a printed book.
+add_volume "附錄 (Appendices)" \
+    "參考資料、逐章引句一覽、經文索引與主題索引——各章正文所指的「卷末附錄」即此。"
+add_front "$INPUT_DIR/99-appendix-references.md"
+add_front "$INPUT_DIR/98-appendix-indices.md"
 
 echo ""
 echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $chapter_count chapters)"

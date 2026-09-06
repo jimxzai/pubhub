@@ -49,6 +49,52 @@ QUOTE_RE = re.compile(r'^> "', re.M)
 CJK_QUOTE_RE = re.compile(r'^> 「', re.M)
 
 
+# Two layouts are in use for 歷代注疏, and only one puts the commentator in the
+# ### heading:
+#
+#   A. ### 摩根 (G. Campbell Morgan)          -- name in the heading
+#   B. ### 教父時期                            -- heading is a PERIOD, and the
+#      **貴格利一世 (Gregory the Great)**：       commentator is a bold run inside
+#
+# Reading only layout A made this script blind to every book using B. On the
+# Job volume that produced 30 confident "disagreements" that were all false:
+# it reported 亨利 in 16 chapters where the book has him in 31, and 貴格利 in 4
+# where the book has him in 18 -- and chapter 29, reported as having no Morgan
+# quotes at all, carries verbatim Gregory and Henry quotes on the page. A
+# checker that cannot see half the shelf's markup is worse than no checker,
+# because its output looks like evidence.
+# A commentator marker in layout B is a bold name ALONE on its line, optionally
+# followed by a colon. Both qualifiers are load-bearing. Matching any bold run
+# broke two ways at once: 「**惡人為何存活**：亨利答21:7說…」 is a bold sub-heading
+# with prose after it, and treating it as a new owner cut Henry's block off at
+# zero quotes; and in books that use layout A, bold emphasis in ordinary prose
+# started claiming quotes that belong to nobody (2-peter went from 1 reported
+# disagreement to 5). The length cap keeps a bolded sentence from passing as a
+# name.
+BOLD_NAME_RE = re.compile(r"^\*\*([^*\n]{2,60}?)\*\*", re.M)
+# What separates a commentator marker from a bold sub-heading is not its
+# position on the line -- 「**馬太·亨利 (Matthew Henry)**：亨利答21:7說…」 runs on --
+# but the house convention that a commentator is always given with the English
+# form of the name. So: a marker's bold text contains a Latin letter, and a
+# Chinese bold sub-heading such as 「**惡人為何存活**」 does not. Requiring the
+# name to sit alone on its line instead lost four of Gregory's eighteen
+# chapters; matching any bold run at all mis-attributed quotes in 2-peter.
+LATIN_RE = re.compile(r"[A-Za-z]")
+# Layout B only ever appears inside the 歷代注疏 section. Restricting to it also
+# keeps 00-overview.md's bold field labels (**作者**, **主題**) out of the scan.
+COMMENTARY_SECTION_RE = re.compile(r"^## .*歷代注疏.*$", re.M)
+
+
+def _count(body):
+    return len(QUOTE_RE.findall(body)), len(CJK_QUOTE_RE.findall(body))
+
+
+def _add(out, num, n, cjk):
+    if n or cjk:
+        prev_n, prev_c = out.get(num, (0, 0))
+        out[num] = (prev_n + n, prev_c + cjk)
+
+
 def chapters_with_quotes(book_dir, commentator):
     """{chapter number: quote count} for chapters quoting this commentator."""
     out = {}
@@ -59,6 +105,7 @@ def chapters_with_quotes(book_dir, commentator):
         num = int(m.group(1))
         text = f.read_text(encoding="utf-8")
         heads = list(HEADING_RE.finditer(text))
+        found_in_a = False
         for i, h in enumerate(heads):
             if commentator not in h.group(1):
                 continue
@@ -66,12 +113,36 @@ def chapters_with_quotes(book_dir, commentator):
             nxt = text.find("\n## ", h.end())
             if nxt != -1:
                 end = min(end, nxt)
-            body = text[h.end():end]
-            n = len(QUOTE_RE.findall(body))
-            cjk = len(CJK_QUOTE_RE.findall(body))
+            n, cjk = _count(text[h.end():end])
             if n or cjk:
-                prev_n, prev_c = out.get(num, (0, 0))
-                out[num] = (prev_n + n, prev_c + cjk)
+                found_in_a = True
+            _add(out, num, n, cjk)
+        # Fall through to layout B when a heading matched but held no quotes.
+        # Chapter 4 of Job carries three verbatim Henry quotes under a layout-B
+        # bold name, and also a section headed 「亨利對本章的總評」 -- commentary
+        # ABOUT Henry, with no quotes in it. Treating any heading that contains
+        # the name as proof of layout A let that empty section claim the
+        # chapter, and the three quotes on the page went uncounted.
+        if found_in_a:
+            continue
+        # Layout B: bold commentator names inside period-titled ### sections.
+        sec = COMMENTARY_SECTION_RE.search(text)
+        if not sec:
+            continue
+        sec_end = text.find("\n## ", sec.end())
+        body_all = text[sec.end():sec_end if sec_end != -1 else len(text)]
+        names = [b for b in BOLD_NAME_RE.finditer(body_all)
+                 if LATIN_RE.search(b.group(1))]
+        for j, b in enumerate(names):
+            if commentator not in b.group(1):
+                continue
+            # the block runs to the next commentator marker, or the next ###
+            end = names[j + 1].start() if j + 1 < len(names) else len(body_all)
+            nxt = body_all.find("\n### ", b.end())
+            if nxt != -1:
+                end = min(end, nxt)
+            n, cjk = _count(body_all[b.end():end])
+            _add(out, num, n, cjk)
     return out
 
 

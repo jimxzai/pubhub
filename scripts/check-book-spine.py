@@ -161,7 +161,11 @@ def check_book(book_dir, brief=False):
             if not md and i + 1 < len(lines):
                 md = re.search(r'"([^"]*)"', lines[i + 1])
             desc = md.group(1) if md else ""
-            if title.startswith("卷首") or title.startswith("卷末"):
+            # 卷首/卷末/附錄 dividers front the apparatus, not the argument.
+            # An appendix is not a step in the order of revelation, and asking
+            # one to carry a 「啟示的次序·第 N 步」 line would only produce a
+            # sentence written to satisfy this script.
+            if title.startswith(("卷首", "卷末", "附錄")):
                 continue
             divider_total += 1
             if any(t in desc for t in DIVIDER_SPINE_TERMS):

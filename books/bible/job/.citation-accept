@@ -1,0 +1,13 @@
+# Accepted quote deviations, with reasons. One per line: <verdict>|<quote prefix>|<reason>
+# Reviewed 2026-09-05. Add an entry only when the difference is provably NOT the
+# book's error -- an OCR artifact in the digitised source, or a correctly marked
+# editorial insertion -- never to silence a mismatch you have not run down.
+# Each entry below was located by hand in the raw scan; the scan's actual
+# reading is quoted so a later reader can re-check it without repeating the hunt.
+MISS|\[Job\] declared that he would not do so|Legitimate bracketed insertion supplying the subject. The scan reads "...but declared 102 Job that he would not do so", where "102 JOB" is a page number plus the running head; Morgan's sentence is "...but declared that he would not do so." Located in morgan_full.txt 2026-09-05.
+MISS|And observe that there are four particulars spoken respecting her|Heavy OCR damage in Library of the Fathers vol. 21: the scan reads "four particulars poken", "He did see it and leclare ity", "in that >he is the Word", "ind searched it". The book's reading is the obviously intended one; ">he" is a corrupted "She", matching the three surrounding "She is" clauses. Located in gregory_v21.txt 2026-09-05.
+DRIFT|In his confession of the sufficiency of God|The scan reads "there was rev ealecla lory _ol god" for "there was revealed a glory of God" -- letters themselves are wrong, so no amount of whitespace or furniture folding can match it. Located in mega_source.txt 2026-09-05.
+DRIFT|The unveiling of the glory paused for a brief moment|The scan splices the running head INSIDE a word: "as Jehovah addressed himself imme THE DRAMA diately to his servant". Located in mega_source.txt 2026-09-05.
+MISS|For he who does not say, 'Creator,' but 'Redeemer'|The scan reads "for he who does not say creator but redeemer liv expressly tells of him" and later interpolates "VOL NM JOB". Located in mega_source.txt 2026-09-05.
+MISS|In it there are three movements|The scan splices the running head into the sentence: "in it there are three THE DRAMA movements". Located in morgan_full.txt 2026-09-05.
+MISS|The sharpness of this passage is only detected|Same running head, plus an OCR error in the verb: the scan reads "is only de THE DRAMA tectecla s we notice". Located in morgan_full.txt 2026-09-05.

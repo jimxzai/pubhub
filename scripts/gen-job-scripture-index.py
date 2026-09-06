@@ -105,7 +105,8 @@ def build_index():
 def render(index):
     label_order = {lbl: i for i, (_, lbl) in enumerate(SOURCES)}
     keys = sorted(index, key=lambda k: (ORDER.get(k[0], 999), k[1]))
-    out = ["| 經文 | 本書討論之處 |", "|--------------------|--------------------------------|"]
+    # separator width is load-bearing — see note in gen-job-theme-index.py
+    out = ["| 經文 | 本書討論之處 |", "|--------------------------|----------------------------------------------------------|"]
     for full, chap in keys:
         labels = sorted(index[(full, chap)], key=lambda l: label_order.get(l, 999))
         out.append(f"| {full} {chap} | {'、'.join(labels)} |")
