@@ -1,0 +1,18 @@
+# Accepted quote deviations, with reasons. One per line: <verdict>|<quote prefix>|<reason>
+# Reviewed 2026-09-05. Add an entry only when the difference is provably NOT the
+# book's error -- never to silence a mismatch you have not run down.
+#
+# Context for every entry below: the chapters were written from ccel.org, but the
+# machine-check corpus was pulled from biblestudytools.com, which prints the SAME
+# Henry text with scripture citations in Arabic numerals where CCEL uses Roman
+# ("John iii. 14, 15" vs "John 3:14"). That formatting difference breaks a
+# substring match mid-quote. Each line below was individually re-fetched from the
+# CCEL page and confirmed to be Henry's text exactly as printed there.
+MISS|All the first-born are mine; for on the day that I smote|KJV text Henry prints as his lemma for Num 3; present on the CCEL page verbatim. Confirmed 2026-09-05.
+DRIFT|Thus were the Lord's ministers themselves then kept in fear|Runs on into "1 John i. 1" (CCEL) / "1 john 1 1" (corpus); wording identical. Confirmed against CCEL 2026-09-05.
+MISS|The Lord bless thee, and keep thee|The Aaronic blessing as Henry prints it (Num 6:24-26); present on the CCEL page verbatim. Confirmed 2026-09-05.
+DRIFT|Certain men were defiled by the dead body of a man|Differs only by "ch. xix. 11" (CCEL) vs "ch. 19:11" (corpus). Confirmed against CCEL 2026-09-05.
+DRIFT|This teaches us...the particular care God takes of his people|Differs only by "Ps. cvii. 7" (CCEL) vs "Ps. 107:7" (corpus). Confirmed against CCEL 2026-09-05.
+MISS|Our Saviour has told us so (John iii. 14, 15)|Differs only by Roman-numeral citation style; CCEL prints exactly this. Confirmed 2026-09-05.
+DRIFT|The apostle describes Balaam's sin here to be that he ran greedily|Exact match on CCEL; the corpus copy carries an HTML-link whitespace artifact at the citation. Confirmed 2026-09-05.
+MISS|What God had said to Moses (ch. xxvi. 53)|Quoted from CCEL, which prints "ch. xxvi. 53"; the corpus prints "ch. 26 53". Confirmed 2026-09-05.
