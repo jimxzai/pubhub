@@ -205,6 +205,10 @@ add_volume "卷末 · 沒有王，直到真王 (No King, Until the True King)" \
     "士師記從「沒有王」開篇的呼聲，走到「各人任意而行」的結局——這聲呼求，要等到那位萬王之王親自回答。"
 add_front "$INPUT_DIR/99-no-king-but-you.md"
 
+# 附錄：經文與主題索引——跨書經文索引由 scripts/gen-judges-scripture-index.py
+# 於原始檔案自動生成，見該檔案與 98-appendix-indices.md 內的說明。
+add_front "$INPUT_DIR/98-appendix-indices.md"
+
 # 跋 — afterword. Last content file: no trailing \newpage.
 echo "  Adding (unnumbered): 999-afterword.md"
 tail -n +8 "$INPUT_DIR/999-afterword.md" \
