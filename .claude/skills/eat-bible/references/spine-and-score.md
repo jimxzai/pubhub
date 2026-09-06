@@ -29,9 +29,11 @@ closed 0 of 26 chapters by returning to Christ; Romans located the reader in
 its argument in 0 of 16; even gospel-of-john, which is 21/21 on both
 per-chapter checks, carried the spine on 0 of its 5 part dividers.
 
-**Of 33 books, none passes all four checks.** This is not a backlog to feel
-bad about — it is the single highest-value thing available to do to this
-shelf, and it is now one command to find.
+**On the first survey, of 33 books none passed all four checks.** Within a
+day that was 4 of 33 (job, joshua, judges, ruth) — the gap is cheap to close
+once you can see it. This is not a backlog to feel bad about; it is the
+single highest-value thing available to do to this shelf, and it is now one
+command to find.
 
 So the rubric gets a tenth row, and the spine gets a script.
 
@@ -146,6 +148,22 @@ repeat across books.
 spine before trimming buries it. And do not stop at rung 3 because everything
 is green — rungs 4 and 5 are invisible to every checker in this repo except
 `check-book-spine.py`.
+
+**Rung 4 does not only fail to find rung 5's defects — it creates them.**
+Job's succinct pass deleted the 座標 line from 16 of 31 chapters. The
+instruction was "make each point once per chapter", and a coordinate line
+looks exactly like a repeat: it restates the book's structure, which the
+front matter already gave. Two further scoring rounds passed over the loss
+without noticing. Trimming is not lossless — it removes what is redundant
+*within a chapter* and necessary *across the book*. **Re-run
+`check-book-spine.py` after every succinct pass**, not only after a spine
+pass.
+
+The same round found four spellings of the coordinate label in use
+(`全書座標`, `座標`, `全卷座標`, `全書骨幹座標`). All four satisfy the checker,
+which matches on 座標 alone. Loose matching keeps a check honest across books
+that word things differently, and the price is that consistency of wording
+stays a human job.
 
 ### What no script will ever catch
 
