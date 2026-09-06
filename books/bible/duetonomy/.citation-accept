@@ -1,0 +1,7 @@
+# Accepted quote deviations, with reasons. One per line: <verdict>|<quote prefix>|<reason>
+# Reviewed 2026-09-05. Add an entry only when the difference is provably NOT the
+# book's error -- e.g. an OCR artifact or typo in the digitised source -- never to
+# silence a mismatch you have not run down.
+DRIFT|He does not appoint the place now, as he had appointed mounts Gerizim and Ebal|Henry's CCEL text cites the cross-reference as "ch. xi. 29" (Roman numerals); the book prints the same reference as "(ch. 11:29)" in Arabic numerals, matching this series' house style for Scripture references. Wording is otherwise verbatim. Verified against ccel.org mhc1 Deuteronomy 2026-09-05.
+DRIFT|Be not loth to part with thy money on so good an account|The digitised CCEL source reads "grudge not a kindness to they brother" -- an obvious typographical error for "thy brother", which the book prints. Verified against ccel.org mhc1 Deuteronomy 2026-09-05.
+DRIFT|Recognizing that everything depended on their exercise of that power|Morgan's sentence runs "...and, recognizing that everything depended on their exercise of that power, urged them to choose life." The book capitalises the opening word and supplies the dropped subject in square brackets as "[Moses]", which is marked as an editorial insertion in the text itself. Verified against sermonindex.net/commentary/morgan-g-campbell/DEU/30 on 2026-09-05.
