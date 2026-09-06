@@ -111,7 +111,11 @@ add_front() {
 }
 
 add_volume() {
-    printf '# %s {.unnumbered}\n\n\\markboth{%s}{%s}\n\n> %s\n' "$1" "$1" "$1" "$2" >> "$COMBINED_MD"
+    # %b (not %s) for the description: it carries \n\n to separate the volume's
+    # theme line from its 「啟示的次序·第 N 步」 spine line. bash's printf does not
+    # expand escapes inside a %s argument, so %s printed a literal \n\n on the page
+    # while check-book-spine.py — which greps the source — still reported [ok].
+    printf '# %s {.unnumbered}\n\n\\markboth{%s}{%s}\n\n> %b\n' "$1" "$1" "$1" "$2" >> "$COMBINED_MD"
     if [ -n "$3" ]; then
         printf '\n| %s | %s |\n|---|---|\n' "$3" "$4" >> "$COMBINED_MD"
     fi
@@ -151,7 +155,7 @@ fi
 # 正文 · 五卷 · 24 段
 # ============================================================
 add_volume "卷一 · 在西奈的次序 (Order at Sinai) · 1-10:10章" \
-    "會幕已經立起，百姓已經受了律法——現在要做的，是把一群百姓編組成一支能為神爭戰、環繞會幕而行的軍隊。"
+    "會幕已經立起，百姓已經受了律法——現在要做的，是把一群百姓編組成一支能為神爭戰、環繞會幕而行的軍隊。\n\n**啟示的次序·第一步**：同在既已賜下（出40章），接著賜下的是次序——先安放百姓，才差他們上路。"
 for f in 01-numbering-and-encamping.md 02-levites-and-tabernacle-service.md \
          03-purity-camp-and-nazirite-vow.md 04-offerings-and-lampstand.md \
          05-passover-cloud-and-trumpets.md; do
@@ -159,7 +163,7 @@ for f in 01-numbering-and-encamping.md 02-levites-and-tabernacle-service.md \
 done
 
 add_volume "卷二 · 曠野的抱怨與審判 (Rebellion in the Wilderness) · 10:11-20章" \
-    "雲彩一起行，抱怨也隨即開始——從貪慾的墳墓到可拉黨的叛變，第一代出埃及的人漸漸在不信中倒斃曠野。"
+    "雲彩一起行，抱怨也隨即開始——從貪慾的墳墓到可拉黨的叛變，第一代出埃及的人漸漸在不信中倒斃曠野。\n\n**啟示的次序·第二步**：次序一上路，人心的真相就顯出來；神也第一次明說審判的內容（14:29-30）。"
 for f in 06-setting-out-and-complaining.md 07-miriam-aaron-and-the-spies.md \
          08-rebellion-and-the-forty-years.md 09-supplementary-laws-and-tassels.md \
          10-korahs-rebellion.md 11-aarons-staff-and-purification.md \
@@ -168,14 +172,14 @@ for f in 06-setting-out-and-complaining.md 07-miriam-aaron-and-the-spies.md \
 done
 
 add_volume "卷三 · 從何珥山到摩押平原 (From Mount Hor to the Plains of Moab) · 21-25章" \
-    "銅蛇立起、外邦先知四次想咒詛卻只能祝福——神的信實在曠野盡頭比在西奈山下更加清楚。"
+    "銅蛇立起、外邦先知四次想咒詛卻只能祝福——神的信實在曠野盡頭比在西奈山下更加清楚。\n\n**啟示的次序·第三步**：外面的咒詛動不了神所祝福的，裏面的引誘卻能——威脅從營外轉回營內。"
 for f in 13-bronze-serpent-and-victory.md 14-balak-summons-balaam.md \
          15-balaams-four-oracles.md 16-baal-peor.md; do
     add_chapter "$f"
 done
 
 add_volume "卷四 · 新一代的預備 (Preparing the New Generation) · 26-32章" \
-    "第一代人的名字已經從名冊上除去，第二次數點揭開了一個新的世代——他們要重新面對信心與次序的功課。"
+    "第一代人的名字已經從名冊上除去，第二次數點揭開了一個新的世代——他們要重新面對信心與次序的功課。\n\n**啟示的次序·第四步**：應許不因一代人的不信而落空——神重新數點、重新交棒，把同一個應許交出去。"
 for f in 17-second-census.md 18-zelophehads-daughters-and-succession.md \
          19-appointed-offerings-and-vows.md 20-war-with-midian.md \
          21-transjordan-tribes.md; do
@@ -183,7 +187,7 @@ for f in 17-second-census.md 18-zelophehads-daughters-and-succession.md \
 done
 
 add_volume "卷五 · 應許之地的產業 (Inheriting the Promised Land) · 33-36章" \
-    "回顧整條曠野路程，劃定迦南的境界，安排逃城與產業的條例——一切安排都指向即將進入的那地。"
+    "回顧整條曠野路程，劃定迦南的境界，安排逃城與產業的條例——一切安排都指向即將進入的那地。\n\n**啟示的次序·第五步**：進去之前，先把全程記下、把地界量定、把產業安排妥——應許已定妥，進入仍在前面。"
 for f in 22-wilderness-itinerary.md 23-borders-and-levite-cities.md \
          24-zelophehads-daughters-resolved.md; do
     add_chapter "$f"
