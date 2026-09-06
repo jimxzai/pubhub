@@ -30,6 +30,9 @@ END = "<!-- gen-citation-ledger:end -->"
 HEADING = re.compile(r"^### (.+?)$", re.M)
 QUOTE = re.compile(r'^> "', re.M)
 COMMENTATORS = [("馬太·亨利", "亨利"), ("摩根", "摩根")]
+# Ante-Nicene fathers appear in five chapters only; counted together so the
+# ledger shows what the book actually carries rather than a column of zeros.
+FATHERS = ("革利免", "巴拿巴", "游斯丁", "愛任紐")
 
 CJK_NUM = "零一二三四五六七八九十"
 
@@ -62,19 +65,21 @@ def title_of(text):
 
 
 def build():
-    rows = ["| 章 | 章題 | 亨利引文 | 摩根引文 |",
-            "|--------|--------------------|--------|--------|"]
-    th = tm = 0
+    rows = ["| 章 | 章題 | 亨利引文 | 摩根引文 | 教父引文 |",
+            "|--------|--------------------|--------|--------|--------|"]
+    th = tm = tf = 0
     for f in sorted(BOOKDIR.glob("[0-9][0-9]-*.md")):
         num = int(f.name[:2])
         text = f.read_text(encoding="utf-8")
         h, m = count(text, "亨利"), count(text, "摩根")
-        if not (h or m):
+        fa = sum(count(text, f) for f in FATHERS)
+        if not (h or m or fa):
             continue
         th += h
         tm += m
-        rows.append(f"| 第 {num} 章 | {title_of(text)} | {h} | {m} |")
-    rows.append(f"| **合計** | **{len(rows)-2} 章** | **{th}** | **{tm}** |")
+        tf += fa
+        rows.append(f"| 第 {num} 章 | {title_of(text)} | {h} | {m} | {fa or '—'} |")
+    rows.append(f"| **合計** | **{len(rows)-2} 章** | **{th}** | **{tm}** | **{tf}** |")
     return "\n".join(rows)
 
 

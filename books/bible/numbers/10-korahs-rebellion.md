@@ -140,6 +140,22 @@ publisher: 三書精讀出版系統
 > 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
 > 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
+### 革利免 (Clement of Rome, 約主後 96 年)
+
+革利免寫《達哥林多人書》時，哥林多教會正因少數人反對長老的權柄而分裂；他兩次舉可拉黨的覆滅為例，說明抵擋神所設立之秩序的下場。
+
+> "Envy brought down Dathan and Abiram alive to Hades, through the sedition which they excited against God's servant Moses."
+>
+> 「嫉妒使大坍和亞比蘭活活地下到陰間，因他們煽動了抵擋神僕人摩西的叛亂。」
+
+> "as the hearts of those were hardened who stirred up sedition against Moses the servant of God, and whose condemnation was made manifest [unto all]. For they went down alive into Hades, and death swallowed them up."
+>
+> 「正如那些心裡剛硬、鼓動抵擋神僕人摩西之叛亂的人一樣，他們的定罪已向眾人顯明；他們活活地下到陰間，死亡把他們吞滅了。」
+
+革利免在第4章把可拉黨列入「嫉妒帶來滅亡」的例證鏈（與該隱殺亞伯、雅各逃避以掃並列），在第51章則把可拉黨與法老一同列為「心硬招致滅亡」的例子；教會歷史上第一次留下記錄的教會分裂案例，援引的正是可拉黨的先例——抵擋神所設立的秩序，最終不是勝過對方，而是自取滅亡。
+
+> — Clement of Rome, *First Epistle to the Corinthians*, ch. IV and ch. LI（Ante-Nicene Fathers, vol. 1，公有領域；CCEL, anf01.ii.ii.iv; anf01.ii.ii.li）
+
 ### 馬太·亨利 (Matthew Henry)
 
 論可拉黨的論證，亨利一針見血地點出其虛偽：

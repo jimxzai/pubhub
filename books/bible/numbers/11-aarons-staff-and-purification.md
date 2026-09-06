@@ -168,6 +168,42 @@ publisher: 三書精讀出版系統
 > 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
 > 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
+### 革利免 (Clement of Rome, 約主後 96 年)
+
+教父時期最早提及本章的，是羅馬的革利免寫給哥林多教會的書信。當時哥林多教會正因職分之爭而分裂，革利免直接引民數記17章作為先例——他複述十二根杖的整個過程，然後問了一個關鍵的問題：
+
+> "For, when rivalry arose concerning the priesthood, and the tribes were contending among themselves as to which of them should be adorned with that glorious title, he commanded the twelve princes of the tribes to bring him their rods, each one being inscribed with the name of the tribe."
+>
+> 「當時祭司職分引起了競爭，各支派彼此爭論究竟誰當得這榮耀的名分；於是摩西吩咐十二支派的首領各把自己的杖拿來，每根杖上都寫著本支派的名字。」
+
+> "And the rod of Aaron was found not only to have blossomed, but to bear fruit upon it."
+>
+> 「而亞倫的杖被發現不只是發了芽，更是結了果子在上頭。」
+
+> "What think ye, beloved? Did not Moses know beforehand that this would happen? Undoubtedly he knew; but he acted thus, that there might be no sedition in Israel, and that the name of the true and only God might be glorified."
+>
+> 「親愛的，你們以為如何？摩西豈不是早已知道結果會是這樣嗎？他當然知道；但他仍這樣行，為要使以色列中不生叛亂，也為要使那位獨一真神的名得著榮耀。」
+
+革利免的重點不在神蹟本身，而在**神以一根杖止息了爭競**：摩西早知結果，仍要讓神親自在眾人面前顯明所揀選的人——職分之爭的解法，不是辯論誰更有資格，是讓神自己指出來。這封信寫於使徒時代結束之際，是現存最早把民數記17章應用在教會職分之爭上的文獻。
+
+> — Clement of Rome, *First Epistle to the Corinthians*, ch. XLIII（Ante-Nicene Fathers, vol. 1，公有領域；CCEL, anf01.ii.ii.xliii）
+
+### 巴拿巴書 (Epistle of Barnabas, 約主後 70-130 年)
+
+論到第19章紅母牛的條例，《巴拿巴書》第八章把整個儀式當作基督的預表逐項解讀——這是現存教父文獻中最早、也最系統地把紅母牛禮儀讀成基督論的一段文字。
+
+> "the sinful men offering it are those who led Him to the slaughter. But now the men are no longer guilty, are no longer regarded as sinners."
+>
+> 「那些獻上牠的罪人，就是把祂帶去宰殺的人；但如今這些人不再有罪，不再被算為罪人。」
+
+> "why was the wool [placed] upon the wood? Because by wood Jesus holds His kingdom, so that [through the cross] those believing on Him shall live for ever."
+>
+> 「羊毛為何放在木頭上？因為耶穌藉著木頭掌權；藉著十字架，凡信祂的人就要永遠存活。」
+
+作者逐一把儀式的每個細節——牛犢、緋紅色羊毛、牛膝草、灰——都讀成基督受難與潔淨的預表，解經手法偏向寓意而非字面應驗，卻是現存最早見證教會將紅母牛禮儀與基督十字架相連的文獻，比希伯來書9:13-14從另一個角度呼應了同一個真理：舊約的潔淨禮儀，最終都指向各各他。
+
+> — Epistle of Barnabas, ch. VIII（Ante-Nicene Fathers, vol. 1，公有領域；CCEL, anf01.vi.ii.viii）
+
 ### 馬太·亨利 (Matthew Henry)
 
 論杖發芽對百姓的直接意義，亨利指出這清楚指明神所揀選的人選：

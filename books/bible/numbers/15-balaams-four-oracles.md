@@ -153,6 +153,28 @@ publisher: 三書精讀出版系統
 > 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
 > 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
+### 愛任紐 (Irenaeus of Lyons, 約主後130-202年)
+
+24:17「有星要出於雅各」，在第二世紀已是教會用來向猶太人論證耶穌就是應許之彌賽亞的標準經文——游斯丁在《與特來弗的對話》中也曾引用同一節，用法與愛任紐幾乎一致。愛任紐在《駁異端》卷三，正論證舊約先知所指的神與新約所傳的神原是同一位；論到馬太福音記載博士來朝拜基督一事，他直接引巴蘭這第四次預言為根據：
+
+> "There shall come a star out of Jacob, and a leader shall rise in Israel."
+>
+> 「必有一星出於雅各，必有一領袖興起於以色列。」
+
+愛任紐緊接著把這預言與馬太福音的博士朝拜連在一起：
+
+> "For we have seen His star in the east, and are come to worship Him"
+>
+> 「因為我們在東方看見了祂的星，特來拜祂。」
+
+> "having been led by the star into the house of Jacob to Emmanuel, they showed, by these gifts which they offered, who it was that was worshipped"
+>
+> 「他們被那星引領，來到雅各家中、以馬內利面前；藉著所獻上的這些禮物，顯明了他們所敬拜的是誰。」
+
+愛任紐引這段的用意，不是單單證明一個預言應驗了，而是要證明**先知所傳、道成肉身所顯明的，是同一位神**——巴蘭這外邦術士口中不由自主吐出的祝福，兩百年後被東方的博士當作路標一路跟隨，走到了那真正「出於雅各的星」面前下拜。
+
+> — Irenaeus, *Against Heresies*, Book III, ch. IX（Ante-Nicene Fathers, vol. 1，公有領域；CCEL, anf01.ix.iv.x）
+
 ### 馬太·亨利 (Matthew Henry)
 
 論巴蘭築壇獻祭背後的真實動機，亨利一針見血：

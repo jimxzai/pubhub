@@ -129,6 +129,22 @@ publisher: 三書精讀出版系統
 > 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
 > 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
+### 革利免 (Clement of Rome, 約主後 96 年)
+
+教父時期最早提及本章的，同樣是羅馬的革利免。他寫給哥林多教會的書信兩次引用民數記12章：一次稱摩西為神家中「盡忠的僕人」，直接取自民12:7，並接著說摩西如何把神所賜的一切誡命記載在聖書上；另一次則以亞倫、米利暗的遭遇為例，警戒哥林多教會嫉妒紛爭的危害。
+
+> "a faithful servant in all his house"
+>
+> 「在他全家盡忠的僕人」
+
+> "On account of envy, Aaron and Miriam had to make their abode without the camp."
+>
+> 「因著嫉妒，亞倫和米利暗只得住在營外。」
+
+革利免把亞倫、米利暗的例子，與該隱殺亞伯、雅各逃避以掃、約瑟被賣為奴、摩西逃離埃及、可拉黨被地吞滅並列，構成一串「嫉妒帶來災難」的舊約例證鏈；亞倫身為大祭司、米利暗身為女先知，尚且因嫉妒摩西的地位而受懲，這正是革利免寫給正陷入嫉妒紛爭的哥林多教會最貼身的警戒。
+
+> — Clement of Rome, *First Epistle to the Corinthians*, ch. IV and ch. XLIII（Ante-Nicene Fathers, vol. 1，公有領域；CCEL, anf01.ii.ii.iv; anf01.ii.ii.xliii）
+
 ### 馬太·亨利 (Matthew Henry)
 
 論摩西的謙和，亨利有一句常被傳頌的對比：

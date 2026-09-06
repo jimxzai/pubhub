@@ -16,3 +16,6 @@ DRIFT|This teaches us...the particular care God takes of his people|Differs only
 MISS|Our Saviour has told us so (John iii. 14, 15)|Differs only by Roman-numeral citation style; CCEL prints exactly this. Confirmed 2026-09-05.
 DRIFT|The apostle describes Balaam's sin here to be that he ran greedily|Exact match on CCEL; the corpus copy carries an HTML-link whitespace artifact at the citation. Confirmed 2026-09-05.
 MISS|What God had said to Moses (ch. xxvi. 53)|Quoted from CCEL, which prints "ch. xxvi. 53"; the corpus prints "ch. 26 53". Confirmed 2026-09-05.
+DRIFT|For, when rivalry arose concerning the priesthood|CCEL 的 HTML 把腳註 187（"literally, every tribe being written according to its name."）夾在 "with the name" 與 "of the tribe" 之間；語料抓取一併帶入，書稿引的是革利免的正文。逐字核對 anf01.ii.ii.xliii 2026-09-05。
+DRIFT|What think ye, beloved? Did not Moses know beforehand|CCEL 的 HTML 在 "and that" 與 "the name of the true and only God" 之間夾入頁碼 "17"；書稿引的是正文，未含該頁碼。逐字核對 anf01.ii.ii.xliii 2026-09-05。
+MISS|There shall come a star out of Jacob, and a leader shall rise in Israel|CCEL 的 HTML 在 "and a" 與 "leader" 之間夾入頁碼 "423"（分隔過早，比對器判為 MISS 而非 DRIFT）；書稿引的是愛任紐正文，未含該頁碼。逐字核對 anf01.ix.iv.x 2026-09-05。

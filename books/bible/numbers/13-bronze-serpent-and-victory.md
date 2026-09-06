@@ -137,6 +137,30 @@ publisher: 三書精讀出版系統
 > 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
 > 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
+### 游斯丁 (Justin Martyr, 約主後100-165年)
+
+銅蛇是第二世紀護教文獻中最常被引用的舊約預表之一。游斯丁在與猶太人特來弗的對話中，正面處理了一個猶太讀者必然會提出的難題：神既藉摩西禁止百姓製造任何形像，為何又親自吩咐摩西造一條銅蛇？
+
+> "was it not God who commanded by Moses that no image or likeness of anything which was in heaven above or which was on the earth should be made, and yet who caused the brazen serpent to be made by Moses in the wilderness, and set it up for a sign by which those bitten by serpents were saved?"
+>
+> 「神豈不是曾藉摩西吩咐，不可造任何天上或地上之物的形像或樣式嗎？然而祂卻使摩西在曠野造了銅蛇，把牠立起作記號，使那些被蛇咬的人因這記號得救。」
+
+游斯丁隨即指出，這並非神自相矛盾，乃是神藉這記號預先宣告了十字架的奧祕：
+
+> "He proclaimed the mystery, by which He declared that He would break the power of the serpent which occasioned the transgression of Adam, and [would bring] to them that believe on Him [who was foreshadowed] by this sign, i.e., Him who was to be crucified, salvation from the fangs of the serpent, which are wicked deeds, idolatries, and other unrighteous acts."
+>
+> 「祂藉此宣告了一個奧祕：祂要打破那使亞當犯罪的蛇的權勢，並要藉著這記號所預表的那位——就是將要被釘十字架的那位——把凡信祂之人從蛇牙的毒害中救出來；那毒害就是邪惡的行為、拜偶像，以及其他一切不義的事。」
+
+在另一處，游斯丁把「仰望」這個動作本身，直接連到十字架的形狀：
+
+> "he himself made a brazen serpent and set it on a standard, and bade those who were bitten look at it: and they were saved when they looked at it."
+>
+> 「他自己卻造了一條銅蛇，把牠立在旗杆上，吩咐那些被咬的人仰望牠：他們一仰望，就得了拯救。」
+
+游斯丁的論點正是本章基督焦點所在的核心弔詭：**那能救人的記號，形狀正是那害人之物本身**——銅蛇的形像就是蛇，十字架上所掛的也曾「為我們成了咒詛」（加3:13）；得救不在乎明白這弔詭如何運作，只在乎照著神所定的方式，單純地仰望。這使游斯丁的論述，成為現存最早、直接把民數記21章的銅蛇與約翰福音3章的十字架連在一起的教父文獻之一。
+
+> — Justin Martyr, *Dialogue with Trypho*, ch. XCIV, CXII（Ante-Nicene Fathers, vol. 1，公有領域；CCEL, anf01.viii.iv.xciv；anf01.viii.iv.cxii）
+
 ### 馬太·亨利 (Matthew Henry)
 
 論火蛇的審判，亨利指出這是神對百姓怨讟的直接回應：
