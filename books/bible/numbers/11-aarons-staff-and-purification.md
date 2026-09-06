@@ -250,7 +250,7 @@ publisher: 三書精讀出版系統
 >
 > 「無論百姓身在何處，這由祭司親手所獻的紅母牛的灰，都是隨時可用的。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" chs.17-19
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 17-19 章（sermonindex.net 全文）
 
 ---
 

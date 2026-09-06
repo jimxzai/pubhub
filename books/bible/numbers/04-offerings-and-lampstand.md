@@ -265,7 +265,7 @@ publisher: 三書精讀出版系統
 >
 > 「利未人分別為聖的安排，與祭司的安排並不相同：既沒有用膏油，也沒有用血，也沒有規定特別的服裝。他們潔淨的記號，僅僅是水這樣簡單的元素。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" chs.7-8
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 7-8 章（sermonindex.net 全文）
 
 ---
 

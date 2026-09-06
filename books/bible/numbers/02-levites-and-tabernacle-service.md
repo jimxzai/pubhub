@@ -229,7 +229,7 @@ publisher: 三書精讀出版系統
 >
 > 「這關係的神聖表記，在行軍前進之時，也要像安營居中、井然有序時一樣被謹慎看守。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" chs.3-4
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 3-4 章（sermonindex.net 全文）
 
 ---
 

@@ -209,7 +209,7 @@ publisher: 三書精讀出版系統
 >
 > 「唯有兩個人——那些早年曾一同來到那地邊界的人中——如今得以真正過去承受那地。他們就是迦勒和約書亞，是當年那少數的一派；他們所看見的不只是仇敵與堅固的城牆，因為在他們眼中，神的異象從未被遮蔽。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 sermonindex.net／*An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.26
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 26 章（sermonindex.net 全文）
 
 ---
 

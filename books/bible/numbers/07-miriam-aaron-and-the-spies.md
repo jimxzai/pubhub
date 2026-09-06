@@ -191,7 +191,7 @@ publisher: 三書精讀出版系統
 >
 > 「那擊打臨到了她身上。過了七天，她得以復原。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），sermonindex.net，"Numbers" ch.12
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 12 章（sermonindex.net 全文）
 
 論十二探子的差派，摩根指出民數記把重點放在神的命令上，與申命記互相補足——申命記顯示，這命令原是回應百姓先前的請求：
 
@@ -205,7 +205,7 @@ publisher: 三書精讀出版系統
 >
 > 「在此，正如歷來屢見不鮮的情形一樣，正確的是少數人的報告，而非多數人的報告。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），sermonindex.net，"Numbers" ch.13
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 13 章（sermonindex.net 全文）
 
 ---
 

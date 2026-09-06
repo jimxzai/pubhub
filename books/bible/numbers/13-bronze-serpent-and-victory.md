@@ -185,7 +185,7 @@ publisher: 三書精讀出版系統
 
 論西宏、噩的爭戰，摩根記錄以色列人得勝，終於來到「約旦河對岸、耶利哥對面的摩押平原」——這平原正是全書後半段（22章起）的舞台。
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.21
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 21 章（sermonindex.net 全文）
 
 ---
 

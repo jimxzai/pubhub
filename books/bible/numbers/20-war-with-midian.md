@@ -194,7 +194,7 @@ publisher: 三書精讀出版系統
 >
 > 「本章中有些實際數目可能有誤」——但「這並非關乎要害的事」。
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.31
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 31 章（sermonindex.net 全文）
 
 ---
 

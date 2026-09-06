@@ -207,7 +207,7 @@ publisher: 三書精讀出版系統
 >
 > 「神持續不變的溫柔，以及祂為百姓能親近祂所作的供應。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.20
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 20 章（sermonindex.net 全文）
 
 ---
 

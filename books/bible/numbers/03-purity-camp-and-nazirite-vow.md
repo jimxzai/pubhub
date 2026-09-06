@@ -227,7 +227,7 @@ publisher: 三書精讀出版系統
 >
 > 「這祝福是神聖之名三次的宣告，帶著三重的詮釋：百姓要蒙耶和華賜福、看顧；他們的光，是耶和華仰起的臉、以及隨之而來對祂恩典的體會；也正是在那仰起的臉光中，他們得以進入平安的經歷。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" chs.5-6
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 5-6 章（sermonindex.net 全文）
 
 ---
 

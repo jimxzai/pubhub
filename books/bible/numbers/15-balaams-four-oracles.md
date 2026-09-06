@@ -231,7 +231,7 @@ publisher: 三書精讀出版系統
 >
 > 「他既不能咒詛神的百姓，就轉而設法傷害他們……他『將絆腳石放在以色列人面前，叫他們吃祭偶像之物，行姦淫的事』（啟2:14）。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" chs.23-24
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 23-24 章（sermonindex.net 全文）
 
 ---
 

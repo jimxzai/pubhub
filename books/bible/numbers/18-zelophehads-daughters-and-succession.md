@@ -173,7 +173,7 @@ publisher: 三書精讀出版系統
 >
 > 「摩西最後的禱告，是求耶和華指派他的繼任者……他不僅得著方才所提的滿足——親自指派繼任者——更重要的是，他知道這位被指派的人，正是神自己所揀選的人。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 sermonindex.net／*An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.27
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 27 章（sermonindex.net 全文）
 
 ---
 

@@ -195,7 +195,7 @@ publisher: 三書精讀出版系統
 >
 > 「那根藍色的細帶子，象徵著他們民族生命中最深的真理——他們是在天的直接治理之下。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.15
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 15 章（sermonindex.net 全文）
 
 ---
 

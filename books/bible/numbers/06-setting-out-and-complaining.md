@@ -205,7 +205,7 @@ publisher: 三書精讀出版系統
 >
 > 「你和我們同去，我們必厚待你。」……「你必作我們的眼目。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），sermonindex.net，"Numbers" chs.10-11
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 10-11 章（sermonindex.net 全文）
 
 ---
 

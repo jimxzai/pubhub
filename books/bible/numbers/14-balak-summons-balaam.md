@@ -190,7 +190,7 @@ publisher: 三書精讀出版系統
 >
 > 「人終究不得不把心底最深處的東西活出來，而神卻始終在做工，要改變那內在的光景；環境被神掌管，為要使內心的真相在外面顯明出來。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.22
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 22 章（sermonindex.net 全文）
 > （摩根本章的釋義集中在巴蘭的內心動機，未如亨利般細述驢與使者的敘事細節，故本節在該主題上以亨利為主要引述來源，並存不虛構為原則。）
 
 ---

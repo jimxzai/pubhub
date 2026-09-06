@@ -187,7 +187,7 @@ publisher: 三書精讀出版系統
 >
 > 「後來的事件顯明了這場妥協是何等的錯誤。我們個人渴望及早、輕易地得著安逸，絕不應被容許干擾神已經宣告的旨意。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.32
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 32 章（sermonindex.net 全文）
 
 ---
 

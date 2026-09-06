@@ -172,7 +172,7 @@ publisher: 三書精讀出版系統
 >
 > 「這向前的推展不是出於人，而是出於耶和華。這卷書啟示了神確實不移的作為，朝向祂在人類歷史中最終成就人性更新的目標——這作為的最初動向記載在創世記的結尾，其中心的大能藉著神子的道成肉身而來，而其最終的得勝，至今尚未完全。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.36
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 36 章（sermonindex.net 全文）
 
 ---
 

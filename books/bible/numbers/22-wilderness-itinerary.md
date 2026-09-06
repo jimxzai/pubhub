@@ -181,7 +181,7 @@ publisher: 三書精讀出版系統
 >
 > 「神揀選人得福，從不是與人的行為無關的，而是與那藉著順服祂旨意而彰顯出來的品格緊密相連。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.33
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 33 章（sermonindex.net 全文）
 
 ---
 

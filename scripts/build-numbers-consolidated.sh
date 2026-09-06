@@ -31,17 +31,19 @@ publisher: "三書精讀出版系統"
 copyright: |
   版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
 
-  **三大核心資源整合：**
+  **注疏骨幹：兩位可逐字核對的解經者**
 
-  • **週四查經班** — 第一手屬靈教導
+  • **Matthew Henry** — 《Commentary on the Whole Bible》，民數記卷
 
-  • **Matthew Henry** — 《Commentary on the Whole Bible》
+  • **G. Campbell Morgan** — 《An Exposition of the Whole Bible》，民數記部分
 
-  • **G. Campbell Morgan** — 《An Exposition of the Whole Bible: Numbers》
+  本卷沒有第一手的查經班教導筆記可依循，全書一處也沒有加引號歸給老弟兄；
+  凡「老弟兄式」領受，均為編者依這系列查經方法所作的撮述。詳見〈前言〉
+  與卷末〈附錄：參考資料與引文帳目〉。
 
   **從西奈的次序到應許之地：曠野的管教、不信的倒斃、信實神的堅持**
 
-  卷一‧在西奈的次序 (1-10:10章) | 卷二‧曠野的抱怨與審判 (10:11-20章) | 卷三‧從何珥山到摩押平原 (21-25章)
+  卷一‧在西奈的次序 (1-10:10章) | 卷二‧曠野的抱怨與審判 (10:11-20章) | 卷三‧從何珥山到摩押平原 (21-25章) |
   卷四‧新一代的預備 (26-32章) | 卷五‧應許之地的產業 (33-36章)
 
   **經文版權聲明 (Scripture Copyright Notices)**

@@ -167,7 +167,7 @@ publisher: 三書精讀出版系統
 >
 > 「祭司非尼哈行動的記載，顯明一個人如何能因對神忠誠、為神的尊榮而熱心，就足以抵擋一整個群體的錯誤態度……他的行動止住了瘟疫，拯救了這國家。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.25
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 25 章（sermonindex.net 全文）
 
 ---
 

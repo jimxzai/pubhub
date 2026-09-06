@@ -163,7 +163,7 @@ publisher: 三書精讀出版系統
 >
 > 「號筒的聲音在百姓耳中，永遠帶著權柄，如同神自己的聲音。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），sermonindex.net，"Numbers" chs.9-10
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 9-10 章（sermonindex.net 全文）
 
 ---
 

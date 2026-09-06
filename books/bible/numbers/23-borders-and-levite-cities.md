@@ -241,7 +241,7 @@ publisher: 三書精讀出版系統
 >
 > 「這在一個天性剛烈、好報復的民族中間，是一項溫柔而公義的條例……這些城的設立，不是要讓人逃避公義，而是要確保公義得以落實。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" chs.34-35
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 34-35 章（sermonindex.net 全文）
 
 ---
 

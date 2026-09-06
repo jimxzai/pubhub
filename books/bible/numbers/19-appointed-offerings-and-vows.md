@@ -263,7 +263,7 @@ publisher: 三書精讀出版系統
 >
 > 「這些條例最引人注目之處，在於它們顯明了神看重一家合一的重要與必要。」……「任何一個家庭裏都不能有兩個至高的權柄；在神的經世安排裏，一如既往，作頭的責任歸於丈夫與父親。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 sermonindex.net／*An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" chs.28-30
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 28-30 章（sermonindex.net 全文）
 
 ---
 

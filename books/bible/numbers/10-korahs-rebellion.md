@@ -206,7 +206,7 @@ publisher: 三書精讀出版系統
 >
 > 「這中保的代求得勝了，瘟疫止住了；藉著這件事實，亞倫作祭司的權柄與摩西作領袖的權柄，都以更新的力度得著印證。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.16
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 16 章（sermonindex.net 全文）
 
 ---
 

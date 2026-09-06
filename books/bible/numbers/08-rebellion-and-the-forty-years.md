@@ -215,7 +215,7 @@ publisher: 三書精讀出版系統
 >
 > 「有神引導的以色列，與企圖離了神去實現神旨意的以色列，是完全不同的兩回事。」
 
-> 出處：G. Campbell Morgan, *Notes on Numbers*（收錄於 *An Exposition of the Whole Bible*, 1959 遺作彙編），"Numbers" ch.14
+> 出處：G. Campbell Morgan, *An Exposition of the Whole Bible*，民數記 14 章（sermonindex.net 全文）
 
 ---
 
