@@ -32,7 +32,7 @@ QUOTE = re.compile(r'^> "', re.M)
 COMMENTATORS = [("馬太·亨利", "亨利"), ("摩根", "摩根")]
 # Ante-Nicene fathers appear in five chapters only; counted together so the
 # ledger shows what the book actually carries rather than a column of zeros.
-FATHERS = ("革利免", "巴拿巴", "游斯丁", "愛任紐")
+FATHERS = ("革利免", "巴拿巴", "游斯丁", "愛任紐", "俄利根", "奧古斯丁")
 
 CJK_NUM = "零一二三四五六七八九十"
 

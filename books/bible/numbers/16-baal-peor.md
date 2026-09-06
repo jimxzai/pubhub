@@ -119,6 +119,24 @@ publisher: 三書精讀出版系統
 > 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
 > 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
+### 奧古斯丁 (Augustine, 主後 354-430 年)
+
+奧古斯丁講解詩篇106篇時，回頭解說本章的事件。他指出，神向以色列所發的怒氣，不是靠別的方式平息，正是靠非尼哈這一刺止息了的：
+
+> "...that God would not be otherwise appeased than as Phineas the Priest appeased Him, when he slew a man and a woman together whom he found in adultery."
+>
+> 「……神不肯藉別的方式被平息，直等到祭司非尼哈這樣平息了祂——他將一對正行淫、被他發現的男女一同刺殺。」
+
+但奧古斯丁隨即為這件事加上一個關鍵的但書：這行動之所以「算為義」，前提在於它出於甚麼動機；他並且明言，新約的門徒蒙召的是一條不同的道路：
+
+> "If he had done this from hatred towards them, and not from love, while zeal for the house of God devoured him, it would not have been counted unto him for righteousness.…Christ our Lord indeed, when the New Testament was revealed, chose a milder discipline; but the threat of hell is more severe, and this we do not read of in those threatenings held out by God in His temporal government."
+>
+> 「他若是出於對他們的恨、而不是出於愛去做這事——縱使那時是被為神的殿而生的忌邪之心所吞噬——這事也不會被算為他的義……我們的主基督，當新約顯明的時候，卻揀選了一種更溫和的懲治之道；然而地獄的威嚇更為嚴厲，這卻是我們在神施行今世治理時所發出的那些警戒裏讀不到的。」
+
+奧古斯丁沒有把非尼哈的行動當作可以照樣仿效的先例，反倒把「算為義」繫在動機上——是出於忌邪的愛，不是人的恨——並提醒讀者，新約之下的門徒蒙召走的是一條「更溫和」的紀律之路。這正呼應本章「合法身分」一節的立場：非尼哈的行動之所以蒙神稱許，不是因為熱心本身可以為暴力開脫，是因為它真正對齊了神自己聖潔的忌邪。
+
+> — Augustine, *Expositions on the Psalms*, on Psalm 106:28-31（§24-25）, NPNF1 vol. 8，公有領域；CCEL, npnf108.ii.CVI
+
 ### 馬太·亨利 (Matthew Henry)
 
 論本章與22-24章的關聯，亨利開篇即指出這是巴蘭計謀的延續：

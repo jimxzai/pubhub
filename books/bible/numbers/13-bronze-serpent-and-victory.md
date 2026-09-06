@@ -161,6 +161,30 @@ publisher: 三書精讀出版系統
 
 > — Justin Martyr, *Dialogue with Trypho*, ch. XCIV, CXII（Ante-Nicene Fathers, vol. 1，公有領域；CCEL, anf01.viii.iv.xciv；anf01.viii.iv.cxii）
 
+### 俄利根 (Origen, 約主後185-254年)
+
+俄利根是教會歷史上第一位為民數記逐卷寫下講道集的教父（《民數記講道集》*In Numeros Homiliae*，共二十八篇），可惜希臘原文早已佚失，僅賴盧非努斯（Rufinus）的拉丁文譯本保存至今。論到比珥井水之歌（21:16-18），俄利根在第十二篇講道一開始就指出，這段記載的字面意義並不豐富，真正的重心在於「井」這個意象貫穿全部聖經：
+
+> "There has been read to us from the book of Numbers the lesson of the well and of the song which Israel sang at the well. We see that it abounds, as is usual, or even beyond what is usual, in hidden meanings."
+>
+> 「我們剛才誦讀了民數記中，關於井、以及以色列人在井邊所唱之歌的功課。我們看見，這段經文一如往常、甚至比往常更加充滿了隱藏的意義。」
+
+他接著把這口曠野的井，與福音書中雅各井相連：
+
+> "Making a start with these wells, run through all Scripture, making note of the wells, and come right through to the Gospels. There you will find the well on which our Saviour sat and rested after the toil of His journey, on the occasion when, as the woman of Samaria came and wished to draw water from the well, the force of the well or of the wells in Scripture is explained, and a comparison is made of the different waters, and there also the secrets of divine mystery are revealed."
+>
+> 「從這些井起頭，貫穿全部聖經、逐一留意這些井，直到來到福音書。在那裏你會找到我們救主在旅途勞頓之後坐下歇息的那口井——就是撒瑪利亞婦人前來打水的那一幕；聖經中井（或眾井）的深意就在那裏被解明，不同的水也在那裏彼此對照，神聖的奧祕也在那裏顯明出來。」
+
+最終，他把整個比喻收束在基督所賜活水的永恆性上：
+
+> "For it is said that if a man drinks of the water which that earthly well contained, he will thirst again; whereas he who drinks of the water which Jesus gives, in him there shall be a fountain of water springing up unto eternal life."
+>
+> 「因為經上說，凡喝那地上井裏之水的，還要再渴；惟獨喝耶穌所賜之水的，在他裏面就要成為泉源，直湧到永生。」
+
+俄利根的解經手法是典型的寓意法：字面歷史意義在他看來價值不大——神何必特意吩咐摩西招聚百姓來打水？——真正的重心在於「井」這個意象貫穿全經，直到約翰福音四章雅各井邊的活水應許：地上的水終必再渴，惟獨基督所賜的活水才直湧到永生。這是現存文獻中，最早把民數記21章「井之歌」與約翰福音4章活水系統地連在一起解讀的一段文字，也把本章下半段勝利凱旋的主題，收束到基督自己身上。
+
+> — Origen, *Homilies on Numbers* (*In Numeros Homiliae*), Homily 12.1；英譯：R. B. Tollinton, *Selections from the Commentaries and Homilies of Origen*（SPCK, 1929），pp. 87-89，公有領域（1929年出版，已於2025年1月1日依美國九十五年著作權年限進入公有領域）；譯自盧非努斯（Rufinus）拉丁文譯本，希臘原文已佚失。全文見 archive.org 藏品 selectionsfromco0000orig（"Selections from the commentaries and homilies of Origen"），並經 earlychurch.org.uk 掃描本核對一致。
+
 ### 馬太·亨利 (Matthew Henry)
 
 論火蛇的審判，亨利指出這是神對百姓怨讟的直接回應：
