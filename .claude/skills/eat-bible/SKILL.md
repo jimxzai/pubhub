@@ -1,6 +1,6 @@
 ---
 name: eat-bible
-description: Build, verify, and edit this repo's consolidated study-book PDFs (pandoc + xelatex + templates/pdf/*.latex). Use when asked to build, compile, render, or screenshot a book PDF; to debug a build (missing glyphs, LaTeX errors, fonts, cover); to restructure or tighten a book's chapter markdown for print; or to source/verify Scripture text (CUV, NASB) for a chapter.
+description: Build, verify, edit and score this repo's consolidated study-book PDFs (pandoc + xelatex + templates/pdf/*.latex). Use when asked to build, compile, render or screenshot a book PDF; to debug a build (missing glyphs, LaTeX errors, fonts, cover); to restructure, tighten, proofread or improve a book's chapters; to check whether a book has a spiritual spine (revelation order / God's plan); or to source and verify Scripture text (CUV, NASB).
 ---
 
 Paths are relative to the repo root (`pubhub/`), except `references/*.md`,
@@ -8,17 +8,40 @@ which sit beside this file.
 
 | Reference | Read it when |
 |---|---|
+| `references/spine-and-score.md` | **Before starting work on a book, and before calling one finished.** The spine (does it say something, in an order a reader can follow?), the ten-row rubric, the maturity ladder, and the defect classes no script can catch. |
 | `references/gotchas.md` | A build fails, a page looks wrong, or you are about to edit a `templates/pdf/*.latex`. Every silent failure this repo has hit, plus a symptom → cause → fix table. |
 | `references/chapter-template.md` | You are restructuring or tightening a book's chapters for print: the 11-section house template, what stays verbatim, the dedupe rules, the per-chapter checks, and the fan-out that worked. |
 | `references/scripture-sources.md` | You are writing or converting Scripture text: ai-eden.com URL patterns and quirks, the RCUV caveat, NASB-1995 sourcing on biblehub, CUV by the chapter, disclosure when a fallback source is used. |
 
-## The order that works
+## Start here: what is this book for?
+
+A clean build is the floor, not the goal. Before touching typesetting, know
+which of these you are doing — they need different work in a different order:
+
+```bash
+python3 scripts/check-book-spine.py books/bible/<dir>   # does it have a spine?
+ls docs/scores/<slug>-*.md                              # where is it on the ladder?
+```
+
+**If the book has no spine chapter, that is the work** — not the overfull
+boxes. The Job volume passed every check in this file and scored 9.6/10 while
+never telling the reader in what order God reveals Himself; the rubric had no
+row for it, so scoring never asked. Read `references/spine-and-score.md`.
+
+**Score before and after.** Write `docs/scores/<slug>-<YYYY-MM-DD>.md` using
+the ten-row rubric, let its gaps decide the next round, and re-score. The
+rungs go build → skill audit → proofread → succinct → spine, and each finds a
+class the one below cannot see. Skipping ahead polishes defects: trimming
+before proofreading, or adding a spine before trimming, both waste the work.
+
+## The order that works (once you know what you're doing)
 
 Each step catches a class the next one cannot. Skipping a step means
 shipping the defects only that step can see — every one of these was
 learned by shipping it.
 
 ```bash
+python3 scripts/check-book-spine.py books/bible/<dir>     # 0. does it lead anywhere?  ~1 s
 scripts/lint-templates.sh <slug>                       # 1. template bugs   ~1 s, no build
 python3 scripts/lint-chapter-markup.py books/bible/<dir>  # 2. markdown bugs   ~1 s, no build
 python3 scripts/lint-scripture-text.py books/bible/<dir>  # 3. CUV character slips
@@ -29,7 +52,12 @@ python3 scripts/normalize-commentary-notice.py books/bible/<dir>           # 4c.
 .claude/skills/eat-bible/driver.sh <slug>              # 5. build + log + fonts + baseline
 pdftoppm -f <n> -l <n> -r 110 -png output/<slug>-consolidated.pdf /tmp/pg   # 6. LOOK
 .claude/skills/eat-bible/driver.sh <slug> --record-baseline   # 7. only after 6, only for an intended change
+                                                       # 8. re-score: docs/scores/<slug>-<date>.md
 ```
+
+Step 0 is first because it is the only one that can tell you the other seven
+are not worth running yet. Step 8 closes the loop: the score names the next
+round, or says the book is done.
 
 Fix lint findings first; they are causes, the build only shows symptoms.
 Batch "algorithmic" fixes have a poor record here (four attempts at
@@ -125,6 +153,16 @@ notice in seven different wordings, fourteen of them declaring 「帶引號引�
 自英文原著的中譯」 — true when the chapters held Chinese only, false once English
 originals were added, i.e. the honesty notice told readers the opposite of what
 the page showed. Derive the notice, don't hand-maintain it.
+
+**`scripts/check-book-spine.py <book-dir> | --all [--brief]`** asks the one
+question no other checker asks: does the book lead anywhere, and can the reader
+see it from where they are standing? Four checks — a front chapter stating the
+order of revelation and God's plan; every part divider carrying that spine
+forward; every chapter's 座標 line locating it; every chapter closing by
+returning to Christ (`ask-elder-wong` calls that last one 「永不缺席的句號」,
+and it is absent constantly). Run `--all --brief` once: the gaps it prints in
+books already treated as finished are the argument for the script. Details and
+how to fix each gap: `references/spine-and-score.md`.
 
 **`scripts/lint-scripture-text.py [path …]`** flags 和合本 variant-character
 slips inside scripture blocks (鑒/鑑, 熔/鎔, 汙/污, 裡/裏, 做/作). Rules are
