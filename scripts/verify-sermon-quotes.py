@@ -35,7 +35,13 @@ import sys
 import unicodedata
 from pathlib import Path
 
-CODE_RE = re.compile(r"(?:sermon\s+|/\s*)([0-9]{2}-[0-9]{1,3})", re.I)
+# gty.org has used two numbering eras: the current "NN-NNN" scheme (e.g.
+# 90-387) and an older bare-numeric scheme (3-5 digits, e.g. 1611, 2382,
+# sometimes hyphenated like 43-4) still cited by 編號 or "#" in older-style
+# attributions. Both resolve at the same gty.org/library/sermons-library/{code}/
+# URL (verified against a real 4-digit code), so both are worth recognizing
+# rather than reporting every legacy-numbered citation as NOCODE.
+CODE_RE = re.compile(r"(?:sermon\s+(?:code\s+)?|編號\s*|#|/\s*)([0-9]{2,5}(?:-[0-9]{1,3})?)", re.I)
 URL_RE = re.compile(r"https://www\.gty\.org/\S+?/([0-9]{2}-[0-9]{1,3})/([a-z0-9\-]+)")
 QUOTE_RE = re.compile(r'^> "(.+?)"', re.M)
 SRC_RE = re.compile(r"^> — .*$", re.M)
