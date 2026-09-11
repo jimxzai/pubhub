@@ -9,7 +9,7 @@ copyright: |
 
   **三大核心資源整合：**
 
-  • **黃長老式查經** — 整本聖經脈絡的深度領受
+  • **老弟兄式查經** — 整本聖經脈絡的深度領受
 
   • **John MacArthur** — 逐節解經講道 (gty.org)
 
@@ -151,7 +151,7 @@ copyright: |
 
 ### 主要參考
 
-1. **黃長老查經班** — 週四查經教導
+1. **老弟兄查經班** — 週四查經教導
 2. **John MacArthur** — Grace to You (gty.org)
 3. **G. Campbell Morgan** — *Living Messages of the Books of the Bible*
 4. **Martin J. Selman** — *1 Chronicles: An Introduction and Commentary* (Tyndale OT Commentaries)
@@ -176,7 +176,7 @@ copyright: |
 |------|------|
 | 1 | 禱告預備，以當日配詩開始 |
 | 2 | 經文朗讀（CUV + ESV，於 ai-eden.com/bible 核對） |
-| 3 | 黃長老查經帶領：精義一句話 → 提問式深讀 |
+| 3 | 老弟兄查經帶領：精義一句話 → 提問式深讀 |
 | 4 | MacArthur / Campbell Morgan 講道與注釋 |
 | 5 | 筆記記錄：領受與亮光、生命應用 |
 
