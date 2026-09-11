@@ -42,16 +42,16 @@ publisher: 三書精讀出版系統
 > 我要開口說比喻；我要說出古時的謎語。
 > — 詩篇 78:2
 
-> "I will open my mouth in a parable; I will utter dark sayings from of old."
-> — Psalm 78:2 (ESV)
+> "I will open my mouth in a parable; I will utter dark sayings of old,"
+> — Psalm 78:2 (NASB1995)
 
 耶穌在馬太福音 13:35 親自引用這節經文，說明自己用比喻教訓人正是應驗詩篇——這是主自己指出：**詩篇是指著我寫的**（參約 5:39-40, 46-47）。
 
 > 惟喜愛耶和華的律法，晝夜思想，這人便為有福！他要像一棵樹栽在溪水旁，按時候結果子，葉子也不枯乾。凡他所做的盡都順利。
 > — 詩篇 1:2-3
 
-> "But his delight is in the law of the LORD, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers."
-> — Psalm 1:2-3 (ESV)
+> "But his delight is in the law of the LORD, And in His law he meditates day and night. He will be like a tree firmly planted by streams of water, Which yields its fruit in its season And its leaf does not wither; And in whatever he does, he prospers."
+> — Psalm 1:2-3 (NASB1995)
 
 詩篇150篇，主角永遠是耶穌——從祂的角度讀，光就照進來。這正是黃長老讀詩篇最根本的提醒：詩篇第一篇說的「有福的人」，你以為說的是誰？——這說的是耶穌基督；信徒的真實光景，反而更像那被風吹散的糠秕（詩1:4）。詩篇23篇的牧者是誰？耶穌自己說：「我是好牧人」（約10:11）。整卷詩篇要從耶穌的角度讀，才能看見祂在每一篇裏的身影——受苦的、得勝的、掌權的、供應的、代求的耶穌。
 

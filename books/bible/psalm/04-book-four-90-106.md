@@ -30,14 +30,14 @@ publisher: 三書精讀出版系統
 > 求你指教我們怎樣數算自己的日子，好叫我們得著智慧的心。
 > — 詩篇 90:12
 
-> "So teach us to number our days that we may get a heart of wisdom."
-> — Psalm 90:12 (ESV)
+> "So teach us to number our days, That we may present to You a heart of wisdom."
+> — Psalm 90:12 (NASB1995)
 
 > 你們當曉得耶和華是神！我們是他造的，也是屬他的；我們是他的民，也是他草場的羊。
 > — 詩篇 100:3
 
-> "Know that the LORD, he is God! It is he who made us, and we are his; we are his people, and the sheep of his pasture."
-> — Psalm 100:3 (ESV)
+> "Know that the LORD Himself is God; It is He who has made us, and not we ourselves; We are His people and the sheep of His pasture."
+> — Psalm 100:3 (NASB1995)
 
 ---
 

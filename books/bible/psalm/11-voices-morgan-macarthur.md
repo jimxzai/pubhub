@@ -24,10 +24,7 @@ publisher: 三書精讀出版系統
 
 ### 摩根讀詩篇的鑰匙：五卷各有主導思想，藏在頌讚裏
 
-摩根對詩篇結構最重要的判斷，與本書前面各卷的讀法一脈相承——五卷不是隨意的分法：
-
-> 「這樣的編排，無論出自何人之手，都是精心為之；五卷中的每一卷都有一個主導的意念 (dominant idea)。而在每一卷的情形裏，這意念都藉著該卷結尾的頌讚 (Doxology) 顯明出來。」
-> — G. Campbell Morgan, *Notes on the Psalms*（Fleming H. Revell, 1947）導論
+摩根對詩篇結構最重要的判斷，與本書前面各卷的讀法一脈相承——五卷不是隨意的分法：這樣的編排無論出自何人之手，都是精心為之；五卷中的每一卷都有一個主導的意念 (dominant idea)，而這意念都藉著該卷結尾的頌讚 (Doxology) 顯明出來——這是摩根導論的核心論點（撮述，非逐字語錄）。2026-09-11 查證說明：*Notes on the Psalms* 全書未能取得可逐句核對的公開電子文本；上述論點的措辭與 dominant idea／Doxology 兩個術語，已經公開搜尋索引二次確認與摩根用語相符，但未能像下方《話中之光》諸則一樣取得原書逐字核對，故不加引號呈現，以撮述處理，符合本項目「無法整節核對者，一律改為撮述、不加引號」之規則。
 
 換句話說：**想知道一卷詩篇在說甚麼，先讀它最後的頌讚**（41:13；72:18-19；89:52；106:48；150篇全篇）——這正是黃長老「找終極目的句」的方法：整段話最後落腳在哪裏，精義就在哪裏。
 
@@ -61,7 +58,9 @@ publisher: 三書精讀出版系統
 
 **2. 主題：在真實世界過真實人生。** 麥克阿瑟給詩篇的基調判斷是「living real life in the real world」——真實人生同時活在兩個維度裏：暫時的、水平的現實，與超越的、垂直的現實。地上縱有苦痛，「神的子民仍要喜樂地、倚靠地活在那永恆維度的位格與應許之上」。
 
-> 「人生一切的困頓與得勝的循環，都成了向以色列的主權之主傾吐怨訴、信靠、祈求或讚美的時機。」(All cycles of human troubles and triumphs provide occasions for expressing human complaints, confidence, prayers, or praise, to Israel's sovereign Lord.)
+> "All cycles of human troubles and triumphs provide occasions for expressing human complaints, confidence, prayers, or praise, to Israel's sovereign Lord."
+>
+> 「人生一切的困頓與得勝的循環，都成了向以色列的主權之主傾吐怨訴、信靠、祈求或讚美的時機。」
 > — MacArthur Study Bible, 詩篇導論
 
 **3. 詩篇是神所默示的「詩歌本」。** 詩篇原初的功用是「引發對神合宜的讚美與敬拜」——它是以色列「神所默示的詩歌本，界定了敬拜當有的靈與內容」。「這卷讚美之書展現的是一套極其實際的神學。」(This book of praise manifests a very practical theology.)
@@ -102,9 +101,9 @@ publisher: 三書精讀出版系統
 
 ## 資料來源與查證說明
 
-- G. Campbell Morgan, *Notes on the Psalms* (Fleming H. Revell, 1947)；中譯《默想詩篇》，更新傳道會 (Christian Renewal Ministries)，ISBN 9781565822726。
-- G. Campbell Morgan, *Searchlights from the Word*——詩篇部分短評（本章所引詩1、2、22、23、24、42、51各則，經公開電子文本逐句查證；詩61以後條目未能於編寫時取得完整文本，未予轉引）。
-- John MacArthur, *The MacArthur Study Bible*——詩篇導論（本章引文經 Blue Letter Bible 所載原文查證）。
+- G. Campbell Morgan, *Notes on the Psalms* (Fleming H. Revell, 1947)；中譯《默想詩篇》，更新傳道會 (Christian Renewal Ministries)，ISBN 9781565822726。導論「五卷各有主導意念，藏於卷末頌讚」一句，2026-09-11 經公開搜尋索引二次核對，與摩根用語（dominant idea／Doxology）相符；未能取得原書全文逐句覆核，信心程度低於下一條。
+- G. Campbell Morgan, *Searchlights from the Word*——詩篇部分短評（本章所引詩1、2、22、23、24、42、51各則）。2026-09-11 重新逐則核對：以 `curl` 取得 biblenotes.online/resources/searchlights/psalms.htm 原始 HTML（非經 AI 摘要，避免摘要改寫經文之風險），逐篇比對，七則全數逐字相符（含 Ps1「The man delighting in that law...is the man who is prosperous」、Ps51「it is the greatest in spiritual power」等）。詩61以後條目仍未能取得完整文本，未予轉引。
+- John MacArthur, *The MacArthur Study Bible*——詩篇導論。2026-09-11 重新核對：直接取得 blueletterbible.org/Comm/macarthur_john/bible-introductions/psalms-intro.cfm 原文，本章所引「All cycles of human troubles...」「living real life in the real world」「God-breathed 'hymnbook'」「一人與眾人」（mediatorial ruler／his people）諸句，逐句相符。
 - gty.org (Grace to You)——詩19、51、107講道系列（講題經 Grace to You 於 SermonAudio 之官方頻道查證）。
 - 本章所有直接引語均有出處可查；未經查證的內容一律以撮述而非引號呈現，符合本項目《內容規則》「不編造注疏」之要求。
 

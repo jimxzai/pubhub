@@ -27,8 +27,8 @@ publisher: 三書精讀出版系統
 > 除你以外，在天上我有誰呢？除你以外，在地上我也沒有所愛慕的。我的肉體和我的心腸衰殘；但神是我心裏的力量，又是我的福分，直到永遠。
 > — 詩篇 73:25-26
 
-> "Whom have I in heaven but you? And there is nothing on earth that I desire besides you. My flesh and my heart may fail, but God is the strength of my heart and my portion forever."
-> — Psalm 73:25-26 (ESV)
+> "Whom have I in heaven but You? And besides You, I desire nothing on earth. My flesh and my heart may fail, But God is the strength of my heart and my portion forever."
+> — Psalm 73:25-26 (NASB1995)
 
 > 我要開口說比喻；我要說出古時的謎語。
 > — 詩篇 78:2

@@ -30,8 +30,8 @@ publisher: 三書精讀出版系統
 > 神啊，求你為我造清潔的心，使我裏面重新有正直的靈。
 > — 詩篇 51:10
 
-> "Create in me a clean heart, O God, and renew a right spirit within me."
-> — Psalm 51:10 (ESV)
+> "Create in me a clean heart, O God, And renew a steadfast spirit within me."
+> — Psalm 51:10 (NASB1995)
 
 > 他要執掌權柄，從這海直到那海，從大河直到地極……獨行奇事的耶和華─以色列的神是應當稱頌的！他榮耀的名也當稱頌，直到永遠。願他的榮耀充滿全地！阿們！阿們！
 > — 詩篇 72:8, 18-19

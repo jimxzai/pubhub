@@ -43,6 +43,10 @@ copyright: |
 
   **經文核對**：以 [ai-eden.com/bible](https://www.ai-eden.com/bible) 為標準來源（和合本 CUV）；逐字核對經 cnbible.com 進行，並經 ai-eden.com 抽樣覆核一致（標點從 CUV 現代標點版）
 
+  Scripture quotations taken from the New American Standard Bible®
+  (NASB), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. All rights reserved. lockman.org
+
   All rights reserved.
 ---
 

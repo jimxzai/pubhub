@@ -36,6 +36,20 @@ subtitle: "The Whole Psalter — Liturgical Edition"
 author: "PubHub 三書精讀系統"
 date: "2026年7月"
 publisher: "Soli Deo Gloria"
+copyright: |
+  版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
+
+  **聖經版本 / Bible Versions**
+
+  中文：和合本 (CUV)；English: New American Standard Bible (NASB 1995)
+
+  **經文核對**：以 [ai-eden.com/bible](https://www.ai-eden.com/bible) 為標準來源（和合本 CUV）；逐字核對經 cnbible.com 進行，並經 ai-eden.com 抽樣覆核一致（標點從 CUV 現代標點版）
+
+  Scripture quotations taken from the New American Standard Bible®
+  (NASB), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+  Used by permission. All rights reserved. lockman.org
+
+  本書為三書精讀項目成果之一。Part of the Three Books Deep Reading Project.
 ---
 
 HEADER

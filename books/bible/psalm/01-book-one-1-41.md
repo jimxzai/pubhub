@@ -27,8 +27,8 @@ publisher: 三書精讀出版系統
 > 惟喜愛耶和華的律法，晝夜思想，這人便為有福！他要像一棵樹栽在溪水旁，按時候結果子，葉子也不枯乾。凡他所做的盡都順利。
 > — 詩篇 1:2-3
 
-> "But his delight is in the law of the LORD, and on his law he meditates day and night. He is like a tree planted by streams of water that yields its fruit in its season, and its leaf does not wither. In all that he does, he prospers."
-> — Psalm 1:2-3 (ESV)
+> "But his delight is in the law of the LORD, And in His law he meditates day and night. He will be like a tree firmly planted by streams of water, Which yields its fruit in its season And its leaf does not wither; And in whatever he does, he prospers."
+> — Psalm 1:2-3 (NASB1995)
 
 > 耶和華曾對我說：你是我的兒子，我今日生你。你求我，我就將列國賜你為基業，將地極賜你為田產。
 > — 詩篇 2:7-8
