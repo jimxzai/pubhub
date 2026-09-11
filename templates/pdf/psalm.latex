@@ -384,31 +384,31 @@ I will utter dark sayings from of old."\\
 \begin{tikzpicture}[scale=0.82, transform shape]
   \node[draw=BookOneOlive,fill=BookOneOlive!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (0,0) {};
   \node[font=\small\bfseries,color=BookOneOlive!70!black] at (0,0.55) {卷一 I};
-  \node[font=\tiny,color=TextGray] at (0,0.15) {詩 1--41};
+  \node[font=\tiny,color=TextGray] at (0,0.15) {詩 1–41};
   \node[font=\tiny,color=CommentarySepia] at (0,-0.25) {創世記};
   \node[font=\tiny,color=LightGray] at (0,-0.6) {有福的人};
 
   \node[draw=BookTwoGold,fill=BookTwoGold!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (2.9,0) {};
   \node[font=\small\bfseries,color=BookTwoGold!70!black] at (2.9,0.55) {卷二 II};
-  \node[font=\tiny,color=TextGray] at (2.9,0.15) {詩 42--72};
+  \node[font=\tiny,color=TextGray] at (2.9,0.15) {詩 42–72};
   \node[font=\tiny,color=CommentarySepia] at (2.9,-0.25) {出埃及記};
   \node[font=\tiny,color=LightGray] at (2.9,-0.6) {拯救、王};
 
   \node[draw=BookThreeRust,fill=BookThreeRust!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (5.8,0) {};
   \node[font=\small\bfseries,color=BookThreeRust!70!black] at (5.8,0.55) {卷三 III};
-  \node[font=\tiny,color=TextGray] at (5.8,0.15) {詩 73--89};
+  \node[font=\tiny,color=TextGray] at (5.8,0.15) {詩 73–89};
   \node[font=\tiny,color=CommentarySepia] at (5.8,-0.25) {利未記};
   \node[font=\tiny,color=LightGray] at (5.8,-0.6) {聖所、約};
 
   \node[draw=BookFourSage,fill=BookFourSage!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (8.7,0) {};
   \node[font=\small\bfseries,color=BookFourSage!70!black] at (8.7,0.55) {卷四 IV};
-  \node[font=\tiny,color=TextGray] at (8.7,0.15) {詩 90--106};
+  \node[font=\tiny,color=TextGray] at (8.7,0.15) {詩 90–106};
   \node[font=\tiny,color=CommentarySepia] at (8.7,-0.25) {民數記};
   \node[font=\tiny,color=LightGray] at (8.7,-0.6) {耶和華作王};
 
   \node[draw=BookFiveAmber,fill=BookFiveAmber!12,rounded corners,minimum width=2.5cm,minimum height=1.9cm,align=center] at (11.6,0) {};
   \node[font=\small\bfseries,color=BookFiveAmber!70!black] at (11.6,0.55) {卷五 V};
-  \node[font=\tiny,color=TextGray] at (11.6,0.15) {詩 107--150};
+  \node[font=\tiny,color=TextGray] at (11.6,0.15) {詩 107–150};
   \node[font=\tiny,color=CommentarySepia] at (11.6,-0.25) {申命記};
   \node[font=\tiny,color=LightGray] at (11.6,-0.6) {話語、頌讚};
 
@@ -425,10 +425,10 @@ I will utter dark sayings from of old."\\
   \draw[ScriptureGold,line width=1.5pt] (0.3,0) -- (14.7,0);
   \fill[ScriptureGold] (0.6,0) circle (0.28);
   \node[font=\tiny\bfseries,color=white] at (0.6,0) {1};
-  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (0.6,-0.8) {有福的人\\詩1--2};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (0.6,-0.8) {有福的人\\詩1–2};
   \fill[ScriptureGold] (4.1,0) circle (0.28);
   \node[font=\tiny\bfseries,color=white] at (4.1,0) {22};
-  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (4.1,-0.8) {受苦的牧人\\詩22--24};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (4.1,-0.8) {受苦的牧人\\詩22–24};
   \fill[ScriptureGold] (7.6,0) circle (0.28);
   \node[font=\tiny\bfseries,color=white] at (7.6,0) {89};
   \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (7.6,-0.8) {約的危機\\詩89};
@@ -437,7 +437,7 @@ I will utter dark sayings from of old."\\
   \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (11.1,-0.8) {君王祭司\\詩110};
   \fill[ScriptureGold] (14.3,0) circle (0.28);
   \node[font=\tiny\bfseries,color=white] at (14.3,0) {150};
-  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (14.3,-0.8) {凡有氣息的\\詩146--150};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.2cm] at (14.3,-0.8) {凡有氣息的\\詩146–150};
 \end{tikzpicture}
 
 \vfill
@@ -530,7 +530,7 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書依詩篇本身的五卷結構（對應摩西五經），分五冊研讀全卷一百五十篇：卷一（詩1--41，有福的人）、卷二（詩42--72，拯救與王）、卷三（詩73--89，聖所與約）、卷四（詩90--106，曠野與耶和華作王）、卷五（詩107--150，話語、回歸、頌讚）。全書採用黃長老的查經方法——濃縮精義、以經解經、從耶穌的角度讀每一篇——因為詩篇一百五十篇，主角永遠是耶穌：受苦的（詩22）、牧養的（詩23）、掌權的（詩24）、君王兼祭司的（詩110）、被棄而成為房角石的（詩118）。整卷詩篇的終局，是「凡有氣息的，都要讚美耶和華」（詩150:6）——與整本聖經的終局，同一個方向。
+本書依詩篇本身的五卷結構（對應摩西五經），分五冊研讀全卷一百五十篇：卷一（詩1–41，有福的人）、卷二（詩42–72，拯救與王）、卷三（詩73–89，聖所與約）、卷四（詩90–106，曠野與耶和華作王）、卷五（詩107–150，話語、回歸、頌讚）。全書採用黃長老的查經方法——濃縮精義、以經解經、從耶穌的角度讀每一篇——因為詩篇一百五十篇，主角永遠是耶穌：受苦的（詩22）、牧養的（詩23）、掌權的（詩24）、君王兼祭司的（詩110）、被棄而成為房角石的（詩118）。整卷詩篇的終局，是「凡有氣息的，都要讚美耶和華」（詩150:6）——與整本聖經的終局，同一個方向。
 
 A five-volume study of all 150 psalms following the Psalter's own five-book structure mirroring the Pentateuch. Reading with Elder Huang's method — distilling the essence, interpreting Scripture with Scripture, and reading every psalm from the angle of Jesus Christ: the suffering shepherd (Ps 22), the good shepherd (Ps 23), the King of glory (Ps 24), the priest-king (Ps 110), the rejected cornerstone (Ps 118). The Psalter ends where the whole Bible ends: "Let everything that has breath praise the LORD" (Ps 150:6).
 $endif$

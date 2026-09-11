@@ -58,6 +58,13 @@ else
     exit 1
 fi
 
+# 1b. Order of revelation / plan of God — the spine chapter
+if [ -f "$INPUT_DIR/00a-revelation-order.md" ]; then
+    echo "  Adding: 00a-revelation-order.md"
+    awk 'BEGIN{c=0} /^---$/{c++; next} c>=2{print}' "$INPUT_DIR/00a-revelation-order.md" >> "$COMBINED_MD"
+    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
+fi
+
 # 2. Five books of the Psalter in order
 book_count=0
 for i in 01 02 03 04 05; do

@@ -56,6 +56,11 @@ else
     exit 1
 fi
 
+# 1b. Order of revelation / plan of God — the spine chapter
+if [ -f "$INPUT_DIR/00a-revelation-order.md" ]; then
+    append_file "$INPUT_DIR/00a-revelation-order.md"
+fi
+
 # 2. Five books, each paired: deep study (0N) then psalm-by-psalm guide (0N+5)
 file_count=1
 for pair in "01 06" "02 07" "03 08" "04 09" "05 10"; do
