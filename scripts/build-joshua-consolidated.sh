@@ -180,6 +180,18 @@ add_volume "卷末 · 至於我和我家 (As for Me and My House)" \
     "全書從約旦河的乾地起頭，走過爭戰的煙塵，最終停在示劍的立約——神的信實一句都沒有落空，剩下的是人當如何回應。"
 add_front "$INPUT_DIR/99-covenant-and-legacy.md"
 
+# ============================================================
+# 附錄 — every chapter's 體例說明 box tells the reader
+# 「各條出處與核校方式，見卷末《附錄：引用出處總表》」. Until 2026-09-05 neither
+# appendix was concatenated here, so all 20 chapters pointed at a section that
+# did not exist in the printed book. Same defect the Ruth volume found in its
+# own build script; keep both add_front calls below.
+# ============================================================
+add_volume "附錄 (Appendices)" \
+    "經文與主題索引、引用出處總表——各章「體例說明」所指的卷末附錄。附錄二的跨書經文索引，正是**啟示的次序**在全書的落點清單：它逐一列出約書亞記以外的每一處經文，以及本書在哪一章接上那條線。"
+add_front "$INPUT_DIR/98-appendix-indices.md"
+add_front "$INPUT_DIR/99-appendix-references.md"
+
 # 跋 — afterword. Last content file: no trailing \newpage.
 echo "  Adding (unnumbered): 999-afterword.md"
 tail -n +8 "$INPUT_DIR/999-afterword.md" \
