@@ -22,16 +22,16 @@ publisher: 三書精讀出版系統
 > 起初，神創造天地。
 > — 創世記 1:1
 
-> In the beginning, God created the heavens and the earth.
-> — Genesis 1:1 (ESV)
+> In the beginning God created the heavens and the earth.
+> — Genesis 1:1 (NASB)
 
 ---
 
-> 我又要叫你和女人彼此為仇；你的後裔和女人的後裔也彼此為仇。他要傷你的頭；你要傷他的腳跟。
+> 我要使你和女人彼此為仇，你的後裔和女人的後裔也彼此為仇。他要傷你的頭，你要傷他的腳跟。
 > — 創世記 3:15
 
-> I will put enmity between you and the woman, and between your offspring and her offspring; he shall bruise your head, and you shall bruise his heel.
-> — Genesis 3:15 (ESV)
+> And I will put enmity between you and the woman, and between your seed and her seed; he shall bruise you on the head, and you shall bruise him on the heel.
+> — Genesis 3:15 (NASB)
 
 ---
 
@@ -110,7 +110,9 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 章節目錄與配詩 (Chapter Index with Hymns)
+## 逐章讀經與配詩索引 (Verse-by-Verse Reading and Hymn Index)
+
+**說明**：下表按創世記自身的 1-50 章逐章（或跨章）配上一首詩篇或聖詩，供逐日讀經之用；表中的「章」是**創世記本身的章數**，不是本書研讀所分的十七個研讀章（見〈概覽〉開頭「全書結構」表與各研讀檔案 `01-creation.md`…`17-covenant-fulfillment.md`）。兩套編號並存，讀者可各取所需：逐日讀經用本表，研讀本書內容則依十七章檔案。
 
 ### 第一部分：太初歷史 (Primeval History, 1-11)
 
@@ -179,9 +181,9 @@ publisher: 三書精讀出版系統
 | 49 | 雅各祝福十二子 | 49:1-33 | *The Church's One Foundation* |
 | 50 | 雅各與約瑟之死 | 50:1-26 | *For All the Saints* |
 
-### 第十七章：橋樑篇 (A Bridging Chapter)
+### 本書研讀第17章：橋樑篇 (Study Chapter 17 — A Bridging Chapter)
 
-創世記全書五十章的研讀在此完成。本系列另設第17章〈應許的實現：從創世記到出埃及與約書亞〉（17-covenant-fulfillment.md）作為橋樑篇，經文錨定於創世記50:22-26，延伸追蹤亞伯拉罕之約的三重應許（後裔、土地、萬國蒙福）如何在出埃及記與約書亞記開始應驗，並以希伯來書11:13、39-40的「存著信心死，卻未得著所應許的」為讀經的鑰匙。這一章刻意跨出創世記本身的邊界，提醒讀者：創世記的「起初」，是一個尚未寫完的故事的起初。
+創世記全書五十章的逐日讀經在此完成。本書研讀（非上表創世記本身的章數）另設第17章〈應許的實現：從創世記到出埃及與約書亞〉（17-covenant-fulfillment.md）作為橋樑篇，經文錨定於創世記50:22-26，延伸追蹤亞伯拉罕之約的三重應許（後裔、土地、萬國蒙福）如何在出埃及記與約書亞記開始應驗，並以希伯來書11:13、39-40的「存著信心死，卻未得著所應許的」為讀經的鑰匙。這一章刻意跨出創世記本身的邊界，提醒讀者：創世記的「起初」，是一個尚未寫完的故事的起初。
 
 ---
 
@@ -277,7 +279,7 @@ publisher: 三書精讀出版系統
 | 步驟 | 內容 | 說明 |
 |------|------|------|
 | 1 | 禱告預備 | 以當日配詩開始 |
-| 2 | 經文朗讀 | 中英對照 (RCUV + ESV) |
+| 2 | 經文朗讀 | 中英對照 (RCUV + NASB) |
 | 3 | 三方資源 | 黃長老 + MacArthur + Morgan |
 | 4 | 筆記記錄 | 使用標準模板 |
 | 5 | 聖詩回應 | 唱誦或默想配詩 |

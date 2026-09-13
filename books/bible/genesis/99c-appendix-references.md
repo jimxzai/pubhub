@@ -12,7 +12,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 一、John MacArthur (Grace to You, gty.org)
+## 一、麥克阿瑟 (John MacArthur, Grace to You, gty.org)
 
 | 講題 | 經文範圍 | 日期 | 網址 | 出現章 |
 |------|------|------|------|------|
@@ -46,9 +46,11 @@ publisher: 三書精讀出版系統
 - John MacArthur, *MacArthur Study Bible*，〈創世記引言〉，轉載於 Blue Letter Bible：blueletterbible.org/Comm/macarthur_john/bible-introductions/genesis-intro.cfm
 - John MacArthur, 講道系列 *The Battle for the Beginning*（創1章）、*Genesis of the Gospel*（創3章），gty.org
 
+**逐字引文核校聲明**：麥克阿瑟的引文，凡附英文原文並已與講道稿或文章核校者，見第1章、第2章、第6章、第7章、第9章、第10章、第12章、第13章、第14章、第15章、第16章；其餘各章所述麥克阿瑟立場，均已改寫為不加引號之要旨綜述的章：第3、8、11、17章，未附逐字原文，不作逐字引用論斷。
+
 ---
 
-## 二、G. Campbell Morgan
+## 二、摩根 (G. Campbell Morgan)
 
 | 出處 | 論及經文 | 備註 | 出現章 |
 |------|------|------|------|
@@ -74,6 +76,8 @@ publisher: 三書精讀出版系統
 
 - Derek Kidner, *Genesis (Tyndale Old Testament Commentaries)*
 - Kenneth Mathews, *Genesis (New American Commentary)*
+
+**逐字引文核校聲明**：摩根的引文，凡附英文原文並已與原著核校者，見第1章、第2章、第6章、第7章、第9章、第10章、第12章、第14章、第15章、第16章；其餘各章所述摩根立場，均已改寫為不加引號之要旨綜述的章：第3、8、11章，未附逐字原文，不作逐字引用論斷。
 
 ---
 
@@ -136,7 +140,7 @@ publisher: 三書精讀出版系統
 
 全書各章經文核對均統一標註同一來源：
 
-- ai-eden.com Bible reference（CUV／ESV 雙語對照），例：https://www.ai-eden.com/bible/genesis/1?t=CUV,ESV&cols=2
+- ai-eden.com Bible reference（CUV／NASB 雙語對照），例：https://www.ai-eden.com/bible/genesis/1?t=CUV,NASB&cols=2
 
 ---
 

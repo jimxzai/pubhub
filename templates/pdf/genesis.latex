@@ -276,6 +276,16 @@
     \vskip 15pt
   }}
 
+% \chapter* (used for every unnumbered {.unnumbered} heading: preface,
+% overview, revelation-order, the volume dividers, afterword, appendices)
+% never calls \chaptermark, so it inherits the running head of whatever
+% last set one — in this book that is \tableofcontents, which sets the mark
+% to "Contents" and is followed by nothing that resets it. Without this
+% patch every page of front/back matter after the first ran under the
+% header "Contents" (same bug documented and fixed in templates/pdf/job.latex).
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+
 % Section styling
 \renewcommand\section{\@startsection {section}{1}{\z@}%
   {-2.5ex \@plus -0.5ex \@minus -.2ex}%
@@ -775,7 +785,7 @@ All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
 中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+English: New American Standard Bible (NASB 1995)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ 黃長老查經班 (Elder Wong's Bible Class)\\
@@ -790,7 +800,14 @@ $endif$
 \cleardoublepage
 
 % Table of contents
+% tocdepth is set here, immediately before \tableofcontents, and only here —
+% it does not touch \c@secnumdepth, so in-text chapter/section numbering
+% (16.4, 16.4.1, ...) is unaffected. Without this the TOC lists every
+% subsection and sub-subsection down to level 3 and runs to 22+ pages of
+% front matter (the same defect documented for Isaiah's build — see
+% eat-bible references/spine-and-score.md).
 \pagestyle{fancy}
+\setcounter{tocdepth}{0}
 {\color{ChapterBlue}\tableofcontents}
 \cleardoublepage
 
