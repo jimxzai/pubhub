@@ -60,6 +60,7 @@ publisher: 三書精讀出版系統
 | *The Analyzed Bible*（挪亞洪水結構分析，方法論摘要，非逐字引句） | 創6-9章 | — | 04 |
 | *The Analyzed Bible: Genesis* (Fleming H. Revell, 1908), pp. 80-82 | 創11:1-9 | — | 05 |
 | *An Exposition of the Whole Bible*，論創世記12章 | 創12章 | — | 06 |
+| *The Analyzed Bible*, Vol. 1: *Genesis–Esther* (Fleming H. Revell, 1907), pp. 19-21，論亞伯拉罕七次顯現的結構 | 創12-22章總論 | archive.org/details/analyzedbible01morg | 06 |
 | *The Book of Genesis* (1908) | 創15:1, 17:1（El Shaddai） | 收於《The Analysed Bible》系列 | 07 |
 | *The Analyzed Bible: The Book of Genesis* (1911) | 創18-19章 | — | 08 |
 | *The Analysed Bible: The Book of Genesis* (New York: Fleming H. Revell, 1908) | 創22章 | — | 09 |
@@ -67,6 +68,7 @@ publisher: 三書精讀出版系統
 | *The Analyzed Bible*, Vol. 1,「創始之書」一章 | 創27-35章 | — | 11 |
 | *The Book of Genesis* (1908), pp. 204-205，收於《The Analysed Bible》系列 | 創32:22-32 | — | 12 |
 | *An Exposition of the Whole Bible*，創世記37章 | 創37章 | — | 13 |
+| *The Analyzed Bible*, Vol. 1: *Genesis–Esther* (Fleming H. Revell, 1907), p. 25 | 創37-50章總論 | archive.org/details/analyzedbible01morg | 13 |
 | *Exposition of the Bible*，論創世記40-41章 | 創39-41章 | sermonindex.net／摩根釋經專欄 | 14 |
 | *The Analyzed Bible: Genesis*，〈約瑟〉段落總論 | 創42-45章 | archive.org 藏本 | 15 |
 | *The Analyzed Bible*, Genesis 卷 | 創48-50章 | — | 16 |
@@ -77,7 +79,7 @@ publisher: 三書精讀出版系統
 - Derek Kidner, *Genesis (Tyndale Old Testament Commentaries)*
 - Kenneth Mathews, *Genesis (New American Commentary)*
 
-**逐字引文核校聲明**：摩根的引文，凡附英文原文並已與原著核校者，見第1章、第2章、第6章、第7章、第9章、第10章、第12章、第14章、第15章、第16章；其餘各章所述摩根立場，均已改寫為不加引號之要旨綜述的章：第3、8、11章，未附逐字原文，不作逐字引用論斷。
+**逐字引文核校聲明**：摩根的引文，凡附英文原文並已與原著核校者，見第1章、第2章、第6章、第7章、第9章、第10章、第12章、第13章、第14章、第15章、第16章；其餘各章所述摩根立場，均已改寫為不加引號之要旨綜述的章：第3、8、11章，未附逐字原文，不作逐字引用論斷。
 
 ---
 
