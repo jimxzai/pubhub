@@ -1,0 +1,861 @@
+% PubHub 2 Chronicles Deep Study Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies
+% Requires XeLaTeX for CJK support
+% Series identity: Purple/Gold/Ember palette — the purple dye used in the
+% temple's own furnishings (2:7,14; 3:14), the glory-gold that fills the
+% house at its dedication (5:13-14; 7:1-3), and the ember-ash of the temple
+% burned at the book's low point (36:19) before the decree reopens the door
+% (36:22-23). Deliberately distinct from Exodus's Blood/Sea/Glory, Job's
+% Ash/Storm/Dawn, Isaiah's Throne/Coal and Acts's Flame/Ember.
+%
+% Base: adapted from templates/pdf/exodus.latex (2026-09 从零建卷 structure:
+% secnumdepth/tocdepth, chaptermark without an English "Chapter N." prefix,
+% table/quote machinery, hyperxmp PDF metadata block, ucharclasses Hebrew/
+% Greek transliteration handling). Only the color scheme, cover/frontispiece/
+% title/closing page content and the eight-volume structure diagram are
+% book-specific; all font, geometry and macro machinery below is unchanged
+% from the series baseline.
+%
+% NOTE on font bug fix (see .claude/skills/eat-bible/SKILL.md "Gotchas"):
+% BoldFont=<Family> Bold pointing at a real separate bold font file silently
+% weakens/flattens \textbf{} for CJK text containing full-width punctuation
+% (：。), with zero warnings. Every font declaration below uses
+% BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
+
+% openright (not openany): every chapter opens on a recto (odd) page, the
+% binding convention for a printed book. It costs a handful of blank versos;
+% the copyright page declares this a printed 贈閱版, so print convention wins
+% over saving screen pages. Switch back to openany for a screen-only edition.
+\documentclass[11pt,openright]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+% CJK-safe monospace — never Menlo (zero CJK glyphs, silently renders blank boxes)
+\setmonofont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+
+%% Hebrew (and Greek, for occasional NT cross-references) font support —
+%% auto-switch for Unicode blocks. This book's Word Study sections use
+%% pointed Hebrew (דָּרַשׁ, כָּנַע, כָּבוֹד, etc.), so both fixes below are
+%% load-bearing here, not just in principle.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge — a
+% pure legibility defect that produces zero warnings and a clean driver.sh run.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Latin runs keep Songti SC's own Latin glyphs — no visible change to upright
+% text — but gain a REAL italic. \setmainfont cannot supply one: its
+% ItalicFont is Kaiti SC, a Chinese brush face whose Latin glyphs are UPRIGHT,
+% so every italicised commentary title in this book would otherwise render
+% as roman with zero warnings.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek" is a class GROUP, not a block — the block is GreekAndCoptic. Feeding
+%% a group name (or a name that doesn't exist) to the 3-arg form compiles fine
+%% and does nothing, so basic Greek/Hebrew would silently fall back to
+%% Songti SC's own glyphs.
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a later
+%% declaration's out-code silently overwrites an earlier one's in-code.
+%%
+%% FIX: \setTransitionTo sets the entering direction ONLY, so nothing can
+%% clobber anything and declaration order stops mattering.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which drops
+%% \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block this book actually contains (Hebrew Word Study boxes,
+%% occasional Greek cross-references, CJK body text, full-width punctuation).
+%% Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (used throughout the Word Study sections)
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}[
+  BoldFont=Kaiti SC,
+  BoldFeatures={FakeBold=1.8}
+]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - 2 Chronicles identity: royal purple → glory-gold at the
+%% temple's dedication → ember-ash at its burning, with the door reopened
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterPurple}{RGB}{80,38,92}      % Purple dye used in the temple's
+                                                 % own curtains and furnishings
+                                                 % (2:7,14; 3:14) — also the royal
+                                                 % color of the 21 kings whose
+                                                 % reigns structure the book;
+                                                 % structural: chapter titles,
+                                                 % headers, rules
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared, unchanged)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary (series-shared, unchanged)
+
+% Warm accent — the glory of the LORD filling the temple at its dedication
+% (5:13-14), and the gold overlay of the house itself (3:4-9)
+\definecolor{GloryGold}{RGB}{200,155,60}
+
+% Cool/dark accent — the temple burned and the city laid waste (36:19),
+% the ember-ash of exile before the door reopens (36:22-23)
+\definecolor{EmberAsh}{RGB}{100,52,40}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{HebrewBg}{RGB}{253,247,240}        % Warm cream for Hebrew word studies
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% 2 Chronicles is not a Gospel: there is no "red letter" convention to carry
+% over from Acts's \jesus{} macro. The LORD's words (e.g. 7:12-22, direct
+% speech to Solomon) are set in the ordinary body style, distinguished by
+% heading and context alone, not by a dedicated color macro.
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+% Micro-typography for the Latin/English runs: character protrusion pulls
+% punctuation and light letterforms slightly into the margin so the right edge
+% reads optically straight. expansion=false deliberately — font expansion
+% re-renders glyphs at scaled widths, which xdvipdfmx applies unevenly to the
+% CJK TrueType faces; protrusion alone is the safe half.
+\usepackage[protrusion=true,expansion=false]{microtype}
+
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no". Must load after hyperref.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterPurple,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={歷代志下逐章研讀：從所羅門建殿的榮光到古列詔令的開門，尋求耶和華的21位王},
+  pdfkeywords={歷代志下, 2 Chronicles, 所羅門, 聖殿, 尋求耶和華, 猶大列王, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long 註解 cells from wrapping to a few characters per line.
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+% \cleardoublepage's inserted blank verso must be truly blank.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\setcounter{secnumdepth}{-1}
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterPurple} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterPurple}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% COVER ART PAGE — three concentric zones tracing the book's own
+%% movement: the temple's building and dedication (1-9章) at the center, the
+%% long "seeking" record of 21 kings (10-35章) around it, and the exile and
+%% reopened door (36章) at the rim. Gold-bordered, matching series palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterPurple, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[GloryGold]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterPurple} Three Books Deep Reading \textbullet\ 2 Chronicles}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 歷代志下深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 尋求耶和華的王 \textperiodcentered\ Kings Who Sought the LORD}
+
+\vspace{0.30cm}
+
+% ===== THREE CONCENTRIC ZONES: BUILDING THE TEMPLE / SEEKING (21 KINGS) / EXILE AND THE REOPENED DOOR =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Outer zone — exile and the reopened door (36章)
+  \fill[EmberAsh, opacity=0.16] (0,0.1) circle (1.65);
+  \draw[EmberAsh, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
+  % Middle zone — the long record of seeking, 21 kings (10-35章)
+  \fill[ChapterPurple, opacity=0.14] (0,0.1) circle (1.15);
+  \draw[ChapterPurple, line width=1.0pt, opacity=0.85] (0,0.1) circle (1.15);
+  % Inner zone — the temple built and the glory filling it (1-9章)
+  \fill[GloryGold, opacity=0.22] (0,0.1) circle (0.55);
+  \draw[GloryGold, line width=1.0pt, opacity=0.9] (0,0.1) circle (0.55);
+  \node[font=\tiny,color=GloryGold!70!black] at (0,-0.65) {建殿中};
+  \node[font=\tiny,color=ChapterPurple] at (0,-1.28) {尋求中};
+  \node[font=\tiny,color=EmberAsh]  at (0,-1.9) {歸回中};
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterPurple}\kaiti\selectfont 尋求}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Seek}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 歷代志下研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Book of 2 Chronicles}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterPurple} דָּרַשׁ}\quad
+{\footnotesize\scshape\color{CommentaryBrown} “Darash”}\quad
+{\footnotesize\bfseries\color{EmberAsh} 尋求、尋問}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{EmberAsh}\kaiti\selectfont
+「這稱為我名下的子民，若是自卑、禱告，尋求我的面，轉離他們的惡行，我必從天上垂聽，赦免他們的罪，醫治他們的地。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+“if My people who are called by My name humble themselves and pray and seek My face and turn from their wicked ways, then I will hear from heaven, will forgive their sin and will heal their land.”}\\[0.10em]
+{\scriptsize\color{ChapterPurple} 歷代志下 7:14 \textperiodcentered\ 2 Chronicles 7:14}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on the book's own thesis verse
+%% (7:14), the same role Exodus 40:34-35, Job 42:5-6 and Acts 1:8 play in
+%% the sister volumes.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterPurple} 全書一句話 \textperiodcentered\ The Whole Book in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+這稱為我名下的子民，若是\textbf{\color{GloryGold!80!black}自卑}、禱告、\textbf{\color{GloryGold!80!black}尋求}我的面，轉離他們的惡行，\\
+我必從天上垂聽，赦免他們的罪，醫治他們的地。\\[0.5em]
+\footnotesize\itshape
+if My people who are called by My name humble themselves and pray and
+\textbf{seek} My face and turn from their wicked ways, then I will hear
+from heaven, will forgive their sin and will heal their land.\\[0.4em]
+\small\color{ChapterPurple} 歷代志下 7:14 \textperiodcentered\ 2 Chronicles 7:14
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 三十六章 \textperiodcentered\ 八卷 \textperiodcentered\ 二十一位王 \textperiodcentered\ 一條貫穿全書的線索\\
+\textit{Thirty-six chapters \textperiodcentered\ eight volumes \textperiodcentered\ twenty-one kings \textperiodcentered\ one thread running through}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{@{}p{2.8cm}p{2.2cm}p{7.1cm}@{}}
+\toprule
+\textbf{段落} & \textbf{章節} & \textbf{在全書的展開} \\
+\midrule
+所羅門時代 & 1-9章 & 求智慧、建聖殿、榮光充滿——巔峰 \\
+王國分裂 & 10章 & 羅波安一句決定，統一的王國從此斷裂 \\
+早期猶大王 & 11-20章 & 亞撒、約沙法尋求與倚靠的反覆拉鋸 \\
+中期猶大王 & 21-28章 & 黑暗時期裏約阿施、約坦的幾道微光 \\
+希西家復興 & 29-32章 & 潔淨聖殿、守逾越節、全面宗教改革 \\
+瑪拿西轉折 & 33章 & 極惡之王在急難中悔改，神應允了他 \\
+約西亞復興 & 34-35章 & 律法書出土，點燃最後一次大復興 \\
+末代四王與尾聲 & 36章 & 聖殿被焚，古列的詔令重新打開門 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterPurple} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一部猶大列王的政治興衰史，是來看神如何持守祂與大衛所立的約，並向每一位願意回轉的王守信。\\
+若你讀完三十六章卻只記得「誰打贏了仗、誰建了甚麼工程」——請從頭再讀，\\
+這次留意：全書給每一位王打分數的量尺，只有一句話——他尋求耶和華了嗎？\\[0.5em]
+\textit{\footnotesize
+You are not reading a political history of the kings of Judah — you are
+watching how God keeps His covenant with David, and remains faithful to
+every king who is willing to turn back to Him.\\
+If after thirty-six chapters you remember only who won which battle and
+who built what, read it again.\\
+This time notice the one question by which every king is measured: did he
+seek the LORD?}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterPurple} 尋求}\\[0.2cm]
+{\large\itshape\color{LightGray} Seek}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 歷代志下研讀}\\[0.15cm]
+{\normalsize A Study of the Book of 2 Chronicles}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+你們若順從耶和華，耶和華必與你們同在；你們若尋求他，就必尋見；\\
+你們若離棄他，他必離棄你們。\\[0.15em]
+\footnotesize The LORD is with you when you are with Him. And if you seek
+Him, He will be found by you, but if you forsake Him, He will forsake you.
+— 2 Chronicles 15:2
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Eight-volume structure diagram (TikZ drawn) — the book's own progression
+% from Solomon's temple, through the divided kingdom and the long record of
+% 21 kings, to Hezekiah's and Josiah's revivals, and finally exile met by
+% Cyrus's reopened door.
+% No picture-level `scale`: node sizes are NOT affected by TikZ's `scale` key
+% unless `transform shape` is also given, while node POSITIONS always are —
+% mixing the two without `transform shape` silently compresses the coordinate
+% grid while box borders stay full size. Coordinates below are plain
+% centimetres, sized directly, arranged as two rows of four.
+\begin{tikzpicture}[every node/.style={align=center}]
+  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,3.3) {全書八卷 Eight Volumes, 36 Chapters};
+
+  \node[draw=GloryGold!70!black,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] (v1) at (-3.6,2.55) {卷一 \textperiodcentered\ 所羅門};
+  \node[font=\tiny,color=LightGray] at (-3.6,1.95) {1-9};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] (v2) at (-1.2,2.55) {卷二 \textperiodcentered\ 分裂};
+  \node[font=\tiny,color=LightGray] at (-1.2,1.95) {10};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] (v3) at (1.2,2.55) {卷三 \textperiodcentered\ 早期猶大王};
+  \node[font=\tiny,color=LightGray] at (1.2,1.95) {11-20};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] (v4) at (3.6,2.55) {卷四 \textperiodcentered\ 中期猶大王};
+  \node[font=\tiny,color=LightGray] at (3.6,1.95) {21-28};
+
+  \node[draw=GloryGold!70!black,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] (v5) at (-3.6,0.75) {卷五 \textperiodcentered\ 希西家};
+  \node[font=\tiny,color=LightGray] at (-3.6,0.15) {29-32};
+
+  \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] (v6) at (-1.2,0.75) {卷六 \textperiodcentered\ 瑪拿西};
+  \node[font=\tiny,color=LightGray] at (-1.2,0.15) {33};
+
+  \node[draw=GloryGold!70!black,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] (v7) at (1.2,0.75) {卷七 \textperiodcentered\ 約西亞};
+  \node[font=\tiny,color=LightGray] at (1.2,0.15) {34-35};
+
+  \node[draw=EmberAsh,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] (v8) at (3.6,0.75) {卷八 \textperiodcentered\ 末代與尾聲};
+  \node[font=\tiny,color=LightGray] at (3.6,0.15) {36};
+
+  \draw[->,color=ScriptureGold,thick] (v1.east) -- (v2.west);
+  \draw[->,color=ScriptureGold,thick] (v2.east) -- (v3.west);
+  \draw[->,color=ScriptureGold,thick] (v3.east) -- (v4.west);
+  \draw[->,color=ScriptureGold,thick] (v4.south) -- ++(0,-0.45) -| (v5.north);
+  \draw[->,color=ScriptureGold,thick] (v5.east) -- (v6.west);
+  \draw[->,color=ScriptureGold,thick] (v6.east) -- (v7.west);
+  \draw[->,color=ScriptureGold,thick] (v7.east) -- (v8.west);
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+% Framing quotation (2 Chronicles 33:12-13, Manasseh's repentance — the
+% strongest single proof of the book's own thesis)
+{\footnotesize\color{TextGray} 瑪拿西在急難的時候懇求耶和華，神就應允了他（代下 33:12-13）}
+
+\vfill
+
+% Equation and vine
+{\normalsize\color{ScriptureGold}\bfseries 尋求 $$=$$ 尋見；離棄 $$=$$ 被離棄}\\[0.1cm]
+{\footnotesize\color{LightGray} To seek $$=$$ to find Him; to forsake $$=$$ to be forsaken (2 Chronicles 15:2)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{歷代志下研讀 / 2 Chronicles Deep Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 老弟兄查經法 (Elder Wong's Bible Study Method，方法性應用，非第一手教導)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)，逐章以其相關專題講章為主\\
+\textbullet\ G. Campbell Morgan - Exposition on the Whole Bible\\
+\textbullet\ Matthew Henry - Commentary on the Whole Bible\\
+\textbullet\ 教父時期注疏（僅於確實查得逐字原文時引用，逐條標明出處，可查證）\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\setcounter{tocdepth}{0}
+{\color{ChapterPurple}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% CLOSING PAGE — "從榮耀到灰燼，從灰燼到開門"
+%% This book's own back matter (99-appendix chapters, 999-afterword.md) is
+%% supplied as ordinary markdown chapters via the body variable above; this
+%% page is the series' decorative bookend, not a substitute for that content.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 可以上去}\\[0.1cm]
+{\normalsize\itshape\color{LightGray} Let Him Go Up}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterPurple} 全書八卷 \;\; Eight Volumes}\\[0.3em]
+{\footnotesize\color{TextGray}
+所羅門時代 (1-9) \textbullet\ 王國分裂 (10) \textbullet\ 早期猶大王 (11-20) \textbullet\ 中期猶大王 (21-28)\\
+希西家復興 (29-32) \textbullet\ 瑪拿西轉折 (33) \textbullet\ 約西亞復興 (34-35) \textbullet\ 末代四王與尾聲 (36)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「你們中間凡作他子民的，可以上去，願耶和華他的神與他同在。」}\\[0.15cm]
+{\scriptsize\color{ChapterPurple} — 歷代志下 36:23}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}
