@@ -1,0 +1,930 @@
+% PubHub Leviticus Deep Study Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies
+% Requires XeLaTeX for CJK support
+% Series identity: Scarlet/Blue/Gold palette — the tabernacle's own graduated
+% zones of holiness: the camp and its blood-purified common life (scarlet,
+% Lev 14's cleansing thread), the Holy Place (blue, the veil's own color,
+% Exod 26:31), and the Most Holy Place where the gold-covered mercy seat sits
+% (gold, Lev 16's Day of Atonement). Deliberately distinct from Job's
+% Ash/Storm/Dawn, Isaiah's Throne/Coal, and Acts's Flame/Ember.
+%
+% Base: adapted from templates/pdf/job.latex (2026-09 from-scratch build),
+% itself inheriting the Hebrew-text handling, hyperxmp PDF metadata block, and
+% microtype protrusion settings from templates/pdf/isaiah.latex, and the
+% secnumdepth/tocdepth, chaptermark, and table/quote machinery from
+% templates/pdf/acts.latex's 2026-08-31 editorial pass.
+%
+% NOTE on font bug fix (see .claude/skills/eat-bible/SKILL.md "Gotchas"):
+% BoldFont=<Family> Bold pointing at a real separate bold font file silently
+% weakens/flattens \textbf{} for CJK text containing full-width punctuation
+% (：。), with zero warnings. Every font declaration below uses
+% BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
+
+% openright (not openany): every chapter opens on a recto (odd) page, the
+% binding convention for a printed book. It costs a handful of blank versos;
+% the copyright page declares this a printed 贈閱版, so print convention wins
+% over saving screen pages. Switch back to openany for a screen-only edition.
+\documentclass[11pt,openright]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+% CJK-safe monospace — never Menlo (zero CJK glyphs, silently renders blank boxes)
+\setmonofont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+
+%% Hebrew (and Greek, for occasional NT cross-references — e.g. Hebrews 9-10's
+%% typological reading of the Day of Atonement) font support — auto-switch for
+%% Unicode blocks. Leviticus's Word Study sections use heavy pointed Hebrew
+%% (קָדוֹשׁ, כַּפֹּרֶת, עֲזָאזֵל, יוֹבֵל), so both fixes below are load-bearing here,
+%% not just in principle.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge — a
+% pure legibility defect that produces zero warnings and a clean driver.sh run.
+% Same fix, same reasoning, as templates/pdf/isaiah.latex.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Latin runs keep Songti SC's own Latin glyphs — no visible change to upright
+% text — but gain a REAL italic. \setmainfont cannot supply one: its
+% ItalicFont is Kaiti SC, a Chinese brush face whose Latin glyphs are UPRIGHT,
+% so every italicised commentary title in this book would otherwise render
+% as roman with zero warnings.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek" is a class GROUP, not a block — the block is GreekAndCoptic. Feeding
+%% a group name (or a name that doesn't exist) to the 3-arg form compiles fine
+%% and does nothing, so basic Greek/Hebrew would silently fall back to
+%% Songti SC's own glyphs.
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a later
+%% declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Symptom: a Greek or Hebrew run whose PRECEDING character is CJK or
+%% full-width punctuation (：、。） silently does not switch font.
+%%
+%% FIX: \setTransitionTo sets the entering direction ONLY, so nothing can
+%% clobber anything and declaration order stops mattering.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which drops
+%% \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block this book actually contains (Hebrew Word Study boxes,
+%% occasional Greek cross-references, CJK body text, full-width punctuation).
+%% Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+% LatinExtendedAdditional -> \ucTranslitRun is set further below, near the
+% other transliteration-diacritic fixes; \ucLatinRun (Songti SC) lacks these
+% glyphs entirely, see that comment for why.
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (ḥesed U+1E25 "LatinExtendedAdditional",
+%% tsade ṣ U+1E63 "LatinExtendedAdditional", ʿayin's modifier letter U+02BF
+%% "SpacingModifierLetters") used throughout the Word Study sections.
+%%
+%% THE REAL BUG (found the hard way): ucharclasses' \XeTeXinterchartoks fires
+%% on a character's Unicode class as XeTeX's own primitive lexer processes it,
+%% which is NOT the same thing as, and fires AFTER, ordinary TeX font
+%% selection — so it overrides ANY manual font switch for a block that has a
+%% registered transition, including one from inside an explicit
+%% `{\somefont ...}` group, and even for a character produced indirectly via
+%% \symbol{<codepoint>} rather than typed literally. A \newunicodechar
+%% attempt and a manual `{\translitfont ...}`-wrapping attempt both failed
+%% against this for exactly that reason — there is no overriding
+%% ucharclasses per-character from inside its own mapped blocks. The only
+%% real fix is to make the BLOCK'S OWN mapping point at a font that has the
+%% glyphs. IPAExtensions (used elsewhere in this book's Hebrew vowel-pointing
+%% discussion) already worked fine going to \ucCJKRun and is left alone.
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}[
+  BoldFont=Kaiti SC,
+  BoldFeatures={FakeBold=1.8}
+]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Leviticus identity: camp (scarlet) → Holy Place (blue) →
+%% Most Holy Place (gold) — the tabernacle's own graduated zones of holiness
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors — variable names kept identical to the rest of this series'
+% templates (ChapterAsh / StormTeal / DawnGold) so the structural macros below
+% need no renaming; only the RGB values and their meaning change per book.
+\definecolor{ChapterAsh}{RGB}{125,38,32}        % Scarlet — the blood of the
+                                                 % altar (17:11) and the
+                                                 % "scarlet thread" of the
+                                                 % cleansing rites (14:4) —
+                                                 % structural: chapter titles,
+                                                 % headers, rules
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared, unchanged)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary (series-shared, unchanged)
+
+% Cool accent — the Holy Place, veiled off by the blue-purple-scarlet curtain
+% (Exod 26:31), the space the ordinary priest enters daily
+\definecolor{StormTeal}{RGB}{35,70,110}
+
+% Warm accent — the Most Holy Place, where the gold-covered ark and mercy
+% seat (כַּפֹּרֶת) sit, entered only once a year, only by the high priest (16章)
+\definecolor{DawnGold}{RGB}{190,150,60}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{HebrewBg}{RGB}{253,247,240}        % Warm cream for Hebrew word studies
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Leviticus is not a Gospel: there is no "red letter" convention to carry
+% over from Acts's \jesus{} macro. The LORD's words to Moses (which is most
+% of the book) are set in the ordinary body style, distinguished by heading
+% and context alone, not by a dedicated color macro.
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+% Micro-typography for the Latin/English runs: character protrusion pulls
+% punctuation and light letterforms slightly into the margin so the right edge
+% reads optically straight. expansion=false deliberately — font expansion
+% re-renders glyphs at scaled widths, which xdvipdfmx applies unevenly to the
+% CJK TrueType faces; protrusion alone is the safe half and is where most of
+% the visible gain is. Same setting as templates/pdf/isaiah.latex, verified
+% against this exact font stack (Songti SC + FakeBold + Times New Roman Hebrew).
+\usepackage[protrusion=true,expansion=false]{microtype}
+
+%% Page-referenced Scripture index. Loaded before hyperref's own setup below
+%% so index page numbers become links too. `intoc` puts the index in the TOC.
+\usepackage{imakeidx}
+\makeindex[name=scripture,
+           title={經文索引 (Scripture Index)},
+           columns=2,
+           intoc]
+
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterAsh,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={利未記逐章研讀：從獻祭的條例到贖罪日的樞紐，從潔淨到聖潔的生活},
+  pdfkeywords={利未記, Leviticus, 聖潔, 贖罪日, 祭司, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long 註解 cells from wrapping to a few characters per line (same fix as
+% templates/pdf/isaiah.latex and templates/pdf/gospel-of-luke.latex).
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+% \cleardoublepage's inserted blank verso must be truly blank. fancyhdr's
+% \pagestyle{fancy} otherwise prints the folio on it, so an openright blank
+% came out bearing a lone page number — the one thing a blank leaf must not
+% carry. Same patch as templates/pdf/isaiah.latex.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+% Clean running heads: raw chapter/section title only, no "Chapter N." auto-label.
+% Kept in parity with templates/pdf/acts.latex's 2026-08-31 pass: secnumdepth
+% is set here (in the preamble, alongside the chapter styling it governs);
+% tocdepth is set later, immediately before \tableofcontents — see that block
+% below for why the split placement matters.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\setcounter{secnumdepth}{-1}
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterAsh} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterAsh} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+% Starred chapters (\chapter*, which is what pandoc emits for a heading marked
+% {.unnumbered}) do NOT call \chaptermark. Without the \markboth below, every
+% unnumbered chapter inherits whatever mark was last set: the preface,
+% orientation chapters, systematic-reception chapter and all six volume
+% dividers ran under the head "Contents" (left over from \tableofcontents),
+% and the afterword ran under 「許願與估值」, the last numbered chapter.
+% That is ~45 pages carrying the wrong running head, and it raises nothing —
+% no lint, no LaTeX warning, no driver check. Only looking at the PDF finds it.
+\def\@makeschapterhead#1{%
+  \markboth{#1}{#1}%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterAsh} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterAsh}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% COVER ART PAGE — three concentric zones tracing the book's own
+%% movement: the ash heap (2:8) at the center, the whirlwind (38:1)
+%% around it, the dawn of restoration (42章) at the rim. Gold-bordered,
+%% matching series palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterAsh, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[DawnGold]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterAsh} Three Books Deep Reading \textbullet\ Leviticus}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 利未記深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 從聖潔到同住 \textperiodcentered\ From Holiness to Dwelling Together}
+
+\vspace{0.30cm}
+
+% ===== THREE CONCENTRIC ZONES: THE CAMP / THE HOLY PLACE / THE MOST HOLY PLACE =====
+% Spatial, not narrative: the tabernacle's own graduated zones of access
+% (10:10's "distinction between the holy and the common, the unclean and
+% the clean"), from the widest and most accessible (the camp) to the
+% narrowest and most restricted (the Most Holy Place, entered once a year
+% by one man alone, 16章).
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Outer zone — the camp, common life needing the blood applied to it
+  \fill[ChapterAsh, opacity=0.16] (0,0.1) circle (1.65);
+  \draw[ChapterAsh, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
+  % Middle zone — the Holy Place, the priests' daily service
+  \fill[StormTeal, opacity=0.14] (0,0.1) circle (1.15);
+  \draw[StormTeal, line width=1.0pt, opacity=0.85] (0,0.1) circle (1.15);
+  % Inner zone — the Most Holy Place, the mercy seat (16章)
+  \fill[DawnGold, opacity=0.22] (0,0.1) circle (0.55);
+  \draw[DawnGold, line width=1.0pt, opacity=0.9] (0,0.1) circle (0.55);
+  % Each label sits just below the ring it names: innermost circle = the Most
+  % Holy Place (gold), middle = the Holy Place (blue), outer = the camp (scarlet).
+  \node[font=\tiny,color=DawnGold!70!black] at (0,-0.65) {至聖所中};
+  \node[font=\tiny,color=StormTeal]         at (0,-1.28) {聖所中};
+  \node[font=\tiny,color=ChapterAsh]        at (0,-1.9)  {營中};
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterAsh}\kaiti\selectfont 聖}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Holy}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 利未記研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Book of Leviticus}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterAsh} קָדוֹשׁ}\quad
+{\footnotesize\scshape\color{CommentaryBrown} “qadosh”}\quad
+{\footnotesize\bfseries\color{StormTeal} 聖潔}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{StormTeal}\kaiti\selectfont
+「你們要聖潔，因為我耶和華——你們的神是聖潔的。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+“You shall be holy, for I the LORD your God am holy.”}\\[0.10em]
+{\scriptsize\color{ChapterAsh} 利未記 19:2 \textperiodcentered\ Leviticus 19:2}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on Leviticus's own resolution
+%% verse (26:11-12), the same role Job 42:5-6, Acts 1:8 and Isaiah 12:2-3
+%% play in the sister volumes.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterAsh} 全書一句話 \textperiodcentered\ The Whole Book in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+我要在你們中間立我的\textbf{\color{DawnGold!80!black}帳幕}；我的心也不厭惡你們。\\
+我要在你們中間\textbf{\color{DawnGold!80!black}行走}；我要作你們的神，你們要作我的子民。\\[0.5em]
+\footnotesize\itshape
+I will make My \textbf{dwelling} among you, and My soul will not reject you.\\
+I will also \textbf{walk} among you and be your God, and you shall be My people.\\[0.4em]
+\small\color{ChapterAsh} 利未記 26:11-12 \textperiodcentered\ Leviticus 26:11-12
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 二十七章 \textperiodcentered\ 六卷 \textperiodcentered\ 一句神要在百姓中間行走的應許\\
+\textit{Twenty-seven chapters \textperiodcentered\ six volumes \textperiodcentered\ one promise that God will walk among His people}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{2.8cm}p{2.4cm}p{6.9cm}@{}}
+\toprule
+\textbf{段落} & \textbf{章節} & \textbf{在全書的展開} \\
+\midrule
+如何親近神 & 1-10章 & 五種獻祭的條例，及蒙揀選、按著神所吩咐受按立的祭司——親近神需要代價，也需要神所定的中保 \\
+甚麼隔開人與神 & 11-15章 & 食物、生育、疾病、漏症的潔淨條例——不潔淨多與死亡、敗壞相連 \\
+隔閡如何被除去 & 16章 & 大祭司一年一次，帶著血獨自進入至聖所——全書結構的樞紐 \\
+蒙贖之後如何生活 & 17-27章 & 聖潔典章鋪陳生活的每一層面，末了收束於「我要在你們中間行走」的應許 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterAsh} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一份過時的規條清單，是來看一位聖潔的神，如何一步步預備一條路，使不潔的百姓能夠安全地與祂同住。\\
+若你讀完二十七章卻只記得「一堆難懂的律例」——請從頭再讀，\\
+這次留意：每一條律例最終指向的，不是規條本身，是那位「道成肉身住在我們中間」的基督。\\[0.5em]
+\textit{\footnotesize
+You are not reading an outdated list of regulations — you are watching a holy
+God prepare, step by step, a way for an unclean people to dwell with Him
+safely.\\
+If after twenty-seven chapters you remember only "a pile of hard-to-follow
+rules," read it again.\\
+This time notice: every regulation points beyond itself to the Christ who
+"became flesh and dwelt among us."}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterAsh} 聖}\\[0.2cm]
+{\large\itshape\color{LightGray} Holy}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 利未記研讀}\\[0.15cm]
+{\normalsize A Study of the Book of Leviticus}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+你們要聖潔，因為我耶和華——你們的神是聖潔的。\\
+我要在你們中間行走；我要作你們的神，你們要作我的子民。\\[0.15em]
+\footnotesize You shall be holy, for I the LORD your God am holy (19:2);\\
+I will also walk among you and be your God (26:12). — Leviticus 19:2; 26:12
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Six-volume structure diagram (TikZ drawn) — the book's own progression
+% from the laws of offering, through the priesthood and purity laws, to the
+% Day of Atonement at the center, out into the Holiness Code and its closing
+% appendix on vows.
+% No picture-level `scale`: node sizes (minimum width/height) are NOT affected
+% by TikZ's `scale` key unless `transform shape` is also given, while node
+% POSITIONS always are — mixing the two without `transform shape` silently
+% compresses the coordinate grid while the box borders stay full size, so
+% boxes spaced correctly on paper collide and clip their own text with zero
+% warning. Coordinates below are plain centimetres instead, sized directly.
+\begin{tikzpicture}[every node/.style={align=center}]
+  \node[font=\footnotesize\bfseries,color=ChapterAsh] at (0,2.9) {全書六卷 Six Volumes, 27 Chapters};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v1) at (-3.825,2.2) {卷一 \textperiodcentered\ 獻祭條例};
+  \node[font=\tiny,color=LightGray] at (-3.825,1.55) {1-7};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v2) at (-1.275,2.2) {卷二 \textperiodcentered\ 祭司設立};
+  \node[font=\tiny,color=LightGray] at (-1.275,1.55) {8-10};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v3) at (1.275,2.2) {卷三 \textperiodcentered\ 潔淨條例};
+  \node[font=\tiny,color=LightGray] at (1.275,1.55) {11-15};
+
+  \node[draw=DawnGold!70!black,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v4) at (3.825,2.2) {卷四 \textperiodcentered\ 贖罪日};
+  % offset left of centre: the v4->v5 connector descends from (v4.south),
+  % which would otherwise run straight through this label
+  \node[font=\tiny,color=LightGray] at (3.30,1.55) {16};
+
+  \node[draw=StormTeal,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=0.7cm,font=\tiny] (v5) at (-1.1,0.5) {卷五 \textperiodcentered\ 聖潔典章};
+  \node[font=\tiny,color=LightGray] at (-1.1,-0.15) {17-26};
+
+  \node[draw=StormTeal,fill=ScriptureBg,rounded corners,minimum width=2.3cm,minimum height=0.7cm,font=\tiny] (v6) at (2.55,0.5) {卷六 \textperiodcentered\ 許願估值};
+  \node[font=\tiny,color=LightGray] at (2.55,-0.15) {27};
+
+  \draw[->,color=ScriptureGold,thick] (v1.east) -- (v2.west);
+  \draw[->,color=ScriptureGold,thick] (v2.east) -- (v3.west);
+  \draw[->,color=ScriptureGold,thick] (v3.east) -- (v4.west);
+  \draw[->,color=ScriptureGold,thick] (v4.south) -- ++(0,-0.5) -| (v5.north);
+  \draw[->,color=ScriptureGold,thick] (v5.east) -- (v6.west);
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+% Framing quotation (Lev 1:1, the book's opening scene)
+{\footnotesize\color{TextGray} 耶和華從會幕中呼叫摩西，對他說……（利 1:1）}
+
+\vfill
+
+% Equation and vine
+{\normalsize\color{ScriptureGold}\bfseries 聖潔 $$\neq$$ 冰冷的規條；蒙贖 $$\rightarrow$$ 得以與神同住}\\[0.1cm]
+{\footnotesize\color{LightGray} Holiness $$\neq$$ cold regulation; atonement $$\rightarrow$$ dwelling safely with God (Lev 16, 26)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{利未記研讀 / Leviticus Deep Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 老弟兄查經法 (Elder Wong's Bible Study Method, 方法性應用)\\
+\textbullet\ Andrew Bonar - A Commentary on Leviticus (1846)\\
+\textbullet\ Matthew Henry - Commentary on the Whole Bible, Leviticus\\
+\textbullet\ John MacArthur - Grace To You (gty.org), 機會性引用\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\setcounter{tocdepth}{0}
+{\color{ChapterAsh}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% PAGE-REFERENCED SCRIPTURE INDEX
+%% A study volume is a reference work: a reader must be able to look up a
+%% verse and get a page. The chapter-level index in the appendix says which
+%% CHAPTER treats a passage; this one says which PAGE mentions it.
+%% Entries are injected into the combined markdown by
+%% scripts/lib/scripture-index.py, which the build script runs — see there
+%% for the reference grammar and the numeric sort keys (makeindex sorts
+%% bytes, so CJK book names are sorted by a numeric canonical-order key
+%% rather than by their characters).
+%% ============================================
+\printindex[scripture]
+\cleardoublepage
+
+%% ============================================
+%% CLOSING PAGE — "從聖潔到同住"
+%% Leviticus's own back matter (99-appendix-references.md, 999-afterword.md)
+%% is supplied as ordinary markdown chapters via the body variable above;
+%% this page is the series' decorative bookend (matching Job's, Acts's and
+%% Isaiah's own closing pages), not a substitute for that content.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 從聖潔到同住}\\[0.1cm]
+{\normalsize\itshape\color{LightGray} From Holiness to Dwelling Together}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterAsh} 全書六卷 \;\; Six Volumes}\\[0.3em]
+{\footnotesize\color{TextGray}
+獻祭的條例 (1-7) \textbullet\ 祭司的設立 (8-10) \textbullet\ 潔淨的條例 (11-15)\\
+贖罪日 (16) \textbullet\ 聖潔典章 (17-26) \textbullet\ 許願與估值 (27)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「我要在你們中間行走；我要作你們的神，你們要作我的子民。」}\\[0.15cm]
+{\scriptsize\color{ChapterAsh} — 利未記 26:12}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}
