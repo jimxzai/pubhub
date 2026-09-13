@@ -1,0 +1,914 @@
+% PubHub Proverbs Deep Study Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies
+% Requires XeLaTeX for CJK support
+% Series identity: Amber/Voice/Noon palette, keyed to the book's own two-path
+% verse — "義人的路，好像黎明的光，越照越明，直到日午；惡人的道好像幽暗，
+% 自己不知因甚麼跌倒" (4:18-19). WisdomAmber is the root (敬畏耶和華，1:7,
+% the book's opening axis); CallVoice is Wisdom's own public cry (1:20-21,
+% 8:1-3 — she stands in the street and calls, the structural counterpart to
+% Job's voice from the whirlwind); NoonGold is the light grown to full day
+% (31章, where the fear of the LORD is no longer abstract but lived out hour
+% by hour in an ordinary household). Deliberately distinct from Job's
+% Ash/Storm/Dawn, Isaiah's Throne/Coal, and Acts's Flame/Ember.
+%
+% Base: adapted from templates/pdf/job.latex (2026-09-05 Job volume), itself
+% built on templates/pdf/acts.latex (secnumdepth/tocdepth, chaptermark
+% without an English "Chapter N." prefix, table/quote machinery) with the
+% Hebrew-text handling, hyperxmp PDF metadata block, and microtype protrusion
+% settings from templates/pdf/isaiah.latex, whose Word Study sections are the
+% closest precedent for this book's own heavy Hebrew use.
+%
+% NOTE on font bug fix (see .claude/skills/eat-bible/SKILL.md "Gotchas"):
+% BoldFont=<Family> Bold pointing at a real separate bold font file silently
+% weakens/flattens \textbf{} for CJK text containing full-width punctuation
+% (：。), with zero warnings. Every font declaration below uses
+% BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
+
+% openright (not openany): every chapter opens on a recto (odd) page, the
+% binding convention for a printed book. It costs a handful of blank versos;
+% the copyright page declares this a printed 贈閱版, so print convention wins
+% over saving screen pages. Switch back to openany for a screen-only edition.
+\documentclass[11pt,openright]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+% CJK-safe monospace — never Menlo (zero CJK glyphs, silently renders blank boxes)
+\setmonofont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+
+%% Hebrew (and Greek, for occasional NT cross-references — e.g. 1 Corinthians
+%% 1:24, 30's "Christ the wisdom of God") font support — auto-switch for
+%% Unicode blocks. Proverbs' Word Study sections use heavy pointed Hebrew
+%% (חָכְמָה, יִרְאַת יְהוָה, מָשָׁל), so both fixes below are load-bearing here,
+%% not just in principle.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge — a
+% pure legibility defect that produces zero warnings and a clean driver.sh run.
+% Same fix, same reasoning, as templates/pdf/isaiah.latex.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Latin runs keep Songti SC's own Latin glyphs — no visible change to upright
+% text — but gain a REAL italic. \setmainfont cannot supply one: its
+% ItalicFont is Kaiti SC, a Chinese brush face whose Latin glyphs are UPRIGHT,
+% so every italicised commentary title in this book would otherwise render
+% as roman with zero warnings.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek" is a class GROUP, not a block — the block is GreekAndCoptic. Feeding
+%% a group name (or a name that doesn't exist) to the 3-arg form compiles fine
+%% and does nothing, so basic Greek/Hebrew would silently fall back to
+%% Songti SC's own glyphs.
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a later
+%% declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Symptom: a Greek or Hebrew run whose PRECEDING character is CJK or
+%% full-width punctuation (：、。） silently does not switch font.
+%%
+%% FIX: \setTransitionTo sets the entering direction ONLY, so nothing can
+%% clobber anything and declaration order stops mattering.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which drops
+%% \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block this book actually contains (Hebrew Word Study boxes,
+%% occasional Greek cross-references, CJK body text, full-width punctuation).
+%% Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+% LatinExtendedAdditional -> \ucTranslitRun is set further below, near the
+% other transliteration-diacritic fixes; \ucLatinRun (Songti SC) lacks these
+% glyphs entirely, see that comment for why.
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (ḥesed U+1E25 "LatinExtendedAdditional",
+%% tsade ṣ U+1E63 "LatinExtendedAdditional", ʿayin's modifier letter U+02BF
+%% "SpacingModifierLetters") used throughout the Word Study sections.
+%%
+%% THE REAL BUG (found the hard way): ucharclasses' \XeTeXinterchartoks fires
+%% on a character's Unicode class as XeTeX's own primitive lexer processes it,
+%% which is NOT the same thing as, and fires AFTER, ordinary TeX font
+%% selection — so it overrides ANY manual font switch for a block that has a
+%% registered transition, including one from inside an explicit
+%% `{\somefont ...}` group, and even for a character produced indirectly via
+%% \symbol{<codepoint>} rather than typed literally. A \newunicodechar
+%% attempt and a manual `{\translitfont ...}`-wrapping attempt both failed
+%% against this for exactly that reason — there is no overriding
+%% ucharclasses per-character from inside its own mapped blocks. The only
+%% real fix is to make the BLOCK'S OWN mapping point at a font that has the
+%% glyphs. IPAExtensions (used elsewhere in this book's Hebrew vowel-pointing
+%% discussion) already worked fine going to \ucCJKRun and is left alone.
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}[
+  BoldFont=Kaiti SC,
+  BoldFeatures={FakeBold=1.8}
+]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Proverbs identity: the root (敬畏耶和華，1:7) → Wisdom's
+%% public voice (1:20-21, 8:1-3) → the light grown to full day (4:18, 31章)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterAsh}{RGB}{120,80,30}        % WisdomAmber — the root: 「敬畏
+                                                 % 耶和華是知識的開端」(1:7), the
+                                                 % axis the whole book stands on
+                                                 % — replaces Job's ChapterAsh /
+                                                 % Acts's ChapterFlame / Isaiah's
+                                                 % ThroneCrimson everywhere
+                                                 % structural: chapter titles,
+                                                 % headers, rules. (Macro name
+                                                 % \ChapterAsh kept unchanged so
+                                                 % the styling code below, copied
+                                                 % from job.latex, needs no
+                                                 % further edits.)
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared, unchanged)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary (series-shared, unchanged)
+
+% Cool accent — Wisdom's own public voice: 「智慧在街市上呼喊」(1:20)，
+% 「智慧豈不呼叫」(8:1) — she stands at the gate and calls, the structural
+% counterpart to Job's voice from the whirlwind (macro name \StormTeal kept)
+\definecolor{StormTeal}{RGB}{35,90,110}
+
+% Warm accent — the light grown to full day: 「義人的路，好像黎明的光，
+% 越照越明，直到日午」(4:18) — the fear of the LORD, abstract at 1:7, is fully
+% embodied by 31章 (macro name \DawnGold kept)
+\definecolor{DawnGold}{RGB}{225,170,60}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{HebrewBg}{RGB}{253,247,240}        % Warm cream for Hebrew word studies
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Proverbs is not a Gospel: there is no "red letter" convention to carry over
+% from Acts's \jesus{} macro. Wisdom's own speeches (1章, 8章, 9章) are set in
+% the ordinary body style, distinguished by heading and context alone, not by
+% a dedicated color macro.
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+% Micro-typography for the Latin/English runs: character protrusion pulls
+% punctuation and light letterforms slightly into the margin so the right edge
+% reads optically straight. expansion=false deliberately — font expansion
+% re-renders glyphs at scaled widths, which xdvipdfmx applies unevenly to the
+% CJK TrueType faces; protrusion alone is the safe half and is where most of
+% the visible gain is. Same setting as templates/pdf/isaiah.latex, verified
+% against this exact font stack (Songti SC + FakeBold + Times New Roman Hebrew).
+\usepackage[protrusion=true,expansion=false]{microtype}
+
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterAsh,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={箴言逐章研讀：敬畏耶和華是智慧的起頭，義人的路好像黎明的光，越照越明，直到日午},
+  pdfkeywords={箴言, Proverbs, 智慧, 敬畏耶和華, 兩條路, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long 註解 cells from wrapping to a few characters per line (same fix as
+% templates/pdf/isaiah.latex and templates/pdf/gospel-of-luke.latex).
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+% \cleardoublepage's inserted blank verso must be truly blank. fancyhdr's
+% \pagestyle{fancy} otherwise prints the folio on it, so an openright blank
+% came out bearing a lone page number — the one thing a blank leaf must not
+% carry. Same patch as templates/pdf/isaiah.latex.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+% Clean running heads: raw chapter/section title only, no "Chapter N." auto-label.
+% Kept in parity with templates/pdf/acts.latex's 2026-08-31 pass: secnumdepth
+% is set here (in the preamble, alongside the chapter styling it governs);
+% tocdepth is set later, immediately before \tableofcontents — see that block
+% below for why the split placement matters.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\setcounter{secnumdepth}{-1}
+
+% \chapter* never calls \chaptermark, so every unnumbered heading inherits the
+% running head of whatever set the mark last. In this book that is most of the
+% front and back matter: the preface, the four orientation chapters, the seven
+% volume dividers, the afterword and the appendices. Before this patch the
+% bibliography and both indices ran under the head 「結局：復興與加倍」 — the
+% title of chapter 31 — and the orientation chapters ran under 「Contents」,
+% left behind by \tableofcontents, which sets the mark and is followed by
+% nothing that resets it. Neither shows up in any log: the pages compose
+% perfectly, they are just labelled with the wrong chapter.
+\makeatletter
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+\makeatother
+
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterAsh} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterAsh} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterAsh} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterAsh}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% COVER ART PAGE — three concentric zones tracing the book's own
+%% movement: the root (敬畏耶和華，1:7) at the center, Wisdom's public
+%% voice (1:20-21, 8:1-3) around it, the light grown to full day
+%% (4:18, 31章) at the rim. Gold-bordered, matching series palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterAsh, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[DawnGold]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterAsh} Three Books Deep Reading \textbullet\ Proverbs}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 箴言深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 越照越明，直到日午 \textperiodcentered\ Brighter unto the Perfect Day}
+
+\vspace{0.30cm}
+
+% ===== THREE CONCENTRIC ZONES: ROOT / WISDOM'S VOICE / NOON LIGHT =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Outer zone — the light grown to full day (4:18, 31章)
+  \fill[DawnGold, opacity=0.16] (0,0.1) circle (1.65);
+  \draw[DawnGold, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
+  % Middle zone — Wisdom's public voice (1:20-21, 8:1-3)
+  \fill[StormTeal, opacity=0.14] (0,0.1) circle (1.15);
+  \draw[StormTeal, line width=1.0pt, opacity=0.85] (0,0.1) circle (1.15);
+  % Inner zone — the root: fear of the LORD (1:7)
+  \fill[ChapterAsh, opacity=0.22] (0,0.1) circle (0.55);
+  \draw[ChapterAsh, line width=1.0pt, opacity=0.9] (0,0.1) circle (0.55);
+  \node[font=\tiny,color=ChapterAsh] at (0,-0.65) {敬畏耶和華};
+  \node[font=\tiny,color=StormTeal] at (0,-1.28) {智慧的呼喚};
+  \node[font=\tiny,color=DawnGold!70!black]  at (0,-1.9) {日午之光};
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterAsh}\kaiti\selectfont 晨光}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Dawn Light}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 箴言研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Book of Proverbs}
+
+\vspace{0.24cm}
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterAsh} יִרְאַת יְהוָה}\quad
+{\footnotesize\scshape\color{CommentaryBrown} “yir'at YHWH”}\quad
+{\footnotesize\bfseries\color{StormTeal} 敬畏耶和華}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{StormTeal}\kaiti\selectfont
+「敬畏耶和華是知識的開端；愚妄人藐視智慧和訓誨。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+“The fear of the LORD is the beginning of knowledge; fools despise wisdom and instruction.”}\\[0.10em]
+{\scriptsize\color{ChapterAsh} 箴言 1:7 \textperiodcentered\ Proverbs 1:7}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on Proverbs' own inclusio,
+%% 1:7 and 31:30, the same role Job 42:5-6, Acts 1:8 and Isaiah 12:2-3
+%% play in the sister volumes.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterAsh} 全書一句話 \textperiodcentered\ The Whole Book in One Frame}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+\textbf{\color{DawnGold!80!black}敬畏耶和華}是知識的開端；愚妄人藐視智慧和訓誨。\\
+\footnotesize\itshape The fear of the LORD is the beginning of knowledge — 1:7\\[0.6em]
+\normalsize\upshape
+惟\textbf{\color{DawnGold!80!black}敬畏耶和華}的婦女必得稱讚。\\
+\footnotesize\itshape A woman who fears the LORD, she shall be praised — 31:30\\[0.4em]
+\small\color{ChapterAsh} 箴言 1:7、31:30 \textperiodcentered\ Proverbs 1:7, 31:30
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 三十一章 \textperiodcentered\ 五卷 \textperiodcentered\ 首尾同一句話\\
+\textit{Thirty-one chapters \textperiodcentered\ five collections \textperiodcentered\ one phrase, first and last}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{2.8cm}p{2.4cm}p{6.9cm}@{}}
+\toprule
+\textbf{段落} & \textbf{章節} & \textbf{在全書的展開} \\
+\midrule
+智慧的呼喚 & 1-9章 & 父對子的長篇勸勉，智慧位格化為街市上呼喊的女子，自稱在創造之先已與神同在（8:22-31） \\
+所羅門的箴言（一） & 10-22:16章 & 三百七十五對句，義人與惡人、智慧與愚昧的鮮明對比，鋪滿生活的每一面 \\
+智慧人的言語 & 22:17-24:34章 & 「我兒」式的具體訓誨，另附智慧人的補充言語 \\
+希西家人所輯所羅門箴言 & 25-29章 & 希西家的人所謄錄的第二批所羅門箴言，多用比擬手法 \\
+亞古珥與利慕伊勒 & 30-31章 & 亞古珥的謙卑禱告，利慕伊勒王母的教訓，終於才德婦人一天的作息 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterAsh} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一本格言小語錄，是來看智慧如何從一個抽象的呼喚，一步步走成具體的、
+一天二十四小時的生活。\\
+全書開頭與結尾用同一句話扣住——「敬畏耶和華」；中間三十章要回答的只有一個
+問題：這句話落在吃飯、說話、理財、教養兒女、治家上，是甚麼樣子？\\[0.5em]
+\textit{\footnotesize
+You are not reading a book of clever sayings — you are watching wisdom move,
+step by step, from an abstract call into a concrete, hour-by-hour life.\\
+The book opens and closes on the same phrase — "the fear of the LORD." The
+thirty chapters in between answer one question: what does that phrase look
+like at the dinner table, in speech, in money, in raising children, in
+running a household?}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterAsh} 晨光}\\[0.2cm]
+{\large\itshape\color{LightGray} Dawn Light}
+
+\vspace{0.6cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 箴言研讀}\\[0.15cm]
+{\normalsize A Study of the Book of Proverbs}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+義人的路，好像黎明的光，越照越明，直到日午。\\
+惡人的道，好像幽暗，自己不知因甚麼跌倒。\\[0.15em]
+\footnotesize The path of the righteous is like the light of dawn, that shines
+brighter and brighter until full day.\\
+The way of the wicked is like darkness; they do not know over what they stumble.
+— Proverbs 4:18-19
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Five-collection structure diagram (TikZ drawn) — the book's own progression
+% from Wisdom's public call, through two Solomonic collections and the sayings
+% of the wise, to Agur, Lemuel and the excellent wife.
+% No picture-level `scale`: node sizes (minimum width/height) are NOT affected
+% by TikZ's `scale` key unless `transform shape` is also given, while node
+% POSITIONS always are — mixing the two without `transform shape` silently
+% compresses the coordinate grid while the box borders stay full size, so
+% boxes spaced correctly on paper collide and clip their own text with zero
+% warning. Coordinates below are plain centimetres instead, sized directly.
+\begin{tikzpicture}[every node/.style={align=center}]
+  \node[font=\footnotesize\bfseries,color=ChapterAsh] at (0,2.9) {全書五卷 Five Collections, 31 Chapters};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.6cm,minimum height=0.7cm,font=\tiny] (v1) at (-4.3,2.2) {卷一 \textperiodcentered\ 智慧的呼喚};
+  \node[font=\tiny,color=LightGray] at (-4.3,1.55) {1-9};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.6cm,minimum height=0.7cm,font=\tiny] (v2) at (-1.4,2.2) {卷二 \textperiodcentered\ 所羅門箴言（一）};
+  \node[font=\tiny,color=LightGray] at (-1.4,1.55) {10-22:16};
+
+  \node[draw=ChapterAsh,fill=ScriptureBg,rounded corners,minimum width=2.6cm,minimum height=0.7cm,font=\tiny] (v3) at (1.5,2.2) {卷三 \textperiodcentered\ 智慧人的言語};
+  \node[font=\tiny,color=LightGray] at (1.5,1.55) {22:17-24};
+
+  \node[draw=StormTeal,fill=ScriptureBg,rounded corners,minimum width=2.6cm,minimum height=0.7cm,font=\tiny] (v4) at (4.3,2.2) {卷四 \textperiodcentered\ 希西家人所輯};
+  \node[font=\tiny,color=LightGray] at (4.3,1.55) {25-29};
+
+  \node[draw=DawnGold!70!black,fill=ScriptureBg,rounded corners,minimum width=2.6cm,minimum height=0.7cm,font=\tiny] (v5) at (0,0.5) {卷五 \textperiodcentered\ 亞古珥、利慕伊勒與才德婦人};
+  \node[font=\tiny,color=LightGray] at (0,-0.15) {30-31};
+
+  \draw[->,color=ScriptureGold,thick] (v1.east) -- (v2.west);
+  \draw[->,color=ScriptureGold,thick] (v2.east) -- (v3.west);
+  \draw[->,color=ScriptureGold,thick] (v3.east) -- (v4.west);
+  \draw[->,color=ScriptureGold,thick] (v4.south) -- ++(0,-0.4) -| (v5.north);
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+% Framing quotation (Proverbs 1:7, the book's opening thesis)
+{\footnotesize\color{TextGray} 敬畏耶和華是知識的開端；愚妄人藐視智慧和訓誨（箴 1:7）}
+
+\vfill
+
+% Equation and vine
+{\normalsize\color{ScriptureGold}\bfseries 智慧 $$\neq$$ 知識的多寡；敬畏耶和華 $$=$$ 智慧的起頭，也是它的終點}\\[0.1cm]
+{\footnotesize\color{LightGray} Wisdom $$\neq$$ the sum of what one knows; the fear of the LORD $$=$$ wisdom's
+beginning and its end (Proverbs 1:7, 31:30)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{箴言研讀 / Proverbs Deep Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 老弟兄查經法 (Elder Wong's Bible Study Method)\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ Charles Bridges - An Exposition of the Book of Proverbs (1847)\\
+\textbullet\ Matthew Henry - Commentary on the Whole Bible\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\setcounter{tocdepth}{0}
+{\color{ChapterAsh}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% CLOSING PAGE — "越照越明，直到日午"
+%% Proverbs' own back matter (99-fear-of-the-lord.md, 999-afterword.md) is
+%% supplied as ordinary markdown chapters via the body variable above; this
+%% page is the series' decorative bookend (matching Job's, Acts's and
+%% Isaiah's own closing pages), not a substitute for that content.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 越照越明，直到日午}\\[0.1cm]
+{\normalsize\itshape\color{LightGray} Brighter unto the Perfect Day}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterAsh} 全書五卷 \;\; Five Collections}\\[0.3em]
+{\footnotesize\color{TextGray}
+智慧的呼喚 (1-9) \textbullet\ 所羅門的箴言（一）(10-22:16) \textbullet\ 智慧人的言語 (22:17-24)\\
+希西家人所輯所羅門箴言 (25-29) \textbullet\ 亞古珥、利慕伊勒與才德婦人 (30-31)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「惟敬畏耶和華的婦女必得稱讚。」}\\[0.15cm]
+{\scriptsize\color{ChapterAsh} — 箴言 31:30}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}
