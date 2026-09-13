@@ -114,9 +114,9 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 從雅各的咒詛到摩西的祝福——利未支派的翻轉
+### 1. 利未：咒詛沒有撤回，卻被改派了用途
 
-利未在創49章因暴行受咒詛分散，在申33章卻因忠心蒙揀選事奉。**神的咒詛不是不能翻轉的宿命；一次忠心的抉擇，可以扭轉一個家族世代的軌跡。**
+創49:7咒詛利未「散住在以色列地中」，申33:10卻把教導派給他：「將你的典章教訓雅各……」。**咒詛一個字也沒有撤回——利未仍舊散住在各支派中間，分散卻改派了用途：成了律法送到各支派門口的路。**
 
 ### 2. 猶大祝福之簡短——應許尚未到達終點
 
@@ -126,9 +126,9 @@ publisher: 三書精讀出版系統
 
 「乘在天空，顯其威榮」與「膀臂在你以下」在同一段落並列。**真正認識神的超越，不會使人覺得祂遙不可及；反而使人更加確信，那位掌管諸天的神，正是俯身托住你的那一位。**
 
-### 4. 33:27永久的膀臂——出於神自己的懷抱，不是自己的力量
+### 4. 「居所」——摩西把沒分到的產業說成一位神
 
-「居所」與「膀臂」都是被動的意象——百姓不是自己站立，而是被神托住、被神安置。**信心的安全感，不在於自己抓得多緊，而在於自己被誰托住。**
+33:28說以色列「安然居住」在五穀新酒之地；33:27說真正的居所（מָעוֹן）不是那地，是「永生的神」——同一個字摩西在詩90:1也用過。**說這話的人，自己一寸迦南地也沒有分到。**
 
 ---
 
@@ -175,13 +175,13 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *Commentary on the Whole Bible*, on Deuteronomy 33:27
 
-**額外的歷史見證**：司布真（C. H. Spurgeon）曾專以本節為題證道——《The Everlasting Arms》（Metropolitan Tabernacle Pulpit, vol. 41, sermon #2435, 1887年10月6日講、1895年刊出），開篇即說：
+**額外的歷史見證**：司布真（C. H. Spurgeon）曾專以本節為題證道——《The Everlasting Arms》（Metropolitan Tabernacle Pulpit, vol. 41, sermon #2435；1887年10月6日週四晚講於大都會會幕，1895年10月20日刊出供誦讀）。他從26-29節數出神與百姓的四重貼近：
 
-> "The almighty power of God is engaged for the protection and consolation of all that trust in him, in their greatest straits and distresses, and under the heaviest burdens... How low soever the people of God are at any time brought, everlasting arms are underneath them to keep the spirit from sinking, from fainting, and the faith from failing."
+> "He is described as being above us, arching us over with His divine power... Then, our text tells us of God beneath us. As He is above us in the heavens, so underneath us are the everlasting arms. The next sentence shows us God before us... And the remaining verses of the chapter represent Him as being all around us... **He is above, beneath, before, and all around us. He never forsakes us, for in Him we live, and move, and have our being.**"
 >
-> 「神全能的大力，已為一切信靠祂之人的保護與安慰擺上了——在他們最艱困窘迫之時，在最沉重的擔子之下……神的百姓無論何時被壓到何等低微的地步，永久的膀臂總在他們底下，托住那將沉的心靈，使它不致灰心，使信心不致失落。」
-
-> — C. H. Spurgeon, *The Everlasting Arms*, sermon #2435, spurgeongems.org
+> 「經上描述祂在我們以上，用祂神聖的能力如穹蒼般覆庇我們……接著，我們這節經文告訴我們神在我們以下：祂既在諸天之上，永久的膀臂就在我們底下。下一句讓我們看見神在我們前面……本章其餘各節則把祂描繪為環繞在我們四圍……**祂在我們以上、以下、以前，也在我們周圍。祂從不撇棄我們，因為我們生活、動作、存留都在乎祂。**」
+>
+> — C. H. Spurgeon, *The Everlasting Arms*（sermon #2435），全文見 spurgeongems.org
 
 ### 摩根 (G. Campbell Morgan)
 

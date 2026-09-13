@@ -401,6 +401,16 @@
 \renewcommand{\sectionmark}[1]{\markright{#1}}
 \setcounter{secnumdepth}{-1}
 \makeatletter
+% \chapter* (every {.unnumbered} heading: preface, orientation chapters, volume
+% dividers, appendices, afterword) never calls \chaptermark, so the running head
+% keeps whatever the last NUMBERED chapter set — the appendices printed under
+% chapter 26's title 「摩西之死」, and the orientation chapters under "Contents"
+% left by \tableofcontents. Same patch as templates/pdf/job.latex and
+% templates/pdf/judges.latex.
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+\makeatother
+\makeatletter
 % Chapter styling
 \def\@makechapterhead#1{%
   \vspace*{15pt}%

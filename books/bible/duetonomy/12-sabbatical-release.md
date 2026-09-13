@@ -27,24 +27,22 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Guide Me, O Thou Great Jehovah** \
-> *William Williams, 1745（威爾斯文）；英譯 Peter Williams, 1771*
+> **And Can It Be That I Should Gain?**（第四節） \
+> *Charles Wesley, 1738*
 >
-> Guide me, O thou great Jehovah, \
-> Pilgrim through this barren land; \
-> I am weak, but thou art mighty; \
-> Hold me with thy powerful hand: \
-> Bread of heaven, bread of heaven, \
-> Feed me till I want no more; \
-> Feed me till I want no more.
+> Long my imprisoned spirit lay, \
+> Fast bound in sin and nature's night; \
+> Thine eye diffused a quick'ning ray, \
+> I woke, the dungeon flamed with light; \
+> My chains fell off, my heart was free, \
+> I rose, went forth, and followed Thee.
 >
-> 求你引導我，大能耶和華，\
-> 我是曠野中的客旅飄流；\
-> 我雖軟弱，你卻大有能力，\
-> 求你用大能的手扶持看守：\
-> 天上嗎哪，天上嗎哪，\
-> 賜我糧食直到我不再缺乏；\
-> 賜我糧食直到我不再缺乏。
+> 我被囚的靈魂久久躺臥，\
+> 緊鎖在罪與本性的黑夜裏；\
+> 你的目光射出甦醒的光線——\
+> 我醒了，牢獄頓時滿了光明；\
+> 我的鎖鏈脫落，我的心得了自由，\
+> 我就起來，出去跟隨了你。
 
 ---
 
@@ -107,13 +105,13 @@ publisher: 三書精讀出版系統
 
 15:15把整條釋放奴僕的律法，建立在「記念你在埃及地作過奴僕，耶和華你的神將你救贖」這句話上。憐憫不是一項額外加分的美德，是被神救贖過的人，理所當然該有的反應——「因為我曾這樣被待過」。
 
-### 2. 應許與現實可以並存
+### 2. 「沒有窮人」與「窮人永不斷絕」，寫在同一章裏
 
-15:4的「沒有窮人」與15:11的「窮人永不斷絕」並不矛盾。神給出理想的應許，同時正視墮落世界的現實，並不因為現實達不到理想，就取消憐憫的責任——恰恰相反，正因為窮人「永不斷絕」，鬆開手的吩咐才「永不過期」。
+15:4的應許帶著條件——「你若留意聽從耶和華─你神的話，謹守遵行……這一切的命令」；15:11則正視了這條件終究沒有被滿足。兩句話因此都是真的，也都約束人：正因為窮人「永不斷絕」，鬆開手的吩咐才「永不過期」。
 
 ### 3. 心裏的算計，神都鑒察
 
-15:9特別點出一種隱藏的罪：因為豁免年將到，心裏盤算著不借給窮乏的弟兄。這不是行為上的虧欠，是「心裏起惡念」——神的律法不只管手的動作，也管手還沒動之前，心裏已經打的算盤。
+15:9點出一種算得很精、手上卻甚麼也沒做的罪：眼看「第七年的豁免年快到了」，就「惡眼看你窮乏的弟兄，甚麼都不給他」。判定卻極重——「他因你求告耶和華，罪便歸於你了」：一件你甚麼都沒做的事，因著那窮人的一聲呼求，算成了你的罪。
 
 ### 4. 釋放要帶著供應，不只是打開枷鎖
 
@@ -164,7 +162,7 @@ publisher: 三書精讀出版系統
 >
 > — Matthew Henry, *Commentary on the Whole Bible*, on Deuteronomy 15:1-11（ccel.org, mhc1, cache/mhc1.txt）
 
-論到「你的心不可愁煩」（15:10），亨利強調樂捐的心志：
+論到「心裏不可愁煩」（15:10），亨利強調樂捐的心志：
 
 > "Be not loth to part with thy money on so good an account, nor think it lost; grudge not a kindness to thy brother; and distrust not the providence of God... What thou doest do freely, for God loves a cheerful giver."
 >
@@ -191,9 +189,9 @@ publisher: 三書精讀出版系統
 
 這節詩篇正是15:7-11整段律法所要培養的心志的濃縮版——眷顧貧窮人的，反過來要蒙神眷顧。摩西的律法與大衛的詩篇，說的是同一件事：對窮人鬆開手，不是損失，是蒙福的門路。
 
-### Guide Me, O Thou Great Jehovah（見〈配詩〉）
+### And Can It Be That I Should Gain?
 
-這首詩歌以出埃及的曠野路程為背景，正好呼應本章15:15「要記念你在埃及地作過奴僕，耶和華你的神將你救贖」——每一個蒙救贖的人，都仍是曠野中的客旅，靠著神大能的手一路被引導、被供應。
+見上文〈配詩〉。衛斯理寫「我的鎖鏈脫落，我心得自由」，說的是罪的捆鎖；申15把同一件事寫成看得見的制度——第七年豁免債務、釋放奴僕，並且不可空手打發他去（15:13-14）。
 
 ---
 

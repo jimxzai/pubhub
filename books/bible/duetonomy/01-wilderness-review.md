@@ -62,7 +62,7 @@ publisher: 三書精讀出版系統
 
 > ^4^「你吩咐百姓說：你們弟兄以掃的子孫住在西珥，你們要經過他們的境界……^5^不可與他們爭戰；他們的地……我都不給你們，因我已將西珥山賜給以掃為業。^6^你們要用錢向他們買糧吃，也要用錢向他們買水喝。^7^因為耶和華─你的　神在你手裏所辦的一切事上已賜福與你。你走這大曠野，他都知道了。這四十年，耶和華─你的　神常與你同在，故此你一無所缺。」
 
-> ^23^「那時，我懇求耶和華說：^24^『主耶和華啊，你已將你的大力大能顯給僕人看。^25^求你容我過去，看約旦河那邊的美地，就是那佳美的山地和黎巴嫩。』^26^但耶和華因你們的緣故向我發怒，不應允我。^27^你且上毘斯迦山頂去，向東、西、南、北舉目觀望，因為你必不能過這約旦河。^28^你卻要囑咐約書亞，勉勵他，使他膽壯……^29^於是我們住在伯‧毘珥對面的谷中。」
+> ^23^「那時，我懇求耶和華說：^24^『主耶和華阿，你已將你的大力大能顯給僕人看。^25^求你容我過去，看約旦河那邊的美地，就是那佳美的山地和黎巴嫩。』^26^但耶和華因你們的緣故向我發怒，不應允我。^27^你且上毘斯迦山頂去，向東、西、南、北舉目觀望，因為你必不能過這約旦河。^28^你卻要囑咐約書亞，勉勵他，使他膽壯……^29^於是我們住在伯‧毘珥對面的谷中。」
 
 ### English — NASB
 
@@ -76,7 +76,7 @@ publisher: 三書精讀出版系統
 
 > ^4^"and command the people, saying, 'You will pass through the territory of your brothers the sons of Esau…and they will be afraid of you… ^5^do not provoke them, for I will not give you any of their land…because I have given Mount Seir to Esau as a possession. ^6^You shall buy food from them with money…and you shall also purchase water from them with money… ^7^"For the LORD your God has blessed you in all that you have done; He has known your wanderings through this great wilderness. These forty years the LORD your God has been with you; you have not lacked a thing."'"
 
-> ^23^"I also pleaded with the LORD at that time, saying, ^24^'O Lord GOD, You have begun to show Your servant Your greatness and Your strong hand…^25^'Let me, I pray, cross over and see the fair land that is beyond the Jordan, that good hill country and Lebanon.' ^26^"But the LORD was angry with me on your account, and would not listen to me…^27^'Go up to the top of Pisgah and lift up your eyes to the west and north and south and east, and see it with your eyes, for you shall not cross over this Jordan. ^28^'But charge Joshua and encourage him and strengthen him, for he shall go across at the head of this people…'"
+> ^23^"I also pleaded with the LORD at that time, saying, ^24^'O Lord GOD, You have begun to show Your servant Your greatness and Your strong hand…^25^'Let me, I pray, cross over and see the fair land that is beyond the Jordan, that good hill country and Lebanon.' ^26^"But the LORD was angry with me on your account, and would not listen to me…^27^'Go up to the top of Pisgah and lift up your eyes to the west and north and south and east, and see it with your eyes, for you shall not cross over this Jordan. ^28^'But charge Joshua and encourage him and strengthen him, for he shall go across at the head of this people…' ^29^"So we remained in the valley opposite Beth-peor."
 
 ---
 
@@ -111,19 +111,19 @@ publisher: 三書精讀出版系統
 | מָרָה | marah | 悖逆、頑梗抗拒 | 1:26, 43 | 兩次用在百姓身上——先是不肯上去得地（該行卻不行），後是擅自出兵（不該行卻行）；同一個字根，指向同一個病根：不聽神的話，方向卻剛好相反 |
 | הֶאֱמִין (אמן) | he'emin | 相信、信靠 | 1:32 | 「你們在這事上卻不信耶和華」——動詞ʼāman的使役式，字根與「阿們」同源；百姓的問題從來不是缺情報（十二探子已回報美地），而是不肯把自己交託在神的話上 |
 | חָזַק (Piel) | chazzeq | 使剛強、勉勵 | 1:38; 3:28 | 兩次用在約書亞身上，摩西被吩咐「勉勵他」——正是這幾乎是摩西臨別前唯一能為繼任者做的事：他自己進不了迦南，卻能使那將要帶百姓進去的人剛強 |
-| נַחֲלָה | nachalah | 產業、地業 | 2:5, 9, 19; 3:12-20 | 反覆出現在約旦河東外邦地界與以色列支派分地的敘述中——地業由神分派，不是誰武力所得，這觀念貫穿全書 |
+| יְרֻשָּׁה | yerushah | 承受之地、產業 | 2:5, 9, 19；3:20 | 這三處分別說西珥給以掃、亞珥給摩押、亞捫地給羅得子孫——**神也把地分給以色列以外的民**，而且明令不可爭奪；地業由神分派，不是誰武力所得 |
 
 ---
 
 ## 領受要點 (Truths Received)
 
-### 1. 回顧歷史，是為了不重蹈覆轍
+### 1. 同一個「悖逆」，走出兩個相反的方向
 
-摩西不厭其煩地重述失敗，不是為了讓新一代羞愧，而是讓他們看清：不信與擅自行動，是同一條路的兩端。**誠實面對過去的失敗，是進入應許之地前必修的一課。**
+「不肯上去」（1:26）與「擅自上山地去了」（1:43）是同一個字根מָרָה：該上去時不上去，不該上去時硬要上去。**退縮與蠻幹看似相反，病根同一個——不肯聽神當下說的那一句話。**
 
 ### 2. 神的應許不因人的不信而落空，只是換人承接
 
-那一整代不信的人倒斃曠野，但神給列祖的應許一個字都沒有落空——迦勒、約書亞承接了下去。**神的計劃不依賴任何一個人的忠心才能成就，但祂仍然揀選忠心的人去承接。**
+神起誓「這惡世代的人，連一個也不得見……美地」（1:35），同一段話裏立刻點名兩個例外：迦勒「因為他專心跟從我」（1:36）、約書亞（1:38）。**起誓要滅的是這一個世代，不是那個應許；應許不隨世代陪葬，只換一雙手承接。**
 
 ### 3. 神的公義及於萬族，不只是以色列的特權
 

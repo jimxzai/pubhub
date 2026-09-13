@@ -65,6 +65,22 @@ copyright: |
 
 HEADER
 
+# ------------------------------------------------------------------
+# Regenerate the Scripture index BEFORE assembling, so the appendix can
+# never describe an older state of the chapters than the one being built.
+# This was a real defect: the appendix was generated at 22:24 and two of
+# the chapters it indexes were edited at 23:38, so the shipped table was
+# missing 王下18 (cited in ch26) and still carried a 羅馬書2 row for a
+# citation ch16 no longer had. A script you have to remember to run is a
+# script that will be forgotten; wiring it into the build removes the
+# remembering.
+# ------------------------------------------------------------------
+if [ -f "$SCRIPT_DIR/gen-duetonomy-scripture-index.py" ]; then
+    echo "🔄 Regenerating Scripture index from current chapter text..."
+    python3 "$SCRIPT_DIR/gen-duetonomy-scripture-index.py" --write || {
+        echo "❌ Scripture index regeneration failed"; exit 1; }
+fi
+
 chapter_count=0
 
 # Append one source file: strip its 7-line YAML front matter, convert ^n^ verse
@@ -124,6 +140,7 @@ add_volume "卷首 · 定位 (Orientation)" \
 add_front "$INPUT_DIR/00-overview.md"
 add_front "$INPUT_DIR/00a-duetonomy-position.md"
 add_front "$INPUT_DIR/00b-covenant-spine.md"
+add_front "$INPUT_DIR/00c-revelation-order.md"
 
 # Systematic reception — demote headings one level so it reads as one chapter.
 if [ -f "$STUDY_FILE" ]; then
@@ -138,13 +155,13 @@ fi
 # 正文 · 五卷 · 26 段
 # ============================================================
 add_volume "卷一 · 曠野路程的回顧 (Historical Prologue) · 1-4章" \
-    "條約第一、二要素：序言與歷史回顧。摩西回顧四十年曠野路，不是為了懷舊——立約文書的規矩是：先數算宗主做過甚麼，才提出要求。**恩典的敘述擺在要求之前**，這個次序本身就是信息。"
+    "啟示的次序·第一步：先數算恩典，才提出要求。條約第一、二要素：序言與歷史回顧。摩西回顧四十年曠野路，不是為了懷舊——立約文書的規矩是：先數算宗主做過甚麼，才提出要求。**恩典的敘述擺在要求之前**，這個次序本身就是信息。"
 for f in 01-wilderness-review.md 02-call-to-obedience.md; do
     add_chapter "$f"
 done
 
 add_volume "卷二 · 總綱誡命 (The Great Commandments) · 5-11章" \
-    "條約第三要素：總綱要求。十誡重申，繼而是示瑪與盡心盡性盡力愛神的呼召。十誡自己也守著同一個次序——先宣告「我是耶和華你的神，曾將你從埃及地為奴之家領出來」（5:6），才說「除了我以外，你不可有別的神」（5:7）。**原則在細節之前**：這一卷立定根基，下一卷才展開條例。"
+    "啟示的次序·第二步：先立原則，後給細則。條約第三要素：總綱要求。十誡重申，繼而是示瑪與盡心盡性盡力愛神的呼召。十誡自己也守著同一個次序——先宣告「我是耶和華你的神，曾將你從埃及地為奴之家領出來」（5:6），才說「除了我以外，你不可有別的神」（5:7）。**原則在細節之前**：這一卷立定根基，下一卷才展開條例。"
 for f in 03-ten-words-again.md 04-shema-and-love.md 05-set-apart-nations.md \
          06-remember-the-wilderness.md 07-golden-calf-remembered.md \
          08-blessing-and-curse-choice.md; do
@@ -152,7 +169,7 @@ for f in 03-ten-words-again.md 04-shema-and-love.md 05-set-apart-nations.md \
 done
 
 add_volume "卷三 · 律例典章 (The Specific Stipulations) · 12-26章" \
-    "條約第四要素：具體規範。敬拜、審判、聖潔、家庭、戰爭、市場的條例——十五章，全書篇幅最長的一卷。這些不是另一套要求，是同一個「盡心愛神」在生活各角落的具體長相。**離開示瑪讀律例，律例就成了瑣碎的規條**；記住示瑪讀律例，才看得出神要的是甚麼樣的一個群體。"
+    "啟示的次序·第三步：把愛神落實成日常的具體長相。條約第四要素：具體規範。敬拜、審判、聖潔、家庭、戰爭、市場的條例——十五章，全書篇幅最長的一卷。這些不是另一套要求，是同一個「盡心愛神」在生活各角落的具體長相。**離開示瑪讀律例，律例就成了瑣碎的規條**；記住示瑪讀律例，才看得出神要的是甚麼樣的一個群體。"
 for f in 09-one-place-of-worship.md 10-false-prophets-and-idolatry.md \
          11-clean-unclean-and-tithes.md 12-sabbatical-release.md \
          13-three-feasts-and-justice.md 14-priests-levites-and-the-prophet.md \
@@ -162,14 +179,14 @@ for f in 09-one-place-of-worship.md 10-false-prophets-and-idolatry.md \
 done
 
 add_volume "卷四 · 立約更新：祝福與咒詛 (Covenant Renewal: Blessing and Curse) · 27-30章" \
-    "條約第五要素：祝福與咒詛。示劍宣讀祝福與咒詛，摩押平原重新立約。**抉擇擺在教導之後，不擺在開頭當威嚇**——摩西把該說的都說盡了，才說「我今日將生與福，死與禍，陳明在你面前……所以你要揀選生命」（30:15, 19）。神從不要求人在不明白的情況下作決定。"
+    "啟示的次序·第四步：說盡了，才要人選。條約第五要素：祝福與咒詛。示劍宣讀祝福與咒詛，摩押平原重新立約。**抉擇擺在教導之後，不擺在開頭當威嚇**——摩西把該說的都說盡了，才說「我今日將生與福，死與禍，陳明在你面前……所以你要揀選生命」（30:15, 19）。神從不要求人在不明白的情況下作決定。"
 for f in 19-shechem-covenant.md 20-blessings-and-curses.md 21-moab-covenant.md \
          22-choose-life.md; do
     add_chapter "$f"
 done
 
 add_volume "卷五 · 摩西的末了 (The End of Moses) · 31-34章" \
-    "條約第六要素：繼承安排。約書亞受託、摩西之歌、十二支派的祝福，最終死在尼波山，望見卻不得進入。在古代立約文書裏，指定接班人與存放約書不是附錄，**是這份約如何活過中保之死的安排**——而全書合上時，18:15 所應許「像我的一位先知」仍未出現（34:10），妥拉刻意停在這個懸念上。"
+    "啟示的次序·第五步：話語留下，中保退場，應許朝前開著。條約第六要素：繼承安排。約書亞受託、摩西之歌、十二支派的祝福，最終死在尼波山，望見卻不得進入。在古代立約文書裏，指定接班人與存放約書不是附錄，**是這份約如何活過中保之死的安排**——而全書合上時，18:15 所應許「像我的一位先知」仍未出現（34:10），妥拉刻意停在這個懸念上。"
 for f in 23-joshua-commissioned.md 24-song-of-moses.md 25-blessing-of-the-tribes.md \
          26-death-of-moses.md; do
     add_chapter "$f"
@@ -188,7 +205,7 @@ add_front "$INPUT_DIR/99-covenant-and-conquest.md"
 # so omitting them leaves 25 dangling cross-references in the printed text.
 # ============================================================
 add_volume "附錄 (Appendices)" \
-    "全書索引、新約引用對照，以及每一條引文的出處與核校結果。"
+    "全書索引、新約引用對照，以及每一條引文的出處與核校結果。附錄二把新約引用申命記之處編成十四組對照（共二十四則新約經文），附錄三是自動生成的全書經文索引，附錄的引用出處總表則逐位注疏者、逐章交代核校狀態。"
 add_front "$INPUT_DIR/98-appendix-indices.md"
 add_front "$INPUT_DIR/99-appendix-references.md"
 
