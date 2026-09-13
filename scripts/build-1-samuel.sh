@@ -48,6 +48,8 @@ publisher: "三書精讀出版系統"
 copyright: |
   版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
 
+  **聖經版本 / Bible Versions**：中文：和合本 / 和合本修訂版 (CUV / RCUV)　English: New American Standard Bible® (NASB®), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+
   **三大核心資源整合：**
 
   • **黃長老式查經** — 整本聖經脈絡的深度領受

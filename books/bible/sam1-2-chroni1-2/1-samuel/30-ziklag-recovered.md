@@ -10,15 +10,34 @@ publisher: 三書精讀出版系統
 
 撒母耳記上 30:1-31
 
-**經文核對**：[ai-eden.com/bible/1-samuel/30](https://www.ai-eden.com/bible/1-samuel/30?t=CUV,ESV&cols=2)
-
----
+**經文核對**：[ai-eden.com/bible/1-samuel/30](https://www.ai-eden.com/bible/1-samuel/30?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-撒母耳記上30章記載大衛一生中最黑暗的時刻之一：他人在外邦，剛剛才被神奇妙地保守，不必上陣與以色列人自相殘殺（29章），回到洗革拉，卻發現全城被焚，妻兒被擄，連跟隨他多年的部下都「說：要用石頭打死他」（30:6）。神沒有攔阻這場災難，卻在災難的最深處，讓大衛「倚靠耶和華——他的神，心裡堅固」（30:6）。這一句話，是全章、也是大衛一生信心的樞紐：在人一無所有、眾叛親離的時候，他沒有轉向自己的力量，也沒有轉向絕望，而是轉向神。這正是後來詩篇一次又一次描寫的那條路——「我心裡發昏的時候，我要從地極求告你」（詩61:2）。
+> **本章鑰詞：一個都不少 Not One Missing**（30:19「大衛都奪回來，沒有失落一個」）\
+> **座標**：大衛興起（16-31章）——大衛曠野歲月最深的谷底，也是他信心軌跡最重要的一次轉折 \
+> （全書三部結構見〈概覽〉：撒母耳時代／掃羅時代／大衛興起）
 
-而這一章最深的亮光，在於「大衛全都奪回」（30:18-19）：「凡亞瑪力人所擄去的，無論大小、兒女、財物，大衛都奪回來，沒有失落一個。」原文直譯是「沒有一樣缺少」——這不是部分的補償，是完全的復原。這句話讓人想起主耶穌對凡父所賜給祂的人所說的：「就是他所賜給我的，叫我一個也不失落，在末日卻叫他復活」（約6:39）。大衛在洗革拉所做的，是那位真正的大衛子孫要在更大範圍上成就的——祂不只奪回幾座帳棚裡的婦孺財物，祂要「擄掠仇敵，將各樣的恩賜賞給人」（弗4:8，引自詩68:18）。保羅解釋這節詩篇時，正是指向基督得勝升天、把祂所奪回的恩典分賜給教會。大衛在比梭溪邊立下的律例——「上陣的得多少，看守器具的也得多少；應當大家平分」（30:24）——也早已把恩典的邏輯刻進以色列的律法裡：分享不是按著看得見的功勞計算，而是按著同屬一個王的身份。這正是十字架之後那份「本乎恩，也因著信」（弗2:8）的獎賞邏輯最早的影子之一。洗革拉的灰燼裡，早已埋著福音的種子。
+撒母耳記上30章記載大衛一生中最黑暗的時刻之一：他人在外邦，剛剛才被神奇妙地保守，不必上陣與以色列人自相殘殺（29章），回到洗革拉，卻發現全城被焚，妻兒被擄，連跟隨他多年的部下都「說：要用石頭打死他」（30:6）。神沒有攔阻這場災難，卻在災難的最深處，讓大衛「倚靠耶和華——他的神，心裡堅固」（30:6）。這一句話，是全章、也是大衛一生信心的樞紐：在人一無所有、眾叛親離的時候，他沒有轉向自己的力量，也沒有轉向絕望，而是轉向神。
+
+而這一章最深的亮光，在於「大衛全都奪回」（30:18-19）：「凡亞瑪力人所擄去的，無論大小、兒女、財物，大衛都奪回來，沒有失落一個。」原文直譯是「沒有一樣缺少」——不是部分的補償，是完全的復原。這句話讓人想起主耶穌對凡父所賜給祂的人所說的：「就是他所賜給我的，叫我一個也不失落，在末日卻叫他復活」（約6:39）；保羅論到基督得勝升天、把恩典賞給人時，也引用同一條「擄掠仇敵」的線索（弗4:8，引自詩68:18）。大衛在比梭溪邊立下的律例——「上陣的得多少，看守器具的也得多少；應當大家平分」（30:24）——也早已把「本乎恩，也因著信」（弗2:8）的獎賞邏輯，刻進以色列的律法裡。洗革拉的灰燼裡，早已埋著福音的種子。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **It Is Well with My Soul**
+> *Horatio G. Spafford, 1873*
+>
+> When peace like a river attendeth my way,
+> When sorrows like sea billows roll—
+> Whatever my lot, Thou hast taught me to say,
+> "It is well, it is well with my soul."
+>
+> 平安如江河臨到我路，
+> 憂傷似海浪滾滾而來——
+> 無論我的境遇如何，
+> 你已教我說：「我心靈得安寧，得安寧。」
 
 ---
 
@@ -42,23 +61,23 @@ publisher: 三書精讀出版系統
 
 > ^26^大衛到了洗革拉，從掠物中取些送給他朋友猶大的長老，說：「這是從耶和華仇敵那裡奪來的，送你們為禮物。」^27^他送禮物給住伯特利的，南地拉末的，雅提珥的，^28^住亞羅珥的，息末的，以實提莫的，^29^住拉哈勒的，耶拉篾各城的，基尼各城的，^30^住何珥瑪的，歌拉珊的，亞撻的，^31^住希伯崙的，並大衛和跟隨他的人素來所到之處的人。
 
-### English — ESV
+### English — NASB
 
-> ^1^Now when David and his men came to Ziklag on the third day, the Amalekites had made a raid against the Negeb and against Ziklag. They had overcome Ziklag and burned it with fire ^2^and taken captive the women and all who were in it, both small and great. They killed no one, but carried them off and went their way. ^3^And when David and his men came to the city, they found it burned with fire, and their wives and sons and daughters taken captive. ^4^Then David and the people who were with him raised their voices and wept until they had no more strength to weep.
+> ^1^Then it happened when David and his men came to Ziklag on the third day, that the Amalekites had made a raid on the Negev and on Ziklag, and had overthrown Ziklag and burned it with fire; ^2^and they took captive the women *and all* who were in it, both small and great, without killing anyone, and carried *them* off and went their way. ^3^When David and his men came to the city, behold, it was burned with fire, and their wives and their sons and their daughters had been taken captive. ^4^Then David and the people who were with him lifted their voices and wept until there was no strength in them to weep.
 
-> ^5^David's two wives also had been taken captive, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel. ^6^And David was greatly distressed, for the people spoke of stoning him, because all the people were bitter in soul, each for his sons and daughters. But David strengthened himself in the LORD his God.
+> ^5^Now David's two wives had been taken captive, Ahinoam the Jezreelitess and Abigail the widow of Nabal the Carmelite. ^6^Moreover David was greatly distressed because the people spoke of stoning him, for all the people were embittered, each one because of his sons and his daughters. But David strengthened himself in the LORD his God.
 
-> ^7^And David said to Abiathar the priest, the son of Ahimelech, "Bring me the ephod." So Abiathar brought the ephod to David. ^8^And David inquired of the LORD, "Shall I pursue after this band? Shall I overtake them?" He answered him, "Pursue, for you shall surely overtake and shall surely rescue."
+> ^7^Then David said to Abiathar the priest, the son of Ahimelech, "Please bring me the ephod." So Abiathar brought the ephod to David. ^8^David inquired of the LORD, saying, "Shall I pursue this band? Shall I overtake them?" And He said to him, "Pursue, for you will surely overtake them, and you will surely rescue *all*."
 
-> ^9^So David set out, and the six hundred men who were with him, and they came to the brook Besor, where those who were left behind stayed. ^10^But David pursued, he and four hundred men. Two hundred stayed behind, who were too exhausted to cross the brook Besor.
+> ^9^So David went, he and the six hundred men who were with him, and came to the brook Besor, *where* those left behind remained. ^10^But David pursued, he and four hundred men, for two hundred who were too exhausted to cross the brook Besor remained *behind*.
 
-> ^11^They found an Egyptian in the open country and brought him to David. And they gave him bread and he ate. They gave him water to drink, ^12^and they gave him a piece of a cake of figs and two clusters of raisins. And when he had eaten, his spirit revived, for he had not eaten bread or drunk water for three days and three nights. ^13^And David said to him, "To whom do you belong? And where are you from?" He said, "I am a young man of Egypt, servant to an Amalekite, and my master left me behind because I fell sick three days ago. ^14^We had made a raid against the Negeb of the Cherethites and against that which belongs to Judah and against the Negeb of Caleb, and we burned Ziklag with fire." ^15^And David said to him, "Will you take me down to this band?" And he said, "Swear to me by God that you will not kill me or deliver me into the hands of my master, and I will take you down to this band."
+> ^11^Now they found an Egyptian in the field and brought him to David, and gave him bread and he ate, and they provided him water to drink. ^12^They gave him a piece of fig cake and two clusters of raisins, and he ate; then his spirit revived. For he had not eaten bread or drunk water for three days and three nights. ^13^David said to him, "To whom do you belong? And where are you from?" And he said, "I am a young man of Egypt, a servant of an Amalekite; and my master left me behind when I fell sick three days ago. ^14^We made a raid on the Negev of the Cherethites, and on that which belongs to Judah, and on the Negev of Caleb, and we burned Ziklag with fire." ^15^Then David said to him, "Will you bring me down to this band?" And he said, "Swear to me by God that you will not kill me or deliver me into the hands of my master, and I will bring you down to this band."
 
-> ^16^And when he had taken him down, behold, they were spread abroad over all the land, eating and drinking and dancing, because of all the great spoil they had taken from the land of the Philistines and from the land of Judah. ^17^And David struck them down from twilight until the evening of the next day, and not a man of them escaped, except four hundred young men, who mounted camels and fled. ^18^David recovered all that the Amalekites had taken, and David rescued his two wives. ^19^Nothing was missing, whether small or great, sons or daughters, spoil or anything that had been taken. David brought back all. ^20^David also captured all the flocks and herds, and the people drove the livestock before him, and said, "This is David's spoil."
+> ^16^When he had brought him down, behold, they were spread over all the land, eating and drinking and dancing because of all the great spoil that they had taken from the land of the Philistines and from the land of Judah. ^17^David slaughtered them from the twilight until the evening of the next day; and not a man of them escaped, except four hundred young men who rode on camels and fled. ^18^So David recovered all that the Amalekites had taken, and rescued his two wives. ^19^But nothing of theirs was missing, whether small or great, sons or daughters, spoil or anything that they had taken for themselves; David brought *it* all back. ^20^So David had captured all the sheep and the cattle *which the people* drove ahead of the *other* livestock, and they said, "This is David's spoil."
 
-> ^21^Then David came to the two hundred men who had been too exhausted to follow David, and who had been left at the brook Besor. And they went out to meet David and to meet the people who were with him. And when David came near to the people he greeted them. ^22^Then all the wicked and worthless fellows among the men who had gone with David said, "Because they did not go with us, we will not give them any of the spoil that we have recovered, except that each man may lead away his wife and children, and depart." ^23^But David said, "You shall not do so, my brothers, with what the LORD has given us. He has preserved us and given into our hand the band that came against us. ^24^Who would listen to you in this matter? For as his share is who goes down into the battle, so shall his share be who stays by the baggage. They shall share alike." ^25^And he made it a statute and a rule for Israel from that day forward to this day.
+> ^21^When David came to the two hundred men who were too exhausted to follow David, who had also been left at the brook Besor, and they went out to meet David and to meet the people who were with him, then David approached the people and greeted them. ^22^Then all the wicked and worthless men among those who went with David said, "Because they did not go with us, we will not give them any of the spoil that we have recovered, except to every man his wife and his children, that they may lead *them* away and depart." ^23^Then David said, "You must not do so, my brothers, with what the LORD has given us, who has kept us and delivered into our hand the band that came against us. ^24^And who will listen to you in this matter? For as his share is who goes down to the battle, so shall his share be who stays by the baggage; they shall share alike." ^25^So it has been from that day forward, that he made it a statute and an ordinance for Israel to this day.
 
-> ^26^When David came to Ziklag, he sent part of the spoil to his friends, the elders of Judah, saying, "Here is a present for you from the spoil of the enemies of the LORD." ^27^It was for those in Bethel, in Ramoth of the Negeb, in Jattir, ^28^in Aroer, in Siphmoth, in Eshtemoa, ^29^in Racal, in the cities of the Jerahmeelites, in the cities of the Kenites, ^30^in Hormah, in Bor-ashan, in Athach, ^31^in Hebron, for all the places where David and his men had roamed.
+> ^26^Now when David came to Ziklag, he sent *some* of the spoil to the elders of Judah, to his friends, saying, "Behold, a gift for you from the spoil of the enemies of the LORD: ^27^to those who were in Bethel, and to those who were in Ramoth of the Negev, and to those who were in Jattir, ^28^and to those who were in Aroer, and to those who were in Siphmoth, and to those who were in Eshtemoa, ^29^and to those who were in Racal, and to those who were in the cities of the Jerahmeelites, and to those who were in the cities of the Kenites, ^30^and to those who were in Hormah, and to those who were in Bor-ashan, and to those who were in Athach, ^31^and to those who were in Hebron, and to all the places where David himself and his men were accustomed to go."
 
 ---
 
@@ -89,7 +108,7 @@ publisher: 三書精讀出版系統
 
 | 希伯來文 | 音譯 | 意義 | 註解 |
 |----------|------|------|------|
-| וַיִּתְחַזֵּק | *vayyitchazzeq* | 他使自己剛強、他堅固自己 | חזק(chazaq，剛強)的Hithpael反身式動詞，強調這是大衛主動、刻意的動作，不是被動的情緒——30:6 |
+| וַיִּתְחַזֵּק | *vayyitchazzeq* | 他使自己剛強、他堅固自己 | חזק（chazaq，剛強）的Hithpael反身式動詞，強調這是大衛主動、刻意的動作，不是被動的情緒——30:6 |
 | אֵפוֹד | *ephod* | 以弗得（祭司的求問器具） | 大衛不是憑感覺行動，而是透過神所指定的方式求問——30:7 |
 | שָׁאַל | *sha'al* | 求問、詢問 | 大衛在絕境中先「求問」而非先「行動」，與掃羅（שָׁאוּל）當年不等候、擅自獻祭形成對比——30:8 |
 | הַשֵּׂג תַּשִּׂיג | *hasseg tassig* | 你必追得上、必定追得上 | 不定詞獨立式加動詞的疊用結構，是希伯來文表達最強烈肯定語氣的方式——30:8 |
@@ -97,45 +116,29 @@ publisher: 三書精讀出版系統
 | בְּנֵי בְלִיַּעַל | *benei veliyya'al* | 匪類之子、無賴之輩 | 直譯「無用/毀壞之子」，同一詞也用於以利二子（2:12）和拿八（25:17、25），標記出一種以自我為中心、輕看恩典的人格——30:22 |
 | חֹק וּמִשְׁפָּט | *choq umishpat* | 律例典章 | 大衛把一時的決定變成以色列永久的法則——30:25 |
 
-### 「他堅固自己」(*vayyitchazzeq*) 的深層含義
+**「他堅固自己」（*vayyitchazzeq*）的深層含義**：這是全章的關鍵動詞，也是理解大衛信心最重要的一把鑰匙。希伯來文動詞חזק在Hithpael字幹裡是反身式——字面意思是「他使自己成為剛強的」。經文描述的是一個意志的動作：大衛在完全沒有理由感覺堅強的處境裡，主動選擇轉向神，並且用具體的行動——呼叫祭司、拿出以弗得、開口求問——把這個內在的抉擇實踐出來。這與大衛過去幾次的軟弱形成鮮明對比：在第21章，他因懼怕掃羅而逃往迦特，在亞吉面前裝瘋；在27章，他對自己說「我必有一日死在掃羅手裡」，於是投奔非利士人。那幾次，他是靠自己的盤算求生；這一次，他是把自己交在神手裡求問——這也正是黃長老常說的「字句叫人死，精義叫人活」在生命實況裡的具體例子：知道神存在是一回事，在眾叛親離、一無所有時仍然選擇轉向祂，是完全不同的一回事。
 
-這是全章的關鍵動詞，也是理解大衛信心最重要的一把鑰匙。希伯來文動詞חזק在Hithpael字幹裡是反身式——字面意思是「他使自己成為剛強的」。這不是說神從天上直接把力量灌注進大衛裡面，讓他被動地感覺好轉；經文描述的是一個意志的動作：大衛在完全沒有理由感覺堅強的處境裡，主動選擇轉向神，並且用具體的行動——呼叫祭司、拿出以弗得、開口求問——把這個內在的抉擇實踐出來。這與大衛過去幾次的軟弱形成鮮明對比：在第21章，他因懼怕掃羅而逃往迦特，在亞吉面前裝瘋；在27章，他對自己說「我必有一日死在掃羅手裡」，於是投奔非利士人，寄居外邦一年有餘。那幾次,他是靠自己的盤算求生;這一次,他是把自己交在神手裡求問。同一個大衛,信心的軌跡卻在洗革拉的灰燼裡出現了轉折——這也正是黃長老常說的「字句叫人死，精義叫人活」在生命實況裡的具體例子:知道神存在是一回事,在眾叛親離、一無所有時仍然選擇轉向祂,是完全不同的一回事。
-
-### 「必追得上，都救得回來」——雙重的肯定
-
-大衛的求問只有兩句話（「我追趕敵軍，追得上追不上呢？」），神的回答卻用了希伯來文最強的語法結構——不定詞獨立式加限定動詞的疊用（הַשֵּׂג תַּשִּׂיג）——來表達「你必定、必定追得上」的絕對確據。這種疊用結構在整本舊約中反覆出現在神最鄭重的應許上（如創2:17「你必定死」）。神在這裡不是給大衛一個模糊的鼓勵,而是給他一句幾乎不容置疑的軍令狀。這提醒我們:大衛先「堅固自己」,然後才「求問」,然後才「得著確據」——次序不能顛倒。若沒有先在心裡定意倚靠神,他未必有勇氣提出這個問題;若不求問,他也不會得著這句斬釘截鐵的應許。
+**「必追得上，都救得回來」——雙重的肯定**：大衛的求問只有兩句話，神的回答卻用了希伯來文最強的語法結構——不定詞獨立式加限定動詞的疊用（הַשֵּׂג תַּשִּׂיג）——來表達「你必定、必定追得上」的絕對確據。這種疊用結構在整本舊約中反覆出現在神最鄭重的應許上（如創2:17「你必定死」）。這提醒我們：大衛先「堅固自己」，然後才「求問」，然後才「得著確據」——次序不能顛倒。若沒有先在心裡定意倚靠神，他未必有勇氣提出這個問題；若不求問，他也不會得著這句斬釘截鐵的應許。
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-### 1. 全然失喪的谷底 (The Valley of Total Loss)
+### 1. 全然失喪的谷底，與心裡堅固在耶和華裡
 
-大衛回到洗革拉那一刻的處境,幾乎是他一生中最深的谷底——比躲避掃羅的追殺更深,因為這一次,危險不再只是外面的敵人。城被燒了,家沒有了,妻兒被擄走了,而跟隨他多年、與他同甘共苦的部下,竟然「說：要用石頭打死他」(30:6)。經文誠實地記下大衛和眾人「放聲大哭，直哭得沒有氣力」(30:4)——這不是輕描淡寫的悲傷,是哭到身體再也擠不出眼淚、再也發不出聲音的地步。聖經從不美化苦難,也不要求信心的英雄裝出堅強。大衛在這裡真實地崩潰,又真實地在崩潰之後轉向神——兩件事同時真實,並不矛盾。
+大衛回到洗革拉那一刻的處境，幾乎是他一生中最深的谷底——比躲避掃羅的追殺更深，因為這一次，危險不再只是外面的敵人。城被燒了，家沒有了，妻兒被擄走了，而跟隨他多年的部下，竟然「說：要用石頭打死他」（30:6）。經文誠實地記下大衛和眾人「放聲大哭，直哭得沒有氣力」（30:4）——聖經從不美化苦難，也不要求信心的英雄裝出堅強。正是在這個一無所有的時刻，經文卻說「大衛卻倚靠耶和華——他的神，心裡堅固」（30:6）——沒有人來安慰他，他此刻孤立無援，卻做了一個主動的抉擇：刻意地、意志性地把自己的心安放在神裡面。這與詩篇裡大衛反覆描寫的操練完全一致：「我的心哪，你為何憂悶？為何在我裡面煩躁？應當仰望神」（詩42:5,11；43:5）。信心不是沒有眼淚，而是眼淚流盡之後，仍然選擇轉向那一位。
 
-### 2. 心堅固在耶和華裡 (Strengthened in the LORD)
+### 2. 求問而非猜測
 
-「大衛卻倚靠耶和華——他的神，心裡堅固」(30:6)是全章、甚至可以說是大衛一生信心軌跡中最重要的一句話。值得注意的是,經文沒有說「有人來安慰大衛」,也沒有說「大衛想起以前的應許就平靜下來」——他此刻孤立無援:亞比亞他祭司雖然同在,眾人卻已經到了要用石頭打死他的地步。他沒有一個可以倚靠的人。正是在這個一無所有的時刻,他做了一個主動的抉擇——不是等候感覺變好,而是刻意地、意志性地把自己的心安放在神裡面。這與詩篇裡大衛反覆描寫的操練完全一致:「我的心哪，你為何憂悶？為何在我裡面煩躁？應當仰望神」(詩42:5,11;43:5)。信心不是沒有眼淚,而是眼淚流盡之後,仍然選擇轉向那一位。
+大衛堅固己心之後做的第一件事，不是立刻點齊人馬出發，而是呼叫亞比亞他，拿出以弗得，「求問耶和華」（30:7-8）。這一個細節，把大衛與掃羅徹底分開。掃羅在第13章因為撒母耳遲到，等不及就擅自獻祭；在第28章，他因為神不再回答他，竟去求問交鬼的婦人。大衛在這裡示範了截然不同的路：即使情況萬分緊急，他仍然先求問，後行動——這不是拖延，是次序：讓神的話走在自己的判斷前面。神的回答斬釘截鐵：「你可以追，必追得上，都救得回來」（30:8）——這句應許，是大衛在還沒看見一絲勝利跡象之前就領受的確據，信心先於眼見，正如亞伯拉罕「出去的時候，還不知道往哪裏去」（來11:8）。
 
-### 3. 求問而非猜測 (Inquiry, Not Guesswork)
+### 3. 被撇棄者成了引路人
 
-大衛堅固己心之後做的第一件事,不是立刻點齊人馬出發,而是呼叫亞比亞他,拿出以弗得,「求問耶和華」(30:7-8)。這一個細節,把大衛與掃羅徹底分開。掃羅在第13章因為撒母耳遲到,等不及就擅自獻祭;在第28章,他因為神不再回答他,竟去求問交鬼的婦人。大衛在這裡示範了截然不同的路:即使情況萬分緊急——敵人已經走遠,妻兒生死未卜——他仍然先求問,後行動。這不是拖延,是次序:讓神的話走在自己的判斷前面。神的回答斬釘截鐵:「你可以追，必追得上，都救得回來」(30:8)。這句應許,是大衛在還沒看見一絲勝利跡象之前就領受的確據——信心先於眼見,正如亞伯拉罕「出去的時候，還不知道往哪裏去」(來11:8)。
+追趕途中，四百人在田野遇見一個埃及少年人——他是亞瑪力人的奴僕，因為生病，被主人棄之不顧，已經三日三夜沒有吃喝（30:11-13）。這個外邦的、被自己主人拋棄的奴隸，按世上的邏輯，是全隊伍裡最沒有價值的人。但大衛的人「給他餅吃，給他水喝」，又給他無花果餅和葡萄餅——先施憐憫，後才問他是誰、從哪裡來（30:11-13）。正是這個被人丟棄的外邦少年人，成了帶領大衛找到亞瑪力大軍、奪回一切的關鍵嚮導。神使用一個被自己人拋棄的人，成為神百姓得勝的鑰匙——這與後來神揀選被人看為卑微的、被排斥在外的人成就祂旨意的模式一致（參林前1:27-28）。留意經文的次序：憐憫先於利用，恩慈先於效益。
 
-### 4. 被撇棄者成了引路人 (The Abandoned One Becomes the Guide)
+### 4. 恩典的律例：從均分到慷慨分享
 
-追趕途中,四百人在田野遇見一個埃及少年人——他是亞瑪力人的奴僕,因為生病,被主人棄之不顧,已經三日三夜沒有吃喝(30:11-13)。這個外邦的、被自己主人拋棄的奴隸,按世上的邏輯,是全隊伍裡最沒有價值的人。但大衛的人「給他餅吃，給他水喝」,又給他無花果餅和葡萄餅——先施憐憫,後才問他是誰、從哪裡來(30:11-13)。正是這個被人丟棄的外邦少年人,成了帶領大衛找到亞瑪力大軍、奪回一切的關鍵嚮導。神使用一個被自己人拋棄的人,成為神百姓得勝的鑰匙——這與後來神揀選被人看為卑微的、被排斥在外的人成就祂旨意的模式一致(參林前1:27-28)。留意經文的次序:憐憫先於利用,恩慈先於效益。大衛的人不是先問「你對我們有什麼用」才給他水喝,而是先讓他活過來,然後神才藉著這活過來的人指引全隊伍。
-
-### 5. 一個都不少 (Not One Missing)
-
-「凡亞瑪力人所擄去的，無論大小、兒女、財物，大衛都奪回來，沒有失落一個」(30:19)。原文特別用了被動的「נֶעְדַּר」(缺少),強調這不是大致的補償,而是徹底的、逐一清點的復原——大小、兒女、財物,一樣都不少。這句話的分量,遠超過一場軍事勝利的戰報。它宣告了一個屬靈的原則:神所要奪回的,不是「差不多」,而是「全部」。這句經文與主耶穌論到祂的羊群時所說的話遙遙呼應:「就是他所賜給我的，叫我一個也不失落，在末日卻叫他復活」(約6:39)。大衛在洗革拉的戰場上「一個都不少」地奪回了他的家人和財物,是那位更大的大衛的子孫要在救恩全地圖上成就的縮影——祂要尋找,直到找著;祂要保守,直到一個不失落。
-
-### 6. 恩典的律例:上陣與看守,一同分享 (The Statute of Grace: Battle and Baggage Share Alike)
-
-得勝之後,人性最真實的一面浮現了。「跟隨大衛人中的惡人和匪類」提議:沒有上陣的二百人,不配分得戰利品(30:22)。這是一個聽起來完全「合理」的提議——按貢獻分配,按勞取酬。但大衛斷然拒絕:「耶和華所賜給我們的，不可不分給他們……上陣的得多少，看守器具的也得多少;應當大家平分」(30:23-24)。大衛把功勞的邏輯,換成了恩典的邏輯——這一切原本就不是靠人的力量掙來的,是「耶和華所賜給我們的」。他甚至把這個判決立為「以色列的律例典章，從那日直到今日」(30:25)——一次性的憐憫,變成了永久的制度。這條律例並非大衛首創,摩西早已在米甸戰役後定下「打仗出去的人到會眾的一半,一半要歸與出去打仗的人,一半要歸與全會眾」的分配原則(民31:27)——大衛不過是把這個早已存在、卻容易被人性遺忘的恩典原則,重新宣告、重新落實。
-
-### 7. 得勝之後的慷慨 (Generosity After Victory)
-
-第30章沒有停在「大衛奪回一切」就結束,反倒以一份長長的、看似瑣碎的城鎮名單收尾(30:26-31)。大衛把從仇敵那裡奪來的戰利品,主動送給猶大境內大大小小的城鎮長老——伯特利、拉末、雅提珥……一路送到希伯崙。這時大衛還不是王,掃羅還活著(下一章他才戰死);但大衛已經開始像一個王那樣行事——不是靠權術籠絡人心,而是把神所賜的恩典,實實在在地分享出去。希伯崙後來正是大衛受膏作猶大王之地(撒下2:1-4)——這份禮物清單,原來早已是他登基之路的一部分。得勝者的慷慨,不是策略,是性情——一個真正經歷神奪回一切的人,自然地把恩典向外傾倒。
+得勝之後，人性最真實的一面浮現了。「跟隨大衛人中的惡人和匪類」提議：沒有上陣的二百人，不配分得戰利品（30:22）。這是一個聽起來完全「合理」的提議——按貢獻分配，按勞取酬。但大衛斷然拒絕：「耶和華所賜給我們的，不可不分給他們……上陣的得多少，看守器具的也得多少；應當大家平分」（30:23-24）。大衛把功勞的邏輯，換成了恩典的邏輯，並把這個判決立為「以色列的律例典章，從那日直到今日」（30:25）——一次性的憐憫，變成了永久的制度；這條律例並非大衛首創，摩西早已在米甸戰役後定下「打仗出去的人到會眾的一半，一半要歸與出去打仗的人，一半要歸與全會眾」的分配原則（民31:27）。這份恩典的性情，第30章沒有停在律例就結束，反倒以一份長長的城鎮名單收尾（30:26-31）——大衛把從仇敵那裡奪來的戰利品，主動送給猶大境內大大小小的城鎮長老，一路送到希伯崙——他後來受膏作猶大王之地（撒下2:1-4）。得勝者的慷慨，不是策略，是性情——一個真正經歷神奪回一切的人，自然地把恩典向外傾倒。
 
 ---
 
@@ -188,33 +191,13 @@ publisher: 三書精讀出版系統
 
 摩根的釋經傳統一貫強調，撒母耳記上的敘事結構本身就是一段屬靈宣告——全書以哈拿在絕望中禱告開始，以掃羅在絕望中自盡結束，而大衛的整段逃亡歲月，正是夾在這兩極之間、被神精心塑造的一段「受苦訓練」。按摩根一貫的解經取向來看，第30章大衛在洗革拉的谷底經歷，是這段訓練的高峰之一：每一次曠野裡的失去，都是神在琢磨這位「合神心意的人」，使他學會把倚靠的根基，從自己的力量、環境的順逆，轉移到神自己身上（概述摩根對大衛逃亡時期一貫的釋經取向，非第30章逐字引文）。
 
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根：谷底是塑造王者的地方 (G. Campbell Morgan)
-
-摩根解經的一貫重點，是把撒母耳記上讀成一部「王者是如何被塑造」的敘事。掃羅從未經過真正的破碎——他的失敗來自從未被破碎過的自信；大衛卻在洗革拉被破碎到極致：家沒有了，部下要用石頭打死他。按這個解經進路，這樣的破碎不是意外，而恰恰是神預備一位真正合祂心意之王必經的熔爐。一個沒有在灰燼裡學會倚靠神的人，遲早會像掃羅那樣，在順境裡把王位變成討好眾人的工具。
-
-### 麥克阿瑟：不徹底的順服，終要有人承擔 (John MacArthur)
-
-麥克阿瑟把第30章與第15章並讀的角度，提醒讀者一個常被忽略的真理：罪或不完全的順服所留下的後果，往往不會立刻臨到，卻不會憑空消失。掃羅當年憐惜亞甲王、留下上好的牲畜，以為「大局已定」；十幾年後，這個沒有被徹底剪除的仇敵，燒了大衛的城，擄走了大衛的家人。這提醒我們：今天看似「差不多就好」的妥協，承受代價的，可能不是我們自己，而是我們所愛的人，或是下一代。
-
-### 帳幕與谷底：兩種預備君王的路 (Two Paths to Preparing a King)
-
-摩根一系看重「破碎預備王者」，麥克阿瑟一系看重「不徹底的順服終須有人承擔」——這兩條進路合看，恰恰勾勒出撒母耳記上第三部分(16-31章)的全景：大衛之所以能成為「合神心意的人」(13:14)，不是因為他從未失敗，而是因為每一次失去——無論是自己的軟弱，還是承接掃羅留下的爛攤子——都成了他學習「堅固己心在耶和華裡」的功課。洗革拉正是這條路上最深的一站，也是他最後一次以「逃亡者」身份所面對的危機——下一章，掃羅戰死，大衛的路開始轉向王位。
-
-### 黃長老查經：谷底裡先求問的信心 (Ask Elder Wong)
-
-**精義一句話**：大衛在洗革拉學會的，不是「如何在災難裡堅強」，而是「當一切都可以怪罪別人、可以先發洩、可以先逃跑的時候，先把自己交在神手裡」——這是信心最誠實的操練場，不在講台上，在灰燼裡。
-
-黃長老常這樣提問：「大衛哭到沒有氣力，又被自己的弟兄威脅要用石頭打死——他有沒有理由先發脾氣，先自保，先逃跑？他有。但他做了什麼？他『堅固自己』，然後才求問。你呢？你上一次遇見無法挽回的損失，是先發洩，先怪罪，還是先把自己交在神手裡？」——這句提問要把讀者從「大衛好厲害」的旁觀，帶進「我此刻的處境如何」的對照。
+摩根一系看重「破碎預備王者」，麥克阿瑟一系看重「不徹底的順服終須有人承擔」——這兩條進路合看，恰恰勾勒出撒母耳記上第三部分（16-31章）的全景：大衛之所以能成為「合神心意的人」（13:14），不是因為他從未失敗，而是因為每一次失去——無論是自己的軟弱，還是承接掃羅留下的爛攤子——都成了他學習「堅固己心在耶和華裡」的功課。洗革拉正是這條路上最深的一站，也是他最後一次以「逃亡者」身份所面對的危機——下一章，掃羅戰死，大衛的路開始轉向王位。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-### 詩篇：詩篇30篇
+### 詩篇30篇
 
 > 耶和華啊，我要尊崇你，因為你曾提拔我，
 > 不叫仇敵向我誇耀。
@@ -230,33 +213,30 @@ publisher: 三書精讀出版系統
 
 （詩篇30:1, 5, 10-12，和合本）
 
-篇名雖與章數同為「三十」純屬巧合，但主題卻驚人地呼應：撒母耳記上30章正是一整夜「哭泣」——大衛和眾人「放聲大哭，直哭得沒有氣力」(30:4)——如何在神的介入下，變成「早晨便必歡呼」的圖畫。大衛從黎明擊殺仇敵直到次日晚上(30:17)，正是這一句「一宿雖然有哭泣，早晨便必歡呼」活生生的歷史場景。麻衣脫去、喜樂披上、哀哭變為跳舞——這首詩篇彷彿是洗革拉那一夜之後，大衛在心裡所唱的歌。
+篇名雖與章數同為「三十」純屬巧合，但主題卻驚人地呼應：撒母耳記上30章正是一整夜「哭泣」——大衛和眾人「放聲大哭，直哭得沒有氣力」（30:4）——如何在神的介入下，變成「早晨便必歡呼」的圖畫。大衛從黎明擊殺仇敵直到次日晚上（30:17），正是這一句「一宿雖然有哭泣，早晨便必歡呼」活生生的歷史場景。麻衣脫去、喜樂披上、哀哭變為跳舞——這首詩篇彷彿是洗革拉那一夜之後，大衛在心裡所唱的歌。
 
-### 聖詩：It Is Well with My Soul
-
-> **It Is Well with My Soul**
-> *Horatio G. Spafford, 1873*
->
-> When peace like a river attendeth my way,
-> When sorrows like sea billows roll—
-> Whatever my lot, Thou hast taught me to say,
-> "It is well, it is well with my soul."
+### It Is Well with My Soul
 
 司布真同時代的芝加哥律師霍雷肖·斯帕福德，在痛失四個女兒於海難之後，寫下這首詩歌——他所站立的，不是苦難消失之後的平靜，而是苦難仍在、卻仍能說「我心靈得安寧」的信心。這與大衛在30:6「倚靠耶和華——他的神，心裡堅固」如出一轍：兩者都不是先看見損失得著補償，才敢宣告平安；而是在損失還沒有任何轉機的當下，就先把心安放在神裡面。堅固不是等結果出來才有的獎賞，是在結果出來之前就先做的抉擇。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：大衛在洗革拉學會的，不是「如何在災難裡堅強」，而是「當一切都可以怪罪別人、可以先發洩、可以先逃跑的時候，先把自己交在神手裡」——神使用一個被自己主人拋棄的外邦少年人，帶大衛找回了「一個都不少」的失物；也使用大衛的一句判決，把「按功勞分配」的人性，翻轉成「按恩典均分」的國度法則，這一切最終指向那位真正「一個也不失落」祂子民的大衛的子孫——耶穌基督。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-「大衛都奪回來，沒有失落一個」(30:19)這句話，是一條貫穿整本聖經、名為「復原」的伏線上極重要的一環。伊甸園裡，亞當夏娃因罪失去了與神同住的產業；約瑟在埃及對哭泣悔恨的哥哥們說：「從前你們的意思是要害我，但神的意思原是好的，要保全許多人的性命」(創50:20)——被賣的約瑟，反倒成了保全全家性命的人；約伯在一切都被奪去之後，「耶和華就使約伯從苦境轉回……並且耶和華賜給他的比他從前所有的加倍」(伯42:10)。到了大衛，神藉著一個被自己主人棄絕的埃及少年人，把洗革拉所失去的一切——「無論大小、兒女、財物」——全數奪回，一個不少。這條線的終點，在主耶穌自己的宣告裡收束：「就是他所賜給我的，叫我一個也不失落，在末日卻叫他復活」(約6:39)。從伊甸園的失去，到約瑟、約伯、大衛一次次「奪回」的預表，最終指向那位真正「尋找、拯救失喪的人」(路19:10)的救主——祂所要復原的，不是幾座帳棚裡的財物，是整個因罪失落的創造，直到啟示錄21章「神要擦去他們一切的眼淚」(啟21:4)。
+「大衛都奪回來，沒有失落一個」（30:19）這句話，是一條貫穿整本聖經、名為「復原」的伏線上極重要的一環。伊甸園裡，亞當夏娃因罪失去了與神同住的產業；約瑟在埃及對哭泣悔恨的哥哥們說：「從前你們的意思是要害我，但神的意思原是好的，要保全許多人的性命」（創50:20）——被賣的約瑟，反倒成了保全全家性命的人；約伯在一切都被奪去之後，「耶和華就使約伯從苦境轉回……並且耶和華賜給他的比他從前所有的加倍」（伯42:10）。到了大衛，神藉著一個被自己主人棄絕的埃及少年人，把洗革拉所失去的一切全數奪回，一個不少——這條線最終收束於主耶穌自己的宣告（約6:39，見上文），直到啟示錄21章「神要擦去他們一切的眼淚」（啟21:4）。
 
-這條線還有另一股支流，藏在大衛立下的那條律例裡。「上陣的得多少，看守器具的也得多少」(30:24)，並非大衛憑空發明——摩西早在米甸戰役之後就定下「打仗出去的人到會眾的一半，一半要歸與出去打仗的人，一半要歸與全會眾」的分法(民31:27)。這個「不按貢獻多寡、按恩典均分」的原則，穿越士師時代、大衛的曠野歲月，一路來到主耶穌的比喻裡：葡萄園主給最後一小時才來做工的人，與從早晨做到晚上的人，同樣的工錢(太20:1-16)——園主的回答同樣是：「我的東西難道不可隨我的意思用嗎？」保羅在論身子的比喻時，也說出同一個真理：「身上肢體，我們看為不體面的，越發給它加上體面……以致身上肢體沒有分爭，總要彼此相顧」(林前12:23,25)。從民數記到馬太福音，一條線清楚可見：神的國度裡，分享從來不是按著眼睛看得見的功勞計算，而是按著同屬一位王、同蒙一位神恩典的身份。
+這條線還有另一股支流，藏在大衛立下的那條律例裡。「上陣的得多少，看守器具的也得多少」（30:24），並非大衛憑空發明——摩西早在米甸戰役之後就定下「一半歸與出去打仗的人，一半歸與全會眾」的分法（民31:27）。這個「不按貢獻多寡、按恩典均分」的原則，一路來到主耶穌的比喻裡：葡萄園主給最後一小時才來做工的人，與從早晨做到晚上的人，同樣的工錢（太20:1-16）；保羅論身子的比喻時，也說出同一個真理：「身上肢體，我們看為不體面的，越發給它加上體面……總要彼此相顧」（林前12:23,25）。從民數記到馬太福音，一條線清楚可見：神的國度裡，分享從來不是按著眼睛看得見的功勞計算，而是按著同屬一位王、同蒙一位神恩典的身份。
 
 ### 提問式對話 (Let the Reader Speak)
 
-大衛「哭得沒有氣力」之後，才「堅固自己」——如果你此刻正處在一場「哭到沒有氣力」的損失裡，你是先問「這是誰的錯」，還是先像大衛一樣，轉向神求問下一步？大衛在還沒看見一絲勝利跡象之前，就先「求問耶和華」——你做重大決定的次序，是先計劃、先行動，事後才把神加進來，還是先求問，後起行？那個「上陣的和看守器具的一同均分」的律例，挑戰的正是我們心裡那把慣用的量尺——你如何看待教會裡那些「看守器具」、不站在聚光燈下的服事？你是否也曾像那些「惡人和匪類」一樣，暗自論斷某些人「配得的比較少」？
+- 先問：「大衛『哭得沒有氣力』之後，才『堅固自己』——如果你此刻正處在一場『哭到沒有氣力』的損失裡，你是先問『這是誰的錯』，還是先像大衛一樣，轉向神求問下一步？」
+- 再問：「大衛在還沒看見一絲勝利跡象之前，就先『求問耶和華』——你做重大決定的次序，是先計劃、先行動，事後才把神加進來，還是先求問，後起行？」
+- 追問：「那個『上陣的和看守器具的一同均分』的律例，挑戰的正是我們心裡那把慣用的量尺——你如何看待教會裡那些『看守器具』、不站在聚光燈下的服事？」
+- 落到自己：「你是否也曾像那些『惡人和匪類』一樣，暗自論斷某些人『配得的比較少』？」
 
 ### 活在今天．AI時代 (Living It Today)
 
@@ -264,13 +244,11 @@ publisher: 三書精讀出版系統
 
 ### 今天的祭壇 (Today's Altar)
 
-具體行動：寫下一位你教會或生命中「看守器具」卻很少被看見的人——可能是一位長年代禱卻沒有站上台前的長者，一位在幕後默默服事、從不被感謝的弟兄姊妹。今天用具體的方式(一句感謝的話、一通電話、一份實際的幫助)向他表達：他的份，在神眼中，與那些「上陣的」一樣多。
+- **早晨**：寫下一位你教會或生命中「看守器具」卻很少被看見的人——可能是一位長年代禱卻沒有站上台前的長者，一位在幕後默默服事、從不被感謝的弟兄姊妹。
+- **晚上**：省察——我今天是否也用「看得見的產出」來衡量身邊弟兄姊妹的價值？
+- **一個行動**：今天用具體的方式（一句感謝的話、一通電話、一份實際的幫助）向他表達：他的份，在神眼中，與那些「上陣的」一樣多。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-大衛在洗革拉學會的功課，不是「如何在絕境裡不哭」，而是「哭盡了之後，先把自己交在神手裡」——這是一切信心操練裡最誠實、也最艱難的一步。神使用一個被自己主人拋棄的外邦少年人，帶大衛找回了「一個都不少」的失物；神也使用大衛的一句判決，把「按功勞分配」的人性，翻轉成「按恩典均分」的國度法則。這一切，最終指向那位真正「一個也不失落」祂子民的大衛的子孫——耶穌基督，祂奪回的不只是帳棚裡的財物，是整個因罪失落的世界。
+**你看見耶穌了嗎**：大衛「一個都不少」地奪回了洗革拉所失去的一切，那真正的大衛的子孫，卻要「一個也不失落」地尋回祂父所賜給祂的每一個人，「叫他在末日復活」（約6:39）。大衛在灰燼裡先堅固己心，才求問耶和華；那一位卻在客西馬尼園裡，先俯伏禱告，才走向十字架，為要把你我從罪的擄掠中「全都奪回」。你今天所失去的，是否也願意先帶到祂面前，而不是先自己想辦法挽回？
 
 ---
 
@@ -278,13 +256,9 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **谷底的第一個動作**：大衛在眾叛親離、一無所有的時候，先「堅固自己」，才「求問」。我在遭遇重大損失時，慣性的第一個反應是什麼？
-
-2. **先求問，後行動**：大衛在還沒看見一絲勝利跡象之前，先求問耶和華，然後才出發追趕。我做重大決定的次序，是把神放在最前面，還是事後才把祂加進來？
-
-3. **被拋棄者的價值**：那個被主人拋棄、幾乎餓死的埃及少年人，成了大衛得勝的關鍵嚮導。我如何看待那些在我眼中「沒有用」的人？
-
-4. **恩典的分享**：大衛堅持「上陣的和看守器具的一同均分」。我對教會裡看不見的服事、看不見的犧牲，是否也存著同樣的恩典眼光？
+1. **谷底的第一個動作**：大衛在眾叛親離、一無所有的時候，先「堅固自己」，才「求問」。我在遭遇重大損失時，慣性的第一個反應是什麼？我做重大決定的次序，是把神放在最前面，還是事後才把祂加進來？
+2. **被拋棄者的價值**：那個被主人拋棄、幾乎餓死的埃及少年人，成了大衛得勝的關鍵嚮導。我如何看待那些在我眼中「沒有用」的人？
+3. **恩典的分享**：大衛堅持「上陣的和看守器具的一同均分」。我對教會裡看不見的服事、看不見的犧牲，是否也存著同樣的恩典眼光？
 
 ### 禱告回應
 
@@ -303,17 +277,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 大衛「放聲大哭，直哭得沒有氣力」(30:4)——聖經如此誠實地記錄信心偉人的崩潰，對你理解「屬靈的堅強」有什麼提醒？
-
-2. 「大衛卻倚靠耶和華——他的神，心裡堅固」(30:6)——這句話沒有說「有人安慰他」，而是他自己「堅固自己」。這對你今天面對孤立無援的處境有什麼意義？
-
-3. 那個被主人拋棄的埃及少年人，成了大衛得勝的關鍵。神為什麼常常使用被人看輕的人、事、物，成就祂的旨意？
-
-4. 大衛把「上陣的」和「看守器具的」一視同仁，立為以色列的永久律例(30:24-25)。這對今天教會如何看待「幕前」與「幕後」的服事，有什麼具體的挑戰？
-
-5. 大衛在還未登基之前，就把戰利品分送猶大各城(30:26-31)。這對你理解「得勝之後的慷慨」有什麼提醒？
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 完全的復原，一個不少 | 30:18-19 | 創50:20；伯42:10；約6:39；弗4:8；啟21:4 |
+| 恩典均分，不按功勞 | 30:24-25 | 民31:27；太20:1-16；林前12:23,25 |
+| 堅固己心在耶和華裡 | 30:6 | 詩42:5,11；43:5 |
+| 先求問後行動 | 30:7-8 | 撒上13章；撒上28章；來11:8 |
+| 掃羅未徹底順服的後果 | 30:1 | 撒上15:9；出17:8-16 |
 
 ---
 

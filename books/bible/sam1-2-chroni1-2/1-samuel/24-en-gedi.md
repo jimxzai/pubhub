@@ -10,17 +10,38 @@ publisher: 三書精讀出版系統
 
 撒母耳記上 24:1-22
 
-**經文核對**：[ai-eden.com/bible/1-samuel/24](https://www.ai-eden.com/bible/1-samuel/24?t=CUV,ESV&cols=2)
-
----
+**經文核對**：[ai-eden.com/bible/1-samuel/24](https://www.ai-eden.com/bible/1-samuel/24?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-隱基底的洞穴，是撒母耳記上最戲劇性的一幕:掃羅——那個追殺大衛多年、動用三千精兵搜山的王——毫無防備地走進大衛和跟隨他的人正藏身的那個洞穴深處,「大解」(24:3)。這是大衛一生僅有一次、也是最容易的一次奪權機會:一伸手、一刀,追殺就結束了,寶座就到手了。大衛的部下把這解讀為神的旨意:「耶和華曾應許你說:我要將你的仇敵交在你手裡,你可以任意待他。如今時候到了!」(24:4)他們沒有說錯神的應許,卻說錯了應許成就的方法與時間。大衛沒有伸手殺他,只是「悄悄地割下掃羅外袍的衣襟」——而即使這樣微小的舉動,也讓他「心中自責」(24:5)。
+> **本章鑰詞：受膏者 The LORD's Anointed**（מָשִׁיחַ；24:6,10大衛兩次拒絕伸手害「耶和華的受膏者」）\
+> **座標**：大衛興起（16-31章），啟示的次序第三步——神揀選的王，先在曠野學會不用自己的手奪取王位,只將審判交還給神（見卷首〈啟示的次序〉） \
+> （全書三部結構見〈概覽〉：撒母耳時代／掃羅時代／大衛興起）
 
-這一幕是彼得前書2:23最古老的預演之一:「他被罵不還口,受害不說威嚇的話,只將自己交託那按公義審判人的主。」大衛在洞穴深處所做的,正是把自己和自己的冤屈,全然交託給那位「按公義審判人」的神:「願耶和華在你我中間判斷是非,在你身上為我伸冤,我卻不親手加害於你。」(24:12)大衛本有能力、也有「合理」的屬靈依據(部下已經替他找好經文)去奪取本該屬於他的王位,他卻選擇不用自己的手成就神的應許。這正是腓立比書2章所描述那位「本有神的形像,不以自己與神同等為強奪的」(腓2:6)基督最早的一道影子——真正的王不是靠奪取登上寶座,而是靠降卑、靠交託、靠等候父的時候。
+隱基底的洞穴,是撒母耳記上最戲劇性的一幕:掃羅——那個追殺大衛多年、動用三千精兵搜山的王——毫無防備地走進大衛和跟隨他的人正藏身的那個洞穴深處,「大解」(24:3)。這是大衛一生僅有一次、也是最容易的一次奪權機會:一伸手、一刀,追殺就結束了,寶座就到手了。大衛的部下把這解讀為神的旨意:「耶和華曾應許你說:我要將你的仇敵交在你手裡,你可以任意待他。如今時候到了!」(24:4)他們沒有說錯神的應許,卻說錯了應許成就的方法與時間。大衛沒有伸手殺他,只是「悄悄地割下掃羅外袍的衣襟」——而即使這樣微小的舉動,也讓他「心中自責」(24:5)。這正是腓立比書2章所描述那位「本有神的形像,不以自己與神同等為強奪的」(腓2:6)基督最早的一道影子——真正的王不是靠奪取登上寶座,而是靠降卑、靠交託、靠等候父的時候。
 
-大衛稱掃羅為「耶和華的受膏者 (מְשִׁיחַ יְהוָה, meshiach YHWH)」,並兩次鄭重宣告「我在耶和華面前萬不敢伸手害他」(24:6,10,大意相同)——這不只是政治上的禮貌,是一個屬靈信念:凡神所膏立的,人不可擅自審判、擅自處決。這信念最終、也最完全地應驗在那位「受膏者」本身——耶穌基督(מָשִׁיחַ／Χριστός,兩個字都是「受膏者」的意思)身上:世人用不義的審判把祂釘上十字架,祂卻「將自己交託那按公義審判人的主」,而神在復活的清晨,親自為祂伸冤,「將祂升為至高,又賜給祂那超乎萬名之上的名」(腓2:9)。大衛在隱基底洞穴裡「不親手加害」的抉擇,是通往各各他那條「不用自己的手奪取寶座」之路上,第一塊清楚立起的路標。
+大衛稱掃羅為「耶和華的受膏者 (מְשִׁיחַ יְהוָה, meshiach YHWH)」,並兩次鄭重宣告「我在耶和華面前萬不敢伸手害他」(24:6,10)——這不只是政治上的禮貌,是一個屬靈信念:凡神所膏立的,人不可擅自審判、擅自處決。這信念最終應驗在那位「受膏者」本身——耶穌基督(מָשִׁיחַ／Χριστός,兩個字都是「受膏者」的意思)身上:世人用不義的審判把祂釘上十字架,祂卻「將自己交託那按公義審判人的主」(彼前2:23),而神在復活的清晨,親自為祂伸冤,「將祂升為至高,又賜給祂那超乎萬名之上的名」(腓2:9)。大衛在隱基底洞穴裡「不親手加害」的抉擇,是通往各各他那條「不用自己的手奪取寶座」之路上,第一塊清楚立起的路標。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Be Still, My Soul**
+> *Katharina von Schlegel, 1752*
+>
+> Be still, my soul: the Lord is on thy side;
+> Bear patiently the cross of grief or pain;
+> Leave to thy God to order and provide;
+> In every change He faithful will remain.
+> Be still, my soul: thy best, thy heavenly Friend
+> Through thorny ways leads to a joyful end.
+>
+> 我心哪,要安靜:主站在你這一邊;
+> 憂傷、痛苦的十架,要耐心背負;
+> 把安排與供應的事,都留給你的神;
+> 無論境遇怎樣改變,祂總是信實不變。
+> 我心哪,要安靜:那至美、屬天的朋友,
+> 必經過荊棘之路,領你到喜樂的終點。
 
 ---
 
@@ -38,31 +59,29 @@ publisher: 三書精讀出版系統
 
 > ^16^大衛向掃羅說完這話,掃羅說:「我兒大衛,這是你的聲音麼?」就放聲大哭,^17^對大衛說:「你比我公義;因為你以善待我,我卻以惡待你。^18^你今日顯明是以善待我;因為耶和華將我交在你手裏,你卻沒有殺我。^19^人若遇見仇敵,豈肯放他平安無事地去呢?願耶和華因你今日向我所行的,以善報你。^20^我也知道你必要作王,以色列的國必堅立在你手裏。^21^現在你要指着耶和華向我起誓,不剪除我的後裔,在我父家不滅沒我的名。」^22^於是大衛向掃羅起誓,掃羅就回家去;大衛和跟隨他的人上山寨去了。
 
-### English — ESV
+### English — NASB
 
-> ^1^When Saul returned from following the Philistines, he was told, "Behold, David is in the wilderness of Engedi." ^2^Then Saul took three thousand chosen men out of all Israel and went to seek David and his men in front of the Wildgoats' Rocks. ^3^And he came to the sheepfolds by the way, where there was a cave, and Saul went in to relieve himself. Now David and his men were sitting in the innermost parts of the cave.
+> ^1^Now when Saul returned from pursuing the Philistines, he was told, saying, "Behold, David is in the wilderness of Engedi." ^2^Then Saul took three thousand chosen men from all Israel and went to seek David and his men in front of the Rocks of the Wild Goats. ^3^He came to the sheepfolds on the way, where there *was* a cave; and Saul went in to relieve himself. Now David and his men were sitting in the inner recesses of the cave.
 
-> ^4^And the men of David said to him, "Here is the day of which the LORD said to you, 'Behold, I will give your enemy into your hand, and you shall do to him as it shall seem good to you.'" Then David arose and stealthily cut off a corner of Saul's robe. ^5^And afterward David's heart struck him, because he had cut off a corner of Saul's robe. ^6^He said to his men, "The LORD forbid that I should do this thing to my lord, the LORD's anointed, to put out my hand against him, seeing he is the LORD's anointed." ^7^So David persuaded his men with these words and did not permit them to attack Saul. And Saul rose up and left the cave and went on his way.
+> ^4^The men of David said to him, "Behold, *this is* the day of which the LORD said to you, 'Behold; I am about to give your enemy into your hand, and you shall do to him as it seems good to you.'" Then David arose and cut off the edge of Saul's robe secretly. ^5^It came about afterward that David's conscience bothered him because he had cut off the edge of Saul's *robe*. ^6^So he said to his men, "Far be it from me because of the LORD that I should do this thing to my lord, the LORD'S anointed, to stretch out my hand against him, since he is the LORD'S anointed." ^7^David persuaded his men with *these* words and did not allow them to rise up against Saul. And Saul arose, left the cave, and went on *his* way.
 
-> ^8^Afterward David also arose and went out of the cave, and called after Saul, "My lord the king!" And when Saul looked behind him, David bowed with his face to the earth and paid homage. ^9^And David said to Saul, "Why do you listen to the words of men who say, 'Behold, David seeks your harm'? ^10^Behold, this day your eyes have seen how the LORD gave you today into my hand in the cave. And some told me to kill you, but I spared you. I said, 'I will not put out my hand against my lord, for he is the LORD's anointed.' ^11^See, my father, see the corner of your robe in my hand. For by the fact that I cut off the corner of your robe and did not kill you, you may know and see that there is no wrong or treason in my hands. I have not sinned against you, though you hunt my life to take it. ^12^May the LORD judge between me and you, may the LORD avenge me against you, but my hand shall not be against you. ^13^As the proverb of the ancients says, 'Out of the wicked comes wickedness.' But my hand shall not be against you.
+> ^8^Now afterward David arose and went out of the cave and called after Saul, saying, "My lord the king!" And when Saul looked behind him, David bowed with his face to the ground and prostrated himself. ^9^David said to Saul, "Why do you listen to the words of men, saying, 'Behold, David seeks to harm you'? ^10^Behold, this day your eyes have seen that the LORD had given you today into my hand in the cave, and some said to kill you, but *my eye* had pity on you; and I said, 'I will not stretch out my hand against my lord, for he is the LORD'S anointed.' ^11^Now, my father, see! Indeed, see the edge of your robe in my hand! For in that I cut off the edge of your robe and did not kill you, know and perceive that there is no evil or rebellion in my hands, and I have not sinned against you, though you are lying in wait for my life to take it. ^12^May the LORD judge between you and me, and may the LORD avenge me on you; but my hand shall not be against you. ^13^As the proverb of the ancients says, 'Out of the wicked comes forth wickedness'; but my hand shall not be against you.
 
-> ^14^After whom has the king of Israel come out? After whom do you pursue? After a dead dog! After a flea! ^15^May the LORD therefore be judge and give sentence between me and you, and see to it and plead my cause and deliver me from your hand."
+> ^14^After whom has the king of Israel come out? Whom are you pursuing? A dead dog, a single flea? ^15^The LORD therefore be judge and decide between you and me; and may He see and plead my cause and deliver me from your hand."
 
-> ^16^As soon as David had finished speaking these words to Saul, Saul said, "Is this your voice, my son David?" And Saul lifted up his voice and wept. ^17^He said to David, "You are more righteous than I, for you have repaid me good, whereas I have repaid you evil. ^18^And you have declared this day how you have dealt well with me, in that you did not kill me when the LORD put me into your hands. ^19^For if a man finds his enemy, will he let him go away safe? So may the LORD reward you with good for what you have done to me this day. ^20^And now, behold, I know that you shall surely be king, and that the kingdom of Israel shall be established in your hand. ^21^Swear to me therefore by the LORD that you will not cut off my offspring after me, and that you will not destroy my name out of my father's house." ^22^And David swore this to Saul. Then Saul went home, but David and his men went up to the stronghold.
+> ^16^When David had finished speaking these words to Saul, Saul said, "Is this your voice, my son David?" Then Saul lifted up his voice and wept. ^17^He said to David, "You are more righteous than I; for you have dealt well with me, while I have dealt wickedly with you. ^18^You have declared today that you have done good to me, that the LORD delivered me into your hand and *yet* you did not kill me. ^19^For if a man finds his enemy, will he let him go away safely? May the LORD therefore reward you with good in return for what you have done to me this day. ^20^Now, behold, I know that you will surely be king, and that the kingdom of Israel will be established in your hand. ^21^So now swear to me by the LORD that you will not cut off my descendants after me and that you will not destroy my name from my father's household." ^22^David swore to Saul. And Saul went to his home, but David and his men went up to the stronghold.
 
 ---
 
 ## 背景 (Context)
 
-### 地理背景:隱基底
+### 地理與敘事背景:隱基底
 
-「隱基底 (עֵין גֶּדִי, En Gedi,意為『小山羊的泉源』)」是死海西岸一片罕見的綠洲,四周是猶大曠野的懸崖峭壁,落差極大,遍佈石灰岩溶洞——正是躲藏和伏擊都同樣容易的地形。「野羊的磐石」(24:2)這個地名本身就說明了這地的險峻荒涼:連野山羊都要靠峭壁才能立足。大衛此時已在猶大曠野輾轉逃亡數年(見22-23章:亞杜蘭、基伊拉、西弗曠野),剛剛才在西弗曠野死裏逃生——多虧非利士人同時入侵,掃羅才被迫撤兵回頭(23:27-28)。緊接著,「掃羅追趕非利士人回來」(24:1),立刻又聽到大衛的下落,再次動員三千精兵,一路追進隱基底的曠野。
+「隱基底 (עֵין גֶּדִי, En Gedi,意為『小山羊的泉源』)」是死海西岸一片罕見的綠洲,四周是猶大曠野的懸崖峭壁,遍佈石灰岩溶洞——正是躲藏和伏擊都同樣容易的地形。「野羊的磐石」(24:2)這個地名本身就說明了這地的險峻荒涼。大衛此時已在猶大曠野輾轉逃亡數年,剛剛才在西弗曠野死裏逃生——多虧非利士人同時入侵,掃羅才被迫撤兵回頭(23:27-28)。緊接著,「掃羅追趕非利士人回來」(24:1),立刻又聽到大衛的下落,再次動員三千精兵,一路追進隱基底的曠野。23章記載,西弗人兩次向掃羅通風報信,大衛幾乎被掃羅的軍隊團團圍住(23:26),就在千鈞一髮之際,神藉非利士人犯境解了圍(23:27)。讀者若把23-24章連著讀,會清楚看見一個對比:23章是神用「外部事件」解救大衛;24章是神用大衛「內心的抉擇」(不伸手害掃羅)成就更深一層的拯救——不只救他脫離死亡,更救他脫離用不義手段奪權的試探。
 
-### 承接上文:西弗人的出賣與神奇的解圍
+### 年代與詩篇的連結
 
-23章記載,西弗人兩次向掃羅通風報信,大衛幾乎被掃羅的軍隊團團圍住,「大衛急忙躲避掃羅……掃羅和跟隨他的人四面圍住大衛和跟隨他的人,要拿獲他們」(23:26)。就在這千鈞一髮之際,「有使者來見掃羅,說:『非利士人犯境搶掠,請王快快回去!』」(23:27)——這不是巧合的插曲,是神親自介入歷史的護理。24章緊接著就是這次死裏逃生之後、掃羅回頭再度追來的場景。讀者若把23-24章連著讀,會清楚看見一個對比:23章是神用「外部事件」(非利士入侵)解救大衛;24章是神用大衛「內心的抉擇」(不伸手害掃羅)成就更深一層的拯救——不只救他脫離死亡,更救他脫離用不義手段奪權的試探。
-
-### 文學結構
+本章事件約發生於主前1019年。詩篇57篇的標題明確記載:「大衛逃避掃羅,藏在洞裏。那時,他作這金詩,交於伶長。調用休要毀壞。」——這正是隱基底洞中所寫的詩。詩篇7篇的標題「大衛指著便雅憫人古實的話,向耶和華唱的流離歌」,多數釋經家將其繫年於24-26章這段被誣陷、被追殺的曠野歲月。這兩首詩篇不是抽象的靈修文字,是這一天洞穴裏發生之事最直接的禱告迴響。
 
 | 段落 | 內容 | 經文 |
 |------|------|------|
@@ -85,10 +104,6 @@ publisher: 三書精讀出版系統
 
 兩次幾乎相同的劇本,說明的不是敘事的重複,而是大衛信念的穩定,與掃羅悔悟的不穩定——一次感動流不出持久的順服,需要神一而再、再而三地光照。
 
-### 年代與詩篇的連結
-
-本章事件約發生於主前1019年。詩篇57篇的標題明確記載:「大衛逃避掃羅,藏在洞裏。那時,他作這金詩,交於伶長。調用休要毀壞。」——這正是隱基底洞中所寫的詩。詩篇7篇的標題「大衛指著便雅憫人古實的話,向耶和華唱的流離歌」,多數釋經家(包括《撒母耳記上研讀》總論所引的詩篇對照表)將其繫年於24-26章這段被誣陷、被追殺的曠野歲月。這兩首詩篇不是抽象的靈修文字,是這一天洞穴裏發生之事最直接的禱告迴響。
-
 ---
 
 ## 原文研讀 (Word Study)
@@ -106,41 +121,33 @@ publisher: 三書精讀出版系統
 
 ### 「心擊打他」——良心作為神留在人裏面的法官
 
-24:5「大衛心中自責」,希伯來原文直譯是「大衛的心擊打他 (וַיַּךְ לֵב־דָּוִד אֹתוֹ)」——用的正是「擊打」這個動詞(נָכָה),與大衛拒絕「伸手害」掃羅是同一個字根。這是原文一個極精妙的雙關:大衛沒有讓自己的手擊打掃羅,他的良心卻先擊打了他自己——只因割下了一片衣襟。這說明了一件重要的事:真正敬畏神的人,良心的敏感度不是隨着犯罪的大小而等比例反應,而是隨着神的同在而反應。割袍角,論罪行的輕重,微不足道;但大衛所看重的不是這行動的「傷害程度」,而是這行動所冒犯的「對象的神聖性」——耶和華的受膏者。
+24:5「大衛心中自責」,希伯來原文直譯是「大衛的心擊打他 (וַיַּךְ לֵב־דָּוִד אֹתוֹ)」——用的正是「擊打」這個動詞(נָכָה),與大衛拒絕「伸手害」掃羅是同一個字根。這是原文一個極精妙的雙關:大衛沒有讓自己的手擊打掃羅,他的良心卻先擊打了他自己——只因割下了一片衣襟。這說明了一件重要的事:真正敬畏神的人,良心的敏感度不是隨著犯罪的大小而等比例反應,而是隨著神的同在而反應。割袍角,論罪行的輕重,微不足道;但大衛所看重的不是這行動的「傷害程度」,而是這行動所冒犯的「對象的神聖性」——耶和華的受膏者。
 
 ### מָשִׁיחַ(受膏者)——貫穿全書的鑰匙字,在此章具體化
 
-《撒母耳記上研讀》總論已指出,「מָשִׁיחַ」一字首次出現於哈拿禱告(2:10),是全書彌賽亞盼望的伏筆。到了24章,這個字第一次從「未來的應許」變成大衛「現在的抉擇」——他真實面對一位已經失去神的靈、卻仍握有「受膏者」名分的君王,並且真實地選擇尊重這名分,即使那名分的持有人正在獵殺他。大衛對「受膏者」身分的敬畏,遠超過他對「掃羅這個人」的觀感——這正是他後來能被稱為「合神心意的人」的具體證據:他看重神所設立的秩序,過於看重自己眼前的利益。
+「מָשִׁיחַ」一字首次出現於哈拿禱告(2:10),是全書彌賽亞盼望的伏筆。到了24章,這個字第一次從「未來的應許」變成大衛「現在的抉擇」——他真實面對一位已經失去神的靈、卻仍握有「受膏者」名分的君王,並且真實地選擇尊重這名分,即使那名分的持有人正在獵殺他。大衛對「受膏者」身分的敬畏,遠超過他對「掃羅這個人」的觀感——這正是他後來能被稱為「合神心意的人」的具體證據:他看重神所設立的秩序,過於看重自己眼前的利益。
 
 ### 死狗與虼蚤——受苦者最深的自我認知
 
-「不過追趕一條死狗,一個虼蚤就是了」(24:14),大衛用當代最卑賤的形象形容自己——死狗(連活狗的價值都沒有)、虼蚤(微小得幾乎不值得動用軍隊)。這不是自憐自艾,而是大衛藉此逼問掃羅:你動用三千精兵、傾全國之力所追殺的,究竟值不值得?這種極致的自我謙卑式申訴,日後在受苦僕人身上(賽53:3「被藐視,被人厭棄」)、在被釘十架的基督身上(詩22:6「但我是蟲,不是人,被眾人羞辱,被百姓藐視」),都能看見同一種修辭——受苦的義人不誇張自己的委屈,反而用極卑微的語言描述自己,把審斷的權柄完全交給那位「按公義審判」的神。
+「不過追趕一條死狗,一個虼蚤就是了」(24:14),大衛用當代最卑賤的形象形容自己——死狗、虼蚤。這不是自憐自艾,而是大衛藉此逼問掃羅:你動用三千精兵、傾全國之力所追殺的,究竟值不值得?這種極致的自我謙卑式申訴,日後在受苦僕人身上(賽53:3「被藐視,被人厭棄」)、在被釘十架的基督身上(詩22:6「但我是蟲,不是人,被眾人羞辱,被百姓藐視」),都能看見同一種修辭——受苦的義人不誇張自己的委屈,反而用極卑微的語言描述自己,把審斷的權柄完全交給那位「按公義審判」的神。
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-### 1. 拒絕篡奪神的時間 (Refusing to Seize God's Timing)
+### 1. 拒絕篡奪神的時間與秩序
 
-大衛的部下不是撒謊——神確實應許過要把仇敵交在大衛手中,這應許本身沒有錯(參撒上23:7中掃羅自己也承認「神將他交在我手裡了」——只是說反了對象)。他們錯的是把「神的應許」和「這一刻、這種手段」畫上等號,用一句聽起來很屬靈的話(「如今時候到了」),替一個屬肉體的行動披上屬靈的外衣。這正是每個蒙應許、卻還在等候應許成就的人最容易落入的試探:不是懷疑神的應許會不會成就,而是不肯讓神決定「怎麼」成就、「何時」成就。大衛後來成王,靠的不是這一刀,而是神在祂自己所定的時候,親自把整個以色列的心轉向他(撒下5:1-3)。凡是要用自己的手強行「幫助神」實現應許的人,最終得到的往往不是應許,而是應許被玷污後的贗品——正如亞伯拉罕靠夏甲搶跑應許,留下的是延續數代的家庭裂痕(創16章;亦見〈06-亞伯蘭蒙召〉一章的討論)。大衛在隱基底洞穴裏所守住的,正是亞伯蘭在夏甲那件事上沒有守住的那道界線。
+大衛的部下不是撒謊——神確實應許過要把仇敵交在大衛手中,這應許本身沒有錯。他們錯的是把「神的應許」和「這一刻、這種手段」畫上等號,用一句聽起來很屬靈的話(「如今時候到了」),替一個屬肉體的行動披上屬靈的外衣。凡是要用自己的手強行「幫助神」實現應許的人,最終得到的往往不是應許,而是應許被玷污後的贗品——正如亞伯拉罕靠夏甲搶跑應許,留下的是延續數代的家庭裂痕(創16章)。而大衛兩次鄭重宣告「我不敢伸手害我的主……因他是耶和華的受膏者」(24:6,10),持守的是同一道界線的另一面:不僅不篡奪神的時間,也不篡奪神所設立的秩序——詩篇105:15神親自吩咐「不可難為我受膏的人」,大衛主動把這條原則應用在自己最痛的傷口上,即使代價是繼續在曠野裏逃亡。他尊重的不是掃羅這個人的德行,而是神親自所膏立的那個位分。
 
-### 2. 「耶和華的受膏者」——不可褻瀆神所設立的秩序
-
-大衛兩次鄭重宣告:「我不敢伸手害我的主……因他是耶和華的受膏者」(24:6,10,大意重複)。值得注意的是,大衛從未否認掃羅是他的仇敵、是要奪他性命的人;他所持守的原則,不是「掃羅是個好人」,而是「掃羅的位分是神所設立的」。詩篇105:15神親自吩咐:「不可難為我受膏的人,也不可惡待我的先知。」——這原是神向列祖所發的警告,大衛卻主動把它應用在自己身上,即使遵守這條原則的代價,是讓自己繼續在曠野裏逃亡。這給我們一個極其現實的功課:尊重神所設立的權柄與秩序,往往不是在「這權柄待我公平」的時候才做的事,而恰恰是在「這權柄辜負了我、傷害了我」的時候,仍然選擇不用自己的手去審判、去報復。大衛尊重的不是掃羅這個人的德行,而是神親自所膏立的那個位分。
-
-### 3. 良心:神留在人裏面最溫柔也最鋒利的守衛
+### 2. 良心:神留在人裏面最溫柔也最鋒利的守衛
 
 「大衛心中自責」(24:5)這一句話,是整章敘事的樞紐——如果沒有這一句,整段故事會讀成一個精於算計的政治人物懂得如何自我克制,好爭取民心;有了這一句,整段故事變成一個真實敬畏神的人,連微不足道的舉動都逃不過自己的良心。良心的功用,從來不是等到犯了大罪才發出警報,而是在「還來得及回頭」的那個小小裂口就已經開始說話。一個人若長期忽略良心在小事上的提醒,久而久之,良心的聲音會越來越微弱,直到大罪臨頭時也聽不見了。大衛在此章展現的,正是一顆持續被神訓練得敏銳的良心——這樣的良心,才是後來他犯下拔示巴、烏利亞那樣的大罪之後(撒下11-12章),仍能被拿單先知一句話擊碎、徹底破碎悔改(詩51篇)的根基。
 
-### 4. 掃羅的眼淚:認罪不等於悔改
+### 3. 掃羅的眼淚:認罪不等於悔改
 
 掃羅聽完大衛的話,「放聲大哭」,說:「你比我公義……你今日顯明是以善待我」(24:16-18),甚至預言「我也知道你必要作王」(24:20)。這些話句句都對,情感也似乎真摯——但撒母耳記上接下來的敘事(尤其是26章幾乎一模一樣的重演,以及27章大衛因為不再信任這份和解而選擇投奔非利士)清楚告訴讀者:掃羅這裏所流的眼淚,是哥林多後書7:10所說「世俗的憂愁」,不是「依着神的意思憂愁」。他為自己被大衛的仁慈感動而落淚,卻沒有真正處理自己心中對大衛的嫉恨與懼怕的根源;他口裏承認「你必要作王」,行動上卻沒有停止一切敵意的準備。真正的悔改,不只是被對方的良善感動得說出正確的話,而是願意讓那份感動,具體地重整自己接下來的每一個選擇。掃羅的眼淚提醒我們:情感上的觸動,如果沒有轉化為持續的順服,終究只是一場暫時的雨,很快就會蒸發。
 
-### 5. 交託給那位按公義審判人的主
-
-「願耶和華在你我中間判斷是非,在你身上為我伸冤,我卻不親手加害於你」(24:12),這句話幾乎是彼得前書2:23整節經文的舊約原型:「他被罵不還口,受害不說威嚇的話,只將自己交託那按公義審判人的主。」大衛在這裏所做的,不是壓抑自己的冤屈、假裝不痛,而是清清楚楚地把冤屈說出來(24:9-11就是一段完整的申訴),卻同時清清楚楚地把審斷的權柄交還給神,不讓自己成為自己案件的法官兼劊子手。這是聖經倫理裏極其重要,卻常被誤解的一課:饒恕與沉默不是同一件事,饒恕與否認傷害也不是同一件事。大衛既誠實面對自己所受的傷害,又不讓那傷害驅使他犯下比對方更大的罪。
-
-### 6. 一條死狗,一個虼蚤:受苦者最卑微的自辯,卻最終得着最高的位分
+### 4. 一條死狗,一個虼蚤:自卑的必升為高
 
 大衛用「死狗」「虼蚤」形容自己在掃羅追殺行動中的「份量」(24:14),這種極度的自我貶抑式申訴,不是懦弱,而是一種屬靈的智慧:他不需要誇大自己的委屈來博取同情,因為他所信靠的神,本來就是「從灰塵裡抬舉貧寒人,從糞堆中提拔窮乏人」的神(撒上2:8,哈拿之歌)。歷史的弔詭在於:這個自稱「死狗」「虼蚤」的人,日後成了以色列最偉大的王;那個動用三千精兵、自視為以色列合法君王的掃羅,卻死在基利波山上,屍身被掛在伯珊城牆上示眾(撒上31:10)。「凡自高的,必降為卑;自卑的,必升為高」(路14:11)——這條屬靈定律,早在大衛稱自己是死狗虼蚤的那一刻,就已經在悄悄運行。
 
@@ -148,9 +155,7 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-### 清教時期
-
-**馬太·亨利 (Matthew Henry, 1662-1714)**:
+### 清教時期:馬太·亨利 (Matthew Henry, 1662-1714)
 
 > "Sin is a thing which it becomes us to startle at, and to resist the temptations to, not only with resolution, but with a holy indignation."
 >
@@ -160,20 +165,14 @@ publisher: 三書精讀出版系統
 亨利特別注意到大衛「心中自責」這一細節,並由此引申出一條普遍的屬靈原則:一個人裏面有一顆會為看似微小的罪而自責的心,這是一件好事。亨利指出,大衛之所以視掃羅為不可侵犯的對象,關鍵在於掃羅是「神的受膏者」、是他名分上的「主」;亨利借大衛之口寫道:「他是我的主,是耶和華的受膏者,我理當保護他,也欠他信實與效忠」("He is my lord, and the Lord's anointed, whom I ought to protect, and to whom I owe faith and allegiance")——這忠信不是因為掃羅配得,而是因為神所設立的秩序本身配得尊重。
 — 參 Matthew Henry, *Commentary on the Whole Bible*, 1 Samuel 24(blueletterbible.org 所錄全本注釋)
 
-### 十九世紀釋經傳統
+### 十九世紀釋經傳統:凱爾與德里慈 (Keil & Delitzsch)
 
-**凱爾與德里慈 (Keil & Delitzsch)**:
-
-凱爾與德里慈在論撒母耳記上24:4時指出,大衛部下所說「耶和華曾應許你說……如今時候到了」這句話,雖然聽起來像是在轉述某個神的啟示,但緊接的經文清楚顯明大衛並未真正領受過這樣的啟示(what follows clearly shows that David had received no such oracle)——神的話從未吩咐大衛可以隨自己的意思處置掃羅。
+凱爾與德里慈論撒母耳記上24:4時指出,大衛部下所說「耶和華曾應許你說……如今時候到了」這句話,雖然聽起來像是在轉述某個神的啟示,但緊接的經文清楚顯明大衛並未真正領受過這樣的啟示(what follows clearly shows that David had received no such oracle)——神的話從未吩咐大衛可以隨自己的意思處置掃羅。這句話精準指出了大衛部下那句「如今時候到了」的破綻所在:神的應許(將仇敵交在大衛手裏)確實存在,但神從未親自吩咐大衛可以憑此應許自行動手殺掃羅。應許的內容與應許成就的方式,是兩件不同的事——凱爾與德里慈提醒讀者,大衛的智慧正在於他分辨清楚了這兩者的差別。
 — 參 C. F. Keil & Franz Delitzsch, *Commentary on the Old Testament*,論撒母耳記上24章(引文精神參 biblehub.com/commentaries/kad 所錄英譯本)
-
-這句話精準指出了大衛部下那句「如今時候到了」的破綻所在:神的應許(將仇敵交在大衛手裏)確實存在,但神從未親自吩咐大衛可以憑此應許自行動手殺掃羅。應許的內容與應許成就的方式,是兩件不同的事——凱爾與德里慈提醒讀者,大衛的智慧正在於他分辨清楚了這兩者的差別。
 
 ### 當代釋經
 
-**約翰·麥克阿瑟 (John MacArthur)**:
-
-麥克阿瑟在2021年3月7日一篇論馬太福音5:43-48「愛你的仇敵」的講道中,直接引用了本章作為例證。他說:
+**約翰·麥克阿瑟 (John MacArthur)** 在2021年3月7日一篇論馬太福音5:43-48「愛你的仇敵」的講道中,直接引用了本章作為例證:
 
 > "You remember the story in 1 Samuel 24 when David went into the cave, same cave Saul was in, and Saul was trying to find a way to kill David... But David went up and cut a little piece off his garment—and David refused to take his life. And it says, in 1 Samuel 24:10, because David pitied him."
 >
@@ -182,52 +181,17 @@ publisher: 三書精讀出版系統
 
 麥克阿瑟把大衛在此章的舉動,直接放進主耶穌「愛你們的仇敵」(太5:44)這條命令的舊約範例之中——大衛面對的不是抽象的仇敵,是真實、多年來動用國家軍力獵殺他的仇敵,他卻選擇憐憫,而非報復。
 
-**乾伯·摩根 (G. Campbell Morgan)**:
-
-摩根雖然沒有針對本章逐節寫下詳細注釋,但他在論撒母耳記上全書、尤其是論掃羅一生的總體評語,同樣適用於本章掃羅所顯出的性格模式:掃羅的一生,是天然的恩賜(勇氣、體格、初期的謙卑)始終沒有轉化為對神真正的靈性降服的一齣悲劇。摩根指出,掃羅每一次危機中的第一反應,都是「先保全自己在人眼中的地位」,而非「先詢問神的意思」——這個觀察用在24章掃羅一時被大衛的仁慈感動落淚、卻很快故態復萌(見26章)的反覆之上,格外貼切:掃羅的問題從不是缺乏被觸動的能力,而是缺乏讓那份觸動轉化為持續順服的靈性根基。(參 G. Campbell Morgan, *An Exposition of the Whole Bible*,論撒母耳記上;引文精神另見本系列〈01-撒母耳記上總論〉)
+**摩根 (G. Campbell Morgan)** 雖然沒有針對本章逐節寫下詳細注釋,但他在論撒母耳記上全書、尤其是論掃羅一生的總體評語,同樣適用於本章掃羅所顯出的性格模式:掃羅的一生,是天然的恩賜(勇氣、體格、初期的謙卑)始終沒有轉化為對神真正的靈性降服的一齣悲劇。摩根指出,掃羅每一次危機中的第一反應,都是「先保全自己在人眼中的地位」,而非「先詢問神的意思」——這個觀察用在24章掃羅一時被大衛的仁慈感動落淚、卻很快故態復萌(見26章)的反覆之上,格外貼切:掃羅的問題從不是缺乏被觸動的能力,而是缺乏讓那份觸動轉化為持續順服的靈性根基。(參 G. Campbell Morgan, *An Exposition of the Whole Bible*,論撒母耳記上)
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-### 麥克阿瑟:愛仇敵不是理論,是一個真實的洞穴 (John MacArthur)
+### Be Still, My Soul
 
-麥克阿瑟把24章讀為主耶穌「愛你的仇敵」教訓最有力的舊約印證:大衛所面對的,不是一個抽象的、隨口說說就能原諒的敵人,而是一位手握三千精兵、多年來鍥而不捨獵殺他性命的當朝君王。麥克阿瑟強調,大衛在此章「因為憐惜他」而放過殺他的良機,說明真正的愛仇敵,從來不是感覺不到傷害、假裝敵意不存在,而是在完全清楚敵意真實存在、且自己完全有能力報復的情況下,仍然選擇不用自己的手施行審判。
+這首十八世紀的德文詩歌,正是大衛在隱基底洞穴裏所活出的信念的迴響:「把一切交給你的神去安排和供應」("Leave to thy God to order and provide")——大衛完全可以「安排」自己的未來(一刀了結掃羅),他卻選擇「交託」。這首詩歌原是配Sibelius《芬蘭頌》旋律所譯,後半段還有一句大衛此刻尚未看見、卻終必應驗的應許:「你的神必負責引導將來,正如祂引導過去一樣」("thy God doth undertake to guide the future, as He has the past")——大衛回顧神過去怎樣一次次解救他(包括23章那次幾乎被圍困卻因非利士入侵而脫困),因此有把握把「將來」(何時登基、如何登基)也交在神手中。
 
-### 摩根一系:天然恩賜與靈性降服的落差 (G. Campbell Morgan)
-
-摩根對掃羅整體性格的評語——天然的恩賜始終沒有轉化為靈性的降服——在24章得到了一次集中的示範。掃羅在此章確實被觸動、確實落淚、確實說出「你比我公義」這樣誠實得驚人的話,這證明他並非全然麻木不仁、毫無屬靈感知力;但摩根一系的解經傳統提醒我們:被觸動的能力,與被神真正降服的生命,是兩件不同的事。掃羅擁有前者,卻始終缺乏後者——這正是他這一次的悔悟終究無法持久(見26章重演)的根本原因。
-
-### 黃長老查經:良心,是神留給每一個人最後的門鈴 (Ask Elder Wong)
-
-**精義一句話**:大衛沒有讓手去擊打掃羅,他的心卻先擊打了他自己——一個人若還聽得見良心的聲音,就還在神的恩典夠得着的範圍裏;掃羅曾經流淚,卻沒有真正悔改,因為他聽見的只是耳朵,不是心。
-
-黃長老常這樣提問:「你有沒有想過,大衛割下的只是一片衣角,微不足道,為什麼他的心會為這樣的小事自責?」——他指出,這正正說明一件事:一個人屬靈生命是否健康,不在於他犯了多大的罪,而在於他的良心對「小小的偏離」是否還有反應。「你今天生活裏,有沒有一件『小小的衣角』——一件你明知不完全對、卻因為太小而懶得處理的事?你的心,還會不會為這樣的事擊打你?」他也常把掃羅的眼淚拿來對比:「掃羅哭了,說得比誰都對,可是他的行動改了沒有?眼淚會流,行動卻沒有跟着改——這樣的悔改,經得起下一次試探嗎?」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-### 聖詩:Be Still, My Soul
-
-> **Be Still, My Soul**
-> *Katharina von Schlegel, 1752;譯自德文,配Sibelius《芬蘭頌》旋律*
->
-> Be still, my soul: the Lord is on thy side;
-> Bear patiently the cross of grief or pain;
-> Leave to thy God to order and provide;
-> In every change He faithful will remain.
-> Be still, my soul: thy best, thy heavenly Friend
-> Through thorny ways leads to a joyful end.
->
-> Be still, my soul: thy God doth undertake
-> To guide the future as He has the past.
-> Thy hope, thy confidence let nothing shake;
-> All now mysterious shall be bright at last.
-
-這首十八世紀的德文詩歌,正是大衛在隱基底洞穴裏所活出的信念的迴響:「把一切交給你的神去安排和供應」("Leave to thy God to order and provide")——大衛完全可以「安排」自己的未來(一刀了結掃羅),他卻選擇「交託」;「你的神必負責引導將來,正如祂引導過去一樣」("thy God doth undertake to guide the future, as He has the past")——大衛回顧神過去怎樣一次次解救他(包括23章那次幾乎被圍困卻因非利士入侵而脫困),因此有把握把「將來」(何時登基、如何登基)也交在神手中。
-
-### 詩篇:詩篇 57
+### 詩篇 57篇
 
 > 大衛逃避掃羅,藏在洞裏。那時,他作這金詩,交於伶長。調用休要毀壞。
 >
@@ -240,7 +204,7 @@ publisher: 三書精讀出版系統
 
 詩篇57篇的標題明確記載,這詩正是寫於「藏在洞裏」的時刻——極可能就是隱基底這一天,或這段逃亡歲月裏另一個極相似的處境。詩中一句「神啊,我心堅定,我心堅定」,與24:5「大衛心中自責」的那顆敏感良心,是同一顆心的兩面:一面是對神堅定的信靠,一面是對神聖秩序敏銳的敬畏。詩57篇末了「願你崇高過於諸天」的呼求,正是大衛在洞穴的黑暗與王座的懸而未決之間,仍然選擇仰望那位比掃羅、比自己的處境都更高的神。
 
-### 詩篇:詩篇 7 (節錄)
+### 詩篇 7篇(節錄)
 
 > 耶和華－我的神啊,我投靠你!求你救我脫離一切追趕我的人,將我救拔出來!
 > ……
@@ -253,17 +217,22 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：大衛沒有讓手去擊打掃羅,他的心卻先擊打了他自己——一個人若還聽得見良心的聲音,就還在神的恩典夠得着的範圍裏;掃羅曾經流淚,卻沒有真正悔改,因為他聽見的只是耳朵,不是心。大衛的申訴比他的沉默更誠實,他的交託比他的手更有力——真正的公義,最終不是靠人手贏來的,是靠一位「按公義審判人的主」親自成就的。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-「我不敢伸手害我的主……因他是耶和華的受膏者」(24:6,10)——這句話背後藏着一條貫穿全本聖經的伏線:凡神所設立、所膏立的位分,人不可擅自用暴力奪取或推翻,必須等候神自己的時間與方式來成就或收回。這條原則最早見於詩篇105:15,神向列祖發出警告:「不可難為我受膏的人,也不可惡待我的先知。」大衛把這條原則活生生地應用在自己最痛的傷口上——一個人最容易對自己說「這是特例」的時刻,正正是自己受了冤屈、又握有報復能力的那一刻,大衛卻沒有給自己找特例。
+**受膏者線**(一句帶過,詳見〈基督焦點〉):「耶和華的受膏者不可害」(24:6,10;亦見詩105:15)最終在那位真正的受膏者——基督(מָשִׁיחַ／Χριστός)身上完全應驗;祂被不義審判,卻仍「將自己交託那按公義審判人的主」(彼前2:23)。
 
-這條伏線的終點,是那位終極的「受膏者」——彌賽亞、基督(מָשִׁיחַ／Χριστός,兩個字同義)。祂被不義地審判、被釘死,猶太公會和羅馬巡撫聯手「觸害了耶和華的受膏者」,做了大衛在隱基底洞穴裏拒絕做的事。但基督自己在被釘的過程中,重複了大衛同樣的信念:「他被罵不還口,受害不說威嚇的話,只將自己交託那按公義審判人的主」(彼前2:23)。祂甚至在十字架上為釘祂的人求:「父啊,赦免他們,因為他們所做的,他們不曉得」(路23:34)。大衛在24章所守住的原則——不用自己的手審判、報復——耶穌基督在各各他把它活到了極致,而且是為了那些正在犯罪傷害祂的人。這條伏線告訴我們:真正的王權,從來不是靠武力奪取的,是靠神親自賜下、也靠受膏者甘心等候、甚至甘心受苦而成就的。
+**自卑與被升高線**:哈拿最早唱出「他從灰塵裏抬舉貧寒的人」(撒上2:8);大衛在本章自稱「死狗」「虼蚤」(24:14),卻是日後登基的那一位;主耶穌總結這條律:「凡自高的,必降為卑;自卑的,必升為高」(路14:11);而這條律在基督身上被推到極致——祂「自己卑微,存心順服,以至於死,且死在十字架上。所以神將他升為至高」(腓2:8-9)。
 
 ### 提問式對話 (Let the Reader Speak)
 
-大衛的部下把「神的應許」和「這個時機」畫上等號,用一句聽起來很屬靈的話催促大衛動手——你生命裏有沒有一次,也是被人(或被自己)用一句「聽起來很屬靈」的話,催促你用自己的手去「幫助神」完成祂的應許?後來回頭看,那真的是神的時候嗎?大衛「心中自責」,只因割下一片衣襟——你上一次「心裏自責」是什麼時候?是為了什麼樣大小的事?你的良心,最近還會為「小事」發聲嗎,還是已經習慣了沉默?掃羅流淚承認「你比我公義」,卻在下一章(26章)重演同樣的追殺——如果你曾經在某次被觸動、痛哭認錯之後,很快又故態復萌,是什麼讓那份觸動沒能變成持續的順服?
+- 先問：大衛的部下把「神的應許」和「這個時機」畫上等號,催促大衛動手——你生命裏有沒有一次,也是被人(或被自己)用一句「聽起來很屬靈」的話,催促你用自己的手去「幫助神」完成祂的應許?回頭看,那真的是神的時候嗎?
+- 再問：大衛「心中自責」,只因割下一片衣襟——你上一次「心裡自責」是為了什麼樣大小的事?你的良心,最近還會為「小事」發聲嗎?
+- 追問：掃羅流淚承認「你比我公義」,卻在下一章重演同樣的追殺——如果你曾經在某次被觸動、痛哭認錯之後,很快又故態復萌,是什麼讓那份觸動沒能變成持續的順服?
+- 落到自己：大衛用「死狗」「虼蚤」形容自己,卻仍然被神高舉——我是否也能在受委屈時,不誇大自己的冤屈,單單信靠神的公義,而不是急著為自己辯護?
 
 ### 活在今天．AI時代 (Living It Today)
 
@@ -271,13 +240,11 @@ publisher: 三書精讀出版系統
 
 ### 今天的祭壇 (Today's Altar)
 
-具體行動:找出你生命中一個「你完全有能力、也有理由『解決』對方」的關係或處境——一句話、一封郵件、一個決定,就能讓你在這件事上「贏」。今天效法大衛,在真正動手之前先停下來,問自己一句:「這是耶和華的受膏者嗎?」(也就是:這是不是一個神所設立、我不該擅自論斷或報復的位分或關係?)然後把這件事的公義與伸冤,明確用禱告交託給神,而不是用自己的手去成就。
+- **早晨**：找出你生命中一個「你完全有能力、也有理由『解決』對方」的關係或處境——一句話、一封郵件、一個決定,就能讓你在這件事上「贏」。
+- **晚上**：省察——我今天是否曾像大衛的部下一樣,用一句「聽起來很屬靈」的話,替自己想做的事找藉口?
+- **一個行動**：在真正動手之前先停下來,問自己:「這是耶和華的受膏者嗎?」也就是:這是不是一個神所設立、我不該擅自論斷或報復的位分或關係?然後把這件事的公義與伸冤,明確用禱告交託給神,而不是用自己的手去成就。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-大衛在隱基底洞穴裏所放下的,不只是一把可以殺掃羅的刀,更是「用自己的手成就神應許」的權利。他的良心比他的手更敏銳——手沒有動,心卻先自責;他的申訴比他的沉默更誠實——他把冤屈完整說出來,卻把審判完全交還給神。掃羅的眼淚提醒我們,被觸動不等於真悔改;大衛的交託提醒我們,真正的公義最終不是靠人手贏來的,是靠一位「按公義審判人的主」親自成就的——而那位主,最終親自成了被不義審判、卻仍交託到底的那一位受膏者。
+**你看見耶穌了嗎**：大衛把伸冤的權柄交還給神,自己卻仍受苦多年;基督在十字架上被不義審判,卻「將自己交託那按公義審判人的主」(彼前2:23),甚至為釘祂的人求:「父啊,赦免他們」(路23:34)。大衛放下的是一把刀,基督放下的是自己的生命——你今天手裡握著的,是準備伸張的公義,還是甘心交託的信靠?
 
 ---
 
@@ -286,12 +253,8 @@ publisher: 三書精讀出版系統
 ### 默想問題
 
 1. **良心的敏感度**:大衛「心中自責」,只因割下一片衣襟。我的良心,最近對什麼樣程度的事還會有反應?是否已經對某些「小小的偏離」麻木了?
-
 2. **不用自己的手**:我生命中有沒有一個處境,我完全有能力、也「理直氣壯」可以報復或反擊,卻被神呼召要「不伸手」,把伸冤的權柄交還給祂?
-
-3. **眼淚與行動**:掃羅的眼淚是真的,卻沒有帶來持久的改變。我有沒有經歷過類似的「感動卻沒有跟進」?是什麼讓感動停留在感動,沒有變成順服?
-
-4. **死狗與虼蚤的自我認知**:大衛用最卑微的語言形容自己,卻仍然被神高舉。我是否也能在受委屈時,不誇大自己的冤屈,單單信靠神的公義?
+3. **神所設立的權柄**:大衛稱掃羅為「耶和華的受膏者」,即使掃羅正在獵殺他——這對我今天如何看待、如何回應那些我認為辜負了我的權柄,有什麼提醒?
 
 ### 禱告回應
 
@@ -310,17 +273,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 大衛的部下說「如今時候到了」,這句話錯在哪裏?我們如何分辨「神的應許」和「催逼我們動手的聲音」?
-
-2. 大衛稱掃羅為「耶和華的受膏者」,即使掃羅正在獵殺他——這對我們今天如何看待神所設立的權柄,有什麼提醒?
-
-3. 「大衛心中自責」這句話,對於我們理解「良心」在屬靈生命中的角色,有什麼啟發?
-
-4. 掃羅流淚認錯,卻在26章重演同樣的追殺行動——真正的悔改和一時的情感觸動,分別在哪裏?
-
-5. 大衛把伸冤的權柄完全交給神(24:12,15),這與彼得前書2:23所描述基督的榜樣有什麼呼應?在你生活的處境中,這給你什麼具體的提醒?
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 耶和華的受膏者不可害 | 24:6,10 | 詩105:15;撒上26:9;彼前2:23 |
+| 交託審判給神 | 24:12,15 | 彼前2:23;路23:34 |
+| 死狗與虼蚤／自卑升高 | 24:14 | 撒上2:8;路14:11;腓2:6-9 |
+| 24與26章平行敘事 | 24:1-22 | 撒上26:1-25 |
+| 詩篇的迴響 | — | 詩57篇;詩7篇 |
 
 ---
 

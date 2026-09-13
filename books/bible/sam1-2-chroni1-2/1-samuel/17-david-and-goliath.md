@@ -10,19 +10,42 @@ publisher: 三書精讀出版系統
 
 撒母耳記上 17:1-58
 
-**經文核對**：[ai-eden.com/bible/1-samuel/17](https://www.ai-eden.com/bible/1-samuel/17?t=CUV,ESV&cols=2)
-
----
+**經文核對**：[ai-eden.com/bible/1-samuel/17](https://www.ai-eden.com/bible/1-samuel/17?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-創世記3:15是全本聖經第一句福音應許：「你（蛇）要傷他的腳跟，他要傷你的頭。」撒母耳記上17章，是這句應許在歷史裡最鮮明的一次戲劇化重演。歌利亞的石頭砸中大衛，只會傷他的腳跟；大衛的石頭卻正中歌利亞的額頭(17:49)，使他仆倒，然後大衛「將他的頭砍下來」(17:51)——傷頭，不是傷腳跟。這不是巧合的戰術細節，而是敘事者刻意的鏡頭：那踐踏頭顱的應許，第一次在歷史舞台上具體上演。而大衛把這顆頭顱帶到耶路撒冷(17:54)——當時還是耶布斯人的城，還不是「大衛的城」——這細節同樣意味深長：得勝的記號，被安放在那座日後要被稱為「大君王的城」(詩48:2)、日後各各他(「髑髏地」)所在的城裡。
+> **本章鑰詞：兩軍中間的人 The Man Between the Two Armies**（17:4,23「兩軍中間的人」）\
+> **座標**：大衛興起之始（16-31章），啟示的次序第三步——那位「神所揀選、看內心」的王尚未登基，就已在隱藏之中親自為百姓爭戰、得勝（見卷首〈啟示的次序〉）\
+> （全書三部結構見〈概覽〉：撒母耳時代／掃羅時代／大衛興起）
 
-歌利亞不只是一個高大的士兵，他是「兩軍中間的人 (אִישׁ הַבֵּנַיִם)」——古代近東容許兩軍各派一名代表出戰，代表全軍的勝敗(17:4,23)。這是全章最重要的結構：這不是四萬人對四萬人的混戰，而是「一個人代替全部人」的爭戰——那一個人贏，全體就贏；那一個人輸，全體就輸(17:9)。這正是羅馬書5:12-19「一人」原則的雛形：「因一人的悖逆，眾人成為罪人；照樣，因一人的順服，眾人也成為義了」(羅5:19)。大衛作以色列的代表出戰，勝負的果效直接歸算給那些從未親自舉起一刀一槍的百姓——這正是基督替代性得勝最古老的一幅活畫：祂是那位真正的「兩軍中間的人」，在十字架上單獨迎戰罪與死亡的全部重量，祂的得勝，直接算給了每一個在祂裡面、卻從未親自爭戰過的人。
+創世記3:15是全本聖經第一句福音應許：「你（蛇）要傷他的腳跟，他要傷你的頭。」大衛的石頭正中歌利亞的額頭，將他打倒，再親手「割了他的頭」（17:49,51）——傷頭，不是傷腳跟，這句古老應許第一次活生生地在歷史裡上演；大衛把這顆頭顱帶到耶路撒冷（17:54）——當時還是耶布斯人的城，日後卻要在城外一座名叫各各他（「髑髏地」）的小山，看見那真正、終極的「傷頭」時刻。歌利亞自稱「兩軍中間的人」（אִישׁ הַבֵּנַיִם，17:4,23）——古代近東容許兩軍各派一名代表決一死戰，一人得勝，全軍同蒙其利；大衛卻不靠刀槍，只靠「萬軍之耶和華的名」宣告得勝（17:45,47），正是羅馬書5:19「因一人的順服，眾人也成為義了」最古老的歷史演練，也是基督在十字架上獨自迎戰罪與死亡、卻把得勝直接算給凡在祂裡面之人的活畫——祂用死亡本身，敗壞那掌死權的魔鬼（來2:14），正如大衛用歌利亞自己的刀砍下他自己的頭。更耐人尋味的是：大衛此刻已受膏，卻仍未登基，仍要回去放羊（16:13,17:15）——祂是那「隱藏的受膏者」，在公開寶座尚未顯明之前，就已在曠野與戰場為祂尚未正式掌權的百姓爭戰、得勝，正如道成肉身那段被聖靈膏立（路3:22）、卻先以卑微僕人樣式行走世上的君王歲月。
 
-大衛的宣告更是全章的高峰：「你來攻擊我，是靠著刀槍和銅戟；我來攻擊你，是靠著萬軍之耶和華的名⋯⋯因為爭戰的勝敗全在乎耶和華」(17:45,47)。這句話後來成了先知、詩人反覆迴響的主題：「不是倚靠勢力，不是倚靠才能，乃是倚靠我的靈方能成事」(亞4:6)；「你們得救是本乎恩，也因著信⋯⋯不是出於自己，也不是出於行為」(弗2:8-9)。歌利亞用他自己的神明咒詛大衛(17:43)，正如撒但的國度靠恐嚇與咒詛運作；大衛卻不用武力、只用「耶和華的名」宣告勝利——這正是歌羅西書2:15所描述基督在十字架上所成就的：「既將一切執政的、掌權的擄來，明顯給眾人看，就仗著十字架誇勝」。希伯來書2:14說得更直接：基督「藉著死敗壞那掌死權的，就是魔鬼」——用死亡(魔鬼原本用來轄制人的武器)打敗魔鬼自己，正如大衛用歌利亞自己的刀砍下他自己的頭(17:51)。奧古斯丁看見了這一點——後面的〈歷代注疏〉會詳細展開。
+---
 
-還有一個容易被忽略的細節：大衛在受膏之後，並沒有立刻登基(16:13)，他仍是牧羊人的兒子，仍要回去放羊(17:15)；他打敗歌利亞的那一刻，他仍不是以色列公認的王，只是一個「隱藏的受膏者」在為祂尚未正式掌權的百姓爭戰、得勝。這正是道成肉身那段「隱藏的君王歲月」的預表：耶穌被聖靈膏立(路3:22)，卻先以卑微、服事、受苦的樣式行走在世上，在祂公開的寶座尚未顯明之前，就已經在各各他為祂的百姓爭戰、得勝。撒母耳記上17章問的問題，是：誰能勝過那看似不能勝過的巨人？答案先是大衛，是影子；終極的答案，是那位「大衛的子孫」——耶穌基督。
+## 配詩 (Opening Hymn)
+
+> **A Mighty Fortress Is Our God**
+> *Martin Luther, 1529（Frederick H. Hedge 英譯, 1852）*
+>
+> A mighty fortress is our God,
+> A bulwark never failing;
+> Our helper He, amid the flood
+> Of mortal ills prevailing:
+> For still our ancient foe
+> Doth seek to work us woe;
+> His craft and pow'r are great,
+> And, armed with cruel hate,
+> On earth is not his equal.
+>
+> 上主是我堅固保障，
+> 是我隨時的能力，
+> 祂幫助我們脫離一切
+> 臨到我們的患難。
+> 我們的仇敵雖然
+> 仍圖謀加害我們，
+> 詭計權勢非常之大，
+> 殘忍狠毒又狡猾，
+> 世上無人能相比。
 
 ---
 
@@ -52,29 +75,29 @@ publisher: 三書精讀出版系統
 
 > ^55^掃羅看見大衛去攻擊非利士人，就問元帥押尼珥說：「押尼珥啊，那少年人是誰的兒子？」押尼珥說：「我敢在王面前起誓，我不知道。」^56^王說：「你可以問問那幼年人是誰的兒子。」^57^大衛打死非利士人回來，押尼珥領他到掃羅面前，他手中拿著非利士人的頭。^58^掃羅問他說：「少年人哪，你是誰的兒子？」大衛說：「我是你僕人伯利恆人耶西的兒子。」
 
-### English — ESV
+### English — NASB
 
-> ^1^Now the Philistines gathered their armies for battle. And they were gathered at Socoh, which belongs to Judah, and encamped between Socoh and Azekah, in Ephes-dammim. ^2^And Saul and the men of Israel were gathered, and encamped in the Valley of Elah, and drew up in line of battle against the Philistines. ^3^And the Philistines stood on the mountain on the one side, and Israel stood on the mountain on the other side, with a valley between them.
+> ^1^Now the Philistines gathered their armies for battle; and they were gathered at Socoh which belongs to Judah, and they camped between Socoh and Azekah, in Ephes-dammim. ^2^Saul and the men of Israel were gathered and camped in the valley of Elah, and drew up in battle array to encounter the Philistines. ^3^The Philistines stood on the mountain on one side while Israel stood on the mountain on the other side, with the valley between them.
 
-> ^4^And there came out from the camp of the Philistines a champion named Goliath of Gath, whose height was six cubits and a span. ^5^He had a helmet of bronze on his head, and he was armed with a coat of mail, and the weight of the coat was five thousand shekels of bronze. ^6^And he had bronze armor on his legs, and a javelin of bronze slung between his shoulders. ^7^The shaft of his spear was like a weaver's beam, and his spear's head weighed six hundred shekels of iron. And his shield-bearer went before him. ^8^He stood and shouted to the ranks of Israel, "Why have you come out to draw up for battle? Am I not a Philistine, and are you not servants of Saul? Choose a man for yourselves, and let him come down to me. ^9^If he is able to fight with me and kill me, then we will be your servants. But if I prevail against him and kill him, then you shall be our servants and serve us." ^10^And the Philistine said, "I defy the ranks of Israel this day. Give me a man, that we may fight together." ^11^When Saul and all Israel heard these words of the Philistine, they were dismayed and greatly afraid.
+> ^4^Then a champion came out from the armies of the Philistines named Goliath, from Gath, whose height was six cubits and a span. ^5^*He had* a bronze helmet on his head, and he was clothed with scale-armor which weighed five thousand shekels of bronze. ^6^*He* also *had* bronze greaves on his legs and a bronze javelin *slung* between his shoulders. ^7^The shaft of his spear was like a weaver's beam, and the head of his spear *weighed* six hundred shekels of iron; his shield-carrier also walked before him. ^8^He stood and shouted to the ranks of Israel and said to them, "Why do you come out to draw up in battle array? Am I not the Philistine and you servants of Saul? Choose a man for yourselves and let him come down to me. ^9^If he is able to fight with me and kill me, then we will become your servants; but if I prevail against him and kill him, then you shall become our servants and serve us." ^10^Again the Philistine said, "I defy the ranks of Israel this day; give me a man that we may fight together." ^11^When Saul and all Israel heard these words of the Philistine, they were dismayed and greatly afraid.
 
-> ^12^Now David was the son of an Ephrathite of Bethlehem in Judah, named Jesse, who had eight sons. In the days of Saul the man was already old and advanced in years. ^13^The three oldest sons of Jesse had followed Saul to the battle. And the names of his three sons who went to the battle were Eliab the firstborn, and next to him Abinadab, and the third Shammah. ^14^David was the youngest. The three eldest followed Saul, ^15^but David went back and forth from Saul to feed his father's sheep at Bethlehem. ^16^For forty days the Philistine came forward and took his stand, morning and evening.
+> ^12^Now David was the son of the Ephrathite of Bethlehem in Judah, whose name was Jesse, and he had eight sons. And Jesse was old in the days of Saul, advanced *in years* among men. ^13^The three older sons of Jesse had gone after Saul to the battle. And the names of his three sons who went to the battle were Eliab the firstborn, and the second to him Abinadab, and the third Shammah. ^14^David was the youngest. Now the three oldest followed Saul, ^15^but David went back and forth from Saul to tend his father's flock at Bethlehem. ^16^The Philistine came forward morning and evening for forty days and took his stand.
 
-> ^17^And Jesse said to David his son, "Take for your brothers an ephah of this parched grain, and these ten loaves, and carry them quickly to the camp to your brothers. ^18^Also take these ten cheeses to the commander of their thousand. See if your brothers are well, and bring some token from them." ^19^Now Saul and they and all the men of Israel were in the Valley of Elah, fighting with the Philistines. ^20^And David rose early in the morning and left the sheep with a keeper and took the provisions and went, as Jesse had commanded him. And he came to the encampment as the host was going out to the battle line, shouting the war cry. ^21^And Israel and the Philistines drew up for battle, army against army. ^22^And David left the things in charge of the keeper of the baggage and ran to the ranks and went and greeted his brothers. ^23^As he talked with them, behold, the champion, the Philistine of Gath, Goliath by name, came up out of the ranks of the Philistines and spoke the same words as before. And David heard him. ^24^All the men of Israel, when they saw the man, fled from him and were much afraid. ^25^And the men of Israel said, "Have you seen this man who has come up? Surely he has come up to defy Israel. And the king will enrich the man who kills him with great riches and will give him his daughter and make his father's house free in Israel."
+> ^17^Then Jesse said to David his son, "Take now for your brothers an ephah of this roasted grain and these ten loaves and run to the camp to your brothers. ^18^Bring also these ten cuts of cheese to the commander of *their* thousand, and look into the welfare of your brothers, and bring back news of them. ^19^For Saul and they and all the men of Israel are in the valley of Elah, fighting with the Philistines." ^20^So David arose early in the morning and left the flock with a keeper and took *the supplies* and went as Jesse had commanded him. And he came to the circle of the camp while the army was going out in battle array shouting the war cry. ^21^Israel and the Philistines drew up in battle array, army against army. ^22^Then David left his baggage in the care of the baggage keeper, and ran to the battle line and entered in order to greet his brothers. ^23^As he was talking with them, behold, the champion, the Philistine from Gath named Goliath, was coming up from the army of the Philistines, and he spoke these same words; and David heard *them.* ^24^When all the men of Israel saw the man, they fled from him and were greatly afraid. ^25^The men of Israel said, "Have you seen this man who is coming up? Surely he is coming up to defy Israel. And it will be that the king will enrich the man who kills him with great riches and will give him his daughter and make his father's house free in Israel."
 
-> ^26^And David said to the men who stood by him, "What shall be done for the man who kills this Philistine and takes away the reproach from Israel? For who is this uncircumcised Philistine, that he should defy the armies of the living God?" ^27^And the people answered him in the same way, "So shall it be done to the man who kills him." ^28^Now Eliab his eldest brother heard when he spoke to the men. And Eliab's anger was kindled against David, and he said, "Why have you come down? And with whom have you left those few sheep in the wilderness? I know your presumption and the evil of your heart, for you have come down to see the battle." ^29^And David said, "What have I done now? Was it not but a word?" ^30^And he turned away from him toward another, and spoke in the same way, and the people answered him again as before. ^31^When the words that David spoke were heard, they repeated them before Saul, and he sent for him.
+> ^26^Then David spoke to the men who were standing by him, saying, "What will be done for the man who kills this Philistine and takes away the reproach from Israel? For who is this uncircumcised Philistine, that he should taunt the armies of the living God?" ^27^The people answered him in accord with this word, saying, "Thus it will be done for the man who kills him." ^28^Now Eliab his oldest brother heard when he spoke to the men; and Eliab's anger burned against David and he said, "Why have you come down? And with whom have you left those few sheep in the wilderness? I know your insolence and the wickedness of your heart; for you have come down in order to see the battle." ^29^But David said, "What have I done now? Was it not just a question?" ^30^Then he turned away from him to another and said the same thing; and the people answered the same thing as before. ^31^When the words which David spoke were heard, they told *them* to Saul, and he sent for him.
 
-> ^32^And David said to Saul, "Let no man's heart fail because of him. Your servant will go and fight with this Philistine." ^33^And Saul said to David, "You are not able to go against this Philistine to fight with him, for you are but a youth, and he has been a man of war from his youth." ^34^But David said to Saul, "Your servant used to keep sheep for his father. And when there came a lion, or a bear, and took a lamb from the flock, ^35^I went after him and struck him and delivered it out of his mouth. And if he arose against me, I caught him by his beard and struck him and killed him. ^36^Your servant has struck down both lions and bears, and this uncircumcised Philistine shall be like one of them, for he has defied the armies of the living God." ^37^And David said, "The LORD who delivered me from the paw of the lion and from the paw of the bear will deliver me from the hand of this Philistine." And Saul said to David, "Go, and the LORD be with you!"
+> ^32^David said to Saul, "Let no man's heart fail on account of him; your servant will go and fight with this Philistine." ^33^Then Saul said to David, "You are not able to go against this Philistine to fight with him; for you are *but* a youth while he has been a warrior from his youth." ^34^But David said to Saul, "Your servant was tending his father's sheep. When a lion or a bear came and took a lamb from the flock, ^35^I went out after him and attacked him, and rescued *it* from his mouth; and when he rose up against me, I seized *him* by his beard and struck him and killed him. ^36^Your servant has killed both the lion and the bear; and this uncircumcised Philistine will be like one of them, since he has taunted the armies of the living God." ^37^And David said, "The LORD who delivered me from the paw of the lion and from the paw of the bear, He will deliver me from the hand of this Philistine." And Saul said to David, "Go, and may the LORD be with you."
 
-> ^38^Then Saul clothed David with his armor. He put a helmet of bronze on his head and clothed him with a coat of mail, ^39^and David strapped his sword over his armor. And he tried in vain to go, for he had not tested them. Then David said to Saul, "I cannot go with these, for I have not tested them." So David put them off. ^40^Then he took his staff in his hand and chose five smooth stones from the brook and put them in his shepherd's pouch. His sling was in his hand, and he approached the Philistine.
+> ^38^Then Saul clothed David with his garments and put a bronze helmet on his head, and he clothed him with armor. ^39^David girded his sword over his armor and tried to walk, for he had not tested *them.* So David said to Saul, "I cannot go with these, for I have not tested *them.*" And David took them off. ^40^He took his stick in his hand and chose for himself five smooth stones from the brook, and put them in the shepherd's bag which he had, even in *his* pouch, and his sling was in his hand; and he approached the Philistine.
 
-> ^41^And the Philistine moved forward and came near to David, with his shield-bearer in front of him. ^42^And when the Philistine looked and saw David, he disdained him, for he was but a youth, ruddy and handsome in appearance. ^43^And the Philistine said to David, "Am I a dog, that you come to me with sticks?" And the Philistine cursed David by his gods. ^44^The Philistine said to David, "Come to me, and I will give your flesh to the birds of the air and to the beasts of the field." ^45^Then David said to the Philistine, "You come to me with a sword and with a spear and with a javelin, but I come to you in the name of the LORD of hosts, the God of the armies of Israel, whom you have defied. ^46^This day the LORD will deliver you into my hand, and I will strike you down and cut off your head. And I will give the dead bodies of the host of the Philistines this day to the birds of the air and to the wild beasts of the earth, that all the earth may know that there is a God in Israel, ^47^and that all this assembly may know that the LORD saves not with sword and spear. For the battle is the LORD's, and he will give you into our hand."
+> ^41^Then the Philistine came on and approached David, with the shield-bearer in front of him. ^42^When the Philistine looked and saw David, he disdained him; for he was *but* a youth, and ruddy, with a handsome appearance. ^43^The Philistine said to David, "Am I a dog, that you come to me with sticks?" And the Philistine cursed David by his gods. ^44^The Philistine also said to David, "Come to me, and I will give your flesh to the birds of the sky and the beasts of the field." ^45^Then David said to the Philistine, "You come to me with a sword, a spear, and a javelin, but I come to you in the name of the LORD of hosts, the God of the armies of Israel, whom you have taunted. ^46^This day the LORD will deliver you up into my hands, and I will strike you down and remove your head from you. And I will give the dead bodies of the army of the Philistines this day to the birds of the sky and the wild beasts of the earth, that all the earth may know that there is a God in Israel, ^47^and that all this assembly may know that the LORD does not deliver by sword or by spear; for the battle is the LORD'S and He will give you into our hands."
 
-> ^48^When the Philistine arose and came and drew near to meet David, David ran quickly toward the battle line to meet the Philistine. ^49^And David put his hand in his bag and took out a stone and slung it and struck the Philistine on his forehead. The stone sank into his forehead, and he fell on his face to the ground. ^50^So David prevailed over the Philistine with a sling and with a stone, and struck the Philistine and killed him. There was no sword in the hand of David. ^51^Then David ran and stood over the Philistine and took his sword and drew it out of its sheath and killed him and cut off his head with it. When the Philistines saw that their champion was dead, they fled.
+> ^48^Then it happened when the Philistine rose and came and drew near to meet David, that David ran quickly toward the battle line to meet the Philistine. ^49^And David put his hand into his bag and took from it a stone and slung *it,* and struck the Philistine on his forehead. And the stone sank into his forehead, so that he fell on his face to the ground. ^50^Thus David prevailed over the Philistine with a sling and a stone, and he struck the Philistine and killed him; but there was no sword in David's hand. ^51^Then David ran and stood over the Philistine and took his sword and drew it out of its sheath and killed him, and cut off his head with it. When the Philistines saw that their champion was dead, they fled.
 
-> ^52^And the men of Israel and Judah rose with a shout and pursued the Philistines as far as Gath and the gates of Ekron, so that the wounded Philistines fell on the way from Shaaraim as far as Gath and Ekron. ^53^And the people of Israel came back from chasing the Philistines, and they plundered their camp. ^54^And David took the head of the Philistine and brought it to Jerusalem, but he put his armor in his tent.
+> ^52^The men of Israel and Judah arose and shouted and pursued the Philistines as far as the valley, and to the gates of Ekron. And the slain Philistines lay along the way to Shaaraim, even to Gath and Ekron. ^53^The sons of Israel returned from chasing the Philistines and plundered their camps. ^54^Then David took the Philistine's head and brought it to Jerusalem, but he put his weapons in his tent.
 
-> ^55^As soon as Saul saw David go out against the Philistine, he said to Abner, the commander of the army, "Abner, whose son is this youth?" And Abner said, "As your soul lives, O king, I do not know." ^56^And the king said, "Inquire whose son the boy is." ^57^And as soon as David returned from the striking down of the Philistine, Abner took him, and brought him before Saul with the head of the Philistine in his hand. ^58^And Saul said to him, "Whose son are you, young man?" And David answered, "I am the son of your servant Jesse the Bethlehemite."
+> ^55^Now when Saul saw David going out against the Philistine, he said to Abner the commander of the army, "Abner, whose son is this young man?" And Abner said, "By your life, O king, I do not know." ^56^The king said, "You inquire whose son the youth is." ^57^So when David returned from killing the Philistine, Abner took him and brought him before Saul with the Philistine's head in his hand. ^58^Saul said to him, "Whose son are you, young man?" And David answered, "*I am* the son of your servant Jesse the Bethlehemite."
 
 ---
 
@@ -126,47 +149,23 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-### 1. 兩種看見：屬肉體的看見與屬靈的看見
+### 1. 看見的分別：懼怕人的眼光，與敬畏神的眼光
 
-全以色列軍隊，包括掃羅在內，聽見歌利亞叫陣的反應是「驚惶，極其害怕」(17:11,24)；大衛聽見同一句話，問的卻是：「這未受割禮的非利士人是誰呢？竟敢向永生神的軍隊罵陣麼？」(17:26)。同一件事，落在不同的眼睛裡，看見了完全不同的東西——全軍看見的是「一個六肘高的巨人」，大衛看見的是「一個敢辱罵永生神的人」。這正是撒上16:7「耶和華是看內心」在17章的延伸：掃羅的軍隊繼承了掃羅那套「看外貌」的評估系統，看見的只有身高、裝備、力量的懸殊；大衛所帶進戰場的，是另一套完全不同的坐標系——神的名譽、神的軍隊、神的信實。
+全以色列軍隊，包括掃羅在內，聽見歌利亞叫陣的反應是「驚惶，極其害怕」(17:11,24)——這恐懼從掃羅開始擴散，四十天沒有一個以色列人敢應戰，連那「比眾民高過一頭」的王自己也不例外；恐懼是會傳染的，而且往往從領袖開始往下滲透。大衛聽見同一句話，問的卻是：「這未受割禮的非利士人是誰呢？竟敢向永生神的軍隊罵陣麼？」(17:26)。同一件事，落在不同的眼睛裡，看見了完全不同的東西——全軍看見的是「一個六肘高的巨人」，大衛看見的是「一個敢辱罵永生神的人」。這正是撒上16:7「耶和華是看內心」在17章的延伸：掃羅的軍隊繼承了掃羅那套「看外貌」的評估系統；大衛所帶進戰場的，是另一套完全不同的坐標系——神的名譽、神的軍隊、神的信實。以利押指責大衛「驕傲」「心裡的惡意」(17:28)，這其實是懼怕之人對無懼之人最常見的反應——把對方的信心解讀為狂妄，因為自己無法理解那信心的根基。
 
-### 2. 掃羅的軍隊懼怕人，大衛懼怕神
+### 2. 大衛信心的根基：過去忠心的操練，不是盲目的樂觀
 
-上一章已經看見掃羅「懼怕百姓，聽了他們的話」(15:24)；這一章，我們看見同一種懼怕擴散到全軍身上——四十天，沒有一個以色列人敢應戰，包括那些「比眾民高過一頭」的掃羅自己。恐懼是會傳染的，而且往往從領袖開始往下滲透。大衛的出現，打破了這個恐懼的循環，不是因為他比別人勇敢，而是因為他所敬畏的對象不一樣：他敬畏耶和華，多過懼怕歌利亞。以利押指責大衛「驕傲」「心裡的惡意」(17:28)，這其實是懼怕之人對無懼之人最常見的反應——把對方的信心解讀為狂妄，因為自己無法理解那信心的根基。
+大衛在掃羅面前的辯詞，不是空口的豪言，而是有憑有據的見證：「你僕人為父親放羊，有時來了獅子，有時來了熊⋯⋯我就追趕他，擊打他，將羊羔從他口中救出來」(17:34-35)。他今天面對巨人的信心，是過去在無人看見的曠野裡，一次次忠心保護羊群、與野獸搏鬥所累積下來的——沒有一次曠野裡的獅子熊之戰是白費的，每一次看似微小、無人喝彩的忠心，都是神為著今天這場公開爭戰所預備的操練場。大衛的下一句話，把這一切收束到正確的結論：「耶和華救我脫離獅子和熊的爪，也必救我脫離這非利士人的手」(17:37)——他引用的不是自己的本領，而是耶和華過去的信實。值得留意的是，大衛從未否認歌利亞的可怕——他清楚知道對方「自幼就作戰士」(17:33，掃羅的評語，大衛沒有反駁)；他的信心不是盲目地看輕危險，而是在承認危險真實存在的同時，把眼光的重心放在神的信實之上。這正是聖經信心觀與世俗「正向思考」最根本的分別：信心不是否認困難，而是在困難真實存在的前提下，仍然選擇倚靠那位比困難更大的神。
 
-### 3. 大衛信心的根基：過去忠心的操練
+### 3. 掃羅的戰衣：好意的裝備，卻不合用的裝備
 
-大衛在掃羅面前的辯詞，不是空口的豪言，而是有憑有據的見證：「你僕人為父親放羊，有時來了獅子，有時來了熊⋯⋯我就追趕他，擊打他，將羊羔從他口中救出來」(17:34-35)。大衛今天面對巨人的信心，不是憑空而來的，是他過去在無人看見的曠野裡，一次次忠心保護羊群、與野獸搏鬥所累積下來的。沒有一次曠野裡的獅子熊之戰是白費的——每一次看似微小、無人喝彩的忠心，都是神為著今天這場公開爭戰所預備的操練場。大衛的下一句話，把這一切收束到正確的結論：「耶和華救我脫離獅子和熊的爪，也必救我脫離這非利士人的手」(17:37)——他引用的不是自己的本領，而是耶和華過去的信實。真正的信心，從來不是憑空跳躍，而是把神過去的信實，累加成今天的把握。
+掃羅把自己的戰衣、銅盔、鎧甲給大衛穿上(17:38)，這是掃羅所能給出最好的資源——但大衛「試試能走不能走；因為素來沒有穿慣」，最後「摘脫了」(17:39)。掃羅的裝備不是壞的，甚至是當時最好的軍事裝備；問題不在裝備本身，而在「不是大衛的」。大衛選擇了他所熟悉、所操練過的工具——牧人的杖、機弦、五塊光滑石子(17:40)。神使用一個人爭戰，往往不是把祂給別人的裝備套在你身上，而是使用祂一直以來在你日常生活裡，已經為你預備、已經被你操練純熟的那一份恩賜。穿別人的戰衣去打仗，反而寸步難行；帶著自己蒙操練的機弦去打仗，才能自由奔跑迎向戰場(17:48)。
 
-### 4. 掃羅的戰衣：好意的裝備，卻不合用的裝備
+### 4. 爭戰的終極目的：除去恥辱，使普天下認識神
 
-掃羅把自己的戰衣、銅盔、鎧甲給大衛穿上(17:38)，這是掃羅所能給出最好的資源——但大衛「試試能走不能走；因為素來沒有穿慣」，最後「摘脫了」(17:39)。這一幕值得停下來思想：掃羅的裝備不是壞的，甚至是當時最好的軍事裝備；問題不在裝備本身，而在「不是大衛的」。大衛選擇了他所熟悉、所操練過的工具——牧人的杖、機弦、五塊光滑石子(17:40)。神使用一個人爭戰，往往不是把祂給別人的裝備套在你身上，而是使用祂一直以來在你日常生活裡，已經為你預備、已經被你操練純熟的那一份恩賜。穿別人的戰衣去打仗，反而寸步難行；帶著自己蒙操練的機弦去打仗，才能自由奔跑迎向戰場(17:48)。
-
-### 5. 「除掉以色列人的恥辱」——大衛所看見的使命
-
-大衛第一次開口問的，不是獎賞(雖然眾人正在談論王的賞賜，17:25)，而是：「有人殺這非利士人，除掉以色列人的恥辱，怎樣待他呢？」(17:26)。「恥辱」不是他個人的委屈，是全體百姓、也是神自己所承受的羞辱。這句話透露出大衛異於常人的視野：他把自己放進一個比個人得失更大的敘事裡——這恥辱關乎神的名譽，理當被除去。這條「除去恥辱」的線，貫穿全本聖經：以賽亞書25:8應許神終將「擦去各人臉上的眼淚，又除掉普天下他百姓的羞辱」；啟示錄21:4描繪那終極的畫面——「不再有死亡，也不再有悲哀、哭號、疼痛，因為以前的事都過去了」。大衛除去以色列一時的恥辱，只是那終極除去羞辱的應許，第一次具體的預演。
-
-### 6. 「使普天下的人都知道」——爭戰的終極目的
-
-大衛的宣告沒有停在「我會贏」，而是延伸到：「使普天下的人都知道以色列中有神」(17:46)。這是全章最容易被忽略、卻最重要的一句話：這場戰役的目的，不是大衛個人的英雄事蹟，也不只是以色列的軍事勝利，而是要讓「普天下的人」認識神。這條普世宣告的線，從亞伯拉罕之約「地上的萬族都必因你得福」(創12:3)，一路延伸到大使命「使萬民作我的門徒」(太28:19)，最終在啟示錄7:9成就——「有一大群人，沒有人能數過來，是從各國、各族、各民、各方來的，站在寶座和羔羊面前」。大衛在以拉谷宣告的，不只是一場戰役的意義，而是神救贖歷史一貫的心意：祂爭戰得勝，從來不只是為了讓祂的百姓得安全，更是為了讓普天下都認識祂。
-
-### 7. 一顆石頭與一套銅甲——兩種爭戰邏輯的對照
-
-| | 歌利亞的爭戰邏輯 | 大衛的爭戰邏輯 |
-|---|---|---|
-| 倚靠 | 刀槍、銅戟、五千舍客勒的鎧甲(17:5-7,45) | 耶和華萬軍之名(17:45) |
-| 對大衛的看見 | 「年輕，面色光紅，容貌俊美」，因此藐視(17:42) | 「未受割禮的」，敢辱罵永生神的軍隊(17:26,36) |
-| 開口說的話 | 指著自己的神咒詛(17:43) | 奉耶和華的名宣告(17:45-47) |
-| 爭戰的目的 | 使以色列服事非利士(17:9) | 使普天下知道以色列中有神(17:46-47) |
-| 最終姿態 | 仆倒，面伏於地(17:49) | 站立，割下敵人首級(17:51) |
-
-這張對照表凸顯了全章最核心的張力：外表懸殊的兩造，其實在比拚兩套完全不同的「爭戰邏輯」——一套倚靠看得見的裝備，一套倚靠看不見卻信實的那一位。值得一提的是，17:49「他就仆倒，面伏於地」這個畫面，與撒母耳記上5:3-4大袞神像仆倒在約櫃前的記載遙相呼應——兩處都是一個曾經高舉自己、褻瀆真神的對象，最終仆倒在地。假神仆倒，悖逆者仆倒，這是神在整本撒母耳記上反覆刻畫的畫面：凡抵擋永生神的，終必倒下。
-
-### 8. 大衛的信心不是「不合理的樂觀」，而是「有根基的把握」
-
-值得留意的是，大衛從未否認歌利亞的可怕——他清楚知道對方「自幼就作戰士」(17:33，掃羅的評語，大衛沒有反駁)。大衛的信心不是盲目地看輕危險，而是在承認危險真實存在的同時，把眼光的重心放在神的信實之上。這正是聖經信心觀與世俗「正向思考」最根本的分別：信心不是否認困難，而是在困難真實存在的前提下，仍然選擇倚靠那位比困難更大的神。
+大衛第一次開口問的，不是獎賞(雖然眾人正在談論王的賞賜，17:25)，而是：「有人殺這非利士人，除掉以色列人的恥辱，怎樣待他呢？」(17:26)。「恥辱」不是他個人的委屈，是全體百姓、也是神自己所承受的羞辱——這條「除去恥辱」的線，貫穿全本聖經：以賽亞書25:8應許神終將「擦去各人臉上的眼淚，又除掉普天下他百姓的羞辱」；啟示錄21:4描繪那終極的畫面——「不再有死亡，也不再有悲哀、哭號、疼痛，因為以前的事都過去了」。大衛的宣告也沒有停在「我會贏」，而是延伸到：「使普天下的人都知道以色列中有神」(17:46)——這場戰役的目的，不是大衛個人的英雄事蹟，也不只是以色列的軍事勝利，而是要讓「普天下的人」認識神。這條普世宣告的線，從亞伯拉罕之約「地上的萬族都必因你得福」(創12:3)，一路延伸到大使命「使萬民作我的門徒」(太28:19)，最終在啟示錄7:9成就——「有一大群人，沒有人能數過來，是從各國、各族、各民、各方來的，站在寶座和羔羊面前」。大衛在以拉谷宣告的，是神救贖歷史一貫的心意：祂爭戰得勝，從來不只是為了讓祂的百姓得安全，更是為了讓普天下都認識祂。
 
 ---
 
@@ -179,6 +178,7 @@ publisher: 三書精讀出版系統
 奧古斯丁在《詩篇註釋》論詩篇144篇時，直接把大衛與歌利亞的爭戰讀作基督戰勝魔鬼的預表：
 
 > "Then, having smitten and overthrown him, he took the enemy's sword, and with it cut off his head. This our David also did, He overthrew the devil with his own weapons."
+>
 > 中譯：「大衛擊倒他之後，拿了敵人的刀，用這刀砍下他的頭。我們的大衛(基督)也是這樣做的——祂用敵人自己的武器打敗了魔鬼。」
 > — Augustine, *Expositions on the Psalms*, Psalm 144(NPNF1-08)，newadvent.org
 
@@ -191,16 +191,19 @@ publisher: 三書精讀出版系統
 亨利對掃羅戰衣一幕的評論，一針見血：
 
 > "Those that aim at things above their education and usage, and covet the attire and armour of princes, forget that that is the best for us which we are fit for and accustomed to."
+>
 > 中譯：「那些企求超過自己所受訓練與習慣之事、貪慕君王衣飾軍裝的人，忘記了：唯有我們所適應、所習慣的，才是對我們最好的。」
 
 論大衛的信心根基：
 
 > "Our experiences ought to be improved by us as our encouragements to trust in God and venture in the way of duty. He that has delivered does and will."
+>
 > 中譯：「我們過去的經歷，理當被我們用作信靠神、在當盡的本分上放膽而行的鼓勵。那位曾經拯救過的，如今仍在拯救，將來也必繼續拯救。」
 
 論大衛在陣前的姿態：
 
 > "David addresses himself to this combat rather as a priest that was going to offer a sacrifice to the justice of God than as a soldier that was going to engage an enemy of his country."
+>
 > 中譯：「大衛面對這場決戰的姿態，與其說像一個要迎戰敵人的士兵，不如說像一個要向神的公義獻上祭物的祭司。」
 > — Matthew Henry, *Commentary on the Whole Bible*, 1 Samuel 17(引自 blueletterbible.org)
 
@@ -213,87 +216,62 @@ publisher: 三書精讀出版系統
 麥克阿瑟在探討希伯來書11章「信心偉人」名錄時，特別回到大衛與歌利亞的爭戰，追問是什麼使大衛能做出這樣的舉動：
 
 > "What in the world would give this man the courage to do what he did? It is faith in the calling of God."
+>
 > 中譯：「究竟是什麼給了這人做這件事的勇氣？答案是：對神呼召的信心。」
 > — John MacArthur, *A Conquering, Courageous Faith, Part 2*(希伯來書11:32-40，2010年2月14日講道，編號90-389)，gty.org
 
 麥克阿瑟指出，大衛面對歌利亞時所憑藉的，不是他過去打死獅子熊的戰績本身，而是他確知神已經揀選、呼召他——這份「蒙召的確信」，才是他能全力以赴、毫無保留地衝向戰場的根源，而非單純的個人膽識或戰鬥經驗。
 
----
-
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根：天然裝備與屬靈倚靠的正面交鋒 (G. Campbell Morgan)
-
-摩根一系解經傳統在論及撒母耳記上整體結構時，一貫強調掃羅是「天然恩賜沒有靈性降服的悲劇」——他擁有一切人的條件，卻從未真正把自己的意志降服在神面前。這道光照進17章，會看見一幅極具張力的畫面：掃羅把自己最好的裝備——戰衣、銅盔、鎧甲——套在大衛身上，這正是掃羅一貫解決問題的方式：靠更大的武器、更重的甲冑。大衛卻脫下這一切，只帶著他日常操練純熟的機弦與石子出戰。摩根一系的解經傳統認為，這正是本章要教導的核心功課：神所揀選、所使用的，往往不是我們自以為「更專業」的裝備，而是我們一直以來忠心操練、卻常被人看輕的日常訓練——大衛在羊群中間所磨練出來的，恰恰是神為這一天所預備的兵器。
-
-### 麥克阿瑟：蒙召的確信勝過經驗的計算 (John MacArthur)
-
-麥克阿瑟把大衛與歌利亞的爭戰，放在希伯來書11章「因信」的信心偉人名錄裡一併思考：這些人「因信」制伏敵國、行了公義、堵了獅子的口(來11:33)——大衛正是這名錄具體而微的例證。麥克阿瑟強調，大衛的勇氣不是出於盲目的自信，也不是單靠過去打獅子熊的成功經驗做簡單的類比推算，而是出於他確知自己是神所揀選、所呼召的那一位(16:13已受膏)。這解釋了為什麼大衛在陣前的宣告完全不提自己的戰績，只提「耶和華的名」(17:45)——他清楚知道，真正決定這場戰役結果的，不是他手裡的機弦，而是那呼召他的神是否信實。
-
-### 黃長老查經：一顆石頭裡的十字架 (Ask Elder Wong)
-
-**精義一句話**：大衛的機弦甩出的那一塊石頭，落在歌利亞的額頭上；十字架上的那一根釘子，落在耶穌的手腳上——兩者看似都是「弱者被擊打」的畫面，但聖經要你看見的，是那看似弱小的一方，其實才是真正的得勝者。
-
-黃長老常這樣提問：「你讀這一章，注意力都放在大衛身上，還是放在那一塊石頭上？」——他指出，全以色列軍隊看見的是「一個牧童對抗一個巨人」，這是人的眼光；神要我們看見的，卻是「一個代表神百姓的人，靠著神的名，勝過那褻瀆神名的人」。「這場戰役誰才是真正的主角？如果你把大衛的名字換成耶穌基督，這段話讀起來是什麼？」——耶穌來到世上，外表毫不起眼(賽53:2「祂無佳形美容⋯⋯無美貌使我們羨慕祂」)，面對的仇敵卻是死亡本身；祂沒有靠世上的權柄與武力，只靠著父神的名，在十字架上，看似最軟弱的一刻，成就了最徹底的得勝。「你今天面對你生命裡的『歌利亞』，你倚靠的是你自己的『戰衣』，還是那位呼召你、又必為你爭戰的神的名？」
+摩根一系解經傳統論及掃羅是「天然恩賜沒有靈性降服的悲劇」，這道光照進本章格外清楚：掃羅把自己最好的裝備套在大衛身上，這正是他一貫解決問題的方式——靠更大的武器、更重的甲冑；大衛卻脫下這一切，只帶著日常操練純熟的機弦與石子出戰，神所使用的，往往不是我們自以為「更專業」的裝備，而是我們一直忠心操練、卻常被人看輕的日常訓練。麥克阿瑟把大衛的勇氣，放進希伯來書11章「因信」的信心偉人名錄裡一併思考——大衛的勇氣不是單靠過去打獅子熊的成功經驗做簡單的類比推算，而是出於他確知自己是神所揀選、所呼召的那一位(16:13已受膏)；這解釋了為什麼大衛在陣前的宣告完全不提自己的戰績，只提「耶和華的名」(17:45)。摩根看見的是「裝備」的對比，麥克阿瑟看見的是「呼召」的根基——兩者其實是同一件事的兩面：真正的爭戰能力，從來不是天賦或經驗本身，而是那天賦與經驗背後，神的揀選與同在。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇144篇 — 大衛親筆的爭戰之詩
 
 > 「(大衛的詩。)耶和華－我的磐石是應當稱頌的！他教導我的手爭戰，教導我的指頭打仗。他是我慈愛的主，我的山寨，我的高臺，我的救主，我的盾牌，是我所投靠的；他使我的百姓服在我以下。」
 > — 詩篇144:1-2，和合本 (CUV)
 
-> "Blessed be the LORD, my rock, who trains my hands for war, and my fingers for battle; he is my steadfast love and my fortress, my stronghold and my deliverer, my shield and he in whom I take refuge, who subdues peoples under me."
-> — Psalm 144:1-2, ESV
+> "Blessed be the LORD, my rock, Who trains my hands for war, *And* my fingers for battle; My lovingkindness and my fortress, My stronghold and my deliverer, My shield and He in whom I take refuge, Who subdues my people under me."
+> — Psalm 144:1-2, NASB
 
 傳統認為詩篇144篇出自大衛晚年，回顧他一生的爭戰生涯而寫。「祂教導我的手爭戰，教導我的指頭打仗」這句話，若放回以拉谷的畫面裡讀，格外真實：大衛甩石的手指，正是那雙從小在羊群中被神一步步操練出來、如今能精準命中歌利亞額頭的手指。這首詩把17章那一顆石頭的意義說得更透徹：那不是幸運的一擊，是神多年在牧童身上默默訓練的結果，如今在以拉谷公開顯明。
 
-### 聖詩：A Mighty Fortress Is Our God
-
-> **A Mighty Fortress Is Our God**
-> *Martin Luther, 1529(Frederick H. Hedge 英譯, 1852)*
->
-> A mighty fortress is our God,
-> A bulwark never failing;
-> Our helper He, amid the flood
-> Of mortal ills prevailing:
-> For still our ancient foe
-> Doth seek to work us woe;
-> His craft and pow'r are great,
-> And, armed with cruel hate,
-> On earth is not his equal.
+### A Mighty Fortress Is Our God
 
 路德這首詩歌以詩篇46篇為基礎，卻與撒母耳記上17章遙相呼應：「我們的敵人」既狡猾又強大，「地上沒有能與他相比的」——這正是歌利亞在以色列全軍眼中的形象。但路德接著唱：「若靠我們自己的力量，我們的爭戰必然失敗」，這正是大衛脫下掃羅戰衣那一刻所宣告的：真正的爭戰不能靠人的力量，只能靠那「萬軍之耶和華的名」。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：大衛的機弦甩出的那一塊石頭，落在歌利亞的額頭上；十字架上的那一根釘子，落在耶穌的手腳上——兩者看似都是「弱者被擊打」的畫面，但聖經要你看見的，是那看似弱小的一方，其實才是真正的得勝者。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-這一章的伏線，要從創世記3:15說起。神對蛇說：「我又要叫你和女人彼此為仇⋯⋯女人的後裔要傷你的頭，你要傷他的腳跟。」這是全本聖經第一句福音應許——傷頭的應許。大衛的石頭「打中非利士人的額，石子進入額內，他就仆倒」(17:49)，接著「將他的刀從鞘中拔出來⋯⋯割了他的頭」(17:51)——傷的是頭，不是腳跟。這不是敘事的偶然，是神在歷史裡第一次讓這句古老應許有血有肉地上演。大衛把這顆頭顱帶到耶路撒冷(17:54)——當時還是耶布斯人的城，大衛此刻連王都還不是——這座城日後要成為「大衛的城」，日後更要在城外一座名叫各各他(「髑髏地」)的小山上，看見那真正、終極的「傷頭」時刻：基督在十字架上，藉著死亡本身，敗壞了那掌死權的魔鬼(來2:14)，應驗了創世記3:15那句等了幾千年的古老應許。
+**代表爭戰線**：這一章與整卷書「誰是真正的王」的大哉問緊緊相扣。掃羅的軍隊代表「人的方式」：懼怕、觀望、倚靠看得見的裝備；大衛代表「神的方式」：倚靠耶和華的名，甘願作那「兩軍中間的人」，代替全軍出戰、承擔全軍的命運——這正是耶穌基督後來要做的事，祂獨自在十字架上迎戰罪與死亡的全部重量，祂的得勝，直接算給了每一個從未親自爭戰、只需要「靜默，不要作聲」(出14:14)的百姓。哈拿的禱告說「祂必賜力量給祂的王，高舉祂所膏之人的角」(撒上2:10)；大衛在以拉谷的得勝，是這禱告第一次公開的應驗；而那真正、永遠的「受膏者的角」被高舉，要等到啟示錄5章，那位曾被殺、如今復活的羔羊，被稱為配得「權柄、豐富、智慧、能力、尊貴、榮耀、頌讚」的那一刻才完全成就。
 
-把鏡頭拉遠一點看，這條線與整卷撒母耳記上「誰是真正的王」的大哉問緊緊相扣。掃羅的軍隊代表「人的方式」：懼怕、觀望、倚靠看得見的裝備；大衛代表「神的方式」：倚靠耶和華的名，甘願作那「兩軍中間的人」，代替全軍出戰、承擔全軍的命運。這正是耶穌基督後來要做的事——祂是終極的「兩軍中間的人」，獨自在十字架上迎戰罪與死亡的全部重量，祂的得勝，直接算給了每一個從未親自爭戰、只需要「靜默，不要作聲」(出14:14)的百姓。哈拿的禱告說「祂必賜力量給祂的王，高舉祂所膏之人的角」(撒上2:10)；大衛在以拉谷的得勝，是這禱告第一次公開的應驗；而那真正、永遠的「受膏者的角」被高舉，要等到啟示錄5章，那位曾被殺、如今復活的羔羊，被稱為配得「權柄、豐富、智慧、能力、尊貴、榮耀、頌讚」的那一刻才完全成就。
+**仆倒的假神線**：17:49「他就仆倒，面伏於地」，與撒上5:3-4大袞神像仆倒在約櫃前的記載遙相呼應——兩處都是一個曾經高舉自己、褻瀆真神的對象，最終仆倒在地。假神仆倒，悖逆者仆倒，這是撒母耳記上反覆刻畫的畫面：凡抵擋永生神的，終必倒下。
 
 ### 提問式對話 (Let the Reader Speak)
 
-大衛問：「有人殺這非利士人，除掉以色列人的恥辱，怎樣待他呢？」(17:26)——你生命裡有沒有一個「恥辱」，是你一直以為只能默默忍受、卻從未想過神願意親自為你除去的？大衛面對歌利亞時，先數算了神過去在獅子熊爪下的信實(17:37)，才走向今天的爭戰——你今天面對的難處，有沒有一段神過去信實的記錄，是你可以先數算、再帶著把握走進去的？掃羅把自己最好的戰衣給大衛穿上，大衛卻脫下它，選擇自己熟悉的機弦——你的生命裡，有沒有一件「別人認為對你最好」、你卻明白不適合你的裝備，正攔阻你用神量給你的那一份去爭戰？
+- 先問：「有人殺這非利士人，除掉以色列人的恥辱，怎樣待他呢？」(17:26)——你生命裡有沒有一個「恥辱」，是你一直以為只能默默忍受、卻從未想過神願意親自為你除去的？
+- 再問：大衛面對歌利亞時，先數算了神過去在獅子熊爪下的信實(17:37)，才走向今天的爭戰——你今天面對的難處，有沒有一段神過去信實的記錄，是你可以先數算、再帶著把握走進去的？
+- 追問：這場戰役誰才是真正的主角？如果你把大衛的名字換成耶穌基督，這段話讀起來是什麼？
+- 落到自己：掃羅把自己最好的戰衣給大衛穿上，大衛卻脫下它，選擇自己熟悉的機弦——你的生命裡，有沒有一件「別人認為對你最好」、你卻明白不適合你的裝備，正攔阻你用神量給你的那一份去爭戰？
 
 ### 活在今天．AI時代 (Living It Today)
 
-這個世代衡量「能不能打勝仗」的標準，幾乎都是量化的：算力、參數、資金、團隊規模、市場佔有率——就像非利士人用舍客勒計算歌利亞鎧甲的重量一樣，我們也習慣用數據計算勝算。這套邏輯本身沒有錯，卻很容易讓人忘記大衛在以拉谷所站立的那個立場：真正決定戰局的，從來不是誰的「參數」更大，而是誰站在真理與信實的一方。今天很多人面對看似不對等的巨人——龐大的體制、壓倒性的競爭者、看似不可能翻轉的困境——第一反應和掃羅的軍隊一樣：「驚惶，極其害怕」。大衛的榜樣提醒我們：先問「這是誰在辱罵永生神的軍隊」，比先問「這仗打得贏嗎」更重要——因為前者決定了你站立的地方，後者只決定了你計算的方式。
+這個世代衡量「能不能打勝仗」的標準，幾乎都是量化的：算力、參數、資金、團隊規模、市場佔有率——就像非利士人用舍客勒計算歌利亞鎧甲的重量一樣。這套邏輯本身沒有錯，卻很容易讓人忘記大衛在以拉谷所站立的立場：真正決定戰局的，從來不是誰的「參數」更大，而是誰站在真理與信實的一方。今天很多人面對看似不對等的巨人——龐大的體制、壓倒性的競爭者、看似不可能翻轉的困境——第一反應和掃羅的軍隊一樣：「驚惶，極其害怕」。大衛的榜樣提醒我們：先問「這是誰在辱罵永生神的軍隊」，比先問「這仗打得贏嗎」更重要——前者決定了你站立的地方，後者只決定了你計算的方式。
 
-### 今天的機弦 (Today's Sling)
+### 今天的祭壇 (Today's Altar)
 
-具體行動：找出你生命中一個讓你「未戰先怯」的處境或關係——一個你評估後覺得懸殊太大、乾脆不去面對的「歌利亞」。今天，效法大衛的順序：先數算神過去在你生命裡具體的信實(哪一次祂曾從獅子熊的爪中把你救出來？)，再帶著這份數算走向那個處境，用你一直以來被神操練純熟的那一份恩賜去面對它，而不是勉強穿上別人的戰衣。
+- **早晨**：先數算神過去在你生命裡具體的信實——哪一次祂曾從獅子熊的爪中把你救出來？
+- **晚上**：省察——今天我有沒有勉強穿著別人的戰衣，去面對一件其實該用我自己蒙操練的恩賜去面對的爭戰？
+- **一個行動**：找出生命中一個讓你「未戰先怯」的處境或關係，帶著今早所數算的信實，用你一直操練純熟的那份恩賜，主動走向它。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-大衛甩出的那一顆石頭，看起來只是打倒了一個巨人；但整本聖經要你看見的，是創世記3:15那句「必傷你的頭」的古老應許，第一次在歷史裡活生生地上演。你在你的以拉谷裡，看見的是一個懸殊的對手，還是那位早已在你生命裡一次次信實、如今仍要親自為你爭戰的神？你看見耶穌了嗎——那位真正的「兩軍中間的人」，替你迎戰了那不能勝過的仇敵，好叫你不必自己上場，也能分享祂全然的得勝？
+**你看見耶穌了嗎**：大衛甩出的那一顆石頭，看起來只是打倒了一個巨人；但整本聖經要你看見的，是創世記3:15那句「必傷你的頭」的古老應許，第一次在歷史裡活生生地上演。你在你的以拉谷裡，看見的是一個懸殊的對手，還是那位早已在你生命裡一次次信實、如今仍要親自為你爭戰的神？你看見耶穌了嗎——那位真正的「兩軍中間的人」，替你迎戰了那不能勝過的仇敵，好叫你不必自己上場，也能分享祂全然的得勝？
 
 ---
 
@@ -302,12 +280,8 @@ publisher: 三書精讀出版系統
 ### 默想問題
 
 1. **兩種看見**：全軍看見歌利亞的身量而懼怕，大衛看見歌利亞的辱罵而義憤。今天你生命中的難處，你看見的是它的大小，還是它對神名譽的觸犯？
-
 2. **信心的根基**：大衛的信心建立在神過去在獅子熊爪下的信實記錄上。你能不能具體數算三件神過去在你生命裡信實的記號，作為今天信靠祂的根基？
-
 3. **合用的裝備**：大衛脫下掃羅的戰衣，選擇自己熟悉的機弦。你有沒有勉強穿著「別人認為對的裝備」去面對你的爭戰，卻忽略了神一直在你日常生活裡為你預備、操練的那一份恩賜？
-
-4. **爭戰的目的**：大衛說爭戰的目的是「使普天下的人都知道以色列中有神」。你今天面對的難處，如果得勝，能不能成為別人認識神的一個記號？
 
 ### 禱告回應
 
@@ -330,17 +304,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 掃羅和全軍聽見歌利亞叫陣就「驚惶，極其害怕」，大衛聽見卻義憤填膺——這樣的反差說明了什麼？
-
-2. 大衛在掃羅面前提到獅子和熊的經歷(17:34-37)，這對他今天面對歌利亞的信心，起了什麼作用？
-
-3. 大衛為什麼脫下掃羅給他的戰衣鎧甲(17:38-39)？這對我們今天面對屬靈爭戰有什麼提醒？
-
-4. 大衛說「爭戰的勝敗全在乎耶和華」(17:47)——這句話如何挑戰我們今天評估「能不能贏」的方式？
-
-5. 大衛用歌利亞自己的刀砍下他的頭(17:51)，奧古斯丁認為這預表基督用死亡本身打敗了掌死權的魔鬼(來2:14)。你如何看待這個預表？
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 傷頭應許（基督的預表） | 17:49-51 | 創3:15；來2:14 |
+| 兩軍中間的人／代表爭戰 | 17:4,9,23 | 羅5:12-19；出14:14；代下20:15 |
+| 爭戰在乎耶和華 | 17:45,47 | 亞4:6；弗2:8-9 |
+| 除去恥辱 | 17:26 | 賽25:8；啟21:4 |
+| 普世認識神的心意 | 17:46-47 | 創12:3；太28:19；啟7:9 |
+| 假神／悖逆者仆倒 | 17:49 | 撒上5:3-4 |
+| 受膏者的角被高舉 | — | 撒上2:10；啟5 |
 
 ---
 

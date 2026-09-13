@@ -7,6 +7,8 @@ publisher: 三書精讀出版系統
 copyright: |
   版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
 
+  **聖經版本 / Bible Versions**：中文：和合本 / 和合本修訂版 (CUV / RCUV)　English: New American Standard Bible® (NASB®), Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
+
   **三大核心資源整合：**
 
   • **黃長老式查經** — 整本聖經脈絡的深度領受
@@ -40,11 +42,11 @@ copyright: |
 
 ## 核心經文 (Key Verse)
 
-> 耶和華卻對撒母耳說：「不要看他的外貌和他魁梧的身材，我不揀選他。因為，耶和華不像人看人，人是看外貌，耶和華是看內心。」
+> 耶和華卻對撒母耳說：「不要看他的外貌和他身材高大，我不揀選他。因為，耶和華不像人看人：人是看外貌；耶和華是看內心。」
 > — 撒母耳記上 16:7
 
-> But the LORD said to Samuel, "Do not look on his appearance or on the height of his stature, because I have rejected him. For the LORD sees not as man sees: man looks on the outward appearance, but the LORD looks on the heart."
-> — 1 Samuel 16:7 (ESV)
+> But the LORD said to Samuel, "Do not look at his appearance or at the height of his stature, because I have rejected him; for God sees not as man sees, for man looks at the outward appearance, but the LORD looks at the heart."
+> — 1 Samuel 16:7 (NASB)
 
 ---
 
@@ -146,8 +148,8 @@ copyright: |
 
 ### 經文核對
 
-- **主要來源**：[ai-eden.com/bible](https://www.ai-eden.com/bible) — 和合本修訂版 (CUV) + English Standard Version (ESV) 雙語對照
-- 每章附直接連結，格式：`https://www.ai-eden.com/bible/1-samuel/{N}?t=CUV,ESV&cols=2`（N 為章數）
+- **主要來源**：[ai-eden.com/bible](https://www.ai-eden.com/bible) — 和合本／和合本修訂版（各章標明所用版本）+ New American Standard Bible (NASB 1995) 雙語對照
+- 每章附直接連結，格式：`https://www.ai-eden.com/bible/1-samuel/{N}?t=CUV,NASB&cols=2`（N 為章數）
 
 ---
 
@@ -158,7 +160,7 @@ copyright: |
 | 步驟 | 內容 |
 |------|------|
 | 1 | 禱告預備，以當日配詩開始 |
-| 2 | 經文朗讀（CUV + ESV，於 ai-eden.com/bible 核對） |
+| 2 | 經文朗讀（CUV/RCUV + NASB，於 ai-eden.com/bible 核對） |
 | 3 | 黃長老查經帶領：精義一句話 → 提問式深讀 |
 | 4 | MacArthur / Campbell Morgan 講道與注釋 |
 | 5 | 筆記記錄：領受與亮光、生命應用 |

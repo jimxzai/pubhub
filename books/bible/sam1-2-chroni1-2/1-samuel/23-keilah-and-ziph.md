@@ -10,19 +10,28 @@ publisher: 三書精讀出版系統
 
 撒母耳記上 23:1-29
 
-**經文核對**：[ai-eden.com/bible/1-samuel/23](https://www.ai-eden.com/bible/1-samuel/23?t=CUV,ESV&cols=2)
-
----
+**經文核對**：[ai-eden.com/bible/1-samuel/23](https://www.ai-eden.com/bible/1-samuel/23?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-這一章表面上是一連串的地名與逃亡路線——基伊拉、西弗、哈基拉山、瑪雲曠野、隱基底——但貫穿全章的，其實是同一個動詞反覆出現:「求問」(שָׁאַל)。大衛兩次在基伊拉之役前求問耶和華(23:2,4),又在掃羅逼近時第三、四次求問(23:10-12)。他從不憑自己的判斷行動,即使前一次已經得了應許,遇到新的處境,他仍再求問一次。這正是主耶穌自己所描述的生命樣式:「子憑著自己不能做甚麼,惟有看見父所做的,子才能做」(約5:19),「我不求自己的意思,只求那差我來者的意思」(約5:30)。大衛在曠野裡凡事求問耶和華,是舊約裡最清晰的一幅「順服的兒子」畫像——而這幅畫像,最終要在那位「存心順服,以至於死」(腓2:8)的大衛子孫身上,活出完全的樣式。
+> **本章鑰詞：求問 Inquire**（שָׁאַל；23:2,4,9-12大衛四次求問耶和華）\
+> **座標**：大衛興起（16-31章），啟示的次序第三步——神揀選的王，在寶座之前先在曠野學會凡事求問、不憑自己的手奪取（見卷首〈啟示的次序〉） \
+> （全書三部結構見〈概覽〉：撒母耳時代／掃羅時代／大衛興起）
 
-更值得注意的是:大衛拯救基伊拉,是在自己仍是被追殺的逃犯身分下,冒著生命危險去保護一群與他毫無恩義關係、甚至日後隨時準備把他交給掃羅的人(23:12)。他所救的城,並不領他的情;他所保護的百姓,轉眼就願意出賣他。這幅畫面,早早地預演了那更大的拯救者將要走的路:「祂到自己的地方來,自己的人倒不接待祂」(約1:11)。大衛不是因為基伊拉人配得拯救才去拯救他們,正如耶穌也不是因為世人配得救贖才降世為人、被釘十字架——「惟有基督在我們還作罪人的時候為我們死,神的愛就在此向我們顯明了」(羅5:8)。
+這一章表面上是一連串的地名與逃亡路線——基伊拉、西弗、哈基拉山、瑪雲曠野——但貫穿全章的其實是同一個動詞反覆出現:「求問」(שָׁאַל)。大衛兩次在基伊拉之役前求問耶和華(23:2,4),又在掃羅逼近時第三、四次求問(23:10-12);即使前一次已經得了應許,遇到新的處境仍再求問一次。這正是主耶穌自己所描述的生命樣式:「子憑著自己不能做甚麼,惟有看見父所做的,子才能做」(約5:19),「我不求自己的意思,只求那差我來者的意思」(約5:30)。約拿單在本章的探訪同樣充滿彌賽亞的迴響——他不是給大衛兵力或糧食,而是「使他倚靠神得以堅固」(23:16),並親口承認「你必作以色列的王,我也作你的宰相」(23:17):一位本該繼承王位的王子,主動把自己降為「宰相」,正如啟示錄裡的二十四位長老終要「把他們的冠冕放在寶座前」(啟4:10)。
 
-約拿單在本章的出現同樣充滿彌賽亞的迴響。他來到西弗的樹林裡見大衛,不是給他實際的兵力或糧食,而是「使他倚靠神得以堅固」(23:16,直譯「堅固他的手在神裡面」),並且親口承認:「你必作以色列的王,我也作你的宰相」(23:17)。約拿單身為掃羅的長子,本是理當繼承王位的人,此刻卻主動、心甘情願地把自己降為「宰相」的位置。這不是被迫的讓步,而是一種預先的敬拜——正如啟示錄裡的二十四位長老,終有一日要「把他們的冠冕放在寶座前」(啟4:10),承認那真正配得寶座的一位。約拿單在本章所做的,是全本聖經最早、也最溫柔的一次「放下自己的冠冕」。
+更值得注意的是:大衛拯救基伊拉,是在自己仍是被追殺的逃犯身分下,冒著生命危險去保護一群與他毫無恩義關係、甚至日後隨時準備把他交給掃羅的人(23:12)。他所救的城,並不領他的情——這幅畫面,早早預演了那更大的拯救者將要走的路:「祂到自己的地方來,自己的人倒不接待祂」(約1:11);「惟有基督在我們還作罪人的時候為我們死,神的愛就在此向我們顯明了」(羅5:8)。全章的結尾(23:26-28),掃羅的兵馬已經四面包圍大衛,卻在這一刻「忽有使者來報告掃羅說:非利士人犯境搶掠,請王快快回去!」——一場與大衛毫無關係的外邦戰事,竟成了神拯救受膏者的器具,那地方後來被稱為「西拉哈瑪希羅結」(分開之磐石)。這正是主耶穌後來所經歷的:「他們就想要拿他,只是沒有人下手拿他,因為他的時候還沒有到」(約7:30)。
 
-而全章的結尾(23:26-28),掃羅的兵馬已經四面包圍大衛,眼看就要得手,卻在這一刻,「忽有使者來報告掃羅說:非利士人犯境搶掠,請王快快回去!」——一場看似與大衛毫無關係的外邦戰事,竟成了神拯救祂受膏者的器具。那地方後來被稱為「西拉哈瑪希羅結」(意即「分開之磐石」),成了一塊活的紀念碑,提醒後人:神的手,比掃羅的手更長。這正是主耶穌後來一次又一次所經歷的:「他們就想要拿他,只是沒有人下手拿他,因為他的時候還沒有到」(約7:30;參約8:20)。在祂受死的「時候」尚未來到之前,沒有一隻手能真正抓住祂——大衛在西弗曠野的驚險脫逃,是這條真理最早的舊約劇本。
+---
+
+## 配詩 (Opening Hymn)
+
+> **詩篇54篇（摘句）**
+>
+> 神啊，求你以你的名救我，憑你的大能為我伸冤。
+> 神啊，求你聽我的禱告，側耳聽我口中的言語。
+>
+> — 大衛，西弗人向掃羅告密之後所作的禱告（詩54:1-2）
 
 ---
 
@@ -44,41 +53,35 @@ publisher: 三書精讀出版系統
 
 > 大衛和跟隨他的人卻在瑪雲曠野南邊的亞拉巴。^25^掃羅和跟隨他的人去尋找大衛;有人告訴大衛,他就下到磐石,住在瑪雲的曠野。掃羅聽見,便在瑪雲的曠野追趕大衛。^26^掃羅在山這邊走,大衛和跟隨他的人在山那邊走。大衛急忙躲避掃羅;因為掃羅和跟隨他的人,四面圍住大衛和跟隨他的人,要拿獲他們。^27^忽有使者來報告掃羅說:「非利士人犯境搶掠,請王快快回去!」^28^於是掃羅不追趕大衛,回去攻打非利士人。因此那地方名叫西拉哈瑪希羅結。^29^大衛從那裡上去,住在隱基底的山寨裡。
 
-### English — ESV
+### English — NASB
 
-> ^1^Now they told David, "Behold, the Philistines are fighting against Keilah and are robbing the threshing floors." ^2^Therefore David inquired of the Lord, "Shall I go and attack these Philistines?" And the Lord said to David, "Go and attack the Philistines and save Keilah."
+> ^1^Then they told David, saying, "Behold, the Philistines are fighting against Keilah and are plundering the threshing floors." ^2^So David inquired of the LORD, saying, "Shall I go and attack these Philistines?" And the LORD said to David, "Go and attack the Philistines and deliver Keilah."
 
-> ^3^But David's men said to him, "Behold, we are afraid here in Judah; how much more then if we go to Keilah against the armies of the Philistines?" ^4^Then David inquired of the Lord again. And the Lord answered him, "Arise, go down to Keilah, for I will give the Philistines into your hand." ^5^And David and his men went to Keilah and fought with the Philistines and brought away their livestock and struck them with a great blow. So David saved the inhabitants of Keilah.
+> ^3^But David's men said to him, "Behold, we are afraid here in Judah. How much more then if we go to Keilah against the ranks of the Philistines?" ^4^Then David inquired of the LORD once more. And the LORD answered him and said, "Arise, go down to Keilah, for I will give the Philistines into your hand." ^5^So David and his men went to Keilah and fought with the Philistines; and he led away their livestock and struck them with a great slaughter. Thus David delivered the inhabitants of Keilah.
 
-> ^6^When Abiathar the son of Ahimelech had fled to David to Keilah, he had come down with an ephod in his hand.
+> ^6^Now it came about, when Abiathar the son of Ahimelech fled to David at Keilah, *that* he came down *with* an ephod in his hand.
 
-> ^7^Now it was told Saul that David had come to Keilah. And Saul said, "God has given him into my hand, for he has shut himself in by entering a town that has gates and bars." ^8^And Saul summoned all the people to war, to go down to Keilah, to besiege David and his men. ^9^David knew that Saul was plotting harm against him. And he said to Abiathar the priest, "Bring the ephod here." ^10^Then David said, "O Lord, the God of Israel, your servant has surely heard that Saul seeks to come to Keilah, to destroy the city on my account. ^11^Will the men of Keilah surrender me into his hand? Will Saul come down, as your servant has heard? O Lord, the God of Israel, please tell your servant." And the Lord said, "He will come down." ^12^Then David said, "Will the men of Keilah surrender me and my men into the hand of Saul?" And the Lord said, "They will surrender you." ^13^Then David and his men, who were about six hundred, arose and departed from Keilah, and they went wherever they could go. When Saul was told that David had escaped from Keilah, he gave up the expedition.
+> ^7^When it was told Saul that David had come to Keilah, Saul said, "God has delivered him into my hand, for he shut himself in by entering a city with double gates and bars." ^8^So Saul summoned all the people for war, to go down to Keilah to besiege David and his men. ^9^Now David knew that Saul was plotting evil against him; so he said to Abiathar the priest, "Bring the ephod here." ^10^Then David said, "O LORD God of Israel, Your servant has heard for certain that Saul is seeking to come to Keilah to destroy the city on my account. ^11^Will the men of Keilah surrender me into his hand? Will Saul come down just as Your servant has heard? O LORD God of Israel, I pray, tell Your servant." And the LORD said, "He will come down." ^12^Then David said, "Will the men of Keilah surrender me and my men into the hand of Saul?" And the LORD said, "They will surrender you." ^13^Then David and his men, about six hundred, arose and departed from Keilah, and they went wherever they could go. When it was told Saul that David had escaped from Keilah, he gave up the pursuit.
 
-> ^14^And David remained in the strongholds in the wilderness, in the hill country of the wilderness of Ziph. And Saul sought him every day, but God did not give him into his hand. ^15^David saw that Saul had come out to seek his life. David was in the wilderness of Ziph at Horesh. ^16^And Jonathan, Saul's son, rose and went to David at Horesh, and strengthened his hand in God. ^17^And he said to him, "Do not fear, for the hand of Saul my father shall not find you. You shall be king over Israel, and I shall be next to you. Saul my father also knows this." ^18^And the two of them made a covenant before the Lord. David remained at Horesh, and Jonathan went home.
+> ^14^David stayed in the wilderness in the strongholds, and remained in the hill country in the wilderness of Ziph. And Saul sought him every day, but God did not deliver him into his hand. ^15^Now David became aware that Saul had come out to seek his life while David was in the wilderness of Ziph at Horesh. ^16^And Jonathan, Saul's son, arose and went to David at Horesh, and encouraged him in God. ^17^Thus he said to him, "Do not be afraid, because the hand of Saul my father will not find you, and you will be king over Israel and I will be next to you; and Saul my father knows that also." ^18^So the two of them made a covenant before the LORD; and David stayed at Horesh while Jonathan went to his house.
 
-> ^19^Then the Ziphites went up to Saul at Gibeah, saying, "Is not David hiding among us in the strongholds at Horesh, on the hill of Hachilah, which is south of Jeshimon? ^20^Now come down, O king, according to all your heart's desire to come down, and our part shall be to surrender him into the king's hand." ^21^And Saul said, "May you be blessed by the Lord, for you have had compassion on me. ^22^Go, make yet more sure. Know and see the place where his foot is, and who has seen him there, for it is told me that he is very cunning. ^23^See therefore and take note of all the lurking places where he hides, and come back to me with sure information. Then I will go with you. And if he is in the land, I will search him out among all the thousands of Judah." ^24^And they arose and went to Ziph ahead of Saul.
+> ^19^Then Ziphites came up to Saul at Gibeah, saying, "Is David not hiding with us in the strongholds at Horesh, on the hill of Hachilah, which is on the south of Jeshimon? ^20^Now then, O king, come down according to all the desire of your soul to do so; and our part *shall be* to surrender him into the king's hand." ^21^Saul said, "May you be blessed of the LORD, for you have had compassion on me. ^22^Go now, make more sure, and investigate and see his place where his haunt is, *and* who has seen him there; for I am told that he is very cunning. ^23^So look, and learn about all the hiding places where he hides himself and return to me with certainty, and I will go with you; and if he is in the land, I will search him out among all the thousands of Judah." ^24^Then they arose and went to Ziph before Saul.
 
-> Now David and his men were in the wilderness of Maon, in the Arabah to the south of Jeshimon. ^25^And Saul and his men went to seek him. And David was told, so he went down to the rock and lived in the wilderness of Maon. And when Saul heard that, he pursued after David in the wilderness of Maon. ^26^Saul went on one side of the mountain, and David and his men on the other side of the mountain. And David was hurrying to get away from Saul. As Saul and his men were closing in on David and his men to capture them, ^27^a messenger came to Saul, saying, "Hurry and come, for the Philistines have made a raid against the land." ^28^So Saul returned from pursuing after David and went against the Philistines. Therefore that place was called the Rock of Escape. ^29^And David went up from there and lived in the strongholds of Engedi.
+> Now David and his men were in the wilderness of Maon, in the Arabah to the south of Jeshimon. ^25^When Saul and his men went to seek *him*, they told David, and he came down to the rock and stayed in the wilderness of Maon. And when Saul heard *it*, he pursued David in the wilderness of Maon. ^26^Saul went on one side of the mountain, and David and his men on the other side of the mountain; and David was hurrying to get away from Saul, for Saul and his men were surrounding David and his men to seize them. ^27^But a messenger came to Saul, saying, "Hurry and come, for the Philistines have made a raid on the land." ^28^So Saul returned from pursuing David and went to meet the Philistines; therefore they called that place the Rock of Escape. ^29^David went up from there and stayed in the strongholds of Engedi.
 
 ---
 
 ## 背景 (Context)
 
-### 歷史背景
+### 歷史與地理背景
 
-撒母耳記上22章結束於挪伯祭司全城被屠殺的慘劇(22:18-19),大衛在亞杜蘭洞聚集了約四百名困苦、欠債、心裡苦惱的人(22:1-2)。23章接續這條線,時序約在主前1020年前後。此時大衛雖仍是掃羅眼中的通緝要犯,卻已經開始展現出「未登基卻已在治理」的樣式——他關心猶大境內百姓的死活,主動出兵拯救基伊拉,而這正是名義上的王掃羅本該做、卻沒有做的事。整章的張力在於:一位沒有王冠的人在做王該做的事;一位戴著王冠的人卻把全部心力用在追殺神所揀選的那一位。
+撒母耳記上22章結束於挪伯祭司全城被屠殺的慘劇(22:18-19),大衛已在亞杜蘭洞聚集了約四百名困苦、欠債、心裡苦惱的人(22:1-2)。23章接續這條線,時序約在主前1020年前後——大衛雖仍是掃羅眼中的通緝要犯,卻已展現出「未登基卻已在治理」的樣式:他關心猶大境內百姓的死活,主動出兵拯救基伊拉,而這正是名義上的王掃羅本該做、卻沒有做的事。
 
-### 地理背景:基伊拉與西弗
-
-基伊拉是猶大高原西麓(示非拉)的一座設防城鎮,鄰近非利士邊境,經常成為非利士人劫掠禾場的目標——農作物收成的季節,正是外敵最容易下手的時候。大衛率六百人前去解圍,是一場真實的軍事冒險:他自己也是被追殺的人,卻要為了一座與他毫無恩義關係的城鎮,主動迎戰訓練有素的非利士軍隊。
-
-西弗曠野則在猶大南部希伯崙東南方的山地,是大衛本族猶大支派的境內。這一點格外諷刺:出賣大衛給掃羅的西弗人,與大衛同宗同族,理當是最該保護他的人,卻兩次(本章及26章)主動向掃羅通風報信。「哈基拉山」「瑪雲曠野」「亞拉巴」,都是西弗曠野一帶的地名,構成大衛在猶大南部山地輾轉躲藏的路線圖。
+基伊拉是猶大高原西麓(示非拉)的設防城鎮,鄰近非利士邊境,常成為非利士人劫掠禾場的目標。大衛率六百人前去解圍,是一場真實的軍事冒險——他自己也是被追殺的人,卻要為一座與他毫無恩義關係的城鎮迎戰訓練有素的非利士軍隊。西弗曠野則在猶大南部希伯崙東南方的山地,是大衛本族猶大支派的境內——這一點格外諷刺:出賣大衛給掃羅的西弗人,與大衛同宗同族,理當是最該保護他的人,卻兩次(本章及26章)主動向掃羅通風報信。「哈基拉山」「瑪雲曠野」「亞拉巴」,都是西弗曠野一帶的地名,構成大衛在猶大南部山地輾轉躲藏的路線圖。
 
 ### 亞比亞他與以弗得:審判中的恩典
 
-亞比亞他是挪伯大屠殺唯一的生還者(22:20),他逃到大衛這裡,隨身帶著以弗得——這是祭司求問耶和華旨意(透過烏陵、土明)的聖物。以利家族早在撒母耳記上2:27-36已被神宣告要因罪受懲罰,如今挪伯的屠殺正是這審判的一部分應驗;然而神並未讓祭司的職分因此徹底斷絕——祂讓亞比亞他活著逃出來,並且把以弗得帶到大衛面前。從此,大衛在逃亡歲月裡,凡遇重大抉擇便「將以弗得拿過來」求問耶和華(23:9-12;30:7-8)。審判之中仍有恩典的餘地,這是23章開頭一個容易被忽略、卻極重要的伏筆。
-
-### 文學結構
+亞比亞他是挪伯大屠殺唯一的生還者(22:20),他逃到大衛這裡,隨身帶著以弗得——祭司求問耶和華旨意(透過烏陵、土明)的聖物。以利家族早在2:27-36已被神宣告要因罪受懲罰,挪伯的屠殺正是這審判的一部分應驗;然而神並未讓祭司的職分因此徹底斷絕——祂讓亞比亞他活著逃出來,並把以弗得帶到大衛面前。此後,大衛在逃亡歲月裡,凡遇重大抉擇便「將以弗得拿過來」求問耶和華(23:9-12;30:7-8)。審判之中仍有恩典的餘地,這是23章開頭一個容易被忽略、卻極重要的伏筆。
 
 | 段落 | 內容 | 經文 |
 |------|------|------|
@@ -118,27 +121,23 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-### 1. 凡事求問:大衛與掃羅的根本差異 (Inquiring in Everything)
+### 1. 凡事求問:大衛與掃羅的根本差異
 
-整卷撒母耳記上最深刻的對比,不是大衛的勇敢與掃羅的怯懦,而是兩人面對神话語時的姿態。掃羅在13章等不及撒母耳,就擅自獻祭;在15章明知神的命令,卻按自己的判斷「留下上好的」。他不是完全不求問——他有先知撒母耳在身邊多年——但他求問的次數少得驚人,而且往往在已經決定要做的事之後,才尋求宗教的包裝。大衛卻相反:他已經從神那裡得了「你可以去攻打非利士人」的應許(23:2),跟隨他的人仍然懼怕,他沒有說「神已經應許過了,你們懼怕是不信」,而是「又求問耶和華」(23:4)。這不是懷疑神的話,而是體貼那些懼怕之人的軟弱,願意再一次帶著他們的憂慮回到神面前。求問不是一次性的宗教手續,而是持續的、謙卑的依靠。
+整卷撒母耳記上最深刻的對比,不是大衛的勇敢與掃羅的怯懦,而是兩人面對神話語時的姿態。掃羅在13章等不及撒母耳,就擅自獻祭;在15章明知神的命令,卻按自己的判斷「留下上好的」。他不是完全不求問——但他求問的次數少得驚人,而且往往在已經決定要做的事之後,才尋求宗教的包裝。大衛卻相反:他已經從神那裡得了「你可以去攻打非利士人」的應許(23:2),跟隨他的人仍然懼怕,他沒有說「神已經應許過了,你們懼怕是不信」,而是「又求問耶和華」(23:4)——這不是懷疑神的話,而是體貼那些懼怕之人的軟弱,願意再一次帶著他們的憂慮回到神面前。求問不是一次性的宗教手續,而是持續的、謙卑的依靠。
 
-### 2. 拯救那將要出賣你的人 (Saving Those Who Will Betray You)
+### 2. 拯救那將要出賣你的人
 
-大衛救了基伊拉,付上真實的軍事風險;然而當掃羅逼近,神明確告訴他:「基伊拉人將我和跟隨我的人交在掃羅手裡不交?」——「必交出來」(23:12)。這是全章最讓人心痛的一句話。大衛剛剛用自己和跟隨他之人的性命換來基伊拉的安全,這座城的居民卻已經準備好,只要掃羅一到,就會把恩人親手交出去。大衛沒有因此而後悔拯救他們,也沒有記載他事後質問或咒詛基伊拉人——他只是安靜地帶著跟隨他的人「往他們所能往的地方去」(23:13)。真正的憐憫,從來不是以「對方會不會知恩圖報」為前提。這也是理解十字架最基本的鑰匙:「惟有基督在我們還作罪人的時候為我們死」(羅5:8)——祂拯救的,正是那將要棄絕祂的世界。
+大衛救了基伊拉,付上真實的軍事風險;然而當掃羅逼近,神明確告訴他:「基伊拉人將我和跟隨我的人交在掃羅手裡不交?」——「必交出來」(23:12)。這是全章最讓人心痛的一句話。大衛剛剛用自己和跟隨他之人的性命換來基伊拉的安全,這座城的居民卻已經準備好,只要掃羅一到,就會把恩人親手交出去。大衛沒有因此後悔拯救他們,也沒有記載他事後質問或咒詛基伊拉人——他只是安靜地帶著跟隨他的人「往他們所能往的地方去」(23:13)。真正的憐憫,從來不是以「對方會不會知恩圖報」為前提。這也是理解十字架最基本的鑰匙:「惟有基督在我們還作罪人的時候為我們死」(羅5:8)——祂拯救的,正是那將要棄絕祂的世界。
 
-### 3. 約拿單:使人的手堅固在神裡面 (Strengthening the Hand in God, Not in Self)
+### 3. 約拿單:此生最後一次的探訪
 
-約拿單本章的探訪,是他與大衛此生最後一次面對面的相聚——此後直到約拿單在基利波山陣亡(31章),聖經再沒有記載他們見面。這最後一次的會面,約拿單所做的事極不尋常:他沒有帶兵、沒有帶糧,甚至沒有承諾要保護大衛——他直接說「我父掃羅的手必不加害於你」,這句話他自己也無法完全保證兌現。他真正給大衛的,是「使他倚靠神得以堅固」(23:16)——原文直譯是「堅固他的手在神裡面」。約拿單清楚知道:自己能給的安慰有限,人的陪伴會離開、會軟弱、甚至會死;唯有把朋友的信心重新錨定在神自己身上,才是真正經得起考驗的扶持。更驚人的是他接著說的話:「你必作以色列的王,我也作你的宰相」(23:17)——身為王儲,他親口承認自己將失去王位繼承權,而且是心甘情願、毫無怨言地承認。這是全本聖經最早、最安靜的一次「放下冠冕」。
+約拿單本章的探訪,是他與大衛此生最後一次面對面的相聚——此後直到約拿單陣亡(31章),聖經再沒有記載他們見面。他沒有帶兵、沒有帶糧,甚至沒有承諾能保護大衛;他真正給的,只是把朋友的信心重新錨定在神自己身上(23:16,詳見〈基督焦點〉)。約拿單清楚知道:人的陪伴會離開、會軟弱、甚至會死,唯有指向神的信心,才是真正經得起考驗的扶持。
 
-### 4. 骨肉之親的背叛:西弗人與詩篇54篇的「陌生人」 (Betrayal by One's Own)
+### 4. 骨肉之親的背叛:西弗人與詩篇54篇的「陌生人」
 
-西弗人與大衛同屬猶大支派,理當是最親近、最該庇護他的同族,卻兩度(本章與26章)主動向掃羅通風報信,甚至說「我們必親自將他交在王的手裡」(23:20)——語氣裡帶著討好、甚至邀功的意味。這種來自「自己人」的背叛,往往比敵人的攻擊更傷人。大衛後來在詩篇54篇的標題裡記念這件事:「西弗人來對掃羅說,大衛豈不是在我們那裡藏身麼」。詩篇54:3稱這些人為「陌生人」(希伯來文 זָרִים,zarim)——他們本是自己的骨肉,卻在行為上活得像「陌生人」一樣冷酷無情。這預告了主耶穌自己要經歷的更深的痛:「祂到自己的地方來,自己的人倒不接待祂」(約1:11),甚至十二個門徒中的一個,親口出賣了祂。
-
-### 5. 神在列國動盪中的隱藏之手 (God's Hidden Hand in the Movements of Nations)
-
-23章結尾(23:26-28)的敘事節奏極快:掃羅的軍隊已經四面圍住大衛,情勢危急到「大衛急忙躲避掃羅」,下一刻卻是「忽有使者來報告掃羅說:非利士人犯境搶掠,請王快快回去」。大衛本人在這整件事上沒有做任何事——他沒有禱告求非利士人來犯,也沒有策劃任何逃脫的計謀。神的拯救,這一次不是透過先知的話語,也不是透過以弗得的求問,而是透過一場看似與以色列內部政治毫無關聯的外邦戰事。這提醒我們:神掌管的範圍遠超過我們禱告所求的那一件事,祂可以調動整個非利士的軍事局勢,只為了在準確的一刻,將祂所揀選的人分別出來。「西拉哈瑪希羅結」(分開的磐石)這個地名此後成了活的見證——不是大衛靠自己的智謀逃脫,而是神親自「分開」了他與死亡之間的距離。
+西弗人與大衛同屬猶大支派,理當是最親近、最該庇護他的同族,卻兩度(本章與26章)主動向掃羅通風報信,甚至說「我們必親自將他交在王的手裡」(23:20)——語氣裡帶著討好、甚至邀功的意味。這種來自「自己人」的背叛,往往比敵人的攻擊更傷人。大衛後來在詩篇54篇的標題裡記念這件事,詩54:3稱這些人為「陌生人」(希伯來文 זָרִים,zarim)——他們本是自己的骨肉,卻在行為上活得像「陌生人」一樣冷酷無情。這預告了主耶穌自己要經歷的更深的痛:「祂到自己的地方來,自己的人倒不接待祂」(約1:11),甚至十二個門徒中的一個,親口出賣了祂。
 
 ---
 
@@ -158,35 +157,13 @@ publisher: 三書精讀出版系統
 司布真論詩篇63篇時,雖然把這詩的寫作背景繫於大衛晚年逃避押沙龍叛亂之時,而非本章的西弗曠野("This was probably written while David was fleeing from Absalom")——這是釋經史上一個公開的年代學爭議,值得誠實指出:詩篇標題只說「大衛在猶大曠野的時候」,並未指明是哪一次逃亡;許多釋經家仍將其與23-24章的西弗、瑪雲曠野連結,因為地理與心境都高度吻合。無論確切年代為何,司布真對這詩篇「曠野中仍不失敬拜」的洞見,完全適用於本章大衛的處境:「大衛沒有因為身在曠野就停止歌唱,也沒有懶散地把別的場合所寫的詩篇拿來重複唱誦;他細心地使自己的敬拜配合當下的處境,向他的神獻上一首曠野裡的詩歌。」("David did not leave off singing because he was in the wilderness...but he carefully made his worship suitable to his circumstances, and presented to his God a wilderness hymn when he was in the wilderness.")司布真更留下一句傳頌後世的名言:「他心裡沒有曠野,雖然他四圍都是曠野。」("There was no desert in his heart, though there was a desert around him.")
 — C. H. Spurgeon, *The Treasury of David*, 論詩篇54、63篇
 
-### 當代釋經的呼應
-
-摩根一系的解經傳統一貫認為,撒母耳記上16章之後的每一段逃亡敘事,都是神在「訓練一個尚未坐上寶座的王」;本章的基伊拉之役與西弗曠野的驚險脫逃,正是這個訓練過程具體的兩堂課——前者教大衛「掌權者的心腸」(在自己危難中仍顧念百姓的安危),後者教大衛「掌權者的耐性」(把自己的性命安危,完全交託給看不見的那一位)。這與摩根論掃羅「天然恩賜沒有靈性降服的悲劇」的著名評語,恰成一組對照:掃羅有王的權柄卻無王的心腸,大衛有王的心腸卻仍在等候王的權柄。
-
-麥克阿瑟一系的釋經進路,則一貫強調本章「求問耶和華」(23:2,4,9-12)所示範的引導原則:真正的引導不是尋求神秘的感動或外在的異象,而是在神已經啟示的旨意範圍內,帶著謙卑倚靠的心,一次又一次回到神面前。大衛四次求問,前後問題幾乎重複(是否可以去、基伊拉人是否會出賣他),這說明「求問」的價值不在於得到一個「新」答案,而在於操練持續倚靠、不憑血氣自行其是的習慣——這正是麥克阿瑟論及基督徒引導原則時一貫強調的立場:神的百姓當倚靠的,不是模糊的直覺,而是清楚、持續、謙卑的尋求神的心意。
+摩根一系的解經傳統認為,撒母耳記上16章之後的逃亡敘事,是神在「訓練一個尚未坐上寶座的王」——基伊拉之役教大衛掌權者的心腸(危難中仍顧念百姓),西弗曠野的脫逃教大衛掌權者的耐性(把性命安危交託看不見的那一位),恰與摩根論掃羅「天然恩賜沒有靈性降服」的悲劇評語成對照。麥克阿瑟一系的釋經則一貫強調本章「求問耶和華」(23:2,4,9-12)所示範的引導原則:真正的引導不是尋求神秘感動或外在異象,而是在神已啟示的旨意範圍內,一次又一次帶著謙卑倚靠回到神面前——大衛四次求問、問題幾乎重複,說明「求問」的價值不在得到「新」答案,而在操練持續倚靠、不憑血氣自行其是的習慣。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-### 摩根:受苦是神訓練王者的方式 (G. Campbell Morgan)
-
-摩根解讀撒母耳記上的整體結構時,一貫把大衛16至31章的逃亡歲月,看作神刻意安排的「王者訓練期」——沒有一個未曾在曠野學會倚靠的人,配得坐上寶座。本章的基伊拉之役,正是這個訓練期裡極特殊的一課:大衛在最沒有安全感的處境下,仍然選擇為別人的安危冒險——這種「即使自己一無所有,仍顧念他人」的心腸,正是摩根所形容的、與掃羅「天然恩賜沒有靈性降服」截然相反的王者品格。西弗曠野的驚險一幕,則是另一堂課:大衛學會的不是如何逃脫,而是如何在四面楚歌、全然無計可施時,仍把結局的主權交在神手裡。
-
-### 麥克阿瑟:凡事求問的引導原則 (John MacArthur)
-
-麥克阿瑟論及基督徒如何明白神旨意時,一貫強調:神的引導不是靠捕捉主觀的感動或尋求超自然的異象,而是憑著清楚的心志、持續的禱告、以及對神已啟示話語的順服。本章大衛四次求問耶和華(23:2,4,9-12),正是這個原則最具體的舊約範例——他不是漫無目的地等待「感覺對了」才行動,而是帶著具體的問題、透過神所指定的方式(以弗得),一次又一次誠實地把處境攤在神面前。麥克阿瑟一貫指出:這種「持續尋求、順服已知」的模式,才是聖經對「引導」最健康的定義,遠勝於今日許多基督徒對「神的旨意」那種近乎占卜式的期待。
-
-### 黃長老查經:手的爭奪,最終只有一隻手算數 (Ask Elder Wong)
-
-**精義一句話**:整章撒母耳記上23章,表面在講地名和逃亡路線,實際上只在講一件事——誰的手,才是最終決定大衛命運的那隻手?西弗人想用自己的手抓住大衛,掃羅想用自己的手困住大衛,大衛卻只求問那一隻看不見的手;到了末了,連非利士人的入侵都成了神那隻手的延伸。
-
-黃長老常這樣提問:「你數一數,這一章『交在……手裡』這句話出現了幾次?每一次是誰在說這句話?」——他指出,這七次「手」的角力,正正示範了聖經最核心的一個功課:人所能做的,最多是「計劃」把你交在誰的手裡;但真正「執行」交付與否的,從頭到尾只有神一位。「你今天生命裡,有沒有一個處境,你正在懼怕『別人會不會把我交出去』?基伊拉人真的想過要交出大衛,西弗人真的去告了密——但你讀到最後會發現,這些人的計謀,一次都沒有真正得逞。不是因為他們心軟,是因為手不在他們那裡。」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-### 詩篇54篇——西弗人告密時的禱告
+### 詩篇 54篇——西弗人告密時的禱告
 
 > 神啊,求你以你的名救我,
 > 憑你的大能為我伸冤。
@@ -206,7 +183,7 @@ publisher: 三書精讀出版系統
 
 這篇詩的標題明確記載:「西弗人來對掃羅說:大衛豈不是在我們那裡藏身麼」——正是撒母耳記上23:19的那一次告密。大衛稱這些同宗族的告密者為「陌生人」(זָרִים),因為他們雖是骨肉,行事卻冷酷得如同陌路人;但詩篇沒有停在控訴,而是轉向仰望:「看哪,神是幫助我的」(54:4)。全詩最動人的地方,是在危機尚未過去、敵人仍在尋索他性命的當下,大衛已經預先起誓要「把甘心祭獻給你」(54:6)——信心不是等結果出來才感謝,而是在患難之中就先獻上讚美。
 
-### 詩篇63篇——曠野中仍渴慕神的心
+### 詩篇 63篇——曠野中仍渴慕神的心
 
 > 神啊,你是我的神,我要切切地尋求你;
 > 在乾旱疲乏無水之地,我渴想你,我的心切慕你。
@@ -222,21 +199,26 @@ publisher: 三書精讀出版系統
 > 因為說謊之人的口必被塞住。
 > — 詩篇 63:1-4,11,摘錄
 
-詩篇標題記「大衛在猶大曠野的時候」所作——雖然司布真本人傾向將此詩繫於大衛晚年逃避押沙龍的時期,但許多釋經家仍將其與撒母耳記上23-24章西弗、瑪雲曠野的處境相連,因為那乾旱之地的意象與大衛此刻的心境高度吻合。無論確切寫作年代,這首詩所描繪的正是23章大衛的寫照:身處荒漠,卻沒有荒漠的心;四圍是追殺與背叛,內心卻專注於「切切地尋求」神自己,而非單單求脫離危難。這與司布真的洞見完全相合:「他心裡沒有曠野,雖然他四圍都是曠野」——這正是本章領受與亮光第五點「神在列國動盪中的隱藏之手」最貼切的詩歌迴響:肉身的曠野擋不住一顆專注仰望神的心。
+詩篇標題記「大衛在猶大曠野的時候」所作——雖然司布真本人傾向將此詩繫於大衛晚年逃避押沙龍的時期,但許多釋經家仍將其與撒母耳記上23-24章西弗、瑪雲曠野的處境相連,因為那乾旱之地的意象與大衛此刻的心境高度吻合。無論確切寫作年代,這首詩所描繪的正是23章大衛的寫照:身處荒漠,卻沒有荒漠的心;四圍是追殺與背叛,內心卻專注於「切切地尋求」神自己,而非單單求脫離危難。這與司布真的洞見完全相合:「他心裡沒有曠野,雖然他四圍都是曠野」——也正是本章結尾那場非利士人入侵、神藉列國動盪隱藏施恩(見〈基督焦點〉)最貼切的詩歌迴響:肉身的曠野擋不住一顆專注仰望神的心。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：整章撒母耳記上23章,表面在講地名和逃亡路線,實際上只在講一件事——誰的手,才是最終決定大衛命運的那隻手?西弗人想用自己的手抓住大衛,掃羅想用自己的手困住大衛,大衛卻只求問那一隻看不見的手,約拿單則把自己的手交還在神裡面堅固;到了末了,連非利士人的入侵都成了神那隻手的延伸——真正的公義最終不是靠人手贏來的。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-「求問耶和華」(שָׁאַל בַּיהוה)這個動作,在撒母耳記上23章裡出現了四次,這不是偶然的重複,而是整卷書要教我們的功課的具體示範。回頭看8章,百姓要求一個王時,他們並沒有先「求問耶和華」——他們直接要求撒母耳照辦;掃羅在13章等不到撒母耳,也沒有先求問,就自己擅自獻祭;掃羅在28章走投無路時想求問耶和華,「耶和華卻不藉夢,或烏陵,或先知回答他」(28:6)——因為他一生太少求問,如今神的沉默,是長年積欠的回音。大衛恰恰相反:從逃亡歲月一開始,他就養成「凡事先求問」的習慣(23:2,4,9-12;30:7-8),這習慣一直延續到他登基之後(撒下2:1;5:19,23)。這條線最終指向主耶穌——祂在世上凡事「不求自己的意思,只求那差我來者的意思」(約5:30),祂客西馬尼園裡最後的禱告仍是「不要照我的意思,只要照你的意思」(太26:39)。撒母耳記上23章教我們的,不是一個宗教儀式,而是一種生命姿態:凡事求問,而不是凡事自己判斷了才求神蓋章。
+**求問與被求線**:「求問耶和華」(שָׁאַל בַּיהוה)在本章出現了四次,不是偶然的重複。回頭看8章,百姓要王時並沒有先「求問耶和華」;掃羅在13章等不到撒母耳,也沒有先求問,就自己擅自獻祭;掃羅在28章走投無路時想求問耶和華,「耶和華卻不藉夢,或烏陵,或先知回答他」(28:6)——因為他一生太少求問,如今神的沉默,是長年積欠的回音。大衛恰恰相反:從逃亡歲月一開始就養成「凡事先求問」的習慣(23:2,4,9-12;30:7-8),這習慣一直延續到他登基之後(撒下2:1;5:19,23)。這條線最終指向主耶穌——祂「不求自己的意思,只求那差我來者的意思」(約5:30),客西馬尼園裡最後的禱告仍是「不要照我的意思,只要照你的意思」(太26:39)。
 
-再往後看,約拿單在本章對大衛說「你必作以色列的王,我也作你的宰相」(23:17),這是全書裡王位交接最溫柔、也最少人留意的一幕——沒有戰爭,沒有政變,只有一位本該繼承王位的王子,親口把自己降到「宰相」的位置。這條線最終指向啟示錄裡那幅終末異象:「二十四位長老就俯伏在坐寶座的面前敬拜那活到永永遠遠的,又把他們的冠冕放在寶座前」(啟4:10)。約拿單在西弗樹林裡所做的,正是這幅異象最早的舊約預演——一個人情願被人遺忘,只求所愛的人得著他本該得的位分。
+**約拿單放下冠冕線**（一句帶過,詳見〈基督焦點〉）:23:17「你必作以色列的王,我也作你的宰相」是全書王位交接最溫柔的一幕,終極指向啟示錄裡「把他們的冠冕放在寶座前」(啟4:10)的敬拜異象。
 
 ### 提問式對話 (Let the Reader Speak)
 
-大衛已經得了神的應許「我必將非利士人交在你手裡」,跟隨他的人仍然懼怕,他選擇「又求問耶和華」——如果你已經清楚神的心意,身邊的人卻還是充滿疑慮,你會選擇堅持己見去說服他們,還是願意像大衛一樣,再一次帶著他們的軟弱回到神面前?基伊拉人得了大衛的拯救,卻願意把他交給掃羅——你有沒有經歷過類似的事:你為某人付出極大的代價,對方卻在關鍵時刻選擇明哲保身?那件事怎樣影響了你日後付出的心?約拿單清楚知道,扶持朋友最真實的方法不是給他資源,而是「堅固他的手在神裡面」——你身邊那些正在艱難中的人,你給他們的,是暫時的安慰,還是指向神自己的信心?
+- 先問：大衛已經得了神的應許,跟隨他的人仍然懼怕,他選擇「又求問耶和華」——如果你已經清楚神的心意,身邊的人卻還是充滿疑慮,你會堅持己見,還是願意再一次帶著他們的軟弱回到神面前?
+- 再問：基伊拉人得了大衛的拯救,卻願意把他交給掃羅——你有沒有經歷過,你為某人付出極大代價,對方卻在關鍵時刻選擇明哲保身?
+- 追問：約拿單清楚知道,扶持朋友最真實的方法不是給他資源,而是「堅固他的手在神裡面」——你身邊那些正在艱難中的人,你給他們的是暫時的安慰,還是指向神自己的信心?
+- 落到自己：西弗人本是大衛的骨肉,卻兩次主動出賣他——你生命中有沒有一段類似「自己人」的傷害,至今還沒有真正帶到神面前處理?
 
 ### 活在今天．AI時代 (Living It Today)
 
@@ -244,13 +226,11 @@ publisher: 三書精讀出版系統
 
 ### 今天的祭壇 (Today's Altar)
 
-具體行動:找出一件你已經「知道大概答案」、卻遲遲沒有真正帶到神面前禱告的事——也許是因為你自認已經想清楚了,也許是因為你怕禱告會給出一個不同於你心裡預設的答案。效法大衛「又求問耶和華」(23:4),今天用具體的言語把這件事重新帶到神面前,誠實地問:「主啊,這仍然是你的心意嗎?」然後安靜等候,而不是急著用自己的結論去填滿那安靜。
+- **早晨**：找出一件你已經「知道大概答案」、卻遲遲沒有真正帶到神面前禱告的事。
+- **晚上**：省察——今天我有沒有像基伊拉人一樣,享受了別人的付出,心裡卻早已盤算著自保?
+- **一個行動**：效法大衛「又求問耶和華」(23:4),今天用具體的言語把這件事重新帶到神面前,誠實地問:「主啊,這仍然是你的心意嗎?」然後安靜等候,而不是急著用自己的結論去填滿那安靜。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-撒母耳記上23章從頭到尾都在回答一個問題:大衛的性命,最終在誰的手裡?基伊拉人想交出他,西弗人想出賣他,掃羅想困住他——但敘事者親口下了結論:「神卻不將大衛交在他手裡」(23:14)。大衛在這一切驚險裡所做的,從來不是靠自己更聰明的算計勝過掃羅,而是凡事求問、凡事等候、凡事把最後的話語權交還給神。約拿單在樹林裡「堅固他的手在神裡面」,正是這整章最溫柔的注腳:真正能讓人在四面楚歌中站立得住的,從來不是人的陪伴或自己的謀略,而是重新把手放進那位掌管萬有之神的手裡。
+**你看見耶穌了嗎**：大衛在洞穴內外只求問、不強奪;約拿單放下本該屬他的冠冕;而基督——那位真正配得寶座的受膏者——不但放下冠冕,更放下自己的生命,「祂到自己的地方來,自己的人倒不接待祂」(約1:11),卻仍甘心「存心順服,以至於死」(腓2:8)。你今天面對的處境,是選擇伸手奪取,還是像大衛、像基督一樣,把時候和結局交在父的手裡?
 
 ---
 
@@ -258,13 +238,9 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **凡事求問**:大衛已經得了神的應許,仍然「又求問耶和華」。我是否常常在「已經知道大概答案」之後,就不再真正禱告,只用禱告的形式確認自己的決定?
-
-2. **拯救不領情的人**:大衛拯救了基伊拉,卻險些被基伊拉人出賣。我是否曾因為害怕對方不領情、不知恩圖報,而收回了原本該有的憐憫和付出?
-
-3. **骨肉之親的背叛**:西弗人是大衛的同族,卻主動出賣他。我生命中有沒有一段類似的傷害,至今還沒有真正帶到神面前處理?
-
-4. **神在幕後的手**:西弗曠野的拯救,來自一場與大衛毫無關係的非利士入侵。我是否相信:神此刻正在我看不見的地方,調度著與我毫不相干的事,為要在準確的時刻保守我?
+1. **神在幕後的手**:西弗曠野的拯救,來自一場與大衛毫無關係的非利士入侵。我是否相信:神此刻正在我看不見的地方,調度著與我毫不相干的事,為要在準確的時刻保守我?
+2. **求問還是自行做主**:大衛已經得了神的應許,仍然選擇再求問。我是否常常在「已經知道大概答案」之後,就不再真正禱告,只用禱告的形式確認自己已經決定的事?
+3. **拯救不領情的人**:我是否曾因為害怕對方不知恩圖報,而收回了原本該有的憐憫和付出?
 
 ### 禱告回應
 
@@ -285,17 +261,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 大衛在得了神明確的應許之後,為何仍然「又求問耶和華」(23:4)?這對我們理解「已經信了」和「持續倚靠」之間的關係,有什麼提醒?
-
-2. 基伊拉人願意把拯救他們的大衛交給掃羅,這件事對「憐憫是否應該以對方的回報為前提」這個問題,給了我們什麼答案?
-
-3. 約拿單在23:16-18的探訪,是他與大衛此生最後一次相見。他所說、所做的事,如何幫助我們重新思想「真正的扶持」是什麼?
-
-4. 西弗人兩次(23章、26章)出賣大衛,詩篇54篇稱他們為「陌生人」。骨肉之親的背叛,和敵人的攻擊,對我們的傷害有什麼不同?我們該如何面對?
-
-5. 本章結尾,神藉一場非利士人的入侵拯救大衛,而非透過先知的預言或以弗得的求問。這對我們理解「神掌管歷史全局」這件事,有什麼具體的提醒?
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 凡事求問耶和華 | 23:2,4,9-12 | 撒上8:1-9;13:8-14;28:6;30:7-8;撒下2:1,5:19,23;約5:30;太26:39 |
+| 約拿單放下冠冕 | 23:16-18 | 啟4:10 |
+| 神看似平凡的攔阻,實則掌權 | 23:26-28 | 約7:30;8:20 |
+| 骨肉之親的出賣(詩54標題) | 23:19-20 | 詩54:1-7 |
+| 拯救不知感恩的人 | 23:1-5,12-13 | 約1:11;羅5:8 |
 
 ---
 

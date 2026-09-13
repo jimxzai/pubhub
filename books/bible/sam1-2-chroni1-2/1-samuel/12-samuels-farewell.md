@@ -10,15 +10,42 @@ publisher: 三書精讀出版系統
 
 撒母耳記上 12:1-25
 
-**經文核對**：[ai-eden.com/bible/1-samuel/12](https://www.ai-eden.com/bible/1-samuel/12?t=CUV,ESV&cols=2)
-
----
+**經文核對**：[ai-eden.com/bible/1-samuel/12](https://www.ai-eden.com/bible/1-samuel/12?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-撒母耳記上12章表面上是一篇政治交接演說——年邁的先知在吉甲把治理的權柄正式交給新王掃羅。但這篇告別辭的骨架，其實是一份古代近東常見的「宗主—附庸」立約文書：歷史回顧（6-11節）、盟約條款（14-15節）、神蹟印證（16-19節）、祝福與咒詛（20-25節）。撒母耳站在這份文書的中央，做了兩件只有中保才能做的事：他為百姓向神「作見證」（3-5節），又應許要不住地為百姓向神代求（23節）。這正是希伯來書所說「中保」的雛形——「祂是新約的中保」（來9:15），「凡靠著他進到神面前的人，他都能拯救到底，因為他是長遠活著，替他們祈求」（來7:25）。撒母耳說「斷不停止為你們禱告，以致得罪耶和華」，這句話把代求提升到「不代求就是得罪神」的高度——這正是耶穌基督此刻在天上、為著屬祂的人所做的事（羅8:34）。
+> **本章鑰詞：中保代求 Intercession**（12:23「我斷不停止為你們禱告，以致得罪耶和華」）\
+> **座標**：掃羅時代（8-15章）——士師制正式交棒君主制的收尾儀式，先知交出治理的權柄，卻不交出代求的職分（見卷首〈啟示的次序〉，12:23；詩99:6；耶15:1）\
+> （全書三部結構見〈概覽〉：撒母耳時代／掃羅時代／大衛興起）
 
-更深一層看，12:12「其實耶和華——你們的神是你們的王」重申了8:7「他們不是厭棄你，乃是厭棄我作他們的王」同一句判決。以色列求一個看得見的王，神卻藉著撒母耳提醒他們：真正的王從來沒有換過。撒母耳在此承認掃羅為「耶和華的受膏者（מְשִׁיחוֹ, meshicho）」（3節、5節），這是全書第二次使用「受膏者」一詞（首次見哈拿之歌，2:10）——但掃羅這受膏者終將失敗，而神設立君王的真正心意，要等到「大衛的子孫」，那位「祂的政權必無窮盡」的王（賽9:6-7）身上才完全實現。撒母耳記上12章因此站在一個奇特的十字路口：一方面確認了一個注定失敗的王，另一方面又藉著「神不撇棄祂的百姓」（22節）這應許，把讀者的盼望推向那位永不失敗、也永不停止代求的更美中保——耶穌基督。
+撒母耳記上12章表面上是一篇政治交接演說——年邁的先知在吉甲把治理的權柄正式交給新王掃羅。但這篇告別辭的骨架，其實是一份古代近東常見的「宗主—附庸」立約文書：歷史回顧（6-11節）、盟約條款（14-15節）、神蹟印證（16-19節）、祝福與咒詛（20-25節）。撒母耳做了兩件只有中保才能做的事：他為百姓向神「作見證」（3-5節），又應許不住地為百姓向神代求（23節）——這正是希伯來書所說「中保」的雛形（來9:15、7:25）。他說「斷不停止為你們禱告，以致得罪耶和華」，把代求提升到「不代求就是得罪神」的高度，這正是耶穌基督此刻在天上為屬祂之人所做的事（羅8:34）。
+
+更深一層看，12:12「其實耶和華——你們的神是你們的王」重申了8:7同一句判決：以色列求一個看得見的王，真正的王卻從來沒有換過。撒母耳承認掃羅為「耶和華的受膏者」（3、5節）——這是全書第二次用「受膏者」一詞（首次見2:10）——但這受膏者終將失敗，神設立君王的真正心意，要等到那位「政權必無窮盡」的大衛子孫身上才完全實現（賽9:6-7）。本章因此站在一個十字路口：一方面確認一個注定失敗的王，另一方面又藉著「神不撇棄祂的百姓」（22節）的應許，把盼望推向那位永不失敗、永不停止代求的更美中保——耶穌基督。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Sweet Hour of Prayer**
+> *William W. Walford, 1845*
+>
+> Sweet hour of prayer, sweet hour of prayer,
+> That calls me from a world of care,
+> And bids me at my Father's throne
+> Make all my wants and wishes known.
+> In seasons of distress and grief,
+> My soul has often found relief,
+> And oft escaped the tempter's snare,
+> By thy return, sweet hour of prayer!
+>
+> 甜美的禱告時刻，甜美的禱告時刻，
+> 你把我從紛擾的世界召回；
+> 你使我在天父的寶座前，
+> 訴說我心裡一切所思所求。
+> 在患難憂傷的季節裡，
+> 我的靈魂常常在你裡面得著釋放，
+> 也曾多次逃脫試探者的網羅——
+> 因你的再臨，甜美的禱告時刻！
 
 ---
 
@@ -36,17 +63,17 @@ publisher: 三書精讀出版系統
 
 > ^20^撒母耳對百姓說：「不要懼怕！你們雖然行了這惡，卻不要偏離耶和華，只要盡心事奉他。^21^若偏離耶和華去順從那不能救人的虛神是無益的。^22^耶和華既喜悅選你們作他的子民，就必因他的大名不撇棄你們。^23^至於我，斷不停止為你們禱告，以致得罪耶和華。我必以善道正路指教你們。^24^只要你們敬畏耶和華，誠誠實實地盡心事奉他，想念他向你們所行的事何等大。^25^你們若仍然作惡，你們和你們的王必一同滅亡。」
 
-### English — ESV
+### English — NASB
 
-> ^1^And Samuel said to all Israel, "Behold, I have obeyed your voice in all that you have said to me and have made a king over you. ^2^And now, behold, the king walks before you, and I am old and gray; and behold, my sons are with you. I have walked before you from my youth until this day. ^3^Here I am; testify against me before the LORD and before his anointed. Whose ox have I taken? Or whose donkey have I taken? Or whom have I defrauded? Whom have I oppressed? Or from whose hand have I taken a bribe to blind my eyes with it? Testify against me and I will restore it to you." ^4^They said, "You have not defrauded us or oppressed us or taken anything from any man's hand." ^5^And he said to them, "The LORD is witness against you, and his anointed is witness this day, that you have not found anything in my hand." And they said, "He is witness."
+> ^1^Then Samuel said to all Israel, "Behold, I have listened to your voice in all that you said to me and I have appointed a king over you. ^2^Now, here is the king walking before you, but I am old and gray, and behold my sons are with you. And I have walked before you from my youth even to this day. ^3^Here I am; bear witness against me before the LORD and His anointed. Whose ox have I taken, or whose donkey have I taken, or whom have I defrauded? Whom have I oppressed, or from whose hand have I taken a bribe to blind my eyes with it? I will restore it to you." ^4^They said, "You have not defrauded us or oppressed us or taken anything from any man's hand." ^5^He said to them, "The LORD is witness against you, and His anointed is witness this day that you have found nothing in my hand." And they said, "He is witness."
 
-> ^6^And Samuel said to the people, "The LORD is witness, who appointed Moses and Aaron and brought your fathers up out of the land of Egypt. ^7^Now therefore stand still that I may plead with you before the LORD concerning all the righteous deeds of the LORD that he performed for you and for your fathers. ^8^When Jacob went into Egypt, and the Egyptians oppressed them, then your fathers cried out to the LORD and the LORD sent Moses and Aaron, who brought your fathers out of Egypt and made them dwell in this place. ^9^But they forgot the LORD their God. And he sold them into the hand of Sisera, commander of the army of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab. And they fought against them. ^10^And they cried out to the LORD and said, 'We have sinned, because we have forsaken the LORD and have served the Baals and the Ashtaroth. But now deliver us out of the hand of our enemies, that we may serve you.' ^11^And the LORD sent Jerubbaal and Barak and Jephthah and Samuel and delivered you out of the hand of your enemies on every side, and you lived in safety.
+> ^6^Then Samuel said to the people, "It is the LORD who appointed Moses and Aaron and who brought your fathers up from the land of Egypt. ^7^So now, take your stand, that I may plead with you before the LORD concerning all the righteous acts of the LORD which He did for you and your fathers. ^8^When Jacob went into Egypt and your fathers cried out to the LORD, then the LORD sent Moses and Aaron who brought your fathers out of Egypt and settled them in this place. ^9^But they forgot the LORD their God, so He sold them into the hand of Sisera, captain of the army of Hazor, and into the hand of the Philistines and into the hand of the king of Moab, and they fought against them. ^10^They cried out to the LORD and said, 'We have sinned because we have forsaken the LORD and have served the Baals and the Ashtaroth; but now deliver us from the hands of our enemies, and we will serve You.' ^11^Then the LORD sent Jerubbaal and Bedan and Jephthah and Samuel, and delivered you from the hands of your enemies all around, so that you lived in security.
 
-> ^12^And when you saw that Nahash the king of the Ammonites came against you, you said to me, 'No, but a king shall reign over us,' when the LORD your God was your king. ^13^And now behold the king whom you have chosen, for whom you have asked; behold, the LORD has set a king over you. ^14^If you will fear the LORD and serve him and obey his voice and not rebel against the commandment of the LORD, and if both you and the king who reigns over you will follow the LORD your God, it will be well. ^15^But if you will not obey the voice of the LORD, but rebel against the commandment of the LORD, then the hand of the LORD will be against you and your king.
+> ^12^When you saw that Nahash the king of the sons of Ammon came against you, you said to me, 'No, but a king shall reign over us,' although the LORD your God was your king. ^13^Now therefore, here is the king whom you have chosen, whom you have asked for, and behold, the LORD has set a king over you. ^14^If you will fear the LORD and serve Him, and listen to His voice and not rebel against the command of the LORD, then both you and also the king who reigns over you will follow the LORD your God. ^15^If you will not listen to the voice of the LORD, but rebel against the command of the LORD, then the hand of the LORD will be against you, *as it was* against your fathers.
 
-> ^16^Now therefore stand still and see this great thing that the LORD will do before your eyes. ^17^Is it not wheat harvest today? I will call upon the LORD, that he may send thunder and rain. And you shall know and see that your wickedness is great, which you have done in the sight of the LORD, in asking for yourselves a king." ^18^So Samuel called upon the LORD, and the LORD sent thunder and rain that day, and all the people greatly feared the LORD and Samuel. ^19^And all the people said to Samuel, "Pray for your servants to the LORD your God, that we may not die, for we have added to all our sins this evil, to ask for ourselves a king."
+> ^16^Even now, take your stand and see this great thing which the LORD will do before your eyes. ^17^Is it not the wheat harvest today? I will call to the LORD, that He may send thunder and rain. Then you will know and see that your wickedness is great which you have done in the sight of the LORD by asking for yourselves a king." ^18^So Samuel called to the LORD, and the LORD sent thunder and rain that day; and all the people greatly feared the LORD and Samuel. ^19^Then all the people said to Samuel, "Pray for your servants to the LORD your God, so that we may not die, for we have added to all our sins *this* evil by asking for ourselves a king."
 
-> ^20^And Samuel said to the people, "Do not be afraid; you have done all this evil. Yet do not turn aside from following the LORD, but serve the LORD with all your heart. ^21^And do not turn aside after empty things that cannot profit or deliver, for they are empty. ^22^For the LORD will not forsake his people, for his great name's sake, because it has pleased the LORD to make you a people for himself. ^23^Moreover, as for me, far be it from me that I should sin against the LORD by ceasing to pray for you, and I will instruct you in the good and the right way. ^24^Only fear the LORD and serve him faithfully with all your heart. For consider what great things he has done for you. ^25^But if you still do wickedly, you shall be swept away, both you and your king."
+> ^20^Samuel said to the people, "Do not fear. You have committed all this evil, yet do not turn aside from following the LORD, but serve the LORD with all your heart. ^21^You must not turn aside, for *then you would go* after futile things which can not profit or deliver, because they are futile. ^22^For the LORD will not abandon His people on account of His great name, because the LORD has been pleased to make you a people for Himself. ^23^Moreover, as for me, far be it from me that I should sin against the LORD by ceasing to pray for you; but I will instruct you in the good and right way. ^24^Only fear the LORD and serve Him in truth with all your heart; for consider what great things He has done for you. ^25^But if you still do wickedly, both you and your king will be swept away."
 
 ---
 
@@ -54,9 +81,7 @@ publisher: 三書精讀出版系統
 
 ### 歷史背景
 
-這篇告別辭發生在吉甲——一個對以色列別具意義的地方：約書亞在此地立石紀念過約旦河（書4:19-20），也在此地行割禮、守逾越節，「今日我把埃及的羞辱從你們身上滾去了」（書5:9）。掃羅剛在此地擊敗亞捫王拿轄，百姓的歡呼達到頂點，「眾民往吉甲去，在耶和華面前立掃羅為王」（11:15）——這是掃羅第二次「立王」，第一次是在米斯巴抽籤（10:20-24），這一次是在勝利之後、眾民的擁戴之下正式確立。撒母耳記上12章正是緊接著這個歡騰時刻的告別辭：一位年邁先知在全民歡呼聲最高的那一刻，選擇不順著群眾的情緒說話，反而把百姓的注意力從「我們有王了」拉回到「耶和華才是王」。
-
-從士師記到撒母耳記，以色列走過一個漫長的循環：士師秉政四百年，「各人任意而行」（士21:25）。撒母耳是這個時代最後、也是最完整的一位士師——士師、祭司、先知三職集於一身（徒3:24稱他為「眾先知的開始」）。12章是這個過渡期正式的收尾儀式：撒母耳交出治理的權柄，卻沒有交出代求的職分（23節）。約主前1050年，以色列從士師制正式跨入君主制，而這場交接沒有以政變或流血完成，而是以一篇講道、一次神蹟、和一份重申的盟約完成——這本身就說明神仍然掌權，即使百姓選擇了自己的方式。
+這篇告別辭發生在吉甲——約書亞曾在此立石紀念過約旦河（書4:19-20），也在此行割禮、守逾越節，「把埃及的羞辱從你們身上滾去了」（書5:9）。掃羅剛在此地擊敗亞捫王拿轄，百姓歡呼達到頂點，「在耶和華面前立掃羅為王」（11:15）——這是掃羅第二次「立王」，第一次是米斯巴抽籤（10:20-24），這一次是勝利之後眾民擁戴之下的正式確立。一位年邁先知在全民歡呼聲最高的那一刻，選擇不順著群眾的情緒說話，反而把百姓的注意力從「我們有王了」拉回「耶和華才是王」。從士師記到撒母耳記，以色列走過漫長的循環：士師秉政四百年，「各人任意而行」（士21:25）；撒母耳是這時代最後、也最完整的一位士師——士師、祭司、先知三職集於一身（徒3:24稱他「眾先知的開始」）。12章是這個過渡期正式的收尾儀式：撒母耳交出治理的權柄，卻沒有交出代求的職分（23節）——這場交接不是政變或流血，而是一篇講道、一次神蹟、一份重申的盟約，本身就說明神仍然掌權，即使百姓選擇了自己的方式。
 
 ### 文學結構——古代近東的宗主盟約模式
 
@@ -71,7 +96,7 @@ publisher: 三書精讀出版系統
 | 神蹟印證 | 雷雨為證，眾民驚懼 | 12:16-19 | 神聖見證 (Divine Witness) |
 | 勸勉與應許 | 不要偏離，神必不撇棄，我必為你們禱告 | 12:20-25 | 祝福與咒詛 (Blessings/Curses) |
 
-這個結構最引人注意之處，在於「見證」貫穿全篇：耶和華是見證（5、6節），祂的受膏者是見證（3、5節），雷雨是見證（18節），而撒母耳自己的清白也是見證（3-5節）。整篇講辭要證明一件事：以色列求王這件事雖然是罪（12、17、19節），神卻仍然信實——神的信實不是因百姓配得，而是「因他的大名」（22節）。
+這個結構最引人注意之處，在於「見證」貫穿全篇：耶和華是見證（5、6節），受膏者是見證（3、5節），雷雨是見證（18節），撒母耳自己的清白也是見證（3-5節）。雷雨本身正是申命記18:22試驗真先知準則的活生生示範——割麥時節（約五、六月）正值旱季高峰，突然的雷雨是極不尋常的天象，神藉此為撒母耳的話蓋上印記。整篇講辭要證明一件事：求王雖然是罪（12、17、19節），神卻仍然信實——信實不是因百姓配得，而是「因他的大名」（22節）。
 
 ---
 
@@ -88,43 +113,31 @@ publisher: 三書精讀出版系統
 
 ### 「虛神」(*tohu*) 與創造之初的呼應
 
-21節「若偏離耶和華去順從那不能救人的虛神」，原文的「虛」字正是創世記1:2描述被造之初、尚未被神的話語與靈運行之前那片黑暗深淵的同一個字——תֹּהוּ (tohu)。這不是巧合的用詞重疊，而是刻意的屬靈宣告：偶像不是「另一種神明」，偶像的本質是「虛無」——是神尚未說「要有光」之前的那片混沌。以色列若偏離那位「說有就有，命立就立」的耶和華，去追隨那不能說話、不能行動、不能拯救的假神，等於是自願走回創造之前的黑暗裡去。撒母耳在這裡不是用「這些神比較弱」來勸誡百姓，而是用「這些神根本不是『有』，是『無』」來揭穿偶像的真相。
+21節「若偏離耶和華去順從那不能救人的虛神」，原文的「虛」字正是創世記1:2描述被造之初、神的話語與靈運行之前那片黑暗深淵的同一個字——תֹּהוּ (tohu)。這是刻意的屬靈宣告：偶像的本質不是「另一種神明」，而是「虛無」——神尚未說「要有光」之前的那片混沌。偏離那位「說有就有」的耶和華去追隨不能說話、不能拯救的假神，等於自願走回創造之前的黑暗。撒母耳不是說「這些神比較弱」，而是說「這些神根本不是『有』，是『無』」。
 
 ### 「見證」(*'ed*) 貫穿全篇的法庭場景
 
-整篇告別辭讀起來像一場法庭聆訊：撒母耳先讓自己站上被告席，邀請百姓和神一同作見證，證明他從未濫權（1-5節）；接著他轉換角色，讓耶和華和歷史本身作見證，指控百姓的悖逆（6-15節）；最後他呼求雷雨作見證，證實他所說的每一句話都出於神，不是出於他個人的意氣（16-19節）。三層見證疊加在一起，其實只為了一件事：讓百姓無可推諉地承認——「我們求立王的事正是罪上加罪了」(19節)。這正是律法本身的功用：「叫人知罪」（羅3:20），把人帶到無可自辯的地步，然後才能聽見恩典的宣告：「耶和華既喜悅選你們作他的子民，就必因他的大名不撇棄你們」（22節）。定罪在先，恩典隨後——這正是整本聖經一貫的次序。
+整篇告別辭讀起來像一場法庭聆訊：撒母耳先讓自己站上被告席，邀請百姓和神一同作見證，證明他從未濫權（1-5節）；接著讓耶和華和歷史本身作見證，指控百姓的悖逆（6-15節）；最後呼求雷雨作見證，證實他所說的每一句話都出於神，不是出於個人意氣（16-19節）。三層見證疊加，只為了一件事：讓百姓無可推諉地承認——「我們求立王的事正是罪上加罪了」(19節)。這正是律法的功用：「叫人知罪」（羅3:20），把人帶到無可自辯之地，然後才能聽見恩典的宣告：「因他的大名不撇棄你們」（22節）。定罪在先，恩典隨後——這是整本聖經一貫的次序。
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 清白的僕人 (The Blameless Servant)
 
-撒母耳開場第一件事，不是控告百姓，而是把自己交出來受檢驗：「我奪過誰的牛，搶過誰的驢，欺負過誰，虐待過誰，從誰手裡受過賄賂因而眼瞎呢？若有，我必償還。」（3節）在一個領袖濫權幾乎是常態的世代（想想以利兩個兒子的貪贓，2:12-17；想想撒母耳自己的兒子「貪圖財利，收受賄賂，屈枉正直」，8:3），撒母耳能坦然站在全會眾面前，邀請他們公開作證，這本身就是他一生忠心事奉的總結。這不是自誇，而是他要百姓明白：他們厭棄的，從來不是一個失職的領袖，而是神藉這位忠心僕人所代表的治理方式。撒母耳的清白，讓百姓的求王之罪無可推諉——問題不在供應的人手不夠好，問題在百姓不要那雙手所代表的神。
+撒母耳開場第一件事，不是控告百姓，而是把自己交出來受檢驗：「我奪過誰的牛，搶過誰的驢……若有，我必償還。」（3節）在一個領袖濫權幾乎是常態的世代（以利兩個兒子的貪贓，2:12-17；撒母耳自己的兒子「貪圖財利，收受賄賂，屈枉正直」，8:3），他能坦然邀請全會眾公開作證，這是他一生忠心事奉的總結——不是自誇，而是要百姓明白：他們厭棄的，從來不是一個失職的領袖，而是神藉這位忠心僕人所代表的治理方式。撒母耳的清白，讓百姓求王之罪無可推諉：問題不在供應的人手不夠好，在於百姓不要那雙手所代表的神。
 
-### 2. 恩典的歷史，悖逆的循環 (A History of Grace, a Cycle of Rebellion)
+### 2. 有條件的君主制——盟約沒有廢除 (A Conditional Monarchy—The Covenant Still Stands)
 
-6-11節，撒母耳用最簡潔的方式重述士師記的整段歷史：神差遣摩西亞倫（8節），百姓卻「忘記耶和華」（9節），神就把他們交在仇敵手中；百姓呼求，神就興起拯救者——耶路巴力（基甸）、比但、耶弗他、撒母耳（11節）。這個「忘記—受苦—呼求—拯救」的循環反覆出現，不是要百姓自責到絕望，而是要他們看清一個模式：神的信實從未因百姓的健忘而動搖。撒母耳把自己的名字也放進這份拯救者名單裡（11節），不是自我標榜，而是要提醒百姓：直到今天，神仍在用同樣信實的方式待他們——即使他們現在正要求一個看得見的王，來取代這位看不見卻從未失信的王。
+14-15節把君主制重新安放在西奈之約的框架之下：「你們若敬畏耶和華……就好了；倘若不聽從……耶和華的手必攻擊你們。」這說明神設立君主制，不是放棄與以色列所立的約、改用新規則，而是君王和百姓一同被納入同一份舊約的祝福與咒詛（參申28章）。換句話說：掃羅、大衛、日後每一位猶大王的成敗，衡量標準只有一個——是否敬畏耶和華、順從祂的話。人的王沒有廢掉神的約，只是被放進約裡接受同一套考驗——掃羅在這場考驗裡徹底失敗，大衛在跌倒中仍被稱為「合神心意的人」（13:14）。
 
-### 3. 「其實耶和華是你們的王」——同一個判決再次響起 (The Same Verdict, Restated)
+### 3. 「因他的大名」——恩典的真正根基 (For His Great Name's Sake)
 
-12節重申了8:7的判決：「其實耶和華——你們的神是你們的王。」百姓求王的觸發點是拿轄的軍事威脅（12節），這聽起來完全合情合理——他們需要一個能領兵打仗、隨時可用的領袖。但撒母耳一句話戳破了這個「合理」的外衣：他們忘了，那位曾經興起耶路巴力、耶弗他、撒母耳親自為他們爭戰的神，此刻仍然是王。危機不是他們沒有王，危機是他們選擇不倚靠那看不見、卻從未打過敗仗的王。這正是罪最隱蔽的形式：不是明目張膽地否認神，而是在合理的恐懼與需要面前，悄悄用人的辦法取代神的應許。
+22節是整篇告別辭裡最深刻的一句：「耶和華既喜悅選你們作他的子民，就必因他的大名不撇棄你們。」注意邏輯順序：不是「因為你們配得」——恰恰相反，撒母耳剛用19節經文證明了他們確實犯了大罪。神不撇棄他們的理由，不在百姓身上，而在神自己的名——這個揀選一旦發出，就不會因人的失敗而收回，因為收回的話，受虧損的是耶和華自己「大名」的信實。這句話在以西結書36:22找到最清楚的回聲：「我行這事不是為你們，乃是為我的聖名。」從亞伯拉罕之約到君主之約再到救恩之約，神持守應許的根基始終如一：不是因為我們配得，而是因為祂的名配得被信實地持守到底。
 
-### 4. 有條件的君主制——盟約沒有廢除 (A Conditional Monarchy—The Covenant Still Stands)
+### 4. 撒母耳的代求——「不禱告就是得罪神」(Samuel's Intercession—To Cease Praying Is to Sin)
 
-14-15節把整個君主制度重新安放在西奈之約的框架之下：「你們若敬畏耶和華……就好了。倘若不聽從耶和華的話……耶和華的手必攻擊你們。」這句話極其重要——它說明神設立君主制，並不是放棄祂原本與以色列所立的約，改用一套新的遊戲規則；恰恰相反，君王和百姓一同被納入同一份舊約的祝福與咒詛之下（參申28章）。換句話說：掃羅的成敗、大衛的成敗、日後每一位猶大王的成敗，衡量標準永遠只有一個——是否敬畏耶和華、順從祂的話。人的王沒有廢掉神的約，人的王只是被放進神的約裡接受同一套考驗——而正如整卷書接下來要展示的，掃羅在這場考驗裡徹底失敗，大衛在跌倒中仍被稱為「合神心意的人」（13:14）。
-
-### 5. 打雷降雨的兆頭——曠野先知的印證 (The Sign of Thunder and Rain)
-
-16-19節記載的神蹟，看似只是一場暴雨，實則意義深遠：巴勒斯坦的割麥時節（約主前的五、六月間）正值旱季高峰，當地全年幾乎不下雨，突然的雷雨在那個季節是極不尋常、甚至可以說是違反常理的天象。撒母耳求告耶和華，耶和華立刻應允——這不只是自然界的巧合，而是神親自印證撒母耳這位先知所說的每一句話都出於祂。申命記18:22給了一個試驗真先知的準則：「先知託耶和華的名說話，所說的若不成就，也無效驗，這就是耶和華所未曾吩咐的。」這場雷雨正是這個準則的活生生示範——神用一件超自然的「大事」（16節），親自為撒母耳的講辭蓋上印記，也讓百姓親眼看見：他們求王的決定，在神眼中「是犯大罪了」（17節）。眾民的反應「甚懼怕耶和華和撒母耳」（18節），不是迷信式的恐慌，而是終於認清了他們一直以來輕忽的那位神，是何等真實、何等信實。
-
-### 6. 「因他的大名」——恩典的真正根基 (For His Great Name's Sake)
-
-22節是整篇告別辭裡最溫柔、也最深刻的一句：「耶和華既喜悅選你們作他的子民，就必因他的大名不撇棄你們。」注意這句話的邏輯順序：不是「因為你們配得」，也不是「因為你們這次求王的事沒有犯罪」——恰恰相反，撒母耳剛用整整19節經文證明了他們確實犯了大罪。神不撇棄他們的理由，不在百姓身上，而在神自己的名——祂已經揀選他們作祂的子民，這個揀選一旦發出，就不會因人的失敗而收回，因為收回的話，受虧損的不只是以色列，更是耶和華自己「大名」的信實。這句話在以西結書36:22找到最清楚的回聲：「我行這事不是為你們，乃是為我的聖名。」神持守應許的根基，從創世記的亞伯拉罕之約，到撒母耳記的君主之約，到新約的救恩之約，始終如一：不是因為我們配得，而是因為祂的名配得被信實地持守到底。
-
-### 7. 撒母耳的代求——「不禱告就是得罪神」(Samuel's Intercession—To Cease Praying Is to Sin)
-
-23節，撒母耳說出了整本聖經中對「代求」最有力的宣告之一：「我斷不停止為你們禱告，以致得罪耶和華。」注意這句話把「不代求」直接等同於「得罪神」——這不是一句客套的承諾，而是撒母耳把代求看作他先知職分裡不可推卸的責任。他剛被百姓「淘汰」、被要求交出治理的權柄，若換成常人，很可能心生怨懟、從此撒手不管——但撒母耳選擇了完全相反的道路：權柄可以交出，代求的職分卻絕不停止。這正是先知與祭司職分最深的合一之處：先知向百姓傳達神的話，祭司向神代百姓祈求，撒母耳兩者兼備，且拒絕讓被拒絕的傷痛熄滅他的代求之心。這也是為何希伯來書要說耶穌基督「凡靠著祂進到神面前的人，祂都能拯救到底，因為祂是長遠活著，替他們祈求」（來7:25）——撒母耳「斷不停止」的代求，只是那更長遠、永不止息之代求的一個影兒。
+23節，撒母耳說出了整本聖經對「代求」最有力的宣告之一：「我斷不停止為你們禱告，以致得罪耶和華。」這句話把「不代求」直接等同於「得罪神」——不是客套的承諾，而是撒母耳把代求看作先知職分裡不可推卸的責任。他剛被百姓「淘汰」，若換成常人，很可能心生怨懟、從此撒手不管——但他選擇了相反的道路：權柄可以交出，代求的職分卻絕不停止。這正是先知與祭司職分最深的合一：先知向百姓傳達神的話，祭司向神代百姓祈求，撒母耳兩者兼備。這也是為何希伯來書說耶穌基督「因為他是長遠活著，替他們祈求」（來7:25）——撒母耳「斷不停止」的代求，只是那更長遠、永不止息之代求的一個影兒。
 
 ---
 
@@ -158,31 +171,13 @@ publisher: 三書精讀出版系統
 
 > — 綜合 John MacArthur，*MacArthur Study Bible*，First Samuel 引言（gty.org / blueletterbible.org 所載內容）之觀點整理
 
----
+### 兩種傳統的交會：代求與盟約的忠心
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
-
-### 摩根：告別辭裡的哀婉與忠心 (G. Campbell Morgan)
-
-摩根特別注意到這篇講辭裡「一絲哀婉的情懷」（"a touch of pathos"）——撒母耳並非帶著苦毒或報復的心情發表這篇告別辭，儘管百姓的要求等於否定了他一生的事奉方式。他選擇的道路，是先讓自己的清白接受檢驗，再把百姓的注意力轉向神的信實，最後把自己降到一個「僅僅代求者」的位置上。摩根認為，這正顯示了撒母耳三重職分（士師、祭司、先知）合一所結出的果子：一個真正被神模成的僕人，被拒絕之後不是離開崗位，而是換一個更卑微、卻同樣不可或缺的崗位繼續服事。
-
-### 麥克阿瑟：神權沒有終結，只是換了外殼 (John MacArthur)
-
-麥克阿瑟一貫的立場是：以色列從士師制過渡到君主制，表面上是政體的改變，本質上神權從未終止——神仍然是那位設立條件、掌管祝福與咒詛的主權者（14-15節）。他指出，人要求「像列國一樣」的王，反映的是一種屬靈上的短視：他們把安全感寄託在看得見的軍事與政治結構上，卻忽略了真正決定一個國家興衰的，是這國是否敬畏耶和華。這個立場延伸到大衛、所羅門，乃至整個列王紀的敘事——每一位王的成敗，最終都是用同一把尺衡量：他是否使百姓歸向神，還是使百姓遠離神。
-
-### 兩種傳統的交會：代求與盟約的忠心 (Where the Two Traditions Meet)
-
-把清教徒注疏傳統（亨利）與現代解經傳統（摩根、麥克阿瑟）擺在一起讀，會看見一個共同的焦點：這篇告別辭之所以重要，不在於它宣告了什麼懲罰，而在於它示範了什麼叫「盟約式的忠心」——即使百姓已經悖逆、即使領袖已經被撤換，那持守盟約的一方（神，以及神所使用的撒母耳）仍然選擇信實到底。亨利看重的是撒母耳「不禱告便是得罪神」這句話裡個人操守的重量；摩根看重的是這篇講辭在歷史轉折點上的莊嚴功能；麥克阿瑟看重的是神權治理的本質從未因政體改變而消失。三者合看，指向同一個屬靈原則：真正的忠心，不是靠外在職位來維繫，而是靠裡面那顆「斷不停止」的心來維繫——這正是耶穌基督這位真正、永遠長存的中保，向著屬祂之人所存的心（來7:25）。
-
-### 黃長老查經：「斷不停止」——被拒絕之後，你還代求嗎？ (Ask Elder Wong)
-
-**精義一句話**：撒母耳被百姓否定了一生的事奉方式，他卻說「斷不停止為你們禱告」——真正屬靈的忠心，不是靠別人肯不肯定你來維持的，是靠你與神之間那份「不能不做」的職分來維持的。
-
-黃長老常這樣提問：「撒母耳這個時候，其實可以名正言順地放手不管了——百姓自己選了新的領導方式，撒母耳大可以說『隨你們便』。但他說了什麼？『斷不停止為你們禱告，以致得罪耶和華。』你注意到嗎？他把『不代求』和『得罪神』劃上了等號。你的禱告生活裡，有沒有一個人、一件事，是你也應該『斷不停止』、卻已經悄悄停止了的？」他也常追問：「撒母耳不只說『我要禱告』，還說『我必以善道正路指教你們』——代求之後，還有教導。你身邊有沒有一個你只為他禱告、卻不再花心思教導他的人？」
+把清教徒注疏傳統（亨利）與現代解經傳統（摩根、麥克阿瑟）擺在一起讀，會看見一個共同焦點：這篇告別辭之所以重要，不在於它宣告了什麼懲罰，而在於它示範了什麼叫「盟約式的忠心」——即使百姓已經悖逆、領袖已被撤換，持守盟約的一方（神，以及神所使用的撒母耳）仍然選擇信實到底。亨利看重撒母耳「不禱告便是得罪神」的個人操守；摩根看重這篇講辭在歷史轉折點上的莊嚴功能；麥克阿瑟看重神權治理從未因政體改變而消失。三者合看，指向同一個原則：真正的忠心不是靠外在職位維繫，而是靠裡面那顆「斷不停止」的心維繫——這正是耶穌基督這位永遠長存的中保，向著屬祂之人所存的心（來7:25）。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
 ### 詩篇 99:6-8
 
@@ -191,35 +186,42 @@ publisher: 三書精讀出版系統
 > 他在雲柱中對他們說話；他們遵守他的法度和他所賜給他們的律例。
 > 耶和華——我們的神啊，你應允他們；你是赦免他們的　神，卻按他們所行的報應他們。
 
-詩篇99篇這三節經文，幾乎像是撒母耳記上12章的濃縮版詩歌迴響：「摩西和亞倫」正是撒母耳在告別辭裡兩次提及、帶領以色列出埃及的那兩位（8節）；「在求告他名的人中有撒母耳」，直接呼應撒母耳一生「求告耶和華的名」的職分——他在12:18-19「求告耶和華」，19、23節百姓和撒母耳自己都用「禱告」一詞。詩篇99:8「你是赦免他們的神，卻按他們所行的報應他們」，恰好道盡撒母耳記上12章的雙重信息：神既不撇棄悖逆的百姓（22節，赦免的一面），卻也清楚宣告悖逆必有後果（15、25節，報應的一面）。這首詩把撒母耳放在摩西、亞倫的同一行列裡，讓我們看見：一個願意「斷不停止代求」的人，在神眼中配得與最偉大的中保們並列。
+詩篇99篇這三節經文，幾乎是撒母耳記上12章的濃縮版迴響：「摩西和亞倫」正是撒母耳在告別辭裡兩次提及的那兩位（8節）；「在求告他名的人中有撒母耳」，直接呼應他12:18-19「求告耶和華」的職分。詩篇99:8「你是赦免他們的神，卻按他們所行的報應他們」，恰好道盡本章的雙重信息：神既不撇棄悖逆的百姓（22節，赦免），也清楚宣告悖逆必有後果（15、25節，報應）。這首詩把撒母耳放在摩西、亞倫的同一行列裡：一個「斷不停止代求」的人，在神眼中配得與最偉大的中保們並列。
+
+### Sweet Hour of Prayer
+
+以撒母耳「斷不停止為你們禱告」（12:23）配這首華爾福（William Walford）1845年寫成的詩歌，再合適不過——華爾福是一位近乎失明的英國牧師，這首詩歌正是他多年「甜美禱告時刻」操練所結的果子。「你把我從紛擾的世界召回」正是撒母耳的寫照：他大可以讓被撤換的委屈把他召回自己的世界，卻選擇一次又一次被神召回到代求的崗位上。「逃脫試探者的網羅」——他面對的試探，正是心生怨懟、從此撒手不管；他卻「因你的再臨」一次次回到禱告裡，成為與摩西並列、代求蒙神應允的標竿（詩99:6；耶15:1）。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：撒母耳被百姓求來的王取代了治理的職分，卻在被取代的那一刻說「我斷不停止為你們禱告，以致得罪耶和華」——真正屬靈的忠心，不是靠別人肯不肯定你來維持的，是靠你與神之間那份「不能不做」的職分來維持的；這正是耶穌基督這位長遠活著、替我們祈求的更美中保（來7:25），向著屬祂之人所存的心。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-撒母耳記上12章的核心張力——「百姓犯了求王之罪，神卻仍不撇棄他們」——是一條貫穿全本聖經的伏線。這條線最早的源頭，其實在申命記17:14-15：神早已預見「你到了耶和華你神所賜你的地，得了那地居住的時候，若說：我要立王治理我，像四圍的國一樣」，並且早已定下君王必須「不可為自己加添馬匹」、「不可為自己多立妃嬪」、「要親自抄錄這律法書」的條件（申17:16-20）。換句話說，以色列求王本身不是問題，問題出在他們求王的動機——「像列國一樣」，而不是「按神所定的條件」。撒母耳記上12章正是這條伏線第一次在歷史裡具體實現的地方：一個被百姓的恐懼與慾望催生出來的王，被神收納進祂自己古老的律法框架裡，接受同一套忠心的考驗。
+**申命記君王律線**：本章的核心張力——「百姓犯了求王之罪，神卻仍不撇棄他們」——源頭在申命記17:14-20：神早已預見以色列會說「立王治理我，像四圍的國一樣」，並定下君王不可加添馬匹、不可多立妃嬪、要親自抄錄律法書的條件。求王本身不是問題，問題在動機——「像列國一樣」，而非「按神所定的條件」。這條線往後怎樣發展？掃羅失敗了（13、15章），大衛在拔示巴事件上跌倒（撒下11章），所羅門晚年「為自己加添妃嬪」，正應驗申命記早已警戒的那一條（王上11:1-8）——整個列王紀，是一部又一部君王在「順從則好、悖逆則禍」（12:14-15）這盟約準則下接受審判的歷史，直到先知宣告：人的王朝終必失敗，神卻應許興起一位「政權必無窮盡」的大衛苗裔（耶23:5；賽9:6-7）。
 
-這條線往後怎樣發展？掃羅失敗了（13、15章），大衛被揀選、卻也在拔示巴事件上重重跌倒（撒下11章），所羅門起初有智慧、晚年卻「為自己加添妃嬪」、正正應驗了申命記早已警戒的那一條（王上11:1-8）。整個列王紀，是一部又一部君王在「順從則好、悖逆則禍」（12:14-15）這條盟約準則下接受審判的歷史。直到被擄之後，先知們才清楚宣告：人的王朝終必失敗，但神應許要興起一位「大衛的苗裔」（耶23:5），一位「祂的政權必無窮盡」的王（賽9:6-7）。這條線的終點，是希伯來書把撒母耳、大衛和眾先知都收進「因信」的名冊裡（來11:32），卻鄭重地說：「因為神給我們預備了更美的事，叫他們若不與我們同得，就不能完全」（來11:40）——撒母耳記上12章那位盡忠代求、卻終將老去的先知，正指向那位「長遠活著、替我們祈求」（來7:25）、且永不失敗的更美中保：耶穌基督。
+**代求者行列線**：撒母耳被放進與摩西並列、代求蒙神應允的行列（詩99:6；耶15:1；詳見〈基督焦點〉）——這條線最終被希伯來書收進「因信」的名冊，卻說「神給我們預備了更美的事」（來11:32,40）；那位盡忠代求、終將老去的先知，正指向那位「長遠活著、替我們祈求」（來7:25）的更美中保。
 
 ### 提問式對話 (Let the Reader Speak)
 
-撒母耳說「我在這裡，你們要在耶和華和他的受膏者面前給我作見證」（3節）——如果今天有人邀請你，把你這一生在人看不見的地方所做的每一個決定攤開來受檢驗，你敢像撒母耳這樣坦然邀請嗎？百姓求王的理由，是眼前實實在在的軍事威脅（12節）——你生命中有沒有哪個「合情合理」的恐懼，正悄悄推著你去倚靠一個看得見的辦法，而不是那位看不見、卻從未失信的神？撒母耳被撤換之後，選擇的不是離開，而是換一個更卑微的崗位繼續代求——如果你今天被人否定、被拒絕、被邊緣化，你的第一反應是撤退，還是像撒母耳一樣，找一個仍然能服事的位置繼續盡忠？
+- 先問：撒母耳說「我在這裡，你們要在耶和華和他的受膏者面前給我作見證」（3節）——如果今天有人邀請你，把你這一生在人看不見的地方所做的每一個決定攤開來受檢驗，你敢像撒母耳這樣坦然邀請嗎？
+- 再問：百姓求王的理由，是眼前實實在在的軍事威脅（12節）——你生命中有沒有哪個「合情合理」的恐懼，正悄悄推著你去倚靠一個看得見的辦法，而不是那位看不見、卻從未失信的神？
+- 追問：撒母耳被撤換之後，選擇的不是離開，而是換一個更卑微的崗位繼續代求——你的禱告生活裡，有沒有一個人、一件事，是你也應該「斷不停止」、卻已經悄悄停止了的？
+- 落到自己：撒母耳不只說「我要禱告」，還說「我必以善道正路指教你們」——你身邊有沒有一個你只為他禱告、卻不再花心思教導他的人？
 
 ### 活在今天．AI時代 (Living It Today)
 
-這個世代最容易複製的，正是以色列在8章與12章的邏輯：「我們要一個看得見、摸得著、可以量化評估的解決方案。」我們今天面對不確定的處境——健康、財務、關係、事業——第一個反射動作，往往不是求告那位看不見的神，而是尋找一套可以被驗證、被優化、被AI輔助決策的系統。這本身不是罪；問題和以色列一樣，在於「用什麼取代什麼」。撒母耳沒有反對君主制本身（他親自膏立掃羅，後來也膏立大衛），他反對的是「拿一個看得見的解決方案，取代對那位看不見之神的倚靠」。今天你手上的每一個工具——包括最先進的AI分析——都可以是神所賜的資源，也可以在不知不覺中變成你的「掃羅」：一個讓你覺得安心、卻悄悄取代了禱告與倚靠的替代品。真正的智慧，不是拒絕使用工具，而是像撒母耳一樣，永遠先問一句：這件事上，誰仍然是王？
+這個世代最容易複製以色列在8、12章的邏輯：「我們要一個看得見、可以量化評估的解決方案。」面對不確定的處境——健康、財務、關係、事業——第一個反射動作，往往不是求告那位看不見的神，而是尋找一套可以被優化、被AI輔助決策的系統。這本身不是罪；問題和以色列一樣，在於「用什麼取代什麼」。撒母耳不反對君主制本身（他親自膏立掃羅、大衛），他反對的是「拿看得見的解決方案，取代對看不見之神的倚靠」。今天你手上的每一個工具——包括最先進的AI分析——都可以是神所賜的資源，也可以不知不覺變成你的「掃羅」：一個讓你安心、卻悄悄取代了禱告的替代品。真正的智慧，是像撒母耳一樣先問一句：這件事上，誰仍然是王？
 
 ### 今天的祭壇 (Today's Altar)
 
-具體行動：仿效撒母耳23節的宣告，今天寫下一個你曾經因為「灰心」或「覺得無力改變對方」而悄悄停止代求的人或處境，重新開口為他們禱告一次——不是敷衍地帶過，而是花時間具體地祈求，並且問神：「除了禱告，我是否還當像撒母耳一樣『以善道正路指教』這個人？」
+- **早晨**：想一個你曾經因灰心或「覺得無力改變對方」而悄悄停止代求的人或處境。
+- **晚上**：問神——除了禱告，我是否還當像撒母耳一樣「以善道正路」指教這個人？
+- **一個行動**：今天重新開口，具體地為這個人禱告一次——不是敷衍地帶過，而是花時間具體地祈求。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-撒母耳被百姓求來的王取代了治理的職分，他卻在被取代的那一刻，說出了整卷書裡最有分量的一句話：「我斷不停止為你們禱告，以致得罪耶和華。」百姓求王，是把安全感寄託在看得見的手上；撒母耳的回應，卻是把自己更深地釘進那看不見、卻從未失信之神的懷裡——用代求而非權柄、用忠心而非地位，繼續守住他與神之間那份「不能不做」的職分。這正是通往耶穌基督的一條清楚道路：那位被人拒絕、釘上十字架的王，此刻仍「長遠活著，替我們祈求」（來7:25）——撒母耳「斷不停止」的禱告，不過是那永不止息之代求的一個微小卻真實的影兒。
+**你看見耶穌了嗎**：撒母耳「斷不停止」的代求，只是那位長遠活著、替我們祈求（來7:25）之更美中保的一個影兒；祂被人拒絕、釘上十字架，此刻仍在天上為你我代求。你今天的禱告清單裡，有沒有一個因灰心而悄悄劃掉的名字，正等著你重新交在這位真正「斷不停止」的中保手中？
 
 ---
 
@@ -227,13 +229,9 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **清白的呼求**：撒母耳邀請百姓在神面前檢驗他一生的行為。如果神今天邀請我做同樣的事，我的良心是坦然的，還是有虧欠尚未清理？
-
-2. **合理的恐懼**：以色列求王的觸發點是拿轄的軍事威脅——一個合情合理的理由。我生命中有沒有一個「合理的理由」，正推著我用人的辦法取代對神的倚靠？
-
-3. **因祂的大名**：神不撇棄百姓，不是因為他們配得，而是「因他的大名」。這對我看待自己的失敗、以及神仍然信實地待我，有什麼提醒？
-
-4. **斷不停止**：撒母耳被撤換之後，選擇繼續代求而不是離開。我生命裡有沒有一個「被拒絕之後就悄悄停止代求」的人或處境？
+1. **清白的操守**：撒母耳邀請百姓在神面前檢驗他一生的行為。如果神今天邀請我做同樣的事，我的良心是坦然的，還是有虧欠尚未清理？
+2. **神的信實不在乎我配得**：神不撇棄百姓，不是因為他們配得，而是「因他的大名」。這對我看待自己的失敗、以及神仍然信實地待我，有什麼提醒？
+3. **君王與盟約仍然有效**：14-15節把君主制重新安放在西奈之約的框架下——我生命中，有沒有一個「新的角色或身分」，讓我誤以為可以不再受從前所立之約的約束？
 
 ### 禱告回應
 
@@ -254,17 +252,16 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 撒母耳邀請百姓在神和受膏者面前為他作見證（1-5節）——這樣公開的清白見證，對今天教會領袖的操守有什麼提醒？
-
-2. 撒母耳歷數神向列祖所行的作為（6-11節），目的不是責備，而是提醒。回顧神在你生命中的信實作為，對你今天面對的難處有什麼幫助？
-
-3. 12:12重申8:7「其實耶和華是你們的王」的判決——這對「合理需要」與「屬靈悖逆」之間的界線，給你什麼提醒？
-
-4. 打雷降雨的兆頭發生在旱季的割麥時節（16-19節）——神為什麼要用一個違反自然常規的神蹟，來印證撒母耳的話？
-
-5. 「因他的大名不撇棄你們」（22節）與「我斷不停止為你們禱告」（23節）——這兩句話合起來，如何幫助你理解神的信實與人的代求之間的關係？
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 君王律例的預告 | 12:1-2 | 申17:14-20 |
+| 士師循環：忘記—受苦—呼求—拯救 | 12:9-11 | 士2:11-19、3:7-11 |
+| 其實耶和華是王 | 12:12 | 撒上8:7 |
+| 中保代求的行列 | 12:23 | 出32:11-14、詩99:6、耶15:1、來7:25、來9:15 |
+| 虛神與創造之初的混沌 | 12:21 | 創1:2 |
+| 王朝失敗，先知盼望大衛苗裔 | 12:14-15,25 | 王上11:1-8、耶23:5、賽9:6-7 |
 
 ---
 

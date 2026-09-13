@@ -256,6 +256,8 @@
 %% ============================================
 %% SECTION STYLING (manual, without titlesec)
 %% ============================================
+% Number chapters only: no 16.5.2-style section numbers in body or TOC
+\setcounter{secnumdepth}{0}
 \makeatletter
 % Chapter styling
 \def\@makechapterhead#1{%
@@ -878,8 +880,8 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+中文：和合本 / 和合本修訂版 (CUV / RCUV)\\
+English: New American Standard Bible\textregistered{} (NASB\textregistered), Copyright \copyright\ 1960, 1971, 1977, 1995 by The Lockman Foundation.\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
 \textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
@@ -893,8 +895,9 @@ $endif$
 \end{flushleft}
 \cleardoublepage
 
-% Table of contents
+% Table of contents — chapters only (subsection entries would run the TOC to 30+ pages)
 \pagestyle{fancy}
+\setcounter{tocdepth}{0}
 {\color{ChapterBlue}\tableofcontents}
 \cleardoublepage
 
@@ -968,7 +971,7 @@ $body$
 
 \section*{經文核對來源 Scripture Verification Source}
 
-\noindent 本書中文（和合本修訂版 CUV）與英文（English Standard Version ESV）經文，均以 \href{https://www.ai-eden.com/bible}{ai-eden.com/bible} 為主要核對來源；該站為 JavaScript 動態渲染網站，若擷取失敗則以 cnbible.com、biblegateway.com 為備援來源交叉核對。每章附直接連結，格式為 \texttt{ai-eden.com/bible/1-samuel/\{N\}?t=CUV,ESV\&cols=2}。
+\noindent 本書中文（和合本／和合本修訂版 CUV／RCUV，各章標明所用版本）與英文（New American Standard Bible NASB 1995）經文，均以 \href{https://www.ai-eden.com/bible}{ai-eden.com/bible} 為主要核對來源；該站為 JavaScript 動態渲染網站，若擷取失敗則以 cnbible.com、biblehub.com 為備援來源交叉核對。每章附直接連結，格式為 \texttt{ai-eden.com/bible/1-samuel/\{N\}?t=CUV,NASB\&cols=2}。
 
 \pagebreak
 

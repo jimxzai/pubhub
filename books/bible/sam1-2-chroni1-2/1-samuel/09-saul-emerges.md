@@ -10,17 +10,34 @@ publisher: 三書精讀出版系統
 
 撒母耳記上 9:1-27
 
-**經文核對**：[ai-eden.com/bible/1-samuel/9](https://www.ai-eden.com/bible/1-samuel/9?t=CUV,ESV&cols=2)
-
----
+**經文核對**：[ai-eden.com/bible/1-samuel/9](https://www.ai-eden.com/bible/1-samuel/9?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-撒母耳記上8章剛剛記下以色列最沉重的一句判詞：「他們不是厭棄你，乃是厭棄我作他們的王」（8:7）。第9章立刻給出答案：如果你們拒絕看不見的王，這就是你們得到的——「又健壯、又俊美，在以色列人中沒有一個能比他的；身體比眾民高過一頭」（9:2）。這一章沒有一句話提到掃羅的信心、他的禱告、他與神的關係；敘事者只給了我們身材、家世、外貌。這正是全章最深的諷刺，也是最深的基督論伏筆：人所要的王，是一個看得見的殼；神所要賜下的王，卻要等到「耶和華是看內心」（16:7）才顯明。掃羅是那個測試——測試看外貌所選出來的王，能不能承擔神百姓的重量。他不能。
+> **本章鑰詞：必救 Yoshia**（9:16「他必救我民脫離非利士人的手」；動詞יָשַׁע與約書亞、耶穌同源）\
+> **座標**：掃羅時代之首（8-15章），啟示的次序第三步裡——百姓求王換來一位「合外貌」的君王，為要襯托日後「神看內心」所揀選的那位（見卷首〈啟示的次序〉）\
+> （全書三部結構見〈概覽〉：撒母耳時代／掃羅時代／大衛興起）
 
-但這一章埋藏著一個更深、幾乎被中文讀者忽略的伏筆。神對撒母耳說，祂要膏立的這人「必救我民脫離非利士人的手」（9:16）——「必救」在希伯來原文是יוֹשִׁיעַ（yoshia），動詞字根正是יָשַׁע（yasha，拯救），與「約書亞」（יְהוֹשֻׁעַ, Yehoshua）和「耶穌」（希臘文Ἰησοῦς，正是約書亞名字的希臘化形式）同一字根。全書第一次有人被稱要「拯救」神的百姓，用的正是那個日後要成為神兒子本名的動詞。掃羅要拯救以色列脫離非利士人的手，卻只能維持一時的軍事勝利（11章），終究連自己的性命都保不住，死在非利士人的刀下（31章）。他的名字帶著「拯救」的呼召，卻活不出「拯救」的實質——直到那位名字本身就是「耶和華拯救」的那一位來到，才把這動詞活生生地實現：祂不只從非利士人手中拯救百姓，祂從罪和死亡的手中拯救萬民。
+撒母耳記上8章剛留下最沉重的一句判詞：「他們不是厭棄你，乃是厭棄我作他們的王」（8:7）。第9章立刻給出答案——如果百姓拒絕看不見的王，他們得到的，就是「又健壯、又俊美，身體比眾民高過一頭」的掃羅（9:2）。敘事者對他的信心、禱告、與神的關係隻字未提，只給了身材、家世、外貌；這正是全章最深的諷刺，也是最深的基督論伏筆——人所要的王是一個看得見的殼，神所要賜下的王卻要等到「耶和華是看內心」（16:7）才顯明。
 
-還有一個容易被忽略的細節：神吩咐撒母耳要膏立的不是「王」（מֶלֶךְ, melek），而是「君」或「領袖」（נָגִיד, nagid，9:16）——這是神自己選用的稱呼，不是百姓所要求的那個字。百姓要的是「像列國一樣」的melek；神給的，起初卻只是一位受託管理、對神負責的nagid。這細微的用詞差異提醒我們：神容許百姓得着他們所求的形式，卻始終保留祂自己對這位掌權者身份的定義。真正配得上「王」這名號、而非只是「受託管理者」的那一位，要等到「大衛的子孫」、「猶大支派的獅子」、「萬王之王」降生，才完全顯明。
+神對撒母耳說，祂要膏立的這人「必救我民脫離非利士人的手」（9:16）——「必救」原文יוֹשִׁיעַ（yoshia），字根יָשַׁע正是「約書亞」與「耶穌」（Ἰησοῦς）共有的字根（詳見〈原文研讀〉）。掃羅承接了「拯救」這動詞，卻只換來一時的軍事勝利，終究連自己的性命也保不住（31章）；而神吩咐膏立的稱呼也不是百姓所求的「王」（melek），而是「受託的君」（nagid，9:16）——神容許百姓得着他們所求的形式，卻始終保留祂自己對這掌權者身份的定義，直到那位真正配得起「拯救」全部重量、也配得「王」這名號的耶穌基督降臨。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **God Moves in a Mysterious Way**
+> *William Cowper, 1774*
+>
+> God moves in a mysterious way,
+> His wonders to perform;
+> He plants His footsteps in the sea,
+> And rides upon the storm.
+>
+> 神行事有奇妙的道路，
+> 要成就祂奇妙的作為；
+> 祂在海中立定祂的腳步，
+> 又乘駕在風暴之上。
 
 ---
 
@@ -42,39 +59,35 @@ publisher: 三書精讀出版系統
 
 > ^25^眾人從邱壇下來進城，撒母耳和掃羅在房頂上說話。^26^次日清早起來，黎明的時候，掃羅在房頂上。撒母耳呼叫他說：起來罷，我好送你回去。掃羅就起來，和撒母耳一同出去。^27^二人下到城角，撒母耳對掃羅說：要吩咐僕人先走（僕人就先走了）；你且站在這裡，等我將神的話傳與你聽。
 
-### English — ESV
+### English — NASB
 
-> ^1^There was a man of Benjamin whose name was Kish, the son of Abiel, son of Zeror, son of Becorath, son of Aphiah, a Benjaminite, a man of wealth. ^2^And he had a son whose name was Saul, a handsome young man. There was not a man among the people of Israel more handsome than he. From his shoulders upward he was taller than any of the people.
+> ^1^Now there was a man of Benjamin whose name was Kish the son of Abiel, the son of Zeror, the son of Becorath, the son of Aphiah, the son of a Benjamite, a mighty man of valor. ^2^He had a son whose name was Saul, a choice and handsome *man,* and there was not a more handsome person than he among the sons of Israel; from his shoulders and up he was taller than any of the people.
 
-> ^3^Now the donkeys of Kish, Saul's father, were lost. So Kish said to Saul his son, "Take one of the young men with you, and arise, go and look for the donkeys." ^4^And he passed through the hill country of Ephraim and passed through the land of Shalishah, but they did not find them. And they passed through the land of Shaalim, but they were not there. Then they passed through the land of Benjamin, but did not find them. ^5^When they came to the land of Zuph, Saul said to his servant who was with him, "Come, let us go back, lest my father cease to care about the donkeys and become anxious about us." ^6^But he said to him, "Behold, there is a man of God in this city, and he is a man who is held in honor; all that he says comes true. So now let us go there. Perhaps he can tell us the way we should go." ^7^Then Saul said to his servant, "But if we go, what can we bring the man? For the bread in our sacks is gone, and there is no present to bring to the man of God. What do we have?" ^8^The servant answered Saul again, "Here, I have with me a quarter of a shekel of silver, and I will give it to the man of God to tell us our way." ^9^(Formerly in Israel, when a man went to inquire of God, he said, "Come, let us go to the seer," for today's "prophet" was formerly called a seer.) ^10^And Saul said to his servant, "Well said; come, let us go." So they went to the city where the man of God was.
+> ^3^Now the donkeys of Kish, Saul's father, were lost. So Kish said to his son Saul, "Take now with you one of the servants, and arise, go search for the donkeys." ^4^He passed through the hill country of Ephraim and passed through the land of Shalishah, but they did not find *them.* Then they passed through the land of Shaalim, but *they were* not *there.* Then he passed through the land of the Benjamites, but they did not find *them.* ^5^When they came to the land of Zuph, Saul said to his servant who was with him, "Come, and let us return, or else my father will cease *to be concerned* about the donkeys and will become anxious for us." ^6^He said to him, "Behold now, there is a man of God in this city, and the man is held in honor; all that he says surely comes true. Now let us go there, perhaps he can tell us about our journey on which we have set out." ^7^Then Saul said to his servant, "But behold, if we go, what shall we bring the man? For the bread is gone from our sack and there is no present to bring to the man of God. What do we have?" ^8^The servant answered Saul again and said, "Behold, I have in my hand a fourth of a shekel of silver; I will give *it* to the man of God and he will tell us our way." ^9^(Formerly in Israel, when a man went to inquire of God, he used to say, "Come, and let us go to the seer"; for *he who is called* a prophet now was formerly called a seer.) ^10^Then Saul said to his servant, "Well said; come, let us go." So they went to the city where the man of God was.
 
-> ^11^As they went up the hill to the city, they met young women coming out to draw water and said to them, "Is the seer here?" ^12^They answered, "He is; behold, he is just ahead of you. Hurry. He has come just now to the city, because the people have a sacrifice today on the high place. ^13^As soon as you enter the city you will find him, before he goes up to the high place to eat. For the people will not eat till he comes, since he must bless the sacrifice; afterward those who are invited will eat. Now go up, for you will meet him immediately." ^14^So they went up to the city. As they were entering the city, they saw Samuel coming out toward them on his way up to the high place.
+> ^11^As they went up the slope to the city, they found young women going out to draw water and said to them, "Is the seer here?" ^12^They answered them and said, "He is; see, *he is* ahead of you. Hurry now, for he has come into the city today, for the people have a sacrifice on the high place today. ^13^As soon as you enter the city you will find him before he goes up to the high place to eat, for the people will not eat until he comes, because he must bless the sacrifice; afterward those who are invited will eat. Now therefore, go up for you will find him at once." ^14^So they went up to the city. As they came into the city, behold, Samuel was coming out toward them to go up to the high place.
 
-> ^15^Now the day before Saul came, the LORD had revealed to Samuel: ^16^"Tomorrow about this time I will send to you a man from the land of Benjamin, and you shall anoint him to be prince over my people Israel. He shall save my people from the hand of the Philistines. For I have seen my people, because their cry has come to me." ^17^When Samuel saw Saul, the LORD told him, "Here is the man of whom I spoke to you! He it is who shall restrain my people."
+> ^15^Now a day before Saul's coming, the LORD had revealed *this* to Samuel saying, ^16^"About this time tomorrow I will send you a man from the land of Benjamin, and you shall anoint him to be prince over My people Israel; and he will deliver My people from the hand of the Philistines. For I have regarded My people, because their cry has come to Me." ^17^When Samuel saw Saul, the LORD said to him, "Behold, the man of whom I spoke to you! This one shall rule over My people."
 
-> ^18^Then Saul approached Samuel in the gate and said, "Tell me where is the house of the seer?" ^19^Samuel answered Saul, "I am the seer. Go up before me to the high place, for today you shall eat with me, and in the morning I will let you go and will tell you all that is on your mind. ^20^As for your donkeys that were lost three days ago, do not set your mind on them, for they have been found. And for whom is all that is desirable in Israel? Is it not for you and for all your father's house?" ^21^Saul answered, "Am I not a Benjaminite, from the least of the tribes of Israel? And is not my clan the humblest of all the clans of the tribe of Benjamin? Why then have you spoken to me in this way?"
+> ^18^Then Saul approached Samuel in the gate and said, "Please tell me where the seer's house is." ^19^Samuel answered Saul and said, "I am the seer. Go up before me to the high place, for you shall eat with me today; and in the morning I will let you go, and will tell you all that is on your mind. ^20^As for your donkeys which were lost three days ago, do not set your mind on them, for they have been found. And for whom is all that is desirable in Israel? Is it not for you and for all your father's household?" ^21^Saul replied, "Am I not a Benjamite, of the smallest of the tribes of Israel, and my family the least of all the families of the tribe of Benjamin? Why then do you speak to me in this way?"
 
-> ^22^Then Samuel took Saul and his young man and brought them into the hall and gave them a place at the head of those who had been invited, who were about thirty persons. ^23^And Samuel said to the cook, "Bring the portion I gave you, of which I said to you, 'Put it aside.'" ^24^So the cook took up the leg and what was on it and set them before Saul. And Samuel said, "See, what was kept is set before you. Eat, because it was kept for you until the hour appointed, that you might eat with the guests." So Saul ate with Samuel that day.
+> ^22^Then Samuel took Saul and his servant and brought them into the hall and gave them a place at the head of those who were invited, who were about thirty men. ^23^Samuel said to the cook, "Bring the portion that I gave you, concerning which I said to you, 'Set it aside.'" ^24^Then the cook took up the leg with what was on it and set *it* before Saul. And *Samuel* said, "Here is what has been reserved! Set *it* before you *and* eat, because it has been kept for you until the appointed time, since I said I have invited the people." So Saul ate with Samuel that day.
 
-> ^25^And when they came down from the high place into the city, a bed was spread for Saul on the roof, and he lay down to sleep. ^26^Then at the break of dawn Samuel called to Saul on the roof, "Up, that I may send you on your way." So Saul arose, and both he and Samuel went out into the street. ^27^As they were going down to the outskirts of the city, Samuel said to Saul, "Tell the servant to pass on before us, and when he has passed on, stop here yourself for a while, that I may make known to you the word of God."
+> ^25^When they came down from the high place into the city, *Samuel* spoke with Saul on the roof. ^26^And they arose early; and at daybreak Samuel called to Saul on the roof, saying, "Get up, that I may send you away." So Saul arose, and both he and Samuel went out into the street. ^27^As they were going down to the edge of the city, Samuel said to Saul, "Say to the servant that he might go ahead of us and pass on, but you remain standing now, that I may proclaim the word of God to you."
 
-*經文小註：25節希伯來馬索拉抄本（CUV所本）記「撒母耳和掃羅在房頂上說話」，而死海古卷／七十士譯本的異文傳統（ESV所本）記「有人為掃羅在房頂上鋪牀」。這是舊約文本傳承中一個著名而無傷大雅的異文，兩者都指向同一件事：撒母耳留掃羅在自己家中過夜，為要在私下裡把神的話告訴他。*
+*經文小註：25節希伯來馬索拉抄本（CUV、NASB所本）記「撒母耳（NASB以斜體*Samuel*標示為譯者所補的主詞）和掃羅在房頂上說話」，而死海古卷／七十士譯本的異文傳統則記「有人為掃羅在房頂上鋪牀」。這是舊約文本傳承中一個著名而無傷大雅的異文，兩者都指向同一件事：撒母耳留掃羅在自己家中過夜，為要在私下裡把神的話告訴他。*
 
 ---
 
 ## 背景 (Context)
 
-### 歷史背景：從公開的抗議到私下的預備
+### 歷史背景：一個交接的時代
 
-第8章是一場公開的政治抗議——長老們聚集，向撒母耳攤牌：「現在求你為我們立一個王」（8:5）。第9章卻整整一章沒有一句公開場面，全是私下、家常、幾乎瑣碎的細節：丟失的驢、一個仆人的提議、口袋裡四分之一舍客勒的銀子。這不是敘事者的隨意安排。撒母耳記上刻意把「以色列要王」這樣宏大的國族議題，收窄到一個十幾歲青年為父親找驢的日常小事上，為要告訴讀者：神的護理往往不透過群眾大會運作，而是透過一件件看似無關緊要的小事，把祂早已定意的計劃編織進歷史裡。
+第8章是一場公開的政治抗議——長老們聚集，向撒母耳攤牌：「現在求你為我們立一個王」（8:5）。第9章卻整整一章沒有一句公開場面，全是私下、家常、幾乎瑣碎的細節：丟失的驢、一個僕人的提議、口袋裡四分之一舍客勒的銀子。撒母耳記上刻意把「以色列要王」這樣宏大的國族議題，收窄到一個十幾歲青年為父親找驢的日常小事上——神的護理往往不透過群眾大會運作，而是透過一件件看似無關緊要的小事，把祂早已定意的計劃編織進歷史裡。第9節的括號注——「從前以色列中，若有人去問神，就說：我們問先見去罷！現在稱為先知的，從前稱為先見」——正好標記着同一個交接：這句敘事者的插注透露一個屬靈職分正從「先見」（רֹאֶה，重在異象性的「看見」，貼近撒母耳為掃羅指路這樣的個人問詢）過渡到「先知」（נָבִיא，神主動「說出」祂話語的代言人）。撒母耳正站在這個交接的樞紐上——使徒行傳3:24稱他是「眾先知的開始」，此後以色列進入一個神藉話語治理祂百姓的先知時代。
 
 ### 便雅憫支派的隱情
 
 掃羅出身的便雅憫支派，在士師記19-21章有一段極黑暗的歷史：基比亞人的暴行引發了以色列十一個支派對便雅憫的滅族之戰，整個支派幾乎被殺絕，僅剩六百名男丁（士20:47）逃到臨門磐的曠野。士師記結束時的哀嘆「那時，以色列中沒有王，各人任意而行」（士21:25），正是為了那場近乎滅族的內戰而發出的。距離掃羅出場不過幾十年，便雅憫剛剛從幾乎滅絕的邊緣掙扎回來。掃羅自稱「以色列支派中至小的便雅憫人」、「便雅憫支派中至小的家」（9:21），這句話不只是社交場合的謙辭——它承載著一個支派真實的創傷記憶。更值得留意的是：掃羅本人正是「基比亞人」（10:26；11:4）——就是士師記19章那樁引發滅族內戰的暴行發生的那座城。神從那個曾經幾乎被抹去、也曾產生極大罪惡的城市和支派中，揀選了以色列的第一位王，這本身就是一則關於恩典勝過歷史創傷的敘事，也埋下了掃羅後來暴烈、失序性情的伏筆。
-
-### 「先見」與「先知」：一個時代正在交接
-
-第9節的括號注——「從前以色列中，若有人去問神，就說：我們問先見去罷！現在稱為先知的，從前稱為先見」——是全書少見的、敘事者直接介入解釋古今用詞差異的地方。這句話透露了撰寫或編修此書的時代已經與撒母耳的時代有了距離，需要向讀者解釋一個已經過時的稱呼。這不只是語言學上的旁註，更暗示了一個屬靈職分正在轉型：「先見」（רֹאֶה, ro'eh）強調的是異象性的「看見」，較貼近個人性的、地方性的問詢服事（就像掃羅要問路一樣的日常求問）；「先知」（נָבִיא, navi）則是神主動「說出」祂話語的代言人，帶有更公開、更具權柄的宣講功能。撒母耳正站在這個轉型的樞紐上——使徒行傳3:24稱他是「眾先知的開始」，此後以色列進入一個神藉話語治理祂百姓的先知時代。
 
 ### 文學結構
 
@@ -105,7 +118,7 @@ publisher: 三書精讀出版系統
 
 ### 「他必拯救」(*yoshia*)：一個動詞裡藏著的名字
 
-撒母耳記上9:16是全書第一次有一個具體的人被神說「他必救我民」。這動詞יוֹשִׁיעַ來自字根יָשַׁע，意思是從危難、壓迫、仇敵手中被解救出來。這個字根後來組成了「約書亞」(יְהוֹשֻׁעַ, Yehoshua，意即「耶和華拯救」)的名字，而「約書亞」希臘化之後，正是新約裡「耶穌」(Ἰησοῦς)這個名字。天使對約瑟說：「你要給他起名叫耶穌，因他要將自己的百姓從罪惡裡救出來」（太1:21）——「耶穌」原文正是這個「拯救」的名字的人格化。掃羅蒙召的職責是「拯救」，但他終其一生只完成過幾次軍事上的暫時解圍（11章），從未真正、徹底、永久地拯救以色列脫離仇敵——他自己反倒死在非利士人手下（31章）。這一節經文，是舊約裡「拯救」這個動詞第一次被安放在一位君王身上，卻也是第一次讓讀者看見：光有這動詞的呼召還不夠，還需要一位配得起這名字全部重量的那位来到。
+撒母耳記上9:16是全書第一次有一個具體的人被神說「他必救我民」。這動詞יוֹשִׁיעַ來自字根יָשַׁע，意思是從危難、壓迫、仇敵手中被解救出來。這個字根後來組成了「約書亞」(יְהוֹשֻׁעַ, Yehoshua，意即「耶和華拯救」)的名字，而「約書亞」希臘化之後，正是新約裡「耶穌」(Ἰησοῦς)這個名字。天使對約瑟說：「你要給他起名叫耶穌，因他要將自己的百姓從罪惡裡救出來」（太1:21）——「耶穌」原文正是這個「拯救」的名字的人格化。掃羅蒙召的職責是「拯救」，但他終其一生只完成過幾次軍事上的暫時解圍（11章），從未真正、徹底、永久地拯救以色列脫離仇敵——他自己反倒死在非利士人手下（31章）。這一節經文，是舊約裡「拯救」這個動詞第一次被安放在一位君王身上，卻也是第一次讓讀者看見：光有這動詞的呼召還不夠，還需要一位配得起這名字全部重量的那位來到。
 
 ### 拿基（נָגִיד）與王（מֶלֶךְ）：兩個字的張力
 
@@ -117,39 +130,23 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 人所要的王 (The King the People Wanted)
 
 第8章百姓說：「立一個王治理我們，像列國一樣」（8:5,20）。第9章就是這句話活生生的答案：一個又高又俊美的年輕人。敘事者沒有告訴我們掃羅的信心、他的禱告生活、他對神百姓的負擔——因為這些從來不是百姓要求的條件。撒母耳記上用一整章篇幅讓我們看清楚：當一個群體用「外表夠不夠亮眼」作揀選領袖的唯一標準時，神會容許他們得到他們所要的，卻同時讓歷史證明，這樣的標準終將帶來災難。這不只是古代以色列的故事——每一次我們用學歷、外貌、口才、財富作為信任一個人、跟隨一個人、選立一個帶領者的首要標準時，我們都在重演第9章。
 
-### 2. 微小之家、微小之人 (The Smallest of the Small)
+### 2. 卑微的起初，未受試煉的謙卑 (Humble Beginnings, an Untested Heart)
 
-掃羅的謙辭「我不是以色列支派中至小的便雅憫人麼？我家不是便雅憫支派中至小的家麼？」（9:21）帶著士師記19-21章那場幾乎滅族的內戰的餘悸——這不是一句客套話，而是一個支派集體創傷仍未痊癒的真實回聲。神揀選這樣一個從歷史傷口裡爬出來的家族作王的起點，本身就是恩典的展示：神不是只在光鮮的地方工作，祂也在破碎、被邊緣化、幾乎被遺忘的角落裡動工。然而，這一節同時埋著警示——真正的謙卑，是在無人看見時仍持守的心志；掃羅這一刻說出的謙辭，會不會只是初次面對意外尊榮時的驚訝反應，而不是他生命裡穩固紮根的品格？第13-15章的掃羅將給出令人心碎的答案。
+掃羅的謙辭「我不是以色列支派中至小的便雅憫人麼？我家不是便雅憫支派中至小的家麼？」（9:21）帶著士師記19-21章那場幾乎滅族的內戰的餘悸——不是一句客套話，而是一個支派集體創傷仍未痊癒的真實回聲。神揀選這樣一個從歷史傷口裡爬出來的家族作王的起點，本身就是恩典的展示。然而，把這一幕與第15章相比——掃羅在迦密為自己立紀念碑（15:12），被撒母耳指控後第一反應卻是「求你在我百姓的長老和以色列人面前尊重我」（15:30）——判若兩人。第9章的謙卑固然真實，卻沒有被地位和權力試驗過；真正的謙卑，是在擁有權柄、讚美、連續勝利之後仍能保持的謙卑。掃羅的悲劇提醒每一位蒙揀選、蒙提拔的人：起初的謙遜若沒有持續倚靠神來紮根，權力終將把它侵蝕殆盡。
 
-### 3. 神隱藏的計劃先於人的腳步 (God's Hidden Plan Precedes Our Steps)
+### 3. 神隱藏的計劃，先於人的腳步 (God's Hidden Plan Precedes Our Steps)
 
-「掃羅未到的前一日，耶和華已經指示撒母耳」（9:15）。當掃羅還在以法蓮山地、沙利沙地、沙琳地徒勞地找驢時，神早已把整個相遇的時間表安排妥當。掃羅以為自己在做一件單純世俗的差事——替父親找幾頭走失的牲畜；他絲毫不知道，自己正走在神為以色列君王制度所預備的道路正中央。這正是全章最溫柔、也最令人敬畏的亮光：神的計劃往往不需要我們「感覺到」祂在動工才能成就。羅馬書8:28所說「萬事都互相效力，叫愛神的人得益處」，在這裡有了一個具體、微小、幾乎滑稽的例證——幾頭走丟的驢子，成了神安排一國之君登場的舞台佈景。
+「掃羅未到的前一日，耶和華已經指示撒母耳」（9:15）。當掃羅還在以法蓮山地、沙利沙地、沙琳地徒勞地找驢時，神早已把整個相遇的時間表安排妥當——甚至連筵席上那份特意存留給他的祭肉（9:24）、首位的尊榮（9:22），都是在他還渾然不知情的時候就已預備好的。正如馬太·亨利在下文〈歷代注疏〉所指出的，掃羅所求的（幾頭驢），遠遠小於神為他預備的（一個國度）；耶穌對門徒說：「我去原是為你們預備地方去」（約14:2）——那預留的地方，正如那份「特意存留到此時」的祭肉，其實從創世以前就已經被安排。羅馬書8:28所說「萬事都互相效力，叫愛神的人得益處」，在這裡有了一個具體、微小、幾乎滑稽的例證——幾頭走丟的驢子，成了神安排一國之君登場的舞台佈景。
 
-### 4. 尋驢記與尋人子：兩種尋找的對照 (Seeking Donkeys, Finding a Kingdom)
-
-馬太·亨利（Matthew Henry）那句廣為流傳的話一針見血：「或許掃羅是史上唯一一個出去找驢、卻真的找到了一個國度的人」（"Perhaps Saul was the only one who ever went out to seek asses, and literally found a kingdom."）。掃羅所求的，遠遠小於神所要給他的；他心裡惦記的是父親會不會擔心，神心裡惦記的卻是「我民的哀聲上達於我」（9:16）。這給我們一個扎心的對照：我們每天所求的，往往也只是眼前瑣碎的憂慮——健康、工作、關係的順利——而神在我們渾然不覺的時候，可能正在成就遠超我們所求所想的事（弗3:20）。耶穌對門徒說：「你們要先求他的國和他的義，這些東西都要加給你們了」（太6:33）——掃羅的故事恰恰相反地示範了這句話：他沒有求神的國，神卻把整個國度加給了他；但正因他從未真正「先求」神的國，這國度最終從他手中滑落。
-
-### 5. 一頓筵席、一個尊位 (A Feast and a Place of Honor)
-
-撒母耳讓掃羅在三十位賓客中「坐首位」（9:22），並吩咐廚役把那份特意留存的祭肉端出來——「因我請百姓的時候，特意為你存留這肉到此時」（9:24）。這份肉是在掃羅還在山野裡奔波找驢、對這場筵席一無所知的時候，就已經被預留下來的。這幅圖畫指向一個更深的屬靈實在：神為祂所揀選的人所預備的尊榮，往往在當事人還完全不知情、還在自己日常瑣事裡打轉的時候，就已經安排妥當。耶穌對門徒說：「我去原是為你們預備地方去」（約14:2）——那預留的地方、那預留的筵席，其實從創世以前就已經被安排，正如那份「特意存留到此時」的祭肉。
-
-### 6. 私下的啟示先於公開的膏立 (Private Revelation before Public Anointing)
+### 4. 私下的啟示先於公開的膏立 (Private Revelation before Public Anointing)
 
 第9章沒有一次公開宣告——沒有群眾、沒有加冕禮。撒母耳與掃羅在房頂上私下交談（9:25），清晨又讓僕人先行，好單獨把「神的話」告訴掃羅（9:27）——這句話正好在下一章開頭接續：撒母耳拿瓶膏油私下澆在掃羅頭上（10:1）。神揀選、預備、裝備一個人擔負使命的過程，總是先在私下、隱密處完成，然後才走向公開的職分。這與耶穌自己的生命軌跡遙相呼應：三十年隱藏在拿撒勒的木匠家中，然後才在約但河邊公開受洗、開始公開的事工。今天許多人渴望公開的舞台，卻不願意經歷那間只有神看得見的房頂上的私下談話——但真正持久的呼召，總是從那間房頂開始的。
-
-### 7. 起初的謙卑，後來的驕傲 (Early Humility, Later Pride)
-
-第9章的掃羅令人心生好感：謙遜、體貼父親、對尊榮感到困惑不解（9:21）。但把這一幕與第15章相比——掃羅在迦密為自己立了一座紀念碑（15:12），並在被撒母耳指控之後，第一反應是「求你在我百姓的長老和以色列人面前尊重我」（15:30）——兩者判若兩人。第9章的謙卑固然真實，卻沒有被地位和權力試驗過；真正的謙卑，是在擁有權柄、擁有讚美、擁有連續勝利之後，仍能保持的謙卑。掃羅的悲劇提醒每一位蒙揀選、蒙提拔、蒙尊榮的人：起初的謙遜若沒有持續倚靠神來紮根，權力終將把它侵蝕殆盡。
-
-### 8. 那更美的拯救者 (The Better Deliverer)
-
-「他必救我民脫離非利士人的手」（9:16）——這是全書賦予掃羅最崇高的職責，也是他終究交不出答卷的職責。他能贏一場戰役（11章），卻不能帶來持久的和平；他能暫時止住仇敵的壓迫，卻不能除去百姓心裡真正的病根——那背向神、依靠己力的傾向。真正把「拯救」這個動詞活出全部意義的，是那位名字本身就是「耶和華拯救」的耶穌基督：祂所拯救的，不只是脫離某一個外邦民族的手，而是脫離罪和死亡的權勢；祂所帶來的和平，不是像掃羅那樣此起彼落的軍事勝利，而是「祂的政權與平安必無窮盡」（賽9:7）的永遠國度。
 
 ---
 
@@ -189,55 +186,18 @@ publisher: 三書精讀出版系統
 >
 > 中譯：「他是做什麼的？他去找走失的驢，那是他的工作。不幸的是，他做得不太好，根本找不著。」
 
-麥克阿瑟接着連結到掃羅日後在15:24承認「我因懼怕百姓，聽了他們的話」，指出這正是掃羅一生的病根——一個外表偉岸、內心懼怕人過於敬畏神的人，從第9章的默默無聞，到第15章的公開被棄，是同一種怯懦的性情在不同處境下的展開。
+麥克阿瑟指出，這種「外在條件與內在能力不成正比」的模式，會在掃羅一生反覆出現：他能帶兵打贏一場仗（11章），卻不能等候神所定的七日之期（13章）；他能在戰場上奮勇，卻在關鍵時刻承認「我因懼怕百姓，聽了他們的話」（15:24）——這正是掃羅一生的病根，一個外表偉岸、內心懼怕人過於敬畏神的人，從第9章的默默無聞，到第15章的公開被棄，是同一種怯懦的性情在不同處境下的展開。
 — John MacArthur, "Our King Will Not Be Mocked"（2021年1月24日講道，sermon 81-101），gty.org
 
-**乾伯·摩根 (G. Campbell Morgan)**：摩根對掃羅整個生平的評語，一貫圍繞著同一個核心觀察：掃羅擁有極豐富的天然條件與機會——蒙神揀選、蒙撒母耳友誼相待、身邊圍繞著一群「心被神感動」的人（10:26）——卻從起頭就步步失落、步步偏離，最終落得慘敗收場。摩根一系的解經傳統據此把掃羅定性為一個空有天然恩賜、卻始終沒有真正降服於神的悲劇人物；這句評語正是為第9章所鋪陳的畫面量身而寫：一個擁有身材、家世、外貌等等一切「天然條件」的年輕人，此刻站在他人生的起點，尚未顯出任何一絲降服於神的心志。摩根認為，撒母耳記上刻意把掃羅的「條件」羅列在敘事最前面，正是要讓讀者在還沒讀到他任何一次失敗之前，就先看出這個人身上缺了什麼——不是能力，而是降服。（麥克阿瑟一系的當代講道，如上文所引，正是延續著這同一條解經路徑往下發展。）
+**乾伯·摩根 (G. Campbell Morgan)**：摩根對掃羅整個生平的評語，一貫圍繞著同一個核心觀察：掃羅擁有極豐富的天然條件與機會——家世（9:1）、身材（9:2）、甚至一開口便討人喜歡的謙辭（9:21），蒙神揀選、蒙撒母耳友誼相待、身邊圍繞著一群「心被神感動」的人（10:26）——卻從起頭就步步失落、步步偏離，最終落得慘敗收場。摩根一系的解經傳統據此把掃羅定性為一個空有天然恩賜、卻始終沒有真正降服於神的悲劇人物——整章通篇都是「天然恩賜」的清單，卻沒有一句話提到掃羅向神呼求、向神獻祭。摩根認為，撒母耳記上刻意把掃羅的「條件」羅列在敘事最前面，正是要讓讀者在還沒讀到他任何一次失敗之前，就先看出這個人身上缺了什麼——不是能力，而是降服。
+
+亨利、麥克阿瑟、摩根三人雖出身不同時代，卻不約而同地圍繞著同一個張力展開：掃羅所尋找的（幾頭驢），遠遠小於神為他預備的（一個國度），而掃羅本人渾然不知這場交換正在發生。這正是整本聖經反覆出現的一個屬靈模式——路得下到田裡拾麥穗，卻嫁入了彌賽亞的家譜；以斯帖被帶進宮中選美，卻成了拯救全族的王后；門徒撒網打魚，卻蒙召「得人如得魚」。第9章邀請每一位讀者反問：我今天正在尋找的，會不會只是「幾頭驢」？而神為我預備的，會不會遠遠超過我現在所求的那一點點？
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-### 摩根：外貌先於降服的伏筆 (G. Campbell Morgan)
-
-摩根對掃羅一生的總評——天然恩賜卻沒有靈性降服的悲劇人物——若放回第9章的脈絡來讀，格外貼切。這一章通篇都是「天然恩賜」的清單：家世（9:1）、身材（9:2）、甚至謙遜的言辭（9:21）看起來也是一種討人喜歡的天然魅力。但整章沒有一句話提到掃羅向神呼求、向神獻祭、或單獨與神說話——連他與撒母耳的對話，也全是掃羅在問路、在關心驢，是撒母耳、是神在主動介入。摩根一系解經傳統的洞見在於：神從不因為一個人「缺乏靈性降服」就拒絕使用他——祂仍然揀選、仍然膏立掃羅——但整卷書接下來的十幾章，正是要一步步揭露：光有天然條件、沒有降服的心，終究撐不起神百姓所需要的那種帶領。
-
-### 麥克阿瑟：徒有其表的王 (John MacArthur)
-
-麥克阿瑟那句「又高、又黑、又帥——又懦弱」精準地捕捉了敘事者刻意製造的落差：敘事者花了整整兩節經文描述掃羅令人印象深刻的外表（9:1-2），卻用同樣篇幅記錄他連自己家的驢都找不到（9:3-4）。麥克阿瑟指出，這種「外在條件與內在能力不成正比」的模式，會在掃羅一生反覆出現：他能帶兵打贏一場仗（11章），卻不能等待神所定的七日之期（13章）；他能在戰場上奮勇，卻在關鍵時刻懼怕百姓過於懼怕神（15:24）。麥克阿瑟認為，掃羅的故事給每個世代的警戒是：一個人外在的恩賜和魅力，從來不是他內在是否降服於神的可靠指標。
-
-### 尋驢記與尋人子：兩種尋找的對照 (Two Kinds of Seeking)
-
-亨利、摩根、麥克阿瑟三人雖然出身不同時代，卻不約而同地圍繞著同一個張力展開：掃羅所尋找的（幾頭驢），遠遠小於神為他預備的（一個國度）；而掃羅本人渾然不知這場交換正在發生。這正是整本聖經反覆出現的一個屬靈模式——路得下到田裡拾麥穗，卻嫁入了彌賽亞的家譜；以斯帖被帶進宮中選美，卻成了拯救全族的王后；門徒撒網打魚，卻蒙召「得人如得魚」。神常常在我們最卑微、最日常的差事裡，悄悄安放着遠超我們所求所想的呼召。第9章邀請每一位讀者反問：我今天正在尋找的，會不會只是「幾頭驢」？而神為我預備的，會不會遠遠超過我現在所求的那一點點？
-
-### 黃長老查經：一個名字裡的伏線 (Ask Elder Wong)
-
-**精義一句話**：撒母耳記上9:16那個動詞「必救」(יוֹשִׁיעַ)，是解開整章、甚至整卷書的一把鑰匙——你若只看見一個高大俊美的青年去找驢，這一章只是茶餘飯後的趣聞；你若看見那個動詞裡藏着「耶穌」這名字的字根，這一章就成了通往伯利恆馬槽的其中一塊路牌。
-
-黃長老常這樣提問：「神第一次把『拯救』這個動詞交託給一個人的時候，這個人是誰？他配得起這動詞的全部重量嗎？」——他指出，掃羅承接了這動詞，卻只活出了這動詞極小的一部分；而真正把這動詞活到底、活到十字架、活到空墳墓的那一位，才是「必救」這句應許最終、也是唯一配得的收件人。「你讀撒母耳記上9章的時候，是把它當作一個關於身材與運氣的故事，還是把它當作神在人類歷史裡，第一次把祂兒子的名字悄悄藏進一句應許裡的那一刻？」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-### 聖詩：奇異恩典的護理之歌——God Moves in a Mysterious Way
-
-> **God Moves in a Mysterious Way**
-> *William Cowper, 1774*
->
-> God moves in a mysterious way,
-> His wonders to perform;
-> He plants His footsteps in the sea,
-> And rides upon the storm.
->
-> Ye fearful saints, fresh courage take;
-> The clouds ye so much dread
-> Are big with mercy, and shall break
-> In blessings on your head.
-
-古柏寫這首詩歌時，正經歷長期的憂鬱與內心的掙扎，卻在其中看見：神的護理常常以人無法立刻理解的方式運行，看似烏雲滿佈，其實正孕育著祝福。這正是撒母耳記上9章的縮影——一次徒勞的尋驢之旅，幾條走了又走的荒僻小路，看在掃羅眼中不過是令人喪氣的徒勞；但神卻早已「使一個人從便雅憫地」（9:16）按著祂的時間表，走進祂為以色列所定的計劃正中央。我們很少能在事情發生的當下看懂神在做什麼——正如掃羅走在以法蓮山地時，絕不會想到自己正走向一個國度。
-
-### 詩篇：詩篇 32:8-9
+### 詩篇 32:8-9
 
 > 我要教導你，指示你當行的路；
 > 我要定睛在你身上，勸戒你。
@@ -247,19 +207,38 @@ publisher: 三書精讀出版系統
 
 這兩節詩篇與撒母耳記上9章有一個幾乎逐字對應的呼應：僕人對掃羅說，那位神人「或者他能將我們當走的路指示我們」（9:6），撒母耳自己也應許「將你心裡的事都告訴你」（9:19）——這正是詩篇32:8所應許的「我要指示你當行的路」。但詩篇緊接著的警戒同樣重要：「你不可像那無知的騾馬」——諷刺的是，掃羅一行人本是為了尋找走失的「驢」而出發，詩篇卻警告我們不要「像那無知的騾馬」一樣，需要靠嚼環轡頭才能馴服。真正蒙神引導的人，不是被迫服從的牲畜，而是甘心聆聽、主動尋求神指示道路的人——這正是撒母耳記上9章留給每一位讀者的邀請：你是那困在自己視野裡、四處亂闖的驢，還是那願意被神指示道路的人？
 
+### God Moves in a Mysterious Way
+
+> Ye fearful saints, fresh courage take;
+> The clouds ye so much dread
+> Are big with mercy, and shall break
+> In blessings on your head.
+>
+> 懼怕的聖徒啊，重新拾起勇氣；
+> 你們如此懼怕的烏雲，
+> 正滿載著憐憫，終必破開，
+> 把祝福傾倒在你們頭上。
+
+古柏寫這首詩歌時，正經歷長期的憂鬱與內心的掙扎，卻在其中看見：神的護理常常以人無法立刻理解的方式運行，看似烏雲滿佈，其實正孕育著祝福。這正是撒母耳記上9章的縮影——一次徒勞的尋驢之旅，幾條走了又走的荒僻小路，看在掃羅眼中不過是令人喪氣的徒勞；但神卻早已「使一個人從便雅憫地」（9:16）按著祂的時間表，走進祂為以色列所定的計劃正中央。我們很少能在事情發生的當下看懂神在做什麼——正如掃羅走在以法蓮山地時，絕不會想到自己正走向一個國度。
+
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：神第一次把「必救」（יוֹשִׁיעַ）這個動詞交託在一個人身上——掃羅承接了這呼召，卻只活出了它極小的一部分；你若只看見一個高大俊美的青年去找驢，這一章只是家常趣聞，你若看見那動詞裡藏着「耶穌」這名字的字根，這一章就成了通往伯利恆馬槽的其中一塊路牌。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-撒母耳記上9章的核心動詞「必救」（יוֹשִׁיעַ, 9:16），是一條貫穿全本聖經的伏線起點。這條線往前可以連到出埃及記——神呼召摩西時說：「我下來是要救他們脫離埃及人的手」（出3:8），同一個「拯救」的動詞，同一個「我民的哀聲上達於我」的模式（比較出3:7與撒上9:16幾乎相同的措辭：「我實在看見我百姓在埃及所受的困苦，聽見他們因受督工的轄制所發的哀聲」）。神一次又一次地聽見祂百姓的哀聲，一次又一次地興起一位「拯救者」——摩西、士師們、掃羅、大衛——每一位都只完成了這拯救工作極小的一部分,像一連串不完整的預演，共同指向那唯一能完全成就「拯救」的那一位。
+**拯救線**：9:16「他必救我民」的動詞也用在出埃及記——神呼召摩西時說「我下來是要救他們脫離埃及人的手」（出3:8），近乎相同的措辭「我民的哀聲上達於我」（比較出3:7）。神一次又一次聽見百姓的哀聲，興起摩西、士師們、掃羅、大衛——每一位都只完成了這拯救工作極小的一部分，直到「祂要將自己的百姓從罪惡裡救出來」（太1:21）、甘願捨去自己生命的那一位來到（約10:17-18；詳見〈基督焦點〉的字根說明）。
 
-這條線的終點，在馬太福音1:21清楚顯明：天使對約瑟說：「你要給他起名叫耶穌，因他要將自己的百姓從罪惡裡救出來」。「耶穌」這個名字，正是撒母耳記上9:16那個動詞「必救」最終、最完整的人格化。掃羅被神呼召去拯救百姓脫離非利士人的手，卻連自己的性命都保不住（撒上31章）；耶穌被父神差來拯救百姓脫離罪和死亡的權勢，卻甘願捨去自己的性命——祂的「捨去」，正是祂「拯救」得以成就的方式（約10:11,17-18）。掃羅的失敗和耶穌的得勝，隔著一千多年的歷史，卻被同一個希伯來動詞悄悄地連結在一起。
+**先鋒線**：9:9的插注「先見」變「先知」，標記着撒母耳正站在職分交接的樞紐上——他是「眾先知的開始」（徒3:24），這條「指」的職分後來傳給施洗約翰（路1:17；約1:29,3:30），最終傳給教會（多2:13；啟22:17,20）——各自所指向的對象不同（初來的王、初來的羔羊、再來的主），卻是同一個甘心退到幕後的先鋒角色（詳見卷首〈啟示的次序〉）。
 
 ### 提問式對話 (Let the Reader Speak)
 
-掃羅出發時，心裡想的只是幾頭走失的驢，神心裡想的卻是整個以色列的哀聲（9:16）——如果神此刻正在你完全沒有察覺的日常瑣事裡，安排一件遠超你所求所想的事，你會不會因為專注在眼前的小事上，而完全錯過祂正在做的工？撒母耳提前一日就得着神的啟示（9:15），掃羅卻直到最後一刻才知道自己被揀選——你生命中有沒有一段時間，後來回頭一看，才發現神其實早已在你毫不知情的時候，把某件事安排妥當？掃羅第一次面對尊榮時，是謙卑而困惑的（9:21）；但這份謙卑後來卻經不起權力的試驗——你生命裡最近一次「被高升」的時刻，你的第一反應是謙卑地困惑，還是理所當然地享受？
+- 先問：神第一次把「拯救」這動詞交託給一個人的時候（9:16），這個人只活出了呼召極小的一部分——你今天所領受的呼召或恩賜，你活出了它應有的分量嗎？
+- 再問：撒母耳提前一日就得着神的啟示（9:15），掃羅卻渾然不知——你生命中有沒有一段回頭一看才發現神早已安排妥當的時光？
+- 追問：掃羅出發時心裡只有幾頭驢，神心裡卻是整個以色列的哀聲（9:16）——你今天所忙碌的瑣事背後，會不會也藏著一件遠超你所求所想的事？
+- 落到自己：掃羅第一次面對尊榮是謙卑困惑的（9:21），這份謙卑後來卻經不起權力的試驗——你最近一次「被高升」的時刻，第一反應是謙卑，還是理所當然？
 
 ### 活在今天．AI時代 (Living It Today)
 
@@ -267,13 +246,11 @@ publisher: 三書精讀出版系統
 
 ### 今天的祭壇 (Today's Altar)
 
-具體行動：今天找出一件你正在做、卻覺得「不過是瑣碎小事」的事——一份簡單的工作、一次例行的家務、一個看似無關緊要的對話。效法撒母耳記上9章的精神，把這件事重新看作神可能正在其中動工的地方，禱告求神讓你在這件小事裡，看見祂可能正在編織的更大計劃；然後，無論看不看得見結果，都存著「掃羅式的忠心」把這件小事做好，把「看得見結果」的部分完全交託給神。
+- **早晨**：找出一件你正在做、卻覺得「不過是瑣碎小事」的事——一份簡單的工作、一次例行的家務、一個看似無關緊要的對話。
+- **晚上**：省察——今天我有沒有一件以為「毫不重要」的差事，其實正是神安排我與祂旨意相遇的地方？
+- **一個行動**：無論看不看得見結果，都存著「掃羅式的忠心」把眼前這件小事做好，把「看得見結果」的部分完全交託給神。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-掃羅出場的這一章，表面上是一段關於身材、家世和走失驢子的家常敘事，骨子裡卻是全書最深的伏筆之一：神把「必救」這個動詞，第一次交託在一個人身上——這人有一切外在的條件，卻交不出這動詞所要求的實質。他的失敗不是要讓我們灰心，而是要讓我們看見：這動詞終究要等到那位名字本身就是「耶和華拯救」的耶穌基督來到，才被活到底、活到十字架、活到空墳墓。你我今天所忙碌的日常瑣事——那些看似與神的國度毫無關係的「幾頭驢」——會不會也正是神安排我們與祂旨意相遇的地方？
+**你看見耶穌了嗎**：掃羅承接了「必救」這動詞的呼召，卻只活出了它極小的一部分，自己終究死在非利士人刀下（31章）；那位名字本身就是「耶和華拯救」的耶穌基督，所拯救的不只是脫離一個外邦民族的手，而是脫離罪和死亡的權勢，帶來的也不是掃羅那樣此起彼落的軍事勝利，而是「祂的政權與平安必無窮盡」（賽9:7）的永遠國度。你今天所忙碌的日常瑣事——那些看似與神的國度毫無關係的「幾頭驢」——你看見耶穌在其中運作了嗎？
 
 ---
 
@@ -283,11 +260,9 @@ publisher: 三書精讀出版系統
 
 1. **外表與內心**：撒母耳記上9章對掃羅的介紹，全是外在條件——身材、家世、俊美。我在評估一個人（或評估自己）的價值時，最常用的標準是什麼？是神在16:7所啟示的「看內心」，還是這一章所呈現的「看外貌」？
 
-2. **神隱藏的時間表**：「掃羅未到的前一日，耶和華已經指示撒母耳」（9:15）。我生命中有沒有一段當時完全看不懂、後來才明白神早已安排妥當的經歷？
+2. **神隱藏的計劃**：「掃羅未到的前一日，耶和華已經指示撒母耳」（9:15）。我生命中有沒有一段當時完全看不懂、後來才明白神早已安排妥當的經歷？我今天所憂慮、所忙碌的事，會不會遠遠小於神正要在其中成就的事？
 
-3. **尋驢卻找到國度**：掃羅所求的遠遠小於神為他預備的。我今天所憂慮、所忙碌的事，會不會遠遠小於神正要在其中成就的事？
-
-4. **起初的謙卑**：掃羅在9:21的謙辭是真實的，卻沒有經過權力的試驗。我如何在自己被高升、被讚美的時刻，持續操練真實的謙卑，而不是等到失去一切才想起謙卑？
+3. **起初的謙卑**：掃羅在9:21的謙辭是真實的，卻沒有經過權力的試驗。我如何在自己被高升、被讚美的時刻，持續操練真實的謙卑，而不是等到失去一切才想起謙卑？
 
 ### 禱告回應
 
@@ -306,17 +281,17 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 撒母耳記上9章用整整兩節經文（1-2節）介紹掃羅的外貌與家世，卻完全沒有提到他的信心或品格——這樣的敘事安排，作者想讓讀者看見什麼？
-
-2. 「他必救我民脫離非利士人的手」（9:16）——這個「拯救」的應許，在掃羅身上如何落空？又如何在耶穌基督裡完全成就？
-
-3. 掃羅一路徒勞尋找驢子（9:3-5），卻不知道自己正走向一個國度——這對我認識神在日常瑣事中的護理，有什麼提醒？
-
-4. 撒母耳提前一日已從神那裡得着啟示（9:15），但掃羅本人卻毫不知情——神的計劃常常在我們不知情的時候展開，這對我的信心有什麼意義？
-
-5. 掃羅在9:21的謙卑言辭，與他日後在15章的驕傲言行判若兩人——我如何確保自己起初的謙卑，能經得起地位和權力的試驗？
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 「拯救」動詞的伏線 | 9:16 | 出3:7-8；太1:21；約10:17-18；賽9:7 |
+| 先見與先知的交接 | 9:9 | 徒3:24 |
+| 「指」向那一位的先鋒職分 | 9:15-27 | 路1:17；約1:29,3:30；多2:13；啟22:17,20 |
+| 便雅憫的創傷與恩典 | 9:1-2,21 | 士19-21；10:26；11:4 |
+| 看外貌與看內心 | 9:2 | 撒上16:7 |
+| נָגִיד（受託的君）與מֶלֶךְ（王） | 9:16 | 撒上8:5,20；撒下7:8 |
+| 神隱藏的計劃先於人的腳步 | 9:15,22,24 | 羅8:28；弗3:20；太6:33；約14:2 |
 
 ---
 

@@ -10,17 +10,32 @@ publisher: 三書精讀出版系統
 
 撒母耳記上 1:1-28
 
-**經文核對**：[ai-eden.com/bible/1-samuel/1](https://www.ai-eden.com/bible/1-samuel/1?t=CUV,ESV&cols=2)
-
----
+**經文核對**：[ai-eden.com/bible/1-samuel/1](https://www.ai-eden.com/bible/1-samuel/1?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-「耶和華不使哈拿生育」（撒上1:5-6）——這句沉重的話，把哈拿放進了一條聖經反覆出現的線索裡：撒拉七十歲不能生育（創11:30），利百加曾不孕（創25:21），拉結多年不能懷胎（創30:1-2），瑪挪亞的妻子「不懷孕，不生育」（士13:2-3），如今是哈拿，「耶和華不使哈拿生育」；到了新約，以利沙伯「不生育，且二人都已年老」（路1:7）。這條線索不是巧合的重複，而是神刻意反覆使用的手法：每一次祂要在救贖歷史上邁出關鍵一步之前，祂先讓一個子宮徹底無能為力，然後親自介入。這樣，沒有人能說「這是人的功勞」，只能說「這是耶和華所行的」。哈拿的故事，正是這條線索承先啟後的一環——而這條線索的終點，不是又一次「打開關閉的子宮」，而是一件更超越的事：一個從未有男人親近過的處女之腹（路1:34），天使卻宣告「因為出於神的話，沒有一句不帶能力的」（路1:37，原文直譯「在神沒有一件事是不能的」，回應創18:14「耶和華岂有難成的事嗎」）。哈拿所經歷的「不可能」，最終在馬利亞身上被推到了極致——神不只是打開一個關閉的子宮，祂親自道成肉身，進入一個從未打開過的子宮。
+> **本章鑰詞：求與聽 Ask and Hear**（1:20「因為我從耶和華求他」；撒母耳＝「神所聽見的」）\
+> **座標**：撒母耳時代之首（1-7章），啟示的次序第三步——神在百姓求王之前，先興起一位禱告蒙應允的先知（見卷首〈啟示的次序〉） \
+> （全書三部結構見〈概覽〉：撒母耳時代／掃羅時代／大衛興起）
 
-撒母耳這個名字——שְׁמוּאֵל（Shemu'el），「神所聽見的」——既是哈拿個人禱告蒙應允的見證，也是全書的第一個伏筆：這整卷書要問的，正是「以色列的呼求，有沒有人聽見？誰在聽？」而哈拿在1:11所許的願，卻做了一件比「求」更深的事：「我必使他終身歸與耶和華」——她把所求來的，原封不動地交還。這正是福音最早的雛形之一：神所賜下的，不是被留下據為己有的，而是被完全交還給祂的。而這條「給了又還」的線，最終指向神自己：「神愛世人，甚至將他的獨生子賜給他們」（約3:16），神沒有顧惜自己的兒子，「為我們眾人捨了」（羅8:32）。哈拿用一句誓言，象徵性地把兒子「終身」交還給神；耶穌卻用自己的生命，親自成就了這誓言背後真正的意義——「我父愛我，因我將命捨去，好再取回來……這是我從我父所受的命令。」（約10:17-18）哈拿只能用言語許願，基督卻用身體成全。
+「耶和華不使哈拿生育」（1:5-6）把哈拿放進聖經一條反覆出現的線索：撒拉七十歲不能生育、利百加不孕、拉結多年不能懷胎、瑪挪亞的妻子「不懷孕，不生育」，如今是哈拿；到了新約，以利沙伯「不生育，且二人都已年老」（路1:7），最終在馬利亞身上被推到極致——一個從未有男人親近過的處女之腹（路1:34），天使卻宣告「在神沒有一件事是不能的」（路1:37）。神一再先讓一個子宮徹底無能為力，才親自介入，好叫沒有人能說「這是人的功勞」；祂不只是打開一個關閉的子宮，最終親自道成肉身，進入一個從未打開過的子宮。撒母耳的名字שְׁמוּאֵל（「神所聽見的」）是全書的第一個伏筆：以色列的呼求，有沒有人聽見？而哈拿在許願裡做了一件比「求」更深的事——「我必使他終身歸給耶和華」（1:11），把所求來的原封不動交還。這條「給了又還」的線，最終指向神自己「不顧惜自己的兒子，為我們眾人捨了」（羅8:32）；哈拿只能用言語許願，基督卻用生命成全。
 
-值得留意的是，路加福音的敘事者顯然是刻意按著撒母耳記上1-2章的模式，來書寫耶穌的降生故事：一位長年不孕或處境卑微的婦人、一句禱告、一首讚美的詩歌、把孩子帶到聖殿、以及一句幾乎逐字呼應的成長總結——「孩子撒母耳漸漸長大，耶和華與人越發喜愛他」（撒上2:26），對照「耶穌的智慧和身量〔或作：耶穌又長大〕，並神和人喜愛他的心，都一齊增長」（路2:52）。路加要讀者看見：神在以色列最黑暗、士師「各人任意而行」的年代所行的那件事——藉一個哭泣婦人的禱告，開啟一個要拯救全書的孩子——如今，在律法時代最後的黑暗裡，祂正在做同一件事，只是更大、更完全。哈拿的禱告，因此不只是一段家庭故事的開端，而是整本聖經「神聽見卑微者的呼求，並藉此成就救恩」這條大河，流向十字架與復活的第一道源頭。
+---
+
+## 配詩 (Opening Hymn)
+
+> **Come, Ye Disconsolate**
+> *Thomas Moore, 1816*
+>
+> Come, ye disconsolate, where'er ye languish,
+> Come to the mercy seat, fervently kneel;
+> Here bring your wounded hearts, here tell your anguish;
+> Earth has no sorrow that heaven cannot heal.
+>
+> 憂傷無助的人哪，來吧，無論你身在何等困境，
+> 來到施恩座前，懇切跪下；
+> 把你受傷的心帶來，把你的痛苦訴說；
+> 地上的憂傷，天上都能醫治。
 
 ---
 
@@ -42,21 +57,21 @@ publisher: 三書精讀出版系統
 
 > ^24^斷奶之後，她就帶著孩子，連同一頭三歲的公牛，一伊法細麵，一皮袋酒，上示羅耶和華的殿去。那時，孩子還小。^25^他們宰了公牛，就領孩子到以利面前。^26^婦人說：「我主啊，請容許我說，我向你，我的主起誓，從前在你這裏站著祈求耶和華的那婦人就是我。^27^我祈求為要得這孩子，耶和華已將我向他所求的賜給我了。^28^所以，我將這孩子獻給耶和華，使他終生歸給耶和華。」他就在那裏敬拜耶和華。
 
-### English — ESV
+### English — NASB
 
-> ^1^There was a certain man of Ramathaim-zophim of the hill country of Ephraim whose name was Elkanah the son of Jeroham, son of Elihu, son of Tohu, son of Zuph, an Ephrathite. ^2^He had two wives. The name of the one was Hannah, and the name of the other, Peninnah. And Peninnah had children, but Hannah had no children.
+> ^1^Now there was a certain man from Ramathaim-zophim of the hill country of Ephraim, and his name was Elkanah the son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph, an Ephraimite. ^2^He had two wives: the name of one was Hannah and the name of the other Peninnah; and Peninnah had children, but Hannah had no children.
 
-> ^3^Now this man used to go up year by year from his city to worship and to sacrifice to the LORD of hosts at Shiloh, where the two sons of Eli, Hophni and Phinehas, were priests of the LORD. ^4^On the day when Elkanah sacrificed, he would give portions to Peninnah his wife and to all her sons and daughters. ^5^But to Hannah he gave a double portion, because he loved her, though the LORD had closed her womb. ^6^And her rival used to provoke her grievously to irritate her, because the LORD had closed her womb. ^7^So it went on year by year. As often as she went up to the house of the LORD, she used to provoke her. Therefore Hannah wept and would not eat. ^8^And Elkanah, her husband, said to her, "Hannah, why do you weep? And why do you not eat? And why is your heart sad? Am I not more to you than ten sons?"
+> ^3^Now this man would go up from his city yearly to worship and to sacrifice to the LORD of hosts in Shiloh. And the two sons of Eli, Hophni and Phinehas, were priests to the LORD there. ^4^When the day came that Elkanah sacrificed, he would give portions to Peninnah his wife and to all her sons and her daughters; ^5^but to Hannah he would give a double portion, for he loved Hannah, but the LORD had closed her womb. ^6^Her rival, however, would provoke her bitterly to irritate her, because the LORD had closed her womb. ^7^It happened year after year, as often as she went up to the house of the LORD, she would provoke her; so she wept and would not eat. ^8^Then Elkanah her husband said to her, "Hannah, why do you weep and why do you not eat and why is your heart sad? Am I not better to you than ten sons?"
 
-> ^9^After they had eaten and drunk in Shiloh, Hannah rose. Now Eli the priest was sitting on the seat beside the doorpost of the temple of the LORD. ^10^She was deeply distressed and prayed to the LORD and wept bitterly. ^11^And she vowed a vow and said, "O LORD of hosts, if you will indeed look on the affliction of your servant and remember me and not forget your servant, but will give to your servant a son, then I will give him to the LORD all the days of his life, and no razor shall touch his head."
+> ^9^Then Hannah rose after eating and drinking in Shiloh. Now Eli the priest was sitting on the seat by the doorpost of the temple of the LORD. ^10^She, greatly distressed, prayed to the LORD and wept bitterly. ^11^She made a vow and said, "O LORD of hosts, if You will indeed look on the affliction of Your maidservant and remember me, and not forget Your maidservant, but will give Your maidservant a son, then I will give him to the LORD all the days of his life, and a razor shall never come on his head."
 
-> ^12^As she continued praying before the LORD, Eli observed her mouth. ^13^Hannah was speaking in her heart; only her lips moved, and her voice was not heard. Therefore Eli took her to be a drunken woman. ^14^And Eli said to her, "How long will you go on being drunk? Put your wine away from you." ^15^But Hannah answered, "No, my lord, I am a woman troubled in spirit. I have drunk neither wine nor strong drink, but I have been pouring out my soul before the LORD. ^16^Do not regard your servant as a worthless woman, for all along I have been speaking out of my great anxiety and vexation." ^17^Then Eli answered, "Go in peace, and the God of Israel grant your petition that you have made to him." ^18^And she said, "Let your servant find favor in your eyes." Then the woman went her way and ate, and her face was no longer sad.
+> ^12^Now it came about, as she continued praying before the LORD, that Eli was watching her mouth. ^13^As for Hannah, she was speaking in her heart, only her lips were moving, but her voice was not heard. So Eli thought she was drunk. ^14^Then Eli said to her, "How long will you make yourself drunk? Put away your wine from you." ^15^But Hannah replied, "No, my lord, I am a woman oppressed in spirit; I have drunk neither wine nor strong drink, but I have poured out my soul before the LORD. ^16^Do not consider your maidservant as a worthless woman, for I have spoken until now out of my great concern and provocation." ^17^Then Eli answered and said, "Go in peace; and may the God of Israel grant your petition that you have asked of Him." ^18^She said, "Let your maidservant find favor in your sight." So the woman went her way and ate, and her face was no longer *sad*.
 
-> ^19^They rose early in the morning and worshiped before the LORD; then they went back to their house at Ramah. And Elkanah knew Hannah his wife, and the LORD remembered her. ^20^And in due time Hannah conceived and bore a son, and she called his name Samuel, for she said, "I have asked for him from the LORD."
+> ^19^Then they arose early in the morning and worshiped before the LORD, and returned again to their house in Ramah. And Elkanah had relations with Hannah his wife, and the LORD remembered her. ^20^It came about in due time, after Hannah had conceived, that she gave birth to a son; and she named him Samuel, *saying*, "Because I have asked him of the LORD."
 
-> ^21^The man Elkanah and all his house went up to offer to the LORD the yearly sacrifice and to pay his vow. ^22^But Hannah did not go up, for she said to her husband, "As soon as the child is weaned, I will bring him, so that he may appear in the presence of the LORD and dwell there forever." ^23^Elkanah her husband said to her, "Do what seems best to you; wait until you have weaned him; only, may the LORD establish his word." So the woman remained and nursed her son until she weaned him.
+> ^21^Then the man Elkanah went up with all his household to offer to the LORD the yearly sacrifice and *pay* his vow. ^22^But Hannah did not go up, for she said to her husband, "*I will not go up* until the child is weaned; then I will bring him, that he may appear before the LORD and stay there forever." ^23^Elkanah her husband said to her, "Do what seems best to you. Remain until you have weaned him; only may the LORD confirm His word." So the woman remained and nursed her son until she weaned him.
 
-> ^24^And when she had weaned him, she took him up with her, along with a three-year-old bull, an ephah of flour, and a skin of wine, and she brought him to the house of the LORD at Shiloh. And the child was young. ^25^Then they slaughtered the bull, and they brought the child to Eli. ^26^And she said, "Oh, my lord! As you live, my lord, I am the woman who was standing here in your presence, praying to the LORD. ^27^For this child I prayed, and the LORD has granted me my petition that I made to him. ^28^Therefore I have lent him to the LORD. As long as he lives, he is lent to the LORD." And he worshiped the LORD there.
+> ^24^Now when she had weaned him, she took him up with her, with a three-year-old bull and one ephah of flour and a jug of wine, and brought him to the house of the LORD in Shiloh, although the child was young. ^25^Then they slaughtered the bull, and brought the boy to Eli. ^26^She said, "Oh, my lord! As your soul lives, my lord, I am the woman who stood here beside you, praying to the LORD. ^27^For this boy I prayed, and the LORD has given me my petition which I asked of Him. ^28^So I have also dedicated him to the LORD; as long as he lives he is dedicated to the LORD." And he worshiped the LORD there.
 
 ---
 
@@ -64,21 +79,11 @@ publisher: 三書精讀出版系統
 
 ### 歷史背景：士師時代的暮色
 
-撒母耳記上第一章的年代，約在主前1105年，正是士師記末段那句令人不安的總結句所描寫的時代：「那時，以色列中沒有王，各人任意而行」（士21:25）。士師記的最後幾章記載了但支派的偶像崇拜、基比亞的暴行、便雅憫支派幾乎滅族——這是一個信仰破碎、道德混亂、中央權威失效的年代。哈拿的故事，正是從這樣的暮色裡開始的：不是宮廷的大事，不是戰爭的號角，而是一個鄉間家庭裡，一個沒有兒女的婦人，一年一次上示羅敬拜時流的眼淚。神的救贖計劃，往往不是先從顯眼的地方展開，而是先在一個不起眼的角落，藉著一顆破碎卻懇切的心，悄悄動工。
+本章年代約在主前1105年，正是士師記末段那句總結句所描寫的時代：「那時，以色列中沒有王，各人任意而行」（士21:25）——但支派的偶像崇拜、基比亞的暴行、便雅憫幾乎滅族。哈拿的故事，正是從這樣的暮色裡開始：不是宮廷大事，不是戰爭號角，而是一個鄉間家庭裡，一個沒有兒女的婦人，一年一次上示羅敬拜時流的眼淚。神的救贖計劃，往往先在一個不起眼的角落，藉著一顆破碎卻懇切的心，悄悄動工。
 
-### 示羅：暫居的聖所
+### 破碎家庭中的呼求
 
-自從約書亞把會幕設立在示羅（書18:1）以來，這裡就成了以色列敬拜的中心，約櫃安放在此，直到撒母耳記上第4章被非利士人擄去為止。以利加拿一家「每年」上示羅（1:3），很可能是指三大節期中的一個（也許是逾越節或住棚節，出23:14-17），這是當時虔誠家庭的常規敬拜生活。經文特別提到「以利的兩個兒子何弗尼、非尼哈當耶和華的祭司」（1:3）——這句話看似只是背景交代，其實是敘事者埋下的伏筆：第2章下半將要揭露，這兩個祭司「不認識耶和華」（2:12），他們的敗壞，正好與哈拿在同一座聖殿裡所流露的真誠敬虔，形成強烈對比。哈拿的禱告發生在一個宗教建制正在腐敗、卻仍有一盞燈沒有熄滅的地方（參3:3）。
-
-### 一夫多妻的張力：不是神的設計，卻是神工作的處境
-
-以利加拿有兩個妻子，這在經文裡被平鋪直敘地記載，沒有一句稱許的話。創世記2:24早已定下神造婚姻的原型——「二人成為一體」，是「二」不是「三」。整本舊約敘事裡，凡是走進一夫多妻的家庭，幾乎沒有一個是平靜的：亞伯拉罕與夏甲、雅各與利亞、拉結，每一次都帶來嫉妒、偏愛與傷害。以利加拿「愛哈拿」，卻仍舊娶了毗尼拿；毗尼拿能生育，卻拿這唯一的優勢去「惹她發怒，使她苦惱」（1:6-7）——這是一個典型的、破碎的家庭生態。經文並不迴避這種破碎：它照實記載毗尼拿「常常」惹哈拿，「每當她上耶和華的殿」都是如此（1:7），甚至連丈夫善意的安慰——「有我不比十個兒子還好嗎？」（1:8）——都無法真正觸及哈拿內心最深的傷口。神的作為，並不是先把這個家庭修好了才開始動工，而是在這破碎、失衡、充滿張力的處境裡，親自介入其中一個人的禱告。
-
-### 利未支派的以法蓮人
-
-值得留意的是，歷代志上6:33-38記載，以利加拿的家系其實可以追溯到利未支派哥轄族——他是利未人，只是居住在以法蓮支派的地業裡，因此被稱為「以法蓮人」（撒上1:1）。這解釋了一些細節：他為何能如此規律地帶全家上示羅獻祭、參與敬拜的核心；也解釋了為何撒母耳後來能自然地「歸與耶和華」，在會幕中事奉——他本來就出身於一個與聖所、祭司職分密切相關的家族血脈。神揀選這個家庭，並非隨機，而是早已把伏筆埋在幾代之前的族譜裡。
-
-### 文學結構
+以利加拿有兩個妻子——經文平鋪直敘地記載，沒有一句稱許的話。創世記2:24早已定下神造婚姻的原型是「二人成為一體」；整本舊約敘事裡，凡走進一夫多妻的家庭，幾乎沒有一個平靜：亞伯拉罕與夏甲、雅各與利亞、拉結，每一次都帶來嫉妒與傷害。以利加拿「愛哈拿」，卻仍娶了毗尼拿；毗尼拿能生育，卻拿這唯一的優勢「惹她發怒」（1:6-7），甚至丈夫善意的安慰——「有我不比十個兒子還好嗎？」（1:8）——都無法真正觸及哈拿內心最深的傷口。神並非先把這個家庭修好了才動工，而是在這破碎、失衡的處境裡，親自介入其中一個人的禱告。（值得一提：代上6:33-38顯示以利加拿其實出身利未支派哥轄族，只是居住在以法蓮地業，因此被稱為「以法蓮人」——撒母耳後來能自然地「歸與耶和華」事奉，並非偶然，早有幾代之前的族譜作伏筆。）
 
 | 段落 | 內容 | 經文 |
 |------|------|------|
@@ -93,66 +98,35 @@ publisher: 三書精讀出版系統
 
 | 希伯來文 | 音譯 | 意義 | 註解 |
 |----------|------|------|------|
-| אֶלְקָנָה | *Elqanah* | 「神已買贖／神已得著」 | 以利加拿的名字，字面帶有「神所擁有的」之意 |
-| חַנָּה | *Channah* | 恩惠、恩典 | 哈拿的名字本身就是「蒙恩」——她自己的名字，早已預告了她要領受的恩典 |
-| צָרָה | *tsarah* | 情敵；同一字根也指「苦難、患難」 | 1:6「她的對頭」原文正是「苦難」一詞的陰性名詞形式——這是刻意的雙關 |
-| מָרַת נֶפֶשׁ | *marat nephesh* | 心裡愁苦；字面「靈魂的苦味」 | 1:10「哈拿心裡愁苦」；同一詞根用於描述極深沉的悲痛（如得1:20拿俄米自稱瑪拉） |
-| קְשַׁת רוּחַ | *qeshat ruach* | 靈裡艱難、心思沉重 | 1:15「我是心裡愁苦的婦人」，直譯「靈裡堅硬／艱難的婦人」 |
-| שָׁפַךְ נֶפֶשׁ | *shaphakh nephesh* | 傾倒／傾心吐意 | 1:15「我只是在耶和華面前傾吐我的心意」，字面「把我的魂倒出來」 |
-| שָׁאַל | *sha'al* | 求、求問 | 1:20命名時的解釋所用的動詞，與撒母耳名字實際的字根（שָׁמַע）不同，是刻意的聲韻雙關 |
-| נָזִיר（隱含） | *nazir* | 拿細耳人、分別為聖的人 | 1:11「不用剃頭刀剃他的頭」是拿細耳人誓言的記號（參民6:5），暗示撒母耳終身分別為聖 |
+| חַנָּה | *Channah* | 恩惠、恩典 | 哈拿的名字本身就是「蒙恩」 |
+| צָרָה | *tsarah* | 情敵；同一字根也指「苦難」 | 1:6「她的對頭」正是「苦難」一詞的陰性名詞——刻意的雙關 |
+| שָׁפַךְ נֶפֶשׁ | *shaphakh nephesh* | 傾倒／傾心吐意 | 1:15，字面「把我的魂倒出來」，通常用於液體被徹底倒空 |
+| שָׁאַל | *sha'al* | 求、求問 | 1:20命名所用動詞，與撒母耳實際字根（שָׁמַע）不同，是刻意的聲韻雙關 |
+| נָזִיר（隱含） | *nazir* | 拿細耳人 | 1:11「不用剃頭刀剃他的頭」是拿細耳人誓言的記號（民6:5） |
 
-### 「情敵」與「苦難」：同一個希伯來字的雙關
+**傾心吐意**：1:15「傾心吐意」原文שָׁפַךְ אֶת־נַפְשִׁי，字面是「把我的魂倒出來」——這個動詞通常用於液體被徹底倒空，一滴不留。這詞組後來成了希伯來禱告文學的原型：詩篇42:4「我的心極其悲傷」、哀歌2:19「倒出你的心如水，在主面前」，都用同一意象——哈拿的傾心吐意，不是一時情緒失控，而是舊約敬虔傳統裡最真實禱告的標準寫照。
 
-1:6「她的對頭」，希伯來原文是 צָרָה（tsarah）——這個字在舊約別處，正是用來描述「患難、苦難、艱難」的常用詞（例如耶30:7「雅各遭難的時候」用的正是同一個字根）。經文並沒有另造一個詞來形容「情敵」，而是直接使用「苦難」這個字——彷彿在悄悄地告訴讀者：毗尼拿對哈拿而言，不只是「另一個妻子」，她本身就是哈拿生命裡那個具體、每年反覆發作的「苦難」。這個雙關語，讓1:6-7的敘事更加銳利：哈拿所忍受的，不是抽象的不孕之苦，而是一個有名有姓、天天坐在同一張飯桌旁的「苦難」本人。
-
-### 傾心吐意：שָׁפַךְ נֶפֶשׁ 的禱告樣式
-
-1:15「我只是在耶和華面前傾吐我的心意」，原文是 שָׁפַךְ אֶת־נַפְשִׁי（shaphakh et-naphshi），字面意思是「把我的魂（nephesh）倒出來」。這個動詞「傾倒」通常用於液體——水、血、油——被徹底倒空，一滴不留。哈拿用這個字來形容自己的禱告：不是禮儀性的、有節制的祈求，而是把整個自己毫無保留地倒在神面前。這個詞組後來成了希伯來禱告文學裡一個重要的原型：詩篇42:4「我從前與眾人同行……我追想這些事，我的心極其悲傷」（原文亦用「倒出」意象）；哀歌2:19「你要起來，黑夜將初更的時候，倒出你的心如水，在主面前」——「傾心吐意」不是哈拿一時的情緒失控，而是舊約敬虔傳統中，最真實禱告的標準寫照。
-
-### 撒母耳的名字：一個雙重回聲
-
-撒母耳的希伯來文 שְׁמוּאֵל（Shemu'el）由 שָׁמַע（shama，「聽見」）與 אֵל（El，「神」）組成，字面意思是「神所聽見的」。然而，1:20經文對這名字的解釋，卻用了另一個動詞：「這是我從耶和華求（שָׁאַלְתִּיו, sha'iltiv）來的」——「求」的字根是 שָׁאַל（sha'al），與名字本身的字根 שָׁמַע 並不完全相同，反而與後來掃羅（שָׁאוּל, Sha'ul，「被求來的」）的名字同一字根。許多希伯來文釋經學者都留意到這個現象：經文彷彿刻意讓「求」（sha'al）與「聽」（shama）這兩個聲音在同一段敘事裡彼此迴響——哈拿「求」了，神「聽」了；而全書稍後，百姓也要「求」（撒上8:10）一個王，得到的卻是一個名字意思正是「被求來的」的掃羅。同一個動詞「求」，一次帶來蒙福的撒母耳，一次帶來悖逆的後果——這提醒我們：「求」這件事本身沒有錯，關鍵在於：求的是什麼，向誰求，以怎樣的心求。
+**求與聽的雙重回聲**：撒母耳的字根是שָׁמַע（「聽見」），但1:20解釋命名的動詞卻是שָׁאַל（「求」）——與後來掃羅（שָׁאוּל，「被求來的」）同一字根。哈拿「求」了，神「聽」了；全書稍後，百姓也要「求」（8:10）一個王，得到的卻是一個名字意思正是「被求來的」的掃羅。同一個動詞，一次出於順服而結果是撒母耳，一次出於悖逆而結果是掃羅——問題不在於求甚麼，在於求的時候心是順服，還是叛逆。
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-### 1. 從關閉的子宮，看見主權的神 (Sovereign God over the Closed Womb)
+### 1. 從關閉的子宮，看見主權的神
 
-經文用最直接的話說明哈拿不孕的原因：「無奈耶和華不使哈拿生育」（1:5），又重複一次：「因耶和華不使哈拿生育」（1:6）。這不是委婉的說法，而是敘事者刻意要讀者領受的一句宣告——哈拿的痛苦，不是生理上偶然的缺憾，而是耶和華主權之下的一個「關閉」。這聽起來令人不安：難道神親手造成了她的眼淚？然而，正是這個「關閉」，把哈拿的故事，接進了聖經裡一條反覆出現的救贖歷史線索：每一次神要在歷史上邁出關鍵一步之前，祂常常先讓一個子宮徹底無能為力，好叫最終的孩子只能被理解為「神所賜」，而不能被誤認為「人的功勞」。哈拿的眼淚不是被浪費的眼淚，而是神親自安排的、通往下一步救贖歷史的窄門。
+「耶和華不使哈拿生育」重複兩次（1:5-6）——不是委婉說法，而是刻意的宣告：哈拿的痛苦，是耶和華主權之下的一個「關閉」。正是這個關閉，把哈拿接進一條反覆出現的救贖歷史線索：神常先讓一個子宮徹底無能為力，好叫最終的孩子只能被理解為「神所賜」，不能被誤認為「人的功勞」。
 
-### 2. 傾心吐意：真實禱告的樣式 (Prayer That Pours Out the Soul)
+### 2. 傾心吐意：真實禱告的樣式
 
-哈拿的禱告有一個奇特的細節：「哈拿心中默禱，只動嘴唇，不出聲音」（1:13）。在當時的敬拜文化裡，禱告通常是出聲的，以利因此誤以為她喝醉了。但哈拿的禱告卻是完全靜默、卻又完全真實的——她不是在表演敬虔給人看，她的整個禱告只有一位聽眾。這給我們一個極重要的提醒：真正的禱告，其分量不在於聲音的大小、辭藻的華美，而在於心是否真的向神敞開。哈拿後來對以利說：「我只是在耶和華面前傾吐我的心意」（1:15）——這句話定義了什麼是禱告的核心：不是完成一個宗教儀式，而是把整個破碎、真實、不加修飾的自己，倒在那位聽得見、也看得見的神面前。
+哈拿「只動嘴唇，不出聲音」（1:13），以利卻因此誤以為她喝醉——「你要醉到幾時呢？」（1:14）。這是一個令人心驚的畫面：本該最能分辨屬靈實況的祭司，用最世俗的眼光判斷最真誠的禱告。哈拿沒有為自己辯護到底，只平靜澄清（1:16）：真正的敬虔，有時必須預備好被誤解，卻仍持守在神面前的誠實。這個對照將在16:7「耶和華是看內心」達到高峰——屬靈的真實，從來無法被外在行為準確衡量。
 
-### 3. 被誤解的敬虔 (Misjudged for Being Truly Spiritual)
+### 3. 許願：把所求的完全交回
 
-哈拿最真誠、最深刻的敬虔時刻，卻被神殿裡最高的宗教領袖徹底誤判——以利說：「你要醉到幾時呢？」（1:14）。這是一個令人心驚的畫面：一個人正在向神傾倒她全部的心，而站在她面前、本該最能分辨屬靈實況的祭司，卻用最世俗的眼光判斷她。這提醒我們一個貫穿全書的主題（將在16:7「耶和華是看內心」達到高峰）：屬靈的真實，常常無法被外在的行為模式準確衡量。哈拿沒有為自己辯護到底，也沒有因被誤解而放棄禱告的誠實——她只是平靜地澄清：「不要把使女看作不正經的女子」（1:16）。真正的敬虔，有時候必須預備好被誤解，卻仍舊持守在神面前的誠實，而不是為了被人理解而改變禱告的方式。
+哈拿的禱告不只是「求」，更是「許願」：「我必使他終身歸給耶和華」（1:11）——她所求的東西還沒有臨到，就已預先決定要完全交還。這與人性常態恰恰相反：我們通常先得著，才勉強考慮奉獻一部分；哈拿卻在孩子尚未存在之前，就把他「終身」的所有權簽字轉讓給神。
 
-### 4. 許願：把所求的完全交回 (The Vow: Giving Back What Was Asked For)
+### 4. 平安先於應驗
 
-哈拿的禱告不只是「求」，更是「許願」：「我必使他終身歸給耶和華」（1:11）。這個誓言的驚人之處在於：她所求的東西，還沒有臨到，她已經預先決定要把它完全交還。這與人性的常態恰恰相反——我們通常是先得著，才勉強考慮要不要奉獻一部分；哈拿卻是在孩子尚未存在之前，就已經把他「終身」的所有權，簽字轉讓給了神。這種許願的精神，遠遠超過一般意義上的「感恩奉獻」，而是一種根本性的認信：這個孩子從起頭到終了，都不屬於我，他屬於賜下他的那一位。
-
-### 5. 平安先於應驗 (Peace Before the Answer Comes)
-
-值得注意的是，1:18記載：「這婦人就回去吃飯，臉上不再帶愁容了」——這句話出現在她懷孕之前。哈拿還沒有任何生理上的證據可以證明神已經應允她的祈求，她甚至還不知道自己是否真的會懷孕，但她的愁容已經退去了。這說明了一件深刻的事：真正把心倒在神面前的禱告，帶來的第一個果效，往往不是「問題被解決」，而是「內心先得著平安」。這正是保羅後來所寫的：「應當一無罣慮，只要凡事藉著禱告、祈求和感謝，將你們所要的告訴神。神所賜出人意外的平安，必在基督耶穌裡保守你們的心懷意念」（腓4:6-7）——哈拿在應驗之先，先領受了平安；她所倚靠的不是「事情一定會照我的意思成就」，而是「我已經把這件事，真實地交託給了那位聽禱告的神」。
-
-### 6. 誠實的家庭：破碎中神仍在動工 (An Honest Family: God at Work Amid Brokenness)
-
-經文不美化以利加拿的家庭。它照實記載一夫多妻帶來的長年張力、毗尼拿的惡意挑釁、哈拿反覆的哭泣與絕食——這不是一個「模範家庭」的故事。然而，正是在這個充滿嫉妒與偏愛的家庭裡，神選擇了那個被輕視、被激怒、卻仍然願意上殿禱告的哈拿，而不是那個「已經得著」、看似蒙福的毗尼拿。這是一個重要的模式，將在哈拿自己接下來的頌歌（2:1-10）裡被清楚唱出——「他從灰塵裡抬舉貧寒人」——神揀選工作的方式，常常是揀選那個在家庭、在社群裡被視為「缺乏」的人，而不是那個看起來「已經足夠」的人。
-
-### 聖經中「關閉的子宮」與神的介入
-
-| 婦人 | 經文 | 困境 | 神的介入 | 所生兒子的角色 |
-|------|------|------|----------|----------------|
-| 撒拉 | 創11:30; 21:1-2 | 年老不孕 | 「耶和華按著先前的話眷顧撒拉」 | 以撒——應許的兒子 |
-| 利百加 | 創25:21 | 不孕 | 「耶和華應允他的祈求」 | 雅各——立約的繼承者 |
-| 拉結 | 創30:1-2, 22-23 | 多年不能生育 | 「神顧念拉結……使她能生育」 | 約瑟——保存全家性命的人 |
-| 瑪挪亞的妻子 | 士13:2-3 | 不懷孕，不生育 | 耶和華的使者親自顯現宣告 | 參孫——士師，拿細耳人 |
-| 哈拿 | 撒上1:5-6, 19-20 | 耶和華不使她生育 | 「耶和華顧念哈拿」 | 撒母耳——先知、士師、祭司 |
-| 以利沙伯 | 路1:7, 24 | 不生育，年紀已老 | 「在神沒有一件不能的事」 | 施洗約翰——為主預備道路者 |
-| 馬利亞 | 路1:34-35 | 從未出嫁，「不可能」而非「不孕」 | 聖靈要臨到你，至高者的能力要蔭庇你 | 耶穌基督——那要拯救萬民的救主 |
+1:18記載「她臉上不再帶愁容」——這句話出現在她懷孕之前。哈拿還沒有任何生理證據，愁容已經退去。真正把心倒在神面前的禱告，帶來的第一個果效，往往不是「問題被解決」，而是「內心先得著平安」——正如保羅後來所寫：「神所賜出人意外的平安，必在基督耶穌裡保守你們的心懷意念」（腓4:6-7）。
 
 ---
 
@@ -160,118 +134,75 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-早期教會解經傳統習慣以預表的眼光讀撒母耳記上第一章，把哈拿與毗尼拿理解為教會與會堂的預表。這個傳統可以追溯到教父居普良，也見於後世對維涅拉伯·貝達（Bede, 673-735）注疏撒母耳記上（*In Primam Partem Samuhelis*）一書的傳統理解：哈拿的名字意思是「恩典」，被讀作教會的預表；毗尼拿則被讀作會堂的預表（此一貝達傳統的具體措辭，因原始拉丁文本查證不易，此處以概述而非逐字引用方式呈現，讀者若欲核對原文，可參 Corpus Christianorum Series Latina 119卷）。
-
-**居普良 (Cyprian, 約200-258)**：
+早期教會習慣以預表眼光讀本章，把哈拿與毗尼拿理解為教會與會堂的預表——這個傳統可追溯到居普良，也見於後世對貝達（Bede, 673-735）撒母耳記上注疏的理解（貝達原文具體措辭因拉丁文本查證不易，此處以概述呈現）：
 
 > "That the church which before had been barren should have more children from among the Gentiles than what the synagogue had had before."
 >
 > 中譯：「先前不能生育的教會，如今從外邦人中得著的兒女，要比先前的會堂更多。」
-> — Cyprian, *Three Books of Testimonies Against the Jews*（《駁猶太人的三卷見證書》）卷一
-
-這種預表式的讀法，反映了初代教會如何把哈拿的不孕與最終蒙福，讀作外邦教會終將興起、超越舊約會堂的先聲——雖然這不是1:1-28唯一或首要的解經進路，卻顯示這段經文從最早的教會時代，就已經被理解為超越一段家庭軼事的敘述。
+> — Cyprian, *Three Books of Testimonies Against the Jews*，卷一
 
 ### 近代釋經：馬太·亨利 (Matthew Henry, 1662-1714)
 
-亨利對哈拿家庭的評語直截了當：「這是一個敬虔的家庭」（"It was a devout family"），並特別指出以利加拿「愛哈拿」，卻仍要面對毗尼拿「不能忍受〔哈拿〕蒙福」（"Peninnah could not bear the blessing of fruitfulness"）所帶來的長年羞辱——「她因哈拿的苦境而責備她」（"She upbraided Hannah with her affliction"）。
-
-論到哈拿的禱告，亨利寫道：「她把眼淚和禱告混在一起。這不是一個乾枯的禱告：她痛痛地哭泣」（"She mingled tears with her prayers. It was not a dry prayer: she wept sore"），並指出她所許的，是「一個莊嚴的誓願」（"a solemn vow"）——若神賜她一子，她要把他分別為拿細耳人歸給神。
-
-對於以利起初的誤判，亨利毫不留情地指出這反映了一個屬靈的普遍現象：「這是罪孽增多的一個惡果……它常常使人懷疑無辜的人」（"It is one bad effect of the abounding of iniquity...that it often gives occasion to suspect the innocent"）；但他也讚許以利最終的回應——「願以色列的神允准你的祈求」（"The God of Israel grant thee thy petition"）——是祭司職分應有的祝福之言。
-
-論到哈拿還願，亨利寫道，她鄭重宣告：「我已將他終身借給耶和華」（"I have lent him to the Lord as long as he liveth"），完全地把孩子交還給神的服事。
+亨利評哈拿的家庭「是一個敬虔的家庭」（"It was a devout family"），指出毗尼拿「不能忍受〔哈拿〕蒙福」（"Peninnah could not bear the blessing of fruitfulness"）；論哈拿的禱告：「她把眼淚和禱告混在一起。這不是一個乾枯的禱告：她痛痛地哭泣」（"She mingled tears with her prayers. It was not a dry prayer: she wept sore"）；論以利的誤判：「這是罪孽增多的一個惡果……它常常使人懷疑無辜的人」（"It is one bad effect of the abounding of iniquity...that it often gives occasion to suspect the innocent"）；論哈拿還願：「我已將他終身借給耶和華」（"I have lent him to the Lord as long as he liveth"）。
 — Matthew Henry, *Commentary on the Whole Bible*, 論撒母耳記上1章
 
 ### 當代釋經：約翰·麥克阿瑟 (John MacArthur)
 
-麥克阿瑟在講道中特別強調哈拿處理苦難的方式——她沒有向毗尼拿報復，也沒有向丈夫抱怨到底，而是直接把問題帶到神面前：「她向耶和華祈禱，痛痛地哭泣」（"She prayed unto the LORD and wept bitterly"）。麥克阿瑟指出，這正是一位敬虔母親（也是每一位敬虔信徒）在患難中的典範反應——不是向人發洩，而是向神傾訴。
+麥克阿瑟指出哈拿處理苦難的方式——不向毗尼拿報復，不向丈夫抱怨到底，而是直接帶到神面前：「她向耶和華祈禱，痛痛地哭泣」（"She prayed unto the LORD and wept bitterly"）；論還願的行動——「等孩子斷了奶，我便帶他上去朝見耶和華，使他永遠住在那裡」（"I will not go up until the child is weaned...that he may appear before the LORD and there abide forever"）——顯明哈拿真正的優先次序：照顧孩子直到斷奶，比立刻參與獻祭儀式更重要（講道原話含戲劇化口語轉述部分，非全句逐字引用經文；本段引號內文字均與講道逐字稿核對）。
+— John MacArthur, *How to Be a Godly Mother*，gty.org
 
-論到哈拿的誓願，麥克阿瑟在講道中如此描繪哈拿禱告的心思：主啊，我要許一個願，這是我的生命，求你記念我，把我所渴望的賜給我——一個男孩，我就要把他終身獻給耶和華（講道原話為戲劇化的口語轉述，非逐字引用經文；麥克阿瑟隨後緊接朗讀1:11經文本身）。這誓言最驚人之處，在於哈拿把「還沒有得著的」，預先完全交還給神——這不是一種討價還價，而是徹底的委身。
-
-論到哈拿還願的行動——「等孩子斷了奶，我便帶他上去朝見耶和華，使他永遠住在那裡」（"I will not go up until the child is weaned, and then I will bring him, that he may appear before the LORD and there abide forever"）——麥克阿瑟指出，這顯明哈拿真正的優先次序：照顧孩子直到斷奶，比立刻參與獻祭儀式更重要；而她最終的實踐——「我已將他終身借給耶和華」（"Therefore also I have lent him to the LORD. As long as he lives, he shall be lent to the LORD"）——證明了這不是遺棄孩子，而是真實的、完全的奉獻。
-— John MacArthur, *How to Be a Godly Mother*（論哈拿為敬虔母親的典範），gty.org
+本章與第2章下半（何弗尼、非尼哈的敗壞）發生在同一座聖殿：哈拿的眼淚是誠懇尋求神的眼淚，何弗尼、非尼哈卻是披著祭司外袍卻「不認識耶和華」的敗壞（2:12）。神的工作從不倚靠宗教建制的健康程度——祂能在一個祭司職分正在腐敗的年代，藉著一個婦人的眼淚，親手預備下一位帶領全書轉向的先知。
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-### 摩根：一個個人化、被聽見的禱告 (G. Campbell Morgan)
-
-摩根一系的解經傳統，慣常把撒母耳記上的開場，讀作全書「神聽見」這條主線最初、也最私密的示範。摩根雖然在他對撒母耳記的整體論述中，把焦點更多放在撒母耳作為「連結士師時代與君王時代的橋樑人物」（見〈01-1samuel-overview〉），但他一貫的解經進路——強調神的呼召與介入永遠是「個人性、關係性」的，而非抽象的宗教程序——同樣適用於哈拿的禱告：神沒有藉著某種儀式機制回應哈拿，而是「耶和華顧念哈拿」（1:19），這是一個關係性的動詞，如同神「顧念」撒拉、「眷念」拉結。哈拿的禱告蒙應允，不是因為她掌握了正確的禱告公式，而是因為那一位聽禱告的神，親自「顧念」了她（概述摩根一貫的解經立場，非逐字引用）。
-
-### 麥克阿瑟：真禱告勝過表演式敬虔 (John MacArthur)
-
-麥克阿瑟把哈拿的禱告與以利的誤判並列，指出這一幕揭示了一個歷世歷代教會都要面對的張力：外在宗教形式的守門人，有時候會誤判、甚至攔阻真正誠懇的敬虔。以利根據「聲音」判斷哈拿——沒有出聲，就被當作醉酒；哈拿卻根據「心」向神說話。麥克阿瑟強調，這正是後來16:7「耶和華是看內心」這一核心真理最早的示範場景：神看的，從來不是禱告的外在形式，而是禱告者心裡的真實光景。
-
-### 帳幕前的兩種眼淚：哈拿與何弗尼、非尼哈的對照
-
-撒母耳記上第一章與第二章下半（何弗尼、非尼哈的敗壞）在同一座聖殿裡發生，敘事者刻意把兩者並排：哈拿的眼淚是誠懇尋求神的眼淚；何弗尼、非尼哈的行為，卻是披著祭司外袍卻「不認識耶和華」的敗壞（2:12）。摩根一系解經傳統看重這種文學上的並置——同一個示羅、同一座聖殿，卻同時容納最真實的敬虔與最虛偽的宗教職分；麥克阿瑟一系解經傳統則常提醒讀者：神的工作從不倚靠宗教建制的健康程度，祂能在一個祭司職分正在腐敗的年代，藉著一個婦人的眼淚，親手預備下一位帶領全書轉向的先知。這提醒我們：神的百姓若要看見神的作為，不必等到整個體制被修復，只需要一顆願意傾心吐意、誠實禱告的心。
-
-### 黃長老查經：「求」與「聽」之間的橋樑 (Ask Elder Wong)
-
-**精義一句話**：哈拿的名字意思是「恩典」，撒母耳的名字意思是「神所聽見的」——這一整章，就是「恩典」向「聽禱告的神」傾心吐意，而神親自「聽見」並「顧念」的故事；你若只把這一章當作一個求子得子的家庭故事，你就錯過了它真正要指向的那一位——那位在你我還沒有開口之前，就已經「顧念」我們的神。
-
-黃長老常這樣提問：「哈拿的禱告沒有出聲，只動嘴唇——你覺得，神聽禱告，靠的是我們的聲音大小，還是我們心裡的真實？」——他指出，許多信徒把禱告的「果效」，錯誤地與禱告的「聲量」或「詞藻」掛鉤，卻忽略了哈拿這裡給的示範：「神看的是心，不是嘴」。「你自己的禱告生活，是像哈拿那樣，把整個真實的自己倒在神面前，還是像很多時候的我們，講一套漂亮的禱告詞，心卻沒有真正打開？」
-
----
-
-## 配詩 (Hymns & Psalms)
-
-### 聖詩：Come, Ye Disconsolate
-
-> **Come, Ye Disconsolate**
-> *Thomas Moore, 1816*
->
-> Come, ye disconsolate, where'er ye languish,
-> Come to the mercy seat, fervently kneel;
-> Here bring your wounded hearts, here tell your anguish;
-> Earth has no sorrow that heaven cannot heal.
-
-這首詩歌寫於十九世紀初，歌詞邀請一切「憂傷、無處可訴」的人，來到「施恩座」前跪下，「把你受傷的心帶來，把你的痛苦說出來」——這幾乎就是哈拿在示羅殿門前所做的事：她沒有向毗尼拿還擊，也沒有把苦水吞進肚裡假裝沒事，而是「痛痛哭泣，向耶和華祈禱」（1:10），把她「受傷的心」，如實地帶到神面前。「地上的憂傷，天上都能醫治」——這正是哈拿臉上愁容消退（1:18）之前，早已在心裡經歷的真理。
-
-### 詩篇：詩篇 113
+### 詩篇 113
 
 > 哈利路亞！耶和華的僕人哪，你們要讚美，讚美耶和華的名！
 > 耶和華的名是應當稱頌的，從今時直到永遠！
-> 從日出之地到日落之處，耶和華的名是應當讚美的！
-> 耶和華超乎萬國之上，他的榮耀高過諸天。
-> 誰像耶和華－我們的神呢？他坐在至高之處，
-> 自己謙卑，觀看天上地下的事。
 > 他從灰塵裏抬舉貧寒的人，從糞堆中提拔貧窮的人，
 > 使他們與貴族同坐，與本國的貴族同坐。
 > **他使不孕的婦女安居家中，成為快樂的母親，兒女成群。哈利路亞！**
 
-詩篇113篇是本章最貼切的伴讀詩篇——不只是因為它與哈拿即將在下一章所唱的頌歌（2:1-10）遙相呼應，更因為它最後一節，幾乎就是哈拿本人此刻正在經歷的事：「他使不孕的婦女安居家中，成為快樂的母親，兒女成群」（113:9）。這一句詩，彷彿是專為哈拿而寫——那位「耶和華不使她生育」的婦人（1:5-6），如今要成為「快樂的母親，兒女成群」（雖然本章只記一子，2:21還要記她後來又生了三子兩女）。詩篇113篇把哈拿個人的遭遇，提升到一個普世的屬靈宣告：那位「坐在至高之處」、「榮耀高過諸天」的神，卻甘願「自己謙卑，觀看天上地下的事」，親自俯身，眷顧一個灰塵中的貧寒人、一個不能生育的婦人。哈拿不是特例，她是神一貫作為的其中一個具體例證。
+詩篇113篇是本章最貼切的伴讀詩篇——最後一節幾乎就是哈拿正在經歷的事（113:9）：那位「坐在至高之處」的神，卻甘願「自己謙卑，觀看天上地下的事」，親自俯身眷顧一個灰塵中的貧寒人。哈拿不是特例，她是神一貫作為的其中一個具體例證。
+
+### Come, Ye Disconsolate
+
+這首詩歌邀請一切「憂傷、無處可訴」的人來到「施恩座」前跪下，「把你受傷的心帶來，把你的痛苦說出來」——這幾乎就是哈拿在示羅殿門前所做的事：她沒有向毗尼拿還擊，也沒有把苦水吞進肚裡假裝沒事，而是「痛痛哭泣，向耶和華祈禱」（1:10）。「地上的憂傷，天上都能醫治」——正是哈拿臉上愁容消退（1:18）之前，早已在心裡經歷的真理。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：哈拿的名字是「恩典」，撒母耳的名字是「神所聽見的」——這一整章，是「恩典」向「聽禱告的神」傾心吐意，神親自「聽見」並「顧念」的故事；神沒有等哈拿的家庭先健康、以利的祭司職分先聖潔，才開始動工——祂選擇聽見一個哭泣婦人的禱告，這是全書「神看內心，不看外貌」最早、最溫柔的一次示範。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-哈拿的故事往前連著一條長長的線索：撒拉、利百加、拉結、瑪挪亞的妻子——每一位都曾經歷子宮的「關閉」，每一位的「打開」都不是靠人的手段，而是靠神主權的介入。這條線索裡，特別值得留意的是士師記13章瑪挪亞的妻子：她所生的參孫，同樣是「拿細耳人」，「不用剃頭刀剃他的頭」（士13:5）與哈拿對撒母耳所許的誓言（撒上1:11）幾乎逐字相同。但這兩個「拿細耳人」的一生，卻走向了截然不同的方向：參孫，一個從出生就被分別為聖的士師，卻一次又一次把自己的分別為聖當作兒戲，最終在大利拉的膝上失去了頭髮，也失去了能力；撒母耳，同樣從出生就被分別為聖，卻終身持守這身分，成了「眾先知的開始」（徒3:24）。士師記與撒母耳記上刻意把這兩個拿細耳人並排在讀者眼前，彷彿在問：同樣蒙分別為聖的呼召，一個人如何一生持守，另一個人如何一生揮霍？
+**拿細耳線**：士13:5瑪挪亞的妻子論參孫「不用剃頭刀剃他的頭」，與撒上1:11哈拿論撒母耳的誓言幾乎逐字相同——但這兩個拿細耳人走向截然不同的結局：參孫一次又一次把分別為聖當作兒戲，最終失去頭髮也失去能力；撒母耳終身持守這身分，成了「眾先知的開始」（徒3:24）。
 
-這條線索往前一步，還連著一個更精巧的文字遊戲：1:20解釋撒母耳命名的動詞是「求」（שָׁאַל, sha'al），這個字根後來正正用在撒上8-10章百姓「求」一個王、神給他們一個名字也叫「被求來的」的掃羅（שָׁאוּל, Sha'ul）身上。同一個動詞「求」，一次出於一顆謙卑倚靠神的心，結果是撒母耳；一次出於一顆不願讓神作王的心，結果是掃羅。這提醒我們：問題不在於我們向神「求」什麼，而在於我們求的時候，心是順服，還是叛逆。
+**求與被求線**：1:20命名所用的動詞「求」（שָׁאַל）與後來掃羅（שָׁאוּל，「被求來的」）同一字根——同一個動詞，一次出於順服結果是撒母耳，一次出於悖逆結果是掃羅（詳見〈原文研讀〉）。
 
-這條線索往前一直連到路加福音1-2章：以利沙伯的不孕與哈拿的不孕，馬利亞的〈尊主頌〉與哈拿的頌歌（下一章要詳細處理），撒母耳「漸漸長大，耶和華與人越發喜愛他」（2:26）與耶穌「智慧和身量，並神和人喜愛他的心，都一齊增長」（路2:52）——路加刻意讓讀者在耶穌的降生故事裡，聽見撒母耳記上開場的回聲。神在士師時代的黑暗盡頭，藉一個哭泣婦人的禱告，開始了撒母耳的故事；祂在羅馬統治下猶太民族最黑暗的年代，藉另一群卑微、被邊緣化的人的禱告與盼望，開始了那更大的故事——彌賽亞的降生。
+**回聲入福音線**：路加福音刻意讓耶穌降生的敘事回響本章——「孩子撒母耳漸漸長大，耶和華與人越發喜愛他」（2:26）對照「耶穌的智慧和身量，並神和人喜愛他的心，都一齊增長」（路2:52）；哈拿的頌歌（下一章）預告馬利亞的〈尊主頌〉；以利沙伯的不孕、馬利亞「從未出嫁」的不可能，都是哈拿故事這條線最終被推到極致的終點。
 
 ### 提問式對話 (Let the Reader Speak)
 
-哈拿多年沒有孩子，卻仍然「每年」上示羅禱告（1:7）——如果你有一個多年未蒙應允的祈求，你還在「每年」帶著它來到神面前嗎，還是你已經悄悄停止了？以利誤會哈拿是醉酒——你有沒有經歷過，你最真實的敬虔時刻，卻被身邊的人（甚至教會裡的人）誤解成別的東西？那時你如何回應？哈拿許願說「我必使他終身歸給耶和華」——在你手中，有沒有一樣本來就是神所賜、你卻在不知不覺中，當作自己私有財產、緊抓不放的東西？
+- 先問：「哈拿多年沒有孩子，卻仍然『每年』上示羅禱告（1:7）——如果你有一個多年未蒙應允的祈求，你還在『每年』帶著它來到神面前嗎，還是已經悄悄停止了？」
+- 再問：「以利誤會哈拿是醉酒——你有沒有經歷過，你最真實的敬虔時刻，卻被身邊的人誤解成別的東西？那時你如何回應？」
+- 追問：「哈拿的禱告沒有出聲，只動嘴唇——神聽禱告，靠的是我們的聲量，還是我們心裡的真實？」
+- 落到自己：「哈拿許願說『我必使他終身歸給耶和華』——在你手中，有沒有一樣本來就是神所賜、你卻在不知不覺中緊抓不放的東西？」
 
 ### 活在今天．AI時代 (Living It Today)
 
-這個世代擅長把一切「延遲」都當作問題來解決：生育科技、數據分析、演算法推薦——每一樣都在告訴我們：只要找到正確的方法、投入足夠的資源，等待就可以被縮短，甚至被取消。但哈拿的禱告示範了一種截然不同的姿態：她沒有尋求任何「解決方案」，她把無法解決的痛苦，原封不動地帶到神面前，然後安靜等候——甚至在答案還沒有臨到之前，她已經「臉上不再帶愁容」（1:18）。今天我們很容易把「禱告」窄化成「向神下單，然後追蹤配送進度」；哈拿卻示範了：真正的禱告，是把整個未解決的處境交託出去，然後在交託之後，仍舊可以安心吃飯、安心生活——不是因為問題解決了，而是因為那位聽禱告的神，已經真正聽見了。另外，哈拿的禱告是「只動嘴唇，不出聲音」（1:13）——在一個習慣把每一個禱告請求、每一次禱告蒙應允都公開發佈、尋求按讚與回應的時代，哈拿的禱告提醒我們：最深的禱告，常常是那不需要任何人看見、只有神知道的禱告（參太6:6「你禱告的時候，要進你的內屋，關上門，禱告你在暗中的父」）。
+這個世代擅長把一切「延遲」當作問題來解決：生育科技、數據分析、演算法推薦——都在告訴我們，只要方法對了、資源夠了，等待就可以被縮短甚至取消。但哈拿沒有尋求任何「解決方案」，她把無法解決的痛苦原封不動帶到神面前，然後安靜等候——在答案臨到之前，已經「臉上不再帶愁容」（1:18）。哈拿的禱告是「只動嘴唇，不出聲音」（1:13）——在一個習慣把每一次禱告蒙應允都公開發佈、尋求回應的時代，這提醒我們：最深的禱告，常常是那不需要任何人看見、只有神知道的禱告（太6:6）。
 
 ### 今天的祭壇 (Today's Altar)
 
-具體行動：找出一件你「多年未蒙應允、卻已經悄悄不再提起」的祈求，或是一樣「本來是神所賜、卻被你當作自己私有物」的東西——今天效法哈拿，用安靜、真實、不必出聲給人聽見的禱告，把它重新、完整地交還在神面前，然後像哈拿那樣，帶著平安回去過今天的日子，不等問題解決，先讓心得著安息。
+- **早晨**：把一件「多年未蒙應允、卻已悄悄不再提起」的祈求，安靜帶到神面前。
+- **晚上**：省察——今天我有沒有一件「本來是神所賜、卻被我當作自己私有物」的東西？
+- **一個行動**：效法哈拿，用不必出聲給人聽見的禱告，把它完整交還在神面前，然後帶著平安去過今天的日子，不等問題解決，先讓心得著安息。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-哈拿的名字是「恩典」，她所求來、又還給神的兒子，名字是「神所聽見的」——這一整章，從頭到尾都在說一件事：真實的禱告，不在乎聲音大小、辭藻多寡，而在乎那顆願意把自己完全倒出來、又願意把所得的完全交還的心。神沒有等哈拿的家庭先變得健康、等以利的祭司職分先變得聖潔，才開始動工——祂在破碎的婚姻、被誤判的敬虔、腐敗的宗教體制之中，選擇聽見、並回應一個哭泣婦人的禱告。這正是全書即將展開的那條大線索——神看的是內心，不是外貌；神聽的是真實，不是表演——最早、也最溫柔的一次示範。
+**你看見耶穌了嗎**：哈拿把所求來的原封不動交還，基督卻把自己的生命親自捨去；哈拿只能用言語許願，那一位卻用身體成全了「我父愛我，因我將命捨去，好再取回來……這是我從我父所受的命令」（約10:17-18）的應許。你今天的禱告，是在向這一位傾心吐意嗎？
 
 ---
 
@@ -279,44 +210,31 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **傾心吐意**：哈拿的禱告「只動嘴唇，不出聲音」，卻是全書最真實的一次禱告。我的禱告生活，更像哈拿的傾心吐意，還是更像一套習慣性的宗教語言？
-
-2. **把所求的交還**：哈拿在還沒有得著孩子之前，就已經決定要把他完全交還給神。我生命裡，有沒有一樣神所賜的恩典或才幹，我從未想過要「交還」，只想著「保留」？
-
-3. **被誤解的敬虔**：以利誤會哈拿喝醉了。當我的真實信仰被人誤解、甚至被教會中人誤判，我如何回應——是放棄真實，還是像哈拿一樣，平靜地澄清，卻不改變禱告的方式？
-
-4. **平安先於應驗**：哈拿在應允臨到之前，臉上已經不再帶愁容。我是否只有在「問題解決」之後才願意有平安，還是我願意在交託之後，就先領受神所賜出人意外的平安？
+1. **一夫多妻的破碎**：神為甚麼選擇在以利加拿這樣一個並不完美的家庭裡動工，而不是等家庭先修復好？
+2. **被誤解的敬虔**：當我的真實信仰被人誤解，甚至被教會中人誤判，我如何回應——是放棄真實，還是像哈拿一樣平靜澄清，卻不改變禱告的方式？
+3. **交還而非保留**：我生命裡，有沒有一樣神所賜的恩典或才幹，我從未想過要「交還」，只想著「保留」？
 
 ### 禱告回應
 
 > 聽禱告的主，
 > 你是那位在哈拿還沒有開口之先，就已經顧念她的神。
-> 求你也顧念我心裡那些多年未蒙應允、
-> 甚至已經悄悄停止提起的祈求。
-> 教我學習哈拿的禱告——
-> 不在乎聲音，只在乎真實；
-> 不求人的理解，只求你的垂聽。
-> 求你光照我，讓我看見手中緊抓不放、
-> 卻本來就是你所賜的一切，
-> 使我甘心把它們完全交還給你。
-> 求你賜下那出人意外的平安，
-> 使我不必等到問題解決，
-> 就能安然吃喝，安然度日。
+> 求你也顧念我心裡那些多年未蒙應允、甚至已經悄悄停止提起的祈求。
+> 教我學習哈拿的禱告——不在乎聲音，只在乎真實；不求人的理解，只求你的垂聽。
+> 求你光照我，讓我看見手中緊抓不放、卻本來就是你所賜的一切，使我甘心把它們完全交還給你。
 > 奉主耶穌基督的名禱告，阿們。
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 經文兩次強調「耶和華不使哈拿生育」（1:5-6）。這樣直白的說法，對我認識神的主權有什麼提醒？
-
-2. 以利加拿的家庭是一夫多妻，充滿張力。神為什麼選擇在這樣一個並不完美的家庭裡動工，而不是等家庭先修復好？
-
-3. 哈拿說：「我只是在耶和華面前傾吐我的心意」（1:15）。這句話如何定義了真正的禱告？
-
-4. 哈拿在孩子出生之前，就已經許願要把他「終身歸給耶和華」。這種「先交還、後得著」的順序，對我理解「奉獻」這件事有什麼挑戰？
-
-5. 撒母耳記上第一章與第二章下半，同時記載了哈拿的真誠禱告與以利兩個兒子的敗壞。這種並置對我認識「神如何在腐敗的體制中仍然動工」有什麼幫助？
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 關閉的子宮，神主權介入 | 1:5-6, 19-20 | 創11:30、25:21、30:1-2、士13:2-3、路1:7,24 |
+| 拿細耳人誓言 | 1:11 | 民6:1-5、士13:5、士16:17 |
+| 傾心吐意的禱告 | 1:15 | 詩42:4、哀2:19、腓4:6-7 |
+| 求與被求的雙關 | 1:20 | 撒上8:10、9:2、9:17 |
+| 神看內心（伏筆） | — | 撒上13:14、16:7 |
+| 孩子獻給神事奉 | 1:28 | 路1:80、2:22-24, 52 |
 
 ---
 

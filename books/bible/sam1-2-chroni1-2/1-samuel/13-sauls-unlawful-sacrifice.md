@@ -10,15 +10,36 @@ publisher: 三書精讀出版系統
 
 撒母耳記上 13:1-23
 
-**經文核對**：[ai-eden.com/bible/1-samuel/13](https://www.ai-eden.com/bible/1-samuel/13?t=CUV,ESV&cols=2)
+**經文核對**：[ai-eden.com/bible/1-samuel/13](https://www.ai-eden.com/bible/1-samuel/13?t=CUV,NASB&cols=2)
 
 ---
 
 ## 基督焦點 (Christ at the Center)
 
-撒母耳記上13章的軸心，是一句撒母耳早已交代過的話：「等七日，等我到你那裏，指示你當行的事」（撒上10:8）。這不是掃羅臨場才聽見的規矩，是他受膏那一天就領受的條件。七日的等候，是神為掃羅的王權所定的第一堂功課——你的王位不是靠自己的手掌握時間，而是靠等候那位掌管時間的神。掃羅在第七日還沒過完之前就自己動手，正正撕毀了這第一堂功課。耶穌基督一生最鮮明的印記之一，正是祂從不提前奪取自己的時候。祂在迦拿婚宴對母親說：「我的時候還沒有到」（約2:4）；祂在弟兄催逼祂上耶路撒冷時說：「我的時候還沒有到，你們的時候常是方便的」（約7:6）；直到最後晚餐前，經上才說：「耶穌知道自己離世歸父的時候到了」（約13:1）。祂在客西馬尼園裏所做的，正是掃羅在吉甲所沒有做的：「然而，不要照我的意思，只要照你的意思」（太26:39）。掃羅用自己的手去搶奪撒母耳遲延所帶來的空隙；耶穌卻在最深的恐懼裏，把自己的意思全然交還給父的時間表。
+> **本章鑰詞：等候 Waiting**（13:8「掃羅照著撒母耳所定的日期等了七日」；耶穌一生「我的時候還沒有到」約2:4、7:6、13:1）\
+> **座標**：掃羅時代（8-15章）之半程——王已受膏，卻在第一次真正的等候考驗上失敗，啟示的次序在此轉向：人手所立的王守不住等候的功課，神必另立一位合祂心意的人（見卷首〈啟示的次序〉）\
+> （全書三部結構見〈概覽〉：撒母耳時代／掃羅時代／大衛興起）
 
-更深一層，掃羅的罪不只是「等不及」，是「越權」——他不是祭司，卻獻上了燔祭。以色列的體制裏，君王與祭司的職分是分開的，正是要提醒百姓：沒有一個人可以同時手握權柄又手握祭壇，因為那樣的合一，唯有一位能無罪地承擔。希伯來書論到耶穌：「按麥基洗德的等次成為大祭司，直到永遠」（來5:6,10；來7章）——祂是唯一一位真正合法地同時是王又是祭司的那位，因為祂的雙重職分不是自己奪取，而是神起誓親自立定的（來7:20-21）。掃羅奪取了他無權承擔的祭壇，斷送了自己的王朝；耶穌承受了祂本有權柄承擔的祭壇（十字架），成全了一個永不斷絕的國度。撒母耳最後對掃羅所宣告的：「耶和華已經尋著一個合他心意的人」（13:14），眼前所指是大衛，但這句話真正的終點，要等到那位「凡事討他父親喜悅」（約8:29）、心志與父完全合一的那一位顯現，才算真正應驗。
+撒母耳記上13章的軸心，是一句撒母耳早已交代過的話：「等七日，等我到你那裏，指示你當行的事」（撒上10:8）。這不是掃羅臨場才聽見的規矩，是他受膏那一天就領受的條件；他在第七日還沒過完之前就自己動手，正正撕毀了這第一堂功課。耶穌基督一生最鮮明的印記之一，正是祂從不提前奪取自己的時候：祂在迦拿婚宴對母親說「我的時候還沒有到」（約2:4），在弟兄催逼祂上耶路撒冷時說「我的時候還沒有到」（約7:6），直到最後晚餐前，經上才說「耶穌知道自己離世歸父的時候到了」（約13:1）；祂在客西馬尼園裏所做的，正是掃羅在吉甲所沒有做的：「然而，不要照我的意思，只要照你的意思」（太26:39）。掃羅用自己的手去搶奪撒母耳遲延所帶來的空隙；耶穌卻在最深的恐懼裏，把自己的意思全然交還給父的時間表。
+
+更深一層，掃羅的罪不只是「等不及」，是「越權」——他不是祭司，卻獻上了燔祭。以色列的體制裏，君王與祭司的職分是分開的，唯有一位能無罪地承擔這雙重身分。希伯來書論到耶穌：「按麥基洗德的等次成為大祭司，直到永遠」（來5:6,10；來7章）——祂是唯一一位真正合法地同時是王又是祭司的那位，因為祂的雙重職分不是自己奪取，而是神起誓親自立定的（來7:20-21）。掃羅奪取了他無權承擔的祭壇，斷送了自己的王朝；耶穌承受了祂本有權柄承擔的祭壇（十字架），成全了一個永不斷絕的國度。撒母耳最後的宣告——「耶和華已經尋著一個合他心意的人」（13:14）——眼前所指是大衛，但這句話真正的終點，要等到那位「凡事討他父親喜悅」（約8:29）的那一位顯現，才算真正應驗。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Have Thine Own Way, Lord!**
+> *Adelaide A. Pollard, 1902*
+>
+> Have Thine own way, Lord! Have Thine own way!
+> Thou art the Potter, I am the clay.
+> Mould me and make me after Thy will,
+> While I am waiting, yielded and still.
+>
+> 主啊，照你的心意而行！照你的心意而行！
+> 你是窯匠，我是陶土；
+> 求你按你的旨意塑造陶造我，
+> 當我等候，願降服，且安靜。
 
 ---
 
@@ -38,19 +59,19 @@ publisher: 三書精讀出版系統
 
 > ^19^那時，以色列全地沒有一個鐵匠；因為非利士人說，恐怕希伯來人製造刀槍。^20^以色列人要磨鋤、犁、斧、鏟，就下到非利士人那裏去磨。^21^但有銼可以銼鏟、犁、三齒叉、斧子，並趕牛錐。^22^所以到了爭戰的日子，跟隨掃羅和約拿單的人沒有一個手裏有刀有槍的，惟獨掃羅和他兒子約拿單有。^23^非利士人的一隊防兵到了密抹的隘口。
 
-### English — ESV
+### English — NASB
 
-> ^1^Saul lived for one year and then became king, and when he had reigned for two years over Israel, ^2^Saul chose three thousand men of Israel. Two thousand were with Saul in Michmash and the hill country of Bethel, and a thousand were with Jonathan in Gibeah of Benjamin. The rest of the people he sent home, every man to his tent. ^3^Jonathan defeated the garrison of the Philistines that was at Geba, and the Philistines heard of it. And Saul blew the trumpet throughout all the land, saying, "Let the Hebrews hear." ^4^And all Israel heard it said that Saul had defeated the garrison of the Philistines, and also that Israel had become a stench to the Philistines. And the people were called out to join Saul at Gilgal.
+> ^1^Saul was *thirty* years old when he began to reign, and he reigned *forty* two years over Israel. ^2^Now Saul chose for himself 3,000 men of Israel, of which 2,000 were with Saul in Michmash and in the hill country of Bethel, while 1,000 were with Jonathan at Gibeah of Benjamin. But he sent away the rest of the people, each to his tent. ^3^Jonathan smote the garrison of the Philistines that was in Geba, and the Philistines heard of *it.* Then Saul blew the trumpet throughout the land, saying, "Let the Hebrews hear." ^4^All Israel heard the news that Saul had smitten the garrison of the Philistines, and also that Israel had become odious to the Philistines. The people were then summoned to Saul at Gilgal.
 
-> ^5^And the Philistines mustered to fight with Israel, thirty thousand chariots and six thousand horsemen and troops like the sand on the seashore in multitude. They came up and encamped in Michmash, to the east of Beth-aven. ^6^When the men of Israel saw that they were in trouble (for the people were hard pressed), the people hid themselves in caves and in holes and in rocks and in tombs and in cisterns, ^7^and some Hebrews crossed the fords of the Jordan to the land of Gad and Gilead. Saul was still at Gilgal, and all the people followed him trembling.
+> ^5^Now the Philistines assembled to fight with Israel, 30,000 chariots and 6,000 horsemen, and people like the sand which is on the seashore in abundance; and they came up and camped in Michmash, east of Beth-aven. ^6^When the men of Israel saw that they were in a strait (for the people were hard-pressed), then the people hid themselves in caves, in thickets, in cliffs, in cellars, and in pits. ^7^Also *some of* the Hebrews crossed the Jordan into the land of Gad and Gilead. But as for Saul, he *was* still in Gilgal, and all the people followed him trembling.
 
-> ^8^He waited seven days, the time appointed by Samuel. But Samuel did not come to Gilgal, and the people were scattering from him. ^9^So Saul said, "Bring the burnt offering here to me, and the peace offerings." And he offered the burnt offering.
+> ^8^Now he waited seven days, according to the appointed time set by Samuel, but Samuel did not come to Gilgal; and the people were scattering from him. ^9^So Saul said, "Bring to me the burnt offering and the peace offerings." And he offered the burnt offering.
 
-> ^10^As soon as he had finished offering the burnt offering, behold, Samuel came. And Saul went out to meet him and greet him. ^11^Samuel said, "What have you done?" And Saul said, "When I saw that the people were scattering from me, and that you did not come within the days appointed, and that the Philistines had mustered at Michmash, ^12^I said, 'Now the Philistines will come down against me at Gilgal, and I have not sought the favor of the LORD.' So I forced myself, and offered the burnt offering." ^13^And Samuel said to Saul, "You have done foolishly. You have not kept the command of the LORD your God, with which he commanded you. For then the LORD would have established your kingdom over Israel forever. ^14^But now your kingdom shall not continue. The LORD has sought out a man after his own heart, and the LORD has commanded him to be prince over his people, because you have not kept what the LORD commanded you."
+> ^10^As soon as he finished offering the burnt offering, behold, Samuel came; and Saul went out to meet him *and* to greet him. ^11^But Samuel said, "What have you done?" And Saul said, "Because I saw that the people were scattering from me, and that you did not come within the appointed days, and that the Philistines were assembling at Michmash, ^12^therefore I said, 'Now the Philistines will come down against me at Gilgal, and I have not asked the favor of the LORD.' So I forced myself and offered the burnt offering." ^13^Samuel said to Saul, "You have acted foolishly; you have not kept the commandment of the LORD your God, which He commanded you, for now the LORD would have established your kingdom over Israel forever. ^14^But now your kingdom shall not endure. The LORD has sought out for Himself a man after His own heart, and the LORD has appointed him as ruler over His people, because you have not kept what the LORD commanded you."
 
-> ^15^And Samuel arose and went up from Gilgal. The rest of the people went up after Saul to meet the army; they went up from Gilgal to Gibeah of Benjamin. And Saul numbered the people who were present with him, about six hundred men. ^16^And Saul and Jonathan his son and the people who were present with them stayed in Geba of Benjamin, but the Philistines encamped in Michmash. ^17^And raiders came out of the camp of the Philistines in three companies. One company turned toward Ophrah, to the land of Shual; ^18^another company turned toward Beth-horon; and another company turned toward the border that looks down on the Valley of Zeboim toward the wilderness.
+> ^15^Then Samuel arose and went up from Gilgal to Gibeah of Benjamin. And Saul numbered the people who were present with him, about six hundred men. ^16^Now Saul and his son Jonathan and the people who were present with them were staying in Geba of Benjamin while the Philistines camped at Michmash. ^17^And the raiders came from the camp of the Philistines in three companies: one company turned toward Ophrah, to the land of Shual, ^18^and another company turned toward Beth-horon, and another company turned toward the border which overlooks the valley of Zeboim toward the wilderness.
 
-> ^19^Now there was no blacksmith to be found throughout all the land of Israel, for the Philistines said, "Lest the Hebrews make themselves swords or spears." ^20^But every one of the Israelites went down to the Philistines to sharpen his plowshare, his mattock, his axe, or his sickle, ^21^and the charge was two-thirds of a shekel for the plowshares and for the mattocks, and a third of a shekel for sharpening the axes and for setting the goads. ^22^So on the day of the battle there was neither sword nor spear found in the hand of any of the people with Saul and Jonathan, but Saul and Jonathan his son had them. ^23^And the garrison of the Philistines went out to the pass of Michmash.
+> ^19^Now no blacksmith could be found in all the land of Israel, for the Philistines said, "Otherwise the Hebrews will make swords or spears." ^20^So all Israel went down to the Philistines, each to sharpen his plowshare, his mattock, his axe, and his hoe. ^21^The charge was two-thirds of a shekel for the plowshares, the mattocks, the forks, and the axes, and to fix the hoes. ^22^So it came about on the day of battle that neither sword nor spear was found in the hands of any of the people who *were* with Saul and Jonathan, but they were found with Saul and his son Jonathan. ^23^And the garrison of the Philistines went out to the pass of Michmash.
 
 ---
 
@@ -58,7 +79,7 @@ publisher: 三書精讀出版系統
 
 ### 歷史背景
 
-撒母耳記上13章記載掃羅作王之後的第一場真正考驗，時間約在主前1042年，掃羅登基之後不久。希伯來原文13:1的字面意思相當殘缺——「掃羅作王×歲，作王二歲」，數字在馬索拉抄本中已經模糊或脫落，這是舊約中著名的經文疑難之一：不同古代譯本與傳統各自填補了這個空白（古老的和合本依循較早的傳統，補入「四十歲」；英文標準譯本ESV則保留了希伯來原文近乎直譯而語意費解的樣式，並在旁註說明原文有殘缺）。這個細節本身提醒我們一件事：撒母耳記的作者並不特別在意讓我們知道掃羅活了多久、統治了多精確的年數——作者真正關心的，是掃羅這個人的心，而不是他的年表。
+撒母耳記上13章記載掃羅作王之後的第一場真正考驗，時間約在主前1042年，掃羅登基之後不久。希伯來原文13:1的字面意思相當殘缺——「掃羅作王×歲，作王二歲」，數字在馬索拉抄本中已經模糊或脫落，這是舊約中著名的經文疑難之一：不同古代譯本與傳統各自填補了這個空白（古老的和合本依循較早的傳統，補入「四十歲」；英文NASB則用斜體標出「三十」與「四十」，標明這兩處數字都是譯者按傳統所補、原文此處確實殘缺）。這個細節本身提醒我們一件事：撒母耳記的作者並不特別在意讓我們知道掃羅活了多久、統治了多精確的年數——作者真正關心的，是掃羅這個人的心，而不是他的年表。
 
 這場考驗發生的地點是吉甲。這個名字對讀過約書亞記的人絕不陌生：以色列人過約但河後，第一個紮營之處就是吉甲（書4:19），在那裏他們立起十二塊石頭作記念（書4:20），在那裏新一代的男子受割禮、「把埃及的羞辱從你們身上滾去了」（書5:9），也在那裏守了進迦南後第一個逾越節（書5:10）。吉甲是以色列脫離曠野漂流、正式進入應許、與神立約重新開始的地方。更近的一層：掃羅自己也是在吉甲被立為王的——基列雅比之戰得勝後，「眾百姓就到吉甲那裏，在耶和華面前立掃羅為王……掃羅和以色列眾人大大歡喜」（撒上11:15）；撒母耳的告別辭（12章）同樣是在吉甲宣讀的。換句話說，13章掃羅擅自獻祭的失敗，不是發生在隨便一個陌生的戰場，而是發生在他一生最風光加冕的同一個地方。吉甲從「立約與加冕之地」變成了「悖逆與失位之地」，這個地理上的重疊，本身就是敘事者無聲的評語。
 
@@ -91,51 +112,39 @@ publisher: 三書精讀出版系統
 
 ### 「勉強」（וַיִּתְאַפַּק）——與約瑟相反方向的自制
 
-13:12「我就勉強獻上燔祭」，原文וָאֶתְאַפַּק，是「自我克制、強迫自己」的反身語態。這個字並不常見，整本舊約用同一詞根寫下最鮮明畫面的，其實是約瑟：他見到便雅憫，「情不能自禁」，「就急忙尋找可哭的地方」（創43:30-31，「他就出去哭，回來又勉強隱忍」）；再一次，在向弟兄們表明身份之前，「約瑟在左右站着的人面前不能自禁，就吩咐一切人都出去……約瑟哭得甚大聲」（創45:1，原文同一動詞「不能自禁/勉強」）。約瑟兩次的「勉強」，是把自己的情感強壓下去，為要等候神所定、最合適的時刻才行動——他的克制服事了神的時間表。掃羅的「勉強」卻恰恰相反：他不是把衝動壓下去等候，而是把等候壓下去，強迫自己動手打破神所定的時間表。同一個希伯來字根，被用在兩個完全相反的方向上——一個是「勉強自己繼續等」，一個是「勉強自己不再等」。這正是這一章最深的諷刺所在。
+13:12「我就勉強獻上燔祭」，原文וָאֶתְאַפַּק，是「自我克制、強迫自己」的反身語態。整本舊約用同一詞根寫下最鮮明畫面的，其實是約瑟：他見到便雅憫「情不能自禁」，「就急忙尋找可哭的地方」（創43:30-31）；再一次，在向弟兄們表明身份之前，「約瑟在左右站著的人面前不能自禁……哭得甚大聲」（創45:1，原文同一動詞）。約瑟兩次的「勉強」，是把情感強壓下去，等候神所定最合適的時刻才行動；掃羅的「勉強」卻恰恰相反——他不是把衝動壓下去等候，而是把等候壓下去，強迫自己打破神所定的時間表。同一個字根，一個是「勉強自己繼續等」，一個是「勉強自己不再等」，這正是這一章最深的諷刺所在。
 
 ### 「糊塗事」（נִסְכָּלְתָּ）——掃羅與大衛，同一個字，兩種回應
 
-撒母耳對掃羅的判詞「你做了糊塗事了」（13:13），原文נִסְכָּלְתָּ，來自詞根סכל，意思是「行事愚頑、失去分辨」。耐人尋味的是，多年之後，大衛因數點百姓犯罪，良心自責，向神說的話用的正是同一個詞根：「我行這事大有罪了……我所行的甚是愚昧」（撒下24:10，נִסְכַּלְתִּי מְאֹד，「我大大地行了愚頑的事」）。兩位王，用同一個字承認同一類失敗——但他們的回應截然不同：掃羅被撒母耳當面指控之後，第一反應是解釋、辯護、把責任推給百姓和時機（13:11-12；後來在15:24再度說「因為我懼怕百姓，聽了他們的話」）；大衛卻是不等別人指控，自己先俯伏認罪：「耶和華啊，求你除掉僕人的罪孽，因我所行的甚是愚昧」（撒下24:10）。13:14「耶和華已經尋著一個合他心意的人」，如今就着這個對照看得更清楚：神揀選大衛，不是因為大衛從不「愚頑」，而是因為他愚頑之後懂得認罪，而不是辯解。
+撒母耳對掃羅的判詞「你做了糊塗事了」（13:13），原文נִסְכָּלְתָּ，來自詞根סכל，意思是「行事愚頑、失去分辨」。耐人尋味的是，多年之後，大衛因數點百姓犯罪，向神說的話用的正是同一個詞根：「我所行的甚是愚昧」（撒下24:10，נִסְכַּלְתִּי מְאֹד）。兩位王用同一個字承認同一類失敗，回應卻截然不同：掃羅被指控後第一反應是解釋、辯護、把責任推給百姓和時機（13:11-12；15:24再度說「因為我懼怕百姓」）；大衛卻不等別人指控，自己先俯伏認罪：「耶和華啊，求你除掉僕人的罪孽」（撒下24:10）。13:14「耶和華已經尋著一個合他心意的人」，如今就著這個對照看得更清楚：神揀選大衛，不是因為他從不「愚頑」，而是因為他愚頑之後懂得認罪，而不是辯解。
 
 ### 「君」（נָגִיד）而非「王」（מֶלֶךְ）——尚未加冕、已蒙指定
 
-13:14描述神所尋著的那人，用的字是נָגִיד（nagid，「君、被指定的領袖」），不是מֶלֶךְ（melek，「王」）。這個用字上的分別意味深長：此刻大衛還沒有出生、還未受膏、還未登基，他甚至還不是一個「王」——他只是神已經「指定」、卻尚未顯明的那一位。這個字後來也出現在亞比該對大衛說的話裏：「耶和華必為我主建立堅固的家……耶和華已經立我主作以色列的君」（撒上25:28,30）——同一個字，貫串着大衛從被指定到真正登基之間漫長的等候歲月。這提醒我們：神的應許常常先以「指定」的形式臨到，中間隔着一段等候的曠野，才走到「登基」的那一天。
+13:14描述神所尋著的那人，用的字是נָגִיד（nagid，「君、被指定的領袖」），不是מֶלֶךְ（melek，「王」）——此刻大衛還沒有出生、還未受膏、還未登基，他只是神已經「指定」、卻尚未顯明的那一位。這個字後來也出現在亞比該對大衛說的話裏：「耶和華已經立我主作以色列的君」（撒上25:28,30）——同一個字，貫串著大衛從被指定到真正登基之間漫長的等候歲月，提醒我們：神的應許常常先以「指定」的形式臨到，中間隔著一段等候的曠野，才走到「登基」的那一天。
 
 ### 「七日」（שֶׁבַע יָמִים）——不是臨場的規矩，是早已知道的條件
 
-13:8「掃羅照著撒母耳所定的日期等了七日」，這個「七日」的期限並非本章才突然出現——早在撒母耳私下膏立掃羅為王的那一天，就已經交代清楚：「你當在我以先下到吉甲，我也必下到你那裏獻燔祭和平安祭。你要等七日，等我到你那裏，指示你當行的事」（撒上10:8）。這意味着掃羅的失敗，不是一時被逼到牆角、毫無準備的失手，而是違背一條他早在受膏那天就已經知道、並且承諾要遵守的具體條件。神給掃羅的考驗，從第一天起就已經寫明規則；掃羅只是在真正的壓力臨到時，選擇了不遵守自己早已知道的規則。
+13:8「掃羅照著撒母耳所定的日期等了七日」，這個期限並非本章才突然出現——早在撒母耳私下膏立掃羅為王那天，就已經交代清楚（10:8）。這意味著掃羅的失敗，不是一時被逼到牆角的失手，而是違背一條他早在受膏那天就已經知道、並且承諾要遵守的具體條件。神給掃羅的考驗，從第一天起就已經寫明規則；掃羅只是在真正的壓力臨到時，選擇了不遵守自己早已知道的規則。
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
 ### 1. 懼怕人，超過敬畏神
 
-掃羅自己說出了失敗的根源，雖然他自己未必意識到：「我見百姓離開我散去……我就勉強獻上燔祭」（13:11-12）。他所懼怕的，不是非利士人的三萬輛戰車，而是自己身邊的軍隊正在瓦解。他寧可冒犯神所定的規矩，也不願意冒犯眼前正在散去的百姓的期待。這是掃羅一生反覆出現的模式——15章他同樣說：「因為我懼怕百姓，聽了他們的話」（15:24）。一個以「讓人滿意」為中心的領袖，遲早要在「讓神滿意」和「讓人滿意」之間做出選擇；而掃羅每一次都選擇了前者，用宗教行動包裝這個選擇，讓它看起來像是敬虔，其實核心只是懼怕。
+掃羅自己說出了失敗的根源：「我見百姓離開我散去……我就勉強獻上燔祭」（13:11-12）。他所懼怕的，不是非利士人的三萬輛戰車，而是自己身邊的軍隊正在瓦解；他寧可冒犯神所定的規矩，也不願意冒犯眼前正在散去的百姓。這是掃羅一生反覆出現的模式——15章他同樣說：「因為我懼怕百姓，聽了他們的話」（15:24）。然而13:15清楚記載，撒母耳離開之後，「掃羅數點跟隨他的，約有六百人」——他用悖逆換來的軍心，最終仍舊散去了大半。用不信靠神的方法去避免自己所懼怕的結果，往往仍舊迎來那個結果，只是還多加上了神的審判。
 
-### 2. 三層藉口疊起來的自辯
+### 2. 用宗教語言包裝的悖逆
 
-仔細讀掃羅對撒母耳的回答（13:11-12），會發現這不是一句衝口而出的話，而是一套精心排列的三段論：「我見百姓離開我散去」（客觀處境）→「你也不照所定的日期來到」（把責任推到撒母耳身上）→「非利士人聚集在密抹」（外部威脅逼在眼前）——三個理由排列整齊，聽起來完全合情合理，任何一個明理的人聽了都會點頭。這正是這段記載最讓人不安的地方：掃羅的悖逆，並不是一個顯而易見的惡行，而是一套邏輯嚴密、聽起來無可指摘的自辯。真正的悖逆極少穿著「顯然邪惡」的外衣出場，它幾乎總是穿著「情有可原」的外衣。
+仔細讀掃羅對撒母耳的回答（13:11-12），會發現這是一套精心排列的三段論：「我見百姓離開我散去」（客觀處境）→「你也不照所定的日期來到」（把責任推給撒母耳）→「非利士人聚集在密抹」（外部威脅逼在眼前）——三個理由排列整齊，任何明理的人聽了都會點頭。他還把這一切包裝成對神的關切：「恐怕我沒有禱告耶和華……我就勉強獻上燔祭」（13:12）。撒母耳一針見血地拆穿這層包裝：「你做了糊塗事了，沒有遵守耶和華你神所吩咐你的命令」（13:13）。掃羅並非公然拒絕獻祭——他獻上的燔祭與平安祭合乎律法規定，從外表看都「像」是敬虔的行動；問題是他篡奪了不屬於他的職分，並打破了神所定的時限。悖逆極少穿著「顯然邪惡」的外衣出場，它幾乎總是穿著「情有可原」、甚至「敬虔」的外衣——「做神所吩咐的事，卻按自己的方式、自己的時間去做」，比公然的悖逆更難被自己察覺。
 
-### 3. 用宗教語言包裝悖逆
+### 3. 「合神心意」不是無罪，而是心的方向
 
-掃羅要求「把燔祭和平安祭帶到我這裏來」，還特別解釋：「我心裏說，恐怕我沒有禱告耶和華……我就勉強獻上燔祭」（13:12）。他把自己的悖逆，包裝成對神的關切——彷彿他這麼做，是因為太看重與神的關係，怕來不及獻祭求告神的恩眷。這是一種極其細緻的屬靈自欺：外在的宗教行動，被用來掩蓋內在真正的問題——不信靠神所定的時間表，不願意在看不見結果的時候繼續等候。撒母耳一針見血地拆穿這層包裝：「你做了糊塗事了，沒有遵守耶和華你神所吩咐你的命令」（13:13）。獻祭本身不是問題，掃羅獻祭的動機和時機才是問題。
+13:14第一次出現「耶和華已經尋著一個合他心意的人」，指向大衛——這句話極易被誤讀成「大衛是個完美無罪的人」，但撒母耳記下11-12章清楚記載大衛姦淫拔示巴、設計害死烏利亞的滔天大罪。「合神心意」從來不是指一個人從不犯錯，而是指這人心的方向，最終轉向神、順服神、在犯錯後懇切悔改（詩51篇正是大衛在這樣的失敗之後所寫）。掃羅和大衛都會犯罪，兩人的分別不在於誰犯的罪比較少，而在於：一個用藉口把自己的罪合理化，一個把自己的罪帶到神面前求赦免。
 
-### 4. 部分順服，等於不順服
-
-掃羅並非完全不信神，也並非完全不敬虔——他確實獻上了燔祭與平安祭，這是合乎律法規定的兩種祭。從外表看，他做的一切都「像」是敬虔的行動。真正的問題，是他篡奪了不屬於他的職分（獻祭本是祭司的事），並且打破了神所定的時限。這正是撒母耳記反覆要指出的模式：悖逆很少是「完全不做神所吩咐的事」，更多時候是「做神所吩咐的事，卻按自己的方式、自己的時間去做」。這種「部分順服」比起公然的悖逆更難被自己察覺，因為它披著順服的外衣。
-
-### 5. 「合神心意」不是無罪，而是心的方向
-
-13:14第一次出現「耶和華已經尋著一個合他心意的人」，指向的是大衛。這句話極易被誤讀成「大衛是個完美無罪的人」——但撒母耳記下11-12章清楚記載大衛姦淫拔示巴、設計害死烏利亞的滔天大罪。「合神心意」從來不是指一個人從不犯錯，而是指這人的心，最終的方向是轉向神、順服神、在犯錯後懇切悔改（詩51篇正是大衛在這樣的失敗之後所寫）。掃羅和大衛都會犯罪，兩人的分別不在於誰犯的罪比較少，而在於：一個用藉口把自己的罪合理化，一個把自己的罪帶到神面前求赦免。
-
-### 6. 吉甲：從加冕之地到失敗之地
+### 4. 吉甲：從加冕之地到失敗之地
 
 11:15，全以色列曾在吉甲「大大歡喜」，慶祝掃羅登基；13章，同樣是吉甲，掃羅卻在此聽見「你的王位必不長久」的判決。神最偉大的祝福臨到之地，往往也是最嚴厲考驗發生之地——不是因為神善變，而是因為蒙福之後，真正的信心才受到真正的試驗。若掃羅在最風光的加冕地上，都無法在壓力之下繼續倚靠神，這已經預告了他日後在戰場、在王宮、在面對大衛時，會如何一再重演同樣的模式。
-
-### 7. 掃羅所懼怕的，最終仍臨到他
-
-掃羅懼怕「百姓離開我散去」，於是擅自獻祭想留住軍心；然而13:15清楚記載，撒母耳離開之後，「掃羅數點跟隨他的，約有六百人」——原本聚集的大軍，最終還是散去了大半。掃羅用悖逆去換取的東西，最終並沒有真正得着。這是聖經裏一再出現的屬靈定律：用不信靠神的方法去避免自己所懼怕的結果，往往仍舊迎來那個結果，只是還多加上了神的審判。
 
 ---
 
@@ -157,88 +166,57 @@ publisher: 三書精讀出版系統
 > 中譯：「掃羅決定篡奪祭司的職分。他偏離了神所定規的敬拜方式，這最終使他的後裔失去了王位。」
 > — John MacArthur, "The Deadly Consequences of Deviant Worship"，gty.org，2022年4月29日
 
-麥克阿瑟強調，這段記載要教導的不只是「掃羅等得不夠久」，而是一個更根本的原則：神看重敬拜的「方式」，不只是敬拜的「誠意」。掃羅未必沒有誠意——他甚至自稱是「恐怕沒有禱告耶和華」才勉強獻祭——但誠意不能取代神所定規的次序與職分。無論環境多麼緊迫、理由聽起來多麼合理，篡奪神所設立的職分本身，就是對神主權的冒犯。
+麥克阿瑟強調，這段記載要教導的不只是「掃羅等得不夠久」，而是一個更根本的原則：神看重敬拜的「方式」，不只是敬拜的「誠意」。無論環境多麼緊迫、理由聽起來多麼合理，篡奪神所設立的職分本身，就是對神主權的冒犯——這個原則貫穿整本聖經：該隱的祭（創4章）、烏撒扶約櫃（撒下6章）、可拉一黨擅自燒香（民16章），全都指向同一件事：敬拜的權柄與方式是神設立的，不是人可以自行調整的。
 
 **乾伯·摩根 (G. Campbell Morgan)**：
 
-摩根一系對掃羅的整體評語，是把他看作一個天然恩賜出眾、卻始終未曾真正把自己交在神手中降服的悲劇人物——這個評語在13章這裏第一次得到具體印證。掃羅有軍事的膽識（他曾在基列雅比大捷），有百姓的擁戴，唯獨缺少那一件事：在壓力之下仍然把自己的意志降服在神所定的時間與界線之下。13章正是這齣悲劇正式揭幕的一幕：不是缺乏才幹的人失敗了，而是滿有才幹、卻從未真正降服的人失敗了。（參 G. Campbell Morgan, *An Exposition of the Whole Bible*，論撒母耳記上一段整體評述；此處為摩根解經傳統的概括轉述，非逐字引文）
+摩根一系對掃羅的整體評語，是把他看作一個天然恩賜出眾、卻始終未曾真正把自己交在神手中降服的悲劇人物——這個評語在13章這裏第一次得到具體印證。掃羅有軍事的膽識，有百姓的擁戴，唯獨缺少那一件事：在壓力之下仍然把自己的意志降服在神所定的時間與界線之下。13章正是這齣悲劇正式揭幕的一幕：不是缺乏才幹的人失敗了，而是滿有才幹、卻從未真正降服的人失敗了。（參 G. Campbell Morgan, *An Exposition of the Whole Bible*，論撒母耳記上一段整體評述；此處為摩根解經傳統的概括轉述，非逐字引文）
 
 ---
 
-## 三大資源深度整合 (Deep Integration: Three Core Resources)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-### 摩根：悲劇的第一幕 (G. Campbell Morgan)
-
-摩根一系的解經傳統把撒母耳記上8-15章看作一齣完整的悲劇，而13章正是這齣悲劇正式揭幕的一幕。掃羅登基之初，一切外在條件都對他有利：身材、家世、初期的軍事勝利、百姓的歡呼。但摩根提醒讀者：真正決定一個人結局的，從來不是他起頭時擁有什麼，而是他在壓力臨到時，把自己的意志交給誰。13章的七日等候，正是神為掃羅預備的第一個「降服的測驗」，而他沒有通過。
-
-### 麥克阿瑟：敬拜的代價 (John MacArthur)
-
-麥克阿瑟把這一章放在「敬拜」這個更大的框架下解讀：神看重的不只是敬拜的對象，也看重敬拜的方式與次序。掃羅的燔祭，表面上是敬虔的行動，內裏卻是對神所定次序的篡奪。麥克阿瑟指出，這個原則貫穿整本聖經——該隱的祭（創4章）、烏撒扶約櫃（撒下6章）、可拉一黨擅自燒香（民16章），全都指向同一件事：人不能按自己認為合宜的方式來敬拜神，敬拜的權柄與方式，是神設立的，不是人可以自行調整的。
-
-### 綜合：等候與擅自而行 (Waiting versus Presumption)
-
-把摩根與麥克阿瑟的角度合起來看，會發現13章其實提出了一個貫串全書、也貫串每個信徒生命的問題：當神的時間表和眼前的壓力互相衝突時，你會等候，還是會擅自而行？掃羅的失敗不是一時的軟弱，而是他一貫模式的第一次公開暴露——這個模式後來在15章（留下亞甲王）、在18-26章（追殺大衛）不斷重演。等候需要信心，因為等候意味著在看不到結果之前，仍然相信那位掌管時間的神是信實的；擅自而行則是用行動宣告：我對眼前處境的判斷，比神所定的次序更可靠。
-
-### 黃長老查經：「合神心意」不是一次性的資格，是一生的方向 (Ask Elder Wong)
-
-**精義一句話**：掃羅和大衛都會跌倒，分別不在於誰跌得少，而在於跌倒之後，一個人用嘴辯解，一個人用膝蓋認罪——「合神心意」從來不是指一個人從未失敗，是指這人的心，一生的方向都轉向神。
-
-黃長老常這樣提問：「你讀13章掃羅的三個理由——百姓散了、撒母耳遲到、非利士人逼近——你覺得他說的有沒有道理？」他會等你說「有道理」，然後才問：「但神在意的，是這件事有沒有道理，還是這件事有沒有遵行神已經吩咐的話？你生命裏，有沒有一件『很有道理』的事，其實是你用道理包裝起來的不順服？」
-
-黃長老指出，這一章最容易被忽略的，是13:8那個「七日」——這不是掃羅臨場才知道的規矩，是他受膏那天神早已交代好的條件（10:8）。「你有沒有想過：神給你的功課，往往不是突如其來的考題，而是你早已知道、卻在真正壓力臨到時才顯露出來的功課？你现在生命裏，有沒有一條神早已吩咐、你也早已知道、卻還沒有真正遵守的話？」
-
-**你看見耶穌了嗎？** 掃羅在七日將盡時，用自己的手搶奪了神的時間；耶穌在客西馬尼園裏，在遠比七日更沉重的壓力之下，卻把自己的意思全然交還給父：「不要照我的意思，只要照你的意思」。掃羅奪取了他無權承擔的祭壇；耶穌承受了祂本有權柄承擔的十字架。透過這一章，你看見的，不只是一個失敗的王，更是那位從未奪取自己時候、卻甘願等候到父所定時刻的真正的王——耶穌基督。
-
----
-
-## 配詩 (Hymns & Psalms)
-
-### 聖詩：Have Thine Own Way, Lord
-
-> **Have Thine Own Way, Lord!**
-> *Adelaide A. Pollard, 1902*
->
-> Have Thine own way, Lord! Have Thine own way!
-> Thou art the Potter, I am the clay.
-> Mould me and make me after Thy will,
-> While I am waiting, yielded and still.
-
-阿德蕾德·波拉德（Adelaide Pollard）寫這首詩歌的背景，正正對應著掃羅的失敗：她原本計劃前往非洲宣教，卻因為籌不到旅費，計劃一再擱置。就在她心灰意冷、幾乎要放棄的時候，她參加了一次禱告會，聽見一位年老的婦人禱告說：「主啊，沒關係，只求你按自己的心意在我們的生命裏做工就好」（"It's alright, Father; just have your own way with our lives"）。波拉德深受觸動，回家後寫下了這首詩歌。這首詩歌誕生的處境，正是「計劃受阻、時候未到、心裏焦急」——而波拉德所選擇的回應，恰恰是掃羅在吉甲所沒有做的：不是自己動手促成，而是把自己交在窯匠手中，「當我等候，願降服，且安靜」。
-
-### 詩篇：詩篇 27:13-14
+### 詩篇 27:13-14
 
 > 我若不信在活人之地得見耶和華的恩惠，就早已喪膽了。
 > 要等候耶和華！當壯膽，堅固你的心！我再說，要等候耶和華！
 
-詩篇27篇的結尾，正是撒母耳記上13章掃羅所缺乏的那句話——「要等候耶和華」在原文重複了兩次，彷彿詩人深知：這句勸勉需要一再對自己重申，因為等候從來不是一次性的決定，而是每天、每個壓力臨到的時刻都要重新做出的選擇。掃羅在吉甲面對的，正是這節經文所描述的處境——士兵四散、強敵壓境、應許遲遲未見——而他選擇了不等候。從波拉德「願降服，且安靜」的個人禱告，到詩篇27篇「要等候耶和華」的呼喊，兩首詩最終指向的，是那位在最深的壓力之下仍然完全降服於父的旨意、從不提前奪取自己時候的耶穌基督。
+詩篇27篇的結尾，正是撒母耳記上13章掃羅所缺乏的那句話——「要等候耶和華」在原文重複了兩次，彷彿詩人深知：這句勸勉需要一再對自己重申，因為等候從來不是一次性的決定，而是每天、每個壓力臨到的時刻都要重新做出的選擇。掃羅在吉甲面對的，正是這節經文所描述的處境——士兵四散、強敵壓境、應許遲遲未見——而他選擇了不等候。
+
+### Have Thine Own Way, Lord
+
+阿德蕾德·波拉德（Adelaide Pollard）寫這首詩歌的背景，正正對應著掃羅的失敗：她原本計劃前往非洲宣教，卻因為籌不到旅費，計劃一再擱置。就在她心灰意冷、幾乎要放棄的時候，她參加了一次禱告會，聽見一位年老的婦人禱告說：「主啊，沒關係，只求你按自己的心意在我們的生命裏做工就好」（"It's alright, Father; just have your own way with our lives"）。波拉德深受觸動，回家後寫下了這首詩歌。這首詩歌誕生的處境，正是「計劃受阻、時候未到、心裏焦急」——而波拉德所選擇的回應，恰恰是掃羅在吉甲所沒有做的：不是自己動手促成，而是把自己交在窯匠手中，「當我等候，願降服，且安靜」。從波拉德的禱告，到詩篇27篇「要等候耶和華」的呼喊，兩者最終指向的，是那位在最深的壓力之下仍然完全降服於父的旨意、從不提前奪取自己時候的耶穌基督。
 
 ---
 
-## 黃長老查經．深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：掃羅和大衛都會跌倒，分別不在於誰跌得少，而在於跌倒之後，一個人用嘴辯解，一個人用膝蓋認罪——「合神心意」從來不是指一個人從未失敗，是指這人的心，一生的方向都轉向神。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-撒母耳記上13章的「七日」，不是一個孤立的細節，而是連著一條貫串全書的伏線。10:8撒母耳早已把這個條件告訴掃羅；13:8這條件被試驗，掃羅失敗；到了15章，神明確吩咐「滅盡亞瑪力人所有的」，掃羅卻又一次按自己的判斷調整神的命令，留下亞甲王和上好的牲畜——這已經不是第一次，是同一個模式的第二次公開暴露。撒母耳在15:22給出的判詞——「聽命勝於獻祭，順從勝於公羊的脂油」——其實正是對13章那次「獻祭掩蓋悖逆」最精準的事後注腳：掃羅在13章用獻祭包裝了他不肯等候的不順服，撒母耳在15章終於把這個模式的名字說了出來。
+撒母耳記上13章的「七日」，不是一個孤立的細節，而是連著一條貫串全書的伏線。10:8撒母耳早已把這個條件告訴掃羅；13:8這條件被試驗，掃羅失敗；到了15章，神明確吩咐「滅盡亞瑪力人所有的」，掃羅卻又一次按自己的判斷調整神的命令，留下亞甲王和上好的牲畜——這已經不是第一次，是同一個模式的第二次公開暴露。撒母耳在15:22給出的判詞——「聽命勝於獻祭，順從勝於公羊的脂油」——其實正是對13章那次「獻祭掩蓋悖逆」最精準的事後注腳。
 
-把鏡頭拉得更遠，這條「等候與擅自而行」的伏線，最終匯流到曠野裏的大衛身上：大衛兩次有機會親手殺死掃羅（24章、26章），卻兩次拒絕：「我不敢伸手害耶和華的受膏者」（24:6,10；26:9-11）。大衛面對的處境，比掃羅在吉甲艱難得多——他不是等七日，是等了將近十五年，甚至有機會親手結束這場等候——但他選擇繼續等候神的時間，而不是用自己的手促成應許。掃羅和大衛，站在同一個十字路口：一個選擇「我來促成」，一個選擇「我來等候」。這條線最終的終點，是耶穌在客西馬尼園裏那句禱告——祂面對的，是比大衛的曠野、比掃羅的七日更深重百倍的壓力，卻依然選擇：「不要照我的意思，只要照你的意思」（太26:39）。從吉甲的七日，到曠野的十五年，到客西馬尼的那一夜，聖經反覆講的是同一堂功課：真正的王，是那位甘願等候父的時間、而不是奪取自己時候的那一位。
+把鏡頭拉得更遠，這條「等候與擅自而行」的伏線，最終匯流到曠野裏的大衛身上：大衛兩次有機會親手殺死掃羅（24章、26章），卻兩次拒絕：「我不敢伸手害耶和華的受膏者」（24:6,10；26:9-11）。大衛面對的處境比掃羅在吉甲艱難得多——他不是等七日，是等了將近十五年——卻選擇繼續等候神的時間，而不是用自己的手促成應許。這條線最終的終點，是耶穌在客西馬尼園裏那句禱告：「不要照我的意思，只要照你的意思」（太26:39）。從吉甲的七日，到曠野的十五年，到客西馬尼的那一夜，聖經反覆講的是同一堂功課：真正的王，是那位甘願等候父的時間、而不是奪取自己時候的那一位。
 
 ### 提問式對話 (Let the Reader Speak)
 
-掃羅在第七日快結束時，等不住了——如果撒母耳晚到的不是幾個小時，而是幾天，你覺得掃羅還會不會撐下去？換一個角度問：你生命裏那個「快到了，但還沒到」的處境，你現在是靠着信心繼續撐着，還是已經開始自己動手促成？掃羅把自己的悖逆包裝成「恐怕沒有禱告耶和華」——如果你誠實檢視自己最近一次「用合理理由包裝的決定」，那個理由背後，真正驅動你的，是敬畏神，還是懼怕人？
+- 先問：「掃羅在第七日快結束時等不住了——如果撒母耳晚到的不是幾個小時，而是幾天，你覺得他還撐得住嗎？」
+- 再問：「你生命裡那個『快到了，但還沒到』的處境，你現在是靠著信心繼續撐著，還是已經開始自己動手促成？」
+- 追問：「掃羅把自己的悖逆包裝成『恐怕沒有禱告耶和華』——你最近一次『用合理理由包裝的決定』，背後真正驅動你的，是敬畏神，還是懼怕人？」
+- 落到自己：「你生命裡，有沒有一件神早已吩咐、你也早已知道，卻還沒有真正遵守的話？」
 
 ### 活在今天．AI時代 (Living It Today)
 
-這個世代最不能忍受的，就是「不確定」和「延遲」。行事曆精準到分鐘，物流追蹤到公里，連禱告有沒有蒙應允，都有人想用數據和機率去推算。掃羅所面對的壓力——士兵在流失、時鐘在倒數、敵人在逼近——正是今天每一個決策者都無比熟悉的處境：資訊不完整、時間不夠用、身邊的人都在催促「現在就要做決定」。AI給了我們前所未有的速度——它能在幾秒內給出一個「聽起來合理」的答案，正如掃羅那三個聽起來完全合理的理由。但速度從來不是信心的替代品。真正的考驗，往往不是「你有沒有能力立刻行動」，而是「當你有能力立刻行動的時候，你願不願意仍然選擇等候」。
+這個世代最不能忍受的，就是「不確定」和「延遲」。行事曆精準到分鐘，物流追蹤到公里，連禱告有沒有蒙應允，都有人想用數據和機率去推算。掃羅所面對的壓力——士兵在流失、時鐘在倒數、敵人在逼近——正是今天每一個決策者都無比熟悉的處境。AI給了我們前所未有的速度——它能在幾秒內給出一個「聽起來合理」的答案，正如掃羅那三個聽起來完全合理的理由。但速度從來不是信心的替代品。真正的考驗，往往不是「你有沒有能力立刻行動」，而是「當你有能力立刻行動的時候，你願不願意仍然選擇等候」。
 
 ### 今天的祭壇 (Today's Altar)
 
-具體行動：找出你生命中一個「因為等不到答案、看不到結果，所以已經開始自己動手促成」的處境——可能是一段關係、一個決定、一次禱告。今天誠實地把這件事帶到神面前，效法詩篇27篇的禱告：「要等候耶和華，當壯膽，堅固你的心」——不是消極的什麼都不做，而是像大衛在洞穴裏那樣，繼續禱告、繼續倚靠，卻不用自己的手去搶奪那還沒到的時候。
+- **早晨**：找出你生命中一個「因為等不到答案、看不到結果，所以已經開始自己動手促成」的處境，安靜帶到神面前。
+- **晚上**：省察——今天有沒有一個決定，是用「聽起來很有道理」的理由，包裝了不肯等候神的悖逆？
+- **一個行動**：效法詩篇27篇的禱告：「要等候耶和華，當壯膽，堅固你的心」——不是消極的什麼都不做，而是像大衛在洞穴裏那樣，繼續禱告、繼續倚靠，卻不用自己的手去搶奪那還沒到的時候。
 
----
-
-## 黃長老精義 (The Distilled Key)
-
-掃羅的失敗，起於一句聽起來完全合情合理的自辯：「我見百姓離開我散去……我就勉強獻上燔祭」；但撒母耳一句話拆穿了這一切包裝：「你做了糊塗事了，沒有遵守耶和華你神所吩咐你的命令」。這一章要教我們的，不是「不可以獻祭」，而是「不可以用敬虔的外表，去掩蓋不肯等候神時間的心」。神在13:14第一次說出「合他心意的人」，指向的不是一個從不犯錯的人，而是一個心的方向始終轉向神、願意悔改而不是辯解的人——而這一切，最終要在那位從未奪取自己時候、甘願等候到父所定時刻的耶穌基督身上，才得着完全的成就。
+**你看見耶穌了嗎**：掃羅在七日將盡時，用自己的手搶奪了神的時間；耶穌在客西馬尼園裏，在遠比七日更沉重的壓力之下，卻把自己的意思全然交還給父：「不要照我的意思，只要照你的意思」。掃羅奪取了他無權承擔的祭壇；耶穌承受了祂本有權柄承擔的十字架。透過這一章，你看見的，不只是一個失敗的王，更是那位從未奪取自己時候、卻甘願等候到父所定時刻的真正的王——耶穌基督。
 
 ---
 
@@ -246,13 +224,9 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **等候的考驗**：掃羅「等到第七日，卻沒有耐性等到第七日結束」。我生命中有沒有一個「幾乎等到了，卻在最後一刻放棄」的處境？
-
-2. **合理的藉口**：掃羅的三個理由聽起來完全合情合理。我最近有沒有用一個「聽起來很有道理」的理由，包裝了一個其實不順服神的決定？
-
-3. **懼怕人多過敬畏神**：掃羅懼怕百姓散去，多過敬畏神的命令。在我的生活裏，誰的聲音、誰的期待，正在左右我對神該不該順服的判斷？
-
-4. **跌倒之後的回應**：掃羅被指控時選擇辯解，大衛犯罪後選擇認罪。當我被光照出自己的失敗，我的第一反應是辯解，還是俯伏？
+1. **合理的藉口**：掃羅的三個理由聽起來完全合情合理。我最近有沒有用一個「聽起來很有道理」的理由，包裝了一個其實不順服神的決定？
+2. **懼怕人多過敬畏神**：掃羅懼怕百姓散去，多過敬畏神的命令。在我的生活裏，誰的聲音、誰的期待，正在左右我對神該不該順服的判斷？
+3. **跌倒之後的回應**：掃羅被指控時選擇辯解，大衛犯罪後選擇認罪。當我被光照出自己的失敗，我的第一反應是辯解，還是俯伏？
 
 ### 禱告回應
 
@@ -270,18 +244,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 反思問題 (Reflection Questions)
+## 與其他經文的關聯
 
-1. 神為什麼要透過「七日的等候」來考驗掃羅？這個考驗揭示了掃羅心裏什麼樣的光景？
-
-2. 掃羅的三個自辯理由（13:11-12）聽起來都合情合理，這對我們今天分辨「合理的解釋」和「屬靈的悖逆」有什麼提醒？
-
-3. 「耶和華已經尋著一個合他心意的人」（13:14）——這句話的重點是大衛完美無罪，還是大衛心的方向？我們如何從撒母耳記下11-12章大衛的失敗來理解這句話？
-
-4. 掃羅在吉甲——他登基歡慶之地——遭遇他第一次公開的失敗，這個地理上的重疊，對「蒙福之後更需要謹慎」有什麼提醒？
-
-5. 撒母耳記上13章和15章，掃羅兩次用宗教語言（「要獻給耶和華」）包裝自己的不順服。今天的信徒，有沒有可能也用類似的方式，把不順服包裝成敬虔？
-
----
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 七日的條件，早已交代 | 13:8 | 撒上10:8 |
+| 同一模式再現：擅自調整神的命令 | 13:9-13 | 撒上15:9,22-24 |
+| 等候而非奪取：大衛的曠野歲月 | — | 撒上24:6,10；26:9-11 |
+| 合神心意：認罪而非辯解 | 13:14 | 撒下24:10；詩51篇 |
+| 王與祭司分立，終在基督合一 | 13:9 | 來5:6,10；7:20-21 |
+| 不提前奪取自己的時候 | — | 約2:4；7:6；13:1；太26:39 |
 
 *本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
