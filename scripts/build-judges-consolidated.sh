@@ -22,6 +22,14 @@ echo ""
 
 mkdir -p "$OUTPUT_DIR"
 
+# 98-appendix-indices.md's two generated tables carry a note saying they are
+# built from the chapter files at build time. That note was false until these
+# generators were wired in here (same gap as build-job-consolidated.sh once had).
+echo "🔄 Regenerating indices from chapter sources..."
+python3 "$SCRIPT_DIR/gen-judges-scripture-index.py" --write || exit 1
+python3 "$SCRIPT_DIR/gen-judges-theme-index.py" --write || exit 1
+echo ""
+
 cat > "$COMBINED_MD" << 'HEADER'
 ---
 title: "士師記研讀"
@@ -43,12 +51,6 @@ copyright: |
   • **Matthew Henry ／ Albert Barnes** 等公有領域注疏 — 補足前二者未涵蓋之章節
     （見卷末《附錄：引用出處總表》逐章說明）
 
-  **一圈一圈往下墮落的循環，每一圈都喊著：以色列需要一位真正的王**
-
-  導論：光景與循環 (1-2章) | 俄陀聶·以笏·珊迦 (3章) | 底波拉與巴拉 (4-5章) |
-  基甸 (6-8章) | 亞比米勒與小士師 (9-10章) | 耶弗他 (11-12章) | 參孫 (13-16章) |
-  米迦的偶像與但支派 (17-18章) | 利未人之妾與便雅憫的內戰 (19-21章)
-
   **經文版權聲明 (Scripture Copyright Notices)**
 
   本版為教會內部贈閱版（非賣品）；公開發行時另行申請 ISBN。
@@ -58,8 +60,6 @@ copyright: |
   Scripture quotations marked (NASB) are from the NEW AMERICAN STANDARD
   BIBLE®, Copyright © 1960, 1962, 1963, 1968, 1971, 1972, 1973, 1975, 1977,
   1995 by The Lockman Foundation. Used by permission. www.Lockman.org.
-  All rights reserved.
-
   All rights reserved.
 ---
 
@@ -204,6 +204,10 @@ done
 add_volume "卷末 · 沒有王，直到真王 (No King, Until the True King)" \
     "士師記從「沒有王」開篇的呼聲，走到「各人任意而行」的結局——這聲呼求，要等到那位萬王之王親自回答。"
 add_front "$INPUT_DIR/99-no-king-but-you.md"
+
+# 附錄：引用出處總表——每一章都承諾「見卷末《附錄：引用出處總表》」，
+# 這份檔案卻從未被加進建置腳本；書目先於索引，是出版慣例（見約伯記第七輪）。
+add_front "$INPUT_DIR/99-appendix-references.md"
 
 # 附錄：經文與主題索引——跨書經文索引由 scripts/gen-judges-scripture-index.py
 # 於原始檔案自動生成，見該檔案與 98-appendix-indices.md 內的說明。

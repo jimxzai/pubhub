@@ -23,7 +23,7 @@ publisher: 三書精讀出版系統
 **來源**：archive.org 識別碼 `analyzedbible01morg`，全文純文字：
 `https://archive.org/download/analyzedbible01morg/analyzedbible01morg_djvu.txt`（士師記部分約第 4614-5012 行）
 
-這是摩根論士師記**僅有的文字**——一篇約三千五百字的結構性總覽（分「約書亞之後的光景」「士師的時期（七次沉淪）」「附錄」三段），並非像他論路加福音、約翰福音那樣逐節逐章的深度講解。**19 章（19、20、21 例外，見下方現況表）直接引用了這篇總覽裡的段落**，多數以「摩根對某段的論述綜述如下」的方式轉述，並在能夠找到完整原句之處，以引號逐字引用（例如「So let all Thine enemies perish, O Lord」「the iron had entered his soul」等）。**19、20、21 三章共享同一段落**（利未人事件與便雅憫內戰，是摩根「附錄」段落的收尾部分），這是摩根原文本身的敘事安排，不是本書重複貼上同一段落充數。
+這是摩根論士師記**僅有的文字**——一篇約三千五百字的結構性總覽（分「約書亞之後的光景」「士師的時期（七次沉淪）」「附錄」三段），並非像他論路加福音、約翰福音那樣逐節逐章的深度講解。**19 章（19、20、21 例外，見下方現況表）直接引用了這篇總覽裏的段落**，多數以「摩根對某段的論述綜述如下」的方式轉述，並在能夠找到完整原句之處，以引號逐字引用（例如「So let all Thine enemies perish, O Lord」「the iron had entered his soul」等）。**19、20、21 三章共享同一段落**（利未人事件與便雅憫內戰，是摩根「附錄」段落的收尾部分），這是摩根原文本身的敘事安排，不是本書重複貼上同一段落充數。
 
 **已知的 OCR 掃描件雜訊**：這份 1907 年出版品的掃描全文純文字檔含有大量頁碼、頁眉插入單字中間的雜訊（例如「Sham[頁眉：deliverances 105]gar」須讀作「Shamgar」；「ac[換行]count」須讀作「account」；「no bil[換行]ity」須讀作「nobility」；「follow^ed」須讀作「followed」；「un[換行]instructed」的「Un-」前綴脫落須依上下文補回「Uninstructed」）。各章逐字引用時，均已將這類明顯的 OCR 斷詞、頁碼插入還原為正常英文單字，未增刪原意——這與約伯記卷附錄記載的同類現象（頁邊經文號插入句中）性質相同。`scripts/verify-citations.py --source analyzedbible01morg 全文` 對這些位置會回報 DRIFT／MISS（因為它比對的是未清洗的 OCR 原始字元），已逐一人工核對，確認每一處都是**清洗掃描雜訊、非改寫原意**。
 
@@ -65,13 +65,13 @@ publisher: 三書精讀出版系統
 
 - **中文**：和合本 (CUV)，全書 21 章以 `https://bible.fhl.net/new/read.php?VERSION1=unv&...` 逐章下載並解析為結構化文字（此為 ai-eden.com 在本書寫作期間遭遇速率限制、多代理並行下無法穩定取用時的既定備援來源，見 `.claude/skills/eat-bible/references/scripture-sources.md` 的備援鏈說明）。所有經文引用均由此單一權威來源逐章預先核對後，分發給各章撰寫者，未由撰寫者各自臨時抓取，以避免版本不一致。
 - **English**：NASB 1995，全書 21 章以 `https://biblehub.com/nasb/judges/{章}.htm` 逐章下載並解析。
-- **`scripts/lint-scripture-text.py` 現況**：59 筆「裡／裏」風格候選（因採用 bible.fhl.net 之 unv 版本，該版本一致採「裡」）、1 筆「做」字待覆核候選（1:28「做苦工」，已核對來源與 fhl.net 一致，確認無誤）。這與約伯記卷（13筆）、使徒行傳卷（22筆）呈現同一類「風格候選，非錯字」的基線現象，非本書特有問題。
+- **「裡→裏」全書統一**：初稿因採用 bible.fhl.net 之 unv 版本，59 處「裡」字風格候選（該來源一致採「裡」）。經查 [[project_style_policy]]（2026-07-30 與作者議定之全書出版政策）第2條「全書統一『裏』（非裡）」，此為已定案之全庫用字政策，非個別待查的 CUV 版本分歧，已全書（含經文區塊、注疏引句中譯、正文）批次改為「裏」，改後 `lint-scripture-text.py` 「裡」相關候選歸零。1 筆「做」字 review 候選（1:28「做苦工」）已核對來源與 fhl.net 一致，確認無誤，此類（做／作）CUV 本身混用，不適用「裏」的全庫統一政策，維持原字不動。
 
 ## 六、機器逐字核對現況（2026-09-05）
 
-- **`scripts/verify-citations.py --source analyzedbible01morg`**：19 章含摩根引句，7 條 OK、7 條 DRIFT、3 條 MISS。逐條人工核對全部 DRIFT／MISS，確認均為 OCR 掃描雜訊清洗（見上方「一」的說明），非改寫原意；2 條教父引句（Augustine I.21）機器核對 OK。
+- **`scripts/verify-citations.py --source analyzedbible01morg`**：19 章含摩根引句，7 條 OK、7 條 DRIFT、3 條 MISS。逐條人工核對全部 DRIFT／MISS，確認均為 OCR 掃描雜訊清洗（見上方「一」的說明），非改寫原意。
+- **`scripts/verify-citations.py --source <教父四篇合併全文>`**：**4 條教父引句全數機器核對 OK**——Augustine, *City of God* Book I Ch. 21（11、16章共用）、Book XVIII Ch. 15（4章，來源：`newadvent.org/fathers/120118.htm`）、*Quaestiones in Heptateuchum* Book VII Q. 16（2章，來源：`sanctushieronymus.blogspot.com` 對拉丁原文的轉錄）。三份原始文本全文已下載並存檔於 `docs/sources/judges-patristic/`，供日後重跑機器核對。
 - **`scripts/verify-sermon-quotes.py`**：20 條 MacArthur 引句，經一輪修正後**全部 20 條 OK**（見上方「三」）。
-- **`scripts/lint-chapter-markup.py`**：全書 28 個檔案，clean，無 raw-macro、重複標題、懸空引用等缺陷。
+- **`scripts/lint-chapter-markup.py`**：全書 30 個檔案，clean，無 raw-macro、重複標題、懸空引用等缺陷。
 - **`scripts/lint-templates.sh judges`**：clean，無模板層級缺陷。
-
-**尚未完成之項目**：奧古斯丁《上帝之城》XVIII.15（4章）與《七書問題集》VII.16（2章）兩條引句，未在本地保存原始文本供機器核對，僅以 WebSearch 交叉核對確認其真實存在與內容準確；建議日後有機會時下載完整原始文本並補做機器核對，目前以人工核對結果為準。
+- **`scripts/check-book-spine.py`**：四項全清（骨幹章、九卷分卷扉頁 9/9、各章座標行 21/21、章末回到基督 21/21）。
