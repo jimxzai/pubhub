@@ -1,0 +1,847 @@
+% PubHub Romans Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Songti SC}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
+\newfontfamily\cjkfallbackfont{Songti SC}
+
+%% Classical English typeface — auto-switch for Latin-script runs so
+%% bilingual scripture/quote blocks render in a period-appropriate serif
+%% instead of Songti SC's built-in Latin glyphs. Baskerville for running
+%% text; Didot reserved for large display lines (invoked explicitly).
+\newfontfamily\basklatin{Baskerville}
+\newfontfamily\didotfont{Didot}
+% Alias matching the naming convention used on the full-bleed cover pages
+\newcommand{\baskervillefont}{\basklatin}
+%% ucharclasses — full block coverage via \setTransitionTo.
+%%
+%% Two traps this replaces (see .claude/skills/eat-bible/references/gotchas.md):
+%%  1. \setTransitionsFor{Greek} is a no-op — "Greek" is a class GROUP; the
+%%     block is GreekAndCoptic. Basic Greek silently used the main font.
+%%  2. \setTransitionsFor sets BOTH directions for every pair, so a later
+%%     declaration's out-code overwrites an earlier one's in-code. Symptom:
+%%     a Greek/Hebrew run preceded by CJK or full-width punctuation (：、。）
+%%     does not switch font — silently, since the main font carries basic
+%%     Greek glyphs.
+%%
+%% \setTransitionTo sets the ENTERING direction only, so nothing can clobber
+%% anything. It removes the leaving-code, which is why every block this book
+%% uses must be listed: an unlisted block inherits the previous font.
+%% Block list derived from a census of this book's own markdown sources.
+%%
+%% \latinrun keeps the main font's own Latin glyphs — upright text is
+%% unchanged — but adds a real italic, which \setmainfont cannot supply
+%% because its ItalicFont is Kaiti SC, a brush face whose Latin glyphs are
+%% UPRIGHT. Without this every italicised work title renders as roman.
+%% \uckeep carries series/shape across the boundary; a bare \newfontfamily
+%% switch resets both and drops \emph / \textbf mid-run.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{SpacingModifierLetters}{\ucCJKRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Galatians Theme (Burgundy/Gold, Broken Chains)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - "freedom from bondage" theme: deep wine/burgundy (the
+% cross, Gal 3:13 "cursed") + aged brass (the same gold family used across
+% this series' Pauline volumes, macro names kept for cross-template compatibility)
+\definecolor{ChapterBlue}{RGB}{110,24,32}         % Deep burgundy — Galatians theme (macro name kept for compatibility)
+\definecolor{ScriptureGold}{RGB}{155,120,60}      % Aged brass for scripture refs / ornaments
+\definecolor{CommentaryBrown}{RGB}{58,52,48}      % Warm charcoal for commentary, tuned to sit with burgundy
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{248,249,252}       % Cool cream for scripture boxes
+\definecolor{GreekBg}{RGB}{245,246,251}           % Faint blue-grey for Greek
+\definecolor{ApplicationBg}{RGB}{246,248,250}     % Light slate for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Diagram colors
+\definecolor{OldCovenantRed}{RGB}{150,40,40}      % Warning / conflict
+\definecolor{NewCovenantGreen}{RGB}{70,110,70}    % Grace / growth
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{pgfornament}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Classical printer's-ornament divider: thin rule — fleuron — thin rule,
+% for a more antique-book feel.
+\newcommand{\ornamentdivider}[1][2in]{%
+  {\color{ScriptureGold}\rule{#1}{0.4pt}}\hspace{0.15cm}%
+  \raisebox{-0.22cm}{\pgfornament[width=0.5cm,color=ScriptureGold]{88}}%
+  \hspace{0.15cm}{\color{ScriptureGold}\rule{#1}{0.4pt}}%
+}
+
+% A single small fleuron (no rules), used standalone on the full-bleed
+% cover pages and the dedication/colophon pages.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.55cm,color=#1]{88}%
+}
+
+% Classical double-rule (hairline) frame — replaces solid fcolorbox fills
+% with a manuscript/antique-book-plate style surround.
+\newcommand{\classicalframe}[1]{%
+\begin{tikzpicture}
+  \node[fill=ScriptureBg,inner sep=14pt] (box) {#1};
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-3pt,-3pt)$$) rectangle ($$(box.north east)+(3pt,3pt)$$);
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-6pt,-6pt)$$) rectangle ($$(box.north east)+(6pt,6pt)$$);
+\end{tikzpicture}%
+}
+
+% Laurel-wreath-and-cross symbol — two laurel branches curving inward
+% (echoing Roman imperial imagery and Romans 8:37 "more than conquerors")
+% with a small cross at the top center. Simple line-drawing style,
+% consistent with the file's other minimalist gold TikZ ornaments.
+\newcommand{\laurelcrosssymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  % small cross at top center
+  \draw[color=ScriptureGold,line width=1pt] (0,0.55) -- (0,1.15);
+  \draw[color=ScriptureGold,line width=1pt] (-0.22,0.95) -- (0.22,0.95);
+  % left laurel branch — a curved spine with short leaf strokes
+  \draw[color=ScriptureGold,line width=0.9pt]
+    (-0.15,0.5) .. controls (-0.55,0.35) and (-0.75,0.0) .. (-0.7,-0.6);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.25,0.42) -- (-0.45,0.55);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.4,0.22) -- (-0.62,0.32);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.55,-0.02) -- (-0.78,0.06);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.65,-0.28) -- (-0.9,-0.22);
+  \draw[color=ScriptureGold,line width=0.7pt] (-0.7,-0.55) -- (-0.96,-0.52);
+  % right laurel branch — mirror
+  \draw[color=ScriptureGold,line width=0.9pt]
+    (0.15,0.5) .. controls (0.55,0.35) and (0.75,0.0) .. (0.7,-0.6);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.25,0.42) -- (0.45,0.55);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.4,0.22) -- (0.62,0.32);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.55,-0.02) -- (0.78,0.06);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.65,-0.28) -- (0.9,-0.22);
+  \draw[color=ScriptureGold,line width=0.7pt] (0.7,-0.55) -- (0.96,-0.52);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+
+% Burgundy gradient for the full-bleed cover background — deep wine to a
+% lighter oxblood, full-bleed. `shading angle` requires a reasonably recent
+% pgf; this TeX Live 2026 install supports it, but the plain two-color
+% left-right shade is kept in a comment as the documented fallback.
+\definecolor{NavyDeep}{RGB}{38,10,14}
+\definecolor{NavyLight}{RGB}{92,28,34}
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[shading angle=115, left color=NavyDeep, right color=NavyLight]
+        (current page.south west) rectangle (current page.north east);
+    \end{tikzpicture}%
+  }%
+}
+% Fallback (uncomment if `shading angle` errors on a different TeX Live):
+% \newcommand{\CoverBackground}{%
+%   \AddToShipoutPictureBG*{%
+%     \begin{tikzpicture}[remember picture,overlay]
+%       \shade[left color=NavyDeep, right color=NavyLight]
+%         (current page.south west) rectangle (current page.north east);
+%     \end{tikzpicture}%
+%   }%
+% }
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook (after page
+% content) using the page's own bounding box.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{198,163,92}
+\definecolor{CoverMuted}{RGB}{188,183,166}
+
+%% ============================================
+%% SECTION NUMBERING
+%% ============================================
+% A devotional study book's sections are named (經文/背景/原文研讀/…), not
+% numbered — without this, every H2/H3 prints as "8.6.1 領受要點" and the TOC
+% turns into an outline of a technical manual.
+\setcounter{secnumdepth}{0}
+
+%% Page-referenced Scripture index. Loaded before hyperref's own setup below
+%% so index page numbers become links too. `intoc` puts the index in the TOC.
+\usepackage{imakeidx}
+\makeindex[name=scripture,
+           title={經文索引 (Scripture Index)},
+           columns=2,
+           intoc]
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdftitle={加拉太書研讀},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={Galatians Deep Study},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 10pt
+    {\color{ScriptureGold}\hrule height 0.6pt}\vskip 1.5pt{\color{ScriptureGold}\hrule height 0.6pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 0.6pt}\vskip 1.5pt{\color{ScriptureGold}\hrule height 0.6pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% \paul MACRO - speaker tag used in chapter Scripture sections
+%% ============================================
+\newcommand{\paul}[1]{\textbf{#1}}
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{1.0cm}
+
+\laurelcrosssymbol
+
+\vspace{0.45cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 因信得自由}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} Called to Freedom}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 加拉太書研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the Epistle to the Galatians}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.5in}
+\centering
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+基督釋放了我們，叫我們得以自由。所以要站立得穩，\\
+不要再被奴僕的軛挾制。\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} It was for freedom that Christ set us free;\\
+therefore keep standing firm and do not be subject again to a yoke of slavery.}\\
+{\footnotesize\color{CoverCream} — 加拉太書 5:1 \textbullet\ {\baskervillefont Galatians 5:1 (NASB 1995)}}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 自由}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} "Freedom in Christ" (Galatians 5:1)}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 因信得自由}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} Called to Freedom}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Structure diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 加拉太書結構}\\[0.1cm]
+{\normalsize Structure of Galatians}
+
+\vspace{0.6cm}
+
+% Three-part structure — the book's own shape: defense, doctrine, life
+\begin{tikzpicture}[scale=0.82,transform shape]
+  \node[draw=ChapterBlue,fill=ChapterBlue!8,rounded corners,minimum width=4.0cm,minimum height=2.1cm,align=center,font=\normalsize] at (0,0) {\textbf{申辯} \\ Defense \\ {\small 1:1-2:21}};
+  \node[draw=ScriptureGold,fill=ScriptureGold!14,rounded corners,minimum width=4.0cm,minimum height=2.1cm,align=center,font=\normalsize] at (4.6,0) {\textbf{教義} \\ Doctrine \\ {\small 3:1-4:31}};
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=4.0cm,minimum height=2.1cm,align=center,font=\normalsize] at (9.2,0) {\textbf{生活} \\ Life \\ {\small 5:1-6:18}};
+
+  \draw[->,thick,color=ChapterBlue] (2.05,0) -- (2.55,0);
+  \draw[->,thick,color=ChapterBlue] (6.65,0) -- (7.15,0);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} 我所傳的福音是何等的福音 · 我所信的道理是何等的道理 · 我所活的自由是何等的自由}
+
+\vspace{0.6cm}
+
+{\footnotesize\color{LightGray} 啟示的次序 · The Order of Revelation}
+
+\vspace{0.25cm}
+
+% Revelation-order chain — the promise-before-law argument that is
+% Galatians' own spine (3:15-4:7), traced in five steps.
+\begin{tikzpicture}[scale=0.82,transform shape]
+  \foreach \x/\lab in {0/{應許\\創15}, 3.0/{律法\\出19}, 6.0/{時候滿足\\加4:4}, 9.0/{兒子名分\\加4:5-6}, 12.0/{聖靈果子\\加5:22}} {
+    \fill[ScriptureGold] (\x,0) circle (0.2);
+    \node[font=\footnotesize,color=TextGray,align=center] at (\x,-0.7) {\lab};
+  }
+  \draw[ScriptureGold,line width=1.2pt] (0.2,0) -- (2.8,0);
+  \draw[ScriptureGold,line width=1.2pt] (3.2,0) -- (5.8,0);
+  \draw[ScriptureGold,line width=1.2pt] (6.2,0) -- (8.8,0);
+  \draw[ScriptureGold,line width=1.2pt] (9.2,0) -- (11.8,0);
+\end{tikzpicture}
+
+\vspace{0.9cm}
+
+% Six-verse chain — the book's own key verses, "自由之鏈"
+\begin{tikzpicture}[scale=0.9,transform shape]
+  \foreach \x/\ref in {0/1:8-9,2.8/2:20,5.6/3:13,8.4/3:28,11.2/5:1,14.0/6:14} {
+    \fill[ScriptureGold] (\x,0) circle (0.22);
+    \node[font=\footnotesize,color=TextGray,align=center] at (\x,-0.55) {\ref};
+  }
+  \draw[ScriptureGold,line width=1.2pt] (0.22,0) -- (2.58,0);
+  \draw[ScriptureGold,line width=1.2pt] (3.02,0) -- (5.38,0);
+  \draw[ScriptureGold,line width=1.2pt] (5.82,0) -- (8.18,0);
+  \draw[ScriptureGold,line width=1.2pt] (8.62,0) -- (10.98,0);
+  \draw[ScriptureGold,line width=1.2pt] (11.42,0) -- (13.78,0);
+\end{tikzpicture}
+
+\vspace{0.7cm}
+
+{\footnotesize\color{LightGray} 「基督釋放了我們，叫我們得以自由」— 加拉太書 5:1}
+\end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給每一個仍把恩典活成規條的人，\\
+以及每一個聽見「你們是藉著恩召我的基督」\\
+卻仍想加添甚麼的人。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+To everyone still turning grace back into a code of rules,\\
+and everyone who has heard “Him who called you by the grace of Christ”\\
+and still wants to add something to it.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 你們是為自由蒙召的，弟兄們。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} “For you were called to freedom, brethren.” — Galatians 5:13 (NASB 1995)}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{加拉太書研讀 / Galatians Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文經文統一採用和合本（CUV），逐節經 ai-eden.com 或 cnbible.com 核對；各章核對來源詳見附錄二（99-appendix-references.md）逐章說明。\\
+Chinese Scripture is uniformly the Chinese Union Version (CUV), verse-by-verse verified against ai-eden.com or cnbible.com; see the references appendix for the exact per-chapter verification source.\\
+English: New American Standard Bible (NASB 1995)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ 老弟兄查經方法論與領受框架之應用（本書無對應之老弟兄加拉太書逐節查經筆記原始記錄；詳見附錄二誠實說明）\\
+\textbullet\ John MacArthur - Galatians sermon series (gty.org)\\
+\textbullet\ G. Campbell Morgan, \textit{Living Messages of the Books of the Bible}\\
+\textbullet\ Martin Luther, \textit{A Commentary on St. Paul's Epistle to the Galatians}\\
+\textbullet\ John Calvin, \textit{Commentary on Galatians and Ephesians}\\
+\textbullet\ John Chrysostom, \textit{Commentary on Galatians} (NPNF1-13)\\[0.8em]
+
+\textbf{核心主題 / Central Theme}\\
+保羅寫給加拉太教會最急迫的一封信——為要挽回一群正被「別的福音」引誘離開恩典的信徒，重申只有一個福音：人稱義不是靠行律法，乃是靠信耶穌基督；這稱義的信心，帶進聖靈所賜、活在基督裏的真自由。\\
+Paul's most urgent letter — written to recall a church being lured from grace by "a different gospel," reasserting that there is only one gospel: a person is justified not by works of the Law but through faith in Jesus Christ — and that this justifying faith opens into the true freedom of life in the Spirit.\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+% tocdepth 1 = chapters + their H2 sections. Left at the LaTeX default, this
+% book's TOC ran 22 pages (subsection entries for every 原文研讀/領受要點
+% sub-heading); chapters-only would be too coarse, since the 11 named sections
+% ARE the reference surface a reader navigates by.
+\setcounter{tocdepth}{1}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% PAGE-REFERENCED SCRIPTURE INDEX
+%% A study volume is a reference work: a reader must be able to look up a
+%% verse and get a page. The chapter-level index in 98-appendix-indices.md
+%% says which CHAPTER treats a passage; this one says which PAGE mentions
+%% it. Entries are injected into the combined markdown by
+%% scripts/lib/scripture-index.py, which the build script runs.
+%% ============================================
+\printindex[scripture]
+\cleardoublepage
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\pagestyle{empty}
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你站立得穩的自由，是基督釋放你的自由，還是你自己重新打造的一副軛？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Is the freedom you stand in the freedom Christ won for you — or a yoke you have quietly rebuilt for yourself?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.2cm}
+\begin{center}
+{\large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$Ἐλευθερία$endif$}\\[0.08cm]
+{\itshape\footnotesize\color{CoverMuted} {\baskervillefont "Freedom"} · 自由——全書貫穿的鑰字}
+
+\vspace{0.22cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.22cm}
+
+{\normalsize\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\normalsize\color{CoverGoldBright} About This Book}
+
+\vspace{0.2cm}
+
+\begin{minipage}{5in}
+\setlength{\parskip}{0.15em}
+\footnotesize\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書逐章研讀加拉太書全書六章，並附索引與參考資料附錄，整合老弟兄一貫的查經方法論與以基督為中心的領受框架（本書並無對應之老弟兄加拉太書逐節查經筆記原始記錄，此為誠實說明，詳見附錄），alongside John MacArthur 逐節解經講道系列、G. Campbell Morgan、馬丁·路德的《加拉太書講義》，以及加爾文的注釋。全信的軌跡，從保羅為使徒職分與福音真理申辯、到因信稱義而非因行律法的教義根基、到應許先於律法四百三十年的啟示次序、到時候滿足時神兒子的降生、到聖靈所賜兒子的名分、直到在聖靈中結出果子的真自由——保羅寫給加拉太教會最急迫的一封信，在這裡逐章展開。
+
+{\baskervillefont\color{CoverCream} chapter-by-chapter study of all six chapters of Galatians, with index and references appendices, integrating the Elder's documented Bible-study methodology and Christ-centered theological framework (this book has no corresponding verse-by-verse Elder teaching notes on Galatians itself — an honest disclosure detailed in the appendix), alongside John MacArthur's verse-by-verse sermon series, G. Campbell Morgan, Martin Luther's Commentary on Galatians, and John Calvin. The letter's arc unfolds chapter by chapter: Paul's defense of his apostleship and the truth of the gospel, the doctrinal foundation of justification by faith apart from works of the Law, the revelation-order argument that the promise preceded the Law by four hundred thirty years, the Son's birth in the fullness of time, the Spirit-given adoption as sons, and the true freedom that bears fruit in the Spirit — Paul's most urgent letter, traced here in full.}
+$endif$
+\end{minipage}
+
+\vspace{0.22cm}
+
+{\footnotesize\bfseries\color{CoverCream} 自由之鏈}\qquad{\baskervillefont\itshape\footnotesize\color{CoverGoldBright} The Chain of Freedom}
+
+\vspace{0.15cm}
+
+\begin{minipage}{4.9in}
+\footnotesize\color{CoverCream}
+\begin{tabular}{@{}cp{3.6in}l@{}}
+① & 別的福音，其實並沒有另一個福音 \textit{\baskervillefont\color{CoverCream} A different gospel — which is really not another} & {\footnotesize\color{CoverMuted} 1:8-9}\\[0.12em]
+② & 我已經與基督同釘十字架 \textit{\baskervillefont\color{CoverCream} I have been crucified with Christ} & {\footnotesize\color{CoverMuted} 2:20}\\[0.12em]
+③ & 基督既為我們受了咒詛，就贖出我們 \textit{\baskervillefont\color{CoverCream} Christ redeemed us, having become a curse for us} & {\footnotesize\color{CoverMuted} 3:13}\\[0.12em]
+④ & 你們都因信基督耶穌，成為一了 \textit{\baskervillefont\color{CoverCream} You are all one in Christ Jesus} & {\footnotesize\color{CoverMuted} 3:28}\\[0.12em]
+⑤ & 基督釋放了我們，叫我們得以自由 \textit{\baskervillefont\color{CoverCream} It was for freedom that Christ set us free} & {\footnotesize\color{CoverMuted} 5:1}\\[0.12em]
+⑥ & 我斷不以別的誇口，只誇我主耶穌基督的十字架 \textit{\baskervillefont\color{CoverCream} May I never boast except in the cross of our Lord Jesus Christ} & {\footnotesize\color{CoverMuted} 6:14}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.22cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+
+\vspace{0.18cm}
+
+\begin{minipage}{4.3in}
+\centering
+\footnotesize\itshape\color{CoverCream}
+基督釋放了我們，叫我們得以自由。所以要站立得穩，不要再被奴僕的軛挾制。\\[0.15em]
+{\baskervillefont\footnotesize\color{CoverCream} It was for freedom that Christ set us free; therefore keep standing firm and do not be subject again to a yoke of slavery.}\\
+{\footnotesize\color{CoverCream} — 加拉太書 5:1 \textbullet\ {\baskervillefont Galatians 5:1 (NASB 1995)}}
+\end{minipage}
+
+\vspace{0.18cm}
+
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+
+\vspace{0.4cm}
+
+{\footnotesize\color{CoverMuted} \S\ 加拉太書研讀 · 初版 \S\ 2026 \S}
+\end{center}
+
+\end{document}
