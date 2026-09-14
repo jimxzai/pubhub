@@ -1,0 +1,592 @@
+% PubHub Philippians Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+% BoldFont deliberately points at the SAME regular font file with
+% synthetic FakeBold, not a separate real bold face ("Songti SC Bold"):
+% a real bold face missing/mismatching glyphs for full-width punctuation
+% (：。) silently weakens or fully flattens \textbf for any CJK bold span
+% containing one — with zero warnings, zero errors (documented, confirmed
+% pattern in this codebase's 1-peter.latex/romans.latex; see the
+% eat-bible skill's Gotchas). FakeBold guarantees identical glyph
+% coverage between regular and "bold" so this class of silent fallback
+% can't trigger.
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Songti SC}
+
+%% Greek and Hebrew font support. NOT ucharclasses: its automatic
+%% per-character script hooking silently strips \textbf bold from
+%% Scripture quotes the moment ANY other package that hooks font/box
+%% machinery is also loaded (hyperref, eso-pic, pgfornament each
+%% independently trigger it — root-caused via xelatex repro). Instead the
+%% build script wraps actual Greek/Hebrew Unicode runs in the source
+%% with these font-switch commands explicitly (see the Greek-wrapping
+%% step in scripts/build-philipian-consolidated.sh) — manual, but immune
+%% to the conflict since it never touches a \textbf span (CUV Scripture
+%% quotes never contain embedded Greek/Hebrew characters).
+% NOTE: deliberately no [Script=Greek]/[Script=Hebrew] feature tag — see
+% eat-bible skill Gotchas: that OpenType script-shaping tag causes
+% progressive font-state corruption once a book carries many manual
+% \greekfont invocations. Times New Roman renders Greek correctly without it.
+\newfontfamily\greekfont{Times New Roman}[BoldFont=Times New Roman, BoldFeatures={FakeBold=2.2}, ItalicFont=Times New Roman Italic]
+\newfontfamily\hebrewfont{Arial Hebrew}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Philippians Theme (Wine → Gold: humbling to exaltation)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors — deep wine for the cost of the gospel (chains, kenosis),
+% gold for the joy and exaltation that answers it (Phil 2:9-11, 4:4).
+\definecolor{ChapterPurple}{RGB}{110,25,45}        % Deep wine — chapter color (kept name for macro compatibility)
+\definecolor{ScriptureGold}{RGB}{175,135,55}       % Gold for scripture refs / joy
+\definecolor{CommentaryBrown}{RGB}{85,60,45}       % Warm brown for commentary
+\definecolor{WarningRed}{RGB}{160,50,50}           % Reserved (unused — Philippians carries no polemical section)
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,248,246}        % Warm cream tint for scripture
+\definecolor{GreekBg}{RGB}{245,248,252}            % Light blue for Greek
+\definecolor{ApplicationBg}{RGB}{248,250,246}      % Light warm for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+% NOTE: deliberately NOT \usepackage{eso-pic} or \usepackage{pgfornament}.
+% Either one, merely loaded alongside ucharclasses (regardless of whether
+% its own commands are used), silently strips \textbf bold from every
+% Scripture quote in the main body. Plain \tikzpicture[remember picture,
+% overlay] called inline achieves the same full-bleed effect without the
+% conflict: "overlay" makes the picture consume zero space in the
+% surrounding flow.
+
+% Deep-wine gradient for the full-bleed cover background.
+\definecolor{CoverWineDeep}{RGB}{35,10,18}
+\definecolor{CoverWineLight}{RGB}{96,28,46}
+\newcommand{\CoverBackground}{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[shading angle=115, left color=CoverWineDeep, right color=CoverWineLight]
+        (current page.south west) rectangle (current page.north east);
+    \end{tikzpicture}%
+}
+
+% Classical book-plate border: two inset hairlines plus a corner ornament,
+% painted using the page's own bounding box.
+\newcommand{\CoverBorder}{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \foreach \c/\dx/\dy in {south west/0.55in/0.55in, south east/-0.55in/0.55in, north east/-0.55in/-0.55in, north west/0.55in/-0.55in} {
+        \begin{scope}[shift={($$(current page.\c)+(\dx,\dy)$$)}]
+          \draw[color=ScriptureGold,line width=0.9pt,line cap=round] (0,-0.09) -- (0,0.09);
+          \draw[color=ScriptureGold,line width=0.9pt,line cap=round] (-0.09,0) -- (0.09,0);
+          \draw[color=ScriptureGold,line width=0.6pt,line cap=round] (-0.06,-0.06) -- (0.06,0.06);
+          \draw[color=ScriptureGold,line width=0.6pt,line cap=round] (-0.06,0.06) -- (0.06,-0.06);
+        \end{scope}
+      }
+    \end{tikzpicture}%
+}
+
+% A small printer's fleuron (hand-drawn compass-star), reused across the
+% full-bleed cover pages.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+\begin{tikzpicture}[baseline=-0.5ex,scale=0.09,line cap=round]
+  \draw[color=#1,line width=1.2pt] (0,-1) -- (0,1);
+  \draw[color=#1,line width=1.2pt] (-1,0) -- (1,0);
+  \draw[color=#1,line width=0.7pt] (-0.7,-0.7) -- (0.7,0.7);
+  \draw[color=#1,line width=0.7pt] (-0.7,0.7) -- (0.7,-0.7);
+  \fill[color=#1] (0,0) circle (0.22);
+\end{tikzpicture}%
+}
+
+% Crown-and-cross symbol — echoes Phil 2:8-9 (cross, then the name above
+% every name) and 4:1 ("my joy and crown"). This book's own distinctive
+% cover mark, in place of the sibling volumes' own symbols.
+\newcommand{\crowncrosssymbol}{%
+\begin{tikzpicture}[scale=0.32,line cap=round]
+  \draw[color=ScriptureGold,line width=1.3pt] (0,-1.15) -- (0,0.55);
+  \draw[color=ScriptureGold,line width=1.3pt] (-0.55,0.15) -- (0.55,0.15);
+  \foreach \ang in {60,120,90} {
+    \draw[color=ScriptureGold,line width=0.9pt] (\ang:0.75) -- (\ang:0.98);
+  }
+  \fill[color=ScriptureGold] (0,0.98) circle (0.05);
+  \fill[color=ScriptureGold] (-0.65,0.85) circle (0.045);
+  \fill[color=ScriptureGold] (0.65,0.85) circle (0.045);
+\end{tikzpicture}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{240,236,230}
+\definecolor{CoverGoldBright}{RGB}{214,175,100}
+\definecolor{CoverMuted}{RGB}{196,178,178}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterPurple,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdftitle={腓立比書研讀},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={Philippians Deep Study},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+% Word-study tables mix Greek + CJK in narrow columns; set them \small so
+% long unbreakable strings (e.g. transliterations) stay inside the measure.
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ChapterPurple}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+% Plain \cleardoublepage never sets \thispagestyle{empty} on the blank
+% verso page it inserts to reach an odd page — it inherits whatever
+% pagestyle (fancy) was already active, leaking a running header/rule
+% onto an otherwise-blank page. Use this instead of \cleardoublepage
+% at any section boundary where \pagestyle{fancy} is already active.
+\newcommand{\ClearDoublePageEmpty}{%
+  \clearpage
+  \ifodd\value{page}\else
+    \hbox{}
+    \thispagestyle{empty}
+    \newpage
+  \fi
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+% Number chapters only: no numbered subsections in body or running heads
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{1}
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterPurple} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 12pt
+    {\color{ChapterPurple}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 8pt
+    {\color{ChapterPurple}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+% book.cls's own \@schapter (what \chapter* expands to — every pandoc
+% {.unnumbered} heading, i.e. every front/back-matter section in this
+% book) never calls \markboth, unlike numbered \chapter. Left
+% unpatched, the running header on every unnumbered section's pages
+% silently keeps showing the LAST NUMBERED chapter's title. Re-add the
+% \markboth call book.cls's numbered \@chapter has.
+\def\@schapter#1{\if@twocolumn
+                   \@topnewpage[\@makeschapterhead{#1}]%
+                 \else
+                   \@makeschapterhead{#1}%
+                   \@afterheading
+                 \fi
+                 \markboth{#1}{#1}}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterPurple}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+% NOT \list/\item, and NO explicit \par inside the group: at book scale
+% (~35+ Scripture quote blocks), EITHER one silently strips \textbf bold
+% from Scripture quotes starting partway through the book (confirmed
+% pattern across this codebase's other templates — see eat-bible Gotchas).
+% Paragraph breaks between quote blocks still happen correctly from the
+% blank line pandoc already emits between them — \par is not needed here.
+\renewenvironment{quote}{%
+  \vspace{0.3\baselineskip}%
+  \begingroup
+  \leftskip=0.5em \rightskip=0.2em
+  \fontsize{10}{12}\selectfont\color{TextGray}%
+}{%
+  \endgroup
+  \vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\CoverBackground
+\CoverBorder
+\begin{center}
+\vspace*{1.0cm}
+
+\crowncrosssymbol
+
+\vspace{0.45cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 活出基督}\\[0.25cm]
+{\large\itshape\color{CoverGoldBright} To Live Is Christ}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 腓立比書研讀}\\[0.2cm]
+{\itshape\normalsize\color{CoverGoldBright} A Study of Paul's Epistle to the Philippians}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.5in}
+\centering
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+因我活着就是基督，我死了就有益處。\\[0.2em]
+{\footnotesize\color{CoverCream} For to me, to live is Christ and to die is gain.}\\
+{\footnotesize\color{CoverCream} — 腓立比書 1:21 \textbullet\ Philippians 1:21}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\hrule height 0.6pt}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 原則 \textperiodcentered\ 目的 \textperiodcentered\ 竭力向前 \textperiodcentered\ 追求}\\[0.12cm]
+{\itshape\footnotesize\color{CoverCream} Principle \textperiodcentered\ Purpose \textperiodcentered\ Pressing Forward \textperiodcentered\ Pursue}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\ClearDoublePageEmpty
+
+% Four-step spine page — replaces the sibling volumes' polemical/plan
+% pages: Philippians carries no warning section, but it does carry an
+% explicit four-step mindset (φρονέω) running through its four chapters.
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterPurple} 全書骨幹 \textperiodcentered\ 一個心思，四步展開}\\[0.1cm]
+{\normalsize The Spine: One Mindset, Four Steps (\greekfont φρονέω)}
+
+\vspace{0.6cm}
+
+\begin{tikzpicture}[scale=0.85]
+  \foreach \x/\zh/\en/\reftext/\idx in {
+    -6/原則/Principle/1:21/1,
+    -2/目的/Purpose/2:5-11/2,
+    2/竭力向前/Pressing Forward/3:12-14/3,
+    6/追求/Pursue/4:8-9/4} {
+    \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=3.3cm,minimum height=1.7cm,
+          font=\small,align=center] (step\idx) at (\x,0) {\textbf{\zh}\\ {\footnotesize\itshape\en}\\ {\footnotesize\color{LightGray}\reftext}};
+  }
+  \draw[->,ScriptureGold,thick] (step1.east) -- (step2.west);
+  \draw[->,ScriptureGold,thick] (step2.east) -- (step3.west);
+  \draw[->,ScriptureGold,thick] (step3.east) -- (step4.west);
+\end{tikzpicture}
+
+\vspace{0.7cm}
+
+{\footnotesize\color{LightGray} 「你們當以基督耶穌的心為心」 — 腓立比書 2:5\\
+“Have this attitude in yourselves which was also in Christ Jesus.” --- Philippians 2:5}
+\end{center}
+\ClearDoublePageEmpty
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{腓立比書研讀 / Philippians Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+聖經版本 / Bible Versions：CUV 和合本 \textperiodcentered\ NASB 1995\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\ClearDoublePageEmpty
+
+% Table of contents — chapters + their H2 sections (see comment in
+% templates/pdf/2-peter.latex for why tocdepth=1, not 0)
+\pagestyle{fancy}
+{\color{ChapterPurple}\tableofcontents}
+\ClearDoublePageEmpty
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\ClearDoublePageEmpty
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.2cm}
+\begin{center}
+
+{\large\itshape\color{CoverGoldBright} {\greekfont\itshape φρονέω}}\\[0.08cm]
+{\itshape\footnotesize\color{CoverMuted} “to have this mind” \textperiodcentered\ 全書貫穿的鑰字——十次同一個字}
+
+\vspace{0.22cm}
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+\vspace{0.22cm}
+
+{\normalsize\bfseries\color{CoverCream} 關於本書}\qquad{\itshape\normalsize\color{CoverGoldBright} About This Book}
+
+\vspace{0.2cm}
+\begin{minipage}{5in}
+\setlength{\parskip}{0.15em}
+\footnotesize\color{CoverCream}
+本書逐章研讀腓立比書四章，整合老弟兄查經方法論、
+John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
+以「φρονέω」（存這樣的心思）一詞貫穿全書：
+原則（1:21 活着就是基督）、目的（2:5-11 基督的心）、
+竭力向前（3:12-14 向着標竿直跑）、追求（4:8-9 凡是真實的都要思念）。
+
+{\color{CoverCream}A chapter-by-chapter study of all four chapters of Philippians, integrating the Thursday Bible class method, John MacArthur's verse-by-verse exposition, and G. Campbell Morgan's spiritual analysis --- traced through Paul's own key word, {\itshape phroneō} (“to have this mind”), across four steps: Principle, Purpose, Pressing Forward, and Pursue.}
+\end{minipage}
+
+\vspace{0.22cm}
+
+{\footnotesize\bfseries\color{CoverCream} 四步骨幹}\qquad{\itshape\footnotesize\color{CoverGoldBright} The Four-Step Spine}
+
+\vspace{0.15cm}
+\begin{minipage}{4.9in}
+\footnotesize\color{CoverCream}
+\begin{tabular}{@{}cp{3.6in}l@{}}
+① & 原則 \textit{\color{CoverCream}Principle — to live is Christ} & {\footnotesize\color{CoverMuted} 1:1-30}\\[0.12em]
+② & 目的 \textit{\color{CoverCream}Purpose — have this mind of Christ} & {\footnotesize\color{CoverMuted} 2:1-30}\\[0.12em]
+③ & 竭力向前 \textit{\color{CoverCream}Pressing Forward — toward the goal} & {\footnotesize\color{CoverMuted} 3:1-21}\\[0.12em]
+④ & 追求 \textit{\color{CoverCream}Pursue — the peace and the God of peace} & {\footnotesize\color{CoverMuted} 4:1-23}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.22cm}
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+\vspace{0.18cm}
+
+\begin{minipage}{4.3in}
+\centering
+\footnotesize\itshape\color{CoverCream}
+「你們要靠主常常喜樂。我再說，你們要喜樂。」\\[0.15em]
+{\footnotesize\color{CoverCream} Rejoice in the Lord always; again I will say, rejoice!}\\
+{\footnotesize\color{CoverCream} --- 腓立比書 4:4 \textperiodcentered\ Philippians 4:4}
+\end{minipage}
+
+\vspace{0.18cm}
+{\color{CoverGoldBright}\hrule height 0.6pt width 4.3in}
+
+\vspace{0.4cm}
+{\footnotesize\color{CoverMuted} \S\ 腓立比書研讀 \textperiodcentered\ 初版 \S\ 2026 \S}
+\end{center}
+
+\end{document}
