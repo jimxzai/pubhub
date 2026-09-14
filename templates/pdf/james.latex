@@ -23,6 +23,47 @@
 \XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
 
 %% ============================================
+%% GREEK / HEBREW WORD STUDY — ucharclasses, full block coverage
+%% via \setTransitionTo (sets the ENTERING direction only, so
+%% declaration order cannot clobber an earlier block — see
+%% .claude/skills/eat-bible/references/gotchas.md before editing this).
+%% \uckeep carries series/shape (bold/italic) across the font switch.
+%% ============================================
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew, Scale=1.35]
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2}, ItalicFont=Kaiti SC]
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+
+%% ============================================
 %% PAGE GEOMETRY - Fixed margins (more conservative)
 %% ============================================
 \usepackage{geometry}
@@ -88,16 +129,29 @@
 \end{tikzpicture}%
 }
 
+% Words of Jesus (echoed in commentary, e.g. Sermon on the Mount parallels)
+\definecolor{JesusRed}{RGB}{155,35,35}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
 %% ============================================
 %% HYPERLINKS
 %% ============================================
 \usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet (must load
+% after hyperref) — otherwise pdfinfo reports no Title/Author/Subject at all.
+\usepackage{hyperxmp}
 \hypersetup{
   colorlinks=true,
   linkcolor=ChapterGreen,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  pdftitle={雅各書研讀 — Epistle of James Deep Study},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={雅各書逐段研讀：聽道與行道——真信心必有真行為},
+  pdfkeywords={雅各書, James, 聖經研讀, Bible study, 和合本, NASB, 信心與行為, 智慧, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
 }
 
 %% ============================================
@@ -122,6 +176,9 @@
 \patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
 \@ifundefined{c@none}{\newcounter{none}}{}
 \makeatother
+% Word-study / cross-reference tables carry dense CJK + Greek/Hebrew; \small
+% keeps long 註解 cells from wrapping to a few characters per line.
+\AtBeginEnvironment{longtable}{\small}
 
 % Style table rules
 \renewcommand{\toprule}{\hline\hline}
@@ -154,7 +211,7 @@
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
     \ifnum \c@secnumdepth >\m@ne
-      \large\bfseries\color{ChapterGreen} \@chapapp\space \thechapter
+      \large\bfseries\color{ChapterGreen} 第 \thechapter\ 章
       \par\nobreak
       \vskip 8pt
     \fi
@@ -188,6 +245,26 @@
   {-1.5ex\@plus -0.5ex \@minus -.2ex}%
   {0.8ex \@plus .2ex}%
   {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% SECTION NUMBERING AND TOC DEPTH
+%% secnumdepth=0 — no "3.7.2 ..." numbering on body headings or in running
+%% heads. tocdepth=0 — contents lists chapters only. The build script's
+%% --toc-depth/-V tocdepth do NOT set this on their own; the LaTeX counter
+%% must be set here (see .claude/skills/eat-bible/references/gotchas.md).
+%% ============================================
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
+
+% book class's default \chaptermark prints "Chapter N. <title>" (English word)
+% in the running head, redundant with the Chinese 「第N章」already in the title.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+% \chapter* (preface, orientation chapters, appendices, afterword) never
+% calls \chaptermark, so without this patch the verso running head keeps
+% showing the last NUMBERED chapter's title on every front/back-matter page.
+\makeatletter
+\apptocmd{\@schapter}{\markboth{#1}{}}{}{\PackageWarning{james}{could not patch \string\@schapter}}
 \makeatother
 
 %% ============================================
@@ -282,7 +359,7 @@ $endif$
 \centering
 \vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
-你們要行道，不要單單聽道，自己欺騙自己。\\[0.2em]
+你們要行道，不要單單聽道，自己欺哄自己。\\[0.2em]
 \footnotesize But be doers of the word, and not hearers only,\\
 deceiving yourselves. — James 1:22
 \vspace{0.3cm}
@@ -296,26 +373,28 @@ deceiving yourselves. — James 1:22
   \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,3.5) {Book Structure 書卷結構};
 
   % Five chapters as connected boxes
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (-4,2) {Ch 1: Trials};
-  \node[font=\tiny,color=LightGray] at (-4,1.5) {試煉與試探};
+  % (node width is NOT scaled by [scale=0.7] but coordinates are, so centers
+  % need real spacing >= box width; 2.9 units * 0.7 = 2.03cm clears 1.9cm boxes)
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (-5.8,2) {Ch 1: Trials};
+  \node[font=\tiny,color=LightGray] at (-5.8,1.5) {試煉與試探};
 
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (-2,2) {Ch 2: Faith};
-  \node[font=\tiny,color=LightGray] at (-2,1.5) {信心與行為};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (-2.9,2) {Ch 2: Faith};
+  \node[font=\tiny,color=LightGray] at (-2.9,1.5) {信心與行為};
 
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (0,2) {Ch 3: Tongue};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (0,2) {Ch 3: Tongue};
   \node[font=\tiny,color=LightGray] at (0,1.5) {舌頭與智慧};
 
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (2,2) {Ch 4: Humility};
-  \node[font=\tiny,color=LightGray] at (2,1.5) {謙卑順服};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (2.9,2) {Ch 4: Humility};
+  \node[font=\tiny,color=LightGray] at (2.9,1.5) {謙卑順服};
 
-  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=2.2cm,minimum height=0.6cm,font=\tiny] at (4,2) {Ch 5: Prayer};
-  \node[font=\tiny,color=LightGray] at (4,1.5) {忍耐與禱告};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (5.8,2) {Ch 5: Prayer};
+  \node[font=\tiny,color=LightGray] at (5.8,1.5) {忍耐與禱告};
 
   % Arrows
-  \draw[->,color=ScriptureGold,thick] (-3,2) -- (-2.8,2);
-  \draw[->,color=ScriptureGold,thick] (-1,2) -- (-0.8,2);
-  \draw[->,color=ScriptureGold,thick] (1,2) -- (1.2,2);
-  \draw[->,color=ScriptureGold,thick] (3,2) -- (3.2,2);
+  \draw[->,color=ScriptureGold,thick] (-4.4,2) -- (-4.2,2);
+  \draw[->,color=ScriptureGold,thick] (-1.45,2) -- (-1.25,2);
+  \draw[->,color=ScriptureGold,thick] (1.45,2) -- (1.65,2);
+  \draw[->,color=ScriptureGold,thick] (4.2,2) -- (4.4,2);
 
   % Core theme at bottom
   \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=4cm,minimum height=0.6cm,font=\small\bfseries] at (0,0.3) {True Faith = True Works};
@@ -329,13 +408,14 @@ deceiving yourselves. — James 1:22
   \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,2.8) {Six Major Themes 六大主題};
 
   % Theme boxes in 2 rows
-  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (-3,1.8) {1. Trials 試煉};
-  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (0,1.8) {2. Faith+Works 信行};
-  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (3,1.8) {3. Wisdom 智慧};
+  % (real spacing at scale=0.65 must clear the 2.2cm box width; 3.8 units * 0.65 = 2.47cm)
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.2cm,minimum height=0.5cm,font=\tiny] at (-3.8,1.8) {1. Trials 試煉};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.2cm,minimum height=0.5cm,font=\tiny] at (0,1.8) {2. Faith+Works 信行};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.2cm,minimum height=0.5cm,font=\tiny] at (3.8,1.8) {3. Wisdom 智慧};
 
-  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (-3,0.8) {4. Tongue 舌頭};
-  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (0,0.8) {5. Humility 謙卑};
-  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.5cm,minimum height=0.5cm,font=\tiny] at (3,0.8) {6. Prayer 禱告};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.2cm,minimum height=0.5cm,font=\tiny] at (-3.8,0.8) {4. Tongue 舌頭};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.2cm,minimum height=0.5cm,font=\tiny] at (0,0.8) {5. Humility 謙卑};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=2.2cm,minimum height=0.5cm,font=\tiny] at (3.8,0.8) {6. Prayer 禱告};
 \end{tikzpicture}
 
 \vfill
@@ -457,13 +537,13 @@ Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
 
 \textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ John MacArthur - Grace To You (gty.org)\\
-\textbullet\ Douglas Moo - The Letter of James (PNTC)\\
-\textbullet\ D.A. Carson - New Bible Commentary\\[0.8em]
+\textbullet\ John Calvin - Commentaries on the Catholic Epistles\\
+\textbullet\ G. Campbell Morgan - Living Messages of the Books of the Bible\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\[0.8em]
 
 本書為三書精讀項目成果之一。\\
 Part of the Three Books Deep Reading Project.

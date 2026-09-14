@@ -60,11 +60,15 @@ BOOKS = ROOT / "books" / "bible"
 
 # A chapter file: NN-name.md where NN is 01..97. Everything starting 00 is
 # orientation (00-overview, 00a-position, 00b-spine, 00c-revelation-order);
-# 98-/99-/000- are appendices, index and preface. Counting orientation files
-# as chapters made the first run of this script report a coordinate-line gap
-# in 00-overview.md, which is not a chapter and has no business carrying one.
+# 96-/97-/98-/99-/000- are appendices, index and preface. Counting orientation
+# files as chapters made the first run of this script report a coordinate-line
+# gap in 00-overview.md, which is not a chapter and has no business carrying
+# one. 96- (reading plan) and 97- (glossary) were missing from this tuple —
+# confirmed on 1-peter and james, both of which ship a 96-appendix-reading-
+# plan.md that got miscounted as a chapter and dinged for missing a 座標 line
+# and a return-to-Christ close it was never supposed to carry.
 CHAPTER_RE = re.compile(r"^(\d{2})-")
-APPENDIX_PREFIXES = ("98-", "99-", "000-", "00-", "00a", "00b", "00c", "00d")
+APPENDIX_PREFIXES = ("96-", "97-", "98-", "99-", "000-", "00-", "00a", "00b", "00c", "00d")
 
 # 1. Orientation: a front chapter that states the spine. Books name this
 #    differently (John: 啟示的次序與組織; Job: 啟示的次序與神的計劃), so match

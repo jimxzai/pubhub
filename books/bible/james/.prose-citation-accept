@@ -1,0 +1,21 @@
+# Reviewed exceptions for the in-prose Scripture citation audit
+# (scripts pattern follows books/bible/gospel-of-luke/.citation-accept,
+# books/bible/joshua/.prose-citation-accept)
+#
+# The audit flags 「…」 followed by a chapter:verse reference whose words are not in
+# that verse of 和合本. That is normally a real defect — quotation marks plus a
+# reference promise the reader the Bible's exact words. The 2026-09-14 round found
+# and repaired 6 such defects (太6:19-20, 雅5:4, 約15:5, 雅3:14, plus two non-quote
+# fixes in 09-james-and-leviticus19.md).
+#
+# But Chinese also uses 「」 for a TERM or LABEL, where the adjacent （ref） is a
+# "see also" pointer rather than an attribution. Each line below is one such case,
+# read in context and judged to be a term, not a quotation. Format: file|quote|reason
+#
+00-overview.md|信心不夠好|Rhetorical negation phrase ("not merely 'not-good-enough faith'"), not a quotation from 2:17 — the surrounding sentence explains this is a rejected reading, not an attribution.
+00c-revelation-order.md|藉行為稱義|Editor's theological-label phrase describing a (rejected, easily-misread) gloss on 2:24; the verbatim CUV clause is quoted separately in the same sentence.
+00c-revelation-order.md|必然結果子|Editor's descriptive phrase; the verbatim CUV clause 信心若沒有行為就是死的 is quoted immediately after in the same sentence, correctly attributed.
+01-trials-and-temptation.md|聽道又行道|Editor's topic label for the whole passage 1:19-27 (a summary of the section, echoing 1:22's own wording), not a verbatim quotation of one verse.
+05-patience-and-prayer.md|同在／來臨|Word-study gloss for παρουσία in the 原文研讀 table; the （帖前4:15，彼後3:4） are "see also" pointers to other NT occurrences of the term, not an attribution of these two words to that verse.
+07-elijah-and-prayer.md|忍耐與禱告|The book's own established step-label for 5:13-18, matching the 五步 naming convention used identically throughout 00c-revelation-order.md and every chapter's 座標 line — not a verbatim quotation.
+09-james-and-leviticus19.md|你要盡心、盡性、盡意愛主－你的神|Verbatim CUV words in exact order; the audit's fhl.net fetch includes the traditional ideographic reverence-space before 神 (「你的　神」), a typographic convention this book does not reproduce in running prose (see house style: [[project_style_policy]]-equivalent 裏/甚麼 normalization).
