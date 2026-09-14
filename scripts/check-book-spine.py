@@ -110,7 +110,7 @@ def orientation_files(book_dir):
 
 
 # A few books' build scripts are not named after their directory.
-SLUG_ALIASES = {"gospel-of-john": "gospel", "roman": "romans"}
+SLUG_ALIASES = {"gospel-of-john": "gospel", "roman": "romans", "ephisian": "ephesians"}
 
 
 def build_script_for(book_dir):
