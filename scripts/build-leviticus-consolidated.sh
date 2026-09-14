@@ -236,6 +236,7 @@ pandoc "$COMBINED_MD" \
   --standalone \
   --template="$TEMPLATE" \
   --from=markdown-superscript-subscript \
+  --to=latex-smart \
   --toc \
   --toc-depth=1 \
   --top-level-division=chapter \

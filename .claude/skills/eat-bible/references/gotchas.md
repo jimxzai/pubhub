@@ -511,6 +511,54 @@ scripts/lint-templates.sh [template-name ...]
   matters for commercial or EU-regulated distribution; revisit only if a
   book actually goes to public release.
 
+- **`pandoc -o file.tex` (writing literal LaTeX, the page-indexed-book
+  two-stage pipeline) silently corrupts every em-dash in the book — `pandoc
+  -o file.pdf --pdf-engine=xelatex` (the ordinary single-stage pipeline)
+  does not.** Same `--from`, same template, same source markdown; only the
+  writer target differs. Reproduced in isolation:
+  ```
+  pandoc x.md -o x.pdf --pdf-engine=xelatex --template=T.latex   # "——" extracts as "——"
+  pandoc x.md -o x.tex                       --template=T.latex   # "——" extracts as "------"
+  ```
+  Cause: pandoc's default `smart` extension, on the *write* side, serializes
+  a literal em-dash character (U+2014) as the ASCII ligature trigger `---`
+  — correct, idiomatic LaTeX, meant to be reconstituted into one glyph by
+  the font's dash ligature at compile time. This repo's CJK-routed Latin
+  run (`\latinrun`, `Songti SC`) has no such ligature, so xelatex sets three
+  separate hyphen-minus glyphs instead of one em-dash — and does the same
+  for every `——` in the book, silently, because the PDF still builds clean
+  (0 missing-glyph warnings: three hyphens are valid glyphs, just the wrong
+  ones). Confirmed on `books/bible/galatian` (adopted the two-stage
+  `pandoc -o .tex` → `xelatex ×2` → `makeindex` → `xelatex ×2` pipeline for
+  a page-referenced Scripture index, see `scripts/lib/scripture-index.py`):
+  every em-dash in the 176-page book — hundreds of them, this house style's
+  most common punctuation for an aside — extracted as `------`. **No lint
+  in this skill catches it**; it was found only by grepping
+  `pdftotext`'s output for runs of `-` across the whole book, which nothing
+  in the standard check sequence does. Fix: pass `--to=latex-smart`
+  (`-smart` *disables* the writer's smart-substitution, so it emits the
+  literal Unicode character, which the font sets correctly) on the pandoc
+  call that produces the `.tex` file. Any book adopting the two-stage
+  index pipeline needs this flag; the single-stage `--pdf-engine=xelatex`
+  books do not (and should not gain it without re-verifying — untested
+  there). **After adding a page-referenced index to any book, grep the
+  built PDF's `pdftotext` output for `--` before trusting the build.**
+
+- **`scripts/lib/scripture-index.py` injected `\index[scripture]{...}`
+  markup *inside* a fenced ` ``` ` code block, and it printed as literal
+  visible text on the page** — a raw diagram like a revelation-order chain
+  (```` ```\n3:26 因信都是神的兒子\n... ``` ````) had every `N:N`-shaped
+  line turn into `3:26\index[scripture]{...} 因信都是神的兒子` in the
+  rendered PDF. The script's skip logic checked `line.strip().startswith(
+  "\`\`\`")` — true only for the fence *delimiter* lines themselves, never
+  tracking that everything *between* them should also be skipped. Fixed by
+  toggling an `in_fence` flag on each fence line and skipping while it's
+  set (see the script; fix is backward-compatible, since a book with no
+  fenced blocks in its markdown is unaffected). Anyone borrowing this
+  library for a book whose markdown uses fenced code blocks for a diagram
+  must re-verify after adding one — the failure is silent (clean build, 0
+  missing glyphs) and visible only by reading the rendered page.
+
 ## Troubleshooting
 
 | Symptom | Cause | Fix |

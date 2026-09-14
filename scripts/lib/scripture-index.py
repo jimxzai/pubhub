@@ -116,7 +116,10 @@ LOOKUP = {a: (o, n) for a, o, n in ABBR}
 
 # 利16:21 / 利 16:21 / 來9:12 ; optional verse range, we index the start verse
 NAMED_RE = re.compile(rf"(?P<book>{ABBR_ALT})\s?(?P<ch>\d{{1,3}}):(?P<vs>\d{{1,3}})")
-# bare 16:21 — inside this book that means Leviticus
+# bare 16:21 — a reference to the book's OWN text with no book-name prefix.
+# Which book that is varies per volume (originally always Leviticus, the
+# first book this library served); pass self_order/self_name to main() for
+# any other book, e.g. main(path, "48", "加拉太書") for Galatians.
 BARE_RE = re.compile(r"(?<![\d:：\w])(?P<ch>\d{1,2}):(?P<vs>\d{1,3})(?![\d:])")
 
 
@@ -125,12 +128,13 @@ def entry(order, name, ch, vs):
             f"{int(ch):03d}:{int(vs):03d}@{ch}:{vs}}}")
 
 
-def main(path):
+def main(path, self_order="03", self_name="利未記"):
     with open(path, encoding="utf-8") as fh:
         lines = fh.read().split("\n")
 
     out = []
     in_scripture = False   # inside a chapter's own `## 經文` section
+    in_fence = False       # inside a ``` fenced code block
     n_named = n_bare = 0
 
     for line in lines:
@@ -140,10 +144,22 @@ def main(path):
         if line.startswith("# "):
             in_scripture = False
 
+        # A fenced code block is passed verbatim to LaTeX (often inside a raw
+        # ```-delimited diagram). \index{} injected inside one prints as
+        # literal visible text instead of being interpreted as a command —
+        # confirmed on books/bible/galatian's revelation-order diagram, where
+        # every "N:N"-shaped line in the fence surfaced raw \index[...] markup
+        # on the rendered page. Track fence state across lines, not just the
+        # delimiter line itself.
+        if line.strip().startswith("```"):
+            in_fence = not in_fence
+            out.append(line)
+            continue
+
         skip = (
             in_scripture
+            or in_fence
             or line.startswith("\\")          # raw LaTeX
-            or line.strip().startswith("```")
             or not line.strip()
         )
         if skip:
@@ -177,7 +193,7 @@ def main(path):
             last = 0
             for m in bare:
                 pieces.append(line[last:m.end()])
-                pieces.append(entry("03", "利未記", m.group("ch"), m.group("vs")))
+                pieces.append(entry(self_order, self_name, m.group("ch"), m.group("vs")))
                 last = m.end()
                 n_bare += 1
             pieces.append(line[last:])
@@ -204,4 +220,10 @@ def main(path):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1])
+    # optional: <path> <self_order> <self_name> to override the bare-reference
+    # book (default Leviticus, this library's original and still most common
+    # caller). e.g. scripture-index.py combined.md 48 加拉太書
+    if len(sys.argv) >= 4:
+        main(sys.argv[1], sys.argv[2], sys.argv[3])
+    else:
+        main(sys.argv[1])
