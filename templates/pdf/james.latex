@@ -43,6 +43,17 @@
   \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
   #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
 \makeatother
+
+%% Classical English typeface for the front/back cover — Baskerville for
+%% running text, Didot reserved for the large display title (invoked
+%% explicitly). Matches templates/pdf/revelation.latex's cover convention.
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
+\newfontfamily\didotfont{Didot}
+\newcommand{\baskervillefont}{\basklatin}
 \newcommand{\ucLatinRun}{\uckeep{\latinrun}}
 \newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
 \newcommand{\ucGreekRun}{\uckeep{\greekfont}}
@@ -132,6 +143,80 @@
 % Words of Jesus (echoed in commentary, e.g. Sermon on the Mount parallels)
 \definecolor{JesusRed}{RGB}{155,35,35}
 \newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% Matches templates/pdf/revelation.latex's cover convention, retoned to
+%% this book's forest-green/gold palette instead of Revelation's navy.
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+\usepackage{pgfornament}
+
+% Cover gradient (near-black forest green at top to the book's own
+% ChapterGreen at bottom)
+\definecolor{GreenDark}{RGB}{8,18,14}
+\definecolor{GreenLight}{RGB}{35,75,55}
+
+% Full-bleed background, painted in the shipout background hook so it
+% bleeds to the true physical page edge and does not disturb the
+% \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=GreenDark,bottom color=GreenLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the front cover and the
+% closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% A single fleuron, used as a divider accent (flanked by rules) on the
+% full-bleed cover pages and the colophon page. Ornament 70 (a symmetric
+% baroque flourish) reads far more clearly at small sizes than 88 (a bare
+% flourish-with-center-dot that thins to an almost invisible line when used
+% alone with generous surrounding whitespace, as on a colophon page).
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.7cm,color=#1]{70}%
+}
+
+% A simple, classical Latin cross with a small gold roundel at the crossing
+% — the book's explicit Christian emblem, reserved for the front cover and
+% colophon (the two pages that frame the reader's first and last impression).
+\newcommand{\coveremblem}[1][CoverGoldBright]{%
+\begin{tikzpicture}[scale=0.24]
+  \draw[color=#1,line width=1.3pt,line cap=round] (0,-1.15) -- (0,1.15);
+  \draw[color=#1,line width=1.3pt,line cap=round] (-0.62,0.45) -- (0.62,0.45);
+  \fill[color=#1] (0,0.45) circle (0.09);
+\end{tikzpicture}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{240,238,222}
+\definecolor{CoverGoldBright}{RGB}{200,168,88}
+\definecolor{CoverMuted}{RGB}{175,185,170}
 
 %% ============================================
 %% HYPERLINKS
@@ -330,6 +415,81 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{0.9cm}
+
+\coveremblem[CoverGoldBright]
+
+\vspace{0.4cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+\fleuron[CoverGoldBright]\hspace{0.3cm}{\color{CoverGoldBright}\rule{1.6in}{0.4pt}}\hspace{0.3cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 信心行道}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} Faith in Action --- The Epistle of James}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 雅各書研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the Epistle of James}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+你們要行道，不要單單聽道，自己欺哄自己。\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} "But prove yourselves doers of the word, and not merely\\
+hearers who delude themselves." --- James 1:22}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 你信的，活出來了嗎？}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} Have you lived out what you believe?}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
 % Title page
 \begin{titlepage}
 \thispagestyle{empty}
@@ -475,7 +635,12 @@ $endif$
   \node[font=\tiny,color=LightGray] at (3,-1.5) {羅 3:28};
 
   % Center - Common ground
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\small\bfseries,color=CommentaryBrown,align=center] at (0,-3.5) {共同真理 Common Truth:\\真信心必產生真行為\\True Faith Produces True Works};
+  % NOTE: `color=` (not `text=`) after `fill=` re-overrides the fill AND the
+  % text to the same color -- TikZ processes node options left to right, and
+  % `color` is a meta-key that sets draw+fill+text together. That silently
+  % turned this box solid CommentaryBrown with CommentaryBrown text on top,
+  % i.e. invisible. `text=` sets only the font color and leaves fill alone.
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\small\bfseries,text=CommentaryBrown,align=center] at (0,-3.5) {共同真理 Common Truth:\\真信心必產生真行為\\True Faith Produces True Works};
 
   % Arrows to center
   \draw[->,ScriptureGold,line width=1.5pt] (-1.5,-1.8) -- (-0.5,-3);
@@ -563,5 +728,114 @@ $endif$
 \mainmatter
 
 $body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\coveremblem[ScriptureGold]
+
+\vspace{0.5cm}
+
+\fleuron\hspace{0.3cm}{\color{ScriptureGold}\rule{1.3in}{0.4pt}}\hspace{0.3cm}\fleuron
+
+\vspace{1cm}
+
+{\small\itshape\color{CommentaryBrown} 各樣美善的恩賜和各樣全備的賞賜都是從上頭來的，\\從眾光之父那裡降下來的。}\\[0.4em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} "Every good thing given and every perfect gift is from above,\\coming down from the Father of lights." --- James 1:17}
+
+\vspace{1.2cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你看見耶穌了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Have you seen Jesus?}
+
+\vspace{1.4cm}
+
+{\color{ScriptureGold}\rule{0.9in}{0.4pt}}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria --- 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} ποιηταὶ λόγου}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "Doers of the Word"} · 行道的人——全書貫穿的呼召 (1:22)}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.4cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+本書逐段研讀雅各書全書五章，以「啟示的次序」為骨幹，整合老弟兄查經教導法、John Calvin 與 G. Campbell Morgan 的歷代注疏、以及 John MacArthur 逐節解經講道（gty.org）。正文五步——試煉熬煉出真信心、真信心必有真行為、真智慧馴服舌頭、真謙卑順服神、真忍耐盼望主來——之後，另加六篇跨書卷專題深論，把雅各書擺回箴言、利未記、阿摩司書、詩篇、傳道書與彼得前書旁邊，讀出這卷書從頭到尾早已站在整本聖經的智慧傳統與先知傳統裏說話。
+
+\vspace{0.3cm}
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ verse-by-verse study of all five chapters of James, built on the order of revelation, integrating Elder Wong's Bible teaching, the historical commentary of John Calvin and G. Campbell Morgan, and John MacArthur's verse-by-verse exposition (gty.org) --- followed by six cross-canonical studies placing James beside Proverbs, Leviticus, Amos, the Psalms, Ecclesiastes, and 1 Peter, so that the reader hears this epistle speaking, from its first line to its last, in the wisdom and prophetic traditions of the whole Bible.}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\small\bfseries\color{CoverCream} 五步：從聽道到行道}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Five Steps: From Hearing to Doing}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cp{3.4in}l@{}}
+第一步 & 試煉熬煉出真信心 \textit{\baskervillefont\color{CoverCream} Trials refine a true faith} & {\tiny\color{CoverMuted} 1:2-12}\\[0.25em]
+第二步 & 真信心必有真行為 \textit{\baskervillefont\color{CoverCream} True faith bears true works} & {\tiny\color{CoverMuted} 2:14-26}\\[0.25em]
+第三步 & 真智慧馴服舌頭 \textit{\baskervillefont\color{CoverCream} True wisdom tames the tongue} & {\tiny\color{CoverMuted} 3:1-18}\\[0.25em]
+第四步 & 真謙卑順服神 \textit{\baskervillefont\color{CoverCream} True humility submits to God} & {\tiny\color{CoverMuted} 4:1-17}\\[0.25em]
+第五步 & 真忍耐盼望主來 \textit{\baskervillefont\color{CoverCream} True patience awaits the Lord} & {\tiny\color{CoverMuted} 5:7-20}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\itshape\color{CoverCream} 叫一個罪人從迷路上轉回，便是救一個靈魂不死，並且遮蓋許多的罪。}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "He who turns a sinner from the error of his way will save his soul from death and will cover a multitude of sins." --- James 5:20}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.35cm}
+
+{\footnotesize\color{CoverMuted} \S\ James Edition v1.0 \S\ 2026 \S}
+\end{center}
 
 \end{document}
