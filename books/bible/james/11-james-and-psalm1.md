@@ -28,7 +28,7 @@ publisher: 三書精讀出版系統
 >
 > English (NASB 1995): "But one who looks intently at the perfect law, the law of liberty, and abides by it, not having become a forgetful hearer but an effectual doer, this man will be blessed in what he does."（雅1:25）
 
-三處經文（詩1:1、雅1:12、雅1:25）共同的開篇詞「有福」，不是巧合的修辭選擇——這是希伯來智慧文學一貫的體裁記號：用一句宣告，把整段教導定調為「這是通往真正福樂的道路」，而不僅僅是一條該遵守的規則。
+三處經文（詩1:1、雅1:12、雅1:25）共同的開篇詞「有福」，不是巧合的修辭選擇——這是希伯來智慧文學一貫的體裁記號：用一句宣告，把整段教導定調為「這是通往真正福樂的道路」，而不僅僅是一條該遵守的規則。詩篇編訂成書、雅各提筆寫信，相隔的世代已不可考，但同一位聖靈把「有福」這個開篇詞，從詩篇的門檻，一路安放到新約書信的開卷（詳見〈啟示的次序與神的計劃〉）。
 
 ## 逐項對照：兩棵樹，兩種不穩固
 
