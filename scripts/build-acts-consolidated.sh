@@ -72,8 +72,14 @@ add_file() {
 
 # Volume divider: a part-title page carrying the volume's theme and its
 # position in the 1:8 progression / the Spirit's work / the "道的增長" summary verse.
+# %b (not %s) for the description: the description carries a literal \n>\n>
+# to open a second blockquote paragraph (the 啟示的次序 marker). printf only
+# expands escapes inside the FORMAT string, so with %s those arrive in the
+# markdown as the two characters \ and n and xelatex then dies on
+# "Undefined control sequence \n". Same convention as
+# build-judges-consolidated.sh / build-job-consolidated.sh.
 add_volume() {
-    printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
+    printf '# %s\n\n> %b\n' "$1" "$2" >> "$COMBINED_MD"
     if [ -n "$3" ]; then
         printf '\n| | |\n|---|---|\n| **1:8 座標** | %s |\n| **聖靈的動作** | %s |\n| **道的增長** | %s |\n' \
             "$3" "$4" "$5" >> "$COMBINED_MD"
@@ -114,7 +120,7 @@ fi
 # 正文 · 五卷 · 28 章
 # ============================================================
 add_volume "卷一 · 耶路撒冷——你們就必得著能力 (Jerusalem) · 1-7章" \
-    "等候、澆灌、放膽——福音從一座城的一間樓房開始。" \
+    "等候、澆灌、放膽——福音從一座城的一間樓房開始。\n>\n> **啟示的次序·第一步**：能力不是門徒掙來的，是聖靈白白澆灌下來的（2:4）——1:8 的應許，先於任何一步使命。" \
     "耶路撒冷" "澆灌降臨（2:4）" "6:7 神的道興旺起來"
 for f in 01-ascension.md 02-pentecost.md 03-beautiful-gate.md 04-no-other-name.md \
          05-ananias.md 06-the-seven.md 07-stephen.md; do
@@ -122,28 +128,28 @@ for f in 01-ascension.md 02-pentecost.md 03-beautiful-gate.md 04-no-other-name.m
 done
 
 add_volume "卷二 · 猶太全地和撒瑪利亞——門被推開 (Judea and Samaria) · 8-12章" \
-    "逼迫叫門徒四散，四散卻叫福音蔓延——門一道一道被聖靈推開。" \
+    "逼迫叫門徒四散，四散卻叫福音蔓延——門一道一道被聖靈推開。\n>\n> **啟示的次序·第二步**：教會不是自己走出耶路撒冷的，是被逼迫趕出去的（8:1, 4）——1:8 的第二環，靠的是苦難，不是策略。" \
     "猶太·撒瑪利亞" "分散中引路（8:29, 39；10:19-20, 44）" "9:31；12:24"
 for f in 08-philip.md 09-damascus-road.md 10-cornelius.md 11-antioch.md 12-herod-peter.md; do
     add_chapter "$f"
 done
 
 add_volume "卷三 · 直到地極·第一次差遣 (To the Ends of the Earth: First Sending) · 13-15章" \
-    "聖靈親自從教會中分派差遣——福音第一次有計劃地走出耶路撒冷。" \
+    "聖靈親自從教會中分派差遣——福音第一次有計劃地走出耶路撒冷。\n>\n> **啟示的次序·第三步**：聖靈在禱告禁食中親自點名差遣（13:2）——1:8「直到地極」第一次不再是異象，是一趟真實動身的旅程。" \
     "地極——小亞細亞" "分派差遣（13:2）" "16:5 信心越發堅固"
 for f in 13-sent-by-the-spirit.md 14-through-tribulations.md 15-jerusalem-council.md; do
     add_chapter "$f"
 done
 
 add_volume "卷四 · 直到地極·進入歐洲 (To the Ends of the Earth: Into Europe) · 16-20章" \
-    "馬其頓的呼聲，把福音第一次帶過了海——從此走向整個地中海世界。" \
+    "馬其頓的呼聲，把福音第一次帶過了海——從此走向整個地中海世界。\n>\n> **啟示的次序·第四步**：聖靈先攔阻、再引路（16:6-10）——關上的門和開啟的異象是同一位聖靈的動作，福音第一次跨海進入歐洲。" \
     "馬其頓·亞該亞·亞細亞" "禁止與呼召（16:6-10）" "19:20 主的道大大興旺"
 for f in 16-macedonian-call.md 17-unknown-god.md 18-corinth.md 19-ephesus.md 20-miletus-farewell.md; do
     add_chapter "$f"
 done
 
 add_volume "卷五 · 捆鎖中的見證·直到羅馬 (Bound Witness: To Rome) · 21-28章" \
-    "鎖鏈沒有捆住福音——保羅在囚禁、審訊、風暴中，把見證一路帶到了羅馬。" \
+    "鎖鏈沒有捆住福音——保羅在囚禁、審訊、風暴中，把見證一路帶到了羅馬。\n>\n> **啟示的次序·第五步（終章）**：主親口定下這條路線（23:11）——保羅是被押著抵達地極的，1:8 的應許卻在鎖鏈中「並沒有人禁止」地兌現（28:31）。" \
     "羅馬" "在捆鎖中作證（20:23；23:11）" "28:31 並沒有人禁止"
 for f in 21-bound-for-jerusalem.md 22-stairs-testimony.md 23-lord-stood-by.md \
          24-before-felix.md 25-appeal-to-caesar.md 26-heavenly-vision.md \
