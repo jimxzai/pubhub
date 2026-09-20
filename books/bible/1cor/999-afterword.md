@@ -1,10 +1,12 @@
 ---
 title: 哥林多前書研讀
 subtitle: 1 Corinthians Deep Study
-author: PubHub 三書精讀系統
-date: 2026年8月
+author: PubHub 三書精讀編輯部
+date: 2026年9月20日
 publisher: 三書精讀出版系統
 ---
+
+\newpage
 
 # 跋 (Afterword)
 
@@ -28,7 +30,7 @@ publisher: 三書精讀出版系統
 
 **我們寫這一卷的時候，一直提醒自己：不要把哥林多教會寫成一群壞人。**他們是一群蒙恩得救、「在恩賜上沒有一樣不及人的」（1:7）信徒——問題不是他們沒有屬靈的東西，是他們把十字架挪到了邊上。
 
-\textcolor{ScriptureGold}{\textbf{這是一面鏡子，不是一份判決書。}}
+**這是一面鏡子，不是一份判決書。**
 
 所以請這樣用它：**每讀完一段，先不要想「這說的是哪一種教會」，先想「這說的是不是我」。**
 
