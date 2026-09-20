@@ -81,12 +81,7 @@ add_file() {
 
 # Volume divider: a part-title page carrying the volume's theme.
 add_volume() {
-    # %b (not %s) for the description: volume descriptions may carry a
-    # literal \n>\n> to open a second blockquote paragraph (the 全書骨幹
-    # spine marker). printf only expands escapes inside the FORMAT string, so
-    # with %s those arrive in the markdown as the two characters \ and n and
-    # xelatex then dies on "Undefined control sequence \n".
-    printf '# %s\n\n> %b\n' "$1" "$2" >> "$COMBINED_MD"
+    printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
     printf '\n\\newpage\n\n' >> "$COMBINED_MD"
     echo "  --- $1"
 }
@@ -119,23 +114,23 @@ fi
 # 正文 · 五卷 · 24 單元
 # ============================================================
 add_volume "卷一 · 患難中的安慰與坦誠 (Comfort and Candour) · 1:1-2:17" \
-    "保羅要為自己的使徒身分辯護，第一步不是舉證，是承認自己曾經絕望——「連活命的指望都絕了」。\n>\n> **全書骨幹·第一步**：軟弱不是保羅事奉的缺陷，是骨幹的起點——他先承認「自己心裏也斷定是必死的」，才說「不靠自己，只靠叫死人復活的神」。"
+    "保羅要為自己的使徒身分辯護，第一步不是舉證，是承認自己曾經絕望——「連活命的指望都絕了」。"
 for i in 01 02 03 04; do add_chapter "$i"; done
 
 add_volume "卷二 · 新約執事的榮耀 (The Glory of the New Covenant) · 3:1-4:18" \
-    "全書領受最密的一段：新約的榮耀遠超舊約，而承載這榮耀的器皿卻是會破的。兩者同時是真的。\n>\n> **全書骨幹·第二步**：有榮耀的新約職事，卻裝在會朽壞的瓦器裏——寶貝與瓦器同時是真的，這正是軟弱骨幹第一次被具體畫出來的地方。"
+    "全書領受最密的一段：新約的榮耀遠超舊約，而承載這榮耀的器皿卻是會破的。兩者同時是真的。"
 for i in 05 06 07 08 09; do add_chapter "$i"; done
 
 add_volume "卷三 · 和好與復和 (Reconciliation and Restoration) · 5:1-7:16" \
-    "眼光拉到永恆——帳棚與房屋、基督台前——再從永恆拉回一件具體的差事：作和好的使者。\n>\n> **全書骨幹·第三步**：帳棚會拆毀，牧者的心會被傷——軟弱不只發生在保羅的身體上，也發生在他為教會憂心的心腸上；和好的職事，是軟弱之人向軟弱之人伸出的手。"
+    "眼光拉到永恆——帳棚與房屋、基督台前——再從永恆拉回一件具體的差事：作和好的使者。"
 for i in 10 11 12 13 14; do add_chapter "$i"; done
 
 add_volume "卷四 · 捐輸的恩典 (The Grace of Giving) · 8:1-9:15" \
-    "兩章講捐款，卻一次也沒有從「需要」講起。他從基督講起——「他本來富足，卻為你們成了貧窮」。\n>\n> **全書骨幹·第四步**：馬其頓人在極窮之間格外樂捐——軟弱骨幹在此翻轉方向：不再只是忍受的重擔，成了主動給出去的恩典，源頭仍是那位為人成了貧窮的基督。"
+    "兩章講捐款，卻一次也沒有從「需要」講起。他從基督講起——「他本來富足，卻為你們成了貧窮」。"
 for i in 15 16 17 18; do add_chapter "$i"; done
 
 add_volume "卷五 · 使徒權柄的辯護 (The Defence of Apostolic Authority) · 10:1-13:14" \
-    "語氣急轉。別人的履歷寫成就，保羅寫鞭傷、船難、飢渴——最後寫那根沒有被拿走的刺。\n>\n> **全書骨幹·第五步**：用傷痕作履歷，刺沒有被拿走——軟弱骨幹走到終點，不是被治好，是被主說「我的能力是在人的軟弱上顯得完全」；卷首的絕望與卷末的誇口，是同一條線的兩端。"
+    "語氣急轉。別人的履歷寫成就，保羅寫鞭傷、船難、飢渴——最後寫那根沒有被拿走的刺。"
 for i in 19 20 21 22 23 24; do add_chapter "$i"; done
 
 # ============================================================
