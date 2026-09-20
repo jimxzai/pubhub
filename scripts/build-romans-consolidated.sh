@@ -81,7 +81,11 @@ add_file() {
 # Volume divider: a part-title page carrying the volume's theme and,
 # optionally, its place in the salvation order ($3 $4 $5).
 add_volume() {
-    printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
+    # %b (not %s) for the description: some descriptions carry a literal
+    # \n>\n> to open a second blockquote paragraph (the 啟示的次序 marker).
+    # printf only expands escapes inside the FORMAT string, so %s alone
+    # would print them as literal backslash-n rather than a line break.
+    printf '# %s\n\n> %b\n' "$1" "$2" >> "$COMBINED_MD"
     if [ -n "$3" ]; then
         # The separator row must be at least pandoc's --columns threshold (72),
         # or pandoc emits bare `l` columns that cannot wrap and the 鑰節 cell
@@ -132,35 +136,35 @@ fi
 # 正文 · 五卷
 # ============================================================
 add_volume "卷一 · 福音與定罪 (The Gospel and the Condemnation) · 1-3 章" \
-    "先讓每一張嘴都閉口——1:18 到 3:20 是聖經最長的一份起訴書；它存在的唯一理由，是叫 3:21 的「但如今」成為天亮。" \
+    "先讓每一張嘴都閉口——1:18 到 3:20 是聖經最長的一份起訴書；它存在的唯一理由，是叫 3:21 的「但如今」成為天亮。\n>\n> **啟示的次序·第一步**：神先讓每一張嘴都閉口，才顯明祂要賜的義——審判先於恩典，不是恩典的對立面，是恩典顯出分量的前提。" \
     "**定罪**——沒有義人，連一個也沒有（3:10）" \
     "3:23「因為世人都犯了罪，虧缺了神的榮耀」" \
     "人為甚麼需要救？"
 for i in 01 02 03; do add_chapter "$i"; done
 
 add_volume "卷二 · 因信稱義 (Justification by Faith) · 4-5 章" \
-    "兩個見證人（亞伯拉罕與大衛），兩個元首（亞當與基督）。稱義不是感覺，是判決；不是過程，是地位。" \
+    "兩個見證人（亞伯拉罕與大衛），兩個元首（亞當與基督）。稱義不是感覺，是判決；不是過程，是地位。\n>\n> **啟示的次序·第二步**：神先一次宣告地位，才要求持續的順服——因信稱義走在成聖之前，不是倒過來；根基先立好，才能往上蓋。" \
     "**稱義**——解決罪的刑罰，一次完成" \
     "5:1「我們既因信稱義，就藉著我們的主耶穌基督得與神相和」" \
     "神怎樣救人？"
 for i in 04 05; do add_chapter "$i"; done
 
 add_volume "卷三 · 與基督聯合 (Union with Christ) · 6-8 章" \
-    "從「豈可仍在罪中」到「不能隔絕的愛」——6 章講地位，7 章講誠實，8 章講確據。" \
+    "從「豈可仍在罪中」到「不能隔絕的愛」——6 章講地位，7 章講誠實，8 章講確據。\n>\n> **啟示的次序·第三步**：地位定了之後，神才處理罪的權勢——先是與基督同死同活的事實（6章），再是誠實面對仍然掙扎的「我」（7章），末了才是聖靈給的確據（8章）；次序不能倒過來，確據要蓋在誠實之上，不是誠實蓋在確據之上。" \
     "**成聖**——解決罪的權勢，天天進行" \
     "8:1「如今，那些在基督耶穌裏的就不定罪了」" \
     "得救的人怎樣活？"
 for i in 06 07 08; do add_chapter "$i"; done
 
 add_volume "卷四 · 神的主權與以色列 (God's Sovereignty and Israel) · 9-11 章" \
-    "若神在以色列身上失信，8 章的確據就站不住腳。這三章不是離題，是應許的保證書——末了以「深哉」的敬拜收尾。" \
+    "若神在以色列身上失信，8 章的確據就站不住腳。這三章不是離題，是應許的保證書——末了以「深哉」的敬拜收尾。\n>\n> **啟示的次序·第四步**：神的次序不肯把以色列丟在後面才處理——若應許在他們身上落了空，8章「不能隔絕的愛」就靠不住；神必須先把這一步走完，全書才有資格往下走到活祭。" \
     "**揀選**——神的話沒有落空（9:6）" \
     "11:29「因為神的恩賜和選召是沒有後悔的」" \
     "神的應許可靠嗎？"
 for i in 09 10 11; do add_chapter "$i"; done
 
 add_volume "卷五 · 活祭 (The Living Sacrifice) · 12-16 章" \
-    "前十一章幾乎沒有一句命令句；12:1 的「所以」之後，命令排山倒海——恩典在先，順服在後。" \
+    "前十一章幾乎沒有一句命令句；12:1 的「所以」之後，命令排山倒海——恩典在先，順服在後。\n>\n> **啟示的次序·第五步**：神的次序最後才臨到人的回應——十一章的教義先立好根基，十二章的「所以」才站得住；順服若走在恩典之前，就成了律法主義，不是活祭。" \
     "**生活**——因信稱義的人如何而活" \
     "12:1「將身體獻上，當作活祭，是聖潔的，是神所喜悅的」" \
     "恩典要求甚麼回應？"
