@@ -40,17 +40,41 @@ def replace(page, rect, html, size=10.3):
     page.apply_redactions(images=0, graphics=0)
     put(page, rect, html, size)
 
-# CSS's shared `p{margin:0 0 9pt 0}` is sized for whole-paragraph block
-# replacements (the copyright/guide page rewrites below) and overflows any
-# rect sized for a single in-line phrase. Single-character word-choice fixes
-# use this zero-margin variant instead of widening the shared CSS.
-def replace_inline(page, rect, text, size):
+# Single-character word-choice fixes (below) are mid-sentence and must sit
+# flush against untouched neighboring glyphs on the same line, so the
+# generic `insert_htmlbox`/CSS "serif" fallback (used for the whole-paragraph
+# rewrites above) is unusable here: its CJK metrics run ~20% wider per
+# character than this book's actual body font, and font-family in CSS does
+# not resolve to a different font in this MuPDF build regardless of the
+# name given, so there is no way to ask insert_htmlbox for the real font.
+# Instead this draws the replacement with insert_text() using the exact
+# same font, size, color and baseline origin as the original glyphs
+# (extracted via get_text('rawdict') at each target), which is pixel-exact
+# rather than approximate. The font is read live from the local macOS
+# install (Songti.ttc face 6, "Songti SC"/"Regular") each run — same
+# dependency already required to view or print this book's Chinese pages
+# (see eat-bible SKILL.md, "Fonts are a hard macOS dependency") — and is
+# never written to disk or committed; only fontTools' in-memory extraction
+# is a new requirement (`pip install fonttools`).
+def _load_songti_regular():
+    from fontTools.ttLib import TTCollection
+    import io
+    path = '/System/Library/Fonts/Supplemental/Songti.ttc'
+    if not Path(path).is_file():
+        raise SystemExit('Songti.ttc not found; the Scripture-wording patch requires macOS with Songti SC installed')
+    tc = TTCollection(path)
+    for face in tc.fonts:
+        if face['name'].getDebugName(1) == 'Songti SC' and face['name'].getDebugName(2) == 'Regular':
+            buf = io.BytesIO()
+            face.save(buf)
+            return buf.getvalue()
+    raise SystemExit('Songti SC Regular face not found in Songti.ttc')
+
+def patch_word(page, rect, origin, text, fontsize, color, fontbuffer):
     page.add_redact_annot(rect, fill=(1,1,1))
     page.apply_redactions(images=0, graphics=0)
-    css = f'body {{font-family:serif; font-size:{size}pt; margin:0;}} p {{margin:0;}}'
-    spare, scale = page.insert_htmlbox(rect, f'<p>{text}</p>', css=css, scale_low=1)
-    if spare < 0 or scale < 1:
-        raise RuntimeError(f'Text does not fit on source page {page.number+1}: {rect}')
+    page.insert_font(fontname='SongtiPatch', fontbuffer=fontbuffer)
+    page.insert_text(origin, text, fontsize=fontsize, fontname='SongtiPatch', color=color)
 
 def main():
     if hashlib.sha256(BASE.read_bytes()).hexdigest() != EXPECTED_HASH:
@@ -96,28 +120,33 @@ def main():
     replace(doc[47], fitz.Rect(45,595,448,669), '<p>編者比較：加拉太書與羅馬書都論及信心、律法與稱義；本版未取得支持原摩根引句的確切出處，故不以它斷定兩封信的直接寫作次序。以下仍從主題作比較：加拉太書與羅馬書像兩支軍隊從不同方向攻打同一座城：加拉太書駁斥外邦信徒被說服要靠割禮與律法「補足」因信稱義的軟弱，羅馬</p>', 10.1)
     # Scripture-wording corrections (2026-09-21 校對神 pass): verse-by-verse
     # checked against cnbible.com's labeled "繁體中文和合本 (CUV Traditional)"
-    # column. Each rect is search_for()-derived and the replacement is the
-    # same character count as the original, so no reflow is expected.
-    BODY = 9.925399780273438
-    REFLECT = 10.868300437927246
-    replace_inline(doc[68], fitz.Rect(182.5965576171875,267.96014404296875,222.41726684570312,277.88555908203125), '積蓄忿怒', BODY)
-    replace_inline(doc[68], fitz.Rect(309.82110595703125,319.5091552734375,350.21746826171875,329.4345703125), '就以忿怒', BODY)
-    replace_inline(doc[147], fitz.Rect(151.87522888183594,563.0291137695312,181.7308349609375,572.9544677734375), '服事主', BODY)
-    replace_inline(doc[244], fitz.Rect(236.0268096923828,572.9581909179688,285.76300048828125,582.883544921875), '是與你有益', BODY)
-    replace_inline(doc[244], fitz.Rect(192.44253540039062,586.109130859375,232.2235107421875,596.0344848632812), '是伸冤的', BODY)
-    replace_inline(doc[245], fitz.Rect(148.95230102539062,82.72415161132812,198.7281951904297,92.64955139160156), '不加害與人', BODY)
-    replace_inline(doc[262], fitz.Rect(395.3214416503906,306.06414794921875,435.0726318359375,315.98956298828125), '服事基督', BODY)
-    replace_inline(doc[278], fitz.Rect(320.0308837890625,56.42315673828125,350.263671875,66.34855651855469), '歸與神', BODY)
-    replace_inline(doc[278], fitz.Rect(358.4367370605469,185.07215881347656,398.18792724609375,194.99755859375), '彼此勸戒', BODY)
-    replace_inline(doc[278], fitz.Rect(364.6679992675781,379.4751281738281,414.731689453125,389.4005432128906), '有分，就當', BODY)
-    replace_inline(doc[294], fitz.Rect(107.37918090820312,457.0511169433594,178.1373748779297,466.9765319824219), '舉薦我們的姊妹', BODY)
-    replace_inline(doc[294], fitz.Rect(232.07342529296875,644.313232421875,302.96063232421875,654.2385864257812), '尼利亞和他姊妹', BODY)
-    replace_inline(doc[295], fitz.Rect(140.14109802246094,69.57415771484375,231.305908203125,79.49955749511719), '不服事我們的主基督', BODY)
-    replace_inline(doc[295], fitz.Rect(241.49929809570312,69.57415771484375,292.04937744140625,79.49955749511719), '只服事自己', BODY)
-    replace_inline(doc[295], fitz.Rect(188.7980499267578,245.29214477539062,268.46923828125,255.21754455566406), '歸與獨一全智的神', BODY)
-    replace_inline(doc[312], fitz.Rect(79.41268157958984,110.86825561523438,166.64166259765625,121.73655700683594), '歸與獨一全智的神', REFLECT)
-    replace_inline(doc[345], fitz.Rect(279.7076416015625,95.96426391601562,368.7190246582031,106.83256530761719), '歸與獨一全智的神', REFLECT)
-    replace_inline(doc[345], fitz.Rect(188.60958862304688,192.70025634765625,275.83856201171875,203.5685577392578), '歸與獨一全智的神', REFLECT)
+    # column. rect/origin/fontsize/color are all read from the original via
+    # get_text('rawdict') at each location; see patch_word() above.
+    songti = _load_songti_regular()
+    BODY, BODY_COLOR = 9.925399780273438, (50/255, 50/255, 50/255)
+    REFLECT, REFLECT_COLOR = 10.868300437927246, (0, 0, 0)
+    fixes = [
+        (68, (182.5965576171875,267.96014404296875,222.41726684570312,277.88555908203125), (182.5965576171875,276.4960021972656), '積蓄忿怒', BODY, BODY_COLOR),
+        (68, (309.82110595703125,319.5091552734375,350.21746826171875,329.4345703125), (309.82110595703125,328.0450134277344), '就以忿怒', BODY, BODY_COLOR),
+        (147, (151.87522888183594,563.0291137695312,181.7308349609375,572.9544677734375), (151.87522888183594,571.56494140625), '服事主', BODY, BODY_COLOR),
+        (244, (236.0268096923828,572.9581909179688,285.76300048828125,582.883544921875), (236.0268096923828,581.4940185546875), '是與你有益', BODY, BODY_COLOR),
+        (244, (192.44253540039062,586.109130859375,232.2235107421875,596.0344848632812), (192.44253540039062,594.6449584960938), '是伸冤的', BODY, BODY_COLOR),
+        (245, (148.95230102539062,82.72415161132812,198.7281951904297,92.64955139160156), (148.95230102539062,91.25999450683594), '不加害與人', BODY, BODY_COLOR),
+        (262, (395.3214416503906,306.06414794921875,435.0726318359375,315.98956298828125), (395.3214416503906,314.6000061035156), '服事基督', BODY, BODY_COLOR),
+        (278, (320.0308837890625,56.42315673828125,350.263671875,66.34855651855469), (320.0308837890625,64.95899963378906), '歸與神', BODY, BODY_COLOR),
+        (278, (358.4367370605469,185.07215881347656,398.18792724609375,194.99755859375), (358.4367370605469,193.60800170898438), '彼此勸戒', BODY, BODY_COLOR),
+        (278, (364.6679992675781,379.4751281738281,414.731689453125,389.4005432128906), (364.6679992675781,388.010986328125), '有分，就當', BODY, BODY_COLOR),
+        (294, (107.37918090820312,457.0511169433594,178.1373748779297,466.9765319824219), (107.37918090820312,465.58697509765625), '舉薦我們的姊妹', BODY, BODY_COLOR),
+        (294, (232.07342529296875,644.313232421875,302.96063232421875,654.2385864257812), (232.07342529296875,652.8490600585938), '尼利亞和他姊妹', BODY, BODY_COLOR),
+        (295, (140.14109802246094,69.57415771484375,231.305908203125,79.49955749511719), (140.14109802246094,78.11000061035156), '不服事我們的主基督', BODY, BODY_COLOR),
+        (295, (241.49929809570312,69.57415771484375,292.04937744140625,79.49955749511719), (241.49929809570312,78.11000061035156), '只服事自己', BODY, BODY_COLOR),
+        (295, (188.7980499267578,245.29214477539062,268.46923828125,255.21754455566406), (188.7980499267578,253.82798767089844), '歸與獨一全智的神', BODY, BODY_COLOR),
+        (312, (79.41268157958984,110.86825561523438,166.64166259765625,121.73655700683594), (79.41268157958984,120.21499633789062), '歸與獨一全智的神', REFLECT, REFLECT_COLOR),
+        (345, (279.7076416015625,95.96426391601562,368.7190246582031,106.83256530761719), (279.7076416015625,105.31100463867188), '歸與獨一全智的神', REFLECT, REFLECT_COLOR),
+        (345, (188.60958862304688,192.70025634765625,275.83856201171875,203.5685577392578), (188.60958862304688,202.0469970703125), '歸與獨一全智的神', REFLECT, REFLECT_COLOR),
+    ]
+    for page_index, rect, origin, text, fontsize, color in fixes:
+        patch_word(doc[page_index], fitz.Rect(*rect), origin, text, fontsize, color, songti)
     replace(doc[332], fitz.Rect(56,273,459,391), '''<p>查核範圍說明：舊版記錄曾稱 2026 年 9 月 2 日逐條核對教父與改教家資料，並報稱 108 條英文引句「零漂移、零查無」。本版尚未取得能重現該結果的逐條來源存檔與比對報告，因此撤回把上述數字視為完成驗證的保證。</p><p>下列作者、文本與來源表仍供讀者追溯。原有日期及查核分類屬編輯歷程記錄；引文逐字相符、譯文準確與使用許可仍須分別核定。凡未附可重現證據者，均列入待覆核。</p>''',10.2)
     regions, numbering = upgrade(doc, replace, put)
     changed = CHANGED | set(regions)

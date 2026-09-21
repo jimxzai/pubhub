@@ -1,6 +1,6 @@
 # Romans — publisher status
 
-Organized 2026-09-21. This is the current status entry point; cleanup did not rebuild the PDF or perform a new publisher scoring review.
+Organized 2026-09-21. The 2026-09-21 organization pass did not rebuild the PDF; a later same-day pass (校對神 Scripture-wording patch, below) did rebuild it via `scripts/merge_baseline_pdf.py`. Neither pass performed a new publisher scoring review.
 
 ## Recorded assessments
 
@@ -16,13 +16,15 @@ The separate [substantive evidence review](sources/audits/substantive-review.md)
 
 ## Canonical artifact and current checks
 
-- Deliverable: [romans-consolidated.pdf](../../../output/romans-consolidated.pdf), unchanged during cleanup.
-- Edition 1.1 · CUV / NASB 1995 · 2026-09-20; 348 pages, 504 × 720 pt (7 × 10 inches).
-- SHA-256: `5bd2074395b725a884a0c7d3735d11f4f13c079765464abaa828d800f35cce9f`.
-- Checked 2026-09-21: **13 regression tests pass**, 26 ordered manuscript sources / 16 chapters pass validation.
-- Current PDF inventory: **256 bookmarks, 366 link annotations**. The former 8 tests / 254 bookmarks / 382 links describe an earlier snapshot. Link counts alone do not prove navigation completeness.
-- Prior merge evidence: 196 pages wholly unchanged; 144 additional pages compared outside approved repair rectangles; eight earlier corrected/cover pages retain their prior treatment. See [merge audit](sources/audits/baseline-merge.json).
-- Prior technical audit recorded embedded fonts and no detected page-bounds errors. Cleanup does not claim a new visual proof, universal absence of overflow, or accessibility certification.
+- Deliverable: [romans-consolidated.pdf](../../../output/romans-consolidated.pdf). **Changed 2026-09-21** by the Scripture-wording patch below; superseded the SHA-256 recorded earlier the same day.
+- Edition 1.1 · CUV / NASB 1995 · 2026-09-20; 348 pages, 504 × 720 pt (7 × 10 inches) — unchanged by the patch.
+- SHA-256: `a04d7fd94cce13666dd9635164c56f9de5330a9ff74fd562502ae9ea93959527` (was `5bd2074395b725a884a0c7d3735d11f4f13c079765464abaa828d800f35cce9f` before the wording patch).
+- Checked 2026-09-21: **13 regression tests pass**, 26 ordered manuscript sources / 16 chapters pass validation. Not re-run against the patched PDF in this pass (they check the manuscript sources and the pre-patch baseline metadata, not page content).
+- Current PDF inventory: **256 bookmarks, 366 link annotations** — unchanged by the wording patch (it touches no links or bookmarks). The former 8 tests / 254 bookmarks / 382 links describe an earlier snapshot. Link counts alone do not prove navigation completeness.
+- Prior merge evidence: 196 pages wholly unchanged; 144 additional pages compared outside approved repair rectangles; eight earlier corrected/cover pages retain their prior treatment. **Superseded by the 2026-09-21 wording-patch rebuild**: 189 pages now wholly unchanged (18 more pages patched — see below); full detail in [merge audit](sources/audits/baseline-merge.json), which `merge_baseline_pdf.py` overwrites on every run.
+- Prior technical audit recorded embedded fonts and no detected page-bounds errors. Neither pass claims a new visual proof, universal absence of overflow, or accessibility certification. The wording patch was visually spot-checked (rendered PNG comparison) on all 8 affected pages, not machine-verified for pixel-level typography beyond the build script's own outside-region pixel-identity assertions.
+
+**2026-09-21 Scripture-wording patch**: added 18 corrections (2:5, 2:8, 7:6, 13:4 ×2, 13:10, 14:18, 15:7, 15:14, 15:27, 16:1, 16:15, 16:18 ×2, 16:27 ×3) to `scripts/merge_baseline_pdf.py`, matching the chapter-source fixes described under "Remaining release work" below. Each correction was redacted and redrawn with `page.insert_text()` using the exact original baseline/fontsize/color read via `get_text('rawdict')` and the same font (Songti SC Regular, extracted live from the local macOS install — never committed to the repo) rather than the generic CSS fallback used by the script's existing whole-paragraph replacements, because that fallback's CJK metrics run ~20% wider than this book's actual font and would not fit these single-phrase rects. The build's own self-verification (pixel-identity outside approved regions, link resolution, page geometry, metadata) passed; the 18 patched pages were additionally rendered and visually inspected.
 
 The original `romans-consolidated 3.pdf` survives as `sources/archive/romans-original-baseline.pdf`; it remains the layout authority. The 221-page editorial reference is not a replacement edition. See [source reconciliation](SOURCE-RECONCILIATION.md).
 
@@ -40,7 +42,7 @@ The 46 "unresolved" quotations are from a separate script, `scripts/audit_actual
 
 None of the 46 were confirmed as an actual wording error in this pass. Reconciling `audit_actual_pdf.py` against the older, already-verified evidence (rather than re-deriving it) remains open work.
 
-1. Rebuild the PDF from the corrected chapter sources; resolve the remaining quotation locators and reconcile the two citation-verification systems' evidence records; retain edition and rights evidence.
+1. ~~Rebuild the PDF from the corrected chapter sources~~ — done for the 15 Scripture-wording corrections via the direct PDF patch above (`merge_baseline_pdf.py`, 2026-09-21); the chapter markdown files and the delivered PDF now agree on these verses. Resolve the remaining quotation locators and reconcile the two citation-verification systems' evidence records; retain edition and rights evidence.
 2. Obtain named independent Scripture/content and bilingual copyediting approvals.
 3. Validate accessible tagging and reading order; the PDF remains untagged.
 4. Obtain printer-specific proof approval before commercial release.
