@@ -16,7 +16,8 @@ publisher: 三書精讀出版系統
 
 > **本章鑰詞：安息 (Rest)** \
 > **錨點**：11:28「凡勞苦擔重擔的人可以到我這裏來，我就使你們得安息。」 \
-> **卷三 · 君王的權能與奧祕**：門徒受差遣出去（10章）之後，衝突開始擴大——本章正站在這道分水嶺上：一位在監獄裏動搖的先知，幾座看見神蹟卻不悔改的城，最終導向一句耶穌從未在別處這樣說過的邀請。
+> **卷三 · 君王的權能與奧祕**：門徒受差遣出去（10章）之後，衝突開始擴大——本章正站在這道分水嶺上：一位在監獄裏動搖的先知，幾座看見神蹟卻不悔改的城，最終導向一句耶穌從未在別處這樣說過的邀請。 \
+> **全書座標**：卷三·君王的權能與奧祕　第4／6步——分水嶺：衝突升高之中，君王向勞苦擔重擔的人發出邀請，答案不是證據，是祂自己。
 
 第十一章最深的啟示，不是耶穌如何審判不信的城，而是祂在審判宣告的正中央，忽然轉身向每一個「勞苦擔重擔的人」發出邀請——四福音書裏最溫柔、也最具權柄的自我啟示：\jesus{「到我這裏來」}。能發出這邀請的，只有那位宣告「一切所有的都是我父交付我的」的兒子（11:27）；能應驗這邀請的，也是那位後來在客西馬尼親自將自己交在父手中的耶穌（26:39）。約翰在獄中問「你就是那要來的嗎」，耶穌沒有為自己辯護，只把已成就的事實擺在他眼前——祂給每一個帶著疑問前來的人，最終的答案從來不是一串證據，是祂自己。
 
@@ -182,7 +183,9 @@ publisher: 三書精讀出版系統
 
 麥克阿瑟論安息的邀請（"Jesus' Personal Invitation"）：
 
-> 「It is not intelligence which shuts people out of the Kingdom; it is intellectual pride.」（把人擋在天國門外的，不是智慧不足，而是理性的驕傲。）MacArthur 指出「come unto me」所應許的安息，其實質是救恩本身——「to cease from action, to be free from whatever disturbs, to be fixed and settled, to be confident and trustful, to lean on」。
+> "It is not intelligence which shuts people out of the Kingdom; it is intellectual pride."
+>
+> 把人擋在天國門外的，不是智慧不足，而是理性的驕傲。MacArthur 指出「come unto me」所應許的安息，其實質是救恩本身——「to cease from action, to be free from whatever disturbs, to be fixed and settled, to be confident and trustful, to lean on」。
 >
 > — John MacArthur, "Jesus' Personal Invitation, Part 1"（論太11:25-30），Grace to You, gty.org
 

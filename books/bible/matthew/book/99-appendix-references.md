@@ -155,19 +155,21 @@ D.A. Carson 是全書引用最頻繁的當代學者，論及主題包括：家�
 
 ---
 
-## 六、引文核對記錄 (Verification Record)
+## 六、引文核對記錄——摩根 (Verification Record — Morgan)
 
-下列各章的摩根、麥克阿瑟引文，已逐字比對 bibliaplus.org 與 gty.org 的原始頁面：
+逐字引文（`> "英文原句"` 排印，附中譯與出處）已比對 bibliaplus.org 原始頁面：第8章、第9章、第10章、第15章、第16章（共10處）。
 
-- **第8章**：Morgan；MacArthur, *The Quality of Great Faith*（太8:5-13）
-- **第9章**：Morgan
-- **第10章**：Morgan；MacArthur, *The Messengers of the King*（太10章）
-- **第11章**：Morgan；MacArthur（太11:1-6、11:25-30 兩篇講章）；奧古斯丁《懺悔錄》
-- **第12章**：Morgan；MacArthur, *The Lord of the Sabbath*；屈梭多模《馬太福音講道集》第39篇（撮述）
-- **第15章**：Morgan；MacArthur（交叉引用第8章講章）
-- **第16章**：Morgan；MacArthur（四篇講章，論太16:13-28）；潘霍華《作門徒的代價》
+要旨綜述的章（提及摩根觀點，但本章未加引號逐字引用，僅作方法性綜述）：第11、12、13、23章；第23章另有明文體例說明，不作逐字引文處理。
 
-其餘各章對摩根與麥克阿瑟的引述，凡未附網址者，均為撮述並已在正文標明。
+## 七、引文核對記錄——麥克阿瑟 (Verification Record — MacArthur)
+
+逐字引文已比對 gty.org 原始頁面，計第 11、16、23 章：
+
+- **第11章**：*"Jesus' Personal Invitation, Part 1"*（論太11:25-30）
+- **第16章**：*The Supreme Confession*（論太16:13-17）
+- **第23章**：*"The Condemnation of False Spiritual Leaders, Part 1"*（論太23:1-12）
+
+第8、9、10、12、13、15章對麥克阿瑟的引述（含講道篇名與 gty.org 連結）均為撮述，未附逐字引句；引用的講章篇名可據以查證論點出處，但正文所呈現的中文行文本身非逐字翻譯。
 
 ---
 
