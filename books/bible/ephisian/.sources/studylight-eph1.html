@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Access Denied &mdash; StudyLight.org</title>
+<link rel="shortcut icon" href="https://www.studylight.info/images/favicon.ico" type="image/x-icon">
+<link rel="preload" href="https://www.studylight.info/fonts/S6uyw4BMUTPHjx4wXg.woff" as="font" type="font/woff" crossorigin="anonymous">
+<style>
+@font-face{font-family:Lato;font-style:normal;font-weight:400;src:local('Lato Regular'),url(https://www.studylight.info/fonts/S6uyw4BMUTPHjx4wXg.woff) format('woff');font-display:swap}
+:root{--mustard:#deac27;--slate:#6b6b6b;--rule:#dadada}
+*{box-sizing:border-box;margin:0;padding:0;text-decoration:none}
+body{font-family:Lato,sans-serif;background:#fff;color:#333;min-height:100vh;display:flex;flex-direction:column}
+.header{background-color:var(--slate);width:100%}
+.header-logo{position:relative;background-image:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHgAAABBCAMAAAAtz5CFAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABaUExURWtra+KuJWlqbGdpbeSvJGRnb2Vobt6sJ+CtJuawI29tadipK3VwZnp0YoF3XpqGT7uYPLWVQJSCU8yiMq6RRKeNSI5/V9KmLoh7WsWeNmBlcaCJTNyrKcCbOWNygeUAAARhSURBVFjD5VnZdqQ4DPUmYYMx+1YU//+bY1umk+ki1ZlOxXkYPZGE46srXS04jGUwyZptLIV/Egggc0AK6eGEPTg3I3oPhOv7GsW3oZ2k0DqLAnpTFPpeS2FbrUwxlvLzRyECJEMpn7gsQVpXE7ToF12NDFdeFIWZQBxGexfMZj+DLBBkWa9zs0/e9r7pXV1KDy8u/APh9mMp7m0dAuu40tysYBePzIcSRk89+HCIP0ZbAlv3dqi0MmRKKV0N7TTXAj14OkAIiYCl27fCKK61uc/I0OmA0iK2yj+o+VbfNSE38JwsSDcNOh5VvJnWXBlVbV3jLJMhB8h8TPZu8KjpRVVZKcrAVFf21gSmqkXoiLJn/xS27I/C8PeY7+E9uF62dhynqduWigf/3v5sRmAYccx+qysd5QWuoFdU/yTGdh+U+gD1BOeKUqAe3Asqxj6GeGB4qOgBYEuU1fghWzsthv921nMv3kIR3zMdChuYFny9RQ/4wGClM9VxjQvl/h42KCvkORBUV/T+lYDqiHCRMsV6vCUPZpSRe8G3yyjjPLzB8qCjsenn1dvcz83UehEZ/sg/aO6+7XWSkBkB5wAT5EUedEi/8UK7wEXbcXUe5gl0vRUAeBqALF3TDVURyXPvAY+pVsXQNrUAiSQhXdVYDrF3NLcYYh2kvsW8NxdhdoPRZ9z41lhE+dgokFk3790xDEtVLcPWdtPsSqQJQHXrFQQwxULaJEseQBScaS9U1RcnXcWPVcAHPYZahmSltbVl9MP5Kq6cKFuqH63dbScPhBCbUd1DtxY4qZRdrrZV/nGQ+IOEFL93wCQhMwE9mSmVcuGkrKdZXuCmMGuz9AL/dj4lCfGlpKblH6AlD4CFPH2Iy/lo4e/HpiAJBVVRIfk+PXMq5atToUmdSlUzfmlRgF6lnnwbqZAgyktrd3EurKk2zVbDF3cBUnGh+l+FRPIyOzz2jTg24yBj+NUtBGJuCzUIMSjyIAZddY8JlqmBm058fR+jkRiTu7+fiabFiwSffF+xB8JOlA+ITENN13dj7uvvh8u0HXg9vGT/FJQ4rVeSl+pRruPkHginScmrGtlLjLqlD+Atdi/TIZMID6SkI0WrHl6D60NI07Fwt8BJLZcVfBI23Yv4Bsqj0VprP41DctV4iStpkvHFvu4DI6mGVxb6rVuvl/G08V6V9xf0VbtopZAS8ZkEPeGXftZIsidnYnMuKyyrpWESpmVe4LQkfTCzvtHghyJ9Lmd8xczAtITqF2v6E+ZoPdly47Ke2nSXO9Js5GkZzQ3c8df3y0/ZwV87Ef8jMJ/xfwPc/hRwl3L8Q+WkmuziavQP1fEal6P8w4nZJfbqQ+YGps92XdncUyLtmPlbF5yXT7nrSdpfd3G5d590F5e9oN5uaTLLS7BBfebm/Bvk1dPXcfbNWpTDD/XrtNPzIXuW0y1N/sXrpFzlruVfwm5R5K5l+leDmiA3MrUvrZrMLfu8y9S8yZDmfwApiEfzXKA26AAAAABJRU5ErkJggg==);background-size:7.45em;height:4.4em;background-position:left;background-repeat:no-repeat;cursor:pointer}
+.header-logo-text{position:absolute;top:0.27em;left:0.68em;font-weight:700;font-size:2.91em;color:#fff}
+.header-dotorg{color:var(--mustard)}
+.content{flex:1;display:flex;align-items:center;justify-content:center;padding:40px 20px;border-top:1px solid var(--rule);border-bottom:1px solid var(--rule)}
+.card{background:#fff;border:1px solid var(--rule);border-top:4px solid var(--mustard);max-width:540px;width:100%;padding:40px 36px;text-align:center}
+.code{font-size:72px;font-weight:700;color:var(--mustard);line-height:1}
+.label{font-size:22px;font-weight:700;color:var(--slate);margin:10px 0 6px}
+.desc{font-size:15px;color:#6b6b6b;line-height:1.6;margin-bottom:24px}
+.home-btn{display:inline-block;background:var(--mustard);color:#fff;font-size:15px;font-weight:700;padding:11px 28px;border-radius:2px}
+.home-btn:hover{opacity:.85}
+.contact{margin-top:20px;font-size:13px;color:#6b6b6b}
+.contact a{color:#c85335}
+.footer{background-color:var(--slate);color:#fff;text-align:center;min-width:360px}
+.footer-links{padding:10px;background-color:var(--mustard);color:#fff;font-size:13px;font-style:italic}
+.footer-links a{margin:0 5px;color:#fff}
+.footer-links a:hover{opacity:.8}
+.footer-report{font-size:12px;padding:10px;border-bottom:1px solid var(--mustard)}
+.footer-report a{color:#dadada}
+.footer-copyright{display:flex;justify-content:space-between;padding:12px 10px;font-size:11px}
+@media only screen and (max-width:767px){.header-logo-text{font-size:41px;top:16px}}
+</style>
+</head>
+<body>
+<div class="header">
+  <div class="header-logo" onclick="location.href='/'">
+    <span class="header-logo-text">StudyL&#305;ght<span class="header-dotorg">.org</span></span>
+  </div>
+</div>
+<div class="content">
+  <div class="card">
+    <div class="code">403</div>
+    <div class="label">Access Denied</div>
+    <p class="desc">Sorry for the interruption &mdash; your request was temporarily blocked because your IP address, browser, or request pattern looked like potentially automated traffic.</p>
+    <div id="verify-wrap" style="margin:0 0 24px">
+      <p class="desc" style="margin-bottom:14px">Hang tight &mdash; we&rsquo;re just making sure you&rsquo;re a person. If a checkbox appears below, tick it to restore access.</p>
+      <div class="cf-turnstile" data-sitekey="0x4AAAAAAD0AUVT46nxtRorX" data-callback="slUnblock" data-theme="light" data-appearance="interaction-only" style="display:inline-block"></div>
+      <p id="verify-status" style="font-size:13px;color:#6b6b6b;margin-top:12px;min-height:18px" role="status" aria-live="polite"></p>
+    </div>
+    <a class="home-btn" href="/">Return to StudyLight.org</a>
+    <p class="contact">Blocked in error? <a href="/site-resources/contact-sl.html">Contact us</a> and we'll get it sorted out.</p>
+  </div>
+</div>
+<div class="footer">
+  <div class="footer-links">
+    <a href="/site-resources/termsofuse.html">terms&#160;of&#160;use</a> &bull;
+    <a href="/site-resources/privacy-policy.html">privacy&#160;policy</a> &bull;
+    <a href="/site-resources/rights-and-permissions.html">rights&#160;and&#160;permissions</a> &bull;
+    <a href="/site-resources/contact-sl.html">contact&#160;sl</a> &bull;
+    <a href="/site-resources/about.html">about&#160;sl</a>
+  </div>
+  <div class="footer-report">To report dead links, typos, or html errors use the convenient <a href="/site-resources/contact-sl.html">contact form</a></div>
+  <div class="footer-copyright">
+    <div>StudyLight.org &copy;&#160;2001-2026</div>
+    <div>Powered by Light<em>speed</em> Technology</div>
+  </div>
+</div>
+<script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+<script>
+function slUnblock(token){
+  var s=document.getElementById('verify-status');
+  s.textContent='Verifying…';
+  fetch('/cgi-bin/default/unblock.cgi',{method:'POST',headers:{'Content-Type':'application/x-www-form-urlencoded'},body:'cf-turnstile-response='+encodeURIComponent(token)})
+   .then(function(r){return r.json();})
+   .then(function(d){
+      if(d&&d.ok){ s.textContent='Verified — taking you to StudyLight…'; setTimeout(function(){location.href='/';},900); }
+      else { s.style.color='#c85335'; s.textContent='Verification failed. Please try again, or use the contact link below.'; }
+   })
+   .catch(function(){ s.style.color='#c85335'; s.textContent='Network error — please try again.'; });
+}
+</script>
+</body>
+</html>
