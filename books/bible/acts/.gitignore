@@ -1,0 +1,4 @@
+.build/
+dist/
+reports/
+.DS_Store

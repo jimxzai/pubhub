@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：承接1:1-8的問安，這是「顯現」這一步的高峰——約翰終於轉頭看見祂，卷首鑰詞「人子」在此正式登場，為第2-3章七封信的「我知道」預備了說話的主角。
+
 同一位使徒約翰，在寫約翰福音時，記錄了在最後晚餐時靠著耶穌胸膛的那位溫柔的主；但在拔摩海島上，他看見的卻是榮耀威嚴的人子——頭髮皆白如雪，眼目好像火焰，腳好像爐中鍛鍊發亮的銅，聲音好像眾水轟鳴，口中吐出兩刃利劍，面貌好像烈日放光。約翰一見這位榮耀的基督，「就仆倒在他腳前，像死了一樣」。這就是啟示錄的基調：我們所認識的耶穌，遠比我們熟悉的形像更榮耀、更威嚴、更可畏——而正是這一位，親手按著仆倒的約翰說：「不要懼怕。」
 
 ---
@@ -128,8 +130,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -147,15 +150,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon 2
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根描述約翰在拔摩海島所見的基督形像，如何同時是人子、又超越一切人性的榮光：
+
+> "He is seen as 'a Son of man,' nevertheless, in His Person removed from all others in the amazing splendor of His glory."
+>
+> 中譯：祂被看見是「一位好像人子」，然而在祂的位格裏，卻因祂榮耀的驚人光彩，與其他一切人截然不同。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄1章, https://www.studylight.org/commentaries/eng/gcm/revelation-1.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《新約注釋：啟示錄1-11章》中提醒讀者，約翰所見的基督，與福音書中溫柔醫治病人、抱起孩童的耶穌是同一位，但這裡強調的是祂審判者與掌權者的身分；他認為教會若只記得溫柔的耶穌，卻忘了這位眼目如火焰的榮耀基督，就無法正確面對這個世界。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到約翰見到榮耀基督便仆倒如死人，麥克阿瑟解釋這反應背後的原因：
+
+> "But to see unveiled glory is so devastating and so shocking that it causes one to fall over lifeless."
+>
+> 中譯：但親眼看見未經遮蔽的榮光，是如此令人震撼、如此令人驚駭，以致使人仆倒、毫無氣息。（66-5）
+> — John MacArthur, *The Vision of the Glorified Son, Part 2* (gty.org, sermon 66-5), https://www.gty.org/sermons/66-5/the-vision-of-the-glorified-son-part-2
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其《啟示錄注釋》(BECNT) 中論到「不要懼怕」一語出現在異象最令人戰慄的時刻，認為這正說明了啟示錄的寫作目的：不是要恐嚇讀者，而是要藉著顯明基督的至高權柄，把他們的懼怕轉化為敬拜。
 
@@ -262,6 +279,8 @@ publisher: 三書精讀出版系統
 ## 老弟兄精義 (The Distilled Key)
 
 約翰仆倒之處，正是敬拜真正開始之處——認識這位滿有權柄又親手扶起仆倒之人的基督，才是啟示錄接下來每一個異象得以被正確理解的起點。
+
+**你看見耶穌了嗎**：頭髮皆白如雪、眼目如同火焰、腳像精煉的銅、聲音如眾水轟鳴——你看見的，不是一個溫和到讓人無感的耶穌，而是那位曾死過、現在又活了、拿著死亡和陰間鑰匙的主。祂按手在仆倒之人身上，說的第一句話是「不要懼怕」。
 
 ---
 

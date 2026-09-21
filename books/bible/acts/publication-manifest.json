@@ -1,0 +1,28 @@
+{
+  "title": "使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版",
+  "book": "Acts",
+  "edition": "2026 整編版",
+  "source_identity": "CUV / NASB selected excerpts",
+  "canonical_output": "output/acts-consolidated.pdf",
+  "canonical_builder": "scripts/build-acts-consolidated.sh",
+  "trim_size": "7x10in",
+  "pages": 435,
+  "chapters": 28,
+  "publisher_score_internal": 9.6,
+  "release_status": "internal rights-review edition",
+  "qa": {
+    "strict_source_validation": true,
+    "rights_audit_documented": true,
+    "missing_glyph_warnings": 0,
+    "overfull_box_warnings": 0,
+    "fonts_embedded": true,
+    "visual_review": true
+  },
+  "open_approvals": [
+    "NASB/Lockman permission and notice",
+    "hymn permissions",
+    "modern commentary quotation permissions",
+    "final scholarly fact-check",
+    "alternate-format accessibility QA"
+  ]
+}

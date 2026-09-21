@@ -192,6 +192,7 @@
 %% ============================================
 \usepackage{hyperref}
 \hypersetup{
+  pdflang={zh-TW},
   colorlinks=true,
   linkcolor=ChapterRed,
   urlcolor=ScriptureGold,
@@ -200,7 +201,10 @@
   pdftitle={$title$$if(subtitle)$ -- $subtitle$$endif$},
   pdfauthor={$if(author)$$author$$endif$},
   pdfsubject={Gospel of Mark Deep Study},
-  pdfkeywords={Bible, Gospel of Mark, Servant, Bible Study, 馬可福音}
+  pdfkeywords={Bible, Gospel of Mark, Servant, Bible Study, 馬可福音},
+  pdfstartview=FitH,
+  pdfdisplaydoctitle=true,
+  pdfpagelabels=true
 }
 
 %% ============================================
@@ -236,6 +240,9 @@
 %% ============================================
 \usepackage{fancyhdr}
 \pagestyle{fancy}
+% Reserve enough vertical space for bilingual running heads.  Without this,
+% fancyhdr emits headheight warnings and can crowd the first text line.
+\setlength{\headheight}{34pt}
 \fancyhf{}
 \fancyhead[LE,RO]{\small\thepage}
 \fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
@@ -328,6 +335,7 @@
 \emergencystretch=6em
 \hyphenpenalty=50
 \exhyphenpenalty=50
+\raggedbottom
 \sloppy
 \hbadness=10000
 \hfuzz=2pt
@@ -365,115 +373,9 @@ $endif$
 \pagestyle{empty}
 
 %% ============================================
-%% COVER ART PAGE — the ox (馬可＝牛), the servant's
-%% beast of burden and altar offering. Full-bleed,
-%% gold-bordered, matching the appendix/back-cover palette.
-%% ============================================
-\thispagestyle{empty}
-\begin{tikzpicture}[remember picture, overlay]
-  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  \draw[ScriptureGold, line width=2.8pt]
-    ([xshift=0.42in,yshift=0.42in]current page.south west)
-    rectangle
-    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
-  \draw[ScriptureGold, line width=0.5pt]
-    ([xshift=0.50in,yshift=0.50in]current page.south west)
-    rectangle
-    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
-  \draw[ChapterRed, line width=0.3pt, opacity=0.55]
-    ([xshift=0.58in,yshift=0.58in]current page.south west)
-    rectangle
-    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
-  \foreach \cnr in {south west, south east, north west, north east} {
-    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
-    \fill[JesusRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
-  }
-\end{tikzpicture}
+%% COVER ART PAGE — vector burgundy-and-gold series cover.
+\input{$mark-cover-dir$/cover-front.tex}
 
-\begin{center}
-\vspace*{0.42in}
-
-{\footnotesize\scshape\color{ChapterRed} Three Books Deep Reading \textbullet\ Gospel of Mark}\\[0.08cm]
-{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 馬可福音深度研讀}
-
-\vspace{0.16cm}
-\begin{tikzpicture}
-  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
-  \fill[ScriptureGold] (-0.35,0) circle (0.04);
-  \fill[ScriptureGold] (0,0) circle (0.06);
-  \fill[ScriptureGold] (0.35,0) circle (0.04);
-  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
-\end{tikzpicture}
-\vspace{0.22cm}
-
-{\fontsize{13}{15}\selectfont\itshape\color{TextGray} The Second Gospel \textperiodcentered\ 牛的視角：從第一句看見僕人基督}
-
-\vspace{0.30cm}
-
-% ===== OX WITH YOKE AND TOWEL (馬可的活物記號) =====
-\begin{tikzpicture}[scale=0.85, transform shape]
-  % Halo — radiating glory rays (quieter than John's, servant not sovereign)
-  \draw[ScriptureGold, line width=0.3pt, opacity=0.08] (0,0.2) circle (2.0);
-  \draw[ScriptureGold, line width=0.3pt, opacity=0.14] (0,0.2) circle (1.7);
-  \draw[ScriptureGold, line width=0.4pt, opacity=0.20] (0,0.2) circle (1.4);
-
-  % Ox head — simple iconographic form (馬可＝牛，祭壇的獻祭走獸)
-  \fill[ChapterRed] (-0.55,0.55) .. controls (-0.75,0.95) and (-0.35,1.15) .. (0,1.05)
-                    .. controls (0.35,1.15) and (0.75,0.95) .. (0.55,0.55)
-                    .. controls (0.65,0.25) and (0.35,-0.05) .. (0,-0.05)
-                    .. controls (-0.35,-0.05) and (-0.65,0.25) .. cycle;
-  % Horns
-  \draw[ChapterRed, line width=2.2pt] (-0.45,0.95) .. controls (-0.85,1.15) .. (-0.95,0.75);
-  \draw[ChapterRed, line width=2.2pt] (0.45,0.95) .. controls (0.85,1.15) .. (0.95,0.75);
-  % Eyes and muzzle
-  \fill[JesusRed] (-0.18,0.55) circle (0.05);
-  \fill[JesusRed] (0.18,0.55) circle (0.05);
-  \fill[ScriptureGold,opacity=0.6] (0,0.05) ellipse (0.28 and 0.18);
-
-  % Yoke (服事的軛) resting below
-  \draw[CommentaryBrown, line width=3pt] (-0.9,-0.35) -- (0.9,-0.35);
-  \draw[CommentaryBrown, line width=2pt] (-0.55,-0.35) -- (-0.55,-0.55);
-  \draw[CommentaryBrown, line width=2pt] (0.55,-0.35) -- (0.55,-0.55);
-\end{tikzpicture}
-
-\vspace{0.10cm}
-\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
-\vspace{0.24cm}
-
-{\fontsize{34}{40}\selectfont\bfseries\color{ChapterRed} 僕人之路}\\[0.10cm]
-{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} The Way of the Servant}
-
-\vspace{0.20cm}
-{\fontsize{22}{26}\selectfont\bfseries 馬可福音研讀}\\[0.08cm]
-{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Gospel of Mark}
-
-\vspace{0.24cm}
-{\fontsize{15}{18}\selectfont\itshape\color{ChapterRed} Υἱὸς Θεοῦ}\quad
-{\footnotesize\scshape\color{CommentaryBrown} “Son of God”}\quad
-{\footnotesize\bfseries\color{JesusRed} 神的兒子}
-
-\vfill
-
-\fcolorbox{ScriptureGold}{white}{%
-\begin{minipage}{4.3in}
-\centering\vspace{0.15cm}
-{\footnotesize\color{JesusRed}
-「神的兒子，耶穌基督福音的起頭。」}\\[0.10em]
-{\scriptsize\itshape\color{TextGray}
-“The beginning of the gospel of Jesus Christ, the Son of God.”}\\[0.10em]
-{\scriptsize\color{ChapterRed} 馬可福音 1:1 \textperiodcentered\ Mark 1:1}
-\vspace{0.15cm}
-\end{minipage}}
-
-\vspace{0.3in}
-\end{center}
-\cleardoublepage
-
-%% ============================================
 %% FRONTISPIECE — "全書一句話" spread built on Mark's
 %% own opening sentence (1:1), the book's self-declared
 %% thesis, not a borrowed framework verse.
@@ -1257,7 +1159,7 @@ $body$
 ἐπιτιμάω & epitimaō & 斥責 & 1:25；3:12；4:39；8:33，貫穿全書用於趕鬼、平靜風浪、斥責彼得 \\
 ἐρῆμος & erēmos & 曠野 & 1:3-13 反覆出現，是馬可預備主題的舞台 \\
 εὐαγγέλιον & euangelion & 福音、好消息 & 1:1, 14；全書7次，是全書關鍵詞 \\
-εὐθύς & euthys & 立刻、隨即 & 全書近40次，馬可招牌用詞——文體而非鑰匙（見附錄四） \\
+εὐθύς & euthys & 立刻、隨即 & 全書近40次，馬可招牌用詞——文體而非鑰匙（見卷首《「立刻」與十字架——全書的骨幹》） \\
 ζύμη & zymē & 酵 & 8:15，象徵擴散滲透的敗壞影響 \\
 θηρίον & thērion & 野獸 & 1:13，唯獨馬可記載此細節 \\
 θλῖψις & thlipsis & 患難、災難 & 13:19, 24 \\
@@ -1391,7 +1293,7 @@ $body$
 \addcontentsline{toc}{chapter}{附錄十二：字母索引 (Appendix L: Alphabetical Index)}
 \markboth{}{}
 
-\noindent 與附錄一（經文索引）、附錄二（主題索引，依領受範疇分類）不同，本索引是全書人物、地名與領受關鍵詞的\textbf{單一字母序}總表，依英文詞條排序，方便直接查頁。頁碼指向該詞條被實質論述之處，非每一次提及。
+\noindent 與附錄二（經文索引）、附錄四（主題索引）不同，本索引是人物、地名與領受關鍵詞的\textbf{單一字母序}總表，依英文詞條排序。頁碼由本索引之前的正文與附錄自動檢索生成，指向詞條出現的頁面，不含頁眉與本索引；並非人工選定的實質論述索引。電子書中的數字對應本版印刷頁碼。
 
 {\small
 \renewcommand{\arraystretch}{1.1}
@@ -1447,81 +1349,6 @@ Tyre 推羅 & 97, 98, 157, 159, 168 \\
 %% ============================================
 %% BACK COVER PAGE
 %% ============================================
-\cleardoublepage
-\pagestyle{empty}
-\thispagestyle{empty}
-
-\begin{tikzpicture}[remember picture, overlay]
-  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  \draw[ScriptureGold, line width=2.2pt]
-    ([xshift=0.42in,yshift=0.42in]current page.south west)
-    rectangle
-    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
-  \draw[ChapterRed, line width=0.4pt, opacity=0.6]
-    ([xshift=0.52in,yshift=0.52in]current page.south west)
-    rectangle
-    ([xshift=-0.52in,yshift=-0.52in]current page.north east);
-  \foreach \cnr in {south west, south east, north west, north east} {
-    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.045in);
-    \fill[JesusRed] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.016in);
-  }
-\end{tikzpicture}
-
-\begin{center}
-\vspace*{\fill}
-
-{\fontsize{15}{18}\selectfont\scshape\color{ChapterRed} Υἱὸς Θεοῦ}\\[0.10cm]
-{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} “Son of God” \;\;
-\bfseries\color{JesusRed} 神的兒子}
-
-\vspace{0.25cm}
-\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
-\vspace{0.35cm}
-
-{\normalsize\bfseries\color{ChapterRed} 關於本書 \;\; \footnotesize\scshape About This Book}
-
-\vspace{0.2cm}
-\noindent\begin{minipage}{4.7in}
-\footnotesize\color{TextGray}
-本書逐章研讀馬可福音十六章，整合老弟兄查經法、
-John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
-並貫通四福音、以賽亞書與希伯來書。
-全書以馬可福音 1:1 為總綱起點、10:45 為心臟：
-「神的兒子，耶穌基督福音的起頭」——
-「因為人子來，並不是要受人的服事，乃是要服事人，並且要捨命作多人的贖價。」\\[0.4em]
-{\itshape
-A chapter-by-chapter study of all sixteen chapters of Mark's Gospel,
-integrating the Elder's method of Bible study, John MacArthur's verse-by-verse
-exposition, and G. Campbell Morgan's spiritual analysis —
-framed by Mark 1:1's declaration of sonship and 10:45's declaration
-of the Servant's mission.}
-\end{minipage}
-
-\vspace{0.35cm}
-
-\fcolorbox{ScriptureGold}{white}{%
-\begin{minipage}{4.7in}
-\centering\vspace{0.18cm}
-{\footnotesize\bfseries\color{ChapterRed} 先做兒子，才能作僕人 \;\; Son First, Then Servant}\\[0.3em]
-{\footnotesize\color{TextGray}
-1:1 神的兒子 \textbullet\ 1:11 蒙愛的兒子 \textbullet\ 8:29 你是基督\\
-8:31 人子必須受苦 \textbullet\ 10:45 捨命作贖價 \textbullet\ 15:39 這人真是神的兒子}
-\vspace{0.18cm}
-\end{minipage}}
-
-\vspace{0.35cm}
-\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
-\vspace{0.3cm}
-
-{\footnotesize\itshape\color{CommentaryBrown}
-「神的兒子，耶穌基督福音的起頭……因為人子來，並不是要受人的服事，\\
-乃是要服事人，並且要捨命作多人的贖價。」}\\[0.15cm]
-{\scriptsize\color{ChapterRed} — 馬可福音 1:1, 10:45}
-
-\vspace{0.4in}
-{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
-
-\vspace*{\fill}
-\end{center}
+\input{$mark-cover-dir$/cover-back.tex}
 
 \end{document}

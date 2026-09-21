@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十七章 · 未識之神 (The Unknown God)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^保羅和西拉經過暗妃波里、亞波羅尼亞，來到帖撒羅尼迦，在那裏有猶太人的會堂。^2^保羅照他素常的規矩進去，一連三個安息日，本著聖經與他們辯論，^3^講解陳明基督必須受害，從死裏復活，又說：「我所傳與你們的這位耶穌，就是基督。」
 
@@ -55,7 +55,7 @@ publisher: 三書精讀出版系統
 
 > ^32^眾人聽見從死裏復活的話，就有譏誚他的，又有人說：「我們再聽你講這個吧！」^33^於是保羅從他們當中出去了。^34^但有幾個人貼近他，信了主，其中有亞略巴古的官丟尼修，並一個婦人名叫大馬哩，還有別人一同信從。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^Now when they had traveled through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews. ^5^But the Jews, becoming jealous and taking along some wicked men from the market place, formed a mob and set the city in an uproar; and attacking the house of Jason, they were seeking to bring them out to the people. ^6^When they did not find them, they *began* dragging Jason and some brethren before the city authorities, shouting, "These men who have upset the world have come here also; ^7^and Jason has welcomed them, and they all act contrary to the decrees of Caesar, saying that there is another king, Jesus."
 

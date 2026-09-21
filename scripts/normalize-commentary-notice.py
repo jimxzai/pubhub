@@ -104,7 +104,7 @@ def main():
     print(f"  sources appendix: 〈{title}〉")
 
     changed = 0
-    for f in sorted(Path(args.book_dir).glob("[0-9][0-9]-*.md")):
+    for f in sorted(p for p in Path(args.book_dir).glob("*.md") if re.match(r"\d{2}[a-z]?-", p.name)):
         old = f.read_text(encoding="utf-8")
         new, kind = rewrite(old, wq, so)
         if kind is None:

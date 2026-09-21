@@ -26,7 +26,7 @@ cat > "$COMBINED_MD" << 'HEADER'
 title: "使徒行傳研讀"
 subtitle: "Acts of the Apostles Deep Study — 2026 整編版"
 author: "PubHub 三書精讀系統"
-date: "2026年8月"
+date: "2026年9月20日"
 publisher: "三書精讀出版系統"
 copyright: |
   版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
@@ -51,13 +51,19 @@ copyright: |
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
   Scripture quotations taken from the New American Standard Bible® (NASB),
-  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by
-  permission. All rights reserved. lockman.org
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Permission
+  and notice status require final Lockman confirmation before public release;
+  this internal draft does not itself grant permission. All rights reserved.
+  lockman.org
 ---
 
 HEADER
 
 chapter_count=0
+
+strip_front_matter() {
+    awk 'BEGIN{front=0} NR==1 && $0=="---" {front=1; next} front && $0=="---" {front=0; next} !front {print}' "$1"
+}
 
 # Append one source file: strip its 7-line YAML front matter, convert ^n^ verse
 # markers to \textsuperscript, then start a new page.
@@ -65,9 +71,9 @@ add_file() {
     local f="$1"
     [ -f "$f" ] || return 0
     echo "  Adding: $(basename "$f")"
-    tail -n +8 "$f" | sed 's/\^\([0-9][0-9:-]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
+    strip_front_matter "$f" | sed 's/\^\([0-9][0-9:-]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
+    chapter_count=$((chapter_count + 1))
 }
 
 # Volume divider: a part-title page carrying the volume's theme and its
@@ -111,9 +117,9 @@ add_file "$INPUT_DIR/00b-witness-spine.md"
 if [ -f "$STUDY_FILE" ]; then
     echo "  Adding: elder-wong-systematic-study.md (as 全書領受總綱)"
     printf '# 全書領受總綱——查經領受 (Systematic Reception)\n\n' >> "$COMBINED_MD"
-    tail -n +2 "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
+    strip_front_matter "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
+    chapter_count=$((chapter_count + 1))
 fi
 
 # ============================================================
@@ -168,8 +174,8 @@ add_file "$INPUT_DIR/99-unfinished-acts.md"
 
 # 跋 — afterword. Last content file: no trailing \newpage.
 echo "  Adding: 999-afterword.md"
-tail -n +8 "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
-((chapter_count++))
+strip_front_matter "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
+chapter_count=$((chapter_count + 1))
 
 echo ""
 echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $chapter_count chapters)"

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十三章 · 聖靈的差遣 (Sent by the Spirit)
@@ -49,7 +49,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^在安提阿的教會中有幾位先知和教師，就是巴拿巴和稱呼尼結的西面、古利奈人路求、與分封之王希律同養的馬念並掃羅。^2^他們事奉主、禁食的時候，聖靈說：「要為我分派巴拿巴和掃羅，去做我召他們所做的工。」^3^於是禁食、禱告，按手在他們頭上，就打發他們去了。^4^他們既被聖靈差遣，就下到西流基，從那裏坐船往居比路去。
 
@@ -65,7 +65,7 @@ publisher: 三書精讀出版系統
 
 > ^50^但猶太人挑唆虔敬、尊貴的婦女和城內有名望的人，逼迫保羅、巴拿巴，將他們趕出境外。^51^二人對著眾人跺下腳上的塵土，就往以哥念去了。^52^門徒滿心喜樂，又被聖靈充滿。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^2^While they were ministering to the Lord and fasting, the Holy Spirit said, "Set apart for Me Barnabas and Saul for the work to which I have called them." ^3^Then, when they had fasted and prayed and laid their hands on them, they sent them away. ^4^So, being sent out by the Holy Spirit, they went down to Seleucia and from there they sailed to Cyprus.
 

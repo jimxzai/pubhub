@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：聯合 Symphytoi** \
-> **全書坐標**：6-8章是全羅馬書從「稱義」（3-5章：地位，一次性宣告）轉入「成聖」（權勢的對付，持續進行）的起點——老弟兄查經框架裏「稱義／成聖／得榮」三階段從第一階段跨入第二階段，正在此開始。 \
+> **全書座標**：6-8章是全羅馬書從「稱義」（3-5章：地位，一次性宣告）轉入「成聖」（權勢的對付，持續進行）的起點——老弟兄查經框架裏「稱義／成聖／得榮」三階段從第一階段跨入第二階段，正在此開始。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章的動詞主詞看似是「我們」——我們死了、我們活著、我們獻上肢體——但整章真正的重心是「基督」。保羅不是說「你要努力向罪死」，而是說「基督已經向罪死了，只有一次」（6:10）；不是說「你要想辦法活出新生命」，而是說「基督既從死裏復活，就不再死，死也不再作他的主」（6:9）。我們的「向罪死、向神活」，不是一項新的屬靈成就，而是一個已經完成的事實的「算」（logizesthe，6:11）——因為我們已經與那一位死而復活的基督聯合。整章沒有一句話離得開祂：受洗，是歸入「祂的死」；復活，是像「祂」從死人中復活；奴僕的身分，換了新的主人，就是「我們的主基督耶穌」（6:23）。看不見這位已經得勝死亡的基督，這一章只會變成一套道德命令；看見了祂，這一章才成為福音——因祂活著，我們也必與祂同活。
@@ -51,35 +51,35 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^這樣，怎麼說呢？我們可以仍在罪中，叫恩典顯多嗎？^2^斷乎不可！我們在罪上死了的人，豈可仍在罪中活著呢？
+> <sup>1</sup>這樣，怎麼說呢？我們可以仍在罪中，叫恩典顯多嗎？<sup>2</sup>斷乎不可！我們在罪上死了的人，豈可仍在罪中活著呢？
 
-> ^3^豈不知我們這受洗歸入基督耶穌的人，是受洗歸入他的死嗎？**^4^所以，我們藉著洗禮歸入死，和他一同埋葬，原是叫我們一舉一動有新生的樣式，像基督藉著父的榮耀從死裏復活一樣。**
+> <sup>3</sup>豈不知我們這受洗歸入基督耶穌的人，是受洗歸入他的死嗎？**<sup>4</sup>所以，我們藉著洗禮歸入死，和他一同埋葬，原是叫我們一舉一動有新生的樣式，像基督藉著父的榮耀從死裏復活一樣。**
 
-> ^5^我們若在他死的形狀上與他聯合，也要在他復活的形狀上與他聯合。^6^因為知道，我們的舊人和他同釘十字架，使罪身滅絕，叫我們不再作罪的奴僕，^7^因為已死的人是脫離了罪。
+> <sup>5</sup>我們若在他死的形狀上與他聯合，也要在他復活的形狀上與他聯合。<sup>6</sup>因為知道，我們的舊人和他同釘十字架，使罪身滅絕，叫我們不再作罪的奴僕，<sup>7</sup>因為已死的人是脫離了罪。
 
-> ^8^我們若是與基督同死，就信必與他同活。^9^因為知道，基督既從死裏復活，就不再死，死也不再作他的主了。^10^他死是向罪死了，只有一次；他活是向神活著。**^11^這樣，你們向罪也當看自己是死的；向神，在基督耶穌裏，卻當看自己是活的。**
+> <sup>8</sup>我們若是與基督同死，就信必與他同活。<sup>9</sup>因為知道，基督既從死裏復活，就不再死，死也不再作他的主了。<sup>10</sup>他死是向罪死了，只有一次；他活是向神活著。**<sup>11</sup>這樣，你們向罪也當看自己是死的；向神，在基督耶穌裏，卻當看自己是活的。**
 
-> ^12^所以，不要容罪在你們必死的身上作王，使你們順從身子的私慾。^13^也不要將你們的肢體獻給罪作不義的器具，倒要像從死裏復活的人，將自己獻給神，並將肢體作義的器具獻給神。^14^罪必不能作你們的主，因你們不在律法之下，乃在恩典之下。
+> <sup>12</sup>所以，不要容罪在你們必死的身上作王，使你們順從身子的私慾。<sup>13</sup>也不要將你們的肢體獻給罪作不義的器具，倒要像從死裏復活的人，將自己獻給神，並將肢體作義的器具獻給神。<sup>14</sup>罪必不能作你們的主，因你們不在律法之下，乃在恩典之下。
 
-> ^15^這卻怎麼樣呢？我們在恩典之下，不在律法之下，就可以犯罪嗎？斷乎不可！^16^豈不曉得你們獻上自己作奴僕，順從誰，就作誰的奴僕嗎？或作罪的奴僕，以至於死；或作順命的奴僕，以致成義。^17^感謝神！因為你們從前雖然作罪的奴僕，現今卻從心裏順服了所傳給你們道理的模範。^18^你們既從罪裏得了釋放，就作了義的奴僕。^19^我因你們肉體的軟弱，就照人的常話對你們說：你們從前怎樣將肢體獻給不潔、不法作奴僕，以至於不法；現今也要照樣將肢體獻給義作奴僕，以至於成聖。
+> <sup>15</sup>這卻怎麼樣呢？我們在恩典之下，不在律法之下，就可以犯罪嗎？斷乎不可！<sup>16</sup>豈不曉得你們獻上自己作奴僕，順從誰，就作誰的奴僕嗎？或作罪的奴僕，以至於死；或作順命的奴僕，以致成義。<sup>17</sup>感謝神！因為你們從前雖然作罪的奴僕，現今卻從心裏順服了所傳給你們道理的模範。<sup>18</sup>你們既從罪裏得了釋放，就作了義的奴僕。<sup>19</sup>我因你們肉體的軟弱，就照人的常話對你們說：你們從前怎樣將肢體獻給不潔、不法作奴僕，以至於不法；現今也要照樣將肢體獻給義作奴僕，以至於成聖。
 
-> ^20^因為你們作罪之奴僕的時候，就不被義約束了。^21^你們現今所看為羞恥的事，當日有甚麼果子呢？那些事的結局就是死。^22^但現今，你們既從罪裏得了釋放，作了神的奴僕，就有成聖的果子，那結局就是永生。**^23^因為罪的工價乃是死，惟有神的恩賜，在我們的主基督耶穌裏乃是永生。**
+> <sup>20</sup>因為你們作罪之奴僕的時候，就不被義約束了。<sup>21</sup>你們現今所看為羞恥的事，當日有甚麼果子呢？那些事的結局就是死。<sup>22</sup>但現今，你們既從罪裏得了釋放，作了神的奴僕，就有成聖的果子，那結局就是永生。**<sup>23</sup>因為罪的工價乃是死，惟有神的恩賜，在我們的主基督耶穌裏乃是永生。**
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^What shall we say then? Are we to continue in sin so that grace may increase? ^2^May it never be! How shall we who died to sin still live in it?
+> <sup>1</sup>What shall we say then? Are we to continue in sin so that grace may increase? <sup>2</sup>May it never be! How shall we who died to sin still live in it?
 
-> ^3^Or do you not know that all of us who have been baptized into Christ Jesus have been baptized into His death? **^4^Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life.**
+> <sup>3</sup>Or do you not know that all of us who have been baptized into Christ Jesus have been baptized into His death? **<sup>4</sup>Therefore we have been buried with Him through baptism into death, so that as Christ was raised from the dead through the glory of the Father, so we too might walk in newness of life.**
 
-> ^5^For if we have become united with *Him* in the likeness of His death, certainly we shall also be *in the likeness* of His resurrection, ^6^knowing this, that our old self was crucified with *Him,* in order that our body of sin might be done away with, so that we would no longer be slaves to sin; ^7^for he who has died is freed from sin.
+> <sup>5</sup>For if we have become united with *Him* in the likeness of His death, certainly we shall also be *in the likeness* of His resurrection, <sup>6</sup>knowing this, that our old self was crucified with *Him,* in order that our body of sin might be done away with, so that we would no longer be slaves to sin; <sup>7</sup>for he who has died is freed from sin.
 
-> ^8^Now if we have died with Christ, we believe that we shall also live with Him, ^9^knowing that Christ, having been raised from the dead, is never to die again; death no longer is master over Him. ^10^For the death that He died, He died to sin once for all; but the life that He lives, He lives to God. **^11^Even so consider yourselves to be dead to sin, but alive to God in Christ Jesus.**
+> <sup>8</sup>Now if we have died with Christ, we believe that we shall also live with Him, <sup>9</sup>knowing that Christ, having been raised from the dead, is never to die again; death no longer is master over Him. <sup>10</sup>For the death that He died, He died to sin once for all; but the life that He lives, He lives to God. **<sup>11</sup>Even so consider yourselves to be dead to sin, but alive to God in Christ Jesus.**
 
-> ^12^Therefore do not let sin reign in your mortal body so that you obey its lusts, ^13^and do not go on presenting the members of your body to sin *as* instruments of unrighteousness; but present yourselves to God as those alive from the dead, and your members *as* instruments of righteousness to God. ^14^For sin shall not be master over you, for you are not under law but under grace.
+> <sup>12</sup>Therefore do not let sin reign in your mortal body so that you obey its lusts, <sup>13</sup>and do not go on presenting the members of your body to sin *as* instruments of unrighteousness; but present yourselves to God as those alive from the dead, and your members *as* instruments of righteousness to God. <sup>14</sup>For sin shall not be master over you, for you are not under law but under grace.
 
-> ^15^What then? Shall we sin because we are not under law but under grace? May it never be! ^16^Do you not know that when you present yourselves to someone *as* slaves for obedience, you are slaves of the one whom you obey, either of sin resulting in death, or of obedience resulting in righteousness? ^17^But thanks be to God that though you were slaves of sin, you became obedient from the heart to that form of teaching to which you were committed, ^18^and having been freed from sin, you became slaves of righteousness. ^19^I am speaking in human terms because of the weakness of your flesh. For just as you presented your members as slaves to impurity and to lawlessness, resulting in *further* lawlessness, so now present your members as slaves to righteousness, resulting in sanctification.
+> <sup>15</sup>What then? Shall we sin because we are not under law but under grace? May it never be! <sup>16</sup>Do you not know that when you present yourselves to someone *as* slaves for obedience, you are slaves of the one whom you obey, either of sin resulting in death, or of obedience resulting in righteousness? <sup>17</sup>But thanks be to God that though you were slaves of sin, you became obedient from the heart to that form of teaching to which you were committed, <sup>18</sup>and having been freed from sin, you became slaves of righteousness. <sup>19</sup>I am speaking in human terms because of the weakness of your flesh. For just as you presented your members as slaves to impurity and to lawlessness, resulting in *further* lawlessness, so now present your members as slaves to righteousness, resulting in sanctification.
 
-> ^20^For when you were slaves of sin, you were free in regard to righteousness. ^21^Therefore what benefit were you then deriving from the things of which you are now ashamed? For the outcome of those things is death. ^22^But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life. **^23^For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.**
+> <sup>20</sup>For when you were slaves of sin, you were free in regard to righteousness. <sup>21</sup>Therefore what benefit were you then deriving from the things of which you are now ashamed? For the outcome of those things is death. <sup>22</sup>But now having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life. **<sup>23</sup>For the wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.**
 
 ---
 

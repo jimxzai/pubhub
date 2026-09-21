@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：撒但被捆綁一千年，第一次復活——「成全」這一步展開千年國度的圖畫，得勝者與基督一同作王。
+
 19章白馬騎士剛剛終結了獸與假先知的悖逆，20章緊接著處理那條古蛇——龍被捉住、捆綁一千年，扔在無底坑裡。這一章因對「一千年」的不同理解，成為歷代教會解經爭議最多的段落之一，但無論採取哪一種立場，經文的核心信息始終清楚：與基督一同作王的，是那些「因為給耶穌作見證，並為神之道被斬者」（4節）——這一章從頭到尾都在講述，基督徒忠心至死所換來的，不是被遺忘的犧牲，而是與基督一同掌權的尊榮。真正配得敬畏與盼望的，不是對千禧年細節的精確掌握，而是那位使死人復活、使忠心者與祂一同作王的基督自己。
 
 ---
@@ -116,8 +118,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -141,15 +144,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 20
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根論到20章的千年國度，指出這是全書唯一一段交代這段時期的經文，且清楚宣告這是基督親自任命、掌權者所治理的完美屬地政權：
+
+> "A brief and the only account of the thousand years follows. It will be a time of perfect earthly government under the King appointed and anointed by God."
+>
+> 中譯：接下來是關於這一千年唯一、簡短的記載。那將是一段由神所任命、所膏立的君王所治理的完美屬地政權時期。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄20章, https://www.studylight.org/commentaries/eng/gcm/revelation-20.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，無論對千禧年的具體性質持何種立場，20章最核心的信息無可爭議：那些為基督忠心至死的人，他們的犧牲絕非徒然——他們要得著復活的生命與一同掌權的尊榮，這是神給每一位忠心見證者最確實的應許。
 
 > — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到撒但被捆綁的意義，麥克阿瑟在講道中說：
+
+> "This is the moment when the victory of Christ is exercised over his archenemy and the roaring lion is overcome by the Lion of the tribe of Judah."
+>
+> 中譯：這正是基督的勝利施行在祂宿敵身上的時刻——那吼叫的獅子，被猶大支派的獅子所擊敗。（66-74）
+> — John MacArthur, "The Coming Earthly Kingdom of the Lord Jesus Christ, Part 2" (gty.org, sermon 66-74), https://www.gty.org/sermons/66-74/the-coming-earthly-kingdom-of-the-lord-jesus-christ-part-2
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本論到，這一千年最重要的屬靈領受，不在於它的具體時間長度或性質為何，而在於它向歷代受苦的教會宣告：神的公義終必伸張，撒但的權勢終必受限，殉道者的犧牲終必得著超乎想像的獎賞。
 

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十五章 · 上告於該撒 (The Appeal to Caesar)
@@ -43,7 +43,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^非斯都到了任，過了三天，就從該撒利亞上耶路撒冷去。^2^祭司長和猶太人的首領向他控告保羅，^3^又央告他，求他的情將保羅提到耶路撒冷來，他們要在路上埋伏殺害他。
 
@@ -53,7 +53,7 @@ publisher: 三書精讀出版系統
 
 > ^23^第二天，亞基帕和百尼基大張威勢而來，同著眾千夫長和城裏的尊貴人進了公廳。非斯都吩咐一聲，就有人將保羅帶進來。^24^非斯都說：「亞基帕王和在這裏的諸位啊，你們看這人，就是一切猶太人在耶路撒冷和這裏曾向我懇求、呼叫說：『不可容他再活著！』^25^但我查明他沒有犯甚麼該死的罪，並且他自己上告於皇帝，所以我定意把他解去。^26^論到這人，我沒有確實的事可以奏明主上。因此，我帶他到你們面前，也特意帶他到你亞基帕王面前，為要在查問之後有所陳奏。^27^據我看來，解送囚犯不指明他的罪案是不合理的。」
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^8^while Paul said in his own defense, "I have committed no offense either against the Law of the Jews or against the temple or against Caesar." ^10^But Paul said, "I am standing before Caesar's tribunal, where I ought to be tried. I have done no wrong to *the* Jews, as you also very well know. ^11^If, then, I am a wrongdoer and have committed anything worthy of death, I do not refuse to die; but if none of those things is *true* of which these men accuse me, no one can hand me over to them. I appeal to Caesar." ^12^Then when Festus had conferred with his council, he answered, "You have appealed to Caesar, to Caesar you shall go."
 

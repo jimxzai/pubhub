@@ -185,20 +185,35 @@ publisher: 三書精讀出版系統
 
 摩根一貫強調，這是亞伯拉罕生命中神多次向他顯現、多次試煉信心中的最高峰。經文沒有記錄亞伯拉罕三天路上心裏的掙扎，只用一句「舉目遠遠看見那地方」帶過——真信心的功課，往往發生在沒有旁觀者、沒有記錄的沉默路程裏。亞伯拉罕對僕人說「我與孩子往那裏去敬拜，然後回到你們這裏來」（22:5），摩根特別指出，這一節裏「去」「敬拜」「回來」三個動詞，希伯來文原文全部是第一人稱複數：*"We will go . . . we will worship . . . we will come again."*——他說的是「我們」回來，不是「我」回來；這不是口誤，而是信心早已算定的結局。摩根也曾對照所多瑪的敘事，論到亞伯拉罕與羅得兩人所受的不同試驗：
 
-> "He confers honour when He proves. He did not prove Lot; Sodom did that. God proves the man who is proof against Sodom... There is not a single trace of reluctance on the part of Abraham at any point."（神試驗亞伯拉罕，這件事本身就是一種尊榮——祂從未試驗羅得，所多瑪已經試驗了他；神所試驗的，是那經得起所多瑪試驗的人……在整個敘事裏，亞伯拉罕的順服，沒有一絲勉強的痕跡。）
+> "He confers honour when He proves. He did not prove Lot; Sodom did that. God proves the man who is proof against Sodom... There is not a single trace of reluctance on the part of Abraham at any point."
+>
+> 中譯：神試驗亞伯拉罕，這件事本身就是一種尊榮——祂從未試驗羅得，所多瑪已經試驗了他；神所試驗的，是那經得起所多瑪試驗的人……在整個敘事裏，亞伯拉罕的順服，沒有一絲勉強的痕跡。
 > — G. Campbell Morgan, *The Analyzed Bible*, Vol. 9: *The Book of Genesis* (Fleming H. Revell, 1907), archive.org/details/analyzedbible09morg
+
+在另一部著作裏，摩根坦承這一幕終究超出了自然理性所能解釋的範圍，卻直接把它與神最終的獻祭連在一起：
+
+> "It may be that the story can never be interpreted in the realm of the natural, and the only thing we can say about it is that through the experience Abraham was brought into fellowship with the God who so loved the world that He gave His only begotten Son."
+>
+> 中譯：這個故事或許終究無法在自然理性的範疇裏得到解釋；我們唯一能說的是：藉着這番經歷，亞伯拉罕被帶進了與神的相交——那位如此愛世人、甚至賜下祂獨生子的神。
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記22章, https://www.studylight.org/commentaries/eng/gcm/genesis-22.html
+
+摩利亞山上，亞伯拉罕經歷的是一場「不能獻」與「必須信」之間的張力；摩根看見的，是這場張力早已在預告約翰福音3:16那句「神愛世人，甚至將他的獨生子賜給他們」——亞伯拉罕最終沒有獻上他的兒子，神卻沒有留下祂自己的兒子。
 
 ### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟一貫強調的重點是：創世記22章不是一個孤立的感人故事，而是聖經「代替贖罪」教義最早、最清楚的活教材，早於利未記的祭祀條例、早於逾越節的羊羔。公羊「代替」(תַּחַת, *tachat*) 以撒而死——無辜者代替有罪者、神親自預備而非人所尋找、代替是完全的，以撒毫髮無傷地下山。這個模式此後貫穿整本舊約（見下文「全經連線」），最終指向羅馬書3:25所說，神設立耶穌作挽回祭，是「憑着耶穌的血，藉着人的信」。麥克阿瑟又指出，以撒背柴上山這個細節，本身就是基督背十架的預表：
 
-> "You always see in that picture Isaac carrying the wood of his own execution pyre on his own back. Isaac is a picture of Christ, is he not, who is taken to be offered... It just always has seemed to me that the note about him carrying the wood for his own execution was a kind of foreshadow of Christ carrying His own cross."（你在這幅圖畫裏，總是看見以撒背着要燒毀自己的柴，走在自己的路上。以撒豈不正是基督的圖畫嗎？他被帶去獻上……以撒背負自己殉難之柴的這個細節，在我看來，一直正是基督背負自己十字架的預表。）
+> "You always see in that picture Isaac carrying the wood of his own execution pyre on his own back. Isaac is a picture of Christ, is he not, who is taken to be offered... It just always has seemed to me that the note about him carrying the wood for his own execution was a kind of foreshadow of Christ carrying His own cross."
+>
+> 中譯：你在這幅圖畫裏，總是看見以撒把要燒盡自己的柴，背在自己背上。以撒豈不正是基督的圖畫嗎？他被帶去獻上……以撒背負自己殉難之柴的這個細節，在我看來，一直正是基督背負自己十字架的預表。
 > — John MacArthur, *Prophecies Fulfilled at Calvary*, gty.org (sermon 43-107)
 
 麥克阿瑟在1986年11月30日的講道《Living Faith》中複述公羊出現那一刻：
 
-> "There was a ram caught in the thicket; they sacrificed the ram and away they went... Jehovah-Jireh, the Lord provides."（有一隻公羊被扣在稠密的樹叢中；他們獻上了那隻公羊，就離開了……耶和華以勒，耶和華必預備。——這兩句在原講道中並非緊鄰的句子，中間省略號標明並非連續逐字引句，僅為麥克阿瑟同一段論述中先後提及的兩個要點。）
-> — John MacArthur, *Living Faith*, gty.org (1986年11月30日)
+> "There was a ram caught in the thicket; they sacrificed the ram and away they went... Jehovah-Jireh, the Lord provides."
+>
+> 中譯：有一隻公羊被扣在稠密的樹叢中；他們獻上了那隻公羊，就離開了……耶和華以勒，耶和華必預備。——這兩句在原講道中並非緊鄰的句子，中間省略號標明並非連續逐字引句，僅為麥克阿瑟同一段論述中先後提及的兩個要點。
+> — John MacArthur, *Living Faith*, gty.org (sermon 59-16，1986年11月30日)
 
 ---
 
@@ -290,4 +305,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

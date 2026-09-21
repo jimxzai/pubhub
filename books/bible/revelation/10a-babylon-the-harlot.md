@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：大淫婦巴比倫的奧秘被揭開——「傾倒」這一步從神忿怒的七碗，轉向仇敵體系本身的瓦解。
+
 這章描繪了一幅極其墮落的畫面——一個坐在獸上、穿戴奢華、喝醉了聖徒之血的淫婦。但在這幅陰暗的圖畫正中央，經文突然亮起一句宣告：「他們與羔羊爭戰，羔羊必勝過他們，因為羔羊是萬主之主、萬王之王」（14節）。這是整章唯一的光——所有的權勢、聯盟、榮華、逼迫，最終都要面對這位羔羊，而結局早已註定：羔羊必得勝。這提醒我們，啟示錄描繪罪惡的黑暗，從來不是為了讓讀者絕望，而是為了襯托那唯一配得敬拜、且必然得勝的羔羊。
 
 ---
@@ -122,8 +124,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -147,13 +150,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 17
 
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，巴比倫所代表的，遠遠超過一座城市或一個政權：
+
+> "Babylon stands for the whole system of organized godlessness in the history of the human race."
+>
+> 中譯：巴比倫代表的，是人類歷史中一整套組織化的無神體制。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄17章, https://www.studylight.org/commentaries/eng/gcm/revelation-17.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟指出，羔羊得勝是貫穿全書反覆出現的主題：
+
+> "The Lamb will overcome them. That is the repeated theme of the book of Revelation, that the Lamb will be unveiled, the Lamb will be revealed, the Lamb will triumph."
+>
+> 中譯：羔羊必勝過他們。這是啟示錄反覆出現的主題——羔羊要被揭開、要被顯明、要得勝。（66-62）
+> — John MacArthur, "The Destruction of the Final World Religion, Part 4" (gty.org, sermon 66-62), https://www.gty.org/sermons/66-62/the-destruction-of-the-final-world-religion-part-4
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其註釋中指出，巴比倫所代表的，是一切誘惑人離棄神、追求世俗奢華與權勢的體制性力量；這股力量看似強大、看似永恆，但14節清楚宣告牠終必面對羔羊，而羔羊必得勝。
-
-> — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 

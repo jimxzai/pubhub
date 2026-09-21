@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：兩獸猖狂之後，鏡頭轉向錫安山上的羔羊與跟隨祂的十四萬四千人——「爭戰」中先讓讀者看見得勝的一方已經站穩，審判才隨後展開。
+
 十三章結束在獸與假先知營造出的巨大恐懼與經濟壓迫之中；十四章一開篇，鏡頭猛然一轉——「我又觀看，見羔羊站在錫安山」。仇敵剛剛還在地上耀武揚威，這裡卻立刻讓我們看見：羔羊已經站穩了，而且不是孤身一人，是與十四萬四千人一同站立。這是啟示錄慣用的敘事手法——每當黑暗顯得快要得勝，作者總會拉開幔子，讓我們看一眼寶座那邊早已底定的結局。羔羊站立的姿態本身就是宣告：無論獸的印記多麼具有脅迫性，真正得勝的，是站在羔羊那邊、額上寫著祂名字的人。
 
 ---
@@ -127,8 +129,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -145,6 +148,24 @@ publisher: 三書精讀出版系統
 亨利在他的聖經註釋中特別看重「作工的果效也隨著他們」這句話，指出這不是說行為能使人得救，而是說信徒憑信心所結的果子——他們的忍耐、忠心、愛心——不會被審判的火燒盡，而要在永恆裡顯明並蒙記念；這對在世上勞苦卻似乎徒然的信徒，是極大的激勵。
 
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 14
+
+### 摩根 (G. Campbell Morgan)
+
+摩根描述這群站在羔羊身旁的人，最鮮明的特徵就是跟隨——無論羔羊往哪裡去，他們都跟著去：
+
+> "The redeemed are seen standing with the Lamb, a company of obedient souls who follow Him 'whithersoever He goeth.'"
+>
+> 中譯：得贖的人與羔羊同站，是一群順服的靈魂，「羔羊無論往哪裡去，他們都跟著去」。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄14章, https://www.studylight.org/commentaries/eng/gcm/revelation-14.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論這群跟隨羔羊之人的忠心，他在講道中說：
+
+> "They're partisans to the party of the Lamb. They're the ones who follow the Lamb wherever He goes."
+>
+> 中譯：他們是羔羊一黨的死忠追隨者。他們就是那些無論羔羊往哪裡去，都跟隨牠的人。（sermon 66-50）
+> — John MacArthur, "Triumphant Saints, Part 2" (gty.org, sermon 66-50), https://www.gty.org/sermons/66-50/triumphant-saints-part-2
 
 ### 當代釋經
 

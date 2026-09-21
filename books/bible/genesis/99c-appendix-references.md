@@ -27,18 +27,18 @@ publisher: 三書精讀出版系統
 | *Who Is a Murderer?* | 創9:6 | — （sermon 2214） | https://www.gty.org/sermons/2214/who-is-a-murderer | 04 |
 | *Noah's Ark of Faith* | 創6-9章 | — | https://www.gty.org/library/sermons-library/90-257/noahs-ark-of-faith | 04 |
 | *Judgment of the Rebellion at Babel, Part 1 & 2* | 創11:1-9 | 2001年8-9月 | https://www.gty.org/library/sermons-library/90-267/judgment-of-the-rebellion-at-babel-part-1；https://www.gty.org/library/sermons-library/90-268/judgment-of-the-rebellion-at-babel-part-2 | 05 |
-| *The Faith of Abraham* | 來11:8-19 | 1973年1月21日 | gty.org | 06 |
+| *The Faith of Abraham* | 來11:8-19 | 1973年1月21日（sermon 1630） | https://www.gty.org/library/sermons-library/1630/the-faith-of-abraham | 06 |
 | *The Securities of God's Promise* | 來6:13-20 | 1972年6月11日（sermon #1615） | gty.org #1615 | 07 |
 | *God's Eternal Covenant of Promise* | 加3:15-18 | — （sermon #48-16） | gty.org #48-16 | 07 |
 | *Answering Key Questions About Homosexuality*（文章） | 創19章 | — | gty.org | 08 |
 | *Prophecies Fulfilled at Calvary* | 創22章／各各他預言 | — （sermon 43-107） | gty.org, sermon 43-107 | 09 |
-| *Living Faith* | 創22:13-14 | 1986年11月30日 | — | 09 |
+| *Living Faith* | 創22:13-14 | 1986年11月30日（sermon 59-16） | https://www.gty.org/library/sermons-library/59-16/living-faith | 09 |
 | *The Patriarchs: An Enduring Faith* | 來11:20 | — | https://www.gty.org/sermons/90-386 | 10 |
 | *The Disciples' Testimony Concerning Jesus* | 約1:38-51 | — | gty.org | 11 |
-| *The Fullness of God, Part 1* | 弗3:14-16 | 1978年5月14日 | gty.org | 12 |
-| *Jacob and Playing Favorites* | 創37:1-4 | 2016年7月11日 | Grace to You | 13 |
+| *The Fullness of God, Part 1* | 弗3:14-16 | 1978年5月14日（sermon 1915） | https://www.gty.org/sermons/1915/the-fullness-of-god-part-1 | 12 |
+| *Jacob and Playing Favorites*（網誌文章） | 創37:1-4 | 2016年7月11日（blog B160711） | https://www.gty.org/blogs/B160711/jacob-and-playing-favorites | 13 |
 | *Joseph: Because God Meant It for Good* | 創37-50章 | 2012年4月29日（sermon 80-388） | https://www.gty.org/library/sermons-library/80-388 | 14, 15, 16 |
-| *Joseph: His Role in a Bigger Story*（網誌文章，改編自 *Twelve Unlikely Heroes*） | 創45:5-8 | — | gty.org | 15 |
+| *Joseph: His Role in a Bigger Story*（網誌文章，改編自 *Twelve Unlikely Heroes*） | 創45:5-8 | blog B140529 | https://www.gty.org/blogs/B140529/joseph-his-role-in-a-bigger-story | 15 |
 | *Christmas Future* | 創49:8-10 | 2014年12月21日（sermon 80-418） | gty.org 80-418 | 16 |
 
 **其他背景資源（00-overview.md〈研讀資源〉一節提及，未逐字引用）**：
@@ -46,7 +46,7 @@ publisher: 三書精讀出版系統
 - John MacArthur, *MacArthur Study Bible*，〈創世記引言〉，轉載於 Blue Letter Bible：blueletterbible.org/Comm/macarthur_john/bible-introductions/genesis-intro.cfm
 - John MacArthur, 講道系列 *The Battle for the Beginning*（創1章）、*Genesis of the Gospel*（創3章），gty.org
 
-**逐字引文核校聲明**：麥克阿瑟的引文，凡附英文原文並已與講道稿或文章核校者，見第1章、第2章、第6章、第7章、第9章、第10章、第12章、第13章、第14章、第15章、第16章；其餘各章所述麥克阿瑟立場，均已改寫為不加引號之要旨綜述的章：第3、8、11、17章，未附逐字原文，不作逐字引用論斷。
+**逐字引文核校聲明**：麥克阿瑟的引文，凡附英文原文並已與講道稿或文章核校者，見第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第12章、第13章、第14章、第15章、第16章、第17章——**全書17章全數已有逐字核校引文，無「僅綜述」的章**。**2026-09-19核校加註**：全書全部麥克阿瑟逐字引文（含講道與部落格文章）已用`scripts/verify-sermon-quotes.py`配合逐篇`curl`取得的gty.org原始講道稿／文章核對。過程中把原本只有「立場綜述、不加引號」的第3、4、5、8、11、17章，逐一查出書中早已提及、卻從未逐字引用的講道（如03章《Cain: The Portrait of a Doomed Sinner》、05章《Judgment of the Rebellion at Babel》），或另外查找貼合經文的講道（如08章《Answering Key Questions About Homosexuality》、11章《The Disciples' Testimony Concerning Jesus》、17章《The Patriarchs: An Enduring Faith》），逐篇取得原文後改寫為逐字引文區塊。核校中也發現並修正06章一處失真——一段引文把麥克阿瑟講道中自問自答的插話（"what's the next word?"）省略卻未加刪節號，已如實保留插話；其餘引文全部逐字相符，零杜撰。
 
 ---
 
@@ -57,29 +57,37 @@ publisher: 三書精讀出版系統
 | *The Analyzed Bible*, Vol. 1 (1907) | 創1章 | archive.org/details/analyzedbible01morg | 01 |
 | *The Analyzed Bible*, Vol. 9: Genesis (1907) | 創3章 | archive.org/details/analyzedbible09morg | 02 |
 | *The Analyzed Bible: Genesis* (1908)，論「墮落」與「兩條線」段落 | 創4章 | archive.org 全文掃描本 | 03 |
+| *An Exposition of the Whole Bible* (1959)，論創世記4章 | 創4章 | studylight.org/commentaries/eng/gcm/genesis-4.html | 03 |
 | *The Analyzed Bible*（挪亞洪水結構分析，方法論摘要，非逐字引句） | 創6-9章 | — | 04 |
+| *An Exposition of the Whole Bible* (1959)，論創世記8章 | 創8章 | studylight.org/commentaries/eng/gcm/genesis-8.html | 04 |
 | *The Analyzed Bible: Genesis* (Fleming H. Revell, 1908), pp. 80-82 | 創11:1-9 | — | 05 |
-| *An Exposition of the Whole Bible*，論創世記12章 | 創12章 | — | 06 |
+| *An Exposition of the Whole Bible* (1959)，論創世記11章 | 創11章 | studylight.org/commentaries/eng/gcm/genesis-11.html | 05 |
+| *An Exposition of the Whole Bible* (1959)，論創世記12章 | 創12章 | studylight.org/commentaries/eng/gcm/genesis-12.html | 06 |
 | *The Analyzed Bible*, Vol. 1: *Genesis–Esther* (Fleming H. Revell, 1907), pp. 19-21，論亞伯拉罕七次顯現的結構 | 創12-22章總論 | archive.org/details/analyzedbible01morg | 06 |
 | *The Book of Genesis* (1908) | 創15:1, 17:1（El Shaddai） | 收於《The Analysed Bible》系列 | 07 |
 | *The Analyzed Bible: The Book of Genesis* (1911) | 創18-19章 | — | 08 |
+| *An Exposition of the Whole Bible* (1959)，論創世記18章 | 創18章 | studylight.org/commentaries/eng/gcm/genesis-18.html | 08 |
 | *The Analysed Bible: The Book of Genesis* (New York: Fleming H. Revell, 1908) | 創22章 | — | 09 |
+| *An Exposition of the Whole Bible* (1959)，論創世記22章 | 創22章 | studylight.org/commentaries/eng/gcm/genesis-22.html | 09 |
 | *The Analyzed Bible*, Vol. 1: Genesis–Esther (Fleming H. Revell, 1907),「The Book of Beginnings」, pp. 22-23 | 創25章, 27章 | archive.org 藏本 analyzedbible01morg | 10 |
 | *The Analyzed Bible*, Vol. 1,「創始之書」一章 | 創27-35章 | — | 11 |
+| *An Exposition of the Whole Bible* (1959)，論創世記28章 | 創28章 | studylight.org/commentaries/eng/gcm/genesis-28.html | 11 |
 | *The Book of Genesis* (1908), pp. 204-205，收於《The Analysed Bible》系列 | 創32:22-32 | — | 12 |
-| *An Exposition of the Whole Bible*，創世記37章 | 創37章 | — | 13 |
+| *An Exposition of the Whole Bible* (1959)，創世記37章 | 創37章 | studylight.org/commentaries/eng/gcm/genesis-37.html | 13 |
 | *The Analyzed Bible*, Vol. 1: *Genesis–Esther* (Fleming H. Revell, 1907), p. 25 | 創37-50章總論 | archive.org/details/analyzedbible01morg | 13 |
 | *Exposition of the Bible*，論創世記40-41章 | 創39-41章 | sermonindex.net／摩根釋經專欄 | 14 |
 | *The Analyzed Bible: Genesis*，〈約瑟〉段落總論 | 創42-45章 | archive.org 藏本 | 15 |
 | *The Analyzed Bible*, Genesis 卷 | 創48-50章 | — | 16 |
+| *An Exposition of the Whole Bible* (1959)，論創世記50章 | 創50章 | studylight.org/commentaries/eng/gcm/genesis-50.html | 17 |
 | *Living Messages of the Books of the Bible* (1912),〈創世記〉篇 | 全書總論 | archive.org/details/livingmessagesof01morgiala | 00 |
+| *An Exposition of the Whole Bible* (1959)，論創世記1、3、4章（啟示次序：靈與道、頭一句應許、塞特存留後裔） | 卷首〈啟示的次序與神的計劃〉 | studylight.org/commentaries/eng/gcm/genesis-{1,3,4}.html | 00a |
 
 **其他背景資源（00-overview.md〈研讀資源〉一節提及）**：
 
 - Derek Kidner, *Genesis (Tyndale Old Testament Commentaries)*
 - Kenneth Mathews, *Genesis (New American Commentary)*
 
-**逐字引文核校聲明**：摩根的引文，凡附英文原文並已與原著核校者，見第1章、第2章、第6章、第7章、第9章、第10章、第12章、第13章、第14章、第15章、第16章；其餘各章所述摩根立場，均已改寫為不加引號之要旨綜述的章：第3、8、11章，未附逐字原文，不作逐字引用論斷。
+**逐字引文核校聲明**：摩根的引文，凡附英文原文並已與原著或studylight.org核校者，見第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章、第9章、第10章、第11章、第12章、第13章、第14章、第15章、第16章、第17章——**全書17章全數已有逐字核校引文，無「僅綜述」的章**。卷首〈啟示的次序與神的計劃〉（00a-revelation-order.md）另引三段摩根《Exposition of the Whole Bible》逐字引文（創1、3、4章），已與studylight.org逐字核對。**2026-09-19核校加註**：第9、10、12、13、15、16章所引《The Analyzed Bible》（含Vol.1、Vol.9兩冊）與第14章所引《Exposition of the Bible》共8段逐字引文，已透過archive.org全文檢索API（`fulltext/inside.php`，對已借閱本亦可用）逐條核對原書掃描頁，全部逐字相符，零偏差、零杜撰。**同日再加註**：原本只有立場綜述、不加引號的第3、4、5、8、11章，逐一從書中早已提及的講題（如摩根對創世記4、8、11、18、28、50章的《Exposition of the Whole Bible》釋經）取得studylight.org原文，改寫為逐字引文區塊；第17章新增一段摩根論創50章「約瑟寬恕」的逐字引文。全部與studylight.org原文核對相符，零杜撰。
 
 ---
 

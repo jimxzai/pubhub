@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第三章 · 美門的醫治 (Healing at the Beautiful Gate)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^申初禱告的時候，彼得、約翰上聖殿去。^2^有一個人，生來是瘸腿的，天天被人抬來，放在殿的一個門口——那門名叫美門——要求進殿的人賙濟。^3^他看見彼得、約翰將要進殿，就求他們賙濟。^4^彼得、約翰定睛看他，彼得說：「你看我們！」^5^那人就留意看他們，指望得著甚麼。
 
@@ -53,7 +53,7 @@ publisher: 三書精讀出版系統
 
 > ^22^摩西曾說：『主－神要從你們弟兄中間給你們興起一位先知像我，凡他向你們所說的，你們都要聽從。^23^凡不聽從那先知的，必要從民中全然滅絕。』
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^6^But Peter said, "I do not possess silver and gold, but what I do have I give to you: In the name of Jesus Christ the Nazarene—walk!"
 

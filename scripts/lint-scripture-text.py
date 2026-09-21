@@ -119,6 +119,12 @@ def scripture_lines(path, all_text=False):
             yield i, ln
 
 
+# Generated build output, not source: a book's .build/ (or dist/, reports/)
+# holds full-book concatenations of every chapter's scripture blocks.
+# Scanning them alongside the real chapter files double-counts every finding.
+EXCLUDED_DIRS = {".build", "dist", "reports"}
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     all_text = "--all-text" in sys.argv
@@ -126,7 +132,13 @@ def main():
 
     files = []
     for t in targets:
-        files.extend(sorted(t.rglob("*.md")) if t.is_dir() else [t])
+        if t.is_dir():
+            files.extend(sorted(
+                p for p in t.rglob("*.md")
+                if not EXCLUDED_DIRS & set(p.relative_to(t).parts[:-1])
+            ))
+        else:
+            files.append(t)
 
     findings = {}       # volume -> list of (relpath, lineno, char, ctx)
     scanned = blocks = 0

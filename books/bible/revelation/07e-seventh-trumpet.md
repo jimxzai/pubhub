@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：第七號吹響，「世上的國成了我主和主基督的國」——全書第四步「審判與保守」在此正式完結，下一卷隨即揭開幔子後的宇宙爭戰。
+
 七號吹到最後一聲，天上沒有再降下一個新的災禍，而是響起一句宣告：「世上的國成了我主和主基督的國；他要作王，直到永永遠遠。」這是全書的一個高峰——不是審判的高峰，而是掌權的高峰。二十四位長老立刻俯伏敬拜，不是因為看見了毀滅，而是因為看見了那早已屬於基督、如今被公開宣告的王權終於臨到。這節經文濃縮了啟示錄的核心信息：世界的歷史，無論表面上如何被列國、掌權者所左右，最終的主權，從創世以來就屬於那位「昔在、今在」的主和祂的基督。
 
 ---
@@ -117,8 +119,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -135,6 +138,24 @@ publisher: 三書精讀出版系統
 布靈格特別強調這節經文對受苦教會的安慰：即使外邦發怒、逼迫加劇，神的忿怒與審判必然臨到那些逼迫者，而祂的僕人終必得著賞賜——這是支撐宗教改革時期眾多受逼迫信徒的重要盼望。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 11
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，第七號吹響時，天上宣告的不是又一場審判，而是掌權的完成，長老們俯伏敬拜正是因這宣告而起：
+
+> "Voices in heaven declare that the rule of the world has been taken over by God and His Christ. The occasion gives cause for profoundest thankfulness, and the elders in the presence of the Supreme Royalty fall on their faces and worship."
+>
+> 中譯：天上的聲音宣告，世界的統治權已被神和祂的基督接管。這場合帶來至深的感恩，長老們在至尊王權面前俯伏敬拜。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄11章, https://www.studylight.org/commentaries/eng/gcm/revelation-11.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論原文「執掌大權作王了」一句的希臘文語法，他在講道中逐字說明：
+
+> "Now I want you to notice how it is formulated in the Greek language. 'The kingdom of the world has become.' Now that is a very important way to express something. It is what has been called proleptic aorist, that's sort of a technical term. But it means something in the future is so sure that it can be spoken of as if it has already happened, as if it has already happened."
+>
+> 中譯：我要你們留意這句話在希臘原文的語法構造。「世上的國成了」——這是一種表達方式，被稱為「預期式簡單過去時」(proleptic aorist)，這是個專門術語。但它的意思是：將來的事極其確定，以致可以用「已經發生」的語氣來說，就好像它已經發生了一樣。（sermon 66-39）
+> — John MacArthur, "The Seventh Trumpet, Part 1" (gty.org, sermon 66-39), https://www.gty.org/sermons/66-39/the-seventh-trumpet-part-1
 
 ### 當代釋經
 

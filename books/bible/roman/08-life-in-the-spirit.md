@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：不定罪 Katakrima** \
-> **全書坐標**：羅馬書8章是「成聖」卷（6:1-8:39）的最高峰與收束——6章與基督同死同活的宣告、7章與肉體掙扎的誠實坦白，都在8章「不再定罪」與「不能隔絕」之間收束成確據。全書五卷（定罪／稱義／成聖／揀選／活祭）在此完成「成聖」一卷，8:31-39的頌讚是6-8章整段論證的頂點。 \
+> **全書座標**：羅馬書8章是「成聖」卷（6:1-8:39）的最高峰與收束——6章與基督同死同活的宣告、7章與肉體掙扎的誠實坦白，都在8章「不再定罪」與「不能隔絕」之間收束成確據。全書五卷（定罪／稱義／成聖／揀選／活祭）在此完成「成聖」一卷，8:31-39的頌讚是6-8章整段論證的頂點。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 羅馬書8章從頭到尾都在說一件事：一切都「在基督耶穌裏」。第1節「不定罪」因為「在基督耶穌裏」；第39節「不能叫我們與神的愛隔絕」因為這愛「是在我們的主基督耶穌裏的」。中間的每一句應許——聖靈的內住、兒子的名分、將來的榮耀、萬事互相效力——都不是抽象的教義，而是那位「不愛惜自己的兒子，為我們眾人捨了」的神，藉著祂的兒子已經成就、正在成就、將要成就的事。7章結尾那個絕望的呼喊「我真是苦啊！誰能救我脫離這取死的身體呢？」，8章第一個字就是答案：「感謝神，藉著我們的主耶穌基督就能脫離了！」（7:24-25）羅馬書8章不是一份教義大綱，是一封寫給「在基督裏」之人的家書，從第一句到最後一句，主角只有一位——那位死了、復活了、如今在神右邊、也替我們祈求的基督耶穌（8:34）。
@@ -47,43 +47,43 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 ai-eden.com 逐節核對，並以 cnbible.com（現代標點和合本）交叉核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> **^1^如今，那些在基督耶穌裏的就不定罪了。**^2^因為賜生命聖靈的律，在基督耶穌裏釋放了我，使我脫離罪和死的律了。^3^律法既因肉體軟弱，有所不能行的，神就差遣自己的兒子，成為罪身的形狀，作了贖罪祭，在肉體中定了罪案，^4^使律法的義成就在我們這不隨從肉體、只隨從聖靈的人身上。
+> **<sup>1</sup>如今，那些在基督耶穌裏的就不定罪了。**<sup>2</sup>因為賜生命聖靈的律，在基督耶穌裏釋放了我，使我脫離罪和死的律了。<sup>3</sup>律法既因肉體軟弱，有所不能行的，神就差遣自己的兒子，成為罪身的形狀，作了贖罪祭，在肉體中定了罪案，<sup>4</sup>使律法的義成就在我們這不隨從肉體、只隨從聖靈的人身上。
 
-> ^5^因為隨從肉體的人體貼肉體的事，隨從聖靈的人體貼聖靈的事。^6^體貼肉體的，就是死；體貼聖靈的，乃是生命、平安。^7^原來體貼肉體的，就是與神為仇；因為不服神的律法，也是不能服，^8^而且屬肉體的人不能得神的喜歡。^9^如果神的靈住在你們心裏，你們就不屬肉體，乃屬聖靈了。人若沒有基督的靈，就不是屬基督的。
+> <sup>5</sup>因為隨從肉體的人體貼肉體的事，隨從聖靈的人體貼聖靈的事。<sup>6</sup>體貼肉體的，就是死；體貼聖靈的，乃是生命、平安。<sup>7</sup>原來體貼肉體的，就是與神為仇；因為不服神的律法，也是不能服，<sup>8</sup>而且屬肉體的人不能得神的喜歡。<sup>9</sup>如果神的靈住在你們心裏，你們就不屬肉體，乃屬聖靈了。人若沒有基督的靈，就不是屬基督的。
 
-> ^10^基督若在你們心裏，身體就因罪而死，心靈卻因義而活。^11^然而，叫耶穌從死裏復活者的靈若住在你們心裏，那叫基督耶穌從死裏復活的，也必藉著住在你們心裏的聖靈，使你們必死的身體又活過來。
+> <sup>10</sup>基督若在你們心裏，身體就因罪而死，心靈卻因義而活。<sup>11</sup>然而，叫耶穌從死裏復活者的靈若住在你們心裏，那叫基督耶穌從死裏復活的，也必藉著住在你們心裏的聖靈，使你們必死的身體又活過來。
 
-> ^12^弟兄們，這樣看來，我們並不是欠肉體的債去順從肉體活著。^13^你們若順從肉體活著，必要死；若靠著聖靈治死身體的惡行，必要活著。
+> <sup>12</sup>弟兄們，這樣看來，我們並不是欠肉體的債去順從肉體活著。<sup>13</sup>你們若順從肉體活著，必要死；若靠著聖靈治死身體的惡行，必要活著。
 
-> **^14^因為凡被神的靈引導的，都是神的兒子。^15^你們所受的，不是奴僕的心，仍舊害怕；所受的，乃是兒子的心，因此我們呼叫：「阿爸！父！」^16^聖靈與我們的心同證我們是神的兒女；^17^既是兒女，便是後嗣，就是神的後嗣，和基督同作後嗣。如果我們和他一同受苦，也必和他一同得榮耀。**
+> **<sup>14</sup>因為凡被神的靈引導的，都是神的兒子。<sup>15</sup>你們所受的，不是奴僕的心，仍舊害怕；所受的，乃是兒子的心，因此我們呼叫：「阿爸！父！」<sup>16</sup>聖靈與我們的心同證我們是神的兒女；<sup>17</sup>既是兒女，便是後嗣，就是神的後嗣，和基督同作後嗣。如果我們和他一同受苦，也必和他一同得榮耀。**
 
-> ^18^我想，現在的苦楚若比起將來要顯於我們的榮耀就不足介意了。^19^受造之物切望等候神的眾子顯出來。^20^因為受造之物服在虛空之下，不是自己願意，乃是因那叫他如此的。^21^但受造之物仍然指望脫離敗壞的轄制，得享神兒女自由的榮耀。^22^我們知道一切受造之物一同歎息、勞苦，直到如今。^23^不但如此，就是我們這有聖靈初結果子的，也是自己心裏歎息，等候得著兒子的名分，乃是我們的身體得贖。^24^我們得救是在乎盼望；只是所見的盼望不是盼望，誰還盼望他所見的呢？^25^但我們若盼望那所不見的，就必忍耐等候。
+> <sup>18</sup>我想，現在的苦楚若比起將來要顯於我們的榮耀就不足介意了。<sup>19</sup>受造之物切望等候神的眾子顯出來。<sup>20</sup>因為受造之物服在虛空之下，不是自己願意，乃是因那叫他如此的。<sup>21</sup>但受造之物仍然指望脫離敗壞的轄制，得享神兒女自由的榮耀。<sup>22</sup>我們知道一切受造之物一同歎息、勞苦，直到如今。<sup>23</sup>不但如此，就是我們這有聖靈初結果子的，也是自己心裏歎息，等候得著兒子的名分，乃是我們的身體得贖。<sup>24</sup>我們得救是在乎盼望；只是所見的盼望不是盼望，誰還盼望他所見的呢？<sup>25</sup>但我們若盼望那所不見的，就必忍耐等候。
 
-> ^26^況且我們的軟弱有聖靈幫助，我們本不曉得當怎樣禱告，只是聖靈親自用說不出來的歎息替我們禱告。^27^鑒察人心的，曉得聖靈的意思，因為聖靈照著神的旨意替聖徒祈求。
+> <sup>26</sup>況且我們的軟弱有聖靈幫助，我們本不曉得當怎樣禱告，只是聖靈親自用說不出來的歎息替我們禱告。<sup>27</sup>鑒察人心的，曉得聖靈的意思，因為聖靈照著神的旨意替聖徒祈求。
 
-> **^28^我們曉得萬事都互相效力，叫愛神的人得益處，就是按他旨意被召的人。^29^因為他預先所知道的人，就預先定下效法他兒子的模樣，使他兒子在許多弟兄中作長子。^30^預先所定下的人又召他們來；所召來的人又稱他們為義；所稱為義的人又叫他們得榮耀。**
+> **<sup>28</sup>我們曉得萬事都互相效力，叫愛神的人得益處，就是按他旨意被召的人。<sup>29</sup>因為他預先所知道的人，就預先定下效法他兒子的模樣，使他兒子在許多弟兄中作長子。<sup>30</sup>預先所定下的人又召他們來；所召來的人又稱他們為義；所稱為義的人又叫他們得榮耀。**
 
-> **^31^既是這樣，還有甚麼說的呢？神若幫助我們，誰能敵擋我們呢？^32^神既不愛惜自己的兒子，為我們眾人捨了，豈不也把萬物和他一同白白的賜給我們麼？^33^誰能控告神所揀選的人呢？有神稱他們為義了。^34^誰能定他們的罪呢？有基督耶穌已經死了，而且從死裏復活，現今在神的右邊，也替我們祈求。^35^誰能使我們與基督的愛隔絕呢？難道是患難麼？是困苦麼？是逼迫麼？是飢餓麼？是赤身露體麼？是危險麼？是刀劍麼？^36^如經上所記：「我們為你的緣故終日被殺；人看我們如將宰的羊。」^37^然而，靠著愛我們的主，在這一切的事上已經得勝有餘了。^38^因為我深信無論是死，是生，是天使，是掌權的，是有能的，是現在的事，是將來的事，^39^是高處的，是低處的，是別的受造之物，都不能叫我們與神的愛隔絕；這愛是在我們的主基督耶穌裏的。**
+> **<sup>31</sup>既是這樣，還有甚麼說的呢？神若幫助我們，誰能敵擋我們呢？<sup>32</sup>神既不愛惜自己的兒子，為我們眾人捨了，豈不也把萬物和他一同白白的賜給我們麼？<sup>33</sup>誰能控告神所揀選的人呢？有神稱他們為義了。<sup>34</sup>誰能定他們的罪呢？有基督耶穌已經死了，而且從死裏復活，現今在神的右邊，也替我們祈求。<sup>35</sup>誰能使我們與基督的愛隔絕呢？難道是患難麼？是困苦麼？是逼迫麼？是飢餓麼？是赤身露體麼？是危險麼？是刀劍麼？<sup>36</sup>如經上所記：「我們為你的緣故終日被殺；人看我們如將宰的羊。」<sup>37</sup>然而，靠著愛我們的主，在這一切的事上已經得勝有餘了。<sup>38</sup>因為我深信無論是死，是生，是天使，是掌權的，是有能的，是現在的事，是將來的事，<sup>39</sup>是高處的，是低處的，是別的受造之物，都不能叫我們與神的愛隔絕；這愛是在我們的主基督耶穌裏的。**
 
-### English — NASB
+### English — NASB 1995
 
-> **^1^Therefore there is now no condemnation for those who are in Christ Jesus.** ^2^For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and of death. ^3^For what the Law could not do, weak as it was through the flesh, God *did:* sending His own Son in the likeness of sinful flesh and *as an offering* for sin, He condemned sin in the flesh, ^4^so that the requirement of the Law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
+> **<sup>1</sup>Therefore there is now no condemnation for those who are in Christ Jesus.** <sup>2</sup>For the law of the Spirit of life in Christ Jesus has set you free from the law of sin and of death. <sup>3</sup>For what the Law could not do, weak as it was through the flesh, God *did:* sending His own Son in the likeness of sinful flesh and *as an offering* for sin, He condemned sin in the flesh, <sup>4</sup>so that the requirement of the Law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
 
-> ^5^For those who are according to the flesh set their minds on the things of the flesh, but those who are according to the Spirit, the things of the Spirit. ^6^For the mind set on the flesh is death, but the mind set on the Spirit is life and peace, ^7^because the mind set on the flesh is hostile toward God; for it does not subject itself to the law of God, for it is not even able *to do so,* ^8^and those who are in the flesh cannot please God. ^9^However, you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. But if anyone does not have the Spirit of Christ, he does not belong to Him.
+> <sup>5</sup>For those who are according to the flesh set their minds on the things of the flesh, but those who are according to the Spirit, the things of the Spirit. <sup>6</sup>For the mind set on the flesh is death, but the mind set on the Spirit is life and peace, <sup>7</sup>because the mind set on the flesh is hostile toward God; for it does not subject itself to the law of God, for it is not even able *to do so,* <sup>8</sup>and those who are in the flesh cannot please God. <sup>9</sup>However, you are not in the flesh but in the Spirit, if indeed the Spirit of God dwells in you. But if anyone does not have the Spirit of Christ, he does not belong to Him.
 
-> ^10^If Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness. ^11^But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit who dwells in you.
+> <sup>10</sup>If Christ is in you, though the body is dead because of sin, yet the spirit is alive because of righteousness. <sup>11</sup>But if the Spirit of Him who raised Jesus from the dead dwells in you, He who raised Christ Jesus from the dead will also give life to your mortal bodies through His Spirit who dwells in you.
 
-> ^12^So then, brethren, we are under obligation, not to the flesh, to live according to the flesh— ^13^for if you are living according to the flesh, you must die; but if by the Spirit you are putting to death the deeds of the body, you will live.
+> <sup>12</sup>So then, brethren, we are under obligation, not to the flesh, to live according to the flesh— <sup>13</sup>for if you are living according to the flesh, you must die; but if by the Spirit you are putting to death the deeds of the body, you will live.
 
-> **^14^For all who are being led by the Spirit of God, these are sons of God. ^15^For you have not received a spirit of slavery leading to fear again, but you have received a spirit of adoption as sons by which we cry out, "Abba! Father!" ^16^The Spirit Himself testifies with our spirit that we are children of God, ^17^and if children, heirs also, heirs of God and fellow heirs with Christ, if indeed we suffer with *Him* so that we may also be glorified with *Him.***
+> **<sup>14</sup>For all who are being led by the Spirit of God, these are sons of God. <sup>15</sup>For you have not received a spirit of slavery leading to fear again, but you have received a spirit of adoption as sons by which we cry out, "Abba! Father!" <sup>16</sup>The Spirit Himself testifies with our spirit that we are children of God, <sup>17</sup>and if children, heirs also, heirs of God and fellow heirs with Christ, if indeed we suffer with *Him* so that we may also be glorified with *Him.***
 
-> ^18^For I consider that the sufferings of this present time are not worthy to be compared with the glory that is to be revealed to us. ^19^For the anxious longing of the creation waits eagerly for the revealing of the sons of God. ^20^For the creation was subjected to futility, not willingly, but because of Him who subjected it, in hope ^21^that the creation itself also will be set free from its slavery to corruption into the freedom of the glory of the children of God. ^22^For we know that the whole creation groans and suffers the pains of childbirth together until now. ^23^And not only this, but also we ourselves, having the first fruits of the Spirit, even we ourselves groan within ourselves, waiting eagerly for *our* adoption as sons, the redemption of our body. ^24^For in hope we have been saved, but hope that is seen is not hope; for who hopes for what he *already* sees? ^25^But if we hope for what we do not see, with perseverance we wait eagerly for it.
+> <sup>18</sup>For I consider that the sufferings of this present time are not worthy to be compared with the glory that is to be revealed to us. <sup>19</sup>For the anxious longing of the creation waits eagerly for the revealing of the sons of God. <sup>20</sup>For the creation was subjected to futility, not willingly, but because of Him who subjected it, in hope <sup>21</sup>that the creation itself also will be set free from its slavery to corruption into the freedom of the glory of the children of God. <sup>22</sup>For we know that the whole creation groans and suffers the pains of childbirth together until now. <sup>23</sup>And not only this, but also we ourselves, having the first fruits of the Spirit, even we ourselves groan within ourselves, waiting eagerly for *our* adoption as sons, the redemption of our body. <sup>24</sup>For in hope we have been saved, but hope that is seen is not hope; for who hopes for what he *already* sees? <sup>25</sup>But if we hope for what we do not see, with perseverance we wait eagerly for it.
 
-> ^26^In the same way the Spirit also helps our weakness; for we do not know how to pray as we should, but the Spirit Himself intercedes for *us* with groanings too deep for words; ^27^and He who searches the hearts knows what the mind of the Spirit is, because He intercedes for the saints according to *the will of* God.
+> <sup>26</sup>In the same way the Spirit also helps our weakness; for we do not know how to pray as we should, but the Spirit Himself intercedes for *us* with groanings too deep for words; <sup>27</sup>and He who searches the hearts knows what the mind of the Spirit is, because He intercedes for the saints according to *the will of* God.
 
-> **^28^And we know that God causes all things to work together for good to those who love God, to those who are called according to *His* purpose. ^29^For those whom He foreknew, He also predestined *to become* conformed to the image of His Son, so that He would be the firstborn among many brethren; ^30^and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.**
+> **<sup>28</sup>And we know that God causes all things to work together for good to those who love God, to those who are called according to *His* purpose. <sup>29</sup>For those whom He foreknew, He also predestined *to become* conformed to the image of His Son, so that He would be the firstborn among many brethren; <sup>30</sup>and these whom He predestined, He also called; and these whom He called, He also justified; and these whom He justified, He also glorified.**
 
-> **^31^What then shall we say to these things? If God *is* for us, who *is* against us? ^32^He who did not spare His own Son, but delivered Him over for us all, how will He not also with Him freely give us all things? ^33^Who will bring a charge against God's elect? God is the one who justifies; ^34^who is the one who condemns? Christ Jesus is He who died, yes, rather who was raised, who is at the right hand of God, who also intercedes for us. ^35^Who will separate us from the love of Christ? Will tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? ^36^Just as it is written, "FOR YOUR SAKE WE ARE BEING PUT TO DEATH ALL DAY LONG; WE WERE CONSIDERED AS SHEEP TO BE SLAUGHTERED." ^37^But in all these things we overwhelmingly conquer through Him who loved us. ^38^For I am convinced that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, ^39^nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.**
+> **<sup>31</sup>What then shall we say to these things? If God *is* for us, who *is* against us? <sup>32</sup>He who did not spare His own Son, but delivered Him over for us all, how will He not also with Him freely give us all things? <sup>33</sup>Who will bring a charge against God's elect? God is the one who justifies; <sup>34</sup>who is the one who condemns? Christ Jesus is He who died, yes, rather who was raised, who is at the right hand of God, who also intercedes for us. <sup>35</sup>Who will separate us from the love of Christ? Will tribulation, or distress, or persecution, or famine, or nakedness, or peril, or sword? <sup>36</sup>Just as it is written, "FOR YOUR SAKE WE ARE BEING PUT TO DEATH ALL DAY LONG; WE WERE CONSIDERED AS SHEEP TO BE SLAUGHTERED." <sup>37</sup>But in all these things we overwhelmingly conquer through Him who loved us. <sup>38</sup>For I am convinced that neither death, nor life, nor angels, nor principalities, nor things present, nor things to come, nor powers, <sup>39</sup>nor height, nor depth, nor any other created thing, will be able to separate us from the love of God, which is in Christ Jesus our Lord.**
 
 ---
 
@@ -271,11 +271,11 @@ publisher: 三書精讀出版系統
 
 > **中文（和合本 CUV）**
 >
-> ^20^倘若我們忘了神的名，或向別神舉手，^21^神豈不鑒察這事嗎？因為他曉得人心裏的隱祕。^22^我們為你的緣故終日被殺，人看我們如將宰的羊。^23^主啊，求你睡醒！為何儘睡呢？求你興起，不要永遠丟棄我們！^24^你為何掩面，不顧我們所遭的苦難和所受的欺壓？^25^我們的性命伏於塵土，我們的肚腹緊貼地面。^26^求你起來幫助我們，憑你的慈愛救贖我們！
+> <sup>20</sup>倘若我們忘了神的名，或向別神舉手，<sup>21</sup>神豈不鑒察這事嗎？因為他曉得人心裏的隱祕。<sup>22</sup>我們為你的緣故終日被殺，人看我們如將宰的羊。<sup>23</sup>主啊，求你睡醒！為何儘睡呢？求你興起，不要永遠丟棄我們！<sup>24</sup>你為何掩面，不顧我們所遭的苦難和所受的欺壓？<sup>25</sup>我們的性命伏於塵土，我們的肚腹緊貼地面。<sup>26</sup>求你起來幫助我們，憑你的慈愛救贖我們！
 
 > **English (NASB)**
 >
-> ^20^If we had forgotten the name of our God Or extended our hands to a strange god, ^21^Would not God find this out? For He knows the secrets of the heart. ^22^But for Your sake we are killed all day long; We are considered as sheep to be slaughtered. ^23^Arouse Yourself, why do You sleep, O Lord? Awake, do not reject us forever. ^24^Why do You hide Your face *And* forget our affliction and our oppression? ^25^For our soul has sunk down into the dust; Our body cleaves to the earth. ^26^Rise up, be our help, And redeem us for the sake of Your lovingkindness.
+> <sup>20</sup>If we had forgotten the name of our God Or extended our hands to a strange god, <sup>21</sup>Would not God find this out? For He knows the secrets of the heart. <sup>22</sup>But for Your sake we are killed all day long; We are considered as sheep to be slaughtered. <sup>23</sup>Arouse Yourself, why do You sleep, O Lord? Awake, do not reject us forever. <sup>24</sup>Why do You hide Your face *And* forget our affliction and our oppression? <sup>25</sup>For our soul has sunk down into the dust; Our body cleaves to the earth. <sup>26</sup>Rise up, be our help, And redeem us for the sake of Your lovingkindness.
 
 詩篇44的詩人在苦難中幾乎要質問神是否「睡著了」；保羅引用同一句經文，卻不是要延續這質問，而是要正面回答它——是的，苦難真實存在，「終日被殺」不是誇張；但正是在承認苦難最誠實的地方，羅馬書8章給出詩篇44所沒有的確據：不是神睡著了，而是神的兒子已經替我們死而復活，如今在神右邊代求。詩篇的呻吟被8:26-27「聖靈用無可言喻的嘆息替我們祈求」接住，也被8:37「我們已經得勝有餘了」翻轉過來。
 

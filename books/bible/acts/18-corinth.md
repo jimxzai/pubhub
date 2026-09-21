@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十八章 · 在這城裏我有許多的百姓 (My People in This City)
@@ -40,7 +40,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^這事以後，保羅離了雅典，來到哥林多。^2^遇見一個猶太人，名叫亞居拉，他生在本都，因為革老丟命猶太人都離開羅馬，新近帶著妻百基拉從意大利來，保羅就投奔了他們。^3^他們本是製造帳棚為業，保羅因與他們同業，就和他們同住做工。^4^每逢安息日，保羅在會堂裏辯論，勸化猶太人和希臘人。
 
@@ -54,7 +54,7 @@ publisher: 三書精讀出版系統
 
 > ^24^有一個猶太人名叫亞波羅，來到以弗所，他生在亞力山大，是有學問的，最能講解聖經。^25^這人已經在主的道上受了教訓，心裏火熱，將耶穌的事詳細講論教訓人，只是他單曉得約翰的洗禮。^26^他在會堂裏放膽講道，百基拉、亞居拉聽見，就接他來，將神的道給他講解更加詳細。^27^他想要往亞該亞去，弟兄們就勉勵他，並寫信請門徒接待他；他到了那裏，多幫助那蒙恩信主的人，^28^在眾人面前極有能力駁倒猶太人，引聖經證明耶穌是基督。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^After these things he left Athens and went to Corinth. ^2^And he found a Jew named Aquila, a native of Pontus, having recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. He came to them, ^3^and because he was of the same trade, he stayed with them and they were working, for by trade they were tent-makers. ^4^And he was reasoning in the synagogue every Sabbath and trying to persuade Jews and Greeks.
 

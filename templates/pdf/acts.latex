@@ -101,7 +101,7 @@
 \setTransitionTo{IPAExtensions}{\ucCJKRun}
 \setTransitionTo{NumberForms}{\ucCJKRun}
 \setTransitionTo{CurrencySymbols}{\ucCJKRun}
-\newfontfamily\kaiti{Kaiti SC}
+\newfontfamily\kaiti{Kaiti SC}[BoldFont={Kaiti SC},BoldFeatures={FakeBold=1.8}]
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -205,7 +205,6 @@
   colorlinks=true,
   linkcolor=ChapterFlame,
   urlcolor=ScriptureGold,
-  bookmarks=true,
   bookmarksnumbered=true,
   pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
   pdfauthor={$author$},
@@ -246,6 +245,8 @@
 %% HEADERS AND FOOTERS
 %% ============================================
 \usepackage{fancyhdr}
+\setlength{\headheight}{34pt}
+\raggedbottom
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\small\thepage}
@@ -404,7 +405,7 @@ $endif$
 \begin{center}
 \vspace*{0.42in}
 
-{\footnotesize\scshape\color{ChapterFlame} Three Books Deep Reading \textbullet\ Acts of the Apostles}\\[0.08cm]
+{\footnotesize\itshape\color{ChapterFlame} Three Books Deep Reading \textbullet\ Acts of the Apostles}\\[0.08cm]
 {\footnotesize\color{TextGray} 三書精讀 \textbullet\ 使徒行傳深度研讀}
 
 \vspace{0.16cm}
@@ -457,7 +458,7 @@ $endif$
 \vspace{0.24cm}
 
 {\fontsize{34}{40}\selectfont\bfseries\color{ChapterFlame}\kaiti\selectfont 見證}\\[0.10cm]
-{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Witnesses}
+{\fontsize{16}{20}\selectfont\itshape\color{CommentaryBrown} Witnesses}
 
 \vspace{0.20cm}
 {\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 使徒行傳研讀}\\[0.08cm]
@@ -465,7 +466,7 @@ $endif$
 
 \vspace{0.24cm}
 {\fontsize{15}{18}\selectfont\itshape\color{ChapterFlame} μάρτυρές μου}\quad
-{\footnotesize\scshape\color{CommentaryBrown} “My witnesses”}\quad
+{\footnotesize\itshape\color{CommentaryBrown} “My witnesses”}\quad
 {\footnotesize\bfseries\color{JesusRed} 我的見證}
 
 \vfill
@@ -480,6 +481,9 @@ $endif$
 {\scriptsize\color{ChapterFlame} 使徒行傳 1:8 \textperiodcentered\ Acts 1:8}
 \vspace{0.15cm}
 \end{minipage}}
+
+\vspace{0.18cm}
+{\scriptsize\color{TextGray} 2026 整編版 \textperiodcentered\ CUV / NASB selected excerpts}
 
 \vspace{0.3in}
 \end{center}
@@ -1592,15 +1596,15 @@ $body$
 \begin{center}
 \vspace*{\fill}
 
-{\fontsize{15}{18}\selectfont\scshape\color{ChapterFlame} μάρτυρές μου}\\[0.10cm]
-{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} “My Witnesses” \;\;
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterFlame} μάρτυρές μου}\\[0.10cm]
+{\fontsize{13}{16}\selectfont\itshape\color{CommentaryBrown} “My Witnesses” \;\;
 \bfseries\color{JesusRed} 我的見證}
 
 \vspace{0.25cm}
 \textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
 \vspace{0.35cm}
 
-{\normalsize\bfseries\color{ChapterFlame} 關於本書 \;\; \footnotesize\scshape About This Book}
+{\normalsize\bfseries\color{ChapterFlame} 關於本書 \;\; \footnotesize\itshape About This Book}
 
 \vspace{0.2cm}
 \noindent\begin{minipage}{4.7in}

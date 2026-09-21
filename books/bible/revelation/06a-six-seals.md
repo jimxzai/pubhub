@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書第四步「審判與保守」由此展開——羔羊親手揭開前六印，審判由救贖主的手發動，而非脫離祂的掌控。
+
 第五章的敬拜還在耳畔迴盪——「你配拿書卷，配揭開七印」——第六章立刻讓我們看見這配得的羔羊親自動手。四匹馬依序奔出，不是脫離掌控的災難，而是羔羊一印一印親手揭開的歷史進程。這正是啟示錄最容易被誤解、卻最需要被領受的一點：審判不是脫離基督掌權的失控局面，審判本身就是基督掌權的具體彰顯。第五印下殉道者的呼喊、第六印下天地的震動，都在同一位揭卷者手中依序展開。羔羊不是被歷史推著走的旁觀者，祂是歷史的執筆者。
 
 ---
@@ -137,8 +139,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -155,6 +158,15 @@ publisher: 三書精讀出版系統
 亨利在他的聖經註釋中強調，四印的次序本身就是一篇道德教訓：爭戰之後必有饑荒，饑荒之後必有瘟疫死亡——神容許這條因果鏈按自然的軌跡展開，為要讓世人看見悖逆神所結出的，不過是一連串彼此加增的苦果，而非隨機的厄運。
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 6
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，第一印揭開時，約翰所看見的，是撒但對基督最徹底的仿冒者：
+
+> "The apostle heard the voice of one crying, 'Come,' and he beheld one who symbolized kingliness and goes 'forth conquering, and to conquer.' This is the Antichrist, Satan's most complete counterfeit of the Christ Himself."
+>
+> 中譯：這位使徒聽見有聲音喊著「來」，他看見一位象徵著君王氣派、「出去征戰，得勝又得勝」的騎士。這就是敵基督，是撒但對基督自己最徹底的仿冒。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄6章, https://www.studylight.org/commentaries/eng/gcm/revelation-6.html
 
 ### 當代釋經
 
@@ -199,6 +211,13 @@ publisher: 三書精讀出版系統
 **第六印下人人都成了神學家**：6:16-17 山崩地裂之際，藏躲的人準確說出「羔羊忿怒的大日到了，誰能站得住呢」——他指出：到那日沒有無神論者，只有太遲的承認者；問題從來不是知不知道，而是肯不肯悔改。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟解釋，書卷所象徵的全宇宙地契，必須從篡奪者撒但手中取回，而唯獨羔羊有這權柄與能力：
+
+> "It has to be taken back from the usurper Satan and all his cronies. The Lamb, the Lion of the tribe of Judah comes forth and takes the scroll. He is worthy, and He is able. He has a right to inherit the universe; He has the power to take it."
+>
+> 中譯：它必須從篡奪者撒但和牠的黨羽手中奪回。羔羊，那猶大支派的獅子，前來取了書卷。祂是配得的，祂也是能夠的。祂有權柄承受這宇宙；祂也有能力取回它。（66-23）
+> — John MacArthur, "The Coming of World Peace" (gty.org, sermon 66-23), https://www.gty.org/sermons/66-23/the-coming-of-world-peace
 
 ### 老弟兄查經：六印的災禍 (Ask Elder Wong)
 

@@ -1,4 +1,5 @@
 #!/bin/bash
+set -Eeuo pipefail
 
 # Gospel of Matthew PDF Builder - CONSOLIDATED 2026 EDITION (August revision)
 # Structure mirrors build-gospel-consolidated.sh (Gospel of John, Aug 2026):
@@ -17,7 +18,7 @@ STUDY_FILE="$INPUT_DIR/elder-wong-systematic-study.md"
 INDEX_FILE="$INPUT_DIR/99b-appendix-indexes.md"
 GLOSSARY_FILE="$INPUT_DIR/99c-appendix-glossary.md"
 EXTRAS_FILE="$INPUT_DIR/99d-appendix-extras.md"
-OUTPUT_DIR="$PROJECT_ROOT/output"
+OUTPUT_DIR="${MATTHEW_OUTPUT_DIR:-$PROJECT_ROOT/output}"
 COMBINED_MD="$OUTPUT_DIR/gospel-of-matthew-consolidated.md"
 OUTPUT_PDF="$OUTPUT_DIR/gospel-of-matthew-consolidated.pdf"
 TEMPLATE="$PROJECT_ROOT/templates/pdf/gospel-of-matthew.latex"
@@ -64,17 +65,35 @@ HEADER
 
 chapter_count=0
 
+# Check all required non-chapter inputs before assembling the manuscript.
+for source_file in "$INPUT_DIR/000-preface.md" "$INPUT_DIR/00-overview.md" \
+    "$PROLOGUE_FILE" "$ORDER_FILE" "$KEY_FILE" "$STUDY_FILE" \
+    "$INPUT_DIR/99-to-revelation.md" "$INPUT_DIR/99-appendix-references.md" \
+    "$INDEX_FILE" "$GLOSSARY_FILE" "$EXTRAS_FILE" "$INPUT_DIR/999-afterword.md"; do
+    [ -s "$source_file" ] || { echo "ERROR: missing or empty source: $source_file" >&2; exit 1; }
+done
+
 # Append one source file: strip its 7-line YAML front matter, convert ^n^ verse
 # markers to \textsuperscript, then start a new page.
+append_body() {
+    local f="$1"
+    [ -s "$f" ] || { echo "ERROR: missing or empty source: $f" >&2; return 1; }
+    awk '
+        NR == 1 && $0 == "---" { frontmatter = 1; next }
+        frontmatter && $0 == "---" { frontmatter = 0; next }
+        !frontmatter { print; if ($0 ~ /[^[:space:]]/) body = 1 }
+        END { if (frontmatter || !body) exit 1 }
+    ' "$f" | sed 's/\^\([0-9][0-9:]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
+}
+
 add_file() {
     local f="$1"
-    [ -f "$f" ] || return 0
     echo "  Adding: $(basename "$f")"
     # ^12^ and ^12:34^ both become superscripts; a bare-digit-only pattern
     # silently leaves chapter:verse markers as literal carets in the PDF.
-    tail -n +8 "$f" | sed 's/\^\([0-9][0-9:]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
+    append_body "$f"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
+    ((chapter_count += 1))
 }
 
 # Volume divider: a part-title page carrying the volume's theme and,
@@ -82,7 +101,7 @@ add_file() {
 # the Revelation harvest ($3 $4 $5; see 00a-kingdom-order.md 總表).
 add_volume() {
     printf '# %s {-}\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
-    if [ -n "$3" ]; then
+    if [ -n "${3-}" ]; then
         printf '\n| | |\n|---|---|\n| **救恩計劃** | %s |\n| **應驗的記號** | %s |\n| **啟示錄的收成** | %s |\n' \
             "$3" "$4" "$5" >> "$COMBINED_MD"
     fi
@@ -123,7 +142,7 @@ if [ -f "$STUDY_FILE" ]; then
     # (single substitution per line: prepends one # to the leading run, no cascade)
     tail -n +2 "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
+    ((chapter_count += 1))
 fi
 
 # ============================================================
@@ -158,7 +177,7 @@ add_volume "卷四 · 君王的教導 (Training the Twelve) · 14-20" \
 for i in 14 15 16 17 18 19 20; do add_chapter "$i"; done
 
 add_volume "卷五 · 君王的受難與復活 (Passion and Resurrection) · 21-28" \
-    "和散那到十字架，只有五天；墳墓到大使命，只有三天。" \
+    "從進城的歡呼到十字架，再到復活與大使命——君王的權柄在捨命與差遣中彰顯。" \
     "**成全與傳遞**——十字架成全，大使命傳遞" \
     "21:4-5 看哪，你的王來到（亞 9:9）" \
     "1:7 駕雲降臨，萬族哀哭（太 24:30 的收成）；11:15 世上的國成了我主和主基督的國"
@@ -188,8 +207,8 @@ add_file "$EXTRAS_FILE"
 # its own page; a trailing break here yields a header-only blank page
 # whenever the afterword happens to fill its final page exactly).
 echo "  Adding: 999-afterword.md"
-tail -n +8 "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
-((chapter_count++))
+append_body "$INPUT_DIR/999-afterword.md"
+((chapter_count += 1))
 
 # ============================================================
 # Integrity gate: this project's source directory lives under a
@@ -202,7 +221,7 @@ tail -n +8 "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
 # headings and abort loudly (instead of silently shipping a book
 # short one chapter) if the count isn't exactly 28.
 # ============================================================
-found_chapters=$(grep -c '^# 第[^：]*章：' "$COMBINED_MD")
+found_chapters=$(grep -c '^# 第[^：]*章：' "$COMBINED_MD" || true)
 if [ "$found_chapters" -ne 28 ]; then
     echo ""
     echo "❌ Integrity check failed: found $found_chapters chapter headings in"
@@ -227,6 +246,7 @@ echo "🔨 Generating PDF with gospel-of-matthew.latex template..."
 # vacuously. See scripts/lib/latex-check.sh for the full explanation.
 source "$SCRIPT_DIR/lib/latex-check.sh"
 LATEX_LOG="${OUTPUT_PDF%.pdf}-build.log"
+PANDOC_EXIT=0
 pandoc "$COMBINED_MD" \
   -o "$OUTPUT_PDF" \
   --verbose \
@@ -236,7 +256,6 @@ pandoc "$COMBINED_MD" \
   --toc \
   --toc-depth=1 \
   --top-level-division=chapter \
-  -V tocdepth=0 > "$LATEX_LOG" 2>&1
-PANDOC_EXIT=$?
+  -V tocdepth=0 > "$LATEX_LOG" 2>&1 || PANDOC_EXIT=$?
 
 latex_build_report "$PANDOC_EXIT" "$LATEX_LOG" "$OUTPUT_PDF" || exit 1

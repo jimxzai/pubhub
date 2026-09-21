@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書第七步、也是最後一步「成全」由此開始——巴比倫已經傾倒，天上隨即響起哈利路亞，羔羊的婚筵擺設，新婦也自己預備好了。
+
 巴比倫傾倒的濃煙尚未散去，天上已經響起連續的「哈利路亞」——這是新約聖經中唯一集中出現「哈利路亞」的一段經文（1, 3, 4, 6節）。焦點從審判轉向婚筵：「羔羊婚娶的時候到了；新婦也自己預備好了」。這是全書情感的高峰之一——教會，這位曾經軟弱、曾經失敗、曾經流淚的新婦，如今「蒙恩得穿光明潔白的細麻衣」，預備好與羔羊永遠聯合。這幅圖畫告訴我們：基督徒生命的終極盼望，不是逃離苦難的消極解脫，而是與羔羊永遠聯合、共赴婚筵的積極喜樂。
 
 ---
@@ -128,8 +130,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -153,13 +156,29 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 19
 
+### 摩根 (G. Campbell Morgan)
+
+摩根用一句話對照淫婦與新婦的結局：
+
+> "The harlot is no more. The true Bride is manifest."
+>
+> 中譯：淫婦不再存在了。真新婦已經顯現。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄19章, https://www.studylight.org/commentaries/eng/gcm/revelation-19.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟直言，約翰向敬拜天使的試探讓步，是明明白白的錯誤：
+
+> "John yielded to the temptation to worship angels. That's wrong. That's evil, inappropriate."
+>
+> 中譯：約翰向敬拜天使的試探讓步了。那是錯的，是邪惡的，是不恰當的。（66-68）
+> — John MacArthur, "Heavenly Hallelujahs, Part 3" (gty.org, sermon 66-68), https://www.gty.org/sermons/66-68/heavenly-hallelujahs-part-3
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，約翰兩次想要敬拜天使（此處與22:8），兩次都被糾正——這個重複的細節提醒我們：即使是最蒙神使用、最接近神榮耀的受造之物，也絕不能取代神本身在敬拜中的位置。
-
-> — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 

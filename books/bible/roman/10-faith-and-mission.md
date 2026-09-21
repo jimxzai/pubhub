@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：終結／目標 Telos** \
-> **全書坐標**：羅馬書五卷（定罪／稱義／成聖／揀選／活祭）行進到「揀選」一卷（9-11章）的中段——9章講神主權的揀選，10章補上人責任的一面：因信稱義的福音，必須「傳」到人「口裏認、心裏信」；11章再收束為神向猶太人與外邦人「眾人」施憐憫的頌讚。 \
+> **全書座標**：羅馬書五卷（定罪／稱義／成聖／揀選／活祭）行進到「揀選」一卷（9-11章）的中段——9章講神主權的揀選，10章補上人責任的一面：因信稱義的福音，必須「傳」到人「口裏認、心裏信」；11章再收束為神向猶太人與外邦人「眾人」施憐憫的頌讚。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章的中心不是方法，是一個人。「律法的總結就是基督」（10:4）——摩西五經所指向的終點站到了。「你若口裏認耶穌為主，心裏信神叫他從死裏復活，就必得救」（10:9）——救恩不是攀升到天上或下到陰間去尋找的遠方奧祕，「這道離你不遠」，因為那位「道」已經親自降下、又從死裏復活，如今近在人的口中、心裏。「凡求告主名的，就必得救」（10:13），這裏的「主」，就是被釘十字架、又復活的耶穌——約珥書中呼求「耶和華」之名的應許，如今向著呼求「耶穌」之名的人敞開。整章末了，先知以賽亞的兩句話疊在一起：「沒有尋找我的，我叫他們遇見」，以及「我整天伸手招呼那悖逆頂嘴的百姓」——那雙終日伸出的手，正是後來被釘在木頭上的手。
@@ -50,27 +50,27 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 ai-eden.com 與 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^弟兄們，我心裏所願的，向神所求的，是要以色列人得救。^2^我可以證明他們向神有熱心，但不是按著真知識；^3^因為不知道神的義，想要立自己的義，就不服神的義了。^4^律法的總結就是基督，使凡信他的都得著義。
+> <sup>1</sup>弟兄們，我心裏所願的，向神所求的，是要以色列人得救。<sup>2</sup>我可以證明他們向神有熱心，但不是按著真知識；<sup>3</sup>因為不知道神的義，想要立自己的義，就不服神的義了。<sup>4</sup>律法的總結就是基督，使凡信他的都得著義。
 
-> ^5^摩西寫著說：人若行那出於律法的義，就必因此活著。^6^惟有出於信心的義如此說：你不要心裏說：誰要升到天上去呢？就是要領下基督來；^7^誰要下到陰間去呢？就是要領基督從死裏上來。^8^他到底怎麼說呢？他說：這道離你不遠，正在你口裏，在你心裏。就是我們所傳信主的道。
+> <sup>5</sup>摩西寫著說：人若行那出於律法的義，就必因此活著。<sup>6</sup>惟有出於信心的義如此說：你不要心裏說：誰要升到天上去呢？就是要領下基督來；<sup>7</sup>誰要下到陰間去呢？就是要領基督從死裏上來。<sup>8</sup>他到底怎麼說呢？他說：這道離你不遠，正在你口裏，在你心裏。就是我們所傳信主的道。
 
-> **^9^你若口裏認耶穌為主，心裏信神叫他從死裏復活，就必得救。^10^因為人心裏相信，就可以稱義；口裏承認，就可以得救。**^11^經上說：凡信他的人必不至於羞愧。^12^猶太人和希利尼人並沒有分別，因為眾人同有一位主；他也厚待一切求告他的人。**^13^因為凡求告主名的，就必得救。**
+> **<sup>9</sup>你若口裏認耶穌為主，心裏信神叫他從死裏復活，就必得救。<sup>10</sup>因為人心裏相信，就可以稱義；口裏承認，就可以得救。**<sup>11</sup>經上說：凡信他的人必不至於羞愧。<sup>12</sup>猶太人和希利尼人並沒有分別，因為眾人同有一位主；他也厚待一切求告他的人。**<sup>13</sup>因為凡求告主名的，就必得救。**
 
-> **^14^然而，人未曾信他，怎能求他呢？未曾聽見他，怎能信他呢？沒有傳道的，怎能聽見呢？^15^若沒有奉差遣，怎能傳道呢？如經上所記：報福音、傳喜信的人，他們的腳蹤何等佳美。**^16^只是人沒有都聽從福音，因為以賽亞說：主阿，我們所傳的有誰信呢？**^17^可見信道是從聽道來的，聽道是從基督的話來的。**
+> **<sup>14</sup>然而，人未曾信他，怎能求他呢？未曾聽見他，怎能信他呢？沒有傳道的，怎能聽見呢？<sup>15</sup>若沒有奉差遣，怎能傳道呢？如經上所記：報福音、傳喜信的人，他們的腳蹤何等佳美。**<sup>16</sup>只是人沒有都聽從福音，因為以賽亞說：主阿，我們所傳的有誰信呢？**<sup>17</sup>可見信道是從聽道來的，聽道是從基督的話來的。**
 
-> ^18^但我說，人沒有聽見麼？誠然聽見了。他們的聲音傳遍天下；他們的言語傳到地極。^19^我再說，以色列人不知道麼？先有摩西說：我要用那不成子民的，惹動你們的憤恨；我要用那無知的民觸動你們的怒氣。^20^又有以賽亞放膽說：沒有尋找我的，我叫他們遇見；沒有訪問我的，我向他們顯現。^21^至於以色列人，他說：我整天伸手招呼那悖逆頂嘴的百姓。
+> <sup>18</sup>但我說，人沒有聽見麼？誠然聽見了。他們的聲音傳遍天下；他們的言語傳到地極。<sup>19</sup>我再說，以色列人不知道麼？先有摩西說：我要用那不成子民的，惹動你們的憤恨；我要用那無知的民觸動你們的怒氣。<sup>20</sup>又有以賽亞放膽說：沒有尋找我的，我叫他們遇見；沒有訪問我的，我向他們顯現。<sup>21</sup>至於以色列人，他說：我整天伸手招呼那悖逆頂嘴的百姓。
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^Brethren, my heart's desire and my prayer to God for them is for *their* salvation. ^2^For I testify about them that they have a zeal for God, but not in accordance with knowledge. ^3^For not knowing about God's righteousness and seeking to establish their own, they did not subject themselves to the righteousness of God. ^4^For Christ is the end of the law for righteousness to everyone who believes.
+> <sup>1</sup>Brethren, my heart's desire and my prayer to God for them is for *their* salvation. <sup>2</sup>For I testify about them that they have a zeal for God, but not in accordance with knowledge. <sup>3</sup>For not knowing about God's righteousness and seeking to establish their own, they did not subject themselves to the righteousness of God. <sup>4</sup>For Christ is the end of the law for righteousness to everyone who believes.
 
-> ^5^For Moses writes that the man who practices the righteousness which is based on law shall live by that righteousness. ^6^But the righteousness based on faith speaks as follows: "DO NOT SAY IN YOUR HEART, 'WHO WILL ASCEND INTO HEAVEN?' (that is, to bring Christ down), ^7^or 'WHO WILL DESCEND INTO THE ABYSS?' (that is, to bring Christ up from the dead)." ^8^But what does it say? "THE WORD IS NEAR YOU, IN YOUR MOUTH AND IN YOUR HEART"—that is, the word of faith which we are preaching,
+> <sup>5</sup>For Moses writes that the man who practices the righteousness which is based on law shall live by that righteousness. <sup>6</sup>But the righteousness based on faith speaks as follows: "DO NOT SAY IN YOUR HEART, 'WHO WILL ASCEND INTO HEAVEN?' (that is, to bring Christ down), <sup>7</sup>or 'WHO WILL DESCEND INTO THE ABYSS?' (that is, to bring Christ up from the dead)." <sup>8</sup>But what does it say? "THE WORD IS NEAR YOU, IN YOUR MOUTH AND IN YOUR HEART"—that is, the word of faith which we are preaching,
 
-> **^9^that if you confess with your mouth Jesus *as* Lord, and believe in your heart that God raised Him from the dead, you will be saved; ^10^for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.** ^11^For the Scripture says, "WHOEVER BELIEVES IN HIM WILL NOT BE DISAPPOINTED." ^12^For there is no distinction between Jew and Greek; for the same *Lord* is Lord of all, abounding in riches for all who call on Him; **^13^for "WHOEVER WILL CALL ON THE NAME OF THE LORD WILL BE SAVED."**
+> **<sup>9</sup>that if you confess with your mouth Jesus *as* Lord, and believe in your heart that God raised Him from the dead, you will be saved; <sup>10</sup>for with the heart a person believes, resulting in righteousness, and with the mouth he confesses, resulting in salvation.** <sup>11</sup>For the Scripture says, "WHOEVER BELIEVES IN HIM WILL NOT BE DISAPPOINTED." <sup>12</sup>For there is no distinction between Jew and Greek; for the same *Lord* is Lord of all, abounding in riches for all who call on Him; **<sup>13</sup>for "WHOEVER WILL CALL ON THE NAME OF THE LORD WILL BE SAVED."**
 
-> **^14^How then will they call on Him in whom they have not believed? How will they believe in Him whom they have not heard? And how will they hear without a preacher? ^15^How will they preach unless they are sent? Just as it is written, "HOW BEAUTIFUL ARE THE FEET OF THOSE WHO BRING GOOD NEWS OF GOOD THINGS!"** ^16^However, they did not all heed the good news; for Isaiah says, "LORD, WHO HAS BELIEVED OUR REPORT?" **^17^So faith *comes* from hearing, and hearing by the word of Christ.**
+> **<sup>14</sup>How then will they call on Him in whom they have not believed? How will they believe in Him whom they have not heard? And how will they hear without a preacher? <sup>15</sup>How will they preach unless they are sent? Just as it is written, "HOW BEAUTIFUL ARE THE FEET OF THOSE WHO BRING GOOD NEWS OF GOOD THINGS!"** <sup>16</sup>However, they did not all heed the good news; for Isaiah says, "LORD, WHO HAS BELIEVED OUR REPORT?" **<sup>17</sup>So faith *comes* from hearing, and hearing by the word of Christ.**
 
-> ^18^But I say, surely they have never heard, have they? Indeed they have; "THEIR VOICE HAS GONE OUT INTO ALL THE EARTH, AND THEIR WORDS TO THE ENDS OF THE WORLD." ^19^But I say, surely Israel did not know, did they? First Moses says, "I WILL MAKE YOU JEALOUS BY THAT WHICH IS NOT A NATION, BY A NATION WITHOUT UNDERSTANDING WILL I ANGER YOU." ^20^And Isaiah is very bold and says, "I WAS FOUND BY THOSE WHO DID NOT SEEK ME, I BECAME MANIFEST TO THOSE WHO DID NOT ASK FOR ME." ^21^But as for Israel He says, "ALL THE DAY LONG I HAVE STRETCHED OUT MY HANDS TO A DISOBEDIENT AND OBSTINATE PEOPLE."
+> <sup>18</sup>But I say, surely they have never heard, have they? Indeed they have; "THEIR VOICE HAS GONE OUT INTO ALL THE EARTH, AND THEIR WORDS TO THE ENDS OF THE WORLD." <sup>19</sup>But I say, surely Israel did not know, did they? First Moses says, "I WILL MAKE YOU JEALOUS BY THAT WHICH IS NOT A NATION, BY A NATION WITHOUT UNDERSTANDING WILL I ANGER YOU." <sup>20</sup>And Isaiah is very bold and says, "I WAS FOUND BY THOSE WHO DID NOT SEEK ME, I BECAME MANIFEST TO THOSE WHO DID NOT ASK FOR ME." <sup>21</sup>But as for Israel He says, "ALL THE DAY LONG I HAVE STRETCHED OUT MY HANDS TO A DISOBEDIENT AND OBSTINATE PEOPLE."
 
 ---
 

@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：巴比倫傾倒了——「我的民哪，你們要從那城出來」，全書第六步「傾倒」在此完結，下一卷隨即轉入羔羊的婚筵。
+
 這一章沒有直接描述基督的出現，卻處處是祂公義掌權的迴響。地上的君王、客商、船主都為巴比倫的傾覆哭泣哀號，天上卻傳來完全不同的呼聲：「天哪，眾聖徒、眾使徒、眾先知阿，你們都要因他歡喜，因為神已經在他身上伸了你們的冤」（20節）。地上的哭聲與天上的歡呼形成強烈對比，揭示了一個貫穿全書的真理：真正的審判者是那位掌管公義的神，祂終必為受逼迫的聖徒伸冤，而世人所倚靠、所哀悼的一切財富與榮華，在祂公義的審判面前終必歸於無有。
 
 ---
@@ -135,8 +137,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -160,13 +163,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 18
 
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，巴比倫的傾覆在地上與天上造成截然相反的兩種反應：
+
+> "The fall of the city produces entirely opposite effects on earth and in heaven. The earth is plunged into mourning. The heavenly and spiritual world rejoices."
+>
+> 中譯：這城的傾覆在地上與天上造成截然相反的效果。地上陷入哀慟，屬天屬靈的世界卻歡騰喜樂。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄18章, https://www.studylight.org/commentaries/eng/gcm/revelation-18.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟一針見血地指出，商人與君王所哀哭的，其實不是自己的靈魂：
+
+> "Talk about materialistic; they don't seem to be weeping and lamenting over their souls, they're weeping and lamenting over their wallets."
+>
+> 中譯：說到物質主義——他們哭的、哀號的，似乎不是自己的靈魂，而是自己的錢包。（66-65）
+> — John MacArthur, "Babylon Is Fallen, Part 3" (gty.org, sermon 66-65), https://www.gty.org/sermons/66-65/babylon-is-fallen-part-3
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這一整章最深刻的對比，不在於巴比倫的傾覆有多麼壯觀，而在於20節「你們都要因他歡喜」這句話——當地上為失去的財富哭泣時，天上卻因公義得申而歡呼；這提醒每一位信徒省察自己喜樂的根基究竟建立在哪裡。
-
-> — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 

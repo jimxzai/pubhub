@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：同工 Synergos** \
-> **全書坐標**：印刷成書的五卷結構把12-16章合為卷五「活祭」，16章是這一卷、也是全書的收尾（〈羅馬書概覽〉的結構表分得更細，12:1-15:13另稱「生活」、15:14-16:27另稱「結語」——兩種分法著眼點不同，不互相牴觸）。12-15章的教導，在16章化為一份有名有姓的名單——福音的能力（1:16）落在具體的人身上；末了16:25-27的頌讚，把全書的論證收在「獨一全智的神」身上。 \
+> **全書座標**：印刷成書的五卷結構把12-16章合為卷五「活祭」，16章是這一卷、也是全書的收尾（〈羅馬書概覽〉的結構表分得更細，12:1-15:13另稱「生活」、15:14-16:27另稱「結語」——兩種分法著眼點不同，不互相牴觸）。12-15章的教導，在16章化為一份有名有姓的名單——福音的能力（1:16）落在具體的人身上；末了16:25-27的頌讚，把全書的論證收在「獨一全智的神」身上。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章常被當作「只是一串名單」匆匆翻過，但它其實是整卷福音書信最具體的「肉身化」證據——因為福音的能力（1:16），如今活在一群真實、有名有姓、跨越猶太人與外邦人、自由人與奴隸、男人與女人的身體裏，「在基督裏」（*en Christō*）這短語在本章反覆出現十餘次，每一次都在說：這些人之所以彼此相連，唯一的原因是耶穌基督。全信以「因信稱義」開始，卻以一份問安名單與一句榮耀頌結束——正說明稱義的教義若不落實成一個彼此相顧、跨越階級與種族的群體，就還沒有活出福音的全貌。而全信最後一句話，不是保羅的名字，是「獨一全智的神，藉著耶穌基督，得著榮耀，直到永遠」——羅馬書從「神的義」開始，以「神的榮耀」結束，中間的橋樑，是耶穌基督。
@@ -59,27 +59,27 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^我對你們舉薦我們的姐妹非比，她是堅革哩教會中的女執事。^2^請你們為主接待她，合乎聖徒的體統。她在何事上要你們幫助，你們就幫助她，因她素來幫助許多人，也幫助了我。
+> <sup>1</sup>我對你們舉薦我們的姐妹非比，她是堅革哩教會中的女執事。<sup>2</sup>請你們為主接待她，合乎聖徒的體統。她在何事上要你們幫助，你們就幫助她，因她素來幫助許多人，也幫助了我。
 
-> ^3^問百基拉和亞居拉安。他們在基督耶穌裏與我同工，^4^也為我的命將自己的頸項置之度外；不但我感謝他們，就是外邦的眾教會也感謝他們。^5^又問在他們家中的教會安。問我所親愛的以拜尼土安，他在亞細亞是歸基督初結的果子。^6^又問馬利亞安，她為你們多受勞苦。^7^又問我親屬與我一同坐監的安多尼古和猶尼亞安，他們在使徒中是有名望的，也是比我先在基督裏。^8^又問我在主裏面所親愛的暗伯利安。^9^又問在基督裏與我們同工的耳巴奴並我所親愛的士大古安。^10^又問在基督裏經過試驗的亞比利安。問亞利多布家裏的人安。^11^又問我親屬希羅天安。問拿其數家在主裏的人安。^12^又問為主勞苦的土非拿氏和土富撒氏安。問可親愛為主多受勞苦的彼息氏安。^13^又問在主蒙揀選的魯孚和他母親安，他的母親就是我的母親。^14^又問亞遜其土、弗勒干、黑米、八羅巴、黑馬，並與他們在一處的弟兄們安。^15^又問非羅羅古和猶利亞，尼利亞和他姐妹，同阿林巴，並與他們在一處的眾聖徒安。^16^你們親嘴問安彼此務要聖潔。基督的眾教會都問你們安。
+> <sup>3</sup>問百基拉和亞居拉安。他們在基督耶穌裏與我同工，<sup>4</sup>也為我的命將自己的頸項置之度外；不但我感謝他們，就是外邦的眾教會也感謝他們。<sup>5</sup>又問在他們家中的教會安。問我所親愛的以拜尼土安，他在亞細亞是歸基督初結的果子。<sup>6</sup>又問馬利亞安，她為你們多受勞苦。<sup>7</sup>又問我親屬與我一同坐監的安多尼古和猶尼亞安，他們在使徒中是有名望的，也是比我先在基督裏。<sup>8</sup>又問我在主裏面所親愛的暗伯利安。<sup>9</sup>又問在基督裏與我們同工的耳巴奴並我所親愛的士大古安。<sup>10</sup>又問在基督裏經過試驗的亞比利安。問亞利多布家裏的人安。<sup>11</sup>又問我親屬希羅天安。問拿其數家在主裏的人安。<sup>12</sup>又問為主勞苦的土非拿氏和土富撒氏安。問可親愛為主多受勞苦的彼息氏安。<sup>13</sup>又問在主蒙揀選的魯孚和他母親安，他的母親就是我的母親。<sup>14</sup>又問亞遜其土、弗勒干、黑米、八羅巴、黑馬，並與他們在一處的弟兄們安。<sup>15</sup>又問非羅羅古和猶利亞，尼利亞和他姐妹，同阿林巴，並與他們在一處的眾聖徒安。<sup>16</sup>你們親嘴問安彼此務要聖潔。基督的眾教會都問你們安。
 
-> ^17^弟兄們，那些離間你們、叫你們跌倒、背乎所學之道的人，我勸你們要留意躲避他們。^18^因為這樣的人不服侍我們的主基督，只服侍自己的肚腹，用花言巧語誘惑那些老實人的心。^19^你們的順服已經傳於眾人，所以我為你們歡喜，但我願意你們在善上聰明，在惡上愚拙。^20^賜平安的神快要將撒但踐踏在你們腳下。願我主耶穌基督的恩常和你們同在！
+> <sup>17</sup>弟兄們，那些離間你們、叫你們跌倒、背乎所學之道的人，我勸你們要留意躲避他們。<sup>18</sup>因為這樣的人不服侍我們的主基督，只服侍自己的肚腹，用花言巧語誘惑那些老實人的心。<sup>19</sup>你們的順服已經傳於眾人，所以我為你們歡喜，但我願意你們在善上聰明，在惡上愚拙。<sup>20</sup>賜平安的神快要將撒但踐踏在你們腳下。願我主耶穌基督的恩常和你們同在！
 
-> ^21^與我同工的提摩太和我的親屬路求、耶孫、所西巴德問你們安。^22^我這代筆寫信的德丟在主裏面問你們安。^23^那接待我，也接待全教會的該猶問你們安。^24^城內管銀庫的以拉都和兄弟括土問你們安。
+> <sup>21</sup>與我同工的提摩太和我的親屬路求、耶孫、所西巴德問你們安。<sup>22</sup>我這代筆寫信的德丟在主裏面問你們安。<sup>23</sup>那接待我，也接待全教會的該猶問你們安。<sup>24</sup>城內管銀庫的以拉都和兄弟括土問你們安。
 
-> **^25^惟有神能照我所傳的福音和所講的耶穌基督，並照永古隱藏不言的奧祕，堅固你們的心。^26^這奧祕如今顯明出來，而且按著永生神的命，藉眾先知的書指示萬國的民，使他們信服真道。^27^願榮耀因耶穌基督歸於獨一全智的神，直到永遠！阿們。**
+> **<sup>25</sup>惟有神能照我所傳的福音和所講的耶穌基督，並照永古隱藏不言的奧祕，堅固你們的心。<sup>26</sup>這奧祕如今顯明出來，而且按著永生神的命，藉眾先知的書指示萬國的民，使他們信服真道。<sup>27</sup>願榮耀因耶穌基督歸於獨一全智的神，直到永遠！阿們。**
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^I commend to you our sister Phoebe, who is a servant of the church which is at Cenchrea; ^2^that you receive her in the Lord in a manner worthy of the saints, and that you help her in whatever matter she may have need of you; for she herself has also been a helper of many, and of myself as well.
+> <sup>1</sup>I commend to you our sister Phoebe, who is a servant of the church which is at Cenchrea; <sup>2</sup>that you receive her in the Lord in a manner worthy of the saints, and that you help her in whatever matter she may have need of you; for she herself has also been a helper of many, and of myself as well.
 
-> ^3^Greet Prisca and Aquila, my fellow workers in Christ Jesus, ^4^who for my life risked their own necks, to whom not only do I give thanks, but also all the churches of the Gentiles; ^5^also *greet* the church that is in their house. Greet Epaenetus, my beloved, who is the first convert to Christ from Asia. ^6^Greet Mary, who has worked hard for you. ^7^Greet Andronicus and Junias, my kinsmen and my fellow prisoners, who are outstanding among the apostles, who also were in Christ before me. ^8^Greet Ampliatus, my beloved in the Lord. ^9^Greet Urbanus, our fellow worker in Christ, and Stachys my beloved. ^10^Greet Apelles, the approved in Christ. Greet those who are of the *household* of Aristobulus. ^11^Greet Herodion, my kinsman. Greet those of the *household* of Narcissus, who are in the Lord. ^12^Greet Tryphaena and Tryphosa, workers in the Lord. Greet Persis the beloved, who has worked hard in the Lord. ^13^Greet Rufus, a choice man in the Lord, also his mother and mine. ^14^Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brethren with them. ^15^Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them. ^16^Greet one another with a holy kiss. All the churches of Christ greet you.
+> <sup>3</sup>Greet Prisca and Aquila, my fellow workers in Christ Jesus, <sup>4</sup>who for my life risked their own necks, to whom not only do I give thanks, but also all the churches of the Gentiles; <sup>5</sup>also *greet* the church that is in their house. Greet Epaenetus, my beloved, who is the first convert to Christ from Asia. <sup>6</sup>Greet Mary, who has worked hard for you. <sup>7</sup>Greet Andronicus and Junias, my kinsmen and my fellow prisoners, who are outstanding among the apostles, who also were in Christ before me. <sup>8</sup>Greet Ampliatus, my beloved in the Lord. <sup>9</sup>Greet Urbanus, our fellow worker in Christ, and Stachys my beloved. <sup>10</sup>Greet Apelles, the approved in Christ. Greet those who are of the *household* of Aristobulus. <sup>11</sup>Greet Herodion, my kinsman. Greet those of the *household* of Narcissus, who are in the Lord. <sup>12</sup>Greet Tryphaena and Tryphosa, workers in the Lord. Greet Persis the beloved, who has worked hard in the Lord. <sup>13</sup>Greet Rufus, a choice man in the Lord, also his mother and mine. <sup>14</sup>Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas and the brethren with them. <sup>15</sup>Greet Philologus and Julia, Nereus and his sister, and Olympas, and all the saints who are with them. <sup>16</sup>Greet one another with a holy kiss. All the churches of Christ greet you.
 
-> ^17^Now I urge you, brethren, keep your eye on those who cause dissensions and hindrances contrary to the teaching which you learned, and turn away from them. ^18^For such men are slaves, not of our Lord Christ but of their own appetites; and by their smooth and flattering speech they deceive the hearts of the unsuspecting. ^19^For the report of your obedience has reached to all; therefore I am rejoicing over you, but I want you to be wise in what is good and innocent in what is evil. ^20^The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
+> <sup>17</sup>Now I urge you, brethren, keep your eye on those who cause dissensions and hindrances contrary to the teaching which you learned, and turn away from them. <sup>18</sup>For such men are slaves, not of our Lord Christ but of their own appetites; and by their smooth and flattering speech they deceive the hearts of the unsuspecting. <sup>19</sup>For the report of your obedience has reached to all; therefore I am rejoicing over you, but I want you to be wise in what is good and innocent in what is evil. <sup>20</sup>The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
 
-> ^21^Timothy my fellow worker greets you, and *so* *do* Lucius and Jason and Sosipater, my kinsmen. ^22^I, Tertius, who write this letter, greet you in the Lord. ^23^Gaius, host to me and to the whole church, greets you. Erastus, the city treasurer greets you, and Quartus, the brother. ^24^[The grace of our Lord Jesus Christ be with you all. Amen.]
+> <sup>21</sup>Timothy my fellow worker greets you, and *so* *do* Lucius and Jason and Sosipater, my kinsmen. <sup>22</sup>I, Tertius, who write this letter, greet you in the Lord. <sup>23</sup>Gaius, host to me and to the whole church, greets you. Erastus, the city treasurer greets you, and Quartus, the brother. <sup>24</sup>[The grace of our Lord Jesus Christ be with you all. Amen.]
 
-> **^25^Now to Him who is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret for long ages past, ^26^but now is manifested, and by the Scriptures of the prophets, according to the commandment of the eternal God, has been made known to all the nations, *leading* to obedience of faith; ^27^to the only wise God, through Jesus Christ, be the glory forever. Amen.**
+> **<sup>25</sup>Now to Him who is able to establish you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery which has been kept secret for long ages past, <sup>26</sup>but now is manifested, and by the Scriptures of the prophets, according to the commandment of the eternal God, has been made known to all the nations, *leading* to obedience of faith; <sup>27</sup>to the only wise God, through Jesus Christ, be the glory forever. Amen.**
 
 *經文小記*：中英文本在16:23-24的分節與內容上，存在真實、可查證的抄本差異，而且比表面看起來更複雜。和合本（CUV）依其所本的多數文本傳統，23節只列該猶一人問安，另立24節「城內管銀庫的以拉都和兄弟括土問你們安」。NASB 1995（經 biblehub.com/nasb/romans/16 核對）的分節方式不同：以拉都、括土的問安被併入23節（與該猶同節），24節則另外印出一句以方括號標示的文字——"[The grace of our Lord Jesus Christ be with you all. Amen.]"（大意：願我們主耶穌基督的恩，常與你們眾人同在，阿們）——這是多數文本傳統裏重複出現的**第二次**「恩惠頌辭」（第一次已見於20節），NASB以方括號註明此句屬後期抄本所加、不見於最早期可靠抄本。換句話說，NASB雖然仍把24節編了號，但24節的實際內容與和合本24節（以拉都、括土的問安）完全不同：和合本把「以拉都、括土問安」單獨列為24節；NASB把同一句問安併入23節，卻另外把一句不同的、有手抄本存疑的恩惠頌辭方括號標為24節。這是真實、可查證的抄本與分節差異，不是本書校訂的疏失。
 

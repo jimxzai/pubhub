@@ -21,9 +21,9 @@ publisher: 三書精讀出版系統
 
 - **核校方式**：2026 年 8 月，逐條抓取 gty.org 對應講道的**逐字稿全文**，
   以字串比對核校本書每一句麥克阿瑟引文——逐字對照講道逐字稿全文，非憑印象核對。
-- **核校結果**：全書二十四章共 **65 條**引文，分屬 **41 篇**講道，
+- **核校結果**：全書二十四章共 **63 條**引文，分屬 **40 篇**講道，
   現已與所取得的逐字稿逐條比對；**權利仍未清除**。
-- **2026 年 8 月的更正**：本次核校發現若干條引文與逐字稿有出入，均已按逐字稿校正——
+- **2026 年 8 月的更正**：本次核校發現若干條引文與逐字稿有出入，均已按原稿校正——
   包括把兩句不相連的話接成一句（第 6 章）、把句中逗號處截斷後補上句號當作完整句
   （第 11 章）、以及第 13 章三條引文全部走樣（如「death can come at any time, and we
   know not when」原稿實作「death is around the corner and we don't know when」）。
@@ -49,7 +49,7 @@ publisher: 三書精讀出版系統
 | 42-143 | The Answer to Life's Greatest Question, Part 3 | 路 10:25-29 | 第 10 章 |
 | 42-144 | The Good Samaritan | 路 10:30-37 | 第 10 章 |
 | 42-145 | The Christian's Priority | 路 10:38-42 | 第 10 章 |
-| 42-158 | God's Generous Response to Boldness in Prayer | 路 11:5-13 | 第 11 章 |
+| 42-158 | God's Generous Response to Boldness in Prayer |  | 第 11 章 |
 | 42-171 | The Rich Fool | 路 12:13-21 | 第 12 章 |
 | 42-180 | Supernatural Lessons from a Natural Disaster | 路 13:1-5 | 第 13 章 |
 | 42-195 | The Extreme Nature of True Discipleship, Part 1 | 路 14:25-35 | 第 14 章 |
@@ -61,7 +61,6 @@ publisher: 三書精讀出版系統
 | 42-239 | A Sinner Meets a Seeking Savior, Part 2 | 路 19:1-10 | 第 19 章 |
 | 42-238 | A Sinner Meets a Seeking Savior, Part 1 | 路 19:1-10 | 第 19 章 |
 | 42-240 | Fitting Rewards from the Returning King | 路 19:11-27 | 第 19 章 |
-| 42-241 | Jesus' Humble Coronation, Part 1 | 路 19:28-40 | 第 19 章 |
 | 42-242 | Jesus' Humble Coronation, Part 2 | 路 19:28-44 | 第 19 章 |
 | 42-244 | Rejecting the King's Authority | 路 20:1-8 | 第 20 章 |
 | 42-245 | The Murder of God's Son: A Prophetic Parable, Part 1 | 路 20:9-18 | 第 20 章 |
@@ -83,7 +82,7 @@ publisher: 三書精讀出版系統
 - **主要著作**：*The Gospel According to Luke*（1931，Fleming H. Revell；全書 63 講）。
   **2026 年 8 月取得可逐字核對的線上文本**（biblenotes.online 所刊全文）；來源網站所稱「出版逾九十年」不等於本書已在所有出版地與格式中進入公有領域，故本項權利仍待核實，
   並以字串比對逐條核校全書「摩根」一節的每一句引文——不是人工印象核對。
-- **核校結果**：全書二十四章共 **87 條**摩根逐字引文，與所取得的線上文本相符；**權利仍未清除**。
+- **核校結果**：全書二十四章共 **86 條**摩根逐字引文，與所取得的線上文本相符；**權利仍未清除**。
   逐章分佈如下（各條所論經文另標於該章「摩根」小節末）：
 
 | 出現章 | 引文段數 | 所論經文 |
@@ -106,7 +105,7 @@ publisher: 三書精讀出版系統
 | 第 16 章 | 4 段 | 16:1-13、16:19-31 |
 | 第 17 章 | 4 段 | 17:11-19 |
 | 第 18 章 | 3 段 | 18:1-14 |
-| 第 19 章 | 5 段 | 19:1-10、19:11-28、19:29-48、19:41-44 |
+| 第 19 章 | 4 段 | 19:1-10、19:11-28、19:41-44 |
 | 第 20 章 | 3 段 | 20:1-18、20:19-40 |
 | 第 21 章 | 2 段 | 21:1-4、21:19 |
 | 第 22 章 | 4 段 | 22:1-23、22:39-65 |
@@ -134,6 +133,7 @@ publisher: 三書精讀出版系統
 已於 2026 年 8 月與 CCEL 所刊 *Commentary on a Harmony of the Evangelists*
 第一卷（calcom31）全文逐字核校相符；其中論路 2:7 一段原截於句中，已補足至完整句。
 其餘各章之教父與改革宗內容，一律不加引號、不作逐字引用。
+
 
 | 作者 | 著作 | 出現章（舉要） |
 |------|------|---------------|

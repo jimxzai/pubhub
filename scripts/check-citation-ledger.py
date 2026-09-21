@@ -98,7 +98,7 @@ def _add(out, num, n, cjk):
 def chapters_with_quotes(book_dir, commentator):
     """{chapter number: quote count} for chapters quoting this commentator."""
     out = {}
-    for f in sorted(Path(book_dir).glob("[0-9][0-9]-*.md")):
+    for f in sorted(p for p in Path(book_dir).glob("*.md") if re.match(r"\d{2}[a-z]?-", p.name)):
         m = re.match(r"(\d+)", f.name)
         if not m:
             continue

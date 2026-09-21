@@ -283,31 +283,31 @@
 \begin{tikzpicture}[scale=0.80, transform shape]
   \node[draw=BookOneOlive,fill=BookOneOlive!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (0,0) {};
   \node[font=\small\bfseries,color=BookOneOlive!70!black] at (0,0.62) {卷一 I};
-  \node[font=\scriptsize,color=TextGray] at (0,0.2) {詩 1--41};
+  \node[font=\scriptsize,color=TextGray] at (0,0.2) {詩 1–41};
   \node[font=\scriptsize,color=LiturgicalRed!80!black] at (0,-0.22) {創世記};
   \node[font=\scriptsize,color=LightGray] at (0,-0.62) {有福的人};
 
   \node[draw=BookTwoGold,fill=BookTwoGold!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (3.0,0) {};
   \node[font=\small\bfseries,color=BookTwoGold!70!black] at (3.0,0.62) {卷二 II};
-  \node[font=\scriptsize,color=TextGray] at (3.0,0.2) {詩 42--72};
+  \node[font=\scriptsize,color=TextGray] at (3.0,0.2) {詩 42–72};
   \node[font=\scriptsize,color=LiturgicalRed!80!black] at (3.0,-0.22) {出埃及記};
   \node[font=\scriptsize,color=LightGray] at (3.0,-0.62) {拯救、王};
 
   \node[draw=BookThreeRust,fill=BookThreeRust!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (6.0,0) {};
   \node[font=\small\bfseries,color=BookThreeRust!70!black] at (6.0,0.62) {卷三 III};
-  \node[font=\scriptsize,color=TextGray] at (6.0,0.2) {詩 73--89};
+  \node[font=\scriptsize,color=TextGray] at (6.0,0.2) {詩 73–89};
   \node[font=\scriptsize,color=LiturgicalRed!80!black] at (6.0,-0.22) {利未記};
   \node[font=\scriptsize,color=LightGray] at (6.0,-0.62) {聖所、約};
 
   \node[draw=BookFourSage,fill=BookFourSage!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (9.0,0) {};
   \node[font=\small\bfseries,color=BookFourSage!70!black] at (9.0,0.62) {卷四 IV};
-  \node[font=\scriptsize,color=TextGray] at (9.0,0.2) {詩 90--106};
+  \node[font=\scriptsize,color=TextGray] at (9.0,0.2) {詩 90–106};
   \node[font=\scriptsize,color=LiturgicalRed!80!black] at (9.0,-0.22) {民數記};
   \node[font=\scriptsize,color=LightGray] at (9.0,-0.62) {耶和華作王};
 
   \node[draw=BookFiveAmber,fill=BookFiveAmber!12,rounded corners,minimum width=2.6cm,minimum height=2.1cm] at (12.0,0) {};
   \node[font=\small\bfseries,color=BookFiveAmber!70!black] at (12.0,0.62) {卷五 V};
-  \node[font=\scriptsize,color=TextGray] at (12.0,0.2) {詩 107--150};
+  \node[font=\scriptsize,color=TextGray] at (12.0,0.2) {詩 107–150};
   \node[font=\scriptsize,color=LiturgicalRed!80!black] at (12.0,-0.22) {申命記};
   \node[font=\scriptsize,color=LightGray] at (12.0,-0.62) {話語、頌讚};
 
@@ -369,7 +369,7 @@
   \node[font=\scriptsize, color=TextGray] at (11.0,4.0) {130 從深處};
   \node[font=\scriptsize, color=TextGray, anchor=east] at (15.7,6.9) {134 殿中事奉};
   \draw[->, thick, LiturgicalRed] (0.2,-1.1) -- (3.2,-1.1);
-  \node[font=\scriptsize\bfseries, color=LiturgicalRed, anchor=west] at (3.5,-1.1) {上行之詩 Songs of Ascent \textperiodcentered\ 十五階朝聖之路（詩120--134）};
+  \node[font=\scriptsize\bfseries, color=LiturgicalRed, anchor=west] at (3.5,-1.1) {上行之詩 Songs of Ascent \textperiodcentered\ 十五階朝聖之路（詩120–134）};
 \end{tikzpicture}
 }
 
@@ -379,10 +379,10 @@
   \draw[LiturgicalGold,line width=1.5pt] (0.3,0) -- (15.2,0);
   \fill[LiturgicalRed] (0.7,0) circle (0.30);
   \node[font=\tiny\bfseries,color=white] at (0.7,0) {1};
-  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (0.7,-0.95) {有福的人\\詩 1--2};
+  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (0.7,-0.95) {有福的人\\詩 1–2};
   \fill[LiturgicalRed] (4.2,0) circle (0.30);
   \node[font=\tiny\bfseries,color=white] at (4.2,0) {22};
-  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (4.2,-0.95) {受苦的牧人\\詩 22--24};
+  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (4.2,-0.95) {受苦的牧人\\詩 22–24};
   \fill[LiturgicalRed] (7.7,0) circle (0.30);
   \node[font=\tiny\bfseries,color=white] at (7.7,0) {89};
   \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (7.7,-0.95) {約的危機\\詩 89};
@@ -391,7 +391,7 @@
   \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (11.2,-0.95) {君王祭司\\詩 110};
   \fill[LiturgicalRed] (14.7,0) circle (0.30);
   \node[font=\tiny\bfseries,color=white] at (14.7,0) {150};
-  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (14.7,-0.95) {凡有氣息的\\詩 146--150};
+  \node[font=\scriptsize,color=TextGray,align=center,text width=2.3cm] at (14.7,-0.95) {凡有氣息的\\詩 146–150};
 \end{tikzpicture}%
 }
 
@@ -424,12 +424,28 @@
 %% HYPERLINKS
 %% ============================================
 \usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
 \hypersetup{
   colorlinks=true,
   linkcolor=LiturgicalBlue,
   urlcolor=LiturgicalGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={詩篇全卷逐篇領受：一百五十篇每篇一把鑰匙，五卷結構對應摩西五經，主角始終是耶穌基督},
+  pdfkeywords={詩篇, Psalms, 讚美, 哀歌, 老弟兄, G. Campbell Morgan, John MacArthur, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -586,7 +602,7 @@ Three Books Deep Reading \textbullet\ Liturgical Edition}\\[0.08cm]
 \vspace{0.20cm}
 
 {\fontsize{13}{15}\selectfont\itshape\color{TextGray}
-The Whole Psalter with Elder Huang \textperiodcentered{} Psalms 1--150}
+The Whole Psalter with the Elder Brother \textperiodcentered{} Psalms 1–150}
 
 \vspace{0.25cm}
 
@@ -898,9 +914,9 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書以黃長老的查經方法走遍詩篇一百五十篇——依詩篇本身的五卷結構（對應摩西五經），每卷先作整卷深讀，再逐篇給出一把鑰匙：精義一句話，加上「看見耶穌」的角度。因為詩篇的主角永遠是耶穌：詩一那棵栽在溪水旁的樹、詩二受膏的王子、詩二十二被離棄的哀號者、詩二十三的好牧人、詩一百一十右邊的主與麥基洗德等次的祭司、詩一百一十八被匠人棄掉的房角石。整卷詩篇的終局，是「凡有氣息的，都要讚美耶和華」——與整本聖經的終局，同一個方向。
+本書以老弟兄的查經方法走遍詩篇一百五十篇——依詩篇本身的五卷結構（對應摩西五經），每卷先作整卷深讀，再逐篇給出一把鑰匙：精義一句話，加上「看見耶穌」的角度。因為詩篇的主角永遠是耶穌：詩一那棵栽在溪水旁的樹、詩二受膏的王子、詩二十二被離棄的哀號者、詩二十三的好牧人、詩一百一十右邊的主與麥基洗德等次的祭司、詩一百一十八被匠人棄掉的房角石。整卷詩篇的終局，是「凡有氣息的，都要讚美耶和華」——與整本聖經的終局，同一個方向。
 
-A psalm-by-psalm reception of the whole Psalter in Elder Huang's method: each of the five books read as a whole, then every psalm given one key — its distilled essence, and the angle from which to see Jesus Christ. For the protagonist of all 150 psalms is always Jesus: the tree planted by streams (Ps 1), the anointed Son (Ps 2), the forsaken sufferer (Ps 22), the good shepherd (Ps 23), the priest-king (Ps 110), the rejected cornerstone (Ps 118). The Psalter ends where the whole Bible ends: ``Let everything that has breath praise the LORD.''
+A psalm-by-psalm reception of the whole Psalter in the Elder Brother's method: each of the five books read as a whole, then every psalm given one key — its distilled essence, and the angle from which to see Jesus Christ. For the protagonist of all 150 psalms is always Jesus: the tree planted by streams (Ps 1), the anointed Son (Ps 2), the forsaken sufferer (Ps 22), the good shepherd (Ps 23), the priest-king (Ps 110), the rejected cornerstone (Ps 118). The Psalter ends where the whole Bible ends: ``Let everything that has breath praise the LORD.''
 $endif$
 \end{minipage}
 

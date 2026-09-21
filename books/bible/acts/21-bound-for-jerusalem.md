@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十一章 · 上耶路撒冷去 (Bound for Jerusalem)
@@ -45,7 +45,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^3^望見居比路，就從南邊行過，往敘利亞去。我們就在推羅上岸，因為船要在那裏卸貨。^4^找著了門徒，就在那裏住了七天。他們被聖靈感動，對保羅說：「不要上耶路撒冷去。」
 
@@ -63,7 +63,7 @@ publisher: 三書精讀出版系統
 
 > ^37^將要帶他進營樓，保羅對千夫長說：「我對你說句話可以不可以？」他說：「你懂得希臘話嗎？^38^你莫非是從前作亂、帶領四千兇徒往曠野去的那埃及人嗎？」^39^保羅說：「我本是猶太人，生在基利家的大數，並不是無名小城的人。求你准我對百姓說話。」^40^千夫長准了。保羅就站在臺階上，向百姓擺手。他們都靜默無聲，保羅便用希伯來話對他們說……
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^4^After looking up the disciples, we stayed there seven days; and they kept telling Paul through the Spirit not to set foot in Jerusalem.
 

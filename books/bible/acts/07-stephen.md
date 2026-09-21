@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第七章 · 司提反——第一位殉道者 (Stephen: The First Martyr)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^2^司提反說：「諸位父兄請聽！當日我們的祖宗亞伯拉罕在美索不達米亞，還未住哈蘭的時候，榮耀的神向他顯現，^3^對他說：『你要離開本地和親族，往我所要指示你的地方去。』^4^他就離開迦勒底人之地，住在哈蘭。他父親死了以後，神使他從那裏搬到你們現在所住之地。^5^在這地方，神並沒有給他產業，連立足之地也沒有給他；但應許要將這地賜給他和他的後裔為業，那時他還沒有兒子。^6^神說他的後裔『必寄居外邦，那裏的人要叫他們作奴僕，苦待他們四百年』。^7^神又說『使他們作奴僕的那國，我要懲罰。以後他們要出來，在這地方事奉我』。^8^神又賜他割禮的約；於是亞伯拉罕生了以撒，第八日給他行了割禮。以撒生雅各，雅各生十二位先祖。
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^57^眾人大聲喊叫，摀著耳朵，齊心擁上前去，^58^把他推到城外，用石頭打他。作見證的人把衣裳放在一個少年人名叫掃羅的腳前。^59^他們正用石頭打的時候，司提反呼籲主說：「求主耶穌接收我的靈魂！」^60^又跪下大聲喊著說：「主啊，不要將這罪歸於他們！」說了這話就睡了。掃羅也喜悅他被害。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^2^And he said, "Hear me, brethren and fathers! The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, ^3^and said to him, 'LEAVE YOUR COUNTRY AND YOUR RELATIVES, AND COME INTO THE LAND THAT I WILL SHOW YOU.' ^4^Then he left the land of the Chaldeans and settled in Haran. From there, after his father died, *God* had him move to this country in which you are now living. ^5^But He gave him no inheritance in it, not even a foot of ground, and *yet,* even when he had no child, He promised that HE WOULD GIVE IT TO HIM AS A POSSESSION, AND TO HIS DESCENDANTS AFTER HIM.
 

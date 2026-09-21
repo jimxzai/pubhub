@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：地上的收割與神忿怒的酒醡——「爭戰」這一步以審判的雙重意象作結，為第六步「傾倒」鋪路。
+
 三位天使的信息剛剛宣告完畢——永遠的福音、巴比倫的傾覆、拜獸者的警告——約翰的異象立刻轉向收割的畫面。雲上坐著的「好像人子」，頭戴金冠冕，手拿快鐮刀，這稱謂直接呼應啟示錄1:13約翰所見「好像人子」的那一位，也呼應但以理書7:13-14「有一位像人子的，駕著天雲而來」。收割與踹酒醡，不是兩個獨立的意象，而是同一位掌管歷史的主，用兩幅圖畫宣告同一件事：祂決定收割的時候，也決定審判的分量。這一段沒有記載祂說一句話，只記載祂「把鐮刀扔在地上」——動作本身就是宣告，比言語更直接。
 
 ---
@@ -118,8 +120,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -136,6 +139,24 @@ publisher: 三書精讀出版系統
 亨利在他的《聖經註釋》論到這段經文時強調，收割與踹酒醡雖是同一時刻的兩幅圖畫，卻教導信徒兩件事：一是神的審判有祂自己定的「熟透」的時候，人無法催逼也無法拖延；二是被丟進酒醡的血流至馬嚼環之高，是要讓讀者明白，凡抵擋到底、不肯悔改的，其結局的嚴重程度遠超人所能想像。
 
 > — Matthew Henry, *An Exposition of the Old and New Testament*, Revelation
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，人子手中鐮刀的一揮，正是最終、全面審判的完美象徵：
+
+> "That sweep of the sickle in the right hand of the Son of man is a perfect symbol of the final and all-inclusive judgment."
+>
+> 中譯：人子右手中鐮刀的那一揮，正是最終、全面性審判的完美象徵。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄14章, https://www.studylight.org/commentaries/eng/gcm/revelation-14.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論基督第一次來與第二次來的對比，他在講道中說：
+
+> "The first time Jesus came to earth, He came as a servant. The next time He will come as the sovereign King. The first time Jesus came, He came as one obeying. The next time He will come as one commanding."
+>
+> 中譯：耶穌第一次來到地上，是以僕人的身分來的。祂下一次來，將是以主權之王的身分來。耶穌第一次來，是以順服者的身分來的；祂下一次來，將是以發命令者的身分來。（sermon 66-53）
+> — John MacArthur, "The Final Reaping of the Earth" (gty.org, sermon 66-53), https://www.gty.org/sermons/66-53/the-final-reaping-of-the-earth
 
 ### 當代釋經
 

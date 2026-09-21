@@ -1,0 +1,1974 @@
+% PubHub 1 Corinthians Template
+% 哥林多前書研讀 - Professional Bible Study Layout
+% Bilingual Chinese/English with Greek word studies
+% Theme: Holy Spirit's Five-Fold Work + Resurrection Hope
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{STSong}[
+  BoldFont=STSong,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=STSong
+]
+\setsansfont{Arial Unicode MS}
+\setmonofont{STSong}
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
+%% ucharclasses — full block coverage via \setTransitionTo.
+%%
+%% Two traps this replaces (see .claude/skills/eat-bible/references/gotchas.md):
+%%  1. \setTransitionsFor{Greek} is a no-op — "Greek" is a class GROUP; the
+%%     block is GreekAndCoptic. Basic Greek silently used the main font.
+%%  2. \setTransitionsFor sets BOTH directions for every pair, so a later
+%%     declaration's out-code overwrites an earlier one's in-code. Symptom:
+%%     a Greek/Hebrew run preceded by CJK or full-width punctuation (：、。）
+%%     does not switch font — silently, since the main font carries basic
+%%     Greek glyphs.
+%%
+%% \setTransitionTo sets the ENTERING direction only, so nothing can clobber
+%% anything. It removes the leaving-code, which is why every block this book
+%% uses must be listed: an unlisted block inherits the previous font.
+%% Block list derived from a census of this book's own markdown sources.
+%%
+%% \latinrun keeps the main font's own Latin glyphs — upright text is
+%% unchanged — but adds a real italic, which \setmainfont cannot supply
+%% because its ItalicFont is STSong, a brush face whose Latin glyphs are
+%% UPRIGHT. Without this every italicised work title renders as roman.
+%% \uckeep carries series/shape across the boundary; a bare \newfontfamily
+%% switch resets both and drops \emph / \textbf mid-run.
+\newfontfamily\latinrun{STSong}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=STSong, BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{STSong}[
+  BoldFont=STSong, BoldFeatures={FakeBold=2.2},
+  ItalicFont=STSong
+]
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{SpacingModifierLetters}{\ucCJKRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - 1 Corinthians Theme
+%% Purple/Gold + Holy Spirit Blue
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterPurple}{RGB}{75,35,95}         % Deep purple
+\definecolor{ScriptureGold}{RGB}{165,125,55}       % Gold
+\definecolor{SpiritBlue}{RGB}{50,100,150}          % Holy Spirit blue
+\definecolor{ResurrectionGold}{RGB}{200,160,60}    % Resurrection glory
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}        % Cream for scripture
+\definecolor{GreekBg}{RGB}{248,245,252}            % Light purple for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}      % Light green
+\definecolor{SpiritBg}{RGB}{245,250,255}           % Light blue for Spirit
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Red Letter Bible - Jesus's words
+\definecolor{JesusRed}{RGB}{180,30,30}
+\newcommand{\jesus}[1]{{\color{JesusRed}#1}}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing,decorations.pathreplacing}
+
+%% ============================================
+%% TIKZ DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Dove symbol (Holy Spirit)
+\newcommand{\dovesymbol}{%
+\begin{tikzpicture}[scale=0.12]
+  \draw[color=SpiritBlue,line width=1pt] (0,0) ellipse (1 and 0.5);
+  \draw[color=SpiritBlue,line width=1pt] (-1,0) -- (-1.5,0.3) -- (-1,0.1);
+  \draw[color=SpiritBlue,line width=1pt] (1,0) -- (1.3,0);
+\end{tikzpicture}%
+}
+
+% Map colors
+\definecolor{WaterBlue}{RGB}{180,210,230}
+\definecolor{LandBeige}{RGB}{245,235,220}
+\definecolor{SeaDark}{RGB}{100,140,170}
+
+%% ============================================
+%% CORINTH MAP - Ancient Corinth and Surroundings
+%% ============================================
+\newcommand{\corinthmap}{%
+\begin{tikzpicture}[scale=0.85]
+  % Background - Land
+  \fill[LandBeige] (0,0) rectangle (12,10);
+
+  % Corinthian Gulf (top)
+  \fill[WaterBlue] (0,8) rectangle (12,10);
+  \draw[SeaDark,line width=1pt] (0,8) -- (12,8);
+  \node[font=\small,color=SeaDark] at (6,9) {Corinthian Gulf 哥林多灣};
+
+  % Saronic Gulf (bottom right)
+  \fill[WaterBlue] (8,0) rectangle (12,3);
+  \draw[SeaDark,line width=1pt] (8,0) -- (8,3) -- (12,3);
+  \node[font=\small,color=SeaDark,rotate=90] at (10.5,1.5) {Saronic Gulf};
+
+  % Isthmus of Corinth (narrow land bridge)
+  \fill[LandBeige!80!brown] (4,3) rectangle (8,8);
+  \node[font=\scriptsize,color=TextGray,rotate=90] at (6,5.5) {Isthmus 地峽};
+
+  % ========== KEY LOCATIONS ==========
+
+  % CORINTH - Central focus
+  \fill[ChapterPurple] (5.5,6) circle (0.25);
+  \draw[ChapterPurple,line width=2pt] (5.5,6) circle (0.4);
+  \node[font=\large\bfseries,right,color=ChapterPurple] at (5.9,6.2) {CORINTH};
+  \node[font=\normalsize,right,color=ChapterPurple] at (5.9,5.6) {哥林多};
+
+  % Cenchreae (eastern port)
+  \fill[SpiritBlue] (7.5,4) circle (0.15);
+  \node[font=\small,right,color=TextGray] at (7.7,4) {Cenchreae 堅革哩};
+  \node[font=\scriptsize,right,color=LightGray] at (7.7,3.6) {Eastern Port 東港};
+
+  % Lechaeum (western port)
+  \fill[SpiritBlue] (4,7.5) circle (0.15);
+  \node[font=\small,left,color=TextGray] at (3.8,7.5) {Lechaeum 利恰音};
+  \node[font=\scriptsize,left,color=LightGray] at (3.8,7.1) {Western Port 西港};
+
+  % Athens (to the east)
+  \fill[ScriptureGold] (10,5) circle (0.18);
+  \node[font=\small,right,color=TextGray] at (10.2,5) {Athens 雅典};
+  \node[font=\scriptsize,right,color=LightGray] at (10.2,4.6) {50 km east};
+
+  % Acrocorinth (fortress hill)
+  \fill[ResurrectionGold] (5.2,5) circle (0.12);
+  \node[font=\scriptsize,left,color=TextGray] at (5,5) {Acrocorinth};
+  \node[font=\tiny,left,color=LightGray] at (5,4.6) {衛城};
+
+  % Trade route arrows
+  \draw[->,line width=1.5pt,color=ScriptureGold] (2,9) -- (4,7.5);
+  \draw[->,line width=1.5pt,color=ScriptureGold] (7.5,4) -- (9.5,2);
+  \node[font=\scriptsize,color=ScriptureGold] at (2.5,8.3) {To Rome};
+  \node[font=\scriptsize,color=ScriptureGold] at (9,2.8) {To Asia};
+
+  % ========== COMPASS ==========
+  \draw[->,very thick,color=ChapterPurple] (11,9) -- (11,9.7);
+  \node[font=\normalsize\bfseries,color=ChapterPurple] at (11,9.9) {N};
+
+  % ========== LEGEND ==========
+  \fill[ScriptureBg,rounded corners=5pt] (0.2,0.2) rectangle (3.8,2.8);
+  \draw[ScriptureGold,line width=1pt,rounded corners=5pt] (0.2,0.2) rectangle (3.8,2.8);
+  \node[font=\small\bfseries,color=ChapterPurple] at (2,2.5) {Legend 圖例};
+  \fill[ChapterPurple] (0.5,2) circle (0.1);
+  \node[font=\scriptsize,right,color=TextGray] at (0.7,2) {Corinth 哥林多};
+  \fill[SpiritBlue] (0.5,1.6) circle (0.08);
+  \node[font=\scriptsize,right,color=TextGray] at (0.7,1.6) {Ports 港口};
+  \fill[ScriptureGold] (0.5,1.2) circle (0.08);
+  \node[font=\scriptsize,right,color=TextGray] at (0.7,1.2) {Other Cities};
+  \draw[->,line width=1pt,color=ScriptureGold] (0.4,0.8) -- (0.8,0.8);
+  \node[font=\scriptsize,right,color=TextGray] at (0.9,0.8) {Trade Routes};
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% PAUL'S MISSIONARY JOURNEYS MAP
+%% ============================================
+\newcommand{\pauljourneysmap}{%
+\begin{tikzpicture}[scale=0.68]
+  % Background - Mediterranean Sea
+  \fill[WaterBlue] (0,0) rectangle (16,11);
+
+  % Land masses
+  % Asia Minor (Turkey)
+  \fill[LandBeige] (8,6) -- (16,6) -- (16,11) -- (8,11) -- (8,9) -- (10,8) -- (9,7) -- cycle;
+  % Greece/Macedonia
+  \fill[LandBeige] (3,6) -- (6,6) -- (6,9) -- (5,10) -- (3,10) -- (2,8) -- cycle;
+  % Italy
+  \fill[LandBeige] (0,7) -- (2,7) -- (2,11) -- (0,11) -- cycle;
+  % Cyprus
+  \fill[LandBeige] (9,3.5) ellipse (1.2 and 0.4);
+  % Crete
+  \fill[LandBeige] (6,3) ellipse (1 and 0.3);
+  % Syria/Judea
+  \fill[LandBeige] (12,0) -- (16,0) -- (16,5) -- (13,5) -- (12,3) -- cycle;
+  % Egypt
+  \fill[LandBeige] (8,0) -- (12,0) -- (12,2) -- (8,2) -- cycle;
+
+  % Sea labels
+  \node[font=\scriptsize,color=SeaDark] at (4,4) {Mediterranean Sea};
+  \node[font=\tiny,color=SeaDark] at (4,3.5) {地中海};
+  \node[font=\scriptsize,color=SeaDark] at (11,6.5) {Aegean};
+
+  % ========== KEY CITIES ==========
+
+  % ANTIOCH (Syria) - Starting point
+  \fill[ChapterPurple] (14,4.5) circle (0.2);
+  \node[font=\scriptsize\bfseries,right,color=ChapterPurple] at (14.2,4.5) {Antioch};
+  \node[font=\tiny,right,color=TextGray] at (14.2,4.1) {安提阿};
+
+  % Jerusalem
+  \fill[ScriptureGold] (13.5,2) circle (0.18);
+  \node[font=\scriptsize,right,color=TextGray] at (13.7,2) {Jerusalem 耶路撒冷};
+
+  % Cyprus - Salamis & Paphos
+  \fill[SpiritBlue] (9.8,3.5) circle (0.1);
+  \node[font=\tiny,above,color=TextGray] at (9.8,3.7) {Salamis};
+  \fill[SpiritBlue] (8.2,3.5) circle (0.1);
+  \node[font=\tiny,above,color=TextGray] at (8.2,3.7) {Paphos};
+
+  % Asia Minor cities
+  \fill[SpiritBlue] (11,7.5) circle (0.12);
+  \node[font=\tiny,above,color=TextGray] at (11,7.7) {Perga};
+
+  \fill[SpiritBlue] (12,8.5) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (12.1,8.5) {Antioch Pisidia};
+
+  \fill[SpiritBlue] (13,8.2) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (13.1,8.2) {Iconium 以哥念};
+
+  \fill[SpiritBlue] (13.5,7.5) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (13.6,7.5) {Lystra 路司得};
+
+  \fill[SpiritBlue] (14,7) circle (0.12);
+  \node[font=\tiny,right,color=TextGray] at (14.1,7) {Derbe 特庇};
+
+  % EPHESUS - Major church
+  \fill[ResurrectionGold] (9.5,7) circle (0.18);
+  \draw[ResurrectionGold,line width=1.5pt] (9.5,7) circle (0.28);
+  \node[font=\scriptsize\bfseries,left,color=ResurrectionGold] at (9.2,7) {Ephesus};
+  \node[font=\tiny,left,color=TextGray] at (9.2,6.6) {以弗所};
+
+  % Troas
+  \fill[SpiritBlue] (8.5,8.5) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (8.3,8.5) {Troas};
+
+  % Macedonia/Greece cities
+  \fill[SpiritBlue] (5.5,9.5) circle (0.12);
+  \node[font=\tiny,above,color=TextGray] at (5.5,9.7) {Philippi 腓立比};
+
+  \fill[SpiritBlue] (4.5,9) circle (0.12);
+  \node[font=\tiny,left,color=TextGray] at (4.3,9) {Thessalonica};
+  \node[font=\tiny,left,color=TextGray] at (4.3,8.6) {帖撒羅尼迦};
+
+  \fill[SpiritBlue] (4,8.2) circle (0.1);
+  \node[font=\tiny,left,color=TextGray] at (3.8,8.2) {Berea 庇哩亞};
+
+  % Athens
+  \fill[ScriptureGold] (5,6.8) circle (0.15);
+  \node[font=\scriptsize,below,color=TextGray] at (5,6.5) {Athens 雅典};
+
+  % CORINTH - Major church
+  \fill[ChapterPurple] (4.5,6.5) circle (0.18);
+  \draw[ChapterPurple,line width=1.5pt] (4.5,6.5) circle (0.28);
+  \node[font=\scriptsize\bfseries,below,color=ChapterPurple] at (4.5,6.1) {CORINTH};
+  \node[font=\tiny,below,color=ChapterPurple] at (4.5,5.7) {哥林多};
+
+  % Rome
+  \fill[ScriptureGold] (0.8,9) circle (0.18);
+  \node[font=\scriptsize\bfseries,right,color=TextGray] at (1,9) {Rome 羅馬};
+
+  % ========== JOURNEY ROUTES ==========
+
+  % First Journey (AD 46-48) - Green dashed
+  \draw[green!60!black,line width=2pt,dashed]
+    (14,4.5) -- (9.8,3.5) -- (8.2,3.5) -- (11,7.5) -- (12,8.5) -- (13,8.2) -- (13.5,7.5) -- (14,7);
+  \draw[green!60!black,line width=2pt,dashed]
+    (14,7) -- (13.5,7.5) -- (13,8.2) -- (12,8.5) -- (11,7.5) -- (14,4.5);
+
+  % Second Journey (AD 49-52) - Blue solid
+  \draw[SpiritBlue,line width=2pt]
+    (14,4.5) -- (14,7) -- (13.5,7.5) -- (13,8.2) -- (8.5,8.5) -- (5.5,9.5) -- (4.5,9) -- (4,8.2) -- (5,6.8) -- (4.5,6.5);
+  \draw[SpiritBlue,line width=2pt]
+    (4.5,6.5) -- (9.5,7) -- (14,4.5);
+
+  % Third Journey (AD 53-57) - Purple dotted
+  \draw[ChapterPurple,line width=2pt,dotted]
+    (14,4.5) -- (13,8.2) -- (9.5,7);
+  \draw[ChapterPurple,line width=2pt,dotted]
+    (9.5,7) -- (8.5,8.5) -- (5.5,9.5) -- (4.5,6.5) -- (8.5,8.5) -- (9.5,7);
+  \draw[ChapterPurple,line width=2pt,dotted]
+    (9.5,7) -- (13.5,2) -- (0.8,9);
+
+  % ========== LEGEND ==========
+  \fill[ScriptureBg,rounded corners=5pt] (0.2,0.3) rectangle (7.5,2.5);
+  \draw[ScriptureGold,line width=1pt,rounded corners=5pt] (0.2,0.3) rectangle (7.5,2.5);
+  \node[font=\small\bfseries,color=ChapterPurple] at (3.8,2.2) {Paul's Missionary Journeys 保羅宣教之旅};
+
+  \draw[green!60!black,line width=2pt,dashed] (0.5,1.7) -- (1.5,1.7);
+  \node[font=\scriptsize,right,color=TextGray] at (1.6,1.7) {1st Journey 第一次 (AD 46-48)};
+
+  \draw[SpiritBlue,line width=2pt] (0.5,1.2) -- (1.5,1.2);
+  \node[font=\scriptsize,right,color=TextGray] at (1.6,1.2) {2nd Journey 第二次 (AD 49-52) - Corinth founded};
+
+  \draw[ChapterPurple,line width=2pt,dotted] (0.5,0.7) -- (1.5,0.7);
+  \node[font=\scriptsize,right,color=TextGray] at (1.6,0.7) {3rd Journey 第三次 (AD 53-57) - Letter written};
+
+  % ========== COMPASS ==========
+  \draw[->,very thick,color=ChapterPurple] (15,10) -- (15,10.7);
+  \node[font=\normalsize\bfseries,color=ChapterPurple] at (15,10.9) {N};
+
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% SEVEN CHURCHES OF REVELATION MAP
+%% ============================================
+\newcommand{\sevenchurchesmap}{%
+\begin{tikzpicture}[scale=0.75]
+  % Background - Aegean Sea
+  \fill[WaterBlue] (0,0) rectangle (14,12);
+
+  % Asia Minor (Western Turkey)
+  \fill[LandBeige] (4,0) -- (14,0) -- (14,12) -- (4,12) -- (3,10) -- (2,8) -- (3,6) -- (2,4) -- (4,2) -- cycle;
+
+  % Greek islands suggestions
+  \fill[LandBeige] (1,7) ellipse (0.5 and 0.3);
+  \fill[LandBeige] (0.5,5) ellipse (0.4 and 0.25);
+  \fill[LandBeige] (2,3) ellipse (0.6 and 0.25);
+
+  % Sea label
+  \node[font=\small,color=SeaDark] at (1.5,9) {Aegean};
+  \node[font=\small,color=SeaDark] at (1.5,8.5) {Sea};
+  \node[font=\tiny,color=SeaDark] at (1.5,8) {愛琴海};
+
+  % Region label
+  \node[font=\large\bfseries,color=LandBeige!50!brown] at (10,10.5) {ASIA MINOR};
+  \node[font=\normalsize,color=LandBeige!50!brown] at (10,9.8) {小亞細亞};
+
+  % ========== THE SEVEN CHURCHES ==========
+  % Circuit pattern: Ephesus -> Smyrna -> Pergamum -> Thyatira -> Sardis -> Philadelphia -> Laodicea
+
+  % 1. EPHESUS (Rev 2:1-7) - Lost first love
+  \fill[ChapterPurple] (5,3) circle (0.25);
+  \draw[ChapterPurple,line width=2pt] (5,3) circle (0.4);
+  \node[font=\normalsize\bfseries,right,color=ChapterPurple] at (5.5,3.2) {1. EPHESUS};
+  \node[font=\small,right,color=TextGray] at (5.5,2.7) {以弗所};
+  \node[font=\tiny,right,color=LightGray] at (5.5,2.3) {Rev 2:1-7 失去起初的愛};
+
+  % 2. SMYRNA (Rev 2:8-11) - Suffering church
+  \fill[SpiritBlue] (4.5,5.5) circle (0.22);
+  \draw[SpiritBlue,line width=1.5pt] (4.5,5.5) circle (0.35);
+  \node[font=\normalsize\bfseries,left,color=SpiritBlue] at (4,5.7) {2. SMYRNA};
+  \node[font=\small,left,color=TextGray] at (4,5.2) {士每拿};
+  \node[font=\tiny,left,color=LightGray] at (4,4.8) {Rev 2:8-11 受苦的教會};
+
+  % 3. PERGAMUM (Rev 2:12-17) - Compromising church
+  \fill[ScriptureGold] (5.5,8) circle (0.22);
+  \draw[ScriptureGold,line width=1.5pt] (5.5,8) circle (0.35);
+  \node[font=\normalsize\bfseries,left,color=ScriptureGold] at (5,8.2) {3. PERGAMUM};
+  \node[font=\small,left,color=TextGray] at (5,7.7) {別迦摩};
+  \node[font=\tiny,left,color=LightGray] at (5,7.3) {Rev 2:12-17 妥協的教會};
+
+  % 4. THYATIRA (Rev 2:18-29) - Corrupt church
+  \fill[ResurrectionGold] (7,7) circle (0.22);
+  \draw[ResurrectionGold,line width=1.5pt] (7,7) circle (0.35);
+  \node[font=\normalsize\bfseries,right,color=ResurrectionGold] at (7.5,7.2) {4. THYATIRA};
+  \node[font=\small,right,color=TextGray] at (7.5,6.7) {推雅推喇};
+  \node[font=\tiny,right,color=LightGray] at (7.5,6.3) {Rev 2:18-29 容讓罪惡};
+
+  % 5. SARDIS (Rev 3:1-6) - Dead church
+  \fill[LightGray] (8,5.5) circle (0.22);
+  \draw[TextGray,line width=1.5pt] (8,5.5) circle (0.35);
+  \node[font=\normalsize\bfseries,right,color=TextGray] at (8.5,5.7) {5. SARDIS};
+  \node[font=\small,right,color=TextGray] at (8.5,5.2) {撒狄};
+  \node[font=\tiny,right,color=LightGray] at (8.5,4.8) {Rev 3:1-6 死的教會};
+
+  % 6. PHILADELPHIA (Rev 3:7-13) - Faithful church
+  \fill[green!60!black] (9,4) circle (0.22);
+  \draw[green!60!black,line width=1.5pt] (9,4) circle (0.35);
+  \node[font=\normalsize\bfseries,right,color=green!60!black] at (9.5,4.2) {6. PHILADELPHIA};
+  \node[font=\small,right,color=TextGray] at (9.5,3.7) {非拉鐵非};
+  \node[font=\tiny,right,color=LightGray] at (9.5,3.3) {Rev 3:7-13 忠心的教會};
+
+  % 7. LAODICEA (Rev 3:14-22) - Lukewarm church
+  \fill[orange!70!red] (10.5,3) circle (0.22);
+  \draw[orange!70!red,line width=1.5pt] (10.5,3) circle (0.35);
+  \node[font=\normalsize\bfseries,right,color=orange!70!red] at (11,3.2) {7. LAODICEA};
+  \node[font=\small,right,color=TextGray] at (11,2.7) {老底嘉};
+  \node[font=\tiny,right,color=LightGray] at (11,2.3) {Rev 3:14-22 不冷不熱};
+
+  % ========== CIRCUIT PATH ==========
+  \draw[->,line width=2pt,color=ChapterPurple!70] (5,3.5) -- (4.5,5);
+  \draw[->,line width=2pt,color=ChapterPurple!70] (4.7,5.9) -- (5.3,7.5);
+  \draw[->,line width=2pt,color=ChapterPurple!70] (5.9,7.8) -- (6.6,7.2);
+  \draw[->,line width=2pt,color=ChapterPurple!70] (7.2,6.6) -- (7.8,5.9);
+  \draw[->,line width=2pt,color=ChapterPurple!70] (8.2,5.1) -- (8.8,4.4);
+  \draw[->,line width=2pt,color=ChapterPurple!70] (9.3,3.7) -- (10.1,3.2);
+
+  % Patmos (where John wrote)
+  \fill[ChapterPurple] (2,3) circle (0.15);
+  \node[font=\scriptsize\bfseries,below,color=ChapterPurple] at (2,2.7) {Patmos};
+  \node[font=\tiny,below,color=TextGray] at (2,2.3) {拔摩島};
+  \node[font=\tiny,below,color=LightGray] at (2,1.9) {John exiled};
+  \draw[->,line width=1.5pt,dashed,color=ChapterPurple] (2.5,3) -- (4.5,3);
+
+  % ========== LEGEND ==========
+  \fill[ScriptureBg,rounded corners=5pt] (0.2,9.5) rectangle (3.5,11.8);
+  \draw[ScriptureGold,line width=1pt,rounded corners=5pt] (0.2,9.5) rectangle (3.5,11.8);
+  \node[font=\small\bfseries,color=ChapterPurple] at (1.85,11.5) {Seven Churches};
+  \node[font=\small,color=ChapterPurple] at (1.85,11.1) {啟示錄七教會};
+  \node[font=\tiny,color=TextGray] at (1.85,10.7) {Revelation 2-3};
+  \node[font=\tiny,color=LightGray] at (1.85,10.3) {AD 95};
+  \draw[->,line width=1.5pt,color=ChapterPurple!70] (0.5,9.9) -- (1.3,9.9);
+  \node[font=\tiny,right,color=TextGray] at (1.4,9.9) {Circuit path};
+
+  % ========== COMPASS ==========
+  \draw[->,very thick,color=ChapterPurple] (13,11) -- (13,11.7);
+  \node[font=\normalsize\bfseries,color=ChapterPurple] at (13,11.9) {N};
+
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% ORNAMENT DIVIDER
+%% ============================================
+\newcommand{\ornamentdiv}{%
+\begin{center}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=1pt] (-2,0) -- (-0.3,0);
+  \node[color=ScriptureGold] at (0,0) {\ensuremath{\dagger}};
+  \draw[ScriptureGold, line width=1pt] (0.3,0) -- (2,0);
+\end{tikzpicture}
+\end{center}
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterPurple,
+  urlcolor=ScriptureGold,
+  bookmarksnumbered=true,
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={哥林多前書逐章研讀 · 1 Corinthians Deep Study},
+  pdfkeywords={哥林多前書, 1 Corinthians, 聖經研讀, Bible Study},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\setlength{\headheight}{34pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING
+%% ============================================
+% Number chapters only: no 8.1-style section numbers in the body or running heads
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
+\makeatletter
+% Running head carries the title only: this volume's chapter titles already
+% begin with 第N章, so prefixing the counter would print it twice.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterPurple} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \markboth{#1}{}%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterPurple} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterPurple}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{SpiritBlue}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% LINE BREAKING SETTINGS
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Cover treatment follows the series benchmark: restrained midnight blue,
+% ivory type, muted blue-gray support text, and a single gold accent.
+\definecolor{CorCoverDark}{RGB}{7,18,32}
+\definecolor{CorCoverBlue}{RGB}{20,47,65}
+\definecolor{CorCoverGold}{RGB}{216,183,109}
+\definecolor{CorCoverCream}{RGB}{249,246,236}
+\definecolor{CorCoverMuted}{RGB}{191,206,211}
+\begingroup
+\colorlet{ScriptureBg}{CorCoverDark}
+\colorlet{ChapterPurple}{CorCoverCream}
+\colorlet{ScriptureGold}{CorCoverGold}
+\colorlet{TextGray}{CorCoverMuted}
+\colorlet{LightGray}{CorCoverMuted}
+\colorlet{JesusRed}{CorCoverGold}
+
+%% ============================================
+%% COVER ART PAGE — the wheat sheaf (麥穗初熟的果子), the sown
+%% seed that dies and is raised a new and glorious body (15:20,
+%% 15:36-38). Full-bleed, gold-bordered, matching the
+%% appendix/back-cover palette.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \shade[top color=CorCoverDark,bottom color=CorCoverBlue] (current page.south west) rectangle (current page.north east);
+  \draw[CorCoverGold, line width=1pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[CorCoverGold, line width=0.3pt, opacity=0.7]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[CorCoverGold] ([xshift=0.32in,yshift=0.32in]current page.\cnr) circle (2.4pt);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\upshape\color{ChapterPurple} Three Books Deep Reading \textbullet\ First Corinthians}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 哥林多前書深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} The Climax of the Letter \textperiodcentered\ 一粒麥子落在地裏死了，卻結出許多子粒}
+
+\vspace{0.30cm}
+
+% ===== WHEAT SHEAF WITH HALO (哥林多前書的活物記號：初熟的果子) =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Halo — radiating glory rays (firstfruits raised into glory, 15:20)
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.08] (0,0.3) circle (2.0);
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.14] (0,0.3) circle (1.7);
+  \draw[ScriptureGold, line width=0.4pt, opacity=0.20] (0,0.3) circle (1.4);
+
+  % Stalks (莖稈) rising from the bound sheaf
+  \draw[ChapterPurple, line width=2pt] (-0.42,-0.85) .. controls (-0.5,-0.2) and (-0.32,0.35) .. (-0.28,0.85);
+  \draw[ChapterPurple, line width=2pt] (0,-0.85) .. controls (0.02,-0.1) and (-0.02,0.45) .. (0,1.0);
+  \draw[ChapterPurple, line width=2pt] (0.42,-0.85) .. controls (0.5,-0.2) and (0.32,0.35) .. (0.28,0.85);
+
+  % Binding band (捆綁——一粒麥子落在地裏死了) at the base of the sheaf
+  \draw[ScriptureGold, line width=3pt] (-0.55,-0.7) -- (0.55,-0.7);
+  \draw[ScriptureGold, line width=1.2pt] (-0.55,-0.6) -- (0.55,-0.85);
+
+  % Ears of grain (麥穗) — three iconographic heads, simple bezier fills
+  \fill[ScriptureGold] (-0.28,0.85) .. controls (-0.55,1.15) and (-0.4,1.55) .. (-0.28,1.75)
+                       .. controls (-0.16,1.55) and (-0.02,1.15) .. (-0.28,0.85);
+  \fill[ChapterPurple] (0,1.0) .. controls (-0.28,1.35) and (-0.12,1.85) .. (0,2.1)
+                       .. controls (0.12,1.85) and (0.28,1.35) .. (0,1.0);
+  \fill[ScriptureGold] (0.28,0.85) .. controls (0.02,1.15) and (0.16,1.55) .. (0.28,1.75)
+                       .. controls (0.4,1.55) and (0.55,1.15) .. (0.28,0.85);
+
+  % Awns (麥芒) — fine radiating lines from each head
+  \foreach \bx/\by in {-0.28/1.3, 0/1.5, 0.28/1.3} {
+    \draw[ChapterPurple, line width=0.6pt] (\bx,\by) -- (\bx-0.18,\by+0.35);
+    \draw[ChapterPurple, line width=0.6pt] (\bx,\by) -- (\bx+0.18,\by+0.35);
+    \draw[ChapterPurple, line width=0.6pt] (\bx,\by) -- (\bx,\by+0.42);
+  }
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterPurple} 得勝的盼望}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\upshape\color{TextGray} The Hope That Conquers}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\color{CorCoverCream} 哥林多前書研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of First Corinthians}
+
+\vspace{0.24cm}
+{\footnotesize\upshape\color{CorCoverMuted} Consolidated Edition 2026\quad CUV 1919\;|\;NASB 1995}\\[0.12cm]
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterPurple} ἀνάστασις}\quad
+{\footnotesize\upshape\color{TextGray} “Resurrection”}\quad
+{\footnotesize\bfseries\color{JesusRed} 復活}
+
+\vfill
+
+  \fcolorbox{CorCoverGold}{CorCoverBlue}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{JesusRed}
+「感謝神，使我們藉着我們的主耶穌基督得勝！」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+“But thanks be to God, who gives us the victory through our Lord Jesus Christ.”}\\[0.10em]
+{\scriptsize\color{ChapterPurple} 哥林多前書 15:57 \textperiodcentered\ 1 Corinthians 15:57}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+\endgroup
+
+%% ============================================
+%% FRONTISPIECE — "全書一句話" spread built on the letter's
+%% own resolution in chapter 15: not rules first, but resurrection
+%% first — the single root beneath all sixteen chapters' problems.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterPurple} 全書一句話 \textperiodcentered\ The Whole Book in One Sentence}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{TextGray}
+\textbf{\color{JesusRed}基督若沒有復活}，你們的信便是徒然，你們仍在罪裏……\\
+但基督已經從死人中復活，成為睡了之人\textbf{\color{JesusRed}初熟的果子}。\\[0.5em]
+\footnotesize\itshape
+And if Christ has not been raised, your faith is worthless; you are still in your sins\ldots\\
+But now Christ has been raised from the dead, the \textbf{\color{JesusRed}first fruits} of those who are asleep.\\[0.4em]
+\small\color{ChapterPurple} 哥林多前書 15:17, 20 \textperiodcentered\ 1 Corinthians 15:17, 20
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 十字架與復活是閱讀主線；各章問題仍須按上下文理解。\\
+\textit{Read through the cross and resurrection, attending to each chapter's context.}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{4.0cm}p{2.6cm}p{4.2cm}@{}}
+\toprule
+\textbf{問題 Problem} & \textbf{閱讀主線 Lens} & \textbf{解答 The Answer} \\
+\midrule
+分裂、淫亂、告狀、恩賜驕傲 \newline {\scriptsize\itshape division, immorality, lawsuits, pride in gifts} & 復活的盼望 \newline {\scriptsize\itshape resurrection hope} & 十字架的道理，復活的確據 \newline {\scriptsize\itshape the word of the cross, the certainty of resurrection} \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterPurple} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+每一章的問題都不一樣，但保羅每次都把讀者帶回同一個地方——\\
+十字架、復活、基督是我們的一切。\\
+讀這封信，不要只停在「保羅在糾正什麼」，\\
+要問：這個問題的根，是不是因為忘記了復活的盼望？\\[0.5em]
+\textit{\footnotesize
+Each chapter's problem looks different, but Paul keeps leading the reader back to the same place —\\
+the cross, the resurrection, Christ as our everything.\\
+Don't just ask what Paul is correcting;\\
+ask whether the root is a forgotten hope of resurrection.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Half title page
+\begin{center}
+\vspace*{2in}
+{\fontsize{18}{22}\selectfont\upshape\color{SpiritBlue} The Study of}\\[0.2cm]
+{\fontsize{42}{48}\selectfont\bfseries\color{ChapterPurple} 哥林多前書}\\[0.3cm]
+{\fontsize{18}{22}\selectfont\upshape\color{SpiritBlue} First Corinthians}\\[0.5cm]
+{\Large\itshape\color{LightGray} — To A True Understanding and Glorious Freedom}
+\vfill
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+% Decorative line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterPurple} 哥林多前書}\\[0.2cm]
+{\large\itshape\color{LightGray} First Corinthians}
+
+\vspace{0.6cm}
+
+% Subtitle
+{\fontsize{18}{24}\selectfont\bfseries 聖靈的五重工作}\\[0.15cm]
+{\normalsize The Five-Fold Work of the Holy Spirit}
+
+\vspace{0.5cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{ChapterPurple}
+愛是永不止息。\\[0.15em]
+\footnotesize Love never fails. — 1 Corinthians 13:8 (NASB)
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Holy Spirit Five-Fold Work Diagram
+\begin{tikzpicture}[scale=0.65]
+  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,4) {聖靈的五重工作 The Spirit's Five-Fold Work};
+
+  % Central Spirit - dove image in circle
+  \node[draw=SpiritBlue,fill=SpiritBlue,circle,minimum size=1.8cm,line width=2pt,
+        path picture={\node at (path picture bounding box.center) {
+          \includegraphics[width=1.5cm]{assets/images/dove.png}
+        };}] (center) at (0,0) {};
+
+  % Five aspects arranged in a circle
+  \foreach \angle/\txt/\ch/\ref in {
+    90/Wisdom/智慧/Ch 1-4,
+    162/Holiness/聖潔/Ch 5-7,
+    234/Freedom/自由/Ch 8-10,
+    306/Gifts/恩賜/Ch 11-14,
+    18/Hope/盼望/Ch 15-16
+  } {
+    \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,minimum width=1.6cm,
+          font=\tiny,align=center] at (\angle:2.8) {\txt\\\color{LightGray}\ch\\\color{ScriptureGold}\ref};
+    \draw[SpiritBlue,line width=0.8pt,->] (center) -- (\angle:1.8);
+  }
+\end{tikzpicture}
+
+\vspace{0.3cm}
+
+% Resurrection theme
+\fcolorbox{ResurrectionGold}{ScriptureBg}{%
+\begin{minipage}{3.5in}
+\centering
+\vspace{0.2cm}
+\small\color{ChapterPurple}
+\textbf{閱讀主線}：十字架與復活的盼望\\
+{\footnotesize 照亮教會各樣問題的處境}\\[0.1em]
+{\tiny Reading lens: the cross and resurrection illuminate the church}
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vfill
+
+% Core teaching
+{\normalsize\color{ScriptureGold}\bfseries 智慧 · 聖潔 · 自由 · 恩賜 · 盼望}\\[0.1cm]
+{\footnotesize\color{LightGray} Wisdom · Holiness · Freedom · Gifts · Hope}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Structure page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterPurple} 哥林多前書結構}\\[0.1cm]
+{\normalsize Structure of 1 Corinthians}
+
+\vspace{0.5cm}
+
+% Book structure diagram - with proper spacing
+\begin{tikzpicture}[scale=0.8]
+  % Title - above the roof
+  \node[font=\normalsize\bfseries,color=ChapterPurple] at (5,7.2) {16 Chapters · 5 Themes · 1 Foundation};
+
+  % Foundation bar
+  \fill[ResurrectionGold!30] (0,-1) rectangle (10,0);
+  \draw[ResurrectionGold,line width=2pt] (0,-1) rectangle (10,0);
+  \node[font=\normalsize\bfseries,color=ChapterPurple] at (5,-0.5) {RESURRECTION 復活 (Ch 15)};
+
+  % Five pillars - drawn individually to avoid parsing issues
+  % Wisdom (Ch 1-4)
+  \fill[ChapterPurple!20] (0.2,0) rectangle (1.8,4.5);
+  \draw[ChapterPurple,line width=1.5pt] (0.2,0) rectangle (1.8,4.5);
+  \node[font=\scriptsize\bfseries,color=ChapterPurple] at (1,4.1) {Wisdom};
+  \node[font=\tiny,color=TextGray] at (1,3.6) {1-4};
+
+  % Holiness (Ch 5-7)
+  \fill[SpiritBlue!20] (2.2,0) rectangle (3.8,4);
+  \draw[SpiritBlue,line width=1.5pt] (2.2,0) rectangle (3.8,4);
+  \node[font=\scriptsize\bfseries,color=SpiritBlue] at (3,3.6) {Holiness};
+  \node[font=\tiny,color=TextGray] at (3,3.1) {5-7};
+
+  % Freedom (Ch 8-10)
+  \fill[ChapterPurple!20] (4.2,0) rectangle (5.8,4.5);
+  \draw[ChapterPurple,line width=1.5pt] (4.2,0) rectangle (5.8,4.5);
+  \node[font=\scriptsize\bfseries,color=ChapterPurple] at (5,4.1) {Freedom};
+  \node[font=\tiny,color=TextGray] at (5,3.6) {8-10};
+
+  % Gifts (Ch 11-14)
+  \fill[SpiritBlue!20] (6.2,0) rectangle (7.8,4);
+  \draw[SpiritBlue,line width=1.5pt] (6.2,0) rectangle (7.8,4);
+  \node[font=\scriptsize\bfseries,color=SpiritBlue] at (7,3.6) {Gifts};
+  \node[font=\tiny,color=TextGray] at (7,3.1) {11-14};
+
+  % Hope (Ch 15-16)
+  \fill[ResurrectionGold!20] (8.2,0) rectangle (9.8,3.5);
+  \draw[ResurrectionGold,line width=1.5pt] (8.2,0) rectangle (9.8,3.5);
+  \node[font=\scriptsize\bfseries,color=ResurrectionGold] at (9,3.1) {Hope};
+  \node[font=\tiny,color=TextGray] at (9,2.6) {15-16};
+
+  % Roof (Love) - peak at y=6.5 to clear title
+  \fill[ScriptureGold!30] (0,4.8) -- (5,6.5) -- (10,4.8) -- cycle;
+  \draw[ScriptureGold,line width=2pt] (0,4.8) -- (5,6.5) -- (10,4.8) -- cycle;
+  \node[font=\normalsize\bfseries,color=ChapterPurple] at (5,5.5) {LOVE 愛 (Ch 13)};
+
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+% Key themes box - font size 9pt with proper spacing
+\begin{tikzpicture}[scale=0.75]
+  \node[font=\normalsize\bfseries,color=ChapterPurple] at (0,4.5) {哥林多教會的問題 Problems in Corinth};
+
+  % Problem -> Solution pairs - wider horizontal spacing to avoid arrow overlap
+  \foreach \y/\prob/\sol in {
+    3.2/分黨結派 Divisions/在基督裏合一 Unity in Christ,
+    2.0/淫亂罪惡 Immorality/身體是聖殿 Body as Temple,
+    0.8/偶像祭物 Idol Food/愛心的自由 Freedom in Love,
+    -0.4/聚會混亂 Worship Chaos/規矩次序 Order,
+    -1.6/不信復活 No Resurrection/榮耀盼望 Glorious Hope
+  } {
+    \node[draw=ChapterPurple,fill=ScriptureBg,rounded corners,font=\fontsize{9}{11}\selectfont,minimum width=3cm,minimum height=0.6cm] at (-4.0,\y) {\prob};
+    \draw[SpiritBlue,->,line width=1pt] (-1.5,\y) -- (1.1,\y);
+    \node[draw=SpiritBlue,fill=SpiritBg,rounded corners,font=\fontsize{9}{11}\selectfont,minimum width=3cm,minimum height=0.6cm] at (4.0,\y) {\sol};
+  }
+\end{tikzpicture}
+
+\vspace{0.5cm}
+{\footnotesize\color{LightGray} 「基督是我們的智慧、公義、聖潔、救贖。」— 林前 1:30}
+\end{center}
+\cleardoublepage
+
+% Corinth Map page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.2cm}
+{\Large\bfseries\color{ChapterPurple} 古哥林多地圖}\\[0.1cm]
+{\normalsize Map of Ancient Corinth}
+
+\vspace{0.4cm}
+
+\corinthmap
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray}\itshape
+哥林多位於連接希臘南北的地峽上，控制東西兩個港口，\\
+是古代地中海最重要的商業城市之一。}
+
+\vspace{0.2cm}
+
+{\footnotesize\color{TextGray}
+Corinth sat on the isthmus connecting northern and southern Greece,\\
+controlling two ports — one of the ancient world's greatest commercial cities.}
+
+\ornamentdiv
+\end{center}
+\cleardoublepage
+
+% Paul's Missionary Journeys Map page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1cm}
+{\Large\bfseries\color{ChapterPurple} 保羅宣教之旅}\\[0.1cm]
+{\normalsize Paul's Missionary Journeys (Acts 13-21)}
+
+\vspace{0.3cm}
+
+\pauljourneysmap
+
+\vspace{0.2cm}
+
+{\footnotesize\color{TextGray}
+\begin{tabular}{ll}
+\textbf{第一次 1st Journey} & AD 46-48: 居比路、彼西底、呂高尼 \\
+\textbf{第二次 2nd Journey} & AD 49-52: 馬其頓、雅典、\textbf{哥林多建立} \\
+\textbf{第三次 3rd Journey} & AD 53-57: 以弗所、馬其頓、\textbf{書信寫於此時} \\
+\end{tabular}
+}
+
+\vspace{0.1cm}
+
+{\footnotesize\color{LightGray}\itshape
+保羅在第二次宣教旅程中建立哥林多教會，第三次旅程中從以弗所寫信給他們。}
+
+\ornamentdiv
+\end{center}
+\cleardoublepage
+
+% Seven Churches of Revelation Map page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.1cm}
+{\Large\bfseries\color{ChapterPurple} 啟示錄七教會}\\[0.1cm]
+{\normalsize The Seven Churches of Revelation (Rev 2-3)}
+
+\vspace{0.3cm}
+
+\sevenchurchesmap
+
+\vspace{0.2cm}
+
+{\footnotesize\color{TextGray}
+約翰在拔摩島領受異象，寫信給小亞細亞七教會：\\
+以弗所、士每拿、別迦摩、推雅推喇、撒狄、非拉鐵非、老底嘉}
+
+\vspace{0.1cm}
+
+{\footnotesize\itshape
+\jesus{「聖靈向眾教會所說的話，凡有耳的，就應當聽！」}{\color{LightGray}— 啟 2:7}}
+
+\ornamentdiv
+\end{center}
+\cleardoublepage
+
+% Historical Background page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterPurple} 歷史背景}\\[0.1cm]
+{\normalsize Historical Background}
+\end{center}
+
+\vspace{0.4cm}
+
+\noindent\textbf{\color{ChapterPurple}古哥林多城 Ancient Corinth}
+
+\vspace{0.2cm}
+
+\begin{small}
+\noindent 哥林多是希臘最富裕的城市之一，位於連接愛琴海與亞得里亞海的地峽上。公元前146年被羅馬摧毀後，於公元前44年由凱撒大帝重建為羅馬殖民地。
+
+\vspace{0.3cm}
+
+\noindent\textbf{城市特點 City Characteristics:}
+\begin{itemize}
+  \item \textbf{商業中心} — 控制東西兩個港口，是地中海貿易樞紐
+  \item \textbf{文化多元} — 羅馬人、希臘人、猶太人和各地商人混居
+  \item \textbf{道德敗壞} — 「哥林多化」成為放縱淫亂的代名詞
+  \item \textbf{宗教混雜} — 亞弗洛狄忒神廟有上千名廟妓
+\end{itemize}
+
+\vspace{0.3cm}
+
+\noindent\textbf{保羅與哥林多 Paul and Corinth:}
+\begin{itemize}
+  \item 保羅第二次宣教旅程中建立哥林多教會（約主後50-52年）
+  \item 與亞居拉、百基拉同工，以織帳篷維生
+  \item 在哥林多住了一年半，建立了堅固的教會
+  \item 約主後55年從以弗所寫此書信，回應教會的問題
+\end{itemize}
+
+\vspace{0.3cm}
+
+\noindent\textbf{寫作背景 Occasion:}\\
+教會面臨分黨、淫亂、訴訟、婚姻、祭偶像之物、聚會秩序、屬靈恩賜等問題。保羅以「十字架的智慧」和「復活的盼望」回應這些問題。
+\end{small}
+
+\vfill
+\ornamentdiv
+\cleardoublepage
+
+% Devotion page - How to Use This Book
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterPurple} 如何使用本書}\\[0.1cm]
+{\normalsize How to Use This Study}
+\end{center}
+
+\vspace{0.4cm}
+
+\begin{small}
+\noindent\textbf{\color{SpiritBlue}每日讀經節奏 Daily Rhythm}
+
+\vspace{0.2cm}
+
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\vspace{0.2cm}
+\textbf{早晨 Morning (30-45分鐘)}
+\begin{enumerate}
+  \item 禱告預備心 — 求聖靈開啟眼睛
+  \item 朗讀經文 — 中英對照，慢讀默想
+  \item 研讀註釋 — 理解歷史、文法、領受
+  \item 回應禱告 — 將所學化為禱告
+\end{enumerate}
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+\noindent\textbf{\color{SpiritBlue}研經提示 Study Tips}
+
+\vspace{0.2cm}
+
+\begin{itemize}
+  \item \textbf{注意上下文} — 每章都與「復活盼望」相連
+  \item \textbf{留意結構} — 五大主題：智慧、聖潔、自由、恩賜、盼望
+  \item \textbf{思考應用} — 哥林多的問題如何反映在今日教會？
+  \item \textbf{背誦金句} — 每章選一節背誦，內化真理
+\end{itemize}
+
+\vspace{0.4cm}
+
+\noindent\textbf{\color{SpiritBlue}閱讀主線 Key Insight}
+
+\vspace{0.2cm}
+
+\fcolorbox{ResurrectionGold}{ScriptureBg}{%
+\begin{minipage}{4.5in}
+\centering
+\vspace{0.2cm}
+\itshape\color{ChapterPurple}
+復活的盼望照亮教會的生活；\\
+各段問題仍須按上下文理解。\\[0.1em]
+\normalfont\footnotesize
+Resurrection hope illuminates the letter; each passage retains its context.
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{TextGray}
+當我們真正相信復活，就不會追求今生的榮耀（結黨）、輕看身體（淫亂）、\\
+濫用自由（傷害弟兄）、驕傲恩賜（高舉自己）。復活的盼望改變一切。}
+\end{small}
+
+\vfill
+\ornamentdiv
+\cleardoublepage
+
+% Hymn Meditation page - Glorious Freedom (with background image)
+\thispagestyle{empty}
+% Background image using tikz
+\begin{tikzpicture}[remember picture,overlay]
+  \node[opacity=0.15] at (current page.center) {
+    \includegraphics[width=\paperwidth,height=\paperheight,keepaspectratio]{assets/images/gloriousFreedom.jpg}
+  };
+\end{tikzpicture}
+\begin{center}
+\vspace*{0.5cm}
+{\Large\color{ScriptureGold}\ensuremath{\dagger}}
+
+\vspace{0.3cm}
+
+{\Large\bfseries\color{ChapterPurple} 詩歌默想}\\[0.1cm]
+{\normalsize Hymn Meditation}
+
+\vspace{0.5cm}
+
+{\fontsize{20}{24}\selectfont\bfseries\color{SpiritBlue} Glorious Freedom}\\[0.2cm]
+{\Large\color{ChapterPurple} 榮耀的釋放}
+
+\vspace{0.3cm}
+
+{\small\color{LightGray}\itshape
+Words: Haldor Lillenas · Music: Alfred Judson (1917)}
+
+\vspace{0.5cm}
+
+\fcolorbox{ScriptureGold}{ScriptureBg!90}{%
+\begin{minipage}{4.2in}
+\vspace{0.3cm}
+\centering
+\itshape\color{ChapterPurple}
+\small
+Once I was bound by sin's galling fetters,\\
+Chained like a slave I struggled in vain;\\
+But I received a glorious freedom,\\
+When Jesus broke my fetters in twain.\\[0.3em]
+
+\textbf{Glorious freedom, wonderful freedom,}\\
+\textbf{No more in chains of sin I repine!}\\
+\textbf{Jesus the glorious Emancipator,}\\
+\textbf{Now and forever He shall be mine.}
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.3cm}
+
+\fcolorbox{ChapterPurple}{white!95}{%
+\begin{minipage}{4.2in}
+\vspace{0.3cm}
+\centering
+\color{ChapterPurple}
+\small
+從前我被罪惡捆綁，\\
+如囚犯掙扎徒然；\\
+如今我得榮耀釋放，\\
+主耶穌斷我鎖鏈。\\[0.3em]
+
+\textbf{榮耀釋放，奇妙釋放！}\\
+\textbf{罪惡鎖鏈已全斷開！}\\
+\textbf{耶穌我主，榮耀救主！}\\
+\textbf{永遠永遠屬於我！}
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.3cm}
+
+{\small\color{TextGray}
+Freedom from all the carnal affections,\\
+Freedom from envy, hatred and strife;\\
+Freedom from vain and worldly ambitions,\\
+Freedom from all that saddened my life.\\[0.2em]
+\color{LightGray}\itshape
+脫離一切肉體私情，脫離嫉恨與紛爭；\\
+脫離虛空世上野心，脫離一切煩惱事。}
+
+\vspace{0.4cm}
+
+\fcolorbox{JesusRed}{white!95}{%
+\begin{minipage}{4.2in}
+\vspace{0.2cm}
+\centering
+\small\jesus{「你們必曉得真理，真理必叫你們得以自由。」}\\
+\jesus{"You will know the truth, and the truth will set you free."}\\[0.1em]
+\normalfont\color{LightGray}
+— 約翰福音 John 8:32
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray}\itshape
+這首詩歌完美詮釋了哥林多前書的核心信息：\\
+在基督裏我們得著真正的自由——\\
+不是放縱的自由，而是愛中的自由。}
+
+\vspace{0.3cm}
+
+\ornamentdiv
+
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{哥林多前書研讀 / 1 Corinthians Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV, 1919)\\
+English: New American Standard Bible (NASB 1995)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\
+\textbullet\ G. Campbell Morgan - The Corinthian Letters of Paul\\
+\textbullet\ Gordon Fee - 1 Corinthians (NICNT)\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\renewcommand{\contentsname}{目錄 Contents}
+{\color{ChapterPurple}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% BACK MATTER
+%% --------------------------------------------
+\backmatter
+
+%% ============================================
+%% APPENDIX A: SCRIPTURE INDEX
+%% ============================================
+\chapter*{Appendix A: Scripture Index 經文索引}
+\addcontentsline{toc}{chapter}{Appendix A: Scripture Index 經文索引}
+
+\section*{舊約 Old Testament}
+
+\begin{small}
+\begin{tabular}{@{}p{3.5cm}p{3in}@{}}
+\textbf{創世記 Genesis} & 創造、亞當、墮落 (Ch 15) \\
+\textbf{出埃及記 Exodus} & 逾越節羔羊 (5:7)、曠野鑑戒 (10:1-13) \\
+\textbf{詩篇 Psalms} & 基督的得勝 (15:25-27) \\
+\textbf{以賽亞書 Isaiah} & 十字架的智慧 (1:19-21)、復活得勝 (15:54-55) \\
+\textbf{何西阿書 Hosea} & 死的毒鉤 (15:55) \\
+\end{tabular}
+\end{small}
+
+\section*{新約 New Testament}
+
+\begin{small}
+\begin{tabular}{@{}p{3.5cm}p{3in}@{}}
+\textbf{馬太福音 Matthew} & 天國智慧、主的晚餐 \\
+\textbf{約翰福音 John} & 聖靈的工作、復活與生命 \\
+\textbf{使徒行傳 Acts} & 保羅在哥林多 (18章) \\
+\textbf{羅馬書 Romans} & 因信稱義、恩賜運用 \\
+\textbf{加拉太書 Galatians} & 聖靈的果子 \\
+\textbf{以弗所書 Ephesians} & 教會合一、身體比喻 \\
+\end{tabular}
+\end{small}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX B: KEY THEMES INDEX
+%% ============================================
+\chapter*{Appendix B: Key Themes 主題索引}
+\addcontentsline{toc}{chapter}{Appendix B: Key Themes 主題索引}
+
+\section*{聖靈的五重工作 The Spirit's Five-Fold Work}
+
+\begin{small}
+\begin{tabular}{@{}p{2.5cm}p{1.5cm}p{2.5in}@{}}
+\textbf{智慧 Wisdom} & 1-4章 & 十字架的智慧 vs 世界的智慧 \\
+\textbf{聖潔 Holiness} & 5-7章 & 身體是聖靈的殿 \\
+\textbf{自由 Freedom} & 8-10章 & 愛中的自我約束 \\
+\textbf{恩賜 Gifts} & 11-14章 & 合一的身體，愛的道路 \\
+\textbf{盼望 Hope} & 15-16章 & 復活得勝，榮耀再來 \\
+\end{tabular}
+\end{small}
+
+\section*{核心領受主題 Key Themes of Reception}
+
+\begin{small}
+\begin{tabular}{@{}p{3.5cm}p{3in}@{}}
+十字架的道理 & 1:18-2:16 — 神的智慧與能力 \\
+身體是聖殿 & 6:19-20 — 聖靈內住的殿 \\
+愛的真諦 & 13:1-13 — 最大的恩賜 \\
+復活的盼望 & 15:1-58 — 信仰與勞苦的盼望 \\
+合一與多樣 & 12:12-27 — 一個身體，多個肢體 \\
+\end{tabular}
+\end{small}
+
+\section*{希臘文關鍵詞 Key Greek Terms}
+
+\begin{small}
+\begin{tabular}{@{}p{3cm}p{3in}@{}}
+\textbf{sophia} (σοφία) & 智慧 — 十字架的智慧 \\
+\textbf{agape} (ἀγάπη) & 愛 — 永不止息的愛 \\
+\textbf{pneumatikos} & 屬靈的 — 聖靈引導的生命 \\
+\textbf{soma} (σῶμα) & 身體 — 聖靈的殿/基督的身體 \\
+\textbf{charisma} (χάρισμα) & 恩賜 — 聖靈的禮物 \\
+\textbf{anastasis} & 復活 — 榮耀的盼望 \\
+\end{tabular}
+\end{small}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX C: REFERENCES
+%% ============================================
+\chapter*{Appendix C: References 參考資料}
+\addcontentsline{toc}{chapter}{Appendix C: References 參考資料}
+
+\section*{聖經版本 Bible Versions}
+
+\begin{small}
+\noindent\textbf{中文}\\
+\textbullet\ 和合本 (CUV, 1919) — 主要版本\\
+\textbullet\ 新譯本 (CNV)\\
+\textbullet\ 呂振中譯本
+
+\vspace{0.3cm}
+
+\noindent\textbf{English}\\
+\textbullet\ New American Standard Bible (NASB 1995) — Primary\\
+\textbullet\ English Standard Version (ESV)\\
+\textbullet\ New International Version (NIV)
+\end{small}
+
+\section*{解經資源 Commentary Resources}
+
+\begin{small}
+\textbullet\ \textbf{CCIC 週四查經班讀經分享} — Thursday Bible Class\\
+\textbullet\ \textbf{John MacArthur} — \textit{1 Corinthians: MacArthur NT Commentary}\\
+\textbullet\ \textbf{G. Campbell Morgan} — \textit{The Corinthian Letters of Paul}\\
+\textbullet\ \textbf{Gordon D. Fee} — \textit{The First Epistle to the Corinthians} (NICNT)\\
+\textbullet\ \textbf{Anthony Thiselton} — \textit{The First Epistle to the Corinthians} (NIGTC)\\
+\textbullet\ \textbf{David E. Garland} — \textit{1 Corinthians} (BECNT)
+\end{small}
+
+\section*{線上資源 Online Resources}
+
+\begin{small}
+\textbullet\ \textbf{gty.org} — Grace To You (John MacArthur)\\
+\textbullet\ \textbf{blueletterbible.org} — 原文研經工具\\
+\textbullet\ \textbf{biblegateway.com} — 多版本對照\\
+\textbullet\ \textbf{biblehub.com} — 原文解析
+\end{small}
+
+\pagebreak
+%% ============================================
+%% APPENDIX D: GREEK WORD GLOSSARY
+%% ============================================
+\chapter*{Appendix D: Greek Word Glossary 希臘文原文詞彙表}
+\addcontentsline{toc}{chapter}{Appendix D: Greek Word Glossary 希臘文原文詞彙表}
+
+\begin{small}
+以下彙整全書十六章中出現的希臘文關鍵詞，依主題分組，並合併同一詞根在不同章節重複出現時的經文出處。
+\textit{Key Greek terms occurring across all sixteen chapters, grouped thematically; repeated headwords are merged into a single entry with all their verse references combined.}
+\end{small}
+
+\section*{智慧與屬靈 Wisdom \& Spirituality (1–4章)}
+
+\begin{small}
+\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
+\textbf{κλητός} \textit{(klētos)} & 蒙召的 & 1:1, 2, 24 \\
+\textbf{ἅγιος} \textit{(hagios)} & 聖徒、聖潔的 & 1:2 \\
+\textbf{σχίσμα} \textit{(schisma)} & 分裂、裂痕 & 1:10 \\
+\textbf{σταυρός} \textit{(stauros)} & 十字架 & 1:17, 18 \\
+\textbf{μωρία} \textit{(mōria)} & 愚拙 & 1:18, 21, 23 \\
+\textbf{δύναμις} \textit{(dynamis)} & 能力、大能 & 1:18, 24 \\
+\textbf{σοφία} \textit{(sophia)} & 智慧 & 1:17, 19, 20, 21, 24, 30 \\
+\textbf{μυστήριον} \textit{(mystērion)} & 奧秘、隱藏的事 & 2:1, 7; 15:51 \\
+\textbf{ἀπόδειξις} \textit{(apodeixis)} & 明證、證明 & 2:4 \\
+\textbf{τέλειος} \textit{(teleios)} & 成熟的、完全的 & 2:6; 13:10 \\
+\textbf{ἀποκαλύπτω} \textit{(apokalyptō)} & 揭示、顯明 & 2:10 \\
+\textbf{πνευματικός} \textit{(pneumatikos)} & 屬靈的 & 2:13, 15; 12:1; 15:44, 46 \\
+\textbf{ψυχικός} \textit{(psychikos)} & 屬血氣的、天然的 & 2:14; 15:44, 46 \\
+\textbf{νοῦς} \textit{(nous)} & 心思、意念、悟性 & 2:16; 14:14, 15, 19 \\
+\textbf{σαρκικός} \textit{(sarkikos)} & 屬肉體的 & 3:1, 3 \\
+\textbf{νήπιος} \textit{(nēpios)} & 嬰孩 & 3:1 \\
+\textbf{φυσιόω} \textit{(physioō)} & 自高自大、張狂 & 4:6, 18, 19; 5:2; 8:1; 13:4 \\
+\end{tabular}
+\end{small}
+
+\section*{身體與聖潔 Body \& Holiness (3, 5–7章)}
+
+\begin{small}
+\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
+\textbf{θεμέλιος} \textit{(themelios)} & 根基 & 3:10, 11, 12 \\
+\textbf{ναός} \textit{(naos)} & 殿、聖所 & 3:16, 17; 6:19 \\
+\textbf{φθείρω} \textit{(phtheirō)} & 毀壞、敗壞 & 3:17 \\
+\textbf{πορνεία} \textit{(porneia)} & 淫亂、性不道德 & 5:1; 6:13, 18 \\
+\textbf{πενθέω} \textit{(pentheō)} & 悲哀、哀悼 & 5:2 \\
+\textbf{ζύμη} \textit{(zymē)} & 麵酵 & 5:6, 7, 8 \\
+\textbf{ἄζυμος} \textit{(azymos)} & 無酵的 & 5:7, 8 \\
+\textbf{πάσχα} \textit{(pascha)} & 逾越節 & 5:7 \\
+\textbf{πονηρός} \textit{(ponēros)} & 惡人、邪惡的 & 5:13 \\
+\textbf{ἄδικος} \textit{(adikos)} & 不義的 & 6:1, 9 \\
+\textbf{κρίνω} \textit{(krinō)} & 審判 & 6:2, 3 \\
+\textbf{ἀδικέω} \textit{(adikeō)} & 虧負、欺壓 & 6:7, 8 \\
+\textbf{τιμή} \textit{(timē)} & 價值、重價 & 6:20 \\
+\textbf{δοξάζω} \textit{(doxazō)} & 榮耀 & 6:20 \\
+\textbf{ἅπτω} \textit{(haptō)} & 接近、觸摸 & 7:1 \\
+\textbf{ἀγαμος} \textit{(agamos)} & 未婚的 & 7:8, 11, 32, 34 \\
+\textbf{χωρίζω} \textit{(chōrizō)} & 分開、離開 & 7:10, 11, 15 \\
+\textbf{κλῆσις} \textit{(klēsis)} & 呼召、身分 & 7:20 \\
+\textbf{ἀμέριμνος} \textit{(amerimnos)} & 無所掛慮 & 7:32 \\
+\textbf{εὐσχημόνως} \textit{(euschēmonōs)} & 端正地、規規矩矩 & 7:35; 14:40 \\
+\end{tabular}
+\end{small}
+
+\pagebreak
+
+\section*{自由與良心 Freedom \& Conscience (8–10章)}
+
+\begin{small}
+\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
+\textbf{γνῶσις} \textit{(gnōsis)} & 知識 & 8:1, 7, 10, 11 \\
+\textbf{οἰκοδομέω} \textit{(oikodomeō)} & 造就、建造 & 8:1, 10; 14:4, 17, 26 \\
+\textbf{ἀσθενής} \textit{(asthenēs)} & 軟弱的 & 8:7, 9, 10, 11, 12 \\
+\textbf{συνείδησις} \textit{(syneidēsis)} & 良心 & 8:7, 10, 12 \\
+\textbf{πρόσκομμα} \textit{(proskomma)} & 絆腳石 & 8:9 \\
+\textbf{σκανδαλίζω} \textit{(skandalizō)} & 使跌倒 & 8:13 \\
+\textbf{ἐλεύθερος} \textit{(eleutheros)} & 自由的 & 9:1, 19 \\
+\textbf{ἐξουσία} \textit{(exousia)} & 權柄、權利 & 9:4, 5, 6, 12, 18; 11:10 \\
+\textbf{κερδαίνω} \textit{(kerdainō)} & 得著、贏得 & 9:19, 20, 21, 22 \\
+\textbf{βραβεῖον} \textit{(brabeion)} & 獎賞 & 9:24 \\
+\textbf{στέφανος} \textit{(stephanos)} & 冠冕 & 9:25 \\
+\textbf{ἐγκρατεύομαι} \textit{(egkrateuomai)} & 節制、自制 & 9:25 \\
+\textbf{ἀδόκιμος} \textit{(adokimos)} & 被淘汰、不合格 & 9:27 \\
+\textbf{τύπος} \textit{(typos)} & 鑑戒、榜樣 & 10:6, 11 \\
+\textbf{ἐπιθυμητής} \textit{(epithymētēs)} & 貪戀的人 & 10:6 \\
+\textbf{πειράζω} \textit{(peirazō)} & 試探、試驗 & 10:9, 13 \\
+\textbf{εἰδωλολατρεία} \textit{(eidōlolatreia)} & 拜偶像 & 10:14 \\
+\textbf{κοινωνία} \textit{(koinōnia)} & 團契、相交、有份 & 1:9; 10:16, 18, 20 \\
+\textbf{δαιμόνιον} \textit{(daimonion)} & 鬼、邪靈 & 10:20, 21 \\
+\textbf{δόξα} \textit{(doxa)} & 榮耀、榮光 & 10:31; 15:40, 41, 43 \\
+\end{tabular}
+\end{small}
+
+\section*{恩賜與身體 Gifts \& the Body (11–14章)}
+
+\begin{small}
+\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
+\textbf{κεφαλή} \textit{(kephalē)} & 頭 & 11:3, 4, 5, 7, 10 \\
+\textbf{παράδοσις} \textit{(paradosis)} & 傳統 & 11:2 \\
+\textbf{ἀνάμνησις} \textit{(anamnēsis)} & 記念 & 11:24, 25 \\
+\textbf{διαθήκη} \textit{(diathēkē)} & 約 & 11:25 \\
+\textbf{ἀναξίως} \textit{(anaxiōs)} & 不按規矩、不配地 & 11:27 \\
+\textbf{διακρίνω} \textit{(diakrinō)} & 分辨、省察 & 11:29, 31 \\
+\textbf{χάρισμα} \textit{(charisma)} & 恩賜 & 7:7; 12:4, 9, 28, 30, 31 \\
+\textbf{διακονία} \textit{(diakonia)} & 職事、服事 & 12:5 \\
+\textbf{ἐνέργημα} \textit{(energēma)} & 功用、工作 & 12:6 \\
+\textbf{σῶμα} \textit{(sōma)} & 身體 & 12:12-27 \\
+\textbf{μέλος} \textit{(melos)} & 肢體 & 12:12-27 \\
+\textbf{προφητεία} \textit{(prophēteia)} & 先知講道、預言 & 14:1, 6, 22 \\
+\textbf{γλῶσσα} \textit{(glōssa)} & 舌頭、方言 & 14:2, 4, 5 等 \\
+\textbf{σημεῖον} \textit{(sēmeion)} & 記號 & 14:22 \\
+\textbf{τάξις} \textit{(taxis)} & 次序 & 14:40 \\
+\end{tabular}
+\end{small}
+
+\pagebreak
+
+\section*{愛 Love (13章)}
+
+\begin{small}
+\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
+\textbf{ἀγάπη} \textit{(agapē)} & 愛（無條件的愛） & 全章 \\
+\textbf{μακροθυμέω} \textit{(makrothymeō)} & 恆久忍耐 & 13:4 \\
+\textbf{χρηστεύομαι} \textit{(chrēsteuomai)} & 有恩慈 & 13:4 \\
+\textbf{ζηλόω} \textit{(zēloō)} & 嫉妒 & 13:4 \\
+\textbf{περπερεύομαι} \textit{(perpereuomai)} & 自誇 & 13:4 \\
+\textbf{ἀσχημονέω} \textit{(aschēmoneō)} & 做害羞的事 & 13:5 \\
+\end{tabular}
+\end{small}
+
+\section*{復活 Resurrection (15章)}
+
+\begin{small}
+\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
+\textbf{εὐαγγέλιον} \textit{(euangelion)} & 福音 & 15:1 \\
+\textbf{ἀπαρχή} \textit{(aparchē)} & 初熟的果子 & 15:20, 23 \\
+\textbf{ἐγείρω} \textit{(egeirō)} & 復活、被興起 & 全章 \\
+\textbf{φθαρτός} \textit{(phthartos)} & 必朽壞的 & 15:42, 50, 53, 54 \\
+\textbf{ἄφθαρτος} \textit{(aphthartos)} & 不朽壞的 & 15:42, 50, 52, 53, 54 \\
+\end{tabular}
+\end{small}
+
+\section*{其他 Other (3–4, 16章)}
+
+\begin{small}
+\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
+\textbf{διάκονος} \textit{(diakonos)} & 執事、僕人 & 3:5 \\
+\textbf{ὑπηρέτης} \textit{(hypēretēs)} & 執事、助手 & 4:1 \\
+\textbf{οἰκονόμος} \textit{(oikonomos)} & 管家 & 4:1, 2 \\
+\textbf{πιστός} \textit{(pistos)} & 忠心的 & 4:2, 17 \\
+\textbf{περικάθαρμα} \textit{(perikatharma)} & 污穢、渣滓 & 4:13 \\
+\textbf{μιμητής} \textit{(mimētēs)} & 效法者 & 4:16 \\
+\textbf{λογεία} \textit{(logeia)} & 捐款、奉獻 & 16:1, 2 \\
+\textbf{θησαυρίζω} \textit{(thēsaurizō)} & 儲存、積攢 & 16:2 \\
+\textbf{γρηγορέω} \textit{(grēgoreō)} & 警醒 & 16:13 \\
+\textbf{στήκω} \textit{(stēkō)} & 站立得穩 & 16:13 \\
+\textbf{ἀνδρίζομαι} \textit{(andrizomai)} & 作大丈夫 & 16:13 \\
+\textbf{κραταιόω} \textit{(krataioō)} & 剛強 & 16:13 \\
+\textbf{ἀνάθεμα} \textit{(anathema)} & 詛咒、被咒詛的 & 16:22 \\
+\textbf{μαρὰν ἀθά} \textit{(maran atha)} & 主必要來 & 16:22 \\
+\end{tabular}
+\end{small}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX E: READING PLAN
+%% ============================================
+\chapter*{Appendix E: A Reading Plan for 1 Corinthians 哥林多前書讀經計劃}
+\addcontentsline{toc}{chapter}{Appendix E: A Reading Plan for 1 Corinthians 哥林多前書讀經計劃}
+
+\section*{十六日讀經計劃 A Sixteen-Day Plan (一天一章 One Chapter a Day)}
+
+\begin{small}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{@{}p{1.3cm}p{2.3cm}p{3.0in}@{}}
+\toprule
+\textbf{天 Day} & \textbf{經文 Passage} & \textbf{焦點 Focus} \\
+\midrule
+1 & 1:1-31 & 教會的呼召與分裂問題 \textit{The Church's Calling and Division} \\
+2 & 2:1-16 & 十字架的智慧 \textit{The Wisdom of the Cross} \\
+3 & 3:1-23 & 屬靈與屬肉體 \textit{Spiritual vs Carnal} \\
+4 & 4:1-21 & 基督的執事 \textit{Servants of Christ} \\
+5 & 5:1-13 & 教會紀律 \textit{Church Discipline} \\
+6 & 6:1-20 & 聖潔的身體 \textit{The Holy Body} \\
+7 & 7:1-40 & 婚姻與獨身 \textit{Marriage and Singleness} \\
+8 & 8:1-13 & 祭偶像之物與良心 \textit{Food Offered to Idols and Conscience} \\
+9 & 9:1-27 & 使徒的權柄與榜樣 \textit{The Apostle's Rights and Example} \\
+10 & 10:1-33 & 以色列的鑑戒 \textit{Warnings from Israel's History} \\
+11 & 11:1-34 & 敬拜的秩序 \textit{Order in Worship} \\
+12 & 12:1-31 & 屬靈恩賜 \textit{Spiritual Gifts} \\
+13 & 13:1-13 & 愛的真諦 \textit{The Way of Love} \\
+14 & 14:1-40 & 方言與先知講道 \textit{Tongues and Prophecy} \\
+15 & 15:1-58 & 復活的盼望與榮耀身體 \textit{The Hope of Resurrection and the Glorious Body} \\
+16 & 16:1-24 & 結語與問安 \textit{Closing Remarks and Greetings} \\
+\bottomrule
+\end{tabular}
+\end{small}
+
+\vspace{0.4cm}
+
+\section*{四週讀經計劃 A Compressed Four-Week Plan (小組查經適用 For Group Study)}
+
+\begin{small}
+若時間有限，可將十六章壓縮為四週查經，每週四章：\\
+\textit{For those with limited time, the sixteen chapters may be compressed into a four-week group study, four chapters per week:}
+\end{small}
+
+\vspace{0.2cm}
+
+\begin{small}
+\renewcommand{\arraystretch}{1.25}
+\begin{tabular}{@{}p{1.6cm}p{1.6cm}p{3.3in}@{}}
+\toprule
+\textbf{週 Week} & \textbf{經文 Passage} & \textbf{焦點 Focus} \\
+\midrule
+第一週 & 1-4章 & 呼召、智慧、根基、執事 \textit{Calling, wisdom, foundation, stewardship} \\
+第二週 & 5-8章 & 紀律、聖潔、婚姻、良心 \textit{Discipline, holiness, marriage, conscience} \\
+第三週 & 9-12章 & 權柄、鑑戒、秩序、恩賜 \textit{Rights, warning, worship order, gifts} \\
+第四週 & 13-16章 & 愛、方言與講道、復活、問安 \textit{Love, tongues and prophecy, resurrection, greetings} \\
+\bottomrule
+\end{tabular}
+\end{small}
+
+\pagebreak
+
+%% ============================================
+%% APPENDIX F: THE TEN "DO YOU NOT KNOW" QUESTIONS
+%% ============================================
+\chapter*{Appendix F: “Do You Not Know?” --- 1 Corinthians' Signature Rhetorical Question 「你們豈不知道」——哥林多前書的詰問風格}
+\markboth{Appendix F: Do You Not Know? / 你們豈不知道}{}
+\addcontentsline{toc}{chapter}{Appendix F: “Do You Not Know?” --- 1 Corinthians' Signature Rhetorical Question 「你們豈不知道」——哥林多前書的詰問風格}
+
+\begin{small}
+哥林多前書在保羅書信中，以反覆使用「你們豈不知道」（οὐκ οἴδατε, ouk oidate）這句詰問著稱——全卷共出現十次，比新約任何一卷書都多。這不是修辭上的巧合，而是一種一貫的教導策略：保羅不是在傳遞哥林多人所不知道的新知識，而是提醒他們早已領受、卻在生活中忘記了的身分與事實。
+\textit{First Corinthians is distinctive among Paul's letters for its repeated use of the rhetorical question “Do you not know” (οὐκ οἴδατε, ouk oidate) --- occurring ten times, more than any other New Testament book. This is not rhetorical coincidence but a consistent teaching strategy: Paul is not delivering new information the Corinthians lack, but reminding them of an identity and a set of facts they had already received, yet had forgotten to live out of.}
+\end{small}
+
+\vspace{0.3cm}
+
+\begin{small}
+\renewcommand{\arraystretch}{1.4}
+\begin{tabular}{@{}p{1.29cm}p{2.48in}p{2.20in}@{}}
+\toprule
+\textbf{經文} & \textbf{中文} & \textbf{English} \\
+\midrule
+3:16 & 豈不知你們是神的殿，神的靈住在你們裏頭嗎？ & Do you not know that you are a temple of God and \textit{that} the Spirit of God dwells in you? \\
+5:6 & 豈不知一點麵酵能使全團發起來嗎？ & Do you not know that a little leaven leavens the whole lump \textit{of dough?} \\
+6:2 & 豈不知聖徒要審判世界嗎？ & Or do you not know that the saints will judge the world? \\
+6:3 & 豈不知我們要審判天使嗎？ & Do you not know that we will judge angels? \\
+6:9 & 你們豈不知不義的人不能承受神的國嗎？ & Or do you not know that the unrighteous will not inherit the kingdom of God? \\
+6:15 & 豈不知你們的身體是基督的肢體嗎？ & Do you not know that your bodies are members of Christ? \\
+6:16 & 豈不知與娼妓聯合的，就是與她成為一體嗎？ & Or do you not know that the one who joins himself to a prostitute is one body \textit{with her?} \\
+6:19 & 豈不知你們的身體就是聖靈的殿嗎？ & Or do you not know that your body is a temple of the Holy Spirit who is in you? \\
+9:13 & 你們豈不知在殿裏事奉的吃殿裏的食物嗎？ & Do you not know that those who perform sacred services eat the \textit{food} of the temple? \\
+9:24 & 你們不知道在運動場上賽跑的都跑，但得獎的只有一人嗎？ & Do you not know that those who run in a race all run, but \textit{only} one receives the prize? \\
+\bottomrule
+\end{tabular}
+\end{small}
+
+\vspace{0.4cm}
+
+\begin{small}
+這十次詰問，沒有一次是要告訴哥林多人一件全新的事；每一次，保羅都只是把他們已經領受、卻已經忘記活出來的身分重新喚回——你們是神的殿、你們的身體是基督的肢體、你們將來要審判世界。問題從來不是「不知道」，而是「忘記了」；這正呼應全書「領受」的主軸：不是缺乏資訊，而是被遺忘的、卻早已屬乎自己的身分，需要被重新喚醒。\\
+\textit{Not one of these ten questions tells the Corinthians something new; each time, Paul simply calls back to mind an identity they had already received but had stopped living out of --- that they are God's temple, that their bodies are members of Christ, that they will one day judge the world. The problem was never ignorance, but forgetfulness --- which matches the letter's larger emphasis on reception: not new information, but a forgotten identity being called back to mind.}
+\end{small}
+
+\pagebreak
+
+
+%% ============================================
+%% END COVER PAGE — same full-bleed gold/purple bordered
+%% frame as the front COVER ART PAGE, so the book opens and
+%% closes with matching bookends.
+%% ============================================
+\begingroup
+\colorlet{ScriptureBg}{CorCoverDark}
+\colorlet{ChapterPurple}{CorCoverCream}
+\colorlet{ScriptureGold}{CorCoverGold}
+\colorlet{TextGray}{CorCoverMuted}
+\colorlet{LightGray}{CorCoverMuted}
+\colorlet{JesusRed}{CorCoverGold}
+{\pagestyle{empty}\cleardoublepage}
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \shade[top color=CorCoverDark,bottom color=CorCoverBlue] (current page.south west) rectangle (current page.north east);
+  \draw[CorCoverGold, line width=1pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[CorCoverGold, line width=0.3pt, opacity=0.7]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[CorCoverGold] ([xshift=0.32in,yshift=0.32in]current page.\cnr) circle (2.4pt);
+  }
+\end{tikzpicture}
+\vspace*{\fill}
+\begin{center}
+
+% ===== SMALL WHEAT SHEAF ECHO (bookend of the front cover art) =====
+\begin{tikzpicture}[scale=0.30, transform shape]
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.14] (0,0.3) circle (2.0);
+  \draw[ScriptureGold, line width=0.3pt, opacity=0.22] (0,0.3) circle (1.4);
+
+  \draw[ChapterPurple, line width=2pt] (-0.42,-0.85) .. controls (-0.5,-0.2) and (-0.32,0.35) .. (-0.28,0.85);
+  \draw[ChapterPurple, line width=2pt] (0,-0.85) .. controls (0.02,-0.1) and (-0.02,0.45) .. (0,1.0);
+  \draw[ChapterPurple, line width=2pt] (0.42,-0.85) .. controls (0.5,-0.2) and (0.32,0.35) .. (0.28,0.85);
+
+  \draw[ScriptureGold, line width=3pt] (-0.55,-0.7) -- (0.55,-0.7);
+  \draw[ScriptureGold, line width=1.2pt] (-0.55,-0.6) -- (0.55,-0.85);
+
+  \fill[ScriptureGold] (-0.28,0.85) .. controls (-0.55,1.15) and (-0.4,1.55) .. (-0.28,1.75)
+                       .. controls (-0.16,1.55) and (-0.02,1.15) .. (-0.28,0.85);
+  \fill[ChapterPurple] (0,1.0) .. controls (-0.28,1.35) and (-0.12,1.85) .. (0,2.1)
+                       .. controls (0.12,1.85) and (0.28,1.35) .. (0,1.0);
+  \fill[ScriptureGold] (0.28,0.85) .. controls (0.02,1.15) and (0.16,1.55) .. (0.28,1.75)
+                       .. controls (0.4,1.55) and (0.55,1.15) .. (0.28,0.85);
+
+  \foreach \bx/\by in {-0.28/1.3, 0/1.5, 0.28/1.3} {
+    \draw[ChapterPurple, line width=0.6pt] (\bx,\by) -- (\bx-0.18,\by+0.35);
+    \draw[ChapterPurple, line width=0.6pt] (\bx,\by) -- (\bx+0.18,\by+0.35);
+    \draw[ChapterPurple, line width=0.6pt] (\bx,\by) -- (\bx,\by+0.42);
+  }
+\end{tikzpicture}
+
+\vspace{0.08cm}
+
+{\fontsize{20}{24}\selectfont\color{ScriptureGold}\bfseries 愛是永不止息}\\[0.10cm]
+{\Large\color{LightGray} Love Never Ends}
+
+\vspace{0.25cm}
+
+{\normalsize\color{TextGray}\itshape
+「如今常存的有信，有望，有愛，\\
+這三樣，其中最大的是愛。」\\[0.1em]
+— 哥林多前書 13:13}
+
+\vspace{0.18cm}
+
+{\small\color{LightGray}
+“But now faith, hope, love, abide these three;\\
+but the greatest of these is love.”\\
+— 1 Corinthians 13:13}
+
+\vspace{0.25cm}
+
+\ornamentdiv
+
+\vspace{0.22cm}
+
+% The Greatest Commandment - Shema (Jesus's words in RED)
+\fcolorbox{JesusRed}{CorCoverBlue}{%
+\begin{minipage}{4.2in}
+\vspace{0.2cm}
+\centering
+\small\jesus{「以色列啊，你要聽！耶和華我們神是獨一的主。\\
+你要盡心、盡性、盡意、盡力愛主你的神。」}\\[0.2em]
+\footnotesize\itshape\jesus{"THE FOREMOST IS, 'HEAR, O ISRAEL! THE LORD OUR GOD IS ONE LORD;\\
+AND YOU SHALL LOVE THE LORD YOUR GOD WITH ALL YOUR HEART, AND WITH ALL YOUR SOUL,\\
+AND WITH ALL YOUR MIND, AND WITH ALL YOUR STRENGTH.'"}\\[0.1em]
+\normalfont\color{LightGray}
+— 馬可福音 Mark 12:29-30 (NASB 1995)
+\vspace{0.2cm}
+\end{minipage}
+}
+
+\vspace{0.18cm}
+
+% Strong Warning - 1 Cor 16:22
+{\small\color{TextGray}\itshape
+「若有人不愛主，這人可詛可咒。主必要來！」\\
+"If anyone has no love for the Lord, let him be accursed. Maranatha!"\\[0.1em]
+\footnotesize — 林前 1 Corinthians 16:22}
+
+\vspace{0.25cm}
+
+\ornamentdiv
+
+\vspace{0.18cm}
+
+{\small\upshape\color{ChapterPurple} Soli Deo Gloria}\\[0.08cm]
+{\footnotesize\color{CorCoverCream} 唯獨榮耀神}
+
+\vspace{0.18cm}
+
+{\footnotesize\color{LightGray}
+PubHub 三書精讀出版系統\\
+Seven-Year Deep Reading Project\\
+2026}
+
+\vspace{0.25cm}
+
+{\Large\color{ScriptureGold}\ensuremath{\dagger}}
+
+\end{center}
+\endgroup
+\end{document}

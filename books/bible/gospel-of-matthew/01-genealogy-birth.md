@@ -1,12 +1,19 @@
 ---
-title: 馬太福音研讀
+title: 馬太福音研讀 — 天國之王
 subtitle: Gospel of Matthew Deep Study
 author: PubHub 三書精讀系統
-date: 2025年12月
+date: 2026年8月
 publisher: 三書精讀出版系統
+edition: 2026 整編版
+updated: 2026-09-20
+language: "zh-Hant (primary); en excerpts vary"
+rights: See COPYRIGHT.md
+source: SOURCE_PDF_AUDIT.md
+status: editorial-draft
+scripture_policy: pending-clearance
 ---
 
-# 第一章：君王家譜與降生 (The King's Genealogy and Birth)
+# 第一章：君王的家譜與降生——大衛的子孫、亞伯拉罕的後裔 (The King's Genealogy and Birth—David's Son, Abraham's Descendant)
 
 馬太福音 1:1-25
 
@@ -14,27 +21,27 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^亞伯拉罕的後裔、大衛的子孫、耶穌基督的家譜：
+> <sup>1</sup>亞伯拉罕的後裔、大衛的子孫、耶穌基督的家譜：
 
-> ^2^亞伯拉罕生以撒，以撒生雅各，雅各生猶大和他的兄弟們，^3^猶大從她瑪氏生法勒斯和謝拉，法勒斯生希斯崙，希斯崙生亞蘭，^4^亞蘭生亞米拿達，亞米拿達生拿順，拿順生撒門，^5^撒門從喇合氏生波阿斯，波阿斯從路得氏生俄備得，俄備得生耶西，^6^耶西生大衛王。
+> <sup>2</sup>亞伯拉罕生以撒，以撒生雅各，雅各生猶大和他的兄弟們，<sup>3</sup>猶大從她瑪氏生法勒斯和謝拉，法勒斯生希斯崙，希斯崙生亞蘭，<sup>4</sup>亞蘭生亞米拿達，亞米拿達生拿順，拿順生撒門，<sup>5</sup>撒門從喇合氏生波阿斯，波阿斯從路得氏生俄備得，俄備得生耶西，<sup>6</sup>耶西生大衛王。
 
-> 大衛從烏利亞的妻子生所羅門，^7^所羅門生羅波安，羅波安生亞比雅，亞比雅生亞撒，^8^亞撒生約沙法，約沙法生約蘭，約蘭生烏西亞，^9^烏西亞生約坦，約坦生亞哈斯，亞哈斯生希西家，^10^希西家生瑪拿西，瑪拿西生亞們，亞們生約西亞，^11^約西亞在巴比倫遷移的時候生耶哥尼雅和他的兄弟們。
+> 大衛從烏利亞的妻子生所羅門，<sup>7</sup>所羅門生羅波安，羅波安生亞比雅，亞比雅生亞撒，<sup>8</sup>亞撒生約沙法，約沙法生約蘭，約蘭生烏西亞，<sup>9</sup>烏西亞生約坦，約坦生亞哈斯，亞哈斯生希西家，<sup>10</sup>希西家生瑪拿西，瑪拿西生亞們，亞們生約西亞，<sup>11</sup>約西亞在巴比倫遷移的時候生耶哥尼雅和他的兄弟們。
 
-> ^12^遷到巴比倫以後，耶哥尼雅生撒拉鐵，撒拉鐵生所羅巴伯，^13^所羅巴伯生亞比玉，亞比玉生以利亞敬，以利亞敬生亞所，^14^亞所生撒督，撒督生亞金，亞金生以律，^15^以律生以利亞撒，以利亞撒生馬但，馬但生雅各，^16^雅各生約瑟，就是馬利亞的丈夫；那稱為基督的耶穌，是從馬利亞生的。
+> <sup>12</sup>遷到巴比倫以後，耶哥尼雅生撒拉鐵，撒拉鐵生所羅巴伯，<sup>13</sup>所羅巴伯生亞比玉，亞比玉生以利亞敬，以利亞敬生亞所，<sup>14</sup>亞所生撒督，撒督生亞金，亞金生以律，<sup>15</sup>以律生以利亞撒，以利亞撒生馬但，馬但生雅各，<sup>16</sup>雅各生約瑟，就是馬利亞的丈夫；那稱為基督的耶穌，是從馬利亞生的。
 
-> ^17^這樣，從亞伯拉罕到大衛共有十四代，從大衛到遷至巴比倫的時候也有十四代，從遷至巴比倫的時候到基督又有十四代。
+> <sup>17</sup>這樣，從亞伯拉罕到大衛共有十四代，從大衛到遷至巴比倫的時候也有十四代，從遷至巴比倫的時候到基督又有十四代。
 
-> ^18^耶穌基督降生的事記在下面：他母親馬利亞已經許配了約瑟，還沒有迎娶，馬利亞就從聖靈懷了孕。^19^她丈夫約瑟是個義人，不願意明明地羞辱她，想要暗暗地把她休了。^20^正思念這些事的時候，有主的使者向他夢中顯現，說：「大衛的子孫約瑟，不要怕，只管娶過你的妻子馬利亞來，因她所懷的孕是從聖靈來的。^21^她將要生一個兒子，你要給他起名叫耶穌，因他要將自己的百姓從罪惡裏救出來。」^22^這一切的事成就，是要應驗主藉先知所說的話，^23^說：「必有童女懷孕生子，人要稱他的名為以馬內利。」（「以馬內利」翻出來就是「神與我們同在」。）^24^約瑟醒了，起來，就遵著主使者的吩咐，把妻子娶過來，^25^只是沒有和她同房，等她生了兒子，就給他起名叫耶穌。
+> <sup>18</sup>耶穌基督降生的事記在下面：他母親馬利亞已經許配了約瑟，還沒有迎娶，馬利亞就從聖靈懷了孕。<sup>19</sup>她丈夫約瑟是個義人，不願意明明地羞辱她，想要暗暗地把她休了。<sup>20</sup>正思念這些事的時候，有主的使者向他夢中顯現，說：「大衛的子孫約瑟，不要怕，只管娶過你的妻子馬利亞來，因她所懷的孕是從聖靈來的。<sup>21</sup>她將要生一個兒子，你要給他起名叫耶穌，因他要將自己的百姓從罪惡裏救出來。」<sup>22</sup>這一切的事成就，是要應驗主藉先知所說的話，<sup>23</sup>說：「必有童女懷孕生子，人要稱他的名為以馬內利。」（「以馬內利」翻出來就是「神與我們同在」。）<sup>24</sup>約瑟醒了，起來，就遵著主使者的吩咐，把妻子娶過來，<sup>25</sup>只是沒有和她同房，等她生了兒子，就給他起名叫耶穌。
 
-### English — ESV
+### English — ESV (selected excerpt)
 
-> ^1^The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
+> <sup>1</sup>The book of the genealogy of Jesus Christ, the son of David, the son of Abraham.
 
-> ^2^Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers, ^3^and Judah the father of Perez and Zerah by Tamar, and Perez the father of Hezron, and Hezron the father of Ram, ^4^and Ram the father of Amminadab, and Amminadab the father of Nahshon, and Nahshon the father of Salmon, ^5^and Salmon the father of Boaz by Rahab, and Boaz the father of Obed by Ruth, and Obed the father of Jesse, ^6^and Jesse the father of David the king.
+> <sup>2</sup>Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers, <sup>3</sup>and Judah the father of Perez and Zerah by Tamar, and Perez the father of Hezron, and Hezron the father of Ram, <sup>4</sup>and Ram the father of Amminadab, and Amminadab the father of Nahshon, and Nahshon the father of Salmon, <sup>5</sup>and Salmon the father of Boaz by Rahab, and Boaz the father of Obed by Ruth, and Obed the father of Jesse, <sup>6</sup>and Jesse the father of David the king.
 
-> And David was the father of Solomon by the wife of Uriah, ^7^and Solomon the father of Rehoboam... [continues through genealogy]
+> The genealogy continues through verse 17. This study edition reproduces a selected ESV excerpt here; the complete genealogy must be inserted only after ESV permissions are confirmed.
 
-> ^18^Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit. ^19^And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. ^20^But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. ^21^She will bear a son, and you shall call his name Jesus, for he will save his people from their sins." ^22^All this took place to fulfill what the Lord had spoken by the prophet: ^23^"Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel" (which means, God with us). ^24^When Joseph woke from sleep, he did as the angel of the Lord commanded him: he took his wife, ^25^but knew her not until she had given birth to a son. And he called his name Jesus.
+> <sup>18</sup>Now the birth of Jesus Christ took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child from the Holy Spirit. <sup>19</sup>And her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. <sup>20</sup>But as he considered these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not fear to take Mary as your wife, for that which is conceived in her is from the Holy Spirit. <sup>21</sup>She will bear a son, and you shall call his name Jesus, for he will save his people from their sins." <sup>22</sup>All this took place to fulfill what the Lord had spoken by the prophet: <sup>23</sup>"Behold, the virgin shall conceive and bear a son, and they shall call his name Immanuel" (which means, God with us). <sup>24</sup>When Joseph woke from sleep, he did as the angel of the Lord commanded him: he took his wife, <sup>25</sup>but knew her not until she had given birth to a son. And he called his name Jesus.
 
 ---
 
@@ -133,7 +140,7 @@ publisher: 三書精讀出版系統
 > 「『耶穌』這名字是天上賜下的，不是人間選擇的。名字本身就是福音的縮影：耶和華拯救。他不是來拯救我們脫離羅馬，而是脫離罪惡。」
 > — *The MacArthur New Testament Commentary: Matthew 1-7*
 
-**乾愛卿 (D.A. Carson)**:
+**D.A. Carson（卡森）**:
 
 > 「三個十四代的結構可能與大衛名字的希伯來數值（D-V-D = 4+6+4 = 14）有關，這是馬太表明耶穌是大衛真正後裔的巧妙方式。」
 > — *Matthew* (EBC)
@@ -223,4 +230,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*
+*來源索引：見 [SOURCES.md](SOURCES.md)；本章引文與轉述仍須逐條核實。*

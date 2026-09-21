@@ -1,0 +1,9 @@
+{
+  "rights": {"status": "pending", "reviewer": null, "date": null, "evidence": null},
+  "theology": {"status": "pending", "reviewer": null, "date": null, "evidence": null},
+  "copyedit": {"status": "pending", "reviewer": null, "date": null, "evidence": null},
+  "quotations": {"status": "pending", "reviewer": null, "date": null, "evidence": null},
+  "source_reconciliation": {"status": "pending", "reviewer": null, "date": null, "evidence": null},
+  "production": {"status": "pending", "reviewer": null, "date": null, "evidence": null},
+  "accessibility": {"status": "pending", "reviewer": null, "date": null, "evidence": null}
+}

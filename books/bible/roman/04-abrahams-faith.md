@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：算 Logizomai** \
-> **全書坐標**：卷二「因信稱義」的首章。3:21-26宣告了稱義的根據，4章隨即傳喚兩個舊約見證人——亞伯拉罕與大衛——證明「算為義」自始就是恩典的算法，不是工價的算法；稱義早於割禮，也早於律法。 \
+> **全書座標**：卷二「因信稱義」的首章。3:21-26宣告了稱義的根據，4章隨即傳喚兩個舊約見證人——亞伯拉罕與大衛——證明「算為義」自始就是恩典的算法，不是工價的算法；稱義早於割禮，也早於律法。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上講的是亞伯拉罕，核心卻是耶穌。保羅在全章沒有一次直接說出「耶穌」，直到第24-25節才揭曉：亞伯拉罕所信的那位「叫死人復活、使無變為有的神」，就是「使我們的主耶穌從死裏復活」的神。亞伯拉罕仰望一個尚未存在的應許（多國之父、從死胎般的身體生出後裔），我們仰望一個已經成就的事實（耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義）。亞伯拉罕的信心望向前方，我們的信心望向十字架與空墳墓——但那位被信靠的神，從未改變。
@@ -60,31 +60,31 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^如此說來，我們的祖宗亞伯拉罕憑著肉體得了甚麼呢？^2^倘若亞伯拉罕是因行為稱義，就有可誇的；只是在神面前並無可誇。**^3^經上說甚麼呢？說：「亞伯拉罕信神，這就算為他的義。」^4^做工的得工價，不算恩典，乃是該得的；^5^惟有不做工的，只信稱罪人為義的神，他的信就算為義。**
+> <sup>1</sup>如此說來，我們的祖宗亞伯拉罕憑著肉體得了甚麼呢？<sup>2</sup>倘若亞伯拉罕是因行為稱義，就有可誇的；只是在神面前並無可誇。**<sup>3</sup>經上說甚麼呢？說：「亞伯拉罕信神，這就算為他的義。」<sup>4</sup>做工的得工價，不算恩典，乃是該得的；<sup>5</sup>惟有不做工的，只信稱罪人為義的神，他的信就算為義。**
 
-> ^6^正如大衛稱那在行為以外蒙神算為義的人是有福的。^7^他說：「得赦免其過、遮蓋其罪的，這人是有福的。^8^主不算為有罪的，這人是有福的。」
+> <sup>6</sup>正如大衛稱那在行為以外蒙神算為義的人是有福的。<sup>7</sup>他說：「得赦免其過、遮蓋其罪的，這人是有福的。<sup>8</sup>主不算為有罪的，這人是有福的。」
 
-> ^9^如此看來，這福是單加給那受割禮的人麼？不也是加給那未受割禮的人麼？因我們所說，亞伯拉罕的信，就算為他的義，^10^是怎麼算的呢？是在他受割禮的時候呢？是在他未受割禮的時候呢？不是在受割禮的時候，乃是在未受割禮的時候。^11^並且他受了割禮的記號，作他未受割禮的時候因信稱義的印證，叫他作一切未受割禮而信之人的父，使他們也算為義；^12^又作受割禮之人的父，就是那些不但受割禮，並且按我們的祖宗亞伯拉罕未受割禮而信之蹤跡去行的人。
+> <sup>9</sup>如此看來，這福是單加給那受割禮的人麼？不也是加給那未受割禮的人麼？因我們所說，亞伯拉罕的信，就算為他的義，<sup>10</sup>是怎麼算的呢？是在他受割禮的時候呢？是在他未受割禮的時候呢？不是在受割禮的時候，乃是在未受割禮的時候。<sup>11</sup>並且他受了割禮的記號，作他未受割禮的時候因信稱義的印證，叫他作一切未受割禮而信之人的父，使他們也算為義；<sup>12</sup>又作受割禮之人的父，就是那些不但受割禮，並且按我們的祖宗亞伯拉罕未受割禮而信之蹤跡去行的人。
 
-> ^13^因為神應許亞伯拉罕和他後裔，必得承受世界，不是因律法，乃是因信而得的義。^14^若是屬乎律法的人才得為後嗣，信就歸於虛空，應許也就廢棄了。^15^因為律法是惹動忿怒的；那裏沒有律法，那裏就沒有過犯。^16^所以人得為後嗣是本乎信，因此就屬乎恩，叫應許定然歸給一切後裔；不但歸給那屬乎律法的，也歸給那效法亞伯拉罕之信的。^17^亞伯拉罕所信的，是那叫死人復活、使無變為有的神，他在主面前作我們世人的父。如經上所記：「我已經立你作多國的父。」
+> <sup>13</sup>因為神應許亞伯拉罕和他後裔，必得承受世界，不是因律法，乃是因信而得的義。<sup>14</sup>若是屬乎律法的人才得為後嗣，信就歸於虛空，應許也就廢棄了。<sup>15</sup>因為律法是惹動忿怒的；那裏沒有律法，那裏就沒有過犯。<sup>16</sup>所以人得為後嗣是本乎信，因此就屬乎恩，叫應許定然歸給一切後裔；不但歸給那屬乎律法的，也歸給那效法亞伯拉罕之信的。<sup>17</sup>亞伯拉罕所信的，是那叫死人復活、使無變為有的神，他在主面前作我們世人的父。如經上所記：「我已經立你作多國的父。」
 
-> ^18^他在無可指望的時候，因信仍有指望，就得以作多國的父，正如先前所說：「你的後裔將要如此。」^19^他將近百歲的時候，雖然想到自己的身體如同已死，撒拉的生育已經斷絕，他的信心還是不軟弱；^20^並且仰望神的應許，總沒有因不信心裏起疑惑，反倒因信心裏得堅固，將榮耀歸給神，^21^且滿心相信神所應許的必能做成。^22^所以，這就算為他的義。
+> <sup>18</sup>他在無可指望的時候，因信仍有指望，就得以作多國的父，正如先前所說：「你的後裔將要如此。」<sup>19</sup>他將近百歲的時候，雖然想到自己的身體如同已死，撒拉的生育已經斷絕，他的信心還是不軟弱；<sup>20</sup>並且仰望神的應許，總沒有因不信心裏起疑惑，反倒因信心裏得堅固，將榮耀歸給神，<sup>21</sup>且滿心相信神所應許的必能做成。<sup>22</sup>所以，這就算為他的義。
 
-> **^23^算為他義的這句話不是單為他寫的，^24^也是為我們將來得算為義之人寫的，就是我們這信神使我們的主耶穌從死裏復活的人。^25^耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義。**
+> **<sup>23</sup>算為他義的這句話不是單為他寫的，<sup>24</sup>也是為我們將來得算為義之人寫的，就是我們這信神使我們的主耶穌從死裏復活的人。<sup>25</sup>耶穌被交給人，是為我們的過犯；復活，是為叫我們稱義。**
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^What then shall we say that Abraham, our forefather according to the flesh, has found? ^2^For if Abraham was justified by works, he has something to boast about, but not before God. **^3^For what does the Scripture say? "ABRAHAM BELIEVED GOD, AND IT WAS CREDITED TO HIM AS RIGHTEOUSNESS." ^4^Now to the one who works, his wage is not credited as a favor, but as what is due. ^5^But to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness,**
+> <sup>1</sup>What then shall we say that Abraham, our forefather according to the flesh, has found? <sup>2</sup>For if Abraham was justified by works, he has something to boast about, but not before God. **<sup>3</sup>For what does the Scripture say? "ABRAHAM BELIEVED GOD, AND IT WAS CREDITED TO HIM AS RIGHTEOUSNESS." <sup>4</sup>Now to the one who works, his wage is not credited as a favor, but as what is due. <sup>5</sup>But to the one who does not work, but believes in Him who justifies the ungodly, his faith is credited as righteousness,**
 
-> ^6^just as David also speaks of the blessing on the man to whom God credits righteousness apart from works: ^7^"BLESSED ARE THOSE WHOSE LAWLESS DEEDS HAVE BEEN FORGIVEN, AND WHOSE SINS HAVE BEEN COVERED. ^8^BLESSED IS THE MAN WHOSE SIN THE LORD WILL NOT TAKE INTO ACCOUNT."
+> <sup>6</sup>just as David also speaks of the blessing on the man to whom God credits righteousness apart from works: <sup>7</sup>"BLESSED ARE THOSE WHOSE LAWLESS DEEDS HAVE BEEN FORGIVEN, AND WHOSE SINS HAVE BEEN COVERED. <sup>8</sup>BLESSED IS THE MAN WHOSE SIN THE LORD WILL NOT TAKE INTO ACCOUNT."
 
-> ^9^Is this blessing then on the circumcised, or on the uncircumcised also? For we say, "FAITH WAS CREDITED TO ABRAHAM AS RIGHTEOUSNESS." ^10^How then was it credited? While he was circumcised, or uncircumcised? Not while circumcised, but while uncircumcised; ^11^and he received the sign of circumcision, a seal of the righteousness of the faith which he had while uncircumcised, so that he might be the father of all who believe without being circumcised, that righteousness might be credited to them, ^12^and the father of circumcision to those who not only are of the circumcision, but who also follow in the steps of the faith of our father Abraham which he had while uncircumcised.
+> <sup>9</sup>Is this blessing then on the circumcised, or on the uncircumcised also? For we say, "FAITH WAS CREDITED TO ABRAHAM AS RIGHTEOUSNESS." <sup>10</sup>How then was it credited? While he was circumcised, or uncircumcised? Not while circumcised, but while uncircumcised; <sup>11</sup>and he received the sign of circumcision, a seal of the righteousness of the faith which he had while uncircumcised, so that he might be the father of all who believe without being circumcised, that righteousness might be credited to them, <sup>12</sup>and the father of circumcision to those who not only are of the circumcision, but who also follow in the steps of the faith of our father Abraham which he had while uncircumcised.
 
-> ^13^For the promise to Abraham or to his descendants that he would be heir of the world was not through the Law, but through the righteousness of faith. ^14^For if those who are of the Law are heirs, faith is made void and the promise is nullified; ^15^for the Law brings about wrath, but where there is no law, there also is no violation. ^16^For this reason *it is* by faith, in order that *it may be* in accordance with grace, so that the promise will be guaranteed to all the descendants, not only to those who are of the Law, but also to those who are of the faith of Abraham, who is the father of us all, ^17^(as it is written, "A FATHER OF MANY NATIONS HAVE I MADE YOU") in the presence of Him whom he believed, *even* God, who gives life to the dead and calls into being that which does not exist.
+> <sup>13</sup>For the promise to Abraham or to his descendants that he would be heir of the world was not through the Law, but through the righteousness of faith. <sup>14</sup>For if those who are of the Law are heirs, faith is made void and the promise is nullified; <sup>15</sup>for the Law brings about wrath, but where there is no law, there also is no violation. <sup>16</sup>For this reason *it is* by faith, in order that *it may be* in accordance with grace, so that the promise will be guaranteed to all the descendants, not only to those who are of the Law, but also to those who are of the faith of Abraham, who is the father of us all, <sup>17</sup>(as it is written, "A FATHER OF MANY NATIONS HAVE I MADE YOU") in the presence of Him whom he believed, *even* God, who gives life to the dead and calls into being that which does not exist.
 
-> ^18^In hope against hope he believed, so that he might become a father of many nations according to that which had been spoken, "SO SHALL YOUR DESCENDANTS BE." ^19^Without becoming weak in faith he contemplated his own body, now as good as dead since he was about a hundred years old, and the deadness of Sarah's womb; ^20^yet, with respect to the promise of God, he did not waver in unbelief but grew strong in faith, giving glory to God, ^21^and being fully assured that what God had promised, He was able also to perform. ^22^Therefore IT WAS ALSO CREDITED TO HIM AS RIGHTEOUSNESS.
+> <sup>18</sup>In hope against hope he believed, so that he might become a father of many nations according to that which had been spoken, "SO SHALL YOUR DESCENDANTS BE." <sup>19</sup>Without becoming weak in faith he contemplated his own body, now as good as dead since he was about a hundred years old, and the deadness of Sarah's womb; <sup>20</sup>yet, with respect to the promise of God, he did not waver in unbelief but grew strong in faith, giving glory to God, <sup>21</sup>and being fully assured that what God had promised, He was able also to perform. <sup>22</sup>Therefore IT WAS ALSO CREDITED TO HIM AS RIGHTEOUSNESS.
 
-> **^23^Now not for his sake only was it written that it was credited to him, ^24^but for our sake also, to whom it will be credited, as those who believe in Him who raised Jesus our Lord from the dead, ^25^*He* who was delivered over because of our transgressions, and was raised because of our justification.**
+> **<sup>23</sup>Now not for his sake only was it written that it was credited to him, <sup>24</sup>but for our sake also, to whom it will be credited, as those who believe in Him who raised Jesus our Lord from the dead, <sup>25</sup>*He* who was delivered over because of our transgressions, and was raised because of our justification.**
 
 ---
 

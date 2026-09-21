@@ -1,0 +1,24 @@
+{
+  "product": "Romans Deep Study",
+  "assigned_title": "羅馬書研讀 — Romans Deep Study — 2026 整編版",
+  "edition": "Publisher review edition 1.1",
+  "status": "editorial-validation-in-progress",
+  "canonical_filename": "romans-consolidated.pdf",
+  "canonical_layout": "348 pages, 7 x 10 inches",
+  "content_model": "bilingual-study-guide-with-scripture-and-commentary",
+  "translation_policy": {
+    "chinese": "和合本 (CUV)",
+    "english": "New American Standard Bible (NASB 1995)",
+    "parallel_text": true
+  },
+  "release_gates": [
+    "source-baseline-and-page-preservation",
+    "scripture-version-and-prose-citation-audit",
+    "quotation-evidence-and-rights-ledger",
+    "independent-theological-and-bilingual-review",
+    "cover-and-metadata-proof",
+    "pdf-epub-html-production-proof",
+    "accessible-reading-order-proof",
+    "printer-proof"
+  ]
+}

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第五章 · 亞拿尼亞事件與使徒受辱 (Ananias and the Apostles on Trial)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^有一個人名叫亞拿尼亞，同他的妻子撒非喇賣了田產，^2^把價銀私自留下幾分，他的妻子也知道，其餘的幾分拿來放在使徒腳前。^3^彼得說：「亞拿尼亞，為甚麼撒但充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾分呢？^4^田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你作主嗎？你怎麼心裏起這意念呢？你不是欺哄人，是欺哄神了！」
 
@@ -55,7 +55,7 @@ publisher: 三書精讀出版系統
 
 > ^41^他們離開公會，心裏歡喜，因被算是配為這名受辱。^42^他們就每日在殿裏、在家裏不住地教訓人，傳耶穌是基督。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^3^But Peter said, "Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back *some* of the price of the land? ^4^While it remained *unsold,* did it not remain your own? And after it was sold, was it not under your control? Why is it that you have conceived this deed in your heart? You have not lied to men but to God." ^5^And as he heard these words, Ananias fell down and breathed his last; and great fear came over all who heard of it.
 

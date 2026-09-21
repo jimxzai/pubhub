@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：律 Nomos** \
-> **全書坐標**：7章夾在6章「向罪死、向神活」的宣告與8章「聖靈中的生命」的高峰之間，誠實地攔住「成聖很輕省」的錯覺——律法能診斷罪，卻不能醫治罪，唯獨基督能。 \
+> **全書座標**：7章夾在6章「向罪死、向神活」的宣告與8章「聖靈中的生命」的高峰之間，誠實地攔住「成聖很輕省」的錯覺——律法能診斷罪，卻不能醫治罪，唯獨基督能。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上是保羅最個人化、最痛苦的自白，中心卻仍是耶穌基督。婚姻的比喻說：信徒「藉著基督的身體」對律法死了，為要「歸於那從死裏復活的」（7:4）——是十字架斷開了律法的轄制，是復活的基督成了新的丈夫，新的生命之源。當內心的爭戰逼出那聲「我真是苦啊！誰能救我脫離這取死的身體呢？」時，答案不是一套方法、不是加倍的努力，而是一個名字：「感謝神！靠著我們的主耶穌基督」（7:25）。第7章的黑暗，正是為了讓人看清：離了基督，連最好的律法也救不了人；唯有基督，才是這場戰爭唯一的出路。
@@ -63,35 +63,35 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^弟兄們，我現在對明白律法的人說：你們豈不曉得律法管人是在活著的時候嗎？^2^就如女人有了丈夫，丈夫還活著，就被律法約束，丈夫若死了，就脫離了丈夫的律法。^3^所以丈夫活著，她若歸於別人，便叫淫婦；丈夫若死了，她就脫離了丈夫的律法，雖然歸於別人，也不是淫婦。
+> <sup>1</sup>弟兄們，我現在對明白律法的人說：你們豈不曉得律法管人是在活著的時候嗎？<sup>2</sup>就如女人有了丈夫，丈夫還活著，就被律法約束，丈夫若死了，就脫離了丈夫的律法。<sup>3</sup>所以丈夫活著，她若歸於別人，便叫淫婦；丈夫若死了，她就脫離了丈夫的律法，雖然歸於別人，也不是淫婦。
 
-> ^4^我的弟兄們，這樣說來，你們藉著基督的身體，在律法上也是死了，叫你們歸於別人，就是歸於那從死裏復活的，叫我們結果子給神。^5^因為我們屬肉體的時候，那因律法而生的惡慾就在我們肢體中發動，以致結成死亡的果子；^6^但我們既然在捆我們的律法上死了，現今就脫離了律法，叫我們服侍主，要按著心靈的新樣，不按著儀文的舊樣。
+> <sup>4</sup>我的弟兄們，這樣說來，你們藉著基督的身體，在律法上也是死了，叫你們歸於別人，就是歸於那從死裏復活的，叫我們結果子給神。<sup>5</sup>因為我們屬肉體的時候，那因律法而生的惡慾就在我們肢體中發動，以致結成死亡的果子；<sup>6</sup>但我們既然在捆我們的律法上死了，現今就脫離了律法，叫我們服侍主，要按著心靈的新樣，不按著儀文的舊樣。
 
-> ^7^這樣，我們可說甚麼呢？律法是罪嗎？斷乎不是。只是非因律法，我就不知何為罪。非律法說「不可起貪心」，我就不知何為貪心。^8^然而罪趁著機會，就藉著誡命叫諸般的貪心在我裏頭發動，因為沒有律法罪是死的。^9^我以前沒有律法是活著的，但是誡命來到，罪又活了，我就死了。^10^那本來叫人活的誡命，反倒叫我死；^11^因為罪趁著機會，就藉著誡命引誘我，並且殺了我。^12^這樣看來，律法是聖潔的，誡命也是聖潔、公義、良善的。
+> <sup>7</sup>這樣，我們可說甚麼呢？律法是罪嗎？斷乎不是。只是非因律法，我就不知何為罪。非律法說「不可起貪心」，我就不知何為貪心。<sup>8</sup>然而罪趁著機會，就藉著誡命叫諸般的貪心在我裏頭發動，因為沒有律法罪是死的。<sup>9</sup>我以前沒有律法是活著的，但是誡命來到，罪又活了，我就死了。<sup>10</sup>那本來叫人活的誡命，反倒叫我死；<sup>11</sup>因為罪趁著機會，就藉著誡命引誘我，並且殺了我。<sup>12</sup>這樣看來，律法是聖潔的，誡命也是聖潔、公義、良善的。
 
-> ^13^既然如此，那良善的是叫我死嗎？斷乎不是。叫我死的乃是罪。但罪藉著那良善的叫我死，就顯出真是罪，叫罪因著誡命更顯出是惡極了。
+> <sup>13</sup>既然如此，那良善的是叫我死嗎？斷乎不是。叫我死的乃是罪。但罪藉著那良善的叫我死，就顯出真是罪，叫罪因著誡命更顯出是惡極了。
 
-> ^14^我們原曉得律法是屬乎靈的，但我是屬乎肉體的，是已經賣給罪了。**^15^因為我所做的，我自己不明白；我所願意的，我並不做；我所恨惡的，我倒去做。**^16^若我所做的，是我所不願意的，我就應承律法是善的。^17^既是這樣，就不是我做的，乃是住在我裏頭的罪做的。^18^我也知道，在我裏頭，就是我肉體之中，沒有良善。因為立志為善由得我，只是行出來由不得我。^19^故此，我所願意的善，我反不做；我所不願意的惡，我倒去做。^20^若我去做所不願意做的，就不是我做的，乃是住在我裏頭的罪做的。
+> <sup>14</sup>我們原曉得律法是屬乎靈的，但我是屬乎肉體的，是已經賣給罪了。**<sup>15</sup>因為我所做的，我自己不明白；我所願意的，我並不做；我所恨惡的，我倒去做。**<sup>16</sup>若我所做的，是我所不願意的，我就應承律法是善的。<sup>17</sup>既是這樣，就不是我做的，乃是住在我裏頭的罪做的。<sup>18</sup>我也知道，在我裏頭，就是我肉體之中，沒有良善。因為立志為善由得我，只是行出來由不得我。<sup>19</sup>故此，我所願意的善，我反不做；我所不願意的惡，我倒去做。<sup>20</sup>若我去做所不願意做的，就不是我做的，乃是住在我裏頭的罪做的。
 
-> ^21^我覺得有個律，就是我願意為善的時候，便有惡與我同在。^22^因為按著我裏面的意思，我是喜歡神的律，^23^但我覺得肢體中另有個律和我心中的律交戰，把我擄去，叫我附從那肢體中犯罪的律。
+> <sup>21</sup>我覺得有個律，就是我願意為善的時候，便有惡與我同在。<sup>22</sup>因為按著我裏面的意思，我是喜歡神的律，<sup>23</sup>但我覺得肢體中另有個律和我心中的律交戰，把我擄去，叫我附從那肢體中犯罪的律。
 
-> **^24^我真是苦啊！誰能救我脫離這取死的身體呢？^25^感謝神！靠著我們的主耶穌基督就能脫離了。這樣看來，我以內心順服神的律，我肉體卻順服罪的律了。**
+> **<sup>24</sup>我真是苦啊！誰能救我脫離這取死的身體呢？<sup>25</sup>感謝神！靠著我們的主耶穌基督就能脫離了。這樣看來，我以內心順服神的律，我肉體卻順服罪的律了。**
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^Or do you not know, brethren (for I am speaking to those who know the law), that the law has jurisdiction over a person as long as he lives? ^2^For the married woman is bound by law to her husband while he is living; but if her husband dies, she is released from the law concerning the husband. ^3^So then, if while her husband is living she is joined to another man, she shall be called an adulteress; but if her husband dies, she is free from the law, so that she is not an adulteress though she is joined to another man.
+> <sup>1</sup>Or do you not know, brethren (for I am speaking to those who know the law), that the law has jurisdiction over a person as long as he lives? <sup>2</sup>For the married woman is bound by law to her husband while he is living; but if her husband dies, she is released from the law concerning the husband. <sup>3</sup>So then, if while her husband is living she is joined to another man, she shall be called an adulteress; but if her husband dies, she is free from the law, so that she is not an adulteress though she is joined to another man.
 
-> ^4^Therefore, my brethren, you also were made to die to the Law through the body of Christ, so that you might be joined to another, to Him who was raised from the dead, in order that we might bear fruit for God. ^5^For while we were in the flesh, the sinful passions, which were *aroused* by the Law, were at work in the members of our body to bear fruit for death. ^6^But now we have been released from the Law, having died to that by which we were bound, so that we serve in newness of the Spirit and not in oldness of the letter.
+> <sup>4</sup>Therefore, my brethren, you also were made to die to the Law through the body of Christ, so that you might be joined to another, to Him who was raised from the dead, in order that we might bear fruit for God. <sup>5</sup>For while we were in the flesh, the sinful passions, which were *aroused* by the Law, were at work in the members of our body to bear fruit for death. <sup>6</sup>But now we have been released from the Law, having died to that by which we were bound, so that we serve in newness of the Spirit and not in oldness of the letter.
 
-> ^7^What shall we say then? Is the Law sin? May it never be! On the contrary, I would not have come to know sin except through the Law; for I would not have known about coveting if the Law had not said, "YOU SHALL NOT COVET." ^8^But sin, taking opportunity through the commandment, produced in me coveting of every kind; for apart from the Law sin *is* dead. ^9^I was once alive apart from the Law; but when the commandment came, sin became alive and I died; ^10^and this commandment, which was to result in life, proved to result in death for me; ^11^for sin, taking an opportunity through the commandment, deceived me and through it killed me. ^12^So then, the Law is holy, and the commandment is holy and righteous and good.
+> <sup>7</sup>What shall we say then? Is the Law sin? May it never be! On the contrary, I would not have come to know sin except through the Law; for I would not have known about coveting if the Law had not said, "YOU SHALL NOT COVET." <sup>8</sup>But sin, taking opportunity through the commandment, produced in me coveting of every kind; for apart from the Law sin *is* dead. <sup>9</sup>I was once alive apart from the Law; but when the commandment came, sin became alive and I died; <sup>10</sup>and this commandment, which was to result in life, proved to result in death for me; <sup>11</sup>for sin, taking an opportunity through the commandment, deceived me and through it killed me. <sup>12</sup>So then, the Law is holy, and the commandment is holy and righteous and good.
 
-> ^13^Therefore did that which is good become *a cause of* death for me? May it never be! Rather it was sin, in order that it might be shown to be sin by effecting my death through that which is good, so that through the commandment sin would become utterly sinful.
+> <sup>13</sup>Therefore did that which is good become *a cause of* death for me? May it never be! Rather it was sin, in order that it might be shown to be sin by effecting my death through that which is good, so that through the commandment sin would become utterly sinful.
 
-> ^14^For we know that the Law is spiritual, but I am of flesh, sold into bondage to sin. **^15^For what I am doing, I do not understand; for I am not practicing what I *would* like to *do,* but I am doing the very thing I hate.** ^16^But if I do the very thing I do not want *to do,* I agree with the Law, *confessing* that the Law is good. ^17^So now, no longer am I the one doing it, but sin which dwells in me. ^18^For I know that nothing good dwells in me, that is, in my flesh; for the willing is present in me, but the doing of the good *is* not. ^19^For the good that I want, I do not do, but I practice the very evil that I do not want. ^20^But if I am doing the very thing I do not want, I am no longer the one doing it, but sin which dwells in me.
+> <sup>14</sup>For we know that the Law is spiritual, but I am of flesh, sold into bondage to sin. **<sup>15</sup>For what I am doing, I do not understand; for I am not practicing what I *would* like to *do,* but I am doing the very thing I hate.** <sup>16</sup>But if I do the very thing I do not want *to do,* I agree with the Law, *confessing* that the Law is good. <sup>17</sup>So now, no longer am I the one doing it, but sin which dwells in me. <sup>18</sup>For I know that nothing good dwells in me, that is, in my flesh; for the willing is present in me, but the doing of the good *is* not. <sup>19</sup>For the good that I want, I do not do, but I practice the very evil that I do not want. <sup>20</sup>But if I am doing the very thing I do not want, I am no longer the one doing it, but sin which dwells in me.
 
-> ^21^I find then the principle that evil is present in me, the one who wants to do good. ^22^For I joyfully concur with the law of God in the inner man, ^23^but I see a different law in the members of my body, waging war against the law of my mind and making me a prisoner of the law of sin which is in my members.
+> <sup>21</sup>I find then the principle that evil is present in me, the one who wants to do good. <sup>22</sup>For I joyfully concur with the law of God in the inner man, <sup>23</sup>but I see a different law in the members of my body, waging war against the law of my mind and making me a prisoner of the law of sin which is in my members.
 
-> **^24^Wretched man that I am! Who will set me free from the body of this death? ^25^Thanks be to God through Jesus Christ our Lord! So then, on the one hand I myself with my mind am serving the law of God, but on the other, with my flesh the law of sin.**
+> **<sup>24</sup>Wretched man that I am! Who will set me free from the body of this death? <sup>25</sup>Thanks be to God through Jesus Christ our Lord! So then, on the one hand I myself with my mind am serving the law of God, but on the other, with my flesh the law of sin.**
 
 ---
 
@@ -124,10 +124,10 @@ publisher: 三書精讀出版系統
 
 ### *nomos* 一詞多義
 
-保羅在這一章用 *nomos* 至少表達三種不同意思，中文和合本都譯作「律」或「律法」，讀者若不留意原文的冠詞差異，很容易讀混：
+保羅在這一章用 *nomos* 至少表達三種不同意思，中文和合本都譯作「律」或「律法」，必須按上下文與修飾語分辨，不能只憑冠詞有無判定意思：
 
-1. **摩西的律法**（有定冠詞 *ho nomos*）——7:1-14 大部分經文所指
-2. **一個運作的原則、規律**（無冠詞 *nomos*）——7:21「我覺得有個律」、7:23「肢體中另有個律」、7:25「我肉體卻順服罪的律」，這裏的「律」更接近「支配性的力量或模式」，而非摩西律法本身
+1. **摩西的律法**——7:1-14 大部分經文所指
+2. **一個運作的原則、規律**（7:21 的 *ton nomon* 有冠詞，冠詞不是區分詞義的開關）——7:21「我覺得有個律」、7:23「肢體中另有個律」、7:25「我肉體卻順服罪的律」，這裏的「律」更接近「支配性的力量或模式」，而非摩西律法本身
 3. **神的律／心裏所喜歡的律**（7:22）——指律法所啟示、與人裏面更新之心相合的旨意
 
 保羅正是靠這種一字多義的張力，把摩西律法的聖潔（第一種意思）與罪在人裏面運作的可怕規律（第二種意思）並置對照，逼出全章最尖銳的問題：問題不在律法，在那個被罪挾制的「我」。
@@ -162,10 +162,10 @@ publisher: 三書精讀出版系統
 
 | 讀法 | 主張 | 代表 |
 |---------------------------|---------------------------|---------------------------|
-| **重生後信徒的掙扎** | 這是保羅寫信當下、身為使徒仍在經歷的內心爭戰——正是因為越親近神、越活在聖靈中，才越敏銳地看見自己肉體的敗壞 | 奧古斯丁晚期立場、多數宗教改革家（路德、加爾文）、多數當代福音派釋經家 |
+| **重生後信徒的掙扎** | 這是保羅寫信當下、身為使徒仍在經歷的內心爭戰——正是因為越親近神、越活在聖靈中，才越敏銳地看見自己肉體的敗壞 | 奧古斯丁晚期立場、多數宗教改革家（路德、加爾文）、部分當代福音派釋經家 |
 | **未重生者／律法之下者的處境** | 這是描述人在單靠律法、尚未經歷聖靈更新之人的普遍光景，是為了襯托第8章「靠聖靈得勝」的對比 | 部分教父（如屈梭多模傾向此讀法）、部分當代學者 |
 
-兩種讀法都同意一件事：無論這段描述的是誰，答案都不在「我」自己裏面，而在7:25「感謝神！靠著我們的主耶穌基督」——這節經文，正是全章唯一無爭議的結論。7:24-25 的結構極不尋常：絕望的哀嘆（24節）之後，緊接著爆發出感恩的宣告（25節上），然後又回到一句冷靜、近乎沮喪的總結（25節下：「肉體卻順服罪的律了」）。這不是保羅忘了收尾、寫壞了邏輯——這正是基督徒真實生命的寫照：得救的確據與仍在掙扎的現實同時存在。8章的得勝道理要到下一章才展開，但福音的答案，此刻已經先破口而出。
+7:25 的感謝把盼望指向耶穌基督，但兩種讀法對25節下半的定位不同。信徒爭戰的讀法，把它視為得救確據與持續爭戰並存；律法之下者的讀法，則把它視為8:1-4展開釋放之前的總結。也有人把「我」理解為代表性發言。閱讀時應比較6:6、7:14、7:22與8:2-4，不因第一人稱或現在式便斷定發言者的身分，也不把其中一種解釋寫成各方共同結論。
 
 ---
 

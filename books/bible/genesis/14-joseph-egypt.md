@@ -41,9 +41,9 @@ publisher: 三書精讀出版系統
 
 #### 創世記39章（波提乏家與監獄）
 
-> ^1^約瑟被帶下埃及。有一個埃及人名叫波提乏，是法老的內臣，護衛長。他從帶約瑟下來的以實瑪利人手中把約瑟買去。^2^**耶和華與約瑟同在**，他就成為順利的人，住在他主人埃及人的家中。^3^他主人見耶和華與他同在，又見耶和華使他手裏所做的盡都順利⋯⋯
+> ^1^約瑟被帶下埃及。有一個埃及人名叫波提乏，是法老的內臣，護衛長。他從帶約瑟下來的以實瑪利人手中把約瑟買去。^2^**耶和華與約瑟同在**，他就成為順利的人，住在他主人埃及人的家中。^3^他主人見耶和華與他同在，又見耶和華使他手裏所辦的事都順利⋯⋯
 
-> ^7^這些事以後，約瑟主人的妻子向約瑟動情，說：「你與我同寢吧！」^8^約瑟不肯，對他主人的妻子說：「看哪，我主人把一切所有的都交在我手裏，在這家裏沒有比我大的⋯⋯^9^我怎能做這麼大的惡事，得罪神呢？」⋯⋯
+> ^7^這些事以後，約瑟主人的妻子向約瑟動情，說：「你與我同寢吧！」^8^約瑟不肯，對他主人的妻子說：「看哪，我主人把一切所有的都交在我手裏，在這家裏沒有比我大的⋯⋯^9^我怎能行這麼大的惡，得罪神呢？」⋯⋯
 
 > ^20^約瑟的主人把他下在監裏，就是王的囚犯被監禁的地方。於是約瑟在那裏坐監。^21^**但耶和華與約瑟同在**，向他施恩，使他在監獄長眼前蒙恩。
 
@@ -118,9 +118,9 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 卑微而後升高——神的同在，不是應許沒有苦難
+### 1. 神的同在，不是應許沒有苦難
 
-約瑟的路徑是：坑（被兄弟出賣）→ 奴僕（在波提乏家）→ 監牢（被誣告下獄）→ 王宮（法老親手高舉）。每一步的「下降」都不是意外，而是神所允許、且神仍與他同在的下降。腓立比書2:8-9描述基督：「既有人的樣子，就自己卑微，存心順服，以至於死……所以神將他升為至高，又賜給他那超乎萬名之上的名。」值得留意的是，「耶和華與約瑟同在」這句話，是在他作奴隸、被誣告、坐監的時候說的——不是在他功成名就之後才補充的註腳。神的同在從來不是「沒有苦難」的保證，而是「苦難中不孤單」的應許，正如以賽亞書43:2「你從水中經過，我必與你同在；你趟過江河，水必不漫過你」的先聲。今天我們若正走在「坑」或「監牢」的季節裏，約瑟的故事提醒我們：卑微不是升高的阻礙，是升高必經的路；神未曾應許繞過苦難，只應許不撇下。
+值得留意的是，「耶和華與約瑟同在」這句話（見上文〈基督焦點〉），是在他作奴隸、被誣告、坐監的時候說的——不是在他功成名就之後才補充的註腳。神的同在從來不是「沒有苦難」的保證，而是「苦難中不孤單」的應許，正如以賽亞書43:2「你從水中經過，我必與你同在；你趟過江河，水必不漫過你」的先聲。今天我們若正走在「坑」或「監牢」的季節裏，約瑟的故事提醒我們：卑微不是升高的阻礙，是升高必經的路；神未曾應許繞過苦難，只應許不撇下。
 
 ### 2. 瑪拿西與以法蓮——受苦之地開出的果子，不是苦毒
 
@@ -128,7 +128,7 @@ publisher: 三書精讀出版系統
 
 ### 3. 賜糧給萬民——生命的糧的預表
 
-約瑟解夢後對法老提出的不只是預言，更是具體方案：在七個豐年裏積蓄糧食，「積蓄的五穀，如同海邊的沙那樣多，無法計算，就不再計算了」（41:49）——在饑荒尚未來臨、甚至無人感覺需要之前，就已主動預備拯救。等饑荒真正臨到，「全地的人都往埃及去，到約瑟那裏糴糧，因為全地的饑荒非常嚴重」（41:57）——不只是以色列一家，是整個古代近東因饑荒而依賴約瑟存活的四鄰列國。這幅圖畫既是創世記12:3「地上的萬族都必因你得福」最早、最具體的一次歷史初步應驗，也直接指向耶穌在約翰福音6:35的宣告：「我就是生命的糧，到我這裏來的，必定不餓；信我的，永遠不渴。」約瑟手中的糧食能解決肉身的飢餓一時；基督自己是那生命的糧，解決的是萬民靈裏永遠的飢渴。
+約瑟解夢後對法老提出的不只是預言，更是具體方案：在七個豐年裏積蓄糧食，「積蓄的五穀，如同海邊的沙那樣多，無法計算，就不再計算了」（41:49）——在饑荒尚未來臨、甚至無人感覺需要之前，就已主動預備拯救。等饑荒真正臨到，「全地的人都往埃及去，到約瑟那裏糴糧，因為全地的饑荒非常嚴重」（41:57）——不只是以色列一家，是整個古代近東因饑荒而依賴約瑟存活的四鄰列國。這幅圖畫是創世記12:3「地上的萬族都必因你得福」最早、最具體的一次歷史初步應驗（見上文〈基督焦點〉論「生命的糧」）。約瑟手中的糧食能解決肉身的飢餓一時；基督自己是那生命的糧，解決的是萬民靈裏永遠的飢渴。
 
 ### 4. 法老的見證與所賜的權柄——預表清楚，卻非本體
 
@@ -157,20 +157,34 @@ publisher: 三書精讀出版系統
 
 摩根指出，約瑟從為奴、下監、到王庭，耶和華與他同在這件事實，先後被波提乏、監獄長、法老所承認：
 
-> "In slavery, in prison, at the court of the king, Jehovah was with His servant. The fact was recognized in turn by Potiphar, the chief keeper, and by Pharaoh... True godliness will manifest itself and it always commands respect."（無論在為奴之地、監獄之中，或君王的朝廷之上，耶和華都與祂的僕人同在。這事實先後被波提乏、監獄長、法老所承認……真實的敬虔必然彰顯自己，且必然贏得敬重。）
-> — G. Campbell Morgan, *Exposition of the Bible*，論創世記41章（sermonindex.net／摩根釋經專欄）
+> "In slavery, in prison, at the court of the king, Jehovah was with His servant. The fact was recognized in turn by Potiphar, the chief keeper, and by Pharaoh... True godliness will manifest itself and it always commands respect."
+>
+> 中譯：無論在為奴之地、監獄之中，或君王的朝廷之上，耶和華都與祂的僕人同在。這事實先後被波提乏、監獄長、法老所承認……真實的敬虔必然彰顯自己，且必然贏得敬重。
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記41章, https://www.studylight.org/commentaries/eng/gcm/genesis-41.html
 
-論創世記40章酒政與膳長的夢，摩根又說：「No study is more fascinating in the Divine Oracles or in human experience than the wonderful mosaic of the divine government. It would seem as though there are no forces or facts on which God does not lay His hand in quiet strength and majesty and make them tributary to the accomplishment of His purpose.」（中譯：「在聖言與人的經歷裏，再沒有一項研究比神奇妙的治理之『鑲嵌畫』更引人入勝的了。似乎沒有一股力量、一件事實，是神不曾以安靜的能力與威嚴親自掌管、使其成為成就祂旨意之工具的。」——G. Campbell Morgan, *Exposition of the Bible*，論創世記40章，sermonindex.net／摩根釋經專欄）
+論創世記40章酒政與膳長的夢，摩根又說：
+
+> "No study is more fascinating in the Divine Oracles or in human experience than the wonderful mosaic of the divine government. If it may be stated reverently, it 'would seem as though there are no forces or facts on which God does not lay His hand in quiet strength and majesty and make them tributary to the accomplishment of His purpose.'"
+>
+> 中譯：在聖言與人的經歷裏，再沒有一項研究比神奇妙的治理之『鑲嵌畫』更引人入勝的了。若可以用敬畏的心這樣說，似乎沒有一股力量、一件事實，是神不曾以安靜的能力與威嚴親自掌管、使其成為成就祂旨意之工具的。
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記40章, https://www.studylight.org/commentaries/eng/gcm/genesis-40.html
 
 約瑟在監牢裏那看似被浪費的兩年，正是這幅「鑲嵌畫」裏最不起眼、卻不可或缺的一塊：解夢的恩賜、對埃及行政的敏銳、與獄卒和囚犯打交道所磨出來的智慧，沒有一樣是在法老面前臨時學會的——全是在最黑暗、最不起眼的監獄歲月裏，一點一滴被神預備出來的。摩根式的觀察也提醒我們：約瑟從監牢到寶座的躍升，並非單純的個人際遇翻轉，而是神藉著一個人的受苦與高舉，為「全地」（41:57）預備了存活的出路——這與後來以色列全會眾靠著摩西出埃及、靠著大衛得享太平、最終靠著基督得贖的模式一脈相承：神拯救萬民的作為，總是先透過「一個人」的道路展開。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟指出，約瑟被誣告下監的處境看似極其不公，卻正是神的安排：「He's doing what is right. His circumstances seem completely unfair, but God, by the evil deeds of others, which God does not condone, has Joseph exactly where He wants him.」（中譯：「他做的是對的事。他的處境看似極其不公，但神——藉著祂並不縱容的、別人的惡行——已經把約瑟安放在祂正要他在的地方。」——John MacArthur, *Joseph: Because God Meant It for Good*，Grace to You 講道，2012年4月29日）
+麥克阿瑟指出，約瑟被誣告下監的處境看似極其不公，卻正是神的安排：
+
+> "He's doing what is right. His circumstances seem completely unfair, but God, by the evil deeds of others, which God does not condone, has Joseph exactly where He wants him."
+>
+> 中譯：他做的是對的事。他的處境看似極其不公，但神——藉著祂並不縱容的、別人的惡行——已經把約瑟安放在祂正要他在的地方。
+> — John MacArthur, *Joseph: Because God Meant It for Good*，講道編號 80-388，2012年4月29日，gty.org
 
 麥克阿瑟又在同一篇講道裏總結神的護理與人的惡行如何並存：
 
-> "The Lord doesn't do evil. The Lord doesn't condone evil. The Lord isn't in the evil, but the Lord uses the evil... Whatever people intend, God orders it, for His own children, for good."（主不做惡，主不縱容惡，主也不在那惡之中；但主使用那惡……無論人存的是甚麼意念，神都為了祂自己的兒女，把它調度成為益處。）
+> "The Lord doesn't do evil. The Lord doesn't condone evil. The Lord isn't in the evil, but the Lord uses the evil... Whatever people intend, God orders it, for His own children, for good."
+>
+> 中譯：主不做惡，主不縱容惡，主也不在那惡之中；但主使用那惡……無論人存的是甚麼意念，神都為了祂自己的兒女，把它調度成為益處。
 > — John MacArthur, *Joseph: Because God Meant It for Good*（Grace to You 講道，2012年4月29日），gty.org/library/sermons-library/80-388
 
 約瑟拒絕波提乏妻子的試探，是在完全沒有人監督、極可能永遠不會被發現的處境下做出的抉擇——他選擇的評判標準不是「會不會被抓到」，而是「我怎能得罪神」（39:9）。這是聖經對整全人格最嚴格的檢驗：一個人在暗處如何行事，遠比他在人前如何表現更能顯明他真正是誰。同時必須守住一條界線：約瑟所拯救的，是肉身於一場寫明終點的饑荒（41:30起，七年有限期），他所賜的糧食終究會吃完；而基督所拯救的，是靈裏永遠的死亡，祂所賜的糧「吃了就永遠不餓」（約6:35），是無限期、無終點的救贖。約瑟預表拯救的形狀（受苦在先、高舉在後、拯救萬民在後），卻不擁有拯救的本質——把約瑟直接等同於基督，會使這幅預表失真；但完全不看見這幅預表，又會錯過創世記41章最深的信息：神在歷史裏，一次又一次地演練著祂終將透過祂兒子完成的那件事。
@@ -204,9 +218,9 @@ publisher: 三書精讀出版系統
 
 ### 全經連線 (Tracing It Through Scripture)
 
-**卑微—升高的線索**：約瑟的一生是清楚的「卑微—升高」路線：37章他被兄弟出賣下坑，到39-41章「人用腳鐐傷他的腳；他被鐵鍊捆拘」（詩105:18），直到41:41-43法老親手把戒指戴在他手上。詩篇105:17-22回顧這段歷史時特別強調：「直到他所說的應驗了，耶和華的話試煉他」——受苦不是意外，是神精心設計、有終點的試煉。腓立比書2:8-9把這模式提升到救恩史的頂點：「他自己卑微，存心順服，以至於死，且死在十字架上。所以神將他升為至高，又賜給他那超乎萬名之上的名。」羅馬書8:17再把應許擴展到每一個信徒：「如果我們和他一同受苦，也必和他一同得榮耀。」
+**卑微—升高的線索**：約瑟的一生是清楚的「卑微—升高」路線：37章他被兄弟出賣下坑，到39-41章「人用腳鐐傷他的腳；他被鐵鍊捆拘」（詩105:18），直到41:41-43法老親手把戒指戴在他手上——這模式在腓立比書2:8-9提升到救恩史的頂點（見上文〈基督焦點〉）。羅馬書8:17再把應許擴展到每一個信徒：「如果我們和他一同受苦，也必和他一同得榮耀。」
 
-**糧食的線索**：創世記41:57「全地的人都往埃及去，到約瑟那裏糴糧」，是約瑟一人的豐富成為萬民肉身存活的唯一依靠。約翰福音6:35「我就是生命的糧，到我這裏來的，必定不餓」，把這預表提升到永恆的層次。馬太福音28:19的大使命，正是差遣這「生命的糧」被帶往「全地」，如同約瑟的糧倉曾向四鄰列國敞開；這條線索最終在啟示錄7:9找到它的終點畫面：「見有許多的人，沒有人能數過來，是從各國、各族、各民、各方來的，站在寶座和羔羊面前」——約瑟糧倉前「全地的人」所排成的隊伍，是這幅萬國萬民聚集在羔羊面前的終極異象，最早、最具體的歷史初影。
+**糧食的線索**：創世記41:57「全地的人都往埃及去，到約瑟那裏糴糧」，是約瑟一人的豐富成為萬民肉身存活的唯一依靠，也是約翰福音6:35「生命的糧」最早的歷史預演（見上文〈基督焦點〉）。馬太福音28:19的大使命，正是差遣這「生命的糧」被帶往「全地」，如同約瑟的糧倉曾向四鄰列國敞開；這條線索最終在啟示錄7:9找到它的終點畫面：「見有許多的人，沒有人能數過來，是從各國、各族、各民、各方來的，站在寶座和羔羊面前」——約瑟糧倉前「全地的人」所排成的隊伍，是這幅萬國萬民聚集在羔羊面前的終極異象，最早、最具體的歷史初影。
 
 ### 提問式對話 (Let the Reader Speak)
 
@@ -262,4 +276,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

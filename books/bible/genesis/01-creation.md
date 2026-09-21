@@ -179,22 +179,30 @@ publisher: 三書精讀出版系統
 
 摩根解釋創世記1:1如何應驗希伯來書11:3「所看見的並非從顯現之物造出來的」，指出神藉靈與道並行的活動使地「重生」：
 
-> "With the words 'The Spirit of God moved upon the face of the waters' begins the story of reconstruction... The earth was born again by the Spirit and the Word."（「神的靈運行在水面上」這句話，開啟了重建的故事……地藉著靈與道「重生」了。）
+> "With the words 'The Spirit of God moved upon the face of the waters' begins the story of reconstruction... The earth was born again by the Spirit and the Word."
+>
+> 中譯：「神的靈運行在水面上」這句話，開啟了重建的故事……地藉著靈與道「重生」了。
 > — G. Campbell Morgan, *The Analyzed Bible*, Vol. 1 (1907)，論創世記1:1, https://archive.org/details/analyzedbible01morg
 
 論到人在受造界中獨特的地位，摩根又說：
 
-> "This being, at once related to the material universe, and yet kin of God, was placed at the centre of creation, to govern it in co-operation with God."（這個存有，一方面與物質宇宙相連，另一方面又是神的親屬，被安置在受造界的中心，與神同工、治理萬有。）
+> "This being, at once related to the material universe, and yet kin of God, was placed at the centre of creation, to govern it in co-operation with God."
+>
+> 中譯：這個存有，一方面與物質宇宙相連，另一方面又是神的親屬，被安置在受造界的中心，與神同工、治理萬有。
 > — 同上
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "In the beginning, God created the heavens and the earth. That is not an ambiguous statement... In six 24-hour days, God created everything that exists. It is so simple and so clear."（「起初，神創造天地。」這不是一句含糊的陳述……神在六個24小時的日子裏，創造了存在的一切。這是如此簡單、如此清楚。）
+> "In the beginning, God created the heavens and the earth. That is not an ambiguous statement... In six 24-hour days, God created everything that exists. It is so simple and so clear and so unmistakable that even a small child can understand Genesis 1."
+>
+> 中譯：「起初，神創造天地。」這不是一句含糊的陳述……神在六個24小時的日子裏，創造了存在的一切。這是如此簡單、如此清楚、如此明確，連小孩子都能明白創世記第一章。
 > — John MacArthur, "The Theology of Creation" (gty.org 講道 90-359，2008年8月24日), https://www.gty.org/library/sermons-library/90-359/the-theology-of-creation
 
 麥克阿瑟指出，創世記首十一章記載了人類經驗中為數眾多的「第一次」——宇宙與時空的起源、婚姻、家庭、墮落、罪、審判、恩典中的救贖，都在此第一次出現在聖經敘事裏（此處為筆者根據麥克阿瑟創世記導論教導要點的歸納整理，並非逐字引文）。在文章〈創造：信，或不信〉裏，他一句話點破自然主義的荒謬：
 
-> "It is hard to imagine anything more absurd than the naturalist's formula for the origin of the universe: Nobody times nothing equals everything."（很難想像還有甚麼比自然主義者對宇宙起源的公式更荒謬的了：沒有人乘以沒有東西等於一切。）
+> "It is hard to imagine anything more absurd than the naturalist's formula for the origin of the universe: Nobody times nothing equals everything."
+>
+> 中譯：很難想像還有甚麼比自然主義者對宇宙起源的公式更荒謬的了：沒有人乘以沒有東西等於一切。
 > — John MacArthur, "Creation: Believe It or Not," gty.org, https://www.gty.org/articles/A365/creation-believe-it-or-not
 
 ---
@@ -203,7 +211,7 @@ publisher: 三書精讀出版系統
 
 ### 詩篇 8:3-6
 
-> 我觀看你指頭所造的天，並你所陳設的月亮星宿，便說：人算甚麼，你竟顧念他？世人算甚麼，你竟眷顧他？你叫他比天使微小一點，並賜他榮耀尊貴為冠冕。你派他管理你手所造的，使萬物⋯⋯都服在他的腳下。
+> 我觀看你手指所造的天，並你所陳設的月亮星宿。人算甚麼，你竟顧念他！世人算甚麼，你竟眷顧他！你使他比神微小一點，賜他榮耀尊貴為冠冕。你派他管理你手所造的，使萬物⋯⋯都服在他的腳下。
 
 > When I look at your heavens, the work of your fingers, the moon and the stars, which you have set in place, what is man that you are mindful of him? Yet you have made him a little lower than the heavenly beings and crowned him with glory and honor. You have given him dominion over the works of your hands.
 
@@ -213,7 +221,7 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：創世記第一章不是一堂科學課，是一首「道」的凱歌——那位「說」就成就萬有的，正是後來「道成了肉身，住在我們中間」的那一位；六日的次序、光在光源之先、神的形像託付給人、第七日的安息，沒有一處不是指着基督說的。
+**精義一句話**：創世記第一章不是一堂科學課，是一首「道」的凱歌——那位「說」就成就萬有的，正是後來「道成了肉身，住在我們中間」的那一位（見上文〈基督焦點〉）。
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -273,4 +281,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

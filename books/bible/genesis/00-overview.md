@@ -83,30 +83,13 @@ publisher: 三書精讀出版系統
 
 ## 揀選次序的貫穿母題 (The Election-Order Motif)
 
-創世記反覆呈現同一條母題：神的揀選一再繞過人所看重的長子名分與自然出生次序，由頭到尾一氣呵成：
-
-- 亞伯而非該隱蒙悅納（4章）
-- 塞特一系而非該隱一系承接應許（4-5章）
-- 閃一系而非列在先的兄弟承接應許（10-11章）
-- 以撒而非以實瑪利承受應許（詳見本系列第06、09章）
-- 雅各而非以掃承受長子的福分（詳見本系列第10章）
-- 約瑟而非眾兄長被神興起（詳見本系列第13-15章）
-- 猶大得著王權的杖，而非長子流便的名分（詳見本系列第16章）
-
-這條母題向前指向羅馬書9章（「雙子還沒有生下來，善惡還沒有做出來……只因要顯明神揀選人的旨意，不在乎人的行為，乃在乎召人的主」）與哥林多前書1:27-29（神揀選世上愚拙的、軟弱的、卑賤的、被人厭惡的，為要使一切有血氣的，在神面前一個也不能自誇）。創世記早已一再示範：揀選的次序從不按人的資格排定。
+創世記反覆呈現同一條母題：神的揀選一再繞過人所看重的長子名分與自然出生次序——亞伯而非該隱、塞特而非該隱一系、以撒而非以實瑪利、雅各而非以掃、猶大而非流便——這條「收窄的漏斗」如何一路走到猶大的圭，以及它與羅馬書9章、哥林多前書1:27-29的關聯，見卷首〈啟示的次序與神的計劃〉（00a-revelation-order.md）第一節。
 
 ---
 
 ## 創世記中的基督 (Christ in Genesis)
 
-| 預表/預言 | 經文 | 應驗 |
-|-----------|------|------|
-| 女人的後裔 | 3:15 | 基督勝過撒但 (啟 12:9) |
-| 挪亞方舟 | 6-8 | 基督是救恩的方舟 (彼前 3:20-21) |
-| 麥基洗德 | 14:18-20 | 基督永遠的祭司 (來 7) |
-| 以撒獻祭 | 22 | 神的獨生子 (約 3:16) |
-| 雅各的梯子 | 28:12 | 基督是天地之間的道路 (約 1:51) |
-| 猶大的杖 | 49:10 | 基督是猶大獅子 (啟 5:5) |
+創世記幾乎每一章都留下指向基督的線索——女人的後裔（3:15）、挪亞方舟（6-8）、麥基洗德（14章）、以撒獻祭（22章）、雅各的梯子（28:12）、猶大的杖（49:10），只是六個最鮮明的例子。全書逐章展開的預表，完整總表見附錄五〈創世記基督預表總表〉（99e-appendix-christ-typology-index.md）。
 
 ---
 
@@ -258,7 +241,7 @@ publisher: 三書精讀出版系統
 
 ### 主要參考
 
-1. **黃長老查經班** — 週四查經教導
+1. **老弟兄查經班** — 週四查經教導
 2. **John MacArthur** — *MacArthur Study Bible*〈創世記引言〉：「創世記引介了摩西五經（舊約首五卷）與整本聖經……創世記在聖經中的影響力，見於新約直接引用達35次以上，加上兩約中數百處的呼應」；「始於創世記3章的救恩故事線，直到啟示錄21-22章描繪蒙救贖之人永遠的國度，才告完成」。全書「按內容分為兩大部分：（1）太初歷史（1-11章）」，含創造、墮落、洪水、分散四大事件；「（2）族長歷史（12-50章）」，聚焦亞伯拉罕、以撒、雅各、約瑟四位人物。（引自 Blue Letter Bible 轉載之 MacArthur Study Bible 創世記引言：blueletterbible.org/Comm/macarthur_john/bible-introductions/genesis-intro.cfm；另參 gty.org 講道系列 *The Battle for the Beginning*〔創1章〕與 *Genesis of the Gospel*〔創3章〕）
 3. **G. Campbell Morgan** — *The Analyzed Bible*；另見 *Living Messages of the Books of the Bible* (1912)〈創世記〉篇：Morgan將全書分為三大段——「創生、墮落、更新」(Generation, Degeneration, Regeneration)，並指出：「本書所宣告之首要真理，即神與人之間直接的關係」（"This book of first things declares the immediate relation between God and man"），又論人得生命之道在乎「信靠神，並以順服表達出來」（原文：*the great principle for the realization of human life is such faith in God as expresses itself in obedience*）。（原文全本見 archive.org: archive.org/details/livingmessagesof01morgiala）
 4. **Derek Kidner** — *Genesis (Tyndale OT Commentaries)*
@@ -280,7 +263,7 @@ publisher: 三書精讀出版系統
 |------|------|------|
 | 1 | 禱告預備 | 以當日配詩開始 |
 | 2 | 經文朗讀 | 中英對照 (RCUV + NASB) |
-| 3 | 三方資源 | 黃長老 + MacArthur + Morgan |
+| 3 | 三方資源 | 老弟兄 + MacArthur + Morgan |
 | 4 | 筆記記錄 | 使用標準模板 |
 | 5 | 聖詩回應 | 唱誦或默想配詩 |
 

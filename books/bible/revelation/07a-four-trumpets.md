@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七號審判的前四號——三分之一的節制顯明審判中仍有神的憐憫，「保守」的原則延續到號筒的審判裏。
+
 天上的寂靜結束了，七枝號依次吹響。前四號的審判擊打自然界——地、海、江河泉源、日月星辰，各遭三分之一的損害——這幅圖畫深深回響著出埃及記中神藉十災審判埃及、拯救以色列的敘事。羔羊揭開的書卷，如今透過號角的宣告，把審判的火從祭壇（8:5）延伸到全地。這不是失控的天災，而是那位配得書卷的羔羊，藉著受造界本身，向悖逆的世界發出警告——目的不是毀滅到底，而是留下悔改的空間，正如埃及的十災每一次都在給法老悔改的機會。
 
 ---
@@ -134,8 +136,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -153,13 +156,27 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 8
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，四支號筒的每一擊都是神向那忽視祂寶座與權能之人說話：
+
+> "Through all these movements God is seen speaking to men of His throne and His power, which they have ignored. They all describe the operations of punitive judgment."
+>
+> 中譯：在這一切變動之中，神向那些一直忽視祂寶座與權能的人說話。這些都在描述懲罰性審判的運作。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄8章, https://www.studylight.org/commentaries/eng/gcm/revelation-8.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，這些審判與埃及十災的相似之處絕非巧合——神再一次向全地施行審判，為要顯明祂的主權，也為要在審判中留下憐憫與呼召悔改的空間。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟提醒，這些審判從來不是神突然的襲擊，而是早已反覆警告過的結局：
+
+> "These are not things that God has intended to surprise people with. After all, there it is, right? Over and over and over the warning is there."
+>
+> 中譯：這些事並不是神打算用來使人措手不及的。畢竟，警告一直都在那裏，不是嗎？一次又一次、再一次，警告都在那裏。（66-32）
+> — John MacArthur, "Divine Destruction of Earth's Ecology" (gty.org, sermon 66-32), https://www.gty.org/sermons/66-32/divine-destruction-of-earths-ecology
 
 **羅伯特·孟斯 (Robert Mounce)**：
 

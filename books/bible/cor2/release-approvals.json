@@ -1,0 +1,353 @@
+{
+  "edition": "CONSOLIDATED 2026 EDITION",
+  "rights": [
+    {
+      "id": "source-1",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "source-2",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "source-3",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "source-4",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "source-5",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "source-6",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "source-7",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "source-8",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-01",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-02",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-03",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-04",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-05",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-06",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-07",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-08",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-09",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-10",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-11",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-12",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-13",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-14",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-15",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-16",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-17",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-18",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-19",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-20",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-21",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-22",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-23",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    },
+    {
+      "id": "hymn-24",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": ""
+    }
+  ],
+  "reviews": [
+    {
+      "id": "chinese-scripture",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    },
+    {
+      "id": "english-scripture",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    },
+    {
+      "id": "greek",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    },
+    {
+      "id": "theology",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    },
+    {
+      "id": "copyedit",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    },
+    {
+      "id": "appendices",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    },
+    {
+      "id": "visual-proof",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    },
+    {
+      "id": "accessibility",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    },
+    {
+      "id": "rights-review",
+      "status": "PENDING",
+      "reviewer": "",
+      "date": "",
+      "evidence": "",
+      "evidence_sha256": "",
+      "pdf_sha256": "",
+      "epub_sha256": ""
+    }
+  ]
+}

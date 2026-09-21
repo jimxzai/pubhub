@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：兩個見證人被殺又復活升天，是「審判與保守」這一步進入尾聲前教會見證最集中的縮影，苦難與得勝並存；第七號一吹（下一段），這一步才真正完結。
+
 兩個見證人的故事，是啟示錄中最戲劇化的一幕：他們傳道、受逼迫、被殺、暴屍街頭、又復活升天——整個過程濃縮了教會歷史的完整弧線。但焦點不在這兩位見證人本身，而在他們所見證的那一位。他們「穿著毛衣」傳道，正如以利亞與施洗約翰的裝束；他們的死而復活，正是主自己死而復活的縮影；他們升天時「駕著雲」，正呼應主耶穌自己「駕雲降臨」的應許（1:7）。這段經文告訴我們：教會的見證之所以有能力、之所以最終得勝，不是因為見證人本身有多剛強，而是因為他們所指向、所效法的那一位，早已親自走過死亡又得勝死亡的道路。
 
 ---
@@ -123,8 +125,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -148,13 +151,27 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 11
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，兩位見證人終必復活，神藉他們讓真理的超自然事工與邪靈權勢的超自然影響正面對照：
+
+> "Ultimately, the witnesses are raised from the dead and taken into the heavenly places. Through them God sets the supernatural ministry of truth over against the supernatural influences of demon power and worship."
+>
+> 中譯：最終，這兩位見證人從死裏復活，被接到天上的所在。神藉著他們，使真理的超自然事工，與邪靈權勢及其崇拜的超自然影響正面對照。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄11章, https://www.studylight.org/commentaries/eng/gcm/revelation-11.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟認為，兩個見證人的故事是整本啟示錄中最鼓舞人心的一幕之一：它向每一個世代的信徒證明，看似最終的失敗——甚至死亡——都不是神計劃的終點；神的見證人可能被壓制、被殺害，但永遠不會被最終擊敗。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟在講到兩位見證人的死亡之後，特別停下來說他多麼喜愛接下來要看見的復活場景：
+
+> "So we see their task, their attitude, their identity, their power, and their death. Now I want you to see their resurrection. I love this."
+>
+> 中譯：於是我們看見了他們的任務、他們的態度、他們的身分、他們的能力，以及他們的死亡。現在我要你們看他們的復活。我太喜歡這一段了。（66-38）
+> — John MacArthur, "Two Witnesses, Part 3" (gty.org, sermon 66-38), https://www.gty.org/sermons/66-38/two-witnesses-part-3
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十四章 · 經歷許多艱難 (Through Many Tribulations)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^二人在以哥念同進猶太人的會堂，在那裏講的叫猶太人和希臘人信的很多。
 
@@ -53,7 +53,7 @@ publisher: 三書精讀出版系統
 
 > ^27^到了那裏，聚集了會眾，就述說神藉他們所行的一切事，並神怎樣為外邦人開了信道的門。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^8^At Lystra a man was sitting who had no strength in his feet, lame from his mother's womb, who had never walked. ^9^This man was listening to Paul as he spoke, who, when he had fixed his gaze on him and had seen that he had faith to be made well, ^10^said with a loud voice, "Stand upright on your feet." And he leaped up and *began* to walk. ^11^When the crowds saw what Paul had done, they raised their voice, saying in the Lycaonian language, "The gods have become like men and have come down to us." ^12^And they *began* calling Barnabas, Zeus, and Paul, Hermes, because he was the chief speaker. ^13^The priest of Zeus, whose *temple* was just outside the city, brought oxen and garlands to the gates, and wanted to offer sacrifice with the crowds. ^14^But when the apostles Barnabas and Paul heard of it, they tore their robes and rushed out into the crowd, crying out ^15^and saying, "Men, why are you doing these things? We are also men of the same nature as you, and preach the gospel to you that you should turn from these vain things to a living God, WHO MADE THE HEAVEN AND THE EARTH AND THE SEA AND ALL THAT IS IN THEM.
 
@@ -301,4 +301,3 @@ publisher: 三書精讀出版系統
 | 必須經歷許多艱難 | 14:22 | 約16:33、羅8:17-18、提後3:12、啟7:14 |
 | 選立長老 | 14:23 | 徒20:17-28、多1:5 |
 | 為外邦人開了信道的門 | 14:27 | 徒10:44-48、11:18、林前16:9、啟3:8 |
-

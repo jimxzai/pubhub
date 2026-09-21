@@ -1,20 +1,29 @@
 ---
-title: 馬太福音研讀
+title: 馬太福音研讀 — 天國之王
 subtitle: Gospel of Matthew Deep Study
 author: PubHub 三書精讀系統
-date: 2025年12月
+date: 2026年8月
 publisher: 三書精讀出版系統
+edition: 2026 整編版
+updated: 2026-09-20
+language: "zh-Hant (primary); en excerpts vary"
+rights: See COPYRIGHT.md
+source: SOURCE_PDF_AUDIT.md
+status: editorial-draft
+scripture_policy: pending-clearance
 ---
 
 # 馬太福音概覽 (Gospel of Matthew Overview)
 
+> **版本說明：馬太福音研讀 — 天國之王 — Gospel of Matthew Deep Study — 2026 整編版。** 各章已標示完整經文或節選經文；完整出版前，所有引文、二手資料與聖詩仍須完成版權清關與逐節校對。詳見 [COPYRIGHT.md](COPYRIGHT.md)、[SOURCES.md](SOURCES.md) 與 [EDITORIAL_QA.md](EDITORIAL_QA.md)。
+
 ## 書卷簡介
 
-**作者**：使徒馬太/利未 (The Apostle Matthew/Levi)
-**寫作日期**：約主後 50-70 年（MacArthur認為可能早至主後50年，聖殿被毀前）
+**作者**：教會傳統歸於使徒馬太／利未；現代研究對作者問題有不同立場
+**寫作日期**：常見約主後 50–90 年；不同研究傳統的日期判斷不一
 **寫作地點**：可能在巴勒斯坦或敘利亞安提阿
 **主題**：耶穌是以色列的彌賽亞君王
-**讀者**：主要為猶太基督徒（從猶太教歸信者）
+**讀者**：常被理解為具有猶太背景的基督徒群體；讀者構成仍有學術討論
 
 ### MacArthur 論馬太福音
 
@@ -214,7 +223,7 @@ Morgan強調馬太福音「不是按時間順序，而是按主題系統編排�
 
 ### 「天國」獨特用語 (Kingdom of Heaven)
 
-馬太獨有「天國」(*basileia tōn ouranōn*) 一詞，出現32次。其他福音書用「神國」。
+馬太特別常用「天國」(*basileia tōn ouranōn*)；其他福音書通常使用「神的國」或相近表達。馬太自己也使用「神的國」，因此兩者不可簡化為絕對不同的兩個概念。
 
 **MacArthur解釋**：馬太顧及猶太讀者對神名的敬畏，以「天」代替「神」，但意義相同。
 
@@ -249,7 +258,7 @@ Morgan強調馬太福音「不是按時間順序，而是按主題系統編排�
 | 步驟 | 內容 | 說明 |
 |------|------|------|
 | 1 | 禱告預備 | 以當日配詩開始 |
-| 2 | 經文朗讀 | 中英對照 (RCUV + ESV) |
+| 2 | 經文朗讀 | 按各章標示閱讀完整或節選經文；RCUV/ESV 雙語內容須以權利清單為準 |
 | 3 | 三方資源 | 黃長老 + MacArthur + Carson |
 | 4 | 筆記記錄 | 使用標準模板 |
 | 5 | 聖詩回應 | 唱誦或默想配詩 |
@@ -264,4 +273,4 @@ Morgan強調馬太福音「不是按時間順序，而是按主題系統編排�
 
 ---
 
-*三書精讀項目 · 馬太福音研讀 · 2025*
+*三書精讀項目 · 馬太福音研讀 — 天國之王 · 2026 整編版*

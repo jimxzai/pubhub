@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：龍的第二個爪牙——從地中上來的獸，以宗教與經濟的手段逼人敬拜第一個獸，「爭戰」延伸到人心與日常生活的抉擇。
+
 從海中上來的獸有王冠、有寶座、有權柄，一望而知是仿冒的君王；但從地中上來的這一個，樣子卻溫馴——「有兩角如同羊羔」。牠不篡奪寶座，牠只做一件事：把所有目光引向前一個獸，叫全地拜牠。這正是啟示錄最鋒利的警告：最危險的仇敵，往往不是張牙舞爪地與羔羊為敵，而是披著羔羊的樣式、說著龍的話語，把敬拜從真羔羊身上偷走。約翰在此讓我們看見，唯有那位真正被殺又真活著的羔羊，才配受敬拜；一切仿冒者，無論裝扮得多麼溫馴、多麼有能力行奇事，終究只是指向自己而非指向神的空殼。
 
 ---
@@ -120,8 +122,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -138,6 +141,24 @@ publisher: 三書精讀出版系統
 在其百篇啟示錄講道集中，布靈格將地中的獸解讀為披著宗教外衣、卻服事屬世權勢的假教導體系——牠的角「如同羊羔」，正說明牠慣於借用信仰的語言與外貌，來為悖逆真道的體系背書；他提醒讀者，教會歷史一再證明，最危險的迷惑往往來自教會內部披戴著敬虔外衣的聲音，而非教會外顯而易見的敵對者。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon on Revelation 13
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，模仿正是撒但迷惑世人最危險的手段——牠最終要做的，是仿冒神所立那位受膏之王：
+
+> "Imitations have ever formed the gravest perils in the history of the Church and the world, and the devil's final attempt to gain the government of the race will thus be an appalling attempt to imitate the Person of God's crowned and anointed King."
+>
+> 中譯：仿冒歷來都是教會與世界歷史上最嚴重的危機，而魔鬼奪取人類治權的最終嘗試，將是一場駭人的企圖——仿冒神所立、受膏加冕之王的位格。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄13章, https://www.studylight.org/commentaries/eng/gcm/revelation-13.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論假先知使獸像說話、彷彿死而復活的騙術，他在講道中說：
+
+> "I believe what you have here is a carefully crafted resurrection, a fake resurrection, pulled off with tremendous human ingenuity and satanic skill. Not only – listen carefully – not only to imitate the Lord's resurrection, but to imitate the resurrection back in chapter 11."
+>
+> 中譯：我相信這裏所呈現的，是一場精心設計的復活——一場假的復活，靠著人的高度智巧與撒但的手段而成就。不僅如此——請仔細聽——不僅是要仿冒主的復活，也是要仿冒第十一章那裏的復活。（sermon 66-47）
+> — John MacArthur, "The Final False Prophet, Part 1" (gty.org, sermon 66-47), https://www.gty.org/sermons/66-47/the-final-false-prophet-part-1
 
 ### 當代釋經
 

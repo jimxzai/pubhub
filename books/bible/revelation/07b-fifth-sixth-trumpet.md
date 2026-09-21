@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：第五、六號的蝗蟲與馬軍——第六號的馬軍奪去三分之一人的性命，人心仍不悔改，「審判與保守」這一步在此顯出人性的頑梗如何回應神的憐憫。
+
 空中飛鷹的三重「禍哉」在這一章開始應驗。前四號擊打自然界，第五、六號卻直接轉向人——先是無底坑放出的蝗蟲軍團，折磨沒有神印記的人五個月；接著是二億騎兵，殺死三分之一的人類。這一章的意象極其恐怖，卻在末了留下全書最沉痛的一句話：「其餘未曾被這些災所殺的人仍不悔改。」羔羊容許這樣劇烈的審判展開，不是因為祂殘忍，而正是因為祂深知：連地獄般的痛苦，都無法憑自身力量軟化一顆堅硬到底的人心——唯有恩典才能。
 
 ---
@@ -131,8 +133,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -150,13 +153,27 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 9
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，這一章結束時最可怕的宣告，不是死亡的浩劫本身，而是浩劫過後人心依然不悔改：
+
+> "Notwithstanding the awful dispensation of death, men unsmitten will not repent, but will continue in the same demon worship, with its consequent sins of murder, sorcery, and fornication."
+>
+> 中譯：儘管有這可怕的死亡浩劫，未被擊打的人仍不悔改，反倒繼續同樣的拜鬼行為，並隨之而來的兇殺、邪術與淫亂之罪。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄9章, https://www.studylight.org/commentaries/eng/gcm/revelation-9.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，這一章最令人心碎的，不是蝗蟲或馬軍的恐怖描繪，而是最後兩節經文：即使親眼目睹三分之一人類死亡的浩劫，倖存者依然拒絕悔改——這是罪如何徹底蒙蔽人心的最有力見證。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟講到倖存的三分之二人類仍不肯悔改時，直言這是人心剛硬到令人難以想像的地步：
+
+> "But there's still a mass of humanity that will not believe. It's amazing the hardness of heart."
+>
+> 中譯：但仍有一大群人類不肯相信。人心的剛硬令人驚訝。（66-34）
+> — John MacArthur, "Satanic Slaughter" (gty.org, sermon 66-34), https://www.gty.org/sermons/66-34/satanic-slaughter
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 

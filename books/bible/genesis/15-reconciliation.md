@@ -105,9 +105,9 @@ publisher: 三書精讀出版系統
 
 ## 領受要點 (Truths Received)
 
-### 1. 「神差我在你們以先來」——45:5-8的種子，50:20的全開，各各他的成熟
+### 1. 「神差我在你們以先來」——45:5-8的種子，50:20的全開
 
-45:5-8約瑟三次說「神差我」，這句話不是43-44章試探之後臨時想出的屬靈修辭，而是他二十年來在埃及低谷中反覆咀嚼出來的信念。這粒種子要到50:20才完全開花：「你們的意思是要害我，但神的意思原是好的，為要成就今日的光景，使許多人的性命得以保全。」而這條線索的終極成熟，是使徒行傳2:23彼得對著剛剛殺害耶穌的群眾所說的：「他既按著神的定旨先見被交與人，你們就藉著無法之人的手，把他釘在十字架上殺了」，以及4:27-28「希律和本丟彼拉多，外邦人和以色列民，果然在這城裏聚集，要攻打你所膏的聖僕耶穌，成就你手和你意旨所預定必有的事」。約瑟的故事教我們讀懂十字架的邏輯：人的惡意是真實的惡意，神的旨意是真實的旨意，兩者不是各佔一半，而是神的旨意完全透過人的惡意成就——弟兄的出賣沒有絲毫減輕，神的良善也沒有絲毫打折。
+45:5-8約瑟三次說「神差我」（見上文〈基督焦點〉），這句話不是43-44章試探之後臨時想出的屬靈修辭，而是他二十年來在埃及低谷中反覆咀嚼出來的信念。這粒種子要到50:20才完全開花：「你們的意思是要害我，但神的意思原是好的，為要成就今日的光景，使許多人的性命得以保全。」約瑟的故事教我們讀懂十字架的邏輯：人的惡意是真實的惡意，神的旨意是真實的旨意，兩者不是各佔一半，而是神的旨意完全透過人的惡意成就——弟兄的出賣沒有絲毫減輕，神的良善也沒有絲毫打折。
 
 ### 2. 復和的職分——哥林多後書5:18-19的舊約預演
 
@@ -142,22 +142,35 @@ publisher: 三書精讀出版系統
 
 摩根一向留意敘事中「轉捩的瞬間」，而創世記45:3「我是約瑟」正是整卷約瑟故事、甚至整卷創世記結尾部分最關鍵的轉捩點。直到這一句話說出口之前，所有的試探、眼淚、銀杯的計謀都只是鋪陳；這句話一出，敘事的重心立刻從「約瑟是否要報復」轉為「約瑟如何施恩」。摩根在《The Analyzed Bible: Genesis》論約瑟一段開宗明義寫道：
 
-> "The history of Joseph shows how God overruled all the failure of man for the ultimate good of man."（約瑟的歷史顯明，神如何在人一切的失敗之上掌權，成就人終極的益處。）
+> "The history of Joseph shows how God overruled all the failure of man for the ultimate good of man."
+>
+> 中譯：約瑟的歷史顯明，神如何在人一切的失敗之上掌權，成就人終極的益處。
 > — G. Campbell Morgan, *The Analyzed Bible: Genesis*（〈約瑟〉段落總論，archive.org 藏本）
 
-他又形容約瑟「exiled from his father's home by the malice of his brethren, but by the overruling hand of God he was sent into Egypt.」（因弟兄的惡意被逐出父家，卻因神掌權的手被差到埃及）——整卷約瑟故事的骨架，摩根一句話就道盡。摩根式的閱讀提醒我們：舊約中每一次鄭重的「我是」自稱，都輕輕指向那更大、更終極的「我是」——那位在西奈山對摩西說「我是自有永有的」（出3:14），最終在約翰福音中一再說「我是」的耶穌基督。約瑟在此的自我啟示，是神的百姓學習認識神如何啟示自己的一個小小預演。
+他又這樣形容約瑟：
+
+> "...father's home by the malice of his brethren, but by the overruling hand of God he was sent into Egypt..."
+>
+> 中譯：……因弟兄的惡意被逐出父家，卻因神掌權的手被差到埃及……
+> — G. Campbell Morgan, *The Analyzed Bible*, Vol. 1: Genesis–Esther (Fleming H. Revell, 1907), archive.org/details/analyzedbible01morg
+
+整卷約瑟故事的骨架，摩根一句話就道盡。摩根式的閱讀提醒我們：舊約中每一次鄭重的「我是」自稱，都輕輕指向那更大、更終極的「我是」——那位在西奈山對摩西說「我是自有永有的」（出3:14），最終在約翰福音中一再說「我是」的耶穌基督。約瑟在此的自我啟示，是神的百姓學習認識神如何啟示自己的一個小小預演。
 
 ### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟強調，約瑟三次說「是神差我」，卻從未有一句話說弟兄們無罪：
 
-> "All of them had been involved in essentially an unthinkable act of treachery, and they were all guilty, and they were all blameworthy... The Lord doesn't do evil. The Lord doesn't condone evil. The Lord isn't in the evil, but the Lord uses the evil."（他們所有人都捲入了一場不可思議的背叛行為，他們都有罪，都該受譴責……主不作惡，主不縱容惡，主不在惡之中，但主使用惡。）
-> — John MacArthur, *Joseph: Because God Meant It for Good* (sermon, gty.org)
+> "All of them had been involved in essentially an unthinkable act of treachery, and they were all guilty, and they were all blameworthy... The Lord doesn't do evil. The Lord doesn't condone evil. The Lord isn't in the evil, but the Lord uses the evil."
+>
+> 中譯：他們所有人都捲入了一場不可思議的背叛行為，他們都有罪，都該受譴責……主不作惡，主不縱容惡，主不在惡之中，但主使用惡。
+> — John MacArthur, *Joseph: Because God Meant It for Good* (sermon 80-388, gty.org)
 
 另在同一主題的網誌文章中，麥克阿瑟進一步澄清「神差我來」與「你們把我賣了」並存的邏輯：
 
-> "Joseph was not *excusing* his brothers' sin—he was emphasizing the fact that the Lord uses even the wicked choices of sinful people to accomplish His sovereign purposes."（約瑟不是在為弟兄們的罪開脫——他是在強調，主使用罪人邪惡的選擇，來成就祂主權的旨意。）
-> — John MacArthur, *Joseph: His Role in a Bigger Story* (gty.org，改編自 *Twelve Unlikely Heroes*)
+> "Joseph was not *excusing* his brothers' sin—he was emphasizing the fact that the Lord uses even the wicked choices of sinful people to accomplish His sovereign purposes."
+>
+> 中譯：約瑟不是在為弟兄們的罪開脫——他是在強調，主使用罪人邪惡的選擇，來成就祂主權的旨意。
+> — John MacArthur, *Joseph: His Role in a Bigger Story*, Grace to You 部落格 B140529（改編自 *Twelve Unlikely Heroes*）, https://www.gty.org/blogs/B140529/joseph-his-role-in-a-bigger-story
 
 哥哥們的嫉妒、殘忍、二十年的謊言，都是真實、該受譴責的罪；與此同時，神在他們的惡行「之上」、「之中」、「透過」他們的惡行，完成了保全性命的計劃。這不是各打五十大板式的和稀泥，也不是宿命論式地說「反正一切都是神定的，人不用負責」，而是聖經一貫的立場：人完全要為自己的選擇負責，神的旨意同時完全、毫無僥倖地成就。這正是使徒行傳4:27-28要應用在十字架上的同一個邏輯——希律、彼拉多、外邦人、以色列民都是「成就你手和你意旨所預定必有的事」的真實行惡者，而不是被神操控的傀儡。
 
@@ -192,11 +205,11 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：創世記45章不是一個「大團圓結局」，是舊約中最接近十字架邏輯的一幕——那位手握生殺大權、卻主動說「請你們近前來」的約瑟，正指向那位被自己的百姓釘死、卻在十字架上說「父啊，赦免他們」的基督；「你們的意思是要害我，神的意思原是好的」，是每一個經歷過背叛、卻願意選擇恩典而非報復之人，都要學會說的一句話。
+**精義一句話**：創世記45章不是一個「大團圓結局」，是舊約中最接近十字架邏輯的一幕（見上文〈基督焦點〉）；「你們的意思是要害我，神的意思原是好的」，是每一個經歷過背叛、卻願意選擇恩典而非報復之人，都要學會說的一句話。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-「你們的意思是要害我，但神的意思原是好的」(50:20)，其實在45:5-8已經先說出來——「不要因為把我賣到這裏而自憂自恨。這是神差我在你們以先來，為要保全生命。」這條線一路往前，直達使徒行傳2:23：彼得對著剛把耶穌釘死的群眾說，耶穌「既按著神的定旨先見被交與人，你們就藉著無法之人的手，把他釘在十字架上殺了」；4:27-28再補一句：「希律和本丟彼拉多，外邦人和以色列民，果然在這城裏聚集，要攻打你所膏的聖僕耶穌，成就你手和你意旨所預定必有的事。」約瑟故事和十字架故事用的是同一套語法：人是真實的加害者，神是真實的掌權者，兩者同時、完全成立，沒有一方削弱另一方。羅馬書8:28把這個原則從一次性的歷史事件，變成每一個信徒生命的應許：「我們曉得萬事都互相效力，叫愛神的人得益處。」
+「你們的意思是要害我，但神的意思原是好的」(50:20)，其實在45:5-8已經先說出來，這條線一路往前直達使徒行傳2:23與4:27-28（見上文〈基督焦點〉、〈領受要點〉第1點）——約瑟故事和十字架故事用的是同一套語法：人是真實的加害者，神是真實的掌權者，兩者同時、完全成立，沒有一方削弱另一方。羅馬書8:28把這個原則從一次性的歷史事件，變成每一個信徒生命的應許：「我們曉得萬事都互相效力，叫愛神的人得益處。」
 
 再細看約瑟說話的次序——先誠實指名真實的罪（「你們所賣的那個」），再拒絕苦毒（「不要自憂自恨」），再把出路指向神的美意（「神差我來，為要保全生命……留下餘種」），最後用眼淚與擁抱印證所說的每一句話（45:14-15）——會發現這其實已經具備了福音信息一貫的骨架與心腸，比十字架早了大約一千九百年。約瑟不是在講一篇道，他是在活出一篇道——而這篇道，日後要在各各他被基督親自成就到底。
 
@@ -212,7 +225,7 @@ publisher: 三書精讀出版系統
 
 具體行動：寫下一個你至今仍未真正饒恕、或仍與你關係破裂的名字。今天不必等對方先道歉，效法約瑟主動說「請你們近前來」——用一通電話、一則訊息，或單單在禱告中對神說出那個名字，求神先在你裏面做「保全生命」的工作，再看祂如何為你們的關係開一條復和的路。
 
-**你看見耶穌了嗎**：約瑟對哥哥們說「請你們近前來」，正是那位被自己百姓拒絕、卻在十字架上說「父啊，赦免他們」的基督，最早、最完整的一次舊約預演——復和的職分，早在各各他之前約一千九百年，就已經藉著一個曾被出賣的人活出來過一次。
+**你看見耶穌了嗎**：約瑟那句「請你們近前來」（見上文〈基督焦點〉），是各各他之前約一千九百年，復和的職分第一次被活出來。
 
 ---
 
@@ -254,4 +267,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

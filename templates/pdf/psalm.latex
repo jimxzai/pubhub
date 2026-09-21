@@ -182,12 +182,28 @@
 %% HYPERLINKS
 %% ============================================
 \usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
 \hypersetup{
   colorlinks=true,
   linkcolor=ChapterBrown,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={詩篇整編研讀：五卷結構對應摩西五經，主角始終是耶穌基督},
+  pdfkeywords={詩篇, Psalms, 讚美, 哀歌, 老弟兄, G. Campbell Morgan, John MacArthur, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -530,9 +546,9 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書依詩篇本身的五卷結構（對應摩西五經），分五冊研讀全卷一百五十篇：卷一（詩1–41，有福的人）、卷二（詩42–72，拯救與王）、卷三（詩73–89，聖所與約）、卷四（詩90–106，曠野與耶和華作王）、卷五（詩107–150，話語、回歸、頌讚）。全書採用黃長老的查經方法——濃縮精義、以經解經、從耶穌的角度讀每一篇——因為詩篇一百五十篇，主角永遠是耶穌：受苦的（詩22）、牧養的（詩23）、掌權的（詩24）、君王兼祭司的（詩110）、被棄而成為房角石的（詩118）。整卷詩篇的終局，是「凡有氣息的，都要讚美耶和華」（詩150:6）——與整本聖經的終局，同一個方向。
+本書依詩篇本身的五卷結構（對應摩西五經），分五冊研讀全卷一百五十篇：卷一（詩1–41，有福的人）、卷二（詩42–72，拯救與王）、卷三（詩73–89，聖所與約）、卷四（詩90–106，曠野與耶和華作王）、卷五（詩107–150，話語、回歸、頌讚）。全書採用老弟兄的查經方法——濃縮精義、以經解經、從耶穌的角度讀每一篇——因為詩篇一百五十篇，主角永遠是耶穌：受苦的（詩22）、牧養的（詩23）、掌權的（詩24）、君王兼祭司的（詩110）、被棄而成為房角石的（詩118）。整卷詩篇的終局，是「凡有氣息的，都要讚美耶和華」（詩150:6）——與整本聖經的終局，同一個方向。
 
-A five-volume study of all 150 psalms following the Psalter's own five-book structure mirroring the Pentateuch. Reading with Elder Huang's method — distilling the essence, interpreting Scripture with Scripture, and reading every psalm from the angle of Jesus Christ: the suffering shepherd (Ps 22), the good shepherd (Ps 23), the King of glory (Ps 24), the priest-king (Ps 110), the rejected cornerstone (Ps 118). The Psalter ends where the whole Bible ends: "Let everything that has breath praise the LORD" (Ps 150:6).
+A five-volume study of all 150 psalms following the Psalter's own five-book structure mirroring the Pentateuch. Reading with the Elder Brother's method — distilling the essence, interpreting Scripture with Scripture, and reading every psalm from the angle of Jesus Christ: the suffering shepherd (Ps 22), the good shepherd (Ps 23), the King of glory (Ps 24), the priest-king (Ps 110), the rejected cornerstone (Ps 118). The Psalter ends where the whole Bible ends: "Let everything that has breath praise the LORD" (Ps 150:6).
 $endif$
 \end{minipage}
 

@@ -1,0 +1,7 @@
+body { line-height: 1.55; }
+.jesus { color: #a32222; }
+sup { font-size: 0.75em; }
+table { border-collapse: collapse; width: 100%; }
+td, th { padding: 0.4em; border: 1px solid #777; vertical-align: top; }
+th { font-weight: bold; }
+img { max-width: 100%; }

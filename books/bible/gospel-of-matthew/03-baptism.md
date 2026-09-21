@@ -1,9 +1,16 @@
 ---
-title: 馬太福音研讀
+title: 馬太福音研讀 — 天國之王
 subtitle: Gospel of Matthew Deep Study
 author: PubHub 三書精讀系統
-date: 2025年12月
+date: 2026年8月
 publisher: 三書精讀出版系統
+edition: 2026 整編版
+updated: 2026-09-20
+language: "zh-Hant (primary); en excerpts vary"
+rights: See COPYRIGHT.md
+source: SOURCE_PDF_AUDIT.md
+status: editorial-draft
+scripture_policy: pending-clearance
 ---
 
 # 第三章：施洗約翰與耶穌受洗 (John the Baptist and Jesus' Baptism)
@@ -14,21 +21,21 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^那時，施洗的約翰出來，在猶太的曠野宣講，說：^2^「天國近了，你們應當悔改！」^3^這人就是以賽亞先知所說的：「在曠野有聲音呼喊著：預備主的道，修直他的路！」
+> <sup>1</sup>那時，施洗的約翰出來，在猶太的曠野宣講，說：<sup>2</sup>「天國近了，你們應當悔改！」<sup>3</sup>這人就是以賽亞先知所說的：「在曠野有聲音呼喊著：預備主的道，修直他的路！」
 
-> ^4^這約翰身穿駱駝毛的衣服，腰束皮帶，吃的是蝗蟲和野蜜。^5^那時，耶路撒冷和猶太全地，以及約旦河一帶地方的人，都出來到他那裏，^6^承認自己的罪，在約旦河裏受他的洗。
+> <sup>4</sup>這約翰身穿駱駝毛的衣服，腰束皮帶，吃的是蝗蟲和野蜜。<sup>5</sup>那時，耶路撒冷和猶太全地，以及約旦河一帶地方的人，都出來到他那裏，<sup>6</sup>承認自己的罪，在約旦河裏受他的洗。
 
-> ^7^約翰看見許多法利賽人和撒都該人也來受洗，就對他們說：「毒蛇的孽種啊！誰指示你們逃避那將要來的憤怒呢？^8^你們要結出果子來，和悔改的心相稱。^9^不要自己心裏說：『我們有亞伯拉罕為祖宗。』我告訴你們，神能從這些石頭中給亞伯拉罕興起子孫來。^10^現在斧子已經放在樹根上，凡不結好果子的樹就砍下來，丟在火裏。^11^我是用水給你們施洗，叫你們悔改；但那在我以後來的，能力比我更大，我就是給他提鞋也不配。他要用聖靈與火給你們施洗。^12^他手裏拿著簸箕，要揚淨他的禾場，把麥子收在倉裏，把糠用不滅的火燒盡。」
+> <sup>7</sup>約翰看見許多法利賽人和撒都該人也來受洗，就對他們說：「毒蛇的孽種啊！誰指示你們逃避那將要來的憤怒呢？<sup>8</sup>你們要結出果子來，和悔改的心相稱。<sup>9</sup>不要自己心裏說：『我們有亞伯拉罕為祖宗。』我告訴你們，神能從這些石頭中給亞伯拉罕興起子孫來。<sup>10</sup>現在斧子已經放在樹根上，凡不結好果子的樹就砍下來，丟在火裏。<sup>11</sup>我是用水給你們施洗，叫你們悔改；但那在我以後來的，能力比我更大，我就是給他提鞋也不配。他要用聖靈與火給你們施洗。<sup>12</sup>他手裏拿著簸箕，要揚淨他的禾場，把麥子收在倉裏，把糠用不滅的火燒盡。」
 
-> ^13^當時，耶穌從加利利來到約旦河，到約翰那裏，要受他的洗。^14^約翰想要阻止他，說：「我應當受你的洗，你反倒到我這裏來嗎？」^15^耶穌回答他說：「暫且這樣做吧，因為我們理當這樣履行全部的義。」於是約翰答應了他。^16^耶穌受了洗，隨即從水裏上來。忽然，天為他開了，他看見神的靈降下，彷彿鴿子落在他身上。^17^這時，從天上有聲音說：「這是我的愛子，我所喜悅的。」
+> <sup>13</sup>當時，耶穌從加利利來到約旦河，到約翰那裏，要受他的洗。<sup>14</sup>約翰想要阻止他，說：「我應當受你的洗，你反倒到我這裏來嗎？」<sup>15</sup>耶穌回答他說：「暫且這樣做吧，因為我們理當這樣履行全部的義。」於是約翰答應了他。<sup>16</sup>耶穌受了洗，隨即從水裏上來。忽然，天為他開了，他看見神的靈降下，彷彿鴿子落在他身上。<sup>17</sup>這時，從天上有聲音說：「這是我的愛子，我所喜悅的。」
 
-### English — ESV
+### English — ESV (selected excerpts)
 
-> ^2^"Repent, for the kingdom of heaven is at hand."
+> <sup>2</sup>"Repent, for the kingdom of heaven is at hand."
 
-> ^11^"I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire."
+> <sup>11</sup>"I baptize you with water for repentance, but he who is coming after me is mightier than I, whose sandals I am not worthy to carry. He will baptize you with the Holy Spirit and fire."
 
-> ^16^And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; ^17^and behold, a voice from heaven said, "This is my beloved Son, with whom I am well pleased."
+> <sup>16</sup>And when Jesus was baptized, immediately he went up from the water, and behold, the heavens were opened to him, and he saw the Spirit of God descending like a dove and coming to rest on him; <sup>17</sup>and behold, a voice from heaven said, "This is my beloved Son, with whom I am well pleased."
 
 ---
 
@@ -76,4 +83,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*
+*來源索引：見 [SOURCES.md](SOURCES.md)；本章引文與轉述仍須逐條核實。*

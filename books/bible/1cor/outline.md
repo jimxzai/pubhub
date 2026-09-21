@@ -1,3 +1,9 @@
+---
+title: 哥林多前書全書研讀指南（編輯底稿）
+status: editorial-source
+included_in_reader_edition: false
+---
+
 # 哥林多前書全書研讀指南
 
 ## 在基督裡得自由：屬靈生命的成長與榮耀的盼望

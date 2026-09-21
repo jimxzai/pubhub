@@ -1,12 +1,19 @@
 ---
-title: 馬太福音研讀
+title: 馬太福音研讀 — 天國之王
 subtitle: Gospel of Matthew Deep Study
 author: PubHub 三書精讀系統
-date: 2025年12月
+date: 2026年8月
 publisher: 三書精讀出版系統
+edition: 2026 整編版
+updated: 2026-09-20
+language: "zh-Hant (primary); en excerpts vary"
+rights: See COPYRIGHT.md
+source: SOURCE_PDF_AUDIT.md
+status: editorial-draft
+scripture_policy: pending-clearance
 ---
 
-# 第七章：兩條道路與兩種根基 (Two Ways and Two Foundations)
+# 第七章：論斷、祈求與兩條道路 (Judge Not, Ask, and the Two Ways)
 
 馬太福音 7:1-29
 
@@ -22,23 +29,23 @@ publisher: 三書精讀出版系統
 
 ### 不要論斷 (7:1-5)
 
-> ^1^\jesus{「你們不要評斷人，免得你們被評斷。}
-> ^2^\jesus{因為你們怎樣評斷人，也必怎樣被評斷；你們用甚麼量器量給人，也必用甚麼量器量給你們。}
-> ^3^\jesus{為甚麼看見你弟兄眼中有刺，卻不想自己眼中有梁木呢？}
-> ^4^\jesus{你自己眼中有梁木，怎能對你弟兄說：『容我去掉你眼中的刺』呢？}
-> ^5^\jesus{你這假冒為善的人！先去掉自己眼中的梁木，然後你才能看得清楚，好去掉你弟兄眼中的刺。」}
+> <sup>1</sup>「你們不要評斷人，免得你們被評斷。
+> <sup>2</sup>因為你們怎樣評斷人，也必怎樣被評斷；你們用甚麼量器量給人，也必用甚麼量器量給你們。
+> <sup>3</sup>為甚麼看見你弟兄眼中有刺，卻不想自己眼中有梁木呢？
+> <sup>4</sup>你自己眼中有梁木，怎能對你弟兄說：『容我去掉你眼中的刺』呢？
+> <sup>5</sup>你這假冒為善的人！先去掉自己眼中的梁木，然後你才能看得清楚，好去掉你弟兄眼中的刺。」
 
-> ^1^\jesus{"Judge not, that you be not judged.}
-> ^2^\jesus{For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you.}
-> ^3^\jesus{Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?}
-> ^4^\jesus{Or how can you say to your brother, 'Let me take the speck out of your eye,' when there is the log in your own eye?}
-> ^5^\jesus{You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye."}
+> <sup>1</sup>"Judge not, that you be not judged.
+> <sup>2</sup>For with the judgment you pronounce you will be judged, and with the measure you use it will be measured to you.
+> <sup>3</sup>Why do you see the speck that is in your brother's eye, but do not notice the log that is in your own eye?
+> <sup>4</sup>Or how can you say to your brother, 'Let me take the speck out of your eye,' when there is the log in your own eye?
+> <sup>5</sup>You hypocrite, first take the log out of your own eye, and then you will see clearly to take the speck out of your brother's eye."
 
 ### 分辨的必要 (7:6)
 
-> ^6^\jesus{「不要把聖物給狗，也不要把你們的珍珠丟在豬面前，恐怕牠們用腳踐踏珍珠，轉過來撕裂你們。」}
+> <sup>6</sup>「不要把聖物給狗，也不要把你們的珍珠丟在豬面前，恐怕牠們用腳踐踏珍珠，轉過來撕裂你們。」
 
-> ^6^\jesus{"Do not give dogs what is holy, and do not throw your pearls before pigs, lest they trample them underfoot and turn to attack you."}
+> <sup>6</sup>"Do not give dogs what is holy, and do not throw your pearls before pigs, lest they trample them underfoot and turn to attack you."
 
 ### 論斷與分辨的平衡
 
@@ -56,17 +63,17 @@ publisher: 三書精讀出版系統
 
 ### 祈求、尋找、叩門 (7:7-11)
 
-> ^7^\jesus{「你們祈求，就給你們；尋找，就找到；叩門，就給你們開門。}
-> ^8^\jesus{因為凡祈求的，就得著；尋找的，就找到；叩門的，就給他開門。}
-> ^9^\jesus{你們中間誰有兒子求餅，反給他石頭呢？}
-> ^10^\jesus{求魚，反給他蛇呢？}
-> ^11^\jesus{你們雖然不好，尚且知道拿好東西給兒女，何況你們在天上的父，豈不更要把好東西給求他的人嗎？」}
+> <sup>7</sup>「你們祈求，就給你們；尋找，就找到；叩門，就給你們開門。
+> <sup>8</sup>因為凡祈求的，就得著；尋找的，就找到；叩門的，就給他開門。
+> <sup>9</sup>你們中間誰有兒子求餅，反給他石頭呢？
+> <sup>10</sup>求魚，反給他蛇呢？
+> <sup>11</sup>你們雖然不好，尚且知道拿好東西給兒女，何況你們在天上的父，豈不更要把好東西給求他的人嗎？」
 
-> ^7^\jesus{"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.}
-> ^8^\jesus{For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.}
-> ^9^\jesus{Or which one of you, if his son asks him for bread, will give him a stone?}
-> ^10^\jesus{Or if he asks for a fish, will give him a serpent?}
-> ^11^\jesus{If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!"}
+> <sup>7</sup>"Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
+> <sup>8</sup>For everyone who asks receives, and the one who seeks finds, and to the one who knocks it will be opened.
+> <sup>9</sup>Or which one of you, if his son asks him for bread, will give him a stone?
+> <sup>10</sup>Or if he asks for a fish, will give him a serpent?
+> <sup>11</sup>If you then, who are evil, know how to give good gifts to your children, how much more will your Father who is in heaven give good things to those who ask him!"
 
 ### 三重邀請的遞進
 
@@ -80,9 +87,9 @@ publisher: 三書精讀出版系統
 
 ### 黃金律 (7:12)
 
-> ^12^\jesus{「所以，凡是你們願意人怎樣待你們，你們也要怎樣待人，因為這就是律法和先知的總綱。」}
+> <sup>12</sup>「所以，凡是你們願意人怎樣待你們，你們也要怎樣待人，因為這就是律法和先知的總綱。」
 
-> ^12^\jesus{"So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets."}
+> <sup>12</sup>"So whatever you wish that others would do to you, do also to them, for this is the Law and the Prophets."
 
 **積極的表述**：與消極的「己所不欲，勿施於人」不同，耶穌的黃金律是**積極主動**的——主動去做你希望別人對你做的事。
 
@@ -90,11 +97,11 @@ publisher: 三書精讀出版系統
 
 ## 第三部分：兩條門路 (7:13-14)
 
-> ^13^\jesus{「你們要進窄門。因為引到滅亡，那門是寬的，路是大的，進去的人也多；}
-> ^14^\jesus{引到生命，那門是窄的，路是小的，找到的人也少。」}
+> <sup>13</sup>「你們要進窄門。因為引到滅亡，那門是寬的，路是大的，進去的人也多；
+> <sup>14</sup>引到生命，那門是窄的，路是小的，找到的人也少。」
 
-> ^13^\jesus{"Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many.}
-> ^14^\jesus{For the gate is narrow and the way is hard that leads to life, and those who find it are few."}
+> <sup>13</sup>"Enter by the narrow gate. For the gate is wide and the way is easy that leads to destruction, and those who enter by it are many.
+> <sup>14</sup>For the gate is narrow and the way is hard that leads to life, and those who find it are few."
 
 ### 兩條路的對比
 
@@ -113,29 +120,29 @@ publisher: 三書精讀出版系統
 
 ### 防備假先知 (7:15-20)
 
-> ^15^\jesus{「你們要防備假先知。他們到你們這裏來，外面披著羊皮，裏面卻是殘暴的狼。}
-> ^16^\jesus{憑著他們的果子，就可以認出他們來。荊棘上豈能摘葡萄呢？蒺藜裏豈能摘無花果呢？}
-> ^17^\jesus{這樣，凡好樹都結好果子，壞樹都結壞果子。}
-> ^18^\jesus{好樹不能結壞果子，壞樹也不能結好果子。}
-> ^19^\jesus{凡不結好果子的樹就砍下來，丟在火裏。}
-> ^20^\jesus{所以，憑著他們的果子，就可以認出他們來。」}
+> <sup>15</sup>「你們要防備假先知。他們到你們這裏來，外面披著羊皮，裏面卻是殘暴的狼。
+> <sup>16</sup>憑著他們的果子，就可以認出他們來。荊棘上豈能摘葡萄呢？蒺藜裏豈能摘無花果呢？
+> <sup>17</sup>這樣，凡好樹都結好果子，壞樹都結壞果子。
+> <sup>18</sup>好樹不能結壞果子，壞樹也不能結好果子。
+> <sup>19</sup>凡不結好果子的樹就砍下來，丟在火裏。
+> <sup>20</sup>所以，憑著他們的果子，就可以認出他們來。」
 
-> ^15^\jesus{"Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves.}
-> ^16^\jesus{You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles?}
-> ^17^\jesus{So, every healthy tree bears good fruit, but the diseased tree bears bad fruit.}
-> ^18^\jesus{A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit.}
-> ^19^\jesus{Every tree that does not bear good fruit is cut down and thrown into the fire.}
-> ^20^\jesus{Thus you will recognize them by their fruits."}
+> <sup>15</sup>"Beware of false prophets, who come to you in sheep's clothing but inwardly are ravenous wolves.
+> <sup>16</sup>You will recognize them by their fruits. Are grapes gathered from thornbushes, or figs from thistles?
+> <sup>17</sup>So, every healthy tree bears good fruit, but the diseased tree bears bad fruit.
+> <sup>18</sup>A healthy tree cannot bear bad fruit, nor can a diseased tree bear good fruit.
+> <sup>19</sup>Every tree that does not bear good fruit is cut down and thrown into the fire.
+> <sup>20</sup>Thus you will recognize them by their fruits."
 
 ### 「主啊，主啊」的危險 (7:21-23)
 
-> ^21^\jesus{「不是每一個稱呼我『主啊，主啊』的人都能進天國，惟有遵行我天父旨意的人才能進去。}
-> ^22^\jesus{在那日，必有許多人對我說：『主啊，主啊，我們不是奉你的名傳道，奉你的名趕鬼，奉你的名行許多神蹟嗎？』}
-> ^23^\jesus{我要向他們宣告：『我從來不認識你們。你們這些作惡的人，離開我去吧！』」}
+> <sup>21</sup>「不是每一個稱呼我『主啊，主啊』的人都能進天國，惟有遵行我天父旨意的人才能進去。
+> <sup>22</sup>在那日，必有許多人對我說：『主啊，主啊，我們不是奉你的名傳道，奉你的名趕鬼，奉你的名行許多神蹟嗎？』
+> <sup>23</sup>我要向他們宣告：『我從來不認識你們。你們這些作惡的人，離開我去吧！』」
 
-> ^21^\jesus{"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.}
-> ^22^\jesus{On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?'}
-> ^23^\jesus{And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness.'"}
+> <sup>21</sup>"Not everyone who says to me, 'Lord, Lord,' will enter the kingdom of heaven, but the one who does the will of my Father who is in heaven.
+> <sup>22</sup>On that day many will say to me, 'Lord, Lord, did we not prophesy in your name, and cast out demons in your name, and do many mighty works in your name?'
+> <sup>23</sup>And then will I declare to them, 'I never knew you; depart from me, you workers of lawlessness.'"
 
 ### 真假信仰的對比
 
@@ -151,15 +158,15 @@ publisher: 三書精讀出版系統
 
 ## 第五部分：兩種根基 (7:24-27)
 
-> ^24^\jesus{「所以，凡聽見我這些話又去做的，好比一個聰明人，把房子蓋在磐石上。}
-> ^25^\jesus{雨淋，水沖，風吹，撞著那房子，房子總不倒塌，因為根基立在磐石上。}
-> ^26^\jesus{凡聽見我這些話不去做的，好比一個無知的人，把房子蓋在沙土上。}
-> ^27^\jesus{雨淋，水沖，風吹，撞著那房子，房子就倒塌了，並且倒塌得很厲害。」}
+> <sup>24</sup>「所以，凡聽見我這些話又去做的，好比一個聰明人，把房子蓋在磐石上。
+> <sup>25</sup>雨淋，水沖，風吹，撞著那房子，房子總不倒塌，因為根基立在磐石上。
+> <sup>26</sup>凡聽見我這些話不去做的，好比一個無知的人，把房子蓋在沙土上。
+> <sup>27</sup>雨淋，水沖，風吹，撞著那房子，房子就倒塌了，並且倒塌得很厲害。」
 
-> ^24^\jesus{"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock.}
-> ^25^\jesus{And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.}
-> ^26^\jesus{And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand.}
-> ^27^\jesus{And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it."}
+> <sup>24</sup>"Everyone then who hears these words of mine and does them will be like a wise man who built his house on the rock.
+> <sup>25</sup>And the rain fell, and the floods came, and the winds blew and beat on that house, but it did not fall, because it had been founded on the rock.
+> <sup>26</sup>And everyone who hears these words of mine and does not do them will be like a foolish man who built his house on the sand.
+> <sup>27</sup>And the rain fell, and the floods came, and the winds blew and beat against that house, and it fell, and great was the fall of it."
 
 ### 兩種人的對比
 
@@ -176,9 +183,9 @@ publisher: 三書精讀出版系統
 
 ## 結語：權柄的教導 (7:28-29)
 
-> ^28^耶穌講完了這些話，眾人都對他的教導感到驚奇；^29^因為他教導他們，像有權柄的人，不像他們的文士。
+> <sup>28</sup>耶穌講完了這些話，眾人都對他的教導感到驚奇；<sup>29</sup>因為他教導他們，像有權柄的人，不像他們的文士。
 
-> ^28^And when Jesus finished these sayings, the crowds were astonished at his teaching, ^29^for he was teaching them as one who had authority, and not as their scribes.
+> <sup>28</sup>And when Jesus finished these sayings, the crowds were astonished at his teaching, <sup>29</sup>for he was teaching them as one who had authority, and not as their scribes.
 
 ### 五大講論的結語公式
 
@@ -304,5 +311,5 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*
+*來源索引：見 [SOURCES.md](SOURCES.md)；本章引文與轉述仍須逐條核實。*
 *字數：約 2,500 字*

@@ -112,7 +112,7 @@ def main():
     only = set(args.only.split(",")) if args.only else None
     sources, ok, bad, unknown = {}, 0, [], []
 
-    for f in sorted(Path(args.book_dir).glob("[0-9][0-9]-*.md")):
+    for f in sorted(p for p in Path(args.book_dir).glob("*.md") if re.match(r"\d{2}[a-z]?-", p.name)):
         if only and f.name[:2] not in {o[-2:] for o in only}:
             continue
         text = f.read_text(encoding="utf-8")

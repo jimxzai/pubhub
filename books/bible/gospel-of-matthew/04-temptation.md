@@ -1,38 +1,47 @@
 ---
-title: 馬太福音研讀
+title: 馬太福音研讀 — 天國之王
 subtitle: Gospel of Matthew Deep Study
 author: PubHub 三書精讀系統
-date: 2025年12月
+date: 2026年8月
 publisher: 三書精讀出版系統
+edition: 2026 整編版
+updated: 2026-09-20
+language: "zh-Hant (primary); en excerpts vary"
+rights: See COPYRIGHT.md
+source: SOURCE_PDF_AUDIT.md
+status: editorial-draft
+scripture_policy: pending-clearance
 ---
 
-# 第四章：曠野試探與事工開始 (Temptation and Beginning of Ministry)
+# 第四章：曠野試探與加利利事工的開始 (The Temptation and the Beginning of Galilean Ministry)
 
 馬太福音 4:1-25
 
 ## 經文 (Scripture)
 
+> **編輯狀態：節選經文。** 本章目前引錄重點經文，不是完整經文；正式版需補入已授權全文，或保留此標示。
+
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^1^當時，耶穌被聖靈引導到曠野，受魔鬼的試探。^2^他禁食四十晝夜後，就餓了。^3^試探者前來，對他說：「你若是神的兒子，就吩咐這些石頭變成食物吧。」^4^耶穌回答：「經上記著：『人活著，不是單靠食物，乃是靠神口裏所出的一切話。』」
+> <sup>1</sup>當時，耶穌被聖靈引導到曠野，受魔鬼的試探。<sup>2</sup>他禁食四十晝夜後，就餓了。<sup>3</sup>試探者前來，對他說：「你若是神的兒子，就吩咐這些石頭變成食物吧。」<sup>4</sup>耶穌回答：「經上記著：『人活著，不是單靠食物，乃是靠神口裏所出的一切話。』」
 
-> ^5^魔鬼就帶他進了聖城，使他站在聖殿的頂上，^6^對他說：「你若是神的兒子，就跳下去吧！因為經上記著：『他要為你命令他的天使，用手托住你，免得你的腳碰在石頭上。』」^7^耶穌對他說：「經上又記著：『不可試探主你的神。』」
+> <sup>5</sup>魔鬼就帶他進了聖城，使他站在聖殿的頂上，<sup>6</sup>對他說：「你若是神的兒子，就跳下去吧！因為經上記著：『他要為你命令他的天使，用手托住你，免得你的腳碰在石頭上。』」<sup>7</sup>耶穌對他說：「經上又記著：『不可試探主你的神。』」
 
-> ^8^魔鬼又帶他上了一座極高的山，將世上的萬國和萬國的榮華都指給他看，^9^對他說：「你若俯伏拜我，我就把這一切都賜給你。」^10^耶穌對他說：「撒但，退去吧！因為經上記著：『要拜主你的神，單要事奉他。』」^11^於是魔鬼離開了耶穌，立刻有天使來伺候他。
+> <sup>8</sup>魔鬼又帶他上了一座極高的山，將世上的萬國和萬國的榮華都指給他看，<sup>9</sup>對他說：「你若俯伏拜我，我就把這一切都賜給你。」<sup>10</sup>耶穌對他說：「撒但，退去吧！因為經上記著：『要拜主你的神，單要事奉他。』」<sup>11</sup>於是魔鬼離開了耶穌，立刻有天使來伺候他。
 
-> ^12^耶穌聽見約翰下了監，就退到加利利去。^13^他離開拿撒勒，往迦百農去，住在那裏。迦百農靠海，在西布倫和拿弗他利的邊界上。^14^這是要應驗以賽亞先知的話：^15^「西布倫地，拿弗他利地，沿海的路，約旦河的東邊，外邦人的加利利——^16^那坐在黑暗裏的百姓看見了大光；坐在死蔭之地的人有光向他們照耀。」
+> <sup>12</sup>耶穌聽見約翰下了監，就退到加利利去。<sup>13</sup>他離開拿撒勒，往迦百農去，住在那裏。迦百農靠海，在西布倫和拿弗他利的邊界上。<sup>14</sup>這是要應驗以賽亞先知的話：<sup>15</sup>「西布倫地，拿弗他利地，沿海的路，約旦河的東邊，外邦人的加利利——<sup>16</sup>那坐在黑暗裏的百姓看見了大光；坐在死蔭之地的人有光向他們照耀。」
 
-> ^17^從那時起，耶穌開始宣講，說：「天國近了，你們應當悔改！」
+> <sup>17</sup>從那時起，耶穌開始宣講，說：「天國近了，你們應當悔改！」
 
-> ^18^耶穌在加利利海邊行走，看見兩個兄弟，就是那叫彼得的西門和他的弟弟安得烈，正在把網撒到海裏；他們本是打魚的。^19^耶穌對他們說：「來跟從我，我要叫你們得人如得魚一樣。」^20^他們立刻撇下網，跟從了他。
+> <sup>18</sup>耶穌在加利利海邊行走，看見兩個兄弟，就是那叫彼得的西門和他的弟弟安得烈，正在把網撒到海裏；他們本是打魚的。<sup>19</sup>耶穌對他們說：「來跟從我，我要叫你們得人如得魚一樣。」<sup>20</sup>他們立刻撇下網，跟從了他。
 
-### English — ESV
+### English — ESV (selected excerpts)
 
-> ^4^But he answered, "It is written, 'Man shall not live by bread alone, but by every word that comes from the mouth of God.'"
+> <sup>4</sup>But he answered, "It is written, 'Man shall not live by bread alone, but by every word that comes from the mouth of God.'"
 
-> ^10^Then Jesus said to him, "Be gone, Satan! For it is written, 'You shall worship the Lord your God and him only shall you serve.'"
+> <sup>10</sup>Then Jesus said to him, "Be gone, Satan! For it is written, 'You shall worship the Lord your God and him only shall you serve.'"
 
-> ^19^And he said to them, "Follow me, and I will make you fishers of men."
+> <sup>19</sup>And he said to them, "Follow me, and I will make you fishers of men."
 
 ---
 
@@ -68,4 +77,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*
+*來源索引：見 [SOURCES.md](SOURCES.md)；本章引文與轉述仍須逐條核實。*

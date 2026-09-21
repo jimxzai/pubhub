@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第八章 · 分散與腓利 (The Scattering and Philip)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^從這日起，耶路撒冷的教會大遭逼迫。除了使徒以外，門徒都分散在猶太和撒瑪利亞各處。^3^掃羅卻殘害教會，進各人的家，拉著男女下在監裏。
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^36^二人正往前走，到了有水的地方，太監說：「看哪，這裏有水！我受洗有甚麼妨礙呢？」^38^於是吩咐車站住，腓利和太監二人同下水裏去，腓利就給他施洗。^39^從水裏上來，主的靈把腓利提了去。太監也不再見他了，就歡歡喜喜地走路。^40^後來有人在亞鎖都遇見腓利；他走遍那地方，在各城宣傳福音，直到該撒利亞。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^Saul was in hearty agreement with putting him to death. And on that day a great persecution began against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles.
 

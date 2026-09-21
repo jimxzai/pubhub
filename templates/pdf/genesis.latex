@@ -136,6 +136,16 @@
 \definecolor{CommentaryBrown}{RGB}{95,70,50}    % Earth brown for commentary
 \definecolor{CreationGreen}{RGB}{55,95,65}      % Garden green
 
+% Cover gradient (deep garden green, dark at top to a richer forest green
+% at bottom) — full-bleed dark cover, distinct from the series' navy
+% (Revelation) while keeping the same gold-on-dark treatment
+\definecolor{GardenDark}{RGB}{8,20,13}
+\definecolor{GardenLight}{RGB}{26,54,34}
+
+% Light-on-dark cover text colors
+\definecolor{CoverGoldBright}{RGB}{212,178,90}
+\definecolor{CoverMuted}{RGB}{188,196,183}
+
 % Map colors
 \definecolor{WaterBlue}{RGB}{180,210,230}       % Sea/river blue
 \definecolor{LandBeige}{RGB}{245,235,220}       % Land color
@@ -164,10 +174,41 @@
 \usepackage{graphicx}
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{eso-pic}
 
 %% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
+
+% Full-bleed garden-green gradient background for the front/back cover,
+% painted in the shipout background hook so it bleeds to the true physical
+% page edge without disturbing the \geometry text-block margins used by
+% every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=GardenDark,bottom color=GardenLight]
+        (current page.south west) rectangle (current page.north east);
+    \end{tikzpicture}%
+  }%
+}
+
+% Cover border: two inset gold hairlines plus a small corner ornament
+% (reusing the same corner-dot motif as \coverframe below), painted in
+% the foreground hook so it sits above the gradient.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay,shift={(current page.south west)}]
+      \draw[ScriptureGold,line width=2pt] (0.32in,0.32in) rectangle (6.68in,9.68in);
+      \draw[CoverGoldBright,line width=0.4pt] (0.4in,0.4in) rectangle (6.6in,9.6in);
+      \foreach \cx/\cy in {0.32/0.32, 6.68/0.32, 0.32/9.68, 6.68/9.68} {
+        \foreach \dx/\dy/\r in {0/0/0.05, 0.1/0/0.03, 0/0.1/0.03} {
+          \fill[CoverGoldBright] (\cx in+\dx in,\cy in+\dy in) circle (\r in);
+        }
+      }
+    \end{tikzpicture}%
+  }%
+}
 
 % Olive branch decoration command
 \newcommand{\olivebranch}[1]{%
@@ -364,116 +405,99 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
-% Cover frame: full-bleed cream background + gold/navy double border + corner ornament
-% Page is fixed at 7in x 10in, see geometry settings above. Coordinates are
-% relative to the page south-west corner via an explicit shift, deliberately
-% avoiding the TikZ calc-library dollar-sign coordinate syntax, since pandoc's
-% own templating language also uses dollar signs and would misparse it.
-\newcommand{\coverframe}{%
-  \begin{tikzpicture}[remember picture,overlay,shift={(current page.south west)}]
-    \fill[CoverCream] (0,0) rectangle (7in,10in);
-    \draw[ScriptureGold,line width=2pt] (0.32in,0.32in) rectangle (6.68in,9.68in);
-    \draw[ChapterBlue,line width=0.4pt] (0.4in,0.4in) rectangle (6.6in,9.6in);
-    % Corner ornament, bottom-left
-    \foreach \dx/\dy/\r in {0/0/0.05, 0.14/0/0.035, 0/0.14/0.035, 0.24/0.08/0.025} {
-      \fill[ScriptureGold] (0.32in+\dx in,0.32in+\dy in) circle (\r in);
-    }
-  \end{tikzpicture}%
-}
-
-% Sunburst emblem: "let there be light" (Genesis 1:3)
+% Sunburst emblem: "let there be light" (Genesis 1:3) — gold sun breaking
+% the dark, recolored for the full-bleed garden-green cover background
 \newcommand{\sunburstemblem}{%
   \begin{tikzpicture}[scale=0.62]
-    \draw[ScriptureGold,line width=0.4pt] (0,0) circle (1.15);
+    \draw[CoverGoldBright,line width=0.4pt] (0,0) circle (1.15);
     \foreach \a in {0,15,...,345} {
-      \draw[ScriptureGold,line width=0.6pt] (\a:0.55) -- (\a:1.0);
+      \draw[CoverGoldBright,line width=0.6pt] (\a:0.55) -- (\a:1.0);
     }
-    \fill[ChapterBlue] (0,0) circle (0.32);
-    \node[font=\tiny\bfseries,color=CoverCream] at (0,0) {אוֹר};
+    \fill[CoverGoldBright] (0,0) circle (0.32);
+    \node[font=\tiny\bfseries,color=GardenDark] at (0,0) {אוֹר};
   \end{tikzpicture}%
 }
 
-% Title page
+% Title page — full-bleed, light-on-dark garden-green, the true first
+% page of the book
+\CoverBackground
+\CoverBorder
 \begin{titlepage}
 \thispagestyle{empty}
-\coverframe
+\color{CoverCream}
 \begin{center}
 \vspace*{1.1cm}
 
-{\small\scshape\color{ChapterBlue} Three Books Deep Reading \textbullet\ Genesis}\\[0.1cm]
-{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 創世記深度研讀}
+{\small\scshape\color{CoverCream} Three Books Deep Reading \textbullet\ Genesis}\\[0.1cm]
+{\footnotesize\color{CoverMuted} 三書精讀 \textbullet\ 創世記深度研讀}
 
 \vspace{0.35cm}
-{\color{ScriptureGold}\rule{1in}{0.5pt}}\hspace{0.15cm}{\color{ScriptureGold}\textbullet\ \textbullet}\hspace{0.15cm}{\color{ScriptureGold}\rule{1in}{0.5pt}}
+{\color{CoverGoldBright}\rule{1in}{0.5pt}}\hspace{0.15cm}{\color{CoverGoldBright}\textbullet\ \textbullet}\hspace{0.15cm}{\color{CoverGoldBright}\rule{1in}{0.5pt}}
 \vspace{0.35cm}
 
-{\normalsize\itshape\color{TextGray} The Book of Beginnings \textbullet\ 起初之書：從太初看見創造與救贖}
+{\normalsize\itshape\color{CoverMuted} The Book of Beginnings \textbullet\ 起初之書：從太初看見創造與救贖}
 
 \vspace{0.7cm}
 
 \sunburstemblem
 
 \vspace{0.5cm}
-{\color{ScriptureGold}\rule{2.2in}{0.6pt}}
+{\color{CoverGoldBright}\rule{2.2in}{0.6pt}}
 \vspace{0.5cm}
 
 % Main title
-{\fontsize{34}{40}\selectfont\bfseries\color{ChapterBlue} 起初之書}\\[0.15cm]
-{\large\itshape\color{LightGray} The Book of Beginnings}
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 起初之書}\\[0.15cm]
+{\large\itshape\color{CoverGoldBright} The Book of Beginnings}
 
 \vspace{0.5cm}
 
 % Book title
-{\fontsize{20}{26}\selectfont\bfseries 創世記研讀}\\[0.15cm]
-{\normalsize A Study of Genesis}
+{\fontsize{20}{26}\selectfont\bfseries\color{CoverCream} 創世記研讀}\\[0.15cm]
+{\normalsize\color{CoverMuted} A Study of Genesis}
 
 \vspace{0.4cm}
 
-{\large בְּרֵאשִׁית}\quad{\normalsize\itshape "In the Beginning"}\quad{\normalsize\color{red!60!black} 起初}
+{\large\color{CoverCream} בְּרֵאשִׁית}\quad{\normalsize\itshape\color{CoverCream} "In the Beginning"}\quad{\normalsize\color{CoverGoldBright} 起初}
 
 \vspace{0.5cm}
 
-% Key verse in box
-\fcolorbox{ScriptureGold}{ScriptureBg}{%
+% Key verse — thin gold rule frame, reading light on dark
 \begin{minipage}{3.8in}
 \centering
+{\color{CoverGoldBright}\rule{3.8in}{0.6pt}}
 \vspace{0.3cm}
-\small\itshape\color{CommentaryBrown}
+\small\itshape\color{CoverCream}
 起初，神創造天地。\\[0.15em]
 \footnotesize In the beginning, God created the\\
-heavens and the earth. — Genesis 1:1
+heavens and the earth. --- Genesis 1:1
 \vspace{0.3cm}
+{\color{CoverGoldBright}\rule{3.8in}{0.6pt}}
 \end{minipage}
-}
 
-\vspace{0.3cm}
-
-{\color{ScriptureGold}\rule{2.2in}{0.6pt}}
-
-\vspace{0.35cm}
+\vspace{0.55cm}
 
 % Equation
-{\normalsize\color{ScriptureGold}\bfseries 創造 + 墮落 + 揀選 = 救贖}\\[0.1cm]
-{\footnotesize\color{LightGray} Creation + Fall + Election = Redemption}
+{\normalsize\color{CoverGoldBright}\bfseries 創造 + 墮落 + 揀選 = 救贖}\\[0.1cm]
+{\footnotesize\color{CoverMuted} Creation + Fall + Election = Redemption}
 
 \vspace{0.6cm}
 
 $if(author)$
-{\normalsize $author$}\\[0.3cm]
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
 $endif$
 
 $if(publisher)$
-{\small $publisher$}\\[0.15cm]
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
 $endif$
 
 $if(date)$
-{\small $date$}
+{\small\color{CoverCream} $date$}
 $else$
-{\small \today}
+{\small\color{CoverCream} \today}
 $endif$
 
 \vspace{0.3cm}
-\starsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
+\starsymbol\hspace{0.3cm}{\color{CoverGoldBright}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
 
 \end{center}
 \end{titlepage}
@@ -819,45 +843,49 @@ $endif$
 $body$
 
 %% --------------------------------------------
-%% BACK COVER
+%% BACK COVER — full-bleed, light-on-dark garden-green, mirrors the front
+%% cover; the true final page of the book
 %% --------------------------------------------
 \backmatter
 \thispagestyle{empty}
-\coverframe
+\pagestyle{empty}
+\CoverBackground
+\CoverBorder
+\color{CoverCream}
 \vspace*{\fill}
 \begin{center}
-{\Large $if(backcover-symbol)$$backcover-symbol$$else$בְּרֵאשִׁית$endif$}\\[0.1cm]
-{\small\itshape\color{LightGray} "In the Beginning" · 起初}
+{\Large\color{CoverCream} $if(backcover-symbol)$$backcover-symbol$$else$בְּרֵאשִׁית$endif$}\\[0.1cm]
+{\small\itshape\color{CoverMuted} "In the Beginning" \textperiodcentered\ 起初}
 
 \vspace{0.8cm}
 
-\starsymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\starsymbol
+\starsymbol\hspace{0.2cm}{\color{CoverGoldBright}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\starsymbol
 
 \vspace{0.8cm}
 
-{\large\bfseries\color{ChapterBlue} 關於本書}\qquad{\large\bfseries\color{ChapterBlue} About This Book}
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\large\bfseries\itshape\color{CoverGoldBright} About This Book}
 
 \vspace{0.5cm}
 
 \begin{minipage}{5in}
-\small\color{TextGray}
+\small\color{CoverCream}
 $if(backcover)$
 $backcover$
 $else$
 本書逐章研讀創世記全書十六章，並加上第十七章作為橋樑篇，追蹤創世記的應許如何在出埃及記與約書亞記中開始實現，整合黃長老查經教導、John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，並以約翰福音1:1-18與希伯來書為理解創世記的鑰匙，貫通聖約、揀選、人類政府與救贖歷史的整體軌跡。全書以創世記1:1與50:26為首尾框架：從「起初，神創造天地」的道，到約瑟「一具棺材在埃及」的盼望，一以貫之，指向那位「昔在、今在、以後永在」的主。
 
-A chapter-by-chapter study of all sixteen chapters of Genesis, plus a seventeenth bridging chapter tracing how Genesis's promises begin their fulfillment in Exodus and Joshua, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition, and G. Campbell Morgan's spiritual analysis, framed throughout by John 1:1-18 and Hebrews as the key to reading Genesis within God's whole redemptive plan. The whole book is bookended by Genesis 1:1 and 50:26 — from the Word who spoke creation into being, to Joseph's coffin in Egypt, sealed in hope, pointing to the One who was, and is, and is to come.
+A chapter-by-chapter study of all sixteen chapters of Genesis, plus a seventeenth bridging chapter tracing how Genesis's promises begin their fulfillment in Exodus and Joshua, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition, and G. Campbell Morgan's spiritual analysis, framed throughout by John 1:1-18 and Hebrews as the key to reading Genesis within God's whole redemptive plan. The whole book is bookended by Genesis 1:1 and 50:26 --- from the Word who spoke creation into being, to Joseph's coffin in Egypt, sealed in hope, pointing to the One who was, and is, and is to come.
 $endif$
 \end{minipage}
 
 \vspace{1cm}
 
-{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
-{\footnotesize\color{LightGray} 三書精讀出版系統}
+{\footnotesize\color{CoverMuted} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{CoverMuted} 三書精讀出版系統}
 
 \vspace{0.3cm}
 
-{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+{\footnotesize\color{CoverMuted} Soli Deo Gloria --- 唯獨榮耀神}
 \end{center}
 \vspace*{\fill}
 

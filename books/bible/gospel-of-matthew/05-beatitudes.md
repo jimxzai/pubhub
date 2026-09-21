@@ -1,12 +1,19 @@
 ---
-title: 馬太福音研讀
+title: 馬太福音研讀 — 天國之王
 subtitle: Gospel of Matthew Deep Study
 author: PubHub 三書精讀系統
-date: 2025年12月
+date: 2026年8月
 publisher: 三書精讀出版系統
+edition: 2026 整編版
+updated: 2026-09-20
+language: "zh-Hant (primary); en excerpts vary"
+rights: See COPYRIGHT.md
+source: SOURCE_PDF_AUDIT.md
+status: editorial-draft
+scripture_policy: pending-clearance
 ---
 
-# 第五章：山上寶訓——八福與天國倫理 (Sermon on the Mount: Beatitudes)
+# 第五章：八福與成全律法——天國子民的憲章 (The Beatitudes and the Fulfilled Law—The Charter of Kingdom Citizens)
 
 馬太福音 5:1-48
 
@@ -18,10 +25,10 @@ publisher: 三書精讀出版系統
 
 ### 場景 (Setting)
 
-> ^1^耶穌看見這一群人，就上了山，坐下；門徒到他跟前來，^2^他開口教導他們。
+> <sup>1</sup>耶穌看見這一群人，就上了山，坐下；門徒到他跟前來，<sup>2</sup>他開口教導他們。
 > — 馬太福音 5:1-2
 
-> ^1^Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him. ^2^And he opened his mouth and taught them.
+> <sup>1</sup>Seeing the crowds, he went up on the mountain, and when he sat down, his disciples came to him. <sup>2</sup>And he opened his mouth and taught them.
 > — Matthew 5:1-2 (ESV)
 
 **「坐下」教導**：拉比坐著教導表示權柄。耶穌坐在山上，如同摩西在西乃山，頒佈天國的憲章。
@@ -30,31 +37,33 @@ publisher: 三書精讀出版系統
 
 ## 經文：八福 (The Beatitudes) 5:3-12
 
+> **編輯狀態：節選經文。** 本章目前省略 5:23–26、5:30 等部分經文；正式版需補入已授權全文，或保留此標示。
+
 ### 中文 — 和合本修訂版 (RCUV)
 
-> ^3^\jesus{「虛心的人有福了，因為天國是他們的。}
-> ^4^\jesus{哀慟的人有福了，因為他們必得安慰。}
-> ^5^\jesus{溫柔的人有福了，因為他們必承受土地。}
-> ^6^\jesus{飢渴慕義的人有福了，因為他們必得飽足。}
-> ^7^\jesus{憐憫人的人有福了，因為他們必蒙憐憫。}
-> ^8^\jesus{清心的人有福了，因為他們必得見神。}
-> ^9^\jesus{締造和平的人有福了，因為他們必稱為神的兒子。}
-> ^10^\jesus{為義受迫害的人有福了，因為天國是他們的。}
-> ^11^\jesus{人若因我辱罵你們，迫害你們，捏造各樣壞話毀謗你們，你們就有福了！}
-> ^12^\jesus{要歡喜快樂，因為你們在天上的賞賜是很多的。在你們以前的先知，人也是這樣迫害他們。」}
+> <sup>3</sup>「虛心的人有福了，因為天國是他們的。
+> <sup>4</sup>哀慟的人有福了，因為他們必得安慰。
+> <sup>5</sup>溫柔的人有福了，因為他們必承受土地。
+> <sup>6</sup>飢渴慕義的人有福了，因為他們必得飽足。
+> <sup>7</sup>憐憫人的人有福了，因為他們必蒙憐憫。
+> <sup>8</sup>清心的人有福了，因為他們必得見神。
+> <sup>9</sup>締造和平的人有福了，因為他們必稱為神的兒子。
+> <sup>10</sup>為義受迫害的人有福了，因為天國是他們的。
+> <sup>11</sup>人若因我辱罵你們，迫害你們，捏造各樣壞話毀謗你們，你們就有福了！
+> <sup>12</sup>要歡喜快樂，因為你們在天上的賞賜是很多的。在你們以前的先知，人也是這樣迫害他們。」
 
 ### English — ESV
 
-> ^3^\jesus{"Blessed are the poor in spirit, for theirs is the kingdom of heaven.}
-> ^4^\jesus{Blessed are those who mourn, for they shall be comforted.}
-> ^5^\jesus{Blessed are the meek, for they shall inherit the earth.}
-> ^6^\jesus{Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.}
-> ^7^\jesus{Blessed are the merciful, for they shall receive mercy.}
-> ^8^\jesus{Blessed are the pure in heart, for they shall see God.}
-> ^9^\jesus{Blessed are the peacemakers, for they shall be called sons of God.}
-> ^10^\jesus{Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.}
-> ^11^\jesus{Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account.}
-> ^12^\jesus{Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."}
+> <sup>3</sup>"Blessed are the poor in spirit, for theirs is the kingdom of heaven.
+> <sup>4</sup>Blessed are those who mourn, for they shall be comforted.
+> <sup>5</sup>Blessed are the meek, for they shall inherit the earth.
+> <sup>6</sup>Blessed are those who hunger and thirst for righteousness, for they shall be satisfied.
+> <sup>7</sup>Blessed are the merciful, for they shall receive mercy.
+> <sup>8</sup>Blessed are the pure in heart, for they shall see God.
+> <sup>9</sup>Blessed are the peacemakers, for they shall be called sons of God.
+> <sup>10</sup>Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven.
+> <sup>11</sup>Blessed are you when others revile you and persecute you and utter all kinds of evil against you falsely on my account.
+> <sup>12</sup>Rejoice and be glad, for your reward is great in heaven, for so they persecuted the prophets who were before you."
 
 ---
 
@@ -87,17 +96,17 @@ publisher: 三書精讀出版系統
 
 ### 經文
 
-> ^13^\jesus{「你們是地上的鹽。鹽若失了味，怎能使它再鹹呢？它就毫無用處，只好被丟在外面，任人踐踏。}
-> ^14^\jesus{你們是世上的光。城建在山上是不能隱藏的。}
-> ^15^\jesus{人點燈，不放在斗底下，而是放在燈臺上，就照亮一家的人。}
-> ^16^\jesus{你們的光也要這樣照在人前，叫他們看見你們的好行為，把榮耀歸給你們在天上的父。」}
+> <sup>13</sup>「你們是地上的鹽。鹽若失了味，怎能使它再鹹呢？它就毫無用處，只好被丟在外面，任人踐踏。
+> <sup>14</sup>你們是世上的光。城建在山上是不能隱藏的。
+> <sup>15</sup>人點燈，不放在斗底下，而是放在燈臺上，就照亮一家的人。
+> <sup>16</sup>你們的光也要這樣照在人前，叫他們看見你們的好行為，把榮耀歸給你們在天上的父。」
 
 ### English — ESV
 
-> ^13^\jesus{"You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet.}
-> ^14^\jesus{You are the light of the world. A city set on a hill cannot be hidden.}
-> ^15^\jesus{Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house.}
-> ^16^\jesus{In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."}
+> <sup>13</sup>"You are the salt of the earth, but if salt has lost its taste, how shall its saltiness be restored? It is no longer good for anything except to be thrown out and trampled under people's feet.
+> <sup>14</sup>You are the light of the world. A city set on a hill cannot be hidden.
+> <sup>15</sup>Nor do people light a lamp and put it under a basket, but on a stand, and it gives light to all in the house.
+> <sup>16</sup>In the same way, let your light shine before others, so that they may see your good works and give glory to your Father who is in heaven."
 
 ### 鹽與光的雙重功能
 
@@ -112,17 +121,17 @@ publisher: 三書精讀出版系統
 
 ### 經文
 
-> ^17^\jesus{「不要以為我來是要廢掉律法和先知；我來不是要廢掉，而是要成全。}
-> ^18^\jesus{我實在告訴你們，就是到天地都廢去，律法的一點一畫也不能廢去，都要成全。}
-> ^19^\jesus{所以，無論誰廢掉這誡命中最小的一條，又教導人這樣做，他在天國要稱為最小的。但無論誰遵行這些誡命，又教導人遵行，他在天國要稱為大的。}
-> ^20^\jesus{我告訴你們，你們的義若不勝過文士和法利賽人的義，絕不能進天國。」}
+> <sup>17</sup>「不要以為我來是要廢掉律法和先知；我來不是要廢掉，而是要成全。
+> <sup>18</sup>我實在告訴你們，就是到天地都廢去，律法的一點一畫也不能廢去，都要成全。
+> <sup>19</sup>所以，無論誰廢掉這誡命中最小的一條，又教導人這樣做，他在天國要稱為最小的。但無論誰遵行這些誡命，又教導人遵行，他在天國要稱為大的。
+> <sup>20</sup>我告訴你們，你們的義若不勝過文士和法利賽人的義，絕不能進天國。」
 
 ### English — ESV
 
-> ^17^\jesus{"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.}
-> ^18^\jesus{For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished.}
-> ^19^\jesus{Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever does them and teaches them will be called great in the kingdom of heaven.}
-> ^20^\jesus{For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."}
+> <sup>17</sup>"Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfill them.
+> <sup>18</sup>For truly, I say to you, until heaven and earth pass away, not an iota, not a dot, will pass from the Law until all is accomplished.
+> <sup>19</sup>Therefore whoever relaxes one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever does them and teaches them will be called great in the kingdom of heaven.
+> <sup>20</sup>For I tell you, unless your righteousness exceeds that of the scribes and Pharisees, you will never enter the kingdom of heaven."
 
 ### 關鍵詞：「成全」(*plēroō*)
 
@@ -140,44 +149,44 @@ publisher: 三書精讀出版系統
 
 ### 第一對比：論怒氣 (5:21-26)
 
-> ^21^\jesus{「你們聽過有對古人說：『不可殺人』；凡殺人的，必須受審判。}
-> ^22^\jesus{但是我告訴你們：凡向弟兄動怒的，必須受審判；凡罵弟兄是『拉加』的，必須受議會的審判；凡罵弟兄是『魔利』的，必須遭受地獄的火。」}
+> <sup>21</sup>「你們聽過有對古人說：『不可殺人』；凡殺人的，必須受審判。
+> <sup>22</sup>但是我告訴你們：凡向弟兄動怒的，必須受審判；凡罵弟兄是『拉加』的，必須受議會的審判；凡罵弟兄是『魔利』的，必須遭受地獄的火。」
 
 ### 第二對比：論淫念 (5:27-30)
 
-> ^27^\jesus{「你們聽過有話說：『不可姦淫。』}
-> ^28^\jesus{但是我告訴你們：凡看見婦女就動淫念的，這人心裏已經與她犯姦淫了。}
-> ^29^\jesus{若是你的右眼使你跌倒，就把它挖出來丟掉，寧可失去身體的一部分，也不讓全身被丟進地獄。」}
+> <sup>27</sup>「你們聽過有話說：『不可姦淫。』
+> <sup>28</sup>但是我告訴你們：凡看見婦女就動淫念的，這人心裏已經與她犯姦淫了。
+> <sup>29</sup>若是你的右眼使你跌倒，就把它挖出來丟掉，寧可失去身體的一部分，也不讓全身被丟進地獄。」
 
 ### 第三對比：論休妻 (5:31-32)
 
-> ^31^\jesus{「又有話說：『人若休妻，就當給她休書。』}
-> ^32^\jesus{但是我告訴你們：凡休妻的，若不是為不貞的緣故，就是讓她犯姦淫了；人若娶被休的婦人，也是犯姦淫了。」}
+> <sup>31</sup>「又有話說：『人若休妻，就當給她休書。』
+> <sup>32</sup>但是我告訴你們：凡休妻的，若不是為不貞的緣故，就是讓她犯姦淫了；人若娶被休的婦人，也是犯姦淫了。」
 
 ### 第四對比：論起誓 (5:33-37)
 
-> ^33^\jesus{「你們又聽過有對古人說：『不可背誓，所起的誓必須向主償還。』}
-> ^34^\jesus{但是我告訴你們：甚麼誓都不可起。不可指著天起誓，因為天是神的座位；}
-> ^35^\jesus{不可指著地起誓，因為地是他的腳凳；也不可指著耶路撒冷起誓，因為耶路撒冷是大君王的城；}
-> ^36^\jesus{也不可指著你的頭起誓，因為你不能使一根頭髮變黑變白。}
-> ^37^\jesus{你們的話，是就說『是』，不是就說『不是』；若再多說，就是出於那惡者。」}
+> <sup>33</sup>「你們又聽過有對古人說：『不可背誓，所起的誓必須向主償還。』
+> <sup>34</sup>但是我告訴你們：甚麼誓都不可起。不可指著天起誓，因為天是神的座位；
+> <sup>35</sup>不可指著地起誓，因為地是他的腳凳；也不可指著耶路撒冷起誓，因為耶路撒冷是大君王的城；
+> <sup>36</sup>也不可指著你的頭起誓，因為你不能使一根頭髮變黑變白。
+> <sup>37</sup>你們的話，是就說『是』，不是就說『不是』；若再多說，就是出於那惡者。」
 
 ### 第五對比：論報復 (5:38-42)
 
-> ^38^\jesus{「你們聽過有話說：『以眼還眼，以牙還牙。』}
-> ^39^\jesus{但是我告訴你們：不要與惡人作對。有人打你的右臉，連另一邊也轉過來由他打；}
-> ^40^\jesus{有人想要告你，要拿你的裏衣，連外衣也由他拿去；}
-> ^41^\jesus{有人強迫你走一里路，你就跟他走二里。}
-> ^42^\jesus{有求你的，就給他；有向你借貸的，不可推辭。」}
+> <sup>38</sup>「你們聽過有話說：『以眼還眼，以牙還牙。』
+> <sup>39</sup>但是我告訴你們：不要與惡人作對。有人打你的右臉，連另一邊也轉過來由他打；
+> <sup>40</sup>有人想要告你，要拿你的裏衣，連外衣也由他拿去；
+> <sup>41</sup>有人強迫你走一里路，你就跟他走二里。
+> <sup>42</sup>有求你的，就給他；有向你借貸的，不可推辭。」
 
 ### 第六對比：論愛仇敵 (5:43-48)
 
-> ^43^\jesus{「你們聽過有話說：『要愛你的鄰舍，恨你的仇敵。』}
-> ^44^\jesus{但是我告訴你們：要愛你們的仇敵，為那迫害你們的禱告。}
-> ^45^\jesus{這樣，你們就可以作天父的兒女了。因為他叫太陽照好人，也照壞人；降雨給義人，也給不義的人。}
-> ^46^\jesus{你們若只愛那愛你們的人，有甚麼賞賜呢？就是稅吏不也是這樣做嗎？}
-> ^47^\jesus{你們若只請你弟兄的安，有甚麼比人強呢？就是外邦人不也是這樣做嗎？}
-> ^48^\jesus{所以，你們要完全，像你們的天父完全一樣。」}
+> <sup>43</sup>「你們聽過有話說：『要愛你的鄰舍，恨你的仇敵。』
+> <sup>44</sup>但是我告訴你們：要愛你們的仇敵，為那迫害你們的禱告。
+> <sup>45</sup>這樣，你們就可以作天父的兒女了。因為他叫太陽照好人，也照壞人；降雨給義人，也給不義的人。
+> <sup>46</sup>你們若只愛那愛你們的人，有甚麼賞賜呢？就是稅吏不也是這樣做嗎？
+> <sup>47</sup>你們若只請你弟兄的安，有甚麼比人強呢？就是外邦人不也是這樣做嗎？
+> <sup>48</sup>所以，你們要完全，像你們的天父完全一樣。」
 
 ### 六對比總結
 
@@ -209,13 +218,13 @@ publisher: 三書精讀出版系統
 
 ### 3. 超越法利賽人的義 (Surpassing Righteousness)
 
-> ^20^\jesus{「你們的義若不勝過文士和法利賽人的義，絕不能進天國。」}
+> <sup>20</sup>「你們的義若不勝過文士和法利賽人的義，絕不能進天國。」
 
 這不是要求**更多的律法主義**，而是心靈深處的更新——從外在規條到內在品格。
 
 ### 4. 完全如天父 (Perfect as the Father)
 
-> ^48^\jesus{「所以，你們要完全，像你們的天父完全一樣。」}
+> <sup>48</sup>「所以，你們要完全，像你們的天父完全一樣。」
 
 這是**目標**，不是**條件**——靠恩典追求像神。希臘文 *teleios* 意為「完全、成熟、完整」。
 
@@ -304,5 +313,5 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、D.A. Carson*
+*來源索引：見 [SOURCES.md](SOURCES.md)；本章引文與轉述仍須逐條核實。*
 *字數：約 2,800 字*

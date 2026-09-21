@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：撒但被扔入火湖，白色大寶座審判——「成全」這一步的審判面在此徹底了結，再無懸而未決之事；第21章起，鏡頭完全轉向新天新地，直到全書的終點（14章）。
+
 千年國度的平安過去之後，約翰筆鋒一轉，讓我們看見一件驚心的事：撒但被釋放了。這不是神計劃的漏洞，而是神計劃的最後一次揭示——連在基督親自掌權、公義完全彰顯的千年裡，人心的悖逆仍未被環境改變。歌革瑪各的叛亂被火一舉燒滅，撒但被扔進硫磺的火湖，「晝夜受痛苦，直到永永遠遠」（20:10）。緊接著是全書最莊嚴的一幕：白色大寶座前，死了的人都站著，案卷展開，生命冊展開。這裡沒有基督流血代贖的畫面，只有審判本身——因為坐在寶座上的那一位，正是被殺的羔羊，如今以審判者的身分顯現（參約5:22, 27）。
 
 ---
@@ -127,8 +129,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -152,15 +155,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 20
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根論到白色大寶座前展開的案卷，用寥寥數語勾勒出那審判場景的莊嚴：
+
+> "Then follows the account of the great assize. Books are opened, and a book. In the books things are written."
+>
+> 中譯：接下來是那場終極審判的記載。案卷展開了，還有另一卷書。案卷上記載著各人所行的事。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄20章, https://www.studylight.org/commentaries/eng/gcm/revelation-20.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其新約注釋中論到這段經文時指出，案卷所記載的是每一個未曾因信基督而得赦免之人一生的完整記錄——沒有一句閒話、沒有一個意念被遺漏；正因如此，每一個站在這寶座前、名字卻不在生命冊上的人，都無可申訴。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到站在這寶座前的人，麥克阿瑟在講道中指出，這審判毫無偏袒：
+
+> "The somebodies and the nobodies. Position means nothing. God is no respecter of persons."
+>
+> 中譯：有地位的與無名的。地位在這裡毫無意義。神不偏待人。（66-77）
+> — John MacArthur, "Man's Last Day in God's Court, Part 1" (gty.org, sermon 66-77), https://www.gty.org/sermons/66-77/mans-last-day-in-gods-court-part-1
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄注釋中指出，歌革瑪各之戰的重點不在於戰事本身的過程，而在於它戲劇性地短暫——神一句話就終結了看似無可抵擋的悖逆聯軍；這正是全書一貫的模式：仇敵的聲勢愈大，神介入的簡易愈顯明祂的至高。
 

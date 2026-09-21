@@ -372,6 +372,39 @@ $endif$
 %% ============================================
 %% DOCUMENT
 %% ============================================
+% Covers share the Genesis series framing, with Matthew's royal-purple palette.
+\usepackage{eso-pic}
+\definecolor{MatthewCoverDark}{HTML}{140F23}
+\definecolor{MatthewCoverLight}{HTML}{392544}
+\definecolor{MatthewCoverGold}{HTML}{D8B878}
+\definecolor{MatthewCoverCream}{HTML}{F5F0E6}
+\definecolor{MatthewCoverMuted}{HTML}{CEC3D3}
+\newcommand{\MatthewCoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=MatthewCoverDark,bottom color=MatthewCoverLight]
+        (current page.south west) rectangle (current page.north east);
+      \begin{scope}[shift={(current page.south west)},x=1in,y=1in]
+        \draw[MatthewCoverGold,line width=1pt] (.32,.32) rectangle (6.68,9.68);
+        \draw[MatthewCoverGold!50!MatthewCoverLight,line width=.3pt] (.40,.40) rectangle (6.60,9.60);
+        \foreach \x/\y in {.32/.32,6.68/.32,.32/9.68,6.68/9.68}
+          \fill[MatthewCoverGold] (\x,\y) circle[radius=2.2pt];
+      \end{scope}
+    \end{tikzpicture}%
+  }%
+}
+\newcommand{\MatthewCrown}{%
+  \begin{tikzpicture}[x=1cm,y=1cm]
+    \draw[MatthewCoverGold,line width=.5pt] (0,0) circle (1.05);
+    \draw[MatthewCoverGold,line width=1pt,line join=round]
+      (-.62,-.20) -- (-.76,.37) -- (-.33,.10) -- (0,.64)
+      -- (.33,.10) -- (.76,.37) -- (.62,-.20) -- cycle;
+    \draw[MatthewCoverGold,line width=1pt] (-.57,-.34) -- (.57,-.34);
+    \foreach \x/\y in {-.76/.37,0/.64,.76/.37}
+      \fill[MatthewCoverGold] (\x,\y) circle (0.035);
+  \end{tikzpicture}%
+}
+
 \begin{document}
 
 %% --------------------------------------------
@@ -380,168 +413,43 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
-% Title page
+% Front cover: one physical page; detailed maps remain on interior pages.
 \begin{titlepage}
 \thispagestyle{empty}
-\begin{center}
-\vspace*{0.5cm}
-
-% Decorative crown and line
-\starsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
-
-\vspace{0.4cm}
-
-% Main title
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterPurple} 天國君王}\\[0.2cm]
-{\large\itshape\color{LightGray} The King of Heaven}
-
-\vspace{0.6cm}
-
-% Book title
-{\fontsize{22}{28}\selectfont\bfseries 馬太福音研讀}\\[0.15cm]
-{\normalsize A Study of the Gospel of Matthew}
-
-\vspace{0.5cm}
-
-% Key verse in box
-\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{3.8in}
-\centering
-\vspace{0.3cm}
-\small\itshape\color{CommentaryBrown}
-天上地上所有的權柄都賜給我了。\\
-所以，你們要去，使萬民作我的門徒。\\[0.15em]
-\footnotesize All authority in heaven and on earth has been\\
-given to me. Go therefore and make disciples.\\
-— Matthew 28:18-19
-\vspace{0.3cm}
-\end{minipage}
-}
-
-\vspace{0.4cm}
-
-% Holy Land Map (TikZ drawn)
-\begin{tikzpicture}[scale=0.55]
-  % Title
-  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (2.5,7.2) {馬太福音地圖 Map of Matthew's Gospel};
-
-  % Mediterranean Sea (left side)
-  \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
-  % Set OUTSIDE the water fill (which spans x=-1..0.5). Inside the strip it
-  % collided with whichever left-anchored place label overhung it — first
-  % "Nazareth 拿撒勒", then "Jerusalem 耶路撒冷". Out here nothing can reach it.
-  \node[font=\tiny,color=ChapterPurple,rotate=90] at (-1.32,2.45) {Mediterranean};
-  % y=2.45 puts its span (~1.5-3.4) in the clear band: the "Jerusalem" label
-  % row is at y=1.8 and reaches only to x=0.6; "Nazareth" is at y=4.2.
-
-  % Land area
-  \fill[LandBeige] (0.5,0) rectangle (6,6.5);
-
-  % Sea of Galilee
-  \fill[WaterBlue] (3.5,4.5) ellipse (0.6 and 0.8);
-  \node[font=\tiny,color=ChapterPurple] at (3.5,4.5) {Galilee};
-
-  % Jordan River
-  \draw[WaterBlue,line width=1.5pt] (3.5,3.7) -- (3.3,2.5) -- (3.5,1.2);
-
-  % Dead Sea
-  \fill[WaterBlue] (3.5,0.6) ellipse (0.4 and 0.5);
-  \node[font=\tiny,color=ChapterPurple] at (3.5,0.6) {Dead};
-
-  % Key locations from Matthew's Gospel
-  \fill[ScriptureGold] (3.5,2.0) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.6,2.0) {Bethlehem 伯利恆 (2:1)};
-
-  \fill[ScriptureGold] (2,4.2) circle (0.08);
-  \node[font=\tiny,left,color=TextGray] at (1.9,4.2) {Nazareth 拿撒勒 (2:23)};
-
-  \fill[ScriptureGold] (3.5,5.2) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.6,5.2) {Capernaum 迦百農 (4:13)};
-
-  \fill[ScriptureGold] (2.8,5.5) circle (0.08);
-  \node[font=\tiny,left,color=TextGray] at (2.7,5.5) {Mount 山上寶訓 (5-7)};
-
-  \fill[ScriptureGold] (4.5,3.5) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (4.6,3.5) {Wilderness 曠野 (4:1)};
-
-  \fill[red!70!black] (3.2,1.8) circle (0.1);
-  \node[font=\tiny\bfseries,left,color=red!70!black] at (3.1,1.8) {Jerusalem 耶路撒冷};
-
-  % Egypt indicator
-  % `right` anchor pins the left edge inside the land (sea strip ends at x=0.5),
-  % so the label cannot drift over the rotated "Mediterranean" label.
-  % Two lines: on one line the label spans ~2.9 units from x=0.62 and runs
-  % into the Dead Sea ellipse (x 3.1-3.9). Stacked, it ends near x=2.2.
-  \node[font=\tiny,right,align=left,color=TextGray] at (0.62,0.85)
-    {\ensuremath{\leftarrow} Egypt 埃及\\(2:14)};
-
-  % Compass
-  \draw[->,thick,color=ChapterPurple] (5.3,5.8) -- (5.3,6.3);
-  \node[font=\tiny,color=ChapterPurple] at (5.3,6.5) {N};
-
-  % Scale
-  % Scale moved to the empty right-hand land area; under Egypt it overprinted.
-  \draw[color=LightGray] (4.3,0.35) -- (5.5,0.35);
-  \node[font=\tiny,color=LightGray] at (4.9,0.12) {50 km};
+\MatthewCoverBackground
+\null
+\begin{tikzpicture}[remember picture,overlay]
+\begin{scope}[shift={(current page.south west)},x=1in,y=1in]
+  \node[text=MatthewCoverMuted,font=\fontsize{10}{13}\selectfont,align=center] at (3.5,8.92)
+    {THREE BOOKS DEEP READING\\[5pt]三書精讀 · 福音書系列};
+  \draw[MatthewCoverGold,line width=.5pt] (2.80,8.42) -- (4.20,8.42);
+  \node[text=MatthewCoverGold,font=\fontsize{10}{14}\selectfont] at (3.5,8.04)
+    {應許的成全 · 君王的臨在 · 萬民的使命};
+  \node at (3.5,7.17) {\MatthewCrown};
+  \node[text=MatthewCoverCream,font=\fontsize{40}{48}\selectfont\bfseries] at (3.5,5.97)
+    {馬太福音研讀};
+  \node[text=MatthewCoverGold,font=\fontsize{26}{32}\selectfont] at (3.5,5.28)
+    {天國之王};
+  \node[text=MatthewCoverCream,font=\fontsize{16}{21}\selectfont,align=center] at (3.5,4.67)
+    {Gospel of Matthew};
+  \node[text=MatthewCoverMuted,font=\fontsize{11}{15}\selectfont] at (3.5,4.34)
+    {Deep Study};
+  \draw[MatthewCoverGold,line width=.5pt] (1.55,3.83) -- (5.45,3.83);
+  \node[text=MatthewCoverCream,font=\fontsize{14}{20}\selectfont,align=center,text width=4.7in] at (3.5,3.35)
+    {看哪，你的王來到你這裏。};
+  \node[text=MatthewCoverMuted,font=\fontsize{10}{14}\selectfont] at (3.5,2.96)
+    {馬太福音 21:5};
+  \draw[MatthewCoverGold,line width=.5pt] (1.55,2.64) -- (5.45,2.64);
+  \node[text=MatthewCoverGold,font=\fontsize{11}{16}\selectfont] at (3.5,2.16)
+    {二十八章研讀 · 五大講論 · 以馬內利};
+  \node[text=MatthewCoverCream,font=\fontsize{11}{15}\selectfont] at (3.5,1.61)
+    {$if(author)$$author$$else$PubHub 三書精讀系統$endif$};
+  \node[text=MatthewCoverMuted,font=\fontsize{10}{14}\selectfont] at (3.5,1.22)
+    {$if(publisher)$$publisher$$else$三書精讀出版系統$endif$};
+  \node[text=MatthewCoverGold,font=\fontsize{10}{14}\selectfont] at (3.5,.78)
+    {2026 整編版\quad|\quad $if(date)$$date$$else$2026年8月$endif$};
+\end{scope}
 \end{tikzpicture}
-
-\vspace{0.3cm}
-
-% Structure diagram (smaller)
-% NOTE: `scale` alone scales coordinates but leaves `minimum width` at its
-% absolute value, so boxes overlapped and the chapter numbers were hidden
-% under the box borders. `transform shape` scales the nodes too.
-\begin{tikzpicture}[scale=0.6,transform shape,
-    stage/.style={draw=ChapterPurple,fill=ScriptureBg,rounded corners,
-                  minimum width=1.7cm,minimum height=0.6cm,font=\tiny,inner sep=1pt},
-    late/.style={draw=ScriptureGold,fill=ScriptureBg,rounded corners,
-                 minimum width=2.1cm,minimum height=0.6cm,font=\tiny,inner sep=1pt}]
-  \node[font=\footnotesize\bfseries,color=ChapterPurple] at (0,2.7) {Gospel Structure 福音結構};
-
-  \node[stage] (birth)  at (-3.45,1.5) {Birth};
-  \node[stage] (sermon) at (-1.15,1.5) {Sermon};
-  \node[stage] (mission) at (1.15,1.5) {Mission};
-  \node[stage] (parable) at (3.45,1.5) {Parables};
-
-  \node[font=\tiny,color=LightGray,below=1.5pt of birth]   {1-2};
-  \node[font=\tiny,color=LightGray,below=1.5pt of sermon]  {5-7};
-  \node[font=\tiny,color=LightGray,below=1.5pt of mission] {10};
-  \node[font=\tiny,color=LightGray,below=1.5pt of parable] {13};
-
-  \draw[->,color=ScriptureGold,thick] (birth)   -- (sermon);
-  \draw[->,color=ScriptureGold,thick] (sermon)  -- (mission);
-  \draw[->,color=ScriptureGold,thick] (mission) -- (parable);
-
-  \node[late] at (-1.5,0.1) {Church 18};
-  \node[late] at (1.5,0.1) {Olivet 24-25};
-\end{tikzpicture}
-
-\vfill
-
-% Theme and title
-{\normalsize\color{ScriptureGold}\bfseries 看哪，你的王來到你這裏}\\[0.1cm]
-{\footnotesize\color{LightGray} Behold, your King is coming to you (Matt 21:5)}
-
-\vspace{0.5cm}
-
-$if(author)$
-{\normalsize $author$}\\[0.3cm]
-$endif$
-
-$if(publisher)$
-{\small $publisher$}\\[0.15cm]
-$endif$
-
-$if(date)$
-{\small $date$}
-$else$
-{\small \today}
-$endif$
-
-\vspace{0.3cm}
-\starsymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\starsymbol
-
-\end{center}
 \end{titlepage}
 
 % Map page (full page)
@@ -803,46 +711,51 @@ $endif$
 
 $body$
 
-%% --------------------------------------------
-%% BACK COVER
-%% --------------------------------------------
+%% BACK COVER — matching royal-purple series design, true final page.
 \backmatter
+\pagestyle{empty}
 \thispagestyle{empty}
-\vspace*{\fill}
-\begin{center}
-{\Large\itshape\color{ChapterPurple} $if(backcover-symbol)$$backcover-symbol$$else$Ἐμμανουήλ$endif$}\\[0.1cm]
-{\small\itshape\color{LightGray} "God with us" · 以馬內利——首尾呼應全書的鑰字（太1:23；28:20）}
-
-\vspace{0.8cm}
-
-\crosssymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\crosssymbol
-
-\vspace{0.8cm}
-
-{\large\bfseries\color{ChapterPurple} 關於本書}\qquad{\large\bfseries\color{ChapterPurple} About This Book}
-
-\vspace{0.5cm}
-
-\begin{minipage}{5in}
-\small\color{TextGray}
-$if(backcover)$
-$backcover$
-$else$
-本書逐章研讀馬太福音全書二十八章，並附全書領受總綱與正典脈絡導論，整合黃長老查經教導、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan《The Gospel According to Matthew》屬靈組織分析，貫穿十次「這是要應驗」的引言公式、五大講論呼應摩西五經的結構，以及「以馬內利」——從1:23「神與我們同在」到28:20「我就常與你們同在，直到世界的末了」——首尾呼應的應許。全書見證這位大衛的子孫、亞伯拉罕的後裔，如何成為天國近了、且永遠與門徒同在的君王。
-
-A chapter-by-chapter study of all twenty-eight chapters of Matthew, with a whole-book systematic reception essay and canonical-context prologue, integrating Elder Wong's Bible teaching, John MacArthur's verse-by-verse exposition (gty.org), and G. Campbell Morgan's spiritual analysis in \textit{The Gospel According to Matthew}. The study traces the ten fulfillment formulas, the five great discourses echoing the Pentateuch, and the "Immanuel" promise bookending the whole Gospel — from 1:23, "God with us," to 28:20, "I am with you always, to the end of the age." The whole book witnesses how the Son of David, the Son of Abraham, becomes the King whose kingdom has come near and who remains with His disciples forever.
-$endif$
-\end{minipage}
-
-\vspace{1cm}
-
-{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
-{\footnotesize\color{LightGray} 三書精讀出版系統}
-
-\vspace{0.3cm}
-
-{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
-\end{center}
-\vspace*{\fill}
+\MatthewCoverBackground
+\null
+\begin{tikzpicture}[remember picture,overlay]
+\begin{scope}[shift={(current page.south west)},x=1in,y=1in]
+  \node[text=MatthewCoverGold,font=\fontsize{11}{15}\selectfont] at (3.5,8.98)
+    {GOSPEL OF MATTHEW · DEEP STUDY};
+  \node at (3.5,8.11) {\scalebox{.65}{\MatthewCrown}};
+  \node[text=MatthewCoverCream,font=\fontsize{25}{34}\selectfont\bfseries,align=center] at (3.5,7.12)
+    {從應許走向成全\\[7pt]從跟隨走向差遣};
+  \node[text=MatthewCoverGold,font=\fontsize{12}{17}\selectfont] at (3.5,6.37)
+    {神與我們同在，直到世界的末了。};
+  \draw[MatthewCoverGold,line width=.5pt] (.95,5.95) -- (6.05,5.95);
+  \node[anchor=north,text=MatthewCoverCream,text width=4.95in,align=left,
+    font=\fontsize{12}{19}\selectfont] at (3.5,5.62)
+    {從大衛之子的家譜，到復活君王的大使命，本書帶領讀者逐章研讀馬太福音，沿著五大講論與「以馬內利」的主線，認識耶穌的身分、天國的教導，以及門徒生命的回應。};
+  \node[anchor=north,text=MatthewCoverMuted,text width=4.95in,align=left,
+    font=\fontsize{10.5}{15}\selectfont] at (3.5,4.47)
+    {\mbox{Follow Matthew from the genealogy to the Great Commission.}\\
+     \mbox{Twenty-eight chapter studies trace the identity of Jesus,}\\
+     \mbox{the teaching of the kingdom, and the call to discipleship.}\\
+     \mbox{Read the five great discourses in light of the promise}\\
+     \mbox{of Immanuel: God with us.}};
+  \draw[MatthewCoverGold!50!MatthewCoverLight,line width=.4pt] (.95,3.27) -- (6.05,3.27);
+  \node[anchor=north west,text=MatthewCoverGold,font=\fontsize{11}{17}\selectfont] at (.98,3.04)
+    {讀懂經文};
+  \node[anchor=north west,text=MatthewCoverCream,font=\fontsize{10.5}{17}\selectfont] at (2.12,3.04)
+    {中英選讀 · 歷史背景 · 原文研讀};
+  \node[anchor=north west,text=MatthewCoverGold,font=\fontsize{11}{17}\selectfont] at (.98,2.65)
+    {看見全貌};
+  \node[anchor=north west,text=MatthewCoverCream,font=\fontsize{10.5}{17}\selectfont] at (2.12,2.65)
+    {正典脈絡 · 主題索引 · 詞彙導覽};
+  \node[anchor=north west,text=MatthewCoverGold,font=\fontsize{11}{17}\selectfont] at (.98,2.26)
+    {活出回應};
+  \node[anchor=north west,text=MatthewCoverCream,font=\fontsize{10.5}{17}\selectfont] at (2.12,2.26)
+    {默想提問 · 禱告操練 · 讀經計劃};
+  \draw[MatthewCoverGold,line width=.5pt] (2.80,1.65) -- (4.20,1.65);
+  \node[text=MatthewCoverCream,font=\fontsize{10}{15}\selectfont,align=center] at (3.5,1.23)
+    {三書精讀出版系統\\[3pt]Three Books Deep Reading \& Publishing};
+  \node[text=MatthewCoverMuted,font=\fontsize{9}{13}\selectfont] at (3.5,.73)
+    {2026 整編版\quad · \quad Soli Deo Gloria — 唯獨榮耀神};
+\end{scope}
+\end{tikzpicture}
 
 \end{document}

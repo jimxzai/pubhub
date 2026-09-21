@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十一章 · 安提阿——門徒稱為基督徒 (Antioch: First Called Christians)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > ^1^使徒和在猶太的眾弟兄聽說外邦人也領受了神的道。^2^及至彼得上了耶路撒冷，那些奉割禮的門徒和他爭辯，說：^3^「你進入未受割禮之人的家，和他們一同吃飯了！」^4^彼得就開口把這事挨次給他們講解，說：
 
@@ -53,7 +53,7 @@ publisher: 三書精讀出版系統
 
 > ^27^當那些日子，有幾位先知從耶路撒冷下到安提阿。^28^內中有一位名叫亞迦布，站起來，藉著聖靈指明天下將有大饑荒；這事到革老丟年間果然有了。^29^於是門徒定意照各人的力量捐錢，送去供給住在猶太的弟兄。^30^他們就這樣行，把捐項託巴拿巴和掃羅送到眾長老那裏。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > ^1^Now the apostles and the brethren who were throughout Judea heard that the Gentiles also had received the word of God. ^2^And when Peter came up to Jerusalem, those who were circumcised took issue with him, ^3^saying, "You went to uncircumcised men and ate with them." ^4^But Peter began *speaking* and *proceeded* to explain to them in orderly sequence, saying,
 

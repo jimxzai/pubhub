@@ -1,0 +1,506 @@
+[
+  {
+    "file": "augustine-grace.html",
+    "url": "https://www.newadvent.org/fathers/1510.htm",
+    "author": "Augustine",
+    "acquisition": "retrieved 2026-09-21",
+    "sha256": "5eb43a928062ccb3ea12f336aba2ab129e1d4a2e0caa977fa6093ea65f84a046"
+  },
+  {
+    "file": "augustine-pelagians-1.html",
+    "url": "https://www.newadvent.org/fathers/15091.htm",
+    "author": "Augustine",
+    "acquisition": "retrieved 2026-09-21",
+    "sha256": "55f7a7a4696a411fede6195b9e80e320e705b1f85f59f15f24e2d2626c8eec4d"
+  },
+  {
+    "file": "augustine-pelagians-4.html",
+    "url": "https://www.newadvent.org/fathers/15094.htm",
+    "author": "Augustine",
+    "acquisition": "retrieved 2026-09-21",
+    "sha256": "51e605616ed74fe7ed54c5fec81ca17d1a542644bbc7419e791aabe9017693ca"
+  },
+  {
+    "file": "augustine-perseverance.html",
+    "url": "https://www.newadvent.org/fathers/15122.htm",
+    "author": "Augustine",
+    "acquisition": "retrieved 2026-09-21",
+    "sha256": "93d0f4a80aa1ad8d5cdb3cd73efe48aeebfd9e362f3bb8a39bf81fc072f1be36"
+  },
+  {
+    "file": "augustine-predestination.html",
+    "url": "https://www.newadvent.org/fathers/15121.htm",
+    "author": "Augustine",
+    "acquisition": "retrieved 2026-09-21",
+    "sha256": "7c81cb6fb93110b0145db593a6129a56974aeb931e783eb2cc71b4583b154679"
+  },
+  {
+    "file": "augustine-spirit-letter.html",
+    "url": "https://www.newadvent.org/fathers/1502.htm",
+    "author": "Augustine",
+    "acquisition": "retrieved 2026-09-21",
+    "sha256": "ddc78e14ee2cf73a3f62395ba290fa305378f0b19e058a2328564c925d380601"
+  },
+  {
+    "file": "calvin-full.txt",
+    "url": "https://ccel.org/ccel/c/calvin/calcom38/cache/calcom38.txt",
+    "author": "Calvin",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "6090997ea412d298b9dadb0816d52db60d4960c564c8c1f421d0dd1292e562c7"
+  },
+  {
+    "file": "calvin-institutes.html",
+    "url": "https://www.ccel.org/c/calvin/institutes/cache/institutes.html3",
+    "author": "Calvin",
+    "acquisition": "retrieved 2026-09-21",
+    "sha256": "e9b61d4fe1444509abf550d8724d28ff7d14f1680db8ac6d0e864787640ee92f"
+  },
+  {
+    "file": "chrysostom-01.html",
+    "url": "https://www.newadvent.org/fathers/210201.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "2d924e52188c8997c99eae0af7c32dec05c0e6dddb4267a431873e7fd7a61f41"
+  },
+  {
+    "file": "chrysostom-02.html",
+    "url": "https://www.newadvent.org/fathers/210202.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "80dd35538c9eaeebd5cc71559fcca5a2b16a128e881870e5f6b6bf79225a27aa"
+  },
+  {
+    "file": "chrysostom-03.html",
+    "url": "https://www.newadvent.org/fathers/210203.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "d62aa43085e5b82730f3a268bfb24225f693970adecbdb49960e596f91538d68"
+  },
+  {
+    "file": "chrysostom-04.html",
+    "url": "https://www.newadvent.org/fathers/210204.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "47687dff58019b1bbf0924cb0bcc8a03e527501e297d4d12d700625041e34702"
+  },
+  {
+    "file": "chrysostom-05.html",
+    "url": "https://www.newadvent.org/fathers/210205.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "be3728a4cff2957067fb258f7c4529c63b060efd11826baea653c0dbf6d33390"
+  },
+  {
+    "file": "chrysostom-06.html",
+    "url": "https://www.newadvent.org/fathers/210206.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "3e20c594d64f332890fc24c7053e3c7a9adf32377a11d069b00c62fbb33e74a9"
+  },
+  {
+    "file": "chrysostom-07.html",
+    "url": "https://www.newadvent.org/fathers/210207.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "865382101da10d2c30ef61e3190b3d3922aca789bab602472031164a3c15a584"
+  },
+  {
+    "file": "chrysostom-08.html",
+    "url": "https://www.newadvent.org/fathers/210208.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "247d922d4df3c65b3df7c74525573485ec0ef7b2d6d502dd4fb59ffb9a337185"
+  },
+  {
+    "file": "chrysostom-09.html",
+    "url": "https://www.newadvent.org/fathers/210209.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "c4969d4e359297d439d56a71e13a9da08a0ec54d8358607eae06b3a85bfdf9a7"
+  },
+  {
+    "file": "chrysostom-10.html",
+    "url": "https://www.newadvent.org/fathers/210210.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "58e599f965c4c2907ef9d93b57a1bacc51a4f416301d7cb778b8729965385882"
+  },
+  {
+    "file": "chrysostom-11.html",
+    "url": "https://www.newadvent.org/fathers/210211.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "24782153d78d060315033c337feabc17fab2af76b6f9aed9dd9842c5e0492dd6"
+  },
+  {
+    "file": "chrysostom-12.html",
+    "url": "https://www.newadvent.org/fathers/210212.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "5dd8b30a0a6e48a68d93c16a76415fc20cdb122bb5690d1c4636118e3a72aca6"
+  },
+  {
+    "file": "chrysostom-13.html",
+    "url": "https://www.newadvent.org/fathers/210213.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "96679ab52ff71970b46ba692b16b66c3afafa08eda127b2b21f1498c17aacf41"
+  },
+  {
+    "file": "chrysostom-14.html",
+    "url": "https://www.newadvent.org/fathers/210214.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "402625cec08dd05097ebd0bbaed419cc8a8ceece031b2245c17f3822a95bbe7b"
+  },
+  {
+    "file": "chrysostom-15.html",
+    "url": "https://www.newadvent.org/fathers/210215.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "ddbb580ca0a6b168ddbbb6780e3644eccdb776648f8a908d7c8a5604cc4612c9"
+  },
+  {
+    "file": "chrysostom-16.html",
+    "url": "https://www.newadvent.org/fathers/210216.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "734c95c08fae6689caa252c06abda875ea244ff2c371777f1ef5952ac0698082"
+  },
+  {
+    "file": "chrysostom-17.html",
+    "url": "https://www.newadvent.org/fathers/210217.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "4b160f65765599705834d8bf27c5504102203a53f5f8b4859a2648e7438939e9"
+  },
+  {
+    "file": "chrysostom-18.html",
+    "url": "https://www.newadvent.org/fathers/210218.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "bb13095773070f00c9944331a0f871b48a8898fd47be55d022e3ce42c27eec1e"
+  },
+  {
+    "file": "chrysostom-19.html",
+    "url": "https://www.newadvent.org/fathers/210219.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "de0faf3d3b19b00878061ada03c4e1a65049ec13a82a8fcfb7be8b93d02cda11"
+  },
+  {
+    "file": "chrysostom-20.html",
+    "url": "https://www.newadvent.org/fathers/210220.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "43772e4969b8d46c6a5a3899ece44b05608f369a644bb18c5c6cb58cbdb497a7"
+  },
+  {
+    "file": "chrysostom-21.html",
+    "url": "https://www.newadvent.org/fathers/210221.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "425b0dd95037e956811b56352ff039387ad0b9aa04dfcec65aa1a1691f570065"
+  },
+  {
+    "file": "chrysostom-22.html",
+    "url": "https://www.newadvent.org/fathers/210222.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "23fa9113963d15a6413949a8ebdb6c8860ee8e0bed58061229afd99ca3e30182"
+  },
+  {
+    "file": "chrysostom-23.html",
+    "url": "https://www.newadvent.org/fathers/210223.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "6dfd52c60a20c8b83f7c355c9bf63161fefc877aafca3974898d5fbc21e36ca4"
+  },
+  {
+    "file": "chrysostom-24.html",
+    "url": "https://www.newadvent.org/fathers/210224.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "cbfe8a5a4025af46d9ed9841bc7531dbbc113566e500bc92fbe85e6c47946ebf"
+  },
+  {
+    "file": "chrysostom-25.html",
+    "url": "https://www.newadvent.org/fathers/210225.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "b2d615e544feca691bfb20ff54fbe950d942673f0c1306ce52e3e3b6e978b18c"
+  },
+  {
+    "file": "chrysostom-26.html",
+    "url": "https://www.newadvent.org/fathers/210226.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "a1641993cc90c9ff9fddcab7a39d9edfb0c7466b6d1149ec069833c073538ae7"
+  },
+  {
+    "file": "chrysostom-27.html",
+    "url": "https://www.newadvent.org/fathers/210227.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "9b72f475b53a041cccc7d362a0f5eee2476a77f338291dadf4754ae58d554906"
+  },
+  {
+    "file": "chrysostom-28.html",
+    "url": "https://www.newadvent.org/fathers/210228.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "370ca3de5bd8bb4de1361fdc0660796dabeace6992e438ec674b62c6d019beee"
+  },
+  {
+    "file": "chrysostom-29.html",
+    "url": "https://www.newadvent.org/fathers/210229.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "ab81570785540f4faefce7f34bfac03f2b996b4961c56cb63368cd0c31d4bb6b"
+  },
+  {
+    "file": "chrysostom-30.html",
+    "url": "https://www.newadvent.org/fathers/210230.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "9884adad4813e33eab65a6c9f40390176e6117f342fd2d3dfcc60f02623e46d3"
+  },
+  {
+    "file": "chrysostom-31.html",
+    "url": "https://www.newadvent.org/fathers/210231.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "ca5cedeb57316c1296aae19f1abfad2da3085fa80f24e9256cc37cf0ea73d9de"
+  },
+  {
+    "file": "chrysostom-32.html",
+    "url": "https://www.newadvent.org/fathers/210232.htm",
+    "author": "Chrysostom",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "e480df878124541f951b2f80a7f14ff58072b7ce508585bb7b2ae5db8feebea9"
+  },
+  {
+    "file": "gty-45-08.html",
+    "url": "https://www.gty.org/library/sermons-library/45-08/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "2fe140d3388eff9d8c153d72ac05366ed49e1a27021473af5eeda9f57b4fbc78"
+  },
+  {
+    "file": "gty-45-09.html",
+    "url": "https://www.gty.org/library/sermons-library/45-09/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "f8ac30ca1b58f7a828e5738df25a067ea21376c52bd051e84fbd488c063623a3"
+  },
+  {
+    "file": "gty-45-108.html",
+    "url": "https://www.gty.org/library/sermons-library/45-108/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "b94db12dbc248b5f5eba22643492f9357342b5dbc3950c2be626c19e1451a628"
+  },
+  {
+    "file": "gty-45-111.html",
+    "url": "https://www.gty.org/library/sermons-library/45-111/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "be5dfece8b0257780163eb9d27bf48986bf8b34ab872b1fe313163c5911ab541"
+  },
+  {
+    "file": "gty-45-114.html",
+    "url": "https://www.gty.org/library/sermons-library/45-114/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "b938fccfd415680a1e51745cb0d9dfa65f5d028037a81b0b10380745eaad000f"
+  },
+  {
+    "file": "gty-45-115.html",
+    "url": "https://www.gty.org/library/sermons-library/45-115/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "f2d0742f343e0a895cd6817a2260f09a94072657a7768eebb52a64e88ffd0c8c"
+  },
+  {
+    "file": "gty-45-119.html",
+    "url": "https://www.gty.org/library/sermons-library/45-119/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "ebf6c89be1021afe84e17c3de473b73bdd7fa5f487ca9f48dc9805535fe4f44e"
+  },
+  {
+    "file": "gty-45-121.html",
+    "url": "https://www.gty.org/library/sermons-library/45-121/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "45efa833695835f7fc4f843661df16e7765c6696f79b780df619ee2491b162e4"
+  },
+  {
+    "file": "gty-45-22.html",
+    "url": "https://www.gty.org/library/sermons-library/45-22/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "a15f40c5c6b3effa7c55484eabf1c1dd8e1541c310e3846ae180dd3e88db8685"
+  },
+  {
+    "file": "gty-45-23.html",
+    "url": "https://www.gty.org/library/sermons-library/45-23/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "b8234d5254d3e3ed02951f8063982e671895e2311a57d2451851b7c119135310"
+  },
+  {
+    "file": "gty-45-29.html",
+    "url": "https://www.gty.org/library/sermons-library/45-29/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "f12f9e5788e09e8707dc379f30f4fa3c8eec6061878b72089bfac307d9763622"
+  },
+  {
+    "file": "gty-45-30.html",
+    "url": "https://www.gty.org/library/sermons-library/45-30/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "e61a9ca43697bdf55595a6376e1d1926e5bb8811b01f3a8d5b803a3b6e269f76"
+  },
+  {
+    "file": "gty-45-34.html",
+    "url": "https://www.gty.org/library/sermons-library/45-34/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "9576a2fb5641b827639742dd5772cfb14503fb60b52e2580aa5a1222e62c03f2"
+  },
+  {
+    "file": "gty-45-40.html",
+    "url": "https://www.gty.org/library/sermons-library/45-40/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "c81c9cfafe3abcbb5814ca308d8dc39678cddb30b9ba133b7af0930bfd8a4632"
+  },
+  {
+    "file": "gty-45-43.html",
+    "url": "https://www.gty.org/library/sermons-library/45-43/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "ac557e4ee3491edfaa00a99b82b30507babc9e7d616658ea26f002e0db1ddd0f"
+  },
+  {
+    "file": "gty-45-44.html",
+    "url": "https://www.gty.org/library/sermons-library/45-44/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "04bd1c4fcf12b3e3620c9bb87107cfcf71d0b72e1857e241f0b81487ae4a1e63"
+  },
+  {
+    "file": "gty-45-46.html",
+    "url": "https://www.gty.org/library/sermons-library/45-46/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "7da3d8245f669e02dc6d4d6d45c208f7f0ae57da0d9924b5db18edf2c8182622"
+  },
+  {
+    "file": "gty-45-47.html",
+    "url": "https://www.gty.org/library/sermons-library/45-47/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "091e86a8b40b9c5391c639237536808bfc1592dad23f2769b60ababe6498f60a"
+  },
+  {
+    "file": "gty-45-52.html",
+    "url": "https://www.gty.org/library/sermons-library/45-52/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "63721bee936898d0dc96e21d4907ca26daac7e144503f5515701652e3fe54e4e"
+  },
+  {
+    "file": "gty-45-53.html",
+    "url": "https://www.gty.org/library/sermons-library/45-53/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "dc76eddfeab62ad67474d4543700d196be726ef388723bf788011cbf5b0c20f4"
+  },
+  {
+    "file": "gty-45-57.html",
+    "url": "https://www.gty.org/library/sermons-library/45-57/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "8fe89f0df72a13daea9b7a9dba155d9f46794dab0b0199910619641d10e9aef1"
+  },
+  {
+    "file": "gty-45-73.html",
+    "url": "https://www.gty.org/library/sermons-library/45-73/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "f41ab7eb82dea16ecfa0da9090545537ff641f15858d71d123e32757d3c87b22"
+  },
+  {
+    "file": "gty-45-74.html",
+    "url": "https://www.gty.org/library/sermons-library/45-74/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "edc91f5dfcd114799795fdda9bd781773e982efa8ad0e79417f46c0283b8b6ab"
+  },
+  {
+    "file": "gty-45-79.html",
+    "url": "https://www.gty.org/library/sermons-library/45-79/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "2076383491250038ded41d7887d680d88546214ef82e039382a2ada9adccd02d"
+  },
+  {
+    "file": "gty-45-80.html",
+    "url": "https://www.gty.org/library/sermons-library/45-80/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "8f30978408542f4c7862335cff4267f0c32914f4057f194d4614e91f9e4cf2ff"
+  },
+  {
+    "file": "gty-45-86.html",
+    "url": "https://www.gty.org/library/sermons-library/45-86/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "c6673f06425b1cba5bbfea0af3bb777855273513b619207aa22a24e6989b7366"
+  },
+  {
+    "file": "gty-45-87.html",
+    "url": "https://www.gty.org/library/sermons-library/45-87/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "3f67f22b0fd170245b0bf184250f7f1ee7ba64cb22c8b453780222628b03fe98"
+  },
+  {
+    "file": "gty-45-89.html",
+    "url": "https://www.gty.org/library/sermons-library/45-89/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "3828f4daefa5b6a643dd2d6377fabfc972e4eb52fcd48f63231a199e1d469fe9"
+  },
+  {
+    "file": "gty-45-97.html",
+    "url": "https://www.gty.org/library/sermons-library/45-97/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "862efa9a429424de83c61e160c63902bf5ca74489e3864079488c59e72b0bbf0"
+  },
+  {
+    "file": "gty-45-98.html",
+    "url": "https://www.gty.org/library/sermons-library/45-98/",
+    "author": "MacArthur",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "93265e08a408f2c4e231a12fc4e3ce9c195c68a2bd8f57f7965549db53a56129"
+  },
+  {
+    "file": "luther-romans.html",
+    "url": "https://www.ccel.org/l/luther/romans/pref_romans.html",
+    "author": "Luther",
+    "acquisition": "retrieved 2026-09-21",
+    "sha256": "34b8804c4b10b7a5a3c9e35e10dd55fb7861ca50434d9b1276d1e54e8595e15f"
+  },
+  {
+    "file": "morgan.txt",
+    "url": "https://www.classicchristianlibrary.com/library/morgan_g_campbell/Morgan-Romans.pdf",
+    "author": "Morgan",
+    "acquisition": "recovered 2026-09-21; retrieval date unknown",
+    "sha256": "ad8b7553e4a9b7da0711fab0a559349367387d14df80689d25c085f1eb688819"
+  }
+]

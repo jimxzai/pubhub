@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七封信中最長的一封——推雅推喇容讓耶洗別的教訓，「察驗」在此顯出主鑒察人肺腑心腸的一面，也埋下22:16「晨星」應許的伏筆。
+
 推雅推喇是七封書信中篇幅最長的一封，寫給七間教會中知名度最小、卻在某些方面最活躍的一間——她的「愛心、信心、勤勞、忍耐，又知道你末後所行的善事，比起初所行的更多」，是七間教會中唯一被稱讚「越來越好」的。然而，她卻容忍了一個自稱先知、被主直接點名為「耶洗別」的女人，引誘信徒行淫亂、吃祭偶像之物。基督在此顯現為「眼目如火燄、腳像光明銅的神之子」——這雙能洞察一切隱藏之事的眼目，正是要照透推雅推喇教會表面活躍下所掩蓋的容忍與敗壞。
 
 ---
@@ -125,8 +127,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -144,15 +147,29 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *An Exposition of the Old and New Testament* (Acts–Revelation volume completed by other nonconformist ministers after Henry's death, 1721)
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根將推雅推喇教會定位為教會歷史的中心時期——黑暗時代，一個無恥的淫婦篡奪了基督教會的權柄：
+
+> "The letter to the Church in Thyatira covers the central period in the Church's history. It was again a period of persecution. It covered what we speak of as the Dark Ages, in which a shameless harlot had usurped power in the Church of Jesus Christ."
+>
+> 中譯：給推雅推喇教會的信涵蓋的是教會歷史的中心時期。那又是一個逼迫的時期。它涵蓋了我們所說的黑暗時代，其中一個無恥的淫婦篡奪了耶穌基督教會的權柄。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄2章, https://www.studylight.org/commentaries/eng/gcm/revelation-2.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，推雅推喇教會的悲劇不在於她缺乏愛心、信心或勤勞——她樣樣都有，甚至越來越多——她的悲劇在於，她把這一切美德用在容忍一個假先知身上，而不是用來抵擋她。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+麥克阿瑟指出，推雅推喇教會對耶洗別的態度已經不只是消極的縱容：
+
+> "Not only were they tolerating it in the church, but there were certain people in the church who were advocating it. It wasn’t just a mild tolerance, it was an advocacy."
+>
+> 中譯：他們不僅在教會裏容忍這事，教會中甚至有人在積極提倡這事。這不只是溫和的容忍，這是公開的提倡。（66-10）
+> — John MacArthur, *Thyatira: The Church That Tolerates Sin, Part 2* (gty.org, sermon 66-10), https://www.gty.org/sermons/66-10/thyatira-the-church-that-tolerates-sin-part-2
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「撒但深奧之理」很可能是耶洗別一派自己使用的語言，諷刺性地被主引用——她自稱帶領信徒進入屬靈的深處，主卻宣告，那深處不過是撒但的深處。
 

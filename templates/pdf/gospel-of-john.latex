@@ -125,6 +125,9 @@
 %% LINE AND PARAGRAPH SPACING
 %% ============================================
 \linespread{1.1}
+% Permit natural page bottoms in a long-form study book. This avoids TeX
+% stretching short final pages and emitting underfull vbox warnings.
+\raggedbottom
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.3em}
 
@@ -200,11 +203,10 @@
   colorlinks=true,
   linkcolor=ChapterBlue,
   urlcolor=ScriptureGold,
-  bookmarks=true,
   bookmarksnumbered=true,
   pdftitle={約翰福音研讀——生命之道},
   pdfauthor={PubHub 三書精讀系統},
-  pdfsubject={Gospel of John Deep Study — 2026 整編版},
+  pdfsubject={Gospel of John Deep Study — Edition 4.0},
   pdflang={zh-TW}
 }
 
@@ -240,6 +242,10 @@
 %% HEADERS AND FOOTERS
 %% ============================================
 \usepackage{fancyhdr}
+% Reserve enough vertical space for the two-line running heads. Without this,
+% XeLaTeX emits a headheight warning on nearly every page and the warning is
+% easy to mistake for a clean build because the PDF still opens.
+\setlength{\headheight}{22pt}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\small\thepage}
@@ -357,6 +363,21 @@ $endif$
 %% ============================================
 %% DOCUMENT
 %% ============================================
+% Vector cover design, 7 x 10 inches. Shared by front and back.
+\usepackage{eso-pic}
+\definecolor{JohnCoverDark}{RGB}{7,18,32}
+\definecolor{JohnCoverBlue}{RGB}{20,47,65}
+\definecolor{JohnCoverGold}{RGB}{216,183,109}
+\definecolor{JohnCoverCream}{RGB}{249,246,236}
+\definecolor{JohnCoverMuted}{RGB}{191,206,211}
+\newcommand{\JohnCoverGround}{%
+\AddToShipoutPictureBG*{\begin{tikzpicture}[remember picture,overlay]
+\shade[top color=JohnCoverDark,bottom color=JohnCoverBlue] (current page.south west) rectangle (current page.north east);
+\draw[JohnCoverGold,line width=1pt] ([xshift=.32in,yshift=.32in]current page.south west) rectangle ([xshift=-.32in,yshift=-.32in]current page.north east);
+\draw[JohnCoverGold,line width=.3pt,opacity=.7] ([xshift=.40in,yshift=.40in]current page.south west) rectangle ([xshift=-.40in,yshift=-.40in]current page.north east);
+\foreach \corner/\xs/\ys in {south west/1/1,south east/-1/1,north west/1/-1,north east/-1/-1} {
+\fill[JohnCoverGold] ([xshift=\xs*.32in,yshift=\ys*.32in]current page.\corner) circle (2.4pt);}
+\end{tikzpicture}}}
 \begin{document}
 
 %% --------------------------------------------
@@ -366,109 +387,31 @@ $endif$
 \pagestyle{empty}
 
 %% ============================================
-%% COVER ART PAGE — the eagle (約翰＝鷹), radiating glory,
-%% the seven-fold "I Am" name. Full-bleed, gold-bordered,
-%% matching the appendix/back-cover palette.
-%% ============================================
-\thispagestyle{empty}
-\begin{tikzpicture}[remember picture, overlay]
-  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  \draw[ScriptureGold, line width=2.8pt]
-    ([xshift=0.42in,yshift=0.42in]current page.south west)
-    rectangle
-    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
-  \draw[ScriptureGold, line width=0.5pt]
-    ([xshift=0.50in,yshift=0.50in]current page.south west)
-    rectangle
-    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
-  \draw[ChapterBlue, line width=0.3pt, opacity=0.55]
-    ([xshift=0.58in,yshift=0.58in]current page.south west)
-    rectangle
-    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
-  \foreach \cnr in {south west, south east, north west, north east} {
-    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
-    \fill[JesusRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
-  }
-\end{tikzpicture}
-
-\begin{center}
-\vspace*{0.42in}
-
-{\footnotesize\scshape\color{ChapterBlue} Three Books Deep Reading \textbullet\ Gospel of John}\\[0.08cm]
-{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 約翰福音深度研讀}
-
-\vspace{0.16cm}
-\begin{tikzpicture}
-  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
-  \fill[ScriptureGold] (-0.35,0) circle (0.04);
-  \fill[ScriptureGold] (0,0) circle (0.06);
-  \fill[ScriptureGold] (0.35,0) circle (0.04);
-  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
-\end{tikzpicture}
-\vspace{0.22cm}
-
-{\fontsize{13}{15}\selectfont\itshape\color{TextGray} The Fourth Gospel \textperiodcentered\ 鷹的視角：從太初看見神子}
-
-\vspace{0.30cm}
-
-% ===== EAGLE WITH HALO OF GLORY (約翰的活物記號) =====
-\begin{tikzpicture}[scale=0.85, transform shape]
-  % Halo — radiating glory rays
-  \draw[ScriptureGold, line width=0.3pt, opacity=0.10] (0,0.3) circle (2.15);
-  \draw[ScriptureGold, line width=0.3pt, opacity=0.16] (0,0.3) circle (1.90);
-  \draw[ScriptureGold, line width=0.4pt, opacity=0.24] (0,0.3) circle (1.65);
-  \draw[ScriptureGold, line width=0.5pt, opacity=0.34] (0,0.3) circle (1.35);
-  \foreach \ang in {0,15,...,345} {
-    \draw[ScriptureGold, line width=0.35pt, opacity=0.40]
-      ({1.35*cos(\ang)}, {0.3+1.35*sin(\ang)}) -- ({1.75*cos(\ang)}, {0.3+1.75*sin(\ang)});
-  }
-  \draw[ScriptureGold, line width=1.0pt] (0,0.3) circle (1.35);
-
-  % Eagle — spread wings, iconographic (約翰＝鷹)
-  \fill[ChapterBlue] (0,0.55) -- (-1.55,1.05) -- (-1.35,0.55) -- (-1.05,0.72) -- (-0.72,0.40) -- (-0.35,0.55) -- (0,0.30) -- cycle;
-  \fill[ChapterBlue] (0,0.55) --  (1.55,1.05) --  (1.35,0.55) --  (1.05,0.72) --  (0.72,0.40) --  (0.35,0.55) -- (0,0.30) -- cycle;
-  \fill[ScriptureGold,opacity=0.55] (0,0.55) -- (-1.05,0.80) -- (-0.90,0.52) -- (-0.62,0.62) -- (0,0.42) -- cycle;
-  \fill[ScriptureGold,opacity=0.55] (0,0.55) --  (1.05,0.80) --  (0.90,0.52) --  (0.62,0.62) -- (0,0.42) -- cycle;
-  % head + body
-  \fill[JesusRed] (0,0.62) circle (0.16);
-  \fill[ChapterBlue] (-0.10,0.15) -- (0.10,0.15) -- (0.05,0.55) -- (-0.05,0.55) -- cycle;
-\end{tikzpicture}
-
-\vspace{0.10cm}
-\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
-\vspace{0.24cm}
-
-{\fontsize{34}{40}\selectfont\bfseries\color{ChapterBlue}\kaiti\selectfont 生命之道}\\[0.10cm]
-{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} The Word of Life}
-
-\vspace{0.20cm}
-{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 約翰福音研讀}\\[0.08cm]
-{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Gospel of John}
-
-\vspace{0.24cm}
-{\fontsize{15}{18}\selectfont\itshape\color{ChapterBlue} Ἐγώ εἰμι}\quad
-{\footnotesize\scshape\color{CommentaryBrown} “I Am”}\quad
-{\footnotesize\bfseries\color{JesusRed} 我是}
-
-\vfill
-
-\fcolorbox{ScriptureGold}{white}{%
-\begin{minipage}{4.3in}
-\centering\vspace{0.15cm}
-{\footnotesize\color{JesusRed}\kaiti\selectfont
-「太初有道，道與神同在，道就是神……道成了肉身，住在我們中間。」}\\[0.10em]
-{\scriptsize\itshape\color{TextGray}
-“In the beginning was the Word... and the Word became flesh and dwelt among us.”}\\[0.10em]
-{\scriptsize\color{ChapterBlue} 約翰福音 1:1, 14 \textperiodcentered\ John 1:1, 14}
-\vspace{0.15cm}
-\end{minipage}}
-
-\vspace{0.3in}
-\end{center}
+%% COVER ART PAGE
+\thispagestyle{empty}\JohnCoverGround\null
+\begin{tikzpicture}[remember picture,overlay]
+\begin{scope}[shift={(current page.north west)},x=1in,y=1in]
+\node[text=JohnCoverMuted,align=center] at (3.5,-1.12) {\fontsize{10}{14}\selectfont Three Books Deep Reading\;\textbullet\;Gospel of John\\[5pt]\fontsize{10}{14}\selectfont 三書精讀\;\textbullet\;約翰福音深度研讀};
+\draw[JohnCoverGold,line width=.6pt] (2.42,-1.65)--(4.58,-1.65);
+\node[text=JohnCoverMuted] at (3.5,-2.03) {\fontsize{11}{15}\selectfont 從太初的道，看見生命的光};
+\begin{scope}[shift={(3.5,-2.91)},x=1cm,y=1cm]
+\draw[JohnCoverGold,line width=.65pt] (0,0) circle (.77);
+\draw[JohnCoverGold,line width=.3pt,opacity=.55] (0,0) circle (.87);
+\foreach \a in {0,10,...,350} {\draw[JohnCoverGold,line width=.38pt] (\a:.46)--(\a:.68);}
+\foreach \a in {90,141.4286,...,398.5716} {\draw[JohnCoverGold,line width=.65pt] (\a:.90)--(\a:1.07);}
+\node[text=JohnCoverCream] at (0,0) {\fontsize{17}{20}\selectfont 光};
+\end{scope}
+\node[text=JohnCoverCream] at (3.5,-4.02) {\fontsize{39}{45}\selectfont\bfseries 生命之道};
+\node[text=JohnCoverGold] at (3.5,-4.53) {\fontsize{19}{23}\selectfont\itshape The Word of Life};
+\node[text=JohnCoverCream] at (3.5,-5.19) {\fontsize{23}{29}\selectfont\bfseries 約翰福音研讀};
+\node[text=JohnCoverMuted] at (3.5,-5.58) {\fontsize{12}{16}\selectfont Gospel of John Deep Study};
+\node[text=JohnCoverGold] at (3.5,-6.22) {\fontsize{14}{18}\selectfont Ἐγώ εἰμι\quad\itshape I Am\quad\upshape 我是};
+\draw[JohnCoverGold,line width=.5pt] (1.35,-6.70)--(5.65,-6.70);
+\node[text=JohnCoverCream,align=center,text width=4.7in] at (3.5,-7.20) {\fontsize{12}{19}\selectfont 太初有道，道與神同在，道就是神。\\[7pt]\fontsize{9}{12}\selectfont\color{JohnCoverMuted} 約翰福音 1:1\;\textbullet\;和合本 1919};
+\draw[JohnCoverGold,line width=.5pt] (1.35,-7.70)--(5.65,-7.70);
+\node[text=JohnCoverGold] at (3.5,-8.13) {\fontsize{11}{15}\selectfont 道成肉身\quad 恩典與真理\quad 信而得生命};
+\node[text=JohnCoverCream,align=center] at (3.5,-8.85) {\fontsize{11}{15}\selectfont PubHub\;\textbullet\;三書精讀出版系統\\[8pt]\fontsize{9}{12}\selectfont\color{JohnCoverMuted} Edition 4.0\quad CUV 1919\;|\;NASB 1995};
+\end{scope}\end{tikzpicture}
 \cleardoublepage
 
 %% ============================================
@@ -558,7 +501,7 @@ This time, put the main character back where He belongs.}
 
 % Main title
 {\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 生命之道}\\[0.2cm]
-{\large\itshape\color{LightGray} The Way of Life}
+{\large\itshape\color{LightGray} The Word of Life}
 
 \vspace{0.6cm}
 
@@ -583,64 +526,11 @@ with God, and the Word was God. — John 1:1
 
 \vspace{0.4cm}
 
-% Holy Land Map (TikZ drawn)
-\begin{tikzpicture}[scale=0.55]
-  % Title
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2.5,7.2) {約翰福音地圖 Map of John's Gospel};
-
-  % Mediterranean Sea (left side)
-  \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
-  \node[font=\tiny,color=ChapterBlue,rotate=90] at (-0.5,3.5) {Mediterranean};
-
-  % Land area
-  \fill[LandBeige] (0.5,0) rectangle (6,6.5);
-
-  % Sea of Galilee
-  \fill[WaterBlue] (3.5,4.5) ellipse (0.6 and 0.8);
-  \node[font=\tiny,color=ChapterBlue] at (3.5,4.5) {Galilee};
-
-  % Jordan River
-  \draw[WaterBlue,line width=1.5pt] (3.5,3.7) -- (3.3,2.5) -- (3.5,1.2);
-
-  % Dead Sea
-  \fill[WaterBlue] (3.5,0.6) ellipse (0.4 and 0.5);
-  \node[font=\tiny,color=ChapterBlue] at (3.5,0.6) {Dead};
-
-  % Key locations from John's Gospel
-  \fill[ScriptureGold] (2.8,5.8) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (2.9,5.8) {Cana 迦拿 (2:1)};
-
-  \fill[ScriptureGold] (3.5,5.2) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.6,5.2) {Capernaum 迦百農};
-
-  \fill[ScriptureGold] (2,4.2) circle (0.08);
-  \node[font=\tiny,left,color=TextGray] at (1.9,4.2) {Nazareth 拿撒勒};
-
-  \fill[ScriptureGold] (3.2,3.2) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.3,3.2) {Samaria 撒瑪利亞 (4:4)};
-
-  \fill[ScriptureGold] (3.8,2.4) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.9,2.4) {Bethany 伯大尼 (11:1)};
-
-  \fill[red!70!black] (3.2,1.8) circle (0.1);
-  \node[font=\tiny\bfseries,left,color=red!70!black] at (3.1,1.8) {Jerusalem 耶路撒冷};
-
-  \fill[ScriptureGold] (4.5,2.8) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (4.6,2.8) {Bethlehem 伯利恆};
-
-  % Compass
-  \draw[->,thick,color=ChapterBlue] (5.3,5.8) -- (5.3,6.3);
-  \node[font=\tiny,color=ChapterBlue] at (5.3,6.5) {N};
-
-  % Scale
-  \draw[color=LightGray] (0.8,0.3) -- (2.3,0.3);
-  \node[font=\tiny,color=LightGray] at (1.55,0.1) {50 km};
-\end{tikzpicture}
-
-\vspace{0.3cm}
+% The full-size map follows the title page.
+\vspace{0.7cm}
 
 % Structure diagram (smaller)
-\begin{tikzpicture}[scale=0.6]
+\begin{tikzpicture}[scale=1]
   \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {Gospel Structure 福音結構};
 
   \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (-2.5,1.5) {Prologue};
@@ -771,7 +661,8 @@ $endif$
 
   % Bethlehem
   \fill[ScriptureGold] (5,2.8) circle (0.12);
-  \node[font=\tiny,left,color=TextGray] at (4.8,2.8) {Bethlehem 伯利恆};
+  \draw[ScriptureGold,thin] (5,2.8) -- (3.5,1.8);
+  \node[font=\tiny,left,color=TextGray] at (3.5,1.8) {Bethlehem 伯利恆};
 
   % Compass Rose
   \draw[->,very thick,color=ChapterBlue] (9,10.5) -- (9,11.3);
@@ -810,6 +701,10 @@ $if(copyright)$
 $copyright$
 $else$
 \textbf{約翰福音研讀 / Gospel of John Study}\\[0.8em]
+
+Gospel of John Deep Study — Edition 4.0\\
+本書使用 CUV 1919 與 NASB 1995；經文部分為選摘，並非完整的中英雙語《約翰福音》。\\
+This is a study guide with selected CUV 1919 and NASB 1995 Scripture excerpts, not a complete bilingual Gospel of John.\\[0.8em]
 
 Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
@@ -1704,83 +1599,23 @@ $body$
 
 %% ============================================
 %% BACK COVER PAGE
-%% ============================================
-\cleardoublepage
-\pagestyle{empty}
-\thispagestyle{empty}
-
-\begin{tikzpicture}[remember picture, overlay]
-  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  \draw[ScriptureGold, line width=2.2pt]
-    ([xshift=0.42in,yshift=0.42in]current page.south west)
-    rectangle
-    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
-  \draw[ChapterBlue, line width=0.4pt, opacity=0.6]
-    ([xshift=0.52in,yshift=0.52in]current page.south west)
-    rectangle
-    ([xshift=-0.52in,yshift=-0.52in]current page.north east);
-  \foreach \cnr in {south west, south east, north west, north east} {
-    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.045in);
-    \fill[JesusRed] ([xshift=0.42in,yshift=0.42in]current page.\cnr) circle (0.016in);
-  }
-\end{tikzpicture}
-
-\begin{center}
-\vspace*{\fill}
-
-{\fontsize{15}{18}\selectfont\scshape\color{ChapterBlue} Ἐγώ εἰμι}\\[0.10cm]
-{\fontsize{13}{16}\selectfont\scshape\color{CommentaryBrown} “I Am” \;\;
-\bfseries\color{JesusRed} 我是}
-
-\vspace{0.25cm}
-\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
-\vspace{0.35cm}
-
-{\normalsize\bfseries\color{ChapterBlue} 關於本書 \;\; \footnotesize\scshape About This Book}
-
-\vspace{0.2cm}
-\noindent\begin{minipage}{4.7in}
-\footnotesize\color{TextGray}
-本書逐章研讀約翰福音二十一章，整合 CCIC 週四查經班教導、
-John MacArthur 逐節解經、G. Campbell Morgan 屬靈組織分析，
-並貫通四福音、羅馬書與啟示錄。
-全書以約翰福音 20:31 為總綱：
-「但記這些事要叫你們信耶穌是基督，是神的兒子，
-並且叫你們信了他，就可以因他的名得生命。」\\[0.4em]
-{\itshape
-A chapter-by-chapter study of all 21 chapters of John's Gospel,
-integrating the Thursday Bible class teachings, John MacArthur's verse-by-verse
-exposition, and G. Campbell Morgan's spiritual analysis —
-framed by John 20:31's purpose: that you may believe, and believing,
-have life in His name.}
-\end{minipage}
-
-\vspace{0.35cm}
-
-\fcolorbox{ScriptureGold}{white}{%
-\begin{minipage}{4.7in}
-\centering\vspace{0.18cm}
-{\footnotesize\bfseries\color{ChapterBlue} 七個「我是」 \;\; Seven “I Am” Sayings}\\[0.3em]
-{\footnotesize\color{TextGray}
-生命的糧 (6:35) \textbullet\ 世界的光 (8:12) \textbullet\ 羊的門 (10:7,9)\\
-好牧人 (10:11,14) \textbullet\ 復活與生命 (11:25)\\
-道路、真理、生命 (14:6) \textbullet\ 真葡萄樹 (15:1,5)}
-\vspace{0.18cm}
-\end{minipage}}
-
-\vspace{0.35cm}
-\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
-\vspace{0.3cm}
-
-{\footnotesize\itshape\color{CommentaryBrown}
-「太初有道，道與神同在，道就是神……道成了肉身，住在我們中間，\\
-充充滿滿地有恩典有真理。」}\\[0.15cm]
-{\scriptsize\color{ChapterBlue} — 約翰福音 1:1, 14}
-
-\vspace{0.4in}
-{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
-
-\vspace*{\fill}
-\end{center}
+\cleardoublepage\pagestyle{empty}\thispagestyle{empty}\JohnCoverGround\null
+\begin{tikzpicture}[remember picture,overlay]
+\begin{scope}[shift={(current page.north west)},x=1in,y=1in]
+\node[text=JohnCoverGold] at (3.5,-1.12) {\fontsize{16}{20}\selectfont Ἐγώ εἰμι\quad\itshape I Am\quad\upshape 我是};
+\draw[JohnCoverGold,line width=.6pt] (2.35,-1.57)--(4.65,-1.57);
+\node[text=JohnCoverCream] at (3.5,-2.08) {\fontsize{25}{32}\selectfont\bfseries 信而得生命};
+\node[text=JohnCoverGold] at (3.5,-2.49) {\fontsize{14}{18}\selectfont\itshape Life in His Name};
+\node[anchor=north,text=JohnCoverCream,text width=5.05in,align=left,inner sep=0pt] at (3.5,-3.02) {\fontsize{11}{18}\selectfont
+本書逐章研讀約翰福音二十一章，從太初的道、七個「我是」，到十字架與復活，循著約翰福音 20:31 的寫作目的，認識耶穌是基督、是神的兒子，並因信祂而得生命。\par\vspace{8pt}
+結合 CCIC 週四查經班教導、John MacArthur 逐節解經與 G. Campbell Morgan 的結構洞見，輔以經文對照、研讀問題及附錄，供個人默想與小組查經使用。\par\vspace{13pt}
+{\fontsize{10.5}{15}\selectfont\color{JohnCoverMuted}\raggedright\hyphenpenalty=10000  A study of all 21 chapters of John's Gospel, from the eternal Word and the seven “I Am” sayings to the cross and resurrection. Framed by John 20:31, it brings together Bible-class teaching, commentary, Scripture connections, and study questions for personal reflection and group discussion.\par}};
+\draw[JohnCoverGold,line width=.5pt] (0.975,-5.98)--(6.025,-5.98);
+\node[text=JohnCoverGold] at (3.5,-6.30) {\fontsize{12}{16}\selectfont 七個「我是」\;\textbullet\;Seven “I Am” Sayings};
+\node[text=JohnCoverCream,align=center,text width=5.1in] at (3.5,-6.98) {\fontsize{10.5}{18}\selectfont 生命的糧\;\textbullet\;世界的光\;\textbullet\;羊的門\;\textbullet\;好牧人\\[4pt]復活與生命\;\textbullet\;道路、真理、生命\;\textbullet\;真葡萄樹};
+\draw[JohnCoverGold,line width=.5pt] (0.975,-7.57)--(6.025,-7.57);
+\node[anchor=north,text=JohnCoverMuted,text width=5.05in,align=left,inner sep=0pt] at (3.5,-7.91) {\fontsize{8.5}{12}\selectfont\raggedright\hyphenpenalty=10000 \textbf{Edition 4.0}\quad Scripture selections: CUV 1919 and NASB 1995. This is a study guide, not a complete bilingual Gospel text; Chinese and English excerpts are not always verse-aligned.\par};
+\node[text=JohnCoverCream,align=center] at (3.5,-9.02) {\fontsize{10}{14}\selectfont PubHub\;\textbullet\;三書精讀出版系統\\[6pt]\fontsize{9}{12}\selectfont\color{JohnCoverGold} Soli Deo Gloria};
+\end{scope}\end{tikzpicture}
 
 \end{document}

@@ -1,12 +1,19 @@
 ---
-title: 馬太福音研讀
+title: 馬太福音研讀 — 天國之王
 subtitle: Gospel of Matthew Deep Study
 author: PubHub 三書精讀系統
-date: 2025年12月
+date: 2026年8月
 publisher: 三書精讀出版系統
+edition: 2026 整編版
+updated: 2026-09-20
+language: "zh-Hant (primary); en excerpts vary"
+rights: See COPYRIGHT.md
+source: SOURCE_PDF_AUDIT.md
+status: editorial-draft
+scripture_policy: pending-clearance
 ---
 
-# 第十八章：教會講論——天國群體的生活 (Church Discourse)
+# 第十八章：教會講論——天國群體的饒恕 (The Church Discourse: A Forgiving Kingdom Community)
 
 馬太福音 18:1-35
 
@@ -22,79 +29,79 @@ publisher: 三書精讀出版系統
 
 ### 一、天國裏誰最大 (18:1-5) - The Greatest in the Kingdom
 
-> ^1^當時，門徒來問耶穌：「天國裏誰是最大的？」^2^耶穌叫一個小孩子來，使他站在他們當中，^3^說：\jesus{「我實在告訴你們，你們若不回轉，變成像小孩子一樣，絕不能進天國。^4^所以，凡自己謙卑像這小孩子的，他在天國裏是最大的。^5^凡為我的名接待一個像這小孩子的，就是接待我。」}
+> <sup>1</sup>當時，門徒來問耶穌：「天國裏誰是最大的？」<sup>2</sup>耶穌叫一個小孩子來，使他站在他們當中，<sup>3</sup>說：「我實在告訴你們，你們若不回轉，變成像小孩子一樣，絕不能進天國。<sup>4</sup>所以，凡自己謙卑像這小孩子的，他在天國裏是最大的。<sup>5</sup>凡為我的名接待一個像這小孩子的，就是接待我。」
 
-> ^1^At that time the disciples came to Jesus, saying, "Who is the greatest in the kingdom of heaven?" ^2^And calling to him a child, he put him in the midst of them ^3^and said, \jesus{"Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven. ^4^Whoever humbles himself like this child is the greatest in the kingdom of heaven. ^5^Whoever receives one such child in my name receives me."} (ESV)
+> <sup>1</sup>At that time the disciples came to Jesus, saying, "Who is the greatest in the kingdom of heaven?" <sup>2</sup>And calling to him a child, he put him in the midst of them <sup>3</sup>and said, "Truly, I say to you, unless you turn and become like children, you will never enter the kingdom of heaven. <sup>4</sup>Whoever humbles himself like this child is the greatest in the kingdom of heaven. <sup>5</sup>Whoever receives one such child in my name receives me." (ESV)
 
 ---
 
 ### 二、絆倒人的罪 (18:6-9) - Temptations to Sin
 
-> ^6^\jesus{「凡使這些信我的小子中一個跌倒的，倒不如把大磨石拴在這人的頸項上，沉在深海裏。」}
+> <sup>6</sup>「凡使這些信我的小子中一個跌倒的，倒不如把大磨石拴在這人的頸項上，沉在深海裏。」
 
-> ^7^\jesus{「這世界有禍了，因為叫人跌倒；絆倒人的事是免不了的，但那絆倒人的有禍了！」}
+> <sup>7</sup>「這世界有禍了，因為叫人跌倒；絆倒人的事是免不了的，但那絆倒人的有禍了！」
 
-> ^8^\jesus{「倘若你一隻手，或是一隻腳，叫你跌倒，就砍下來丟掉。你缺一隻手，或是一隻腳，進入永生，強如有兩手兩腳被丟在永火裏。^9^倘若你一隻眼叫你跌倒，就把它剜出來丟掉。你只有一隻眼進入永生，強如有兩隻眼被丟在地獄的火裏。」}
+> <sup>8</sup>「倘若你一隻手，或是一隻腳，叫你跌倒，就砍下來丟掉。你缺一隻手，或是一隻腳，進入永生，強如有兩手兩腳被丟在永火裏。<sup>9</sup>倘若你一隻眼叫你跌倒，就把它剜出來丟掉。你只有一隻眼進入永生，強如有兩隻眼被丟在地獄的火裏。」
 
-> ^6^\jesus{"But whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea."}
+> <sup>6</sup>"But whoever causes one of these little ones who believe in me to sin, it would be better for him to have a great millstone fastened around his neck and to be drowned in the depth of the sea."
 
-> ^7^\jesus{"Woe to the world for temptations to sin! For it is necessary that temptations come, but woe to the one by whom the temptation comes!"}
+> <sup>7</sup>"Woe to the world for temptations to sin! For it is necessary that temptations come, but woe to the one by whom the temptation comes!"
 
-> ^8-9^\jesus{"And if your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than with two hands or two feet to be thrown into the eternal fire. And if your eye causes you to sin, tear it out and throw it away. It is better for you to enter life with one eye than with two eyes to be thrown into the hell of fire."} (ESV)
+> <sup>8-9</sup>"And if your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life crippled or lame than with two hands or two feet to be thrown into the eternal fire. And if your eye causes you to sin, tear it out and throw it away. It is better for you to enter life with one eye than with two eyes to be thrown into the hell of fire." (ESV)
 
 ---
 
 ### 三、迷羊的比喻 (18:10-14) - The Parable of the Lost Sheep
 
-> ^10^\jesus{「你們要小心，不可輕看這些小子中的一個；我告訴你們，他們的使者在天上，常見我天父的面。」}
+> <sup>10</sup>「你們要小心，不可輕看這些小子中的一個；我告訴你們，他們的使者在天上，常見我天父的面。」
 
-> ^12^\jesus{「你們怎麼看？一個人如果有一百隻羊，其中一隻走迷了路，他豈不撇下這九十九隻，往山裏去找那隻迷路的羊嗎？^13^他若找到了，我實在告訴你們，他為這一隻羊歡喜，比為那九十九隻沒有迷路的歡喜還大呢！^14^你們在天上的父也是這樣，不願意這小子裏失喪一個。」}
+> <sup>12</sup>「你們怎麼看？一個人如果有一百隻羊，其中一隻走迷了路，他豈不撇下這九十九隻，往山裏去找那隻迷路的羊嗎？<sup>13</sup>他若找到了，我實在告訴你們，他為這一隻羊歡喜，比為那九十九隻沒有迷路的歡喜還大呢！<sup>14</sup>你們在天上的父也是這樣，不願意這小子裏失喪一個。」
 
-> ^10^\jesus{"See that you do not despise one of these little ones. For I tell you that in heaven their angels always see the face of my Father who is in heaven."}
+> <sup>10</sup>"See that you do not despise one of these little ones. For I tell you that in heaven their angels always see the face of my Father who is in heaven."
 
-> ^12-14^\jesus{"What do you think? If a man has a hundred sheep, and one of them has gone astray, does he not leave the ninety-nine on the mountains and go in search of the one that went astray? And if he finds it, truly, I say to you, he rejoices over it more than over the ninety-nine that never went astray. So it is not the will of my Father who is in heaven that one of these little ones should perish."} (ESV)
+> <sup>12-14</sup>"What do you think? If a man has a hundred sheep, and one of them has gone astray, does he not leave the ninety-nine on the mountains and go in search of the one that went astray? And if he finds it, truly, I say to you, he rejoices over it more than over the ninety-nine that never went astray. So it is not the will of my Father who is in heaven that one of these little ones should perish." (ESV)
 
 ---
 
 ### 四、教會紀律 (18:15-20) - Dealing with Sin in the Church
 
-> ^15^\jesus{「倘若你的弟兄得罪你，你就去，只在你和他之間指出他的錯來。他若聽你，你便得了你的弟兄；^16^他若不聽，你就另外帶一兩個人同去，要憑兩三個人的口作見證，句句都可定準。^17^若是不聽他們，就告訴教會；若是不聽教會，就看他像外邦人和稅吏一樣。」}
+> <sup>15</sup>「倘若你的弟兄得罪你，你就去，只在你和他之間指出他的錯來。他若聽你，你便得了你的弟兄；<sup>16</sup>他若不聽，你就另外帶一兩個人同去，要憑兩三個人的口作見證，句句都可定準。<sup>17</sup>若是不聽他們，就告訴教會；若是不聽教會，就看他像外邦人和稅吏一樣。」
 
-> ^18^\jesus{「我實在告訴你們，凡你們在地上所捆綁的，在天上也要捆綁；凡你們在地上所釋放的，在天上也要釋放。」}
+> <sup>18</sup>「我實在告訴你們，凡你們在地上所捆綁的，在天上也要捆綁；凡你們在地上所釋放的，在天上也要釋放。」
 
-> ^19^\jesus{「我又告訴你們，若是你們中間有兩個人在地上同心合意地求什麼事，我在天上的父必為他們成全。^20^因為無論在哪裏，有兩三個人奉我的名聚會，那裏就有我在他們中間。」}
+> <sup>19</sup>「我又告訴你們，若是你們中間有兩個人在地上同心合意地求什麼事，我在天上的父必為他們成全。<sup>20</sup>因為無論在哪裏，有兩三個人奉我的名聚會，那裏就有我在他們中間。」
 
-> ^15-17^\jesus{"If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother. But if he does not listen, take one or two others along with you, that every charge may be established by the evidence of two or three witnesses. If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector."}
+> <sup>15-17</sup>"If your brother sins against you, go and tell him his fault, between you and him alone. If he listens to you, you have gained your brother. But if he does not listen, take one or two others along with you, that every charge may be established by the evidence of two or three witnesses. If he refuses to listen to them, tell it to the church. And if he refuses to listen even to the church, let him be to you as a Gentile and a tax collector."
 
-> ^18^\jesus{"Truly, I say to you, whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven."}
+> <sup>18</sup>"Truly, I say to you, whatever you bind on earth shall be bound in heaven, and whatever you loose on earth shall be loosed in heaven."
 
-> ^19-20^\jesus{"Again I say to you, if two of you agree on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my name, there am I among them."} (ESV)
+> <sup>19-20</sup>"Again I say to you, if two of you agree on earth about anything they ask, it will be done for them by my Father in heaven. For where two or three are gathered in my name, there am I among them." (ESV)
 
 ---
 
 ### 五、饒恕七十個七次 (18:21-22) - Forgiveness Seventy Times Seven
 
-> ^21^那時，彼得進前來問耶穌：「主啊，我弟兄得罪我，我當饒恕他幾次呢？到七次夠嗎？」^22^耶穌對他說：\jesus{「我對你說，不是到七次，而是到七十個七次。」}
+> <sup>21</sup>那時，彼得進前來問耶穌：「主啊，我弟兄得罪我，我當饒恕他幾次呢？到七次夠嗎？」<sup>22</sup>耶穌對他說：「我對你說，不是到七次，而是到七十個七次。」
 
-> ^21^Then Peter came up and said to him, "Lord, how often will my brother sin against me, and I forgive him? As many as seven times?" ^22^Jesus said to him, \jesus{"I do not say to you seven times, but seventy-seven times."} (ESV)
+> <sup>21</sup>Then Peter came up and said to him, "Lord, how often will my brother sin against me, and I forgive him? As many as seven times?" <sup>22</sup>Jesus said to him, "I do not say to you seven times, but seventy-seven times." (ESV)
 
 ---
 
 ### 六、不饒恕的僕人 (18:23-35) - The Parable of the Unforgiving Servant
 
-> ^23^\jesus{「天國好像一個王要和他僕人算帳。^24^才算的時候，有人帶了一個欠一萬他連得銀子的來。^25^因為他沒有什麼償還之物，主人吩咐把他和他妻子兒女，並一切所有的都賣了償還。^26^那僕人就俯伏拜他，說：『主啊，寬容我，將來我都要還清。』^27^那僕人的主人動了慈心，把他釋放了，並且免了他的債。」}
+> <sup>23</sup>「天國好像一個王要和他僕人算帳。<sup>24</sup>才算的時候，有人帶了一個欠一萬他連得銀子的來。<sup>25</sup>因為他沒有什麼償還之物，主人吩咐把他和他妻子兒女，並一切所有的都賣了償還。<sup>26</sup>那僕人就俯伏拜他，說：『主啊，寬容我，將來我都要還清。』<sup>27</sup>那僕人的主人動了慈心，把他釋放了，並且免了他的債。」
 
-> ^28^\jesus{「那僕人出來，遇見他的一個同伴欠他一百銀幣，便揪著他，掐住他的喉嚨，說：『你把所欠的還我！』^29^他的同伴就俯伏央求他，說：『寬容我吧，將來我必還清。』^30^他不肯，竟去把他下在監裏，直到他還了所欠的債。」}
+> <sup>28</sup>「那僕人出來，遇見他的一個同伴欠他一百銀幣，便揪著他，掐住他的喉嚨，說：『你把所欠的還我！』<sup>29</sup>他的同伴就俯伏央求他，說：『寬容我吧，將來我必還清。』<sup>30</sup>他不肯，竟去把他下在監裏，直到他還了所欠的債。」
 
-> ^31^\jesus{「眾同伴看見他所做的事，非常憂愁，去把這事告訴主人。^32^於是主人叫了他來，對他說：『你這惡奴才！你央求我，我就把你所欠的都免了，^33^你不應當憐憫你的同伴，像我憐憫你嗎？』^34^主人大怒，把他交給掌刑的，直到他還清了所欠的債。」}
+> <sup>31</sup>「眾同伴看見他所做的事，非常憂愁，去把這事告訴主人。<sup>32</sup>於是主人叫了他來，對他說：『你這惡奴才！你央求我，我就把你所欠的都免了，<sup>33</sup>你不應當憐憫你的同伴，像我憐憫你嗎？』<sup>34</sup>主人大怒，把他交給掌刑的，直到他還清了所欠的債。」
 
-> ^35^\jesus{「你們每個人若不從心裏饒恕你的弟兄，我天父也要這樣待你們。」}
+> <sup>35</sup>「你們每個人若不從心裏饒恕你的弟兄，我天父也要這樣待你們。」
 
-> ^23-27^\jesus{"Therefore the kingdom of heaven may be compared to a king who wished to settle accounts with his servants. When he began to settle, one was brought to him who owed him ten thousand talents. And since he could not pay, his master ordered him to be sold, with his wife and children and all that he had, and payment to be made. So the servant fell on his knees, imploring him, 'Have patience with me, and I will pay you everything.' And out of pity for him, the master of that servant released him and forgave him the debt."}
+> <sup>23-27</sup>"Therefore the kingdom of heaven may be compared to a king who wished to settle accounts with his servants. When he began to settle, one was brought to him who owed him ten thousand talents. And since he could not pay, his master ordered him to be sold, with his wife and children and all that he had, and payment to be made. So the servant fell on his knees, imploring him, 'Have patience with me, and I will pay you everything.' And out of pity for him, the master of that servant released him and forgave him the debt."
 
-> ^28-30^\jesus{"But when that same servant went out, he found one of his fellow servants who owed him a hundred denarii, and seizing him, he began to choke him, saying, 'Pay what you owe.' So his fellow servant fell down and pleaded with him, 'Have patience with me, and I will pay you.' He refused and went and put him in prison until he should pay the debt."}
+> <sup>28-30</sup>"But when that same servant went out, he found one of his fellow servants who owed him a hundred denarii, and seizing him, he began to choke him, saying, 'Pay what you owe.' So his fellow servant fell down and pleaded with him, 'Have patience with me, and I will pay you.' He refused and went and put him in prison until he should pay the debt."
 
-> ^31-35^\jesus{"When his fellow servants saw what had taken place, they were greatly distressed, and they went and reported to their master all that had taken place. Then his master summoned him and said to him, 'You wicked servant! I forgave you all that debt because you pleaded with me. And should not you have had mercy on your fellow servant, as I had mercy on you?' And in anger his master delivered him to the jailers, until he should pay all his debt. So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart."} (ESV)
+> <sup>31-35</sup>"When his fellow servants saw what had taken place, they were greatly distressed, and they went and reported to their master all that had taken place. Then his master summoned him and said to him, 'You wicked servant! I forgave you all that debt because you pleaded with me. And should not you have had mercy on your fellow servant, as I had mercy on you?' And in anger his master delivered him to the jailers, until he should pay all his debt. So also my heavenly Father will do to every one of you, if you do not forgive your brother from your heart." (ESV)
 
 ---
 
@@ -215,4 +222,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*來源索引：見 [SOURCES.md](SOURCES.md)；本章引文與轉述仍須逐條核實。*

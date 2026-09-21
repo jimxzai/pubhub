@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：活祭 Thysian Zōsan** \
-> **全書坐標**：12:1「所以」是全書五卷（定罪／稱義／成聖／揀選／活祭）的樞紐——前十一章是「定罪」「稱義」「成聖」「揀選」四卷的教義陳述，12:1-15:13「活祭」卷從這裏正式開始：蒙恩之人當如何生活。 \
+> **全書座標**：12:1「所以」是全書五卷（定罪／稱義／成聖／揀選／活祭）的樞紐——前十一章是「定罪」「稱義」「成聖」「揀選」四卷的教義陳述，12:1-15:13「活祭」卷從這裏正式開始：蒙恩之人當如何生活。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 羅馬書十二章沒有一次直接說出耶穌的名字，但整章都是祂的形狀。「神的慈悲」（原文複數 *oiktirmōn*）正是前十一章所展開的一切：神在基督裏稱罪人為義（3-5章）、使人在基督裏向罪死、向神活（6章）、藉聖靈使人脫離定罪的轄制（8章）、又信實地保守對以色列的應許（9-11章）——這一切慈悲，都繫於一個名字：釘十字架又復活的耶穌基督。從祂的角度讀，「活祭」首先不是保羅給信徒新增的功課，而是耶穌自己已經走過的路——祂一次獻上自己為祭，成就了律法所有祭牲一生一世都做不到的事（來10:10-14；羅6:10「他死是向罪死了，只有一次；他活，是向神活著」）。信徒能夠獻上「活」祭，正是因為那位真正的祭物已經死而復活，不再死了。十二章9-21節那一串「不可虛假的愛」「逼迫你們的要祝福」「以善勝惡」，不是保羅發明的新道德律，而是登山寶訓裏耶穌自己教訓、又親自活到十字架上的生命——「他被罵不還口，受害不說威嚇的話」（彼前2:23）。這一章追問的其實只有一件事：你所獻上的身體上，看得見耶穌的形狀嗎？
@@ -67,31 +67,31 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^所以弟兄們，我以神的慈悲勸你們，**將身體獻上，當作活祭，是聖潔的，是神所喜悅的；你們如此事奉乃是理所當然的。**^2^**不要效法這個世界，只要心意更新而變化，叫你們察驗何為神的善良、純全、可喜悅的旨意。**
+> <sup>1</sup>所以弟兄們，我以神的慈悲勸你們，**將身體獻上，當作活祭，是聖潔的，是神所喜悅的；你們如此事奉乃是理所當然的。**<sup>2</sup>**不要效法這個世界，只要心意更新而變化，叫你們察驗何為神的善良、純全、可喜悅的旨意。**
 
-> ^3^我憑著所賜我的恩對你們各人說：不要看自己過於所當看的，要照著神所分給各人信心的大小，看得合乎中道。^4^正如我們一個身子上有好些肢體，肢體也不都是一樣的用處。^5^我們這許多人，在基督裏成為一身，互相聯絡作肢體，也是如此。
+> <sup>3</sup>我憑著所賜我的恩對你們各人說：不要看自己過於所當看的，要照著神所分給各人信心的大小，看得合乎中道。<sup>4</sup>正如我們一個身子上有好些肢體，肢體也不都是一樣的用處。<sup>5</sup>我們這許多人，在基督裏成為一身，互相聯絡作肢體，也是如此。
 
-> ^6^按我們所得的恩賜，各有不同。或說預言，就當照著信心的程度說預言。^7^或作執事，就當專一執事；或作教導的，就當專一教導。^8^或作勸化的，就當專一勸化；施捨的，就當誠實；治理的，就當殷勤；憐憫人的，就當甘心。
+> <sup>6</sup>按我們所得的恩賜，各有不同。或說預言，就當照著信心的程度說預言。<sup>7</sup>或作執事，就當專一執事；或作教導的，就當專一教導。<sup>8</sup>或作勸化的，就當專一勸化；施捨的，就當誠實；治理的，就當殷勤；憐憫人的，就當甘心。
 
-> ^9^愛人不可虛假；惡要厭惡，善要親近。^10^愛弟兄，要彼此親熱；恭敬人，要彼此推讓。^11^殷勤不可懶惰。要心裏火熱，常常服事主。^12^在指望中要喜樂，在患難中要忍耐，禱告要恆切。^13^聖徒缺乏要幫補；客要一味的款待。
+> <sup>9</sup>愛人不可虛假；惡要厭惡，善要親近。<sup>10</sup>愛弟兄，要彼此親熱；恭敬人，要彼此推讓。<sup>11</sup>殷勤不可懶惰。要心裏火熱，常常服事主。<sup>12</sup>在指望中要喜樂，在患難中要忍耐，禱告要恆切。<sup>13</sup>聖徒缺乏要幫補；客要一味的款待。
 
-> ^14^逼迫你們的，要給他們祝福；只要祝福，不可咒詛。^15^與喜樂的人要同樂；與哀哭的人要同哭。^16^要彼此同心；不要志氣高大，倒要俯就卑微的人；不要自以為聰明。^17^不要以惡報惡；眾人以為美的事要留心去做。^18^若是能行，總要盡力與眾人和睦。
+> <sup>14</sup>逼迫你們的，要給他們祝福；只要祝福，不可咒詛。<sup>15</sup>與喜樂的人要同樂；與哀哭的人要同哭。<sup>16</sup>要彼此同心；不要志氣高大，倒要俯就卑微的人；不要自以為聰明。<sup>17</sup>不要以惡報惡；眾人以為美的事要留心去做。<sup>18</sup>若是能行，總要盡力與眾人和睦。
 
-> ^19^親愛的弟兄，不要自己伸冤，寧可讓步，聽憑主怒；因為經上記著：主說：伸冤在我；我必報應。^20^所以，你的仇敵若餓了，就給他吃，若渴了，就給他喝；因為你這樣行就是把炭火堆在他的頭上。^21^你不可為惡所勝，反要以善勝惡。
+> <sup>19</sup>親愛的弟兄，不要自己伸冤，寧可讓步，聽憑主怒；因為經上記著：主說：伸冤在我；我必報應。<sup>20</sup>所以，你的仇敵若餓了，就給他吃，若渴了，就給他喝；因為你這樣行就是把炭火堆在他的頭上。<sup>21</sup>你不可為惡所勝，反要以善勝惡。
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^**Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, *which is* your spiritual service of worship.** ^2^**And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.**
+> <sup>1</sup>**Therefore I urge you, brethren, by the mercies of God, to present your bodies a living and holy sacrifice, acceptable to God, *which is* your spiritual service of worship.** <sup>2</sup>**And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.**
 
-> ^3^For through the grace given to me I say to everyone among you not to think more highly of himself than he ought to think; but to think so as to have sound judgment, as God has allotted to each a measure of faith. ^4^For just as we have many members in one body and all the members do not have the same function, ^5^so we, who are many, are one body in Christ, and individually members one of another.
+> <sup>3</sup>For through the grace given to me I say to everyone among you not to think more highly of himself than he ought to think; but to think so as to have sound judgment, as God has allotted to each a measure of faith. <sup>4</sup>For just as we have many members in one body and all the members do not have the same function, <sup>5</sup>so we, who are many, are one body in Christ, and individually members one of another.
 
-> ^6^Since we have gifts that differ according to the grace given to us, *each of us is to exercise them accordingly:* if prophecy, according to the proportion of his faith; ^7^if service, in his serving; or he who teaches, in his teaching; ^8^or he who exhorts, in his exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.
+> <sup>6</sup>Since we have gifts that differ according to the grace given to us, *each of us is to exercise them accordingly:* if prophecy, according to the proportion of his faith; <sup>7</sup>if service, in his serving; or he who teaches, in his teaching; <sup>8</sup>or he who exhorts, in his exhortation; he who gives, with liberality; he who leads, with diligence; he who shows mercy, with cheerfulness.
 
-> ^9^*Let* love *be* without hypocrisy. Abhor what is evil; cling to what is good. ^10^*Be* devoted to one another in brotherly love; give preference to one another in honor; ^11^not lagging behind in diligence, fervent in spirit, serving the Lord; ^12^rejoicing in hope, persevering in tribulation, devoted to prayer, ^13^contributing to the needs of the saints, practicing hospitality.
+> <sup>9</sup>*Let* love *be* without hypocrisy. Abhor what is evil; cling to what is good. <sup>10</sup>*Be* devoted to one another in brotherly love; give preference to one another in honor; <sup>11</sup>not lagging behind in diligence, fervent in spirit, serving the Lord; <sup>12</sup>rejoicing in hope, persevering in tribulation, devoted to prayer, <sup>13</sup>contributing to the needs of the saints, practicing hospitality.
 
-> ^14^Bless those who persecute you; bless and do not curse. ^15^Rejoice with those who rejoice, and weep with those who weep. ^16^Be of the same mind toward one another; do not be haughty in mind, but associate with the lowly. Do not be wise in your own estimation. ^17^Never pay back evil for evil to anyone. Respect what is right in the sight of all men. ^18^If possible, so far as it depends on you, be at peace with all men.
+> <sup>14</sup>Bless those who persecute you; bless and do not curse. <sup>15</sup>Rejoice with those who rejoice, and weep with those who weep. <sup>16</sup>Be of the same mind toward one another; do not be haughty in mind, but associate with the lowly. Do not be wise in your own estimation. <sup>17</sup>Never pay back evil for evil to anyone. Respect what is right in the sight of all men. <sup>18</sup>If possible, so far as it depends on you, be at peace with all men.
 
-> ^19^Never take your own revenge, beloved, but leave room for the wrath *of God,* for it is written, "VENGEANCE IS MINE, I WILL REPAY," says the Lord. ^20^"BUT IF YOUR ENEMY IS HUNGRY, FEED HIM, AND IF HE IS THIRSTY, GIVE HIM A DRINK; FOR IN SO DOING YOU WILL HEAP BURNING COALS ON HIS HEAD." ^21^Do not be overcome by evil, but overcome evil with good.
+> <sup>19</sup>Never take your own revenge, beloved, but leave room for the wrath *of God,* for it is written, "VENGEANCE IS MINE, I WILL REPAY," says the Lord. <sup>20</sup>"BUT IF YOUR ENEMY IS HUNGRY, FEED HIM, AND IF HE IS THIRSTY, GIVE HIM A DRINK; FOR IN SO DOING YOU WILL HEAP BURNING COALS ON HIS HEAD." <sup>21</sup>Do not be overcome by evil, but overcome evil with good.
 
 ---
 

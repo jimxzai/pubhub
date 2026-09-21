@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書第三步「掌權」由此開始——七教會的光景交代完畢，鏡頭一轉，讀者被提到天上，先看見寶座，然後才看見接下來一切審判與爭戰的根基。
+
 七封信結束後，場景陡然一變：「此後，我觀看，見天上有門開了」——約翰被提到天上，眼前展開的不再是七個地上教會的光景，而是宇宙的中心：一個寶座，一位坐在其上的。整卷啟示錄接下來所有的審判、爭戰、災難，都要從這一幕出發才能被正確理解——無論地上的局勢看來多麼混亂失控，天上的寶座從未空置，也從未動搖。第4章本身還沒有出現羔羊（那要留到第5章），這一章單單定睛在「坐寶座的」身上，讓讀者在看見任何審判或爭戰之前，先看清楚：誰才是真正掌權的那一位。這正是啟示錄「寶座的核心地位」在全書中的起點，也是整卷書得以承受一切震撼異象的根基。
 
 ---
@@ -123,8 +125,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -141,6 +144,15 @@ publisher: 三書精讀出版系統
 布靈格在講論第4章時強調，約翰蒙召「上到這裡來」看見天上的異象，正是要讓地上受逼迫的教會明白：他們眼前所受的苦難，絕非出於失控的偶然，而是在一位坐寶座者的主權之下發生的；一切敬拜、一切安慰，都要從仰望這寶座開始，而非單單凝視地上紛擾的局勢。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 4
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，第4章讓我們看見的，是基督掌管萬事的啟示，而整幅異象的焦點單單在那坐寶座者身上：
+
+> "This chapter introduces us to the Revelation of Christ in His government of all world affairs in which a most remarkable vision of the heavenly order is presented to us. Everything is seen as surrounding the throne."
+>
+> 中譯：這一章向我們展開基督掌管萬事的啟示，其中呈現出一幅極其奇妙的天上秩序的異象。一切都被看見圍繞著那寶座。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄4章, https://www.studylight.org/commentaries/eng/gcm/revelation-4.html
 
 ### 當代釋經
 
@@ -185,6 +197,13 @@ publisher: 三書精讀出版系統
 **敬拜聚焦於創造主權**：他提醒，4:11 的頌讚只講創造、未及救贖——那要留到第5章。敬拜的次序是先承認「萬物是因你的旨意被創造而有的」，這是一切後續審判合法性的根基：審判者本是萬有的主。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟將約翰被提到天上的經歷，與保羅在哥林多後書所述的經歷並列，強調約翰所領受的獨特使命：
+
+> "But there was another who was taken to heaven, and that is John, and we find that occasion in chapter 4 of Revelation in our text. John not only was caught up into heaven but he was commanded to write it."
+>
+> 中譯：但還有另一位曾被帶到天上的人，就是約翰，我們在啟示錄第4章的經文中看見這一幕。約翰不僅被提到天上，他更被命令要把它寫下來。（66-16）
+> — John MacArthur, "A Trip to Heaven, Part 1" (gty.org, sermon 66-16), https://www.gty.org/sermons/66-16/a-trip-to-heaven-part-1
 
 ### 老弟兄查經：天上的寶座 (Ask Elder Wong)
 

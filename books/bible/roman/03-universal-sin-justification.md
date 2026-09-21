@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：神的義 Dikaiosynē Theou** \
-> **全書坐標**：卷一「定罪」的收束，也是全書的轉折點。3:9-20 用一連串舊約引文把起訴書寫到最後一句「沒有義人，連一個也沒有」；3:21「但如今」一轉，卷二「因信稱義」就此開始——挽回祭是這段的重心。 \
+> **全書座標**：卷一「定罪」的收束，也是全書的轉折點。3:9-20 用一連串舊約引文把起訴書寫到最後一句「沒有義人，連一個也沒有」；3:21「但如今」一轉，卷二「因信稱義」就此開始——挽回祭是這段的重心。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章的每一句話，最終都指向十字架上的一個人。保羅先花二十節經文把全人類——猶太人和外邦人——一起釘死在神公義的法庭前：「沒有義人，連一個也沒有」；然後在第21節，一個轉折詞「但如今」（希臘文 *nyni de*）劈開了全部的黑暗。神的義「在律法以外」顯明出來，不是靠人做到了甚麼，而是靠一個人：神設立耶穌，「作挽回祭」（*hilastērion*，3:25）。這個詞，七十士譯本用來翻譯利未記16章約櫃上那塊「施恩座」——大祭司一年一次，帶著贖罪祭牲的血，灑在那裏，使神的怒氣止息、神與百姓相會之處。保羅說：耶穌基督自己，就是那施恩座。祂的血，就是那使神公義的怒氣得到滿足、又使罪人得以坦然無懼來到神面前的血。羅馬書3:21-26不是一段教義綱要，是站在至聖所裏，看見那真正的施恩座——不是金子做的，是被釘的。
@@ -49,31 +49,31 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經線上文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^這樣說來，猶太人有甚麼長處？割禮有甚麼益處呢？^2^凡事大有好處：第一是神的聖言交託他們。^3^即便有不信的，這有何妨呢？難道他們的不信就廢掉神的信麼？^4^斷乎不能！不如說，神是真實的，人都是虛謊的。如經上所記：「你責備人的時候，顯為公義；被人議論的時候，可以得勝。」
+> <sup>1</sup>這樣說來，猶太人有甚麼長處？割禮有甚麼益處呢？<sup>2</sup>凡事大有好處：第一是神的聖言交託他們。<sup>3</sup>即便有不信的，這有何妨呢？難道他們的不信就廢掉神的信麼？<sup>4</sup>斷乎不能！不如說，神是真實的，人都是虛謊的。如經上所記：「你責備人的時候，顯為公義；被人議論的時候，可以得勝。」
 
-> ^5^我且照著人的常話說，我們的不義若顯出神的義來，我們可以怎麼說呢？神降怒，是他不義麼？^6^斷乎不是！若是這樣，神怎能審判世界呢？^7^若神的真實，因我的虛謊越發顯出他的榮耀，為甚麼我還受審判，好像罪人呢？^8^為甚麼不說，我們可以作惡以成善呢？這是毀謗我們的人說我們有這話。這等人定罪是該當的。
+> <sup>5</sup>我且照著人的常話說，我們的不義若顯出神的義來，我們可以怎麼說呢？神降怒，是他不義麼？<sup>6</sup>斷乎不是！若是這樣，神怎能審判世界呢？<sup>7</sup>若神的真實，因我的虛謊越發顯出他的榮耀，為甚麼我還受審判，好像罪人呢？<sup>8</sup>為甚麼不說，我們可以作惡以成善呢？這是毀謗我們的人說我們有這話。這等人定罪是該當的。
 
-> ^9^這卻怎麼樣呢？我們比他們強麼？決不是的！因我們已經證明，猶太人和希利尼人都在罪惡之下。^10^就如經上所記：「沒有義人，連一個也沒有。^11^沒有明白的；沒有尋求神的；^12^都是偏離正路，一同變為無用。沒有行善的，連一個也沒有。」^13^「他們的喉嚨是敞開的墳墓；他們用舌頭弄詭詐，嘴唇裏有虺蛇的毒氣，」^14^「滿口是咒罵苦毒。」^15^「殺人流血，他們的腳飛跑，」^16^「所經過的路便行殘害暴虐的事。」^17^「平安的路，他們未曾知道；」^18^「他們眼中不怕神。」
+> <sup>9</sup>這卻怎麼樣呢？我們比他們強麼？決不是的！因我們已經證明，猶太人和希利尼人都在罪惡之下。<sup>10</sup>就如經上所記：「沒有義人，連一個也沒有。<sup>11</sup>沒有明白的；沒有尋求神的；<sup>12</sup>都是偏離正路，一同變為無用。沒有行善的，連一個也沒有。」<sup>13</sup>「他們的喉嚨是敞開的墳墓；他們用舌頭弄詭詐，嘴唇裏有虺蛇的毒氣，」<sup>14</sup>「滿口是咒罵苦毒。」<sup>15</sup>「殺人流血，他們的腳飛跑，」<sup>16</sup>「所經過的路便行殘害暴虐的事。」<sup>17</sup>「平安的路，他們未曾知道；」<sup>18</sup>「他們眼中不怕神。」
 
-> ^19^我們曉得律法上的話都是對律法以下之人說的，好塞住各人的口，叫普世的人都伏在神審判之下。^20^所以凡有血氣的，沒有一個因行律法能在神面前稱義，因為律法本是叫人知罪。
+> <sup>19</sup>我們曉得律法上的話都是對律法以下之人說的，好塞住各人的口，叫普世的人都伏在神審判之下。<sup>20</sup>所以凡有血氣的，沒有一個因行律法能在神面前稱義，因為律法本是叫人知罪。
 
-> **^21^但如今，神的義在律法以外已經顯明出來，有律法和先知為證：^22^就是神的義，因信耶穌基督加給一切相信的人，並沒有分別。^23^因為世人都犯了罪，虧缺了神的榮耀；^24^如今卻蒙神的恩典，因基督耶穌的救贖，就白白的稱義。^25^神設立耶穌作挽回祭，是憑著耶穌的血，藉著人的信，要顯明神的義；因為他用忍耐的心寬容人先時所犯的罪，^26^好在今時顯明他的義，使人知道他自己為義，也稱信耶穌的人為義。**
+> **<sup>21</sup>但如今，神的義在律法以外已經顯明出來，有律法和先知為證：<sup>22</sup>就是神的義，因信耶穌基督加給一切相信的人，並沒有分別。<sup>23</sup>因為世人都犯了罪，虧缺了神的榮耀；<sup>24</sup>如今卻蒙神的恩典，因基督耶穌的救贖，就白白的稱義。<sup>25</sup>神設立耶穌作挽回祭，是憑著耶穌的血，藉著人的信，要顯明神的義；因為他用忍耐的心寬容人先時所犯的罪，<sup>26</sup>好在今時顯明他的義，使人知道他自己為義，也稱信耶穌的人為義。**
 
-> ^27^既是這樣，那裏能誇口呢？沒有可誇的了。用何法沒有的呢？是用立功之法麼？不是，乃用信主之法。^28^所以我們看定了：人稱義是因著信，不在乎遵行律法。^29^難道神只作猶太人的神麼？不也是作外邦人的神麼？是的，也作外邦人的神。^30^神既是一位，他就要因信稱那受割禮的為義，也要因信稱那未受割禮的為義。^31^這樣，我們因信廢了律法麼？斷乎不是！更是堅固律法。
+> <sup>27</sup>既是這樣，那裏能誇口呢？沒有可誇的了。用何法沒有的呢？是用立功之法麼？不是，乃用信主之法。<sup>28</sup>所以我們看定了：人稱義是因著信，不在乎遵行律法。<sup>29</sup>難道神只作猶太人的神麼？不也是作外邦人的神麼？是的，也作外邦人的神。<sup>30</sup>神既是一位，他就要因信稱那受割禮的為義，也要因信稱那未受割禮的為義。<sup>31</sup>這樣，我們因信廢了律法麼？斷乎不是！更是堅固律法。
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^Then what advantage has the Jew? Or what is the benefit of circumcision? ^2^Great in every respect. First of all, that they were entrusted with the oracles of God. ^3^What then? If some did not believe, their unbelief will not nullify the faithfulness of God, will it? ^4^May it never be! Rather, let God be found true, though every man *be found* a liar, as it is written, "THAT YOU MAY BE JUSTIFIED IN YOUR WORDS, AND PREVAIL WHEN YOU ARE JUDGED."
+> <sup>1</sup>Then what advantage has the Jew? Or what is the benefit of circumcision? <sup>2</sup>Great in every respect. First of all, that they were entrusted with the oracles of God. <sup>3</sup>What then? If some did not believe, their unbelief will not nullify the faithfulness of God, will it? <sup>4</sup>May it never be! Rather, let God be found true, though every man *be found* a liar, as it is written, "THAT YOU MAY BE JUSTIFIED IN YOUR WORDS, AND PREVAIL WHEN YOU ARE JUDGED."
 
-> ^5^But if our unrighteousness demonstrates the righteousness of God, what shall we say? The God who inflicts wrath is not unrighteous, is He? (I am speaking in human terms.) ^6^May it never be! For otherwise, how will God judge the world? ^7^But if through my lie the truth of God abounded to His glory, why am I also still being judged as a sinner? ^8^And why not *say* (as we are slanderously reported and as some claim that we say), "Let us do evil that good may come"? Their condemnation is just.
+> <sup>5</sup>But if our unrighteousness demonstrates the righteousness of God, what shall we say? The God who inflicts wrath is not unrighteous, is He? (I am speaking in human terms.) <sup>6</sup>May it never be! For otherwise, how will God judge the world? <sup>7</sup>But if through my lie the truth of God abounded to His glory, why am I also still being judged as a sinner? <sup>8</sup>And why not *say* (as we are slanderously reported and as some claim that we say), "Let us do evil that good may come"? Their condemnation is just.
 
-> ^9^What then? Are we better than they? Not at all; for we have already charged that both Jews and Greeks are all under sin; ^10^as it is written, "THERE IS NONE RIGHTEOUS, NOT EVEN ONE; ^11^THERE IS NONE WHO UNDERSTANDS, THERE IS NONE WHO SEEKS FOR GOD; ^12^ALL HAVE TURNED ASIDE, TOGETHER THEY HAVE BECOME USELESS; THERE IS NONE WHO DOES GOOD, THERE IS NOT EVEN ONE." ^13^"THEIR THROAT IS AN OPEN GRAVE, WITH THEIR TONGUES THEY KEEP DECEIVING," "THE POISON OF ASPS IS UNDER THEIR LIPS"; ^14^"WHOSE MOUTH IS FULL OF CURSING AND BITTERNESS"; ^15^"THEIR FEET ARE SWIFT TO SHED BLOOD, ^16^DESTRUCTION AND MISERY ARE IN THEIR PATHS, ^17^AND THE PATH OF PEACE THEY HAVE NOT KNOWN." ^18^"THERE IS NO FEAR OF GOD BEFORE THEIR EYES."
+> <sup>9</sup>What then? Are we better than they? Not at all; for we have already charged that both Jews and Greeks are all under sin; <sup>10</sup>as it is written, "THERE IS NONE RIGHTEOUS, NOT EVEN ONE; <sup>11</sup>THERE IS NONE WHO UNDERSTANDS, THERE IS NONE WHO SEEKS FOR GOD; <sup>12</sup>ALL HAVE TURNED ASIDE, TOGETHER THEY HAVE BECOME USELESS; THERE IS NONE WHO DOES GOOD, THERE IS NOT EVEN ONE." <sup>13</sup>"THEIR THROAT IS AN OPEN GRAVE, WITH THEIR TONGUES THEY KEEP DECEIVING," "THE POISON OF ASPS IS UNDER THEIR LIPS"; <sup>14</sup>"WHOSE MOUTH IS FULL OF CURSING AND BITTERNESS"; <sup>15</sup>"THEIR FEET ARE SWIFT TO SHED BLOOD, <sup>16</sup>DESTRUCTION AND MISERY ARE IN THEIR PATHS, <sup>17</sup>AND THE PATH OF PEACE THEY HAVE NOT KNOWN." <sup>18</sup>"THERE IS NO FEAR OF GOD BEFORE THEIR EYES."
 
-> ^19^Now we know that whatever the Law says, it speaks to those who are under the Law, so that every mouth may be closed and all the world may become accountable to God; ^20^because by the works of the Law no flesh will be justified in His sight; for through the Law *comes* the knowledge of sin.
+> <sup>19</sup>Now we know that whatever the Law says, it speaks to those who are under the Law, so that every mouth may be closed and all the world may become accountable to God; <sup>20</sup>because by the works of the Law no flesh will be justified in His sight; for through the Law *comes* the knowledge of sin.
 
-> **^21^But now apart from the Law *the* righteousness of God has been manifested, being witnessed by the Law and the Prophets, ^22^even *the* righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction; ^23^for all have sinned and fall short of the glory of God, ^24^being justified as a gift by His grace through the redemption which is in Christ Jesus; ^25^whom God displayed publicly as a propitiation in His blood through faith. *This was* to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; ^26^for the demonstration, *I say,* of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus.**
+> **<sup>21</sup>But now apart from the Law *the* righteousness of God has been manifested, being witnessed by the Law and the Prophets, <sup>22</sup>even *the* righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction; <sup>23</sup>for all have sinned and fall short of the glory of God, <sup>24</sup>being justified as a gift by His grace through the redemption which is in Christ Jesus; <sup>25</sup>whom God displayed publicly as a propitiation in His blood through faith. *This was* to demonstrate His righteousness, because in the forbearance of God He passed over the sins previously committed; <sup>26</sup>for the demonstration, *I say,* of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus.**
 
-> ^27^Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. ^28^For we maintain that a man is justified by faith apart from works of the Law. ^29^Or is God *the God* of Jews only? Is He not *the God* of Gentiles also? Yes, of Gentiles also, ^30^since indeed God who will justify the circumcised by faith and the uncircumcised through faith is one. ^31^Do we then nullify the Law through faith? May it never be! On the contrary, we establish the Law.
+> <sup>27</sup>Where then is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith. <sup>28</sup>For we maintain that a man is justified by faith apart from works of the Law. <sup>29</sup>Or is God *the God* of Jews only? Is He not *the God* of Gentiles also? Yes, of Gentiles also, <sup>30</sup>since indeed God who will justify the circumcised by faith and the uncircumcised through faith is one. <sup>31</sup>Do we then nullify the Law through faith? May it never be! On the contrary, we establish the Law.
 
 ---
 

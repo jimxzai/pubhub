@@ -1,3 +1,6 @@
+> **內部課堂筆記：不進入正式出版輸出。**
+> 本檔案保留原始研究線索與工作指示；正式內容請以有 metadata 的課程檔案與 `book.yaml` 為準。
+
 3-29-2026
 1. the source of the class: https://www.ccic-sunnyvale.org/sunday-school#h.suerkdgqy9ei
 the material cloud storage: https://drive.google.com/drive/folders/11O1LnvKwyiw3ILxY3lV1q1-N4wgpN-fr

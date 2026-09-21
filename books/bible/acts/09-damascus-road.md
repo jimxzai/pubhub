@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第九章 · 大馬色路上 (The Damascus Road)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^掃羅仍然向主的門徒口吐威嚇兇殺的話，去見大祭司，^2^求文書給大馬色的各會堂，若是找著信奉這道的人，無論男女，都准他捆綁帶到耶路撒冷。^3^掃羅行路，將到大馬色，忽然從天上發光，四面照著他。^4^他就仆倒在地，聽見有聲音對他說：\jesus{「掃羅！掃羅！你為甚麼逼迫我？」}^5^他說：「主啊，你是誰？」主說：\jesus{「我就是你所逼迫的耶穌。}^6^\jesus{起來！進城去，你所當做的事，必有人告訴你。」}^7^同行的人站在那裏，說不出話來，聽見聲音，卻看不見人。^8^掃羅從地上起來，睜開眼睛，竟不能看見甚麼。有人拉他的手，領他進了大馬色。^9^三日不能看見，也不吃也不喝。
 
@@ -57,7 +57,7 @@ publisher: 三書精讀出版系統
 
 > ^36^在約帕有一個女徒，名叫大比大，翻希利尼話就是多加。她廣行善事，多施賙濟。^37^當時，她患病而死，有人把她洗了，停在樓上。^38^呂大原與約帕相近，門徒聽見彼得在那裏，就打發兩個人去見他，央求他說：「快到我們那裏去，不要耽延！」^39^彼得就起身和他們同去。到了，便有人領他上樓。眾寡婦都站在彼得旁邊哭，拿多加與她們同在時所做的裏衣外衣給他看。^40^彼得叫她們都出去，就跪下禱告，轉身對著死人說：「大比大，起來！」她就睜開眼睛，見了彼得，便坐起來。^41^彼得伸手扶她起來，叫眾聖徒和寡婦進去，把多加活活地交給他們。^42^這事傳遍了約帕，就有許多人信了主。^43^此後，彼得在約帕一個硝皮匠西門的家裏住了多日。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^Now Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest, ^3^As he was traveling, it happened that he was approaching Damascus, and suddenly a light from heaven flashed around him; ^4^and he fell to the ground and heard a voice saying to him, \jesus{"Saul, Saul, why are you persecuting Me?"} ^5^And he said, "Who are You, Lord?" And He *said,* \jesus{"I am Jesus whom you are persecuting,} ^6^\jesus{but get up and enter the city, and it will be told you what you must do."} ^8^Saul got up from the ground, and though his eyes were open, he could see nothing; and leading him by the hand, they brought him into Damascus. ^9^And he was three days without sight, and neither ate nor drank.
 

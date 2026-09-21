@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十六章 · 沒有違背那天上來的異象 (Not Disobedient to the Heavenly Vision)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^亞基帕對保羅說：「准你為自己辯明。」於是保羅伸手分訴說：^2^「亞基帕王啊，猶太人所告我的一切事，今日得在你面前分訴，實為萬幸。^3^更可幸的是，你熟悉猶太人的規矩和他們的辯論。所以，求你耐心聽我。
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^30^於是，王和巡撫並百尼基與同坐的人都起來，^31^退到裏面，彼此談論說：「這人並沒有犯甚麼該死、該綁的罪。」^32^亞基帕又對非斯都說：「這人若沒有上告於該撒，就可以釋放了。」
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^2^"In regard to all the things of which I am accused by the Jews, I consider myself fortunate, King Agrippa, that I am about to make my defense before you today; ^3^especially because you are an expert in all customs and questions among *the* Jews; therefore I beg you to listen to me patiently.
 

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第一章 · 升天與等候 (The Ascension and the Waiting Church)
@@ -39,7 +39,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > ^1^提阿非羅啊，我已經作了前書，論到耶穌開頭一切所行所教訓的，^2^直到他藉著聖靈吩咐所揀選的使徒以後，被接上升的日子為止。^3^他受害之後，用許多的憑據將自己活活地顯給使徒看，四十天之久向他們顯現，講說神國的事。
 
@@ -55,7 +55,7 @@ publisher: 三書精讀出版系統
 
 > ^21^「所以主耶穌在我們中間始終出入的時候，^22^就是從約翰施洗起，直到主離開我們被接上升的日子為止，必須從那常與我們作伴的人中立一位與我們同作耶穌復活的見證。」^23^於是選舉兩個人，就是那叫做巴撒巴、又稱呼猶士都的約瑟和馬提亞。^24-25^眾人就禱告說：「主啊，你知道萬人的心，求你從這兩個人中指明你所揀選的是誰，叫他得這使徒的位分。這位分猶大已經丟棄，往自己的地方去了。」^26^於是眾人為他們搖籤，搖出馬提亞來，他就和十一個使徒同列。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > ^1^The first account I composed, Theophilus, about all that Jesus began to do and teach, ^2^until the day when He was taken up *to heaven,* after He had by the Holy Spirit given orders to the apostles whom He had chosen. ^3^To these He also presented Himself alive after His suffering, by many convincing proofs, appearing to them over *a period of* forty days and speaking of the things concerning the kingdom of God.
 

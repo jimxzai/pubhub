@@ -2,7 +2,7 @@
 title: "使徒行傳研讀"
 subtitle: "Acts of the Apostles Deep Study — 2026 整編版"
 author: "PubHub 三書精讀系統"
-date: "2026年8月"
+date: "2026年9月20日"
 publisher: "三書精讀出版系統"
 copyright: |
   版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
@@ -27,8 +27,10 @@ copyright: |
   中文經文引自《聖經》和合本（1919），屬公有領域。
 
   Scripture quotations taken from the New American Standard Bible® (NASB),
-  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by
-  permission. All rights reserved. lockman.org
+  Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Permission
+  and notice status require final Lockman confirmation before public release;
+  this internal draft does not itself grant permission. All rights reserved.
+  lockman.org
 ---
 
 
@@ -358,13 +360,13 @@ copyright: |
 | **見證——全書的骨幹** | 骨幹：1:8 一句話怎樣管住二十八章，六句「道的增長」的分卷記號 |
 | **全書領受總綱** | 深讀：老弟兄查經法逐卷領受，五卷的精義、骨架、全經連線與帶著走的問題 |
 
-正文二十八章，每章十一節，次序固定：基督焦點、配詩、經文（和合本／NASB 對照）、背景、原文研讀、領受要點、歷代注疏（教父、改革宗、摩根、麥克阿瑟）、詩篇與聖詩、老弟兄查經、生命應用、與其他經文的關聯。
+正文二十八章，每章十一節，次序固定：基督焦點、配詩、經文選段（和合本／NASB）、背景、原文研讀、領受要點、歷代注疏（教父、改革宗、摩根、麥克阿瑟）、詩篇與聖詩、老弟兄查經、生命應用、與其他經文的關聯。
 
 **歷代注疏的體例**：該節是歷代解經者立場的綜述；帶引號引文均為編者自英文原著的中譯，並標明出處，不應作為原文逐字引用轉引。此一體例說明全書適用，各章不再重複。
 
 ---
 
-*三書精讀項目 · 使徒行傳研讀 · 2026*
+*PubHub 三書精讀系統 · 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版*
 
 
 \newpage
@@ -851,6 +853,8 @@ copyright: |
 # 全書領受總綱——查經領受 (Systematic Reception)
 
 
+## 補編：結構式查經領受 (Supplementary Structural Study)
+
 > 路加福音記耶穌「開頭」所行所教訓的一切；使徒行傳記祂藉聖靈、藉教會「繼續」所行所教訓的一切——換了做工的方式，沒有換做工的那一位。
 >
 > 這卷書結在「並沒有人禁止」上，不是句號，是破折號。讀完它的你，就是下一頁。
@@ -1157,6 +1161,8 @@ copyright: |
 # 卷一 · 耶路撒冷——你們就必得著能力 (Jerusalem) · 1-7章
 
 > 等候、澆灌、放膽——福音從一座城的一間樓房開始。
+>
+> **啟示的次序·第一步**：能力不是門徒掙來的，是聖靈白白澆灌下來的（2:4）——1:8 的應許，先於任何一步使命。
 
 | | |
 |---|---|
@@ -1200,7 +1206,7 @@ copyright: |
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > \textsuperscript{1}提阿非羅啊，我已經作了前書，論到耶穌開頭一切所行所教訓的，\textsuperscript{2}直到他藉著聖靈吩咐所揀選的使徒以後，被接上升的日子為止。\textsuperscript{3}他受害之後，用許多的憑據將自己活活地顯給使徒看，四十天之久向他們顯現，講說神國的事。
 
@@ -1216,7 +1222,7 @@ copyright: |
 
 > \textsuperscript{21}「所以主耶穌在我們中間始終出入的時候，\textsuperscript{22}就是從約翰施洗起，直到主離開我們被接上升的日子為止，必須從那常與我們作伴的人中立一位與我們同作耶穌復活的見證。」\textsuperscript{23}於是選舉兩個人，就是那叫做巴撒巴、又稱呼猶士都的約瑟和馬提亞。\textsuperscript{24-25}眾人就禱告說：「主啊，你知道萬人的心，求你從這兩個人中指明你所揀選的是誰，叫他得這使徒的位分。這位分猶大已經丟棄，往自己的地方去了。」\textsuperscript{26}於是眾人為他們搖籤，搖出馬提亞來，他就和十一個使徒同列。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > \textsuperscript{1}The first account I composed, Theophilus, about all that Jesus began to do and teach, \textsuperscript{2}until the day when He was taken up *to heaven,* after He had by the Holy Spirit given orders to the apostles whom He had chosen. \textsuperscript{3}To these He also presented Himself alive after His suffering, by many convincing proofs, appearing to them over *a period of* forty days and speaking of the things concerning the kingdom of God.
 
@@ -1478,7 +1484,7 @@ copyright: |
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}五旬節到了，門徒都聚集在一處。\textsuperscript{2}忽然，從天上有響聲下來，好像一陣大風吹過，充滿了他們所坐的屋子；\textsuperscript{3}又有舌頭如火焰顯現出來，分開落在他們各人頭上。\textsuperscript{4}他們就都被聖靈充滿，按著聖靈所賜的口才說起別國的話來。
 
@@ -1494,7 +1500,7 @@ copyright: |
 
 > \textsuperscript{44}信的人都在一處，凡物公用，\textsuperscript{45}並且賣了田產、家業，照各人所需用的分給各人。\textsuperscript{46}他們天天同心合意恆切地在殿裏，且在家中擘餅，存著歡喜、誠實的心用飯，\textsuperscript{47}讚美神，得眾民的喜愛。主將得救的人天天加給他們。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}When the day of Pentecost had come, they were all together in one place. \textsuperscript{2}And suddenly there came from heaven a noise like a violent rushing wind, and it filled the whole house where they were sitting. \textsuperscript{3}And there appeared to them tongues as of fire distributing themselves, and they rested on each one of them. \textsuperscript{4}And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit was giving them utterance.
 
@@ -1798,7 +1804,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}申初禱告的時候，彼得、約翰上聖殿去。\textsuperscript{2}有一個人，生來是瘸腿的，天天被人抬來，放在殿的一個門口——那門名叫美門——要求進殿的人賙濟。\textsuperscript{3}他看見彼得、約翰將要進殿，就求他們賙濟。\textsuperscript{4}彼得、約翰定睛看他，彼得說：「你看我們！」\textsuperscript{5}那人就留意看他們，指望得著甚麼。
 
@@ -1810,7 +1816,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{22}摩西曾說：『主－神要從你們弟兄中間給你們興起一位先知像我，凡他向你們所說的，你們都要聽從。\textsuperscript{23}凡不聽從那先知的，必要從民中全然滅絕。』
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{6}But Peter said, "I do not possess silver and gold, but what I do have I give to you: In the name of Jesus Christ the Nazarene—walk!"
 
@@ -2100,7 +2106,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}使徒對百姓說話的時候，祭司們和守殿官並撒都該人忽然來了，\textsuperscript{2}因他們教訓百姓，本著耶穌傳說死人復活，就很煩惱，\textsuperscript{3}於是下手拿住他們。因為天已經晚了，就把他們押到第二天。\textsuperscript{4}但聽道之人有許多信的，男丁數目約到五千。
 
@@ -2114,7 +2120,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{32}那許多信的人都是一心一意的，沒有一人說他的東西有一樣是自己的，都是大家公用。……\textsuperscript{34}內中也沒有一個缺乏的，因為人人將田產房屋都賣了，把所賣的價銀拿來，……\textsuperscript{36}有一個利未人，生在居比路，名叫約瑟，使徒稱他為巴拿巴（「巴拿巴」翻出來就是「勸慰子」）。\textsuperscript{37}他有田地，也賣了，把價銀拿來放在使徒腳前。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{10}let it be known to all of you and to all the people of Israel, that by the name of Jesus Christ the Nazarene, whom you crucified, whom God raised from the dead—by this *name* this man stands here before you in good health. \textsuperscript{11}He is the STONE WHICH WAS REJECTED by you, THE BUILDERS, *but* WHICH BECAME THE CHIEF CORNER *stone.* \textsuperscript{12}And there is salvation in no one else; for there is no other name under heaven that has been given among men by which we must be saved."
 
@@ -2398,7 +2404,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}有一個人名叫亞拿尼亞，同他的妻子撒非喇賣了田產，\textsuperscript{2}把價銀私自留下幾分，他的妻子也知道，其餘的幾分拿來放在使徒腳前。\textsuperscript{3}彼得說：「亞拿尼亞，為甚麼撒但充滿了你的心，叫你欺哄聖靈，把田地的價銀私自留下幾分呢？\textsuperscript{4}田地還沒有賣，不是你自己的嗎？既賣了，價銀不是你作主嗎？你怎麼心裏起這意念呢？你不是欺哄人，是欺哄神了！」
 
@@ -2412,7 +2418,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{41}他們離開公會，心裏歡喜，因被算是配為這名受辱。\textsuperscript{42}他們就每日在殿裏、在家裏不住地教訓人，傳耶穌是基督。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{3}But Peter said, "Ananias, why has Satan filled your heart to lie to the Holy Spirit and to keep back *some* of the price of the land? \textsuperscript{4}While it remained *unsold,* did it not remain your own? And after it was sold, was it not under your control? Why is it that you have conceived this deed in your heart? You have not lied to men but to God." \textsuperscript{5}And as he heard these words, Ananias fell down and breathed his last; and great fear came over all who heard of it.
 
@@ -2702,7 +2708,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}那時，門徒增多，有說希利尼話的猶太人向希伯來人發怨言，因為在天天的供給上忽略了他們的寡婦。\textsuperscript{2}十二使徒叫眾門徒來，對他們說：「我們撇下神的道去管理飯食，原是不合宜的。\textsuperscript{3}所以弟兄們，當從你們中間選出七個有好名聲、被聖靈充滿、智慧充足的人，我們就派他們管理這事。\textsuperscript{4}但我們要專心以祈禱、傳道為事。」\textsuperscript{5}大眾都喜悅這話，就揀選了司提反，乃是大有信心、聖靈充滿的人；又揀選腓利、伯羅哥羅、尼迦挪、提門、巴米拿，並進猶太教的安提阿人尼哥拉。\textsuperscript{6}叫他們站在使徒面前，使徒禱告了，就按手在他們頭上。\textsuperscript{7}神的道興旺起來，在耶路撒冷門徒數目加增的甚多，也有許多祭司信從了這道。
 
@@ -2710,7 +2716,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{11}就買出人來說：「我們聽見他說謗讟摩西和神的話。」\textsuperscript{12}他們又聳動了百姓、長老並文士，就忽然來捉拿他，把他帶到公會去，\textsuperscript{13}設下假見證說：「這個人說話不住地糟踐聖所和律法。\textsuperscript{14}我們曾聽見他說，這拿撒勒人耶穌要毀壞此地，也要改變摩西所交給我們的規條。」\textsuperscript{15}在公會裏坐著的人都定睛看他，見他的面貌好像天使的面貌。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{2}So the twelve summoned the congregation of the disciples and said, "It is not desirable for us to neglect the word of God in order to serve tables. \textsuperscript{3}Therefore, brethren, select from among you seven men of good reputation, full of the Spirit and of wisdom, whom we may put in charge of this task. \textsuperscript{4}But we will devote ourselves to prayer and to the ministry of the word."
 
@@ -2977,7 +2983,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{2}司提反說：「諸位父兄請聽！當日我們的祖宗亞伯拉罕在美索不達米亞，還未住哈蘭的時候，榮耀的神向他顯現，\textsuperscript{3}對他說：『你要離開本地和親族，往我所要指示你的地方去。』\textsuperscript{4}他就離開迦勒底人之地，住在哈蘭。他父親死了以後，神使他從那裏搬到你們現在所住之地。\textsuperscript{5}在這地方，神並沒有給他產業，連立足之地也沒有給他；但應許要將這地賜給他和他的後裔為業，那時他還沒有兒子。\textsuperscript{6}神說他的後裔『必寄居外邦，那裏的人要叫他們作奴僕，苦待他們四百年』。\textsuperscript{7}神又說『使他們作奴僕的那國，我要懲罰。以後他們要出來，在這地方事奉我』。\textsuperscript{8}神又賜他割禮的約；於是亞伯拉罕生了以撒，第八日給他行了割禮。以撒生雅各，雅各生十二位先祖。
 
@@ -2995,7 +3001,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{57}眾人大聲喊叫，摀著耳朵，齊心擁上前去，\textsuperscript{58}把他推到城外，用石頭打他。作見證的人把衣裳放在一個少年人名叫掃羅的腳前。\textsuperscript{59}他們正用石頭打的時候，司提反呼籲主說：「求主耶穌接收我的靈魂！」\textsuperscript{60}又跪下大聲喊著說：「主啊，不要將這罪歸於他們！」說了這話就睡了。掃羅也喜悅他被害。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{2}And he said, "Hear me, brethren and fathers! The God of glory appeared to our father Abraham when he was in Mesopotamia, before he lived in Haran, \textsuperscript{3}and said to him, 'LEAVE YOUR COUNTRY AND YOUR RELATIVES, AND COME INTO THE LAND THAT I WILL SHOW YOU.' \textsuperscript{4}Then he left the land of the Chaldeans and settled in Haran. From there, after his father died, *God* had him move to this country in which you are now living. \textsuperscript{5}But He gave him no inheritance in it, not even a foot of ground, and *yet,* even when he had no child, He promised that HE WOULD GIVE IT TO HIM AS A POSSESSION, AND TO HIS DESCENDANTS AFTER HIM.
 
@@ -3266,6 +3272,8 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 # 卷二 · 猶太全地和撒瑪利亞——門被推開 (Judea and Samaria) · 8-12章
 
 > 逼迫叫門徒四散，四散卻叫福音蔓延——門一道一道被聖靈推開。
+>
+> **啟示的次序·第二步**：教會不是自己走出耶路撒冷的，是被逼迫趕出去的（8:1, 4）——1:8 的第二環，靠的是苦難，不是策略。
 
 | | |
 |---|---|
@@ -3311,7 +3319,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}從這日起，耶路撒冷的教會大遭逼迫。除了使徒以外，門徒都分散在猶太和撒瑪利亞各處。\textsuperscript{3}掃羅卻殘害教會，進各人的家，拉著男女下在監裏。
 
@@ -3329,7 +3337,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{36}二人正往前走，到了有水的地方，太監說：「看哪，這裏有水！我受洗有甚麼妨礙呢？」\textsuperscript{38}於是吩咐車站住，腓利和太監二人同下水裏去，腓利就給他施洗。\textsuperscript{39}從水裏上來，主的靈把腓利提了去。太監也不再見他了，就歡歡喜喜地走路。\textsuperscript{40}後來有人在亞鎖都遇見腓利；他走遍那地方，在各城宣傳福音，直到該撒利亞。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}Saul was in hearty agreement with putting him to death. And on that day a great persecution began against the church in Jerusalem, and they were all scattered throughout the regions of Judea and Samaria, except the apostles.
 
@@ -3608,7 +3616,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}掃羅仍然向主的門徒口吐威嚇兇殺的話，去見大祭司，\textsuperscript{2}求文書給大馬色的各會堂，若是找著信奉這道的人，無論男女，都准他捆綁帶到耶路撒冷。\textsuperscript{3}掃羅行路，將到大馬色，忽然從天上發光，四面照著他。\textsuperscript{4}他就仆倒在地，聽見有聲音對他說：\jesus{「掃羅！掃羅！你為甚麼逼迫我？」}\textsuperscript{5}他說：「主啊，你是誰？」主說：\jesus{「我就是你所逼迫的耶穌。}\textsuperscript{6}\jesus{起來！進城去，你所當做的事，必有人告訴你。」}\textsuperscript{7}同行的人站在那裏，說不出話來，聽見聲音，卻看不見人。\textsuperscript{8}掃羅從地上起來，睜開眼睛，竟不能看見甚麼。有人拉他的手，領他進了大馬色。\textsuperscript{9}三日不能看見，也不吃也不喝。
 
@@ -3624,7 +3632,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{36}在約帕有一個女徒，名叫大比大，翻希利尼話就是多加。她廣行善事，多施賙濟。\textsuperscript{37}當時，她患病而死，有人把她洗了，停在樓上。\textsuperscript{38}呂大原與約帕相近，門徒聽見彼得在那裏，就打發兩個人去見他，央求他說：「快到我們那裏去，不要耽延！」\textsuperscript{39}彼得就起身和他們同去。到了，便有人領他上樓。眾寡婦都站在彼得旁邊哭，拿多加與她們同在時所做的裏衣外衣給他看。\textsuperscript{40}彼得叫她們都出去，就跪下禱告，轉身對著死人說：「大比大，起來！」她就睜開眼睛，見了彼得，便坐起來。\textsuperscript{41}彼得伸手扶她起來，叫眾聖徒和寡婦進去，把多加活活地交給他們。\textsuperscript{42}這事傳遍了約帕，就有許多人信了主。\textsuperscript{43}此後，彼得在約帕一個硝皮匠西門的家裏住了多日。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}Now Saul, still breathing threats and murder against the disciples of the Lord, went to the high priest, \textsuperscript{3}As he was traveling, it happened that he was approaching Damascus, and suddenly a light from heaven flashed around him; \textsuperscript{4}and he fell to the ground and heard a voice saying to him, \jesus{"Saul, Saul, why are you persecuting Me?"} \textsuperscript{5}And he said, "Who are You, Lord?" And He *said,* \jesus{"I am Jesus whom you are persecuting,} \textsuperscript{6}\jesus{but get up and enter the city, and it will be told you what you must do."} \textsuperscript{8}Saul got up from the ground, and though his eyes were open, he could see nothing; and leading him by the hand, they brought him into Damascus. \textsuperscript{9}And he was three days without sight, and neither ate nor drank.
 
@@ -3896,14 +3904,14 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 因為神愛何等寬闊， \
 > 遠超人心所能度量； \
-> 那永恒者心腸柔軟， \
+> 那永恆者心腸柔軟， \
 > 何等奇妙、何等慈祥。
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > \textsuperscript{3}有一天，約在申初，他在異象中明明看見神的一個使者進去，到他那裏，說：「哥尼流！」\textsuperscript{4}哥尼流定睛看他，驚怕說：「主啊，甚麼事呢？」天使說：「你的禱告和你的賙濟達到神面前，已蒙記念了。\textsuperscript{5}現在你當打發人往約帕去，請那稱呼彼得的西門來。\textsuperscript{6}他住在海邊一個硝皮匠西門的家裏，房子在海邊上。」
 
@@ -3917,7 +3925,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{44}彼得還說這話的時候，聖靈降在一切聽道的人身上。\textsuperscript{45}那些奉割禮、和彼得同來的信徒，見聖靈的恩賜也澆在外邦人身上，就都希奇，\textsuperscript{46}因聽見他們說方言，稱讚神為大。\textsuperscript{47}於是彼得說：「這些人既受了聖靈，與我們一樣，誰能禁止用水給他們施洗呢？」\textsuperscript{48}就吩咐奉耶穌基督的名給他們施洗。他們又請彼得住了幾天。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > \textsuperscript{3}About the ninth hour of the day he clearly saw in a vision an angel of God who had *just* come in and said to him, "Cornelius!" \textsuperscript{4}And fixing his gaze on him and being much alarmed, he said, "What is it, Lord?" And he said to him, "Your prayers and alms have ascended as a memorial before God. \textsuperscript{5}Now dispatch *some* men to Joppa and send for a man *named* Simon, who is also called Peter; \textsuperscript{6}he is staying with a tanner *named* Simon, whose house is by the sea."
 
@@ -4190,7 +4198,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > \textsuperscript{1}使徒和在猶太的眾弟兄聽說外邦人也領受了神的道。\textsuperscript{2}及至彼得上了耶路撒冷，那些奉割禮的門徒和他爭辯，說：\textsuperscript{3}「你進入未受割禮之人的家，和他們一同吃飯了！」\textsuperscript{4}彼得就開口把這事挨次給他們講解，說：
 
@@ -4202,7 +4210,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{27}當那些日子，有幾位先知從耶路撒冷下到安提阿。\textsuperscript{28}內中有一位名叫亞迦布，站起來，藉著聖靈指明天下將有大饑荒；這事到革老丟年間果然有了。\textsuperscript{29}於是門徒定意照各人的力量捐錢，送去供給住在猶太的弟兄。\textsuperscript{30}他們就這樣行，把捐項託巴拿巴和掃羅送到眾長老那裏。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > \textsuperscript{1}Now the apostles and the brethren who were throughout Judea heard that the Gentiles also had received the word of God. \textsuperscript{2}And when Peter came up to Jerusalem, those who were circumcised took issue with him, \textsuperscript{3}saying, "You went to uncircumcised men and ate with them." \textsuperscript{4}But Peter began *speaking* and *proceeded* to explain to them in orderly sequence, saying,
 
@@ -4467,7 +4475,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}那時，希律王下手苦害教會中幾個人，\textsuperscript{2}用刀殺了約翰的哥哥雅各。\textsuperscript{3}他見猶太人喜歡這事，又去捉拿彼得。那時正是除酵的日子。\textsuperscript{4}希律拿了彼得，收在監裏，交付四班兵丁看守，每班四個人，意思要在逾越節後把他提出來，當著百姓辦他。
 
@@ -4483,7 +4491,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{24}神的道日見興旺，越發廣傳。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{5}So Peter was kept in the prison, but prayer for him was being made fervently by the church to God.
 
@@ -4715,6 +4723,8 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 # 卷三 · 直到地極·第一次差遣 (To the Ends of the Earth: First Sending) · 13-15章
 
 > 聖靈親自從教會中分派差遣——福音第一次有計劃地走出耶路撒冷。
+>
+> **啟示的次序·第三步**：聖靈在禱告禁食中親自點名差遣（13:2）——1:8「直到地極」第一次不再是異象，是一趟真實動身的旅程。
 
 | | |
 |---|---|
@@ -4768,7 +4778,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}在安提阿的教會中有幾位先知和教師，就是巴拿巴和稱呼尼結的西面、古利奈人路求、與分封之王希律同養的馬念並掃羅。\textsuperscript{2}他們事奉主、禁食的時候，聖靈說：「要為我分派巴拿巴和掃羅，去做我召他們所做的工。」\textsuperscript{3}於是禁食、禱告，按手在他們頭上，就打發他們去了。\textsuperscript{4}他們既被聖靈差遣，就下到西流基，從那裏坐船往居比路去。
 
@@ -4784,7 +4794,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{50}但猶太人挑唆虔敬、尊貴的婦女和城內有名望的人，逼迫保羅、巴拿巴，將他們趕出境外。\textsuperscript{51}二人對著眾人跺下腳上的塵土，就往以哥念去了。\textsuperscript{52}門徒滿心喜樂，又被聖靈充滿。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{2}While they were ministering to the Lord and fasting, the Holy Spirit said, "Set apart for Me Barnabas and Saul for the work to which I have called them." \textsuperscript{3}Then, when they had fasted and prayed and laid their hands on them, they sent them away. \textsuperscript{4}So, being sent out by the Holy Spirit, they went down to Seleucia and from there they sailed to Cyprus.
 
@@ -5051,7 +5061,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}二人在以哥念同進猶太人的會堂，在那裏講的叫猶太人和希臘人信的很多。
 
@@ -5063,7 +5073,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{27}到了那裏，聚集了會眾，就述說神藉他們所行的一切事，並神怎樣為外邦人開了信道的門。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{8}At Lystra a man was sitting who had no strength in his feet, lame from his mother's womb, who had never walked. \textsuperscript{9}This man was listening to Paul as he spoke, who, when he had fixed his gaze on him and had seen that he had faith to be made well, \textsuperscript{10}said with a loud voice, "Stand upright on your feet." And he leaped up and *began* to walk. \textsuperscript{11}When the crowds saw what Paul had done, they raised their voice, saying in the Lycaonian language, "The gods have become like men and have come down to us." \textsuperscript{12}And they *began* calling Barnabas, Zeus, and Paul, Hermes, because he was the chief speaker. \textsuperscript{13}The priest of Zeus, whose *temple* was just outside the city, brought oxen and garlands to the gates, and wanted to offer sacrifice with the crowds. \textsuperscript{14}But when the apostles Barnabas and Paul heard of it, they tore their robes and rushed out into the crowd, crying out \textsuperscript{15}and saying, "Men, why are you doing these things? We are also men of the same nature as you, and preach the gospel to you that you should turn from these vain things to a living God, WHO MADE THE HEAVEN AND THE EARTH AND THE SEA AND ALL THAT IS IN THEM.
 
@@ -5313,7 +5323,6 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 | 為外邦人開了信道的門 | 14:27 | 徒10:44-48、11:18、林前16:9、啟3:8 |
 
 
-
 \newpage
 
 
@@ -5350,7 +5359,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}有幾個人從猶太下來，教訓弟兄們說：「你們若不按摩西的規條受割禮，不能得救。」\textsuperscript{2}保羅、巴拿巴與他們大大地紛爭辯論，眾門徒就定規，叫保羅、巴拿巴和本會中幾個人為所辯論的，上耶路撒冷去見使徒和長老。
 
@@ -5366,7 +5375,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 （原文注：古卷有第34節「唯有西拉定意仍住在那裏」，現代標點和合本依所據古卷不列入正文，僅作腳註，故節碼由33跳至35；英文NASB 1995則將此節以方括號印在正文中——"[But it seemed good to Silas to remain there.]"——標示為古卷異文。）
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}Some men came down from Judea and *began* teaching the brethren, "Unless you are circumcised according to the custom of Moses, you cannot be saved."
 
@@ -5582,6 +5591,8 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 # 卷四 · 直到地極·進入歐洲 (To the Ends of the Earth: Into Europe) · 16-20章
 
 > 馬其頓的呼聲，把福音第一次帶過了海——從此走向整個地中海世界。
+>
+> **啟示的次序·第四步**：聖靈先攔阻、再引路（16:6-10）——關上的門和開啟的異象是同一位聖靈的動作，福音第一次跨海進入歐洲。
 
 | | |
 |---|---|
@@ -5633,7 +5644,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}保羅來到特庇，又到路司得。在那裏有一個門徒，名叫提摩太，是信主之猶太婦人的兒子，他父親卻是希利尼人。\textsuperscript{3}保羅要帶他同去，只因那些地方的猶太人都知道他父親是希利尼人，就給他行了割禮。\textsuperscript{5}於是眾教會信心越發堅固，人數天天加增。
 
@@ -5647,7 +5658,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{37}保羅卻說：「我們是羅馬人，並沒有定罪，他們就在眾人面前打了我們，又把我們下在監裏。現在要私下攆我們出去嗎？這是不行的。叫他們自己來領我們出去吧！」
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{6}They passed through the Phrygian and Galatian region, having been forbidden by the Holy Spirit to speak the word in Asia; \textsuperscript{7}and after they came to Mysia, they were trying to go into Bithynia, and the Spirit of Jesus did not permit them; \textsuperscript{8}and passing by Mysia, they came down to Troas. \textsuperscript{9}A vision appeared to Paul in the night: a man of Macedonia was standing and appealing to him, and saying, "Come over to Macedonia and help us." \textsuperscript{10}When he had seen the vision, immediately we sought to go into Macedonia, concluding that God had called us to preach the gospel to them.
 
@@ -5916,7 +5927,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}保羅和西拉經過暗妃波里、亞波羅尼亞，來到帖撒羅尼迦，在那裏有猶太人的會堂。\textsuperscript{2}保羅照他素常的規矩進去，一連三個安息日，本著聖經與他們辯論，\textsuperscript{3}講解陳明基督必須受害，從死裏復活，又說：「我所傳與你們的這位耶穌，就是基督。」
 
@@ -5930,7 +5941,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{32}眾人聽見從死裏復活的話，就有譏誚他的，又有人說：「我們再聽你講這個吧！」\textsuperscript{33}於是保羅從他們當中出去了。\textsuperscript{34}但有幾個人貼近他，信了主，其中有亞略巴古的官丟尼修，並一個婦人名叫大馬哩，還有別人一同信從。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}Now when they had traveled through Amphipolis and Apollonia, they came to Thessalonica, where there was a synagogue of the Jews. \textsuperscript{5}But the Jews, becoming jealous and taking along some wicked men from the market place, formed a mob and set the city in an uproar; and attacking the house of Jason, they were seeking to bring them out to the people. \textsuperscript{6}When they did not find them, they *began* dragging Jason and some brethren before the city authorities, shouting, "These men who have upset the world have come here also; \textsuperscript{7}and Jason has welcomed them, and they all act contrary to the decrees of Caesar, saying that there is another king, Jesus."
 
@@ -6222,7 +6233,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}這事以後，保羅離了雅典，來到哥林多。\textsuperscript{2}遇見一個猶太人，名叫亞居拉，他生在本都，因為革老丟命猶太人都離開羅馬，新近帶著妻百基拉從意大利來，保羅就投奔了他們。\textsuperscript{3}他們本是製造帳棚為業，保羅因與他們同業，就和他們同住做工。\textsuperscript{4}每逢安息日，保羅在會堂裏辯論，勸化猶太人和希臘人。
 
@@ -6236,7 +6247,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{24}有一個猶太人名叫亞波羅，來到以弗所，他生在亞力山大，是有學問的，最能講解聖經。\textsuperscript{25}這人已經在主的道上受了教訓，心裏火熱，將耶穌的事詳細講論教訓人，只是他單曉得約翰的洗禮。\textsuperscript{26}他在會堂裏放膽講道，百基拉、亞居拉聽見，就接他來，將神的道給他講解更加詳細。\textsuperscript{27}他想要往亞該亞去，弟兄們就勉勵他，並寫信請門徒接待他；他到了那裏，多幫助那蒙恩信主的人，\textsuperscript{28}在眾人面前極有能力駁倒猶太人，引聖經證明耶穌是基督。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}After these things he left Athens and went to Corinth. \textsuperscript{2}And he found a Jew named Aquila, a native of Pontus, having recently come from Italy with his wife Priscilla, because Claudius had commanded all the Jews to leave Rome. He came to them, \textsuperscript{3}and because he was of the same trade, he stayed with them and they were working, for by trade they were tent-makers. \textsuperscript{4}And he was reasoning in the synagogue every Sabbath and trying to persuade Jews and Greeks.
 
@@ -6506,7 +6517,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}亞波羅在哥林多的時候，保羅經過了上邊一帶地方，就來到以弗所。在那裏遇見幾個門徒，\textsuperscript{2}問他們說：「你們信的時候受了聖靈沒有？」他們回答說：「沒有，也未曾聽見有聖靈賜下來。」\textsuperscript{3}保羅說：「這樣，你們受的是甚麼洗呢？」他們說：「是約翰的洗。」\textsuperscript{4}保羅說：「約翰所行的是悔改的洗，告訴百姓當信那在他以後要來的，就是耶穌。」\textsuperscript{5}他們聽見這話，就奉主耶穌的名受洗。\textsuperscript{6}保羅按手在他們頭上，聖靈便降在他們身上，他們就說方言，又說預言。\textsuperscript{7}一共約有十二個人。
 
@@ -6526,7 +6537,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{35}那城裏的書記安撫了眾人，就說：「以弗所人哪，誰不知道以弗所人的城是看守大亞底米的廟和從丟斯那裏落下來的像呢？\textsuperscript{36}這事既是駁不倒的，你們就當安靜，不可造次。\textsuperscript{37}你們把這些人帶來，他們並沒有偷竊廟中之物，也沒有謗讟我們的女神。\textsuperscript{38}若是底米丟和他同行的人有控告人的事，自有放告的日子，也有方伯可以彼此對告。\textsuperscript{39}你們若問別的事，就可以照常例聚集斷定。\textsuperscript{40}今日的擾亂本是無緣無故，我們難免被查問；論到這樣聚眾，我們也說不出所以然來。」\textsuperscript{41}說了這話，便叫眾人散去。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}It happened that while Apollos was at Corinth, Paul passed through the upper country and came to Ephesus, and found some disciples. \textsuperscript{2}He said to them, "Did you receive the Holy Spirit when you believed?" And they *said* to him, "No, we have not even heard whether there is a Holy Spirit." \textsuperscript{3}And he said, "Into what then were you baptized?" And they said, "Into John's baptism." \textsuperscript{4}Paul said, "John baptized with the baptism of repentance, telling the people to believe in Him who was coming after him, that is, in Jesus." \textsuperscript{5}When they heard this, they were baptized in the name of the Lord Jesus. \textsuperscript{6}And when Paul had laid his hands upon them, the Holy Spirit came on them, and they *began* speaking with tongues and prophesying. \textsuperscript{7}There were in all about twelve men.
 
@@ -6808,7 +6819,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > \textsuperscript{7}七日的第一日，我們聚會擘餅的時候，保羅因為要次日起行，就與他們講論，直講到半夜。\textsuperscript{8}我們聚會的那座樓上，有好些燈燭。\textsuperscript{9}有一個少年人名叫猶推古，坐在窗臺上，困倦沉睡。保羅講了多時，少年人睡熟了，就從三層樓上掉下去。扶起他來，已經死了。\textsuperscript{10}保羅下去，伏在他身上，抱著他說：「你們不要發慌，他的靈魂還在身上。」\textsuperscript{11}保羅又上去，擘餅，吃了，談論許久，直到天亮，這才走了。\textsuperscript{12}有人把那童子活活地領來，得的安慰不小。
 
@@ -6826,7 +6837,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{36}保羅說完了這話，就跪下同眾人禱告。\textsuperscript{37}眾人痛哭，抱著保羅的頸項，和他親嘴。\textsuperscript{38}叫他們最傷心的，就是他說「以後不能再見我的面」那句話。於是送他上船去了。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > \textsuperscript{7}On the first day of the week, when we were gathered together to break bread, Paul *began* talking to them, intending to leave the next day, and he prolonged his message until midnight. \textsuperscript{8}There were many lamps in the upper room where we were gathered together. \textsuperscript{9}And there was a young man named Eutychus sitting on the window sill, sinking into a deep sleep; and as Paul kept on talking, he was overcome by sleep and fell down from the third floor and was picked up dead. \textsuperscript{10}But Paul went down and fell upon him, and after embracing him, he said, "Do not be troubled, for his life is in him." \textsuperscript{11}When he had gone *back* up and had broken the bread and eaten, he talked with them a long while until daybreak, and then left. \textsuperscript{12}They took away the boy alive, and were greatly comforted.
 
@@ -7095,6 +7106,8 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 # 卷五 · 捆鎖中的見證·直到羅馬 (Bound Witness: To Rome) · 21-28章
 
 > 鎖鏈沒有捆住福音——保羅在囚禁、審訊、風暴中，把見證一路帶到了羅馬。
+>
+> **啟示的次序·第五步（終章）**：主親口定下這條路線（23:11）——保羅是被押著抵達地極的，1:8 的應許卻在鎖鏈中「並沒有人禁止」地兌現（28:31）。
 
 | | |
 |---|---|
@@ -7144,7 +7157,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{3}望見居比路，就從南邊行過，往敘利亞去。我們就在推羅上岸，因為船要在那裏卸貨。\textsuperscript{4}找著了門徒，就在那裏住了七天。他們被聖靈感動，對保羅說：「不要上耶路撒冷去。」
 
@@ -7162,7 +7175,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{37}將要帶他進營樓，保羅對千夫長說：「我對你說句話可以不可以？」他說：「你懂得希臘話嗎？\textsuperscript{38}你莫非是從前作亂、帶領四千兇徒往曠野去的那埃及人嗎？」\textsuperscript{39}保羅說：「我本是猶太人，生在基利家的大數，並不是無名小城的人。求你准我對百姓說話。」\textsuperscript{40}千夫長准了。保羅就站在臺階上，向百姓擺手。他們都靜默無聲，保羅便用希伯來話對他們說……
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{4}After looking up the disciples, we stayed there seven days; and they kept telling Paul through the Spirit not to set foot in Jerusalem.
 
@@ -7424,7 +7437,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}「諸位父兄，請聽我現在對你們分訴！」\textsuperscript{2}眾人聽他說的是希伯來話，就更加安靜了。保羅說：\textsuperscript{3}「我原是猶太人，生在基利家的大數，長在這城裏；在迦瑪列門下，按著我們祖宗嚴緊的律法受教；熱心事奉神，像你們眾人今日一樣。\textsuperscript{4}我也曾逼迫奉這道的人，直到死地，無論男女都鎖拿下監。\textsuperscript{5}這是大祭司和眾長老都可以給我作見證的。我又領了他們達與弟兄的書信，往大馬士革去，要把在那裏奉這道的人鎖拿，帶到耶路撒冷受刑。
 
@@ -7440,7 +7453,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 （第二天，千夫長為要查明猶太人控告保羅的實情，解開他的鎖鏈，吩咐祭司長和全公會的人聚集，把保羅帶到他們面前——公會前的審判由此展開，22:30。）
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}"Brethren and fathers, hear my defense which I now *offer* to you." \textsuperscript{2}And when they heard that he was addressing them in the Hebrew dialect, they became even more quiet; and he said, \textsuperscript{3}"I am a Jew, born in Tarsus of Cilicia, but brought up in this city, educated under Gamaliel, strictly according to the law of our fathers, being zealous for God just as you all are today. \textsuperscript{4}I persecuted this Way to the death, binding and putting both men and women into prisons, \textsuperscript{5}as also the high priest and all the Council of the elders can testify. From them I also received letters to the brethren, and started off for Damascus in order to bring even those who were there to Jerusalem as prisoners to be punished.
 
@@ -7719,7 +7732,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > \textsuperscript{1}保羅定睛看著公會的人，說：「弟兄們，我在神面前行事為人都是憑著良心，直到今日。」\textsuperscript{2}大祭司亞拿尼亞就吩咐旁邊站著的人打他的嘴。\textsuperscript{3}保羅對他說：「你這粉飾的牆，神要打你！你坐堂為的是按律法審問我，你竟違背律法，吩咐人打我嗎？」\textsuperscript{4}站在旁邊的人說：「你辱罵神的大祭司嗎？」\textsuperscript{5}保羅說：「弟兄們，我不曉得他是大祭司。經上記著說：『不可毀謗你百姓的官長。』」
 
@@ -7735,7 +7748,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 （士兵照命令連夜將保羅解到安提帕底，次日步兵回營樓，讓馬兵護送保羅到該撒利亞，將文書呈給腓力斯；保羅便被看守在希律的衙門裏，等候原告到來，23:31-35。）
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > \textsuperscript{1}Paul, looking intently at the Council, said, "Brethren, I have lived my life with a perfectly good conscience before God up to this day." \textsuperscript{2}The high priest Ananias commanded those standing beside him to strike him on the mouth. \textsuperscript{3}Then Paul said to him, "God is going to strike you, you whitewashed wall! Do you sit to try me according to the Law, and in violation of the Law order me to be struck?" \textsuperscript{4}But the bystanders said, "Do you revile God's high priest?" \textsuperscript{5}And Paul said, "I was not aware, brethren, that he was high priest; for it is written, 'YOU SHALL NOT SPEAK EVIL OF A RULER OF YOUR PEOPLE.'"
 
@@ -8039,7 +8052,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}過了五天，大祭司亞拿尼亞同幾個長老和一個辯士帖土羅下來，向巡撫控告保羅。\textsuperscript{2}保羅被提了來，帖土羅就告他說：「腓力斯大人，我們因你得以大享太平，並且這一國的弊病因著你的先見得以更正了，我們隨時隨地滿心感謝不盡……
 
@@ -8053,7 +8066,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{24}過了幾天，腓力斯和他夫人猶太的女子土西拉一同來到，就叫了保羅來，聽他講論信基督耶穌的道。\textsuperscript{25}保羅講論公義、節制和將來的審判，腓力斯甚覺恐懼，說：「你暫且去吧，等我得便再叫你來。」\textsuperscript{26}腓力斯又指望保羅送他銀錢，所以屢次叫他來，和他談論。\textsuperscript{27}過了兩年，波求·非斯都接了腓力斯的任；腓力斯要討猶太人的喜歡，就留保羅在監裏。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}After five days the high priest Ananias came down with some elders, with an attorney *named* Tertullus, and they brought charges to the governor against Paul. \textsuperscript{2}After *Paul* had been summoned, Tertullus began to accuse him, saying *to the governor,* "Since we have through you attained much peace, and since by your providence reforms are being carried out for this nation,
 
@@ -8314,7 +8327,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}非斯都到了任，過了三天，就從該撒利亞上耶路撒冷去。\textsuperscript{2}祭司長和猶太人的首領向他控告保羅，\textsuperscript{3}又央告他，求他的情將保羅提到耶路撒冷來，他們要在路上埋伏殺害他。
 
@@ -8324,7 +8337,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{23}第二天，亞基帕和百尼基大張威勢而來，同著眾千夫長和城裏的尊貴人進了公廳。非斯都吩咐一聲，就有人將保羅帶進來。\textsuperscript{24}非斯都說：「亞基帕王和在這裏的諸位啊，你們看這人，就是一切猶太人在耶路撒冷和這裏曾向我懇求、呼叫說：『不可容他再活著！』\textsuperscript{25}但我查明他沒有犯甚麼該死的罪，並且他自己上告於皇帝，所以我定意把他解去。\textsuperscript{26}論到這人，我沒有確實的事可以奏明主上。因此，我帶他到你們面前，也特意帶他到你亞基帕王面前，為要在查問之後有所陳奏。\textsuperscript{27}據我看來，解送囚犯不指明他的罪案是不合理的。」
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{8}while Paul said in his own defense, "I have committed no offense either against the Law of the Jews or against the temple or against Caesar." \textsuperscript{10}But Paul said, "I am standing before Caesar's tribunal, where I ought to be tried. I have done no wrong to *the* Jews, as you also very well know. \textsuperscript{11}If, then, I am a wrongdoer and have committed anything worthy of death, I do not refuse to die; but if none of those things is *true* of which these men accuse me, no one can hand me over to them. I appeal to Caesar." \textsuperscript{12}Then when Festus had conferred with his council, he answered, "You have appealed to Caesar, to Caesar you shall go."
 
@@ -8573,7 +8586,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}亞基帕對保羅說：「准你為自己辯明。」於是保羅伸手分訴說：\textsuperscript{2}「亞基帕王啊，猶太人所告我的一切事，今日得在你面前分訴，實為萬幸。\textsuperscript{3}更可幸的是，你熟悉猶太人的規矩和他們的辯論。所以，求你耐心聽我。
 
@@ -8591,7 +8604,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{30}於是，王和巡撫並百尼基與同坐的人都起來，\textsuperscript{31}退到裏面，彼此談論說：「這人並沒有犯甚麼該死、該綁的罪。」\textsuperscript{32}亞基帕又對非斯都說：「這人若沒有上告於該撒，就可以釋放了。」
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{2}"In regard to all the things of which I am accused by the Jews, I consider myself fortunate, King Agrippa, that I am about to make my defense before you today; \textsuperscript{3}especially because you are an expert in all customs and questions among *the* Jews; therefore I beg you to listen to me patiently.
 
@@ -8894,7 +8907,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > \textsuperscript{1}非斯都既然定規了叫我們坐船往意大利去，便將保羅和別的囚犯交給御營裏的一個百夫長，名叫猶流。\textsuperscript{2}有一隻亞大米田的船要沿著亞細亞一帶地方的海邊走，我們就上了那船開行，有馬其頓的帖撒羅尼迦人亞里達古和我們同去。
 
@@ -8910,7 +8923,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{39}到了天亮，他們不認識那地方，但見一個海灣有岸可登，就商議能把船攏進去不能。\textsuperscript{40}於是砍斷纜索，棄錨在海裏，同時也鬆開舵繩，拉起頭篷，順著風向岸行去。\textsuperscript{41}但遇著兩水夾流的地方，就把船擱了淺，船頭膠住不動，船尾被浪的猛力衝壞。\textsuperscript{42}兵丁的意思要把囚犯殺了，恐怕有洑水脫逃的。\textsuperscript{43}但百夫長要救保羅，不准他們任意而行，就吩咐會洑水的跳下水去先上岸，\textsuperscript{44}其餘的人可以用板子或船上的零碎東西上岸。這樣，眾人都得了救，上了岸。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > \textsuperscript{1}When it was decided that we would sail for Italy, they proceeded to deliver Paul and some other prisoners to a centurion of the Augustan cohort named Julius. \textsuperscript{2}And embarking in an Adramyttian ship, which was about to sail to the regions along the coast of Asia, we put out to sea accompanied by Aristarchus, a Macedonian of Thessalonica.
 
@@ -9123,7 +9136,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 - **晚上**：回想今天，我有沒有在壓力來的時候，先講辦法、先講焦慮，卻忘了先講「我屬誰」？
 - **一個行動**：今天向一個正在經歷風暴的人，說一句提醒他「你屬誰」的話，而不只是給他一個解決方案。
 
-**你看見耶穌了嗎？** 本章沒有一句紅字，耶穌卻從未離開這艘船——那位在加利利海上斥責風浪的主，如今藉着一位使者、一句應許，在地中海的黑夜裏托住二百七十六條性命。風暴可以拆掉船，拆不掉「你必定站在該撒面前」這句話；因為說這話的，是海洋、大地、諸天的主。
+**你看見耶穌了嗎？** 本章沒有一句紅字，耶穌卻從未離開這艘船——那位在加利利海上斥責風浪的主，如今藉著一位使者、一句應許，在地中海的黑夜裏托住二百七十六條性命。風暴可以拆掉船，拆不掉「你必定站在該撒面前」這句話；因為說這話的，是海洋、大地、諸天的主。
 
 ---
 
@@ -9197,7 +9210,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > \textsuperscript{1}我們既已得救，才知道那島名叫馬耳他。\textsuperscript{2}土人看待我們有非常的情分，因為當時下雨，天氣又冷，就生火接待我們眾人。\textsuperscript{3}那時，保羅拾起一捆柴，放在火上，有一條毒蛇因為熱了出來，咬住他的手。\textsuperscript{4}土人看見那毒蛇懸在他手上，就彼此說：「這人必是個兇手，雖然從海裏救上來，天理還不容他活著。」\textsuperscript{5}保羅竟把那毒蛇甩在火裏，並沒有受傷。\textsuperscript{6}土人想他必要腫起來，或是忽然仆倒死了。看了多時，見他無害，就轉念說：「他是個神！」
 
@@ -9211,7 +9224,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 > \textsuperscript{30}保羅在自己所租的房子裏住了足足兩年。凡來見他的人，他全都接待，\textsuperscript{31}放膽傳講神國的道，將主耶穌基督的事教導人，並沒有人禁止。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > \textsuperscript{1}When they had been brought safely through, then we found out that the island was called Malta. \textsuperscript{2}The natives showed us extraordinary kindness; for because of the rain that had set in and because of the cold, they kindled a fire and received us all. \textsuperscript{3}But when Paul had gathered a bundle of sticks and laid them on the fire, a viper came out because of the heat and fastened itself on his hand. \textsuperscript{4}When the natives saw the creature hanging from his hand, they *began* saying to one another, "Undoubtedly this man is a murderer, and though he has been saved from the sea, justice has not allowed him to live." \textsuperscript{5}However he shook the creature off into the fire and suffered no harm. \textsuperscript{6}But they were expecting that he was about to swell up or suddenly fall down dead. But after they had waited a long time and had seen nothing unusual happen to him, they changed their minds and *began* to say that he was a god.
 

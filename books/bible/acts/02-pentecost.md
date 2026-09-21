@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二章 · 五旬節——聖靈澆灌 (Pentecost: The Spirit Poured Out)
@@ -39,7 +39,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^五旬節到了，門徒都聚集在一處。^2^忽然，從天上有響聲下來，好像一陣大風吹過，充滿了他們所坐的屋子；^3^又有舌頭如火焰顯現出來，分開落在他們各人頭上。^4^他們就都被聖靈充滿，按著聖靈所賜的口才說起別國的話來。
 
@@ -55,7 +55,7 @@ publisher: 三書精讀出版系統
 
 > ^44^信的人都在一處，凡物公用，^45^並且賣了田產、家業，照各人所需用的分給各人。^46^他們天天同心合意恆切地在殿裏，且在家中擘餅，存著歡喜、誠實的心用飯，^47^讚美神，得眾民的喜愛。主將得救的人天天加給他們。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^When the day of Pentecost had come, they were all together in one place. ^2^And suddenly there came from heaven a noise like a violent rushing wind, and it filled the whole house where they were sitting. ^3^And there appeared to them tongues as of fire distributing themselves, and they rested on each one of them. ^4^And they were all filled with the Holy Spirit and began to speak with other tongues, as the Spirit was giving them utterance.
 

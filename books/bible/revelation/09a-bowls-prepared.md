@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書第六步「傾倒」由此開始——得勝的人先在玻璃海上唱摩西和羔羊的歌，才輪到七位天使拿著盛滿神忿怒的七碗。
+
 在七碗傾倒之前，約翰先看見一幅出人意料的畫面：不是憤怒的天使，而是站在玻璃海上、拿著神的琴、歡唱「摩西的歌和羔羊的歌」的得勝者。審判即將臨到地上，天上卻先響起敬拜的詩歌——這個次序本身就是一篇無聲的講道：神的百姓看見的，永遠先是神自己的榮耀與公義，然後才是審判的執行。羔羊的名字與摩西的名字並列在同一首歌裡，宣告出埃及的拯救與各各他的救贖，本是同一位神、同一個計劃、同一場得勝。
 
 ---
@@ -122,8 +124,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -141,13 +144,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*
 
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，摩西的歌與羔羊的歌，其實是律法與愛在神的經營中完美交融的同一首歌：
+
+> "They sing the song of Moses, which is the song of law, and the song of the Lamb, which is the song of love. They have learned perfectly how law and love mingle and merge in the divine economy."
+>
+> 中譯：他們唱摩西的歌，就是律法的歌，也唱羔羊的歌，就是愛的歌。他們已經完全學會，律法與愛在神的經營治理中如何交融、合而為一。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄15章, https://www.studylight.org/commentaries/eng/gcm/revelation-15.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟把摩西的歌與羔羊的歌並列對照，指出兩者在救贖歷史中的呼應：
+
+> "The song of Moses was sung at the Red Sea. The song of the Lamb is sung at the crystal sea. The song of Moses was a song of triumph over Egypt. The song of the Lamb is a song of triumph over Babylon."
+>
+> 中譯：摩西的歌是在紅海邊唱的，羔羊的歌是在玻璃海上唱的。摩西的歌是戰勝埃及的凱歌，羔羊的歌是戰勝巴比倫的凱歌。（66-55）
+> — John MacArthur, "The Final Wrath of God, Part 2" (gty.org, sermon 66-55), https://www.gty.org/sermons/66-55/the-final-wrath-of-god-part-2
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，在神將要傾倒最後的忿怒之前，祂先讓天上的百姓看見一幅敬拜的畫面；他認為這教導信徒，即使面對最嚴厲的審判，神百姓的第一個反應也應該是敬拜，而不是恐懼。
-
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **羅伯特·蒙斯 (Robert Mounce)**：
 

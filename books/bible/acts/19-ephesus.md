@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十九章 · 以弗所——主的道大大興旺 (Ephesus: The Word Prevailed)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^亞波羅在哥林多的時候，保羅經過了上邊一帶地方，就來到以弗所。在那裏遇見幾個門徒，^2^問他們說：「你們信的時候受了聖靈沒有？」他們回答說：「沒有，也未曾聽見有聖靈賜下來。」^3^保羅說：「這樣，你們受的是甚麼洗呢？」他們說：「是約翰的洗。」^4^保羅說：「約翰所行的是悔改的洗，告訴百姓當信那在他以後要來的，就是耶穌。」^5^他們聽見這話，就奉主耶穌的名受洗。^6^保羅按手在他們頭上，聖靈便降在他們身上，他們就說方言，又說預言。^7^一共約有十二個人。
 
@@ -61,7 +61,7 @@ publisher: 三書精讀出版系統
 
 > ^35^那城裏的書記安撫了眾人，就說：「以弗所人哪，誰不知道以弗所人的城是看守大亞底米的廟和從丟斯那裏落下來的像呢？^36^這事既是駁不倒的，你們就當安靜，不可造次。^37^你們把這些人帶來，他們並沒有偷竊廟中之物，也沒有謗讟我們的女神。^38^若是底米丟和他同行的人有控告人的事，自有放告的日子，也有方伯可以彼此對告。^39^你們若問別的事，就可以照常例聚集斷定。^40^今日的擾亂本是無緣無故，我們難免被查問；論到這樣聚眾，我們也說不出所以然來。」^41^說了這話，便叫眾人散去。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^It happened that while Apollos was at Corinth, Paul passed through the upper country and came to Ephesus, and found some disciples. ^2^He said to them, "Did you receive the Holy Spirit when you believed?" And they *said* to him, "No, we have not even heard whether there is a Holy Spirit." ^3^And he said, "Into what then were you baptized?" And they said, "Into John's baptism." ^4^Paul said, "John baptized with the baptism of repentance, telling the people to believe in Him who was coming after him, that is, in Jesus." ^5^When they heard this, they were baptized in the name of the Lord Jesus. ^6^And when Paul had laid his hands upon them, the Holy Spirit came on them, and they *began* speaking with tongues and prophesying. ^7^There were in all about twelve men.
 

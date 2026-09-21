@@ -150,11 +150,35 @@ publisher: 三書精讀出版系統
 
 摩根指出，神向雅各先後五次顯現，每一次都是為要糾正他、修正他的方法，使他留在神旨意的道路上；第一次的顯現，發生在他用詭詐向父親騙取祝福、面朝陌生之地逃亡的時候，神以極大的溫柔，藉著天梯與天使的異象，在他物質的生活與屬靈的實際之間搭起了一座橋樑（此段為對摩根 *The Analyzed Bible*, Vol. 1「創始之書」一章立場的綜述，未附具體出處頁碼，不加引號）。
 
-摩根多次提醒讀者，注意雅各在28章開頭的處境：孤身一人、一無所有，甚至連枕頭都要拾起地上的石頭來充當——這是一個逃犯在荒野裏隨意躺下過夜的故事，不是尋道者刻意朝聖的故事（詳見下文〈老弟兄查經〉精義一句話）。摩根的洞見在於：異象的地點本來平淡無奇（原名「路斯」），使它成為「伯特利」的，不是那塊土地本身有甚麼特別，而是神選擇在那裏臨到。
+摩根多次提醒讀者，注意雅各在28章開頭的處境：孤身一人、一無所有，甚至連枕頭都要拾起地上的石頭來充當——這是一個逃犯在荒野裏隨意躺下過夜的故事，不是尋道者刻意朝聖的故事（詳見下文〈老弟兄查經〉精義一句話）。摩根的洞見在於：異象的地點本來平淡無奇（原名「路斯」），使它成為「伯特利」的，不是那塊土地本身有甚麼特別，而是神選擇在那裏臨到：
+
+> "What impressed Jacob, however, seems not to have been that part of the vision, but the fact that Jehovah was there in that distant place and that He spoke to him."
+>
+> 中譯：然而，真正打動雅各的，似乎不是異象裏梯子與天使的那部分，而是耶和華竟在那遙遠的地方，並且向他說話這件事實。
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記28章, https://www.studylight.org/commentaries/eng/gcm/genesis-28.html
+
+摩根對雅各次日許願「若……我就必以耶和華為我的神」，也留下一句不留情面的評語：
+
+> "That is faith but on a low level."
+>
+> 中譯：這是信心，但屬於很低的層次。
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記28章, https://www.studylight.org/commentaries/eng/gcm/genesis-28.html
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟指出，希伯來原文「梯子」其實更接近「階梯」；耶穌在約翰福音1:51借用雅各的這個異象，說「你們將要看見天開了，神的使者上去下來在人子身上」，「人子」是出自但以理書7:13-14的彌賽亞稱號，耶穌用這稱號指自己約有八十次。這個生動的異象，原是要向雅各保證：天正關注著他，神必藉著天使的服事持續保守祂的百姓；同樣，耶穌所做的一切，都是照著父的旨意、藉著聖靈的能力、透過天使的服事而成就的（此段為對麥克阿瑟講章"The Disciples' Testimony Concerning Jesus"〔論約翰福音1:38-51，gty.org〕立場的綜述，未附完整原文核校，不加引號）。
+麥克阿瑟指出，希伯來原文「梯子」其實更接近「階梯」——「a staircase would be better than a ladder」；耶穌在約翰福音1:51借用雅各的這個異象，說「你們將要看見天開了，神的使者上去下來在人子身上」：
+
+> "Son of Man is a Messianic title from Daniel 7:13-14, Jesus used it about eighty times to refer to Himself."
+>
+> 中譯：「人子」是出自但以理書7:13-14的彌賽亞稱號，耶穌用這稱號指自己約有八十次。
+> — John MacArthur, *The Disciples' Testimony Concerning Jesus*, gty.org (sermon 43-7)
+
+這個生動的異象，原是要向雅各保證：天正關注著他，神必藉著天使的服事持續保守祂的百姓；同樣：
+
+> "How did Jesus live His life? According to the will of the Father by the Holy Spirit, mediated by angels."
+>
+> 中譯：耶穌是怎樣過祂的一生的？照著父的旨意、藉著聖靈、由天使中保而成就的。
+> — John MacArthur, *The Disciples' Testimony Concerning Jesus*, gty.org (sermon 43-7)
 
 麥克阿瑟特別強調，約翰福音1:51不是後人牽強附會的類比，而是耶穌本人對創世記28章最直接的自我啟示式解經——雅各的夢，在耶穌身上，成了歷史事實。
 
@@ -180,7 +204,7 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：雅各枕著一塊石頭做了一個夢，神卻先於他的察覺就已經在場——耶穌後來一句話把夢的謎底揭開：天地之間唯一的通道，不是人堆起來的塔，也不是任何系統或成就，而是祂自己這位甘願俯就、成為梯子的基督；凡在祂裏面的人，都能像雅各一樣，在最不配的時刻，說出「耶和華真的在這裏」這句驚訝而感恩的告白。
+**精義一句話**：雅各枕著一塊石頭做了一個夢，神卻先於他的察覺就已經在場（見上文〈基督焦點〉）——凡在基督裏的人，都能像雅各一樣，在最不配的時刻，說出「耶和華真的在這裏」這句驚訝而感恩的告白。
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -202,7 +226,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天有沒有哪一刻，我其實正站在神所開的「天門」前，卻像雅各睡前一樣渾然不覺？
 - **一個行動**：找一件實際的物品——一塊石頭、一張便條、手機裏的一則備忘——作為你自己的「立石」，寫下或標記神曾經在你意想不到之處向你顯明祂同在的那一次經歷。把它放在你每天會看見的地方，讓它像雅各的柱子一樣，成為提醒你「耶和華真的在這裏」的紀念。
 
-**你看見耶穌了嗎**：耶穌對拿但業說「你們將要看見天開了，神的使者上去下來在人子身上」（約1:51）——雅各夢中那座連接天地的梯子，就是祂自己；祂是神與人相遇唯一、永久的接觸點。
+**你看見耶穌了嗎**：雅各夢中那座連接天地的梯子（見上文〈基督焦點〉），是神與人相遇唯一、永久的接觸點。
 
 ---
 
@@ -243,4 +267,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

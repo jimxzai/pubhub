@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十八章 · 並沒有人禁止 (Unhindered)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^我們既已得救，才知道那島名叫馬耳他。^2^土人看待我們有非常的情分，因為當時下雨，天氣又冷，就生火接待我們眾人。^3^那時，保羅拾起一捆柴，放在火上，有一條毒蛇因為熱了出來，咬住他的手。^4^土人看見那毒蛇懸在他手上，就彼此說：「這人必是個兇手，雖然從海裏救上來，天理還不容他活著。」^5^保羅竟把那毒蛇甩在火裏，並沒有受傷。^6^土人想他必要腫起來，或是忽然仆倒死了。看了多時，見他無害，就轉念說：「他是個神！」
 
@@ -55,7 +55,7 @@ publisher: 三書精讀出版系統
 
 > ^30^保羅在自己所租的房子裏住了足足兩年。凡來見他的人，他全都接待，^31^放膽傳講神國的道，將主耶穌基督的事教導人，並沒有人禁止。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^When they had been brought safely through, then we found out that the island was called Malta. ^2^The natives showed us extraordinary kindness; for because of the rain that had set in and because of the cold, they kindled a fire and received us all. ^3^But when Paul had gathered a bundle of sticks and laid them on the fire, a viper came out because of the heat and fastened itself on his hand. ^4^When the natives saw the creature hanging from his hand, they *began* saying to one another, "Undoubtedly this man is a murderer, and though he has been saved from the sea, justice has not allowed him to live." ^5^However he shook the creature off into the fire and suffered no harm. ^6^But they were expecting that he was about to swell up or suddenly fall down dead. But after they had waited a long time and had seen nothing unusual happen to him, they changed their minds and *began* to say that he was a god.
 

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十六章 · 馬其頓的呼聲 (The Macedonian Call)
@@ -47,7 +47,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^保羅來到特庇，又到路司得。在那裏有一個門徒，名叫提摩太，是信主之猶太婦人的兒子，他父親卻是希利尼人。^3^保羅要帶他同去，只因那些地方的猶太人都知道他父親是希利尼人，就給他行了割禮。^5^於是眾教會信心越發堅固，人數天天加增。
 
@@ -61,7 +61,7 @@ publisher: 三書精讀出版系統
 
 > ^37^保羅卻說：「我們是羅馬人，並沒有定罪，他們就在眾人面前打了我們，又把我們下在監裏。現在要私下攆我們出去嗎？這是不行的。叫他們自己來領我們出去吧！」
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^6^They passed through the Phrygian and Galatian region, having been forbidden by the Holy Spirit to speak the word in Asia; ^7^and after they came to Mysia, they were trying to go into Bithynia, and the Spirit of Jesus did not permit them; ^8^and passing by Mysia, they came down to Troas. ^9^A vision appeared to Paul in the night: a man of Macedonia was standing and appealing to him, and saying, "Come over to Macedonia and help us." ^10^When he had seen the vision, immediately we sought to go into Macedonia, concluding that God had called us to preach the gospel to them.
 

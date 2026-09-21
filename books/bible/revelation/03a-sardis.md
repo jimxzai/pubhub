@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：「察驗」揭開最令人心驚的一種光景——按名是活的，其實是死的；主的鑑察能看透一間教會的名聲與實際之間的落差。
+
 七封信中，撒狄是唯一一封找不到一句稱讚的信。主耶穌對以弗所說「然而有一件事我要責備你」，對別迦摩、推雅推喇也是先讚後責，但對撒狄，開口就是「其實是死的」。這封最短、最嚴厲的信，卻不是要定這教會的罪就此了結——基督在此自稱「那有神的七靈和七星的」，正是啟示錄1:4、1:16「拿著七星」的同一位。祂沒有放棄這間看似死氣沉沉的教會，反而親自握著它、親自數點它剩下的幾個名字。死亡從不是基督止步的地方；祂正是「那存活的；我曾死過，現在又活了」（1:18）的那一位——連死亡都能被祂扭轉。
 
 ---
@@ -121,8 +123,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -139,6 +142,15 @@ publisher: 三書精讀出版系統
 布靈格在他百篇啟示錄講道集中論到撒狄一信時強調，「按名是活的」正描繪了他那個時代許多徒具形式的教會——外有敬虔的規矩，內無敬虔的實際。他呼籲聽眾不要以參與教會生活為滿足，而要省察自己的行為是否「在我神面前」（3:2）——不是在人前，乃是在神眼中——被算為完全。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:1-6
+
+### 摩根 (G. Campbell Morgan)
+
+摩根將撒狄信放在教會歷史的宗教改革時期，指出這封信雖宣告教會「死了」，卻仍向著剩下的餘民說話：
+
+> "The Church was addressed as 'dead.' Yet there were things remaining which were not dead, but 'ready to die.' The address is largely to that living remnant."
+>
+> 中譯：這教會被稱為「死的」。然而仍有一些東西留存著，不是已死，卻是「將要死的」。這封信主要是對那存活的餘民說的。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄3章, https://www.studylight.org/commentaries/eng/gcm/revelation-3.html
 
 ### 當代釋經
 
@@ -183,6 +195,13 @@ publisher: 三書精讀出版系統
 **衣服未曾污穢的少數人**：即使在死了的教會裡，主仍點名「還有幾名是未曾污穢自己衣服的」——審判以教會為單位，記念卻以名字為單位；主的眼目從不把忠心的少數混在整體裡一併勾銷。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟用北極星作比喻，說明「按名是活的，其實是死的」何等真實：
+
+> "This church had a reputation that it was alive but in fact it was dead. Astronomers tell us that the light from the polar star takes 33 years to reach the earth. What that means is that that star could have been plunged into darkness 30 years ago and its light would still be pouring down to earth. It would be shining in the sky tonight as brightly as if nothing had happened. It could be a dead star, but for over 30 years, we wouldn’t know it was dead."
+>
+> 中譯：這教會擁有「活著」的名聲，但事實上它是死的。天文學家告訴我們，北極星的光要三十三年才能到達地球。這意味著，那顆星可能三十年前就已經熄滅陷入黑暗，它的光卻仍持續照射到地球。今夜它仍會在天空中發亮，彷彿甚麼事都沒發生過。它可能是一顆死星，但長達三十多年，我們卻無從知道它已經死了。（66-11）
+> — John MacArthur, "Sardis: The Dead Church" (gty.org, sermon 66-11), https://www.gty.org/sermons/66-11/sardis-the-dead-church
 
 ### 老弟兄查經：撒狄教會 (Ask Elder Wong)
 

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十五章 · 耶路撒冷大會 (The Jerusalem Council)
@@ -39,7 +39,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^有幾個人從猶太下來，教訓弟兄們說：「你們若不按摩西的規條受割禮，不能得救。」^2^保羅、巴拿巴與他們大大地紛爭辯論，眾門徒就定規，叫保羅、巴拿巴和本會中幾個人為所辯論的，上耶路撒冷去見使徒和長老。
 
@@ -55,7 +55,7 @@ publisher: 三書精讀出版系統
 
 （原文注：古卷有第34節「唯有西拉定意仍住在那裏」，現代標點和合本依所據古卷不列入正文，僅作腳註，故節碼由33跳至35；英文NASB 1995則將此節以方括號印在正文中——"[But it seemed good to Silas to remain there.]"——標示為古卷異文。）
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^Some men came down from Judea and *began* teaching the brethren, "Unless you are circumcised according to the custom of Moses, you cannot be saved."
 

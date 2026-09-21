@@ -55,7 +55,7 @@ publisher: 三書精讀出版系統
 
 #### 創世記17章（割禮之約）
 
-> ^1^亞伯蘭九十九歲的時候，耶和華向他顯現，對他說：「我是全能的神。你要在我面前行走，做完全的人，^2^我要與你立約，使你的後裔極其繁多。」
+> ^1^亞伯蘭九十九歲的時候，耶和華向他顯現，對他說：「我是全能的神。你當在我面前行走，作完全的人，^2^我要與你立約，使你的後裔極其繁多。」
 
 > ^3^亞伯蘭臉伏於地；神對他說：^4^「看哪，我與你立約：你要作多國之父。^5^你的名字不再叫亞伯蘭，要叫亞伯拉罕，因為我已立你作多國之父。」
 
@@ -175,17 +175,21 @@ publisher: 三書精讀出版系統
 
 論到15章的立約異象，摩根寫道：
 
-> "Jehovah is the shield of men of faith in the day of conflict, so that they may rest in Him. Jehovah is the reward of the men of faith in the hour of temptation, so that they may wait for Him."（「我是你的盾牌」，提醒亞伯蘭他勝過列王的秘訣所在；「我……是你極大的賞賜」，提醒他，他拒絕所多瑪王所給的賞賜，其實一無所失。信心之人爭戰的日子，耶和華是他們的盾牌，使他們可以安息在祂裏面；試探臨到的時候，耶和華是他們的賞賜，使他們可以等候祂。）
+> "Jehovah is the shield of men of faith in the day of conflict, so that they may rest in Him. Jehovah is the reward of the men of faith in the hour of temptation, so that they may wait for Him."
+>
+> 中譯：「我是你的盾牌」，提醒亞伯蘭他勝過列王的秘訣所在；「我……是你極大的賞賜」，提醒他，他拒絕所多瑪王所給的賞賜，其實一無所失。信心之人爭戰的日子，耶和華是他們的盾牌，使他們可以安息在祂裏面；試探臨到的時候，耶和華是他們的賞賜，使他們可以等候祂。
 > — G. Campbell Morgan, *The Analyzed Bible*, Vol. 9: *The Book of Genesis* (Fleming H. Revell, 1907), archive.org/details/analyzedbible09morg
 
 摩根一貫留意經文中「神獨自作為」與「人被動安息」交替出現之處，而創世記15章正是這種模式最戲劇化的例子：亞伯蘭不是在儀式的高潮挺身而出、與神並肩走過那條血路，他反倒「沉睡了」，完全被排除在那走過肉塊之間的行動之外——立約不是人努力配合神的表現，而是神在人完全無能為力、甚至無知無覺的狀態下，獨自承擔一切。亞伯蘭的「沉睡」，正是每一個因信稱義之人屬靈光景的寫照：我們的得救不是清醒地與神並肩簽約，而是在我們仍死在過犯罪惡中的時候（弗2:1），神已經獨自把恩典的約定了下來。
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "God knocked Abraham out, and He went through by Himself... the Abrahamic covenant wasn't even made with Abraham; it was made between God and Himself."（神使亞伯拉罕沉睡，自己單獨從那些肉塊中間走過去……這亞伯拉罕之約，甚至不是神與亞伯拉罕立的約，而是神與祂自己立的約。）
+> "God knocked Abraham out, and He went through by Himself... the Abrahamic covenant wasn't even made with Abraham; it was made between God and Himself."
+>
+> 中譯：神使亞伯拉罕沉睡，自己單獨從那些肉塊中間走過去……這亞伯拉罕之約，甚至不是神與亞伯拉罕立的約，而是神與祂自己立的約。
 > — John MacArthur, *The Securities of God's Promise*（希伯來書6:13-20 講道，1972年6月11日，gty.org #1615）
 
-麥克阿瑟指出，創世記15:6不是隨手一句描述性的話，而是整本聖經第一次把「信」與「算為義」這兩個字明確連在一起的地方，是保羅在羅馬書與加拉太書建立因信稱義教義時所倚靠的根基經文——這節經文的年代意義極其關鍵：它發生在亞伯蘭受割禮（創17章）之前，也發生在摩西律法頒佈之前幾百年，證明因信稱義從來不是律法之後才出現的補救方案，而是神從起初就設立的救恩方式，律法與割禮都只是後來加添的記號與監護（加3:17, 24）。他在講道《God's Eternal Covenant of Promise》（加拉太書3:15-18，gty.org #48-16）中，把亞伯拉罕之約的性質說得更精確：「神的約，不像婚約，是單方面的；神所立的約，都是單單出於祂自己……這些約是永遠的，因此不能廢棄……它們在乎神；因此，它們是應許之約……是出於恩典的，因此是人不配得的。」（原文："God's covenants, unlike a marriage covenant, are unilateral; that is, the covenants that God makes are from Him alone... They are eternal, and therefore, irrevocable...they depend on God; and thus, they are covenants of promise... gracious, and therefore, undeserved."）他也指出，這約裏神一再說「我必、我必、我必、我必」——約完全是神單方面的宣告；一旦神把自己捆綁在這約裏，這約就單方面被批准了。這與創世記15章「神獨自從切開的動物中經過」的異象，是同一個真理的兩種表達方式。
+麥克阿瑟指出，創世記15:6不是隨手一句描述性的話，而是整本聖經第一次把「信」與「算為義」這兩個字明確連在一起的地方，是保羅在羅馬書與加拉太書建立因信稱義教義時所倚靠的根基經文——這節經文的年代意義極其關鍵：它發生在亞伯蘭受割禮（創17章）之前，也發生在摩西律法頒佈之前幾百年，證明因信稱義從來不是律法之後才出現的補救方案，而是神從起初就設立的救恩方式，律法與割禮都只是後來加添的記號與監護（加3:17, 24）。他在講道《God's Eternal Covenant of Promise》（加拉太書3:15-18，gty.org #48-16）中，把亞伯拉罕之約的性質說得更精確：「神的約，不像婚約，是單方面的；神所立的約，都是單單出於祂自己……這些約是永遠的，因此不能廢棄……是出於恩典的，因此是人不配得的……它們在乎神；因此，它們是應許之約。」（原文："God's covenants, unlike a marriage covenant, are unilateral; that is, the covenants that God makes are from Him alone... they are eternal, and therefore, irrevocable... [and] gracious, and therefore, undeserved... they depend on God; and thus, they are covenants of promise."）他也指出，這約裏神一再說「我必、我必、我必、我必」——約完全是神單方面的宣告；一旦神把自己捆綁在這約裏，這約就單方面被批准了。這與創世記15章「神獨自從切開的動物中經過」的異象，是同一個真理的兩種表達方式。
 
 ---
 
@@ -217,7 +221,7 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：創世記15章那條沒有亞伯蘭走過的血路，是整本聖經恩典的縮影——神起誓時無人可指著起誓，只能指著自己，獨自走過刀刃之間；這約不是我們掙來的，是神自己擔保、自己在各各他親自成就的。
+**精義一句話**：這是一個亞伯蘭沒有走過、只有神獨自走過的約（見上文〈基督焦點〉）——恩典的定義，從創世記15章起就已經寫定。
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -237,7 +241,7 @@ publisher: 三書精讀出版系統
 
 具體行動：找一件你正暗自靠「表現」來維繫與神關係的事——可能是禱告的頻率、服事的忙碌、讀經的進度——今天具體地停下來，向神說一句：「這約是你立的，不是我掙來的」，然後單單因著信心而非表現，安靜在祂面前十分鐘。
 
-**你看見耶穌了嗎**：創世記15章那道神獨自走過的血路，正是各各他的預表——不是亞伯蘭該死，是那位配得走過刀刃的神子，親自代替毀約者受死；「這杯是用我的血所立的新約」（路22:20），就是創世記15章那個異象最終、也是最真實的成就。
+**你看見耶穌了嗎**：亞伯蘭沉睡時神獨自走過的那條路，各各他有一位神子親自走了第二次——這一次，是祂替毀約的我們走的。
 
 ---
 
@@ -277,4 +281,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

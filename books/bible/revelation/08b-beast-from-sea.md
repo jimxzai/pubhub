@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：龍的第一個爪牙——從海中上來的獸，是政治權勢對基督權柄的仿冒，「爭戰」延伸到地上可見的政權。
+
 龍在12章戰敗之後，並未消失，而是站在海邊的沙上，召喚一個代理者登場——從海中上來的獸，擁有龍所給予的能力、座位和大權柄。這獸模仿基督：牠有「似乎受了死傷，那死傷卻醫好了」的經歷，模仿基督死而復活的樣式，企圖竊取世人的敬拜。但經文清楚指出敬拜的界線——「凡住在地上、名字從創世以來沒有記在被殺之羔羊生命冊上的人，都要拜他」。這句話把整章的焦點重新拉回：真正的問題不是這獸有多可怕，而是你的名字在不在「被殺之羔羊」的生命冊上。全章從頭到尾，都是在襯托那位真正配得敬拜的羔羊。
 
 ---
@@ -120,8 +122,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -144,6 +147,24 @@ publisher: 三書精讀出版系統
 布靈格在他的講章中強調，這獸所代表的，不僅僅是某個特定的歷史人物或政權，更是每個世代都可能出現、要求人以某種形式敬拜世俗權柄、與神爭奪忠誠的體制性力量，教會需要在每個世代中保持警醒。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 13
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，這獸的本質是撒但對基督的仿冒——牠模仿君王的樣式，吸引全地驚訝跟從，最終目的是奪取敬拜：
+
+> "He appears with the signs and symbols of kingship. He is characterized by attractiveness, for the whole earth wonders after him, and is constrained to worship."
+>
+> 中譯：牠帶著王權的記號與象徵出現。牠的特徵是吸引力——全地都因牠而驚訝，並被迫向牠敬拜。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄13章, https://www.studylight.org/commentaries/eng/gcm/revelation-13.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論世人如何從驚嘆這獸，一步步走向敬拜牠，他在講道中說：
+
+> "It isn't enough to him to have acclaim, he wants adoration. ... Fascination turns to worship, acclaim turns to adoration. And in effect, whether they know it or not, ... they are worshiping Satan himself who is behind this demon-possessed individual."
+>
+> 中譯：對牠來說，得著喝采還不夠，牠要的是敬拜……著迷變成了敬拜，喝采變成了崇拜。事實上，無論他們自己知不知道……他們敬拜的其實是那位藏在這個被鬼附的人背後的撒但自己。（sermon 66-46）
+> — John MacArthur, "The Beast Out of the Sea, Part 3" (gty.org, sermon 66-46), https://www.gty.org/sermons/66-46/the-beast-out-of-the-sea-part-3
 
 ### 當代釋經
 

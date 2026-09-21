@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十三章 · 主站在他旁邊 (The Lord Stood by Him)
@@ -46,7 +46,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > ^1^保羅定睛看著公會的人，說：「弟兄們，我在神面前行事為人都是憑著良心，直到今日。」^2^大祭司亞拿尼亞就吩咐旁邊站著的人打他的嘴。^3^保羅對他說：「你這粉飾的牆，神要打你！你坐堂為的是按律法審問我，你竟違背律法，吩咐人打我嗎？」^4^站在旁邊的人說：「你辱罵神的大祭司嗎？」^5^保羅說：「弟兄們，我不曉得他是大祭司。經上記著說：『不可毀謗你百姓的官長。』」
 
@@ -62,7 +62,7 @@ publisher: 三書精讀出版系統
 
 （士兵照命令連夜將保羅解到安提帕底，次日步兵回營樓，讓馬兵護送保羅到該撒利亞，將文書呈給腓力斯；保羅便被看守在希律的衙門裏，等候原告到來，23:31-35。）
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > ^1^Paul, looking intently at the Council, said, "Brethren, I have lived my life with a perfectly good conscience before God up to this day." ^2^The high priest Ananias commanded those standing beside him to strike him on the mouth. ^3^Then Paul said to him, "God is going to strike you, you whitewashed wall! Do you sit to try me according to the Law, and in violation of the Law order me to be struck?" ^4^But the bystanders said, "Do you revile God's high priest?" ^5^And Paul said, "I was not aware, brethren, that he was high priest; for it is written, 'YOU SHALL NOT SPEAK EVIL OF A RULER OF YOUR PEOPLE.'"
 

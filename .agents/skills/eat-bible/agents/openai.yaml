@@ -1,0 +1,4 @@
+interface:
+  display_name: "Eat Bible"
+  short_description: "Improve and verify PubHub Bible-study publications"
+  default_prompt: "Use $eat-bible to improve the assigned PubHub book, preserve its canonical edition, and verify the result with evidence."

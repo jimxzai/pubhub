@@ -169,9 +169,13 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "Esau had no thought for God, he was passionate about earthly things, impulsive, incapable of estimating the true worth of anything that didn't immediately appeal to his fleshly senses... That's why Hebrews 12:16 calls him a profane man. The Greek word 'profane' means 'outside the threshold'... He was a very common, earthy man."
-> （中譯：「以掃心裏沒有神的位置，他只顧眼前地上的事，行事衝動，無法衡量任何不能立刻滿足他肉體感官之物的真正價值……這就是希伯來書12:16稱他為『俗人』的原因。希臘文『俗』（profane）原意是『在門檻之外』……他是一個非常粗俗、屬地的人。」）
+> "That's why Hebrews 12:16 calls him a profane man. The Greek word 'profane' means 'outside the threshold'... He was a very common, earthy man."
+> （中譯：「這就是希伯來書12:16稱他為『俗人』的原因。希臘文『俗』（profane）原意是『在門檻之外』……他是一個非常粗俗、屬地的人。」）
 > — John MacArthur, "The Patriarchs: An Enduring Faith"（釋希伯來書11:20），gty.org/sermons/90-386
+>
+> "It is true Esau had no thought for God, he was passionate about earthly things, impulsive, incapable of estimating the true worth of anything that didn't immediately appeal to his fleshly senses."
+> （中譯：「以掃確實心裏沒有神的位置，他只顧眼前地上的事，行事衝動，無法衡量任何不能立刻滿足他肉體感官之物的真正價值。」）
+> — 同上講章
 
 論及希伯來書12:16-17時，麥克阿瑟一貫強調這段經文不是在講以掃失去了救恩的可能，而是在講一個更普遍的原則：屬靈的產業一旦被輕看、被賣掉，人事後的眼淚未必能換回原本白白可得的機會（詳見上文〈領受要點〉第2點）。
 
@@ -206,7 +210,7 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：以掃是那個不肯捨棄名分的長子，基督卻是那位甘願捨棄一切的長子——雅各的故事說到底，不是雅各配得甚麼，而是恩典把滿了詭詐、本不配的人，接進了那本該屬於長子的產業裏。
+**精義一句話**：雅各的故事說到底，不是雅各配得甚麼，而是恩典把滿了詭詐、本不配的人，接進了那本該屬於長子的產業裏（見上文〈基督焦點〉）。
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -228,7 +232,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我有沒有一刻，用「我快要死了，這對我有甚麼用」的邏輯，把一件看不見卻長遠重要的事，換成了看得見的立即滿足？
 - **一個行動**：今天找出一件你正在用「立刻的方便」取代「長遠的價值」的事——可能是用滑手機取代禱告的時間，可能是用速食的娛樂取代該還的功課或該處理的關係——今天就為這件事做一個具體的、逆著即時滿足文化的選擇，並把這個選擇當作向神表明「我不輕看你所賜的產業」的一個記號。
 
-**你看見耶穌了嗎**：以掃輕看了他的長子名分，一碗紅豆湯就把它賣了；那位真正的長子基督，卻甘願捨棄祂本有的一切榮耀（林後8:9），好使雅各這樣滿了詭詐、本不配得的人，能被算作神家中的長子，承受那本不屬於他的產業。
+**你看見耶穌了嗎**：以掃一碗紅豆湯就賣了長子名分；真正的長子基督，卻甘願捨棄一切，好使滿了詭詐的雅各也能承受那本不屬於他的產業。
 
 ---
 
@@ -270,4 +274,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

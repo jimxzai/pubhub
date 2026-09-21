@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：杯 Cup** \
-> **人子座標**：22:20「這杯是用我血所立的新約」是恩典的杯；22:42「父啊！你若願意，就把這杯撤去」是苦難的杯——同一個字，兩種重量，中間只隔二十幾節經文。22:31-32主為西門的失敗預先代求，22:44「汗珠如大血點滴在地上」是路加醫生獨有的觀察，22:61「主轉過身來看彼得」是全書最溫柔的一個回頭。 \
+> **人子座標**：22:20「這杯是用我血所立的新約」是恩典的杯；22:42「父啊！你若願意，就把這杯撤去」是苦難的杯——同一個字，兩種重量，中間只隔十幾節經文。22:31-32主為西門的失敗預先代求，22:44「汗珠如大血點滴在地上」是路加醫生獨有的觀察，22:61「主轉過身來看彼得」是全書最溫柔的一個回頭。 \
 > （全書骨幹見卷首《「定意」與「失而又得」——全書的骨幹》）
 
 九章五十一節那句「定意」，走到這一章抵達最沉的一夜。逾越節的筵席、客西馬尼的禱告、被捕、受審——完全人子在這一夜裏，先把杯遞給門徒，後求父把杯撤去，末了仍舊喝下那杯。祂不是在最後一刻才決定順服：設立聖餐、預先為彼得代求、汗如血滴地禱告，每一步都是清醒地、甘願地走向那杯。
@@ -56,11 +56,11 @@ publisher: 三書精讀出版系統
 > ^69^\jesus{「從今以後，人子要坐在神權能的右邊。」}^70^他們都說：「這樣，你是神的兒子嗎？」耶穌說：\jesus{「你們所說的是。」}
 
 ### English — NASB
-> ^19-20^\jesus{"This is My body which is given for you; do this in remembrance of Me." And the cup: "This cup which is poured out for you is the new covenant in My blood."}
+> ^19-20^"This is My body which is given for you; do this in remembrance of Me." And the cup: "This cup which is poured out for you is the new covenant in My blood."
 
-> ^31-32^\jesus{"Simon, Simon, behold, Satan has demanded \textit{permission} to sift you like wheat; but I have prayed for you, that your faith may not fail."}
+> ^31-32^"Simon, Simon, behold, Satan has demanded *permission* to sift you like wheat; but I have prayed for you, that your faith may not fail."
 
-> ^42^\jesus{"Father, if You are willing, remove this cup from Me; yet not My will, but Yours be done."}
+> ^42^"Father, if You are willing, remove this cup from Me; yet not My will, but Yours be done."
 
 > ^44^And being in agony He was praying very fervently; and His sweat became like drops of blood, falling down upon the ground.
 
@@ -87,7 +87,7 @@ publisher: 三書精讀出版系統
 | τὸ ποτήριον | to potērion | 杯 | 22:20, 42 | 同一個字，一次是恩典的杯（新約），一次是苦難的杯（受死）——舊約先知常用「杯」指神忿怒的審判（賽51:17；耶25:15） |
 | ἀνάμνησις | anamnēsis | 記念 | 22:19 | 不只是心理上的回想，是一種使過去的救贖行動在當下重新臨在、重新生效的敬拜行動 |
 | σινιάσαι | siniasai | 篩 | 22:31 | 篩麥子的動作，分開麥子與糠秕；撒但要「篩」門徒，是要顯露、動搖他們的信心 |
-| ἐδεήθην | edeēthēn | 我已祈求 | 22:32 | 過去式——主的代求發生在彼得跌倒**之前**，不是之後才補救 |
+| δεήθην | edeēthēn | 我已祈求 | 22:32 | 過去式——主的代求發生在彼得跌倒**之前**，不是之後才補救 |
 | ἀγωνία | agōnia | 極其傷痛、劇烈掙扎 | 22:44 | 原是競技場上生死相搏的用詞；醫生路加獨用此字形容主在客西馬尼裏裏外外的爭戰 |
 | ἐμβλέψας | emblepsas | 轉身看 | 22:61 | 直視、定睛地看——不是一瞥，是完全的注視 |
 

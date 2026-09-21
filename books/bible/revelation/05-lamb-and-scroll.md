@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：「掌權」的核心一幕——寶座本身還不足以展開審判，直到配得展開書卷的羔羊出現；聽見的是獅子，看見的卻是被殺的羔羊，這是全書「羔羊骨幹」的起點。
+
 第4章讓我們看見寶座，第5章讓我們看見寶座旁邊那道無人能解的難題：一卷用七印封嚴的書卷，天上地下沒有一位配展開、配觀看。約翰因此「大哭」——這哭聲道出了整個受造界面對神救贖計劃時的絕望：若沒有人配打開這書卷，神永恆的計劃將如何成就？然而，就在這絕望的頂點，長老宣告：「猶大支派中的獅子……他已得勝」。可是當約翰轉頭要看那頭得勝的獅子時，他看見的卻是「羔羊站立，像是被殺過的」——這是啟示錄最震撼的一次「聽見與看見」的反轉：他聽見的是獅子，看見的卻是羔羊。得勝的方式，不是憑武力征服，而是憑捨命流血。這正是整卷啟示錄基督論的核心：那配展開歷史書卷的君王，是一隻被殺過的羔羊。
 
 ---
@@ -124,8 +126,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -142,6 +145,15 @@ publisher: 三書精讀出版系統
 布靈格在講論第5章時指出，約翰「聽見獅子、看見羔羊」的落差，正是要教導教會：世人所期待的得勝方式（權柄、武力、征服），與神藉基督成就得勝的方式（捨命、流血、受死），常常大相逕庭；唯有謙卑接受十字架的道路，才能真正認識這位配展開歷史書卷的主。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 5
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，第5章所啟示的，是神將地上執政的權柄交託給基督——這與第4章所揭示「坐寶座者」的權柄同等榮耀：
+
+> "In this chapter we have John's vision of the heavenly arrangement for earthly administration. The program lies in the hand of the One who sits on the throne. It is written, but sealed, and none can know it."
+>
+> 中譯：這一章記載約翰所看見天上為地上治理所作的安排的異象。這計劃掌握在那坐寶座者的手中。它已被寫成，卻被封住，無人能知道其中的內容。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄5章, https://www.studylight.org/commentaries/eng/gcm/revelation-5.html
 
 ### 當代釋經
 
@@ -186,6 +198,13 @@ publisher: 三書精讀出版系統
 **「新歌」的救贖範圍**：5:9「從各族、各方、各民、各國中買了人來」——他指出這節推翻一切狹隘的救恩觀：寶座前的敬拜群體從起初就是萬族的，宣教不是教會的附加項目，是羔羊配得敬拜的理由之一。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟解釋書卷的性質，正是全宇宙的地契，唯獨羔羊有權柄取回：
+
+> "In the upturned palm of God we see this little scroll. This is the title deed to the universe. God has it. It is rightfully His."
+>
+> 中譯：在神那攤開向上的手掌中，我們看見這卷小書卷。這是全宇宙的地契。神擁有它。它理所當然屬於祂。（66-21）
+> — John MacArthur, "A Vision of the Lamb, Part 2" (gty.org, sermon 66-21), https://www.gty.org/sermons/66-21/a-vision-of-the-lamb-part-2
 
 ### 老弟兄查經：配得展開書卷的羔羊 (Ask Elder Wong)
 

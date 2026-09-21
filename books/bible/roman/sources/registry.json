@@ -1,0 +1,39 @@
+{
+  "policy": "A source record is not a permission record. Rights must be cleared separately in RIGHTS.md and the private rights archive.",
+  "sources": [
+    {
+      "id": "bible-cuv",
+      "label": "和合本 (CUV)",
+      "urls": [
+        "https://www.ai-eden.com/bible/romans/{chapter}?t=CUV,NASB&cols=2",
+        "https://cnbible.com/cuvmpt/romans/{chapter}.htm"
+      ],
+      "status": "needs-editorial-and-rights-verification"
+    },
+    {
+      "id": "bible-nasb-1995",
+      "label": "New American Standard Bible (NASB 1995)",
+      "urls": [
+        "https://biblehub.com/nasb/romans/{chapter}.htm"
+      ],
+      "status": "needs-editorial-and-rights-verification"
+    },
+    {
+      "id": "macarthur-gty",
+      "label": "John MacArthur / Grace to You",
+      "urls": [
+        "https://www.gty.org/"
+      ],
+      "status": "editorial-source-record-required"
+    },
+    {
+      "id": "historical-public-domain",
+      "label": "Historical translations and public-domain texts",
+      "urls": [
+        "https://www.newadvent.org/",
+        "https://www.ccel.org/"
+      ],
+      "status": "edition-and-rights-check-required"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第四章 · 除他以外，別無拯救 (No Other Name)
@@ -51,7 +51,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^使徒對百姓說話的時候，祭司們和守殿官並撒都該人忽然來了，^2^因他們教訓百姓，本著耶穌傳說死人復活，就很煩惱，^3^於是下手拿住他們。因為天已經晚了，就把他們押到第二天。^4^但聽道之人有許多信的，男丁數目約到五千。
 
@@ -65,7 +65,7 @@ publisher: 三書精讀出版系統
 
 > ^32^那許多信的人都是一心一意的，沒有一人說他的東西有一樣是自己的，都是大家公用。……^34^內中也沒有一個缺乏的，因為人人將田產房屋都賣了，把所賣的價銀拿來，……^36^有一個利未人，生在居比路，名叫約瑟，使徒稱他為巴拿巴（「巴拿巴」翻出來就是「勸慰子」）。^37^他有田地，也賣了，把價銀拿來放在使徒腳前。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^10^let it be known to all of you and to all the people of Israel, that by the name of Jesus Christ the Nazarene, whom you crucified, whom God raised from the dead—by this *name* this man stands here before you in good health. ^11^He is the STONE WHICH WAS REJECTED by you, THE BUILDERS, *but* WHICH BECAME THE CHIEF CORNER *stone.* ^12^And there is salvation in no one else; for there is no other name under heaven that has been given among men by which we must be saved."
 

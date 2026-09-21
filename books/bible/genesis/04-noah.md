@@ -172,19 +172,37 @@ publisher: 三書精讀出版系統
 
 摩根一貫的讀經法，也把焦點從「事件」移到「神的性情」上。彼得前書3:20那句容易被忽略的話——「就是那從前在挪亞預備方舟、神容忍等待的時候，不信從的人」——若用摩根式的眼光看，方舟預備的一百二十年不是神拖延審判，而是神的忍耐親自向那一代人傳道：挪亞造船的每一天，都是一次無聲的呼喚。彼得後書3:9把這個原則說得更明白：「主……不願一人沉淪，乃願人人都悔改。」挪亞方舟預備的漫長歲月，正是這節經文最早的一次示範。
 
+論到挪亞出方舟後的第一個動作，摩根在另一部著作裏這樣寫：
+
+> "The first act of Noah as he found himself delivered from judgment and established in possession was a reaction of response and in itself was most significant. His first look was Godward, and his first act the erection of an altar and the offering of sacrifices."
+>
+> 中譯：挪亞發現自己脫離審判、重新得地為業之後，第一個動作是一次回應，這動作本身極具意義——他第一眼望向的是神，第一個行動是築一座壇、獻上祭物。
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記8章, https://www.studylight.org/commentaries/eng/gcm/genesis-8.html
+
 ### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，「神記念挪亞」（8:1）不是說神忘記了然後想起來——「記念」（*zakar*）在希伯來文意味着神採取行動實現祂的應許，神在審判中沒有忘記祂的子民（整理自麥克阿瑟一貫的解經立場，非逐字引句，讀者可自行核對 *The MacArthur Study Bible* 原文）。
 
-麥克阿瑟在gty.org講道〈Noah's Ark of Faith〉中，針對洪水的普世性明確指出：「about seventy-five references in these four chapters that make it impossible to conclude anything other than that this was global」（這四章裏大約有七十五處經文線索，使人不可能得出任何結論，除了這是一場全球性的洪水）。
+麥克阿瑟在gty.org講道〈Noah's Ark of Faith〉中，針對洪水的普世性明確指出：
 
-> — John MacArthur, *Noah's Ark of Faith*, https://www.gty.org/library/sermons-library/90-257/noahs-ark-of-faith
+> "...about seventy-five references in these four chapters that make it impossible to conclude anything other than that this was global."
+>
+> 中譯：這四章裏大約有七十五處經文線索，使人不可能得出任何結論，除了這是一場全球性的洪水。
+> — John MacArthur, *Noah's Ark of Faith*, gty.org (sermon 90-257)
 
 彼得後書3:5-7把挪亞的洪水與末後的審判直接連在一起：「當時的世界被水淹沒就消滅了．但現在的天地……存留到火燒的日子」。麥克阿瑟一貫強調，這不是把洪水當作寓言，而是把它當作歷史裏已經發生過一次的「末日模型」——神過去用水審判過一次全地，將來要用火再審判一次；洪水的普世性、突然性、不可逃避性，正是末日審判的預告。正如挪亞時代的人「照常吃喝嫁娶」直到洪水臨到（太24:38-39耶穌自己如此類比），今天嗤笑審判言論的世代，正重演挪亞洪水前那種「彷彿無事」的盲目自信。
 
-論到創世記9:6執劍的權柄，麥克阿瑟指出這是一條至今仍然有效、不需要人先信主才適用的普世秩序——「這是給全人類的普世祝福，不限於愛神的人」（"These are universal blessings for all mankind. They are not limited to the people who love God."）：
+論到創世記9:6執劍的權柄，麥克阿瑟指出這是一條至今仍然有效、不需要人先信主才適用的普世秩序：
 
-> — John MacArthur, *Life and Death in the New World*, https://www.gty.org/library/sermons-library/90-262/life-and-death-in-the-new-world；另參 *Who Is a Murderer?*, https://www.gty.org/sermons/2214/who-is-a-murderer：「Genesis 9:6 instituted capital punishment as a penalty for murder. And the reason is given in the same verse, 'For in the image of God made he man.'」（創世記9:6設立了死刑作為殺人的刑罰，理由就在同一節經文裏：『因為神造人是照自己的形像造的。』）
+> "These are universal blessings for all mankind. They are not limited to the people who love God."
+>
+> 中譯：這是給全人類的普世祝福，不限於愛神的人。
+> — John MacArthur, *Life and Death in the New World*, gty.org (sermon 90-262)
+
+> "Genesis 9:6 instituted capital punishment as a penalty for murder. And the reason is given in the same verse, 'For in the image of God made he man.'"
+>
+> 中譯：創世記9:6設立了死刑作為殺人的刑罰，理由就在同一節經文裏：「因為神造人是照自己的形像造的。」
+> — John MacArthur, *Who Is a Murderer?*, gty.org (sermon 2214)
 
 ---
 
@@ -213,7 +231,7 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：救恩的門不是挪亞自己插上的，是耶和華親手關上的——洪水退去、彩虹升起、神憑自己起誓立約，那一幕，正是神有一天要親手在十字架上為凡投靠祂的人成就救恩的預演。
+**精義一句話**：救恩的門是神關的，不是人守的（見上文〈基督焦點〉）；洪水退去之後，神憑自己起誓立約，不憑人的功勞維繫。
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -235,7 +253,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我的平安，是建立在「我感覺安全」，還是建立在「神已經做成的事」？
 - **一個行動**：寫下一件神已經吩咐、但你因為「看不到立即證據」而遲遲沒有動手去做的事，今天為它做出第一個具體的動作（哪怕只是釘下方舟的第一塊木板），而不是再等一個「更清楚的徵兆」。
 
-**你看見耶穌了嗎**：挪亞一次都沒有見過各各他，但耶和華親手為他關上方舟門的那一刻，早已預演了神有一天要親手在十字架上為凡投靠祂的人成就的救恩——洪水退去、彩虹升起，正是各各他的預告（彼前3:21）。
+**你看見耶穌了嗎**：挪亞一次都沒有見過各各他，但那扇神親手關上的門，早已預告了各各他（彼前3:21）。
 
 ---
 
@@ -276,4 +294,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

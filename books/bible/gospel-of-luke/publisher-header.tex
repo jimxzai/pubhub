@@ -1,0 +1,15 @@
+% Shared production header for the Luke study edition.
+% Keep visual semantics here so Markdown remains portable to HTML and EPUB.
+\usepackage{xcolor}
+\definecolor{ScriptureGold}{HTML}{8C6A2F}
+\usepackage{xeCJK}
+\setCJKmainfont{STSong}
+\setCJKsansfont{Heiti TC}
+\newcommand{\jesus}[1]{\textbf{\textcolor{ScriptureGold}{#1}}}
+\usepackage{microtype}
+\usepackage{enumitem}
+\setlist{nosep}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.55em}
+\widowpenalties 1 10000
+\clubpenalties 1 10000

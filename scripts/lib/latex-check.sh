@@ -44,8 +44,25 @@ latex_build_report() {
     fi
 
     local missing overfull
-    missing=$(grep -c "Missing character" "$log")
-    overfull=$(grep -c "Overfull \\\\hbox" "$log")
+    # grep returns 1 when there are zero matches.  The build scripts run with
+    # errexit enabled, so make the zero-warning case explicit instead of
+    # aborting after a successful PDF build.
+    missing=$(grep -c "Missing character" "$log" || true)
+    overfull=$(grep -c "Overfull \\\\hbox" "$log" || true)
+
+    # XeLaTeX can leave a partial PDF behind while pandoc still returns zero.
+    # Treat fatal TeX output as a failed build instead of promoting that file.
+    if grep -E -q "^(Runaway argument|! (LaTeX Error|TeX capacity exceeded|Emergency stop)|Error producing PDF)" "$log"; then
+        echo "  fatal TeX/build error detected; refusing to promote the PDF"
+        grep -E "^(Runaway argument|! (LaTeX Error|TeX capacity exceeded|Emergency stop)|Error producing PDF)" "$log" | tail -10
+        return 1
+    fi
+    # xdvipdfmx may wrap the temporary path across two log lines, so check
+    # the stable prefix rather than the full filename.
+    if ! grep -q "Output written on" "$log"; then
+        echo "  no completed XeLaTeX output detected; refusing to promote the PDF"
+        return 1
+    fi
 
     # These label strings deliberately avoid the literal phrases "Missing
     # character" and "Overfull \hbox": driver.sh greps this output by count,
@@ -57,9 +74,9 @@ latex_build_report() {
     # defect; an overfull box means content is printing outside its column or
     # off the text block. Neither is visible in the exit code — xelatex can
     # emit a PDF after a recoverable error and still exit 0.
-    grep "Missing character" "$log" | head -5
-    grep "Overfull \\\\hbox" "$log" | head -10
-    grep -E '^! (LaTeX Error|Undefined control sequence|Package .* Error)' "$log" | head -5
+    grep "Missing character" "$log" | head -5 || true
+    grep "Overfull \\\\hbox" "$log" | head -10 || true
+    grep -E '^! (LaTeX Error|Undefined control sequence|Package .* Error)' "$log" | head -5 || true
 
     return 0
 }

@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：和好 Katallagē** \
-> **全書坐標**：卷二「因信稱義」的收束。論證從法庭走進家中——稱義的判決（3-4章）帶出與神相和的關係（5:1-11）；末段再以亞當與基督兩個元首的對比（5:12-21），把個人的稱義擴大成全人類的兩條線，並為6章「與基督聯合」開路。 \
+> **全書座標**：卷二「因信稱義」的收束。論證從法庭走進家中——稱義的判決（3-4章）帶出與神相和的關係（5:1-11）；末段再以亞當與基督兩個元首的對比（5:12-21），把個人的稱義擴大成全人類的兩條線，並為6章「與基督聯合」開路。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 3-4章證明了「因信稱義」的道理，5章回答的是「稱了義又怎樣？」——答案不是一種感覺，而是一個人：耶穌基督。我們「藉著我們的主耶穌基督」得與神相和（5:1）、「藉著他」得進入恩典（5:2）、「藉著他」得免神的忿怒（5:9）、「藉著他的生」得救（5:10）。從12節起，保羅把鏡頭拉到最遠——不再只看某一個人的信心旅程，而看整個人類的兩個元首：亞當與基督。凡在亞當裏的，承受死的轄制；凡在基督裏的，承受恩典的掌權。這一章從頭到尾都在說一件事：一切都「藉著他」，一切都「在他裏面」。
@@ -55,35 +55,35 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 ai-eden.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^我們既因信稱義，就藉著我們的主耶穌基督**得與神相和**。^2^我們又藉著他，因信得進入現在所站的這恩典中，並且歡歡喜喜盼望神的榮耀。
+> <sup>1</sup>我們既因信稱義，就藉著我們的主耶穌基督**得與神相和**。<sup>2</sup>我們又藉著他，因信得進入現在所站的這恩典中，並且歡歡喜喜盼望神的榮耀。
 
-> ^3^不但如此，就是在患難中也是歡歡喜喜的；因為知道患難生忍耐，^4^忍耐生老練，老練生盼望；^5^盼望不至於羞恥，因為所賜給我們的聖靈將神的愛澆灌在我們心裏。
+> <sup>3</sup>不但如此，就是在患難中也是歡歡喜喜的；因為知道患難生忍耐，<sup>4</sup>忍耐生老練，老練生盼望；<sup>5</sup>盼望不至於羞恥，因為所賜給我們的聖靈將神的愛澆灌在我們心裏。
 
-> ^6^因我們還軟弱的時候，基督就按所定的日期為罪人死。^7^為義人死，是少有的；為仁人死、或者有敢做的。**^8^惟有基督在我們還作罪人的時候為我們死，神的愛就在此向我們顯明了。**
+> <sup>6</sup>因我們還軟弱的時候，基督就按所定的日期為罪人死。<sup>7</sup>為義人死，是少有的；為仁人死、或者有敢做的。**<sup>8</sup>惟有基督在我們還作罪人的時候為我們死，神的愛就在此向我們顯明了。**
 
-> ^9^現在我們既靠著他的血稱義，就更要藉著他免去神的忿怒。^10^因為我們作仇敵的時候，且藉著神兒子的死，得與神和好；既已和好，就更要因他的生得救了。^11^不但如此，我們既藉著我主耶穌基督得與神和好，也就藉著他以神為樂。
+> <sup>9</sup>現在我們既靠著他的血稱義，就更要藉著他免去神的忿怒。<sup>10</sup>因為我們作仇敵的時候，且藉著神兒子的死，得與神和好；既已和好，就更要因他的生得救了。<sup>11</sup>不但如此，我們既藉著我主耶穌基督得與神和好，也就藉著他以神為樂。
 
-> **^12^這就如罪是從一人入了世界，死又是從罪來的；於是死就臨到眾人，因為眾人都犯了罪。^13^沒有律法之先，罪已經在世上；但沒有律法，罪也不算罪。^14^然而從亞當到摩西，死就作了王，連那些不與亞當犯一樣罪過的，也在他的權下。亞當乃是那以後要來之人的豫像。**
+> **<sup>12</sup>這就如罪是從一人入了世界，死又是從罪來的；於是死就臨到眾人，因為眾人都犯了罪。<sup>13</sup>沒有律法之先，罪已經在世上；但沒有律法，罪也不算罪。<sup>14</sup>然而從亞當到摩西，死就作了王，連那些不與亞當犯一樣罪過的，也在他的權下。亞當乃是那以後要來之人的豫像。**
 
-> **^15^只是過犯不如恩賜，若因一人的過犯，眾人都死了，何況神的恩典，與那因耶穌基督一人恩典中的賞賜，豈不更加倍的臨到眾人麼？^16^因一人犯罪就定罪，也不如恩賜，原來審判是由一人而定罪，恩賜乃是由許多過犯而稱義。^17^若因一人的過犯，死就因這一人作了王，何況那些受洪恩又蒙所賜之義的，豈不更要因耶穌基督一人在生命中作王麼？**
+> **<sup>15</sup>只是過犯不如恩賜，若因一人的過犯，眾人都死了，何況神的恩典，與那因耶穌基督一人恩典中的賞賜，豈不更加倍的臨到眾人麼？<sup>16</sup>因一人犯罪就定罪，也不如恩賜，原來審判是由一人而定罪，恩賜乃是由許多過犯而稱義。<sup>17</sup>若因一人的過犯，死就因這一人作了王，何況那些受洪恩又蒙所賜之義的，豈不更要因耶穌基督一人在生命中作王麼？**
 
-> **^18^如此說來，因一次的過犯，眾人都被定罪；照樣，因一次的義行，眾人也就被稱義得生命了。^19^因一人的悖逆，眾人成為罪人；照樣，因一人的順從，眾人也成為義了。^20^律法本是外添的，叫過犯顯多；只是罪在那裏顯多，恩典就更顯多了。^21^就如罪作王叫人死；照樣，恩典也藉著義作王，叫人因我們的主耶穌基督得永生。**
+> **<sup>18</sup>如此說來，因一次的過犯，眾人都被定罪；照樣，因一次的義行，眾人也就被稱義得生命了。<sup>19</sup>因一人的悖逆，眾人成為罪人；照樣，因一人的順從，眾人也成為義了。<sup>20</sup>律法本是外添的，叫過犯顯多；只是罪在那裏顯多，恩典就更顯多了。<sup>21</sup>就如罪作王叫人死；照樣，恩典也藉著義作王，叫人因我們的主耶穌基督得永生。**
 
-### English — NASB
+### English — NASB 1995
 
-> **^1^Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,** ^2^through whom also we have obtained our introduction by faith into this grace in which we stand; and we exult in hope of the glory of God.
+> **<sup>1</sup>Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,** <sup>2</sup>through whom also we have obtained our introduction by faith into this grace in which we stand; and we exult in hope of the glory of God.
 
-> ^3^And not only this, but we also exult in our tribulations, knowing that tribulation brings about perseverance; ^4^and perseverance, proven character; and proven character, hope; ^5^and hope does not disappoint, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.
+> <sup>3</sup>And not only this, but we also exult in our tribulations, knowing that tribulation brings about perseverance; <sup>4</sup>and perseverance, proven character; and proven character, hope; <sup>5</sup>and hope does not disappoint, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.
 
-> ^6^For while we were still helpless, at the right time Christ died for the ungodly. ^7^For one will hardly die for a righteous man; though perhaps for the good man someone would dare even to die. **^8^But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.**
+> <sup>6</sup>For while we were still helpless, at the right time Christ died for the ungodly. <sup>7</sup>For one will hardly die for a righteous man; though perhaps for the good man someone would dare even to die. **<sup>8</sup>But God demonstrates His own love toward us, in that while we were yet sinners, Christ died for us.**
 
-> ^9^Much more then, having now been justified by His blood, we shall be saved from the wrath *of God* through Him. ^10^For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life. ^11^And not only this, but we also exult in God through our Lord Jesus Christ, through whom we have now received the reconciliation.
+> <sup>9</sup>Much more then, having now been justified by His blood, we shall be saved from the wrath *of God* through Him. <sup>10</sup>For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, we shall be saved by His life. <sup>11</sup>And not only this, but we also exult in God through our Lord Jesus Christ, through whom we have now received the reconciliation.
 
-> **^12^Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned— ^13^for until the Law sin was in the world, but sin is not imputed when there is no law. ^14^Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the offense of Adam, who is a type of Him who was to come.**
+> **<sup>12</sup>Therefore, just as through one man sin entered into the world, and death through sin, and so death spread to all men, because all sinned— <sup>13</sup>for until the Law sin was in the world, but sin is not imputed when there is no law. <sup>14</sup>Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the offense of Adam, who is a type of Him who was to come.**
 
-> **^15^But the free gift is not like the transgression. For if by the transgression of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, abound to the many. ^16^The gift is not like *that which came* through the one who sinned; for on the one hand the judgment *arose* from one *transgression* resulting in condemnation, but on the other hand the free gift *arose* from many transgressions resulting in justification. ^17^For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.**
+> **<sup>15</sup>But the free gift is not like the transgression. For if by the transgression of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, abound to the many. <sup>16</sup>The gift is not like *that which came* through the one who sinned; for on the one hand the judgment *arose* from one *transgression* resulting in condemnation, but on the other hand the free gift *arose* from many transgressions resulting in justification. <sup>17</sup>For if by the transgression of the one, death reigned through the one, much more those who receive the abundance of grace and of the gift of righteousness will reign in life through the One, Jesus Christ.**
 
-> **^18^So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men. ^19^For as through the one man's disobedience the many were made sinners, even so through the obedience of the One the many will be made righteous. ^20^The Law came in so that the transgression would increase; but where sin increased, grace abounded all the more, ^21^so that, as sin reigned in death, even so grace would reign through righteousness to eternal life through Jesus Christ our Lord.**
+> **<sup>18</sup>So then as through one transgression there resulted condemnation to all men, even so through one act of righteousness there resulted justification of life to all men. <sup>19</sup>For as through the one man's disobedience the many were made sinners, even so through the obedience of the One the many will be made righteous. <sup>20</sup>The Law came in so that the transgression would increase; but where sin increased, grace abounded all the more, <sup>21</sup>so that, as sin reigned in death, even so grace would reign through righteousness to eternal life through Jesus Christ our Lord.**
 
 ---
 

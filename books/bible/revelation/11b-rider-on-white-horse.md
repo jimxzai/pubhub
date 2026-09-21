@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：白馬騎士出征——「成全」這一步從婚筵的喜樂轉向得勝的爭戰，萬王之王、萬主之主親自了結地上最後的悖逆。
+
 天開了，一匹白馬出現——這不再是隱藏在異象象徵背後的基督，而是全書中最直接、最不容置疑的祂：「誠信真實」、「神之道」、「萬王之王，萬主之主」。祂眼中如火焰，衣服濺了血，口中出利劍，祂來不是為了再次受苦，而是為了審判與爭戰，終結一切敵擋神的權勢。這是啟示錄1章榮耀基督異象的完全展開——那位曾在1:13-16向約翰顯現、令他仆倒如死人的基督，如今公開地、決定性地介入歷史，帶著祂的軍隊，終結這場貫穿全書的宇宙爭戰。
 
 ---
@@ -119,8 +121,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -144,13 +147,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 19
 
+### 摩根 (G. Campbell Morgan)
+
+摩根形容這一刻是天與地相接、得勝完全歸於天上的時刻：
+
+> "It is the hour when heaven is touching earth, and the victory is with heaven."
+>
+> 中譯：這是天觸及地的時刻，得勝完全歸於天上。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄19章, https://www.studylight.org/commentaries/eng/gcm/revelation-19.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟提醒讀者，這一切意象雖是象徵，但主再來的事實本身絕非象徵：
+
+> "The horses are symbolic. The sword out of His mouth is symbolic. The rod of iron is symbolic. The crowns are symbolic. But the coming is reality."
+>
+> 中譯：馬是象徵性的。口中的劍是象徵性的。鐵杖是象徵性的。冠冕是象徵性的。但這降臨本身，是真實的。（66-71）
+> — John MacArthur, "The Glorious Return of Jesus Christ, Part 2" (gty.org, sermon 66-71), https://www.gty.org/sermons/66-71/the-glorious-return-of-jesus-christ-part-2
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這是整本啟示錄中，基督形像最直接、最不帶隱喻遮蔽的一次顯現——祂不再是燈臺中的人子、不再是寶座前的羔羊，而是騎著白馬、親自率領天軍降臨、終結一切悖逆的得勝之王。
-
-> — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 

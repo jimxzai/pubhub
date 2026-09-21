@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：「察驗」行進到別迦摩——教會外在的忠心（持守主名、不否認信仰）與內在的容讓（巴蘭的教訓）並存，主的鑑察比人的自我評價更深入。
+
 主稱別迦摩是「撒但座位之所在」的城市——這座亞細亞省的宗教與政治中心，滿佈異教神廟與皇帝崇拜的祭壇，教會就活在這座城市的正中心。主稱讚她「還堅守我的名，沒有棄絕我的道」，甚至有弟兄安提帕在此殉道。但緊接著，主卻要責備她——不是因為外在的逼迫使她妥協，而是因為她在教會內部容讓了巴蘭與尼哥拉黨的教訓。基督在此顯現為「那有兩刃利劍的」，這把劍不是用來對付外面的仇敵，而是用來對付教會內部容忍罪惡的光景。
 
 ---
@@ -121,8 +123,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -140,15 +143,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1561 English translation)
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根形容別迦摩教會所處的環境，是撒但的權勢直接坐落在羅馬帝國的中心地帶：
+
+> "The letter to the Church at Pergamum covers the period during which the Church passed under the blighting patronage of an earthly power. Satan, the prince of the world, had his throne at the heart of the Roman Empire, and there the Church dwelt. There were those faithful souls who held fast the Name, but the church received and tolerated evil things."
+>
+> 中譯：給別迦摩教會的信涵蓋的是教會落入世俗權勢摧折性庇護之下的時期。撒但，這世界的王，把牠的座位設在羅馬帝國的心臟地帶，教會就住在那裡。當中有忠心持守主名的靈魂，但教會卻接納並容忍了邪惡的事。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄2章, https://www.studylight.org/commentaries/eng/gcm/revelation-2.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，別迦摩教會證明了一件事：教會可以在外部逼迫下勇敢不屈，卻在內部紀律上軟弱無力——抵擋外面的獅子相對容易辨認，識破裡面披著羊皮的狼卻需要更深的儆醒。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到容忍錯謬教訓的危險，麥克阿瑟直言：
+
+> "You can never suppress error by compromising with it."
+>
+> 中譯：你永遠不能靠向錯謬妥協來壓制錯謬。（66-8）
+> — John MacArthur, *Pergamos: The Church at Satan's Throne* (gty.org, sermon 66-8), https://www.gty.org/sermons/66-8/pergamos-the-church-at-satans-throne
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄註釋（BECNT）中指出，巴蘭的策略之所以奏效，正是因為它不要求人公開背叛信仰，只要求人在細節上「融入」——這正是別迦摩教會，以及每個世代的教會，最容易失守的防線。
 

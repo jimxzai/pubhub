@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書七步的第一步「顯現」由此開始——約翰還沒有看見任何異象，先聽見的是主自己的問安與宣告；下一段（1:9-20）才展開祂榮耀人子的形像。
+
 啟示錄不是以恐怖的異象開篇，而是以一個名字開篇——「耶穌基督的啟示」。整卷書卷首七節，一連串頭銜與稱號密集出現：忠信的見證者、從死人中復活的首生者、世上君王的元首、愛我們用血釋放我們的那位、使我們成為國度祭司的那位、駕雲降臨眾目要看見的那位、阿拉法俄梅戛、今在昔在以後永在的全能者。約翰還沒有描述一個異象，就已經把讀者的目光牢牢釘在一個人身上。這卷書要揭開的，首先不是「將要發生甚麼事」，而是「這位掌管一切之事的是誰」。
 
 ---
@@ -134,8 +136,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -153,15 +156,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon 1
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，這卷書開篇第一句話就已經定了全書的主題，讀者從第一頁到最後一頁都不應偏離這個焦點：
+
+> "The theme of this Book is found in its opening sentence, 'The Revelation of Jesus Christ.' This should be borne in mind from first to last, and our object should be to see Him as He is here revealed."
+>
+> 中譯：這卷書的主題，就在它開篇的第一句話裏——「耶穌基督的啟示」。這應當從頭到尾被牢記在心，我們的目標應該是看見祂，正如祂在此被啟示出來的那樣。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄1章, https://www.studylight.org/commentaries/eng/gcm/revelation-1.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《新約注釋：啟示錄1-11章》中指出，約翰在此清楚交代了這卷書的來源與權柄——這不是出於人的猜測或異夢，而是神親自賜下、藉著天使傳給祂僕人的啟示；他認為，任何正確解讀啟示錄的嘗試，都必須從承認這一點開始。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**孟斯 (Robert Mounce)**：
+論到第8節「我是阿拉法，我是俄梅戛」，麥克阿瑟解釋這宣告的意義：
+
+> "He is saying, 'I am the supreme, sovereign alphabet in which is contained all knowledge.'"
+>
+> 中譯：祂是在說：「我是那至高、掌權的字母表，一切知識都包含在我裏面。」（66-3）
+> — John MacArthur, *The Certainty of the Second Coming* (gty.org, sermon 66-3), https://www.gty.org/sermons/66-3/the-certainty-of-the-second-coming
+
+### 孟斯 (Robert Mounce)
 
 孟斯在其《啟示錄注釋》(NICNT) 論到「啟示」(*apokalypsis*) 一詞時指出，這個詞本身就宣告了整卷書的性質：不是要隱藏奧秘，而是要揭開帷幕，讓教會看清在表面混亂之下，基督仍在掌管歷史的真相。
 
@@ -269,6 +286,8 @@ publisher: 三書精讀出版系統
 ## 老弟兄精義 (The Distilled Key)
 
 啟示錄還沒讓你看見一個異象，就先讓你認識一個身分——祂是誰，遠比接下來要發生甚麼事更重要；認識了「阿拉法俄梅戛」，才能坦然無懼地面對接下來每一頁的內容。
+
+**你看見耶穌了嗎**：在任何異象展開之前，你看見的第一件事，是一連串專屬於祂的頭銜——忠信的見證者、首生的、君王的元首、阿拉法俄梅戛。這卷書從第一頁起，就是祂的啟示，不是災難的清單。
 
 ---
 

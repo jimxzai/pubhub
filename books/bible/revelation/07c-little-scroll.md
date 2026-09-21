@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七號中途的插曲——天使與小書卷，約翰被差去傳講甜中帶苦的信息，為第11章兩個見證人的出場預備場景。
+
 七號之間，敘事忽然停頓——約翰不是繼續數算災禍，而是被帶到一幕插曲：一位大力的天使從天降下，「披著雲彩，頭上有虹，臉面像日頭，兩腳像火柱」。這些描述與啟示錄1章榮耀基督的異象、與出埃及記雲柱火柱的引導遙相呼應，讓讀者一再確認：無論審判如何加劇，掌管一切、親自引導祂百姓的那一位，從未離開祂的寶座，也從未離開祂的百姓。這位天使右腳踏海、左腳踏地，宣告「不再有時日了」——那掌管海洋與陸地、時間本身的主權，正是這卷書從頭到尾唯一的焦點。
 
 ---
@@ -126,8 +128,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -145,13 +148,27 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 10
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，吃書卷這個意象，正是靈魂在神話語裏得餵養的圖畫：
+
+> "This figure of eating the book is familiar, and suggests the feeding of the soul on the Word of God. It is to that that the seer was called anew."
+>
+> 中譯：吃書卷這個圖像是熟悉的，它所暗示的，是靈魂在神話語中得餵養。先見正是被重新召去經歷這事。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄10章, https://www.studylight.org/commentaries/eng/gcm/revelation-10.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在他的注釋中指出，約翰吃書卷的經歷教導了一個重要的功課：神的話語必須先被個人領受、消化、成為自己生命的一部分，然後才能被傳講出去；傳講神話語的人，必須先是領受神話語的人。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟在講道中解釋「吃書卷」這個動作，為的是說明領受神話語真理時那份甘甜：
+
+> "Just to illustrate how sweet it is when someone devours its truth. Why is it sweet? Because like all believers, John is waiting for the Lord to act."
+>
+> 中譯：這只是要說明，當人吞下這真理時，是何等甘甜。為甚麼甘甜？因為像所有信徒一樣，約翰正等候主行動。（66-35）
+> — John MacArthur, "When God Breaks His Silence" (gty.org, sermon 66-35), https://www.gty.org/sermons/66-35/when-god-breaks-his-silence
 
 **羅伯特·孟斯 (Robert Mounce)**：
 

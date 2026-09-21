@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -Eeuo pipefail
+
 # Gospel of John PDF Builder - CONSOLIDATED 2026 EDITION
 # = 21 chapters + Elder Wong systematic reception (structure-based deep study)
 # Uses the system default template: templates/pdf/gospel-of-john.latex
@@ -15,17 +17,28 @@ COMBINED_MD="$OUTPUT_DIR/gospel-of-john-consolidated.md"
 OUTPUT_PDF="$OUTPUT_DIR/gospel-of-john-consolidated.pdf"
 TEMPLATE="$PROJECT_ROOT/templates/pdf/gospel-of-john.latex"
 
+# Fail before Pandoc if the book-local release validator finds a missing source
+# or a broken house structure. The validator reports selected CUV/NASB excerpt
+# differences as REVIEW, because this edition is explicitly not a complete
+# bilingual Gospel text.
+VALIDATOR="$INPUT_DIR/validate_publication.py"
+if [ -f "$VALIDATOR" ] && [ "${BOOK_PUB_SKIP_VALIDATOR:-0}" != "1" ]; then
+    python3 "$VALIDATOR"
+fi
+
 echo "=========================================="
 echo "📖 Gospel of John PDF (CONSOLIDATED 2026)"
 echo "=========================================="
 echo ""
 
 mkdir -p "$OUTPUT_DIR"
+python3 "$INPUT_DIR/prepare_publication.py" --output "$OUTPUT_DIR"
+TEMPLATE="$OUTPUT_DIR/gospel-of-john-generated.latex"
 
 cat > "$COMBINED_MD" << 'HEADER'
 ---
 title: "約翰福音研讀"
-subtitle: "Gospel of John Deep Study — 2026 整編版"
+subtitle: "Gospel of John Deep Study — Edition 4.0"
 author: "PubHub 三書精讀系統"
 date: "2026年8月"
 publisher: "三書精讀出版系統"
@@ -48,6 +61,16 @@ copyright: |
 
   **經文版權聲明 (Scripture Copyright Notices)**
 
+  **版本與內容定位 (Edition and Content Model)**
+
+  Gospel of John Deep Study — Edition 4.0
+
+  本版使用《聖經》和合本（CUV 1919）與 New American Standard Bible（NASB 1995）。
+
+  本書是研讀指南，經文部分為選摘，不是完整的中英雙語《約翰福音》排印本；兩種語言的選摘節次可能不同。
+
+  This is a study guide with selected CUV 1919 and NASB 1995 Scripture excerpts, not a complete bilingual Gospel of John.
+
   本版為教會內部贈閱版（非賣品）；公開發行時另行申請 ISBN。
 
   中文經文引自《聖經》和合本（1919），屬公有領域。
@@ -67,13 +90,20 @@ chapter_count=0
 # markers to \textsuperscript, then start a new page.
 add_file() {
     local f="$1"
-    [ -f "$f" ] || return 0
+    if [ ! -f "$f" ]; then
+        echo "ERROR: required source file is missing: $f" >&2
+        return 1
+    fi
     echo "  Adding: $(basename "$f")"
     # ^12^ and ^12:34^ both become superscripts; a bare-digit-only pattern
     # silently leaves chapter:verse markers as literal carets in the PDF.
-    tail -n +8 "$f" | sed 's/\^\([0-9][0-9:]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
+    awk '
+        NR == 1 && $0 == "---" { frontmatter = 1; next }
+        frontmatter && $0 == "---" { frontmatter = 0; next }
+        !frontmatter { print }
+    ' "$f" | sed 's/\^\([0-9][0-9:]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
+    ((chapter_count += 1))
 }
 
 # Volume divider: a part-title page carrying the volume's theme and,
@@ -81,9 +111,9 @@ add_file() {
 # the Revelation harvest ($3 $4 $5; see 00a-revelation-order.md 總表).
 add_volume() {
     printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
-    if [ -n "$3" ]; then
+    if [ -n "${3-}" ]; then
         printf '\n| | |\n|---|---|\n| **救恩計劃** | %s |\n| **聖靈在哪裏** | %s |\n| **啟示錄的收成** | %s |\n' \
-            "$3" "$4" "$5" >> "$COMBINED_MD"
+            "${3-}" "${4-}" "${5-}" >> "$COMBINED_MD"
     fi
     printf '\n\\newpage\n\n' >> "$COMBINED_MD"
     echo "  --- $1"
@@ -92,9 +122,18 @@ add_volume() {
 # Append the first file matching a chapter-number prefix (e.g. 01b-, 07-).
 add_chapter() {
     local f
+    local found=0
     for f in "$INPUT_DIR/$1-"*.md; do
-        [ -f "$f" ] && { add_file "$f"; return 0; }
+        if [ -f "$f" ]; then
+            add_file "$f"
+            found=1
+            break
+        fi
     done
+    if [ "$found" -eq 0 ]; then
+        echo "ERROR: no source file found for chapter prefix $1" >&2
+        return 1
+    fi
 }
 
 # 前言 — preface (grace at CCIC, vision, purpose)
@@ -119,42 +158,42 @@ if [ -f "$STUDY_FILE" ]; then
     # (single substitution per line: prepends one # to the leading run, no cascade)
     tail -n +2 "$STUDY_FILE" | sed 's/^#/##/' >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
+    ((chapter_count += 1))
 fi
 
 # ============================================================
 # 正文 · 五卷
 # ============================================================
 add_volume "卷一 · 序言——道 (Prologue: The Word) · 1:1-18" \
-    "十八節，抵一部系統神學。永恆切入時間。" \
+    "十八節，抵一部系統神學。永恆切入時間。**啟示的次序·第一步**：賜下——神把獨生子給出去。" \
     "**賜下**——神把獨生子給出去" \
     "1:32「彷彿鴿子從天降下，住在他的身上」" \
     "19:13「祂的名稱為神之道」"
 add_chapter 01
 
 add_volume "卷二 · 兆頭之書——信與不信的交戰 (The Book of Signs)" \
-    "1:19-12:50——三年半的事工，十二章。兆頭是圖畫，「我是」是圖畫下面的說明文字。" \
+    "1:19-12:50——三年半的事工，十二章。兆頭是圖畫，「我是」是圖畫下面的說明文字。**啟示的次序·第二步**：陳明——信與不信分開。" \
     "**陳明**——信與不信分開（1:12）" \
     "7:39「那時還沒有賜下聖靈來，因為耶穌尚未得著榮耀」" \
     "5:6 羔羊站立，像是被殺過的"
 for i in 01b 02 03 04 04b 05 06 07 08 09 10 11 12; do add_chapter "$i"; done
 
 add_volume "卷三 · 榮耀之書·樓上私語——愛 (The Upper Room) · 13-17" \
-    "一個晚上，五章。祂既然愛世間屬自己的人，就愛他們到底。" \
+    "一個晚上，五章。祂既然愛世間屬自己的人，就愛他們到底。**啟示的次序·第三步**：預告內化——住在我裏面。" \
     "**預告內化**——住在我裏面" \
     "14:17「常與你們同在，也要在你們裏面」" \
     "21:3 神的帳幕在人間"
 for i in 13 14 15 16 17; do add_chapter "$i"; done
 
 add_volume "卷四 · 榮耀之書·受難復活 (Passion & Resurrection)" \
-    "18-20 章——三天，三章。榮耀的高峰不在寶座，在十字架——「成了」。" \
+    "18-20 章——三天，三章。榮耀的高峰不在寶座，在十字架——「成了」。**啟示的次序·第四步**：成全——τετέλεσται，成全了且永遠成全著。" \
     "**成全**——τετέλεσται，成全了且永遠成全著" \
     "20:22「就向他們吹一口氣，說：你們受聖靈！」" \
     "1:18「我曾死過，現在又活了」"
 for i in 18 19 20; do add_chapter "$i"; done
 
 add_volume "卷五 · 跋——爐火邊的恢復與差遣 (Epilogue) · 21" \
-    "一頓早餐，一章。三次問，對著三次否認。" \
+    "一頓早餐，一章。三次問，對著三次否認。**啟示的次序·第五步**：傳遞——你餵養我的羊。" \
     "**傳遞**——你餵養我的羊" \
     "20:21「父怎樣差遣了我，我也照樣差遣你們」——五旬節在書外（徒 2）" \
     "22:17「聖靈和新婦都說：來！」"
@@ -174,8 +213,17 @@ add_file "$INPUT_DIR/99-to-revelation.md"
 # its own page; a trailing break here yields a header-only blank page
 # whenever the afterword happens to fill its final page exactly).
 echo "  Adding: 999-afterword.md"
-tail -n +8 "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
-((chapter_count++))
+awk '
+    NR == 1 && $0 == "---" { frontmatter = 1; next }
+    frontmatter && $0 == "---" { frontmatter = 0; next }
+    !frontmatter { print }
+' "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
+((chapter_count += 1))
+
+if [ "$chapter_count" -ne 30 ]; then
+    echo "ERROR: expected 30 assembled source units, got $chapter_count" >&2
+    exit 1
+fi
 
 echo ""
 echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $chapter_count chapters)"

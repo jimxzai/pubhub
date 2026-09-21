@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書第二步「察驗」由此展開——七封信的第一封，主先稱讚以弗所教會的勞碌與分辨力，再指出她失去的起初愛心；這先讚後責的次序，後面幾封信雖各有變化（士每拿、非拉鐵非沒有責備，老底嘉沒有稱讚），主的鑑察卻同樣貫穿其中。
+
 七封書信的第一封寫給以弗所——保羅曾在此牧養三年、提摩太曾在此牧養、使徒約翰晚年也在此服事的教會。這是一間血統最純正、教導最扎實、辨別力最強的教會，主也毫不吝惜地稱讚她「勞碌、忍耐」、「不能容忍惡人」、「試驗那自稱為使徒卻不是使徒的」。但主開口的第一句話卻是「然而，有一件事我要責備你」。以弗所教會做對了幾乎所有的事，卻做丟了一件事——起初的愛心。基督在此顯明自己是「那右手拿著七星、在七個金燈臺中間行走的」，祂行走在燈臺之間，意味著祂親自察看、親自量度每一間教會，而祂所看重的，不只是教會做了甚麼，更是教會為誰而做。
 
 ---
@@ -125,8 +127,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -144,15 +147,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1561 English translation)
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根把以弗所教會定位為初代使徒時期的圖像，指出這封信揭示的正是「起初的愛心」如何在勞苦與忍耐中悄悄流失：
+
+> "The letter to the Church at Ephesus reveals apostolic conditions. The period was one of toil and patience, characterized by attempts to corrupt the doctrine by impure practice. It was a period in which the Church lost its first love."
+>
+> 中譯：給以弗所教會的信揭示的是使徒時期的狀況。那是一個勞苦忍耐的時期，其特徵是有人企圖用不純正的行為敗壞教義。這也是教會失去起初愛心的時期。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄2章, https://www.studylight.org/commentaries/eng/gcm/revelation-2.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄1-11章註釋》中論到以弗所教會時指出，這是一間教義純正、道德嚴謹、辨別力敏銳的教會，卻患了屬靈上的問題——她仍然照常運轉，卻失去了愛的驅動力。他強調，主的責備不是要以弗所放棄她的純正，而是要她讓這份純正重新被起初的愛充滿。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到以弗所教會外表委身、內裏卻已冷卻的危機，麥克阿瑟這樣描述：
+
+> "Their hot hearts, that labor of passion and fervor was becoming the cold orthodox function. That was deadly, dangerous."
+>
+> 中譯：他們火熱的心，那份原本充滿激情與熱誠的勞苦，正在變成冷淡的、照規矩行事的機能。這是致命的、危險的。（66-6）
+> — John MacArthur, *Ephesus: When Love Grows Cold* (gty.org, sermon 66-6), https://www.gty.org/sermons/66-6/ephesus-when-love-grows-cold
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「起初的愛心」很可能同時指向對基督的愛與對彼此的愛，二者在新約中從不分割——愛神卻不愛弟兄的宣稱，約翰壹書早已判定為虛謊（約壹4:20）。
 

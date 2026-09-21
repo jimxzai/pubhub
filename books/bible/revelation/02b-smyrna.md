@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：「察驗」的第二封信——士每拿是七教會中僅有的兩間沒有受到責備的教會之一（另一間是非拉鐵非，見3:7-13），主的鑑察不只用來定罪，也用來確認患難中仍存的忠心。
+
 七封書信中，士每拿與非拉鐵非是僅有的兩封沒有一句責備的信——而士每拿教會偏偏是七間教會中最貧窮、最受苦的一間。主向這間在患難、貧窮、毀謗中掙扎的教會顯現，自稱是「那首先的、末後的、死過又活的」——這正是1:17-18約翰見異象時仆倒又被扶起時基督對自己的宣告。對一群隨時可能因信仰付上性命代價的信徒，沒有任何身份比「死過又活的」更能安慰人心：你們所懼怕的死亡，祂已經親自經過，並且勝過了。
 
 ---
@@ -123,8 +125,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -142,15 +145,29 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *An Exposition of the Old and New Testament* (Acts–Revelation volume completed by other nonconformist ministers after Henry's death, 1721)
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，士每拿教會所經歷的異教逼迫，結果不是毀壞，而是煉淨：
+
+> "The letter to the Church at Smyrna covers the period of pagan persecution. The result of that persecution was the purification of the Church. The letter said that the Lord knew the difficulties of the situation and also that in spiritual power the Church was rich."
+>
+> 中譯：給士每拿教會的信涵蓋的是異教逼迫的時期。那逼迫帶來的結果是教會被煉淨。這封信說，主知道當時處境的艱難，也知道教會在屬靈能力上是富足的。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄2章, https://www.studylight.org/commentaries/eng/gcm/revelation-2.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，士每拿教會所擁有的，是這個世界不能給、也不能奪去的財富——與基督聯合的生命，以及那將要顯明的、永不朽壞的冠冕。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**羅伯特·孟斯 (Robert Mounce)**：
+麥克阿瑟用士每拿（沒藥）這名字本身的意義，描繪這間受苦教會的樣式：
+
+> "And so you see a little church, the myrrh church, crushed, and when it’s crushed it yields the sweet aroma."
+>
+> 中譯：於是你看見一間小教會，沒藥教會，被壓碎；當它被壓碎的時候，就散發出甜美的香氣。（66-7）
+> — John MacArthur, *Smyrna: The Suffering Church* (gty.org, sermon 66-7), https://www.gty.org/sermons/66-7/smyrna-the-suffering-church
+
+### 孟斯 (Robert Mounce)
 
 孟斯在其啟示錄註釋（NICNT）中論到基督自稱「首先的、末後的、死過又活的」時指出，對一個隨時可能被要求為信仰付上性命的群體而言，這不是抽象的教義宣告，而是最直接的安慰——基督比他們更早經過死亡，並且已經得勝。
 

@@ -1,4 +1,13 @@
-# 使徒行傳——結構式查經領受 (Acts: A Structural Reception)
+---
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 補編：結構式查經領受 · Supplementary Structural Study
+author: PubHub 三書精讀系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
+type: supplementary-study
+---
+
+# 補編：結構式查經領受 (Supplementary Structural Study)
 
 > 路加福音記耶穌「開頭」所行所教訓的一切；使徒行傳記祂藉聖靈、藉教會「繼續」所行所教訓的一切——換了做工的方式，沒有換做工的那一位。
 >

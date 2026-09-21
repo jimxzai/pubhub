@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十章 · 哥尼流——門向外邦人開了 (Cornelius: The Door Opens)
@@ -44,14 +44,14 @@ publisher: 三書精讀出版系統
 >
 > 因為神愛何等寬闊， \
 > 遠超人心所能度量； \
-> 那永恒者心腸柔軟， \
+> 那永恆者心腸柔軟， \
 > 何等奇妙、何等慈祥。
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > ^3^有一天，約在申初，他在異象中明明看見神的一個使者進去，到他那裏，說：「哥尼流！」^4^哥尼流定睛看他，驚怕說：「主啊，甚麼事呢？」天使說：「你的禱告和你的賙濟達到神面前，已蒙記念了。^5^現在你當打發人往約帕去，請那稱呼彼得的西門來。^6^他住在海邊一個硝皮匠西門的家裏，房子在海邊上。」
 
@@ -65,7 +65,7 @@ publisher: 三書精讀出版系統
 
 > ^44^彼得還說這話的時候，聖靈降在一切聽道的人身上。^45^那些奉割禮、和彼得同來的信徒，見聖靈的恩賜也澆在外邦人身上，就都希奇，^46^因聽見他們說方言，稱讚神為大。^47^於是彼得說：「這些人既受了聖靈，與我們一樣，誰能禁止用水給他們施洗呢？」^48^就吩咐奉耶穌基督的名給他們施洗。他們又請彼得住了幾天。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > ^3^About the ninth hour of the day he clearly saw in a vision an angel of God who had *just* come in and said to him, "Cornelius!" ^4^And fixing his gaze on him and being much alarmed, he said, "What is it, Lord?" And he said to him, "Your prayers and alms have ascended as a memorial before God. ^5^Now dispatch *some* men to Joppa and send for a man *named* Simon, who is also called Peter; ^6^he is staying with a tanner *named* Simon, whose house is by the sea."
 

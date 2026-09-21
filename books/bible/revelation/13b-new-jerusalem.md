@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：新耶路撒冷降下——羔羊為城的殿、為城的燈，生命水的河從神和羔羊的寶座流出，「成全」這一步在此鋪陳到全書最豐盛的畫面。
+
 一位拿着七碗災殃的天使，如今換了一個角色：「你到這裡來，我要將新婦，就是羔羊的妻，指給你看」（21:9）。同一位天使，曾指給約翰看那騎在獸上的大淫婦（17:1），如今用幾乎一模一樣的句式，指給他看羔羊的新婦——這不是巧合，而是全書刻意的對照：兩座城、兩個女人、兩種結局，最終都要收束在一個問題上：你屬於哪一座城？新耶路撒冷的一切榮美——碧玉城牆、精金街道、十二根基、常開的城門——最終都指向一個中心：「我未見城內有殿，因主神─全能者和羔羊為城的殿」（21:22）。這座城沒有殿，因為整座城本身就是至聖所；沒有日月，因為羔羊自己就是燈。
 
 ---
@@ -136,8 +138,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -161,15 +164,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 21
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根形容新耶路撒冷同時是一座隔絕之城，也是一座敞開之城：
+
+> "It is a city of exclusion, having a wall great and high; and of inclusion, having gates opening in every direction."
+>
+> 中譯：這是一座隔絕之城，有又高又大的城牆；也是一座敞開之城，四面的門向每一個方向敞開。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄21章, https://www.studylight.org/commentaries/eng/gcm/revelation-21.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄12-22章註釋》中指出，新耶路撒冷不是象徵性的比喻，而是蒙救贖之人真實、永遠的居所——但它的一切榮美，最終都指向一個事實：城的真正光榮，不是牆、不是門、不是寶石，而是神與羔羊自己的同在。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**孟斯 (Robert Mounce)**：
+論到城牆與城門，麥克阿瑟在講道中說：
+
+> "It has an outer wall. It has limits. You can go in it and you can come out of it because it has gates."
+>
+> 中譯：這城有外牆，有它的界限；但你可以進去，也可以出來，因為它有城門。（66-83）
+> — John MacArthur, "The Capital City of Heaven, Part 1" (gty.org, sermon 66-83), https://www.gty.org/sermons/66-83/the-capital-city-of-heaven-part-1
+
+### 孟斯 (Robert Mounce)
 
 孟斯在其啟示錄註釋（NICNT）中指出，城的立方體形狀直接呼應至聖所——這不是巧合，而是要清楚宣告：全城如今就是那擴大到無限的至聖所，每一位蒙贖之人都活在曾經只屬於大祭司的聖潔同在之中。
 

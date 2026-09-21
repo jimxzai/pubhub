@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十章 · 米利都的臨別贈言 (The Farewell at Miletus)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > ^7^七日的第一日，我們聚會擘餅的時候，保羅因為要次日起行，就與他們講論，直講到半夜。^8^我們聚會的那座樓上，有好些燈燭。^9^有一個少年人名叫猶推古，坐在窗臺上，困倦沉睡。保羅講了多時，少年人睡熟了，就從三層樓上掉下去。扶起他來，已經死了。^10^保羅下去，伏在他身上，抱著他說：「你們不要發慌，他的靈魂還在身上。」^11^保羅又上去，擘餅，吃了，談論許久，直到天亮，這才走了。^12^有人把那童子活活地領來，得的安慰不小。
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^36^保羅說完了這話，就跪下同眾人禱告。^37^眾人痛哭，抱著保羅的頸項，和他親嘴。^38^叫他們最傷心的，就是他說「以後不能再見我的面」那句話。於是送他上船去了。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > ^7^On the first day of the week, when we were gathered together to break bread, Paul *began* talking to them, intending to leave the next day, and he prolonged his message until midnight. ^8^There were many lamps in the upper room where we were gathered together. ^9^And there was a young man named Eutychus sitting on the window sill, sinking into a deep sleep; and as Paul kept on talking, he was overcome by sleep and fell down from the third floor and was picked up dead. ^10^But Paul went down and fell upon him, and after embracing him, he said, "Do not be troubled, for his life is in him." ^11^When he had gone *back* up and had broken the bread and eaten, he talked with them a long while until daybreak, and then left. ^12^They took away the boy alive, and were greatly comforted.
 

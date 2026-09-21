@@ -150,3 +150,26 @@ a useful second source to diff against. Then run
 `python3 scripts/lint-scripture-text.py <dir>` for the variant-character
 classes (鑒/鑑, 熔/鎔, 汙/污, 裡/裏, 做/作 — rules are word-scoped because
 CUV itself is mixed; the script refuses to auto-fix the 做/作 class).
+
+**`bible.fhl.net`'s `unv` code is old (1919) CUV, not RCUV — even though the
+book claims RCUV as its base text.** Its JSON API (`bible.fhl.net/json/qb.php
+?chineses=<書>&chap=<n>&sec=<v>&version=unv`) is convenient for scripted
+per-verse fetching, but `unv`'s `v_name` prints "FHL和合本" and its text is
+the pre-2010 Union Version. Genesis (2026-09-19) had three Psalm-companion
+quotes (8:3-6, 32:1-5, 51:1-4) sourced this way under the mistaken belief
+`unv` was RCUV — one of them (Ps 32:4) carried the old CUV's "我的精液耗盡"
+into print, the exact wording RCUV revised to "我的精力耗盡" specifically
+because it reads as a different, unintended word in modern Chinese. A real
+`rcuv` code exists on the same API (`v_name` "和合本2010") and returns
+genuine 2010 Revised text — use `version=rcuv`, not `version=unv`, whenever
+the book's declared base text is RCUV. Note `rcuv`'s default text is the
+上帝-edition (e.g. Ps 8:5 "你使他比上帝微小一點"); convert 上帝→神 to match
+this project's established 神-edition convention before pasting it in,
+rather than introducing a one-verse inconsistency.
+
+The `ab.php` endpoint (`bible.fhl.net/json/ab.php`, no params) lists every
+version code and its `cname` — check it before assuming a short code means
+what its name suggests; this is the same caution as ai-eden.com's suspect
+`t=RCUV` param (see above), just the mirror-image failure (there the label
+lies about the content; here the content is right but the parameter you'd
+guess for it is wrong).

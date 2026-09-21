@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七碗傾倒淨盡，「成了」——審判的「成了」在此出現，呼應十字架上救贖的「成了」，兩者是同一位主的兩面。
+
 七碗是啟示錄三個七之中最後、最猛烈的一組審判——七印揭開了序幕，七號吹響了警告，七碗則是「神大怒的終局」（15:1）。這一章沒有出現羔羊的名字，卻處處是羔羊配得敬拜之後（15章）必然的結果：一位配得敬拜的神，也必然是一位施行公義審判的神。第17節那句「成了！」（*Gegonen*）預告了十字架上「成了」（19:30，*Tetelestai*）的終極應驗——救贖已然「成了」，審判也終將「成了」，兩者出於同一位掌管歷史的主。
 
 ---
@@ -137,8 +139,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -156,13 +159,29 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *An Exposition of the Old and New Testament*, Revelation
 
+### 摩根 (G. Campbell Morgan)
+
+摩根同樣留意到第五碗傾倒之後，人非但沒有悔改，反而褻瀆神：
+
+> "Notwithstanding the unimaginable terror of their condition, the evil men still 'blasphemed the God of heaven,' and 'they repented not of their works.'"
+>
+> 中譯：儘管處境的恐怖難以想像，那些惡人仍然「褻瀆天上的神」，「並不悔改所行的」。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄16章, https://www.studylight.org/commentaries/eng/gcm/revelation-16.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟指出，三次「並不悔改」揭示的是人心徹底剛硬、無法被外在災難撬動的光景：
+
+> "They are so in love with sin, they are so committed to hell and Satan and Antichrist and demons that though they see the hand of God, they feel the judgment of God, they will still not repent."
+>
+> 中譯：他們如此愛戀罪惡，如此委身於地獄、撒但、antichrist與群魔，以致即使看見神的手、感受到神的審判，仍然不肯悔改。（66-56）
+> — John MacArthur, "The Seven Bowl Judgments, Part 1" (gty.org, sermon 66-56), https://www.gty.org/sermons/66-56/the-seven-bowl-judgments-part-1
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟認為，三次「並不悔改」的記載是整本啟示錄裡最令人心碎的經文之一，印證了羅馬書1章所描述的光景：人心一旦被交在剛硬之中，即使面對最直接的神聖審判，仍會選擇褻瀆而非降服。
-
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 

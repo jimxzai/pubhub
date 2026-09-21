@@ -769,7 +769,7 @@ copyright: |
 
 # 卷一 · 榮耀的人子 (The Glorified Son of Man) · 1章
 
-> 拔摩海島上，主日，號筒般的大聲音。第一幅異象不是災難，是基督。
+> 拔摩海島上，主日，號筒般的大聲音。第一幅異象不是災難，是基督。啟示的次序·第一步：顯現——先看見祂，才看見異象。
 
 | | |
 |---|---|
@@ -787,6 +787,8 @@ copyright: |
 **經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **全書座標**：全書七步的第一步「顯現」由此開始——約翰還沒有看見任何異象，先聽見的是主自己的問安與宣告；下一段（1:9-20）才展開祂榮耀人子的形像。
 
 啟示錄不是以恐怖的異象開篇，而是以一個名字開篇——「耶穌基督的啟示」。整卷書卷首七節，一連串頭銜與稱號密集出現：忠信的見證者、從死人中復活的首生者、世上君王的元首、愛我們用血釋放我們的那位、使我們成為國度祭司的那位、駕雲降臨眾目要看見的那位、阿拉法俄梅戛、今在昔在以後永在的全能者。約翰還沒有描述一個異象，就已經把讀者的目光牢牢釘在一個人身上。這卷書要揭開的，首先不是「將要發生甚麼事」，而是「這位掌管一切之事的是誰」。
 
@@ -908,8 +910,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -927,15 +930,29 @@ copyright: |
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon 1
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，這卷書開篇第一句話就已經定了全書的主題，讀者從第一頁到最後一頁都不應偏離這個焦點：
+
+> "The theme of this Book is found in its opening sentence, 'The Revelation of Jesus Christ.' This should be borne in mind from first to last, and our object should be to see Him as He is here revealed."
+>
+> 中譯：這卷書的主題，就在它開篇的第一句話裏——「耶穌基督的啟示」。這應當從頭到尾被牢記在心，我們的目標應該是看見祂，正如祂在此被啟示出來的那樣。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄1章, https://www.studylight.org/commentaries/eng/gcm/revelation-1.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《新約注釋：啟示錄1-11章》中指出，約翰在此清楚交代了這卷書的來源與權柄——這不是出於人的猜測或異夢，而是神親自賜下、藉著天使傳給祂僕人的啟示；他認為，任何正確解讀啟示錄的嘗試，都必須從承認這一點開始。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**孟斯 (Robert Mounce)**：
+論到第8節「我是阿拉法，我是俄梅戛」，麥克阿瑟解釋這宣告的意義：
+
+> "He is saying, 'I am the supreme, sovereign alphabet in which is contained all knowledge.'"
+>
+> 中譯：祂是在說：「我是那至高、掌權的字母表，一切知識都包含在我裏面。」（66-3）
+> — John MacArthur, *The Certainty of the Second Coming* (gty.org, sermon 66-3), https://www.gty.org/sermons/66-3/the-certainty-of-the-second-coming
+
+### 孟斯 (Robert Mounce)
 
 孟斯在其《啟示錄注釋》(NICNT) 論到「啟示」(*apokalypsis*) 一詞時指出，這個詞本身就宣告了整卷書的性質：不是要隱藏奧秘，而是要揭開帷幕，讓教會看清在表面混亂之下，基督仍在掌管歷史的真相。
 
@@ -1044,6 +1061,8 @@ copyright: |
 
 啟示錄還沒讓你看見一個異象，就先讓你認識一個身分——祂是誰，遠比接下來要發生甚麼事更重要；認識了「阿拉法俄梅戛」，才能坦然無懼地面對接下來每一頁的內容。
 
+**你看見耶穌了嗎**：在任何異象展開之前，你看見的第一件事，是一連串專屬於祂的頭銜——忠信的見證者、首生的、君王的元首、阿拉法俄梅戛。這卷書從第一頁起，就是祂的啟示，不是災難的清單。
+
 ---
 
 ## 生命應用 (Application)
@@ -1094,6 +1113,8 @@ copyright: |
 **經文核對**：[ai-eden.com/bible/revelation/1](https://www.ai-eden.com/bible/revelation/1?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **全書座標**：承接1:1-8的問安，這是「顯現」這一步的高峰——約翰終於轉頭看見祂，卷首鑰詞「人子」在此正式登場，為第2-3章七封信的「我知道」預備了說話的主角。
 
 同一位使徒約翰，在寫約翰福音時，記錄了在最後晚餐時靠著耶穌胸膛的那位溫柔的主；但在拔摩海島上，他看見的卻是榮耀威嚴的人子——頭髮皆白如雪，眼目好像火焰，腳好像爐中鍛鍊發亮的銅，聲音好像眾水轟鳴，口中吐出兩刃利劍，面貌好像烈日放光。約翰一見這位榮耀的基督，「就仆倒在他腳前，像死了一樣」。這就是啟示錄的基調：我們所認識的耶穌，遠比我們熟悉的形像更榮耀、更威嚴、更可畏——而正是這一位，親手按著仆倒的約翰說：「不要懼怕。」
 
@@ -1209,8 +1230,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -1228,15 +1250,29 @@ copyright: |
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon 2
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根描述約翰在拔摩海島所見的基督形像，如何同時是人子、又超越一切人性的榮光：
+
+> "He is seen as 'a Son of man,' nevertheless, in His Person removed from all others in the amazing splendor of His glory."
+>
+> 中譯：祂被看見是「一位好像人子」，然而在祂的位格裏，卻因祂榮耀的驚人光彩，與其他一切人截然不同。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄1章, https://www.studylight.org/commentaries/eng/gcm/revelation-1.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《新約注釋：啟示錄1-11章》中提醒讀者，約翰所見的基督，與福音書中溫柔醫治病人、抱起孩童的耶穌是同一位，但這裡強調的是祂審判者與掌權者的身分；他認為教會若只記得溫柔的耶穌，卻忘了這位眼目如火焰的榮耀基督，就無法正確面對這個世界。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到約翰見到榮耀基督便仆倒如死人，麥克阿瑟解釋這反應背後的原因：
+
+> "But to see unveiled glory is so devastating and so shocking that it causes one to fall over lifeless."
+>
+> 中譯：但親眼看見未經遮蔽的榮光，是如此令人震撼、如此令人驚駭，以致使人仆倒、毫無氣息。（66-5）
+> — John MacArthur, *The Vision of the Glorified Son, Part 2* (gty.org, sermon 66-5), https://www.gty.org/sermons/66-5/the-vision-of-the-glorified-son-part-2
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其《啟示錄注釋》(BECNT) 中論到「不要懼怕」一語出現在異象最令人戰慄的時刻，認為這正說明了啟示錄的寫作目的：不是要恐嚇讀者，而是要藉著顯明基督的至高權柄，把他們的懼怕轉化為敬拜。
 
@@ -1344,6 +1380,8 @@ copyright: |
 
 約翰仆倒之處，正是敬拜真正開始之處——認識這位滿有權柄又親手扶起仆倒之人的基督，才是啟示錄接下來每一個異象得以被正確理解的起點。
 
+**你看見耶穌了嗎**：頭髮皆白如雪、眼目如同火焰、腳像精煉的銅、聲音如眾水轟鳴——你看見的，不是一個溫和到讓人無感的耶穌，而是那位曾死過、現在又活了、拿著死亡和陰間鑰匙的主。祂按手在仆倒之人身上，說的第一句話是「不要懼怕」。
+
 ---
 
 ## 生命應用 (Application)
@@ -1388,7 +1426,7 @@ copyright: |
 
 # 卷二 · 七教會——地上的燈臺 (The Seven Churches) · 2-3章
 
-> 七封信，一位在燈臺中間行走的主。每一封都以「得勝的」作結。
+> 七封信，一位在燈臺中間行走的主。每一封都以「得勝的」作結。啟示的次序·第二步：察驗——主先察看祂的教會，才展開祂的審判。
 
 | | |
 |---|---|
@@ -1406,6 +1444,8 @@ copyright: |
 **經文核對**：[ai-eden.com/bible/revelation/2](https://www.ai-eden.com/bible/revelation/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **全書座標**：全書第二步「察驗」由此展開——七封信的第一封，主先稱讚以弗所教會的勞碌與分辨力，再指出她失去的起初愛心；這先讚後責的次序，後面幾封信雖各有變化（士每拿、非拉鐵非沒有責備，老底嘉沒有稱讚），主的鑑察卻同樣貫穿其中。
 
 七封書信的第一封寫給以弗所——保羅曾在此牧養三年、提摩太曾在此牧養、使徒約翰晚年也在此服事的教會。這是一間血統最純正、教導最扎實、辨別力最強的教會，主也毫不吝惜地稱讚她「勞碌、忍耐」、「不能容忍惡人」、「試驗那自稱為使徒卻不是使徒的」。但主開口的第一句話卻是「然而，有一件事我要責備你」。以弗所教會做對了幾乎所有的事，卻做丟了一件事——起初的愛心。基督在此顯明自己是「那右手拿著七星、在七個金燈臺中間行走的」，祂行走在燈臺之間，意味著祂親自察看、親自量度每一間教會，而祂所看重的，不只是教會做了甚麼，更是教會為誰而做。
 
@@ -1518,8 +1558,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -1537,15 +1578,29 @@ copyright: |
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1561 English translation)
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根把以弗所教會定位為初代使徒時期的圖像，指出這封信揭示的正是「起初的愛心」如何在勞苦與忍耐中悄悄流失：
+
+> "The letter to the Church at Ephesus reveals apostolic conditions. The period was one of toil and patience, characterized by attempts to corrupt the doctrine by impure practice. It was a period in which the Church lost its first love."
+>
+> 中譯：給以弗所教會的信揭示的是使徒時期的狀況。那是一個勞苦忍耐的時期，其特徵是有人企圖用不純正的行為敗壞教義。這也是教會失去起初愛心的時期。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄2章, https://www.studylight.org/commentaries/eng/gcm/revelation-2.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄1-11章註釋》中論到以弗所教會時指出，這是一間教義純正、道德嚴謹、辨別力敏銳的教會，卻患了屬靈上的問題——她仍然照常運轉，卻失去了愛的驅動力。他強調，主的責備不是要以弗所放棄她的純正，而是要她讓這份純正重新被起初的愛充滿。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到以弗所教會外表委身、內裏卻已冷卻的危機，麥克阿瑟這樣描述：
+
+> "Their hot hearts, that labor of passion and fervor was becoming the cold orthodox function. That was deadly, dangerous."
+>
+> 中譯：他們火熱的心，那份原本充滿激情與熱誠的勞苦，正在變成冷淡的、照規矩行事的機能。這是致命的、危險的。（66-6）
+> — John MacArthur, *Ephesus: When Love Grows Cold* (gty.org, sermon 66-6), https://www.gty.org/sermons/66-6/ephesus-when-love-grows-cold
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「起初的愛心」很可能同時指向對基督的愛與對彼此的愛，二者在新約中從不分割——愛神卻不愛弟兄的宣稱，約翰壹書早已判定為虛謊（約壹4:20）。
 
@@ -1702,6 +1757,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：「察驗」的第二封信——士每拿是七教會中僅有的兩間沒有受到責備的教會之一（另一間是非拉鐵非，見3:7-13），主的鑑察不只用來定罪，也用來確認患難中仍存的忠心。
+
 七封書信中，士每拿與非拉鐵非是僅有的兩封沒有一句責備的信——而士每拿教會偏偏是七間教會中最貧窮、最受苦的一間。主向這間在患難、貧窮、毀謗中掙扎的教會顯現，自稱是「那首先的、末後的、死過又活的」——這正是1:17-18約翰見異象時仆倒又被扶起時基督對自己的宣告。對一群隨時可能因信仰付上性命代價的信徒，沒有任何身份比「死過又活的」更能安慰人心：你們所懼怕的死亡，祂已經親自經過，並且勝過了。
 
 ---
@@ -1811,8 +1868,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -1830,15 +1888,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *An Exposition of the Old and New Testament* (Acts–Revelation volume completed by other nonconformist ministers after Henry's death, 1721)
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，士每拿教會所經歷的異教逼迫，結果不是毀壞，而是煉淨：
+
+> "The letter to the Church at Smyrna covers the period of pagan persecution. The result of that persecution was the purification of the Church. The letter said that the Lord knew the difficulties of the situation and also that in spiritual power the Church was rich."
+>
+> 中譯：給士每拿教會的信涵蓋的是異教逼迫的時期。那逼迫帶來的結果是教會被煉淨。這封信說，主知道當時處境的艱難，也知道教會在屬靈能力上是富足的。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄2章, https://www.studylight.org/commentaries/eng/gcm/revelation-2.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，士每拿教會所擁有的，是這個世界不能給、也不能奪去的財富——與基督聯合的生命，以及那將要顯明的、永不朽壞的冠冕。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**羅伯特·孟斯 (Robert Mounce)**：
+麥克阿瑟用士每拿（沒藥）這名字本身的意義，描繪這間受苦教會的樣式：
+
+> "And so you see a little church, the myrrh church, crushed, and when it’s crushed it yields the sweet aroma."
+>
+> 中譯：於是你看見一間小教會，沒藥教會，被壓碎；當它被壓碎的時候，就散發出甜美的香氣。（66-7）
+> — John MacArthur, *Smyrna: The Suffering Church* (gty.org, sermon 66-7), https://www.gty.org/sermons/66-7/smyrna-the-suffering-church
+
+### 孟斯 (Robert Mounce)
 
 孟斯在其啟示錄註釋（NICNT）中論到基督自稱「首先的、末後的、死過又活的」時指出，對一個隨時可能被要求為信仰付上性命的群體而言，這不是抽象的教義宣告，而是最直接的安慰——基督比他們更早經過死亡，並且已經得勝。
 
@@ -1996,6 +2068,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：「察驗」行進到別迦摩——教會外在的忠心（持守主名、不否認信仰）與內在的容讓（巴蘭的教訓）並存，主的鑑察比人的自我評價更深入。
+
 主稱別迦摩是「撒但座位之所在」的城市——這座亞細亞省的宗教與政治中心，滿佈異教神廟與皇帝崇拜的祭壇，教會就活在這座城市的正中心。主稱讚她「還堅守我的名，沒有棄絕我的道」，甚至有弟兄安提帕在此殉道。但緊接著，主卻要責備她——不是因為外在的逼迫使她妥協，而是因為她在教會內部容讓了巴蘭與尼哥拉黨的教訓。基督在此顯現為「那有兩刃利劍的」，這把劍不是用來對付外面的仇敵，而是用來對付教會內部容忍罪惡的光景。
 
 ---
@@ -2103,8 +2177,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -2122,15 +2197,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ* (1561 English translation)
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根形容別迦摩教會所處的環境，是撒但的權勢直接坐落在羅馬帝國的中心地帶：
+
+> "The letter to the Church at Pergamum covers the period during which the Church passed under the blighting patronage of an earthly power. Satan, the prince of the world, had his throne at the heart of the Roman Empire, and there the Church dwelt. There were those faithful souls who held fast the Name, but the church received and tolerated evil things."
+>
+> 中譯：給別迦摩教會的信涵蓋的是教會落入世俗權勢摧折性庇護之下的時期。撒但，這世界的王，把牠的座位設在羅馬帝國的心臟地帶，教會就住在那裡。當中有忠心持守主名的靈魂，但教會卻接納並容忍了邪惡的事。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄2章, https://www.studylight.org/commentaries/eng/gcm/revelation-2.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，別迦摩教會證明了一件事：教會可以在外部逼迫下勇敢不屈，卻在內部紀律上軟弱無力——抵擋外面的獅子相對容易辨認，識破裡面披著羊皮的狼卻需要更深的儆醒。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到容忍錯謬教訓的危險，麥克阿瑟直言：
+
+> "You can never suppress error by compromising with it."
+>
+> 中譯：你永遠不能靠向錯謬妥協來壓制錯謬。（66-8）
+> — John MacArthur, *Pergamos: The Church at Satan's Throne* (gty.org, sermon 66-8), https://www.gty.org/sermons/66-8/pergamos-the-church-at-satans-throne
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄註釋（BECNT）中指出，巴蘭的策略之所以奏效，正是因為它不要求人公開背叛信仰，只要求人在細節上「融入」——這正是別迦摩教會，以及每個世代的教會，最容易失守的防線。
 
@@ -2289,6 +2378,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七封信中最長的一封——推雅推喇容讓耶洗別的教訓，「察驗」在此顯出主鑒察人肺腑心腸的一面，也埋下22:16「晨星」應許的伏筆。
+
 推雅推喇是七封書信中篇幅最長的一封，寫給七間教會中知名度最小、卻在某些方面最活躍的一間——她的「愛心、信心、勤勞、忍耐，又知道你末後所行的善事，比起初所行的更多」，是七間教會中唯一被稱讚「越來越好」的。然而，她卻容忍了一個自稱先知、被主直接點名為「耶洗別」的女人，引誘信徒行淫亂、吃祭偶像之物。基督在此顯現為「眼目如火燄、腳像光明銅的神之子」——這雙能洞察一切隱藏之事的眼目，正是要照透推雅推喇教會表面活躍下所掩蓋的容忍與敗壞。
 
 ---
@@ -2400,8 +2491,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -2419,15 +2511,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *An Exposition of the Old and New Testament* (Acts–Revelation volume completed by other nonconformist ministers after Henry's death, 1721)
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根將推雅推喇教會定位為教會歷史的中心時期——黑暗時代，一個無恥的淫婦篡奪了基督教會的權柄：
+
+> "The letter to the Church in Thyatira covers the central period in the Church's history. It was again a period of persecution. It covered what we speak of as the Dark Ages, in which a shameless harlot had usurped power in the Church of Jesus Christ."
+>
+> 中譯：給推雅推喇教會的信涵蓋的是教會歷史的中心時期。那又是一個逼迫的時期。它涵蓋了我們所說的黑暗時代，其中一個無恥的淫婦篡奪了耶穌基督教會的權柄。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄2章, https://www.studylight.org/commentaries/eng/gcm/revelation-2.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄1-11章註釋》中指出，推雅推喇教會的悲劇不在於她缺乏愛心、信心或勤勞——她樣樣都有，甚至越來越多——她的悲劇在於，她把這一切美德用在容忍一個假先知身上，而不是用來抵擋她。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+麥克阿瑟指出，推雅推喇教會對耶洗別的態度已經不只是消極的縱容：
+
+> "Not only were they tolerating it in the church, but there were certain people in the church who were advocating it. It wasn’t just a mild tolerance, it was an advocacy."
+>
+> 中譯：他們不僅在教會裏容忍這事，教會中甚至有人在積極提倡這事。這不只是溫和的容忍，這是公開的提倡。（66-10）
+> — John MacArthur, *Thyatira: The Church That Tolerates Sin, Part 2* (gty.org, sermon 66-10), https://www.gty.org/sermons/66-10/thyatira-the-church-that-tolerates-sin-part-2
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「撒但深奧之理」很可能是耶洗別一派自己使用的語言，諷刺性地被主引用——她自稱帶領信徒進入屬靈的深處，主卻宣告，那深處不過是撒但的深處。
 
@@ -2586,6 +2692,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：「察驗」揭開最令人心驚的一種光景——按名是活的，其實是死的；主的鑑察能看透一間教會的名聲與實際之間的落差。
+
 七封信中，撒狄是唯一一封找不到一句稱讚的信。主耶穌對以弗所說「然而有一件事我要責備你」，對別迦摩、推雅推喇也是先讚後責，但對撒狄，開口就是「其實是死的」。這封最短、最嚴厲的信，卻不是要定這教會的罪就此了結——基督在此自稱「那有神的七靈和七星的」，正是啟示錄1:4、1:16「拿著七星」的同一位。祂沒有放棄這間看似死氣沉沉的教會，反而親自握著它、親自數點它剩下的幾個名字。死亡從不是基督止步的地方；祂正是「那存活的；我曾死過，現在又活了」（1:18）的那一位——連死亡都能被祂扭轉。
 
 ---
@@ -2693,8 +2801,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -2711,6 +2820,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 布靈格在他百篇啟示錄講道集中論到撒狄一信時強調，「按名是活的」正描繪了他那個時代許多徒具形式的教會——外有敬虔的規矩，內無敬虔的實際。他呼籲聽眾不要以參與教會生活為滿足，而要省察自己的行為是否「在我神面前」（3:2）——不是在人前，乃是在神眼中——被算為完全。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:1-6
+
+### 摩根 (G. Campbell Morgan)
+
+摩根將撒狄信放在教會歷史的宗教改革時期，指出這封信雖宣告教會「死了」，卻仍向著剩下的餘民說話：
+
+> "The Church was addressed as 'dead.' Yet there were things remaining which were not dead, but 'ready to die.' The address is largely to that living remnant."
+>
+> 中譯：這教會被稱為「死的」。然而仍有一些東西留存著，不是已死，卻是「將要死的」。這封信主要是對那存活的餘民說的。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄3章, https://www.studylight.org/commentaries/eng/gcm/revelation-3.html
 
 ### 當代釋經
 
@@ -2755,6 +2873,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **衣服未曾污穢的少數人**：即使在死了的教會裡，主仍點名「還有幾名是未曾污穢自己衣服的」——審判以教會為單位，記念卻以名字為單位；主的眼目從不把忠心的少數混在整體裡一併勾銷。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟用北極星作比喻，說明「按名是活的，其實是死的」何等真實：
+
+> "This church had a reputation that it was alive but in fact it was dead. Astronomers tell us that the light from the polar star takes 33 years to reach the earth. What that means is that that star could have been plunged into darkness 30 years ago and its light would still be pouring down to earth. It would be shining in the sky tonight as brightly as if nothing had happened. It could be a dead star, but for over 30 years, we wouldn’t know it was dead."
+>
+> 中譯：這教會擁有「活著」的名聲，但事實上它是死的。天文學家告訴我們，北極星的光要三十三年才能到達地球。這意味著，那顆星可能三十年前就已經熄滅陷入黑暗，它的光卻仍持續照射到地球。今夜它仍會在天空中發亮，彷彿甚麼事都沒發生過。它可能是一顆死星，但長達三十多年，我們卻無從知道它已經死了。（66-11）
+> — John MacArthur, "Sardis: The Dead Church" (gty.org, sermon 66-11), https://www.gty.org/sermons/66-11/sardis-the-dead-church
 
 ### 老弟兄查經：撒狄教會 (Ask Elder Wong)
 
@@ -2876,6 +3001,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：力量微小卻持守主道的非拉鐵非，是七封信中與撒狄相對的另一極——「察驗」不只定罪，也印證忠心。
+
 七封信中，非拉鐵非與士每拿是僅有的兩間沒有受到任何責備的教會——而非拉鐵非收到的稱讚也最溫柔懇切。這間教會「略有一點力量」，論人數、論資源，都不是亞細亞七城中最起眼的一個，卻蒙基督親自稱許「你既遵守我忍耐的道」。基督在此自稱「那聖潔、真實、拿著大衛的鑰匙、開了就沒有人能關、關了就沒有人能開的」——這呼應以賽亞書22:22以利亞敬掌管王家鑰匙的職分，宣告祂對進入神國度的門戶擁有絕對的權柄。一個「略有一點力量」的教會，若單靠自己的力量，開不了任何一扇門；但基督親自為他們開了一扇「無人能關」的門——這正是全信的核心：不是這教會有多強大，而是這教會所倚靠的那一位有多信實。
 
 ---
@@ -2982,8 +3109,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -3000,6 +3128,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 布靈格在講論非拉鐵非信時提醒會眾，這封信證明教會的價值不在乎外表的規模與力量，而在乎對主道的持守；「略有一點力量」的教會，若忠心到底，所得的稱許與應許，並不亞於任何看似強大的群體——這是對他那個時代許多弱小、卻持守純正信仰的改教會眾極大的鼓勵。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:7-13
+
+### 摩根 (G. Campbell Morgan)
+
+摩根把非拉鐵非信放在教會歷史中「大復興」的時期，指出這是教會與主同工最緊密的一段時光：
+
+> "The letter to the Church at Philadelphia covers the great period of evangelization which, ushered in by the Puritan movement, broke into its full power in the Evangelical Revival. In this time the Church is seen following her Lord as never before and cooperating with Him in His purposes."
+>
+> 中譯：非拉鐵非教會的信涵蓋了大復興傳福音的時期——由清教徒運動所開啟，並在福音大復興中發揮出全部的力量。在這段時期，教會空前地跟隨她的主，並與祂的旨意同工。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄3章, https://www.studylight.org/commentaries/eng/gcm/revelation-3.html
 
 ### 當代釋經
 
@@ -3044,6 +3181,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **聖殿中的柱子，永不再出去**：非拉鐵非屢遭地震，居民一次次逃出城外。他指出 3:12 的應許正對著這個創傷說話：得勝者要作神殿中的柱子，「他也必不再從那裡出去」——永不再逃難的家。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟強調，基督在這封信裡對非拉鐵非教會的評語，是七封信中最沒有保留的稱許：
+
+> "The Lord Himself looks and sees nothing lacking. The key opened salvation, the key opened blessing, the key opened tremendous evangelistic opportunity. The Lord saw nothing to rebuke."
+>
+> 中譯：主親自察看，看不到任何缺欠。這鑰匙開了救恩之門，開了福分之門，也開了極大的傳福音機會之門。主找不到任何要責備的地方。（66-13）
+> — John MacArthur, "Philadelphia: The Faithful Church, Part 2" (gty.org, sermon 66-13), https://www.gty.org/sermons/66-13/philadelphia-the-faithful-church-part-2
 
 ### 老弟兄查經：非拉鐵非教會 (Ask Elder Wong)
 
@@ -3165,6 +3309,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七封信的終站——老底嘉的不冷不熱，把「察驗」這一步推到最尖銳之處；第4章隨即轉入天上的寶座，教會的光景與天上的掌權由此並列對照。
+
 七封信以老底嘉作結，也以最令人不安的一句話作結：「我必從我口中把你吐出去。」這是七封信中唯一一封基督說「我一無所稱讚」的信——不是因為外面的逼迫、也不是因為異端滲透，而是因為這教會富足自滿，渾然不覺自己「困苦、可憐、貧窮、瞎眼、赤身」。然而，正是這封最嚴厲的信，卻收束在全啟示錄最溫柔的一句邀請：「看哪，我站在門外叩門」。基督沒有選擇強行破門而入，祂敲門、祂等候、祂邀請——即使面對一間祂幾乎要吐出去的教會，祂仍站在門外，願意「進到他那裡去」，與他「一同坐席」。審判的嚴厲與愛的溫柔，在這封信裡並存，正顯明基督對祂教會不離不棄的心腸。
 
 ---
@@ -3274,8 +3420,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -3292,6 +3439,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 布靈格在論到老底嘉信時特別提醒，物質的富足是這封信中隱藏的主角——老底嘉人正是因為在地上樣樣不缺，才對屬靈的匱乏毫無知覺；他呼籲信徒不要以世上的順利與豐足，作為衡量自己與神關係是否健康的標準，反倒要常常省察內心對真理的熱切程度。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:14-22
+
+### 摩根 (G. Campbell Morgan)
+
+摩根把老底嘉信放在教會歷史最末後、主再來之前的時期，形容這是一幅黑暗淒涼的畫面：
+
+> "The letter to the Church at Laodicea describes the final period prior to the advent of the Lord. It is, indeed, a dark and terrible picture. The Church is seen in a lukewarm condition. It is, however, the Church of the excluded Christ. Nevertheless, though excluded, He waits, knocking at the door and seeking admission."
+>
+> 中譯：老底嘉教會的信描繪了主降臨之前的最後時期。這確實是一幅黑暗淒涼的畫面。教會被看見處於不冷不熱的狀態。然而，這是被排除在外的基督之教會。儘管被排除在外，祂仍等候著，叩門，尋求被接納進入。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄3章, https://www.studylight.org/commentaries/eng/gcm/revelation-3.html
 
 ### 當代釋經
 
@@ -3336,6 +3492,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **向自我感覺良好者開的藥方**：「你說我是富足……卻不知道你是那困苦、可憐、貧窮、瞎眼、赤身的」——他指出 3:17 是全聖經對宗教式自滿最徹底的一份診斷書，而 3:18 的「買金子、白衣、眼藥」全指向唯獨基督能給的救恩。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟指出，老底嘉信在七封信中獨佔的悲劇地位，是基督對這間教會一無稱讚：
+
+> "Laodicea has the grim distinction of being, among all seven letters, the only one in which Christ has nothing good to say. It is unmitigated, unspared condemnation. There is in this church, apparently, absolutely no redeeming feature."
+>
+> 中譯：老底嘉在七封信中獨佔一項悲慘的殊榮——是唯一一封基督沒有一句好話可說的信。這是毫無緩和、毫不留情的責備。這間教會裡，顯然完全沒有一絲可取之處。（66-14）
+> — John MacArthur, "Laodicea: The Lukewarm Church, Part 1" (gty.org, sermon 66-14), https://www.gty.org/sermons/66-14/laodicea-the-lukewarm-church-part-1
 
 ### 老弟兄查經：老底嘉教會 (Ask Elder Wong)
 
@@ -3450,7 +3613,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 # 卷三 · 寶座與羔羊 (The Throne and the Lamb) · 4-5章
 
-> 地上風浪之前，先看天上的寶座。聽見的是獅子，看見的卻是羔羊。
+> 地上風浪之前，先看天上的寶座。聽見的是獅子，看見的卻是羔羊。啟示的次序·第三步：掌權——地上風浪之前，天上的寶座已經立定。
 
 | | |
 |---|---|
@@ -3468,6 +3631,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **經文核對**：[ai-eden.com/bible/revelation/4](https://www.ai-eden.com/bible/revelation/4?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **全書座標**：全書第三步「掌權」由此開始——七教會的光景交代完畢，鏡頭一轉，讀者被提到天上，先看見寶座，然後才看見接下來一切審判與爭戰的根基。
 
 七封信結束後，場景陡然一變：「此後，我觀看，見天上有門開了」——約翰被提到天上，眼前展開的不再是七個地上教會的光景，而是宇宙的中心：一個寶座，一位坐在其上的。整卷啟示錄接下來所有的審判、爭戰、災難，都要從這一幕出發才能被正確理解——無論地上的局勢看來多麼混亂失控，天上的寶座從未空置，也從未動搖。第4章本身還沒有出現羔羊（那要留到第5章），這一章單單定睛在「坐寶座的」身上，讓讀者在看見任何審判或爭戰之前，先看清楚：誰才是真正掌權的那一位。這正是啟示錄「寶座的核心地位」在全書中的起點，也是整卷書得以承受一切震撼異象的根基。
 
@@ -3578,8 +3743,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -3596,6 +3762,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 布靈格在講論第4章時強調，約翰蒙召「上到這裡來」看見天上的異象，正是要讓地上受逼迫的教會明白：他們眼前所受的苦難，絕非出於失控的偶然，而是在一位坐寶座者的主權之下發生的；一切敬拜、一切安慰，都要從仰望這寶座開始，而非單單凝視地上紛擾的局勢。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 4
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，第4章讓我們看見的，是基督掌管萬事的啟示，而整幅異象的焦點單單在那坐寶座者身上：
+
+> "This chapter introduces us to the Revelation of Christ in His government of all world affairs in which a most remarkable vision of the heavenly order is presented to us. Everything is seen as surrounding the throne."
+>
+> 中譯：這一章向我們展開基督掌管萬事的啟示，其中呈現出一幅極其奇妙的天上秩序的異象。一切都被看見圍繞著那寶座。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄4章, https://www.studylight.org/commentaries/eng/gcm/revelation-4.html
 
 ### 當代釋經
 
@@ -3640,6 +3815,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **敬拜聚焦於創造主權**：他提醒，4:11 的頌讚只講創造、未及救贖——那要留到第5章。敬拜的次序是先承認「萬物是因你的旨意被創造而有的」，這是一切後續審判合法性的根基：審判者本是萬有的主。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟將約翰被提到天上的經歷，與保羅在哥林多後書所述的經歷並列，強調約翰所領受的獨特使命：
+
+> "But there was another who was taken to heaven, and that is John, and we find that occasion in chapter 4 of Revelation in our text. John not only was caught up into heaven but he was commanded to write it."
+>
+> 中譯：但還有另一位曾被帶到天上的人，就是約翰，我們在啟示錄第4章的經文中看見這一幕。約翰不僅被提到天上，他更被命令要把它寫下來。（66-16）
+> — John MacArthur, "A Trip to Heaven, Part 1" (gty.org, sermon 66-16), https://www.gty.org/sermons/66-16/a-trip-to-heaven-part-1
 
 ### 老弟兄查經：天上的寶座 (Ask Elder Wong)
 
@@ -3761,6 +3943,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：「掌權」的核心一幕——寶座本身還不足以展開審判，直到配得展開書卷的羔羊出現；聽見的是獅子，看見的卻是被殺的羔羊，這是全書「羔羊骨幹」的起點。
+
 第4章讓我們看見寶座，第5章讓我們看見寶座旁邊那道無人能解的難題：一卷用七印封嚴的書卷，天上地下沒有一位配展開、配觀看。約翰因此「大哭」——這哭聲道出了整個受造界面對神救贖計劃時的絕望：若沒有人配打開這書卷，神永恆的計劃將如何成就？然而，就在這絕望的頂點，長老宣告：「猶大支派中的獅子……他已得勝」。可是當約翰轉頭要看那頭得勝的獅子時，他看見的卻是「羔羊站立，像是被殺過的」——這是啟示錄最震撼的一次「聽見與看見」的反轉：他聽見的是獅子，看見的卻是羔羊。得勝的方式，不是憑武力征服，而是憑捨命流血。這正是整卷啟示錄基督論的核心：那配展開歷史書卷的君王，是一隻被殺過的羔羊。
 
 ---
@@ -3871,8 +4055,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -3889,6 +4074,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 布靈格在講論第5章時指出，約翰「聽見獅子、看見羔羊」的落差，正是要教導教會：世人所期待的得勝方式（權柄、武力、征服），與神藉基督成就得勝的方式（捨命、流血、受死），常常大相逕庭；唯有謙卑接受十字架的道路，才能真正認識這位配展開歷史書卷的主。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 5
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，第5章所啟示的，是神將地上執政的權柄交託給基督——這與第4章所揭示「坐寶座者」的權柄同等榮耀：
+
+> "In this chapter we have John's vision of the heavenly arrangement for earthly administration. The program lies in the hand of the One who sits on the throne. It is written, but sealed, and none can know it."
+>
+> 中譯：這一章記載約翰所看見天上為地上治理所作的安排的異象。這計劃掌握在那坐寶座者的手中。它已被寫成，卻被封住，無人能知道其中的內容。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄5章, https://www.studylight.org/commentaries/eng/gcm/revelation-5.html
 
 ### 當代釋經
 
@@ -3933,6 +4127,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **「新歌」的救贖範圍**：5:9「從各族、各方、各民、各國中買了人來」——他指出這節推翻一切狹隘的救恩觀：寶座前的敬拜群體從起初就是萬族的，宣教不是教會的附加項目，是羔羊配得敬拜的理由之一。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟解釋書卷的性質，正是全宇宙的地契，唯獨羔羊有權柄取回：
+
+> "In the upturned palm of God we see this little scroll. This is the title deed to the universe. God has it. It is rightfully His."
+>
+> 中譯：在神那攤開向上的手掌中，我們看見這卷小書卷。這是全宇宙的地契。神擁有它。它理所當然屬於祂。（66-21）
+> — John MacArthur, "A Vision of the Lamb, Part 2" (gty.org, sermon 66-21), https://www.gty.org/sermons/66-21/a-vision-of-the-lamb-part-2
 
 ### 老弟兄查經：配得展開書卷的羔羊 (Ask Elder Wong)
 
@@ -4047,7 +4248,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 # 卷四 · 七印七號——審判的展開 (Seals and Trumpets) · 6-11章
 
-> 羔羊揭印，天使吹號。審判層層加深，恩典的印記卻先蓋在額上。
+> 羔羊揭印，天使吹號。審判層層加深，恩典的印記卻先蓋在額上。啟示的次序·第四步：審判與保守——神的忿怒展開之前，先印上祂百姓的額。
 
 | | |
 |---|---|
@@ -4065,6 +4266,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **經文核對**：[ai-eden.com/bible/revelation/6](https://www.ai-eden.com/bible/revelation/6?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **全書座標**：全書第四步「審判與保守」由此展開——羔羊親手揭開前六印，審判由救贖主的手發動，而非脫離祂的掌控。
 
 第五章的敬拜還在耳畔迴盪——「你配拿書卷，配揭開七印」——第六章立刻讓我們看見這配得的羔羊親自動手。四匹馬依序奔出，不是脫離掌控的災難，而是羔羊一印一印親手揭開的歷史進程。這正是啟示錄最容易被誤解、卻最需要被領受的一點：審判不是脫離基督掌權的失控局面，審判本身就是基督掌權的具體彰顯。第五印下殉道者的呼喊、第六印下天地的震動，都在同一位揭卷者手中依序展開。羔羊不是被歷史推著走的旁觀者，祂是歷史的執筆者。
 
@@ -4189,8 +4392,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -4207,6 +4411,15 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 亨利在他的聖經註釋中強調，四印的次序本身就是一篇道德教訓：爭戰之後必有饑荒，饑荒之後必有瘟疫死亡——神容許這條因果鏈按自然的軌跡展開，為要讓世人看見悖逆神所結出的，不過是一連串彼此加增的苦果，而非隨機的厄運。
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 6
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，第一印揭開時，約翰所看見的，是撒但對基督最徹底的仿冒者：
+
+> "The apostle heard the voice of one crying, 'Come,' and he beheld one who symbolized kingliness and goes 'forth conquering, and to conquer.' This is the Antichrist, Satan's most complete counterfeit of the Christ Himself."
+>
+> 中譯：這位使徒聽見有聲音喊著「來」，他看見一位象徵著君王氣派、「出去征戰，得勝又得勝」的騎士。這就是敵基督，是撒但對基督自己最徹底的仿冒。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄6章, https://www.studylight.org/commentaries/eng/gcm/revelation-6.html
 
 ### 當代釋經
 
@@ -4251,6 +4464,13 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **第六印下人人都成了神學家**：6:16-17 山崩地裂之際，藏躲的人準確說出「羔羊忿怒的大日到了，誰能站得住呢」——他指出：到那日沒有無神論者，只有太遲的承認者；問題從來不是知不知道，而是肯不肯悔改。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟解釋，書卷所象徵的全宇宙地契，必須從篡奪者撒但手中取回，而唯獨羔羊有這權柄與能力：
+
+> "It has to be taken back from the usurper Satan and all his cronies. The Lamb, the Lion of the tribe of Judah comes forth and takes the scroll. He is worthy, and He is able. He has a right to inherit the universe; He has the power to take it."
+>
+> 中譯：它必須從篡奪者撒但和牠的黨羽手中奪回。羔羊，那猶大支派的獅子，前來取了書卷。祂是配得的，祂也是能夠的。祂有權柄承受這宇宙；祂也有能力取回它。（66-23）
+> — John MacArthur, "The Coming of World Peace" (gty.org, sermon 66-23), https://www.gty.org/sermons/66-23/the-coming-of-world-peace
 
 ### 老弟兄查經：六印的災禍 (Ask Elder Wong)
 
@@ -4374,6 +4594,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：承接第六印的天搖地動——在天使釋放傷害全地的風以先，神先吩咐要保守祂僕人額上有印；「保守」先於審判的進一步展開，不是審判之後的補救。
+
 第六印下，世人驚恐地問「誰能站得住呢」，第七章立刻給出答案：站得住的，是那些被神親自印記、被羔羊的血洗淨的人。這一章是六印與七印之間的插曲，卻是全書情感最溫柔的高峰之一——從精確計數的十四萬四千，到「沒有人能數過來」的大群眾，鏡頭從嚴謹的次序轉向壯闊的敬拜。無論是精確的數字還是無法計數的群眾，焦點始終落在同一位：「坐寶座的羔羊」，祂親自牧養、親自擦去他們一切的眼淚。
 
 ---
@@ -4490,8 +4712,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -4509,13 +4732,27 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 7
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根論這大群人的特質，指出這群人多元卻合一——地上的差異被帶進天上的和諧：
+
+> "It is that of a multitude so great that no man could number it. The multitude was diverse and yet unified."
+>
+> 中譯：這是一群多得不可勝數的群眾。這群眾雖然多元，卻是合一的。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄7章, https://www.studylight.org/commentaries/eng/gcm/revelation-7.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，這一大群人不能被計數，不是因為約翰懶得數算，而是因為救贖的浩大超越了人類語言與想像的極限——這是神百姓最終榮耀的預覽，是每一位真信徒都當存記在心的盼望。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟在講道中特別分辨十四萬四千人與這大群人的不同，其中一項關鍵差異就在於「數目」本身：
+
+> "the number of people here is indefinite, and the number of people in the prior vision is definite: 144,000."
+>
+> 中譯：這裏的人數是不確定的，而先前異象裏的人數是確定的：十四萬四千人。（66-29）
+> — John MacArthur, "Tribulation Saints, Part 1" (gty.org, sermon 66-29), https://www.gty.org/sermons/66-29/tribulation-saints-part-1
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
@@ -4678,6 +4915,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：第七印揭開，天上寂靜半小時——審判加劇之前，先有敬拜與代求，「審判與保守」這一步在寂靜中稍作停頓，隨即轉入七號。
+
 七印的系列在最高潮處，卻給出全書最出人意料的一幕：不是雷轟閃電，而是「天上寂靜約有二刻」。這寂靜不是空白，而是懸念——是羔羊揭開最後一印之後，全天庭屏息等候接下來要展開的七號審判。緊接著寂靜之後，是眾聖徒的祈禱與香一同升到神面前的畫面：原來這靜默的核心，是神俯聽祂百姓禱告的那一刻。羔羊掌權，不只是展開審判的次序，也包括為祂百姓的呼求留出被聽見的空間。
 
 ---
@@ -4783,8 +5022,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -4802,13 +5042,27 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 8
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根將天上的寂靜與地上的喧嚷對照，指出這正是全書從審判轉向號筒的樞紐：
+
+> "On earth uproar and strife follow as at Babel, but in heaven silence for half an hour."
+>
+> 中譯：地上隨之而來的是如巴別塔般的喧嚷與紛爭，但天上卻有半小時之久的寂靜。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄8章, https://www.studylight.org/commentaries/eng/gcm/revelation-8.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟形容，這二刻的寂靜，是全宇宙在審判即將傾倒之前所能有的最莊嚴時刻——連天使都屏住了讚美的聲音，等候神接下來的作為。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟在講道中指出，這寂靜是天地角色的徹底倒轉——人一向抱怨神的沉默，如今輪到受造界肅靜，等候神說話：
+
+> "Up till then, in some ways angels and men have been noisy, but God has been silent. And now God is about to speak in the full fury of judgment, and angels and redeemed men in heaven are silent. The tables are turned."
+>
+> 中譯：在此之前，某種意義上天使與人一直是喧嚷的，但神卻是沉靜的。如今神即將在審判的烈怒中說話，天上的天使與蒙贖的人卻沉靜下來——局面完全倒轉了。（66-31）
+> — John MacArthur, "The Seventh Seal" (gty.org, sermon 66-31), https://www.gty.org/sermons/66-31/the-seventh-seal
 
 **G.K.畢爾 (G.K. Beale)**：
 
@@ -4967,6 +5221,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七號審判的前四號——三分之一的節制顯明審判中仍有神的憐憫，「保守」的原則延續到號筒的審判裏。
+
 天上的寂靜結束了，七枝號依次吹響。前四號的審判擊打自然界——地、海、江河泉源、日月星辰，各遭三分之一的損害——這幅圖畫深深回響著出埃及記中神藉十災審判埃及、拯救以色列的敘事。羔羊揭開的書卷，如今透過號角的宣告，把審判的火從祭壇（8:5）延伸到全地。這不是失控的天災，而是那位配得書卷的羔羊，藉著受造界本身，向悖逆的世界發出警告——目的不是毀滅到底，而是留下悔改的空間，正如埃及的十災每一次都在給法老悔改的機會。
 
 ---
@@ -5087,8 +5343,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -5106,13 +5363,27 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 8
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，四支號筒的每一擊都是神向那忽視祂寶座與權能之人說話：
+
+> "Through all these movements God is seen speaking to men of His throne and His power, which they have ignored. They all describe the operations of punitive judgment."
+>
+> 中譯：在這一切變動之中，神向那些一直忽視祂寶座與權能的人說話。這些都在描述懲罰性審判的運作。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄8章, https://www.studylight.org/commentaries/eng/gcm/revelation-8.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，這些審判與埃及十災的相似之處絕非巧合——神再一次向全地施行審判，為要顯明祂的主權，也為要在審判中留下憐憫與呼召悔改的空間。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟提醒，這些審判從來不是神突然的襲擊，而是早已反覆警告過的結局：
+
+> "These are not things that God has intended to surprise people with. After all, there it is, right? Over and over and over the warning is there."
+>
+> 中譯：這些事並不是神打算用來使人措手不及的。畢竟，警告一直都在那裏，不是嗎？一次又一次、再一次，警告都在那裏。（66-32）
+> — John MacArthur, "Divine Destruction of Earth's Ecology" (gty.org, sermon 66-32), https://www.gty.org/sermons/66-32/divine-destruction-of-earths-ecology
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
@@ -5271,6 +5542,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：第五、六號的蝗蟲與馬軍——第六號的馬軍奪去三分之一人的性命，人心仍不悔改，「審判與保守」這一步在此顯出人性的頑梗如何回應神的憐憫。
+
 空中飛鷹的三重「禍哉」在這一章開始應驗。前四號擊打自然界，第五、六號卻直接轉向人——先是無底坑放出的蝗蟲軍團，折磨沒有神印記的人五個月；接著是二億騎兵，殺死三分之一的人類。這一章的意象極其恐怖，卻在末了留下全書最沉痛的一句話：「其餘未曾被這些災所殺的人仍不悔改。」羔羊容許這樣劇烈的審判展開，不是因為祂殘忍，而正是因為祂深知：連地獄般的痛苦，都無法憑自身力量軟化一顆堅硬到底的人心——唯有恩典才能。
 
 ---
@@ -5388,8 +5661,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -5407,13 +5681,27 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 9
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，這一章結束時最可怕的宣告，不是死亡的浩劫本身，而是浩劫過後人心依然不悔改：
+
+> "Notwithstanding the awful dispensation of death, men unsmitten will not repent, but will continue in the same demon worship, with its consequent sins of murder, sorcery, and fornication."
+>
+> 中譯：儘管有這可怕的死亡浩劫，未被擊打的人仍不悔改，反倒繼續同樣的拜鬼行為，並隨之而來的兇殺、邪術與淫亂之罪。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄9章, https://www.studylight.org/commentaries/eng/gcm/revelation-9.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，這一章最令人心碎的，不是蝗蟲或馬軍的恐怖描繪，而是最後兩節經文：即使親眼目睹三分之一人類死亡的浩劫，倖存者依然拒絕悔改——這是罪如何徹底蒙蔽人心的最有力見證。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟講到倖存的三分之二人類仍不肯悔改時，直言這是人心剛硬到令人難以想像的地步：
+
+> "But there's still a mass of humanity that will not believe. It's amazing the hardness of heart."
+>
+> 中譯：但仍有一大群人類不肯相信。人心的剛硬令人驚訝。（66-34）
+> — John MacArthur, "Satanic Slaughter" (gty.org, sermon 66-34), https://www.gty.org/sermons/66-34/satanic-slaughter
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
@@ -5572,6 +5860,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七號中途的插曲——天使與小書卷，約翰被差去傳講甜中帶苦的信息，為第11章兩個見證人的出場預備場景。
+
 七號之間，敘事忽然停頓——約翰不是繼續數算災禍，而是被帶到一幕插曲：一位大力的天使從天降下，「披著雲彩，頭上有虹，臉面像日頭，兩腳像火柱」。這些描述與啟示錄1章榮耀基督的異象、與出埃及記雲柱火柱的引導遙相呼應，讓讀者一再確認：無論審判如何加劇，掌管一切、親自引導祂百姓的那一位，從未離開祂的寶座，也從未離開祂的百姓。這位天使右腳踏海、左腳踏地，宣告「不再有時日了」——那掌管海洋與陸地、時間本身的主權，正是這卷書從頭到尾唯一的焦點。
 
 ---
@@ -5684,8 +5974,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -5703,13 +5994,27 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 10
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，吃書卷這個意象，正是靈魂在神話語裏得餵養的圖畫：
+
+> "This figure of eating the book is familiar, and suggests the feeding of the soul on the Word of God. It is to that that the seer was called anew."
+>
+> 中譯：吃書卷這個圖像是熟悉的，它所暗示的，是靈魂在神話語中得餵養。先見正是被重新召去經歷這事。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄10章, https://www.studylight.org/commentaries/eng/gcm/revelation-10.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在他的注釋中指出，約翰吃書卷的經歷教導了一個重要的功課：神的話語必須先被個人領受、消化、成為自己生命的一部分，然後才能被傳講出去；傳講神話語的人，必須先是領受神話語的人。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟在講道中解釋「吃書卷」這個動作，為的是說明領受神話語真理時那份甘甜：
+
+> "Just to illustrate how sweet it is when someone devours its truth. Why is it sweet? Because like all believers, John is waiting for the Lord to act."
+>
+> 中譯：這只是要說明，當人吞下這真理時，是何等甘甜。為甚麼甘甜？因為像所有信徒一樣，約翰正等候主行動。（66-35）
+> — John MacArthur, "When God Breaks His Silence" (gty.org, sermon 66-35), https://www.gty.org/sermons/66-35/when-god-breaks-his-silence
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
@@ -5865,6 +6170,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：兩個見證人被殺又復活升天，是「審判與保守」這一步進入尾聲前教會見證最集中的縮影，苦難與得勝並存；第七號一吹（下一段），這一步才真正完結。
+
 兩個見證人的故事，是啟示錄中最戲劇化的一幕：他們傳道、受逼迫、被殺、暴屍街頭、又復活升天——整個過程濃縮了教會歷史的完整弧線。但焦點不在這兩位見證人本身，而在他們所見證的那一位。他們「穿著毛衣」傳道，正如以利亞與施洗約翰的裝束；他們的死而復活，正是主自己死而復活的縮影；他們升天時「駕著雲」，正呼應主耶穌自己「駕雲降臨」的應許（1:7）。這段經文告訴我們：教會的見證之所以有能力、之所以最終得勝，不是因為見證人本身有多剛強，而是因為他們所指向、所效法的那一位，早已親自走過死亡又得勝死亡的道路。
 
 ---
@@ -5974,8 +6281,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -5999,13 +6307,27 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 11
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根指出，兩位見證人終必復活，神藉他們讓真理的超自然事工與邪靈權勢的超自然影響正面對照：
+
+> "Ultimately, the witnesses are raised from the dead and taken into the heavenly places. Through them God sets the supernatural ministry of truth over against the supernatural influences of demon power and worship."
+>
+> 中譯：最終，這兩位見證人從死裏復活，被接到天上的所在。神藉著他們，使真理的超自然事工，與邪靈權勢及其崇拜的超自然影響正面對照。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄11章, https://www.studylight.org/commentaries/eng/gcm/revelation-11.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟認為，兩個見證人的故事是整本啟示錄中最鼓舞人心的一幕之一：它向每一個世代的信徒證明，看似最終的失敗——甚至死亡——都不是神計劃的終點；神的見證人可能被壓制、被殺害，但永遠不會被最終擊敗。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟在講到兩位見證人的死亡之後，特別停下來說他多麼喜愛接下來要看見的復活場景：
+
+> "So we see their task, their attitude, their identity, their power, and their death. Now I want you to see their resurrection. I love this."
+>
+> 中譯：於是我們看見了他們的任務、他們的態度、他們的身分、他們的能力，以及他們的死亡。現在我要你們看他們的復活。我太喜歡這一段了。（66-38）
+> — John MacArthur, "Two Witnesses, Part 3" (gty.org, sermon 66-38), https://www.gty.org/sermons/66-38/two-witnesses-part-3
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
@@ -6161,6 +6483,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：第七號吹響，「世上的國成了我主和主基督的國」——全書第四步「審判與保守」在此正式完結，下一卷隨即揭開幔子後的宇宙爭戰。
+
 七號吹到最後一聲，天上沒有再降下一個新的災禍，而是響起一句宣告：「世上的國成了我主和主基督的國；他要作王，直到永永遠遠。」這是全書的一個高峰——不是審判的高峰，而是掌權的高峰。二十四位長老立刻俯伏敬拜，不是因為看見了毀滅，而是因為看見了那早已屬於基督、如今被公開宣告的王權終於臨到。這節經文濃縮了啟示錄的核心信息：世界的歷史，無論表面上如何被列國、掌權者所左右，最終的主權，從創世以來就屬於那位「昔在、今在」的主和祂的基督。
 
 ---
@@ -6264,8 +6588,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -6282,6 +6607,24 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 布靈格特別強調這節經文對受苦教會的安慰：即使外邦發怒、逼迫加劇，神的忿怒與審判必然臨到那些逼迫者，而祂的僕人終必得著賞賜——這是支撐宗教改革時期眾多受逼迫信徒的重要盼望。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 11
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，第七號吹響時，天上宣告的不是又一場審判，而是掌權的完成，長老們俯伏敬拜正是因這宣告而起：
+
+> "Voices in heaven declare that the rule of the world has been taken over by God and His Christ. The occasion gives cause for profoundest thankfulness, and the elders in the presence of the Supreme Royalty fall on their faces and worship."
+>
+> 中譯：天上的聲音宣告，世界的統治權已被神和祂的基督接管。這場合帶來至深的感恩，長老們在至尊王權面前俯伏敬拜。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄11章, https://www.studylight.org/commentaries/eng/gcm/revelation-11.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論原文「執掌大權作王了」一句的希臘文語法，他在講道中逐字說明：
+
+> "Now I want you to notice how it is formulated in the Greek language. 'The kingdom of the world has become.' Now that is a very important way to express something. It is what has been called proleptic aorist, that's sort of a technical term. But it means something in the future is so sure that it can be spoken of as if it has already happened, as if it has already happened."
+>
+> 中譯：我要你們留意這句話在希臘原文的語法構造。「世上的國成了」——這是一種表達方式，被稱為「預期式簡單過去時」(proleptic aorist)，這是個專門術語。但它的意思是：將來的事極其確定，以致可以用「已經發生」的語氣來說，就好像它已經發生了一樣。（sermon 66-39）
+> — John MacArthur, "The Seventh Trumpet, Part 1" (gty.org, sermon 66-39), https://www.gty.org/sermons/66-39/the-seventh-trumpet-part-1
 
 ### 當代釋經
 
@@ -6440,7 +6783,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 # 卷五 · 宇宙的爭戰 (The Cosmic War) · 12-14章
 
-> 幔子拉開：婦人與龍、海獸與地獸、錫安山上的羔羊。爭戰的真相在此。
+> 幔子拉開：婦人與龍、海獸與地獸、錫安山上的羔羊。爭戰的真相在此。啟示的次序·第五步：爭戰——幔子拉開，讀者才看見地上風浪背後的真相。
 
 | | |
 |---|---|
@@ -6458,6 +6801,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **經文核對**：[ai-eden.com/bible/revelation/12](https://www.ai-eden.com/bible/revelation/12?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **全書座標**：全書第五步「爭戰」由此開始——幔子拉開，讀者才看見地上教會受苦背後，其實是天上婦人與龍的爭戰。
 
 啟示錄的敘事在此轉入全書的核心戰場——不是列國之間的戰爭，而是貫穿整本聖經、從創世記3:15就已宣告的那場更深的爭戰：女人的後裔與蛇之間的爭戰。婦人生了一個「將來要用鐵杖轄管萬國」的男孩子（引自詩篇2:9），龍立刻要吞吃這孩子——但孩子「被提到神寶座那裡去了」。這短短一句話，濃縮了基督降生、受死、復活、升天的整個救贖工程：仇敵想要毀滅祂，卻無法阻止祂完成救贖、登上寶座。這一章告訴我們：世界歷史真正的主軸，從來不是帝國興衰，而是這位曾被試圖吞吃、如今已坐在寶座上的基督，與那條古蛇之間的爭戰——而這場爭戰，早已在十字架上決定了結局。
 
@@ -6565,8 +6910,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -6589,6 +6935,24 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 布靈格在他的講章中，特別強調12:11「弟兄勝過他」的宣告，鼓勵當時飽受逼迫的宗教改革信徒：真正的得勝不是逃避苦難，而是靠著基督的血與堅定的見證，即使付上生命的代價也不退縮。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 12
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，這段異象所描繪的爭戰，最終的得勝憑藉不是屬地的權勢，而是羔羊的血與見證的道：
+
+> "A description is given of a conflict between principalities and powers, fallen and unfallen. Perfect victory is gained through the blood of the Lamb and His word of testimony."
+>
+> 中譯：這裏描繪了一場墮落與未墮落的執政掌權者之間的爭戰。完全的得勝，是藉著羔羊的血與祂見證的道而得的。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄12章, https://www.studylight.org/commentaries/eng/gcm/revelation-12.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論信徒得勝所憑藉的能力來源，他在講道中說：
+
+> "It is not that they had some personal power of their own. No, the weapons of our warfare are not physical or fleshly or carnal, they're spiritual and mighty, and greater is He that is in us than he that is in the world."
+>
+> 中譯：這不是說他們自己有甚麼個人的能力。不，我們爭戰的兵器不是屬物質的、屬肉體的，不是屬肉血的，而是屬靈的、且是有能力的；那在我們裡面的，比那在世界上的更大。（sermon 66-42）
+> — John MacArthur, "The War of the Ages, Part 2" (gty.org, sermon 66-42), https://www.gty.org/sermons/66-42/the-war-of-the-ages-part-2
 
 ### 當代釋經
 
@@ -6752,6 +7116,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：龍的第一個爪牙——從海中上來的獸，是政治權勢對基督權柄的仿冒，「爭戰」延伸到地上可見的政權。
+
 龍在12章戰敗之後，並未消失，而是站在海邊的沙上，召喚一個代理者登場——從海中上來的獸，擁有龍所給予的能力、座位和大權柄。這獸模仿基督：牠有「似乎受了死傷，那死傷卻醫好了」的經歷，模仿基督死而復活的樣式，企圖竊取世人的敬拜。但經文清楚指出敬拜的界線——「凡住在地上、名字從創世以來沒有記在被殺之羔羊生命冊上的人，都要拜他」。這句話把整章的焦點重新拉回：真正的問題不是這獸有多可怕，而是你的名字在不在「被殺之羔羊」的生命冊上。全章從頭到尾，都是在襯托那位真正配得敬拜的羔羊。
 
 ---
@@ -6858,8 +7224,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -6882,6 +7249,24 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 布靈格在他的講章中強調，這獸所代表的，不僅僅是某個特定的歷史人物或政權，更是每個世代都可能出現、要求人以某種形式敬拜世俗權柄、與神爭奪忠誠的體制性力量，教會需要在每個世代中保持警醒。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 13
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，這獸的本質是撒但對基督的仿冒——牠模仿君王的樣式，吸引全地驚訝跟從，最終目的是奪取敬拜：
+
+> "He appears with the signs and symbols of kingship. He is characterized by attractiveness, for the whole earth wonders after him, and is constrained to worship."
+>
+> 中譯：牠帶著王權的記號與象徵出現。牠的特徵是吸引力——全地都因牠而驚訝，並被迫向牠敬拜。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄13章, https://www.studylight.org/commentaries/eng/gcm/revelation-13.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論世人如何從驚嘆這獸，一步步走向敬拜牠，他在講道中說：
+
+> "It isn't enough to him to have acclaim, he wants adoration. ... Fascination turns to worship, acclaim turns to adoration. And in effect, whether they know it or not, ... they are worshiping Satan himself who is behind this demon-possessed individual."
+>
+> 中譯：對牠來說，得著喝采還不夠，牠要的是敬拜……著迷變成了敬拜，喝采變成了崇拜。事實上，無論他們自己知不知道……他們敬拜的其實是那位藏在這個被鬼附的人背後的撒但自己。（sermon 66-46）
+> — John MacArthur, "The Beast Out of the Sea, Part 3" (gty.org, sermon 66-46), https://www.gty.org/sermons/66-46/the-beast-out-of-the-sea-part-3
 
 ### 當代釋經
 
@@ -7045,6 +7430,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：龍的第二個爪牙——從地中上來的獸，以宗教與經濟的手段逼人敬拜第一個獸，「爭戰」延伸到人心與日常生活的抉擇。
+
 從海中上來的獸有王冠、有寶座、有權柄，一望而知是仿冒的君王；但從地中上來的這一個，樣子卻溫馴——「有兩角如同羊羔」。牠不篡奪寶座，牠只做一件事：把所有目光引向前一個獸，叫全地拜牠。這正是啟示錄最鋒利的警告：最危險的仇敵，往往不是張牙舞爪地與羔羊為敵，而是披著羔羊的樣式、說著龍的話語，把敬拜從真羔羊身上偷走。約翰在此讓我們看見，唯有那位真正被殺又真活著的羔羊，才配受敬拜；一切仿冒者，無論裝扮得多麼溫馴、多麼有能力行奇事，終究只是指向自己而非指向神的空殼。
 
 ---
@@ -7151,8 +7538,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -7169,6 +7557,24 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 在其百篇啟示錄講道集中，布靈格將地中的獸解讀為披著宗教外衣、卻服事屬世權勢的假教導體系——牠的角「如同羊羔」，正說明牠慣於借用信仰的語言與外貌，來為悖逆真道的體系背書；他提醒讀者，教會歷史一再證明，最危險的迷惑往往來自教會內部披戴著敬虔外衣的聲音，而非教會外顯而易見的敵對者。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse of Jesus Christ*, Sermon on Revelation 13
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，模仿正是撒但迷惑世人最危險的手段——牠最終要做的，是仿冒神所立那位受膏之王：
+
+> "Imitations have ever formed the gravest perils in the history of the Church and the world, and the devil's final attempt to gain the government of the race will thus be an appalling attempt to imitate the Person of God's crowned and anointed King."
+>
+> 中譯：仿冒歷來都是教會與世界歷史上最嚴重的危機，而魔鬼奪取人類治權的最終嘗試，將是一場駭人的企圖——仿冒神所立、受膏加冕之王的位格。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄13章, https://www.studylight.org/commentaries/eng/gcm/revelation-13.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論假先知使獸像說話、彷彿死而復活的騙術，他在講道中說：
+
+> "I believe what you have here is a carefully crafted resurrection, a fake resurrection, pulled off with tremendous human ingenuity and satanic skill. Not only – listen carefully – not only to imitate the Lord's resurrection, but to imitate the resurrection back in chapter 11."
+>
+> 中譯：我相信這裏所呈現的，是一場精心設計的復活——一場假的復活，靠著人的高度智巧與撒但的手段而成就。不僅如此——請仔細聽——不僅是要仿冒主的復活，也是要仿冒第十一章那裏的復活。（sermon 66-47）
+> — John MacArthur, "The Final False Prophet, Part 1" (gty.org, sermon 66-47), https://www.gty.org/sermons/66-47/the-final-false-prophet-part-1
 
 ### 當代釋經
 
@@ -7339,6 +7745,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：兩獸猖狂之後，鏡頭轉向錫安山上的羔羊與跟隨祂的十四萬四千人——「爭戰」中先讓讀者看見得勝的一方已經站穩，審判才隨後展開。
+
 十三章結束在獸與假先知營造出的巨大恐懼與經濟壓迫之中；十四章一開篇，鏡頭猛然一轉——「我又觀看，見羔羊站在錫安山」。仇敵剛剛還在地上耀武揚威，這裡卻立刻讓我們看見：羔羊已經站穩了，而且不是孤身一人，是與十四萬四千人一同站立。這是啟示錄慣用的敘事手法——每當黑暗顯得快要得勝，作者總會拉開幔子，讓我們看一眼寶座那邊早已底定的結局。羔羊站立的姿態本身就是宣告：無論獸的印記多麼具有脅迫性，真正得勝的，是站在羔羊那邊、額上寫著祂名字的人。
 
 ---
@@ -7452,8 +7860,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -7470,6 +7879,24 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 亨利在他的聖經註釋中特別看重「作工的果效也隨著他們」這句話，指出這不是說行為能使人得救，而是說信徒憑信心所結的果子——他們的忍耐、忠心、愛心——不會被審判的火燒盡，而要在永恆裡顯明並蒙記念；這對在世上勞苦卻似乎徒然的信徒，是極大的激勵。
 
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 14
+
+### 摩根 (G. Campbell Morgan)
+
+摩根描述這群站在羔羊身旁的人，最鮮明的特徵就是跟隨——無論羔羊往哪裡去，他們都跟著去：
+
+> "The redeemed are seen standing with the Lamb, a company of obedient souls who follow Him 'whithersoever He goeth.'"
+>
+> 中譯：得贖的人與羔羊同站，是一群順服的靈魂，「羔羊無論往哪裡去，他們都跟著去」。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄14章, https://www.studylight.org/commentaries/eng/gcm/revelation-14.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論這群跟隨羔羊之人的忠心，他在講道中說：
+
+> "They're partisans to the party of the Lamb. They're the ones who follow the Lamb wherever He goes."
+>
+> 中譯：他們是羔羊一黨的死忠追隨者。他們就是那些無論羔羊往哪裡去，都跟隨牠的人。（sermon 66-50）
+> — John MacArthur, "Triumphant Saints, Part 2" (gty.org, sermon 66-50), https://www.gty.org/sermons/66-50/triumphant-saints-part-2
 
 ### 當代釋經
 
@@ -7639,6 +8066,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：地上的收割與神忿怒的酒醡——「爭戰」這一步以審判的雙重意象作結，為第六步「傾倒」鋪路。
+
 三位天使的信息剛剛宣告完畢——永遠的福音、巴比倫的傾覆、拜獸者的警告——約翰的異象立刻轉向收割的畫面。雲上坐著的「好像人子」，頭戴金冠冕，手拿快鐮刀，這稱謂直接呼應啟示錄1:13約翰所見「好像人子」的那一位，也呼應但以理書7:13-14「有一位像人子的，駕著天雲而來」。收割與踹酒醡，不是兩個獨立的意象，而是同一位掌管歷史的主，用兩幅圖畫宣告同一件事：祂決定收割的時候，也決定審判的分量。這一段沒有記載祂說一句話，只記載祂「把鐮刀扔在地上」——動作本身就是宣告，比言語更直接。
 
 ---
@@ -7743,8 +8172,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -7761,6 +8191,24 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 亨利在他的《聖經註釋》論到這段經文時強調，收割與踹酒醡雖是同一時刻的兩幅圖畫，卻教導信徒兩件事：一是神的審判有祂自己定的「熟透」的時候，人無法催逼也無法拖延；二是被丟進酒醡的血流至馬嚼環之高，是要讓讀者明白，凡抵擋到底、不肯悔改的，其結局的嚴重程度遠超人所能想像。
 
 > — Matthew Henry, *An Exposition of the Old and New Testament*, Revelation
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，人子手中鐮刀的一揮，正是最終、全面審判的完美象徵：
+
+> "That sweep of the sickle in the right hand of the Son of man is a perfect symbol of the final and all-inclusive judgment."
+>
+> 中譯：人子右手中鐮刀的那一揮，正是最終、全面性審判的完美象徵。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄14章, https://www.studylight.org/commentaries/eng/gcm/revelation-14.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論基督第一次來與第二次來的對比，他在講道中說：
+
+> "The first time Jesus came to earth, He came as a servant. The next time He will come as the sovereign King. The first time Jesus came, He came as one obeying. The next time He will come as one commanding."
+>
+> 中譯：耶穌第一次來到地上，是以僕人的身分來的。祂下一次來，將是以主權之王的身分來。耶穌第一次來，是以順服者的身分來的；祂下一次來，將是以發命令者的身分來。（sermon 66-53）
+> — John MacArthur, "The Final Reaping of the Earth" (gty.org, sermon 66-53), https://www.gty.org/sermons/66-53/the-final-reaping-of-the-earth
 
 ### 當代釋經
 
@@ -7926,7 +8374,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 # 卷六 · 七碗與巴比倫的傾倒 (Bowls and Babylon) · 15-18章
 
-> 神的大怒在七碗中倒盡；大淫婦巴比倫，一時之間傾倒了。
+> 神的大怒在七碗中倒盡；大淫婦巴比倫，一時之間傾倒了。啟示的次序·第六步：傾倒——神的忿怒倒盡，人手所築的巴比倫也傾倒了。
 
 | | |
 |---|---|
@@ -7944,6 +8392,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **經文核對**：[ai-eden.com/bible/revelation/15](https://www.ai-eden.com/bible/revelation/15?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **全書座標**：全書第六步「傾倒」由此開始——得勝的人先在玻璃海上唱摩西和羔羊的歌，才輪到七位天使拿著盛滿神忿怒的七碗。
 
 在七碗傾倒之前，約翰先看見一幅出人意料的畫面：不是憤怒的天使，而是站在玻璃海上、拿著神的琴、歡唱「摩西的歌和羔羊的歌」的得勝者。審判即將臨到地上，天上卻先響起敬拜的詩歌——這個次序本身就是一篇無聲的講道：神的百姓看見的，永遠先是神自己的榮耀與公義，然後才是審判的執行。羔羊的名字與摩西的名字並列在同一首歌裡，宣告出埃及的拯救與各各他的救贖，本是同一位神、同一個計劃、同一場得勝。
 
@@ -8053,8 +8503,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -8072,13 +8523,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*
 
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，摩西的歌與羔羊的歌，其實是律法與愛在神的經營中完美交融的同一首歌：
+
+> "They sing the song of Moses, which is the song of law, and the song of the Lamb, which is the song of love. They have learned perfectly how law and love mingle and merge in the divine economy."
+>
+> 中譯：他們唱摩西的歌，就是律法的歌，也唱羔羊的歌，就是愛的歌。他們已經完全學會，律法與愛在神的經營治理中如何交融、合而為一。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄15章, https://www.studylight.org/commentaries/eng/gcm/revelation-15.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟把摩西的歌與羔羊的歌並列對照，指出兩者在救贖歷史中的呼應：
+
+> "The song of Moses was sung at the Red Sea. The song of the Lamb is sung at the crystal sea. The song of Moses was a song of triumph over Egypt. The song of the Lamb is a song of triumph over Babylon."
+>
+> 中譯：摩西的歌是在紅海邊唱的，羔羊的歌是在玻璃海上唱的。摩西的歌是戰勝埃及的凱歌，羔羊的歌是戰勝巴比倫的凱歌。（66-55）
+> — John MacArthur, "The Final Wrath of God, Part 2" (gty.org, sermon 66-55), https://www.gty.org/sermons/66-55/the-final-wrath-of-god-part-2
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，在神將要傾倒最後的忿怒之前，祂先讓天上的百姓看見一幅敬拜的畫面；他認為這教導信徒，即使面對最嚴厲的審判，神百姓的第一個反應也應該是敬拜，而不是恐懼。
-
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **羅伯特·蒙斯 (Robert Mounce)**：
 
@@ -8241,6 +8708,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七碗傾倒淨盡，「成了」——審判的「成了」在此出現，呼應十字架上救贖的「成了」，兩者是同一位主的兩面。
+
 七碗是啟示錄三個七之中最後、最猛烈的一組審判——七印揭開了序幕，七號吹響了警告，七碗則是「神大怒的終局」（15:1）。這一章沒有出現羔羊的名字，卻處處是羔羊配得敬拜之後（15章）必然的結果：一位配得敬拜的神，也必然是一位施行公義審判的神。第17節那句「成了！」（*Gegonen*）預告了十字架上「成了」（19:30，*Tetelestai*）的終極應驗——救贖已然「成了」，審判也終將「成了」，兩者出於同一位掌管歷史的主。
 
 ---
@@ -8364,8 +8833,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -8383,13 +8853,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *An Exposition of the Old and New Testament*, Revelation
 
+### 摩根 (G. Campbell Morgan)
+
+摩根同樣留意到第五碗傾倒之後，人非但沒有悔改，反而褻瀆神：
+
+> "Notwithstanding the unimaginable terror of their condition, the evil men still 'blasphemed the God of heaven,' and 'they repented not of their works.'"
+>
+> 中譯：儘管處境的恐怖難以想像，那些惡人仍然「褻瀆天上的神」，「並不悔改所行的」。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄16章, https://www.studylight.org/commentaries/eng/gcm/revelation-16.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟指出，三次「並不悔改」揭示的是人心徹底剛硬、無法被外在災難撬動的光景：
+
+> "They are so in love with sin, they are so committed to hell and Satan and Antichrist and demons that though they see the hand of God, they feel the judgment of God, they will still not repent."
+>
+> 中譯：他們如此愛戀罪惡，如此委身於地獄、撒但、antichrist與群魔，以致即使看見神的手、感受到神的審判，仍然不肯悔改。（66-56）
+> — John MacArthur, "The Seven Bowl Judgments, Part 1" (gty.org, sermon 66-56), https://www.gty.org/sermons/66-56/the-seven-bowl-judgments-part-1
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟認為，三次「並不悔改」的記載是整本啟示錄裡最令人心碎的經文之一，印證了羅馬書1章所描述的光景：人心一旦被交在剛硬之中，即使面對最直接的神聖審判，仍會選擇褻瀆而非降服。
-
-> — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
@@ -8553,6 +9039,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：大淫婦巴比倫的奧秘被揭開——「傾倒」這一步從神忿怒的七碗，轉向仇敵體系本身的瓦解。
+
 這章描繪了一幅極其墮落的畫面——一個坐在獸上、穿戴奢華、喝醉了聖徒之血的淫婦。但在這幅陰暗的圖畫正中央，經文突然亮起一句宣告：「他們與羔羊爭戰，羔羊必勝過他們，因為羔羊是萬主之主、萬王之王」（14節）。這是整章唯一的光——所有的權勢、聯盟、榮華、逼迫，最終都要面對這位羔羊，而結局早已註定：羔羊必得勝。這提醒我們，啟示錄描繪罪惡的黑暗，從來不是為了讓讀者絕望，而是為了襯托那唯一配得敬拜、且必然得勝的羔羊。
 
 ---
@@ -8661,8 +9149,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -8686,13 +9175,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 17
 
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，巴比倫所代表的，遠遠超過一座城市或一個政權：
+
+> "Babylon stands for the whole system of organized godlessness in the history of the human race."
+>
+> 中譯：巴比倫代表的，是人類歷史中一整套組織化的無神體制。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄17章, https://www.studylight.org/commentaries/eng/gcm/revelation-17.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟指出，羔羊得勝是貫穿全書反覆出現的主題：
+
+> "The Lamb will overcome them. That is the repeated theme of the book of Revelation, that the Lamb will be unveiled, the Lamb will be revealed, the Lamb will triumph."
+>
+> 中譯：羔羊必勝過他們。這是啟示錄反覆出現的主題——羔羊要被揭開、要被顯明、要得勝。（66-62）
+> — John MacArthur, "The Destruction of the Final World Religion, Part 4" (gty.org, sermon 66-62), https://www.gty.org/sermons/66-62/the-destruction-of-the-final-world-religion-part-4
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟在其註釋中指出，巴比倫所代表的，是一切誘惑人離棄神、追求世俗奢華與權勢的體制性力量；這股力量看似強大、看似永恆，但14節清楚宣告牠終必面對羔羊，而羔羊必得勝。
-
-> — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
@@ -8848,6 +9353,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：巴比倫傾倒了——「我的民哪，你們要從那城出來」，全書第六步「傾倒」在此完結，下一卷隨即轉入羔羊的婚筵。
+
 這一章沒有直接描述基督的出現，卻處處是祂公義掌權的迴響。地上的君王、客商、船主都為巴比倫的傾覆哭泣哀號，天上卻傳來完全不同的呼聲：「天哪，眾聖徒、眾使徒、眾先知阿，你們都要因他歡喜，因為神已經在他身上伸了你們的冤」（20節）。地上的哭聲與天上的歡呼形成強烈對比，揭示了一個貫穿全書的真理：真正的審判者是那位掌管公義的神，祂終必為受逼迫的聖徒伸冤，而世人所倚靠、所哀悼的一切財富與榮華，在祂公義的審判面前終必歸於無有。
 
 ---
@@ -8969,8 +9476,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -8994,13 +9502,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 18
 
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，巴比倫的傾覆在地上與天上造成截然相反的兩種反應：
+
+> "The fall of the city produces entirely opposite effects on earth and in heaven. The earth is plunged into mourning. The heavenly and spiritual world rejoices."
+>
+> 中譯：這城的傾覆在地上與天上造成截然相反的效果。地上陷入哀慟，屬天屬靈的世界卻歡騰喜樂。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄18章, https://www.studylight.org/commentaries/eng/gcm/revelation-18.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟一針見血地指出，商人與君王所哀哭的，其實不是自己的靈魂：
+
+> "Talk about materialistic; they don't seem to be weeping and lamenting over their souls, they're weeping and lamenting over their wallets."
+>
+> 中譯：說到物質主義——他們哭的、哀號的，似乎不是自己的靈魂，而是自己的錢包。（66-65）
+> — John MacArthur, "Babylon Is Fallen, Part 3" (gty.org, sermon 66-65), https://www.gty.org/sermons/66-65/babylon-is-fallen-part-3
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這一整章最深刻的對比，不在於巴比倫的傾覆有多麼壯觀，而在於20節「你們都要因他歡喜」這句話——當地上為失去的財富哭泣時，天上卻因公義得申而歡呼；這提醒每一位信徒省察自己喜樂的根基究竟建立在哪裡。
-
-> — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **羅伯特·孟斯 (Robert Mounce)**：
 
@@ -9149,7 +9673,7 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 # 卷七 · 羔羊得勝——再來、國度、新創造 (The Lamb's Victory) · 19-22章
 
-> 羔羊的婚筵擺設，白馬騎士出征，白色大寶座立定，新耶路撒冷降下。
+> 羔羊的婚筵擺設，白馬騎士出征，白色大寶座立定，新耶路撒冷降下。啟示的次序·第七步，也是全書的終點：成全——羔羊得勝，萬物更新。
 
 | | |
 |---|---|
@@ -9167,6 +9691,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 **經文核對**：[ai-eden.com/bible/revelation/19](https://www.ai-eden.com/bible/revelation/19?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
+
+> **全書座標**：全書第七步、也是最後一步「成全」由此開始——巴比倫已經傾倒，天上隨即響起哈利路亞，羔羊的婚筵擺設，新婦也自己預備好了。
 
 巴比倫傾倒的濃煙尚未散去，天上已經響起連續的「哈利路亞」——這是新約聖經中唯一集中出現「哈利路亞」的一段經文（1, 3, 4, 6節）。焦點從審判轉向婚筵：「羔羊婚娶的時候到了；新婦也自己預備好了」。這是全書情感的高峰之一——教會，這位曾經軟弱、曾經失敗、曾經流淚的新婦，如今「蒙恩得穿光明潔白的細麻衣」，預備好與羔羊永遠聯合。這幅圖畫告訴我們：基督徒生命的終極盼望，不是逃離苦難的消極解脫，而是與羔羊永遠聯合、共赴婚筵的積極喜樂。
 
@@ -9282,8 +9808,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -9307,13 +9834,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *Commentary on the Whole Bible*, on Revelation 19
 
+### 摩根 (G. Campbell Morgan)
+
+摩根用一句話對照淫婦與新婦的結局：
+
+> "The harlot is no more. The true Bride is manifest."
+>
+> 中譯：淫婦不再存在了。真新婦已經顯現。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄19章, https://www.studylight.org/commentaries/eng/gcm/revelation-19.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟直言，約翰向敬拜天使的試探讓步，是明明白白的錯誤：
+
+> "John yielded to the temptation to worship angels. That's wrong. That's evil, inappropriate."
+>
+> 中譯：約翰向敬拜天使的試探讓步了。那是錯的，是邪惡的，是不恰當的。（66-68）
+> — John MacArthur, "Heavenly Hallelujahs, Part 3" (gty.org, sermon 66-68), https://www.gty.org/sermons/66-68/heavenly-hallelujahs-part-3
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，約翰兩次想要敬拜天使（此處與22:8），兩次都被糾正——這個重複的細節提醒我們：即使是最蒙神使用、最接近神榮耀的受造之物，也絕不能取代神本身在敬拜中的位置。
-
-> — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **格蘭特·奧斯本 (Grant Osborne)**：
 
@@ -9469,6 +10012,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：白馬騎士出征——「成全」這一步從婚筵的喜樂轉向得勝的爭戰，萬王之王、萬主之主親自了結地上最後的悖逆。
+
 天開了，一匹白馬出現——這不再是隱藏在異象象徵背後的基督，而是全書中最直接、最不容置疑的祂：「誠信真實」、「神之道」、「萬王之王，萬主之主」。祂眼中如火焰，衣服濺了血，口中出利劍，祂來不是為了再次受苦，而是為了審判與爭戰，終結一切敵擋神的權勢。這是啟示錄1章榮耀基督異象的完全展開——那位曾在1:13-16向約翰顯現、令他仆倒如死人的基督，如今公開地、決定性地介入歷史，帶著祂的軍隊，終結這場貫穿全書的宇宙爭戰。
 
 ---
@@ -9574,8 +10119,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -9599,13 +10145,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 19
 
+### 摩根 (G. Campbell Morgan)
+
+摩根形容這一刻是天與地相接、得勝完全歸於天上的時刻：
+
+> "It is the hour when heaven is touching earth, and the victory is with heaven."
+>
+> 中譯：這是天觸及地的時刻，得勝完全歸於天上。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄19章, https://www.studylight.org/commentaries/eng/gcm/revelation-19.html
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟提醒讀者，這一切意象雖是象徵，但主再來的事實本身絕非象徵：
+
+> "The horses are symbolic. The sword out of His mouth is symbolic. The rod of iron is symbolic. The crowns are symbolic. But the coming is reality."
+>
+> 中譯：馬是象徵性的。口中的劍是象徵性的。鐵杖是象徵性的。冠冕是象徵性的。但這降臨本身，是真實的。（66-71）
+> — John MacArthur, "The Glorious Return of Jesus Christ, Part 2" (gty.org, sermon 66-71), https://www.gty.org/sermons/66-71/the-glorious-return-of-jesus-christ-part-2
+
 ### 當代釋經
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
 麥克阿瑟指出，這是整本啟示錄中，基督形像最直接、最不帶隱喻遮蔽的一次顯現——祂不再是燈臺中的人子、不再是寶座前的羔羊，而是騎著白馬、親自率領天軍降臨、終結一切悖逆的得勝之王。
-
-> — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
 **G.K.畢爾 (G.K. Beale)**：
 
@@ -9765,6 +10327,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：撒但被捆綁一千年，第一次復活——「成全」這一步展開千年國度的圖畫，得勝者與基督一同作王。
+
 19章白馬騎士剛剛終結了獸與假先知的悖逆，20章緊接著處理那條古蛇——龍被捉住、捆綁一千年，扔在無底坑裡。這一章因對「一千年」的不同理解，成為歷代教會解經爭議最多的段落之一，但無論採取哪一種立場，經文的核心信息始終清楚：與基督一同作王的，是那些「因為給耶穌作見證，並為神之道被斬者」（4節）——這一章從頭到尾都在講述，基督徒忠心至死所換來的，不是被遺忘的犧牲，而是與基督一同掌權的尊榮。真正配得敬畏與盼望的，不是對千禧年細節的精確掌握，而是那位使死人復活、使忠心者與祂一同作王的基督自己。
 
 ---
@@ -9867,8 +10431,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -9892,15 +10457,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 20
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根論到20章的千年國度，指出這是全書唯一一段交代這段時期的經文，且清楚宣告這是基督親自任命、掌權者所治理的完美屬地政權：
+
+> "A brief and the only account of the thousand years follows. It will be a time of perfect earthly government under the King appointed and anointed by God."
+>
+> 中譯：接下來是關於這一千年唯一、簡短的記載。那將是一段由神所任命、所膏立的君王所治理的完美屬地政權時期。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄20章, https://www.studylight.org/commentaries/eng/gcm/revelation-20.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟指出，無論對千禧年的具體性質持何種立場，20章最核心的信息無可爭議：那些為基督忠心至死的人，他們的犧牲絕非徒然——他們要得著復活的生命與一同掌權的尊榮，這是神給每一位忠心見證者最確實的應許。
 
 > — 參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到撒但被捆綁的意義，麥克阿瑟在講道中說：
+
+> "This is the moment when the victory of Christ is exercised over his archenemy and the roaring lion is overcome by the Lion of the tribe of Judah."
+>
+> 中譯：這正是基督的勝利施行在祂宿敵身上的時刻——那吼叫的獅子，被猶大支派的獅子所擊敗。（66-74）
+> — John MacArthur, "The Coming Earthly Kingdom of the Lord Jesus Christ, Part 2" (gty.org, sermon 66-74), https://www.gty.org/sermons/66-74/the-coming-earthly-kingdom-of-the-lord-jesus-christ-part-2
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本論到，這一千年最重要的屬靈領受，不在於它的具體時間長度或性質為何，而在於它向歷代受苦的教會宣告：神的公義終必伸張，撒但的權勢終必受限，殉道者的犧牲終必得著超乎想像的獎賞。
 
@@ -10054,6 +10633,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：撒但被扔入火湖，白色大寶座審判——「成全」這一步的審判面在此徹底了結，再無懸而未決之事；第21章起，鏡頭完全轉向新天新地，直到全書的終點（14章）。
+
 千年國度的平安過去之後，約翰筆鋒一轉，讓我們看見一件驚心的事：撒但被釋放了。這不是神計劃的漏洞，而是神計劃的最後一次揭示——連在基督親自掌權、公義完全彰顯的千年裡，人心的悖逆仍未被環境改變。歌革瑪各的叛亂被火一舉燒滅，撒但被扔進硫磺的火湖，「晝夜受痛苦，直到永永遠遠」（20:10）。緊接著是全書最莊嚴的一幕：白色大寶座前，死了的人都站著，案卷展開，生命冊展開。這裡沒有基督流血代贖的畫面，只有審判本身——因為坐在寶座上的那一位，正是被殺的羔羊，如今以審判者的身分顯現（參約5:22, 27）。
 
 ---
@@ -10167,8 +10748,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -10192,15 +10774,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 20
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根論到白色大寶座前展開的案卷，用寥寥數語勾勒出那審判場景的莊嚴：
+
+> "Then follows the account of the great assize. Books are opened, and a book. In the books things are written."
+>
+> 中譯：接下來是那場終極審判的記載。案卷展開了，還有另一卷書。案卷上記載著各人所行的事。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄20章, https://www.studylight.org/commentaries/eng/gcm/revelation-20.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其新約注釋中論到這段經文時指出，案卷所記載的是每一個未曾因信基督而得赦免之人一生的完整記錄——沒有一句閒話、沒有一個意念被遺漏；正因如此，每一個站在這寶座前、名字卻不在生命冊上的人，都無可申訴。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到站在這寶座前的人，麥克阿瑟在講道中指出，這審判毫無偏袒：
+
+> "The somebodies and the nobodies. Position means nothing. God is no respecter of persons."
+>
+> 中譯：有地位的與無名的。地位在這裡毫無意義。神不偏待人。（66-77）
+> — John MacArthur, "Man's Last Day in God's Court, Part 1" (gty.org, sermon 66-77), https://www.gty.org/sermons/66-77/mans-last-day-in-gods-court-part-1
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄注釋中指出，歌革瑪各之戰的重點不在於戰事本身的過程，而在於它戲劇性地短暫——神一句話就終結了看似無可抵擋的悖逆聯軍；這正是全書一貫的模式：仇敵的聲勢愈大，神介入的簡易愈顯明祂的至高。
 
@@ -10360,6 +10956,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：新天新地——「成全」這一步進入創世記失落之物全數歸回的高峰，神的帳幕在人間，不再有死亡、悲哀、哭號、疼痛。
+
 審判的火湖過去之後，約翰的異象忽然轉入全書最溫柔的一幕。沒有審判的威嚴，只有一位新郎迎接新娘的喜悅：「聖城新耶路撒冷由神那裡從天而降，預備好了，就如新婦妝飾整齊，等候丈夫。」創世記三章咒詛臨到之後失落的一切——與神同住、無死無淚、萬物更新——在這八節經文裡被一一贖回。而說話的那一位，正是坐在寶座上的那位：「我是阿拉法，我是俄梅戛；我是初，我是終」——這稱號正是1:8、1:17基督自我啟示的稱號，如今由祂親口宣告更新萬有的工作已經「都成了」（21:6）。從十字架上的「成了」（約19:30）到這裡萬有更新的「都成了」，和合本用的是同一句中文譯語，是同一位主、同一份救贖工作的兩個高峰。
 
 ---
@@ -10464,8 +11062,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -10489,15 +11088,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 21
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根描繪這新秩序時，用一連串「無……」的對句，勾勒出新天新地與舊世界截然相反的性質：
+
+> "God comes to abide with men. There is a new order of things, characterized by laughter without tears, life without death, singing without mourning, content without crying, pleasure without pain."
+>
+> 中譯：神來與人同住。這是一個全新的秩序：有笑聲卻沒有眼淚，有生命卻沒有死亡，有歌唱卻沒有哀慟，有滿足卻沒有哭泣，有喜樂卻沒有痛苦。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄21章, https://www.studylight.org/commentaries/eng/gcm/revelation-21.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其新約注釋中指出，「神的帳幕在人間」是全本聖經歷史的終極目標——從伊甸園的同行，到會幕與聖殿的同在，到道成肉身的「住在我們中間」，最終在新耶路撒冷裡，神與祂的子民永遠、直接、毫無阻隔地同住。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**羅伯特·孟斯 (Robert Mounce)**：
+論到神親自擦去眼淚的應許，麥克阿瑟在講道中說：
+
+> "There never will be a tear in heaven, not one single tear. There will be nothing sad. There will be nothing disappointing."
+>
+> 中譯：天上絕不會有一滴眼淚，一滴也沒有。沒有一件可悲的事，沒有一件令人失望的事。（66-82）
+> — John MacArthur, "The New Heaven and the New Earth, Part 3" (gty.org, sermon 66-82), https://www.gty.org/sermons/66-82/the-new-heaven-and-the-new-earth-part-3
+
+### 孟斯 (Robert Mounce)
 
 孟斯在其啟示錄注釋中論到「成了」這句宣告時指出，這是啟示錄整卷書的關鍵句之一——它宣告的不是一個新計劃的開始，而是神從創世以來救贖計劃的最終完成。
 
@@ -10653,6 +11266,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：新耶路撒冷降下——羔羊為城的殿、為城的燈，生命水的河從神和羔羊的寶座流出，「成全」這一步在此鋪陳到全書最豐盛的畫面。
+
 一位拿着七碗災殃的天使，如今換了一個角色：「你到這裡來，我要將新婦，就是羔羊的妻，指給你看」（21:9）。同一位天使，曾指給約翰看那騎在獸上的大淫婦（17:1），如今用幾乎一模一樣的句式，指給他看羔羊的新婦——這不是巧合，而是全書刻意的對照：兩座城、兩個女人、兩種結局，最終都要收束在一個問題上：你屬於哪一座城？新耶路撒冷的一切榮美——碧玉城牆、精金街道、十二根基、常開的城門——最終都指向一個中心：「我未見城內有殿，因主神─全能者和羔羊為城的殿」（21:22）。這座城沒有殿，因為整座城本身就是至聖所；沒有日月，因為羔羊自己就是燈。
 
 ---
@@ -10775,8 +11390,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -10800,15 +11416,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 21
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根形容新耶路撒冷同時是一座隔絕之城，也是一座敞開之城：
+
+> "It is a city of exclusion, having a wall great and high; and of inclusion, having gates opening in every direction."
+>
+> 中譯：這是一座隔絕之城，有又高又大的城牆；也是一座敞開之城，四面的門向每一個方向敞開。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄21章, https://www.studylight.org/commentaries/eng/gcm/revelation-21.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄12-22章註釋》中指出，新耶路撒冷不是象徵性的比喻，而是蒙救贖之人真實、永遠的居所——但它的一切榮美，最終都指向一個事實：城的真正光榮，不是牆、不是門、不是寶石，而是神與羔羊自己的同在。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**孟斯 (Robert Mounce)**：
+論到城牆與城門，麥克阿瑟在講道中說：
+
+> "It has an outer wall. It has limits. You can go in it and you can come out of it because it has gates."
+>
+> 中譯：這城有外牆，有它的界限；但你可以進去，也可以出來，因為它有城門。（66-83）
+> — John MacArthur, "The Capital City of Heaven, Part 1" (gty.org, sermon 66-83), https://www.gty.org/sermons/66-83/the-capital-city-of-heaven-part-1
+
+### 孟斯 (Robert Mounce)
 
 孟斯在其啟示錄註釋（NICNT）中指出，城的立方體形狀直接呼應至聖所——這不是巧合，而是要清楚宣告：全城如今就是那擴大到無限的至聖所，每一位蒙贖之人都活在曾經只屬於大祭司的聖潔同在之中。
 
@@ -10967,6 +11597,8 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書「成全」這一步、也是全書的終點——「我必快來」與「我願你來」的對話收束了整卷書，回應卷首1:1「耶穌基督的啟示」，全書的次序從顯現走到了成全。
+
 異象結束了，但啟示錄沒有以平靜的畫面收尾，而是以一連串急切的呼聲作結：「看哪，我必快來！」——這句話在短短十六節裡出現三次（7, 12, 20節）。說話的那一位，此刻不再隱藏在異象的象徵背後，直接自稱其名：「我─耶穌差遣我的使者……我是大衛的根，又是他的後裔。我是明亮的晨星」（16節）。全書開篇是「耶穌基督的啟示」（1:1），全書結尾是耶穌親口的應許與邀請；中間所有的異象、審判、榮耀，最終都收束成一句對話——祂說「是了，我必快來」，教會回應「阿們！主耶穌阿，我願你來」（20節）。這是整本聖經、也是每一位信徒此刻仍在說出的禱告。
 
 ---
@@ -11096,8 +11728,9 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -11121,15 +11754,29 @@ AI可以幫我們寫出無懈可擊的禱告詞、整理出完美的查經大綱
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon 100, on Revelation 22
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根論到全書結尾「我必快來」的應許，指出這宣告的目的是要讀者常存警醒：
+
+> "In order that those who have received the unveiling should ever be on the alert, it is announced, 'Behold, I come quickly.' The word 'quickly' might with accuracy be rendered 'suddenly.'"
+>
+> 中譯：為了使那些領受了這啟示的人常常警醒，這裡宣告：「看哪，我必快來！」「快」這個字，若求精確，該譯作「突然」。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄22章, https://www.studylight.org/commentaries/eng/gcm/revelation-22.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄12-22章註釋》中指出，啟示錄以「我必快來」的應許貫穿結尾，這不是要滿足我們對時間表的好奇，而是要塑造我們每天生活的方式——如同隨時可能面見君王一般儆醒、聖潔、忠心地活着。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到22:17「白白取生命的水喝」的邀請，麥克阿瑟在講道中總結：
+
+> "That’s the invitation. Salvation is free because the price was paid."
+>
+> 中譯：這就是這邀請。救恩是免費的，因為代價已經付了。（66-86）
+> — John MacArthur, "God's Last Invitation, Part 1" (gty.org, sermon 66-86), https://www.gty.org/sermons/66-86/gods-last-invitation-part-1
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「主耶穌阿，我願你來」這句禱告，是啟示錄留給教會最持久的遺產——它教導每一個世代的信徒，無論身處哪種患難，都可以、也應當熱切地渴望並呼求主的再來。
 

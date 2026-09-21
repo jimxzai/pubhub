@@ -92,12 +92,25 @@ def check(path):
     return out
 
 
+# Generated build output, not source: a book's .build/ (or dist/, reports/)
+# holds full-book concatenations that legitimately repeat every heading once
+# per chapter. Scanning them as if they were source chapters produces bogus
+# duplicate-heading findings (~466 in one Acts run) that drown out real ones.
+EXCLUDED_DIRS = {".build", "dist", "reports"}
+
+
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
     targets = [Path(a) for a in args] or [DEFAULT]
     files = []
     for t in targets:
-        files.extend(sorted(t.rglob("*.md")) if t.is_dir() else [t])
+        if t.is_dir():
+            files.extend(sorted(
+                p for p in t.rglob("*.md")
+                if not EXCLUDED_DIRS & set(p.relative_to(t).parts[:-1])
+            ))
+        else:
+            files.append(t)
 
     by_kind = {}
     for f in files:

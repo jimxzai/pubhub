@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：七封信的終站——老底嘉的不冷不熱，把「察驗」這一步推到最尖銳之處；第4章隨即轉入天上的寶座，教會的光景與天上的掌權由此並列對照。
+
 七封信以老底嘉作結，也以最令人不安的一句話作結：「我必從我口中把你吐出去。」這是七封信中唯一一封基督說「我一無所稱讚」的信——不是因為外面的逼迫、也不是因為異端滲透，而是因為這教會富足自滿，渾然不覺自己「困苦、可憐、貧窮、瞎眼、赤身」。然而，正是這封最嚴厲的信，卻收束在全啟示錄最溫柔的一句邀請：「看哪，我站在門外叩門」。基督沒有選擇強行破門而入，祂敲門、祂等候、祂邀請——即使面對一間祂幾乎要吐出去的教會，祂仍站在門外，願意「進到他那裡去」，與他「一同坐席」。審判的嚴厲與愛的溫柔，在這封信裡並存，正顯明基督對祂教會不離不棄的心腸。
 
 ---
@@ -123,8 +125,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -141,6 +144,15 @@ publisher: 三書精讀出版系統
 布靈格在論到老底嘉信時特別提醒，物質的富足是這封信中隱藏的主角——老底嘉人正是因為在地上樣樣不缺，才對屬靈的匱乏毫無知覺；他呼籲信徒不要以世上的順利與豐足，作為衡量自己與神關係是否健康的標準，反倒要常常省察內心對真理的熱切程度。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:14-22
+
+### 摩根 (G. Campbell Morgan)
+
+摩根把老底嘉信放在教會歷史最末後、主再來之前的時期，形容這是一幅黑暗淒涼的畫面：
+
+> "The letter to the Church at Laodicea describes the final period prior to the advent of the Lord. It is, indeed, a dark and terrible picture. The Church is seen in a lukewarm condition. It is, however, the Church of the excluded Christ. Nevertheless, though excluded, He waits, knocking at the door and seeking admission."
+>
+> 中譯：老底嘉教會的信描繪了主降臨之前的最後時期。這確實是一幅黑暗淒涼的畫面。教會被看見處於不冷不熱的狀態。然而，這是被排除在外的基督之教會。儘管被排除在外，祂仍等候著，叩門，尋求被接納進入。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄3章, https://www.studylight.org/commentaries/eng/gcm/revelation-3.html
 
 ### 當代釋經
 
@@ -185,6 +197,13 @@ publisher: 三書精讀出版系統
 **向自我感覺良好者開的藥方**：「你說我是富足……卻不知道你是那困苦、可憐、貧窮、瞎眼、赤身的」——他指出 3:17 是全聖經對宗教式自滿最徹底的一份診斷書，而 3:18 的「買金子、白衣、眼藥」全指向唯獨基督能給的救恩。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟指出，老底嘉信在七封信中獨佔的悲劇地位，是基督對這間教會一無稱讚：
+
+> "Laodicea has the grim distinction of being, among all seven letters, the only one in which Christ has nothing good to say. It is unmitigated, unspared condemnation. There is in this church, apparently, absolutely no redeeming feature."
+>
+> 中譯：老底嘉在七封信中獨佔一項悲慘的殊榮——是唯一一封基督沒有一句好話可說的信。這是毫無緩和、毫不留情的責備。這間教會裡，顯然完全沒有一絲可取之處。（66-14）
+> — John MacArthur, "Laodicea: The Lukewarm Church, Part 1" (gty.org, sermon 66-14), https://www.gty.org/sermons/66-14/laodicea-the-lukewarm-church-part-1
 
 ### 老弟兄查經：老底嘉教會 (Ask Elder Wong)
 

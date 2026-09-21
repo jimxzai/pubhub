@@ -178,12 +178,41 @@ publisher: 三書精讀出版系統
 摩根在《The Analyzed Bible》分析創世記整體結構時，把第四章放在他所稱「墮落」(Degeneration) 一段的核心。他論到該隱與亞伯的命名時寫道（大意）：夏娃滿懷盼望生了頭生子，稱他為該隱，喊著「我得了他」，意即「我得了神所應許的那位後裔」；這盼望落了空，於是她給次子取名亞伯，意為「虛空」——由此，第一個家庭破裂了，人類社會的第一道裂口，是藉著謀殺造成的（此段為對原文論述的意譯轉述，並非逐字引文；摩根對「兩條線」的分析，見上文〈拉麥與兩條路線〉）。
 > — G. Campbell Morgan, *The Analyzed Bible*, Vol. 9: *The Book of Genesis* (Fleming H. Revell, 1907), archive.org/details/analyzedbible09morg，論創世記的「墮落」段落
 
+在另一部著作裏，摩根論到該隱「從耶和華面前出去」（4:16）：
+
+> "His going out from the presence of God was a willful severance of himself from the divine government and from response to its claims."
+>
+> 中譯：他從耶和華面前出去，是他自己主動、有意的行為——切斷了自己與神的治理、與神對他要求的回應之間的關係。
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記4章, https://www.studylight.org/commentaries/eng/gcm/genesis-4.html
+
 ### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟論到「罪伏在門前」一語時指出，罪在此被描繪成蹲伏的野獸，等候吞噬獵物；神警告該隱：你若不制伏它，它就要制伏你——這對每個信徒都是嚴肅的警告（此段為對麥克阿瑟一貫立場的綜述，未附具體出處頁碼，不加引號）。猶大書1:11警告背道的人「行該隱的道路」。麥克阿瑟指出，該隱的問題不是不敬拜，而是敬拜錯了方式：他要憑自己的勞力換取神的悅納——這正是一切「靠行為稱義」之宗教的原型。
 
-麥克阿瑟在gty.org的講道系列〈Cain: The Portrait of a Doomed Sinner〉（第一、二部）中，對這段經文有更具體的論述。論到該隱的供物，他說該隱所獻的，「看起來像是一個出於人自我稱義成就的供物」（"It appears to have been an offering of self-righteous human achievement."），並稱這是「真神面前假敬拜的第一個例子……人自義的第一個例子」（"Here is the first example of false worship of the true God. Here is the first example of self-righteousness."）。他又稱該隱是「當神給他悔改與蒙拯救的機會時，卻拒絕的那位原型悖逆者」（"He is the original apostate who, when confronted by God with the opportunity for forgiveness and the opportunity for deliverance, refuses."），並指出該隱最終「從耶和華面前出去」（4:16）是他自己選擇離開，不是被放逐——正如他心裏所要的其實是：「我不要公義，我不要神，我不要赦免，我要罪」（"I don't want righteousness, I don't want God, I don't want forgiveness, I want sin."）——把該隱從一個「一時衝動的殺人犯」，重新定位為一個「明知故拒」、有意識拒絕神恩典的悖逆者原型。
-> — John MacArthur, *Cain: The Portrait of a Doomed Sinner, Part 1 & 2*, gty.org
+麥克阿瑟在gty.org的講道系列〈Cain: The Portrait of a Doomed Sinner〉（第一、二部）中，對這段經文有更具體的論述。論到該隱的供物：
+
+> "It appears to have been an offering of self-righteous human achievement."
+>
+> 中譯：這看起來像是一個出於人自我稱義成就的供物。
+> — John MacArthur, *Cain: The Portrait of a Doomed Sinner, Part 1*, gty.org (sermon 90-249)
+
+> "So here what you have is the first example of false worship of the true God. Here is the first example of self-righteousness."
+>
+> 中譯：所以你在這裏看見的，是真神面前假敬拜的第一個例子……人自義的第一個例子。
+> — John MacArthur, *Cain: The Portrait of a Doomed Sinner, Part 2*, gty.org (sermon 90-250)
+
+他又稱該隱是「當神給他悔改與蒙拯救的機會時，卻拒絕的那位原型悖逆者」，並指出該隱最終「從耶和華面前出去」（4:16）是他自己選擇離開，不是被放逐——正如他心裏所要的其實是：
+
+> "He is the original apostate who, when confronted by God with the opportunity for forgiveness and the opportunity for deliverance, refuses."
+>
+> 中譯：他是那位原型悖逆者——當神給他悔改與蒙拯救的機會時，他卻拒絕。
+
+> "I don't want God, I don't want forgiveness, I don't want righteousness, I want sin."
+>
+> 中譯：我不要神，我不要赦免，我不要公義，我要罪。
+> — John MacArthur, *Cain: The Portrait of a Doomed Sinner, Part 2*, gty.org (sermon 90-250)
+
+——把該隱從一個「一時衝動的殺人犯」，重新定位為一個「明知故拒」、有意識拒絕神恩典的悖逆者原型。
 
 ---
 
@@ -191,15 +220,14 @@ publisher: 三書精讀出版系統
 
 ### 詩篇 32:1-5
 
-> 得赦免其過、遮蓋其罪的，
-> 這人是有福的！
-> 凡心裏沒有詭詐、
-> 耶和華不算為有罪的，
-> 這人是有福的！
+> 過犯得赦免，
+> 罪惡蒙遮蓋的人有福了！
+> 耶和華不算為有罪，
+> 內心沒有詭詐的人有福了！
 > 我閉口不認罪的時候，
-> 因終日唉哼而骨頭枯乾。
-> 黑夜白日，你的手在我身上沉重；
-> 我的精液耗盡，如同夏天的乾旱。
+> 因終日呻吟而骨頭枯乾。
+> 黑夜白日，你的手壓在我身上沉重；
+> 我的精力耗盡，如同夏天的乾旱。
 > 我向你陳明我的罪，不隱瞞我的惡。
 > 我說：「我要向耶和華承認我的過犯」；
 > 你就赦免我的罪惡。
@@ -210,7 +238,7 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：該隱與亞伯的故事，是聖經第一次演出「兩種敬拜」的分野：一個憑自己設計的方式而來，一個憑信心領受神所預備的道路而來。亞伯的血向神哀求伸冤，基督的血卻向神說出更美的話——赦免。
+**精義一句話**：該隱與亞伯的故事，是聖經第一次演出「兩種敬拜」的分野——一個憑自己設計的方式而來，一個憑信心領受神所預備的道路而來（血的聲音如何從亞伯通向基督，見上文〈基督焦點〉）。
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -232,7 +260,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天有沒有一件事，我一直用「該隱式」方便省事的方法在應付神或應付人——一份敷衍的服事、一段迴避已久的關係、一句該說卻沒說的道歉？
 - **一個行動**：挑一件上面想到的事，用亞伯的方式重新獻上——付上該付的代價，誠實面對，然後把結果交給神。
 
-**你看見神那時已經在做的事了嗎**：該隱與亞伯的故事裏，耶穌的名字一次都沒有出現，但亞伯的血從地裏發出的哀求，早已在指向另一滴無辜的血——希伯來書說，那血所說的，比亞伯的血所說的更美（來12:24）。
+**你看見神那時已經在做的事了嗎**：該隱與亞伯的故事裏，耶穌的名字一次都沒有出現，但亞伯的血早已在指向那滴說出「更美」之話的血（來12:24，見上文）。
 
 ---
 
@@ -273,4 +301,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

@@ -189,21 +189,36 @@ publisher: 三書精讀出版系統
 
 摩根在《The Analyzed Bible》第九卷（創世記，1907年初版）中，將墮落的核心定義為信心的失落：「The deepest note in the fall of man is that of failure of faith, which issued in disobedience, and proceeded necessarily to death.」（人墮落最深處的音符，是信心的失敗；這失敗導致悖逆，也必然導致死亡。）但他特別強調：神審判的敘事，不是以憤怒的宣判開場，而是以尋找開場——祂在園中行走、呼喚「你在哪裏」（3:9），是全本聖經最早的一次尋找，不是罪人主動找神，而是神主動來找罪人：
 
-> "The first cry of God thrills with the pathos and tenderness of the pain of His heart. 'Where art thou?' Man immediately confessed his fear, and thus was brought to the confession of his sin."（神的第一聲呼喚，滿帶著祂心中痛苦的哀傷與溫柔——「你在哪裏？」人立刻承認了他的懼怕，也因此被帶向承認自己的罪。）
+> "The first cry of God thrills with the pathos and tenderness of the pain of His heart. 'Where art thou?' Man immediately confessed his fear, and thus was brought to the confession of his sin."
+>
+> 中譯：神的第一聲呼喚，滿帶著祂心中痛苦的哀傷與溫柔——「你在哪裏？」人立刻承認了他的懼怕，也因此被帶向承認自己的罪。
 > — G. Campbell Morgan, *The Analyzed Bible*, Vol. 9: *The Book of Genesis* (Fleming H. Revell, 1907), archive.org/details/analyzedbible09morg
 
 延伸摩根的洞見：每一次神在人墮落之後開口說話，都是同一位尋找者的聲音，一直到主耶穌自己說「人子來，為要尋找、拯救失喪的人」（路19:10），才是這個問題最終的答案。神那日在伊甸園裏問的「你在哪裏」，原來一路帶領到各各他的十字架。
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "This introduces for the first time in Scripture the matter of atonement or covering of the sinner through the death of an innocent substitute."（這是聖經中第一次出現罪人藉無辜代替者的死亡得蒙遮蓋、贖罪的記載。）
-> "Here…we have a picture of the substitutionary atonement of Christ to come in the future, by which sinner's shame and guilt will be covered."（這裏……我們看見了將來基督代贖的圖畫，藉此罪人的羞恥與罪咎將被遮蓋。）
+> "This introduces for the first time in Scripture the matter of atonement or covering of the sinner through the death of an innocent substitute."
+>
+> 中譯：這是聖經中第一次出現罪人藉無辜代替者的死亡得蒙遮蓋、贖罪的記載。
+> "Here…we have a picture of the substitutionary atonement of Christ to come in the future, by which sinner's shame and guilt will be covered."
+>
+> 中譯：這裏……我們看見了將來基督代贖的圖畫，藉此罪人的羞恥與罪咎將被遮蓋。
 > — *The First Sacrifice*, gty.org/sermons/80-397
 
 論到創世記3:15，麥克阿瑟又說：
 
-> "That is the first glimmer of the gospel…"（那是福音最早的微光……）"The gospel is first given then not in a promise to man, but in a judgment on Satan."（福音最先不是以應許臨到人，而是以審判臨到撒但的形式賜下的。）
-> "embraces and comprehends within itself everything noble and glorious that is to be found anywhere in the Scriptures"（本身就涵蓋、包容了聖經中一切崇高榮耀的內容）
+> "That is the first glimmer of the gospel…"
+>
+> 中譯：那是福音最早的微光……
+
+> "The gospel is first given then not in a promise to man, but in a judgment on Satan."
+>
+> 中譯：福音最先不是以應許臨到人，而是以審判臨到撒但的形式賜下的。
+
+> "embraces and comprehends within itself everything noble and glorious that is to be found anywhere in the Scriptures"
+>
+> 中譯：本身就涵蓋、包容了聖經中一切崇高榮耀的內容
 > — *The Curse on the Serpent, Part 1 & Part 2*, gty.org/sermons/90-241, 90-242
 
 麥克阿瑟反覆強調這節經文的位置：神先對蛇說出這個應許，然後才轉向女人和亞當宣布懲罰——恩典的次序，早於審判的次序；祂沒有等幾天、幾週、幾年才給盼望，而是把好消息嵌入在咒詛本身之中，因為神本質上就是拯救者、滿有恩典憐憫的神。在〈Confrontation in Eden〉一篇中，麥克阿瑟也將亞當「你所賜給我、與我一起的女人」與夏娃「那蛇引誘我」的回答，分析為墮落人性拒絕真誠認罪、轉而推卸責任的典型模式——認識自己的罪咎，卻不肯悔改。舊約整套獻祭制度，直到新約「無瑕疵、無玷污羔羊」的意象（彼前1:19），都是朝著3:15所應許的那位「後裔」逐步聚焦，直到祂親自降生、受苦、得勝。
@@ -214,10 +229,10 @@ publisher: 三書精讀出版系統
 
 ### 詩篇 51:1-4
 
-> 神啊，求你按你的慈愛憐恤我，
-> 按你豐盛的憐憫塗抹我的過犯！
-> 求你將我的罪孽洗除淨盡，
-> 求你洗淨我的罪！
+> 神啊，求你按你的慈愛恩待我，
+> 按你豐盛的憐憫塗去我的過犯！
+> 求你將我的罪孽洗滌淨盡，
+> 潔除我的罪！
 > 因為我知道我的過犯；
 > 我的罪常在我面前。
 > 我向你犯罪，惟獨得罪了你，
@@ -260,7 +275,7 @@ publisher: 三書精讀出版系統
 - **晚上**：今天我有沒有像亞當一樣，把責任推給別人，而不願說一句「是我做的」？
 - **一個行動**：放下手機與螢幕十分鐘，把你此刻真實的光景（不是你想呈現的光景）向神說出來，然後為創世記3:15的應許獻上一句感謝——那踐踏蛇頭的後裔已經來了。
 
-**你看見耶穌了嗎**：創世記第三章在審判宣告完成之前，神已經把十字架的輪廓刻進了人類歷史的起頭——「他要傷你的頭；你要傷他的腳跟」（3:15）；那受傷卻得勝的後裔，就是後來被掛在各各他、又從死裏復活的耶穌基督。
+**你看見耶穌了嗎**：那受傷卻得勝的「女人的後裔」（3:15，見上文〈基督焦點〉），就是後來被掛在各各他、又從死裏復活的耶穌基督。
 
 ---
 
@@ -299,4 +314,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

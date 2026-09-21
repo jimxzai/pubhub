@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：出於信心 Ek Pisteōs** \
-> **全書坐標**：14章屬於「活祭」書卷（12:1-15:13）——12-13章教導活祭獻己、順服掌權，14章把全書主題句「本於信，以致於信」（1:17）落實到教會內部飲食、日子這類非本質之事的具體操練上；14:23「凡不出於信心的都是罪」，正是這個主題句走進一頓尋常飯桌的迴響。 \
+> **全書座標**：14章屬於「活祭」書卷（12:1-15:13）——12-13章教導活祭獻己、順服掌權，14章把全書主題句「本於信，以致於信」（1:17）落實到教會內部飲食、日子這類非本質之事的具體操練上；14:23「凡不出於信心的都是罪」，正是這個主題句走進一頓尋常飯桌的迴響。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 12-13章教導基督徒如何活祭獻己、如何順服掌權者；14章轉向教會內部一個更難處理的角落——弟兄姊妹在「非本質」的事上意見不同，該怎麼辦？保羅沒有先給規則，而是先把焦點拉回基督：吃的人「是為主吃的」，不吃的人「是為主不吃的」；守日子的「是為主守的」；「我們或活或死，總是主的人」（14:6-8）。祂不只是教義的中心，更是每一個尋常抉擇——今天吃甚麼、今天怎麼安排時間——的主。祂死而復活，「為要作死人並活人的主」（14:9）；祂是那審判台前的主（14:10），也是那位「為他死」的主（14:15）。這一章沒有一句直接講十字架的教義句，卻句句都在說：基督的主權夠大，大到可以掌管一頓飯；基督的愛夠深，深到一個「軟弱」的弟兄也值得祂的死。
@@ -72,31 +72,31 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^信心軟弱的，你們要接納，但不要辯論所疑惑的事。^2^有人信百物都可吃，但那軟弱的只吃蔬菜。^3^吃的人不可輕看不吃的人，不吃的人不可論斷吃的人，因為神已經收納他了。^4^你是誰，竟論斷別人的僕人呢？他或站住，或跌倒，自有他的主人在；而且他也必要站住，因為主能使他站住。
+> <sup>1</sup>信心軟弱的，你們要接納，但不要辯論所疑惑的事。<sup>2</sup>有人信百物都可吃，但那軟弱的只吃蔬菜。<sup>3</sup>吃的人不可輕看不吃的人，不吃的人不可論斷吃的人，因為神已經收納他了。<sup>4</sup>你是誰，竟論斷別人的僕人呢？他或站住，或跌倒，自有他的主人在；而且他也必要站住，因為主能使他站住。
 
-> ^5^有人看這日比那日強，有人看日日都是一樣，只是各人心裏要意見堅定。^6^守日的人是為主守的；吃的人是為主吃的，因他感謝神；不吃的人是為主不吃的，也感謝神。**^7^我們沒有一個人為自己活，也沒有一個人為自己死。^8^我們若活著，是為主而活；若死了，是為主而死。所以，我們或活或死，總是主的人。**^9^因此基督死了，又活了，為要作死人並活人的主。
+> <sup>5</sup>有人看這日比那日強，有人看日日都是一樣，只是各人心裏要意見堅定。<sup>6</sup>守日的人是為主守的；吃的人是為主吃的，因他感謝神；不吃的人是為主不吃的，也感謝神。**<sup>7</sup>我們沒有一個人為自己活，也沒有一個人為自己死。<sup>8</sup>我們若活著，是為主而活；若死了，是為主而死。所以，我們或活或死，總是主的人。**<sup>9</sup>因此基督死了，又活了，為要作死人並活人的主。
 
-> ^10^你這個人，為甚麼論斷弟兄呢？又為甚麼輕看弟兄呢？因我們都要站在神的臺前。^11^經上寫著：「主說：『我憑著我的永生起誓：萬膝必向我跪拜，萬口必向我承認。』」^12^這樣看來，我們各人必要將自己的事在神面前說明。
+> <sup>10</sup>你這個人，為甚麼論斷弟兄呢？又為甚麼輕看弟兄呢？因我們都要站在神的臺前。<sup>11</sup>經上寫著：「主說：『我憑著我的永生起誓：萬膝必向我跪拜，萬口必向我承認。』」<sup>12</sup>這樣看來，我們各人必要將自己的事在神面前說明。
 
-> ^13^所以，我們不可再彼此論斷，寧可定意誰也不給弟兄放下絆腳跌人之物。^14^我憑著主耶穌確知深信：凡物本來沒有不潔淨的；惟獨人以為不潔淨的，在他就不潔淨了。^15^你若因食物叫弟兄憂愁，就不是按著愛人的道理行。基督已經替他死，你不可因你的食物叫他敗壞。^16^不可叫你的善被人毀謗。
+> <sup>13</sup>所以，我們不可再彼此論斷，寧可定意誰也不給弟兄放下絆腳跌人之物。<sup>14</sup>我憑著主耶穌確知深信：凡物本來沒有不潔淨的；惟獨人以為不潔淨的，在他就不潔淨了。<sup>15</sup>你若因食物叫弟兄憂愁，就不是按著愛人的道理行。基督已經替他死，你不可因你的食物叫他敗壞。<sup>16</sup>不可叫你的善被人毀謗。
 
-> **^17^因為神的國不在乎吃喝，只在乎公義、和平並聖靈中的喜樂。**^18^在這幾樣上服侍基督的，就為神所喜悅，又為人所稱許。^19^所以，我們務要追求和睦的事與彼此建立德行的事。
+> **<sup>17</sup>因為神的國不在乎吃喝，只在乎公義、和平並聖靈中的喜樂。**<sup>18</sup>在這幾樣上服侍基督的，就為神所喜悅，又為人所稱許。<sup>19</sup>所以，我們務要追求和睦的事與彼此建立德行的事。
 
-> ^20^不可因食物毀壞神的工程。凡物固然潔淨，但有人因食物叫人跌倒，就是他的罪了。^21^無論是吃肉，是喝酒，是甚麼別的事，叫弟兄跌倒，一概不做才好。^22^你有信心，就當在神面前守著。人在自己以為可行的事上能不自責，就有福了。**^23^若有疑心而吃的，就必有罪，因為他吃不是出於信心；凡不出於信心的都是罪。**
+> <sup>20</sup>不可因食物毀壞神的工程。凡物固然潔淨，但有人因食物叫人跌倒，就是他的罪了。<sup>21</sup>無論是吃肉，是喝酒，是甚麼別的事，叫弟兄跌倒，一概不做才好。<sup>22</sup>你有信心，就當在神面前守著。人在自己以為可行的事上能不自責，就有福了。**<sup>23</sup>若有疑心而吃的，就必有罪，因為他吃不是出於信心；凡不出於信心的都是罪。**
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^Now accept the one who is weak in faith, *but* not for *the purpose of* passing judgment on his opinions. ^2^One person has faith that he may eat all things, but he who is weak eats vegetables *only.* ^3^The one who eats is not to regard with contempt the one who does not eat, and the one who does not eat is not to judge the one who eats, for God has accepted him. ^4^Who are you to judge the servant of another? To his own master he stands or falls; and he will stand, for the Lord is able to make him stand.
+> <sup>1</sup>Now accept the one who is weak in faith, *but* not for *the purpose of* passing judgment on his opinions. <sup>2</sup>One person has faith that he may eat all things, but he who is weak eats vegetables *only.* <sup>3</sup>The one who eats is not to regard with contempt the one who does not eat, and the one who does not eat is not to judge the one who eats, for God has accepted him. <sup>4</sup>Who are you to judge the servant of another? To his own master he stands or falls; and he will stand, for the Lord is able to make him stand.
 
-> ^5^One person regards one day above another, another regards every day *alike.* Each person must be fully convinced in his own mind. ^6^He who observes the day, observes it for the Lord, and he who eats, does so for the Lord, for he gives thanks to God; and he who eats not, for the Lord he does not eat, and gives thanks to God. **^7^For not one of us lives for himself, and not one dies for himself; ^8^for if we live, we live for the Lord, or if we die, we die for the Lord; therefore whether we live or die, we are the Lord's.** ^9^For to this end Christ died and lived again, that He might be Lord both of the dead and of the living.
+> <sup>5</sup>One person regards one day above another, another regards every day *alike.* Each person must be fully convinced in his own mind. <sup>6</sup>He who observes the day, observes it for the Lord, and he who eats, does so for the Lord, for he gives thanks to God; and he who eats not, for the Lord he does not eat, and gives thanks to God. **<sup>7</sup>For not one of us lives for himself, and not one dies for himself; <sup>8</sup>for if we live, we live for the Lord, or if we die, we die for the Lord; therefore whether we live or die, we are the Lord's.** <sup>9</sup>For to this end Christ died and lived again, that He might be Lord both of the dead and of the living.
 
-> ^10^But you, why do you judge your brother? Or you again, why do you regard your brother with contempt? For we will all stand before the judgment seat of God. ^11^For it is written, "AS I LIVE, SAYS THE LORD, EVERY KNEE SHALL BOW TO ME, AND EVERY TONGUE SHALL GIVE PRAISE TO GOD." ^12^So then each one of us will give an account of himself to God.
+> <sup>10</sup>But you, why do you judge your brother? Or you again, why do you regard your brother with contempt? For we will all stand before the judgment seat of God. <sup>11</sup>For it is written, "AS I LIVE, SAYS THE LORD, EVERY KNEE SHALL BOW TO ME, AND EVERY TONGUE SHALL GIVE PRAISE TO GOD." <sup>12</sup>So then each one of us will give an account of himself to God.
 
-> ^13^Therefore let us not judge one another anymore, but rather determine this—not to put an obstacle or a stumbling block in a brother's way. ^14^I know and am convinced in the Lord Jesus that nothing is unclean in itself; but to him who thinks anything to be unclean, to him it is unclean. ^15^For if because of food your brother is hurt, you are no longer walking according to love. Do not destroy with your food him for whom Christ died. ^16^Therefore do not let what is for you a good thing be spoken of as evil;
+> <sup>13</sup>Therefore let us not judge one another anymore, but rather determine this—not to put an obstacle or a stumbling block in a brother's way. <sup>14</sup>I know and am convinced in the Lord Jesus that nothing is unclean in itself; but to him who thinks anything to be unclean, to him it is unclean. <sup>15</sup>For if because of food your brother is hurt, you are no longer walking according to love. Do not destroy with your food him for whom Christ died. <sup>16</sup>Therefore do not let what is for you a good thing be spoken of as evil;
 
-> **^17^for the kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit.** ^18^For he who in this *way* serves Christ is acceptable to God and approved by men. ^19^So then we pursue the things which make for peace and the building up of one another.
+> **<sup>17</sup>for the kingdom of God is not eating and drinking, but righteousness and peace and joy in the Holy Spirit.** <sup>18</sup>For he who in this *way* serves Christ is acceptable to God and approved by men. <sup>19</sup>So then we pursue the things which make for peace and the building up of one another.
 
-> ^20^Do not tear down the work of God for the sake of food. All things indeed are clean, but they are evil for the man who eats and gives offense. ^21^It is good not to eat meat or to drink wine, or *to do anything* by which your brother stumbles. ^22^The faith which you have, have as your own conviction before God. Happy is he who does not condemn himself in what he approves. **^23^But he who doubts is condemned if he eats, because *his eating is* not from faith; and whatever is not from faith is sin.**
+> <sup>20</sup>Do not tear down the work of God for the sake of food. All things indeed are clean, but they are evil for the man who eats and gives offense. <sup>21</sup>It is good not to eat meat or to drink wine, or *to do anything* by which your brother stumbles. <sup>22</sup>The faith which you have, have as your own conviction before God. Happy is he who does not condemn himself in what he approves. **<sup>23</sup>But he who doubts is condemned if he eats, because *his eating is* not from faith; and whatever is not from faith is sin.**
 
 ---
 

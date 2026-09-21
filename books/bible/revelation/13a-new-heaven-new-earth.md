@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：新天新地——「成全」這一步進入創世記失落之物全數歸回的高峰，神的帳幕在人間，不再有死亡、悲哀、哭號、疼痛。
+
 審判的火湖過去之後，約翰的異象忽然轉入全書最溫柔的一幕。沒有審判的威嚴，只有一位新郎迎接新娘的喜悅：「聖城新耶路撒冷由神那裡從天而降，預備好了，就如新婦妝飾整齊，等候丈夫。」創世記三章咒詛臨到之後失落的一切——與神同住、無死無淚、萬物更新——在這八節經文裡被一一贖回。而說話的那一位，正是坐在寶座上的那位：「我是阿拉法，我是俄梅戛；我是初，我是終」——這稱號正是1:8、1:17基督自我啟示的稱號，如今由祂親口宣告更新萬有的工作已經「都成了」（21:6）。從十字架上的「成了」（約19:30）到這裡萬有更新的「都成了」，和合本用的是同一句中文譯語，是同一位主、同一份救贖工作的兩個高峰。
 
 ---
@@ -118,8 +120,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -143,15 +146,29 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 21
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根描繪這新秩序時，用一連串「無……」的對句，勾勒出新天新地與舊世界截然相反的性質：
+
+> "God comes to abide with men. There is a new order of things, characterized by laughter without tears, life without death, singing without mourning, content without crying, pleasure without pain."
+>
+> 中譯：神來與人同住。這是一個全新的秩序：有笑聲卻沒有眼淚，有生命卻沒有死亡，有歌唱卻沒有哀慟，有滿足卻沒有哭泣，有喜樂卻沒有痛苦。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄21章, https://www.studylight.org/commentaries/eng/gcm/revelation-21.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其新約注釋中指出，「神的帳幕在人間」是全本聖經歷史的終極目標——從伊甸園的同行，到會幕與聖殿的同在，到道成肉身的「住在我們中間」，最終在新耶路撒冷裡，神與祂的子民永遠、直接、毫無阻隔地同住。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**羅伯特·孟斯 (Robert Mounce)**：
+論到神親自擦去眼淚的應許，麥克阿瑟在講道中說：
+
+> "There never will be a tear in heaven, not one single tear. There will be nothing sad. There will be nothing disappointing."
+>
+> 中譯：天上絕不會有一滴眼淚，一滴也沒有。沒有一件可悲的事，沒有一件令人失望的事。（66-82）
+> — John MacArthur, "The New Heaven and the New Earth, Part 3" (gty.org, sermon 66-82), https://www.gty.org/sermons/66-82/the-new-heaven-and-the-new-earth-part-3
+
+### 孟斯 (Robert Mounce)
 
 孟斯在其啟示錄注釋中論到「成了」這句宣告時指出，這是啟示錄整卷書的關鍵句之一——它宣告的不是一個新計劃的開始，而是神從創世以來救贖計劃的最終完成。
 

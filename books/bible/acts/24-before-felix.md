@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十四章 · 在腓力斯面前 (Before Felix)
@@ -45,7 +45,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^過了五天，大祭司亞拿尼亞同幾個長老和一個辯士帖土羅下來，向巡撫控告保羅。^2^保羅被提了來，帖土羅就告他說：「腓力斯大人，我們因你得以大享太平，並且這一國的弊病因著你的先見得以更正了，我們隨時隨地滿心感謝不盡……
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^24^過了幾天，腓力斯和他夫人猶太的女子土西拉一同來到，就叫了保羅來，聽他講論信基督耶穌的道。^25^保羅講論公義、節制和將來的審判，腓力斯甚覺恐懼，說：「你暫且去吧，等我得便再叫你來。」^26^腓力斯又指望保羅送他銀錢，所以屢次叫他來，和他談論。^27^過了兩年，波求·非斯都接了腓力斯的任；腓力斯要討猶太人的喜歡，就留保羅在監裏。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^After five days the high priest Ananias came down with some elders, with an attorney *named* Tertullus, and they brought charges to the governor against Paul. ^2^After *Paul* had been summoned, Tertullus began to accuse him, saying *to the governor,* "Since we have through you attained much peace, and since by your providence reforms are being carried out for this nation,
 

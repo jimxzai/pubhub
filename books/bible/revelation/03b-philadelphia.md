@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：力量微小卻持守主道的非拉鐵非，是七封信中與撒狄相對的另一極——「察驗」不只定罪，也印證忠心。
+
 七封信中，非拉鐵非與士每拿是僅有的兩間沒有受到任何責備的教會——而非拉鐵非收到的稱讚也最溫柔懇切。這間教會「略有一點力量」，論人數、論資源，都不是亞細亞七城中最起眼的一個，卻蒙基督親自稱許「你既遵守我忍耐的道」。基督在此自稱「那聖潔、真實、拿著大衛的鑰匙、開了就沒有人能關、關了就沒有人能開的」——這呼應以賽亞書22:22以利亞敬掌管王家鑰匙的職分，宣告祂對進入神國度的門戶擁有絕對的權柄。一個「略有一點力量」的教會，若單靠自己的力量，開不了任何一扇門；但基督親自為他們開了一扇「無人能關」的門——這正是全信的核心：不是這教會有多強大，而是這教會所倚靠的那一位有多信實。
 
 ---
@@ -120,8 +122,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -138,6 +141,15 @@ publisher: 三書精讀出版系統
 布靈格在講論非拉鐵非信時提醒會眾，這封信證明教會的價值不在乎外表的規模與力量，而在乎對主道的持守；「略有一點力量」的教會，若忠心到底，所得的稱許與應許，並不亞於任何看似強大的群體——這是對他那個時代許多弱小、卻持守純正信仰的改教會眾極大的鼓勵。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 3:7-13
+
+### 摩根 (G. Campbell Morgan)
+
+摩根把非拉鐵非信放在教會歷史中「大復興」的時期，指出這是教會與主同工最緊密的一段時光：
+
+> "The letter to the Church at Philadelphia covers the great period of evangelization which, ushered in by the Puritan movement, broke into its full power in the Evangelical Revival. In this time the Church is seen following her Lord as never before and cooperating with Him in His purposes."
+>
+> 中譯：非拉鐵非教會的信涵蓋了大復興傳福音的時期——由清教徒運動所開啟，並在福音大復興中發揮出全部的力量。在這段時期，教會空前地跟隨她的主，並與祂的旨意同工。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄3章, https://www.studylight.org/commentaries/eng/gcm/revelation-3.html
 
 ### 當代釋經
 
@@ -182,6 +194,13 @@ publisher: 三書精讀出版系統
 **聖殿中的柱子，永不再出去**：非拉鐵非屢遭地震，居民一次次逃出城外。他指出 3:12 的應許正對著這個創傷說話：得勝者要作神殿中的柱子，「他也必不再從那裡出去」——永不再逃難的家。
 
 > 出處：參 John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*；另見 gty.org 啟示錄講道系列（大意整理，非逐字翻譯）
+
+麥克阿瑟強調，基督在這封信裡對非拉鐵非教會的評語，是七封信中最沒有保留的稱許：
+
+> "The Lord Himself looks and sees nothing lacking. The key opened salvation, the key opened blessing, the key opened tremendous evangelistic opportunity. The Lord saw nothing to rebuke."
+>
+> 中譯：主親自察看，看不到任何缺欠。這鑰匙開了救恩之門，開了福分之門，也開了極大的傳福音機會之門。主找不到任何要責備的地方。（66-13）
+> — John MacArthur, "Philadelphia: The Faithful Church, Part 2" (gty.org, sermon 66-13), https://www.gty.org/sermons/66-13/philadelphia-the-faithful-church-part-2
 
 ### 老弟兄查經：非拉鐵非教會 (Ask Elder Wong)
 

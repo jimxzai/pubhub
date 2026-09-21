@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十二章 · 階梯上的見證 (The Testimony on the Stairs)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^「諸位父兄，請聽我現在對你們分訴！」^2^眾人聽他說的是希伯來話，就更加安靜了。保羅說：^3^「我原是猶太人，生在基利家的大數，長在這城裏；在迦瑪列門下，按著我們祖宗嚴緊的律法受教；熱心事奉神，像你們眾人今日一樣。^4^我也曾逼迫奉這道的人，直到死地，無論男女都鎖拿下監。^5^這是大祭司和眾長老都可以給我作見證的。我又領了他們達與弟兄的書信，往大馬士革去，要把在那裏奉這道的人鎖拿，帶到耶路撒冷受刑。
 
@@ -57,7 +57,7 @@ publisher: 三書精讀出版系統
 
 （第二天，千夫長為要查明猶太人控告保羅的實情，解開他的鎖鏈，吩咐祭司長和全公會的人聚集，把保羅帶到他們面前——公會前的審判由此展開，22:30。）
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^1^"Brethren and fathers, hear my defense which I now *offer* to you." ^2^And when they heard that he was addressing them in the Hebrew dialect, they became even more quiet; and he said, ^3^"I am a Jew, born in Tarsus of Cilicia, but brought up in this city, educated under Gamaliel, strictly according to the law of our fathers, being zealous for God just as you all are today. ^4^I persecuted this Way to the death, binding and putting both men and women into prisons, ^5^as also the high priest and all the Council of the elders can testify. From them I also received letters to the brethren, and started off for Damascus in order to bring even those who were there to Jerusalem as prisoners to be punished.
 

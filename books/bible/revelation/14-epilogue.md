@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書「成全」這一步、也是全書的終點——「我必快來」與「我願你來」的對話收束了整卷書，回應卷首1:1「耶穌基督的啟示」，全書的次序從顯現走到了成全。
+
 異象結束了，但啟示錄沒有以平靜的畫面收尾，而是以一連串急切的呼聲作結：「看哪，我必快來！」——這句話在短短十六節裡出現三次（7, 12, 20節）。說話的那一位，此刻不再隱藏在異象的象徵背後，直接自稱其名：「我─耶穌差遣我的使者……我是大衛的根，又是他的後裔。我是明亮的晨星」（16節）。全書開篇是「耶穌基督的啟示」（1:1），全書結尾是耶穌親口的應許與邀請；中間所有的異象、審判、榮耀，最終都收束成一句對話——祂說「是了，我必快來」，教會回應「阿們！主耶穌阿，我願你來」（20節）。這是整本聖經、也是每一位信徒此刻仍在說出的禱告。
 
 ---
@@ -143,8 +145,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -168,15 +171,29 @@ publisher: 三書精讀出版系統
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon 100, on Revelation 22
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根論到全書結尾「我必快來」的應許，指出這宣告的目的是要讀者常存警醒：
+
+> "In order that those who have received the unveiling should ever be on the alert, it is announced, 'Behold, I come quickly.' The word 'quickly' might with accuracy be rendered 'suddenly.'"
+>
+> 中譯：為了使那些領受了這啟示的人常常警醒，這裡宣告：「看哪，我必快來！」「快」這個字，若求精確，該譯作「突然」。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄22章, https://www.studylight.org/commentaries/eng/gcm/revelation-22.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟在其《啟示錄12-22章註釋》中指出，啟示錄以「我必快來」的應許貫穿結尾，這不是要滿足我們對時間表的好奇，而是要塑造我們每天生活的方式——如同隨時可能面見君王一般儆醒、聖潔、忠心地活着。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 12-22*（大意整理，非逐字翻譯）
 
-**格蘭特·奧斯本 (Grant Osborne)**：
+論到22:17「白白取生命的水喝」的邀請，麥克阿瑟在講道中總結：
+
+> "That’s the invitation. Salvation is free because the price was paid."
+>
+> 中譯：這就是這邀請。救恩是免費的，因為代價已經付了。（66-86）
+> — John MacArthur, "God's Last Invitation, Part 1" (gty.org, sermon 66-86), https://www.gty.org/sermons/66-86/gods-last-invitation-part-1
+
+### 奧斯本 (Grant Osborne)
 
 奧斯本在其啟示錄註釋（BECNT）中指出，「主耶穌阿，我願你來」這句禱告，是啟示錄留給教會最持久的遺產——它教導每一個世代的信徒，無論身處哪種患難，都可以、也應當熱切地渴望並呼求主的再來。
 

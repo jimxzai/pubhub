@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：揀選 Eklogē** \
-> **全書坐標**：羅馬書9章是「揀選」卷（9:1-11:36）的開篇——8章以「不能隔絕」的確據收束「成聖」卷，9章立刻轉向一個尖銳的追問：如果神的愛如此堅定，為何多數以色列人拒絕了彌賽亞？全書五卷（定罪／稱義／成聖／揀選／活祭）在此進入第四卷，9-11章要處理神的應許有沒有落空。 \
+> **全書座標**：羅馬書9章是「揀選」卷（9:1-11:36）的開篇——8章以「不能隔絕」的確據收束「成聖」卷，9章立刻轉向一個尖銳的追問：如果神的愛如此堅定，為何多數以色列人拒絕了彌賽亞？全書五卷（定罪／稱義／成聖／揀選／活祭）在此進入第四卷，9-11章要處理神的應許有沒有落空。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章表面上在談以色列、談揀選、談窯匠與泥土，中心卻始終是基督。9:5說得再清楚不過：「按肉體說，基督也是從他們（以色列人）出來的——他是在萬有之上永遠可稱頌的神！」以色列一切的特權——兒子的名分、榮耀、諸約、律法、禮儀、應許、列祖——全都是為了一件事而存在：讓基督從這個民族中誕生。而全章最終落在9:33：神在錫安放了一塊石頭，「信靠他的人必不至於羞愧」。這塊石頭不是抽象的教義，是耶穌自己——祂是使人跌倒的絆腳石，也是使人不至於羞愧的磐石。同一位基督，對兩種人是兩種結局。
@@ -47,43 +47,43 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^我在基督裏說真話，並不謊言，有我良心被聖靈感動給我作見證。^2^我是大有憂愁，心裏時常傷痛。^3^為我弟兄，我骨肉之親，就是自己被咒詛，與基督分離，我也願意。
+> <sup>1</sup>我在基督裏說真話，並不謊言，有我良心被聖靈感動給我作見證。<sup>2</sup>我是大有憂愁，心裏時常傷痛。<sup>3</sup>為我弟兄，我骨肉之親，就是自己被咒詛，與基督分離，我也願意。
 
-> ^4^他們是以色列人，那兒子的名分、榮耀、諸約、律法、禮儀、應許都是他們的；^5^列祖就是他們的祖宗；按肉體說，基督也是從他們出來的——**他是在萬有之上永遠可稱頌的神！阿們。**
+> <sup>4</sup>他們是以色列人，那兒子的名分、榮耀、諸約、律法、禮儀、應許都是他們的；<sup>5</sup>列祖就是他們的祖宗；按肉體說，基督也是從他們出來的——**他是在萬有之上永遠可稱頌的神！阿們。**
 
-> ^6^這不是說神的話落了空。因為從以色列生的，不都是以色列人；^7^也不因為是亞伯拉罕的後裔，就都作他的兒女，惟獨「從以撒生的，才要稱為你的後裔」。^8^這就是說，肉身所生的兒女不是神的兒女，惟獨那應許的兒女才算是後裔。^9^因為所應許的話是這樣說：「到明年這時候我要來，撒拉必生一個兒子。」
+> <sup>6</sup>這不是說神的話落了空。因為從以色列生的，不都是以色列人；<sup>7</sup>也不因為是亞伯拉罕的後裔，就都作他的兒女，惟獨「從以撒生的，才要稱為你的後裔」。<sup>8</sup>這就是說，肉身所生的兒女不是神的兒女，惟獨那應許的兒女才算是後裔。<sup>9</sup>因為所應許的話是這樣說：「到明年這時候我要來，撒拉必生一個兒子。」
 
-> ^10^不但如此，還有利百加，既從一個人，就是從我們的祖宗以撒懷了孕，^11^雙子還沒有生下來，善惡還沒有做出來——只因要顯明神揀選人的旨意，不在乎人的行為，乃在乎召人的主——^12^神就對利百加說：「將來大的要服侍小的。」^13^正如經上所記：「雅各是我所愛的，以掃是我所惡的。」
+> <sup>10</sup>不但如此，還有利百加，既從一個人，就是從我們的祖宗以撒懷了孕，<sup>11</sup>雙子還沒有生下來，善惡還沒有做出來——只因要顯明神揀選人的旨意，不在乎人的行為，乃在乎召人的主——<sup>12</sup>神就對利百加說：「將來大的要服侍小的。」<sup>13</sup>正如經上所記：「雅各是我所愛的，以掃是我所惡的。」
 
-> ^14^這樣，我們可說甚麼呢？難道神有甚麼不公平嗎？斷乎沒有！^15^**因他對摩西說：「我要憐憫誰就憐憫誰，要恩待誰就恩待誰。」**^16^**據此看來，這不在乎那定意的，也不在乎那奔跑的，只在乎發憐憫的神。**^17^因為經上有話向法老說：「我將你興起來，特要在你身上彰顯我的權能，並要使我的名傳遍天下。」^18^如此看來，神要憐憫誰就憐憫誰，要叫誰剛硬就叫誰剛硬。
+> <sup>14</sup>這樣，我們可說甚麼呢？難道神有甚麼不公平嗎？斷乎沒有！<sup>15</sup>**因他對摩西說：「我要憐憫誰就憐憫誰，要恩待誰就恩待誰。」**<sup>16</sup>**據此看來，這不在乎那定意的，也不在乎那奔跑的，只在乎發憐憫的神。**<sup>17</sup>因為經上有話向法老說：「我將你興起來，特要在你身上彰顯我的權能，並要使我的名傳遍天下。」<sup>18</sup>如此看來，神要憐憫誰就憐憫誰，要叫誰剛硬就叫誰剛硬。
 
-> ^19^這樣，你必對我說：「他為甚麼還指責人呢？有誰抗拒他的旨意呢？」^20^**你這個人哪，你是誰，竟敢向神強嘴呢？受造之物豈能對造他的說：「你為甚麼這樣造我呢？」**^21^**窯匠難道沒有權柄從一團泥裏拿一塊做成貴重的器皿，又拿一塊做成卑賤的器皿嗎？**
+> <sup>19</sup>這樣，你必對我說：「他為甚麼還指責人呢？有誰抗拒他的旨意呢？」<sup>20</sup>**你這個人哪，你是誰，竟敢向神強嘴呢？受造之物豈能對造他的說：「你為甚麼這樣造我呢？」**<sup>21</sup>**窯匠難道沒有權柄從一團泥裏拿一塊做成貴重的器皿，又拿一塊做成卑賤的器皿嗎？**
 
-> ^22^倘若神要顯明他的憤怒，彰顯他的權能，就多多忍耐寬容那可怒、預備遭毀滅的器皿，^23^又要將他豐盛的榮耀彰顯在那蒙憐憫、早預備得榮耀的器皿上——^24^這器皿就是我們被神所召的，不但是從猶太人中，也是從外邦人中——這有甚麼不可呢？^25^就像神在何西阿書上說：「那本來不是我子民的，我要稱為我的子民；本來不是蒙愛的，我要稱為蒙愛的。^26^從前在甚麼地方對他們說『你們不是我的子民』，將來就在那裏稱他們為『永生神的兒子』。」
+> <sup>22</sup>倘若神要顯明他的憤怒，彰顯他的權能，就多多忍耐寬容那可怒、預備遭毀滅的器皿，<sup>23</sup>又要將他豐盛的榮耀彰顯在那蒙憐憫、早預備得榮耀的器皿上——<sup>24</sup>這器皿就是我們被神所召的，不但是從猶太人中，也是從外邦人中——這有甚麼不可呢？<sup>25</sup>就像神在何西阿書上說：「那本來不是我子民的，我要稱為我的子民；本來不是蒙愛的，我要稱為蒙愛的。<sup>26</sup>從前在甚麼地方對他們說『你們不是我的子民』，將來就在那裏稱他們為『永生神的兒子』。」
 
-> ^27^以賽亞指著以色列人喊著說：「以色列人雖多如海沙，得救的不過是剩下的餘數。^28^因為主要在世上施行他的話，叫他的話都成全，速速地完結。」^29^又如以賽亞先前說過：「若不是萬軍之主給我們存留餘種，我們早已像所多瑪、蛾摩拉的樣子了。」
+> <sup>27</sup>以賽亞指著以色列人喊著說：「以色列人雖多如海沙，得救的不過是剩下的餘數。<sup>28</sup>因為主要在世上施行他的話，叫他的話都成全，速速地完結。」<sup>29</sup>又如以賽亞先前說過：「若不是萬軍之主給我們存留餘種，我們早已像所多瑪、蛾摩拉的樣子了。」
 
-> ^30^這樣，我們可說甚麼呢？那本來不追求義的外邦人反得了義，就是因信而得的義；^31^但以色列人追求律法的義，反得不著律法的義。^32^這是甚麼緣故呢？是因為他們不憑著信心求，只憑著行為求，他們正跌在那絆腳石上。^33^就如經上所記：「我在錫安放一塊絆腳的石頭、跌人的磐石，信靠他的人必不至於羞愧。」
+> <sup>30</sup>這樣，我們可說甚麼呢？那本來不追求義的外邦人反得了義，就是因信而得的義；<sup>31</sup>但以色列人追求律法的義，反得不著律法的義。<sup>32</sup>這是甚麼緣故呢？是因為他們不憑著信心求，只憑著行為求，他們正跌在那絆腳石上。<sup>33</sup>就如經上所記：「我在錫安放一塊絆腳的石頭、跌人的磐石，信靠他的人必不至於羞愧。」
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^I am telling the truth in Christ, I am not lying, my conscience testifies with me in the Holy Spirit, ^2^that I have great sorrow and unceasing grief in my heart. ^3^For I could wish that I myself were accursed, *separated* from Christ for the sake of my brethren, my kinsmen according to the flesh,
+> <sup>1</sup>I am telling the truth in Christ, I am not lying, my conscience testifies with me in the Holy Spirit, <sup>2</sup>that I have great sorrow and unceasing grief in my heart. <sup>3</sup>For I could wish that I myself were accursed, *separated* from Christ for the sake of my brethren, my kinsmen according to the flesh,
 
-> ^4^who are Israelites, to whom belongs the adoption as sons, and the glory and the covenants and the giving of the Law and the *temple* service and the promises, ^5^whose are the fathers, and from whom is the Christ according to the flesh, **who is over all, God blessed forever. Amen.**
+> <sup>4</sup>who are Israelites, to whom belongs the adoption as sons, and the glory and the covenants and the giving of the Law and the *temple* service and the promises, <sup>5</sup>whose are the fathers, and from whom is the Christ according to the flesh, **who is over all, God blessed forever. Amen.**
 
-> ^6^But *it is* not as though the word of God has failed. For they are not all Israel who are *descended* from Israel; ^7^nor are they all children because they are Abraham's descendants, but: "THROUGH ISAAC YOUR DESCENDANTS WILL BE NAMED." ^8^That is, it is not the children of the flesh who are children of God, but the children of the promise are regarded as descendants. ^9^For this is the word of promise: "AT THIS TIME I WILL COME, AND SARAH SHALL HAVE A SON."
+> <sup>6</sup>But *it is* not as though the word of God has failed. For they are not all Israel who are *descended* from Israel; <sup>7</sup>nor are they all children because they are Abraham's descendants, but: "THROUGH ISAAC YOUR DESCENDANTS WILL BE NAMED." <sup>8</sup>That is, it is not the children of the flesh who are children of God, but the children of the promise are regarded as descendants. <sup>9</sup>For this is the word of promise: "AT THIS TIME I WILL COME, AND SARAH SHALL HAVE A SON."
 
-> ^10^And not only this, but there was Rebekah also, when she had conceived *twins* by one man, our father Isaac; ^11^for though *the twins* were not yet born and had not done anything good or bad, so that God's purpose according to *His* choice would stand, not because of works but because of Him who calls, ^12^it was said to her, "THE OLDER WILL SERVE THE YOUNGER." ^13^Just as it is written, "JACOB I LOVED, BUT ESAU I HATED."
+> <sup>10</sup>And not only this, but there was Rebekah also, when she had conceived *twins* by one man, our father Isaac; <sup>11</sup>for though *the twins* were not yet born and had not done anything good or bad, so that God's purpose according to *His* choice would stand, not because of works but because of Him who calls, <sup>12</sup>it was said to her, "THE OLDER WILL SERVE THE YOUNGER." <sup>13</sup>Just as it is written, "JACOB I LOVED, BUT ESAU I HATED."
 
-> ^14^What shall we say then? There is no injustice with God, is there? May it never be! **^15^For He says to Moses, "I WILL HAVE MERCY ON WHOM I HAVE MERCY, AND I WILL HAVE COMPASSION ON WHOM I HAVE COMPASSION." ^16^So then it *does* not *depend* on the man who wills or the man who runs, but on God who has mercy.** ^17^For the Scripture says to Pharaoh, "FOR THIS VERY PURPOSE I RAISED YOU UP, TO DEMONSTRATE MY POWER IN YOU, AND THAT MY NAME MIGHT BE PROCLAIMED THROUGHOUT THE WHOLE EARTH." ^18^So then He has mercy on whom He desires, and He hardens whom He desires.
+> <sup>14</sup>What shall we say then? There is no injustice with God, is there? May it never be! **<sup>15</sup>For He says to Moses, "I WILL HAVE MERCY ON WHOM I HAVE MERCY, AND I WILL HAVE COMPASSION ON WHOM I HAVE COMPASSION." <sup>16</sup>So then it *does* not *depend* on the man who wills or the man who runs, but on God who has mercy.** <sup>17</sup>For the Scripture says to Pharaoh, "FOR THIS VERY PURPOSE I RAISED YOU UP, TO DEMONSTRATE MY POWER IN YOU, AND THAT MY NAME MIGHT BE PROCLAIMED THROUGHOUT THE WHOLE EARTH." <sup>18</sup>So then He has mercy on whom He desires, and He hardens whom He desires.
 
-> ^19^You will say to me then, "Why does He still find fault? For who resists His will?" **^20^On the contrary, who are you, O man, who answers back to God? The thing molded will not say to the molder, "Why did you make me like this," will it? ^21^Or does not the potter have a right over the clay, to make from the same lump one vessel for honorable use and another for common use?**
+> <sup>19</sup>You will say to me then, "Why does He still find fault? For who resists His will?" **<sup>20</sup>On the contrary, who are you, O man, who answers back to God? The thing molded will not say to the molder, "Why did you make me like this," will it? <sup>21</sup>Or does not the potter have a right over the clay, to make from the same lump one vessel for honorable use and another for common use?**
 
-> ^22^What if God, although willing to demonstrate His wrath and to make His power known, endured with much patience vessels of wrath prepared for destruction? ^23^And *He did so* to make known the riches of His glory upon vessels of mercy, which He prepared beforehand for glory, ^24^*even* us, whom He also called, not from among Jews only, but also from among Gentiles. ^25^As He says also in Hosea, "I WILL CALL THOSE WHO WERE NOT MY PEOPLE, 'MY PEOPLE,' AND HER WHO WAS NOT BELOVED, 'BELOVED.'" ^26^"AND IT SHALL BE THAT IN THE PLACE WHERE IT WAS SAID TO THEM, 'YOU ARE NOT MY PEOPLE,' THERE THEY SHALL BE CALLED SONS OF THE LIVING GOD."
+> <sup>22</sup>What if God, although willing to demonstrate His wrath and to make His power known, endured with much patience vessels of wrath prepared for destruction? <sup>23</sup>And *He did so* to make known the riches of His glory upon vessels of mercy, which He prepared beforehand for glory, <sup>24</sup>*even* us, whom He also called, not from among Jews only, but also from among Gentiles. <sup>25</sup>As He says also in Hosea, "I WILL CALL THOSE WHO WERE NOT MY PEOPLE, 'MY PEOPLE,' AND HER WHO WAS NOT BELOVED, 'BELOVED.'" <sup>26</sup>"AND IT SHALL BE THAT IN THE PLACE WHERE IT WAS SAID TO THEM, 'YOU ARE NOT MY PEOPLE,' THERE THEY SHALL BE CALLED SONS OF THE LIVING GOD."
 
-> ^27^Isaiah cries out concerning Israel, "THOUGH THE NUMBER OF THE SONS OF ISRAEL BE LIKE THE SAND OF THE SEA, IT IS THE REMNANT THAT WILL BE SAVED; ^28^FOR THE LORD WILL EXECUTE HIS WORD ON THE EARTH, THOROUGHLY AND QUICKLY." ^29^And just as Isaiah foretold, "UNLESS THE LORD OF SABAOTH HAD LEFT TO US A POSTERITY, WE WOULD HAVE BECOME LIKE SODOM, AND WOULD HAVE RESEMBLED GOMORRAH."
+> <sup>27</sup>Isaiah cries out concerning Israel, "THOUGH THE NUMBER OF THE SONS OF ISRAEL BE LIKE THE SAND OF THE SEA, IT IS THE REMNANT THAT WILL BE SAVED; <sup>28</sup>FOR THE LORD WILL EXECUTE HIS WORD ON THE EARTH, THOROUGHLY AND QUICKLY." <sup>29</sup>And just as Isaiah foretold, "UNLESS THE LORD OF SABAOTH HAD LEFT TO US A POSTERITY, WE WOULD HAVE BECOME LIKE SODOM, AND WOULD HAVE RESEMBLED GOMORRAH."
 
-> ^30^What shall we say then? That Gentiles, who did not pursue righteousness, attained righteousness, even the righteousness which is by faith; ^31^but Israel, pursuing a law of righteousness, did not arrive at *that* law. ^32^Why? Because *they did* not *pursue it* by faith, but as though *it were* by works. They stumbled over the stumbling stone, ^33^just as it is written, "BEHOLD, I LAY IN ZION A STONE OF STUMBLING AND A ROCK OF OFFENSE, AND HE WHO BELIEVES IN HIM WILL NOT BE DISAPPOINTED."
+> <sup>30</sup>What shall we say then? That Gentiles, who did not pursue righteousness, attained righteousness, even the righteousness which is by faith; <sup>31</sup>but Israel, pursuing a law of righteousness, did not arrive at *that* law. <sup>32</sup>Why? Because *they did* not *pursue it* by faith, but as though *it were* by works. They stumbled over the stumbling stone, <sup>33</sup>just as it is written, "BEHOLD, I LAY IN ZION A STONE OF STUMBLING AND A ROCK OF OFFENSE, AND HE WHO BELIEVES IN HIM WILL NOT BE DISAPPOINTED."
 
 ---
 

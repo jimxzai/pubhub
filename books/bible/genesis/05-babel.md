@@ -23,6 +23,20 @@ publisher: 三書精讀出版系統
 
 ---
 
+## 配詩 (Opening Hymn)
+
+> **Come, Holy Spirit, Heavenly Dove**
+> *Isaac Watts, 1707*
+>
+> Come, Holy Spirit, heavenly Dove,
+> With all Thy quickening powers;
+> Kindle a flame of sacred love
+> In these cold hearts of ours.
+
+以撒·華滋（Isaac Watts）1707年所作的這首古老聖詩，求聖靈親自降臨、點燃合一的愛火——正是巴別塔事件所缺席、卻要在五旬節才傾降的那一位。示拿平原上的人想靠磚石與塔頂為自己造出合一，聖靈卻要在後來的耶路撒冷，不靠人手所造的任何東西，把被巴別分散的萬民重新聚集在同一團火焰之下。
+
+---
+
 ## 經文 (Scripture)
 
 ### 中文 — 和合本修訂版 (RCUV)
@@ -143,16 +157,46 @@ publisher: 三書精讀出版系統
 ### 摩根 (G. Campbell Morgan)
 
 摩根在《The Analyzed Bible: Genesis》(Fleming H. Revell, 1908) 中，把創世記11:1-9清楚劃分為兩半：11:1-4是「人的行動」，11:5-9是「神的行動」——人這邊轟轟烈烈地說「來，讓我們……」，制定宏大的計劃；神那邊只用一句「來，我們下去」，計劃便煙消雲散。他將本段經文分析為三部分：「聯合」(Confederacy, 11:1-4)、「變亂」(Confusion, 11:5-9)、「延續」(Continuity, 11:10-32)，與本章「文學結構」一節所列的交叉結構相呼應。他直接指出，這場「定居」的行動表面上只是選址建城，實質卻是「抵擋神治理的一場悖逆」（"the action of settlement was that of a rebellion against His government"）——因為神起初的心意，正是要人類分散、遍滿全地，人卻聚集不肯分散。
+> — G. Campbell Morgan, *The Analyzed Bible*, Vol. 9: *The Book of Genesis* (Fleming H. Revell, 1907), archive.org/details/analyzedbible09morg, pp. 80-82
 
-> — G. Campbell Morgan, *The Analyzed Bible*, Vol. 9: *The Book of Genesis* (Fleming H. Revell, 1907), archive.org/details/analyzedbible09morg, pp. 80-82摩根還在別處為這段記載的超自然性質辯護，留下一句擲地有聲的話：「任何用來反對巴別變亂口音記載的論證，同樣可以用來反對五旬節得著方言恩賜的記載」（"Any argument which is valid against the story of the confusion of tongues at Babel is equally valid against the account of the gift of tongues at Pentecost"）——在摩根的讀經眼光裏，巴別的變亂與五旬節的方言，同屬神在人類歷史中兩次超自然介入語言的一體兩面，缺一不能單獨被否定。摩根看重的重點是：這不是神與人棋逢對手的較量，而是提醒讀者整本聖經反覆出現的圖畫——人的國度看似堅固，實際上不堪一擊；神的話語看似安靜，卻總是最終那句拍板定案的話。人的聯合若不是建立在敬畏神之上，終究只是一場自我欺哄的合作；真正經得起考驗的合一，只能建立在神自己的工作之上。
+摩根還在另一部著作裏，為這段記載的超自然性質留下一句擲地有聲的話：
+
+> "Any argument which is valid against the story of the confusion of tongues at Babel is equally valid against the account of the gift of tongues at Pentecost."
+>
+> 中譯：任何用來反對巴別變亂口音記載的論證，同樣可以用來反對五旬節得著方言恩賜的記載。
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記11章, https://www.studylight.org/commentaries/eng/gcm/genesis-11.html
+
+在摩根的讀經眼光裏，巴別的變亂與五旬節的方言，同屬神在人類歷史中兩次超自然介入語言的一體兩面，缺一不能單獨被否定。摩根看重的重點是：這不是神與人棋逢對手的較量，而是提醒讀者整本聖經反覆出現的圖畫——人的國度看似堅固，實際上不堪一擊；神的話語看似安靜，卻總是最終那句拍板定案的話。人的聯合若不是建立在敬畏神之上，終究只是一場自我欺哄的合作；真正經得起考驗的合一，只能建立在神自己的工作之上。
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟在題為《Judgment of the Rebellion at Babel》的兩篇講道（gty.org，2001年8-9月）中，把示拿平原上的計劃拆解為三個層面：「城」是社會層面的目標——「不是為神，不是為神的榮耀，不是為神的尊榮，是為自己」（"Let's build for ourselves a city — not for God, not for the glory of God, not for the honor of God, but for ourselves."）；「塔」是宗教層面的目標，很可能是一座通天塔（ziggurat），作連結假神的祭壇；「名」則是心理層面的目標，反映的是「驕傲、自我意志、醜陋的悖逆」。他特別指出，神容讓人分散並非單純懲罰，而是攔阻集中的邪惡繼續坐大：「當罪人集中在同一權力、同一地方之下，罪惡就會加增」（"When sinners get concentrated under one power in one place, wickedness abounds"），「終極的權力必然帶來終極的腐化，神不會容讓這樣的事發生」（"Ultimate power corrupts ultimately, and God's not going to allow it."）。
+麥克阿瑟在題為《Judgment of the Rebellion at Babel》的兩篇講道（gty.org，2001年8-9月）中，把示拿平原上的計劃拆解為三個層面：「城」是社會層面的目標，「塔」是宗教層面的目標，很可能是一座通天塔（ziggurat），作連結假神的祭壇；「名」則是心理層面的目標，反映的是「驕傲、自我意志、醜陋的悖逆」。論到「城」的動機：
 
-麥克阿瑟常提醒讀者，「巴比倫」在聖經中不只是一個地名，更是一條貫穿全書、代表「人造文明抵擋神」的主線：從創世記10章寧錄在示拿地建國，到創世記11章的巴別塔，到列王紀巴比倫擄掠猶大、毀滅聖殿，到但以理書中巴比倫諸王一次次因驕傲被神審判，直到啟示錄17-18章「大巴比倫」的最終傾覆——他直言「巴比倫的萬神殿，正是異教的發源地」（"The Babylonian pantheon was the birthplace of paganism"），這正是啟示錄17-18章要用「大巴比倫」一詞描繪末世假宗教體系的原因。這條主線的另一端，正是啟示錄21-22章的新耶路撒冷。麥克阿瑟強調：讀經時若能認出這條「巴比倫線」，就能看懂聖經對「屬世體系」與「神的國度」之間持續張力的整體描繪——每個世代都有自己的巴別塔，每個世代也都要在兩座城之間作出選擇。
+> "Let's build for ourselves a city — not for God, not for the glory of God, not for the honor of God, but for ourselves."
+>
+> 中譯：讓我們為自己建造一座城——不是為神，不是為神的榮耀，不是為神的尊榮，是為自己。
+> — John MacArthur, *Judgment of the Rebellion at Babel, Part 1*, gty.org (sermon 90-267)
 
-> 資料來源：John MacArthur, *Judgment of the Rebellion at Babel, Part 1 & 2*, gty.org (2001) — [Part 1](https://www.gty.org/library/sermons-library/90-267/judgment-of-the-rebellion-at-babel-part-1)｜[Part 2](https://www.gty.org/library/sermons-library/90-268/judgment-of-the-rebellion-at-babel-part-2)
+他特別指出，神容讓人分散並非單純懲罰，而是攔阻集中的邪惡繼續坐大：
+
+> "When sinners get concentrated under one power in one place, wickedness abounds."
+>
+> 中譯：當罪人集中在同一權力、同一地方之下，罪惡就會加增。
+> — John MacArthur, *Judgment of the Rebellion at Babel, Part 1*, gty.org (sermon 90-267)
+
+> "Ultimate power corrupts ultimately, and God's not going to allow it."
+>
+> 中譯：終極的權力必然帶來終極的腐化，神不會容讓這樣的事發生。
+> — John MacArthur, *Judgment of the Rebellion at Babel, Part 2*, gty.org (sermon 90-268)
+
+麥克阿瑟常提醒讀者，「巴比倫」在聖經中不只是一個地名，更是一條貫穿全書、代表「人造文明抵擋神」的主線：從創世記10章寧錄在示拿地建國，到創世記11章的巴別塔，到列王紀巴比倫擄掠猶大、毀滅聖殿，到但以理書中巴比倫諸王一次次因驕傲被神審判，直到啟示錄17-18章「大巴比倫」的最終傾覆：
+
+> "The Babylonian pantheon was the birthplace of paganism."
+>
+> 中譯：巴比倫的萬神殿，正是異教的發源地。
+> — John MacArthur, *Judgment of the Rebellion at Babel, Part 2*, gty.org (sermon 90-268)
+
+這正是啟示錄17-18章要用「大巴比倫」一詞描繪末世假宗教體系的原因。這條主線的另一端，正是啟示錄21-22章的新耶路撒冷。麥克阿瑟強調：讀經時若能認出這條「巴比倫線」，就能看懂聖經對「屬世體系」與「神的國度」之間持續張力的整體描繪——每個世代都有自己的巴別塔，每個世代也都要在兩座城之間作出選擇。
 
 ---
 
@@ -200,7 +244,7 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：巴別是人聚集卻彼此聽不懂，是全人類驕傲、聯合悖逆神的縮影；但神沒有讓巴別塔成為結局——祂親自呼召亞伯拉罕、在五旬節澆灌聖靈、要在啟示錄裏從天帶下一座城，把巴別想靠自己搶奪的「合一」與「名」，白白賜給凡信靠祂的人。
+**精義一句話**：巴別是人聚集卻彼此聽不懂，是全人類驕傲、聯合悖逆神的縮影；但神沒有讓巴別塔成為結局（見上文〈基督焦點〉）。
 
 ### 全經連線 (Tracing It Through Scripture)
 
@@ -264,4 +308,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

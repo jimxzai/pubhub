@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：大能 Dynamis** \
-> **全書坐標**：1:16-17是全羅馬書的主題句，1:18-3:20是這主題句成立的前提——普世有罪，才顯出因信稱義的必要。全書五卷（定罪／稱義／成聖／揀選／活祭）都是從這裏「神的義……顯明」與「神的忿怒……顯明」兩條並行的線展開。 \
+> **全書座標**：1:16-17是全羅馬書的主題句，1:18-3:20是這主題句成立的前提——普世有罪，才顯出因信稱義的必要。全書五卷（定罪／稱義／成聖／揀選／活祭）都是從這裏「神的義……顯明」與「神的忿怒……顯明」兩條並行的線展開。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章的每一句話，最終都指向一個人。保羅一開口不是自我介紹，而是介紹福音——「論到他兒子，我主耶穌基督：按肉體說，是從大衛後裔生的；按聖善的靈說，因從死裏復活，以大能顯明是神的兒子」（1:3-4）。全信最有名的一句「義人必因信得生」（1:17），問題不是「我怎樣才夠義」，而是「誰的義能成為我的義」——答案是這位「按肉體」真實進入歷史、又「按聖靈」從死裏復活得勝的耶穌基督。人人都在「被交出去」的審判裏（1:24, 26, 28，*paradidōmi*），基督卻是那位「被交出來」擔當我們過犯的一位（羅8:32：「神既不愛惜自己的兒子，為我們眾人捨了……」）——同一個希臘動詞，一次是審判的交出，一次是救恩的交出。
@@ -49,39 +49,39 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經線上電子文本逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^耶穌基督的僕人保羅，奉召為使徒，特派傳神的福音。^2^這福音是神從前藉眾先知在聖經上所應許的，^3^論到他兒子——我主耶穌基督。按肉體說，是從大衛後裔生的；^4^按聖善的靈說，因從死裏復活，以大能顯明是神的兒子。^5^我們從他受了恩惠並使徒的職分，在萬國之中叫人為他的名信服真道；^6^其中也有你們這蒙召屬耶穌基督的人。^7^我寫信給你們在羅馬、為神所愛、奉召作聖徒的眾人。願恩惠、平安從我們的父神並主耶穌基督歸與你們！
+> <sup>1</sup>耶穌基督的僕人保羅，奉召為使徒，特派傳神的福音。<sup>2</sup>這福音是神從前藉眾先知在聖經上所應許的，<sup>3</sup>論到他兒子——我主耶穌基督。按肉體說，是從大衛後裔生的；<sup>4</sup>按聖善的靈說，因從死裏復活，以大能顯明是神的兒子。<sup>5</sup>我們從他受了恩惠並使徒的職分，在萬國之中叫人為他的名信服真道；<sup>6</sup>其中也有你們這蒙召屬耶穌基督的人。<sup>7</sup>我寫信給你們在羅馬、為神所愛、奉召作聖徒的眾人。願恩惠、平安從我們的父神並主耶穌基督歸與你們！
 
-> ^8^第一，我靠著耶穌基督，為你們眾人感謝我的神，因你們的信德傳遍了天下。^9^我在他兒子福音上，用心靈所事奉的神，可以見證我怎樣不住地提到你們；^10^在禱告之間常常懇求，或者照神的旨意，終能得平坦的道路往你們那裏去。^11^因為我切切地想見你們，要把些屬靈的恩賜分給你們，使你們可以堅固。^12^這樣，我在你們中間，因你與我彼此的信心，就可以同得安慰。^13^弟兄們，我不願意你們不知道，我屢次定意往你們那裏去，要在你們中間得些果子，如同在其餘的外邦人中一樣；只是到如今仍有阻隔。^14^無論是希利尼人、化外人、聰明人、愚拙人，我都欠他們的債，^15^所以情願盡我的力量，將福音也傳給你們在羅馬的人。
+> <sup>8</sup>第一，我靠著耶穌基督，為你們眾人感謝我的神，因你們的信德傳遍了天下。<sup>9</sup>我在他兒子福音上，用心靈所事奉的神，可以見證我怎樣不住地提到你們；<sup>10</sup>在禱告之間常常懇求，或者照神的旨意，終能得平坦的道路往你們那裏去。<sup>11</sup>因為我切切地想見你們，要把些屬靈的恩賜分給你們，使你們可以堅固。<sup>12</sup>這樣，我在你們中間，因你與我彼此的信心，就可以同得安慰。<sup>13</sup>弟兄們，我不願意你們不知道，我屢次定意往你們那裏去，要在你們中間得些果子，如同在其餘的外邦人中一樣；只是到如今仍有阻隔。<sup>14</sup>無論是希利尼人、化外人、聰明人、愚拙人，我都欠他們的債，<sup>15</sup>所以情願盡我的力量，將福音也傳給你們在羅馬的人。
 
-> ^16^**我不以福音為恥；這福音本是神的大能，要救一切相信的，先是猶太人，後是希利尼人。**^17^**因為神的義正在這福音上顯明出來；這義是本於信，以致於信。如經上所記：「義人必因信得生。」**
+> <sup>16</sup>**我不以福音為恥；這福音本是神的大能，要救一切相信的，先是猶太人，後是希利尼人。**<sup>17</sup>**因為神的義正在這福音上顯明出來；這義是本於信，以致於信。如經上所記：「義人必因信得生。」**
 
-> ^18^原來，神的忿怒從天上顯明在一切不虔不義的人身上，就是那些行不義阻擋真理的人。^19^神的事情，人所能知道的，原顯明在人心裏，因為神已經給他們顯明。^20^自從造天地以來，神的永能和神性是明明可知的，雖是眼不能見，但藉著所造之物就可以曉得，叫人無可推諉。
+> <sup>18</sup>原來，神的忿怒從天上顯明在一切不虔不義的人身上，就是那些行不義阻擋真理的人。<sup>19</sup>神的事情，人所能知道的，原顯明在人心裏，因為神已經給他們顯明。<sup>20</sup>自從造天地以來，神的永能和神性是明明可知的，雖是眼不能見，但藉著所造之物就可以曉得，叫人無可推諉。
 
-> ^21^因為，他們雖然知道神，卻不當作神榮耀他，也不感謝他。他們的思念變為虛妄，無知的心就昏暗了。^22^自稱為聰明，反成了愚拙，^23^將不能朽壞之神的榮耀變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式。
+> <sup>21</sup>因為，他們雖然知道神，卻不當作神榮耀他，也不感謝他。他們的思念變為虛妄，無知的心就昏暗了。<sup>22</sup>自稱為聰明，反成了愚拙，<sup>23</sup>將不能朽壞之神的榮耀變為偶像，彷彿必朽壞的人和飛禽、走獸、昆蟲的樣式。
 
-> ^24^所以，神任憑他們逞著心裏的情慾行污穢的事，以致彼此玷辱自己的身體。^25^他們將神的真實變為虛謊，去敬拜事奉受造之物，不敬奉那造物的主；主乃是可稱頌的，直到永遠。阿們！
+> <sup>24</sup>所以，神任憑他們逞著心裏的情慾行污穢的事，以致彼此玷辱自己的身體。<sup>25</sup>他們將神的真實變為虛謊，去敬拜事奉受造之物，不敬奉那造物的主；主乃是可稱頌的，直到永遠。阿們！
 
-> ^26^因此，神任憑他們放縱可羞恥的情慾。他們的女人把順性的用處變為逆性的用處；^27^男人也是如此，棄了女人順性的用處，慾火攻心，彼此貪戀，男和男行可羞恥的事，就在自己身上受這妄為當得的報應。
+> <sup>26</sup>因此，神任憑他們放縱可羞恥的情慾。他們的女人把順性的用處變為逆性的用處；<sup>27</sup>男人也是如此，棄了女人順性的用處，慾火攻心，彼此貪戀，男和男行可羞恥的事，就在自己身上受這妄為當得的報應。
 
-> ^28^他們既然故意不認識神，神就任憑他們存邪僻的心，行那些不合理的事；^29^裝滿了各樣不義、邪惡、貪婪、惡毒，滿心是嫉妒、兇殺、爭競、詭詐、毒恨；^30^又是讒毀的、背後說人的、怨恨神的、侮慢人的、狂傲的、自誇的、捏造惡事的、違背父母的。^31^無知的，背約的，無親情的，不憐憫人的。^32^他們雖知道神判定行這樣事的人是當死的，然而他們不但自己去行，還喜歡別人去行。
+> <sup>28</sup>他們既然故意不認識神，神就任憑他們存邪僻的心，行那些不合理的事；<sup>29</sup>裝滿了各樣不義、邪惡、貪婪、惡毒，滿心是嫉妒、兇殺、爭競、詭詐、毒恨；<sup>30</sup>又是讒毀的、背後說人的、怨恨神的、侮慢人的、狂傲的、自誇的、捏造惡事的、違背父母的。<sup>31</sup>無知的，背約的，無親情的，不憐憫人的。<sup>32</sup>他們雖知道神判定行這樣事的人是當死的，然而他們不但自己去行，還喜歡別人去行。
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^Paul, a bond-servant of Christ Jesus, called *as* an apostle, set apart for the gospel of God, ^2^which He promised beforehand through His prophets in the holy Scriptures, ^3^concerning His Son, who was born of a descendant of David according to the flesh, ^4^who was declared the Son of God with power by the resurrection from the dead, according to the Spirit of holiness, Jesus Christ our Lord, ^5^through whom we have received grace and apostleship to bring about *the* obedience of faith among all the Gentiles for His name's sake, ^6^among whom you also are the called of Jesus Christ; ^7^to all who are beloved of God in Rome, called *as* saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
+> <sup>1</sup>Paul, a bond-servant of Christ Jesus, called *as* an apostle, set apart for the gospel of God, <sup>2</sup>which He promised beforehand through His prophets in the holy Scriptures, <sup>3</sup>concerning His Son, who was born of a descendant of David according to the flesh, <sup>4</sup>who was declared the Son of God with power by the resurrection from the dead, according to the Spirit of holiness, Jesus Christ our Lord, <sup>5</sup>through whom we have received grace and apostleship to bring about *the* obedience of faith among all the Gentiles for His name's sake, <sup>6</sup>among whom you also are the called of Jesus Christ; <sup>7</sup>to all who are beloved of God in Rome, called *as* saints: Grace to you and peace from God our Father and the Lord Jesus Christ.
 
-> ^8^First, I thank my God through Jesus Christ for you all, because your faith is being proclaimed throughout the whole world. ^9^For God, whom I serve in my spirit in the *preaching of the* gospel of His Son, is my witness *as to* how unceasingly I make mention of you, ^10^always in my prayers making request, if perhaps now at last by the will of God I may succeed in coming to you. ^11^For I long to see you so that I may impart some spiritual gift to you, that you may be established; ^12^that is, that I may be encouraged together with you *while* among you, each of us by the other's faith, both yours and mine. ^13^I do not want you to be unaware, brethren, that often I have planned to come to you (and have been prevented so far) so that I may obtain some fruit among you also, even as among the rest of the Gentiles. ^14^I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish. ^15^So, for my part, I am eager to preach the gospel to you also who are in Rome.
+> <sup>8</sup>First, I thank my God through Jesus Christ for you all, because your faith is being proclaimed throughout the whole world. <sup>9</sup>For God, whom I serve in my spirit in the *preaching of the* gospel of His Son, is my witness *as to* how unceasingly I make mention of you, <sup>10</sup>always in my prayers making request, if perhaps now at last by the will of God I may succeed in coming to you. <sup>11</sup>For I long to see you so that I may impart some spiritual gift to you, that you may be established; <sup>12</sup>that is, that I may be encouraged together with you *while* among you, each of us by the other's faith, both yours and mine. <sup>13</sup>I do not want you to be unaware, brethren, that often I have planned to come to you (and have been prevented so far) so that I may obtain some fruit among you also, even as among the rest of the Gentiles. <sup>14</sup>I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish. <sup>15</sup>So, for my part, I am eager to preach the gospel to you also who are in Rome.
 
-> ^16^**For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.** ^17^**For in it *the* righteousness of God is revealed from faith to faith; as it is written, "BUT THE RIGHTEOUS *man* SHALL LIVE BY FAITH."**
+> <sup>16</sup>**For I am not ashamed of the gospel, for it is the power of God for salvation to everyone who believes, to the Jew first and also to the Greek.** <sup>17</sup>**For in it *the* righteousness of God is revealed from faith to faith; as it is written, "BUT THE RIGHTEOUS *man* SHALL LIVE BY FAITH."**
 
-> ^18^For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, ^19^because that which is known about God is evident within them; for God made it evident to them. ^20^For since the creation of the world His invisible attributes, His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse.
+> <sup>18</sup>For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of men who suppress the truth in unrighteousness, <sup>19</sup>because that which is known about God is evident within them; for God made it evident to them. <sup>20</sup>For since the creation of the world His invisible attributes, His eternal power and divine nature, have been clearly seen, being understood through what has been made, so that they are without excuse.
 
-> ^21^For even though they knew God, they did not honor Him as God or give thanks, but they became futile in their speculations, and their foolish heart was darkened. ^22^Professing to be wise, they became fools, ^23^and exchanged the glory of the incorruptible God for an image in the form of corruptible man and of birds and four-footed animals and crawling creatures.
+> <sup>21</sup>For even though they knew God, they did not honor Him as God or give thanks, but they became futile in their speculations, and their foolish heart was darkened. <sup>22</sup>Professing to be wise, they became fools, <sup>23</sup>and exchanged the glory of the incorruptible God for an image in the form of corruptible man and of birds and four-footed animals and crawling creatures.
 
-> ^24^Therefore God gave them over in the lusts of their hearts to impurity, so that their bodies would be dishonored among them. ^25^For they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.
+> <sup>24</sup>Therefore God gave them over in the lusts of their hearts to impurity, so that their bodies would be dishonored among them. <sup>25</sup>For they exchanged the truth of God for a lie, and worshiped and served the creature rather than the Creator, who is blessed forever. Amen.
 
-> ^26^For this reason God gave them over to degrading passions; for their women exchanged the natural function for that which is unnatural, ^27^and in the same way also the men abandoned the natural function of the woman and burned in their desire toward one another, men with men committing indecent acts and receiving in their own persons the due penalty of their error.
+> <sup>26</sup>For this reason God gave them over to degrading passions; for their women exchanged the natural function for that which is unnatural, <sup>27</sup>and in the same way also the men abandoned the natural function of the woman and burned in their desire toward one another, men with men committing indecent acts and receiving in their own persons the due penalty of their error.
 
-> ^28^And just as they did not see fit to acknowledge God any longer, God gave them over to a depraved mind, to do those things which are not proper, ^29^being filled with all unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice; *they are* gossips, ^30^slanderers, haters of God, insolent, arrogant, boastful, inventors of evil, disobedient to parents, ^31^without understanding, untrustworthy, unloving, unmerciful; ^32^and although they know the ordinance of God, that those who practice such things are worthy of death, they not only do the same, but also give hearty approval to those who practice them.
+> <sup>28</sup>And just as they did not see fit to acknowledge God any longer, God gave them over to a depraved mind, to do those things which are not proper, <sup>29</sup>being filled with all unrighteousness, wickedness, greed, evil; full of envy, murder, strife, deceit, malice; *they are* gossips, <sup>30</sup>slanderers, haters of God, insolent, arrogant, boastful, inventors of evil, disobedient to parents, <sup>31</sup>without understanding, untrustworthy, unloving, unmerciful; <sup>32</sup>and although they know the ordinance of God, that those who practice such things are worthy of death, they not only do the same, but also give hearty approval to those who practice them.
 
 ---
 

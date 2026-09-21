@@ -122,6 +122,9 @@
 \linespread{1.1}
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.3em}
+% Let chapter and section pages keep natural bottom whitespace instead of
+% vertically stretching short pages and emitting underfull vbox warnings.
+\raggedbottom
 
 %% ============================================
 %% COLOR SCHEME - Luke's Gospel Theme
@@ -168,6 +171,52 @@
 %% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
+
+
+% Series cover system: vector artwork, physical-page coordinates (7 x 10 in).
+\definecolor{LukeCoverDark}{HTML}{091B2B}
+\definecolor{LukeCoverLight}{HTML}{203D50}
+\definecolor{LukeCoverGold}{HTML}{D6B66D}
+\definecolor{LukeCoverCream}{HTML}{F5F0E4}
+\definecolor{LukeCoverMuted}{HTML}{BECDD2}
+\newcommand{\LukeCoverGround}{%
+  \shade[top color=LukeCoverDark,bottom color=LukeCoverLight] (0,0) rectangle (7,10);
+  \draw[LukeCoverGold,line width=1pt] (.31,.31) rectangle (6.69,9.69);
+  \draw[LukeCoverGold,opacity=.5,line width=.3pt] (.39,.39) rectangle (6.61,9.61);
+  \foreach \x/\y in {.31/.31,.31/9.69,6.69/.31,6.69/9.69}
+    \fill[LukeCoverGold] (\x,\y) circle (.025);
+}
+% Open arch and a winding road: Luke's journey and the welcome of the lost.
+\newcommand{\LukeRoadEmblem}{%
+ \draw[LukeCoverGold,line width=.85pt]
+   (-.35,-.18) -- (-.35,.45) arc[start angle=180,end angle=0,radius=.35] -- (.35,-.18);
+ \draw[LukeCoverGold,opacity=.5,line width=.4pt]
+   (-.46,-.18) -- (-.46,.45) arc[start angle=180,end angle=0,radius=.46] -- (.46,-.18);
+ \fill[LukeCoverGold] (0,.42) circle (.033);
+ \draw[LukeCoverGold,line width=.8pt]
+   (-.055,-.05) .. controls (-.34,-.30) and (.47,-.39) .. (-.58,-.84);
+ \draw[LukeCoverGold,opacity=.65,line width=.5pt]
+   (.055,-.05) .. controls (-.10,-.30) and (.78,-.40) .. (-.10,-.84);
+ \draw[LukeCoverGold,opacity=.5,line width=.4pt] (-.87,-.18) -- (-.49,-.18) (.49,-.18) -- (.87,-.18);
+}
+% A restrained halo and rays give the emblem the same finely resolved finish
+% as the John cover while keeping Luke's open-door/road motif distinct.
+\renewcommand{\LukeRoadEmblem}{%
+  \draw[LukeCoverGold,line width=.55pt] (0,.18) circle (.70);
+  \draw[LukeCoverGold,opacity=.55,line width=.3pt] (0,.18) circle (.78);
+  \foreach \a in {15,45,...,345}
+    \draw[LukeCoverGold,opacity=.55,line width=.3pt] (\a:.86) -- (\a:.98);
+  \draw[LukeCoverGold,line width=.85pt]
+    (-.35,-.18) -- (-.35,.45) arc[start angle=180,end angle=0,radius=.35] -- (.35,-.18);
+  \draw[LukeCoverGold,opacity=.5,line width=.4pt]
+    (-.46,-.18) -- (-.46,.45) arc[start angle=180,end angle=0,radius=.46] -- (.46,-.18);
+  \fill[LukeCoverGold] (0,.42) circle (.033);
+  \draw[LukeCoverGold,line width=.8pt]
+    (-.055,-.05) .. controls (-.34,-.30) and (.47,-.39) .. (-.58,-.84);
+  \draw[LukeCoverGold,opacity=.65,line width=.5pt]
+    (.055,-.05) .. controls (-.10,-.30) and (.78,-.40) .. (-.10,-.84);
+  \draw[LukeCoverGold,opacity=.5,line width=.4pt] (-.87,-.18) -- (-.49,-.18) (.49,-.18) -- (.87,-.18);
+}
 
 % Vine decoration command
 \newcommand{\vinedecor}[1]{%
@@ -366,104 +415,37 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
-% Title page
+% Front cover: matched to the Genesis series standard.
 \begin{titlepage}
 \thispagestyle{empty}
-\begin{center}
-\vspace*{0.5cm}
-
-% Decorative cross and line
-\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
-
-\vspace{0.4cm}
-
-% Main title
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 尋找失喪的人}\\[0.2cm]
-{\large\itshape\color{LightGray} Seeking the Lost}
-
-\vspace{0.6cm}
-
-% Book title
-{\fontsize{22}{28}\selectfont\bfseries 路加福音研讀}\\[0.15cm]
-{\normalsize A Study of the Gospel of Luke}
-
-\vspace{0.5cm}
-
-% Key verse in box
-\fcolorbox{ScriptureGold}{ScriptureBg}{%
-\begin{minipage}{3.8in}
-\centering
-\vspace{0.3cm}
-\small\itshape\color{CommentaryBrown}
-人子來，是要尋找、拯救失喪的人。\\[0.15em]
-\footnotesize For the Son of Man came to seek\\
-and to save the lost. — Luke 19:10
-\vspace{0.3cm}
-\end{minipage}
-}
-
-\vspace{0.4cm}
-
-% Luke's Gospel Structure diagram
-\begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {Gospel Structure 福音結構};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.6cm,font=\tiny] at (-5.4,1.5) {Preparation};
-  \node[font=\tiny,color=LightGray] at (-5.4,1.0) {1:1-4:13};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.6cm,font=\tiny] at (-1.8,1.5) {Galilee};
-  \node[font=\tiny,color=LightGray] at (-1.8,1.0) {4:14-9:50};
-
-  \node[draw=LukeRed,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.6cm,font=\tiny] at (1.8,1.5) {Journey};
-  \node[font=\tiny,color=LightGray] at (1.8,1.0) {9:51-19:27};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=2.4cm,minimum height=0.6cm,font=\tiny] at (5.4,1.5) {Jerusalem};
-  \node[font=\tiny,color=LightGray] at (5.4,1.0) {19:28-24:53};
-
-  \draw[->,color=ScriptureGold,thick] (-4.1,1.5) -- (-3.1,1.5);
-  \draw[->,color=ScriptureGold,thick] (-0.5,1.5) -- (0.5,1.5);
-  \draw[->,color=ScriptureGold,thick] (3.1,1.5) -- (4.1,1.5);
+\null
+\begin{tikzpicture}[remember picture,overlay,x=1in,y=1in,shift={(current page.south west)}]
+\LukeCoverGround
+\node[text=LukeCoverMuted,font=\small,align=center] at (3.5,9.05)
+  {Three Books Deep Reading\;\textbullet\; Gospel of Luke\\[5pt]三書精讀 · 路加福音深度研讀};
+\draw[LukeCoverGold,line width=.5pt] (2.75,8.64) -- (4.25,8.64);
+\node[text=LukeCoverMuted,font=\fontsize{11}{15}\selectfont] at (3.5,8.32)
+  {從馬槽到十架，看見尋找人的主};
+\begin{scope}[shift={(3.5,7.15)}]\LukeRoadEmblem\end{scope}
+\node[text=LukeCoverCream,font=\fontsize{35}{42}\selectfont\bfseries] at (3.5,5.82) {尋找失喪的人};
+\node[text=LukeCoverGold,font=\fontsize{19}{24}\selectfont\itshape] at (3.5,5.32) {Seeking the Lost};
+\node[text=LukeCoverCream,font=\fontsize{23}{29}\selectfont\bfseries] at (3.5,4.58) {路加福音研讀};
+\node[text=LukeCoverMuted,font=\normalsize] at (3.5,4.18) {Gospel of Luke Deep Study};
+\node[text=LukeCoverGold,font=\fontsize{12}{16}\selectfont] at (3.5,3.91)
+  {ζητῆσαι\quad\textit{To Seek}\quad 尋找};
+\draw[LukeCoverGold,line width=.5pt] (1.35,3.65) -- (5.65,3.65);
+\node[text=LukeCoverCream,text width=4.9in,align=center,font=\small] at (3.5,3.13)
+  {人子來，為要尋找、拯救失喪的人。\\[8pt]
+  \textit{For the Son of Man has come to seek}\\
+  \textit{and to save that which was lost.}\\[6pt]
+  {\footnotesize\color{LukeCoverGold} 路加福音 Luke 19:10}};
+\draw[LukeCoverGold,line width=.5pt] (1.35,2.58) -- (5.65,2.58);
+\node[text=LukeCoverGold,font=\normalsize] at (3.5,2.20) {憐憫 · 尋回 · 救恩};
+\node[text=LukeCoverMuted,font=\small] at (3.5,1.89) {Compassion · Restoration · Salvation};
+\node[text=LukeCoverCream,font=\small,align=center] at (3.5,1.08)
+  {PubHub\;\textbullet\; 三書精讀出版系統\\[6pt]
+  {\footnotesize 2026 整編版\quad CUV 1919\;|\; NASB 1995}};
 \end{tikzpicture}
-
-\vspace{0.3cm}
-
-% Four Canticles
-\begin{tikzpicture}[scale=0.55]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2) {四首頌歌 Four Canticles};
-
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (-3,0.8) {Magnificat\\馬利亞頌\\1:46-55};
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (-1,0.8) {Benedictus\\撒迦利亞頌\\1:68-79};
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (1,0.8) {Gloria\\天使頌\\2:14};
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\tiny,align=center] at (3,0.8) {Nunc Dimittis\\西面頌\\2:29-32};
-\end{tikzpicture}
-
-\vspace{0.3cm}
-
-% Key themes
-{\small\color{ChapterBlue}\bfseries 路加福音主題 Luke's Key Themes}\\[0.25cm]
-{\tiny\color{TextGray} 普世救恩 Universal Salvation \quad·\quad 關懷邊緣人 Compassion for Outcasts \quad·\quad 聖靈工作 Holy Spirit}\\[0.12cm]
-{\tiny\color{TextGray} 禱告生活 Prayer \quad·\quad 喜樂主題 Joy}
-
-\vfill
-
-$if(author)$
-{\normalsize $author$}\\[0.3cm]
-$endif$
-
-$if(publisher)$
-{\small $publisher$}\\[0.15cm]
-$endif$
-
-$if(date)$
-{\small $date$}
-$else$
-{\small \today}
-$endif$
-
-\vspace{0.3cm}
-\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
-
-\end{center}
 \end{titlepage}
 
 % Map page
@@ -535,7 +517,7 @@ $endif$
 \vspace{0.3cm}
 {\footnotesize\color{LightGray} 「人子來，是要尋找、拯救失喪的人。」— 路加福音 19:10}
 \end{center}
-\cleardoublepage
+\clearpage
 
 % Commentary Sources page
 \thispagestyle{empty}
@@ -550,8 +532,8 @@ $endif$
 \vspace{0.3cm}
 {\normalsize\bfseries\color{ChapterBlue} John MacArthur 約翰·麥克阿瑟}\\[0.3em]
 \small\color{TextGray}
-路加是唯一的外邦人作者，他強調耶穌是全人類的救主。耶穌對「被遺棄者」——外邦人、撒瑪利亞人、婦女、兒童、稅吏、罪人——展現特別的憐憫。路加特別記載耶穌的禱告生活和聖靈的工作。從9:51開始的十章敘述耶穌往耶路撒冷的旅程，強調祂「堅定面向」十字架。\\[0.5em]
-{\footnotesize\itshape Luke, the only Gentile author of Scripture, emphasizes Jesus as the universal Savior. He shows Jesus' compassion for outcasts—Gentiles, Samaritans, women, children, tax collectors, sinners. The journey to Jerusalem (9:51-19:27) stresses Jesus' relentless progression toward the cross.}
+教會傳統與不少研究者將路加視為外邦作者；他強調耶穌是全人類的救主。耶穌對「被遺棄者」——外邦人、撒瑪利亞人、婦女、兒童、稅吏、罪人——展現特別的憐憫。路加特別記載耶穌的禱告生活和聖靈的工作。從9:51開始的十章敘述耶穌往耶路撒冷的旅程，強調祂「堅定面向」十字架。\\[0.5em]
+{\footnotesize\itshape Church tradition and many scholars identify Luke as a Gentile author. He emphasizes Jesus as the universal Savior and shows compassion for outcasts—Gentiles, Samaritans, women, children, tax collectors, sinners. The journey to Jerusalem (9:51-19:27) stresses Jesus' steady progression toward the cross.}
 \vspace{0.3cm}
 \end{minipage}
 }
@@ -578,7 +560,7 @@ $endif$
 馬利亞與馬大 (10:38-42) · 法利賽人與稅吏 (18:10-14)
 }
 \end{center}
-\cleardoublepage
+\clearpage
 
 % Copyright page
 \thispagestyle{empty}
@@ -608,13 +590,30 @@ Luke-Acts forms a two-volume work by the same author.
 $endif$
 
 \end{flushleft}
-\cleardoublepage
+\clearpage
 
 % Table of contents — chapters only (subsection entries would run the TOC to 30+ pages)
 \pagestyle{fancy}
+\renewcommand{\contentsname}{目錄 Contents}
+\makeatletter
+\renewcommand{\@pnumwidth}{3em}
+\renewcommand{\@tocrmarg}{4em}
+% Reserve a page-number column even for long bilingual chapter titles.
+\renewcommand*\l@chapter[2]{%
+  \ifnum\c@tocdepth>\m@ne
+    \addpenalty{-\@highpenalty}%
+    \vskip 0.65em \@plus 0.15em
+    {\leftskip 0pt \rightskip 4em \parfillskip -\rightskip
+     \parindent 0pt \normalfont\small
+     \hyphenpenalty=10000 \exhyphenpenalty=10000
+     \@tempdima 2em \advance\leftskip\@tempdima
+     \hskip-\leftskip #1\nobreak\hfill
+     \nobreak\hb@xt@4em{\hfil #2}\par}%
+  \fi}
+\makeatother
 \setcounter{tocdepth}{0}
 {\color{ChapterBlue}\tableofcontents}
-\cleardoublepage
+\clearpage
 
 %% --------------------------------------------
 %% MAIN MATTER
@@ -624,45 +623,46 @@ $endif$
 $body$
 
 %% --------------------------------------------
-%% BACK COVER
-%% --------------------------------------------
+%% BACK COVER: coordinated colour, border and editorial hierarchy.
 \backmatter
+\pagestyle{empty}
 \thispagestyle{empty}
-\vspace*{\fill}
-\begin{center}
-{\Large\itshape\color{ChapterBlue} $if(backcover-symbol)$$backcover-symbol$$else$ζητῆσαι$endif$}\\[0.1cm]
-{\small\itshape\color{LightGray} "To Seek" · 尋找——路加福音19:10的鑰字}
-
-\vspace{0.8cm}
-
-\crosssymbol\hspace{0.2cm}{\color{ScriptureGold}\rule{1.8in}{0.8pt}}\hspace{0.2cm}\crosssymbol
-
-\vspace{0.8cm}
-
-{\large\bfseries\color{ChapterBlue} 關於本書}\qquad{\large\bfseries\color{ChapterBlue} About This Book}
-
-\vspace{0.5cm}
-
-\begin{minipage}{5in}
-\small\color{TextGray}
-$if(backcover)$
-$backcover$
-$else$
-本書逐章研讀路加福音全書二十四章，整合老弟兄查經法、John MacArthur 逐節解經講道（gty.org）、G. Campbell Morgan 屬靈組織分析，貫穿全書「人子來，是要尋找、拯救失喪的人」（路19:10）的主線——從馬利亞的尊主頌、迷失的羊、浪子回頭，到以馬忤斯路上的顯現，路加以醫生的細膩筆觸，記下這位完全人如何親自尋回每一個被邊緣化的人：稅吏、罪人、外邦人、女性、窮人。全書以復活的主向門徒「打開他們的心竅，使他們能明白聖經」（24:45）收筆，指向那位仍在今日打開人心竅的主。
-
-A chapter-by-chapter study of all twenty-four chapters of Luke, integrating the Thursday Bible class method, John MacArthur's verse-by-verse exposition (gty.org), and G. Campbell Morgan's spiritual analysis, tracing the Gospel's central thread: "For the Son of Man came to seek and to save the lost" (Luke 19:10). From Mary's Magnificat, the lost sheep, and the prodigal son, to the Emmaus road appearance, Luke's physician's eye records how the perfect Man personally sought out the marginalized — tax collectors, sinners, Gentiles, women, the poor. The whole book closes with the risen Lord opening His disciples' minds to understand the Scriptures (24:45) — the same Lord still opening hearts today.
-$endif$
-\end{minipage}
-
-\vspace{1cm}
-
-{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
-{\footnotesize\color{LightGray} 三書精讀出版系統}
-
-\vspace{0.3cm}
-
-{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
-\end{center}
-\vspace*{\fill}
-
+\null
+\begin{tikzpicture}[remember picture,overlay,x=1in,y=1in,shift={(current page.south west)}]
+\LukeCoverGround
+\node[text=LukeCoverGold,font=\fontsize{13}{17}\selectfont] at (3.5,9.22)
+  {ζητῆσαι\quad\textit{To Seek}\quad 尋找};
+\draw[LukeCoverGold,line width=.5pt] (2.35,8.93) -- (4.65,8.93);
+\node[text=LukeCoverGold,font=\small] at (3.5,8.68) {THE GOSPEL OF LUKE};
+\node[text=LukeCoverCream,font=\fontsize{24}{31}\selectfont\bfseries,align=center] at (3.5,8.04)
+  {在失喪之處，\\[6pt]遇見尋找人的主。};
+\node[text=LukeCoverGold,font=\fontsize{14}{18}\selectfont\itshape] at (3.5,7.31)
+  {The Son of Man came to seek and to save.};
+\draw[LukeCoverGold,line width=.5pt] (1.0,6.92) -- (6.0,6.92);
+\node[anchor=north west,text=LukeCoverCream,text width=4.95in,align=left,
+  font=\fontsize{11}{18}\selectfont,inner sep=0pt] at (1.0,6.83)
+  {從馬槽的降卑，到耶路撒冷的十架；從浪子的歸家，到以馬忤斯路上的相遇，路加記下救主走近失喪者的腳步。\\[9pt]
+  本書逐章研讀路加福音二十四章，結合經文對照、原文研讀、歷代注疏與生命應用，陪伴讀者看見基督，並將所領受的真理活在今天。};
+\node[anchor=north west,text=LukeCoverMuted,text width=4.95in,align=left,
+  font=\fontsize{10}{15}\selectfont,inner sep=0pt] at (1.0,5.05)
+  {Follow the Gospel of Luke from the manger to the cross, from the prodigal's homecoming to the road to Emmaus. This study of all twenty-four chapters brings together Scripture, word studies, historical commentary and practical reflection for personal reading and group discussion.};
+\draw[LukeCoverGold,opacity=.65,line width=.4pt] (1.0,3.69) -- (6.0,3.69);
+\node[anchor=north west,text=LukeCoverGold,font=\small\bfseries,inner sep=0pt] at (1.0,3.38)
+  {逐章研讀};
+\node[anchor=north west,text=LukeCoverCream,font=\small,inner sep=0pt] at (2.25,3.38)
+  {經文脈絡 · 鑰詞與主題};
+\node[anchor=north west,text=LukeCoverGold,font=\small\bfseries,inner sep=0pt] at (1.0,2.99)
+  {全經連線};
+\node[anchor=north west,text=LukeCoverCream,font=\small,inner sep=0pt] at (2.25,2.99)
+  {歷代注疏 · 福音的整體視野};
+\node[anchor=north west,text=LukeCoverGold,font=\small\bfseries,inner sep=0pt] at (1.0,2.60)
+  {生命回應};
+\node[anchor=north west,text=LukeCoverCream,font=\small,inner sep=0pt] at (2.25,2.60)
+  {默想提問 · 禱告與每日實踐};
+\draw[LukeCoverGold,opacity=.65,line width=.4pt] (1.0,2.15) -- (6.0,2.15);
+\node[text=LukeCoverCream,font=\large] at (3.5,1.76) {路加福音二十四章 · Luke 24 Chapters};
+\node[text=LukeCoverMuted,font=\footnotesize] at (3.5,1.43) {2026 整編版\quad CUV 1919\;|\; NASB 1995};
+\node[text=LukeCoverCream,font=\small] at (3.5,.98) {PubHub\;\textbullet\; 三書精讀出版系統};
+\node[text=LukeCoverMuted,font=\footnotesize] at (3.5,.65) {Soli Deo Gloria · 唯獨榮耀神};
+\end{tikzpicture}
 \end{document}

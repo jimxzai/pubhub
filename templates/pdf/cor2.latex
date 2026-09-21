@@ -1,109 +1,25 @@
+\DocumentMetadata{lang=zh-Hant,tagging=on}
 % PubHub 2 Corinthians Template
 % Professional Bible Study Book Layout
 % Bilingual Chinese/English with scholarly insights
-% Requires XeLaTeX for CJK support
+% Requires LuaLaTeX for CJK support and semantic PDF tagging
 
 \documentclass[11pt,openany]{book}
 
 %% ============================================
 %% FONT SETUP WITH CJK LINE BREAKING
 %% ============================================
-\usepackage{fontspec}
-
-\setmainfont{Songti SC}[
-  BoldFont=Songti SC,
-  BoldFeatures={FakeBold=2.2},
-  ItalicFont=Kaiti SC
-]
-\setsansfont{PingFang SC}
-\setmonofont{Heiti SC}
-
-%% Greek and Hebrew font support - auto-switch for Unicode blocks
-\usepackage{ucharclasses}
+\usepackage{luatexja-fontspec}
+% Treat Greek and Greek Extended as alphabetic, not CJK characters.
+\ltjsetparameter{jacharrange={-2}}
+\setmainfont{Times New Roman}
+\setsansfont{Arial}
+\setmonofont{Arial Unicode MS}
+\setmainjfont{Songti SC}[BoldFont=Songti SC,BoldFeatures={FakeBold=2.2},ItalicFont=Songti SC]
+\setsansjfont{Songti SC}
 \newfontfamily\greekfont{Times New Roman}[Script=Greek]
 \newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
-%% ucharclasses — full block coverage via \setTransitionTo.
-%%
-%% Two traps this replaces (see .claude/skills/eat-bible/references/gotchas.md):
-%%  1. \setTransitionsFor{Greek} is a no-op — "Greek" is a class GROUP; the
-%%     block is GreekAndCoptic. Basic Greek silently used the main font.
-%%  2. \setTransitionsFor sets BOTH directions for every pair, so a later
-%%     declaration's out-code overwrites an earlier one's in-code. Symptom:
-%%     a Greek/Hebrew run preceded by CJK or full-width punctuation (：、。）
-%%     does not switch font — silently, since the main font carries basic
-%%     Greek glyphs.
-%%
-%% \setTransitionTo sets the ENTERING direction only, so nothing can clobber
-%% anything. It removes the leaving-code, which is why every block this book
-%% uses must be listed: an unlisted block inherits the previous font.
-%% Block list derived from a census of this book's own markdown sources.
-%%
-%% \latinrun keeps the main font's own Latin glyphs — upright text is
-%% unchanged — but adds a real italic, which \setmainfont cannot supply
-%% because its ItalicFont is Kaiti SC, a brush face whose Latin glyphs are
-%% UPRIGHT. Without this every italicised work title renders as roman.
-%% \uckeep carries series/shape across the boundary; a bare \newfontfamily
-%% switch resets both and drops \emph / \textbf mid-run.
-\newfontfamily\latinrun{Songti SC}[
-  ItalicFont={Times New Roman Italic},
-  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
-  BoldItalicFont={Times New Roman Bold Italic}
-]
-\newfontfamily\cjkrun{Songti SC}[
-  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
-  ItalicFont=Kaiti SC
-]
-\makeatletter
-\newcommand{\uckeep}[1]{%
-  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
-  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
-\makeatother
-\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
-\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
-\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
-\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
-\setTransitionTo{BasicLatin}{\ucLatinRun}
-\setTransitionTo{LatinSupplement}{\ucLatinRun}
-\setTransitionTo{LatinExtendedA}{\ucLatinRun}
-\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
-\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
-\setTransitionTo{GreekExtended}{\ucGreekRun}
-\setTransitionTo{Hebrew}{\ucHebrewRun}
-\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
-\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
-\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
-\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
-\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
-\setTransitionTo{BoxDrawing}{\ucCJKRun}
-\setTransitionTo{Arrows}{\ucCJKRun}
-\setTransitionTo{MathematicalOperators}{\ucCJKRun}
-\setTransitionTo{GeometricShapes}{\ucCJKRun}
-\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
-\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
-\setTransitionTo{Dingbats}{\ucCJKRun}
-\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
-\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
-\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
-\setTransitionTo{BlockElements}{\ucCJKRun}
-\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
-\setTransitionTo{Hiragana}{\ucCJKRun}
-\setTransitionTo{Katakana}{\ucCJKRun}
-\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
-\setTransitionTo{SmallFormVariants}{\ucCJKRun}
-\setTransitionTo{VerticalForms}{\ucCJKRun}
-\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
-\setTransitionTo{Emoticons}{\ucCJKRun}
-\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
-\setTransitionTo{SpacingModifierLetters}{\ucCJKRun}
-\setTransitionTo{IPAExtensions}{\ucCJKRun}
-\setTransitionTo{NumberForms}{\ucCJKRun}
-\setTransitionTo{CurrencySymbols}{\ucCJKRun}
 
-%% Enable CJK line breaking - critical for Chinese text
-\XeTeXlinebreaklocale "zh"
-\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
-
-%% ============================================
 %% PAGE GEOMETRY
 %% ============================================
 \usepackage{geometry}
@@ -144,6 +60,12 @@
 % Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
+% Cover system learned from the Gospel of John series cover:
+% midnight-blue field, warm gold rule, restrained light hierarchy.
+\definecolor{CoverBg}{RGB}{8,26,42}
+\definecolor{CoverText}{RGB}{245,242,232}
+\definecolor{CoverMuted}{RGB}{178,190,199}
+\definecolor{CoverAccent}{RGB}{205,163,68}
 
 % Red Letter Bible (Jesus's words) - matches other PubHub Gospel templates
 \definecolor{JesusRed}{RGB}{204,0,0}
@@ -154,6 +76,7 @@
 %% ============================================
 \usepackage{amssymb}
 \usepackage{amsmath}
+\usepackage{unicode-math}
 
 %% ============================================
 %% GRAPHICS AND TIKZ FOR DIAGRAMS
@@ -230,6 +153,7 @@
 %% HEADERS AND FOOTERS
 %% ============================================
 \usepackage{fancyhdr}
+\setlength{\headheight}{26pt}
 \pagestyle{fancy}
 \fancyhf{}
 \fancyhead[LE,RO]{\small\thepage}
@@ -356,101 +280,101 @@ $endif$
 %% ============================================
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture, overlay]
-  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  \draw[ScriptureGold, line width=2.8pt]
+  \fill[CoverBg] (current page.south west) rectangle (current page.north east);
+  \draw[CoverAccent, line width=2.0pt]
     ([xshift=0.42in,yshift=0.42in]current page.south west)
     rectangle
     ([xshift=-0.42in,yshift=-0.42in]current page.north east);
-  \draw[ScriptureGold, line width=0.5pt]
+  \draw[CoverAccent, line width=0.45pt]
     ([xshift=0.50in,yshift=0.50in]current page.south west)
     rectangle
     ([xshift=-0.50in,yshift=-0.50in]current page.north east);
-  \draw[ThornRed, line width=0.3pt, opacity=0.55]
+  \draw[CoverMuted, line width=0.25pt, opacity=0.45]
     ([xshift=0.58in,yshift=0.58in]current page.south west)
     rectangle
     ([xshift=-0.58in,yshift=-0.58in]current page.north east);
   \foreach \cnr in {south west, south east, north west, north east} {
-    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
-    \fill[ThornRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+    \fill[CoverAccent] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.035in);
+    \fill[CoverAccent] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.035in);
+    \fill[CoverAccent] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.035in);
+    \fill[CoverAccent] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.035in);
+    \fill[CoverBg] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.030in);
+    \draw[CoverAccent, line width=0.45pt] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
   }
 \end{tikzpicture}
 
 \begin{center}
 \vspace*{0.42in}
 
-{\footnotesize\scshape\color{ThornRed} Three Books Deep Reading \textbullet\ Second Corinthians}\\[0.08cm]
-{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 哥林多後書深度研讀}
+{\footnotesize\scshape\color{CoverMuted} Three Books Deep Reading \textbullet\ Second Corinthians}\\[0.08cm]
+{\footnotesize\color{CoverMuted} 三書精讀 \textbullet\ 哥林多後書深度研讀}
 
 \vspace{0.16cm}
 \begin{tikzpicture}
-  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
-  \fill[ScriptureGold] (-0.35,0) circle (0.04);
-  \fill[ScriptureGold] (0,0) circle (0.06);
-  \fill[ScriptureGold] (0.35,0) circle (0.04);
-  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+  \draw[CoverAccent, line width=0.7pt] (-2.6,0) -- (-0.5,0);
+  \fill[CoverAccent] (-0.35,0) circle (0.04);
+  \fill[CoverAccent] (0,0) circle (0.06);
+  \fill[CoverAccent] (0.35,0) circle (0.04);
+  \draw[CoverAccent, line width=0.7pt] (0.5,0) -- (2.6,0);
 \end{tikzpicture}
 \vspace{0.22cm}
 
-{\fontsize{13}{15}\selectfont\itshape\color{TextGray} We have this treasure in earthen vessels \textperiodcentered\ 我們有這寶貝放在瓦器裏}
+{\fontsize{13}{15}\selectfont\itshape\color{CoverMuted} We have this treasure in earthen vessels \textperiodcentered\ 我們有這寶貝放在瓦器裏}
 
 \vspace{0.30cm}
 
 % ===== CRACKED CLAY JAR WITH LIGHT BREAKING THROUGH (4:7) =====
 \begin{tikzpicture}[scale=0.85, transform shape]
   % Halo — light breaking out of the jar (the treasure inside)
-  \draw[ScriptureGold, line width=0.3pt, opacity=0.10] (0,0.35) circle (2.0);
-  \draw[ScriptureGold, line width=0.3pt, opacity=0.16] (0,0.35) circle (1.65);
-  \draw[ScriptureGold, line width=0.4pt, opacity=0.24] (0,0.35) circle (1.25);
+  \draw[CoverAccent, line width=0.3pt, opacity=0.12] (0,0.35) circle (2.0);
+  \draw[CoverAccent, line width=0.3pt, opacity=0.18] (0,0.35) circle (1.65);
+  \draw[CoverAccent, line width=0.4pt, opacity=0.28] (0,0.35) circle (1.25);
 
   % Jar body (瓦器) — simple wide-bellied clay vessel
-  \fill[CommentaryBrown!55] (-0.75,-0.95) .. controls (-0.95,-0.4) and (-0.9,0.55) .. (-0.6,1.0)
+  \fill[CoverMuted!55] (-0.75,-0.95) .. controls (-0.95,-0.4) and (-0.9,0.55) .. (-0.6,1.0)
     -- (0.6,1.0) .. controls (0.9,0.55) and (0.95,-0.4) .. (0.75,-0.95)
     .. controls (0.5,-1.15) and (-0.5,-1.15) .. (-0.75,-0.95);
 
   % Jar neck and rim
-  \fill[CommentaryBrown!65] (-0.32,1.0) rectangle (0.32,1.35);
-  \draw[CommentaryBrown!85, line width=1.2pt] (-0.4,1.35) -- (0.4,1.35);
+  \fill[CoverMuted!65] (-0.32,1.0) rectangle (0.32,1.35);
+  \draw[CoverMuted!85, line width=1.2pt] (-0.4,1.35) -- (0.4,1.35);
 
   % Crack lines — the vessel's weakness, through which the light escapes
-  \draw[ScriptureGold, line width=1.4pt] (-0.15,0.85) -- (0.08,0.35) -- (-0.1,-0.15) -- (0.15,-0.75);
+  \draw[CoverAccent, line width=1.4pt] (-0.15,0.85) -- (0.08,0.35) -- (-0.1,-0.15) -- (0.15,-0.75);
   \draw[ScriptureGold, line width=0.8pt, opacity=0.7] (0.3,0.55) -- (0.5,0.05);
 
   % Light rays escaping through the cracks
   \foreach \ang in {60,75,90,105,120} {
-    \draw[ScriptureGold, line width=0.6pt, opacity=0.6] (0,0.35) -- (\ang:1.9);
+    \draw[CoverAccent, line width=0.6pt, opacity=0.7] (0,0.35) -- (\ang:1.9);
   }
 \end{tikzpicture}
 
 \vspace{0.10cm}
-\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\textcolor{CoverAccent}{\rule{2.8in}{0.8pt}}
 \vspace{0.24cm}
 
-{\fontsize{34}{40}\selectfont\bfseries\color{ThornRed} 作祂的僕人}\\[0.10cm]
-{\fontsize{16}{20}\selectfont\scshape\color{TextGray} Be His Servant}
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverText} 作祂的僕人}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CoverAccent} Be His Servant}
 
 \vspace{0.20cm}
-{\fontsize{22}{26}\selectfont\bfseries 哥林多後書研讀：十字架事奉}\\[0.08cm]
-{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of 2 Corinthians — Ministry of the Cross}
+{\fontsize{22}{26}\selectfont\bfseries\color{CoverText} 哥林多後書研讀：十字架事奉}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{CoverMuted} A Study of 2 Corinthians — Ministry of the Cross}
 
 \vspace{0.24cm}
-{\fontsize{15}{18}\selectfont\itshape\color{ThornRed} παράκλησις}\quad
-{\footnotesize\scshape\color{TextGray} “Comfort”}\quad
-{\footnotesize\bfseries\color{JesusRed} 安慰}
+{\fontsize{15}{18}\selectfont\itshape\color{CoverAccent} παράκλησις}\quad
+{\footnotesize\scshape\color{CoverMuted} “Comfort”}\quad
+{\footnotesize\bfseries\color{CoverAccent} 安慰}
 
 \vfill
 
-\fcolorbox{ScriptureGold}{white}{%
+\fcolorbox{CoverAccent}{CoverBg}{%
 \begin{minipage}{4.3in}
 \centering\vspace{0.15cm}
-{\footnotesize\color{ThornRed}
+{\footnotesize\color{CoverText}
 「我的恩典夠你用的，因為我的能力是在人的軟弱上顯得完全。」}\\[0.10em]
-{\scriptsize\itshape\color{TextGray}
+{\scriptsize\itshape\color{CoverMuted}
 “My grace is sufficient for you, for power is perfected in weakness.”}\\[0.10em]
-{\scriptsize\color{ThornRed} 哥林多後書 12:9 \textperiodcentered\ 2 Corinthians 12:9}
+{\scriptsize\color{CoverAccent} 哥林多後書 12:9 \textperiodcentered\ 2 Corinthians 12:9}
 \vspace{0.15cm}
 \end{minipage}}
 
@@ -775,6 +699,9 @@ $endif$
 
 % Table of contents
 \pagestyle{fancy}
+\setcounter{tocdepth}{0}
+\setcounter{secnumdepth}{-1}
+\hypersetup{bookmarksdepth=3,pdflang={zh-Hant}}
 {\color{ChapterBlue}\tableofcontents}
 \cleardoublepage
 
@@ -790,354 +717,6 @@ $body$
 %% ============================================
 %% APPENDIX A: SCRIPTURE INDEX
 %% ============================================
-\chapter*{Appendix A: Scripture Index 經文索引}
-\addcontentsline{toc}{chapter}{Appendix A: Scripture Index 經文索引}
-\markboth{Appendix A: Scripture Index 經文索引}{Appendix A: Scripture Index 經文索引}
-
-\begin{small}
-以下彙整全書二十四課中反覆引用、貫通經文的主要舊約與新約參照，並非窮盡式索引。
-\textit{A representative (not exhaustive) index of the Old and New Testament cross-references most frequently traced through this study's twenty-four lessons.}
-\end{small}
-
-\vspace{0.3cm}
-
-\section*{舊約 Old Testament}
-
-\begin{small}
-\begin{tabular}{@{}p{3.5cm}p{3in}@{}}
-\textbf{創世記 Genesis} & 創造之光與新造 (3, 4:6, 5:17) \\
-\textbf{出埃及記 Exodus} & 摩西的帕子與榮耀 (16, 25:2, 34) \\
-\textbf{利未記 Leviticus} & 馨香的火祭、永生神的殿 (1:9, 26:12) \\
-\textbf{申命記 Deuteronomy} & 兩三個見證人、不同負一軛 (19:15, 22:10) \\
-\textbf{士師記 Judges} & 基甸的軟弱與蒙揀選 (6:15, 7) \\
-\textbf{撒母耳記下 2 Samuel} & 大衛之約：我要作他的父 (7:14) \\
-\textbf{列王紀上 1 Kings} & 以利亞的軟弱與神的供應 (17) \\
-\textbf{詩篇 Psalms} & 患難中的信靠與盼望 (15, 18, 34, 51, 73, 90, 103, 112, 116) \\
-\textbf{以賽亞書 Isaiah} & 受苦的僕人、悅納的時候、安慰的信息 (6:9, 9:2, 40:1, 49:8, 53, 61:1) \\
-\textbf{耶利米書 Jeremiah} & 新約寫在心版上、不誇智慧誇認識神 (9:23-24, 31:33) \\
-\textbf{以西結書 Ezekiel} & 石心變肉心、永生神的殿 (36:26-27, 37:27) \\
-\end{tabular}
-\end{small}
-
-\vspace{0.3cm}
-
-\section*{新約 New Testament}
-
-\begin{small}
-\begin{tabular}{@{}p{3.5cm}p{3in}@{}}
-\textbf{馬太福音 Matthew} & 憂慮的教導、羊沒有牧人 (6:25, 9:36) \\
-\textbf{約翰福音 John} & 保惠師、聖靈的工作 (1:14, 14:16) \\
-\textbf{使徒行傳 Acts} & 保羅建立哥林多教會 (18章) \\
-\textbf{羅馬書 Romans} & 一人替眾人死、心意更新而變化、藉恩得與神和好 (5, 8, 12:2) \\
-\textbf{哥林多前書 1 Corinthians} & 瓦器中的能力、十架的智慧 (1:31) \\
-\textbf{加拉太書 Galatians} & 訓蒙的師傅、聖約的應許、撒種收割 (3:16, 3:21, 6) \\
-\textbf{以弗所書 Ephesians} & 聖靈為業的憑據、基督愛教會 (1:14, 5:25) \\
-\textbf{腓立比書 Philippians} & 基督的虛己與升高、認識基督為至寶 (2:6, 3:3, 3:10) \\
-\textbf{希伯來書 Hebrews} & 信心的見證人、更美的家鄉 (11) \\
-\textbf{雅各書 James} & 各樣的試煉、忌邪的靈 (1:2) \\
-\textbf{彼得前書 1 Peter} & 牧人的榜樣、擔當我們的罪 (2:24, 5:2) \\
-\textbf{啟示錄 Revelation} & 萬物更新、不再有眼淚 (21) \\
-\end{tabular}
-\end{small}
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX B: KEY THEMES INDEX
-%% ============================================
-\chapter*{Appendix B: Key Themes 主題索引}
-\addcontentsline{toc}{chapter}{Appendix B: Key Themes 主題索引}
-\markboth{Appendix B: Key Themes 主題索引}{Appendix B: Key Themes 主題索引}
-
-\section*{全書兩部 The Book's Two Parts}
-
-\begin{small}
-\begin{tabular}{@{}p{3.4cm}p{1.6cm}p{2.6in}@{}}
-\textbf{聖靈中的新約事奉 \newline Ministry in the New Covenant} & 1-7章 & 保羅的見證：患難中的安慰、聖靈的職事、和好的職分 \\
-\textbf{十字架能力的見證 \newline The Power of the Cross} & 8-13章 & 保羅的辯護：恩典的奉獻、屬靈爭戰、軟弱中的能力 \\
-\end{tabular}
-\end{small}
-
-\section*{核心領受主題 Key Themes of Reception}
-
-\begin{small}
-\begin{tabular}{@{}p{3.5cm}p{3in}@{}}
-患難中的安慰 & 1:3-11 — 神安慰我們，使我們能安慰別人 \\
-瓦器中的寶貝 & 4:7-12 — 莫大的能力是出於神，不是出於我們 \\
-和好的職分 & 5:11-21 — 大交換：無罪者替我們成為罪 \\
-永生神的殿 & 6:14-7:1 — 分別為聖，因聖靈內住 \\
-恩典的奉獻 & 8:1-9:15 — 基督本是富足，為你們成了貧窮 \\
-身上的一根刺 & 12:1-10 — 我的能力是在人的軟弱上顯得完全 \\
-三一的祝福 & 13:14 — 全書以三位一體的祝福作結 \\
-\end{tabular}
-\end{small}
-
-\section*{希臘文關鍵詞 Key Greek Terms}
-
-\begin{small}
-\begin{tabular}{@{}p{3cm}p{3in}@{}}
-\textbf{paraklēsis} (παράκλησις) & 安慰 — 患難中神所賜的安慰 \\
-\textbf{thlipsis} (θλῖψις) & 患難 — 貫穿全書的處境詞 \\
-\textbf{doxa} (δόξα) & 榮耀 — 從榮耀到榮耀的更新 \\
-\textbf{katallagē} (καταλλαγή) & 和好 — 神與人、人與人的和好 \\
-\textbf{charis} (χάρις) & 恩典 — 從恩典的奉獻到恩典夠用 \\
-\textbf{astheneia} (ἀσθένεια) & 軟弱 — 能力顯明之處 \\
-\end{tabular}
-\end{small}
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX C: REFERENCES
-%% ============================================
-\chapter*{Appendix C: References 參考資料}
-\addcontentsline{toc}{chapter}{Appendix C: References 參考資料}
-\markboth{Appendix C: References 參考資料}{Appendix C: References 參考資料}
-
-\section*{聖經版本 Bible Versions}
-
-\begin{small}
-\noindent\textbf{中文}\\
-\textbullet\ 和合本 (CUV) — 主要版本，經 ai-eden.com/bible 核對
-
-\vspace{0.3cm}
-
-\noindent\textbf{English}\\
-\textbullet\ New American Standard Bible (NASB 1995) — Primary
-\end{small}
-
-\section*{解經資源 Commentary Resources}
-
-\begin{small}
-\textbullet\ \textbf{老弟兄查經法} — Elder Wong's Bible Study Method\\
-\textbullet\ \textbf{John MacArthur} — \textit{2 Corinthians: MacArthur New Testament Commentary}, gty.org 講道系列\\
-\textbullet\ \textbf{G. Campbell Morgan} — \textit{The Corinthian Letters of Paul} (1946)\\
-\textbullet\ \textbf{John Chrysostom} — \textit{Homilies on Second Corinthians} (NPNF1-12)\\
-\textbullet\ \textbf{John Calvin} — \textit{Commentary on the Second Epistle to the Corinthians}
-
-\vspace{0.3cm}
-
-\noindent\textbf{關於摩根引文的說明}\\
-G. Campbell Morgan 的《The Corinthian Letters of Paul》(1946) 目前僅有
-archive.org 的掃描本，未提供可檢索之全文，因此無法逐頁核對逐字引文。
-本書凡列「摩根」一節者，除另有標明逐字引文外，均為編者依其一貫釋經取向
-所作的\textbf{要旨綜述}，並在該節末以「出處」行標明；查不到可靠依據的章次，
-寧可不列此節，也不臆測其論述。
-\end{small}
-
-\section*{線上資源 Online Resources}
-
-\begin{small}
-\textbullet\ \textbf{ai-eden.com/bible} — 經文核對 (CUV + NASB)\\
-\textbullet\ \textbf{gty.org} — Grace To You (John MacArthur)\\
-\textbullet\ \textbf{ccel.org} — Christian Classics Ethereal Library (教父與改教家著作)\\
-\textbullet\ \textbf{newadvent.org} — 教父文獻 (Nicene and Post-Nicene Fathers)
-\end{small}
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX D: GREEK WORD GLOSSARY
-%% ============================================
-\chapter*{Appendix D: Greek Word Glossary 希臘文原文詞彙表}
-\addcontentsline{toc}{chapter}{Appendix D: Greek Word Glossary 希臘文原文詞彙表}
-\markboth{Appendix D: Greek Word Glossary 希臘文原文詞彙表}{Appendix D: Greek Word Glossary 希臘文原文詞彙表}
-
-\begin{small}
-以下彙整全書二十四課中出現的希臘文關鍵詞，依段落分組。
-\textit{Key Greek terms occurring across all twenty-four lessons, grouped by passage.}
-\end{small}
-
-\section*{患難與安慰 Affliction \& Comfort (1章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{παράκλησις} \textit{(paraklēsis)} & 安慰、勸勉 & 1:3-7 \\
-\textbf{θλῖψις} \textit{(thlipsis)} & 患難、壓力 & 1:4, 8 \\
-\textbf{ἀπόκριμα} \textit{(apokrima)} & 判決、宣判 & 1:9 \\
-\textbf{ἀρραβών} \textit{(arrabōn)} & 憑據、訂金 & 1:22; 5:5 \\
-\textbf{ἁπλότης} \textit{(haplotēs)} & 坦率、單純、慷慨 & 1:12; 8:2; 9:11, 13; 11:3 \\
-\end{tabular}
-\end{small}
-
-\section*{饒恕與馨香之氣 Forgiveness \& the Aroma of Christ (2章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{λύπη} \textit{(lypē)} & 憂愁 & 2:1-7 \\
-\textbf{χαρίζομαι} \textit{(charizomai)} & 赦免、施恩 & 2:7, 10 \\
-\textbf{θριαμβεύω} \textit{(thriambeuō)} & 率領凱旋遊行 & 2:14 \\
-\textbf{εὐωδία} \textit{(euōdia)} & 馨香之氣 & 2:15 \\
-\textbf{καπηλεύω} \textit{(kapēleuō)} & 販賣、摻假圖利 & 2:17 \\
-\end{tabular}
-\end{small}
-
-\section*{新約執事與榮上加榮 New Covenant Ministers, Glory to Glory (3章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{ἐπιστολή} \textit{(epistolē)} & 信、書信 & 3:1-3 \\
-\textbf{ἱκανότης} \textit{(hikanotēs)} & 充足、資格 & 3:5-6 \\
-\textbf{δόξα} \textit{(doxa)} & 榮光、榮耀 & 3:7-18 \\
-\textbf{κάλυμμα} \textit{(kalymma)} & 帕子、遮蓋物 & 3:13-16 \\
-\textbf{καταργέω} \textit{(katargeō)} & 被廢去、歸於無效 & 3:7, 11, 13, 14 \\
-\textbf{μεταμορφόω} \textit{(metamorphoō)} & 改變形狀 & 3:18 \\
-\end{tabular}
-\end{small}
-
-\section*{光照人心與瓦器 The Light of the Gospel, Jars of Clay (4章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{ἐγκακέω} \textit{(enkakeō)} & 喪膽、灰心 & 4:1, 16 \\
-\textbf{εἰκών} \textit{(eikōn)} & 像、形像 & 4:4 \\
-\textbf{σκεῦος ὀστράκινον} \textit{(skeuos ostrakinon)} & 瓦器、陶器 & 4:7 \\
-\textbf{ὑπερβολή} \textit{(hyperbolē)} & 極度、超乎尋常 & 4:7, 17 \\
-\textbf{νέκρωσις} \textit{(nekrōsis)} & 置於死地的狀態 & 4:10 \\
-\textbf{ἀνακαινόω} \textit{(anakainoō)} & 更新 & 4:16 \\
-\textbf{βάρος δόξης} \textit{(baros doxēs)} & 榮耀的重量 & 4:17 \\
-\end{tabular}
-\end{small}
-
-\section*{天家盼望與和好使命 Our Heavenly Dwelling, Reconciliation (5章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{σκῆνος} \textit{(skēnos)} & 帳棚、帳幕 & 5:1, 4 \\
-\textbf{βῆμα} \textit{(bēma)} & 審判臺 & 5:10 \\
-\textbf{συνέχω} \textit{(synechō)} & 激勵、催逼 & 5:14 \\
-\textbf{καινὴ κτίσις} \textit{(kainē ktisis)} & 新造 & 5:17 \\
-\textbf{καταλλαγή} \textit{(katallagē)} & 和好 & 5:18-19 \\
-\textbf{πρεσβεύω} \textit{(presbeuō)} & 作使者、代表 & 5:20 \\
-\end{tabular}
-\end{small}
-
-\section*{分別為聖與敞開心門 Set Apart, Open Hearts (6-7章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{δεκτὸς καιρός} \textit{(dektos kairos)} & 悅納的時候 & 6:2 \\
-\textbf{ἑτεροζυγέω} \textit{(heterozygeō)} & 同負不同的軛 & 6:14 \\
-\textbf{ναὸς θεοῦ ζῶντος} \textit{(naos theou zōntos)} & 永生神的殿 & 6:16 \\
-\textbf{ἁγιωσύνη} \textit{(hagiōsynē)} & 聖潔 & 7:1 \\
-\textbf{μετάνοια} \textit{(metanoia)} & 悔改 & 7:9-10 \\
-\textbf{ἀμεταμέλητος} \textit{(ametamelētos)} & 無後悔的 & 7:10 \\
-\end{tabular}
-\end{small}
-
-\section*{恩典的奉獻 The Grace of Giving (8-9章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{χάρις} \textit{(charis)} & 恩典、捐貲 & 8:1-9; 9:14-15 \\
-\textbf{αὐθαίρετος} \textit{(authairetos)} & 甘心樂意、自發的 & 8:3 \\
-\textbf{ἐπτώχευσεν} \textit{(eptōcheusen)} & 使自己成為貧窮 & 8:9 \\
-\textbf{ἰσότης} \textit{(isotēs)} & 均平、公平 & 8:13-14 \\
-\textbf{ἱλαρός} \textit{(hilaros)} & 歡喜的、樂意的 & 9:7 \\
-\textbf{αὐτάρκεια} \textit{(autarkeia)} & 自足、凡事都夠用 & 9:8 \\
-\end{tabular}
-\end{small}
-
-\section*{屬靈爭戰與真實權柄 Spiritual Warfare, True Authority (10章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{ὀχύρωμα} \textit{(ochyrōma)} & 堅固的營壘 & 10:4 \\
-\textbf{αἰχμαλωτίζω} \textit{(aichmalōtizō)} & 擄掠、奪回 & 10:5 \\
-\textbf{ἐξουσία} \textit{(exousia)} & 權柄 & 10:8 \\
-\textbf{οἰκοδομή} \textit{(oikodomē)} & 建造、造就 & 10:8 \\
-\textbf{κανών} \textit{(kanōn)} & 準則、量尺 & 10:13, 15, 16 \\
-\end{tabular}
-\end{small}
-
-\section*{純正福音與軟弱誇口 The Pure Gospel, Boasting in Weakness (11章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{παρθένος} \textit{(parthenos)} & 童女、貞潔的女子 & 11:2 \\
-\textbf{ψευδαπόστολοι} \textit{(pseudapostoloi)} & 假使徒 & 11:13 \\
-\textbf{μετασχηματίζω} \textit{(metaschēmatizō)} & 變換外形、偽裝 & 11:13-15 \\
-\textbf{κόποις} \textit{(kopois)} & 勞苦 & 11:23 \\
-\textbf{κινδύνοις} \textit{(kindynois)} & 危險 & 11:26 \\
-\textbf{ἀσθενείᾳ} \textit{(astheneia)} & 軟弱 & 11:29-30; 12:9-10 \\
-\end{tabular}
-\end{small}
-
-\section*{刺與恩典、權柄與愛 The Thorn and Grace, Authority and Love (12-13章)}
-
-\begin{small}
-\begin{tabular}{@{}p{2.9cm}p{2.6cm}p{1.6in}@{}}
-\textbf{σκόλοψ τῇ σαρκί} \textit{(skolops tē sarki)} & 肉體上的一根刺 & 12:7 \\
-\textbf{ἀρκεῖ} \textit{(arkei)} & 夠用、足夠 & 12:9 \\
-\textbf{σημεῖα τοῦ ἀποστόλου} \textit{(sēmeia tou apostolou)} & 使徒的憑據 & 12:12 \\
-\textbf{σταυρωθεὶς ἐξ ἀσθενείας} \textit{(staurōtheis ex astheneias)} & 因軟弱被釘十字架 & 13:4 \\
-\textbf{δοκιμάζετε} \textit{(dokimazete)} & 試驗、察驗 & 13:5 \\
-\textbf{κοινωνία} \textit{(koinōnia)} & 團契、相交 & 13:14 \\
-\end{tabular}
-\end{small}
-
-\pagebreak
-
-%% ============================================
-%% APPENDIX E: READING PLAN
-%% ============================================
-\chapter*{Appendix E: A Reading Plan for 2 Corinthians 哥林多後書讀經計劃}
-\addcontentsline{toc}{chapter}{Appendix E: A Reading Plan for 2 Corinthians 哥林多後書讀經計劃}
-\markboth{Appendix E: A Reading Plan 讀經計劃}{Appendix E: A Reading Plan 讀經計劃}
-
-\section*{十三日讀經計劃 A Thirteen-Day Plan (一天一章 One Chapter a Day)}
-
-\begin{small}
-\renewcommand{\arraystretch}{1.25}
-\begin{tabular}{@{}p{1.3cm}p{2.3cm}p{3.0in}@{}}
-\toprule
-\textbf{天 Day} & \textbf{經文 Passage} & \textbf{焦點 Focus} \\
-\midrule
-1 & 1:1-24 & 患難中的安慰、誠實的事奉 \textit{Comfort in Affliction, Sincerity of Ministry} \\
-2 & 2:1-17 & 饒恕修復、基督馨香之氣 \textit{Forgiveness, the Aroma of Christ} \\
-3 & 3:1-18 & 新約執事、榮上加榮 \textit{Ministers of the New Covenant, Glory to Glory} \\
-4 & 4:1-18 & 光照人心、瓦器中的寶貝、永恆眼光 \textit{The Light of the Gospel, Jars of Clay, Eternal Perspective} \\
-5 & 5:1-21 & 天家盼望、和好的職分 \textit{Our Heavenly Dwelling, the Ministry of Reconciliation} \\
-6 & 6:1-18 & 分別為聖、永生神的殿 \textit{Set Apart, the Temple of the Living God} \\
-7 & 7:1-16 & 敞開心門、依神的意思憂愁 \textit{Open Hearts, Godly Sorrow} \\
-8 & 8:1-24 & 恩典的奉獻、忠心的管理 \textit{The Grace of Giving, Faithful Stewardship} \\
-9 & 9:1-15 & 甘心樂意、感恩榮神 \textit{The Cheerful Giver, Thanksgiving and Glory to God} \\
-10 & 10:1-18 & 屬靈爭戰、真實的權柄 \textit{Spiritual Warfare, True Authority} \\
-11 & 11:1-33 & 純正的福音、以軟弱誇口 \textit{The Pure Gospel, Boasting in Weakness} \\
-12 & 12:1-21 & 身上的一根刺、恩典夠用 \textit{The Thorn in the Flesh, Sufficient Grace} \\
-13 & 13:1-14 & 自我省察、三一的祝福 \textit{Self-Examination, the Trinitarian Blessing} \\
-\bottomrule
-\end{tabular}
-\end{small}
-
-\vspace{0.4cm}
-
-\section*{四週讀經計劃 A Compressed Four-Week Plan (小組查經適用 For Group Study)}
-
-\begin{small}
-若時間有限，可依循原24課主日學進度，每主日一課，約六個月讀畢全書；亦可壓縮為四週查經，大致對應全書兩部：\\
-\textit{For those following the original 24-lesson Sunday School pace, one lesson per Sunday covers the whole book in about six months. Alternatively, the thirteen chapters may be compressed into a four-week group study, roughly following the book's two parts:}
-\end{small}
-
-\vspace{0.2cm}
-
-\begin{small}
-\renewcommand{\arraystretch}{1.3}
-\begin{tabular}{@{}p{1.6cm}p{2.0cm}p{3.4in}@{}}
-\toprule
-\textbf{週 Week} & \textbf{經文 Passage} & \textbf{主題 Theme} \\
-\midrule
-第一週 & 1-3章 & 患難中的安慰與新約執事的憑據 \textit{Comfort in Affliction, the Credentials of a New Covenant Minister} \\
-第二週 & 4-7章 & 瓦器中的能力、天家盼望、和好與分別為聖 \textit{Power in Jars of Clay, Heavenly Hope, Reconciliation and Holiness} \\
-第三週 & 8-10章 & 恩典的奉獻與屬靈爭戰 \textit{The Grace of Giving, Spiritual Warfare} \\
-第四週 & 11-13章 & 護衛純正福音、身上的刺、愛中的權柄 \textit{Guarding the Pure Gospel, the Thorn, Authority in Love} \\
-\bottomrule
-\end{tabular}
-\end{small}
-
-\pagebreak
-
-%% ============================================
 %% END COVER PAGE — same full-bleed gold-bordered frame as
 %% the front COVER ART PAGE, so the book opens and closes
 %% with matching bookends.
@@ -1145,26 +724,26 @@ archive.org 的掃描本，未提供可檢索之全文，因此無法逐頁核�
 \cleardoublepage
 \thispagestyle{empty}
 \begin{tikzpicture}[remember picture, overlay]
-  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  \draw[ScriptureGold, line width=2.8pt]
+  \fill[CoverBg] (current page.south west) rectangle (current page.north east);
+  \draw[CoverAccent, line width=2.0pt]
     ([xshift=0.42in,yshift=0.42in]current page.south west)
     rectangle
     ([xshift=-0.42in,yshift=-0.42in]current page.north east);
-  \draw[ScriptureGold, line width=0.5pt]
+  \draw[CoverAccent, line width=0.45pt]
     ([xshift=0.50in,yshift=0.50in]current page.south west)
     rectangle
     ([xshift=-0.50in,yshift=-0.50in]current page.north east);
-  \draw[ThornRed, line width=0.3pt, opacity=0.55]
+  \draw[CoverMuted, line width=0.25pt, opacity=0.45]
     ([xshift=0.58in,yshift=0.58in]current page.south west)
     rectangle
     ([xshift=-0.58in,yshift=-0.58in]current page.north east);
   \foreach \cnr in {south west, south east, north west, north east} {
-    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
-    \fill[ThornRed]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
-    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+    \fill[CoverAccent] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.035in);
+    \fill[CoverAccent] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.035in);
+    \fill[CoverAccent] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.035in);
+    \fill[CoverAccent] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.035in);
+    \fill[CoverBg] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.030in);
+    \draw[CoverAccent, line width=0.45pt] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
   }
 \end{tikzpicture}
 \vspace*{\fill}
@@ -1172,54 +751,54 @@ archive.org 的掃描本，未提供可檢索之全文，因此無法逐頁核�
 
 % ===== SMALL CLAY JAR ECHO (bookend of the front cover art) =====
 \begin{tikzpicture}[scale=0.30, transform shape]
-  \draw[ScriptureGold, line width=0.3pt, opacity=0.14] (0,0.35) circle (2.0);
-  \draw[ScriptureGold, line width=0.3pt, opacity=0.22] (0,0.35) circle (1.4);
+  \draw[CoverAccent, line width=0.3pt, opacity=0.16] (0,0.35) circle (2.0);
+  \draw[CoverAccent, line width=0.3pt, opacity=0.24] (0,0.35) circle (1.4);
 
-  \fill[CommentaryBrown!55] (-0.75,-0.95) .. controls (-0.95,-0.4) and (-0.9,0.55) .. (-0.6,1.0)
+  \fill[CoverMuted!55] (-0.75,-0.95) .. controls (-0.95,-0.4) and (-0.9,0.55) .. (-0.6,1.0)
     -- (0.6,1.0) .. controls (0.9,0.55) and (0.95,-0.4) .. (0.75,-0.95)
     .. controls (0.5,-1.15) and (-0.5,-1.15) .. (-0.75,-0.95);
-  \fill[CommentaryBrown!65] (-0.32,1.0) rectangle (0.32,1.35);
-  \draw[CommentaryBrown!85, line width=1.2pt] (-0.4,1.35) -- (0.4,1.35);
+  \fill[CoverMuted!65] (-0.32,1.0) rectangle (0.32,1.35);
+  \draw[CoverMuted!85, line width=1.2pt] (-0.4,1.35) -- (0.4,1.35);
 
-  \draw[ScriptureGold, line width=1.4pt] (-0.15,0.85) -- (0.08,0.35) -- (-0.1,-0.15) -- (0.15,-0.75);
+  \draw[CoverAccent, line width=1.4pt] (-0.15,0.85) -- (0.08,0.35) -- (-0.1,-0.15) -- (0.15,-0.75);
   \foreach \ang in {60,75,90,105,120} {
-    \draw[ScriptureGold, line width=0.6pt, opacity=0.6] (0,0.35) -- (\ang:1.9);
+    \draw[CoverAccent, line width=0.6pt, opacity=0.7] (0,0.35) -- (\ang:1.9);
   }
 \end{tikzpicture}
 
 \vspace{0.08cm}
 
-{\fontsize{20}{24}\selectfont\color{ScriptureGold}\bfseries 恩典夠用}\\[0.10cm]
-{\Large\color{LightGray} Grace Is Sufficient}
+{\fontsize{20}{24}\selectfont\color{CoverAccent}\bfseries 恩典夠用}\\[0.10cm]
+{\Large\color{CoverMuted} Grace Is Sufficient}
 
 \vspace{0.25cm}
 
-{\normalsize\color{TextGray}\itshape
+{\normalsize\color{CoverText}\itshape
 「願主耶穌基督的恩惠、神的慈愛、\\
 聖靈的感動，常與你們眾人同在！」\\[0.1em]
 — 哥林多後書 13:14}
 
 \vspace{0.18cm}
 
-{\footnotesize\color{LightGray}
+{\footnotesize\color{CoverMuted}
 "The grace of the Lord Jesus Christ, and the love of God,\\
 and the fellowship of the Holy Spirit, be with you all." — 2 Corinthians 13:14}
 
 \vspace{0.16cm}
 
 \begin{tikzpicture}
-  \draw[ScriptureGold, line width=1pt] (-1.6,0) -- (-0.3,0);
-  \node[color=ScriptureGold] at (0,0) {\ensuremath{\dagger}};
-  \draw[ScriptureGold, line width=1pt] (0.3,0) -- (1.6,0);
+  \draw[CoverAccent, line width=1pt] (-1.6,0) -- (-0.3,0);
+  \node[color=CoverAccent] at (0,0) {\ensuremath{\dagger}};
+  \draw[CoverAccent, line width=1pt] (0.3,0) -- (1.6,0);
 \end{tikzpicture}
 
 \vspace{0.16cm}
 
-{\normalsize\bfseries\color{ThornRed} 關於本書 \textperiodcentered\ About This Book}
+{\normalsize\bfseries\color{CoverAccent} 關於本書 \textperiodcentered\ About This Book}
 
 \vspace{0.14cm}
 \begin{minipage}{4.5in}
-\footnotesize\color{TextGray}
+\footnotesize\color{CoverText}
 本書逐課研讀哥林多後書全書十三章、二十四課，是CCIC Sunnyvale主日學課程的研讀教材，也是保羅最私密的自傳性書信——他如何在患難中經歷神的安慰、在瓦器般的軟弱裏承載莫大的能力。全書整合老弟兄查經法、John MacArthur逐節解經、與G. Campbell Morgan的屬靈分析。
 
 \vspace{0.14cm}
@@ -1229,16 +808,16 @@ A lesson-by-lesson study of all thirteen chapters and twenty-four lessons of 2 C
 
 \vspace{0.2cm}
 
-{\small\scshape\color{ThornRed} Soli Deo Gloria}\quad{\footnotesize 唯獨榮耀神}
+{\small\scshape\color{CoverAccent} Soli Deo Gloria}\quad{\footnotesize\color{CoverMuted} 唯獨榮耀神}
 
 \vspace{0.1cm}
 
-{\footnotesize\color{LightGray}
+{\footnotesize\color{CoverMuted}
 PubHub 三書精讀出版系統 \textperiodcentered\ 2026}
 
 \vspace{0.15cm}
 
-{\Large\color{ScriptureGold}\ensuremath{\dagger}}
+{\Large\color{CoverAccent}\ensuremath{\dagger}}
 
 \end{center}
 \vspace*{\fill}

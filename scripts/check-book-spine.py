@@ -67,8 +67,15 @@ BOOKS = ROOT / "books" / "bible"
 # confirmed on 1-peter and james, both of which ship a 96-appendix-reading-
 # plan.md that got miscounted as a chapter and dinged for missing a 座標 line
 # and a return-to-Christ close it was never supposed to carry.
-CHAPTER_RE = re.compile(r"^(\d{2})-")
+CHAPTER_RE = re.compile(r"^(\d{2})[a-z]?-")
 APPENDIX_PREFIXES = ("96-", "97-", "98-", "99-", "000-", "00-", "00a", "00b", "00c", "00d")
+# Lettered appendix files (96a-, 99a-, 99b-, ... 99i- have all been seen in the
+# repo) slipped past APPENDIX_PREFIXES the same way lettered chapter files did
+# CHAPTER_RE, just in the opposite direction: before CHAPTER_RE allowed a
+# letter, "99a-appendix-....md" matched neither pattern and was silently
+# dropped from the chapter count; once CHAPTER_RE was widened it started
+# matching CHAPTER_RE instead and got miscounted as a chapter.
+LETTERED_APPENDIX_RE = re.compile(r"^9[6-9][a-z]-")
 
 # 1. Orientation: a front chapter that states the spine. Books name this
 #    differently (John: 啟示的次序與組織; Job: 啟示的次序與神的計劃), so match
@@ -102,7 +109,7 @@ THRESHOLD = 0.90       # per-chapter checks: fraction of chapters that must pass
 def chapters(book_dir):
     out = []
     for p in sorted(book_dir.glob("*.md")):
-        if p.name.startswith(APPENDIX_PREFIXES):
+        if p.name.startswith(APPENDIX_PREFIXES) or LETTERED_APPENDIX_RE.match(p.name):
             continue
         if CHAPTER_RE.match(p.name):
             out.append(p)

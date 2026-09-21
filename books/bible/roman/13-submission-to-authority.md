@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,10 +15,10 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：律法的總結 Plērōma Nomou** \
-> **全書坐標**：13:1-14上承12章活祭的邏輯，在「活祭」卷（12:1-15:13）中把獻祭具體化到公民生活；13:8-10「愛是律法的總結」回答羅馬書七章「我所願意的善，我反不做」的絕望，也呼應8:2「聖靈的律……釋放了我」。 \
+> **全書座標**：13:1-14上承12章活祭的邏輯，在「活祭」卷（12:1-15:13）中把獻祭具體化到公民生活；13:8-10「愛是律法的總結」回答羅馬書七章「我所願意的善，我反不做」的絕望，也呼應8:2「聖靈的律……釋放了我」。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
-保羅在這一章沒有直接提耶穌的名字，然而整章的重量都壓在祂身上。「凡掌權的都是神所命的」——這句話能站立得住，是因為在萬有之上，還有一位「萬王之王，萬主之主」（提前6:15），凱撒的權柄不過是暫時的、有限的、受託的；真正配得無條件順服的，只有那位「一切權柄都賜給我了」的基督（太28:18）。而全章的高峰在13:14：「總要披戴主耶穌基督」——這不是一句勸勉的裝飾語，是保羅在12:1「將身體獻上，當作活祭」之後，把獻祭具體化到每一個清晨：你今天穿上的，是誰？是律法要求卻無力成全的規條，還是那位已經成全了律法、如今要活在你裏面的主耶穌基督？愛人如己，只有在祂裏面才不是苛求，而是「披戴」上一位已經完全活出這愛的主。
+保羅在13:14明確提到主耶穌基督，整章的重量都壓在祂身上。「凡掌權的都是神所命的」——這句話能站立得住，是因為在萬有之上，還有一位「萬王之王，萬主之主」（提前6:15），凱撒的權柄不過是暫時的、有限的、受託的；真正配得無條件順服的，只有那位「一切權柄都賜給我了」的基督（太28:18）。而全章的高峰在13:14：「總要披戴主耶穌基督」——這不是一句勸勉的裝飾語，是保羅在12:1「將身體獻上，當作活祭」之後，把獻祭具體化到每一個清晨：你今天穿上的，是誰？是律法要求卻無力成全的規條，還是那位已經成全了律法、如今要活在你裏面的主耶穌基督？愛人如己，只有在祂裏面才不是苛求，而是「披戴」上一位已經完全活出這愛的主。
 
 ---
 
@@ -63,27 +63,27 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> ^1^在上有權柄的，人人當順服他，因為沒有權柄不是出於神的，凡掌權的都是神所命的。^2^所以，抗拒掌權的就是抗拒神的命，抗拒的必自取刑罰。
+> <sup>1</sup>在上有權柄的，人人當順服他，因為沒有權柄不是出於神的，凡掌權的都是神所命的。<sup>2</sup>所以，抗拒掌權的就是抗拒神的命，抗拒的必自取刑罰。
 
-> ^3^作官的原不是叫行善的懼怕，乃是叫作惡的懼怕。你願意不懼怕掌權的嗎？你只要行善，就可得他的稱讚；^4^因為他是神的用人，是於你有益的。你若作惡，卻當懼怕；因為他不是空空地佩劍，他是神的用人，是申冤的，刑罰那作惡的。^5^所以你們必須順服，不但是因為刑罰，也是因為良心。
+> <sup>3</sup>作官的原不是叫行善的懼怕，乃是叫作惡的懼怕。你願意不懼怕掌權的嗎？你只要行善，就可得他的稱讚；<sup>4</sup>因為他是神的用人，是於你有益的。你若作惡，卻當懼怕；因為他不是空空地佩劍，他是神的用人，是申冤的，刑罰那作惡的。<sup>5</sup>所以你們必須順服，不但是因為刑罰，也是因為良心。
 
-> ^6^你們納糧也為這個緣故，因他們是神的差役，常常特管這事。^7^凡人所當得的，就給他：當得糧的，給他納糧；當得稅的，給他上稅；當懼怕的，懼怕他；當恭敬的，恭敬他。
+> <sup>6</sup>你們納糧也為這個緣故，因他們是神的差役，常常特管這事。<sup>7</sup>凡人所當得的，就給他：當得糧的，給他納糧；當得稅的，給他上稅；當懼怕的，懼怕他；當恭敬的，恭敬他。
 
-> ^8^**凡事都不可虧欠人，惟有彼此相愛，要常以為虧欠。因為愛人的，就完全了律法。**^9^**像那「不可姦淫，不可殺人，不可偷盜，不可貪婪」，或有別的誡命，都包在「愛人如己」這一句話之內了。**^10^**愛是不加害於人的，所以愛就完全了律法。**
+> <sup>8</sup>**凡事都不可虧欠人，惟有彼此相愛，要常以為虧欠。因為愛人的，就完全了律法。**<sup>9</sup>**像那「不可姦淫，不可殺人，不可偷盜，不可貪婪」，或有別的誡命，都包在「愛人如己」這一句話之內了。**<sup>10</sup>**愛是不加害於人的，所以愛就完全了律法。**
 
-> ^11^再者，你們曉得，現今就是該趁早睡醒的時候，因為我們得救，現今比初信的時候更近了。^12^黑夜已深，白晝將近，我們就當脫去暗昧的行為，帶上光明的兵器。^13^行事為人要端正，好像行在白晝。不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒。^14^**總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。**
+> <sup>11</sup>再者，你們曉得，現今就是該趁早睡醒的時候，因為我們得救，現今比初信的時候更近了。<sup>12</sup>黑夜已深，白晝將近，我們就當脫去暗昧的行為，帶上光明的兵器。<sup>13</sup>行事為人要端正，好像行在白晝。不可荒宴醉酒，不可好色邪蕩，不可爭競嫉妒。<sup>14</sup>**總要披戴主耶穌基督，不要為肉體安排，去放縱私慾。**
 
-### English — NASB
+### English — NASB 1995
 
-> ^1^Every person is to be in subjection to the governing authorities. For there is no authority except from God, and those which exist are established by God. ^2^Therefore whoever resists authority has opposed the ordinance of God; and they who have opposed will receive condemnation upon themselves.
+> <sup>1</sup>Every person is to be in subjection to the governing authorities. For there is no authority except from God, and those which exist are established by God. <sup>2</sup>Therefore whoever resists authority has opposed the ordinance of God; and they who have opposed will receive condemnation upon themselves.
 
-> ^3^For rulers are not a cause of fear for good behavior, but for evil. Do you want to have no fear of authority? Do what is good and you will have praise from the same; ^4^for it is a minister of God to you for good. But if you do what is evil, be afraid; for it does not bear the sword for nothing; for it is a minister of God, an avenger who brings wrath on the one who practices evil. ^5^Therefore it is necessary to be in subjection, not only because of wrath, but also for conscience' sake.
+> <sup>3</sup>For rulers are not a cause of fear for good behavior, but for evil. Do you want to have no fear of authority? Do what is good and you will have praise from the same; <sup>4</sup>for it is a minister of God to you for good. But if you do what is evil, be afraid; for it does not bear the sword for nothing; for it is a minister of God, an avenger who brings wrath on the one who practices evil. <sup>5</sup>Therefore it is necessary to be in subjection, not only because of wrath, but also for conscience' sake.
 
-> ^6^For because of this you also pay taxes, for *rulers* are servants of God, devoting themselves to this very thing. ^7^Render to all what is due them: tax to whom tax *is due;* custom to whom custom; fear to whom fear; honor to whom honor.
+> <sup>6</sup>For because of this you also pay taxes, for *rulers* are servants of God, devoting themselves to this very thing. <sup>7</sup>Render to all what is due them: tax to whom tax *is due;* custom to whom custom; fear to whom fear; honor to whom honor.
 
-> ^8^**Owe nothing to anyone except to love one another; for he who loves his neighbor has fulfilled *the* law.** ^9^**For this, "YOU SHALL NOT COMMIT ADULTERY, YOU SHALL NOT MURDER, YOU SHALL NOT STEAL, YOU SHALL NOT COVET," and if there is any other commandment, it is summed up in this saying, "YOU SHALL LOVE YOUR NEIGHBOR AS YOURSELF."** ^10^**Love does no wrong to a neighbor; therefore love is the fulfillment of *the* law.**
+> <sup>8</sup>**Owe nothing to anyone except to love one another; for he who loves his neighbor has fulfilled *the* law.** <sup>9</sup>**For this, "YOU SHALL NOT COMMIT ADULTERY, YOU SHALL NOT MURDER, YOU SHALL NOT STEAL, YOU SHALL NOT COVET," and if there is any other commandment, it is summed up in this saying, "YOU SHALL LOVE YOUR NEIGHBOR AS YOURSELF."** <sup>10</sup>**Love does no wrong to a neighbor; therefore love is the fulfillment of *the* law.**
 
-> ^11^*Do* this, knowing the time, that it is already the hour for you to awaken from sleep; for now salvation is nearer to us than when we believed. ^12^The night is almost gone, and the day is near. Therefore let us lay aside the deeds of darkness and put on the armor of light. ^13^Let us behave properly as in the day, not in carousing and drunkenness, not in sexual promiscuity and sensuality, not in strife and jealousy. ^14^**But put on the Lord Jesus Christ, and make no provision for the flesh in regard to *its* lusts.**
+> <sup>11</sup>*Do* this, knowing the time, that it is already the hour for you to awaken from sleep; for now salvation is nearer to us than when we believed. <sup>12</sup>The night is almost gone, and the day is near. Therefore let us lay aside the deeds of darkness and put on the armor of light. <sup>13</sup>Let us behave properly as in the day, not in carousing and drunkenness, not in sexual promiscuity and sensuality, not in strife and jealousy. <sup>14</sup>**But put on the Lord Jesus Christ, and make no provision for the flesh in regard to *its* lusts.**
 
 ---
 
@@ -362,7 +362,7 @@ publisher: 三書精讀出版系統
 
 > 「字句叫人死，精義叫人活。十誡列出『不可』的清單，是為了那還沒有愛的人；有了愛，清單自然成全，不是廢掉。」
 
-**你看見耶穌了嗎**：保羅在這一章沒有直接提耶穌的名字，然而全章的重量都壓在祂身上——「凡掌權的都是神所命的」能站立得住，是因為那位「一切權柄都賜給我了」的基督，才是真正配得無條件順服的萬王之王。13:14「總要披戴主耶穌基督」，是保羅把12:1「將身體獻上，當作活祭」具體化到每一個清晨：你今天穿上的，是誰？愛人如己，只有在祂裏面才不是苛求，而是披戴上一位已經完全活出這愛的主。你看見祂了嗎？
+**你看見耶穌了嗎**：保羅在13:14明確提到主耶穌基督，全章的重量都壓在祂身上——「凡掌權的都是神所命的」能站立得住，是因為那位「一切權柄都賜給我了」的基督，才是真正配得無條件順服的萬王之王。13:14「總要披戴主耶穌基督」，是保羅把12:1「將身體獻上，當作活祭」具體化到每一個清晨：你今天穿上的，是誰？愛人如己，只有在祂裏面才不是苛求，而是披戴上一位已經完全活出這愛的主。你看見祂了嗎？
 
 ---
 

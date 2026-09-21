@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：第七印揭開，天上寂靜半小時——審判加劇之前，先有敬拜與代求，「審判與保守」這一步在寂靜中稍作停頓，隨即轉入七號。
+
 七印的系列在最高潮處，卻給出全書最出人意料的一幕：不是雷轟閃電，而是「天上寂靜約有二刻」。這寂靜不是空白，而是懸念——是羔羊揭開最後一印之後，全天庭屏息等候接下來要展開的七號審判。緊接著寂靜之後，是眾聖徒的祈禱與香一同升到神面前的畫面：原來這靜默的核心，是神俯聽祂百姓禱告的那一刻。羔羊掌權，不只是展開審判的次序，也包括為祂百姓的呼求留出被聽見的空間。
 
 ---
@@ -119,8 +121,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -138,13 +141,27 @@ publisher: 三書精讀出版系統
 
 > — Matthew Henry, *Commentary on the Whole Bible*, Revelation 8
 
-### 當代釋經
+### 摩根 (G. Campbell Morgan)
 
-**約翰·麥克阿瑟 (John MacArthur)**：
+摩根將天上的寂靜與地上的喧嚷對照，指出這正是全書從審判轉向號筒的樞紐：
+
+> "On earth uproar and strife follow as at Babel, but in heaven silence for half an hour."
+>
+> 中譯：地上隨之而來的是如巴別塔般的喧嚷與紛爭，但天上卻有半小時之久的寂靜。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄8章, https://www.studylight.org/commentaries/eng/gcm/revelation-8.html
+
+### 麥克阿瑟 (John MacArthur)
 
 麥克阿瑟形容，這二刻的寂靜，是全宇宙在審判即將傾倒之前所能有的最莊嚴時刻——連天使都屏住了讚美的聲音，等候神接下來的作為。
 
 > — John MacArthur, *The MacArthur New Testament Commentary: Revelation 1-11*（大意整理，非逐字翻譯）
+
+麥克阿瑟在講道中指出，這寂靜是天地角色的徹底倒轉——人一向抱怨神的沉默，如今輪到受造界肅靜，等候神說話：
+
+> "Up till then, in some ways angels and men have been noisy, but God has been silent. And now God is about to speak in the full fury of judgment, and angels and redeemed men in heaven are silent. The tables are turned."
+>
+> 中譯：在此之前，某種意義上天使與人一直是喧嚷的，但神卻是沉靜的。如今神即將在審判的烈怒中說話，天上的天使與蒙贖的人卻沉靜下來——局面完全倒轉了。（66-31）
+> — John MacArthur, "The Seventh Seal" (gty.org, sermon 66-31), https://www.gty.org/sermons/66-31/the-seventh-seal
 
 **G.K.畢爾 (G.K. Beale)**：
 

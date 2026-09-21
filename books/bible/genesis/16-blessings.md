@@ -162,16 +162,25 @@ publisher: 三書精讀出版系統
 
 摩根指出，約瑟臨終前吩咐左右的人，將來以色列人回到本地時，要把他的骸骨一同帶上去；這吩咐顯出全書所記載最偉大的信心得勝之一——一個信靠神、深信神必使祂百姓穩固建立之人的得勝，他因此確信他們終必再回到自己的地上（此段為對摩根立場的綜述，不加引號）。摩根用一句話為全書作結：
 
-> "...the story of beginnings closes with the phrase, 'a coffin in Egypt.'"（……「起頭」〔創世記，Genesis〕的故事，就以「一具棺材在埃及」這句話畫上句點。）
-> — G. Campbell Morgan, *The Analyzed Bible*, Vol. 9: *The Book of Genesis* (Fleming H. Revell, 1907), archive.org/details/analyzedbible09morg
+> "Thus ends the Book of Genesis. It is a story of beginnings and not of completions. That which commenced with the majestic phrase, 'In the beginning God,' ends with the equally suggestive phrase, 'a coffin in Egypt.'"
+>
+> 中譯：創世記的故事就此結束。這是一個「起頭」的故事，而非「完成」的故事。那以「起初，神……」這句莊嚴的話語開始的，如今以同樣意味深長的一句話結束：「一具棺材在埃及。」
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記50章, https://www.studylight.org/commentaries/eng/gcm/genesis-50.html
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟一向強調，創世記49:10是舊約中最早、最明確的彌賽亞式王權預言之一，而聖經對這句話的應驗軌跡是可以逐步追蹤的：大衛出於猶大（得王權）、所羅門承接（王朝穩固）、南國猶大在被擄後仍保留「猶大」之名與大衛家系的記載（族譜刻意保存），直到新約家譜把耶穌的世系一路帶過猶大支派、大衛家。麥克阿瑟在講道《Christmas Future》（80-418，2014年12月21日，gty.org）中指出，創世記49:8-10把猶大支派描繪成一隻獅子（"the tribe of Judah is described as a lion"），這預言塑造了猶太人對彌賽亞的期待——一位獅子般威武的君王；然而耶穌第一次降臨並未按這期待顯現得勝的王權，麥克阿瑟指出這獅子般的形像要等到基督再來時才完全應驗。
+麥克阿瑟一向強調，創世記49:10是舊約中最早、最明確的彌賽亞式王權預言之一，而聖經對這句話的應驗軌跡是可以逐步追蹤的：大衛出於猶大（得王權）、所羅門承接（王朝穩固）、南國猶大在被擄後仍保留「猶大」之名與大衛家系的記載（族譜刻意保存），直到新約家譜把耶穌的世系一路帶過猶大支派、大衛家。麥克阿瑟在講道《Christmas Future》中指出，創世記49:8-10把猶大支派描繪成一隻獅子，這預言塑造了猶太人對彌賽亞的期待——一位獅子般威武的君王；然而耶穌第一次降臨並未按這期待顯現得勝的王權，麥克阿瑟指出這獅子般的形像要等到基督再來時才完全應驗：
+
+> "...the tribe of Judah is described as a lion."
+>
+> 中譯：……猶大支派被描繪成一隻獅子。
+> — John MacArthur, *Christmas Future*，講道編號 80-418，2014年12月21日，gty.org
 
 論到約瑟臨終的宣告「你們的意思是要害我，但神的意思原是好的」（50:20），麥克阿瑟說：
 
-> "God works His own ends. No matter what the intention of people, be it good or bad, God will bring about His own ultimate end."（神成就祂自己的旨意——不論人的用意是善是惡，神終必要帶出祂自己至終的目的。）
+> "God works His own ends. No matter what the intention of people, be it good or bad, God will bring about His own ultimate end."
+>
+> 中譯：神成就祂自己的旨意——不論人的用意是善是惡，神終必要帶出祂自己至終的目的。
 > — *Joseph: Because God Meant It for Good*，講道編號 80-388，2012年4月29日，gty.org
 
 神把人一切看似各自獨立的行動、意念、動機，都調度、組織在一起，使它們彼此協調，成就祂至終的美意。
@@ -210,7 +219,7 @@ publisher: 三書精讀出版系統
 
 具體行動：今天寫下一句你願意「憑信心交託、卻未必今生能看見應驗」的禱告或宣告——為你的家人、你的教會、或這世代——把它收在你會再次翻開的地方，效法雅各與約瑟，把還沒看見的部分，鄭重交在神手裏。
 
-**你看見耶穌了嗎**：雅各臨終祝福裏那句「圭必不離猶大，直等細羅來到，萬民都必歸順」（49:10），是整卷創世記最清楚的一句彌賽亞預言——啟示錄5:5親口證實，那位「猶大支派中的獅子」，就是已經得勝、配展開書卷的復活基督。
+**你看見耶穌了嗎**：雅各臨終那句「直等細羅來到」（49:10，見上文〈基督焦點〉），是整卷創世記最清楚的一句彌賽亞預言——那一位，如今已經得勝、配展開書卷（啟5:5）。
 
 ---
 
@@ -253,4 +262,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

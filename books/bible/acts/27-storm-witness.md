@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第二十七章 · 風暴中的見證人 (The Witness in the Storm)
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（經文選段） (CUV Selected Passages)
 
 > ^1^非斯都既然定規了叫我們坐船往意大利去，便將保羅和別的囚犯交給御營裏的一個百夫長，名叫猶流。^2^有一隻亞大米田的船要沿著亞細亞一帶地方的海邊走，我們就上了那船開行，有馬其頓的帖撒羅尼迦人亞里達古和我們同去。
 
@@ -75,7 +75,7 @@ publisher: 三書精讀出版系統
 
 > ^39^到了天亮，他們不認識那地方，但見一個海灣有岸可登，就商議能把船攏進去不能。^40^於是砍斷纜索，棄錨在海裏，同時也鬆開舵繩，拉起頭篷，順著風向岸行去。^41^但遇著兩水夾流的地方，就把船擱了淺，船頭膠住不動，船尾被浪的猛力衝壞。^42^兵丁的意思要把囚犯殺了，恐怕有洑水脫逃的。^43^但百夫長要救保羅，不准他們任意而行，就吩咐會洑水的跳下水去先上岸，^44^其餘的人可以用板子或船上的零碎東西上岸。這樣，眾人都得了救，上了岸。
 
-### English — NASB
+### English — NASB（經文選段） (NASB Selected Passages)
 
 > ^1^When it was decided that we would sail for Italy, they proceeded to deliver Paul and some other prisoners to a centurion of the Augustan cohort named Julius. ^2^And embarking in an Adramyttian ship, which was about to sail to the regions along the coast of Asia, we put out to sea accompanied by Aristarchus, a Macedonian of Thessalonica.
 
@@ -288,7 +288,7 @@ publisher: 三書精讀出版系統
 - **晚上**：回想今天，我有沒有在壓力來的時候，先講辦法、先講焦慮，卻忘了先講「我屬誰」？
 - **一個行動**：今天向一個正在經歷風暴的人，說一句提醒他「你屬誰」的話，而不只是給他一個解決方案。
 
-**你看見耶穌了嗎？** 本章沒有一句紅字，耶穌卻從未離開這艘船——那位在加利利海上斥責風浪的主，如今藉着一位使者、一句應許，在地中海的黑夜裏托住二百七十六條性命。風暴可以拆掉船，拆不掉「你必定站在該撒面前」這句話；因為說這話的，是海洋、大地、諸天的主。
+**你看見耶穌了嗎？** 本章沒有一句紅字，耶穌卻從未離開這艘船——那位在加利利海上斥責風浪的主，如今藉著一位使者、一句應許，在地中海的黑夜裏托住二百七十六條性命。風暴可以拆掉船，拆不掉「你必定站在該撒面前」這句話；因為說這話的，是海洋、大地、諸天的主。
 
 ---
 

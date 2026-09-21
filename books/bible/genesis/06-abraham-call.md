@@ -172,27 +172,31 @@ publisher: 三書精讀出版系統
 > "The call was personal and purposeful. Abram was commanded to sever the ties of all past associations and to go forth, governed wholly by the will of God."
 >
 > 中譯：「這呼召是個人性的，也是有目的的。亞伯蘭奉命斬斷一切過去的關係聯繫，出發前行，完全順服神的旨意而行。」
-> — G. Campbell Morgan, *An Exposition of the Whole Bible*, 論創世記12章
+> — G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記12章, https://www.studylight.org/commentaries/eng/gcm/genesis-12.html
 
 摩根強調神的呼召是極其個人化的：「你要離開⋯⋯我要指示你⋯⋯我要使你⋯⋯我要賜福給你。」這不只是命令，更是關係性的召喚——神很少在起頭就顯明全部的路徑，祂要的是「這一步」的信靠，而非「全程」的把握。亞伯蘭到達迦南後，儘管迦南人已住在那地，他仍透過具體行動表達信心——摩根形容：「亞伯蘭支搭他的帳棚，是佔有的記號；築起他的壇，是效忠的象徵」（"Abram pitched his tent, a sign of possession, and built his altar, a symbol of allegiance."）。這不是被動的姿態，而是在逆境中主動宣告信靠。
 
-摩根也毫不迴避亞伯蘭的失敗。當饑荒來臨，亞伯蘭下埃及以自保，摩根寫道：「在饑荒面前，他企圖靠下埃及來保全自己的安全。結果，我們看見那應許之『後裔』的母親，竟駭人地出現在法老的後宮裏。」("In the presence of famine he attempted to secure his own safety by going into Egypt. As the result of this we have the startling picture of the chosen mother of the promised Seed in the harem of Pharaoh.") 摩根接著指出，儘管亞伯蘭一時失信，神仍以災禍擊打法老一家，保守了祂更大的計劃，把亞伯蘭從自己失信的後果中救出來。（以上摩根引文參 G. Campbell Morgan, *An Exposition of the Whole Bible*, 論創世記12章）
+摩根也毫不迴避亞伯蘭的失敗。當饑荒來臨，亞伯蘭下埃及以自保，摩根寫道：「在饑荒面前，他企圖靠下埃及來保全自己的安全。結果，我們看見那應許之『後裔』的母親，竟駭人地出現在法老的後宮裏。」("In the presence of famine he attempted to secure his own safety by going into Egypt. As the result of this we have the startling picture of the chosen mother of the promised Seed in the harem of Pharaoh.") 摩根接著指出，儘管亞伯蘭一時失信，神仍以災禍擊打法老一家，保守了祂更大的計劃，把亞伯蘭從自己失信的後果中救出來。（以上摩根引文參 G. Campbell Morgan, *An Exposition of the Whole Bible* (1959)，論創世記12章, https://www.studylight.org/commentaries/eng/gcm/genesis-12.html）
 
 在另一部著作裏，摩根對亞伯拉罕一生的「七次顯現」給出了最精煉的結構性總結：
 
-> "To Abraham there were seven communications, each initiating a new movement. His faith was obedient faith."（神向亞伯拉罕發出七次communication〔傳達／顯現〕，每一次都開啟一個新的階段；他的信心，是「順服的信心」。）
+> "To Abraham there were seven communications, each initiating a new movement. His faith was obedient faith."
 >
-> "By these seven communications God led Abraham step by step through more trying circumstances toward higher experiences, and, because he followed, to larger possessions. In the process of the story we find on the part of Abraham deflections from faith. In a time of difficulty he went down into Egypt and by so doing fell, not merely from the simplicity of faith, but from truth."（藉着這七次傳達，神帶領亞伯拉罕一步一步經過更艱難的處境，進到更高的經歷；因着他跟隨，就得着更大的產業。在這故事的過程中，我們看見亞伯拉罕也有偏離信心的時候——遇見困難時，他下到埃及去，如此行，他所偏離的，不只是信心的單純，更是真理本身。）
+> 中譯：神向亞伯拉罕發出七次communication〔傳達／顯現〕，每一次都開啟一個新的階段；他的信心，是「順服的信心」。
+>
+> "By these seven communications God led Abraham step by step through more trying circumstances toward higher experiences, and, because he followed, to larger possessions. In the process of the story we find on the part of Abraham deflections from faith. In a time of difficulty he went down into Egypt and by so doing fell, not merely from the simplicity of faith, but from truth."
+>
+> 中譯：藉着這七次傳達，神帶領亞伯拉罕一步一步經過更艱難的處境，進到更高的經歷；因着他跟隨，就得着更大的產業。在這故事的過程中，我們看見亞伯拉罕也有偏離信心的時候——遇見困難時，他下到埃及去，如此行，他所偏離的，不只是信心的單純，更是真理本身。
 > — G. Campbell Morgan, *The Analyzed Bible*, Vol. 1: *Genesis–Esther* (Fleming H. Revell, 1907), pp. 19-21, archive.org/details/analyzedbible01morg
 
 摩根把以撒的兩次顯現稱為「被動的信心」、雅各的五次顯現稱為「不安的信心」，唯獨亞伯拉罕的七次，稱為「順服的信心」——三個人領受神顯現的次數不同，正是因為神按各人信心的性質，用不同的方式對待。而摩根對亞伯拉罕失敗的評語同樣值得留意：他沒有把下埃及輕輕帶過，說那只是「信心的軟弱」，而是直言那是「偏離了真理」——但正是這同一位摩根，把亞伯拉罕稱為「開路者、信心的先驅」（"the man who blazed the way, and became the pioneer of faith"）。失敗沒有取消他的稱號，這正是本章〈領受要點〉第4點「恩典先於、也貫穿失敗」最有力的歷史注腳。
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance—obeyed; and he went out, not knowing where he went... While being called, he obeyed... it was instant, kind of immediate obedience... That's the pilgrimage of faith: to forsake his birth place, his home, his estate; sever family ties; leave loved ones; abandon all of his present habits for future uncertainty."
+> "By faith Abraham, when he was called to go out into a place which he should after receive for an inheritance"—what's the next word?—"obeyed; and he went out, not knowing where he went... While being called, he obeyed... it was instant, kind of immediate obedience... That's the pilgrimage of faith: to forsake his birth place, his home, his estate; sever family ties; leave loved ones; abandon all of his present habits for future uncertainty."
 >
 > 中譯：「亞伯拉罕因著信，蒙召的時候就出去，往將來要承受為業的地方去——他就順服了；出去的時候，還不知道往哪裏去⋯⋯在蒙召的當下，他就順服了⋯⋯那幾乎是立即的順服⋯⋯這就是信心的朝聖之旅：離棄出生之地、家園、產業，斬斷家族的聯繫，撇下所愛的人，放下眼前一切熟悉的習慣，走向未知的將來。」
-> — John MacArthur, *The Faith of Abraham*（1973年1月21日講道，經文為來11:8-19），gty.org
+> — John MacArthur, *The Faith of Abraham*（sermon 1630，1973年1月21日講道，經文為來11:8-19），https://www.gty.org/library/sermons-library/1630/the-faith-of-abraham
 
 麥克阿瑟常把創世記12章與羅馬書4章並讀，指出亞伯拉罕之所以被稱為「凡信之人的父」（羅4:11），關鍵不在於他的行為完美，而在於「亞伯拉罕信神，這就算為他的義」（羅4:3，引創15:6）——創世記12章的蒙召記載，正是這信心最早的具體表現：在還沒有任何肉眼可見的憑據之前，亞伯蘭已經憑著神的話語起行。
 
@@ -223,11 +227,11 @@ publisher: 三書精讀出版系統
 
 ## 老弟兄查經 (Reading with the Elder Brother)
 
-**精義一句話**：加拉太書3:16那句「不是說眾子孫，乃是說一個子孫，就是基督」，是解開整個亞伯拉罕故事的鑰匙——你若不知道終點是基督，創世記12-25章讀起來只是一個家族的興衰史；你若知道終點是基督，每一次應許、每一次築壇、每一次失敗，都成了指向祂的記號。
+**精義一句話**：你若不知道終點是基督（見上文〈基督焦點〉），創世記12-25章讀起來只是一個家族的興衰史；你若知道，每一次應許、每一次築壇、每一次失敗，都成了指向祂的記號。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-**萬族得福的線索**：創世記12:3「地上的萬族都必因你得福」，是一條貫穿全本聖經的伏線。這應許先在創世記22:18向亞伯拉罕重申，並加上「因為你聽從了我的話」；接著在整個舊約，以色列雖屢屢失敗，神仍信實地保守這血脈，直到「大衛的子孫」誕生。保羅在加拉太書3:8-16把這條線收束到一點：那「一個子孫」就是基督，萬族因祂、藉著信、不藉著律法，得着亞伯拉罕的福。緊接著3:14更把「亞伯拉罕的福」講得具體：「這是要使亞伯拉罕的福，因着基督耶穌臨到外邦人，使我們能因信得着所應許的聖靈」——原來「萬族因你得福」這句應許，最終兌現的形式，不是土地、不是財富，是聖靈親自臨到信的人。這條線索一路連到使徒行傳2章：五旬節聖靈降臨在耶路撒冷，正是亞伯拉罕蒙召近兩千年後，這句古老應許第一次大規模、公開地兌現（見上文「巴別/五旬節」對比表）。這條線的終點畫面，在啟示錄7:9展開：「有一大群人，沒有人能數過來，是從各國、各族、各民、各方來的，站在寶座和羔羊面前」——創世記12:3那句對一個牧羊人說的應許，最終成了千千萬萬人站在羔羊面前敬拜的景象。
+**萬族得福的線索**：創世記12:3「地上的萬族都必因你得福」，是一條貫穿全本聖經的伏線。這應許先在創世記22:18向亞伯拉罕重申；保羅在加拉太書3:8-16把這條線收束到一點：那「一個子孫」就是基督，萬族因祂、藉著信、不藉著律法，得着亞伯拉罕的福，而所得的福，具體來說是「所應許的聖靈」（加3:14）。這句應許最終兌現的形式，不是土地、不是財富，是聖靈親自臨到信的人——這條線索的終點畫面，在啟示錄7:9展開：「有一大群人，沒有人能數過來，是從各國、各族、各民、各方來的，站在寶座和羔羊面前」。
 
 這條伏線其實從創世記11章的廢墟上開始鋪陳。巴別人聚集「要建造一座城和一座塔」，想靠自己的手為自己立名、把自己留住在一處（11:4）；神的審判是使他們言語變亂、彼此不通、「分散在全地上」（11:8-9）——人想聚集，神使他們分散。緊接著的創世記12章，神卻反過來呼召一個人「離開」，不是去建造一座留下的城，而是去支搭帳棚、築壇、求告神的名（12:7-8）。
 
@@ -240,7 +244,7 @@ publisher: 三書精讀出版系統
 | 敬拜 | 全篇無一座壇、無一次求告神的名 | 兩次築壇，「求告耶和華的名」（12:8） |
 | 結局 | 分散——審判性的隔絕 | 得福——終末聚集萬族敬拜（啟7:9） |
 
-五旬節那天，「從天下各國來的」人（徒2:5-11）各人聽見門徒用自己的鄉談述說神的大作為——巴別使人語言不通、彼此隔絕，聖靈卻讓不同語言的人在同一個福音信息裏彼此明白，這是「萬族得福」開始收割的頭一波果子；終點在啟示錄21章，新耶路撒冷同樣是一座「城」（21:2,10），卻與巴別的城恰恰相反——巴別的城是人手所造、要通天、要立自己的名，新耶路撒冷卻是「從天而降」，是神親自「所經營所建造」的那座城（來11:10）。
+這張對比表的終點，五旬節那天第一次公開兌現：「從天下各國來的」人（徒2:5-11）各人聽見門徒用自己的鄉談述說神的大作為——巴別使人語言不通、彼此隔絕，聖靈卻讓不同語言的人在同一個福音信息裏彼此明白。到了啟示錄21章，新耶路撒冷同樣是一座「城」（21:2,10），卻與巴別的城恰恰相反——巴別的城是人手所造、要通天、要立自己的名，新耶路撒冷卻是「從天而降」，是神親自「所經營所建造」的那座城（來11:10）。
 
 **祭壇的線索**：亞伯拉罕的一生可以用兩個字追蹤：帳棚與祭壇。帳棚代表他終生寄居、沒有留下的城；祭壇代表他每一次與神相遇後留下的敬拜記號。示劍，摩利橡樹旁（12:6-7）——亞伯蘭剛進迦南，一坪土地都還不屬於他，卻「在那裏為向他顯現的耶和華築了一座壇」，信心先於產業；伯特利與艾之間（12:8）——再築一座壇，並「求告耶和華的名」，這句話此後成了他信仰生活最清楚的標記；重返伯特利的壇（13:3-4）——下埃及失敗之後，他回到「起先築壇的地方」重新求告耶和華的名，失敗沒有使他從此不再築壇，而是回到失敗以前最後一次真實敬拜神的地方，重新開始；希伯崙、幔利橡樹旁（13:18）——與羅得分地後安頓最久之地；摩利亞山（22:9）——一生代價最重的一座壇。希伯來書11:9-10這樣描述：「他因著信，在應許之地作客，好像在異地居住帳棚⋯⋯等候那座有根基的城，就是神所經營所建造的。」帳棚說明他從未把任何一處迦南的土地當作終點，祭壇說明他從未把任何一處居所當作與神無關的地方。
 
@@ -270,7 +274,7 @@ publisher: 三書精讀出版系統
 
 具體行動：找出你生命中一個「因為看不清楚結果，所以遲遲不肯順服」的呼召或決定，今天效法亞伯蘭「築壇、求告耶和華的名」（創12:8）——用具體的禱告向神說出這個處境，把「不知道往哪裏去」的部分誠實交託給祂，然後邁出可以邁出的下一步，而不是等到看清全部路徑才行動。
 
-**你看見耶穌了嗎**：亞伯蘭蒙召離開的那一天，神應許「地上的萬族都必因你得福」（12:3）；加拉太書3:16說得清楚，這應許裏「一個子孫」指的不是眾人，是一個人——基督。難怪耶穌自己說，亞伯拉罕「歡歡喜喜地仰望我的日子」（約8:56）：亞伯蘭出去的時候還不知道往哪裏去，但他所仰望的那座城，早已在等他。
+**你看見耶穌了嗎**：亞伯蘭出去的時候還不知道往哪裏去，但他所仰望的那一位——那「一個子孫」（加3:16）——早已在等他。
 
 ---
 
@@ -312,4 +316,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合三方資源：老弟兄查經教導、John MacArthur (gty.org)、G. Campbell Morgan*

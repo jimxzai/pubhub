@@ -49,6 +49,35 @@ Sections **removed entirely** from the old template (their content lives
 above): the second `配詩 (Hymns & Psalms)`, `三大資源深度整合`, `老弟兄精義`,
 `詩篇回應` + `聖詩默想` (merged), `老弟兄查經 · 深讀` (renamed).
 
+## Chapter numbering: keep the book's own sequence unified in the H1
+
+`# 章題` drives pandoc's `\thechapter` — a plain, sequential 1, 2, 3… one per
+file. **Never prefix or mix the real source-book chapter/verse range into the
+H1 title** (e.g. `# 創世記12章 · 亞伯蘭蒙召`), even when the study's own
+numbering doesn't line up with the source book's real chapters and a reader
+might benefit from seeing the correspondence. That correspondence already has
+two dedicated homes — use them instead:
+
+- the **reference line** immediately below the H1 (`路加福音 N:x-y` /
+  `創世記 12:1-20`)
+- the **座標 line** inside 基督焦點, which locates the chapter on the
+  whole-book spine (see `spine-and-score.md`)
+- a **chapter-to-range index table** (e.g. 99a's Part 1 in Genesis), a
+  dedicated column, not a duplicated heading
+
+Genesis (2026-09-19) tried the H1-prefix fix to de-emphasize a unified
+numbering the user found misleading (TOC showed "6　亞伯蘭蒙召" for what is
+actually Genesis 12, with no visible link between the two). It built clean,
+lint/spine/ledger all passed, and it was reverted the moment the user saw the
+rendered result: **"much clearer to keep the unified and original
+numbering."** Real-book ranges vary in length — a single chapter, a multi-
+chapter span, a range that crosses into the next book ("50章…出埃及記1:7") —
+and splicing that variable-length text into the H1 breaks the very thing that
+made the sequential 1-N numbering easy to scan in the TOC and running headers.
+**When the internal number doesn't match the real book, the fix is not to
+change the H1** — confirm the reference line, 座標 line, and index table are
+each doing their job, and leave the chapter title numbering alone.
+
 ## What never changes during an edit
 
 1. The 7-line YAML front matter — build scripts strip it with `tail -n +8`.

@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第六章 · 揀選七人 (The Choosing of the Seven)
@@ -41,7 +41,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^那時，門徒增多，有說希利尼話的猶太人向希伯來人發怨言，因為在天天的供給上忽略了他們的寡婦。^2^十二使徒叫眾門徒來，對他們說：「我們撇下神的道去管理飯食，原是不合宜的。^3^所以弟兄們，當從你們中間選出七個有好名聲、被聖靈充滿、智慧充足的人，我們就派他們管理這事。^4^但我們要專心以祈禱、傳道為事。」^5^大眾都喜悅這話，就揀選了司提反，乃是大有信心、聖靈充滿的人；又揀選腓利、伯羅哥羅、尼迦挪、提門、巴米拿，並進猶太教的安提阿人尼哥拉。^6^叫他們站在使徒面前，使徒禱告了，就按手在他們頭上。^7^神的道興旺起來，在耶路撒冷門徒數目加增的甚多，也有許多祭司信從了這道。
 
@@ -49,7 +49,7 @@ publisher: 三書精讀出版系統
 
 > ^11^就買出人來說：「我們聽見他說謗讟摩西和神的話。」^12^他們又聳動了百姓、長老並文士，就忽然來捉拿他，把他帶到公會去，^13^設下假見證說：「這個人說話不住地糟踐聖所和律法。^14^我們曾聽見他說，這拿撒勒人耶穌要毀壞此地，也要改變摩西所交給我們的規條。」^15^在公會裏坐著的人都定睛看他，見他的面貌好像天使的面貌。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^2^So the twelve summoned the congregation of the disciples and said, "It is not desirable for us to neglect the word of God in order to serve tables. ^3^Therefore, brethren, select from among you seven men of good reputation, full of the Spirit and of wisdom, whom we may put in charge of this task. ^4^But we will devote ourselves to prayer and to the ministry of the word."
 

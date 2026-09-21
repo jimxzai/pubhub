@@ -1,8 +1,8 @@
 # 約翰福音研讀 (Gospel of John Deep Study)
 
-**狀態**：✅ 出版就緒（321 頁，0 glyph／0 overfull，三支 lint 全清）
+**狀態**：⚠️ 編輯與出版驗證中（最近建置：327 頁；排版閘門已清，權利與編輯核驗待清）
 **版本**：4.0 — 十一節房規版／NASB 1995
-**最近更新**：2026-08-31
+**最近更新**：2026-09-20
 
 ---
 
@@ -16,13 +16,23 @@
 
 **核心框架**：榮耀 = 恩典 + 真理。七個神蹟（works）彰顯恩典，七個「我是」（words）彰顯真理——兆頭是圖畫，「我是」是圖畫下面的說明文字。
 
+**內容範圍聲明**：本版是「研讀指南＋經文選摘」，不是完整的中英雙語《約翰福音》排印本。各章的 CUV／NASB 經文區塊按研讀需要選取；除非明確標示完整段落，兩種語言不保證逐節平行。若要作完整雙語聖經研讀本，必須先完成逐節配對與版本權利確認。
+
 ---
 
 ## 建置
 
+數位閱讀校樣：先完成 PDF 建置，再執行 `python3 build_digital.py`。
+產物位於 `digital/`，包含 EPUB 3 及自足的 HTML；保留正文、九個附錄與附文字說明的地圖。
+仍需閱讀器及螢幕閱讀器實測，不能據此宣稱通過無障礙認證。
+
+`bash build_release.sh` 驗證並產生編輯校樣；`--publish` 另要求所有出版簽核都有證據。
+每次建置均重新產生經文索引及 `output/gospel-of-john-passage-inventory.md` 節號清單。
+書名、版本及兩種譯本均有精確檢查；沒有 YAML 的全書領受總綱除外。
+
 ```bash
 # 從倉庫根目錄
-bash scripts/build-gospel-consolidated.sh        # → output/gospel-of-john-consolidated.pdf
+bash books/bible/gospel-of-john/build_release.sh  # 驗證 manifest + 建置 + 警告閘門
 .claude/skills/eat-bible/driver.sh gospel        # 建置 + 驗證（log／字型／baseline）
 ```
 
@@ -33,6 +43,16 @@ scripts/lint-templates.sh gospel-of-john
 python3 scripts/lint-chapter-markup.py books/bible/gospel-of-john
 python3 scripts/lint-scripture-text.py books/bible/gospel-of-john
 ```
+
+出版源碼驗證（在本目錄執行）：
+
+```bash
+python3 validate_publication.py
+```
+
+驗證器會檢查出版 manifest、必要檔案、十一節體例、CUV／NASB 選摘標記
+差異，以及 README 的版本漂移。差異在目前「選摘版」定位下列為 REVIEW，
+不是假裝成完整雙語排印本的通行證。
 
 模板：`templates/pdf/gospel-of-john.latex`（含九個附錄與封面）。
 
@@ -68,7 +88,7 @@ python3 scripts/lint-scripture-text.py books/bible/gospel-of-john
 ```
 # 章題 (English)
 約翰福音 N:x-y
-**經文核對**：ai-eden.com 連結（CUV,NASB 對照）
+**經文核對**：ai-eden.com 連結（CUV／NASB 選摘核對）
 
 ## 基督焦點      鑰詞／「我是」座標框 + 一段導引
 ## 配詩          一首公有領域聖詩 + 作者年份
@@ -87,7 +107,7 @@ python3 scripts/lint-scripture-text.py books/bible/gospel-of-john
 
 ## 體例規則（改稿必讀）
 
-- **經文**：中文以《聖經》和合本（CUV, 1919）為準，英文用 **NASB 1995**。`## 經文` 一節的內容不得改動——包括 `^n^` 節號、`\jesus{}` 紅字段、粗體。
+- **經文**：中文以《聖經》和合本（CUV, 1919）為準，英文用 **NASB 1995**。本版為選摘；每一段已納入的引文仍不得改動——包括 `^n^` 節號、`\jesus{}` 紅字段、粗體。
 - **`\jesus{}` 內只能用 `\textbf{}`／`\textit{}`**：markdown 的 `**`／`*` 在 raw LaTeX 巨集裏不會轉換，會印出星號。
 - **引號內的經文必須逐字等同和合本**。要強調或改寫，就把字放到引號外。
 - **不杜撰**：經文、注疏、史料一律可查證；轉引他人之說須標明未覆核原著。
@@ -100,6 +120,6 @@ python3 scripts/lint-scripture-text.py books/bible/gospel-of-john
 
 ## 版本說明
 
-`complete-book.md`（2026-01 的全書串接檔）已於 2026-08-31 移除：它是舊版產物，不在建置流程內，且內容與現行 4.0 版（十一節體例、NASB、老弟兄稱呼）不符，留著只會誤導。需要單一檔案的全書，請跑建置腳本產生 `output/gospel-of-john-consolidated.md`。舊檔仍可從 git 歷史取回。
+出版 manifest：`publication-manifest.json`。權利與引用清單：`RIGHTS-AND-CITATION-LEDGER.md`。需要單一串接檔，請跑建置腳本產生 `output/gospel-of-john-consolidated.md`；目前該產物仍須通過權利、引文與排版警告清理，才可稱為正式出版檔。
 
 出版報告與評分：`docs/build-reports/gospel-of-john/FINAL-PUBLICATION-REPORT.md`。

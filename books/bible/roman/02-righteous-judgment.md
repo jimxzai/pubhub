@@ -1,8 +1,8 @@
 ---
-title: 羅馬書研讀
+title: 羅馬書研讀 — Romans Deep Study — 2026 整編版
 subtitle: Romans Deep Study
 author: PubHub 三書精讀系統
-date: 2026年8月
+date: 2026-09-20
 publisher: 三書精讀出版系統
 ---
 
@@ -15,7 +15,7 @@ publisher: 三書精讀出版系統
 ## 基督焦點 (Christ at the Center)
 
 > **本章鑰詞：無可推諉 Anapologētos** \
-> **全書坐標**：卷一「定罪」的中段。1章把外邦人釘在「無可推諉」的判詞下（1:20），2章用同一個字（2:1）把論斷者與擁有律法的猶太人一併帶到同一座法庭前——為3:9-20「都在罪惡之下」的總起訴書鋪路。 \
+> **全書座標**：卷一「定罪」的中段。1章把外邦人釘在「無可推諉」的判詞下（1:20），2章用同一個字（2:1）把論斷者與擁有律法的猶太人一併帶到同一座法庭前——為3:9-20「都在罪惡之下」的總起訴書鋪路。 \
 > （全書骨幹見卷首《「神的義」與「因信而順服」——全書的骨幹》）
 
 這一章只提到耶穌一次——「神藉耶穌基督審判人隱祕事的日子」（2:16）——卻是全章的樞紐。保羅拆毀的兩座人造避難所（自義的論斷者、擁有律法卻不行律法的猶太人），最終都指向同一位審判者。祂不只是審判的執行者，也是2:13「行律法的稱義」這句話唯一真正的滿足者：律法要求的是「行」，而歷史上只有一位真正「行」全了律法——正是那位將要按公義審判活人死人的耶穌基督（提後4:1）。2:29「割禮也是心裏的，在乎靈」所預告的，不是一個抽象原則，而是祂藉聖靈要在信祂之人心裏動的工（羅8:3-4；多3:5）。這一章把每一條人的路都堵死，是為了讓讀者在第三章看見：唯有基督，是律法的終結，也是律法的成全（羅10:4）。
@@ -46,27 +46,27 @@ publisher: 三書精讀出版系統
 
 > **版本說明**：本章中文經文為和合本 (CUV)，經 cnbible.com 逐節核對（寫作時未能穩定取得和合本修訂版 (RCUV) 之逐節文本，故如實標明所用版本，不冒充 RCUV；全書逐章核對來源詳見附錄二〈參考資料〉）。英文經文為 New American Standard Bible (NASB 1995)，經 biblehub.com 逐節核對，並確認為1995年版、非2020年修訂版。
 
-> **^1^你這論斷人的，無論你是誰，也無可推諉。**你在甚麼事上論斷人，就在甚麼事上定自己的罪，因你這論斷人的，自己所行卻和別人一樣。^2^我們知道這樣行的人，神必照真理審判他。^3^你這人哪，你論斷行這樣事的人，自己所行的卻和別人一樣，你以為能逃脫神的審判嗎？^4^還是你藐視他豐富的恩慈、寬容、忍耐，不曉得他的恩慈是領你悔改呢？^5^你竟任著你剛硬不悔改的心，為自己積蓄憤怒，以致神震怒，顯他公義審判的日子來到。
+> **<sup>1</sup>你這論斷人的，無論你是誰，也無可推諉。**你在甚麼事上論斷人，就在甚麼事上定自己的罪，因你這論斷人的，自己所行卻和別人一樣。<sup>2</sup>我們知道這樣行的人，神必照真理審判他。<sup>3</sup>你這人哪，你論斷行這樣事的人，自己所行的卻和別人一樣，你以為能逃脫神的審判嗎？<sup>4</sup>還是你藐視他豐富的恩慈、寬容、忍耐，不曉得他的恩慈是領你悔改呢？<sup>5</sup>你竟任著你剛硬不悔改的心，為自己積蓄憤怒，以致神震怒，顯他公義審判的日子來到。
 
-> ^6^他必照各人的行為報應各人。^7^凡恆心行善，尋求榮耀、尊貴和不能朽壞之福的，就以永生報應他們；^8^惟有結黨、不順從真理反順從不義的，就以憤怒、惱恨報應他們。^9^將患難、困苦加給一切作惡的人，先是猶太人，後是希臘人；^10^卻將榮耀、尊貴、平安加給一切行善的人，先是猶太人，後是希臘人。**^11^因為神不偏待人。**
+> <sup>6</sup>他必照各人的行為報應各人。<sup>7</sup>凡恆心行善，尋求榮耀、尊貴和不能朽壞之福的，就以永生報應他們；<sup>8</sup>惟有結黨、不順從真理反順從不義的，就以憤怒、惱恨報應他們。<sup>9</sup>將患難、困苦加給一切作惡的人，先是猶太人，後是希臘人；<sup>10</sup>卻將榮耀、尊貴、平安加給一切行善的人，先是猶太人，後是希臘人。**<sup>11</sup>因為神不偏待人。**
 
-> ^12^凡沒有律法犯了罪的，也必不按律法滅亡；凡在律法以下犯了罪的，也必按律法受審判。**^13^（原來在神面前，不是聽律法的為義，乃是行律法的稱義。**^14^沒有律法的外邦人，若順著本性行律法上的事，他們雖然沒有律法，自己就是自己的律法。^15^這是顯出律法的功用刻在他們心裏，他們是非之心同作見證，並且他們的思念互相較量，或以為是，或以為非。）^16^就在神藉耶穌基督審判人隱祕事的日子，照著我的福音所言。
+> <sup>12</sup>凡沒有律法犯了罪的，也必不按律法滅亡；凡在律法以下犯了罪的，也必按律法受審判。**<sup>13</sup>（原來在神面前，不是聽律法的為義，乃是行律法的稱義。**<sup>14</sup>沒有律法的外邦人，若順著本性行律法上的事，他們雖然沒有律法，自己就是自己的律法。<sup>15</sup>這是顯出律法的功用刻在他們心裏，他們是非之心同作見證，並且他們的思念互相較量，或以為是，或以為非。）<sup>16</sup>就在神藉耶穌基督審判人隱祕事的日子，照著我的福音所言。
 
-> ^17^你稱為猶太人，又倚靠律法，且指著神誇口；^18^既從律法中受了教訓，就曉得神的旨意，也能分別是非；^19^又深信自己是給瞎子領路的，是黑暗中人的光，^20^是蠢笨人的師傅，是小孩子的先生，在律法上有知識和真理的模範。^21^你既是教導別人，還不教導自己嗎？你講說人不可偷竊，自己還偷竊嗎？^22^你說人不可姦淫，自己還姦淫嗎？你厭惡偶像，自己還偷竊廟中之物嗎？^23^你指著律法誇口，自己倒犯律法玷辱神嗎？^24^神的名在外邦人中，因你們受了褻瀆，正如經上所記的。
+> <sup>17</sup>你稱為猶太人，又倚靠律法，且指著神誇口；<sup>18</sup>既從律法中受了教訓，就曉得神的旨意，也能分別是非；<sup>19</sup>又深信自己是給瞎子領路的，是黑暗中人的光，<sup>20</sup>是蠢笨人的師傅，是小孩子的先生，在律法上有知識和真理的模範。<sup>21</sup>你既是教導別人，還不教導自己嗎？你講說人不可偷竊，自己還偷竊嗎？<sup>22</sup>你說人不可姦淫，自己還姦淫嗎？你厭惡偶像，自己還偷竊廟中之物嗎？<sup>23</sup>你指著律法誇口，自己倒犯律法玷辱神嗎？<sup>24</sup>神的名在外邦人中，因你們受了褻瀆，正如經上所記的。
 
-> ^25^你若是行律法的，割禮固然於你有益；若是犯律法的，你的割禮就算不得割禮。^26^所以那未受割禮的，若遵守律法的條例，他雖然未受割禮，豈不算是有割禮嗎？^27^而且那本來未受割禮的，若能全守律法，豈不是要審判你這有儀文和割禮竟犯律法的人嗎？^28^因為外面作猶太人的，不是真猶太人；外面肉身的割禮，也不是真割禮。**^29^惟有裏面作的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。**這人的稱讚不是從人來的，乃是從神來的。
+> <sup>25</sup>你若是行律法的，割禮固然於你有益；若是犯律法的，你的割禮就算不得割禮。<sup>26</sup>所以那未受割禮的，若遵守律法的條例，他雖然未受割禮，豈不算是有割禮嗎？<sup>27</sup>而且那本來未受割禮的，若能全守律法，豈不是要審判你這有儀文和割禮竟犯律法的人嗎？<sup>28</sup>因為外面作猶太人的，不是真猶太人；外面肉身的割禮，也不是真割禮。**<sup>29</sup>惟有裏面作的，才是真猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。**這人的稱讚不是從人來的，乃是從神來的。
 
-### English — NASB
+### English — NASB 1995
 
-> **^1^Therefore you have no excuse, everyone of you who passes judgment, for in that which you judge another, you condemn yourself; for you who judge practice the same things.** ^2^And we know that the judgment of God rightly falls upon those who practice such things. ^3^But do you suppose this, O man, when you pass judgment on those who practice such things and do the same *yourself,* that you will escape the judgment of God? ^4^Or do you think lightly of the riches of His kindness and tolerance and patience, not knowing that the kindness of God leads you to repentance? ^5^But because of your stubbornness and unrepentant heart you are storing up wrath for yourself in the day of wrath and revelation of the righteous judgment of God,
+> **<sup>1</sup>Therefore you have no excuse, everyone of you who passes judgment, for in that which you judge another, you condemn yourself; for you who judge practice the same things.** <sup>2</sup>And we know that the judgment of God rightly falls upon those who practice such things. <sup>3</sup>But do you suppose this, O man, when you pass judgment on those who practice such things and do the same *yourself,* that you will escape the judgment of God? <sup>4</sup>Or do you think lightly of the riches of His kindness and tolerance and patience, not knowing that the kindness of God leads you to repentance? <sup>5</sup>But because of your stubbornness and unrepentant heart you are storing up wrath for yourself in the day of wrath and revelation of the righteous judgment of God,
 
-> ^6^who WILL RENDER TO EACH PERSON ACCORDING TO HIS DEEDS: ^7^to those who by perseverance in doing good seek for glory and honor and immortality, eternal life; ^8^but to those who are selfishly ambitious and do not obey the truth, but obey unrighteousness, wrath and indignation. ^9^*There will be* tribulation and distress for every soul of man who does evil, of the Jew first and also of the Greek, ^10^but glory and honor and peace to everyone who does good, to the Jew first and also to the Greek. **^11^For there is no partiality with God.**
+> <sup>6</sup>who WILL RENDER TO EACH PERSON ACCORDING TO HIS DEEDS: <sup>7</sup>to those who by perseverance in doing good seek for glory and honor and immortality, eternal life; <sup>8</sup>but to those who are selfishly ambitious and do not obey the truth, but obey unrighteousness, wrath and indignation. <sup>9</sup>*There will be* tribulation and distress for every soul of man who does evil, of the Jew first and also of the Greek, <sup>10</sup>but glory and honor and peace to everyone who does good, to the Jew first and also to the Greek. **<sup>11</sup>For there is no partiality with God.**
 
-> ^12^For all who have sinned without the Law will also perish without the Law, and all who have sinned under the Law will be judged by the Law; **^13^for *it is* not the hearers of the Law *who* are just before God, but the doers of the Law will be justified.** ^14^For when Gentiles who do not have the Law do instinctively the things of the Law, these, not having the Law, are a law to themselves, ^15^in that they show the work of the Law written in their hearts, their conscience bearing witness and their thoughts alternately accusing or else defending them, ^16^on the day when, according to my gospel, God will judge the secrets of men through Christ Jesus.
+> <sup>12</sup>For all who have sinned without the Law will also perish without the Law, and all who have sinned under the Law will be judged by the Law; **<sup>13</sup>for *it is* not the hearers of the Law *who* are just before God, but the doers of the Law will be justified.** <sup>14</sup>For when Gentiles who do not have the Law do instinctively the things of the Law, these, not having the Law, are a law to themselves, <sup>15</sup>in that they show the work of the Law written in their hearts, their conscience bearing witness and their thoughts alternately accusing or else defending them, <sup>16</sup>on the day when, according to my gospel, God will judge the secrets of men through Christ Jesus.
 
-> ^17^But if you bear the name "Jew" and rely upon the Law and boast in God, ^18^and know *His* will and approve the things that are essential, being instructed out of the Law, ^19^and are confident that you yourself are a guide to the blind, a light to those who are in darkness, ^20^a corrector of the foolish, a teacher of the immature, having in the Law the embodiment of knowledge and of the truth, ^21^you, therefore, who teach another, do you not teach yourself? You who preach that one shall not steal, do you steal? ^22^You who say that one should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? ^23^You who boast in the Law, through your breaking the Law, do you dishonor God? ^24^For "THE NAME OF GOD IS BLASPHEMED AMONG THE GENTILES BECAUSE OF YOU," just as it is written.
+> <sup>17</sup>But if you bear the name "Jew" and rely upon the Law and boast in God, <sup>18</sup>and know *His* will and approve the things that are essential, being instructed out of the Law, <sup>19</sup>and are confident that you yourself are a guide to the blind, a light to those who are in darkness, <sup>20</sup>a corrector of the foolish, a teacher of the immature, having in the Law the embodiment of knowledge and of the truth, <sup>21</sup>you, therefore, who teach another, do you not teach yourself? You who preach that one shall not steal, do you steal? <sup>22</sup>You who say that one should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples? <sup>23</sup>You who boast in the Law, through your breaking the Law, do you dishonor God? <sup>24</sup>For "THE NAME OF GOD IS BLASPHEMED AMONG THE GENTILES BECAUSE OF YOU," just as it is written.
 
-> ^25^For indeed circumcision is of value if you practice the Law; but if you are a transgressor of the Law, your circumcision has become uncircumcision. ^26^So if the uncircumcised man keeps the requirements of the Law, will not his uncircumcision be regarded as circumcision? ^27^And he who is physically uncircumcised, if he keeps the Law, will he not judge you who though having the letter *of the Law* and circumcision are a transgressor of the Law? ^28^For he is not a Jew who is one outwardly, nor is circumcision that which is outward in the flesh. **^29^But he is a Jew who is one inwardly; and circumcision is that which is of the heart, by the Spirit, not by the letter;** and his praise is not from men, but from God.
+> <sup>25</sup>For indeed circumcision is of value if you practice the Law; but if you are a transgressor of the Law, your circumcision has become uncircumcision. <sup>26</sup>So if the uncircumcised man keeps the requirements of the Law, will not his uncircumcision be regarded as circumcision? <sup>27</sup>And he who is physically uncircumcised, if he keeps the Law, will he not judge you who though having the letter *of the Law* and circumcision are a transgressor of the Law? <sup>28</sup>For he is not a Jew who is one outwardly, nor is circumcision that which is outward in the flesh. **<sup>29</sup>But he is a Jew who is one inwardly; and circumcision is that which is of the heart, by the Spirit, not by the letter;** and his praise is not from men, but from God.
 
 ---
 

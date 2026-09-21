@@ -1,9 +1,9 @@
 ---
-title: 使徒行傳研讀
-subtitle: Acts of the Apostles Deep Study
+title: 使徒行傳研讀 — Acts of the Apostles Deep Study — 2026 整編版
+subtitle: 見證 Witnesses
 author: PubHub 三書精讀系統
-date: 2026年8月
-publisher: 三書精讀出版系統
+date: 2026年9月20日
+publisher: PubHub 三書精讀系統
 ---
 
 # 第十二章 · 希律與教會的禱告 (Herod and the Praying Church)
@@ -43,7 +43,7 @@ publisher: 三書精讀出版系統
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本 (CUV)
+### 中文 — 和合本（獨立參考選段；不與英文逐節對應） (CUV Independent Reference Excerpts)
 
 > ^1^那時，希律王下手苦害教會中幾個人，^2^用刀殺了約翰的哥哥雅各。^3^他見猶太人喜歡這事，又去捉拿彼得。那時正是除酵的日子。^4^希律拿了彼得，收在監裏，交付四班兵丁看守，每班四個人，意思要在逾越節後把他提出來，當著百姓辦他。
 
@@ -59,7 +59,7 @@ publisher: 三書精讀出版系統
 
 > ^24^神的道日見興旺，越發廣傳。
 
-### English — NASB
+### English — NASB (Independent Reference Excerpts; not verse-parallel with Chinese)
 
 > ^5^So Peter was kept in the prison, but prayer for him was being made fervently by the church to God.
 

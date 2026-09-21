@@ -1,0 +1,4 @@
+interface:
+  display_name: "老弟兄查經"
+  short_description: "Scripture-grounded insights with the Elder Brother"
+  default_prompt: "請用 $ask-elder-wong 帶我查考這段經文，整理領受與亮光，分清經文根據、原有記錄和本次編者整理，並引導具體的生命回應。"

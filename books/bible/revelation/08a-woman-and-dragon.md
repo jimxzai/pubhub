@@ -14,6 +14,8 @@ publisher: 三書精讀出版系統
 
 ## 基督焦點 (Christ at the Center)
 
+> **全書座標**：全書第五步「爭戰」由此開始——幔子拉開，讀者才看見地上教會受苦背後，其實是天上婦人與龍的爭戰。
+
 啟示錄的敘事在此轉入全書的核心戰場——不是列國之間的戰爭，而是貫穿整本聖經、從創世記3:15就已宣告的那場更深的爭戰：女人的後裔與蛇之間的爭戰。婦人生了一個「將來要用鐵杖轄管萬國」的男孩子（引自詩篇2:9），龍立刻要吞吃這孩子——但孩子「被提到神寶座那裡去了」。這短短一句話，濃縮了基督降生、受死、復活、升天的整個救贖工程：仇敵想要毀滅祂，卻無法阻止祂完成救贖、登上寶座。這一章告訴我們：世界歷史真正的主軸，從來不是帝國興衰，而是這位曾被試圖吞吃、如今已坐在寶座上的基督，與那條古蛇之間的爭戰——而這場爭戰，早已在十字架上決定了結局。
 
 ---
@@ -120,8 +122,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節各條均為編者按該作者著作要旨所作的**中文撮述，非逐字翻譯**；
-> 引文行只標明出處，供讀者自行查證原文之用，**不應作為原文引用轉引**。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：參考資料》。
 
 ### 教父時期
 
@@ -144,6 +147,24 @@ publisher: 三書精讀出版系統
 布靈格在他的講章中，特別強調12:11「弟兄勝過他」的宣告，鼓勵當時飽受逼迫的宗教改革信徒：真正的得勝不是逃避苦難，而是靠著基督的血與堅定的見證，即使付上生命的代價也不退縮。
 
 > — Heinrich Bullinger, *A Hundred Sermons upon the Apocalypse*, Sermon on Revelation 12
+
+### 摩根 (G. Campbell Morgan)
+
+摩根指出，這段異象所描繪的爭戰，最終的得勝憑藉不是屬地的權勢，而是羔羊的血與見證的道：
+
+> "A description is given of a conflict between principalities and powers, fallen and unfallen. Perfect victory is gained through the blood of the Lamb and His word of testimony."
+>
+> 中譯：這裏描繪了一場墮落與未墮落的執政掌權者之間的爭戰。完全的得勝，是藉著羔羊的血與祂見證的道而得的。
+> — G. Campbell Morgan, *Morgan's Exposition on the Whole Bible*, 論啟示錄12章, https://www.studylight.org/commentaries/eng/gcm/revelation-12.html
+
+### 麥克阿瑟 (John MacArthur)
+
+論信徒得勝所憑藉的能力來源，他在講道中說：
+
+> "It is not that they had some personal power of their own. No, the weapons of our warfare are not physical or fleshly or carnal, they're spiritual and mighty, and greater is He that is in us than he that is in the world."
+>
+> 中譯：這不是說他們自己有甚麼個人的能力。不，我們爭戰的兵器不是屬物質的、屬肉體的，不是屬肉血的，而是屬靈的、且是有能力的；那在我們裡面的，比那在世界上的更大。（sermon 66-42）
+> — John MacArthur, "The War of the Ages, Part 2" (gty.org, sermon 66-42), https://www.gty.org/sermons/66-42/the-war-of-the-ages-part-2
 
 ### 當代釋經
 

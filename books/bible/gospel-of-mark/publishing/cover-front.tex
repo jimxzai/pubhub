@@ -1,0 +1,70 @@
+% Mark's vector cover: 7 x 10 inches, matching the Genesis series treatment.
+\definecolor{MarkCoverDark}{RGB}{28,12,18}
+\definecolor{MarkCoverLight}{RGB}{72,28,35}
+\definecolor{MarkCoverGold}{RGB}{220,184,112}
+\definecolor{MarkCoverCream}{RGB}{250,245,233}
+\definecolor{MarkCoverMuted}{RGB}{215,197,185}
+\newcommand{\MarkCoverGround}{%
+  \shade[top color=MarkCoverDark,bottom color=MarkCoverLight]
+    (0,0) rectangle (7,10);
+  \draw[MarkCoverGold,line width=1.0pt] (0.32,0.32) rectangle (6.68,9.68);
+  \draw[MarkCoverGold,opacity=0.55,line width=0.35pt] (0.40,0.40) rectangle (6.60,9.60);
+  \foreach \x/\y in {0.32/0.32,6.68/0.32,0.32/9.68,6.68/9.68}{%
+    \fill[MarkCoverGold] (\x,\y) circle (0.025);
+  }
+}
+\newcommand{\MarkOxSeal}{%
+  \draw[MarkCoverGold,line width=0.6pt] (0,0) circle (0.49);
+  \draw[MarkCoverGold,opacity=0.45,line width=0.3pt] (0,0) circle (0.55);
+  \draw[MarkCoverGold,line width=0.8pt,line cap=round,line join=round]
+    (-0.19,0.16) .. controls (-0.39,0.17) and (-0.38,0.32) .. (-0.30,0.35)
+    .. controls (-0.31,0.23) and (-0.23,0.23) .. (-0.16,0.22)
+    -- (0.16,0.22)
+    .. controls (0.23,0.23) and (0.31,0.23) .. (0.30,0.35)
+    .. controls (0.38,0.32) and (0.39,0.17) .. (0.19,0.16);
+  \draw[MarkCoverGold,line width=0.8pt,line join=round]
+    (-0.19,0.16) -- (-0.15,-0.10) -- (-0.09,-0.19)
+    -- (0.09,-0.19) -- (0.15,-0.10) -- (0.19,0.16);
+  \draw[MarkCoverGold,line width=0.55pt]
+    (-0.13,0.07) -- (-0.06,0.04) (0.06,0.04) -- (0.13,0.07)
+    (-0.09,-0.12) -- (0.09,-0.12)
+    (-0.27,-0.28) -- (0.27,-0.28)
+    (-0.17,-0.28) -- (-0.17,-0.36) (0.17,-0.28) -- (0.17,-0.36);
+}
+\thispagestyle{empty}
+\null
+\begin{tikzpicture}[remember picture,overlay,x=1in,y=1in,shift={(current page.south west)}]
+  \MarkCoverGround
+  \node[text=MarkCoverCream,font=\fontsize{10}{13}\selectfont] at (3.5,9.10)
+    {THREE BOOKS DEEP READING \textperiodcentered\ GOSPEL OF MARK};
+  \node[text=MarkCoverMuted,font=\fontsize{10}{13}\selectfont] at (3.5,8.82)
+    {三書精讀 \textperiodcentered\ 馬可福音深度研讀};
+  \draw[MarkCoverGold,line width=0.5pt] (2.95,8.47) -- (4.05,8.47);
+  \begin{scope}[shift={(3.5,7.55)}]\MarkOxSeal\end{scope}
+  \node[text=MarkCoverMuted,font=\fontsize{11}{14}\selectfont] at (3.5,6.75)
+    {Υἱὸς Θεοῦ \quad 神的兒子};
+  \node[text=MarkCoverCream,font=\fontsize{35}{42}\selectfont\bfseries] at (3.5,6.10)
+    {僕人之路};
+  \node[text=MarkCoverGold,font=\fontsize{16}{20}\selectfont\itshape] at (3.5,5.57)
+    {The Way of the Servant};
+  \node[text=MarkCoverCream,font=\fontsize{23}{29}\selectfont\bfseries] at (3.5,5.06)
+    {馬可福音研讀};
+  \node[text=MarkCoverMuted,font=\fontsize{12}{16}\selectfont] at (3.5,4.70)
+    {Gospel of Mark Deep Study};
+  \draw[MarkCoverGold,line width=0.5pt] (2.45,4.34) -- (4.55,4.34);
+  \node[text=MarkCoverGold,font=\fontsize{11}{15}\selectfont] at (3.5,4.02)
+    {服事 \quad\textperiodcentered\quad 捨命 \quad\textperiodcentered\quad 高升};
+  \node[text=MarkCoverCream,align=center,text width=5.0in,font=\fontsize{11}{17}\selectfont] at (3.5,3.36)
+    {「神的兒子，耶穌基督福音的起頭。」\\[0.10in]
+     {\fontsize{9}{13}\selectfont\color{MarkCoverMuted}The beginning of the gospel of Jesus Christ, the Son of God.}\\[0.07in]
+     {\fontsize{8}{11}\selectfont\color{MarkCoverGold}馬可福音 1:1 \textperiodcentered\ Mark 1:1}};
+  \node[text=MarkCoverMuted,font=\fontsize{9}{13}\selectfont] at (3.5,2.63)
+    {CUV 1919 \quad\textperiodcentered\quad NASB 1995};
+  \node[text=MarkCoverMuted,align=center,font=\fontsize{9}{13}\selectfont] at (3.5,1.86)
+    {Gospel of Mark Deep Study — 2026 整編版};
+  \node[text=MarkCoverCream,align=center,font=\fontsize{11}{16}\selectfont] at (3.5,1.26)
+    {PubHub 三書精讀系統\\[0.07in]{\fontsize{10}{13}\selectfont 三書精讀出版系統}};
+  \node[text=MarkCoverMuted,font=\fontsize{8}{11}\selectfont] at (3.5,0.73)
+    {SOLI DEO GLORIA};
+\end{tikzpicture}
+\cleardoublepage

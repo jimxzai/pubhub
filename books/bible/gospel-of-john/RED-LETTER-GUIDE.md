@@ -31,17 +31,17 @@ When writing Gospel of John chapters, wrap Jesus's direct speech with the LaTeX 
 #### Example 1: John 14:6
 
 ```markdown
-### English — ESV
+### English — NASB 1995
 
-> ^6^Jesus said to him, \jesus{"I am the way, and the truth, and the life. No one comes to the Father except through me."}
+> ^6^Jesus said to him, \jesus{"I am the way, and the truth, and the life; no one comes to the Father but through Me."}
 ```
 
 #### Example 2: John 3:16-17
 
 ```markdown
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV 1919)
 
-> ^16^\jesus{「神愛世人，甚至將他獨一的兒子賜給他們，叫一切信他的人不致滅亡，反得永生。^17^因為神差他的兒子到世上來，不是要定世人的罪，而是要使世人因他得救。」}
+> \jesus{^16^\textbf{「神愛世人，甚至將他的獨生子賜給他們，叫一切信他的，不至滅亡，反得永生。}^17^因為神差他的兒子降世，不是要定世人的罪，乃是要叫世人因他得救。}
 ```
 
 #### Example 3: John 1:51

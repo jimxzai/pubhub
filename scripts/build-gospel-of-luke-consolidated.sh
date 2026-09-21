@@ -1,4 +1,5 @@
 #!/bin/bash
+set -euo pipefail
 
 # Gospel of Luke PDF Builder - CONSOLIDATED 2026 EDITION
 # = preface + 3-chapter orientation + 24 chapters in 5 parts + epilogue chapter + afterword
@@ -12,6 +13,7 @@ OUTPUT_DIR="$PROJECT_ROOT/output"
 COMBINED_MD="$OUTPUT_DIR/gospel-of-luke-consolidated.md"
 OUTPUT_PDF="$OUTPUT_DIR/gospel-of-luke-consolidated.pdf"
 TEMPLATE="$PROJECT_ROOT/templates/pdf/gospel-of-luke.latex"
+RELEASE_MODE="${LUKE_RELEASE_MODE:-proof}"
 
 echo "=========================================="
 echo "📖 Gospel of Luke PDF (CONSOLIDATED 2026)"
@@ -23,7 +25,12 @@ if [ ! -f "$TEMPLATE" ]; then
     exit 1
 fi
 
+python3 "$INPUT_DIR/production-check.py" "$RELEASE_MODE"
 mkdir -p "$OUTPUT_DIR"
+BUILD_STAGE="$(mktemp -d "$OUTPUT_DIR/.luke-build.XXXXXX")"
+trap 'rm -rf "$BUILD_STAGE"' EXIT
+COMBINED_MD="$BUILD_STAGE/gospel-of-luke-consolidated.md"
+OUTPUT_PDF="$BUILD_STAGE/gospel-of-luke-consolidated.pdf"
 
 cat > "$COMBINED_MD" << 'HEADER'
 ---
@@ -35,13 +42,17 @@ publisher: "三書精讀出版系統"
 copyright: |
   版權所有 © 2026 Soli Deo Gloria — 唯獨榮耀神
 
+  **出版狀態：編輯校樣，尚未清權。**
+
+  本版引文與聖詩的授權尚在核查中；正式發行須經出版者核准。
+
   **三大核心資源整合：**
 
   • **老弟兄查經法** — 週四查經班領受的讀經進路
 
-  • **John MacArthur** — 逐節解經 (gty.org)
+  • **John MacArthur** — 逐節解經 (gty.org；權利待核)
 
-  • **G. Campbell Morgan** — 解經王子 (*The Gospel According to Luke*, 1931)
+  • **G. Campbell Morgan** — 解經王子 (*The Gospel According to Luke*, 1931；權利待核)
 
   **完全人子——聖所的香壇、餅桌與燈臺**
 
@@ -51,15 +62,15 @@ copyright: |
 
   **經文版權聲明 (Scripture Copyright Notices)**
 
-  2026 年 8 月 · 初版。本版為教會內部贈閱版（非賣品）；公開發行時另行申請 ISBN。
+  2026 年 9 月 · 編輯校樣，僅供審校。本版尚未核准發行。
 
-  中文經文引自《聖經》和合本（1919），屬公有領域。
+  中文經文版本、版權狀態與發行地域，須由出版者在正式發行前確認。
 
-  Scripture quotations taken from the New American Standard Bible® (NASB),
+  Scripture quotations taken from the NASB® (New American Standard Bible®),
   Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation.
-  Used by permission. All rights reserved. lockman.org
+  Used by permission. All rights reserved. www.Lockman.org
 
-  All rights reserved.
+  NASB 引文數量、格式與許可範圍須另行記錄並核准。MacArthur、Morgan 及聖詩材料亦須逐項清權，或改為具名摘要。
 ---
 
 HEADER
@@ -70,13 +81,13 @@ chapter_count=0
 # markers to \textsuperscript, then start a new page.
 add_file() {
     local f="$1"
-    [ -f "$f" ] || return 0
+    [ -f "$f" ] || { echo "Missing source: $f" >&2; exit 1; }
     echo "  Adding: $(basename "$f")"
     # ^12^ and ^12:34^ both become superscripts; a bare-digit-only pattern
     # silently leaves chapter:verse markers as literal carets in the PDF.
-    tail -n +8 "$f" | sed 's/\^\([0-9][0-9:-]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
+    python3 "$INPUT_DIR/production-check.py" body "$f" | sed 's/\^\([0-9][0-9:-]*\)\^/\\textsuperscript{\1}/g' >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
+    chapter_count=$((chapter_count + 1))
 }
 
 # Like add_file, but marks the file's first H1 unnumbered so front/back-matter
@@ -84,12 +95,12 @@ add_file() {
 # numbers — the 24 content chapters then number 1..24, matching Luke itself.
 add_front() {
     local f="$1"
-    [ -f "$f" ] || return 0
+    [ -f "$f" ] || { echo "Missing source: $f" >&2; exit 1; }
     echo "  Adding (unnumbered): $(basename "$f")"
-    tail -n +8 "$f" | sed 's/\^\([0-9][0-9:-]*\)\^/\\textsuperscript{\1}/g' \
+    python3 "$INPUT_DIR/production-check.py" body "$f" | sed 's/\^\([0-9][0-9:-]*\)\^/\\textsuperscript{\1}/g' \
       | awk 'BEGIN{done=0} /^# /{ if(!done){ sub(/[[:space:]]*$/,""); $0=$0" {.unnumbered}"; done=1 } } {print}' >> "$COMBINED_MD"
     printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
-    ((chapter_count++))
+    chapter_count=$((chapter_count + 1))
 }
 
 # Part divider: a part-title page carrying the part's theme and,
@@ -97,7 +108,7 @@ add_front() {
 # the harvest of the nations ($3 $4 $5; see 00a and 00c orientation chapters).
 add_volume() {
     printf '# %s {.unnumbered}\n\n> %b\n' "$1" "$2" >> "$COMBINED_MD"
-    if [ -n "$3" ]; then
+    if [ -n "${3:-}" ]; then
         printf '\n| | |\n|---|---|\n| **聖所的位置** | %s |\n| **全書骨幹** | %s |\n| **萬邦的收成** | %s |\n' \
             "$3" "$4" "$5" >> "$COMBINED_MD"
     fi
@@ -140,18 +151,18 @@ for i in 01 02 03 04; do add_chapter "$i"; done
 add_volume "第二部 · 加利利事工——人子的服事與身分顯明 (Galilean Ministry) · 4:14-9:50" \
     "拿撒勒會堂的宣告是憲章，此後六章一步步活出「傳福音給貧窮的人」——服事越展開，身分的追問也越逼近，直到9:20彼得的認信。\n>\n> **啟示的次序·第二步**：燈臺初次點亮——服事向貧窮人、外邦人展開，身分卻要等服事夠遠，才逼出「神所立的基督」這句認信（9:20）。" \
     "**燈臺初點**——「照亮外邦人的光」開始照進加利利" \
-    "8:9「這到底是誰」→ 9:20「神所立的基督」" \
+    "8:25「這到底是誰」→ 9:20「神所立的基督」" \
     "啟 7:9「從各國、各族、各民、各方來的」"
 for i in 05 06 07 08 09; do add_chapter "$i"; done
 
-add_volume "第三部 · 往耶路撒冷之旅——人子的道路 (The Way to Jerusalem) · 9:51-19:48" \
+add_volume "第三部 · 往耶路撒冷之旅——人子的道路 (The Way to Jerusalem) · 9:51-19:27" \
     "9:51「定意向耶路撒冷去」，一趟走了近十章的旅程；十五章的「失而又得」是這段路的心跳，19:10收束全部的目的句。\n>\n> **啟示的次序·第三步，全書的轉捩點**：9:51「定意」把臉轉向十字架——香壇的禱告與餅桌的筵席在路上交織，一路教導、一路尋找失喪的人，直到19:10把整卷書的使命講成一句話。" \
     "**香壇與餅桌交織**——恆切的禱告，一路的筵席" \
     "9:51「定意」→ 15:24「失而又得」→ 19:10「尋找、拯救失喪的人」" \
     "啟 19:9「被請赴羔羊之婚筵的有福了」"
 for i in 10 11 12 13 14 15 16 17 18 19; do add_chapter "$i"; done
 
-add_volume "第四部 · 耶路撒冷事工——人子與聖殿的對峙 (Jerusalem Ministry) · 20:1-21:38" \
+add_volume "第四部 · 耶路撒冷事工——人子與聖殿的對峙 (Jerusalem Ministry) · 19:28-21:38" \
     "榮進之後，路加獨記耶穌「看見城，就為它哀哭」——完全人子的眼淚，落在一座即將棄絕祂的城市上。\n>\n> **啟示的次序·第四步**：燈臺的光照進了拒絕光的城——人子為耶路撒冷哭泣，顯明祂原是為要尋找這城、不是先來審判這城。" \
     "**燈臺照城**——光照到了拒絕光的地方" \
     "19:41「哀哭」——恩言與棄絕發生在同一座城" \
@@ -182,9 +193,9 @@ add_front "$INPUT_DIR/99-appendix-references.md"
 # its own page; a trailing break here yields a header-only blank page
 # whenever the afterword happens to fill its final page exactly).
 echo "  Adding: 999-afterword.md"
-tail -n +8 "$INPUT_DIR/999-afterword.md" \
+python3 "$INPUT_DIR/production-check.py" body "$INPUT_DIR/999-afterword.md" \
   | awk 'BEGIN{done=0} /^# /{ if(!done){ sub(/[[:space:]]*$/,""); $0=$0" {.unnumbered}"; done=1 } } {print}' >> "$COMBINED_MD"
-((chapter_count++))
+chapter_count=$((chapter_count + 1))
 
 echo ""
 echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $chapter_count chapters)"
@@ -196,6 +207,7 @@ echo "🔨 Generating PDF with dedicated template (gospel-of-luke.latex)..."
 # vacuously. See scripts/lib/latex-check.sh for the full explanation.
 source "$SCRIPT_DIR/lib/latex-check.sh"
 LATEX_LOG="${OUTPUT_PDF%.pdf}-build.log"
+PANDOC_EXIT=0
 pandoc "$COMBINED_MD" \
   -o "$OUTPUT_PDF" \
   --verbose \
@@ -205,7 +217,19 @@ pandoc "$COMBINED_MD" \
   --toc \
   --toc-depth=1 \
   --top-level-division=chapter \
-  -V tocdepth=0 > "$LATEX_LOG" 2>&1
-PANDOC_EXIT=$?
+  -V tocdepth=0 > "$LATEX_LOG" 2>&1 || PANDOC_EXIT=$?
 
 latex_build_report "$PANDOC_EXIT" "$LATEX_LOG" "$OUTPUT_PDF" || exit 1
+
+# Promote only a complete, warning-free build; keep the previous PDF on failure.
+grep -q "This is XeTeX" "$LATEX_LOG"
+if grep -Eq 'Missing character|Overfull' "$LATEX_LOG"; then
+    echo "Typography warnings detected; previous PDF retained." >&2
+    exit 1
+fi
+test "$chapter_count" -eq 32
+pdfinfo "$OUTPUT_PDF" >/dev/null
+mv "$COMBINED_MD" "$OUTPUT_DIR/gospel-of-luke-consolidated.md"
+mv "$LATEX_LOG" "$OUTPUT_DIR/gospel-of-luke-consolidated-build.log"
+mv "$OUTPUT_PDF" "$OUTPUT_DIR/gospel-of-luke-consolidated.pdf"
+echo "Updated canonical PDF: $OUTPUT_DIR/gospel-of-luke-consolidated.pdf"

@@ -1,0 +1,16 @@
+title: "路加福音研讀"
+subtitle: "Gospel of Luke Deep Study"
+author: "PubHub 三書精讀系統"
+publisher: "三書精讀出版系統"
+date: "2026年8月"
+lang: zh-Hant
+documentclass: book
+classoption: openany
+fontsize: 11pt
+mainfont: "Arial Unicode MS"
+sansfont: "Arial Unicode MS"
+geometry: margin=2.2cm
+toc-title: "目錄"
+colorlinks: true
+linkcolor: ScriptureGold
+urlcolor: ScriptureGold
