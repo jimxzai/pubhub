@@ -10,7 +10,7 @@ which sit beside this file.
 |---|---|
 | `references/spine-and-score.md` | **Before starting work on a book, and before calling one finished.** The spine (does it say something, in an order a reader can follow?), the ten-row rubric, the maturity ladder, and the defect classes no script can catch. |
 | `references/gotchas.md` | A build fails, a page looks wrong, or you are about to edit a `templates/pdf/*.latex`. Every silent failure this repo has hit, plus a symptom → cause → fix table. |
-| `references/chapter-template.md` | You are restructuring or tightening a book's chapters for print: the 11-section house template, what stays verbatim, the dedupe rules, the per-chapter checks, and the fan-out that worked. |
+| `references/chapter-template.md` | You are restructuring or tightening a book's chapters for print: the 11-section house template, what stays verbatim, the dedupe rules, the per-chapter checks, the fan-out that worked, and why the H1's own chapter numbering must stay unified (never splice the real source-book range into it). |
 | `references/scripture-sources.md` | You are writing or converting Scripture text: ai-eden.com URL patterns and quirks, the RCUV caveat, NASB-1995 sourcing on biblehub, CUV by the chapter, disclosure when a fallback source is used. |
 
 ## Start here: what is this book for?
@@ -78,6 +78,17 @@ errors, absent glyphs render as blank boxes, a cover background can stop
 short of the page edge, and markdown inside a raw-LaTeX macro prints as
 literal asterisks. Run the driver with no arguments to list the slugs it
 can build.
+
+**A book's chapter directory is not always the one you land in.** Matthew
+(2026-09-20) has two: `books/bible/gospel-of-matthew/` (old 8-section/ESV
+template, never read by any build script) and `books/bible/matthew/book/`
+(the real one — `scripts/build-gospel-of-matthew-consolidated.sh` reads it,
+already on the 11-section template with a spine). A repo-wide commit's own
+message claimed the first directory had been rebuilt; the actual diff was a
+two-line string rename. Before starting work on a book, confirm which
+directory its build script actually reads: `grep INPUT_DIR
+scripts/build-<slug>*.sh`. Don't trust the directory the harness starts you
+in, or a commit message's own account of what it touched.
 
 ## Lints — free, run them every time
 
@@ -147,6 +158,22 @@ only a Chinese translation, so a reader cannot check it against the source.
 Nothing else can catch a ledger that disagrees with its own book: the quotes are
 valid markdown, the build is clean, and the appendix reads as coherent prose.
 
+**The script isolates each commentator's declared list by finding a `## `
+(H2) heading whose text contains that commentator's name** (`摩根`,
+`麥克阿瑟` by default). If no H2 in the ledger contains the name — e.g. one
+shared `## 六、引文核對記錄` section listing both commentators together, or
+headings that only give the English name (`## 一、John MacArthur`) — the
+isolation silently fails and falls back to scanning the *entire* ledger
+text for both commentators, merging their declared-chapter sets into one
+identical (wrong) list. Matthew (2026-09-20) had exactly this: one merged
+section produced 11 false disagreements; splitting it into `## 六、引文核對
+記錄——摩根` and `## 七、引文核對記錄——麥克阿瑟` (Chinese name inside the H2
+text) fixed all of them with no change to the actual chapters. Also: the
+verbatim list must write each chapter as its own `第N章` token
+(`第8章、第9章、第10章`) — the comma-run form `第 8、9、10 章` only parses
+correctly after the literal marker `要旨綜述的章`, which is the summary-list
+syntax, not the verbatim one.
+
 **`scripts/normalize-commentary-notice.py <book-dir> [--dry-run]`** rewrites each
 chapter's 體例說明 notice from what the chapter actually contains. Luke had that
 notice in seven different wordings, fourteen of them declaring 「帶引號引文均為編者
@@ -163,6 +190,16 @@ returning to Christ (`ask-elder-wong` calls that last one 「永不缺席的句�
 and it is absent constantly). Run `--all --brief` once: the gaps it prints in
 books already treated as finished are the argument for the script. Details and
 how to fix each gap: `references/spine-and-score.md`.
+
+**The divider check needs `book_dir.name` to match a `build-<slug>*.sh`
+filename, and silently can't run at all when it doesn't.** A book whose
+chapters live in a nested subdirectory (`books/bible/matthew/book/`,
+`books/bible/john-thursday-wong/book/`) reports `[--- ] 無法檢查分卷扉頁：
+找不到 build script` rather than failing — that dimension is simply never
+checked, and the overall pass/fail treats a missing check as non-blocking
+(`div_ok is None` counts as passing). Don't read an overall "passed" as
+proof the dividers carry the spine forward for these books; read the actual
+`add_volume` descriptions in the build script by hand instead.
 
 **`scripts/lint-scripture-text.py [path …]`** flags 和合本 variant-character
 slips inside scripture blocks (鑒/鑑, 熔/鎔, 汙/污, 裡/裏, 做/作). Rules are
