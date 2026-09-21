@@ -212,7 +212,7 @@ publisher: 三書精讀出版系統
 > What a friend we have in Jesus, all our sins and griefs to bear!
 > What a privilege to carry everything to God in prayer!
 >
-> 何等恩友慈仁救主，負我罪擔擔我憂；
+> 何等恩友慈仁救主，負我罪愆擔我憂；
 > 何等權利能將萬事，藉著禱告求主躬親。
 
 約翰在監獄裏沒有這樣一位可以傾訴的朋友在身邊，只能託人捎話——但正是這封書信往返，讓他把疑問帶到了唯一能真正回答的那一位面前。
