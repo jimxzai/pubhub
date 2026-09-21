@@ -132,8 +132,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
-> 不應作為原文逐字引用轉引。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 教父時期
 
@@ -179,11 +180,11 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "In all, **six times** it is recorded in the gospels that Pilate said, 'Not guilty'… He is flawless; He is faultless; He is righteous."
+> "He is flawless; He is faultless; He is righteous."
 >
-> 四福音合計記載，彼拉多**六次**宣告「查不出罪來」……祂無瑕疵、無過失、是義的。史上最不公義的審判，卻由審判官親口為被告作了六次無罪的見證。
+> 「祂無瑕疵；祂無過失；祂是義的。」（編者中譯）
 >
-> — John MacArthur, *"Jesus Appears Before Pilate"*（sermon 43-103–106，論約 18:28-19:16），Grace to You, gty.org
+> — John MacArthur, *"Jesus Appears Before Pilate"*（sermon 43-103），Grace to You, gty.org
 
 ---
 

@@ -119,7 +119,7 @@ publisher: 三書精讀出版系統
 
 六口石缸原為猶太人「潔淨的規矩」(*katharismos*) 所用。耶穌將潔淨用的水變為喜樂的酒，象徵新約的恩典超越舊約的禮儀。
 
-**先知預言**：「到那日，大山要滴甜酒，小山要流奶子。」— 阿摩司書 9:13
+**先知預言**：「大山要滴下甜酒，小山都必流奶。」— 阿摩司書 9:13
 
 ### 2. 最好的留到現在
 
@@ -139,8 +139,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
-> 不應作為原文逐字引用轉引。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 教父時期
 
@@ -192,11 +193,13 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "There are no grapes, no vines, no seeds, no sunlight, no water, no earth. Nothing. **He's created wine out of nothing.** … A hundred and twenty to a hundred and eighty gallons in these water pots."
+> "He’s created wine out of nothing."
 >
-> 沒有葡萄、沒有藤、沒有種子、沒有陽光、沒有水、沒有土——甚麼都沒有。**祂是從無有中造出酒來。** ……這些缸裏是一百二十到一百八十加侖。
+> 「祂是從無有中造出酒來。」（編者中譯）
 >
 > — John MacArthur, *"The Beginning of Miracles"*（sermon 43-8，論約 2:1-11），Grace to You, gty.org
+
+**編者撮述**：麥克阿瑟以葡萄、葡萄樹及生長條件的通常過程，對照主在此直接行的神蹟；他另按六口石缸估算酒量為一百二十至一百八十加侖。這是講章要旨的摘要，並非連續逐字引文。
 
 ---
 

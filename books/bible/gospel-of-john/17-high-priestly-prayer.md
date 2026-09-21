@@ -127,8 +127,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：本節是歷代解經者**立場的綜述**；帶引號引文均為編者自英文原著的中譯，並標明出處，
-> 不應作為原文逐字引用轉引。
+> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
+> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 教父時期
 
@@ -174,9 +175,9 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "Here, we are ushered into the throne room of God. Here, we eavesdrop on the communion, the eternal communion between the Son of God and the Father. **The veil is drawn back. We're admitted into the Holy of Holies.**"
+> "The veil is drawn back. We’re admitted into the Holy of Holies."
 >
-> 在這裏，我們被引進神的寶座廳；在這裏，我們得以竊聽神的兒子與父之間永恆的相交。**幔子被拉開了——我們被准許進入至聖所。**
+> 「幔子被拉開了。我們被准許進入至聖所。」（編者中譯）
 >
 > — John MacArthur, *"The Lord's Greatest Prayer, Part 1"*（sermon 43-93，論約 17:1-5），Grace to You, gty.org
 
