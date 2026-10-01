@@ -1,0 +1,10 @@
+# Accepted quote deviations, with reasons. One per line: <verdict>|<quote prefix>|<reason>
+# Reviewed 2026-10-01. Each entry is an OCR defect in the digitised source (archive.org
+# djvu text of Plummer 1890 / Morgan 1912), checked by reading the source at that
+# offset -- never added to silence a mismatch that was not run down.
+DRIFT|When we turn to his letters, we find the same facts of grace and truth|Morgan, Living Messages vol. II OCR reads "the life of al! those"; the book prints "all". Verified in morgan-letters.txt 2026-10-01.
+MISS|The difference is, that with the participle the denial is directed again|Plummer OCR reads "The difterence is" and "directed against the/ac/" (italic "fact" mis-OCR'd); every other word matches. Verified in plummer.n.txt 2026-10-01.
+DRIFT|The Apostle has no sympathy with a religion of pious emotions|Plummer OCR reads "according to God's conifuands"; the book prints "commands". Verified 2026-10-01.
+DRIFT|The greatest care will be necessary before we can venture to act upon th|Plummer OCR reads "pa7-all el" (parallel), "un- believer" (line-break hyphen) and spaces before "?". Verified 2026-10-01.
+MISS|It is not so much a prayer or a blessing, as the confident assurance of|Plummer OCR interleaves a page header and the next column's text ("V. 4.] II. JOHN. 177 ...") between "a prayer or a" and "blessing"; the sentence is otherwise verbatim. Verified 2026-10-01.
+MISS|'Grace' is the favour of God towards sinners|Plummer OCR reads "•Grace' is ihQ favour"; rest verbatim. Verified 2026-10-01.
