@@ -2,180 +2,274 @@
 title: 猶大書研讀
 subtitle: Epistle of Jude Deep Study
 author: PubHub 三書精讀系統
-date: 2025年12月
+date: 2026年10月
 publisher: 三書精讀出版系統
 ---
 
-# 對信徒的勸勉 (Exhortations to Believers)
+# 你們卻要保守自己 (But You, Keep Yourselves)
 
 猶大書 17-23
 
+**經文核對**：[ai-eden.com/bible/jude/1](https://www.ai-eden.com/bible/jude/1?t=CUV,NASB&cols=2)
+
+## 基督焦點 (Christ at the Center)
+
+> **本章鑰詞：保守自己、憐憫 Keep Yourselves, Mercy（21-23節）** \
+> **全書座標**：全書五步的第四步——第三步說完「這些人」與主的降臨，第17節一句「親愛的弟兄啊」把鏡頭轉回讀者：在主來以前的等候裏，神藉使徒的話、藉聖靈、藉祂的愛和主耶穌基督的憐憫環繞信徒。第1節說他們「為耶穌基督保守」，第21節吩咐他們「保守自己」；下一步，第24節要說保守到底的是神。
+
+這一段的轉折只有兩個字：「你們卻」（Ὑμεῖς δέ，17、20節）。前面十幾節都在講「這些人」，現在猶大轉過身來對信徒說話。他給的不是另一份黑名單，是一個吩咐：「保守自己常在神的愛中，仰望我們主耶穌基督的憐憫，直到永生。」（21節）信徒等候的終點是一個名字——主耶穌基督；等候的內容是一個字——憐憫。被憐憫等候著的人，就去憐憫人：有些人要從火中搶出來（23節）。**爭辯走到盡頭，不是贏了一場辯論，是救了一個人。**
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Rescue the Perishing** \
+> Fanny J. Crosby, 1870 (as dated in *The Army and Navy Hymnal*, 1920), stanzas 1, 4
+>
+> Rescue the perishing, care for the dying \
+> Snatch them in pity from sin and the grave; \
+> Weep o'er the erring one, lift up the fallen, \
+> Tell them of Jesus the mighty to save. \
+> Rescue the perishing, care for the dying; \
+> Jesus is merciful, Jesus will save.
+>
+> 搶救將亡的人，看顧垂死的人， \
+> 憐憫他們，從罪和墳墓中搶出來； \
+> 為迷途的人流淚，扶起跌倒的人， \
+> 告訴他們，耶穌大有能力施救。 \
+> 搶救將亡的人，看顧垂死的人； \
+> 耶穌有憐憫，耶穌必拯救。
+>
+> Rescue the perishing, duty demands it; \
+> Strength for thy labor the Lord will provide; \
+> Back to the narrow way patiently win them; \
+> Tell the poor wan-d'rer a Saviour has died.
+>
+> 搶救將亡的人，這是本分所當行； \
+> 你勞苦所需的力量，主必供應； \
+> 要忍耐地把他們贏回窄路上， \
+> 告訴可憐的流浪人：有一位救主已經死了。
+
+---
+
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+> 版本說明：中文採和合本（CUV），以信望愛 bible.fhl.net 和合本為底本，與 ai-eden.com 和合本逐字比對（差異見附錄〈引用出處總表〉）；English 採 NASB 1995，取自 biblehub.com。
 
-> ^17^親愛的，你們要記得我們主耶穌基督的使徒從前說過的話。^18^他們對你們說過：「在末世，必有好嘲弄的人隨從自己不敬虔的私慾而行。」^19^這些人是製造分裂、屬乎血氣、沒有聖靈的人。
+### 中文 — 和合本 (CUV)
 
-> ^20^親愛的，你們要在至聖的真道上建造自己，在聖靈裏禱告，^21^保守自己常在神的愛中，仰望我們主耶穌基督的憐憫，進入永生。
+> ^17^親愛的弟兄啊，你們要記念我們主耶穌基督之使徒從前所說的話。^18^他們曾對你們說過，末世必有好譏誚的人隨從自己不敬虔的私慾而行。^19^這就是那些引人結黨、屬乎血氣、沒有聖靈的人。
+>
+> ^20^親愛的弟兄啊，你們卻要在至聖的真道上造就自己，在聖靈裏禱告，^21^保守自己常在神的愛中，仰望我們主耶穌基督的憐憫，直到永生。^22^有些人存疑心，你們要憐憫他們；^23^有些人你們要從火中搶出來，搭救他們；有些人你們要存懼怕的心憐憫他們，連那被情慾沾染的衣服也當厭惡。
 
-> ^22^有些人心裏疑惑，你們要憐憫他們；^23^有些人你們要從火中搶救他們；有些人你們要憐憫他們，但要戰戰兢兢，連那被情慾玷污的衣服也當厭惡。
+### English — NASB 1995
 
-### English — ESV
-
-> ^17^But you must remember, beloved, the predictions of the apostles of our Lord Jesus Christ. ^18^They said to you, "In the last time there will be scoffers, following their own ungodly passions." ^19^It is these who cause divisions, worldly people, devoid of the Spirit.
-
-> ^20^But you, beloved, building yourselves up in your most holy faith and praying in the Holy Spirit, ^21^keep yourselves in the love of God, waiting for the mercy of our Lord Jesus Christ that leads to eternal life.
-
-> ^22^And have mercy on those who doubt; ^23^save others by snatching them out of the fire; to others show mercy with fear, hating even the garment stained by the flesh.
+> ^17^But you, beloved, ought to remember the words that were spoken beforehand by the apostles of our Lord Jesus Christ, ^18^that they were saying to you, "In the last time there will be mockers, following after their own ungodly lusts." ^19^These are the ones who cause divisions, worldly-minded, devoid of the Spirit.
+>
+> ^20^But you, beloved, building yourselves up on your most holy faith, praying in the Holy Spirit, ^21^keep yourselves in the love of God, waiting anxiously for the mercy of our Lord Jesus Christ to eternal life. ^22^And have mercy on some, who are doubting; ^23^save others, snatching them out of the fire; and on some have mercy with fear, hating even the garment polluted by the flesh.
 
 ---
 
 ## 背景 (Context)
 
-### 語氣轉折
+### 兩次「你們卻」
 
-從第17節開始，猶大的語氣從警告假教師轉向勸勉信徒。「但你們，親愛的」(*hymeis de, agapētoi*) 標誌著這個轉折——從描述問題轉向提供解決方案。
+17節和20節都以 Ὑμεῖς δέ, ἀγαπητοί 開頭，和合本兩次都譯「親愛的弟兄啊」，NASB 譯 But you, beloved。這是全信的轉軸：從「這些人」（οὗτοι，8-19節五次）轉到「你們」。第一次「你們卻」叫人回頭**記念**（17節），第二次「你們卻」叫人往前**建造、禱告、保守、仰望**（20-21節）。
 
-### 文學結構
+### 使徒早已說過
 
-| 部分 | 經文 | 內容 |
-|------|------|------|
-| A | vv.17-19 | 記得使徒的預言 |
-| B | vv.20-21 | 四重建造自己的方法 |
-| C | vv.22-23 | 三類需要憐憫的人 |
+18節引的那句話，和彼得後書幾乎一樣：「第一要緊的，該知道在末世必有好譏誚的人隨從自己的私慾出來譏誚說」（彼後3:3）；彼得前一節也說「叫你們記念……使徒所傳給你們的」（彼後3:2）。猶大說的是「使徒」（複數）——這不是某一位使徒的私見，是使徒們一致的預告（參徒20:29-30；提後3:1）。第5節提醒的是舊約的歷史，第17節提醒的是使徒的預言；猶大用「記念」把過去和將來都交給讀者。
 
-### 三位一體的結構 (vv.20-21)
+### 本章的結構
 
-這段經文以三位一體為框架：
+| 段落 | 節 | 內容 |
+|-----|------|----------------------------------------------------------------------|
+| 記念 | 17-19 | 使徒預言譏誚的人；「這些人」的最後一幅畫像 |
+| 保守 | 20-21 | 一個命令（保守自己），三個分詞（造就、禱告、仰望） |
+| 挽回 | 22-23 | 對三種人（照和合本）施憐憫：存疑心的、在火中的、要存懼怕之心對待的 |
 
-| 位格 | 經文 | 內容 |
-|------|------|------|
-| 聖靈 | v.20b | 在聖靈裏禱告 |
-| 父神 | v.21a | 保守自己在神的愛中 |
-| 聖子 | v.21b | 仰望主耶穌基督的憐憫 |
+### 第23節的舊約背景：撒迦利亞書三章
+
+「撒但哪，耶和華責備你！……這不是從火中抽出來的一根柴嗎？」（亞3:2）接著：「約書亞穿著污穢的衣服站在使者面前。使者吩咐站在面前的說：『你們要脫去他污穢的衣服』；又對約書亞說：『我使你脫離罪孽，要給你穿上華美的衣服。』」（亞3:3-4）——猶大書第9節「主責備你吧」、第23節「從火中搶出來」和「被沾染的衣服」，三個畫面都在這一段裏。被從火中抽出來、脫去污衣的大祭司約書亞，就是神怎樣搶救人的樣式：先搶出來，再換衣服。
 
 ---
 
+
 ## 原文研讀 (Word Study)
 
-| 希臘文 | 音譯 | 意義 | 經文 |
-|--------|------|------|------|
-| *mnēsthēte* | mnēsthēte | 記得、記念 | v.17 |
-| *empaiktai* | empaiktai | 嘲弄者、譏笑者 | v.18 |
-| *apodiorizontes* | apodiorizontes | 製造分裂、劃界線 | v.19 |
-| *psychikoi* | psychikoi | 屬乎血氣的、屬魂的 | v.19 |
-| *epoikodomoutes* | epoikodomoutes | 建造 | v.20 |
-| *hagiōtatē* | hagiōtatē | 至聖的（最高級） | v.20 |
-| *tērēsate* | tērēsate | 保守、看守 | v.21 |
-| *prosdechomenoi* | prosdechomenoi | 仰望、等候 | v.21 |
-| *eleate* | eleate | 憐憫 | v.22 |
-| *harpazonte* | harpazonte | 搶救、奪取 | v.23 |
+| 原文 | 節 | 意義 |
+|------------------|----------|------------------------------------------------------------|
+| Ὑμεῖς δέ | 17、20 | 「你們卻」，強調的「你們」加轉折詞，與「這些人」對照 |
+| μνήσθητε | 17 | 「要記念」，過去式命令語氣 |
+| ἐμπαῖκται | 18 | 「好譏誚的人」，與彼後3:3同一個字 |
+| ἀποδιορίζοντες | 19 | 「引人結黨」，劃界線、製造分裂；新約只此一見 |
+| ψυχικοί | 19 | 「屬乎血氣」，只有魂的生命，沒有聖靈的人（參林前2:14） |
+| πνεῦμα μὴ ἔχοντες | 19 | 「沒有聖靈」——對照20節「在聖靈裏禱告」 |
+| ἐποικοδομοῦντες | 20 | 「造就」，現在分詞；在根基上往上蓋 |
+| προσευχόμενοι | 20 | 「禱告」，現在分詞 |
+| τηρήσατε | 21 | 「保守」，過去式命令語氣——20-21節唯一的命令；全信第五次 τηρέω |
+| προσδεχόμενοι | 21 | 「仰望」，現在分詞；NASB 譯 waiting anxiously |
+| ἔλεος／ἐλεᾶτε | 21、22、23 | 「憐憫」，主的憐憫（21）與你們要憐憫人（22、23）同一字根 |
+| ἁρπάζοντες | 23 | 「搶出來」，用力奪取（同字見約10:28「誰也不能從我手裏把他們奪去」） |
+| ἐσπιλωμένον χιτῶνα | 23 | 「被沾染的衣服」，χιτών 是貼身的內衣 |
 
-### 「屬乎血氣」(psychikoi) 的意義
+**20-21節的文法**：希臘文這兩節只有一個命令語氣的動詞——τηρήσατε「保守」。「造就自己」「在聖靈裏禱告」「仰望」三個都是分詞，說明怎樣保守。中文譯成四個並列的動作，讀起來像四條規條；照原文讀，是一件事——**保守自己常在神的愛中**——用三種方式去做。第1節信徒是「被保守的」（τετηρημένοις，被動），第21節他們要「保守自己」（τηρήσατε，主動）：神先保守了他們，他們就住在那份愛裏不離開。
 
-這個詞來自 *psychē*（魂），描述那些只有自然生命、沒有聖靈內住的人。保羅在哥林多前書2:14使用同樣的詞：「屬血氣的人不領會神聖靈的事」。這與「屬靈的人」(*pneumatikos*) 形成對比。
+**三一的神**：20-21節一口氣提到聖靈、神、主耶穌基督。在聖靈裏禱告，保守自己在神的愛中，仰望主耶穌基督的憐憫——等候的人四面被三一的神環繞。
 
-### 「至聖的真道」(hagiōtatē pistis) 的含義
-
-*hagiōtatē* 是最高級形式，強調這真道的神聖性和分別性。這不只是「聖潔的信仰」，而是「至聖的信仰」——與任何其他信仰系統完全分別。
+**22-23節的抄本問題**：這兩節是新約抄本分歧最大的地方之一。NA28 與 SBLGNT 讀作三組人（οὓς μὲν……οὓς δὲ……οὓς δὲ……）；韋斯科特—賀特（WH）本只有兩組；拜占庭抄本也是兩組，但字句又不同，欽定本與加爾文所用的就是兩組的讀法（大意是：有些人要憐憫，分別對待；有些人要存懼怕的心拯救，從火中搶出來）。和合本與 NASB 1995 都譯成三組。本書照和合本讀三組，但要誠實說明：不論兩組或三組，吩咐的方向一樣——對不同光景的人用不同的方式施憐憫，而且都要救。
 
 ---
 
 ## 領受要點 (Truths Received)
 
-### 1. 記得使徒的預言 (vv.17-19)
-
-使徒們預言末世會有嘲弄者出現。這預言在多處經文中可見：
-
-| 經文 | 內容 |
-|------|------|
-| 提前4:1 | 「聖靈明說，在後來的時候，必有人離棄真道…」 |
-| 提後3:1-5 | 「末世必有危險的日子來到…」 |
-| 提後4:3-4 | 「人必厭煩純正的道理…」 |
-| 彼後3:3 | 「在末世必有好譏誚的人…」 |
-| 徒20:29-30 | 「我知道我離開後…有人說悖謬的話…」 |
-
-**假教師三個特徵**：
-1. **製造分裂** (*apodiorizontes*)：在教會中造成紛爭
-2. **屬乎血氣** (*psychikoi*)：被自然慾望驅動
-3. **沒有聖靈** (*pneuma mē echontes*)：缺乏聖靈內住
-
-### 2. 四重建造自己的方法 (vv.20-21)
-
-猶大給信徒四個正面的命令：
-
-| # | 命令 | 希臘文 | 說明 |
-|---|------|--------|------|
-| 1 | 在至聖真道上建造自己 | *epoikodomoutes* | 持續學習和成長 |
-| 2 | 在聖靈裏禱告 | *proseuchomenoi* | 靠聖靈的能力禱告 |
-| 3 | 保守自己在神的愛中 | *tērēsate* | 持守在恩典中 |
-| 4 | 仰望主的憐憫進入永生 | *prosdechomenoi* | 盼望基督的再來 |
-
-**結構分析**：
-- 主要動詞是「保守」(*tērēsate*，祈使語氣)
-- 其他三個是分詞，修飾主動詞
-- 這意味著：藉著建造自己、禱告、仰望，來保守自己在神的愛中
-
-**「保守自己」與「被保守」**：
-- v.1：「為耶穌基督保守的人」——神的保守
-- v.21：「保守自己常在神的愛中」——人的責任
-
-這兩者並不矛盾，而是相輔相成：神的保守是確定的，但信徒有責任活在順服中。
-
-### 3. 三類需要憐憫的人 (vv.22-23)
-
-猶大區分三類人，要求不同的回應：
-
-| 類別 | 描述 | 回應 | 態度 |
-|------|------|------|------|
-| 第一類 | 心裏疑惑的 | 憐憫他們 | 耐心 |
-| 第二類 | 危險中的 | 從火中搶救 | 緊急 |
-| 第三類 | 被污染的 | 憐憫但戰兢 | 謹慎 |
-
-**經文變體**：
-不同抄本對這段經文有不同的讀法，有些分為兩類，有些分為三類。但核心信息清楚：對待迷失的人要有不同程度的憐憫和謹慎。
-
-**「從火中搶救」**：
-這個意象來自亞摩司書4:11和撒迦利亞書3:2。這是緊急的拯救行動——有些人已經在審判的邊緣，需要立即的援助。
-
-**「連衣服也當厭惡」**：
-這呼應利未記13:47-59關於受污染衣服的律法。意思是：在幫助那些深陷罪中的人時，要小心不被他們的罪污染。這不是冷漠，而是智慧的謹慎。
+1. **記念是第一道防線**（17-18節）——使徒早說過末世必有譏誚的人。被預告過的事臨到，信徒不必驚慌；驚慌往往是因為忘了。
+2. **「沒有聖靈」的人最愛分界線**（19節）——他們「引人結黨」，以為自己屬靈，其實「屬乎血氣」。分辨的標準不是誰的口號屬靈，是誰的生命有聖靈。
+3. **保守自己，是住在已經得著的愛裏**（20-21節）——一個命令，三種方式：在真道上造就、在聖靈裏禱告、仰望主的憐憫。這不是靠自己保住救恩，是不離開神已經放你進去的那份愛。
+4. **被憐憫的人去憐憫人**（21-23節）——同一字根的「憐憫」從主身上（21節）流到信徒身上（22-23節）。有的人要溫柔地對待，有的人要從火中搶出來，有的人要存懼怕的心去接觸，連被沾染的衣服都要厭惡。憐憫人，不等於向罪妥協。
 
 ---
 
 ## 歷代注疏 (Historical Commentary)
 
-### 教父時期
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
-**俄利根 (Origen, 185-254)**:
+### 教父時期：亞歷山大的革利免 (Clement of Alexandria)
 
-> 「猶大說『保守自己在神的愛中』——這不是說神的愛會改變，而是說我們需要持續住在祂的愛裏，如同枝子住在葡萄樹上。離開了這愛，我們就枯乾了。」
+論19節「沒有聖靈」，革利免說那缺少的靈是因信而得的：
 
-**金口約翰 (John Chrysostom, 347-407)**:
+> "that is, the spirit which is by faith, which supervenes through the practice of righteousness."
+> — Clement of Alexandria, "Comments on the Epistle of Jude," *Ante-Nicene Fathers*, vol. 2, p. 574
+>
+> 中譯：就是那藉著信而有、在行義之中隨之而來的靈。
 
-> 「有些人要從火中搶救，有些人要憐憫但戰兢。這教導我們智慧地處理不同情況。不是所有人都可以用同樣的方式對待。醫生對不同的病人用不同的藥。」
+論23節「從火中搶出來」，革利免的理解是教導人自己從火中脫身：
 
-### 改革宗時期
+> "that is, teach those who fall into the fire to free themselves."
+> — Clement of Alexandria, "Comments on the Epistle of Jude," *ANF* 2:574
+>
+> 中譯：就是要教導那些落在火中的人，使他們自己得以脫身。
 
-**約翰·加爾文 (John Calvin, 1509-1564)**:
+### 改革宗時期：加爾文 (John Calvin)
 
-> 「『在至聖的真道上建造自己』——這提醒我們，信仰需要成長。初信的基礎是重要的，但不能停留在那裏。如同房屋需要繼續建造，我們的信仰也需要不斷被真道建造。」
+加爾文用的是兩組人的讀法。論20節「在聖靈裏禱告」：
 
-**馬丁·路德 (Martin Luther, 1483-1546)**:
+> "It is not, then, without reason that Jude teaches us, that no one can pray as he ought without having the Spirit as his guide."
+> — John Calvin, *Commentaries on the Catholic Epistles*, tr. John Owen (1855), on Jude 20
+>
+> 中譯：所以猶大教導我們，若沒有聖靈作引導，沒有人能照所當禱告的去禱告，這不是沒有緣故的。
 
-> 「『仰望我們主耶穌基督的憐憫，進入永生』——這是我們盼望的根基。我們的得救不是靠自己的行為，而是靠基督的憐憫。這憐憫在十字架上顯明，將在祂再來時完全實現。」
+論21節「仰望主耶穌基督的憐憫」：
 
-### 當代釋經
+> "But it ought to be noticed that he would not have us to hope for eternal life, except through the mercy of Christ: for he will in such a manner be our judge, as to have no other rule in judging us than that gratuitous benefit of redemption obtained by himself."
+> — John Calvin, *Commentaries on the Catholic Epistles*, on Jude 21
+>
+> 中譯：但要留意，猶大不叫我們在基督的憐憫以外盼望永生；因為祂將要這樣作我們的審判者：審判我們時，除了祂自己所成就、白白賜下的救贖之恩，沒有別的準則。
 
-**約翰·麥克阿瑟 (John MacArthur)**:
+論23節「從火中搶出來」：
 
-> 「猶大的四重命令構成了屬靈健康的處方：建造（真理）、禱告（聖靈）、保守（愛）、仰望（盼望）。這四個元素結合在一起，使信徒能抵擋假教師的影響，持守真道到底。」
-> — *The MacArthur New Testament Commentary: 2 Peter & Jude*
+> "When there is a danger of fire, we hesitate not to snatch away violently whom we desire to save; for it would not be enough to beckon with the finger, or kindly to stretch forth the hand."
+> — John Calvin, *Commentaries on the Catholic Epistles*, on Jude 22-23
+>
+> 中譯：遇到火災的危險，我們想救誰，就毫不遲疑地用力把他搶出來；這時只用手指招一招，或客氣地伸一伸手，是不夠的。
 
-**乾伯·摩根 (G. Campbell Morgan)**:
+### 摩根 (G. Campbell Morgan)
 
-> 「猶大區分三類迷失的人，這顯示牧養智慧。有些人只是疑惑，需要耐心教導；有些人處於緊急危險，需要立即拯救；有些人深陷罪中，需要謹慎接觸。一刀切的方法是不足夠的。」
-> — *An Exposition of the Whole Bible*
+論21節「保守自己常在神的愛中」：
+
+> "We are to keep ourselves in the love of God; not to put ourselves there; we are in the love of God; being there, we are to keep ourselves in that love;"
+> — G. Campbell Morgan, "The Message of Jude," *Living Messages of the Books of the Bible* (New York: Fleming H. Revell, 1912), p. 204
+>
+> 中譯：我們要保守自己在神的愛中；不是要把自己放進去；我們本來就在神的愛中；既在其中，就要保守自己在那愛裏。
+
+論22-23節，摩根說保守自己和幫助別人分不開：
+
+> "We cannot contend for the faith and keep ourselves, save as we help others."
+> — G. Campbell Morgan, "The Message of Jude," *Living Messages*, p. 205
+>
+> 中譯：我們若不幫助別人，就不能為真道爭辯，也不能保守自己。
+
+### 麥克阿瑟 (John MacArthur)
+
+論19節「引人結黨」：
+
+> "They always are the ones that claim to have the Spirit and think anybody who doesn’t agree with him causes the divisions."
+> — John MacArthur, "Survival Strategy for Apostate Times, Part 1" (sermon 65-12)
+>
+> 中譯：總是他們自稱有聖靈，又認為凡不同意他們的人才是製造分裂的。
+
+論20-21節以「保守自己」為中心：
+
+> "They all sort of, in a sense, surround the main idea of keeping yourself in the love of God."
+> — John MacArthur, "Survival Strategy for Apostate Times, Part 2" (sermon 65-13)
+>
+> 中譯：這幾件事在某個意義上，都環繞著一個主要的意思：保守自己在神的愛中。
+
+> "Well, he’s not talking about keeping yourselves saved."
+> — John MacArthur, "Survival Strategy for Apostate Times, Part 2" (sermon 65-13)
+>
+> 中譯：他說的並不是要你們保住自己的得救。
+
+論22-23節的憐憫與搶救：
+
+> "This mercy is the merciful presentation of the truth."
+> — John MacArthur, "Survival Strategy for Apostate Times, Part 3" (sermon 65-14)
+>
+> 中譯：這憐憫，就是帶著憐憫把真理擺在他們面前。
+
+> "Already they’re being singed by what’s coming in hell, and we have to snatch them before hell engulfs them."
+> — John MacArthur, "Survival Strategy for Apostate Times, Part 3" (sermon 65-14)
+>
+> 中譯：他們已經被將來地獄的火燎著了，我們必須在地獄吞滅他們之前把他們搶出來。
+
+---
+
+## 詩篇與聖詩 (Psalm & Hymn)
+
+### 詩篇130:5-7
+
+「我等候耶和華，我的心等候；我也仰望他的話。我的心等候主，勝於守夜的，等候天亮，勝於守夜的，等候天亮。以色列啊，你當仰望耶和華！因他有慈愛，有豐盛的救恩。」——第21節「仰望我們主耶穌基督的憐憫」的「仰望」，是守夜的人等候天亮的那種仰望：天還黑，卻確知天一定會亮。詩人等候的是耶和華的慈愛；猶大說，信徒等候的是主耶穌基督再來時的憐憫。
+
+### Rescue the Perishing（見上「配詩」）
+
+「憐憫他們，從罪和墳墓中搶出來」（snatch them in pity）幾乎就是第23節「從火中搶出來」的英文說法。克羅斯比寫的不是辯論，是搶救；猶大書第四步的落腳點也在這裏。
+
+---
+
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：你被神的愛保守著，就住在那愛裏；你被主的憐憫等候著，就把憐憫帶給還在火邊的人。
+
+### 全經連線
+
+- **住在愛裏線：約15:9-10 → 猶21**——「我愛你們，正如父愛我一樣；你們要常在我的愛裏。」（約15:9）主耶穌說「常在我的愛裏」，猶大說「保守自己常在神的愛中」；約15:10「你們若遵守我的命令，就常在我的愛裏」的「遵守」，原文也是 τηρέω。
+- **聖靈線：林前2:14 → 猶19-20 → 羅5:5**——「屬血氣的人不領會神聖靈的事」（林前2:14）；「沒有聖靈的人」對「在聖靈裏禱告」（猶19-20）；「所賜給我們的聖靈將神的愛澆灌在我們心裏」（羅5:5）——住在神的愛中，是聖靈的工作。
+- **火中的柴線：亞3:2-4 → 猶23**——神從火中抽出大祭司約書亞，脫去他的污衣，給他穿上華美的衣服。猶大要信徒做的，是神先為人做過的事。
+- **挽回線：加6:1 → 猶22-23**——「你們屬靈的人就當用溫柔的心把他挽回過來；又當自己小心，恐怕也被引誘。」（加6:1）溫柔與小心並存，正是「存懼怕的心憐憫他們」。
+
+### 提問式對話
+
+**先問**：17節和20節兩次說「你們卻」。前面十幾節在講別人，你讀的時候，眼睛一直看著別人，還是有一刻轉回到自己？
+
+**再問**：21節只有一個命令——保守自己常在神的愛中。你覺得「保守自己」和「保住自己的得救」有甚麼不同？
+
+**追問**：22-23節有三種人：存疑心的、在火中的、要存懼怕的心接觸的。在你身邊，誰是存疑心的？誰已經在火裏？你對他們是同一種態度嗎？
+
+**落到自己**：你上一次為了真道跟人爭論，最後是把人推遠了，還是把人拉近了？
+
+### 活在今天·AI時代
+
+網路上最容易做的事，就是「引人結黨」（19節）：劃一條線，把人分成我們和他們，再按讚、轉發、圍觀。演算法獎勵的正是這種分界線。猶大給信徒的路正好相反：先在真道上造就自己，在聖靈裏禱告，然後去找那個存疑心的人——不是在留言區贏他，是在火燒到他之前把他搶出來。
+
+### 今天的祭壇
+
+**早晨**：讀20-21節，照原文的次序禱告：「主啊，今天叫我住在你的愛中——在真道上造就、在聖靈裏禱告、仰望你的憐憫。」
+**晚上**：省察今天有沒有一次，你在心裏把某個人劃到線外。
+**一個行動**：今天找一位正在疑惑的弟兄姊妹，不辯論，先聽他說完，再陪他回到一段經文。
+
+**你看見耶穌了嗎**？祂是信徒「仰望」的那一位——等候的不是一個事件，是「我們主耶穌基督的憐憫，直到永生」（21節）。祂自己就是那位從火中把人搶出來的主：「誰也不能從我手裏把他們奪去」（約10:28）；祂脫去我們污穢的衣服，給我們穿上祂的義。你被祂憐憫了，你也正被祂等候著。
 
 ---
 
@@ -183,68 +277,27 @@ publisher: 三書精讀出版系統
 
 ### 默想問題
 
-1. **記得真道**：我是否定期回顧使徒的教導？還是只追求新奇的教訓？
-
-2. **屬靈建造**：我正在用什麼方式在「至聖的真道上」建造自己？讀經、禱告、團契、事奉？
-
-3. **在聖靈裏禱告**：我的禱告是靠聖靈的引導，還是只是例行公事？
-
-4. **憐憫他人**：我周圍有哪些人需要我的憐憫——疑惑的、危險中的、或被污染的？我如何用智慧回應？
+1. 我對末世「好譏誚的人」的反應，是驚慌、憤怒，還是記念使徒早已說過？
+2. 我「保守自己常在神的愛中」，具體在哪一件事上？是造就、禱告，還是仰望最軟弱？
+3. 我會不會在憐憫人的時候，漸漸失去了對「被沾染的衣服」的厭惡？
 
 ### 禱告回應
 
-> 主啊，感謝你藉著使徒預先警告我們末世的危險。
-> 求你幫助我在至聖的真道上不斷建造自己；
-> 教導我在聖靈裏禱告，不靠自己的血氣；
-> 保守我住在你的愛中，不偏離左右；
-> 賜我盼望的心，仰望你憐憫的再臨。
-> 也求你賜我智慧，知道如何憐憫那些迷失的人——
-> 或耐心教導，或緊急拯救，或謹慎接觸。
-> 奉主耶穌基督的名禱告，阿們。
+主耶穌，謝謝你的憐憫一直等著我，直到永生。求你叫我住在神的愛中，在真道上造就自己，在聖靈裏禱告。也求你給我一顆憐憫人的心：對疑惑的人溫柔，對在火中的人不遲疑，對罪的污穢存懼怕的心。叫我爭辯的終點不是贏，是救人。奉你的名求，阿們。
 
 ---
 
-## 詩篇與聖詩 (Psalms and Hymns)
+## 與其他經文的關聯
 
-### 配讀詩篇
+| 經文 | 關聯主題 |
+|------------------------------|--------------------------------------------------|
+| 彼後3:2-3 | 記念使徒的話；末世必有好譏誚的人 |
+| 徒20:29-30；提後3:1 | 使徒對末世的預告 |
+| 林前2:14 | 屬血氣的人不領會聖靈的事 |
+| 約15:9-10 | 常在主的愛裏（τηρέω） |
+| 羅5:5 | 聖靈將神的愛澆灌在我們心裏 |
+| 約10:28 | 誰也不能從主手裏把他們奪去 |
+| 亞3:2-4 | 從火中抽出來的柴；脫去污穢的衣服 |
+| 加6:1 | 用溫柔的心把人挽回過來 |
 
-| 經文 | 詩篇 | 主題連結 |
-|------|------|----------|
-| v.17 記得使徒預言 | 詩篇 119:9-16 | 「我將你的話藏在心裏」 |
-| v.20 在真道上建造 | 詩篇 127 | 「若不是耶和華建造房屋」 |
-| v.20 在聖靈裏禱告 | 詩篇 63 | 「我心渴想你」 |
-| v.21 保守在神的愛中 | 詩篇 91 | 「住在至高者隱密處」 |
-| v.21 仰望主的憐憫 | 詩篇 130 | 「我等候耶和華」 |
-| v.22-23 憐憫迷失者 | 詩篇 126 | 「流淚撒種的必歡呼收割」 |
-
-### 建議聖詩
-
-**開始敬拜**：*Trust and Obey* (John H. Sammis)
-> 「信靠順服」——四重命令的核心精神
-
-**默想詩歌**：*Spirit of the Living God* (Daniel Iverson)
-> 「永生神的靈」——在聖靈裏禱告
-
-**回應詩歌**：*Love Divine, All Loves Excelling* (Charles Wesley)
-> 「聖愛臨我」——保守在神的愛中，直到永生
-
-**結束頌讚**：*All the Way My Savior Leads Me* (Fanny Crosby)
-> 「一路引導」——仰望主的憐憫進入永生
-
----
-
-## 反思問題 (Reflection Questions)
-
-1. 使徒們預言末世會有嘲弄者。這預言如何在今天應驗？
-
-2. 「屬乎血氣、沒有聖靈的人」如何製造分裂？今天的教會如何防範？
-
-3. 「保守自己在神的愛中」與神「保守我們」(v.1) 有什麼關係？這兩方面如何協調？
-
-4. 猶大區分三類迷失的人。你認識這三類人嗎？你如何回應他們？
-
-5. 「連那被情慾玷污的衣服也當厭惡」是什麼意思？這如何平衡憐憫與聖潔？
-
----
-
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、G. Campbell Morgan*
+*本章研讀整合：老弟兄查經方法之應用、亞歷山大的革利免、加爾文、摩根與麥克阿瑟的注疏。*

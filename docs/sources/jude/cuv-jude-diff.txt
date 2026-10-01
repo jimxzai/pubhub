@@ -1,0 +1,37 @@
+# CUV Jude: fhl.net unv (A) vs ai-eden.com CUV (B), character-level, no normalization
+1	delete: A['\u3000'] B['']
+2	replace: A['地'] B['的']
+3	replace: A['啊'] B['阿'] | replace: A['地'] B['的']
+4	delete: A['\u3000'] B[''] | delete: A['作'] B[''] | replace: A['譯：'] B['作']
+5	MATCH
+6	MATCH
+7	delete: A['，'] B[''] | replace: A['地'] B['的']
+8	MATCH
+9	insert: A[''] B['{'] | delete: A['「'] B[''] | replace: A['吧'] B['罷'] | delete: A['」'] B['']
+10	MATCH
+11	MATCH
+12	replace: A['譯'] B['作'] | replace: A['餵'] B['餧']
+13	MATCH
+14	delete: A['「'] B['']
+15	insert: A[''] B['，'] | delete: A['」'] B['']
+16	MATCH
+17	replace: A['啊'] B['阿']
+18	MATCH
+19	MATCH
+20	replace: A['啊'] B['阿']
+21	delete: A['\u3000'] B['']
+22	MATCH
+23	MATCH
+24	delete: A['\u3000'] B['']
+25	replace: A['！'] B['。']
+
+# Notes (third witness: cnbible.com = CUVMPT modern-punctuation edition, NOT CUV 1919; file cuvmpt-jude-cnbible.txt)
+# v4: fhl「變作放縱」; ai-eden「變放縱」(作 missing); cnbible「變做放縱」. Two of three witnesses have a verb 作/做 -> ai-eden omission looks like a source error.
+#     fhl marginal note「（或譯：和我們）」vs ai-eden「（或作和我們）」.
+# v9: ai-eden has a stray "{" after 米迦勒 and lacks 「」quotation marks; 吧 (fhl, cnbible) vs 罷 (ai-eden).
+# v12: 餵 (fhl, cnbible) vs 餧 (ai-eden); marginal 或譯 vs 或作.
+# v14-15: fhl/cnbible open 「 at v14 and close 」 at v15; ai-eden has no quotation marks; ai-eden has extra comma after 不敬虔的人 in v15.
+# v2/3/7: 地 (fhl, cnbible) vs 的 (ai-eden, older adverbial 的).  v3/17/20: 啊 (fhl, cnbible) vs 阿 (ai-eden).
+# v25: 阿們！(fhl) vs 阿們。(ai-eden, cnbible). 歸與 (fhl, ai-eden) vs 歸於 (cnbible).
+# fhl inserts U+3000 (full-width space) before 神 (v1,4,21,24) = the CUV "神 / 上帝" edition spacing; ai-eden drops it.
+# No normalization applied in any file.

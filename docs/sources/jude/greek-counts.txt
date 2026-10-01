@@ -1,0 +1,33 @@
+# Greek word counts, Jude (SBLGNT), computed by script from MorphGNT lemmatized SBLGNT
+# Source: https://raw.githubusercontent.com/morphgnt/sblgnt/master/86-Jud-morphgnt.txt (lemma = column 7). Retrieved 2026-10-01.
+# Format: group | total | verse:form list
+τηρέω (lemma τηρέω)	5	v1: τετηρημένοις; v6: τηρήσαντας, τετήρηκεν·; v13: τετήρηται.; v21: τηρήσατε
+ἀσεβ- (ἀσεβής/ἀσέβεια/ἀσεβέω)	6	v4: ἀσεβεῖς,; v15: ἀσεβεῖς⸃, ἀσεβείας, ἠσέβησαν, ἀσεβεῖς.; v18: ἀσεβειῶν.
+οὗτος — forms οὗτοι/οὗτοί only	5	v8: οὗτοι; v10: οὗτοι; v12: οὗτοί; v16: οὗτοί; v19: οὗτοί
+οὗτος — all forms (lemma)	9	v4: τοῦτο; v7: τούτοις⸃; v8: οὗτοι; v10: οὗτοι, τούτοις; v12: οὗτοί; v14: τούτοις; v16: οὗτοί; v19: οὗτοί
+ἔλεος (lemma)	2	v2: ἔλεος; v21: ἔλεος
+ἐλεάω (lemma)	2	v22: ⸀ἐλεᾶτε; v23: ἐλεᾶτε
+ἀγαπ- (ἀγάπη/ἀγαπητός/ἀγαπάω)	7	v1: ⸀ἠγαπημένοις; v2: ἀγάπη; v3: Ἀγαπητοί,; v12: ἀγάπαις; v17: ἀγαπητοί,; v20: ἀγαπητοί,; v21: ἀγάπῃ
+φυλάσσω (lemma)	1	v24: φυλάξαι
+κύριος (lemma)	6	v4: κύριον; v9: κύριος.; v14: κύριος; v17: κυρίου; v21: κυρίου; v25: κυρίου
+Ἰησοῦς (lemma)	7	v1: Ἰησοῦ, Ἰησοῦ; v4: Ἰησοῦν; v5: ⸀Ἰησοῦς; v17: Ἰησοῦ; v21: Ἰησοῦ; v25: Ἰησοῦ
+
+# Surface-regex cross-check on SBLGNT plain text (accents stripped):
+τηρ-	5	{1: 1, 6: 2, 13: 1, 21: 1}
+ασεβ-	5	{4: 1, 15: 3, 18: 1}
+ουτοι	5	{8: 1, 10: 1, 12: 1, 16: 1, 19: 1}
+ελε-	6	{2: 1, 15: 1, 18: 1, 21: 1, 22: 1, 23: 1}
+αγαπ-	6	{2: 1, 3: 1, 12: 1, 17: 1, 20: 1, 21: 1}
+φυλαξ/φυλασσ	1	{24: 1}
+κυρι-	7	{4: 1, 8: 1, 9: 1, 14: 1, 17: 1, 21: 1, 25: 1}
+ιησου-	7	{1: 2, 4: 1, 5: 1, 17: 1, 21: 1, 25: 1}
+
+# NOTE (text-critical): at v15 SBLGNT reads πάντας τοὺς ἀσεβεῖς; NA28 reads πᾶσαν ψυχὴν (per SBLGNT apparatus). In NA28 the ἀσεβ- count is therefore one lower (5 instead of 6) -- ἀσεβεῖς in v15a is absent; verify against a printed NA28 before publishing.
+# NOTE: at v5 SBLGNT reads Ἰησοῦς (NA28) vs κύριος (WH, Treg) / ὁ κύριος (RP, NIV) -- the Ἰησοῦς count includes v5 only under the SBLGNT/NA28 reading.
+# Regex vs lemma discrepancies explained (lemma counts are authoritative):
+#   ασεβ- 5 vs 6: regex misses augmented ἠσέβησαν (v15).
+#   ελε- 6 vs 4: regex false positives ἐλέγξαι (v15, ἐλέγχω) and ἐλεύσονται (v18, ἔρχομαι).
+#   αγαπ- 6 vs 7: regex misses augmented ἠγαπημένοις (v1).
+#   κυρι- 7 vs 6: regex also catches κυριότητα (v8, κυριότης "lordship/authority"), which is not κύριος.
+# Combined ἔλεος + ἐλεάω = 4 (v2, v21, v22, v23).
+# Combined τηρέω (5) + φυλάσσω (1, v24) = 6 "keep/guard" words.

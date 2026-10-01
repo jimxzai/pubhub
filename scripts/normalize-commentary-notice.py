@@ -66,13 +66,25 @@ def notices(title):
         "> 凡未能核校到可逐字引用之原文者，一律以綜述呈現，不以引號冒充原文。\n"
         f"> 各條出處與核校方式，{ref}"
     )
-    return with_quotes, summary_only
+    # When the 教父/改革宗 subsections themselves carry verbatim quotes (Jude:
+    # Clement and Calvin in every chapter), with_quotes would tell the reader
+    # the opposite of what the page shows -- the very failure this script was
+    # written to stop. Same rule, without the false clause.
+    all_verbatim = (
+        "> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，\n"
+        "> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。\n"
+        f"> 各條出處與核校方式，{ref}"
+    )
+    return with_quotes, summary_only, all_verbatim
 
 
-def rewrite(text, with_quotes=None, summary_only=None):
+def rewrite(text, with_quotes=None, summary_only=None, all_verbatim=None):
     """Replace the notice block at the head of 歷代注疏. Returns (new_text, kind)."""
-    WITH_QUOTES, SUMMARY_ONLY = (with_quotes, summary_only) if with_quotes \
-        else notices(DEFAULT_APPENDIX_TITLE)
+    if with_quotes:
+        WITH_QUOTES, SUMMARY_ONLY = with_quotes, summary_only
+        ALL_VERBATIM = all_verbatim or notices(DEFAULT_APPENDIX_TITLE)[2]
+    else:
+        WITH_QUOTES, SUMMARY_ONLY, ALL_VERBATIM = notices(DEFAULT_APPENDIX_TITLE)
     i = text.find(SECTION)
     if i == -1:
         return text, None
@@ -82,8 +94,16 @@ def rewrite(text, with_quotes=None, summary_only=None):
     body = text[i:body_end]
 
     has_quote = bool(re.search(r'^> "', body, re.M))
-    notice = WITH_QUOTES if has_quote else SUMMARY_ONLY
-    kind = "verbatim" if has_quote else "summary-only"
+    # does a 教父/改革宗 subsection carry a verbatim quote of its own?
+    early_quoted = any(
+        re.search(r'^> "', part, re.M)
+        for part in re.split(r"(?m)^(?=### )", body)
+        if re.match(r"### [^\n]*(教父|改革宗)", part))
+    if early_quoted:
+        notice, kind = ALL_VERBATIM, "verbatim (incl. 教父/改革宗)"
+    else:
+        notice = WITH_QUOTES if has_quote else SUMMARY_ONLY
+        kind = "verbatim" if has_quote else "summary-only"
 
     # the existing notice is the run of '>' lines immediately after the heading
     m = re.match(r"(## 歷代注疏[^\n]*\n\n)((?:>[^\n]*\n)+)", body)
@@ -100,13 +120,13 @@ def main():
     args = ap.parse_args()
 
     title = appendix_title(args.book_dir)
-    wq, so = notices(title)
+    wq, so, av = notices(title)
     print(f"  sources appendix: 〈{title}〉")
 
     changed = 0
     for f in sorted(p for p in Path(args.book_dir).glob("*.md") if re.match(r"\d{2}[a-z]?-", p.name)):
         old = f.read_text(encoding="utf-8")
-        new, kind = rewrite(old, wq, so)
+        new, kind = rewrite(old, wq, so, av)
         if kind is None:
             print(f"  {f.name}: no 歷代注疏 notice found — skipped")
             continue
