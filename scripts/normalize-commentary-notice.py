@@ -47,8 +47,10 @@ DEFAULT_APPENDIX_TITLE = "附錄：引用出處總表"
 def appendix_title(book_dir):
     f = Path(book_dir) / "99-appendix-references.md"
     if f.exists():
-        m = re.search(r"^# (.+?)(?:\s*\(.*\))?\s*$", f.read_text(encoding="utf-8"),
-                      re.M)
+        # strip a trailing pandoc attribute block ({.unnumbered}) as well as
+        # the English parenthetical, or both end up printed in every notice
+        m = re.search(r"^# (.+?)(?:\s*\(.*?\))?(?:\s*\{[^}]*\})?\s*$",
+                      f.read_text(encoding="utf-8"), re.M)
         if m:
             return m.group(1).strip()
     return DEFAULT_APPENDIX_TITLE
@@ -78,6 +80,27 @@ def notices(title):
     return with_quotes, summary_only, all_verbatim
 
 
+# 2026-10-02, 1 John: every chapter printed 「中譯附於原文之後」 while the page
+# carried the English original preceded by a Chinese lead-in summary and NO
+# translation after it -- this script's own wording had become the false claim.
+# Only say a translation follows when a quote block actually contains one.
+NO_TRANSLATION = ("> 中譯附於原文之後", "> 引文前的中文是編者對該段的撮述導讀，不是逐字翻譯")
+
+
+def has_translation(body):
+    """True if some blockquote holding a `> "English"` quote also holds a
+    Chinese line that is not the `> —` attribution line."""
+    for block in re.findall(r"(?:^>[^\n]*\n?)+", body, re.M):
+        if not re.search(r'^> "', block, re.M):
+            continue
+        for line in block.splitlines():
+            if line.startswith('> "') or line.startswith("> —"):
+                continue
+            if re.search(r"[\u4e00-\u9fff]", line):
+                return True
+    return False
+
+
 def rewrite(text, with_quotes=None, summary_only=None, all_verbatim=None):
     """Replace the notice block at the head of 歷代注疏. Returns (new_text, kind)."""
     if with_quotes:
@@ -104,6 +127,9 @@ def rewrite(text, with_quotes=None, summary_only=None, all_verbatim=None):
     else:
         notice = WITH_QUOTES if has_quote else SUMMARY_ONLY
         kind = "verbatim" if has_quote else "summary-only"
+
+    if has_quote and not has_translation(body):
+        notice = notice.replace(*NO_TRANSLATION)
 
     # the existing notice is the run of '>' lines immediately after the heading
     m = re.match(r"(## 歷代注疏[^\n]*\n\n)((?:>[^\n]*\n)+)", body)

@@ -158,6 +158,22 @@ def build():
         if others:
             lines.append(f"| {c}:{v}（{home(c, v)}） | {'、'.join(others)} |")
     lines += ["", "## 三、其他經卷索引", "", "| 經文 | 出現於 |", "|----------------------|----------------------------------------------------------|"]
+    # Fold a reference into a range that contains it (創4:4-5 into 創4:3-9),
+    # so the index lists each passage once with every chapter that cites it.
+    def span(k):
+        v1, v2 = k[2], k[3]
+        return (v1, v2 or v1) if v1 else None
+    keys = sorted(refs)
+    for k in keys:
+        if span(k) is None:
+            continue
+        for big in keys:
+            if big is k or big[:2] != k[:2] or span(big) is None or big not in refs:
+                continue
+            (a1, a2), (b1, b2) = span(k), span(big)
+            if b1 <= a1 and a2 <= b2 and (b1, b2) != (a1, a2):
+                refs[big] |= refs.pop(k)
+                break
     for key in sorted(refs):
         _, _, _, _, b, c, v1, v2 = key
         ref = f"{b}{c}" + (f":{v1}" if v1 else "") + (f"-{v2}" if v2 else "")
