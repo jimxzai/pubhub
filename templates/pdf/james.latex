@@ -365,6 +365,9 @@
   }%
   \item\relax
   \small\color{TextGray}%
+  % paragraph gap inside quotes: separates hymn stanzas and the English/Chinese
+  % halves of a hymn, which otherwise run together at the body 0.3em
+  \setlength{\parskip}{0.6em}%
 }{%
   \endlist
   \par\vspace{0.3\baselineskip}%
@@ -520,8 +523,8 @@ $endif$
 \vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
 你們要行道，不要單單聽道，自己欺哄自己。\\[0.2em]
-\footnotesize But be doers of the word, and not hearers only,\\
-deceiving yourselves. — James 1:22
+\footnotesize But prove yourselves doers of the word, and not merely\\
+hearers who delude themselves. — James 1:22
 \vspace{0.3cm}
 \end{minipage}
 }

@@ -24,27 +24,27 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **How Firm a Foundation**
-> *"K" in John Rippon's *A Selection of Hymns*, 1787*
+> **How Firm a Foundation** \
+> "K" in John Rippon's *A Selection of Hymns*, 1787
 >
-> When through the deep waters I call thee to go,
-> The rivers of sorrow shall not overflow;
-> For I will be with thee, thy troubles to bless,
+> When through the deep waters I call thee to go, \
+> The rivers of sorrow shall not overflow; \
+> For I will be with thee, thy troubles to bless, \
 > And sanctify to thee thy deepest distress.
 >
-> 當你我經深水，蒙召往前行，
-> 憂愁的河水，必不能淹沒；
-> 因我必與你同在，賜福你的患難，
+> 當你我經深水，蒙召往前行， \
+> 憂愁的河水，必不能淹沒； \
+> 因我必與你同在，賜福你的患難， \
 > 使你至深的痛苦，也成聖潔。
 >
-> Fear not, I am with thee, O be not dismayed,
-> For I am thy God, and will still give thee aid;
-> I'll strengthen thee, help thee, and cause thee to stand,
+> Fear not, I am with thee, O be not dismayed, \
+> For I am thy God, and will still give thee aid; \
+> I'll strengthen thee, help thee, and cause thee to stand, \
 > Upheld by My righteous, omnipotent hand.
 >
-> 不要怕，我與你同在，不要驚惶失措，
-> 因我是你的神，必扶持幫助你；
-> 我必堅固你、幫助你，使你站立得穩，
+> 不要怕，我與你同在，不要驚惶失措， \
+> 因我是你的神，必扶持幫助你； \
+> 我必堅固你、幫助你，使你站立得穩， \
 > 用我公義全能的手扶持著你。
 
 ---
@@ -119,9 +119,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 加爾文·改革宗時期 (John Calvin)
 

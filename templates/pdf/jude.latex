@@ -366,6 +366,9 @@
   }%
   \item\relax
   \small\color{TextGray}%
+  % paragraph gap inside quotes: separates hymn stanzas and the English/Chinese
+  % halves of a hymn, which otherwise run together at the body 0.3em
+  \setlength{\parskip}{0.6em}%
 }{%
   \endlist
   \par\vspace{0.3\baselineskip}%

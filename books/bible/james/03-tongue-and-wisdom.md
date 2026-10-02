@@ -24,27 +24,27 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Take My Life and Let It Be**
+> **Take My Life and Let It Be** \
 > *Frances Ridley Havergal, 1874*
 >
-> Take my voice, and let me sing
-> Always, only, for my King;
-> Take my lips, and let them be
+> Take my voice, and let me sing \
+> Always, only, for my King; \
+> Take my lips, and let them be \
 > Filled with messages from Thee.
 >
-> 求主用我的聲音，
-> 歌頌讚美我的王；
-> 求主用我的嘴唇，
+> 求主用我的聲音， \
+> 歌頌讚美我的王； \
+> 求主用我的嘴唇， \
 > 常傳從你來的信息。
 >
-> Take my hands, and let them move
-> At the impulse of Thy love;
-> Take my feet, and let them be
+> Take my hands, and let them move \
+> At the impulse of Thy love; \
+> Take my feet, and let them be \
 > Swift and beautiful for Thee.
 >
-> 求主用我的雙手，
-> 隨你的愛而行動；
-> 求主用我的雙腳，
+> 求主用我的雙手， \
+> 隨你的愛而行動； \
+> 求主用我的雙腳， \
 > 為你奔走、為你聖潔。
 
 ---
@@ -117,9 +117,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 加爾文·改革宗時期 (John Calvin)
 

@@ -23,27 +23,27 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **In Christ There Is No East or West**
+> **In Christ There Is No East or West** \
 > *John Oxenham, 1908*
 >
-> In Christ there is no East or West,
-> In Him no South or North,
-> But one great fellowship of love
+> In Christ there is no East or West, \
+> In Him no South or North, \
+> But one great fellowship of love \
 > Throughout the whole wide earth.
 >
-> 在基督裏，無東無西，
-> 在祂裏面，無南無北，
-> 只有一個愛的相交，
+> 在基督裏，無東無西， \
+> 在祂裏面，無南無北， \
+> 只有一個愛的相交， \
 > 貫通普天下每一角落。
 >
-> In Him shall true hearts everywhere
-> Their high communion find;
-> His service is the golden cord
+> In Him shall true hearts everywhere \
+> Their high communion find; \
+> His service is the golden cord \
 > Close-binding all mankind.
 >
-> 在祂裏面，真心的人，
-> 到處都尋見相交的高處；
-> 事奉祂就是那條金線，
+> 在祂裏面，真心的人， \
+> 到處都尋見相交的高處； \
+> 事奉祂就是那條金線， \
 > 把全人類緊緊相繫。
 
 ---
@@ -104,9 +104,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 加爾文·改革宗時期 (John Calvin)
 

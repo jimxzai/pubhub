@@ -29,7 +29,7 @@ publisher: 三書精讀出版系統
 
 猶大書被教會接納的過程，不是一開始就毫無疑問的。看幾份早期見證，就能看見這個過程的真實樣子。
 
-**二世紀末，羅馬。**《穆拉多利殘篇》（Muratorian Fragment，一份早期的書目殘卷）列出教會承認的書卷，其中說：
+**一般認為是二世紀末，羅馬。**《穆拉多利殘篇》（Muratorian Fragment，一份早期的書目殘卷；也有學者把它定在四世紀）列出教會承認的書卷，其中說：
 
 > "The Epistle of Jude, indeed, and two belonging to the above-named John—or bearing the name of John—are reckoned among the Catholic epistles."
 > — Muratorian Fragment, *Ante-Nicene Fathers*, vol. 5, p. 603
@@ -45,7 +45,7 @@ publisher: 三書精讀出版系統
 >
 > 中譯：在有爭議、卻仍被許多人承認的書卷中，有所謂雅各書、猶大書，也有彼得後書，以及所謂約翰二書、三書——不論它們屬於那位福音書作者，還是屬於另一位同名的人。
 
-他在別處也說，提到猶大書的古人不多，「然而我們知道，這些書信也與其餘的一同，在許多教會中公開誦讀」（*Church History* 2.23.25，撮述）。
+他在別處也說，提到猶大書的古人不多，但這些書信也與其餘的書信一同，在許多教會中公開誦讀（*Church History* 2.23.25，撮述）。
 
 **四世紀末，伯利恆。**耶柔米說出了爭議的原因，也說出了結果：
 

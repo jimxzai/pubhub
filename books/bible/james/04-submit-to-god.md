@@ -23,27 +23,27 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Nearer, My God, to Thee**
+> **Nearer, My God, to Thee** \
 > *Sarah Flower Adams, 1841*
 >
-> Nearer, my God, to Thee, nearer to Thee!
-> E'en though it be a cross that raiseth me,
-> Still all my song shall be,
+> Nearer, my God, to Thee, nearer to Thee! \
+> E'en though it be a cross that raiseth me, \
+> Still all my song shall be, \
 > Nearer, my God, to Thee; nearer to Thee!
 >
-> 與主更親近，更親近主！
-> 縱使背負十架，使我高舉，
-> 我心仍要歌唱：
+> 與主更親近，更親近主！ \
+> 縱使背負十架，使我高舉， \
+> 我心仍要歌唱： \
 > 與主更親近，更親近主！
 >
-> Though like the wanderer, the sun gone down,
-> Darkness be over me, my rest a stone;
-> Yet in my dreams I'd be
+> Though like the wanderer, the sun gone down, \
+> Darkness be over me, my rest a stone; \
+> Yet in my dreams I'd be \
 > Nearer, my God, to Thee; nearer to Thee!
 >
-> 縱使像漂流的人，日頭已落下，
-> 黑暗籠罩著我，唯石作枕頭；
-> 我夢中仍願意，
+> 縱使像漂流的人，日頭已落下， \
+> 黑暗籠罩著我，唯石作枕頭； \
+> 我夢中仍願意， \
 > 與主更親近，更親近主！
 
 ---
@@ -115,9 +115,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 加爾文·改革宗時期 (John Calvin)
 

@@ -23,27 +23,27 @@ publisher: 三書精讀出版系統
 
 ## 配詩 (Opening Hymn)
 
-> **Sweet Hour of Prayer**
+> **Sweet Hour of Prayer** \
 > *William Walford, 1845*
 >
-> Sweet hour of prayer, sweet hour of prayer,
-> That calls me from a world of care,
-> And bids me at my Father's throne
+> Sweet hour of prayer, sweet hour of prayer, \
+> That calls me from a world of care, \
+> And bids me at my Father's throne \
 > Make all my wants and wishes known.
 >
-> 甜美禱告時，甜美禱告時，
-> 呼召我離開憂慮世界，
-> 吩咐我來到天父座前，
+> 甜美禱告時，甜美禱告時， \
+> 呼召我離開憂慮世界， \
+> 吩咐我來到天父座前， \
 > 傾心吐意，將所需說明。
 >
-> Sweet hour of prayer, sweet hour of prayer,
-> Thy wings shall my petition bear
-> To Him whose truth and faithfulness
+> Sweet hour of prayer, sweet hour of prayer, \
+> Thy wings shall my petition bear \
+> To Him whose truth and faithfulness \
 > Engage the waiting soul to bless.
 >
-> 甜美禱告時，甜美禱告時，
-> 願你的翅膀承載我祈求，
-> 飛向那信實又真實的主，
+> 甜美禱告時，甜美禱告時， \
+> 願你的翅膀承載我祈求， \
+> 飛向那信實又真實的主， \
 > 祂必應允等候的心靈。
 
 ---
@@ -117,9 +117,9 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 加爾文·改革宗時期 (John Calvin)
 

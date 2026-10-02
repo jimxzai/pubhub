@@ -61,8 +61,6 @@ copyright: |
   Scripture quotations taken from the New American Standard Bible® (NASB),
   Copyright © 1960, 1971, 1977, 1995 by The Lockman Foundation. Used by
   permission. All rights reserved. lockman.org
-
-  All rights reserved.
 ---
 
 HEADER
@@ -82,10 +80,23 @@ add_file() {
     ((chapter_count++))
 }
 
+# Front/back matter: first H1 marked unnumbered so the preface, orientation
+# chapters, appendices and afterword do not consume chapter numbers (without
+# this, James 1 printed as 「第 5 章」).
+add_front() {
+    local f="$1"
+    [ -f "$f" ] || { echo "❌ Missing file: $1 — aborting build"; exit 1; }
+    echo "  Adding (unnumbered): $(basename "$f")"
+    tail -n +8 "$f" | sed 's/\^\([0-9][0-9:]*\)\^/\\textsuperscript{\1}/g' \
+      | awk 'BEGIN{done=0} /^# /{ if(!done){ sub(/[[:space:]]*$/,""); if($0 !~ /\{\.unnumbered\}$/) $0=$0" {.unnumbered}"; done=1 } } {print}' >> "$COMBINED_MD"
+    printf '\n\n\\newpage\n\n' >> "$COMBINED_MD"
+    ((chapter_count++))
+}
+
 # Volume divider: a part-title page carrying the volume's theme and,
 # optionally, its place in the salvation/discipleship order ($3 $4 $5).
 add_volume() {
-    printf '# %s\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
+    printf '# %s {.unnumbered}\n\n> %s\n' "$1" "$2" >> "$COMBINED_MD"
     if [ -n "$3" ]; then
         printf '\n| | |\n|---|---|\n| **貫穿的線** | %s |\n| **鑰節** | %s |\n| **貫穿的問題** | %s |\n' \
             "$3" "$4" "$5" >> "$COMBINED_MD"
@@ -105,7 +116,7 @@ add_chapter() {
 }
 
 # 前言 — preface (grace at CCIC, vision, honesty note, purpose)
-add_file "$INPUT_DIR/000-preface.md"
+add_front "$INPUT_DIR/000-preface.md"
 
 # ============================================================
 # 卷首 · 定位 — orientation: map, coordinates, spine, method
@@ -113,15 +124,15 @@ add_file "$INPUT_DIR/000-preface.md"
 add_volume "卷首 · 定位 (Orientation)" \
     "讀正文之前先讀這三章：地圖、座標、骨幹——啟示的次序與神的計劃。"
 
-add_file "$INPUT_DIR/00-overview.md"
-add_file "$INPUT_DIR/00a-james-position.md"
-add_file "$INPUT_DIR/00c-revelation-order.md"
+add_front "$INPUT_DIR/00-overview.md"
+add_front "$INPUT_DIR/00a-james-position.md"
+add_front "$INPUT_DIR/00c-revelation-order.md"
 
 # 老弟兄 systematic reception — demote headings one level so the whole
 # study reads as a single top-level chapter.
 if [ -f "$STUDY_FILE" ]; then
     echo "  Adding: elder-wong-systematic-study.md (as 全書領受總綱)"
-    printf '# 全書領受總綱——查經領受 (Systematic Reception)\n\n' >> "$COMBINED_MD"
+    printf '# 全書領受總綱——查經領受 (Systematic Reception) {.unnumbered}\n\n' >> "$COMBINED_MD"
     # drop the file's 7-line YAML frontmatter (lines 1-7 + blank line 8, same
     # as add_file()'s `tail -n +8`) AND its own H1 title line (line 9), then
     # demote all remaining headings by one level (single substitution per
@@ -175,17 +186,18 @@ add_volume "卷末 · 你信的，活出來了嗎 (Toward a Living Faith)" \
 # ============================================================
 add_volume "附錄 (Appendices)" \
     "經文與主題索引；讀經計劃；資料來源與版本之逐章誠實說明。"
-[ -f "$INPUT_DIR/98-appendix-indices.md" ] && add_file "$INPUT_DIR/98-appendix-indices.md"
-[ -f "$INPUT_DIR/97-appendix-greek-vocabulary.md" ] && add_file "$INPUT_DIR/97-appendix-greek-vocabulary.md"
-[ -f "$INPUT_DIR/96-appendix-reading-plan.md" ] && add_file "$INPUT_DIR/96-appendix-reading-plan.md"
-[ -f "$INPUT_DIR/99-appendix-references.md" ] && add_file "$INPUT_DIR/99-appendix-references.md"
+[ -f "$INPUT_DIR/98-appendix-indices.md" ] && add_front "$INPUT_DIR/98-appendix-indices.md"
+[ -f "$INPUT_DIR/97-appendix-greek-vocabulary.md" ] && add_front "$INPUT_DIR/97-appendix-greek-vocabulary.md"
+[ -f "$INPUT_DIR/96-appendix-reading-plan.md" ] && add_front "$INPUT_DIR/96-appendix-reading-plan.md"
+[ -f "$INPUT_DIR/99-appendix-references.md" ] && add_front "$INPUT_DIR/99-appendix-references.md"
 
 # 跋 — afterword (the ministry, the 66-volume prayer).
 # Last content file: no trailing \newpage (the template backmatter opens
 # its own page; a trailing break here yields a header-only blank page
 # whenever the afterword happens to fill its final page exactly).
 echo "  Adding: 999-afterword.md"
-tail -n +8 "$INPUT_DIR/999-afterword.md" >> "$COMBINED_MD"
+tail -n +8 "$INPUT_DIR/999-afterword.md" \
+  | awk 'BEGIN{done=0} /^# /{ if(!done){ sub(/[[:space:]]*$/,""); if($0 !~ /\{\.unnumbered\}$/) $0=$0" {.unnumbered}"; done=1 } } {print}' >> "$COMBINED_MD"
 ((chapter_count++))
 
 echo ""

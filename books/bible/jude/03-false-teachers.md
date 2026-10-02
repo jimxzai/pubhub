@@ -188,7 +188,7 @@ publisher: 三書精讀出版系統
 
 ### 摩根 (G. Campbell Morgan)
 
-摩根論12-13節的五個比喻：
+摩根論12-13節那一連串的比喻（礁石、牧人、無雨的雲、無果的樹、狂浪、流蕩的星）：
 
 > "Perhaps there is no more forceful passage in the whole of the New Testament than that of verses twelve and thirteen."
 > — G. Campbell Morgan, "The Message of Jude," *Living Messages of the Books of the Bible* (New York: Fleming H. Revell, 1912), p. 200
