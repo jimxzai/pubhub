@@ -46,7 +46,7 @@ publisher: 三書精讀出版系統
 > Therefore we ought to support such men, so that we may be fellow workers with the truth.
 > — 3 John 8 (NASB)
 
-這是全信唯一一句「所以……應該」。前面七節說明為甚麼，後面七節說明誰不肯、誰值得。
+這是全信唯一一句「所以……應該」。前面七節鋪陳理由，後面幾節說明誰不肯、誰值得，最後以盼望見面作結。
 
 ---
 
