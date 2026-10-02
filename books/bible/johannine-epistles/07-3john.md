@@ -135,29 +135,41 @@
 
 ## 歷代注疏 (Historical Commentary)
 
-### 教父時期
+> **體例說明**：本節引文均附英文原文，已與原著或逐字講道稿逐字核對；中譯為編者所譯。
+> 約翰三書沒有留下教父的逐節注釋；加爾文的《大公書信注釋》沒有注約翰二、三書，本節不引。
+> 完整研讀見《約翰三書研讀》（`books/bible/john3/`）。
 
-**耶柔米 (Jerome, 347-420)**:
+### 亨利《聖經全註》· 雷諾茲續 (John Reynolds)
 
-> 「丟特腓是教會中那些愛權力之人的鑑戒。他們不是服事弟兄，而是轄制弟兄。約翰雖是使徒，丟特腓竟不接納他——這是何等的驕傲！」
+> "It is an ill unbeseeming character of Christ's ministers to love pre-eminence, to affect presidency in the church of God."
+>
+> 「基督的僕人若愛居首位、在神的教會中追求主控，那是一種不相稱的惡劣品格。」
+>
+> — John Reynolds of Shrewsbury, in Matthew Henry, *Commentary on the Whole Bible*, vol. VI, on 3 John（CCEL, mhc6）
 
-### 改革宗時期
+### 普盧默 (Alfred Plummer)
 
-**約翰·加爾文 (John Calvin, 1509-1564)**:
+> "The brethren and the strangers are not two classes, but one and the same."
+>
+> 「弟兄與陌生人並不是兩類人，而是同一群人。」
+>
+> — Alfred Plummer, *The Epistles of S. John* (Cambridge Bible for Schools, 1887), on 3 John v. 5
 
-> 「約翰說接待傳道人就是『與他們一同為真理作工』。這提醒我們：不是每個人都被呼召去傳道，但每個人都可以支持傳道的人，這樣就有份於他們的事工。」
+### 韋斯科特 (B. F. Westcott)
 
-### 當代釋經
+> "There is nothing to indicate that Diotrephes held false opinions : his ambition only is blamed."
+>
+> 「沒有任何跡象顯示丟特腓持守錯誤的見解；被責備的只是他的野心。」
+>
+> — B. F. Westcott, *The Epistles of St John* (3rd ed., 1892), on 3 John v. 9
 
-**約翰·麥克阿瑟 (John MacArthur)**:
+### 麥克阿瑟 (John MacArthur)
 
-> 「丟特腓的問題不是缺乏恩賜，而是驕傲。他喜歡領首，不願順服使徒的權柄。這種人在今天的教會依然存在——把自己的地位看得比真理更重要。」
-> — *MacArthur Study Bible*
-
-**司托德 (John Stott)**:
-
-> 「該猶和丟特腓形成鮮明對比：一個愛弟兄、接待客旅；一個愛權力、排斥異己。我們要選擇效法誰？」
-> — *The Letters of John*
+> "The conflict is not doctrinal; it's not theological; it's not a spiritual issue; it is a personal issue of loving oneself."
+>
+> 「這場衝突不是教義上的，不是神學上的，不是屬靈的議題，而是愛自己的個人問題。」
+>
+> — John MacArthur, "Friends and Foes in the Church, Part 2", sermon 64-2（gty.org）
 
 ---
 
@@ -231,4 +243,4 @@
 
 ---
 
-*本章研讀整合三方資源：黃長老查經教導、John MacArthur (gty.org)、John Stott*
+*本章歷代注疏引文均經逐字核對（來源見 `books/bible/john3/.sources/`）；本章沒有黃長老的第一手教導。*
