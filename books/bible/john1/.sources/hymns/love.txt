@@ -1,0 +1,83 @@
+For other versions of this work, see Love Divine, All Loves Excelling.
+
+.mw-parser-output .wst-header .wst-header-mainblock{border:1px solid var(--border-color-success,#ACA);background-color:var(--background-color-success-subtle,#E6F2E6);color:var(--color-base,#202122)}.mw-parser-output .wst-header .wst-header-notes{border-bottom:1px solid var(--border-color-notice,#A0A0A0);background-color:var(--background-color-neutral,#FAFAFF);color:var(--color-base,#202122)}.mw-parser-output .wst-header .contributor-text{font-style:italic}.mw-parser-output .wst-header #header-title-text,.mw-parser-output .wst-header .wst-header-title-text{font-weight:bold}.mw-parser-output .wst-header #ws-data{display:none}.mw-parser-output .wst-header #ws-data.ws-data-show{display:block}
+.mw-parser-output .wst-header-mainblock{margin:4px auto 4px auto;padding:0 3px;display:flex;align-items:center}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{display:flex;flex:1 4 100%;min-width:min-content;align-items:center;font-size:.9em}.mw-parser-output .wst-header-nav-empty{visibility:hidden}.mw-parser-output .wst-header-back{justify-content:flex-start;text-align:left}.mw-parser-output .wst-header-central-cell{flex:4 1 100%;max-width:max-content;text-align:center}.mw-parser-output .wst-header-forward{justify-content:flex-end;text-align:right}@media(max-width:768px){.mw-parser-output .wst-header-mainblock{flex-wrap:wrap}.mw-parser-output .wst-header-central-cell{flex:0 0 100%;order:-2;width:auto}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{width:auto}}.mw-parser-output .wst-header-notes{display:inline-block;border-collapse:collapse;border-spacing:0;empty-cells:hide;font-size:.9em;line-height:1.4;margin:0 auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}←
+Hail, Thou Once Despised Jesus
+
+The Army and Navy Hymnaledited by Henry Augustine SmithLove Divine, All Love Excelling by Charles Wesley
+.mw-parser-output .wst-normal-body{font-style:normal}.mw-parser-output .wst-normal-body i,.mw-parser-output .wst-normal-body var,.mw-parser-output .wst-normal-body em,.mw-parser-output .wst-normal-body cite,.mw-parser-output .wst-normal-body dfn{font-style:italic}.mw-parser-output .wst-italic-body .wst-normal-body{font-style:normal}(Beecher by John Zundel)
+
+Tell Me the Old, Old Story
+→
+
+1738356The Army and Navy Hymnal — Love Divine, All Love ExcellingHenry Augustine SmithCharles Wesley
+(Beecher by John Zundel)
+
+.mw-parser-output .prp-pages-output .ws-poem-versenum:after,.mw-parser-output .prp-pages-output .verse_num:after{content:".";padding-right:0.25em}.mw-parser-output .prp-pages-output .ps2-character{font-variant:small-caps;text-align:left}​.mw-parser-output .wst-center{text-align:center;margin:0 auto}.mw-parser-output .wst-center.wst-center-nomargin>p{margin-top:0;margin-bottom:0}
+Audio playback is not supported in your browser. You can download the audio file.
+
+.mw-parser-output .wst-block-center{display:block;margin:0 auto;padding:0;position:relative;max-width:100%;height:auto;text-align:initial}.mw-parser-output .wst-block-center-title{display:inline-block;width:100%;text-align:center}
+.mw-parser-output .wst_list_continuation>li:first-child{list-style-type:none;list-style-image:none}.mw-parser-output .wst_ulist.__idx_hi1,.mw-parser-output .wst_ulist.__plain{line-height:inherit;list-style:none;list-style-image:none;margin-left:0}.mw-parser-output .wst_ulist.__nomarker{line-height:inherit;list-style:none;list-style-image:none}.mw-parser-output .__fixleft{margin-left:1.6em}.mw-parser-output .wst_olist.__idx_hi1 ol,.mw-parser-output .wst_olist.__plain ol,.mw-parser-output .wst_ulist.__idx_hi1 ul,.mw-parser-output .wst_ulist.__plain ul{margin-top:0;margin-bottom:0}.mw-parser-output .wst_olist.__plain li,.mw-parser-output .wst_ulist.__plain li{margin-bottom:0}.mw-parser-output .wst_olist.__idx_hi1 li,.mw-parser-output .wst_ulist.__idx_hi1 li{margin-left:1em;text-indent:-1em;margin-bottom:0}.mw-parser-output .wst_list_continuation.__idx_hi1>li:first-child{list-style-type:none;list-style-image:none;margin-left:1em;text-indent:0}.mw-parser-output .wst_olist.__inside,.mw-parser-output .wst_ulist.__inside{list-style-position:inside;margin-left:0}Love Divine, all love excelling,
+
+Joy of heaven, to earth come down;
+
+Fix in us thy humble dwelling,
+
+All thy faithful mercies crown:
+
+Jesus, thou art all compassion,
+
+Pure, unbounded love thou art;
+
+Visit us with thy salvation,
+
+Enter every trembling heart.
+Breathe, O breathe thy loving Spirit
+
+Into every troubled breast;
+
+Let us all in thee inherit,
+
+Let us find the promised rest;
+
+Take away the love of sinning;
+
+Alpha and Omega be;
+
+End of faith, as its beginning,
+
+Set our hearts at liberty.
+Come, Almighty to deliver,
+
+Let us all thy life receive;
+
+Suddenly return, and never,
+
+Never more thy temples leave.
+
+Thee we would be always blessing,
+
+Serve thee as thy hosts above,
+
+Pray, and praise thee without ceasing,
+
+Glory in thy perfect love.
+Finish, then, thy new creation;
+
+Pure and spotless let us be:
+
+Let us see thy great salvation
+
+Perfectly restored in thee;
+
+Changed from glory into glory
+
+Till in heaven we take our place,
+
+Till we cast our crown before thee,
+
+Lost in wonder, love and praise.
+
+Amen
+
+

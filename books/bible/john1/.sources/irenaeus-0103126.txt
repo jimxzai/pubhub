@@ -1,0 +1,69 @@
+
+
+
+
+CHURCH FATHERS: Against Heresies, I.26 (St. Irenaeus)
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+//b||1342177279>>=1)c+=c;return a};q!=p&&null!=q&&g(h,n,{configurable:!0,writable:!0,value:q});var t=this;function u(b,c){var a=b.split("."),d=t;a[0]in d||!d.execScript||d.execScript("var "+a[0]);for(var e;a.length&&(e=a.shift());)a.length||void 0===c?d[e]?d=d[e]:d=d[e]={}:d[e]=c};function v(b){var c=b.length;if(0=c.offsetWidth&&0>=c.offsetHeight)a=!1;else{d=c.getBoundingClientRect();var f=document.body;a=d.top+("pageYOffset"in window?window.pageYOffset:(document.documentElement||f.parentNode||f).scrollTop);d=d.left+("pageXOffset"in window?window.pageXOffset:(document.documentElement||f.parentNode||f).scrollLeft);f=a.toString()+","+d;b.b.hasOwnProperty(f)?a=!1:(b.b[f]=!0,a=a=a.length+e.length&&(a+=e)}b.i&&(e="&rd="+encodeURIComponent(JSON.stringify(B())),131072>=a.length+e.length&&(a+=e),c=!0);C=a;if(c){d=b.h;b=b.j;var f;if(window.XMLHttpRequest)f=new XMLHttpRequest;else if(window.ActiveXObject)try{f=new ActiveXObject("Msxml2.XMLHTTP")}catch(r){try{f=new ActiveXObject("Microsoft.XMLHTTP")}catch(D){}}f&&(f.open("POST",d+(-1==d.indexOf("?")?"?":"&")+"url="+encodeURIComponent(b)),f.setRequestHeader("Content-Type","application/x-www-form-urlencoded"),f.send(a))}}}function B(){var b={},c;c=document.getElementsByTagName("IMG");if(!c.length)return{};var a=c[0];if(!("naturalWidth"in a&&"naturalHeight"in a))return{};for(var d=0;a=c[d];++d){var e=a.getAttribute("data-pagespeed-url-hash");e&&(!(e in b)&&0=b[e].o&&a.height>=b[e].m)&&(b[e]={rw:a.width,rh:a.height,ow:a.naturalWidth,oh:a.naturalHeight})}return b}var C="";u("pagespeed.CriticalImages.getBeaconData",function(){return C});u("pagespeed.CriticalImages.Run",function(b,c,a,d,e,f){var r=new y(b,c,a,e,f);x=r;d&&w(function(){window.setTimeout(function(){A(r)},0)})});})();pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://www.newadvent.org/fathers/0103126.htm','8Xxa2XQLv9',true,false,'qKE4s9YuTmA');
+//]]> 
+  
+  
+  
+  
+ 
+  
+  Search:
+  
+ 
+  
+  Submit Search
+  
+     Home   Encyclopedia   Summa   Fathers   Bible   Library      A  B  C  D  E  F  G  H  I  J  K  L  M  N  O  P  Q  R  S  T  U  V  W  X  Y  Z  
+ 
+  SEARCH Encyclopedia Summa Fathers Bible Library  -->
+
+Home > Fathers of the Church > Against Heresies (St. Irenaeus) > Book I, Chapter 26
+
+
+
+
+
+
+Against Heresies (Book I, Chapter 26)
+
+Please help support the mission of New Advent and get the full contents of this website as an instant download. Includes the Catholic Encyclopedia, Church Fathers, Summa, Bible and more — all for only $19.99...
+
+
+
+Doctrines of Cerinthus, the Ebionites, and Nicolaitanes.
+
+1. Cerinthus, again, a man who was educated  in the wisdom of the Egyptians, taught that the world was not made by the primary God, but by a certain Power far separated from him, and at a distance from that Principality who is supreme  over the universe, and ignorant of him who is above all. He represented Jesus as having not been born of a virgin, but as being the son of Joseph and Mary according to the ordinary course of human generation, while he nevertheless was more righteous, prudent, and wise than other men. Moreover, after his baptism, Christ descended upon him in the form of a dove from the Supreme Ruler, and that then he proclaimed the unknown Father, and performed miracles. But at last Christ departed from Jesus, and that then Jesus suffered and rose again, while Christ remained impassible, inasmuch as he was a spiritual being.
+
+2. Those who are called Ebionites agree that the world was made by God; but their opinions with respect to the Lord are similar to those of Cerinthus and Carpocrates. They use the Gospel according to Matthew only, and repudiate the Apostle Paul, maintaining that he was an apostate from the law. As to the prophetical writings, they endeavour to expound them in a somewhat singular manner: they practise circumcision, persevere in the observance of those customs which are enjoined by the law, and are so Judaic in their style of life, that they even adore Jerusalem as if it were the house of God.
+
+
+
+3. The Nicolaitanes are the followers of that Nicolas who was one of the seven first ordained to the diaconate by the apostles.  They lead lives of unrestrained indulgence. The character of these men is very plainly pointed out in the Apocalypse of John, [when they are represented] as teaching that it is a matter of indifference to practise adultery, and to eat things sacrificed to idols. Wherefore the Word has also spoken of them thus: But this you have, that you hate the deeds of the Nicolaitanes, which I also hate. Revelation 2:6 
+
+
+
+ About this page Source. Translated by Alexander Roberts and William Rambaut. From Ante-Nicene Fathers, Vol. 1. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe. (Buffalo, NY: Christian Literature Publishing Co., 1885.) Revised and edited for New Advent by Kevin Knight. <https://www.newadvent.org/fathers/0103126.htm>. Contact information. The editor of New Advent is Kevin Knight. My email address is feedback732 at newadvent.org. (To help fight spam, this address might change occasionally.) Regrettably, I can't reply to every letter, but I greatly appreciate your feedback — especially notifications about typographical errors and inappropriate ads. 
+
+
+
+Copyright © 2026 by New Advent LLC. Dedicated to the Immaculate Heart of Mary.CONTACT US  | ADVERTISE WITH NEW ADVENT    
+
+
+

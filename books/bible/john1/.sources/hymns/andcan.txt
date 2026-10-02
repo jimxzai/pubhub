@@ -1,0 +1,113 @@
+.mw-parser-output .wst-header .wst-header-mainblock{border:1px solid var(--border-color-success,#ACA);background-color:var(--background-color-success-subtle,#E6F2E6);color:var(--color-base,#202122)}.mw-parser-output .wst-header .wst-header-notes{border-bottom:1px solid var(--border-color-notice,#A0A0A0);background-color:var(--background-color-neutral,#FAFAFF);color:var(--color-base,#202122)}.mw-parser-output .wst-header .contributor-text{font-style:italic}.mw-parser-output .wst-header #header-title-text,.mw-parser-output .wst-header .wst-header-title-text{font-weight:bold}.mw-parser-output .wst-header #ws-data{display:none}.mw-parser-output .wst-header #ws-data.ws-data-show{display:block}
+.mw-parser-output .wst-header-mainblock{margin:4px auto 4px auto;padding:0 3px;display:flex;align-items:center}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{display:flex;flex:1 4 100%;min-width:min-content;align-items:center;font-size:.9em}.mw-parser-output .wst-header-nav-empty{visibility:hidden}.mw-parser-output .wst-header-back{justify-content:flex-start;text-align:left}.mw-parser-output .wst-header-central-cell{flex:4 1 100%;max-width:max-content;text-align:center}.mw-parser-output .wst-header-forward{justify-content:flex-end;text-align:right}@media(max-width:768px){.mw-parser-output .wst-header-mainblock{flex-wrap:wrap}.mw-parser-output .wst-header-central-cell{flex:0 0 100%;order:-2;width:auto}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{width:auto}}.mw-parser-output .wst-header-notes{display:inline-block;border-collapse:collapse;border-spacing:0;empty-cells:hide;font-size:.9em;line-height:1.4;margin:0 auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}←
+
+And Can It Be That I Should Gain? (1739)by Charles Wesley
+
+→
+
+.mw-parser-output .plainSister{display:block;font-size:93%;line-height:normal;list-style-type:none;list-style-image:none;list-style-position:outside;border:1px solid var(--border-color-interactive--hover,#AAA);float:right;clear:right;margin:0.5ex 0 0.5ex 0.5ex;padding:0;background:var(--background-color-base,#FFFFFF);color:var(--color-base,#202122)}.mw-parser-output .sisicon,.mw-parser-output .dabicon{padding-right:1ex}sister projects: Wikipedia article, Wikidata item
+11579And Can It Be That I Should Gain?Charles Wesley
+
+And can it be that I should gain
+
+An interest in the Savior's blood!
+
+Died he for me, who caused his pain!
+
+For me? who him to death pursued?
+
+Amazing love! How can it be
+
+That thou, my God, shouldst die for me?
+
+Amazing love! How can it be
+
+That thou, my God, shouldst die for me?
+
+'Tis mystery all: th' Immortal dies!
+
+Who can explore his strange design?
+
+In vain the firstborn seraph tries
+
+To sound the depths of love divine.
+
+'Tis mercy all! Let earth adore;
+
+Let angel minds inquire no more.
+
+'Tis mercy all! Let earth adore;
+
+Let angel minds inquire no more.
+
+He left his Father's throne above
+
+So free, so infinite his grace!
+
+Emptied himself of all but love,
+
+And bled for Adam's helpless race.
+
+'Tis mercy all, immense and free,
+
+For O my God, it found out me!
+
+'Tis mercy all, immense and free,
+
+For O my God, it found out me!
+
+Long my imprisoned spirit lay,
+
+Fast bound in sin and nature's night;
+
+Thine eye diffused a quickening ray;
+
+I woke, the dungeon flamed with light;
+
+My chains fell off, my heart was free,
+
+I rose, went forth, and followed thee.
+
+My chains fell off, my heart was free,
+
+I rose, went forth, and followed thee.
+
+Still the small inward voice I hear,
+
+That whispers all my sins forgiven;
+
+Still the atoning blood is near,
+
+That quenched the wrath of hostile Heaven.
+
+I feel the life His wounds impart;
+
+I feel the Savior in my heart.
+
+I feel the life His wounds impart;
+
+I feel the Savior in my heart.
+
+No condemnation now I dread;
+
+Jesus, and all in him, is mine;
+
+Alive in him, my living Head,
+
+And clothed in righteousness divine,
+
+Bold I approach th' eternal throne,
+
+And claim the crown, through Christ my own.
+
+Bold I approach th' eternal throne,
+
+And claim the crown, through Christ my own.
+
+.mw-parser-output .licenseContainer{box-sizing:border-box;margin-top:1em;margin-bottom:0.25em;clear:both;width:auto;page-break-before:always;break-before:page}.mw-parser-output .licenseContainer>div:first-child{display:table;border:2px solid var(--border-color-subtle,#88A);border-collapse:collapse;border-spacing:0 0;empty-cells:hide;box-sizing:border-box;margin:0 auto 0 auto;width:100%;background-color:var(--background-color-neutral-subtle,#F7F8FF);color:var(--color-base,#202122)}.mw-parser-output .licenseContainer>div:first-child>div:first-child{display:table-row-group}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child{display:table-row}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div{display:table-cell;padding:5px;vertical-align:middle;width:auto}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:first-child{text-align:left}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2){text-align:center}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div{width:100%}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:first-child{display:block;margin:0 auto 0 auto;text-align:left}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2){display:table;border-top:1px solid #88A}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2)>div{display:table-cell;vertical-align:middle}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2)>div:first-child{text-align:center;padding:5px 0;width:40px}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2)>div:nth-child(2){text-align:left;padding:5px;font-size:92%}.mw-parser-output .licenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(3){text-align:right}.mw-parser-output .licensetpl{display:none}.mw-parser-output .licenseContainer.wst-collapsible-box{clear:both;margin:0.25em 0 0.25em 0;font-size:95%;background-color:var(--background-color-progressive-subtle,#f7f8ff);color:var(--color-base,#202122);border:2px solid var(--border-color-progressive,#88A);text-align:left;line-height:1.6}.mw-parser-output .wst-license-container-title{display:inline-block;padding:0.5em}.mw-parser-output .wst-license-container-content{background-color:transparent;color:inherit;margin:0;padding:3px;text-align:left}.mw-parser-output .licenseContainer.warningLicenseContainer>div:first-child{border-color:#b22222;background-color:#ffeeee;color:#202122}.mw-parser-output .licenseContainer.warningLicenseContainer>div:first-child>div:first-child>div:first-child>div:nth-child(2)>div:nth-child(2){border-color:#b22222;color:#202122}
+
+This work was published before January 1, 1931, and is in the public domain worldwide because the author died at least 100 years ago.
+
+Public domainPublic domainfalsefalse
+
+

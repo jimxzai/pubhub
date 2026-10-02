@@ -1,0 +1,70 @@
+.mw-parser-output .wst-header .wst-header-mainblock{border:1px solid var(--border-color-success,#ACA);background-color:var(--background-color-success-subtle,#E6F2E6);color:var(--color-base,#202122)}.mw-parser-output .wst-header .wst-header-notes{border-bottom:1px solid var(--border-color-notice,#A0A0A0);background-color:var(--background-color-neutral,#FAFAFF);color:var(--color-base,#202122)}.mw-parser-output .wst-header .contributor-text{font-style:italic}.mw-parser-output .wst-header #header-title-text,.mw-parser-output .wst-header .wst-header-title-text{font-weight:bold}.mw-parser-output .wst-header #ws-data{display:none}.mw-parser-output .wst-header #ws-data.ws-data-show{display:block}
+.mw-parser-output .wst-header-mainblock{margin:4px auto 4px auto;padding:0 3px;display:flex;align-items:center}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{display:flex;flex:1 4 100%;min-width:min-content;align-items:center;font-size:.9em}.mw-parser-output .wst-header-nav-empty{visibility:hidden}.mw-parser-output .wst-header-back{justify-content:flex-start;text-align:left}.mw-parser-output .wst-header-central-cell{flex:4 1 100%;max-width:max-content;text-align:center}.mw-parser-output .wst-header-forward{justify-content:flex-end;text-align:right}@media(max-width:768px){.mw-parser-output .wst-header-mainblock{flex-wrap:wrap}.mw-parser-output .wst-header-central-cell{flex:0 0 100%;order:-2;width:auto}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{width:auto}}.mw-parser-output .wst-header-notes{display:inline-block;border-collapse:collapse;border-spacing:0;empty-cells:hide;font-size:.9em;line-height:1.4;margin:0 auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}←
+When We Walk with the Lord
+
+The Army and Navy Hymnal (1873)edited by Henry Augustine SmithBlessed Assurance, Jesus Is Mine by Fanny J. Crosby
+.mw-parser-output .wst-normal-body{font-style:normal}.mw-parser-output .wst-normal-body i,.mw-parser-output .wst-normal-body var,.mw-parser-output .wst-normal-body em,.mw-parser-output .wst-normal-body cite,.mw-parser-output .wst-normal-body dfn{font-style:italic}.mw-parser-output .wst-italic-body .wst-normal-body{font-style:normal}(Blessed Assurance by Phoebe Palmer Knapp)
+
+I Know Not Why God's Wondrous Grace
+→
+
+.mw-parser-output .plainSister{display:block;font-size:93%;line-height:normal;list-style-type:none;list-style-image:none;list-style-position:outside;border:1px solid var(--border-color-interactive--hover,#AAA);float:right;clear:right;margin:0.5ex 0 0.5ex 0.5ex;padding:0;background:var(--background-color-base,#FFFFFF);color:var(--color-base,#202122)}.mw-parser-output .sisicon,.mw-parser-output .dabicon{padding-right:1ex}sister projects: Wikipedia article, Wikidata item
+1908184The Army and Navy Hymnal — Blessed Assurance, Jesus Is MineHenry Augustine SmithFanny J. Crosby
+(Blessed Assurance by Phoebe Palmer Knapp)
+
+Layout 2
+
+.mw-parser-output .prp-pages-output .ws-poem-versenum:after,.mw-parser-output .prp-pages-output .verse_num:after{content:".";padding-right:0.25em}.mw-parser-output .prp-pages-output .ps2-character{font-variant:small-caps;text-align:left}​
+
+212
+
+Blessed Assurance, Jesus Is Mine
+
+(BLESSED ASSURANCE. 9,10,9,9. With Refrain)
+
+Fanny J. Crosby, 1820-1915
+
+Mrs. Joseph F. Knapp, 1873
+
+.mw-parser-output .pmbox{margin:4px 0;border-collapse:collapse;border:1px solid #a2a9b1;background-color:#f8f9fa;box-sizing:border-box}.mw-parser-output .pmbox.mbox-small{font-size:88%;line-height:1.25em}.mw-parser-output .pmbox-speedy{border:2px solid #b32424;background-color:#fee7e6}.mw-parser-output .pmbox-delete{border:2px solid #b32424}.mw-parser-output .pmbox-content{border:1px solid #f28500}.mw-parser-output .pmbox-style{border:1px solid #fc3}.mw-parser-output .pmbox-move{border:1px solid #9932cc}.mw-parser-output .pmbox-protection{border:2px solid #a2a9b1}.mw-parser-output .pmbox .mbox-text{border:none;padding:0.25em 0.9em;width:100%}.mw-parser-output .pmbox .mbox-image{border:none;padding:2px 0 2px 0.9em;text-align:center}.mw-parser-output .pmbox .mbox-imageright{border:none;padding:2px 0.9em 2px 0;text-align:center}.mw-parser-output .pmbox .mbox-image img,.mw-parser-output .pmbox .mbox-imageright img{max-width:none}.mw-parser-output .pmbox .mbox-empty-cell{border:none;padding:0;width:1px}.mw-parser-output .pmbox .mbox-invalid-type{text-align:center}@media(min-width:720px){.mw-parser-output .pmbox{margin:4px 10%}.mw-parser-output .pmbox.mbox-small{clear:right;float:right;margin:4px 0 4px 1em;width:238px}}
+A musical score should appear at this position in the text.
+See Help:Sheet music for formatting instructions
+
+.mw-parser-output .wst-block-center{display:block;margin:0 auto;padding:0;position:relative;max-width:100%;height:auto;text-align:initial}.mw-parser-output .wst-block-center-title{display:inline-block;width:100%;text-align:center}
+.mw-parser-output .wst_list_continuation>li:first-child{list-style-type:none;list-style-image:none}.mw-parser-output .wst_ulist.__idx_hi1,.mw-parser-output .wst_ulist.__plain{line-height:inherit;list-style:none;list-style-image:none;margin-left:0}.mw-parser-output .wst_ulist.__nomarker{line-height:inherit;list-style:none;list-style-image:none}.mw-parser-output .__fixleft{margin-left:1.6em}.mw-parser-output .wst_olist.__idx_hi1 ol,.mw-parser-output .wst_olist.__plain ol,.mw-parser-output .wst_ulist.__idx_hi1 ul,.mw-parser-output .wst_ulist.__plain ul{margin-top:0;margin-bottom:0}.mw-parser-output .wst_olist.__plain li,.mw-parser-output .wst_ulist.__plain li{margin-bottom:0}.mw-parser-output .wst_olist.__idx_hi1 li,.mw-parser-output .wst_ulist.__idx_hi1 li{margin-left:1em;text-indent:-1em;margin-bottom:0}.mw-parser-output .wst_list_continuation.__idx_hi1>li:first-child{list-style-type:none;list-style-image:none;margin-left:1em;text-indent:0}.mw-parser-output .wst_olist.__inside,.mw-parser-output .wst_ulist.__inside{list-style-position:inside;margin-left:0}Blessed assurance, Jesus is mine! 
+
+O what a foretaste of glory divine!
+
+Heir of salvation, purchased of God,
+
+Born of his Spirit, washed in his blood.
+
+Refrain
+
+This is my story, this is my song, 
+
+Praising my Saviour all the day long;
+
+This is my story, this is my song, 
+
+Praising my Saviour all the day long. (Last verse:Amen.)
+Perfect submission, perfect delight, 
+
+Visions of rapture now burst on my sight. 
+
+Angels descending, bring from above 
+
+Echoes of mercy, whispers of love. 
+
+Refrain
+Perfect submission, all is at rest, 
+
+I in my Saviour am happy and blest, 
+
+Watching and waiting, looking above, 
+
+Filled with his goodness, lost in his love.
+
+Refrain
+
+

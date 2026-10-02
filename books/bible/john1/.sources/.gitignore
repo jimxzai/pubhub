@@ -1,0 +1,9 @@
+# Raw fetches: copyrighted transcripts/HTML and caches, re-fetchable (see 99-appendix-references.md)
+gty/
+sermon-cache/
+*.htm
+*.html
+*.json
+gty-sitemap.xml
+calvin-calcom45.txt
+morgan-living-messages.txt
