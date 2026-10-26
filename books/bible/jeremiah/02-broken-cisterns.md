@@ -306,7 +306,7 @@ publisher: 三書精讀出版系統
 
 ### 教父時期
 
-早期教會常引 2:13，但各人的用法不同。賈斯丁在《與特里弗的對話》第114章把「活水」放在基督身上，說那「好磐石」使活水為愛父的人湧流；同一章他也用 2:13 責備猶太人，那是二世紀基督徒與猶太人辯論的語境，耶利米原是對自己的同胞說這話，本書則把它讀成對一切離開活水的人說的：
+早期教會常引 2:13，但各人的用法不同。游斯丁在《與特里弗的對話》第114章把「活水」放在基督身上，說那「好磐石」使活水為愛父的人湧流；同一章他也用 2:13 責備猶太人，那是二世紀基督徒與猶太人辯論的語境，耶利米原是對自己的同胞說這話，本書則把它讀成對一切離開活水的人說的：
 
 > "the good Rock, which causes living water to burst forth for the hearts of those who by Him have loved the Father of all, and which gives those who are willing to drink of the water of life."
 > — Justin Martyr, *Dialogue with Trypho*, ch. 114 (ANF vol. 1, newadvent.org)
@@ -359,9 +359,9 @@ publisher: 三書精讀出版系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-麥克阿瑟在一篇講「屬靈的背離」的講道裏讀 2:13，把眼淚與泉源連在一起：
+麥克阿瑟在一篇講「屬靈的背離」的講道裏讀 2:13，聽出的重點是「棄絕」這個動作本身：
 
-> "in a very real sense, the tears of Jeremiah were the tears of God over defecting Israel."
+> "The note that you want to see there is, “They have forsaken Me.” Again, the sadness of spiritual defection."
 > — John MacArthur, "Divine Sorrow over Spiritual Defection" (sermon 90-9)
 
 論 2:13 的比喻：
@@ -459,4 +459,4 @@ publisher: 三書精讀出版系統
 
 ---
 
-*本章研讀整合四方資源：CUV/NASB 經文核對、改革宗與清教徒注疏（加爾文、亨利）、摩根之信息、麥克阿瑟講道、老弟兄查經法之提問帶領。*
+*本章研讀整合四方資源：CUV/NASB 經文核對、教父（游斯丁、屈梭多模、居普良）、改革宗與清教徒注疏（加爾文、亨利）、摩根之信息、麥克阿瑟講道、老弟兄查經法之提問帶領。*

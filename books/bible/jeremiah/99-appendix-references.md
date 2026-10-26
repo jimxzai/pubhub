@@ -11,7 +11,7 @@ publisher: 三書精讀出版系統
 
 各章「歷代注疏」一節的體例說明指向本附錄。本附錄回答三件事：每條引文取自哪裏、如何核對、哪些地方只做到這一步為止。下列各表的篇次與條數由 `scripts/gen-jeremiah-appendices.py` 直接從各篇原文讀出，不是手寫的記憶；`scripts/check-citation-ledger.py` 可再把它與各篇對照。
 
-全書帶引號並附「— 作者，書名」出處行的逐字引文共 **249** 條（其中 246 條在〈歷代注疏〉一節，其餘在〈背景〉〈全經連線〉等處）。
+全書帶引號並附「— 作者，書名」出處行的逐字引文共 **251** 條（其中 248 條在〈歷代注疏〉一節，其餘在〈背景〉〈全經連線〉等處）。
 
 ---
 
@@ -43,7 +43,7 @@ publisher: 三書精讀出版系統
 | 第18篇 | 31:31-40 | 4 | John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 31:38-40 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 31:33 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 31:34 (CCEL calcom20) |
 | 第19篇 | 32:1-33:26 | 3 | John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 32:14 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 32:26-27 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 33:23-24 (CCEL calcom20) |
 | 第20篇 | 34:1-35:19 | 3 | John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 34:17 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 35:1-7 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 35:18-19 (CCEL calcom20) |
-| 第21篇 | 36:1-32 | 3 | John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 36:1-2 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 36:24 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 36:32 (CCEL calcom20) |
+| 第21篇 | 36:1-32 | 3 | John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 36:1-2 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 36:24 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 36:27-28 (CCEL calcom20) |
 | 第22篇 | 37:1-38:28 | 2 | John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 37:3-8 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 38:28 (CCEL calcom20) |
 | 第23篇 | 39:1-41:18 | 2 | John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 39:1-2 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 40:15-16 (CCEL calcom20) |
 | 第24篇 | 42:1-45:5 | 2 | John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 42:7-10 (CCEL calcom20)；John Calvin, Commentaries on the Book of the Prophet Jeremiah and the Lamentations, vol. 4, tr. John Owen, on Jer. 44:27 (CCEL calcom20) |
@@ -151,18 +151,19 @@ gty.org 沒有麥克阿瑟的耶利米書逐節講道（站點地圖上只有兩
 
 ## 五、教父（NPNF／ANF 公有領域英譯，取自 newadvent.org）
 
-來源檔：`sources/commentary/fathers/*.txt`（每檔含 AUTHOR／WORK／TRANSLATOR／SOURCE_URL 四行標頭；索引見 `sources/commentary/fathers/INDEX.md`）。本書引用 **36** 條，列如下。
+來源檔：`sources/commentary/fathers/*.txt`（每檔含 AUTHOR／WORK／TRANSLATOR／SOURCE_URL 四行標頭；索引見 `sources/commentary/fathers/INDEX.md`）。本書引用 **38** 條，列如下。
 
-教父引文共分布在 16 篇；第 1、11、12、15、20、22–27 篇查無可定位的教父文字，不立〈教父時期〉小節。以下各篇的逐字引文：
+教父引文共分布在 17 篇；第 11、12、15、20、22–27 篇查無可定位的教父文字，不立〈教父時期〉小節。以下各篇的逐字引文：
 
 | 篇 | 耶利米書 | 逐字引文（條） | 出處行（各條，本書實印） |
 |--------|----------------|----------------|------------------------------------------------------|
+| 第1篇 | 1:1-19 | 2 | John Chrysostom, Homilies on Romans, Homily 1 (NPNF 1, vol. 11, tr. Walker, Sheppard and Browne; newadvent.org/fathers/210201.htm)；Augustine, On Merit and the Forgiveness of Sins, and the Baptism of Infants, Book I, ch. 30 (NPNF 1, vol. 5; newadvent.org/fathers/15011.htm) |
 | 第2篇 | 2:1-3:5 | 3 | Justin Martyr, Dialogue with Trypho, ch. 114 (ANF vol. 1, newadvent.org)；John Chrysostom, Homilies on Romans, Homily 3 (NPNF 1, vol. 11, newadvent.org)；Cyprian of Carthage, Treatise 1 (On the Unity of the Church) (ANF vol. 5, newadvent.org) |
 | 第3篇 | 3:6-4:4 | 2 | John Chrysostom, Homilies on Matthew, Homily 67 (NPNF 1, vol. 10, newadvent.org)；Justin Martyr, Dialogue with Trypho, ch. 28 (ANF vol. 1, newadvent.org) |
 | 第4篇 | 4:5-6:30 | 1 | Cyprian of Carthage, Treatise 5 (An Address to Demetrianus) (ANF vol. 5, newadvent.org) |
 | 第5篇 | 7:1-8:22 | 2 | Cyprian of Carthage, Treatise 11 (Exhortation to Martyrdom, Addressed to Fortunatus), section 3 (ANF vol. 5, newadvent.org)；John Chrysostom, Homilies on Matthew, Homily 67, section 4 (NPNF1-10, newadvent.org) |
 | 第6篇 | 9:1-10:25 | 3 | John Chrysostom, Homilies on Romans, Homily 8 (NPNF 1, vol. 11, tr. Walker, Sheppard and Browne; newadvent.org/fathers/210208.htm)；Irenaeus, Against Heresies, Book III, Chapter 6 (ANF vol. 1, tr. Roberts and Rambaut; newadvent.org/fathers/0103306.htm)；Augustine, On Merit and the Forgiveness of Sins, and the Baptism of Infants, Book II, ch. 7 (NPNF 1, vol. 5; newadvent.org/fathers/15012.htm) |
-| 第7篇 | 11:1-13:27 | 3 | Justin Martyr, Dialogue with Trypho, ch. 72 (ANF vol. 1; newadvent.org/fathers/01286.htm)；Tertullian, An Answer to the Jews, ch. 10 (ANF vol. 3; newadvent.org/fathers/0308.htm)；John Chrysostom, Homilies on Matthew, Homily 5 (NPNF 1, vol. 10, tr. Prevost and Riddle; newadvent.org/fathers/200105.htm) |
+| 第7篇 | 11:1-13:27 | 3 | Justin Martyr, Dialogue with Trypho, ch. 72 (ANF vol. 1; newadvent.org/fathers/01286.htm)；Tertullian, An Answer to the Jews, ch. 10 (ANF vol. 3; newadvent.org/fathers/0308.htm)；Jerome, Letter 7 (To Chromatius, Jovinus and Eusebius), §3 (NPNF 2, vol. 6, tr. Fremantle, Lewis and Martley; newadvent.org/fathers/3001007.htm) |
 | 第8篇 | 14:1-15:21 | 1 | John Chrysostom, Homilies on Matthew, Homily 5, §7 (NPNF 1, vol. 10, newadvent.org) |
 | 第9篇 | 16:1-17:27 | 3 | Jerome, Letter 22 (To Eustochium), §21 (NPNF 2, vol. 6, newadvent.org)；Augustine, On Grace and Free Will, ch. 6 (NPNF 1, vol. 5, newadvent.org)；Irenaeus, Against Heresies, Book III, ch. 19 (ANF vol. 1, newadvent.org) |
 | 第10篇 | 18:1-19:15 | 2 | John Chrysostom, Homilies on Matthew, Homily 64 (on Matt. 19:27), NPNF 1/10 (newadvent.org/fathers/200164.htm)；Tertullian, Against Marcion, Book II, ch. 24, tr. Peter Holmes, ANF 3 (newadvent.org/fathers/031202.htm) |
@@ -178,9 +179,9 @@ gty.org 沒有麥克阿瑟的耶利米書逐節講道（站點地圖上只有兩
 
 ## 六、機器核對現況（誠實記錄）
 
-- **注疏引文逐字核對**（`verify-citations.py`，對合併語料 `sources/commentary/corpus-all.txt`＝亨利＋加爾文＋摩根＋全部教父檔＋全部 gty 檔）：逐字吻合 245、OCR 斷詞吻合 5、DRIFT 0、MISS 0。此項只證明引文是來源語料的連續子字串，**不證明歸屬正確**；歸屬另由下列兩項與各章撰寫時的逐檔核對負責。
+- **注疏引文逐字核對**（`verify-citations.py`，對合併語料 `sources/commentary/corpus-all.txt`＝亨利＋加爾文＋摩根＋全部教父檔＋全部 gty 檔）：逐字吻合 247、OCR 斷詞吻合 5、DRIFT 0、MISS 0。此項只證明引文是來源語料的連續子字串，**不證明歸屬正確**；歸屬另由下列兩項與各章撰寫時的逐檔核對負責。
 - **麥克阿瑟引文對各自講章核對**（`verify-sermon-quotes.py`，每條只對它自己出處行的講章編號）：核對 42 條吻合，不在自己講章內 0 條，無法解析 3 條。無法解析的條目是出處行寫成「article A102」「sermon TMU224」這類該腳本不認的格式，已另以對各自檔案的正規化子字串比對確認逐字吻合。
-- **行文中的經文引句**（`verify-prose-citations.py … --self 耶`，對 fhl 和合本）：檢查 910 個「引號＋出處」，MISS 0，unresolved 3。unresolved 是該腳本不能解析出處的條目，不是已核對的錯誤，也不是已核對無誤。本書這 3 條是第 3 篇的「希伯來 14:5」兩處（何西阿書的希伯來文節號；對應的和合本何 14:4 已另對 fhl 核對，與引句吻合）與「亨利接 3:19」（指亨利把加 4:6 的「阿爸！父！」接到耶 3:19，不是出處）。
+- **行文中的經文引句**（`verify-prose-citations.py … --self 耶`，對 fhl 和合本）：檢查 914 個「引號＋出處」，MISS 0，unresolved 3。unresolved 是該腳本不能解析出處的條目，不是已核對的錯誤，也不是已核對無誤。本書這 3 條是第 3 篇的「希伯來 14:5」兩處（何西阿書的希伯來文節號；對應的和合本何 14:4 已另對 fhl 核對，與引句吻合）與「亨利接 3:19」（指亨利把加 4:6 的「阿爸！父！」接到耶 3:19，不是出處）。
 - **行文引句對本篇經文區塊**（`check-prose-scripture-quotes.py`）：掃描 36 個檔，17 條不在該篇印出的經文內；這些全是引用耶利米書**其他章**的句子（標 NOT-IN-UNIT），已由上一項對全書和合本核對。
 - **標記檢查**（`lint-chapter-markup.py`）：41 個檔乾淨。
 - **和合本字形檢查**（`lint-scripture-text.py`）：29 項候選，全部是「做」字，須以第二來源核對，見「七、聖經版本與核對方式」。
@@ -242,7 +243,7 @@ gty.org 沒有麥克阿瑟的耶利米書逐節講道（站點地圖上只有兩
 
 - **老弟兄**：沒有講耶利米書的第一手教導（見〈前言〉第一項）；各篇〈老弟兄查經〉一節只用他的方法，不加引號歸話給他。
 - **麥克阿瑟**：沒有耶利米書逐節講道；第 15、23、27 篇無可查材料。
-- **教父**：第 1、11、12、15、20、22–27 篇查無可定位的教父文字；優西比烏、俄利根、耶柔米論但以理書等在 newadvent.org 上沒有可用的耶利米書段落；現代版權譯本一律不用。
+- **教父**：第 11、12、15、20、22–27 篇查無可定位的教父文字；優西比烏、俄利根、耶柔米論但以理書等在 newadvent.org 上沒有可用的耶利米書段落；現代版權譯本一律不用。
 - **摩根**：只有全書概觀，沒有逐章。摩根另一本《耶利米書研究》（1931）在美國尚未進入公有領域，未用。
 
 ---
@@ -255,7 +256,7 @@ gty.org 沒有麥克阿瑟的耶利米書逐節講道（站點地圖上只有兩
 
 ## 十、仍未完成
 
-1. **沒有人類審稿者。**全書的撰寫者與核對者都是 AI，各篇由同一套規格與腳本核對；沒有另一位讀者逐章通讀。已做過一輪獨立校對（10 位 AI 代理，不看既有報告、向原始來源重新取證，共修約 100 處），但校對者仍是 AI，不能代替人類讀者。
+1. **沒有人類審稿者。**全書的撰寫者與核對者都是 AI，各篇由同一套規格與腳本核對；沒有另一位讀者逐章通讀。已做過兩輪獨立校對（第一輪 10 位 AI 代理按章、第二輪 5 位按維度，不看既有報告、向原始來源重新取證，共修約 160 處），但校對者仍是 AI，不能代替人類讀者。
 2. **二十七篇尚未精簡。**各篇篇幅約 23–61 KB（含經文區塊）；經文區塊約佔三分之一至一半，其餘是行文。尚未做「同一個點全章只講一次」的精簡通讀。
 3. **耶 25:6 的「做／作」未定案**（見「七」）。
 4. **摩根的 p. 111 與 p. 123 是依 OCR 頁眉推定的**（頁眉被 OCR 打成「in」與「MESSAGEiOF」），實際頁碼可能差一頁；其餘頁碼取自清楚的頁眉。

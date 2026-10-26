@@ -226,7 +226,7 @@ publisher: 三書精讀出版系統
 
 ### 清教徒 (亨利 Matthew Henry)
 
-亨利為第 24 章寫的總旨：
+亨利為 24 章寫的總旨：
 
 > "that, though God's people share with others in the same calamity, yet it is not the same to them that it is to others, but is designed for their good and shall issue in their good; to them it is a correcting rod in the hand of a tender Father, while to others it is an avenging sword in the hand of a righteous Judge."
 > — Matthew Henry, *Commentary on the Whole Bible*, Jer. 24 (CCEL mhc4)
