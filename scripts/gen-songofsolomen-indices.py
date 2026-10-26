@@ -37,7 +37,7 @@ MAXCHAP = dict(john.MAXCHAP, **{"約翰福音": 21})
 _SHORT = "|".join(a for a in ALIAS if len(a) == 1)
 _LONG = "|".join(sorted((a for a in ALIAS if len(a) > 1), key=len, reverse=True))
 REF = re.compile(
-    rf"(?:(?:(?<![{john.CJK}A-Za-z0-9])|(?<=[與及和並見如參]))({_SHORT})|(?<![A-Za-z0-9])({_LONG}))"
+    rf"(?:(?:(?<![{john.CJK}A-Za-z0-9])|(?<=[與及和並見如參引]))({_SHORT})|(?<![A-Za-z0-9])({_LONG}))"
     rf"\s*(\d+)(?::{john.VERSES})?(?=\s*章?)"
 )
 
@@ -66,7 +66,7 @@ SUBJECTS = [
     ("園", r"園"), ("葡萄園", r"葡萄園"), ("泉／井", r"泉源|活水|井"),
     ("百合花／玫瑰", r"百合|玫瑰|水仙"), ("沒藥／乳香／香料", r"沒藥|乳香|香料|香膏"),
     ("鴿子", r"鴿"), ("羚羊／小鹿", r"羚羊|小鹿|母鹿"), ("蘋果樹", r"蘋果"), ("酒", r"酒"),
-    ("旗", r"旗"), ("印記／戳記", r"印記|戳記"), ("愛如死之堅強", r"如死之堅強|愛情如死"),
+    ("旗", r"旗"), ("印記／戳記", r"印記|戳記"), ("愛情如死之堅強", r"如死之堅強|愛情如死"),
     ("耶和華的烈焰", r"烈焰"), ("嫉恨／忌邪", r"嫉恨|嫉妒|忌邪"),
     ("字面讀", r"字面"), ("寓意／預表", r"寓意|預表|寓言"), ("基督與教會", r"基督與教會|基督和教會"),
     ("伯爾拿", r"伯爾拿"), ("紀爾", r"紀爾|吉爾"), ("戴德生", r"戴德生"), ("司布真", r"司布真"),
@@ -93,7 +93,7 @@ def source_path(name):
     return hits[0] if hits else None
 
 
-def prose_lines(path, include_tables=False, include_word_study=False):
+def prose_lines(path, include_tables=False, include_word_study=False, skip_coord=False):
     """Chapter lines minus the Scripture block and hymn blocks. Table rows are dropped for
     chapters (their 與其他經文的關聯 / 原文研讀 tables would swamp the index) but kept for the
     front-matter files (include_tables=True), where the ten-step order and the speaker and
@@ -110,6 +110,8 @@ def prose_lines(path, include_tables=False, include_word_study=False):
             skip3 = line.startswith(("### 今天的祭壇", "### 禱告回應", "### 默想問題"))
         if skip or skip3 or line.lstrip().startswith("> ^"):
             continue
+        if skip_coord and "全書座標" in line:
+            continue  # the 座標 line names the volume (…與印記), which is not discussion of the subject
         if line.lstrip().startswith("|") and not include_tables and not (include_word_study and in_ws):
             continue
         out.append(line)
@@ -171,7 +173,7 @@ def subject_index():
                 continue
             p = source_path(f"{i:02d}")
             neg = DISCLAIMER.get(name)
-            if p and sum(len(re.findall(pat, l)) for l in prose_lines(p) if not (neg and re.search(neg, l))) >= 1:
+            if p and sum(len(re.findall(pat, l)) for l in prose_lines(p, skip_coord=True) if not (neg and re.search(neg, l))) >= 1:
                 where.append(f"第{i}章")
         if where:
             out.append(f"| {name} | {'、'.join(where)} |")
@@ -196,11 +198,11 @@ def hebrew_index():
             cells = [c.strip() for c in line.strip().strip("|").split("|")]
             if len(cells) < 3 or not re.search(r"[\u0590-\u05FF]", cells[0]):
                 continue
-            gloss = re.split(r"[；;。]", cells[2])[0]
+            gloss = re.split(r"。", cells[2])[0]
             gloss = re.sub(r"\*+", "", gloss)
             if len(gloss) > 40:
                 cut = gloss[:40]
-                gloss = (cut.rsplit("，", 1)[0] if "，" in cut else cut) + "…"
+                gloss = (re.split(r"[，；]", cut[::-1], 1)[1][::-1] if re.search(r"[，；]", cut) else cut) + "…"
             gloss = re.sub(r"（[^）]*$", "", gloss)
             out.append(f"| {cells[0]} | {cells[1]} | 第{i}章 | {gloss} |")
             n += 1
