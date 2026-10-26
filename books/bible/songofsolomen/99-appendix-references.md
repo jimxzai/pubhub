@@ -164,7 +164,7 @@ publisher: 三書精讀出版系統
 
 | 位置 | 逐字引文（條） | 出處行 |
 |----------------|----------------|------------------------------------------------------|
-| 卷首·定位 | 7 | JFB (Jamieson, Fausset & Brown), on Song 1:1（導論）；同上；JFB, on Song 1:1（導論）；JFB, on Song 1:1（導論）；同上；JFB, on Song 1:1（導論）；同上（「後者」指只描寫人間的愛） |
+| 卷首·定位 | 7 | JFB (Jamieson, Fausset & Brown), on Song 1:1（導論）；同上；JFB, on Song 1:1（導論）；JFB, on Song 1:1（導論）；同上；JFB, on Song 1:1（導論）；同上（「後者」指只描寫人間的愛；原句屬 Rosenmüller，由 JFB 引用並贊同） |
 
 
 ## 六、艾利考特（C. J. Ellicott）
