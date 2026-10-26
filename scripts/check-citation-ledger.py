@@ -146,6 +146,36 @@ def chapters_with_quotes(book_dir, commentator):
     return out
 
 
+def chapters_with_quotes_by_attr(book_dir, attr_re):
+    """{chapter number: (quote count, 0)} classifying each `> "..."` quote by the
+    `> — source` line that follows it (a `同上` line inherits the previous quote's
+    owner within the chapter). Use this for books whose 歷代注疏 is arranged by
+    topic or by reading (Song of Songs ch 11-12) so that the ### headings do not
+    name the commentator -- layouts A and B above cannot see those quotes."""
+    pat = re.compile(attr_re)
+    out = {}
+    for f in sorted(p for p in Path(book_dir).glob("*.md") if re.match(r"\d{2}[a-z]?-", p.name)):
+        text = f.read_text(encoding="utf-8")
+        sec = COMMENTARY_SECTION_RE.search(text)
+        if not sec:
+            continue
+        end = text.find("\n## ", sec.end())
+        body = text[sec.end():end if end != -1 else len(text)]
+        n = 0
+        last_hit = False
+        for q in re.finditer(r'^> "[^\n]*\n(?:>[^\n]*\n)*?> — ([^\n]+)', body, re.M):
+            attr = q.group(1)
+            if "同上" in attr and not re.search(r"[A-Za-z]{3}", attr.replace("on Song", "")):
+                hit = last_hit
+            else:
+                hit = bool(pat.search(attr))
+            last_hit = hit
+            n += 1 if hit else 0
+        if n:
+            out[int(re.match(r"(\d+)", f.name).group(1))] = (n, 0)
+    return out
+
+
 def ledger_lists(ledger_text, commentator):
     """(verbatim_chapters, summary_chapters) as declared by the appendix.
 
@@ -191,8 +221,15 @@ def main():
     ap.add_argument("--ledger", default="99-appendix-references.md")
     ap.add_argument("--commentator", action="append",
                     default=None, help="heading substring (repeatable)")
+    ap.add_argument("--attr", action="append", default=[],
+                    help="NAME=REGEX: classify NAME's quotes by the `> —` attribution line "
+                         "instead of by ### heading (repeatable; NAME is also the ledger heading substring)")
     args = ap.parse_args()
+    attr_map = dict(a.split("=", 1) for a in args.attr)
     commentators = args.commentator or ["摩根", "麥克阿瑟"]
+    for name in attr_map:
+        if name not in commentators:
+            commentators.append(name)
 
     ledger_path = Path(args.book_dir) / args.ledger
     if not ledger_path.exists():
@@ -201,7 +238,8 @@ def main():
 
     problems = 0
     for c in commentators:
-        actual = chapters_with_quotes(args.book_dir, c)
+        actual = (chapters_with_quotes_by_attr(args.book_dir, attr_map[c]) if c in attr_map
+                  else chapters_with_quotes(args.book_dir, c))
         declared_v, declared_s = ledger_lists(ledger_text, c)
         print(f"\n=== {c} ===")
         eng_total = sum(v[0] for v in actual.values())
