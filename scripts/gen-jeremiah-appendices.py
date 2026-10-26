@@ -21,7 +21,7 @@ from collections import OrderedDict, defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-BOOK = ROOT / "books" / "bible" / "jeremeiah"
+BOOK = ROOT / "books" / "bible" / "jeremiah"
 SRC = BOOK / "sources"
 OUT_INDEX = BOOK / "98-appendix-indices.md"
 OUT_LEDGER = BOOK / "99-appendix-references.md"
@@ -341,7 +341,7 @@ def machine_checks(skip):
     out = run([py, "scripts/check-book-spine.py", str(BOOK)])
     ok = re.findall(r"\[(ok |GAP|--- )\]\s*(.+)", out)
     lines.append("- **骨幹檢查**（`check-book-spine.py`）：" + "；".join(f"{a.strip()} {b.strip()}" for a, b in ok))
-    lines.append("- **分卷扉頁的骨幹句**：腳本因目錄名 `jeremeiah` 與 `build-jeremiah-consolidated.sh` 不同名，**無法自動檢查分卷扉頁**（`[--- ]`）；六個分卷扉頁（`add_volume`）的「啟示的次序·第 N 步」句已由編者逐一讀過並以 `verify-prose-citations` 同法核對其中引句。")
+    lines.append("- **分卷扉頁的骨幹句**：目錄已由 `jeremeiah` 改名為 `jeremiah`，`check-book-spine.py` 可自動檢查分卷扉頁（6/6 帶「啟示的次序·第 N 步」）；其中引句另由編者以 `verify-prose-citations` 同法核對。")
     return "\n".join(lines)
 
 
@@ -424,7 +424,7 @@ def build_ledger(skip_run):
 
 **中文：和合本（CUV）。** 底本取信望愛（fhl）的和合本（`bible.fhl.net` 的 `unv`），再與兩個獨立來源對校：cnbible.com 的現代標點和合本（CUVMPT）與 ai-eden.com（本專案標準來源，API 取回）。
 
-- fhl 與 cnbible 在 {nd} 節（全書 {nv} 節）有出入（扣除標點、空格與「甚麼／什麼」「玷污／玷汙」之後），多為「做／作」「事奉／侍奉」一類的字形與慣用詞，不是意思的差異；本書從 fhl 的 1919 年和合本寫法。
+- fhl 與 cnbible 在兩百多節（全書 {nv} 節）有出入（確切節數隨比對時怎樣忽略標點、空格與「甚麼／什麼」而浮動，這裏不印單一數字），多為「做／作」「事奉／侍奉」一類的字形與慣用詞，不是意思的差異；本書從 fhl 的 1919 年和合本寫法。
 - 「做／作」以 ai-eden 第三來源逐節核對：fhl 與 ai-eden 全書一致，**只有耶 25:6 一處不同**（fhl 作「手所做的」，ai-eden 作「手所作的」）；第三個來源（cnbible 的傳統版頁面）取不到，**這一節本書尚未定案**，印的是 fhl 的「做」。`lint-scripture-text.py` 報的 29 項「做」都是 fhl 與 ai-eden 一致的寫法。
 - **和合本併節。** 和合本把 34:9 併入 34:8、34:19 併入 34:18、43:6 併入 43:5（fhl 與 ai-eden 都在被併的節留一個字母 a）。經文區塊由 `inject_scripture.py` 印成 ^8-9^、^18-19^、^5-6^；英文 NASB 仍分節，所以兩欄的節號在這三處不同。
 - **希伯來文節號。** Sefaria 採希伯來文節號：耶利米書 8 章有 23 節、9 章有 25 節（希伯來 8:23＝中文 9:1）。本書正文一律用和合本節號，引用希伯來文時已換算。
@@ -458,14 +458,13 @@ def build_ledger(skip_run):
 
 ## 十、仍未完成
 
-1. **沒有人類審稿者。**全書的撰寫者與核對者都是 AI，各篇由同一套規格與腳本核對；沒有另一位讀者逐章通讀。獨立校對輪（不看既有報告、向原始來源重新取證）尚未進行。
+1. **沒有人類審稿者。**全書的撰寫者與核對者都是 AI，各篇由同一套規格與腳本核對；沒有另一位讀者逐章通讀。已做過一輪獨立校對（10 位 AI 代理，不看既有報告、向原始來源重新取證，共修約 100 處），但校對者仍是 AI，不能代替人類讀者。
 2. **二十七篇尚未精簡。**各篇篇幅約 23–61 KB（含經文區塊）；經文區塊約佔三分之一至一半，其餘是行文。尚未做「同一個點全章只講一次」的精簡通讀。
 3. **耶 25:6 的「做／作」未定案**（見「七」）。
 4. **摩根的 p. 111 與 p. 123 是依 OCR 頁眉推定的**（頁眉被 OCR 打成「in」與「MESSAGEiOF」），實際頁碼可能差一頁；其餘頁碼取自清楚的頁眉。
 5. **字頻與詞義。**各篇的字頻由撰寫者以正則表達式計算，可能漏算未想到的詞形；若干詞義與雙關是編者自己的觀察（如 שֶׁבֶר「破壞／創傷」同字、צעד、צמח 與 צדקיהו 的聲音相近、אֲרֻכָה 與 עלה 的連結），各篇已標明，但這些觀察沒有現成注疏可對。
-6. **聖詩。**{nostated} 首來源頁沒有印年份；第 7 篇聖詩依來源頁照印（含 `That in , thy sun-shine's blaze` 的標點錯誤，來源頁本身的瑕疵）；第 10 篇〈Have Thine Own Way, Lord〉的文字取自 hymnary.org 所載 1989 年 United Methodist Hymnal 的排印（大小寫可能與 1907 年原版不同）；第 8 篇來源頁帶 `{{{{no source}}}}` 標記；第 13 篇第二節是否為衛斯理所作，無法由來源頁確認（已在該章說明）；第 20 篇用的是 1860 年 *Catholic Hymns* 的字句，不是後來新教版本；第 6、8、13、14、23、25、26、27 篇的聖詩與經文只有鬆散的主題關聯，各篇配詩說明已避免宣稱互相引用。
-7. **分卷扉頁的骨幹檢查無法自動執行**（目錄名與 build script 不同名）。
-8. **作者需要決定的事**：目錄名 `jeremeiah`（拼字）是否改為 `jeremiah`；是否在公開發行前請人類查經老師通讀。
+6. **聖詩。**{nostated} 首來源頁沒有印年份；第 7 篇來源頁有三處 OCR 式錯字（`I Yield`、`restores it borrowed ray`、`That in , thy sun-shine's blaze`），校對輪已在書稿中更正為 `I yield`、`its`、`sunshine's`；第 10 篇〈Have Thine Own Way, Lord〉的文字取自 hymnary.org 所載 1989 年 United Methodist Hymnal 的排印（大小寫可能與 1907 年原版不同）；第 8 篇來源頁帶 `{{{{no source}}}}` 標記；第 13 篇第二節是否為衛斯理所作，無法由來源頁確認（已在該章說明）；第 20 篇用的是 1860 年 *Catholic Hymns* 的字句，不是後來新教版本；第 6、8、13、14、23、25、26、27 篇的聖詩與經文只有鬆散的主題關聯，各篇配詩說明已避免宣稱互相引用。
+7. **作者需要決定的事**：是否在公開發行前請人類查經老師通讀。
 """)
     # quotes in the orientation files (not chapters)
     fm = defaultdict(int)

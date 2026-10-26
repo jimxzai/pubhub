@@ -6,7 +6,7 @@
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 PROJECT_ROOT="$(dirname "$SCRIPT_DIR")"
-INPUT_DIR="$PROJECT_ROOT/books/bible/jeremeiah"
+INPUT_DIR="$PROJECT_ROOT/books/bible/jeremiah"
 STUDY_FILE="$INPUT_DIR/elder-wong-systematic-study.md"
 OUTPUT_DIR="$PROJECT_ROOT/output"
 COMBINED_MD="$OUTPUT_DIR/jeremiah-consolidated.md"
@@ -81,7 +81,7 @@ add_file() {
 # preface, orientation chapters and the four volume divider pages consume
 # numbers 1-9 and the book's own 第一章 comes out as LaTeX chapter 10 — the
 # contents page then reads "10  第一章 · ...", two conflicting numbers on one
-# line. Marking these unnumbered lets the 14 study units number 1-20,
+# line. Marking these unnumbered lets the 27 study units number 1-27,
 # matching the chapter files. Same approach as build-job-consolidated.sh.
 add_front() {
     local f="$1"
@@ -142,7 +142,7 @@ for f in 01-before-i-formed-you.md 02-broken-cisterns.md \
 done
 
 add_volume "卷二 · 殿與不聽 (The Temple and the Unheeding Ear) · 5-11篇（耶7-20）" \
-    "殿門口的講道、哀哭的先知、麻褲帶與酒罈、乾旱與被關上的代求、詭詐的心、窯匠與瓦瓶，直到「火在我骨中」。**啟示的次序**：第 3 步 · 代求被關上，眼淚沒有關——神說「你不要為這百姓祈禱」（7:16），自己卻先哀哭（9:1；8:21）。"
+    "殿門口的講道、哀哭的先知、麻布腰帶與酒罈、乾旱與被關上的代求、詭詐的心、窯匠與瓦瓶，直到「燒著的火閉塞在我骨中」（20:9）。**啟示的次序**：第 3 步 · 代求被關上，眼淚沒有關——神說「你不要為這百姓祈禱」（7:16），哀哭卻沒有停（8:21；9:1；14:17）。"
 for f in 05-den-of-robbers.md 06-weeping-prophet-living-god.md \
          07-covenant-belt-jar.md 08-drought-and-closed-intercession.md \
          09-deceitful-heart.md 10-potter-and-flask.md 11-fire-in-my-bones.md; do
