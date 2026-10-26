@@ -24,20 +24,20 @@ publisher: 三書精讀出版系統
 | 第7章 | 9:1-10:22 | 2 | `fathers/18-tertullian-marcion-3-22-tau.txt`、`fathers/42-cyprian-demetrian-22.txt` |
 | 第8章 | 11:1-25 | 2 | `fathers/23-origen-principiis-3-1-15b.txt`、`fathers/29-augustine-gracefreewill-29.txt` |
 | 第9章 | 12:1-13:23 | 1 | `fathers/34-gregory-nazianzen-or2-64-65.txt` |
-| 第13章 | 18:1-32 | 3 | `fathers/06-justin-dial-47.txt`、`fathers/28-origen-celsus-8-40-children.txt`、`fathers/31-augustine-gracefreewill-31.txt` |
+| 第13章 | 18:1-32 | 2 | `fathers/28-origen-celsus-8-40-children.txt`、`fathers/31-augustine-gracefreewill-31.txt` |
 | 第14章 | 19:1-20:44 | 2 | `fathers/05-justin-dial-21.txt`、`fathers/33-augustine-cog-22-30.txt` |
 | 第16章 | 22:1-31 | 1 | `fathers/34-gregory-nazianzen-or2-64-65.txt` |
-| 第21章 | 28:1-26 | 3 | `fathers/16-tertullian-marcion-2-ezek28a.txt`、`fathers/20-origen-principiis-1-5-4a.txt`、`fathers/21-origen-principiis-1-5-4b.txt` |
-| 第22章 | 29:1-30:26 | 2 | `fathers/24-origen-principiis-4-1-egypt-tyre.txt` |
+| 第21章 | 28:1-26 | 2 | `fathers/16-tertullian-marcion-2-ezek28a.txt`、`fathers/21-origen-principiis-1-5-4b.txt` |
+| 第22章 | 29:1-30:26 | 1 | `fathers/24-origen-principiis-4-1-egypt-tyre.txt` |
 | 第24章 | 33:1-33 | 2 | `fathers/02-clement-1cor-8.txt`、`fathers/37-chrysostom-priesthood-6-1.txt` |
 | 第25章 | 34:1-31 | 3 | `fathers/35-gregory-nazianzen-or2-66.txt`、`fathers/38-chrysostom-priesthood-6-11.txt`、`fathers/39-cyprian-ep2.txt` |
-| 第27章 | 36:16-38 | 6 | `fathers/03-barnabas-6.txt`、`fathers/10-cyril-cat3-16.txt`、`fathers/23-origen-principiis-3-1-15b.txt`（另 3 檔含同文） |
-| 第28章 | 37:1-28 | 3 | `fathers/13-cyril-cat18-15.txt`、`fathers/14-tertullian-resurrection-30a.txt`、`fathers/15-tertullian-resurrection-30b.txt` |
+| 第27章 | 36:16-38 | 4 | `fathers/03-barnabas-6.txt`、`fathers/10-cyril-cat3-16.txt`、`fathers/23-origen-principiis-3-1-15b.txt`（另 1 檔含同文） |
+| 第28章 | 37:1-28 | 2 | `fathers/13-cyril-cat18-15.txt`、`fathers/14-tertullian-resurrection-30a.txt` |
 | 第30章 | 40:1-42:20 | 2 | `fathers/08-jerome-ep53-8-obscurity.txt`、`fathers/27-origen-celsus-6-23-gates.txt` |
 | 第33章 | 47:1-23 | 1 | `fathers/04-barnabas-11.txt` |
 | 第34章 | 48:1-35 | 1 | `fathers/19-tertullian-marcion-3-24-jerusalem.txt` |
 
-合計：18 章、39 條逐字引文。
+合計：18 章、33 條逐字引文。
 
 ---
 
@@ -47,22 +47,22 @@ publisher: 三書精讀出版系統
 
 | 章 | 以西結書 | 逐字引文（條） | 核對來源檔（`.sources/`） |
 |--------|----------------|----------------|------------------------------------------------------|
-| 第1章 | 1:1-28 | 2 | `calvin-01.txt` |
-| 第2章 | 2:1-3:15 | 3 | `calvin-02.txt`、`calvin-03.txt` |
-| 第3章 | 3:16-27 | 3 | `calvin-03.txt` |
-| 第4章 | 4:1-5:17 | 2 | `calvin-04.txt`、`calvin-05.txt` |
-| 第5章 | 6:1-7:27 | 2 | `calvin-06.txt`、`calvin-07.txt` |
+| 第1章 | 1:1-28 | 1 | `calvin-01.txt` |
+| 第2章 | 2:1-3:15 | 1 | `calvin-02.txt` |
+| 第3章 | 3:16-27 | 1 | `calvin-03.txt` |
+| 第4章 | 4:1-5:17 | 1 | `calvin-05.txt` |
+| 第5章 | 6:1-7:27 | 1 | `calvin-06.txt` |
 | 第6章 | 8:1-18 | 1 | `calvin-08.txt` |
-| 第7章 | 9:1-10:22 | 3 | `calvin-09.txt` |
+| 第7章 | 9:1-10:22 | 1 | `calvin-09.txt` |
 | 第8章 | 11:1-25 | 1 | `calvin-11.txt` |
 | 第9章 | 12:1-13:23 | 1 | `calvin-13.txt` |
-| 第10章 | 14:1-15:8 | 2 | `calvin-14.txt`、`calvin-15.txt` |
-| 第11章 | 16:1-63 | 3 | `calvin-16.txt` |
-| 第12章 | 17:1-24 | 3 | `calvin-17.txt` |
-| 第13章 | 18:1-32 | 2 | `calvin-18.txt` |
-| 第14章 | 19:1-20:44 | 2 | `calvin-20.txt` |
+| 第10章 | 14:1-15:8 | 1 | `calvin-14.txt` |
+| 第11章 | 16:1-63 | 2 | `calvin-16.txt` |
+| 第12章 | 17:1-24 | 2 | `calvin-17.txt` |
+| 第13章 | 18:1-32 | 1 | `calvin-18.txt` |
+| 第14章 | 19:1-20:44 | 1 | `calvin-20.txt` |
 
-合計：14 章、30 條逐字引文。
+合計：14 章、16 條逐字引文。
 
 ---
 
@@ -72,42 +72,42 @@ publisher: 三書精讀出版系統
 
 | 章 | 以西結書 | 逐字引文（條） | 核對來源檔（`.sources/`） |
 |--------|----------------|----------------|------------------------------------------------------|
-| 第1章 | 1:1-28 | 2 | `henry-01.txt` |
-| 第2章 | 2:1-3:15 | 2 | `henry-02.txt`、`henry-03.txt` |
-| 第3章 | 3:16-27 | 2 | `henry-03.txt` |
-| 第4章 | 4:1-5:17 | 2 | `henry-04.txt` |
-| 第5章 | 6:1-7:27 | 3 | `henry-06.txt`、`henry-07.txt` |
-| 第6章 | 8:1-18 | 3 | `henry-08.txt` |
-| 第7章 | 9:1-10:22 | 3 | `henry-09.txt`、`henry-10.txt` |
-| 第8章 | 11:1-25 | 2 | `henry-11.txt` |
+| 第1章 | 1:1-28 | 1 | `henry-01.txt` |
+| 第2章 | 2:1-3:15 | 1 | `henry-02.txt` |
+| 第3章 | 3:16-27 | 1 | `henry-03.txt` |
+| 第4章 | 4:1-5:17 | 1 | `henry-04.txt` |
+| 第5章 | 6:1-7:27 | 1 | `henry-07.txt` |
+| 第6章 | 8:1-18 | 1 | `henry-08.txt` |
+| 第7章 | 9:1-10:22 | 1 | `henry-09.txt` |
+| 第8章 | 11:1-25 | 1 | `henry-11.txt` |
 | 第9章 | 12:1-13:23 | 1 | `henry-12.txt` |
 | 第10章 | 14:1-15:8 | 2 | `henry-14.txt` |
 | 第11章 | 16:1-63 | 1 | `henry-16.txt` |
-| 第12章 | 17:1-24 | 3 | `henry-17.txt` |
+| 第12章 | 17:1-24 | 1 | `henry-17.txt` |
 | 第13章 | 18:1-32 | 1 | `henry-18.txt` |
-| 第14章 | 19:1-20:44 | 2 | `henry-19.txt`、`henry-20.txt` |
-| 第15章 | 20:45-21:32 | 2 | `henry-21.txt` |
-| 第16章 | 22:1-31 | 2 | `henry-22.txt` |
-| 第17章 | 23:1-49 | 3 | `henry-23.txt` |
-| 第18章 | 24:1-27 | 2 | `henry-24.txt` |
-| 第19章 | 25:1-26:21 | 4 | `henry-25.txt`、`henry-26.txt` |
-| 第20章 | 27:1-36 | 3 | `henry-27.txt` |
-| 第21章 | 28:1-26 | 2 | `henry-28.txt` |
-| 第22章 | 29:1-30:26 | 2 | `henry-29.txt` |
-| 第23章 | 31:1-32:32 | 3 | `henry-31.txt`、`henry-32.txt` |
-| 第24章 | 33:1-33 | 3 | `henry-33.txt` |
-| 第25章 | 34:1-31 | 2 | `henry-34.txt` |
-| 第26章 | 35:1-36:15 | 2 | `henry-35.txt` |
-| 第27章 | 36:16-38 | 3 | `henry-36.txt` |
-| 第28章 | 37:1-28 | 2 | `henry-37.txt` |
-| 第29章 | 38:1-39:29 | 4 | `henry-38.txt` |
-| 第30章 | 40:1-42:20 | 2 | `henry-40.txt` |
-| 第31章 | 43:1-44:31 | 4 | `henry-43.txt`、`henry-44.txt` |
-| 第32章 | 45:1-46:24 | 3 | `henry-45.txt`、`henry-46.txt` |
+| 第14章 | 19:1-20:44 | 1 | `henry-20.txt` |
+| 第15章 | 20:45-21:32 | 1 | `henry-21.txt` |
+| 第16章 | 22:1-31 | 1 | `henry-22.txt` |
+| 第17章 | 23:1-49 | 1 | `henry-23.txt` |
+| 第18章 | 24:1-27 | 1 | `henry-24.txt` |
+| 第19章 | 25:1-26:21 | 2 | `henry-26.txt` |
+| 第20章 | 27:1-36 | 2 | `henry-27.txt` |
+| 第21章 | 28:1-26 | 1 | `henry-28.txt` |
+| 第22章 | 29:1-30:26 | 1 | `henry-29.txt` |
+| 第23章 | 31:1-32:32 | 1 | `henry-32.txt` |
+| 第24章 | 33:1-33 | 1 | `henry-33.txt` |
+| 第25章 | 34:1-31 | 1 | `henry-34.txt` |
+| 第26章 | 35:1-36:15 | 1 | `henry-35.txt` |
+| 第27章 | 36:16-38 | 1 | `henry-36.txt` |
+| 第28章 | 37:1-28 | 1 | `henry-37.txt` |
+| 第29章 | 38:1-39:29 | 2 | `henry-38.txt` |
+| 第30章 | 40:1-42:20 | 1 | `henry-40.txt` |
+| 第31章 | 43:1-44:31 | 2 | `henry-43.txt`、`henry-44.txt` |
+| 第32章 | 45:1-46:24 | 2 | `henry-46.txt` |
 | 第33章 | 47:1-23 | 1 | `henry-44.txt` |
 | 第34章 | 48:1-35 | 1 | `henry-48.txt` |
 
-合計：34 章、79 條逐字引文。
+合計：34 章、40 條逐字引文。
 
 ---
 
@@ -117,42 +117,42 @@ publisher: 三書精讀出版系統
 
 | 章 | 以西結書 | 逐字引文（條） | 核對來源檔（`.sources/`） |
 |--------|----------------|----------------|------------------------------------------------------|
-| 第1章 | 1:1-28 | 3 | `kad-01.txt` |
-| 第2章 | 2:1-3:15 | 2 | `kad-02.txt`、`kad-03.txt` |
-| 第3章 | 3:16-27 | 2 | `kad-03.txt` |
-| 第4章 | 4:1-5:17 | 3 | `kad-04.txt`、`kad-05.txt` |
-| 第5章 | 6:1-7:27 | 2 | `kad-06.txt`、`kad-07.txt` |
-| 第6章 | 8:1-18 | 3 | `kad-08.txt` |
-| 第7章 | 9:1-10:22 | 3 | `kad-09.txt` |
-| 第8章 | 11:1-25 | 2 | `kad-11.txt` |
+| 第1章 | 1:1-28 | 2 | `kad-01.txt` |
+| 第2章 | 2:1-3:15 | 1 | `kad-02.txt`、`kad-03.txt` |
+| 第3章 | 3:16-27 | 1 | `kad-03.txt` |
+| 第4章 | 4:1-5:17 | 2 | `kad-04.txt` |
+| 第5章 | 6:1-7:27 | 1 | `kad-07.txt` |
+| 第6章 | 8:1-18 | 2 | `kad-08.txt` |
+| 第7章 | 9:1-10:22 | 2 | `kad-09.txt` |
+| 第8章 | 11:1-25 | 1 | `kad-11.txt` |
 | 第9章 | 12:1-13:23 | 1 | `kad-12.txt` |
-| 第10章 | 14:1-15:8 | 3 | `kad-14.txt`、`kad-15.txt` |
+| 第10章 | 14:1-15:8 | 2 | `kad-14.txt` |
 | 第11章 | 16:1-63 | 3 | `kad-16.txt` |
 | 第12章 | 17:1-24 | 2 | `kad-17.txt` |
-| 第13章 | 18:1-32 | 3 | `kad-18.txt` |
-| 第14章 | 19:1-20:44 | 3 | `kad-19.txt`、`kad-20.txt` |
-| 第15章 | 20:45-21:32 | 3 | `kad-21.txt` |
-| 第16章 | 22:1-31 | 3 | `kad-22.txt` |
-| 第17章 | 23:1-49 | 3 | `kad-23.txt` |
-| 第18章 | 24:1-27 | 3 | `kad-24.txt` |
-| 第19章 | 25:1-26:21 | 2 | `kad-25.txt`、`kad-26.txt` |
-| 第20章 | 27:1-36 | 3 | `kad-27.txt` |
-| 第21章 | 28:1-26 | 3 | `kad-28.txt` |
-| 第22章 | 29:1-30:26 | 4 | `kad-29.txt` |
-| 第23章 | 31:1-32:32 | 3 | `kad-31.txt`、`kad-32.txt` |
-| 第24章 | 33:1-33 | 3 | `kad-33.txt` |
-| 第25章 | 34:1-31 | 3 | `kad-34.txt` |
+| 第13章 | 18:1-32 | 1 | `kad-18.txt` |
+| 第14章 | 19:1-20:44 | 1 | `kad-20.txt` |
+| 第15章 | 20:45-21:32 | 1 | `kad-21.txt` |
+| 第16章 | 22:1-31 | 1 | `kad-22.txt` |
+| 第17章 | 23:1-49 | 1 | `kad-23.txt` |
+| 第18章 | 24:1-27 | 1 | `kad-24.txt` |
+| 第19章 | 25:1-26:21 | 1 | `kad-26.txt` |
+| 第20章 | 27:1-36 | 2 | `kad-27.txt` |
+| 第21章 | 28:1-26 | 1 | `kad-28.txt` |
+| 第22章 | 29:1-30:26 | 3 | `kad-29.txt` |
+| 第23章 | 31:1-32:32 | 2 | `kad-31.txt`、`kad-32.txt` |
+| 第24章 | 33:1-33 | 2 | `kad-33.txt` |
+| 第25章 | 34:1-31 | 1 | `kad-34.txt` |
 | 第26章 | 35:1-36:15 | 3 | `kad-35.txt` |
-| 第27章 | 36:16-38 | 2 | `kad-36.txt` |
-| 第28章 | 37:1-28 | 3 | `kad-37.txt` |
-| 第29章 | 38:1-39:29 | 4 | `kad-38.txt`、`kad-39.txt` |
-| 第30章 | 40:1-42:20 | 3 | `kad-40.txt`、`kad-43.txt` |
-| 第31章 | 43:1-44:31 | 5 | `kad-43.txt`、`kad-44.txt` |
-| 第32章 | 45:1-46:24 | 2 | `kad-45.txt` |
+| 第27章 | 36:16-38 | 1 | `kad-36.txt` |
+| 第28章 | 37:1-28 | 2 | `kad-37.txt` |
+| 第29章 | 38:1-39:29 | 1 | `kad-38.txt` |
+| 第30章 | 40:1-42:20 | 1 | `kad-40.txt` |
+| 第31章 | 43:1-44:31 | 2 | `kad-43.txt` |
+| 第32章 | 45:1-46:24 | 1 | `kad-45.txt` |
 | 第33章 | 47:1-23 | 2 | `kad-47.txt` |
 | 第34章 | 48:1-35 | 1 | `kad-48.txt` |
 
-合計：34 章、93 條逐字引文。
+合計：34 章、52 條逐字引文。
 
 ---
 
@@ -167,36 +167,36 @@ publisher: 三書精讀出版系統
 | 第3章 | 3:16-27 | 1 | `expositors-02.txt`、`expositors-03.txt` |
 | 第4章 | 4:1-5:17 | 1 | `expositors-04.txt`、`expositors-05.txt`、`expositors-06.txt`（另 1 檔含同文） |
 | 第5章 | 6:1-7:27 | 1 | `expositors-04.txt`、`expositors-05.txt`、`expositors-06.txt`（另 1 檔含同文） |
-| 第6章 | 8:1-18 | 5 | `expositors-08.txt`、`expositors-09.txt`、`expositors-10.txt`（另 1 檔含同文） |
+| 第6章 | 8:1-18 | 3 | `expositors-08.txt`、`expositors-09.txt`、`expositors-10.txt`（另 1 檔含同文） |
 | 第7章 | 9:1-10:22 | 1 | `expositors-08.txt`、`expositors-09.txt`、`expositors-10.txt`（另 1 檔含同文） |
 | 第9章 | 12:1-13:23 | 1 | `expositors-12.txt`、`expositors-13.txt`、`expositors-14.txt` |
 | 第10章 | 14:1-15:8 | 1 | `expositors-12.txt`、`expositors-13.txt`、`expositors-14.txt` |
-| 第11章 | 16:1-63 | 2 | `expositors-16.txt` |
-| 第12章 | 17:1-24 | 3 | `expositors-12.txt`、`expositors-17.txt`、`expositors-19.txt` |
-| 第13章 | 18:1-32 | 2 | `expositors-18.txt` |
-| 第14章 | 19:1-20:44 | 2 | `expositors-12.txt`、`expositors-17.txt`、`expositors-19.txt`（另 1 檔含同文） |
-| 第15章 | 20:45-21:32 | 2 | `expositors-21.txt` |
-| 第16章 | 22:1-31 | 2 | `expositors-22.txt`、`expositors-24.txt` |
+| 第11章 | 16:1-63 | 1 | `expositors-16.txt` |
+| 第12章 | 17:1-24 | 2 | `expositors-12.txt`、`expositors-17.txt`、`expositors-19.txt` |
+| 第13章 | 18:1-32 | 1 | `expositors-18.txt` |
+| 第14章 | 19:1-20:44 | 1 | `expositors-12.txt`、`expositors-17.txt`、`expositors-19.txt` |
+| 第15章 | 20:45-21:32 | 1 | `expositors-21.txt` |
+| 第16章 | 22:1-31 | 1 | `expositors-22.txt`、`expositors-24.txt` |
 | 第17章 | 23:1-49 | 1 | `expositors-23.txt` |
 | 第18章 | 24:1-27 | 2 | `expositors-22.txt`、`expositors-24.txt` |
-| 第19章 | 25:1-26:21 | 2 | `expositors-26.txt`、`expositors-29.txt` |
-| 第20章 | 27:1-36 | 2 | `expositors-27.txt`、`expositors-28.txt` |
-| 第21章 | 28:1-26 | 2 | `expositors-27.txt`、`expositors-28.txt` |
-| 第22章 | 29:1-30:26 | 3 | `expositors-29.txt`、`expositors-30.txt`、`expositors-31.txt`（另 1 檔含同文） |
-| 第23章 | 31:1-32:32 | 2 | `expositors-29.txt`、`expositors-30.txt`、`expositors-31.txt`（另 1 檔含同文） |
-| 第24章 | 33:1-33 | 2 | `expositors-33.txt` |
-| 第25章 | 34:1-31 | 3 | `expositors-34.txt` |
-| 第26章 | 35:1-36:15 | 2 | `expositors-35.txt`、`expositors-36.txt` |
-| 第27章 | 36:16-38 | 3 | `expositors-35.txt`、`expositors-36.txt` |
-| 第28章 | 37:1-28 | 2 | `expositors-37.txt` |
-| 第29章 | 38:1-39:29 | 3 | `expositors-38.txt`、`expositors-39.txt` |
-| 第30章 | 40:1-42:20 | 4 | `expositors-40.txt`、`expositors-41.txt`、`expositors-42.txt`（另 4 檔含同文） |
-| 第31章 | 43:1-44:31 | 3 | `expositors-40.txt`、`expositors-41.txt`、`expositors-42.txt`（另 2 檔含同文） |
-| 第32章 | 45:1-46:24 | 5 | `expositors-44.txt`、`expositors-45.txt`、`expositors-46.txt` |
+| 第19章 | 25:1-26:21 | 1 | `expositors-26.txt`、`expositors-29.txt` |
+| 第20章 | 27:1-36 | 1 | `expositors-27.txt`、`expositors-28.txt` |
+| 第21章 | 28:1-26 | 1 | `expositors-27.txt`、`expositors-28.txt` |
+| 第22章 | 29:1-30:26 | 1 | `expositors-29.txt`、`expositors-30.txt`、`expositors-31.txt`（另 1 檔含同文） |
+| 第23章 | 31:1-32:32 | 1 | `expositors-29.txt`、`expositors-30.txt`、`expositors-31.txt`（另 1 檔含同文） |
+| 第24章 | 33:1-33 | 1 | `expositors-33.txt` |
+| 第25章 | 34:1-31 | 2 | `expositors-34.txt` |
+| 第26章 | 35:1-36:15 | 1 | `expositors-35.txt`、`expositors-36.txt` |
+| 第27章 | 36:16-38 | 1 | `expositors-35.txt`、`expositors-36.txt` |
+| 第28章 | 37:1-28 | 1 | `expositors-37.txt` |
+| 第29章 | 38:1-39:29 | 2 | `expositors-38.txt`、`expositors-39.txt` |
+| 第30章 | 40:1-42:20 | 2 | `expositors-40.txt`、`expositors-41.txt`、`expositors-42.txt`（另 1 檔含同文） |
+| 第31章 | 43:1-44:31 | 1 | `expositors-40.txt`、`expositors-41.txt`、`expositors-42.txt`（另 2 檔含同文） |
+| 第32章 | 45:1-46:24 | 1 | `expositors-44.txt`、`expositors-45.txt`、`expositors-46.txt` |
 | 第33章 | 47:1-23 | 1 | `expositors-47.txt`、`expositors-48.txt` |
 | 第34章 | 48:1-35 | 2 | `expositors-47.txt`、`expositors-48.txt` |
 
-合計：33 章、70 條逐字引文。
+合計：33 章、41 條逐字引文。
 
 ---
 
@@ -207,41 +207,41 @@ publisher: 三書精讀出版系統
 | 章 | 以西結書 | 逐字引文（條） | 核對來源檔（`.sources/`） |
 |--------|----------------|----------------|------------------------------------------------------|
 | 第1章 | 1:1-28 | 1 | `cambridge-01.txt` |
-| 第2章 | 2:1-3:15 | 2 | `cambridge-02.txt`、`cambridge-03.txt` |
-| 第3章 | 3:16-27 | 2 | `cambridge-03.txt` |
-| 第4章 | 4:1-5:17 | 3 | `cambridge-04.txt` |
-| 第5章 | 6:1-7:27 | 4 | `cambridge-06.txt`、`cambridge-07.txt` |
-| 第6章 | 8:1-18 | 2 | `cambridge-08.txt` |
-| 第7章 | 9:1-10:22 | 3 | `cambridge-09.txt`、`cambridge-10.txt` |
+| 第2章 | 2:1-3:15 | 1 | `cambridge-03.txt` |
+| 第3章 | 3:16-27 | 1 | `cambridge-03.txt` |
+| 第4章 | 4:1-5:17 | 2 | `cambridge-04.txt` |
+| 第5章 | 6:1-7:27 | 2 | `cambridge-07.txt` |
+| 第6章 | 8:1-18 | 1 | `cambridge-08.txt` |
+| 第7章 | 9:1-10:22 | 1 | `cambridge-10.txt` |
 | 第8章 | 11:1-25 | 1 | `cambridge-11.txt` |
 | 第9章 | 12:1-13:23 | 2 | `cambridge-12.txt`、`cambridge-13.txt` |
 | 第10章 | 14:1-15:8 | 1 | `cambridge-14.txt` |
-| 第11章 | 16:1-63 | 2 | `cambridge-16.txt` |
+| 第11章 | 16:1-63 | 1 | `cambridge-16.txt` |
 | 第12章 | 17:1-24 | 1 | `cambridge-17.txt` |
-| 第13章 | 18:1-32 | 2 | `cambridge-18.txt` |
+| 第13章 | 18:1-32 | 1 | `cambridge-18.txt` |
 | 第14章 | 19:1-20:44 | 1 | `cambridge-20.txt` |
-| 第15章 | 20:45-21:32 | 2 | `cambridge-21.txt` |
-| 第16章 | 22:1-31 | 3 | `cambridge-22.txt` |
-| 第17章 | 23:1-49 | 3 | `cambridge-23.txt` |
-| 第18章 | 24:1-27 | 2 | `cambridge-24.txt` |
-| 第19章 | 25:1-26:21 | 4 | `cambridge-25.txt`、`cambridge-26.txt` |
+| 第15章 | 20:45-21:32 | 1 | `cambridge-21.txt` |
+| 第16章 | 22:1-31 | 2 | `cambridge-22.txt` |
+| 第17章 | 23:1-49 | 2 | `cambridge-23.txt` |
+| 第18章 | 24:1-27 | 1 | `cambridge-24.txt` |
+| 第19章 | 25:1-26:21 | 1 | `cambridge-26.txt` |
 | 第20章 | 27:1-36 | 2 | `cambridge-27.txt` |
-| 第21章 | 28:1-26 | 2 | `cambridge-28.txt` |
+| 第21章 | 28:1-26 | 1 | `cambridge-28.txt` |
 | 第22章 | 29:1-30:26 | 1 | `cambridge-29.txt` |
-| 第23章 | 31:1-32:32 | 3 | `cambridge-31.txt` |
+| 第23章 | 31:1-32:32 | 2 | `cambridge-31.txt` |
 | 第24章 | 33:1-33 | 2 | `cambridge-33.txt` |
-| 第25章 | 34:1-31 | 2 | `cambridge-34.txt` |
-| 第26章 | 35:1-36:15 | 2 | `cambridge-35.txt` |
-| 第27章 | 36:16-38 | 3 | `cambridge-36.txt` |
-| 第28章 | 37:1-28 | 3 | `cambridge-37.txt` |
-| 第29章 | 38:1-39:29 | 3 | `cambridge-38.txt` |
-| 第30章 | 40:1-42:20 | 5 | `cambridge-40.txt`、`cambridge-42.txt` |
-| 第31章 | 43:1-44:31 | 2 | `cambridge-43.txt` |
-| 第32章 | 45:1-46:24 | 3 | `cambridge-40.txt`、`cambridge-45.txt` |
+| 第25章 | 34:1-31 | 1 | `cambridge-34.txt` |
+| 第26章 | 35:1-36:15 | 1 | `cambridge-35.txt` |
+| 第27章 | 36:16-38 | 2 | `cambridge-36.txt` |
+| 第28章 | 37:1-28 | 1 | `cambridge-37.txt` |
+| 第29章 | 38:1-39:29 | 2 | `cambridge-38.txt` |
+| 第30章 | 40:1-42:20 | 1 | `cambridge-40.txt` |
+| 第31章 | 43:1-44:31 | 1 | `cambridge-43.txt` |
+| 第32章 | 45:1-46:24 | 1 | `cambridge-40.txt` |
 | 第33章 | 47:1-23 | 1 | `cambridge-47.txt` |
 | 第34章 | 48:1-35 | 1 | `cambridge-48.txt` |
 
-合計：34 章、76 條逐字引文。
+合計：34 章、44 條逐字引文。
 
 ---
 
@@ -253,7 +253,7 @@ publisher: 三書精讀出版系統
 |--------|----------------|----------------|------------------------------------------------------|
 | 第2章 | 2:1-3:15 | 1 | `pulpit-02.txt` |
 | 第3章 | 3:16-27 | 1 | `pulpit-03.txt` |
-| 第4章 | 4:1-5:17 | 2 | `pulpit-04.txt`、`pulpit-05.txt` |
+| 第4章 | 4:1-5:17 | 1 | `pulpit-04.txt` |
 | 第6章 | 8:1-18 | 1 | `pulpit-08.txt` |
 | 第7章 | 9:1-10:22 | 1 | `pulpit-09.txt` |
 | 第8章 | 11:1-25 | 1 | `pulpit-11.txt` |
@@ -261,21 +261,21 @@ publisher: 三書精讀出版系統
 | 第10章 | 14:1-15:8 | 1 | `pulpit-14.txt` |
 | 第13章 | 18:1-32 | 1 | `pulpit-18.txt` |
 | 第14章 | 19:1-20:44 | 1 | `pulpit-20.txt` |
-| 第15章 | 20:45-21:32 | 3 | `pulpit-20.txt`、`pulpit-21.txt` |
+| 第15章 | 20:45-21:32 | 2 | `pulpit-20.txt`、`pulpit-21.txt` |
 | 第16章 | 22:1-31 | 1 | `pulpit-22.txt` |
-| 第17章 | 23:1-49 | 2 | `pulpit-23.txt` |
-| 第18章 | 24:1-27 | 4 | `pulpit-24.txt` |
+| 第17章 | 23:1-49 | 1 | `pulpit-23.txt` |
+| 第18章 | 24:1-27 | 3 | `pulpit-24.txt` |
 | 第19章 | 25:1-26:21 | 1 | `pulpit-26.txt` |
 | 第20章 | 27:1-36 | 1 | `pulpit-27.txt` |
 | 第21章 | 28:1-26 | 1 | `pulpit-28.txt` |
 | 第22章 | 29:1-30:26 | 1 | `pulpit-29.txt` |
-| 第24章 | 33:1-33 | 2 | `pulpit-33.txt` |
-| 第25章 | 34:1-31 | 2 | `pulpit-34.txt` |
-| 第29章 | 38:1-39:29 | 3 | `pulpit-38.txt` |
+| 第24章 | 33:1-33 | 1 | `pulpit-33.txt` |
+| 第25章 | 34:1-31 | 1 | `pulpit-34.txt` |
+| 第29章 | 38:1-39:29 | 1 | `pulpit-38.txt` |
 | 第30章 | 40:1-42:20 | 1 | `pulpit-40.txt` |
-| 第31章 | 43:1-44:31 | 2 | `pulpit-44.txt` |
+| 第31章 | 43:1-44:31 | 1 | `pulpit-44.txt` |
 
-合計：23 章、35 條逐字引文。
+合計：23 章、26 條逐字引文。
 
 ---
 
@@ -287,31 +287,31 @@ publisher: 三書精讀出版系統
 |--------|----------------|----------------|------------------------------------------------------|
 | 第2章 | 2:1-3:15 | 1 | `jfb-02.txt` |
 | 第3章 | 3:16-27 | 1 | `jfb-03.txt` |
-| 第4章 | 4:1-5:17 | 2 | `jfb-04.txt` |
-| 第5章 | 6:1-7:27 | 3 | `jfb-07.txt` |
-| 第6章 | 8:1-18 | 3 | `jfb-08.txt` |
-| 第7章 | 9:1-10:22 | 2 | `jfb-09.txt`、`jfb-10.txt` |
+| 第4章 | 4:1-5:17 | 1 | `jfb-04.txt` |
+| 第5章 | 6:1-7:27 | 1 | `jfb-07.txt` |
+| 第6章 | 8:1-18 | 2 | `jfb-08.txt` |
+| 第7章 | 9:1-10:22 | 1 | `jfb-09.txt` |
 | 第8章 | 11:1-25 | 1 | `jfb-11.txt` |
 | 第11章 | 16:1-63 | 1 | `jfb-16.txt` |
 | 第15章 | 20:45-21:32 | 1 | `jfb-20.txt` |
 | 第16章 | 22:1-31 | 1 | `jfb-22.txt` |
 | 第17章 | 23:1-49 | 1 | `jfb-23.txt` |
 | 第18章 | 24:1-27 | 1 | `jfb-24.txt` |
-| 第19章 | 25:1-26:21 | 3 | `jfb-25.txt`、`jfb-26.txt` |
+| 第19章 | 25:1-26:21 | 2 | `jfb-26.txt` |
 | 第21章 | 28:1-26 | 1 | `jfb-28.txt` |
-| 第23章 | 31:1-32:32 | 3 | `jfb-31.txt`、`jfb-32.txt` |
-| 第24章 | 33:1-33 | 2 | `jfb-33.txt` |
-| 第25章 | 34:1-31 | 3 | `jfb-34.txt` |
-| 第26章 | 35:1-36:15 | 2 | `jfb-35.txt`、`jfb-36.txt` |
+| 第23章 | 31:1-32:32 | 1 | `jfb-31.txt` |
+| 第24章 | 33:1-33 | 1 | `jfb-33.txt` |
+| 第25章 | 34:1-31 | 1 | `jfb-34.txt` |
+| 第26章 | 35:1-36:15 | 1 | `jfb-36.txt` |
 | 第27章 | 36:16-38 | 2 | `jfb-36.txt` |
 | 第28章 | 37:1-28 | 1 | `jfb-37.txt` |
-| 第29章 | 38:1-39:29 | 2 | `jfb-38.txt` |
-| 第30章 | 40:1-42:20 | 3 | `jfb-40.txt`、`jfb-41.txt` |
-| 第31章 | 43:1-44:31 | 3 | `jfb-43.txt` |
-| 第32章 | 45:1-46:24 | 3 | `jfb-40.txt`、`jfb-44.txt` |
+| 第29章 | 38:1-39:29 | 1 | `jfb-38.txt` |
+| 第30章 | 40:1-42:20 | 1 | `jfb-41.txt` |
+| 第31章 | 43:1-44:31 | 2 | `jfb-43.txt` |
+| 第32章 | 45:1-46:24 | 2 | `jfb-40.txt`、`jfb-44.txt` |
 | 第33章 | 47:1-23 | 1 | `jfb-47.txt` |
 
-合計：25 章、47 條逐字引文。
+合計：25 章、30 條逐字引文。
 
 ---
 
@@ -322,12 +322,11 @@ publisher: 三書精讀出版系統
 | 章 | 以西結書 | 逐字引文（條） | 核對來源檔（`.sources/`） |
 |--------|----------------|----------------|------------------------------------------------------|
 | 第4章 | 4:1-5:17 | 1 | `gill-04.txt` |
-| 第8章 | 11:1-25 | 1 | `gill-11.txt` |
 | 第29章 | 38:1-39:29 | 1 | `gill-38.txt` |
 | 第30章 | 40:1-42:20 | 1 | `gill-40.txt` |
 | 第32章 | 45:1-46:24 | 1 | `gill-45.txt` |
 
-合計：5 章、5 條逐字引文。
+合計：4 章、4 條逐字引文。
 
 ---
 
@@ -352,14 +351,14 @@ publisher: 三書精讀出版系統
 | 第23章 | 31:1-32:32 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
 | 第24章 | 33:1-33 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
 | 第25章 | 34:1-31 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
-| 第26章 | 35:1-36:15 | 2 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
+| 第26章 | 35:1-36:15 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
 | 第27章 | 36:16-38 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
 | 第28章 | 37:1-28 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
 | 第29章 | 38:1-39:29 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
 | 第30章 | 40:1-42:20 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
-| 第31章 | 43:1-44:31 | 3 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
+| 第31章 | 43:1-44:31 | 1 | `morgan-analyzed-bible-ezekiel.txt`、`morgan-job-malachi.txt` |
 
-合計：21 章、24 條逐字引文。
+合計：21 章、21 條逐字引文。
 
 ---
 
@@ -490,7 +489,7 @@ publisher: 三書精讀出版系統
 以下各項是誠實的缺口，不是已完成事項：
 
 1. 已執行一輪獨立校對：九位沒有看過本書的 AI 校對者各自向原始來源重新取證，共提出 A 級（錯誤）24 條、B 級（無法查證或過度斷言）76 條、C 級（錯字、文風等）116 條；修訂者逐條向原始來源重新查證後才修改，個別條目經查證不成立者未改。**尚未有人類校對者通讀全書**，這是仍未完成的最重要一項。
-2. 各章字數偏多（多數章在 35–60 KB 之間），尚未做精簡輪；各章中同一個論點重複 3–13 次，校對者已記錄，尚未處理。
+2. 已做一輪精簡（各章約減 12–27%，全書約 19%，刪除重複的論述與部分重複的注疏引文，各章仍保留至少 8 條逐字引文，個別章原本即不足）；精簡後的文字未再經獨立校對，仍有重複之處未處理。
 3. 配詩第 16 章第四行「Son of man」前是否有「O」，兩個來源不一致，待查 1903 年原版。
 4. 40–48 章的解釋傳統（字面、象徵、基督裏應驗）、28:11-19 的所指、38–39 章的歌革，本書一律並陳而不定案；這是刻意的，需要作者決定的只是是否在日後的版本加上本書自己的立場。
 5. 老弟兄對以西結書沒有第一手材料；「老弟兄查經」各節是方法性撮述。
