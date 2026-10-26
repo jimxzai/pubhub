@@ -1,0 +1,863 @@
+% PubHub Jeremiah Deep Study Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies
+% Requires XeLaTeX for CJK support
+% Series identity: Plum/Almond/Ash palette - the almond branch that wakes first
+% (1:11-12), the ash of the burned scroll (36:23), the dusk-plum of the weeping
+% prophet. Derived from templates/pdf/nehemiah.latex (same layout machinery),
+% with the colours shifted so the two volumes are told apart on a shelf.
+%
+% Base: adapted from templates/pdf/job.latex (2026-09-03 build), itself
+% carrying forward templates/pdf/acts.latex's secnumdepth/tocdepth and
+% chaptermark machinery and templates/pdf/isaiah.latex's Hebrew-text handling,
+% hyperxmp PDF metadata block, and microtype protrusion settings.
+%
+% NOTE on font bug fix (see .claude/skills/eat-bible/SKILL.md "Gotchas"):
+% BoldFont=<Family> Bold pointing at a real separate bold font file silently
+% weakens/flattens \textbf{} for CJK text containing full-width punctuation
+% (：。), with zero warnings. Every font declaration below uses
+% BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
+
+% openright (not openany): every chapter opens on a recto (odd) page, the
+% binding convention for a printed book. It costs a handful of blank versos;
+% the copyright page declares this a printed 贈閱版, so print convention wins
+% over saving screen pages. Switch back to openany for a screen-only edition.
+\documentclass[11pt,openright]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+% CJK-safe monospace — never Menlo (zero CJK glyphs, silently renders blank boxes)
+\setmonofont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+
+%% Hebrew (and Greek, for occasional NT cross-references — e.g. Heb 7's
+%% priesthood) font support — auto-switch for Unicode blocks. Jeremiah's Word Study
+%% sections use pointed Hebrew AND Aramaic (Hebrew-block characters; Aramaic
+%% runs at 4:8-6:18 and 7:12-26), so both fixes below are load-bearing here.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge — a
+% pure legibility defect that produces zero warnings and a clean driver.sh run.
+% Same fix, same reasoning, as templates/pdf/isaiah.latex.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Latin runs keep Songti SC's own Latin glyphs — no visible change to upright
+% text — but gain a REAL italic. \setmainfont cannot supply one: its
+% ItalicFont is Kaiti SC, a Chinese brush face whose Latin glyphs are UPRIGHT,
+% so every italicised commentary title in this book would otherwise render
+% as roman with zero warnings.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek" is a class GROUP, not a block — the block is GreekAndCoptic. Feeding
+%% a group name (or a name that doesn't exist) to the 3-arg form compiles fine
+%% and does nothing, so basic Greek/Hebrew would silently fall back to
+%% Songti SC's own glyphs.
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a later
+%% declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Symptom: a Greek or Hebrew run whose PRECEDING character is CJK or
+%% full-width punctuation (：、。） silently does not switch font.
+%%
+%% FIX: \setTransitionTo sets the entering direction ONLY, so nothing can
+%% clobber anything and declaration order stops mattering.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which drops
+%% \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block this book actually contains (Hebrew Word Study boxes,
+%% occasional Greek cross-references, CJK body text, full-width punctuation).
+%% Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+% LatinExtendedAdditional -> \ucTranslitRun is set further below, near the
+% other transliteration-diacritic fixes; \ucLatinRun (Songti SC) lacks these
+% glyphs entirely, see that comment for why.
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (ḥesed U+1E25 "LatinExtendedAdditional",
+%% tsade ṣ U+1E63 "LatinExtendedAdditional", ʿayin's modifier letter U+02BF
+%% "SpacingModifierLetters") used throughout the Word Study sections.
+%%
+%% THE REAL BUG (found the hard way): ucharclasses' \XeTeXinterchartoks fires
+%% on a character's Unicode class as XeTeX's own primitive lexer processes it,
+%% which is NOT the same thing as, and fires AFTER, ordinary TeX font
+%% selection — so it overrides ANY manual font switch for a block that has a
+%% registered transition, including one from inside an explicit
+%% `{\somefont ...}` group, and even for a character produced indirectly via
+%% \symbol{<codepoint>} rather than typed literally. A \newunicodechar
+%% attempt and a manual `{\translitfont ...}`-wrapping attempt both failed
+%% against this for exactly that reason — there is no overriding
+%% ucharclasses per-character from inside its own mapped blocks. The only
+%% real fix is to make the BLOCK'S OWN mapping point at a font that has the
+%% glyphs. IPAExtensions (used elsewhere in this book's Hebrew vowel-pointing
+%% discussion) already worked fine going to \ucCJKRun and is left alone.
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}[
+  BoldFont=Kaiti SC,
+  BoldFeatures={FakeBold=1.8}
+]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Jeremiah identity: the dusk-plum of the weeping prophet, the
+%% almond-blossom rose of the watching tree, the ash of the burned scroll
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterStone}{RGB}{84,64,96}       % Dusk plum: structural colour (chapter
+                                                 % titles, headers, rules)
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared, unchanged)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary (series-shared, unchanged)
+
+% Warm accent - the almond branch, the word that is watched over (1章, 31章): rose
+\definecolor{AlmondRose}{RGB}{190,96,112}
+
+% Earth accent - the potter's clay and the ash of the scroll (18-19章, 36章)
+\definecolor{AshClay}{RGB}{122,104,88}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{HebrewBg}{RGB}{253,247,240}        % Warm cream for Hebrew word studies
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Jeremiah is not a Gospel: there is no "red letter" convention to carry over.
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+% Micro-typography for the Latin/English runs: character protrusion pulls
+% punctuation and light letterforms slightly into the margin so the right edge
+% reads optically straight. expansion=false deliberately — font expansion
+% re-renders glyphs at scaled widths, which xdvipdfmx applies unevenly to the
+% CJK TrueType faces; protrusion alone is the safe half and is where most of
+% the visible gain is. Same setting as templates/pdf/isaiah.latex, verified
+% against this exact font stack (Songti SC + FakeBold + Times New Roman Hebrew).
+\usepackage[protrusion=true,expansion=false]{microtype}
+
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterStone,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={耶利米書逐章研讀：呼召與控訴、殿與不聽、君王與假先知、安慰之書、話語與焚燒、列國與終局——五十二章經文，二十七篇研讀},
+  pdfkeywords={耶利米書, Jeremiah, 新約, 留意, 書卷與小刀, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long 註解 cells from wrapping to a few characters per line (same fix as
+% templates/pdf/isaiah.latex and templates/pdf/gospel-of-luke.latex).
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+% \cleardoublepage's inserted blank verso must be truly blank. fancyhdr's
+% \pagestyle{fancy} otherwise prints the folio on it, so an openright blank
+% came out bearing a lone page number — the one thing a blank leaf must not
+% carry. Same patch as templates/pdf/isaiah.latex.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+% Clean running heads: raw chapter/section title only, no "Chapter N." auto-label.
+% Kept in parity with templates/pdf/acts.latex's 2026-08-31 pass: secnumdepth
+% is set here (in the preamble, alongside the chapter styling it governs);
+% tocdepth is set later, immediately before \tableofcontents — see that block
+% below for why the split placement matters.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+% Number chapters only (as templates/pdf/gospel-of-john.latex): the 1-27 study-unit numbers
+% show in the TOC and PDF bookmarks; the chapter heading itself carries no "Chapter N" label.
+\setcounter{secnumdepth}{0}
+% \chaptermark only fires for NUMBERED chapters. Every \chapter* — all the front
+% matter and both appendices — leaves the mark untouched, so those pages inherit
+% the running head of whichever numbered chapter set it last: the appendices would
+% run under 「耶和華使他們歡喜」等前一章. Same fix as templates/pdf/ruth.latex.
+\makeatletter
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+\makeatother
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterStone} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterStone} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterStone} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterStone}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% COVER ART PAGE - three concentric zones: the new covenant written on the
+%% heart at the centre, the scroll around it, the nations at the rim.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterStone, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr/\sx/\sy in {south west/1/1, south east/-1/1, north west/1/-1, north east/-1/-1} {
+    \fill[ScriptureGold] ([xshift=\sx*0.42in,yshift=\sy*0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=\sx*0.58in,yshift=\sy*0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.58in]current page.\cnr) circle (0.045in);
+    \fill[AshClay]  ([xshift=\sx*0.50in,yshift=\sy*0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterStone} Three Books Deep Reading \textbullet\ Jeremiah}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 耶利米書深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 話語、眼淚、火焰、新約 \textperiodcentered\ Word, Tears, Fire, Covenant}
+
+\vspace{0.30cm}
+
+% ===== THREE CONCENTRIC ZONES: COVENANT / SCROLL / NATIONS =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Outer zone - the nations (chapters 46-51)
+  \fill[AshClay, opacity=0.16] (0,0.1) circle (1.65);
+  \draw[AshClay, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
+  % Middle zone - the scroll (chapter 36)
+  \fill[AlmondRose, opacity=0.14] (0,0.1) circle (1.15);
+  \draw[AlmondRose, line width=1.0pt, opacity=0.85] (0,0.1) circle (1.15);
+  % Inner zone - the covenant written on the heart (31:33)
+  \fill[ChapterStone, opacity=0.22] (0,0.1) circle (0.55);
+  \draw[ChapterStone, line width=1.0pt, opacity=0.9] (0,0.1) circle (0.55);
+  \node[font=\tiny,color=ChapterStone] at (0,0.1) {新約};
+  \node[font=\tiny,color=AlmondRose!80!black] at (0,0.95) {書卷};
+  \node[font=\tiny,color=AshClay!80!black]  at (0,1.42) {列國};
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{30}{36}\selectfont\bfseries\color{ChapterStone}\kaiti\selectfont 我留意保守我的話}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} I Am Watching Over My Word}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 耶利米書研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Book of Jeremiah}
+
+\vspace{0.24cm}
+% One Hebrew word only: XeTeX lays out a maqaf- or space-joined Hebrew phrase as
+% separate RTL runs in LTR order (word order and maqaf come out scrambled).
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterStone} שֹׁקֵד }\quad
+{\footnotesize\scshape\color{CommentaryBrown} “shoqed”}\quad
+{\footnotesize\bfseries\color{AlmondRose!80!black} 留意 \textperiodcentered\ 耶 1:12；31:28}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{AlmondRose!70!black}\kaiti\selectfont
+「你看得不錯；因為我留意保守我的話，使得成就。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+“You have seen well, for I am watching over My word to perform it.”}\\[0.10em]
+{\scriptsize\color{ChapterStone} 耶利米書 1:12 \textperiodcentered\ Jeremiah 1:12}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE - "全書一句話" built on Jeremiah 31:28: the same watching,
+%% first to pluck up, then to build and to plant.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterStone} 全書一句話 \textperiodcentered\ The Whole Book in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+我先前怎樣留意將他們拔出、拆毀、毀壞、傾覆、苦害，也必照樣\textbf{\color{AshClay!80!black}留意將他們建立、栽植}。\\[0.5em]
+\footnotesize\itshape
+As I have watched over them to pluck up, to break down, to overthrow, to destroy and
+to bring disaster, so I will \textbf{watch over them to build and to plant}.\\[0.4em]
+\small\color{ChapterStone} 耶利米書 31:28 \textperiodcentered\ Jeremiah 31:28
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 五十二章經文 \textperiodcentered\ 二十七篇研讀 \textperiodcentered\ 六卷 \textperiodcentered\ 話先於人，審判裏種下新約\\
+\textit{Fifty-two chapters of Jeremiah in twenty-seven studies \textperiodcentered\ six volumes \textperiodcentered\ The word comes first; the covenant is planted inside the judgment}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{3.5cm}p{1.9cm}p{6.7cm}@{}}
+\toprule
+\textbf{卷} & \textbf{研讀篇} & \textbf{在全書的展開} \\
+\midrule
+卷一：呼召與控訴 & 1-4篇 & 話先於人；先呼喚、後審判 \\
+卷二：殿與不聽 & 5-11篇 & 殿裏的講道；代求被關上，眼淚沒有關 \\
+卷三：君王與假先知 & 12-16篇 & 君王倒下；假平安；寫給被擄者的信 \\
+卷四：安慰之書 & 17-19篇 & 新約；圍城中買田 \\
+卷五：話語與焚燒 & 20-24篇 & 書卷被小刀割、被火燒，再寫、再添 \\
+卷六：列國與終局 & 25-27篇 & 審判者亦受審；約雅斤得飯食 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterStone} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一部亡國的預言，是來看神怎樣先說話、先流淚、先留後路。\\
+同一個「留意」，先用來拔出，後用來栽植；書以一個坐在王席上的被擄之君作結。\\[0.5em]
+\textit{\footnotesize
+Not a chronicle of doom: God speaks first, weeps first, and leaves a way first. The same
+watching that plucks up is the watching that plants; the book ends with an exiled king at a table.}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+{\fontsize{32}{38}\selectfont\bfseries\color{ChapterStone}\kaiti\selectfont 我留意保守我的話}\\[0.2cm]
+{\large\itshape\color{LightGray} I Am Watching Over My Word}
+
+\vspace{0.6cm}
+
+{\fontsize{22}{28}\selectfont\bfseries 耶利米書研讀}\\[0.15cm]
+{\normalsize A Study of the Book of Jeremiah}
+
+\vspace{0.5cm}
+
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+你看得不錯；因為我留意保守我的話，使得成就。\\[0.15em]
+\footnotesize You have seen well, for I am watching over My word to perform it.
+— Jeremiah 1:12
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Six-volume structure diagram. Plain centimetre coordinates, no picture-level
+% `scale` (node sizes ignore it while positions obey it).
+\begin{tikzpicture}[every node/.style={align=center}]
+  \node[font=\footnotesize\bfseries,color=ChapterStone] at (0,1.6) {全書六卷 Six Volumes, 27 Studies};
+
+  \node[draw=ChapterStone,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.9cm,font=\tiny] (v1) at (-5.0,0.7) {卷一\\呼召與控訴};
+  \node[font=\tiny,color=LightGray] at (-5.0,-0.1) {1-4};
+
+  \node[draw=AlmondRose,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.9cm,font=\tiny] (v2) at (-3.0,0.7) {卷二\\殿與不聽};
+  \node[font=\tiny,color=LightGray] at (-3.0,-0.1) {5-11};
+
+  \node[draw=AlmondRose,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.9cm,font=\tiny] (v3) at (-1.0,0.7) {卷三\\君王與假先知};
+  \node[font=\tiny,color=LightGray] at (-1.0,-0.1) {12-16};
+
+  \node[draw=AshClay,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.9cm,font=\tiny] (v4) at (1.0,0.7) {卷四\\安慰之書};
+  \node[font=\tiny,color=LightGray] at (1.0,-0.1) {17-19};
+
+  \node[draw=AshClay,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.9cm,font=\tiny] (v5) at (3.0,0.7) {卷五\\話語與焚燒};
+  \node[font=\tiny,color=LightGray] at (3.0,-0.1) {20-24};
+
+  \node[draw=ChapterStone,fill=ScriptureBg,rounded corners,minimum width=2.0cm,minimum height=0.9cm,font=\tiny] (v6) at (5.0,0.7) {卷六\\列國與終局};
+  \node[font=\tiny,color=LightGray] at (5.0,-0.1) {25-27};
+
+  \draw[->,color=ScriptureGold,thick] (v1.east) -- (v2.west);
+  \draw[->,color=ScriptureGold,thick] (v2.east) -- (v3.west);
+  \draw[->,color=ScriptureGold,thick] (v3.east) -- (v4.west);
+  \draw[->,color=ScriptureGold,thick] (v4.east) -- (v5.west);
+  \draw[->,color=ScriptureGold,thick] (v5.east) -- (v6.west);
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+% Framing quotation (Jeremiah 31:33, the covenant written on the heart)
+{\footnotesize\color{TextGray} 「我要將我的律法放在他們裏面，寫在他們心上」（耶 31:33）}
+
+\vfill
+
+{\normalsize\color{ScriptureGold}\bfseries 話先於人；審判裏種下新約；話語勝過刀與火}\\[0.1cm]
+{\footnotesize\color{LightGray} The word comes first; the covenant is planted in the judgment; the word outlasts the fire (Jer 1:12; 31:33; 36:32)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{耶利米書研讀 / Jeremiah Deep Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)，公有領域\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ Matthew Henry - Commentary on the Whole Bible\\
+\textbullet\ John Calvin - Commentaries on the Prophet Jeremiah and the Lamentations\\
+\textbullet\ G. Campbell Morgan - Living Messages of the Books of the Bible\\
+\textbullet\ John MacArthur - gty.org sermons\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\setcounter{tocdepth}{0}
+{\color{ChapterStone}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% CLOSING PAGE - the decorative bookend. The book's own back matter
+%% (99-to-revelation.md, 999-afterword.md) is supplied as ordinary
+%% markdown chapters via the body variable above.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 又添了許多相彷的話}\\[0.1cm]
+{\normalsize\itshape\color{LightGray} And Many Similar Words Were Added}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterStone} 全書六卷 \;\; Six Volumes}\\[0.3em]
+{\footnotesize\color{TextGray}
+呼召與控訴 (1-4) \textbullet\ 殿與不聽 (5-11) \textbullet\ 君王與假先知 (12-16)\\
+安慰之書 (17-19) \textbullet\ 話語與焚燒 (20-24) \textbullet\ 列國與終局 (25-27)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「他就從耶利米的口中寫了猶大王約雅敬所燒前卷上的一切話，另外又添了許多相彷的話。」}\\[0.15cm]
+{\scriptsize\color{ChapterStone} — 耶利米書 36:32}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}
