@@ -12,7 +12,7 @@ publisher: 三書精讀出版系統
 各章「歷代注疏」一節的體例說明所指的「卷末附錄」就是這一份。凡加引號並附英文原文者，均為**逐字引文**：
 本書把每一條與來源檔比對（比對忽略大小寫與標點，對用字嚴格），腳本為 `scripts/verify-song-quotes.py`。
 
-**本書區塊引文（`> "…"` 附 `> —` 出處行者）合計 215 條**（十五個單元與卷首、卷末各檔；經文區塊與配詩不算）。行文中夾帶的個別英文詞句不在這個數字之內，另由人工逐一對來源檔核過；本表與 `verify-song-quotes.py` 計的是區塊引文。下面每位注疏者的 H2 列出他的條數：
+**本書區塊引文（`> "…"` 附 `> —` 出處行者）合計 209 條**（十五個單元與卷首、卷末各檔；經文區塊與配詩不算）。行文中夾帶的個別英文詞句不在這個數字之內，另由人工逐一對來源檔核過；本表與 `verify-song-quotes.py` 計的是區塊引文。下面每位注疏者的 H2 列出他的條數：
 一張表是各章「歷代注疏」一節內的引文（每章一列），另一張表是章內其他位置與卷首各檔的引文。
 
 
@@ -52,7 +52,7 @@ publisher: 三書精讀出版系統
 
 - 版本：C. F. Keil & F. Delitzsch, *Biblical Commentary on the Old Testament*（雅歌卷，德利奇撰），經 biblehub 逐節取得，公有領域。biblehub 壓平排版，希伯來文與部分標點有損；另有 11 處 "continued…" 截斷標記（kd-03 1 處、kd-06 1 處、kd-07 2 處、kd-11 2 處、kd-12 1 處、kd-13 1 處、kd-14 2 處、kd-15 1 處），截斷處附近的 K&D 論述可能不完整
 - 來源檔：`.sources/commentary/kd-NN.txt`
-- 本書逐字引文合計：47 條（歷代注疏一節內 36 條；其他位置 11 條）
+- 本書逐字引文合計：46 條（歷代注疏一節內 36 條；其他位置 10 條）
 
 | 單元 | 雅歌 | 逐字引文（條） | 出處行（每一條一項，依在章中出現的次序；書名寫法照各章實印，並未統一） |
 |--------|----------------|----------------|------------------------------------------------------|
@@ -77,7 +77,7 @@ publisher: 三書精讀出版系統
 | 位置 | 逐字引文（條） | 出處行 |
 |----------------|----------------|------------------------------------------------------|
 | 卷首·啟示的次序 | 2 | F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 5:6；F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 8:5 |
-| 卷首·定位 | 3 | F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 1:1；同上；F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 6:13（K&D 在這裏批評的是古譯「營的舞」這種譯法；他自己的讀法是天使的雙營） |
+| 卷首·定位 | 2 | F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 1:1；F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 6:13（K&D 在這裏批評的是古譯「營的舞」這種譯法；他自己的讀法是天使的雙營） |
 | 卷首·骨幹 | 3 | F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 8:14；同上；同上 |
 | 單元 05 | 1 | F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 3:2 |
 | 單元 07 | 1 | F. Delitzsch, Biblical Commentary on the Old Testament（雅歌卷），on Song 4:12 |
@@ -88,7 +88,7 @@ publisher: 三書精讀出版系統
 
 - 版本：*The Pulpit Commentary*（雅歌卷），經 biblehub 逐節取得，公有領域
 - 來源檔：`.sources/commentary/pulpit-NN.txt`
-- 本書逐字引文合計：26 條（歷代注疏一節內 20 條；其他位置 6 條）
+- 本書逐字引文合計：25 條（歷代注疏一節內 20 條；其他位置 5 條）
 
 | 單元 | 雅歌 | 逐字引文（條） | 出處行（每一條一項，依在章中出現的次序；書名寫法照各章實印，並未統一） |
 |--------|----------------|----------------|------------------------------------------------------|
@@ -110,7 +110,7 @@ publisher: 三書精讀出版系統
 
 | 位置 | 逐字引文（條） | 出處行 |
 |----------------|----------------|------------------------------------------------------|
-| 卷首·定位 | 4 | The Pulpit Commentary, on Song 1:1；The Pulpit Commentary, on Song 1:1；The Pulpit Commentary, on Song 1:1；The Pulpit Commentary, on Song 1:4 |
+| 卷首·定位 | 3 | The Pulpit Commentary, on Song 1:1；The Pulpit Commentary, on Song 1:1；The Pulpit Commentary, on Song 1:4 |
 | 卷首·骨幹 | 1 | The Pulpit Commentary, on Song 8:14 |
 | 單元 15 | 1 | The Pulpit Commentary, on Song 8:8 |
 
@@ -119,7 +119,7 @@ publisher: 三書精讀出版系統
 
 - 版本：*The Cambridge Bible for Schools and Colleges*（雅歌卷），經 biblehub 逐節取得，公有領域；該注釋的導論與附錄不在本書的來源檔內
 - 來源檔：`.sources/commentary/cambridge-NN.txt`
-- 本書逐字引文合計：29 條（歷代注疏一節內 25 條；其他位置 4 條）
+- 本書逐字引文合計：28 條（歷代注疏一節內 25 條；其他位置 3 條）
 
 | 單元 | 雅歌 | 逐字引文（條） | 出處行（每一條一項，依在章中出現的次序；書名寫法照各章實印，並未統一） |
 |--------|----------------|----------------|------------------------------------------------------|
@@ -140,7 +140,7 @@ publisher: 三書精讀出版系統
 
 | 位置 | 逐字引文（條） | 出處行 |
 |----------------|----------------|------------------------------------------------------|
-| 卷首·定位 | 3 | Cambridge Bible for Schools and Colleges, on Song 1:1（所論的是題辭）；Cambridge Bible for Schools and Colleges, on Song 1:2-8；Cambridge Bible for Schools and Colleges, on Song 1:2 |
+| 卷首·定位 | 2 | Cambridge Bible for Schools and Colleges, on Song 1:1（所論的是題辭）；Cambridge Bible for Schools and Colleges, on Song 1:2 |
 | 卷首·骨幹 | 1 | Cambridge Bible for Schools and Colleges, on Song 8:6 |
 
 
@@ -192,7 +192,7 @@ publisher: 三書精讀出版系統
 
 - 版本：Matthew Poole, *Annotations upon the Holy Bible*（雅歌卷），經 biblehub 逐節取得，公有領域；1:1 等題辭節沒有注釋
 - 來源檔：`.sources/commentary/poole-NN.txt`
-- 本書逐字引文合計：3 條（歷代注疏一節內 1 條；其他位置 2 條）
+- 本書逐字引文合計：2 條（歷代注疏一節內 1 條；其他位置 1 條）
 
 | 單元 | 雅歌 | 逐字引文（條） | 出處行（每一條一項，依在章中出現的次序；書名寫法照各章實印，並未統一） |
 |--------|----------------|----------------|------------------------------------------------------|
@@ -202,20 +202,20 @@ publisher: 三書精讀出版系統
 
 | 位置 | 逐字引文（條） | 出處行 |
 |----------------|----------------|------------------------------------------------------|
-| 卷首·定位 | 2 | Matthew Poole, Annotations upon the Holy Bible, on Song 1:2；Matthew Poole, Annotations upon the Holy Bible, on Song 1:2 |
+| 卷首·定位 | 1 | Matthew Poole, Annotations upon the Holy Bible, on Song 1:2 |
 
 
 ## 八、巴恩斯（Albert Barnes）
 
 - 版本：Albert Barnes, *Notes on the Bible*（雅歌卷），經 biblehub 逐節取得，公有領域
 - 來源檔：`.sources/commentary/barnes-NN.txt`
-- 本書逐字引文合計：3 條（歷代注疏一節內 0 條；其他位置 3 條）
+- 本書逐字引文合計：2 條（歷代注疏一節內 0 條；其他位置 2 條）
 
 章內歷代注疏以外的位置與卷首各檔：
 
 | 位置 | 逐字引文（條） | 出處行 |
 |----------------|----------------|------------------------------------------------------|
-| 卷首·定位 | 2 | Barnes, Notes on the Bible, on Song 2:8；Barnes, Notes on the Bible, on Song 1:1（「前一種」指「歸於所羅門，作為作者」） |
+| 卷首·定位 | 1 | Barnes, Notes on the Bible, on Song 2:8 |
 | 單元 14 | 1 | Barnes, Notes on the Bible, on Song 8:5 |
 
 
@@ -223,13 +223,9 @@ publisher: 三書精讀出版系統
 
 - 版本：Joseph Benson, *Commentary on the Old and New Testaments*（雅歌卷），經 biblehub 逐節取得，公有領域
 - 來源檔：`.sources/commentary/benson-NN.txt`
-- 本書逐字引文合計：1 條（歷代注疏一節內 0 條；其他位置 1 條）
+- 本書逐字引文合計：0 條（歷代注疏一節內 0 條；其他位置 0 條）
 
-章內歷代注疏以外的位置與卷首各檔：
-
-| 位置 | 逐字引文（條） | 出處行 |
-|----------------|----------------|------------------------------------------------------|
-| 卷首·定位 | 1 | Benson, Commentary on the Old and New Testaments, on Song 1:1 |
+（本書沒有這一家的逐字引文；若他處提及，皆為不加引號的轉述。）
 
 
 ## 十、日內瓦聖經注釋（Geneva Study Bible）
@@ -408,7 +404,7 @@ publisher: 三書精讀出版系統
 *（本節為手寫：由本腳本內的固定文字輸出，不是從各章讀回；內容若與各章不符，以各章與來源檔為準。）*
 
 
-- `scripts/verify-song-quotes.py`：逐條比對每一條 `> "…"` 英文引文與其出處所屬來源家族的全部檔案。本書逐字引文合計 215 條（見上），核對時無 MISS。該腳本只掃檔名以數字起頭的檔，`elder-wong-systematic-study.md` 不在其內（該檔沒有加引號的英文區塊）。
+- `scripts/verify-song-quotes.py`：逐條比對每一條 `> "…"` 英文引文與其出處所屬來源家族的全部檔案。本書逐字引文合計 209 條（見上），核對時無 MISS。該腳本只掃檔名以數字起頭的檔，`elder-wong-systematic-study.md` 不在其內（該檔沒有加引號的英文區塊）。
 - 這個核對只證明**引句是來源檔的子字串**，不證明該句的「出處行」寫對了卷、節或篇號，也不證明本書對它的理解正確；這兩件事靠獨立校對。
 - 司布真與戴德生的檔是現代化排印本，引句與十九世紀原印本可能有拼寫與人稱的差別。
 - `scripts/check-citation-ledger.py` 以 `--attr 名稱=正則`（每位注疏者一個，例如 `--attr "紀爾=Gill"`）核對上列各章「歷代注疏」一節內的列是否與各章相符；不帶 `--attr` 時它只核對摩根與麥克阿瑟（兩者本書各章都沒有引文）。

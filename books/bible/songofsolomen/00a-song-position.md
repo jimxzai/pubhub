@@ -8,8 +8,7 @@ publisher: 三書精讀出版系統
 
 # 雅歌的位置 (Where the Song Stands)
 
-> 讀一卷書之前，先要知道它站在哪裏。這一章回答五個問題：
-> **它在正典裏站在哪裏？是誰寫的、甚麼時候寫的？這首詩到底怎樣讀——本書手邊的注疏者各自怎樣說？它的結構與講者怎樣分？還有哪些地方，注疏者自己也說不準，本書如何處理？**
+> 讀一卷書之前，先要知道它站在哪裏。這一章依次問：**它在正典裏的位置、作者與年代、怎樣讀、結構與講者，以及注疏者自己也說不準的難點，本書怎樣處理。**
 
 ---
 
@@ -25,7 +24,7 @@ publisher: 三書精讀出版系統
 
 ### 兩種排列
 
-和合本（與本庫書卷目錄，見書卷目錄 README「诗歌智慧书」一行）把約伯記、詩篇、箴言、傳道書、雅歌排成一組，雅歌在最後。傳統希伯來聖經的排法不同。JFB 說雅歌是五卷（megilloth）之一，並記下猶太人對「聖卷」（Cetubim）的排列：
+和合本（與本庫書卷目錄）把約伯記、詩篇、箴言、傳道書、雅歌排成一組，雅歌在最後。傳統希伯來聖經的排法不同。JFB 說雅歌是五卷（megilloth）之一，並記下猶太人對「聖卷」（Cetubim）的排列：
 
 > "It is one of the five volumes (megilloth) placed immediately after the Pentateuch in manuscripts of the Jewish Scriptures. It is also fourth of the Hagiographa (Cetubim, writings) or the third division of the Old Testament"
 >
@@ -39,12 +38,9 @@ publisher: 三書精讀出版系統
 >
 > — 同上
 
-| 排列 | 雅歌前面是 | 雅歌後面是 | 出處 |
-|------------------|----------------------|----------------------|------------------------------|
-| JFB 所錄的一種猶太排列（聖卷） | 約伯記 | 路得記 | JFB（上引）；別的猶太排列，本書存檔沒有記載 |
-| 和合本（本庫目錄） | 傳道書 | （詩歌智慧書的最後一卷） | 書卷目錄 README；和合本的卷序 |
+依 JFB 所錄的這一種猶太排列，雅歌前面是約伯記、後面是路得記；別的猶太排列，本書存檔沒有記載。
 
-「五小卷」（雅歌、路得記、耶利米哀歌、傳道書、以斯帖記）是本庫路得記與以斯帖記的〈位置〉章所用的名稱（路得記與以斯帖記兩卷的〈位置〉章），那兩章也記了路得記與以斯帖記在會堂的誦讀節期。**雅歌在會堂的誦讀節期，本書手邊的注疏檔只有一句推測**：巴恩斯在 2:8 的注裏說，這首春天的歌，也許就是會堂在逾越節誦讀它的緣故：
+「五小卷」（雅歌、路得記、耶利米哀歌、傳道書、以斯帖記）是本庫路得記與以斯帖記兩卷〈位置〉章所用的名稱，那兩章也記了各自在會堂的誦讀節期。**雅歌的誦讀節期，本書手邊的注疏檔只有一句推測**：巴恩斯在 2:8 的注裏說，這首春天的歌，也許就是會堂在逾越節誦讀它的緣故：
 
 > "Hence, perhaps, the annual recitation of the Song of Songs by the synagogue with each return of spring, at the Feast of Passover"
 >
@@ -52,7 +48,7 @@ publisher: 三書精讀出版系統
 >
 > — Barnes, *Notes on the Bible*, on Song 2:8
 
-這是巴恩斯的推測（"perhaps"），不是對會堂規定的記載；本書不替它作證，也不寫拉比的其他說法。
+這是巴恩斯的推測（"perhaps"），不是對會堂規定的記載；本書不替它作證。
 
 ### 它是怎樣進入正典的
 
@@ -80,7 +76,7 @@ JFB 對正典地位的說法：
 >
 > — 同上
 
-這兩點不是本書的結論，是亨利的觀察；本書手邊另有一句相關的話：摩根轉述 Adeney（*Expositor's Bible*）的看法，說 "New Testament writers make no use of the poem in this way"（新約作者並沒有這樣使用這首詩——指用它來說明基督與教會的關係；這比「新約從不引用」窄），摩根不同意這個論點的分量，但沒有否認這句話所說的事實（摩根，*The Analyzed Bible* vol. II，p. 65）。本書存檔沒有相反的說法，所以記作「通說」。它也是本書分「直接」與「間接」的理由：既然（通說）新約沒有明引過雅歌，**把雅歌的某一節對上基督某一個作為，一律是間接的**；有人把啟 3:20 與歌 5:2 並讀（見〈啟示的次序〉），那是並讀，不是引用。至於「沒有神的名字」，8:6 的 שַׁלְהֶבֶתְיָה 是否含有 יָהּ （耶和華的簡稱），注疏者的譯法不同（見第六節）。
+這兩點不是本書的結論，是亨利的觀察；本書手邊另有一句相關的話：摩根轉述 Adeney（*Expositor's Bible*）的看法，說 "New Testament writers make no use of the poem in this way"（新約作者並沒有這樣使用這首詩——指用它來說明基督與教會的關係；這比「新約從不引用」窄），摩根不同意這個論點的分量，但沒有否認這句話所說的事實（摩根，*The Analyzed Bible* vol. II，p. 65）。本書存檔沒有相反的說法，所以記作「通說」。它也是本書分「直接」與「間接」的理由：既然（通說）新約沒有明引過雅歌，**把雅歌的某一節對上基督某一個作為，一律是間接的**；有人把啟 3:20 與歌 5:2 並讀（見〈啟示的次序〉），那是並讀，不是引用。「沒有神的名字」一點，見第六節。
 
 ### 所羅門的三卷書
 
@@ -100,12 +96,6 @@ JFB 對正典地位的說法：
 
 兩個比喻的次序不同，但雅歌都在最上面；本書把它們當作**歷代的評價**，不當作經文自己的主張。
 
-書卷也與所羅門的歌數有關。王上 4:32（取自 ai-eden 和合本）說：
-
-> 他作箴言三千句，詩歌一千零五首。
-
-艾利考特提到這一節，是為了排除一種讀法：把書名讀成「所羅門一千零五首歌中的一首」（見下節）。
-
 ---
 
 ## 二、書名、作者與年代
@@ -117,9 +107,9 @@ JFB 對正典地位的說法：
 | 注疏者 | 作者 | 對「所羅門的」的說法 | 備註 |
 |--------------|----------------|--------------------------------------|------------------------------|
 | 紀爾（Gill） | 所羅門 | 兼取兩義：作者，與「論及所羅門」；他把後者讀成基督 | 說猶太人以為出自希西家和他的人，他不同意 |
-| 本森（Benson） | 隱含所羅門（未指名） | 說作者是 "a great prince, and the wisest of all mortal men"；但「所論的」不是所羅門，是比所羅門更大的基督 | 見下引文 |
-| 巴恩斯（Barnes） | 所羅門 | 字面是「歸於／為了所羅門」，可指作者，也可指所論的人；題辭裏前一種較可取 | 見下引文 |
-| 凱爾與德利奇（K&D） | 所羅門本人 | 作者之 ל （lamed auctoris）；「論及」要用 על，不是 ל | 說題辭「甚至可以設想」出自作者本人；另一方面，題辭用長形 אֲשֶׁר 而書內多用 שֶׁ，並不利於這一點，他以耶利米在預言書與哀歌用字不同為例作解釋 |
+| 本森（Benson） | 隱含所羅門（未指名） | 說作者是 "a great prince, and the wisest of all mortal men"；但「所論的」不是所羅門，是比所羅門更大的基督（"a greater than Solomon, even Christ"） | |
+| 巴恩斯（Barnes） | 所羅門 | 字面是「歸於／為了所羅門」，可指作者，也可指所論的人；題辭裏前一種（作者）較可取 | |
+| 凱爾與德利奇（K&D） | 所羅門本人 | 作者之 ל （lamed auctoris）；「論及」要用 על，不是 ל | 說題辭「甚至可以設想」（"We may even suppose"）出自作者本人；另一方面，題辭用長形 אֲשֶׁר 而書內多用 שֶׁ，並不利於這一點，他以耶利米在預言書與哀歌用字不同為例作解釋 |
 | 《講壇釋經》（Pulpit） | 所羅門 | 作者之 ל；這是「大多數批評者」的看法 | 說題辭本身「出自這位智慧的王自己，或出自他同時代的人」，或他的直接繼承者（《講壇釋經》，1:1 注）；題辭用的 אֲשֶׁר 不能作為斷代的證據 |
 | 艾利考特（Ellicott） | （1:1 注只釋題辭字面，未下斷語） | 把題辭字面釋為 "which to Solomon, i.e., of which Solomon is author"，隨即說「作者與年代的問題，見 Excursus I」 | 他對作者的斷語在 Excursus I，**本書的存檔沒有**，所以本書不把他算進主張或反對所羅門為作者的任何一邊 |
 | 劍橋聖經（Cambridge） | （不在 1:1 的注裏明說） | 說題辭「大概出自比作者稍晚的人手」 | 詳論在它的 Introduction §1，**本書的存檔沒有** |
@@ -135,29 +125,11 @@ JFB 對正典地位的說法：
 >
 > — John Gill, *Exposition of the Entire Bible*, on Song 1:1
 
-> "or the subject of it, which is not Solomon, but a greater than Solomon, even Christ, and his marriage with the church"
->
-> 「或論它的主題，那不是所羅門，而是比所羅門更大的，就是基督，和他與教會的婚姻。」
->
-> — Benson, *Commentary on the Old and New Testaments*, on Song 1:1
-
-> "In a title or inscription, the former interpretation is to be preferred."
->
-> 「在題名或題辭裏，前一種解釋較可取。」
->
-> — Barnes, *Notes on the Bible*, on Song 1:1（「前一種」指「歸於所羅門，作為作者」）
-
 > "then Lamed with the name of a person foll. is always the Lamed auctoris"
 >
 > 「那麼，後面跟著人名的 ל，總是作者之 ל。」
 >
 > — F. Delitzsch, *Biblical Commentary on the Old Testament*（雅歌卷），on Song 1:1
-
-> "We may even suppose that the superscription was written by the author, and thus by Solomon himself."
->
-> 「我們甚至可以設想，題辭是作者寫的，也就是所羅門自己。」
->
-> — 同上
 
 > "It must have come either from the wise king himself, or from some one of his contemporaries or immediate successors."
 >
@@ -171,7 +143,7 @@ JFB 對正典地位的說法：
 >
 > — *Cambridge Bible for Schools and Colleges*, on Song 1:1（所論的是題辭）
 
-十家裏，主張所羅門為作者的是紀爾、波爾、巴恩斯、K&D、《講壇釋經》（本森只說作者是 "a great prince, and the wisest of all mortal men"，沒有指名，隱含所羅門）；劍橋聖經只說題辭晚於作者；艾利考特只把題辭字面釋為「of which Solomon is author」，他的斷語在 Excursus I，存檔缺；JFB 與日內瓦在這一節沒有可比較的話。**書的年代**：K&D 說題辭用較長的 אֲשֶׁר、書內卻都用 שֶׁ，這一點不利於「題辭出自作者本人」，他以耶利米在預言書與哀歌用字不同為例，並稱 שֶׁ 是古迦南語；《講壇釋經》則說這個簡短形式在被擄之後的散文才通行，但此前並非不見，所以不能憑這個詞斷代。艾利考特與劍橋聖經的年代論證在各自的附論與導論裏，**本書的存檔沒有**，所以無法與上述幾家並排。本書的每一章，讀法不倚賴作者是誰，只倚賴這首歌自己說了甚麼。
+十家裏，主張所羅門為作者的是紀爾、波爾、巴恩斯、K&D、《講壇釋經》（本森只說作者是 "a great prince, and the wisest of all mortal men"，沒有指名，隱含所羅門）；劍橋聖經只說題辭晚於作者；艾利考特只把題辭字面釋為「of which Solomon is author」，他的斷語在 Excursus I，存檔缺；JFB 與日內瓦在這一節沒有可比較的話。艾利考特與劍橋聖經的年代論證在各自的附論與導論裏，**本書的存檔沒有**，無法與上述幾家並排。本書的每一章，讀法不倚賴作者是誰，只倚賴這首歌自己說了甚麼。
 
 ---
 
@@ -218,14 +190,6 @@ JFB 並且把門檻放得很高（這段緊接在 JFB 的 "Rosenmuller justly sa
 >
 > — *Geneva Study Bible*, on Song 1:2
 
-字面讀這一邊，《講壇釋經》說：
-
-> "the love of the great king for one of his own subjects, a lovely northern maiden"
->
-> 「大君王對他自己的一個臣民、一位可愛的北方少女的愛。」
->
-> — *The Pulpit Commentary*, on Song 1:1
-
 摩根在 1907 年的一小段導論，是這種分歧最直接的見證，也是本書自己的次序最接近的一句話（OCR 稿有錯字，下面只引清楚的句子）：
 
 > "NO book has been more provocative of controversy than this."
@@ -246,7 +210,7 @@ JFB 並且把門檻放得很高（這段緊接在 JFB 的 "Rosenmuller justly sa
 >
 > — G. Campbell Morgan, *The Analyzed Bible*, vol. II (1907), p. 66（摩根的結語）
 
-本書採用的次序與摩根相近（先當作人間的愛，再按屬靈的愛），但他還說「所羅門並無意說明基督與教會的關係，這個事實無關緊要」（"The fact that Solomon had no intention of setting forth the relation between Christ and His Church is of no moment"，同上，p. 65）；這一點本書**不跟隨**，「作者無意」是否「無關緊要」，本書不下判斷。本書只守一條規矩：經文自己說了的（弗 5:32），標為直接；其餘標為間接，由讀者自己衡量。
+本書採用的次序與摩根相近（先當作人間的愛，再按屬靈的愛），但他還說「所羅門並無意說明基督與教會的關係，這個事實無關緊要」（"The fact that Solomon had no intention of setting forth the relation between Christ and His Church is of no moment"，同上，p. 65）；這一點本書**不跟隨**，「作者無意」是否「無關緊要」，本書不下判斷。
 
 ---
 
@@ -256,19 +220,13 @@ JFB 並且把門檻放得很高（這段緊接在 JFB 的 "Rosenmuller justly sa
 
 | 說法 | 內容 | 本書存檔裏的持此說者與原文 |
 |--------------------|----------------------------------|----------------------------------|
-| 戲劇（三個人物） | 書拉密女、她的牧羊人情人、王所羅門；故事發生在王的宮中 | 劍橋聖經 |
+| 戲劇（三個人物） | 書拉密女、她的牧羊人情人、王所羅門；故事發生在王的宮中 | 劍橋聖經（說 1:2-8 是 "the first scene from the life of the heroine called the Shulammite"） |
 | 戲劇化的歷史（王與一位少女） | 王所愛的少女，歷史事實在背景裏 | K&D；《講壇釋經》（但不說有嚴格的戲劇） |
 | 不取戲劇說 | 不依戲劇進程；愛的詩歌 | 《講壇釋經》（「沒有戲劇的進程」）；艾利考特對戲劇說持保留（見下引文） |
 | 一篇統一的寓意詩 | 全書是一個整體，不是許多獨立的情詩；反覆出現的同樣語句證明它的統一 | JFB（"The unity of subject throughout, and the recurrence of the same expressions … prove the unity of the poem"，JFB 導論，1:1） |
-| 牧歌（idyls）加背後的求愛故事 | 詩的排列不是歷史順序，背後有一個故事 | 摩根（說是「idyls」，背後有求愛、贏得新婦的故事）；波爾只說開頭「abrupt，看似無序」（見下引文），沒有提出詩集說 |
+| 牧歌（idyls）加背後的求愛故事 | 詩的排列不是歷史順序，背後有一個故事 | 摩根（說是「idyls」，背後有求愛、贏得新婦的故事）；波爾只說開頭 "abrupt"、看似無序，沒有提出詩集說 |
 
 幾條原文：
-
-> "The first scene from the life of the heroine called the Shulammite is contained in these verses."
->
-> 「這幾節裏包含了這位被稱為書拉密女的女主角生活的第一個場景。」
->
-> — *Cambridge Bible for Schools and Colleges*, on Song 1:2-8
 
 > "there is no dramatic procedure, nor can we suppose that there is any ultimate aim at dramatic representation."
 >
@@ -282,12 +240,6 @@ JFB 並且把門檻放得很高（這段緊接在 JFB 的 "Rosenmuller justly sa
 >
 > — Ellicott, *Commentary for English Readers*, on Song 1:4
 
-> "The beginning of this book is abrupt, and may seem disorderly"
->
-> 「這卷書的開頭很突然，看起來可能無序。」
->
-> — Matthew Poole, *Annotations upon the Holy Bible*, on Song 1:2
-
 > "these songs are idyls, and that behind them is the actual story of the wooing and winning of a bride"
 >
 > 「這些歌是牧歌（idyls），而在它們背後，是一個求愛、贏得新婦的真實故事。」
@@ -296,9 +248,9 @@ JFB 並且把門檻放得很高（這段緊接在 JFB 的 "Rosenmuller justly sa
 
 ### 摩根的綱要（據可辨認的部分）
 
-摩根在導論之前附了一份講者與段落的綱要表。本書所存的 OCR 稿，表格已嚴重損壞（行序打散、羅馬數字常被讀成別的字母），所以只收可辨認的大標題與範圍：**一、The Marriage**（1:1–2:7）；**二、The Betrothal**（2:8–7:9，含 4:1-15 的 The Proposal、4:16 的 The Acceptance、5:2–6:3 的 "The Maiden's troubled Dream"、6:4–7:9 所羅門的 "His Musing"）；**三、The United Life**（7:10–8:14，新娘 "Her desire to visit her home with her Bridegroom"，8:6-12 多歸新娘）。節數若與經文對不上，以經文為準。
+摩根在導論之前附了一份講者與段落的綱要表。本書所存的 OCR 稿，表格嚴重損壞，只收可辨認的大標題與範圍：**一、The Marriage**（1:1–2:7）；**二、The Betrothal**（2:8–7:9，含 4:1-15 的 The Proposal、4:16 的 The Acceptance、5:2–6:3 的 "The Maiden's troubled Dream"、6:4–7:9 所羅門的 "His Musing"）；**三、The United Life**（7:10–8:14，新娘 "Her desire to visit her home with her Bridegroom"）。節數若與經文對不上，以經文為準。
 
-摩根的分法與本書有三處不同：他的三大段依故事線（The Marriage／The Betrothal／The United Life），本書的四卷依書裏反覆出現的記號；他把 3:6-11 歸給一位「The Singer」（歌者），把 4:1-15 歸給所羅門，這與劍橋聖經的「牧羊人情人」說不同，與 K&D 的「王與少女」說相近；他把 8:6-12 多歸新娘（8-9 節是兄弟的話的引述，10-12 節是新娘的回答），這一點見下一節的 8:11-12。
+摩根的分法與本書有三處不同：他的三大段依故事線（The Marriage／The Betrothal／The United Life），本書的四卷依書裏反覆出現的記號；他把 3:6-11 歸給一位「The Singer」（歌者），把 4:1-15 歸給所羅門，這與劍橋聖經的「牧羊人情人」說不同，與 K&D 的「王與少女」說相近；他把 8:6-12 多歸新娘（8-9 節是兄弟的話的引述，10-12 節是新娘的回答）。
 
 ---
 
@@ -347,23 +299,18 @@ JFB 並且把門檻放得很高（這段緊接在 JFB 的 "Rosenmuller justly sa
 
 **1:4。** K&D 的讀法見第 1 單元〈歷代注疏〉。
 
-**1:8。** 劍橋聖經把這一節歸給宮中女子，說她們是 "ironically"（帶諷刺地）回答（on Song 1:2-8）；這個讀法預設了劇情（牧羊人情人與王的對立），不倚賴這個預設的讀者，仍可把 1:8 讀成她所愛的人對她的回答。
+**1:8。** 劍橋聖經把這一節歸給宮中女子，說她們是 "ironically"（帶諷刺地）回答（on Song 1:2-8）；這個讀法預設了劇情，不倚賴這個預設的讀者，仍可把它讀成她所愛的人的回答。
 
 ---
 
 ## 六、難點與本書的處理
 
-下表把最大的幾處難點列在一起。每一列的最後一欄，是**本書的決定**；若某處最後是「留著不動」，就是真的留著不動。
+下表把前面尚未談到的難點列在一起。每一列的最後一欄，是**本書的決定**；若某處最後是「留著不動」，就是真的留著不動。
 
 | 難點 | 注疏者怎麼說（本書存檔） | 本書的處理 |
 |----------------------|----------------------------------------------|----------------------------------|
-| 作者與年代 | 見第二節：紀爾、波爾、巴恩斯、K&D、《講壇釋經》取所羅門（本森隱含）；劍橋聖經說題辭較晚；艾利考特的斷語與劍橋聖經的年代論證在各自的附論與導論裏，存檔缺 | 每章讀法不倚賴作者是誰 |
-| 雅歌怎樣讀 | 見第三節：從字面到寓意，光譜很寬；JFB（緊接 "Rosenmuller justly says" 之後）說若只是人間的愛，"never would have been inserted in the holy canon"（決不會被收入聖經正典）；摩根說任何一種方法都不能窮盡 | 兩讀並陳：字面、直接的類比、歷代寓意，分層寫，不互相取代 |
-| 全書沒有神的名字 | 亨利列為難處：「沒有神的名字」；8:6 的 שַׁלְהֶבֶתְיָה，K&D 譯作 "A flame of Jah"，《講壇釋經》所錄的經文作 "a very flame of the Lord" | 第 14 單元並陳；不替它定案，不把「全書唯一神名」寫成確定 |
-| 新約不引用雅歌 | 亨利：「它在新約裏從來沒有被引用」（通說，本書存檔沒有相反的說法） | 基督連結分「直接」（婚姻的類比，弗 5:32）與「間接」（其餘一律） |
-| 誰在說話 | 見第五節：十四處經文未標明 | 一律標「經文未標明」，並陳注疏者的歸屬 |
-| 6:12 與 6:13 | 艾利考特稱 6:11-13 為 "this obscure passage in its entirety"，另有附論（本書存檔缺）；K&D 批評古譯把 6:13 的「瑪哈念」譯成「營的舞」，使人「不確定指的是戰舞還是遊行」，並主張它是雙數，指天使的雙營（創 32:3, 8）；JFB 先說 Ammi-nadib「被認為是以疾駛著稱的人」（"supposed to me one proverbial for swift driving"，存檔原文如此，"me" 顯為 "be" 之誤），隨即說「Rather」，改讀為「我願意的百姓」（詩 110:3），或讀為君王耶穌基督（詩 68:17） | 第 11 單元如實列出，不寫得確定 |
-| 逐項寓意 | 紀爾、亨利、戴德生、司布真與伯爾拿多有逐項對號 | 如實轉述、標明誰說的，**不採**（理由：經文沒有給這個根據；見各章〈歷代注疏〉） |
+| 全書沒有神的名字 | 亨利列為難處（見第一節）；8:6 的 שַׁלְהֶבֶתְיָה，K&D 譯作 "A flame of Jah"，《講壇釋經》所錄的經文作 "a very flame of the Lord" | 第 14 單元並陳；不替它定案，不把「全書唯一神名」寫成確定 |
+| 6:12 與 6:13 | 艾利考特稱 6:11-13 為晦澀的整段，另有附論（本書存檔缺）；K&D 批評古譯「營的舞」，主張 6:13 的「瑪哈念」是雙數，指天使的雙營（創 32:3, 8）（原句見下）；JFB 先說 Ammi-nadib「被認為是以疾駛著稱的人」（"supposed to me one proverbial for swift driving"，存檔原文如此，"me" 顯為 "be" 之誤），隨即說「Rather」，改讀為「我願意的百姓」（詩 110:3），或讀為君王耶穌基督（詩 68:17） | 第 11 單元如實列出，不寫得確定 |
 | 身體的頌詞（4:1-15；5:10-16；7:1-9） | 《講壇釋經》說：愛的語言是「貞潔、純淨、細膩」的 | 本書依經文的語言說，不迴避也不渲染；不逐項釋身體部位的意義 |
 | 和合本的「他／她」 | fhl 與 cnbible 在 6:9、8:8、8:9 作「她」，和合本原文作「他」 | 保留 ai-eden 的「他」；行文解說時寫明所指是女子，不把「她」誤當和合本原文 |
 | 專名譯名 | ai-eden：利巴嫩、大馬色；fhl 與 cnbible：黎巴嫩、大馬士革 | 經文區塊與行文引經一律依 ai-eden |
