@@ -1,0 +1,860 @@
+% PubHub Ezekiel Deep Study Template
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies
+% Requires XeLaTeX for CJK support
+% Series identity: Sapphire/Amber/Fire palette - the sapphire throne by the river
+% Chebar (1:26), the amber of the glory (1:4, 27), and the fire that surrounds it.
+% Derived from templates/pdf/ezra.latex (2026-10-25), which see for the font,
+% chaptermark and hyperxmp machinery.
+%
+% Base: adapted from templates/pdf/job.latex (2026-09-03 build), itself
+% carrying forward templates/pdf/acts.latex's secnumdepth/tocdepth and
+% chaptermark machinery and templates/pdf/isaiah.latex's Hebrew-text handling,
+% hyperxmp PDF metadata block, and microtype protrusion settings.
+%
+% NOTE on font bug fix (see .claude/skills/eat-bible/SKILL.md "Gotchas"):
+% BoldFont=<Family> Bold pointing at a real separate bold font file silently
+% weakens/flattens \textbf{} for CJK text containing full-width punctuation
+% (：。), with zero warnings. Every font declaration below uses
+% BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
+
+% openright (not openany): every chapter opens on a recto (odd) page, the
+% binding convention for a printed book. It costs a handful of blank versos;
+% the copyright page declares this a printed 贈閱版, so print convention wins
+% over saving screen pages. Switch back to openany for a screen-only edition.
+\documentclass[11pt,openright]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+% CJK-safe monospace — never Menlo (zero CJK glyphs, silently renders blank boxes)
+\setmonofont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+
+%% Hebrew (and Greek, for occasional NT cross-references — e.g. Heb 7's
+%% priesthood) font support — auto-switch for Unicode blocks. Ezekiel's Word Study
+%% sections use pointed Hebrew AND Aramaic (Hebrew-block characters; Aramaic
+%% runs at 4:8-6:18 and 7:12-26), so both fixes below are load-bearing here.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge — a
+% pure legibility defect that produces zero warnings and a clean driver.sh run.
+% Same fix, same reasoning, as templates/pdf/isaiah.latex.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Latin runs keep Songti SC's own Latin glyphs — no visible change to upright
+% text — but gain a REAL italic. \setmainfont cannot supply one: its
+% ItalicFont is Kaiti SC, a Chinese brush face whose Latin glyphs are UPRIGHT,
+% so every italicised commentary title in this book would otherwise render
+% as roman with zero warnings.
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}
+]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek" is a class GROUP, not a block — the block is GreekAndCoptic. Feeding
+%% a group name (or a name that doesn't exist) to the 3-arg form compiles fine
+%% and does nothing, so basic Greek/Hebrew would silently fall back to
+%% Songti SC's own glyphs.
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a later
+%% declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Symptom: a Greek or Hebrew run whose PRECEDING character is CJK or
+%% full-width punctuation (：、。） silently does not switch font.
+%%
+%% FIX: \setTransitionTo sets the entering direction ONLY, so nothing can
+%% clobber anything and declaration order stops mattering.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which drops
+%% \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block this book actually contains (Hebrew Word Study boxes,
+%% occasional Greek cross-references, CJK body text, full-width punctuation).
+%% Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+% LatinExtendedAdditional -> \ucTranslitRun is set further below, near the
+% other transliteration-diacritic fixes; \ucLatinRun (Songti SC) lacks these
+% glyphs entirely, see that comment for why.
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (ḥesed U+1E25 "LatinExtendedAdditional",
+%% tsade ṣ U+1E63 "LatinExtendedAdditional", ʿayin's modifier letter U+02BF
+%% "SpacingModifierLetters") used throughout the Word Study sections.
+%%
+%% THE REAL BUG (found the hard way): ucharclasses' \XeTeXinterchartoks fires
+%% on a character's Unicode class as XeTeX's own primitive lexer processes it,
+%% which is NOT the same thing as, and fires AFTER, ordinary TeX font
+%% selection — so it overrides ANY manual font switch for a block that has a
+%% registered transition, including one from inside an explicit
+%% `{\somefont ...}` group, and even for a character produced indirectly via
+%% \symbol{<codepoint>} rather than typed literally. A \newunicodechar
+%% attempt and a manual `{\translitfont ...}`-wrapping attempt both failed
+%% against this for exactly that reason — there is no overriding
+%% ucharclasses per-character from inside its own mapped blocks. The only
+%% real fix is to make the BLOCK'S OWN mapping point at a font that has the
+%% glyphs. IPAExtensions (used elsewhere in this book's Hebrew vowel-pointing
+%% discussion) already worked fine going to \ucCJKRun and is left alone.
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}[
+  BoldFont=Kaiti SC,
+  BoldFeatures={FakeBold=1.8}
+]
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Ezekiel identity: the sapphire of the throne (1:26), the amber
+%% of the glory (1:4), the fire of the vision. Colour NAMES are kept from ezra.latex
+%% so every macro below keeps working; only the values differ.
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors
+\definecolor{ChapterStone}{RGB}{38,66,112}      % Warm stone / terracotta brown: structural
+                                                 % colour (chapter titles, headers, rules)
+                                                 % for the temple foundation laid in 3章
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared, unchanged)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary (series-shared, unchanged)
+
+% Warm accent - the return and the road (1-3章, 7-8章): amber
+\definecolor{ReturnAmber}{RGB}{196,130,30}
+
+% Earth accent - the register and the confession (2章, 10章): clay
+\definecolor{HandClay}{RGB}{158,56,40}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
+\definecolor{HebrewBg}{RGB}{253,247,240}        % Warm cream for Hebrew word studies
+\definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Ezekiel is not a Gospel: there is no "red letter" convention to carry over.
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Vine decoration command
+\newcommand{\vinedecor}[1]{%
+\begin{tikzpicture}[scale=0.6]
+  \draw[color=ScriptureGold,line width=0.8pt,decorate,decoration={snake,amplitude=1pt,segment length=8pt}]
+    (0,0) -- (#1,0);
+  \foreach \x in {0.3,0.8,1.3,1.8,2.3} {
+    \draw[color=ScriptureGold,line width=0.5pt] (\x,0) .. controls (\x+0.1,0.15) and (\x+0.2,0.15) .. (\x+0.25,0.05);
+  }
+\end{tikzpicture}%
+}
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+% Micro-typography for the Latin/English runs: character protrusion pulls
+% punctuation and light letterforms slightly into the margin so the right edge
+% reads optically straight. expansion=false deliberately — font expansion
+% re-renders glyphs at scaled widths, which xdvipdfmx applies unevenly to the
+% CJK TrueType faces; protrusion alone is the safe half and is where most of
+% the visible gain is. Same setting as templates/pdf/isaiah.latex, verified
+% against this exact font stack (Songti SC + FakeBold + Times New Roman Hebrew).
+\usepackage[protrusion=true,expansion=false]{microtype}
+
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterStone,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={以西結書逐章研讀：榮耀離開、榮耀回來、耶和華的所在——四十八章經文，三十四篇研讀},
+  pdfkeywords={以西結書, Ezekiel, 榮耀, 被擄, 枯骨, 新殿, 耶和華的所在, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long 註解 cells from wrapping to a few characters per line (same fix as
+% templates/pdf/isaiah.latex and templates/pdf/gospel-of-luke.latex).
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+% \cleardoublepage's inserted blank verso must be truly blank. fancyhdr's
+% \pagestyle{fancy} otherwise prints the folio on it, so an openright blank
+% came out bearing a lone page number — the one thing a blank leaf must not
+% carry. Same patch as templates/pdf/isaiah.latex.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+% Clean running heads: raw chapter/section title only, no "Chapter N." auto-label.
+% Kept in parity with templates/pdf/acts.latex's 2026-08-31 pass: secnumdepth
+% is set here (in the preamble, alongside the chapter styling it governs);
+% tocdepth is set later, immediately before \tableofcontents — see that block
+% below for why the split placement matters.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\setcounter{secnumdepth}{-1}
+% \chaptermark only fires for NUMBERED chapters. Every \chapter* — all the front
+% matter and both appendices — leaves the mark untouched, so those pages inherit
+% the running head of whichever numbered chapter set it last: the appendices would
+% run under 「耶和華使他們歡喜」等前一章. Same fix as templates/pdf/ruth.latex.
+\makeatletter
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+\makeatother
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterStone} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterStone} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterStone} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterStone}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+%% ============================================
+%% COVER ART PAGE - three concentric zones: the glory of the LORD at the centre,
+%% the temple around it, the land of exile at the rim.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterStone, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  \foreach \cnr in {south west, south east, north west, north east} {
+    \fill[ScriptureGold] ([xshift=0.42in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.58in,yshift=0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.58in]current page.\cnr) circle (0.045in);
+    \fill[HandClay]  ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=0.50in,yshift=0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterStone} Three Books Deep Reading \textbullet\ Ezekiel}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 以西結書深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 榮耀離開，榮耀回來 \textperiodcentered\ The Glory Departs, the Glory Returns}
+
+\vspace{0.30cm}
+
+% ===== THREE CONCENTRIC ZONES: GLORY / TEMPLE / EXILE =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Outer zone - the land of exile (1-3, 33-39)
+  \fill[HandClay, opacity=0.16] (0,0.1) circle (1.65);
+  \draw[HandClay, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
+  % Middle zone - the temple (8-11, 40-48)
+  \fill[ReturnAmber, opacity=0.14] (0,0.1) circle (1.15);
+  \draw[ReturnAmber, line width=1.0pt, opacity=0.85] (0,0.1) circle (1.15);
+  % Inner zone - the glory of the LORD
+  \fill[ChapterStone, opacity=0.22] (0,0.1) circle (0.55);
+  \draw[ChapterStone, line width=1.0pt, opacity=0.9] (0,0.1) circle (0.55);
+  \node[font=\tiny,color=ChapterStone] at (0,-0.65) {榮耀};
+  \node[font=\tiny,color=ReturnAmber!80!black] at (0,-1.28) {聖殿};
+  \node[font=\tiny,color=HandClay!80!black]  at (0,-1.9) {被擄之地};
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterStone}\kaiti\selectfont 耶和華的所在}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} The LORD Is There}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 以西結書研讀}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} A Study of the Book of Ezekiel}
+
+\vspace{0.24cm}
+% One Hebrew word only: XeTeX lays out a maqaf- or space-joined Hebrew phrase as
+% separate RTL runs in LTR order (word order and maqaf come out scrambled).
+{\fontsize{15}{18}\selectfont\itshape\color{ChapterStone} שָׁמָּה }\quad
+{\footnotesize\scshape\color{CommentaryBrown} “shammah”}\quad
+{\footnotesize\bfseries\color{ReturnAmber!80!black} 在那裏 \textperiodcentered\ 城的名字（結 48:35）}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{ReturnAmber!70!black}\kaiti\selectfont
+「從此以後，這城的名字必稱為耶和華的所在。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+“…and the name of the city from that day shall be, ‘The LORD is there.’”}\\[0.10em]
+{\scriptsize\color{ChapterStone} 以西結書 48:35 \textperiodcentered\ Ezekiel 48:35}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE - "全書一句話" built on Ezekiel 43:4-5: the glory returns by the east gate.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterStone} 全書一句話 \textperiodcentered\ The Whole Book in One Verse}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+耶和華的\textbf{\color{HandClay!80!black}榮光}從朝\textbf{\color{HandClay!80!black}東}的門照入殿中。……
+耶和華的榮光\textbf{\color{HandClay!80!black}充滿}了殿。\\[0.5em]
+\footnotesize\itshape
+And the glory of the LORD came into the house by the way of the gate facing toward the
+\textbf{east}. … And behold, the glory of the LORD \textbf{filled} the house.\\[0.4em]
+\small\color{ChapterStone} 以西結書 43:4-5 \textperiodcentered\ Ezekiel 43:4-5
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small\color{TextGray} 四十八章經文 \textperiodcentered\ 三十四篇研讀 \textperiodcentered\ 六卷 \textperiodcentered\ 榮耀先離開，也先回來\\
+\textit{Forty-eight chapters of Ezekiel in thirty-four studies \textperiodcentered\ six volumes \textperiodcentered\ the glory departs first and returns first}}
+
+\vspace{0.30cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{2.9cm}p{1.9cm}p{7.3cm}@{}}
+\toprule
+\textbf{卷} & \textbf{研讀篇} & \textbf{在全書的展開} \\
+\midrule
+卷一：榮耀臨到被擄之地 & 1-3篇 & 榮耀在河邊、在沒有殿的地方向被擄者顯現；先看見，才吃書卷，才受託守望 \\
+卷二：榮耀離開 & 4-8篇 & 不說話的記號；殿裏的穢像；榮耀在城破之前，一站一站離開 \\
+卷三：審判的理由 & 9-18篇 & 假平安、偶像在心、棄嬰的身世、各人的罪、悖逆的歷史、流血的城、兩姊妹、鍋 \\
+卷四：列國也要知道 & 19-23篇 & 「知道我是耶和華」從以色列擴到鄰邦、推羅、埃及 \\
+卷五：口開了，神自己來 & 24-29篇 & 消息到之前口先開；神自己作牧人；新心新靈；枯骨復活；歌革 \\
+卷六：榮耀回來 & 30-34篇 & 度量；榮耀從東而來；君王與土地；殿中流出的水；耶和華的所在 \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterStone} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+不是來讀一卷奇異的異象書，是來看榮耀的路徑：先在被擄之地顯現（1:28），在城破之前離開殿（11:23），最後從離開的那個方向回來（43:2）。\\
+書中最常重複的一句是「他們就知道我是耶和華」，它出現在審判與復興之中，卻不在異象的開頭與結尾。\\[0.5em]
+\textit{\footnotesize
+You are not reading a catalogue of strange visions but following a path: the glory
+appears first among the exiles (1:28), leaves the temple before the city falls (11:23),
+and returns from the very direction it left (43:2).}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.4cm}
+
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterStone}\kaiti\selectfont 耶和華的所在}\\[0.2cm]
+{\large\itshape\color{LightGray} The LORD Is There}
+
+\vspace{0.6cm}
+
+{\fontsize{22}{28}\selectfont\bfseries 以西結書研讀}\\[0.15cm]
+{\normalsize A Study of the Book of Ezekiel}
+
+\vspace{0.5cm}
+
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{3.8in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+下雨的日子，雲中虹的形狀怎樣，周圍光輝的形狀也是怎樣。\\
+這就是耶和華榮耀的形像。\\[0.15em]
+\footnotesize Such was the appearance of the likeness of the glory of the LORD.
+— Ezekiel 1:28
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.4cm}
+
+% Six-volume structure diagram, two rows of three. Plain centimetre coordinates, no
+% picture-level `scale` (node sizes ignore it while positions obey it).
+\begin{tikzpicture}[every node/.style={align=center}]
+  \node[font=\footnotesize\bfseries,color=ChapterStone] at (0,2.5) {全書六卷 Six Volumes, 34 Studies};
+
+  \node[draw=ChapterStone,fill=ScriptureBg,rounded corners,minimum width=3.6cm,minimum height=0.8cm,font=\tiny] (v1) at (-4.2,1.5) {卷一 \textperiodcentered\ 榮耀臨到被擄之地};
+  \node[font=\tiny,color=LightGray] at (-4.2,0.85) {1-3};
+  \node[draw=HandClay,fill=ScriptureBg,rounded corners,minimum width=3.6cm,minimum height=0.8cm,font=\tiny] (v2) at (0,1.5) {卷二 \textperiodcentered\ 榮耀離開};
+  \node[font=\tiny,color=LightGray] at (0,0.85) {4-8};
+  \node[draw=HandClay,fill=ScriptureBg,rounded corners,minimum width=3.6cm,minimum height=0.8cm,font=\tiny] (v3) at (4.2,1.5) {卷三 \textperiodcentered\ 審判的理由};
+  \node[font=\tiny,color=LightGray] at (4.2,0.85) {9-18};
+
+  \node[draw=ReturnAmber,fill=ScriptureBg,rounded corners,minimum width=3.6cm,minimum height=0.8cm,font=\tiny] (v4) at (-4.2,-0.3) {卷四 \textperiodcentered\ 列國也要知道};
+  \node[font=\tiny,color=LightGray] at (-4.2,-0.95) {19-23};
+  \node[draw=ReturnAmber,fill=ScriptureBg,rounded corners,minimum width=3.6cm,minimum height=0.8cm,font=\tiny] (v5) at (0,-0.3) {卷五 \textperiodcentered\ 口開了，神自己來};
+  \node[font=\tiny,color=LightGray] at (0,-0.95) {24-29};
+  \node[draw=ChapterStone,fill=ScriptureBg,rounded corners,minimum width=3.6cm,minimum height=0.8cm,font=\tiny] (v6) at (4.2,-0.3) {卷六 \textperiodcentered\ 榮耀回來};
+  \node[font=\tiny,color=LightGray] at (4.2,-0.95) {30-34};
+
+  \draw[->,color=ScriptureGold,thick] (v1.east) -- (v2.west);
+  \draw[->,color=ScriptureGold,thick] (v2.east) -- (v3.west);
+  \draw[->,color=ScriptureGold,thick] (v4.east) -- (v5.west);
+  \draw[->,color=ScriptureGold,thick] (v5.east) -- (v6.west);
+\end{tikzpicture}
+
+\vspace{0.2cm}
+
+% Framing quotation (Ezekiel 11:23 and 43:2: the glory leaves eastward, returns from the east)
+{\footnotesize\color{TextGray} 「耶和華的榮耀從城中上升，停在城東的那座山上。」（結 11:23）\ \ 「以色列神的榮光從東而來。」（結 43:2）}
+
+\vfill
+
+{\normalsize\color{ScriptureGold}\bfseries 榮耀先離開，也先回來；從此以後，這城的名字必稱為耶和華的所在}\\[0.1cm]
+{\footnotesize\color{LightGray} The glory departs first and returns first; and the name of the city from that day shall be, ‘The LORD is there’ (Ezek 11:23; 43:2; 48:35)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{以西結書研讀 / Ezekiel Deep Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)，公有領域\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ Matthew Henry - Commentary on the Whole Bible\\
+\textbullet\ Keil \& Delitzsch - Biblical Commentary on the Old Testament\\
+\textbullet\ Calvin, Skinner, Davidson, and the Pulpit Commentary (public domain)\\
+\textbullet\ G. Campbell Morgan - The Analyzed Bible, outline only\\[0.8em]
+
+本書為七年三書精讀項目成果之一。\\
+Part of the 7-Year Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\setcounter{tocdepth}{0}
+{\color{ChapterStone}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% ============================================
+%% BACK MATTER
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% CLOSING PAGE - the decorative bookend. The book's own back matter
+%% (99-the-unfinished-return.md, 999-afterword.md) is supplied as ordinary
+%% markdown chapters via the body variable above.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\fontsize{22}{26}\selectfont\bfseries\kaiti\selectfont 耶和華的榮光充滿了殿}\\[0.1cm]
+{\normalsize\itshape\color{LightGray} The Glory of the LORD Filled the House}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterStone} 全書六卷 \;\; Six Volumes}\\[0.3em]
+{\footnotesize\color{TextGray}
+榮耀臨到被擄之地 (1-3) \textbullet\ 榮耀離開 (4-8) \textbullet\ 審判的理由 (9-18)\\
+列國也要知道 (19-23) \textbullet\ 口開了，神自己來 (24-29) \textbullet\ 榮耀回來 (30-34)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「這河水所到之處，百物都必生活。」}\\[0.15cm]
+{\scriptsize\color{ChapterStone} — 以西結書 47:9}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
+
+\end{document}
