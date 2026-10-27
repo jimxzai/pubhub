@@ -23,8 +23,10 @@ USAGE
   python3 scripts/gen-ezekiel-scripture.py --diff    # three-source CUV disagreements (to derive CUV_FIXES)
   python3 scripts/gen-ezekiel-scripture.py           # write .sources/units/NN-*.scripture.md
   python3 scripts/gen-ezekiel-scripture.py --check   # diff each chapter file's 經文 block
+  python3 scripts/gen-ezekiel-scripture.py --write-chapters   # rewrite each chapter's 經文 block from the generator
 """
 import html
+import difflib
 import json
 import re
 import sys
@@ -106,11 +108,46 @@ def _cnbible(ch):
     return out
 
 
+# fhl 'unv' also modernises pronouns and particles (她/它/牠 for 他; 嗎 for 麼; 吧 for 罷). The project
+# standard is ai-eden's 1919 form, so at those positions (and only those) adopt ai-eden's character.
+_ADOPT = {("她", "他"), ("它", "他"), ("牠", "他"), ("嗎", "麼"), ("吧", "罷")}
+
+
+def _adopt_aieden(t, z):
+    z = z.replace("﹖", "？")
+    plain = re.sub("[「」『』]", "", t)
+    if plain == t:
+        probe, keep = t, None
+    else:
+        probe, keep = plain, t
+    sm = difflib.SequenceMatcher(None, probe, z, autojunk=False)
+    swaps = {}
+    for op, i1, i2, j1, j2 in sm.get_opcodes():
+        if op == "replace" and (probe[i1:i2], z[j1:j2]) in _ADOPT:
+            swaps[i1] = (probe[i1:i2], z[j1:j2])
+    if not swaps:
+        return t
+    # apply on the original string, skipping quote marks when counting positions
+    out, pos = [], 0
+    for ch in t:
+        if ch in "「」『』":
+            out.append(ch); continue
+        if pos in swaps and ch == swaps[pos][0]:
+            out.append(swaps[pos][1])
+        else:
+            out.append(ch)
+        pos += 1
+    return "".join(out)
+
+
 def cuv(ch):
     out = {}
+    ai = _aieden(ch)
     for sec, t in _fhl(ch).items():
         for a, b in CUV_FIXES:
             t = t.replace(a, b)
+        if sec in ai:
+            t = _adopt_aieden(t, ai[sec][0])
         if t.strip() == "a":   # 39:27 is a bare placeholder in fhl, ai-eden and cnbible; its content sits in 39:26
             t = "（此節與上節在本書所用的和合本來源中併為一節；見附錄說明）"
         out[sec] = t
@@ -217,6 +254,16 @@ def main():
     if "--diff" in sys.argv:
         return diff()
     out = SRC / "units"
+    if "--write-chapters" in sys.argv:
+        for stem in UNITS:
+            f = BOOK / f"{stem}.md"
+            text = f.read_text()
+            m = re.search(r"^## 經文.*?\n(.*?)^---\s*$", text, flags=re.S | re.M)
+            tail = "\n\n" if m.group(1).endswith("\n\n") else "\n"
+            new = text[:m.start(1)] + block(stem).strip() + tail + text[m.end(1):]
+            if new != text:
+                f.write_text(new); print("rewrote", f.name)
+        return
     if "--check" in sys.argv:
         bad = 0
         for stem in UNITS:
