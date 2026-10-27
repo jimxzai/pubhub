@@ -25,7 +25,7 @@ The newer 221-page manuscript-generated edition is a secondary editorial referen
 
 Run `make pdf`. `make all` also builds only the assigned PDF. The repository's older build entry point delegates here. Python 3 and PyMuPDF are required; no PDF reflow is performed.
 
-The only release output is `/Users/jimxiao/Documents/GitHub/pubhub/output/romans-consolidated.pdf`.
+The only release output is `/Users/jimxiao/dev/pubhub/output/romans-consolidated.pdf`.
 
 The builder validates the source SHA-256, applies measured editorial/cover corrections and chapter-number repairs, and verifies page preservation. Currently 196 pages are wholly unchanged and 144 further pages are compared outside approved rectangles; eight earlier corrected/cover pages retain their prior treatment. It retains 348 pages and all original printed page numbers. A failed comparison prevents replacement of the output. The report is `sources/audits/baseline-merge.json`.
 

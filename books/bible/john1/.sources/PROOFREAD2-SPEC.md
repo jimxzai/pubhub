@@ -1,6 +1,6 @@
 # 約翰一書 第三輪校對：中文表達與邏輯（校對神）
 
-Repo: /Users/jimxiao/Documents/GitHub/pubhub  Book: books/bible/john1  PDF: output/john1-consolidated.pdf
+Repo: /Users/jimxiao/dev/pubhub  Book: books/bible/john1  PDF: output/john1-consolidated.pdf
 
 Round 2 (yesterday) already re-verified facts, Scripture, quotes and layout: 0 critical. THIS round is about the Chinese prose and the argument. Do NOT re-run fact checks except where a sentence you are reading looks wrong.
 

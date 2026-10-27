@@ -1,0 +1,143 @@
+{
+  "mvp": {
+    "name": "Gospel of John Study",
+    "focus": "約翰福音 21 章深度研讀",
+    "principle": "Truly Go Deeper — 寧深不廣",
+    "coreResources": {
+      "elderWong": {
+        "name": "黃長老 (Elder Wong)",
+        "type": "第一手教導",
+        "materials": [
+          "週四查經班 Zoom 錄影",
+          "查經筆記與大綱"
+        ],
+        "priority": 1
+      },
+      "gty": {
+        "name": "Grace to You",
+        "author": "John MacArthur",
+        "url": "https://www.gty.org",
+        "materials": [
+          "約翰福音講道系列",
+          "MacArthur Study Bible"
+        ],
+        "priority": 2
+      },
+      "campbellMorgan": {
+        "name": "G. Campbell Morgan",
+        "title": "解經王子 (Prince of Expositors)",
+        "work": "The Gospel According to John (1909)",
+        "method": "屬靈組織 (Spiritual Organization) 分析法",
+        "priority": 3
+      }
+    },
+    "bibleVersions": {
+      "chinese": {
+        "primary": "和合本修訂版 (RCUV)",
+        "reference": [
+          "新譯本 (CNV)",
+          "呂振中譯本"
+        ]
+      },
+      "english": {
+        "primary": "ESV (English Standard Version)",
+        "reference": [
+          "NIV",
+          "NASB",
+          "NET Bible"
+        ]
+      },
+      "greek": [
+        "NA28",
+        "UBS5"
+      ]
+    },
+    "dailyRhythm": {
+      "morning": {
+        "duration": "45-60分鐘",
+        "steps": [
+          "禱告預備 (5分鐘)",
+          "經文朗讀 RCUV + ESV (10分鐘)",
+          "黃長老教導 (15分鐘)",
+          "MacArthur 講道/注釋 (10分鐘)",
+          "Campbell Morgan 洞見 (10分鐘)",
+          "筆記記錄 (5分鐘)"
+        ]
+      },
+      "evening": {
+        "duration": "15分鐘",
+        "steps": [
+          "回顧經文",
+          "反思應用",
+          "禱告回應"
+        ]
+      }
+    }
+  },
+  "techStack": {
+    "framework": "Next.js 16.1",
+    "bundler": "Turbopack (stable, with file system caching)",
+    "packageManager": "pnpm",
+    "language": "TypeScript",
+    "styling": "Tailwind CSS",
+    "deployment": "Vercel (planned)"
+  },
+  "contextRules": {
+    "projectContext": [
+      "這是一個7年（2557天）的長期知識積累項目",
+      "MVP 專注於約翰福音 21 章深度研讀",
+      "核心資源：黃長老教導 + gty.org + Campbell Morgan",
+      "每日靈修節奏：早晨 45-60分鐘，晚間 15分鐘",
+      "輸出語言：繁體中文為主，關鍵術語中英對照"
+    ],
+    "bookContext": {
+      "gospel-of-john": {
+        "fullName": "約翰福音",
+        "englishName": "The Gospel According to John",
+        "chapters": 21,
+        "authorityVersion": "和合本修訂版 (RCUV)",
+        "englishTranslation": "ESV",
+        "focus": "道 (Logos)、生命、榮耀",
+        "structure": {
+          "prologue": "1:1-18 (道的本質)",
+          "publicMinistry": "1:19-12:50 (神蹟與講論)",
+          "privateTeaching": "13-17 (馬可樓上講論)",
+          "passionResurrection": "18-21 (受難與復活)"
+        },
+        "themes": {
+          "sevenSigns": [
+            "水變酒",
+            "醫治大臣之子",
+            "醫治瘸腿者",
+            "五餅二魚",
+            "海面行走",
+            "醫治生來瞎眼者",
+            "拉撒路復活"
+          ],
+          "sevenIAm": [
+            "生命的糧",
+            "世界的光",
+            "羊的門",
+            "好牧人",
+            "復活/生命",
+            "道路/真理/生命",
+            "真葡萄樹"
+          ]
+        }
+      },
+      "sunzi": {
+        "fullName": "孫子兵法",
+        "englishName": "The Art of War",
+        "chapters": 13,
+        "authorityVersion": "十一家注本",
+        "status": "Phase 2"
+      },
+      "zizhi-tongjian": {
+        "fullName": "資治通鑑",
+        "englishName": "Comprehensive Mirror in Aid of Governance",
+        "volumes": 294,
+        "status": "Phase 3"
+      }
+    }
+  }
+}

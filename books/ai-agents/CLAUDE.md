@@ -14,7 +14,7 @@
 ### Directory Structure
 
 ```
-/Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/
+/Users/jimxiao/dev/pubhub/books/ai-agents/
 ├── latex-template/
 │   ├── Book/
 │   │   ├── book.tex           # Main LaTeX file
@@ -39,21 +39,21 @@
 ### Compile Command
 
 ```bash
-cd /Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/latex-template/Book
+cd /Users/jimxiao/dev/pubhub/books/ai-agents/latex-template/Book
 tectonic book.tex
 ```
 
 ### Copy to Final Location
 
 ```bash
-cp /Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/latex-template/Book/book.pdf \
-   /Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/ai-agents-oreilly-style.pdf
+cp /Users/jimxiao/dev/pubhub/books/ai-agents/latex-template/Book/book.pdf \
+   /Users/jimxiao/dev/pubhub/books/ai-agents/ai-agents-oreilly-style.pdf
 ```
 
 ### Final Output Location
 
 ```
-/Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/ai-agents-oreilly-style.pdf
+/Users/jimxiao/dev/pubhub/books/ai-agents/ai-agents-oreilly-style.pdf
 ```
 
 ---
@@ -62,7 +62,7 @@ cp /Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/latex-template/Book/bo
 
 ```python
 import fitz
-doc = fitz.open('/Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/ai-agents-oreilly-style.pdf')
+doc = fitz.open('/Users/jimxiao/dev/pubhub/books/ai-agents/ai-agents-oreilly-style.pdf')
 print(f"Pages: {len(doc)}")
 ```
 

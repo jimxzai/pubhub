@@ -32,16 +32,12 @@ def upgrade(doc, replace, put):
     repair(154,(45,block[1]-.8,448,block[3]+.8),'''
       <p>7:25 的感謝把盼望指向耶穌基督，但兩種讀法對25節下半的定位不同。信徒爭戰的讀法，把它視為得救確據與持續爭戰並存；律法之下者的讀法，則把它視為8:1-4展開釋放之前的總結。</p>
       <p>也有人把「我」理解為代表性發言。閱讀時應比較6:6、7:14、7:22與8:2-4，不因第一人稱或現在式便斷定發言者的身分，也不把其中一種解釋寫成各方共同結論。</p>''',10.1)
-    for number in (244,259):
-        page=doc[number-1]
-        block=next(b for b in page.get_text('blocks') if '沒有直接提耶穌' in b[4])
-        original=''.join(block[4].splitlines())
-        revised=original.replace('保羅在這一章沒有直接提耶穌的名字，然而',
-                                  '保羅在13:14明確提到主耶穌基督，')
-        repair(number,(block[0]-.5,block[1]-.5,block[2]+.5,block[3]+1),'<p>'+revised+'</p>',10)
-    repair(331,(55,54,459,143),'''
-      <p>歷史統計待覆核：所報46段，與「維持19、修正14、查無3」合計36段不符；「其中10段」是子集，不能重複加總。本版不把此數字列為完整核驗保證。</p>
-      <p>以下保留來源線索；逐字相符、撮述公允、譯文準確與使用許可仍須分別查核。</p>''',10)
+    # The repairs that used to run here (pages 244/259's "13:14" correction,
+    # page 331's historical-statistics disclosure) targeted pages now
+    # replaced by the 2026-09-24 from-source re-layout in merge_baseline_pdf.py
+    # -- both corrections are confirmed present in 13-submission-to-authority.md
+    # and 99-appendix-references.md respectively, so the fresh render already
+    # carries them.
     # Existing blank versos become useful front matter without changing pagination.
     assert not doc[5].get_text().strip() and not doc[7].get_text().strip()
     for number in (6,8): regions[number]=[doc[number-1].rect]
@@ -81,9 +77,13 @@ def upgrade(doc, replace, put):
       <h2>查閱與勘誤</h2>
       <p>用電子書籤進入羅馬書第1–16章；按原印刷頁碼引用。回報問題時請提供章節、印刷頁碼、原句、所用版本及可查閱來源。</p>
       <p class="small rule">原始來源、修訂區域與核對結果均保留在本書專案的 sources 目錄。權利、神學、雙語校對、無障礙及紙樣審核尚未因此完成。</p>'''.replace('全书','全書'),10.2)
-    # Repair chapter numbering in printed labels and running heads, not just bookmarks.
+    # Repair chapter numbering in printed labels and running heads, not just
+    # bookmarks. Chapters 1-11 only (pages up to 228): chapters 12-16 are now
+    # sourced from the 2026-09-24 from-source re-layout, whose own build
+    # already prints correct "Romans N" running heads (verified directly),
+    # so this mislabel never occurs there.
     numbering=0
-    for chapter,(start,old) in enumerate(zip(CHAPTER_PAGES,CHAPTER_IDS),1):
+    for chapter,(start,old) in enumerate(zip(CHAPTER_PAGES[:11],CHAPTER_IDS[:11]),1):
         stop=CHAPTER_PAGES[chapter] if chapter<16 else 310
         for n in range(start-1,stop-1):
             page=doc[n]

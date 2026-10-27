@@ -39,7 +39,7 @@ publisher: 三書精讀出版系統
 
 保羅在論到教會的軟弱與試探時，大段引用民數記的曠野敘事：
 
-> **林前 10:5-6**　但他們中間多半是神不喜歡的人，所以在曠野倒斃。這些事都是我們的鑒戒，叫我們不要貪戀惡事，像他們貪戀一樣。
+> **林前 10:5-6**　但他們中間多半是神不喜歡的人，所以在曠野倒斃。這些事都是我們的鑑戒，叫我們不要貪戀惡事，像他們貪戀一樣。
 
 > **1 Corinthians 10:5-6 (NASB 1995)** Nevertheless, with most of them God was not well-pleased; for they were laid low in the wilderness. Now these things happened as examples for us, so that we would not crave evil things as they also craved.
 

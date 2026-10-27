@@ -1,6 +1,6 @@
 # 約翰一書（books/bible/john1）逐章撰寫規格
 
-You are writing ONE chapter of the 1 John study book. Repo root: /Users/jimxiao/Documents/GitHub/pubhub
+You are writing ONE chapter of the 1 John study book. Repo root: /Users/jimxiao/dev/pubhub
 Book dir: books/bible/john1   Sources: books/bible/john1/.sources/
 
 ## Read first (mandatory)
@@ -39,7 +39,7 @@ Sections in 歷代注疏: `### 教父時期` (Augustine), `### 改革宗時期` 
 - Unquoted summaries must be faithful to the source's actual position.
 
 ## Verify before you finish (run all; paste the summary lines in your report)
-cd /Users/jimxiao/Documents/GitHub/pubhub
+cd /Users/jimxiao/dev/pubhub
 S=books/bible/john1/.sources
 python3 scripts/verify-sermon-quotes.py books/bible/john1 --heading 麥克阿瑟 --cache $S/sermon-cache --only <your file stem>   (if --only fails, run without it and read your file's lines)
 for h in 教父 改革宗 摩根 近代; do python3 scripts/verify-citations.py books/bible/john1 --source $S/augustine-homilies-1john.txt --source $S/calvin-1john.txt --source $S/morgan-letters-of-john.txt --source $S/westcott-epistles-st-john-1892.txt --heading $h; done

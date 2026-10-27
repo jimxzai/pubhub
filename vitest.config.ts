@@ -9,7 +9,8 @@ export default defineConfig({
     globals: true,
     setupFiles: ['./tests/setup.ts'],
     include: ['**/*.{test,spec}.{js,mjs,cjs,ts,mts,cts,jsx,tsx}'],
-    exclude: ['node_modules', '.next', 'out', 'dist'],
+    // scripts/ tests are legacy jest/CommonJS suites that cannot load under "type": "module"
+    exclude: ['node_modules', '.next', 'out', 'dist', 'scripts/**'],
     coverage: {
       provider: 'v8',
       reporter: ['text', 'json', 'html'],

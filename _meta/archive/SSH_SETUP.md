@@ -36,7 +36,7 @@ ssh -T git@github.com
 ### 步骤 4: 推送更改
 
 ```bash
-cd /Users/jimxiao/Documents/GitHub/pubhub
+cd /Users/jimxiao/dev/pubhub
 git push origin main
 ```
 

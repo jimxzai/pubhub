@@ -7,7 +7,7 @@ repo's Job, Leviticus, Joshua, Ruth, Judges, Romans, Acts etc. builds.
 
 ## Read the exemplar FIRST, before writing anything
 
-Read `/Users/jimxiao/Documents/GitHub/pubhub/books/bible/ephisian/01-chosen-in-christ.md`
+Read `/Users/jimxiao/dev/pubhub/books/bible/ephisian/01-chosen-in-christ.md`
 in full. This is chapter 1, already written and approved. **Match its exact
 structure, section order, heading wording, tone, and register.** Do not add
 sections it doesn't have; do not omit sections it has. The 11 sections, in
@@ -59,9 +59,9 @@ publisher: 三書精讀出版系統
 
 Read these three files for full context before writing your 全書座標 lines
 and your chapter's closing paragraphs:
-- `/Users/jimxiao/Documents/GitHub/pubhub/books/bible/ephisian/00b-sit-walk-stand.md`
-- `/Users/jimxiao/Documents/GitHub/pubhub/books/bible/ephisian/00c-revelation-order.md`
-- `/Users/jimxiao/Documents/GitHub/pubhub/books/bible/ephisian/elder-wong-systematic-study.md`
+- `/Users/jimxiao/dev/pubhub/books/bible/ephisian/00b-sit-walk-stand.md`
+- `/Users/jimxiao/dev/pubhub/books/bible/ephisian/00c-revelation-order.md`
+- `/Users/jimxiao/dev/pubhub/books/bible/ephisian/elder-wong-systematic-study.md`
 
 Short version: the book has 3 volumes — 卷一 你的地位·坐 (弗1-3, chapters
 01-06 by file number), 卷二 你的行為·行 (弗4-5, chapters 07-10), 卷三 你的
@@ -74,8 +74,8 @@ belongs to, in your own words — don't just copy the phrasing above.
 
 CUV (和合本) and NASB 1995 text for all 6 chapters of Ephesians is already
 fetched and verified, one verse per line, in:
-- `/Users/jimxiao/Documents/GitHub/pubhub/books/bible/ephisian/.sources/cuv_clean/ephN.txt`
-- `/Users/jimxiao/Documents/GitHub/pubhub/books/bible/ephisian/.sources/nasb_clean/ephN.txt`
+- `/Users/jimxiao/dev/pubhub/books/bible/ephisian/.sources/cuv_clean/ephN.txt`
+- `/Users/jimxiao/dev/pubhub/books/bible/ephisian/.sources/nasb_clean/ephN.txt`
 
 (N = chapter number 1-6). Each line is `verseRef text`. Copy the text for your
 assigned verse range VERBATIM — do not retype from memory, do not paraphrase.
@@ -123,7 +123,7 @@ thing.
 ### G. Campbell Morgan (摩根)
 
 One cached synthesis sermon covers the whole book (not verse-by-verse):
-`/Users/jimxiao/Documents/GitHub/pubhub/books/bible/ephisian/.sources/morgan-message-of-ephesians.txt`
+`/Users/jimxiao/dev/pubhub/books/bible/ephisian/.sources/morgan-message-of-ephesians.txt`
 (from *The Message of Ephesians*, in *Living Messages of the Books of the
 Bible*). Read it and search for a passage that genuinely speaks to your
 chapter's theme (it discusses eternal/temporal, construction, confession,

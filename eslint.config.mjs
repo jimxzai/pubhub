@@ -14,6 +14,7 @@ export default [
       '**/build/**',
       '**/scripts/**',
       '**/*.config.*',
+      '.md-to-pdf.js',
     ],
   },
   // TypeScript/TSX files

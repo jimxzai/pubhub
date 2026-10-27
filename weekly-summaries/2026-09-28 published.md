@@ -1,0 +1,1 @@
+Next time, "publish Jeremiah and 1 John" or /publish-bible-books will run the whole workflow.

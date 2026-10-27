@@ -33,9 +33,9 @@ describe('Project Configuration', () => {
     })
   })
 
-  describe('.claude/settings.json', () => {
+  describe('.claude/project-config.json', () => {
     const settings = JSON.parse(
-      readFileSync(join(process.cwd(), '.claude/settings.json'), 'utf-8')
+      readFileSync(join(process.cwd(), '.claude/project-config.json'), 'utf-8')
     )
 
     it('should have MVP configuration', () => {
@@ -79,7 +79,7 @@ describe('Project Configuration', () => {
 
 describe('MVP Content Validation', () => {
   const settings = JSON.parse(
-    readFileSync(join(process.cwd(), '.claude/settings.json'), 'utf-8')
+    readFileSync(join(process.cwd(), '.claude/project-config.json'), 'utf-8')
   )
 
   it('should have 7 Signs of John', () => {

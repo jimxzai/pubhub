@@ -1,6 +1,6 @@
 # 約翰一書 校對神輪 — proofreader brief
 
-Repo: /Users/jimxiao/Documents/GitHub/pubhub   Book: books/bible/john1   Built PDF: output/john1-consolidated.pdf
+Repo: /Users/jimxiao/dev/pubhub   Book: books/bible/john1   Built PDF: output/john1-consolidated.pdf
 
 ## The one rule
 不要相信本書任何一句「已核對」「逐字相符」「105/105」「19/19」的聲明——這些聲明本身可能是假的。就當作你是第一個看到這份書稿的人，向一手來源重新取證。

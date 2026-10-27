@@ -1,7 +1,7 @@
 {
   "pdf": "/Users/jimxiao/Documents/GitHub/pubhub/output/romans-consolidated.pdf",
-  "sha256": "5bd2074395b725a884a0c7d3735d11f4f13c079765464abaa828d800f35cce9f",
-  "pages": 348,
+  "sha256": "65fdbbf15794999b67bdb484172412833dbce700cc5a67b0a9fc968598f9f9ac",
+  "pages": 347,
   "method": "Actual PDF extraction; NFKC, case, punctuation and whitespace ignored; 裏/裡 and 衞/衛 folded. Not verbatim, context, translation or rights certification. Quote source candidates require attribution review. Scripture mismatches include possible extraction artifacts.",
   "provenance": "Reference caches recovered from /tmp/romans-edit.x22HaE on 2026-09-21; original retrieval metadata was not preserved. Source URLs reconstructed from prior research code and file metadata. Do not treat recovery date as retrieval date.",
   "scripture": [
@@ -448,9 +448,9 @@
         {
           "verse": 5,
           "match": false,
-          "actual_sha256": "96f2cfa82eee05fd1d517fd77c8f345202b2722a8d36f44e4345976eda781a9f",
+          "actual_sha256": "68525a637704d9daa8921e8a58abba46504bb2b863d68cfd4f72f070f7f0d98c",
           "reference_sha256": "bdc9b411a4c8fec81e3c3b4d77e47f29b794fc3bdbad8b82137cd7335b55ccb0",
-          "actual": "你竟任著\n你剛硬不悔改的心，為自己積蓄憤怒，以致神震怒，顯他公義審判的日子來到。",
+          "actual": "你竟任著\n你剛硬不悔改的心，為自己\n，以致神震怒，顯他公義審判的日子來到。",
           "reference": "你竟任著你剛硬不悔改的心，為自己積蓄忿怒，以致　神震怒，顯他公義審判的日子來到。"
         },
         {
@@ -468,9 +468,9 @@
         {
           "verse": 8,
           "match": false,
-          "actual_sha256": "3b06fe3af5bd6e16b4f72f87ab36ea31090fd251788e2f58c7150e219243d653",
+          "actual_sha256": "4ae005b03cf52fe23c46ec94a5481935ecacd27efe84766c5d96059e1d9d8090",
           "reference_sha256": "673357090795b573bbc96e31bcffd014e5c065298ac8ce0a3dc1d3587da1b55f",
-          "actual": "惟有結黨、不順從真理反順從不義的，就以憤怒、惱恨報應他們。",
+          "actual": "惟有結黨、不順從真理反順從不義的，\n、惱恨報應他們。",
           "reference": "惟有結黨、不順從真理、反順從不義的，就以忿怒、惱恨報應他們；"
         },
         {
@@ -597,9 +597,11 @@
         },
         {
           "verse": 29,
-          "match": true,
-          "actual_sha256": "49b642b0bd29ccffb379f6fadf27c0a20de427ddf48d87fdb1153e2694b40403",
-          "reference_sha256": "49b642b0bd29ccffb379f6fadf27c0a20de427ddf48d87fdb1153e2694b40403"
+          "match": false,
+          "actual_sha256": "2cb40670b59a018077822c6db10ba01c58d697eb510182a654bcea4bb16e478d",
+          "reference_sha256": "49b642b0bd29ccffb379f6fadf27c0a20de427ddf48d87fdb1153e2694b40403",
+          "actual": "惟有裏面作的，才是真\n猶太人；真割禮也是心裏的，在乎靈，不在乎儀文。這人的稱讚不是從人來的，乃是從神\n來的。\n\n積蓄忿怒\n\n就以忿怒",
+          "reference": "惟有裡面作的，才是真猶太人；真割禮也是心裡的，在乎靈，不在乎儀文。這人的稱讚不是從人來的，乃是從　神來的。"
         }
       ]
     },
@@ -2118,9 +2120,9 @@
         {
           "verse": 6,
           "match": false,
-          "actual_sha256": "d4f0a6d17fc0a51da1361752d1c907d7679df39db337b6760e0160e4e65fa8bf",
+          "actual_sha256": "3ed6453fde0870b1a3aef1762fb16e94360b5b4758171a95fc8f869d6401d55f",
           "reference_sha256": "f59625458d6f07e01bb5c9ed19c85113a16e9829a3449870b0d54df809c4e8a2",
-          "actual": "但我們既然在捆我們的律法上死了，現今\n就脫離了律法，叫我們服侍主，要按著心靈的新樣，不按著儀文的舊樣。",
+          "actual": "但我們既然在捆我們的律法上死了，現今\n就脫離了律法，叫我們\n，要按著心靈的新樣，不按著儀文的舊樣。",
           "reference": "但我們既然在捆我們的律法上死了，現今就脫離了律法，叫我們服事主，要按著心靈（心靈：或譯聖靈）的新樣，不按著儀文的舊樣。"
         },
         {
@@ -2155,9 +2157,11 @@
         },
         {
           "verse": 12,
-          "match": true,
-          "actual_sha256": "db9de1f64d401814a966b999ecd59ba7881cf90eb677c73da92c1499b6816cca",
-          "reference_sha256": "db9de1f64d401814a966b999ecd59ba7881cf90eb677c73da92c1499b6816cca"
+          "match": false,
+          "actual_sha256": "a1917220a88941e34cfea6ef1dc06bd999a6b4c7a931e0321ac329f3bf67721f",
+          "reference_sha256": "db9de1f64d401814a966b999ecd59ba7881cf90eb677c73da92c1499b6816cca",
+          "actual": "這樣看來，律法是聖潔的，誡命也是聖潔、公義、良善的。\n\n服事主",
+          "reference": "這樣看來，律法是聖潔的，誡命也是聖潔、公義、良善的。"
         },
         {
           "verse": 13,
@@ -4337,11 +4341,9 @@
         },
         {
           "verse": 4,
-          "match": false,
-          "actual_sha256": "2a3098cc105179b92286b843474b04e1b845fdc4f0f0edf6a0ad78cdbac62294",
-          "reference_sha256": "a86d47907630dc3fbd9e93e8286fc9e81d525a9e5ecec8def4ace494cc802214",
-          "actual": "因為他是神的用人，是於你有益的。你若作惡，卻當懼怕；因為他不是\n空空地佩劍，他是神的用人，是申冤的，刑罰那作惡的。",
-          "reference": "因為他是　神的用人，是與你有益的。你若作惡，卻當懼怕；因為他不是空空地佩劍；他是　神的用人，是伸冤的，刑罰那作惡的。"
+          "match": true,
+          "actual_sha256": "a86d47907630dc3fbd9e93e8286fc9e81d525a9e5ecec8def4ace494cc802214",
+          "reference_sha256": "a86d47907630dc3fbd9e93e8286fc9e81d525a9e5ecec8def4ace494cc802214"
         },
         {
           "verse": 5,
@@ -4375,11 +4377,9 @@
         },
         {
           "verse": 10,
-          "match": false,
-          "actual_sha256": "288c846a4424c57ba36e0a8457379e38c11ffeeba673ffd7ad85c38dc14ec4b7",
-          "reference_sha256": "caa7d107b730d0e3915e9126b54560324daf47f9ad8e200d82645ab0fb29de73",
-          "actual": "愛是不加害於人的，所以愛就完全了律法。",
-          "reference": "愛是不加害與人的，所以愛就完全了律法。"
+          "match": true,
+          "actual_sha256": "caa7d107b730d0e3915e9126b54560324daf47f9ad8e200d82645ab0fb29de73",
+          "reference_sha256": "caa7d107b730d0e3915e9126b54560324daf47f9ad8e200d82645ab0fb29de73"
         },
         {
           "verse": 11,
@@ -4609,11 +4609,9 @@
         },
         {
           "verse": 18,
-          "match": false,
-          "actual_sha256": "947bad7f252339acdbc6c68a70b55057f1a11e58a6be8f34c31fd07395eb90f2",
-          "reference_sha256": "923b0c3ed7225aa23aca8285cd4906e356cff3273baed4fd9dd755804d9a2b85",
-          "actual": "在這幾樣上服侍基督的，\n就為神所喜悅，又為人所稱許。",
-          "reference": "在這幾樣上服事基督的，就為　神所喜悅，又為人所稱許。"
+          "match": true,
+          "actual_sha256": "923b0c3ed7225aa23aca8285cd4906e356cff3273baed4fd9dd755804d9a2b85",
+          "reference_sha256": "923b0c3ed7225aa23aca8285cd4906e356cff3273baed4fd9dd755804d9a2b85"
         },
         {
           "verse": 19,
@@ -4837,11 +4835,9 @@
         },
         {
           "verse": 7,
-          "match": false,
-          "actual_sha256": "38569648f9640995452bbcceb4f42736ed9bc1a5586439b4c6b20605c613c775",
-          "reference_sha256": "e81078a17316bc98bac717041fce989ad3f11c677e1b509183498331f4e48906",
-          "actual": "所以，你們要彼此接納，如同基督接納你們一樣，使榮耀歸於神。",
-          "reference": "所以，你們要彼此接納，如同基督接納你們一樣，使榮耀歸與　神。"
+          "match": true,
+          "actual_sha256": "e81078a17316bc98bac717041fce989ad3f11c677e1b509183498331f4e48906",
+          "reference_sha256": "e81078a17316bc98bac717041fce989ad3f11c677e1b509183498331f4e48906"
         },
         {
           "verse": 8,
@@ -4881,11 +4877,9 @@
         },
         {
           "verse": 14,
-          "match": false,
-          "actual_sha256": "9327c57be3e96d05033c0c9898f2f5d4f42471dfd4e610aa57792c3e3e7b4502",
-          "reference_sha256": "b0a51e98700edb3c6387d56a1873bd0b861b13160f3400e1870c0a39fdb8999f",
-          "actual": "弟兄們，我自己也深信你們是滿有良善，充足了諸般的知識，也能彼此勸誡。",
-          "reference": "弟兄們，我自己也深信你們是滿有良善，充足了諸般的知識，也能彼此勸戒。"
+          "match": true,
+          "actual_sha256": "b0a51e98700edb3c6387d56a1873bd0b861b13160f3400e1870c0a39fdb8999f",
+          "reference_sha256": "b0a51e98700edb3c6387d56a1873bd0b861b13160f3400e1870c0a39fdb8999f"
         },
         {
           "verse": 15,
@@ -4961,11 +4955,9 @@
         },
         {
           "verse": 27,
-          "match": false,
-          "actual_sha256": "5847223b9d4675d912ed6c528b55e9fcbd1eeca129c8311e631d23b4abf67353",
-          "reference_sha256": "e5a7ebcc2fd3877a2e304e6ad10fc8babe6eac47ef9bc66fa3137e6881568094",
-          "actual": "這固然是他\n們樂意的，其實也算是所欠的債；因外邦人既然在他們屬靈的好處上有份，就當把養身之\n物供給他們。",
-          "reference": "這固然是他們樂意的，其實也算是所欠的債；因外邦人既然在他們屬靈的好處上有分，就當把養身之物供給他們。"
+          "match": true,
+          "actual_sha256": "e5a7ebcc2fd3877a2e304e6ad10fc8babe6eac47ef9bc66fa3137e6881568094",
+          "reference_sha256": "e5a7ebcc2fd3877a2e304e6ad10fc8babe6eac47ef9bc66fa3137e6881568094"
         },
         {
           "verse": 28,
@@ -5219,11 +5211,9 @@
       "verses": [
         {
           "verse": 1,
-          "match": false,
-          "actual_sha256": "0c35f119be76fae32bfb9c18398ff2b9717538cfc2fbdfbd3a575968c1a26204",
-          "reference_sha256": "415f6751e45e3abb16c8181f250a6f6da7a612d39c5c79577af568a7cd18f7f5",
-          "actual": "我對你們舉薦我們的姐妹非比，她是堅革哩教會中的女執事。",
-          "reference": "我對你們舉薦我們的姊妹非比；她是堅革哩教會中的女執事。"
+          "match": true,
+          "actual_sha256": "415f6751e45e3abb16c8181f250a6f6da7a612d39c5c79577af568a7cd18f7f5",
+          "reference_sha256": "415f6751e45e3abb16c8181f250a6f6da7a612d39c5c79577af568a7cd18f7f5"
         },
         {
           "verse": 2,
@@ -5305,11 +5295,9 @@
         },
         {
           "verse": 15,
-          "match": false,
-          "actual_sha256": "494bb0e2d75ca9fb2bf451b86c4f16b3db687359eccb5ca2f1d394bed0c55d85",
-          "reference_sha256": "d2c8a23ae8dd46b12f7465a8e8e343333b64aa9746b6d3f25f90119666aa214c",
-          "actual": "又問非羅羅古和猶利亞，尼利亞和他姐妹，同阿林巴，並與他們在一處的眾\n聖徒安。",
-          "reference": "又問非羅羅古和猶利亞，尼利亞和他姊妹，同阿林巴並與他們在一處的眾聖徒安。"
+          "match": true,
+          "actual_sha256": "d2c8a23ae8dd46b12f7465a8e8e343333b64aa9746b6d3f25f90119666aa214c",
+          "reference_sha256": "d2c8a23ae8dd46b12f7465a8e8e343333b64aa9746b6d3f25f90119666aa214c"
         },
         {
           "verse": 16,
@@ -5325,11 +5313,9 @@
         },
         {
           "verse": 18,
-          "match": false,
-          "actual_sha256": "a1d2df048638e9f9f4df8b8b3d84c12873de67ebd32acfdfcf7e94c7007b0a0e",
-          "reference_sha256": "eb516e739a2b73802a1137ccb883971629eecc78ab27aad6dbc841aec64b1058",
-          "actual": "因為這樣的人不服侍我們的主基督，只服侍自己的肚腹，用花言巧語誘惑那些老實\n人的心。",
-          "reference": "因為這樣的人不服事我們的主基督，只服事自己的肚腹，用花言巧語誘惑那些老實人的心。"
+          "match": true,
+          "actual_sha256": "eb516e739a2b73802a1137ccb883971629eecc78ab27aad6dbc841aec64b1058",
+          "reference_sha256": "eb516e739a2b73802a1137ccb883971629eecc78ab27aad6dbc841aec64b1058"
         },
         {
           "verse": 19,
@@ -5381,11 +5367,9 @@
         },
         {
           "verse": 27,
-          "match": false,
-          "actual_sha256": "45c536debfe6620bf4c904a1f1192bfc8ca399e1936e35681eb2ec960ede8c5b",
-          "reference_sha256": "f5f7d393deaba64866482fa9e188108cf34ad4abaef5a62f5bfefe2a07989b6b",
-          "actual": "願榮耀因耶穌基督歸於獨一全智的神，直到永遠！阿們。",
-          "reference": "願榮耀，因耶穌基督，歸與獨一全智的　神，直到永遠。阿們！"
+          "match": true,
+          "actual_sha256": "f5f7d393deaba64866482fa9e188108cf34ad4abaef5a62f5bfefe2a07989b6b",
+          "reference_sha256": "f5f7d393deaba64866482fa9e188108cf34ad4abaef5a62f5bfefe2a07989b6b"
         }
       ]
     },
@@ -6961,7 +6945,7 @@
           "sha256": "55f7a7a4696a411fede6195b9e80e320e705b1f85f59f15f24e2d2626c8eec4d"
         }
       ],
-      "attribution_context": "\n「我也曾一度以為使徒在這段論證裏描寫的是一個在律法之下的人。但後來，他說『如\n今不是我做的』這句話，迫使我放棄了那個看法。」（Augustine, Against Two Letters of the\nPelagians, I.22）\n\n奧古斯丁晚期立場、路德、\n加爾文及部分當代福音派釋\n經家\n\n7:25 的感謝把盼望指向耶穌基督，但兩種讀法對25節下半的定位不同。信徒爭戰的讀法，\n把它視為得救確據與持續爭戰並存；律法之下者的讀法，則把它視為8:1-4展開釋放之前的\n總結。\n\n也有人把「我」理解為代表性發言。閱讀時應比較6:6、7:14、7:22與8:2-4，不因第一人稱\n或現在式便斷定發言"
+      "attribution_context": "\n「我也曾一度以為使徒在這段論證裏描寫的是一個在律法之下的人。但後來，他說『如\n今不是我做的』這句話，迫使我放棄了那個看法。」（Augustine, Against Two Letters of the\nPelagians, I.22）\n\n奧古斯丁晚期立場、路德、\n加爾文及部分當代福音派釋\n經家\n\n7:25 的感謝把盼望指向耶穌基督，但兩種讀法對25節下半的定位不同。信徒爭戰的讀法，把\n它視為得救確據與持續爭戰並存；律法之下者的讀法，則把它視為8:1-4展開釋放之前的總\n結。\n\n也有人把「我」理解為代表性發言。閱讀時應比較6:6、7:14、7:22與8:2-4，不因第一人稱或\n現在式便斷定發言"
     },
     {
       "pages": [
@@ -7909,7 +7893,7 @@
     },
     {
       "pages": [
-        237
+        238
       ],
       "opening": "In this way we shall not need the knife any more, nor altar, nor ﬁre, or rather we shall want all th",
       "quote_sha256": "158d3aa367b662b342ae4efd44ffdb2307862c9b26e2bb74cedfeedcc9b33358",
@@ -7927,7 +7911,7 @@
     },
     {
       "pages": [
-        237
+        238
       ],
       "opening": "We are not our own; therefore, let us not make it our end to seek what may be agreeable to our carna",
       "quote_sha256": "977abf486911d987cac27fc480ff93e91dae7744a1e748cc1b09c9cdb3e4466c",
@@ -7945,7 +7929,7 @@
     },
     {
       "pages": [
-        238
+        239
       ],
       "opening": "The word ‘therefore’ links all that is now to be said, with everything which has already been said. ",
       "quote_sha256": "53310bcc52ebcafb0307762748514d2b9df1d637884da3ee88acf2cc213af1cd",
@@ -7963,7 +7947,7 @@
     },
     {
       "pages": [
-        238
+        239
       ],
       "opening": "The command is all-inclusive, at once revealing the true impulse of obedience to all the instruc- ti",
       "quote_sha256": "1a283b96d42c79453930079255975fa583b1436f6fb29aa7b921b6e4f7f1a0db",
@@ -7973,7 +7957,7 @@
     },
     {
       "pages": [
-        239
+        240
       ],
       "opening": "the word is logikos from which we get the word “logic.",
       "quote_sha256": "118d82e5494dccd6e9ea07fda257a6f2f74686365aac47fd6a54dc0235254ae1",
@@ -7991,7 +7975,7 @@
     },
     {
       "pages": [
-        239
+        240
       ],
       "opening": "And this, beloved, is the logical, the only logical conclusion to redemption. There is no other logi",
       "quote_sha256": "ba8916911f73456acd0590f80159d08e0fcde320b66e6adc0bb14b6c66e25807",
@@ -8009,7 +7993,7 @@
     },
     {
       "pages": [
-        251
+        252
       ],
       "opening": "And to show that these regulations are for all, even for priests, and monks, and not for men of secu",
       "quote_sha256": "0fca21367de284a4453690d098dee23187e6e829fc254d9aec6d98829e4d784e",
@@ -8027,7 +8011,7 @@
     },
     {
       "pages": [
-        251
+        252
       ],
       "opening": "What say you? It may be said; is every ruler then elected by God? This I do not say, he answers. Nor",
       "quote_sha256": "1945f4820ce5a2f1064352548dbcc948a4d49d753e572aef154b30a1dfebb778",
@@ -8045,7 +8029,7 @@
     },
     {
       "pages": [
-        251
+        253
       ],
       "opening": "For do not tell me of some one who makes an ill use of the thing, but look to the good order that is",
       "quote_sha256": "fc5514cc8e9fd729affecb2f3e51a2152314f6625b363ee789816073ea66ca28",
@@ -8063,7 +8047,7 @@
     },
     {
       "pages": [
-        252
+        253
       ],
       "opening": "I heard the voice as of a boy or girl, I know not which, coming from a neighbouring house, chanting,",
       "quote_sha256": "e1fc8ecd976b1cba4679e536acada29bd660f9194c549ad04ee2e6d661f36a22",
@@ -8073,7 +8057,7 @@
     },
     {
       "pages": [
-        252
+        253
       ],
       "opening": "I grasped, opened, and in silence read that paragraph on which my eyes ﬁrst fell ⋯No further would I",
       "quote_sha256": "eb8adcfa1225c3931624a924e7438c993085317da25712af987246463af7939e",
@@ -8083,7 +8067,7 @@
     },
     {
       "pages": [
-        252
+        253
       ],
       "opening": "He asked to look at what I had read. I showed him; and he looked even further than I had read, and I",
       "quote_sha256": "438b30e53f0c3a083d9ca0ca2ba244702eb4b2cb5d592a5d40933f4c9f4049da",
@@ -8093,7 +8077,7 @@
     },
     {
       "pages": [
-        253
+        254
       ],
       "opening": "For this reason God has ordained the two governments; the spiritual, which by the Holy Spirit under ",
       "quote_sha256": "ba8aed451b068477c8a6d70e03058065a0748d45b8a681425d6a8f81c3b9d424",
@@ -8103,7 +8087,7 @@
     },
     {
       "pages": [
-        253
+        254
       ],
       "opening": "For this reason these two kingdoms must be sharply distinguished, and both be permitted to remain; t",
       "quote_sha256": "e908551e840a1446a01f84e4fc3312fc66bb99e90823469140def77f657f9515",
@@ -8113,7 +8097,7 @@
     },
     {
       "pages": [
-        253
+        254
       ],
       "opening": "Worldly government has laws which extend no farther than to life and property and what is exter- nal",
       "quote_sha256": "4618e23bdd9b29ce569be87bfe8f75c30a7e573e61acb6f5a1a2df6d0f85783a",
@@ -8123,7 +8107,7 @@
     },
     {
       "pages": [
-        253
+        255
       ],
       "opening": "Heresy can never be prevented by force. ⋯Heresy is a spiritual matter, which no iron can strike, no ",
       "quote_sha256": "60b9ebe170767ddd37d170bfa98777d62bdc956f597a84a1c921133de74eb311",
@@ -8133,7 +8117,7 @@
     },
     {
       "pages": [
-        254
+        255
       ],
       "opening": "For though tyrannies and unjust exercise of power, as they are full of disorder, (ataxias) are not a",
       "quote_sha256": "29ea4b9e9f712bcd8e0d9fac753685ae208c1b130b06a6eadff15474aad985fa",
@@ -8151,7 +8135,7 @@
     },
     {
       "pages": [
-        254
+        255
       ],
       "opening": "We are subject to the men who rule over us, but subject only in the Lord. If they command anything a",
       "quote_sha256": "c3915b8170c8e6ed5f6421b6af208d69099be979a9a3f780b240b5aa9b663452",
@@ -8169,7 +8153,7 @@
     },
     {
       "pages": [
-        254
+        255
       ],
       "opening": "But since Peter, one of heaven’s heralds, has published the edict, ‘We ought to obey God rather than",
       "quote_sha256": "c728f21a3508bfe5d809c956209586c0120bde8cc5e880a22d3c1ba907dcac8c",
@@ -8187,7 +8171,7 @@
     },
     {
       "pages": [
-        255
+        256
       ],
       "opening": "To always owe love, is to make it impossible to defraud in matters of purity, of life, of property, ",
       "quote_sha256": "543af3c599f1bd924df61d96ecf27a6ede2120eb5f749dbbe1fc76727c4322ef",
@@ -8205,7 +8189,7 @@
     },
     {
       "pages": [
-        255
+        256
       ],
       "opening": "And that tells us that we are to submit to the government because government serves to restrain evil",
       "quote_sha256": "c9791feb8e437dcda2a9fe8abb52f72a885ffc37a9ce7833dd716d83056dc9c3",
@@ -8219,11 +8203,11 @@
           "sha256": "93265e08a408f2c4e231a12fc4e3ce9c195c68a2bd8f57f7965549db53a56129"
         }
       ],
-      "attribution_context": "\n「這告訴我們，我們要順服政權，因為政權的作用是抑制罪惡。」（45-98）\n\n“We ought to obey God rather than men. That’s the only time a Christian comes to the point of\ntension where he must violate his government.”\n\n「我們應當順從神勝於順從人。那是一個基督徒唯一會走到必須違抗政權這種張力的時\n刻。」（45-97）\n\n— John MacArthur, The Christian’s Responsibility to Government, Part"
+      "attribution_context": "\n「這告訴我們，我們要順服政權，因為政權的作用是抑制罪惡。」（45-98）\n\n“We ought to obey God rather than men. That’s the only time a Christian comes to the point of\ntension where he must violate his government.”\n「我們應當順從神勝於順從人。那是一個基督徒唯一會走到必須違抗政權這種張力的時\n刻。」（45-97）\n\n— John MacArthur, The Christian’s Responsibility to Government, Part "
     },
     {
       "pages": [
-        255
+        257
       ],
       "opening": "We ought to obey God rather than men. That’s the only time a Christian comes to the point of tension",
       "quote_sha256": "57aef119311adde5eac40be26040ab592e7f7172e72b3b22d5c3e62257314e82",
@@ -8237,11 +8221,11 @@
           "sha256": "862efa9a429424de83c61e160c63902bf5ca74489e3864079488c59e72b0bbf0"
         }
       ],
-      "attribution_context": "\n\n「我們應當順從神勝於順從人。那是一個基督徒唯一會走到必須違抗政權這種張力的時\n刻。」（45-97）\n\n— John MacArthur, The Christian’s Responsibility to Government, Part 1 (45-97), The Christian’s\nResponsibility to Government, Part 2 (45-98), gty.org, sermon 45-97 / 45-98（講道逐字稿已核\n對）\n\n詩篇與聖詩(Psalm & Hymn)\n\n詩篇72:1-4\n\n神啊，求你將判斷的權柄賜給王，\n將公義賜給王的兒子。\n他要按公義"
+      "attribution_context": "\n「我們應當順從神勝於順從人。那是一個基督徒唯一會走到必須違抗政權這種張力的時\n刻。」（45-97）\n\n— John MacArthur, The Christian’s Responsibility to Government, Part 1 (45-97), The Christian’s\nResponsibility to Government, Part 2 (45-98), gty.org, sermon 45-97 / 45-98（講道逐字稿已核\n對）\n\n詩篇與聖詩(Psalm & Hymn)\n\n詩篇72:1-4\n\n神啊，求你將判斷的權柄賜給王，\n將公義賜給王的兒子。\n他要按公義審"
     },
     {
       "pages": [
-        269
+        270
       ],
       "opening": "For neither does he venture to say to those who rebuke, You are doing amiss, that he may not seem to",
       "quote_sha256": "e93811c45c61942afeaed83ef04652c426962dc852101213e47457d66c0c39c1",
@@ -8259,7 +8243,7 @@
     },
     {
       "pages": [
-        269
+        270
       ],
       "opening": "For the weaker part ever requires more forethought. Wherefore he aims his blow against the strong, i",
       "quote_sha256": "3ec9e5d922be37bf11c1ab7f26e771e6dd50c458ad393283d69b20fc76343b84",
@@ -8277,7 +8261,7 @@
     },
     {
       "pages": [
-        269
+        270
       ],
       "opening": "Again, he requires the greater alternative, that they should not only not force him, but even condes",
       "quote_sha256": "877265c4e9e5859a7714259da32a7943b172ce33ed6a7f44c3d1a5f3a8874304",
@@ -8287,7 +8271,7 @@
     },
     {
       "pages": [
-        270
+        271
       ],
       "opening": "For God, by making us stronger than others, does not bestow strength that we may oppress the weak; n",
       "quote_sha256": "185bd630734a87d3d7eaaa442ebf95780b17f43a6de6993504364d8d4226d083",
@@ -8305,7 +8289,7 @@
     },
     {
       "pages": [
-        270
+        271
       ],
       "opening": "It may at the same time be proper to extend this farther, even to any thorny and difﬁcult questions,",
       "quote_sha256": "f062070d95219747f11d29bf55edfb1d8365895a74c2d64f62c1e2edd0674d82",
@@ -8323,7 +8307,7 @@
     },
     {
       "pages": [
-        270
+        271
       ],
       "opening": "The reason for this condemnation is, that every work, however splendid and excellent in appear- ance",
       "quote_sha256": "fd74ecf7c29c536f719972e30fbb763c6cf113ec3709a6897c00e707f92ca41f",
@@ -8341,7 +8325,7 @@
     },
     {
       "pages": [
-        270
+        271
       ],
       "opening": "The word faith is to be taken here for a ﬁxed persuasion of the mind, or, so to speak, for a ﬁrm ass",
       "quote_sha256": "bc3fc8ee0f220cbf31f890957d90efa88056ec1691d795365cd0174516417296",
@@ -8359,7 +8343,7 @@
     },
     {
       "pages": [
-        271
+        272
       ],
       "opening": "II. SUBMISSION. RELATIVE LIFE. THOSE WITHOUT",
       "quote_sha256": "181156817da66254d2cc868193523a42b5aebfaccf6b876b82232dbf32fdcf86",
@@ -8369,7 +8353,7 @@
     },
     {
       "pages": [
-        271
+        272
       ],
       "opening": "III. SYMPATHY. RELATIVE LIFE. THOSE WITHIN",
       "quote_sha256": "96ae2ec40f6aa7075c7f8906657b7b2927e87c33dbf5ce946180a652c6b94f83",
@@ -8387,7 +8371,7 @@
     },
     {
       "pages": [
-        271
+        272
       ],
       "opening": "The logical sequence of this is that when I pass judgment on my brother, I am usurping the very thro",
       "quote_sha256": "5c46a3c66383146381bd99352f9e91795835301b7fc3b1a902f008b3e653d18d",
@@ -8397,7 +8381,7 @@
     },
     {
       "pages": [
-        272
+        273
       ],
       "opening": "But here you have what we will call non-moral preferences, that we want to talk about here, non-mora",
       "quote_sha256": "717ef2308bac95d7f811657374896ed3b0713764eff41ba4bc58c24525afc9ec",
@@ -8415,7 +8399,7 @@
     },
     {
       "pages": [
-        272
+        273
       ],
       "opening": "In other words, we’re not here to promote externals, are we?",
       "quote_sha256": "19813fdf449a2b94eef56587eee36892f20328ca4ad4883be6e33d3864f52fa8",
@@ -8433,7 +8417,7 @@
     },
     {
       "pages": [
-        286
+        287
       ],
       "opening": "For thou, he says, art powerful, and art no whit the worse for condescending. But to him the hazard ",
       "quote_sha256": "72358d39767e6b1769edb838944f81113f7f7a78dd2973e210f245d12cea8a13",
@@ -8443,7 +8427,7 @@
     },
     {
       "pages": [
-        286
+        287
       ],
       "opening": "But what is the import of, He pleased not Himself? He had power not to have been reproached, power n",
       "quote_sha256": "154ba0197c3c893bb8cd15a47ed51c2b4f1e3941e29320a68894a279f19d594a",
@@ -8453,7 +8437,7 @@
     },
     {
       "pages": [
-        287
+        288
       ],
       "opening": "This is an interesting passage, by which we understand that there is nothing vain and unproﬁtable co",
       "quote_sha256": "83ab5653408dcc64bf298cfffae04bfddb65185332d2813e4e2abcecb6ed2d0b",
@@ -8471,7 +8455,7 @@
     },
     {
       "pages": [
-        287
+        288
       ],
       "opening": "Moreover, we ﬁnd here a most striking condemnation of those fanatics who vaunt that the Old Testamen",
       "quote_sha256": "24b6ee99ce52dcf57f7ab3436ae23a438ffdd60f4c5d145526785166b44924f4",
@@ -8489,7 +8473,7 @@
     },
     {
       "pages": [
-        287
+        288
       ],
       "opening": "And though he speaks of the Old Testament, the same thing is also true of the writings of the Apostl",
       "quote_sha256": "0a42e15291edd19764be61d2da42d21d069d027844f95c6d8a65900d81c076b7",
@@ -8507,7 +8491,7 @@
     },
     {
       "pages": [
-        287
+        288
       ],
       "opening": "for the Scriptures are especially serviceable for this purpose – to raise up those who are prepared ",
       "quote_sha256": "e13077d924e1d208b447eaf090b9adbff65fcc1c001e72551f42c5bc33f005a3",
@@ -8525,7 +8509,7 @@
     },
     {
       "pages": [
-        288
+        289
       ],
       "opening": "This is the second point, on proving which he dwells longer, because it was not so evident.",
       "quote_sha256": "887a7bda17e4234b94ec7cb080db1243e55849199632b50a7d5475761bba5694",
@@ -8543,7 +8527,7 @@
     },
     {
       "pages": [
-        288
+        289
       ],
       "opening": "This prophecy is the most illustrious of them all: for in that passage, the Prophet, when things wer",
       "quote_sha256": "3c696be890f2e42c8be78acd98cfb3bdef292b61dadc55d40ec1d2da6e1d5020",
@@ -8561,7 +8545,7 @@
     },
     {
       "pages": [
-        288
+        289
       ],
       "opening": "How excellent a thing it will be for the whole Church when in all aggressive enterprise she proceeds",
       "quote_sha256": "faf96c240bd16599ec543e947fff47167aae5102c8196ed57b836fb1de5d6fd4",
@@ -8571,7 +8555,7 @@
     },
     {
       "pages": [
-        289
+        290
       ],
       "opening": "He is not in strict deﬁnition a priest. But his role is analogous to a priest.",
       "quote_sha256": "4567bef1b0242b76f4914f2a02bc7961098364ff1faf52d253897d27286a6603",
@@ -8589,7 +8573,7 @@
     },
     {
       "pages": [
-        289
+        290
       ],
       "opening": "So, Paul is not a priest who makes atonement for sin. He is not a priest who offers a propitiatory s",
       "quote_sha256": "1bb8ad32f42cb49a15945b2a93eaf07e0a3f8a219e9c42e7ac4a7ed37ad49ce1",
@@ -8607,7 +8591,7 @@
     },
     {
       "pages": [
-        289
+        290
       ],
       "opening": "It’s not a question of wrong; it’s a question of his calling. Some are called to lay the foundation.",
       "quote_sha256": "c595a559e21bb6295c6346758a449dfee1e3f97aca57446b4f3c9bb0b5039532",
@@ -8625,7 +8609,7 @@
     },
     {
       "pages": [
-        301
+        302
       ],
       "opening": "And indeed to be apostles at all is a great thing. But to be even among these of note, just consider",
       "quote_sha256": "4f62bdf35ea71f47e639f8f44be3c63280ff6231a53fdcdb89109202f16c40dd",
@@ -8643,7 +8627,7 @@
     },
     {
       "pages": [
-        302
+        303
       ],
       "opening": "The testimonies which he brings here in favor of some individuals, were partly intended for this end",
       "quote_sha256": "ee92e7da266ee8d8382a9edc6cd8a1b70d6661512407c4d84844304138cca063",
@@ -8661,7 +8645,7 @@
     },
     {
       "pages": [
-        302
+        303
       ],
       "opening": "It is a singular honor which he ascribes here to Prisca and Aquila, especially with regard to a woma",
       "quote_sha256": "9dded98655cce38c153781f928521bcd0cb55ba23bfe4d54d214aa5e527ca5c8",
@@ -8679,7 +8663,7 @@
     },
     {
       "pages": [
-        302
+        303
       ],
       "opening": "In the third place, he calls them Apostles: he uses not this word in its proper and common mean- ing",
       "quote_sha256": "66120100dea19e205de5ea4d774a3a1f4a6ad7fea05cfc9ed81fbd692f0ae421",
@@ -8697,7 +8681,7 @@
     },
     {
       "pages": [
-        303
+        304
       ],
       "opening": "What a glorious picture of the unity of the Church is here afforded! The only realization of that un",
       "quote_sha256": "13701f564af45f2a78fc93a0815b395e095a18a163510289334888a37f488e32",
@@ -8715,7 +8699,7 @@
     },
     {
       "pages": [
-        303
+        304
       ],
       "opening": "The ﬁnal word of the great letter of salvation is ﬁttingly one of praise.",
       "quote_sha256": "7e35a798603309011edc0651fe7deb845affe889eca600ab96c6707bd9ee751e",
@@ -8725,7 +8709,7 @@
     },
     {
       "pages": [
-        303
+        304
       ],
       "opening": "But do we need to be reminded that it may have been that there would have been nothing but a dead bo",
       "quote_sha256": "5fbac012a743e5640555e83f18be44106bc2fc3cf07c0adc2b10e8e1d3edc105",
@@ -8743,7 +8727,7 @@
     },
     {
       "pages": [
-        303
+        304
       ],
       "opening": "It’s almost a bracketing of the same truth with which he introduced this great epistle. It is intro-",
       "quote_sha256": "5a92fb99adafcc6cacb2563dafda9db86e29997115fee65a9eb1508d43462d38",
@@ -8761,9 +8745,9 @@
     }
   ],
   "production": {
-    "fonts": 65,
+    "fonts": 55,
     "unembedded": [],
-    "bookmarks": 256,
+    "bookmarks": 259,
     "language": "zh-Hant"
   }
 }

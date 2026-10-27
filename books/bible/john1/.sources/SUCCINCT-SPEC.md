@@ -1,6 +1,6 @@
 # 約翰一書 精簡輪規格（同一個點全章只講一次）
 
-Repo: /Users/jimxiao/Documents/GitHub/pubhub   Book: books/bible/john1
+Repo: /Users/jimxiao/dev/pubhub   Book: books/bible/john1
 Pre-edit copies (for your own diffing): /private/tmp/claude-501/-Users-jimxiao-Documents-GitHub-pubhub-books-bible-john1/23dc1de0-f3c9-4514-a375-536c61104b67/scratchpad/pre-succinct/<file>
 
 **The exemplar diff is the most precise statement of this spec:** books/bible/john1/.sources/succinct-exemplar-ch03.diff (chapter 3, done by the coordinator, movable prose 4228 → 3617 CJK = 86%). Read it first.
@@ -28,7 +28,7 @@ Movable prose (everything except the ## 經文 section) to roughly **80–88%** 
 - Any Chinese Scripture inside 「」 must stay a verbatim CUV substring (house style 裏).
 
 ## Self-check commands (paste results in report)
-cd /Users/jimxiao/Documents/GitHub/pubhub
+cd /Users/jimxiao/dev/pubhub
 python3 - <<'PY'
 import re,sys
 f=sys.argv[1] if len(sys.argv)>1 else ''

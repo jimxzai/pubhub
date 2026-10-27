@@ -1,15 +1,35 @@
 """Vector series packaging inspired by John's design, with Romans' identity."""
 import math
 import fitz
+from patch_fonts import load_songti_regular, load_times_italic
 
 GOLD = (216/255, 183/255, 109/255)
+# Naming "serif" in CSS here silently renders in insert_htmlbox's own bundled
+# Droid Sans Fallback / Charis SIL instead of erroring (see patch_fonts.py);
+# the real Songti SC / Times New Roman Italic faces are registered below and
+# addressed through @font-face rather than by system font name.
+_COVER_ARCHIVE = None
+
+def _cover_archive():
+    global _COVER_ARCHIVE
+    if _COVER_ARCHIVE is None:
+        songti = load_songti_regular()
+        italic = load_times_italic()
+        face_css = (
+            '@font-face { font-family: "CoverFont"; src: url("cover-songti.ttf"); font-style: normal; }\n'
+            '@font-face { font-family: "CoverFont"; src: url("cover-italic.ttf"); font-style: italic; }\n'
+        )
+        archive = fitz.Archive([(songti, 'cover-songti.ttf'), (italic, 'cover-italic.ttf')])
+        _COVER_ARCHIVE = (face_css, archive)
+    return _COVER_ARCHIVE
 
 def text(page, top, bottom, html, size=12, color='#f9f6ec', align='center'):
-    css = f'''body {{font-family:serif; font-size:{size}pt; line-height:1.45;
+    face_css, archive = _cover_archive()
+    css = face_css + f'''body {{font-family:"CoverFont"; font-size:{size}pt; line-height:1.45;
         color:{color}; margin:0; text-align:{align};}}
         p {{margin:0 0 9pt;}} i {{color:#d8b76d;}}'''
     spare, scale = page.insert_htmlbox(fitz.Rect(62,top,442,bottom), html,
-                                      css=css, scale_low=1)
+                                      css=css, archive=archive, scale_low=1)
     if spare < 0 or scale != 1:
         raise ValueError(f'Cover text overflow at {top}')
 
@@ -31,7 +51,16 @@ def rule(page, y, left=98, right=406):
     page.draw_line((left,y),(right,y),color=GOLD,width=.5)
 
 def covers(doc):
-    front, back = doc[0], doc[-1]
+    """Style the front and back covers of doc in place, wherever those pages
+    currently are (doc[0]/doc[-1]) -- callable on the 348-page original or,
+    separately per side, on a spliced document where the back cover has
+    moved. See front_cover()/back_cover() for the per-side entry points used
+    by the 2026-09-24 splice (merge_baseline_pdf.py)."""
+    front_cover(doc[0])
+    back_cover(doc[-1])
+
+
+def front_cover(front):
     ground(front)
     text(front,62,103,'Three Books Deep Reading · Romans<br>三書精讀 · 羅馬書深度研讀',10,'#bfced3')
     rule(front,119,175,329)
@@ -54,6 +83,8 @@ def covers(doc):
     text(front,604,633,'因信稱義　與主同活　獻上活祭',11,'#d8b76d')
     text(front,648,688,'PubHub · 三書精讀出版系統<br><span style="font-size:8.2pt;color:#bfced3">研讀指南 · Edition 1.1</span><br><span style="font-size:8.2pt;color:#bfced3">CUV / NASB 1995 · 2026-09-20</span>',8.8)
 
+
+def back_cover(back):
     ground(back)
     text(back,64,91,'神的義 · The Righteousness of God',15,'#d8b76d')
     text(back,111,152,'從因信稱義，到獻上自己',22)

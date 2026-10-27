@@ -19,7 +19,7 @@ sudo tlmgr update --self
 sudo tlmgr install tcolorbox environ trimspaces collection-fontsrecommended parskip etoolbox
 
 # Navigate to the template directory
-cd /Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/latex-template
+cd /Users/jimxiao/dev/pubhub/books/ai-agents/latex-template
 
 # Build the PDF
 make
@@ -36,7 +36,7 @@ make
 ### To create the ZIP file:
 
 ```bash
-cd /Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents
+cd /Users/jimxiao/dev/pubhub/books/ai-agents
 zip -r ai-workforce-latex.zip latex-template/
 ```
 
@@ -47,7 +47,7 @@ zip -r ai-workforce-latex.zip latex-template/
 docker pull texlive/texlive
 
 # Build the book
-cd /Users/jimxiao/Documents/GitHub/pubhub/books/ai-agents/latex-template
+cd /Users/jimxiao/dev/pubhub/books/ai-agents/latex-template
 docker run --rm -v "$(pwd)":/workdir -w /workdir texlive/texlive \
     pdflatex -output-directory=output Book/book.tex
 docker run --rm -v "$(pwd)":/workdir -w /workdir texlive/texlive \

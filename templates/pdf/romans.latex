@@ -15,20 +15,43 @@
   BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
-\setsansfont{PingFang SC}
-\setmonofont{Songti SC}
+%% BoldFont fix (see .claude/skills/eat-bible/references/gotchas.md):
+%% "Songti SC Bold" has missing/mismatched glyphs for full-width punctuation
+%% (：。), so xelatex silently *weakens* any \textbf run containing them
+%% instead of erroring — zero warnings, exit code 0. \setmainfont and the
+%% ucharclasses run-fonts below already carry the FakeBold fix; extend it to
+%% \setsansfont, \setmonofont and \cjkfallbackfont so no CJK-bearing font in
+%% this template still points BoldFont at a real, glyph-incomplete bold face.
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+\setmonofont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2}
+]
 
 %% Greek and Hebrew font support - auto-switch for Unicode blocks
 \usepackage{ucharclasses}
 \newfontfamily\greekfont{Times New Roman}[Script=Greek]
 \newfontfamily\hebrewfont{Arial Hebrew}[Script=Hebrew]
-\newfontfamily\cjkfallbackfont{Songti SC}
+\newfontfamily\cjkfallbackfont{Songti SC}[
+  ItalicFont=Kaiti SC,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2}
+]
 
 %% Classical English typeface — auto-switch for Latin-script runs so
 %% bilingual scripture/quote blocks render in a period-appropriate serif
 %% instead of Songti SC's built-in Latin glyphs. Baskerville for running
 %% text; Didot reserved for large display lines (invoked explicitly).
-\newfontfamily\basklatin{Baskerville}
+%% Real bold/italic faces (not synthetic) — Baskerville, unlike Songti SC,
+%% has complete glyph coverage in its own bold/italic files.
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
 \newfontfamily\didotfont{Didot}
 % Alias matching the naming convention used on the full-bleed cover pages
 \newcommand{\baskervillefont}{\basklatin}
@@ -314,8 +337,10 @@
   bookmarksnumbered=true,
   pdftitle={羅馬書研讀},
   pdfauthor={PubHub 三書精讀系統},
-  pdfsubject={Romans Deep Study},
-  pdflang={zh-TW}
+  pdfsubject={羅馬書逐章研讀：因信稱義的福音如何塑造新生命},
+  pdfkeywords={羅馬書, Romans, 聖經研讀, Bible study, 和合本, NASB, 因信稱義, 羅馬大道, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
 }
 
 %% ============================================
