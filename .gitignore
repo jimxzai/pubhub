@@ -66,3 +66,12 @@ coverage/
 # Python bytecode
 __pycache__/
 *.pyc
+
+# Raw source corpora and regenerable caches (per-book; chapters/scripts/scores stay tracked)
+/scripts/fhl-prose-cache/
+/books/bible/nehemiah/sources/
+/books/bible/thessanlonian1/sources/
+/books/bible/thessanlonian2/sources/
+/books/bible/daniel/.sources/
+/books/bible/ezra/.sources/
+/_meta/archive/pubhubNew-unique/
