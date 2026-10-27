@@ -1,0 +1,793 @@
+% PubHub Second Thessalonians Template (derived from james.latex, 2026-10)
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Songti SC}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% GREEK / HEBREW WORD STUDY — ucharclasses, full block coverage
+%% via \setTransitionTo (sets the ENTERING direction only, so
+%% declaration order cannot clobber an earlier block — see
+%% .claude/skills/eat-bible/references/gotchas.md before editing this).
+%% \uckeep carries series/shape (bold/italic) across the font switch.
+%% ============================================
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew, Scale=1.35]
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2}, ItalicFont=Kaiti SC]
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+
+%% Classical English typeface for the front/back cover — Baskerville for
+%% running text, Didot reserved for the large display title (invoked
+%% explicitly). Matches templates/pdf/revelation.latex's cover convention.
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
+\newfontfamily\didotfont{Didot}
+\newcommand{\baskervillefont}{\basklatin}
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Professional Bible Study
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Dusk plum for 2 Thessalonians (the Day, the order of time)
+\definecolor{ChapterGreen}{RGB}{72,44,78}         % Dusk plum for chapters (name kept from james.latex)
+\definecolor{ScriptureGold}{RGB}{165,125,55}      % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}      % Warm brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}       % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{245,248,252}           % Light blue for Greek
+\definecolor{ApplicationBg}{RGB}{250,247,251}     % Light plum for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Words of Jesus (echoed in commentary, e.g. Sermon on the Mount parallels)
+\definecolor{JesusRed}{RGB}{155,35,35}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% Matches templates/pdf/revelation.latex's cover convention, retoned to
+%% this book's dusk-plum/gold palette instead of Revelation's navy.
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+\usepackage{pgfornament}
+
+% Cover gradient (near-black plum at top to the book's own
+% ChapterGreen at bottom)
+\definecolor{GreenDark}{RGB}{18,10,22}
+\definecolor{GreenLight}{RGB}{72,44,78}
+
+% Full-bleed background, painted in the shipout background hook so it
+% bleeds to the true physical page edge and does not disturb the
+% \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=GreenDark,bottom color=GreenLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the front cover and the
+% closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% A single fleuron, used as a divider accent (flanked by rules) on the
+% full-bleed cover pages and the colophon page. Ornament 70 (a symmetric
+% baroque flourish) reads far more clearly at small sizes than 88 (a bare
+% flourish-with-center-dot that thins to an almost invisible line when used
+% alone with generous surrounding whitespace, as on a colophon page).
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.7cm,color=#1]{70}%
+}
+
+% A simple, classical Latin cross with a small gold roundel at the crossing
+% — the book's explicit Christian emblem, reserved for the front cover and
+% colophon (the two pages that frame the reader's first and last impression).
+\newcommand{\coveremblem}[1][CoverGoldBright]{%
+\begin{tikzpicture}[scale=0.24]
+  \draw[color=#1,line width=1.3pt,line cap=round] (0,-1.15) -- (0,1.15);
+  \draw[color=#1,line width=1.3pt,line cap=round] (-0.62,0.45) -- (0.62,0.45);
+  \fill[color=#1] (0,0.45) circle (0.09);
+\end{tikzpicture}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{240,238,222}
+\definecolor{CoverGoldBright}{RGB}{200,168,88}
+\definecolor{CoverMuted}{RGB}{190,178,192}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet (must load
+% after hyperref) — otherwise pdfinfo reports no Title/Author/Subject at all.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterGreen,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdftitle={帖撒羅尼迦後書研讀 — Second Thessalonians Deep Study},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={帖撒羅尼迦後書逐段研讀：神的次序——那日必到，那日未到，從起初到榮光，按次序而活},
+  pdfkeywords={帖撒羅尼迦後書, 2 Thessalonians, 聖經研讀, Bible study, 和合本, NASB, 主的日子, 末世論, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Greek/Hebrew; \small
+% keeps long 註解 cells from wrapping to a few characters per line.
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterGreen} 第 \thechapter\ 章
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterGreen} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterGreen} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterGreen}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% SECTION NUMBERING AND TOC DEPTH
+%% secnumdepth=0 — no "3.7.2 ..." numbering on body headings or in running
+%% heads. tocdepth=0 — contents lists chapters only. The build script's
+%% --toc-depth/-V tocdepth do NOT set this on their own; the LaTeX counter
+%% must be set here (see .claude/skills/eat-bible/references/gotchas.md).
+%% ============================================
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
+
+% book class's default \chaptermark prints "Chapter N. <title>" (English word)
+% in the running head, redundant with the Chinese 「第N章」already in the title.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+% \chapter* (preface, orientation chapters, appendices, afterword) never
+% calls \chaptermark, so without this patch the verso running head keeps
+% showing the last NUMBERED chapter's title on every front/back-matter page.
+\makeatletter
+\apptocmd{\@schapter}{\markboth{#1}{}}{}{\PackageWarning{2thess}{could not patch \string\@schapter}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{0.9cm}
+
+\coveremblem[CoverGoldBright]
+
+\vspace{0.4cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+\fleuron[CoverGoldBright]\hspace{0.3cm}{\color{CoverGoldBright}\rule{1.6in}{0.4pt}}\hspace{0.3cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 神的次序}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} God's Order --- The Second Epistle to the Thessalonians}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 帖撒羅尼迦後書研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of Second Thessalonians}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+所以，弟兄們，你們要站立得穩。\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} "So then, brethren, stand firm." --- 2 Thessalonians 2:15}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 你按著神的次序而活嗎？}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} Are you living in step with God's order?}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.8cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterGreen} 神的次序}\\[0.2cm]
+{\large\itshape\color{LightGray} God's Order}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 帖撒羅尼迦後書研讀}\\[0.15cm]
+{\normalsize A Study of Second Thessalonians}
+
+\vspace{0.6cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+願賜平安的主隨時隨事親自給你們平安！\\[0.2em]
+\footnotesize Now may the Lord of peace Himself continually\\
+grant you peace in every circumstance. --- 2 Thessalonians 3:16
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.8cm}
+
+% Book Structure diagram — the four steps of the spine
+% (node width is NOT scaled by [scale=...] but coordinates are; 2.9 units
+% * 0.7 = 2.03cm clears 1.9cm boxes, as in the James template)
+\begin{tikzpicture}[scale=0.7]
+  \node[font=\footnotesize\bfseries,color=ChapterGreen] at (0,3.5) {Book Structure 書卷結構};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (-5.8,2) {1:1-4};
+  \node[font=\tiny,color=LightGray] at (-5.8,1.5) {起點：神已動工};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (-2.9,2) {1:5-12};
+  \node[font=\tiny,color=LightGray] at (-2.9,1.5) {那日必到};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (0,2) {2:1-12};
+  \node[font=\tiny,color=LightGray] at (0,1.5) {那日未到};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (2.9,2) {2:13-17};
+  \node[font=\tiny,color=LightGray] at (2.9,1.5) {從起初到榮光};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=1.9cm,minimum height=0.6cm,font=\tiny] at (5.8,2) {3:1-18};
+  \node[font=\tiny,color=LightGray] at (5.8,1.5) {按次序而活};
+
+  % Arrows
+  \draw[->,color=ScriptureGold,thick] (-4.4,2) -- (-4.2,2);
+  \draw[->,color=ScriptureGold,thick] (-1.45,2) -- (-1.25,2);
+  \draw[->,color=ScriptureGold,thick] (1.45,2) -- (1.65,2);
+  \draw[->,color=ScriptureGold,thick] (4.2,2) -- (4.4,2);
+
+  % Core theme at bottom
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=4cm,minimum height=0.6cm,font=\small\bfseries] at (0,0.3) {Order in Time, Order in Life};
+  \node[font=\tiny,color=LightGray] at (0,-0.2) {時候的次序 = 生活的次序};
+\end{tikzpicture}
+
+\vfill
+
+% Author info
+{\normalsize\color{ScriptureGold}\bfseries 作者：保羅（與西拉、提摩太同署）}\\[0.1cm]
+{\footnotesize\color{LightGray} Author: Paul, with Silvanus and Timothy}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Two Revelations diagram page — 1:7 against 2:3-9 (SBLGNT word counts,
+% see the Greek vocabulary appendix)
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+{\Large\bfseries\color{ChapterGreen} 兩個「顯現」}\\[0.1cm]
+{\normalsize Two Revelations: the Lord and the Counterfeit}
+
+\vspace{0.8cm}
+
+\begin{tikzpicture}[scale=0.9]
+  \node[font=\large\bfseries,color=ChapterGreen] at (-3.3,4.2) {主耶穌 the Lord Jesus};
+  \node[font=\large\bfseries,color=ChapterGreen] at (3.3,4.2) {不法的人 the Lawless One};
+
+  % NOTE: `text=` (not `color=`) after `fill=` -- see james.latex: `color`
+  % is a meta-key that would repaint the fill and hide the label.
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=5cm,minimum height=0.9cm,font=\small,text=TextGray,align=center] at (-3.3,3) {顯現 ἀποκάλυψις\\1:7};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=5cm,minimum height=0.9cm,font=\small,text=TextGray,align=center] at (3.3,3) {顯露 ἀποκαλύπτω\\2:3, 6, 8};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=5cm,minimum height=0.9cm,font=\small,text=TextGray,align=center] at (-3.3,1.7) {降臨 παρουσία\\2:1, 8};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=5cm,minimum height=0.9cm,font=\small,text=TextGray,align=center] at (3.3,1.7) {來 παρουσία\\2:9};
+
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=5cm,minimum height=0.9cm,font=\small,text=TextGray,align=center] at (-3.3,0.4) {在聖徒身上得榮耀\\1:10, 12};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=5cm,minimum height=0.9cm,font=\small,text=TextGray,align=center] at (3.3,0.4) {照撒但的運動 ἐνέργεια\\2:9};
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,font=\small\bfseries,text=CommentaryBrown,align=center] at (0,-1.4) {主耶穌要用口中的氣滅絕他，用降臨的榮光廢掉他（2:8）\\The Lord will slay him with the breath of His mouth};
+
+  \draw[->,ScriptureGold,line width=1.5pt] (-1.5,-0.25) -- (-0.6,-0.9);
+  \draw[->,ScriptureGold,line width=1.5pt] (1.5,-0.25) -- (0.6,-0.9);
+\end{tikzpicture}
+
+\vspace{1cm}
+
+{\Large\bfseries\color{ChapterGreen} 次序與失序}\\[0.1cm]
+{\normalsize Order and Disorder}
+
+\vspace{0.5cm}
+
+\begin{tikzpicture}[scale=0.8]
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=4.2cm,font=\tiny,align=center] at (-3.4,1) {2:2「主的日子現在到了」\\時候的失序};
+  \node[draw=ChapterGreen,fill=ScriptureBg,rounded corners,minimum width=4.2cm,font=\tiny,align=center] at (3.4,1) {3:6, 11 ἀτάκτως「不按規矩而行」\\生活的失序};
+  \draw[->,ScriptureGold,thick] (-0.6,1) -- (0.6,1);
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=4.2cm,font=\tiny,align=center] at (-3.4,-0.4) {2:3「那日子以前，必有……」\\回到神的時間表};
+  \node[draw=ChapterGreen,fill=ApplicationBg,rounded corners,minimum width=4.2cm,font=\tiny,align=center] at (3.4,-0.4) {3:12「要安靜做工」\\回到行列};
+  \draw[->,ScriptureGold,thick] (-0.6,-0.4) -- (0.6,-0.4);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+{\footnotesize\color{LightGray} 「凡事都有定期，天下萬務都有定時。」— 傳道書 3:1}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{帖撒羅尼迦後書研讀 / Second Thessalonians Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+\textbf{主要參考資料 / Primary Sources}\\
+\textbullet\ John Chrysostom - Homilies on Second Thessalonians\\
+\textbullet\ John Calvin - Commentary on the Second Epistle to the Thessalonians\\
+\textbullet\ G. Campbell Morgan - Living Messages of the Books of the Bible\\
+\textbullet\ John MacArthur - Grace To You (gty.org)\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+{\color{ChapterGreen}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\coveremblem[ScriptureGold]
+
+\vspace{0.5cm}
+
+\fleuron\hspace{0.3cm}{\color{ScriptureGold}\rule{1.3in}{0.4pt}}\hspace{0.3cm}\fleuron
+
+\vspace{1cm}
+
+{\small\itshape\color{CommentaryBrown} 願主引導你們的心，叫你們愛神，並學基督的忍耐！}\\[0.4em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} "May the Lord direct your hearts into the love of God\\and into the steadfastness of Christ." --- 2 Thessalonians 3:5}
+
+\vspace{1.2cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你看見耶穌了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Have you seen Jesus?}
+
+\vspace{1.4cm}
+
+{\color{ScriptureGold}\rule{0.9in}{0.4pt}}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria --- 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} ὁ κύριος τῆς εἰρήνης}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "The Lord of Peace"} · 賜平安的主——神的次序最後的落款 (3:16)}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.4cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+帖撒羅尼迦人聽見一句話——「主的日子現在到了」——就動了心，有人連工也不做了。保羅的回答不是日期，是次序：那日子必到，但那日子以前必有先後；而在一切先後之先，有神從起初的揀選。本書逐段研讀帖撒羅尼迦後書全書三章，以「啟示的次序」為骨幹，整合老弟兄查經教導法、屈梭多模與加爾文的歷代注疏、G. Campbell Morgan 的全卷信息，以及 John MacArthur 逐節解經講道（gty.org）。
+
+\vspace{0.3cm}
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ church was told that the day of the Lord had already come, and some stopped working. Paul answered not with a date but with an order: the Day will come, but not before its appointed sequence; and before every sequence stands God's choice "from the beginning." A passage-by-passage study of all three chapters, built on the order of revelation, drawing on Elder Wong's method of Bible study, Chrysostom and Calvin, G. Campbell Morgan, and John MacArthur's exposition (gty.org).}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\small\bfseries\color{CoverCream} 四步：神的次序}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Four Steps of God's Order}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cp{3.4in}l@{}}
+第一步 & 那日必到 \textit{\baskervillefont\color{CoverCream} The Day will surely come} & {\tiny\color{CoverMuted} 1:5-12}\\[0.25em]
+第二步 & 那日未到 \textit{\baskervillefont\color{CoverCream} Not before its appointed order} & {\tiny\color{CoverMuted} 2:1-12}\\[0.25em]
+第三步 & 從起初到榮光 \textit{\baskervillefont\color{CoverCream} From the beginning to glory} & {\tiny\color{CoverMuted} 2:13-17}\\[0.25em]
+第四步 & 按次序而活 \textit{\baskervillefont\color{CoverCream} Living in step with God's order} & {\tiny\color{CoverMuted} 3:1-18}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\itshape\color{CoverCream} 願賜平安的主隨時隨事親自給你們平安！}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "Now may the Lord of peace Himself continually grant you peace in every circumstance." --- 2 Thessalonians 3:16}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.35cm}
+
+{\footnotesize\color{CoverMuted} \S\ Second Thessalonians Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}

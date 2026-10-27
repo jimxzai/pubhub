@@ -1,0 +1,22 @@
+# Reviewed exceptions for the in-prose Scripture citation audit
+# (scripts/verify-prose-citations.py; pattern follows books/bible/james/.prose-citation-accept)
+#
+# Each line: file|quoted text|reason. Only entries checked by hand against
+# sources/scripture/cuv.tsv belong here — never an unexamined mismatch.
+#
+# FHL's text carries an editorial note inside 2:2 「現在（現在：或譯就）到了」;
+# the book prints the verse without the note, so the exact quote fails to match.
+00-overview.md|主的日子現在到了|2:2 verbatim; FHL inline 或譯 note breaks the match
+00c-revelation-order.md|主的日子現在到了|same as above
+01-faith-growing-in-affliction.md|主的日子現在到了|same as above
+03-that-day-not-yet.md|主的日子現在到了|same as above
+07-work-in-quietness.md|主的日子現在到了|same as above
+00a-2thess-position.md|主的日子現在到了|same as above
+# House normalisation drops CUV's apposition dash: 「神─我們的父」 -> 「神我們的父」
+01-faith-growing-in-affliction.md|神我們的父與主耶穌基督|1:1 verbatim after house normalisation of ─
+# A gloss of ὀφείλομεν, not a quotation of Rom 13:8 (the verse itself is quoted next to it)
+01-faith-growing-in-affliction.md|虧欠、有義務|word gloss; Rom 13:8 quoted separately and verified
+# 「我們靠主深信」 is 3:4 (verbatim); the checker pairs it with the following (3:5)
+06-the-lord-is-faithful.md|我們靠主深信|3:4 verbatim; nearest reference is 3:5 for the next clause
+# 2:13 variant reading ἀπαρχήν glossed as 「初熟的果子」 (not a quotation of CUV 2:13)
+05-chosen-from-the-beginning.md|初熟的果子|gloss of the SBLGNT variant at 2:13, discussed in the chapter
