@@ -1,0 +1,23 @@
+### 中文 — 和合本 (CUV)
+
+> ^1^這事做完了，眾首領來見我，說：「以色列民和祭司並利未人，沒有離絕迦南人、赫人、比利洗人、耶布斯人、亞捫人、摩押人、埃及人、亞摩利人，仍效法這些國的民，行可憎的事。^2^因他們為自己和兒子娶了這些外邦女子為妻，以致聖潔的種類和這些國的民混雜；而且首領和官長在這事上為罪魁。」
+
+> ^3^我一聽見這事，就撕裂衣服和外袍，拔了頭髮和鬍鬚，驚懼憂悶而坐。^4^凡為以色列　神言語戰兢的，都因這被擄歸回之人所犯的罪聚集到我這裏來。我就驚懼憂悶而坐，直到獻晚祭的時候。
+
+> ^5^獻晚祭的時候我起來，心中愁苦，穿著撕裂的衣袍，雙膝跪下向耶和華─我的　神舉手，
+
+> ^6^說：「我的　神啊，我抱愧蒙羞，不敢向我　神仰面；因為我們的罪孽滅頂，我們的罪惡滔天。^7^從我們列祖直到今日，我們的罪惡甚重；因我們的罪孽，我們和君王、祭司都交在外邦列王的手中，殺害、擄掠、搶奪、臉上蒙羞正如今日的光景。^8^現在耶和華─我們的　神暫且施恩與我們，給我們留些逃脫的人，使我們安穩如釘子釘在他的聖所，我們的　神好光照我們的眼目，使我們在受轄制之中稍微復興。^9^我們是奴僕，然而在受轄制之中，我們的　神仍沒有丟棄我們，在波斯王眼前向我們施恩，叫我們復興，能重建我們　神的殿，修其毀壞之處，使我們在猶大和耶路撒冷有牆垣。
+
+> ^10^「我們的　神啊，既是如此，我們還有甚麼話可說呢？因為我們已經離棄你的命令，^11^就是你藉你僕人眾先知所吩咐的說：『你們要去得為業之地是污穢之地；因列國之民的污穢和可憎的事，叫全地從這邊直到那邊滿了污穢。^12^所以不可將你們的女兒嫁他們的兒子，也不可為你們的兒子娶他們的女兒，永不可求他們的平安和他們的利益，這樣你們就可以強盛，吃這地的美物，並遺留這地給你們的子孫永遠為業。』^13^神啊，我們因自己的惡行和大罪，遭遇了這一切的事，並且你刑罰我們輕於我們罪所當得的，又給我們留下這些人。^14^我們豈可再違背你的命令，與這行可憎之事的民結親呢？若這樣行，你豈不向我們發怒，將我們滅絕，以致沒有一個剩下逃脫的人嗎？^15^耶和華─以色列的　神啊，因你是公義的，我們這剩下的人才得逃脫，正如今日的光景。看哪，我們在你面前有罪惡，因此無人在你面前站立得住。」
+
+### English — NASB
+
+> ^1^Now when these things had been completed, the princes approached me, saying, "The people of Israel and the priests and the Levites have not separated themselves from the peoples of the lands, according to their abominations, *those* of the Canaanites, the Hittites, the Perizzites, the Jebusites, the Ammonites, the Moabites, the Egyptians and the Amorites. ^2^"For they have taken some of their daughters *as wives* for themselves and for their sons, so that the holy race has intermingled with the peoples of the lands; indeed, the hands of the princes and the rulers have been foremost in this unfaithfulness."
+
+> ^3^When I heard about this matter, I tore my garment and my robe, and pulled some of the hair from my head and my beard, and sat down appalled. ^4^Then everyone who trembled at the words of the God of Israel on account of the unfaithfulness of the exiles gathered to me, and I sat appalled until the evening offering.
+
+> ^5^But at the evening offering I arose from my humiliation, even with my garment and my robe torn, and I fell on my knees and stretched out my hands to the LORD my God;
+
+> ^6^and I said, "O my God, I am ashamed and embarrassed to lift up my face to You, my God, for our iniquities have risen above our heads and our guilt has grown even to the heavens. ^7^"Since the days of our fathers to this day we *have been* in great guilt, and on account of our iniquities we, our kings *and* our priests have been given into the hand of the kings of the lands, to the sword, to captivity and to plunder and to open shame, as *it is* this day. ^8^"But now for a brief moment grace has been *shown* from the LORD our God, to leave us an escaped remnant and to give us a peg in His holy place, that our God may enlighten our eyes and grant us a little reviving in our bondage. ^9^"For we are slaves; yet in our bondage our God has not forsaken us, but has extended lovingkindness to us in the sight of the kings of Persia, to give us reviving to raise up the house of our God, to restore its ruins and to give us a wall in Judah and Jerusalem.
+
+> ^10^"Now, our God, what shall we say after this? For we have forsaken Your commandments, ^11^which You have commanded by Your servants the prophets, saying, 'The land which you are entering to possess is an unclean land with the uncleanness of the peoples of the lands, with their abominations which have filled it from end to end *and* with their impurity. ^12^'So now do not give your daughters to their sons nor take their daughters to your sons, and never seek their peace or their prosperity, that you may be strong and eat the good *things* of the land and leave *it* as an inheritance to your sons forever.' ^13^"After all that has come upon us for our evil deeds and our great guilt, since You our God have requited *us* less than our iniquities *deserve,* and have given us an escaped remnant as this, ^14^shall we again break Your commandments and intermarry with the peoples who commit these abominations? Would You not be angry with us to the point of destruction, until there is no remnant nor any who escape? ^15^"O LORD God of Israel, You are righteous, for we have been left an escaped remnant, as *it is* this day; behold, we are before You in our guilt, for no one can stand before You because of this."
