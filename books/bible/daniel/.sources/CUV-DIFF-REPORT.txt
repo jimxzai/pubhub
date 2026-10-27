@@ -1,0 +1,9 @@
+Daniel 和合本三源對校 (2026-10-26)
+底本：bible.fhl.net 'unv'（帶標點「」『』與　神 空格）。對校：ai-eden.com API（textZh，無引號）、cnbible.com（多版本混頁，僅作輔助）。
+fhl vs ai-eden 逐節差異（357 節）共 14 類，其中引號類（「」『』）為 fhl 獨有的標點，保留；其餘字形類以 ai-eden（專案標準）為準：
+  牠→他 (19, 如 7:8)   她→他 (3, 如 11:6)   嗎→麼 (8, 如 2:26)   祕→秘 (5, 如 2:18)
+  希臘王→希利尼王 (4, 如 8:21)   毘→毗 (2, 1:3)   吧！→罷！ (2, 1:13)   焰→燄 (2, 3:22)
+  米底亞→瑪代 (1, 5:31)   利比亞→呂彼亞 (1, 11:43)   裡→裏 (全庫房規)
+NASB：biblehub /nasb/ (1995) 對 ai-eden NASB 欄逐節比對：355/357 一致。
+  5:23  ai-eden 少 "all"（biblehub：...your life-breath and all your ways），採 biblehub。
+  7:8   biblehub 於節尾黏入下一段標題 *The Ancient of Days Reigns*，生成器已刪除。

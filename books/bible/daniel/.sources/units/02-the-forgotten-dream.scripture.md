@@ -1,0 +1,23 @@
+### 中文 — 和合本 (CUV)
+
+> ^1^尼布甲尼撒在位第二年，他做了夢，心裏煩亂，不能睡覺。^2^王吩咐人將術士、用法術的、行邪術的，和迦勒底人召來，要他們將王的夢告訴王，他們就來站在王前。^3^王對他們說：「我做了一夢，心裏煩亂，要知道這是甚麼夢。」
+
+> ^4^迦勒底人用亞蘭的言語對王說：「願王萬歲！請將那夢告訴僕人，僕人就可以講解。」^5^王回答迦勒底人說：「夢我已經忘了（或譯：我已定命；八節同），你們若不將夢和夢的講解告訴我，就必被凌遲，你們的房屋必成為糞堆；^6^你們若將夢和夢的講解告訴我，就必從我這裏得贈品和賞賜，並大尊榮。現在你們要將夢和夢的講解告訴我。」^7^他們第二次對王說：「請王將夢告訴僕人，僕人就可以講解。」^8^王回答說：「我准知道你們是故意遲延，因為你們知道那夢我已經忘了。^9^你們若不將夢告訴我，只有一法待你們；因為你們預備了謊言亂語向我說，要等候時勢改變。現在你們要將夢告訴我，因我知道你們能將夢的講解告訴我。」^10^迦勒底人在王面前回答說：「世上沒有人能將王所問的事說出來；因為沒有君王、大臣、掌權的向術士，或用法術的，或迦勒底人問過這樣的事。^11^王所問的事甚難。除了不與世人同居的神明，沒有人在王面前能說出來。」
+
+> ^12^因此，王氣忿忿地大發烈怒，吩咐滅絕巴比倫所有的哲士。^13^於是命令發出，哲士將要見殺，人就尋找但以理和他的同伴，要殺他們。^14^王的護衛長亞略出來，要殺巴比倫的哲士，但以理就用婉言回答他，^15^向王的護衛長亞略說：「王的命令為何這樣緊急呢？」亞略就將情節告訴但以理。^16^但以理遂進去求王寬限，就可以將夢的講解告訴王。
+
+> ^17^但以理回到他的居所，將這事告訴他的同伴哈拿尼雅、米沙利、亞撒利雅，^18^要他們祈求天上的　神施憐憫，將這奧秘的事指明，免得但以理和他的同伴與巴比倫其餘的哲士一同滅亡。^19^這奧秘的事就在夜間異象中給但以理顯明，但以理便稱頌天上的　神。
+
+> ^20^但以理說：「　神的名是應當稱頌的！從亙古直到永遠，因為智慧能力都屬乎他。^21^他改變時候、日期，廢王，立王，將智慧賜與智慧人，將知識賜與聰明人。^22^他顯明深奧隱秘的事，知道暗中所有的，光明也與他同居。^23^我列祖的　神啊，我感謝你，讚美你，因你將智慧才能賜給我，允准我們所求的，把王的事給我們指明。」
+
+### English — NASB
+
+> ^1^Now in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar had dreams; and his spirit was troubled and his sleep left him. ^2^Then the king gave orders to call in the magicians, the conjurers, the sorcerers and the Chaldeans to tell the king his dreams. So they came in and stood before the king. ^3^The king said to them, "I had a dream and my spirit is anxious to understand the dream."
+
+> ^4^Then the Chaldeans spoke to the king in Aramaic: "O king, live forever! Tell the dream to your servants, and we will declare the interpretation." ^5^The king replied to the Chaldeans, "The command from me is firm: if you do not make known to me the dream and its interpretation, you will be torn limb from limb and your houses will be made a rubbish heap. ^6^"But if you declare the dream and its interpretation, you will receive from me gifts and a reward and great honor; therefore declare to me the dream and its interpretation." ^7^They answered a second time and said, "Let the king tell the dream to his servants, and we will declare the interpretation." ^8^The king replied, "I know for certain that you are bargaining for time, inasmuch as you have seen that the command from me is firm, ^9^that if you do not make the dream known to me, there is only one decree for you. For you have agreed together to speak lying and corrupt words before me until the situation is changed; therefore tell me the dream, that I may know that you can declare to me its interpretation." ^10^The Chaldeans answered the king and said, "There is not a man on earth who could declare the matter for the king, inasmuch as no great king or ruler has *ever* asked anything like this of any magician, conjurer or Chaldean. ^11^"Moreover, the thing which the king demands is difficult, and there is no one else who could declare it to the king except gods, whose dwelling place is not with *mortal* flesh."
+
+> ^12^Because of this the king became indignant and very furious and gave orders to destroy all the wise men of Babylon. ^13^So the decree went forth that the wise men should be slain; and they looked for Daniel and his friends to kill *them.* ^14^Then Daniel replied with discretion and discernment to Arioch, the captain of the king's bodyguard, who had gone forth to slay the wise men of Babylon; ^15^he said to Arioch, the king's commander, "For what reason is the decree from the king *so* urgent?" Then Arioch informed Daniel about the matter. ^16^So Daniel went in and requested of the king that he would give him time, in order that he might declare the interpretation to the king.
+
+> ^17^Then Daniel went to his house and informed his friends, Hananiah, Mishael and Azariah, about the matter, ^18^so that they might request compassion from the God of heaven concerning this mystery, so that Daniel and his friends would not be destroyed with the rest of the wise men of Babylon. ^19^Then the mystery was revealed to Daniel in a night vision. Then Daniel blessed the God of heaven;
+
+> ^20^Daniel said, "Let the name of God be blessed forever and ever, For wisdom and power belong to Him. ^21^"It is He who changes the times and the epochs; He removes kings and establishes kings; He gives wisdom to wise men And knowledge to men of understanding. ^22^"It is He who reveals the profound and hidden things; He knows what is in the darkness, And the light dwells with Him. ^23^"To You, O God of my fathers, I give thanks and praise, For You have given me wisdom and power; Even now You have made known to me what we requested of You, For You have made known to us the king's matter."
