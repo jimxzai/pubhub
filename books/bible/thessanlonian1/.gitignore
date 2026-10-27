@@ -1,0 +1,10 @@
+# Fetched source caches (copyrighted transcripts/NASB, large HTML) stay local.
+sources/*
+!sources/SPEC.md
+!sources/cuvconv.py
+!sources/fhl.py
+!sources/quotecheck.py
+!sources/check_vs_aieden.py
+!sources/fetch_aieden.py
+!sources/cuv-verified.json
+!sources/other-chapters.json

@@ -1,0 +1,13 @@
+# Reviewed exceptions for the in-prose Scripture citation audit
+# (format and rationale follow books/bible/joshua/.prose-citation-accept).
+# Each line was read in context: either the 「」 is a hymn line or label whose
+# adjacent （ref） is a "see" pointer, or the quote is verbatim CUV and the
+# mismatch is the checker's normalisation. Format: file|quote|reason
+#
+01-chosen-and-called.md|照亮我們瞎眼的黑暗|a line of the chapter's hymn (Cosin, editor's translation), not Scripture; （1:5） points to the verse the hymn line illustrates
+00a-1thess-position.md|主的日子現在到了|verbatim 帖後2:2; the CUV prints a footnote 「（現在：或譯就）」 inside the phrase, which breaks contiguity for the matcher
+
+00c-revelation-order.md|為此，我們也不住的感謝神|original 和合本 wording (ai-eden.com == cnbible 繁體中文和合本, sources/cuv-verified.json); this checker compares against bible.fhl.net unv, which carries 現代標點和合本 readings here
+00c-revelation-order.md|願神我們的父和我們的主耶穌一直引領我們到你們那裏去|original 和合本 wording (ai-eden.com == cnbible 繁體中文和合本, sources/cuv-verified.json); this checker compares against bible.fhl.net unv, which carries 現代標點和合本 readings here
+08-asleep-and-coming.md|必將他與耶穌一同帶來|original 和合本 wording (ai-eden.com == cnbible 繁體中文和合本, sources/cuv-verified.json); this checker compares against bible.fhl.net unv, which carries 現代標點和合本 readings here
+09-children-of-light.md|儆醒謹守|original 和合本 wording (ai-eden.com == cnbible 繁體中文和合本, sources/cuv-verified.json); this checker compares against bible.fhl.net unv, which carries 現代標點和合本 readings here
