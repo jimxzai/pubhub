@@ -213,7 +213,7 @@ Origen 答 Celsus 時，把結尾的「各種門」讀成靈魂進入神聖之�
 
 > "If one wished to obtain means for a profounder contemplation of the entrance of souls into divine things, not from the statements of that very insignificant sect from which he quoted, but from books — partly those of the Jews, which are read in their synagogues, and adopted by Christians, and partly from those of Christians alone — let him peruse, at the end of Ezekiel's prophecies, the visions beheld by the prophet, in which gates of different kinds are enumerated, which obscurely refer to the different modes in which divine souls enter into a better world; and let him peruse also, from the Apocalypse of John, what is related of the city of God, the heavenly Jerusalem, and of its foundations and gates."
 >
-> 「若有人想從不是他所引的那個微不足道的宗派之言，而是從書卷——一部分是猶太人在會堂裏誦讀、基督徒也採用的，一部分只是基督徒的——得著更深地默想靈魂進入神聖之事的憑藉，就讓他讀以西結預言的結尾，先知所見的異象，其中列舉了各種各樣的門，隱晦地指向神聖的靈魂進入更美之世界的不同方式；也讓他讀約翰《啟示錄》裏所記的神的城、天上的耶路撒冷，和它的根基與門。」
+> 「若有人想得著更深地默想靈魂進入神聖之事的憑藉，不是從他所引的那個微不足道的宗派之言，而是從書卷——一部分是猶太人在會堂裏誦讀、基督徒也採用的，一部分只是基督徒的——就讓他讀以西結預言的結尾，先知所見的異象，其中列舉了各種各樣的門，隱晦地指向神聖的靈魂進入更美之世界的不同方式；也讓他讀約翰《啟示錄》裏所記的神的城、天上的耶路撒冷，和它的根基與門。」
 >
 > — Origen, *Against Celsus* 6.23（ANF vol. 4）
 
