@@ -1,0 +1,33 @@
+# commentary/ index — Song of Solomon (S1, biblehub per-verse pages, fetched 2026-10-26)
+# columns: file-prefix | author/work | units covered /15 | verse pages with a NEW section /117 | words (whitespace-split)
+barnes-NN.txt | Barnes' Notes on the Bible | 15/15 | 87/117 | 7204
+benson-NN.txt | Benson Commentary | 15/15 | 79/117 | 10565
+cambridge-NN.txt | Cambridge Bible for Schools and Colleges | 15/15 | 113/117 | 29070
+ellicott-NN.txt | Ellicott's Commentary for English Readers | 15/15 | 96/117 | 13719
+geneva-NN.txt | Geneva Study Bible | 15/15 | 117/117 | 3821
+gill-NN.txt | Gill's Exposition of the Entire Bible | 15/15 | 117/117 | 69307
+henry-concise-NN.txt | Matthew Henry's Concise Commentary | 15/15 | 25/117 | 5476
+jfb-NN.txt | Jamieson-Fausset-Brown Bible Commentary | 15/15 | 115/117 | 21954
+kd-NN.txt | Keil and Delitzsch Biblical Commentary on the Old Testament | 15/15 | 96/117 | 58204
+poole-NN.txt | Matthew Poole's Commentary | 15/15 | 108/117 | 20300
+pulpit-NN.txt | Pulpit Commentary | 15/15 | 87/117 | 34953
+
+# verses with no new section (either not commented by that source, or section identical to an earlier verse page and kept once):
+barnes: 1:11 1:15 1:16 1:17 2:11 3:2 3:5 3:10 4:5 4:6 4:10 4:14 4:15 5:6 5:7 6:2 6:3 6:6 6:7 6:8 6:12 7:3 7:8 7:11 7:12 7:13 8:7 8:9 8:12 8:14
+benson: 1:10 1:11 1:14 1:17 2:2 2:5 2:6 2:11 2:12 2:13 3:5 3:8 3:10 4:3 4:5 4:7 4:10 4:14 5:5 5:9 5:11 5:12 5:13 5:15 5:16 6:2 6:3 6:6 6:7 6:9 7:2 7:3 7:6 7:8 7:11 8:3 8:4 8:7
+cambridge: 4:7 6:5 6:6 6:7
+ellicott: 2:6 2:10 3:2 3:5 3:11 4:5 4:7 4:10 4:11 4:15 5:5 5:8 6:2 6:3 6:6 6:7 6:12 6:13 7:3 7:6 8:3
+geneva: (none)
+gill: (none)
+henry-concise: 1:3 1:4 1:5 1:6 1:8 1:10 1:11 1:12 1:13 1:14 1:15 1:16 1:17 2:2 2:3 2:4 2:5 2:6 2:7 2:9 2:10 2:11 2:12 2:13 2:15 2:16 2:17 3:2 3:3 3:4 3:5 3:7 3:8 3:9 3:10 3:11 4:2 4:3 4:4 4:5 4:6 4:7 4:9 4:10 4:11 4:12 4:13 4:14 4:15 5:3 5:4 5:5 5:6 5:7 5:8 5:10 5:11 5:12 5:13 5:14 5:15 5:16 6:3 6:5 6:6 6:7 6:8 6:9 6:10 6:12 6:13 7:2 7:3 7:4 7:5 7:6 7:7 7:8 7:9 7:11 7:12 7:13 8:2 8:3 8:4 8:6 8:7 8:9 8:10 8:11 8:12 8:14
+jfb: 6:7 8:4
+kd: 1:10 1:11 1:14 1:17 2:12 2:13 2:16 3:8 3:10 4:11 4:14 6:6 6:7 6:9 6:12 7:8 7:13 8:2 8:4 8:7 8:12
+poole: 1:1 2:1 3:1 4:1 5:1 6:1 6:6 7:1 8:1
+pulpit: 1:11 1:13 1:14 1:17 2:1 2:12 2:13 3:10 4:11 4:14 5:12 5:13 5:14 5:15 5:16 6:3 6:5 6:6 6:7 6:9 6:12 7:7 7:8 7:9 7:12 8:2 8:3 8:7 8:11 8:12
+
+# notes
+- Files: <prefix>-NN.txt, NN = 01..15 = unit number in .sources/PLAN.md. 11 sources x 15 units. raw/ holds the 117 fetched HTML pages, fetch.sh, parse.py (rerun: python3 -I raw/parse.py, then mv raw/*.txt .).
+- Not on biblehub's verse pages for Song of Solomon: Clarke, Wesley, Coke, Expositor's, Guzik, Lange etc. (page "Jump to" links exist but no section is embedded) -> not fetched. Henry here is the Concise version (short, 25 new sections); the full Henry comes from S2 (ccel mhc3).
+- Gaps = verses where the source gave no new section: either a range note kept once at its first verse (Pulpit, K&D, Henry concise, Barnes, Benson), or truly absent. Poole has no note on x:1 (title) verses. Cambridge skips 4:7, 6:5-7; JFB skips 6:7, 8:4.
+- Quote caution: biblehub strips markup; K&D Hebrew/Greek and some punctuation may be degraded; verbatim checks must use whitespace/punctuation-insensitive matching. Pulpit homiletic hymn quotations sit inside Pulpit sections.
+- Spot-checked kd-04, gill-09, pulpit-14, cambridge-07, ellicott-13: genuine commentary; no nav chrome (grep for Jump to/Interlinear/section labels: none).

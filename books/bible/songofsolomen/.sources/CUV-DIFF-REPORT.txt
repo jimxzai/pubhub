@@ -1,0 +1,68 @@
+CUV-DIFF-REPORT — 雅歌 和合本三向比對（2026-10-26）
+來源：A = ai-eden（JSON API，textZh，去掉括號講者標題）；B = fhl.net unv（和合本）；C = cnbible.com 章頁 CUVMPT 欄（現代標點和合本 2011，已非 1919 原本的字形與標點）。
+比對法：去標點、空白、講者標題後逐字比；共 117 節，B 與 C 各 117 節皆取得。ai-eden 為預設底本（專案政策）；下列各類皆「保留 ai-eden」，未改一字。
+共 43 條差異（按「節 × 來源」計），分類如下。
+
+【一】專有名詞譯名（B 與 C 同時與 A 不同 → 屬修訂版譯名，非 A 之誤）
+  利巴嫩（A）／黎巴嫩（B、C）：4:8、4:11、4:15、5:15、7:4、3:9（「利巴嫩木」）
+  大馬色（A）／大馬士革（B、C）：7:4
+  保留 A：1919 和合本原文作「利巴嫩」「大馬色」；專案政策為專有名詞以 ai-eden 定案。書稿行文引用經節時，與 A 一致。
+【二】代詞「他／她／它」（B 或 C 為修訂版的性別區分）
+  1:4（C 她們）；2:7、3:5、8:4（B 它／C 她）；6:9（B、C 同作 她×4）；8:8（B、C 她×2）；8:9（B、C 她×3）
+  保留 A「他」：和合本 1919 的第三人稱不分性別。注意 6:9、8:8、8:9 的「他」所指為女子（書拉密女／小妹），行文解說時須自行寫明所指，勿把 B/C 的「她」誤當和合本原文。
+【三】異體字／字形
+  棚／篷（1:5、1:8；C）；梁／樑（1:17；B）；櫺／欞（2:9；B）；籐／藤（4:4；C）；鍊／鏈（4:9；C）；污／汙（5:3；C）；纍／累（5:11、7:7、7:8；C）；帶／戴（8:6；C）；息／熄（8:7；C）。保留 A。
+【四】標點／符號
+  1:14、7:4、8:11：B 在專名中加「‧」間隔號（隱‧基底、巴特‧拉併、…）；A 無。保留 A（專案另有「·」統一政策，只在書稿行文處理，不入經文區塊）。
+【五】邊注／括號
+  A 保留和合本的「（或譯：…）」邊注：2:1（水仙花）、2:12（修理葡萄樹的時候）、2:7、3:5、8:4（「不要叫醒……情願」一段邊注）。C 不含這些邊注。保留 A。
+【六】用字差異（需留意）
+  8:5：A「那靠著良人從曠野上來是誰呢」與「你母親在的那裡」；B、C「…來的是誰呢」與「你母親在那裡」（多一「的」、少一「的」）。保留 A。此為三源中唯一的虛詞差異，查 1919 原本前不改。
+  3:9 的 A「利巴嫩木」見【一】。
+結論：117 節中沒有一節需要改動 A 的字句；上列各條皆來自 B／C 為修訂版或附加符號。NASB：ai-eden 與 biblehub NASB 1995 章頁逐節比對，字母層級 0 差異（biblehub 提供斜體 *…* 與引號，單元檔採 biblehub 版本）。
+講者標題：ai-eden 的「（新娘）…」等為和合本標題，附在上一節末尾或節內，已移出節文，詳見 speakers.tsv。其中 3:6–4:15、5:1、6:1、6:4–6:9、7:1–7:9a 在 ai-eden 並無標題或標題鏈與希伯來文受話者性別矛盾，已用語法推定並標記。
+
+【附：機器產出的逐條差異】
+1:4	ai-eden vs cnbible	replace:'他'->'她'
+1:5	ai-eden vs cnbible	replace:'棚'->'篷'
+1:8	ai-eden vs cnbible	replace:'棚'->'篷'
+1:14	ai-eden vs fhl	insert:''->'‧'
+1:17	ai-eden vs fhl	replace:'梁'->'樑'
+2:1	ai-eden vs cnbible	delete:'或譯水仙花'->''
+2:7	ai-eden vs fhl	replace:'他'->'它'
+2:7	ai-eden vs cnbible	replace:'他'->'她'; delete:'不要叫醒情願或譯不要激動愛情等他自發'->''
+2:9	ai-eden vs fhl	replace:'櫺'->'欞'
+2:12	ai-eden vs cnbible	delete:'的時候或譯修理葡萄樹'->''
+3:5	ai-eden vs fhl	replace:'他'->'它'
+3:5	ai-eden vs cnbible	replace:'他'->'她'; delete:'不要叫醒情願或譯不要激動愛情等他自發'->''
+3:9	ai-eden vs fhl	replace:'利'->'黎'
+3:9	ai-eden vs cnbible	replace:'利'->'黎'
+4:4	ai-eden vs cnbible	replace:'籐'->'藤'
+4:8	ai-eden vs fhl	replace:'利'->'黎'; replace:'利'->'黎'
+4:8	ai-eden vs cnbible	replace:'利'->'黎'; replace:'利'->'黎'
+4:9	ai-eden vs cnbible	replace:'鍊'->'鏈'
+4:11	ai-eden vs fhl	replace:'利'->'黎'
+4:11	ai-eden vs cnbible	replace:'利'->'黎'
+4:15	ai-eden vs fhl	replace:'利'->'黎'
+4:15	ai-eden vs cnbible	replace:'利'->'黎'
+5:3	ai-eden vs cnbible	replace:'污'->'汙'
+5:11	ai-eden vs cnbible	replace:'纍'->'累'
+5:15	ai-eden vs fhl	replace:'利'->'黎'
+5:15	ai-eden vs cnbible	replace:'利'->'黎'
+6:9	ai-eden vs fhl	replace:'他'->'她'; replace:'他'->'她'; replace:'他'->'她'; replace:'他'->'她'
+6:9	ai-eden vs cnbible	replace:'他'->'她'; replace:'他'->'她'; replace:'他'->'她'; replace:'他'->'她'
+7:4	ai-eden vs fhl	insert:''->'‧'; replace:'色'->'士革'; replace:'利'->'黎'
+7:4	ai-eden vs cnbible	replace:'色'->'士革'; replace:'利'->'黎'
+7:7	ai-eden vs cnbible	replace:'纍纍'->'累累'
+7:8	ai-eden vs cnbible	replace:'纍纍'->'累累'
+8:4	ai-eden vs fhl	replace:'他'->'它'
+8:4	ai-eden vs cnbible	replace:'他'->'她'; delete:'不要叫醒情願或譯不要激動愛情等他自發'->''
+8:5	ai-eden vs fhl	insert:''->'的'; delete:'的'->''
+8:5	ai-eden vs cnbible	insert:''->'的'; delete:'的'->''
+8:6	ai-eden vs cnbible	replace:'帶'->'戴'
+8:7	ai-eden vs cnbible	replace:'息'->'熄'
+8:8	ai-eden vs fhl	replace:'他'->'她'; replace:'他'->'她'
+8:8	ai-eden vs cnbible	replace:'他'->'她'; replace:'他'->'她'
+8:9	ai-eden vs fhl	replace:'他'->'她'; replace:'他'->'她'; replace:'他'->'她'
+8:9	ai-eden vs cnbible	replace:'他'->'她'; replace:'他'->'她'; replace:'他'->'她'
+8:11	ai-eden vs fhl	insert:''->'‧'

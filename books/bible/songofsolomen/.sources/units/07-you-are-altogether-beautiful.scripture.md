@@ -1,0 +1,15 @@
+### 中文 — 和合本 (CUV)
+
+> ^1^我的佳偶，你甚美麗！你甚美麗！你的眼在帕子內好像鴿子眼。你的頭髮如同山羊群臥在基列山旁。^2^你的牙齒如新剪毛的一群母羊，洗淨上來，個個都有雙生，沒有一隻喪掉子的。^3^你的唇好像一條朱紅線；你的嘴也秀美。你的兩太陽在帕子內，如同一塊石榴。^4^你的頸項好像大衛建造收藏軍器的高臺，其上懸掛一千盾牌，都是勇士的籐牌。^5^你的兩乳好像百合花中吃草的一對小鹿，就是母鹿雙生的。
+
+> ^6^我要往沒藥山和乳香岡去，直等到天起涼風、日影飛去的時候回來。^7^我的佳偶，你全然美麗，毫無瑕疵！^8^我的新婦，求你與我一同離開利巴嫩，與我一同離開利巴嫩。從亞瑪拿頂，從示尼珥與黑門頂，從有獅子的洞，從有豹子的山往下觀看。^9^我妹子，我新婦，你奪了我的心。你用眼一看，用你項上的一條金鍊，奪了我的心！^10^我妹子，我新婦，你的愛情何其美！你的愛情比酒更美！你膏油的香氣勝過一切香品！
+
+> ^11^我新婦，你的嘴唇滴蜜，好像蜂房滴蜜；你的舌下有蜜，有奶。你衣服的香氣如利巴嫩的香氣。^12^我妹子，我新婦，乃是關鎖的園，禁閉的井，封閉的泉源。^13^你園內所種的結了石榴，有佳美的果子，並鳳仙花與哪噠樹。^14^有哪噠和番紅花，菖蒲和桂樹，並各樣乳香木、沒藥、沉香，與一切上等的果品。^15^你是園中的泉，活水的井，從利巴嫩流下來的溪水。
+
+### English — NASB
+
+> ^1^"How beautiful you are, my darling, How beautiful you are! Your eyes are *like* doves behind your veil; Your hair is like a flock of goats That have descended from Mount Gilead. ^2^"Your teeth are like a flock of *newly* shorn ewes Which have come up from *their* washing, All of which bear twins, And not one among them has lost her young. ^3^"Your lips are like a scarlet thread, And your mouth is lovely. Your temples are like a slice of a pomegranate Behind your veil. ^4^"Your neck is like the tower of David, Built with rows of stones On which are hung a thousand shields, All the round shields of the mighty men. ^5^"Your two breasts are like two fawns, Twins of a gazelle Which feed among the lilies.
+
+> ^6^"Until the cool of the day When the shadows flee away, I will go my way to the mountain of myrrh And to the hill of frankincense. ^7^"You are altogether beautiful, my darling, And there is no blemish in you. ^8^"*Come* with me from Lebanon, *my* bride, May you come with me from Lebanon. Journey down from the summit of Amana, From the summit of Senir and Hermon, From the dens of lions, From the mountains of leopards. ^9^"You have made my heart beat faster, my sister, *my* bride; You have made my heart beat faster with a single *glance* of your eyes, With a single strand of your necklace. ^10^"How beautiful is your love, my sister, *my* bride! How much better is your love than wine, And the fragrance of your oils Than all *kinds* of spices!
+
+> ^11^"Your lips, *my* bride, drip honey; Honey and milk are under your tongue, And the fragrance of your garments is like the fragrance of Lebanon. ^12^"A garden locked is my sister, *my* bride, A rock garden locked, a spring sealed up. ^13^"Your shoots are an orchard of pomegranates With choice fruits, henna with nard plants, ^14^Nard and saffron, calamus and cinnamon, With all the trees of frankincense, Myrrh and aloes, along with all the finest spices. ^15^"*You are* a garden spring, A well of fresh water, And streams *flowing* from Lebanon."
