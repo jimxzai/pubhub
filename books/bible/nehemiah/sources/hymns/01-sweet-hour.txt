@@ -1,0 +1,66 @@
+SOURCE: Wikisource, "The Army and Navy Hymnal/Hymns/Sweet Hour of Prayer"
+
+.mw-parser-output .wst-header .wst-header-mainblock{border:1px solid var(--border-color-success,#ACA);background-color:var(--background-color-success-subtle,#E6F2E6);color:var(--color-base,#202122)}.mw-parser-output .wst-header .wst-header-notes{border-bottom:1px solid var(--border-color-notice,#A0A0A0);background-color:var(--background-color-neutral,#FAFAFF);color:var(--color-base,#202122)}.mw-parser-output .wst-header .contributor-text{font-style:italic}.mw-parser-output .wst-header #header-title-text,.mw-parser-output .wst-header .wst-header-title-text{font-weight:bold}.mw-parser-output .wst-header #ws-data{display:none}.mw-parser-output .wst-header #ws-data.ws-data-show{display:block}
+.mw-parser-output .wst-header-mainblock{margin:4px auto 4px auto;padding:0 3px;display:flex;align-items:center}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{display:flex;flex:1 4 100%;min-width:min-content;align-items:center;font-size:.9em}.mw-parser-output .wst-header-nav-empty{visibility:hidden}.mw-parser-output .wst-header-back{justify-content:flex-start;text-align:left}.mw-parser-output .wst-header-central-cell{flex:4 1 100%;max-width:max-content;text-align:center}.mw-parser-output .wst-header-forward{justify-content:flex-end;text-align:right}@media(max-width:768px){.mw-parser-output .wst-header-mainblock{flex-wrap:wrap}.mw-parser-output .wst-header-central-cell{flex:0 0 100%;order:-2;width:auto}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{width:auto}}.mw-parser-output .wst-header-notes{display:inline-block;border-collapse:collapse;border-spacing:0;empty-cells:hide;font-size:.9em;line-height:1.4;margin:0 auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}←
+Lord, We Come Before Thee Now
+
+The Army and Navy Hymnaledited by Henry Augustine SmithSweet Hour of Prayer by William W. Walford
+.mw-parser-output .wst-normal-body{font-style:normal}.mw-parser-output .wst-normal-body i,.mw-parser-output .wst-normal-body var,.mw-parser-output .wst-normal-body em,.mw-parser-output .wst-normal-body cite,.mw-parser-output .wst-normal-body dfn{font-style:italic}.mw-parser-output .wst-italic-body .wst-normal-body{font-style:normal}(music by William Batchelder Bradbury)
+
+Hear Us, O Saviour
+→
+
+1767732The Army and Navy Hymnal — Sweet Hour of PrayerHenry Augustine SmithWilliam W. Walford
+(music by William Batchelder Bradbury)
+
+.mw-parser-output .prp-pages-output .ws-poem-versenum:after,.mw-parser-output .prp-pages-output .verse_num:after{content:".";padding-right:0.25em}.mw-parser-output .prp-pages-output .ps2-character{font-variant:small-caps;text-align:left}​.mw-parser-output .wst-center{text-align:center;margin:0 auto}.mw-parser-output .wst-center.wst-center-nomargin>p{margin-top:0;margin-bottom:0}
+Musical scores are temporarily disabled.
+
+.mw-parser-output .wst-block-center{display:block;margin:0 auto;padding:0;position:relative;max-width:100%;height:auto;text-align:initial}.mw-parser-output .wst-block-center-title{display:inline-block;width:100%;text-align:center}
+.mw-parser-output .wst_list_continuation>li:first-child{list-style-type:none;list-style-image:none}.mw-parser-output .wst_ulist.__idx_hi1,.mw-parser-output .wst_ulist.__plain{line-height:inherit;list-style:none;list-style-image:none;margin-left:0}.mw-parser-output .wst_ulist.__nomarker{line-height:inherit;list-style:none;list-style-image:none}.mw-parser-output .__fixleft{margin-left:1.6em}.mw-parser-output .wst_olist.__idx_hi1 ol,.mw-parser-output .wst_olist.__plain ol,.mw-parser-output .wst_ulist.__idx_hi1 ul,.mw-parser-output .wst_ulist.__plain ul{margin-top:0;margin-bottom:0}.mw-parser-output .wst_olist.__plain li,.mw-parser-output .wst_ulist.__plain li{margin-bottom:0}.mw-parser-output .wst_olist.__idx_hi1 li,.mw-parser-output .wst_ulist.__idx_hi1 li{margin-left:1em;text-indent:-1em;margin-bottom:0}.mw-parser-output .wst_list_continuation.__idx_hi1>li:first-child{list-style-type:none;list-style-image:none;margin-left:1em;text-indent:0}.mw-parser-output .wst_olist.__inside,.mw-parser-output .wst_ulist.__inside{list-style-position:inside;margin-left:0}Sweet hour of prayer! sweet hour of prayer! 
+
+That calls me from a world of care, 
+
+And bids me at my Father's throne 
+
+Make all my wants and wishes known: 
+
+In seasons of distress and grief, 
+
+My soul has found relief;
+
+And oft escaped the tempter's snare, 
+
+by thy re-turn, sweet hour of prayer! 
+
+Sweet hour of prayer! sweet hour of prayer! 
+
+Thy wings shall my petition bear 
+
+To him whose truth and faithfulness 
+
+Engage the waiting soul to bless. 
+
+And since he bids me seek his face, 
+
+Believe his word and trust his grace,
+
+I'll cast on him my every care 
+
+And wait for thee, sweet hour of prayerl 
+
+Sweet hour of prayer! sweet hour of prayer! 
+
+May I thy consolation share, 
+
+Till, from Mount Pisgah's lofty height, 
+
+I view my home and take my flight; 
+
+This robe of flesh I'll drop, and rise 
+
+To seize the everlasting prize;
+
+And shout, while passing thro' the air, 
+
+Farewell, farewell.sweet hour of prayer! Amen.

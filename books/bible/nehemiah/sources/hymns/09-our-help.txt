@@ -1,0 +1,55 @@
+SOURCE: Wikisource, "The Army and Navy Hymnal/Hymns/Our God, Our Help in Ages Past"
+
+For other versions of this text, see Our God, Our Help in Ages Past.
+
+For other versions of this tune, see St. Anne.
+
+.mw-parser-output .wst-header .wst-header-mainblock{border:1px solid var(--border-color-success,#ACA);background-color:var(--background-color-success-subtle,#E6F2E6);color:var(--color-base,#202122)}.mw-parser-output .wst-header .wst-header-notes{border-bottom:1px solid var(--border-color-notice,#A0A0A0);background-color:var(--background-color-neutral,#FAFAFF);color:var(--color-base,#202122)}.mw-parser-output .wst-header .contributor-text{font-style:italic}.mw-parser-output .wst-header #header-title-text,.mw-parser-output .wst-header .wst-header-title-text{font-weight:bold}.mw-parser-output .wst-header #ws-data{display:none}.mw-parser-output .wst-header #ws-data.ws-data-show{display:block}
+.mw-parser-output .wst-header-mainblock{margin:4px auto 4px auto;padding:0 3px;display:flex;align-items:center}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{display:flex;flex:1 4 100%;min-width:min-content;align-items:center;font-size:.9em}.mw-parser-output .wst-header-nav-empty{visibility:hidden}.mw-parser-output .wst-header-back{justify-content:flex-start;text-align:left}.mw-parser-output .wst-header-central-cell{flex:4 1 100%;max-width:max-content;text-align:center}.mw-parser-output .wst-header-forward{justify-content:flex-end;text-align:right}@media(max-width:768px){.mw-parser-output .wst-header-mainblock{flex-wrap:wrap}.mw-parser-output .wst-header-central-cell{flex:0 0 100%;order:-2;width:auto}.mw-parser-output .wst-header-back,.mw-parser-output .wst-header-forward{width:auto}}.mw-parser-output .wst-header-notes{display:inline-block;border-collapse:collapse;border-spacing:0;empty-cells:hide;font-size:.9em;line-height:1.4;margin:0 auto 4px auto;width:100%}.mw-parser-output .wst-header-left{float:left}←
+Hymns
+
+The Army and Navy Hymnal (1920)edited by Henry Augustine SmithOur God, Our Help in Ages Past by Isaac Watts
+.mw-parser-output .wst-normal-body{font-style:normal}.mw-parser-output .wst-normal-body i,.mw-parser-output .wst-normal-body var,.mw-parser-output .wst-normal-body em,.mw-parser-output .wst-normal-body cite,.mw-parser-output .wst-normal-body dfn{font-style:italic}.mw-parser-output .wst-italic-body .wst-normal-body{font-style:normal}(St. Anne by William Croft)
+
+When Morning Gilds the Skies
+→
+
+.mw-parser-output .plainSister{display:block;font-size:93%;line-height:normal;list-style-type:none;list-style-image:none;list-style-position:outside;border:1px solid var(--border-color-interactive--hover,#AAA);float:right;clear:right;margin:0.5ex 0 0.5ex 0.5ex;padding:0;background:var(--background-color-base,#FFFFFF);color:var(--color-base,#202122)}.mw-parser-output .sisicon,.mw-parser-output .dabicon{padding-right:1ex}sister projects: Wikidata item
+
+a performance (help | file info or download)
+
+1737448The Army and Navy Hymnal — Our God, Our Help in Ages PastHenry Augustine SmithIsaac Watts
+(St. Anne by William Croft)
+
+.mw-parser-output .prp-pages-output .ws-poem-versenum:after,.mw-parser-output .prp-pages-output .verse_num:after{content:".";padding-right:0.25em}.mw-parser-output .prp-pages-output .ps2-character{font-variant:small-caps;text-align:left}​
+
+Musical scores are temporarily disabled.
+
+Additional Content(contributor provided)
+
+.mw-parser-output .wst-block-center{display:block;margin:0 auto;padding:0;position:relative;max-width:100%;height:auto;text-align:initial}.mw-parser-output .wst-block-center-title{display:inline-block;width:100%;text-align:center}
+.mw-parser-output .wst_list_continuation>li:first-child{list-style-type:none;list-style-image:none}.mw-parser-output .wst_ulist.__idx_hi1,.mw-parser-output .wst_ulist.__plain{line-height:inherit;list-style:none;list-style-image:none;margin-left:0}.mw-parser-output .wst_ulist.__nomarker{line-height:inherit;list-style:none;list-style-image:none}.mw-parser-output .__fixleft{margin-left:1.6em}.mw-parser-output .wst_olist.__idx_hi1 ol,.mw-parser-output .wst_olist.__plain ol,.mw-parser-output .wst_ulist.__idx_hi1 ul,.mw-parser-output .wst_ulist.__plain ul{margin-top:0;margin-bottom:0}.mw-parser-output .wst_olist.__plain li,.mw-parser-output .wst_ulist.__plain li{margin-bottom:0}.mw-parser-output .wst_olist.__idx_hi1 li,.mw-parser-output .wst_ulist.__idx_hi1 li{margin-left:1em;text-indent:-1em;margin-bottom:0}.mw-parser-output .wst_list_continuation.__idx_hi1>li:first-child{list-style-type:none;list-style-image:none;margin-left:1em;text-indent:0}.mw-parser-output .wst_olist.__inside,.mw-parser-output .wst_ulist.__inside{list-style-position:inside;margin-left:0}Our God, our help in ages past, 
+Our hope for years to come,
+Our shelter from the stormy blast, 
+And our eternal home!
+Under the shadow of thy throne 
+Thy saints have dwelt secure;
+Sufficient is thine arm alone, 
+And our defence is sure.
+Before the hills in order stood, 
+Or earth received her frame,
+From everlasting thou art God, 
+To endless years the same.
+A thousand ages in thy sight 
+Are like an evening gone;
+Short as the watch that ends the night 
+Before the rising sun.
+Time, like an ever-rolling stream, 
+Bears all its sons away;
+They fly, forgotten, as a dream 
+Dies at the opening day.
+Our God, our help in ages past, 
+Our hope for years to come,
+Be thou our guard while life shall last, 
+And our eternal home. 
+Amen.
