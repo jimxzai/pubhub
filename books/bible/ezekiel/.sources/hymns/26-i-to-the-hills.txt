@@ -1,0 +1,10 @@
+SOURCE: 1650 Scottish Psalter, Psalm 121, SermonAudio Hymnal & Psalter
+URL: https://web.sermonaudio.com/psalter/psalm121
+HYMN: I to the Hills Will Lift Mine Eyes (Psalm 121)
+AUTHOR: Scottish Psalter, 1650
+STANZA: verses 1-2 = stanza 1
+---
+I to the hills will lift mine eyes,
+from whence doth come mine aid.
+My safety cometh from the Lord,
+who heav'n and earth hath made.
