@@ -1,0 +1,45 @@
+# 加爾文 Zephaniah 講次↔節對照（calvin-zephaniah.txt 行號）
+
+- 行 11：CHAPTER 1
+- 行 15：Lecture One Hundred and Eighteenth · Zeph 1:1
+- 行 32：Lecture One Hundred and Eighteenth · Zeph 1:2, 3
+- 行 107：Lecture One Hundred and Eighteenth · Zeph 1:4
+- 行 156：Lecture One Hundred and Nineteenth · Zeph 1:5
+- 行 220：Lecture One Hundred and Nineteenth · Zeph 1:6
+- 行 246：Lecture One Hundred and Nineteenth · Zeph 1:7-9
+- 行 362：Lecture One Hundred and Twentieth · Zeph 1:10
+- 行 400：Lecture One Hundred and Twentieth · Zeph 1:11
+- 行 435：Lecture One Hundred and Twentieth · Zeph 1:12
+- 行 482：Lecture One Hundred and Twenty-First · Zeph 1:13
+- 行 494：Lecture One Hundred and Twenty-First · Zeph 1:14
+- 行 545：Lecture One Hundred and Twenty-First · Zeph 1:15, 16
+- 行 603：Lecture One Hundred and Twenty-First · Zeph 1:17
+- 行 637：Lecture One Hundred and Twenty-First · Zeph 1:18
+- 行 672：CHAPTER 2
+- 行 674：Lecture One Hundred and Twenty-First · Zeph 2:1, 2
+- 行 766：Lecture One Hundred and Twenty-second · Zeph 2:3
+- 行 824：Lecture One Hundred and Twenty-second · Zeph 2:4, 5
+- 行 883：Lecture One Hundred and Twenty-second · Zeph 2:6, 7
+- 行 919：Lecture One Hundred and Twenty-second · Zeph 2:8
+- 行 967：Lecture One Hundred and Twenty-third. · Zeph 2:9, 10
+- 行 1026：Lecture One Hundred and Twenty-third. · Zeph 2:11
+- 行 1061：Lecture One Hundred and Twenty-third. · Zeph 2:12
+- 行 1088：Lecture One Hundred and Twenty-third. · Zeph 2:13
+- 行 1102：Lecture One Hundred and Twenty-third. · Zeph 2:14
+- 行 1131：Lecture One Hundred and Twenty-third. · Zeph 2:15
+- 行 1170：CHAPTER 3
+- 行 1174：Lecture One Hundred and Twenty-fourth · Zeph 3:1, 2
+- 行 1237：Lecture One Hundred and Twenty-fourth · Zeph 3:3
+- 行 1266：Lecture One Hundred and Twenty-fourth · Zeph 3:4
+- 行 1315：Lecture One Hundred and Twenty-fourth · Zeph 3:5
+- 行 1374：Lecture One Hundred and Twenty-fifth · Zeph 3:6, 7
+- 行 1475：Lecture One Hundred and Twenty-fifth · Zeph 3:8
+- 行 1523：Lecture One Hundred and Twenty-fifth · Zeph 3:9
+- 行 1592：Lecture One hundred and Twenty-sixth · Zeph 3:10
+- 行 1620：Lecture One hundred and Twenty-sixth · Zeph 3:11
+- 行 1699：Lecture One hundred and Twenty-sixth · Zeph 3:12, 13
+- 行 1764：Lecture One Hundred and Twenty-seventh · Zeph 3:14, 15
+- 行 1817：Lecture One Hundred and Twenty-seventh · Zeph 3:16, 17
+- 行 1884：Lecture One Hundred and Twenty-seventh · Zeph 3:18
+- 行 1933：Lecture One Hundred and Twenty-seventh · Zeph 3:19
+- 行 1967：Lecture One Hundred and Twenty-eighth · Zeph 3:20
