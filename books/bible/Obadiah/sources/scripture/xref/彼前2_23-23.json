@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"1 Pet",
+"chineses":"\u5f7c\u524d",
+"chap":2,
+"sec":23,
+"bible_text":"\u4ed6\u88ab\u7f75\u4e0d\u9084\u53e3\uff1b\u53d7\u5bb3\u4e0d\u8aaa\u5a01\u5687\u7684\u8a71\uff0c\u53ea\u5c07\u81ea\u5df1\u4ea4\u8a17\u90a3\u6309\u516c\u7fa9\u5be9\u5224\u4eba\u7684\u4e3b\u3002"}
+],"prev":{"chineses":"\u5f7c\u524d",
+"engs":"1 Pet",
+"chap":2,"sec":22}
+,"next":{"chineses":"\u5f7c\u524d",
+"engs":"1 Pet",
+"chap":2,"sec":24}
+}

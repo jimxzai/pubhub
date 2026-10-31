@@ -1,0 +1,23 @@
+{
+"status":"success",
+"record_count":2,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"1 Cor",
+"chineses":"\u6797\u524d",
+"chap":1,
+"sec":19,
+"bible_text":"\u5c31\u5982\u7d93\u4e0a\u6240\u8a18\uff1a\u6211\u8981\u6ec5\u7d55\u667a\u6167\u4eba\u7684\u667a\u6167\uff0c\u5ee2\u68c4\u8070\u660e\u4eba\u7684\u8070\u660e\u3002"},
+{"engs":"1 Cor",
+"chineses":"\u6797\u524d",
+"chap":1,
+"sec":20,
+"bible_text":"\u667a\u6167\u4eba\u5728\u54ea\u88e1\uff1f\u6587\u58eb\u5728\u54ea\u88e1\uff1f\u9019\u4e16\u4e0a\u7684\u8faf\u58eb\u5728\u54ea\u88e1\uff1f\u3000\u795e\u8c48\u4e0d\u662f\u53eb\u9019\u4e16\u4e0a\u7684\u667a\u6167\u8b8a\u6210\u611a\u62d9\u55ce\uff1f"}
+],"prev":{"chineses":"\u6797\u524d",
+"engs":"1 Cor",
+"chap":1,"sec":18}
+,"next":{"chineses":"\u6797\u524d",
+"engs":"1 Cor",
+"chap":1,"sec":21}
+}

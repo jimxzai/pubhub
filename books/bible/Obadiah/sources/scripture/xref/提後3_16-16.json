@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"2 Tim",
+"chineses":"\u63d0\u5f8c",
+"chap":3,
+"sec":16,
+"bible_text":"\u8056\u7d93\u90fd\u662f\u3000\u795e\u6240\u9ed8\u793a\u7684\uff08\u6216\u8b6f\uff1a\u51e1\u3000\u795e\u6240\u9ed8\u793a\u7684\u8056\u7d93\uff09\uff0c\u65bc\u6559\u8a13\u3001\u7763\u8cac\u3001\u4f7f\u4eba\u6b78\u6b63\u3001\u6559\u5c0e\u4eba\u5b78\u7fa9\u90fd\u662f\u6709\u76ca\u7684\uff0c"}
+],"prev":{"chineses":"\u63d0\u5f8c",
+"engs":"2 Tim",
+"chap":3,"sec":15}
+,"next":{"chineses":"\u63d0\u5f8c",
+"engs":"2 Tim",
+"chap":3,"sec":17}
+}

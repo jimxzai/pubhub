@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"1 John",
+"chineses":"\u7d04\u4e00",
+"chap":3,
+"sec":17,
+"bible_text":"\u51e1\u6709\u4e16\u4e0a\u8ca1\u7269\u7684\uff0c\u770b\u898b\u5f1f\u5144\u7aae\u4e4f\uff0c\u537b\u585e\u4f4f\u6190\u6064\u7684\u5fc3\uff0c\u611b\u3000\u795e\u7684\u5fc3\u600e\u80fd\u5b58\u5728\u4ed6\u88e1\u9762\u5462\uff1f"}
+],"prev":{"chineses":"\u7d04\u4e00",
+"engs":"1 John",
+"chap":3,"sec":16}
+,"next":{"chineses":"\u7d04\u4e00",
+"engs":"1 John",
+"chap":3,"sec":18}
+}
