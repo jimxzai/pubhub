@@ -40,7 +40,7 @@ ORDER = {b: i for i, b in enumerate(BOOKS)}
 # Longest abbreviations first so 約壹 is not read as 約.
 ALIAS = {"詩篇": "詩", "約一": "約壹", "啟示錄": "啟"}
 BOOK_RE = "|".join(sorted(BOOKS + list(ALIAS), key=len, reverse=True))
-REF = re.compile(rf"(?:(?<![一-鿿])|(?<=參)|(?<=見))({BOOK_RE})(\d+)(?::(\d+)(?:[-–](\d+))?)?")
+REF = re.compile(rf"(?:(?<![一-鿿])|(?<=參)|(?<=見))({BOOK_RE})(\d+)(?::(\d+)(?:[-–](\d+)(?!\d|:))?)?")
 
 TOPICS = [
     ("耶和華（יהוה，十三次）", ["十三次", "יְהוָה", "יהוה", "耶和華的名"]),

@@ -27,7 +27,7 @@ publisher: 三書精讀出版系統
 | 中文 | 和合本 (CUV) | 以 `ai-eden.com` 和合本（API `/api/bible/nahum/{1,2,3}?t=CUV`）為底本，與信望愛 `bible.fhl.net`（unv）逐節比對：47 節中 35 節完全相同，其餘 12 節只差標點、異體字或註解括號：1:4「利巴嫩／黎巴嫩」、1:11 與 2:11、3:15「裏／裡」、2:2 與 2:13 fhl 加括號或引號、2:9 與 3:15「罷／吧」、2:12「他／牠」、3:1 逗號／破折號、3:8 ai-eden 保留小字註「（或）」、3:8-10「他／她」。依全庫政策，以 ai-eden 為準；「裡」一律作「裏」。 |
 | 英文 | NASB 1995 | 取自 `biblehub.com/nasb/nahum/{1,2,3}.htm`（頁首標 NASB 1995）；補充字依 biblehub 版本保留斜體。**本書沒有做第二個來源（如 biblegateway）的逐節比對。** |
 | 希伯來文 | WLC（OSHB） | 取自 openscriptures/morphhb 公開文本（`wlc/Nah.xml`），含詞性標注；該文本用希伯來文節號（和合本 1:15 ＝ 希伯來 2:1，和合本 2:n ＝ 希伯來 2:n+1），`sources/count_hebrew.py` 已轉換為和合本節號。書中所有字數都用程式從這個文本計數，計數結果見下。 |
-| 其他經卷 | 和合本 | 書中引用的其他經文，逐節以信望愛和合本 JSON 介面取得後照錄（快取在 `sources/scripture/xref/`），並用 `scripts/verify-prose-citations.py books/bible/Nahum --self 鴻` 逐條機器核對：72 條行文引用，餘 1 條誤報（啟19:1-2，原文中有括號註解，書中引句略去）；`scripts/check-prose-scripture-quotes.py`：1 條「未在該單元經文中」，是第五章導言中對 1:6 的跨章引用，屬刻意。 |
+| 其他經卷 | 和合本 | 書中引用的其他經文，逐節以信望愛和合本 JSON 介面取得後照錄（快取在 `sources/scripture/xref/`），並用 `scripts/verify-prose-citations.py books/bible/Nahum --self 鴻` 逐條機器核對：73 條行文引用，餘 1 條誤報（啟19:1-2，原文中有括號註解，書中引句略去）；`scripts/check-prose-scripture-quotes.py`：1 條「未在該單元經文中」，是第五章導言中對 1:6 的跨章引用，屬刻意。 |
 
 **希伯來文字數**（用 `sources/count_hebrew.py` 重現；節號為和合本）：
 
@@ -126,7 +126,7 @@ publisher: 三書精讀出版系統
 
 - `scripts/verify-citations.py`：逐段核對加爾文、亨利、摩根各小節下的 `> "引句"`（含 OCR 容錯）：章節內 加爾文 13／亨利 8／摩根 9，全部逐字相符。
 - 另以一段自寫的逐字比對（於 2026-10-31 在作者側執行，未存為腳本），核對全書含卷首各章所有「引句＋破折號出處」的引文，對象是 `sources/commentary/` 內三份原文（亨利為 `henry-nahum.txt`，加爾文為 `calvin-nahum-clean.txt`，摩根為兩份 OCR）：40/40 通過。
-- `scripts/verify-prose-citations.py books/bible/Nahum --self 鴻`：72 條行文中的經文引用，餘 1 條誤報（見上）。
+- `scripts/verify-prose-citations.py books/bible/Nahum --self 鴻`：73 條行文中的經文引用，餘 1 條誤報（見上）。
 - `scripts/gen-nahum-indices.py --check`：索引與各章同步。
 - `scripts/check-book-spine.py books/bible/Nahum`：骨幹四項全過。
 

@@ -178,7 +178,7 @@ publisher: 三書精讀出版系統
 >
 > 中譯：但這個字的本意是：神不能容忍傷害與冤屈。
 
-論第3節「萬不以有罪的為無罪」，加爾文所說的一句，與十字架直接相連：
+論第3節「萬不以有罪的為無罪」，加爾文的一句（他在這裏講的是悔改；編者把它與十字架連起來，屬連線）：
 
 > "in short, that no sin is remitted by God which he does not first condemn."
 > — John Calvin, *Commentaries on Jonah, Micah, and Nahum*, on Nahum 1:3
