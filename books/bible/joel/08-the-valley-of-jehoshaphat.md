@@ -195,9 +195,9 @@ publisher: 三書精讀出版系統
 >
 > — John MacArthur, sermon 2171
 
-> "And into that valley God is going to gather all the nations and judge them, after His people have fled to safety,"
+> "And into that valley God is going to gather all the nations and judge them, after His people have fled to safety…"
 >
-> 「在那個谷裏，神要聚集萬國，審判他們，那是在祂的百姓逃到安全之地以後。」
+> 「在那個谷裏，神要聚集萬國，審判他們，那是在祂的百姓逃到安全之地以後……」
 >
 > — John MacArthur, sermon 2171
 
@@ -228,7 +228,7 @@ Kipling 這一節把推羅放進「昨日的榮華」，與尼尼微並列；3:4
 
 **先問**：3:1 與 3:2，哪一個動詞在前？如果次序反過來，先聚集列國、後使被擄之人歸回，這段話聽起來有甚麼不同？
 
-**再問**：3:2 到 3:5 一共說了幾次「我的」？一位法官如果自己是苦主，你會怎樣看待這場審判？
+**再問**：3:2 到 3:5 一共說了幾次「我的」（照希伯來文數）？一位法官如果自己是苦主，你會怎樣看待這場審判？
 
 **追問**：3:3 的帳目裏，為甚麼連一個童子換一個妓女、一個童女換一杯酒這樣的小事也算進去？你覺得祂為甚麼不只提大事？
 
