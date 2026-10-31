@@ -32,7 +32,7 @@ publisher: 三書精讀出版系統
 >
 > God moves in a mysterious way \
 > His wonders to perform; \
-> He plants his footsteps in the sea. \
+> He plants his footsteps in the sea, \
 > And rides upon the storm.
 >
 > Judge not the Lord by feeble sense, \
