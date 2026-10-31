@@ -702,7 +702,7 @@ Not a chronicle of doom: God speaks first, pays first, withdraws first, and is m
 
 \vspace{0.4cm}
 
-% Six-volume structure diagram. Plain centimetre coordinates, no picture-level
+% Four-volume structure diagram. Plain centimetre coordinates, no picture-level
 % `scale` (node sizes ignore it while positions obey it).
 \begin{tikzpicture}[every node/.style={align=center}]
   \node[font=\footnotesize\bfseries,color=ChapterStone] at (0,1.6) {全書四卷 Four Volumes, 15 Studies};

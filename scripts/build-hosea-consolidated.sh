@@ -42,6 +42,10 @@ copyright: |
 
   • **早期教父** — 引文取自 NPNF／ANF 公有領域譯本（newadvent.org）
 
+  • **希伯來文** — Miqra according to the Masorah（經 Sefaria 取得；CC-BY-SA；來源 he.wikisource.org）
+
+  • **聖詩** — 取自 Wikisource 所載公有領域聖詩原文
+
   **婚姻即信息、訴訟與退隱、醫治與顯露、心腸翻轉與白白的愛——十四章經文，十五篇研讀**
 
   卷一：婚姻即信息 (1-4篇) | 卷二：訴訟與退隱 (5-7篇) | 卷三：醫治與顯露 (8-11篇) | 卷四：心腸翻轉與白白的愛 (12-15篇)
