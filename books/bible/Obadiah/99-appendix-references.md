@@ -25,7 +25,7 @@ publisher: 三書精讀出版系統
 | 中文 | 和合本 (CUV) | 以 `ai-eden.com` 和合本（API `/api/bible/obadiah/1?t=CUV`）為底本，與信望愛 `bible.fhl.net`（unv）逐字比對；21 節中 18 節完全相同，其餘三處只差標點與異體字：第1節「起來罷／起來吧」、第18節「火燄／火焰」、第19節「撒瑪利亞／撒馬利亞」。依全庫政策，專有名詞與異體字以 ai-eden 為準；「裡」一律作「裏」。 |
 | 英文 | NASB 1995 | 取自 `biblehub.com/nasb/obadiah/1.htm`（頁首標 NASB 1995），與 `biblegateway.com`（NASB1995）逐字比對，去掉腳註記號後 21 節全部一致；補充字依 biblehub 版本保留斜體。 |
 | 希伯來文 | WLC（OSHB） | 取自 openscriptures/morphhb 公開文本（`wlc/Obad.xml`），含詞性標注；書中所有字數都用程式從這個文本計數，計數結果見下。 |
-| 其他經卷 | 和合本 | 書中引用的其他經文，逐節以信望愛和合本 JSON 介面取得後照錄，並用 `scripts/verify-prose-citations.py --self 俄` 逐條機器核對（89 條行文引用，0 誤）；`scripts/check-prose-scripture-quotes.py`：13 檔、0 條不符。 |
+| 其他經卷 | 和合本 | 書中引用的其他經文，逐節以信望愛和合本 JSON 介面取得後照錄，並用 `scripts/verify-prose-citations.py --self 俄` 逐條機器核對（86 條行文引用，0 誤）；`scripts/check-prose-scripture-quotes.py`：13 檔、0 條不符。 |
 
 **希伯來文字數**（用 `sources/count_hebrew.py` 重現）：
 
@@ -122,7 +122,7 @@ publisher: 三書精讀出版系統
 
 - `scripts/verify-citations.py`：逐段核對加爾文、亨利、摩根各小節下的 `> "引句"`（含 OCR 容錯）。
 - 另以一段自寫的逐字比對，核對全書（含卷首各章）所有「引句＋破折號出處」的引文，對象是三份原文與兩份摩根 OCR：41/41 通過（1 句經 `.citation-accept` 說明）。
-- `scripts/verify-prose-citations.py books/bible/Obadiah --self 俄`：89 條行文中的經文引用，0 誤。
+- `scripts/verify-prose-citations.py books/bible/Obadiah --self 俄`：86 條行文中的經文引用，0 誤。
 - `scripts/gen-obadiah-indices.py --check`：索引與各章同步。
 
 ---
@@ -130,7 +130,7 @@ publisher: 三書精讀出版系統
 ## 八、本書沒有做到的
 
 - **只經一輪代理校對。**全書經作者側的逐句機器核對，以及一位獨立校對代理向原始來源重新取證的一輪（抓出 11 項事實與引文處理上的錯誤、19 項過度或無據的說法，均已修正）；沒有第二位人類校對者通讀。歷來經驗是，這類獨立校對會抓出作者側看不見的缺陷，所以本書的自評分數不能當作定論。
-- **未做精簡輪。**
+- **精簡輪只做了有限一輪**：五章逐章讀過，刪去約 1,200 字的重述（原文研讀與領受要點、默想問題與提問式對話之間的重複），保留所有注疏引文與經文；各章基督焦點與骨幹章對全書主線的重述是刻意的，沒有動。頁數仍為 98 頁。
 - 沒有麥克阿瑟、沒有教父的逐字引文（見第二項誠實聲明）。
 - 摩根的頁碼未對照頁面影像；摩根《全本聖經講解》（*An Exposition of the Whole Bible*）中論俄巴底亞書的部分，本書未取得，未引用。
 - 原文研讀的字義說明未對照專門字典（見上）。
