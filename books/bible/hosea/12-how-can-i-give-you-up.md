@@ -253,7 +253,7 @@ publisher: 三書精讀出版系統
 
 gty.org 沒有何西阿書的逐節講道；下面是他在別的講道裏順帶論到本章經文的話。
 
-麥克阿瑟在一篇講禱告的講道裏，讀到 11:8：
+麥克阿瑟在一篇講聖靈代求（羅 8:26-28）的講道裏，順帶讀到 11:8：
 
 > "This is the heart of God, really.  I was reading Hosea chapter 11 and I came across verse 8 where God says, “How can I give you up, O Ephraim?  How can I surrender you, O Israel?.... My heart is turned over within Me.  All My compassions are kindled.”  And, you know, in the true sense, God never does give up Israel, does He?  He’s going to bring Israel back."
 > — John MacArthur, "Groanings Too Deep for Words" (sermon 90-425)

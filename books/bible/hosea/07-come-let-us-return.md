@@ -211,7 +211,7 @@ publisher: 三書精讀出版系統
 > "We must then remember, as we have before observed, that the beginning of repentance is a sense of God's mercy;"
 > — John Calvin, *Commentaries on the Twelve Minor Prophets*, vol. 1 (Hosea), tr. John Owen, on Hos. 6:1 (CCEL calcom26)
 
-論 6:2 的「第三日」，他不同意把這節直接讀成基督復活：
+論 6:2 的「第三日」，他不取「直接讀成基督復活」的讀法，說這樣讀過於精細（但也說不是不合適；基督的復活是此節的一個實例）：
 
 > "Yet this sense seems to me rather too refined. We must always mind this, that we fly not in the air."
 > — John Calvin, *Commentaries on the Twelve Minor Prophets*, vol. 1 (Hosea), tr. John Owen, on Hos. 6:2 (CCEL calcom26)

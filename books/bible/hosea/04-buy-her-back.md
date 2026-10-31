@@ -179,7 +179,7 @@ publisher: 三書精讀出版系統
 
 gty.org 沒有何西阿書的逐節講道；下面是他在別的講道裏順帶論到本章經文的話。
 
-麥克阿瑟談啟示錄時，用 3:1-5 說到神買回以色列：
+麥克阿瑟講啟示錄 19 章時，轉述何西阿買回歌篾的故事，說神最後也要買回以色列。他沒有引用 3:1-5；「在奴隸市場的臺上被拍賣」是他自己的說法，何 3 章沒有這樣寫：
 
 > "And God is saying in the end, through the book of Hosea, in the end I’m going to buy you back. In the end you - you’re going to come back, I’m going to take you to myself. I’m going to make you my very own. I’m going to buy you, as it were, off the block in the slave market. And God will redeem Israel."
 > — John MacArthur, "Heavenly Hallelujahs, Part 3" (sermon 66-68)

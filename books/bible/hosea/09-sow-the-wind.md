@@ -152,7 +152,7 @@ publisher: 三書精讀出版系統
 
 ### 種風、野驢、律法萬條（8:7-14）
 
-8:7 的風與暴風是本章的名句。亨利的讀法是徒勞：他們拜偶像，像農夫在撒種，指望收成，卻是撒風。加爾文的讀法不同：撒風，是做出一個敬拜的樣子，外表跟真敬拜的人沒有分別，裏面卻沒有信。8:8 接著說「以色列被吞吃」；前一節說外邦人要吞吃收成，這一節吞吃的對象成了以色列自己。8:9 的野驢獨行，8:10 說神要聚集他們。
+8:7 的風與暴風是本章的名句。兩位都說到徒勞，重點不同：亨利說他們拜偶像，像農夫在撒種，指望收成，卻是撒風；加爾文首先把撒風讀成做出一個敬拜的樣子，外表跟真敬拜的人沒有分別，裏面卻沒有信，接著也說他們的倚靠與計謀是虛空的。8:8 接著說「以色列被吞吃」；前一節說外邦人要吞吃收成，這一節吞吃的對象成了以色列自己。8:9 的野驢獨行，8:10 說神要聚集他們。
 
 8:11 的祭壇與 8:12 的律法是一組對照：他增添祭壇，神為他寫了律法萬條。亨利說，神只定了一座祭壇，北國多造祭壇，是自以為補償。8:13 說祭物神不悅納，「現在必記念他們的罪孽」，是對 7:2 的回答；他們必歸回埃及。8:14 說以色列忘記造他的主，建造宮殿；猶大多造堅固城；神要降火。
 
@@ -215,7 +215,7 @@ publisher: 三書精讀出版系統
 > "God is said not to know what he does not approve, or that concerning which he is not consulted."
 > — John Calvin, *Commentaries on the Twelve Minor Prophets*, vol. 1 (Hosea), tr. John Owen, on Hos. 8:4 (CCEL calcom26)
 
-論 8:7 的撒風，他把「風」讀成敬拜的外表，與亨利讀成偶像的徒勞不同：
+論 8:7 的撒風，他首先把「風」讀成敬拜的外表（亨利的重點在偶像的徒勞，兩人都說到徒勞）：
 
 > "To sow the wind is nothing else than to put on some appearance to dazzle the eyes of the simple"
 > — John Calvin, *Commentaries on the Twelve Minor Prophets*, vol. 1 (Hosea), tr. John Owen, on Hos. 8:7 (CCEL calcom26)
@@ -236,7 +236,7 @@ publisher: 三書精讀出版系統
 
 gty.org 沒有何西阿書的逐節講道；下面是他在別的講道裏順帶論到本章經文的話。
 
-麥克阿瑟在《如何作教會》講道裏論 8:2「我們以色列認識你了」那種宗教：
+麥克阿瑟在《如何作教會》講道裏論 8:1-2 那種只有形式的宗教（他先講 8:1，隨後才引 8:2 的「我們以色列認識你了」）：
 
 > "Israel was still religious. Israel still had religious feelings. The Israelites still went through some of the motions but they were dead. There wasn’t a reality to their religion, only a formality."
 > — John MacArthur, "How to Play Church" (sermon 1316A)

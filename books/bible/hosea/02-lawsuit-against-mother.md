@@ -212,7 +212,7 @@ publisher: 三書精讀出版系統
 
 ### 清教徒 (亨利 Matthew Henry)
 
-亨利論 2:6 的荊棘與牆，是把它當成神的恩慈來說的；他引巴蘭路上的使者（民22:22）為例：
+亨利論 2:6 的荊棘與牆，並陳兩層：一是公義的審判，如所多瑪人的昏瞎、亞蘭人的眼瞎；一是恩慈的攔阻。下面這句取後者；他引巴蘭路上的使者（民22:22）為例：
 
 > "Crosses and obstacles in an evil course are great blessings, and are so to be accounted. They are God's hedges, to keep us from transgressing"
 > — Matthew Henry, *Commentary on the Whole Bible*, Hos. 2 (CCEL mhc4)
