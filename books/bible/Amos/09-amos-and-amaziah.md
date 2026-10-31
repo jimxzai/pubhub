@@ -171,7 +171,16 @@ publisher: 三書精讀出版系統
 > "a herdman of Tekoa puts to shame a priest of Bethel, when he receives from God authority and ability to act for him."
 > — Matthew Henry, *Commentary on the Whole Bible*, Amos 7 (CCEL mhc4)
 
-本章沒有可查的摩根專論（他的概論只一語帶過阿摩司的出身，不論亞瑪謝）；也沒有可查的麥克阿瑟講道（gty.org 上沒有他講阿摩司書第 7 章的材料），不立〈摩根〉〈麥克阿瑟〉兩節。
+本章沒有可查的摩根專論（他的概論只一語帶過阿摩司的出身，不論亞瑪謝）；不立〈摩根〉一節。
+
+### 麥克阿瑟
+
+麥克阿瑟沒有講阿摩司書第 7 章的講道。一篇講保羅在帖撒羅尼迦的講道，順帶讀到 7:10 亞瑪謝向王的控告，評論那控告說：
+
+> "which was a lie; Amos was speaking the truth."
+> — John MacArthur, "Men Who Turned the World Upside Down, Part 1"（1973年10月21日，gty.org sermon 1759）
+
+這是講道中的順帶評語，不是對 7:10-17 的逐節解釋。
 
 ---
 

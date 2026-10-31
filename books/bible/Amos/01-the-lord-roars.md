@@ -187,7 +187,14 @@ publisher: 三書精讀出版系統
 > "This is a figurative way of declaring that God does not act immediately in judgment, but that He waits in order to give every nation the chance of repentance."
 > — G. Campbell Morgan, *Living Messages of the Books of the Bible*, Old Testament, "The Message of Amos," p. 201
 
-本章沒有可查的麥克阿瑟講道（gty.org 上沒有他講阿摩司書第 1 章的材料），不立〈麥克阿瑟〉一節。
+### 麥克阿瑟
+
+麥克阿瑟沒有講阿摩司書第 1 章的講道。唯一可查的是 2001 年一篇論戰爭的講道，順帶提到第 1 章，說：
+
+> "It forbids a pitiless, ruthless war."
+> — John MacArthur, "A Biblical Perspective on War"（2001年9月23日，gty.org sermon 80-241）
+
+這是他在講戰爭時的應用，不是逐節解經；本書只取這一句，不拿它定 1:3-15 各國之罪的細目。
 
 ---
 

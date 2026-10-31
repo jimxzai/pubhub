@@ -33,3 +33,12 @@ Key points read on 2026-10-30: Amos's two themes are an absence of true worship 
 ## Fetched but NOT kept (passing mentions, 1-2 sentences)
 
 - 1319 Is God Finished with Israel? Part 2 (Amos 9:14, one paragraph); 1365 Where Does the Bible End? Part 2 (8:11 one sentence); 1628 Enoch and the Walk of Faith, 90-383 Enoch: The Walk of Faith, 47-45 Separating from Unbelievers Part 2 (Amos 3:3 as a one-line axiom); 42-297 The Great Commission Part 2 (9 quoted in Acts 15, 2 paragraphs, duplicated by kept sermons); 52-19, 52-22, 42-223 (day of the Lord, no Amos exposition); 45-87, 66-72, 81-85, 1739, 80-148, 42-285 (no Amos text at all).
+
+## Addendum 2026-10-31: site sweep
+A sweep of gty.org (3,359 sermon/article URLs from sitemap.xml, 6 parallel curls, page kept if "Amos" appears 3+ times) found 124 pages. The top ~40 by mention count were reviewed by title and Amos references; three were added: 
+| CODE | Title | Amos verses | Weight | Quotable (verbatim) |
+|---|---|---|---|---|
+| 66-35 | When God Breaks His Silence (March 7, 1993) | 3:7 | BRIEF | God won’t do things that He hasn’t revealed. |
+| 1759 | Men Who Turned the World Upside Down, Part 1 (October 21, 1973) | 7:10 | BRIEF | which was a lie; Amos was speaking the truth |
+| 80-241 | A Biblical Perspective on War (September 23, 2001) | 1; 3:6 | BRIEF | It forbids a pitiless, ruthless war. |
+Other pages with several mentions but not read in full (candidates if someone continues): 1885, 2278, 81-73, 59-30, 1836, 1319, 80-365, 44-26. The remaining ~80 pages were not read.

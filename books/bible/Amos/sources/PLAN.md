@@ -53,7 +53,7 @@
 - 摩根：`commentary/morgan-amos.txt`（《Living Messages of the Books of the Bible》OT，〈The Message of Amos〉pp.197-211，全書概論；OCR 稿，頁碼依頁眉）。
 - 合併語料：`commentary/corpus.txt`（亨利＋加爾文＋摩根；verify-citations 用）。
 - 教父：`commentary/fathers/INDEX.md`（若某章無條目就不立教父節）。
-- 麥克阿瑟：`commentary/gty/INDEX.md`（11 篇，皆為順帶講到；覆蓋摩 2–6, 8, 9；**摩 1、3:3-8、5:18-20、6:1-3、7 全章、9:1-10、9:13-15 無材料，不立該節**）。
+- 麥克阿瑟：`commentary/gty/INDEX.md`（14 篇，皆為順帶講到；2026-10-31 補掃全站後加入 80-241〔摩 1〕、66-35〔摩 3:7〕、1759〔摩 7:10〕；單元 2、8、11 無材料，不立該節）。
 - 配詩：`hymns/NN-*.txt` 與 `hymns/INDEX.md`。
 - 經文：`scripture/cuv.tsv`、`nasb1995.tsv`、`cuvmpt.tsv`；希伯來文 `hebrew/amos-N.json`（Sefaria，節號與中文一致）。
 

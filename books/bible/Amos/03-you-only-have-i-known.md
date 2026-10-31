@@ -195,6 +195,11 @@ publisher: 三書精讀出版系統
 > "Your privileges only intensify your judgment."
 > — John MacArthur, "Why We Believe the Bible Is True" (sermon 90-321)
 
+在一篇講啟示錄第 10 章的講道裏，他引 3:7，說：
+
+> "God won’t do things that He hasn’t revealed."
+> — John MacArthur, "When God Breaks His Silence"（1993年3月7日，gty.org sermon 66-35）
+
 ---
 
 

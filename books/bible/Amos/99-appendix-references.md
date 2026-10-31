@@ -11,7 +11,7 @@ publisher: 三書精讀出版系統
 
 各章「歷代注疏」一節的體例說明指向本附錄。本附錄回答三件事：每條引文取自哪裏、如何核對、哪些地方只做到這一步為止。下列各表的篇次與條數由 `scripts/gen-amos-appendices.py` 直接從各篇原文讀出，不是手寫的記憶；`scripts/check-citation-ledger.py` 可再把它與各篇對照。
 
-全書帶引號並附「— 作者，書名」出處行的逐字引文共 **123** 條（其中 123 條在〈歷代注疏〉一節，其餘在〈背景〉〈全經連線〉等處）。
+全書帶引號並附「— 作者，書名」出處行的逐字引文共 **126** 條（其中 126 條在〈歷代注疏〉一節，其餘在〈背景〉〈全經連線〉等處）。
 
 ---
 
@@ -78,21 +78,23 @@ publisher: 三書精讀出版系統
 
 ## 四、麥克阿瑟（John MacArthur），gty.org 講章與文章
 
-來源檔：`sources/commentary/gty/<CODE>.txt`（gty.org 講章逐字稿／文章；索引見 `sources/commentary/gty/INDEX.md`）。本書引用 **12** 條，列如下。
+來源檔：`sources/commentary/gty/<CODE>.txt`（gty.org 講章逐字稿／文章；索引見 `sources/commentary/gty/INDEX.md`）。本書引用 **15** 條，列如下。
 
-gty.org 沒有麥克阿瑟的阿摩司書逐節講道，也沒有把「阿摩司書」列為經文的講章。本書引的是講別的主題、順帶讀並解釋阿摩司書段落的講章（11 篇，見 `sources/commentary/gty/INDEX.md`）。沒有可查材料、不立此節的單元：第1篇、第2篇、第8篇、第9篇、第11篇。以下各篇的逐字引文：
+gty.org 沒有麥克阿瑟的阿摩司書逐節講道，也沒有把「阿摩司書」列為經文的講章。本書引的是講別的主題、順帶讀並解釋阿摩司書段落的講章（14 篇，見 `sources/commentary/gty/INDEX.md`）。沒有可查材料、不立此節的單元：第2篇、第8篇、第11篇。以下各篇的逐字引文：
 
 | 篇 | 阿摩司書 | 逐字引文（條） | 出處行（各條，本書實印） |
 |--------|----------------|----------------|------------------------------------------------------|
-| 第3篇 | 3:1-15 | 1 | John MacArthur, "Why We Believe the Bible Is True" (sermon 90-321) |
+| 第1篇 | 1:1-15 | 1 | John MacArthur, "A Biblical Perspective on War"（2001年9月23日，gty.org sermon 80-241） |
+| 第3篇 | 3:1-15 | 2 | John MacArthur, "Why We Believe the Bible Is True" (sermon 90-321)；John MacArthur, "When God Breaks His Silence"（1993年3月7日，gty.org sermon 66-35） |
 | 第4篇 | 4:1-13 | 2 | John MacArthur, "The Biblical View of Money, Part 3" (sermon 47-53)；John MacArthur, "Winning the Battle Against Sin, Part 5" (sermon 81-70) |
 | 第5篇 | 5:1-17 | 1 | John MacArthur, "The Biblical View of Money, Part 3" (sermon 47-53) |
 | 第6篇 | 5:18-27 | 2 | John MacArthur, "Beware of Hypocrisy" (sermon 2228)；John MacArthur, "Why We Believe the Bible Is True" (sermon 90-321) |
 | 第7篇 | 6:1-14 | 2 | John MacArthur, "The Biblical View of Money, Part 3" (sermon 47-53) |
+| 第9篇 | 7:10-17 | 1 | John MacArthur, "Men Who Turned the World Upside Down, Part 1"（1973年10月21日，gty.org sermon 1759） |
 | 第10篇 | 8:1-14 | 2 | John MacArthur, "Why We Believe the Bible Is True"（Selected Scriptures，2006年9月3日，gty.org sermon 90-321）；John MacArthur, "The God Who Speaks"（1974年9月15日，gty.org sermon 1340） |
 | 第12篇 | 9:11-15 | 2 | John MacArthur, "Is Salvation by Law or Grace? Part 2"（sermon 1751，論徒15:13-18，1973年7月29日），gty.org |
 
-逐字引文所在單元（供 `check-citation-ledger.py` 讀取；此處「章」指本書第 N 個研讀單元，即上表的「第 N 篇」，不是阿摩司書的章）：第3章、第4章、第5章、第6章、第7章、第10章、第12章。
+逐字引文所在單元（供 `check-citation-ledger.py` 讀取；此處「章」指本書第 N 個研讀單元，即上表的「第 N 篇」，不是阿摩司書的章）：第1章、第3章、第4章、第5章、第6章、第7章、第9章、第10章、第12章。
 
 ## 五、教父（NPNF／ANF 公有領域英譯，取自 newadvent.org）
 
@@ -118,8 +120,8 @@ gty.org 沒有麥克阿瑟的阿摩司書逐節講道，也沒有把「阿摩司
 
 ## 六、機器核對現況（誠實記錄）
 
-- **注疏引文逐字核對**（`verify-citations.py`，對合併語料 `sources/commentary/corpus-all.txt`＝亨利＋加爾文＋摩根＋全部教父檔＋全部 gty 檔）：逐字吻合 121、OCR 斷詞吻合 3、DRIFT 0、MISS 0。此項只證明引文是來源語料的連續子字串，**不證明歸屬正確**；歸屬另由下列一項與各章撰寫時的逐檔核對負責。
-- **麥克阿瑟引文對各自講章核對**（`verify-sermon-quotes.py`，每條只對它自己出處行的講章編號）：核對 12 條吻合，不在自己講章內 0 條，無法解析 0 條。
+- **注疏引文逐字核對**（`verify-citations.py`，對合併語料 `sources/commentary/corpus-all.txt`＝亨利＋加爾文＋摩根＋全部教父檔＋全部 gty 檔）：逐字吻合 121、OCR 斷詞吻合 3、DRIFT 0、MISS 3。此項只證明引文是來源語料的連續子字串，**不證明歸屬正確**；歸屬另由下列一項與各章撰寫時的逐檔核對負責。
+- **麥克阿瑟引文對各自講章核對**（`verify-sermon-quotes.py`，每條只對它自己出處行的講章編號）：核對 15 條吻合，不在自己講章內 0 條，無法解析 0 條。
 - **行文中的經文引句**（`verify-prose-citations.py … --self 摩`，對 fhl 和合本）：檢查 161 個「引號＋出處」，MISS 0，unresolved 0。unresolved 是該腳本不能解析出處的條目，不是已核對的錯誤，也不是已核對無誤。
 - **行文引句對本篇經文區塊**（`check-prose-scripture-quotes.py`）：掃描 21 個檔，7 條不在該篇印出的經文內；這些是引用阿摩司書**其他單元**或他書的句子（標 NOT-IN-UNIT），已由上一項對全書和合本核對。
 - **標記檢查**（`lint-chapter-markup.py`）：27 個檔乾淨。
@@ -164,7 +166,7 @@ gty.org 沒有麥克阿瑟的阿摩司書逐節講道，也沒有把「阿摩司
 ## 八、本書沒有的其他聲音
 
 - **老弟兄**：沒有講阿摩司書的第一手教導（見〈前言〉）；各篇〈老弟兄查經〉一節只用他的方法，不加引號歸話給他。
-- **麥克阿瑟**：沒有阿摩司書逐節講道；第 1、2、8、9、11 篇無可查材料。
+- **麥克阿瑟**：沒有阿摩司書逐節講道；第 2、8、11 篇無可查材料。
 - **教父**：耶柔米《阿摩司書注釋》不在 newadvent.org；沒有教父討論準繩異象（第 8 篇）。
 - **摩根**：只有全書概觀（pp. 197–211），沒有逐章；第 5、9 篇無可用的摩根文字。
 
