@@ -1,0 +1,8 @@
+AUTHOR: John Chrysostom
+WORK: Homilies on Matthew, Homily 79 | section: Homily 79 on Matthew
+TRANSLATOR: Translated by George Prevost and revised by M.B. Riddle. From Nicene and Post-Nicene Fathers, First Series, Vol. 10. Edited by Philip Schaff.
+SOURCE_URL: https://www.newadvent.org/fathers/200179.htm
+HOSEA_VERSE: Hos 6:6
+CITATION: Chrysostom, Homilies on Matthew, Homily 79 (NPNF 1/10)
+
+But while the brutes have from nature their unfruitfulness, and fruitfulness, these have it from choice, wherefore some are punished, and the others crowned. And He does not punish them, until He has pleaded with them; wherefore also, when He has put them in their place, He mentions the charges against them. And they speak with meekness, but they have no advantage from it now; and very reasonably, because they passed by a work so much to be desired. For indeed the prophets are everywhere saying this, I will have mercy and not sacrifice, Hosea 6:6 and the lawgiver by all means urged them to this, both by words, and by works; and nature herself taught it.

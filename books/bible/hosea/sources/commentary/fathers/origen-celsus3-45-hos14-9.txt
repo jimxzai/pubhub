@@ -1,0 +1,8 @@
+AUTHOR: Origen
+WORK: Against Celsus, Book III | section: Chapter 45
+TRANSLATOR: Translated by Frederick Crombie. From Ante-Nicene Fathers, Vol. 4. Edited by Alexander Roberts, James Donaldson, and A. Cleveland Coxe.
+SOURCE_URL: https://www.newadvent.org/fathers/04163.htm
+HOSEA_VERSE: Hos 14:9
+CITATION: Origen, Against Celsus, Book III, ch. 45 (ANF 4)
+
+And to such a degree does the Gospel desire that there should be wise men among believers, that for the sake of exercising the understanding of its hearers, it has spoken certain truths in enigmas, others in what are called dark sayings, others in parables, and others in problems. And one of the prophets— Hosea — says at the end of his prophecies: Who is wise, and he will understand these things? Or prudent, and he shall know them? Daniel, moreover, and his fellow-captives, made such progress in the learning which the wise men around the king in Babylon cultivated, that they were shown to excel all of them in a tenfold degree. And in the book of Ezekiel it is said to the ruler of Tyre, who greatly prided himself on his wisdom, Are you wiser than Daniel? Every secret was not revealed to you.
