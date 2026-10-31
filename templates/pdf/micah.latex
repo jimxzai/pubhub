@@ -1,0 +1,870 @@
+% PubHub Micah Template (derived from templates/pdf/revelation.latex: same full-bleed cover/back-cover machinery as Revelation and John)
+% Professional Bible Study Book Layout — "有何神像你" Who Is a God Like You? theme
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+%% BoldFont fix (see .claude/skills/eat-bible/references/gotchas.md):
+%% "Songti SC Bold" has missing/mismatched glyphs for full-width punctuation
+%% (：。), so xelatex silently *weakens* any \textbf run containing them
+%% instead of erroring — zero warnings, exit code 0. Nearly every bolded
+%% Chinese phrase in this book contains such punctuation. Pointing BoldFont at
+%% the same regular file with FakeBold guarantees identical glyph coverage, so
+%% the fallback cannot trigger.
+%%
+%% Confirmed by isolated repro, per the skill's instruction to measure rather
+%% than eyeball: the CJK line renders visibly lighter with BoldFont=Songti SC
+%% Bold and unambiguously heavier with FakeBold.
+%%
+%% The same repro showed the reverse for the Latin/Greek/Hebrew families
+%% below: Baskerville, Times New Roman and Arial Hebrew all have real bold
+%% faces with complete coverage for the script they actually render, and
+%% fontspec's auto-detected bold beats a synthetic one there. So FakeBold is
+%% applied to the CJK families ONLY, not blanket-applied to every
+%% \newfontfamily.
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+\setmonofont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2}
+]
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks.
+%% These keep their real bold faces deliberately — see the note above.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge.
+% Same fix as templates/pdf/jeremiah.latex and isaiah.latex.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+\newfontfamily\cjkfallbackfont{Songti SC}[
+  ItalicFont=Kaiti SC,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2}
+]
+
+%% Classical English typeface — auto-switch for Latin-script runs so
+%% bilingual scripture/quote blocks render in a period-appropriate serif
+%% instead of Songti SC's built-in Latin glyphs. Baskerville for running
+%% text; Didot reserved for large display lines (invoked explicitly).
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
+\newfontfamily\didotfont{Didot}
+% Alias matching the naming convention used on the full-bleed cover pages
+\newcommand{\baskervillefont}{\basklatin}
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek", "Latin", "CJK" are GROUPS; "Han" is neither. Feeding a group name
+%% (or a nonexistent one) to the 3-arg form compiles fine and does nothing.
+%% Three of this template's five original transitions were dead: {Greek}
+%% (block is GreekAndCoptic), {Han} (block is CJKUnifiedIdeographs) and
+%% {Latin} (group form is \setTransitionsForLatin).
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a
+%% later declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Declare HalfwidthAndFullwidthForms after GreekExtended and the former's
+%% out-code clobbers the latter's in-code for the pair (full-width → Greek).
+%% Observable symptom: a Greek or Hebrew run whose PRECEDING character is CJK
+%% or full-width punctuation (：、。） silently does not switch font. It was
+%% invisible here only because Songti SC happens to carry basic Greek glyphs.
+%%
+%% FIX: use \setTransitionTo, which sets the entering direction ONLY and never
+%% touches the leaving direction. With every block in play given an explicit
+%% destination there is nothing to clobber and declaration order stops
+%% mattering. Verified: 0 missing glyphs across a stress test covering
+%% italic/bold book titles, mixed CJK+Latin bold, polytonic Greek, Hebrew
+%% beside digits, full-width punctuation, macron transliterations and arrows.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which is what
+%% drops \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\basklatin}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkfallbackfont}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block these books actually contain, measured over the
+%% markdown sources. Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (ḥesed U+1E25 "LatinExtendedAdditional",
+%% tsade ṣ U+1E63 "LatinExtendedAdditional", ʿayin's modifier letter U+02BF
+%% "SpacingModifierLetters") used throughout the Word Study sections.
+%%
+%% THE REAL BUG (found the hard way): ucharclasses' \XeTeXinterchartoks fires
+%% on a character's Unicode class as XeTeX's own primitive lexer processes it,
+%% which is NOT the same thing as, and fires AFTER, ordinary TeX font
+%% selection — so it overrides ANY manual font switch for a block that has a
+%% registered transition, including one from inside an explicit
+%% `{\somefont ...}` group, and even for a character produced indirectly via
+%% \symbol{<codepoint>} rather than typed literally. A \newunicodechar
+%% attempt and a manual `{\translitfont ...}`-wrapping attempt both failed
+%% against this for exactly that reason — there is no overriding
+%% ucharclasses per-character from inside its own mapped blocks. The only
+%% real fix is to make the BLOCK'S OWN mapping point at a font that has the
+%% glyphs. IPAExtensions (used elsewhere in this book's Hebrew vowel-pointing
+%% discussion) already worked fine going to \ucCJKRun and is left alone.
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Micah Theme (mountain slate-green / royal gold)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - throne-room / marriage-of-the-Lamb theme
+\definecolor{ChapterBlue}{RGB}{28,58,60}         % Royal navy for chapters
+\definecolor{ScriptureGold}{RGB}{175,135,45}     % Royal gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{95,45,25}     % Rich brown for commentary
+
+% Cover gradient (navy, dark at top to a richer royal blue at bottom)
+\definecolor{NavyDark}{RGB}{10,30,32}
+\definecolor{NavyLight}{RGB}{34,78,80}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{253,250,244}      % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{253,246,246}          % Light rose for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}    % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Red letter Bible - Jesus's words (#CC0000), matching the gospel templates
+\definecolor{JesusRed}{RGB}{204,0,0}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+% Diagram colors - two camps (Lamb's bride vs. the harlot)
+\definecolor{OldCovenantRed}{RGB}{150,40,40}     % Babylon / the beast
+\definecolor{NewCovenantGreen}{RGB}{60,120,80}   % New Jerusalem / the Lamb
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{pgfornament}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Crown decoration (used in body text, not on the full-bleed covers)
+\newcommand{\crownsymbol}{%
+\begin{tikzpicture}[scale=0.16]
+  \draw[color=ScriptureGold,line width=1.5pt] (-1,-0.6) -- (-1,0.4) -- (-0.5,-0.1) -- (0,0.6) -- (0.5,-0.1) -- (1,0.4) -- (1,-0.6) -- cycle;
+  \fill[color=ScriptureGold] (0,0.6) circle (0.12);
+\end{tikzpicture}%
+}
+
+% Lamb/throne symbol (simple stylized emblem)
+\newcommand{\lambsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ScriptureGold,line width=1pt] (-0.5,0) -- (0.5,0);
+  \draw[color=ScriptureGold,line width=1pt] (0,0) -- (0,0.9);
+  \fill[color=ScriptureGold] (0,0.9) circle (0.15);
+\end{tikzpicture}%
+}
+
+% Classical printer's-ornament divider: thin rule — fleuron — thin rule
+\newcommand{\ornamentdivider}[1][2in]{%
+  {\color{ScriptureGold}\rule{#1}{0.4pt}}\hspace{0.15cm}%
+  \raisebox{-0.22cm}{\pgfornament[width=0.5cm,color=ScriptureGold]{88}}%
+  \hspace{0.15cm}{\color{ScriptureGold}\rule{#1}{0.4pt}}%
+}
+
+% A single small fleuron (no rules), used standalone on the full-bleed
+% cover pages and the dedication/colophon pages.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.55cm,color=#1]{88}%
+}
+
+% Classical double-rule (hairline) frame
+\newcommand{\classicalframe}[1]{%
+\begin{tikzpicture}
+  \node[fill=ScriptureBg,inner sep=14pt] (box) {#1};
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-3pt,-3pt)$$) rectangle ($$(box.north east)+(3pt,3pt)$$);
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-6pt,-6pt)$$) rectangle ($$(box.north east)+(6pt,6pt)$$);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+
+% Full-bleed navy gradient background, painted in the shipout background
+% hook so it bleeds to the true physical page edge and does not disturb
+% the \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=NavyDark,bottom color=NavyLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{212,178,90}
+\definecolor{CoverMuted}{RGB}{188,183,166}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={彌迦書逐段研讀：三輪「聽」——神親自下來、審判從領袖起、君王自最小的伯利恆來、控告的神成為辯護的神；七章經文，九篇研讀},
+  pdfkeywords={彌迦書, Micah, 伯利恆, 公義憐憫謙卑, 有何神像你, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long cells from wrapping to a few characters per line (as jeremiah/isaiah/luke).
+\AtBeginEnvironment{longtable}{\small}
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 10pt
+    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+% Number chapters only (book class default of 2 would print academic-style
+% decimal numbers like "9.6.1" on every ## and ### heading inside a chapter —
+% reads like a thesis, not a devotional study book. Chapter numbering itself
+% is handled separately in \@makechapterhead above and is unaffected by this.
+\setcounter{secnumdepth}{0}
+% Clean running heads (raw chapter/section title only), and give every \chapter*
+% (front matter, appendices) its own running head instead of inheriting the last
+% numbered chapter's. Same fixes as templates/pdf/jeremiah.latex / ruth.latex.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\makeatletter
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+% \cleardoublepage's inserted blank verso must be truly blank (no folio).
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{1.1cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 有何神像你}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} Who Is a God Like You? — The Word of the LORD That Came to Micah}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 彌迦書研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the Book of Micah}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+「神啊，有何神像你，赦免罪孽，\\
+饒恕你產業之餘民的罪過，不永遠懷怒，喜愛施恩？」\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} Who is a God like You, who pardons iniquity\\
+And passes over the rebellious act of the remnant of His possession?\\
+He does not retain His anger forever,\\
+Because He delights in unchanging love.\\
+— Micah 7:18}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 只要你行公義，好憐憫，存謙卑的心，與你的神同行}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} "To do justice, to love kindness, and to walk humbly with your God" (Mic 6:8, NASB 1995)}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 有何神像你}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} Who Is a God Like You?}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Overview diagram page
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 彌迦書結構}\\[0.1cm]
+{\normalsize Structure of Micah}
+
+\vspace{0.4cm}
+
+% Three rounds of "Hear": each opens with a summons and ends in a hope
+\begin{tikzpicture}[scale=0.72, transform shape]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (6.3,2.3) {三輪「聽」 Three Summonses to Hear};
+
+  \node[draw=ChapterBlue,fill=ChapterBlue!10,rounded corners,minimum width=3.6cm,minimum height=2.1cm] at (0,0) {};
+  \node[font=\small\bfseries,color=ChapterBlue] at (0,0.6) {卷一};
+  \node[font=\footnotesize,color=TextGray] at (0,0.15) {神親自下來};
+  \node[font=\tiny,color=LightGray] at (0,-0.3) {Micah 1–2};
+  \node[font=\tiny,color=TextGray] at (0,-0.75) {1:2 聽 → 2:12 聚集};
+
+  \node[draw=ScriptureGold,fill=ScriptureGold!10,rounded corners,minimum width=3.6cm,minimum height=2.1cm] at (4.6,0) {};
+  \node[font=\small\bfseries,color=ScriptureGold!80!black] at (4.6,0.6) {卷二};
+  \node[font=\footnotesize,color=TextGray] at (4.6,0.15) {官長與山};
+  \node[font=\tiny,color=LightGray] at (4.6,-0.3) {Micah 3–5};
+  \node[font=\tiny,color=TextGray] at (4.6,-0.75) {3:1 聽 → 5:2 伯利恆};
+
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=3.6cm,minimum height=2.1cm] at (9.2,0) {};
+  \node[font=\small\bfseries,color=NewCovenantGreen!80!black] at (9.2,0.6) {卷三};
+  \node[font=\footnotesize,color=TextGray] at (9.2,0.15) {爭辯與等候};
+  \node[font=\tiny,color=LightGray] at (9.2,-0.3) {Micah 6–7};
+  \node[font=\tiny,color=TextGray] at (9.2,-0.75) {6:1 聽 → 7:18 有何神像你};
+
+  \draw[->,thick,color=ScriptureGold] (1.9,0) -- (2.7,0);
+  \draw[->,thick,color=ScriptureGold] (6.5,0) -- (7.3,0);
+\end{tikzpicture}
+
+\vspace{0.4cm}
+
+% Five steps of God's order
+\begin{tikzpicture}[scale=0.62, transform shape]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (7,3) {啟示的次序 The Order of Revelation};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.3cm] at (0,0.3) {神先下來 \\ He comes down};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.3cm] at (3.5,0.3) {審判從領袖起 \\ Leaders first};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.3cm] at (7,0.3) {判決與應許並排 \\ Side by side};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.3cm] at (10.5,0.3) {君王自最小處來 \\ From the least};
+  \node[font=\tiny,color=TextGray,align=center,text width=2.3cm] at (14,0.3) {有何神像你 \\ Who is like You};
+  \foreach \x/\n in {0/1,3.5/2,7/3,10.5/4,14/5} {
+    \fill[ScriptureGold] (\x,1.3) circle (0.34);
+    \node[font=\tiny\bfseries,color=white] at (\x,1.3) {\n};
+  }
+  \draw[ScriptureGold,line width=1.5pt] (0.34,1.3) -- (3.16,1.3);
+  \draw[ScriptureGold,line width=1.5pt] (3.84,1.3) -- (6.66,1.3);
+  \draw[ScriptureGold,line width=1.5pt] (7.34,1.3) -- (10.16,1.3);
+  \draw[ScriptureGold,line width=1.5pt] (10.84,1.3) -- (13.66,1.3);
+\end{tikzpicture}
+
+\vspace{0.4cm}
+
+% The same root: the Lord as plaintiff, then as advocate
+\begin{tikzpicture}[scale=0.75, transform shape]
+  \node[font=\small\bfseries,color=ChapterBlue] at (2.9,2) {同一個字根 One Root: ריב};
+  \node[draw=OldCovenantRed,fill=OldCovenantRed!10,rounded corners,minimum width=4.2cm,minimum height=1.6cm] at (0,0) {};
+  \node[font=\small\bfseries,color=OldCovenantRed] at (0,0.35) {與他的百姓爭辯};
+  \node[font=\footnotesize,color=TextGray] at (0,-0.1) {The LORD has a case};
+  \node[font=\tiny,color=LightGray] at (0,-0.55) {Micah 6:2};
+
+  \node[draw=NewCovenantGreen,fill=NewCovenantGreen!10,rounded corners,minimum width=4.2cm,minimum height=1.6cm] at (5.8,0) {};
+  \node[font=\small\bfseries,color=NewCovenantGreen!80!black] at (5.8,0.35) {為我辨屈};
+  \node[font=\footnotesize,color=TextGray] at (5.8,-0.1) {He pleads my cause};
+  \node[font=\tiny,color=LightGray] at (5.8,-0.55) {Micah 7:9};
+
+  \draw[->,thick,color=ScriptureGold] (2.2,0) -- (3.6,0);
+\end{tikzpicture}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} 「至於我，我要仰望耶和華，要等候那救我的神；我的神必應允我。」— 彌迦書 7:7}
+\end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給那些在審判的日子裏，\\
+仍然仰望、仍然等候的人——\\
+你們的神必聽你們。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+To those who, in the day of judgment,\\
+still look to the LORD and still wait —\\
+your God will hear you.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 至於我，我要仰望耶和華，要等候那救我的神；我的神必應允我。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} \textquotedblleft But as for me, I will watch expectantly for the LORD; I will wait for the God of my salvation. My God will hear me.\textquotedblright\ — Micah 7:7}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{彌迦書研讀 / Micah Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible (NASB 1995)\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents — chapter-level only (book class default of 2 would
+% pull in every section/subsection from all concatenated files, ballooning
+% the TOC instead of a scannable chapter list).
+\setcounter{tocdepth}{0}
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你聽見了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Have you heard?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$מִיכָה$endif$}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "Who Is a God Like You?"} · 有何神像你——全書最後一問}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.4cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書逐段研讀彌迦書全書七章，九篇、三卷。全書三次呼召「聽」，每次都先宣判、後給出盼望：神親自下來作見證，審判從首領與神的家起，君王從最小的伯利恆出來；神先陳說祂為百姓做了甚麼，才說祂所要的是甚麼；控告的神，最後成為為百姓辨屈的神，全書終於一問：「有何神像你？」
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ chapter-by-chapter study of Micah in nine studies and three volumes. Three times the book summons its hearers, and each time judgment comes first and hope after: the LORD comes down to bear witness, a ruler comes out of the least of the clans, the One who brings the case becomes the One who pleads the cause, and the book ends on a question — who is a God like You?}
+$endif$
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\small\bfseries\color{CoverCream} 三輪「聽」}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Three Summonses to Hear}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cp{3.4in}l@{}}
+第一輪 & 萬民哪，你們都要聽 \textit{\baskervillefont\color{CoverCream} Hear, O peoples, all of you} & {\tiny\color{CoverMuted} 1:2}\\[0.25em]
+第二輪 & 雅各的首領，以色列家的官長啊，你們要聽 \textit{\baskervillefont\color{CoverCream} Hear now, heads of Jacob} & {\tiny\color{CoverMuted} 3:1}\\[0.25em]
+第三輪 & 以色列人哪，當聽耶和華的話 \textit{\baskervillefont\color{CoverCream} Hear now what the LORD is saying} & {\tiny\color{CoverMuted} 6:1}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\itshape\color{CoverCream} 必再憐憫我們，將我們的罪孽踏在腳下，\\ 又將我們的一切罪投於深海。}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "He will again have compassion on us; He will tread our iniquities under foot. Yes, You will cast all their sins into the depths of the sea." — Micah 7:19}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.35cm}
+
+{\footnotesize\color{CoverMuted} \S\ Micah Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}
