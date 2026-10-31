@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"1 Thess",
+"chineses":"\u5e16\u524d",
+"chap":5,
+"sec":24,
+"bible_text":"\u90a3\u53ec\u4f60\u5011\u7684\u672c\u662f\u4fe1\u5be6\u7684\uff0c\u4ed6\u5fc5\u6210\u5c31\u9019\u4e8b\u3002"}
+],"prev":{"chineses":"\u5e16\u524d",
+"engs":"1 Thess",
+"chap":5,"sec":23}
+,"next":{"chineses":"\u5e16\u524d",
+"engs":"1 Thess",
+"chap":5,"sec":25}
+}

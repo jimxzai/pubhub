@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"2 Sam",
+"chineses":"\u6492\u4e0b",
+"chap":7,
+"sec":2,
+"bible_text":"\u90a3\u6642\uff0c\u738b\u5c0d\u5148\u77e5\u62ff\u55ae\u8aaa\uff1a\u300c\u770b\u54ea\uff0c\u6211\u4f4f\u5728\u9999\u67cf\u6728\u7684\u5bae\u4e2d\uff0c\u3000\u795e\u7684\u7d04\u6ac3\u53cd\u5728\u5e54\u5b50\u88e1\u3002\u300d"}
+],"prev":{"chineses":"\u6492\u4e0b",
+"engs":"2 Sam",
+"chap":7,"sec":1}
+,"next":{"chineses":"\u6492\u4e0b",
+"engs":"2 Sam",
+"chap":7,"sec":3}
+}

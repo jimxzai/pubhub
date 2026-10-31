@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"1 Cor",
+"chineses":"\u6797\u524d",
+"chap":3,
+"sec":16,
+"bible_text":"\u8c48\u4e0d\u77e5\u4f60\u5011\u662f\u3000\u795e\u7684\u6bbf\uff0c\u3000\u795e\u7684\u9748\u4f4f\u5728\u4f60\u5011\u88e1\u982d\u55ce\uff1f"}
+],"prev":{"chineses":"\u6797\u524d",
+"engs":"1 Cor",
+"chap":3,"sec":15}
+,"next":{"chineses":"\u6797\u524d",
+"engs":"1 Cor",
+"chap":3,"sec":17}
+}

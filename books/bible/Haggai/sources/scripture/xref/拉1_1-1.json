@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"Ezra",
+"chineses":"\u62c9",
+"chap":1,
+"sec":1,
+"bible_text":"\u6ce2\u65af\u738b\u53e4\u5217\u5143\u5e74\uff0c\u8036\u548c\u83ef\u70ba\u8981\u61c9\u9a57\u85c9\u8036\u5229\u7c73\u53e3\u6240\u8aaa\u7684\u8a71\uff0c\u5c31\u6fc0\u52d5\u6ce2\u65af\u738b\u53e4\u5217\u7684\u5fc3\uff0c\u4f7f\u4ed6\u4e0b\u8a54\u901a\u544a\u5168\u570b\u8aaa\uff1a"}
+],"prev":{"chineses":"\u4ee3\u4e0b",
+"engs":"2 Chr",
+"chap":36,"sec":23}
+,"next":{"chineses":"\u62c9",
+"engs":"Ezra",
+"chap":1,"sec":2}
+}

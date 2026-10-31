@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":"FHL\u548c\u5408\u672c",
+"version":"unv",
+"proc":0,
+"record":[{"engs":"1 Kin",
+"chineses":"\u738b\u4e0a",
+"chap":7,
+"sec":1,
+"bible_text":"\u6240\u7f85\u9580\u70ba\u81ea\u5df1\u5efa\u9020\u5bae\u5ba4\uff0c\u5341\u4e09\u5e74\u65b9\u624d\u9020\u6210\uff1b"}
+],"prev":{"chineses":"\u738b\u4e0a",
+"engs":"1 Kin",
+"chap":6,"sec":38}
+,"next":{"chineses":"\u738b\u4e0a",
+"engs":"1 Kin",
+"chap":7,"sec":2}
+}
