@@ -120,7 +120,7 @@ gty.org 沒有麥克阿瑟的阿摩司書逐節講道，也沒有把「阿摩司
 
 - **注疏引文逐字核對**（`verify-citations.py`，對合併語料 `sources/commentary/corpus-all.txt`＝亨利＋加爾文＋摩根＋全部教父檔＋全部 gty 檔）：逐字吻合 121、OCR 斷詞吻合 3、DRIFT 0、MISS 0。此項只證明引文是來源語料的連續子字串，**不證明歸屬正確**；歸屬另由下列一項與各章撰寫時的逐檔核對負責。
 - **麥克阿瑟引文對各自講章核對**（`verify-sermon-quotes.py`，每條只對它自己出處行的講章編號）：核對 12 條吻合，不在自己講章內 0 條，無法解析 0 條。
-- **行文中的經文引句**（`verify-prose-citations.py … --self 摩`，對 fhl 和合本）：檢查 162 個「引號＋出處」，MISS 0，unresolved 0。unresolved 是該腳本不能解析出處的條目，不是已核對的錯誤，也不是已核對無誤。
+- **行文中的經文引句**（`verify-prose-citations.py … --self 摩`，對 fhl 和合本）：檢查 161 個「引號＋出處」，MISS 0，unresolved 0。unresolved 是該腳本不能解析出處的條目，不是已核對的錯誤，也不是已核對無誤。
 - **行文引句對本篇經文區塊**（`check-prose-scripture-quotes.py`）：掃描 21 個檔，7 條不在該篇印出的經文內；這些是引用阿摩司書**其他單元**或他書的句子（標 NOT-IN-UNIT），已由上一項對全書和合本核對。
 - **標記檢查**（`lint-chapter-markup.py`）：27 個檔乾淨。
 - **和合本字形檢查**（`lint-scripture-text.py`）：無候選。
