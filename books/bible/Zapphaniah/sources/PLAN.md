@@ -64,5 +64,5 @@ H1 序號＝本書單元序號 1–8（卷首／卷末 unnumbered）；**真實�
 - 經文：`scripture/cuv.tsv`（ai-eden 和合本，裡→裏）、`scripture/cuv-zephaniah-fhl.txt`（第二來源，FHL）、`scripture/nasb1995.tsv`（biblehub NASB 1995）；他書經文 `python3 sources/scripture/cuv_lookup.py 賽 47 8-10`。
 - 希伯來：`hebrew/wlc-zeph.xml`（含 OSHB 詞元）、`hebrew/zeph.tsv`（逐節、去重音符號、保留母音）。他書希伯來：`python3 sources/heb.py Isaiah 47 8`（Sefaria）。
 - 注疏：加爾文 `commentary/calvin-zephaniah.txt`（`calvin-INDEX.md` 有講次↔節對照；內含編者 `— Ed.` 註腳，**不是加爾文**）；亨利 `commentary/henry-zeph-{i,ii,iii,iv}.txt`（i＝導論，ii＝第1章，iii＝第2章，iv＝第3章）；摩根〈The Message of Zephaniah〉`commentary/morgan-living-messages-zephaniah-ocr1.txt`（主）／`-ocr2.txt`（裁決 OCR 錯字），*Living Messages of the Books of the Bible*，約 pp. 289-301，全書概論、無逐節；合併語料 `commentary/corpus.txt`。
-- 麥克阿瑟：gty.org 網站地圖（`commentary/gty-sitemap.xml`，2026-10-31 下載）沒有書卷代碼 36 的 `/sermons/36-N` 網址，也沒有以西番雅書為題的講道系列 → **全書不引麥克阿瑟**。
+- 麥克阿瑟：gty.org 網站地圖（`commentary/gty-sitemap.xml`，2026-10-31 下載）沒有書卷代碼 36 的 `/sermons/36-N` 網址——**但該網站地圖幾乎不含舊約講道網址（只有但以理 27 一組），所以不能證明沒有**；網路搜尋找到他順帶論及西番雅書 1 章的講道（如 sermons-library/81-29、52-19）。本書未取用 → 全書不引麥克阿瑟（待補）。
 - 聖詩：`hymns/NN-*.txt`（NN＝單元序）。
