@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":null,
+"version":"nstrunv",
+"proc":0,
+"record":[{"engs":"2 Cor",
+"chineses":"\u6797\u5f8c",
+"chap":6,
+"sec":15,
+"bible_text":"\u57fa\u7763\u548c\u5f7c\u5217\uff08\u5f7c\u5217\u5c31\u662f\u6492\u4f46\u7684\u5225\u540d\uff09\u6709\u751a\u9ebc\u76f8\u548c\u5462\uff1f\u4fe1\u4e3b\u7684\u548c\u4e0d\u4fe1\u4e3b\u7684\u6709\u751a\u9ebc\u76f8\u5e72\u5462\uff1f"}
+],"prev":{"chineses":"\u6797\u5f8c",
+"engs":"2 Cor",
+"chap":6,"sec":14}
+,"next":{"chineses":"\u6797\u5f8c",
+"engs":"2 Cor",
+"chap":6,"sec":16}
+}

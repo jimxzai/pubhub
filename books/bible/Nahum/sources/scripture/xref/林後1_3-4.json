@@ -1,0 +1,23 @@
+{
+"status":"success",
+"record_count":2,
+"v_name":null,
+"version":"nstrunv",
+"proc":0,
+"record":[{"engs":"2 Cor",
+"chineses":"\u6797\u5f8c",
+"chap":1,
+"sec":3,
+"bible_text":"\u9858\u980c\u8b9a\u6b78\u8207\u6211\u5011\u7684\u4e3b\u8036\u7a4c\u57fa\u7763\u7684\u7236\u795e\uff0c\u5c31\u662f\u767c\u6148\u60b2\u7684\u7236\uff0c\u8cdc\u5404\u6a23\u5b89\u6170\u7684\u795e\u3002"},
+{"engs":"2 Cor",
+"chineses":"\u6797\u5f8c",
+"chap":1,
+"sec":4,
+"bible_text":"\u6211\u5011\u5728\u4e00\u5207\u60a3\u96e3\u4e2d\uff0c\u4ed6\u5c31\u5b89\u6170\u6211\u5011\uff0c\u53eb\u6211\u5011\u80fd\u7528\u795e\u6240\u8cdc\u7684\u5b89\u6170\u53bb\u5b89\u6170\u90a3\u906d\u5404\u6a23\u60a3\u96e3\u7684\u4eba\u3002"}
+],"prev":{"chineses":"\u6797\u5f8c",
+"engs":"2 Cor",
+"chap":1,"sec":2}
+,"next":{"chineses":"\u6797\u5f8c",
+"engs":"2 Cor",
+"chap":1,"sec":5}
+}

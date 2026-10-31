@@ -1,0 +1,18 @@
+{
+"status":"success",
+"record_count":1,
+"v_name":null,
+"version":"nstrunv",
+"proc":0,
+"record":[{"engs":"2 Kin",
+"chineses":"\u738b\u4e0b",
+"chap":17,
+"sec":6,
+"bible_text":"\u4f55\u7d30\u4e9e\u7b2c\u4e5d\u5e74\u4e9e\u8ff0\u738b\u653b\u53d6\u4e86\u6492\u99ac\u5229\u4e9e\uff0c\u5c07\u4ee5\u8272\u5217\u4eba\u64c4\u5230\u4e9e\u8ff0\uff0c\u628a\u4ed6\u5011\u5b89\u7f6e\u5728\u54c8\u81d8\u8207\u6b4c\u6563\u7684\u54c8\u535a\u6cb3\u908a\uff0c\u4e26\u7c73\u5e95\u4e9e\u4eba\u7684\u57ce\u9091\u3002"}
+],"prev":{"chineses":"\u738b\u4e0b",
+"engs":"2 Kin",
+"chap":17,"sec":5}
+,"next":{"chineses":"\u738b\u4e0b",
+"engs":"2 Kin",
+"chap":17,"sec":7}
+}
