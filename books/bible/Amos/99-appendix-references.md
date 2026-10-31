@@ -11,7 +11,7 @@ publisher: 三書精讀出版系統
 
 各章「歷代注疏」一節的體例說明指向本附錄。本附錄回答三件事：每條引文取自哪裏、如何核對、哪些地方只做到這一步為止。下列各表的篇次與條數由 `scripts/gen-amos-appendices.py` 直接從各篇原文讀出，不是手寫的記憶；`scripts/check-citation-ledger.py` 可再把它與各篇對照。
 
-全書帶引號並附「— 作者，書名」出處行的逐字引文共 **125** 條（其中 125 條在〈歷代注疏〉一節，其餘在〈背景〉〈全經連線〉等處）。
+全書帶引號並附「— 作者，書名」出處行的逐字引文共 **123** 條（其中 123 條在〈歷代注疏〉一節，其餘在〈背景〉〈全經連線〉等處）。
 
 ---
 
@@ -57,7 +57,7 @@ publisher: 三書精讀出版系統
 
 ## 三、摩根（G. Campbell Morgan），*The Message of Amos*，載 *Living Messages of the Books of the Bible*, Old Testament（1912）
 
-來源檔：`sources/commentary/morgan-amos.txt`（自 Nehemiah 卷的 `m-livingmessagesof01morgiala.txt` 切出〈The Message of Amos〉pp. 197–211；archive.org *Living Messages of the Books of the Bible* 的 OCR；只有一篇全書概觀；頁碼取自頁眉記號）。本書引用 **16** 條，列如下。
+來源檔：`sources/commentary/morgan-amos.txt`（自 Nehemiah 卷的 `m-livingmessagesof01morgiala.txt` 切出〈The Message of Amos〉pp. 197–211；archive.org *Living Messages of the Books of the Bible* 的 OCR；只有一篇全書概觀；頁碼取自頁眉記號）。本書引用 **15** 條，列如下。
 
 摩根只有一篇全書概觀（pp. 197–211），不是逐章逐節的注釋；本書只在確實切題處引用，頁碼一律標出。頁碼取自 OCR 頁眉，個別頁眉被 OCR 打壞處，實際頁碼可能差一頁。沒有可用摩根文字的單元：第5篇、第9篇。以下各篇的逐字引文：
 
@@ -66,7 +66,7 @@ publisher: 三書精讀出版系統
 | 第1篇 | 1:1-15 | 2 | G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 198；G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 201 |
 | 第2篇 | 2:1-16 | 2 | G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 200 |
 | 第3篇 | 3:1-15 | 2 | G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 200；G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 207 |
-| 第4篇 | 4:1-13 | 2 | G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 204；G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 205 |
+| 第4篇 | 4:1-13 | 1 | G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 205 |
 | 第6篇 | 5:18-27 | 1 | G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 205 |
 | 第7篇 | 6:1-14 | 1 | G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 205 |
 | 第8篇 | 7:1-9 | 1 | G. Campbell Morgan, Living Messages of the Books of the Bible, Old Testament, "The Message of Amos," p. 206 |
@@ -78,14 +78,14 @@ publisher: 三書精讀出版系統
 
 ## 四、麥克阿瑟（John MacArthur），gty.org 講章與文章
 
-來源檔：`sources/commentary/gty/<CODE>.txt`（gty.org 講章逐字稿／文章；索引見 `sources/commentary/gty/INDEX.md`）。本書引用 **13** 條，列如下。
+來源檔：`sources/commentary/gty/<CODE>.txt`（gty.org 講章逐字稿／文章；索引見 `sources/commentary/gty/INDEX.md`）。本書引用 **12** 條，列如下。
 
 gty.org 沒有麥克阿瑟的阿摩司書逐節講道，也沒有把「阿摩司書」列為經文的講章。本書引的是講別的主題、順帶讀並解釋阿摩司書段落的講章（11 篇，見 `sources/commentary/gty/INDEX.md`）。沒有可查材料、不立此節的單元：第1篇、第2篇、第8篇、第9篇、第11篇。以下各篇的逐字引文：
 
 | 篇 | 阿摩司書 | 逐字引文（條） | 出處行（各條，本書實印） |
 |--------|----------------|----------------|------------------------------------------------------|
 | 第3篇 | 3:1-15 | 1 | John MacArthur, "Why We Believe the Bible Is True" (sermon 90-321) |
-| 第4篇 | 4:1-13 | 3 | John MacArthur, "The Biblical View of Money, Part 3" (sermon 47-53)；John MacArthur, "Winning the Battle Against Sin, Part 5" (sermon 81-70)；John MacArthur, "Why We Believe the Bible Is True" (sermon 90-321) |
+| 第4篇 | 4:1-13 | 2 | John MacArthur, "The Biblical View of Money, Part 3" (sermon 47-53)；John MacArthur, "Winning the Battle Against Sin, Part 5" (sermon 81-70) |
 | 第5篇 | 5:1-17 | 1 | John MacArthur, "The Biblical View of Money, Part 3" (sermon 47-53) |
 | 第6篇 | 5:18-27 | 2 | John MacArthur, "Beware of Hypocrisy" (sermon 2228)；John MacArthur, "Why We Believe the Bible Is True" (sermon 90-321) |
 | 第7篇 | 6:1-14 | 2 | John MacArthur, "The Biblical View of Money, Part 3" (sermon 47-53) |
@@ -118,10 +118,10 @@ gty.org 沒有麥克阿瑟的阿摩司書逐節講道，也沒有把「阿摩司
 
 ## 六、機器核對現況（誠實記錄）
 
-- **注疏引文逐字核對**（`verify-citations.py`，對合併語料 `sources/commentary/corpus-all.txt`＝亨利＋加爾文＋摩根＋全部教父檔＋全部 gty 檔）：逐字吻合 123、OCR 斷詞吻合 3、DRIFT 0、MISS 0。此項只證明引文是來源語料的連續子字串，**不證明歸屬正確**；歸屬另由下列一項與各章撰寫時的逐檔核對負責。
-- **麥克阿瑟引文對各自講章核對**（`verify-sermon-quotes.py`，每條只對它自己出處行的講章編號）：核對 13 條吻合，不在自己講章內 0 條，無法解析 0 條。
-- **行文中的經文引句**（`verify-prose-citations.py … --self 摩`，對 fhl 和合本）：檢查 164 個「引號＋出處」，MISS 0，unresolved 0。unresolved 是該腳本不能解析出處的條目，不是已核對的錯誤，也不是已核對無誤。
-- **行文引句對本篇經文區塊**（`check-prose-scripture-quotes.py`）：掃描 21 個檔，8 條不在該篇印出的經文內；這些是引用阿摩司書**其他單元**或他書的句子（標 NOT-IN-UNIT），已由上一項對全書和合本核對。
+- **注疏引文逐字核對**（`verify-citations.py`，對合併語料 `sources/commentary/corpus-all.txt`＝亨利＋加爾文＋摩根＋全部教父檔＋全部 gty 檔）：逐字吻合 121、OCR 斷詞吻合 3、DRIFT 0、MISS 0。此項只證明引文是來源語料的連續子字串，**不證明歸屬正確**；歸屬另由下列一項與各章撰寫時的逐檔核對負責。
+- **麥克阿瑟引文對各自講章核對**（`verify-sermon-quotes.py`，每條只對它自己出處行的講章編號）：核對 12 條吻合，不在自己講章內 0 條，無法解析 0 條。
+- **行文中的經文引句**（`verify-prose-citations.py … --self 摩`，對 fhl 和合本）：檢查 162 個「引號＋出處」，MISS 0，unresolved 0。unresolved 是該腳本不能解析出處的條目，不是已核對的錯誤，也不是已核對無誤。
+- **行文引句對本篇經文區塊**（`check-prose-scripture-quotes.py`）：掃描 21 個檔，7 條不在該篇印出的經文內；這些是引用阿摩司書**其他單元**或他書的句子（標 NOT-IN-UNIT），已由上一項對全書和合本核對。
 - **標記檢查**（`lint-chapter-markup.py`）：27 個檔乾淨。
 - **和合本字形檢查**（`lint-scripture-text.py`）：無候選。
 - **骨幹檢查**（`check-book-spine.py`）：ok 骨幹章：00b-hearing-spine.md；ok 分卷扉頁帶骨幹標記：5/5；ok 各章座標行：12/12；ok 章末回到基督：12/12
