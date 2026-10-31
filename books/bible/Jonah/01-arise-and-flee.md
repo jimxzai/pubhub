@@ -114,7 +114,7 @@ publisher: 三書精讀出版系統
 
 > **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與所存檔來源文本核校，
 > 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
-> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，僅有單篇講道〈Jonah: The World's Greatest Fish Story〉（GTY 80-393），本書未採用，故不列其名；改引亨利（Matthew Henry）。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，本書只引他唯一的約拿書講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393）；亨利（Matthew Henry）仍列於歷代注疏。
 
 ### 改革宗時期：加爾文 (John Calvin)
 
@@ -179,6 +179,17 @@ publisher: 三書精讀出版系統
 > 中譯：叫他去對一座約之外的城傳信，而且那城是一個一向壓迫、殘忍的權勢的中心，這道命令對約拿必定是驚人的。
 
 ---
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟在這篇講道裏談到以色列蒙召的目的，並把約拿放在這個背景下：
+
+> "They were to be a light to the Gentiles. They were the chosen people, not as an end, but as a means to an end. They were to be a nation of missionaries."
+> — John MacArthur, "Jonah: The World's Greatest Fish Story" (sermon 80-393)
+>
+> 中譯：他們要作外邦人的光。他們是被揀選的人，不是把揀選當作目的，而是當作達成目的的方法。他們要成為一個宣教的國度。
+
+（這是麥克阿瑟對以色列蒙召目的的讀法；約拿書1:1-3 本身只記錄了差遣與逃走，沒有提到這一層。）
 
 ## 詩篇與聖詩 (Psalm & Hymn)
 

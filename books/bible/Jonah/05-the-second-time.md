@@ -131,7 +131,7 @@ publisher: 三書精讀出版系統
 
 > **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與所存檔來源文本核校，
 > 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
-> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，僅有單篇講道〈Jonah: The World's Greatest Fish Story〉（GTY 80-393），本書未採用，故不列其名；改引亨利（Matthew Henry）。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，本書只引他唯一的約拿書講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393）；亨利（Matthew Henry）仍列於歷代注疏。
 
 ### 改革宗時期：加爾文 (John Calvin)
 
@@ -180,6 +180,17 @@ publisher: 三書精讀出版系統
 > 中譯：「耶和華的話二次臨到約拿」這句話，美好地啟示了神對祂僕人的忍耐恩典。約拿帶著對耶和華權柄的新認識，起來，順服了。
 
 ---
+
+### 麥克阿瑟 (John MacArthur)
+
+論3:1 的重新差遣：
+
+> "Now, could God use him at this point? Apparently He can; and this again comes back to the issue of unlikely hero, because the Lord recommissions him, He recommissions him."
+> — John MacArthur, "Jonah: The World's Greatest Fish Story" (sermon 80-393)
+>
+> 中譯：那麼，這時候神還能用他嗎？顯然祂能；這又回到「出人意外的英雄」這個題目，因為主重新差遣他，祂重新差遣他。
+
+（「出人意外的英雄」是麥克阿瑟貫串全篇的主題；3:1 本身只說「耶和華的話二次臨到約拿」。）
 
 ## 詩篇與聖詩 (Psalm & Hymn)
 

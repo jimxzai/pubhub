@@ -12,7 +12,7 @@ publisher: 三書精讀出版系統
 
 **第一項誠實聲明**：倉庫中老弟兄的查經筆記，**沒有任何一則以約拿書為題**。全書「老弟兄查經」各節，是把他一貫的查經方法——提問式帶領、精義一句話、全經連線、每次查經末了問「你看見耶穌了嗎？」——應用在約拿書的經文上，不是任何歷史查經記錄的複現。書中沒有加引號歸給老弟兄的話，只有前言與總綱引用的一句：「你研讀聖經，卻沒有看見耶穌——那本書等於白讀了。」這句話出自 `.claude/skills/ask-elder-wong/references/voice.md` 的語錄白名單。
 
-**第二項誠實聲明**：**麥克阿瑟（John MacArthur）沒有以約拿書為題的逐節講道系列**；gty.org 上只有一篇單篇講道〈Jonah: The World's Greatest Fish Story〉（GTY 80-393，本書成稿時漏查，經獨立校對指出），本書未採用，所以全書沒有引用他，也沒有以他的名義寫任何一句話。其他書卷中麥克阿瑟的位置，本書改用亨利（Matthew Henry）。
+**第二項誠實聲明**：**麥克阿瑟（John MacArthur）沒有以約拿書為題的逐節講道系列**，gty.org 上只有一篇涵蓋全書的單篇講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393）。本書成稿時一度漏查，說他沒有約拿書的講道，經獨立校對指出後更正，並補入八章各一句逐字引文。因為他只有這一篇，每章只能各取一句，其餘書卷中麥克阿瑟逐節講道的位置，本書仍以亨利（Matthew Henry）補足。
 
 **第三項誠實聲明**：摩根的引文來自兩處，兩處的來源性質都不是校對過的印本：（一）《全本聖經講解》（*An Exposition of the Whole Bible*）論約拿書各章，取自 truthaccordingtoscripture.com 的網頁版（StudyLight 對本書的下載請求拒絕存取），無頁碼；（二）〈約拿書的信息〉（"The Message of Jonah"）是 SermonIndex 收錄的講稿轉錄，為大綱體，轉錄者與底本均未註明，本書只在第七、八章引用，並在每處的出處行標明「轉錄稿，未見原書頁碼」。《全本聖經講解》是摩根身後（1959）出版的合集，其版權狀態本書未能查清；所引每處不超過兩句，作合理引用。**此項待作者或出版方確認。**
 
@@ -128,7 +128,15 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 六、引文核對記錄——奧古斯丁 (Augustine of Hippo)
+## 六、引文核對記錄——麥克阿瑟 (John MacArthur)
+
+引自 gty.org 講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393），逐字稿取自 gty.org 該講道頁面，存檔為 `.sources/macarthur-80-393.txt`。共引 8 句，每章 1 句，以 `scripts/verify-citations.py` 對照存檔逐字稿核對：**8/8 逐字相符**。逐字稿為講道的口語稿，標點與斷句以 gty.org 頁面為準；講道日期頁面未標。
+
+逐字核對的章：第1章、第2章、第3章、第4章、第5章、第6章、第7章、第8章。
+
+---
+
+## 七、引文核對記錄——奧古斯丁 (Augustine of Hippo)
 
 引自 Letter 102 (To Deogratias), Question VI, tr. J. G. Cunningham, *Nicene and Post-Nicene Fathers*, 1st series, vol. 1 (Buffalo: Christian Literature Publishing Co., 1887)，取自 New Advent 電子版（`1102102.htm`）。電子版沒有印本頁碼，本書以節號（§）標示。共引 4 句，**4/4 逐字相符**。
 
@@ -141,7 +149,7 @@ publisher: 三書精讀出版系統
 
 ---
 
-## 七、仍未完成
+## 八、仍未完成
 
 - **摩根的版權與底本**：見第三項誠實聲明。
 - **獨立校對做了兩輪**：每輪兩位不帶結論的校對者各讀約一半，逐條回查次數、經文、注疏歸屬；第一輪約六十項、第二輪（精簡輪之後）五十項上下已修，第二輪並抓出本書原先「麥克阿瑟無約拿講道」的說法不實（實有單篇 GTY 80-393）。第二輪指出但未處理的：撒馬利亞／撒瑪利亞譯名須依 ai-eden 定案、少數處『』與「」並用、部分並排引文體例。仍未處理的：部分「活在今天·AI時代」段落偏範本化、摩根〈Message of Jonah〉轉錄稿的真偽未能獨立確認。

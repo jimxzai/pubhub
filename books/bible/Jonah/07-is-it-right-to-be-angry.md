@@ -133,7 +133,7 @@ publisher: 三書精讀出版系統
 
 > **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與所存檔來源文本核校，
 > 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
-> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，僅有單篇講道〈Jonah: The World's Greatest Fish Story〉（GTY 80-393），本書未採用，故不列其名；改引亨利（Matthew Henry）。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，本書只引他唯一的約拿書講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393）；亨利（Matthew Henry）仍列於歷代注疏。
 
 ### 改革宗時期：加爾文 (John Calvin)
 
@@ -212,6 +212,17 @@ publisher: 三書精讀出版系統
 > 中譯：這一切約拿都知道，所以他才不去。
 
 ---
+
+### 麥克阿瑟 (John MacArthur)
+
+論4:4 神的第一個問題：
+
+> "He's simply asking a rhetorical question to expose his prejudice."
+> — John MacArthur, "Jonah: The World's Greatest Fish Story" (sermon 80-393)
+>
+> 中譯：祂只是問了一個反問，好揭露他的偏見。
+
+（把約拿的怒氣歸為「偏見」是麥克阿瑟的讀法；本書只依4:2 約拿自己所說的理由，不替他斷定內心。）
 
 ## 詩篇與聖詩 (Psalm & Hymn)
 

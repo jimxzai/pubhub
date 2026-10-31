@@ -134,7 +134,7 @@ publisher: 三書精讀出版系統
 
 > **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與所存檔來源文本核校，
 > 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
-> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，僅有單篇講道〈Jonah: The World's Greatest Fish Story〉（GTY 80-393），本書未採用，故不列其名；改引亨利（Matthew Henry）。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，本書只引他唯一的約拿書講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393）；亨利（Matthew Henry）仍列於歷代注疏。
 
 ### 教父時期：奧古斯丁 (Augustine of Hippo)
 
@@ -257,6 +257,17 @@ publisher: 三書精讀出版系統
 > — G. Campbell Morgan, *An Exposition of the Whole Bible*, on Jonah 2
 >
 > 中譯：這篇所記的禱告，很可能表達的是約拿在黑暗之境裏屬靈經歷的最後階段。
+
+### 麥克阿瑟 (John MacArthur)
+
+論魚腹中的禱告：
+
+> "As I mentioned a few weeks ago, there's no specific request here, but there's a desperate cry in this situation. But what he turns to is worship, worship, and he knows that God is his only hope."
+> — John MacArthur, "Jonah: The World's Greatest Fish Story" (sermon 80-393)
+>
+> 中譯：我幾週前提過，這裏沒有一個具體的請求，卻是在這種處境中的一聲絕望的呼喊。但他轉向的是敬拜，是敬拜，而且他知道神是他唯一的盼望。
+
+（他說這篇禱告沒有具體的請求，這與本章「禱告裏沒有認罪，也沒有『我會去尼尼微』」的觀察相合；「他知道神是唯一的盼望」是麥克阿瑟的讀法，經文沒有這樣說。）
 
 ## 詩篇與聖詩 (Psalm & Hymn)
 

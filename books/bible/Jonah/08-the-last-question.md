@@ -141,7 +141,7 @@ publisher: 三書精讀出版系統
 
 > **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與所存檔來源文本核校，
 > 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
-> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，僅有單篇講道〈Jonah: The World's Greatest Fish Story〉（GTY 80-393），本書未採用，故不列其名；改引亨利（Matthew Henry）。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，本書只引他唯一的約拿書講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393）；亨利（Matthew Henry）仍列於歷代注疏。
 
 ### 改革宗時期：加爾文 (John Calvin)
 
@@ -233,6 +233,17 @@ publisher: 三書精讀出版系統
 （約拿是否本書的作者，經文沒有說；摩根這句是推論，與亨利的「我們盼望」同屬讀者的推斷。）
 
 ---
+
+### 麥克阿瑟 (John MacArthur)
+
+論全書的重心：
+
+> "This is about God, this book. It's, on the surface, about Jonah; but underneath, it's about God."
+> — John MacArthur, "Jonah: The World's Greatest Fish Story" (sermon 80-393)
+>
+> 中譯：這卷書是關於神的。表面上是關於約拿，底下卻是關於神。
+
+（這與本書的骨幹「神做事、人反應」相合。）
 
 ## 詩篇與聖詩 (Psalm & Hymn)
 

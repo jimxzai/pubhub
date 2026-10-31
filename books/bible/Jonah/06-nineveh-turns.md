@@ -131,7 +131,7 @@ publisher: 三書精讀出版系統
 
 > **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與所存檔來源文本核校，
 > 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
-> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，僅有單篇講道〈Jonah: The World's Greatest Fish Story〉（GTY 80-393），本書未採用，故不列其名；改引亨利（Matthew Henry）。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，本書只引他唯一的約拿書講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393）；亨利（Matthew Henry）仍列於歷代注疏。
 
 ### 教父時期：奧古斯丁 (Augustine of Hippo)
 
@@ -223,6 +223,17 @@ publisher: 三書精讀出版系統
 > 中譯：他們聽見了，相信了，充滿恐懼，並且悔改了，從最大的到至小的都是如此。他們的悔改，得到了神的悔改的回應，於是毀滅被挪去，城被饒恕。
 
 ---
+
+### 麥克阿瑟 (John MacArthur)
+
+論尼尼微人的悔改，麥克阿瑟的讀法比加爾文在第一章的保留態度更肯定：
+
+> "There is no natural explanation for a massive conversion of hundreds of thousands of people. There's only a supernatural explanation, and that is that God determined to save that city in that generation, and He used a rebellious prophet to bring a rebellious people to faith in Himself"
+> — John MacArthur, "Jonah: The World's Greatest Fish Story" (sermon 80-393)
+>
+> 中譯：數十萬人大規模歸信，沒有自然的解釋。只有超自然的解釋，那就是神定意在那一代拯救那座城，並使用一個悖逆的先知，把一群悖逆的人帶到對祂自己的信心裏
+
+（「數十萬人」是麥克阿瑟的估算，經文只說「從最大的到至小的」（3:5），4:11 另說「十二萬多人」不能分辨左右手；把3:5 的「信服神」直接讀作歸信，是他的讀法，與加爾文在第一章的保留不同，本書並列，不裁決。）
 
 ## 詩篇與聖詩 (Psalm & Hymn)
 

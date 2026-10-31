@@ -5,8 +5,8 @@
 #   + 8 sections of Jonah in 4 parts (one part divider per step of the spine)
 #   + 卷末 (systematic reception) + appendices + afterword
 # Sources from books/bible/Jonah/ (老弟兄 methodology + Augustine + Calvin +
-# Matthew Henry + Morgan, CUV + NASB 1995 scripture). No MacArthur: he has no
-# Jonah series on gty.org.
+# Matthew Henry + Morgan + MacArthur's single Jonah sermon 80-393, CUV +
+# NASB 1995 scripture). MacArthur has no verse-by-verse Jonah series on gty.org.
 # Modeled on scripts/build-jonah-consolidated.sh, itself on build-2-peter-consolidated.sh (unnumbered front/back
 # matter so the five sections number 1..5) and scripts/build-james-consolidated.sh
 # (part dividers carrying the spine: 「啟示的次序·第N步」 + 貫穿的線 table).
@@ -55,7 +55,7 @@ copyright: |
 
   • **G. Campbell Morgan** — *An Exposition of the Whole Bible*（短引，每處不逾兩句；版權狀態見附錄〈引用出處總表〉）
 
-  • **John MacArthur** — 無約拿書逐節講道；僅一篇單篇講道（GTY 80-393），本書未採用
+  • **John MacArthur** — 無約拿書逐節講道；僅引其單篇講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393），每章一句
 
   **神的話兩次臨到，神的問題留在最後**
 

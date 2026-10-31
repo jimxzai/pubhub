@@ -130,7 +130,7 @@ publisher: 三書精讀出版系統
 
 > **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與所存檔來源文本核校，
 > 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
-> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，僅有單篇講道〈Jonah: The World's Greatest Fish Story〉（GTY 80-393），本書未採用，故不列其名；改引亨利（Matthew Henry）。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。麥克阿瑟（John MacArthur）沒有約拿書的逐節講道，本書只引他唯一的約拿書講道〈Jonah: The World's Greatest Fish Story〉（sermon 80-393）；亨利（Matthew Henry）仍列於歷代注疏。
 
 ### 改革宗時期：加爾文 (John Calvin)
 
@@ -195,6 +195,17 @@ publisher: 三書精讀出版系統
 > 中譯：受風暴驚嚇、束手無策的水手們，盡力要保住約拿的性命。
 
 ---
+
+### 麥克阿瑟 (John MacArthur)
+
+回顧全書，他這樣看約拿與水手、尼尼微人的對比：
+
+> "Surprisingly, the only person in the story who resists God is Jonah. Sailors don't resist God, Ninevites don't resist God, only the prophet of God."
+> — John MacArthur, "Jonah: The World's Greatest Fish Story" (sermon 80-393)
+>
+> 中譯：令人驚訝的是，故事中唯一抵抗神的人是約拿。水手不抵抗神，尼尼微人不抵抗神，只有神的先知抵抗。
+
+（這是麥克阿瑟通讀全書後的總結；本章只讀1:11-16，經文記下的是水手的呼求、獻祭與許願。）
 
 ## 詩篇與聖詩 (Psalm & Hymn)
 
