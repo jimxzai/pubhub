@@ -55,7 +55,7 @@ copyright: |
 
   • **G. Campbell Morgan** — *An Exposition of the Whole Bible*（短引，每處不逾兩句；版權狀態見附錄〈引用出處總表〉）
 
-  • **John MacArthur** — 無約拿書逐節講道可引，本書不列
+  • **John MacArthur** — 無約拿書逐節講道；僅一篇單篇講道（GTY 80-393），本書未採用
 
   **神的話兩次臨到，神的問題留在最後**
 
