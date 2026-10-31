@@ -1,0 +1,779 @@
+% PubHub Book of Jonah Template (cover/colophon after templates/pdf/revelation.latex via jude.latex)
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies (hebrewfont carries Scale=1.35 so pointed text is legible)
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Songti SC}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% GREEK / HEBREW WORD STUDY — ucharclasses, full block coverage
+%% via \setTransitionTo (sets the ENTERING direction only, so
+%% declaration order cannot clobber an earlier block — see
+%% .claude/skills/eat-bible/references/gotchas.md before editing this).
+%% \uckeep carries series/shape (bold/italic) across the font switch.
+%% ============================================
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew, Scale=1.35]
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2}, ItalicFont=Kaiti SC]
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+
+%% Classical English typeface for the front/back cover — Baskerville for
+%% running text, Didot reserved for the large display title (invoked
+%% explicitly). Matches templates/pdf/revelation.latex's cover convention.
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
+\newfontfamily\didotfont{Didot}
+\newcommand{\baskervillefont}{\basklatin}
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Professional Bible Study
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - Deep sea teal for Jonah (storm sea, the depths, the appointed fish)
+\definecolor{ChapterSea}{RGB}{20,72,90}         % Deep sea teal for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}      % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}      % Warm brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}       % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{243,248,250}           % Light sea-foam for Greek/Hebrew
+\definecolor{ApplicationBg}{RGB}{248,252,248}     % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Words of Jesus (echoed in commentary, e.g. Sermon on the Mount parallels)
+\definecolor{JesusRed}{RGB}{155,35,35}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% Matches templates/pdf/revelation.latex's cover convention, retoned to
+%% this book's deep-sea-teal/gold palette instead of Revelation's navy.
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+\usepackage{pgfornament}
+
+% Cover gradient (near-black teal at top to the book's own
+% ChapterSea at bottom)
+\definecolor{SeaDark}{RGB}{5,17,27}
+\definecolor{SeaLight}{RGB}{20,72,90}
+
+% Full-bleed background, painted in the shipout background hook so it
+% bleeds to the true physical page edge and does not disturb the
+% \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=SeaDark,bottom color=SeaLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the front cover and the
+% closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% A single fleuron, used as a divider accent (flanked by rules) on the
+% full-bleed cover pages and the colophon page. Ornament 70 (a symmetric
+% baroque flourish) reads far more clearly at small sizes than 88 (a bare
+% flourish-with-center-dot that thins to an almost invisible line when used
+% alone with generous surrounding whitespace, as on a colophon page).
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.7cm,color=#1]{70}%
+}
+
+% A simple, classical Latin cross with a small gold roundel at the crossing
+% — the book's explicit Christian emblem, reserved for the front cover and
+% colophon (the two pages that frame the reader's first and last impression).
+\newcommand{\coveremblem}[1][CoverGoldBright]{%
+\begin{tikzpicture}[scale=0.24]
+  \draw[color=#1,line width=1.3pt,line cap=round] (0,-1.15) -- (0,1.15);
+  \draw[color=#1,line width=1.3pt,line cap=round] (-0.62,0.45) -- (0.62,0.45);
+  \fill[color=#1] (0,0.45) circle (0.09);
+\end{tikzpicture}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{240,238,222}
+\definecolor{CoverGoldBright}{RGB}{200,168,88}
+\definecolor{CoverMuted}{RGB}{176,194,202}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet (must load
+% after hyperref) — otherwise pdfinfo reports no Title/Author/Subject at all.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterSea,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdftitle={約拿書研讀 — The Book of Jonah Deep Study},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={約拿書逐段研讀：神的話兩次臨到一個逃跑的先知，神安排四次，最後以問題收尾},
+  pdfkeywords={約拿書, Jonah, 聖經研讀, Bible study, 和合本, NASB, 尼尼微, 悔改, 憐憫, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Greek/Hebrew; \small
+% keeps long 註解 cells from wrapping to a few characters per line.
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\setlength{\headheight}{22pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterSea} 第 \thechapter\ 章
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterSea} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterSea} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterSea}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% SECTION NUMBERING AND TOC DEPTH
+%% secnumdepth=0 — no "3.7.2 ..." numbering on body headings or in running
+%% heads. tocdepth=0 — contents lists chapters only. The build script's
+%% --toc-depth/-V tocdepth do NOT set this on their own; the LaTeX counter
+%% must be set here (see .claude/skills/eat-bible/references/gotchas.md).
+%% ============================================
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
+
+% book class's default \chaptermark prints "Chapter N. <title>" (English word)
+% in the running head, redundant with the Chinese 「第N章」already in the title.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+% \chapter* (preface, orientation chapters, appendices, afterword) never
+% calls \chaptermark, so without this patch the verso running head keeps
+% showing the last NUMBERED chapter's title on every front/back-matter page.
+\makeatletter
+\apptocmd{\@schapter}{\markboth{#1}{}}{}{\PackageWarning{jude}{could not patch \string\@schapter}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+  % paragraph gap inside quotes: separates hymn stanzas and the English/Chinese
+  % halves of a hymn, which otherwise run together at the body 0.3em
+  \setlength{\parskip}{0.6em}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{0.9cm}
+
+\coveremblem[CoverGoldBright]
+
+\vspace{0.4cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+\fleuron[CoverGoldBright]\hspace{0.3cm}{\color{CoverGoldBright}\rule{1.6in}{0.4pt}}\hspace{0.3cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 神的最後一問}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} The Last Question — The Book of Jonah}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 約拿書研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the Book of Jonah}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+我必用感謝的聲音獻祭與你……救恩出於耶和華。\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} "I will sacrifice to You with the voice of thanksgiving.\\
+. . . Salvation is from the LORD." — Jonah 2:9}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 神說兩次，安排四次，最後發問}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} Twice He spoke, four times He appointed, and at the last He asked}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.8cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterSea} 神的最後一問}\\[0.2cm]
+{\large\itshape\color{LightGray} The Last Question}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 約拿書研讀}\\[0.15cm]
+{\normalsize A Study of the Book of Jonah}
+
+\vspace{0.6cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+你是有恩典、有憐憫的神，不輕易發怒，有豐盛的慈愛。\\[0.2em]
+\footnotesize You are a gracious and compassionate God, slow to anger\\
+and abundant in lovingkindness. — Jonah 4:2
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.8cm}
+
+% Book Structure diagram — four boxes, one per step of the order of revelation
+\begin{tikzpicture}
+  \node[font=\footnotesize\bfseries,text=ChapterSea] at (0,2.9) {Book Structure 書卷結構};
+
+  \node[draw=ChapterSea,fill=ScriptureBg,rounded corners,minimum width=2.9cm,minimum height=0.7cm,font=\scriptsize] at (-4.65,1.7) {1:1-16 Sent \& Fled};
+  \node[font=\scriptsize,text=LightGray] at (-4.65,1.1) {話臨到·風與籤};
+
+  \node[draw=ChapterSea,fill=ScriptureBg,rounded corners,minimum width=2.9cm,minimum height=0.7cm,font=\scriptsize] at (-1.55,1.7) {1:17-2:10 Appointed};
+  \node[font=\scriptsize,text=LightGray] at (-1.55,1.1) {安排在先·禱告在後};
+
+  \node[draw=ChapterSea,fill=ScriptureBg,rounded corners,minimum width=2.9cm,minimum height=0.7cm,font=\scriptsize] at (1.55,1.7) {3:1-10 Second Time};
+  \node[font=\scriptsize,text=LightGray] at (1.55,1.1) {二次臨到·神後悔};
+
+  \node[draw=ChapterSea,fill=ScriptureBg,rounded corners,minimum width=2.9cm,minimum height=0.7cm,font=\scriptsize] at (4.65,1.7) {4:1-11 The Question};
+  \node[font=\scriptsize,text=LightGray] at (4.65,1.1) {發怒·愛惜};
+
+  \draw[->,color=ScriptureGold,thick] (-3.1,1.7) -- (-3.0,1.7);
+  \draw[->,color=ScriptureGold,thick] (0.0,1.7) -- (0.1,1.7);
+  \draw[->,color=ScriptureGold,thick] (3.1,1.7) -- (3.2,1.7);
+
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=8cm,minimum height=0.7cm,font=\small\bfseries,text=CommentaryBrown] at (0,-0.1) {Word (1:1) \ensuremath{\rightarrow} Appointed (1:17; 4:6-8) \ensuremath{\rightarrow} Question (4:11)};
+  \node[font=\scriptsize,text=LightGray] at (0,-0.75) {話臨到 \ensuremath{\rightarrow} 神安排 \ensuremath{\rightarrow} 神發問};
+\end{tikzpicture}
+
+\vfill
+
+% Author info
+{\normalsize\color{ScriptureGold}\bfseries 作者：約拿，亞米太的兒子}\\[0.1cm]
+{\footnotesize\color{LightGray} Author: Jonah son of Amittai, of Gath-hepher (2 Kings 14:25)}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Descent / appointment diagram page — the two fours that run through the book
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+{\Large\bfseries\color{ChapterSea} 「下去」四次，「安排」四次}\\[0.1cm]
+{\normalsize Four Descents, Four Appointments}
+
+\vspace{0.6cm}
+
+\begin{tikzpicture}
+  % left column: Jonah goes down (ירד)
+  \node[font=\small\bfseries,text=ChapterSea] at (-3.6,4.6) {約拿下去 \ \textit{Jonah goes down}};
+  \node[draw=ChapterSea,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=0.8cm,font=\small,align=center] (d1) at (-3.6,3.4) {1:3 \ 下到約帕 \ \textit{Joppa}};
+  \node[draw=ChapterSea,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=0.8cm,font=\small,align=center] (d2) at (-3.6,2.0) {1:3 \ 下到船裏 \ \textit{the ship}};
+  \node[draw=ChapterSea,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=0.8cm,font=\small,align=center] (d3) at (-3.6,0.6) {1:5 \ 下到底艙 \ \textit{the hold}};
+  \node[draw=ChapterSea,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=0.8cm,font=\small,align=center] (d4) at (-3.6,-0.8) {2:6 \ 下到山根 \ \textit{roots of the mountains}};
+  \draw[->,color=ChapterSea,thick] (d1) -- (d2);
+  \draw[->,color=ChapterSea,thick] (d2) -- (d3);
+  \draw[->,color=ChapterSea,thick] (d3) -- (d4);
+
+  % right column: the LORD appoints (מנה)
+  \node[font=\small\bfseries,text=ScriptureGold] at (3.6,4.6) {神安排 \ \textit{The LORD appoints}};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=0.8cm,font=\small,align=center] (a1) at (3.6,3.4) {1:17 \ 一條大魚 \ \textit{a great fish}};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=0.8cm,font=\small,align=center] (a2) at (3.6,2.0) {4:6 \ 一棵蓖麻 \ \textit{a plant}};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=0.8cm,font=\small,align=center] (a3) at (3.6,0.6) {4:7 \ 一條蟲子 \ \textit{a worm}};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=0.8cm,font=\small,align=center] (a4) at (3.6,-0.8) {4:8 \ 炎熱的東風 \ \textit{a scorching east wind}};
+  \draw[->,color=ScriptureGold,thick] (a1) -- (a2);
+  \draw[->,color=ScriptureGold,thick] (a2) -- (a3);
+  \draw[->,color=ScriptureGold,thick] (a3) -- (a4);
+
+  % the pair that the book ends on
+  \node[draw=ChapterSea,fill=white,rounded corners,minimum width=9.6cm,minimum height=0.9cm,font=\small\bfseries,text=ChapterSea,align=center] at (0,-2.4) {4:11 \ 我豈能不愛惜呢？ \ \textit{Should I not have compassion?}};
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+約拿四次「下去」，都在離開差他的那位；神四次「安排」——魚、蓖麻、蟲、東風——每一次都把約拿拉回到祂要問他的地方。書的最後一句話不是約拿的回答，是神的問句。
+\end{minipage}
+
+\vspace{0.5cm}
+{\footnotesize\color{LightGray} 「何況這尼尼微大城……我豈能不愛惜呢？」— 約拿書 4:11}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{約拿書研讀 / Book of Jonah Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\renewcommand{\contentsname}{目錄 (Contents)}
+{\color{ChapterSea}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\coveremblem[ScriptureGold]
+
+\vspace{0.5cm}
+
+\fleuron\hspace{0.3cm}{\color{ScriptureGold}\rule{1.3in}{0.4pt}}\hspace{0.3cm}\fleuron
+
+\vspace{1cm}
+
+{\small\itshape\color{CommentaryBrown} 尼尼微人聽了約拿所傳的就悔改了。\\看哪，在這裏有一人比約拿更大！}\\[0.4em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} "The men of Nineveh . . . repented at the preaching of Jonah; and behold,\\something greater than Jonah is here." — Matthew 12:41}
+
+\vspace{1.2cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你看見耶穌了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Have you seen Jesus?}
+
+\vspace{1.4cm}
+
+{\color{ScriptureGold}\rule{0.9in}{0.4pt}}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} וַיְמַן יְהוָה}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "And the LORD appointed"} · 全書四次「安排」(1:17；4:6、7、8)}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.4cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+約拿書只有四章四十八節，卻從頭到尾由神的動作推進：話兩次臨到一個逃跑的先知，風、籤、魚、蓖麻、蟲、東風，一件一件被「安排」；最後一句不是約拿的回答，是神的問題。本書分四步逐節研讀全卷，以「啟示的次序」為骨幹，整合老弟兄的查經方法、奧古斯丁、加爾文與亨利的歷代注疏，以及 G. Campbell Morgan 的解經。每一句歸給注疏家的引文都附英文原文與出處，可以按圖索驥核對。
+
+\vspace{0.3cm}
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}J}{}onah has four chapters and forty-eight verses, and almost everything in it is done by God: His word comes twice to a prophet who runs, and a wind, a lot, a fish, a plant, a worm and an east wind are each “appointed” in turn. The book does not end with Jonah's answer; it ends with God's question. This study reads the whole book in four movements, built on the order of revelation, with Elder Wong's way of reading Scripture, the commentary of Augustine, John Calvin and Matthew Henry, and G. Campbell Morgan's exposition. Every quotation attributed to a commentator is given in its original English with a source a reader can check.}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\small\bfseries\color{CoverCream} 四步：從被差遣到被詢問}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Four Movements}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cp{3.4in}l@{}}
+第一步 & 神先開口，也先動手 \textit{\baskervillefont\color{CoverCream} The word comes, the wind comes} & {\tiny\color{CoverMuted} 1:1-16}\\[0.25em]
+第二步 & 安排在先，禱告在後 \textit{\baskervillefont\color{CoverCream} Appointed first, prayed after} & {\tiny\color{CoverMuted} 1:17-2:10}\\[0.25em]
+第三步 & 話二次臨到，神也後悔 \textit{\baskervillefont\color{CoverCream} The second time, and God relents} & {\tiny\color{CoverMuted} 3:1-10}\\[0.25em]
+第四步 & 神以問題收尾 \textit{\baskervillefont\color{CoverCream} God ends with a question} & {\tiny\color{CoverMuted} 4:1-11}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\itshape\color{CoverCream} 何況這尼尼微大城，其中不能分辨左手右手的有十二萬多人，\\並有許多牲畜，我豈能不愛惜呢？}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "Should I not have compassion on Nineveh, the great city . . . as well as many animals?" — Jonah 4:11}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.35cm}
+
+{\footnotesize\color{CoverMuted} \S\ Jonah Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}
