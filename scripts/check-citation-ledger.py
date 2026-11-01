@@ -215,7 +215,17 @@ def ledger_lists(ledger_text, commentator):
     # Table rows whose first cell is a bare chapter number ("| 01 | 講道編號、講題 ... |"), the layout
     # Romans uses for "which sermon backs which chapter". Without this such a ledger reads as empty.
     rows = re.findall(r"^\|\s*0*(\d{1,2})\s*\|(.*)$", head_part, re.M)
-    rows += [(m.group(2), m.group(1)) for m in re.finditer(r"^\|(.*)\|\s*0*(\d{1,2})\s*(?:（[^）|]*）)?\s*\|\s*$", head_part, re.M)]
+    # Chapter in the LAST cell ("| *title* | verses | date | url | 05 |", Hebrews' layout) -- but only in a table whose last
+    # column is headed 出現章/章次. Elsewhere the last column is something else (Habakkuk's is a quote COUNT).
+    lines = head_part.splitlines()
+    trailing = False
+    for i, line in enumerate(lines):
+        if line.startswith("|") and i + 1 < len(lines) and re.match(r"^\|[\s:|-]+\|\s*$", lines[i + 1]):
+            trailing = bool(re.search(r"(出現章|章次)\s*\|\s*$", line))
+            continue
+        m = re.match(r"^\|(.*)\|\s*0*(\d{1,2})\s*(?:（[^）|]*）)?\s*\|\s*$", line)
+        if trailing and m:
+            rows.append((m.group(2), m.group(1)))
     # A row that says 一般性歸納 / 不加引號 is the book DISCLAIMING a quotation for that chapter: summary, not a claim.
     summary |= {int(n) for n, rest in rows if re.search(r"一般性歸納|不加引號|未核實|主旨轉述|未升級逐字引句", rest)}
     # If the section itself says its material is summary, not quotation, its table lists topics, not claims.

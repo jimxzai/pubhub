@@ -28,7 +28,7 @@ Scores are the book's own latest `docs/scores/` entry (AI-assigned, see the rubr
 | gospel-of-john | gospel | 328 | 0 | 4/4 | P | R | P | – | 9.6 | 2026-09-21 |
 | gospel-of-luke | gospel-of-luke | 302 | 0 | 4/4 | P | R | P | P | — | — |
 | gospel-of-mark | gospel-of-mark | 383 | 0 | 3/3 (+1?) | P | R | P | P | 9.4 | 2026-09-20 |
-| habakkuk | habakkuk | 126 | 0 | 4/4 | P | R | P | F | 9.2 | 2026-10-31 |
+| habakkuk | habakkuk | 126 | 0 | 4/4 | P | R | P | P | 9.2 | 2026-10-31 |
 | Haggai | haggai | 102 | 0 | 4/4 | P | R | P | P | 9.1 | 2026-10-31 |
 | hebrews | hebrews | 267 | 0 | 1/4 | P | R | P | P | — | — |
 | hosea | hosea | 245 | 0 | 4/4 | P | R | P | P | 8.9 | 2026-10-30 |
@@ -68,7 +68,7 @@ Scores are the book's own latest `docs/scores/` entry (AI-assigned, see the rubr
 | Zapphaniah | zephaniah | 141 | 0 | 4/4 | P | R | P | P | 9.2 | 2026-10-31 |
 | zechariah | zechariah | 266 | 0 | 4/4 | P | R | P | P | 9.3 | 2026-10-31 |
 
-**61 book directories** · 7 failing checks · 59 with review candidates.
+**61 book directories** · 6 failing checks · 59 with review candidates.
 
 Directories under `books/bible/` with **no build script** (legacy, translation variants, drafts), not covered above: `books`, `gospel-harmony`, `gospel-of-john-nasb`, `gospel-of-john-niv`, `gospel-of-john-nkjv`, `gospel-of-john-translations`, `gospel-of-matthew`, `johannine-epistles`, `john-thursday-wong`, `life-of-christ`, `sam1-2-chroni1-2`, `samuel-chronicles`. Add them with `--include-unmapped`.
 
