@@ -132,27 +132,27 @@ fi
 # 正文 · 六卷 · 26 段
 # ============================================================
 add_volume "卷一 · 猶大的控告與呼召 (Indictment and Calling) · 1-6章" \
-    "審判的起點不是冷酷的審判台，是被辜負的愛——先看見聖潔，才看見自己的污穢。"
+    "審判的起點不是冷酷的審判台，是被辜負的愛——先看見聖潔，才看見自己的污穢。 **啟示的次序·第一步**：先看見聖潔，才看見自己的污穢（6:1-5）——全書的次序從這個異象開始。"
 for f in 01-rebellious-children.md 02-day-of-the-lord.md 03-song-of-the-vineyard.md \
          04-isaiahs-call.md; do
     add_chapter "$f"
 done
 
 add_volume "卷二 · 以馬內利與亞述的陰影 (Immanuel and the Shadow of Assyria) · 7-12章" \
-    "人的不信，攔不住神信實的應許——危機裏，神親自賜下以馬內利的記號。"
+    "人的不信，攔不住神信實的應許——危機裏，神親自賜下以馬內利的記號。 **啟示的次序·第二步**：聖潔面對亞述的威脅，先給的是一個名字——以馬內利，神與我們同在（7:14）。"
 for f in 05-sign-of-immanuel.md 06-child-and-the-rod.md 07-root-of-jesse.md; do
     add_chapter "$f"
 done
 
 add_volume "卷三 · 對列國的審判與啟示錄 (Judgment on the Nations and the Apocalypse) · 13-27章" \
-    "以色列的聖者不是一位地方神——祂的公義審判及於萬邦，祂的拯救也向萬邦敞開。"
+    "以色列的聖者不是一位地方神——祂的公義審判及於萬邦，祂的拯救也向萬邦敞開。 **啟示的次序·第三步**：同一份聖潔審判列國，也為萬民預備筵席、吞滅死亡（25:6-8）。"
 for f in 08-fall-of-babylon.md 09-oracles-against-nations.md 10-watchman-and-tyre.md \
          11-isaiahs-apocalypse.md; do
     add_chapter "$f"
 done
 
 add_volume "卷四 · 禍哉與拯救·通往希西家 (Woes and Deliverance — Toward Hezekiah) · 28-39章" \
-    "唯獨『平靜安穩』才是得救的力量——希西家的故事，是這句話從理論變成歷史現實的示範。"
+    "唯獨『平靜安穩』才是得救的力量——希西家的故事，是這句話從理論變成歷史現實的示範。 **啟示的次序·第四步**：禍哉的盡頭是神自己出手拯救——亞述大軍在夜間被擊敗（37:36），不是靠希西家的武力。"
 for f in 12-ephraim-and-ariel.md 13-woe-to-egypt.md 14-righteous-king-refuge.md \
          15-day-of-vengeance-ransomed-return.md 16-siege-of-assyria.md \
          17-hezekiahs-illness.md; do
@@ -160,14 +160,14 @@ for f in 12-ephraim-and-ariel.md 13-woe-to-egypt.md 14-righteous-king-refuge.md 
 done
 
 add_volume "卷五 · 安慰與僕人之歌 (Comfort and the Servant Songs) · 40-55章" \
-    "『你們要安慰、安慰我的百姓』——全書在這裏轉了調，藉著僕人的受苦，藉著白白賜下的恩典，神親自成就拯救。"
+    "『你們要安慰、安慰我的百姓』——全書在這裏轉了調，藉著僕人的受苦，藉著白白賜下的恩典，神親自成就拯救。 **啟示的次序·第五步**：審判由聖者自己承擔——僕人被壓傷，我們便得醫治（53:5）。"
 for f in 18-comfort-my-people.md 19-besides-me-no-god.md 20-cyrus-leave-babylon.md \
          21-zion-tongue-of-learned.md 22-suffering-servant.md 23-waters-without-price.md; do
     add_chapter "$f"
 done
 
 add_volume "卷六 · 公義的呼召與新天新地 (The Call to Righteousness and the New Heavens and New Earth) · 56-66章" \
-    "拯救的高峰過去，先知回到公義的呼召；全書的終局，是神親自造新天新地，眼淚全被擦去。"
+    "拯救的高峰過去，先知回到公義的呼召；全書的終局，是神親自造新天新地，眼淚全被擦去。 **啟示的次序·第六步（終步）**：拯救的完成是更新一切——新天新地（65:17；66:22）。"
 for f in 24-arm-of-the-lord-shortened.md 25-arise-shine.md 26-from-edom.md; do
     add_chapter "$f"
 done

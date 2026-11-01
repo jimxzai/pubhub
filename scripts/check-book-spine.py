@@ -81,7 +81,8 @@ LETTERED_APPENDIX_RE = re.compile(r"^9[6-9][a-z]-")
 #    differently (John: 啟示的次序與組織; Job: 啟示的次序與神的計劃), so match
 #    on the concepts rather than on one title.
 SPINE_TITLE_TERMS = ("啟示的次序", "啟示的順序", "神的計劃", "神的計畫",
-                     "救恩計劃", "全書的骨幹", "骨幹")
+                     "救恩計劃", "全書的骨幹", "骨幹",
+                     "脊椎")  # Philemon's front chapter calls its spine 「全書脊椎」 -- same thing, different word
 
 # 2. Divider spine marker, as emitted by scripts/build-<slug>-consolidated.sh
 DIVIDER_SPINE_TERMS = ("啟示的次序", "骨幹座標", "全書骨幹")
@@ -122,7 +123,8 @@ def orientation_files(book_dir):
 
 # A few books' build scripts are not named after their directory.
 SLUG_ALIASES = {"gospel-of-john": "gospel", "roman": "romans", "ephisian": "ephesians",
-                "thessanlonian2": "2-thessalonians", "Zapphaniah": "zephaniah"}
+                "thessanlonian2": "2-thessalonians", "Zapphaniah": "zephaniah",
+                "1philimon": "philemon"}
 
 
 def build_script_for(book_dir):
