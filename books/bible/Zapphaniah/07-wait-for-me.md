@@ -170,7 +170,7 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著核校，中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。各條出處與核校方式，見卷末《附錄：引用出處總表》。本卷沒有引用麥克阿瑟（John MacArthur）：未找到他以西番雅書為題的逐節講道系列（gty.org 的網站地圖幾乎不含舊約講道網址，不能拿它證明沒有）；他在別的講道裏有順帶講到西番雅書，本書未取用。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著核校，中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。各條出處與核校方式，見卷末《附錄：引用出處總表》。本卷的麥克阿瑟（John MacArthur）引文，取自他論「耶和華的日子」的講道逐字稿（未找到他以西番雅書為題的逐節講道系列；gty.org 的網站地圖幾乎不含舊約講道網址，不能拿它證明沒有）；各條出處附講道編號。
 
 ### 改革宗時期：加爾文 (John Calvin)
 
@@ -221,6 +221,17 @@ publisher: 三書精讀出版系統
 > 中譯：他們在世上越困苦越貧寒，就越看見有理由投靠神，因為他們再沒有別的可以投靠。
 
 摩根的概論沒有論到這六節，本章不立他一節。
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟沒有逐節講 3:8-13；他在論「耶和華的日子」近遠兩面時，把西番雅書分成兩半（這是他的讀法）：
+
+> "In chapter 1, he talks about the coming Babylonian exile of Judah, which is about fifteen years after his prophecy. And then in chapter 3, starting in verse 8, he just launches, does Zephaniah, into the final eschatological day of the Lord."
+> — John MacArthur, "Understanding the Day of the Lord, Part 1" (sermon 81-29)
+>
+> 中譯：在第一章，他講的是猶大即將到來的巴比倫被擄，那是在他說這預言之後約十五年；然後到第三章，從第8節起，西番雅就一下子進入了末後的耶和華的日子。
+
+本書不替他的分法或「約十五年」背書：經文只說「約西亞在位的時候」（1:1）。他的讀法與本章的次序有一處相合，就是 3:8 以後的「那時」把審判之後的事（清潔的言語、留下的餘民）擺在前面那團火的後面。
 
 ---
 

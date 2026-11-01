@@ -52,7 +52,7 @@ copyright: |
 
   • **G. Campbell Morgan** — *Living Messages of the Books of the Bible*（公有領域）
 
-  • 本書沒有 John MacArthur 的引文：未找到他以西番雅書為題的逐節講道系列（他在別的講道裏有順帶講到，本書未取用）
+  • **John MacArthur** — 未找到他以西番雅書為題的逐節講道系列；本書只引他論「耶和華的日子」的講道逐字稿（gty.org）
 
   **日子近了，祂也在你中間。**
 

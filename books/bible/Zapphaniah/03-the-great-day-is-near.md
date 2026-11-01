@@ -146,7 +146,7 @@ publisher: 三書精讀出版系統
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著核校，中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。各條出處與核校方式，見卷末《附錄：引用出處總表》。本卷沒有引用麥克阿瑟（John MacArthur）：未找到他以西番雅書為題的逐節講道系列（gty.org 的網站地圖幾乎不含舊約講道網址，不能拿它證明沒有）；他在別的講道裏有順帶講到西番雅書，本書未取用。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著核校，中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。各條出處與核校方式，見卷末《附錄：引用出處總表》。本卷的麥克阿瑟（John MacArthur）引文，取自他論「耶和華的日子」的講道逐字稿（未找到他以西番雅書為題的逐節講道系列；gty.org 的網站地圖幾乎不含舊約講道網址，不能拿它證明沒有）；各條出處附講道編號。
 
 ### 改革宗時期：加爾文 (John Calvin)
 
@@ -211,6 +211,22 @@ publisher: 三書精讀出版系統
 > 中譯：這些詞的不確定，造成審判的可怕感。
 
 （摩根在全書分析裏用三個詞：content、extent、intent。1:14-18 屬於第一個，審判的內容；最後一個 intent，他放在西番雅書的結尾，見最後一章。）
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟沒有逐節講西番雅書；以下兩段都出自他論「耶和華的日子」與基督再來的講道，他把 1:14-15 讀成末後審判的預告（這是他的讀法，不是唯一的讀法；亨利把第一個層次放在迦勒底人，見上）。論「耶和華的日子」的近與遠：
+
+> "The day of the Lord is always a cataclysmic judgment by God. But the prophet saw a near and far aspect to the day of the Lord."
+> — John MacArthur, "Understanding the Day of the Lord, Part 1" (sermon 81-29)
+>
+> 中譯：耶和華的日子永遠是神施行的大災變審判。但先知看見這日子有近的一面，也有遠的一面。
+
+論 1:14-18 的範圍：
+
+> "What Zephaniah’s saying is every ungodly person will be killed when Christ returns, every one of them."
+> — John MacArthur, "Final Justice: The Return of Christ, Part 3" (sermon 81-85)
+>
+> 中譯：西番雅所說的是：基督再來的時候，每一個不敬虔的人都要被殺，一個也不剩。
 
 ---
 
