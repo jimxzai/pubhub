@@ -212,6 +212,18 @@ def ledger_lists(ledger_text, commentator):
                 for m in re.finditer(r"^\|[^|\n]*第\s*(\d+)\s*章", head_part, re.M)}
     verbatim |= {int(m.group(1))
                  for m in re.finditer(r"第\s*(\d+)\s*章", head_part)} - summary
+    # Table rows whose first cell is a bare chapter number ("| 01 | 講道編號、講題 ... |"), the layout
+    # Romans uses for "which sermon backs which chapter". Without this such a ledger reads as empty.
+    rows = re.findall(r"^\|\s*0*(\d{1,2})\s*\|(.*)$", head_part, re.M)
+    rows += [(m.group(2), m.group(1)) for m in re.finditer(r"^\|(.*)\|\s*0*(\d{1,2})\s*(?:（[^）|]*）)?\s*\|\s*$", head_part, re.M)]
+    # A row that says 一般性歸納 / 不加引號 is the book DISCLAIMING a quotation for that chapter: summary, not a claim.
+    summary |= {int(n) for n, rest in rows if re.search(r"一般性歸納|不加引號|未核實|主旨轉述|未升級逐字引句", rest)}
+    # If the section itself says its material is summary, not quotation, its table lists topics, not claims.
+    declares_summary = re.search(r"不宜視為逐字|一律以一般性歸納|非逐字引句|並非逐字", head_part)
+    claims_verified = re.search(r"已核實|逐字相符|程式回查|逐字核實|核實，直引", head_part)
+    if declares_summary and not claims_verified:
+        summary |= {int(n) for n, rest in rows}
+    verbatim |= {int(n) for n, rest in rows} - summary
     return verbatim - summary, summary
 
 

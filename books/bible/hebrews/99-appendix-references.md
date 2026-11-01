@@ -33,8 +33,10 @@ publisher: 三書精讀出版系統
 | *The New Covenant, Part 2* | 來9:1-14 | 1972-09-17 | https://www.gty.org/sermons/1620/the-new-covenant-part-2 | 09 |
 | *Christ: The Living Sacrifice* | 來10:1-18 | 1972-10-22 | https://www.gty.org/library/sermons-library/1622/christ--the-living-sacrifice | 10 |
 | *Responding to the New Covenant* | 來10:19-25 | 1972-11-05 | https://www.gty.org/library/sermons-library/1623/responding-to-the-new-covenant | 10 |
+| *Apostasy: The Negative Response to the New Covenant, Part 1* | 來10:26-27 | 1972-11-12 | https://www.gty.org/library/sermons-library/1624/apostasy-the-negative-response-to-the-new-covenant-part-1 | 10 |
 | *Apostasy: The Negative Response to the New Covenant, Part 2* | 來10:28-39 | 1972-11-19 | https://www.gty.org/library/sermons-library/1625/apostasy-the-negative-response-to-the-new-covenant-part-2 | 10 |
 | *The Substance of Faith* | 來11:1-3 | 2009-10-18（Sermon 90-381） | https://www.gty.org/library/sermons-library/90-381/the-substance-of-faith | 11 |
+| *The Substance of Faith* | 來11:1-3 | 2009-10-18 | https://www.gty.org/sermons/90-381/the-substance-of-faith | 11 |
 | *Running the Race That Is Set Before Us* | 來12:1-4 | 1977-06-05 | https://www.gty.org/sermons/1254/running-the-race-that-is-set-before-us | 12 |
 | *The Discipline of God* | 來12:5-11 | 1977-07-03 | https://www.gty.org/library/sermons-library/1255/the-discipline-of-god | 12 |
 | *Christian Ethics, Pt. 2: The Principles of Contentment* | 來13:5-6 | 1973-05-13 | https://www.gty.org/library/sermons-library/1640/christian-ethics-pt-2-the-principles-of-contentment | 13 |

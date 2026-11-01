@@ -279,7 +279,7 @@ John Monsell 是愛爾蘭牧師，一生寫了三百多首聖詩。他主張敬�
 
 ### 麥克阿瑟：奔跑需要紀律，管教證明是父的兒子 (John MacArthur)
 
-麥克阿瑟在題為 *Running the Race That Is Set Before Us*（講12:1-4，1977年6月5日）的講章中指出，基督徒的生命是一場需要堅忍的委身："The Christian life is a commitment to run a race that demands endurance."他也指出，那朵雲彩般的見證人所作的見證是同一件事——憑信而活的人生，是能贏過危機與逼迫的人生："the life of faith is the life that wins" through crisis and persecution.
+麥克阿瑟在題為 *Running the Race That Is Set Before Us*（講12:1-4，1977年6月5日）的講章中指出，基督徒的生命是一個要憑著堅忍跑到得勝的委身："The Christian life is a commitment to run with endurance to victory."他也指出，那朵雲彩般的見證人所作的見證是同一件事——憑信而活的人生，是能贏過危機與逼迫的人生："the life of faith is the life that wins" through crisis and persecution.
 
 在另一篇題為 *The Discipline of God*（講12:5-11，1977年7月3日）的講章中，他把「管教」（παιδεία）解釋為古代栽培兒女成人的完整用語，不只是懲罰："It is a word that is used in the training of children...anything that an adult would do to cultivate the soul of a child toward proper maturity, toward proper godliness."他也用一句話點出懲罰與管教的關鍵差異："In punishment, God is judge; but in discipline, God is father. In punishment, the object is the enemy; in discipline, the object is his child."
 

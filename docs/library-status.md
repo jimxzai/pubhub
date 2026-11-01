@@ -6,15 +6,15 @@ Scores are the book's own latest `docs/scores/` entry (AI-assigned, see the rubr
 
 | Book dir | Slug | Pages | Overfull | Spine | Markup | Scripture | Sermons | Ledger | Score | Scored |
 |---|---|---:|---:|:-:|:-:|:-:|:-:|:-:|---:|---|
-| 1-peter | 1-peter | 133 | 0 | 1/4 | P | R | P | F | — | — |
+| 1-peter | 1-peter | 133 | 0 | 1/4 | P | R | P | P | — | — |
 | 1cor | 1cor | 261 | 0 | — | P | R | P | P | 9.5 | 2026-09-21 |
 | 1philimon | philemon | 467 | 0 | 1/3 (+1?) | P | R | P | – | 4.9 | 2026-08-31 |
-| 2-peter | 2-peter | 111 | 0 | 1/4 | P | R | P | F | — | — |
-| acts | acts | 435 | 0 | 4/4 | P | R | F | – | 9.6 | 2026-09-20 |
+| 2-peter | 2-peter | 111 | 0 | 1/4 | P | R | P | P | — | — |
+| acts | acts | 435 | 0 | 4/4 | P | R | P | – | 9.6 | 2026-09-20 |
 | Amos | amos | 193 | 0 | 4/4 | P | P | P | P | 9.0 | 2026-10-30 |
 | chronicl1 | chronicl1 | 365 | 0 | 4/4 | P | R | P | P | 9.2 | 2026-09-11 |
 | chronicl2 | chronicl2 | 511 | 0 | 4/4 | P | R | P | P | 8.6 | 2026-09-10 |
-| cor2 | cor2 | 347 | 0 | 3/3 (+1?) | P | R | F | – | 9.6 | 2026-09-20 |
+| cor2 | cor2 | 347 | 0 | 3/3 (+1?) | P | R | P | – | 9.6 | 2026-09-20 |
 | daniel | daniel | 297 | 0 | 4/4 | P | R | P | P | 8.8 | 2026-10-26 |
 | duetonomy | duetonomy | 359 | 0 | 4/4 | P | R | P | P | 9.4 | 2026-09-05 |
 | ecclesiastes | ecclesiastes | 201 | 0 | 4/4 | P | R | P | P | 8.9 | 2026-10-26 |
@@ -24,19 +24,19 @@ Scores are the book's own latest `docs/scores/` entry (AI-assigned, see the rubr
 | ezekiel | ezekiel | 585 | 32 | 4/4 | P | R | P | P | 8.8 | 2026-10-26 |
 | ezra | ezra | 239 | 0 | 4/4 | P | R | P | P | 8.9 | 2026-10-25 |
 | galatian | galatian | — | — | 4/4 | P | R | P | P | 9.6 | 2026-09-13 |
-| genesis | genesis | 320 | 138 | 4/4 | P | R | F | – | 9.9 | 2026-09-19 |
+| genesis | genesis | 320 | 138 | 4/4 | P | R | P | – | 9.9 | 2026-09-19 |
 | gospel-of-john | gospel | 328 | 0 | 4/4 | P | R | P | – | 9.6 | 2026-09-21 |
 | gospel-of-luke | gospel-of-luke | 302 | 0 | 4/4 | P | R | P | P | — | — |
-| gospel-of-mark | gospel-of-mark | 383 | 0 | 3/3 (+1?) | P | R | F | P | 9.4 | 2026-09-20 |
-| habakkuk | habakkuk | 126 | 0 | 4/4 | P | R | P | P | 9.2 | 2026-10-31 |
+| gospel-of-mark | gospel-of-mark | 383 | 0 | 3/3 (+1?) | P | R | P | P | 9.4 | 2026-09-20 |
+| habakkuk | habakkuk | 126 | 0 | 4/4 | P | R | P | F | 9.2 | 2026-10-31 |
 | Haggai | haggai | 102 | 0 | 4/4 | P | R | P | P | 9.1 | 2026-10-31 |
-| hebrews | hebrews | 267 | 0 | 1/4 | P | R | P | F | — | — |
+| hebrews | hebrews | 267 | 0 | 1/4 | P | R | P | P | — | — |
 | hosea | hosea | 245 | 0 | 4/4 | P | R | P | P | 8.9 | 2026-10-30 |
 | isaiah | isaiah | 411 | 0 | 1/4 | P | R | P | – | — | — |
 | james | james | 127 | 0 | 4/4 | P | R | P | P | 9.9 | 2026-09-18 |
 | jeremiah | jeremiah | 507 | 0 | 4/4 | P | R | P | P | 8.5 | 2026-10-26 |
 | job | job | 381 | 0 | 4/4 | P | R | P | P | 9.0 | 2026-09-05 |
-| Joel | joel | 166 | 4 | 4/4 | P | R | P | P | 8.8 | 2026-10-30 |
+| joel | joel | 166 | 4 | 4/4 | P | R | P | P | 8.8 | 2026-10-30 |
 | john1 | john1 | 119 | 0 | 4/4 | P | R | P | P | 9.6 | 2026-10-01 |
 | john2 | john2 | 135 | 0 | 4/4 | P | R | P | P | 9.2 | 2026-10-01 |
 | john3 | john3 | 131 | 0 | 4/4 | P | R | P | P | 9.3 | 2026-10-01 |
@@ -55,7 +55,7 @@ Scores are the book's own latest `docs/scores/` entry (AI-assigned, see the rubr
 | nehemiah | nehemiah | 211 | 0 | 4/4 | P | R | P | P | 9.1 | 2026-10-25 |
 | numbers | numbers | 373 | 0 | 4/4 | P | R | P | P | 9.85 | 2026-09-05 |
 | Obadiah | obadiah | 99 | 0 | 4/4 | P | R | P | P | 9.2 | 2026-10-30 |
-| pauline-epistles | titus | 78 | 0 | — | P | R | P | F | — | — |
+| pauline-epistles | titus | 78 | 0 | — | P | R | P | P | — | — |
 | philipian | philipian | — | — | 4/4 | P | R | P | P | 9.3 | 2026-09-13 |
 | proverb | proverb | 351 | 8 | 4/4 | P | R | P | P | 9.44 | 2026-09-11 |
 | psalm | psalm-liturgical | 337 | 0 | 3/3 (+1?) | P | P | P | – | 9.6 | 2026-09-18 |
@@ -68,9 +68,9 @@ Scores are the book's own latest `docs/scores/` entry (AI-assigned, see the rubr
 | Zapphaniah | zephaniah | 141 | 0 | 4/4 | P | R | P | P | 9.2 | 2026-10-31 |
 | zechariah | zechariah | 266 | 0 | 4/4 | P | R | P | P | 9.3 | 2026-10-31 |
 
-**61 book directories** · 14 failing checks · 59 with review candidates.
+**61 book directories** · 7 failing checks · 59 with review candidates.
 
-Directories under `books/bible/` with **no build script** (legacy, translation variants, drafts), not covered above: `books`, `church`, `drafts`, `gospel-harmony`, `gospel-of-john-nasb`, `gospel-of-john-niv`, `gospel-of-john-nkjv`, `gospel-of-john-translations`, `gospel-of-matthew`, `holySpirit`, `johannine-epistles`, `john-thursday-wong`, `life-of-christ`, `of`, `published`, `sam1-2-chroni1-2`, `samuel-chronicles`, `solomen`, `song`, `sources`, `t3`. Add them with `--include-unmapped`.
+Directories under `books/bible/` with **no build script** (legacy, translation variants, drafts), not covered above: `books`, `gospel-harmony`, `gospel-of-john-nasb`, `gospel-of-john-niv`, `gospel-of-john-nkjv`, `gospel-of-john-translations`, `gospel-of-matthew`, `johannine-epistles`, `john-thursday-wong`, `life-of-christ`, `sam1-2-chroni1-2`, `samuel-chronicles`. Add them with `--include-unmapped`.
 
 Not run by check-all (they need per-book arguments or a build):
 - `verify-citations.py --source <work.txt>   (needs the commentary source file)`

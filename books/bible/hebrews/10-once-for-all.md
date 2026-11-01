@@ -313,13 +313,15 @@ Horatio Spafford 1873 年寫成。他的四個女兒在橫渡大西洋時因船�
 
 三篇講章分別對應本章三段的脈絡，剛好覆蓋整章：
 
-**《Christ: The Living Sacrifice》**（來10:1-18，1972年10月22日）論舊約的影兒與基督的實體之別："The old was a shadow, not the very image. The old covenant could never bring a man into the presence of God." 論基督一次獻祭的終極性："The death of Christ became that great and final sacrifice that accomplishes for eternity what an eternity of the other sacrifices couldn't accomplish for time." 也直接點出經文本身「站」與「坐」的對比："Every priest standeth daily ministering...but this priest, after he had offered one sacrifice for sins for ever...sat down."
+**《Christ: The Living Sacrifice》**（來10:1-18，1972年10月22日）論舊約的影兒與基督的實體之別："The old was a shadow, not the very image. The old covenant could never bring a man into the presence of God." 論基督一次獻祭的終極性："The death of Christ became that great and final sacrifice that accomplishes for eternity what an eternity of the other sacrifices couldn't accomplish for time." 也直接點出經文本身「站」與「坐」的對比："every priest standeth daily ministering and offering the same sacrifices over and over which can never take away sin... one sacrifice for sins for ever – He was done, so He sat down."
 
-**《Responding to the New Covenant》**（來10:19-25，1972年11月5日）論坦然進入的根基："Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus"——信徒能無懼地來到神面前，因為基督的獻祭已經挪去了那道攔阻。論群體生活的必要："Don't forsake the assembling of yourselves together, as the manner of some is."
+**《Responding to the New Covenant》**（來10:19-25，1972年11月5日）論坦然進入的根基："Having therefore, brethren, boldness to enter into the holiest by the blood of Jesus"——信徒能無懼地來到神面前，因為基督的獻祭已經挪去了那道攔阻。論群體生活的必要："Not forsaking – verse 25 – the assembling of yourselves together, as the manner of some is."
 
-**《Apostasy: The Negative Response to the New Covenant, Part 2》**（來10:28-39，1972年11月19日）直面第四警告："For if we sin willfully after we have received the knowledge of the truth, there remaineth no more sacrifice for sins, but a certain fearful looking for of judgment." 麥克阿瑟指出，這是對明知真理卻蓄意棄絕之人最嚴肅的警告。
+**《Apostasy: The Negative Response to the New Covenant, Part 1》**（來10:26-27，1972年11月12日）直面第四警告："For if we sin willfully after we have received the knowledge of the truth" 麥克阿瑟指出，這句話界定了甚麼是背道：領受了真理、卻棄絕了所領受的真理。
 
-> 出處：John MacArthur, "Christ: The Living Sacrifice" (Hebrews 10:1-18, 1972年10月22日)；"Responding to the New Covenant" (Hebrews 10:19-25, 1972年11月5日)；"Apostasy: The Negative Response to the New Covenant, Part 2" (Hebrews 10:28-39, 1972年11月19日)，Grace to You (gty.org) — https://www.gty.org/library/sermons-library/1622/christ--the-living-sacrifice ；https://www.gty.org/library/sermons-library/1623/responding-to-the-new-covenant ；https://www.gty.org/library/sermons-library/1625/apostasy-the-negative-response-to-the-new-covenant-part-2 （標題、經文範圍、講道日期已於gty.org官方頁面核實）
+**《Apostasy: The Negative Response to the New Covenant, Part 2》**（來10:28-39，1972年11月19日）接著宣讀這警告的後果："there remaineth no more sacrifice for sins, but a certain fearful looking for of judgment."
+
+> 出處：John MacArthur, "Christ: The Living Sacrifice" (Hebrews 10:1-18, 1972年10月22日)；"Responding to the New Covenant" (Hebrews 10:19-25, 1972年11月5日)；"Apostasy: The Negative Response to the New Covenant, Part 1" (Hebrews 10:26-27, 1972年11月12日)；"Apostasy: The Negative Response to the New Covenant, Part 2" (Hebrews 10:28-39, 1972年11月19日)，Grace to You (gty.org) — https://www.gty.org/library/sermons-library/1622/christ--the-living-sacrifice ；https://www.gty.org/library/sermons-library/1623/responding-to-the-new-covenant ；https://www.gty.org/library/sermons-library/1624/apostasy-the-negative-response-to-the-new-covenant-part-1 ；https://www.gty.org/library/sermons-library/1625/apostasy-the-negative-response-to-the-new-covenant-part-2 （標題、經文範圍、講道日期已於gty.org官方頁面核實）
 
 ### 摩根：更美之約與更美的敬拜 (G. Campbell Morgan)
 

@@ -54,7 +54,19 @@ LEDGER_COMMENTATORS: dict[str, list[str]] = {
     "leviticus": ["波納", "亨利", "麥克阿瑟"],
     "proverb": ["布祺斯", "亨利"],  # its ledger states MacArthur is cited in none of the 31 chapters
     "numbers": ["摩根"],  # its ledger states MacArthur is not used
+    # These ledgers head their sections "John MacArthur" / "G. Campbell Morgan", so the English names are the ones
+    # that match both the ledger headings and the chapters' ### headings.
+    "roman": ["MacArthur", "Morgan"],
+    "pauline-epistles": ["MacArthur", "Morgan"],
+    "2-peter": ["MacArthur", "Morgan"],
+    "1-peter": ["MacArthur", "Morgan"],
 }
+
+# Books whose MacArthur quotes are written inline in prose (not as `> "..."` blocks). The ledger checker cannot see
+# them, so the inline verifier checks them against the sermons the ledger names for each chapter instead.
+# Morgan's per-chapter status in these ledgers is declared in prose (verified / partly / not verified) and is NOT
+# machine-checked; the result line says so.
+INLINE_SERMON_BOOKS = {"hebrews"}
 
 NOT_RUN = [
     "verify-citations.py --source <work.txt>   (needs the commentary source file)",
@@ -89,6 +101,12 @@ def resolve(arg: str, slug_to_dir: dict[str, str]) -> Path | None:
 
 
 def run_check(book: Path, name: str, script: str, severity: str) -> tuple[str, str, str]:
+    if name == "ledger" and book.name.lower() in INLINE_SERMON_BOOKS:
+        proc = subprocess.run([sys.executable, str(SCRIPTS / "verify-inline-sermon-quotes.py"), str(book)],
+                              capture_output=True, text=True, timeout=600, cwd=ROOT)
+        last = next((l.strip() for l in reversed((proc.stdout + proc.stderr).splitlines()) if l.strip()), "")
+        note = " (Morgan's per-chapter status is declared in the ledger, not machine-checked)"
+        return name, ("PASS" if proc.returncode == 0 else "FAIL"), last + note
     extra: list[str] = []
     if name == "ledger":
         for c in LEDGER_COMMENTATORS.get(book.name.lower(), []):

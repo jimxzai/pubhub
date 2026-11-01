@@ -187,7 +187,10 @@ publisher: 三書精讀出版系統
 
 **約翰·麥克阿瑟 (John MacArthur)**：
 
-在講道〈Is Experience a Valid Test of Truth〉(gty.org) 中，麥克阿瑟指出彼得在1:16-19的論證順序值得留意：彼得先訴諸登山變像那極不平凡的親身經歷（1:16-18），卻在下一節（1:19）立刻說「我們並有先知更確的預言」——原文比較級"more sure"，意即比那次驚人的經歷「更確」。麥克阿瑟解釋，彼得這樣安排的用意，是要指出即使是使徒本人所經歷過最壯麗的異象，也不是信仰最終極的憑據；已然完成、可反覆查驗的成文聖經，才是比任何個人經歷都更穩妥的根基："Peter was saying, in effect, that although the Transfiguration was an astonishing experience, Scripture is a far more trustworthy verification of truth."（彼得實際上是說，儘管登山變像是一次驚人的經歷，聖經才是更值得信賴的真理憑據。）
+在講道〈Is Experience a Valid Test of Truth〉(gty.org) 中，麥克阿瑟指出彼得在1:16-19的論證順序值得留意：彼得先訴諸登山變像那極不平凡的親身經歷（1:16-18），卻在下一節（1:19）立刻說「我們並有先知更確的預言」——原文比較級"more sure"，意即比那次驚人的經歷「更確」。麥克阿瑟解釋，彼得這樣安排的用意，是要指出即使是使徒本人所經歷過最壯麗的異象，也不是信仰最終極的憑據；已然完成、可反覆查驗的成文聖經，才是比任何個人經歷都更穩妥的根基：
+
+> "Peter was saying, in effect, that although the Transfiguration was an astonishing experience, Scripture is a far more trustworthy verification of truth."（彼得實際上是說，儘管登山變像是一次驚人的經歷，聖經才是更值得信賴的真理憑據。）
+> — John MacArthur, "Is Experience a Valid Test of Truth?" (gty.org, sermon 90-461，2 Peter 1:16-19，2013年8月4日), https://www.gty.org/sermons/90-461/is-experience-a-valid-test-of-truth
 
 ---
 

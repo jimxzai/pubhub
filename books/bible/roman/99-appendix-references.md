@@ -24,6 +24,7 @@ publisher: 三書精讀出版系統
 
 | 出現章 | 講道編號、講題（經文範圍，講道日期） |
 |--------|----------------------------------------|
+| 00 | 〈羅馬書概覽〉五段英文引句：gty.org 文章 A194 *Justification by Faith*（3 段）與 45-34 *Abraham--Justified by Faith, Part 1*（1 段）於 2026-11-01 重新對照原文，逐字相符；*The MacArthur Study Bible* 羅馬書導論〈Historical and Theological Themes〉（1 段）依 2026-09-02 核對紀錄，本次未重驗 |
 | 01 | 45-08 *The Gospel of Christ*（羅 1:16–17，May 31, 1981）；45-09 *The Wrath of God*（羅 1:18，June 7, 1981） |
 | 02 | 45-22 *False Security, Part 1*（羅 2:17–20，November 1, 1981）；45-23 *False Security, Part 2*（羅 2:19–29，November 8, 1981） |
 | 03 | 45-29 *How to Be Right with God, Part 1*（羅 3:21–22a，March 28, 1982）；45-30 *How to Be Right with God, Part 2*（羅 3:21–25a，April 4, 1982）；45-34 *Abraham--Justified by Faith, Part 1*（羅 4:1–3，June 20, 1982） |

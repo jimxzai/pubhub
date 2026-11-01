@@ -452,57 +452,51 @@ publisher: 三書精讀出版系統
 
 ### 約翰·麥克阿瑟 (John MacArthur)
 
+*（以下依所標出處概括轉述，未附英文原文，不是逐字引文，故不加引號。）*
+
 **論因信稱義 (On Justification by Faith)**:
 
-> 「稱義是法律術語，描述神對信徒的宣告，而非對信徒的改變。稱義不僅是赦免——單是赦免仍使罪人在神面前沒有功德。因此當神稱人為義時，祂將神聖的義歸算給罪人。」
-> — *MacArthur New Testament Commentary: Romans*
+稱義是法律術語，描述神對信徒的宣告，而非對信徒的改變。稱義不僅是赦免——單是赦免仍使罪人在神面前沒有功德。因此當神稱人為義時，祂將神聖的義歸算給罪人。（轉述；出處：*MacArthur New Testament Commentary: Romans*）
 
-> 「因為基督徒單因信稱義，他們在神面前的地位與個人功德完全無關。神接納相信的人為義，不是因為祂在他們身上看見什麼好處——甚至不是因為祂在他們生命中成聖的工作——而單單是根據基督的義歸算在他們賬上。」
-> — [Justification by Faith](https://www.gty.org/library/articles/A194/justification-by-faith)
+因為基督徒單因信稱義，他們在神面前的地位與個人功德完全無關。神接納相信的人為義，不是因為祂在他們身上看見什麼好處——甚至不是因為祂在他們生命中成聖的工作——而單單是根據基督的義歸算在他們賬上。（轉述；出處：[Justification by Faith](https://www.gty.org/library/articles/A194/justification-by-faith)）
 
 **論教會為基督的身體 (On the Church as Body of Christ)**:
 
-> 「以弗所書被稱為『信徒的銀行』和『聖經的寶庫』。這封美麗的書信告訴基督徒他們在耶穌基督和祂教會裏的豐富、產業和豐盛。」
-> — *Bible Introduction: Ephesians*
+以弗所書被稱為『信徒的銀行』和『聖經的寶庫』。這封美麗的書信告訴基督徒他們在耶穌基督和祂教會裏的豐富、產業和豐盛。（轉述；出處：*Bible Introduction: Ephesians*）
 
-> 「歌羅西書聚焦於耶穌基督，呈現祂是任何問題的終極答案。神本性一切的豐盛都有形有體地居住在基督裏面——祂是教會的頭，祂的生命流經所有肢體，提供身體的合一。」
-> — *Bible Introduction: Colossians*
+歌羅西書聚焦於耶穌基督，呈現祂是任何問題的終極答案。神本性一切的豐盛都有形有體地居住在基督裏面——祂是教會的頭，祂的生命流經所有肢體，提供身體的合一。（轉述；出處：*Bible Introduction: Colossians*）
 
 **論腓立比書的喜樂 (On Joy in Philippians)**:
 
-> 「保羅在腓立比書中十七次談到喜樂。喜樂是聖靈掌管生命的果子。按照加拉太書5章，我們被命令在任何時候、任何事上、任何環境中都要喜樂。」
-> — [The Epistle of Joy](https://www.gty.org/library/sermons-library/50-1/the-epistle-of-joy)
+保羅在腓立比書中十七次談到喜樂。喜樂是聖靈掌管生命的果子。按照加拉太書5章，我們被命令在任何時候、任何事上、任何環境中都要喜樂。（轉述；出處：[The Epistle of Joy](https://www.gty.org/library/sermons-library/50-1/the-epistle-of-joy)）
 
-> 「失去喜樂只有一個理由：罪。當你陷入罪中，你需要與詩人一同呼求：『求你使我重得救恩之樂。』但除了罪以外，沒有任何事物應該奪去我們的喜樂，環境當然不能。」
+失去喜樂只有一個理由：罪。當你陷入罪中，你需要與詩人一同呼求：『求你使我重得救恩之樂。』但除了罪以外，沒有任何事物應該奪去我們的喜樂，環境當然不能。（轉述）
 
 **論帖撒羅尼迦書與主再來 (On Thessalonians and Second Coming)**:
 
-> 「在帖撒羅尼迦前後書中，使徒保羅對基督再來的論述比任何其他書信都更廣泛。理解這個驚人的事件是發展和維持基督徒盼望、紀律和傳福音的關鍵。」
-> — [The Rapture and the Day of the Lord](https://www.gty.org/library/topical-series-library/222/the-rapture-and-the-day-of-the-lord)
+在帖撒羅尼迦前後書中，使徒保羅對基督再來的論述比任何其他書信都更廣泛。理解這個驚人的事件是發展和維持基督徒盼望、紀律和傳福音的關鍵。（轉述；出處：[The Rapture and the Day of the Lord](https://www.gty.org/library/topical-series-library/222/the-rapture-and-the-day-of-the-lord)）
 
 **論教牧書信與教會領袖 (On Pastoral Epistles and Church Leadership)**:
 
-> 「長老或牧師的基本要求之一是必須『善於教導』（提前3:2；提後2:2,24；多1:9）。這表達特殊的技巧和才能——教導的獨特恩賜。任何缺乏這能力的人都不合格擔任牧師職分。」
-> — *Bible Introduction: 1 Timothy*
+長老或牧師的基本要求之一是必須『善於教導』（提前3:2；提後2:2,24；多1:9）。這表達特殊的技巧和才能——教導的獨特恩賜。任何缺乏這能力的人都不合格擔任牧師職分。（轉述；出處：*Bible Introduction: 1 Timothy*）
 
 **論腓利門書與饒恕 (On Philemon and Forgiveness)**:
 
-> 「保羅扮演的角色正是耶穌基督在腓利門和阿尼西母關係中所扮演的。腓利門像神一樣——被冒犯、被虧負。阿尼西母像罪人一樣——逃離神、虧負神、浪費生命。若罪人要與神和好，必須有人付出代價。這就是基督。」
-> — [The Beauty and Blessing of Forgiveness](https://www.gty.org/library/sermons-library/82-3/the-beauty-and-blessing-of-forgiveness-part-1)
+保羅扮演的角色正是耶穌基督在腓利門和阿尼西母關係中所扮演的。腓利門像神一樣——被冒犯、被虧負。阿尼西母像罪人一樣——逃離神、虧負神、浪費生命。若罪人要與神和好，必須有人付出代價。這就是基督。（轉述；出處：[The Beauty and Blessing of Forgiveness](https://www.gty.org/library/sermons-library/82-3/the-beauty-and-blessing-of-forgiveness-part-1)）
 
 ---
 
 ### 坎伯·摩根 (G. Campbell Morgan)
 
+*（以下依所標出處概括轉述，未附英文原文，不是逐字引文，故不加引號。）*
+
 **論羅馬書 (On Romans)**:
 
-> 「羅馬書是『你眼睛所見過最悲觀的文學篇章』，同時也是『你耳朵所聽過最樂觀的詩歌』。」
-> — *The Analyzed Bible: Romans*
+羅馬書是『你眼睛所見過最悲觀的文學篇章』，同時也是『你耳朵所聽過最樂觀的詩歌』。（轉述；出處：*The Analyzed Bible: Romans*）
 
 **論加拉太書與羅馬書的關係 (On Galatians and Romans)**:
 
-> 「保羅在寫完加拉太書後立即寫羅馬書，他的心充滿稱義的教義。他可能希望進一步闡述這主題，特別強調神的一面——正如他在加拉太書中強調人的一面。在加拉太書中，人因信稱義；在羅馬書中，神將自己的義賜給信者使他稱義。」
-> — *Morgan's Exposition on the Whole Bible*
+保羅在寫完加拉太書後立即寫羅馬書，他的心充滿稱義的教義。他可能希望進一步闡述這主題，特別強調神的一面——正如他在加拉太書中強調人的一面。在加拉太書中，人因信稱義；在羅馬書中，神將自己的義賜給信者使他稱義。（轉述；出處：*Morgan's Exposition on the Whole Bible*）
 
 **論保羅書信分類 (On Classification of Paul's Epistles)**:
 
@@ -514,16 +508,15 @@ publisher: 三書精讀出版系統
 
 **論以弗所書 (On Ephesians)**:
 
-> 「歌羅西書討論基督為教會之首，以弗所書討論教會為基督的身體。在歌羅西書中基督是『一切的一切』，在以弗所書中升天的基督被看見在祂的教會中。」
-> — [Ephesians Introduction](https://www.truthaccordingtoscripture.com/commentaries/gcm/ephesians.php)
+歌羅西書討論基督為教會之首，以弗所書討論教會為基督的身體。在歌羅西書中基督是『一切的一切』，在以弗所書中升天的基督被看見在祂的教會中。（轉述；出處：[Ephesians Introduction](https://www.truthaccordingtoscripture.com/commentaries/gcm/ephesians.php)）
 
-> 「這封書信的主題是教會作為完成神旨意的媒介。教會的呼召被描述為『祂在聖徒中得榮耀的豐富產業』。神在祂子民中有產業，教會是彰顯祂恩典的媒介。」
+這封書信的主題是教會作為完成神旨意的媒介。教會的呼召被描述為『祂在聖徒中得榮耀的豐富產業』。神在祂子民中有產業，教會是彰顯祂恩典的媒介。（轉述）
 
-> 「使徒宣稱在教會奧秘中的管家職分，並宣告這驚人的事實：『為要藉著教會使天上執政的、掌權的，現在得知神百般的智慧。』」
+使徒宣稱在教會奧秘中的管家職分，並宣告這驚人的事實：『為要藉著教會使天上執政的、掌權的，現在得知神百般的智慧。』（轉述）
 
 **論教會的建造 (On the Building of the Church)**:
 
-> 「建築的材料是在完全敵對神旨意的事物中發現的。從這材料中，滿有憐憫的神找到祂建築的材料。過程是：在基督耶穌裏那些被找到的人被賜生命、被復活、與祂一同坐在天上。」
+建築的材料是在完全敵對神旨意的事物中發現的。從這材料中，滿有憐憫的神找到祂建築的材料。過程是：在基督耶穌裏那些被找到的人被賜生命、被復活、與祂一同坐在天上。（轉述）
 
 ---
 

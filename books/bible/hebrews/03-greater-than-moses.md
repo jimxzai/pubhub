@@ -225,7 +225,7 @@ William Williams 1745 年以威爾斯文寫成，原名〈Arglwydd, arwain trwy'
 
 麥克阿瑟在1972年兩篇連續講章中處理本章。第一篇 *Jesus Christ, Greater than Moses*（講希伯來書3:1-6，1972年4月9日）直接點出僕人與兒子的位分差異："Moses is by person a servant; Jesus is by person a son." 他進一步強調兩者所在的位置不同："Moses was servant in somebody else's house. Jesus is a son over His own house." ——摩西是在別人的家中服事，耶穌卻是治理自己的家。
 
-第二篇 *Harden Not Your Hearts*（講希伯來書3:7-19，1972年4月16日）處理曠野世代的不信，麥克阿瑟引述神的話語描述那一代人的頑梗："They kept on testing God. They kept on proving Me, and saw my works for 40 years, and still they never believed." 他也把「剛硬」講成一個逐步累積的過程："Your heart gets harder every time you say no to Jesus Christ when you know the truth."——每一次明知真理卻拒絕，心就更硬一分。
+第二篇 *Harden Not Your Hearts*（講希伯來書3:7-19，1972年4月16日）處理曠野世代的不信，麥克阿瑟引述神的話語描述那一代人的頑梗："They kept on putting Me to the test, kept on proving Me, and saw my works for 40 years, and still they never believed." 他也把「剛硬」講成一個逐步累積的過程："Your heart gets harder every time you say no to Jesus Christ when you know the truth."——每一次明知真理卻拒絕，心就更硬一分。
 
 > 出處：John MacArthur, "Jesus Christ, Greater than Moses" (Hebrews 3:1-6), Grace to You (gty.org), 1972年4月9日 — https://www.gty.org/library/sermons-library/1607/jesus-christ-greater-than-moses ；"Harden Not Your Hearts" (Hebrews 3:7-19), Grace to You (gty.org), 1972年4月16日 — https://www.gty.org/library/sermons-library/1608/harden-not-your-hearts （已核實：兩篇講章標題、經文範圍、講道日期與引句均見於gty.org官方講章庫）
 

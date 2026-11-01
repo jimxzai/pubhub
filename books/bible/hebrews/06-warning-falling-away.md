@@ -257,11 +257,11 @@ Edward Mote 是倫敦的木匠，後來作牧師。他自述小時候「連神�
 
 ### 麥克阿瑟：兩個焦點——誰在懸崖邊、誰握著錨 (John MacArthur)
 
-麥克阿瑟對6:4-6的立場，在他1975年2月23日題為 *If They Fall Away* 的講章中（經文範圍 5:10-6:12）表達得直接：他認為這段描述的不是真信徒的失落，而是一群理性上已經被福音真理說服、卻尚未真正重生、正站在信與不信邊界上的人："They're not Christians. They're right up to the edge. If you fall away, tragic, tragic loss." 對於「不可能再使他們重新懊悔」，他的解釋是：這群人已經走到了恩典能給的盡頭——"If you fall away from all of that, you're hopeless. To try to renew you again to repentance is impossible." 他形容這群人的信只是頭腦知識，未曾真正吃下："They have head knowledge...but they only tasted them."
+麥克阿瑟對6:4-6的立場，在他1975年2月23日題為 *If They Fall Away* 的講章中（經文範圍 5:10-6:12）表達得直接：他認為這段描述的不是真信徒的失落，而是一群理性上已經被福音真理說服、卻尚未真正重生、正站在信與不信邊界上的人："They're not Christians. They're right up to the edge. If you fall away, tragic, tragic loss." 對於「不可能再使他們重新懊悔」，他的解釋是：這群人已經走到了恩典能給的盡頭——"If you fall away from all of that, you're hopeless. To try to renew you again to repentance is impossible." 他形容這群人只有頭腦的知識，卻停在冷淡、漠不關心與遲疑不決裏："He's got head knowledge of the truth, but he sits there in indolence and indifference and indecision"
 
 > 出處：John MacArthur, "If They Fall Away" (Hebrews 5:10-6:12), Grace to You (gty.org), 1975年2月23日 — https://www.gty.org/library/sermons-library/1304/if-they-fall-away
 
-在另一篇1972年6月11日題為 *The Securities of God's Promise* 的講章中（經文 6:13-20，收錄於 *Hebrews, Vol. 02* 系列），麥克阿瑟則把焦點轉到盼望的確據上，論到19節的錨："We have one other security, beloved, we've got an anchor. Your soul, when you come to God, isn't drifting anymore; it's anchored." 並提醒信靠神不是理論，是行動："You can trust God. And the only way you'll ever know it is if you flee to Him and embrace Jesus Christ."
+在另一篇1972年6月11日題為 *The Securities of God's Promise* 的講章中（經文 6:13-20，收錄於 *Hebrews, Vol. 02* 系列），麥克阿瑟則把焦點轉到盼望的確據上，論到19節的錨："We have one other security, beloved, we've got an anchor – we've got an anchor for our soul. Your soul, when you come to God, isn't drifting anymore; it's anchored." 並提醒信靠神不是理論，是行動："You can trust God. And the only way you'll ever know it is if you flee to Him and embrace Jesus Christ."
 
 > 出處：John MacArthur, "The Securities of God's Promise" (Hebrews 6:13-20), Grace to You (gty.org), 1972年6月11日，*Hebrews, Vol. 02* 系列 — https://www.gty.org/library/sermons-library/1615/the-securities-of-gods-promise
 

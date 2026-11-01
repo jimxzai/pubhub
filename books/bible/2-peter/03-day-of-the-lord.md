@@ -198,13 +198,17 @@ publisher: 三書精讀出版系統
 
 ### 當代釋經：約翰·麥克阿瑟 (John MacArthur)
 
-麥克阿瑟在gty.org講道系列《The Certainty of the Second Coming》(2 Peter 3) 中指出，譏誚者的論證核心是：「神從來沒有在審判中介入過，所以我們憑甚麼相信祂將來會介入」——這正是3:5-7要駁斥的錯誤前提。他強調3:7所說「現在的天地……直留到……用火焚燒」，是神用水審判挪亞世代之後，向世人預告的下一場審判方式的轉換：「神從前用水審判，將來要用火審判」(*water then, fire now/then*，撮述其講道立場)。
+麥克阿瑟在gty.org講道系列《The Certainty of the Second Coming》(2 Peter 3) 中指出，譏誚者的論證核心是：神從來沒有在審判中介入過，所以我們憑甚麼相信祂將來會介入——這正是3:5-7要駁斥的錯誤前提。他強調3:7所說「現在的天地……直留到……用火焚燒」，是神用水審判挪亞世代之後，向世人預告的下一場審判方式的轉換：神從前用水審判，將來要用火審判（以上為撮述其講道立場，非逐字引句）。
 
 論3:8-9，麥克阿瑟講到：「一日如千年，千年如一日……在主的心意裏」，神有祂自己看待時間的方式；祂「並不遲延所應許的，好像有人以為他是耽延……乃是寬容……」，正說明神的等候本身就是恩慈與憐憫的展現。
 
-論3:10，麥克阿瑟形容主的日子來到「突然、出人意料，對毫無預備的人而言是災難性的」——這正是「像賊來到」這個比喻的重點：不是隨機無跡可尋，而是對不儆醒的人而言毫無預警。
+論3:10，麥克阿瑟形容主的日子來到是突然、出人意料的，對毫無預備的人而言是災難性的（撮述）——這正是「像賊來到」這個比喻的重點：不是隨機無跡可尋，而是對不儆醒的人而言毫無預警。
 
-論3:15-16，在講道系列《Living in Anticipation of Christ's Return》中，麥克阿瑟明確肯定：「保羅的著作是經書」("The writings of Paul are Scripture")，並指出「保羅所講論這些事，有些的確難以理解，難以解釋」("hard to understand, literally difficult to interpret")，但這是「困難」，不是「不可能」——彼得對保羅書信正典地位的承認，是新約中最清楚的例證之一。
+論3:15-16，在講道系列《Living in Anticipation of Christ's Return》中，麥克阿瑟明確肯定保羅的書信是經書，並指出保羅所講論的這些事有些的確難以理解；但這是「困難」，不是「不可能」——彼得對保羅書信正典地位的承認，是新約中最清楚的例證之一：
+
+> "The writings of Paul are Scripture"（保羅的著作是經書）
+> "hard to understand, literally difficult to interpret"（難以理解，字面上就是難以解釋）
+> — John MacArthur, "Living in Anticipation of Christ's Return, Part 2" (gty.org, sermon 61-27，2 Peter 3:14-18，1991年5月5日), https://www.gty.org/sermons/61-27/living-in-anticipation-of-christs-return-part-2
 
 > 出處：John MacArthur, "The Certainty of the Second Coming, Part 3" 與 "Living in Anticipation of Christ's Return, Part 2"，Grace to You (gty.org)，經該講道逐字稿內容核實後撮述、部分直引。
 
