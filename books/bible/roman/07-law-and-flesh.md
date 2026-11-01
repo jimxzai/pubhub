@@ -219,7 +219,7 @@ publisher: 三書精讀出版系統
 >
 > — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Obligation of Grace〉, Fleming H. Revell, 1909, p. 98
 
-摩根也指出，第7章從絕望的呼喊「我真是苦啊」到隨即而來的「感謝神」，整段自白的作用，是要把律法之下人生所能達到的最高經歷揭示出來，並為第8章要描述的、從恩典而來的能力、自由與得勝鋪路。這與摩根論第3章那句已核實的名言（見第3章「歷代注疏」）是同一種筆法：讀到絕望為止是最悲觀的一頁，讀下去到「感謝神」卻已轉為最樂觀的一首詩。
+摩根也指出，第7章從絕望的呼喊「我真是苦啊」到隨即而來的「感謝神」，整段自白的作用，是要把律法之下人生所能達到的最高經歷揭示出來，並為第8章要描述的、從恩典而來的能力、自由與得勝鋪路。與第3章「但如今」的轉折是同一種筆法：讀到絕望為止是最悲觀的一頁，讀下去到「感謝神」卻已轉為最樂觀的一首詩（此為編者的說法）。
 
 > "The whole paragraph, then, is a forceful revelation of the highest possible experience of the life under law, and prepares the way for the description of the power and freedom and triumph of the sanctified life, resulting from the operation of grace through Christ Jesus."
 >
@@ -227,7 +227,7 @@ publisher: 三書精讀出版系統
 >
 > — G. Campbell Morgan, 《The Analyzed Bible: Romans》〈The Obligation of Grace — The Principle Illustrated〉, Fleming H. Revell, 1909, p. 104
 
-> 出處：以上兩段英文引句均逐字核對自 G. Campbell Morgan,《The Analyzed Bible: Romans》(1909)〈The Obligation of Grace〉一節原文（頁碼如上）；「悲觀／樂觀」一句之逐字引句已核實，出處見第3章「歷代注疏」。
+> 出處：以上兩段英文引句均逐字核對自 G. Campbell Morgan,《The Analyzed Bible: Romans》(1909)〈The Obligation of Grace〉一節原文（頁碼如上）。
 
 ### 麥克阿瑟 (John MacArthur)
 

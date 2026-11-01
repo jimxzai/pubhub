@@ -136,13 +136,9 @@ publisher: 三書精讀出版系統
 
 ### 坎伯·摩根 (G. Campbell Morgan)
 
-**論羅馬書第3章與其後的轉折**（已核實逐字引句，見下方出處）:
+**論羅馬書第3章與其後的轉折**:
 
-> "Read the third chapter of this book, and read no more, and you will say that it is the most pessimistic page of literature upon which your eyes ever rested. Read that which immediately follows it, and follow the argument to the end, and you will say that it is the most optimistic poem to which your ears ever listened."
->
-> 「單讀這卷書的第三章，讀到此為止，你會說這是你眼睛所見過最悲觀的一頁文字；再讀緊接其後的內容，一路跟隨這論證讀到末了，你會說這是你耳朵所聽過最樂觀的一首詩歌。」
->
-> — G. Campbell Morgan, *Living Messages of the Books of the Bible*（新約卷）〈The Message of Romans〉一章，Fleming H. Revell, 1912（原文論的是第3章結尾與3:21以後的轉折，非泛指全書）
+編者註：本版曾引用摩根論羅馬書第3章「最悲觀」與其後「最樂觀」的對比，但未能取得可定位的原文書目與頁碼，因此不再以引號呈現。羅馬書的轉折見經文本身：3:9-20 的控告之後，3:21「但如今」開始稱義的宣告。
 
 **論加拉太書與羅馬書的關係**:
 
