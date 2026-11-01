@@ -179,7 +179,7 @@ status: editorial-draft
 
 麥克阿瑟指出3:4-6顯出合格事奉者身上兩個看似對立、實則統一的特質：對呼召的堅定信心（v.4）——保羅從未對自己從神而來的呼召搖擺不定；以及對自己完全的不自恃（v.5）——「並不是我們憑自己能承擔甚麼事」：
 
-> "Not that we are adequate in ourselves to consider anything as coming from ourselves... He's the one who made us adequate."（並不是我們自己夠資格把甚麼算為出於自己……是祂使我們有資格。）
+> "Not that we are adequate – follow this – in ourselves to consider anything as coming from ourselves... He's the one who made us adequate."（並不是我們自己夠資格——聽好——把甚麼算為出於自己……是祂使我們有資格。）
 
 > — John MacArthur, "The Competent Minister, Part 2" (gty.org, 47-13, 1994年4月24日), https://www.gty.org/library/sermons-library/47-13/the-competent-minister-part-2
 

@@ -203,15 +203,15 @@ publisher: PubHub 三書精讀系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "There stood by me this night an angel of God—I love this—whose I am and whom I serve. Don't you love that? That guy knew who he belonged to... There's the first commercial for the Lord."
+> "There stood by me this night an angel of God – I love this – whose I am and – What? – whom I serve. Don't you love that? That guy knew who he belonged to... There's the first commercial for the Lord."
 >
-> 「『昨夜有神的使者站在我旁邊』——我太愛這句話了——『我所屬、所事奉的』。你不覺得這句話很美嗎？這個人清楚知道自己是屬誰的……這是為主打的第一支廣告。」——麥克阿瑟指出，保羅在絕望的水手面前，第一句話不是安撫，而是宣告自己屬誰。
+> 「『昨夜有神的使者站在我旁邊』——我太愛這句話了——『我所屬的，並且——』甚麼？——『所事奉的』。你不覺得這句話很美嗎？這個人清楚知道自己是屬誰的……這是為主打的第一支廣告。」——麥克阿瑟指出，保羅在絕望的水手面前，第一句話不是安撫，而是宣告自己屬誰。
 >
 > — John MacArthur, *"Paul's Journey to Rome, Part 1"*（sermon 1799，論徒27:1-26），Grace to You, gty.org
 
-> "And so it came to pass that they all escaped safely to the land. That is incredible. Absolutely incredible; 276 people jumped in the water and 276 people met on the shore in a hurricane."
+> "And so it came to pass that they – What? – all escaped safely to the land. That is incredible. Absolutely incredible; 276 people jumped in the water and 276 people met on the shore in a hurricane."
 >
-> 「『這樣，眾人都得了救，上了岸』——這太不可思議了，完全不可思議：二百七十六人跳進海裏，二百七十六人在一場颶風之後，全部在岸上會合。」
+> 「『這樣，眾人——』甚麼？——『都得了救，上了岸』——這太不可思議了，完全不可思議：二百七十六人跳進海裏，二百七十六人在一場颶風之後，全部在岸上會合。」
 >
 > — John MacArthur, *"Paul's Journey to Rome, Part 2"*（sermon 1800，論徒27:27-44），Grace to You, gty.org
 

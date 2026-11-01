@@ -187,9 +187,9 @@ publisher: PubHub 三書精讀系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "By Him all that believe are justified from all things... from which you could never be justified by the law of Moses."
+> "that by Him all that believe are justified from all things – it's just a matter of believing – from which you could never be justified by – what? – the law of Moses."
 >
-> 「靠著這一位，凡相信的人，就從一切的事上得了稱義……那是你們永遠不能靠摩西的律法得稱義的事。」——麥克阿瑟論13:38-39指出，這句話宣告的是一條恩典的新路，不是律法的舊路：摩西的律法能指出罪、定人的罪，卻沒有能力使人脫離罪的轄制；唯有藉著相信這位復活的耶穌，人才真正得著律法本身無法給予的赦免與稱義。
+> 「靠著這一位，凡相信的人，就從一切的事上得了稱義——這只是信不信的問題——那是你們永遠不能靠——靠甚麼？——靠摩西的律法得稱義的事。」——麥克阿瑟論13:38-39指出，這句話宣告的是一條恩典的新路，不是律法的舊路：摩西的律法能指出罪、定人的罪，卻沒有能力使人脫離罪的轄制；唯有藉著相信這位復活的耶穌，人才真正得著律法本身無法給予的赦免與稱義。
 >
 > — John MacArthur, *"The Troubling Gospel"*（sermon 1746，論徒13:38-41），Grace to You, gty.org
 

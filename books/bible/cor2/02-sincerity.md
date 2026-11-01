@@ -171,7 +171,7 @@ status: editorial-draft
 
 他也說明了保羅改變行程的真正動機：
 
-> "if I go too soon I haven't given them time to repent... he said I didn't come because...I wanted to spare you the rod."（如果我太早去，他們就沒有時間悔改……他說，我沒有去，是因為……我要饒了你們，免受責打。）
+> "if I go too soon I haven't given them – I haven't given them time to repent... he said I didn't come because...I wanted to spare you the rod."（如果我太早去，他們就沒有時間悔改……他說，我沒有去，是因為……我要饒了你們，免受責打。）
 
 > — John MacArthur, "Integrity in the Ministry" (gty.org, sermon 47-7), on 2 Corinthians 1:15-2:4, https://www.gty.org/library/sermons-library/47-7/integrity-in-the-ministry
 

@@ -175,7 +175,7 @@ status: editorial-draft
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "We are dealing with fortresses, folks... the word destruction means to demolish, to bring about the demolition, the complete disintegration of these fortresses."（「弟兄姊妹，我們面對的是堅固營壘⋯『毀壞』這個詞的意思是拆毀，使這些營壘徹底崩解、瓦解。」）
+> "We're dealing with fortresses, folks... the word destruction means to demolish, to bring about the demolition, the complete disintegration of these fortresses."（「弟兄姊妹，我們面對的是堅固營壘⋯『毀壞』這個詞的意思是拆毀，使這些營壘徹底崩解、瓦解。」）
 
 論到「計謀」(λογισμός)：
 

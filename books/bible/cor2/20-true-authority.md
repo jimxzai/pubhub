@@ -181,7 +181,7 @@ v.13-16保羅三次提到「界限」（κανών），堅持自己不誇耀別
 
 麥克阿瑟在「How to Recognize a Man of God」系列（47-68至47-71，1996年4-6月）中，把10:7-18處理為一套辨識真僕人的準則：不是憑外表氣派，也不是憑自我推薦的信函，而是憑生命與果子。他在47-68中把v.7「屬乎基督」列為第一道試驗，把v.8「造就而非敗壞」列為第二道試驗——一個真正屬神的工人，他的服事使人被建立起來，而不是使人惶惶不安或彼此紛爭。到47-71處理v.17-18時，他把整段的邏輯收束於一點：既然人隨時可能被表象迷惑，唯一穩妥的度量，就是把一切都交還給那位「察驗人心肺腑」的主。
 
-> "If anyone is confident in himself that he is Christ's, let him consider this again... The Lord gave [that authority] for building you up and not for destroying you."（若有人自信是屬基督的，他要再想想……主賜下這權柄，是要造就你們，並不是要敗壞你們。）
+> "If anyone is confident in himself that he is Christ's, let him consider this again... about our authority, which the Lord gave for building you up and not for destroying you."（若有人自信是屬基督的，他要再想想……論到我們的權柄，這權柄是主賜的，為要造就你們，不是要敗壞你們。）
 > — John MacArthur, "How to Recognize a Man of God, Part 1" (gty.org, 講道編號 47-68，1996年4月14日), on 2 Corinthians 10:7-8, https://www.gty.org/library/sermons-library/47-68
 
 麥克阿瑟講到10:17-18時，把保羅的話接回它的舊約出處——耶利米書9:24與哥林多前書1:31的同一句「誇口的，當指著主誇口」——指出保羅並非自創一條事奉的準則，是引用神早已立定的準則：蒙悅納的不是自己稱許的，乃是主所稱許的。

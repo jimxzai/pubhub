@@ -166,7 +166,7 @@ status: editorial-draft
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "On the cross God treated Jesus as if He lived my life, and now He treats me as if I lived Jesus's life."（在十字架上，神待耶穌，如同祂活過了我的人生；如今神待我，如同我活過了耶穌的人生。）
+> "On the cross, God treated Jesus as if He lived my life, and now He treats me as I live – as if I lived Jesus life."（在十字架上，神待耶穌，如同祂活過了我的人生；如今神待我，如同我活過了耶穌的人生。）
 > — John MacArthur, "The Ambassadors' Ministry of Reconciliation" (gty.org, sermon 80-311, 2006年7月23日), https://www.gty.org/sermons/80-311/the-ambassadors-ministry-of-reconciliation
 
 麥克阿瑟在講道與註釋中反覆強調，5:18-20的「和好」有兩個方向：神已經在十字架上完成了客觀的和好——祂「不將人的過犯歸到他們身上」；但人仍需要主觀地回應這和好，接受這代表君王前來傳遞和平條約的使者所發出的懇求（此處為筆者根據麥克阿瑟在多篇講道與 *MacArthur New Testament Commentary: 2 Corinthians* 中對「和好職分」一貫教導要點的歸納整理，並非逐字引文）。這解釋了保羅為何在5:20用近乎懇求的語氣說「我們替基督求你們與神和好」——這不是可有可無的邀請，乃是使者代表君王發出的迫切呼籲。

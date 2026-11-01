@@ -194,9 +194,9 @@ publisher: PubHub 三書精讀系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "It's like trying to stamp out a fire, and the harder you jump on it the more you scatter the embers."
+> "It's kind of like trying to stamp out a fire, and the harder you jump on it the more you scatter the embers and start fires all over everywhere."
 >
-> 「這就像想要踩熄一團火——你踩得越用力，火星反倒被踩得越四散。」
+> 「這有點像想要踩熄一團火——你踩得越用力，火星反倒越四散，到處都燃起火來。」
 >
 > — John MacArthur, *"The Persecuted Church Reaches Out"*（論徒8:1-8），gty.org, sermon 1725
 

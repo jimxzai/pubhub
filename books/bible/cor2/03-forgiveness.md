@@ -166,9 +166,9 @@ status: editorial-draft
 
 > — John MacArthur, "The Blessings of Forgiveness, Part 2" (gty.org, sermon 47-9), on 2 Corinthians 2:7-11, https://www.gty.org/library/sermons-library/47-9/the-blessings-of-forgiveness-part-2
 
-麥克阿瑟也指出，保羅在此把「肯不肯饒恕」直接與撒但的工作連結起來：
+保羅在2:10-11把「肯不肯饒恕」直接與撒但的工作連在一起（經文見上）；麥克阿瑟則點出不肯饒恕的一個主要根源：
 
-> "We have to forgive in order that no advantage be taken of us by Satan for we're not ignorant of his schemes."（我們必須饒恕，免得被撒但佔了便宜，因我們並非不知道他的詭計。）
+> "One of the chief causes of an unforgiving heart, of course, is pride. Your ego is wounded and you're not going to just take that."（不肯饒恕的心，一個主要的根源當然是驕傲。你的自我受了傷，你就不肯就這麼算了。）
 
 他也把懲戒該收手的時刻講得極其清楚：
 

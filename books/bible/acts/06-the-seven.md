@@ -171,9 +171,9 @@ publisher: PubHub 三書精讀系統
 ### 麥克阿瑟 (John MacArthur)
 
 
-> "Biblical church organization accommodates what the Spirit of God is already doing... The church must accommodate what the Spirit is doing, not make the Spirit accommodate what the committee decided ought to be done."
+> "all biblical church organization appears to be accommodating what the Spirit of God is already doing... The church must accommodate what the Spirit is doing, not make the Spirit accommodate what the committee decided ought to be done."
 >
-> 「合乎聖經的教會組織，是要配合聖靈已經在做的工作……教會必須順著聖靈正在做的工作去調整，而不是要聖靈去遷就委員會議決的事。」
+> 「一切合乎聖經的教會組織，看起來都是在配合聖靈已經在做的工作……教會必須順著聖靈正在做的工作去調整，而不是要聖靈去遷就委員會議決的事。」
 >
 > — John MacArthur, *"Spiritual Organization"*（sermon 1720，論徒6:1-7，1972年11月26日），Grace to You, gty.org
 

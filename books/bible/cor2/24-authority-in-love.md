@@ -185,7 +185,7 @@ status: editorial-draft
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "The signs of a true apostle were performed among you… Miracles are rare in redemptive history—extremely rare in redemptive history."（「使徒的憑據在你們中間顯出來……神蹟在救贖歷史中是稀少的——是極其稀少的。」）
+> "The signs of a true apostle were performed among you… Miracles are rare in redemptive history. They are rare in redemptive history – extremely rare in redemptive history."（「使徒的憑據在你們中間顯出來……神蹟在救贖歷史中是稀少的。它們在救贖歷史中是稀少的——是極其稀少的。」）
 
 > — John MacArthur, "The Signs of an Apostle, Part 1" (gty.org, sermon 47-85), https://www.gty.org/sermons/47-85/the-signs-of-an-apostle-part-1
 

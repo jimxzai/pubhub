@@ -210,9 +210,9 @@ publisher: 三書精讀出版系統
 
 **「盡諸般的義」是甚麼心志**：麥克阿瑟把太3:15 那句話還原成一句最樸素的順服。
 
-> "If God said this is to be done, then I will do this. It is that perfect obedience of Christ to the will of God."
+> "If God said this is to be done, then I will do this. It is that perfect obedience of Christ that is imputed to you and to me when we put our trust in Him."
 >
-> 若神說這事當行，我就去行。這正是基督對神旨意那完全的順服。
+> 若神說這事當行，我就去行。這正是基督那完全的順服，當我們信靠祂的時候，這順服就被歸算給你我。
 
 **主動的義：祂活出的，記在你的帳上**：
 
@@ -220,9 +220,9 @@ publisher: 三書精讀出版系統
 >
 > 基督以完全的順服活出完全的生命，遵行神所吩咐的一切，包括受洗在內，為要叫祂完全的生命可以歸到你的帳上。
 
-> "His perfectly righteous life that has been credited to your account as if you lived it. That's what justification means."
+> "it is that perfectly righteous life that has been credited to your account as if you lived it. That's what justification means."
 >
-> 祂全然公義的生命被歸算到你的帳上，就如同你自己活過一樣。這就是稱義的意思。
+> 正是那全然公義的生命，被歸算到你的帳上，就如同你自己活過一樣。這就是稱義的意思。
 
 **被動的義：刑罰仍須付清**：
 

@@ -42,6 +42,26 @@ from pathlib import Path
 # URL (verified against a real 4-digit code), so both are worth recognizing
 # rather than reporting every legacy-numbered citation as NOCODE.
 CODE_RE = re.compile(r"(?:sermon\s+(?:code\s+)?|編號\s*|#|/\s*)([0-9]{2,5}(?:-[0-9]{1,3})?)", re.I)
+# Codes listed after a recognised one: "sermon 90-241, 90-242", "編號 47-27、47-28", "47-27 & 47-28".
+# Only a list that CONTINUES a code is read, so dates like "1994年10-11月" are not mistaken for codes.
+MORE_CODES_RE = re.compile(r"(?:\s*(?:,|，|、|&|及|和)\s*)([0-9]{2}-[0-9]{1,3})(?![0-9-])")
+
+
+def find_codes(line):
+    """Every sermon code a source line cites, in order, including a comma/&-separated tail."""
+    out = []
+    for m in CODE_RE.finditer(line):
+        out.append(m.group(1))
+        pos = m.end()
+        while True:
+            more = MORE_CODES_RE.match(line, pos)
+            if not more:
+                break
+            out.append(more.group(1))
+            pos = more.end()
+    return list(dict.fromkeys(out))  # de-duplicate, keep order
+
+
 URL_RE = re.compile(r"https://www\.gty\.org/\S+?/([0-9]{2}-[0-9]{1,3})/([a-z0-9\-]+)")
 QUOTE_RE = re.compile(r'^> "(.+?)"', re.M)
 SRC_RE = re.compile(r"^> — .*$", re.M)
@@ -52,6 +72,9 @@ def norm(text):
     for a, b in [("’", "'"), ("‘", "'"), ("“", '"'), ("”", '"'),
                  ("—", " "), ("–", " "), ("…", "...")]:
         text = text.replace(a, b)
+    # gty.org transcripts drop macron vowels from transliterated Greek ("archēgos" prints as
+    # "archgos"). Remove them from BOTH sides so a correctly transliterated quote still matches.
+    text = re.sub("[āēīōūĀĒĪŌŪ]", "", text)
     text = re.sub(r"[^\w\s]", " ", text)
     return re.sub(r"\s+", " ", text).strip().lower()
 
@@ -88,7 +111,7 @@ def groups(section):
             pending.append(q.group(1))
             continue
         if line.startswith("> —") or "出處" in line:
-            codes = CODE_RE.findall(line) or [g[0] for g in URL_RE.findall(line)]
+            codes = find_codes(line) or [g[0] for g in URL_RE.findall(line)]
             if not codes and "同上" in line and last_code:
                 codes = [last_code]
             if codes:

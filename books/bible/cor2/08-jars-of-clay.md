@@ -175,7 +175,7 @@ vv.8-9的希臘原文以四組分詞構成鮮明的對比句式——θλιβό�
 論到vv.10-11「身上常帶著耶穌的死」，麥克阿瑟指出逼迫者真正想要摧毀的其實不是保羅這個人，乃是保羅所代表、所承載的基督：
 
 > "It isn't my life they want; it's Jesus' life they want. They can't get Him; they get me in His place."（「他們要的不是我的命，他們要的是耶穌的命。他們得不到祂，就把我當作祂的替身來攻擊。」）
-> — John MacArthur, "Priceless Treasure in Clay Pots, Part 1 & 2" (gty.org 講道 47-27, 47-28，1994年10-11月), https://www.gty.org/sermons/47-27/priceless-treasure-in-clay-pots-part-1
+> — John MacArthur, "Priceless Treasure in Clay Pots, Part 2" (gty.org 講道 47-28，1994年11月6日), https://www.gty.org/sermons/47-28/priceless-treasure-in-clay-pots-part-2
 
 ---
 
