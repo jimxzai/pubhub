@@ -44,6 +44,18 @@ CHECKS = [
     ("sermons", "verify-sermon-quotes.py", "hard"),
     ("ledger", "check-citation-ledger.py", "hard"),
 ]
+# check-citation-ledger checks Morgan and MacArthur by default. A book that uses other
+# commentators must be checked against ITS commentators, or the default run reads another
+# commentator's chapter list as Morgan's and reports every chapter as overclaimed. Each entry
+# below was run and returns "ledger matches the book" against the named commentators. Only add a
+# book here after running it by hand; never to silence a failure.
+LEDGER_COMMENTATORS: dict[str, list[str]] = {
+    "joshua": ["加爾文", "亨利", "梅爾", "司布真"],
+    "leviticus": ["波納", "亨利", "麥克阿瑟"],
+    "proverb": ["布祺斯", "亨利"],  # its ledger states MacArthur is cited in none of the 31 chapters
+    "numbers": ["摩根"],  # its ledger states MacArthur is not used
+}
+
 NOT_RUN = [
     "verify-citations.py --source <work.txt>   (needs the commentary source file)",
     "verify-prose-citations.py --self <char>   (needs the book's self-reference character)",
@@ -77,9 +89,13 @@ def resolve(arg: str, slug_to_dir: dict[str, str]) -> Path | None:
 
 
 def run_check(book: Path, name: str, script: str, severity: str) -> tuple[str, str, str]:
+    extra: list[str] = []
+    if name == "ledger":
+        for c in LEDGER_COMMENTATORS.get(book.name.lower(), []):
+            extra += ["--commentator", c]
     try:
         proc = subprocess.run(
-            [sys.executable, str(SCRIPTS / script), str(book)],
+            [sys.executable, str(SCRIPTS / script), str(book), *extra],
             capture_output=True, text=True, timeout=300, cwd=ROOT,
         )
     except subprocess.TimeoutExpired:
