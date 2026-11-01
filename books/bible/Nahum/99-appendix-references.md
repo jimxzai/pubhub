@@ -27,7 +27,7 @@ publisher: 三書精讀出版系統
 | 中文 | 和合本 (CUV) | 以 `ai-eden.com` 和合本（API `/api/bible/nahum/{1,2,3}?t=CUV`）為底本，與信望愛 `bible.fhl.net`（unv）逐節比對：47 節中 35 節完全相同，其餘 12 節只差標點、異體字或註解括號：1:4「利巴嫩／黎巴嫩」、1:11 與 2:11、3:15「裏／裡」、2:2 與 2:13 fhl 加括號或引號、2:9 與 3:15「罷／吧」、2:12「他／牠」、3:1 逗號／破折號、3:8 ai-eden 保留小字註「（或）」、3:8-10「他／她」。依全庫政策，以 ai-eden 為準；「裡」一律作「裏」。 |
 | 英文 | NASB 1995 | 取自 `biblehub.com/nasb/nahum/{1,2,3}.htm`（頁首標 NASB 1995）；補充字依 biblehub 版本保留斜體。**本書沒有做第二個來源（如 biblegateway）的逐節比對。** |
 | 希伯來文 | WLC（OSHB） | 取自 openscriptures/morphhb 公開文本（`wlc/Nah.xml`），含詞性標注；該文本用希伯來文節號（和合本 1:15 ＝ 希伯來 2:1，和合本 2:n ＝ 希伯來 2:n+1），`sources/count_hebrew.py` 已轉換為和合本節號。書中所有字數都用程式從這個文本計數，計數結果見下。 |
-| 其他經卷 | 和合本 | 書中引用的其他經文，逐節以信望愛和合本 JSON 介面取得後照錄（快取在 `sources/scripture/xref/`），並用 `scripts/verify-prose-citations.py books/bible/Nahum --self 鴻` 逐條機器核對：73 條行文引用，餘 1 條誤報（啟19:1-2，原文中有括號註解，書中引句略去）；`scripts/check-prose-scripture-quotes.py`：1 條「未在該單元經文中」，是第五章導言中對 1:6 的跨章引用，屬刻意。 |
+| 其他經卷 | 和合本 | 書中引用的其他經文，逐節以信望愛和合本 JSON 介面取得後照錄（快取在 `sources/scripture/xref/`），並用 `scripts/verify-prose-citations.py books/bible/Nahum --self 鴻` 逐條機器核對：80 條行文引用，餘 1 條誤報（啟19:1-2，原文中有括號註解，書中引句略去）；`scripts/check-prose-scripture-quotes.py`：1 條「未在該單元經文中」，是第五章導言中對 1:6 的跨章引用，屬刻意。 |
 
 **希伯來文字數**（用 `sources/count_hebrew.py` 重現；節號為和合本）：
 
@@ -60,10 +60,11 @@ publisher: 三書精讀出版系統
 
 ## 三、引文核對記錄——摩根 (G. Campbell Morgan)
 
-引自 "The Message of Nahum," *Living Messages of the Books of the Bible* (New York: Fleming H. Revell, 1912)，該篇約在 pp. 257-272，取自 archive.org `livingmessagesof0000gcam_p4q1`（OCR）；第二份對照用 `livingmessagesof0000unse`。本書共有 12 處摩根引句（不重複 11 句，一句在兩處出現），用 `scripts/verify-citations.py`（章節內 9 句）加上本書自寫的逐段比對（含卷首各章，見下「核對方法」）：**12/12 逐字相符**（其中第一章 p. 264 一句，摩根是引述普西〔Pusey〕並表同意，書中已註明）。
+引自 "The Message of Nahum," *Living Messages of the Books of the Bible* (New York: Fleming H. Revell, 1912)，該篇約在 pp. 257-272，取自 archive.org `livingmessagesof0000gcam_p4q1`（OCR）；第二份對照用 `livingmessagesof0000unse`。本書共有 15 處摩根引句（不重複 13 句，兩句各出現兩處），用 `scripts/verify-citations.py`（章節內 9 句）加上本書自寫的逐段比對（含卷首各章，見下「核對方法」）：**15/15 逐字相符**（其中第一章 p. 264 一句，摩根是引述普西〔Pusey〕並表同意，書中已註明）。
 
 | 出現處 | 頁碼 | 引句數 |
 |------------------------------------------------|----------------------------------|--------------|
+| 卷首〈報仇的神〉 | 261, 268, 270 | 3 |
 | 卷首〈啟示的次序與神的計劃〉 | 258, 267 | 2 |
 | 第 1 章 | 260, 261, 264, 268 | 4 |
 | 第 2 章 | 267, 267 | 2 |
@@ -77,11 +78,12 @@ publisher: 三書精讀出版系統
 
 ## 四、引文核對記錄——加爾文 (John Calvin)
 
-引自 *Commentaries on Jonah, Micah, and Nahum*, tr. John Owen (Edinburgh: Calvin Translation Society)，取自 CCEL 公有領域文本（`calcom28`，Nahum 部分）。CCEL 文本沒有印本頁碼，故書中以經節標示位置。共有 19 處引句（不重複 17 句，兩句各出現兩處），**19/19 逐字相符**。書中所引都是加爾文正文；Owen 的編者註腳（Ed.）不是加爾文的話，凡提到編者註腳之處（第二、三、五章〈背景〉，第三章〈原文研讀〉），都明寫「加爾文英譯本的編者」，並不加引號。
+引自 *Commentaries on Jonah, Micah, and Nahum*, tr. John Owen (Edinburgh: Calvin Translation Society)，取自 CCEL 公有領域文本（`calcom28`，Nahum 部分）。CCEL 文本沒有印本頁碼，故書中以經節標示位置。共有 22 處引句（不重複 18 句，兩句各出現兩至三處），**22/22 逐字相符**。書中所引都是加爾文正文；Owen 的編者註腳（Ed.）不是加爾文的話，凡提到編者註腳之處（第二、三、五章〈背景〉，第三章〈原文研讀〉），都明寫「加爾文英譯本的編者」，並不加引號。
 
 | 出現處 | 論及經節 | 引句數 |
 |-----------------------------------------------------|-------------------------------|------------|
 | 卷首〈位置〉與〈啟示的次序與神的計劃〉 | 緒論、1:2 | 3 |
+| 卷首〈報仇的神〉 | 1:2、1:3、3:1 | 3 |
 | 第 1 章 | 緒論、1:2、1:2、1:3 | 5 |
 | 第 2 章 | 1:9、1:15 | 2 |
 | 第 3 章 | 2:1-2、2:11-12、2:13 | 3 |
@@ -125,8 +127,8 @@ publisher: 三書精讀出版系統
 ## 七、核對方法
 
 - `scripts/verify-citations.py`：逐段核對加爾文、亨利、摩根各小節下的 `> "引句"`（含 OCR 容錯）：章節內 加爾文 13／亨利 8／摩根 9，全部逐字相符。
-- 另以一段自寫的逐字比對（於 2026-10-31 在作者側執行，未存為腳本），核對全書含卷首各章所有「引句＋破折號出處」的引文，對象是 `sources/commentary/` 內三份原文（亨利為 `henry-nahum.txt`，加爾文為 `calvin-nahum-clean.txt`，摩根為兩份 OCR）：40/40 通過。
-- `scripts/verify-prose-citations.py books/bible/Nahum --self 鴻`：73 條行文中的經文引用，餘 1 條誤報（見上）。
+- 另以一段自寫的逐字比對（於 2026-10-31 在作者側執行，未存為腳本），核對全書含卷首各章所有「引句＋破折號出處」的引文，對象是 `sources/commentary/` 內三份原文（亨利為 `henry-nahum.txt`，加爾文為 `calvin-nahum-clean.txt`，摩根為兩份 OCR）：46/46 通過。
+- `scripts/verify-prose-citations.py books/bible/Nahum --self 鴻`：80 條行文中的經文引用，餘 1 條誤報（見上）。
 - `scripts/gen-nahum-indices.py --check`：索引與各章同步。
 - `scripts/check-book-spine.py books/bible/Nahum`：骨幹四項全過。
 
@@ -135,7 +137,7 @@ publisher: 三書精讀出版系統
 ## 八、本書沒有做到的
 
 - **只經一輪代理校對。**本書從空目錄建成；作者側做過逐句機器核對後，由兩位唯讀代理分段向原始來源重新取證（共報出 6 項事實或譯文錯誤、34 項偏重或過度的說法，已逐項修正或加註），沒有第二位人類讀者通讀。歷來經驗是，這類獨立校對會抓出作者側看不見的缺陷，所以本書的自評分數不能當作定論。
-- **沒有精簡輪。** 另外，`gen-nahum-indices.py` 已補上緊接「參／見」的引用與「啟示錄」寫法；「王下18:19-19:37」這類跨章範圍仍只記到起點章節。各章的領受要點、歷代注疏、老弟兄查經與默想問題之間，可能仍有重述。
+- **精簡輪只做了極有限的一步**：刪去四章與分卷扉頁或提問式對話重複的默想問題；各章領受要點與老弟兄查經之間仍可能有重述。 另外，`gen-nahum-indices.py` 已補上緊接「參／見」的引用與「啟示錄」寫法；「王下18:19-19:37」這類跨章範圍仍只記到起點章節。各章的領受要點、歷代注疏、老弟兄查經與默想問題之間，可能仍有重述。
 - NASB 1995 只有一個來源（biblehub）。
 - 摩根頁碼只依 OCR 頁眉；摩根的《全本聖經講解》（*An Exposition of the Whole Bible*）中論那鴻書的部分，本書未取得，未引用。
 - 原文研讀的字義說明沒有對照 BDB／HALOT 詞條。

@@ -132,9 +132,10 @@ add_front "$INPUT_DIR/000-preface.md"
 # 卷首 · 定位
 # ============================================================
 add_volume "卷首 · 定位 (Orientation)" \
-    "讀正文之前先讀這三章：地圖、座標、骨幹——啟示的次序與神的計劃。"
+    "讀正文之前先讀這四章：地圖、座標、最難的問題、骨幹——啟示的次序與神的計劃。"
 add_front "$INPUT_DIR/00-overview.md"
 add_front "$INPUT_DIR/00a-nahum-position.md"
+add_front "$INPUT_DIR/00b-the-avenging-god.md"
 add_front "$INPUT_DIR/00c-revelation-order.md"
 
 # ============================================================

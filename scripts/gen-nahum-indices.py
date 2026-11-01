@@ -23,6 +23,7 @@ SOURCES = [
     ("000-preface.md", "前言"),
     ("00-overview.md", "概覽"),
     ("00a-nahum-position.md", "位置"),
+    ("00b-the-avenging-god.md", "報仇"),
     ("00c-revelation-order.md", "骨幹"),
     ("01-who-can-stand.md", "第一章"),
     ("02-feet-on-the-mountains.md", "第二章"),
