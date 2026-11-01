@@ -11,7 +11,7 @@ were not typed from memory. Counts of Hebrew words come from
 | `scripture/cuv-nahum.txt` | ai-eden.com `https://www.ai-eden.com/api/bible/nahum/{1,2,3}?t=CUV` (`textZh`), 裡→裏 | Primary 和合本 text used in the book; tab-separated `chapter:verse<TAB>text` |
 | `scripture/cuv-nahum-{1,2,3}-aieden.json` | same, raw JSON | |
 | `scripture/cuv-nahum-fhl.txt` | bible.fhl.net `json/qb.php` (unv, `chineses=鴻`) | Second witness; differs from ai-eden in 12 of 47 verses (punctuation, variant characters, 他/她, small notes — see `99-appendix-references.md`) |
-| `scripture/nasb1995-nahum.txt` | biblehub.com `https://biblehub.com/nasb/nahum/{1,2,3}.htm` (header "NASB 1995") | Italics = supplied words; section headings removed. **No second witness was compared.** |
+| `scripture/nasb1995-nahum.txt` | biblehub.com `https://biblehub.com/nasb/nahum/{1,2,3}.htm` (header "NASB 1995") | Italics = supplied words; section headings removed. Second witness: biblegateway.com NASB1995 `Nahum 1–3`, compared 2026-10-31 (47/47 identical at letter level; not stored). |
 | `scripture/xref/*.json` | bible.fhl.net unv | Every other 和合本 verse quoted in the prose, cached by `xref.py` |
 | `hebrew/wlc-nah.xml` | github.com/openscriptures/morphhb `wlc/Nah.xml` | WLC with OSHB lemma tags; **Hebrew verse numbering** (Heb 2:1 = English 1:15) |
 | `hebrew/wlc-nah-plain.txt` | derived from the above | cantillation marks stripped, **English verse numbering**, one verse per line |
