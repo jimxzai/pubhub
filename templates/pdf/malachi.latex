@@ -1,0 +1,769 @@
+% PubHub Book of Malachi Template (cover/colophon after templates/pdf/revelation.latex via jude.latex; derived from obadiah.latex)
+% Professional Bible Study Book Layout
+% Bilingual Chinese/English with Hebrew word studies (hebrewfont carries Scale=1.35 so pointed text is legible)
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}
+\setmonofont{Songti SC}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% GREEK / HEBREW WORD STUDY — ucharclasses, full block coverage
+%% via \setTransitionTo (sets the ENTERING direction only, so
+%% declaration order cannot clobber an earlier block — see
+%% .claude/skills/eat-bible/references/gotchas.md before editing this).
+%% \uckeep carries series/shape (bold/italic) across the font switch.
+%% ============================================
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew, Scale=1.35]
+\newfontfamily\latinrun{Songti SC}[
+  ItalicFont={Times New Roman Italic},
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  BoldItalicFont={Times New Roman Bold Italic}]
+\newfontfamily\cjkrun{Songti SC}[
+  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2}, ItalicFont=Kaiti SC]
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+
+%% Classical English typeface for the front/back cover — Baskerville for
+%% running text, Didot reserved for the large display title (invoked
+%% explicitly). Matches templates/pdf/revelation.latex's cover convention.
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
+\newfontfamily\didotfont{Didot}
+\newcommand{\baskervillefont}{\basklatin}
+\newcommand{\ucLatinRun}{\uckeep{\latinrun}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKUnifiedIdeographsExtensionA}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+
+%% ============================================
+%% PAGE GEOMETRY - Fixed margins (more conservative)
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Professional Bible Study
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - dawn claret for Malachi (the sky before the sun of righteousness rises)
+\definecolor{ChapterDawn}{RGB}{104,38,64}       % Dawn claret for chapters
+\definecolor{ScriptureGold}{RGB}{165,125,55}      % Gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{85,60,45}      % Warm brown for commentary
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{252,250,245}       % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{251,244,247}           % Light dawn blush for Greek/Hebrew
+\definecolor{ApplicationBg}{RGB}{248,252,248}     % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Cross decoration
+\newcommand{\crosssymbol}{%
+\begin{tikzpicture}[scale=0.15]
+  \draw[color=ScriptureGold,line width=1.5pt] (0,-1) -- (0,1);
+  \draw[color=ScriptureGold,line width=1.5pt] (-0.6,0.4) -- (0.6,0.4);
+\end{tikzpicture}%
+}
+
+% Words of Jesus (echoed in commentary, e.g. Sermon on the Mount parallels)
+\definecolor{JesusRed}{RGB}{155,35,35}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% Matches templates/pdf/revelation.latex's cover convention, retoned to
+%% this book's dawn-claret/gold palette instead of Revelation's navy.
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+\usepackage{pgfornament}
+
+% Cover gradient (near-black indigo at top to the book's own
+% ChapterDawn at bottom: the sky just before sunrise)
+\definecolor{DawnDark}{RGB}{16,9,30}
+\definecolor{DawnLight}{RGB}{104,38,64}
+
+% Full-bleed background, painted in the shipout background hook so it
+% bleeds to the true physical page edge and does not disturb the
+% \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=DawnDark,bottom color=DawnLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the front cover and the
+% closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% A single fleuron, used as a divider accent (flanked by rules) on the
+% full-bleed cover pages and the colophon page. Ornament 70 (a symmetric
+% baroque flourish) reads far more clearly at small sizes than 88 (a bare
+% flourish-with-center-dot that thins to an almost invisible line when used
+% alone with generous surrounding whitespace, as on a colophon page).
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.7cm,color=#1]{70}%
+}
+
+% A simple, classical Latin cross with a small gold roundel at the crossing
+% — the book's explicit Christian emblem, reserved for the front cover and
+% colophon (the two pages that frame the reader's first and last impression).
+\newcommand{\coveremblem}[1][CoverGoldBright]{%
+\begin{tikzpicture}[scale=0.24]
+  \draw[color=#1,line width=1.3pt,line cap=round] (0,-1.15) -- (0,1.15);
+  \draw[color=#1,line width=1.3pt,line cap=round] (-0.62,0.45) -- (0.62,0.45);
+  \fill[color=#1] (0,0.45) circle (0.09);
+\end{tikzpicture}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{240,238,222}
+\definecolor{CoverGoldBright}{RGB}{200,168,88}
+\definecolor{CoverMuted}{RGB}{206,188,200}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet (must load
+% after hyperref) — otherwise pdfinfo reports no Title/Author/Subject at all.
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterDawn,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  pdftitle={瑪拉基書研讀 — The Book of Malachi Deep Study},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={瑪拉基書逐段研讀：神先說「我曾愛你們」，人問八次「在何事上」，神以差遣回答},
+  pdfkeywords={瑪拉基書, Malachi, 聖經研讀, Bible study, 和合本, NASB, 愛, 使者, 公義的日頭, 以利亞, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
+}
+
+%% ============================================
+%% TABLES - with proper width control
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+% Set table width to text width - constrain tables
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+% Pandoc 3.x table support
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Greek/Hebrew; \small
+% keeps long 註解 cells from wrapping to a few characters per line.
+\AtBeginEnvironment{longtable}{\small}
+
+% Style table rules
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\setlength{\headheight}{22pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+% Chapter styling
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterDawn} 第 \thechapter\ 章
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterDawn} #1\par\nobreak
+    \vskip 12pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterDawn} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\hrule height 1.5pt}
+    \vskip 15pt
+  }}
+
+% Section styling
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterDawn}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+%% ============================================
+%% SECTION NUMBERING AND TOC DEPTH
+%% secnumdepth=0 — no "3.7.2 ..." numbering on body headings or in running
+%% heads. tocdepth=0 — contents lists chapters only. The build script's
+%% --toc-depth/-V tocdepth do NOT set this on their own; the LaTeX counter
+%% must be set here (see .claude/skills/eat-bible/references/gotchas.md).
+%% ============================================
+\setcounter{secnumdepth}{0}
+\setcounter{tocdepth}{0}
+
+% book class's default \chaptermark prints "Chapter N. <title>" (English word)
+% in the running head, redundant with the Chinese 「第N章」already in the title.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+% \chapter* (preface, orientation chapters, appendices, afterword) never
+% calls \chaptermark, so without this patch the verso running head keeps
+% showing the last NUMBERED chapter's title on every front/back-matter page.
+\makeatletter
+\apptocmd{\@schapter}{\markboth{#1}{}}{}{\PackageWarning{jude}{could not patch \string\@schapter}}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING - extra room for CJK text
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+  % paragraph gap inside quotes: separates hymn stanzas and the English/Chinese
+  % halves of a hymn, which otherwise run together at the body 0.3em
+  \setlength{\parskip}{0.6em}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING - aggressive for CJK
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{0.9cm}
+
+\coveremblem[CoverGoldBright]
+
+\vspace{0.4cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+\fleuron[CoverGoldBright]\hspace{0.3cm}{\color{CoverGoldBright}\rule{1.6in}{0.4pt}}\hspace{0.3cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 我曾愛你們}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} I Have Loved You — The Book of Malachi}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 瑪拉基書研讀}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A Study of the Book of Malachi}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+耶和華說：我曾愛你們。你們卻說：你在何事上愛我們呢？\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} "I have loved you," says the LORD. But you say, "How have You loved us?" — Malachi 1:2}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 神先說了愛，人問了八次，神以差遣回答}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} God speaks love first, the people ask eight times, and God answers by sending}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Title page
+\begin{titlepage}
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.8cm}
+
+% Decorative cross and line
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{36}{42}\selectfont\bfseries\color{ChapterDawn} 我曾愛你們}\\[0.2cm]
+{\large\itshape\color{LightGray} I Have Loved You}
+
+\vspace{0.7cm}
+
+% Book title
+{\fontsize{22}{28}\selectfont\bfseries 瑪拉基書研讀}\\[0.15cm]
+{\normalsize A Study of the Book of Malachi}
+
+\vspace{0.6cm}
+
+% Key verse in box
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4in}
+\centering
+\vspace{0.3cm}
+\small\itshape\color{CommentaryBrown}
+但向你們敬畏我名的人必有公義的日頭出現，其光線有醫治之能。\\[0.2em]
+\footnotesize But for you who fear My name, the sun of righteousness will rise\\
+with healing in its wings. — Malachi 4:2
+\vspace{0.3cm}
+\end{minipage}
+}
+
+\vspace{0.8cm}
+
+% Book Structure diagram — five boxes, one per step of the order of revelation
+\begin{tikzpicture}
+  \node[font=\footnotesize\bfseries,text=ChapterDawn] at (0,2.9) {Book Structure 書卷結構};
+  \node[draw=ChapterDawn,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] at (-5.625,1.7) {1:1-5 Love};
+  \node[font=\scriptsize,text=LightGray] at (-5.625,1.1) {愛};
+  \node[draw=ChapterDawn,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] at (-3.375,1.7) {1:6–2:9 Name};
+  \node[font=\scriptsize,text=LightGray] at (-3.375,1.1) {名};
+  \node[draw=ChapterDawn,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] at (-1.125,1.7) {2:10-16 Covenant};
+  \node[font=\scriptsize,text=LightGray] at (-1.125,1.1) {約};
+  \node[draw=ChapterDawn,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] at (1.125,1.7) {2:17–3:5 Messenger};
+  \node[font=\scriptsize,text=LightGray] at (1.125,1.1) {使者};
+  \node[draw=ChapterDawn,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] at (3.375,1.7) {3:6-12 Turn};
+  \node[font=\scriptsize,text=LightGray] at (3.375,1.1) {轉向};
+  \node[draw=ChapterDawn,fill=ScriptureBg,rounded corners,minimum width=2.05cm,minimum height=0.7cm,font=\tiny] at (5.625,1.7) {3:13–4:6 Day};
+  \node[font=\scriptsize,text=LightGray] at (5.625,1.1) {日子};
+  \draw[->,color=ScriptureGold,thick] (-4.59,1.7) -- (-4.41,1.7);
+  \draw[->,color=ScriptureGold,thick] (-2.34,1.7) -- (-2.16,1.7);
+  \draw[->,color=ScriptureGold,thick] (-0.09,1.7) -- (0.09,1.7);
+  \draw[->,color=ScriptureGold,thick] (2.16,1.7) -- (2.34,1.7);
+  \draw[->,color=ScriptureGold,thick] (4.41,1.7) -- (4.59,1.7);
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=11.6cm,minimum height=0.7cm,font=\small\bfseries,text=CommentaryBrown] at (0,-0.1) {I Have Loved You (1:2) \ensuremath{\rightarrow} How? (\ensuremath{\times}8) \ensuremath{\rightarrow} I Will Send (3:1; 4:5) \ensuremath{\rightarrow} Lest I Strike with a Curse (4:6)};
+  \node[font=\scriptsize,text=LightGray] at (0,-0.75) {我曾愛你們 \ensuremath{\rightarrow} 在何事上（八次）\ensuremath{\rightarrow} 我要差遣 \ensuremath{\rightarrow} 免得我來咒詛遍地};
+\end{tikzpicture}
+
+\vfill
+
+% Author info
+{\normalsize\color{ScriptureGold}\bfseries 作者：瑪拉基（「我的使者」）}\\[0.1cm]
+{\footnotesize\color{LightGray} Author: Malachi, “my messenger”; the book gives no father, town or date}
+
+\vspace{0.5cm}
+
+$if(author)$
+{\normalsize $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small $date$}
+$else$
+{\small \today}
+$endif$
+
+\vspace{0.3cm}
+\crosssymbol\hspace{0.3cm}{\color{ScriptureGold}\rule{2.5in}{1pt}}\hspace{0.3cm}\crosssymbol
+
+\end{center}
+\end{titlepage}
+
+% Dialogue diagram page — God speaks, the people ask, God sends
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.5cm}
+{\Large\bfseries\color{ChapterDawn} 神說，人問，神差遣}\\[0.1cm]
+{\normalsize God Speaks, the People Ask, God Sends}
+
+\vspace{0.6cm}
+
+\begin{tikzpicture}
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=1.8cm,font=\small,align=center] (a) at (-4.6,3.2) {1:2 \ 我曾愛你們\\ \textit{I have loved you}\\ 神先開口 \ \ensuremath{\times}1};
+  \node[draw=ChapterDawn,fill=ScriptureBg,rounded corners,minimum width=4.6cm,minimum height=1.8cm,font=\small,align=center] (b) at (0,3.2) {你們卻說\\ \textit{But you say}\\ 在何事上？ \ \ensuremath{\times}8};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=3.4cm,minimum height=1.8cm,font=\small,align=center] (c) at (4.6,3.2) {2:2；2:4；3:1；4:5\\ \textit{I will send}\\ 神的差遣 \ \ensuremath{\times}4};
+  \draw[->,color=ScriptureGold,thick] (a) -- (b);
+  \draw[->,color=ScriptureGold,thick] (b) -- (c);
+
+  \node[draw=ChapterDawn,fill=ScriptureBg,rounded corners,minimum width=5.2cm,minimum height=1.3cm,font=\small,align=center] (m1) at (-3.2,0.6) {差遣的對象\\ \textit{咒詛、誡命、使者、以利亞}};
+  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=5.2cm,minimum height=1.3cm,font=\small,align=center] (m2) at (3.2,0.6) {兩次「日頭」\\ \textit{1:11 \ 4:2}};
+  \node[draw=ChapterDawn,fill=white,rounded corners,minimum width=9.6cm,minimum height=0.9cm,font=\small\bfseries,text=ChapterDawn,align=center] at (0,-1.4) {4:6 \ 免得我來咒詛遍地 \ \textit{lest I come and smite the land with a curse}};
+  \draw[->,color=ChapterDawn,thick] (m1) -- (-3.2,-0.95);
+  \draw[->,color=ScriptureGold,thick] (m2) -- (3.2,-0.95);
+\end{tikzpicture}
+
+\vspace{0.8cm}
+
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+全書五十五節，神先說「我曾愛你們」；人問了八次「在何事上」；神每一次都沒有收回那句話，到最後用差遣來回答：差遣咒詛與誡命（2:2；2:4）、差遣使者（3:1）、差遣以利亞（4:5）。「日頭」只出現兩次，1:11 與 4:2；全書最後一個詞是「咒詛」。
+\end{minipage}
+
+\vspace{0.5cm}
+{\footnotesize\color{LightGray} 「但向你們敬畏我名的人必有公義的日頭出現。」— 瑪拉基書 4:2}
+\end{center}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{瑪拉基書研讀 / Book of Malachi Study}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents
+\pagestyle{fancy}
+\renewcommand{\contentsname}{目錄 (Contents)}
+{\color{ChapterDawn}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\coveremblem[ScriptureGold]
+
+\vspace{0.5cm}
+
+\fleuron\hspace{0.3cm}{\color{ScriptureGold}\rule{1.3in}{0.4pt}}\hspace{0.3cm}\fleuron
+
+\vspace{1cm}
+
+{\small\itshape\color{CommentaryBrown} 因我─耶和華是不改變的，所以你們雅各之子沒有滅亡。}\\[0.4em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} "For I, the LORD, do not change; therefore you, O sons of Jacob, are not consumed." — Malachi 3:6}
+
+\vspace{1.2cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你看見耶穌了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Have you seen Jesus?}
+
+\vspace{1.4cm}
+
+{\color{ScriptureGold}\rule{0.9in}{0.4pt}}
+
+\vspace{0.5cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria — 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} אָהַבְתִּי אֶתְכֶם אָמַר יְהוָה}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "I have loved you," says the LORD} · 神的第一句話 (1:2)}
+
+\vspace{0.25cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.25cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.25cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+瑪拉基書是舊約的最後一卷，四章五十五節。神開口的第一句話是「我曾愛你們」；人回了八次「在何事上」——在何事上愛我們、輕看你的名、玷污你、為甚麼、煩瑣你、如何轉向、奪取你、向你說了甚麼。神沒有收回那句話，到最後用差遣來回答：差遣使者，差遣以利亞；而全書最後一個詞是「咒詛」，後面跟著「免得」。本書分六步逐節研讀全卷，以「啟示的次序」為骨幹，整合老弟兄的查經方法、加爾文、亨利與摩根的歷代注疏，以及麥克阿瑟在別處講道裏對瑪拉基書經節的解釋。
+
+\vspace{0.3cm}
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}M}{}alachi is the last book of the Old Testament: four chapters, fifty-five verses. The first words God speaks in it are “I have loved you,” and the people answer eight times, “How?”—how have You loved us, how have we despised Your name, how have we defiled You, how have we wearied You, how shall we return, how have we robbed You, what have we said against You. God never takes the sentence back. In the end He answers by sending: a messenger, then Elijah; and the last word of the book is “curse,” followed by “lest.” This study reads the whole book in six movements, built on the order of revelation, with Elder Wong’s way of reading Scripture, the commentary of John Calvin and Matthew Henry, G. Campbell Morgan’s exposition, and John MacArthur’s remarks on Malachi’s verses in sermons elsewhere.}
+\end{minipage}
+
+\vspace{0.25cm}
+
+{\small\bfseries\color{CoverCream} 六步：從愛到日子}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Six Movements}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cp{3.4in}l@{}}
+第一步 & 愛 \textit{\baskervillefont\color{CoverCream} I have loved you} & {\tiny\color{CoverMuted} 1:1-5}\\[0.25em]
+第二步 & 名 \textit{\baskervillefont\color{CoverCream} Where is My honor} & {\tiny\color{CoverMuted} 1:6–2:9}\\[0.25em]
+第三步 & 約 \textit{\baskervillefont\color{CoverCream} The wife of your covenant} & {\tiny\color{CoverMuted} 2:10-16}\\[0.25em]
+第四步 & 使者 \textit{\baskervillefont\color{CoverCream} The messenger of the covenant} & {\tiny\color{CoverMuted} 2:17–3:5}\\[0.25em]
+第五步 & 轉向 \textit{\baskervillefont\color{CoverCream} Turn to Me} & {\tiny\color{CoverMuted} 3:6-12}\\[0.25em]
+第六步 & 日子 \textit{\baskervillefont\color{CoverCream} The sun of righteousness} & {\tiny\color{CoverMuted} 3:13–4:6}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\itshape\color{CoverCream} 那時，敬畏耶和華的彼此談論。}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "Then those who feared the LORD spoke to one another" — Malachi 3:16}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.2cm}
+
+{\footnotesize\color{CoverMuted} \S\ Malachi Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}
