@@ -1,7 +1,7 @@
 {
-  "pdf": "/Users/jimxiao/Documents/GitHub/pubhub/output/romans-consolidated.pdf",
-  "sha256": "65fdbbf15794999b67bdb484172412833dbce700cc5a67b0a9fc968598f9f9ac",
-  "pages": 347,
+  "pdf": "/Users/jimxiao/dev/pubhub/output/romans-consolidated.pdf",
+  "sha256": "a2932839846dcc7f185be06960586fe0965e926545c8674d599f42fa5a086fa7",
+  "pages": 348,
   "method": "Actual PDF extraction; NFKC, case, punctuation and whitespace ignored; 裏/裡 and 衞/衛 folded. Not verbatim, context, translation or rights certification. Quote source candidates require attribution review. Scripture mismatches include possible extraction artifacts.",
   "provenance": "Reference caches recovered from /tmp/romans-edit.x22HaE on 2026-09-21; original retrieval metadata was not preserved. Source URLs reconstructed from prior research code and file metadata. Do not treat recovery date as retrieval date.",
   "scripture": [
@@ -8025,7 +8025,7 @@
           "sha256": "6dfd52c60a20c8b83f7c355c9bf63161fefc877aafca3974898d5fbc21e36ca4"
         }
       ],
-      "attribution_context": "\n「你說甚麼？有人會問：那麼每一個統治者都是神所揀選的嗎？他答：我不是這樣說。我\n此刻談的不是個別的統治者，而是這件事本身。要有統治者，有人治理、有人受治，萬事\n不至於一片混亂、百姓像波浪般東倒西歪——我說，這正是神智慧的工作。」（同上，on\n13:1）\n\n“For do not tell me of some one who makes an ill use of the thing, but look to the good order that\nis in the institution itself, and you will see the great wisdom of Him w"
+      "attribution_context": "\n「你說甚麼？有人會問：那麼每一個統治者都是神所揀選的嗎？他答：我不是這樣說。我\n此刻談的不是個別的統治者，而是這件事本身。要有統治者，有人治理、有人受治，萬事\n\n不至於一片混亂、百姓像波浪般東倒西歪——我說，這正是神智慧的工作。」（同上，on\n13:1）\n\n“For do not tell me of some one who makes an ill use of the thing, but look to the good order that\nis in the institution itself, and you will see the great wisdom of Him "
     },
     {
       "pages": [
@@ -8067,7 +8067,7 @@
     },
     {
       "pages": [
-        253
+        254
       ],
       "opening": "He asked to look at what I had read. I showed him; and he looked even further than I had read, and I",
       "quote_sha256": "438b30e53f0c3a083d9ca0ca2ba244702eb4b2cb5d592a5d40933f4c9f4049da",
@@ -8189,7 +8189,7 @@
     },
     {
       "pages": [
-        256
+        257
       ],
       "opening": "And that tells us that we are to submit to the government because government serves to restrain evil",
       "quote_sha256": "c9791feb8e437dcda2a9fe8abb52f72a885ffc37a9ce7833dd716d83056dc9c3",
@@ -8745,7 +8745,7 @@
     }
   ],
   "production": {
-    "fonts": 55,
+    "fonts": 52,
     "unembedded": [],
     "bookmarks": 259,
     "language": "zh-Hant"

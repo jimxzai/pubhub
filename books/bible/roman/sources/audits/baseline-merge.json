@@ -1,6 +1,6 @@
 {
   "baseline_sha256": "abed9a6294db5db9a9da7fc96a5e482d36013103ce74783048434339a515524b",
-  "pages": 347,
+  "pages": 348,
   "front_pages": 228,
   "unchanged_pages": 121,
   "chapter_pages": [
@@ -26,7 +26,7 @@
   "bookmarks": 259,
   "source_layout": "7 x 10 inches",
   "cover_metadata": "Edition 1.1 \u00b7 CUV \u00b7 NASB 1995 \u00b7 2026-09-20",
-  "result_sha256": "65fdbbf15794999b67bdb484172412833dbce700cc5a67b0a9fc968598f9f9ac",
+  "result_sha256": "a2932839846dcc7f185be06960586fe0965e926545c8674d599f42fa5a086fa7",
   "corrected_pages": [
     1,
     6,
