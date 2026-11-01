@@ -22,7 +22,7 @@ Scores are the book's own latest `docs/scores/` entry (AI-assigned, see the rubr
 | esther | esther | 199 | 0 | 4/4 | P | R | P | P | 9.5 | 2026-10-25 |
 | exodus | exodus | 559 | 24 | 4/4 | P | R | P | P | 9.4 | 2026-09-05 |
 | ezekiel | ezekiel | 585 | 32 | 4/4 | P | R | P | P | ? | 2026-10-26 |
-| ezra | ezra | 239 | 0 | 4/4 | F | R | P | P | ? | 2026-10-25 |
+| ezra | ezra | 239 | 0 | 4/4 | P | R | P | P | ? | 2026-10-25 |
 | galatian | galatian | — | — | 4/4 | P | R | P | P | 9.6 | 2026-09-13 |
 | genesis | genesis | 320 | 138 | 4/4 | P | R | F | – | 9.9 | 2026-09-19 |
 | gospel-of-john | gospel | 328 | 0 | 4/4 | P | R | P | – | — | — |
@@ -68,7 +68,7 @@ Scores are the book's own latest `docs/scores/` entry (AI-assigned, see the rubr
 | Zapphaniah | zephaniah | 141 | 0 | 4/4 | P | R | P | P | 9.2 | 2026-10-31 |
 | zechariah | zechariah | 266 | 0 | 4/4 | P | R | P | P | 9.3 | 2026-10-31 |
 
-**61 book directories** · 20 failing checks · 59 with review candidates.
+**61 book directories** · 19 failing checks · 59 with review candidates.
 
 Directories under `books/bible/` with **no build script** (legacy, translation variants, drafts), not covered above: `books`, `gospel-harmony`, `gospel-of-john-nasb`, `gospel-of-john-niv`, `gospel-of-john-nkjv`, `gospel-of-john-translations`, `gospel-of-matthew`, `johannine-epistles`, `john-thursday-wong`, `life-of-christ`, `sam1-2-chroni1-2`, `samuel-chronicles`. Add them with `--include-unmapped`.
 

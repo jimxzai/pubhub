@@ -108,6 +108,9 @@ def main():
             files.extend(sorted(
                 p for p in t.rglob("*.md")
                 if not EXCLUDED_DIRS & set(p.relative_to(t).parts[:-1])
+                # Hidden folders (.sources, .git, ...) hold working notes and source texts that
+                # are never built; a proofreading note that *mentions* \jesus{**x**} is not markup.
+                and not any(part.startswith(".") for part in p.relative_to(t).parts[:-1])
             ))
         else:
             files.append(t)
