@@ -60,7 +60,7 @@ publisher: 三書精讀出版系統
 
 ## 三、引文核對記錄——摩根 (G. Campbell Morgan)
 
-引自 "The Message of Nahum," *Living Messages of the Books of the Bible* (New York: Fleming H. Revell, 1912)，該篇約在 pp. 257-272，取自 archive.org `livingmessagesof0000gcam_p4q1`（OCR）；第二份對照用 `livingmessagesof0000unse`。本書共引摩根 12 句，用 `scripts/verify-citations.py`（章節內 9 句）加上本書自寫的逐段比對（含卷首各章，見下「核對方法」）：**12/12 逐字相符**（其中第一章 p. 264 一句，摩根是引述普西〔Pusey〕並表同意，書中已註明）。
+引自 "The Message of Nahum," *Living Messages of the Books of the Bible* (New York: Fleming H. Revell, 1912)，該篇約在 pp. 257-272，取自 archive.org `livingmessagesof0000gcam_p4q1`（OCR）；第二份對照用 `livingmessagesof0000unse`。本書共有 12 處摩根引句（不重複 11 句，一句在兩處出現），用 `scripts/verify-citations.py`（章節內 9 句）加上本書自寫的逐段比對（含卷首各章，見下「核對方法」）：**12/12 逐字相符**（其中第一章 p. 264 一句，摩根是引述普西〔Pusey〕並表同意，書中已註明）。
 
 | 出現處 | 頁碼 | 引句數 |
 |------------------------------------------------|----------------------------------|--------------|
@@ -77,7 +77,7 @@ publisher: 三書精讀出版系統
 
 ## 四、引文核對記錄——加爾文 (John Calvin)
 
-引自 *Commentaries on Jonah, Micah, and Nahum*, tr. John Owen (Edinburgh: Calvin Translation Society)，取自 CCEL 公有領域文本（`calcom28`，Nahum 部分）。CCEL 文本沒有印本頁碼，故書中以經節標示位置。共引 19 句，**19/19 逐字相符**。書中所引都是加爾文正文；Owen 的編者註腳（Ed.）不是加爾文的話，凡提到編者註腳之處（第二、三、五章〈背景〉，第三章〈原文研讀〉），都明寫「加爾文英譯本的編者」，並不加引號。
+引自 *Commentaries on Jonah, Micah, and Nahum*, tr. John Owen (Edinburgh: Calvin Translation Society)，取自 CCEL 公有領域文本（`calcom28`，Nahum 部分）。CCEL 文本沒有印本頁碼，故書中以經節標示位置。共有 19 處引句（不重複 17 句，兩句各出現兩處），**19/19 逐字相符**。書中所引都是加爾文正文；Owen 的編者註腳（Ed.）不是加爾文的話，凡提到編者註腳之處（第二、三、五章〈背景〉，第三章〈原文研讀〉），都明寫「加爾文英譯本的編者」，並不加引號。
 
 | 出現處 | 論及經節 | 引句數 |
 |-----------------------------------------------------|-------------------------------|------------|
@@ -94,7 +94,7 @@ publisher: 三書精讀出版系統
 
 ## 五、引文核對記錄——亨利 (Matthew Henry)
 
-引自 *An Exposition of the Old and New Testament*，那鴻書一卷，取自 CCEL `mhc4` 公有領域文本（`Nah.i`–`Nah.iv`），無印本頁碼。共引 9 句，**9/9 逐字相符**。
+引自 *An Exposition of the Old and New Testament*，那鴻書一卷，取自 CCEL `mhc4` 公有領域文本（`Nah.i`–`Nah.iv`），無印本頁碼。共有 9 處引句，**9/9 逐字相符**。
 
 | 出現處 | 引句數 |
 |---------------------------------------------------|---------------------------------------------|
