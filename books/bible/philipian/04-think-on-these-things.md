@@ -188,9 +188,9 @@ publisher: 三書精讀出版系統
 >
 > 「我們的充足與夠用，來自於連於那位真正充足、夠用的那一位。我們不是真正的『自給自足』，我們是『因基督而足』。」
 
-> "He does not mean that I can go forever without eating... What he is simply saying is when I have come to the end of my own resources, then I experience the power of Christ to sustain me until a provision is made."
+> "He does not mean that I can go forever without eating... But what he is saying is when I have come to the end of my own resources, then I experience the power of Christ to sustain me until a provision is made."
 >
-> 「他不是說我可以永遠不吃東西……他要說的只是：當我用盡了自己的一切資源，我就經歷基督托住我的力量，直到神豫備的供應臨到。」
+> 「他不是說我可以永遠不吃東西……他要說的是：當我用盡了自己的一切資源，我就經歷基督托住我的力量，直到神豫備的供應臨到。」
 
 > 出處：John MacArthur, *The Secret of Contentment, Part 2*, gty.org, sermon 50-44（腓4:13，1989年10月22日；講道逐字稿已核對）。
 

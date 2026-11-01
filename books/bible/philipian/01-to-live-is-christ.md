@@ -165,9 +165,9 @@ publisher: 三書精讀出版系統
 
 麥克阿瑟在講道〈Joy in Spite of Death〉論1:19-21時，指出保羅在監獄中面對生死的坦然，根源不在性格堅強，而在他把整個人生收攏成一個名字：
 
-> "So he says, 'Look, I face death confident that the Lord will be magnified.' ... And he sums it up in this great statement in verse 21. This is the capstone, 'For to me, living is Christ and dying is gain.' That's it. That is the summum bonum of his life, 'living is Christ, dying is gain.' ... Christ is the center circumference of my life. It's all Christ."
+> "And he sums it up in this great statement in verse 21. This is the capstone, 'For to me, living is Christ and dying is gain.' That's it. That is the summum bonum of his life, 'living is Christ, dying is gain.' ... Christ is the center circumference of my life. It's all Christ."
 >
-> 「他說：『我面對死亡，是因為確信主必被高舉。』……他在第21節這句偉大的宣告裏作了總結，這是全段的頂點：『因我活著就是基督，死了就有益處。』就是這句話。這就是他人生的至善（summum bonum）：『活著是基督，死了是益處。』……基督是我生命的中心，也是我生命的圓周。一切都是基督。」
+> 「他在第21節這句偉大的宣告裏作了總結，這是全段的頂點：『因我活著就是基督，死了就有益處。』就是這句話。這就是他人生的至善（summum bonum）：『活著是基督，死了是益處。』……基督是我生命的中心，也是我生命的圓周。一切都是基督。」
 
 麥克阿瑟接著給出一個逼人反思的操練——把「基督」兩字從1:21抽掉，看看剩下的句子還能不能成立：
 
