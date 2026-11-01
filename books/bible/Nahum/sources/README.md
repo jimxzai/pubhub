@@ -38,5 +38,5 @@ None. gty.org `sitemap.xml` (downloaded 2026-10-31) has no `/sermons/34-N` URL
 
 Wikisource (MediaWiki `action=parse`): *Olney Hymns* (1840 ed.) for Cowper;
 *A Selection of Hymns … Ulverston* (1863) Hymn 48; *The Army and Navy Hymnal*
-(1920) for Luther/Hedge, Watts ×2. `hymns/hymn-blocks.md` holds the pasted blocks; the
+(1920) for Wesley (ch.2, `hymns/2-hark-herald.txt`), Luther/Hedge, Watts ×2. (`2-ulverston-48.txt` is the superseded first choice for ch.2.) `hymns/hymn-blocks.md` holds the pasted blocks; the
 three small corrections made are listed in `99-appendix-references.md` §六.
