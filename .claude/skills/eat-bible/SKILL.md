@@ -41,6 +41,7 @@ shipping the defects only that step can see — every one of these was
 learned by shipping it.
 
 ```bash
+python3 scripts/check-all.py <slug|dir>                  # 0-4c in ONE command (spine, markup, scripture, sermons, ledger)
 python3 scripts/check-book-spine.py books/bible/<dir>     # 0. does it lead anywhere?  ~1 s
 scripts/lint-templates.sh <slug>                       # 1. template bugs   ~1 s, no build
 python3 scripts/lint-chapter-markup.py books/bible/<dir>  # 2. markdown bugs   ~1 s, no build

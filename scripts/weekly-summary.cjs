@@ -141,8 +141,10 @@ function generateWeeklySummary(baseDir = path.join(__dirname, '..'), dateOverrid
 // 仅在直接执行时运行
 if (require.main === module) {
   const result = generateWeeklySummary();
+  // Nothing published to summarize is not a failure: exit 0 so the scheduled GitHub Action
+  // stays green and simply opens no pull request. Real errors throw and still fail the run.
   if (!result) {
-    process.exit(1);
+    process.exit(0);
   }
 }
 

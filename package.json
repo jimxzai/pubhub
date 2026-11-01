@@ -19,11 +19,11 @@
     "typecheck": "tsc --noEmit",
     "format": "prettier --write .",
     "format:check": "prettier --check .",
-    "new-note": "node scripts/daily-template.js",
-    "weekly-summary": "node scripts/weekly-summary.js",
-    "monthly-report": "node scripts/monthly-report.js",
+    "new-note": "node scripts/daily-template.cjs",
+    "weekly-summary": "node scripts/weekly-summary.cjs",
+    "monthly-report": "node scripts/monthly-report.cjs",
     "build-book": "node scripts/build-book.js",
-    "stats": "node scripts/stats.js",
+    "stats": "node scripts/stats.cjs",
     "build:pdf": "node scripts/build-pdf.js",
     "build:journal": "node scripts/build-pdf.js --format journal",
     "build:newspaper": "node scripts/build-pdf.js --format newspaper",
@@ -43,7 +43,9 @@
     "publish:weekly": "node scripts/publish-to-cloud.mjs weekly",
     "publish:monthly": "node scripts/publish-to-cloud.mjs monthly",
     "publish:all": "node scripts/publish-to-cloud.mjs all",
-    "publish:list": "node scripts/publish-to-cloud.mjs list"
+    "publish:list": "node scripts/publish-to-cloud.mjs list",
+    "check-all": "python3 scripts/check-all.py",
+    "library-status": "python3 scripts/check-all.py --all --status -q"
   },
   "dependencies": {
     "dotenv": "^18.0.8",
