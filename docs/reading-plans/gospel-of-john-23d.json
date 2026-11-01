@@ -1,0 +1,236 @@
+{
+  "book": "gospel-of-john",
+  "requestedDays": 30,
+  "days": [
+    {
+      "day": 1,
+      "chapters": [
+        {
+          "file": "01-prologue.md",
+          "title": "序言：道成肉身 (Prologue: The Word Made Flesh)",
+          "passage": "約翰福音 1:1-18"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "chapters": [
+        {
+          "file": "01b-first-disciples.md",
+          "title": "第一章（下）：施洗約翰的見證與首批門徒 (First Disciples)",
+          "passage": "約翰福音 1:19-51"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "chapters": [
+        {
+          "file": "02-cana-wedding.md",
+          "title": "第一個神蹟：迦拿婚宴 (The First Sign: Wedding at Cana)",
+          "passage": "約翰福音 2:1-25"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "chapters": [
+        {
+          "file": "03-nicodemus.md",
+          "title": "尼哥底母夜訪 (Nicodemus at Night)",
+          "passage": "約翰福音 3:1-36"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "chapters": [
+        {
+          "file": "04-samaritan-woman.md",
+          "title": "撒瑪利亞婦人 (The Woman at the Well)",
+          "passage": "約翰福音 4:1-42"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "chapters": [
+        {
+          "file": "04b-nobleman-son.md",
+          "title": "第二個神蹟：醫治大臣之子 (The Second Sign: The Nobleman's Son)",
+          "passage": "約翰福音 4:43-54"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "chapters": [
+        {
+          "file": "05-bethesda.md",
+          "title": "畢士大池的醫治 (Healing at the Pool of Bethesda)",
+          "passage": "約翰福音 5:1-47"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "chapters": [
+        {
+          "file": "06-bread-of-life.md",
+          "title": "生命的糧 (The Bread of Life)",
+          "passage": "約翰福音 6:1-71"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "chapters": [
+        {
+          "file": "07-feast-tabernacles.md",
+          "title": "住棚節的講論 (Teaching at the Feast of Tabernacles)",
+          "passage": "約翰福音 7:1-52"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "chapters": [
+        {
+          "file": "08-light-of-world.md",
+          "title": "世界的光 (The Light of the World)",
+          "passage": "約翰福音 8:1-59"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "chapters": [
+        {
+          "file": "09-blind-man.md",
+          "title": "醫好生來瞎眼的 (Healing the Man Born Blind)",
+          "passage": "約翰福音 9:1-41"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "chapters": [
+        {
+          "file": "10-good-shepherd.md",
+          "title": "好牧人 (The Good Shepherd)",
+          "passage": "約翰福音 10:1-42"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "chapters": [
+        {
+          "file": "11-lazarus.md",
+          "title": "拉撒路復活 (The Raising of Lazarus)",
+          "passage": "約翰福音 11:1-57"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "chapters": [
+        {
+          "file": "12-triumphal-entry.md",
+          "title": "榮耀進城與一粒麥子 (Triumphal Entry and the Grain of Wheat)",
+          "passage": "約翰福音 12:1-50"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "chapters": [
+        {
+          "file": "13-washing-feet.md",
+          "title": "洗門徒的腳 (Washing the Disciples' Feet)",
+          "passage": "約翰福音 13:1-38"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "chapters": [
+        {
+          "file": "14-way-truth-life.md",
+          "title": "道路、真理、生命 (The Way, the Truth, and the Life)",
+          "passage": "約翰福音 14:1-31"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "chapters": [
+        {
+          "file": "15-true-vine.md",
+          "title": "真葡萄樹 (The True Vine)",
+          "passage": "約翰福音 15:1-27"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "chapters": [
+        {
+          "file": "16-holy-spirit.md",
+          "title": "聖靈的工作 (The Work of the Holy Spirit)",
+          "passage": "約翰福音 16:1-33"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "chapters": [
+        {
+          "file": "17-high-priestly-prayer.md",
+          "title": "大祭司的禱告 (The High Priestly Prayer)",
+          "passage": "約翰福音 17:1-26"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "chapters": [
+        {
+          "file": "18-arrest-trial.md",
+          "title": "被捕與受審 (The Arrest and Trial)",
+          "passage": "約翰福音 18:1-40"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "chapters": [
+        {
+          "file": "19-crucifixion.md",
+          "title": "十字架 (The Crucifixion)",
+          "passage": "約翰福音 19:1-42"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "chapters": [
+        {
+          "file": "20-resurrection.md",
+          "title": "空墳與復活顯現 (The Empty Tomb and Resurrection Appearances)",
+          "passage": "約翰福音 20:1-31"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "chapters": [
+        {
+          "file": "21-epilogue.md",
+          "title": "尾聲：加利利海的顯現 (Epilogue: Appearance at the Sea of Galilee)",
+          "passage": "約翰福音 21:1-25"
+        }
+      ]
+    }
+  ]
+}

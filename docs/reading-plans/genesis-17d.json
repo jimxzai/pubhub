@@ -1,0 +1,176 @@
+{
+  "book": "genesis",
+  "requestedDays": 30,
+  "days": [
+    {
+      "day": 1,
+      "chapters": [
+        {
+          "file": "01-creation.md",
+          "title": "創造天地 (Creation)",
+          "passage": "創世記 1:1-2:3"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "chapters": [
+        {
+          "file": "02-fall.md",
+          "title": "人類墮落 (The Fall)",
+          "passage": "創世記 3:1-24"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "chapters": [
+        {
+          "file": "03-cain-abel.md",
+          "title": "該隱與亞伯 (Cain and Abel)",
+          "passage": "創世記 4:1-26"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "chapters": [
+        {
+          "file": "04-noah.md",
+          "title": "挪亞與洪水 (Noah and the Flood)",
+          "passage": "創世記 6:1-9:17"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "chapters": [
+        {
+          "file": "05-babel.md",
+          "title": "巴別塔 (Tower of Babel)",
+          "passage": "創世記 11:1-9"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "chapters": [
+        {
+          "file": "06-abraham-call.md",
+          "title": "亞伯蘭蒙召 (The Call of Abram)",
+          "passage": "創世記 12:1-20"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "chapters": [
+        {
+          "file": "07-covenant.md",
+          "title": "神與亞伯蘭立約 (God's Covenant with Abram)",
+          "passage": "創世記 15:1-21, 17:1-27"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "chapters": [
+        {
+          "file": "08-sodom.md",
+          "title": "所多瑪的毀滅 (Destruction of Sodom)",
+          "passage": "創世記 18:1-19:29"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "chapters": [
+        {
+          "file": "09-isaac-sacrifice.md",
+          "title": "獻以撒 (The Sacrifice of Isaac)",
+          "passage": "創世記 22:1-24"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "chapters": [
+        {
+          "file": "10-jacob-esau.md",
+          "title": "以掃與雅各 (Esau and Jacob)",
+          "passage": "創世記 25:19-34, 27:1-46"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "chapters": [
+        {
+          "file": "11-bethel.md",
+          "title": "伯特利的天梯 (Jacob's Ladder at Bethel)",
+          "passage": "創世記 28:10-22"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "chapters": [
+        {
+          "file": "12-wrestling.md",
+          "title": "雅各與神摔跤 (Jacob Wrestles with God)",
+          "passage": "創世記 32:22-32"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "chapters": [
+        {
+          "file": "13-joseph-dreams.md",
+          "title": "約瑟的夢 (Joseph's Dreams)",
+          "passage": "創世記 37:1-36"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "chapters": [
+        {
+          "file": "14-joseph-egypt.md",
+          "title": "約瑟在埃及 (Joseph in Egypt)",
+          "passage": "創世記 39:1-41:57"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "chapters": [
+        {
+          "file": "15-reconciliation.md",
+          "title": "約瑟與弟兄相認 (Joseph Reconciled with His Brothers)",
+          "passage": "創世記 42:1-45:28"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "chapters": [
+        {
+          "file": "16-blessings.md",
+          "title": "雅各的祝福 (Jacob's Blessings)",
+          "passage": "創世記 48:1-50:26"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "chapters": [
+        {
+          "file": "17-covenant-fulfillment.md",
+          "title": "應許的實現：從創世記到出埃及與約書亞 (The Promise Realized: From Genesis to Exodus and Joshua)",
+          "passage": "創世記 50:22-26（延伸至出埃及記1:7,13:19；約書亞記21:43-45,24:32）"
+        }
+      ]
+    }
+  ]
+}

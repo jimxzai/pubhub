@@ -1,0 +1,166 @@
+{
+  "book": "roman",
+  "requestedDays": 30,
+  "days": [
+    {
+      "day": 1,
+      "chapters": [
+        {
+          "file": "01-gospel-and-condemnation.md",
+          "title": "福音的大能與人的敗壞 (The Power of the Gospel and Human Depravity)",
+          "passage": "羅馬書 1:1-32"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "chapters": [
+        {
+          "file": "02-righteous-judgment.md",
+          "title": "神公義的審判 (God's Righteous Judgment)",
+          "passage": "羅馬書 2:1-29"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "chapters": [
+        {
+          "file": "03-universal-sin-justification.md",
+          "title": "普世有罪，因信稱義 (Universal Sin, Justified by Faith)",
+          "passage": "羅馬書 3:1-31"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "chapters": [
+        {
+          "file": "04-abrahams-faith.md",
+          "title": "亞伯拉罕因信稱義 (Abraham Justified by Faith)",
+          "passage": "羅馬書 4:1-25"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "chapters": [
+        {
+          "file": "05-fruits-of-justification.md",
+          "title": "稱義的果實 (The Fruits of Justification)",
+          "passage": "羅馬書 5:1-21"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "chapters": [
+        {
+          "file": "06-united-with-christ.md",
+          "title": "與基督同死同復活 (United with Christ in Death and Life)",
+          "passage": "羅馬書 6:1-23"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "chapters": [
+        {
+          "file": "07-law-and-flesh.md",
+          "title": "律法、罪與內心的爭戰 (The Law, Sin, and the Inner War)",
+          "passage": "羅馬書 7:1-25"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "chapters": [
+        {
+          "file": "08-life-in-the-spirit.md",
+          "title": "聖靈中的生命，無可定罪的確據 (Life in the Spirit — the Assurance of No Condemnation)",
+          "passage": "羅馬書 8:1-39"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "chapters": [
+        {
+          "file": "09-sovereign-election.md",
+          "title": "神主權的揀選 (God's Sovereign Election)",
+          "passage": "羅馬書 9:1-33"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "chapters": [
+        {
+          "file": "10-faith-and-mission.md",
+          "title": "信而稱義，宣教的心 (Faith unto Salvation, the Heart for Missions)",
+          "passage": "羅馬書 10:1-21"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "chapters": [
+        {
+          "file": "11-future-of-israel.md",
+          "title": "以色列的將來與神智慧的深奧 (Israel's Future and the Depths of God's Wisdom)",
+          "passage": "羅馬書 11:1-36"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "chapters": [
+        {
+          "file": "12-living-sacrifice.md",
+          "title": "活祭與身體的恩賜 (Living Sacrifice and the Gifts of the Body)",
+          "passage": "羅馬書 12:1-21"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "chapters": [
+        {
+          "file": "13-submission-to-authority.md",
+          "title": "順服政權，愛是律法的總結 (Submission to Authority, Love as the Fulfillment of the Law)",
+          "passage": "羅馬書 13:1-14"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "chapters": [
+        {
+          "file": "14-weak-and-strong.md",
+          "title": "軟弱與剛強，彼此接納 (The Weak and the Strong, Mutual Acceptance)",
+          "passage": "羅馬書 14:1-23"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "chapters": [
+        {
+          "file": "15-christs-example-mission.md",
+          "title": "效法基督，普世宣教的心志 (Following Christ's Example, a Heart for World Mission)",
+          "passage": "羅馬書 15:1-33"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "chapters": [
+        {
+          "file": "16-greetings-conclusion.md",
+          "title": "問安、警戒與榮耀頌 (Greetings, a Warning, and the Closing Doxology)",
+          "passage": "羅馬書 16:1-27"
+        }
+      ]
+    }
+  ]
+}
