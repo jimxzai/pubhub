@@ -133,21 +133,33 @@ def read_baselines() -> dict[str, dict]:
     return rows
 
 
-SCORE_RE = re.compile(r"(總分|總評|Total|合計|總計|Overall|綜合)[^0-9\n]{0,30}(\d{1,2}\.\d+)")
+# Score files were named before the directory names settled; these are the only mismatches.
+SCORE_ALIASES = {"gospel-of-john": "john"}
+
+SCORE_RE = re.compile(r"(總分|總評|Total|合計|總計|Overall|綜合|平均)[^0-9\n]{0,30}(\d{1,2}\.\d+)")
 
 
 def latest_score(names: list[str]) -> tuple[str, str]:
-    """Newest docs/scores/<name>-<date>*.md and the last overall number written in it."""
-    best: tuple[str, Path] | None = None
+    """Newest docs/scores/<name>-<date>*.md that states an overall number, and that number.
+
+    Several reports can share a date (a proofread, a spine check, a score); only some state a
+    total, so take the newest one that does. '?' means files exist but none states a number.
+    """
+    found: list[tuple[str, str, str | None]] = []
     for f in SCORES.glob("*.md"):
         for n in names:
             m = re.fullmatch(rf"{re.escape(n)}-(\d{{4}}-\d{{2}}-\d{{2}}).*", f.stem, re.IGNORECASE)
-            if m and (best is None or m.group(1) >= best[0]):
-                best = (m.group(1), f)
-    if not best:
+            if m:
+                hits = SCORE_RE.findall(f.read_text(encoding="utf-8", errors="ignore"))
+                found.append((m.group(1), f.stem, hits[-1][1] if hits else None))
+                break
+    if not found:
         return "—", "—"
-    hits = SCORE_RE.findall(best[1].read_text(encoding="utf-8", errors="ignore"))
-    return (hits[-1][1] if hits else "?"), best[0]
+    found.sort(reverse=True)
+    for when, _stem, number in found:
+        if number:
+            return number, when
+    return "?", found[0][0]
 
 
 def write_status(done: list[dict], out: Path, unmapped: list[str]) -> None:
@@ -181,7 +193,10 @@ def write_status(done: list[dict], out: Path, unmapped: list[str]) -> None:
             st = r["results"][n][0]
             if st in totals:
                 totals[st] += 1
-        score, when = latest_score([slug, book.name] if slug else [book.name])
+        names = [n for n in (slug, book.name) if n]
+        names += [n.replace("gospel-of-", "") for n in names if n.startswith("gospel-of-")]
+        names += [SCORE_ALIASES[book.name.lower()]] if book.name.lower() in SCORE_ALIASES else []
+        score, when = latest_score(names)
         lines.append(
             f"| {book.name} | {slug or '—'} | {b.get('pages', '—')} | {b.get('overfull', '—')} | {spine} | "
             + " | ".join(cols) + f" | {score} | {when} |"
