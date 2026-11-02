@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第一章：希臘文能幫你甚麼，不能幫你甚麼 (What Greek Can and Cannot Do)
 
 > **座標**：本書骨幹〈啟示的次序〉——全書骨幹第二步與第五步——神用共同語言說話；所以讀經的第一把鑰匙是好譯本，希臘文只是之後的借力。
+>
+> *In brief:* Greek helps you compare translations and see why they differ; it does not replace a good translation, and a single word study never proves a doctrine.
 
 ## 為甚麼新約是希臘文
 

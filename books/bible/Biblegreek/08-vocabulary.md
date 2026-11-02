@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第八章：該先認哪些字 (Which Words to Learn First)
 
 > **座標**：本書骨幹〈啟示的次序〉——第五步：認字彙——該先認的字，不是最冷門的，而是新約一再說的那幾個名字與核心詞。
+>
+> *In brief:* Which words to learn first: the most frequent words by corpus count, and the core theological words that recur across the New Testament.
 
 學任何語言，字彙都是最划算的投資。希臘文新約有一個對新手極友善的特點：**少數的字，佔了極大的比例。**
 

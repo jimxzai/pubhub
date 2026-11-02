@@ -28,6 +28,12 @@ def label(name):
     return f"第 {int(m.group(1))} 章" if m else name
 
 
+try:
+    NASB = __import__("json").load(open(os.path.join(ROOT, "docs/sources/biblegreek/nasb-index-cache.json"), encoding="utf-8"))
+except OSError:
+    NASB = {}
+
+
 def main():
     hits = collections.defaultdict(lambda: collections.defaultdict(set))   # (book,ch,v1,v2) -> label -> {}
     files = [f for f in sorted(glob.glob(os.path.join(D, "[0-9]*.md"))) if not os.path.basename(f).startswith(("96-appendix-4", "97-", "96-appendix-5", "96-appendix-6"))]
@@ -47,11 +53,13 @@ def main():
         b, ch, v1, v2 = key
         ref = f"{BOOKS[b][0]} {ch}:{v1}" + (f"-{v2}" if v2 != v1 else "")
         labs = sorted(hits[key], key=lambda l: [os.path.basename(f)[:-3] for f in files if l == label(os.path.basename(f)[:-3])][0])
-        rows.append(f"| {ref} | {'、'.join(labs)} |")
+        vs = [t for t in NASB.get(ref, []) if not re.fullmatch(r"\[.*\]", t.strip())]   # ai-eden returns a bracketed placeholder where it lacks the verse (創 22:2)
+        eng = (" ".join(vs[:2]) + (" …" if len(vs) > 2 else "")) if vs else "（ai-eden 無此節英文）"
+        rows.append(f"| {ref} | {'、'.join(labs)} | {eng.replace('|', '/')} |")
     out = ["---", "title: 附錄", "subtitle: 經文索引", "author: PubHub 三書精讀系統", "date: 2026年11月", "publisher: 三書精讀出版系統", "---", "",
            "# 經文索引 (Scripture Index) {.unnumbered}", "",
-           f"卷一各章與附錄裏明引的經文出處，共 {len(rows)} 處，由程式從書稿掃描產生，指向章次而非頁碼。只掃描「書卷簡稱＋章:節」寫法（如「約 1:1」「John 1:1」）；沒有寫出處的間接提及不收。卷二（各卷的希臘文）已按書卷編排，不在此列。", "",
-           "| 經文 | 見於 |", "|" + "-" * 30 + "|" + "-" * 70 + "|"] + rows
+           f"卷一各章與附錄裏明引的經文出處，共 {len(rows)} 處，由程式從書稿掃描產生，指向章次而非頁碼。右欄是 NASB 1995 英文（取自 ai-eden.com，快取於 `docs/sources/biblegreek/nasb-index-cache.json`，由 `scripts/fetch-biblegreek-nasb.py` 產生；超過兩節只印前兩節）。只掃描「書卷簡稱＋章:節」寫法（如「約 1:1」「John 1:1」）；沒有寫出處的間接提及不收。卷二（各卷的希臘文）已按書卷編排，不在此列。", "",
+           "| 經文 | 見於 | NASB 1995 |", "|" + "-" * 20 + "|" + "-" * 26 + "|" + "-" * 66 + "|"] + rows
     open(os.path.join(D, "96-appendix-5-scripture-index.md"), "w", encoding="utf-8").write("\n".join(out) + "\n")
     print("scripture index rows", len(rows))
     topics([f for f in files if not os.path.basename(f).startswith("96-appendix-6")])

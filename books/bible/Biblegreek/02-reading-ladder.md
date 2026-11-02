@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第二章：四步讀經階梯 (The Four-Step Reading Ladder)
 
 > **座標**：本書骨幹〈啟示的次序〉——第五步：人怎麼讀——先自己說、再比較、再查一個字、最後用註釋核對；四步階梯就是第五步的內部次序。
+>
+> *In brief:* A four-step ladder for reading a passage: say it in your own words, compare two translations, look up one word, then check against a commentary.
 
 新手最常見的錯誤，是跳過前面的步驟，直接到「查原文」。這一章給你一個順序。**每一步都比下一步更便宜、更可靠；只有前一步做完了，後一步才有用。**
 

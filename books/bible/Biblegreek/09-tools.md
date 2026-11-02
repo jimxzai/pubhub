@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第九章：工具與書單 (Tools and Recommended Books)
 
 > **座標**：本書骨幹〈啟示的次序〉——第四步與第五步——聖經為祂作見證；工具書只是幫你聽清楚這份見證。
+>
+> *In brief:* Introductory books, books that warn against exegetical fallacies, and lookup tools, with an honest note on what was and was not verified.
 
 這一章把可靠的工具分成三組。**標有「已查證」的，是本書編寫時我們實際查閱過資料來源，確認其存在與定位的；標有「公認」的，是業界廣泛使用的標準工具，但這次沒有逐項查證，購買前請自行確認最新版本。**
 

@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第十章：八週讀經計劃 (An Eight-Week Plan)
 
 > **座標**：本書骨幹〈啟示的次序〉——第五步：每天二十分鐘——先禱告，再讀，再練；每週一件事。
+>
+> *In brief:* An eight-week plan of about twenty minutes a day with one task a week, ending with redoing John 1:1-5 on your own.
 
 每週五天，每天約二十分鐘。**每一週只做一件事。**
 
