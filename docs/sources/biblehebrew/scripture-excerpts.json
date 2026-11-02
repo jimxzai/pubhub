@@ -1,4 +1,24 @@
 {
+ "deuteronomy.32.36": {
+  "cuv": "耶和華見他百姓毫無能力，無論困住的、自由的都沒有剩下，就必為他們伸冤，為他的僕人後悔。",
+  "nasb1995": "“For the LORD will vindicate His people, And will have compassion on His servants, When He sees that their strength is gone, And there is none remaining, bond or free."
+ },
+ "deuteronomy.6.4": {
+  "cuv": "以色列阿，你要聽！耶和華─我們神是獨一的主。",
+  "nasb1995": "“Hear, O Israel! The LORD is our God, the LORD is one!"
+ },
+ "deuteronomy.6.5": {
+  "cuv": "你要盡心、盡性、盡力愛耶和華─你的神。",
+  "nasb1995": "“You shall love the LORD your God with all your heart and with all your soul and with all your might."
+ },
+ "ezekiel.18.21": {
+  "cuv": "惡人若回頭離開所做的一切罪惡，謹守我一切的律例，行正直與合理的事，他必定存活，不致死亡。",
+  "nasb1995": "“But if the wicked man turns from all his sins which he has committed and observes all My statutes and practices justice and righteousness, he shall surely live; he shall not die."
+ },
+ "ezekiel.18.24": {
+  "cuv": "義人若轉離義行而作罪孽，照著惡人所行一切可憎的事而行，他豈能存活麼？他所行的一切義都不被記念；他必因所犯的罪、所行的惡死亡。",
+  "nasb1995": "“But when a righteous man turns away from his righteousness, commits iniquity and does according to all the abominations that a wicked man does, will he live? All his righteous deeds which he has done will not be remembered for his treachery which he has committed and his sin which he has committed; for them he will die."
+ },
  "genesis.1.1": {
   "cuv": "起初，神創造天地。",
   "nasb1995": "In the beginning God created the heavens and the earth."
@@ -18,6 +38,94 @@
  "genesis.1.5": {
   "cuv": "神稱光為晝，稱暗為夜。有晚上，有早晨，這是頭一日。",
   "nasb1995": "God called the light day, and the darkness He called night. And there was evening and there was morning, one day."
+ },
+ "haggai.1.5": {
+  "cuv": "現在萬軍之耶和華如此說：你們要省察自己的行為。",
+  "nasb1995": "Now therefore, thus says the LORD of hosts, “Consider your ways!"
+ },
+ "hebrews.1.1": {
+  "cuv": "神既在古時藉著眾先知多次多方的曉諭列祖，",
+  "nasb1995": "God, after He spoke long ago to the fathers in the prophets in many portions and in many ways,"
+ },
+ "hebrews.1.2": {
+  "cuv": "就在這末世藉著他兒子曉諭我們；又早已立他為承受萬有的，也曾藉著他創造諸世界。",
+  "nasb1995": "in these last days has spoken to us in His Son, whom He appointed heir of all things, through whom also He made the world."
+ },
+ "isaiah.6.3": {
+  "cuv": "彼此呼喊說：聖哉！聖哉！聖哉！萬軍之耶和華；他的榮光充滿全地！",
+  "nasb1995": "And one called out to another and said, “Holy, Holy, Holy, is the LORD of hosts, The whole earth is full of His glory.”"
+ },
+ "joel.2.12": {
+  "cuv": "耶和華說：雖然如此，你們應當禁食、哭泣、悲哀，一心歸向我。",
+  "nasb1995": "“Yet even now,” declares the LORD, “Return to Me with all your heart, And with fasting, weeping and mourning;"
+ },
+ "john.1.1": {
+  "cuv": "太初有道，道與神同在，道就是神。",
+  "nasb1995": "In the beginning was the Word, and the Word was with God, and the Word was God."
+ },
+ "john.1.14": {
+  "cuv": "道成了肉身，住在我們中間，充充滿滿的有恩典有真理。我們也見過他的榮光，正是父獨生子的榮光。",
+  "nasb1995": "And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth."
+ },
+ "john.1.18": {
+  "cuv": "從來沒有人看見神，只有在父懷裡的獨生子將他表明出來。",
+  "nasb1995": "No one has seen God at any time; the only begotten God who is in the bosom of the Father, He has explained Him."
+ },
+ "john.1.3": {
+  "cuv": "萬物是藉著他造的；凡被造的，沒有一樣不是藉著他造的。",
+  "nasb1995": "All things came into being through Him, and apart from Him nothing came into being that has come into being."
+ },
+ "john.10.11": {
+  "cuv": "我是好牧人；好牧人為羊捨命。",
+  "nasb1995": "“I am the good shepherd; the good shepherd lays down His life for the sheep."
+ },
+ "john.5.39": {
+  "cuv": "你們查考聖經（或作：應當查考聖經），因你們以為內中有永生；給我作見證的就是這經。",
+  "nasb1995": "“You search the Scriptures because you think that in them you have eternal life; it is these that testify about Me;"
+ },
+ "luke.24.27": {
+  "cuv": "於是從摩西和眾先知起，凡經上所指著自己的話都給他們講解明白了。",
+  "nasb1995": "Then beginning with Moses and with all the prophets, He explained to them the things concerning Himself in all the Scriptures."
+ },
+ "luke.24.44": {
+  "cuv": "耶穌對他們說：這就是我從前與你們同在之時所告訴你們的話說：摩西的律法、先知的書，和詩篇上所記的，凡指著我的話都必須應驗。",
+  "nasb1995": "Now He said to them, “These are My words which I spoke to you while I was still with you, that all things which are written about Me in the Law of Moses and the Prophets and the Psalms must be fulfilled.”"
+ },
+ "luke.24.45": {
+  "cuv": "於是耶穌開他們的心竅，使他們能明白聖經，",
+  "nasb1995": "Then He opened their minds to understand the Scriptures,"
+ },
+ "matthew.17.5": {
+  "cuv": "說話之間，忽然有一朵光明的雲彩遮蓋他們，且有聲音從雲彩裡出來，說：這是我的愛子，我所喜悅的。你們要聽他！",
+  "nasb1995": "While he was still speaking, a bright cloud overshadowed them, and behold, a voice out of the cloud said, “This is My beloved Son, with whom I am well-pleased; listen to Him!”"
+ },
+ "matthew.5.18": {
+  "cuv": "我實在告訴你們，就是到天地都廢去了，律法的一點一畫也不能廢去，都要成全。",
+  "nasb1995": "“For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished."
+ },
+ "micah.6.1": {
+  "cuv": "以色列人哪，當聽耶和華的話！要起來向山嶺爭辯，使岡陵聽你的話。",
+  "nasb1995": "Hear now what the LORD is saying, “Arise, plead your case before the mountains, And let the hills hear your voice."
+ },
+ "micah.7.7": {
+  "cuv": "至於我，我要仰望耶和華，要等候那救我的神；我的　神必應允我。",
+  "nasb1995": "But as for me, I will watch expectantly for the LORD; I will wait for the God of my salvation. My God will hear me."
+ },
+ "psalms.117.1": {
+  "cuv": "萬國啊，你們都當讚美耶和華！萬民哪，你們都當頌讚他！",
+  "nasb1995": "Praise the LORD, all nations; Laud Him, all peoples!"
+ },
+ "psalms.118.1": {
+  "cuv": "你們要稱謝耶和華，因他本為善；他的慈愛永遠長存！",
+  "nasb1995": "Give thanks to the LORD, for He is good; For His lovingkindness is everlasting."
+ },
+ "psalms.119.18": {
+  "cuv": "求你開我的眼睛，使我看出你律法中的奇妙。",
+  "nasb1995": "Open my eyes, that I may behold Wonderful things from Your law."
+ },
+ "psalms.133.1": {
+  "cuv": "（大衛上行之詩。）看哪，弟兄和睦同居是何等地善，何等地美！",
+  "nasb1995": "Behold, how good and how pleasant it is For brothers to dwell together in unity!"
  },
  "psalms.23.1": {
   "cuv": "（大衛的詩。）耶和華是我的牧者，我必不致缺乏。",
@@ -43,20 +151,8 @@
   "cuv": "我一生一世必有恩惠慈愛隨著我；我且要住在耶和華的殿中，直到永遠。",
   "nasb1995": "Surely goodness and lovingkindness will follow me all the days of my life, And I will dwell in the house of the LORD forever."
  },
- "deuteronomy.6.4": {
-  "cuv": "以色列阿，你要聽！耶和華─我們神是獨一的主。",
-  "nasb1995": "“Hear, O Israel! The LORD is our God, the LORD is one!"
- },
- "luke.24.27": {
-  "cuv": "於是從摩西和眾先知起，凡經上所指著自己的話都給他們講解明白了。",
-  "nasb1995": "Then beginning with Moses and with all the prophets, He explained to them the things concerning Himself in all the Scriptures."
- },
- "luke.24.44": {
-  "cuv": "耶穌對他們說：這就是我從前與你們同在之時所告訴你們的話說：摩西的律法、先知的書，和詩篇上所記的，凡指著我的話都必須應驗。",
-  "nasb1995": "Now He said to them, “These are My words which I spoke to you while I was still with you, that all things which are written about Me in the Law of Moses and the Prophets and the Psalms must be fulfilled.”"
- },
- "psalms.119.18": {
-  "cuv": "求你開我的眼睛，使我看出你律法中的奇妙。",
-  "nasb1995": "Open my eyes, that I may behold Wonderful things from Your law."
+ "psalms.98.4": {
+  "cuv": "全地都要向耶和華歡樂；要發起大聲，歡呼歌頌！",
+  "nasb1995": "Shout joyfully to the LORD, all the earth; Break forth and sing for joy and sing praises."
  }
 }

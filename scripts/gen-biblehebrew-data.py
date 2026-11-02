@@ -48,11 +48,11 @@ GLOSS = {
     "259": "一", "3947": "拿", "3045": "知道", "5927": "上去、升上", "854": "與、同（介系詞，和 853 拼法相同）",
     "5869": "眼睛、泉源", "8141": "年", "589": "我", "8034": "名", "7971": "差遣、伸出", "2009": "看哪",
     "4191": "死", "8033": "那裏", "3063": "猶大", "398": "吃", "5650": "僕人", "369": "沒有", "802": "女人、妻子",
-    "3651": "這樣", "1571": "也", "8147": "二", "4872": "摩西", "5315": "生命、魂、人", "3548": "祭司", "428": "這些",
+    "3651": "如此、這樣", "1571": "也", "8147": "二", "4872": "摩西", "5315": "生命、魂、人", "3548": "祭司", "428": "這些",
     "4100": "甚麼？", "7121": "呼叫、稱呼", "408": "不要（禁止）", "310": "在……之後", "1870": "路、行為",
     "7451": "壞的、惡", "5375": "舉起、擔", "3389": "耶路撒冷", "4714": "埃及", "251": "弟兄", "6965": "起來、站起",
     "2063": "這個（陰性）", "7218": "頭", "3820": "心", "1323": "女兒", "7760": "放置、設立", "4325": "水",
-    "3967": "一百", "3541": "這樣", "2896": "好的、美善", "1992": "他們", "1471": "國、列國", "5674": "越過、經過",
+    "3967": "一百", "3541": "這樣（引出下面的話）", "2896": "好的、美善", "1992": "他們", "1471": "國、列國", "5674": "越過、經過",
     "120": "人、亞當", "2022": "山", "1419": "大的", "5975": "站立", "6963": "聲音", "8478": "在……之下",
     "505": "一千", "1980": "行走",
     # Genesis 1:1-5 extras
@@ -64,17 +64,17 @@ GLOSS = {
     "160": "愛（名詞）", "571": "真實、可靠", 
     "6944": "聖、聖潔", "2403": "罪", "5771": "罪孽", "6588": "過犯",
     # series vocabulary (words featured in the 原文研讀 tables of many books)
-    "7307": "靈、風、氣息", "2142": "記念、記得", "2388": "剛強、堅固", "4941": "公義、判決", "3519": "榮耀、尊榮",
+    "7307": "靈、風、氣息", "2142": "記念、記得", "2388": "剛強、堅固", "4941": "公平、判決", "3519": "榮耀、尊榮",
     "6030": "回答、回應", "5162": "後悔、轉意、安慰", "4397": "使者、天使", "3772": "剪除、立（約）", "8451": "律法、教導",
     "5769": "永遠、長久", "3372": "敬畏、懼怕", "1818": "血", "1350": "贖回、救贖", "784": "火", "5612": "書、書卷",
     "2428": "力量、軍力", "2416": "活的、生命", "8548": "常常、持續", "8104": "看守、遵守", "4853": "重擔、神諭",
     "4390": "充滿", "1245": "尋求", "7068": "熱心、嫉妒", "68": "石頭", "6635": "軍隊、萬軍", "5307": "落下、倒下",
-    "4672": "找到、遇見", "6666": "公義", "6664": "公義、正直",
+    "4672": "找到、遇見", "6666": "公義、義行", "6664": "公義、正直",
     "1285": "約、盟約", "7965": "平安、完整",
-    "3824": "心（לֵב 的較長詞形）", "4886": "用油膏、膏立", "2398": "犯罪、錯過", "2451": "智慧", "7227": "多、大", "8199": "審判、治理", "4910": "統治、掌權", "1540": "揭開、被擄、流亡", "1875": "尋求、查問", "1486": "籤", "2764": "咒詛、完全獻上（毀滅）",
+    "3824": "心（לֵב 的較長詞形）", "4886": "用油膏、膏立", "2398": "犯罪、錯過", "2451": "智慧", "7227": "多、大", "6942": "分別為聖、成聖", "8199": "審判、治理", "4910": "統治、掌權", "1540": "揭開、被擄、流亡", "1875": "尋求、查問", "1486": "籤", "2764": "咒詛、完全獻上（毀滅）",
     # song words
     "3034": "稱謝、讚美", "1984": "讚美（歡呼）", "7623": "稱讚", "523": "民族", "5273": "美好、愉快", "3162": "一同",
-    "7462": "牧養（分詞：牧者）", "2637": "缺乏", "4393": "充滿（的）", "7321": "歡呼", "6476": "發聲（歌唱）",
+    "7462": "牧養（分詞：牧者）", "2637": "缺乏", "4393": "滿、充滿（名詞）", "7321": "歡呼、發聲（多用 Hiphil）", "6476": "發聲（歌唱）",
     "7442": "歡呼歌唱", "2167": "歌頌（彈奏）", "2088": "這個", "6918": "聖潔的",
 }
 SONGS = {
@@ -146,11 +146,30 @@ def key_of(lemma):
     return parts[-1]
 
 
+MAQQEF = "\u05BE"
+
+
 def tokens():
+    """(verse id, lemma, morph, text) for every main-text word. OSHB stores the maqqef (the hyphen joining two words)
+    as a separate <seg type="x-maqqef"> after the word; it is appended to the word's text here, so a printed line can
+    show it. Every consumer that compares forms strips it (it is a joiner, not part of the word)."""
     for f in sorted(glob.glob(os.path.join(SRC, "oshb/*.xml"))):
         for v in ET.parse(f).getroot().iter(OSIS + "verse"):
-            for w in v.findall(OSIS + "w"):
-                yield v.get("osisID"), w.get("lemma"), w.get("morph"), "".join(w.itertext())
+            kids = list(v)
+            for i, w in enumerate(kids):
+                if w.tag != OSIS + "w": continue
+                text = "".join(w.itertext())
+                if i + 1 < len(kids) and kids[i + 1].tag == OSIS + "seg" and kids[i + 1].get("type") == "x-maqqef":
+                    text += MAQQEF
+                yield v.get("osisID"), w.get("lemma"), w.get("morph"), text
+
+
+def join_words(words):
+    """Space between Hebrew words, but none after a word that ends in a maqqef (אֶת־הָאָרֶץ)."""
+    out = ""
+    for w in words:
+        out += w if (not out or out.endswith(MAQQEF)) else " " + w
+    return out
 
 
 def strip_cantillation(s):
@@ -393,14 +412,18 @@ def main():
         assert sum(sg["chunks"]) == len(words), (sid, len(words))
         i = 0; hl = []
         for c in sg["chunks"]:
-            hl.append("| " + " ".join(words[i:i + c])); i += c
+            hl.append("| " + join_words(words[i:i + c])); i += c
         tl = ["| " + t for t in sg["translit"]]
         cv = cuvd[sg["cuv"][0]][sg["cuv"][1][0]]
         cv = re.sub(r"^（[^）]*）", "", cv)
+        # the NASB 1995 line comes from scripture-excerpts.json (two-source checked by scripts/fetch-nasb-excerpts.py)
+        _osis, _ch, _v = sg["ref"].split(".")
+        _book = {"Deut": "deuteronomy", "Ps": "psalms", "Isa": "isaiah"}[_osis]
+        nasb = json.load(open(os.path.join(SRC, "scripture-excerpts.json"), encoding="utf-8")).get(f"{_book}.{_ch}.{_v}", {}).get("nasb1995")
         for k in sg["keys"]:
             if k not in GLOSS: sys.exit(f"missing gloss (song {sid}): {k}")
         card = [f"> **唱一唱：{sg['zh']}**", ">", "> " + "\n> ".join(hl), ">", "> *讀音（簡化，可跟著錄音唱）*", ">",
-                "> " + "\n> ".join(tl), ">", f"> 和合本：{cv}", ">",
+                "> " + "\n> ".join(tl), ">", f"> 和合本：{cv}", ">"] + ([f"> NASB 1995：{nasb}", ">"] if nasb else []) + [
                 "> | 字 | 意思 | 全舊約次數 |", "> |------|------------|------|"]
         for k in sg["keys"]:
             card.append(f"> | {lex['H' + k][0]} | {GLOSS[k]} | {cnt[k]:,} |")

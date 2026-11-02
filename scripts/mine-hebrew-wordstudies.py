@@ -26,14 +26,25 @@ def consonants(s):
     return re.sub(NIQQUD_CANT, "", s).replace("/", "")
 
 
+def nfc(s):
+    """Canonical order of the vowel / shin-dot / dagesh marks. The OT books type those marks in a different order than
+    OSHB stores them, so a lookup on the raw string misses and the word then falls back to the consonant-only majority
+    (which is how שָׁאוּל "Saul" got filed under שְׁאוֹל "Sheol")."""
+    return unicodedata.normalize("NFC", s)
+
+
 def build_index():
+    """pointed form -> lemma counts (NFC), and consonants -> lemma counts. Each token is indexed whole (with its
+    prefix, as printed) AND by its stem alone, so an unprefixed word still finds its dictionary entry."""
     p, c = collections.defaultdict(collections.Counter), collections.defaultdict(collections.Counter)
     for _, lem, _, text in g.tokens():
         k = g.key_of(lem)
         for w in re.split(r"[־ ]", text):
             if not w: continue
-            p[pointed(w)][k] += 1
-            c[consonants(w)][k] += 1
+            forms = {w, w.split("/")[-1]}                       # whole token, and its last morpheme (the stem + suffix)
+            for f in forms:
+                p[nfc(pointed(f))][k] += 1
+                c[consonants(f)][k] += 1
     return p, c
 
 
@@ -153,13 +164,28 @@ def main():
         for w in words:
             pw = unicodedata.normalize("NFC", pointed(w).replace("\u05BE", "")); cw = consonants(w).replace("\u05BE", "")
             k = None
-            for vid in cands:                                    # 1. the very verse the table cites
+            # Priority: an EXACT pointed match always beats a consonant-only match.
+            #  1. the exact form in the very verse the table cites
+            for vid in cands:
                 for form, cons, key in V.get(vid, ()):
-                    if form == pw or cons == cw: k = key; break
+                    if form == pw: k = key; break
                 if k: break
             if k: methods.append("verse")
-            if not k:                                            # 2. whole-text frequency of this exact form
-                d = P.get(pointed(w)) or C.get(cw)
+            #  2. the exact form, if it points to one lemma almost always (an unambiguous form, anywhere in the text)
+            if not k:
+                d = P.get(nfc(pointed(w)))
+                if d and d.most_common(1)[0][1] / sum(d.values()) >= 0.75:
+                    k = d.most_common(1)[0][0]; methods.append("form")
+            #  3. the same consonants in the cited verse
+            if not k:
+                for vid in cands:
+                    for form, cons, key in V.get(vid, ()):
+                        if cons == cw: k = key; break
+                    if k: break
+                if k: methods.append("verse-consonants")
+            #  4. the commonest lemma of the exact form, else of the consonants (flagged as ambiguous when it is not clear-cut)
+            if not k:
+                d = P.get(nfc(pointed(w))) or C.get(cw)
                 if d:
                     k = d.most_common(1)[0][0]; methods.append("freq")
                     if d.most_common(1)[0][1] / sum(d.values()) < 0.75: amb = True

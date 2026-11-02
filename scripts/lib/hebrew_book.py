@@ -43,10 +43,13 @@ def wrap_scripts(text, greek=True):
       with the opening backtick of the next.)
     * The leading \\leavevmode matters. A table cell that STARTS with \\allowbreak begins with a penalty in vertical
       mode, which moves the cell's reference baseline and prints the Hebrew a full line below its row.
-    * No \\beginR..\\endR: XeTeX already reorders a single Hebrew font run, so it would reverse it twice.
+    * \\beginR..\\endR (TeXXeT, switched on in the template) is REQUIRED. XeTeX reverses the letters inside each
+      space-separated Hebrew word but NOT the order of the words, so a plain Hebrew font run prints a phrase with its
+      words left to right ("ישראל שמע" for the Shema). An earlier version of this file claimed the opposite; it was
+      wrong, and a visual check had missed it. scripts/verify-rtl-order.py now tests it from the PDF text.
     """
     text = _code_span.sub(lambda m: m.group(1) if _has_script.search(m.group(1)) else m.group(0), text)
-    text = _heb_run.sub(lambda m: "`\\leavevmode\\allowbreak{\\hebrewfont " + m.group(0) + "}\\allowbreak`{=latex}", text)
+    text = _heb_run.sub(lambda m: "`\\leavevmode\\allowbreak{\\hebrewfont \\beginR " + m.group(0) + "\\endR}\\allowbreak`{=latex}", text)
     if greek:
         text = _grk_run.sub(lambda m: "`{\\greekfont " + m.group(0) + "}`{=latex}", text)
     return text

@@ -7,8 +7,10 @@
 %  * NO ucharclasses. It switches font at every BasicLatin character, including the SPACE between two
 %    Hebrew words, which splits a right-to-left phrase into separate runs and prints the words in the
 %    wrong order. Hebrew/Greek runs are wrapped explicitly by scripts/combine-biblehebrew.py instead.
-%  * Do NOT wrap Hebrew in \beginR..\endR: XeTeX already reorders a single Hebrew font run, so \beginR
-%    reverses it a second time.
+%  * Multi-word Hebrew MUST be wrapped in \beginR..\endR with \TeXXeTstate=1 (done by scripts/lib/hebrew_book.py).
+%    XeTeX reverses the letters inside each space-separated word but not the order of the words, so a plain Hebrew
+%    font run prints a phrase with its words left to right. (An earlier note here said the opposite; it was wrong.
+%    scripts/verify-rtl-order.py checks the PDF text for reading order.)
 %  * secnumdepth -1: chapter titles carry their own 第N章 (see chapter-template.md).
 
 \documentclass[11pt,openany]{book}
@@ -38,6 +40,7 @@
 % Times New Roman's Hebrew glyphs are drawn small; Scale=1.35 keeps the niqqud legible beside CJK
 % (gotchas.md: "A Hebrew/Greek fallback font needs an explicit Scale=").
 \newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew, Scale=1.35]
+\TeXXeTstate=1   % enables \beginR..\endR, which puts the WORDS of a Hebrew phrase in right-to-left order
 
 %% Classical English faces for the covers: Baskerville for running text, Didot for display lines.
 \newfontfamily\basklatin{Baskerville}[
@@ -164,8 +167,8 @@
   % a reader's title bar and in any catalogue). pdflang tells a screen reader the primary language.
   pdftitle={讀懂聖經的希伯來文 — Reading the Hebrew Old Testament},
   pdfauthor={PubHub 三書精讀系統},
-  pdfsubject={新手讀經入門：不必先學希伯來文，也能聰明利用希伯來文；字母、母音、基本文法、查字與唱一唱},
-  pdfkeywords={希伯來文, 舊約, 讀經, 查字, 創世記, 詩篇, OSHB, Hebrew, Old Testament, Bible study, 和合本, NASB, 唱一唱},
+  pdfsubject={卷一：新手讀經入門，不必先學希伯來文也能聰明利用希伯來文；卷二：舊約各卷〈原文研讀〉的希伯來文彙編與詞目總索引},
+  pdfkeywords={希伯來文, 舊約, 讀經, 查字, 詞目索引, 原文研讀, OSHB, Hebrew, Old Testament, Bible study, index, 和合本, NASB, 唱一唱},
   pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
   pdflang={zh-Hant}
 }
@@ -348,8 +351,10 @@ $endif$
 \vspace{0.7cm}
 
 % Series line
-{\fontsize{20}{26}\selectfont\bfseries\color{CoverCream} 新手讀經入門}\\[0.2cm]
-{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A First Guide for New Bible Students}
+{\fontsize{20}{26}\selectfont\bfseries\color{CoverCream} 卷一　新手讀經入門}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} Part One: A First Guide for New Bible Students}\\[0.35cm]
+{\fontsize{15}{20}\selectfont\bfseries\color{CoverCream} 卷二　各卷的希伯來文}\\[0.15cm]
+{\baskervillefont\itshape\small\color{CoverGoldBright} Part Two: The Hebrew of Each Book}
 
 \vspace{0.8cm}
 
@@ -359,8 +364,8 @@ $endif$
 {\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
 \vspace{0.3cm}
 
-{\hebrewfont\fontsize{17}{22}\selectfont\color{CoverGoldBright} שְׁמַע יִשְׂרָאֵל}\\[0.1cm]
-{\hebrewfont\fontsize{17}{22}\selectfont\color{CoverGoldBright} יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד}
+{\hebrewfont\fontsize{17}{22}\selectfont\color{CoverGoldBright}\beginR שְׁמַע יִשְׂרָאֵל\endR}\\[0.1cm]
+{\hebrewfont\fontsize{17}{22}\selectfont\color{CoverGoldBright}\beginR יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד\endR}
 
 \vspace{0.3cm}
 \small\itshape\color{CoverCream}
@@ -544,15 +549,15 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書寫給剛開始讀舊約的人：不必先學會希伯來文，也可以聰明地使用它。從字母與母音符號開始，經過一個字怎麼組成、基本文法、動詞，到怎樣查一個字才不被「原文」誤導，再用創世記 1:1-5 做一次完整的逐字讀。書中所有次數與統計，都由程式對 OSHB 希伯來文舊約逐詞計算；字彙表取自本系列舊約各卷「原文研讀」已經討論過的字；每隔幾章有一首可以唱的經文。
+本書分兩卷，寫給剛開始讀舊約的人：不必先學會希伯來文，也可以聰明地使用它。卷一從字母與母音符號開始，經過一個字怎麼組成、基本文法、動詞，到怎樣查一個字才不被「原文」誤導，再用創世記 1:1-5 做一次完整的逐字讀，每隔幾章有一首可以唱的經文；卷二把本系列舊約各卷「原文研讀」裏已經討論過的希伯來文收在一處：全系列一覽、各卷的字，以及依希伯來字母排列的詞目總索引。書中自己計算的次數與統計，都由程式對 OSHB 希伯來文舊約逐詞計算；卷二引用的各卷數字，另用程式重數過。
 
-{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ first guide for new Bible students: you do not have to learn Hebrew before you can use it wisely. It moves from the alphabet and vowel points, through how a word is built, basic grammar and the verb, to word studies that do not mislead, and ends with a full word-by-word reading of Genesis 1:1-5. Every count is computed from the OSHB text; the vocabulary comes from words the series has already discussed; and songs help the Scripture stay in memory.}
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ two-part book for new Bible students: you do not have to learn Hebrew before you can use it wisely. Part One moves from the alphabet and vowel points, through how a word is built, basic grammar and the verb, to word studies that do not mislead, and ends with a full word-by-word reading of Genesis 1:1-5, with songs along the way. Part Two gathers the Hebrew from the word studies of every Old Testament volume in the series: an overview, a book-by-book section, and an alphabetical index of Hebrew words. Every count the book itself reports is computed from the OSHB text; the counts quoted from the series' own volumes are recounted against it.}
 $endif$
 \end{minipage}
 
 \vspace{0.4cm}
 
-{\small\bfseries\color{CoverCream} 你會走過的五站}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Five Stations}
+{\small\bfseries\color{CoverCream} 卷一的五站與卷二}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Five Stations and Part Two}
 
 \vspace{0.3cm}
 
@@ -563,7 +568,8 @@ $endif$
 拆字 & 前綴、詞尾與基本文法 \textit{\baskervillefont\color{CoverCream} Prefixes, suffixes, grammar} & {\tiny\color{CoverMuted} 第 5–6 章}\\[0.25em]
 動詞 & 詞幹與形式 \textit{\baskervillefont\color{CoverCream} Stems and forms} & {\tiny\color{CoverMuted} 第 7 章}\\[0.25em]
 用 & 查字、數字、逐字讀 \textit{\baskervillefont\color{CoverCream} Word studies and a full reading} & {\tiny\color{CoverMuted} 第 8–10 章}\\[0.25em]
-帶著走 & 字彙、工具、十週計劃 \textit{\baskervillefont\color{CoverCream} Vocabulary, tools, a ten-week plan} & {\tiny\color{CoverMuted} 第 11–13 章}\\
+帶著走 & 字彙、工具、十週計劃 \textit{\baskervillefont\color{CoverCream} Vocabulary, tools, a ten-week plan} & {\tiny\color{CoverMuted} 第 11–13 章}\\[0.25em]
+卷二 & 各卷的希伯來文：一覽、各卷、詞目總索引 \textit{\baskervillefont\color{CoverCream} Hebrew book by book, with an index} & {\tiny\color{CoverMuted} 卷二}\\
 \end{tabular}
 \end{minipage}
 

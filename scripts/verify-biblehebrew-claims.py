@@ -10,6 +10,7 @@ spec = importlib.util.spec_from_file_location("g", os.path.join(ROOT, "scripts/g
 g = importlib.util.module_from_spec(spec); spec.loader.exec_module(g)
 toks = list(g.tokens())
 N = lambda s: unicodedata.normalize("NFD", s)
+F = lambda t: N(g.strip_cantillation(t).replace(g.MAQQEF, ""))   # a word as spelled, minus cantillation and maqqef
 fails = 0
 
 
@@ -40,7 +41,7 @@ seq = [toks[i][0] for i in range(len(toks) - 2)
        and "Sp3ms" in toks[i + 2][2]]
 check("'כי לעולם חסדו' = 41 by lemma", len(seq) == 41, str(len(seq)))
 exact = [toks[i][0] for i in range(len(toks) - 2)
-         if N(g.strip_cantillation(toks[i][3])) + N(g.strip_cantillation(toks[i + 1][3])) + N(g.strip_cantillation(toks[i + 2][3]))
+         if F(toks[i][3]) + F(toks[i + 1][3]) + F(toks[i + 2][3])
          == N("כִּי") + N("לְעוֹלָם") + N("חַסְדּוֹ")]
 check("…= 40 with identical spelling (Ps 136:3 is defective)", len(exact) == 40 and "Ps.136.3" not in exact, str(len(exact)))
 refs = {"1Chr.16.34", "1Chr.16.41", "2Chr.5.13", "2Chr.7.3", "2Chr.7.6", "2Chr.20.21", "Ezra.3.11", "Jer.33.11", "Ps.106.1",
