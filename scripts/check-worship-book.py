@@ -173,7 +173,7 @@ if "## 附錄七" in text:
         Lb = text.split("\n")
         used_ext, bad2 = 0, []
         for i, l in enumerate(Lb):
-            if re.match(r"> — (Clayton Erb|John Wesley|Billy Graham|John MacArthur|Cliff Barrows|Ira D\. Sankey|C\. H\. Spurgeon|John Calvin)", l):
+            if re.match(r"> — (Clayton Erb|John Wesley|Billy Graham|John MacArthur|Cliff Barrows|Ira D\. Sankey|C\. H\. Spurgeon|John Calvin|BGEA 官網 Cliff Barrows)", l):
                 j = i - 1
                 if Lb[j].strip() == ">":          # the empty quote line between the quotation and its citation
                     j -= 1

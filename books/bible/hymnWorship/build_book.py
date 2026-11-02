@@ -610,7 +610,7 @@ EXT = {  # id -> (English text printed in the book, source label, [urls that mus
     "wesley7": ("Above all sing spiritually. Have an eye to God in every word you sing. Aim at pleasing him more than yourself, or any other creature.",
                 "John Wesley, Directions for Singing（1761）",
                 ["https://bachlund.org/Directions_for_Singing.htm", "https://www.wholesomewords.org/resources/singinghymns.html"]),
-    "erb_questions": ("Are the words doctrinally sound? Is the text Biblical? Does it stimulate spiritual thought? Does it properly instruct? Does it inspire high spiritual ideals? Does the music fit the text? Is it excellent? Does it fit the need? Does it produce a wholesome response?",
+    "erb_questions": ("Are the words doctrinally sound? Is the text Biblical? Does it stimulate spiritual thought? Does it properly instruct? Does it inspire high spiritual ideals? Does the music fit the text? Is it excellent? Does it fit the need? Does it produce a wholesome response? Do harmful associations come to mind because of the musical style or the composer's name?",
                       "Clayton Erb, The Role of Music in Worship, Part One D",
                       ["https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"]),
     "erb_first": ("The first step in planning a worship service is to have a quiet time with the Lord, asking Him to lead and direct you as to what should be accomplished",
@@ -636,7 +636,7 @@ EXT = {  # id -> (English text printed in the book, source label, [urls that mus
     "mac_prayer_highest": ("If prayer is anything, it is the highest form of worship that an individual can participate in, because prayer is saying, \"God, Your name, Your kingdom, Your will be elevated, not my will, not my kingdom, not my name.\"",
           "John MacArthur, \"Prayer: The Highest Form of Worship\"（gty.org 講道 90-447）", ["https://www.gty.org/sermons/90-447/prayer-the-highest-form-of-worship"]),
     "barrows_hymn": ("There is not a situation in life where there isn't a hymn and a Scripture to meet the need.",
-          "Cliff Barrows，BGEA 官網人物頁", ["https://billygraham.org/cliff-barrows"]),
+          "BGEA 官網 Cliff Barrows 人物頁（引在他的名字之下）", ["https://billygraham.org/cliff-barrows"]),
     "graham_thank": ("Begin when you pray by thanking and praising God for His love and goodness.",
           "Billy Graham, My Answer: \"How do I pray properly?\"（BGEA 官網）", ["https://billygraham.org/answers/how-do-i-pray-properly"]),
     "graham_confess": ("Then confess your sins and ask for His forgiveness. Finally, bring your concerns to Him. You may find it helpful to keep a list of people for whom you are praying.",
@@ -652,7 +652,7 @@ EXT = {  # id -> (English text printed in the book, source label, [urls that mus
     "spurgeon_praise": ("There is no engagement under heaven that is more exalting than praising God, and however great may be the work which is committed to the charge of any of us, we shall always do well if we pause awhile to spend a time in sacred praise.",
                         "C. H. Spurgeon, \"Holy Song from Happy Saints\"（Metropolitan Tabernacle Pulpit 3476，講於 1871-03-05）",
                         ['https://www.spurgeon.org/sermons/holy-song-from-happy-saints', 'https://ccel.org/ccel/spurgeon/sermons61.xxxvii.html']),
-    "spurgeon_nuance": ("I would not wish to prefer one spiritual exercise before another",
+    "spurgeon_nuance": ("I would not wish to prefer one spiritual exercise before another, else I think I would endorse the saying of an old divine who said that a line of praise was better than even a leaf of prayer",
                         "C. H. Spurgeon, \"Holy Song from Happy Saints\"（Metropolitan Tabernacle Pulpit 3476，講於 1871-03-05）",
                         ['https://www.spurgeon.org/sermons/holy-song-from-happy-saints', 'https://ccel.org/ccel/spurgeon/sermons61.xxxvii.html']),
     "calvin_heart": ("the spiritual songs cannot be well sung save from the heart",
@@ -768,7 +768,7 @@ John MacArthur 在談真敬拜的要素時，把「話語」與「敬拜」連�
 """)
 w("> " + EXT["mac_scripture_worship"][0] + "\n>\n> — " + EXT["mac_scripture_worship"][1] + "\n")
 w("""
-與「用誠實」同一個方向：認識神的話越準確，敬拜越有內容。（編者概述。）
+與「用誠實」同一個方向：認識神的話越多、越深，敬拜越有內容。（編者概述。）
 """)
 w("## 敬拜是整個人的獻上\n")
 w(scripture("羅 12:1"))
@@ -858,11 +858,11 @@ w("""Spurgeon 在一篇講以賽亞書 5:1「我要為我所親愛的唱歌」�
 """)
 w("> " + EXT["spurgeon_praise"][0] + "\n>\n> — " + EXT["spurgeon_praise"][1] + "\n")
 w("""
-他隨後補了一句，免得人把讚美與禱告比高低：
+他緊接著說（完整的一句，沒有截斷）：
 """)
 w("> " + EXT["spurgeon_nuance"][0] + "\n>\n> — " + EXT["spurgeon_nuance"][1] + "\n")
 w("""
-（編者概述：這就是每日敬拜把「讚美」放在前面、卻不貶低禱告的原因；以下是簡式晨禱與晚禱。）
+（編者概述：Spurgeon 自己有傾向，卻節制不偏重某一種操練。本書每日敬拜把「讚美」放在前面，是編者的編排，**Spurgeon 並沒有談每日的次序**。以下是簡式晨禱與晚禱。）
 """)
 w("## 簡式晨禱（十分鐘）\n")
 w("""1. **靜默一分鐘。**不要先看手機。
@@ -1015,15 +1015,15 @@ w("""Grace Community Church 講義把「團契」列為聖經中教會敬拜的�
 w(scripture("徒 2:42"))
 w(scripture("來 10:24-25"))
 w("## 司會與領唱的預備\n")
-w("""下面的做法，取自 Grace Community Church 官方網站上的講義〈The Role of Music in Worship〉（作者 Dr. Clayton Erb，該教會的 Minister of Worship & Music；12 頁的神學院課程講義，不是教會的信仰宣言，也不是 MacArthur 本人的著作）。**英文引語都已重新抓取原文逐字核對**（見附錄七）；其餘是編者的中文概述，不加引號。
+w("""下面的做法，取自 Grace Community Church 官方網站上的講義〈The Role of Music in Worship〉（作者 Dr. Clayton Erb，該教會的 Minister of Worship & Music；12 頁的課程講義，不是教會的信仰宣言，也不是 MacArthur 本人的著作）。**英文引語都已重新抓取原文逐字核對**（見附錄七）；其餘是編者的中文概述，不加引號。
 
 **一、先與主同在，再排程序。**
 """)
 w("> " + EXT["erb_first"][0] + "\n>\n> — " + EXT["erb_first"][1] + "\n")
 w(f"""
-講義接著引雅各書 1:5：「{inline("雅 1:5")}」本書卷三的〈靜默預備〉，用意相同：司會先安靜，再開口。
+講義接著標出雅各書 1:5（和合本：「{inline("雅 1:5")}」；講義沒有引出經文）。本書卷三的〈靜默預備〉，用意相同：司會先安靜，再開口。
 
-**二、凡事規規矩矩，按著次序。**講義引哥林多前書 14:40：「{inline("林前 14:40")}」並且說：
+**二、凡事規規矩矩，按著次序。**講義引了哥林多前書 14:40 的英文（和合本：「{inline("林前 14:40")}」），並且說：
 """)
 w("> " + EXT["erb_format"][0] + "\n>\n> — " + EXT["erb_format"][1] + "\n")
 w("""
@@ -1115,10 +1115,10 @@ w("""**怎麼讀這一卷：**歌詞原文取自庫裏已核對的章節；作�
 
 **會眾唱詩七要**（約翰·衛斯理，1761）：一、先學詩集裏的曲調；二、照印的唱，不自己改；三、全體都唱，軟弱疲倦也要唱；四、要有力量、有勇氣；五、要謙和，不蓋過會眾；六、要合拍，不快不慢；七、**最要緊的是用靈性唱**，一字一句都對著神。
 
-**選詩十問**（Grace Community Church 講義〈The Role of Music in Worship〉）：這首詩的歌詞合乎教義嗎？文本有聖經根據嗎？能激發屬靈的思想嗎？能正確地教導嗎？能激勵高尚的屬靈理想嗎？曲調與歌詞相配嗎？製作與演唱夠精緻嗎？合乎這次聚會的需要嗎？能帶來健康的回應嗎？會不會因為曲風或作曲者的名字，讓人聯想到有害的事？
+**選詩十問**（Grace Community Church 講義〈The Role of Music in Worship〉）：這首詩的歌詞合乎教義嗎？文本有聖經根據嗎？能激發屬靈的思想嗎？能正確地教導嗎？能激勵高尚的屬靈理想嗎？曲調與歌詞相配嗎？夠出色、夠精緻嗎？合乎這次聚會的需要嗎？能帶來健康的回應嗎？會不會因為曲風或作曲者的名字，讓人聯想到有害的事？
 """)
 w("""
-**用心、用領會地唱**：Calvin 在 1543 年日內瓦詩篇集的序裏，與衛斯理說的是同一件事（以下英譯取自 Christian History Institute 轉載的版本；**另有譯本措辭不同**，例如把其中一種鳥寫成 jay；原文本輪未核對，所以只引這兩句）：
+**用心、用領會地唱**：Calvin 在 1543 年日內瓦詩篇集的序裏，與衛斯理說的是同一件事（以下英譯取自 Christian History Institute 轉載的版本；搜尋結果顯示**另有譯本措辭不同**，但我沒有能開啟那一頁核對；原文也未核對，所以只引這兩句）：
 """)
 w("> " + EXT["calvin_gift"][0] + "\n>\n> — " + EXT["calvin_gift"][1] + "\n")
 w("> " + EXT["calvin_heart"][0] + "\n>\n> — " + EXT["calvin_heart"][1] + "\n")
@@ -1192,12 +1192,12 @@ w("## 禱告的四個方向\n")
 w("""常見的禱告架構把禱告分成四個方向：**讚美、認罪、感恩、祈求**（英文常以 ACTS 幫助記憶）。你不用每次四樣都做，但長期缺了哪一樣，禱告就容易變成單向的清單。以下每一樣都用聖經現成的話。
 """)
 w("### 一個簡單的次序（Billy Graham）\n")
-w("""BGEA 官網上有 Graham 在〈My Answer〉專欄裏回答「怎樣禱告」的文字（英文引語已逐字核對）。他給的次序，與下面的四個方向一致：
+w("""BGEA 官網上有 Graham 在〈My Answer〉專欄裏回答「怎樣禱告」的文字（英文引語已逐字核對）。他給的次序是三步：先感謝並稱頌，再認罪求赦免，最後把所關心的事帶到神面前；與下面的四個方向大致相近，只是他把感恩與讚美合在開頭：
 """)
 w("> " + EXT["graham_thank"][0] + "\n>\n> — " + EXT["graham_thank"][1] + "\n")
 w("> " + EXT["graham_confess"][0] + "\n>\n> — " + EXT["graham_confess"][1] + "\n")
 w("""
-他也說，禱告不必拘謹，也不必覺得是負擔：
+他也說，禱告就是和神說話，不要把它看成負擔，而要看成特權：
 """)
 w("> " + EXT["graham_talking"][0] + "\n>\n> — " + EXT["graham_talking"][1] + "\n")
 w("> " + EXT["graham_privilege"][0] + "\n>\n> — " + EXT["graham_privilege"][1] + "\n")
@@ -1321,7 +1321,7 @@ w(f"""**這一節如實交代本書每一類材料怎麼來，以及哪些事沒
 
 
 w("\n## 附錄四 · 處境索引\n")
-w("""Cliff Barrows（Billy Graham 福音協會的音樂與節目主任，帶領會眾唱詩六十年）說過一句話，這張索引做的就是這件事：
+w("""BGEA 官網的 Cliff Barrows 人物頁（他是 Billy Graham 福音協會的音樂與節目主任，與 Graham 並肩事奉六十年，曾帶領聚會中的會眾與詩班唱詩），在他的名字下引了一句話；這張索引做的就是這件事（頁面沒有另註這句話的場合）：
 """)
 w("> " + EXT["barrows_hymn"][0] + "\n>\n> — " + EXT["barrows_hymn"][1] + "\n")
 w("""
@@ -1395,10 +1395,10 @@ w("""衛斯理在 1761 年出版的衛理詩歌集（*Select Hymns: with Tunes A
 """)
 w("> " + EXT["wesley7"][0] + "\n>\n> — " + EXT["wesley7"][1] + "\n")
 w("""
-這與本書序言的原則相合：歌唱不是表演，是**把心獻給神**；用意不在聲音好不好聽，而在歌詞是不是出於心（見骨幹章〈敬拜的次序〉）。
+這與骨幹章〈敬拜的次序〉所說「以自己的感覺為中心」的偏差同一個方向：第 7 條要人留心所唱的意思，使心不被聲音帶走，而是獻給神。
 """)
 w("### 二、Grace Community Church 的敬拜與音樂事工\n")
-w("""**來源**：以下取自該教會官方網站（gracechurch.org）上的官方資源：音樂事工頁列出的講義〈The Role of Music in Worship〉，作者標明為 Dr. Clayton Erb（Grace Community Church 的 Minister of Worship & Music）；這是一份 12 頁的神學院課程講義（檔案標題為 2012 PM612 Syllabus），**不是教會的信仰宣言，也不是 MacArthur 本人的著作**。
+w("""**來源**：以下取自該教會官方網站（gracechurch.org）上的官方資源：音樂事工頁列出的講義〈The Role of Music in Worship〉，作者標明為 Dr. Clayton Erb（Grace Community Church 的 Minister of Worship & Music）；這是一份 12 頁的課程講義（檔案標題為 2012 PM612 Syllabus；是哪一所學校的課程，講義沒有寫），**不是教會的信仰宣言，也不是 MacArthur 本人的著作**。
 
 **1. 聖經中教會敬拜的十一項活動**（講義 Part One C；每項都附經文依據，此處只列項目與本書對應的位置）：
 
@@ -1413,8 +1413,8 @@ w("""**來源**：以下取自該教會官方網站（gracechurch.org）上的�
 | 洗禮與聖餐（Ordinances of baptism and communion） | 卷三〈聖餐〉；〈特別場合〉的洗禮 |
 | 奉獻（Giving） | 卷三〈奉獻與感恩〉 |
 | 話語的教導（Instruction in the Word） | 卷三〈聖言〉（講道） |
-| 話語的應用（Application of the Word） | 卷三〈聖言〉；各章的默想問題 |
-| 團契（Fellowship） | **本書沒有專設的環節**（可加在宣召前或差遣後） |
+| 話語的應用（Application of the Word） | 本書沒有專設；由卷五每首聖詩後的〈默想〉、卷二的簡式晨禱／晚禱部分承擔 |
+| 團契（Fellowship） | 卷三〈附：彼此問安與團契（可選）〉（十一個環節之外的可選項，可放在宣召前或差遣後） |
 
 **2. 怎樣判斷一首詩適不適合敬拜**（講義 Part One D 的十問，原文）：
 """)
@@ -1432,7 +1432,7 @@ w("""
 **4. 該教會公開的資源**（官方網頁所列）：
 - **Hymns of Grace**：Grace Community Church 與 The Master's Seminary 於 2016 年合作出版的詩歌本，官方稱為該教會的詩歌本；官網另說他們也出版 Spanish 版（Himnos de Gracia），並透過 *Psalms of Grace* 推廣唱詩篇。官方網站：hymnsofgrace.org。
 - **音樂事工資源頁**（gracechurch.org/music）：列有〈The Role of Music in Worship〉、〈Copyright FAQ〉、〈CCLI〉、詩歌伴奏（Hymn Accompaniments）、〈Celebrating 45 Years of Worship with Stephen Sturz〉等檔案。
-- **YouTube 官方頻道**：youtube.com/@GraceChurchSunValley（頻道名稱 Grace Community Church）；音樂資源頁上嵌入的影片是《Stephen Sturz' 45 Year Anniversary》。
+- **YouTube 官方頻道**：youtube.com/@GraceChurchSunValley（頻道名稱 Grace Community Church）；音樂資源頁的檔案清單裏有一項〈Celebrating 45 Years of Worship with Stephen Sturz〉，連結到 YouTube 上的一支影片（YouTube 上的影片標題是《Stephen Sturz' 45 Year Anniversary》，頻道為 Grace Community Church）。該頁面上沒有嵌入影片，只有連結。
 """)
 w("### 三、John MacArthur（gty.org 講道逐字稿）\n")
 w("""本書讀了他的五篇講道逐字稿（gty.org 的講道頁面，英文引語已重新抓取原頁面逐字核對）：
@@ -1450,7 +1450,7 @@ w("""本書讀了他的五篇講道逐字稿（gty.org 的講道頁面，英文�
 w("### 四、Billy Graham 與 Cliff Barrows\n")
 w("""取自 Billy Graham Evangelistic Association（BGEA）官網與 Christian History Institute 的人物介紹（兩處都是機構／雜誌的介紹文，**不是 Graham 或 Barrows 本人的講章**）：
 
-- Cliff Barrows 在 1945 年首次於 Graham 的聚會中獻唱（北卡羅來納州 Asheville），後來全職加入 Graham 的事工，在福音協會成立時是創始董事之一，並接手 *Hour of Decision* 廣播節目；BGEA 官網說他擔任這個節目的主持人超過六十年。
+- Cliff Barrows 與 Graham 的初次相遇在 1945 年的 Asheville 一帶：BGEA 官網說他當時在蜜月旅行中遇見 Graham；Christian History Institute 說他在那一年首次於 Graham 的聚會中獻唱。兩個來源說法不同，本書兩說並列。他後來全職加入 Graham 的事工，在福音協會成立時是創始董事之一，並接手 *Hour of Decision* 廣播節目；BGEA 官網說他擔任這個節目的主持人超過六十年。
 - George Beverly Shea 是 Graham 核心團隊中年紀最長的一位（Christian History Institute）。
 - Graham 在自傳 *Just As I Am* 裏這樣評論 Barrows（BGEA 官網轉引）：
 """)
@@ -1460,19 +1460,19 @@ w("""
 - **詩歌**：Barrows 在 BGEA 官網人物頁上的一句話，本書放在附錄四〈處境索引〉開頭。
 """)
 w("""
-這一點與衛斯理的第三、四條互相呼應：**帶領會眾唱詩是一種恩賜，也是一種服事**；它的目標是眾人一起唱，不是一個人唱得好。
+（編者的看法，不是 BGEA 或衛斯理的話：帶領會眾唱詩是一種服事，目標是眾人一起唱，不是一個人唱得好；這與衛斯理第三、四條要求全體都唱、要有力量地唱，方向相近。）
 """)
 w("### 五、Dwight Moody 與 Ira Sankey（1870 年代的搭檔）\n")
-w("""Moody 是講道的，Sankey 是領唱與獨唱的，兩人搭檔的方式與後來的 Graham 與 Barrows 很像。Sankey 在回憶錄裏記下他們在英國 Sunderland 一座教會看到的海報（這就是「唱福音」〔sing the gospel〕這個說法的由來）：
+w("""Moody 是講道的，Sankey 是領唱與獨唱的，兩人搭檔的方式與後來的 Graham 與 Barrows 很像。Sankey 在回憶錄裏記下他們在英國 Sunderland 一座教會看到的海報（據 Sankey 自己的記述，「唱福音」〔sing the gospel〕這個說法就是從這張海報來的）：
 """)
 w("> " + EXT["sankey_gospel"][0] + "\n>\n> — " + EXT["sankey_gospel"][1] + "\n")
 w("""
 **來源說明**：Sankey 的回憶錄是公有領域；這句話在兩份**不同的掃描／OCR**（Princeton 神學院藏本與另一份掃描，兩者都是 1907 年版）裏逐字相同，已用腳本核對。OCR 的錯誤因此不太可能同時出現在兩份，但**兩份掃描是同一個版本，若該版本本身有誤，這個核對看不出來**。書中其他 Sankey 的故事本書沒有引用。
 """)
 w("### 六、Calvin 與 Spurgeon\n")
-w("""**Calvin**（日內瓦詩篇集序，1543）：卷五引了兩句。英譯取自 Christian History Institute 的「每日引言」頁，該頁註明轉自 *Leben* 2:2（2006）第 16 頁；**同一段文字另有措辭不同的英譯**，所以這兩句只能說「這個譯本如此說」，不是 Calvin 原文的逐字翻譯；法文／拉丁文本本輪沒有讀。
+w("""**Calvin**（日內瓦詩篇集序，1543）：卷五引了兩句。英譯取自 Christian History Institute 的「每日引言」頁，該頁註明轉自 *Leben* 2:2（2006）第 16 頁；搜尋結果顯示**同一段文字另有措辭不同的英譯**（本輪沒能開啟那一頁，也就沒有核對是哪裏不同），所以這兩句只能說「這個譯本如此說」，不是 Calvin 原文的逐字翻譯；法文／拉丁文本本輪沒有讀。
 
-**Spurgeon**（講章 *Holy Song from Happy Saints*，Metropolitan Tabernacle Pulpit 第 3476 號，1871-03-05）：卷二引了兩句；同一段文字在 spurgeon.org 與 CCEL 兩個網站逐字相同；Answers in Genesis 的版本把措辭現代化了（例如 “pause for a while to spend time”），所以不算數。他在這篇裏**沒有**比較讚美與禱告的高低（他引一位老神學家說「讚美的一行勝過禱告的一頁」，隨即說自己不願偏重其中一樣），所以本書兩句並引，不單引前一句。他談會眾歌唱的其他講章與《Our Own Hymn-Book》的序，本輪沒有取得可核對的全文。
+**Spurgeon**（講章 *Holy Song from Happy Saints*，Metropolitan Tabernacle Pulpit 第 3476 號，1871-03-05）：卷二引了兩句；同一段文字在 spurgeon.org 與 CCEL 兩個網站逐字相同；Answers in Genesis 的版本把措辭現代化了（例如 “pause for a while to spend time”），所以不算數。他在這篇裏引了一位老神學家「讚美的一行勝過禱告的一頁」的說法，並說若不是不願偏重某一種屬靈操練，他會贊同這句話：他有傾向，但自我節制；所以本書兩句並引，而且第二句引完整句，不截斷。他談會眾歌唱的其他講章與《Our Own Hymn-Book》的序，本輪沒有取得可核對的全文。
 """)
 w("### 七、馬丁·路德（轉引，未加引號）\n")
 w("""路德在 1538 年為 Georg Rhau 的《*Symphoniae iucundae*》寫序，把音樂放在神的話之後，評價極高（《路德著作集》第 53 卷，頁碼待核）。本書只讀到轉引這段的網頁，沒有讀到原書，所以**不引原文、不加引號**。

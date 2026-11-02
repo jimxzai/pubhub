@@ -8,7 +8,7 @@
   }
  },
  "erb_questions": {
-  "text": "Are the words doctrinally sound? Is the text Biblical? Does it stimulate spiritual thought? Does it properly instruct? Does it inspire high spiritual ideals? Does the music fit the text? Is it excellent? Does it fit the need? Does it produce a wholesome response?",
+  "text": "Are the words doctrinally sound? Is the text Biblical? Does it stimulate spiritual thought? Does it properly instruct? Does it inspire high spiritual ideals? Does the music fit the text? Is it excellent? Does it fit the need? Does it produce a wholesome response? Do harmful associations come to mind because of the musical style or the composer's name?",
   "ok": true,
   "urls": {
    "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf": "OK"
@@ -129,7 +129,7 @@
   }
  },
  "spurgeon_nuance": {
-  "text": "I would not wish to prefer one spiritual exercise before another",
+  "text": "I would not wish to prefer one spiritual exercise before another, else I think I would endorse the saying of an old divine who said that a line of praise was better than even a leaf of prayer",
   "ok": true,
   "urls": {
    "https://www.spurgeon.org/sermons/holy-song-from-happy-saints": "OK",
