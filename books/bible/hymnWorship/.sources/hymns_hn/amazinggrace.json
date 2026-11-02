@@ -1,0 +1,21 @@
+{
+ "url": "https://www.hymnal.net/en/hymn/h/313",
+ "stanzas": [
+  {
+   "type": "verse",
+   "text": "Amazing grace! how sweet the sound,\nThat saved a wretch; like me!\nI once was lost, but now am found,\nWas blind, but now I see."
+  },
+  {
+   "type": "verse",
+   "text": "’Twas grace that taught my heart to fear,\nAnd grace my fears relieved;\nHow precious did that grace appear\nThe hour I first believed!"
+  },
+  {
+   "type": "verse",
+   "text": "The Lord hath promised good to me,\nHis word my hope secures;\nHe will my shield and portion be\nAs long as life endures."
+  },
+  {
+   "type": "verse",
+   "text": "When we’ve been there ten thousand years,\nBright shining as the sun,\nWe’ve no less days to sing God’s praise\nThan when we first begun."
+  }
+ ]
+}

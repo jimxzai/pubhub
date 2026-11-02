@@ -1,0 +1,322 @@
+{
+ "abidewithme": {
+  "ok": true,
+  "min_ratio": 0.988,
+  "detail": [
+   0.997,
+   0.988
+  ],
+  "n": 5
+ },
+ "amazinggrace": {
+  "ok": true,
+  "min_ratio": 1.0,
+  "detail": [
+   1.0,
+   1.0
+  ],
+  "n": 4
+ },
+ "amightyfortressisourgod": {
+  "ok": true,
+  "min_ratio": 0.992,
+  "detail": [
+   1.0,
+   0.992
+  ],
+  "n": 4
+ },
+ "andcanitbethatishouldgain": {
+  "ok": false,
+  "min_ratio": 0.389,
+  "detail": [
+   0.83,
+   0.389
+  ],
+  "n": 5
+ },
+ "bethoumyvision": {
+  "ok": false,
+  "min_ratio": 0.948,
+  "detail": [
+   1.0,
+   0.948
+  ],
+  "n": 4
+ },
+ "blestbethetiethatbinds": {
+  "ok": false,
+  "min_ratio": 0.909,
+  "detail": [
+   0.909,
+   1.0,
+   1.0,
+   1.0
+  ],
+  "n": 5
+ },
+ "breakthouthebreadoflife": {
+  "ok": false,
+  "min_ratio": 0.963,
+  "detail": [
+   1.0,
+   0.963
+  ],
+  "n": 4
+ },
+ "christthelordisrisentoday": {
+  "ok": false,
+  "min_ratio": 0.79,
+  "detail": [
+   0.79,
+   0.948
+  ],
+  "n": 4
+ },
+ "comethoufountofeveryblessing": {
+  "ok": false,
+  "min_ratio": 0.388,
+  "detail": [
+   0.522,
+   0.388
+  ],
+  "n": 3
+ },
+ "crownhimwithmanycrowns": {
+  "ok": false,
+  "min_ratio": 0.925,
+  "detail": [
+   0.925
+  ],
+  "n": 5
+ },
+ "gloriousthingsoftheearespoken": {
+  "ok": false,
+  "min_ratio": 0.328,
+  "detail": [
+   0.328
+  ],
+  "n": 4
+ },
+ "godmovesinamysteriousway": {
+  "ok": true,
+  "min_ratio": 1.0,
+  "detail": [
+   1.0,
+   1.0
+  ],
+  "n": 6
+ },
+ "greatisthyfaithfulness": {
+  "ok": false,
+  "min_ratio": 0.442,
+  "detail": [
+   1.0,
+   0.442
+  ],
+  "n": 3
+ },
+ "guidemeothougreatjehovah": {
+  "ok": false,
+  "min_ratio": 0.821,
+  "detail": [
+   0.821,
+   0.86
+  ],
+  "n": 2
+ },
+ "havethineownwaylord": {
+  "ok": false,
+  "min_ratio": 0.905,
+  "detail": [
+   0.997,
+   0.905
+  ],
+  "n": 4
+ },
+ "holyholyholylordgodalmighty": {
+  "ok": false,
+  "min_ratio": 0.912,
+  "detail": [
+   0.912,
+   1.0
+  ],
+  "n": 3
+ },
+ "howfirmafoundation": {
+  "ok": false,
+  "min_ratio": 0.886,
+  "detail": [
+   0.895,
+   0.886
+  ],
+  "n": 6
+ },
+ "immortalinvisiblegodonlywise": {
+  "ok": true,
+  "min_ratio": 0.981,
+  "detail": [
+   1.0,
+   0.981
+  ],
+  "n": 5
+ },
+ "itiswellwithmysoul": {
+  "ok": true,
+  "min_ratio": 0.99,
+  "detail": [
+   0.99,
+   0.994
+  ],
+  "n": 4
+ },
+ "jesuspaiditall": {
+  "ok": false,
+  "min_ratio": 0.342,
+  "detail": [
+   1.0,
+   0.342
+  ],
+  "n": 4
+ },
+ "jesusshallreignwhereerthesun": {
+  "ok": false,
+  "min_ratio": 0.962,
+  "detail": [
+   0.962,
+   1.0
+  ],
+  "n": 6
+ },
+ "justasiamwithoutoneplea": {
+  "ok": true,
+  "min_ratio": 0.996,
+  "detail": [
+   0.996,
+   1.0
+  ],
+  "n": 6
+ },
+ "nearermygodtothee": {
+  "ok": false,
+  "min_ratio": 0.897,
+  "detail": [
+   0.928,
+   0.897
+  ],
+  "n": 4
+ },
+ "ofthefatherslovebegotten": {
+  "ok": true,
+  "min_ratio": 0.987,
+  "detail": [
+   0.987
+  ],
+  "n": 4
+ },
+ "ogodourhelpinagespast": {
+  "ok": true,
+  "min_ratio": 1.0,
+  "detail": [
+   1.0,
+   1.0
+  ],
+  "n": 6
+ },
+ "ojesusihavepromised": {
+  "ok": true,
+  "min_ratio": 1.0,
+  "detail": [
+   1.0
+  ],
+  "n": 5
+ },
+ "olovethatwiltnotletmego": {
+  "ok": true,
+  "min_ratio": 1.0,
+  "detail": [
+   1.0
+  ],
+  "n": 4
+ },
+ "owordofgodincarnate": {
+  "ok": true,
+  "min_ratio": 1.0,
+  "detail": [
+   1.0
+  ],
+  "n": 4
+ },
+ "praisetothelordthealmighty": {
+  "ok": false,
+  "min_ratio": 0.851,
+  "detail": [
+   0.851
+  ],
+  "n": 5
+ },
+ "rockofagescleftforme": {
+  "ok": false,
+  "min_ratio": 0.579,
+  "detail": [
+   0.98,
+   0.579
+  ],
+  "n": 4
+ },
+ "standupstandupforjesus": {
+  "ok": false,
+  "min_ratio": 0.83,
+  "detail": [
+   0.83
+  ],
+  "n": 4
+ },
+ "takemylifeandletitbe": {
+  "ok": false,
+  "min_ratio": 0.869,
+  "detail": [
+   0.869,
+   0.889,
+   0.879,
+   0.873,
+   0.889,
+   0.903
+  ],
+  "n": 6
+ },
+ "thechurchsonefoundation": {
+  "ok": true,
+  "min_ratio": 0.986,
+  "detail": [
+   0.986
+  ],
+  "n": 4
+ },
+ "thereisafountainfilledwithblood": {
+  "ok": true,
+  "min_ratio": 1.0,
+  "detail": [
+   1.0
+  ],
+  "n": 5
+ },
+ "trustandobey": {
+  "ok": false,
+  "min_ratio": 0.171,
+  "detail": [
+   1.0,
+   0.171
+  ],
+  "n": 5
+ },
+ "whatafriendwehaveinjesus": {
+  "ok": false,
+  "min_ratio": 0.866,
+  "detail": [
+   0.866,
+   1.0
+  ],
+  "n": 3
+ }
+}

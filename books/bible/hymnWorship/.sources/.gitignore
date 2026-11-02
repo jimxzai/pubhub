@@ -1,0 +1,6 @@
+# Regenerable third-party page/JSON caches (scripts in this folder re-fetch them)
+biblehub/
+cnbible/
+fhl/
+fhl_full/
+__pycache__/

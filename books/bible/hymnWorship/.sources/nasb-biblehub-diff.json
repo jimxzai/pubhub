@@ -1,0 +1,635 @@
+{
+ "res": {
+  "SAME": 529,
+  "SITE-EXTRA": 27,
+  "BH-EXTRA": 51,
+  "DIFF": 0
+ },
+ "bad": [
+  [
+   "BH-EXTRA",
+   "colossians",
+   1,
+   12,
+   "giving thanks to the Father, who has qualified us to share in the inheritance of the saint",
+   "giving thanks to the Father, who has qualified us to share in the inheritance of the saint"
+  ],
+  [
+   "BH-EXTRA",
+   "ephesians",
+   3,
+   21,
+   "to Him [be] the glory in the church and in Christ Jesus to all generations forever and eve",
+   "to Him be the glory in the church and in Christ Jesus to all generations forever and ever."
+  ],
+  [
+   "BH-EXTRA",
+   "isaiah",
+   6,
+   7,
+   "He touched my mouth [with it] and said, 'Behold, this has touched your lips; and your iniq",
+   "He touched my mouth with it and said, “Behold, this has touched your lips; and your iniqui"
+  ],
+  [
+   "BH-EXTRA",
+   "john",
+   12,
+   26,
+   "'If anyone serves Me, he must follow Me; and where I am, there My servant will be also; if",
+   "“If anyone serves Me, he must follow Me; and where I am, there My servant will be also; if"
+  ],
+  [
+   "BH-EXTRA",
+   "john",
+   14,
+   15,
+   "'If you love Me, you will keep My commandments.",
+   "“If you love Me, you will keep My commandments.\n  Role of the Spirit        "
+  ],
+  [
+   "BH-EXTRA",
+   "jude",
+   1,
+   25,
+   "to the only God our Savior, through Jesus Christ our Lord, [be] glory, majesty, dominion a",
+   "to the only God our Savior, through Jesus Christ our Lord, be glory, majesty, dominion and"
+  ],
+  [
+   "BH-EXTRA",
+   "mark",
+   10,
+   16,
+   "And He took them in His arms and [began] blessing them, laying His hands on them.",
+   "And He took them in His arms and began blessing them, laying His hands on them.\n  The Rich"
+  ],
+  [
+   "BH-EXTRA",
+   "matthew",
+   9,
+   38,
+   "'Therefore beseech the Lord of the harvest to send out workers into His harvest.'",
+   "“Therefore beseech the Lord of the harvest to send out workers into His harvest.”NASB 1995"
+  ],
+  [
+   "BH-EXTRA",
+   "matthew",
+   11,
+   30,
+   "'For My yoke is easy and My burden is light.'",
+   "“For My yoke is easy and My burden is light.”NASB 1995 Copyright © 1960, 1962, 1963, 1968,"
+  ],
+  [
+   "BH-EXTRA",
+   "matthew",
+   28,
+   20,
+   "teaching them to observe all that I commanded you; and lo, I am with you always, even to t",
+   "teaching them to observe all that I commanded you; and lo, I am with you always, even to t"
+  ],
+  [
+   "BH-EXTRA",
+   "philippians",
+   1,
+   11,
+   "having been filled with the fruit of righteousness which [comes] through Jesus Christ, to ",
+   "having been filled with the fruit of righteousness which comes through Jesus Christ, to th"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   1,
+   6,
+   "For the LORD knows the way of the righteous, But the way of the wicked will perish.",
+   "For the LORD knows the way of the righteous,             But the way of the wicked will pe"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   2,
+   12,
+   "Do homage to the Son, that He not become angry, and you perish [in] the way, For His wrath",
+   "Do homage to the Son, that He not become angry, and you perish in the way,             For"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   4,
+   8,
+   "In peace I will both lie down and sleep, For You alone, O LORD, make me to dwell in safety",
+   "In peace I will both lie down and sleep,             For You alone, O LORD, make me to dwe"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   8,
+   1,
+   "For the choir director; on the Gittith. A Psalm of David. O LORD, our Lord, How majestic i",
+   "O LORD, our Lord,             How majestic is Your name in all the earth,             Who "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   8,
+   9,
+   "O LORD, our Lord, How majestic is Your name in all the earth!",
+   "O LORD, our Lord,             How majestic is Your name in all the earth! NASB 1995 Copyri"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   13,
+   1,
+   "For the choir director. A Psalm of David. How long, O LORD? Will You forget me forever? Ho",
+   "How long, O LORD? Will You forget me forever?             How long will You hide Your face"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   13,
+   6,
+   "I will sing to the LORD, Because He has dealt bountifully with me.",
+   "I will sing to the LORD,             Because He has dealt bountifully with me. NASB 1995 C"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   16,
+   1,
+   "A Mikhtam of David. Preserve me, O God, for I take refuge in You.",
+   "Preserve me, O God, for I take refuge in You.\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   16,
+   11,
+   "You will make known to me the path of life; In Your presence is fullness of joy; In Your r",
+   "You will make known to me the path of life;             In Your presence is fullness of jo"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   19,
+   1,
+   "For the choir director. A Psalm of David. The heavens are telling of the glory of God; And",
+   "The heavens are telling of the glory of God;             And their expanse is declaring th"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   19,
+   14,
+   "Let the words of my mouth and the meditation of my heart Be acceptable in Your sight, O LO",
+   "Let the words of my mouth and the meditation of my heart             Be acceptable in Your"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   22,
+   1,
+   "For the choir director; upon Aijeleth Hashshahar. A Psalm of David. My God, my God, why ha",
+   "My God, my God, why have You forsaken me?             Far from my deliverance are the word"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   22,
+   31,
+   "They will come and will declare His righteousness To a people who will be born, that He ha",
+   "They will come and will declare His righteousness             To a people who will be born"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   23,
+   1,
+   "A Psalm of David. The LORD is my shepherd, I shall not want.",
+   "The LORD is my shepherd,             I shall not want.\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   23,
+   6,
+   "Surely goodness and lovingkindness will follow me all the days of my life, And I will dwel",
+   "Surely goodness and lovingkindness will follow me all the days of my life,             And"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   27,
+   1,
+   "[A Psalm] of David. The LORD is my light and my salvation; Whom shall I fear? The LORD is ",
+   "The LORD is my light and my salvation;             Whom shall I fear?             The LORD"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   27,
+   14,
+   "Wait for the LORD; Be strong and let your heart take courage; Yes, wait for the LORD.",
+   "Wait for the LORD;             Be strong and let your heart take courage;             Yes,"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   32,
+   1,
+   "[A Psalm] of David. A Maskil. How blessed is he whose transgression is forgiven, Whose sin",
+   "How blessed is he whose transgression is forgiven,             Whose sin is covered!\n     "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   32,
+   11,
+   "Be glad in the LORD and rejoice, you righteous ones; And shout for joy, all you who are up",
+   "Be glad in the LORD and rejoice, you righteous ones;             And shout for joy, all yo"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   42,
+   1,
+   "For the choir director. A Maskil of the sons of Korah. As the deer pants for the water bro",
+   "As the deer pants for the water brooks,             So my soul pants for You, O God.\n     "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   42,
+   11,
+   "Why are you in despair, O my soul? And why have you become disturbed within me? Hope in Go",
+   "Why are you in despair, O my soul?             And why have you become disturbed within me"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   46,
+   1,
+   "For the choir director. [A Psalm] of the sons of Korah, set to Alamoth. A Song. God is our",
+   "God is our refuge and strength,             A very present help in trouble.\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   46,
+   11,
+   "The LORD of hosts is with us; The God of Jacob is our stronghold. Selah.",
+   "The LORD of hosts is with us;             The God of Jacob is our stronghold.  Selah. NASB"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   51,
+   1,
+   "For the choir director. A Psalm of David, when Nathan the prophet came to him, after he ha",
+   "Be gracious to me, O God, according to Your lovingkindness;             According to the g"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   51,
+   19,
+   "Then You will delight in righteous sacrifices, In burnt offering and whole burnt offering;",
+   "Then You will delight in righteous sacrifices,             In burnt offering and whole bur"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   62,
+   1,
+   "For the choir director; according to Jeduthun. A Psalm of David. My soul [waits] in silenc",
+   "My soul waits in silence for God only;             From Him is my salvation.\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   62,
+   12,
+   "And lovingkindness is Yours, O Lord, For You recompense a man according to his work.",
+   "And lovingkindness is Yours, O Lord,             For You recompense a man according to his"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   63,
+   1,
+   "A Psalm of David, when he was in the wilderness of Judah. O God, You are my God; I shall s",
+   "O God, You are my God; I shall seek You earnestly;             My soul thirsts for You, my"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   63,
+   11,
+   "But the king will rejoice in God; Everyone who swears by Him will glory, For the mouths of",
+   "But the king will rejoice in God;             Everyone who swears by Him will glory,      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   65,
+   13,
+   "The meadows are clothed with flocks And the valleys are covered with grain; They shout for",
+   "The meadows are clothed with flocks             And the valleys are covered with grain;   "
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   67,
+   1,
+   "For the choir director; with stringed instruments. A Psalm. A Song. God be gracious to us ",
+   "God be gracious to us and bless us,             And cause His face to shine upon us—  Sela"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   67,
+   7,
+   "God blesses us, That all the ends of the earth may fear Him.",
+   "God blesses us,             That all the ends of the earth may fear Him. NASB 1995 Copyrig"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   73,
+   28,
+   "But as for me, the nearness of God is my good; I have made the Lord GOD my refuge, That I ",
+   "But as for me, the nearness of God is my good;             I have made the Lord GOD my ref"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   84,
+   1,
+   "For the choir director; on the Gittith. A Psalm of the sons of Korah. How lovely are Your ",
+   "How lovely are Your dwelling places,             O LORD of hosts!\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   84,
+   12,
+   "O LORD of hosts, How blessed is the man who trusts in You!",
+   "O LORD of hosts,             How blessed is the man who trusts in You! NASB 1995 Copyright"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   90,
+   1,
+   "A Prayer of Moses, the man of God. Lord, You have been our dwelling place in all generatio",
+   "Lord, You have been our dwelling place in all generations.\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   90,
+   17,
+   "Let the favor of the Lord our God be upon us; And confirm for us the work of our hands; Ye",
+   "Let the favor of the Lord our God be upon us;             And confirm for us the work of o"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   91,
+   16,
+   "'With a long life I will satisfy him And let him see My salvation.'",
+   "“With a long life I will satisfy him             And let him see My salvation.” NASB 1995 "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   95,
+   11,
+   "'Therefore I swore in My anger, Truly they shall not enter into My rest.'",
+   "“Therefore I swore in My anger,             Truly they shall not enter into My rest.” NASB"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   96,
+   13,
+   "Before the LORD, for He is coming, For He is coming to judge the earth. He will judge the ",
+   "Before the LORD, for He is coming,             For He is coming to judge the earth.       "
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   98,
+   1,
+   "A Psalm. O sing to the LORD a new song, For He has done wonderful things, His right hand a",
+   "O sing to the LORD a new song,             For He has done wonderful things,             H"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   98,
+   9,
+   "Before the LORD, for He is coming to judge the earth; He will judge the world with righteo",
+   "Before the LORD, for He is coming to judge the earth;             He will judge the world "
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   100,
+   1,
+   "A Psalm for Thanksgiving. Shout joyfully to the LORD, all the earth.",
+   "Shout joyfully to the LORD, all the earth.\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   100,
+   5,
+   "For the LORD is good; His lovingkindness is everlasting And His faithfulness to all genera",
+   "For the LORD is good;             His lovingkindness is everlasting             And His fa"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   103,
+   1,
+   "[A Psalm] of David. Bless the LORD, O my soul, And all that is within me, [bless] His holy",
+   "Bless the LORD, O my soul,             And all that is within me, bless His holy name.\n   "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   103,
+   22,
+   "Bless the LORD, all you works of His, In all places of His dominion; Bless the LORD, O my ",
+   "Bless the LORD, all you works of His,             In all places of His dominion;          "
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   110,
+   1,
+   "A Psalm of David. The LORD says to my Lord: 'Sit at My right hand Until I make Your enemie",
+   "The LORD says to my Lord:             “Sit at My right hand             Until I make Your "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   110,
+   7,
+   "He will drink from the brook by the wayside; Therefore He will lift up [His] head.",
+   "He will drink from the brook by the wayside;             Therefore He will lift up His hea"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   116,
+   19,
+   "In the courts of the LORD'S house, In the midst of you, O Jerusalem. Praise the LORD!",
+   "In the courts of the LORD’S house,             In the midst of you, O Jerusalem.          "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   118,
+   29,
+   "Give thanks to the LORD, for He is good; For His lovingkindness is everlasting.",
+   "Give thanks to the LORD, for He is good;             For His lovingkindness is everlasting"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   121,
+   1,
+   "A Song of Ascents. I will lift up my eyes to the mountains; From where shall my help come?",
+   "I will lift up my eyes to the mountains;             From where shall my help come?\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   121,
+   8,
+   "The LORD will guard your going out and your coming in From this time forth and forever.",
+   "The LORD will guard your going out and your coming in             From this time forth and"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   130,
+   1,
+   "A Song of Ascents. Out of the depths I have cried to You, O LORD.",
+   "Out of the depths I have cried to You, O LORD.\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   130,
+   8,
+   "And He will redeem Israel From all his iniquities.",
+   "And He will redeem Israel             From all his iniquities.NASB 1995 Copyright © 1960, "
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   131,
+   1,
+   "A Song of Ascents, of David. O LORD, my heart is not proud, nor my eyes haughty; Nor do I ",
+   "O LORD, my heart is not proud, nor my eyes haughty;             Nor do I involve myself in"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   131,
+   3,
+   "O Israel, hope in the LORD From this time forth and forever.",
+   "O Israel, hope in the LORD             From this time forth and forever. NASB 1995 Copyrig"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   133,
+   1,
+   "A Song of Ascents, of David. Behold, how good and how pleasant it is For brothers to dwell",
+   "Behold, how good and how pleasant it is             For brothers to dwell together in unit"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   133,
+   3,
+   "It is like the dew of Hermon Coming down upon the mountains of Zion; For there the LORD co",
+   "It is like the dew of Hermon             Coming down upon the mountains of Zion;          "
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   134,
+   1,
+   "A Song of Ascents. Behold, bless the LORD, all servants of the LORD, Who serve by night in",
+   "Behold, bless the LORD, all servants of the LORD,             Who serve by night in the ho"
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   134,
+   3,
+   "May the LORD bless you from Zion, He who made heaven and earth.",
+   "May the LORD bless you from Zion,             He who made heaven and earth. NASB 1995 Copy"
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   139,
+   1,
+   "For the choir director. A Psalm of David. O LORD, You have searched me and known [me].",
+   "O LORD, You have searched me and known me.\n      "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   139,
+   24,
+   "And see if there be any hurtful way in me, And lead me in the everlasting way.",
+   "And see if there be any hurtful way in me,             And lead me in the everlasting way."
+  ],
+  [
+   "SITE-EXTRA",
+   "psalms",
+   145,
+   1,
+   "[A Psalm] of Praise, of David. I will extol You, my God, O King, And I will bless Your nam",
+   "I will extol You, my God, O King,             And I will bless Your name forever and ever."
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   145,
+   21,
+   "My mouth will speak the praise of the LORD, And all flesh will bless His holy name forever",
+   "My mouth will speak the praise of the LORD,             And all flesh will bless His holy "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   148,
+   14,
+   "And He has lifted up a horn for His people, Praise for all His godly ones; [Even] for the ",
+   "And He has lifted up a horn for His people,             Praise for all His godly ones;    "
+  ],
+  [
+   "BH-EXTRA",
+   "psalms",
+   150,
+   6,
+   "Let everything that has breath praise the LORD. Praise the LORD!",
+   "Let everything that has breath praise the LORD.             Praise the LORD! NASB 1995 Cop"
+  ],
+  [
+   "BH-EXTRA",
+   "revelation",
+   4,
+   11,
+   "'Worthy are You, our Lord and our God, to receive glory and honor and power; for You creat",
+   "“Worthy are You, our Lord and our God, to receive glory and honor and power; for You creat"
+  ]
+ ],
+ "missing": []
+}
