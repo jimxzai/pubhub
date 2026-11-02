@@ -173,7 +173,7 @@ if "## 附錄七" in text:
         Lb = text.split("\n")
         used_ext, bad2 = 0, []
         for i, l in enumerate(Lb):
-            if re.match(r"> — (Clayton Erb|John Wesley|Billy Graham|John MacArthur|Cliff Barrows|Ira D\. Sankey)", l):
+            if re.match(r"> — (Clayton Erb|John Wesley|Billy Graham|John MacArthur|Cliff Barrows|Ira D\. Sankey|C\. H\. Spurgeon|John Calvin)", l):
                 j = i - 1
                 if Lb[j].strip() == ">":          # the empty quote line between the quotation and its citation
                     j -= 1
@@ -183,7 +183,7 @@ if "## 附錄七" in text:
                 used_ext += 1
                 if norm_en(" ".join(block).rstrip("…")) not in recorded:
                     bad2.append(" ".join(block)[:50])
-        check("external: every quotation attributed to Erb / Wesley / Graham / MacArthur / Barrows / Sankey, anywhere in the book, equals a verified record text", used_ext >= 19 and not bad2, f"{used_ext} found; bad: {bad2}")
+        check("external: every quotation attributed to Erb / Wesley / Graham / MacArthur / Barrows / Sankey / Spurgeon / Calvin, anywhere in the book, equals a verified record text", used_ext >= 23 and not bad2, f"{used_ext} found; bad: {bad2}")
     check("external: appendix says which material was NOT verified", "沒有找到、或不能核對的部分" in app7)
 
 # ---- style

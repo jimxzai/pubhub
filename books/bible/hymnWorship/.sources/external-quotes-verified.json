@@ -120,6 +120,36 @@
    "https://archive.org/download/mylifestoryofgos0000irad_s4i2/mylifestoryofgos0000irad_s4i2_djvu.txt": "OK"
   }
  },
+ "spurgeon_praise": {
+  "text": "There is no engagement under heaven that is more exalting than praising God, and however great may be the work which is committed to the charge of any of us, we shall always do well if we pause awhile to spend a time in sacred praise.",
+  "ok": true,
+  "urls": {
+   "https://www.spurgeon.org/sermons/holy-song-from-happy-saints": "OK",
+   "https://ccel.org/ccel/spurgeon/sermons61.xxxvii.html": "OK"
+  }
+ },
+ "spurgeon_nuance": {
+  "text": "I would not wish to prefer one spiritual exercise before another",
+  "ok": true,
+  "urls": {
+   "https://www.spurgeon.org/sermons/holy-song-from-happy-saints": "OK",
+   "https://ccel.org/ccel/spurgeon/sermons61.xxxvii.html": "OK"
+  }
+ },
+ "calvin_heart": {
+  "text": "the spiritual songs cannot be well sung save from the heart",
+  "ok": true,
+  "urls": {
+   "https://christianhistoryinstitute.org/dailyquote/6/10": "OK"
+  }
+ },
+ "calvin_gift": {
+  "text": "the unique gift of man is to sing knowing that which he sings.",
+  "ok": true,
+  "urls": {
+   "https://christianhistoryinstitute.org/dailyquote/6/10": "OK"
+  }
+ },
  "graham_barrows": {
   "text": "His uncanny ability to lead a Crusade choir of thousands of voices or an audience of a hundred thousand voices in a great hymn or Gospel chorus is absolutely unparalleled",
   "ok": true,

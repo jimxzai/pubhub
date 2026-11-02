@@ -3,13 +3,13 @@ title: 敬拜與禱告手冊 · 出版品質評分
 subtitle: "Worship Book — Editorial Quality Score"
 date: 2026-11-01
 scope: books/bible/hymnWorship
-build: output/hymnworship-consolidated.pdf (156 pages)
+build: output/hymnworship-consolidated.pdf (159 pages)
 ---
 
 # 敬拜與禱告手冊 · 出版品質評分
 
-**評分日期**：2026-11-01（第六次評分：在第五次基礎上，加入 John MacArthur 五篇講道逐字稿、Billy Graham 的禱告專欄與 Cliff Barrows 的話，並把它們織進卷一、卷六、附錄四之後）
-**評分對象**：`books/bible/hymnWorship/build_book.py` → `scripts/build-hymnworship-consolidated.sh` → `output/hymnworship-consolidated.pdf`，156 頁
+**評分日期**：2026-11-01（第七次評分：在第六次基礎上，加入 Moody 與 Sankey、Spurgeon、Calvin 的引語，並把它們織進卷二、卷五與附錄七之後）
+**評分對象**：`books/bible/hymnWorship/build_book.py` → `scripts/build-hymnworship-consolidated.sh` → `output/hymnworship-consolidated.pdf`，159 頁
 **模板**：`templates/pdf/hymnworship.latex`（以 `revelation.latex` 的全版封面／封底機制為底）
 **評分立場**：總編輯式。這是**整理本**，不是逐卷研讀書；11 節房規與歷代注疏兩項不適用，已在說明中標明。**不做主觀加減**：總分就是十列的平均。
 
@@ -25,10 +25,10 @@ build: output/hymnworship-consolidated.pdf (156 pages)
 |---|------|------|------|
 | 1 | 聖經引文準確度 | **9 / 10** | 經文由程式讀出；36 篇詩篇與 `cuv.json` 逐字比對，由 `scripts/check-worship-book.py` 每次建置重驗。NASB 以 biblehub 逐節比對（617 節 0 處內文差異）；和合本以 FHL 逐節比對（41 節為 FHL 現代化字形或校注）。發現並補上詩 46:4 的網站缺字，生成器並有防線：引用的節若落在缺字候選清單上而未審查，建置即失敗。**扣分：未對紙本；兩個比對只看字母／去標點後的字** |
 | 2 | 體例一致性 | **7.5 / 10** | 詩篇與聖詩每項版式固定；聖詩出處行統一為「詞與年份／出處註記」，46 首都有年份或明寫為何沒有（6 首取自庫中他章、1 首庫中記載不一〔Toplady 1763／1776〕、2 首明寫年份庫中未註），由檢查器逐首驗證；詩篇與聖詩各組都有「座標」句，同樣由檢查器驗證。**不是 11 節房規，此項部分不適用**；聖詩原稿的註記內容仍長短不一 |
-| 3 | 排版與建置 | **10 / 10** | 156 頁、0 missing glyph、0 overfull、字型全嵌入、`lint-templates` 乾淨；`driver.sh hymnworship` PASS，baseline 已記錄（156/0/0）；兩段式建置到頁碼穩定，並核對索引印出的頁碼與 PDF 一致；已修正空白對頁帶頁眉頁碼的缺陷（沿用 `isaiah.latex` 的補丁）；已目視封面、封底、結構圖、目錄、骨幹章、特別場合、索引、附錄七頁。**符合本表列出的全部條件**；頁碼由 pdftotext 推得而非 LaTeX 原生索引，是實作方式，不是缺陷 |
+| 3 | 排版與建置 | **10 / 10** | 159 頁、0 missing glyph、0 overfull、字型全嵌入、`lint-templates` 乾淨；`driver.sh hymnworship` PASS，baseline 已記錄（159/0/0）；兩段式建置到頁碼穩定，並核對索引印出的頁碼與 PDF 一致；已修正空白對頁帶頁眉頁碼的缺陷（沿用 `isaiah.latex` 的補丁）；已目視封面、封底、結構圖、目錄、骨幹章、特別場合、索引、附錄七頁。**符合本表列出的全部條件**；頁碼由 pdftotext 推得而非 LaTeX 原生索引，是實作方式，不是缺陷 |
 | 4 | 結構與邏輯連貫 | **8.5 / 10** | 六卷＋骨幹章＋附錄；檢查器每次建置驗證聖詩交叉引用、前言與附錄的數量宣稱、索引表與標題一致、各卷的骨幹四項。獨立神學審查另抓到骨幹章三處論斷過頭（四場景「次序都一樣」、詩 95 的神開口處、約 4 的「第一個動詞」），已改。**扣分：卷與卷之間的銜接仍是編者判斷，檢查器看不到** |
 | 5 | 屬靈洞見（非常識） | **7.5 / 10** | 骨幹章、詩篇「看見耶穌」分「新約引用／主題呼應／傳統」三級；**獨立神學品質審查**（一個非牧者的審查代理）點出 50 項偏泛、偏離歌詞或有神學風險的句子（如成功神學味的收割／許願默想、詩 91 配病痛、太 15:8-9 配錯偏差），**我逐一對照書中實際印出的歌詞後套用**，其替換句所引的歌詞全數屬實。**扣分：這不是牧者審閱**；「看見耶穌」、默想、短禱仍沒有牧者看過，**這是目前最大的上限**；本輪另把 John MacArthur 的講道逐字稿（音樂不是敬拜本身、話語與敬拜、禱告是敬拜的最高形式）與 Billy Graham、Cliff Barrows 的原話織進卷一、卷六、附錄四，使洞見的來源更具體、可查證（但「看見耶穌」、默想、短禱仍無牧者審閱） |
-| 6 | 注疏可查證性 | **9 / 10** | 本書不含歷代注疏。老弟兄的話只引庫中既有檔案的原話，由檢查器逐句比對；書中所有外部英文引語（衛斯理、Erb 講義、MacArthur 五篇講道逐字稿、BGEA 官網的 Graham 專欄與 Barrows 的話；共 18 句）與相關事實，**由 `verify_external_quotes.py` 重新抓取原頁面逐字核對**，結果記錄在 `external-quotes-verified.json`；檢查器要求書中**任何位置**署名 Erb／Wesley／Graham／MacArthur／Barrows 的引語都等於已證實的紀錄文字（附錄與卷一、三、六各做過竄改測試，全數抓到）。**扣分：聖詩歌詞只有庫中章節與 hymnal.net 兩個來源，沒有對紙本詩歌本；MacArthur 只讀了五篇講道（口頭逐字稿，短引）；路德只讀到轉述；Spurgeon、Calvin 沒查到可核對原文；Moody 與 Sankey 只引一句（兩份同版掃描 OCR 交叉核對）** |
+| 6 | 注疏可查證性 | **9 / 10** | 本書不含歷代注疏。老弟兄的話只引庫中既有檔案的原話，由檢查器逐句比對；書中所有外部英文引語（衛斯理、Erb 講義、MacArthur 五篇講道逐字稿、BGEA 官網的 Graham 專欄與 Barrows 的話；共 22 句）與相關事實，**由 `verify_external_quotes.py` 重新抓取原頁面逐字核對**，結果記錄在 `external-quotes-verified.json`；檢查器要求書中**任何位置**署名 Erb／Wesley／Graham／MacArthur／Barrows／Sankey／Spurgeon／Calvin 的引語都等於已證實的紀錄文字（附錄與卷一、三、六各做過竄改測試，全數抓到）。**扣分：聖詩歌詞只有庫中章節與 hymnal.net 兩個來源，沒有對紙本詩歌本；MacArthur 只讀了五篇講道（口頭逐字稿，短引）；路德只讀到轉述；Calvin 只引兩句，且只有一個來源（Christian History Institute 轉載，譯本版本不一，原文未核對）；Spurgeon 只引一篇講章兩句（spurgeon.org 與 CCEL 兩處逐字相同）；Moody 與 Sankey 只引一句（兩份同版掃描 OCR 交叉核對）** |
 | 7 | 中英雙語完整度 | **7 / 10** | 每段經文 CUV＋NASB 1995 並列。**扣分：聖詩多為英文＋編者試譯的中文，未全數對應；32 首只有節錄；「更多詩節」只有英文** |
 | 8 | 引文格式規範 | **8.5 / 10** | 每段經文標明出處與版本；聖詩「詞與年份／出處註記」統一；老弟兄引語附檔案路徑；外部引語附來源網址並可重新驗證；聖詩、詩篇、經文三種索引含頁碼。**扣分：聖詩出處註記的詳細程度仍不一** |
 | 9 | 讀者可用性 | **9.5 / 10** | 目錄、處境索引（詩篇與聖詩編號後附頁碼）、教會年曆、三十日循環、每日／主日／小組／家庭祭壇程序，以及**含頁碼的聖詩索引（46 首）、詩篇索引（36 篇）、經文索引（依聖經書卷排列）**；附錄七集中收「前輩怎樣談唱詩、禱告與敬拜」；其內容也織進卷三（司會與領唱的預備、團契）、卷五（唱詩前兩張清單）、卷六（認罪與代禱的聖經根據）。**扣分：經文索引的頁碼是「所在小節標題的起始頁」，不是引用本身的確切頁** |
@@ -42,7 +42,7 @@ build: output/hymnworship-consolidated.pdf (156 pages)
 
 分數就是十列平均，**已經沒有靠我自己再做就能合理加分的空間**。剩下的缺口都需要人：
 
-1. **牧者審閱**（第 5 列，並影響第 10 列）：審閱表 `docs/review-checklists/hymnworship.md`，115 項，每項勾「通過／修改／刪除」，約一小時。預期第 5 列可到 8.5–9。
+1. **牧者審閱**（第 5 列，並影響第 10 列）：審閱表 `docs/review-checklists/hymnworship.md`，116 項，每項勾「通過／修改／刪除」，約一小時。預期第 5 列可到 8.5–9。
 2. **聖詩全詩與中文**（第 7 列）：32 首只有節錄；補全詩需要另一個獨立來源，中文歌詞需要通行譯本授權或牧者校譯。
 3. **對紙本**（第 1、6 列）。
 
@@ -58,13 +58,13 @@ build: output/hymnworship-consolidated.pdf (156 pages)
 8. **沒有曲譜**；現代詩歌只列曲目、不附歌詞。
 9. **經文索引頁碼是小節起始頁**，不是引用所在的確切頁。
 10. **`check-book-spine.py` 仍不能檢查本書**；骨幹由專用檢查器驗證。
-11. **附錄七的缺口**：John MacArthur 只讀了五篇講道（其書與其他講道未讀）；Grace Community Church 詩班的個別 YouTube 詩歌錄影沒有逐一核對；Billy Graham 以〈Just As I Am〉招收決志只見於報導、未讀到原文；路德只讀到轉述，未引原文；Spurgeon（《Our Own Hymn-Book》序）、Calvin（日內瓦詩篇集序）本輪沒有查到可逐字核對的原文；Moody 與 Sankey 只引了一句，兩份掃描是同一版本，若該版本本身有誤，核對看不出來。附錄七的最後一節把這些逐項列出。
+11. **附錄七的缺口**：John MacArthur 只讀了五篇講道（其書與其他講道未讀）；Grace Community Church 詩班的個別 YouTube 詩歌錄影沒有逐一核對；Billy Graham 以〈Just As I Am〉招收決志只見於報導、未讀到原文；路德只讀到轉述，未引原文；Spurgeon 的《Our Own Hymn-Book》序與其他講章、Calvin 的完整英譯與法文原文，本輪沒有取得可核對的全文；Moody 與 Sankey 只引了一句，兩份掃描是同一版本，若該版本本身有誤，核對看不出來。附錄七的最後一節把這些逐項列出。
 12. **默想問題的泛化程度未全面檢查**；審查代理點出的已改，其餘未逐一驗證。
 
 ## 下一輪建議
 
 1. 牧者用審閱表審閱一輪，編者依回覆修改。
-2. 針對 PD 前輩：Calvin（日內瓦詩篇集序，Macmeekin 1872 與 Opera Calvini 可查）、Spurgeon（HathiTrust 掃描）可以抓原文逐字核對後納入；MacArthur 其他講道（如主禱文系列）同法。
+2. 針對前輩：Calvin 的完整英譯（Macmeekin 1872，Princeton Prosody Archive／HathiTrust 有掃描）與 Opera Calvini 的法文本；Spurgeon 的《Our Own Hymn-Book》序（HathiTrust）；MacArthur 其他講道（如主禱文系列）同法逐字核對後納入。
 3. 為和合本與 NASB 各抽查一批紙本（或出版社 PDF）。
 4. 聖詩：尋找可授權的通行中譯與第二個英文來源，補 32 首全詩。
 5. 通知 ai-eden 維護者核對缺字清單，修正後本書的詩 46:4 補丁即可移除。
