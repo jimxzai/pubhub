@@ -8,6 +8,8 @@ import glob, importlib.util, os, re, sys, json
 
 d, out = sys.argv[1], sys.argv[2]
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, "scripts/lib"))
+import hebrew_book as hb
 GEN = os.path.join(d, "generated")
 stats = json.load(open(os.path.join(GEN, "stats.json"), encoding="utf-8"))
 spec = importlib.util.spec_from_file_location("c", os.path.join(ROOT, "scripts/gen-hebrew-compendium.py"))
@@ -27,24 +29,15 @@ def abbr():
 
 
 def fill(t):
-    def num(m):
-        k = m.group(1)
-        if k not in stats: sys.exit(f"unknown placeholder {{{{{k}}}}}")
-        v = stats[k]; return f"{v:,}" if isinstance(v, int) and v >= 1000 else str(v)
-    t = re.sub(r"\{\{([A-Za-z0-9_]+)\}\}", num, t)
+    t = hb.fill_stats(t, stats)
     t = t.replace("<!--ABBR-->", abbr()).replace("<!--OVERVIEW-->", read("overview.md"))
     t = t.replace("<!--BOOKS-->", read("books.md")).replace("<!--INDEX-->", read("index.md"))
     if re.search(r"<!--(ABBR|OVERVIEW|BOOKS|INDEX)", t): sys.exit("unresolved placeholder")
     return t.replace("裡", "裏")
 
 
-HEB = "[֑-״͏יִ-ﭏ]"
-run = re.compile(rf"{HEB}+(?:[ ]+{HEB}+)*")
-
-
 def wrap(t):
-    t = re.sub(r"`([^`\n]*" + HEB + r"[^`\n]*)`", r"\1", t)   # unwrap `code` spans around Hebrew
-    return run.sub(lambda m: "`\\leavevmode\\allowbreak{\\hebrewfont " + m.group(0) + "}\\allowbreak`{=latex}", t)
+    return hb.wrap_scripts(t, greek=False)
 
 
 header = '''---
@@ -70,7 +63,7 @@ copyright: |
 files = sorted(glob.glob(os.path.join(d, "[0-9]*.md")))
 parts = [header]
 for f in files:
-    body = "".join(open(f, encoding="utf-8").readlines()[7:])
+    body = hb.strip_header(f, open(f, encoding="utf-8").read())
     parts.append(wrap(fill(body))); parts.append("\n\n\\newpage\n\n")
 open(out, "w", encoding="utf-8").write("".join(parts))
 print("combined", len(files), "files")

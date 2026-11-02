@@ -12,6 +12,8 @@ import glob, importlib.util, json, os, re, sys
 
 d, out = sys.argv[1], sys.argv[2]
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+sys.path.insert(0, os.path.join(ROOT, "scripts/lib"))
+import hebrew_book as hb
 GEN = os.path.join(d, "generated")
 stats = json.load(open(os.path.join(GEN, "stats.json"), encoding="utf-8"))
 exc = json.load(open(os.path.join(ROOT, "docs/sources/biblehebrew/scripture-excerpts.json"), encoding="utf-8"))
@@ -45,12 +47,7 @@ def heb(m):
 
 
 def fill(text):
-    def num(m):
-        k = m.group(1)
-        if k not in stats: sys.exit(f"unknown placeholder {{{{{k}}}}}")
-        v = stats[k]
-        return f"{v:,}" if isinstance(v, int) and v >= 1000 else str(v)
-    text = re.sub(r"\{\{([A-Za-z0-9_]+)\}\}", num, text)
+    text = hb.fill_stats(text, stats)
     text = re.sub(r"<!--SONG:(\w+)-->", lambda m: read(f"song-{m.group(1)}.md"), text)
     text = re.sub(r"<!--GRAM:(\w+)-->", lambda m: read(f"gram-{m.group(1)}.md"), text)
     text = text.replace("<!--PARSE-->", read("genesis1-parse.md"))
@@ -65,18 +62,7 @@ def fill(text):
     return text.replace("裡", "裏")
 
 
-HEB_C = "[֑-״͏יִ-ﭏ]"
-GRK_C = "[Ͱ-Ͽἀ-῿]"
-heb_run = re.compile(rf"{HEB_C}+(?:[ ]+{HEB_C}+)*")
-grk_run = re.compile(rf"{GRK_C}[{GRK_C[1:-1]}’'ʼ]*(?:[ ]+{GRK_C}[{GRK_C[1:-1]}’'ʼ]*)*")
-
-
-# NOTE: the leading \leavevmode matters. A table cell that STARTS with \allowbreak begins with a penalty in vertical
-# mode, which moves the cell's reference baseline and prints the Hebrew a full line below its row.
-def wrap(text):
-    text = re.sub(r"`([^`\n]*(?:" + HEB_C + "|" + GRK_C + r")[^`\n]*)`", r"\1", text)
-    text = heb_run.sub(lambda m: "`\\leavevmode\\allowbreak{\\hebrewfont " + m.group(0) + "}\\allowbreak`{=latex}", text)
-    return grk_run.sub(lambda m: "`{\\greekfont " + m.group(0) + "}`{=latex}", text)
+wrap = lambda text: hb.wrap_scripts(text, greek=True)
 
 
 header = '''---
@@ -102,7 +88,7 @@ copyright: |
 files = sorted(glob.glob(os.path.join(d, "[0-9]*.md")))
 parts = [header]
 for f in files:
-    body = "".join(open(f, encoding="utf-8").readlines()[7:])
+    body = hb.strip_header(f, open(f, encoding="utf-8").read())
     parts.append(wrap(fill(body)))
     parts.append("\n\n\\newpage\n\n")
 open(out, "w", encoding="utf-8").write("".join(parts))

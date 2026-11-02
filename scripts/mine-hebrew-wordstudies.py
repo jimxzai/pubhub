@@ -1,15 +1,15 @@
 #!/usr/bin/env python3
-"""Mine the 原文研讀 / Word Study tables of every book under books/bible/ for Hebrew rows,
-and match each Hebrew word to an OSHB lemma (Strong's number).
+"""Mine the 原文研讀 / Word Study tables of the OT books under books/bible/ for Hebrew rows,
+and match each Hebrew word to an OSHB lemma (Strong's number): first inside the verse the row cites, then by
+whole-text frequency of the exact form, then with a prefix stripped.
 
 Writes docs/sources/biblehebrew/series-wordstudies.json:
-  rows:   [{book, file, hebrew, translit, meaning, ref, note}]
+  rows:   [{book, file, chapter, title, hebrew, translit, meaning, ref, note, lemmas, amb, methods}]
+  match_methods: how many words were matched by verse / freq / stem / not at all
   lemmas: {strongs: {books: [...], rows: n, glosses: {gloss: n}}}
 Usage: mine-hebrew-wordstudies.py
 """
-import collections, glob, json, os, re, sys, unicodedata
-sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
-import importlib.util
+import collections, glob, importlib.util, json, os, re, unicodedata
 spec = importlib.util.spec_from_file_location("g", os.path.join(os.path.dirname(os.path.abspath(__file__)), "gen-biblehebrew-data.py"))
 g = importlib.util.module_from_spec(spec); spec.loader.exec_module(g)
 
@@ -35,13 +35,6 @@ def build_index():
             p[pointed(w)][k] += 1
             c[consonants(w)][k] += 1
     return p, c
-
-
-def lemma_of(word, P, C):
-    pw, cw = pointed(word), consonants(word)
-    if pw in P: return P[pw].most_common(1)[0][0]
-    if cw in C: return C[cw].most_common(1)[0][0]
-    return None
 
 
 # The OT books only. 1-2 Samuel live in a nested folder; the older Chronicles copies in that same
@@ -100,19 +93,42 @@ PREFIX_LETTERS = "והבלמכש"
 
 
 def parse_refs(ref):
-    """'5:6, 10, 14-15；6:2' -> [(5,6),(5,10),(5,14),(5,15),(6,2)]. Bare numbers inherit the current chapter."""
+    """Cited verses of the BOOK ITSELF, as ('v', chapter, verse) and ('r', c1, v1, c2, v2) cross-chapter ranges.
+
+    '5:6, 10, 14-15；6:2' -> 5:6 5:10 5:14 5:15 6:2 (bare numbers inherit the chapter);  '3:30-4:2' -> a range.
+    A segment that begins with anything but a digit ('申4:13, 10:4', '承30:12', '隱含於…') cites ANOTHER book or is
+    prose: it is skipped whole, never read as a verse of this book.
+    """
     out = []
     for seg in re.split(r"[；;]", ref):
+        seg = seg.strip()
+        if not re.match(r"\d", seg): continue
         ch = None
         for part in re.split(r"[,，、]", seg):
-            part = part.strip()
-            m = re.match(r"(?:(\d+):)?(\d+)(?:\s*[-–]\s*(\d+))?", part)
+            m = re.match(r"\s*(?:(\d+):)?(\d+)(?:\s*[-–]\s*(?:(\d+):)?(\d+))?", part)
             if not m: continue
             if m.group(1): ch = int(m.group(1))
             if ch is None: continue
-            a_, b_ = int(m.group(2)), int(m.group(3) or m.group(2))
-            if b_ - a_ <= 30: out += [(ch, v) for v in range(a_, b_ + 1)]
+            v1 = int(m.group(2))
+            if m.group(3):                                   # 3:30-4:2
+                out.append(("r", ch, v1, int(m.group(3)), int(m.group(4))))
+            else:
+                v2 = int(m.group(4) or v1)
+                if v2 - v1 <= 30: out += [("v", ch, v) for v in range(v1, v2 + 1)]
     return out
+
+
+def verse_ids(osis, refs, known):
+    """Expand parse_refs output to OSIS verse ids that exist in the text (ranges use the real verse list)."""
+    ids = []
+    for r in refs:
+        if r[0] == "v": ids.append(f"{osis}.{r[1]}.{r[2]}")
+        else:
+            _, c1, v1, c2, v2 = r
+            for vid in known.get(osis, ()):
+                c, v = map(int, vid.split(".")[1:])
+                if (c1, v1) <= (c, v) <= (c2, v2): ids.append(vid)
+    return ids
 
 
 def main():
@@ -121,6 +137,8 @@ def main():
     V = collections.defaultdict(list)
     for ref, lem_, _, text in g.tokens():
         V[ref].append((unicodedata.normalize("NFC", pointed(text).replace("\u05BE", "")), consonants(text).replace("\u05BE", ""), g.key_of(lem_)))
+    KNOWN = collections.defaultdict(list)                       # osis book id -> its verse ids, in order
+    for vid in V: KNOWN[vid.split(".")[0]].append(vid)
     # consonantal skeleton of every dictionary form -> key (last-resort lookup for prefixed/unmatched forms)
     lexform = collections.defaultdict(set)
     for hid, (form, pos) in g.lexicon().items():
@@ -130,7 +148,7 @@ def main():
     how = collections.Counter()
     for r in rows:
         words = [re.sub(r"[^֐-׿]", "", w) for w in re.split(r"[\s־/／、,，（）()]+", r["hebrew"]) if HEB.search(w)]
-        cands = [f"{LABEL_OSIS.get(r['book'], '?')}.{c}.{v}" for c, v in parse_refs(r["ref"])]
+        cands = verse_ids(LABEL_OSIS.get(r["book"], "?"), parse_refs(r["ref"]), KNOWN)
         keys = set(); amb = False; methods = []
         for w in words:
             pw = unicodedata.normalize("NFC", pointed(w).replace("\u05BE", "")); cw = consonants(w).replace("\u05BE", "")

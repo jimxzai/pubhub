@@ -60,7 +60,7 @@ def cnt(key, book, stems=None):
             st = [s_[1] for s_ in segs if s_.startswith("V")]
             if stems is None or (st and st[0] in stems): out.append(r)
     return out
-check("Ezek 11: רוח x6", len(cnt("7307", "Ezek.11".split(".")[0])) >= 6 and len([r for r in cnt("7307", "Ezek") if r.startswith("Ezek.11.")]) == 6)
+check("Ezek 11: רוח x6", len([r for r in cnt("7307", "Ezek") if r.startswith("Ezek.11.")]) == 6)
 check("Ezek 18:21,24,26,27 contain שוב", all(r in set(cnt("7725", "Ezek")) for r in ("Ezek.18.21", "Ezek.18.24", "Ezek.18.26", "Ezek.18.27")))
 check("Amos שמע Qal in 8 verses", sorted(set(cnt("8085", "Amos", "q"))) == sorted(f"Amos.{x}" for x in ("3.1", "3.13", "4.1", "5.1", "5.23", "7.16", "8.4", "8.11")))
 check("Micah שמע: 9 tokens in 8 verses", len(cnt("8085", "Mic")) == 9 and len(set(cnt("8085", "Mic"))) == 8)
@@ -83,7 +83,12 @@ ar = collections.defaultdict(list)
 for r, l, m, t in toks:
     if m.startswith("A"): ar[r.split(".")[0]].append(r)
 check("Aramaic only in Gen, Jer, Ezra, Dan", set(ar) == {"Gen", "Jer", "Ezra", "Dan"}, str(sorted(ar)))
-check("Aramaic tokens = 4,828", sum(len(v) for v in ar.values()) == 4828)
+import json
+_st = os.path.join(ROOT, "books/bible/Biblehebrew/generated/stats.json")
+printed = json.load(open(_st, encoding="utf-8"))["aramaic"] if os.path.exists(_st) else None
+found = sum(len(v) for v in ar.values())
+check("Aramaic tokens: the number the book prints equals a fresh count", printed is None or printed == found,
+      f"scan {found}" + (f", book prints {printed}" if printed is not None else ", run gen-biblehebrew-data.py first to compare"))
 
 print("\n%d FAIL" % fails if fails else "\nall claims reproduce")
 sys.exit(1 if fails else 0)

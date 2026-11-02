@@ -71,8 +71,15 @@ def clean_gloss(s):
     return s
 
 
+def is_chapter(tok):
+    """A chapter file is numbered 01-95. 00x (preface, overview, position) and 96-99 (appendices) are not chapters."""
+    m = re.match(r"\d+", tok)
+    return bool(m) and 1 <= int(m.group()) <= 95
+
+
 def chap_no(c):
-    return re.sub(r"^0+", "", c) or "0"
+    """01 -> '1', 02a -> '2a'; a non-chapter file keeps its own token ('00c', '99a') so it is never shown as '0' or 'c'."""
+    return re.sub(r"^0+", "", c) if is_chapter(c) else c
 
 
 def main():
@@ -99,7 +106,8 @@ def main():
     perbook_ch = collections.defaultdict(lambda: collections.defaultdict(set))
     perbook_rows = collections.Counter(); perbook_tblchap = collections.defaultdict(set)
     for r in rows:
-        perbook_rows[r["book"]] += 1; perbook_tblchap[r["book"]].add(r["chapter"])
+        perbook_rows[r["book"]] += 1
+        if is_chapter(r["chapter"]): perbook_tblchap[r["book"]].add(r["chapter"])      # same rule as the chapter list
         words = [w for w in re.split(r"[\s־/／、,，（）()]+", r["hebrew"]) if m.HEB.search(w)]
         for k in r["lemmas"]:
             e = lem[k]; e["loc"][r["book"]].add(r["chapter"]); e["rows"] += 1
@@ -116,7 +124,6 @@ def main():
             return lem[k]["bgl"][book].most_common(1)[0][0] if lem[k]["bgl"].get(book) else ""
         return lem[k]["cf"].most_common(1)[0][0] if lem[k]["cf"] else ""
 
-    POSOK = ("v", "a")
     def content(k):
         e = lex.get("H" + k)
         return bool(e) and (e[1] == "v" or e[1] == "a" or (e[1].startswith("n") and not e[1].startswith("n-pr")))
@@ -127,7 +134,7 @@ def main():
         base = os.path.basename(f)
         mo = re.match(r"(\d{2,3}[a-z]?)-", base)
         t = open(f, encoding="utf-8").read()
-        if mo and re.match(r"\d{2}", mo.group(1)) and not mo.group(1).startswith(("00", "96", "97", "98", "99")):
+        if mo and is_chapter(mo.group(1)):
             h1 = re.search(r"^# (.+)$", t, re.M)
             chapters[label].append((mo.group(1), re.sub(r"\s*[(（].*$", "", h1.group(1)).strip() if h1 else ""))
         for mm in re.finditer(r"^##\s+([^\n]*(?:數一數|鑰字|重複的字|關鍵詞)[^\n]*)\n(.*?)(?=^## |\Z)", t, re.S | re.M):
@@ -179,7 +186,7 @@ def main():
     # --- alphabetical lemma index
     entries = []
     for k, e in lem.items():
-        if k not in lex.get("H" + k, ()) and "H" + k not in lex: continue
+        if "H" + k not in lex: continue            # the pseudo-lemmas l/b/k/m have no dictionary entry
         form, pos = lex["H" + k]
         entries.append((skeleton(form), k, form, pos, e))
     entries.sort(key=lambda x: (x[0], x[1]))
