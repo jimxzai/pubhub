@@ -1,16 +1,17 @@
 #!/usr/bin/env python3
-"""Generate the data-driven parts of books/bible/Biblehebrew-compendium (《舊約希伯來文彙編》).
+"""Generate the data-driven parts of Part 2 (卷二：各卷的希伯來文) of books/bible/Biblehebrew.
 
 Inputs : docs/sources/biblehebrew/series-wordstudies.json   (mined by mine-hebrew-wordstudies.py)
          docs/sources/biblehebrew/oshb/*.xml + HebrewStrong.xml
          the OT books' own chapter files (chapter lists and the 「數一數」 sections, quoted verbatim)
-Writes : books/bible/Biblehebrew-compendium/generated/{stats.json, overview.md, books.md, index.md}
+Writes : books/bible/Biblehebrew/generated/{stats-part2.json, overview.md, books.md, index.md, index-once.md}
+         (every stat is stored with a p2_ prefix: both parts of the book have their own "lemmas" and "rows")
 """
 import collections, glob, importlib.util, json, os, re, sys, unicodedata
 import xml.etree.ElementTree as ET
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(ROOT, "books/bible/Biblehebrew-compendium/generated")
+OUT = os.path.join(ROOT, "books/bible/Biblehebrew/generated")      # Part 2 (卷二) of the one Hebrew volume
 os.makedirs(OUT, exist_ok=True)
 
 
@@ -51,24 +52,49 @@ def skeleton(s):
     return [ORDER.index(FINAL.get(c, c)) for c in s]
 
 
+# Strong's first clause is sometimes useless ("hence (the ox's head being the first letter…" for 'thousand'); these are the
+# frequent ones, replaced by a plain English equivalent that says what the word means.
+DEF_FIX = {"505": "a thousand", "518": "if (conditional particle)", "1696": "to speak", "853": "(not translated) sign of the definite direct object",
+           "160": "love (noun)", "3069": "YHWH, pointed as Elohim after Adonai", "430": "God, gods"}
+
+
 def lexicon_defs():
     root = ET.parse(os.path.join(g.SRC, "HebrewStrong.xml")).getroot()
     out = {}
     for e in root.iter(g.LEXNS + "entry"):
-        mm = e.find(g.LEXNS + "meaning")
-        txt = "".join(mm.itertext()).strip() if mm is not None else ""
-        txt = re.sub(r"\s+", " ", txt)
+        mm = e.find(g.LEXNS + "meaning"); us = e.find(g.LEXNS + "usage")
+        txt = re.sub(r"\s+", " ", "".join(mm.itertext()).strip() if mm is not None else "")
         first = re.split(r";", txt)[0].strip(" .,")
+        if not first and us is not None:                      # no definition: fall back to the KJV renderings listed under <usage>
+            first = "KJV: " + re.sub(r"\s+", " ", "".join(us.itertext())).strip(" .,")
+        first = re.sub(r"\s*\[[^\]]*\]", "", first)         # drop editorial bracket notes in the lexicon text
         out[e.get("id")] = (first[:80] + ("…" if len(first) > 80 else ""))
+    out.update({"H" + k: v for k, v in DEF_FIX.items()})
     return out
 
 
 def clean_gloss(s):
+    # a cell that quotes several words ("「喜歡」「施恩」「好處」「善」") or states a count ("頸項三處", "全書七次") is a note
+    # about the passage, not a gloss of one word: running the quotes together produced "喜歡施恩好處善"
+    if s.count("「") >= 2 or re.search(r"[一二三四五六七八九十兩\d]+\s*(處|次|節)|全書|一節之內", s): return ""
     s = re.split(r"[；;。]", s)[0]
     s = re.sub(r"[「」『』]", "", s)
     s = re.sub(r"[（(][^）)]*[）)]", "", s).strip(" ，、:：")
     if not s or len(s) > 20 or re.search(r"[֐-׿]", s) or "NASB" in s or "和合本" in s: return ""
     return s
+
+
+def widen_cols(body, minw=8):
+    """Layout only: give every column of a quoted table at least `minw` dashes in its separator row, so a narrow
+    column (the author's "次數" column) cannot overflow by a point or two. The quoted text is not touched."""
+    def fix(m):
+        cells = m.group(0).strip().strip("|").split("|")
+        out = []
+        for c in cells:
+            c = c.strip(); l = c.startswith(":"); r = c.endswith(":")
+            out.append((":" if l else "") + "-" * max(len(c.strip(":")), minw) + (":" if r else ""))
+        return "|" + "|".join(out) + "|"
+    return re.sub(r"^\|\s*:?-{2,}:?\s*(?:\|\s*:?-{2,}:?\s*)+\|\s*$", fix, body, flags=re.M)
 
 
 def is_chapter(tok):
@@ -85,7 +111,7 @@ def chap_no(c):
 def main():
     mined = json.load(open(os.path.join(g.SRC, "series-wordstudies.json"), encoding="utf-8"))
     rows = mined["rows"]
-    lex = g.lexicon(); defs = lexicon_defs()
+    lex = {k: (g.FORM_FIX.get(k[1:], v[0]), v[1]) for k, v in g.lexicon().items()}; defs = lexicon_defs()
     toks = list(g.tokens())
     oshb_ids = {t[0].split(".")[0] for t in toks}
     for _, _, _, ids in BOOKS:
@@ -136,7 +162,13 @@ def main():
         t = open(f, encoding="utf-8").read()
         if mo and is_chapter(mo.group(1)):
             h1 = re.search(r"^# (.+)$", t, re.M)
-            chapters[label].append((mo.group(1), re.sub(r"\s*[(（].*$", "", h1.group(1)).strip() if h1 else ""))
+            lines = t.split("\n")
+            hi = next((i for i, l in enumerate(lines) if l.startswith("# ")), None)
+            # the passage line right under the title, e.g. 「約書亞記 6:1-27」 -> "6:1-27"
+            pl = next((l.strip() for l in (lines[hi + 1:hi + 8] if hi is not None else [])
+                       if re.match(r"^[\u4e00-\u9fff]{1,8}\s*\d+(?:[:：]\d+)?[\s\-–—~～至,，、;；:：\d]*$", l.strip()) and len(l.strip()) < 40), "")
+            passage = re.sub(r"^[\u4e00-\u9fff]+\s*", "", pl).replace("：", ":")
+            chapters[label].append((mo.group(1), re.sub(r"\s*[(（].*$", "", h1.group(1)).strip() if h1 else "", passage))
         for mm in re.finditer(r"^##\s+([^\n]*(?:數一數|鑰字|重複的字|關鍵詞)[^\n]*)\n(.*?)(?=^## |\Z)", t, re.S | re.M):
             if m.HEB.search(mm.group(2)):
                 sections[label].append((f.split("/books/bible/")[1], mm.group(1).strip(), mm.group(2).strip("\n")))
@@ -155,14 +187,14 @@ def main():
     # --- per-book digest
     bk = []
     for n, (label, zh, ab, ids) in enumerate(BOOKS, 1):
-        bk.append(f"## {zh}\n")
+        bk.append(f"# {zh} {{.unnumbered}}\n")
         nch = len(chapters[label]); nt = len(perbook_tblchap[label])
         if nt == 0:
             bk.append(f"本系列《{zh}》共 {nch} 章；章節裏沒有帶希伯來文的〈原文研讀〉表格，所以這一卷在下面的詞目總索引裏沒有條目。\n")
         else:
             bk.append(f"本系列《{zh}》共 {nch} 章，其中 {nt} 章有〈原文研讀〉表格，共 {perbook_rows[label]:,} 列。\n")
         if chapters[label]:
-            bk.append("**章次：** " + "；".join(f"{chap_no(c)} {t}" for c, t in chapters[label]) + "\n")
+            bk.append("**章次（括號是這一章研讀的經文）：** " + "；".join(f"{chap_no(c)} {t}" + (f"（{ps}）" if ps else "") for c, t, ps in chapters[label]) + "\n")
         cand = []
         for k, chs in perbook_ch[label].items():
             if len(chs) >= 2 and content(k):
@@ -179,7 +211,7 @@ def main():
             bk.append("")
         for path, title, body in sections.get(label, []):
             bk.append(f"**系列原文**（`{path}`，〈{re.sub(chr(10), ' ', title)}〉一節，原樣收錄）：\n")
-            body = re.sub(r"^(#{1,6}) ", "", body, flags=re.M)
+            body = widen_cols(re.sub(r"^(#{1,6}) ", "", body, flags=re.M))
             bk.append(body + "\n")
     open(os.path.join(OUT, "books.md"), "w", encoding="utf-8").write("\n".join(bk))
 
@@ -190,31 +222,39 @@ def main():
         form, pos = lex["H" + k]
         entries.append((skeleton(form), k, form, pos, e))
     entries.sort(key=lambda x: (x[0], x[1]))
-    ix = ["| 原文 | 意思 | 全舊約 | 見（書 章次） |", "|--------------|----------------------------------|----------|--------------------------|"]
-    multi = 0
+    hdr = ["| 原文 | 意思 | 全舊約 | 見（書 章次） |", "|--------------|----------------------------------|----------|--------------------------|"]
+    ix, ix1 = list(hdr), ["| 原文 | 強氏編號，全舊約次數，系列怎麼說 | 見（書 章次） |", "|----------------|--------------------------------|------------------------------|"]
+    multi = 0; locators = 0
     for _, k, form, pos, e in entries:
         loc = []
         for label, *_ in BOOKS:
             if label in e["loc"]:
                 chs = sorted(e["loc"][label], key=lambda c: (len(re.sub(r"\D", "", c)), c))
                 loc.append(f"{AB[label]} {'、'.join(chap_no(c) for c in chs)}")
-        nchap = sum(len(v) for v in e["loc"].values()); multi += nchap >= 2
+        nchap = sum(len(v) for v in e["loc"].values()); locators += nchap
         sg = series_gloss(k)
         sd = defs.get("H" + k, "")
-        mean = (f"系列：{sg}；" if sg else "") + (f"Strong H{k}：{sd}" if sd else f"H{k}")
-        ix.append(f"| {form} | {mean} | {cnt_all[k]:,} | {'；'.join(loc)} |")
+        if nchap >= 2:
+            multi += 1
+            mean = (f"系列：{sg}；" if sg else "") + (f"Strong H{k}：{sd}" if sd else f"H{k}")
+            ix.append(f"| {form} | {mean} | {cnt_all[k]:,} | {'；'.join(loc)} |")
+        else:                                           # discussed in one chapter only: ONE line, no English definition
+            ix1.append(f"| {form} | H{k}，{cnt_all[k]:,} 次" + (f"，{sg}" if sg else "") + f" | {'；'.join(loc)} |")
     open(os.path.join(OUT, "index.md"), "w", encoding="utf-8").write("\n".join(ix) + "\n")
+    open(os.path.join(OUT, "index-once.md"), "w", encoding="utf-8").write("\n".join(ix1) + "\n")
 
-    stats = {"rows": len(rows), "lemmas": len(entries), "lemmas_multi": multi, "books_with_tables": n_tbl_books,
+    stats = {"rows": len(rows), "lemmas": len(entries), "lemmas_multi": multi, "lemmas_once": len(entries) - multi, "books_with_tables": n_tbl_books,
              "books_total": len(BOOKS), "chapters_total": sum(len(v) for v in chapters.values()),
              "tblchapters_total": n_tbl_chap,
              "sections": sum(len(v) for v in sections.values()), "sections_books": len(sections),
              "ambiguous_rows": amb_rows, "ambiguous_pct": round(amb_rows / len(rows) * 100),
-             "m_verse": methods["verse"], "m_freq": methods["freq"], "m_stem": methods["stem"], "m_none": methods["none"],
+             "m_verse": methods["verse"], "m_form": methods["form"], "m_vcons": methods["verse-consonants"], "m_freq": methods["freq"],
+             "m_stem": methods["stem"], "m_none": methods["none"], "locators": locators,
              "m_total": sum(methods.values()), "m_verse_pct": round(methods["verse"] / sum(methods.values()) * 100),
+             "m_exact_pct": round((methods["verse"] + methods["form"]) / sum(methods.values()) * 100),
              "unmatched_rows": sum(1 for r in rows if not r["lemmas"]),
              "tokens": len(toks), "lemmas_oshb": len(cnt_all)}
-    json.dump(stats, open(os.path.join(OUT, "stats.json"), "w"), ensure_ascii=False, indent=1)
+    json.dump({"p2_" + k: v for k, v in stats.items()}, open(os.path.join(OUT, "stats-part2.json"), "w"), ensure_ascii=False, indent=1)
     print(stats)
 
 
