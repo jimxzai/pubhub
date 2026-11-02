@@ -1,0 +1,588 @@
+% PubHub Biblehebrew Template — 讀懂聖經的希伯來文
+% Derived from templates/pdf/revelation.latex: keeps its full-bleed navy cover machinery, palette,
+% header/chapter styling and hyperref metadata block; the front matter, closing page and back cover
+% are this book's own. Requires XeLaTeX.
+%
+% Deliberate differences from revelation.latex (do not "restore" them):
+%  * NO ucharclasses. It switches font at every BasicLatin character, including the SPACE between two
+%    Hebrew words, which splits a right-to-left phrase into separate runs and prints the words in the
+%    wrong order. Hebrew/Greek runs are wrapped explicitly by scripts/combine-biblehebrew.py instead.
+%  * Do NOT wrap Hebrew in \beginR..\endR: XeTeX already reorders a single Hebrew font run, so \beginR
+%    reverses it a second time.
+%  * secnumdepth -1: chapter titles carry their own 第N章 (see chapter-template.md).
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+%% CJK bold: a real Songti bold flattens full-width punctuation silently (gotchas.md), so BoldFont
+%% points at the regular file with FakeBold. Latin/Greek/Hebrew families keep their real bold faces.
+\setmainfont{Songti TC}[
+  BoldFont=Songti TC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti TC
+]
+\setsansfont{PingFang TC}[
+  BoldFont=PingFang TC,
+  BoldFeatures={FakeBold=2.0}
+]
+\setmonofont{Songti TC}[
+  BoldFont=Songti TC,
+  BoldFeatures={FakeBold=2.2}
+]
+
+\newfontfamily\greekfont{Times New Roman}[Script=Greek]
+% Times New Roman's Hebrew glyphs are drawn small; Scale=1.35 keeps the niqqud legible beside CJK
+% (gotchas.md: "A Hebrew/Greek fallback font needs an explicit Scale=").
+\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew, Scale=1.35]
+
+%% Classical English faces for the covers: Baskerville for running text, Didot for display lines.
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
+\newfontfamily\didotfont{Didot}
+\newcommand{\baskervillefont}{\basklatin}
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - navy / royal gold (same palette as the Revelation volume)
+%% ============================================
+\usepackage{xcolor}
+
+\definecolor{ChapterBlue}{RGB}{20,32,72}         % Royal navy for chapters
+\definecolor{ScriptureGold}{RGB}{175,135,45}     % Royal gold for rules and ornaments
+\definecolor{CommentaryBrown}{RGB}{95,45,25}     % Rich brown for sub-headings and dedication
+
+% Cover gradient (navy, dark at top to a richer royal blue at bottom)
+\definecolor{NavyDark}{RGB}{10,16,42}
+\definecolor{NavyLight}{RGB}{32,52,108}
+
+\definecolor{ScriptureBg}{RGB}{253,250,244}
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{212,178,90}
+\definecolor{CoverMuted}{RGB}{188,183,166}
+
+%% ============================================
+%% MATH, GRAPHICS AND TIKZ
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc}
+\usepackage{pgfornament}
+
+% A single small fleuron (no rules), used on the covers, the dedication and the colophon.
+% NOTE the signature: \fleuron[<color>] — not the width-first variant some other templates define.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.55cm,color=#1]{88}%
+}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+
+% Full-bleed navy gradient, painted in the shipout background hook (starred form = next page only)
+% so it reaches the true physical page edge without disturbing the \geometry text block.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=NavyDark,bottom color=NavyLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a corner ornament at each corner.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device: half-title page, front cover, closing colophon.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+%% ============================================
+%% HYPERLINKS AND PDF METADATA
+%% ============================================
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  % Without these `pdfinfo` reports no Title/Author/Subject at all (the file shows as its filename in
+  % a reader's title bar and in any catalogue). pdflang tells a screen reader the primary language.
+  pdftitle={讀懂聖經的希伯來文 — Reading the Hebrew Old Testament},
+  pdfauthor={PubHub 三書精讀系統},
+  pdfsubject={新手讀經入門：不必先學希伯來文，也能聰明利用希伯來文；字母、母音、基本文法、查字與唱一唱},
+  pdfkeywords={希伯來文, 舊約, 讀經, 查字, 創世記, 詩篇, OSHB, Hebrew, Old Testament, Bible study, 和合本, NASB, 唱一唱},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-Hant}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% Running heads: title only. This volume's chapter titles already begin with 第N章, so prefixing the
+%% counter would print it twice. \chapter* (preface, appendices, afterword) never calls \chaptermark,
+%% so without the \@schapter patch the head keeps showing the last NUMBERED chapter's title.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\makeatletter
+\apptocmd{\@schapter}{\markboth{#1}{}}{}{\PackageWarning{biblehebrew}{could not patch \string\@schapter}}
+\makeatother
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 10pt
+    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+% Chapter titles carry their own 第N章, so no automatic numbers anywhere; TOC lists chapters only.
+\setcounter{secnumdepth}{-1}
+\setcounter{tocdepth}{0}
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+% Deliberately NOT revelation.latex's \sloppy / hbadness=10000 / hfuzz=2pt: those hide overfull boxes,
+% and a Hebrew run cannot break, so an honest log is the only way to see an overflow.
+\widowpenalty=10000
+\clubpenalty=10000
+\emergencystretch=2em
+\tolerance=1500
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{1.1cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.5cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.5cm}
+
+% Main title
+{\fontsize{32}{40}\selectfont\bfseries\color{CoverCream} 讀懂聖經的希伯來文}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} Reading the Hebrew Old Testament}
+
+\vspace{0.7cm}
+
+% Series line
+{\fontsize{20}{26}\selectfont\bfseries\color{CoverCream} 新手讀經入門}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A First Guide for New Bible Students}
+
+\vspace{0.8cm}
+
+% Key verse — thin gold rule frame; the Hebrew line is the book's first word to the reader: "Hear"
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\vspace{0.3cm}
+
+{\hebrewfont\fontsize{17}{22}\selectfont\color{CoverGoldBright} שְׁמַע יִשְׂרָאֵל}\\[0.1cm]
+{\hebrewfont\fontsize{17}{22}\selectfont\color{CoverGoldBright} יְהוָה אֱלֹהֵינוּ יְהוָה אֶחָד}
+
+\vspace{0.3cm}
+\small\itshape\color{CoverCream}
+「以色列阿，你要聽！耶和華─我們神是獨一的主。」\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} “Hear, O Israel! The LORD is our God, the LORD is one!”\\
+--- Deuteronomy 6:4}
+\vspace{0.3cm}
+
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.75cm}
+
+% Core theme
+{\normalsize\color{CoverGoldBright}\bfseries 先讀懂，再查證；一次只問一個問題}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} Read first, then verify --- one question at a time}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 讀懂聖經的希伯來文}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} Reading the Hebrew Old Testament}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給剛開始讀舊約的人——\\
+願你不是為了炫耀原文而讀，\\
+而是為了更清楚地聽見那位說話的神。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+For those who are just beginning to read the Old Testament ---\\
+may you read not to show off the original,\\
+but to hear more clearly the One who speaks.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 求你開我的眼睛，使我看出你律法中的奇妙。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} “Open my eyes, that I may behold Wonderful things from Your law.” (Psalm 119:18, NASB)}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{讀懂聖經的希伯來文 / Reading the Hebrew Old Testament}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
+
+\textbf{希伯來文 / Hebrew Text}\\
+OSHB (Open Scriptures Hebrew Bible, Leningrad Codex)\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents — chapter-level only (tocdepth 0, set above)
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears before the back cover so the
+%% back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\clearpage
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你看見耶穌了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Do you see Jesus?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria --- 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover; the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\hebrewfont\fontsize{22}{28}\selectfont\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else$שְׁמַע$endif$}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont “Hear”} · 聽——本書封面經文的第一個字}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.4cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書寫給剛開始讀舊約的人：不必先學會希伯來文，也可以聰明地使用它。從字母與母音符號開始，經過一個字怎麼組成、基本文法、動詞，到怎樣查一個字才不被「原文」誤導，再用創世記 1:1-5 做一次完整的逐字讀。書中所有次數與統計，都由程式對 OSHB 希伯來文舊約逐詞計算；字彙表取自本系列舊約各卷「原文研讀」已經討論過的字；每隔幾章有一首可以唱的經文。
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ first guide for new Bible students: you do not have to learn Hebrew before you can use it wisely. It moves from the alphabet and vowel points, through how a word is built, basic grammar and the verb, to word studies that do not mislead, and ends with a full word-by-word reading of Genesis 1:1-5. Every count is computed from the OSHB text; the vocabulary comes from words the series has already discussed; and songs help the Scripture stay in memory.}
+$endif$
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\small\bfseries\color{CoverCream} 你會走過的五站}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Five Stations}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}cp{3.3in}l@{}}
+認字 & 字母與母音符號 \textit{\baskervillefont\color{CoverCream} Letters and vowels} & {\tiny\color{CoverMuted} 第 3–4 章}\\[0.25em]
+拆字 & 前綴、詞尾與基本文法 \textit{\baskervillefont\color{CoverCream} Prefixes, suffixes, grammar} & {\tiny\color{CoverMuted} 第 5–6 章}\\[0.25em]
+動詞 & 詞幹與形式 \textit{\baskervillefont\color{CoverCream} Stems and forms} & {\tiny\color{CoverMuted} 第 7 章}\\[0.25em]
+用 & 查字、數字、逐字讀 \textit{\baskervillefont\color{CoverCream} Word studies and a full reading} & {\tiny\color{CoverMuted} 第 8–10 章}\\[0.25em]
+帶著走 & 字彙、工具、十週計劃 \textit{\baskervillefont\color{CoverCream} Vocabulary, tools, a ten-week plan} & {\tiny\color{CoverMuted} 第 11–13 章}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\itshape\color{CoverCream} 於是從摩西和眾先知起，凡經上所指著自己的話都給他們講解明白了。}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} “Then beginning with Moses and with all the prophets, He explained to them the things concerning Himself in all the Scriptures.” --- Luke 24:27}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.35cm}
+
+{\footnotesize\color{CoverMuted} \S\ Hebrew Edition v1.0 \S\ 2026 \S}
+\end{center}
+
+\end{document}

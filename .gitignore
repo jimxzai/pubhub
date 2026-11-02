@@ -70,3 +70,8 @@ __pycache__/
 # Regenerable fhl citation cache and another repo's archive (book source corpora are tracked)
 /scripts/fhl-prose-cache/
 /_meta/archive/pubhubNew-unique/
+
+# Derived by scripts/mine-hebrew-wordstudies.py and gen-*hebrew*.py; the build scripts regenerate them
+/docs/sources/biblehebrew/series-wordstudies.json
+/books/bible/Biblehebrew/generated/
+/books/bible/Biblehebrew-compendium/generated/

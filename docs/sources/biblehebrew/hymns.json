@@ -1,0 +1,88 @@
+{
+ "heber": {
+  "title": "Holy, Holy, Holy! Lord God Almighty!",
+  "author": "Reginald Heber, 1826",
+  "tune": "NICAEA (John B. Dykes, 1861)",
+  "source": "Wikisource《The Army and Navy Hymnal》（1920）第 4 首的轉錄頁；歌詞擷取自頁面中的樂譜標記，拼字已正規化；只用第 1、2 節",
+  "stanzas": [
+   [
+    "Holy, holy, holy! Lord God Almighty!",
+    "Early in the morning our song shall rise to thee;",
+    "Holy, holy, holy, merciful and mighty!",
+    "God in Three Persons, blessed Trinity!"
+   ],
+   [
+    "Holy, holy, holy! all the saints adore thee,",
+    "Casting down their golden crowns around the glassy sea;",
+    "Cherubim and seraphim falling down before thee,",
+    "Which wert, and art, and evermore shalt be."
+   ]
+  ]
+ },
+ "joy": {
+  "title": "Joy to the World",
+  "author": "Isaac Watts, 1719 (Wikisource page gives 1709)",
+  "tune": "ANTIOCH (arr. Lowell Mason, 1839)",
+  "source": "Wikisource「Joy to the World (unsourced)」頁，授權標籤 PD-old；該頁帶有「無出處」標籤，請對照印刷版；只用第 1 節",
+  "stanzas": [
+   [
+    "Joy to the world! The Lord is come!",
+    "Let earth receive her King;",
+    "Let every heart prepare Him room,",
+    "And heaven and nature sing."
+   ]
+  ]
+ },
+ "watts117": {
+  "title": "From All That Dwell Below the Skies",
+  "author": "Isaac Watts, 1719",
+  "tune": "OLD HUNDREDTH (Louis Bourgeois, 1551)",
+  "source": "Wikisource《The Army and Navy Hymnal》（1920）第 18 首的轉錄頁；本書更正兩處轉錄：Creators 補撇號、Thro' 改 Through；只用第 1 節（第 2 節的轉錄有疑似錯字，未收）",
+  "stanzas": [
+   [
+    "From all that dwell below the skies,",
+    "Let the Creator's praise arise;",
+    "Let the Redeemer's name be sung",
+    "Through every land, by every tongue."
+   ]
+  ]
+ },
+ "rous": {
+  "title": "The Lord's My Shepherd, I'll Not Want",
+  "author": "Scottish Psalter, 1650 (attributed to Francis Rous)",
+  "tune": "CRIMOND (Jessie S. Irvine)",
+  "source": "Wikisource「The Lord's My Shepherd (unsourced)」頁，授權標籤 PD-old；五節全用，字句與大小寫照該頁",
+  "stanzas": [
+   [
+    "The Lord's my shepherd, I'll not want.",
+    "He makes me down to lie",
+    "in pastures green. He leadeth me",
+    "the quiet waters by."
+   ],
+   [
+    "My soul he doth restore again,",
+    "and me to walk doth make",
+    "within the paths of righteousness,",
+    "e'en for his own name's sake."
+   ],
+   [
+    "Yea, though I walk in death's dark vale,",
+    "yet will I fear no ill.",
+    "For thou art with me, and thy rod",
+    "and staff me comfort still."
+   ],
+   [
+    "My table thou hast furnished",
+    "in presence of my foes:",
+    "my head thou dost with oil anoint,",
+    "and my cup overflows."
+   ],
+   [
+    "Goodness and mercy all my life",
+    "shall surely follow me.",
+    "And in God's house for evermore",
+    "my dwelling place shall be."
+   ]
+  ]
+ }
+}
