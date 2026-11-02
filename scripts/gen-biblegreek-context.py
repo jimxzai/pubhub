@@ -56,18 +56,27 @@ def clean(s):
 
 
 DROPPED = {"conflict": 0, "number": 0}
-CONFLICT = re.compile(r"無條件|不求回報|不計回報|情感上的熱度|神聖的愛|友誼的愛|dynamite|英文\s*\S{0,12}的字(?:源|根)|字根即英文|首次出現在此|罕見地與約翰福音同用")           # contradicts chapter 5 (agapao is not 'unconditional love')
+CONFLICT = re.compile(r"無條件|不求回報|不計回報|情感上的熱度|神聖的愛|友誼的愛|dynamite|英文.{0,40}(?:字源|字根|來源|同源|衍生|相關)|(?:字源|字根).{0,15}英文|首次出現在此|罕見地與約翰福音同用")           # contradicts chapter 5 (agapao is not 'unconditional love')
 NUMBER = re.compile(r"[\d一二三四五六七八九十百兩餘]+\s*(?:次|處|回)(?!的死)")  # counts quoted in a note are not re-verified here
 
 
+CLAUSE_DROP = re.compile(NUMBER.pattern + r"|字根|字源|同源|由此而來|衍生|見(?:上文|下方|上方|下文)[^，；。]*|見「[^」]*」(?:一節|專節|專題)|Strong's\s*\d+")
+
+
 def short_note(note):
+    """Whole note is dropped if it contradicts chapter 5; otherwise only the offending CLAUSES (a count, a root/etymology claim,
+    a pointer to a section Part Two does not have) are removed, so the rest of a useful note survives."""
     note = clean(note).lstrip("：: ")
     if CONFLICT.search(note):
         DROPPED["conflict"] += 1
         return ""
-    if NUMBER.search(note):
-        DROPPED["number"] += 1
-        return ""
+    keep = []
+    for cl in re.split(r"(?<=[，；。,;])", note):
+        if CLAUSE_DROP.search(cl):
+            DROPPED["number"] += 1
+            continue
+        keep.append(cl)
+    note = "".join(keep).strip("，；。,; ")
     if len(note) <= 100:
         return note
     cut = re.split(r"[。；]", note)[0]

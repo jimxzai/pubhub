@@ -26,6 +26,13 @@ def load_mod(name, path):
 gc = load_mod("gc", "scripts/gen-biblegreek-context.py")
 gd = load_mod("gd", "scripts/gen-biblegreek-data.py")
 ZH, SHORT = gc.ZH, gc.SHORT
+
+
+def ab(b):
+    """Book abbreviation as one unbreakable unit (a 2-character one like 約壹 must not split across lines)."""
+    s = SHORT[b]
+    return "`\\mbox{%s}`{=latex}" % s if len(s) > 1 else s
+
 SHORT.setdefault("72-Col", "西"); SHORT.setdefault("75-1Ti", "提前"); SHORT.setdefault("76-2Ti", "提後"); SHORT.setdefault("77-Tit", "多")
 EN = {"61-Mt": "Matthew", "62-Mk": "Mark", "63-Lk": "Luke", "64-Jn": "John", "65-Ac": "Acts", "66-Ro": "Romans",
       "67-1Co": "1 Corinthians", "68-2Co": "2 Corinthians", "69-Ga": "Galatians", "70-Eph": "Ephesians", "71-Php": "Philippians",
@@ -98,7 +105,7 @@ def phrase_gloss(g):
 def display_head(row, lemma):
     ws = row["headword"].split()
     if len(ws) == 1:
-        return lemma if norm(ws[0]) == norm(lemma) else f"{ws[0]}（{lemma}）"
+        return lemma if norm(ws[0]) == norm(lemma) else f"{lemma}（{ws[0]}）"   # show the form the series studied
     return row["headword"]
 
 
@@ -127,7 +134,7 @@ def main():
             if all(pos.get(l) in STOP_POS or l == "εἰμί" for l in lems) and not (len(ws) == 2 and norm(ws[0]) == "εγω" and norm(ws[1]) == "ειμι"):
                 omitted["function"] += 1; omitted["phrase"] += 1; continue
         r["_lemma"] = lems[0] if len(ws) == 1 else ""
-        by_book[r["book"]][r["headword"]].append(r)
+        by_book[r["book"]][lems[0] if len(ws) == 1 else r["headword"]].append(r)
     shown = sum(len(rs) for ent in by_book.values() for rs in ent.values())
     lvl_shown = collections.Counter(r["level"] for ent in by_book.values() for rs in ent.values() for r in rs)
     # vetted glossary only (series glosses for very common words are verse-specific); no vetted gloss -> a dash
@@ -160,7 +167,7 @@ def main():
 
 **不是每條通過的記錄都印出來。** 單一個字的記錄，若那個字是冠詞、介系詞、連接詞、代名詞或「是」動詞（εἰμί），不算「查過的字」，略去 {omitted['single']:,} 條；另有 {omitted['phrase']:,} 條詞組整個都是這類小字（如 ἐντὸς ὑμῶν），也略去；因此卷二各卷的表一共印出 {shown:,} 條（A {lvl_shown['A']:,}、B {lvl_shown['B']:,}、C {lvl_shown['C']:,}），合併同一卷內相同的詞目後是 {n_entries:,} 列。其餘兩個以上的字組成的詞組（如 ἐγώ εἰμι）照原樣印出，意思與註解屬於整個詞組，不掛在單一個字上，對照式的詞組（如 περιτομή ἀκροβυστία）意思欄印完整的對照；兩份索引則只收單字詞目，意思欄只取本書人工字彙表，沒有就留破折號。
 
-**怎麼讀這些級別：** 「通過」只保證那個希臘字確實出現在所標的位置，**不保證**中文意思或註解在神學上說得對。B 級的「章」，是從原稿自己引用的經節推出來的；若推出的章超過兩章，就說不出具體位置，一律降為 C 級。拿有經節的記錄回測這個推法（{METRICS['n']:,} 條，含重複）：推出一兩章且包含真正章次的占 {pct(METRICS['true'])}，推出的章太多而會降級的占 {pct(METRICS['wide'])}，推出的章都不含該字的占 {pct(METRICS['none'])}，推出一兩章但沒有一章是真正章次的占 {pct(METRICS['miss'])}。註解欄是各卷作者當時寫的話，原文照錄（過長者只取第一句）；與第五章論證衝突的說法（如「無條件的愛」）、以及註解欄裏作者自己數出的次數或處數，一律略去；**意思欄裏偶爾留有的次數說法照錄，沒有逐條重算**（抽查都與語料相符，但不是全部核對）。涉及其他經卷或七十士譯本的說法，不在這份語料的核對範圍內。
+**怎麼讀這些級別：** 「通過」只保證那個希臘字確實出現在所標的位置，**不保證**中文意思或註解在神學上說得對。B 級的「章」，是從原稿自己引用的經節推出來的；若推出的章超過兩章，就說不出具體位置，一律降為 C 級。拿有經節的記錄回測這個推法（{METRICS['n']:,} 條，含重複）：推出一兩章且包含真正章次的占 {pct(METRICS['true'])}，推出的章太多而會降級的占 {pct(METRICS['wide'])}，推出的章都不含該字的占 {pct(METRICS['none'])}，推出一兩章但沒有一章是真正章次的占 {pct(METRICS['miss'])}。註解欄是各卷作者當時寫的話，原文照錄（過長者只取第一句）；與第五章論證衝突的說法（如「無條件的愛」）、以及註解欄裏作者自己數出的次數或處數、字根與英文字源的說法（這與第五章的警告同一精神），一律逐子句略去；**意思欄裏偶爾留有的次數說法照錄，沒有逐條重算**（抽查都與語料相符，但不是全部核對）。涉及其他經卷或七十士譯本的說法，不在這份語料的核對範圍內。
 
 每卷開頭的兩張表，詞數、次數、詞目與排序由語料計算；「常見意思」欄則取自本書的人工字彙表，沒有的就留破折號。
 
@@ -189,14 +196,15 @@ def main():
                 "| 項目 | 數字 |", "|------|------|",
                 f"| 詞數（SBLGNT） | {t:,} |", f"| 不同的詞目 | {len(ll):,} |",
                 f"| 只在本卷出現的詞目 | {excl:,} |", f"| 全新約只出現一次、且在本卷的詞目 | {hapax:,} |", ""]
-        body += ["## 本卷最常見的字（不含冠詞、代名詞、介系詞、連接詞等小字）", "", "| 詞目 | 本卷次數 | 全新約次數 | 常見意思 |", "|------|---------|-----------|----------|"]
+        body += ["## 本卷最常見的字（不含冠詞、代名詞、介系詞、連接詞等小字）", "",
+                 f"（「是」動詞 εἰμί 也不列入；它在本卷出現 {ll['εἰμί']:,} 次，全新約 {ntlem['εἰμί']:,} 次。）", "", "| 詞目 | 本卷次數 | 全新約次數 | 常見意思 |", "|------|---------|-----------|----------|"]
         for l, n in content[:12]:
             body.append(f"| {l} | {n:,} | {ntlem[l]:,} | {esc(vet(l))} |")
         body += ["", "## 本卷用得最集中的字", "",
                  f"（本卷次數至少 {thr} 次；依「本卷次數佔全新約次數的比例」排序。短卷的比例容易偏高，請對照次數看。）", "",
-                 "| 詞目 | 本卷次數 | 全新約次數 | 常見意思 |", "|------|---------|-----------|----------|"]
+                 "| 詞目 | 本卷次數 | 全新約次數 |", "|--------------------------|--------------------------|--------------------------|"]
         for l, n in conc[:10]:
-            body.append(f"| {l} | {n:,} | {ntlem[l]:,} | {esc(vet(l))} |")
+            body.append(f"| {l} | {n:,} | {ntlem[l]:,} |")
         ent = by_book.get(b, {})
         body += ["", "## 本系列在這卷查過的字", ""]
         if not ent:
@@ -204,7 +212,7 @@ def main():
         else:
             lv = collections.Counter(r["level"] for rs in ent.values() for r in rs)
             body += [f"共 {len(ent):,} 列（來自逐節 A 級 {lv['A']:,} 條、章 B 級 {lv['B']:,} 條、本卷 C 級 {lv['C']:,} 條記錄；同一詞目合併為一列）。"
-                     "詞組的意思與註解屬於整個詞組。", "",
+                     "詞組的意思與註解屬於整個詞組；意思欄標「（字彙表）」者，是原表格沒有給意思，改取本書的精選字彙表。", "",
                      "| 詞目 | 意思（原註） | 位置 | 原註解 |", "|------------------------|------------------|----------------|------------------------------------------|"]
             def sortkey(item):
                 k, rs = item
@@ -227,6 +235,11 @@ def main():
                 gf = short_gloss if rs[0]["_lemma"] else phrase_gloss
                 g = next((gf(r["gloss"]) for r in rs_top if gf(r["gloss"])), "")
                 note = next((n for n in (gc.short_note(r["note"]) for r in rs_top) if n and len(n) <= 70), "")
+                if not g:   # the source's meaning cell is a whole sentence (too long for the meaning column): show it as the note, clause-filtered
+                    alt = next((n for n in (gc.short_note(r["gloss"]) for r in rs_top) if n and len(n) <= 70), "")
+                    note = note or alt
+                if not g and not note and rs[0]["_lemma"] and gd.GLOSS.get(rs[0]["_lemma"]):
+                    g = gd.GLOSS[rs[0]["_lemma"]] + "（字彙表）"   # the series table gave no meaning: use the book's vetted glossary, labelled
                 body.append(f"| {display_head(rs[0], rs[0]['_lemma'])} | {esc(g)} | {place} | {esc(note)} |")
             body.append("")
         write(f"p2-{bi:02d}-{SLUG[b]}.md", f"{ZH[b]}的希臘文", "\n".join(body))
@@ -247,7 +260,7 @@ def main():
         for b in ORDER:
             if b in bs:
                 refs = bs[b][:2]
-                parts.append(SHORT[b] + (" " + ", ".join(refs) if refs else ""))
+                parts.append(ab(b) + (" " + ", ".join(refs) if refs else ""))
         cb.append(f"| {k} | {ntlem[k]:,} | {esc(gl(k))} | {'；'.join(parts)} |")
     nb = {k: len(bs) for k, bs in studied.items()}
     cb += ["", "## 你看見耶穌了嗎？", "",
@@ -262,17 +275,17 @@ def main():
           f"本系列研讀表格裏列過的單字詞目（{len(studied):,} 個），依希臘字母排序；右欄是列過它的卷。位置見卷二各卷的一節。詞組不在這份索引裏。", "",
           "| 詞目 | 意思（原註） | 卷 |", "|--------------------------|--------------------------------------------|------------------------------|"]
     for k in sorted(studied, key=norm):
-        books = "、".join(SHORT[b] for b in ORDER if b in studied[k])
+        books = "、".join(ab(b) for b in ORDER if b in studied[k])
         gi.append(f"| {k} | {esc(gl(k))} | {books} |")
     write("p2-91-greek-term-index.md", "希臘字索引", "\n".join(gi))
     G = os.path.join(OUT, "generated")
     open(os.path.join(G, "ledger-98-collect.md"), "w", encoding="utf-8").write(
-        "| 蒐集 | `scripts/extract-greek-wordstudy-v2.py` 讀取二十七卷新約研讀（含 `pauline-epistles/` 下的歌羅西書、提摩太前後書、提多書）裏所有含「希臘文／原文」欄的表格，不論有沒有經節欄；去除各譯本版本的重複後得 %s 條記錄（本列與下兩列的數字由程式從帳目產生） |\n" % format(len(all_rows), ","))
+        "| 蒐集 | `scripts/extract-greek-wordstudy-v2.py` 讀取二十七卷新約研讀（含 `pauline-epistles/` 下的歌羅西書、提摩太前後書、提多書）裏所有含「希臘文／原文」欄的表格，不論有沒有經節欄；去除各譯本版本的重複後得 %s 條記錄（本列與下兩列的數字由程式從帳目產生） |" % format(len(all_rows), ","))
     open(os.path.join(G, "ledger-98-grade.md"), "w", encoding="utf-8").write(
-        "| 核對與分級 | 逐條對 SBLGNT 語料核對，依證據強弱分級：**A** 標示的希臘字都在所引經節（%s 條；經節取自位置欄，位置欄是空的則取自註解裏引用的本卷經節）；**B** 沒有經節，但都在該篇所討論的章（%s 條；章由原稿自己引用的經節推出，且只列真的含該字的章；用有經節的記錄回測，推出一兩章且包含真正章次的占 %s，推出的章多於兩章而降為 C 的占 %s）；**C** 沒有經節或章，字確實出現在本卷（%s 條）；**剔除** 通不過所屬級別（%s 條）。帳目存於 `docs/sources/biblegreek/wordstudy-ledger-v2.tsv` |\n"
+        "| 核對與分級 | 逐條對 SBLGNT 語料核對，依證據強弱分級：**A** 標示的希臘字都在所引經節（%s 條；經節取自位置欄，位置欄是空的則取自註解裏引用的本卷經節）；**B** 沒有經節，但都在該篇所討論的章（%s 條；章由原稿自己引用的經節推出，且只列真的含該字的章；用有經節的記錄回測，推出一兩章且包含真正章次的占 %s，推出的章多於兩章而降為 C 的占 %s）；**C** 沒有經節或章，字確實出現在本卷（%s 條）；**剔除** 通不過所屬級別（%s 條）。帳目存於 `docs/sources/biblegreek/wordstudy-ledger-v2.tsv` |"
         % (format(tiers["A"], ","), format(tiers["B"], ","), pct(METRICS["true"]), pct(METRICS["wide"]), format(tiers["C"], ","), format(dropped, ",")))
     open(os.path.join(G, "ledger-98-adopt.md"), "w", encoding="utf-8").write(
-        "| 採用 | 卷二：A、B、C 三級中，單字詞目若是冠詞、介系詞、連接詞、代名詞或 `εἰμί` 則略去（%d 條），詞組整個都是這類小字的也略去（%d 條），其餘 %s 條各標明級別，詞組照原樣印出、意思不掛在單一個字上，索引只收單字詞目；附錄〈核心字在各卷的用法〉：只收 A 級的單字詞目；詞目、次數、經節摘錄由語料計算（已去掉 SBLGNT 的版本校勘記號）；「意思」與「註解」欄是各卷作者當時寫的原文（過長者只取第一句），含「無條件的愛」一類與第五章衝突的說法、含作者自己數出的次數或處數的註解（只要出現「N 次」「N 處」「N 回」就略去，未逐條重算），已略去；意思欄裏偶爾留有的次數說法照錄 |\n"
+        "| 採用 | 卷二：A、B、C 三級中，單字詞目若是冠詞、介系詞、連接詞、代名詞或 `εἰμί` 則略去（%d 條），詞組整個都是這類小字的也略去（%d 條），其餘 %s 條各標明級別，詞組照原樣印出、意思不掛在單一個字上，索引只收單字詞目；附錄〈核心字在各卷的用法〉：只收 A 級的單字詞目；詞目、次數、經節摘錄由語料計算（已去掉 SBLGNT 的版本校勘記號）；「意思」與「註解」欄是各卷作者當時寫的原文（過長者只取第一句），含「無條件的愛」一類與第五章衝突的說法、註解中含作者自己數出的次數或處數（「N 次」「N 處」「N 回」）、字根或英文字源說法、指向卷二沒有的章節（「見下方說明」）的子句，逐子句略去、其餘保留，未逐條重算；意思欄裏偶爾留有的次數說法照錄 |"
         % (omitted["single"], omitted["phrase"], format(shown, ",")))
     stats = {"ledger_rows": len(all_rows), "A": tiers["A"], "B": tiers["B"], "C": tiers["C"], "X": dropped, "omitted_function": omitted["function"],
              "shown_rows": shown, "shown_A": lvl_shown["A"], "shown_B": lvl_shown["B"], "shown_C": lvl_shown["C"], "entries": n_entries,

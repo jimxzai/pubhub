@@ -802,7 +802,7 @@ $backcover$
 $else$
 這本書寫給剛開始讀聖經的人：不教你學完整的希臘文，而是教你怎麼讀得懂、再用得對。從二十四個字母、文法速查，到查字的正確姿勢與常見的「原文說」謬誤；用約翰福音 1:1-5 做一次完整的逐字讀；並附上以真實計數為據的常用字表、各卷核心字的用法、新約二十七卷讀經地圖、練習與答案，幾首可以唱的歌；卷二更把本系列二十四卷研讀表格裏查過的希臘字，按書卷與跨卷整理（歌羅西書與提摩太前後書沒有可讀的表格），並標明每一條核對到哪一級。
 
-{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ first guide for new Bible students --- not a Greek course, but a way to read first and verify second: the alphabet, a grammar quick-reference, how to look up a word without being misled, a full word-by-word reading of John 1:1\textendash{}5, and every count computed from the SBLGNT corpus; Part Two lists, book by book, the Greek words in the word-study tables of twenty-four of the series' New Testament books, each marked by what could be verified.}
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ first guide for new Bible students\ \textemdash\ not a Greek course, but a way to read first and verify second: the alphabet, a grammar quick-reference, how to look up a word without being misled, a full word-by-word reading of John 1:1\textendash{}5, and every count computed from the SBLGNT corpus; Part Two lists, book by book, the Greek words in the word-study tables of twenty-four of the series' New Testament books, each marked by what could be verified.}
 $endif$
 \end{minipage}
 
@@ -833,7 +833,7 @@ $endif$
 
 {\normalsize\color{CoverCream} {\greekfont Καὶ ὁ λόγος σὰρξ ἐγένετο}}\\[0.1cm]
 {\normalsize\itshape\color{CoverCream} 道成了肉身，住在我們中間。}\\
-{\baskervillefont\footnotesize\itshape\color{CoverMuted} "And the Word became flesh, and dwelt among us." --- John 1:14}
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "And the Word became flesh, and dwelt among us."\ \textemdash\ John 1:14}
 
 \vspace{0.25cm}
 
