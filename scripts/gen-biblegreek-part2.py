@@ -139,6 +139,20 @@ def main():
     lvl_shown = collections.Counter(r["level"] for ent in by_book.values() for rs in ent.values() for r in rs)
     # vetted glossary only (series glosses for very common words are verse-specific); no vetted gloss -> a dash
     gl = lambda k: gd.GLOSS.get(k) or "—"   # a lemma meaning comes only from the vetted glossary; series glosses are verse-specific
+    series_gl = collections.defaultdict(collections.Counter)
+    for k, bs in single.items():
+        for b, rs0 in bs.items():
+            for r0 in rs0:
+                g0 = re.split(r"[；;/／、]", gc.clean(r0["gloss"]))[0].strip()
+                if 0 < len(g0) <= 8 and not gc.CONFLICT.search(g0):
+                    series_gl[k][balance(g0)] += 1
+
+    def idx_gl(k):
+        """Index meaning: the vetted glossary if it has the word, else the distinct short meanings the series tables gave it (up to 3), so context-dependence stays visible."""
+        if gd.GLOSS.get(k):
+            return gd.GLOSS[k]
+        alts = [g0 for g0, _ in series_gl[k].most_common(3)]
+        return "／".join(alts) if alts else "—"
     vet = lambda k: gd.GLOSS.get(k) or "—"
     n_entries = sum(len(v) for v in by_book.values())
     books_with = sum(1 for b in ORDER if by_book.get(b))
@@ -165,7 +179,7 @@ def main():
 | C | 原記錄沒有經節或章，字確實出現在**本卷**的某處 | {tiers['C']:,} | 標「（本卷）」 |
 | 剔除 | 通不過所屬級別的核對 | {dropped:,} | 不收入 |
 
-**不是每條通過的記錄都印出來。** 單一個字的記錄，若那個字是冠詞、介系詞、連接詞、代名詞或「是」動詞（εἰμί），不算「查過的字」，略去 {omitted['single']:,} 條；另有 {omitted['phrase']:,} 條詞組整個都是這類小字（如 ἐντὸς ὑμῶν），也略去；因此卷二各卷的表一共印出 {shown:,} 條（A {lvl_shown['A']:,}、B {lvl_shown['B']:,}、C {lvl_shown['C']:,}），合併同一卷內相同的詞目後是 {n_entries:,} 列。其餘兩個以上的字組成的詞組（如 ἐγώ εἰμι）照原樣印出，意思與註解屬於整個詞組，不掛在單一個字上，對照式的詞組（如 περιτομή ἀκροβυστία）意思欄印完整的對照；兩份索引則只收單字詞目，意思欄只取本書人工字彙表，沒有就留破折號。
+**不是每條通過的記錄都印出來。** 單一個字的記錄，若那個字是冠詞、介系詞、連接詞、代名詞或「是」動詞（εἰμί），不算「查過的字」，略去 {omitted['single']:,} 條；另有 {omitted['phrase']:,} 條詞組整個都是這類小字（如 ἐντὸς ὑμῶν），也略去；因此卷二各卷的表一共印出 {shown:,} 條（A {lvl_shown['A']:,}、B {lvl_shown['B']:,}、C {lvl_shown['C']:,}），合併同一卷內相同的詞目後是 {n_entries:,} 列。其餘兩個以上的字組成的詞組（如 ἐγώ εἰμι）照原樣印出，意思與註解屬於整個詞組，不掛在單一個字上，對照式的詞組（如 περιτομή ἀκροβυστία）意思欄印完整的對照；兩份索引則只收單字詞目，意思欄見該表開頭說明。
 
 **怎麼讀這些級別：** 「通過」只保證那個希臘字確實出現在所標的位置，**不保證**中文意思或註解在神學上說得對。B 級的「章」，是從原稿自己引用的經節推出來的；若推出的章超過兩章，就說不出具體位置，一律降為 C 級。拿有經節的記錄回測這個推法（{METRICS['n']:,} 條，含重複）：推出一兩章且包含真正章次的占 {pct(METRICS['true'])}，推出的章太多而會降級的占 {pct(METRICS['wide'])}，推出的章都不含該字的占 {pct(METRICS['none'])}，推出一兩章但沒有一章是真正章次的占 {pct(METRICS['miss'])}。註解欄是各卷作者當時寫的話，原文照錄（過長者只取第一句）；與第五章論證衝突的說法（如「無條件的愛」）、以及註解欄裏作者自己數出的次數或處數、字根與英文字源的說法（這與第五章的警告同一精神），一律逐子句略去；**意思欄裏偶爾留有的次數說法照錄，沒有逐條重算**（抽查都與語料相符，但不是全部核對）。涉及其他經卷或七十士譯本的說法，不在這份語料的核對範圍內。
 
@@ -253,7 +267,7 @@ def main():
     multi = sorted(((k, bs) for k, bs in studied.items() if len(bs) >= 2), key=lambda kv: (-len(kv[1]), norm(kv[0])))
     cb = ["# 跨卷字表 (Words Studied in More Than One Book) {.unnumbered}", "",
           f"單字詞目中，被兩卷以上列過的字，共 {len(multi):,} 個。「位置」只列 A 級（逐節核對）的經節，每卷最多兩處；沒有經節的卷只列卷名。"
-          "意思欄只取本書人工字彙表，沒有的留破折號。", "",
+          "意思欄：本書人工字彙表有的取字彙表；沒有的，列出本系列表格給過的簡短意思（至多三個，用「／」分開）——同一個字的幾個意思不同，正是它依上下文而定的樣子，不要當成詞典定義。", "",
           "| 詞目 | 新約次數 | 意思（原註） | 被查過的卷與位置 |", "|----------------------|----------|------------------------|--------------------------------------------|"]
     for k, bs in multi:
         parts = []
@@ -261,7 +275,7 @@ def main():
             if b in bs:
                 refs = bs[b][:2]
                 parts.append(ab(b) + (" " + ", ".join(refs) if refs else ""))
-        cb.append(f"| {k} | {ntlem[k]:,} | {esc(gl(k))} | {'；'.join(parts)} |")
+        cb.append(f"| {k} | {ntlem[k]:,} | {esc(idx_gl(k))} | {'；'.join(parts)} |")
     nb = {k: len(bs) for k, bs in studied.items()}
     cb += ["", "## 你看見耶穌了嗎？", "",
            "這份字表裏，與耶穌最直接相關的幾個字，本系列研讀表格列過它們的卷數是：" +
@@ -276,7 +290,7 @@ def main():
           "| 詞目 | 意思（原註） | 卷 |", "|--------------------------|--------------------------------------------|------------------------------|"]
     for k in sorted(studied, key=norm):
         books = "、".join(ab(b) for b in ORDER if b in studied[k])
-        gi.append(f"| {k} | {esc(gl(k))} | {books} |")
+        gi.append(f"| {k} | {esc(idx_gl(k))} | {books} |")
     write("p2-91-greek-term-index.md", "希臘字索引", "\n".join(gi))
     G = os.path.join(OUT, "generated")
     open(os.path.join(G, "ledger-98-collect.md"), "w", encoding="utf-8").write(

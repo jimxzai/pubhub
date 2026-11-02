@@ -425,7 +425,7 @@
     \interlinepenalty\@M
     \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
     \vskip 10pt
-    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
+    \noindent\hbox to\linewidth{\color{ScriptureGold}\vrule height 0.6pt depth 0pt width\linewidth}\par\nointerlineskip\vskip 1.5pt\noindent\hbox to\linewidth{\color{ScriptureGold}\vrule height 0.6pt depth 0pt width\linewidth}\par
     \vskip 15pt
   }}
 \def\@makeschapterhead#1{%
@@ -435,7 +435,7 @@
     \interlinepenalty\@M
     \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
     \vskip 8pt
-    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
+    \noindent\hbox to\linewidth{\color{ScriptureGold}\vrule height 0.6pt depth 0pt width\linewidth}\par\nointerlineskip\vskip 1.5pt\noindent\hbox to\linewidth{\color{ScriptureGold}\vrule height 0.6pt depth 0pt width\linewidth}\par
     \vskip 15pt
   }}
 
@@ -654,7 +654,7 @@ $endif$
 
 \vspace{0.25cm}
 \renewcommand{\arraystretch}{1.5}
-\begin{tabular}{@{}p{1.6cm}p{2.6cm}p{6.2cm}@{}}
+\begin{tabular}{@{}p{1.5cm}p{3.4cm}p{5.6cm}@{}}
 \toprule
 \textbf{起步} & 〈啟示的次序〉、第 1–2 章 & 神先說話，人才來讀；希臘文能幫你甚麼；四步階梯 \\
 \textbf{認字} & 第 3–4 章 & 字母；文法速查（格、冠詞、動詞） \\
