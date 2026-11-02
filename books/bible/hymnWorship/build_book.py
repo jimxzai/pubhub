@@ -47,6 +47,8 @@ FULL = {  # display names
     "撒上": "撒母耳記上", "創": "創世記", "出": "出埃及記", "申": "申命記", "傳": "傳道書", "可": "馬可福音", "徒": "使徒行傳", "書": "約書亞記", "帖前": "帖撒羅尼迦前書", "王上": "列王紀上",
 }
 USED = []           # every (ref) rendered, for the audit trail
+HEADINGS = []       # (level, text) of every heading emitted, in order (page lookup after the first build)
+CITES = {}          # ref -> set of heading indices in force when it was cited
 
 
 def parse(ref):
@@ -115,6 +117,7 @@ def scripture(ref, cite=True, numbered=True, english=True):
     """Verbatim CUV as a blockquote.  Gaps between ranges get a ⋯ marker."""
     code, ch, vs, chap = parse(ref)
     USED.append(ref)
+    CITES.setdefault(ref, set()).add(len(HEADINGS) - 1)
     lines, prev, skipped = [], None, False
     for v in vs:
         if cuv_placeholder(chap[str(v)]):
@@ -149,6 +152,7 @@ def inline(ref):
     """Short verbatim quotation, no verse numbers, for use inside prose."""
     code, ch, vs, chap = parse(ref)
     USED.append(ref)
+    CITES.setdefault(ref, set()).add(len(HEADINGS) - 1)
     return "".join(chap[str(v)].strip() for v in vs)
 
 
@@ -193,6 +197,14 @@ def hymn_body(key):
     blk, title, rel = best[key]
     lines = blk.rstrip("\n").split("\n")
     body = "\n".join(lines[1:])          # drop the bold title line; heading carries it
+    # Uniform credit line: split the repo's free-form author line at its first semicolon.
+    _m = re.match(r">\s*(.*)", lines[1])
+    _raw = _m.group(1).strip() if _m else ""
+    _raw = re.sub(r"^\*(.*)\*$", r"\1", _raw)              # strip whole-line italics
+    _parts = re.split(r"[;；]\s*", _raw, maxsplit=1)
+    _author = _parts[0].strip().strip("*")
+    _note = _parts[1].strip().strip("*") if len(_parts) > 1 else "庫中章節未另註明底本"
+    body = "> **詞與年份**：" + _author + " \\\n> **出處註記**：" + _note + "\n" + "\n".join(lines[2:])
     body = body.replace("祢", "你").replace("裡", "裏")
     # `\` at line end is a hard break in the source; keep as is.
     return body.rstrip() + "\n", title, rel
@@ -423,10 +435,10 @@ HQ = {  # hymn key -> meditation question (editor-written; questions only, no at
     "christthelordisrisentoday": "「哈利路亞」在每一行都出現。復活對你是一個教義，還是今天早上起床的理由？",
     "breakthouthebreadoflife": "你最近讀經，是在吃，還是在檢查？",
     "owordofgodincarnate": "你今天讀的那一段經文，有沒有把你帶到那位「道成肉身」的面前？",
-    "spiritofgoddescenduponmyheart": "你今天要聖靈改變你的哪一個「自然反應」？",
-    "sweethourofprayer": "你一天裏有沒有一段時間，是別人找不到你的？",
-    "whatafriendwehaveinjesus": "你有沒有把今天最小的一件煩惱，也帶到祂面前？",
-    "nearermygodtothee": "「更近」常常從不舒服的地方開始。你現在被帶到了哪一個不舒服的地方？",
+    "spiritofgoddescenduponmyheart": "歌詞說：不求夢境，不求先知的狂喜，只求把心靈的昏暗除去。你向神求的，是除去昏暗，還是想要一個記號？",
+    "sweethourofprayer": "歌詞說，這個時刻曾在憂傷中帶來釋放，也曾使人逃過試探者的網羅。你上一次是在哪一件事上經歷這樣的時刻？",
+    "whatafriendwehaveinjesus": "歌詞說，我們失去平安，是因為沒有把一切帶到神面前。這一週，有哪一樣是你自己扛著、沒有帶去的？",
+    "nearermygodtothee": "歌詞設想日落、黑暗、以石為枕，仍然唱「更近我主」。你現在的黑暗，是在把你推近祂，還是推遠？",
     "abidewithme": "天晚了。你願意讓祂進到你一天裏最亂的那個房間嗎？",
     "bestillmysoul": "你對自己的心說話，用的是甚麼口氣——責備，還是這首詩裏的口氣？",
     "itiswellwithmysoul": "你的「安寧」，是靠情況好轉，還是靠十字架上的那件事？",
@@ -435,14 +447,14 @@ HQ = {  # hymn key -> meditation question (editor-written; questions only, no at
     "greatisthyfaithfulness": "信實是「每個早晨」的事。你昨天早上，記得祂的哪一樣恩惠？",
     "guidemeothougreatjehovah": "歌詞求祂引導「我一生的旅程」。你今天把哪一段交給祂帶領，哪一段還自己握著？",
     "saviorlikeashepherdleadus": "歌詞求牧人「領我」。你今天是在跟著祂走，還是自己找草場？",
-    "bethoumyvision": "「願你是我異象」——你每天「看」得最多的是甚麼？",
+    "bethoumyvision": "歌詞把祂放在首位：不看財富，也不要人空洞的稱讚。哪一樣，在你心裏比祂更像「首位」？",
     "olovethatwiltnotletmego": "有一個愛，是你逃不掉的。你現在是在逃，還是在歇息？",
     "leadkindlylight": "歌詞說「我不求看見遠景，一步已足」。你現在在求的，是遠景，還是下一步？",
     "takemylifeandletitbe": "歌詞把生命一項一項獻上：手、腳、聲音、時間、金銀。你今天只獻上其中哪一項？",
     "trustandobey": "信靠與順服，是同一件事的兩面。你這一週，哪一面比較弱？",
     "havethineownwaylord": "陶匠在泥上動手。你今天最不願意被捏的，是哪一處？",
     "ojesusihavepromised": "最近一次你兌現對祂的許諾，是甚麼時候？",
-    "standupstandupforjesus": "這個星期，你在哪一個場合沉默了，而你知道該說一句話？",
+    "standupstandupforjesus": "歌詞說血肉的臂膀會失敗，要穿上福音的軍裝，每一件都配上禱告。你今天要先穿上的是哪一件？",
     "thechurchsonefoundation": "你對教會的失望，是對「人」，還是對「根基」？",
     "blestbethetiethatbinds": "有哪一位弟兄姊妹，今天你可以用一句話、一通電話與他相繫？",
     "gloriousthingsoftheearespoken": "你怎樣看你所在的教會——一個活動，還是神的城？",
@@ -488,15 +500,23 @@ def closing(ref, line):
 
 # --------------------------------------------------------------- the book
 out = []
-w = out.append
 
 
-def vol(title, intro=None, step=None):
+def w(s):
+    out.append(s)
+    for m in re.finditer(r"(?m)^(#{1,3}) (.+?)(?: \{\.unnumbered\})?$", s):
+        HEADINGS.append((len(m.group(1)), m.group(2).strip()))
+
+
+
+def vol(title, intro=None, step=None, coord=None):
     w(f"# {title} {{.unnumbered}}\n")
     if intro:
         w(f"> {intro}\n")
     if step:
         w(f"> **啟示的次序·{step}**\n")
+    if coord:
+        w(f"> **全書座標**：{coord}\n")
     w("\n\\newpage\n")
 
 
@@ -608,7 +628,8 @@ w("\n\\newpage\n")
 # ---- 卷一 --------------------------------------------------------------
 vol("卷一 · 敬拜的根基 (Foundations)",
     "敬拜不是從我們獻上甚麼開始，而是神先說了話，我們才被帶到祂面前。",
-    "第一步：神召我們——先有神的開口，才有人的敬拜。")
+    "第一步：神召我們——先有神的開口，才有人的敬拜。",
+    "這一卷是「召」：先看神怎樣把人帶到祂面前；後面五卷，都是人的回應。")
 w("## 神要怎樣的敬拜\n")
 w(scripture("約 4:23-24"))
 w("""
@@ -643,7 +664,8 @@ w("\n\\newpage\n")
 # ---- 卷二 每日敬拜 ------------------------------------------------------
 vol("卷二 · 每日敬拜 (Daily Worship)",
     "一週七天，每天早晚各一篇詩篇、一首聖詩、一段短禱。詩篇全文在卷四，聖詩歌詞在卷五。",
-    "第二步：日復一日——把「召、說、答」縮成每天早晚的十分鐘。")
+    "第二步：日復一日——把「召、說、答」縮成每天早晚的十分鐘。",
+    "這一卷是個人的「答」：一個人，每天早晚怎樣走完「召、說、答」。")
 w("""**用法：**早晨與晚間各一個十來分鐘的時段就夠。先安靜，再讀詩篇（出聲），然後讀或唱聖詩，最後念短禱，再用自己的話加上今天的事。
 
 下面每一天都有一個主題。**短禱是本書編寫的**，你可以改成自己的話。
@@ -741,7 +763,8 @@ w("\n\\newpage\n")
 # ---- 卷三 主日敬拜程序 ----------------------------------------------------
 vol("卷三 · 主日敬拜程序 (The Lord's Day)",
     "十一個環節，次序是：神召我們、神說話、我們回應、神差遣。",
-    "第三步：同聚一堂——召、說、答、差，教會一起走完一次。")
+    "第三步：同聚一堂——召、說、答、差，教會一起走完一次。",
+    "這一卷是教會一起的「召、說、答、差」：同一個次序，由一個人放大成一群人。")
 w("""以下是一份可以直接用的程序。**經文都是和合本**；「眾」表示會眾同念；「領」表示司會或領禱的人。可依貴堂會的習慣增減環節。聖詩編號指卷五。
 """)
 w("## 一、靜默預備\n")
@@ -835,7 +858,8 @@ w("\n\\newpage\n")
 # ---- 卷四 詩篇禱讀 -----------------------------------------------------
 vol("卷四 · 詩篇禱讀 (The Psalter)",
     "詩章：和合本全文。讀出聲，挑一句，用「我」重念一遍。",
-    "第四步：神給的禱詞——詩篇是神給我們的話，也是我們還給神的話。")
+    "第四步：神給的禱詞——詩篇是神給我們的話，也是我們還給神的話。",
+    "這一卷是「說」與「答」之間的橋：神先給了禱詞，我們用祂給的話回應祂。")
 w("""## 詩篇禱讀四步
 
 老弟兄說過：詩篇是耶穌自己禱告用的書——客西馬尼園唱的是它，十字架上斷氣前說的是它。（見庫中《詩篇》〈禱告版〉）你不會禱告，不要緊，先用別人的禱告禱告，直到它成為你自己的。方法有四步：
@@ -870,7 +894,8 @@ w("\n\\newpage\n")
 # ---- 卷五 聖詩選 -------------------------------------------------------
 vol("卷五 · 聖詩選 (Hymns)",
     f"頌詞：{len(ALL)} 首公有領域聖詩，按主題排列；每首配一段經文、一個默想問題。",
-    "第五步：用歌回應——歷代聖徒的回應，借我們的口唱出來。")
+    "第五步：用歌回應——歷代聖徒的回應，借我們的口唱出來。",
+    "這一卷是「答」的歌唱：同一個回應，歷代聖徒已經唱過，我們接著唱。")
 w("""**怎麼讀這一卷：**歌詞原文取自庫裏已核對的章節；作者行保留了當時註明的作者、年份與底本。**本書的中文歌詞多為編者所譯（各首的標示方式不一，如「編者試譯」「中譯：編者」），不是教會通行的詩歌本譯文**，只供對照理解；要唱的時候，請用貴堂會的詩歌本。「見於本庫 N 個書目」是這首詩被庫中多少個書目選為配詩，數字越大，表示越經得起不同書卷的使用。
 """)
 for theme, tag, hs in HYMNS:
@@ -910,7 +935,8 @@ w("\n\\newpage\n")
 # ---- 卷六 禱告 ---------------------------------------------------------
 vol("卷六 · 禱告 (Prayer)",
     "禱告是與神說話。這一卷不教技巧，只把聖經裏現成的禱告放在你面前。",
-    "第六步：與神說話——最後落在禱告，也落在那位在父右邊代求的基督。")
+    "第六步：與神說話——最後落在禱告，也落在那位在父右邊代求的基督。",
+    "這一卷是「答」的最後一步，也是整個次序的落點：禱告，並且是在那位代求的基督裏禱告。")
 w("## 主禱文逐句\n")
 w(scripture("太 6:9-13", numbered=False))
 w("""
@@ -985,11 +1011,37 @@ w(f"""| 節期 | 主題 | 詩篇 | 聖詩 |
 | 感恩節期 | 收割與數算 | 65、67、100、103 | {H('nowthankweallourgod')}、{H('comeyethankfulpeoplecome')} |
 """)
 w("\n## 附錄二 · 聖詩索引\n")
-w("| 編號 | 曲名 | 主題 | 書目數 |\n|---|---|---|---|")
+PREFIX_LEN = len(HEADINGS)
+PAGES = {}
+try:
+    _pj = json.load(open(os.path.join(HERE, ".sources", "pages.json"), encoding="utf-8"))
+    import hashlib
+    _sig = hashlib.sha1("\n".join(f"{a}|{b}" for a, b in HEADINGS[:PREFIX_LEN]).encode()).hexdigest()
+    if _pj.get("sig") == _sig and _pj.get("n") == PREFIX_LEN:
+        PAGES = {i: pg for i, pg in enumerate(_pj["pages"][:PREFIX_LEN])}
+except OSError:
+    pass
+
+
+def pg(i):
+    return str(PAGES[i]) if i in PAGES else "—"
+
+
+def hidx(level, text_start, exact=False):
+    """index of the first heading (at or before PREFIX_LEN) of this level that starts with text_start
+    (or equals it when exact=True: 詩篇 1 must not match 詩篇 19)"""
+    for i, (lv, tx) in enumerate(HEADINGS[:PREFIX_LEN]):
+        if lv == level and (tx == text_start if exact else tx.startswith(text_start)):
+            return i
+    return -1
+
+
+w("頁碼為該首聖詩標題所在頁（印出的頁碼）。\n")
+w("| 編號 | 曲名 | 主題 | 書目數 | 頁 |\n|---|---|---|---|---|")
 for theme, _, hs in HYMNS:
     short = theme.split(" (")[0]
     for key, zh, ref in hs:
-        w(f"| {NUM[key]} | {TITLE[key]} | {short} | {n_books(key)} |")
+        w(f"| {NUM[key]} | {TITLE[key]} | {short} | {n_books(key)} | {pg(hidx(3, f'{NUM[key]}. '))} |")
 w("")
 w("\n## 附錄三 · 來源與核對說明\n")
 w(f"""**這一節如實交代本書每一類材料怎麼來，以及哪些事沒有做。**
@@ -1021,10 +1073,38 @@ for _s, _ps, _hs in SITUATIONS:
     w(f"| {_s} | {'、'.join(str(x) for x in _ps)} | " + "、".join(f"{NUM[h]}" for h in _hs) + " |")
 w("")
 
+# ---- 附錄五、六：詩篇索引、經文索引（頁碼來自上一次建置；第一次建置顯示「—」）
+w("\n## 附錄五 · 詩篇索引\n")
+w("本書收錄的詩篇與所在頁。\n")
+w("| 詩篇 | 組別 | 頁 |\n|---|---|---|")
+for _grp, _ps in PSALMS:
+    for _n, _ in _ps:
+        w(f"| {_n} | {_grp} | {pg(hidx(3, f'詩篇 {_n}', exact=True))} |")
+w("")
+w("\n## 附錄六 · 經文索引\n")
+w("本書引用的經文，依聖經書卷次序排列。頁碼是該段引用**所在小節標題的起始頁**，引用本身可能在其後一、兩頁。同一節出現在不同處，頁碼並列。\n")
+_canon = list(cuv)
+_slug_order = {}
+for _i, _k in enumerate(_canon):
+    _slug_order.setdefault(_k.rsplit("-", 1)[0], _i)
+_rows = []
+for _ref, _idxs in CITES.items():
+    _code, _ch, _vs, _ = parse(_ref)
+    _pgs = sorted({PAGES[i] for i in _idxs if i in PAGES})
+    _rows.append((_slug_order[BOOKS[_code]], _ch, _vs[0], label(_ref), _pgs))
+_seen = {}
+for _o, _ch, _v0, _lab, _pgs in sorted(_rows):
+    _seen.setdefault((_o, _ch, _v0, _lab), set()).update(_pgs)
+w("| 經文 | 頁 |\n|---|---|")
+for (_o, _ch, _v0, _lab), _pgs in sorted(_seen.items()):
+    w(f"| {_lab} | {'、'.join(str(x) for x in sorted(_pgs)) if _pgs else '—'} |")
+w("")
+
 text = "\n".join(out)
 nfull = sum(1 for k, _, _ in ALL if full_text(k))
 nfail = sum(1 for k, _, _ in ALL if k in CAL and not CAL[k]["ok"])
 text = text.replace("{FAIL_N}", str(nfail)).replace("{MISS_N}", str(len(ALL) - nfull - nfail)).replace("{FULL_N}", str(nfull)).replace("{NOFULL_N}", str(len(ALL) - nfull))
 text = text.replace("{USED_COUNT}", str(len(set(USED))))
 open(OUT, "w", encoding="utf-8").write(text)
+json.dump({"prefix_len": PREFIX_LEN, "headings": HEADINGS}, open(os.path.join(HERE, ".sources", "headings.json"), "w", encoding="utf-8"), ensure_ascii=False)
 print(f"wrote {OUT}: {len(text)} chars, {len(ALL)} hymns, {len(PSALM_SET)} psalms, {len(USED)} scripture refs, {total_uses} hymn uses/{len(best)} titles")

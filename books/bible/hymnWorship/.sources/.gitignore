@@ -4,3 +4,5 @@ cnbible/
 fhl/
 fhl_full/
 __pycache__/
+headings.json
+pages.json

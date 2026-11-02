@@ -11,7 +11,16 @@ OUTPUT_PDF="$OUTPUT_DIR/hymnworship-consolidated.pdf"
 TEMPLATE="$PROJECT_ROOT/templates/pdf/hymnworship.latex"
 [ -f "$TEMPLATE" ] || { echo "ERROR: Template not found: $TEMPLATE"; exit 1; }
 mkdir -p "$OUTPUT_DIR"
+PAGES_JSON="$PROJECT_ROOT/books/bible/hymnWorship/.sources/pages.json"
+source "$SCRIPT_DIR/lib/latex-check.sh"
+LATEX_LOG="${OUTPUT_PDF%.pdf}-build.log"
+
+# Two-pass build: the indices print page numbers, which are only known after a build.  Build, measure the
+# heading pages from the PDF, rebuild with them, and stop when the page map no longer changes (max 4 passes).
+# A stale pages.json can never leak wrong numbers: the generator ignores it unless its heading signature matches.
+build_once() {
 python3 -I "$PROJECT_ROOT/books/bible/hymnWorship/build_book.py" "$BODY_MD" || { echo "❌ body generation failed"; exit 1; }
+python3 "$SCRIPT_DIR/check-worship-book.py" "$BODY_MD" || { echo "❌ worship-book checks failed — not building"; exit 1; }
 cat > "$COMBINED_MD" <<'HEADER'
 ---
 title: "敬拜與禱告手冊"
@@ -32,8 +41,20 @@ copyright: |
 HEADER
 # verse markers already emitted as \textsuperscript by the generator
 cat "$BODY_MD" >> "$COMBINED_MD"
-source "$SCRIPT_DIR/lib/latex-check.sh"
-LATEX_LOG="${OUTPUT_PDF%.pdf}-build.log"
 pandoc "$COMBINED_MD" -o "$OUTPUT_PDF" --verbose --pdf-engine=xelatex --template="$TEMPLATE" \
   --from=markdown-superscript-subscript --toc --toc-depth=1 --top-level-division=chapter > "$LATEX_LOG" 2>&1
 latex_build_report "$?" "$LATEX_LOG" "$OUTPUT_PDF" || exit 1
+}
+
+rm -f "$PAGES_JSON"          # pass 1 starts without page numbers
+prev=""
+for pass in 1 2 3 4; do
+  echo "── pass $pass"
+  build_once
+  python3 "$SCRIPT_DIR/worship-page-index.py" "$OUTPUT_PDF" || { echo "❌ could not locate every heading"; exit 1; }
+  cur="$(shasum "$PAGES_JSON" | cut -d' ' -f1)"
+  if [ "$cur" = "$prev" ]; then echo "✅ page numbers stable after pass $pass"; break; fi
+  prev="$cur"
+done
+[ "$cur" = "$prev" ] || { echo "❌ page numbers did not stabilise"; exit 1; }
+python3 "$SCRIPT_DIR/worship-page-index.py" "$OUTPUT_PDF" --strict || { echo "❌ printed index disagrees with the PDF"; exit 1; }
