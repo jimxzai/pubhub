@@ -1,0 +1,220 @@
+{
+ "wesley7": {
+  "text": "Above all sing spiritually. Have an eye to God in every word you sing. Aim at pleasing him more than yourself, or any other creature.",
+  "ok": true,
+  "urls": {
+   "https://bachlund.org/Directions_for_Singing.htm": "OK",
+   "https://www.wholesomewords.org/resources/singinghymns.html": "OK"
+  }
+ },
+ "erb_questions": {
+  "text": "Are the words doctrinally sound? Is the text Biblical? Does it stimulate spiritual thought? Does it properly instruct? Does it inspire high spiritual ideals? Does the music fit the text? Is it excellent? Does it fit the need? Does it produce a wholesome response?",
+  "ok": true,
+  "urls": {
+   "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf": "OK"
+  }
+ },
+ "erb_first": {
+  "text": "The first step in planning a worship service is to have a quiet time with the Lord, asking Him to lead and direct you as to what should be accomplished",
+  "ok": true,
+  "urls": {
+   "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf": "OK"
+  }
+ },
+ "erb_format": {
+  "text": "Many times a familiar format for the service is more effective than a program that is different merely for the sake of variety.",
+  "ok": true,
+  "urls": {
+   "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf": "OK"
+  }
+ },
+ "erb_peaks": {
+  "text": "Emotional peaks occur naturally (and should not be artificially manipulated)",
+  "ok": true,
+  "urls": {
+   "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf": "OK"
+  }
+ },
+ "erb_theme": {
+  "text": "It is easier to start with the theme of the message and work your music from that.",
+  "ok": true,
+  "urls": {
+   "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf": "OK"
+  }
+ },
+ "mac_music_not_worship": {
+  "text": "Music will play on your emotion, music will stir your emotion, but that is not necessarily worship. Music will give expression to love, it will give expression to adoration, it will give expression to honor, it will give expression to worship, but it doesn't produce it. What produces it is the truth in the heart and the work of the Spirit of God.",
+  "ok": true,
+  "urls": {
+   "https://www.gty.org/sermons/90-377/spirit-filled-music": "OK"
+  }
+ },
+ "mac_music_means": {
+  "text": "Music is a means to express worship, but it is not worship.",
+  "ok": true,
+  "urls": {
+   "https://www.gty.org/sermons/80-428/is-music-worship": "OK"
+  }
+ },
+ "mac_congregational": {
+  "text": "congregational singing is simply all of us stimulating one another to love and good works.",
+  "ok": true,
+  "urls": {
+   "https://www.gty.org/sermons/81-54/music-the-expression-of-a-worshiping-heart": "OK"
+  }
+ },
+ "mac_scripture_worship": {
+  "text": "the more Scripture you know, the more doctrine you know, the more worship you give.",
+  "ok": true,
+  "urls": {
+   "https://www.gty.org/sermons/80-323/the-critical-elements-of-true-worship": "OK"
+  }
+ },
+ "mac_prayer_highest": {
+  "text": "If prayer is anything, it is the highest form of worship that an individual can participate in, because prayer is saying, \"God, Your name, Your kingdom, Your will be elevated, not my will, not my kingdom, not my name.\"",
+  "ok": true,
+  "urls": {
+   "https://www.gty.org/sermons/90-447/prayer-the-highest-form-of-worship": "OK"
+  }
+ },
+ "barrows_hymn": {
+  "text": "There is not a situation in life where there isn't a hymn and a Scripture to meet the need.",
+  "ok": true,
+  "urls": {
+   "https://billygraham.org/cliff-barrows": "OK"
+  }
+ },
+ "graham_thank": {
+  "text": "Begin when you pray by thanking and praising God for His love and goodness.",
+  "ok": true,
+  "urls": {
+   "https://billygraham.org/answers/how-do-i-pray-properly": "OK"
+  }
+ },
+ "graham_confess": {
+  "text": "Then confess your sins and ask for His forgiveness. Finally, bring your concerns to Him. You may find it helpful to keep a list of people for whom you are praying.",
+  "ok": true,
+  "urls": {
+   "https://billygraham.org/answers/how-do-i-pray-properly": "OK"
+  }
+ },
+ "graham_talking": {
+  "text": "Prayer is simply talking to God—and the most important thing I can say about this is that God wants you to talk to Him!",
+  "ok": true,
+  "urls": {
+   "https://billygraham.org/answers/is-there-a-secret-to-praying": "OK"
+  }
+ },
+ "graham_privilege": {
+  "text": "don't look on prayer as a burden or obligation; instead, look on it as a privilege.",
+  "ok": true,
+  "urls": {
+   "https://billygraham.org/answers/how-often-should-i-pray-2": "OK"
+  }
+ },
+ "sankey_gospel": {
+  "text": "D. L. Moody of Chicago will preach the gospel, and Ira D. Sankey of Chicago will sing the gospel in Bethesda Chapel every afternoon and evening this week, except Saturday, at 3 and 7 o'clock.",
+  "ok": true,
+  "urls": {
+   "https://archive.org/download/mylifest00sank/mylifest00sank_djvu.txt": "OK",
+   "https://archive.org/download/mylifestoryofgos0000irad_s4i2/mylifestoryofgos0000irad_s4i2_djvu.txt": "OK"
+  }
+ },
+ "graham_barrows": {
+  "text": "His uncanny ability to lead a Crusade choir of thousands of voices or an audience of a hundred thousand voices in a great hymn or Gospel chorus is absolutely unparalleled",
+  "ok": true,
+  "urls": {
+   "https://billygraham.org/cliff-barrows": "OK"
+  }
+ },
+ "fact:erb_activities": {
+  "ok": true,
+  "url": "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf",
+  "needles": {
+   "Praise and adoration": "OK",
+   "Thanksgiving": "OK",
+   "Reading of Scripture": "OK",
+   "Confession": "OK",
+   "Prayer": "OK",
+   "Intercession": "OK",
+   "Ordinances of baptism": "OK",
+   "Giving": "OK",
+   "Instruction in the Word": "OK",
+   "Application of the Word": "OK",
+   "Fellowship": "OK"
+  }
+ },
+ "fact:erb_author": {
+  "ok": true,
+  "url": "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf",
+  "needles": {
+   "Dr. Clayton Erb": "OK",
+   "Minister of Worship & Music, Grace Community Church": "OK"
+  }
+ },
+ "fact:erb_planning": {
+  "ok": true,
+  "url": "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf",
+  "needles": {
+   "Ask the soloist or group to submit three choices": "OK",
+   "rehearse all musical numbers and multimedia in the manner in which they will occur in the service": "OK",
+   "Know what music you have used in the past": "OK",
+   "Brief scripture and prayer": "OK",
+   "Don't call them": "OK",
+   "Church hymnal": "OK"
+  }
+ },
+ "fact:erb_refs": {
+  "ok": true,
+  "url": "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf",
+  "needles": {
+   "Confession (repentance, submission; Leviticus 26:40-42, Nehemiah 9:2, Proverbs 28:13, Acts 19:18, James 4:7, 5:16; 1 John 1:9)": "OK",
+   "Intercession (2 Corinthians 1:11, 1 Thessalonians 5:25, James 5:14-16)": "OK",
+   "Fellowship (Acts 2:42, Galatians 2:9)": "OK",
+   "Giving (Acts 2:45, 11:29; 1 Corinthians 16:2, 2 Corinthians 9:5, 7; Philippians 4:16)": "OK",
+   "Reading of Scripture (Exodus 24:7, Deuteronomy 31:11, Nehemiah 8:1-8": "OK"
+  }
+ },
+ "fact:hog": {
+  "ok": true,
+  "url": "https://www.gracechurch.org/hymnsofgrace",
+  "needles": {
+   "In 2016, Grace Community Church and The Master": "OK",
+   "Psalms of Grace": "OK",
+   "The official hymnal of Grace Community Church": "OK"
+  }
+ },
+ "fact:gcc_music": {
+  "ok": true,
+  "url": "https://www.gracechurch.org/music/resources",
+  "needles": {
+   "The Role of Music in Worship": "OK",
+   "Copyright FAQ": "OK",
+   "Hymn Accompaniments": "OK",
+   "Celebrating 45 Years of Worship with Stephen Sturz": "OK"
+  }
+ },
+ "fact:barrows": {
+  "ok": true,
+  "url": "https://www.christianhistoryinstitute.org/magazine/article/an-evangelistic-band-of-brothers",
+  "needles": {
+   "first sang at a Billy Graham campaign in 1945 in Asheville": "OK",
+   "took the reins of the Hour of Decision radio program": "OK"
+  }
+ },
+ "fact:shea": {
+  "ok": true,
+  "url": "https://www.christianhistoryinstitute.org/magazine/article/an-evangelistic-band-of-brothers",
+  "needles": {
+   "oldest of Graham": "OK"
+  }
+ },
+ "fact:bgea_hod": {
+  "ok": true,
+  "url": "https://billygraham.org/cliff-barrows",
+  "needles": {
+   "host of The Hour of Decision radio program for more than 60 years": "OK"
+  }
+ },
+ "_retrieved": "2026-11-01"
+}

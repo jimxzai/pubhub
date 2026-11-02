@@ -75,6 +75,18 @@ bad = [n for n, (_, b) in hymns.items() if not all(k in b for k in ("**配經**"
 check("items: every hymn has 詞與年份 / 出處註記 / 配經 / 默想 / 見於本庫", not bad, f"incomplete: {bad}")
 check("items: hymn numbers are 1..N without gaps", sorted(hymns) == list(range(1, len(hymns) + 1)))
 
+# ---- coordinates of the groups inside 卷四 / 卷五, and a year (or an honest note) on every hymn credit
+def h2_blocks(vol_prefix, skip):
+    body = next(b for t_, b in vols if t_.startswith(vol_prefix))
+    parts = re.split(r"(?m)^## (.+)$", body)
+    return [(parts[i].strip(), parts[i + 1]) for i in range(1, len(parts) - 1, 2) if not any(parts[i].startswith(k) for k in skip)]
+bad = [t_ for t_, b in h2_blocks("卷四", ("詩篇禱讀四步",)) if "**座標**" not in b[:400]]
+check("coords: every psalm group in 卷四 carries a 座標 line", not bad, str(bad))
+bad = [t_ for t_, b in h2_blocks("卷五", ("現代讚美詩",)) if "**座標**" not in b[:400]]
+check("coords: every hymn theme in 卷五 carries a 座標 line", not bad, str(bad))
+bad = [n for n, (_, b) in hymns.items() if not (re.search(r"\*\*詞與年份\*\*：[^\n]*(?:\d{3,4}|［年份)", b))]
+check("credits: every hymn credit shows a year or says why not", not bad, str(bad))
+
 # ---- xref
 bad = []
 for n, ttl in re.findall(r"聖詩 (\d+)《([^》]+)》", text):
@@ -139,6 +151,40 @@ for i, l in enumerate(L):
         if i >= 2 and L[i - 2].strip() != "":          # header row must be preceded by a blank line
             bad.append(L[i - 1][:40])
 check("tables: every table is preceded by a blank line (otherwise pandoc prints it as raw text)", not bad, str(bad[:3]))
+
+# ---- external quotations (Appendix 七): every English quotation printed there must equal a text that
+# .sources/verify_external_quotes.py has re-confirmed in every source page it lists
+EV = ROOT / "books/bible/hymnWorship/.sources/external-quotes-verified.json"
+if "## 附錄七" in text:
+    app7 = text[text.index("## 附錄七"):]
+    check("external: verification record exists", EV.exists())
+    if EV.exists():
+        ev = json.load(open(EV, encoding="utf-8"))
+        norm_en = lambda s: re.sub(r"[^a-z0-9]", "", s.lower())
+        recorded = {norm_en(v["text"]) for k, v in ev.items() if not k.startswith("_") and "text" in v}
+        failed = [k for k, v in ev.items() if not k.startswith("_") and not v["ok"]]
+        check("external: every source check in the record is OK", not failed, str(failed))
+        printed = [l[2:] for l in app7.split("\n") if l.startswith("> ") and re.search(r"[A-Za-z]{4}", l)
+                   and not re.search(r"[\u4e00-\u9fff]", l) and not l.startswith("> —")]
+        bad = [q[:50] for q in printed if norm_en(q) not in recorded]
+        check("external: every English quotation in 附錄七 equals a verified record text", bool(printed) and not bad, str(bad))
+        # ...and every externally sourced quotation anywhere else in the book: a quote block whose citation line names
+        # Erb / Wesley / Graham must equal a verified record text (the volumes reuse the appendix quotations)
+        Lb = text.split("\n")
+        used_ext, bad2 = 0, []
+        for i, l in enumerate(Lb):
+            if re.match(r"> — (Clayton Erb|John Wesley|Billy Graham|John MacArthur|Cliff Barrows|Ira D\. Sankey)", l):
+                j = i - 1
+                if Lb[j].strip() == ">":          # the empty quote line between the quotation and its citation
+                    j -= 1
+                block = []
+                while j >= 0 and Lb[j].startswith(">") and Lb[j].strip() != ">":
+                    block.insert(0, Lb[j][2:]); j -= 1
+                used_ext += 1
+                if norm_en(" ".join(block).rstrip("…")) not in recorded:
+                    bad2.append(" ".join(block)[:50])
+        check("external: every quotation attributed to Erb / Wesley / Graham / MacArthur / Barrows / Sankey, anywhere in the book, equals a verified record text", used_ext >= 19 and not bad2, f"{used_ext} found; bad: {bad2}")
+    check("external: appendix says which material was NOT verified", "沒有找到、或不能核對的部分" in app7)
 
 # ---- style
 editor = "\n".join(l for l in text.split("\n") if "\\textsuperscript" not in l)   # only verbatim scripture lines are exempt; prayers in blockquotes are editor text

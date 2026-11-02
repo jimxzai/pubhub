@@ -343,6 +343,12 @@
 % (every volume divider and appendix here is unnumbered) must reset the head,
 % otherwise it keeps the last title seen ("Contents").
 \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+% \cleardoublepage's inserted blank verso must be truly blank: fancyhdr otherwise prints the running head and
+% folio on it (found here as page xiv, a "目錄 (Contents)" head over nothing).  Same patch as isaiah.latex.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
 \makeatletter
 \apptocmd{\@schapter}{\markboth{#1}{}}{}{\PackageWarning{hymnworship}{could not patch \string\@schapter}}
 \makeatother

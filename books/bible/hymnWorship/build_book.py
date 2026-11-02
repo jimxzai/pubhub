@@ -166,6 +166,7 @@ ALIASES = {
 DIRFIX = lambda d: re.sub(r"^gospel-of-john-.*$", "gospel-of-john", d)
 
 best, uses, total_uses = {}, defaultdict(set), 0
+AUTHOR_LINES = defaultdict(list)     # every author line the repo prints for a hymn (to recover a missing year)
 pat = re.compile(r"^## (?:配詩|開篇詩歌|詩歌|聖詩|Opening Hymn)[^\n]*\n+((?:>[^\n]*\n?)+)", re.M)
 for f in glob.glob(os.path.join(BIBLE, "**/*.md"), recursive=True):
     rel = os.path.relpath(f, BIBLE)
@@ -180,6 +181,9 @@ for f in glob.glob(os.path.join(BIBLE, "**/*.md"), recursive=True):
         key = re.sub(r"[^a-z]", "", mt.group(1).lower())
         total_uses += 1
         uses[key].add(DIRFIX(rel.split("/")[0]))
+        _bl = blk.split("\n")
+        if len(_bl) > 1:
+            AUTHOR_LINES[key].append(re.sub(r"^>\s*", "", _bl[1]).strip())
         if key not in best or len(blk) > len(best[key][0]):
             best[key] = (blk, mt.group(1).strip(), rel)
 
@@ -203,8 +207,31 @@ def hymn_body(key):
     _raw = re.sub(r"^\*(.*)\*$", r"\1", _raw)              # strip whole-line italics
     _parts = re.split(r"[;；]\s*", _raw, maxsplit=1)
     _author = _parts[0].strip().strip("*")
+    _author_note = ""
+    if not re.search(r"\b(?:c\.\s*)?[0-9]{3,4}\b", _author):
+        # Recover a missing year from the repo's other credit lines for the same hymn.  Only a year that directly follows
+        # the SAME author's name counts (not a translator's or original-vs-translation year), and only if every such line
+        # agrees; if the repo disagrees with itself, say so instead of picking one.
+        _name = re.split(r"[,，;；（(]", _author)[0]
+        _words = re.findall(r"[A-Za-z]+", _name)
+        _sur = _words[-1] if _words and _words[0] not in ("Attributed", "Ancient", "Anonymous") else None
+        _years = set()
+        if _sur:
+            for _other in AUTHOR_LINES.get(key, []):
+                _oauth = re.split(r"[;；]", _other, maxsplit=1)[0].strip("* ")
+                _oauth = re.sub(r"[（(][^）)]*(?:Hymnal|A&N|頁面)[^）)]*[）)]", "", _oauth)
+                _mm = re.search(rf"{re.escape(_sur)}[\s,，(（]*(\d{{4}})\b", _oauth)   # the year sits right after the surname
+                if _mm:
+                    _years.add(_mm.group(1))
+        if len(_years) == 1:
+            _author = re.sub(rf"({re.escape(_sur)})", rf"\1（{next(iter(_years))}）", _author, count=1)
+            _author_note = "［年份取自庫中另一章對同一首詩的標註］"
+        elif len(_years) > 1:
+            _author_note = "［年份庫中記載不一：" + "、".join(sorted(_years)) + "］"
+        else:
+            _author_note = "［年份庫中未註；原作與英譯年代若有，見出處註記］"
     _note = _parts[1].strip().strip("*") if len(_parts) > 1 else "庫中章節未另註明底本"
-    body = "> **詞與年份**：" + _author + " \\\n> **出處註記**：" + _note + "\n" + "\n".join(lines[2:])
+    body = "> **詞與年份**：" + _author + _author_note + " \\\n> **出處註記**：" + _note + "\n" + "\n".join(lines[2:])
     body = body.replace("祢", "你").replace("裡", "裏")
     # `\` at line end is a hard break in the source; keep as is.
     return body.rstrip() + "\n", title, rel
@@ -375,7 +402,7 @@ SEE_JESUS = {  # psalm -> (one line, [NT / cross refs]); the kind label (引用/
     1: ("本篇的「福人」，在新約裏最完整的實現是耶穌：祂用「經上記著」回答試探（太4:4引的是申命記8:3，不是本篇）。", ["太 4:4"]),
     2: ("「你是我的兒子」，新約兩次引用這一句：一次說基督的身分，一次說祂的復活。", ["來 1:5", "徒 13:33"]),
     8: ("詩人問「人算甚麼」；希伯來書引用這篇，然後說：現在還沒有看見萬物都服祂，只看見耶穌。", ["來 2:6-9"]),
-    13: ("等候中的人不是孤單的：我們的大祭司能體恤我們的軟弱。", ["來 4:15"]),
+    13: ("詩人問「要到幾時」，沒有立刻得到回答；新約說，我們有一位大祭司，在各樣試探上與我們一樣，只是沒有犯罪，所以可以坦然帶著這個問題到祂面前。", ["來 4:15-16"]),
     16: ("彼得在五旬節講道，把「不叫你的聖者見朽壞」指向基督的復活。", ["徒 2:25-31", "徒 13:35"]),
     19: ("羅馬書引用 19:4 說福音的傳揚；希伯來書雖未引用本篇，卻說神在這末世是藉著祂的兒子曉諭我們。", ["羅 10:18", "來 1:1-2"]),
     22: ("首句是耶穌在十字架上的呼喊；分衣、「傳揚你的名」，福音書與希伯來書都指向祂。", ["太 27:46", "約 19:24", "來 2:12"]),
@@ -385,13 +412,13 @@ SEE_JESUS = {  # psalm -> (one line, [NT / cross refs]); the kind label (引用/
     42: ("詩人渴想活神；耶穌說：「人若渴了，可以到我這裏來喝。」", ["約 7:37", "約 4:14"]),
     46: ("「萬軍之耶和華與我們同在」與「以馬內利」是同一個應許；馬太引用的是以賽亞書7:14，沒有引用本篇。", ["太 1:23"]),
     51: ("認罪詩的盼望在於潔淨；新約說，神兒子耶穌的血洗淨我們一切的罪。", ["約壹 1:7", "弗 1:7"]),
-    62: ("「默默無聲，專心等候神」；耶穌邀請勞苦擔重擔的人到祂這裏得安息。", ["太 11:28-29"]),
+    62: ("詩人說「我的心默默無聲，專等候神」；耶穌說：「凡勞苦擔重擔的人，可以到我這裏來，我就使你們得安息。」詩人所等候的神，在耶穌裏向人開口（耶穌沒有引用本篇）。", ["太 11:28-29"]),
     63: ("詩人說「我的心渴想你」；耶穌說：「到我這裏來的，必定不餓。」", ["約 6:35"]),
     67: ("「使萬國都得知你的救恩」，這個盼望在大使命裏有了具體的差遣。", ["太 28:19-20"]),
     84: ("詩人渴慕神的居所；約翰福音說，耶穌所說的殿，就是祂的身體（約翰沒有引用本篇）。", ["約 2:19-21"]),
     90: ("摩西說神是歷代的居所；耶穌說，愛祂的人，父與祂要與他同住（沒有引用本篇）。", ["約 14:23"]),
     91: ("撒但曾引用這篇（91:11-12）試探耶穌；耶穌答：不可試探主你的神。這篇的應許不是拿來試探神的。", ["路 4:9-12"]),
-    95: ("希伯來書花了兩章，從「今天若聽他的話」講進神所應許的安息。", ["來 3:7-11", "來 4:1-11"]),
+    95: ("希伯來書從3:7到4:11，一路引用並解釋這篇：「今天若聽他的話，就不可硬著心」，並指向神所應許的安息。", ["來 3:7-11", "來 4:1-11"]),
     96: ("「向耶和華唱新歌」；啟示錄裏也有「新歌」，是向被殺的羔羊唱的（啟示錄沒有點明引用本篇）。", ["啟 5:9"]),
     98: ("「耶和華顯明了他的救恩」；西面抱著嬰孩耶穌說：我的眼睛已經看見你的救恩（路加沒有點明引用本篇）。", ["路 2:30-32"]),
     100: ("「你們當進他的門」；耶穌說：「我就是門，凡從我進來的，必然得救。」", ["約 10:9"]),
@@ -403,7 +430,7 @@ SEE_JESUS = {  # psalm -> (one line, [NT / cross refs]); the kind label (引用/
     130: ("「但在你有赦免之恩」；新約說，我們藉著基督的血得蒙救贖，過犯得以赦免。", ["弗 1:7", "約壹 1:9"]),
     131: ("「如同斷過奶的孩子」；耶穌說，人若不回轉變成小孩子的樣式，斷不能進天國。", ["太 18:3-4"]),
     133: ("弟兄和睦同居；耶穌臨別禱告，求父使信祂的人都合而為一。", ["約 17:21-23"]),
-    134: ("夜間站在耶和華殿中的人；耶穌也曾整夜禱告（兩處並非同一件事，只是一個對照）。", ["路 6:12"]),
+    134: ("本篇是夜間站在殿中的人為會眾獻上祝福；希伯來書說，耶穌「長遠活著，為他們祈求」（希伯來書沒有引用本篇）。", ["來 7:25"]),
     139: ("「你已經鑒察我」；約翰說耶穌認識萬人，不需要誰見證人怎樣，因祂知道人心裏所存的。", ["約 2:24-25"]),
     145: ("「你的國是永遠的國」；復活的主說：「天上地下所有的權柄都賜給我了。」", ["太 28:18"]),
     148: ("天上地上萬物都要讚美；歌羅西書說，萬有都是藉著祂造的，也靠祂而立。", ["西 1:16-17"]),
@@ -415,51 +442,51 @@ assert set(SEE_JESUS) == {n for _, ps in PSALMS for n, _ in ps}, set(SEE_JESUS) 
 
 HQ = {  # hymn key -> meditation question (editor-written; questions only, no attributed speech)
     "holyholyholylordgodalmighty": "歌詞把「聖哉」說了三遍。你上一次單單站在祂的聖潔面前、甚麼也不求，是甚麼時候？",
-    "immortalinvisiblegodonlywise": "「不死、不見」——祂既然看不見，你靠甚麼認識祂？這個答案，是你的經驗，還是祂的話？",
-    "praisetothelordthealmighty": "這首詩呼召「我的靈魂」一同讚美（配經詩103也是對自己的心說話）。你今天的心，需要你對它說一句甚麼？",
+    "immortalinvisiblegodonlywise": "歌詞說我們如樹上的葉子，發旺又枯萎，唯有祂永不改變。這一週，有哪一件事讓你特別覺得自己像葉子？",
+    "praisetothelordthealmighty": "歌詞說祂用翅膀庇護你。這一週，有哪一件事是你事後才看出祂在庇護的？",
     "ogodourhelpinagespast": "歷代的保障——想一件你的家族或教會過去被保守的事。它怎樣改變你今天對將來的看法？",
-    "amightyfortressisourgod": "堅固保障不表示沒有仇敵。你現在面對的最大的「仇敵」，是人、處境，還是自己的恐懼？",
-    "comethoufountofeveryblessing": "歌詞說「在此立下我的以便以謝」。撒母耳立這塊石頭，是為了記念「到如今耶和華都幫助我們」（撒上7:12）。你今天要為哪一件事立一塊石頭？",
-    "crownhimwithmanycrowns": "為祂戴上許多冠冕——你生命裏有哪一個冠冕，還戴在別的東西頭上？",
-    "jesusshallreignwhereerthesun": "「必作王」既是將來，也是今天。你生活中哪一個領域，還沒有讓祂作王？",
-    "ofthefatherslovebegotten": "這首詩從「父的愛」開始，不是從「人的需要」開始。你的禱告，通常從哪裏開始？",
+    "amightyfortressisourgod": "歌詞說仇敵「結局已定」，一個小小的字就能將他擊倒。你現在最怕的那件事，肯不肯放在這個「已定」之下？",
+    "comethoufountofeveryblessing": "歌詞說憐憫的溪流永不止息，也坦白承認「我容易漂流」。你最近哪一次發覺自己在漂流，又是怎樣被帶回來的？",
+    "crownhimwithmanycrowns": "歌詞為寶座上的羔羊戴上許多冠冕。你今天最看重的一項成就或身分，願意放在祂腳前嗎？",
+    "jesusshallreignwhereerthesun": "歌詞盼望祂的國「從這岸擴展到那岸」。今天你走過的哪一個地方，你可以為祂的名開口祈求？",
+    "ofthefatherslovebegotten": "歌詞從「未有世界以先」說起：祂是源頭，也是終結。今天你的禱告，能不能先停在這一句，再說自己的事？",
     "lohecomeswithcloudsdescending": "「看哪，祂駕雲降臨。」若今天就是那一天，你最想先對祂說的一句話是甚麼？",
-    "whenisurveythewondrouscross": "歌詞把「最寶貴的得著」都算作虧損，把驕傲看為無有。你最寶貴的得著，是甚麼？",
+    "whenisurveythewondrouscross": "歌詞說：若整個自然界都歸我，那份禮物也太小。你這一週最捨不得的那一樣，放在這座十字架旁邊，看起來是甚麼樣子？",
     "osacredheadnowwounded": "這首詩停在那受傷的頭面前。你能不能單單看著，不急著解釋，停五分鐘？",
-    "rockofagescleftforme": "歌詞說「我手裏一無所有」。你到神面前，是不是手裏還握著一點自己的功勞？",
+    "rockofagescleftforme": "歌詞說：縱使熱心不歇、眼淚長流，也不能贖罪。你帶到神面前的，有哪一樣其實是在暗暗換取祂的接納？",
     "thereisafountainfilledwithblood": "泉源是現在式。你上一次讓祂潔淨的，是哪一件具體的事？",
     "andcanitbethatishouldgain": "歌詞在確據與驚嘆之間來回：「現在不再有定罪」，卻仍問「怎能有這事」。你的確據，容得下驚嘆嗎？",
-    "amazinggrace": "「何等甘甜」——恩典對你還甘甜嗎？還是已經成了一個熟悉的字？",
-    "justasiamwithoutoneplea": "「照我本相」——你向神修飾過的那個樣子，今天可以不修飾地帶來嗎？",
-    "jesuspaiditall": "「已經付清」——你有沒有哪一筆，仍在自己偷偷地還？",
-    "christthelordisrisentoday": "「哈利路亞」在每一行都出現。復活對你是一個教義，還是今天早上起床的理由？",
-    "breakthouthebreadoflife": "你最近讀經，是在吃，還是在檢查？",
-    "owordofgodincarnate": "你今天讀的那一段經文，有沒有把你帶到那位「道成肉身」的面前？",
-    "spiritofgoddescenduponmyheart": "歌詞說：不求夢境，不求先知的狂喜，只求把心靈的昏暗除去。你向神求的，是除去昏暗，還是想要一個記號？",
+    "amazinggrace": "歌詞說恩典既教我的心敬畏，也除去我的恐懼。這兩樣，你最近經歷到的是哪一樣？",
+    "justasiamwithoutoneplea": "歌詞說「不等除去心中一點污穢」就來。你有哪一件事，是打算先整理好才向祂提起的？",
+    "jesuspaiditall": "歌詞說：罪留下深紅的污痕，祂洗得白如雪。有哪一件舊事，祂已經洗過了，你卻仍在心裏留著那塊污痕？",
+    "christthelordisrisentoday": "歌詞向死亡發問：「你的毒鉤如今在哪裏？」今天你要帶著這句話去面對哪一件事？",
+    "breakthouthebreadoflife": "歌詞求主像在海邊擘餅那樣擘開生命的糧。你上一次讀經，有哪一句真的被擘開給你？",
+    "owordofgodincarnate": "歌詞稱聖經為「作我們腳前的燈」。你今天要走的路上，有哪一步需要這盞燈照一照？",
+    "spiritofgoddescenduponmyheart": "歌詞說不求夢境與異象，只求把心靈的昏暗除去。你心裏哪一處最暗？你願意單單求聖靈去照亮它嗎？",
     "sweethourofprayer": "歌詞說，這個時刻曾在憂傷中帶來釋放，也曾使人逃過試探者的網羅。你上一次是在哪一件事上經歷這樣的時刻？",
     "whatafriendwehaveinjesus": "歌詞說，我們失去平安，是因為沒有把一切帶到神面前。這一週，有哪一樣是你自己扛著、沒有帶去的？",
     "nearermygodtothee": "歌詞設想日落、黑暗、以石為枕，仍然唱「更近我主」。你現在的黑暗，是在把你推近祂，還是推遠？",
     "abidewithme": "天晚了。你願意讓祂進到你一天裏最亂的那個房間嗎？",
-    "bestillmysoul": "你對自己的心說話，用的是甚麼口氣——責備，還是這首詩裏的口氣？",
-    "itiswellwithmysoul": "你的「安寧」，是靠情況好轉，還是靠十字架上的那件事？",
+    "bestillmysoul": "歌詞對自己的靈魂說：「主站在你這一邊。」你對自己的心說話時，說得出這一句嗎？",
+    "itiswellwithmysoul": "歌詞說：無論平安如江河或憂傷如海浪，因我的罪已全部釘在祂的十架上，仍可說「得安寧」。你今天要把這句話念給哪一處憂傷聽？",
     "godmovesinamysteriousway": "哪一件今天看來是烏雲的事，你願意先不下結論？",
-    "howfirmafoundation": "歌詞問：祂已經對你說的，還要再說甚麼？你還在等祂多說一句甚麼？",
+    "howfirmafoundation": "歌詞說，祂在話語中已說得夠多。祂已經說過的哪一句，你還沒有放心倚靠？",
     "greatisthyfaithfulness": "信實是「每個早晨」的事。你昨天早上，記得祂的哪一樣恩惠？",
-    "guidemeothougreatjehovah": "歌詞求祂引導「我一生的旅程」。你今天把哪一段交給祂帶領，哪一段還自己握著？",
-    "saviorlikeashepherdleadus": "歌詞求牧人「領我」。你今天是在跟著祂走，還是自己找草場？",
-    "bethoumyvision": "歌詞把祂放在首位：不看財富，也不要人空洞的稱讚。哪一樣，在你心裏比祂更像「首位」？",
-    "olovethatwiltnotletmego": "有一個愛，是你逃不掉的。你現在是在逃，還是在歇息？",
+    "guidemeothougreatjehovah": "歌詞稱自己是走過荒涼之地的客旅，求天上的糧餵養。你現在的荒涼裏，最缺的是甚麼？",
+    "saviorlikeashepherdleadus": "歌詞說：「我需你慈愛看顧。」你今天最需要祂看顧的一處是甚麼？",
+    "bethoumyvision": "歌詞說：「財富我不看重，人的虛名我不看重。」這兩樣裏，哪一樣最容易在你心裏悄悄居首？",
+    "olovethatwiltnotletmego": "歌詞說：「我把疲乏的靈魂安放在你裏面。」你現在最疲乏的一處是甚麼？今天能不能把它安放在這愛裏？",
     "leadkindlylight": "歌詞說「我不求看見遠景，一步已足」。你現在在求的，是遠景，還是下一步？",
-    "takemylifeandletitbe": "歌詞把生命一項一項獻上：手、腳、聲音、時間、金銀。你今天只獻上其中哪一項？",
+    "takemylifeandletitbe": "歌詞從手、腳、聲音一路獻到金銀、心思，說「一文不留」。其中哪一項，你最難說出「取去」？",
     "trustandobey": "信靠與順服，是同一件事的兩面。你這一週，哪一面比較弱？",
-    "havethineownwaylord": "陶匠在泥上動手。你今天最不願意被捏的，是哪一處？",
-    "ojesusihavepromised": "最近一次你兌現對祂的許諾，是甚麼時候？",
-    "standupstandupforjesus": "歌詞說血肉的臂膀會失敗，要穿上福音的軍裝，每一件都配上禱告。你今天要先穿上的是哪一件？",
-    "thechurchsonefoundation": "你對教會的失望，是對「人」，還是對「根基」？",
+    "havethineownwaylord": "歌詞求祂「鑒察我，試驗我」，又求「現在就洗淨我」。你有哪一處，是怕被祂鑒察的？",
+    "ojesusihavepromised": "歌詞說：祂若在我身旁，我就不懼怕爭戰。你已立志要走的路上，眼前哪一段最需要祂在身旁？",
+    "standupstandupforjesus": "歌詞說：穿上福音的軍裝，每一件都用禱告穿上。今天出門前，你最需要為哪一件事先禱告？",
+    "thechurchsonefoundation": "歌詞說教會是祂「用自己的血買了」的新婦。把你在教會裏最難受的那件事放在這句話旁邊，它看起來有甚麼不同？",
     "blestbethetiethatbinds": "有哪一位弟兄姊妹，今天你可以用一句話、一通電話與他相繫？",
-    "gloriousthingsoftheearespoken": "你怎樣看你所在的教會——一個活動，還是神的城？",
-    "nowthankweallourgod": "感謝為甚麼不等事情好了再說？「現在」這兩個字，對你意味著甚麼？",
-    "comeyethankfulpeoplecome": "收割有時候。今年你種下的，哪一樣快要收了？",
+    "gloriousthingsoftheearespoken": "歌詞說有活水「從永恆的愛中湧出」，「除去一切匱乏的懼怕」。你在教會裏，最近從哪裏喝到過這活水？",
+    "nowthankweallourgod": "歌詞說祂「從我們母親的懷抱起」就一路賜福，直到今天。你最早記得的一份恩惠是甚麼？",
+    "comeyethankfulpeoplecome": "歌詞說神是我們的造物主，供應我們所需。今年有哪一樣收成，你收下時幾乎沒有想到是祂所賜的？",
 }
 assert set(HQ) == {k for k, _, _ in ALL}, set(HQ) ^ {k for k, _, _ in ALL}
 
@@ -467,7 +494,7 @@ SITUATIONS = [  # (situation, [psalms in this book], [hymn keys])
     ("焦慮、擔憂", [23, 27, 131], ["whatafriendwehaveinjesus", "bestillmysoul", "itiswellwithmysoul", "leadkindlylight"]),
     ("罪疚、需要悔改", [32, 51, 130], ["rockofagescleftforme", "justasiamwithoutoneplea", "thereisafountainfilledwithblood", "andcanitbethatishouldgain"]),
     ("疲乏、軟弱", [62, 63, 121], ["abidewithme", "nearermygodtothee", "howfirmafoundation"]),
-    ("病痛、困苦", [13, 42, 91], ["godmovesinamysteriousway", "bestillmysoul", "abidewithme"]),
+    ("病痛、困苦", [13, 22, 42], ["godmovesinamysteriousway", "bestillmysoul", "abidewithme"]),
     ("孤單、被離棄", [22, 27, 139], ["saviorlikeashepherdleadus", "olovethatwiltnotletmego"]),
     ("喪慟、送別", [23, 90, 121], ["itiswellwithmysoul", "abidewithme", "ogodourhelpinagespast"]),
     ("需要引導、作決定", [16, 121, 139], ["guidemeothougreatjehovah", "leadkindlylight", "bethoumyvision"]),
@@ -494,6 +521,29 @@ SPECIAL = [  # (occasion, [scripture refs], [hymn keys], note)
 for _o, _rs, _hs, _n in SPECIAL:
     for _r in _rs: parse(_r)
     assert all(h in NUM for h in _hs), _o
+
+COORD_P = {  # psalm group -> its place in the order 召、說、答、差
+    "讚美與敬拜": "「答」的第一步：讚美。宣召之後，先稱頌神是誰。",
+    "認罪與悔改": "「答」的第二步：認罪。看見神的聖潔之後，才看見自己。",
+    "患難、信靠與安息": "「答」在日常裏的樣子：在患難中，仍把自己交在神手中。",
+    "感恩與盼望": "「答」的回應：記念已經領受的恩典，並向前盼望。",
+    "聖言與彌賽亞": "「說」的核心：神的話，最終指向那位說話的基督。",
+}
+COORD_H = {  # hymn theme (text before " (") -> its place in the order
+    "讚美與敬拜": "「答」的第一步：讚美。把榮耀歸給那位本來就配得的。",
+    "道成肉身與基督的降臨": "「說」：神的話成了肉身，並且要再來。",
+    "十字架與救恩": "「答」的根據：認罪與領受赦免，都站在十字架上。",
+    "復活": "「差」的起點：從空墳墓出去，基督是活的。",
+    "聖言": "「說」：先聽神說話，再開口回應。",
+    "禱告": "「答」：與神說話；這幾首詩教我們說甚麼。",
+    "信靠、安慰與引導": "「答」在日常裏的樣子：患難中的信靠與引導。",
+    "奉獻與跟隨": "「答」的最後一步，也是「差」的預備：把自己放在祭壇上，然後出去。",
+    "教會與團契": "「答」是一個身體的事：我們不是各自來敬拜。",
+    "感恩": "「答」：感謝，不等事情好了才說。",
+}
+assert set(COORD_P) == {g_ for g_, _ in PSALMS}, set(COORD_P) ^ {g_ for g_, _ in PSALMS}
+assert set(COORD_H) == {th.split(" (")[0] for th, _, _ in HYMNS}, set(COORD_H) ^ {th.split(" (")[0] for th, _, _ in HYMNS}
+
 
 def closing(ref, line):
     return "**你看見耶穌了嗎？** " + line + "\n\n> " + inline(ref) + "（" + label(ref) + "）\n"
@@ -528,11 +578,12 @@ w(f"""這本手冊不是新寫的詩歌集，是**整理**。三書精讀庫裏�
 
 - **聖詩**：統計庫中各卷 `配詩` 欄共 {total_uses} 處、{len(best)} 首不同的詩，本書依主題挑選其中公有領域的 {len(ALL)} 首（不是按使用次數的前 {len(ALL)} 名）。每首的歌詞**直接取自庫中已有的章節**（不重新打字），並保留原註明的作者、年份與底本；中譯若是編者試譯，作者行會直接寫明。每首附「見於本庫 N 個書目」：這首詩在庫中被選為配詩的書目數（同一詩的不同拼法已合併；列王紀上下、約翰一二三書等各算一個書目）。
 - **經文**：全書的詩篇與經節，都從 ai-eden 的和合本資料（`data/cuv.json`）**逐節程式讀出**，不憑記憶抄寫；每段經文之後附英文 NASB 1995，取自同一網站的 `/api/bible`（每章快取一次，腳本見 `books/bible/hymnWorship/.sources/fetch_aieden.py`）。共 {{USED_COUNT}} 段不同的經文（不含行文中順帶提到的經節）。
+- **前輩與同工**：卷三的〈司會與領唱的預備〉、卷五的兩張清單、卷六的補充，採用了約翰·衛斯理〈唱詩指引〉與 Grace Community Church 官方講義〈The Role of Music in Worship〉的做法；英文引語與事實都已重新抓取原頁面逐字核對，見附錄七。
 - **禱告與導語**：各處的短禱、導語與使用說明，是本書編寫的，不歸給任何歷史人物；凡是引用聖經的禱告，經文照錄，標明出處。
 
 **不收的：**仍在版權保護中的詩歌（所收聖詩皆為 1928 年前出版）。想唱的現代讚美詩，請按貴堂會的授權另行加入。
 
-**為甚麼叫「照基督的心意」：**歌羅西書 3:16 說「用詩章、頌詞、靈歌」，以弗所書 5:19 說「口唱心和地讚美主」——本書也照這三個詞安排：**詩章**（詩篇，卷四）、**頌詞**（聖詩，卷五）、**靈歌**——聖靈感動、發自心裏的歌唱與禱告，貫穿在每日敬拜、主日程序與禱告各卷（卷二、三、六）。本書各部分的次序都照同一個原則，也是庫裏各書共用的骨幹：**神先開口，人才回應。**
+**為甚麼叫「照基督的心意」：**歌羅西書 3:16 說「用詩章、頌詞、靈歌」，以弗所書 5:19 說「口唱心和地讚美主」——這三個詞是否各指一類，解經者有不同看法；本書只是借它們來安排：**詩篇**（卷四）、**聖詩**（卷五）、**聖靈感動、發自心裏的歌唱與禱告**（貫穿卷二、三、六）。本書各部分的次序都照同一個原則，也是庫裏各書共用的骨幹：**神先開口，人才回應。**
 """)
 w("\n\\newpage\n")
 
@@ -545,6 +596,7 @@ w(f"""| 你想要…… | 翻到 | 約需時間 |
 | 選詩歌 | 卷五〈聖詩選〉：按主題排列，每首配一段經文 | — |
 | 學習怎麼禱告 | 卷六〈禱告〉：主禱文逐句、四個方向、聖經裏的禱告 | — |
 | 按教會年曆安排 | 附錄一〈教會年曆〉 | — |
+| 看前輩與同工怎樣談唱詩、敬拜與禱告 | 附錄七（Wesley〈唱詩指引〉、Grace Community Church 的官方講義、Graham 與 Barrows；逐字核對過的才收） | — |
 
 **一個建議的次序**（晨更時）：安靜一分鐘 → 讀詩篇（出聲） → 唱或讀一首聖詩的歌詞 → 用詩篇的話禱告 → 一句話交託今天。
 
@@ -554,10 +606,74 @@ w(f"""| 你想要…… | 翻到 | 約需時間 |
 """)
 w("\n\\newpage\n")
 
+EXT = {  # id -> (English text printed in the book, source label, [urls that must each contain it])
+    "wesley7": ("Above all sing spiritually. Have an eye to God in every word you sing. Aim at pleasing him more than yourself, or any other creature.",
+                "John Wesley, Directions for Singing（1761）",
+                ["https://bachlund.org/Directions_for_Singing.htm", "https://www.wholesomewords.org/resources/singinghymns.html"]),
+    "erb_questions": ("Are the words doctrinally sound? Is the text Biblical? Does it stimulate spiritual thought? Does it properly instruct? Does it inspire high spiritual ideals? Does the music fit the text? Is it excellent? Does it fit the need? Does it produce a wholesome response?",
+                      "Clayton Erb, The Role of Music in Worship, Part One D",
+                      ["https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"]),
+    "erb_first": ("The first step in planning a worship service is to have a quiet time with the Lord, asking Him to lead and direct you as to what should be accomplished",
+                  "Clayton Erb, The Role of Music in Worship, Part Three A",
+                  ["https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"]),
+    "erb_format": ("Many times a familiar format for the service is more effective than a program that is different merely for the sake of variety.",
+                   "Clayton Erb, The Role of Music in Worship, Part Three A",
+                   ["https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"]),
+    "erb_peaks": ("Emotional peaks occur naturally (and should not be artificially manipulated)",
+                  "Clayton Erb, The Role of Music in Worship, Part Three A",
+                  ["https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"]),
+    "erb_theme": ("It is easier to start with the theme of the message and work your music from that.",
+                  "Clayton Erb, The Role of Music in Worship, Part Three B",
+                  ["https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"]),
+    "mac_music_not_worship": ("Music will play on your emotion, music will stir your emotion, but that is not necessarily worship. Music will give expression to love, it will give expression to adoration, it will give expression to honor, it will give expression to worship, but it doesn't produce it. What produces it is the truth in the heart and the work of the Spirit of God.",
+          "John MacArthur, \"Spirit-Filled Music\"（gty.org 講道 90-377）", ["https://www.gty.org/sermons/90-377/spirit-filled-music"]),
+    "mac_music_means": ("Music is a means to express worship, but it is not worship.",
+          "John MacArthur, \"Is Music Worship?\"（gty.org 講道 80-428）", ["https://www.gty.org/sermons/80-428/is-music-worship"]),
+    "mac_congregational": ("congregational singing is simply all of us stimulating one another to love and good works.",
+          "John MacArthur, \"Music: The Expression of a Worshiping Heart\"（gty.org 講道 81-54）", ["https://www.gty.org/sermons/81-54/music-the-expression-of-a-worshiping-heart"]),
+    "mac_scripture_worship": ("the more Scripture you know, the more doctrine you know, the more worship you give.",
+          "John MacArthur, \"The Critical Elements of True Worship\"（gty.org 講道 80-323）", ["https://www.gty.org/sermons/80-323/the-critical-elements-of-true-worship"]),
+    "mac_prayer_highest": ("If prayer is anything, it is the highest form of worship that an individual can participate in, because prayer is saying, \"God, Your name, Your kingdom, Your will be elevated, not my will, not my kingdom, not my name.\"",
+          "John MacArthur, \"Prayer: The Highest Form of Worship\"（gty.org 講道 90-447）", ["https://www.gty.org/sermons/90-447/prayer-the-highest-form-of-worship"]),
+    "barrows_hymn": ("There is not a situation in life where there isn't a hymn and a Scripture to meet the need.",
+          "Cliff Barrows，BGEA 官網人物頁", ["https://billygraham.org/cliff-barrows"]),
+    "graham_thank": ("Begin when you pray by thanking and praising God for His love and goodness.",
+          "Billy Graham, My Answer: \"How do I pray properly?\"（BGEA 官網）", ["https://billygraham.org/answers/how-do-i-pray-properly"]),
+    "graham_confess": ("Then confess your sins and ask for His forgiveness. Finally, bring your concerns to Him. You may find it helpful to keep a list of people for whom you are praying.",
+          "Billy Graham, My Answer: \"How do I pray properly?\"（BGEA 官網）", ["https://billygraham.org/answers/how-do-i-pray-properly"]),
+    "graham_talking": ("Prayer is simply talking to God\u2014and the most important thing I can say about this is that God wants you to talk to Him!",
+          "Billy Graham, My Answer: \"Is there a secret to praying?\"（BGEA 官網）", ["https://billygraham.org/answers/is-there-a-secret-to-praying"]),
+    "graham_privilege": ("don't look on prayer as a burden or obligation; instead, look on it as a privilege.",
+          "Billy Graham, My Answer: \"How often should I pray?\"（BGEA 官網）", ["https://billygraham.org/answers/how-often-should-i-pray-2"]),
+    "sankey_gospel": ("D. L. Moody of Chicago will preach the gospel, and Ira D. Sankey of Chicago will sing the gospel in Bethesda Chapel every afternoon and evening this week, except Saturday, at 3 and 7 o'clock.",
+                      "Ira D. Sankey, My Life and the Story of the Gospel Hymns（1907）",
+                      ["https://archive.org/download/mylifest00sank/mylifest00sank_djvu.txt",
+                       "https://archive.org/download/mylifestoryofgos0000irad_s4i2/mylifestoryofgos0000irad_s4i2_djvu.txt"]),
+    "graham_barrows": ("His uncanny ability to lead a Crusade choir of thousands of voices or an audience of a hundred thousand voices in a great hymn or Gospel chorus is absolutely unparalleled",
+                       "Billy Graham 評 Cliff Barrows，載於 Graham 自傳 Just As I Am，轉引自 BGEA 官網",
+                       ["https://billygraham.org/cliff-barrows"]),
+}
+EXT_FACTS = {  # facts stated in Chinese, each with a needle that must occur in the source
+    "erb_activities": (["Praise and adoration", "Thanksgiving", "Reading of Scripture", "Confession", "Prayer", "Intercession", "Ordinances of baptism", "Giving", "Instruction in the Word", "Application of the Word", "Fellowship"],
+                       "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"),
+    "erb_author": (["Dr. Clayton Erb", "Minister of Worship & Music, Grace Community Church"], "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"),
+    "erb_planning": (["Ask the soloist or group to submit three choices", "rehearse all musical numbers and multimedia in the manner in which they will occur in the service", "Know what music you have used in the past", "Brief scripture and prayer", "Don't call them", "Church hymnal"],
+                     "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"),
+    "erb_refs": (["Confession (repentance, submission; Leviticus 26:40-42, Nehemiah 9:2, Proverbs 28:13, Acts 19:18, James 4:7, 5:16; 1 John 1:9)",
+                  "Intercession (2 Corinthians 1:11, 1 Thessalonians 5:25, James 5:14-16)", "Fellowship (Acts 2:42, Galatians 2:9)",
+                  "Giving (Acts 2:45, 11:29; 1 Corinthians 16:2, 2 Corinthians 9:5, 7; Philippians 4:16)", "Reading of Scripture (Exodus 24:7, Deuteronomy 31:11, Nehemiah 8:1-8"],
+                 "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"),
+    "hog": (["In 2016, Grace Community Church and The Master", "Psalms of Grace", "The official hymnal of Grace Community Church"], "https://www.gracechurch.org/hymnsofgrace"),
+    "gcc_music": (["The Role of Music in Worship", "Copyright FAQ", "Hymn Accompaniments", "Celebrating 45 Years of Worship with Stephen Sturz"], "https://www.gracechurch.org/music/resources"),
+    "barrows": (["first sang at a Billy Graham campaign in 1945 in Asheville", "took the reins of the Hour of Decision radio program"], "https://www.christianhistoryinstitute.org/magazine/article/an-evangelistic-band-of-brothers"),
+    "shea": (["oldest of Graham"], "https://www.christianhistoryinstitute.org/magazine/article/an-evangelistic-band-of-brothers"),
+    "bgea_hod": (["host of The Hour of Decision radio program for more than 60 years"], "https://billygraham.org/cliff-barrows"),
+}
+
 # ---- 骨幹章 -----------------------------------------------------------
 w("# 敬拜的次序：神先開口 {.unnumbered}\n")
 w("> **全書座標**：本書每一卷的次序，都從這一章來——**召、說、答、差**。\n")
-w("""問「我們可以獻上甚麼」，是從人這一邊問起。聖經裏的敬拜，通常是從另一邊開始的：神先動了，人才有可回應的東西。下面四個場景，次序都一樣。
+w("""問「我們可以獻上甚麼」，是從人這一邊問起。聖經裏的敬拜，通常是從另一邊開始的：神先動了，人才有可回應的東西。下面四個場景，次序不完全相同，但起點都一樣：神先動，人才回應。
 
 ---
 
@@ -569,7 +685,7 @@ w("""
 
 | 人的軌跡 | 看見 | 承認 | 領受 | 回應 | 被差遣 |
 |---|---|---|---|---|---|
-| **神的次序** | 顯現 | 照出人的真相 | 潔淨 | 發問 | 差遣 |
+| **神的次序** | 顯現（6:1-4） | 照出人的真相（6:5） | 潔淨（6:6-7） | 發問（6:8） | 差遣（6:9「你去」） |
 
 本書的主日程序（卷三）有十一個環節，歸納成六個動作：宣召、讚美、認罪與赦免、聖言、回應、差遣；次序就是這個。
 
@@ -580,7 +696,7 @@ w("""
 > 「『用心靈和誠實敬拜』不是說敬拜必須是自發的、無結構的……真正的敬拜是三一神的工作：父尋找敬拜者，子啟示真理，靈使敬拜成為可能。」
 > ——出處：老弟兄《生命之道——約翰福音》查經筆記，約翰福音四至五章（見庫中 `books/bible/gospel-of-john/04-samaritan-woman.md`〈敬拜線〉）。**這是中譯、轉引自老弟兄的筆記；Carson 原書頁碼待查。**
 
-換句話說，敬拜的第一個動詞是**父要**（4:23），不是人要。
+約翰福音 4:23 說「父要這樣的人拜他」：敬拜先是回應父的尋找，不是人先發起的。
 
 ## 三、詩篇 95：召、跪、聽神說話
 
@@ -588,7 +704,7 @@ w("""
 """)
 w(scripture("詩 95:7-8", cite=True))
 w("""
-7 節末句仍是詩人的呼籲：「惟願你們今天聽他的話。」從 8 節起，**神自己開口**，一直說到全篇結束（8-11）。所以這篇詩的次序是：召、神是誰、跪、然後聽神說話。**敬拜走到最後，是聽。**
+7 節末句是呼籲：「惟願你們今天聽他的話。」希伯來書 3:7-8 把這句連同下一節當作「聖靈有話說」；第 9-11 節更明顯是神的第一人稱。所以這篇詩的次序是：召、神是誰、跪、然後聽神說話。**敬拜走到最後，是聽。**
 
 ## 四、啟示錄 5：天上的敬拜
 """)
@@ -600,13 +716,13 @@ w("""
 
 ## 三種常見的偏差
 
-**一、以自己的感覺為中心。**問「今天唱得有沒有感動」，比問「神是不是被尊為聖」更多。主耶穌引用先知的話：
+**一、以自己的感覺為中心。**問「今天唱得有沒有感動」，比問「神是不是被尊為聖」更多。約翰福音 4:24 說：「""" + inline("約 4:24") + """要拜的是神，不是自己的感覺。這不是說感動不重要，是說感動不能代替那位被敬拜的。
+
+**二、有熱情或有形式，心卻遠離。**主耶穌引用先知的話，責備口唇尊敬、心卻遠離的人：
 """)
 w(scripture("太 15:8-9"))
 w("""
-這不是在說感動不重要，是說感動不能代替那位被敬拜的。
-
-**二、只有熱情，沒有真理；或只有真理，沒有心靈。**「用心靈和誠實」是兩個一起，缺一不可（見卷一）。
+「用心靈和誠實」是兩個一起，缺一不可（見卷一）：只有熱情沒有真理，容易變成自己的感覺；只有形式沒有心靈，容易變成冷冰冰的儀式。
 
 **三、敬拜只剩下一個鐘頭。**羅馬書 12:1 說的「活祭」是整個生活（見卷一）。主日是整個星期的出發點，不是整個星期的全部。
 
@@ -635,6 +751,13 @@ w(scripture("約 4:23-24"))
 w("""
 耶穌這句話是對一個撒瑪利亞婦人說的，不是對祭司說的。**用心靈**，是敬拜出自裏面，不靠地點與儀式；**用誠實**（也可譯作「真理」），是照神所啟示的真相來敬拜，不是照自己喜歡的樣子。兩樣缺一不可：只有熱情沒有真理，容易變成自己的感覺；只有真理沒有心靈，容易變成冷冰冰的儀式。
 """)
+w("""
+John MacArthur 在談真敬拜的要素時，把「話語」與「敬拜」連在一起（講道逐字稿；英文引語已逐字核對）：
+""")
+w("> " + EXT["mac_scripture_worship"][0] + "\n>\n> — " + EXT["mac_scripture_worship"][1] + "\n")
+w("""
+與「用誠實」同一個方向：認識神的話越準確，敬拜越有內容。（編者概述。）
+""")
 w("## 敬拜是整個人的獻上\n")
 w(scripture("羅 12:1"))
 w("""
@@ -645,6 +768,21 @@ w(scripture("西 3:16"))
 w(scripture("弗 5:18-20"))
 w("""
 這兩處經文給了敬拜三個要點：**基督的道理住在心裏**（先有神的話）、**彼此教導勸戒**（敬拜是會眾的事）、**感謝**（心態）。所以歌唱不只是向神，也是彼此對講。
+""")
+w("## 音樂不是敬拜，是敬拜的表達\n")
+w("""John MacArthur 在 gty.org 的講道逐字稿裏講得很直接（五篇講道的篇名與代碼見附錄七）。他先說，音樂會牽動情緒，但那不一定是敬拜：
+""")
+w("> " + EXT["mac_music_not_worship"][0] + "\n>\n> — " + EXT["mac_music_not_worship"][1] + "\n")
+w("""
+再用一句話說清楚音樂的位置：
+""")
+w("> " + EXT["mac_music_means"][0] + "\n>\n> — " + EXT["mac_music_means"][1] + "\n")
+w("""
+在講歌羅西書 3:16 的另一篇講道裏，他把會眾歌唱說成互相的服事：
+""")
+w("> " + EXT["mac_congregational"][0] + "\n>\n> — " + EXT["mac_congregational"][1] + "\n")
+w("""
+與本書放在一起：**敬拜的來源是心裏的真理與聖靈的工作（約 4:24），音樂是表達它的方式**；所以司會不必製造感覺（見卷三〈司會與領唱的預備〉），會眾也不必唱完才算敬拜。（以上是編者的中文概述；這幾段只代表 MacArthur 在這些講道裏的主張，不代表他所有的看法。）
 """)
 w("## 敬拜的六個環節\n")
 w("""聖經裏許多關鍵的敬拜場景，次序都是這樣：**神召我們→神對我們說話→我們回應→神差我們出去。**以賽亞在異象裏見到主的榮耀（賽6:1-8），先是看見，然後說「禍哉」，然後蒙潔淨，最後才聽見「我可以差遣誰呢」而回答「我在這裏，請差遣我」。本書的主日程序（卷三）照這條線排：
@@ -674,26 +812,26 @@ w("""**用法：**早晨與晚間各一個十來分鐘的時段就夠。先安�
 """)
 DAYS = [
     ("主日 · 復活的日子", 118, "christthelordisrisentoday", 150, "crownhimwithmanycrowns",
-     "主啊，今天是你所定的日子。你從死裏復活，我們就有了可以聚集的理由。求你叫我們今天的歌唱，不是出於習慣，而是出於看見了你。",
-     "主啊，你是活著的王。今天一整天，我領受的一切，都請你收納，歸給你的名。"),
+     "主啊，今天是你所定的日子。你從死裏復活，所以我們能聚集。求你叫我們今天的歌唱，出於看見了你。",
+     "主啊，你是活著的王。我這口氣息是你所賜；今天一整天我所領受的一切，都歸給你的名。"),
     ("週一 · 創造與全能", 8, "immortalinvisiblegodonlywise", 139, "bethoumyvision",
-     "主啊，你造了天，也造了我。新的一週，我不知道前面有甚麼，但你都知道。求你讓我記得，我是你手所造的，不是自己的主人。",
+     "主啊，你造了天，也造了我。我算甚麼，你竟顧念我？新的一週，求你讓我記得，我是你手所造的，我的日子在你手中。",
      "鑒察我的神，今天我有許多沒有說出口的事，都在你面前。求你光照，也求你保守。"),
     ("週二 · 神的話", 1, "breakthouthebreadoflife", 19, "owordofgodincarnate",
-     "主啊，求你開我的眼睛，使我今天讀你的話，不只是讀字，也是遇見你。",
-     "今天我聽見的許多話，有的是你的，有的不是。求你叫我分辨，叫你的話在我心裏站得住。"),
+     "主啊，你的話是我的喜愛。求你叫我今天思想它，像栽在溪水旁的樹，到了時候結出果子。",
+     "主啊，你的話是完全的，能蘇醒人心。今天我聽見許多別的聲音，求你叫你的話在我心裏站得住，也赦免我隱而未現的過錯。"),
     ("週三 · 悔改與赦免", 51, "rockofagescleftforme", 32, "justasiamwithoutoneplea",
-     "神啊，求你按你的慈愛憐恤我。我不用找藉口，我的罪在你面前是明明白白的。求你潔淨我，使我再次能歌唱。",
-     "主啊，今天的過錯我都帶來了。我領受你的赦免，也求你教我，把這赦免分給虧欠我的人。"),
+     "神啊，求你按你的慈愛憐恤我。我不再為自己找藉口，我的罪我自己知道。求你潔淨我，使我再次開口述說你的讚美。",
+     "主啊，今天的過錯我不再隱瞞，都帶到你面前。你是我的藏身處，我領受你的赦免，我要歡呼。"),
     ("週四 · 感恩", 103, "nowthankweallourgod", 116, "praisetothelordthealmighty",
      "我的心哪，你要稱頌耶和華，不可忘記祂的一切恩惠。主啊，今天我要數一數你給我的，不只數我缺的。",
-     "主啊，我拿甚麼報答你？我只能舉起你給我的杯，向你說謝謝。"),
+     "主啊，我拿甚麼報答你向我所賜的一切恩惠？我要舉起救恩的杯，求告你的名。"),
     ("週五 · 十字架", 22, "whenisurveythewondrouscross", 130, "osacredheadnowwounded",
-     "主耶穌，你曾為我被離棄，所以我能來到你面前。今天我不求你解釋，只求你讓我再看一次十字架。",
-     "主啊，我從深處向你呼求。你有赦免之恩，我就有盼望。求你讓這個盼望，陪我走進週末。"),
+     "主耶穌，你在十字架上喊說「我的神，我的神」，是替我被離棄，所以我能來到父面前。今天求你讓我再看一次十字架。",
+     "耶和華啊，我從深處向你求告。你有赦免之恩，所以我等候你；我的心等候，勝過守夜的等候天亮。"),
     ("週六 · 信靠與安息", 23, "saviorlikeashepherdleadus", 91, "abidewithme",
      "耶和華是我的牧者，我必不致缺乏。主啊，這一週我走得很累，求你領我到可安歇的水邊。",
-     "主啊，天晚了，求你同住。我把今天的事、明天的事，都交在你手裏，我要平安躺下。"),
+     "主啊，天晚了。我投靠在你的翅膀底下，求你保守；今天的事、明天的事，都交在你手裏，我要憑著你安睡。"),
 ]
 for dname, am_ps, am_h, pm_ps, pm_h, am_pr, pm_pr in DAYS:
     assert am_ps in PSALM_SET and pm_ps in PSALM_SET, (am_ps, pm_ps)
@@ -784,7 +922,7 @@ w(scripture("詩 51:1-4,10"))
 w("""
 **同聲認罪禱告**（本書編寫，形式沿用教會常見的認罪禱告；可改用貴堂會慣用的）：
 
-> 全能的神，你知道我們心裏的一切，沒有甚麼能向你隱藏。我們承認，我們沒有愛你勝過一切，也沒有愛人如己。我們在思想、言語和行為上得罪了你。求你按你的慈愛憐恤我們，赦免我們的過犯，使我們重新歸向你。奉主耶穌的名禱告。阿們。
+> 全能的神，你知道我們心裏的一切，沒有甚麼能向你隱藏。我們承認，我們沒有愛你勝過一切，也沒有愛人如己。我們在思想、言語和行為上得罪了你。求你因基督的緣故，按你的慈愛憐恤我們，赦免我們的過犯，使我們重新歸向你。奉主耶穌的名禱告。阿們。
 """)
 w("## 五、赦免的宣告\n")
 w(scripture("詩 130:3-4"))
@@ -795,6 +933,10 @@ w(scripture("詩 119:105"))
 w(f"""
 讀經與講道。講道前可以先念：「{inline("詩 119:18")}」（詩119:18）
 """)
+w("""
+公開讀經是聖經裏敬拜的一部分（尼 8:1-8；講義另列西 4:16、提前 4:13）。尼希米記記載他們怎樣讀：
+""")
+w(scripture("尼 8:8"))
 w("## 七、信仰告白：使徒信經\n")
 w("""使徒信經是古代教會的洗禮信仰告白，不是聖經經文。以下依通行譯文，用字依本書體例（「神」）；各堂會的通行本措辭略有不同，請依貴堂會用的版本。
 
@@ -822,6 +964,7 @@ w("""使徒信經是古代教會的洗禮信仰告白，不是聖經經文。以
 """)
 w("## 八、奉獻與感恩\n")
 w(scripture("詩 116:12-14"))
+w(scripture("林後 9:7"))
 w("""
 奉獻時可以同念羅馬書 12:1（見卷一）。獻上的不只是金錢，也是這一週的時間、才幹與人際。
 """)
@@ -842,6 +985,50 @@ w(scripture("民 6:24-26"))
 w(scripture("猶 1:24-25"))
 w("""
 領禱者舉手宣告，會眾低頭領受，然後出去。最後一首詩，可以選卷五〈奉獻與跟隨〉裏的一首。
+""")
+w("## 附：彼此問安與團契（可選）\n")
+w("""Grace Community Church 講義把「團契」列為聖經中教會敬拜的活動之一（引徒 2:42、加 2:9；見附錄七）；本書的十一個環節沒有專設，可以放在宣召之前或差遣之後：問候、歡迎新朋友、彼此交接。
+""")
+w(scripture("徒 2:42"))
+w(scripture("來 10:24-25"))
+w("## 司會與領唱的預備\n")
+w("""下面的做法，取自 Grace Community Church 官方網站上的講義〈The Role of Music in Worship〉（作者 Dr. Clayton Erb，該教會的 Minister of Worship & Music；12 頁的神學院課程講義，不是教會的信仰宣言，也不是 MacArthur 本人的著作）。**英文引語都已重新抓取原文逐字核對**（見附錄七）；其餘是編者的中文概述，不加引號。
+
+**一、先與主同在，再排程序。**
+""")
+w("> " + EXT["erb_first"][0] + "\n>\n> — " + EXT["erb_first"][1] + "\n")
+w(f"""
+講義接著引雅各書 1:5：「{inline("雅 1:5")}」本書卷三的〈靜默預備〉，用意相同：司會先安靜，再開口。
+
+**二、凡事規規矩矩，按著次序。**講義引哥林多前書 14:40：「{inline("林前 14:40")}」並且說：
+""")
+w("> " + EXT["erb_format"][0] + "\n>\n> — " + EXT["erb_format"][1] + "\n")
+w("""
+這也是小組可以放心沿用同一個次序的理由：**熟悉的次序，往往勝過為變化而變化。**
+
+**三、感動會自然發生，不要人為操弄。**講義在談程序安排時提醒：
+""")
+w("> " + EXT["erb_peaks"][0] + "\n>\n> — " + EXT["erb_peaks"][1] + "\n")
+w("""
+編者的理解：司會的責任是排好次序、把路讓開，不是用音樂、燈光或話語去「製造」感覺。這與骨幹章所說「神先開口」是同一個方向。
+
+**四、從講道的主題起頭選詩。**講義說：
+""")
+w("> " + EXT["erb_theme"][0] + "\n>\n> — " + EXT["erb_theme"][1] + "\n")
+w("""
+**五、獻唱的人先交三首備選**，由負責的人從中挑一首，避免曲風、歌詞或音域不合（講義 Part Two D 的建議，編者概述）。
+
+**六、音響與投影照實際流程排練一次**，負責那天音響的人也參加排練；否則麥克風、線路、投影的問題會發生在聚會當中（講義 Part Two D，編者概述）。
+
+**七、留下每次敬拜的紀錄**：唱了甚麼、何時唱、誰參與；以後重用最好的（講義 Part Three A，編者概述）。
+
+**八、開頭與結尾**：講義的流程藍圖中，宣召可用「簡短的經文與禱告」；結束時可以有禱告、詩歌與祝福（編者概述）。
+
+**九、報告事項改稱「事工參與的機會」**：講義的理由是，這是在告訴會眾這一週與往後可以怎樣參與事工（編者概述）。
+
+**十、版權**：受版權保護的詩歌不能擅自投影、錄製、印在週報或詩歌本裏；講義介紹以 CCLI 的授權處理（編者概述）。這也是本書「現代詩歌只列曲目、不印歌詞」的原因。
+
+帶領會眾唱詩是一種服事。關於 Billy Graham 如何評價他的詩歌領唱 Cliff Barrows，見附錄七。
 """)
 w("## 特別場合的讀經與聖詩\n")
 w("""下面是常見場合的選讀。經文照和合本印出；聖詩編號見卷五。**司會可只選其中一兩段**，不必全讀。
@@ -876,9 +1063,12 @@ w("""## 詩篇禱讀四步
 ---
 """)
 w(f"""以下 {len(PSALM_SET)} 篇詩篇依用途分五組。每篇的導語只有一句，是幫你找到入口，不是講解。想看更完整的逐篇研讀，請見庫裏《詩篇》一書。
+
+Grace Community Church 的官方網頁說，他們除了詩歌本 *Hymns of Grace*，也透過 *Psalms of Grace* 推廣唱詩篇（見附錄七）。本書不附曲調，把詩篇當作可以念、可以啟應、可以禱讀的詞：啟應與每日時辰的用法，見庫裏《詩篇》一書〈禮儀使用指南〉。
 """)
 for grp, ps in PSALMS:
     w(f"## {grp}\n")
+    w(f"**座標**：{COORD_P[grp]}\n")
     for n, note in ps:
         w(f"### 詩篇 {n}\n")
         w(f"*{note}*\n")
@@ -897,10 +1087,17 @@ vol("卷五 · 聖詩選 (Hymns)",
     "第五步：用歌回應——歷代聖徒的回應，借我們的口唱出來。",
     "這一卷是「答」的歌唱：同一個回應，歷代聖徒已經唱過，我們接著唱。")
 w("""**怎麼讀這一卷：**歌詞原文取自庫裏已核對的章節；作者行保留了當時註明的作者、年份與底本。**本書的中文歌詞多為編者所譯（各首的標示方式不一，如「編者試譯」「中譯：編者」），不是教會通行的詩歌本譯文**，只供對照理解；要唱的時候，請用貴堂會的詩歌本。「見於本庫 N 個書目」是這首詩被庫中多少個書目選為配詩，數字越大，表示越經得起不同書卷的使用。
+
+**唱詩之前的兩張清單**（來源與英文原文見附錄七；以下是編者的中文概述）：
+
+**會眾唱詩七要**（約翰·衛斯理，1761）：一、先學詩集裏的曲調；二、照印的唱，不自己改；三、全體都唱，軟弱疲倦也要唱；四、要有力量、有勇氣；五、要謙和，不蓋過會眾；六、要合拍，不快不慢；七、**最要緊的是用靈性唱**，一字一句都對著神。
+
+**選詩十問**（Grace Community Church 講義〈The Role of Music in Worship〉）：這首詩的歌詞合乎教義嗎？文本有聖經根據嗎？能激發屬靈的思想嗎？能正確地教導嗎？能激勵高尚的屬靈理想嗎？曲調與歌詞相配嗎？製作與演唱夠精緻嗎？合乎這次聚會的需要嗎？能帶來健康的回應嗎？會不會因為曲風或作曲者的名字，讓人聯想到有害的事？
 """)
 for theme, tag, hs in HYMNS:
     w(f"## {theme}\n")
     w(f"*{tag}*\n")
+    w(f"**座標**：{COORD_H[theme.split(' (')[0]]}\n")
     for key, zh, ref in hs:
         body, title, rel = hymn_body(key)
         n = NUM[key]
@@ -937,6 +1134,13 @@ vol("卷六 · 禱告 (Prayer)",
     "禱告是與神說話。這一卷不教技巧，只把聖經裏現成的禱告放在你面前。",
     "第六步：與神說話——最後落在禱告，也落在那位在父右邊代求的基督。",
     "這一卷是「答」的最後一步，也是整個次序的落點：禱告，並且是在那位代求的基督裏禱告。")
+w("## 禱告是最高形式的敬拜\n")
+w("""John MacArthur 在一篇講道裏這樣說（英文引語已逐字核對）：
+""")
+w("> " + EXT["mac_prayer_highest"][0] + "\n>\n> — " + EXT["mac_prayer_highest"][1] + "\n")
+w("""
+這與主禱文的次序相合：**先是神的事**（名、國、旨意），然後才是我們的事（見下）。（編者概述。）
+""")
 w("## 主禱文逐句\n")
 w(scripture("太 6:9-13", numbered=False))
 w("""
@@ -956,6 +1160,19 @@ w("""
 w("## 禱告的四個方向\n")
 w("""常見的禱告架構把禱告分成四個方向：**讚美、認罪、感恩、祈求**（英文常以 ACTS 幫助記憶）。你不用每次四樣都做，但長期缺了哪一樣，禱告就容易變成單向的清單。以下每一樣都用聖經現成的話。
 """)
+w("### 一個簡單的次序（Billy Graham）\n")
+w("""BGEA 官網上有 Graham 在〈My Answer〉專欄裏回答「怎樣禱告」的文字（英文引語已逐字核對）。他給的次序，與下面的四個方向一致：
+""")
+w("> " + EXT["graham_thank"][0] + "\n>\n> — " + EXT["graham_thank"][1] + "\n")
+w("> " + EXT["graham_confess"][0] + "\n>\n> — " + EXT["graham_confess"][1] + "\n")
+w("""
+他也說，禱告不必拘謹，也不必覺得是負擔：
+""")
+w("> " + EXT["graham_talking"][0] + "\n>\n> — " + EXT["graham_talking"][1] + "\n")
+w("> " + EXT["graham_privilege"][0] + "\n>\n> — " + EXT["graham_privilege"][1] + "\n")
+w("""
+（以上都是 BGEA 官網上以 Graham 之名發表的專欄文字，不是講章；中文概述是編者所寫。）
+""")
 w("### 一、讚美\n")
 w(scripture("詩 103:1-5"))
 w("### 二、認罪\n")
@@ -964,6 +1181,13 @@ w("### 三、感恩\n")
 w(scripture("帖前 5:16-18"))
 w("### 四、祈求\n")
 w(scripture("腓 4:6-7"))
+w("### 補充：彼此認罪與代禱\n")
+w("""Grace Community Church 的講義把「認罪」「禱告」「代禱」分開，列為聖經中教會敬拜的三項活動，各附經文依據（見附錄七）。以下照錄和合本：
+""")
+w(scripture("箴 28:13"))
+w(scripture("雅 5:16"))
+w(scripture("林後 1:11"))
+w(scripture("帖前 5:25"))
 w("## 聖經裏的禱告\n")
 w("以下是使徒們為教會所寫的禱告。你可以直接代入，把「你們」換成你要為之禱告的人的名字。\n")
 w("### 為人的認識與力量\n")
@@ -1048,14 +1272,15 @@ w(f"""**這一節如實交代本書每一類材料怎麼來，以及哪些事沒
 
 1. **聖詩歌詞**：逐字取自庫中章節的「配詩」欄（共 {total_uses} 處、{len(best)} 首），沒有重新打字。庫中各章節當時如何核對（Army and Navy Hymnal 1920、Cyber Hymnal、Wikisource 等），作者行已照錄。**本書沒有重新對照原始詩歌本**；若某首歌詞有疑問，以作者行所註明的底本為準。
 2. **中文歌詞**：多為編者所譯，標示方式不一致（有「編者試譯」「中譯：編者」「編者直譯」，也有未標示者），一律視為非通行譯本。詩歌本裏的通行中譯版權各異，本書不收。
-3. **經文**：全部由 ai-eden 的 `data/cuv.json`（和合本）逐節讀出，共 {{USED_COUNT}} 段不同的經文。程式在建置時會檢查每個節號是否存在，缺節即中止。**本書沒有另行對照紙本和合本**；和合本資料本身若有排印問題，會一併帶入。**英文 NASB 1995 取自 ai-eden.com 的 API**；建置前已把本書用到的 109 章、607 節抓回，並把網站回傳的中文與 `cuv.json` 逐節比對（0 處不同）——但兩者本來就是同一個網站的資料，**和合本另以 FHL 信望愛和合本（`unv`）逐節比對**：607 節中 542 節完全相同、24 節只差標點、41 節有字形差異。這 41 節的差異全屬 FHL 把 1919 年和合本現代化（的→地、麼→嗎、罷→吧、那→哪、阿→啊、他→它／牠／她等，ai-eden 保留 1919 原貌），或校注文字不同（「或作」「或譯」）；**唯一的真缺字是詩 46:4**：ai-eden 資料作「這河的分使」，FHL、cnbible.com 與庫裡其他書都作「這河的分汊使」，本書已在生成器裡補上「汊」，網站資料本身未改（腳本 `.sources/check_cuv_fhl.py`）。另把網站全本 31,101 節都對 FHL 掃過一遍，找出約 60 節疑似漏字（32 節有 cnbible.com 佐證），清單見 `docs/build-reports/ai-eden-cuv-dropped-chars-2026-11-01.md`；**本書所引經文只受詩 46:4 一處影響**。**英文 NASB 另以 biblehub.com（頁面標題 NASB 1995）逐節比對**：607 節中 529 節字母完全相同；27 節是 ai-eden 在詩篇第 1 節多放了標題（如 “A Psalm of David.”，biblehub 把標題另列）；51 節是 biblehub 頁面尾端多出的下一段標題或版權行；**內文有差異的 0 節**。比對只看字母，不比標點與大小寫（腳本 `.sources/check_nasb_biblehub.py`）。英文裏方括號標示的補充詞已改排成斜體。NASB 版權屬 The Lockman Foundation，本書為教會內部使用，公開發行前須確認授權。
+3. **經文**：全部由 ai-eden 的 `data/cuv.json`（和合本）逐節讀出，共 {{USED_COUNT}} 段不同的經文。程式在建置時會檢查每個節號是否存在，缺節即中止。**本書沒有另行對照紙本和合本**；和合本資料本身若有排印問題，會一併帶入。**英文 NASB 1995 取自 ai-eden.com 的 API**；建置前已把本書用到的 116 章、617 節抓回，並把網站回傳的中文與 `cuv.json` 逐節比對（0 處不同）——但兩者本來就是同一個網站的資料，**和合本另以 FHL 信望愛和合本（`unv`）逐節比對**：617 節中 552 節完全相同、24 節只差標點、41 節有字形差異。這 41 節的差異全屬 FHL 把 1919 年和合本現代化（的→地、麼→嗎、罷→吧、那→哪、阿→啊、他→它／牠／她等，ai-eden 保留 1919 原貌），或校注文字不同（「或作」「或譯」）；**唯一的真缺字是詩 46:4**：ai-eden 資料作「這河的分使」，FHL、cnbible.com 與庫裡其他書都作「這河的分汊使」，本書已在生成器裡補上「汊」，網站資料本身未改（腳本 `.sources/check_cuv_fhl.py`）。另把網站全本 31,101 節都對 FHL 掃過一遍，找出約 60 節疑似漏字（32 節有 cnbible.com 佐證），清單見 `docs/build-reports/ai-eden-cuv-dropped-chars-2026-11-01.md`；**本書所引經文只受詩 46:4 一處影響**。**英文 NASB 另以 biblehub.com（頁面標題 NASB 1995）逐節比對**：617 節中 535 節字母完全相同；27 節是 ai-eden 在詩篇第 1 節多放了標題（如 “A Psalm of David.”，biblehub 把標題另列）；55 節是 biblehub 頁面尾端多出的下一段標題或版權行；**內文有差異的 0 節**。比對只看字母，不比標點與大小寫（腳本 `.sources/check_nasb_biblehub.py`）。英文裏方括號標示的補充詞已改排成斜體。NASB 版權屬 The Lockman Foundation，本書為教會內部使用，公開發行前須確認授權。
 4. **更多詩節**：{{FULL_N}} 首附有全詩（English），取自 hymnal.net（人工打字、按詩節分段），採用前先做校準：庫中已核對的英文詩節，必須與 hymnal.net 對應詩節的相似度達 0.97 以上，全部通過才採用。其餘 {{NOFULL_N}} 首沒有全詩：{{FAIL_N}} 首抓到了但校準未通過（版本不同，或庫中的節錄本來就是選句），{{MISS_N}} 首在 hymnal.net 沒有配對到可用頁面，**只印庫中已核對的節錄，不印全詩**。通過校準只證明版本與詩節吻合，**沒有逐字對照紙本詩歌本**；這些詩節是 hymnal.net 的版本，不一定包含該詩最常唱的全部詩節（例如 Amazing Grace 缺 “Through many dangers”，第四節是後人所加，不是 Newton 1779 的原文），用字也可能與上方節錄略有差異（如 thee／you、標點）。校準不比對標點。歌詞抓取腳本與校準結果在 `books/bible/hymnWorship/.sources/`。
-5. **導語與短禱**：編寫的內容；除了第 9 項所列、已註明出處的老弟兄原話與 Carson 轉引外，沒有引用歷史人物的話。
+5. **導語與短禱**：編寫的內容；除了第 9、12 項所列、已註明出處的老弟兄原話、Carson 轉引與外部來源引語外，沒有引用歷史人物的話。
 6. **使徒信經**：依通行譯文，不是聖經經文，各堂會用字略有出入。
 7. **ai-eden 閱讀器的配樂曲目**（Be Thou My Vision、Nearer, My God, to Thee、Just As I Am、Jesus Paid It All、Joy to the World）：前四首已收入本書（{H('bethoumyvision')}、{H('nearermygodtothee')}、{H('justasiamwithoutoneplea')}、{H('jesuspaiditall')}）。*Joy to the World* 在庫中沒有逐字核對過的歌詞，所以本書未收。
 8. **曲譜**：本書不含曲譜。
 9. **老弟兄的話**：本書引用的老弟兄原話，只有庫中既有檔案裏已有的（《詩篇》〈禱告版〉的兩句與一段方法；約翰福音第 4 章所引 D.A. Carson 的洞見），並註明檔案路徑。其餘各處的提問與導語，是編者用同樣的方式寫的，**不是老弟兄說的**。
 10. **「看見耶穌」與「默想」**：每篇詩篇的「看見耶穌」分「新約引用」「主題呼應」「傳統」三種標示（只有前者是新約自己指出的連結）；每首聖詩的「默想」是編者寫的問題，不含任何歸給歷史人物的話。這兩項都沒有經過神學審閱，請牧者過目。
+12. **前輩與同工的材料**（附錄七及卷三、五、六相關段落）：英文引語與事實由 `.sources/verify_external_quotes.py` 重新抓取原頁面核對，結果記錄在 `external-quotes-verified.json`；中文是編者概述，不加引號。講義是課程講義，不是教會的信仰宣言。
 11. **各卷扉頁的「啟示的次序」**：照庫中各書的體例（`scripts/check-book-spine.py` 所檢查的項目），本書是由程式生成的單一檔案，該腳本不能直接檢查；骨幹章、扉頁句與各卷收尾，是人工對照該腳本的四項要求寫入的。
 
 **版權**：所收聖詩皆為 1928 年前出版；依美國法律屬公有領域。其他地區若以作者卒後 70 年計，個別作品（如 Great Is Thy Faithfulness 的作者卒於 1960 年）可能尚未屆滿，本書為教會內部使用，公開發行前須重新確認。和合本為公有領域。
@@ -1065,12 +1290,18 @@ w(f"""**這一節如實交代本書每一類材料怎麼來，以及哪些事沒
 
 
 w("\n## 附錄四 · 處境索引\n")
-w("""遇到某個處境，不知道讀甚麼、唱甚麼，從這裏開始。詩篇編號指卷四；聖詩編號指卷五。
+w("""Cliff Barrows（Billy Graham 福音協會的音樂與節目主任，帶領會眾唱詩六十年）說過一句話，這張索引做的就是這件事：
+""")
+w("> " + EXT["barrows_hymn"][0] + "\n>\n> — " + EXT["barrows_hymn"][1] + "\n")
+w("""
+""")
+w("""遇到某個處境，不知道讀甚麼、唱甚麼，從這裏開始。詩篇編號指卷四；聖詩編號指卷五；括號內是所在頁。
 
 | 處境 | 詩篇 | 聖詩 |
 |---|---|---|""")
 for _s, _ps, _hs in SITUATIONS:
-    w(f"| {_s} | {'、'.join(str(x) for x in _ps)} | " + "、".join(f"{NUM[h]}" for h in _hs) + " |")
+    w(f"| {_s} | {', '.join(f'{x}（{pg(hidx(3, f'詩篇 {x}', exact=True))}）' for x in _ps)} | " + ", ".join(f"{NUM[h]}（{pg(hidx(3, f'{NUM[h]}. '))}）" for h in _hs) + " |")
+w("\n詩篇 91 放在「爭戰」而不放在「病痛」：它說的是神的同在與看顧，不是不會生病的保證；病痛中的人請讀詩 13、22、42，並參看雅各書 5:14-15。\n")
 w("")
 
 # ---- 附錄五、六：詩篇索引、經文索引（頁碼來自上一次建置；第一次建置顯示「—」）
@@ -1099,6 +1330,126 @@ w("| 經文 | 頁 |\n|---|---|")
 for (_o, _ch, _v0, _lab), _pgs in sorted(_seen.items()):
     w(f"| {_lab} | {'、'.join(str(x) for x in sorted(_pgs)) if _pgs else '—'} |")
 w("")
+
+# Guard: no verse cited in this book may sit on ai-eden's dropped-character candidate list unless it was reviewed.
+# psalms-46:4 is patched above; 1-thessalonians-4:14 was reviewed (FHL modernises 他 -> 他們; not a site error).
+_DROPPED = os.path.join(os.path.dirname(os.path.dirname(os.path.dirname(HERE))), "docs", "build-reports", "ai-eden-cuv-dropped-chars-2026-11-01.md")
+if os.path.exists(_DROPPED):
+    _cand = set(re.findall(r"(?m)^\| ([a-z0-9-]+:\d+) \|", open(_DROPPED, encoding="utf-8").read()))
+    _cited = set()
+    for _ref in set(USED) | {f"詩 {n}" for n in PSALM_SET}:
+        _c, _ch, _vs, _ = parse(_ref)
+        _cited |= {f"{BOOKS[_c]}-{_ch}:{v}" for v in _vs}
+    _unreviewed = sorted((_cand & _cited) - {"psalms-46:4", "1-thessalonians-4:14"})
+    if _unreviewed:
+        raise SystemExit(f"cited verses on ai-eden's dropped-character list, not reviewed: {_unreviewed}")
+
+# ---- 附錄七：外部來源（逐字核對）
+w("\n## 附錄七 · 前輩與同工怎樣談唱詩、禱告與敬拜\n")
+w("""本附錄只收**編者實際讀到原文、並且能逐字核對**的材料。英文引語與事實都登記在 `books/bible/hymnWorship/.sources/`，由 `verify_external_quotes.py` 重新抓取原頁面比對（結果見 `external-quotes-verified.json`）；中文概述是編者所寫，不加引號。沒有核對到的，列在本附錄最後，**不寫進正文**。
+""")
+w("### 一、約翰·衛斯理〈唱詩指引〉（1761）\n")
+w("""衛斯理在 1761 年出版的衛理詩歌集（*Select Hymns: with Tunes Annext*）後面附了七條唱詩的指引（有資料說出自同年的 *Sacred Melody* 序言，出處待核原書）。七條的內容在三個網頁上相同；第 7 條的**英文原文以兩個網頁逐字相同的文字為準**（第三個網頁把 “Above all sing” 改寫為 “Above all else, sing”）。以下中文是編者概述：
+
+| 條 | 要點（編者概述） |
+|---|---|
+| 1 | 先學詩集裏的曲調，再學別的 |
+| 2 | 照印的唱，不要自己改 |
+| 3 | 全體都唱；軟弱疲倦也不要因此不唱，這是一個十字架，背起來就成了祝福 |
+| 4 | 要有力量、有勇氣地唱，不要半死不活 |
+| 5 | 要謙和：不要大聲到蓋過會眾，要使眾人的聲音合成一個清楚的聲音 |
+| 6 | 要合拍：不跑在前、不拖在後；別唱得太慢 |
+| 7 | **最要緊的是用靈性唱**（原文如下） |
+
+""")
+w("> " + EXT["wesley7"][0] + "\n>\n> — " + EXT["wesley7"][1] + "\n")
+w("""
+這與本書序言的原則相合：歌唱不是表演，是**把心獻給神**；用意不在聲音好不好聽，而在歌詞是不是出於心（見骨幹章〈敬拜的次序〉）。
+""")
+w("### 二、Grace Community Church 的敬拜與音樂事工\n")
+w("""**來源**：以下取自該教會官方網站（gracechurch.org）上的官方資源：音樂事工頁列出的講義〈The Role of Music in Worship〉，作者標明為 Dr. Clayton Erb（Grace Community Church 的 Minister of Worship & Music）；這是一份 12 頁的神學院課程講義（檔案標題為 2012 PM612 Syllabus），**不是教會的信仰宣言，也不是 MacArthur 本人的著作**。
+
+**1. 聖經中教會敬拜的十一項活動**（講義 Part One C；每項都附經文依據，此處只列項目與本書對應的位置）：
+
+| 講義的項目 | 本書的對應位置 |
+|---|---|
+| 讚美與頌讚（Praise and adoration） | 卷三〈讚美〉；卷五 |
+| 感恩（Thanksgiving） | 卷三〈奉獻與感恩〉；卷五〈感恩〉 |
+| 讀經（Reading of Scripture） | 卷三〈聖言〉 |
+| 認罪（Confession） | 卷三〈認罪〉〈赦免的宣告〉；詩 51、130 |
+| 禱告（Prayer） | 卷三〈代禱與主禱文〉；卷六 |
+| 代禱（Intercession） | 卷三〈代禱與主禱文〉 |
+| 洗禮與聖餐（Ordinances of baptism and communion） | 卷三〈聖餐〉；〈特別場合〉的洗禮 |
+| 奉獻（Giving） | 卷三〈奉獻與感恩〉 |
+| 話語的教導（Instruction in the Word） | 卷三〈聖言〉（講道） |
+| 話語的應用（Application of the Word） | 卷三〈聖言〉；各章的默想問題 |
+| 團契（Fellowship） | **本書沒有專設的環節**（可加在宣召前或差遣後） |
+
+**2. 怎樣判斷一首詩適不適合敬拜**（講義 Part One D 的十問，原文）：
+""")
+w("> " + EXT["erb_questions"][0] + "\n>\n> — " + EXT["erb_questions"][1] + "\n")
+w("""
+講義接著提醒（編者概述）：標準要出於聖經，不是出於傳統或個人喜好；可用腓立比書 4:8 判斷一首曲子的價值，用哥林多前書 14:26「凡事都當造就人」判斷它是否適合會眾使用。
+
+**3. 怎樣安排一次敬拜**（講義 Part Three A，原文）：
+""")
+w("> " + EXT["erb_first"][0] + "\n>\n> — " + EXT["erb_first"][1] + "\n")
+w("> " + EXT["erb_format"][0] + "\n>\n> — " + EXT["erb_format"][1] + "\n")
+w("""
+前一句與本書卷三的〈靜默預備〉同方向：先與主同在，再排程序。後一句可以幫助小組不必為求變化而改次序。講義另外提到（編者概述）：先定敬拜的流程，再配程序；留下每次敬拜的紀錄，日後重用最好的；版權歌曲須有授權（講義介紹 CCLI），這與本書「現代詩歌只列曲目、不印歌詞」的做法一致。
+
+**4. 該教會公開的資源**（官方網頁所列）：
+- **Hymns of Grace**：Grace Community Church 與 The Master's Seminary 於 2016 年合作出版的詩歌本，官方稱為該教會的詩歌本；官網另說他們也出版 Spanish 版（Himnos de Gracia），並透過 *Psalms of Grace* 推廣唱詩篇。官方網站：hymnsofgrace.org。
+- **音樂事工資源頁**（gracechurch.org/music）：列有〈The Role of Music in Worship〉、〈Copyright FAQ〉、〈CCLI〉、詩歌伴奏（Hymn Accompaniments）、〈Celebrating 45 Years of Worship with Stephen Sturz〉等檔案。
+- **YouTube 官方頻道**：youtube.com/@GraceChurchSunValley（頻道名稱 Grace Community Church）；音樂資源頁上嵌入的影片是《Stephen Sturz' 45 Year Anniversary》。
+""")
+w("### 三、John MacArthur（gty.org 講道逐字稿）\n")
+w("""本書讀了他的五篇講道逐字稿（gty.org 的講道頁面，英文引語已重新抓取原頁面逐字核對）：
+
+| 講道 | 代碼 | 本書用在 |
+|---|---|---|
+| Music: The Expression of a Worshiping Heart | 81-54 | 卷一：會眾歌唱是彼此服事 |
+| Spirit-Filled Music | 90-377 | 卷一：音樂不是敬拜，是表達 |
+| Is Music Worship? | 80-428 | 卷一：音樂是表達敬拜的方式 |
+| The Critical Elements of True Worship | 80-323 | 卷一：話語與敬拜 |
+| Prayer: The Highest Form of Worship | 90-447 | 卷六：禱告是最高形式的敬拜 |
+
+這些是**口頭講道的逐字稿**，每處都只引一兩句；它們代表他在這幾篇講道裏的主張，不代表他所有的看法。他的書（如 *Worship: The Ultimate Priority*）與其他講道本輪沒有讀。
+""")
+w("### 四、Billy Graham 與 Cliff Barrows\n")
+w("""取自 Billy Graham Evangelistic Association（BGEA）官網與 Christian History Institute 的人物介紹（兩處都是機構／雜誌的介紹文，**不是 Graham 或 Barrows 本人的講章**）：
+
+- Cliff Barrows 在 1945 年首次於 Graham 的聚會中獻唱（北卡羅來納州 Asheville），後來全職加入 Graham 的事工，在福音協會成立時是創始董事之一，並接手 *Hour of Decision* 廣播節目；BGEA 官網說他擔任這個節目的主持人超過六十年。
+- George Beverly Shea 是 Graham 核心團隊中年紀最長的一位（Christian History Institute）。
+- Graham 在自傳 *Just As I Am* 裏這樣評論 Barrows（BGEA 官網轉引）：
+""")
+w("> " + EXT["graham_barrows"][0] + "…\n>\n> — " + EXT["graham_barrows"][1] + "\n")
+w("""
+- **禱告**：BGEA 官網的〈My Answer〉專欄有多篇 Graham 回答「怎樣禱告」的文字；本書卷六引了其中三篇（*How do I pray properly?*、*Is there a secret to praying?*、*How often should I pray?*）。這些是報紙專欄式的短答，**不是講章**。
+- **詩歌**：Barrows 在 BGEA 官網人物頁上的一句話，本書放在附錄四〈處境索引〉開頭。
+""")
+w("""
+這一點與衛斯理的第三、四條互相呼應：**帶領會眾唱詩是一種恩賜，也是一種服事**；它的目標是眾人一起唱，不是一個人唱得好。
+""")
+w("### 五、Dwight Moody 與 Ira Sankey（1870 年代的搭檔）\n")
+w("""Moody 是講道的，Sankey 是領唱與獨唱的，兩人搭檔的方式與後來的 Graham 與 Barrows 很像。Sankey 在回憶錄裏記下他們在英國 Sunderland 一座教會看到的海報（這就是「唱福音」〔sing the gospel〕這個說法的由來）：
+""")
+w("> " + EXT["sankey_gospel"][0] + "\n>\n> — " + EXT["sankey_gospel"][1] + "\n")
+w("""
+**來源說明**：Sankey 的回憶錄是公有領域；這句話在兩份**不同的掃描／OCR**（Princeton 神學院藏本與另一份掃描，兩者都是 1907 年版）裏逐字相同，已用腳本核對。OCR 的錯誤因此不太可能同時出現在兩份，但**兩份掃描是同一個版本，若該版本本身有誤，這個核對看不出來**。書中其他 Sankey 的故事本書沒有引用。
+""")
+w("### 六、馬丁·路德（轉引，未加引號）\n")
+w("""路德在 1538 年為 Georg Rhau 的《*Symphoniae iucundae*》寫序，把音樂放在神的話之後，評價極高（《路德著作集》第 53 卷，頁碼待核）。本書只讀到轉引這段的網頁，沒有讀到原書，所以**不引原文、不加引號**。
+""")
+w("### 七、沒有找到、或不能核對的部分\n")
+w("""下面這些，本書編者要求自己：**沒有逐字核對到，就不寫進正文**。
+
+- **John MacArthur 的其他論述**：本書只讀了上表五篇講道；他的書（如 *Worship: The Ultimate Priority*）與其他講道本輪沒有讀。搜尋結果中有一句據說出自他、談「復興被遺忘的偉大聖詩」的話，只見於二手網頁，在 Hymns of Grace 官網找不到，**未引用**。
+- **Grace Community Church 詩班在 YouTube 的個別詩歌錄影**：官方頁面能確認的是 YouTube 頻道與一支音樂事工影片；詩班唱詩的具體影片網址，本輪沒有逐一核對，不列。
+- **Billy Graham 以〈Just As I Am〉作為招收決志的詩歌**：多篇報導這樣說，但本輪沒有讀到原文，不寫進正文（書名《Just As I Am》則屬事實）。
+- **Spurgeon、Calvin**：本輪沒有查到可逐字核對的原文（Spurgeon《Our Own Hymn-Book》序在 archive.org 只有借閱版，沒有可抓的全文；Calvin 日內瓦詩篇集序只找到 Benson 的討論，沒有完整英譯）。**Sankey** 的回憶錄只引了上面一句，書中其他故事沒有讀完。**Graham 之外的前輩對「禱告」的教導**，本輪只取得 MacArthur 的一篇（卷六引用）。
+""")
+
 
 text = "\n".join(out)
 nfull = sum(1 for k, _, _ in ALL if full_text(k))

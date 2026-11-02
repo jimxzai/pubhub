@@ -67,5 +67,14 @@ for num, ttl, pgs in re.findall(r"(?m)^\| (\d+) \| (.+?) \| .+? \| \d+ \| (\d+|�
     elif num in hymn_page and pgs != str(hymn_page[num]): bad.append((f"index hymn {num}", pgs, hymn_page[num]))
 if "--strict" in sys.argv and dashes:
     bad.append(("index still has — placeholders", dashes, 0))
+# situation index: every "N（P）" must match the measured page of psalm N (column 2) or hymn N (column 3)
+sit = body[body.index("## 附錄四 · 處境索引"):body.index("## 附錄五")] if "## 附錄五" in body else ""
+for row in re.findall(r"(?m)^\| (?!編號|處境|---)([^|]+) \| ([^|]+) \| ([^|]+) \|$", sit):
+    for num, pgs in re.findall(r"(\d+)（(\d+|—)）", row[1]):
+        if pgs == "—": dashes += 1
+        elif pgs != str(head_page.get(f"詩篇 {num}")): bad.append((f"situation psalm {num}", pgs, head_page.get(f"詩篇 {num}")))
+    for num, pgs in re.findall(r"(\d+)（(\d+|—)）", row[2]):
+        if pgs == "—": dashes += 1
+        elif num in hymn_page and pgs != str(hymn_page[num]): bad.append((f"situation hymn {num}", pgs, hymn_page[num]))
 print("index verification:", "OK" if not bad else f"{len(bad)} WRONG {bad[:5]}", f"(placeholders: {dashes})")
 sys.exit(1 if bad else 0)

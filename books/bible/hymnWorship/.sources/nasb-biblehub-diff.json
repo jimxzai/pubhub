@@ -1,11 +1,27 @@
 {
  "res": {
-  "SAME": 529,
+  "SAME": 535,
   "SITE-EXTRA": 27,
-  "BH-EXTRA": 51,
+  "BH-EXTRA": 55,
   "DIFF": 0
  },
  "bad": [
+  [
+   "BH-EXTRA",
+   "1-corinthians",
+   14,
+   40,
+   "But all things must be done properly and in an orderly manner.",
+   "But all things must be done properly and in an orderly manner.NASB 1995 Copyright © 1960, "
+  ],
+  [
+   "BH-EXTRA",
+   "2-corinthians",
+   1,
+   11,
+   "you also joining in helping us through your prayers, so that thanks may be given by many p",
+   "you also joining in helping us through your prayers, so that thanks may be given by many p"
+  ],
   [
    "BH-EXTRA",
    "colossians",
@@ -21,6 +37,14 @@
    21,
    "to Him [be] the glory in the church and in Christ Jesus to all generations forever and eve",
    "to Him be the glory in the church and in Christ Jesus to all generations forever and ever."
+  ],
+  [
+   "BH-EXTRA",
+   "hebrews",
+   10,
+   25,
+   "not forsaking our own assembling together, as is the habit of some, but encouraging [one a",
+   "not forsaking our own assembling together, as is the habit of some, but encouraging one an"
   ],
   [
    "BH-EXTRA",
@@ -85,6 +109,14 @@
    20,
    "teaching them to observe all that I commanded you; and lo, I am with you always, even to t",
    "teaching them to observe all that I commanded you; and lo, I am with you always, even to t"
+  ],
+  [
+   "BH-EXTRA",
+   "nehemiah",
+   8,
+   8,
+   "They read from the book, from the law of God, translating to give the sense so that they u",
+   "They read from the book, from the law of God, translating to give the sense so that they u"
   ],
   [
    "BH-EXTRA",
