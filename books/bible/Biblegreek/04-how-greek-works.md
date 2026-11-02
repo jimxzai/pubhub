@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第四章：希臘文怎麼運作 (How Greek Works)
 
 > **座標**：本書骨幹〈啟示的次序〉——第五步，連到第一步——詞尾告訴你一句話裏誰是主詞；用的例子是約 1:1，道本來就在。
+>
+> *In brief:* In Greek the endings carry the meaning: case, number, gender and verb forms tell you who does what, shown on John 1:1.
 
 希臘文與中文、英文最大的不同，不是字母，而是**字的尾巴會變**。
 

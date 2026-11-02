@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第四章（續）：基礎文法速查 (Basic Grammar Quick Reference)
 
 > **座標**：本書骨幹〈啟示的次序〉——第五步：人怎麼讀——文法速查，只是為了看得懂對照本與註釋裏的標注。
+>
+> *In brief:* Quick-reference tables for the article, nouns, verbs and small words; every form is computed from the SBLGNT, so each one really occurs in the New Testament.
 
 這一章是**速查表**，不是要你背的課程。讀對照本或註釋遇到不懂的標注時，翻回這裏查。每張表裏的希臘文形式，都是由 SBLGNT 語料計算出來的、新約真實出現過的形式（冠詞的重音已統一標準化；動詞末尾的 `(ν)` 是「可移動的 ν」——有些形式在母音前會多帶一個 ν，如 `ἐστί(ν)`，表中合併寫成一格）；表中的「—」代表新約裏沒有出現這個形式。
 

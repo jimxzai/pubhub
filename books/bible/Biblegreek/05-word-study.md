@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第五章：查字的正確姿勢 (How to Look Up a Word)
 
 > **座標**：本書骨幹〈啟示的次序〉——第五步：查字——約翰福音裏「愛」的兩個動詞，說明為甚麼字典的對照表不能代替上下文。
+>
+> *In brief:* How to read a lexicon entry, five common word-study errors, and John's two verbs for love (ἀγαπάω and φιλέω) shown in context.
 
 查字是新手最容易上手、也最容易誤用的工具。這一章先教你怎麼看一個字典條目，再教你五種最常見的錯誤，並用約翰福音裏的真實數據示範。
 

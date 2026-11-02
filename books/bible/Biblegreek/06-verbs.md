@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第六章：動詞的「樣子」 (Verbs and the Shape of an Action)
 
 > **座標**：本書骨幹〈啟示的次序〉——第一步與第三步——`ἦν`（道本來就在）與 `ἐγένετο`（道成為）是同一章福音裏的兩個動詞。
+>
+> *In brief:* Greek verbs show the shape of an action (whole, in progress, or completed with a lasting result) more than its time; ἦν and ἐγένετο in John 1 are the example.
 
 初學希臘文的人最容易被動詞絆倒。這一章只教一個概念，它能幫你解決許多困惑。
 

@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第十一章：唱出來：用詩歌幫助記憶 (Songs for Memory)
 
 > **座標**：本書骨幹〈啟示的次序〉——第五步：唱——用歌記住字；唱的內容裏有兩處，連到被耶穌開了眼睛的人與失而復得的兒子。
+>
+> *In brief:* Songs for memory: a core-word song, an alphabet chant and public-domain hymns, plus the short prayer ἐλέησον.
 
 字母與常用字，用唱的比用抄的容易記得住。本章有三類材料：
 

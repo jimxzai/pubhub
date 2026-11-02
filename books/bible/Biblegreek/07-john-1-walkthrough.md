@@ -9,6 +9,8 @@ publisher: 三書精讀出版系統
 # 第七章：實作：約翰福音 1:1-5 逐字讀 (A Worked Example: John 1:1-5)
 
 > **座標**：本書骨幹〈啟示的次序〉——第一至第三步的實作——逐字讀約 1:1-5：道本來就在、與神同在、是神、萬物藉祂造、生命在祂裏頭。
+>
+> *In brief:* A word-by-word reading of John 1:1-5 that practises everything so far, and stops where the commentaries must take over.
 
 這一章把前面學的全部用上一次。我們走完第二章的四步階梯。
 
