@@ -1,9 +1,9 @@
 {
- "ledger_rows": 2747,
- "level_A": 1670,
- "level_B": 644,
+ "ledger_rows": 2717,
+ "level_A": 1738,
+ "level_B": 568,
  "level_X": 155,
- "level_C": 278,
+ "level_C": 256,
  "core_words": 40,
- "rows_printed": 163
+ "rows_printed": 167
 }

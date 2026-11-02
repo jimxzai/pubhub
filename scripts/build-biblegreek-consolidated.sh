@@ -17,6 +17,7 @@ mkdir -p "$OUTPUT_DIR"
 python3 "$SCRIPT_DIR/gen-biblegreek-grammar.py" || { echo "❌ grammar generation failed"; exit 1; }
 python3 "$SCRIPT_DIR/gen-biblegreek-part2.py" || { echo "❌ part 2 generation failed"; exit 1; }
 python3 "$SCRIPT_DIR/gen-biblegreek-data.py" || { echo "❌ data generation failed"; exit 1; }
+python3 "$SCRIPT_DIR/gen-biblegreek-index.py" || { echo "❌ index generation failed"; exit 1; }
 
 # Combine: strip each file's 7-line YAML header, splice the generated parse table
 # into chapter 07, drop backticks around Greek, and wrap every Greek run in \greekfont.
@@ -50,7 +51,7 @@ def wrap(text):
     # Greek runs are unbreakable boxes: a bare CJK comma between two of them leaves no line-break
     # opportunity (a 305pt overfull in chapter 8). Give each separator a breakable space.
     # Lists of verse numbers ("5:5、8:24、8:45…") have no break point between Latin digits and the CJK separator
-    text = re.sub(r"([、；，])(?=[0-9A-Za-z])", lambda m: m.group(1) + "`\\allowbreak{}`{=latex}", text)
+    text = re.sub(r"([、；，。）」])(?=[0-9A-Za-z]|`\{\\greekfont)", lambda m: m.group(1) + "`\\allowbreak{}`{=latex}", text)
     # Hebrew runs (a few word-study notes cite Hebrew): own font, else they print as blank boxes
     return re.sub("[\u0590-\u05FF](?:[\u0590-\u05FF\u05BE ]*[\u0590-\u05FF])?", lambda m: "`{\\hebrewfont " + m.group(0) + "}`{=latex}", text)
 def order(path):

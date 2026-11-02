@@ -56,7 +56,7 @@ def clean(s):
 
 
 DROPPED = {"conflict": 0, "number": 0}
-CONFLICT = re.compile(r"無條件|不求回報|神聖的愛|友誼的愛")           # contradicts chapter 5 (agapao is not 'unconditional love')
+CONFLICT = re.compile(r"無條件|不求回報|不計回報|情感上的熱度|神聖的愛|友誼的愛|dynamite|英文\s*\S{0,12}的字(?:源|根)|字根即英文|首次出現在此|罕見地與約翰福音同用")           # contradicts chapter 5 (agapao is not 'unconditional love')
 NUMBER = re.compile(r"[\d一二三四五六七八九十百兩餘]+\s*(?:次|處|回)(?!的死)")  # counts quoted in a note are not re-verified here
 
 

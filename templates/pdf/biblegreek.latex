@@ -662,7 +662,7 @@ $endif$
 \textbf{實作} & 第 7 章 & 約翰福音 1:1-5 逐字讀 \\
 \textbf{積累} & 第 8–11 章 & 先認哪些字；工具與書單；八週計劃；用歌記 \\
 \textbf{卷二} & 二十七卷各一節 & 各卷的希臘文；跨卷字表；希臘字索引 \\
-\textbf{附錄} & 練習、地圖、字表 & 核心字在各卷的用法；前一百個字 \\
+\textbf{附錄} & 練習、地圖、字表 & 核心字在各卷的用法；前一百個字；經文索引 \\
 \bottomrule
 \end{tabular}
 
@@ -814,7 +814,7 @@ $endif$
 
 \begin{minipage}{4.7in}
 \small\color{CoverCream}
-\begin{tabular}{@{}p{3.9cm}p{2.9cm}l@{}}
+\begin{tabular}{@{}p{3.4cm}p{4.9cm}l@{}}
 把字母讀出聲 & \textit{\baskervillefont\color{CoverCream} Read the alphabet} & {\tiny\color{CoverMuted} 第 3 章}\\[0.25em]
 看懂形態與文法標注 & \textit{\baskervillefont\color{CoverCream} Read parsing and grammar} & {\tiny\color{CoverMuted} 第 4 章}\\[0.25em]
 不被「原文說」誤導 & \textit{\baskervillefont\color{CoverCream} Spot word-study fallacies} & {\tiny\color{CoverMuted} 第 5 章}\\[0.25em]

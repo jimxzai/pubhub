@@ -832,43 +832,44 @@ book	headword	lemmas	key	level	refs	gloss	note	source
 65-Ac	μαρτυρέω	μαρτυρέω	μαρτυρέω	C		作見證		acts/00b-witness-spine.md
 65-Ac	διαμαρτύρομαι	διαμαρτύρομαι	διαμαρτύρομαι	C		鄭重作證、極力見證		acts/00b-witness-spine.md
 65-Ac	μαρτύριον	μαρτύριον	μαρτύριον	B	4	見證（所證的內容）		acts/00b-witness-spine.md
-65-Ac	δύναμις	δύναμις	δύναμις	B	1	能力、大能		acts/01-ascension.md
+65-Ac	μάρτυς	μάρτυς	μάρτυς	A	1:8	見證人		acts/01-ascension.md
+65-Ac	δύναμις	δύναμις	δύναμις	A	1:8	能力、大能		acts/01-ascension.md
 65-Ac	ἀνελήμφθη	ἀναλαμβάνω	ἀναλαμβάνω	A	1:2	被接上升		acts/01-ascension.md
-65-Ac	ὁμοθυμαδόν	ὁμοθυμαδόν	ὁμοθυμαδόν	B	1	同心合意		acts/01-ascension.md
-65-Ac	προσκαρτερέω	προσκαρτερέω	προσκαρτερέω	B	1	恆切、堅持不懈		acts/01-ascension.md
-65-Ac	ἕως ἐσχάτου τῆς γῆς	ἕως;ἔσχατος;ὁ;γῆ	ἔσχατος	B	1	直到地極		acts/01-ascension.md
+65-Ac	ὁμοθυμαδόν	ὁμοθυμαδόν	ὁμοθυμαδόν	A	1:14	同心合意		acts/01-ascension.md
+65-Ac	προσκαρτερέω	προσκαρτερέω	προσκαρτερέω	A	1:14	恆切、堅持不懈		acts/01-ascension.md
+65-Ac	ἕως ἐσχάτου τῆς γῆς	ἕως;ἔσχατος;ὁ;γῆ	ἔσχατος	A	1:8	直到地極		acts/01-ascension.md
 65-Ac	κλῆρος	κλῆρος	κλῆρος	A	1:17	籤、份		acts/01-ascension.md
 65-Ac	γλῶσσα	γλῶσσα	γλῶσσα	A	2:3;2:4	舌頭、語言		acts/02-pentecost.md
-65-Ac	πνοή πνεῦμα	πνοή;πνεῦμα	πνοή	B	2	氣息、風、靈		acts/02-pentecost.md
+65-Ac	πνοή πνεῦμα			X		氣息、風、靈		acts/02-pentecost.md
 65-Ac	ἐκχέω	ἐκχέω	ἐκχέω	A	2:17;2:18	澆灌、傾倒		acts/02-pentecost.md
-65-Ac	κατανύσσομαι	κατανύσσομαι	κατανύσσομαι	B	2	扎心、刺透		acts/02-pentecost.md
-65-Ac	μετανοέω	μετανοέω	μετανοέω	B	2	悔改		acts/02-pentecost.md
+65-Ac	κατανύσσομαι	κατανύσσομαι	κατανύσσομαι	A	2:37	扎心、刺透		acts/02-pentecost.md
+65-Ac	μετανοέω	μετανοέω	μετανοέω	A	2:38	悔改		acts/02-pentecost.md
 65-Ac	προσκαρτερέω	προσκαρτερέω	προσκαρτερέω	A	2:42	恆心、持續委身		acts/02-pentecost.md
-65-Ac	ὁμοθυμαδόν	ὁμοθυμαδόν	ὁμοθυμαδόν	B	2	同心合意		acts/02-pentecost.md
-65-Ac	ἀρχηγός	ἀρχηγός	ἀρχηγός	B	3	開路先鋒、創始者、源頭		acts/03-beautiful-gate.md
-65-Ac	ὁλοκληρία	ὁλοκληρία	ὁλοκληρία	B	3	全然痊癒、完全的健壯		acts/03-beautiful-gate.md
-65-Ac	καιροὶ ἀναψύξεως	καιρός;ἀνάψυξις	ἀνάψυξις	B	3	舒爽、更新的時候		acts/03-beautiful-gate.md
-65-Ac	ἀποκατάστασις	ἀποκατάστασις	ἀποκατάστασις	B	3	復興、恢復原狀		acts/03-beautiful-gate.md
-65-Ac	προφήτης	προφήτης	προφήτης	B	3	先知		acts/03-beautiful-gate.md
-65-Ac	σωτηρία	σωτηρία	σωτηρία	B	4	拯救、救恩		acts/04-no-other-name.md
+65-Ac	ὁμοθυμαδόν	ὁμοθυμαδόν	ὁμοθυμαδόν	A	2:46	同心合意		acts/02-pentecost.md
+65-Ac	ἀρχηγός	ἀρχηγός	ἀρχηγός	A	3:15	開路先鋒、創始者、源頭		acts/03-beautiful-gate.md
+65-Ac	ὁλοκληρία	ὁλοκληρία	ὁλοκληρία	A	3:16	全然痊癒、完全的健壯		acts/03-beautiful-gate.md
+65-Ac	καιροὶ ἀναψύξεως	καιρός;ἀνάψυξις	ἀνάψυξις	A	3:20	舒爽、更新的時候		acts/03-beautiful-gate.md
+65-Ac	ἀποκατάστασις	ἀποκατάστασις	ἀποκατάστασις	A	3:21	復興、恢復原狀		acts/03-beautiful-gate.md
+65-Ac	προφήτης	προφήτης	προφήτης	A	3:22;3:23	先知		acts/03-beautiful-gate.md
+65-Ac	σωτηρία	σωτηρία	σωτηρία	A	4:12	拯救、救恩		acts/04-no-other-name.md
 65-Ac	παρρησία	παρρησία	παρρησία	A	4:13;4:29	放膽、坦然無懼的言論		acts/04-no-other-name.md
-65-Ac	ἀγράμματος καὶ ἰδιώτης	ἀγράμματος;καί;ἰδιώτης	ἀγράμματος	B	4	沒有學問的、平民		acts/04-no-other-name.md
+65-Ac	ἀγράμματος καὶ ἰδιώτης	ἀγράμματος;καί;ἰδιώτης	ἀγράμματος	A	4:13	沒有學問的、平民		acts/04-no-other-name.md
 65-Ac	ἀκρογωνιαῖος			X		房角石、基石		acts/04-no-other-name.md
-65-Ac	ὁμοθυμαδόν	ὁμοθυμαδόν	ὁμοθυμαδόν	B	4	同心合意		acts/04-no-other-name.md
-65-Ac	ἴασις	ἴασις	ἴασις	B	4	醫治（名詞）		acts/04-no-other-name.md
+65-Ac	ὁμοθυμαδόν	ὁμοθυμαδόν	ὁμοθυμαδόν	A	4:24	同心合意		acts/04-no-other-name.md
+65-Ac	ἴασις	ἴασις	ἴασις	A	4:30	醫治（名詞）		acts/04-no-other-name.md
 65-Ac	φόβος μέγας	φόβος;μέγας	φόβος	A	5:5;5:11	大大懼怕	本章鑰詞；同一個詞先臨到亞拿尼亞死時的旁觀者，再臨到「全教會」——懼怕從個人擴及群體	acts/05-ananias.md
 65-Ac	νοσφίζομαι	νοσφίζομαι	νοσφίζομαι	A	5:2;5:3	私自留下、私吞	七十士譯本用同一個字描述亞干私藏當滅之物（書7:1），路加刻意用這個舊約詞彙	acts/05-ananias.md
 65-Ac	ψεύδομαι	ψεύδομαι	ψεύδομαι	A	5:3;5:4	說謊、欺騙	彼得指出：欺騙聖靈與欺騙神是同一件事，直接肯定聖靈的神性	acts/05-ananias.md
 65-Ac	πειράζω	πειράζω	πειράζω	A	5:9	試探	「試探主的靈」，與曠野以色列人試探神（詩95:9）用的是同一個動詞	acts/05-ananias.md
 65-Ac	σημεῖα καὶ τέρατα	σημεῖον;καί;τέρας	τέρας	A	5:12	神蹟奇事	與2:22描述耶穌自己所行的「神蹟奇事」用詞相同——使徒所行的，是延續、不是新造的權柄	acts/05-ananias.md
 65-Ac	σκιά	σκιά	σκιά	A	5:15	影兒	百姓所指望的不是彼得本人的能力，是那藉他彰顯的主的同在	acts/05-ananias.md
-65-Ac	προσκαρτερέω	προσκαρτερέω	προσκαρτερέω	B	6	專心、持續不放鬆地委身於一件事		acts/06-the-seven.md
-65-Ac	διακονία διακονέω	διακονία;διακονέω	διακονία	B	6	服事、供給		acts/06-the-seven.md
+65-Ac	προσκαρτερέω	προσκαρτερέω	προσκαρτερέω	A	6:4;2:42;1:14	專心、持續不放鬆地委身於一件事		acts/06-the-seven.md
+65-Ac	διακονία διακονέω	διακονία;διακονέω	διακονία	A	6:1;6:2;6:4	服事、供給		acts/06-the-seven.md
 65-Ac	πλήρης πνεύματος ἁγίου καὶ σοφίας			X		被聖靈充滿、智慧充足		acts/06-the-seven.md
-65-Ac	πίστις	πίστις	πίστις	B	6	信心		acts/06-the-seven.md
-65-Ac	χάρις καὶ δύναμις	χάρις;καί;δύναμις	δύναμις	B	6	恩惠與能力		acts/06-the-seven.md
+65-Ac	πίστις	πίστις	πίστις	A	6:5	信心		acts/06-the-seven.md
+65-Ac	χάρις καὶ δύναμις	χάρις;καί;δύναμις	δύναμις	A	6:8	恩惠與能力		acts/06-the-seven.md
 65-Ac	σοφία	σοφία	σοφία	A	6:3	智慧		acts/06-the-seven.md
-65-Ac	πρόσωπον ἀγγέλου	πρόσωπον;ἄγγελος	πρόσωπον	B	6	天使的面貌		acts/06-the-seven.md
+65-Ac	πρόσωπον ἀγγέλου	πρόσωπον;ἄγγελος	πρόσωπον	A	6:15	天使的面貌		acts/06-the-seven.md
 65-Ac	προσκαρτερήσομεν	προσκαρτερέω	προσκαρτερέω	B	6			acts/06-the-seven.md
 65-Ac	πλήρης πνεύματος ἁγίου	πλήρης;πνεῦμα;ἅγιος	πλήρης	A	7:55	滿有聖靈	與6:5「大有信心、聖靈充滿」前後呼應，聖靈的同在貫穿司提反從被揀選到殉道的全程	acts/07-stephen.md
 65-Ac	σκληροτράχηλος	σκληροτράχηλος	σκληροτράχηλος	A	7:51	硬著頸項	舊約控告以色列悖逆的常用詞（出32:9；33:3, 5；申9:6），司提反直接挪用來控告眼前的公會	acts/07-stephen.md
@@ -899,30 +900,30 @@ book	headword	lemmas	key	level	refs	gloss	note	source
 65-Ac	διακρίνω	διακρίνω	διακρίνω	A	11:12	疑惑、區分	聖靈吩咐彼得同去「不要疑惑」；同一字根也用於「區別對待」，暗示彼得心裏原有猶太人與外邦人之分的掙扎	acts/11-antioch.md
 65-Ac	λιμός	λιμός	λιμός	A	11:28	饑荒	亞迦布藉聖靈預言的大饑荒；革老丟在位期間（主後41-54年）猶太地確曾發生大饑荒，史家繫年約在主後46-48年	acts/11-antioch.md
 65-Ac	Ἕλλην			X		希臘人（此處指外邦人）	與6:1、9:29「說希利尼話的猶太人」（Ἑλληνιστής）不是同一個字；此節古抄本存在異文，多數學者認為原文當作「向希臘人」（外邦人），正是本段敘事的關鍵轉折	acts/11-antioch.md
-65-Ac	ἐκτενῶς	ἐκτενῶς	ἐκτενῶς	B	12	切切地、迫切地		acts/12-herod-peter.md
+65-Ac	ἐκτενῶς	ἐκτενῶς	ἐκτενῶς	A	12:5	切切地、迫切地		acts/12-herod-peter.md
 65-Ac	ἄγγελος	ἄγγελος	ἄγγελος	A	12:7;12:9;12:11	使者、天使		acts/12-herod-peter.md
-65-Ac	ἅλυσις	ἅλυσις	ἅλυσις	B	12	鎖鏈		acts/12-herod-peter.md
-65-Ac	αὐτομάτη	αὐτόματος	αὐτόματος	B	12	自動地		acts/12-herod-peter.md
-65-Ac	σκωληκόβρωτος	σκωληκόβρωτος	σκωληκόβρωτος	B	12	被蟲咬蝕		acts/12-herod-peter.md
-65-Ac	αὐξάνω πληθύνω	αὐξάνω;πληθύνω	πληθύνω	B	12	興旺、增多		acts/12-herod-peter.md
+65-Ac	ἅλυσις	ἅλυσις	ἅλυσις	A	12:6;12:7	鎖鏈		acts/12-herod-peter.md
+65-Ac	αὐτομάτη	αὐτόματος	αὐτόματος	A	12:10	自動地		acts/12-herod-peter.md
+65-Ac	σκωληκόβρωτος	σκωληκόβρωτος	σκωληκόβρωτος	A	12:23	被蟲咬蝕		acts/12-herod-peter.md
+65-Ac	αὐξάνω πληθύνω	αὐξάνω;πληθύνω	πληθύνω	A	12:24	興旺、增多		acts/12-herod-peter.md
 65-Ac	ἀφορίζω	ἀφορίζω	ἀφορίζω	A	13:2	分派、劃分出來	聖靈「分派」巴拿巴和掃羅，字面有「劃出界線」之意——宣教士是被神從眾人中特別劃出來的	acts/13-sent-by-the-spirit.md
 65-Ac	ἐκπέμπω	ἐκπέμπω	ἐκπέμπω	A	13:4	差遣、打發出去	本章鑰詞「差遣」的原文動詞，被動語態「既被聖靈差遣」——宣教士是被動接受差遣，不是主動請纓	acts/13-sent-by-the-spirit.md
 65-Ac	ἀτενίζω	ἀτενίζω	ἀτενίζω	A	13:9	定睛看、凝視	保羅被聖靈充滿之後的第一個動作，是「定睛看」抵擋真道的假先知，隨即宣告審判臨到	acts/13-sent-by-the-spirit.md
 65-Ac	δικαιόω	δικαιόω	δικαιόω	A	13:39	稱義、宣告為義	法庭用語，宣判無罪；本節是使徒行傳中第一次、也是唯一一次公開宣告「因信稱義」這個核心術語	acts/13-sent-by-the-spirit.md
 65-Ac	φῶς	φῶς	φῶς	A	13:47	光	引自賽49:6「我還要使你作外邦人的光」，原是論受苦僕人（彌賽亞）的使命，保羅在此把這句話用在教會身上	acts/13-sent-by-the-spirit.md
 65-Ac	τάσσω	τάσσω	τάσσω	A	13:48	指定、預定	本節作 τεταγμένοι；「凡預定得永生的人都信了」——被動完成式，強調信心的根源在神先定的旨意，不是人自發的抉擇	acts/13-sent-by-the-spirit.md
-65-Ac	ἀτενίζω	ἀτενίζω	ἀτενίζω	B	14	定睛看、凝視		acts/14-through-tribulations.md
-65-Ac	θλῖψις	θλῖψις	θλῖψις	B	14	艱難、患難、壓迫		acts/14-through-tribulations.md
-65-Ac	ἐπιστηρίζω	ἐπιστηρίζω	ἐπιστηρίζω	B	14	堅固、扶持		acts/14-through-tribulations.md
-65-Ac	μάταιος	μάταιος	μάταιος	B	14	虛妄、虛空		acts/14-through-tribulations.md
-65-Ac	θύρα	θύρα	θύρα	B	14	門		acts/14-through-tribulations.md
-65-Ac	χειροτονέω	χειροτονέω	χειροτονέω	B	14	選立、按立		acts/14-through-tribulations.md
-65-Ac	ἀμάρτυρος	ἀμάρτυρος	ἀμάρτυρος	B	14	未留下見證的（形容詞）		acts/14-through-tribulations.md
+65-Ac	ἀτενίζω	ἀτενίζω	ἀτενίζω	A	14:9;3:4	定睛看、凝視		acts/14-through-tribulations.md
+65-Ac	θλῖψις	θλῖψις	θλῖψις	A	14:22	艱難、患難、壓迫		acts/14-through-tribulations.md
+65-Ac	ἐπιστηρίζω	ἐπιστηρίζω	ἐπιστηρίζω	A	14:22	堅固、扶持		acts/14-through-tribulations.md
+65-Ac	μάταιος	μάταιος	μάταιος	A	14:15	虛妄、虛空		acts/14-through-tribulations.md
+65-Ac	θύρα	θύρα	θύρα	A	14:27	門		acts/14-through-tribulations.md
+65-Ac	χειροτονέω	χειροτονέω	χειροτονέω	A	14:23	選立、按立		acts/14-through-tribulations.md
+65-Ac	ἀμάρτυρος	ἀμάρτυρος	ἀμάρτυρος	A	14:17	未留下見證的（形容詞）		acts/14-through-tribulations.md
 65-Ac	περιτέμνω	περιτέμνω	περιτέμνω	A	15:1	行割禮		acts/15-jerusalem-council.md
-65-Ac	ζυγός	ζυγός	ζυγός	B	15	軛		acts/15-jerusalem-council.md
+65-Ac	ζυγός	ζυγός	ζυγός	A	15:10	軛		acts/15-jerusalem-council.md
 65-Ac	διακρίνω	διακρίνω	διακρίνω	A	15:9	分別、區分		acts/15-jerusalem-council.md
 65-Ac	εἰδωλόθυτος			X		祭過偶像的食物		acts/15-jerusalem-council.md
-65-Ac	παροξυσμός	παροξυσμός	παροξυσμός	B	15	激烈的爭執		acts/15-jerusalem-council.md
+65-Ac	παροξυσμός	παροξυσμός	παροξυσμός	A	15:39	激烈的爭執		acts/15-jerusalem-council.md
 65-Ac	ἐπιστηρίζω	ἐπιστηρίζω	ἐπιστηρίζω	A	15:32	堅固、建立		acts/15-jerusalem-council.md
 65-Ac	διαβαίνω	διαβαίνω	διαβαίνω	A	16:9	越過、渡過	本節作 διαβάς；鑰詞「越過」的原文；異象中馬其頓人所懇求的動詞，正是全卷「進入歐洲」的關鍵字	acts/16-macedonian-call.md
 65-Ac	κωλυθέντες οὐκ εἴασεν			X		禁止 / 不許	兩個不同的動詞——聖靈「禁止」，耶穌的靈「不許」——同一位聖靈，用兩種說法，兩次攔阻同一條路	acts/16-macedonian-call.md
@@ -943,11 +944,11 @@ book	headword	lemmas	key	level	refs	gloss	note	source
 65-Ac	ἀνθύπατος	ἀνθύπατος	ἀνθύπατος	A	18:12	方伯（羅馬元老院省份的總督）	路加對迦流頭銜的用字精準無誤——亞該亞當時確為元老院省，此字用法與德爾斐碑銘互相印證	acts/18-corinth.md
 65-Ac	λόγιος	λόγιος	λόγιος	A	18:24	有學問的／有口才的	描述亞波羅，兼具修辭之才與聖經知識	acts/18-corinth.md
 65-Ac	ἀκριβέστερον	ἀκριβέστερον	ἀκριβέστερον	A	18:26	更加詳細／更準確地	比較級副詞，百基拉、亞居拉沒有公開駁斥亞波羅，只是私下把神的道給他講解得「更準確」	acts/18-corinth.md
-65-Ac	δυνάμεις τε οὐ τὰς τυχούσας	δύναμις;τέ;οὐ;ὁ;τυγχάνω	τυγχάνω	B	19	非比尋常的異能		acts/19-ephesus.md
-65-Ac	σουδάρια ἢ σιμικίνθια	σουδάριον;ἤ;σιμικίνθιον	σιμικίνθιον	B	19	手巾或圍裙		acts/19-ephesus.md
+65-Ac	δυνάμεις τε οὐ τὰς τυχούσας	δύναμις;τέ;οὐ;ὁ;τυγχάνω	τυγχάνω	A	19:11	非比尋常的異能		acts/19-ephesus.md
+65-Ac	σουδάρια ἢ σιμικίνθια	σουδάριον;ἤ;σιμικίνθιον	σιμικίνθιον	A	19:12	手巾或圍裙		acts/19-ephesus.md
 65-Ac	τὰ περίεργα	ὁ;περίεργος	περίεργος	A	19:19	邪術書、繁瑣詭祕之術		acts/19-ephesus.md
-65-Ac	ηὔξανεν καὶ ἴσχυεν	αὐξάνω;καί;ἰσχύω	αὐξάνω	B	19	大大興旺，而且得勝		acts/19-ephesus.md
-65-Ac	νεωκόρος	νεωκόρος	νεωκόρος	B	19	守廟者、廟的看守人		acts/19-ephesus.md
+65-Ac	ηὔξανεν καὶ ἴσχυεν	αὐξάνω;καί;ἰσχύω	αὐξάνω	A	19:20	大大興旺，而且得勝		acts/19-ephesus.md
+65-Ac	νεωκόρος	νεωκόρος	νεωκόρος	A	19:35	守廟者、廟的看守人		acts/19-ephesus.md
 65-Ac	ἐκκλησία	ἐκκλησία	ἐκκλησία	A	19:32;19:39	聚集的群眾／蒙召出來的群體		acts/19-ephesus.md
 65-Ac	Εὔτυχος	Εὔτυχος	Εὔτυχος	A	20:9	猶推古（人名，意為「幸運的」）	名字的反諷：他從三層樓摔下「已經死了」，卻因保羅而真正配得上自己的名字	acts/20-miletus-farewell.md
 65-Ac	τρίστεγον	τρίστεγον	τρίστεγον	A	20:9	三層樓	指出建築的高度，也交代了墜樓的嚴重性——不是輕微跌倒	acts/20-miletus-farewell.md
@@ -961,87 +962,56 @@ book	headword	lemmas	key	level	refs	gloss	note	source
 65-Ac	πνεῦμα	πνεῦμα	πνεῦμα	A	21:4	靈；聖靈	推羅門徒「被聖靈感動」勸阻保羅——同一位聖靈也曾催逼保羅定意上耶路撒冷（20:22）	acts/21-bound-for-jerusalem.md
 65-Ac	προφητεύω	προφητεύω	προφητεύω	A	21:9	說預言	腓利四個女兒與先知亞迦布，同一恩賜的兩種見證方式	acts/21-bound-for-jerusalem.md
 65-Ac	ἁγνίζω	ἁγνίζω	ἁγνίζω	A	21:24;21:26	潔淨、行潔淨禮	保羅為平息猶太信徒的疑慮所行的禮儀性潔淨	acts/21-bound-for-jerusalem.md
-65-Ac	ἀπολογία	ἀπολογία	ἀπολογία	B	22	申辯、辯詞		acts/22-stairs-testimony.md
+65-Ac	ἀπολογία	ἀπολογία	ἀπολογία	A	22:1	申辯、辯詞		acts/22-stairs-testimony.md
 65-Ac	Ἑβραΐς Ἑβραϊστί			X		希伯來話		acts/22-stairs-testimony.md
-65-Ac	ζηλωτής	ζηλωτής	ζηλωτής	B	22	熱心的人		acts/22-stairs-testimony.md
-65-Ac	Ναζωραῖος	Ναζωραῖος	Ναζωραῖος	B	22	拿撒勒人		acts/22-stairs-testimony.md
+65-Ac	ζηλωτής	ζηλωτής	ζηλωτής	A	22:3	熱心的人		acts/22-stairs-testimony.md
+65-Ac	Ναζωραῖος	Ναζωραῖος	Ναζωραῖος	A	22:8	拿撒勒人		acts/22-stairs-testimony.md
 65-Ac	μάρτυς	μάρτυς	μάρτυς	A	22:15	見證人		acts/22-stairs-testimony.md
-65-Ac	ἔκστασις	ἔκστασις	ἔκστασις	B	22	魂遊象外、出神		acts/22-stairs-testimony.md
-65-Ac	Ῥωμαῖος	Ῥωμαῖος	Ῥωμαῖος	B	22	羅馬公民		acts/22-stairs-testimony.md
-65-Ac	ἀνάστασις	ἀνάστασις	ἀνάστασις	B	23	復活		acts/23-lord-stood-by.md
-65-Ac	θαρσέω	θαρσέω	θαρσέω	B	23	放心、壯膽		acts/23-lord-stood-by.md
-65-Ac	τοῖχε κεκονιαμένε	τοῖχος;κονιάω	τοῖχος	B	23	粉飾的牆		acts/23-lord-stood-by.md
+65-Ac	ἔκστασις	ἔκστασις	ἔκστασις	A	22:17	魂遊象外、出神		acts/22-stairs-testimony.md
+65-Ac	Ῥωμαῖος	Ῥωμαῖος	Ῥωμαῖος	A	22:25;22:26;22:27	羅馬公民		acts/22-stairs-testimony.md
+65-Ac	ἀνάστασις	ἀνάστασις	ἀνάστασις	A	23:6	復活		acts/23-lord-stood-by.md
+65-Ac	θαρσέω	θαρσέω	θαρσέω	A	23:11	放心、壯膽		acts/23-lord-stood-by.md
+65-Ac	τοῖχε κεκονιαμένε	τοῖχος;κονιάω	τοῖχος	A	23:3	粉飾的牆		acts/23-lord-stood-by.md
 65-Ac	ἀναθεματίζω	ἀναθεματίζω	ἀναθεματίζω	A	23:12	起誓自咒、發重誓		acts/23-lord-stood-by.md
-65-Ac	συνωμοσία	συνωμοσία	συνωμοσία	B	23	同謀、密謀		acts/23-lord-stood-by.md
+65-Ac	συνωμοσία	συνωμοσία	συνωμοσία	A	23:13	同謀、密謀		acts/23-lord-stood-by.md
 65-Ac	χιλίαρχος	χιλίαρχος	χιλίαρχος	A	23:10;23:15;23:17	千夫長		acts/23-lord-stood-by.md
-65-Ac	συνείδησις	συνείδησις	συνείδησις	B	24	良心		acts/24-before-felix.md
-65-Ac	ἀσκέω	ἀσκέω	ἀσκέω	B	24	操練、鍛鍊自己		acts/24-before-felix.md
-65-Ac	ἀπρόσκοπος	ἀπρόσκοπος	ἀπρόσκοπος	B	24	無虧、不使人絆跌		acts/24-before-felix.md
+65-Ac	συνείδησις	συνείδησις	συνείδησις	A	24:16	良心		acts/24-before-felix.md
+65-Ac	ἀσκέω	ἀσκέω	ἀσκέω	A	24:16	操練、鍛鍊自己		acts/24-before-felix.md
+65-Ac	ἀπρόσκοπος	ἀπρόσκοπος	ἀπρόσκοπος	A	24:16	無虧、不使人絆跌		acts/24-before-felix.md
 65-Ac	ὁδός	ὁδός	ὁδός	A	24:14	這道、道路		acts/24-before-felix.md
-65-Ac	αἵρεσις	αἵρεσις	αἵρεσις	A	24:5	教派、宗派（英譯 sect）		acts/24-before-felix.md
-65-Ac	ἔμφοβος γενόμενος	ἔμφοβος;γίνομαι	ἔμφοβος	B	24	甚覺恐懼		acts/24-before-felix.md
+65-Ac	αἵρεσις	αἵρεσις	αἵρεσις	A	24:5;24:14	教派、宗派（英譯 sect）		acts/24-before-felix.md
+65-Ac	ἔμφοβος γενόμενος	ἔμφοβος;γίνομαι	ἔμφοβος	A	24:25	甚覺恐懼		acts/24-before-felix.md
 65-Ac	ἐπικαλέομαι Καίσαρα			X		上告於該撒		acts/25-appeal-to-caesar.md
 65-Ac	κατηγορέω	κατηγορέω	κατηγορέω	A	25:5;25:11;25:16	控告		acts/25-appeal-to-caesar.md
-65-Ac	ἀπολογέομαι	ἀπολογέομαι	ἀπολογέομαι	B	25	申辯、分訴		acts/25-appeal-to-caesar.md
-65-Ac	δεισιδαιμονία	δεισιδαιμονία	δεισιδαιμονία	B	25	宗教、敬鬼神的事		acts/25-appeal-to-caesar.md
-65-Ac	φαντασία	φαντασία	φαντασία	B	25	排場、威勢		acts/25-appeal-to-caesar.md
-65-Ac	ὀπτασία	ὀπτασία	ὀπτασία	B	26	異象、顯現		acts/26-heavenly-vision.md
+65-Ac	ἀπολογέομαι	ἀπολογέομαι	ἀπολογέομαι	A	25:8	申辯、分訴		acts/25-appeal-to-caesar.md
+65-Ac	δεισιδαιμονία	δεισιδαιμονία	δεισιδαιμονία	A	25:19	宗教、敬鬼神的事		acts/25-appeal-to-caesar.md
+65-Ac	φαντασία	φαντασία	φαντασία	A	25:23	排場、威勢		acts/25-appeal-to-caesar.md
+65-Ac	ὀπτασία	ὀπτασία	ὀπτασία	A	26:19	異象、顯現		acts/26-heavenly-vision.md
 65-Ac	ἀπειθής	ἀπειθής	ἀπειθής	A	26:19	不順從、悖逆		acts/26-heavenly-vision.md
-65-Ac	μάρτυς	μάρτυς	μάρτυς	B	26	見證人		acts/26-heavenly-vision.md
+65-Ac	μάρτυς	μάρτυς	μάρτυς	A	26:16	見證人		acts/26-heavenly-vision.md
 65-Ac	ὑπηρέτης	ὑπηρέτης	ὑπηρέτης	A	26:16	執事、僕役		acts/26-heavenly-vision.md
-65-Ac	πρὸς κέντρα λακτίζειν	πρός;κέντρον;λακτίζω	λακτίζω	B	26	用腳踢刺棒		acts/26-heavenly-vision.md
-65-Ac	σωφροσύνη	σωφροσύνη	σωφροσύνη	B	26	清醒、明白、節制		acts/26-heavenly-vision.md
-65-Ac	μαίνομαι	μαίνομαι	μαίνομαι	B	26	瘋狂、失去理智		acts/26-heavenly-vision.md
-65-Ac	πείθω	πείθω	πείθω	B	26	說服、勸服		acts/26-heavenly-vision.md
+65-Ac	πρὸς κέντρα λακτίζειν	πρός;κέντρον;λακτίζω	λακτίζω	A	26:14	用腳踢刺棒		acts/26-heavenly-vision.md
+65-Ac	σωφροσύνη	σωφροσύνη	σωφροσύνη	A	26:25	清醒、明白、節制		acts/26-heavenly-vision.md
+65-Ac	μαίνομαι	μαίνομαι	μαίνομαι	A	26:24;26:25	瘋狂、失去理智		acts/26-heavenly-vision.md
+65-Ac	πείθω	πείθω	πείθω	A	26:28	說服、勸服		acts/26-heavenly-vision.md
 65-Ac	οὗ εἰμι	ὅς;εἰμί		A	27:23	「我所屬」的（所有格關係代名詞＋是動詞）	沒有專門的「屬於」動詞，只用一個簡單的「我是」加上所有格——保羅的身分認同，落在一個最基本的文法結構裏：我是屬他的	acts/27-storm-witness.md
 65-Ac	λατρεύω	λατρεύω	λατρεύω	A	27:23	事奉、敬拜	舊約七十士譯本常用此字描述以色列人向耶和華獻上的敬拜／事奉，保羅在外邦水手面前用這個字，等於公開宣告自己的敬拜對象	acts/27-storm-witness.md
 65-Ac	εὐθυμέω	εὐθυμέω	εὐθυμέω	A	27:22;27:25	放心、心裏歡喜、鼓起勇氣	保羅在絕望的處境中三次呼籲眾人「放心」，次序值得留意：先陳述神的應許，才呼籲放心——放心不是自己擠出來的情緒，是抓住應許之後的結果	acts/27-storm-witness.md
 65-Ac	διασῴζω	διασῴζω	διασῴζω	A	27:44	帶領安全渡過、全然得救	複合詞，字首 dia- 加強「徹底、完全」之意，不只是僥倖生還，而是被帶着穿越危險，安然抵達	acts/27-storm-witness.md
 65-Ac	Εὐρακύλων	εὐρακύλων	εὐρακύλων	A	27:14	友拉革羅（東北暴風）	希臘文「東風」與拉丁文「北風」的混合造詞，是古代水手對這種特定風向的行話稱呼	acts/27-storm-witness.md
 65-Ac	κυβερνήτης	κυβερνήτης	κυβερνήτης	A	27:11	掌船的、船長	英文 cybernetics（控制論）一字的字根即出於此——「掌舵、操控」之意	acts/27-storm-witness.md
-65-Ac	ἀκωλύτως	ἀκωλύτως	ἀκωλύτως	B	28	不受阻礙地		acts/28-unhindered.md
-65-Ac	παρρησία	παρρησία	παρρησία	B	28	放膽、坦然無懼地說話		acts/28-unhindered.md
+65-Ac	ἀκωλύτως	ἀκωλύτως	ἀκωλύτως	A	28:31	不受阻礙地		acts/28-unhindered.md
+65-Ac	παρρησία	παρρησία	παρρησία	A	28:31	放膽、坦然無懼地說話		acts/28-unhindered.md
 65-Ac	διασῴζω	διασῴζω	διασῴζω	A	28:1	全然帶到、徹底拯救		acts/28-unhindered.md
-65-Ac	ἔχιδνα	ἔχιδνα	ἔχιδνα	B	28	毒蛇		acts/28-unhindered.md
-65-Ac	θάρσος	θάρσος	θάρσος	B	28	壯膽、勇氣（動詞λαμβάνω θάρσος「拿起勇氣」）		acts/28-unhindered.md
-65-Ac	πείθω	πείθω	πείθω	B	28	說服、勸服		acts/28-unhindered.md
+65-Ac	ἔχιδνα	ἔχιδνα	ἔχιδνα	A	28:3	毒蛇		acts/28-unhindered.md
+65-Ac	θάρσος	θάρσος	θάρσος	A	28:15	壯膽、勇氣（動詞λαμβάνω θάρσος「拿起勇氣」）		acts/28-unhindered.md
+65-Ac	πείθω	πείθω	πείθω	A	28:23;28:24	說服、勸服		acts/28-unhindered.md
 65-Ac	μαρτυρέω	μαρτυρέω	μαρτυρέω	C		作見證		acts/.build/acts-study-latex.md
 65-Ac	μαρτύριον	μαρτύριον	μαρτύριον	B	4,7	見證（所證的內容）		acts/.build/acts-study-latex.md
-65-Ac	ἕως ἐσχάτου τῆς γῆς	ἕως;ἔσχατος;ὁ;γῆ	ἔσχατος	B	1,13	直到地極		acts/.build/acts-study-latex.md
-65-Ac	ἀρχηγός	ἀρχηγός	ἀρχηγός	B	3,5	開路先鋒、創始者、源頭		acts/.build/acts-study-latex.md
-65-Ac	προφήτης	προφήτης	προφήτης	C		先知		acts/.build/acts-study-latex.md
-65-Ac	πίστις	πίστις	πίστις	C		信心		acts/.build/acts-study-latex.md
-65-Ac	χάρις καὶ δύναμις	χάρις;καί;δύναμις	δύναμις	C		恩惠與能力		acts/.build/acts-study-latex.md
-65-Ac	πρόσωπον ἀγγέλου	πρόσωπον;ἄγγελος	πρόσωπον	B	6,7	天使的面貌		acts/.build/acts-study-latex.md
 65-Ac	Ἕλλην			X		希臘人（此處指外邦人）	與6:1、9:29「說希利尼話的猶太人」（Ἑλληνιστής）不是同一個字；此節古抄本存在異文，多數學者認為原文當作「向希臘人」（外邦人），正是本段敘事的關鍵轉折	acts/.build/acts-study-latex.md
-65-Ac	ἅλυσις	ἅλυσις	ἅλυσις	B	12,28	鎖鏈		acts/.build/acts-study-latex.md
-65-Ac	αὐξάνω πληθύνω	αὐξάνω;πληθύνω	πληθύνω	C		興旺、增多		acts/.build/acts-study-latex.md
-65-Ac	ἀτενίζω	ἀτενίζω	ἀτενίζω	C		定睛看、凝視		acts/.build/acts-study-latex.md
-65-Ac	θλῖψις	θλῖψις	θλῖψις	C		艱難、患難、壓迫		acts/.build/acts-study-latex.md
-65-Ac	θύρα	θύρα	θύρα	C		門		acts/.build/acts-study-latex.md
-65-Ac	ζυγός	ζυγός	ζυγός	C		軛		acts/.build/acts-study-latex.md
-65-Ac	παροξυσμός	παροξυσμός	παροξυσμός	C		激烈的爭執		acts/.build/acts-study-latex.md
 65-Ac	πρεσβύτεροι			X		長老	強調年歲與資歷的稱呼	acts/.build/acts-study-latex.md
 65-Ac	ἕτοιμος			X		預備好、甘心	本章鑰詞的原文字根——不是被迫忍受，而是主動預備好了的心志	acts/.build/acts-study-latex.md
 65-Ac	δέω δεσμά			X		捆綁；捆鎖	亞迦布的預言與保羅的回應共用同一字根，串起全章的主題	acts/.build/acts-study-latex.md
-65-Ac	ζηλωτής	ζηλωτής	ζηλωτής	B	1,22	熱心的人		acts/.build/acts-study-latex.md
-65-Ac	Ναζωραῖος	Ναζωραῖος	Ναζωραῖος	C		拿撒勒人		acts/.build/acts-study-latex.md
-65-Ac	ἔκστασις	ἔκστασις	ἔκστασις	C		魂遊象外、出神		acts/.build/acts-study-latex.md
-65-Ac	Ῥωμαῖος	Ῥωμαῖος	Ῥωμαῖος	C		羅馬公民		acts/.build/acts-study-latex.md
-65-Ac	ἀνάστασις	ἀνάστασις	ἀνάστασις	C		復活		acts/.build/acts-study-latex.md
-65-Ac	συνείδησις	συνείδησις	συνείδησις	B	23	良心		acts/.build/acts-study-latex.md
-65-Ac	ἀσκέω	ἀσκέω	ἀσκέω	C		操練、鍛鍊自己		acts/.build/acts-study-latex.md
-65-Ac	ἀπρόσκοπος	ἀπρόσκοπος	ἀπρόσκοπος	C		無虧、不使人絆跌		acts/.build/acts-study-latex.md
-65-Ac	ἔμφοβος γενόμενος	ἔμφοβος;γίνομαι	ἔμφοβος	B	10	甚覺恐懼		acts/.build/acts-study-latex.md
-65-Ac	ἀπολογέομαι	ἀπολογέομαι	ἀπολογέομαι	B	19	申辯、分訴		acts/.build/acts-study-latex.md
-65-Ac	δεισιδαιμονία	δεισιδαιμονία	δεισιδαιμονία	C		宗教、敬鬼神的事		acts/.build/acts-study-latex.md
-65-Ac	φαντασία	φαντασία	φαντασία	C		排場、威勢		acts/.build/acts-study-latex.md
-65-Ac	ὀπτασία	ὀπτασία	ὀπτασία	C		異象、顯現		acts/.build/acts-study-latex.md
-65-Ac	πρὸς κέντρα λακτίζειν	πρός;κέντρον;λακτίζω	λακτίζω	C		用腳踢刺棒		acts/.build/acts-study-latex.md
-65-Ac	σωφροσύνη	σωφροσύνη	σωφροσύνη	C		清醒、明白、節制		acts/.build/acts-study-latex.md
-65-Ac	μαίνομαι	μαίνομαι	μαίνομαι	B	12	瘋狂、失去理智		acts/.build/acts-study-latex.md
-65-Ac	πείθω	πείθω	πείθω	C		說服、勸服		acts/.build/acts-study-latex.md
-65-Ac	παρρησία	παρρησία	παρρησία	C		放膽、坦然無懼地說話		acts/.build/acts-study-latex.md
 66-Ro	εὐαγγέλιον	εὐαγγέλιον	εὐαγγέλιον	B	1	福音、好消息	羅馬帝國原用於宣告皇帝登基、軍事勝利的「喜訊」；保羅奪回這個詞，宣告的是另一位王的得勝	roman/01-gospel-and-condemnation.md
 66-Ro	δικαιοσύνη θεοῦ	δικαιοσύνη;θεός	δικαιοσύνη	A	1:17	神的義	1:17全信核心詞組；是「神自己公義的屬性」還是「神所賜、使人稱義的義」，是路德掙扎多年的問題	roman/01-gospel-and-condemnation.md
 66-Ro	πίστις	πίστις	πίστις	B	1	信、信心	「本於信，以致於信」(ek pisteōs eis pistin)——信心是起點，也是貫穿始終的原則	roman/01-gospel-and-condemnation.md
@@ -1666,8 +1636,8 @@ book	headword	lemmas	key	level	refs	gloss	note	source
 71-Php	λογίζεσθε	λογίζομαι	λογίζομαι	A	4:8	思念、細細思想、核算	4:8；此字常見於會計、法律語境，指仔細衡量、反覆核算，不是隨意的浮想	philipian/04-think-on-these-things.md
 71-Php	ἔμαθον	μανθάνω	μανθάνω	A	4:11	學會了	4:11；過去式動詞，強調知足是一段真實走過的學習過程	philipian/04-think-on-these-things.md
 71-Php	αὐτάρκης	αὐτάρκης	αὐτάρκης	A	4:11	知足、自足	4:11；希臘斯多亞哲學常用此字描述不假外求的自我滿足，保羅借用這個字，卻把知足的來源從「靠自己」轉為「靠那加給我力量的」（4:13）	philipian/04-think-on-these-things.md
-71-Php	φρονέω	φρονέω	φρονέω	A	1:7;2:2	存心思、定意念——全書貫穿之鑰字，人的軌跡		philipian/98-appendix-indices.md
-71-Php	πνεῦμα	πνεῦμα	πνεῦμα	A	1:19	靈、聖靈——與φρονέω並行的神的次序		philipian/98-appendix-indices.md
+71-Php	φρονέω	φρονέω	φρονέω	A	1:7;2:2;3:15	存心思、定意念——全書貫穿之鑰字，人的軌跡		philipian/98-appendix-indices.md
+71-Php	πνεῦμα	πνεῦμα	πνεῦμα	A	1:19;2:1;3:3	靈、聖靈——與φρονέω並行的神的次序		philipian/98-appendix-indices.md
 71-Php	σχῆμα			X		外在樣式、可見的形貌		philipian/98-appendix-indices.md
 73-1Th	ἐκκλησία	ἐκκλησία	ἐκκλησία	A	1:1	教會，原指被召出來聚集的公民大會；在此卻是「在父神和主耶穌基督裏」的聚集		thessanlonian1/01-chosen-and-called.md
 73-1Th	ἔργον τῆς πίστεως	ἔργον;ὁ;πίστις	ἔργον	A	1:3	「信心所做的工夫」，信心不是靜止的贊同，是產生行動的根		thessanlonian1/01-chosen-and-called.md
@@ -1821,7 +1791,7 @@ book	headword	lemmas	key	level	refs	gloss	note	source
 74-2Th	σημειοῦσθε σημεῖον	σημειόομαι;σημεῖον	σημειόομαι	A	3:14;3:17	「記下」／「為記」，同字根；σημειόομαι 全新約僅見於3:14；σημεῖον 在2:9是那不法者虛假的「神蹟」，在3:17是保羅親筆的真記號		thessanlonian2/07-work-in-quietness.md
 77-Tit	πρεσβύτερος ἐπίσκοπος	πρεσβύτερος;ἐπίσκοπος	ἐπίσκοπος	A	1:5;1:7			pauline-epistles/titus/elder-wong-systematic-study.md
 77-Tit	ὑγιαίνω	ὑγιαίνω	ὑγιαίνω	A	1:9;1:13;2:1			pauline-epistles/titus/elder-wong-systematic-study.md
-77-Tit	ἐπιφάνεια ἐπεφάνη			X				pauline-epistles/titus/elder-wong-systematic-study.md
+77-Tit	ἐπιφάνεια ἐπεφάνη	ἐπιφάνεια;ἐπιφαίνω	ἐπιφαίνω	A	2:11;2:13			pauline-epistles/titus/elder-wong-systematic-study.md
 77-Tit	καλὰ ἀγαθὰ ἔργα			X				pauline-epistles/titus/elder-wong-systematic-study.md
 78-Phm	τὰ σπλάγχνα τῶν ἁγίων	ὁ;σπλάγχνον;ὁ;ἅγιος	σπλάγχνον	A	1:7			1philimon/00b-usefulness-spine.md
 78-Phm	τὰ ἐμὰ σπλάγχνα	ὁ;ἐμός;σπλάγχνον	σπλάγχνον	A	1:12			1philimon/00b-usefulness-spine.md
@@ -2160,7 +2130,7 @@ book	headword	lemmas	key	level	refs	gloss	note	source
 80-Jas	ἔμφυτος	ἔμφυτος	ἔμφυτος	A	1:21	「栽種的／內植的」，形容那救人靈魂的道已經栽在人裏面		james/97-appendix-greek-vocabulary.md
 80-Jas	χρυσοδακτύλιος	χρυσοδακτύλιος	χρυσοδακτύλιος	A	2:2	「戴金戒指的」，一個雅各自己造的複合詞，活畫出那走進聚會的闊人		james/97-appendix-greek-vocabulary.md
 80-Jas	πολύσπλαγχνος	πολύσπλαγχνος	πολύσπλαγχνος	A	5:11	「滿心憐憫的」，字面是「多內臟的」（古人以內臟為情感、憐憫之所在），形容主向約伯所存的心腸		james/97-appendix-greek-vocabulary.md
-80-Jas	ἀκατάστατος	ἀκατάστατος	ἀκατάστατος	A	1:8	「不安定的／動盪不安的」，先用來形容心懷二意之人，後用來形容舌頭本身		james/97-appendix-greek-vocabulary.md
+80-Jas	ἀκατάστατος	ἀκατάστατος	ἀκατάστατος	A	1:8;3:8	「不安定的／動盪不安的」，先用來形容心懷二意之人，後用來形容舌頭本身		james/97-appendix-greek-vocabulary.md
 80-Jas	ῥυπαρός	ῥυπαρός	ῥυπαρός	A	2:2	「骯髒的／破舊的」，形容窮人襤褸的衣服		james/97-appendix-greek-vocabulary.md
 80-Jas	ἀνυπόκριτος	ἀνυπόκριτος	ἀνυπόκριτος	A	3:17	「不裝假的／真誠的」，從上頭來的智慧最後一個特質		james/97-appendix-greek-vocabulary.md
 80-Jas	κατακαυχᾶται	κατακαυχάομαι	κατακαυχάομαι	A	2:13	「誇勝／自誇壓過」，正面用於「憐憫向審判誇勝」，反面用於「自誇說謊話抵擋真道」		james/97-appendix-greek-vocabulary.md
@@ -2403,7 +2373,7 @@ book	headword	lemmas	key	level	refs	gloss	note	source
 84-2Jn	ἀπολαμβάνω	ἀπολαμβάνω	ἀπολαμβάνω	A	1:8	領受、得著（應得的）	ἀπο- 帶「如數領回」的意思；與 ἀπόλλυμι 同一字頭，方向相反	john2/06-lose-not-the-work.md
 84-2Jn	προάγω	προάγω	προάγω	A	1:9	往前走、走在前頭、越過	在約翰著作中只出現在本節；普盧默說此字在符類福音與使徒行傳頗常見。拜占庭抄本作 παραβαίνω（違犯），KJV 譯 transgresseth	john2/07-abide-in-the-teaching.md
 84-2Jn	μένω	μένω	μένω	A	1:2;1:9	住、存留、常守	本書共三次：真理「存在」我們裏面（2節），人「常守」基督的教訓（9節兩次）。約翰一書用了二十四次，是約翰書信最核心的動詞之一	john2/07-abide-in-the-teaching.md
-84-2Jn	διδαχή	διδαχή	διδαχή	A	1:9	教訓、教導的內容	在約翰著作中共六次：約7:16、7:17、18:19，與本書三次。約7:16「我的教訓不是我自己的，乃是那差我來者的」	john2/07-abide-in-the-teaching.md
+84-2Jn	διδαχή	διδαχή	διδαχή	A	1:9;1:10	教訓、教導的內容	在約翰著作中共六次：約7:16、7:17、18:19，與本書三次。約7:16「我的教訓不是我自己的，乃是那差我來者的」	john2/07-abide-in-the-teaching.md
 84-2Jn	τοῦ Χριστοῦ	ὁ;Χριστός	Χριστός	A	1:9	基督的（屬格）	可以讀作「基督所教導的」（主詞屬格），也可以讀作「關於基督的教導」（受詞屬格）；見下段	john2/07-abide-in-the-teaching.md
 84-2Jn	ἔχω	ἔχω	ἔχω	A	1:9	有、擁有	「沒有神」「有父又有子」；同約一2:23、5:12「人有了神的兒子就有生命」	john2/07-abide-in-the-teaching.md
 84-2Jn	φέρει	φέρω	φέρω	A	1:10	帶著、帶來（現在式）	不是「說了一兩句錯話」，而是帶著一套信息上門。約翰福音15章用同一個動詞說「結果子」（約15:2、5、8），一個人帶來甚麼，就顯出他是誰	john2/08-the-door-of-the-house.md

@@ -83,6 +83,18 @@ def short_gloss(g):
     return g if 0 < len(g) <= 18 else ""
 
 
+def phrase_gloss(g):
+    """Phrase / contrast headwords keep the whole gloss (cutting at '／' would give only the first word's meaning)."""
+    g = gc.clean(g)
+    if gc.CONFLICT.search(g):
+        g = re.sub(r"[（(][^）)]*(?:無條件|不求回報|神聖的愛|友誼的愛)[^）)]*[）)]", "", g).strip()
+        if gc.CONFLICT.search(g):
+            return ""
+    if len(g) > 40:
+        g = balance(re.split(r"[；;]", g)[0].strip())
+    return g if 0 < len(g) <= 40 else ""
+
+
 def display_head(row, lemma):
     ws = row["headword"].split()
     if len(ws) == 1:
@@ -107,19 +119,19 @@ def main():
             omitted["nolemma"] += 1; continue
         if len(ws) == 1:
             if pos.get(lems[0]) in STOP_POS or lems[0] == "εἰμί":
-                omitted["function"] += 1; continue
+                omitted["function"] += 1; omitted["single"] += 1; continue
             single[lems[0]][r["book"]].append(r)
             g = short_gloss(r["gloss"])
             if g: gloss_by_lemma[lems[0]][g] += 1
         else:
             if all(pos.get(l) in STOP_POS or l == "εἰμί" for l in lems) and not (len(ws) == 2 and norm(ws[0]) == "εγω" and norm(ws[1]) == "ειμι"):
-                omitted["function"] += 1; continue
+                omitted["function"] += 1; omitted["phrase"] += 1; continue
         r["_lemma"] = lems[0] if len(ws) == 1 else ""
         by_book[r["book"]][r["headword"]].append(r)
     shown = sum(len(rs) for ent in by_book.values() for rs in ent.values())
     lvl_shown = collections.Counter(r["level"] for ent in by_book.values() for rs in ent.values() for r in rs)
     # vetted glossary only (series glosses for very common words are verse-specific); no vetted gloss -> a dash
-    gl = lambda k: gd.GLOSS.get(k) or (gloss_by_lemma[k].most_common(1)[0][0] if gloss_by_lemma[k] else "—")
+    gl = lambda k: gd.GLOSS.get(k) or "—"   # a lemma meaning comes only from the vetted glossary; series glosses are verse-specific
     vet = lambda k: gd.GLOSS.get(k) or "—"
     n_entries = sum(len(v) for v in by_book.values())
     books_with = sum(1 for b in ORDER if by_book.get(b))
@@ -146,9 +158,9 @@ def main():
 | C | 原記錄沒有經節或章，字確實出現在**本卷**的某處 | {tiers['C']:,} | 標「（本卷）」 |
 | 剔除 | 通不過所屬級別的核對 | {dropped:,} | 不收入 |
 
-**不是每條通過的記錄都印出來。** 單一個字的記錄，若那個字是冠詞、介系詞、連接詞、代名詞或「是」動詞（εἰμί），不算「查過的字」，略去 {omitted['function']:,} 條；因此卷二各卷的表一共印出 {shown:,} 條（A {lvl_shown['A']:,}、B {lvl_shown['B']:,}、C {lvl_shown['C']:,}），合併同一卷內相同的詞目後是 {n_entries:,} 列。兩個以上的字組成的詞組（如 ἐγώ εἰμι）照原樣印出，意思與註解屬於整個詞組，不掛在單一個字上；兩份索引則只收單字詞目。
+**不是每條通過的記錄都印出來。** 單一個字的記錄，若那個字是冠詞、介系詞、連接詞、代名詞或「是」動詞（εἰμί），不算「查過的字」，略去 {omitted['single']:,} 條；另有 {omitted['phrase']:,} 條詞組整個都是這類小字（如 ἐντὸς ὑμῶν），也略去；因此卷二各卷的表一共印出 {shown:,} 條（A {lvl_shown['A']:,}、B {lvl_shown['B']:,}、C {lvl_shown['C']:,}），合併同一卷內相同的詞目後是 {n_entries:,} 列。其餘兩個以上的字組成的詞組（如 ἐγώ εἰμι）照原樣印出，意思與註解屬於整個詞組，不掛在單一個字上，對照式的詞組（如 περιτομή ἀκροβυστία）意思欄印完整的對照；兩份索引則只收單字詞目，意思欄只取本書人工字彙表，沒有就留破折號。
 
-**怎麼讀這些級別：** 「通過」只保證那個希臘字確實出現在所標的位置，**不保證**中文意思或註解在神學上說得對。B 級的「章」，是從原稿自己引用的經節推出來的；若推出的章超過兩章，就說不出具體位置，一律降為 C 級。拿有經節的記錄回測這個推法（{METRICS['n']:,} 條，含重複）：推出一兩章且包含真正章次的占 {pct(METRICS['true'])}，推出的章太多而會降級的占 {pct(METRICS['wide'])}，推出的章都不含該字的占 {pct(METRICS['none'])}。註解欄是各卷作者當時寫的話，原文照錄（過長者只取第一句）；與第五章論證衝突的說法（如「無條件的愛」）、以及註解作者自己數出的次數或處數，一律略去，沒有逐條重算。涉及其他經卷或七十士譯本的說法，不在這份語料的核對範圍內。
+**怎麼讀這些級別：** 「通過」只保證那個希臘字確實出現在所標的位置，**不保證**中文意思或註解在神學上說得對。B 級的「章」，是從原稿自己引用的經節推出來的；若推出的章超過兩章，就說不出具體位置，一律降為 C 級。拿有經節的記錄回測這個推法（{METRICS['n']:,} 條，含重複）：推出一兩章且包含真正章次的占 {pct(METRICS['true'])}，推出的章太多而會降級的占 {pct(METRICS['wide'])}，推出的章都不含該字的占 {pct(METRICS['none'])}，推出一兩章但沒有一章是真正章次的占 {pct(METRICS['miss'])}。註解欄是各卷作者當時寫的話，原文照錄（過長者只取第一句）；與第五章論證衝突的說法（如「無條件的愛」）、以及註解欄裏作者自己數出的次數或處數，一律略去；**意思欄裏偶爾留有的次數說法照錄，沒有逐條重算**（抽查都與語料相符，但不是全部核對）。涉及其他經卷或七十士譯本的說法，不在這份語料的核對範圍內。
 
 每卷開頭的兩張表，詞數、次數、詞目與排序由語料計算；「常見意思」欄則取自本書的人工字彙表，沒有的就留破折號。
 
@@ -196,9 +208,9 @@ def main():
                      "| 詞目 | 意思（原註） | 位置 | 原註解 |", "|------------------------|------------------|----------------|------------------------------------------|"]
             def sortkey(item):
                 k, rs = item
-                refs = [x for r in rs for x in re.findall(r"(\d+):(\d+)", r["refs"])]
+                refs = [x for r in rs if r["level"] == "A" for x in re.findall(r"(\d+):(\d+)", r["refs"])]
                 chap = [int(c) for r in rs if r["level"] == "B" for c in re.findall(r"\d+", r["refs"])]
-                first = min([int(c) for c, _ in refs] + chap) if (refs or chap) else 999
+                first = min([int(c) for c, _ in refs]) if refs else (min(chap) if chap else 999)
                 return (first, norm(k))
             for k, rs in sorted(ent.items(), key=sortkey):
                 a = sorted({x for r in rs if r["level"] == "A" for x in r["refs"].split(";") if x},
@@ -210,8 +222,11 @@ def main():
                     place = "第 " + "、".join(map(str, bch[:4])) + " 章"
                 else:
                     place = "（本卷）"
-                g = next((short_gloss(r["gloss"]) for r in rs if short_gloss(r["gloss"])), "")
-                note = next((n for n in (gc.short_note(r["note"]) for r in rs) if n and len(n) <= 70), "")
+                top = "A" if a else ("B" if bch else "C")
+                rs_top = [r for r in rs if r["level"] == top]       # gloss and note come from the rows that give the place shown
+                gf = short_gloss if rs[0]["_lemma"] else phrase_gloss
+                g = next((gf(r["gloss"]) for r in rs_top if gf(r["gloss"])), "")
+                note = next((n for n in (gc.short_note(r["note"]) for r in rs_top) if n and len(n) <= 70), "")
                 body.append(f"| {display_head(rs[0], rs[0]['_lemma'])} | {esc(g)} | {place} | {esc(note)} |")
             body.append("")
         write(f"p2-{bi:02d}-{SLUG[b]}.md", f"{ZH[b]}的希臘文", "\n".join(body))
@@ -225,7 +240,7 @@ def main():
     multi = sorted(((k, bs) for k, bs in studied.items() if len(bs) >= 2), key=lambda kv: (-len(kv[1]), norm(kv[0])))
     cb = ["# 跨卷字表 (Words Studied in More Than One Book) {.unnumbered}", "",
           f"單字詞目中，被兩卷以上列過的字，共 {len(multi):,} 個。「位置」只列 A 級（逐節核對）的經節，每卷最多兩處；沒有經節的卷只列卷名。"
-          "意思欄取自本書人工字彙表，沒有的取本系列單字記錄中最常見的一個。", "",
+          "意思欄只取本書人工字彙表，沒有的留破折號。", "",
           "| 詞目 | 新約次數 | 意思（原註） | 被查過的卷與位置 |", "|----------------------|----------|------------------------|--------------------------------------------|"]
     for k, bs in multi:
         parts = []
@@ -250,6 +265,15 @@ def main():
         books = "、".join(SHORT[b] for b in ORDER if b in studied[k])
         gi.append(f"| {k} | {esc(gl(k))} | {books} |")
     write("p2-91-greek-term-index.md", "希臘字索引", "\n".join(gi))
+    G = os.path.join(OUT, "generated")
+    open(os.path.join(G, "ledger-98-collect.md"), "w", encoding="utf-8").write(
+        "| 蒐集 | `scripts/extract-greek-wordstudy-v2.py` 讀取二十七卷新約研讀（含 `pauline-epistles/` 下的歌羅西書、提摩太前後書、提多書）裏所有含「希臘文／原文」欄的表格，不論有沒有經節欄；去除各譯本版本的重複後得 %s 條記錄（本列與下兩列的數字由程式從帳目產生） |\n" % format(len(all_rows), ","))
+    open(os.path.join(G, "ledger-98-grade.md"), "w", encoding="utf-8").write(
+        "| 核對與分級 | 逐條對 SBLGNT 語料核對，依證據強弱分級：**A** 標示的希臘字都在所引經節（%s 條；經節取自位置欄，位置欄是空的則取自註解裏引用的本卷經節）；**B** 沒有經節，但都在該篇所討論的章（%s 條；章由原稿自己引用的經節推出，且只列真的含該字的章；用有經節的記錄回測，推出一兩章且包含真正章次的占 %s，推出的章多於兩章而降為 C 的占 %s）；**C** 沒有經節或章，字確實出現在本卷（%s 條）；**剔除** 通不過所屬級別（%s 條）。帳目存於 `docs/sources/biblegreek/wordstudy-ledger-v2.tsv` |\n"
+        % (format(tiers["A"], ","), format(tiers["B"], ","), pct(METRICS["true"]), pct(METRICS["wide"]), format(tiers["C"], ","), format(dropped, ",")))
+    open(os.path.join(G, "ledger-98-adopt.md"), "w", encoding="utf-8").write(
+        "| 採用 | 卷二：A、B、C 三級中，單字詞目若是冠詞、介系詞、連接詞、代名詞或 `εἰμί` 則略去（%d 條），詞組整個都是這類小字的也略去（%d 條），其餘 %s 條各標明級別，詞組照原樣印出、意思不掛在單一個字上，索引只收單字詞目；附錄〈核心字在各卷的用法〉：只收 A 級的單字詞目；詞目、次數、經節摘錄由語料計算（已去掉 SBLGNT 的版本校勘記號）；「意思」與「註解」欄是各卷作者當時寫的原文（過長者只取第一句），含「無條件的愛」一類與第五章衝突的說法、含作者自己數出的次數或處數的註解（只要出現「N 次」「N 處」「N 回」就略去，未逐條重算），已略去；意思欄裏偶爾留有的次數說法照錄 |\n"
+        % (omitted["single"], omitted["phrase"], format(shown, ",")))
     stats = {"ledger_rows": len(all_rows), "A": tiers["A"], "B": tiers["B"], "C": tiers["C"], "X": dropped, "omitted_function": omitted["function"],
              "shown_rows": shown, "shown_A": lvl_shown["A"], "shown_B": lvl_shown["B"], "shown_C": lvl_shown["C"], "entries": n_entries,
              "books_with_tables": books_with, "cross_book": len(multi), "index": len(studied)}

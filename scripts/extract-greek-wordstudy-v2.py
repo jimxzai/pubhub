@@ -232,7 +232,8 @@ def main():
                     words = GWORD.findall(clean_head(head))
                     if not words:
                         continue
-                    refs = parse_refs(loc, book, 1 if book in ONE_CHAPTER else None) or note_refs(note + " " + gloss, nchap[book])
+                    refs = parse_refs(loc, book, 1 if book in ONE_CHAPTER else None)
+                    refs = list(dict.fromkeys(refs + note_refs(loc, nchap[book]))) or note_refs(note + " " + gloss, nchap[book])
                     refs_ok = [(c, v) for c, v in refs if (book, c, v) in verse]
                     level, lemmas, shown = "C", [], ""
                     if refs_ok:
@@ -273,7 +274,7 @@ def main():
     for b in sorted(ABBR):
         print(f"{b:8s}", dict(pb[b]))
     if inf_tot:
-        json.dump({"n": inf_tot, "true": round(inf_true / inf_tot, 3), "wide": round(inf_wide / inf_tot, 3), "none": round(inf_none / inf_tot, 3)},
+        json.dump({"n": inf_tot, "true": round(inf_true / inf_tot, 3), "wide": round(inf_wide / inf_tot, 3), "none": round(inf_none / inf_tot, 3), "miss": round(1 - (inf_true + inf_wide + inf_none) / inf_tot, 3)},
                   open(os.path.join(os.path.dirname(OUT), "wordstudy-metrics.json"), "w"))
         print(f"chapter inference on {inf_tot} A rows with an inferred chapter set: "
               f"1-2 chapters incl. a true one: {inf_true/inf_tot:.1%}; too wide (>2, demoted to C): {inf_wide/inf_tot:.1%}; "
