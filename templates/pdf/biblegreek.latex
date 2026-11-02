@@ -1,0 +1,847 @@
+% PubHub Biblegreek Template (讀懂聖經的希臘文) — derived from templates/pdf/micah.latex,
+% which is derived from templates/pdf/revelation.latex: the same full-bleed front cover / back cover
+% machinery as Revelation and the Gospel of John, the Revelation navy palette, and the repo's already-fixed
+% template machinery (chaptermark, blank-verso fix, Greek/Hebrew transitions, hyperxmp metadata).
+% Professional Bible Study Book Layout — "有何神像你" Who Is a God Like You? theme
+% Bilingual Chinese/English with Greek word studies
+% Requires XeLaTeX for CJK support
+
+\documentclass[11pt,openany]{book}
+
+%% ============================================
+%% FONT SETUP WITH CJK LINE BREAKING
+%% ============================================
+\usepackage{fontspec}
+
+%% BoldFont fix (see .claude/skills/eat-bible/references/gotchas.md):
+%% "Songti SC Bold" has missing/mismatched glyphs for full-width punctuation
+%% (：。), so xelatex silently *weakens* any \textbf run containing them
+%% instead of erroring — zero warnings, exit code 0. Nearly every bolded
+%% Chinese phrase in this book contains such punctuation. Pointing BoldFont at
+%% the same regular file with FakeBold guarantees identical glyph coverage, so
+%% the fallback cannot trigger.
+%%
+%% Confirmed by isolated repro, per the skill's instruction to measure rather
+%% than eyeball: the CJK line renders visibly lighter with BoldFont=Songti SC
+%% Bold and unambiguously heavier with FakeBold.
+%%
+%% The same repro showed the reverse for the Latin/Greek/Hebrew families
+%% below: Baskerville, Times New Roman and Arial Hebrew all have real bold
+%% faces with complete coverage for the script they actually render, and
+%% fontspec's auto-detected bold beats a synthetic one there. So FakeBold is
+%% applied to the CJK families ONLY, not blanket-applied to every
+%% \newfontfamily.
+\setmainfont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
+  ItalicFont=Kaiti SC
+]
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+\setmonofont{Songti SC}[
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2}
+]
+
+%% Greek and Hebrew font support - auto-switch for Unicode blocks.
+%% These keep their real bold faces deliberately — see the note above.
+\usepackage{ucharclasses}
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge.
+% Same fix as templates/pdf/jeremiah.latex and isaiah.latex.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+\newfontfamily\cjkfallbackfont{Songti SC}[
+  ItalicFont=Kaiti SC,
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2}
+]
+
+%% Classical English typeface — auto-switch for Latin-script runs so
+%% bilingual scripture/quote blocks render in a period-appropriate serif
+%% instead of Songti SC's built-in Latin glyphs. Baskerville for running
+%% text; Didot reserved for large display lines (invoked explicitly).
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
+\newfontfamily\didotfont{Didot}
+% Alias matching the naming convention used on the full-bleed cover pages
+\newcommand{\baskervillefont}{\basklatin}
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek", "Latin", "CJK" are GROUPS; "Han" is neither. Feeding a group name
+%% (or a nonexistent one) to the 3-arg form compiles fine and does nothing.
+%% Three of this template's five original transitions were dead: {Greek}
+%% (block is GreekAndCoptic), {Han} (block is CJKUnifiedIdeographs) and
+%% {Latin} (group form is \setTransitionsForLatin).
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a
+%% later declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Declare HalfwidthAndFullwidthForms after GreekExtended and the former's
+%% out-code clobbers the latter's in-code for the pair (full-width → Greek).
+%% Observable symptom: a Greek or Hebrew run whose PRECEDING character is CJK
+%% or full-width punctuation (：、。） silently does not switch font. It was
+%% invisible here only because Songti SC happens to carry basic Greek glyphs.
+%%
+%% FIX: use \setTransitionTo, which sets the entering direction ONLY and never
+%% touches the leaving direction. With every block in play given an explicit
+%% destination there is nothing to clobber and declaration order stops
+%% mattering. Verified: 0 missing glyphs across a stress test covering
+%% italic/bold book titles, mixed CJK+Latin bold, polytonic Greek, Hebrew
+%% beside digits, full-width punctuation, macron transliterations and arrows.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which is what
+%% drops \emph and \textbf on a Latin run inside CJK prose.
+\makeatletter
+\newcommand{\uckeep}[1]{%
+  \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
+  #1\fontshape{\uc@sh}\fontseries{\uc@se}\selectfont}
+\makeatother
+\newcommand{\ucLatinRun}{\uckeep{\basklatin}}
+\newcommand{\ucCJKRun}{\uckeep{\cjkfallbackfont}}
+\newcommand{\ucGreekRun}{\uckeep{\greekfont}}
+\newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block these books actually contain, measured over the
+%% markdown sources. Anything not listed keeps the main font.
+\setTransitionTo{BasicLatin}{\ucLatinRun}
+\setTransitionTo{LatinSupplement}{\ucLatinRun}
+\setTransitionTo{LatinExtendedA}{\ucLatinRun}
+\setTransitionTo{GreekAndCoptic}{\ucGreekRun}
+\setTransitionTo{GreekExtended}{\ucGreekRun}
+\setTransitionTo{Hebrew}{\ucHebrewRun}
+\setTransitionTo{CJKUnifiedIdeographs}{\ucCJKRun}
+\setTransitionTo{CJKSymbolsAndPunctuation}{\ucCJKRun}
+\setTransitionTo{HalfwidthAndFullwidthForms}{\ucCJKRun}
+\setTransitionTo{GeneralPunctuation}{\ucCJKRun}
+\setTransitionTo{BoxDrawing}{\ucCJKRun}
+\setTransitionTo{Arrows}{\ucCJKRun}
+\setTransitionTo{MathematicalOperators}{\ucCJKRun}
+\setTransitionTo{GeometricShapes}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbols}{\ucCJKRun}
+\setTransitionTo{SuperscriptsAndSubscripts}{\ucCJKRun}
+\setTransitionTo{Dingbats}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndArrows}{\ucCJKRun}
+\setTransitionTo{LetterlikeSymbols}{\ucCJKRun}
+\setTransitionTo{EnclosedAlphanumerics}{\ucCJKRun}
+\setTransitionTo{BlockElements}{\ucCJKRun}
+\setTransitionTo{MiscellaneousTechnical}{\ucCJKRun}
+\setTransitionTo{Hiragana}{\ucCJKRun}
+\setTransitionTo{Katakana}{\ucCJKRun}
+\setTransitionTo{CJKCompatibilityForms}{\ucCJKRun}
+\setTransitionTo{SmallFormVariants}{\ucCJKRun}
+\setTransitionTo{VerticalForms}{\ucCJKRun}
+\setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
+\setTransitionTo{Emoticons}{\ucCJKRun}
+\setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
+\setTransitionTo{NumberForms}{\ucCJKRun}
+\setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (ḥesed U+1E25 "LatinExtendedAdditional",
+%% tsade ṣ U+1E63 "LatinExtendedAdditional", ʿayin's modifier letter U+02BF
+%% "SpacingModifierLetters") used throughout the Word Study sections.
+%%
+%% THE REAL BUG (found the hard way): ucharclasses' \XeTeXinterchartoks fires
+%% on a character's Unicode class as XeTeX's own primitive lexer processes it,
+%% which is NOT the same thing as, and fires AFTER, ordinary TeX font
+%% selection — so it overrides ANY manual font switch for a block that has a
+%% registered transition, including one from inside an explicit
+%% `{\somefont ...}` group, and even for a character produced indirectly via
+%% \symbol{<codepoint>} rather than typed literally. A \newunicodechar
+%% attempt and a manual `{\translitfont ...}`-wrapping attempt both failed
+%% against this for exactly that reason — there is no overriding
+%% ucharclasses per-character from inside its own mapped blocks. The only
+%% real fix is to make the BLOCK'S OWN mapping point at a font that has the
+%% glyphs. IPAExtensions (used elsewhere in this book's Hebrew vowel-pointing
+%% discussion) already worked fine going to \ucCJKRun and is left alone.
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+
+%% Enable CJK line breaking - critical for Chinese text
+\XeTeXlinebreaklocale "zh"
+\XeTeXlinebreakskip = 0pt plus 1pt minus 0.1pt
+
+%% ============================================
+%% PAGE GEOMETRY
+%% ============================================
+\usepackage{geometry}
+\geometry{
+  paperwidth=7in,
+  paperheight=10in,
+  top=0.75in,
+  bottom=0.75in,
+  inner=0.8in,
+  outer=0.65in,
+  marginparwidth=0in,
+  marginparsep=0in
+}
+
+%% ============================================
+%% LINE AND PARAGRAPH SPACING
+%% ============================================
+\linespread{1.1}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.3em}
+
+%% ============================================
+%% COLOR SCHEME - Micah Theme (mountain slate-green / royal gold)
+%% ============================================
+\usepackage{xcolor}
+
+% Primary colors - throne-room / marriage-of-the-Lamb theme
+\definecolor{ChapterBlue}{RGB}{20,32,72}         % Royal navy for chapters
+\definecolor{ScriptureGold}{RGB}{175,135,45}     % Royal gold for scripture refs
+\definecolor{CommentaryBrown}{RGB}{95,45,25}     % Rich brown for commentary
+
+% Cover gradient (navy, dark at top to a richer royal blue at bottom)
+\definecolor{NavyDark}{RGB}{10,16,42}
+\definecolor{NavyLight}{RGB}{32,52,108}
+
+% Box colors
+\definecolor{ScriptureBg}{RGB}{253,250,244}      % Cream for scripture boxes
+\definecolor{GreekBg}{RGB}{253,246,246}          % Light rose for Greek
+\definecolor{ApplicationBg}{RGB}{248,252,248}    % Light green for application
+
+% Text colors
+\definecolor{TextGray}{RGB}{50,50,50}
+\definecolor{LightGray}{RGB}{120,120,120}
+
+% Red letter Bible - Jesus's words (#CC0000), matching the gospel templates
+\definecolor{JesusRed}{RGB}{204,0,0}
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
+
+% Diagram colors - two camps (Lamb's bride vs. the harlot)
+\definecolor{OldCovenantRed}{RGB}{150,40,40}     % Babylon / the beast
+\definecolor{NewCovenantGreen}{RGB}{60,120,80}   % New Jerusalem / the Lamb
+
+%% ============================================
+%% MATH AND SYMBOLS
+%% ============================================
+\usepackage{amssymb}
+\usepackage{amsmath}
+
+%% ============================================
+%% GRAPHICS AND TIKZ FOR DIAGRAMS
+%% ============================================
+\usepackage{graphicx}
+\usepackage{tikz}
+\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{pgfornament}
+
+%% ============================================
+%% TIKZ COMMANDS FOR DECORATIONS
+%% ============================================
+
+% Crown decoration (used in body text, not on the full-bleed covers)
+\newcommand{\crownsymbol}{%
+\begin{tikzpicture}[scale=0.16]
+  \draw[color=ScriptureGold,line width=1.5pt] (-1,-0.6) -- (-1,0.4) -- (-0.5,-0.1) -- (0,0.6) -- (0.5,-0.1) -- (1,0.4) -- (1,-0.6) -- cycle;
+  \fill[color=ScriptureGold] (0,0.6) circle (0.12);
+\end{tikzpicture}%
+}
+
+% Lamb/throne symbol (simple stylized emblem)
+\newcommand{\lambsymbol}{%
+\begin{tikzpicture}[scale=0.2]
+  \draw[color=ScriptureGold,line width=1pt] (-0.5,0) -- (0.5,0);
+  \draw[color=ScriptureGold,line width=1pt] (0,0) -- (0,0.9);
+  \fill[color=ScriptureGold] (0,0.9) circle (0.15);
+\end{tikzpicture}%
+}
+
+% Classical printer's-ornament divider: thin rule — fleuron — thin rule
+\newcommand{\ornamentdivider}[1][2in]{%
+  {\color{ScriptureGold}\rule{#1}{0.4pt}}\hspace{0.15cm}%
+  \raisebox{-0.22cm}{\pgfornament[width=0.5cm,color=ScriptureGold]{88}}%
+  \hspace{0.15cm}{\color{ScriptureGold}\rule{#1}{0.4pt}}%
+}
+
+% A single small fleuron (no rules), used standalone on the full-bleed
+% cover pages and the dedication/colophon pages.
+\newcommand{\fleuron}[1][ScriptureGold]{%
+  \pgfornament[width=0.55cm,color=#1]{88}%
+}
+
+% Classical double-rule (hairline) frame
+\newcommand{\classicalframe}[1]{%
+\begin{tikzpicture}
+  \node[fill=ScriptureBg,inner sep=14pt] (box) {#1};
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-3pt,-3pt)$$) rectangle ($$(box.north east)+(3pt,3pt)$$);
+  \draw[color=ScriptureGold,line width=0.4pt] ($$(box.south west)+(-6pt,-6pt)$$) rectangle ($$(box.north east)+(6pt,6pt)$$);
+\end{tikzpicture}%
+}
+
+%% ============================================
+%% FULL-BLEED COVER MACHINERY (front/back cover only)
+%% ============================================
+\usepackage{eso-pic}
+\usepackage{lettrine}
+
+% Full-bleed navy gradient background, painted in the shipout background
+% hook so it bleeds to the true physical page edge and does not disturb
+% the \geometry text-block margins used by every other page.
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=NavyDark,bottom color=NavyLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+
+% Classical book-plate border: two inset hairlines plus a small corner
+% ornament at each corner, painted in the foreground hook.
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+
+% A small consistent publisher's device, reused on the half-title page,
+% the front cover, and the closing colophon page.
+\newcommand{\publishersmark}[1][ScriptureGold]{%
+  \pgfornament[width=0.4cm,color=#1]{38}%
+}
+
+% Light-on-dark cover text colors (defined once, used on both covers)
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{212,178,90}
+\definecolor{CoverMuted}{RGB}{188,183,166}
+
+%% ============================================
+%% HYPERLINKS
+%% ============================================
+\usepackage{hyperref}
+\usepackage{hyperxmp}
+\hypersetup{
+  colorlinks=true,
+  linkcolor=ChapterBlue,
+  urlcolor=ScriptureGold,
+  bookmarks=true,
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={新手讀經入門：不必先學希臘文，也能聰明利用希臘文——字母、文法速查、查字、逐字讀約翰福音 1:1-5、字彙與詩歌記憶},
+  pdfkeywords={希臘文, 新約, 讀經, 查字, 文法, 約翰福音, Greek, MorphGNT, SBLGNT, 聖經研讀, Bible Study},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
+}
+
+%% ============================================
+%% TABLES
+%% ============================================
+\usepackage{longtable}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{calc}
+
+\setlength{\LTleft}{0pt}
+\setlength{\LTright}{0pt}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+\renewcommand{\arraystretch}{1.2}
+
+\usepackage{etoolbox}
+\makeatletter
+\patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
+\@ifundefined{c@none}{\newcounter{none}}{}
+\makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long cells from wrapping to a few characters per line (as jeremiah/isaiah/luke).
+\AtBeginEnvironment{longtable}{\small}
+
+\renewcommand{\toprule}{\hline\hline}
+\renewcommand{\midrule}{\hline}
+\renewcommand{\bottomrule}{\hline\hline}
+
+%% ============================================
+%% HEADERS AND FOOTERS
+%% ============================================
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[LE,RO]{\small\thepage}
+\fancyhead[LO]{\small\itshape\color{LightGray}\nouppercase{\rightmark}}
+\fancyhead[RE]{\small\itshape\color{LightGray}\nouppercase{\leftmark}}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\headrule}{\hbox to\headwidth{\color{ScriptureGold}\leaders\hrule height \headrulewidth\hfill}}
+\fancypagestyle{plain}{%
+  \fancyhf{}
+  \fancyfoot[C]{\small\thepage}
+  \renewcommand{\headrulewidth}{0pt}
+}
+
+%% ============================================
+%% SECTION STYLING (manual, without titlesec)
+%% ============================================
+\makeatletter
+\def\@makechapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright \normalfont
+    \ifnum \c@secnumdepth >\m@ne
+      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \par\nobreak
+      \vskip 8pt
+    \fi
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 10pt
+    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
+    \vskip 15pt
+  }}
+\def\@makeschapterhead#1{%
+  \vspace*{15pt}%
+  {\parindent \z@ \raggedright
+    \normalfont
+    \interlinepenalty\@M
+    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \vskip 8pt
+    {\color{ScriptureGold}\rule{\linewidth}{0.6pt}}\vskip 1.5pt{\color{ScriptureGold}\rule{\linewidth}{0.6pt}}
+    \vskip 15pt
+  }}
+
+\renewcommand\section{\@startsection {section}{1}{\z@}%
+  {-2.5ex \@plus -0.5ex \@minus -.2ex}%
+  {1.5ex \@plus.2ex}%
+  {\normalfont\large\bfseries\color{ChapterBlue}}}
+\renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
+  {-2ex\@plus -0.5ex \@minus -.2ex}%
+  {1ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{CommentaryBrown}}}
+\renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
+  {-1.5ex\@plus -0.5ex \@minus -.2ex}%
+  {0.8ex \@plus .2ex}%
+  {\normalfont\normalsize\bfseries\color{TextGray}}}
+\makeatother
+
+% Number chapters only (book class default of 2 would print academic-style
+% decimal numbers like "9.6.1" on every ## and ### heading inside a chapter —
+% reads like a thesis, not a devotional study book. Chapter numbering itself
+% is handled separately in \@makechapterhead above and is unaffected by this.
+\setcounter{secnumdepth}{-1}  % chapter titles carry their own 第N章 (see eat-bible gotchas)
+% Clean running heads (raw chapter/section title only), and give every \chapter*
+% (front matter, appendices) its own running head instead of inheriting the last
+% numbered chapter's. Same fixes as templates/pdf/jeremiah.latex / ruth.latex.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\makeatletter
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+% \cleardoublepage's inserted blank verso must be truly blank (no folio).
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
+
+%% ============================================
+%% BLOCKQUOTE STYLING
+%% ============================================
+\renewenvironment{quote}{%
+  \par\vspace{0.3\baselineskip}%
+  \list{}{%
+    \leftmargin=0.5em
+    \rightmargin=0.2em
+    \parsep=0pt
+    \itemsep=0pt
+  }%
+  \item\relax
+  \small\color{TextGray}%
+}{%
+  \endlist
+  \par\vspace{0.3\baselineskip}%
+}
+
+%% ============================================
+%% WIDOW/ORPHAN AND LINE BREAKING
+%% ============================================
+\widowpenalty=10000
+\clubpenalty=10000
+\tolerance=9999
+\emergencystretch=6em
+\hyphenpenalty=50
+\exhyphenpenalty=50
+\sloppy
+\hbadness=10000
+\hfuzz=2pt
+
+%% ============================================
+%% METADATA
+%% ============================================
+$if(title)$
+\title{$title$}
+$endif$
+$if(author)$
+\author{$author$}
+$endif$
+$if(date)$
+\date{$date$}
+$else$
+\date{\today}
+$endif$
+
+%% ============================================
+%% PANDOC COMPATIBILITY
+%% ============================================
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+
+%% ============================================
+%% DOCUMENT
+%% ============================================
+\begin{document}
+
+%% --------------------------------------------
+%% FRONT MATTER
+%% --------------------------------------------
+\frontmatter
+\pagestyle{empty}
+
+% Front cover — full-bleed, light-on-dark — the true first page of the book
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
+\thispagestyle{empty}
+\color{CoverCream}
+\begin{center}
+\vspace*{1.1cm}
+
+\publishersmark[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\footnotesize\scshape\color{CoverMuted} Three Books Deep Reading \textbullet\ 三書精讀}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\vspace{0.6cm}
+
+% The one Greek word the whole book keeps returning to
+{\fontsize{44}{50}\selectfont\color{CoverGoldBright}{\greekfont λόγος}}\\[0.15cm]
+{\baskervillefont\itshape\small\color{CoverMuted} logos \textperiodcentered\ word \textperiodcentered\ 道}
+
+\vspace{0.6cm}
+
+% Main title
+{\fontsize{32}{38}\selectfont\bfseries\color{CoverCream} 讀懂聖經的希臘文}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} Reading the Greek New Testament}\\[0.1cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} A First Guide for New Bible Students}
+
+\vspace{0.7cm}
+
+% Key verse — thin gold rule frame, reading light on dark
+\begin{minipage}{4.4in}
+\centering
+{\color{CoverGoldBright}\rule{4.4in}{0.6pt}}
+\vspace{0.3cm}
+\small\color{CoverCream}
+{\greekfont Ἐν ἀρχῇ ἦν ὁ λόγος, καὶ ὁ λόγος ἦν πρὸς τὸν θεόν, καὶ θεὸς ἦν ὁ λόγος.}\\[0.35em]
+\itshape
+「太初有道，道與神同在，道就是神。」\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} In the beginning was the Word, and the Word was with God,\\
+and the Word was God. \textemdash\ John 1:1}
+\vspace{0.3cm}
+{\color{CoverGoldBright}\rule{4.4in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.6cm}
+
+{\normalsize\color{CoverGoldBright}\bfseries 先讀懂，再查證；先認得字，再談文法}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} Read first, verify second; learn the words before the grammar.}
+
+\vfill
+
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
+
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
+\end{center}
+\end{titlepage}
+\cleardoublepage
+
+% Half-title page — classical publishing convention, deliberately spare
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\publishersmark
+
+\vspace{0.5cm}
+
+{\fontsize{18}{22}\selectfont\color{ChapterBlue} 讀懂聖經的希臘文}\\[0.1cm]
+{\baskervillefont\itshape\small\color{LightGray} Reading the Greek New Testament}
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Overview page: the reading ladder, and how the chapters are grouped
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3cm}
+{\Large\bfseries\color{ChapterBlue} 全書地圖}\\[0.1cm]
+{\normalsize Map of the Book}
+
+\vspace{0.5cm}
+
+% The four-step reading ladder (chapter 2): each step is cheaper and more reliable than the next
+\begin{tikzpicture}[scale=0.72, transform shape, every node/.style={align=center}]
+  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (6.6,2.4) {四步讀經階梯 \textperiodcentered\ The Four-Step Reading Ladder};
+  \node[draw=ChapterBlue,fill=ChapterBlue!8,rounded corners,minimum width=3.0cm,minimum height=1.5cm,font=\footnotesize] (s1) at (0,0) {\textbf{一}\\用自己的話說};
+  \node[draw=ChapterBlue,fill=ChapterBlue!8,rounded corners,minimum width=3.0cm,minimum height=1.5cm,font=\footnotesize] (s2) at (4.4,0) {\textbf{二}\\對照譯本};
+  \node[draw=ScriptureGold,fill=ScriptureGold!12,rounded corners,minimum width=3.0cm,minimum height=1.5cm,font=\footnotesize] (s3) at (8.8,0) {\textbf{三}\\只查一個字};
+  \node[draw=ScriptureGold,fill=ScriptureGold!12,rounded corners,minimum width=3.0cm,minimum height=1.5cm,font=\footnotesize] (s4) at (13.2,0) {\textbf{四}\\用註釋核對};
+  \draw[->,thick,color=ScriptureGold] (s1.east) -- (s2.west);
+  \draw[->,thick,color=ScriptureGold] (s2.east) -- (s3.west);
+  \draw[->,thick,color=ScriptureGold] (s3.east) -- (s4.west);
+  \node[font=\tiny,color=LightGray] at (2.2,-1.25) {不用任何工具};
+  \node[font=\tiny,color=LightGray] at (11.0,-1.25) {才輪到原文與註釋};
+\end{tikzpicture}
+
+\vspace{0.7cm}
+
+{\small\bfseries\color{ChapterBlue} 全書怎麼走 \textperiodcentered\ How the Chapters Run}
+
+\vspace{0.25cm}
+\renewcommand{\arraystretch}{1.5}
+\begin{tabular}{@{}p{1.6cm}p{2.6cm}p{6.2cm}@{}}
+\toprule
+\textbf{起步} & 〈啟示的次序〉、第 1–2 章 & 神先說話，人才來讀；希臘文能幫你甚麼；四步階梯 \\
+\textbf{認字} & 第 3–4 章 & 字母；文法速查（格、冠詞、動詞） \\
+\textbf{查字} & 第 5–6 章 & 查字的正確姿勢；動詞的「樣子」 \\
+\textbf{實作} & 第 7 章 & 約翰福音 1:1-5 逐字讀 \\
+\textbf{積累} & 第 8–11 章 & 先認哪些字；工具與書單；八週計劃；用歌記 \\
+\textbf{卷二} & 二十七卷各一節 & 各卷的希臘文；跨卷字表；希臘字索引 \\
+\textbf{附錄} & 練習、地圖、字表 & 核心字在各卷的用法；前一百個字 \\
+\bottomrule
+\end{tabular}
+
+\vspace{0.6cm}
+{\footnotesize\color{LightGray} 全書的次數、逐字表與文法表，由 SBLGNT 語料用程式計算，不是憑記憶。}
+\end{center}
+\cleardoublepage
+
+% Dedication page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{0.7cm}
+
+{\itshape\large\color{CommentaryBrown}
+獻給每一位剛開始讀聖經的人——\\
+不必先學會希臘文，\\
+也可以聰明地使用它。}
+
+\vspace{0.8cm}
+
+{\baskervillefont\itshape\small\color{LightGray}
+To everyone just beginning to read the Bible:\\
+you do not have to learn Greek first\\
+to use it wisely.}
+
+\vspace{0.9cm}
+
+{\small\color{ScriptureGold} 你們查考聖經，因你們以為內中有永生；給我作見證的就是這經。}\\[0.15em]
+{\baskervillefont\footnotesize\itshape\color{LightGray} \textquotedblleft You search the Scriptures because you think that in them you have eternal life; it is these that testify about Me.\textquotedblright\ \textemdash\ John 5:39}
+
+\vspace{0.8cm}
+
+\fleuron
+\end{center}
+\vspace*{\fill}
+\cleardoublepage
+
+% Copyright page
+\thispagestyle{empty}
+\vspace*{\fill}
+\begin{flushleft}
+\small\color{TextGray}
+
+$if(copyright)$
+$copyright$
+$else$
+\textbf{讀懂聖經的希臘文 / Reading the Greek New Testament}\\[0.8em]
+
+Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
+All rights reserved.\\[0.8em]
+
+\textbf{聖經版本 / Bible Versions}\\
+中文：和合本 (CUV)\\
+English: New American Standard Bible (NASB 1995)\\[0.8em]
+
+本書為三書精讀項目成果之一。\\
+Part of the Three Books Deep Reading Project.
+$endif$
+
+\end{flushleft}
+\cleardoublepage
+
+% Table of contents — chapter-level only (book class default of 2 would
+% pull in every section/subsection from all concatenated files, ballooning
+% the TOC instead of a scannable chapter list).
+\setcounter{tocdepth}{0}
+\pagestyle{fancy}
+{\color{ChapterBlue}\tableofcontents}
+\cleardoublepage
+
+%% --------------------------------------------
+%% MAIN MATTER
+%% --------------------------------------------
+\mainmatter
+
+$body$
+
+%% --------------------------------------------
+%% CLOSING COLOPHON — kept separate and short on purpose; appears
+%% before the back cover so the back cover is the true final page
+%% --------------------------------------------
+\backmatter
+\thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
+\begin{center}
+\fleuron
+
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你看見耶穌了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Do you see Jesus?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
+
+\vspace{0.3cm}
+
+{\footnotesize\color{LightGray} Soli Deo Gloria --- 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
+
+%% --------------------------------------------
+%% BACK COVER — full-bleed, light-on-dark, mirrors the front cover;
+%% the true final page of the book
+%% --------------------------------------------
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\Large\color{CoverGoldBright} $if(backcover-symbol)$$backcover-symbol$$else${\greekfont λόγος}$endif$}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "The Word"} · 道——貫穿全書的那個字}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.4cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+這本書寫給剛開始讀聖經的人：不教你學完整的希臘文，而是教你怎麼讀得懂、再用得對。從二十四個字母、文法速查，到查字的正確姿勢與常見的「原文說」謬誤；用約翰福音 1:1-5 做一次完整的逐字讀；並附上以真實計數為據的常用字表、各卷核心字的用法、新約二十七卷讀經地圖、練習與答案，幾首可以唱的歌；卷二更把本系列二十四卷研讀表格裏查過的希臘字，按書卷與跨卷整理（歌羅西書與提摩太前後書沒有可讀的表格），並標明每一條核對到哪一級。
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ first guide for new Bible students --- not a Greek course, but a way to read first and verify second: the alphabet, a grammar quick-reference, how to look up a word without being misled, a full word-by-word reading of John 1:1\textendash{}5, and every count computed from the SBLGNT corpus; Part Two lists, book by book, the Greek words in the word-study tables of twenty-four of the series' New Testament books, each marked by what could be verified.}
+$endif$
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\small\bfseries\color{CoverCream} 讀完之後，你能做七件事}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Seven Things You Will Be Able to Do}
+
+\vspace{0.3cm}
+
+\begin{minipage}{4.7in}
+\small\color{CoverCream}
+\begin{tabular}{@{}p{3.9cm}p{2.9cm}l@{}}
+把字母讀出聲 & \textit{\baskervillefont\color{CoverCream} Read the alphabet} & {\tiny\color{CoverMuted} 第 3 章}\\[0.25em]
+看懂形態與文法標注 & \textit{\baskervillefont\color{CoverCream} Read parsing and grammar} & {\tiny\color{CoverMuted} 第 4 章}\\[0.25em]
+不被「原文說」誤導 & \textit{\baskervillefont\color{CoverCream} Spot word-study fallacies} & {\tiny\color{CoverMuted} 第 5 章}\\[0.25em]
+看出動詞的「樣子」 & \textit{\baskervillefont\color{CoverCream} See the shape of a verb} & {\tiny\color{CoverMuted} 第 6 章}\\[0.25em]
+逐字讀約翰福音 1:1-5 & \textit{\baskervillefont\color{CoverCream} Read John 1:1\textendash{}5 word by word} & {\tiny\color{CoverMuted} 第 7 章}\\[0.25em]
+先認最該認的字 & \textit{\baskervillefont\color{CoverCream} Learn the right words first} & {\tiny\color{CoverMuted} 第 8 章}\\[0.25em]
+用歌記住 & \textit{\baskervillefont\color{CoverCream} Sing to remember} & {\tiny\color{CoverMuted} 第 11 章}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\color{CoverCream} {\greekfont Καὶ ὁ λόγος σὰρξ ἐγένετο}}\\[0.1cm]
+{\normalsize\itshape\color{CoverCream} 道成了肉身，住在我們中間。}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "And the Word became flesh, and dwelt among us." --- John 1:14}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.35cm}
+
+{\footnotesize\color{CoverMuted} \S\ Three Books Deep Reading \S\ 2026 \S}
+\end{center}
+
+\end{document}
