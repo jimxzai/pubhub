@@ -60,7 +60,26 @@ CONFLICT = re.compile(r"無條件|不求回報|不計回報|情感上的熱度|�
 NUMBER = re.compile(r"[\d一二三四五六七八九十百兩餘]+\s*(?:次|處|回)(?!的死)")  # counts quoted in a note are not re-verified here
 
 
-CLAUSE_DROP = re.compile(NUMBER.pattern + r"|字根|字源|同源|由此而來|衍生|見(?:上文|下方|上方|下文)[^，；。]*|見「[^」]*」(?:一節|專節|專題)|Strong's\s*\d+")
+CLAUSE_DROP = re.compile(NUMBER.pattern + r"|字根|字源|同源|由此而來|衍生|見(?:上文|下方|上方|下文|下表|下段|下)[^，；。）]*|見「[^」]*」(?:一節|專節|專題)?|見〈[^〉]*〉|Strong's\s*\d+")
+
+
+def fix_brackets(s):
+    """After clause removal or truncation: drop a fragment that ends in an unmatched closer, cut at an unmatched opener, trim edges."""
+    pairs = {"（": "）", "(": ")", "「": "」", "『": "』"}
+    closers = {v: k for k, v in pairs.items()}
+    changed = True
+    while changed:
+        changed = False
+        stack = []
+        for i, ch in enumerate(s):
+            if ch in pairs: stack.append((ch, i))
+            elif ch in closers:
+                if stack and stack[-1][0] == closers[ch]: stack.pop()
+                else:
+                    s = s[i + 1:]; changed = True; break
+        if not changed and stack:
+            s = s[:stack[0][1]]; changed = True
+    return s.strip("，；。,;、 —-").strip()
 
 
 def short_note(note):
@@ -76,11 +95,11 @@ def short_note(note):
             DROPPED["number"] += 1
             continue
         keep.append(cl)
-    note = "".join(keep).strip("，；。,; ")
+    note = fix_brackets("".join(keep).strip("，；。,; "))
     if len(note) <= 100:
-        return note
-    cut = re.split(r"[。；]", note)[0]
-    return cut if 12 <= len(cut) <= 110 else ""
+        return note if len(note) >= 2 else ""
+    cut = fix_brackets(re.split(r"[。；]", note)[0])
+    return cut if 6 <= len(cut) <= 110 else ""
 
 
 def first_ref(loc):

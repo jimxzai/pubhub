@@ -10,7 +10,7 @@ publisher: 三書精讀出版系統
 
 > **座標**：本書骨幹〈啟示的次序〉——第五步：人怎麼讀——從認字母開始；你第一批學會讀出聲的字裏，有 `Ἰησοῦς`、`Χριστός` 這兩個名字。
 >
-> *In brief:* The 24 letters and how to read them aloud, starting with two names you will meet constantly: Ἰησοῦς and Χριστός.
+> *In brief:* The 24 letters and how to read them aloud; among the first words you read are two names you will meet constantly, Ἰησοῦς and Χριστός.
 
 希臘字母一共二十四個。你其實早就認得不少：數學課的 α β π、科學課的 Δ Σ Ω、大學社團的 Alpha Beta，都是它們。**花一個晚上，就能把二十四個字母讀出來。**
 

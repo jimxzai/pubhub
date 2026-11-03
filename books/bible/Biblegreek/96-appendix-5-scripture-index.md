@@ -8,18 +8,17 @@ publisher: 三書精讀出版系統
 
 # 經文索引 (Scripture Index) {.unnumbered}
 
-卷一各章與附錄裏明引的經文出處，共 49 處，由程式從書稿掃描產生，指向章次而非頁碼。右欄是 NASB 1995 英文（取自 ai-eden.com，快取於 `docs/sources/biblegreek/nasb-index-cache.json`，由 `scripts/fetch-biblegreek-nasb.py` 產生；超過兩節只印前兩節）。只掃描「書卷簡稱＋章:節」寫法（如「約 1:1」「John 1:1」）；沒有寫出處的間接提及不收。卷二（各卷的希臘文）已按書卷編排，不在此列。
+卷一各章與附錄裏明引的經文出處，共 48 處，由程式從書稿掃描產生，指向章次而非頁碼。右欄是 NASB 1995 英文（取自 ai-eden.com，快取於 `docs/sources/biblegreek/nasb-index-cache.json`，由 `scripts/fetch-biblegreek-nasb.py` 產生；超過兩節只印前兩節）。只掃描「書卷簡稱＋章:節」寫法（如「約 1:1」「John 1:1」）；沒有寫出處的間接提及不收。卷二（各卷的希臘文）已按書卷編排，不在此列。
 
 | 經文 | 見於 | NASB 1995 |
 |--------------------|--------------------------|------------------------------------------------------------------|
-| 創 22:2 | 核心字附錄 | （ai-eden 無此節英文） |
+| 創 22:2 | 核心字附錄 | He said, 'Take now your son, your only son, whom you love, Isaac, and go to the land of Moriah, and offer him there as a burnt offering on one of the mountains of which I will tell you.' |
 | 出 24:8 | 核心字附錄 | So Moses took the blood and sprinkled [it] on the people, and said, 'Behold the blood of the covenant, which the LORD has made with you in accordance with all these words.' |
 | 利 19:18 | 核心字附錄 | 'You shall not take vengeance, nor bear any grudge against the sons of your people, but you shall love your neighbor as yourself; I am the LORD. |
 | 申 6:5 | 核心字附錄 | 'You shall love the LORD your God with all your heart and with all your soul and with all your might. |
 | 耶 31:31 | 核心字附錄 | 'Behold, days are coming,' declares the LORD, 'when I will make a new covenant with the house of Israel and with the house of Judah, |
 | 太 9:27 | 第 11 章 | As Jesus went on from there, two blind men followed Him, crying out, 'Have mercy on us, Son of David!' |
 | 太 15:22 | 第 4 章（續）、第 11 章、練習附錄、來源附錄 | And a Canaanite woman from that region came out and [began] to cry out, saying, 'Have mercy on me, Lord, Son of David; my daughter is cruelly demon-possessed.' |
-| 太 26:41 | 核心字附錄 | 'Keep watching and praying that you may not enter into temptation; the spirit is willing, but the flesh is weak.' |
 | 可 1:1 | 來源附錄 | The beginning of the gospel of Jesus Christ, the Son of God. |
 | 可 10:47 | 第 11 章 | When he heard that it was Jesus the Nazarene, he began to cry out and say, 'Jesus, Son of David, have mercy on me!' |
 | 可 10:47-48 | 第 11 章 | When he heard that it was Jesus the Nazarene, he began to cry out and say, 'Jesus, Son of David, have mercy on me!' Many were sternly telling him to be quiet, but he kept crying out all the more, 'Son of David, have mercy on me!' |

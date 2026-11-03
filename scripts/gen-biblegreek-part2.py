@@ -82,24 +82,36 @@ def balance(g):
 
 def short_gloss(g):
     g = gc.clean(g)
+    if re.search(r"字根|字源|同源|英文", g):         # root / etymology claims are not carried into Part Two (chapter 5's warning)
+        return ""
     if gc.CONFLICT.search(g):                      # contradicts chapter 5: drop the offending parenthesis, else the gloss
         g = re.sub(r"[（(][^）)]*(?:無條件|不求回報|神聖的愛|友誼的愛)[^）)]*[）)]", "", g).strip()
         if gc.CONFLICT.search(g):
             return ""
-    g = balance(re.split(r"[；;/／]", g)[0].strip())
+    g = gc.fix_brackets(balance(re.split(r"[；;/／]", g)[0].strip()))
     return g if 0 < len(g) <= 18 else ""
 
 
 def phrase_gloss(g):
     """Phrase / contrast headwords keep the whole gloss (cutting at '／' would give only the first word's meaning)."""
     g = gc.clean(g)
+    if re.search(r"字根|字源|同源|英文", g):
+        return ""
     if gc.CONFLICT.search(g):
         g = re.sub(r"[（(][^）)]*(?:無條件|不求回報|神聖的愛|友誼的愛)[^）)]*[）)]", "", g).strip()
         if gc.CONFLICT.search(g):
             return ""
     if len(g) > 40:
         g = balance(re.split(r"[；;]", g)[0].strip())
+    g = gc.fix_brackets(g)
     return g if 0 < len(g) <= 40 else ""
+
+
+IDX_OVERRIDE = {   # lemmas whose series glosses mix senses or hide the lemma's main one (found in independent review)
+    "κοινωνία": "團契、相交（羅 15:26 指捐助）",
+    "δέω": "捆綁（語料的詞目 δέω 也收 δεῖ「必須」與 δέομαι「祈求」的部分形式）",
+    "σημεῖον": "記號、神蹟（啟示錄的 σημεῖον 和合本多譯「異象」）",
+}
 
 
 def display_head(row, lemma):
@@ -143,14 +155,18 @@ def main():
     for k, bs in single.items():
         for b, rs0 in bs.items():
             for r0 in rs0:
+                if norm(r0["headword"]) != norm(k):      # only rows whose headword IS the lemma: glosses of inflected forms are verse-specific
+                    continue
                 g0 = re.split(r"[；;/／、]", gc.clean(r0["gloss"]))[0].strip()
-                if 0 < len(g0) <= 8 and not gc.CONFLICT.search(g0):
-                    series_gl[k][balance(g0)] += 1
+                if 0 < len(g0) <= 8 and not gc.CONFLICT.search(g0) and not re.search(r"[你我他她們要就已必將被了罷祢（(「]", g0):
+                    series_gl[k][g0] += 1
 
     def idx_gl(k):
         """Index meaning: the vetted glossary if it has the word, else the distinct short meanings the series tables gave it (up to 3), so context-dependence stays visible."""
         if gd.GLOSS.get(k):
             return gd.GLOSS[k]
+        if k in IDX_OVERRIDE:
+            return IDX_OVERRIDE[k]
         alts = [g0 for g0, _ in series_gl[k].most_common(3)]
         return "／".join(alts) if alts else "—"
     vet = lambda k: gd.GLOSS.get(k) or "—"
