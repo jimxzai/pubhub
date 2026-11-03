@@ -8,7 +8,7 @@ publisher: 三書精讀出版系統
 
 # 經文索引 (Scripture Index) {.unnumbered}
 
-卷一各章與附錄裏明引的經文出處，共 48 處，由程式從書稿掃描產生，指向章次而非頁碼。右欄是 NASB 1995 英文（取自 ai-eden.com，快取於 `docs/sources/biblegreek/nasb-index-cache.json`，由 `scripts/fetch-biblegreek-nasb.py` 產生；超過兩節只印前兩節）。只掃描「書卷簡稱＋章:節」寫法（如「約 1:1」「John 1:1」）；沒有寫出處的間接提及不收。卷二（各卷的希臘文）已按書卷編排，不在此列。
+卷一各章與附錄裏明引的經文出處，共 60 處，由程式從書稿掃描產生，指向章次而非頁碼。右欄是 NASB 1995 英文（取自 ai-eden.com，快取於 `docs/sources/biblegreek/nasb-index-cache.json`，由 `scripts/fetch-biblegreek-nasb.py` 產生；超過兩節只印前兩節）。只掃描「書卷簡稱＋章:節」寫法（如「約 1:1」「John 1:1」）；沒有寫出處的間接提及不收。卷二（各卷的希臘文）已按書卷編排，不在此列。
 
 | 經文 | 見於 | NASB 1995 |
 |--------------------|--------------------------|------------------------------------------------------------------|
@@ -17,6 +17,8 @@ publisher: 三書精讀出版系統
 | 利 19:18 | 核心字附錄 | 'You shall not take vengeance, nor bear any grudge against the sons of your people, but you shall love your neighbor as yourself; I am the LORD. |
 | 申 6:5 | 核心字附錄 | 'You shall love the LORD your God with all your heart and with all your soul and with all your might. |
 | 耶 31:31 | 核心字附錄 | 'Behold, days are coming,' declares the LORD, 'when I will make a new covenant with the house of Israel and with the house of Judah, |
+| 太 4:4 | 第 10 章 | But He answered and said, 'It is written, 'MAN SHALL NOT LIVE ON BREAD ALONE, BUT ON EVERY WORD THAT PROCEEDS OUT OF THE MOUTH OF GOD.'' |
+| 太 5:18 | 第 4 章 | 'For truly I say to you, until heaven and earth pass away, not the smallest letter or stroke shall pass from the Law until all is accomplished. |
 | 太 9:27 | 第 11 章 | As Jesus went on from there, two blind men followed Him, crying out, 'Have mercy on us, Son of David!' |
 | 太 15:22 | 第 4 章（續）、第 11 章、練習附錄、來源附錄 | And a Canaanite woman from that region came out and [began] to cry out, saying, 'Have mercy on me, Lord, Son of David; my daughter is cruelly demon-possessed.' |
 | 可 1:1 | 來源附錄 | The beginning of the gospel of Jesus Christ, the Son of God. |
@@ -24,12 +26,17 @@ publisher: 三書精讀出版系統
 | 可 10:47-48 | 第 11 章 | When he heard that it was Jesus the Nazarene, he began to cry out and say, 'Jesus, Son of David, have mercy on me!' Many were sternly telling him to be quiet, but he kept crying out all the more, 'Son of David, have mercy on me!' |
 | 路 15:24 | 第 11 章、來源附錄 | for this son of mine was dead and has come to life again; he was lost and has been found.' And they began to celebrate. |
 | 路 16:24 | 第 11 章 | 'And he cried out and said, 'Father Abraham, have mercy on me, and send Lazarus so that he may dip the tip of his finger in water and cool off my tongue, for I am in agony in this flame.' |
+| 路 18:38 | 第 11 章 | And he called out, saying, 'Jesus, Son of David, have mercy on me!' |
+| 路 18:38-39 | 第 11 章 | And he called out, saying, 'Jesus, Son of David, have mercy on me!' Those who led the way were sternly telling him to be quiet; but he kept crying out all the more, 'Son of David, have mercy on me!' |
+| 路 24:27 | 第 2 章 | Then beginning with Moses and with all the prophets, He explained to them the things concerning Himself in all the Scriptures. |
+| 路 24:32 | 第 2 章 | They said to one another, 'Were not our hearts burning within us while He was speaking to us on the road, while He was explaining the Scriptures to us?' |
 | 約 1:1 | 骨幹章、第 4 章、第 4 章（續）、第 6 章、第 11 章、練習附錄、來源附錄 | In the beginning was the Word, and the Word was with God, and the Word was God. |
 | 約 1:1-5 | 前言、骨幹章、第 7 章、第 10 章、練習附錄 | In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. … |
 | 約 1:1-18 | 第 10 章 | In the beginning was the Word, and the Word was with God, and the Word was God. He was in the beginning with God. … |
 | 約 1:3 | 第 4 章（續）、第 6 章 | All things came into being through Him, and apart from Him nothing came into being that has come into being. |
 | 約 1:5 | 第 4 章（續） | The Light shines in the darkness, and the darkness did not comprehend it. |
 | 約 1:14 | 骨幹章、第 2 章、第 4 章（續）、第 6 章、來源附錄 | And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth. |
+| 約 1:18 | 第 7 章 | No one has seen God at any time; the only begotten God who is in the bosom of the Father, He has explained [Him]. |
 | 約 1:19-34 | 第 10 章 | This is the testimony of John, when the Jews sent to him priests and Levites from Jerusalem to ask him, 'Who are you?' And he confessed and did not deny, but confessed, 'I am not the Christ.' … |
 | 約 1:35-51 | 第 10 章 | Again the next day John was standing with two of his disciples, and he looked at Jesus as He walked, and said, 'Behold, the Lamb of God!' … |
 | 約 3:16 | 第 4 章（續）、第 10 章 | 'For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life. |
@@ -50,13 +57,18 @@ publisher: 三書精讀出版系統
 | 約 15:4 | 核心字附錄 | 'Abide in Me, and I in you. As the branch cannot bear fruit of itself unless it abides in the vine, so neither [can] you unless you abide in Me. |
 | 約 17:12 | 核心字附錄 | 'While I was with them, I was keeping them in Your name which You have given Me; and I guarded them and not one of them perished but the son of perdition, so that the Scripture would be fulfilled. |
 | 約 20:2 | 第 5 章 | So she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, 'They have taken away the Lord out of the tomb, and we do not know where they have laid Him.' |
+| 約 20:16 | 第 8 章 | Jesus said to her, 'Mary!' She turned and said to Him in Hebrew, 'Rabboni!' (which means, Teacher). |
 | 約 21:15-17 | 第 5 章、練習附錄 | So when they had finished breakfast, Jesus said to Simon Peter, 'Simon, [son] of John, do you love Me more than these?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Tend My lambs.' He said to him again a second time, 'Simon, [son] of John, do you love Me?' He said to Him, 'Yes, Lord; You know that I love You.' He said to him, 'Shepherd My sheep.' … |
 | 徒 2:42 | 核心字附錄 | They were continually devoting themselves to the apostles' teaching and to fellowship, to the breaking of bread and to prayer. |
+| 徒 8:30-31 | 第 1 章 | Philip ran up and heard him reading Isaiah the prophet, and said, 'Do you understand what you are reading?' And he said, 'Well, how could I, unless someone guides me?' And he invited Philip to come up and sit with him. |
+| 徒 8:35 | 第 1 章 | Then Philip opened his mouth, and beginning from this Scripture he preached Jesus to him. |
+| 林前 2:13 | 第 5 章 | which things we also speak, not in words taught by human wisdom, but in those taught by the Spirit, combining spiritual [thoughts] with spiritual [words]. |
 | 林後 5:17 | 來源附錄 | Therefore if anyone is in Christ, [he is] a new creature; the old things passed away; behold, new things have come. |
 | 加 2:20 | 來源附錄 | 'I have been crucified with Christ; and it is no longer I who live, but Christ lives in me; and the [life] which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me. |
 | 帖前 4:17 | 核心字附錄 | Then we who are alive and remain will be caught up together with them in the clouds to meet the Lord in the air, and so we shall always be with the Lord. |
 | 帖前 5:6 | 核心字附錄 | so then let us not sleep as others do, but let us be alert and sober. |
+| 帖前 5:21 | 第 9 章 | But examine everything [carefully]; hold fast to that which is good; |
 | 彼前 5:8 | 核心字附錄 | Be of sober [spirit], be on the alert. Your adversary, the devil, prowls around like a roaring lion, seeking someone to devour. |
 | 約壹 4:7-21 | 練習附錄 | Beloved, let us love one another, for love is from God; and everyone who loves is born of God and knows God. The one who does not love does not know God, for God is love. … |
-| 啟 1:8 | 來源附錄 | 'I am the Alpha and the Omega,' says the Lord God, 'who is and who was and who is to come, the Almighty.' |
+| 啟 1:8 | 第 3 章、來源附錄 | 'I am the Alpha and the Omega,' says the Lord God, 'who is and who was and who is to come, the Almighty.' |
 | 啟 4:8 | 第 11 章、來源附錄 | And the four living creatures, each one of them having six wings, are full of eyes around and within; and day and night they do not cease to say, 'HOLY, HOLY, HOLY [is] THE LORD GOD, THE ALMIGHTY, WHO WAS AND WHO IS AND WHO IS TO COME.' |
