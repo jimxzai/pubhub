@@ -137,17 +137,19 @@
   }
  },
  "calvin_heart": {
-  "text": "the spiritual songs cannot be well sung save from the heart",
+  "text": "spiritual songs cannot be sung well but with the heart; but the heart requires the understanding",
   "ok": true,
   "urls": {
-   "https://christianhistoryinstitute.org/dailyquote/6/10": "OK"
+   "https://archive.org/download/historyofscottis00macm/historyofscottis00macm_djvu.txt": "OK",
+   "https://archive.org/download/historyofscottis00macm_0/historyofscottis00macm_0_djvu.txt": "OK"
   }
  },
  "calvin_gift": {
-  "text": "the unique gift of man is to sing knowing that which he sings.",
+  "text": "the peculiar gift of man is to sing knowing what he says.",
   "ok": true,
   "urls": {
-   "https://christianhistoryinstitute.org/dailyquote/6/10": "OK"
+   "https://archive.org/download/historyofscottis00macm/historyofscottis00macm_djvu.txt": "OK",
+   "https://archive.org/download/historyofscottis00macm_0/historyofscottis00macm_0_djvu.txt": "OK"
   }
  },
  "graham_barrows": {
@@ -205,6 +207,22 @@
    "Reading of Scripture (Exodus 24:7, Deuteronomy 31:11, Nehemiah 8:1-8": "OK"
   }
  },
+ "fact:calvin_augustine_a": {
+  "ok": true,
+  "url": "https://archive.org/download/historyofscottis00macm/historyofscottis00macm_djvu.txt",
+  "needles": {
+   "saith St. Augustine, lies the difference between the song of man and that of birds": "OK",
+   "a linnet, a nightingale, and a jay (papegay), may sing well": "OK"
+  }
+ },
+ "fact:calvin_augustine_b": {
+  "ok": true,
+  "url": "https://archive.org/download/historyofscottis00macm_0/historyofscottis00macm_0_djvu.txt",
+  "needles": {
+   "saith St. Augustine, lies the difference between the song of man and that of birds": "OK",
+   "a linnet, a nightingale, and a jay (papegay), may sing well": "OK"
+  }
+ },
  "fact:hog": {
   "ok": true,
   "url": "https://www.gracechurch.org/hymnsofgrace",
@@ -246,5 +264,5 @@
    "host of The Hour of Decision radio program for more than 60 years": "OK"
   }
  },
- "_retrieved": "2026-11-01"
+ "_retrieved": "2026-11-02"
 }

@@ -655,12 +655,12 @@ EXT = {  # id -> (English text printed in the book, source label, [urls that mus
     "spurgeon_nuance": ("I would not wish to prefer one spiritual exercise before another, else I think I would endorse the saying of an old divine who said that a line of praise was better than even a leaf of prayer",
                         "C. H. Spurgeon, \"Holy Song from Happy Saints\"（Metropolitan Tabernacle Pulpit 3476，講於 1871-03-05）",
                         ['https://www.spurgeon.org/sermons/holy-song-from-happy-saints', 'https://ccel.org/ccel/spurgeon/sermons61.xxxvii.html']),
-    "calvin_heart": ("the spiritual songs cannot be well sung save from the heart",
-                     "John Calvin, Preface to the Genevan Psalter（1543；英譯見 Christian History Institute，轉自 Leben 2:2, 2006, p.16）",
-                     ["https://christianhistoryinstitute.org/dailyquote/6/10"]),
-    "calvin_gift": ("the unique gift of man is to sing knowing that which he sings.",
-                    "John Calvin, Preface to the Genevan Psalter（1543；英譯見 Christian History Institute，轉自 Leben 2:2, 2006, p.16）",
-                    ["https://christianhistoryinstitute.org/dailyquote/6/10"]),
+    "calvin_heart": ("spiritual songs cannot be sung well but with the heart; but the heart requires the understanding",
+                     "John Calvin, Preface to the Genevan Psalter（1543；英譯：J. W. Macmeeken, History of the Scottish Metrical Psalms, 1872）",
+                     ['https://archive.org/download/historyofscottis00macm/historyofscottis00macm_djvu.txt', 'https://archive.org/download/historyofscottis00macm_0/historyofscottis00macm_0_djvu.txt']),
+    "calvin_gift": ("the peculiar gift of man is to sing knowing what he says.",
+                    "John Calvin, Preface to the Genevan Psalter（1543；英譯：J. W. Macmeeken, History of the Scottish Metrical Psalms, 1872）",
+                    ['https://archive.org/download/historyofscottis00macm/historyofscottis00macm_djvu.txt', 'https://archive.org/download/historyofscottis00macm_0/historyofscottis00macm_0_djvu.txt']),
     "graham_barrows": ("His uncanny ability to lead a Crusade choir of thousands of voices or an audience of a hundred thousand voices in a great hymn or Gospel chorus is absolutely unparalleled",
                        "Billy Graham 評 Cliff Barrows，載於 Graham 自傳 Just As I Am，轉引自 BGEA 官網",
                        ["https://billygraham.org/cliff-barrows"]),
@@ -675,6 +675,8 @@ EXT_FACTS = {  # facts stated in Chinese, each with a needle that must occur in 
                   "Intercession (2 Corinthians 1:11, 1 Thessalonians 5:25, James 5:14-16)", "Fellowship (Acts 2:42, Galatians 2:9)",
                   "Giving (Acts 2:45, 11:29; 1 Corinthians 16:2, 2 Corinthians 9:5, 7; Philippians 4:16)", "Reading of Scripture (Exodus 24:7, Deuteronomy 31:11, Nehemiah 8:1-8"],
                  "https://s3.amazonaws.com/static.gracechurch.org/music/RoleofMusicinWorship.pdf"),
+    "calvin_augustine_a": (["saith St. Augustine, lies the difference between the song of man and that of birds", "a linnet, a nightingale, and a jay (papegay), may sing well"], "https://archive.org/download/historyofscottis00macm/historyofscottis00macm_djvu.txt"),
+    "calvin_augustine_b": (["saith St. Augustine, lies the difference between the song of man and that of birds", "a linnet, a nightingale, and a jay (papegay), may sing well"], "https://archive.org/download/historyofscottis00macm_0/historyofscottis00macm_0_djvu.txt"),
     "hog": (["In 2016, Grace Community Church and The Master", "Psalms of Grace", "The official hymnal of Grace Community Church"], "https://www.gracechurch.org/hymnsofgrace"),
     "gcc_music": (["The Role of Music in Worship", "Copyright FAQ", "Hymn Accompaniments", "Celebrating 45 Years of Worship with Stephen Sturz"], "https://www.gracechurch.org/music/resources"),
     "barrows": (["first sang at a Billy Graham campaign in 1945 in Asheville", "took the reins of the Hour of Decision radio program"], "https://www.christianhistoryinstitute.org/magazine/article/an-evangelistic-band-of-brothers"),
@@ -1118,7 +1120,7 @@ w("""**怎麼讀這一卷：**歌詞原文取自庫裏已核對的章節；作�
 **選詩十問**（Grace Community Church 講義〈The Role of Music in Worship〉）：這首詩的歌詞合乎教義嗎？文本有聖經根據嗎？能激發屬靈的思想嗎？能正確地教導嗎？能激勵高尚的屬靈理想嗎？曲調與歌詞相配嗎？夠出色、夠精緻嗎？合乎這次聚會的需要嗎？能帶來健康的回應嗎？會不會因為曲風或作曲者的名字，讓人聯想到有害的事？
 """)
 w("""
-**用心、用領會地唱**：Calvin 在 1543 年日內瓦詩篇集的序裏，與衛斯理說的是同一件事（以下英譯取自 Christian History Institute 轉載的版本；搜尋結果顯示**另有譯本措辭不同**，但我沒有能開啟那一頁核對；原文也未核對，所以只引這兩句）：
+**用心、用領會地唱**：Calvin 在 1543 年日內瓦詩篇集的序裏，與衛斯理說的是同一件事。以下英譯取自 J. W. Macmeeken 1872 年的 *History of the Scottish Metrical Psalms*（公有領域；兩份不同的掃描逐字相同）。Calvin 在這段裏說，人與鳥唱歌的分別是「聖奧古斯丁」所指出的——鳥可以唱得好聽，卻不知道自己唱的是甚麼。另一個網站（Christian History Institute）轉載的英譯措辭不同（例如把其中一種鳥寫成 parrot，並省略奧古斯丁的歸屬），本書以 Macmeeken 的譯文為準；法文原文本輪未核對：
 """)
 w("> " + EXT["calvin_gift"][0] + "\n>\n> — " + EXT["calvin_gift"][1] + "\n")
 w("> " + EXT["calvin_heart"][0] + "\n>\n> — " + EXT["calvin_heart"][1] + "\n")
@@ -1470,7 +1472,7 @@ w("""
 **來源說明**：Sankey 的回憶錄是公有領域；這句話在兩份**不同的掃描／OCR**（Princeton 神學院藏本與另一份掃描，兩者都是 1907 年版）裏逐字相同，已用腳本核對。OCR 的錯誤因此不太可能同時出現在兩份，但**兩份掃描是同一個版本，若該版本本身有誤，這個核對看不出來**。書中其他 Sankey 的故事本書沒有引用。
 """)
 w("### 六、Calvin 與 Spurgeon\n")
-w("""**Calvin**（日內瓦詩篇集序，1543）：卷五引了兩句。英譯取自 Christian History Institute 的「每日引言」頁，該頁註明轉自 *Leben* 2:2（2006）第 16 頁；搜尋結果顯示**同一段文字另有措辭不同的英譯**（本輪沒能開啟那一頁，也就沒有核對是哪裏不同），所以這兩句只能說「這個譯本如此說」，不是 Calvin 原文的逐字翻譯；法文／拉丁文本本輪沒有讀。
+w("""**Calvin**（日內瓦詩篇集序，1543）：卷五引了兩句。英譯取自 J. W. Macmeeken 的 *History of the Scottish Metrical Psalms*（Glasgow, 1872），archive.org 上**兩份不同的掃描**（`historyofscottis00macm`、`historyofscottis00macm_0`）逐字相同，已用腳本核對；**兩份是同一個版本，版本本身若有誤，這個核對看不出來**。Calvin 在這段裏把「人與鳥唱歌的分別」歸給聖奧古斯丁（原文：“saith St. Augustine, lies the difference between the song of man and that of birds”）。Christian History Institute 轉載的另一個英譯措辭不同（如 parrot、並省略奧古斯丁），本書不採用。**法文原文與 *Opera Calvini* 本輪沒有讀**，所以這只是「這個英譯如此說」。
 
 **Spurgeon**（講章 *Holy Song from Happy Saints*，Metropolitan Tabernacle Pulpit 第 3476 號，1871-03-05）：卷二引了兩句；同一段文字在 spurgeon.org 與 CCEL 兩個網站逐字相同；Answers in Genesis 的版本把措辭現代化了（例如 “pause for a while to spend time”），所以不算數。他在這篇裏引了一位老神學家「讚美的一行勝過禱告的一頁」的說法，並說若不是不願偏重某一種屬靈操練，他會贊同這句話：他有傾向，但自我節制；所以本書兩句並引，而且第二句引完整句，不截斷。他談會眾歌唱的其他講章與《Our Own Hymn-Book》的序，本輪沒有取得可核對的全文。
 """)
@@ -1483,7 +1485,7 @@ w("""下面這些，本書編者要求自己：**沒有逐字核對到，就不�
 - **John MacArthur 的其他論述**：本書只讀了上表五篇講道；他的書（如 *Worship: The Ultimate Priority*）與其他講道本輪沒有讀。搜尋結果中有一句據說出自他、談「復興被遺忘的偉大聖詩」的話，只見於二手網頁，在 Hymns of Grace 官網找不到，**未引用**。
 - **Grace Community Church 詩班在 YouTube 的個別詩歌錄影**：官方頁面能確認的是 YouTube 頻道與一支音樂事工影片；詩班唱詩的具體影片網址，本輪沒有逐一核對，不列。
 - **Billy Graham 以〈Just As I Am〉作為招收決志的詩歌**：多篇報導這樣說，但本輪沒有讀到原文，不寫進正文（書名《Just As I Am》則屬事實）。
-- **Spurgeon 與 Calvin 的其他材料**：Spurgeon《Our Own Hymn-Book》的序在 archive.org 只有借閱版；他談會眾歌唱的其他講章本輪沒有取得可核對的全文。Calvin 的日內瓦詩篇集序只讀到 Christian History Institute 轉載的節錄（英譯版本不一）與 Benson 的討論，沒有讀到完整英譯或法文原文。**Sankey** 的回憶錄只引了上面一句，書中其他故事沒有讀完。**Graham 之外的前輩對「禱告」的教導**，本輪只取得 MacArthur 的一篇（卷六引用）。
+- **Spurgeon 與 Calvin 的其他材料**：Spurgeon《Our Own Hymn-Book》的序在 archive.org 只有借閱版；他談會眾歌唱的其他講章本輪沒有取得可核對的全文。Calvin 的法文原文與 *Opera Calvini* 本輪沒有讀（英譯已讀 Macmeeken 1872 的節譯）。**Sankey** 的回憶錄只引了上面一句，書中其他故事沒有讀完。**Graham 之外的前輩對「禱告」的教導**，本輪只取得 MacArthur 的一篇（卷六引用）。
 """)
 
 
