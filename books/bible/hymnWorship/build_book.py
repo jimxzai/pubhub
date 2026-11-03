@@ -197,43 +197,70 @@ def n_books(key):
     return len(s)
 
 
+
+# Structured hymn credits.  Every Latin word and number in these values must occur in a credit line the repo itself
+# prints for that hymn (AUTHOR_LINES, exported to .sources/hymn-credit-raw.json and verified by check-worship-book.py);
+# nothing is added from memory.  "—" = the repo gives none; "庫中未註" = the repo does not say.
+UNK = "庫中未註"
+HYMN_META = {
+ 1: ("Reginald Heber, 1826", "—", "—", "The Army and Navy Hymnal (1920)", "1、3", "歌詞自該書樂譜的分音節排版還原；第3節第2行印本作 \"Through the eye\"，依通行本改為 \"Though\""),
+ 2: ("Walter Chalmers Smith, 1867", "—", "—", UNK, UNK, "—"),
+ 3: ("Joachim Neander, 1680", "Catherine Winkworth, 1862", "—", UNK, "第二節", "—"),
+ 4: ("Isaac Watts, 1719", "—", "—", UNK, UNK, "—"),
+ 5: ("Martin Luther, 1529", "Frederick H. Hedge, 1853", "—", "The Army and Navy Hymnal (1920)", "1、3", "—"),
+ 6: ("Robert Robinson（1758，據庫中他章）", "—", "—", "hymntime.com (Cyber Hymnal)", "1、4", "—"),
+ 7: ("Matthew Bridges, 1851", "—", "—", "The Army and Navy Hymnal (1920), no. 68", "1", "A&N 頁面未印作者與年份，依通行著錄"),
+ 8: ("Isaac Watts, 1719", "—", "—", "The Army and Navy Hymnal (1920), No. 167", "1、5", "原頁面轉錄成樂譜的分音節排版，歌詞依行序還原"),
+ 9: ("Aurelius Prudentius, c. 405", "John Mason Neale, 1851", "—", UNK, UNK, "—"),
+ 10: ("Charles Wesley, 1758", "—", "—", "A Selection of Hymns, Used in the Parish Church … Ulverston (1863), Hymn 65", "1、4", "—"),
+ 11: ("Isaac Watts（1707，據庫中他章）", "—", "—", "The Army and Navy Hymnal (1920), no. 60", "1、4", "—"),
+ 12: ("Attributed to Bernard of Clairvaux (Salve caput cruentatum)", "德譯 Paul Gerhardt, 1656；英譯 James W. Alexander, 1830", "—", UNK, UNK, "—"),
+ 13: ("Augustus M. Toplady（年份庫中記載不一：1763、1776）", "—", "—", "The Army and Navy Hymnal (1920), no. 91", "1-2", "A&N 頁面未印作者，依通行著錄"),
+ 14: ("William Cowper, 1772", "—", "—", "Conyers's Collection of Psalms and Hymns", UNK, "取材自亞13:1"),
+ 15: ("Charles Wesley, 1738", "—", "—", UNK, UNK, "—"),
+ 16: ("John Newton, 1779", "—", "—", "Olney Hymns (1779), Book I, Hymn 41；1840 年版（Wikisource）", "1-2", "—"),
+ 17: ("Charlotte Elliott, 1835", "—", "—", UNK, UNK, "—"),
+ 18: ("Elvina M. Hall, 1865", "—", "John T. Grape, 1868", UNK, UNK, "庫中標註公有領域"),
+ 19: ("Charles Wesley, 1739", "—", "—", UNK, UNK, "—"),
+ 20: ("Mary A. Lathbury, 1877", "—", "—", UNK, UNK, "中譯為編者試譯"),
+ 21: ("William Walsham How, 1867", "—", "—", UNK, UNK, "—"),
+ 22: ("George Croly（1854，據庫中他章）", "—", "—", "The Army and Navy Hymnal (1920), no. 29", "1-2", "A&N 頁面未印作者，依通行著錄；印本以音節斷字，今還原；第2節 angel visitant 後補逗號"),
+ 23: ("William W. Walford（1845，據庫中他章）", "—", "William Batchelder Bradbury", UNK, UNK, "—"),
+ 24: ("Joseph Scriven（1855，據庫中他章）", "—", "—", UNK, UNK, "—"),
+ 25: ("Sarah Flower Adams, 1841", "—", "—", UNK, UNK, "—"),
+ 26: ("Henry Francis Lyte, 1847", "—", "—", UNK, UNK, "—"),
+ 27: ("Katharina von Schlegel（1752，據庫中他章）", "Jane Borthwick", "—", "hymntime.com (Cyber Hymnal)", "1、2", "—"),
+ 28: ("Horatio G. Spafford, 1873", "—", "—", UNK, UNK, "中譯為編者試譯"),
+ 29: ("William Cowper, 1773", "—", "—", "John Newton, Twenty-six Letters on Religious Subjects; to which are added Hymns (1774)；後收入 Olney Hymns (1779)", UNK, "原題 \"Light Shining out of Darkness\""),
+ 30: ("Anonymous（John Rippon, A Selection of Hymns, 1787）", "—", "—", UNK, UNK, "—"),
+ 31: ("Thomas O. Chisholm, 1923", "—", "—", UNK, UNK, "—"),
+ 32: ("William Williams (Welsh, 1745)", "Peter Williams", "—", "The Army and Navy Hymnal (1920)", "1-2", "省略重複的行"),
+ 33: ("Dorothy A. Thrupp, 1836", "—", "—", UNK, UNK, "—"),
+ 34: ("Ancient Irish hymn（年份庫中未註）", "英譯 Mary E. Byrne, 1905；韻文改寫 Eleanor H. Hull, 1912", "—", UNK, UNK, "—"),
+ 35: ("George Matheson, 1882", "—", "—", "The Cyber Hymnal（公有領域本）", "1", "—"),
+ 36: ("John Henry Newman（1833，據庫中他章）", "—", "—", UNK, UNK, "—"),
+ 37: ("Frances Ridley Havergal, 1874", "—", "—", UNK, UNK, "—"),
+ 38: ("John H. Sammis, 1887", "—", "Daniel B. Towner", UNK, UNK, "—"),
+ 39: ("Adelaide A. Pollard, 1906", "—", "—", UNK, UNK, "—"),
+ 40: ("John E. Bode, 1868", "—", "—", UNK, UNK, "—"),
+ 41: ("George Duffield, 1858", "—", "—", UNK, UNK, "—"),
+ 42: ("Samuel J. Stone, 1866", "—", "Aurelia：Samuel S. Wesley, 1864", "The Army and Navy Hymnal", UNK, "—"),
+ 43: ("John Fawcett, 1782", "—", "—", UNK, UNK, "—"),
+ 44: ("John Newton（1779，據庫中他章）", "—", "—", "Army and Navy Hymnal, 1920", "第二節", "該本未印年份"),
+ 45: ("Martin Rinkart, c.1636", "Catherine Winkworth, 1858", "—", UNK, UNK, "—"),
+ 46: ("Henry Alford, 1844", "—", "—", "Army and Navy Hymnal, 1920", "第一節", "該書註明 Hugh Hartshorne 修改"),
+}
+
+
 def hymn_body(key):
     blk, title, rel = best[key]
     lines = blk.rstrip("\n").split("\n")
     body = "\n".join(lines[1:])          # drop the bold title line; heading carries it
-    # Uniform credit line: split the repo's free-form author line at its first semicolon.
-    _m = re.match(r">\s*(.*)", lines[1])
-    _raw = _m.group(1).strip() if _m else ""
-    _raw = re.sub(r"^\*(.*)\*$", r"\1", _raw)              # strip whole-line italics
-    _parts = re.split(r"[;；]\s*", _raw, maxsplit=1)
-    _author = _parts[0].strip().strip("*")
-    _author_note = ""
-    if not re.search(r"\b(?:c\.\s*)?[0-9]{3,4}\b", _author):
-        # Recover a missing year from the repo's other credit lines for the same hymn.  Only a year that directly follows
-        # the SAME author's name counts (not a translator's or original-vs-translation year), and only if every such line
-        # agrees; if the repo disagrees with itself, say so instead of picking one.
-        _name = re.split(r"[,，;；（(]", _author)[0]
-        _words = re.findall(r"[A-Za-z]+", _name)
-        _sur = _words[-1] if _words and _words[0] not in ("Attributed", "Ancient", "Anonymous") else None
-        _years = set()
-        if _sur:
-            for _other in AUTHOR_LINES.get(key, []):
-                _oauth = re.split(r"[;；]", _other, maxsplit=1)[0].strip("* ")
-                _oauth = re.sub(r"[（(][^）)]*(?:Hymnal|A&N|頁面)[^）)]*[）)]", "", _oauth)
-                _mm = re.search(rf"{re.escape(_sur)}[\s,，(（]*(\d{{4}})\b", _oauth)   # the year sits right after the surname
-                if _mm:
-                    _years.add(_mm.group(1))
-        if len(_years) == 1:
-            _author = re.sub(rf"({re.escape(_sur)})", rf"\1（{next(iter(_years))}）", _author, count=1)
-            _author_note = "［年份取自庫中另一章對同一首詩的標註］"
-        elif len(_years) > 1:
-            _author_note = "［年份庫中記載不一：" + "、".join(sorted(_years)) + "］"
-        else:
-            _author_note = "［年份庫中未註；原作與英譯年代若有，見出處註記］"
-    _note = _parts[1].strip().strip("*") if len(_parts) > 1 else "庫中章節未另註明底本"
-    body = "> **詞與年份**：" + _author + _author_note + " \\\n> **出處註記**：" + _note + "\n" + "\n".join(lines[2:])
+    n_ = NUM[key]
+    au, tr, tu, src, st, nt = HYMN_META[n_]
+    body = ("> **詞**：" + au + "　**譯／改寫**：" + tr + "　**曲**：" + tu + " \\\n"
+            "> **底本**：" + src + "　**節**：" + st + "　**校註**：" + nt + "\n" + "\n".join(lines[2:]))
     body = body.replace("祢", "你").replace("裡", "裏")
-    # `\` at line end is a hard break in the source; keep as is.
     return body.rstrip() + "\n", title, rel
 
 
@@ -1495,5 +1522,7 @@ nfail = sum(1 for k, _, _ in ALL if k in CAL and not CAL[k]["ok"])
 text = text.replace("{FAIL_N}", str(nfail)).replace("{MISS_N}", str(len(ALL) - nfull - nfail)).replace("{FULL_N}", str(nfull)).replace("{NOFULL_N}", str(len(ALL) - nfull))
 text = text.replace("{USED_COUNT}", str(len(set(USED))))
 open(OUT, "w", encoding="utf-8").write(text)
+_raw = {str(NUM[k]): sorted(set(AUTHOR_LINES.get(k, [])) | {re.sub(r"^>\s*", "", best[k][0].split("\n")[1]).strip()}) for k, _, _ in ALL}
+json.dump(_raw, open(os.path.join(HERE, ".sources", "hymn-credit-raw.json"), "w", encoding="utf-8"), ensure_ascii=False, indent=1)
 json.dump({"prefix_len": PREFIX_LEN, "headings": HEADINGS}, open(os.path.join(HERE, ".sources", "headings.json"), "w", encoding="utf-8"), ensure_ascii=False)
 print(f"wrote {OUT}: {len(text)} chars, {len(ALL)} hymns, {len(PSALM_SET)} psalms, {len(USED)} scripture refs, {total_uses} hymn uses/{len(best)} titles")

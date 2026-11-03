@@ -8,7 +8,7 @@ defect below was found by an independent human-style proofread of this book; eac
 Checks (each prints PASS/FAIL; exit 1 if any FAIL):
   spine     orientation chapter with 全書座標 and a closing 「你看見耶穌了嗎」; each 卷 carries
             「啟示的次序·第N步」 and 「全書座標」 and closes with 「你看見耶穌了嗎」
-  items     every psalm has a labelled 看見耶穌 line; every hymn has 詞與年份 / 出處註記 / 配經 / 默想 / 見於本庫
+  items     every psalm has a labelled 看見耶穌 line; every hymn has 詞 / 底本 / 配經 / 默想 / 見於本庫
   xref      every 「聖詩 N《title》」 equals the numbered heading N
   counts    counts the preface/appendix claim (hymns, psalms) equal the headings
   scripture every psalm block equals ai-eden cuv.json (modulo the documented Ps 46:4 patch,
@@ -71,8 +71,8 @@ bad = [n for n, b in psalms.items() if not re.search(r"\*\*看見耶穌\*\*（(�
 check("items: every psalm has a labelled 看見耶穌 line", not bad, f"missing/unlabelled: {bad}")
 hymn_blocks = re.split(r"(?m)^### (\d+)\. (.+?)（.+）\n", text)
 hymns = {int(hymn_blocks[i]): (hymn_blocks[i + 1], re.split(r"(?m)^#{1,3} ", hymn_blocks[i + 2])[0]) for i in range(1, len(hymn_blocks) - 2, 3)}
-bad = [n for n, (_, b) in hymns.items() if not all(k in b for k in ("**配經**", "**默想**", "見於本庫", "**詞與年份**", "**出處註記**"))]
-check("items: every hymn has 詞與年份 / 出處註記 / 配經 / 默想 / 見於本庫", not bad, f"incomplete: {bad}")
+bad = [n for n, (_, b) in hymns.items() if not all(k in b for k in ("**配經**", "**默想**", "見於本庫", "**詞**：", "**底本**："))]
+check("items: every hymn has 詞 / 底本 / 配經 / 默想 / 見於本庫", not bad, f"incomplete: {bad}")
 check("items: hymn numbers are 1..N without gaps", sorted(hymns) == list(range(1, len(hymns) + 1)))
 
 # ---- coordinates of the groups inside 卷四 / 卷五, and a year (or an honest note) on every hymn credit
@@ -84,8 +84,23 @@ bad = [t_ for t_, b in h2_blocks("卷四", ("詩篇禱讀四步",)) if "**座標
 check("coords: every psalm group in 卷四 carries a 座標 line", not bad, str(bad))
 bad = [t_ for t_, b in h2_blocks("卷五", ("現代讚美詩",)) if "**座標**" not in b[:400]]
 check("coords: every hymn theme in 卷五 carries a 座標 line", not bad, str(bad))
-bad = [n for n, (_, b) in hymns.items() if not (re.search(r"\*\*詞與年份\*\*：[^\n]*(?:\d{3,4}|［年份)", b))]
+bad = [n for n, (_, b) in hymns.items() if not re.search(r"\*\*詞\*\*：[^\n]*?(?:\d{3,4}|年份庫中未註)", b)]
 check("credits: every hymn credit shows a year or says why not", not bad, str(bad))
+# provenance guard: every Latin word and number in the printed credit block must occur in a credit line the repo prints for that hymn
+RAW = ROOT / "books/bible/hymnWorship/.sources/hymn-credit-raw.json"
+if RAW.exists():
+    raw = json.load(open(RAW, encoding="utf-8"))
+    tok = lambda s_: {w.lower().strip(".'’-") for w in re.findall(r"[A-Za-z][A-Za-z.'’\-]*|\d+", s_)}
+    bad = []
+    for n, (_, b) in hymns.items():
+        blk = "\n".join(l for l in b.split("\n")[:3] if l.startswith("> **"))
+        pool = set()
+        for line in raw.get(str(n), []): pool |= tok(line)
+        extra = tok(blk) - pool - {"cyber", "hymntime.com"}
+        if extra: bad.append((n, sorted(extra)[:4]))
+    check("credits: every word and number in each hymn's credit block occurs in a credit line the repo prints for that hymn", not bad, str(bad[:4]))
+else:
+    check("credits: provenance record exists", False, "run build_book.py first")
 
 # ---- xref
 bad = []
@@ -185,6 +200,31 @@ if "## 附錄七" in text:
                     bad2.append(" ".join(block)[:50])
         check("external: every quotation attributed to Erb / Wesley / Graham / MacArthur / Barrows / Sankey / Spurgeon / Calvin, anywhere in the book, equals a verified record text", used_ext >= 23 and not bad2, f"{used_ext} found; bad: {bad2}")
     check("external: appendix says which material was NOT verified", "沒有找到、或不能核對的部分" in app7)
+
+# ---- cross-references: every pointer to another part of the book must resolve to a real heading
+H_ALL = re.findall(r"(?m)^(#{1,3}) (.+?)(?: \{\.unnumbered\})?$", text)
+vol_names = {"一": "卷一", "二": "卷二", "三": "卷三", "四": "卷四", "五": "卷五", "六": "卷六"}
+vol_of = {}                       # volume letter -> list of heading texts inside it
+cur = None
+for lv, tx in H_ALL:
+    if lv == "#":
+        m = re.match(r"卷([一二三四五六]) ", tx)
+        cur = m.group(1) if m else None
+        if cur: vol_of[cur] = [tx]
+    elif cur:
+        vol_of[cur].append(tx)
+bad = []
+for vol, title in re.findall(r"卷([一二三四五六])〈([^〉]+)〉", text):
+    if not any(title in h for h in vol_of.get(vol, [])):
+        bad.append(f"卷{vol}〈{title}〉")
+check("xref: every 卷N〈標題〉 points to a heading that exists in that volume", not bad, str(sorted(set(bad))))
+bad = [f"見卷{v}" for v in re.findall(r"見卷([一二三四五六七八九])", text) if v not in vol_of]
+check("xref: every 見卷N points to an existing volume", not bad, str(sorted(set(bad))))
+appx = set(re.findall(r"^附錄([一二三四五六七八九])", "\n".join(h for _, h in H_ALL), re.M))
+bad = [f"附錄{a}" for a in re.findall(r"附錄([一二三四五六七八九])", text) if a not in appx]
+check("xref: every 附錄N mentioned exists as an appendix heading", not bad, str(sorted(set(bad))))
+bad = [t_ for t_ in re.findall(r"骨幹章〈([^〉]+)〉", text) if not any(t_ in h for _, h in H_ALL)]
+check("xref: every 骨幹章〈標題〉 matches the orientation chapter", not bad, str(bad))
 
 # ---- style
 editor = "\n".join(l for l in text.split("\n") if "\\textsuperscript" not in l)   # only verbatim scripture lines are exempt; prayers in blockquotes are editor text
