@@ -1,221 +1,346 @@
 ---
-title: 五餅二魚
-subtitle: Feeding the Five Thousand
-chapter: 12
-scripture: 馬太福音 14:13-21; 馬可福音 6:30-44; 路加福音 9:10-17; 約翰福音 6:1-15
+title: 耶穌基督完整生平
+subtitle: The Complete Life of Jesus Christ
+author: PubHub 三書精讀系統
+date: 2026年11月
+publisher: 三書精讀出版系統
 ---
 
 # 五餅二魚 (Feeding the Five Thousand)
 
-約翰福音 6:1-15（四福音皆記載的唯一神蹟，除復活外）
+馬太福音 14:13-21；馬可福音 6:30-44；路加福音 9:10-17；約翰福音 6:1-15
+
+**經文核對**：[ai-eden.com/bible/matthew/14](https://www.ai-eden.com/bible/matthew/14?t=CUV,NASB&cols=2) · [mark/6](https://www.ai-eden.com/bible/mark/6?t=CUV,NASB&cols=2) · [luke/9](https://www.ai-eden.com/bible/luke/9?t=CUV,NASB&cols=2) · [john/6](https://www.ai-eden.com/bible/john/6?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-五餅二魚餵飽五千人，焦點不在那獻上餅魚的孩童，也不在飽足的群眾，而在那位「拿起餅來祝謝」的主。從祂的角度讀，這神蹟是一個記號——指向祂自己就是從天降下的生命的糧。曠野中嗎哪所預表的，如今親自站在他們面前；祂不只供應今生的飽足，更要賜下永生。
+> **本章鑰詞：擘開 Breaking** \
+> **生平座標**：第 12 站／共 37 站 · 卷四「國度的憲章與記號」· 年代有爭論，節令在逾越節前、春季（約6:4） \
+> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 2 段——才行神蹟：憲章宣告之後，王的手開始動，在曠野擺設筵席 \
+> （全書骨幹見卷首《神的總計劃》）
+
+五千人吃飽的故事，常被講成「把你有的獻上」。四卷福音書卻不約而同把鏡頭對準一串動作：拿起、望天、祝福、擘開、遞給——動詞的主語始終是祂，門徒的手只管接過來、遞出去。約翰稱它為「記號」（σημεῖον），記號指向的不是餅的數量，是擘開餅的那個人。四卷各記了不同的細節，合起來才完整：馬太的憐憫、馬可的牧人、路加的伯賽大、約翰的試驗與強逼作王。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Savior, Like a Shepherd Lead Us** \
+> *attr. Dorothy A. Thrupp, 1836*
+>
+> Savior, like a shepherd lead us, \
+> Much we need Thy tender care; \
+> In Thy pleasant pastures feed us, \
+> For our use Thy folds prepare.
+>
+> 救主如牧人引領我們，我們何等需要你溫柔看顧； \
+> 在你佳美草場餵養我們，為我們預備你的羊圈。
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-> ^1^這些事以後，耶穌渡過加利利海，就是提比哩亞海。^2^有一大群人因為看見祂在病人身上所行的神蹟，就跟隨祂。^3^耶穌上了山，和門徒一同坐在那裏。^4^那時猶太人的逾越節近了。^5^耶穌舉目看見一大群人來，就對腓力說：<red>「我們從哪裏買餅給這些人吃呢？」</red>^6^祂說這話是要考驗腓力，祂自己原知道要怎樣做。^7^腓力回答祂：「就是二百個銀幣的餅也不夠，讓他們每人吃一點點吧。」
+#### 馬太福音 14:13-21
 
-> ^8^有一個門徒，就是西門．彼得的兄弟安德烈，對耶穌說：^9^「這裏有一個孩子，帶着五個大麥餅和兩條魚，只是分給這麼多人還算甚麼呢？」^10^耶穌說：<red>「你們叫眾人坐下。」</red>原來那地方的草很多，眾人就坐下，男人約有五千。^11^耶穌拿起餅來，祝謝了，分給坐着的人；分魚也是這樣，都隨着他們所要的。^12^他們吃飽了，耶穌對門徒說：<red>「把剩下的碎屑收拾起來，免得浪費。」</red>^13^他們就把眾人吃了的五個大麥餅的碎屑收拾起來，裝滿了十二個籃子。
+> ^13^耶穌聽見了，就上船從那裏獨自退到野地裏去。眾人聽見，就從各城裏步行跟隨他。^14^耶穌出來，見有許多的人，就憐憫他們，治好了他們的病人。
 
-> ^14^眾人看見耶穌所行的神蹟，就說：「這真是那要到世上來的先知！」^15^耶穌知道他們要來強迫祂作王，就獨自又退到山上去了。
+> ^15^天將晚的時候，門徒進前來，說：「這是野地，時候已經過了，請叫眾人散開，他們好往村子裏去，自己買吃的。」^16^耶穌說：\jesus{「不用他們去，你們給他們吃罷！」}^17^門徒說：「我們這裏只有五個餅，兩條魚。」^18^耶穌說：\jesus{「拿過來給我。」}^19^於是吩咐眾人坐在草地上，就拿著這五個餅，兩條魚，望著天祝福，擘開餅，遞給門徒，門徒又遞給眾人。^20^他們都吃，並且吃飽了；把剩下的零碎收拾起來，裝滿了十二個籃子。^21^吃的人，除了婦女孩子，約有五千。
 
-### English — NKJV
+#### 馬可福音 6:30-44
 
-> ^1^After these things Jesus went over the Sea of Galilee, which is the Sea of Tiberias. ^2^Then a great multitude followed Him, because they saw His signs which He performed on those who were diseased. ^3^And Jesus went up on the mountain, and there He sat with His disciples. ^4^Now the Passover, a feast of the Jews, was near. ^5^Then Jesus lifted up His eyes, and seeing a great multitude coming toward Him, He said to Philip, <red>"Where shall we buy bread, that these may eat?"</red> ^6^But this He said to test him, for He Himself knew what He would do. ^7^Philip answered Him, "Two hundred denarii worth of bread is not sufficient for them, that every one of them may have a little."
+> ^30^使徒聚集到耶穌那裏，將一切所做的事、所傳的道全告訴他。^31^他就說：\jesus{「你們來，同我暗暗的到曠野地方去歇一歇。」}這是因為來往的人多，他們連吃飯也沒有工夫。^32^他們就坐船，暗暗的往曠野地方去。^33^眾人看見他們去，有許多認識他們的，就從各城步行，一同跑到那裏，比他們先趕到了。^34^耶穌出來，見有許多的人，就憐憫他們，因為他們如同羊沒有牧人一般，於是開口教訓他們許多道理。^35^天已經晚了，門徒進前來，說：「這是野地，天已經晚了，^36^請叫眾人散開，他們好往四面鄉村裏去，自己買甚麼吃。」^37^耶穌回答說：\jesus{「你們給他們吃罷。」}門徒說：「我們可以去買二十兩銀子的餅，給他們吃麼？」^38^耶穌說：\jesus{「你們有多少餅，可以去看看。」}他們知道了，就說：「五個餅，兩條魚。」^39^耶穌吩咐他們，叫眾人一幫一幫的坐在青草地上。^40^眾人就一排一排的坐下，有一百一排的，有五十一排的。^41^耶穌拿著這五個餅，兩條魚，望著天祝福，擘開餅，遞給門徒，擺在眾人面前，也把那兩條魚分給眾人。^42^他們都吃，並且吃飽了。^43^門徒就把碎餅碎魚收拾起來，裝滿了十二個籃子。^44^吃餅的男人共有五千。
 
-> ^8^One of His disciples, Andrew, Simon Peter's brother, said to Him, ^9^"There is a lad here who has five barley loaves and two small fish, but what are they among so many?" ^10^Then Jesus said, <red>"Make the people sit down."</red> Now there was much grass in the place. So the men sat down, in number about five thousand. ^11^And Jesus took the loaves, and when He had given thanks He distributed them to the disciples, and the disciples to those sitting down; and likewise of the fish, as much as they wanted. ^12^So when they were filled, He said to His disciples, <red>"Gather up the fragments that remain, so that nothing is lost."</red> ^13^Therefore they gathered them up, and filled twelve baskets with the fragments of the five barley loaves which were left over by those who had eaten.
+#### 路加福音 9:10-17
 
-> ^14^Then those men, when they had seen the sign that Jesus did, said, "This is truly the Prophet who is to come into the world." ^15^Therefore when Jesus perceived that they were about to come and take Him by force to make Him king, He departed again to the mountain by Himself alone.
+> ^10^使徒回來，將所作的事告訴耶穌，耶穌就帶他們暗暗的離開那裏，往一座城去；那城名叫伯賽大。^11^但眾人知道了，就跟著他去；耶穌便接待他們，對他們講論神國的道，醫治那些需醫的人。^12^日頭快要平西，十二個門徒來對他說：「請叫眾人散開，他們好往四面鄉村裏去借宿找吃的，因為我們這裏是野地。」^13^耶穌說：\jesus{「你們給他們吃罷！」}門徒說：「我們不過有五個餅，兩條魚，若不去為這許多人買食物就不夠。」^14^那時，人數約有五千。耶穌對門徒說：\jesus{「叫他們一排一排的坐下，每排大約五十個人。」}^15^門徒就如此行，叫眾人都坐下。^16^耶穌拿著這五個餅，兩條魚，望著天祝福，擘開，遞給門徒，擺在眾人面前。^17^他們就吃，並且都吃飽了；把剩下的零碎收拾起來，裝滿了十二籃子。
+
+
+#### 約翰福音 6:1-15
+
+> ^1^這事以後，耶穌渡過加利利海，就是提比哩亞海。^2^有許多人因為看見他在病人身上所行的神蹟，就跟隨他。^3^耶穌上了山，和門徒一同坐在那裏。^4^那時猶太人的逾越節近了。^5^耶穌舉目看見許多人來，就對腓力說：\jesus{「我們從那裏買餅叫這些人吃呢？」}^6^他說這話是要試驗腓力；他自己原知道要怎樣行。^7^腓力回答說：「就是二十兩銀子的餅，叫他們各人吃一點也是不夠的。」^8^有一個門徒，就是西門彼得的兄弟安得烈，對耶穌說：^9^「在這裏有一個孩童，帶著五個大麥餅、兩條魚，只是分給這許多人還算甚麼呢？」^10^耶穌說：\jesus{「你們叫眾人坐下。」}原來那地方的草多，眾人就坐下，數目約有五千。^11^耶穌拿起餅來，祝謝了，就分給那坐著的人；分魚也是這樣，都隨著他們所要的。^12^他們吃飽了，耶穌對門徒說：\jesus{「把剩下的零碎收拾起來，免得有糟蹋的。」}^13^他們便將那五個大麥餅的零碎，就是眾人吃了剩下的，收拾起來，裝滿了十二個籃子。
+
+> ^14^眾人看見耶穌所行的神蹟，就說：「這真是那要到世間來的先知！」^15^耶穌既知道眾人要來強逼他作王，就獨自又退到山上去了。
+
+
+### English — NASB
+
+#### Matthew 14:13-21
+
+> ^13^Now when Jesus heard *about John,* He withdrew from there in a boat to a secluded place by Himself; and when the people heard *of this,* they followed Him on foot from the cities. ^14^When He went ashore, He saw a large crowd, and felt compassion for them and healed their sick.
+
+> ^15^When it was evening, the disciples came to Him and said, “This place is desolate and the hour is already late; so send the crowds away, that they may go into the villages and buy food for themselves.” ^16^But Jesus said to them, \jesus{“They do not need to go away; you give them \textit{something} to eat!”} ^17^They said to Him, “We have here only five loaves and two fish.” ^18^And He said, \jesus{“Bring them here to Me.”} ^19^Ordering the people to sit down on the grass, He took the five loaves and the two fish, and looking up toward heaven, He blessed *the food,* and breaking the loaves He gave them to the disciples, and the disciples *gave them* to the crowds, ^20^and they all ate and were satisfied. They picked up what was left over of the broken pieces, twelve full baskets. ^21^There were about five thousand men who ate, besides women and children.
+
+#### Mark 6:30-44
+
+> ^30^The apostles gathered together with Jesus; and they reported to Him all that they had done and taught. ^31^And He said to them, \jesus{“Come away by yourselves to a secluded place and rest a while.”} (For there were many people coming and going, and they did not even have time to eat.) ^32^They went away in the boat to a secluded place by themselves. ^33^The people saw them going, and many recognized them and ran there together on foot from all the cities, and got there ahead of them. ^34^When Jesus went ashore, He saw a large crowd, and He felt compassion for them because they were like sheep without a shepherd; and He began to teach them many things. ^35^When it was already quite late, His disciples came to Him and said, “This place is desolate and it is already quite late; ^36^send them away so that they may go into the surrounding countryside and villages and buy themselves something to eat.” ^37^But He answered them, \jesus{“You give them something to eat!”} And they said to Him, \jesus{“Shall we go and spend two hundred denarii on bread and give them something to eat?”} ^38^And He said to them, \jesus{“How many loaves do you have? Go look!”} And when they found out, they said, “Five, and two fish.” ^39^And He commanded them all to sit down by groups on the green grass. ^40^They sat down in groups of hundreds and of fifties. ^41^And He took the five loaves and the two fish, and looking up toward heaven, He blessed the food and broke the loaves and He kept giving them to the disciples to set before them; and He divided up the two fish among them all. ^42^They all ate and were satisfied, ^43^and they picked up twelve full baskets of the broken pieces, and also of the fish. ^44^There were five thousand men who ate the loaves.
+
+#### Luke 9:10-17
+
+> ^10^When the apostles returned, they gave an account to Him of all that they had done. Taking them with Him, He withdrew by Himself to a city called Bethsaida. ^11^But the crowds were aware of this and followed Him; and welcoming them, He *began* speaking to them about the kingdom of God and curing those who had need of healing. ^12^Now the day was ending, and the twelve came and said to Him, “Send the crowd away, that they may go into the surrounding villages and countryside and find lodging and get something to eat; for here we are in a desolate place.” ^13^But He said to them, \jesus{“You give them \textit{something} to eat!”} And they said, “We have no more than five loaves and two fish, unless perhaps we go and buy food for all these people.” ^14^(For there were about five thousand men.) And He said to His disciples, \jesus{“Have them sit down \textit{to eat} in groups of about fifty each.”} ^15^They did so, and had them all sit down. ^16^Then He took the five loaves and the two fish, and looking up to heaven, He blessed them, and broke *them,* and kept giving *them* to the disciples to set before the people. ^17^And they all ate and were satisfied; and the broken pieces which they had left over were picked up, twelve baskets *full.*
+
+
+#### John 6:1-15
+
+> ^1^After these things Jesus went away to the other side of the Sea of Galilee (or Tiberias). ^2^A large crowd followed Him, because they saw the signs which He was performing on those who were sick. ^3^Then Jesus went up on the mountain, and there He sat down with His disciples. ^4^Now the Passover, the feast of the Jews, was near. ^5^Therefore Jesus, lifting up His eyes and seeing that a large crowd was coming to Him, said to Philip, \jesus{“Where are we to buy bread, so that these may eat?”} ^6^This He was saying to test him, for He Himself knew what He was intending to do. ^7^Philip answered Him, “Two hundred denarii worth of bread is not sufficient for them, for everyone to receive a little.” ^8^One of His disciples, Andrew, Simon Peter’s brother, said to Him, ^9^“There is a lad here who has five barley loaves and two fish, but what are these for so many people?” ^10^Jesus said, \jesus{“Have the people sit down.”} Now there was much grass in the place. So the men sat down, in number about five thousand. ^11^Jesus then took the loaves, and having given thanks, He distributed to those who were seated; likewise also of the fish as much as they wanted. ^12^When they were filled, He said to His disciples, \jesus{“Gather up the leftover fragments so that nothing will be lost.”} ^13^So they gathered them up, and filled twelve baskets with fragments from the five barley loaves which were left over by those who had eaten.
+
+> ^14^Therefore when the people saw the sign which He had performed, they said, “This is truly the Prophet who is to come into the world.” ^15^So Jesus, perceiving that they were intending to come and take Him by force to make Him king, withdrew again to the mountain by Himself alone.
+
 
 ---
 
 ## 背景 (Context)
 
-### 四福音皆記載的神蹟
+### 舊約的根：曠野的糧、大麥餅與牧人
 
-五餅二魚是耶穌事工中唯一被四卷福音書都記載的神蹟（復活除外）。這顯示其特殊重要性：
+**曠野的糧。**以色列出了埃及，在曠野沒有糧食，神說：「我要將糧食從天降給你們」（出16:4）。糧食出現的那天早晨，百姓彼此對問：「這是甚麼呢？」（16:15）——「嗎哪」這個名字，本來就是一句問話。這糧吃了四十年（16:35）。（見本系列《出埃及記》第十六章〈天上降下的糧〉。）曠野的日子將盡，摩西回頭說明這四十年的用意：
 
-| 福音書 | 經文 | 特色 |
-|--------|------|------|
-| 馬太 | 14:13-21 | 強調耶穌的憐憫 |
-| 馬可 | 6:30-44 | 門徒需要休息的背景 |
-| 路加 | 9:10-17 | 發生在伯賽大附近 |
-| 約翰 | 6:1-15 | 引出「生命的糧」講論 |
+> 他苦煉你，任你飢餓，將你和你列祖所不認識的嗎哪賜給你吃，使你知道，人活著不是單靠食物，乃是靠耶和華口裏所出的一切話。（申 8:3）
 
-### 時間與地點
+（見《申命記》第六章〈記念曠野的路〉。）耶穌在曠野受試探時，引的正是這一節（太4:4）：祂那一次拒絕為自己把石頭變成食物；這一次，在另一處野地，祂為別人擘開餅。
 
-- **時間**：逾越節近了（約6:4）——耶穌事工的第三個逾越節
-- **地點**：加利利海東北岸，靠近伯賽大的曠野
-- **人數**：男人約五千，加上婦女孩童可能超過一萬五千人
+**詩篇的追問。**詩篇78篇替以色列的不信留下一句問話：「神在曠野豈能擺設筵席麼？」（詩78:19）神用嗎哪回答了一次（78:24-25）。四福音寫五千人吃飽，場景幾乎一模一樣：野地、群眾、飢餓、筵席。（詩篇卷三，詩73-89。）
 
-### 逾越節的連結
+**以利沙的二十個餅。**列王紀下4:42-44 記一個人從巴力·沙利沙帶來「初熟大麥做的餅二十個」，僕人問：「這一點豈可擺給一百人吃呢？」先知回答：「你只管給眾人吃吧！因為耶和華如此說，眾人必吃了，還剩下。」結果是「他們吃了，果然還剩下，正如耶和華所說的」。約翰福音6:9 孩童帶的是「五個大麥餅」，同樣是大麥；那一次是一百人，這一次是五千個男人。（見《列王紀下》第四章〈一瓶油、小樓與鍋中的毒〉。）
 
-約翰特別提到「逾越節近了」，暗示：
-1. 這神蹟與出埃及的嗎哪相呼應
-2. 耶穌是比摩西更大的供應者
-3. 即將成為「逾越節的羔羊」
+**牧人。**馬可記耶穌「就憐憫他們，因為他們如同羊沒有牧人一般」（可6:34）。摩西臨終求神立一位領袖，「免得耶和華的會眾如同沒有牧人的羊群一般」（民27:17）；以西結書34章控告失職的牧人，神親口應許：「我必親自尋找我的羊，將牠們尋見」（結34:11），又說：「我必親自作我羊的牧人，使牠們得以躺臥」（34:15）。馬可6:39 特意記下「青草地」，眾人一幫一幫地坐在草地上——正是「躺臥」的畫面。（見《以西結書》第二十五章〈以色列的牧人〉。）
+
+**「那先知」。**群眾說「這真是那要到世間來的先知」（約6:14），指的是申命記18:15 所應許的、像摩西的那一位（見《申命記》卷首〈「那一位先知」——全書的骨幹〉）。他們認對了名號。
+
+### 歷史與地理
+
+- **節令與季節。**約翰特別記「那時猶太人的逾越節近了」（6:4）；逾越節在春季，與經文裏的「草多」（約6:10）、「青草地」（可6:39）相合。年代有爭論，本書不定年份。
+- **地點。**加利利海又叫提比哩亞海（約6:1）；提比哩亞是希律安提帕所建、以羅馬皇帝提庇留命名的城（約瑟夫《猶太古史》有記載）。路加說耶穌帶門徒「往一座城去；那城名叫伯賽大」（路9:10），馬可卻在餵飽之後寫耶穌催門徒「先渡到那邊伯賽大去」（可6:45）。這兩處伯賽大是不是同一地、確切在哪裏，學者有爭論；本書不下斷語。四卷共同的說法是：那是一處「野地」（太14:15；可6:35；路9:12）。
+- **起因。**馬太寫耶穌聽見施洗約翰的死訊，退到野地（14:13）；馬可與路加寫使徒傳道回來報告，耶穌要帶他們歇一歇（可6:30-31；路9:10）；約翰沒有交代來由，只記群眾因看見祂在病人身上所行的神蹟而跟隨（6:2）。
+- **人數與錢。**四卷都說男人約五千；馬太另加「除了婦女孩子」（14:21），總數聖經沒有給。腓力說「二十兩銀子的餅」也不夠（約6:7；和合本的譯法，原文是二百個得拿利）：一個得拿利約是當時工人一天的工錢（參太20:2「一天一錢銀子」），二百個約是二百天的工資。
+- **大麥餅與小魚。**大麥比小麥便宜，是窮人的口糧（參啟6:6 的糧價）。五個大麥餅、兩條魚，是一個孩童帶著的（約6:9）——只有約翰記了這個孩子。
+- **籃子。**四卷記五千人吃飽，裝碎屑的都是 κόφινος（隨身的小提籃）；記四千人吃飽那一次，用的是另一個字 σπυρίς（可8:19-20），耶穌自己把兩次分開數過。
+
+### 四卷怎麼記
+
+四卷福音書都記了這件事。一般的說法是：除了耶穌自己的復活，這是四福音共同記載的唯一神蹟。四卷各有特別留意的細節：
+
+| 福音書 | 經文 | 這一卷特別記的 |
+|--------|------|----------------|
+| 馬太 | 14:13-21 | 聽見約翰死訊而退去；耶穌「憐憫他們，治好了他們的病人」；「除了婦女孩子」 |
+| 馬可 | 6:30-44 | 使徒回來，「歇一歇」；「如同羊沒有牧人一般」；教訓許多道理；青草地；一百一排、五十一排 |
+| 路加 | 9:10-17 | 以伯賽大為場景；「對他們講論神國的道」；日頭快要平西 |
+| 約翰 | 6:1-15 | 逾越節；問腓力、「要試驗腓力」；安得烈與孩童；「免得有糟蹋的」；「那先知」與強逼作王 |
 
 ---
 
 ## 原文研讀 (Word Study)
 
-| 希臘文 | 音譯 | 意義 | 經文 |
-|--------|------|------|------|
-| ἄρτος κρίθινος | artos krithinos | 大麥餅 | 6:9 |
-| ὀψάριον | opsarion | 小魚/配菜 | 6:9 |
-| εὐχαριστέω | eucharisteō | 祝謝/感恩 | 6:11 |
-| κόφινος | kophinos | 籃子（猶太式） | 6:13 |
-| περισσεύω | perisseuō | 剩餘/有餘 | 6:12-13 |
-
-### 「大麥餅」的意義
-
-大麥餅是窮人的食物（比小麥便宜）。這個孩子的午餐是貧窮人的食物，卻被耶穌使用來餵飽眾人。神使用卑微的器皿成就大事。
-
-### 「十二籃子」的象徵
-
-剩下的碎屑裝滿「十二個籃子」——正好是十二門徒的數目。這可能象徵：
-1. 神的供應不僅夠用，而且有餘
-2. 門徒各人都經歷神的豐盛
-3. 以色列十二支派的供應
+| 希臘文 | 音譯 | 意義 | 經文 | 註解 |
+|--------|------|------|------|------|
+| σημεῖον | sēmeion | 記號 | 約6:2, 14 | 和合本譯「神蹟」；約翰一貫稱祂的神蹟為「記號」，記號指向餅以外的東西 |
+| σπλαγχνίζομαι | splanchnizomai | 動了憐憫的心 | 太14:14；可6:34 | 詞根是「內臟」，指從肺腑翻出來、驅動行動的憐憫 |
+| εὐλόγησεν ／ εὐχαριστήσας | eulogēsen ／ eucharistēsas | 祝福／祝謝 | 太14:19；約6:11 | 三卷符類福音用「祝福」，約翰用「祝謝」（eucharisteō，「聖餐」Eucharist 的字根） |
+| ἔκλασεν | eklasen | 擘開 | 太14:19；可6:41；路9:16 | 最後晚餐（太26:26）用的是同一個動詞；約翰這一幕沒有用這個動詞，只用名詞 κλάσματα「碎屑」（6:12-13） |
+| πρασιά | prasia | 一畦一畦 | 可6:40 | 原指菜園裏一畦一畦的畦；馬可用來描寫眾人坐成一排一排的樣子 |
+| κόφινος | kophinos | 籃子 | 太14:20；可6:43；路9:17；約6:13 | 猶太人隨身的小提籃；四千人那次是 σπυρίς（可8:19-20） |
 
 ---
 
-## 解經洞見 (Commentary)
+## 領受要點 (Truths Received)
 
-### John MacArthur 論耶穌的測試
+### 1. 他們算缺口，祂要他們拿手上有的
 
-> 「耶穌問腓力『我們從哪裏買餅』，是要測試他的信心。腓力是伯賽大人，熟悉當地，是最可能知道答案的人。但耶穌不是要地理知識，而是要信心。腓力的答案是純粹人的計算——二百個銀幣（約八個月工資）都不夠。他只看見問題的大小，沒有看見站在祂面前的是誰。安德烈至少帶來了那個孩子的午餐，但他也說『這算甚麼呢？』他們都沒有意識到，在耶穌手中，不可能變為可能。」
-> — John MacArthur, *The MacArthur New Testament Commentary: John 1-11*
+腓力的計算是對的：二百個得拿利，確實不夠（約6:7）。安得烈的計算也是對的：五個餅、兩條魚，分給這麼多人「還算甚麼呢」（6:9）。錯的不是算術，是問題——祂問的從來不是「夠不夠」。馬太記祂說「拿過來給我」（14:18），馬可記祂說「你們有多少餅，可以去看看」（6:38）。祂要他們去數的是手上有的，不是缺口。門徒的差事是去看、去拿、去分；擘開的是祂。
 
-### G. Campbell Morgan 論神蹟的本質
+### 2. 憐憫在前，教訓在中，餵養在後
 
-> 「耶穌『拿起餅來，祝謝了，分給眾人』——這正是普通用餐的程序。神蹟不是在某個戲劇性的時刻發生，而是在分發的過程中持續發生。餅在耶穌手中擘開、分出，就不斷增多。這正是屬靈生命的寫照：我們所擁有的，在我們手中是有限的；但一旦交給基督，經祂祝福、擘開、分出，就成為無限。五餅二魚本身沒有神奇，但在基督手中，它成為餵飽萬人的筵席。」
-> — G. Campbell Morgan, *The Gospel According to John*
+四卷各取了這件事的一面：馬太寫「憐憫他們，治好了他們的病人」（14:14）；馬可寫「就憐憫他們，因為他們如同羊沒有牧人一般，於是開口教訓他們許多道理」（6:34）；路加寫「對他們講論神國的道，醫治那些需醫的人」（9:11）。合起來看，順序是先看見人的缺乏，從最深的處理起：醫病、教導，天將晚了才輪到餅。羊最深的缺乏不在肚子。
 
----
+### 3. 他們說對了名號，要錯了王位
 
-## 領受與亮光 (Light Received)
+約翰記眾人「看見耶穌所行的神蹟，就說：這真是那要到世間來的先知」（6:14）——他們沒有認錯，申命記18:15 正是這個應許。可是接下來是：「耶穌既知道眾人要來強逼他作王，就獨自又退到山上去了」（6:15）。他們要的是一位餵飽人的王。曠野裏撒但曾叫祂把石頭變成食物（太4:3-4），祂拒絕；現在眾人把同一個王位送到祂面前，祂還是退去。祂給餅，卻不肯只作那位給餅的王。
 
-### 1. 嗎哪與生命的糧
+### 4. 這個記號沒有說完，它向後指
 
-這神蹟呼應出埃及的嗎哪，但也指向更大的實體：
-
-| 嗎哪（出16章） | 五餅二魚 | 生命的糧（約6章） |
-|---------------|---------|-----------------|
-| 從天降下 | 在曠野賜下 | 基督從天降下 |
-| 餵養身體 | 餵飽肉體 | 餵養靈魂 |
-| 每日撿取 | 一次飽足 | 一次相信，永遠飽足 |
-| 會腐壞 | 有剩餘 | 永不朽壞 |
-| 指向基督 | 預備基督的教導 | 基督是最終實體 |
-
-### 2. 門徒的角色
-
-| 門徒被要求做的 | 耶穌做的 |
-|---------------|---------|
-| 叫眾人坐下 | 行神蹟 |
-| 把餅和魚帶來 | 祝謝 |
-| 分發食物 | 增添 |
-| 收拾碎屑 | 供應有餘 |
-
-門徒不需要行神蹟，但他們是神蹟的管道。
-
-### 3. 五千人的回應
-
-> 「這真是那要到世上來的先知！」(6:14)
-
-群眾引用申命記18:15的應許——摩西預言的「那先知」。他們認出耶穌是彌賽亞，但他們想要的是政治解放者和物質供應者，不是屬靈救主。
-
-### 4. 耶穌的退避
-
-> 「耶穌知道他們要來強迫祂作王，就獨自又退到山上去了。」(6:15)
-
-耶穌拒絕成為群眾期待的那種王：
-- 祂不是來推翻羅馬政權
-- 祂不是來提供物質繁榮
-- 祂來是作靈魂的救主，不是肉體的供應者
-- 祂的國度不屬這世界
+太14:19 的四個動作：拿起、祝福、擘開、遞給。幾章之後，在逾越節的晚上，馬太寫的是同樣的次序：「耶穌拿起餅來，祝福，就擘開，遞給門徒」（26:26）。復活的晚上，在以馬忤斯，兩個門徒是在「擘餅的時候」認出祂來的（路24:30-35）。五千人吃的是餅；擘開的意思，要等到後來才說得清楚。約翰把解釋留在同一章的後半——下一站，祂會親口說：這糧就是祂自己。
 
 ---
 
-## 個人反思 (Personal Reflection)
+## 歷代注疏 (Historical Commentary)
 
-1. **你的五餅二魚是甚麼？** 在你眼中微不足道的資源，交給耶穌會變成甚麼？你願意把自己的「午餐」獻上嗎？
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後，出處附在引文下方；不加引號的，是編者對解經者立場的**綜述**。
 
-2. **你如何計算？** 你像腓力一樣只做人的計算，還是把神蹟的可能性放進方程式？
+### 教父時期
 
-3. **你跟隨耶穌的原因**：群眾跟隨耶穌是因為看見神蹟、想得飽足。你跟隨耶穌的動機是甚麼？是為了祝福，還是為了祂自己？
+**屈梭多模 (John Chrysostom, c. 349-407)**：
 
-4. **肉體的糧 vs. 生命的糧**：你追求的是物質的滿足，還是靈魂的飽足？
+**「你們給他們吃」——祂不說「我給」**：屈梭多模在餵飽的敘事裏看出一套循循善誘的教法。
+
+> "But mark thou, I pray, the Teacher's skill, how distinctly He summons them on towards believing."
+>
+> 請你留意這位教師的智慧：祂如何一步一步，把他們引向相信。
+
+> "He said not, 'I give them,' but, 'Give ye them;'"
+>
+> 祂不說「我給他們」，卻說「你們給他們」。
+
+門徒的回答暴露了他們的光景——他們仍舊貼著地面爬行：
+
+> "They continuing therefore to crawl on the ground"
+>
+> 他們就這樣繼續在地上爬行。
+
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 49 (on Matt 14:13-21), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+**神蹟為甚麼拖到天將晚**：論太14:15「天將晚的時候」，加爾文說：
+
+> "He had purposely delayed till now the miracle which he intended to perform; first, that his disciples might consider it more attentively, and might thus derive from it greater advantage"
+>
+> 祂是特意把要行的神蹟延到這時候：首先，是為使門徒更專注地思想這件事，從而得著更大的益處。
+
+> "though he does not prevent, and even does not immediately supply, the wants of his people, yet he never ceases to care for them"
+>
+> 祂雖不阻止、甚至不立刻供應祂百姓的缺乏，卻從不停止顧念他們。
+
+**天上的牧人**：論太14:14，加爾文留意那位已升天的主：
+
+> "he looks down from heaven on poor sheep that have no shepherd, provided they ask relief of their wants"
+>
+> 祂從天上垂顧那些沒有牧人的可憐的羊，只要他們求告祂解除自己的缺乏。
+
+> — John Calvin, *Commentary on a Harmony of the Evangelists*（Pringle 英譯；CCEL calcom32；太14:14-15 段）
+
+### 摩根 (G. Campbell Morgan)
+
+**「拿我們所有的」**：
+
+> "Let us bring Him our five loaves. It is no good our trying to feed a crowd with our loaves... Give it to Christ. He will take the worthless things of our poverty, and He will multiply them to the feeding of the crowd."
+>
+> 讓我們把五個餅帶到祂面前。想靠自己的餅去餵飽群眾，是徒然的……把它交給基督。祂必接過我們貧乏中那些不值一提的東西，使它們倍增，餵飽群眾。
+
+> 出處：G. Campbell Morgan, *The Gospel According to Luke*（本章相關講章）
+
+**「歇一歇」——先看見肉身的疲乏**：論可6:31，摩根提醒讀者：
+
+> "As we read the words we should be careful lest we rob them of all their beauty by wholly spiritualizing them."
+>
+> 我們讀這些話的時候要小心，免得把它們完全屬靈化，反倒奪去了它們原有的美。
+
+> 出處：G. Campbell Morgan, *The Gospel According to Mark*（1927），可 6:1-6、6:7-56 講章
+
+**腓力的計算與安得烈的冒險**（要旨綜述，非逐字引文）：摩根讀約6:5-9：腓力的回答完全出於計算，誠實卻沒有信心；安得烈往前跨了一步，把那孩童帶到耶穌面前，語氣卻近乎自嘲，覺得這點東西算不得甚麼。
+
+### 麥克阿瑟 (John MacArthur)
+
+**創造主在動手**：論五餅二魚的性質，麥克阿瑟說：
+
+> "This is just creation by the Creator. The faith of His own was strengthened."
+>
+> 這就是創造主所行的創造。祂自己百姓的信心因此得著堅固。
+
+> — John MacArthur, *The Creator Provides* (sermon 41-30), gty.org
+
+**門徒是管道**（要旨綜述，非逐字引文）：麥克阿瑟指出門徒的角色不是製造神蹟，是分配神蹟——他們把餅遞出去，供應卻源源不絕；也指出門徒面對五千人的第一反應是計算「不夠」，耶穌卻不問「夠不夠」，只問「你有甚麼」。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Break Thou the Bread of Life* (求主擘生命餅)
+### 詩篇 23:1-2
 
-> Break Thou the bread of life, dear Lord, to me,
-> As Thou didst break the loaves beside the sea;
-> Beyond the sacred page I seek Thee, Lord;
-> My spirit pants for Thee, O living Word!
+> 耶和華是我的牧者，我必不致缺乏。 \
+> 他使我躺臥在青草地上，領我在可安歇的水邊。
 
-**詩篇**：詩篇 23:1-2, 5
+馬可特別寫下「青草地」，眾人一幫一幫地坐下。詩篇的牧者與福音書的牧者，在這一刻合在同一片草地上。
 
-> 耶和華是我的牧者，我必不致缺乏。
-> 祂使我躺臥在青草地上，領我到安靜的水邊。
-> 在我敵人面前，祢為我擺設筵席；
-> 祢用油膏了我的頭，使我的福杯滿溢。
+### 詩篇 78:19-25 — 曠野的筵席
+
+> ^19^並且妄論神說：「神在曠野豈能擺設筵席麼？^20^他曾擊打磐石，使水湧出，成了江河；他還能賜糧食麼？還能為他的百姓預備肉麼？」
+
+> ^23^他卻吩咐天空，又敞開天上的門，^24^降嗎哪，像雨給他們吃，將天上的糧食賜給他們。^25^各人（或譯：人）吃大能者的食物；他賜下糧食，使他們飽足。
+
+「神在曠野豈能擺設筵席麼」——神用嗎哪回答了一次，如今用五個餅、兩條魚回答第二次。
+
+### Break Thou the Bread of Life
+
+> **Break Thou the Bread of Life** \
+> *Mary A. Lathbury, 1877*
+>
+> Break Thou the bread of life, dear Lord, to me, \
+> As Thou didst break the loaves beside the sea; \
+> Beyond the sacred page I seek Thee, Lord; \
+> My spirit pants for Thee, O Living Word!
+>
+> 主，為我擘開生命餅，如在海邊擘餅； \
+> 我要超越聖經文字，尋求你活潑話語！
+
+這首詩求的不是更多的知識，是那位擘餅的主自己：「如在海邊擘餅」——詩人要的，是同一雙手，今天也為他擘開生命的糧。
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**（方法性撮述，非逐字語錄）：拿起，祝福，擘開，遞給——這個記號裏的每一個動詞，主語都只有一位。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：兆頭指向「我是生命的糧」。曠野的嗎哪天天從天降下（出 16），摩西說「人活著不是單靠食物」（申 8:3）；如今那真糧親自站在他們面前（約 6:35）。這也呼應以利沙二十個餅餵飽百人有餘（王下 4:42-44）的放大成就。
+**糧的線**：神在曠野說「我要將糧食從天降給你們」（出16:4）；摩西回頭說這是要叫人知道「人活著不是單靠食物，乃是靠耶和華口裏所出的一切話」（申8:3）；以利沙用二十個大麥餅，叫一百人吃了還剩下（王下4:42-44）；耶穌用五個大麥餅，叫五千男人吃飽（約6:9-13）；啟示錄裏的應許是：「得勝的，我必將那隱藏的嗎哪賜給他」（啟2:17）。這條線上，神一直是先給糧的那一位。
+
+**牧人的線**：「免得耶和華的會眾如同沒有牧人的羊群一般」（民27:17）；「我必親自作我羊的牧人，使牠們得以躺臥」（結34:15）；耶穌看見群眾，動了憐憫的心，因為他們如同羊沒有牧人一般（可6:34），叫他們一幫一幫坐在青草地上；啟示錄7:17 的收筆是：「因為寶座中的羔羊必牧養他們，領他們到生命水的泉源」。老弟兄對讀者的一句話，正好放在青草地上：「躺在青草地上，是羊在反芻——你的讀經是反芻嗎？」
+
+**擘餅的線**：祂在野地擘開餅（太14:19）；在逾越節的晚上擘開餅，說「這是我的身體」（26:26）；復活的晚上在以馬忤斯擘開餅，他們的眼睛明亮了（路24:30-31）；啟示錄19:9 預備的最後一席是：「凡被請赴羔羊之婚筵的有福了！」餅在這條線上，先是擘開，後來是被擘開的那一位自己，最後是筵席。
 
 ### 提問式對話 (Let the Reader Speak)
 
-黃長老不急著給答案，他一層一層地問：
+老弟兄的提問有固定的形狀：先問、再問、追問、落到自己。以下是編者依這個方法擬的問句，不是他的語錄：
 
-- 先問：「群眾吃飽後想做甚麼？（要強逼祂作王）他們要的是甚麼？」
-- 再問：「耶穌行這神蹟，最終要他們看見甚麼？（祂是生命的糧）」
-- 追問：「曠野的嗎哪和這餅，指向同一位嗎？」
-- 落到自己：「你追著祂，是為了吃餅得飽，還是為了祂這位『糧』的本身？」
+- 先問：「耶穌問腓力『我們從那裏買餅』，約翰說祂『自己原知道要怎樣行』。既然知道，為甚麼還要問？」
+- 再問：「四卷福音書都記了『拿起、祝福、擘開、遞給』。這四個動作，你在哪個場合還見過？」
+- 追問：「群眾說對了『那先知』，也親眼看見了記號——祂為甚麼還要退到山上？」
+- 落到自己：「祂說『你們給他們吃』。你面前最現成的那個『不夠』是甚麼？你今天是去算它，還是去『拿過來給我』？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天我們不停「餵」自己——刷內容、追更新、收資訊，像那群只想再吃一餐餅的人。餵得越多，心越餓。因為那真能飽足靈魂的，不是下一條內容，是那位生命的糧。你追的是餅，還是賜餅的主？
+今天，替腓力做那份試算表只要幾秒鐘：預算、人力、時間、機率，每一格都精確，結論也無可反駁——二百個得拿利，確實不夠。腓力的算術沒有錯，錯的是整張表只有一欄：缺口。AI 能把缺口算得比任何人都準，算不出的是一欄不在表格裏的數字：那位拿起餅來祝福的人，手裏還有甚麼。你面前最近的那個「不夠」，今天是交給試算表，還是先交給祂？
 
 ### 今天的祭壇 (Today's Altar)
 
-- **早晨**：今天先用神的話「吃早餐」，再去面對一天的資訊洪流。
-- **晚上**：今天我「餵」了自己多少內容？哪些真餵養了我的靈魂？
-- **一個行動**：今天禁一樣「停不下來的內容」一段時間，用那段時間親近主。
+- **早晨**：把今天「算出來不夠」的一件事（時間、力氣、錢）寫下來，對祂說：拿過來給我。
+- **晚上**：今天哪一刻，我只算了缺口，沒有想過祂手裏的那一份？
+- **一個行動**：為一個人預備一頓飯——「你們給他們吃」，今天就從一頓飯開始。
+
+**你看見耶穌了嗎？**五千人吃飽了，看見的是餅，要的是一位餵飽人的王；祂卻獨自退到山上去了。你在這一幕該看見的，是那位拿起、祝福、擘開、遞給的主：祂在野地擺設筵席，因為他們如同羊沒有牧人；祂問腓力，是因為自己原知道要怎樣行；祂擘開餅，是在預告自己將要被擘開。你今天追著祂，是為了祂手裏的餅，還是為了擘餅的那一位？
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 生命應用 (Application)
 
-**一句話精義**：祂掰開五餅餵飽五千——這「兆頭」不是要解決一頓午餐，是要宣告「我就是生命的糧」。
+### 默想問題
 
-**貫通全經**：曠野的嗎哪（出16）天天降下 → 「我是生命的糧」（約6:35），如今親自站在他們面前。
+1. 你面前有一個你已經算清楚「不夠」的處境。祂問的是「你有多少」，你今天去數的是哪一邊？
+2. 四卷福音書裏，哪一個細節最先抓住你——馬太的憐憫、馬可的牧人、路加的伯賽大、約翰的孩童？它為甚麼是這一個？
+3. 群眾要把祂擁立為餵飽人的王，祂退去了。你向祂求的，有沒有哪一樣，是在盼望祂只作那一種王？
 
-**無法迴避的問題**：「你追著祂，是為了吃餅得飽，還是為了祂這位『糧』的本身？」
+### 禱告回應
 
-> 「你的五餅二魚是甚麼？拿出來，交在祂手裏。沒人能算出，自己手裏那點微小，被祂祝謝後會變多大。」
+> 主耶穌，你看見群眾，就動了憐憫的心， \
+> 因為他們如同羊沒有牧人。 \
+> 求你顧念我裏面那些我自己算清了「不夠」的地方， \
+> 也教我把手上有的，拿過來交給你。 \
+> 願我今天追求的，不只是你手裏的餅，更是擘餅的你。阿們。
 
 ---
 
-## 回應禱告 (A Prayer to Pray)
+## 與其他經文的關聯
 
-> 主耶穌，祢就是生命的糧。我常追逐那不能飽足的東西，越追越餓；求祢叫我來到祢面前得真飽足，不是為著祢手中的餅，乃是為著祢自己。阿們。
-
----
-
-*三書精讀項目 · 耶穌基督完整生平 · 第十二章*
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 曠野的糧 | 約6:1-15 | 出16:4；申8:3；太4:4 |
+| 以利沙的大麥餅 | 約6:9 | 王下4:42-44 |
+| 曠野的筵席 | 太14:13-21 | 詩78:19-25 |
+| 牧人與羊 | 可6:34 | 民27:17；結34:11, 15；詩23；啟7:17 |
+| 那位像摩西的先知 | 約6:14 | 申18:15 |
+| 拿起、祝福、擘開、遞給 | 太14:19 | 太26:26；路24:30-31；啟19:9 |
+| 第二次分餅（四千人） | 可6:43 | 可8:1-9, 19-20 |

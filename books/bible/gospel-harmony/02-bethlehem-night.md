@@ -1,250 +1,305 @@
 ---
-title: 伯利恆之夜
-subtitle: The Night in Bethlehem
-chapter: 2
-scripture: 馬太福音 1:18-2:12, 路加福音 2:1-20
+title: 耶穌基督完整生平
+subtitle: The Complete Life of Jesus Christ
+author: PubHub 三書精讀系統
+date: 2026年11月
+publisher: 三書精讀出版系統
 ---
 
 # 伯利恆之夜 (The Night in Bethlehem)
 
-馬太福音 1:18-2:12, 路加福音 2:1-20
+參照行：馬太福音 1:18-2:12；路加福音 2:1-20
+
+**經文核對**：[ai-eden.com/bible/matthew/1](https://www.ai-eden.com/bible/matthew/1?t=CUV,NASB&cols=2)；[ai-eden.com/bible/luke/2](https://www.ai-eden.com/bible/luke/2?t=CUV,NASB&cols=2)；[ai-eden.com/bible/matthew/2](https://www.ai-eden.com/bible/matthew/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-伯利恆的夜晚有兩種人在尋找：牧人循著天使的指引，博士循著星宿的引導。他們所朝向的中心是同一位——躺在馬槽裏的萬王之王。從祂的角度讀，凱撒的戶口名冊不過是為了把祂送到先知所指的城；卑微的馬槽不是意外，而是「道成肉身，住在我們中間」的起點。
+> **本章鑰詞：為你們 For You（路 2:11-12 ὑμῖν）** \
+> **生平座標**：第 2 站／共 37 站 · 卷一「道成肉身」· 年代有爭論（在希律王去世、約主前 4 年之前） \
+> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 2 段——王降生了，卻沒有出現在王宮：祂睡在一個無處留宿的民居旁的槽裏；知道經文的人沒有動身，不知道經文的人從遠方來了。（本卷次序：神先說話，天使先對卑微的人說，王先睡在馬槽——道成肉身是從最小處開始的。） \
+> （全書骨幹見卷首《神的總計劃》）
+
+這一章裏神的消息送到三個地方：夢裏的約瑟、野地的牧羊人、遠方的博士。三批人都不在聖殿的體系之內。而在耶路撒冷、熟讀先知書的祭司長與文士，一句話就答出了基督的出生地，卻沒有一個人動身（太 2:4-6）。天使對牧羊人說的話，用了兩次「給你們」：救主是「為你們」生的，記號是「給你們」的（2:11-12）。大消息，是先交到具體的人手上的。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Joy to the World** \
+> *Isaac Watts, 1719*
+>
+> Joy to the world! the Lord is come; \
+> Let earth receive her King; \
+> Let every heart prepare Him room, \
+> And heaven and nature sing.
+>
+> 普世歡騰！主已降臨；
+> 願地接納她的王；
+> 願每一顆心都為祂預備地方，
+> 願天與萬物一同歌唱。
 
 ---
 
 ## 經文 (Scripture)
 
-### 一、耶穌基督降生 (The Birth of Jesus Christ)
+*本章是三段經文合讀：馬太福音 1:18-25（約瑟）、路加福音 2:1-20（牧羊人）、馬太福音 2:1-12（博士）。*
 
-馬太福音 1:18-25
+### 中文 — 和合本 (CUV)
 
-#### 中文 — 和合本修訂版 (RCUV)
+**約瑟：夢中的話（太 1:18-25）**
 
-> ^18^耶穌基督降生的事是這樣的：祂母親馬利亞已經許配了約瑟，還沒有迎娶，馬利亞就從聖靈懷了孕。^19^她丈夫約瑟是個義人，不願意公開羞辱她，想要暗暗地把她休了。^20^正思念這些事的時候，忽然有主的使者在夢中向他顯現，說：「大衛的子孫約瑟，不要怕，只管把你的妻子馬利亞娶過來，因為她所懷的孕是從聖靈來的。^21^她將要生一個兒子，你要給祂起名叫耶穌，因為祂要把自己的百姓從罪惡中拯救出來。」^22^這一切的事成就，是要應驗主藉先知所說的話：^23^「看哪，必有童女懷孕生子，人要稱祂的名為以馬內利。」（以馬內利翻出來就是「神與我們同在」。）^24^約瑟醒了，起來，就遵照主的使者所吩咐的，把妻子娶過來，^25^只是沒有和她同房，等她生了兒子，就給祂起名叫耶穌。
+> ^18^耶穌基督降生的事記在下面：他母親馬利亞已經許配了約瑟，還沒有迎娶，馬利亞就從聖靈懷了孕。^19^他丈夫約瑟是個義人，不願意明明的羞辱他，想要暗暗的把他休了。^20^正思念這事的時候，有主的使者向他夢中顯現，說：「大衛的子孫約瑟，不要怕！只管娶過你的妻子馬利亞來，因他所懷的孕是從聖靈來的。^21^他將要生一個兒子，你要給他起名叫耶穌，因他要將自己的百姓從罪惡裏救出來。」
 
-#### English — NKJV
+> ^22^這一切的事成就是要應驗主藉先知所說的話，^23^說：「必有童女懷孕生子；人要稱他的名為以馬內利。」（以馬內利翻出來就是「神與我們同在」。）^24^約瑟醒了，起來，就遵著主使者的吩咐把妻子娶過來；^25^只是沒有和他同房，等他生了兒子，就給他起名叫耶穌。
 
-> ^18^Now the birth of Jesus Christ was as follows: After His mother Mary was betrothed to Joseph, before they came together, she was found with child of the Holy Spirit. ^19^Then Joseph her husband, being a just man, and not wanting to make her a public example, was minded to put her away secretly. ^20^But while he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take to you Mary your wife, for that which is conceived in her is of the Holy Spirit. ^21^And she will bring forth a Son, and you shall call His name Jesus, for He will save His people from their sins." ^22^So all this was done that it might be fulfilled which was spoken by the Lord through the prophet, saying: ^23^"Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel," which is translated, "God with us." ^24^Then Joseph, being aroused from sleep, did as the angel of the Lord commanded him and took to him his wife, ^25^and did not know her till she had brought forth her firstborn Son. And he called His name Jesus.
+**牧羊人：野地的記號（路 2:1-20）**
 
----
+> ^1^當那些日子，該撒奧古斯都有旨意下來，叫天下人民都報名上冊。^2^這是居里扭作敘利亞巡撫的時候，頭一次行報名上冊的事。^3^眾人各歸各城，報名上冊。^4^約瑟也從加利利的拿撒勒城上猶太去，到了大衛的城，名叫伯利恆，因他本是大衛一族一家的人，^5^要和他所聘之妻馬利亞一同報名上冊。那時馬利亞的身孕已經重了。^6^他們在那裏的時候，馬利亞的產期到了，^7^就生了頭胎的兒子，用布包起來，放在馬槽裏，因為客店裏沒有地方。
 
-### 二、牧羊人與馬槽 (The Shepherds and the Manger)
+> ^8^在伯利恆之野地裏有牧羊的人，夜間按著更次看守羊群。^9^有主的使者站在他們旁邊，主的榮光四面照著他們，牧羊的人就甚懼怕。^10^那天使對他們說：「不要懼怕，我報給你們大喜的信息，是關乎萬民的。^11^因今天在大衛的城裏，為你們生了救主，就是主基督。^12^你們要看見一個嬰孩，包著布，臥在馬槽裏，那就是記號了。」^13^忽然有一大隊天兵，同那天使讚美神說：^14^「在至高之處榮耀歸於神！在地上平安歸於他所喜悅的人！」
 
-路加福音 2:1-20
+> ^15^眾天使離開他們升天去了，牧羊的人彼此說：「我們往伯利恆去，看看所成的事，就是主所指示我們的。」^16^他們急忙去了，就尋見馬利亞和約瑟，又有那嬰孩臥在馬槽裏。^17^既然看見，就把天使論這孩子的話傳開了。^18^凡聽見的，就詫異牧羊之人對他們所說的話。^19^馬利亞卻把這一切的事存在心裏，反覆思想。^20^牧羊的人回去了，因所聽見、所看見的一切事正如天使向他們所說的，就歸榮耀於神，讚美他。
 
-#### 中文 — 和合本修訂版 (RCUV)
+**博士：星與經文（太 2:1-12）**
 
-> ^1^那些日子，凱撒奧古斯都有旨意下來，叫普天下的人都報名上冊。^2^這是在居里扭作敘利亞巡撫的時候，第一次報名上冊。^3^眾人各歸各城，報名上冊。^4^約瑟也從加利利的拿撒勒城上猶太去，到了大衛的城，名叫伯利恆，因他本是大衛一家一族的人，^5^要和所聘之妻馬利亞一同報名上冊。那時馬利亞已經懷孕。^6^他們在那裏的時候，馬利亞的產期到了，^7^就生了頭胎的兒子，用布包起來，放在馬槽裏，因為客店裏沒有地方。
+> ^1^當希律王的時候，耶穌生在猶太的伯利恆。有幾個博士從東方來到耶路撒冷，說：^2^「那生下來作猶太人之王的在那裏？我們在東方看見他的星，特來拜他。」^3^希律王聽見了，就心裏不安；耶路撒冷合城的人也都不安。^4^他就召齊了祭司長和民間的文士，問他們說：「基督當生在何處？」^5^他們回答說：「在猶太的伯利恆。因為有先知記著，說：^6^『猶大地的伯利恆啊，你在猶大諸城中並不是最小的；因為將來有一位君王要從你那裏出來，牧養我以色列民。』」
 
-> ^8^在伯利恆的野地裏有牧羊人，夜間值班看守羊群。^9^有主的使者站在他們旁邊，主的榮光四面照射他們，他們就非常害怕。^10^那天使對他們說：「不要害怕，我給你們報大喜的信息，是關乎萬民的。^11^今天在大衛的城裏，為你們生了救主，就是主基督。^12^你們要看見一個嬰孩，包着布，臥在馬槽裏，那就是給你們的記號。」^13^忽然，有一大隊天軍同那天使讚美神說：
+> ^7^當下，希律暗暗的召了博士來，細問那星是甚麼時候出現的，^8^就差他們往伯利恆去，說：「你們去仔細尋訪那小孩子，尋到了就來報信，我也好去拜他。」^9^他們聽見王的話就去了。在東方所看見的那星忽然在他們前頭行，直行到小孩子的地方，就在上頭停住了。^10^他們看見那星，就大大的歡喜；^11^進了房子，看見小孩子和他母親馬利亞，就俯伏拜那小孩子，揭開寶盒，拿黃金、乳香、沒藥為禮物獻給他。^12^博士因為在夢中被主指示不要回去見希律，就從別的路回本地去了。
 
-> ^14^「在至高之處榮耀歸於神！在地上平安歸於祂所喜悅的人！」
+### English — NASB
 
-> ^15^眾天使離開他們，升天去了。牧羊人彼此說：「我們往伯利恆去，看看所成就的事，就是主所指示我們的。」^16^他們急忙去了，找到馬利亞和約瑟，還有那嬰孩臥在馬槽裏。^17^他們看見後，就把天使論這孩子的話傳開了。^18^凡聽見的，都對牧羊人所說的事感到驚奇。^19^馬利亞卻把這一切的事存在心裏，反覆思考。^20^牧羊人回去了，因所聽見所看見的一切事正如天使對他們所說的，就歸榮耀與神，讚美祂。
+> ^18^Now the birth of Jesus Christ was as follows: when His mother Mary had been betrothed to Joseph, before they came together she was found to be with child by the Holy Spirit. ^19^And Joseph her husband, being a righteous man and not wanting to disgrace her, planned to send her away secretly. ^20^But when he had considered this, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take Mary as your wife; for the Child who has been conceived in her is of the Holy Spirit. ^21^She will bear a Son; and you shall call His name Jesus, for He will save His people from their sins."
 
-#### English — NKJV
+> ^22^Now all this took place to fulfill what was spoken by the Lord through the prophet: ^23^"BEHOLD, THE VIRGIN SHALL BE WITH CHILD AND SHALL BEAR A SON, AND THEY SHALL CALL HIS NAME IMMANUEL," which translated means, "GOD WITH US." ^24^And Joseph awoke from his sleep and did as the angel of the Lord commanded him, and took *Mary* as his wife, ^25^but kept her a virgin until she gave birth to a Son; and he called His name Jesus.
 
-> ^1^And it came to pass in those days that a decree went out from Caesar Augustus that all the world should be registered. ^2^This census first took place while Quirinius was governing Syria. ^3^So all went to be registered, everyone to his own city. ^4^Joseph also went up from Galilee, out of the city of Nazareth, into Judea, to the city of David, which is called Bethlehem, because he was of the house and lineage of David, ^5^to be registered with Mary, his betrothed wife, who was with child. ^6^So it was, that while they were there, the days were completed for her to be delivered. ^7^And she brought forth her firstborn Son, and wrapped Him in swaddling cloths, and laid Him in a manger, because there was no room for them in the inn.
+> ^1^Now in those days a decree went out from Caesar Augustus, that a census be taken of all the inhabited earth. ^2^This was the first census taken while Quirinius was governor of Syria. ^3^And everyone was on his way to register for the census, each to his own city. ^4^Joseph also went up from Galilee, from the city of Nazareth, to Judea, to the city of David which is called Bethlehem, because he was of the house and family of David, ^5^in order to register along with Mary, who was engaged to him, and was with child. ^6^While they were there, the days were completed for her to give birth. ^7^And she gave birth to her firstborn son; and she wrapped Him in cloths, and laid Him in a manger, because there was no room for them in the inn.
 
-> ^8^Now there were in the same country shepherds living out in the fields, keeping watch over their flock by night. ^9^And behold, an angel of the Lord stood before them, and the glory of the Lord shone around them, and they were greatly afraid. ^10^Then the angel said to them, "Do not be afraid, for behold, I bring you good tidings of great joy which will be to all people. ^11^For there is born to you this day in the city of David a Savior, who is Christ the Lord. ^12^And this will be the sign to you: You will find a Babe wrapped in swaddling cloths, lying in a manger." ^13^And suddenly there was with the angel a multitude of the heavenly host praising God and saying:
+> ^8^In the same region there were *some* shepherds staying out in the fields and keeping watch over their flock by night. ^9^And an angel of the Lord suddenly stood before them, and the glory of the Lord shone around them; and they were terribly frightened. ^10^But the angel said to them, "Do not be afraid; for behold, I bring you good news of great joy which will be for all the people; ^11^for today in the city of David there has been born for you a Savior, who is Christ the Lord. ^12^This *will be* a sign for you: you will find a baby wrapped in cloths and lying in a manger." ^13^And suddenly there appeared with the angel a multitude of the heavenly host praising God and saying, ^14^"Glory to God in the highest, And on earth peace among men with whom He is pleased."
 
-> ^14^"Glory to God in the highest, and on earth peace, goodwill toward men!"
+> ^15^When the angels had gone away from them into heaven, the shepherds *began* saying to one another, "Let us go straight to Bethlehem then, and see this thing that has happened which the Lord has made known to us." ^16^So they came in a hurry and found their way to Mary and Joseph, and the baby as He lay in the manger. ^17^When they had seen this, they made known the statement which had been told them about this Child. ^18^And all who heard it wondered at the things which were told them by the shepherds. ^19^But Mary treasured all these things, pondering them in her heart. ^20^The shepherds went back, glorifying and praising God for all that they had heard and seen, just as had been told them.
 
-> ^15^So it was, when the angels had gone away from them into heaven, that the shepherds said to one another, "Let us now go to Bethlehem and see this thing that has come to pass, which the Lord has made known to us." ^16^And they came with haste and found Mary and Joseph, and the Babe lying in a manger. ^17^Now when they had seen Him, they made widely known the saying which was told them concerning this Child. ^18^And all those who heard it marveled at those things which were told them by the shepherds. ^19^But Mary kept all these things and pondered them in her heart. ^20^Then the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told them.
+> ^1^Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, magi from the east arrived in Jerusalem, saying, ^2^"Where is He who has been born King of the Jews? For we saw His star in the east and have come to worship Him." ^3^When Herod the king heard *this,* he was troubled, and all Jerusalem with him. ^4^Gathering together all the chief priests and scribes of the people, he inquired of them where the Messiah was to be born. ^5^They said to him, "In Bethlehem of Judea; for this is what has been written by the prophet: ^6^'AND YOU, BETHLEHEM, LAND OF JUDAH, ARE BY NO MEANS LEAST AMONG THE LEADERS OF JUDAH; FOR OUT OF YOU SHALL COME FORTH A RULER WHO WILL SHEPHERD MY PEOPLE ISRAEL.'"
 
----
-
-### 三、東方博士 (The Magi from the East)
-
-馬太福音 2:1-12
-
-#### 中文 — 和合本修訂版 (RCUV)
-
-> ^1^希律王的時候，耶穌生在猶太的伯利恆。有幾個博士從東方來到耶路撒冷，說：^2^「那生下來作猶太人之王的在哪裏？我們在東方看見祂的星，特來拜祂。」^3^希律王聽見了，就心裏不安；耶路撒冷全城的人也都不安。^4^他就召齊了祭司長和民間的文士，問他們：「基督該生在哪裏？」^5^他們回答：「在猶太的伯利恆。因為有先知記着：^6^『猶大地的伯利恆啊，你在猶大諸城中並不是最小的，因為將來有一位統治者要從你那裏出來，牧養我以色列民。』」
-
-> ^7^當時希律暗暗地召了博士來，仔細查問那星出現的時間，^8^就派他們往伯利恆去，說：「你們去仔細尋訪那小孩子，找到了，就來報信，我也好去拜祂。」^9^他們聽了王的話就去了。忽然，在東方所看見的那顆星在前面引領他們，一直行到小孩子所在地方的上方就停住了。^10^他們看見那星，就非常歡喜。^11^進了房子，看見小孩子和祂母親馬利亞，就俯伏拜那小孩子，揭開寶盒，拿出黃金、乳香、沒藥，作為禮物獻給祂。^12^因為在夢中得到主的指示不要回去見希律，他們就從別的路回自己的家鄉去了。
-
-#### English — NKJV
-
-> ^1^Now after Jesus was born in Bethlehem of Judea in the days of Herod the king, behold, wise men from the East came to Jerusalem, ^2^saying, "Where is He who has been born King of the Jews? For we have seen His star in the East and have come to worship Him." ^3^When Herod the king heard this, he was troubled, and all Jerusalem with him. ^4^And when he had gathered all the chief priests and scribes of the people together, he inquired of them where the Christ was to be born. ^5^So they said to him, "In Bethlehem of Judea, for thus it is written by the prophet: ^6^'But you, Bethlehem, in the land of Judah, are not the least among the rulers of Judah; for out of you shall come a Ruler who will shepherd My people Israel.'"
-
-> ^7^Then Herod, when he had secretly called the wise men, determined from them what time the star appeared. ^8^And he sent them to Bethlehem and said, "Go and search carefully for the young Child, and when you have found Him, bring back word to me, that I may come and worship Him also." ^9^When they heard the king, they departed; and behold, the star which they had seen in the East went before them, till it came and stood over where the young Child was. ^10^When they saw the star, they rejoiced with exceedingly great joy. ^11^And when they had come into the house, they saw the young Child with Mary His mother, and fell down and worshiped Him. And when they had opened their treasures, they presented gifts to Him: gold, frankincense, and myrrh. ^12^Then, being divinely warned in a dream that they should not return to Herod, they departed for their own country another way.
+> ^7^Then Herod secretly called the magi and determined from them the exact time the star appeared. ^8^And he sent them to Bethlehem and said, "Go and search carefully for the Child; and when you have found *Him,* report to me, so that I too may come and worship Him." ^9^After hearing the king, they went their way; and the star, which they had seen in the east, went on before them until it came and stood over *the place* where the Child was. ^10^When they saw the star, they rejoiced exceedingly with great joy. ^11^After coming into the house they saw the Child with Mary His mother; and they fell to the ground and worshiped Him. Then, opening their treasures, they presented to Him gifts of gold, frankincense, and myrrh. ^12^And having been warned *by God* in a dream not to return to Herod, the magi left for their own country by another way.
 
 ---
 
 ## 背景 (Context)
 
-### 歷史背景
+### 舊約的根：伯利恆、槽、以馬內利、星
 
-**人口普查**：凱撒奧古斯都（主前27年-主後14年在位）是羅馬帝國首位皇帝。人口普查是為了徵稅和徵兵。猶太人需回到祖籍地登記。
+**伯利恆是一個有故事的地名。**創 35:19 說：「拉結死了，葬在以法他的路旁。以法他就是伯利恆。」得 4:17 的結尾是：「這俄備得是耶西的父，耶西是大衛的父」；大衛是伯利恆耶西的小兒子，被叫去之前在看羊（撒上 16:11）。彌迦書把這些線收成一句：「伯利恆的以法他啊，你在猶大諸城中為小，將來必有一位從你那裏出來，在以色列中為我作掌權的；他的根源從亙古，從太初就有」（彌 5:2）。馬太引用的措辭與彌 5:2 並不相同，太 2:6 的「並不是最小的」與彌 5:2 的「為小」字面方向相反；本系列《彌迦書研讀》〈從最小的地方來〉把兩處並排列出，本書不在這裏替任何一方下結論。馬太福音家譜裏的路得（太 1:5）、本系列《路得記研讀》〈俄備得的誕生〉，是這個地名的另一條線。
 
-**伯利恆**：距耶路撒冷約8公里，是大衛的故鄉（撒上 16:1）。彌迦預言彌賽亞必生於此（彌 5:2）。
+**槽。**以賽亞書 1:3 說：「牛認識主人，驢認識主人的槽；以色列卻不認識，我的民卻不留意。」七十士譯本在這裏用的 φάτνη，與路 2:7 的「馬槽」是同一個字。路加沒有說他想到了這節經文；本書只指出措辭的對應：在以賽亞的指控裏，牲口認得的槽，人卻不認得。（參本系列《以賽亞書研讀》第 1 章。）
 
-**馬槽與客店**：「客店」(καταλύμα) 可能指客房或旅店。馬槽可能在民居的底層或洞穴。這不是神的失誤，而是神聖的設計——君王生於卑微。
+**以馬內利。**太 1:23 引用的是賽 7:14：「主自己要給你們一個兆頭，必有童女懷孕生子，給他起名叫以馬內利。」賽 7 章的處境是猶大王亞哈斯面對敵國，兆頭的細節（本系列《以賽亞書研讀》第 5 章〈以馬內利的預兆〉）有不同讀法，本書不重複討論，只記一件事：馬太把這個名字放在全書的開頭（1:23），又以「我就常與你們同在」收束（28:20，見本系列《馬太福音研讀》卷首〈以馬內利與天國〉）。
 
-**牧羊人**：在當時社會地位低下，被視為不可靠的見證人。神卻首先向他們顯現。
+**星與外邦的聲音。**巴蘭是從「東山」被請來咒詛以色列的外邦人（民 23:7），他的第四次開口說：「有星要出於雅各，有杖要興於以色列」（民 24:17，本系列《民數記研讀》〈巴蘭的四次開口〉）。博士說「我們在東方看見他的星」（太 2:2）。詩 72:10-11 與賽 60:3、6 所預言的萬國來朝、獻黃金乳香，在這裏有了第一批代表；馬太沒有引用這兩處，這是讀者的連結，不是經文的明說。
 
-**博士**：希臘文 μάγοι (magoi) 指波斯的占星學者和智者。可能是巴比倫猶太僑民後裔，熟悉舊約預言。
+**約瑟為甚麼不想公開。**申 22:23-24 規定了許配之女與人行淫的刑罰；約瑟「是個義人，不願意明明的羞辱他，想要暗暗的把他休了」（太 1:19）。他選的不是追究，也不是接受，是在自己能承擔的範圍內，盡量不傷人。神的話在夢中到來之前，他已經做了這個選擇。
 
-### 四福音的降生敘事對比
+### 歷史、地理、風俗
 
-| 馬太福音 | 路加福音 |
-|----------|----------|
-| 約瑟的角度 | 馬利亞的角度 |
-| 博士來拜 | 牧羊人來訪 |
-| 強調王權 | 強調卑微 |
-| 外邦人（博士）的信心 | 猶太人（牧羊人）的敬拜 |
-| 舊約應驗 | 天使頌歌 |
+**戶口登記與居里扭。**路 2:1-2 把降生放在該撒奧古斯都的旨意與居里扭任敘利亞巡撫的時候。約瑟夫《猶太古史》記載了居里扭任敘利亞巡撫時在猶太地的戶口登記，年代約在主後 6 年；路加說這是「頭一次」。這個年代與希律王約主前 4 年去世之間怎樣對應，學者有不同說法；本書不替任何一說下結論。路加另有交代：眾人各歸各城（2:3），約瑟是大衛一族一家的人（2:4）。
+
+**伯利恆與拿撒勒。**伯利恆在耶路撒冷以南約八、九公里；從加利利的拿撒勒走到那裏，路程一百多公里。「客店」（κατάλυμα）在路 22:11 同一個字被譯作「客房」（耶穌問「客房在哪裏」）。所以 2:7 的意思更可能是：客房裏沒有地方，而不是旅店客滿。
+
+**牧羊人與博士不是同一夜。**路加說牧羊人看見的是「嬰孩」（βρέφος，2:12, 16）；馬太說博士「進了房子」，看見的是「小孩子」（παιδίον，太 2:11）。希律後來按「博士仔細查問的時候」殺「兩歲以裏」的男孩（太 2:16）。經文沒有說博士到達的準確時間，但這些細節合起來，暗示他們不在降生那一夜。
+
+**希律與博士。**希律是以東人，約主前 37 年起統治猶太，約主前 4 年去世；他築的希律堡（Herodium）在伯利恆東南不遠。經文說「博士」（μάγοι）從「東方」來，沒有說是哪一國，沒有說三位，只說三樣禮物（太 2:11）。後世常把黃金、乳香、沒藥讀成君王、祭司、受死的記號，這是傳統的讀法，不是經文自己的說明。沒藥後來出現在耶穌的葬禮裏（約 19:39）；賽 60:6 說的是「要奉上黃金、乳香」。
+
+**博士是否與但以理有關。**但以理在巴比倫曾被立在眾智慧人之上（但 2:48）。有人推測東方的博士熟悉猶太人的盼望，與這個傳統有關；經文沒有這樣說，這只是推測。
 
 ---
 
 ## 原文研讀 (Word Study)
 
-| 希臘文 | 音譯 | 意義 | 出現次數 |
-|--------|------|------|----------|
-| Ἰησοῦς | Iēsous | 耶穌（耶和華拯救） | 新約917次 |
-| Ἐμμανουήλ | Emmanouēl | 以馬內利（神與我們同在） | 新約1次 |
-| σωτήρ | sōtēr | 救主、拯救者 | 新約24次 |
-| Χριστός | Christos | 基督、受膏者 | 新約529次 |
-| φάτνη | phatnē | 馬槽、餵食槽 | 新約4次 |
-| μάγοι | magoi | 博士、占星學者 | 新約6次 |
+| 希臘文 | 音譯 | 意義 | 經文 | 註解 |
+|----------------|------------------|----------------|----------------|----------------------------------------|
+| ὑμῖν | hymin | 給你們 | 路 2:11-12 | 本章鑰詞：「為你們生了救主」「那就是給你們的記號」，同一個代名詞出現兩次 |
+| κατάλυμα | kataluma | 客房、住處 | 路 2:7；22:11 | 同字在 22:11 是耶穌與門徒吃逾越節筵席的「客房」 |
+| βρέφος ／ παιδίον | brephos ／ paidion | 嬰孩／小孩 | 路 2:12, 16；太 2:8-9, 11 | 路加用前者，馬太寫博士到達時用後者 |
+| προσκυνέω | proskyneō | 俯伏敬拜 | 太 2:2, 8, 11 | 博士用它說真話，希律用它說謊話（2:8）；同一個動詞在太 4:9-10 再出現 |
+| Ἰησοῦς | Iēsous | 耶穌（耶和華拯救） | 太 1:21 | 與「約書亞」同名（民 13:16：摩西稱嫩的兒子何西阿為約書亞） |
+| εὐαγγελίζομαι | euangelizomai | 報好信息 | 路 2:10 | 同一個動詞，加百列在 1:19 也用過 |
 
-### 「耶穌」(Ἰησοῦς) 的意義
+### ὑμῖν——大消息先交到具體的人手上
 
-**詞源**：希伯來文 יְהוֹשֻׁעַ (Yehoshua/Joshua) 的希臘文形式，意為「耶和華拯救」或「耶和華是救恩」。
-
-**屬靈意義**：名字本身就是福音宣告——這位嬰孩要「把自己的百姓從罪惡中拯救出來」（太1:21）。
+天使宣告的範圍是「關乎萬民」（2:10），但兩句話的接收者是「你們」：救主是為「你們」生的，記號是給「你們」的（2:11-12）。這裏的「你們」，是剛被嚇得非常害怕的一群夜班牧羊人（2:8-9）。路加的次序是：先具體到這幾個人，然後擴大到萬民。博士的消息也是這樣：一顆星，給他們自己認得的人（太 2:2）。
 
 ---
 
-## 解經洞見 (Commentary)
+## 領受要點 (Truths Received)
 
-### John MacArthur 論以馬內利
+### 1. 約瑟的義，在天使說話之前就開始了
 
-> 「『以馬內利』這個名字道出了道成肉身的終極意義。神不是從遠處觀看人類，不是派遣代表，而是『親自來到』。在舊約，神的同在是暫時的、局部的——在會幕、在聖殿、在雲柱火柱中。但在耶穌基督裏，神永久地、完全地與人同在。這不僅是神學命題，更是歷史事實——神成為人，住在我們中間。」
-> — John MacArthur, *The MacArthur New Testament Commentary: Matthew 1-7*
+天使到來之前，約瑟已經決定怎樣對待一個看似背叛了他的人：不公開，暗暗休（太 1:19）。天使的話改變了他的行動，沒有改變他的心：他醒了，就遵著吩咐把妻子娶過來（1:24）。馬太沒有記下約瑟的一句話，只記下他的動作。
 
-### G. Campbell Morgan 論馬槽的意義
+### 2. 大消息是先「給你們」，才「關乎萬民」
 
-> 「馬槽是甚麼？是動物吃食的地方。這是何等的象徵！祂來是要成為世人的糧。祂後來說：『我是生命的糧』。從祂出生的那一刻起，祂就被放在餵養的地方。世界的君王生在宮殿裏，但生命的糧生在馬槽裏——因為祂來是要被吃、被消化、成為我們生命的一部分。」
-> — G. Campbell Morgan, *The Gospel According to Matthew*
+2:10 與 2:11-12 的次序是：萬民，然後你們。福音不是先講給一個抽象的人群，是講給一群在野地裏值夜班、被光照得發抖的人。他們聽見的，就是他們能走去求證的：伯利恆，包著布，臥在馬槽裏（2:12, 15）。
 
----
+### 3. 知道經文與動身去看，是兩回事
 
-## 領受與亮光 (Light Received)
+祭司長和文士被希律召齊，一口氣答出：「在猶太的伯利恆」（太 2:5）；經文沒有記載有人同行；希律說「我也好去拜他」（2:8），後來的事（2:13, 16）顯明那不是實話。博士沒有先知書，只有一顆星，卻走了這一趟。馬太沒有把這寫成責備，只是並排放著：答得出的人，留在耶路撒冷；問路的人，到了伯利恆。
 
-### 1. 道成肉身的榮耀與卑微
+### 4. 同一個消息，三種接法
 
-天使宣告「大喜的信息」，天軍高唱「在至高之處榮耀歸於神」——這是榮耀。
-但這位「救主、主基督」卻生在馬槽、包在布裏——這是卑微。
-
-**榮耀與卑微的並存**正是福音的核心：
-- 腓立比書 2:6-8：祂本有神的形像，卻取了奴僕的形像
-- 哥林多後書 8:9：祂本來富足，卻為你們成為貧窮
-
-### 2. 三重禮物的象徵意義
-
-| 禮物 | 象徵 | 預表 |
-|------|------|------|
-| **黃金** | 君王 | 萬王之王 |
-| **乳香** | 祭司 | 永遠的大祭司 |
-| **沒藥** | 先知/死亡 | 受苦的僕人 |
-
-沒藥用於膏抹屍體（約19:39）。博士的禮物預告了這位嬰孩的一生：祂來是要作王、代求、並且死亡。
-
-### 3. 兩種王的對比
-
-| 希律 | 耶穌 |
-|------|------|
-| 世界封立的王 | 神所膏立的王 |
-| 為保王位而殺人 | 為救百姓而捨命 |
-| 懼怕失去權力 | 甘願放下權力 |
-| 用武力統治 | 用愛心牧養 |
-
-### 4. 天使頌歌的結構
-
-> 「在至高之處榮耀歸於神！在地上平安歸於祂所喜悅的人！」
-
-這是福音的雙重維度：
-- **垂直**：榮耀歸於神——救恩的目的是神的榮耀
-- **水平**：平安歸於人——救恩的效果是人的平安
-
-「祂所喜悅的人」(εὐδοκίας) 不是指道德上好的人，而是指神恩典揀選的對象。
+牧羊人看見之後「把天使論這孩子的話傳開了」（2:17），聽見的人「詫異」（2:18），馬利亞卻把這一切存在心裏，反覆思想（2:19）。傳開的、詫異的、存記的——路加並排寫下三種接法，沒有評分。
 
 ---
 
-## 個人反思 (Personal Reflection)
+## 歷代注疏 (Historical Commentary)
 
-1. **神的時間表**：神用羅馬皇帝的命令成就彌迦的預言。你生命中看似巧合的事件，是否是神主權的安排？
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，轉錄自本系列路加福音卷、馬太福音卷同段經文的章節，中譯附於原文之後；
+> 不加引號的，是編者對解經者立場的**綜述**，只交代哪位解經者、哪部著作的大意。
 
-2. **卑微的開始**：萬王之王生在馬槽。你是否因為自己的「卑微」而懷疑神能使用你？
+### 教父時期
 
-3. **牧羊人的回應**：他們聽了就去，看了就傳，傳了就讚美。你對福音的回應是甚麼？
+**安波羅修 (Ambrose of Milan, c. 339-397)**：安波羅修在《路加福音注釋》（*Expositio Evangelii secundum Lucam*）中反覆闡明道成肉身的「交換」：祂取了你的貧窮，為要叫你承受祂的豐富；祂被布包裹，為要解開你被罪纏裹的捆綁。馬槽的卑微不是意外，是救法——醫生必須來到病人躺臥的地方。
+
+> — Ambrose, *Exposition of the Gospel of Luke*（論路 2 章，立場綜述）
+
+
+**屈梭多模 (Chrysostom, 約349-407)**：在《馬太福音講道集》論博士來朝時提醒，博士在毫無王家排場的房子裏俯伏下拜，這信心勝過許多看見神蹟仍不信的人。
+
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+> "But as they have no other design than to obey the edict of Augustus, we readily acknowledge, that they were led like blind persons, by the hand of God, to the place where Christ must be born."
+>
+> 「他們不過是要遵行奧古斯都的諭旨，別無所圖；我們卻不能不承認：他們像瞎眼的人一樣，**被神的手牽著**，走到基督必須降生的地方。」
+>
+> — John Calvin, *Commentary on a Harmony of the Evangelists*，論路 2:1-4（CCEL, calcom31）
+
+> "When he was thrown into a stable, and placed in a manger, and a lodging refused him among men, it was that heaven might be opened to us, not as a temporary lodging, … but as our eternal country and inheritance."
+>
+> 「當祂被丟在牲口棚裏、放在馬槽中、在人間求宿而被拒——**這是為要叫天向我們開啟**；不是作暫時的寄宿……乃是作我們永遠的家鄉與基業。」
+>
+> — John Calvin, 同上，論路 2:7
+
+
+**加爾文 (Calvin, 1509-1564)**：《福音書合參註釋》論1:18-25時指出，約瑟的順服是信心的典範：神的話語一到，疑慮讓位於遵行。
+
+
+**加爾文 (Calvin, 1509-1564)**：《福音書合參註釋》論本章指出，神用星象引領博士，是俯就他們原有的認知，最終仍把他們交在聖經的引導之下；而祭司長文士答得出彌賽亞的出生地卻無動於衷，正顯明沒有聖靈的工作，純正的知識也不能叫人動一步。
+
+
+### 摩根 (G. Campbell Morgan)
+
+**「當那些日子」——帝國作了佈景**：摩根讀彌迦書的預言，再回頭看報名上冊的隊伍，論這齣戲裏誰輕誰重：
+
+> "I see that the really insignificant person in the drama is the little puppet in the city on the seven hills, called Caesar Augustus; and the significant personalities are the woman in whose womb tabernacles the Son of God, and the man who is guarding her."
+>
+> 我看見這齣戲裏真正無足輕重的那一位，是七丘之城裏那個叫作該撒奧古斯都的小木偶；真正舉足輕重的，是那位腹中支搭著神兒子帳幕的婦人，和那位護衛著她的男人。
+
+
+> 出處：G. Campbell Morgan, *The Gospel According to Luke*（論路 2:1-20）
+
+摩根在《馬太福音註釋》（*The Gospel According to Matthew*, 1929）中把第二章讀作**世界對君王的第一輪回應**（以下為要旨撮述）：
+
+**第一批敬拜者是外邦人**。君王福音的第一場敬拜，不出自祭司，不出自文士，出自遠方的外邦學者——大使命不是全書結尾才出現的新意，它在君王的搖籃邊已經開始（28:19）。
+
+**耶路撒冷的不安是全書的伏筆**。摩根視「合城的人也都不安」為這座城對她的王一貫態度的預告——不是不知道，是不歡迎；這張力一路延伸到23:37「耶路撒冷啊，耶路撒冷啊……我多次願意聚集你的兒女……只是你們不願意」。
+
+**護理藏在卑微的順服裏**。神保護祂兒子的方式不是天軍圍營，而是夢中的一句吩咐加上一個木匠的順服——摩根提醒讀者：神的主權與人的順服從不衝突，這正是神護理計劃落地的方式。
+
+
+### 麥克阿瑟 (John MacArthur)
+
+**麥克阿瑟 (John MacArthur)**：在馬太福音系列講道（Grace to You, gty.org）中強調本章的對比結構：對基督的三種回應——外邦學者敬拜、宗教領袖冷漠、政治的王敵對——在全書開卷就已排開，逼每一個讀者對號入座。
+
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*O Little Town of Bethlehem* (小伯利恆)
+### 詩篇 72:10-11
 
-> O little town of Bethlehem, how still we see thee lie!
-> Above thy deep and dreamless sleep the silent stars go by;
-> Yet in thy dark streets shineth the everlasting Light;
-> The hopes and fears of all the years are met in thee tonight.
+> ^10^他施和海島的王要進貢；示巴和西巴的王要獻禮物。
+> ^11^諸王都要叩拜他；萬國都要事奉他。
 
-**詩篇**：詩篇 72:10-11
+### We Three Kings
 
-> 他施和海島的王要進貢，示巴和西巴的王要獻禮物。
-> 萬王都要叩拜祂，萬國都要服侍祂。
+> **We Three Kings**
+> *John Henry Hopkins Jr., 1857*
+>
+> We three kings of Orient are,
+> Bearing gifts we traverse afar,
+> Field and fountain, moor and mountain,
+> Following yonder star.
+>
+> 我們是東方來的三王，
+> 帶著禮物遠道跋涉，
+> 越過田野、泉水、荒原、高山，
+> 跟隨那顆星。
+
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：神的消息這一次送到三處——夢裏的約瑟、野地的牧羊人、遠方的博士——都不在聖殿的體系裏；而在耶路撒冷、答得出彌迦書的人，沒有一個動身。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：預表與預言的應驗。彌 5:2 早指明祂生於伯利恆；伯利恆原意「糧倉之家」，那「生命的糧」就降生在此。博士所循的星，應驗民 24:17「有星要出於雅各」；賽 9:6「有一嬰孩為我們而生……祂名稱為……和平的君」。
+**伯利恆線**：創 35:19 拉結葬在以法他路旁，「以法他就是伯利恆」→ 得 4:17 俄備得、耶西、大衛（本系列《路得記研讀》〈俄備得的誕生〉）→ 撒上 16:11 看羊的小兒子 → 彌 5:2「為小」的伯利恆（本系列《彌迦書研讀》〈從最小的地方來〉）→ 路 2:4「大衛的城」，路 2:8 夜間看守羊群的人。牧羊的王，出在牧羊人的野地；這條線上每一個名字，都是被人看輕的那一個。
+
+**以馬內利線**：賽 7:14 兆頭 → 太 1:23 「神與我們同在」 → 太 28:20「我就常與你們同在」（本系列《馬太福音研讀》卷首〈以馬內利與天國〉）→ 啟 21:3「神的帳幕在人間！他要與人同住」。從一個名字開始，以一個帳幕收尾：同在，從馬槽邊的一句話，走到全書最後的城。
+
+**星線**：民 24:17「有星要出於雅各，有杖要興於以色列」→ 太 2:2, 9 博士的星 → 啟 22:16「我是大衛的根，又是他的後裔；我是明亮的晨星。」民 24:17 這顆星，出自一個外邦占卜者之口；啟 22:16 的星，由耶穌自己說「那是我」。
 
 ### 提問式對話 (Let the Reader Speak)
 
-黃長老不急著給答案，他一層一層地問：
+老弟兄不急著給答案，他一層一層地問：
 
-- 先問：「萬王之王要降生，你會替祂選甚麼樣的出生地？」
-- 再問：「神卻選了馬槽——這說明祂是怎樣的一位王？」
-- 追問：「先找到祂的，是有學問的博士，還是夜間的牧人？這給你甚麼提醒？」
-- 落到自己：「牧人連夜去找、博士走萬里來拜——你願意付甚麼代價尋見祂？」
+- 先問：「聖誕節12月25日，聖經哪裏說耶穌那天出生的？牧羊人在曠野是哪個季節？」先查經文，再想我們的傳統有多少是聖經說的。
+- 再問：「祭司長和文士一口就答出『在猶太的伯利恆』。然後呢？經文有沒有記一個人，跟博士一起走？」
+- 追問：「天使給牧羊人的記號是『包著布，臥在馬槽裏』。這個記號，有哪一處是為一個想看排場的人預備的？」
+- 落到自己：「約瑟被叫醒就照著做。你知道的，和你做了的，中間隔著多遠？」
 
 ### 活在今天 · AI時代 (Living It Today)
 
-我們的注意力被訓練成只追逐熱門、有名、有權勢的。神卻在一個無人留意的小鎮、一個牲口槽裏降生。在一個人人想「被看見、上熱搜」的時代，你會不會錯過那位選擇默默無聞臨到的主？
+今天，一次搜尋就能列出彌迦書 5:2、居里扭戶口登記的年代爭論、希律家譜；AI 還能在幾秒內替你整理「聖誕故事的歷史難題」。答案便宜了。祭司長和文士的處境，和我們很像：問題一出，答案立刻能說。博士沒有答案，只有一顆星，卻上路了。工具能替你找到伯利恆在哪裏，不能替你走那一百多公里。
 
 ### 今天的祭壇 (Today's Altar)
 
-- **早晨**：求主給你一雙能在「卑微、不起眼」之處看見祂的眼睛。
-- **晚上**：今天我把注意力給了哪些「熱門」？有沒有留一點給那位降生馬槽的主？
-- **一個行動**：今天刻意關心一個被忽略、不起眼的人——像主臨到卑微的人那樣。
+- **早晨**：對主說：「我心裏有沒有地方？」不是講給別人聽的，單單對祂說。
+- **晚上**：今天我知道的事裏，有哪一件，是我可以起來做、卻還在「知道」的？
+- **一個行動**：今天為一個人「讓出一個位置」：一個座位、一段不被打斷的時間、一個回覆。
+
+**你看見耶穌了嗎？**這一章裏的耶穌沒有說一句話，卻被三批人用三種方式認出來：約瑟順從夢中的話，牧羊人去看了「記號」，博士俯伏獻上禮物。祂是「為你們」生的那位，也是希律怕、耶路撒冷不安的那位；兩種反應，就從這一夜開始。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 生命應用 (Application)
 
-**一句話精義**：君王的腳踝先觸的，不是宮殿的大理石，是馬槽的乾草——這就是神道成肉身的方式。
+### 默想問題
 
-**貫通全經**：「伯利恆」希伯來原意「糧倉之城」（彌5:2）；那位生命的糧（約6:35），果然降生在糧倉裏——預表從降生那一刻就寫好了。
+1. **預備地方**（路 2:7）：客房裏沒有地方。你的行程、你的心思、你的預算裏，有沒有一格是為「祂」留的，還是已經排滿了？
+2. **答得出，還是動身**（太 2:4-8）：有哪一件事，你已經「知道聖經怎麼說」，卻還沒有起來去做？
+3. **三種接法**（路 2:17-19）：傳開、詫異、存記——最近神在你身上做的一件事，你是哪一種？
 
-**無法迴避的問題**：「神為你預備了馬槽——你卻一直在等宮殿才肯接祂。你今天在等甚麼？」
+### 禱告回應
 
-> 「客店滿了——但你心裏呢？今晚你為祂留的位置，是頭等房，還是馬槽？」
+> 主耶穌，你為我們降生，睡在槽裏。
+> 求你叫我不只是知道你在哪裏，也起來走向你。
+> 為你預備一個地方，不是因為我空，而是因為你值得。
+> 使我像牧羊人，看見就傳；像馬利亞，把你的話存在心裏；像博士，俯伏敬拜。
+> 奉主耶穌的名禱告，阿們。
 
 ---
 
-## 回應禱告 (A Prayer to Pray)
+## 與其他經文的關聯
 
-> 主耶穌，萬王之王，祢竟降生在馬槽。求祢叫我不被熱鬧與名聲奪去眼目，能像牧人連夜、像博士遠行，定意尋見祢；也叫我在卑微不起眼之處，迎接祢的到來。阿們。
-
----
-
-*三書精讀項目 · 耶穌基督完整生平 · 第二章*
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 伯利恆與大衛 | 路 2:4；太 2:5-6 | 創 35:19；得 4:17；撒上 16:11；彌 5:2 |
+| 以馬內利 | 太 1:23 | 賽 7:14；太 28:20；啟 21:3 |
+| 槽與不認識主人的民 | 路 2:7, 12 | 賽 1:3 |
+| 星 | 太 2:2, 9 | 民 24:17；啟 22:16 |
+| 萬國來朝與禮物 | 太 2:11 | 詩 72:10-11；賽 60:3, 6；約 19:39 |
+| 耶穌之名 | 太 1:21 | 民 13:16 |
+| 客房 | 路 2:7 | 路 22:11 |

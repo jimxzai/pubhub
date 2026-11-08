@@ -1,216 +1,294 @@
 ---
-title: 尼哥底母
-subtitle: Nicodemus and the New Birth
-chapter: 8
-scripture: 約翰福音 3:1-21
+title: 耶穌基督完整生平
+subtitle: The Complete Life of Jesus Christ
+author: PubHub 三書精讀系統
+date: 2026年11月
+publisher: 三書精讀出版系統
 ---
 
-# 尼哥底母 (Nicodemus and the New Birth)
+# 尼哥底母夜訪 (Nicodemus at Night)
 
-約翰福音 3:1-21
+參照行：約翰福音 3:1-36（只有約翰記載）
+
+**經文核對**：[ai-eden.com/bible/john/3](https://www.ai-eden.com/bible/john/3?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-夜裏來訪的是尼哥底母，談話的中心卻是那位「從天降下、仍舊在天的人子」。從祂的角度讀，重生不是人努力的成果，而是聖靈藉著那被舉起的人子所賜的生命；摩西在曠野舉蛇預表祂被釘，「神愛世人」的最高表達，就是賜下祂的獨生子。光來到世間——這光就是祂。
+> **本章鑰詞：重生 Born from Above** \
+> **生平座標**：第 8 站／共 37 站 · 卷三「初期事工：彰顯與更新」· 第一個逾越節期間（2:23）；確切年代有爭論 \
+> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 3 段——先有記號，後有潔淨，再有重生：酒與殿之後，祂把「更新」從筵席與建築，帶進一個人的裏面。 \
+> （全書骨幹見卷首《神的總計劃》）
+
+夜裏來的是尼哥底母，談話的中心卻是那位「從天降下、仍舊在天的人子」。他帶著「我們知道」來，主給他的答案卻是「人若不重生，就不能見神的國」。重生不是人努力的成果，而是從上頭來的生命；而這生命的路，是摩西在曠野舉起的蛇所預表的——人子必須被舉起來。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Amazing Grace** \
+> *John Newton, 1779*
+>
+> Amazing grace! How sweet the sound \
+> That saved a wretch like me! \
+> I once was lost, but now am found; \
+> Was blind, but now I see.
+>
+> 奇異恩典，何等甘甜， \
+> 我罪已得赦免； \
+> 前我失喪，今被尋回， \
+> 瞎眼今得看見。
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-> ^1^有一個法利賽人，名叫尼哥底母，是猶太人的官。^2^這人夜裏來見耶穌，對祂說：「拉比，我們知道祢是由神那裏來作教師的，因為祢所行的神蹟，若沒有神同在，無人能行。」^3^耶穌回答他說：<red>「我實實在在地告訴你：人若不重生，就不能見神的國。」</red>^4^尼哥底母對祂說：「人已經老了，如何能重生呢？豈能再進母腹生出來嗎？」^5^耶穌回答：<red>「我實實在在地告訴你：人若不是從水和聖靈生的，就不能進神的國。^6^從肉身生的就是肉身；從靈生的就是靈。^7^我說『你們必須重生』，你不要驚訝。^8^風隨着意思吹，你聽見風的聲音，卻不知道是從哪裏來，往哪裏去；凡從聖靈生的也是如此。」</red>
+> ^1^有一個法利賽人，名叫尼哥底母，是猶太人的官。^2^這人夜裏來見耶穌，說：「拉比，我們知道你是由神那裏來作師傅的；因為你所行的神蹟，若沒有神同在，無人能行。」
 
-> ^9^尼哥底母問祂：「怎麼能有這些事呢？」^10^耶穌回答他說：<red>「你是以色列人的教師，還不明白這些事嗎？^11^我實實在在地告訴你：我們所說的是我們知道的，我們所見證的是我們見過的，你們卻不領受我們的見證。^12^我對你們說地上的事，你們尚且不信；若對你們說天上的事，如何能信呢？^13^除了從天降下的人子，沒有人升過天。^14^摩西在曠野怎樣舉蛇，人子也必須照樣被舉起來，^15^要使一切信祂的人都得永生。」</red>
+> ^3^耶穌回答說：\jesus{「我實實在在地告訴你，人若不重生，就不能見神的國。」}^4^尼哥底母說：「人已經老了，如何能重生呢？豈能再進母腹生出來嗎？」^5^耶穌說：\jesus{「我實實在在的告訴你，人若不是從水和聖靈生的，就不能進神的國。^6^從肉身生的就是肉身；從靈生的就是靈。^7^我說：『你們必須重生』，你不要以為希奇。^8^風隨著意思吹，你聽見風的響聲，卻不曉得從那裏來，往那裏去；凡從聖靈生的，也是如此。」}
 
-> <red>^16^「神愛世人，甚至將祂獨一的兒子賜給他們，叫一切信祂的人不致滅亡，反得永生。^17^因為神差祂的兒子到世上來，不是要定世人的罪，而是要使世人因祂得救。^18^信祂的人不被定罪；不信的人已經被定罪了，因為他不信神獨一兒子的名。^19^光來到世上，世人因自己的行為是惡的，不愛光，倒愛黑暗，這就定了他們的罪。^20^凡作惡的人都恨光，不來接近光，恐怕他的行為被暴露。^21^但行真理的人就來接近光，要顯明他所做的事是靠神而做的。」</red>
+> ^9^尼哥底母問他說：「怎能有這事呢？」^10^耶穌回答說：\jesus{「你是以色列人的先生，還不明白這事嗎？^11^我實實在在的告訴你，我們所說的是我們知道的；我們所見證的是我們見過的；你們卻不領受我們的見證。^12^我對你們說地上的事，你們尚且不信，若說天上的事，如何能信呢？^13^除了從天降下、仍舊在天的人子，沒有人升過天。^14^摩西在曠野怎樣舉蛇，人子也必照樣被舉起來，^15^叫一切信他的都得永生。」}
 
-### English — NKJV
+> \jesus{^16^\textbf{「神愛世人，甚至將他的獨生子賜給他們，叫一切信他的，不至滅亡，反得永生。}^17^因為神差他的兒子降世，不是要定世人的罪，乃是要叫世人因他得救。^18^信他的人，不被定罪；不信的人，罪已經定了，因為他不信神獨生子的名。^19^光來到世間，世人因自己的行為是惡的，不愛光，倒愛黑暗，定他們的罪就是在此。^20^凡作惡的便恨光，並不來就光，恐怕他的行為受責備。^21^但行真理的必來就光，要顯明他所行的是靠神而行。」}
 
-> ^1^There was a man of the Pharisees named Nicodemus, a ruler of the Jews. ^2^This man came to Jesus by night and said to Him, "Rabbi, we know that You are a teacher come from God; for no one can do these signs that You do unless God is with him." ^3^Jesus answered and said to him, <red>"Most assuredly, I say to you, unless one is born again, he cannot see the kingdom of God."</red> ^4^Nicodemus said to Him, "How can a man be born when he is old? Can he enter a second time into his mother's womb and be born?" ^5^Jesus answered, <red>"Most assuredly, I say to you, unless one is born of water and the Spirit, he cannot enter the kingdom of God. ^6^That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. ^7^Do not marvel that I said to you, 'You must be born again.' ^8^The wind blows where it wishes, and you hear the sound of it, but cannot tell where it comes from and where it goes. So is everyone who is born of the Spirit."</red>
+> ^22^這事以後，耶穌和門徒到了猶太地，在那裏居住，施洗。^23^約翰在靠近撒冷的哀嫩也施洗；因為那裏水多，眾人都去受洗。^24^（那時約翰還沒有下在監裏。）^25^約翰的門徒和一個猶太人辯論潔淨的禮，^26^就來見約翰，說：「拉比，從前同你在約旦河外、你所見證的那位，現在施洗，眾人都往他那裏去了。」^27^約翰說：「若不是從天上賜的，人就不能得甚麼。^28^我曾說：『我不是基督，是奉差遣在他前面的』，你們自己可以給我作見證。^29^娶新婦的就是新郎；新郎的朋友站著，聽見新郎的聲音就甚喜樂。故此，我這喜樂滿足了。^30^他必興旺，我必衰微。」^31^「從天上來的是在萬有之上；從地上來的是屬乎地，他所說的也是屬乎地。從天上來的是在萬有之上。^32^他將所見所聞的見證出來，只是沒有人領受他的見證。^33^那領受他見證的，就印上印，證明神是真的。^34^神所差來的就說神的話，因為神賜聖靈給他是沒有限量的。^35^父愛子，已將萬有交在他手裏。^36^信子的人有永生；不信子的人得不著永生，神的震怒常在他身上。」
 
-> ^9^Nicodemus answered and said to Him, "How can these things be?" ^10^Jesus answered and said to him, <red>"Are you the teacher of Israel, and do not know these things? ^11^Most assuredly, I say to you, We speak what We know and testify what We have seen, and you do not receive Our witness. ^12^If I have told you earthly things and you do not believe, how will you believe if I tell you heavenly things? ^13^No one has ascended to heaven but He who came down from heaven, that is, the Son of Man who is in heaven. ^14^And as Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up, ^15^that whoever believes in Him should not perish but have eternal life.</red>
+### English — NASB
 
-> <red>^16^For God so loved the world that He gave His only begotten Son, that whoever believes in Him should not perish but have everlasting life. ^17^For God did not send His Son into the world to condemn the world, but that the world through Him might be saved. ^18^He who believes in Him is not condemned; but he who does not believe is condemned already, because he has not believed in the name of the only begotten Son of God. ^19^And this is the condemnation, that the light has come into the world, and men loved darkness rather than light, because their deeds were evil. ^20^For everyone practicing evil hates the light and does not come to the light, lest his deeds should be exposed. ^21^But he who does the truth comes to the light, that his deeds may be clearly seen, that they have been done in God."</red>
+> ^1^Now there was a man of the Pharisees, named Nicodemus, a ruler of the Jews; ^2^this man came to Jesus by night and said to Him, “Rabbi, we know that You have come from God *as* a teacher; for no one can do these signs that You do unless God is with him.”
+
+> ^3^Jesus answered and said to him, \jesus{“Truly, truly, I say to you, unless one is born again he cannot see the kingdom of God.”} ^4^Nicodemus said to Him, “How can a man be born when he is old? He cannot enter a second time into his mother’s womb and be born, can he?” ^5^Jesus answered, \jesus{“Truly, truly, I say to you, unless one is born of water and the Spirit he cannot enter into the kingdom of God. ^6^That which is born of the flesh is flesh, and that which is born of the Spirit is spirit. ^7^Do not be amazed that I said to you, ‘You must be born again.’ ^8^The wind blows where it wishes and you hear the sound of it, but do not know where it comes from and where it is going; so is everyone who is born of the Spirit.”}
+
+> ^9^Nicodemus said to Him, “How can these things be?” ^10^Jesus answered and said to him, \jesus{“Are you the teacher of Israel and do not understand these things? ^11^Truly, truly, I say to you, we speak of what we know and testify of what we have seen, and you do not accept our testimony. ^12^If I told you earthly things and you do not believe, how will you believe if I tell you heavenly things? ^13^No one has ascended into heaven, but He who descended from heaven: the Son of Man. ^14^As Moses lifted up the serpent in the wilderness, even so must the Son of Man be lifted up; ^15^so that whoever believes will in Him have eternal life.}
+
+> \jesus{^16^\textbf{For God so loved the world, that He gave His only begotten Son, that whoever believes in Him shall not perish, but have eternal life.} ^17^For God did not send the Son into the world to judge the world, but that the world might be saved through Him. ^18^He who believes in Him is not judged; he who does not believe has been judged already, because he has not believed in the name of the only begotten Son of God. ^19^This is the judgment, that the Light has come into the world, and men loved the darkness rather than the Light, for their deeds were evil. ^20^For everyone who does evil hates the Light, and does not come to the Light for fear that his deeds will be exposed. ^21^But he who practices the truth comes to the Light, so that his deeds may be manifested as having been wrought in God.”}
+
+
+> ^22^After these things Jesus and His disciples came into the land of Judea, and there He was spending time with them and baptizing.^23^John also was baptizing in Aenon near Salim, because there was much water there; and *people* were coming and were being baptized—^24^for John had not yet been thrown into prison.^25^Therefore there arose a discussion on the part of John’s disciples with a Jew about purification.^26^And they came to John and said to him, “Rabbi, He who was with you beyond the Jordan, to whom you have testified, behold, He is baptizing and all are coming to Him.”^27^John answered and said, “A man can receive nothing unless it has been given him from heaven.^28^You yourselves are my witnesses that I said, ‘I am not the Christ,’ but, ‘I have been sent ahead of Him.’^29^He who has the bride is the bridegroom; but the friend of the bridegroom, who stands and hears him, rejoices greatly because of the bridegroom’s voice. So this joy of mine has been made full.^30^He must increase, but I must decrease.^31^He who comes from above is above all, he who is of the earth is from the earth and speaks of the earth. He who comes from heaven is above all.^32^What He has seen and heard, of that He testifies; and no one receives His testimony.^33^He who has received His testimony has set his seal to *this,* that God is true.^34^For He whom God has sent speaks the words of God; for He gives the Spirit without measure.^35^The Father loves the Son and has given all things into His hand.^36^“He who believes in the Son has eternal life; but he who does not obey the Son will not see life, but the wrath of God abides on him.”
 
 ---
 
 ## 背景 (Context)
 
-### 尼哥底母的身份
+### 舊約的根
 
-- **法利賽人**：嚴守律法的宗教群體
-- **猶太人的官**：公會（Sanhedrin）成員，共70人加大祭司
-- **以色列人的教師**：著名拉比，受人尊敬
+**清水與新靈。** 以西結書 36:25-27 是這場談話背後最近的一段舊約：
 
-### 夜裏來見
+> ^25^我必用清水灑在你們身上，你們就潔淨了。我要潔淨你們，使你們脫離一切的污穢，棄掉一切的偶像。^26^我也要賜給你們一個新心，將新靈放在你們裏面，又從你們的肉體中除掉石心，賜給你們肉心。^27^我必將我的靈放在你們裏面，使你們順從我的律例，謹守遵行我的典章。
+>
+> — 以西結書 36:25-27（和合本）
 
-尼哥底母「夜裏」來見耶穌可能因為：
-1. 避免同僚的批評
-2. 希望有更多私人時間深談
-3. 約翰福音中「夜」象徵不信的黑暗
+約 3:5 的「水和聖靈」與這段的「清水」「我的靈」是同樣的字眼，但約翰沒有明引以西結書；耶穌說「你是以色列人的先生，還不明白這事嗎？」（3:10），意思是他本該從舊約知道。以西結書卷的處理也是謹慎的：把這個連結標為間接，不當作定論（見 `books/bible/ezekiel/27-a-new-heart.md`）。這卷書的次序是新心與新靈（36:26-27）在殿的度量（40:1 起）之前；卷首〈骨幹〉把全書路線說成榮耀先離開、也先回來（見 `books/bible/ezekiel/00b-glory-spine.md`）。約翰福音把殿放在第 2 章、重生放在第 3 章，本書不把兩卷的次序硬配成一一對應。
 
-### 尼哥底母的三次出現
+**風、氣、靈。** 希伯來文 רוּחַ 同時是「風、氣、靈」。以西結書 37:1-14 這個字出現十次，和合本分別譯成「靈」「氣息」「風」（見 `books/bible/ezekiel/28-the-dry-bones.md`）。耶穌在 3:8 說的「風」，希臘文與「靈」是同一個字（*pneuma*）；尼哥底母是以色列人的先生，這個字義遊戲，他的聖經裏本來就有。
 
-| 經文 | 情況 | 發展 |
-|------|------|------|
-| 約 3:1-21 | 夜裏來訪 | 提問、困惑 |
-| 約 7:50-52 | 在公會中說公道話 | 開始為耶穌辯護 |
-| 約 19:39-40 | 安葬耶穌 | 帶來沒藥和沉香 |
+**銅蛇。** 民數記 21 章記百姓怨讟、火蛇咬人，摩西依耶和華的話造了銅蛇：
 
-尼哥底母從夜裏的探訪者，漸漸成為公開的跟隨者。
+> ^8^耶和華對摩西說：「你製造一條火蛇，掛在杆子上；凡被咬的，一望這蛇，就必得活。」^9^摩西便製造一條銅蛇，掛在杆子上；凡被蛇咬的，一望這銅蛇就活了。
+>
+> — 民數記 21:8-9（和合本）
+
+耶穌親口把這件事接到自己身上（3:14-15）。民數記卷的處理是：得救不在於明白機制，只在於仰望（見 `books/bible/numbers/13-bronze-serpent-and-victory.md`）。
+
+**收在啟示錄。** 重生的終點，是那位坐寶座的宣告：
+
+> ^5^坐寶座的說：「看哪，我將一切都更新了！」
+>
+> — 啟示錄 21:5（和合本）
+
+### 歷史與風俗
+
+**尼哥底母是誰。** 他是法利賽人，是「猶太人的官」（3:1），耶穌稱他「以色列人的先生」（3:10）。「官」指甚麼職分，經文沒有明說；7:50-52 他在法利賽人與祭司長面前為耶穌說公道話，一般認為他是公會成員。約翰福音寫他三次出場：夜裏來訪（3:1-21）、在公會裏為耶穌說話（7:50-52）、在十字架之後與亞利馬太的約瑟一同埋葬耶穌，帶了沒藥與沉香來（19:39-40）。
+
+**夜裏。** 約翰沒有說他為甚麼夜裏來：可能是避人耳目，可能是為了安靜長談，經文沒有給答案。約翰福音裏的「夜」也有象徵的重量，如 13:30 猶大出去時「那時候是夜間」；19:39 約翰特意回頭提醒讀者，他先前夜裏來過。
+
+**「看見記號」而來。** 2:23 說逾越節期間許多人因看見記號而信，耶穌卻不交託自己；3:2 尼哥底母開口的第一句，也是從記號說起：「因為你所行的神蹟，若沒有神同在，無人能行」。他屬於 2:23 那群人的一員，也從這裏被帶往更深的地方。
+
+**3:16-21 是誰的話？** 和合本與 NASB 都把 3:16-21 放在耶穌的話裏（NASB 的引號到 21 節才結束）；也有譯本與注釋家把引號收在 3:15，視 3:16-21 為約翰的評述。這個爭論不影響這幾節在約翰福音裏的分量；本書依和合本紅字傳統，把這幾節仍當作耶穌的話標出，讀者知道有另一種讀法即可。
 
 ---
+
+### 約翰的最後見證（3:22-36）
+
+尼哥底母之後，約翰福音把鏡頭轉到猶太地的另一邊：耶穌和門徒在猶太地施洗，約翰也在靠近撒冷的哀嫩施洗（3:22-23）。「那時約翰還沒有下在監裏」（3:24），這一句交代的是時間：施洗約翰的事工與耶穌的事工，有一段時間是並行的。約 4:2 補了一句：實際施洗的是門徒，不是耶穌自己。
+
+約翰的門徒來報告「眾人都往他那裏去了」（3:26），約翰的回答用的是婚禮的圖畫：新郎的朋友站著，聽見新郎的聲音就喜樂（3:29）。這是本書第 6 章迦拿婚宴已經預告過的那一位「新郎」；約翰自己說，他的位置是朋友，不是新郎。「他必興旺，我必衰微」（3:30）這一句，就是這個位置的白話。
+
+3:31-36 是誰的話，兩個版本的引號處理不同：和合本在 3:30 結束約翰的話，3:31-36 另起一段；NASB 則把 3:27-36 都算在約翰的話裏。有的解經家把 3:31-36 看作福音書作者的評註，有的看作約翰的話。這一章不替哪一說定案；兩種讀法，同樣引向 3:36——對子的回應，決定人得生或不得生。
 
 ## 原文研讀 (Word Study)
 
-| 希臘文 | 音譯 | 意義 | 出現次數 |
-|--------|------|------|----------|
-| ἄνωθεν | anōthen | 從上面/重新 | 雙重含義 |
-| γεννάω | gennaō | 生、生出 | 重生之「生」 |
-| πνεῦμα | pneuma | 靈/風 | 雙關語（8節） |
-| μονογενής | monogenēs | 獨一的、獨生的 | 約翰特用 |
-| ὑψόω | hypsoō | 舉起、高舉 | 十架與高升 |
+| 希臘文 | 音譯 | 意義 | 註解 |
+|-------------------------|------------------|------------------|--------------------------------------------|
+| ἄνωθεν | *anōthen* | 從上頭；重新 | 3:3, 7 一字兩義；約翰福音共 5 次（3:3, 7, 31；19:11, 23），3:31 的「從上頭來」是同一個字 |
+| γεννηθῇ | *gennēthē* | 被生（被動） | 3:3, 5, 6, 7, 8 的動詞是被動語態：人沒有「生自己」的動詞 |
+| πνεῦμα | *pneuma* | 靈；風 | 3:8「風隨著意思吹」與「凡從聖靈生的」是同一個字 |
+| ὑψόω | *hypsoō* | 舉起、高舉 | 3:14；8:28；12:32, 34：約翰用同一個動詞說十字架，也說升高 |
+| μονογενής | *monogenēs* | 獨一的、獨生的 | 約翰福音 1:14, 18；3:16, 18 |
+| κρίνω | *krinō* | 審判；定罪 | 和合本 3:17-19 譯「定罪」；NASB 作 *judge* |
 
-### 「重生」(γεννηθῇ ἄνωθεν) 的雙重含義
+### 「從上頭」還是「重新」
 
-ἄνωθεν 可以翻譯為：
-- **從上面**（born from above）——強調來源是神
-- **重新**（born again）——強調是第二次的誕生
+*Anōthen* 在 3:3 兩義並存：尼哥底母聽成「再一次」（3:4 他問能否再進母腹），耶穌的意思是「從上頭」；這個字約翰在 3:31 用來說「從上頭來的」那位，在 19:11, 23 用的是「從上面」。從上頭生，生命的來源在神，不在人的第二次嘗試。
 
-尼哥底母理解為「重新」（物理的再生），耶穌的意思是「從上面」（屬靈的新生）。
+### 「必須」被舉起
 
-### 「風」與「靈」的雙關
-
-希臘文 πνεῦμα 同時有「風」和「靈」的意思。耶穌用風的不可預測來形容聖靈的工作——你看不見風，卻能看見風的效果。
+3:14 說人子「必須」（*dei*）被舉起，同一個「必須」也在 3:7 出現：「你們必須重生」。人必須重生，人子必須被舉起——前一個「必須」靠後一個「必須」才能成立。
 
 ---
 
-## 解經洞見 (Commentary)
+## 領受要點 (Truths Received)
 
-### John MacArthur 論重生的必要
+### 1. 他說「我們知道」，主回答「你必須重生」
 
-> 「耶穌對這位以色列最高尚的人說：你需要重生。這是對人類最深刻的診斷——無論你多有道德、多有學問、多有地位，你的本性是敗壞的，需要全新的生命。不是改進、不是教育、不是宗教，而是重生。這是神主權的工作——正如嬰孩無法決定自己出生，人也無法決定自己重生。」
-> — John MacArthur, *The MacArthur New Testament Commentary: John 1-11*
+尼哥底母開口帶著結論：「我們知道你是由神那裏來作師傅的」（3:2）。主沒有確認這個結論，也沒有說「你說得對」，直接說他最需要的那一句：「人若不重生，就不能見神的國」（3:3）。知道得多的人，不是主責備的對象；主指出的是，知道本身進不了國。
 
-### G. Campbell Morgan 論約翰福音3:16
+### 2. 重生的動詞，主詞是神
 
-> 「約翰福音3:16被稱為『聖經中的聖經』，因為它濃縮了整本聖經的信息。『神愛世人』——愛的主體；『甚至將祂獨一的兒子賜給他們』——愛的代價；『叫一切信祂的人』——愛的條件；『不致滅亡，反得永生』——愛的結果。這一節經文包含了福音的全部。」
-> — G. Campbell Morgan, *The Gospel According to John*
+「被生」是被動；風「隨著意思吹」，人聽見響聲，卻「不曉得從那裏來，往那裏去」（3:8）。人沒有辦法決定自己重生，正如嬰孩沒有辦法決定自己出生。所以主不給尼哥底母一個方法，只給他一幅圖：風。
 
----
+### 3. 十字架的第一次預告：必須被舉起
 
-## 領受與亮光 (Light Received)
+3:14 是約翰福音第一次用「舉起」說十字架，用的圖畫不是祭壇，是曠野裏掛在杆子上的銅蛇：被咬的人不是靠明白，是靠一望。重生的路，不經過人的努力，經過那位被舉起的。
 
-### 1. 重生的本質
+### 4. 審判，是人對光的反應
 
-| 不是 | 是 |
-|------|---|
-| 道德改善 | 新的本性 |
-| 宗教儀式 | 聖靈的工作 |
-| 人的決定 | 神的作為 |
-| 外在改變 | 內在更新 |
-| 一次經歷 | 持續生命 |
-
-### 2. 「水和聖靈」的解釋
-
-主要解釋有：
-1. **洗禮+聖靈**：水指受洗（不太可能，因當時基督徒洗禮尚未設立）
-2. **自然出生+屬靈出生**：水指肉身出生（羊水），靈指屬靈重生
-3. **神的話+聖靈**：水象徵神的話（弗5:26），與靈一同使人重生
-4. **以西結36:25-27的應驗**：「我必用清水灑在你們身上...我必將我的靈放在你們裏面」
-
-### 3. 銅蛇的預表
-
-> 「摩西在曠野怎樣舉蛇，人子也必須照樣被舉起來。」
-
-| 民數記21 | 約翰福音3 |
-|----------|----------|
-| 以色列人犯罪 | 世人犯罪 |
-| 被蛇咬、將死 | 被罪咬、滅亡 |
-| 銅蛇被舉起 | 人子被舉起（十架） |
-| 仰望就活 | 信就得永生 |
-
-### 4. 約翰福音3:16的結構分析
-
-| 經文 | 意義 |
-|------|------|
-| 神愛世人 | 愛的根源 |
-| 甚至將祂獨一的兒子賜給他們 | 愛的代價 |
-| 叫一切信祂的人 | 愛的條件 |
-| 不致滅亡 | 愛的拯救（消極） |
-| 反得永生 | 愛的賜予（積極） |
+神差祂的兒子「不是要定世人的罪，乃是要叫世人因他得救」（3:17）；然而「定他們的罪就是在此」：光來了，人不愛光，倒愛黑暗（3:19）。這一段把審判說成一個每天發生的選擇：「行真理的必來就光」（3:21）。
 
 ---
 
-## 個人反思 (Personal Reflection)
+## 歷代注疏 (Historical Commentary)
 
-1. **你重生了嗎？** 不是問你做過甚麼決定，而是問：你有沒有新的生命——對神的渴慕、對罪的恨惡、對聖潔的追求？
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。出處見每條末行。
 
-2. **光與黑暗**：你是「來就光」還是「躲避光」？你的行為能否在光中被檢驗？
+### 教父時期
 
-3. **尼哥底母的旅程**：從夜裏來訪到公開跟隨，你在這旅程的哪個階段？
+**奧古斯丁 (Augustine, 354-430)**:
+
+> "None shall see the kingdom of heaven while burdened with sins; for none shall reign with Christ, but he to whom they have been forgiven: but forgiven they cannot be, but to him who is born again of water and of the Holy Spirit."
+>
+> 背著罪的人，無一能見天國；因為除了罪得赦免的，無人能與基督一同作王——**而罪得赦免，唯獨臨到那從水和聖靈重生的人。**
+>
+> — Augustine, *Tractates on John*, **Tractate XI**（論約 2:23-3:5），NPNF1-07
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**:
+
+> "The first entrance into the kingdom of God is, to become a new man."
+>
+> **進神國的第一道門，就是成為一個新人。**
+>
+> — John Calvin, *Commentary on John*, 約 3:3 注（CCEL, calcom34）
+
+### 摩根 (G. Campbell Morgan)
+
+**從「祂不將自己交託」到尼哥底母**：2:23-25 記載許多人因看見兆頭而「信了祂的名」，耶穌卻「不將自己交託他們」——因為這種信心浮淺，只建立在神奇的事上。緊接著「現在有一個法利賽人」，這個「現在」一詞其實可準確譯作「但是」——約翰刻意把尼哥底母的故事與此對比連接：這是一個耶穌**能夠**信任、交託自己的人。
+
+**尼哥底母不是懦夫**：一般注解習慣貶低尼哥底母，說他是「秘密門徒」的懦夫。摩根反駁：後來當那群叫囂的群眾四散逃開之後，埋葬主身體的正是尼哥底母和亞利馬太的約瑟——有時候在安靜中做事，比在吵鬧中做事，需要更大的勇氣。
+
+**三層對話結構**：這場談話分為三個階段——第 2-3 節「面對面」，尼哥底母陳述事實，耶穌宣告「人若不重生，就不能見神的國」，把他一切屬人的宗教、哲學、學問都打碎了；第 4-8 節「思想對思想」，尼哥底母以肉身類比質疑，耶穌以「從水和聖靈生的」澄清；第 9-21 節「心對心」，尼哥底母第二次問「怎能有這事」，這次問的不再是「確有其事嗎」，而是「其過程如何」。
+
+**「如何」的三重答案**：耶穌回答尼哥底母「如何」的問題，分三個層次展開——摩西舉銅蛇（藉著死而生的生命）、神愛世人（藉著從神心中發出的愛而白白賜下）、光已來到世間（藉著基督在世的使命而照耀）。
+
+> 出處：G. Campbell Morgan, *The Gospel According to John*（約翰福音 2:13-3:21 講章）
+
+### 麥克阿瑟 (John MacArthur)
+
+> "He is a member of the Sanhedrin… This man is at the apex of religion. … **Religion in any form to any degree is completely useless in getting anybody to heaven.**"
+>
+> 他是公會的成員……這人站在宗教的頂點。……**任何形式、任何程度的宗教，對把人帶進天堂完全無用。** 亞伯拉罕是他肉身的父，神卻不是他屬靈的父。
+>
+> — John MacArthur, *"Jesus Teaches the Teacher"*（sermon 43-11，論約 3:1-3），Grace to You, gty.org
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Amazing Grace* (奇異恩典)
+### 詩篇 51:10-12
 
-> Amazing grace! How sweet the sound
-> That saved a wretch like me!
-> I once was lost, but now am found;
-> Was blind, but now I see.
+> **求你為我造清潔的心**， \
+> 使我裏面重新有正直的靈。 \
+> 不要丟棄我，使我離開你的面； \
+> 不要從我收回你的聖靈。 \
+> 求你使我仍得救恩之樂， \
+> 賜我樂意的靈扶持我。
 
-**詩篇**：詩篇 51:10
+### Ye Must Be Born Again
 
-> 神啊，求祢為我造清潔的心，使我裏面重新有正直的靈。
+> A ruler once came to Jesus by night \
+> To ask Him the way of salvation and light; \
+> The Master made answer in words true and plain, \
+> "Ye must be born again."
+
+*William T. Sleeper, 1877*
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：夜裏來問「我們知道」的人，得到的答案是「你必須重生」——不是補上一點知識，是從上頭重新開始。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：預表的成就。摩西在曠野舉銅蛇，叫被咬的一望就活（民 21:9）；耶穌說「人子也必須照樣被舉起來」（約 3:14）。重生之水與靈，呼應結 36:25-27「我必用清水灑在你們身上……賜給你們新心」。
+**水靈線**：以西結書 36:25-27 說神要灑清水、賜新心、放新靈；耶穌對「以色列人的先生」說「從水和聖靈生的」，並且責備他不明白（約 3:5, 10）。到啟示錄 21:5，坐寶座的說「看哪，我將一切都更新了」。從一個人的重生，到萬物的更新，同一位神做同一件事。
+
+**銅蛇線**：民 21:8-9 銅蛇掛在杆子上，一望就活；約 3:14 人子必須被舉起；約翰福音後面還有三次用同一個動詞（8:28；12:32, 34）。老弟兄說過：「哪裡有信，哪裡就有聖靈的工作；哪裡有不信，哪裡就有撒旦的工作。」（出處：`.claude/skills/ask-elder-wong/references/voice.md`）3:5-8 與 3:18 把這句話放在一起讀：信，是聖靈的工作。
 
 ### 提問式對話 (Let the Reader Speak)
 
-黃長老不急著給答案，他一層一層地問：
+照老弟兄提問的形狀（先問、再問、追問、落到自己），讀者可以這樣一層一層地問自己：
 
-- 先問：「尼哥底母是有學問的教師，他卻缺了甚麼？」
-- 再問：「『重生』是人努力修出來的，還是聖靈生出來的？」
-- 追問：「摩西舉銅蛇，和耶穌被舉起來釘十架，有甚麼關連？」
-- 落到自己：「你是『重新生了』，還是只是宗教上的尼哥底母——懂得很多，卻還在夜裏？」
+- 先問：尼哥底母說「我們知道」——他知道的是甚麼？主為甚麼不回答他說的話？
+- 再問：「重生」是人努力修出來的，還是聖靈生出來的？風有沒有可能被人指揮？
+- 追問：摩西舉銅蛇，和耶穌被舉起釘十字架，有甚麼關連？被咬的人需要做甚麼？
+- 落到自己：你是「知道很多」的尼哥底母，還是曾經被生出來的人？
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天我們深信：知識越多、技能越強、自我優化越好，人就越好。尼哥底母正是那個時代的「優等生」，主卻對他說：你必須重生。再多的資訊與自我提升，也生不出新生命——那是聖靈的工作。
+今天我們相信：資訊越多、技能越強、自我優化越徹底，人就越好；機器甚至能在幾秒內回答「怎能有這事呢」。老弟兄說過：「知識叫人自高。屬靈的人，聖經懂得很多的人，往往是相當自高的人。」（出處同上，`voice.md`）尼哥底母是他那個時代最會「知道」的人，主對他說的不是「再多知道一點」，是「你必須重生」。
 
 ### 今天的祭壇 (Today's Altar)
 
 - **早晨**：承認自己無力改變自己，求聖靈在你裏面動工。
-- **晚上**：今天我倚靠的是自己的本事，還是聖靈的更新？
-- **一個行動**：今天放下一個「靠自己努力就好」的執念，具體地交給神。
+- **晚上**：今天我倚靠的，是自己的本事，還是祂的更新？
+- **一個行動**：放下一個「再學一點就好了」的執念，具體地交託給神。
+
+**你看見耶穌了嗎？** 祂在夜裏，對一位甚麼都知道的教師說他不知道的事：你必須重生；又指著曠野裏的銅蛇，說明自己要被舉起。你看見的，是那位從天降下的人子，祂被舉起，為了叫一切信祂的人，不至滅亡，反得永生。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 生命應用 (Application)
 
-**一句話精義**：宗教的夜訪者需要的不是更多知識，而是重新出生——重生是聖靈的工作，不是人的努力。
+### 默想問題
 
-**貫通全經**：摩西在曠野舉銅蛇（民21:9），人子也必照樣被舉起——望那被舉起的就活。
+1. **風往哪裏吹**：「風隨著意思吹……凡從聖靈生的，也是如此」（3:8）——你身邊有沒有一個你看不懂、算不準的生命，正被聖靈更新？你能不能放下時間表，單單為他感謝神？
 
-**無法迴避的問題**：「你是『重新生了』，還是只是宗教上的尼哥底母——懂得很多，卻還在夜裏？」
+2. **愛光還是愛黑暗**：「世人因自己的行為是惡的，不愛光，倒愛黑暗」（3:19）——你生命裏有哪一處，情願留在暗處，也不肯拿到光下？
 
-> 「重生不是改良，是死了再活。你還想『修身養性』成為神的兒女嗎？聖經說『不能』。」
+3. **該知道的都知道了**：你倚靠的，是自己「知道」的，還是那從上頭來的生命？
+
+### 禱告回應
+
+> 天父，感謝你愛世人，愛我這個罪人， \
+> 甚至將你的獨生子賜給我。 \
+> 我承認我需要重生，需要從上頭來的生命。 \
+> 求聖靈在我裏面動工， \
+> 使我不再逃避光，而是行在光中。 \
+> 奉主耶穌基督的名禱告，阿們。
 
 ---
 
-## 回應禱告 (A Prayer to Pray)
+## 與其他經文的關聯
 
-> 主耶穌，我承認再多的知識也生不出新生命。求祢的聖靈在我裏面重新生我，叫我不只是宗教的尼哥底母，乃是真在祢裏面重生的人。我仰望那被舉起的祢，因祢而活。阿們。
-
----
-
-*三書精讀項目 · 耶穌基督完整生平 · 第八章*
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 清水與新靈的應許 | 3:5, 10 | 結 36:25-27 |
+| 風、氣、靈 | 3:8 | 結 37:1-14 |
+| 銅蛇與被舉起的人子 | 3:14-15 | 民 21:8-9；約 8:28；12:32, 34 |
+| 萬物更新 | 3:3-8 | 啟 21:5 |
+| 尼哥底母三次出場 | 3:1-21 | 約 7:50-52；19:39-40 |
+| 看見記號而信，與耶穌不交託 | 3:2 | 約 2:23-25（本書第 7 章） |
+| 獨生子 | 3:16, 18 | 約 1:14, 18 |

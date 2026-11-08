@@ -1,206 +1,276 @@
 ---
-title: 迦拿婚宴
-subtitle: The Wedding at Cana
-chapter: 6
-scripture: 約翰福音 2:1-12
+title: 耶穌基督完整生平
+subtitle: The Complete Life of Jesus Christ
+author: PubHub 三書精讀系統
+date: 2026年11月
+publisher: 三書精讀出版系統
 ---
 
 # 迦拿婚宴 (The Wedding at Cana)
 
-約翰福音 2:1-12
+參照行：約翰福音 2:1-12（只有約翰記載）
+
+**經文核對**：[ai-eden.com/bible/john/2](https://www.ai-eden.com/bible/john/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-水變酒的神蹟，主角不是缺酒的窘境，也不是馬利亞的請求，而是那位把「好酒留到現在」的主。從祂的角度讀，六口潔淨禮的石缸盛不下的，祂用滿溢的新酒成全；舊約的禮儀指向祂，婚宴的喜樂預表祂作新郎的筵席。這「頭一件神蹟……顯出祂的榮耀」，門徒所信的，正是這位榮耀的主。
+> **本章鑰詞：新酒 New Wine** \
+> **生平座標**：第 6 站／共 37 站 · 卷三「初期事工：彰顯與更新」· 在第一個逾越節（2:13）之前；確切年代有爭論 \
+> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 1 段——卷三的次序是先有記號，後有潔淨，再有重生；迦拿是「記號」：祂在一個婚宴的缺口上，第一次把榮耀顯給門徒看。 \
+> （全書骨幹見卷首《神的總計劃》）
+
+酒用盡了。這是一個小村莊裏最難堪的一刻，也是整本福音書第一個記號的入口。主角不是缺酒的窘境，也不是馬利亞的請求，而是那位把「好酒留到現在」的耶穌：祂不在人準備好的時候顯榮耀，祂在人空了的時候顯榮耀。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **Joyful, Joyful, We Adore Thee** \
+> *Henry van Dyke, 1907*
+>
+> Joyful, joyful, we adore Thee, \
+> God of glory, Lord of love; \
+> Hearts unfold like flow'rs before Thee, \
+> Op'ning to the sun above.
+>
+> 歡欣，歡欣，我們敬拜你， \
+> 榮耀的神，慈愛的主； \
+> 心靈如花朵在你面前展開， \
+> 向著天上的太陽綻放。
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-> ^1^第三日，在加利利的迦拿有人舉行婚宴，耶穌的母親在那裏。^2^耶穌和祂的門徒也被請去赴宴。^3^酒用完了，耶穌的母親對祂說：「他們沒有酒了。」^4^耶穌說：<red>「母親，我與你何干？我的時候還沒有到。」</red>^5^祂母親對用人說：「祂告訴你們甚麼，你們就做甚麼。」
+> ^1^第三日，在加利利的迦拿有娶親的筵席，耶穌的母親在那裏。^2^耶穌和他的門徒也被請去赴席。^3^酒用盡了，耶穌的母親對他說：「他們沒有酒了。」^4^耶穌說：\jesus{「母親（原文是婦人），我與你有甚麼相干？我的時候還沒有到。」}^5^他母親對用人說：「他告訴你們甚麼，你們就做甚麼。」
 
-> ^6^照猶太人潔淨禮的規矩，有六口石缸擺在那裏，每口可盛兩三桶水。^7^耶穌對用人說：<red>「把缸倒滿水。」</red>他們就倒滿了，直到缸口。^8^耶穌又對他們說：<red>「現在舀出來，送給宴席總管。」</red>他們就送了去。^9^宴席總管嘗了那水變的酒，不知道是從哪裏來的，只有舀水的用人知道。宴席總管便叫新郎來，^10^對他說：「人家都是先擺上好酒，等客人喝夠了才擺上次的，你倒把好酒留到現在！」
+> ^6^照猶太人潔淨的規矩，有六口石缸擺在那裏，每口可以盛兩三桶水。^7^耶穌對用人說：\jesus{「把缸倒滿了水。」}他們就倒滿了，直到缸口。^8^耶穌又說：\jesus{「現在可以舀出來，送給管筵席的。」}他們就送了去。
 
-> ^11^這是耶穌所行的第一個神蹟，是在加利利的迦拿行的，顯出了祂的榮耀來，祂的門徒就信祂了。^12^這事以後，耶穌與祂的母親、弟弟和門徒都下迦百農去，在那裏住了不多幾天。
+> ^9^管筵席的嘗了那水變的酒，並不知道是那裏來的，只有舀水的用人知道。管筵席的便叫新郎來，^10^對他說：「人都是先擺上好酒，等客喝足了，才擺上次的，你倒把好酒留到如今！」
 
-### English — ESV (English Standard Version)
+> ^11^這是耶穌所行的頭一件神蹟，是在加利利的迦拿行的，顯出他的榮耀來；他的門徒就信他了。^12^這事以後，耶穌與他的母親、弟兄、和門徒都下迦百農去，在那裏住了不多幾日。
 
-> ^1^On the third day there was a wedding at Cana in Galilee, and the mother of Jesus was there. ^2^Jesus also was invited to the wedding with his disciples. ^3^When the wine ran out, the mother of Jesus said to him, "They have no wine." ^4^And Jesus said to her, <red>"Woman, what does this have to do with me? My hour has not yet come."</red> ^5^His mother said to the servants, "Do whatever he tells you."
+### English — NASB
 
-> ^6^Now there were six stone water jars there for the Jewish rites of purification, each holding twenty or thirty gallons. ^7^Jesus said to the servants, <red>"Fill the jars with water."</red> And they filled them up to the brim. ^8^And he said to them, <red>"Now draw some out and take it to the master of the feast."</red> So they took it. ^9^When the master of the feast tasted the water now become wine, and did not know where it came from (though the servants who had drawn the water knew), the master of the feast called the bridegroom ^10^and said to him, "Everyone serves the good wine first, and when people have drunk freely, then the poor wine. But you have kept the good wine until now."
+> ^1^On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there; ^2^and both Jesus and His disciples were invited to the wedding. ^3^When the wine ran out, the mother of Jesus said to Him, “They have no wine.” ^4^And Jesus said to her, \jesus{“Woman, what does that have to do with us? My hour has not yet come.”} ^5^His mother said to the servants, “Whatever He says to you, do it.”
 
-> ^11^This, the first of his signs, Jesus did at Cana in Galilee, and manifested his glory. And his disciples believed in him. ^12^After this he went down to Capernaum, with his mother and his brothers and his disciples, and they stayed there for a few days.
+> ^6^Now there were six stone waterpots set there for the Jewish custom of purification, containing twenty or thirty gallons each. ^7^Jesus said to them, \jesus{“Fill the waterpots with water.”} So they filled them up to the brim. ^8^And He said to them, \jesus{“Draw \textit{some} out now and take it to the headwaiter.”} So they took it *to him.*
 
-### English — NASB (New American Standard Bible)
+> ^9^When the headwaiter tasted the water which had become wine, and did not know where it came from (but the servants who had drawn the water knew), the headwaiter called the bridegroom, ^10^and said to him, “Every man serves the good wine first, and when *the people* have drunk freely, *then he serves* the poorer *wine;* *but* you have kept the good wine until now.”
 
-> ^1^On the third day there was a wedding in Cana of Galilee, and the mother of Jesus was there; ^2^and both Jesus and His disciples were invited to the wedding. ^3^When the wine ran out, the mother of Jesus said to Him, "They have no wine." ^4^And Jesus said to her, <red>"Woman, what does that have to do with us? My hour has not yet come."</red> ^5^His mother said to the servants, "Whatever He says to you, do it."
-
-> ^6^Now there were six stone waterpots set there for the Jewish custom of purification, containing twenty or thirty gallons each. ^7^Jesus said to them, <red>"Fill the waterpots with water."</red> So they filled them up to the brim. ^8^And He said to them, <red>"Draw some out now and take it to the headwaiter."</red> So they took it to him. ^9^When the headwaiter tasted the water which had become wine, and did not know where it came from (but the servants who had drawn the water knew), the headwaiter called the bridegroom, ^10^and said to him, "Every man serves the good wine first, and when the people have drunk freely, then he serves the poorer wine; but you have kept the good wine until now."
-
-> ^11^This beginning of His signs Jesus did in Cana of Galilee, and manifested His glory, and His disciples believed in Him. ^12^After this He went down to Capernaum, He and His mother and His brothers and His disciples; and they stayed there a few days.
+> ^11^This beginning of His signs Jesus did in Cana of Galilee, and manifested His glory, and His disciples believed in Him. ^12^After this He went down to Capernaum, He and His mother and *His* brothers and His disciples; and they stayed there a few days.
 
 ---
 
 ## 背景 (Context)
 
-### 猶太婚宴的習俗
+### 舊約的根
 
-猶太婚宴通常持續七天，是極其隆重的社交活動。酒用盡是嚴重的失禮，會給新人家庭帶來羞辱，甚至可能面對法律訴訟。
+**七日與新創造。** 約翰在 1:19 起按日子往下數：1:29「次日」、1:35「又次日」、1:43「又次日」，然後是 2:1「第三日」。依這個算法，婚宴落在開端的第七日；創世記用七日完成創造（創 1–2），約翰用七日開始新創造。這是老弟兄架構（見 `books/bible/gospel-of-john/elder-wong-systematic-study.md`）採用的一種讀法，經文本身沒有說「第七日」，讀者可自行核對日子的算法。
 
-### 迦拿的位置
+**筵席與新酒的應許。** 以賽亞書把末後的盼望畫成一桌筵席：
 
-迦拿位於拿撒勒東北約14公里，是加利利的小村莊。拿但業就是迦拿人（約21:2）。
+> ^6^在這山上，萬軍之耶和華必為萬民用肥甘設擺筵席，用陳酒和滿髓的肥甘，並澄清的陳酒，設擺筵席。……^8^他已經吞滅死亡直到永遠。主耶和華必擦去各人臉上的眼淚，又除掉普天下他百姓的羞辱，因為這是耶和華說的。
+>
+> — 以賽亞書 25:6, 8（和合本）
 
-### 「第三日」的意義
+阿摩司書與約珥書各說了一次山上的新酒：「大山要滴下甜酒；小山都必流奶」（摩 9:13），「到那日，大山要滴甜酒；小山要流奶子」（珥 3:18）。和合本在摩 9:13 加註指向約珥書三章十八節。阿摩司書卷首〈啟示的次序〉把全卷收在倒塌的帳幕由神自己重建（見 `books/bible/Amos/00c-revelation-order.md`），新酒是那個重建的一幅圖畫；約珥書的新酒則接在「從耶和華殿中流出」的泉源旁（見 `books/bible/Joel/10-the-lord-dwells-in-zion.md`）。
 
-從呼召門徒算起的第三日。在聖經中，「第三日」常與救贖和更新相關（創22:4；出19:11；何6:2）。
+**婚姻是耶和華與子民的圖畫。** 何西阿書 2:19 說：「我必聘你永遠歸我為妻」（和合本）；何西阿書卷首〈啟示的次序〉把這卷書的位置定在「約破而國未亡」的一步，把約說成一場婚姻（見 `books/bible/hosea/00c-revelation-order.md`、`books/bible/hosea/03-allure-and-betroth.md`）。迦拿的婚宴在耶穌身上沒有新郎的名字，這個名字要到下一章才被施洗約翰說出（3:29），本卷的第三段會接上。
 
-### 六口石缸
+**收在啟示錄。** 神的筵席在啟示錄 19 章兌現：
 
-每口可盛「兩三桶」（metrētas），約75-115公升。六口共450-680公升的水變成酒——這是極大的豐盛。
+> ^9^天使吩咐我說：「你要寫上：凡被請赴羔羊之婚筵的有福了！」又對我說：「這是神真實的話。」
+>
+> — 啟示錄 19:9（和合本）
+
+### 歷史與風俗
+
+**婚宴。** 舊約記有七日之久的婚筵（創 29:27；士 14:12, 17）；迦拿這場筵席持續多久，經文沒有說。酒不夠，對主人家是難堪的事，本章沒有交代酒為甚麼用盡，也不必猜。
+
+**迦拿。** 在加利利，位於拿撒勒之北；確切位置有爭論，有兩處候選地點。拿但業是迦拿人（21:2）。耶穌後來從猶太回到加利利，又到迦拿，行了第二個記號（4:46, 54），所以約翰把頭一個與第二個記號都放在這個小地方。
+
+**母親與「婦人」。** 約翰從不寫出馬利亞的名字，只寫「耶穌的母親」。她親自出場只有兩處：這裏，和十字架下（19:25-27）；兩處耶穌稱她「婦人」。
+
+**六口石缸。** 約翰自己交代，缸是為「猶太人潔淨的規矩」預備的（2:6）。一般認為用石器是因為石器不易沾染不潔，《米示拿》也有石器不受污染的規定。每口兩三「桶」（希臘文 *metrētēs*），約 75 至 115 公升（NASB 作二三十加侖）；六口合計約 450 至 680 公升（估算值）。
 
 ---
 
 ## 原文研讀 (Word Study)
 
-| 希臘文 | 音譯 | 意義 | 出現次數 |
-|--------|------|------|----------|
-| σημεῖον | sēmeion | 神蹟、記號 | 約翰福音17次 |
-| δόξα | doxa | 榮耀 | 約翰福音19次 |
-| ὥρα | hōra | 時候、時辰 | 約翰福音26次 |
-| γυνή | gynē | 婦人、女人 | 尊稱，非不敬 |
-| οἶνος | oinos | 酒 | 新約34次 |
+| 希臘文 | 音譯 | 意義 | 註解 |
+|-------------------------|------------------|------------------|--------------------------------------------|
+| σημεῖον | *sēmeion* | 神蹟、記號 | 約翰福音共 17 次；約翰不用 δύναμις（異能）稱祂的作為，「奇事」(τέρας) 只在 4:48 出現一次，且是主責備人專求神蹟奇事的地方。重意義，不重能力的展示 |
+| ἀρχή | *archē* | 起頭、開始 | 2:11「頭一件」（NASB *beginning*）與 1:1「太初」同字：記號的起頭，呼應創造的起頭 |
+| ὥρα | *hōra* | 時候 | 「我的時候」指十字架與得榮耀的時刻（7:30；8:20；12:23；13:1；17:1） |
+| γύναι | *gynai* | 婦人（呼格） | 稱呼語；19:26 耶穌在十字架上對母親用同一個稱呼 |
+| ὑδρία | *hydria* | 水缸 | 2:6、2:7；4:28 撒馬利亞婦人丟下的「水桶」也是這個字 |
+| ἄρτι | *arti* | 現在、到如今 | 2:10「留到如今」；總管說的話，把次序倒了過來 |
 
-### 「神蹟」(σημεῖον) vs「奇事」(τέρας)
+### 「記號」與「榮耀」
 
-約翰福音從不用「奇事」(τέρας)，只用「神蹟/記號」(σημεῖον)。因為重點不是超自然的「奇」，而是神蹟所「指向」的意義——彰顯基督的榮耀。
+2:11 把兩個詞擺在一句：記號 (*sēmeion*) 與榮耀 (*doxa*)。記號是指向，榮耀是被指向的那一位；約翰在 1:14 說「我們也見過他的榮光」，到 2:11 才說有人看見了。門徒「信他」，沒有說他們明白了。
 
-### 「我的時候」(ἡ ὥρα μου)
+### 「現在」(ἄρτι) 的反差
 
-「時候」在約翰福音中是一個專門用語，指耶穌受死和得榮耀的時刻（約7:30; 8:20; 12:23; 13:1; 17:1）。這裏耶穌說時候「還沒有到」，但祂仍然行動——神蹟預示那「時候」的榮耀。
-
----
-
-## 解經洞見 (Commentary)
-
-### John MacArthur 論這神蹟的意義
-
-> 「耶穌為甚麼選擇在婚宴上行第一個神蹟？首先，祂肯定婚姻是神所設立的。其次，祂顯明祂帶來的是喜樂，不是宗教的重擔。第三，水變酒預表舊約的潔淨禮儀要被新約的恩典取代。那六口石缸本是為『猶太人潔淨禮』預備的——舊約的儀式用盡了、不夠了，耶穌帶來的是滿溢的新酒。」
-> — John MacArthur, *The MacArthur New Testament Commentary: John 1-11*
-
-### G. Campbell Morgan 論「最好的酒」
-
-> 「『你倒把好酒留到現在！』這句話道出福音的本質。世界總是先給最好的，然後每況愈下。基督正好相反——祂把最好的留到後面。基督徒的生命不是越來越枯乾，而是越來越豐盛。天堂不是這世界的延續，而是『最好的酒』——神把最好的留到最後。」
-> — G. Campbell Morgan, *The Gospel According to John*
+耶穌說「我的時候還沒有到」（2:4），總管說「你倒把好酒留到如今」（2:10）。同一章裏，一個「還沒有」，一個「如今」：十字架的時候未到，但記號已經在婚宴上出手，把將來的喜樂預先放進人手裏。
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-### 1. 第一個神蹟的選擇
+### 1. 缺口是記號的入口
 
-耶穌沒有選擇醫病、趕鬼或使死人復活作為第一個神蹟，而是選擇在婚宴上變水為酒。這彰顯：
-- **神關心日常生活**：婚宴、食物、人際關係
-- **耶穌帶來喜樂**：酒在聖經中象徵喜樂（詩104:15）
-- **豐盛的恩典**：不只是解決問題，而是超過所求所想
+主沒有在筵席圓滿的時候行第一個記號，祂等酒用盡。約翰說這一家出的事，不是缺糧、不是缺水，是「酒用盡了」（2:3）；酒在舊約是喜樂的記號（詩 104:15），所以這一句話翻成白話就是：喜樂沒有了。主行的第一個記號，不是餵飽人，是補上喜樂，而且補得溢出：六口缸，估算數百公升，一個小村莊的婚宴喝不完。
 
-### 2. 舊約與新約的對比
+### 2. 知道的人，是照著話去做的人
 
-| 舊約 | 新約 |
-|------|------|
-| 石缸 | 心靈 |
-| 潔淨的水 | 使人喜樂的酒 |
-| 外在的洗濯 | 內在的更新 |
-| 不夠用 | 滿溢豐盛 |
-| 律法的要求 | 恩典的供應 |
+「只有舀水的用人知道」（2:9）：管筵席的、新郎、滿座的客人，都不知道酒從哪裏來。記號的見證人是僕人，因為他們做了一件看起來沒有道理的事：把缸倒滿水，再舀出來送去。馬利亞對他們只說一句話：「他告訴你們甚麼，你們就做甚麼」（2:5）；她沒有要求耶穌用甚麼方式，只把僕人交到祂手上。
 
-### 3. 馬利亞的信心
+### 3. 律法的缸，倒出婚宴的酒
 
-馬利亞說「祂告訴你們甚麼，你們就做甚麼」——這是對耶穌絕對的信任。即使耶穌似乎拒絕了她的請求，她仍然相信祂會行動。這是成熟的信心。
+主叫人盛滿的，是潔淨禮用的缸；倒出來的，是宴席上的酒。1:17 說「律法本是藉著摩西傳的；恩典和真理都是由耶穌基督來的」，迦拿用一個動作把這句話演出來：缸沒有換，水沒有加糖，是同一口缸，在祂手裏從洗濯變成喜樂。
 
-### 4. 「顯出祂的榮耀」
+### 4. 好酒留到如今
 
-約翰福音的「榮耀」(δόξα) 貫穿全書：
-- 1:14 — 我們見過祂的榮光
-- 2:11 — 顯出了祂的榮耀（迦拿神蹟）
-- 11:4 — 這病是為神的榮耀（拉撒路復活）
-- 17:1 — 願祢榮耀祢的兒子
-
-神蹟的目的不是解決問題，而是顯明基督的榮耀。
+總管的話把世上的次序說對了，也說錯了：人都是先擺好酒，等客喝足了擺次的（2:10）；他稱讚新郎，卻稱讚錯了人。這一句留給整卷福音書一個問題：祂的次序是甚麼？祂把最好的留在後頭，而最後的最好，要到羔羊的婚筵（啟 19:9）。
 
 ---
 
-## 個人反思 (Personal Reflection)
+## 歷代注疏 (Historical Commentary)
 
-1. **酒用盡的時刻**：你生命中有甚麼「用盡」了——喜樂、盼望、力量？你是否把這些困境帶到耶穌面前？
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。出處見每條末行。
 
-2. **順服的行動**：用人照耶穌的話把石缸倒滿水——這看似愚蠢。你是否願意在不明白的情況下順服？
+### 教父時期
 
-3. **最好的酒**：你相信神把「最好的」留到將來嗎？還是你覺得人生越來越差？
+**奧古斯丁 (Augustine, 354-430)**：論六口石缸——它們盛的是猶太人潔淨禮儀用的水，奧古斯丁的傳統解讀將六口缸讀作救恩史的六個時代（從亞當到挪亞、挪亞到亞伯拉罕、亞伯拉罕到大衛、大衛到被擄、被擄到施洗約翰、約翰到世界的末了）：六個時代如同六口石缸，盛滿了預言；但預言若沒有基督的解釋，就如同水一般，沒有酒的喜樂。
+
+> "Who does not wonder at water turned into wine, although God is doing this every year in vines?" ……"For the good wine—namely, the gospel—Christ has kept until now."
+>
+> 「誰不因水變成酒而希奇呢？——雖然神每一年都在葡萄樹裏做這件事。」……「**那好酒——就是福音——基督留到了如今。**」
+>
+> — Augustine, *Tractates on John*, **Tractate IX.1, IX.2**（論約 2:1-11），NPNF1-07
+
+**金口約翰 (John Chrysostom, 349-407)**：
+
+> "They invite Him to the marriage, and He comes; for He looked not to His own honor, but to our benefit. He who disdained not to 'take upon Him the form of a servant,' would much less disdain to be present at the marriage **of servants**."
+>
+> 他們請祂赴婚宴，祂就來了——**因為祂看的不是自己的體面，是我們的益處。** 那位不以「取了奴僕的形像」為辱的，更不會以出席**僕人的**婚宴為辱。
+>
+> — Chrysostom, *Homilies on St. John*, **Homily XXI**（論約 2:1-2），NPNF1-14
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+> "It is a high honor given to marriage, that Christ not only deigned to be present at a nuptial banquet, but honored it with his first miracle."
+>
+> 「這是賜給婚姻何等高的尊榮：基督不但屈尊親臨婚筵，**還用祂的第一個神蹟使婚筵得了榮耀。**」
+>
+> — John Calvin, *Commentary on John*, 約 2:1-2 注（CCEL, calcom34）
+
+### 摩根 (G. Campbell Morgan)
+
+**婚宴是神聖的時刻。** 摩根指出，耶穌選擇在婚禮——「二人聯合為一」的神聖時刻——行第一個兆頭，並非偶然；婚姻本身承載著神的形像與樣式，是為著人類種族的延續與啟示的傳遞而設。
+
+**「婦人，我與你何干」是溫柔而非冷淡。** 這句話從耶穌口中說出時是「極溫柔的字」——後來祂在十字架上對馬利亞說話，用的正是同一個稱呼。馬利亞盼望耶穌用神蹟證明自己的身分，但耶穌清楚，這個兆頭不能滿足她心中真正的渴望——那渴望要等到十字架才得完全的答案。
+
+**兆頭「顯出」而非「完成」榮耀。** 「顯出祂的榮耀」所用的動詞，意思不是一次完滿、最終、完全的顯現，而是「使……照射出去」。
+
+> "The first sign in the house of joy at a wedding, was a creative act, the turning of the water into wine. Thus the eternal Word is seen, in flesh, sanctifying the marriage relationship, sharing human joy."
+>
+> 第一個兆頭行在婚宴這個喜樂之家，是一次創造的作為——把水變成酒。於是我們看見永恆的道，在肉身中，使婚姻的關係成為聖潔，分享人的喜樂。
+
+摩根給這個兆頭定的「境界」是**創造與喜樂之境**（the realm of creation and joy）。
+
+> 出處：G. Campbell Morgan, *The Gospel According to John*（約翰福音 1:35-2:12 講章）
+
+### 麥克阿瑟 (John MacArthur)
+
+> "He’s created wine out of nothing."
+>
+> 「祂是從無有中造出酒來。」（編者中譯）
+>
+> — John MacArthur, *"The Beginning of Miracles"*（sermon 43-8，論約 2:1-11），Grace to You, gty.org
+
+**編者撮述**：麥克阿瑟以葡萄、葡萄樹及生長條件的通常過程，對照主在此直接行的神蹟；他另按六口石缸估算酒量為一百二十至一百八十加侖。這是講章要旨的摘要，並非連續逐字引文。
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Joyful, Joyful, We Adore Thee* (快樂崇拜)
+### 詩篇 104:14-15
 
-> Joyful, joyful, we adore Thee,
-> God of glory, Lord of love;
-> Hearts unfold like flowers before Thee,
-> Opening to the sun above.
-
-**詩篇**：詩篇 104:14-15
-
-> 祂使草生長給牲畜吃，使蔬菜供人使用，使人從地裏得食物，
-> 又得酒使人心歡喜，得油潤人的臉，得糧加增人心的力量。
+> 你使草生長給牲畜吃，使菜蔬生長供人食用， \
+> 使人從地裏得出糧食來， \
+> **又得酒使人心歡喜**， \
+> 得油使人臉發亮， \
+> 得糧使人心強壯。
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：祂把人留到最後的次酒，換成「留到如今的好酒」——酒用盡的地方，就是祂的榮耀第一次顯出來的地方。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：兆頭指向耶穌是誰。水變酒是約翰所記第一個「兆頭」，指向祂是真葡萄樹（約 15:1）；潔淨禮的六口石缸盛的是舊約禮儀的水，祂卻換成新酒——舊約的影兒讓位給「滿有恩典」的實體（約 1:17）。先知早應許末世必有新酒湧流（摩 9:13；珥 3:18）。
+**新酒線**：以賽亞書 25:6 把末後的盼望說成筵席（陳酒、澄清的陳酒）；阿摩司書 9:13 與約珥書 3:18 兩次說山上滴下甜酒；何西阿書 2:19 說耶和華要聘子民歸自己為妻。迦拿的石缸是這條線在人間頭一次出手：沒有新郎的名字，卻補上了酒。下一章施洗約翰才叫出「新郎」（約 3:29），線一路走到啟示錄 19:9 的羔羊婚筵。老弟兄的約翰福音架構把二到四章排成「從迦拿到迦拿」的五個「新」，第一個就是新酒。
+
+**時候線**：2:4「我的時候還沒有到」，12:23「人子得榮耀的時候到了」，13:1「耶穌知道自己離世歸父的時候到了」，17:1「時候到了」。迦拿是時候未到時的預告，十字架才是祂榮耀的時候。老弟兄說過一句話可以放在這裏：「創世記——道創造萬物。約翰福音——道成了肉身。啟示錄——那騎白馬的，名字叫神之道。整本聖經從頭到尾，主角只有一位。」（出處：`.claude/skills/ask-elder-wong/references/voice.md`）水變酒是道創造萬物的手，現在站在婚宴上。
 
 ### 提問式對話 (Let the Reader Speak)
 
-黃長老不急著給答案，他一層一層地問：
+照老弟兄提問的形狀（先問、再問、追問、落到自己），讀者可以這樣一層一層地問自己：
 
-- 先問：「宴席總管說『你倒把好酒留到現在』——這句話你聽出甚麼？」
-- 再問：「世界給東西的次序是甚麼？基督給的次序又是甚麼？」
-- 追問：「那六口『潔淨禮』的石缸，為甚麼是關鍵？它預表甚麼？」
-- 落到自己：「你覺得人生越過越淡、好酒已過？還是相信祂把最好的留到現在？」
+- 先問：管筵席的說「你倒把好酒留到如今」——這句話你聽出甚麼？
+- 再問：世界給東西的次序是甚麼？基督給的次序又是甚麼？
+- 追問：僕人把缸倒滿水的時候，他們知道會有酒嗎？他們憑甚麼去做？
+- 落到自己：你的人生裏，有沒有一口空了的缸，等著你照祂的話倒滿水？
 
 ### 活在今天 · AI時代 (Living It Today)
 
-消費文化天天告訴你：最新的最好，現在就要，過了就沒了。於是人總在追下一個版本、下一段刺激，越追越空。基督卻反過來——祂把最好的留到後頭。你信不信，跟隨祂的生命是越來越豐盛，不是越來越枯乾？
+今天的機器能在幾秒內生成一份酒的配方、一首關於婚宴的詩，我們卻容易把「生成」與「創造」混為一談。老弟兄說過：「人能創造的只有在腦袋裏面。我們今天不是創造了AI，而是製造了AI。創造，唯有神能。」（出處同上，`voice.md`；原文「腦袋裡面」，此處依本書體例作「裏」）水變成酒不是配方，是創造主在一個缺口上說話。你的缺口，是想用演算法補，還是想交給那位創造者？
 
 ### 今天的祭壇 (Today's Altar)
 
-- **早晨**：把今天的「缺乏」交給那位能把水變成好酒的主。
-- **晚上**：今天我有沒有被「現在就要」的急躁，奪去了等候主時候的安息？
-- **一個行動**：今天在一件事上順服等候神的時間，不靠自己強求結果。
+- **早晨**：把今天最先想到的一個「缺」（缺時間、缺力量、缺喜樂）交到祂手上。
+- **晚上**：今天我有沒有「他告訴你們甚麼，你們就做甚麼」？哪一件小事，我是照自己的意思做的？
+- **一個行動**：做一件你已經知道祂要你做、卻沒有看見結果的小事。
+
+**你看見耶穌了嗎？** 祂在一個村莊的婚宴上，沒有說「這是我的榮耀」，只說了一句「把缸倒滿了水」。你看見的，是那位不聲不響站在新郎旁邊、把好酒留到如今的主，祂的榮耀，是從一口空缸裏流出來的。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 生命應用 (Application)
 
-**一句話精義**：祂把人留到最後的次酒，換成「留到現在的好酒」——基督所到之處，最好的總在後頭。
+### 默想問題
 
-**貫通全經**：水變酒這「兆頭」指向祂是真葡萄樹（約15），恩典（滿足缺乏）與真理（創造大能）一同彰顯。
+1. **酒用盡的時刻**：你生命中有甚麼「用盡」了——喜樂、盼望、力量？你是否把這些缺口帶到耶穌面前，而不是自己補？
 
-**無法迴避的問題**：「你覺得人生越過越淡、好酒已過？還是相信祂把最好的留到現在？」
+2. **看來沒有道理的順服**：僕人把缸倒滿水，又舀出來送去，沒有人告訴他們結果。你有沒有一件事，是祂已經說了，你還在等「想通了」才做？
 
-> 「祂用一秒鐘做出十二年才有的好酒——這不是表演，是宣告:真葡萄樹站在這裏。」
+3. **最好的在後頭**：你相信祂把最好的留到如今，也留到將來嗎？
+
+### 禱告回應
+
+> 主耶穌，你把好酒留到如今。 \
+> 當我的缸空了，求你叫我不要自己去補， \
+> 乃要照你的話倒滿水。 \
+> 把我裏面的缺口，變成你榮耀顯出來的地方。阿們。
 
 ---
 
-## 回應禱告 (A Prayer to Pray)
+## 與其他經文的關聯
 
-> 主耶穌，祢把好酒留到現在。當我覺得人生越過越淡、喜樂將盡，求祢叫我相信祢的恩典是滿溢的，最好的還在後頭。把我心裏空了的缸，倒滿祢的新酒。阿們。
-
----
-
-*三書精讀項目 · 耶穌基督完整生平 · 第六章*
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 筵席與新酒的應許 | 2:1-11 | 賽 25:6、摩 9:13、珥 3:18 |
+| 耶和華與子民的婚姻 | 2:9-10 | 何 2:19、約 3:29、啟 19:7-9 |
+| 律法的水與恩典的酒 | 2:6-10 | 約 1:17 |
+| 榮耀的顯出 | 2:11 | 約 1:14 |
+| 「我的時候」 | 2:4 | 約 7:30、12:23、13:1、17:1 |
+| 母親與「婦人」 | 2:4 | 約 19:25-27 |

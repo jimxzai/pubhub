@@ -1,9 +1,25 @@
-% PubHub Gospel Harmony Template
-% The Complete Life of Jesus Christ - A Gospel Harmony
-% Bilingual Chinese/English with Greek word studies
-% Requires XeLaTeX for CJK support
+% PubHub Gospel Harmony Template (耶穌基督完整生平 / The Complete Life of Jesus Christ)
+% Bilingual Chinese/English study book, Greek word studies, red-letter words of Jesus.
+% Requires XeLaTeX for CJK support.
+% Series identity: Royal/Shepherd/Glory palette -- the King (Matthew), the
+% Shepherd (John 10), the glory seen at the Word made flesh (John 1:14).
+% Jesus' words are set red-letter with \jesus{...}, upright (same convention as
+% templates/pdf/acts.latex and gospel-of-john.latex; no italic, since Kaiti SC has
+% upright Latin and the red alone carries the distinction).
+%
+% Base: templates/pdf/job.latex (2026-08/09 house fixes: secnumdepth/tocdepth,
+% chaptermark without an English "Chapter N.", the \@schapter running-head patch,
+% hyperxmp PDF metadata from the title variable, \setTransitionTo ucharclasses block, real
+% Latin italic). Job-specific text, Hebrew-first emphasis and palette removed;
+% replaces an older unused template of the same name (referenced by no script).
+%
+% NOTE on font bug fix (see .claude/skills/eat-bible/references/gotchas.md):
+% BoldFont=<Family> Bold silently flattens \textbf{} for CJK text containing
+% full-width punctuation. Every font declaration below uses
+% BoldFont=<same family>, BoldFeatures={FakeBold=N} instead of a real bold face.
 
-\documentclass[11pt,openany]{book}
+% openright: every chapter opens on a recto, the printed-book convention.
+\documentclass[11pt,openright]{book}
 
 %% ============================================
 %% FONT SETUP WITH CJK LINE BREAKING
@@ -15,44 +31,76 @@
   BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
-\setsansfont{PingFang SC}
-\setmonofont{Songti SC}
+\setsansfont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
+% CJK-safe monospace — never Menlo (zero CJK glyphs, silently renders blank boxes)
+\setmonofont{PingFang SC}[
+  BoldFont=PingFang SC,
+  BoldFeatures={FakeBold=2.0}
+]
 
-%% Greek and Hebrew font support - auto-switch for Unicode blocks
+%% Greek (the Word Study sections of the Gospels) and Hebrew (Old Testament
+%% roots in the 背景 sections) font support — auto-switch for Unicode blocks.
 \usepackage{ucharclasses}
-\newfontfamily\greekfont{Times New Roman}[Script=Greek]
-\newfontfamily\hebrewfont{Times New Roman}[Script=Hebrew]
-%% ucharclasses — full block coverage via \setTransitionTo.
-%%
-%% Two traps this replaces (see .claude/skills/eat-bible/references/gotchas.md):
-%%  1. \setTransitionsFor{Greek} is a no-op — "Greek" is a class GROUP; the
-%%     block is GreekAndCoptic. Basic Greek silently used the main font.
-%%  2. \setTransitionsFor sets BOTH directions for every pair, so a later
-%%     declaration's out-code overwrites an earlier one's in-code. Symptom:
-%%     a Greek/Hebrew run preceded by CJK or full-width punctuation (：、。）
-%%     does not switch font — silently, since the main font carries basic
-%%     Greek glyphs.
-%%
-%% \setTransitionTo sets the ENTERING direction only, so nothing can clobber
-%% anything. It removes the leaving-code, which is why every block this book
-%% uses must be listed: an unlisted block inherits the previous font.
-%% Block list derived from a census of this book's own markdown sources.
-%%
-%% \latinrun keeps the main font's own Latin glyphs — upright text is
-%% unchanged — but adds a real italic, which \setmainfont cannot supply
-%% because its ItalicFont is Kaiti SC, a brush face whose Latin glyphs are
-%% UPRIGHT. Without this every italicised work title renders as roman.
-%% \uckeep carries series/shape across the boundary; a bare \newfontfamily
-%% switch resets both and drops \emph / \textbf mid-run.
+\newfontfamily\greekfont{Times New Roman}[
+  Script=Greek,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Scale=1.35: Times New Roman's Hebrew glyphs are drawn much smaller than its
+% Latin ones and far smaller than Songti SC's CJK, so pointed Hebrew set at the
+% nominal size renders with the nikkud crushed into an unreadable smudge — a
+% pure legibility defect that produces zero warnings and a clean driver.sh run.
+% Same fix, same reasoning, as templates/pdf/job.latex.
+\newfontfamily\hebrewfont{Times New Roman}[
+  Script=Hebrew,
+  Scale=1.35,
+  BoldFont=Times New Roman,
+  BoldFeatures={FakeBold=2.0}
+]
+% Latin runs keep Songti SC's own Latin glyphs — no visible change to upright
+% text — but gain a REAL italic. \setmainfont cannot supply one: its
+% ItalicFont is Kaiti SC, a Chinese brush face whose Latin glyphs are UPRIGHT,
+% so every italicised commentary title in this book would otherwise render
+% as roman with zero warnings.
 \newfontfamily\latinrun{Songti SC}[
   ItalicFont={Times New Roman Italic},
-  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   BoldItalicFont={Times New Roman Bold Italic}
 ]
 \newfontfamily\cjkrun{Songti SC}[
-  BoldFont=Songti SC, BoldFeatures={FakeBold=2.2},
+  BoldFont=Songti SC,
+  BoldFeatures={FakeBold=2.2},
   ItalicFont=Kaiti SC
 ]
+
+%% ucharclasses: two independent traps, both silent.
+%%
+%% TRAP 1 — two APIs that look alike:
+%%   \setTransitionsFor{<Block>}{in}{out}   3 args, a real Unicode BLOCK
+%%   \setTransitionsFor<Group>{in}{out}     2 args, a class GROUP
+%% "Greek" is a class GROUP, not a block — the block is GreekAndCoptic. Feeding
+%% a group name (or a name that doesn't exist) to the 3-arg form compiles fine
+%% and does nothing, so basic Greek/Hebrew would silently fall back to
+%% Songti SC's own glyphs.
+%%
+%% TRAP 2 — \setTransitionsFor sets BOTH directions for every pair, so a later
+%% declaration's out-code silently overwrites an earlier one's in-code:
+%%     \setTransitionsFor{X}{in}{out}  ⇒  for every other class n
+%%         \XeTeXinterchartoks n X = {in}      (entering X)
+%%         \XeTeXinterchartoks X n = {out}     (leaving X)
+%% Symptom: a Greek or Hebrew run whose PRECEDING character is CJK or
+%% full-width punctuation (：、。） silently does not switch font.
+%%
+%% FIX: \setTransitionTo sets the entering direction ONLY, so nothing can
+%% clobber anything and declaration order stops mattering.
+%%
+%% \uckeep carries the ambient series/shape across the boundary: a bare
+%% \newfontfamily switch resets both to the family default, which drops
+%% \emph and \textbf on a Latin run inside CJK prose.
 \makeatletter
 \newcommand{\uckeep}[1]{%
   \edef\uc@sh{\f@shape}\edef\uc@se{\f@series}%
@@ -62,10 +110,15 @@
 \newcommand{\ucCJKRun}{\uckeep{\cjkrun}}
 \newcommand{\ucGreekRun}{\uckeep{\greekfont}}
 \newcommand{\ucHebrewRun}{\uckeep{\hebrewfont}}
+%% Every Unicode block this book actually contains (Greek Word Study boxes,
+%% occasional Hebrew roots, CJK body text, full-width punctuation).
+%% Anything not listed keeps the main font.
 \setTransitionTo{BasicLatin}{\ucLatinRun}
 \setTransitionTo{LatinSupplement}{\ucLatinRun}
 \setTransitionTo{LatinExtendedA}{\ucLatinRun}
-\setTransitionTo{LatinExtendedAdditional}{\ucLatinRun}
+% LatinExtendedAdditional -> \ucTranslitRun is set further below, near the
+% other transliteration-diacritic fixes; \ucLatinRun (Songti SC) lacks these
+% glyphs entirely, see that comment for why.
 \setTransitionTo{GreekAndCoptic}{\ucGreekRun}
 \setTransitionTo{GreekExtended}{\ucGreekRun}
 \setTransitionTo{Hebrew}{\ucHebrewRun}
@@ -94,10 +147,37 @@
 \setTransitionTo{MiscellaneousSymbolsAndPictographs}{\ucCJKRun}
 \setTransitionTo{Emoticons}{\ucCJKRun}
 \setTransitionTo{CombiningDiacriticalMarks}{\ucCJKRun}
-\setTransitionTo{SpacingModifierLetters}{\ucCJKRun}
-\setTransitionTo{IPAExtensions}{\ucCJKRun}
 \setTransitionTo{NumberForms}{\ucCJKRun}
 \setTransitionTo{CurrencySymbols}{\ucCJKRun}
+
+%% Semitic-transliteration diacritics (ḥesed U+1E25 "LatinExtendedAdditional",
+%% tsade ṣ U+1E63 "LatinExtendedAdditional", ʿayin's modifier letter U+02BF
+%% "SpacingModifierLetters") used throughout the Word Study sections.
+%%
+%% THE REAL BUG (found the hard way): ucharclasses' \XeTeXinterchartoks fires
+%% on a character's Unicode class as XeTeX's own primitive lexer processes it,
+%% which is NOT the same thing as, and fires AFTER, ordinary TeX font
+%% selection — so it overrides ANY manual font switch for a block that has a
+%% registered transition, including one from inside an explicit
+%% `{\somefont ...}` group, and even for a character produced indirectly via
+%% \symbol{<codepoint>} rather than typed literally. A \newunicodechar
+%% attempt and a manual `{\translitfont ...}`-wrapping attempt both failed
+%% against this for exactly that reason — there is no overriding
+%% ucharclasses per-character from inside its own mapped blocks. The only
+%% real fix is to make the BLOCK'S OWN mapping point at a font that has the
+%% glyphs. IPAExtensions (used elsewhere in this book's Hebrew vowel-pointing
+%% discussion) already worked fine going to \ucCJKRun and is left alone.
+\newfontfamily\translitfont{Times New Roman}
+\newcommand{\ucTranslitRun}{\uckeep{\translitfont}}
+\setTransitionTo{SpacingModifierLetters}{\ucTranslitRun}
+\setTransitionTo{LatinExtendedAdditional}{\ucTranslitRun}
+\setTransitionTo{IPAExtensions}{\ucCJKRun}
+
+%% Calligraphy brush font for cover/frontispiece accents
+\newfontfamily\kaiti{Kaiti SC}[
+  BoldFont=Kaiti SC,
+  BoldFeatures={FakeBold=1.8}
+]
 
 %% Enable CJK line breaking - critical for Chinese text
 \XeTeXlinebreaklocale "zh"
@@ -126,31 +206,28 @@
 \setlength{\parskip}{0.3em}
 
 %% ============================================
-%% COLOR SCHEME - Professional Bible Study
+%% COLOR SCHEME - Gospel identity: royal blue, shepherd green, glory gold
 %% ============================================
 \usepackage{xcolor}
 
-% Primary colors
-\definecolor{ChapterBlue}{RGB}{25,55,95}        % Deep navy for chapters
-\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs
-\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary
+\definecolor{ChapterRoyal}{RGB}{38,52,104}      % structural: chapter titles, rules
+\definecolor{ScriptureGold}{RGB}{165,125,55}    % Gold for scripture refs (series-shared)
+\definecolor{CommentaryBrown}{RGB}{85,60,45}    % Warm brown for commentary (series-shared)
+\definecolor{ShepherdGreen}{RGB}{45,98,78}      % cool accent: the Good Shepherd (John 10)
+\definecolor{GloryGold}{RGB}{215,155,60}        % warm accent: "we saw His glory" (John 1:14)
+\definecolor{JesusRed}{RGB}{178,24,24}          % red letter: the words of Jesus
 
-% Red Letter Bible - Jesus's Words (inspired by ai-eden.com)
-\definecolor{JesusRed}{RGB}{204,0,0}            % Classic red letter Bible red (#CC0000)
-
-% Map colors
-\definecolor{WaterBlue}{RGB}{180,210,230}       % Sea/river blue
-\definecolor{LandBeige}{RGB}{245,235,220}       % Land color
-\definecolor{MountainBrown}{RGB}{180,160,140}   % Mountain shading
-
-% Box colors
 \definecolor{ScriptureBg}{RGB}{252,250,245}     % Cream for scripture boxes
-\definecolor{GreekBg}{RGB}{245,248,252}         % Light blue for Greek
+\definecolor{HebrewBg}{RGB}{253,247,240}        % Warm cream for word-study boxes
 \definecolor{ApplicationBg}{RGB}{248,252,248}   % Light green for application
 
-% Text colors
 \definecolor{TextGray}{RGB}{50,50,50}
 \definecolor{LightGray}{RGB}{120,120,120}
+
+% Red letter. Upright, so it can carry \textbf{\color{JesusRed}...} emphasis and
+% survives ucharclasses font switches. Never put ** (markdown bold) inside the
+% argument; use \textbf{}.
+\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
 
 %% ============================================
 %% MATH AND SYMBOLS
@@ -163,15 +240,11 @@
 %% ============================================
 \usepackage{graphicx}
 \usepackage{tikz}
-\usetikzlibrary{shapes,arrows,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
 
 %% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
 %% ============================================
-
-% Red Letter Bible - Command for Jesus's words
-% Inspired by ai-eden.com red letter implementation
-\newcommand{\jesus}[1]{\textcolor{JesusRed}{#1}}
 
 % Vine decoration command
 \newcommand{\vinedecor}[1]{%
@@ -195,13 +268,38 @@
 %% ============================================
 %% HYPERLINKS
 %% ============================================
+% Micro-typography for the Latin/English runs: character protrusion pulls
+% punctuation and light letterforms slightly into the margin so the right edge
+% reads optically straight. expansion=false deliberately — font expansion
+% re-renders glyphs at scaled widths, which xdvipdfmx applies unevenly to the
+% CJK TrueType faces; protrusion alone is the safe half and is where most of
+% the visible gain is. Same setting as templates/pdf/isaiah.latex, verified
+% against this exact font stack (Songti SC + FakeBold + Times New Roman Hebrew).
+\usepackage[protrusion=true,expansion=false]{microtype}
+
 \usepackage{hyperref}
+% hyperxmp turns the hypersetup keys below into a real XMP packet. Without it
+% `pdfinfo` reports "Metadata Stream: no": the document properties exist only
+% in the legacy /Info dictionary, which modern cataloguing, DAM and preflight
+% tools increasingly ignore. Must load after hyperref.
+\usepackage{hyperxmp}
 \hypersetup{
   colorlinks=true,
-  linkcolor=ChapterBlue,
+  linkcolor=ChapterRoyal,
   urlcolor=ScriptureGold,
   bookmarks=true,
-  bookmarksnumbered=true
+  bookmarksnumbered=true,
+  % Document properties. Without these `pdfinfo` reports no Title/Author/
+  % Subject at all: the file shows as its filename in a reader's title bar,
+  % in a library catalogue, and in any DMS that indexes PDF metadata.
+  % pdflang additionally tells a screen reader and the hyphenation engine
+  % that the primary language is Traditional Chinese.
+  pdftitle={$title$$if(subtitle)$ — $subtitle$$endif$},
+  pdfauthor={$author$},
+  pdfsubject={四福音合參：神的計劃與耶穌的一生，三十七站，從道成肉身到再來},
+  pdfkeywords={福音合參, 耶穌生平, Gospel Harmony, 四福音, 聖經研讀, Bible Study, 和合本, NASB, 查經},
+  pdfcreator={XeLaTeX + pandoc (PubHub 三書精讀出版系統)},
+  pdflang={zh-TW}
 }
 
 %% ============================================
@@ -226,6 +324,10 @@
 \patchcmd\longtable{\par}{\if@noskipsec\mbox{}\fi\par}{}{}
 \@ifundefined{c@none}{\newcounter{none}}{}
 \makeatother
+% Word-study / cross-reference tables carry dense CJK + Hebrew; \small keeps
+% long 註解 cells from wrapping to a few characters per line (same fix as
+% templates/pdf/isaiah.latex and templates/pdf/gospel-of-luke.latex).
+\AtBeginEnvironment{longtable}{\small}
 
 % Style table rules
 \renewcommand{\toprule}{\hline\hline}
@@ -248,22 +350,48 @@
   \fancyfoot[C]{\small\thepage}
   \renewcommand{\headrulewidth}{0pt}
 }
+% \cleardoublepage's inserted blank verso must be truly blank. fancyhdr's
+% \pagestyle{fancy} otherwise prints the folio on it, so an openright blank
+% came out bearing a lone page number — the one thing a blank leaf must not
+% carry. Same patch as templates/pdf/isaiah.latex.
+\makeatletter
+\def\cleardoublepage{\clearpage\if@twoside
+  \ifodd\c@page\else\hbox{}\thispagestyle{empty}\newpage\fi\fi}
+\makeatother
 
 %% ============================================
 %% SECTION STYLING (manual, without titlesec)
 %% ============================================
+% Clean running heads: raw chapter/section title only, no "Chapter N." auto-label.
+% secnumdepth is set here; tocdepth is set later, immediately before
+% \tableofcontents.
+\renewcommand{\chaptermark}[1]{\markboth{#1}{#1}}
+\renewcommand{\sectionmark}[1]{\markright{#1}}
+\setcounter{secnumdepth}{-1}
+
+% \chapter* never calls \chaptermark, so every unnumbered heading inherits the
+% running head of whatever set the mark last. Here that is the orientation
+% chapters, the nine volume dividers, the afterword and the appendices: without
+% this patch they run under the previous chapter's title (or 「Contents」, left
+% behind by \tableofcontents). Silent: the pages compose perfectly, they are
+% just labelled with the wrong chapter.
+\makeatletter
+\let\pubhub@orig@schapter\@schapter
+\def\@schapter#1{\pubhub@orig@schapter{#1}\markboth{#1}{#1}}
+\makeatother
+
 \makeatletter
 % Chapter styling
 \def\@makechapterhead#1{%
   \vspace*{15pt}%
   {\parindent \z@ \raggedright \normalfont
     \ifnum \c@secnumdepth >\m@ne
-      \large\bfseries\color{ChapterBlue} \@chapapp\space \thechapter
+      \large\bfseries\color{ChapterRoyal} \@chapapp\space \thechapter
       \par\nobreak
       \vskip 8pt
     \fi
     \interlinepenalty\@M
-    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \LARGE \bfseries\color{ChapterRoyal} #1\par\nobreak
     \vskip 12pt
     {\color{ScriptureGold}\hrule height 1.5pt}
     \vskip 15pt
@@ -273,7 +401,7 @@
   {\parindent \z@ \raggedright
     \normalfont
     \interlinepenalty\@M
-    \LARGE \bfseries\color{ChapterBlue} #1\par\nobreak
+    \LARGE \bfseries\color{ChapterRoyal} #1\par\nobreak
     \vskip 8pt
     {\color{ScriptureGold}\hrule height 1.5pt}
     \vskip 15pt
@@ -283,7 +411,7 @@
 \renewcommand\section{\@startsection {section}{1}{\z@}%
   {-2.5ex \@plus -0.5ex \@minus -.2ex}%
   {1.5ex \@plus.2ex}%
-  {\normalfont\large\bfseries\color{ChapterBlue}}}
+  {\normalfont\large\bfseries\color{ChapterRoyal}}}
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
   {-2ex\@plus -0.5ex \@minus -.2ex}%
   {1ex \@plus .2ex}%
@@ -357,6 +485,180 @@ $endif$
 \frontmatter
 \pagestyle{empty}
 
+%% ============================================
+%% COVER ART PAGE -- three concentric zones around a cross, tracing the
+%% book's own movement: the Word made flesh (1:14) at the center, the cross
+%% around it, the glory of the resurrection and return at the rim.
+%% Gold-bordered, matching the series palette. Vector only.
+%% ============================================
+\thispagestyle{empty}
+\begin{tikzpicture}[remember picture, overlay]
+  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
+  \draw[ScriptureGold, line width=2.8pt]
+    ([xshift=0.42in,yshift=0.42in]current page.south west)
+    rectangle
+    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
+  \draw[ScriptureGold, line width=0.5pt]
+    ([xshift=0.50in,yshift=0.50in]current page.south west)
+    rectangle
+    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
+  \draw[ChapterRoyal, line width=0.3pt, opacity=0.55]
+    ([xshift=0.58in,yshift=0.58in]current page.south west)
+    rectangle
+    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
+  % Corner ornaments: each corner needs its own inward direction (sx, sy);
+  % one fixed positive shift would push three of the four off the page.
+  \foreach \cnr/\sx/\sy in {south west/1/1, south east/-1/1, north west/1/-1, north east/-1/-1} {
+    \fill[ScriptureGold] ([xshift=\sx*0.42in,yshift=\sy*0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=\sx*0.58in,yshift=\sy*0.50in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.42in]current page.\cnr) circle (0.045in);
+    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.58in]current page.\cnr) circle (0.045in);
+    \fill[GloryGold]  ([xshift=\sx*0.50in,yshift=\sy*0.50in]current page.\cnr) circle (0.040in);
+    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.50in]current page.\cnr) circle (0.012in);
+  }
+\end{tikzpicture}
+
+\begin{center}
+\vspace*{0.42in}
+
+{\footnotesize\scshape\color{ChapterRoyal} Three Books Deep Reading \textbullet\ The Gospels}\\[0.08cm]
+{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 四福音深度研讀}
+
+\vspace{0.16cm}
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
+  \fill[ScriptureGold] (-0.35,0) circle (0.04);
+  \fill[ScriptureGold] (0,0) circle (0.06);
+  \fill[ScriptureGold] (0.35,0) circle (0.04);
+  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
+\end{tikzpicture}
+\vspace{0.22cm}
+
+{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 四福音合參 \textperiodcentered\ 神的計劃與耶穌的一生}
+
+\vspace{0.30cm}
+
+% ===== THREE CONCENTRIC ZONES AROUND A CROSS =====
+\begin{tikzpicture}[scale=0.85, transform shape]
+  % Outer zone -- glory: resurrection, ascension, return
+  \fill[GloryGold, opacity=0.16] (0,0.1) circle (1.65);
+  \draw[GloryGold, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
+  % Middle zone -- the cross
+  \fill[JesusRed, opacity=0.10] (0,0.1) circle (1.15);
+  \draw[JesusRed, line width=1.0pt, opacity=0.80] (0,0.1) circle (1.15);
+  % Inner zone -- the Word made flesh
+  \fill[ChapterRoyal, opacity=0.20] (0,0.1) circle (0.55);
+  \draw[ChapterRoyal, line width=1.0pt, opacity=0.9] (0,0.1) circle (0.55);
+  % cross at the center
+  \draw[ChapterRoyal, line width=1.6pt] (0,-0.18) -- (0,0.42);
+  \draw[ChapterRoyal, line width=1.6pt] (-0.22,0.22) -- (0.22,0.22);
+  \node[font=\tiny,color=ChapterRoyal] at (0,-0.65) {道成肉身};
+  \node[font=\tiny,color=JesusRed] at (0,-1.28) {十字架};
+  \node[font=\tiny,color=GloryGold!70!black]  at (0,-1.9) {復活與再來};
+\end{tikzpicture}
+
+\vspace{0.10cm}
+\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
+\vspace{0.24cm}
+
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterRoyal}\kaiti\selectfont 耶穌基督}\\[0.10cm]
+{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Jesus Christ}
+
+\vspace{0.20cm}
+{\fontsize{22}{26}\selectfont\bfseries\color{ChapterRoyal}\kaiti\selectfont 完整生平}\\[0.08cm]
+{\fontsize{13}{16}\selectfont\itshape\color{TextGray} The Complete Life of Jesus Christ \textperiodcentered\ A Gospel Harmony}
+
+\vspace{0.24cm}
+{\footnotesize\bfseries\color{ShepherdGreen} 三十七站 \textperiodcentered\ 九卷 \textperiodcentered\ 一條神與人同住的線}
+
+\vfill
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.3in}
+\centering\vspace{0.15cm}
+{\footnotesize\color{ChapterRoyal}\kaiti\selectfont
+「道成了肉身，住在我們中間，充充滿滿地有恩典有真理。我們也見過他的榮光，正是父獨生子的榮光。」}\\[0.10em]
+{\scriptsize\itshape\color{TextGray}
+“And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth.”}\\[0.10em]
+{\scriptsize\color{ChapterRoyal} 約翰福音 1:14 \textperiodcentered\ John 1:14}
+\vspace{0.15cm}
+\end{minipage}}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
+%% ============================================
+%% FRONTISPIECE -- the seven steps of God's plan and where the Gospels stand
+%% (BOOK-SPEC step numbering; 00a-gods-plan.md is the authoritative chapter).
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{0.3in}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.22cm}
+{\Large\bfseries\color{ChapterRoyal} 神的計劃七步 \textperiodcentered\ The Seven Steps of God's Plan}
+
+\vspace{0.30cm}
+\fcolorbox{ScriptureGold}{ScriptureBg}{%
+\begin{minipage}{4.6in}
+\centering\vspace{0.2cm}
+\normalsize\color{CommentaryBrown}
+整本聖經只有一條線：\textbf{\color{GloryGold!80!black}神要與人同住}。\\[0.5em]
+\footnotesize\itshape
+The whole Bible runs on one line:\\
+God means to \textbf{dwell} with man.\\[0.4em]
+\small\upshape\color{ChapterRoyal} 編者對全經的概括 \textperiodcentered\ the editor's summary of the whole canon
+\vspace{0.2cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+{\small
+\renewcommand{\arraystretch}{1.3}
+\begin{tabular}{@{}p{0.9cm}p{3.6cm}p{7.6cm}@{}}
+\toprule
+\textbf{步} & \textbf{名稱} & \textbf{範圍} \\
+\midrule
+一 & 創造與墮落 & 創世記 1–11 \\
+二 & 應許與揀選 & 創世記 12–50 \\
+三 & 救贖、立約與同住 & 出埃及記–申命記 \\
+四 & 進入、王與殿 & 約書亞記–列王紀、歷代志、詩篇、箴言、傳道書、雅歌 \\
+五 & 先知、被擄與歸回 & 以賽亞書–瑪拉基書 \\
+\textbf{\color{JesusRed}六} & \textbf{\color{JesusRed}基督來臨} & \textbf{\color{JesusRed}四福音（本書卷一至卷八）} \\
+\textbf{\color{GloryGold!80!black}七} & \textbf{\color{GloryGold!80!black}教會與再來} & \textbf{\color{GloryGold!80!black}使徒行傳至啟示錄（本書卷九）} \\
+\bottomrule
+\end{tabular}
+}
+
+\vspace{0.4cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\bfseries\color{ChapterRoyal} 讀經之鑰 \textperiodcentered\ How to Read This Book}
+
+\vspace{0.18cm}
+\begin{minipage}{4.6in}
+\small\color{TextGray}
+每一站先問兩件事：這是耶穌一生的第幾站？這是神整個計劃的第幾步？\\
+然後帶著一個問題讀完：這一站，我看見耶穌是誰？\\[0.5em]
+\textit{\footnotesize
+Each station asks two things first: where is this in the life of Jesus, and where is it
+in the plan of God? Then read with one question: at this station, whom do I see in Jesus?}
+\end{minipage}
+
+\vfill
+{\scriptsize\color{LightGray} PubHub 三書精讀系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace{0.3in}
+\end{center}
+\cleardoublepage
+
 % Title page
 \begin{titlepage}
 \thispagestyle{empty}
@@ -369,14 +671,14 @@ $endif$
 \vspace{0.4cm}
 
 % Main title
-{\fontsize{36}{42}\selectfont\bfseries\color{ChapterBlue} 生命之道}\\[0.2cm]
-{\large\itshape\color{LightGray} The Way of Life}
+{\fontsize{34}{40}\selectfont\bfseries\color{ChapterRoyal} 耶穌基督}\\[0.2cm]
+{\large\itshape\color{LightGray} Jesus Christ}
 
 \vspace{0.6cm}
 
 % Book title
-{\fontsize{22}{28}\selectfont\bfseries 約翰福音研讀}\\[0.15cm]
-{\normalsize A Study of the Gospel of John}
+{\fontsize{22}{28}\selectfont\bfseries\color{ChapterRoyal} 完整生平}\\[0.15cm]
+{\normalsize The Complete Life of Jesus Christ \textperiodcentered\ A Gospel Harmony}
 
 \vspace{0.5cm}
 
@@ -386,97 +688,51 @@ $endif$
 \centering
 \vspace{0.3cm}
 \small\itshape\color{CommentaryBrown}
-太初有道，道與神同在，道就是神。\\[0.15em]
-\footnotesize In the beginning was the Word, and the Word was\\
-with God, and the Word was God. — John 1:1
+道成了肉身，住在我們中間，充充滿滿地有恩典有真理。\\
+我們也見過他的榮光，正是父獨生子的榮光。\\[0.15em]
+\footnotesize And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth. \mbox{— John 1:14}
 \vspace{0.3cm}
 \end{minipage}
 }
 
 \vspace{0.4cm}
 
-% Holy Land Map (TikZ drawn)
-\begin{tikzpicture}[scale=0.55]
-  % Title
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2.5,7.2) {約翰福音地圖 Map of John's Gospel};
+% Nine-volume structure diagram (TikZ). Plain centimetre coordinates, no
+% picture-level `scale` (node sizes ignore `scale` without `transform shape`,
+% which silently collides boxes while the coordinates shrink).
+\begin{tikzpicture}[every node/.style={align=center}]
+  \node[font=\footnotesize\bfseries,color=ChapterRoyal] at (0,3.7) {全書九卷 \;Nine Volumes, 37 Stations};
 
-  % Mediterranean Sea (left side)
-  \fill[WaterBlue] (-1,0) rectangle (0.5,6.5);
-  \node[font=\tiny,color=ChapterBlue,rotate=90] at (-0.5,3.5) {Mediterranean};
+  \node[draw=ChapterRoyal,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v1) at (-4.4,2.5) {卷一 \textperiodcentered\ 道成肉身\\[-0.1em]{\tiny\color{LightGray}站 1–3}};
+  \node[draw=ChapterRoyal,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v2) at (0,2.5) {卷二 \textperiodcentered\ 預備與呼召\\[-0.1em]{\tiny\color{LightGray}站 4–5}};
+  \node[draw=ChapterRoyal,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v3) at (4.4,2.5) {卷三 \textperiodcentered\ 初期事工\\[-0.1em]{\tiny\color{LightGray}站 6–10}};
 
-  % Land area
-  \fill[LandBeige] (0.5,0) rectangle (6,6.5);
+  \node[draw=ChapterRoyal,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v4) at (-4.4,0.9) {卷四 \textperiodcentered\ 國度的憲章與記號\\[-0.1em]{\tiny\color{LightGray}站 11–14}};
+  \node[draw=ChapterRoyal,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v5) at (0,0.9) {卷五 \textperiodcentered\ 光與牧者\\[-0.1em]{\tiny\color{LightGray}站 15–19}};
+  \node[draw=ChapterRoyal,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v6) at (4.4,0.9) {卷六 \textperiodcentered\ 定意上耶路撒冷\\[-0.1em]{\tiny\color{LightGray}站 20–24}};
 
-  % Sea of Galilee
-  \fill[WaterBlue] (3.5,4.5) ellipse (0.6 and 0.8);
-  \node[font=\tiny,color=ChapterBlue] at (3.5,4.5) {Galilee};
+  \node[draw=ChapterRoyal,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v7) at (-4.4,-0.7) {卷七 \textperiodcentered\ 樓上與園中\\[-0.1em]{\tiny\color{LightGray}站 25–29}};
+  \node[draw=JesusRed,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v8) at (0,-0.7) {卷八 \textperiodcentered\ 十架與復活\\[-0.1em]{\tiny\color{LightGray}站 30–34}};
+  \node[draw=GloryGold!70!black,fill=ScriptureBg,rounded corners,minimum width=3.9cm,minimum height=0.95cm,font=\scriptsize] (v9) at (4.4,-0.7) {卷九 \textperiodcentered\ 教會與再來\\[-0.1em]{\tiny\color{LightGray}站 35–37}};
 
-  % Jordan River
-  \draw[WaterBlue,line width=1.5pt] (3.5,3.7) -- (3.3,2.5) -- (3.5,1.2);
-
-  % Dead Sea
-  \fill[WaterBlue] (3.5,0.6) ellipse (0.4 and 0.5);
-  \node[font=\tiny,color=ChapterBlue] at (3.5,0.6) {Dead};
-
-  % Key locations from John's Gospel
-  \fill[ScriptureGold] (2.8,5.8) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (2.9,5.8) {Cana 迦拿 (2:1)};
-
-  \fill[ScriptureGold] (3.5,5.2) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.6,5.2) {Capernaum 迦百農};
-
-  \fill[ScriptureGold] (2,4.2) circle (0.08);
-  \node[font=\tiny,left,color=TextGray] at (1.9,4.2) {Nazareth 拿撒勒};
-
-  \fill[ScriptureGold] (3.2,3.2) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.3,3.2) {Samaria 撒瑪利亞 (4:4)};
-
-  \fill[ScriptureGold] (3.8,2.4) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (3.9,2.4) {Bethany 伯大尼 (11:1)};
-
-  \fill[red!70!black] (3.2,1.8) circle (0.1);
-  \node[font=\tiny\bfseries,left,color=red!70!black] at (3.1,1.8) {Jerusalem 耶路撒冷};
-
-  \fill[ScriptureGold] (4.5,2.8) circle (0.08);
-  \node[font=\tiny,right,color=TextGray] at (4.6,2.8) {Bethlehem 伯利恆};
-
-  % Compass
-  \draw[->,thick,color=ChapterBlue] (5.3,5.8) -- (5.3,6.3);
-  \node[font=\tiny,color=ChapterBlue] at (5.3,6.5) {N};
-
-  % Scale
-  \draw[color=LightGray] (0.8,0.3) -- (2.3,0.3);
-  \node[font=\tiny,color=LightGray] at (1.55,0.1) {50 km};
+  \draw[->,color=ScriptureGold,thick] (v1.east) -- (v2.west);
+  \draw[->,color=ScriptureGold,thick] (v2.east) -- (v3.west);
+  \draw[->,color=ScriptureGold,thick] (v3.south) -- ++(0,-0.4) -| (v4.north);
+  \draw[->,color=ScriptureGold,thick] (v4.east) -- (v5.west);
+  \draw[->,color=ScriptureGold,thick] (v5.east) -- (v6.west);
+  \draw[->,color=ScriptureGold,thick] (v6.south) -- ++(0,-0.4) -| (v7.north);
+  \draw[->,color=ScriptureGold,thick] (v7.east) -- (v8.west);
+  \draw[->,color=ScriptureGold,thick] (v8.east) -- (v9.west);
 \end{tikzpicture}
 
-\vspace{0.3cm}
+\vspace{0.2cm}
 
-% Structure diagram (smaller)
-\begin{tikzpicture}[scale=0.6]
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (0,2.5) {Gospel Structure 福音結構};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (-2.5,1.5) {Prologue};
-  \node[font=\tiny,color=LightGray] at (-2.5,1.1) {1:1-18};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (0,1.5) {Public};
-  \node[font=\tiny,color=LightGray] at (0,1.1) {1:19-12:50};
-
-  \node[draw=ChapterBlue,fill=ScriptureBg,rounded corners,minimum width=1.8cm,minimum height=0.5cm,font=\tiny] at (2.5,1.5) {Private};
-  \node[font=\tiny,color=LightGray] at (2.5,1.1) {13-17};
-
-  \node[draw=ScriptureGold,fill=ScriptureBg,rounded corners,minimum width=2cm,minimum height=0.5cm,font=\tiny] at (0,0.3) {Passion \& Resurrection};
-  \node[font=\tiny,color=LightGray] at (0,-0.1) {18-21};
-
-  \draw[->,color=ScriptureGold,thick] (-1.5,1.5) -- (-0.9,1.5);
-  \draw[->,color=ScriptureGold,thick] (0.9,1.5) -- (1.6,1.5);
-  \draw[->,color=ScriptureGold,thick] (0,0.85) -- (0,0.6);
-\end{tikzpicture}
+{\footnotesize\color{TextGray} 卷一至卷八站在計劃的第六步（基督來臨），卷九站在第七步（教會與再來）}
 
 \vfill
 
-% Equation and vine
-{\normalsize\color{ScriptureGold}\bfseries 榮耀 = 恩典 + 真理}\\[0.1cm]
-{\footnotesize\color{LightGray} Glory = Grace + Truth (John 1:14)}
+{\normalsize\color{ScriptureGold}\bfseries 先是祂來，然後是祂差遣，最後是祂回來與人同住}\\[0.1cm]
+{\footnotesize\color{LightGray} First He came; then He sent; at last He returns to dwell with man}
 
 \vspace{0.5cm}
 
@@ -500,118 +756,6 @@ $endif$
 \end{center}
 \end{titlepage}
 
-% Map page (full page)
-\thispagestyle{empty}
-\begin{center}
-\vspace*{0.3cm}
-{\Large\bfseries\color{ChapterBlue} 約翰福音重要地點}\\[0.1cm]
-{\normalsize Key Locations in the Gospel of John}
-
-\vspace{0.4cm}
-
-% Larger detailed map
-\begin{tikzpicture}[scale=1.0]
-  % Background
-  \fill[LandBeige] (0,0) rectangle (10,12);
-
-  % Mediterranean Sea
-  \fill[WaterBlue] (-0.5,0) rectangle (1.5,12);
-  \draw[WaterBlue!70!black,line width=0.5pt] (1.5,0) -- (1.5,12);
-  \node[font=\small,color=ChapterBlue,rotate=90] at (0.5,6) {Mediterranean Sea 地中海};
-
-  % Sea of Galilee
-  \fill[WaterBlue] (6,8.5) ellipse (1 and 1.3);
-  \node[font=\footnotesize,color=white] at (6,8.5) {Sea of};
-  \node[font=\footnotesize,color=white] at (6,8.1) {Galilee};
-  \node[font=\tiny,color=ChapterBlue] at (6,7.5) {加利利海};
-
-  % Jordan River
-  \draw[WaterBlue,line width=2.5pt] (6,7.2) .. controls (5.8,6) and (6.2,5) .. (6,4) .. controls (5.8,3) .. (6,2);
-  \node[font=\tiny,color=ChapterBlue,rotate=-80] at (5.5,5) {Jordan 約旦河};
-
-  % Dead Sea
-  \fill[WaterBlue!80!black] (6,1) ellipse (0.7 and 0.9);
-  \node[font=\footnotesize,color=white] at (6,1) {Dead Sea};
-  \node[font=\tiny,color=ChapterBlue] at (6,0.3) {死海};
-
-  % Mountains (subtle shading)
-  \fill[MountainBrown!30] (7.5,6) ellipse (1.5 and 2);
-  \fill[MountainBrown!30] (3,7) ellipse (1 and 1.5);
-
-  %% KEY LOCATIONS with verse references
-
-  % Cana - Water to Wine
-  \fill[ScriptureGold] (4.5,10) circle (0.15);
-  \node[font=\small\bfseries,right,color=ChapterBlue] at (4.7,10) {Cana 迦拿};
-  \node[font=\tiny,right,color=TextGray] at (4.7,9.6) {Water to Wine (2:1-11)};
-
-  % Capernaum
-  \fill[ScriptureGold] (6.5,9.5) circle (0.15);
-  \node[font=\small\bfseries,right,color=ChapterBlue] at (6.7,9.5) {Capernaum 迦百農};
-  \node[font=\tiny,right,color=TextGray] at (6.7,9.1) {Nobleman's Son (4:46)};
-
-  % Bethsaida
-  \fill[ScriptureGold] (7,8.8) circle (0.12);
-  \node[font=\tiny,right,color=TextGray] at (7.2,8.8) {Bethsaida 伯賽大};
-
-  % Nazareth
-  \fill[ScriptureGold] (3.5,9) circle (0.12);
-  \node[font=\small,left,color=ChapterBlue] at (3.3,9) {Nazareth 拿撒勒};
-
-  % Sychar (Samaria)
-  \fill[ScriptureGold] (5.5,6.5) circle (0.15);
-  \node[font=\small\bfseries,left,color=ChapterBlue] at (5.3,6.5) {Sychar 敘加};
-  \node[font=\tiny,left,color=TextGray] at (5.3,6.1) {Woman at Well (4:5)};
-
-  % Bethany beyond Jordan
-  \fill[ScriptureGold] (7,4.5) circle (0.12);
-  \node[font=\tiny,right,color=TextGray] at (7.2,4.5) {Bethany beyond Jordan};
-  \node[font=\tiny,right,color=TextGray] at (7.2,4.1) {伯大尼 (1:28)};
-
-  % Bethany near Jerusalem
-  \fill[ScriptureGold] (6.8,3.2) circle (0.15);
-  \node[font=\small\bfseries,right,color=ChapterBlue] at (7,3.2) {Bethany 伯大尼};
-  \node[font=\tiny,right,color=TextGray] at (7,2.8) {Lazarus Raised (11:1)};
-
-  % JERUSALEM - Main focus
-  \fill[red!70!black] (5.5,3.5) circle (0.2);
-  \draw[red!70!black,line width=1pt] (5.5,3.5) circle (0.3);
-  \node[font=\normalsize\bfseries,left,color=red!70!black] at (5.2,3.5) {JERUSALEM};
-  \node[font=\small,left,color=red!70!black] at (5.2,3.1) {耶路撒冷};
-  \node[font=\tiny,left,color=TextGray] at (5.2,2.7) {Temple, Pool of Bethesda,};
-  \node[font=\tiny,left,color=TextGray] at (5.2,2.4) {Siloam, Passion (5-21)};
-
-  % Bethlehem
-  \fill[ScriptureGold] (5,2.8) circle (0.12);
-  \node[font=\tiny,left,color=TextGray] at (4.8,2.8) {Bethlehem 伯利恆};
-
-  % Compass Rose
-  \draw[->,very thick,color=ChapterBlue] (9,10.5) -- (9,11.3);
-  \draw[->,thick,color=ChapterBlue] (8.6,10.5) -- (9.4,10.5);
-  \node[font=\small\bfseries,color=ChapterBlue] at (9,11.5) {N};
-
-  % Scale bar
-  \draw[very thick,color=TextGray] (2,0.5) -- (4,0.5);
-  \draw[thick,color=TextGray] (2,0.4) -- (2,0.6);
-  \draw[thick,color=TextGray] (4,0.4) -- (4,0.6);
-  \node[font=\small,color=TextGray] at (3,0.2) {50 km / 30 miles};
-
-  % Legend
-  \node[font=\footnotesize\bfseries,color=ChapterBlue] at (2,11.5) {Legend 圖例};
-  \fill[red!70!black] (1.5,11) circle (0.12);
-  \node[font=\tiny,right,color=TextGray] at (1.7,11) {Jerusalem};
-  \fill[ScriptureGold] (1.5,10.6) circle (0.1);
-  \node[font=\tiny,right,color=TextGray] at (1.7,10.6) {Key Location};
-  \draw[WaterBlue,line width=2pt] (1.3,10.2) -- (1.7,10.2);
-  \node[font=\tiny,right,color=TextGray] at (1.7,10.2) {River/Sea};
-
-\end{tikzpicture}
-
-\vspace{0.3cm}
-{\footnotesize\color{LightGray} 「我就是道路、真理、生命。」— 約翰福音 14:6}
-\end{center}
-\cleardoublepage
-
 % Copyright page
 \thispagestyle{empty}
 \vspace*{\fill}
@@ -621,19 +765,14 @@ $endif$
 $if(copyright)$
 $copyright$
 $else$
-\textbf{約翰福音研讀 / Gospel of John Study}\\[0.8em]
+\textbf{耶穌基督完整生平 / The Complete Life of Jesus Christ}\\[0.8em]
 
 Copyright \copyright\ \the\year\ $if(author)$$author$$endif$\\
 All rights reserved.\\[0.8em]
 
 \textbf{聖經版本 / Bible Versions}\\
-中文：和合本修訂版 (RCUV)\\
-English: English Standard Version (ESV)\\[0.8em]
-
-\textbf{主要參考資料 / Primary Sources}\\
-\textbullet\ 黃長老讀經分享 (Elder Wong's Bible Class)\\
-\textbullet\ John MacArthur - Grace To You (gty.org)\\
-\textbullet\ G. Campbell Morgan - The Gospel According to John\\[0.8em]
+中文：和合本 (CUV，1919，公有領域)\\
+English: New American Standard Bible 1995 (NASB)\\[0.8em]
 
 本書為七年三書精讀項目成果之一。\\
 Part of the 7-Year Three Books Deep Reading Project.
@@ -644,7 +783,8 @@ $endif$
 
 % Table of contents
 \pagestyle{fancy}
-{\color{ChapterBlue}\tableofcontents}
+\setcounter{tocdepth}{0}
+{\color{ChapterRoyal}\tableofcontents}
 \cleardoublepage
 
 %% --------------------------------------------
@@ -653,5 +793,56 @@ $endif$
 \mainmatter
 
 $body$
+
+%% ============================================
+%% BACK MATTER
+%% ============================================
+\backmatter
+\cleardoublepage
+
+%% ============================================
+%% CLOSING PAGE -- the series' decorative bookend. The afterword and
+%% appendices are ordinary markdown chapters supplied through the body variable above.
+%% ============================================
+\thispagestyle{empty}
+\begin{center}
+\vspace*{\fill}
+
+\begin{tikzpicture}
+  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
+  \fill[ScriptureGold] (0,0) circle (0.055);
+  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
+\end{tikzpicture}
+
+\vspace{0.3cm}
+{\fontsize{22}{26}\selectfont\bfseries\color{ChapterRoyal}\kaiti\selectfont 住在我們中間}\\[0.1cm]
+{\normalsize\itshape\color{LightGray} Dwelt among us}
+
+\vspace{0.35cm}
+
+\fcolorbox{ScriptureGold}{white}{%
+\begin{minipage}{4.7in}
+\centering\vspace{0.18cm}
+{\footnotesize\bfseries\color{ChapterRoyal} 全書九卷 \;\; Nine Volumes}\\[0.3em]
+{\footnotesize\color{TextGray}
+道成肉身 (1–3) \textbullet\ 預備與呼召 (4–5) \textbullet\ 初期事工 (6–10)\\
+國度的憲章與記號 (11–14) \textbullet\ 光與牧者 (15–19) \textbullet\ 定意上耶路撒冷 (20–24)\\
+樓上與園中 (25–29) \textbullet\ 十架與復活 (30–34) \textbullet\ 教會與再來 (35–37)}
+\vspace{0.18cm}
+\end{minipage}}
+
+\vspace{0.35cm}
+\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
+\vspace{0.3cm}
+
+{\footnotesize\itshape\color{CommentaryBrown}
+「道成了肉身，住在我們中間」}\\[0.15cm]
+{\scriptsize\color{ChapterRoyal} — 約翰福音 1:14}
+
+\vspace{0.4in}
+{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
+
+\vspace*{\fill}
+\end{center}
 
 \end{document}

@@ -1,43 +1,68 @@
 ---
-title: 潔淨聖殿
-subtitle: Cleansing the Temple
-chapter: 7
-scripture: 約翰福音 2:13-25
+title: 耶穌基督完整生平
+subtitle: The Complete Life of Jesus Christ
+author: PubHub 三書精讀系統
+date: 2026年11月
+publisher: 三書精讀出版系統
 ---
 
-# 潔淨聖殿 (Cleansing the Temple)
+# 第一次潔淨聖殿 (The First Cleansing of the Temple)
 
-約翰福音 2:13-25
+參照行：約翰福音 2:13-25（只有約翰記載；馬太福音 21:12-13、馬可福音 11:15-17、路加福音 19:45-46 的潔淨聖殿是另一次，見本書第 23 章）
+
+**經文核對**：[ai-eden.com/bible/john/2](https://www.ai-eden.com/bible/john/2?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-潔淨聖殿，焦點不在被趕出的牛羊與兌錢的人，而在那位說「你們拆毀這殿，我三日內要把它重建」的主。從祂的角度讀，祂為父的殿心裏焦急，因為祂自己就是那真聖殿——神與人相會之處。石頭的殿終必拆毀，祂的身體卻要從死裏復活，成為新的敬拜中心。
+> **本章鑰詞：殿 Temple** \
+> **生平座標**：第 7 站／共 37 站 · 卷三「初期事工：彰顯與更新」· 耶穌公開事工的第一個逾越節；確切年代有爭論（2:20 的「四十六年」常被用來推算約主後 27-28 年，學者看法不一） \
+> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 2 段——先有記號，後有潔淨：酒之後，祂進到父的殿，第一次把「殿在哪裏」的問題擺上桌面，答案是祂自己的身體。 \
+> （全書骨幹見卷首《神的總計劃》）
+
+祂走進耶路撒冷，第一個去的地方不是會堂，也不是民間，是殿。繩子做的鞭子、翻倒的桌子都不是重點；重點是當人問祂「你憑甚麼」的時候，祂指著這座建了四十六年的殿，說出一句要等到復活以後門徒才聽懂的話：殿，就是祂的身體。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **The Church's One Foundation** \
+> *Samuel J. Stone, 1866*
+>
+> The church's one foundation \
+> Is Jesus Christ her Lord; \
+> She is His new creation \
+> By water and the Word. \
+> From heaven He came and sought her \
+> To be His holy bride; \
+> With His own blood He bought her, \
+> And for her life He died.
+>
+> 教會唯一的根基， \
+> 就是耶穌基督她的主； \
+> 她是祂新造的人， \
+> 藉著水和聖道而生。 \
+> 祂從天降下，尋找她， \
+> 要她作祂聖潔的新婦； \
+> 祂用自己的血買了她， \
+> 為她的生命而死。
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-> ^13^猶太人的逾越節近了，耶穌就上耶路撒冷去。^14^祂看見聖殿裏有賣牛羊鴿子的，還有兌換銀錢的人坐在那裏，^15^祂就拿繩子做成鞭子，把牛羊都趕出聖殿，倒出兌換銀錢之人的錢幣，推翻他們的桌子，^16^又對賣鴿子的說：<red>「把這些東西拿去！不要把我父的殿當作買賣的地方。」</red>^17^祂的門徒想起經上記着：「我為祢的殿心裏焦急，如同火燒。」
+> ^13^猶太人的逾越節近了，耶穌就上耶路撒冷去。^14^看見殿裏有賣牛、羊、鴿子的，並有兌換銀錢的人坐在那裏，^15^耶穌就拿繩子做成鞭子，把牛羊都趕出殿去，倒出兌換銀錢之人的銀錢，推翻他們的桌子，^16^又對賣鴿子的說：\jesus{「把這些東西拿去，不要將我父的殿當做買賣的地方！」}^17^他的門徒就想起經上記著說：「我為你的殿心裏焦急，如同火燒。」
 
-> ^18^猶太人就質問祂說：「你既然做這些事，還顯甚麼神蹟給我們看呢？」^19^耶穌回答他們說：<red>「你們拆毀這殿，我三日內要把它重建。」</red>^20^猶太人就說：「這殿是四十六年才造成的，你三日內就能重建嗎？」^21^但耶穌是以祂的身體為殿。^22^所以，到祂從死人中復活以後，門徒想起祂曾說過這話，就信了聖經和耶穌所說的話。
+> ^18^因此猶太人問他說：「你既做這些事，還顯甚麼神蹟給我們看呢？」^19^耶穌回答說：\jesus{「你們拆毀這殿，我三日內要再建立起來。」}^20^猶太人便說：「這殿是四十六年才造成的，你三日內就再建立起來嗎？」^21^但耶穌這話是以他的身體為殿。^22^所以到他從死裏復活以後，門徒就想起他說過這話，便信了聖經和耶穌所說的。
 
-> ^23^耶穌在耶路撒冷過逾越節的時候，有許多人看見祂所行的神蹟，就信了祂的名。^24^耶穌卻不把自己交託他們，因為祂知道萬人的心，^25^也用不着誰為人作見證，因為祂知道人心裏所存的。
+> ^23^當耶穌在耶路撒冷過逾越節的時候，有許多人看見他所行的神蹟，就信了他的名。^24^耶穌卻不將自己交託他們；因為他知道萬人，^25^也用不著誰見證人怎樣，因他知道人心裏所存的。
 
-### English — ESV (English Standard Version)
+### English — NASB
 
-> ^13^The Passover of the Jews was at hand, and Jesus went up to Jerusalem. ^14^In the temple he found those who were selling oxen and sheep and pigeons, and the money-changers sitting there. ^15^And making a whip of cords, he drove them all out of the temple, with the sheep and oxen. And he poured out the coins of the money-changers and overturned their tables. ^16^And he told those who sold the pigeons, <red>"Take these things away; do not make my Father's house a house of trade."</red> ^17^His disciples remembered that it was written, "Zeal for your house will consume me."
+> ^13^The Passover of the Jews was near, and Jesus went up to Jerusalem. ^14^And He found in the temple those who were selling oxen and sheep and doves, and the money changers seated *at their tables.* ^15^And He made a scourge of cords, and drove *them* all out of the temple, with the sheep and the oxen; and He poured out the coins of the money changers and overturned their tables; ^16^and to those who were selling the doves He said, \jesus{“Take these things away; stop making My Father’s house a place of business.”} ^17^His disciples remembered that it was written, “ZEAL FOR YOUR HOUSE WILL CONSUME ME.”
 
-> ^18^So the Jews said to him, "What sign do you show us for doing these things?" ^19^Jesus answered them, <red>"Destroy this temple, and in three days I will raise it up."</red> ^20^The Jews then said, "It has taken forty-six years to build this temple, and will you raise it up in three days?" ^21^But he was speaking about the temple of his body. ^22^When therefore he was raised from the dead, his disciples remembered that he had said this, and they believed the Scripture and the word that Jesus had spoken.
-
-> ^23^Now when he was in Jerusalem at the Passover Feast, many believed in his name when they saw the signs that he was doing. ^24^But Jesus on his part did not entrust himself to them, because he knew all people ^25^and needed no one to bear witness about man, for he himself knew what was in man.
-
-### English — NASB (New American Standard Bible)
-
-> ^13^The Passover of the Jews was near, and Jesus went up to Jerusalem. ^14^And He found in the temple those who were selling oxen and sheep and doves, and the money changers seated at their tables. ^15^And He made a scourge of cords, and drove them all out of the temple, with the sheep and the oxen; and He poured out the coins of the money changers and overturned their tables; ^16^and to those who were selling the doves He said, <red>"Take these things away; stop making My Father's house a place of business."</red> ^17^His disciples remembered that it was written, "Zeal for Your house will consume Me."
-
-> ^18^The Jews then said to Him, "What sign do You show us as your authority for doing these things?" ^19^Jesus answered them, <red>"Destroy this temple, and in three days I will raise it up."</red> ^20^The Jews then said, "It took forty-six years to build this temple, and will You raise it up in three days?" ^21^But He was speaking of the temple of His body. ^22^So when He was raised from the dead, His disciples remembered that He said this; and they believed the Scripture and the word which Jesus had spoken.
+> ^18^The Jews then said to Him, “What sign do You show us as your authority for doing these things?” ^19^Jesus answered them, \jesus{“Destroy this temple, and in three days I will raise it up.”} ^20^The Jews then said, “It took forty-six years to build this temple, and will You raise it up in three days?” ^21^But He was speaking of the temple of His body. ^22^So when He was raised from the dead, His disciples remembered that He said this; and they believed the Scripture and the word which Jesus had spoken.
 
 > ^23^Now when He was in Jerusalem at the Passover, during the feast, many believed in His name, observing His signs which He was doing. ^24^But Jesus, on His part, was not entrusting Himself to them, for He knew all men, ^25^and because He did not need anyone to testify concerning man, for He Himself knew what was in man.
 
@@ -45,164 +70,189 @@ scripture: 約翰福音 2:13-25
 
 ## 背景 (Context)
 
-### 聖殿的商業化
+### 舊約的根
 
-**外邦人院**：聖殿最外圈的院子，原本是給外邦人敬拜禱告的地方，卻被改為市集。
+**殿是為了同住。** 出埃及記 25:8 記著神的動機：「又當為我造聖所，使我可以住在他們中間。」會幕完成時，「雲彩遮蓋會幕，耶和華的榮光就充滿了帳幕」（出 40:34）。出埃及記卷首〈骨幹〉把全書讀成「我要住在他們中間」，建造的細節都朝向這一句（見 `books/bible/exodus/00b-presence-spine.md`）。所以耶穌說「我父的殿」，說的不是一座建築，是神要與人同住的那個地方。
 
-**兌換銀錢**：聖殿稅必須用推羅銀幣繳納（沒有異教圖像），兌換者收取高額手續費（12-15%）。
+**榮光離開，又回來。** 以西結書看見榮耀先離開殿：「耶和華的榮耀從城中上升，停在城東的那座山上」（結 11:23）；最後從離開的方向回來：「耶和華的榮光從朝東的門照入殿中」，「耶和華的榮光充滿了殿」（結 43:4-5）。卷首〈骨幹〉說這是全書的路線：榮耀先離開，也先回來（見 `books/bible/ezekiel/00b-glory-spine.md`）。約翰把這條線接到耶穌身上：1:14 說「道成了肉身，住在我們中間……我們也見過他的榮光」；2:21 說這位站在殿裏的人，自己就是殿。
 
-**買賣祭牲**：祭司會挑剔帶來的祭牲有「瑕疵」，迫使敬拜者購買聖殿出售的「合格」祭牲，價格高出數倍。
+**詩篇與瑪拉基。** 門徒想起詩篇 69:9：「因我為你的殿心裏焦急，如同火燒」（見 `books/bible/psalm/02-book-two-42-72.md`）。瑪拉基書 3:1 是舊約最後一卷裏的應許：「你們所尋求的主必忽然進入他的殿」（見 `books/bible/malachi/00-overview.md`）。約翰沒有說「應驗了瑪拉基」，經文只說祂進殿，並且動手；把兩處並讀，是本書的讀法，不是約翰明引的。
 
-**亞那家族**：大祭司亞那的家族控制這些商業活動，被稱為「亞那的市集」(Bazaars of Annas)，牟取暴利。
+**收在啟示錄。** 神與人同住的終點，是那座沒有殿的城：
 
-### 兩次潔淨聖殿？
+> ^22^我未見城內有殿，因主神─全能者和羔羊為城的殿。
+>
+> — 啟示錄 21:22（和合本）
 
-| 約翰福音（2:13-22） | 對觀福音（太21; 可11; 路19） |
-|--------------------|------------------------------|
-| 事工開始 | 事工末期（受難週） |
-| 說「我父的殿」 | 說「我的殿」 |
-| 逾越節 | 逾越節 |
+在那裏，「神的帳幕在人間。他要與人同住」（啟 21:3）。
 
-多數學者認為這是兩次不同的潔淨：一次在事工開始，一次在事工結束。耶穌以潔淨聖殿開始和結束祂的公開事工。
+### 歷史與風俗
+
+**逾越節與外院。** 逾越節是以色列人三次上耶路撒冷守節之一（申 16:16），城裏擠滿了從各地來的人。殿的最外一圈是外邦人的院子（外邦人院），外邦人只能到這一圈。買賣設在殿裏，約翰記的是「牛、羊、鴿子」與「兌換銀錢的人」（2:14）。
+
+**為甚麼要兌錢、買牲畜。** 殿稅是半舍客勒（出 30:13-16）；一般認為殿稅要用特定的銀幣繳納，所以需要兌換；獻祭的牲畜必須無瑕疵，遠道而來的人不便帶牲畜，就在殿區購買。鴿子是窮人的祭物（利 12:8；5:7）。這些設置本身未必不合法，約翰與耶穌關注的是：它們被擺進了「我父的殿」，成了「買賣的地方」。
+
+**「四十六年」。** 希律約在主前 20 至 19 年間動工重建這座殿（約瑟夫的兩處記載年份略有出入），整個工程直到約主後 60 年代才全部完工，主後 70 年毀於羅馬軍隊之手。猶太人說「四十六年才造成的」（2:20），指的是這座殿的工程已經進行了多年；工程尚未全部完工。
+
+### 兩次潔淨——要分開
+
+| | 約翰福音 2:13-22 | 對觀福音（太 21；可 11；路 19） |
+|---|---|---|
+| 時間 | 事工之初的逾越節 | 受難週，榮進耶路撒冷之後（本書第 23 章） |
+| 耶穌的話 | 「不要將我父的殿當做買賣的地方」 | 「我的殿必稱為禱告的殿，你們倒使他成為賊窩了」（太 21:13，引賽 56:7、耶 7:11） |
+| 特別之處 | 繩子做的鞭子；猶太人當場要記號；說「三日」 | 沒有鞭子；後來「拆毀」之語出現在審訊的控告裏（可 14:58） |
+
+學者看法不一：多數傳統讀法視為兩次，也有人主張只有一次，約翰為神學的緣故把它移到事工之初。本書依約翰的次序，把兩次分開讀：這一章是「記號之後的潔淨」，第 23 章是「進城之後的審判」。
 
 ---
 
 ## 原文研讀 (Word Study)
 
-| 希臘文 | 音譯 | 意義 | 出現次數 |
-|--------|------|------|----------|
-| ἱερόν | hieron | 聖殿（整體建築群） | 新約71次 |
-| ναός | naos | 聖所（內殿） | 耶穌用於指身體 |
-| ζῆλος | zēlos | 熱心、嫉妒 | 詩69:9 |
-| οἶκος | oikos | 家、殿 | 「我父的家」 |
-| ἐμπόριον | emporion | 買賣的地方、市場 | 新約僅此1次 |
+| 希臘文 | 音譯 | 意義 | 註解 |
+|-------------------------|------------------|------------------|--------------------------------------------|
+| ἱερόν | *hieron* | 殿（整個殿區） | 2:14, 15 趕牛羊的地方 |
+| ναός | *naos* | 殿（聖所本身） | 2:19, 20, 21「拆毀這殿」「以他的身體為殿」 |
+| φραγέλλιον | *phragellion* | 鞭子 | 新約只在 2:15 出現一次 |
+| ἐμπόριον | *emporion* | 買賣的地方 | 新約只在 2:16 出現一次 |
+| κατεσθίω | *katesthiō* | 吞吃、耗盡 | 2:17 引詩 69:9，NASB 作 *consume* |
+| ἐγείρω | *egeirō* | 使起來、建立；叫起來 | 2:19「再建立起來」與 2:22「從死裏復活」同一個動詞 |
+| πιστεύω | *pisteuō* | 信、交託 | 2:23「就信了他的名」與 2:24「不將自己交託他們」同一個動詞 |
 
-### 「殿」的兩個字
+### 兩個「殿」字
 
-- **ἱερόν (hieron)**：指整個聖殿建築群，包括外邦人院、婦女院、以色列院等
-- **ναός (naos)**：指內殿、聖所本身
+約翰先用 *hieron*（殿區）寫耶穌趕走牛羊；耶穌說「拆毀這殿」時改用 *naos*（聖所），猶太人聽的是石頭的殿，約翰解釋祂說的是身體（2:21）。
 
-耶穌說「三日內要把它重建」用的是 ναός，約翰解釋祂是指自己的身體。
+### 同一個動詞，兩個方向
 
----
-
-## 解經洞見 (Commentary)
-
-### John MacArthur 論耶穌的憤怒
-
-> 「這是聖經中少數記載耶穌發怒的地方。祂的憤怒不是失控的情緒，而是聖潔的義怒。祂用繩子做成鞭子——這需要時間，表明是深思熟慮的行動。祂的憤怒針對的是：把敬拜變成商業、把禱告的地方變成賊窩、阻擋外邦人親近神。這提醒我們：溫柔的耶穌也是聖潔的審判者。」
-> — John MacArthur, *The MacArthur New Testament Commentary: John 1-11*
-
-### G. Campbell Morgan 論「三日重建」
-
-> 「猶太人問神蹟，耶穌給他們的是預言。『拆毀這殿，我三日內要把它重建。』他們以為祂在說希律的聖殿，其實祂在說自己的身體。這是何等的宣告！祂的身體是真正的聖殿——神與人相會的地方。當祂的身體被『拆毀』（釘十字架），三日後復活，這才是最大的神蹟。石頭的聖殿會被毀，但這聖殿永遠長存。」
-> — G. Campbell Morgan, *The Gospel According to John*
+2:23 說許多人「信了他的名」，2:24 說耶穌「不將自己交託他們」：希臘文是同一個動詞，一個是人信祂，一個是祂不「信」他們。約翰不是在說這些人沒有看見記號，是說看見記號而信，與被祂信任，是兩件事。
 
 ---
 
-## 領受與亮光 (Light Received)
+## 領受要點 (Truths Received)
 
-### 1. 彌賽亞的權柄
+### 1. 殿是父的家，兒子在清理自己的家
 
-耶穌稱聖殿為「我父的殿」——這是宣告祂與神獨特的父子關係。祂有權柄潔淨聖殿，因為這是祂父的家。
+耶穌說「我父的殿」（2:16）。祂動手的立場不是改革者，是兒子；趕出去的，是被擺進家裏的買賣，不是獻祭本身。
 
-### 2. 從石殿到身體
+### 2. 兩次「想起來」，隔著十字架
 
-| 舊約的殿 | 耶穌的身體 | 教會 |
-|----------|-----------|------|
-| 石頭建造 | 道成肉身 | 活石建造（彼前2:5） |
-| 神暫時同在 | 神永久同在 | 聖靈永住 |
-| 地理限制 | 超越地理 | 普世教會 |
-| 被拆毀 | 被釘死 | 不能被毀 |
-| 不能重建 | 三日復活 | 永遠得勝 |
+2:17 門徒當場想起詩篇 69:9；2:22 要等「到他從死裏復活以後」，才想起「三日」這句話，「便信了聖經和耶穌所說的」。同一場面，有一部分的意思當時就懂，有一部分要等復活才懂。讀約翰福音的人，也被邀請在復活之後回頭重讀。
 
-### 3. 「祂知道人心裏所存的」
+### 3. 他們要記號，祂給的是自己的死與復活
 
-約翰特別記載：耶穌不把自己交託那些「信祂」的人，因為祂知道人心。這預示了：
-- 猶大的背叛
-- 彼得的否認
-- 眾人的棄絕
+猶太人問祂憑甚麼權柄（2:18），祂沒有再變一個神蹟，只說「你們拆毀這殿，我三日內要再建立起來」。「拆毀」是命令式，常被讀作帶著諷刺的挑戰；這個記號，要到十字架與空墳才完成。
 
-真正的信心不是看神蹟而相信，而是信靠基督的話語。
+### 4. 信了祂的人多，被祂信任的人少
 
-### 4. 敬拜的本質
-
-耶穌潔淨聖殿揭示真正敬拜的要素：
-- **聖潔**：不可商業化
-- **敬畏**：不可隨便
-- **開放**：不可排斥他人（外邦人院）
-- **專一**：唯獨敬拜神
+2:23-25 緊接在潔淨聖殿之後：逾越節的耶路撒冷，有許多人因為看見記號而信；祂卻不把自己交託他們，因為「他知道人心裏所存的」。下一個出場的人，是夜裏來的尼哥底母（第 8 章）。
 
 ---
 
-## 個人反思 (Personal Reflection)
+## 歷代注疏 (Historical Commentary)
 
-1. **你的「聖殿」**：你的身體是聖靈的殿（林前6:19）。有甚麼需要被「潔淨」——被趕出去的？
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。出處見每條末行。
 
-2. **敬拜的動機**：你來到教會是敬拜神，還是為了其他目的（社交、事業、形象）？
+### 教父時期
 
-3. **真假信心**：那些「看見神蹟就信」的人，耶穌不信任他們。你的信心建立在甚麼上——經歷還是話語？
+**屈梭多模 (John Chrysostom, c. 349-407)**：
+
+以下為其立場之綜述（出自馬太福音平行段的講章，非逐字引用）：主兩次潔淨聖殿，一在事工之初，一在事工將盡——顯明的是持續的關切，不是一時的義憤。
+
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 67 (on Matt 21), NPNF1-10
+
+### 摩根 (G. Campbell Morgan)
+
+摩根按「境界」排列約翰福音的記號，把潔淨聖殿算作第二個記號，是**敬拜之境**；第一個是迦拿的創造與喜樂之境。他的用意是：主一進耶路撒冷，就先動敬拜——喜樂之後是敬拜，祂先給人酒，再潔淨人的殿。
+
+> "The second was a sign in the realm of worship in the Temple."
+>
+> 第二個是在聖殿裏、敬拜之境的兆頭。（編者中譯）
+>
+> — G. Campbell Morgan, *The Gospel According to John*（約翰福音 5 章講章，取自本系列約翰福音卷 `00b-i-am-deity.md` 已核對之摘錄）
+
+### 麥克阿瑟 (John MacArthur)
+
+麥克阿瑟在約翰福音 2:12-17 的講道裏，解釋門徒為甚麼想起詩篇 69:9：
+
+> "That’s what that means: my passion for Your house consumes me. The reproaches that fall on You, fall on me."
+>
+> 這就是那句話的意思：我對你的家的熱情吞吃了我。落在你身上的羞辱，落在我身上。
+>
+> — John MacArthur, *Zeal for My Father’s House* (sermon 43-9), gty.org
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*The Church's One Foundation* (教會唯一根基)
+### 詩篇 69:9
 
-> The church's one foundation is Jesus Christ her Lord;
-> She is His new creation by water and the Word.
-> From heaven He came and sought her to be His holy bride;
-> With His own blood He bought her, and for her life He died.
-
-**詩篇**：詩篇 69:9
-
-> 因我為祢的殿心裏焦急，如同火燒，並且辱罵祢之人的辱罵都落在我身上。
+> 因我為你的殿心裏焦急，如同火燒， \
+> 並且辱罵你人的辱罵都落在我身上。
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：殿換了地址——不再是一座可以買賣的建築，而是一個會被拆毀、又被祂自己升起的身體。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：祂是真聖殿。門徒想起詩 69:9「我為祢的殿心裏焦急」；耶穌說「你們拆毀這殿，我三日內要把它重建」，指自己的身體（約 2:21）。會幕、聖殿都預表「神與人同住」——約 1:14「道……支搭帳棚在我們中間」，直到啟 21:3「神的帳幕在人間」。
+**同住線**：出 25:8「使我可以住在他們中間」→ 出 40:34 榮光充滿帳幕 → 結 11:23 榮耀離開、結 43:4-5 榮光回來 → 約 1:14 道成肉身、住在我們中間 → 約 2:21 祂以身體為殿 → 啟 21:3, 22「神的帳幕在人間」「主神─全能者和羔羊為城的殿」。從會幕到新耶路撒冷，神要的始終是同住；祂進殿動手，是為了這個。
+
+**進殿線**：瑪 3:1「你們所尋求的主必忽然進入他的殿」，到約 2:14-16 祂真的進了殿。老弟兄說過：「不是我們去建立教會，是你手上有沒有釘痕的手。」（出處：`.claude/skills/ask-elder-wong/references/voice.md`）敬拜的中心不是我們建的，是那位身體曾被拆毀、又升起的主。
 
 ### 提問式對話 (Let the Reader Speak)
 
-黃長老不急著給答案，他一層一層地問：
+照老弟兄提問的形狀（先問、再問、追問、落到自己），讀者可以這樣一層一層地問自己：
 
-- 先問：「聖殿本是禱告的地方，當時變成了甚麼？」
-- 再問：「耶穌說『你們拆毀這殿，我三日內要把它重建』——祂指的是哪座殿？」
-- 追問：「若祂自己就是真聖殿，這對你今天去『哪裏敬拜』說甚麼？」
-- 落到自己：「你的敬拜，是把神的殿當作買賣交換的場所，還是禱告的家？」
+- 先問：祂進殿以後，第一個動作是甚麼？祂趕的是甚麼，沒有趕的是甚麼？
+- 再問：「你們拆毀這殿，我三日內要再建立起來」——祂說的殿是哪一座？
+- 追問：門徒當場想起的是詩篇 69:9，等到復活以後才想起的是「三日」——這兩次「想起」，差在哪裏？
+- 落到自己：你的敬拜，先帶進去的是甚麼？
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天幾乎一切都被標了價、可被變現，連信仰、連注意力都成了生意。耶穌進到殿裏，第一件事是翻桌子。你心裏這座殿，有沒有也擺滿了交易的攤子——把神當成達成目的的工具？
+今天幾乎一切都被標了價：注意力、時間、情緒，連禱告與見證也能被剪成內容、換成流量。耶穌進殿，先翻的是桌子。你心裏這座「殿」，有沒有哪個角落擺了攤位，把神當成換取結果的工具？
 
 ### 今天的祭壇 (Today's Altar)
 
-- **早晨**：求主潔淨你心這座殿，翻倒那些不該擺在裏面的桌子。
-- **晚上**：今天我對神的態度，比較像「交易」，還是「敬拜」？
-- **一個行動**：今天清出一段「不交易、不求回報」、純粹親近神的時間。
+- **早晨**：求主翻倒你心裏一張交易的桌子。
+- **晚上**：今天我對神說的話，哪一句是在談條件？
+- **一個行動**：清出十分鐘，不求任何結果，只是在祂面前安靜。
+
+**你看見耶穌了嗎？** 祂進殿，沒有先講道理，先拿起繩子做的鞭子；人問祂憑甚麼，祂不變神蹟，只指著自己的身體。你看見的，是那位為父的殿心裏焦急的兒子，祂自己就是神與人相會的殿，要被拆毀，又三日再建立。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 生命應用 (Application)
 
-**一句話精義**：祂為父的殿心裏焦急，因為祂自己就是那要被拆毀、又三日重建的真聖殿。
+### 默想問題
 
-**貫通全經**：會幕與聖殿都預表「神與人同住」→ 約1:14「道……支搭帳棚在我們中間」→ 啟21「神的帳幕在人間」。
+1. **你心裏的殿**：有甚麼東西被你擺進了「我父的殿」，成了買賣？
 
-**無法迴避的問題**：「你的敬拜，是把神的殿當作買賣的場所，還是禱告的家？」
+2. **信，與被祂信任**：你信祂，是因為看見了記號，還是因為認識祂？你願意讓祂「知道人心裏所存的」嗎？
 
-> 「『我父的殿是禱告的殿』——你今天進入你的『殿』時，先帶進去的是禱告，還是手機？」
+3. **復活以後才懂**：你生命中有哪一件事，要等「以後」才會明白？你現在能不能只是記著祂說過的話？
+
+### 禱告回應
+
+> 主耶穌，你為你父的殿心裏焦急。 \
+> 求你進到我心裏這座殿，翻倒一切把你當作工具的桌子， \
+> 使我的敬拜重新成為禱告的家。 \
+> 你是那被拆毀又三日升起的殿， \
+> 求你住在我裏面。阿們。
 
 ---
 
-## 回應禱告 (A Prayer to Pray)
+## 與其他經文的關聯
 
-> 主啊，祢為父的殿心裏焦急。求祢進到我心這座殿，翻倒一切把祢當工具的交易桌，潔淨我的敬拜，使它重新成為禱告的家。願祢—真聖殿—住在我裏面。阿們。
-
----
-
-*三書精讀項目 · 耶穌基督完整生平 · 第七章*
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 殿與同住 | 2:13-16 | 出 25:8、出 40:34、啟 21:3, 22 |
+| 榮耀離開又回來 | 2:19-21 | 結 11:23、結 43:4-5、約 1:14 |
+| 為殿焦急 | 2:17 | 詩 69:9 |
+| 主進殿的應許 | 2:14-16 | 瑪 3:1 |
+| 另一次潔淨聖殿 | 2:13-22 | 太 21:12-13、可 11:15-17、路 19:45-46（本書第 23 章） |
+| 拆毀與三日 | 2:19-22 | 可 14:58 |
+| 信了祂與祂不交託 | 2:23-25 | 約 3:1-21（尼哥底母） |

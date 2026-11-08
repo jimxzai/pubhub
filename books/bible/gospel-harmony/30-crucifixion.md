@@ -1,433 +1,462 @@
 ---
-title: 釘十字架
-subtitle: The Crucifixion
-chapter: 30
-scripture: 馬太福音 27:27-56; 馬可福音 15:16-41; 路加福音 23:26-49; 約翰福音 19:17-37
+title: 耶穌基督完整生平
+subtitle: The Complete Life of Jesus Christ
+author: PubHub 三書精讀系統
+date: 2026年11月
+publisher: 三書精讀出版系統
 ---
 
 # 釘十字架 (The Crucifixion)
 
-馬太福音 27:27-56; 約翰福音 19:17-37
+參照行：馬太福音 27:27-56；馬可福音 15:16-41；路加福音 23:26-49；約翰福音 19:17-37
+
+**經文核對**：[ai-eden.com/bible/matthew/27](https://www.ai-eden.com/bible/matthew/27?t=CUV,NASB&cols=2)；[ai-eden.com/bible/mark/15](https://www.ai-eden.com/bible/mark/15?t=CUV,NASB&cols=2)；[ai-eden.com/bible/luke/23](https://www.ai-eden.com/bible/luke/23?t=CUV,NASB&cols=2)；[ai-eden.com/bible/john/19](https://www.ai-eden.com/bible/john/19?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-十字架，焦點不在兵丁、群眾或同釘的強盜，而在那位高喊「成了」的主。從祂的角度讀，詩篇二十二篇與以賽亞五十三章的每一筆都在祂身上應驗：分外衣、被戲笑、扎手腳、為罪人代死。「神的羔羊」在此除去世人的罪孽；那一聲「成了」，宣告救贖大功完全成就。
+> **本章鑰詞：成了 Finished（約 19:28, 30）** \
+> **生平座標**：第 30 站／共 37 站 · 卷八「十架與復活」· 年代有爭論（學者多主張主後 30 或 33 年春，逾越節期間） \
+> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 1 段——十架不是計劃的失敗，是計劃的中心：第三步贖罪日要的那一次血，第五步先知描寫的那位受苦僕人，在同一個下午交了卷。 \
+> （全書骨幹見卷首《神的總計劃》）
+
+四福音各寫各的十字架：馬太寫黑暗、地震與裂開的幔子，馬可一個時辰一個時辰地記，路加獨記三句向人說的話，約翰記的是「成了」之後祂才低下頭。本章不把四份記載攪在一起，七句話各歸各的福音，然後問一件事：這個下午，是計劃出了差錯，還是計劃走到了中心？約翰給的答案寫在 19:28——耶穌知道各樣的事已經成了，「為要使經上的話應驗」，才說了那一句。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **When I Survey the Wondrous Cross** \
+> *Isaac Watts, 1707*
+>
+> See, from His head, His hands, His feet, \
+> Sorrow and love flow mingled down! \
+> Did e'er such love and sorrow meet, \
+> Or thorns compose so rich a crown?
+>
+> 看哪，從祂的頭、祂的手、祂的腳， \
+> 憂傷與慈愛交織流下！ \
+> 可曾有這樣的愛與憂傷相遇？ \
+> 荊棘何曾織成如此尊貴的冠冕？（編者譯）
 
 ---
 
 ## 經文 (Scripture)
 
-### 各各他（約翰福音 19:17-22）
+本章只錄與十字架直接相關的節次，依事件先後排列；括號內是四福音各自的出處。
 
-#### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-> ^17^耶穌背着自己的十字架出來，到了一個地方，名叫「髑髏地」，希伯來話叫「各各他」。^18^他們就在那裏把祂釘在十字架上，還有兩個人和祂同釘，一邊一個，耶穌在中間。^19^彼拉多又寫了一個牌子，釘在十字架上，上面寫着：「猶太人的王，拿撒勒人耶穌」。^20^有許多猶太人念這牌子，因為耶穌被釘十字架的地方靠近城，而且牌子是用希伯來、拉丁、希臘三種文字寫的。
+**約翰福音 19:17-20**
 
----
+> ^17^他們就把耶穌帶了去。耶穌背著自己的十字架出來，到了一個地方，名叫「髑髏地」，希伯來話叫各各他。^18^他們就在那裏釘他在十字架上，還有兩個人和他一同釘著，一邊一個，耶穌在中間。^19^彼拉多又用牌子寫了一個名號，安在十字架上，寫的是：「猶太人的王，拿撒勒人耶穌。」^20^有許多猶太人念這名號；因為耶穌被釘十字架的地方與城相近，並且是用希伯來、羅馬、希利尼三樣文字寫的。
 
-### 十架七言（綜合四福音）
+**馬可福音 15:25**
 
-| 序 | 話語 | 經文 |
-|---|------|------|
-| 1 | <red>「父啊，赦免他們！因為他們所做的，他們不知道。」</red> | 路23:34 |
-| 2 | <red>「我實在告訴你，今日你要同我在樂園裏了。」</red> | 路23:43 |
-| 3 | <red>「母親，看，你的兒子！...看，你的母親！」</red> | 約19:26-27 |
-| 4 | <red>「我的神！我的神！為甚麼離棄我？」</red> | 太27:46 |
-| 5 | <red>「我渴了。」</red> | 約19:28 |
-| 6 | <red>「成了！」</red> | 約19:30 |
-| 7 | <red>「父啊，我將我的靈魂交在祢手裏。」</red> | 路23:46 |
+> ^25^釘他在十字架上是巳初的時候。
 
----
+**路加福音 23:33-34**
 
-### 「成了」（約翰福音 19:28-30）
+> ^33^到了一個地方，名叫「髑髏地」，就在那裏把耶穌釘在十字架上，又釘了兩個犯人：一個在左邊，一個在右邊。^34^當下耶穌說：\jesus{「父啊！赦免他們；因為他們所做的，他們不曉得。」}兵丁就拈鬮分他的衣服。
 
-#### 中文 — 和合本修訂版 (RCUV)
+**約翰福音 19:23-24**
 
-> ^28^這事以後，耶穌知道各樣的事已經成了，為使經上的話應驗，就說：<red>「我渴了。」</red>^29^有一個盛滿了醋的罐子放在那裏，他們就拿海綿蘸滿了醋，綁在牛膝草上，送到祂口邊。^30^耶穌嘗了那醋，就說：<red>「成了！」</red>便低下頭，將靈魂交付神了。
+> ^23^兵丁既然將耶穌釘在十字架上，就拿他的衣服分為四分，每兵一分；又拿他的裏衣，這件裏衣原來沒有縫兒，是上下一片織成的。^24^他們就彼此說：「我們不要撕開，只要拈鬮，看誰得著。」這要應驗經上的話說：他們分了我的外衣，為我的裏衣拈鬮。兵丁果然做了這事。
 
-#### English — NKJV
+**路加福音 23:35-43**
 
-> ^28^After this, Jesus, knowing that all things were now accomplished, that the Scripture might be fulfilled, said, <red>"I thirst!"</red> ^29^Now a vessel full of sour wine was sitting there; and they filled a sponge with sour wine, put it on hyssop, and put it to His mouth. ^30^So when Jesus had received the sour wine, He said, <red>"It is finished!"</red> And bowing His head, He gave up His spirit.
+> ^35^百姓站在那裏觀看。官府也嗤笑他，說：「他救了別人；他若是基督，神所揀選的，可以救自己吧！」^36^兵丁也戲弄他，上前拿醋送給他喝，^37^說：「你若是猶太人的王，可以救自己吧！」^38^在耶穌以上有一個牌子（有古卷加：用希利尼、羅馬、希伯來的文字）寫著：「這是猶太人的王。」^39^那同釘的兩個犯人有一個譏誚他，說：「你不是基督嗎？可以救自己和我們吧！」^40^那一個就應聲責備他，說：「你既是一樣受刑的，還不怕神嗎？^41^我們是應該的，因我們所受的與我們所做的相稱，但這個人沒有做過一件不好的事。」^42^就說：「耶穌啊，你得國降臨的時候，求你記念我！」^43^耶穌對他說：\jesus{「我實在告訴你，今日你要同我在樂園裏了。」}
 
----
+**約翰福音 19:25-27**
 
-### 超自然現象（太27:51-54）
+> ^25^站在耶穌十字架旁邊的，有他母親與他母親的姊妹，並革羅罷的妻子馬利亞，和抹大拉的馬利亞。^26^耶穌見母親和他所愛的那門徒站在旁邊，就對他母親說：\jesus{「母親（原文作婦人），看，你的兒子！」}^27^又對那門徒說：\jesus{「看，你的母親！」}從此，那門徒就接他到自己家裏去了。
 
-> ^51^忽然，殿的幔子從上到下裂為兩半，地也震動，石頭也崩裂，^52^墳墓也開了，已睡聖徒的身體多有起來的。^53^到耶穌復活以後，他們從墳墓裏出來，進了聖城，向許多人顯現。^54^百夫長和看守耶穌的人看見地震和所經歷的事，非常害怕，說：「這真是神的兒子！」
+**馬太福音 27:45-46**
+
+> ^45^從午正到申初，遍地都黑暗了。^46^約在申初，耶穌大聲喊著說：\jesus{「以利！以利！拉馬撒巴各大尼？」}就是說：\jesus{「我的神！我的神！為甚麼離棄我？」}
+
+**約翰福音 19:28-30**
+
+> ^28^這事以後，耶穌知道各樣的事已經成了，為要使經上的話應驗，就說：\jesus{「我渴了。」}^29^有一個器皿盛滿了醋，放在那裏；他們就拿海絨蘸滿了醋，綁在牛膝草上，送到他口。^30^耶穌嘗（原文作受）了那醋，就說：\jesus{\textbf{「成了！」}}便低下頭，將靈魂交付神了。
+
+**路加福音 23:46**
+
+> ^46^耶穌大聲喊著說：\jesus{「父啊！我將我的靈魂交在你手裏。」}說了這話，氣就斷了。
+
+**馬太福音 27:50-54**
+
+> ^50^耶穌又大聲喊叫，氣就斷了。^51^忽然，殿裏的幔子從上到下裂為兩半，地也震動，磐石也崩裂，^52^墳墓也開了，已睡聖徒的身體多有起來的。^53^到耶穌復活以後，他們從墳墓裏出來，進了聖城，向許多人顯現。^54^百夫長和一同看守耶穌的人看見地震並所經歷的事，就極其害怕，說：「這真是神的兒子了！」
+
+**路加福音 23:47**
+
+> ^47^百夫長看見所成的事，就歸榮耀與神，說：「這真是個義人！」
+
+**馬可福音 15:40-41**
+
+> ^40^還有些婦女遠遠的觀看；內中有抹大拉的馬利亞，又有小雅各和約西的母親馬利亞，並有撒羅米，^41^就是耶穌在加利利的時候，跟隨他、服事他的那些人，還有同耶穌上耶路撒冷的好些婦女在那裏觀看。
+
+**約翰福音 19:31-37**
+
+> ^31^猶太人因這日是預備日，又因那安息日是個大日，就求彼拉多叫人打斷他們的腿，把他們拿去，免得屍首當安息日留在十字架上。^32^於是兵丁來，把頭一個人的腿，並與耶穌同釘第二個人的腿，都打斷了。^33^只是來到耶穌那裏，見他已經死了，就不打斷他的腿。^34^惟有一個兵拿槍扎他的肋旁，隨即有血和水流出來。^35^看見這事的那人就作見證─他的見證也是真的，並且他知道自己所說的是真的─叫你們也可以信。^36^這些事成了，為要應驗經上的話說：「他的骨頭一根也不可折斷。」^37^經上又有一句說：「他們要仰望自己所扎的人。」
+
+### English — NASB
+
+**John 19:17-20**
+
+> ^17^They took Jesus, therefore, and He went out, bearing His own cross, to the place called the Place of a Skull, which is called in Hebrew, Golgotha. ^18^There they crucified Him, and with Him two other men, one on either side, and Jesus in between. ^19^Pilate also wrote an inscription and put it on the cross. It was written, “JESUS THE NAZARENE, THE KING OF THE JEWS.” ^20^Therefore many of the Jews read this inscription, for the place where Jesus was crucified was near the city; and it was written in Hebrew, Latin *and* in Greek.
+
+**Mark 15:25**
+
+> ^25^It was the third hour when they crucified Him.
+
+**Luke 23:33-34**
+
+> ^33^When they came to the place called The Skull, there they crucified Him and the criminals, one on the right and the other on the left. ^34^But Jesus was saying, \jesus{“Father, forgive them; for they do not know what they are doing.”} And they cast lots, dividing up His garments among themselves.
+
+**John 19:23-24**
+
+> ^23^Then the soldiers, when they had crucified Jesus, took His outer garments and made four parts, a part to every soldier and *also* the tunic; now the tunic was seamless, woven in one piece. ^24^So they said to one another, “Let us not tear it, but cast lots for it, *to decide* whose it shall be”; *this was* to fulfill the Scripture: “THEY DIVIDED MY OUTER GARMENTS AMONG THEM, AND FOR MY CLOTHING THEY CAST LOTS.”
+
+**Luke 23:35-43**
+
+> ^35^And the people stood by, looking on. And even the rulers were sneering at Him, saying, “He saved others; let Him save Himself if this is the Christ of God, His Chosen One.” ^36^The soldiers also mocked Him, coming up to Him, offering Him sour wine, ^37^and saying, “If You are the King of the Jews, save Yourself!” ^38^Now there was also an inscription above Him, “THIS IS THE KING OF THE JEWS.” ^39^One of the criminals who were hanged *there* was hurling abuse at Him, saying, “Are You not the Christ? Save Yourself and us!” ^40^But the other answered, and rebuking him said, “Do you not even fear God, since you are under the same sentence of condemnation? ^41^And we indeed *are suffering* justly, for we are receiving what we deserve for our deeds; but this man has done nothing wrong.” ^42^And he was saying, “Jesus, remember me when You come in Your kingdom!” ^43^And He said to him, \jesus{“Truly I say to you, today you shall be with Me in Paradise.”}
+
+**John 19:25-27**
+
+> ^25^Therefore the soldiers did these things. But standing by the cross of Jesus were His mother, and His mother’s sister, Mary the *wife* of Clopas, and Mary Magdalene. ^26^When Jesus then saw His mother, and the disciple whom He loved standing nearby, He said to His mother, \jesus{“Woman, behold, your son!”} ^27^Then He said to the disciple, \jesus{“Behold, your mother!”} From that hour the disciple took her into his own *household.*
+
+**Matthew 27:45-46**
+
+> ^45^Now from the sixth hour darkness fell upon all the land until the ninth hour. ^46^About the ninth hour Jesus cried out with a loud voice, saying, \jesus{“ELI, ELI, LAMA SABACHTHANI?”} that is, \jesus{“MY GOD, MY GOD, WHY HAVE YOU FORSAKEN ME?”}
+
+**John 19:28-30**
+
+> ^28^After this, Jesus, knowing that all things had already been accomplished, to fulfill the Scripture, said, \jesus{“I am thirsty.”} ^29^A jar full of sour wine was standing there; so they put a sponge full of the sour wine upon *a branch of* hyssop and brought it up to His mouth. ^30^Therefore when Jesus had received the sour wine, He said, \jesus{\textbf{“It is finished!”}} And He bowed His head and gave up His spirit.
+
+**Luke 23:46**
+
+> ^46^And Jesus, crying out with a loud voice, said, \jesus{“Father, INTO YOUR HANDS I COMMIT MY SPIRIT.”} Having said this, He breathed His last.
+
+**Matthew 27:50-54**
+
+> ^50^And Jesus cried out again with a loud voice, and yielded up His spirit. ^51^And behold, the veil of the temple was torn in two from top to bottom; and the earth shook and the rocks were split. ^52^The tombs were opened, and many bodies of the saints who had fallen asleep were raised; ^53^and coming out of the tombs after His resurrection they entered the holy city and appeared to many. ^54^Now the centurion, and those who were with him keeping guard over Jesus, when they saw the earthquake and the things that were happening, became very frightened and said, “Truly this was the Son of God!”
+
+**Luke 23:47**
+
+> ^47^Now when the centurion saw what had happened, he *began* praising God, saying, “Certainly this man was innocent.”
+
+**Mark 15:40-41**
+
+> ^40^There were also *some* women looking on from a distance, among whom *were* Mary Magdalene, and Mary the mother of James the Less and Joses, and Salome. ^41^When He was in Galilee, they used to follow Him and minister to Him; and *there were* many other women who came up with Him to Jerusalem.
+
+**John 19:31-37**
+
+> ^31^Then the Jews, because it was the day of preparation, so that the bodies would not remain on the cross on the Sabbath (for that Sabbath was a high day), asked Pilate that their legs might be broken, and *that* they might be taken away. ^32^So the soldiers came, and broke the legs of the first man and of the other who was crucified with Him; ^33^but coming to Jesus, when they saw that He was already dead, they did not break His legs. ^34^But one of the soldiers pierced His side with a spear, and immediately blood and water came out. ^35^And he who has seen has testified, and his testimony is true; and he knows that he is telling the truth, so that you also may believe. ^36^For these things came to pass to fulfill the Scripture, “NOT A BONE OF HIM SHALL BE BROKEN.” ^37^And again another Scripture says, “THEY SHALL LOOK ON HIM WHOM THEY PIERCED.”
 
 ---
 
 ## 背景 (Context)
 
-### 十字架刑罰
+### 舊約的根
 
-十字架刑是羅馬帝國對非公民最殘酷的處決方式：
+這個下午的每一個細節，在舊約裏都有一條線拉過來。新約自己指認的，與編者放在一起對照的，要分開說：
 
-| 層面 | 描述 |
-|------|------|
-| 肉體 | 鞭打、釘刺、長時間窒息 |
-| 羞辱 | 赤身、公開展示 |
-| 社會 | 最卑賤的死法，只用於奴隸和叛亂者 |
-| 屬靈 | 「凡掛在木頭上的都是被咒詛的」（申21:23） |
+| 舊約 | 十字架上的事 | 性質 |
+|---|---|---|
+| 詩 22:1「我的神，我的神！為甚麼離棄我？」 | 耶穌自己喊出這句（太 27:46；可 15:34） | 祂自己引用 |
+| 詩 22:7-8 眾人搖頭，說「耶和華可以救他吧」 | 路人搖頭、祭司長說「他倚靠神，神若喜悅他，現在可以救他」（太 27:39, 43） | 呼應，新約未明引 |
+| 詩 22:18 分外衣、為裏衣拈鬮 | 兵丁拈鬮分衣（約 19:24） | 約翰明說「要應驗經上的話」 |
+| 詩 22:16 「他們扎了我的手，我的腳」 | 釘十字架 | 新約沒有明引這節；這一節希伯來文本的讀法有爭論，和合本譯為「扎了」 |
+| 賽 53:12 「他也被列在罪犯之中」 | 兩個強盜、犯人同釘（太 27:38；可 15:27；路 23:33） | 耶穌親口說這話必應驗在祂身上（路 22:37） |
+| 出 12:46 逾越節羊羔「骨頭一根也不可折斷」 | 兵丁見祂已死，就不打斷祂的腿（約 19:33, 36） | 約翰明說應驗 |
+| 亞 12:10 「他們必仰望我，就是他們所扎的」 | 兵丁拿槍扎祂的肋旁（約 19:34, 37） | 約翰明說「經上又有一句」 |
+| 出 12:22 用牛膝草蘸血 | 海綿綁在牛膝草上送到祂口邊（約 19:29） | 編者對照 |
+| 摩 8:9「使日頭在午間落下，使地在白晝黑暗」 | 午正到申初遍地黑暗（太 27:45） | 編者對照 |
 
-### 時間線
+詩篇的次序也有話說。本系列《詩篇》卷首把詩 22 放在「受膏者被棄、受苦」的一站，其後才有詩 118 的房角石——結論是：**受膏者要先被棄，才被高舉**。詩 22 本身也是這個形狀：前半是被離棄的呼求，後半（22:27-28）是地的四極都要想念耶和華、列國的萬族都要敬拜。
 
-| 時間 | 事件 |
-|------|------|
-| 上午9時（第三時） | 被釘十字架（可15:25） |
-| 中午12時（第六時） | 遍地黑暗開始（太27:45） |
-| 下午3時（第九時） | 耶穌死亡（太27:46-50） |
+利未記給的是另一條線。本系列《利未記》卷首的次序是：先給路（獻祭），再揭開問題的深度（潔淨條例），然後才是第 16 章贖罪日——一年一次，大祭司獨自帶血進幔子內（利 16:2, 34）。贖罪日是前十五章都在等的那一天；而「一年一次」本身就是還沒有完的記號。希伯來書抓住的正是這點，把幔子與十字架接在一起（見〈老弟兄查經〉）。
 
-### 三種文字的牌子
+以賽亞書的卷首則說：寶座上「聖哉，聖哉，聖哉」的主（賽 6），與第 53 章那位被藐視的僕人，是同一位；約翰福音 12:39-41 把這兩章並讀，說「以賽亞因為看見他的榮耀，就指著他說這話」。
 
-| 文字 | 代表 |
-|------|------|
-| 希伯來文 | 宗教（猶太教） |
-| 拉丁文 | 政治（羅馬帝國） |
-| 希臘文 | 文化（希臘文明） |
+### 歷史、地理與時辰
 
-全世界的語言都宣告：這是猶太人的王——這牌子比彼拉多所知道的更真實。
+**刑罰**　羅馬用十字架處決奴隸、叛亂者與重犯，羅馬公民通常免受此刑。西塞羅在《控維勒斯》裏稱它為最殘忍、最可憎的刑罰（*crudelissimum taeterrimumque supplicium*）。福音書寫得克制：馬太只有一句「他們既將他釘在十字架上」，連釘子都沒有提；本章也不補寫福音書沒有寫的細節。
+
+**地點**　髑髏地（亞蘭語「各各他」，約 19:17）在城外，離城不遠（約 19:20）；希伯來書 13:12 說祂「在城門外受苦」。
+
+**牌子**　約翰說牌子用希伯來、羅馬、希利尼三樣文字寫成（約 19:20），許多猶太人念了。
+
+**時辰**　馬可標出三個時間：巳初釘十字架（可 15:25，約上午九時），午正遍地黑暗（15:33，正午），申初祂喊叫（15:34，約下午三時）。約翰 19:14 記彼拉多審判祂時「約有午正」，與馬可的「巳初」看來不同；解經者有多種解釋（例如計時法不同），本書不替讀者定案。
+
+**日子**　那天是預備日（約 19:31；可 15:42），次日的安息日是個「大日」（約 19:31）。猶太人要求打斷犯人的腿，好讓屍首不留在十字架上過安息日。
+
+**三處記載的差異**　馬太、馬可說兩個強盜都譏誚祂（太 27:44；可 15:32），路加記下其中一個譏誚、一個求祂記念（路 23:39-42）；路加把幔子裂開記在祂斷氣之前（23:45），馬太、馬可記在斷氣之後（太 27:50-51；可 15:37-38）。四福音各取所記，本書如實並陳，不強行調和。
+
+### 七言在四福音裏的分布
+
+「十架七言」是教會把四福音的零散記載按先後編成的傳統名稱，聖經沒有這個名字。逐句歸屬如下：
+
+| 序 | 話語 | 記在 | 對象 |
+|---|---|---|---|
+| 一 | 父啊！赦免他們；因為他們所做的，他們不曉得 | 路 23:34 | 向父，為釘祂的人 |
+| 二 | 我實在告訴你，今日你要同我在樂園裏了 | 路 23:43 | 向悔改的強盜 |
+| 三 | 母親，看，你的兒子！……看，你的母親！ | 約 19:26-27 | 向母親與愛徒 |
+| 四 | 我的神！我的神！為甚麼離棄我？ | 太 27:46；可 15:34 | 向神，引詩 22:1 |
+| 五 | 我渴了 | 約 19:28 | 向在場的人 |
+| 六 | 成了！ | 約 19:30 | 完成的宣告 |
+| 七 | 父啊！我將我的靈魂交在你手裏 | 路 23:46 | 向父，引詩 31:5 |
+
+馬太與馬可只記第四言（兩卷記的音不同：馬太作「以利」，馬可作「以羅伊」）；路加記三句，約翰記三句。四福音沒有一卷把七句都記下來。
 
 ---
 
 ## 原文研讀 (Word Study)
 
-| 希臘文 | 音譯 | 意義 | 經文 |
-|--------|------|------|------|
-| σταυρός | stauros | 十字架 | 約19:17 |
-| Γολγοθᾶ | Golgotha | 各各他（髑髏地） | 約19:17 |
-| τετέλεσται | tetelestai | 成了 | 約19:30 |
-| παραδίδωμι | paradidōmi | 交付 | 約19:30 |
-| καταπέτασμα | katapetasma | 幔子 | 太27:51 |
+| 希臘文 | 音譯 | 意義 | 註解 |
+|---|---|---|---|
+| τετέλεσται | *tetelestai* | 成了 | 約 19:28 與 19:30 各出現一次；完成式被動，指事已完成而結果持續 |
+| διψῶ | *dipsō* | 我渴了 | 約 19:28；與四章 14 節「永遠不渴」（μὴ διψήσει）同一字根 |
+| ἐγκατέλιπες | *enkatelipes* | 你離棄了 | 太 27:46，詩 22:1 的七十士譯本用字 |
+| ἀφῆκεν τὸ πνεῦμα | *aphēken to pneuma* | 交出了靈 | 太 27:50；字面是「讓靈離去」，主詞是祂自己 |
+| παρέδωκεν τὸ πνεῦμα | *paredōken to pneuma* | 交付了靈 | 約 19:30；同一個動詞用於把耶穌「交」給人（約 19:16） |
+| ἐσχίσθη | *eschisthē* | 裂開了 | 太 27:51；被動語態，動作的主詞沒有說出來 |
+| καταπέτασμα | *katapetasma* | 幔子 | 太 27:51；可 15:38；路 23:45 |
+| παράδεισος | *paradeisos* | 樂園 | 路 23:43；波斯語借詞，原指園囿；七十士譯本用以稱伊甸園 |
 
-### 「成了」(Τετέλεσται)
+### 「成了」不是收據
 
-這是希臘文完成式，有三重含義：
-
-| 場合 | 用法 |
-|------|------|
-| 商業 | 債務「付清了」 |
-| 法律 | 刑罰「執行完畢了」 |
-| 祭祀 | 獻祭「完成了」 |
-
-耶穌說「成了」，宣告：
-- 罪債付清
-- 刑罰執行完畢
-- 完美的祭已經獻上
-
-### 幔子裂開
-
-聖殿的幔子（隔開聖所與至聖所）約60呎高、30呎寬、4吋厚——「從上到下」裂開，表明這是神的作為，不是人為。
+τετέλεσται 出現兩次：約 19:28「各樣的事已經成了」，約 19:30「成了」。前一次是祂知道，後一次是祂宣告，兩次之間只隔著一口醋。坊間常說這個字是古代收據上「付清了」的商業用語，這個說法證據不足；本系列《約翰福音》第十九章的〈校訂註〉已經說明，本書不採。這個字不需要借來的背景：它是完成式，意思是**已經走到它該到的地方，並且停在那裏**。
 
 ---
 
-## 解經洞見 (Commentary)
+## 領受要點 (Truths Received)
 
-### John MacArthur 論「我的神，為甚麼離棄我？」
+### 1. 七句話，聽的人各不相同
 
-> 「這是十架上最深奧的話語。耶穌不是引用詩篇22篇作詩意的感嘆，而是真實經歷與父的隔絕。從永恆以來與父完美合一的聖子，此刻經歷了父『離棄』的滋味——因為祂承擔了我們的罪。『神使那無罪的替我們成為罪』（林後5:21）。這不是表演；這是真實的。聖潔的神無法與罪同在，而耶穌成為了罪。這隔絕只持續了幾個小時，但對耶穌來說，那是比肉體痛苦更難以承受的地獄。」
-> — John MacArthur, *The MacArthur New Testament Commentary: Matthew 24-28*
+路加記下的聽眾是釘祂的兵丁與同釘的強盜；約翰記下的是站在十字架旁的母親與「祂所愛的那門徒」；馬太與馬可記下的，則是一群**聽錯了**的人——他們把「以利」聽成「以利亞」，說「且等著，看以利亞來救他不來」（太 27:47-49）。近處的人聽見了祂最溫柔的話，最重的那一句反倒被聽成了別的事。
 
-### G. Campbell Morgan 論幔子裂開
+### 2. 同一個詞，三種人說了三次
 
-> 「幔子從上到下裂開——這是神的手從天上撕開的。意義是明確的：進入至聖所的路打開了。從前只有大祭司一年一次可以進入的至聖所，現在對所有人敞開。希伯來書說得清楚：『我們既然...得以坦然進入至聖所，是藉着耶穌的血...是藉着祂給我們開了一條又新又活的路，從幔子經過。』（來10:19-20）那幔子代表基督的身體；祂的身體被撕裂，路就打開了。」
-> — G. Campbell Morgan, *The Gospel According to Matthew*
+路加 23:35-39 裏，「救自己」出現三次：官府說「可以救自己吧」，兵丁說「你若是猶太人的王，可以救自己吧」，同釘的犯人說「可以救自己和我們吧」。三種人，三個位置，同一個詞，同一個前提：他們都認定，能救人的必定先救自己。約翰 19:11 記祂對彼拉多說：「若不是從上頭賜給你的，你就毫無權柄辦我。」不救自己，不是做不到。
 
----
+### 3. 祂被關在外面，我們被請進去
 
-## 領受與亮光 (Light Received)
+太 27:45-46 的次序是：黑暗三個小時，然後那一聲呼喊——這是祂被擋在外面的一刻。太 27:50-51 的次序是：祂交出了靈，然後幔子裂開——這是路被打開的一刻。兩件事相連、方向相反：祂在外面承受的，換來了我們在裏面的位置（來 10:19-20）。呼喊裏仍然說「我的神」，仍然是禱告。
 
-### 1. 十架七言的領受
+### 4. 站在十字架下的人
 
-| 話語 | 指向 |
-|------|------|
-| 赦免他們 | 恩典——為仇敵禱告 |
-| 今日在樂園 | 救恩——臨終悔改有效 |
-| 看你的母親 | 人性——照顧家人 |
-| 為甚麼離棄我 | 代贖——承擔罪的刑罰 |
-| 我渴了 | 人性——真實的受苦 |
-| 成了 | 完成——救贖大功告成 |
-| 將靈魂交付 | 順服——主動捨命 |
-
-### 2. 詩篇22篇的應驗
-
-| 詩篇22篇 | 應驗 |
-|---------|------|
-| 「我的神，為甚麼離棄我？」(1節) | 太27:46 |
-| 「凡看見我的都嗤笑我」(7節) | 太27:39 |
-| 「他們分我的外衣」(18節) | 約19:24 |
-| 「我的骨頭都脫了節」(14節) | 釘十字架的描述 |
-| 「他們扎了我的手、我的腳」(16節) | 釘子 |
-
-大衛在主前1000年寫的詩篇，精確描述了主後30年的十字架。
-
-### 3. 幔子裂開的意義
-
-| 舊約 | 新約 |
-|------|------|
-| 幔子隔開神與人 | 幔子裂開，路打開 |
-| 只有大祭司進入 | 所有信徒可進入 |
-| 一年一次 | 隨時可進 |
-| 靠動物的血 | 靠基督的血 |
-
-### 4. 百夫長的認信
-
-> 「這真是神的兒子！」(太27:54)
-
-這外邦軍官的認信，預表將來萬國歸主——福音從猶太人傳到外邦人。
+百夫長說「神的兒子」（太 27:54；可 15:39）、「義人」（路 23:47）；一個強盜說「求你記念我」（路 23:42）；一群婦女遠遠地站著，從加利利跟隨祂到此（可 15:40-41）；四福音只有約翰記下一位門徒站在十字架旁邊（約 19:26）。每一個人說出口的話都不一樣，各自只說出自己看見的那一小塊。
 
 ---
 
-## 個人反思 (Personal Reflection)
+## 歷代注疏 (Historical Commentary)
 
-1. **你明白「成了」的意義嗎？** 救恩已經完成，不需要你添加甚麼。你是否還在試圖靠行為賺取？
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，取自本系列《馬可福音》《路加福音》《約翰福音》同段章節已核校的條目，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
 
-2. **幔子已經裂開**：你是否「坦然無懼」地進入神面前（來4:16），還是仍活在隔絕中？
+### 教父時期
 
-3. **十架上的強盜**：臨終悔改有效——但你敢等到最後一刻嗎？今天就是悔改的日子。
+**屈梭多模 (John Chrysostom, c. 349-407)**：
 
-4. **「為甚麼離棄我？」** 耶穌經歷被離棄，使你永不被離棄。這給你的苦難帶來甚麼盼望？
+**那黑暗不是日蝕——時間長度就是證據**：屈梭多模用一個天文常識拆穿自然主義的解釋。
 
----
+> "For that it was not an eclipse, but both wrath and indignation, is not hence alone manifest, but also by the time, for it continued three hours, but an eclipse takes place in one moment of time"
+>
+> 這並非日蝕，而是忿怒與義怒的彰顯——這一點不單從別處可見，也從時間看得出來：它持續了三個小時，而日蝕只發生在一瞬之間。
 
-## 重要事件深度啟示：架上七言完整解讀 (Key Event Deep Revelation: The Seven Sayings)
+**一聲喊，撕開三樣東西**：
 
-> 從上午 9 時到下午 3 時，整整六小時，耶穌只說了**七句話**。每一句都是聖靈藉著痛苦保留下來，要叫世世代代的人從這七句話聽見**全部福音**。
+> "This cry rent the veil, and opened the tombs, and made the house desolate"
+>
+> 這一聲呼喊撕裂了幔子，開了墳墓，使那殿成為荒涼。
 
-### 三組結構
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 88 (on Matt 27:45-50 and following), NPNF1-10
 
-**第一組（前 3 言）面向他人 — 黑暗未到之前的恩典**
-1. **饒恕之言**：「父啊，赦免他們」(路 23:34)
-2. **救恩之言**：「今日你要同我在樂園裏」(路 23:43)
-3. **託付之言**：「看你的兒子 / 看你的母親」(約 19:26-27)
+**奧古斯丁 (Augustine, 354-430)**：
 
-**第二組（中間 1 言）面向父神 — 黑暗中的吶喊**
+> "He received it, and said, 'It is finished;' and, bowing His head, gave up the ghost. **You see His power of dying, that He waited for this—until all things should be fulfilled that had been foretold concerning Him—to take place before His death.**"
+>
+> 「祂受了那醋，就說：『成了』；便低下頭，將靈魂交付了。**你看見祂捨命的權柄了——祂一直等候，直等到凡指著祂所預言的都應驗了，然後才死。**」
+>
+> — Augustine, *Tractates on John*, **Tractate XXXI**（論約 7 章，引及十架），NPNF1-07
 
-4. **棄絕之言**：「我的神！我的神！為甚麼離棄我」(太 27:46)
+### 改革宗時期
 
-**第三組（後 3 言）走向完成 — 黑暗過後的勝利**
+**約翰·加爾文 (John Calvin, 1509-1564)**：
 
-5. **肉身之言**：「我渴了」(約 19:28)
-6. **完成之言**：「成了！」(約 19:30)
-7. **交付之言**：「父啊，我將我的靈魂交在祢手裏」(路 23:46)
+**十字架上受苦的，不只是身體**：論「我的神，為甚麼離棄我」，加爾文堅決反對把它讀淺；他點名批評只看外在肉身之刑的解經者。
 
-整體形狀：**從外到內，再從內到外** — 從關懷他人，到深入與父神的爭戰，再走出來完成救恩。
+> "For not only did he offer his body as the price of our reconciliation with God, but in his soul also he endured the punishments due to us"
+>
+> 因為祂不僅獻上自己的身體，作為我們與神和好的代價；在祂的靈魂裏，祂也承擔了我們本該承受的刑罰。
 
----
+**離棄是真的，信心也是真的**：加爾文同時守住另一邊——這不是絕望的呼喊。
 
-### 第一言：饒恕
+> "still in his heart faith remained firm"
+>
+> 在祂心裏，信心仍然堅定不移。
 
-> 「父啊，赦免他們！因為他們所做的，他們不知道。」
+> — John Calvin, *Commentary on a Harmony of the Evangelists*（Pringle 英譯，1845-46；太 27:46／可 15:34 段）
 
-**第一句話**——在手腳被釘那一刻所說。
-不是咒詛，不是抗議。**是禱告。是饒恕。是代求**。
+### 摩根 (G. Campbell Morgan)
 
-「他們」是誰？兵丁、宗教領袖、群眾、猶大、彼得、所有逃跑的門徒——**也是 2000 年來每一個因罪而參與釘祂十架的我和你**。
+摩根論馬可福音 15 章，整篇講章掛在譏誚者的那一句話上：「他救了別人，不能救自己」（15:31）。
 
-**這句話奠定了基督教的核心倫理：饒恕**。
+> "they declared, all unwittingly, the supreme and central truth concerning Him: 'He saved others; Himself He cannot save.'"
+>
+> 他們渾然不覺地，說出了關於祂至高而中心的真理：「他救了別人，不能救自己。」
 
----
+> "He was strong enough to be weak enough to die."
+>
+> 祂剛強到一個地步，能夠軟弱到足以死去。
 
-### 第二言：救恩
+> "He could not save Himself. Therefore He can save others."
+>
+> 祂不能救自己。所以祂能救別人。
 
-> 「我實在告訴你，今日你要同我在樂園裏了。」
+> — G. Campbell Morgan, *The Gospel According to Mark*（1927），可 15:1-32 講章
 
-最簡潔的福音宣告——
-強盜**沒受洗、沒守聖餐、沒做善工、沒時間悔改**。他只說：「**主啊，記念我**」。
+論路加福音，摩根追問「父啊，赦免他們」這句禱告成就到甚麼地步，答案毫不遲疑：
 
-耶穌的回答**超越他所求**：
-- 他求「**將來**」 → 主應「**今日**」
-- 他求「**記念**」 → 主應「**同在樂園**」
+> "I cannot listen to that first cry coming out of the perfected humanity of Jesus, and therefore revealing the deepest will and purpose and passion of God, without being perfectly certain that it was heard, that it was answered, and that there was forgiveness for all men."
+>
+> 我聽見這第一聲呼求從耶穌那完全的人性裏發出，因而顯明神最深的心意、目的與熱情——我無法不完全確信：這禱告蒙垂聽了，蒙應允了，赦免是為著萬人預備的。
 
-**奧古斯丁**：「一個臨終悔改的，免得我們絕望；只有一個臨終悔改的，免得我們驕傲。」
+> — G. Campbell Morgan, *The Gospel According to Luke*（論路 23:1-12、23:26-38；引文於 2026 年 8 月逐字核校全書文本）
 
----
+### 麥克阿瑟 (John MacArthur)
 
-### 第三言：託付
+**黑暗不是神走了，是神來了**：這是他對午正那三小時最反直覺、也最有分量的一句。
 
-> 「母親，看，你的兒子！...看，你的母親！」
+> "The darkness is not the absence of God, it is the presence of God."
+>
+> 那黑暗不是神的缺席，乃是神的同在。（41-82）
 
-**新家庭的雛形**——肉身的母子關係轉換為**屬靈的母子關係**。
-**信主的就是兄弟姐妹**。教會在十字架腳下誕生。
+**幔子裂開：一個體系就此終結**：
 
----
+> "It's the end of the high priesthood; it's the end of the Levitical priesthood. It's the end of the sacrificial system."
+>
+> 這是大祭司職分的終結，是利未祭司職分的終結，也是整個獻祭體系的終結。（41-82）
 
-### 黑暗降臨（中午 12 時 - 下午 3 時）
+> — John MacArthur, *God Visits Calvary* (sermon 41-82), gty.org
 
-> 「從午正到申初，遍地都黑暗了」（太 27:45）
+論路加 23:46「父啊！我將我的靈魂交在你手裏」，他指出那是詩篇 31:5 的禱告，加上了一個稱呼「父」：
 
-**超自然的黑暗**——大自然在見證**世界的光被拒絕**。
-這三小時內，神的兒子承擔人類所有的罪——而**父神的審判之眼必須轉開**。
-**這是地獄**。基督在這三小時內**經歷了地獄**——好叫信祂的人永遠不必經歷地獄。
+> "Jesus is the perfect, sinless, righteous sufferer who in death expresses perfect trust in His Father’s love and promise to receive Him."
+>
+> 耶穌就是那位完全的、無罪的、公義的受苦者；祂在死亡之中，向父的慈愛與接納祂的應許，表達了全然的信靠。
 
----
-
-### 第四言：棄絕（最深的吶喊）
-
-> 「我的神！我的神！為甚麼離棄我？」
-
-**唯一不稱「父」而稱「神」**的一言。
-祂成了罪本身（林後 5:21）；擔當了詛咒（加 3:13）；飲下了忿怒的杯。
-這是**整本聖經中最深的吶喊**——也是**最深的代贖**。
-
-引用**詩篇 22:1**——詩 22 整篇是基督被釘的鏡像：手腳被扎、骨頭可數、衣裳被分。詩篇後半段是**勝利的宣告**——希伯來文最後是 *kī ʿāśâh* = 「**祂成了**」（與 19:30 同根）。
-
-**第四言不是絕望的吶喊，是已知結局的痛苦**——祂正穿過深淵，但**祂知道彼岸**。
-
----
-
-### 第五言：肉身
-
-> 「我渴了。」
-
-**真實的肉身** — 駁斥幻影論。**祂真的渴了**。
-**應驗詩篇** — 詩 22:15；詩 69:21。
-**諷刺對比** — 賜活水的祂自己渴了，**為要人類永不渴**。
-
-牛膝草 (出 12:22 逾越節羔羊的血用牛膝草塗門框) — **塗血的工具**送到神的羔羊口邊。
+> — John MacArthur, *"The King Crucified: Consummation at Calvary"*（論路 23:44-46），gty.org, sermon 42-288
 
 ---
 
-### 第六言：成了！(Tetelestai)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**Τετέλεσται** — 完成式被動，意思是「**已經完成，並且效果永遠持續**」。
+### 詩篇 22:1, 7-8, 16, 18
 
-**這字在當時的日常用語中**：
-- 僕人完工：「任務完成了」
-- 大祭司獻完祭：「祭已獻完，神接納了」
-- 藝術家完工：「作品成了」
-- 商人收款：「債已還清」
-- 皇帝征服城門：「勝利了」
+> ^1^我的神，我的神！為甚麼離棄我？為甚麼遠離不救我？不聽我唉哼的言語？ \
+> ^7^凡看見我的都嗤笑我；他們撇嘴搖頭，說：^8^他把自己交託耶和華，耶和華可以救他吧！耶和華既喜悅他，可以搭救他吧！ \
+> ^16^犬類圍著我，惡黨環繞我；他們扎了我的手，我的腳。 \
+> ^18^他們分我的外衣，為我的裏衣拈鬮。
 
-每一用法都應驗在十字架上：
-- 父交給子的救贖之工**完成了**
-- 永遠的贖罪祭已**獻上**
-- 罪債**全付清了**
-- 撒但和死亡**被擊敗了**
+### 詩篇 22:27-28
 
-**「成了」不是「我完了」——是「我成功了」。**
+> ^27^地的四極都要想念耶和華，並且歸順他；列國的萬族都要在你面前敬拜。^28^因為國權是耶和華的；他是管理萬國的。
 
-從亞當墮落起，神的計劃指向這一句。
-從亞伯拉罕應許起，神的拯救指向這一句。
-**整本聖經的中心句**。
+這篇詩從第 22 節起轉了向，由呼求變成頌讚，一路寫到列國。福音書記下的，是祂喊出的第一節。
 
----
+### 詩篇 69:21
 
-### 第七言：交付
+> ^21^他們拿苦膽給我當食物；我渴了，他們拿醋給我喝。
 
-> 「父啊，我將我的靈魂交在祢手裏。」
+這節與太 27:34, 48 及約 19:28-29 的醋、渴相通；新約沒有明說「應驗」，列為呼應。
 
-**重新稱「父」** — 父子關係立刻恢復。罪已被除盡，通往父的道路重新打開。
-引用**詩篇 31:5** — 敬虔猶太兒童每晚就寢前的禱告。
-**祂用一個孩子睡前的禱告作為祂最後的話**。
+### Rock of Ages（萬古磐石）
 
-**主動的最後宣告** —「沒有人奪我的命，是我自己捨的」(約 10:18)。
-**祂主動把靈魂交還父神**。
-
----
-
-### 七言所完成的「五大救贖」
-
-| 救贖 | 七言 |
-|---|---|
-| 罪得赦免 | 第一言 + 第六言 |
-| 人神和好 | 第四言 + 殿幔裂開 |
-| 撒但被破 | 第六言 (來 2:14) |
-| 死亡被勝 | 第七言 (預備復活) |
-| 新群體誕生 | 第三言 (馬利亞與約翰) |
+> *Augustus M. Toplady, 1776*
+>
+> Rock of Ages, cleft for me, \
+> Let me hide myself in Thee; \
+> Let the water and the blood, \
+> From Thy wounded side which flowed, \
+> Be of sin the double cure; \
+> Save from wrath and make me pure.
+>
+> 萬古磐石，為我裂開， \
+> 容我藏身在你裏面； \
+> 願那從你受傷的肋旁流出的水與血， \
+> 作我罪的雙重醫治——救我脫離忿怒，使我潔淨。（編者譯）
 
 ---
 
-### 死時的記號
+## 老弟兄查經 (Reading with the Elder Brother)
 
-| 記號 | 意義 |
-|---|---|
-| 殿幔從上到下裂為兩半 | 通往神的道路打開；舊聖殿時代結束 |
-| 地震、磐石崩裂 | 大自然見證宇宙性事件 |
-| 墳墓開了，聖徒復活 | 死亡的權勢開始崩潰 |
-| 百夫長認信「這真是神的兒子」 | 第一個外邦人認信 |
-
----
-
-### 從十字架反觀整個基督生平
-
-讀完七言，再看基督的生平：**整個基督生平的全部能量，聚焦在這六小時。整個基督生平的全部意義，由這七言宣告。**
-
-- 道成肉身 — 為了**這一刻**
-- 30 年隱藏 — 為了**這一刻**
-- 受洗認同罪人 — 為了**這一刻**
-- 40 天試探 — 為了**這一刻**
-- 五餅二魚 — 為了**這一刻**
-- 變像 — 為了**這一刻**
-- 客西馬尼 — 為了**這一刻**
-
----
-
-## 配詩 (Hymns & Psalms)
-
-**聖詩**：*When I Survey the Wondrous Cross* (每逢思想奇妙十架)
-
-> See from His head, His hands, His feet,
-> Sorrow and love flow mingled down!
-> Did e'er such love and sorrow meet,
-> Or thorns compose so rich a crown?
-
-> Were the whole realm of nature mine,
-> That were a present far too small;
-> Love so amazing, so divine,
-> Demands my soul, my life, my all.
-
-**詩篇**：詩篇 22:1, 31
-
-> 我的神，我的神！為甚麼離棄我？
-> ...
-> 他們必來把祂的公義傳給將要生的民，說祂所行的事。
-
----
-
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+**精義一句話**（方法性撮述，非逐字語錄）：這個下午沒有一件事是意外——分衣、乾渴、醋、不折斷的骨頭、被扎的肋旁，每一件經上早已寫好；而祂在一切都到了點上之後，才低下頭，親手把靈魂交出去。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：詩 22 與賽 53 的應驗。分外衣、被戲笑、扎手腳（詩 22:1、7、16、18），為罪人代死、與罪犯同列（賽 53:5、12），字字成就在十架上。「神的羔羊，除去世人罪孽的」（約 1:29）在此完工——那一聲「成了」（τετέλεσται）是得勝的宣告。
+**贖罪日的線（利未記→希伯來書→啟示錄）**：利 16:34 規定贖罪「要一年一次」，大祭司獨自帶血進幔子內。希伯來書把這條線收在十字架上：基督「不用山羊和牛犢的血，乃用自己的血，只一次進入聖所，成了永遠贖罪的事」（來 9:12），所以「我們既因耶穌的血得以坦然進入至聖所，是藉著他給我們開了一條又新又活的路，從幔子經過，這幔子就是他的身體」（來 10:19-20）。啟 5:6 把這條線帶到天上：「長老之中有羔羊站立，像是被殺過的」——傷痕還在，人卻站著。（新約指認）
+
+**受苦僕人的線（以賽亞書→路加福音→啟示錄）**：賽 53:12 說「他也被列在罪犯之中」；耶穌在樓上自己指認：「經上寫著說：『他被列在罪犯之中。』這話必應驗在我身上」（路 22:37）；到了十字架，祂在兩個人中間，一邊一個（約 19:18）。本系列《以賽亞書》卷首說，第 6 章寶座上的聖者與第 53 章被鞭傷的僕人，是同一位主的兩幅畫像。本系列《啟示錄》卷首則數出：「羔羊」作為基督的稱號，在啟示錄裏出現二十八次。（新約指認）
+
+**逾越節羊羔的線（出埃及記→約翰福音→啟示錄）**：約翰一路都放著逾越節的影子：施洗約翰初見祂就說「看哪，神的羔羊，除去世人罪孽的」（約 1:29）；受審那一天「是預備逾越節的日子」（19:14）；兵丁不打斷祂的腿，約翰說這是要應驗「他的骨頭一根也不可折斷」（19:36，出 12:46 論逾越節羊羔）。海綿綁在牛膝草上，與出 12:22 蘸血用的牛膝草相呼應，這一條是編者對照，約翰沒有明說。這條線的終點是啟 5:9 的新歌：「你曾被殺，用自己的血從各族、各方、各民、各國中買了人來，叫他們歸於神。」
+
+**被棄與高舉的線（詩篇→使徒行傳→啟示錄）**：詩 22 的「為甚麼離棄我」之後，是詩 118:22「匠人所棄的石頭已成了房角的頭塊石頭」；耶穌自己引這節（太 21:42），彼得也引這節（徒 4:11）。本系列《詩篇》卷首的結論是：受膏者要先被棄，才被高舉。啟 7:9 站在寶座和羔羊面前的，是「從各國、各族、各民、各方來的」——詩 22:27 的列國，在這裏有了名單。
 
 ### 提問式對話 (Let the Reader Speak)
 
-黃長老不急著給答案，他一層一層地問：
+老弟兄不急著給答案，他一層一層地問（以下是依其問法編寫的問題，非逐字語錄）：
 
-- 先問：「『成了』這句話，是失敗的呻吟，還是得勝的宣告？」
-- 再問：「『成了』是甚麼成了？（救贖大功、罪債一次付清）」
-- 追問：「詩篇 22、以賽亞 53 寫在數百上千年前，怎麼會與十架的細節一一吻合？」
-- 落到自己：「既然祂都『成了』，你還想加上自己的甚麼功勞，來換取救恩？」
+- 先問：路加 23:35-39 裏有三次「救自己」，各是誰說的？同一個詞，三種人，各自的前提是甚麼？
+- 再問：約 19:28-30 的次序是：知道各樣的事已經成了、說「我渴了」、說「成了」、低下頭。誰決定這件事甚麼時候結束？彼拉多以為自己有權柄（19:10），祂怎麼回答（19:11）？
+- 追問：馬太與馬可記旁人把「以利」聽成「以利亞」。今天我們把十字架聽成了另一件熟悉的事，那是甚麼事？
+- 落到自己：官府、兵丁、強盜、百夫長、遠遠站著的婦女、站在近旁的母親與愛徒——你若在十字架下，你站在哪一個位置？
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天的人活在無休止的「自我證明」裏——靠成績、靠表現、靠別人的肯定來換取價值，永遠覺得「還不夠」。十架卻喊出一句「成了」：該付的，主全付了；該做的，主全做了。在一個逼人不停證明自己的時代，你肯不肯安息在「成了」裏？
+今天的系統擅長替人止損：少看的內容不再推，不合的人被隔開，承擔風險的人被算成成本。十字架下三次聽到的「救自己」，放到今天，就是止損的邏輯。祂把這條邏輯倒了過來：能止損的，沒有止損。
 
 ### 今天的祭壇 (Today's Altar)
 
-- **早晨**：默想「成了」二字，今天不靠表現去賺神的接納，而是從「已被接納」出發。
-- **晚上**：今天我有沒有又落回「靠自己證明、靠功勞換愛」的老路？
-- **一個行動**：今天停止一個「靠表現換肯定」的努力，單單安息在主已成就的恩典裏。
+- **早晨**：把今天一個「想保全自己」的決定，擺在十字架前，問祂：這件事上，我要救的是誰？
+- **晚上**：回想今天，有沒有哪一刻你說了一句「我渴了」，而不是假裝不需要？
+- **一個行動**：為一個讓你受過傷的人，用一句話禱告：父啊，赦免他。
+
+**你看見耶穌了嗎？** 官府、兵丁、強盜，每一個人都對祂喊「救自己」；那位真能救自己的，沒有救自己。祂還掛在十字架上的時候，為兵丁求赦免，給強盜一個「今日」，給母親一個兒子，說出「成了」，再把靈魂交給父。你看見的，是那位在每一個人向祂喊「救自己」的時候，仍然一個一個去救別人的主。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 生命應用 (Application)
 
-**一句話精義**：那一聲「成了」（τετέλεσται）不是斷氣的呻吟，是得勝的宣告——救贖大功，一次完成。
+### 默想問題
 
-**貫通全經**：詩22與賽53每一筆（分外衣、扎手腳、與罪犯同列）字字應驗；「神的羔羊除去世人的罪孽」（約1:29）。
+1. **我渴了**（約 19:28）：祂把自己的乾渴說了出口。你向人說出過「我需要」嗎？承認需要，對你比擔當更難，還是更容易？
+2. **遠遠地站著**（可 15:40-41；路 23:49）：婦女們從加利利跟祂到這裏，卻只能站在遠處看。你今天跟隨祂，是站在近旁，還是仍然站在遠處？
+3. **接到自己家裏**（約 19:27）：祂把母親交給愛徒，愛徒就接她到自己家裏。祂有沒有把一個人，交在你的手上？
 
-**無法迴避的問題**：「『成了』——既然祂都成了，你還想加上自己的甚麼功勞，來換取救恩？」
+### 禱告回應
 
-> 「τετέλεσται 在希臘原文是商業用詞——『paid in full／全額付清』。古代債主在付清的借據上寫這個字。十字架上那一聲，是父神在你罪的借據上蓋的章。」
+> 主耶穌，你在十字架上說「成了」。
+> 求你叫我不再替你的工作補一筆，
+> 也不再替自己的失敗找藉口。
+> 你不救自己，是為了救我；
+> 求你教我認出，那一天站在十字架下的每一個位置，
+> 我都曾站過。阿們。
 
 ---
 
-## 回應禱告 (A Prayer to Pray)
+## 與其他經文的關聯
 
-> 主耶穌，祢在十架上喊「成了」—該付的祢全付了。求祢叫我不再靠自己的表現去賺取祢的接納，乃安息在祢已成就的恩典裏；我把一切重擔交給那位為我成就一切的主。阿們。
-
----
-
-*三書精讀項目 · 耶穌基督完整生平 · 第三十章*
+| 主題 | 本章經文 | 相關經文 |
+|---|---|---|
+| 為甚麼離棄我 | 太 27:46；可 15:34 | 詩 22:1 |
+| 分衣拈鬮 | 約 19:23-24 | 詩 22:18 |
+| 列在罪犯之中 | 太 27:38；可 15:27；路 23:33 | 賽 53:12；路 22:37 |
+| 骨頭一根不折 | 約 19:33, 36 | 出 12:46 |
+| 仰望所扎的 | 約 19:34, 37 | 亞 12:10 |
+| 渴 | 約 19:28 | 詩 69:21；約 4:14 |
+| 黑暗 | 太 27:45 | 摩 8:9 |
+| 幔子裂開 | 太 27:51；可 15:38；路 23:45 | 利 16；來 9:12；來 10:19-20 |
+| 交託靈魂 | 路 23:46 | 詩 31:5 |
+| 受咒詛 | 約 19:31 | 加 3:13；申 21:23 |
+| 羔羊 | 約 19:14, 36 | 約 1:29；啟 5:6, 9 |

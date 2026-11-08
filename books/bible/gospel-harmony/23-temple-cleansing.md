@@ -1,225 +1,332 @@
 ---
-title: 潔淨聖殿
-subtitle: Cleansing the Temple
-chapter: 23
-scripture: 馬太福音 21:12-17; 馬可福音 11:15-19; 路加福音 19:45-48
+title: 耶穌基督完整生平
+subtitle: The Complete Life of Jesus Christ
+author: PubHub 三書精讀系統
+date: 2026年11月
+publisher: 三書精讀出版系統
 ---
 
-# 潔淨聖殿 (Cleansing the Temple)
+# 第二次潔淨聖殿 (The Second Cleansing of the Temple)
 
-馬太福音 21:12-17; 馬可福音 11:15-19
+馬太福音 21:12-17；馬可福音 11:15-19；路加福音 19:45-48
+
+**經文核對**：[ai-eden.com/bible/matthew/21](https://www.ai-eden.com/bible/matthew/21?t=CUV,NASB&cols=2)、[ai-eden.com/bible/mark/11](https://www.ai-eden.com/bible/mark/11?t=CUV,NASB&cols=2)、[ai-eden.com/bible/luke/19](https://www.ai-eden.com/bible/luke/19?t=CUV,NASB&cols=2)
 
 ## 基督焦點 (Christ at the Center)
 
-受難週的潔淨聖殿，主角不是做買賣的商販，而是那位以「我的殿要稱為禱告的殿」宣告主權的主。從祂的角度讀，瑪拉基所預言「你們所尋求的主，必忽然進入祂的殿」在此應驗；祂以審判者的身分潔淨父的家，又在殿裏醫治瞎子瘸子、接納孩童的讚美——真正的敬拜要歸回那位殿的主人。
+> **本章鑰詞：我的殿 My House** \
+> **生平座標**：第 23 站／共 37 站 · 卷六「定意上耶路撒冷」· 逾越節前的受難週，年代有爭論（約主後 30–33 年） \
+> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 4 段——騎驢進了城，這一段裏祂進了殿：第一件事不是登基，是翻桌子，並且說「我的殿」。 \
+> （全書骨幹見卷首《神的總計劃》）
+
+路加 9:51 說祂「定意向耶路撒冷去」；本卷從榮耀的山走下來，騎驢進城，這一站是進城之後最醒目的動作。可是馬可記得很細：祂進城的第一天進了殿，只是「周圍看了各樣物件」，天色已晚就出城（可 11:11）；第二天才動手。路加更早一步：祂在橄欖山上先「看見城，就為它哀哭」（路 19:41），然後進殿。所以這不是一時的脾氣，是一個看過、哭過、才動手的人。
+
+動手的方式也有分寸：祂趕出做買賣的人，推倒桌子，不許人拿著器具從殿裏經過；然後，殿裏來了瞎子和瘸子，祂治好他們；孩子們喊「和散那歸於大衛的子孫」。同一座殿，祭司長聽見的是怒氣的理由，孩子聽見的是一位王。這一章要看的是：殿的主人回到自己的家，先清出地方，再把最遠的人接進來。
+
+---
+
+## 配詩 (Opening Hymn)
+
+> **O for a Heart to Praise My God** \
+> *Charles Wesley, 1742*
+>
+> A heart resigned, submissive, meek, \
+> My great Redeemer's throne, \
+> Where only Christ is heard to speak, \
+> Where Jesus reigns alone.
+>
+> 一顆順服、馴良、柔和的心， \
+> 是我偉大救贖主的寶座； \
+> 在那裏只聽見基督說話， \
+> 在那裏只有耶穌作王。（編者試譯）
 
 ---
 
 ## 經文 (Scripture)
 
-### 中文 — 和合本修訂版 (RCUV)
+### 中文 — 和合本 (CUV)
 
-> ^12^耶穌進了神的殿，趕出殿裏一切作買賣的人，推倒兌換銀錢之人的桌子和賣鴿子之人的凳子，^13^對他們說：<red>「經上記着：『我的殿要稱為禱告的殿』，你們倒使它成為『賊窩』了！」</red>
+**馬太福音 21:12-17**
 
-> ^14^在殿裏有失明的和瘸腿的到耶穌面前，祂就治好了他們。^15^祭司長和文士看見耶穌所做的奇事，又聽見孩子們在殿裏喊着說「和散那歸於大衛的子孫！」就很生氣，^16^對祂說：「他們說的這些話，祢聽見了嗎？」耶穌對他們說：<red>「是的。『祢從嬰孩和吃奶的口中得到了讚美』，這話你們沒有念過嗎？」</red>^17^於是離開他們，出城到伯大尼去，在那裏住宿。
+> ^12^耶穌進了神的殿，趕出殿裏一切做買賣的人，推倒兌換銀錢之人的桌子，和賣鴿子之人的凳子；^13^對他們說：\jesus{「經上記著說：我的殿必稱為禱告的殿，你們倒使他成為賊窩了。」}^14^在殿裏有瞎子、瘸子到耶穌跟前，他就治好了他們。^15^祭司長和文士看見耶穌所行的奇事，又見小孩子在殿裏喊著說：「和散那歸於大衛的子孫！」就甚惱怒，^16^對他說：「這些人所說的，你聽見了麼？」耶穌說：\jesus{「是的。經上說：你從嬰孩和吃奶的口中完全了讚美的話，你們沒有念過麼？」}^17^於是離開他們，出城到伯大尼去，在那裏住宿。
 
-#### 馬可福音 11:17 補充
+**馬可福音 11:15-19**
 
-> 「祂教導他們說：<red>『經上不是記着：我的殿要稱為萬國禱告的殿嗎？你們倒使它成為賊窩了！』</red>」
+> ^15^他們來到耶路撒冷。耶穌進入聖殿，趕出殿裏作買賣的人，推倒兌換銀錢之人的桌子，和賣鴿子之人的凳子；^16^也不許人拿著器具從殿裏經過；^17^便教訓他們說：\jesus{\textbf{「經上不是記著說：『我的殿必稱為萬國禱告的殿』麼？你們倒使他成為賊窩了。」}}^18^祭司長和文士聽見這話，就想法子要除滅耶穌，卻又怕他，因為眾人都希奇他的教訓。^19^每天晚上，耶穌出城去。
 
-### English — NKJV
+**路加福音 19:45-48**
 
-> ^12^Then Jesus went into the temple of God and drove out all those who bought and sold in the temple, and overturned the tables of the money changers and the seats of those who sold doves. ^13^And He said to them, <red>"It is written, 'My house shall be called a house of prayer,' but you have made it a 'den of thieves.'"</red>
+> ^45^耶穌進了殿，趕出裏頭做買賣的人，^46^對他們說：\jesus{「經上說：我的殿必作禱告的殿，你們倒使他成為賊窩了。」}^47^耶穌天天在殿裏教訓人。祭司長和文士與百姓的尊長都想要殺他，^48^但尋不出法子來，因為百姓都側耳聽他。
 
-> ^14^Then the blind and the lame came to Him in the temple, and He healed them. ^15^But when the chief priests and scribes saw the wonderful things that He did, and the children crying out in the temple and saying, "Hosanna to the Son of David!" they were indignant ^16^and said to Him, "Do You hear what these are saying?" And Jesus said to them, <red>"Yes. Have you never read, 'Out of the mouth of babes and nursing infants You have perfected praise'?"</red> ^17^Then He left them and went out of the city to Bethany, and He lodged there.
+### English — NASB
+
+**Matthew 21:12-17**
+
+> ^12^And Jesus entered the temple and drove out all those who were buying and selling in the temple, and overturned the tables of the money changers and the seats of those who were selling doves. ^13^And He said to them, \jesus{"It is written, 'MY HOUSE SHALL BE CALLED A HOUSE OF PRAYER'; but you are making it a ROBBERS' DEN."} ^14^And *the* blind and *the* lame came to Him in the temple, and He healed them. ^15^But when the chief priests and the scribes saw the wonderful things that He had done, and the children who were shouting in the temple, "Hosanna to the Son of David," they became indignant ^16^and said to Him, "Do You hear what these *children* are saying?" And Jesus said to them, \jesus{"Yes; have you never read, 'OUT OF THE MOUTH OF INFANTS AND NURSING BABIES YOU HAVE PREPARED PRAISE FOR YOURSELF'?"} ^17^And He left them and went out of the city to Bethany, and spent the night there.
+
+**Mark 11:15-19**
+
+> ^15^Then they came to Jerusalem. And He entered the temple and began to drive out those who were buying and selling in the temple, and overturned the tables of the money changers and the seats of those who were selling doves; ^16^and He would not permit anyone to carry merchandise through the temple. ^17^And He began to teach and say to them, \jesus{“Is it not written, ‘MY HOUSE SHALL BE CALLED A HOUSE OF PRAYER FOR ALL THE NATIONS’? But you have made it a ROBBERS’ DEN.”} ^18^The chief priests and the scribes heard this, and began seeking how to destroy Him; for they were afraid of Him, for the whole crowd was astonished at His teaching. ^19^When evening came, they would go out of the city.
+
+**Luke 19:45-48**
+
+> ^45^Jesus entered the temple and began to drive out those who were selling, ^46^saying to them, \jesus{“It is written, ‘AND MY HOUSE SHALL BE A HOUSE OF PRAYER,’ but you have made it a ROBBERS’ DEN.”} ^47^And He was teaching daily in the temple; but the chief priests and the scribes and the leading men among the people were trying to destroy Him, ^48^and they could not find anything that they might do, for all the people were hanging on to every word He said.
 
 ---
 
 ## 背景 (Context)
 
-### 兩次潔淨聖殿
+### 舊約的根
 
-約翰福音記載在耶穌事工開始時的潔淨聖殿（約2:13-22），對觀福音記載的是在受難週——這是兩次不同的事件：
+這一幕不是祂臨時想起的幾句經文。耶穌這次明引的兩處舊約，各自站在殿的一頭：一處講**誰該被請進來**，一處講**誰已經在裏面**。
 
-| 第一次（約2:13-22） | 第二次（太21:12-17） |
-|-------------------|-------------------|
-| 事工開始 | 事工結束（受難週） |
-| 「不要將我父的殿當作買賣的地方」 | 「你們倒使它成為賊窩」 |
-| 語氣較溫和 | 語氣更嚴厲 |
-| 用繩子趕走 | 推倒桌子凳子 |
+| 舊約 | 經文自己說的 | 福音書裏的接點 | 性質 |
+|------|--------------|----------------|------|
+| 賽 56:3-8 | 與耶和華聯合的外邦人和太監，神要「領他們到我的聖山，使他們在禱告我的殿中喜樂」（56:7） | 可 11:17 連「萬國」二字都引；太 21:13、路 19:46 引前半 | **直接**（耶穌明說「經上記著」） |
+| 耶 7:1-15 | 殿門口的講道：百姓倚靠「這些是耶和華的殿，是耶和華的殿，是耶和華的殿！」（7:4）；神問「這稱為我名下的殿在你們眼中豈可看為賊窩嗎？我都看見了」（7:11）；並以示羅為前例（7:12-14） | 太 21:13、可 11:17、路 19:46 的「賊窩」 | **直接** |
+| 詩 8:2 | 「你因敵人的緣故，從嬰孩和吃奶的口中，建立了能力，使仇敵和報仇的閉口無言」 | 太 21:16 | **直接** |
+| 瑪 3:1-3 | 「你們所尋求的主必忽然進入他的殿」；他要「潔淨利未人」 | 這三卷福音書在此都沒有引用 | **間接**（並讀） |
+| 亞 14:21 | 「當那日，在萬軍之耶和華的殿中必不再有迦南人」 | 福音書沒有引用；和合本譯「迦南人」，有些英文譯本譯作「商人」（trader） | **間接**（並讀） |
 
-### 聖殿買賣的問題
+賽 56 的上下文是：神的殿向外邦人敞開。所以可 11:17 保留「萬國」二字，不是修辭：商人佔據的是外邦人能到的那一片地方，被擠出去的是最遠的人。耶 7 的上下文則是另一種人：**不是不信的人，是把「這是耶和華的殿」當成保險單的人**。本系列《耶利米書》第五章（`books/bible/jeremiah/05-den-of-robbers.md`）把這兩處並讀，並提醒：福音書沒有點名耶利米，但「賊窩」是同一個詞；該書的骨幹是神的「留意」（שׁקד，見 `00b-watching-spine.md`），而耶 7:11 結尾那句「我都看見了」，與馬可「周圍看了各樣物件」放在一起讀，是並讀，不是福音書的引用。
 
-**外邦人院**：聖殿最外層的庭院，是外邦人唯一可以禱告的地方。祭司長允許商人在這裏設攤：
+瑪 3:1-3 的情形要說得更小心。本系列《瑪拉基書》第五章（`books/bible/malachi/05-the-messenger-of-the-covenant.md`）已指出：福音書引瑪 3:1 的，只有前半「我要差遣我的使者」，並且明說指的是施洗約翰（太 11:10、路 7:27）；後半「主必忽然進入他的殿」，把它讀成這次進殿，是加爾文與亨利的讀法，也是整本聖經的連線，不是瑪拉基書那一節自己點的名。這一章同樣只說：祂進的是那座殿，瑪 3:3 說煉淨的對象是「利未人」，而這一次動了殺機的，正是祭司長（可 11:18；路 19:47）——兩處並排放著，讀的人自己看。
 
-| 問題 | 說明 |
-|------|------|
-| 兌換銀錢 | 只能用推羅舍客勒繳納殿稅，兌換收取高額手續費 |
-| 賣祭物 | 外地來的牲畜常被判定「有瑕疵」，強迫購買殿內高價祭物 |
-| 剝削窮人 | 「賊窩」——搶劫後躲藏之地 |
-| 攔阻外邦人 | 喧鬧的市場使外邦人無法禱告 |
+### 殿裏的買賣，與當權的人
 
-### 亞那家族的利益
+**地點。**三卷福音書都只說「在殿裏」。希臘文用的是 ἱερόν，指整個聖殿區域，不是內殿（那是 ναός）。聖殿區域最外一層是外邦人能進的院子；再往內有一道欄牆，十九世紀在耶路撒冷出土過希臘文石碑，警告外邦人不得越過。保羅後來被控帶外邦人進殿，就是因為這條界線（徒 21:28）。買賣的確切位置，學者的推測不一（外邦人院，或附近的柱廊），經文沒有說，本書不替它定。
 
-大祭司亞那的家族控制聖殿商業，從中獲取暴利。據塔木德記載，這買賣被稱為「亞那的市場」(Bazaars of Annas)。
+**買賣的是甚麼。**兌換銀錢與賣鴿子。殿稅是律法的規定（出 30:13-16），須以指定的銀幣繳納，一般流通的錢要兌換；拉比文獻（《密西拿》）有專論殿稅的〈舍客勒篇〉。鴿子是窮人的祭牲：產後潔淨，窮人可以用斑鳩或雛鴿代替羊羔（利 12:8；馬利亞獻的就是這種，路 2:24）。所以這些桌子與凳子後面，不是中性的服務，是**窮人最少選擇的那一樣**。可 11:16 還有一個細節：有人拿著器具抄近路穿過聖殿——殿被當成通道。
+
+**當權的人。**祭司長與文士在三卷裏都出現。當時的大祭司是該亞法（任期約主後 18 至 36 年，據約瑟夫《猶太古史》）；祭司貴族多屬撒都該派。有些學者據拉比文獻中「哈南（亞那）之子的店鋪」一語，推測大祭司家族與殿中買賣有利益關係；這個推論有爭論，本書不採為定論。福音書自己給的反應很清楚：祭司長和文士聽見，「就想法子要除滅耶穌」（可 11:18；路 19:47）。
+
+### 第二次，還是同一次
+
+約翰福音 2:13-22 也記了一次潔淨聖殿，發生在祂事工之初，同樣是逾越節前。兩處的差別如下：
+
+| | 約翰福音 2:13-22（第七章） | 對觀福音（本章） |
+|---|---|---|
+| 時間 | 事工開始，第一個逾越節 | 受難週，祂被捕前不久 |
+| 祂說的話 | 「不要將我父的殿當做買賣的地方！」 | 「我的殿必稱為禱告的殿，你們倒使他成為賊窩了」 |
+| 動作 | 「拿繩子做成鞭子」，把牛羊趕出 | 趕出做買賣的人，推倒桌子與凳子 |
+| 之後 | 「你們拆毀這殿，我三日內要再建立起來」（2:19） | 瞎子瘸子被醫治；祭司長想法子除滅祂 |
+
+主流的調和是兩次；也有不少解經家認為只有一次，約翰為主題的緣故把它提到卷首。兩種讀法都不改變經文本身說的話。本書按兩次排：兩次相隔至少兩年（約翰福音提到的逾越節有三次：2:13；6:4；11:55），第一次「拆毀這殿」是謎語，第二次殿的管理者開始動手拆毀那位說這話的人。至於次序，馬太與路加把潔淨寫在騎驢進城的緊接之後，馬可在中間插進一夜與無花果樹（可 11:11-14）；本書依馬可的日程。無花果樹的咒詛夾在馬可的敘事中間（可 11:12-14、20-21），本章只標出，不展開。
 
 ---
 
 ## 原文研讀 (Word Study)
 
-| 希臘文 | 音譯 | 意義 | 經文 |
-|--------|------|------|------|
-| ἱερόν | hieron | 聖殿（整個建築群） | 太21:12 |
-| οἶκος προσευχῆς | oikos proseuchēs | 禱告的殿 | 太21:13 |
-| σπήλαιον λῃστῶν | spēlaion lēstōn | 賊窩 | 太21:13 |
-| καταστρέφω | katastrephō | 推倒/傾覆 | 太21:12 |
-
-### 「賊窩」的出處
-
-耶穌引用耶利米書7:11：「這稱為我名下的殿在你們眼中豈可看為賊窩嗎？」
-
-耶利米的上下文是神審判假冒為善的敬拜——百姓犯各樣罪，卻以為進入聖殿就安全了。耶穌說同樣的審判即將臨到這一代。
-
-### 「萬國禱告的殿」
-
-馬可特別記載「萬國禱告的殿」(πᾶσιν τοῖς ἔθνεσιν)，引用以賽亞書56:7。商人佔據外邦人院，攔阻了外邦人敬拜神——這正違背神的心意。
+| 希臘文 | 音譯 | 意義 | 經文 | 註解 |
+|--------|------|------|------|------|
+| ἱερόν | hieron | 聖殿（整個區域） | 太 21:12；可 11:15；路 19:45 | 與約 2:19 的 ναός（內殿）不同；潔淨的是外圍的、人人走得到的那一層 |
+| ἐκβάλλω | ekballō | 趕出 | 太 21:12；可 11:15；路 19:45 | 三卷福音書都用這個動詞；福音書別處也用它說「把鬼趕出去」（如可 1:34） |
+| κατέστρεψεν | katestrepsen | 推倒、翻轉 | 太 21:12；可 11:15 | 字面是「顛倒」；對象是桌子與凳子，沒有一處說祂打了人 |
+| σπήλαιον λῃστῶν | spēlaion lēstōn | 賊窩、強盜的洞穴 | 太 21:13；可 11:17；路 19:46 | 和合本作「賊」，希臘文的 λῃστής 是用強力搶奪的「強盜」，與偷竊的 κλέπτης 不同；耶 7:11 的七十士譯本是同一個詞組，馬太 27:38 十字架旁的兩個「強盜」也是這個字根 |
+| οἶκος προσευχῆς | oikos proseuchēs | 禱告的殿（字面「禱告的家」） | 太 21:13；可 11:17；路 19:46 | 引自賽 56:7；馬可獨有「萬國」（πᾶσιν τοῖς ἔθνεσιν） |
+| ἠγανάκτησαν | ēganaktēsan | 甚惱怒 | 太 21:15 | 祭司長和文士的反應；他們惱怒的對象不是商人，是醫治與孩子的讚美 |
+| κατηρτίσω αἶνον | katērtisō ainon | 預備讚美（和合本「完全了讚美」） | 太 21:16 | 太 21:16 引的是七十士譯本；和合本詩 8:2 照希伯來文譯作「建立了能力」，兩個譯法並看，是這節經文的功課 |
+| ἐξεκρέμετο | exekremeto | 側耳聽（字面「掛在祂的話上」） | 路 19:48 | 百姓「掛」在祂的話上，所以當權者尋不出下手的辦法 |
 
 ---
 
-## 解經洞見 (Commentary)
+## 領受要點 (Truths Received)
 
-### John MacArthur 論耶穌的義怒
+### 1. 先看，才動手；動了手，還繼續教
 
-> 「這是新約中耶穌最激烈的行動。祂推倒桌子、趕走商人，展現了對罪惡的聖潔義怒。這不是失控的脾氣，而是有控制的、針對性的義憤。注意祂沒有傷害任何人——祂只是推翻桌子、趕走動物、宣告神的話。這行動有三重意義：第一，宣告祂對聖殿的主權——誰有權力這樣做，除非祂是神？第二，審判敗壞的宗教制度；第三，應驗瑪拉基書3:1-3的預言——主突然進入祂的殿，潔淨利未人。」
-> — John MacArthur, *The MacArthur New Testament Commentary: Matthew 16-23*
+馬可把順序留得很清楚：第一天「周圍看了各樣物件」（11:11），第二天「趕出」「推倒」「不許」，然後「教訓他們」（11:15-17）；路加說祂此後「天天在殿裏教訓人」（19:47）。審判不是祂的第一個動作，也不是最後一個。耶 7:11 那句「我都看見了」，說的是同一種次序：先看見，再開口。
 
-### G. Campbell Morgan 論醫治與讚美
+### 2. 被潔淨的殿，第一批客人是最不被允許進來的人
 
-> 「最動人的畫面出現在潔淨之後：『失明的和瘸腿的到耶穌面前，他就治好了他們。』祭司長只看見商業利益被破壞，孩子們卻在喊『和散那歸於大衛的子孫！』這是完美的對比：宗教領袖憤怒，孩子們敬拜。耶穌引用詩篇8:2：『你從嬰孩和吃奶的口中得到了讚美。』當成人拒絕承認真理時，孩子們反而認出了彌賽亞。聖殿本應是禱告、醫治、讚美的地方；商人把它變成市場，耶穌把它恢復為敬拜之處。」
-> — G. Campbell Morgan, *The Gospel According to Matthew*
+馬太把一件別的福音書沒有的事放在趕商人之後：瞎子和瘸子到祂跟前，祂「就治好了他們」（21:14）。撒下 5:8 記著一句俗語：「在那裏有瞎子、瘸子，他不能進屋去。」（那是大衛攻取耶布斯時的話，原來並不是殿的規定；不少解經家把它與這節並讀，是並讀，經文自己沒有連。）他們卻在祂剛潔淨的殿裏被醫治。桌子被推倒不是為了把殿空出來，是為了把地方還給最遠的人。
 
----
+### 3. 引文的兩半，各指一種人
 
-## 領受與亮光 (Light Received)
+賽 56:7 指向**被擋在外面的人**（外邦人），耶 7:11 指向**留在裏面卻不聽的人**（以殿為保險單的人）。耶穌把兩句放進同一個句子裏，等於同時說：你們擠走了該進來的，又守住了不該放心的。
 
-### 1. 基督對聖殿的主權
+### 4. 潔淨沒有帶來悔改，帶來謀殺
 
-耶穌的行動宣告祂是：
-- 聖殿的主人（「我父的殿」約2:16）
-- 瑪拉基預言的那位（瑪3:1）
-- 有權潔淨敬拜的那一位
-
-### 2. 真敬拜 vs. 假敬拜
-
-| 聖殿應該是 | 聖殿變成了 |
-|-----------|-----------|
-| 禱告的殿 | 買賣的場所 |
-| 萬國敬拜的地方 | 排斥外邦人的地方 |
-| 窮人蒙恩之處 | 剝削窮人之處 |
-| 遇見神的聖所 | 「賊窩」 |
-
-### 3. 舊約預言的應驗
-
-| 預言 | 經文 | 應驗 |
-|------|------|------|
-| 主必來到聖殿 | 瑪3:1 | 耶穌進殿潔淨 |
-| 嬰孩的讚美 | 詩8:2 | 孩子們喊和散那 |
-| 萬國禱告的殿 | 賽56:7 | 耶穌恢復這異象 |
-| 賊窩的審判 | 耶7:11 | 耶穌宣告審判 |
-
-### 4. 對宗教制度的審判
-
-這是耶穌對以色列宗教領袖最公開的挑戰。潔淨聖殿直接威脅到：
-- 大祭司家族的經濟利益
-- 祭司階層的權威
-- 撒都該人的政治地位
-
-這行動使他們下定決心要除掉耶穌（可11:18）。
-
-### 5. 新約敬拜的預備
-
-耶穌後來說：「你拆毀這殿，我三日內要再建立起來。」(約2:19)
-
-| 舊約聖殿 | 新約「聖殿」 |
-|---------|------------|
-| 石頭建築 | 基督的身體 |
-| 一個地點 | 到處敬拜 |
-| 只有祭司進入至聖所 | 所有信徒進入神面前 |
-| 動物獻祭 | 基督一次獻上 |
+三卷福音書在這裏的下一句，都是當權者的反應：「想法子要除滅耶穌，卻又怕他」（可 11:18）；「都想要殺他，但尋不出法子來」（路 19:47）。殿的主人回到自己的家，殿的管理者開始想怎麼除掉這位主人。約 2:19 的謎語，第一次還只是話；這一次，話已經走到了行動的門口。下一章，祂要出殿，走上橄欖山，說這座殿的結局。
 
 ---
 
-## 個人反思 (Personal Reflection)
+## 歷代注疏 (Historical Commentary)
 
-1. **你的「聖殿」需要潔淨嗎？** 你的心是禱告的殿，還是充滿了「買賣」——世俗的追求佔據了敬拜的位置？
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
-2. **你的敬拜是真實的嗎？** 還是像那些宗教領袖，外表敬虔，內心卻是剝削和自利？
+### 教父時期
 
-3. **你攔阻別人來到神面前嗎？** 商人佔據了外邦人院。你的行為是吸引人歸向基督，還是攔阻人認識神？
+**屈梭多模 (John Chrysostom, c. 349-407)**：
 
-4. **你如何回應耶穌的權柄？** 祭司長「很生氣」；孩子們卻讚美。面對耶穌對你生命的挑戰，你的回應是甚麼？
+以下為其立場之綜述（出自馬太福音平行段的講章，非逐字引用）：
+
+**論潔淨聖殿**：主兩次潔淨聖殿，一在事工之初，一在事工將盡——顯明的是持續的關切，不是一時的義憤。
+
+> — John Chrysostom, *Homilies on the Gospel of Matthew*, Homily 67 (on Matt 21), NPNF1-10
+
+### 改革宗時期
+
+**約翰·加爾文 (John Calvin, 1509-1564)**：
+
+論耶 7:11 的「賊窩」，從強盜的習性說起：洞穴與隱密處讓強盜更放肆，殿也一樣——
+
+> "We hence see that dens and hidden places have in them more safety for robbers. The comparison then is most suitable, when the Prophet says that the Jews made the Temple of God the den of robbers: for had there been no Temple, some integrity might have remained, secured by the common feeling of men. But when they covered their baseness with sacrifices, they thought that they thus escaped all judgment."
+> — John Calvin, *Commentaries on the Book of the Prophet Jeremiah and the Lamentations*, vol. 1, tr. John Owen, on Jer. 7:11 (CCEL calcom17)
+
+論瑪 3:2 的火（加爾文把瑪 3:1-3 讀為基督的來臨；這是他的讀法，不是那一段經文自己點的名）：
+
+> "The power of the fire, we know, is twofold; for it burns and it purifies; it burns what is corrupt; but it purifies gold and silver from their dross."
+> — John Calvin, *Commentaries on the Twelve Minor Prophets*, vol. 5 (Zechariah, Malachi), tr. John Owen, on Malachi 3:2
+>
+> 中譯：我們知道，火的作用有兩面：它燒，也煉淨；它燒去敗壞的，卻從金銀裏煉去渣滓。
+
+以下為其餘立場之綜述（非逐字引用）：加爾文在《符類福音合參注釋》把潔淨聖殿讀作基督既是君王又是大祭司的雙重身分——祂有權柄潔淨祂父的殿。（*Commentary on a Harmony of the Evangelists*，Pringle 英譯，1845-46）
+
+### 摩根 (G. Campbell Morgan)
+
+**察驗的目光**：第一天入城，耶穌沒有動手，只「周圍看了各樣物件」。摩根不讓這一眼輕輕過去：
+
+> "It was the look of investigation, the look of inquisition, the look of One Who had the right so to look, the look of the supreme and final authority."
+>
+> 那是察驗的目光，是審視的目光，是一位有權柄如此觀看者的目光，是至高而終極之權柄的目光。
+
+**承認事實，卻質疑權利**：面對潔淨聖殿的行動，宗教領袖的問題暴露了他們自己：
+
+> "They recognized the things He had done, but raised the question of His right to do them."
+>
+> 他們承認祂所做的事，卻質疑祂做這些事的權利。
+
+> — G. Campbell Morgan, *The Gospel According to Mark*（1927），可 11:1-25、11:27 以下兩篇講章
+
+**哭城，然後進殿**：路加把哭城放在進殿之前，摩根論 19:41 的哭：
+
+> "He Who wept, and He Who lamented and sighed, pronounced the doom, for His is not a pity that violates justice."
+>
+> 那位哭泣的、那位哀嘆歎息的，親口宣告了那審判；因為祂的憐憫，從不踐踏公義。
+
+> — G. Campbell Morgan, *The Gospel According to Luke*（論路 19:41-44；引文於 2026 年 8 月逐字核校全書文本）
+
+### 麥克阿瑟 (John MacArthur)
+
+**整座聖殿，也不過是些葉子**：無花果樹與聖殿是同一件事的兩面（馬可把樹與殿並排寫）。
+
+> "The whole temple operation was nothing but leaves."
+>
+> 整個聖殿的運作，不過是些葉子而已。（41-57）
+
+> "True worship is possible, not at the temple, but only at the cross, only at the cross, only through the cross."
+>
+> 真正的敬拜之所以可能，不在聖殿，只在十字架，只在十字架，只藉著十字架。（41-57）
+
+> — John MacArthur, *Nothing but Leaves* (sermon 41-57), gty.org
+
+**進殿之前，祂在哭**：
+
+> "Jesus sees Jerusalem and He's racked with agony. He begins to heave and sob."
+>
+> 耶穌看見耶路撒冷，極深的痛苦揪住了祂；祂開始顫動，放聲哭泣。
+
+> — John MacArthur, *"Jesus' Humble Coronation, Part 2"*（論路 19:28-44），gty.org, sermon 42-242
 
 ---
 
-## 配詩 (Hymns & Psalms)
+## 詩篇與聖詩 (Psalm & Hymn)
 
-**聖詩**：*Cleanse Me* (潔淨我)
+### 詩篇 8:2
 
-> Search me, O God, and know my heart today;
-> Try me, O Savior, know my thoughts, I pray.
-> See if there be some wicked way in me;
-> Cleanse me from every sin and set me free.
+> 你因敵人的緣故，從嬰孩和吃奶的口中，建立了能力，使仇敵和報仇的閉口無言。
 
-**詩篇**：詩篇 26:8
+馬太 21:16 引的是希臘文版本，說的是「預備讚美」；和合本照希伯來文，說的是「建立能力」。孩子的口，在兩個譯法裏都是神的器具。
 
-> 耶和華啊，我喜愛祢所住的殿
-> 和祢榮耀居住的地方。
+### 詩篇 69:9
+
+> 因我為你的殿心裏焦急，如同火燒，並且辱罵你人的辱罵都落在我身上。
+
+約翰福音 2:17 說，第一次潔淨聖殿時，門徒想起的就是這節。本章三卷福音書沒有引它；放在這裏，是讓第一次與第二次兩次進殿，用同一節詩聯起來。
+
+### All Glory, Laud, and Honor
+
+> **All Glory, Laud, and Honor** \
+> *Theodulf of Orleans (c. 820), trans. John Mason Neale, 1851*
+>
+> All glory, laud, and honor to Thee, Redeemer, King, \
+> to whom the lips of children made sweet hosannas ring. \
+> Thou art the King of Israel, Thou David's royal Son, \
+> who in the Lord's name comest, the King and Blessed One.
+>
+> 一切榮耀、頌讚、尊貴，都歸救贖主我王； \
+> 孩童清脆的嘴唇，曾向你高唱和散那。 \
+> 你是以色列的王，是大衛尊貴的子孫； \
+> 你奉主名而來——是王，是那位應當稱頌的。
 
 ---
 
-## 黃長老查經 · 深讀 (Going Deeper with Elder Wong)
+## 老弟兄查經 (Reading with the Elder Brother)
+
+**精義一句話**：祂進城第一天只是看，第二天才動手；動手趕的是做買賣的人，動手收的是瞎子、瘸子和孩子——殿被潔淨，是為了讓最遠的人進得來。
 
 ### 全經連線 (Tracing It Through Scripture)
 
-鑰匙：主忽然進入祂的殿。瑪 3:1「你們所尋求的主，必忽然進入祂的殿」在此應驗；祂引賽 56:7「我的殿要稱為禱告的殿」與耶 7:11「賊窩」。受難週祂做的第一件事，是潔淨父的家。
+**殿的線**：賽 56:7，神應許外邦人也要在「我的殿」裏禱告 → 耶 7:4、7:11，百姓把殿當保險單，神說「我都看見了」 → 本章，耶穌把兩節放進同一句話（可 11:17） → 約 2:19-21，祂說的殿是自己的身體（見本書第七章） → 啟 21:22：「我未見城內有殿，因主神─全能者和羔羊為城的殿。」老弟兄的約翰福音系統研讀把第一次潔淨聖殿標為「新殿」，並註明敬拜的地址要搬家了（`books/bible/gospel-of-john/elder-wong-systematic-study.md`）。啟示錄走到盡頭，地址已經不用搬——殿就是祂。
+
+**來到殿的主（並讀，非福音書所引）**：瑪 3:1-3 說「你們所尋求的主必忽然進入他的殿」，又說他「必潔淨利未人」。福音書在這裏沒有引這幾節，上文已說明；本書只把它放在旁邊讀：先知預告有一位要進殿，要煉淨；福音書記下那位進殿的，趕的是商人，煉的卻碰到了祭司長的心。
+
+**看與哭的線（並讀）**：耶 7:11「我都看見了」；耶 8:21「因我百姓的損傷，我也受了損傷」，是先知的眼淚（見《耶利米書》第五章）；路 19:41 祂看見城就哀哭，然後進殿。先知書裏先有殿、後有淚；路加裏先有淚、後有殿。順序顛倒，是同一顆心。
+
+老弟兄的一句話放在這裏，不是講潔淨，是講殿是誰的：「不是我們去建立教會，是你手上有沒有釘痕的手。」（`.claude/skills/ask-elder-wong/references/voice.md`）殿的主人是那位手上有釘痕的，所以進殿翻桌子的，也是祂；保羅說信徒是神的殿（林前 3:16），這句話的重量也在這裏。
 
 ### 提問式對話 (Let the Reader Speak)
 
-黃長老不急著給答案，他一層一層地問：
-
-- 先問：「受難週這麼短，耶穌為甚麼第一件事是去翻聖殿的桌子？」
-- 再問：「『禱告的殿』變成了『賊窩』——問題出在哪裏？」
-- 追問：「祂趕走買賣的人之後，殿裏發生了甚麼？（瞎子瘸子來、得醫治；孩童讚美）」
-- 落到自己：「若主今天進入你心這座殿，祂要先翻倒哪幾張桌子？」
+- 先問：馬可說祂進城第一天進了殿，「周圍看了各樣物件」，天晚了就出城。為甚麼不當天動手？
+- 再問：兌換銀錢、賣鴿子，在逾越節的耶路撒冷是「服務」。誰是最後被擠出去的人？（可 11:17 的「萬國」）
+- 追問：商人被趕走之後，殿裏來的是誰？（太 21:14：瞎子、瘸子；21:15：孩子）祭司長為甚麼「甚惱怒」？
+- 落到自己：老弟兄說：「哪裡有信，哪裡就有聖靈的工作；哪裡有不信，哪裡就有撒旦的工作。」（`.claude/skills/ask-elder-wong/references/voice.md`）孩子喊和散那，祭司長聽見了氣得發抖——同一個記號，落在不同的人心裏。你若站在那座殿裏，你比較像哪一邊？
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天連敬拜都可能被「績效化、流量化」——聚會看數據，靈修變打卡，神被擺在達成目的的攤位上。耶穌進殿，先翻桌子，再醫治、再接納讚美。你心裏這座殿，需要主先翻掉哪一張「把神當工具」的交易桌？
+今天一句禱詞可以一鍵生成，一段靈修可以一鍵摘要，一場聚會可以一鍵轉成逐字稿。生成出來的是文字，不是禱告；禱告的殿要的是有人對神說話，神聽見。如果有一個今天的商人、一張今天的桌子被推倒，我的猜想是：會是那些讓我們不必來到神面前，卻覺得自己已經來了的方便。這是一個猜想，經文沒有這樣說；經文確定說的是：殿是為禱告的。
 
 ### 今天的祭壇 (Today's Altar)
 
-- **早晨**：求主進入你心的殿，潔淨那些把信仰變成交易的攤子。
-- **晚上**：今天我親近神，是真敬拜，還是只是完成一項「指標」？
-- **一個行動**：今天有一段純粹的禱告，不求甚麼，只為與主同在。
+- **早晨**：先不說話，三分鐘。然後說一句只有你和神知道的話。
+- **晚上**：今天最像「做買賣」的一件事是甚麼？我是為了得著甚麼才親近神？
+- **一個行動**：把一個你一直讓他「站在外面」的人，今天請進來——一個詞、一頓飯、一通電話。
+
+**你看見耶穌了嗎？**祂的第一個動作是察看，不是發怒；祂的第二個動作是趕，不是打；祂的第三個動作是收：把瞎子、瘸子與孩子收進剛潔淨的殿。哭過城，看過殿，翻過桌子，然後醫治——這是同一位。你若在這一幕只看見怒氣，可能還有一個角度沒看到：祂清出的那一塊地，是留給你的。
 
 ---
 
-## 黃長老精義 (The Distilled Key)
+## 生命應用 (Application)
 
-**一句話精義**：受難週祂做的第一件事，是潔淨父的家——「我的殿要稱為禱告的殿」，主先要潔淨敬拜。
+### 默想問題
 
-**貫通全經**：瑪拉基3:1「你們所尋求的主，必忽然進入祂的殿」→ 祂以審判者的身分臨到自己的殿。
+1. **被我擠出去的人**：我所在的群體，有沒有一個人或一類人，因為我們「做事的方式」，在門口就停下了？
 
-**無法迴避的問題**：「若主今天進入你心這座殿，祂要先翻倒哪幾張桌子？」
+2. **被我當保險單的東西**：我有沒有一個「只要我在這裏就安全」的地方、身份或習慣，像耶 7:4 的「這些是耶和華的殿」？
 
-> 「祂兩次潔淨聖殿——三年前、三年後——同一件事。屬靈的事，從來不是『修一次就好』。」
+3. **看與被看**：若祂今天走進我的生活，「周圍看了各樣物件」，祂先看見的是甚麼？
+
+### 禱告回應
+
+> 主耶穌，你進了你父的殿，先看，然後才動手。 \
+> 求你也這樣看我——不是為了定我的罪，是為了清出地方。 \
+> 推倒我心裏把你當成通道的桌子； \
+> 也求你醫治我裏面瞎的與瘸的，使我像那些孩子，單單向你喊和散那。 \
+> 奉你的名，阿們。
 
 ---
 
-## 回應禱告 (A Prayer to Pray)
+## 與其他經文的關聯
 
-> 主啊，求祢今天進入我心的殿，翻倒那把信仰變成績效與交易的桌子。潔淨我的敬拜，叫它單純為著與祢同在；願我的心成為祢—殿的主人—所喜悅的禱告之所。阿們。
-
----
-
-*三書精讀項目 · 耶穌基督完整生平 · 第二十三章*
+| 主題 | 本章經文 | 相關經文 |
+|------|----------|----------|
+| 第一次潔淨聖殿 | 太 21:12-13；可 11:15-17 | 約 2:13-22（本書第七章）；詩 69:9 |
+| 禱告的殿，萬國 | 可 11:17 | 賽 56:3-8 |
+| 賊窩，殿作保險單 | 太 21:13；可 11:17；路 19:46 | 耶 7:1-15；耶 8:21（眼淚） |
+| 主必忽然進入殿（並讀） | 全段 | 瑪 3:1-5；太 11:10；路 7:27 |
+| 孩子的讚美 | 太 21:15-16 | 詩 8:2；詩 118:25-26 |
+| 殿與基督的身體 | 太 21:12 | 約 2:19-21；林前 3:16；啟 21:22 |
+| 當權者想除掉祂 | 可 11:18；路 19:47 | 可 12:1-12；可 14:1 |
+| 看見城而哀哭 | 路 19:41-44 | 耶 8:21；路 13:34 |
