@@ -50,17 +50,19 @@ publisher: 三書精讀出版系統
 
 > ^27^彼得就對他說：「看哪，我們已經撇下所有的跟從你，將來我們要得甚麼呢？」^28^耶穌說：\jesus{「我實在告訴你們，你們這跟從我的人，到復興的時候，人子坐在他榮耀的寶座上，你們也要坐在十二個寶座上，審判以色列十二個支派。^29^凡為我的名撇下房屋，或是弟兄、姊妹、父親、母親、兒女、田地的，必要得著百倍，並且承受永生。^30^然而，有許多在前的，將要在後；在後的，將要在前。」}
 
-**馬可福音 10:17-22；29-31**
+**馬可福音 10:17-19, 21；29-31**
 
-> ^17^耶穌出來行路的時候，有一個人跑來，跪在他面前，問他說：「良善的夫子，我當作甚麼事才可以承受永生？」^18^耶穌對他說：\jesus{「你為甚麼稱我是良善的？除了神一位之外，再沒有良善的。^19^誡命你是曉得的：不可殺人；不可姦淫；不可偷盜；不可作假見證；不可虧負人；當孝敬父母。」}^20^他對耶穌說：「夫子，這一切我從小都遵守了。」^21^耶穌看著他，就愛他，對他說：\jesus{「你還缺少一件：去變賣你所有的，分給窮人，就必有財寶在天上；你還要來跟從我。」}^22^他聽見這話，臉上就變了色，憂憂愁愁的走了，因為他的產業很多。
+> ^17^耶穌出來行路的時候，有一個人跑來，跪在他面前，問他說：「良善的夫子，我當作甚麼事才可以承受永生？」^18^耶穌對他說：\jesus{「你為甚麼稱我是良善的？除了神一位之外，再沒有良善的。^19^誡命你是曉得的：不可殺人；不可姦淫；不可偷盜；不可作假見證；不可虧負人；當孝敬父母。」}^21^耶穌看著他，就愛他，對他說：\jesus{「你還缺少一件：去變賣你所有的，分給窮人，就必有財寶在天上；你還要來跟從我。」}
 
 > ^29^耶穌說：\jesus{「我實在告訴你們，人為我和福音撇下房屋，或是弟兄、姐妹、父母、兒女、田地，^30^沒有不在今世得百倍的，就是房屋、弟兄、姐妹、母親、兒女、田地，並且要受逼迫，在來世必得永生。^31^然而，有許多在前的，將要在後，在後的，將要在前。」}
 
-**路加福音 18:18-23；28-30**
+**路加福音 18:18；29-30**
 
-> ^18^有一個官問耶穌說：「良善的夫子，我該做甚麼事才可以承受永生？」^19^耶穌對他說：\jesus{「你為甚麼稱我是良善的？除了神一位之外，再沒有良善的。^20^誡命你是曉得的：『不可姦淫；不可殺人；不可偷盜；不可作假見證；當孝敬父母。』」}^21^那人說：「這一切我從小都遵守了。」^22^耶穌聽見了，就說：\jesus{「你還缺少一件：要變賣你一切所有的，分給窮人，就必有財寶在天上；你還要來跟從我。」}^23^他聽見這話，就甚憂愁，因為他很富足。
+> ^18^有一個官問耶穌說：「良善的夫子，我該做甚麼事才可以承受永生？」
 
-> ^28^彼得說：「看哪，我們已經撇下自己所有的跟從你了。」^29^耶穌說：\jesus{「我實在告訴你們，人為神的國撇下房屋，或是妻子、弟兄、父母、兒女，^30^沒有在今世不得百倍，在來世不得永生的。」}
+> ^29^耶穌說：\jesus{「我實在告訴你們，人為神的國撇下房屋，或是妻子、弟兄、父母、兒女，^30^沒有在今世不得百倍，在來世不得永生的。」}
+
+其餘平行經文（請在聖經中連讀）：馬可福音 10:20, 22；路加福音 18:19-23, 28。
 
 ### English — NASB
 
@@ -72,17 +74,19 @@ publisher: 三書精讀出版系統
 
 > ^27^Then Peter said to Him, “Behold, we have left everything and followed You; what then will there be for us?” ^28^And Jesus said to them, \jesus{“Truly I say to you, that you who have followed Me, in the regeneration when the Son of Man will sit on His glorious throne, you also shall sit upon twelve thrones, judging the twelve tribes of Israel. ^29^And everyone who has left houses or brothers or sisters or father or mother or children or farms for My name’s sake, will receive many times as much, and will inherit eternal life. ^30^But many \textit{who are} first will be last; and \textit{the} last, first.”}
 
-**Mark 10:17-22; 29-31**
+**Mark 10:17-19, 21; 29-31**
 
-> ^17^As He was setting out on a journey, a man ran up to Him and knelt before Him, and asked Him, “Good Teacher, what shall I do to inherit eternal life?” ^18^And Jesus said to him, \jesus{“Why do you call Me good? No one is good except God alone.} ^19^\jesus{“You know the commandments, ‘DO NOT MURDER, DO NOT COMMIT ADULTERY, DO NOT STEAL, DO NOT BEAR FALSE WITNESS, Do not defraud, HONOR YOUR FATHER AND MOTHER.’”} ^20^And he said to Him, “Teacher, I have kept all these things from my youth up.” ^21^Looking at him, Jesus felt a love for him and said to him, \jesus{“One thing you lack: go and sell all you possess and give to the poor, and you will have treasure in heaven; and come, follow Me.”} ^22^But at these words he was saddened, and he went away grieving, for he was one who owned much property.
+> ^17^As He was setting out on a journey, a man ran up to Him and knelt before Him, and asked Him, “Good Teacher, what shall I do to inherit eternal life?” ^18^And Jesus said to him, \jesus{“Why do you call Me good? No one is good except God alone.} ^19^\jesus{“You know the commandments, ‘DO NOT MURDER, DO NOT COMMIT ADULTERY, DO NOT STEAL, DO NOT BEAR FALSE WITNESS, Do not defraud, HONOR YOUR FATHER AND MOTHER.’”} ^21^Looking at him, Jesus felt a love for him and said to him, \jesus{“One thing you lack: go and sell all you possess and give to the poor, and you will have treasure in heaven; and come, follow Me.”}
 
 > ^29^Jesus said, \jesus{“Truly I say to you, there is no one who has left house or brothers or sisters or mother or father or children or farms, for My sake and for the gospel’s sake,} ^30^\jesus{but that he will receive a hundred times as much now in the present age, houses and brothers and sisters and mothers and children and farms, along with persecutions; and in the age to come, eternal life.} ^31^\jesus{“But many who are first will be last, and the last, first.”}
 
-**Luke 18:18-23; 28-30**
+**Luke 18:18; 29-30**
 
-> ^18^A ruler questioned Him, saying, “Good Teacher, what shall I do to inherit eternal life?” ^19^And Jesus said to him, \jesus{“Why do you call Me good? No one is good except God alone.} ^20^\jesus{You know the commandments, ‘DO NOT COMMIT ADULTERY, DO NOT MURDER, DO NOT STEAL, DO NOT BEAR FALSE WITNESS, HONOR YOUR FATHER AND MOTHER.’”} ^21^And he said, “All these things I have kept from *my* youth.” ^22^When Jesus heard *this,* He said to him, \jesus{“One thing you still lack; sell all that you possess and distribute it to the poor, and you shall have treasure in heaven; and come, follow Me.”} ^23^But when he had heard these things, he became very sad, for he was extremely rich.
+> ^18^A ruler questioned Him, saying, “Good Teacher, what shall I do to inherit eternal life?”
 
-> ^28^Peter said, “Behold, we have left our own *homes* and followed You.” ^29^And He said to them, \jesus{“Truly I say to you, there is no one who has left house or wife or brothers or parents or children, for the sake of the kingdom of God, ^30^who will not receive many times as much at this time and in the age to come, eternal life.”}
+> ^29^And He said to them, \jesus{“Truly I say to you, there is no one who has left house or wife or brothers or parents or children, for the sake of the kingdom of God, ^30^who will not receive many times as much at this time and in the age to come, eternal life.”}
+
+Parallel passages (read in your Bible): Mark 10:20, 22; Luke 18:19-23, 28.
 
 ---
 

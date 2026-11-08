@@ -50,15 +50,15 @@ publisher: 三書精讀出版系統
 
 > ^34^他們過了海，來到革尼撒勒地方。^35^那裏的人一認出是耶穌，就打發人到周圍地方去，把所有的病人帶到他那裏，^36^只求耶穌准他們摸他的衣裳繸子；摸著的人就都好了。
 
-#### 馬可福音 6:45-56
+#### 馬可福音 6:48, 52
 
-> ^45^耶穌隨即催門徒上船，先渡到那邊伯賽大去，等他叫眾人散開。^46^他既辭別了他們，就往山上去禱告。^47^到了晚上，船在海中，耶穌獨自在岸上；^48^看見門徒因風不順，搖櫓甚苦。夜裏約有四更天，就在海面上走，往他們那裏去，意思要走過他們去。^49^但門徒看見他在海面上走，以為是鬼怪，就喊叫起來；^50^因為他們都看見了他，且甚驚慌。耶穌連忙對他們說：\jesus{\textbf{「你們放心！是我，不要怕！」}}^51^於是到他們那裏，上了船，風就住了；他們心裏十分驚奇。^52^這是因為他們不明白那分餅的事，心裏還是愚頑。
+> ^48^看見門徒因風不順，搖櫓甚苦。夜裏約有四更天，就在海面上走，往他們那裏去，意思要走過他們去。^52^這是因為他們不明白那分餅的事，心裏還是愚頑。
 
-> ^53^既渡過去，來到革尼撒勒地方，就靠了岸，^54^一下船，眾人認得是耶穌，^55^就跑遍那一帶地方，聽見他在何處，便將有病的人用褥子抬到那裏。^56^凡耶穌所到的地方，或村中，或城裏，或鄉間，他們都將病人放在街市上，求耶穌只容他們摸他的衣裳繸子；凡摸著的人就都好了。
+#### 約翰福音 6:19, 21
 
-#### 約翰福音 6:16-21
+> ^19^門徒搖櫓，約行了十里多路，看見耶穌在海面上走，漸漸近了船，他們就害怕。^21^門徒就喜歡接他上船，船立時到了他們所要去的地方。
 
-> ^16^到了晚上，他的門徒下海邊去，^17^上了船，要過海往迦百農去。天已經黑了，耶穌還沒有來到他們那裏。^18^忽然狂風大作，海就翻騰起來。^19^門徒搖櫓，約行了十里多路，看見耶穌在海面上走，漸漸近了船，他們就害怕。^20^耶穌對他們說：\jesus{\textbf{「是我，不要怕！」}}^21^門徒就喜歡接他上船，船立時到了他們所要去的地方。
+其餘平行經文（請在聖經中連讀）：馬可福音 6:45-56；約翰福音 6:16-21。
 
 ### English — NASB
 
@@ -70,15 +70,15 @@ publisher: 三書精讀出版系統
 
 > ^34^When they had crossed over, they came to land at Gennesaret. ^35^And when the men of that place recognized Him, they sent *word* into all that surrounding district and brought to Him all who were sick; ^36^and they implored Him that they might just touch the fringe of His cloak; and as many as touched *it* were cured.
 
-#### Mark 6:45-56
+#### Mark 6:48, 52
 
-> ^45^Immediately Jesus made His disciples get into the boat and go ahead of Him to the other side to Bethsaida, while He Himself was sending the crowd away. ^46^After bidding them farewell, He left for the mountain to pray. ^47^When it was evening, the boat was in the middle of the sea, and He was alone on the land. ^48^Seeing them straining at the oars, for the wind was against them, at about the fourth watch of the night He came to them, walking on the sea; and He intended to pass by them. ^49^But when they saw Him walking on the sea, they supposed that it was a ghost, and cried out; ^50^for they all saw Him and were terrified. But immediately He spoke with them and said to them, \jesus{“\textbf{Take courage; it is I, do not be afraid}.”} ^51^Then He got into the boat with them, and the wind stopped; and they were utterly astonished, ^52^for they had not gained any insight from the incident of the loaves, but their heart was hardened.
+> ^48^Seeing them straining at the oars, for the wind was against them, at about the fourth watch of the night He came to them, walking on the sea; and He intended to pass by them. ^52^for they had not gained any insight from the incident of the loaves, but their heart was hardened.
 
-> ^53^When they had crossed over they came to land at Gennesaret, and moored to the shore. ^54^When they got out of the boat, immediately the people recognized Him, ^55^and ran about that whole country and began to carry here and there on their pallets those who were sick, to the place they heard He was. ^56^Wherever He entered villages, or cities, or countryside, they were laying the sick in the market places, and imploring Him that they might just touch the fringe of His cloak; and as many as touched it were being cured.
+#### John 6:19, 21
 
-#### John 6:16-21
+> ^19^Then, when they had rowed about three or four miles, they saw Jesus walking on the sea and drawing near to the boat; and they were frightened. ^21^So they were willing to receive Him into the boat, and immediately the boat was at the land to which they were going.
 
-> ^16^Now when evening came, His disciples went down to the sea, ^17^and after getting into a boat, they *started to* cross the sea to Capernaum. It had already become dark, and Jesus had not yet come to them. ^18^The sea *began* to be stirred up because a strong wind was blowing. ^19^Then, when they had rowed about three or four miles, they saw Jesus walking on the sea and drawing near to the boat; and they were frightened. ^20^But He said to them, \jesus{\textbf{“It is I; do not be afraid.”}} ^21^So they were willing to receive Him into the boat, and immediately the boat was at the land to which they were going.
+Parallel passages (read in your Bible): Mark 6:45-56; John 6:16-21.
 
 ---
 

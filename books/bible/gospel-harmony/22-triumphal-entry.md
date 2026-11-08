@@ -42,15 +42,15 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-**馬太福音 21:1-11**
+**馬太福音 21:2-5, 9-11**
 
-> ^1^耶穌和門徒將近耶路撒冷，到了伯法其，在橄欖山那裏。耶穌就打發兩個門徒，^2^對他們說：\jesus{「你們往對面村子裏去，必看見一匹驢拴在那裏，還有驢駒同在一處；你們解開，牽到我這裏來。^3^若有人對你們說甚麼，你們就說：主要用牠。那人必立時讓你們牽來。」}^4^這事成就是要應驗先知的話，說：^5^「要對錫安的居民（原文是女子）說：看哪，你的王來到你這裏，是溫柔的，又騎著驢，就是騎著驢駒子。」^6^門徒就照耶穌所吩咐的去行，^7^牽了驢和驢駒來，把自己的衣服搭在上面，耶穌就騎上。
+> ^2^對他們說：\jesus{「你們往對面村子裏去，必看見一匹驢拴在那裏，還有驢駒同在一處；你們解開，牽到我這裏來。^3^若有人對你們說甚麼，你們就說：主要用牠。那人必立時讓你們牽來。」}^4^這事成就是要應驗先知的話，說：^5^「要對錫安的居民（原文是女子）說：看哪，你的王來到你這裏，是溫柔的，又騎著驢，就是騎著驢駒子。」
 
-> ^8^眾人多半把衣服鋪在路上；還有人砍下樹枝來鋪在路上。^9^前行後隨的眾人喊著說：「和散那（原有求救的意思，在此是稱頌的話）歸於大衛的子孫！奉主名來的是應當稱頌的！高高在上和散那！」^10^耶穌既進了耶路撒冷，合城都驚動了，說：「這是誰？」^11^眾人說：「這是加利利拿撒勒的先知耶穌。」
+> ^9^前行後隨的眾人喊著說：「和散那（原有求救的意思，在此是稱頌的話）歸於大衛的子孫！奉主名來的是應當稱頌的！高高在上和散那！」^10^耶穌既進了耶路撒冷，合城都驚動了，說：「這是誰？」^11^眾人說：「這是加利利拿撒勒的先知耶穌。」
 
-**馬可福音 11:1-11**
+**馬可福音 11:10-11**
 
-> ^1^耶穌和門徒將近耶路撒冷，到了伯法其和伯大尼，在橄欖山那裏；耶穌就打發兩個門徒，^2^對他們說：\jesus{「你們往對面村子裏去，一進去的時候，必看見一匹驢駒拴在那裏，是從來沒有人騎過的，可以解開，牽來。^3^若有人對你們說：『為甚麼作這事？』你們就說：『主要用他。』那人必立時讓你們牽來。」}^4^他們去了，便看見一匹驢駒拴在門外街道上，就把他解開。^5^在那裏站著的人，有幾個說：「你們解驢駒作甚麼？」^6^門徒照著耶穌所說的回答，那些人就任憑他們牽去了。^7^他們把驢駒牽到耶穌那裏，把自己的衣服搭在上面，耶穌就騎上。^8^有許多人把衣服鋪在路上，也有人把田間的樹枝砍下來，鋪在路上。^9^前行後隨的人都喊著說：「和散那（和散那：原有求救的意思，在此乃是稱頌的話）！奉主名來的是應當稱頌的！^10^那將要來的我祖大衛之國是應當稱頌的！高高在上和散那！」^11^耶穌進了耶路撒冷，入了聖殿，周圍看了各樣物件。天色已晚，就和十二個門徒出城，往伯大尼去了。
+> ^10^那將要來的我祖大衛之國是應當稱頌的！高高在上和散那！」^11^耶穌進了耶路撒冷，入了聖殿，周圍看了各樣物件。天色已晚，就和十二個門徒出城，往伯大尼去了。
 
 **路加福音 19:28-44**
 
@@ -64,17 +64,19 @@ publisher: 三書精讀出版系統
 
 > ^16^這些事門徒起先不明白，等到耶穌得了榮耀以後才想起這話是指著他寫的，並且眾人果然向他這樣行了。^17^當耶穌呼喚拉撒路，叫他從死復活出墳墓的時候，同耶穌在那裏的眾人就作見證。^18^眾人因聽見耶穌行了這神蹟，就去迎接他。^19^法利賽人彼此說：「看哪，你們是徒勞無益，世人都隨從他去了。」
 
+其餘平行經文（請在聖經中連讀）：馬太福音 21:1-11；馬可福音 11:1-11。
+
 ### English — NASB
 
-**Matthew 21:1-11**
+**Matthew 21:2-5, 9-11**
 
-> ^1^When they had approached Jerusalem and had come to Bethphage, at the Mount of Olives, then Jesus sent two disciples, ^2^saying to them, \jesus{“Go into the village opposite you, and immediately you will find a donkey tied \textit{there} and a colt with her; untie them and bring them to Me. ^3^If anyone says anything to you, you shall say, ‘The Lord has need of them,’ and immediately he will send them.”} ^4^This took place to fulfill what was spoken through the prophet: ^5^”SAY TO THE DAUGHTER OF ZION, ‘BEHOLD YOUR KING IS COMING TO YOU, GENTLE, AND MOUNTED ON A DONKEY, EVEN ON A COLT, THE FOAL OF A BEAST OF BURDEN.’” ^6^The disciples went and did just as Jesus had instructed them, ^7^and brought the donkey and the colt, and laid their coats on them; and He sat on the coats.
+> ^2^saying to them, \jesus{“Go into the village opposite you, and immediately you will find a donkey tied \textit{there} and a colt with her; untie them and bring them to Me. ^3^If anyone says anything to you, you shall say, ‘The Lord has need of them,’ and immediately he will send them.”} ^4^This took place to fulfill what was spoken through the prophet: ^5^”SAY TO THE DAUGHTER OF ZION, ‘BEHOLD YOUR KING IS COMING TO YOU, GENTLE, AND MOUNTED ON A DONKEY, EVEN ON A COLT, THE FOAL OF A BEAST OF BURDEN.’”
 
-> ^8^Most of the crowd spread their coats in the road, and others were cutting branches from the trees and spreading them in the road. ^9^The crowds going ahead of Him, and those who followed, were shouting, “Hosanna to the Son of David; BLESSED IS HE WHO COMES IN THE NAME OF THE LORD; Hosanna in the highest!” ^10^When He had entered Jerusalem, all the city was stirred, saying, “Who is this?” ^11^And the crowds were saying, “This is the prophet Jesus, from Nazareth in Galilee.”
+> ^9^The crowds going ahead of Him, and those who followed, were shouting, “Hosanna to the Son of David; BLESSED IS HE WHO COMES IN THE NAME OF THE LORD; Hosanna in the highest!” ^10^When He had entered Jerusalem, all the city was stirred, saying, “Who is this?” ^11^And the crowds were saying, “This is the prophet Jesus, from Nazareth in Galilee.”
 
-**Mark 11:1-11**
+**Mark 11:10-11**
 
-> ^1^As they approached Jerusalem, at Bethphage and Bethany, near the Mount of Olives, He sent two of His disciples, ^2^and said to them, \jesus{“Go into the village opposite you, and immediately as you enter it, you will find a colt tied there, on which no one yet has ever sat; untie it and bring it here.} ^3^\jesus{“If anyone says to you, ‘Why are you doing this?’ you say, ‘The Lord has need of it’; and immediately he will send it back here.”} ^4^They went away and found a colt tied at the door, outside in the street; and they untied it. ^5^Some of the bystanders were saying to them, “What are you doing, untying the colt?” ^6^They spoke to them just as Jesus had told them, and they gave them permission. ^7^They brought the colt to Jesus and put their coats on it; and He sat on it. ^8^And many spread their coats in the road, and others spread leafy branches which they had cut from the fields. ^9^Those who went in front and those who followed were shouting: “Hosanna! BLESSED IS HE WHO COMES IN THE NAME OF THE LORD; ^10^Blessed is the coming kingdom of our father David; Hosanna in the highest!” ^11^Jesus entered Jerusalem and came into the temple; and after looking around at everything, He left for Bethany with the twelve, since it was already late.
+> ^10^Blessed is the coming kingdom of our father David; Hosanna in the highest!” ^11^Jesus entered Jerusalem and came into the temple; and after looking around at everything, He left for Bethany with the twelve, since it was already late.
 
 **Luke 19:28-44**
 
@@ -85,6 +87,8 @@ publisher: 三書精讀出版系統
 **John 12:12-19**
 
 > ^12^On the next day the large crowd who had come to the feast, when they heard that Jesus was coming to Jerusalem, ^13^took the branches of the palm trees and went out to meet Him, and *began* to shout, “Hosanna! BLESSED IS HE WHO COMES IN THE NAME OF THE LORD, even the King of Israel.” ^14^Jesus, finding a young donkey, sat on it; as it is written, ^15^“FEAR NOT, DAUGHTER OF ZION; BEHOLD, YOUR KING IS COMING, SEATED ON A DONKEY’S COLT.” ^16^These things His disciples did not understand at the first; but when Jesus was glorified, then they remembered that these things were written of Him, and that they had done these things to Him. ^17^So the people, who were with Him when He called Lazarus out of the tomb and raised him from the dead, continued to testify *about Him.* ^18^For this reason also the people went and met Him, because they heard that He had performed this sign. ^19^So the Pharisees said to one another, “You see that you are not doing any good; look, the world has gone after Him.”
+
+Parallel passages (read in your Bible): Matthew 21:1-11; Mark 11:1-11.
 
 ---
 

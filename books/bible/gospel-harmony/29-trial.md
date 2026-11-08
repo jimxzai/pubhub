@@ -45,19 +45,19 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-**一、在亞那面前 — 約翰福音 18:12-14, 19-24**
+**一、在亞那面前 — 約翰福音 18:13, 19-24**
 
-> ^12^那隊兵和千夫長，並猶太人的差役就拿住耶穌，把他捆綁了，^13^先帶到亞那面前，因為亞那是本年作大祭司該亞法的岳父。^14^這該亞法就是從前向猶太人發議論說一個人替百姓死是有益的那位。
+> ^13^先帶到亞那面前，因為亞那是本年作大祭司該亞法的岳父。
 
 > ^19^大祭司就以耶穌的門徒和他的教訓盤問他。^20^耶穌回答說：\jesus{「我從來是明明的對世人說話。我常在會堂和殿裏，就是猶太人聚集的地方教訓人；我在暗地裏並沒有說甚麼。^21^你為甚麼問我呢？可以問那聽見的人，我對他們說的是甚麼；我所說的，他們都知道。」}^22^耶穌說了這話，旁邊站著的一個差役用手掌打他，說：「你這樣回答大祭司麼？」^23^耶穌說：\jesus{「我若說的不是，你可以指證那不是；我若說的是，你為甚麼打我呢？」}^24^亞那就把耶穌解到大祭司該亞法那裏，仍是捆著解去的。
 
-**二、在該亞法與公會面前（夜間）— 馬太福音 26:57, 59-68；馬可福音 14:61-62**
+**二、在該亞法與公會面前（夜間）— 馬太福音 26:57, 59, 61, 63-68；馬可福音 14:61-62**
 
 > ^57^拿耶穌的人把他帶到大祭司該亞法那裏去；文士和長老已經在那裏聚會。
 
-> ^59^祭司長和全公會尋找假見證控告耶穌，要治死他。^60^雖有好些人來作假見證，總得不著實據。末後有兩個人前來，說：^61^「這個人曾說：『我能拆毀神的殿，三日內又建造起來。』」
+> ^59^祭司長和全公會尋找假見證控告耶穌，要治死他。^61^「這個人曾說：『我能拆毀神的殿，三日內又建造起來。』」
 
-> ^62^大祭司就站起來，對耶穌說：「你甚麼都不回答麼？這些人作見證告你的是甚麼呢？」^63^耶穌卻不言語。大祭司對他說：「我指著永生神叫你起誓告訴我們，你是神的兒子基督不是？」^64^耶穌對他說：\jesus{「你說的是。然而，我告訴你們，後來你們要看見人子坐在那權能者的右邊，駕著天上的雲降臨。」}
+> ^63^耶穌卻不言語。大祭司對他說：「我指著永生神叫你起誓告訴我們，你是神的兒子基督不是？」^64^耶穌對他說：\jesus{「你說的是。然而，我告訴你們，後來你們要看見人子坐在那權能者的右邊，駕著天上的雲降臨。」}
 
 > ^65^大祭司就撕開衣服，說：「他說了僭妄的話，我們何必再用見證人呢？這僭妄的話，現在你們都聽見了。^66^你們的意見如何？」他們回答說：「他是該死的。」^67^他們就吐唾沫在他臉上，用拳頭打他；也有用手掌打他的，說：^68^「基督阿！你是先知，告訴我們打你的是誰？」
 
@@ -71,35 +71,31 @@ publisher: 三書精讀出版系統
 
 > ^61^主轉過身來看彼得。彼得便想起主對他所說的話：「今日雞叫以先，你要三次不認我。」^62^他就出去痛哭。
 
-**三、在公會面前（天亮）— 路加福音 22:66-71；馬太福音 27:1-2**
+**三、在公會面前（天亮）— 路加福音 22:66-70**
 
-> ^66^天一亮，民間的眾長老連祭司長帶文士都聚會，把耶穌帶到他們的公會裏，^67^說：「你若是基督，就告訴我們。」耶穌說：\jesus{「我若告訴你們，你們也不信；^68^我若問你們，你們也不回答。^69^從今以後，人子要坐在神權能的右邊。」}^70^他們都說：「這樣，你是神的兒子麼？」耶穌說：\jesus{「你們所說的是。」}^71^他們說：「何必再用見證呢？他親口所說的，我們都親自聽見了。」
+> ^66^天一亮，民間的眾長老連祭司長帶文士都聚會，把耶穌帶到他們的公會裏，^67^說：「你若是基督，就告訴我們。」耶穌說：\jesus{「我若告訴你們，你們也不信；^68^我若問你們，你們也不回答。^69^從今以後，人子要坐在神權能的右邊。」}^70^他們都說：「這樣，你是神的兒子麼？」耶穌說：\jesus{「你們所說的是。」}
 
-> ^1^到了早晨，眾祭司長和民間的長老大家商議要治死耶穌，^2^就把他捆綁，解去，交給巡撫彼拉多。
+**四、在彼拉多面前（第一次）— 路加福音 23:2, 5；約翰福音 18:28-38；馬太福音 27:12-14**
 
-**四、在彼拉多面前（第一次）— 路加福音 23:1-5；約翰福音 18:28-38；馬太福音 27:11-14**
-
-> ^1^眾人都起來，把耶穌解到彼拉多面前，^2^就告他說：「我們見這人誘惑國民，禁止納稅給該撒，並說自己是基督，是王。」^3^彼拉多問耶穌說：「你是猶太人的王麼？」耶穌回答說：\jesus{「你說的是。」}^4^彼拉多對祭司長和眾人說：「我查不出這人有甚麼罪來。」^5^但他們越發極力的說：「他煽惑百姓，在猶太遍地傳道，從加利利起，直到這裏了。」
+> ^2^就告他說：「我們見這人誘惑國民，禁止納稅給該撒，並說自己是基督，是王。」^5^但他們越發極力的說：「他煽惑百姓，在猶太遍地傳道，從加利利起，直到這裏了。」
 
 > ^28^眾人將耶穌從該亞法那裏往衙門內解去，那時天還早。他們自己卻不進衙門，恐怕染了污穢，不能吃逾越節的筵席。^29^彼拉多就出來，到他們那裏，說：「你們告這人是為甚麼事呢？」^30^他們回答說：「這人若不是作惡的，我們就不把他交給你。」^31^彼拉多說：「你們自己帶他去，按著你們的律法審問他罷。」猶太人說：「我們沒有殺人的權柄。」^32^這要應驗耶穌所說自己將要怎樣死的話了。
 
 > ^33^彼拉多又進了衙門，叫耶穌來，對他說：「你是猶太人的王麼？」^34^耶穌回答說：\jesus{「這話是你自己說的，還是別人論我對你說的呢？」}^35^彼拉多說：「我豈是猶太人呢？你本國的人和祭司長把你交給我。你做了甚麼事呢？」^36^耶穌回答說：\jesus{「我的國不屬這世界；我的國若屬這世界，我的臣僕必要爭戰，使我不至於被交給猶太人。只是我的國不屬這世界。」}^37^彼拉多就對他說：「這樣，你是王麼？」耶穌回答說：\jesus{「你說我是王。我為此而生，也為此來到世間，特為給真理作見證。凡屬真理的人就聽我的話。」}^38^彼拉多說：「真理是甚麼呢？」說了這話，又出來到猶太人那裏，對他們說：「我查不出他有甚麼罪來。」
 
-> ^11^耶穌站在巡撫面前；巡撫問他說：「你是猶太人的王麼？」耶穌說：\jesus{「你說的是。」}^12^他被祭司長和長老控告的時候，甚麼都不回答。^13^彼拉多就對他說：「他們作見證告你這麼多的事，你沒有聽見麼？」^14^耶穌仍不回答，連一句話也不說，以致巡撫甚覺希奇。
+> ^12^他被祭司長和長老控告的時候，甚麼都不回答。^13^彼拉多就對他說：「他們作見證告你這麼多的事，你沒有聽見麼？」^14^耶穌仍不回答，連一句話也不說，以致巡撫甚覺希奇。
 
 **五、在希律面前 — 路加福音 23:6-12**
 
 > ^6^彼拉多一聽見，就問：「這人是加利利人麼？」^7^既曉得耶穌屬希律所管，就把他送到希律那裏去。那時希律正在耶路撒冷。^8^希律看見耶穌，就很歡喜；因為聽見過他的事，久已想要見他，並且指望看他行一件神蹟。^9^於是問他許多的話；耶穌卻一言不答。^10^祭司長和文士都站著，極力的告他。^11^希律和他的兵丁就藐視耶穌，戲弄他，給他穿上華麗衣服，把他送回彼拉多那裏去。^12^從前希律和彼拉多彼此有仇，在那一天就成了朋友。
 
-**六、在彼拉多面前（第二次）— 路加福音 23:13-16；馬太福音 27:15-26；約翰福音 19:1-5, 7-16**
+**六、在彼拉多面前（第二次）— 路加福音 23:15-16；馬太福音 27:15-16, 19, 24-25；約翰福音 19:1-5, 7-16**
 
-> ^13^彼拉多傳齊了祭司長和官府並百姓，^14^就對他們說：「你們解這人到我這裏，說他是誘惑百姓的。看哪，我也曾將你們告他的事，在你們面前審問他，並沒有查出他甚麼罪來；^15^就是希律也是如此，所以把他送回來。可見他沒有做甚麼該死的事。^16^故此，我要責打他，把他釋放了。」
+> ^15^就是希律也是如此，所以把他送回來。可見他沒有做甚麼該死的事。^16^故此，我要責打他，把他釋放了。」
 
-> ^15^巡撫有一個常例，每逢這節期，隨眾人所要的釋放一個囚犯給他們。^16^當時有一個出名的囚犯叫巴拉巴。^17^眾人聚集的時候，彼拉多就對他們說：「你們要我釋放那一個給你們？是巴拉巴呢？是稱為基督的耶穌呢？」^18^巡撫原知道他們是因為嫉妒才把他解了來。^19^正坐堂的時候，他的夫人打發人來說：「這義人的事，你一點不可管，因為我今天在夢中為他受了許多的苦。」
+> ^15^巡撫有一個常例，每逢這節期，隨眾人所要的釋放一個囚犯給他們。^16^當時有一個出名的囚犯叫巴拉巴。^19^正坐堂的時候，他的夫人打發人來說：「這義人的事，你一點不可管，因為我今天在夢中為他受了許多的苦。」
 
-> ^20^祭司長和長老挑唆眾人，求釋放巴拉巴，除滅耶穌。^21^巡撫對眾人說：「這兩個人，你們要我釋放那一個給你們呢？」他們說：「巴拉巴。」^22^彼拉多說：「這樣，那稱為基督的耶穌我怎麼辦他呢？」他們都說：「把他釘十字架！」^23^巡撫說：「為甚麼呢？他作了甚麼惡事呢？」他們便極力的喊著說：「把他釘十字架！」
-
-> ^24^彼拉多見說也無濟於事，反要生亂，就拿水在眾人面前洗手，說：「流這義人的血，罪不在我，你們承當罷。」^25^眾人都回答說：「他的血歸到我們和我們的子孫身上。」^26^於是彼拉多釋放巴拉巴給他們，把耶穌鞭打了，交給人釘十字架。
+> ^24^彼拉多見說也無濟於事，反要生亂，就拿水在眾人面前洗手，說：「流這義人的血，罪不在我，你們承當罷。」^25^眾人都回答說：「他的血歸到我們和我們的子孫身上。」
 
 > ^1^當下彼拉多將耶穌鞭打了。^2^兵丁用荊棘編作冠冕戴在他頭上，給他穿上紫袍，^3^又挨近他，說：「恭喜，猶太人的王阿！」他們就用手掌打他。^4^彼拉多又出來對眾人說：「我帶他出來見你們，叫你們知道我查不出他有甚麼罪來。」^5^耶穌出來，戴著荊棘冠冕，穿著紫袍。彼拉多對他們說：「你們看這個人！」
 
@@ -107,21 +103,23 @@ publisher: 三書精讀出版系統
 
 > ^12^從此，彼拉多想要釋放耶穌，無奈猶太人喊著說：「你若釋放這個人，就不是該撒的忠臣。凡以自己為王的，就是背叛該撒了。」^13^彼拉多聽見這話，就帶耶穌出來，到了一個地方，名叫鋪華石處，希伯來話叫厄巴大，就在那裏坐堂。^14^那日是預備逾越節的日子，約有午正。彼拉多對猶太人說：「看哪，這是你們的王！」^15^他們喊著說：「除掉他！除掉他！釘他在十字架上！」彼拉多說：「我可以把你們的王釘十字架麼？」祭司長回答說：「除了該撒，我們沒有王。」^16^於是彼拉多將耶穌交給他們去釘十字架。
 
+其餘平行經文（請在聖經中連讀）：約翰福音 18:12, 14；馬太福音 26:60, 62、27:1-2, 11, 17-18, 20-23, 26；路加福音 22:71、23:1, 3-4, 13-14。
+
 ### English — NASB
 
-**1. Before Annas — John 18:12-14, 19-24**
+**1. Before Annas — John 18:13, 19-24**
 
-> ^12^So the *Roman* cohort and the commander and the officers of the Jews, arrested Jesus and bound Him, ^13^and led Him to Annas first; for he was father-in-law of Caiaphas, who was high priest that year. ^14^Now Caiaphas was the one who had advised the Jews that it was expedient for one man to die on behalf of the people.
+> ^13^and led Him to Annas first; for he was father-in-law of Caiaphas, who was high priest that year.
 
 > ^19^The high priest then questioned Jesus about His disciples, and about His teaching. ^20^Jesus answered him, \jesus{“I have spoken openly to the world; I always taught in synagogues and in the temple, where all the Jews come together; and I spoke nothing in secret. ^21^Why do you question Me? Question those who have heard what I spoke to them; they know what I said.”} ^22^When He had said this, one of the officers standing nearby struck Jesus, saying, “Is that the way You answer the high priest?” ^23^Jesus answered him, \jesus{“If I have spoken wrongly, testify of the wrong; but if rightly, why do you strike Me?”} ^24^So Annas sent Him bound to Caiaphas the high priest.
 
-**2. Before Caiaphas and the Council (night) — Matthew 26:57, 59-68; Mark 14:61-62**
+**2. Before Caiaphas and the Council (night) — Matthew 26:57, 59, 61, 63-68; Mark 14:61-62**
 
 > ^57^Those who had seized Jesus led Him away to Caiaphas, the high priest, where the scribes and the elders were gathered together.
 
-> ^59^Now the chief priests and the whole Council kept trying to obtain false testimony against Jesus, so that they might put Him to death. ^60^They did not find *any,* even though many false witnesses came forward. But later on two came forward, ^61^and said, “This man stated, ‘I am able to destroy the temple of God and to rebuild it in three days.’”
+> ^59^Now the chief priests and the whole Council kept trying to obtain false testimony against Jesus, so that they might put Him to death. ^61^and said, “This man stated, ‘I am able to destroy the temple of God and to rebuild it in three days.’”
 
-> ^62^The high priest stood up and said to Him, “Do You not answer? What is it that these men are testifying against You?” ^63^But Jesus kept silent. And the high priest said to Him, “I adjure You by the living God, that You tell us whether You are the Christ, the Son of God.” ^64^Jesus said to him, \jesus{“You have said it \textit{yourself;} nevertheless I tell you, hereafter you will see THE SON OF MAN SITTING AT THE RIGHT HAND OF POWER, and COMING ON THE CLOUDS OF HEAVEN.”}
+> ^63^But Jesus kept silent. And the high priest said to Him, “I adjure You by the living God, that You tell us whether You are the Christ, the Son of God.” ^64^Jesus said to him, \jesus{“You have said it \textit{yourself;} nevertheless I tell you, hereafter you will see THE SON OF MAN SITTING AT THE RIGHT HAND OF POWER, and COMING ON THE CLOUDS OF HEAVEN.”}
 
 > ^65^Then the high priest tore his robes and said, “He has blasphemed! What further need do we have of witnesses? Behold, you have now heard the blasphemy; ^66^what do you think?” They answered, “He deserves death!” ^67^Then they spat in His face and beat Him with their fists; and others slapped Him, ^68^and said, “Prophesy to us, You Christ; who is the one who hit You?”
 
@@ -135,41 +133,39 @@ publisher: 三書精讀出版系統
 
 > ^61^The Lord turned and looked at Peter. And Peter remembered the word of the Lord, how He had told him, “Before a rooster crows today, you will deny Me three times.” ^62^And he went out and wept bitterly.
 
-**3. Before the Council (daybreak) — Luke 22:66-71; Matthew 27:1-2**
+**3. Before the Council (daybreak) — Luke 22:66-70**
 
-> ^66^When it was day, the Council of elders of the people assembled, both chief priests and scribes, and they led Him away to their council *chamber,* saying, ^67^“If You are the Christ, tell us.” But He said to them, \jesus{“If I tell you, you will not believe; ^68^and if I ask a question, you will not answer. ^69^But from now on THE SON OF MAN WILL BE SEATED AT THE RIGHT HAND of the power OF GOD.”} ^70^And they all said, “Are You the Son of God, then?” And He said to them, \jesus{“Yes, I am.”} ^71^Then they said, “What further need do we have of testimony? For we have heard it ourselves from His own mouth.”
+> ^66^When it was day, the Council of elders of the people assembled, both chief priests and scribes, and they led Him away to their council *chamber,* saying, ^67^“If You are the Christ, tell us.” But He said to them, \jesus{“If I tell you, you will not believe; ^68^and if I ask a question, you will not answer. ^69^But from now on THE SON OF MAN WILL BE SEATED AT THE RIGHT HAND of the power OF GOD.”} ^70^And they all said, “Are You the Son of God, then?” And He said to them, \jesus{“Yes, I am.”}
 
-> ^1^Now when morning came, all the chief priests and the elders of the people conferred together against Jesus to put Him to death; ^2^and they bound Him, and led Him away and delivered Him to Pilate the governor.
+**4. Before Pilate (first) — Luke 23:2, 5; John 18:28-38; Matthew 27:12-14**
 
-**4. Before Pilate (first) — Luke 23:1-5; John 18:28-38; Matthew 27:11-14**
-
-> ^1^Then the whole body of them got up and brought Him before Pilate. ^2^And they began to accuse Him, saying, “We found this man misleading our nation and forbidding to pay taxes to Caesar, and saying that He Himself is Christ, a King.” ^3^So Pilate asked Him, saying, “Are You the King of the Jews?” And He answered him and said, \jesus{“\textit{It is as} you say.”} ^4^Then Pilate said to the chief priests and the crowds, “I find no guilt in this man.” ^5^But they kept on insisting, saying, “He stirs up the people, teaching all over Judea, starting from Galilee even as far as this place.”
+> ^2^And they began to accuse Him, saying, “We found this man misleading our nation and forbidding to pay taxes to Caesar, and saying that He Himself is Christ, a King.” ^5^But they kept on insisting, saying, “He stirs up the people, teaching all over Judea, starting from Galilee even as far as this place.”
 
 > ^28^Then they led Jesus from Caiaphas into the Praetorium, and it was early; and they themselves did not enter into the Praetorium so that they would not be defiled, but might eat the Passover. ^29^Therefore Pilate went out to them and said, “What accusation do you bring against this Man?” ^30^They answered and said to him, “If this Man were not an evildoer, we would not have delivered Him to you.” ^31^So Pilate said to them, “Take Him yourselves, and judge Him according to your law.” The Jews said to him, “We are not permitted to put anyone to death,” ^32^to fulfill the word of Jesus which He spoke, signifying by what kind of death He was about to die.
 
 > ^33^Therefore Pilate entered again into the Praetorium, and summoned Jesus and said to Him, “Are You the King of the Jews?” ^34^Jesus answered, \jesus{“Are you saying this on your own initiative, or did others tell you about Me?”} ^35^Pilate answered, “I am not a Jew, am I? Your own nation and the chief priests delivered You to me; what have You done?” ^36^Jesus answered, \jesus{“My kingdom is not of this world. If My kingdom were of this world, then My servants would be fighting so that I would not be handed over to the Jews; but as it is, My kingdom is not of this realm.”} ^37^Therefore Pilate said to Him, “So You are a king?” Jesus answered, \jesus{“You say \textit{correctly} that I am a king. For this I have been born, and for this I have come into the world, to testify to the truth. Everyone who is of the truth hears My voice.”} ^38^Pilate said to Him, “What is truth?” And when he had said this, he went out again to the Jews and said to them, “I find no guilt in Him.
 
-> ^11^Now Jesus stood before the governor, and the governor questioned Him, saying, “Are You the King of the Jews?” And Jesus said to him, \jesus{“\textit{It is as} you say.”} ^12^And while He was being accused by the chief priests and elders, He did not answer. ^13^Then Pilate said to Him, “Do You not hear how many things they testify against You?” ^14^And He did not answer him with regard to even a *single* charge, so the governor was quite amazed.
+> ^12^And while He was being accused by the chief priests and elders, He did not answer. ^13^Then Pilate said to Him, “Do You not hear how many things they testify against You?” ^14^And He did not answer him with regard to even a *single* charge, so the governor was quite amazed.
 
 **5. Before Herod — Luke 23:6-12**
 
 > ^6^When Pilate heard it, he asked whether the man was a Galilean. ^7^And when he learned that He belonged to Herod’s jurisdiction, he sent Him to Herod, who himself also was in Jerusalem at that time. ^8^Now Herod was very glad when he saw Jesus; for he had wanted to see Him for a long time, because he had been hearing about Him and was hoping to see some sign performed by Him. ^9^And he questioned Him at some length; but He answered him nothing. ^10^And the chief priests and the scribes were standing there, accusing Him vehemently. ^11^And Herod with his soldiers, after treating Him with contempt and mocking Him, dressed Him in a gorgeous robe and sent Him back to Pilate. ^12^Now Herod and Pilate became friends with one another that very day; for before they had been enemies with each other.
 
-**6. Before Pilate (second) — Luke 23:13-16; Matthew 27:15-26; John 19:1-5, 7-16**
+**6. Before Pilate (second) — Luke 23:15-16; Matthew 27:15-16, 19, 24-25; John 19:1-5, 7-16**
 
-> ^13^Pilate summoned the chief priests and the rulers and the people, ^14^and said to them, “You brought this man to me as one who incites the people to rebellion, and behold, having examined Him before you, I have found no guilt in this man regarding the charges which you make against Him. ^15^No, nor has Herod, for he sent Him back to us; and behold, nothing deserving death has been done by Him. ^16^Therefore I will punish Him and release Him.”
+> ^15^No, nor has Herod, for he sent Him back to us; and behold, nothing deserving death has been done by Him. ^16^Therefore I will punish Him and release Him.”
 
-> ^15^Now at *the* feast the governor was accustomed to release for the people *any* one prisoner whom they wanted. ^16^At that time they were holding a notorious prisoner, called Barabbas. ^17^So when the people gathered together, Pilate said to them, “Whom do you want me to release for you? Barabbas, or Jesus who is called Christ?” ^18^For he knew that because of envy they had handed Him over. ^19^While he was sitting on the judgment seat, his wife sent him *a message,* saying, “Have nothing to do with that righteous Man; for last night I suffered greatly in a dream because of Him.”
+> ^15^Now at *the* feast the governor was accustomed to release for the people *any* one prisoner whom they wanted. ^16^At that time they were holding a notorious prisoner, called Barabbas. ^19^While he was sitting on the judgment seat, his wife sent him *a message,* saying, “Have nothing to do with that righteous Man; for last night I suffered greatly in a dream because of Him.”
 
-> ^20^But the chief priests and the elders persuaded the crowds to ask for Barabbas and to put Jesus to death. ^21^But the governor said to them, “Which of the two do you want me to release for you?” And they said, “Barabbas.” ^22^Pilate said to them, “Then what shall I do with Jesus who is called Christ?” They all said, “Crucify Him!” ^23^And he said, “Why, what evil has He done?” But they kept shouting all the more, saying, “Crucify Him!”
-
-> ^24^When Pilate saw that he was accomplishing nothing, but rather that a riot was starting, he took water and washed his hands in front of the crowd, saying, “I am innocent of this Man’s blood; see *to that* yourselves.” ^25^And all the people said, “His blood shall be on us and on our children!” ^26^Then he released Barabbas for them; but after having Jesus scourged, he handed Him over to be crucified.
+> ^24^When Pilate saw that he was accomplishing nothing, but rather that a riot was starting, he took water and washed his hands in front of the crowd, saying, “I am innocent of this Man’s blood; see *to that* yourselves.” ^25^And all the people said, “His blood shall be on us and on our children!”
 
 > ^1^Pilate then took Jesus and scourged Him. ^2^And the soldiers twisted together a crown of thorns and put it on His head, and put a purple robe on Him; ^3^and they *began* to come up to Him and say, “Hail, King of the Jews!” and to give Him slaps *in the face.* ^4^Pilate came out again and said to them, “Behold, I am bringing Him out to you so that you may know that I find no guilt in Him.” ^5^Jesus then came out, wearing the crown of thorns and the purple robe. *Pilate* said to them, “Behold, the Man!”
 
 > ^7^The Jews answered him, “We have a law, and by that law He ought to die because He made Himself out *to* *be* the Son of God.” ^8^Therefore when Pilate heard this statement, he was *even* more afraid; ^9^and he entered into the Praetorium again and said to Jesus, “Where are You from?” But Jesus gave him no answer. ^10^So Pilate said to Him, “You do not speak to me? Do You not know that I have authority to release You, and I have authority to crucify You?” ^11^Jesus answered, \jesus{“You would have no authority over Me, unless it had been given you from above; for this reason he who delivered Me to you has \textit{the} greater sin.”}
 
 > ^12^As a result of this Pilate made efforts to release Him, but the Jews cried out saying, “If you release this Man, you are no friend of Caesar; everyone who makes himself out *to be* a king opposes Caesar.” ^13^Therefore when Pilate heard these words, he brought Jesus out, and sat down on the judgment seat at a place called The Pavement, but in Hebrew, Gabbatha. ^14^Now it was the day of preparation for the Passover; it was about the sixth hour. And he said to the Jews, “Behold, your King!” ^15^So they cried out, “Away with *Him,* away with *Him,* crucify Him!” Pilate said to them, “Shall I crucify your King?” The chief priests answered, “We have no king but Caesar.” ^16^So he then handed Him over to them to be crucified.
+
+Parallel passages (read in your Bible): John 18:12, 14; Matthew 26:60, 62, 27:1-2, 11, 17-18, 20-23, 26; Luke 22:71, 23:1, 3-4, 13-14.
 
 ---
 

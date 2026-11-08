@@ -42,17 +42,17 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-**馬太福音 27:57-61**
+**馬太福音 27:57, 60-61**
 
-> ^57^到了晚上，有一個財主，名叫約瑟，是亞利馬太來的，他也是耶穌的門徒。^58^這人去見彼拉多，求耶穌的身體；彼拉多就吩咐給他。^59^約瑟取了身體，用乾淨細麻布裹好，^60^安放在自己的新墳墓裏，就是他鑿在磐石裏的。他又把大石頭滾到墓門口，就去了。^61^有抹大拉的馬利亞和那個馬利亞在那裏，對著墳墓坐著。
+> ^57^到了晚上，有一個財主，名叫約瑟，是亞利馬太來的，他也是耶穌的門徒。^60^安放在自己的新墳墓裏，就是他鑿在磐石裏的。他又把大石頭滾到墓門口，就去了。^61^有抹大拉的馬利亞和那個馬利亞在那裏，對著墳墓坐著。
 
 **馬可福音 15:43-45**
 
 > ^43^有亞利馬太的約瑟前來，他是尊貴的議士，也是等候神國的。他放膽進去見彼拉多，求耶穌的身體；^44^彼拉多詫異耶穌已經死了，便叫百夫長來，問他耶穌死了久不久。^45^既從百夫長得知實情，就把耶穌的屍首賜給約瑟。
 
-**路加福音 23:50-56**
+**路加福音 23:50-52, 55-56**
 
-> ^50^有一個人名叫約瑟，是個議士，為人善良公義；^51^眾人所謀所為，他並沒有附從。他本是猶太、亞利馬太城裏素常盼望神國的人。^52^這人去見彼拉多，求耶穌的身體，^53^就取下來，用細麻布裹好，安放在石頭鑿成的墳墓裏；那裏頭從來沒有葬過人。^54^那日是預備日，安息日也快到了。^55^那些從加利利和耶穌同來的婦女跟在後面，看見了墳墓和他的身體怎樣安放。^56^他們就回去，預備了香料香膏。他們在安息日，便遵著誡命安息了。
+> ^50^有一個人名叫約瑟，是個議士，為人善良公義；^51^眾人所謀所為，他並沒有附從。他本是猶太、亞利馬太城裏素常盼望神國的人。^52^這人去見彼拉多，求耶穌的身體，^55^那些從加利利和耶穌同來的婦女跟在後面，看見了墳墓和他的身體怎樣安放。^56^他們就回去，預備了香料香膏。他們在安息日，便遵著誡命安息了。
 
 **約翰福音 19:38-42**
 
@@ -62,19 +62,21 @@ publisher: 三書精讀出版系統
 
 > ^62^次日，就是預備日的第二天，祭司長和法利賽人聚集來見彼拉多，說：^63^「大人，我們記得那誘惑人的還活著的時候曾說：『三日後我要復活。』^64^因此，請吩咐人將墳墓把守妥當，直到第三日，恐怕他的門徒來，把他偷了去，就告訴百姓說：『他從死裏復活了。』這樣，那後來的迷惑比先前的更利害了！」^65^彼拉多說：「你們有看守的兵，去吧！盡你們所能的把守妥當。」^66^他們就帶著看守的兵同去，封了石頭，將墳墓把守妥當。
 
+其餘平行經文（請在聖經中連讀）：馬太福音 27:57-61；路加福音 23:50-56。
+
 ### English — NASB
 
-**Matthew 27:57-61**
+**Matthew 27:57, 60-61**
 
-> ^57^When it was evening, there came a rich man from Arimathea, named Joseph, who himself had also become a disciple of Jesus. ^58^This man went to Pilate and asked for the body of Jesus. Then Pilate ordered it to be given *to him.* ^59^And Joseph took the body and wrapped it in a clean linen cloth, ^60^and laid it in his own new tomb, which he had hewn out in the rock; and he rolled a large stone against the entrance of the tomb and went away. ^61^And Mary Magdalene was there, and the other Mary, sitting opposite the grave.
+> ^57^When it was evening, there came a rich man from Arimathea, named Joseph, who himself had also become a disciple of Jesus. ^60^and laid it in his own new tomb, which he had hewn out in the rock; and he rolled a large stone against the entrance of the tomb and went away. ^61^And Mary Magdalene was there, and the other Mary, sitting opposite the grave.
 
 **Mark 15:43-45**
 
 > ^43^Joseph of Arimathea came, a prominent member of the Council, who himself was waiting for the kingdom of God; and he gathered up courage and went in before Pilate, and asked for the body of Jesus. ^44^Pilate wondered if He was dead by this time, and summoning the centurion, he questioned him as to whether He was already dead. ^45^And ascertaining this from the centurion, he granted the body to Joseph.
 
-**Luke 23:50-56**
+**Luke 23:50-52, 55-56**
 
-> ^50^And a man named Joseph, who was a member of the Council, a good and righteous man ^51^(he had not consented to their plan and action), *a man* from Arimathea, a city of the Jews, who was waiting for the kingdom of God; ^52^this man went to Pilate and asked for the body of Jesus. ^53^And he took it down and wrapped it in a linen cloth, and laid Him in a tomb cut into the rock, where no one had ever lain. ^54^It was the preparation day, and the Sabbath was about to begin. ^55^Now the women who had come with Him out of Galilee followed, and saw the tomb and how His body was laid. ^56^Then they returned and prepared spices and perfumes. And on the Sabbath they rested according to the commandment.
+> ^50^And a man named Joseph, who was a member of the Council, a good and righteous man ^51^(he had not consented to their plan and action), *a man* from Arimathea, a city of the Jews, who was waiting for the kingdom of God; ^52^this man went to Pilate and asked for the body of Jesus. ^55^Now the women who had come with Him out of Galilee followed, and saw the tomb and how His body was laid. ^56^Then they returned and prepared spices and perfumes. And on the Sabbath they rested according to the commandment.
 
 **John 19:38-42**
 
@@ -83,6 +85,8 @@ publisher: 三書精讀出版系統
 **Matthew 27:62-66**
 
 > ^62^Now on the next day, the day after the preparation, the chief priests and the Pharisees gathered together with Pilate, ^63^and said, “Sir, we remember that when He was still alive that deceiver said, ‘After three days I *am to* rise again.’ ^64^Therefore, give orders for the grave to be made secure until the third day, otherwise His disciples may come and steal Him away and say to the people, ‘He has risen from the dead,’ and the last deception will be worse than the first.” ^65^Pilate said to them, “You have a guard; go, make it *as* secure as you know how.” ^66^And they went and made the grave secure, and along with the guard they set a seal on the stone.
+
+Parallel passages (read in your Bible): Matthew 27:57-61; Luke 23:50-56.
 
 ---
 

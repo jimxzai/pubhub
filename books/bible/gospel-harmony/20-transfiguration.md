@@ -52,15 +52,17 @@ publisher: 三書精讀出版系統
 
 > ^9^下山的時候，耶穌吩咐他們說：\jesus{「人子還沒有從死裏復活，你們不要將所看見的告訴人。」}^10^門徒問耶穌說：「文士為甚麼說以利亞必須先來？」^11^耶穌回答說：\jesus{「以利亞固然先來，並要復興萬事；^12^只是我告訴你們，以利亞已經來了，人卻不認識他，竟任意待他。人子也將要這樣受他們的害。」}^13^門徒這才明白耶穌所說的是指著施洗的約翰。
 
-**馬可福音 9:2-13**
+**馬可福音 9:3, 6, 10, 12-13**
 
-> ^2^過了六天，耶穌帶著彼得、雅各、約翰暗暗的上了高山，就在他們面前變了形像，^3^衣服放光，極其潔白，地上漂布的，沒有一個能漂得那樣白。^4^忽然，有以利亞同摩西向他們顯現，並且和耶穌說話。^5^彼得對耶穌說：「拉比（就是夫子），我們在這裏真好！可以搭三座棚，一座為你，一座為摩西，一座為以利亞。」^6^彼得不知道說甚麼才好，因為他們甚是懼怕。^7^有一朵雲彩來遮蓋他們；也有聲音從雲彩裏出來，說：**「這是我的愛子，你們要聽他。」**^8^門徒忽然周圍一看，不再見一人，只見耶穌同他們在那裏。
+> ^3^衣服放光，極其潔白，地上漂布的，沒有一個能漂得那樣白。^6^彼得不知道說甚麼才好，因為他們甚是懼怕。
 
-> ^9^下山的時候，耶穌囑咐他們說：\jesus{「人子還沒有從死裏復活，你們不要將所看見的告訴人。」}^10^門徒將這話存記在心，彼此議論從死裏復活是甚麼意思。^11^他們就問耶穌說：「文士為甚麼說以利亞必須先來？」^12^耶穌說：\jesus{「以利亞固然先來復興萬事；經上不是指著人子說，他要受許多的苦被人輕慢呢？^13^我告訴你們，以利亞已經來了，他們也任意待他，正如經上所指著他的話。」}
+> ^10^門徒將這話存記在心，彼此議論從死裏復活是甚麼意思。^12^耶穌說：\jesus{「以利亞固然先來復興萬事；經上不是指著人子說，他要受許多的苦被人輕慢呢？^13^我告訴你們，以利亞已經來了，他們也任意待他，正如經上所指著他的話。」}
 
-**路加福音 9:28-36**
+**路加福音 9:28, 31, 32, 35**
 
-> ^28^說了這話以後約有八天，耶穌帶著彼得、約翰、雅各上山去禱告。^29^正禱告的時候，他的面貌就改變了，衣服潔白放光。^30^忽然有摩西、以利亞兩個人同耶穌說話；^31^他們在榮光裏顯現，談論耶穌去世的事，就是他在耶路撒冷將要成的事。^32^彼得和他的同伴都打盹，既清醒了，就看見耶穌的榮光，並同他站著的那兩個人。^33^二人正要和耶穌分離的時候，彼得對耶穌說：「夫子，我們在這裏真好！可以搭三座棚，一座為你，一座為摩西，一座為以利亞。」他卻不知道所說的是甚麼。^34^說這話的時候，有一朵雲彩來遮蓋他們；他們進入雲彩裏就懼怕。^35^有聲音從雲彩裏出來，說：「這是我的兒子，我所揀選的（有古卷：這是我的愛子），你們要聽他。」^36^聲音住了，只見耶穌一人在那裏。當那些日子，門徒不提所看見的事，一樣也不告訴人。
+> ^28^說了這話以後約有八天，耶穌帶著彼得、約翰、雅各上山去禱告。^31^他們在榮光裏顯現，談論耶穌去世的事，就是他在耶路撒冷將要成的事。^32^彼得和他的同伴都打盹，既清醒了，就看見耶穌的榮光，並同他站著的那兩個人。^35^有聲音從雲彩裏出來，說：「這是我的兒子，我所揀選的（有古卷：這是我的愛子），你們要聽他。」
+
+其餘平行經文（請在聖經中連讀）：馬可福音 9:2, 4-5, 7-9, 11；路加福音 9:29-30, 33-34, 36。
 
 ### English — NASB
 
@@ -74,15 +76,17 @@ publisher: 三書精讀出版系統
 
 > ^9^As they were coming down from the mountain, Jesus commanded them, saying, \jesus{“Tell the vision to no one until the Son of Man has risen from the dead.”} ^10^And His disciples asked Him, “Why then do the scribes say that Elijah must come first?” ^11^And He answered and said, \jesus{“Elijah is coming and will restore all things;} ^12^\jesus{but I say to you that Elijah already came, and they did not recognize him, but did to him whatever they wished. So also the Son of Man is going to suffer at their hands.”} ^13^Then the disciples understood that He had spoken to them about John the Baptist.
 
-**Mark 9:2-13**
+**Mark 9:3, 6, 10, 12-13**
 
-> ^2^Six days later, Jesus took with Him Peter and James and John, and brought them up on a high mountain by themselves. And He was transfigured before them; ^3^and His garments became radiant and exceedingly white, as no launderer on earth can whiten them. ^4^Elijah appeared to them along with Moses; and they were talking with Jesus. ^5^Peter said to Jesus, “Rabbi, it is good for us to be here; let us make three tabernacles, one for You, and one for Moses, and one for Elijah.” ^6^For he did not know what to answer; for they became terrified. ^7^Then a cloud formed, overshadowing them, and a voice came out of the cloud, “This is My beloved Son, listen to Him!” ^8^All at once they looked around and saw no one with them anymore, except Jesus alone.
+> ^3^and His garments became radiant and exceedingly white, as no launderer on earth can whiten them. ^6^For he did not know what to answer; for they became terrified.
 
-> ^9^As they were coming down from the mountain, He gave them orders not to relate to anyone what they had seen, until the Son of Man rose from the dead. ^10^They seized upon that statement, discussing with one another what rising from the dead meant. ^11^They asked Him, saying, “Why is it that the scribes say that Elijah must come first?” ^12^And He said to them, \jesus{“Elijah does first come and restore all things. And yet how is it written of the Son of Man that He will suffer many things and be treated with contempt?} ^13^\jesus{“But I say to you that Elijah has indeed come, and they did to him whatever they wished, just as it is written of him.”}
+> ^10^They seized upon that statement, discussing with one another what rising from the dead meant. ^12^And He said to them, \jesus{“Elijah does first come and restore all things. And yet how is it written of the Son of Man that He will suffer many things and be treated with contempt?} ^13^\jesus{“But I say to you that Elijah has indeed come, and they did to him whatever they wished, just as it is written of him.”}
 
-**Luke 9:28-36**
+**Luke 9:28, 31, 32, 35**
 
-> ^28^Some eight days after these sayings, He took along Peter and John and James, and went up on the mountain to pray. ^29^And while He was praying, the appearance of His face became different, and His clothing *became* white *and* gleaming. ^30^And behold, two men were talking with Him; and they were Moses and Elijah, ^31^who, appearing in glory, were speaking of His departure which He was about to accomplish at Jerusalem. ^32^Now Peter and his companions had been overcome with sleep; but when they were fully awake, they saw His glory and the two men standing with Him. ^33^And as these were leaving Him, Peter said to Jesus, “Master, it is good for us to be here; let us make three tabernacles: one for You, and one for Moses, and one for Elijah”—not realizing what he was saying. ^34^While he was saying this, a cloud formed and *began* to overshadow them; and they were afraid as they entered the cloud. ^35^Then a voice came out of the cloud, saying, “This is My Son, *My* Chosen One; listen to Him!” ^36^And when the voice had spoken, Jesus was found alone. And they kept silent, and reported to no one in those days any of the things which they had seen.
+> ^28^Some eight days after these sayings, He took along Peter and John and James, and went up on the mountain to pray. ^31^who, appearing in glory, were speaking of His departure which He was about to accomplish at Jerusalem. ^32^Now Peter and his companions had been overcome with sleep; but when they were fully awake, they saw His glory and the two men standing with Him. ^35^Then a voice came out of the cloud, saying, “This is My Son, *My* Chosen One; listen to Him!”
+
+Parallel passages (read in your Bible): Mark 9:2, 4-5, 7-9, 11; Luke 9:29-30, 33-34, 36.
 
 ---
 

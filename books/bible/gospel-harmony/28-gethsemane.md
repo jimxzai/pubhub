@@ -80,6 +80,8 @@ publisher: 三書精讀出版系統
 
 > ^10^西門彼得帶著一把刀，就拔出來，將大祭司的僕人砍了一刀，削掉他的右耳；那僕人名叫馬勒古。^11^耶穌就對彼得說：\jesus{「收刀入鞘罷，我父所給我的那杯，我豈可不喝呢？」}
 
+其餘平行經文（請在聖經中連讀）：馬可福音 14:32-52；路加福音 22:39-53。
+
 ### English — NASB
 
 **Matthew 26:36-56**
@@ -117,6 +119,8 @@ publisher: 三書精讀出版系統
 > ^7^Therefore He again asked them, \jesus{“Whom do you seek?”} And they said, “Jesus the Nazarene.” ^8^Jesus answered, \jesus{“I told you that I am \textit{He}; so if you seek Me, let these go their way,”} ^9^to fulfill the word which He spoke, “Of those whom You have given Me I lost not one.”
 
 > ^10^Simon Peter then, having a sword, drew it and struck the high priest’s slave, and cut off his right ear; and the slave’s name was Malchus. ^11^So Jesus said to Peter, \jesus{“Put the sword into the sheath; the cup which the Father has given Me, shall I not drink it?”}
+
+Parallel passages (read in your Bible): Mark 14:32-52; Luke 22:39-53.
 
 ---
 

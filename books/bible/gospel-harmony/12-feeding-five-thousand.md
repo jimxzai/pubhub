@@ -42,20 +42,19 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-#### 馬太福音 14:13-21
+#### 馬太福音 14:13-16, 21
 
 > ^13^耶穌聽見了，就上船從那裏獨自退到野地裏去。眾人聽見，就從各城裏步行跟隨他。^14^耶穌出來，見有許多的人，就憐憫他們，治好了他們的病人。
 
-> ^15^天將晚的時候，門徒進前來，說：「這是野地，時候已經過了，請叫眾人散開，他們好往村子裏去，自己買吃的。」^16^耶穌說：\jesus{「不用他們去，你們給他們吃罷！」}^17^門徒說：「我們這裏只有五個餅，兩條魚。」^18^耶穌說：\jesus{「拿過來給我。」}^19^於是吩咐眾人坐在草地上，就拿著這五個餅，兩條魚，望著天祝福，擘開餅，遞給門徒，門徒又遞給眾人。^20^他們都吃，並且吃飽了；把剩下的零碎收拾起來，裝滿了十二個籃子。^21^吃的人，除了婦女孩子，約有五千。
+> ^15^天將晚的時候，門徒進前來，說：「這是野地，時候已經過了，請叫眾人散開，他們好往村子裏去，自己買吃的。」^16^耶穌說：\jesus{「不用他們去，你們給他們吃罷！」}^21^吃的人，除了婦女孩子，約有五千。
 
-#### 馬可福音 6:30-44
+#### 馬可福音 6:31, 34, 38-40
 
-> ^30^使徒聚集到耶穌那裏，將一切所做的事、所傳的道全告訴他。^31^他就說：\jesus{「你們來，同我暗暗的到曠野地方去歇一歇。」}這是因為來往的人多，他們連吃飯也沒有工夫。^32^他們就坐船，暗暗的往曠野地方去。^33^眾人看見他們去，有許多認識他們的，就從各城步行，一同跑到那裏，比他們先趕到了。^34^耶穌出來，見有許多的人，就憐憫他們，因為他們如同羊沒有牧人一般，於是開口教訓他們許多道理。^35^天已經晚了，門徒進前來，說：「這是野地，天已經晚了，^36^請叫眾人散開，他們好往四面鄉村裏去，自己買甚麼吃。」^37^耶穌回答說：\jesus{「你們給他們吃罷。」}門徒說：「我們可以去買二十兩銀子的餅，給他們吃麼？」^38^耶穌說：\jesus{「你們有多少餅，可以去看看。」}他們知道了，就說：「五個餅，兩條魚。」^39^耶穌吩咐他們，叫眾人一幫一幫的坐在青草地上。^40^眾人就一排一排的坐下，有一百一排的，有五十一排的。^41^耶穌拿著這五個餅，兩條魚，望著天祝福，擘開餅，遞給門徒，擺在眾人面前，也把那兩條魚分給眾人。^42^他們都吃，並且吃飽了。^43^門徒就把碎餅碎魚收拾起來，裝滿了十二個籃子。^44^吃餅的男人共有五千。
+> ^31^他就說：\jesus{「你們來，同我暗暗的到曠野地方去歇一歇。」}這是因為來往的人多，他們連吃飯也沒有工夫。^34^耶穌出來，見有許多的人，就憐憫他們，因為他們如同羊沒有牧人一般，於是開口教訓他們許多道理。^38^耶穌說：\jesus{「你們有多少餅，可以去看看。」}他們知道了，就說：「五個餅，兩條魚。」^39^耶穌吩咐他們，叫眾人一幫一幫的坐在青草地上。^40^眾人就一排一排的坐下，有一百一排的，有五十一排的。
 
-#### 路加福音 9:10-17
+#### 路加福音 9:10-11, 14
 
-> ^10^使徒回來，將所作的事告訴耶穌，耶穌就帶他們暗暗的離開那裏，往一座城去；那城名叫伯賽大。^11^但眾人知道了，就跟著他去；耶穌便接待他們，對他們講論神國的道，醫治那些需醫的人。^12^日頭快要平西，十二個門徒來對他說：「請叫眾人散開，他們好往四面鄉村裏去借宿找吃的，因為我們這裏是野地。」^13^耶穌說：\jesus{「你們給他們吃罷！」}門徒說：「我們不過有五個餅，兩條魚，若不去為這許多人買食物就不夠。」^14^那時，人數約有五千。耶穌對門徒說：\jesus{「叫他們一排一排的坐下，每排大約五十個人。」}^15^門徒就如此行，叫眾人都坐下。^16^耶穌拿著這五個餅，兩條魚，望著天祝福，擘開，遞給門徒，擺在眾人面前。^17^他們就吃，並且都吃飽了；把剩下的零碎收拾起來，裝滿了十二籃子。
-
+> ^10^使徒回來，將所作的事告訴耶穌，耶穌就帶他們暗暗的離開那裏，往一座城去；那城名叫伯賽大。^11^但眾人知道了，就跟著他去；耶穌便接待他們，對他們講論神國的道，醫治那些需醫的人。^14^那時，人數約有五千。耶穌對門徒說：\jesus{「叫他們一排一排的坐下，每排大約五十個人。」}
 
 #### 約翰福音 6:1-15
 
@@ -63,23 +62,23 @@ publisher: 三書精讀出版系統
 
 > ^14^眾人看見耶穌所行的神蹟，就說：「這真是那要到世間來的先知！」^15^耶穌既知道眾人要來強逼他作王，就獨自又退到山上去了。
 
+其餘平行經文（請在聖經中連讀）：馬太福音 14:13-21；馬可福音 6:30-44；路加福音 9:10-17。
 
 ### English — NASB
 
-#### Matthew 14:13-21
+#### Matthew 14:13-16, 21
 
 > ^13^Now when Jesus heard *about John,* He withdrew from there in a boat to a secluded place by Himself; and when the people heard *of this,* they followed Him on foot from the cities. ^14^When He went ashore, He saw a large crowd, and felt compassion for them and healed their sick.
 
-> ^15^When it was evening, the disciples came to Him and said, “This place is desolate and the hour is already late; so send the crowds away, that they may go into the villages and buy food for themselves.” ^16^But Jesus said to them, \jesus{“They do not need to go away; you give them \textit{something} to eat!”} ^17^They said to Him, “We have here only five loaves and two fish.” ^18^And He said, \jesus{“Bring them here to Me.”} ^19^Ordering the people to sit down on the grass, He took the five loaves and the two fish, and looking up toward heaven, He blessed *the food,* and breaking the loaves He gave them to the disciples, and the disciples *gave them* to the crowds, ^20^and they all ate and were satisfied. They picked up what was left over of the broken pieces, twelve full baskets. ^21^There were about five thousand men who ate, besides women and children.
+> ^15^When it was evening, the disciples came to Him and said, “This place is desolate and the hour is already late; so send the crowds away, that they may go into the villages and buy food for themselves.” ^16^But Jesus said to them, \jesus{“They do not need to go away; you give them \textit{something} to eat!”} ^21^There were about five thousand men who ate, besides women and children.
 
-#### Mark 6:30-44
+#### Mark 6:31, 34, 38-40
 
-> ^30^The apostles gathered together with Jesus; and they reported to Him all that they had done and taught. ^31^And He said to them, \jesus{“Come away by yourselves to a secluded place and rest a while.”} (For there were many people coming and going, and they did not even have time to eat.) ^32^They went away in the boat to a secluded place by themselves. ^33^The people saw them going, and many recognized them and ran there together on foot from all the cities, and got there ahead of them. ^34^When Jesus went ashore, He saw a large crowd, and He felt compassion for them because they were like sheep without a shepherd; and He began to teach them many things. ^35^When it was already quite late, His disciples came to Him and said, “This place is desolate and it is already quite late; ^36^send them away so that they may go into the surrounding countryside and villages and buy themselves something to eat.” ^37^But He answered them, \jesus{“You give them something to eat!”} And they said to Him, \jesus{“Shall we go and spend two hundred denarii on bread and give them something to eat?”} ^38^And He said to them, \jesus{“How many loaves do you have? Go look!”} And when they found out, they said, “Five, and two fish.” ^39^And He commanded them all to sit down by groups on the green grass. ^40^They sat down in groups of hundreds and of fifties. ^41^And He took the five loaves and the two fish, and looking up toward heaven, He blessed the food and broke the loaves and He kept giving them to the disciples to set before them; and He divided up the two fish among them all. ^42^They all ate and were satisfied, ^43^and they picked up twelve full baskets of the broken pieces, and also of the fish. ^44^There were five thousand men who ate the loaves.
+> ^31^And He said to them, \jesus{“Come away by yourselves to a secluded place and rest a while.”} (For there were many people coming and going, and they did not even have time to eat.) ^34^When Jesus went ashore, He saw a large crowd, and He felt compassion for them because they were like sheep without a shepherd; and He began to teach them many things. ^38^And He said to them, \jesus{“How many loaves do you have? Go look!”} And when they found out, they said, “Five, and two fish.” ^39^And He commanded them all to sit down by groups on the green grass. ^40^They sat down in groups of hundreds and of fifties.
 
-#### Luke 9:10-17
+#### Luke 9:10-11, 14
 
-> ^10^When the apostles returned, they gave an account to Him of all that they had done. Taking them with Him, He withdrew by Himself to a city called Bethsaida. ^11^But the crowds were aware of this and followed Him; and welcoming them, He *began* speaking to them about the kingdom of God and curing those who had need of healing. ^12^Now the day was ending, and the twelve came and said to Him, “Send the crowd away, that they may go into the surrounding villages and countryside and find lodging and get something to eat; for here we are in a desolate place.” ^13^But He said to them, \jesus{“You give them \textit{something} to eat!”} And they said, “We have no more than five loaves and two fish, unless perhaps we go and buy food for all these people.” ^14^(For there were about five thousand men.) And He said to His disciples, \jesus{“Have them sit down \textit{to eat} in groups of about fifty each.”} ^15^They did so, and had them all sit down. ^16^Then He took the five loaves and the two fish, and looking up to heaven, He blessed them, and broke *them,* and kept giving *them* to the disciples to set before the people. ^17^And they all ate and were satisfied; and the broken pieces which they had left over were picked up, twelve baskets *full.*
-
+> ^10^When the apostles returned, they gave an account to Him of all that they had done. Taking them with Him, He withdrew by Himself to a city called Bethsaida. ^11^But the crowds were aware of this and followed Him; and welcoming them, He *began* speaking to them about the kingdom of God and curing those who had need of healing. ^14^(For there were about five thousand men.) And He said to His disciples, \jesus{“Have them sit down \textit{to eat} in groups of about fifty each.”}
 
 #### John 6:1-15
 
@@ -87,6 +86,7 @@ publisher: 三書精讀出版系統
 
 > ^14^Therefore when the people saw the sign which He had performed, they said, “This is truly the Prophet who is to come into the world.” ^15^So Jesus, perceiving that they were intending to come and take Him by force to make Him king, withdrew again to the mountain by Himself alone.
 
+Parallel passages (read in your Bible): Matthew 14:13-21; Mark 6:30-44; Luke 9:10-17.
 
 ---
 

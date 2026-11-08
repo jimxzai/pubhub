@@ -50,13 +50,15 @@ publisher: 三書精讀出版系統
 
 > ^12^耶穌進了神的殿，趕出殿裏一切做買賣的人，推倒兌換銀錢之人的桌子，和賣鴿子之人的凳子；^13^對他們說：\jesus{「經上記著說：我的殿必稱為禱告的殿，你們倒使他成為賊窩了。」}^14^在殿裏有瞎子、瘸子到耶穌跟前，他就治好了他們。^15^祭司長和文士看見耶穌所行的奇事，又見小孩子在殿裏喊著說：「和散那歸於大衛的子孫！」就甚惱怒，^16^對他說：「這些人所說的，你聽見了麼？」耶穌說：\jesus{「是的。經上說：你從嬰孩和吃奶的口中完全了讚美的話，你們沒有念過麼？」}^17^於是離開他們，出城到伯大尼去，在那裏住宿。
 
-**馬可福音 11:15-19**
+**馬可福音 11:16-18**
 
-> ^15^他們來到耶路撒冷。耶穌進入聖殿，趕出殿裏作買賣的人，推倒兌換銀錢之人的桌子，和賣鴿子之人的凳子；^16^也不許人拿著器具從殿裏經過；^17^便教訓他們說：\jesus{\textbf{「經上不是記著說：『我的殿必稱為萬國禱告的殿』麼？你們倒使他成為賊窩了。」}}^18^祭司長和文士聽見這話，就想法子要除滅耶穌，卻又怕他，因為眾人都希奇他的教訓。^19^每天晚上，耶穌出城去。
+> ^16^也不許人拿著器具從殿裏經過；^17^便教訓他們說：\jesus{\textbf{「經上不是記著說：『我的殿必稱為萬國禱告的殿』麼？你們倒使他成為賊窩了。」}}^18^祭司長和文士聽見這話，就想法子要除滅耶穌，卻又怕他，因為眾人都希奇他的教訓。
 
-**路加福音 19:45-48**
+**路加福音 19:47-48**
 
-> ^45^耶穌進了殿，趕出裏頭做買賣的人，^46^對他們說：\jesus{「經上說：我的殿必作禱告的殿，你們倒使他成為賊窩了。」}^47^耶穌天天在殿裏教訓人。祭司長和文士與百姓的尊長都想要殺他，^48^但尋不出法子來，因為百姓都側耳聽他。
+> ^47^耶穌天天在殿裏教訓人。祭司長和文士與百姓的尊長都想要殺他，^48^但尋不出法子來，因為百姓都側耳聽他。
+
+其餘平行經文（請在聖經中連讀）：馬可福音 11:15, 19；路加福音 19:45-46。
 
 ### English — NASB
 
@@ -64,13 +66,15 @@ publisher: 三書精讀出版系統
 
 > ^12^And Jesus entered the temple and drove out all those who were buying and selling in the temple, and overturned the tables of the money changers and the seats of those who were selling doves. ^13^And He said to them, \jesus{"It is written, 'MY HOUSE SHALL BE CALLED A HOUSE OF PRAYER'; but you are making it a ROBBERS' DEN."} ^14^And *the* blind and *the* lame came to Him in the temple, and He healed them. ^15^But when the chief priests and the scribes saw the wonderful things that He had done, and the children who were shouting in the temple, "Hosanna to the Son of David," they became indignant ^16^and said to Him, "Do You hear what these *children* are saying?" And Jesus said to them, \jesus{"Yes; have you never read, 'OUT OF THE MOUTH OF INFANTS AND NURSING BABIES YOU HAVE PREPARED PRAISE FOR YOURSELF'?"} ^17^And He left them and went out of the city to Bethany, and spent the night there.
 
-**Mark 11:15-19**
+**Mark 11:16-18**
 
-> ^15^Then they came to Jerusalem. And He entered the temple and began to drive out those who were buying and selling in the temple, and overturned the tables of the money changers and the seats of those who were selling doves; ^16^and He would not permit anyone to carry merchandise through the temple. ^17^And He began to teach and say to them, \jesus{“Is it not written, ‘MY HOUSE SHALL BE CALLED A HOUSE OF PRAYER FOR ALL THE NATIONS’? But you have made it a ROBBERS’ DEN.”} ^18^The chief priests and the scribes heard this, and began seeking how to destroy Him; for they were afraid of Him, for the whole crowd was astonished at His teaching. ^19^When evening came, they would go out of the city.
+> ^16^and He would not permit anyone to carry merchandise through the temple. ^17^And He began to teach and say to them, \jesus{“Is it not written, ‘MY HOUSE SHALL BE CALLED A HOUSE OF PRAYER FOR ALL THE NATIONS’? But you have made it a ROBBERS’ DEN.”} ^18^The chief priests and the scribes heard this, and began seeking how to destroy Him; for they were afraid of Him, for the whole crowd was astonished at His teaching.
 
-**Luke 19:45-48**
+**Luke 19:47-48**
 
-> ^45^Jesus entered the temple and began to drive out those who were selling, ^46^saying to them, \jesus{“It is written, ‘AND MY HOUSE SHALL BE A HOUSE OF PRAYER,’ but you have made it a ROBBERS’ DEN.”} ^47^And He was teaching daily in the temple; but the chief priests and the scribes and the leading men among the people were trying to destroy Him, ^48^and they could not find anything that they might do, for all the people were hanging on to every word He said.
+> ^47^And He was teaching daily in the temple; but the chief priests and the scribes and the leading men among the people were trying to destroy Him, ^48^and they could not find anything that they might do, for all the people were hanging on to every word He said.
+
+Parallel passages (read in your Bible): Mark 11:15, 19; Luke 19:45-46.
 
 ---
 

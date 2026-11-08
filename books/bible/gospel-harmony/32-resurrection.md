@@ -44,27 +44,25 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
-**馬太福音 28:1-15**
+**馬太福音 28:2-4, 8-15**
 
-> ^1^安息日將盡，七日的頭一日，天快亮的時候，抹大拉的馬利亞和那個馬利亞來看墳墓。^2^忽然，地大震動；因為有主的使者從天上下來，把石頭滾開，坐在上面。^3^他的像貌如同閃電，衣服潔白如雪。^4^看守的人就因他嚇得渾身亂戰，甚至和死人一樣。
-
-> ^5^天使對婦女說：「不要害怕！我知道你們是尋找那釘十字架的耶穌。^6^他不在這裏，照他所說的，已經復活了。你們來看安放主的地方。^7^快去告訴他的門徒，說他從死裏復活了，並且在你們以先往加利利去，在那裏你們要見他。看哪，我已經告訴你們了。」
+> ^2^忽然，地大震動；因為有主的使者從天上下來，把石頭滾開，坐在上面。^3^他的像貌如同閃電，衣服潔白如雪。^4^看守的人就因他嚇得渾身亂戰，甚至和死人一樣。
 
 > ^8^婦女們就急忙離開墳墓，又害怕，又大大的歡喜，跑去要報給他的門徒。^9^忽然，耶穌遇見他們，說：\jesus{「願你們平安！」}他們就上前抱住他的腳拜他。^10^耶穌對他們說：\jesus{「不要害怕！你們去告訴我的弟兄，叫他們往加利利去，在那裏必見我。」}
 
 > ^11^他們去的時候，看守的兵有幾個進城去，將所經歷的事都報給祭司長。^12^祭司長和長老聚集商議，就拿許多銀錢給兵丁，說：^13^「你們要這樣說：『夜間我們睡覺的時候，他的門徒來，把他偷去了。』^14^倘若這話被巡撫聽見，有我們勸他，保你們無事。」^15^兵丁受了銀錢，就照所囑咐他們的去行。這話就傳說在猶太人中間，直到今日。
 
-**馬可福音 16:1-8**
+**馬可福音 16:1-5, 7-8**
 
 > ^1^過了安息日，抹大拉的馬利亞和雅各的母親馬利亞並撒羅米，買了香膏要去膏耶穌的身體。^2^七日的第一日清早，出太陽的時候，他們來到墳墓那裏，^3^彼此說：「誰給我們把石頭從墓門輥開呢？」^4^那石頭原來很大，他們抬頭一看，卻見石頭已經輥開了。
 
-> ^5^他們進了墳墓，看見一個少年人坐在右邊，穿著白袍，就甚驚恐。^6^那少年人對他們說：「不要驚恐！你們尋找那釘十字架的拿撒勒人耶穌，他已經復活了，不在這裏。請看安放他的地方。^7^你們可以去告訴他的門徒和彼得，說：『他在你們以先往加利利去。在那裏你們要見他，正如他從前所告訴你們的。』」^8^他們就出來，從墳墓那裏逃跑，又發抖又驚奇，甚麼也不告訴人，因為他們害怕。
+> ^5^他們進了墳墓，看見一個少年人坐在右邊，穿著白袍，就甚驚恐。^7^你們可以去告訴他的門徒和彼得，說：『他在你們以先往加利利去。在那裏你們要見他，正如他從前所告訴你們的。』」^8^他們就出來，從墳墓那裏逃跑，又發抖又驚奇，甚麼也不告訴人，因為他們害怕。
 
 *（經文附註：現存最古老的兩部抄本——西奈抄本、梵蒂岡抄本——馬可福音正文止於第 8 節；本書這一章只讀 1-8 節。16:9-20 見於較晚的抄本傳統，見下文「背景」。）*
 
-**路加福音 24:1-12**
+**路加福音 24:3-12**
 
-> ^1^七日的頭一日，黎明的時候，那些婦女帶著所預備的香料來到墳墓前，^2^看見石頭已經從墳墓輥開了，^3^他們就進去，只是不見主耶穌的身體。
+> ^3^他們就進去，只是不見主耶穌的身體。
 
 > ^4^正在猜疑之間，忽然有兩個人站在旁邊，衣服放光。^5^婦女們驚怕，將臉伏地。那兩個人就對他們說：「為甚麼在死人中找活人呢？^6^他不在這裏，已經復活了。當記念他還在加利利的時候怎樣告訴你們，^7^說：『人子必須被交在罪人手裏，釘在十字架上，第三日復活。』」
 
@@ -76,29 +74,29 @@ publisher: 三書精讀出版系統
 
 > ^11^馬利亞卻站在墳墓外面哭。哭的時候，低頭往墳墓裏看，^12^就見兩個天使，穿著白衣，在安放耶穌身體的地方坐著，一個在頭，一個在腳。^13^天使對他說：「婦人，你為甚麼哭？」他說：「因為有人把我主挪了去，我不知道放在那裏。」^14^說了這話，就轉過身來，看見耶穌站在那裏，卻不知道是耶穌。^15^耶穌問他說：\jesus{「婦人，為甚麼哭？你找誰呢？」}馬利亞以為是看園的，就對他說：「先生，若是你把他移了去，請告訴我，你把他放在那裏，我便去取他。」^16^耶穌說：\jesus{「馬利亞。」}馬利亞就轉過來，用希伯來話對他說：「拉波尼！」（拉波尼就是夫子的意思。）^17^耶穌說：\jesus{「不要摸我，因我還沒有升上去見我的父。你往我弟兄那裏去，告訴他們說，我要升上去見我的父，也是你們的父，見我的神，也是你們的神。」}^18^抹大拉的馬利亞就去告訴門徒說：「我已經看見了主。」他又將主對他說的這話告訴他們。
 
+其餘平行經文（請在聖經中連讀）：馬太福音 28:1, 5-7；馬可福音 16:6；路加福音 24:1-2。
+
 ### English — NASB
 
-**馬太福音 28:1-15**
+**馬太福音 28:2-4, 8-15**
 
-> ^1^Now after the Sabbath, as it began to dawn toward the first *day* of the week, Mary Magdalene and the other Mary came to look at the grave. ^2^And behold, a severe earthquake had occurred, for an angel of the Lord descended from heaven and came and rolled away the stone and sat upon it. ^3^And his appearance was like lightning, and his clothing as white as snow. ^4^The guards shook for fear of him and became like dead men.
-
-> ^5^The angel said to the women, “Do not be afraid; for I know that you are looking for Jesus who has been crucified. ^6^“He is not here, for He has risen, just as He said. Come, see the place where He was lying. ^7^“Go quickly and tell His disciples that He has risen from the dead; and behold, He is going ahead of you into Galilee, there you will see Him; behold, I have told you.”
+> ^2^And behold, a severe earthquake had occurred, for an angel of the Lord descended from heaven and came and rolled away the stone and sat upon it. ^3^And his appearance was like lightning, and his clothing as white as snow. ^4^The guards shook for fear of him and became like dead men.
 
 > ^8^And they left the tomb quickly with fear and great joy and ran to report it to His disciples. ^9^And behold, Jesus met them and greeted them. And they came up and took hold of His feet and worshiped Him. ^10^Then Jesus said to them, \jesus{“Do not be afraid; go and take word to My brethren to leave for Galilee, and there they will see Me.”}
 
 > ^11^Now while they were on their way, some of the guard came into the city and reported to the chief priests all that had happened. ^12^And when they had assembled with the elders and consulted together, they gave a large sum of money to the soldiers, ^13^and said, “You are to say, ‘His disciples came by night and stole Him away while we were asleep.’ ^14^“And if this should come to the governor’s ears, we will win him over and keep you out of trouble.” ^15^And they took the money and did as they had been instructed; and this story was widely spread among the Jews, *and is* to this day.
 
-**馬可福音 16:1-8**
+**馬可福音 16:1-5, 7-8**
 
 > ^1^When the Sabbath was over, Mary Magdalene, and Mary the *mother* of James, and Salome, bought spices, so that they might come and anoint Him. ^2^Very early on the first day of the week, they came to the tomb when the sun had risen. ^3^They were saying to one another, “Who will roll away the stone for us from the entrance of the tomb?” ^4^Looking up, they saw that the stone had been rolled away, although it was extremely large.
 
-> ^5^Entering the tomb, they saw a young man sitting at the right, wearing a white robe; and they were amazed. ^6^And he said to them, “Do not be amazed; you are looking for Jesus the Nazarene, who has been crucified. He has risen; He is not here; behold, *here is* the place where they laid Him. ^7^“But go, tell His disciples and Peter, ‘He is going ahead of you to Galilee; there you will see Him, just as He told you.’” ^8^They went out and fled from the tomb, for trembling and astonishment had gripped them; and they said nothing to anyone, for they were afraid.
+> ^5^Entering the tomb, they saw a young man sitting at the right, wearing a white robe; and they were amazed. ^7^“But go, tell His disciples and Peter, ‘He is going ahead of you to Galilee; there you will see Him, just as He told you.’” ^8^They went out and fled from the tomb, for trembling and astonishment had gripped them; and they said nothing to anyone, for they were afraid.
 
 *(The earliest manuscripts end Mark at 16:8; verses 9-20 are not printed here.)*
 
-**路加福音 24:1-12**
+**路加福音 24:3-12**
 
-> ^1^But on the first day of the week, at early dawn, they came to the tomb bringing the spices which they had prepared. ^2^And they found the stone rolled away from the tomb, ^3^but when they entered, they did not find the body of the Lord Jesus.
+> ^3^but when they entered, they did not find the body of the Lord Jesus.
 
 > ^4^While they were perplexed about this, behold, two men suddenly stood near them in dazzling clothing; ^5^and as *the women* were terrified and bowed their faces to the ground, *the men* said to them, “Why do you seek the living One among the dead? ^6^“He is not here, but He has risen. Remember how He spoke to you while He was still in Galilee, ^7^saying that the Son of Man must be delivered into the hands of sinful men, and be crucified, and the third day rise again.”
 
@@ -109,6 +107,8 @@ publisher: 三書精讀出版系統
 > ^1^Now on the first *day* of the week Mary Magdalene came early to the tomb, while it was still dark, and saw the stone *already* taken away from the tomb. ^2^So she ran and came to Simon Peter and to the other disciple whom Jesus loved, and said to them, “They have taken away the Lord out of the tomb, and we do not know where they have laid Him.” ^3^So Peter and the other disciple went forth, and they were going to the tomb. ^4^The two were running together; and the other disciple ran ahead faster than Peter and came to the tomb first; ^5^and stooping and looking in, he saw the linen wrappings lying *there;* but he did not go in. ^6^And so Simon Peter also came, following him, and entered the tomb; and he saw the linen wrappings lying *there,* ^7^and the face-cloth which had been on His head, not lying with the linen wrappings, but rolled up in a place by itself. ^8^So the other disciple who had first come to the tomb then also entered, and he saw and believed. ^9^For as yet they did not understand the Scripture, that He must rise again from the dead. ^10^So the disciples went away again to their own homes.
 
 > ^11^But Mary was standing outside the tomb weeping; and so, as she wept, she stooped and looked into the tomb; ^12^and she saw two angels in white sitting, one at the head and one at the feet, where the body of Jesus had been lying. ^13^And they said to her, “Woman, why are you weeping?” She said to them, “Because they have taken away my Lord, and I do not know where they have laid Him.” ^14^When she had said this, she turned around and saw Jesus standing *there,* and did not know that it was Jesus. ^15^Jesus said to her, \jesus{“Woman, why are you weeping? Whom are you seeking?”} Supposing Him to be the gardener, she said to Him, “Sir, if you have carried Him away, tell me where you have laid Him, and I will take Him away.” ^16^Jesus said to her, \jesus{“Mary!”} She turned and said to Him in Hebrew, “Rabboni!” (which means, Teacher). ^17^Jesus said to her, \jesus{“Stop clinging to Me, for I have not yet ascended to the Father; but go to My brethren and say to them, ‘I ascend to My Father and your Father, and My God and your God.’”} ^18^Mary Magdalene came, announcing to the disciples, “I have seen the Lord,” and *that* He had said these things to her.
+
+Parallel passages (read in your Bible): Matthew 28:1, 5-7; Mark 16:6; Luke 24:1-2.
 
 ---
 
