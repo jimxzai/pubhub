@@ -199,7 +199,7 @@ publisher: 三書精讀出版系統
 
 > 指出耶穌宣告「the Son of Man is Lord even of the Sabbath day」，這是宣告絕對的權柄：「I initiate it and I will interpret it」（安息日是我設立的，也由我來詮釋）。論「比聖殿更大」：這宣告「absolutely shocking」，是「a claim to deity」——神昔日同在於會幕、聖殿之中，如今這同在的實體就在基督自己裏面，故祂比任何屬物質的聖殿都更大。MacArthur 也描繪法利賽人敵意升級的軌跡：從懷疑、批評、冷淡，終至「open rejection and ultimately to blasphemy」——他們的憤怒，正因安息日「was the focus of all of their religious activity」，而耶穌打破了他們加給安息日的重擔。
 >
-> — John MacArthur, "The Lord of the Sabbath" (Matthew 12:1-8), Grace to You, gty.org
+> — John MacArthur, "The Lord of the Sabbath" (Matthew 12:1-8) (sermon 2290), Grace to You, gty.org
 
 ---
 

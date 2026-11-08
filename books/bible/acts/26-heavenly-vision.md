@@ -202,7 +202,7 @@ publisher: PubHub 三書精讀系統
 >
 > 「經文原意並非如此。希臘原文說的是：『你想在這麼短的時間內就說服我改信嗎？』」
 >
-> — John MacArthur, *"Paul Before Agrippa, Part 3: Are You Trying to Convert Me?"*，Grace to You, gty.org
+> — John MacArthur, *"Paul Before Agrippa, Part 3: Are You Trying to Convert Me?"* (sermon 1798)，Grace to You, gty.org
 
 ---
 

@@ -366,7 +366,7 @@ publisher: 三書精讀出版系統
 >
 > 他的宣認失敗了，他的勇氣失敗了，他的信心卻沒有失敗。（41-78）
 
-> — John MacArthur, *Players in the Drama of the Cross, Part 2* (41-72), *The New Passover* (41-73), *The Agony of the Cup* (41-75), *Peter's Denial: A Warning About Self-Confidence* (41-78), gty.org
+> — John MacArthur, *Players in the Drama of the Cross, Part 2* (sermon 41-72), *The New Passover* (sermon 41-73), *The Agony of the Cup* (sermon 41-75), *Peter's Denial: A Warning About Self-Confidence* (sermon 41-78), gty.org
 
 ---
 

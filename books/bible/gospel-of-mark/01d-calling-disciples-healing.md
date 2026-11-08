@@ -284,7 +284,7 @@ publisher: 三書精讀出版系統
 >
 > 那場醫治的大爆發不是為了提供健康，是為了印證真實的福音與真實的彌賽亞。
 
-> — John MacArthur, *Jesus' Strategy for Effective Ministry* (41-4), *Cosmic Authority* (41-5), *Kingdom Power* (41-6), gty.org
+> — John MacArthur, *Jesus' Strategy for Effective Ministry* (sermon 41-4), *Cosmic Authority* (sermon 41-5), *Kingdom Power* (sermon 41-6), gty.org
 
 ---
 

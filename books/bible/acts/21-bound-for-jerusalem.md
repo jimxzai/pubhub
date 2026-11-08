@@ -183,7 +183,7 @@ publisher: PubHub 三書精讀系統
 >
 > 「這整場騷動，是被煽動起來的狂熱——完完全全是一場捏造出來、用以煽動暴民攻擊他的謊言。」麥克阿瑟指出，21:27-29那句「污穢了這聖地」的控告根本站不住腳，卻足以在幾分鐘內點燃全城的怒火。
 >
-> — John MacArthur, *"Paul's Arrest, Part 4: The Attitude of Paul"*（論徒21:27-40），Grace to You, gty.org
+> — John MacArthur, *"Paul's Arrest, Part 4: The Attitude of Paul"*（論徒21:27-40） (sermon 1787)，Grace to You, gty.org
 
 ---
 

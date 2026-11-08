@@ -161,7 +161,7 @@ publisher: PubHub 三書精讀系統
 
 **屈梭多模 (John Chrysostom)**：
 
-> "The two unlearned men beat down with their rhetoric them and the chief priests. For it was not they that spoke, but the grace of the Spirit."
+> "The two unlearned men beat down with their rhetoric them and the chief priests. For it was not they that spake, but the grace of the Spirit."
 >
 > 「這兩個沒有學問的人，用他們的言辭，把公會的人和祭司長們都駁倒了。因為說話的不是他們，是聖靈的恩典。」
 >

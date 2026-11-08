@@ -220,13 +220,13 @@ publisher: 三書精讀出版系統
 >
 > 你會說，信心的全備光輝照耀在百夫長身上，而在這位管會堂的身上，幾乎看不見一絲蹤影。
 
-> "We see, then, that his faith was feeble and nearly exhausted. Yet Christ yields to his prayers, and encourages him to expect a favourable result."
+> "We see, then, that his faith was feeble and nearly exhausted. Yet Christ yields to his prayers, and encourages him to expect a favorable result."
 >
 > 可見他的信心微弱，幾乎耗盡。基督卻仍應允他的祈求，並鼓勵他指望美好的結果——縱使那信心何等微小，也沒有被全然棄絕。
 
 **「不要怕，只要信」**：這句話在加爾文筆下是一道門——別把它關上。
 
-> "Christ therefore bids him take care lest, by fear or distrust, he shut out that grace, to which death will be no hinderance."
+> "Christ therefore bids him take care lest, by fear or distrust, he shut out that grace, to which death will be no hindrance."
 >
 > 因此基督囑咐他要小心，免得因懼怕或不信，把那恩典關在門外——就是連死亡也攔阻不了的恩典。
 
@@ -296,7 +296,7 @@ publisher: 三書精讀出版系統
 >
 > 這希臘文動詞是 sōzō，「拯救」。這正是聖經用來指救恩的那個字。
 
-> — John MacArthur, *Dominating Powers, Part 2* (41-23), *The Power and Pity of Jesus, Part 1 & 2* (41-24, 41-25), gty.org
+> — John MacArthur, *Dominating Powers, Part 2* (sermon 41-23), *The Power and Pity of Jesus, Part 1 & 2* (sermon 41-24, 41-25), gty.org
 
 ---
 

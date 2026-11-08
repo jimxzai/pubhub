@@ -199,7 +199,7 @@ publisher: 三書精讀出版系統
 
 **沉默不是拒絕，是磨刀**：主對迦南婦人一言不發，加爾文說那正是在她心裏做工。
 
-> "We see then that the design of Christ's silence was not to extinguish the woman's faith, but rather to whet her zeal and inflame her ardour."
+> "We see then that the design of Christ's silence was not to extinguish the woman's faith, but rather to whet her zeal and inflame her ardor."
 >
 > 由此可見，基督沉默的用意不是要熄滅這婦人的信心，而是要磨礪她的熱切、煽旺她的火熱。
 
@@ -289,7 +289,7 @@ publisher: 三書精讀出版系統
 >
 > 沒有療程，沒有學習曲線；沒有人得教他怎樣發音、怎樣組字，也沒有人得教他那些字是甚麼意思。
 
-> — John MacArthur, *Scripture-Twisting Tradition* (41-32), *The Inside Story on Defilement* (41-33), *Food from the Master's Table* (41-34), *To Speak or Not to Speak* (41-35), gty.org
+> — John MacArthur, *Scripture-Twisting Tradition* (sermon 41-32), *The Inside Story on Defilement* (sermon 41-33), *Food from the Master's Table* (sermon 41-34), *To Speak or Not to Speak* (sermon 41-35), gty.org
 
 ---
 

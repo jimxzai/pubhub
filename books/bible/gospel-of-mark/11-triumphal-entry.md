@@ -204,9 +204,9 @@ publisher: 三書精讀出版系統
 
 **一場貧窮的儀仗**：這不是失控的群眾運動，是主自己刻意安排的宣告——把王的身分擺在耶路撒冷面前，卻拒絕王權倚仗的一切排場。
 
-> "So He rode in the dignity of a great meekness, divested of all the things that humanity had for so long associated with Kingship, and still associates with Kingship. It was a pageant of poverty."
+> "So He rode in the dignity of a great meekness, divested of all the things that humanity had for so long associated with Kingship … It was a pageant of poverty."
 >
-> 祂就這樣騎著進城，帶著極大謙卑的尊嚴，脫盡了人類向來與君王身分聯繫、至今仍如此聯繫的一切。那是一場貧窮的儀仗。
+> 祂就這樣騎著進城，帶著極大謙卑的尊嚴，脫盡了人類向來與君王身分聯繫的一切。那是一場貧窮的儀仗。
 
 **察驗的目光**：第一天入城，耶穌沒有動手，只「周圍看了各樣物件」。摩根不讓這一眼輕輕過去：
 
@@ -270,7 +270,7 @@ publisher: 三書精讀出版系統
 >
 > 他們與耶穌打交道，從來沒有一次是對真理有興趣的，從來沒有。（41-59）
 
-> — John MacArthur, *The False Coronation of the True King* (41-56), *Nothing but Leaves* (41-57), *The Confrontation Over Authority* (41-59), gty.org
+> — John MacArthur, *The False Coronation of the True King* (sermon 41-56), *Nothing but Leaves* (sermon 41-57), *The Confrontation Over Authority* (sermon 41-59), gty.org
 
 ---
 

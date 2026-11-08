@@ -308,7 +308,7 @@ publisher: 三書精讀出版系統
 
 論休妻一段（10:1-12），他的立場是：摩西的條例是對人心剛硬的讓步，不是神起初的心意——此處他所讀的是經文本身（10:5-6），非其自述之語，故不加引號。
 
-> — John MacArthur, *The Truth About Divorce, Part 1* (41-48), *The Blasphemy of the Rich Young Ruler* (41-51), *The Greatness of Being a Slave* (41-54), *The Final Miracle of Mercy* (41-55), gty.org
+> — John MacArthur, *The Truth About Divorce, Part 1* (sermon 41-48), *The Blasphemy of the Rich Young Ruler* (sermon 41-51), *The Greatness of Being a Slave* (sermon 41-54), *The Final Miracle of Mercy* (sermon 41-55), gty.org
 
 ### 四條進路的交會 (Where the Readings Converge)
 

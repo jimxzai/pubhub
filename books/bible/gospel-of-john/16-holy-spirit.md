@@ -140,7 +140,7 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine)**:
 
-> "'He shall make me clearly known; for He shall receive of mine, and shall show it unto you.'"
+> "'He shall make me clearly known; … for He shall receive of mine, and shall show it unto you.'"
 >
 > 「祂要把我清楚地顯明出來；因為祂要受於我，指示給你們。」——奧古斯丁以此句為 16:14 的解釋重心：**聖靈的工作是把基督顯明。**
 >

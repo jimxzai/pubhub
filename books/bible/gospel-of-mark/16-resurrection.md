@@ -89,7 +89,7 @@ publisher: 三書精讀出版系統
 
 | 希臘文 | 音譯 | 意義 | 經文 | 註解 |
 |---------------------|--------------------|-------|------------|-----------|
-| ἠγέρθη | ēgerthē | 已經復活了 | 16:6 | 被動語態、完成式意味，強調復活已經發生且持續有效——不是「祂復活了」這樣交代完就結束的過去動作，是「祂如今是復活的」這個仍在延續的事實 |
+| ἠγέρθη | ēgerthē | 已經復活了 | 16:6 | 被動語態、不定過去時（aorist）：宣告復活這件事已經發生，被動式說的是「被叫起來」，行動者是神；至於「祂如今仍是復活的」這個延續的狀態，新約另用完成式 ἐγήγερται 表達（如林前 15:4） |
 | τρόμος καὶ ἔκστασις | tromos kai ekstasis | 發抖又驚奇 | 16:8 | 兩個字疊用，形容婦女面對空墳墓時，一種混合著敬畏與震驚、超出言語所能承載的複雜情感反應 |
 | κηρύξατε τὸ εὐαγγέλιον | kēryxate to euangelion | 你們要傳福音 | 16:15 | 呼應1:1「福音的起頭」、1:14「宣傳神的福音」——同一個「福音」，從主自己傳，交到門徒手上去傳 |
 | ἀνελήμφθη | anelēmphthē | 被接（到天上） | 16:19 | 被動語態，字面「被接上去」，暗示這是神主動的作為，而非耶穌自行升天 |
@@ -145,7 +145,7 @@ publisher: 三書精讀出版系統
 
 **抱住祂的腳——用觸摸得來的憑據**：屈梭多模看重那一個動作：她們不只聽見，還摸著了。
 
-> "they held Him by the feet, and with exceeding joy and gladness ran unto Him, and received by the touch also, an infallible proof, and full assurance of the resurrection"
+> "they held Him by the feet, … and with exceeding joy and gladness ran unto Him, and received by the touch also, an infallible proof, and full assurance of the resurrection"
 >
 > 她們抱住祂的腳，帶著極大的歡喜快樂奔向祂，並且藉著觸摸，也得著了復活確鑿無疑的憑據與十足的確信。
 
@@ -181,7 +181,7 @@ publisher: 三書精讀出版系統
 
 **天使把宣告的職分交在婦女手上**：加爾文讀出這安排裏的刻意——是要責備使徒的遲鈍。
 
-> "Here God, by the angel, confers extraordinary honour on the women, by enjoining them to proclaim to the apostles themselves the chief point of our salvation."
+> "Here God, by the angel, confers extraordinary honor on the women, by enjoining them to proclaim to the apostles themselves the chief point of our salvation."
 >
 > 神在此藉著天使，將格外的尊榮賜給這些婦女，吩咐她們親自向使徒宣告我們救恩的核心要義。
 
@@ -255,7 +255,7 @@ publisher: 三書精讀出版系統
 >
 > 它結束在馬可最喜歡結束的地方——結束在對復活的驚奇與希奇之中。（41-85）
 
-> — John MacArthur, *Amazement at the Empty Tomb* (41-84), *The Fitting End to Mark's Gospel* (41-85), gty.org
+> — John MacArthur, *Amazement at the Empty Tomb* (sermon 41-84), *The Fitting End to Mark's Gospel* (sermon 41-85), gty.org
 
 ---
 

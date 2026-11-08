@@ -174,7 +174,7 @@ publisher: 三書精讀出版系統
 
 接著他把這一幕直接扣回腓立比書二章的僕人形像——祂所領受的，正是「僕人」這身分所當有的樣子：
 
-> "And so Christ bids him consider, what was suitable to the character of a servant, (Phil. ii. 7,) which he had undertaken"
+> "And so Christ bids him consider, what was suitable to the character of a servant, (Philippians 2:7,) which he had undertaken"
 >
 > 於是基督叫他想想：甚麼才合乎祂所擔起的「僕人」身分（腓2:7）。
 

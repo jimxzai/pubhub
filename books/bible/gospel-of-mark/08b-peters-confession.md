@@ -261,7 +261,7 @@ publisher: 三書精讀出版系統
 >
 > 你的靈魂比這世上的一切更有價值，因為這世界終要被焚燒。
 
-> — John MacArthur, *The Ultimate Good News/Bad News* (41-40), *Losing Your Life to Save It* (41-41), gty.org
+> — John MacArthur, *The Ultimate Good News/Bad News* (sermon 41-40), *Losing Your Life to Save It* (sermon 41-41), gty.org
 
 ---
 

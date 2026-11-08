@@ -192,7 +192,7 @@ publisher: PubHub 三書精讀系統
 >
 > 「他用他們自己的母語向他們說話。你看，他正是那個合適的人。」——麥克阿瑟指出，保羅一生的裝備——猶太根基加上羅馬公民身分、希臘教育——使他成了此刻唯一能同時對猶太群眾與羅馬官長說話的人。
 >
-> — John MacArthur, *"Paul's Arrest, Part 2: Positive Testimony in Negative Situation"*, Grace to You, gty.org
+> — John MacArthur, *"Paul's Arrest, Part 2: Positive Testimony in Negative Situation"* (sermon 1785), Grace to You, gty.org
 
 ---
 

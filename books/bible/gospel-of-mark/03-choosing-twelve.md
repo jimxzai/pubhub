@@ -278,7 +278,7 @@ publisher: 三書精讀出版系統
 >
 > 若在得著完全啟示之後，這是你最終的結論；若這是你對完全明白的福音、對聖經所載基督完全啟示的回應；若這是你最後的斷案，你就永不能得赦免。
 
-> — John MacArthur, *Twelve Ordinary Men* (41-14), *The Unforgivable Sin* (41-16), gty.org
+> — John MacArthur, *Twelve Ordinary Men* (sermon 41-14), *The Unforgivable Sin* (sermon 41-16), gty.org
 
 ---
 

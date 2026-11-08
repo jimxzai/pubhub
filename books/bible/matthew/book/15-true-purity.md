@@ -202,11 +202,11 @@ publisher: 三書精讀出版系統
 >
 > — G. Campbell Morgan, *The Gospel According to Matthew*, on Matthew 15（轉引自 bibliaplus.org）
 
-摩根論真正的污穢：
+摩根論這章的問題不在清潔，在儀文：
 
-> "Those things which proceed out of the mouth come forth from the heart; and they defile the man."
+> "The question was not of cleanliness, but of ritual."
 >
-> 從口裏出來的，是從心裏發出來的；正是這些東西污穢了人。
+> 問題不在清潔，而在儀文。
 >
 > — 同上
 

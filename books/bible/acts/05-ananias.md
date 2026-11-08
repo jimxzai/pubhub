@@ -174,19 +174,13 @@ publisher: PubHub 三書精讀系統
 
 **教會誕生之初的聖潔守衛**：這一觀察撐起了摩根對整段記載的理解方向——神在教會最初的日子裏親自介入，不是要恐嚇祂的百姓，而是要在教會還幼小、根基還在打的時候，就立下一個無可妥協的原則：這是一個屬神的群體，容不下虛假。
 
-**迦瑪列比撒都該人更接近真理，卻仍未信**：論到公會裏的爭議，摩根指出：
+**迦瑪列的建議：對教會好，對反對者卻是軟弱**：論到公會裏迦瑪列的建議，摩根這樣評：
 
-> "Gamaliel was a Pharisee, and really found himself more in agreement with the doctrine of the apostles than with the rationalism of the Sadducees."
+> "This advice was by no means strong, but pre-eminently weak. From the standpoint of the Church, the advice of Gamaliel to give them time was excellent; but from the standpoint of the opposition it was weak."
 >
-> 迦瑪列是法利賽人，他其實更認同使徒的教訓，而非撒都該人的理性主義。
+> 這個建議絕不是堅強的，而是極其軟弱的。從教會的立場看，迦瑪列叫他們給時間，是極好的；但從反對者的立場看，它是軟弱的。
 
-摩根接著記下迦瑪列給議會的建議：
-
-> "He advised, therefore, that these men should be left alone."
->
-> 因此他建議，這些人應該被放任不理。
-
-**中立不是敬虔的終點**：摩根的觀察點出一個常被忽略的細節——迦瑪列的立場，其實根植於他與使徒教訓更接近的傾向，而不只是單純的政治審慎。然而，這段記載也留下一個沒有解答的問題：迦瑪列後來是否真正信了福音？聖經沒有記載。認出「神的作為不能被攔阻」是一回事，真心降服在這位神面前，是另一回事。
+**中立不是敬虔的終點**：迦瑪列的建議讓使徒暫時得了喘息，摩根卻看出它的軟弱：任事情自己漂流、等著看結果，不是堅定的態度。至於迦瑪列後來是否真正信了福音，聖經沒有記載。認出「神的作為不能被攔阻」是一回事，真心降服在這位神面前，是另一回事。
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳第五章釋經）
 

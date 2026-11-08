@@ -160,9 +160,9 @@ publisher: 三書精讀出版系統
 >
 > — John Calvin, *Commentary on a Harmony of the Evangelists*，論路 2:1-4（CCEL, calcom31）
 
-> "When he was thrown into a stable, and placed in a manger, and a lodging refused him among men, it was that heaven might be opened to us, not as a temporary lodging, but as our eternal country and inheritance."
+> "When he was thrown into a stable, and placed in a manger, and a lodging refused him among men, it was that heaven might be opened to us, not as a temporary lodging, … but as our eternal country and inheritance."
 >
-> 「當祂被丟在牲口棚裏、放在馬槽中、在人間求宿而被拒——**這是為要叫天向我們開啟**；不是作暫時的寄宿，乃是作我們永遠的家鄉與基業。」
+> 「當祂被丟在牲口棚裏、放在馬槽中、在人間求宿而被拒——**這是為要叫天向我們開啟**；不是作暫時的寄宿……乃是作我們永遠的家鄉與基業。」
 >
 > — John Calvin, 同上，論路 2:7
 

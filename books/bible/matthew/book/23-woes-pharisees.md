@@ -153,7 +153,7 @@ publisher: 三書精讀出版系統
 
 **屈梭多模 (John Chrysostom, 約349-407)**：
 
-> "All their works they do, He says, to be seen of men." … "For every one is worthy of blame in transgressing the law, but especially he that bears the authority of teaching."
+> "all their works they do," He saith, "to be seen of men." … "For every one is worthy of blame in transgressing the law, but especially he that bears the authority of teaching."
 >
 > 「祂說，他們一切所做的事，都是要叫人看見。」……「凡違背律法的人都當受責備，但那擔負教導權柄的人，尤其該當。」
 >
@@ -189,7 +189,7 @@ publisher: 三書精讀出版系統
 >
 > 「一個在舞台上扮演角色的人；一個假裝成自己並不是的那個人。」……「一種舞台式的良善，外表招搖著良善，裏面卻是邪惡的。」
 >
-> — John MacArthur, *"The Condemnation of False Spiritual Leaders, Part 1"*（論太23:1-12講道），Grace to You, gty.org
+> — John MacArthur, *"The Condemnation of False Spiritual Leaders, Part 1"*（論太23:1-12講道） (sermon 2362)，Grace to You, gty.org
 
 麥克阿瑟提醒：耶穌在整本福音書裏用詞最嚴厲的對象不是稅吏、娼妓、外邦人，而是宗教領袖——**假冒為善的傷害，不只傷害演員自己，更把跟隨的群眾一同帶向地獄（23:15）。**
 

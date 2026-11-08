@@ -290,7 +290,7 @@ publisher: 三書精讀出版系統
 
 這與加爾文的讀法對比鮮明，讀者可自行判斷。
 
-> — John MacArthur, *The Rejected Cornerstone* (41-60), *Loving God* (41-63), *Religion and Its Victims* (41-65), gty.org
+> — John MacArthur, *The Rejected Cornerstone* (sermon 41-60), *Loving God* (sermon 41-63), *Religion and Its Victims* (sermon 41-65), gty.org
 
 ---
 

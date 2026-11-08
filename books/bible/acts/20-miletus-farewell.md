@@ -198,13 +198,13 @@ publisher: PubHub 三書精讀系統
 >
 > 「這是在說，神的這群羊是何等寶貴，以致祂付上了至高的代價。」
 >
-> — John MacArthur, *"A Charge to New Testament Church Leaders, Part 1"*（論徒20:25-28），Grace to You, gty.org
+> — John MacArthur, *"A Charge to New Testament Church Leaders, Part 1"*（論徒20:25-28） (sermon 1779)，Grace to You, gty.org
 
-> "'It is more blessed to give than receive.' He says to those men, 'Remember in your ministry, the most thing is giving, giving, giving, giving; not receiving.'"
+> "'It’s more blessed to give than receive.' He says to those men, 'Remember in your ministry, the most thing is giving, giving, giving, giving; not receiving.'"
 >
 > 「『施比受更為有福』——保羅是在對這些人說：『你們在服事裏要記得，最要緊的是給、給、給、給，不是取。』」麥克阿瑟又論到長老們送別的場景：「『眾人痛哭，抱著保羅的頸項』——你以為他們只是喜歡他嗎？他在他們生命裏是何等重要的人物，這一點毫無疑問。」
 >
-> — John MacArthur, *"A Charge to New Testament Church Leaders, Part 2"*（論徒20:29-38），Grace to You, gty.org
+> — John MacArthur, *"A Charge to New Testament Church Leaders, Part 2"*（論徒20:29-38） (sermon 1780)，Grace to You, gty.org
 
 ---
 

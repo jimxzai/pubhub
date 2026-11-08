@@ -314,7 +314,7 @@ publisher: 三書精讀出版系統
 >
 > 風暴中他們害怕；如今他們是大大地害怕。為甚麼？因為比船外有風暴更難受的，是船裏有神——這就足以叫人驚慌失措。
 
-> — John MacArthur, *A Survey of the Soils* (41-17), *How to Listen to the Lord* (41-20), *Calming the Storm* (41-21), gty.org
+> — John MacArthur, *A Survey of the Soils* (sermon 41-17), *How to Listen to the Lord* (sermon 41-20), *Calming the Storm* (sermon 41-21), gty.org
 
 ---
 

@@ -186,9 +186,9 @@ publisher: PubHub 三書精讀系統
 
 **兩個記號，一個經歷**：摩根特別留意路加刻意安排的兩個記號——一個訴諸聽覺，一個訴諸視覺：
 
-> "Two symbols were given—one appealing to hearing, 'a rushing mighty wind'; the symbol of sight—'tongues . . . of fire,' a plurality and a unity, the tongues were many; but the fire was One."
+> "Two symbols were given - one appealing to hearing, and the other to seeing. The symbol of sound - "a rushing mighty wind"; the symbol of sight - "tongues ... of fire," a plurality and a unity, the tongues were many; but the fire was One."
 >
-> 「兩個記號被賜下——一個是訴諸聽覺的，『一陣大風』；一個是訴諸視覺的，『舌頭……如火焰』，是眾多又是合一：舌頭是眾多的，但火卻是同一個。」
+> 「兩個記號被賜下——一個訴諸聽覺，一個訴諸視覺。聲音的記號是『一陣大風』；視覺的記號是『舌頭……如火焰』，是眾多又是合一：舌頭是眾多的，但火卻是同一個。」
 >
 > — G. Campbell Morgan, *The Acts of the Apostles*
 
@@ -212,11 +212,11 @@ publisher: PubHub 三書精讀系統
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "It wasn't real wind, and it wasn't real fire. It was the sound of a rushing violent wind, and it was the appearance of fire."
+> "It wasn't real wind, and it wasn't real fire. It was the sound of … a rushing violent wind, and it was the appearance of fire."
 >
 > 「那不是真實的風，也不是真實的火。是一陣猛烈的風的聲音，是火的樣式顯現出來。」
 >
-> — John MacArthur, *"The Birth of the Church, Part 1"*，Grace to You, gty.org
+> — John MacArthur, *"The Birth of the Church, Part 1"* (sermon 44-6)，Grace to You, gty.org
 
 MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉捩點：
 
@@ -224,7 +224,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「教會就在那一刻誕生了。聖靈就在那一刻來到了。」
 >
-> — John MacArthur, *"The Birth of the Church, Part 1"*，Grace to You, gty.org
+> — John MacArthur, *"The Birth of the Church, Part 1"* (sermon 44-6)，Grace to You, gty.org
 
 ---
 

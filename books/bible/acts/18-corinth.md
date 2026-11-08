@@ -173,13 +173,13 @@ publisher: PubHub 三書精讀系統
 >
 > 「『在這城裏我有許多的百姓』——換句話說，這裏有一些人是創世以前就蒙揀選的，他們正等候聽見福音，好使他們能夠相信。」
 >
-> — John MacArthur, *"The Gospel in Vanity Fair, Part 3"*（論徒18:1-18），Grace to You, gty.org
+> — John MacArthur, *"The Gospel in Vanity Fair, Part 3"*（論徒18:1-18） (sermon 1767)，Grace to You, gty.org
 
-> "He was an eloquent man, and mighty in the Scriptures... they took him under them and expounded unto him the way of God more perfectly."
+> "an eloquent man, and mighty in the Scriptures, came to Ephesus." … "they took him under them and expounded unto him the way of God more perfectly."
 >
 > 麥克阿瑟指出，亞波羅天賦的口才與紮實的舊約知識，若沒有百基拉、亞居拉私下「更完全地」講解神的道，仍不足以使他成為完整的福音使者。
 >
-> — John MacArthur, *"From Judaism to Jesus, Part 2: Apollos in Transition"*（論徒18:24-28，講於1974年1月20日），Grace to You, gty.org
+> — John MacArthur, *"From Judaism to Jesus, Part 2: Apollos in Transition"*（論徒18:24-28，講於1974年1月20日） (sermon 1769)，Grace to You, gty.org
 
 ---
 

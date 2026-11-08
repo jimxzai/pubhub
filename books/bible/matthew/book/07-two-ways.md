@@ -209,7 +209,7 @@ publisher: 三書精讀出版系統
 
 **《十二使徒遺訓》（Didache，主後一至二世紀）** 開篇第一句：
 
-> "There are two ways, one of life and one of death, and there is a great difference between the two ways."
+> "There are two ways, one of life and one of death, but a great difference between the two ways."
 >
 > 「路有兩條：一條是生命的路，一條是死亡的路；這兩條路之間的差別是大的。」
 >
@@ -250,16 +250,18 @@ publisher: 三書精讀出版系統
 > **你們要嘗嘗主恩的滋味，便知道他是美善！**
 > 投靠他的人有福了！
 
-### Seek Ye First
+### Blest Are the Pure in Heart
 
-> Seek ye first the kingdom of God,
-> And His righteousness,
-> And all these things shall be added unto you,
-> Allelu, alleluia.
+> *John Keble, 1819（收入 *The Christian Year*, 1827）*
 >
-> 你們要先求他的國和他的義，這一切都要加給你們，哈利路亞。
+> Blest are the pure in heart,
+> For they shall see our God;
+> The secret of the Lord is theirs,
+> Their soul is Christ's abode.
+>
+> 清心的人有福了，他們必得見我們的神；主的奧祕屬於他們，他們的心就是基督的居所。（編者中譯）
 
-登山寶訓從八福走到「你們要先求」——不是先解決憂慮，是先安放次序；次序對了，供應自會跟上。**這首詩唱的不是一次的決定，是一條路的方向。**
+登山寶訓從八福說起，其中一幅圖畫就是「清心的人有福了！因為他們必得見神」（5:8）。這首詩把那一節唱成禱告。**八福不是一份成績單，是一個方向。**
 
 ---
 

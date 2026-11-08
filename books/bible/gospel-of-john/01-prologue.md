@@ -142,9 +142,9 @@ publisher: 三書精讀出版系統
 
 **俄利根 (Origen, 185-254)**:
 
-> "Let any one collect the Scripture passages in which the word occurs… and he will find that the word [beginning] has many meanings in sacred discourse."
+> "Let any one collect the Scripture passages in which the word occurs… and he will find that the word has many meanings in sacred discourse also."
 >
-> 「誰若把聖經中出現這詞的經文都收集起來……就會發現『太初／起頭』一詞在聖言中有許多層意義。」——俄利根的《約翰福音註釋》即以逐層分辨 ἀρχή 的意義開卷。
+> 「誰若把聖經中出現這詞的經文都收集起來……就會發現這詞在聖言中也有許多層意義。」——俄利根的《約翰福音註釋》即以逐層分辨 ἀρχή 的意義開卷。
 >
 > — Origen, *Commentary on the Gospel of John*, Book I（ANF09, CCEL）
 

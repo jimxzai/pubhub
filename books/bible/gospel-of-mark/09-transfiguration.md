@@ -304,7 +304,7 @@ publisher: 三書精讀出版系統
 
 論門徒爭論誰為大，他的落點是（立場綜述）：學習謙卑，就是在打下成聖的地基；驕傲卻破壞合一、使人喪失尊榮，末了抗拒神。
 
-> — John MacArthur, *The Unveiled Son* (41-43), *All Things Possible* (41-45), *The Virtue of Being Last* (41-46), gty.org（41-43、41-45 兩篇逐字稿已核對）
+> — John MacArthur, *The Unveiled Son* (sermon 41-43), *All Things Possible* (sermon 41-45), *The Virtue of Being Last* (sermon 41-46), gty.org（41-43、41-45 兩篇逐字稿已核對）
 
 ---
 

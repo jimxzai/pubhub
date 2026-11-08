@@ -187,7 +187,7 @@ publisher: 三書精讀出版系統
 
 **兩次的籃數為甚麼不同**：屈梭多模給了兩個可能，第二個更有意思。
 
-> "Either then one may say this, that the baskets on this last occasion were greater than those used before, or if this were not so, lest the equality of the miracle should again cast them into forgetfulness, He rouses their recollection by the difference, that by the variation they might be reminded of both one and the other."
+> "Either then one may say this, that the baskets on this last occasion … were greater than those used before, or if this were not so, lest the equality of the miracle should again cast them into forgetfulness, He rouses their recollection by the difference, that by the variation they might be reminded of both one and the other."
 >
 > 或者可以這樣說：這一次所用的筐子比先前的大；若不是這樣，那就是免得兩次神蹟數目相同、又叫他們淡忘，祂便藉著這差異喚起他們的記性，好使他們因著這不同，同時記起前後兩次。
 
@@ -279,11 +279,11 @@ publisher: 三書精讀出版系統
 
 他把這幅漸進的圖畫接到門徒身上：
 
-> "Their healing from failed sight to partial sight to complete sight came solely from the repeated touch of Jesus."
+> "His healing from failed sight to partial sight to complete sight came solely from the repeated touch of Jesus."
 >
-> 他們從全然看不見，到看見一半，到樣樣看得清楚——全是出於耶穌一再的觸摸。
+> 他從全然看不見，到看見一半，到樣樣看得清楚——全是出於耶穌一再的觸摸。
 
-> — John MacArthur, *Our Compassionate Provider* (41-36), *Spiritual Blindness, Part 1 & 2* (41-37, 41-38), *Jesus' Power over Blindness* (41-39), gty.org
+> — John MacArthur, *Our Compassionate Provider* (sermon 41-36), *Spiritual Blindness, Part 1 & 2* (sermon 41-37, 41-38), *Jesus' Power over Blindness* (sermon 41-39), gty.org
 
 ---
 

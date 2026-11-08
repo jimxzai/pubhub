@@ -176,7 +176,7 @@ publisher: PubHub 三書精讀系統
 
 **屈梭多模 (John Chrysostom)**：
 
-> "This God then, he tells them, is Christ; or rather, the God of all. Him declare I unto you."
+> "This God then, he tells them, is Christ; or rather, the God of all. … Him declare I unto you."
 >
 > 屈梭多模解「未識之神」一節：這位神，保羅告訴他們，就是基督——或者不如說，是萬有的神。「你們所不認識而敬拜的，我現在向你們宣告。」
 >

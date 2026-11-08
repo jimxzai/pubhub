@@ -323,7 +323,7 @@ publisher: 三書精讀出版系統
 >
 > 人越是虔誠，越以自己的宗教為榮、以自己屬靈的成就為榮，就越抗拒恩典的福音。（41-12）
 
-> — John MacArthur, *Jesus' Authority to Forgive Sin* (41-8), *The Scandal of Grace* (41-9), *The Matchless Distinctiveness of the Gospel* (41-10), *Jesus Is Lord of the Sabbath, Part 1 & 2* (41-11, 41-12), gty.org
+> — John MacArthur, *Jesus' Authority to Forgive Sin* (sermon 41-8), *The Scandal of Grace* (sermon 41-9), *The Matchless Distinctiveness of the Gospel* (sermon 41-10), *Jesus Is Lord of the Sabbath, Part 1 & 2* (sermon 41-11, 41-12), gty.org
 
 ---
 

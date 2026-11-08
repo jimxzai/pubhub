@@ -138,7 +138,7 @@ publisher: 三書精讀出版系統
 
 ### 5. 見證的果效：從水罐到城裏
 
-> ^28^那婦人就留下水罐，往城裏去，對眾人說：^29^「你們來看！有一個人把我素來所做的事都說了出來，難道這人就是基督嗎？」
+> ^28^那婦人就留下水罐，往城裏去，對眾人說：^29^「你們來看！有一個人將我素來所行的一切事都給我說出來了，莫非這就是基督嗎？」
 
 她的見證有四個特點：**離開水罐**（物質需要讓位給屬靈使命）、**往城裏去**（主動傳講）、**你們來看**（邀請他人親自遇見耶穌）、**難道這人就是基督嗎**（謙卑的問句，讓人自己判斷，而非替人下結論）。一個正午躲避人群的婦人，成了整城的第一個傳道人——見證的果效，不在於見證人多有把握，而在於她指向的那位是誰。
 
@@ -154,9 +154,9 @@ publisher: 三書精讀出版系統
 
 **奧古斯丁 (Augustine, 354-430)**:
 
-> "Many have in fact understood… the five husbands of this woman to mean the five books of Moses. But since we are hemmed in by what follows, 'And he whom thou now hast is not thy husband,' it appears to me that we can more easily take **the five senses of the body**…"
+> "Many have in fact understood… the five husbands of this woman to mean the five books of Moses. … But since we are hemmed in by what follows, 'And he whom thou now hast is not thy husband,' it appears to me that we can more easily take **the five senses of the body**…"
 >
-> 「確有許多人把這婦人的五個丈夫理解為摩西五經……但因下文『你現在有的並不是你的丈夫』限制了我們，我認為更順的講法，是把那五個丈夫當作**身體的五官**……」
+> 「確有許多人把這婦人的五個丈夫理解為摩西五經……（此處略去論撒馬利亞人的一段）……但因下文『你現在有的並不是你的丈夫』限制了我們，我認為更順的講法，是把那五個丈夫當作**身體的五官**……」
 >
 > — Augustine, *Tractates on John*, **Tractate XV.21**（論約 4:1-42），NPNF1-07
 >
@@ -174,7 +174,7 @@ publisher: 三書精讀出版系統
 
 ### 摩根 (G. Campbell Morgan)
 
-**「衪離了猶太」——決裂的用詞**：摩根指出，約翰用來形容耶穌離開猶太地的動詞，全卷書僅此一次出現，是極強的字眼，「說出一種確定而有意的決裂」。法利賽人聽見耶穌施浸的人數超過約翰，衝突正在逼近，耶穌便主動離開——祂知道這消息會促成祂與法利賽人的對立，時候未到。
+**「祂離了猶太」——決裂的用詞**：摩根指出，約翰用來形容耶穌離開猶太地的動詞，全卷書僅此一次出現，是極強的字眼，「說出一種確定而有意的決裂」。法利賽人聽見耶穌施浸的人數超過約翰，衝突正在逼近，耶穌便主動離開——祂知道這消息會促成祂與法利賽人的對立，時候未到。
 
 **「必須經過撒瑪利亞」的雙重必須**：就地理而言，撒瑪利亞正是猶太到加利利最直的路；但猶太人素常寧可繞道比哩亞，也不願經過撒瑪利亞人的地。摩根認為，這「必須」不僅是路程的必須，更是使命的必須——耶穌拒絕沿用猶太人偏見所劃定的路線，藉此向世人顯明祂彌賽亞職分「宇宙性」的包容。
 

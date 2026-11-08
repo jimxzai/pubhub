@@ -159,7 +159,7 @@ publisher: PubHub 三書精讀系統
 
 **屈梭多模 (Chrysostom)**：
 
-> "A great, yes a great good is fasting: it is circumscribed by no limits. When need was to ordain, then they fast: and to them while fasting, the Spirit spoke."
+> "A great, yes a great good is fasting: it is circumscribed by no limits. When need was to ordain, then they fast: and to them while fasting, the Spirit spake."
 >
 > 「禁食是一件大好事，一件真正的大好事：它不受任何限度的圈限。當要按立的時候，他們禁食；正當他們禁食的時候，聖靈說話了。」
 >

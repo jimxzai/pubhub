@@ -176,13 +176,13 @@ publisher: PubHub 三書精讀系統
 >
 > 「『我因此自己勉勵，對神、對人常存無虧的良心。』」——麥克阿瑟指出，這是保羅一生見證的頂點（"the ultimate end of the testimony of any man"），無虧的良心不是天生的狀態，而是持續合乎神話語、刻意操練出來的結果。
 >
-> — John MacArthur, *"Paul's Trial Before Felix, Part 2: Paul's Defense Begun"*（論24:10-16），Grace to You, gty.org（1974年10月27日）
+> — John MacArthur, *"Paul's Trial Before Felix, Part 2: Paul's Defense Begun"*（論24:10-16） (sermon 1792)，Grace to You, gty.org（1974年10月27日）
 
-> "Felix trembled. Now, part of the faith, part of the content of the faith, is righteousness, self-control, judgment to come." ……"As long as he was shaken, he was doing all right. But it wasn't long till he stopped trembling, and pretty soon, when he heard Paul talk, it didn't mean a thing to him."
+> "Felix" – what? – "trembled." Now, part of the faith, part of the content of the faith, is righteousness, self-control, judgment to come." ……"As long as he was shaken, he was doing all right. But it wasn't long till he stopped trembling, and pretty soon, when he heard Paul talk, it didn't mean a thing to him."
 >
 > 麥克阿瑟指出，腓力斯的顫抖只是曇花一現的悔悟感——聽見公義、節制、將來的審判時他確實震動了，可是不多久，那份震動就過去了，此後保羅再對他講甚麼，都不再能觸動他。
 >
-> — John MacArthur, *"Paul's Trial Before Felix, Part 3: The Tragedy of Postponing Salvation"*，Grace to You, gty.org
+> — John MacArthur, *"Paul's Trial Before Felix, Part 3: The Tragedy of Postponing Salvation"* (sermon 1793)，Grace to You, gty.org
 
 ---
 

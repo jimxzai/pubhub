@@ -310,7 +310,7 @@ publisher: 三書精讀出版系統
 >
 > 這是大祭司職分的終結，是利未祭司職分的終結，也是整個獻祭體系的終結。（41-82）
 
-> — John MacArthur, *Pilate Before Jesus* (41-79), *God Visits Calvary* (41-82), gty.org
+> — John MacArthur, *Pilate Before Jesus* (sermon 41-79), *God Visits Calvary* (sermon 41-82), gty.org
 
 ---
 

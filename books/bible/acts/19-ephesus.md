@@ -173,7 +173,7 @@ publisher: PubHub 三書精讀系統
 
 **約翰·加爾文 (John Calvin)**：
 
-> "This invocation had two faults; for whereas they were enemies to Paul's doctrine, they abuse the color thereof without faith, as it were, unto magical enchantments."
+> "This invocation had two faults; for whereas they were enemies … to Paul's doctrine, they abuse the color thereof without faith, as it were, unto magical enchantments."
 >
 > 「這樣的呼求有兩重過犯：他們本是保羅教義的仇敵，卻濫用其名目，毫無信心地把它當作一種法術咒語。」——加爾文指出士基瓦七子失敗的根源，不在於「耶穌」這名字沒有能力，而在於他們既不信、又敵擋這名字所代表的道，卻妄想支取它的能力。
 >
@@ -199,7 +199,7 @@ publisher: PubHub 三書精讀系統
 >
 > 麥克阿瑟論到19:20這句總結，指出這正是全章的重點：撒但傾其邪術、偶像、暴民一切的權勢加起來對付這道，都不能得勝——真正得勝、大大興旺的，始終是神的道。
 >
-> — John MacArthur, *"Exorcism: True or False? Part 2"*（論徒19:13-20），Grace to You, gty.org
+> — John MacArthur, *"Exorcism: True or False? Part 2"*（論徒19:13-20） (sermon 1772)，Grace to You, gty.org
 
 ---
 

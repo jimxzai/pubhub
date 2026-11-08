@@ -211,7 +211,7 @@ publisher: 三書精讀出版系統
 >
 > 那偉大而至高的認信，正是基督信仰最根本的真實。
 >
-> — John MacArthur, *The Supreme Confession*（論太16:13-17），Grace to You, gty.org
+> — John MacArthur, *The Supreme Confession*（論太16:13-17） (sermon 2317)，Grace to You, gty.org
 
 他指出，這認識不是出於人的推理或傳統，而是出於神的啟示——只有藉著神親自的光照，人才能真正認識基督。
 

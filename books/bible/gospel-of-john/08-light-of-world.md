@@ -214,9 +214,9 @@ publisher: 三書精讀出版系統
 
 **約翰·加爾文 (John Calvin)**:
 
-> "By these words he excludes himself from the ordinary rank of men, and claims for himself a power more than human, a power heavenly and divine."
+> "By these words he excludes himself from the ordinary rank of men, and claims for himself a power more than human, … a power heavenly and divine."
 >
-> 藉這句話，**祂把自己從普通人的行列中分別出來**，為自己宣告一種超乎人的權能——屬天、屬神的權能。
+> 藉這句話，**祂把自己從普通人的行列中分別出來**，為自己宣告一種超乎人的權能……屬天、屬神的權能。
 >
 > — John Calvin, *Commentary on John*, 約 8:58 注（CCEL, calcom34）
 

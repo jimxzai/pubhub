@@ -284,7 +284,7 @@ publisher: 三書精讀出版系統
 >
 > 你終有一死，而你不知道是甚麼時候——你最好預備好。
 
-> — John MacArthur, *The Future Tribulation* (41-67), *The Final Generation, Part 2* (41-70), gty.org
+> — John MacArthur, *The Future Tribulation* (sermon 41-67), *The Final Generation, Part 2* (sermon 41-70), gty.org
 
 麥克阿瑟持未來大災難期的立場，摩根側重一個世代之內的近期應驗（見上「摩根」）。本卷保留兩種立場的原貌：近景與遠景都真實，共同的落點是32節的界線與37節的命令。
 

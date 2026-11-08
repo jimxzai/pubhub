@@ -143,7 +143,7 @@ publisher: PubHub 三書精讀系統
 
 **屈梭多模 (Chrysostom)**：
 
-> "No doubt this man is a murderer, whom, though he has escaped the sea, yet vengeance suffers not to live."
+> "No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live."
 >
 > 「這人必是個兇手，雖然從海裏救上來，天理還不容他活著。」——屈梭多模引島民的話，指出這正是人心的常態：急於用眼前的災禍去論斷一個人有罪，卻對神真正保守的旨意視而不見。
 >
@@ -189,13 +189,13 @@ publisher: PubHub 三書精讀系統
 >
 > 「使徒行傳這卷書，從很真實的意義上說，是一卷未完成的書。它結束了，卻沒有一個結局。」
 >
-> — John MacArthur, *"The Story That Never Ends"*（論徒28:17-31），Grace to You, gty.org
+> — John MacArthur, *"The Story That Never Ends"*（論徒28:17-31） (sermon 1802)，Grace to You, gty.org
 
 > "I think this is by design of the Holy Spirit... right now...we are writing the continuation of the book of Acts, as the Spirit of God continues to build the church of the Lord Jesus Christ."
 >
 > 「我相信這是出於聖靈的設計……此刻，我們正在寫使徒行傳的續篇，因為神的靈仍然繼續建造主耶穌基督的教會。」
 >
-> — John MacArthur, *"The Story That Never Ends"*，Grace to You, gty.org
+> — John MacArthur, *"The Story That Never Ends"* (sermon 1802)，Grace to You, gty.org
 
 ---
 

@@ -181,7 +181,7 @@ publisher: PubHub 三書精讀系統
 >
 > 「神不僅積極地保護祂的聖徒，祂也積極地做成該做的事，使祂的聖徒與事工都能發揮功效。」——麥克阿瑟指出，那場地震不是意外，而是神親自介入、使福音得以繼續往前推進的作為。
 >
-> — John MacArthur, *"How to Turn Persecution into Production"*（論徒16:19-40），Grace to You, gty.org
+> — John MacArthur, *"How to Turn Persecution into Production"*（論徒16:19-40） (sermon 1758)，Grace to You, gty.org
 
 ---
 

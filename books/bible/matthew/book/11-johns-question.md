@@ -179,7 +179,7 @@ publisher: 三書精讀出版系統
 
 > 歸納約翰動搖的四個源頭：**困難的處境**（「Doubt comes from our inability to deal with negative circumstances, trials」）；**世俗的期待**——百姓以為彌賽亞會先「knock off the Romans」，帶來立即的政治翻轉；**不完整的認識**——約翰在獄中只能輾轉聽聞，「didn't have the opportunity」親眼見證基督的作為；**落空的預期**——約翰所傳的是審判與烈火，「Jesus was on a mission of mercy」，兩者對不上號。MacArthur 指出解方就是「go to the Lord」——把疑惑帶到主面前，而非遠離祂；約翰的門徒後來仍「went and told Jesus」約翰殉道的消息，顯明他終究持守了對基督的信靠。
 >
-> — John MacArthur, "Solving the Problem of Doubt"（論太11:1-6），Grace to You, gty.org
+> — John MacArthur, "Solving the Problem of Doubt"（論太11:1-6） (sermon 2285)，Grace to You, gty.org
 
 麥克阿瑟論安息的邀請（"Jesus' Personal Invitation"）：
 
@@ -187,7 +187,7 @@ publisher: 三書精讀出版系統
 >
 > 把人擋在天國門外的，不是智慧不足，而是理性的驕傲。MacArthur 指出「come unto me」所應許的安息，其實質是救恩本身——「to cease from action, to be free from whatever disturbs, to be fixed and settled, to be confident and trustful, to lean on」。
 >
-> — John MacArthur, "Jesus' Personal Invitation, Part 1"（論太11:25-30），Grace to You, gty.org
+> — John MacArthur, "Jesus' Personal Invitation, Part 1"（論太11:25-30） (sermon 2288)，Grace to You, gty.org
 
 麥克阿瑟反覆強調：約翰的疑問不是罪，理性的驕傲才是天國真正的攔阻——誠實承認自己「勞苦擔重擔」的人，比自以為聰明通達、不需要主的人，更靠近天國的門。
 

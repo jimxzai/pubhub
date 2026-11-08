@@ -55,7 +55,7 @@ publisher: 三書精讀出版系統
 
 ### English — NASB
 
-> ^48^So Jesus said to him, \jesus{"Unless you see signs and wonders, you will not believe."}
+> ^48^So Jesus said to him, \jesus{"Unless you \textit{people} see signs and wonders, you \textit{simply} will not believe."}
 
 > ^50^Jesus said to him, \jesus{"Go; your son lives."} The man believed the word that Jesus spoke to him and started off.
 

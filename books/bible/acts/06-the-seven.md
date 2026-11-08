@@ -137,7 +137,7 @@ publisher: PubHub 三書精讀系統
 ### 教父時期
 
 **屈梭多模 (Chrysostom)**：
-> "For indeed there needs much wisdom in such ministrations. For think not, because he has not the word committed unto him, that such an one has no need of wisdom: he does need it, and much too."
+> "For indeed there needs much wisdom in such ministrations. For think not, because he hath not the word committed unto him, that such an one has no need of wisdom: he does need it, and much too."
 >
 > 「這樣的服事，其實需要極大的智慧。不要以為，因他所受託的不是傳講道理，這樣的人就不需要智慧——他一樣需要，而且需要極多。」
 >
@@ -146,7 +146,7 @@ publisher: PubHub 三書精讀系統
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**：
-> "the apostles prescribe what manner of persons ought to be chosen, to wit, men of tried honesty and credit, men endued with wisdom and other gifts of the Spirit."
+> "the apostles prescribe what manner of persons ought to be chosen, to wit, men of tried honesty and credit … men endued with wisdom … and other gifts of the Spirit."
 >
 > 使徒在此定下當揀選何等樣的人：是經過試驗、誠實可信，又有聖靈所賜智慧與其他恩賜的人。
 >
