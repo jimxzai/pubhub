@@ -198,7 +198,7 @@ publisher: 三書精讀出版系統
 >
 > — Augustine, *Tractates on John*, **Tractate XLIX**（論約 11 章），NPNF1-07
 
-**金口約翰 (John Chrysostom, 349-407)**：
+**屈梭多模 (John Chrysostom, 349-407)**：
 
 > "So that the question might not be attended with lamentation… He had not as yet shown any sign of the raising, and goeth not as if to raise Lazarus, but as if to weep. For the Jews show that He seemed to them to be going to bewail, not to raise him; at least they said, 'Behold how he loved him!'"
 >
