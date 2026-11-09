@@ -156,9 +156,9 @@ Parallel passages (read in your Bible): Mark 11:15, 19; Luke 19:45-46.
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，
 > 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
-> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
+> 各條出處與核校方式，見卷末《附錄：參考資料與引文核對記錄》。
 
 ### 教父時期
 
@@ -178,6 +178,8 @@ Parallel passages (read in your Bible): Mark 11:15, 19; Luke 19:45-46.
 
 > "We hence see that dens and hidden places have in them more safety for robbers. The comparison then is most suitable, when the Prophet says that the Jews made the Temple of God the den of robbers: for had there been no Temple, some integrity might have remained, secured by the common feeling of men. But when they covered their baseness with sacrifices, they thought that they thus escaped all judgment."
 > — John Calvin, *Commentaries on the Book of the Prophet Jeremiah and the Lamentations*, vol. 1, tr. John Owen, on Jer. 7:11 (CCEL calcom17)
+>
+> 中譯：由此可見，洞穴和隱密之處，對強盜更安全。所以先知說猶太人把神的殿變成強盜的巢穴，這個比喻再貼切不過：若沒有殿，人們共同的良知也許還能保住一些正直；但他們用祭祀遮蓋自己的卑劣，就以為這樣能逃過一切審判。
 
 論瑪 3:2 的火（加爾文把瑪 3:1-3 讀為基督的來臨；這是他的讀法，不是那一段經文自己點的名）：
 
@@ -204,14 +206,6 @@ Parallel passages (read in your Bible): Mark 11:15, 19; Luke 19:45-46.
 
 > — G. Campbell Morgan, *The Gospel According to Mark*（1927），可 11:1-25、11:27 以下兩篇講章
 
-**哭城，然後進殿**：路加把哭城放在進殿之前，摩根論 19:41 的哭：
-
-> "He Who wept, and He Who lamented and sighed, pronounced the doom, for His is not a pity that violates justice."
->
-> 那位哭泣的、那位哀嘆歎息的，親口宣告了那審判；因為祂的憐憫，從不踐踏公義。
-
-> — G. Campbell Morgan, *The Gospel According to Luke*（論路 19:41-44；引文於 2026 年 8 月逐字核校全書文本）
-
 ### 麥克阿瑟 (John MacArthur)
 
 **整座聖殿，也不過是些葉子**：無花果樹與聖殿是同一件事的兩面（馬可把樹與殿並排寫）。
@@ -225,14 +219,6 @@ Parallel passages (read in your Bible): Mark 11:15, 19; Luke 19:45-46.
 > 真正的敬拜之所以可能，不在聖殿，只在十字架，只在十字架，只藉著十字架。（41-57）
 
 > — John MacArthur, *Nothing but Leaves* (sermon 41-57), gty.org
-
-**進殿之前，祂在哭**：
-
-> "Jesus sees Jerusalem and He's racked with agony. He begins to heave and sob."
->
-> 耶穌看見耶路撒冷，極深的痛苦揪住了祂；祂開始顫動，放聲哭泣。
-
-> — John MacArthur, *"Jesus' Humble Coronation, Part 2"*（論路 19:28-44），gty.org, sermon 42-242
 
 ---
 
@@ -249,21 +235,6 @@ Parallel passages (read in your Bible): Mark 11:15, 19; Luke 19:45-46.
 > 因我為你的殿心裏焦急，如同火燒，並且辱罵你人的辱罵都落在我身上。
 
 約翰福音 2:17 說，第一次潔淨聖殿時，門徒想起的就是這節。本章三卷福音書沒有引它；放在這裏，是讓第一次與第二次兩次進殿，用同一節詩聯起來。
-
-### All Glory, Laud, and Honor
-
-> **All Glory, Laud, and Honor** \
-> *Theodulf of Orleans (c. 820), trans. John Mason Neale, 1851*
->
-> All glory, laud, and honor to Thee, Redeemer, King, \
-> to whom the lips of children made sweet hosannas ring. \
-> Thou art the King of Israel, Thou David's royal Son, \
-> who in the Lord's name comest, the King and Blessed One.
->
-> 一切榮耀、頌讚、尊貴，都歸救贖主我王； \
-> 孩童清脆的嘴唇，曾向你高唱和散那。 \
-> 你是以色列的王，是大衛尊貴的子孫； \
-> 你奉主名而來——是王，是那位應當稱頌的。
 
 ---
 
@@ -290,15 +261,15 @@ Parallel passages (read in your Bible): Mark 11:15, 19; Luke 19:45-46.
 
 ### 活在今天 · AI時代 (Living It Today)
 
-今天一句禱詞可以一鍵生成，一段靈修可以一鍵摘要，一場聚會可以一鍵轉成逐字稿。生成出來的是文字，不是禱告；禱告的殿要的是有人對神說話，神聽見。如果有一個今天的商人、一張今天的桌子被推倒，我的猜想是：會是那些讓我們不必來到神面前，卻覺得自己已經來了的方便。這是一個猜想，經文沒有這樣說；經文確定說的是：殿是為禱告的。
+一鍵生成禱詞、一鍵摘要靈修，對可 11:16 那個抄近路穿過聖殿的人並不陌生：殿成了通道，人只是經過。如果今天有桌子要被推倒，我的猜想是那些讓我們不必來到神面前、卻覺得自己已經來了的方便。這是猜想，經文沒有這樣說；經文確定說的是 11:17：殿是為禱告的。
 
 ### 今天的祭壇 (Today's Altar)
 
-- **早晨**：先不說話，三分鐘。然後說一句只有你和神知道的話。
-- **晚上**：今天最像「做買賣」的一件事是甚麼？我是為了得著甚麼才親近神？
-- **一個行動**：把一個你一直讓他「站在外面」的人，今天請進來——一個詞、一頓飯、一通電話。
+- **早晨**：先不說話，三分鐘。然後說一句只有你和神知道的話（太 21:13，禱告的殿）。
+- **晚上**：太 21:12 趕的是做買賣的人。今天哪一次親近神，我其實是想換到一樣東西？
+- **一個行動**：把一個你一直讓他「站在外面」的人（可 11:17 的「萬國」），今天請進來——一個詞、一頓飯、一通電話。
 
-**你看見耶穌了嗎？**祂的第一個動作是察看，不是發怒；祂的第二個動作是趕，不是打；祂的第三個動作是收：把瞎子、瘸子與孩子收進剛潔淨的殿。哭過城，看過殿，翻過桌子，然後醫治——這是同一位。你若在這一幕只看見怒氣，可能還有一個角度沒看到：祂清出的那一塊地，是留給你的。
+**你看見耶穌了嗎？**祂的第一個動作是察看，不是發怒；祂的第二個動作是趕，不是打；祂的第三個動作是收：把瞎子、瘸子與孩子收進剛潔淨的殿。你若在這一幕只看見怒氣，可能還有一個角度沒看到：祂清出的那一塊地，是留給你的。
 
 ---
 
