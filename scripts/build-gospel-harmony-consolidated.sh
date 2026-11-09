@@ -110,6 +110,7 @@ add_chapter() {
 # own note says so, so regenerate first to make that claim true of this PDF.
 echo "🔄 Regenerating indices from chapter sources..."
 python3 "$SCRIPT_DIR/gen-gospel-harmony-scripture-index.py" --write || exit 1
+python3 "$SCRIPT_DIR/gen-gospel-harmony-word-index.py" --write || exit 1
 echo ""
 
 # 前言 — preface
@@ -205,6 +206,7 @@ add_volume "附錄 (Appendices)" \
     "參考資料、站次一覽與經文索引——各章正文所指的「卷末附錄」即此。"
 add_front "$INPUT_DIR/99-appendix-references.md"
 add_front "$INPUT_DIR/98-appendix-indices.md"
+add_front "$INPUT_DIR/98b-appendix-word-index.md"
 
 echo ""
 echo "✅ Combined markdown: $COMBINED_MD ($(wc -l < "$COMBINED_MD") lines, $chapter_count chapters)"

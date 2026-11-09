@@ -8,7 +8,7 @@ publisher: 三書精讀出版系統
 
 # 伯利恆之夜 (The Night in Bethlehem)
 
-參照行：馬太福音 1:18-2:12；路加福音 2:1-20
+參照行：馬太福音 1:1-2:12；路加福音 2:1-20
 
 **經文核對**：[ai-eden.com/bible/matthew/1](https://www.ai-eden.com/bible/matthew/1?t=CUV,NASB&cols=2)；[ai-eden.com/bible/luke/2](https://www.ai-eden.com/bible/luke/2?t=CUV,NASB&cols=2)；[ai-eden.com/bible/matthew/2](https://www.ai-eden.com/bible/matthew/2?t=CUV,NASB&cols=2)
 
@@ -16,10 +16,10 @@ publisher: 三書精讀出版系統
 
 > **本章鑰詞：為你們 For You（路 2:11-12 ὑμῖν）** \
 > **生平座標**：第 2 站／共 37 站 · 卷一「道成肉身」· 年代有爭論（在希律王去世、約主前 4 年之前） \
-> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 2 段——王降生了，卻沒有出現在王宮：祂睡在一個無處留宿的民居旁的槽裏；知道經文的人沒有動身，不知道經文的人從遠方來了。（本卷次序：神先說話，天使先對卑微的人說，王先睡在馬槽——道成肉身是從最小處開始的。） \
+> **計劃座標**：啟示的次序·第六步（基督來臨）· 本卷第 2 段——王降生了，卻沒有出現在王宮：祂睡在馬槽裏；知道經文的人沒有動身，不知道經文的人從遠方來了。（本卷次序：神先說話，天使先對卑微的人說，王先睡在馬槽——道成肉身是從最小處開始的。） \
 > （全書骨幹見卷首《神的總計劃》）
 
-這一章裏神的消息送到三個地方：夢裏的約瑟、野地的牧羊人、遠方的博士。三批人都不在聖殿的體系之內。天使對牧羊人說的話，用了兩次「你們」：救主是「為你們」生的，記號是「給你們」的（2:11-12）。大消息關乎萬民，卻是交到具體的人手上的。
+這一章裏神的消息送到三個地方：夢裏的約瑟、野地的牧羊人、遠方的博士。三批人都不在聖殿的體系之內。天使對牧羊人說「為你們」生了救主（2:11），又告訴他們怎樣認出祂（2:12）。大消息關乎萬民，卻是交到具體的人手上的。
 
 ---
 
@@ -46,6 +46,10 @@ publisher: 三書精讀出版系統
 
 ### 中文 — 和合本 (CUV)
 
+**家譜：從亞伯拉罕到耶穌（太 1:1-17）**
+
+> ^1^亞伯拉罕的後裔，大衛的子孫（後裔，子孫：原文是兒子；下同），耶穌基督的家譜：^2^亞伯拉罕生以撒；以撒生雅各；雅各生猶大和他的弟兄；^3^猶大從他瑪氏生法勒斯和謝拉；法勒斯生希斯崙；希斯崙生亞蘭；^4^亞蘭生亞米拿達；亞米拿達生拿順；拿順生撒門；^5^撒門從喇合氏生波阿斯；波阿斯從路得氏生俄備得；俄備得生耶西；^6^耶西生大衛王。大衛從烏利亞的妻子生所羅門；^7^所羅門生羅波安；羅波安生亞比雅；亞比雅生亞撒；^8^亞撒生約沙法；約沙法生約蘭；約蘭生烏西亞；^9^烏西亞生約坦；約坦生亞哈斯；亞哈斯生希西家；^10^希西家生瑪拿西；瑪拿西生亞們；亞們生約西亞；^11^百姓被遷到巴比倫的時候，約西亞生耶哥尼雅和他的弟兄。^12^遷到巴比倫之後，耶哥尼雅生撒拉鐵；撒拉鐵生所羅巴伯；^13^所羅巴伯生亞比玉；亞比玉生以利亞敬；以利亞敬生亞所；^14^亞所生撒督；撒督生亞金；亞金生以律；^15^以律生以利亞撒；以利亞撒生馬但；馬但生雅各；^16^雅各生約瑟，就是馬利亞的丈夫。那稱為基督的耶穌是從馬利亞生的。^17^這樣，從亞伯拉罕到大衛共有十四代；從大衛到遷至巴比倫的時候也有十四代；從遷至巴比倫的時候到基督又有十四代。
+
 **約瑟：夢中的話（太 1:18-25）**
 
 > ^18^耶穌基督降生的事記在下面：他母親馬利亞已經許配了約瑟，還沒有迎娶，馬利亞就從聖靈懷了孕。^19^他丈夫約瑟是個義人，不願意明明的羞辱他，想要暗暗的把他休了。^20^正思念這事的時候，有主的使者向他夢中顯現，說：「大衛的子孫約瑟，不要怕！只管娶過你的妻子馬利亞來，因他所懷的孕是從聖靈來的。^21^他將要生一個兒子，你要給他起名叫耶穌，因他要將自己的百姓從罪惡裏救出來。」
@@ -67,6 +71,8 @@ publisher: 三書精讀出版系統
 > ^7^當下，希律暗暗的召了博士來，細問那星是甚麼時候出現的，^8^就差他們往伯利恆去，說：「你們去仔細尋訪那小孩子，尋到了就來報信，我也好去拜他。」^9^他們聽見王的話就去了。在東方所看見的那星忽然在他們前頭行，直行到小孩子的地方，就在上頭停住了。^10^他們看見那星，就大大的歡喜；^11^進了房子，看見小孩子和他母親馬利亞，就俯伏拜那小孩子，揭開寶盒，拿黃金、乳香、沒藥為禮物獻給他。^12^博士因為在夢中被主指示不要回去見希律，就從別的路回本地去了。
 
 ### English — NASB
+
+> ^1^The record of the genealogy of Jesus the Messiah, the son of David, the son of Abraham:^2^Abraham was the father of Isaac, Isaac the father of Jacob, and Jacob the father of Judah and his brothers.^3^Judah was the father of Perez and Zerah by Tamar, Perez was the father of Hezron, and Hezron the father of Ram.^4^Ram was the father of Amminadab, Amminadab the father of Nahshon, and Nahshon the father of Salmon.^5^Salmon was the father of Boaz by Rahab, Boaz was the father of Obed by Ruth, and Obed the father of Jesse.^6^Jesse was the father of David the king. David was the father of Solomon by Bathsheba who had been the wife of Uriah.^7^Solomon was the father of Rehoboam, Rehoboam the father of Abijah, and Abijah the father of Asa.^8^Asa was the father of Jehoshaphat, Jehoshaphat the father of Joram, and Joram the father of Uzziah.^9^Uzziah was the father of Jotham, Jotham the father of Ahaz, and Ahaz the father of Hezekiah.^10^Hezekiah was the father of Manasseh, Manasseh the father of Amon, and Amon the father of Josiah.^11^Josiah became the father of Jeconiah and his brothers, at the time of the deportation to Babylon.^12^After the deportation to Babylon: Jeconiah became the father of Shealtiel, and Shealtiel the father of Zerubbabel.^13^Zerubbabel was the father of Abihud, Abihud the father of Eliakim, and Eliakim the father of Azor.^14^Azor was the father of Zadok, Zadok the father of Achim, and Achim the father of Eliud.^15^Eliud was the father of Eleazar, Eleazar the father of Matthan, and Matthan the father of Jacob.^16^Jacob was the father of Joseph the husband of Mary, by whom Jesus was born, who is called the Messiah.^17^So all the generations from Abraham to David are fourteen generations; from David to the deportation to Babylon, fourteen generations; and from the deportation to Babylon to the Messiah, fourteen generations.
 
 > ^18^Now the birth of Jesus Christ was as follows: when His mother Mary had been betrothed to Joseph, before they came together she was found to be with child by the Holy Spirit. ^19^And Joseph her husband, being a righteous man and not wanting to disgrace her, planned to send her away secretly. ^20^But when he had considered this, behold, an angel of the Lord appeared to him in a dream, saying, "Joseph, son of David, do not be afraid to take Mary as your wife; for the Child who has been conceived in her is of the Holy Spirit. ^21^She will bear a Son; and you shall call His name Jesus, for He will save His people from their sins."
 
@@ -97,6 +103,10 @@ publisher: 三書精讀出版系統
 **星與外邦的聲音。**巴蘭是從「東山」被請來咒詛以色列的外邦人（民 23:7），他的第四次開口說：「有星要出於雅各，有杖要興於以色列」（民 24:17，本系列《民數記研讀》〈巴蘭的四次開口〉）。博士說「我們在東方看見他的星」（太 2:2）。詩 72:10-11 與賽 60:3、6 所預言的萬國來朝、獻黃金乳香，在這裏有了第一批代表；馬太沒有引用這兩處，這是讀者的連結，不是經文的明說。
 
 **約瑟為甚麼不想公開。**申 22:23-24 規定了許配之女與人行淫的刑罰；約瑟「是個義人，不願意明明的羞辱他，想要暗暗的把他休了」（太 1:19）。他選的不是追究，也不是接受，是在自己能承擔的範圍內，盡量不傷人。神的話在夢中到來之前，他已經做了這個選擇。
+
+### 家譜（太 1:1-17）
+
+馬太把耶穌的家譜放在全書第一頁，用三個十四代收尾（1:17）：從亞伯拉罕到大衛，從大衛到遷至巴比倫，從遷至巴比倫到基督。這個份量是經文自己數出來的，不是編者的排法。名單裏有四位婦人，經文都點了名：他瑪（1:3）、喇合（1:5）、路得（1:5）、烏利亞的妻子（1:6）；馬太沒有解釋為甚麼選這幾位。到了名單的末了，句型變了：不再是「某某生某某」，而是「雅各生約瑟，就是馬利亞的丈夫。那稱為基督的耶穌是從馬利亞生的」（1:16）——前面每一個「生」的主詞是男子，最後一句的「生」，卻只說祂是從馬利亞生的。
 
 ### 歷史、地理、風俗
 
@@ -141,7 +151,7 @@ publisher: 三書精讀出版系統
 
 ### 3. 知道經文與動身去看，是兩回事
 
-祭司長和文士被希律召齊，一口氣答出：「在猶太的伯利恆」（太 2:5）；經文沒有記載有人同行；希律說「我也好去拜他」（2:8），後來的事（2:13, 16）顯明那不是實話。博士沒有先知書，只有一顆星，卻走了這一趟。馬太沒有把這寫成責備，只是並排放著：答得出的人，留在耶路撒冷；問路的人，到了伯利恆。
+祭司長和文士被希律召齊，一口氣答出：「在猶太的伯利恆」（太 2:5）；經文沒有記載有人同行；希律說「我也好去拜他」（2:8），後來的事（2:13, 16）顯明那不是實話。博士從遠方來，憑一顆星一路問到耶路撒冷（2:2）；先知書的話，是從祭司長和文士口中聽到的（2:5-6）。馬太沒有把這寫成責備，只是並排放著：答得出的人，留在耶路撒冷；問路的人，到了伯利恆。
 
 ### 4. 同一個消息，三種接法
 
