@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Gospel Harmony PDF Builder - CONSOLIDATED 2026 EDITION
-# = Preface + 卷首定位(overview / 神的總計劃 / 耶穌的世界 / 序言) + 九卷 37 站 + 附錄 + 跋
+# = Preface + 卷首定位(overview / 神的總計劃 / 耶穌的世界 / 序言) + 九卷 39 站 + 附錄 + 跋
 # Uses templates/pdf/gospel-harmony.latex (Royal/Shepherd/Glory theme, red-letter
 # words of Jesus). Modelled on scripts/build-job-consolidated.sh.
 #
-# Chapter files are unchanged: 01..37-*.md are the 37 stations. Front/back
+# Chapter files: 01..39-*.md are the 39 stations. Front/back
 # matter files that do not exist yet are skipped silently (add_front returns
 # early), so the build works while the book is still being written.
 
@@ -128,7 +128,7 @@ add_front "$INPUT_DIR/00b-world-of-jesus.md"
 add_front "$INPUT_DIR/00-prologue-logos.md"
 
 # ============================================================
-# 正文 · 九卷 · 37 站
+# 正文 · 九卷 · 39 站
 # The order statements below are the ones in 00a-gods-plan.md §五 (the
 # authoritative table); keep the two in step.
 # ============================================================
@@ -151,44 +151,44 @@ for f in 06-cana-wedding.md 07-temple-cleansing.md 08-nicodemus.md \
     add_chapter "$f"
 done
 
-add_volume "卷四 · 國度的憲章與記號 (Charter and Signs) · 站 11–14" \
-    "本卷收站 11–14。\n>\n> **啟示的次序·第六步**：王先說話，才行神蹟，最後解釋自己就是那糧。"
-for f in 11-sermon-on-mount.md 12-feeding-five-thousand.md \
-         13-walking-on-water.md 14-bread-of-life.md; do
+add_volume "卷四 · 國度的憲章與記號 (Charter and Signs) · 站 11–16" \
+    "本卷收站 11–16。\n>\n> **啟示的次序·第六步**：王先說話，才行神蹟，最後解釋自己就是那糧。"
+for f in 11-sermon-on-mount.md 12-faith-seen.md 13-parables-kingdom.md \
+         14-feeding-five-thousand.md 15-walking-on-water.md 16-bread-of-life.md; do
     add_chapter "$f"
 done
 
-add_volume "卷五 · 光與牧者：衝突加深 (Light and Shepherd) · 站 15–19" \
-    "本卷收站 15–19。\n>\n> **啟示的次序·第六步**：光先來，衝突隨光而來；最大的記號，也成了定意殺祂的導火線。"
-for f in 15-feast-tabernacles.md 16-man-born-blind.md 17-good-shepherd.md \
-         18-lazarus.md 19-parables-kingdom.md; do
+add_volume "卷五 · 光與牧者：衝突加深 (Light and Shepherd) · 站 17–21" \
+    "本卷收站 17–21。\n>\n> **啟示的次序·第六步**：光先來，衝突隨光而來；最大的記號，也成了定意殺祂的導火線。"
+for f in 17-feast-tabernacles.md 18-man-born-blind.md 19-good-shepherd.md \
+         20-lazarus.md 21-lost-and-found.md; do
     add_chapter "$f"
 done
 
-add_volume "卷六 · 定意上耶路撒冷 (Set Toward Jerusalem) · 站 20–24" \
-    "本卷收站 20–24。\n>\n> **啟示的次序·第六步**：祂不是被帶往耶路撒冷，是自己定意去。"
-for f in 20-transfiguration.md 21-rich-young-ruler.md 22-triumphal-entry.md \
-         23-temple-cleansing.md 24-olivet-discourse.md; do
+add_volume "卷六 · 定意上耶路撒冷 (Set Toward Jerusalem) · 站 22–26" \
+    "本卷收站 22–26。\n>\n> **啟示的次序·第六步**：祂不是被帶往耶路撒冷，是自己定意去。"
+for f in 22-transfiguration.md 23-rich-young-ruler.md 24-triumphal-entry.md \
+         25-temple-cleansing.md 26-olivet-discourse.md; do
     add_chapter "$f"
 done
 
-add_volume "卷七 · 樓上與園中 (The Upper Room and the Garden) · 站 25–29" \
-    "本卷收站 25–29。\n>\n> **啟示的次序·第六步**：被捉拿之前，先把門徒交託給父。"
-for f in 25-last-supper.md 26-upper-room-discourse.md 27-high-priestly-prayer.md \
-         28-gethsemane.md 29-trial.md; do
+add_volume "卷七 · 樓上與園中 (The Upper Room and the Garden) · 站 27–31" \
+    "本卷收站 27–31。\n>\n> **啟示的次序·第六步**：被捉拿之前，先把門徒交託給父。"
+for f in 27-last-supper.md 28-upper-room-discourse.md 29-high-priestly-prayer.md \
+         30-gethsemane.md 31-trial.md; do
     add_chapter "$f"
 done
 
-add_volume "卷八 · 十架與復活 (The Cross and the Resurrection) · 站 30–34" \
-    "本卷收站 30–34。\n>\n> **啟示的次序·第六步**：十架不是計劃的失敗，是計劃的中心。"
-for f in 30-crucifixion.md 31-burial.md 32-resurrection.md \
-         33-appearances.md 34-ascension.md; do
+add_volume "卷八 · 十架與復活 (The Cross and the Resurrection) · 站 32–36" \
+    "本卷收站 32–36。\n>\n> **啟示的次序·第六步**：十架不是計劃的失敗，是計劃的中心。"
+for f in 32-crucifixion.md 33-burial.md 34-resurrection.md \
+         35-appearances.md 36-ascension.md; do
     add_chapter "$f"
 done
 
-add_volume "卷九 · 教會與再來 (The Church and the Return) · 站 35–37" \
-    "本卷收站 35–37。\n>\n> **啟示的次序·第七步**：祂先差遣，後同在，最後親自回來與人同住。"
-for f in 35-pentecost.md 36-revelation-letters.md 37-revelation-return.md; do
+add_volume "卷九 · 教會與再來 (The Church and the Return) · 站 37–39" \
+    "本卷收站 37–39。\n>\n> **啟示的次序·第七步**：祂先差遣，後同在，最後親自回來與人同住。"
+for f in 37-pentecost.md 38-revelation-letters.md 39-revelation-return.md; do
     add_chapter "$f"
 done
 

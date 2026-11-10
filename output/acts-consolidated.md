@@ -1631,9 +1631,9 @@ copyright: |
 
 **兩個記號，一個經歷**：摩根特別留意路加刻意安排的兩個記號——一個訴諸聽覺，一個訴諸視覺：
 
-> "Two symbols were given—one appealing to hearing, 'a rushing mighty wind'; the symbol of sight—'tongues . . . of fire,' a plurality and a unity, the tongues were many; but the fire was One."
+> "Two symbols were given - one appealing to hearing, and the other to seeing. The symbol of sound - "a rushing mighty wind"; the symbol of sight - "tongues ... of fire," a plurality and a unity, the tongues were many; but the fire was One."
 >
-> 「兩個記號被賜下——一個是訴諸聽覺的，『一陣大風』；一個是訴諸視覺的，『舌頭……如火焰』，是眾多又是合一：舌頭是眾多的，但火卻是同一個。」
+> 「兩個記號被賜下——一個訴諸聽覺，一個訴諸視覺。聲音的記號是『一陣大風』；視覺的記號是『舌頭……如火焰』，是眾多又是合一：舌頭是眾多的，但火卻是同一個。」
 >
 > — G. Campbell Morgan, *The Acts of the Apostles*
 
@@ -1657,11 +1657,11 @@ copyright: |
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "It wasn't real wind, and it wasn't real fire. It was the sound of a rushing violent wind, and it was the appearance of fire."
+> "It wasn't real wind, and it wasn't real fire. It was the sound of … a rushing violent wind, and it was the appearance of fire."
 >
 > 「那不是真實的風，也不是真實的火。是一陣猛烈的風的聲音，是火的樣式顯現出來。」
 >
-> — John MacArthur, *"The Birth of the Church, Part 1"*，Grace to You, gty.org
+> — John MacArthur, *"The Birth of the Church, Part 1"* (sermon 44-6)，Grace to You, gty.org
 
 MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉捩點：
 
@@ -1669,7 +1669,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「教會就在那一刻誕生了。聖靈就在那一刻來到了。」
 >
-> — John MacArthur, *"The Birth of the Church, Part 1"*，Grace to You, gty.org
+> — John MacArthur, *"The Birth of the Church, Part 1"* (sermon 44-6)，Grace to You, gty.org
 
 ---
 
@@ -2216,7 +2216,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 **屈梭多模 (John Chrysostom)**：
 
-> "The two unlearned men beat down with their rhetoric them and the chief priests. For it was not they that spoke, but the grace of the Spirit."
+> "The two unlearned men beat down with their rhetoric them and the chief priests. For it was not they that spake, but the grace of the Spirit."
 >
 > 「這兩個沒有學問的人，用他們的言辭，把公會的人和祭司長們都駁倒了。因為說話的不是他們，是聖靈的恩典。」
 >
@@ -2537,19 +2537,13 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 **教會誕生之初的聖潔守衛**：這一觀察撐起了摩根對整段記載的理解方向——神在教會最初的日子裏親自介入，不是要恐嚇祂的百姓，而是要在教會還幼小、根基還在打的時候，就立下一個無可妥協的原則：這是一個屬神的群體，容不下虛假。
 
-**迦瑪列比撒都該人更接近真理，卻仍未信**：論到公會裏的爭議，摩根指出：
+**迦瑪列的建議：對教會好，對反對者卻是軟弱**：論到公會裏迦瑪列的建議，摩根這樣評：
 
-> "Gamaliel was a Pharisee, and really found himself more in agreement with the doctrine of the apostles than with the rationalism of the Sadducees."
+> "This advice was by no means strong, but pre-eminently weak. From the standpoint of the Church, the advice of Gamaliel to give them time was excellent; but from the standpoint of the opposition it was weak."
 >
-> 迦瑪列是法利賽人，他其實更認同使徒的教訓，而非撒都該人的理性主義。
+> 這個建議絕不是堅強的，而是極其軟弱的。從教會的立場看，迦瑪列叫他們給時間，是極好的；但從反對者的立場看，它是軟弱的。
 
-摩根接著記下迦瑪列給議會的建議：
-
-> "He advised, therefore, that these men should be left alone."
->
-> 因此他建議，這些人應該被放任不理。
-
-**中立不是敬虔的終點**：摩根的觀察點出一個常被忽略的細節——迦瑪列的立場，其實根植於他與使徒教訓更接近的傾向，而不只是單純的政治審慎。然而，這段記載也留下一個沒有解答的問題：迦瑪列後來是否真正信了福音？聖經沒有記載。認出「神的作為不能被攔阻」是一回事，真心降服在這位神面前，是另一回事。
+**中立不是敬虔的終點**：迦瑪列的建議讓使徒暫時得了喘息，摩根卻看出它的軟弱：任事情自己漂流、等著看結果，不是堅定的態度。至於迦瑪列後來是否真正信了福音，聖經沒有記載。認出「神的作為不能被攔阻」是一回事，真心降服在這位神面前，是另一回事。
 
 > 出處：G. Campbell Morgan, *The Acts of the Apostles*（使徒行傳第五章釋經）
 
@@ -2804,7 +2798,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 ### 教父時期
 
 **屈梭多模 (Chrysostom)**：
-> "For indeed there needs much wisdom in such ministrations. For think not, because he has not the word committed unto him, that such an one has no need of wisdom: he does need it, and much too."
+> "For indeed there needs much wisdom in such ministrations. For think not, because he hath not the word committed unto him, that such an one has no need of wisdom: he does need it, and much too."
 >
 > 「這樣的服事，其實需要極大的智慧。不要以為，因他所受託的不是傳講道理，這樣的人就不需要智慧——他一樣需要，而且需要極多。」
 >
@@ -2813,7 +2807,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 ### 改革宗時期
 
 **約翰·加爾文 (John Calvin)**：
-> "the apostles prescribe what manner of persons ought to be chosen, to wit, men of tried honesty and credit, men endued with wisdom and other gifts of the Spirit."
+> "the apostles prescribe what manner of persons ought to be chosen, to wit, men of tried honesty and credit … men endued with wisdom … and other gifts of the Spirit."
 >
 > 使徒在此定下當揀選何等樣的人：是經過試驗、誠實可信，又有聖靈所賜智慧與其他恩賜的人。
 >
@@ -2838,9 +2832,9 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 ### 麥克阿瑟 (John MacArthur)
 
 
-> "Biblical church organization accommodates what the Spirit of God is already doing... The church must accommodate what the Spirit is doing, not make the Spirit accommodate what the committee decided ought to be done."
+> "all biblical church organization appears to be accommodating what the Spirit of God is already doing... The church must accommodate what the Spirit is doing, not make the Spirit accommodate what the committee decided ought to be done."
 >
-> 「合乎聖經的教會組織，是要配合聖靈已經在做的工作……教會必須順著聖靈正在做的工作去調整，而不是要聖靈去遷就委員會議決的事。」
+> 「一切合乎聖經的教會組織，看起來都是在配合聖靈已經在做的工作……教會必須順著聖靈正在做的工作去調整，而不是要聖靈去遷就委員會議決的事。」
 >
 > — John MacArthur, *"Spiritual Organization"*（sermon 1720，論徒6:1-7，1972年11月26日），Grace to You, gty.org
 
@@ -3472,9 +3466,9 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "It's like trying to stamp out a fire, and the harder you jump on it the more you scatter the embers."
+> "It's kind of like trying to stamp out a fire, and the harder you jump on it the more you scatter the embers and start fires all over everywhere."
 >
-> 「這就像想要踩熄一團火——你踩得越用力，火星反倒被踩得越四散。」
+> 「這有點像想要踩熄一團火——你踩得越用力，火星反倒越四散，到處都燃起火來。」
 >
 > — John MacArthur, *"The Persecuted Church Reaches Out"*（論徒8:1-8），gty.org, sermon 1725
 
@@ -4888,7 +4882,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 **屈梭多模 (Chrysostom)**：
 
-> "A great, yes a great good is fasting: it is circumscribed by no limits. When need was to ordain, then they fast: and to them while fasting, the Spirit spoke."
+> "A great, yes a great good is fasting: it is circumscribed by no limits. When need was to ordain, then they fast: and to them while fasting, the Spirit spake."
 >
 > 「禁食是一件大好事，一件真正的大好事：它不受任何限度的圈限。當要按立的時候，他們禁食；正當他們禁食的時候，聖靈說話了。」
 >
@@ -4916,9 +4910,9 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "By Him all that believe are justified from all things... from which you could never be justified by the law of Moses."
+> "that by Him all that believe are justified from all things – it's just a matter of believing – from which you could never be justified by – what? – the law of Moses."
 >
-> 「靠著這一位，凡相信的人，就從一切的事上得了稱義……那是你們永遠不能靠摩西的律法得稱義的事。」——麥克阿瑟論13:38-39指出，這句話宣告的是一條恩典的新路，不是律法的舊路：摩西的律法能指出罪、定人的罪，卻沒有能力使人脫離罪的轄制；唯有藉著相信這位復活的耶穌，人才真正得著律法本身無法給予的赦免與稱義。
+> 「靠著這一位，凡相信的人，就從一切的事上得了稱義——這只是信不信的問題——那是你們永遠不能靠——靠甚麼？——靠摩西的律法得稱義的事。」——麥克阿瑟論13:38-39指出，這句話宣告的是一條恩典的新路，不是律法的舊路：摩西的律法能指出罪、定人的罪，卻沒有能力使人脫離罪的轄制；唯有藉著相信這位復活的耶穌，人才真正得著律法本身無法給予的赦免與稱義。
 >
 > — John MacArthur, *"The Troubling Gospel"*（sermon 1746，論徒13:38-41），Grace to You, gty.org
 
@@ -5778,7 +5772,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「神不僅積極地保護祂的聖徒，祂也積極地做成該做的事，使祂的聖徒與事工都能發揮功效。」——麥克阿瑟指出，那場地震不是意外，而是神親自介入、使福音得以繼續往前推進的作為。
 >
-> — John MacArthur, *"How to Turn Persecution into Production"*（論徒16:19-40），Grace to You, gty.org
+> — John MacArthur, *"How to Turn Persecution into Production"*（論徒16:19-40） (sermon 1758)，Grace to You, gty.org
 
 ---
 
@@ -6062,7 +6056,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 **屈梭多模 (John Chrysostom)**：
 
-> "This God then, he tells them, is Christ; or rather, the God of all. Him declare I unto you."
+> "This God then, he tells them, is Christ; or rather, the God of all. … Him declare I unto you."
 >
 > 屈梭多模解「未識之神」一節：這位神，保羅告訴他們，就是基督——或者不如說，是萬有的神。「你們所不認識而敬拜的，我現在向你們宣告。」
 >
@@ -6366,13 +6360,13 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「『在這城裏我有許多的百姓』——換句話說，這裏有一些人是創世以前就蒙揀選的，他們正等候聽見福音，好使他們能夠相信。」
 >
-> — John MacArthur, *"The Gospel in Vanity Fair, Part 3"*（論徒18:1-18），Grace to You, gty.org
+> — John MacArthur, *"The Gospel in Vanity Fair, Part 3"*（論徒18:1-18） (sermon 1767)，Grace to You, gty.org
 
-> "He was an eloquent man, and mighty in the Scriptures... they took him under them and expounded unto him the way of God more perfectly."
+> "an eloquent man, and mighty in the Scriptures, came to Ephesus." … "they took him under them and expounded unto him the way of God more perfectly."
 >
 > 麥克阿瑟指出，亞波羅天賦的口才與紮實的舊約知識，若沒有百基拉、亞居拉私下「更完全地」講解神的道，仍不足以使他成為完整的福音使者。
 >
-> — John MacArthur, *"From Judaism to Jesus, Part 2: Apollos in Transition"*（論徒18:24-28，講於1974年1月20日），Grace to You, gty.org
+> — John MacArthur, *"From Judaism to Jesus, Part 2: Apollos in Transition"*（論徒18:24-28，講於1974年1月20日） (sermon 1769)，Grace to You, gty.org
 
 ---
 
@@ -6649,7 +6643,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 **約翰·加爾文 (John Calvin)**：
 
-> "This invocation had two faults; for whereas they were enemies to Paul's doctrine, they abuse the color thereof without faith, as it were, unto magical enchantments."
+> "This invocation had two faults; for whereas they were enemies … to Paul's doctrine, they abuse the color thereof without faith, as it were, unto magical enchantments."
 >
 > 「這樣的呼求有兩重過犯：他們本是保羅教義的仇敵，卻濫用其名目，毫無信心地把它當作一種法術咒語。」——加爾文指出士基瓦七子失敗的根源，不在於「耶穌」這名字沒有能力，而在於他們既不信、又敵擋這名字所代表的道，卻妄想支取它的能力。
 >
@@ -6675,7 +6669,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 麥克阿瑟論到19:20這句總結，指出這正是全章的重點：撒但傾其邪術、偶像、暴民一切的權勢加起來對付這道，都不能得勝——真正得勝、大大興旺的，始終是神的道。
 >
-> — John MacArthur, *"Exorcism: True or False? Part 2"*（論徒19:13-20），Grace to You, gty.org
+> — John MacArthur, *"Exorcism: True or False? Part 2"*（論徒19:13-20） (sermon 1772)，Grace to You, gty.org
 
 ---
 
@@ -6976,13 +6970,13 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「這是在說，神的這群羊是何等寶貴，以致祂付上了至高的代價。」
 >
-> — John MacArthur, *"A Charge to New Testament Church Leaders, Part 1"*（論徒20:25-28），Grace to You, gty.org
+> — John MacArthur, *"A Charge to New Testament Church Leaders, Part 1"*（論徒20:25-28） (sermon 1779)，Grace to You, gty.org
 
-> "'It is more blessed to give than receive.' He says to those men, 'Remember in your ministry, the most thing is giving, giving, giving, giving; not receiving.'"
+> "'It’s more blessed to give than receive.' He says to those men, 'Remember in your ministry, the most thing is giving, giving, giving, giving; not receiving.'"
 >
 > 「『施比受更為有福』——保羅是在對這些人說：『你們在服事裏要記得，最要緊的是給、給、給、給，不是取。』」麥克阿瑟又論到長老們送別的場景：「『眾人痛哭，抱著保羅的頸項』——你以為他們只是喜歡他嗎？他在他們生命裏是何等重要的人物，這一點毫無疑問。」
 >
-> — John MacArthur, *"A Charge to New Testament Church Leaders, Part 2"*（論徒20:29-38），Grace to You, gty.org
+> — John MacArthur, *"A Charge to New Testament Church Leaders, Part 2"*（論徒20:29-38） (sermon 1780)，Grace to You, gty.org
 
 ---
 
@@ -7295,7 +7289,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「這整場騷動，是被煽動起來的狂熱——完完全全是一場捏造出來、用以煽動暴民攻擊他的謊言。」麥克阿瑟指出，21:27-29那句「污穢了這聖地」的控告根本站不住腳，卻足以在幾分鐘內點燃全城的怒火。
 >
-> — John MacArthur, *"Paul's Arrest, Part 4: The Attitude of Paul"*（論徒21:27-40），Grace to You, gty.org
+> — John MacArthur, *"Paul's Arrest, Part 4: The Attitude of Paul"*（論徒21:27-40） (sermon 1787)，Grace to You, gty.org
 
 ---
 
@@ -7588,7 +7582,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「他用他們自己的母語向他們說話。你看，他正是那個合適的人。」——麥克阿瑟指出，保羅一生的裝備——猶太根基加上羅馬公民身分、希臘教育——使他成了此刻唯一能同時對猶太群眾與羅馬官長說話的人。
 >
-> — John MacArthur, *"Paul's Arrest, Part 2: Positive Testimony in Negative Situation"*, Grace to You, gty.org
+> — John MacArthur, *"Paul's Arrest, Part 2: Positive Testimony in Negative Situation"* (sermon 1785), Grace to You, gty.org
 
 ---
 
@@ -8183,13 +8177,13 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「『我因此自己勉勵，對神、對人常存無虧的良心。』」——麥克阿瑟指出，這是保羅一生見證的頂點（"the ultimate end of the testimony of any man"），無虧的良心不是天生的狀態，而是持續合乎神話語、刻意操練出來的結果。
 >
-> — John MacArthur, *"Paul's Trial Before Felix, Part 2: Paul's Defense Begun"*（論24:10-16），Grace to You, gty.org（1974年10月27日）
+> — John MacArthur, *"Paul's Trial Before Felix, Part 2: Paul's Defense Begun"*（論24:10-16） (sermon 1792)，Grace to You, gty.org（1974年10月27日）
 
-> "Felix trembled. Now, part of the faith, part of the content of the faith, is righteousness, self-control, judgment to come." ……"As long as he was shaken, he was doing all right. But it wasn't long till he stopped trembling, and pretty soon, when he heard Paul talk, it didn't mean a thing to him."
+> "Felix" – what? – "trembled." Now, part of the faith, part of the content of the faith, is righteousness, self-control, judgment to come." ……"As long as he was shaken, he was doing all right. But it wasn't long till he stopped trembling, and pretty soon, when he heard Paul talk, it didn't mean a thing to him."
 >
 > 麥克阿瑟指出，腓力斯的顫抖只是曇花一現的悔悟感——聽見公義、節制、將來的審判時他確實震動了，可是不多久，那份震動就過去了，此後保羅再對他講甚麼，都不再能觸動他。
 >
-> — John MacArthur, *"Paul's Trial Before Felix, Part 3: The Tragedy of Postponing Salvation"*，Grace to You, gty.org
+> — John MacArthur, *"Paul's Trial Before Felix, Part 3: The Tragedy of Postponing Salvation"* (sermon 1793)，Grace to You, gty.org
 
 ---
 
@@ -8747,7 +8741,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「經文原意並非如此。希臘原文說的是：『你想在這麼短的時間內就說服我改信嗎？』」
 >
-> — John MacArthur, *"Paul Before Agrippa, Part 3: Are You Trying to Convert Me?"*，Grace to You, gty.org
+> — John MacArthur, *"Paul Before Agrippa, Part 3: Are You Trying to Convert Me?"* (sermon 1798)，Grace to You, gty.org
 
 ---
 
@@ -9051,15 +9045,15 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 ### 麥克阿瑟 (John MacArthur)
 
-> "There stood by me this night an angel of God—I love this—whose I am and whom I serve. Don't you love that? That guy knew who he belonged to... There's the first commercial for the Lord."
+> "There stood by me this night an angel of God – I love this – whose I am and – What? – whom I serve. Don't you love that? That guy knew who he belonged to... There's the first commercial for the Lord."
 >
-> 「『昨夜有神的使者站在我旁邊』——我太愛這句話了——『我所屬、所事奉的』。你不覺得這句話很美嗎？這個人清楚知道自己是屬誰的……這是為主打的第一支廣告。」——麥克阿瑟指出，保羅在絕望的水手面前，第一句話不是安撫，而是宣告自己屬誰。
+> 「『昨夜有神的使者站在我旁邊』——我太愛這句話了——『我所屬的，並且——』甚麼？——『所事奉的』。你不覺得這句話很美嗎？這個人清楚知道自己是屬誰的……這是為主打的第一支廣告。」——麥克阿瑟指出，保羅在絕望的水手面前，第一句話不是安撫，而是宣告自己屬誰。
 >
 > — John MacArthur, *"Paul's Journey to Rome, Part 1"*（sermon 1799，論徒27:1-26），Grace to You, gty.org
 
-> "And so it came to pass that they all escaped safely to the land. That is incredible. Absolutely incredible; 276 people jumped in the water and 276 people met on the shore in a hurricane."
+> "And so it came to pass that they – What? – all escaped safely to the land. That is incredible. Absolutely incredible; 276 people jumped in the water and 276 people met on the shore in a hurricane."
 >
-> 「『這樣，眾人都得了救，上了岸』——這太不可思議了，完全不可思議：二百七十六人跳進海裏，二百七十六人在一場颶風之後，全部在岸上會合。」
+> 「『這樣，眾人——』甚麼？——『都得了救，上了岸』——這太不可思議了，完全不可思議：二百七十六人跳進海裏，二百七十六人在一場颶風之後，全部在岸上會合。」
 >
 > — John MacArthur, *"Paul's Journey to Rome, Part 2"*（sermon 1800，論徒27:27-44），Grace to You, gty.org
 
@@ -9312,7 +9306,7 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 
 **屈梭多模 (Chrysostom)**：
 
-> "No doubt this man is a murderer, whom, though he has escaped the sea, yet vengeance suffers not to live."
+> "No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live."
 >
 > 「這人必是個兇手，雖然從海裏救上來，天理還不容他活著。」——屈梭多模引島民的話，指出這正是人心的常態：急於用眼前的災禍去論斷一個人有罪，卻對神真正保守的旨意視而不見。
 >
@@ -9358,13 +9352,13 @@ MacArthur接著指出，這記號標誌著救贖歷史一個無法逆轉的轉�
 >
 > 「使徒行傳這卷書，從很真實的意義上說，是一卷未完成的書。它結束了，卻沒有一個結局。」
 >
-> — John MacArthur, *"The Story That Never Ends"*（論徒28:17-31），Grace to You, gty.org
+> — John MacArthur, *"The Story That Never Ends"*（論徒28:17-31） (sermon 1802)，Grace to You, gty.org
 
 > "I think this is by design of the Holy Spirit... right now...we are writing the continuation of the book of Acts, as the Spirit of God continues to build the church of the Lord Jesus Christ."
 >
 > 「我相信這是出於聖靈的設計……此刻，我們正在寫使徒行傳的續篇，因為神的靈仍然繼續建造主耶穌基督的教會。」
 >
-> — John MacArthur, *"The Story That Never Ends"*，Grace to You, gty.org
+> — John MacArthur, *"The Story That Never Ends"* (sermon 1802)，Grace to You, gty.org
 
 ---
 

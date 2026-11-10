@@ -1092,9 +1092,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者（本章改革宗、摩根、麥克阿瑟三處），均為**逐字引文**，
-> 已與原著或逐字講道稿核校，中譯附於原文之後。各條出處與核校方式，見卷末《附錄：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄：引用出處總表》。
 
 ### 教父時期
 
@@ -1116,9 +1116,9 @@ copyright: |
 >
 > — John Calvin, *Commentary on a Harmony of the Evangelists*，論路 2:1-4（CCEL, calcom31）
 
-> "When he was thrown into a stable, and placed in a manger, and a lodging refused him among men, it was that heaven might be opened to us, not as a temporary lodging, but as our eternal country and inheritance."
+> "When he was thrown into a stable, and placed in a manger, and a lodging refused him among men, it was that heaven might be opened to us, not as a temporary lodging, … but as our eternal country and inheritance."
 >
-> 「當祂被丟在牲口棚裏、放在馬槽中、在人間求宿而被拒——**這是為要叫天向我們開啟**；不是作暫時的寄宿，乃是作我們永遠的家鄉與基業。」
+> 「當祂被丟在牲口棚裏、放在馬槽中、在人間求宿而被拒——**這是為要叫天向我們開啟**；不是作暫時的寄宿……乃是作我們永遠的家鄉與基業。」
 >
 > — John Calvin, 同上，論路 2:7
 
@@ -3223,7 +3223,7 @@ copyright: |
 
 > \textsuperscript{1}耶穌叫齊了十二個門徒，給他們能力、權柄制伏一切的鬼，醫治各樣的病，\textsuperscript{2}又差遣他們去宣傳神國的道、醫治病人。
 
-> \textsuperscript{16}耶穌拿著這五個餅、兩條魚，望著天祝福，掰開，遞給門徒，擺在眾人面前。\textsuperscript{17}他們就吃，並且都吃飽了。把剩下的零碎收拾起來，裝滿了十二籃子。
+> \textsuperscript{16}耶穌拿著這五個餅、兩條魚，望著天祝福，擘開，遞給門徒，擺在眾人面前。\textsuperscript{17}他們就吃，並且都吃飽了。把剩下的零碎收拾起來，裝滿了十二籃子。
 
 > \textsuperscript{18}耶穌自己禱告的時候，門徒也同他在那裏。耶穌問他們說：「眾人說我是誰？」\textsuperscript{19}他們說：「有人說是施洗的約翰，有人說是以利亞，還有人說是古時的一個先知又活了。」\textsuperscript{20}耶穌說：「你們說我是誰？」彼得回答說：「是神所立的基督。」\textsuperscript{21}耶穌切切地囑咐他們，不可將這事告訴人。\textsuperscript{22}又說：「人子必須受許多的苦，被長老、祭司長和文士棄絕，並且被殺，第三日復活。」
 

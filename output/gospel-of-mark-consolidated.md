@@ -930,9 +930,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -1256,9 +1256,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -1304,7 +1304,7 @@ copyright: |
 
 接著他把這一幕直接扣回腓立比書二章的僕人形像——祂所領受的，正是「僕人」這身分所當有的樣子：
 
-> "And so Christ bids him consider, what was suitable to the character of a servant, (Phil. ii. 7,) which he had undertaken"
+> "And so Christ bids him consider, what was suitable to the character of a servant, (Philippians 2:7,) which he had undertaken"
 >
 > 於是基督叫他想想：甚麼才合乎祂所擔起的「僕人」身分（腓2:7）。
 
@@ -1340,9 +1340,9 @@ copyright: |
 
 **「盡諸般的義」是甚麼心志**：麥克阿瑟把太3:15 那句話還原成一句最樸素的順服。
 
-> "If God said this is to be done, then I will do this. It is that perfect obedience of Christ to the will of God."
+> "If God said this is to be done, then I will do this. It is that perfect obedience of Christ that is imputed to you and to me when we put our trust in Him."
 >
-> 若神說這事當行，我就去行。這正是基督對神旨意那完全的順服。
+> 若神說這事當行，我就去行。這正是基督那完全的順服，當我們信靠祂的時候，這順服就被歸算給你我。
 
 **主動的義：祂活出的，記在你的帳上**：
 
@@ -1350,9 +1350,9 @@ copyright: |
 >
 > 基督以完全的順服活出完全的生命，遵行神所吩咐的一切，包括受洗在內，為要叫祂完全的生命可以歸到你的帳上。
 
-> "His perfectly righteous life that has been credited to your account as if you lived it. That's what justification means."
+> "it is that perfectly righteous life that has been credited to your account as if you lived it. That's what justification means."
 >
-> 祂全然公義的生命被歸算到你的帳上，就如同你自己活過一樣。這就是稱義的意思。
+> 正是那全然公義的生命，被歸算到你的帳上，就如同你自己活過一樣。這就是稱義的意思。
 
 **被動的義：刑罰仍須付清**：
 
@@ -1610,9 +1610,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -2011,9 +2011,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -2133,7 +2133,7 @@ copyright: |
 >
 > 那場醫治的大爆發不是為了提供健康，是為了印證真實的福音與真實的彌賽亞。
 
-> — John MacArthur, *Jesus' Strategy for Effective Ministry* (41-4), *Cosmic Authority* (41-5), *Kingdom Power* (41-6), gty.org
+> — John MacArthur, *Jesus' Strategy for Effective Ministry* (sermon 41-4), *Cosmic Authority* (sermon 41-5), *Kingdom Power* (sermon 41-6), gty.org
 
 ---
 
@@ -2403,9 +2403,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -2567,7 +2567,7 @@ copyright: |
 >
 > 人越是虔誠，越以自己的宗教為榮、以自己屬靈的成就為榮，就越抗拒恩典的福音。（41-12）
 
-> — John MacArthur, *Jesus' Authority to Forgive Sin* (41-8), *The Scandal of Grace* (41-9), *The Matchless Distinctiveness of the Gospel* (41-10), *Jesus Is Lord of the Sabbath, Part 1 & 2* (41-11, 41-12), gty.org
+> — John MacArthur, *Jesus' Authority to Forgive Sin* (sermon 41-8), *The Scandal of Grace* (sermon 41-9), *The Matchless Distinctiveness of the Gospel* (sermon 41-10), *Jesus Is Lord of the Sabbath, Part 1 & 2* (sermon 41-11, 41-12), gty.org
 
 ---
 
@@ -2837,9 +2837,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -2957,7 +2957,7 @@ copyright: |
 >
 > 若在得著完全啟示之後，這是你最終的結論；若這是你對完全明白的福音、對聖經所載基督完全啟示的回應；若這是你最後的斷案，你就永不能得赦免。
 
-> — John MacArthur, *Twelve Ordinary Men* (41-14), *The Unforgivable Sin* (41-16), gty.org
+> — John MacArthur, *Twelve Ordinary Men* (sermon 41-14), *The Unforgivable Sin* (sermon 41-16), gty.org
 
 ---
 
@@ -3238,9 +3238,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -3380,7 +3380,7 @@ copyright: |
 >
 > 風暴中他們害怕；如今他們是大大地害怕。為甚麼？因為比船外有風暴更難受的，是船裏有神——這就足以叫人驚慌失措。
 
-> — John MacArthur, *A Survey of the Soils* (41-17), *How to Listen to the Lord* (41-20), *Calming the Storm* (41-21), gty.org
+> — John MacArthur, *A Survey of the Soils* (sermon 41-17), *How to Listen to the Lord* (sermon 41-20), *Calming the Storm* (sermon 41-21), gty.org
 
 ---
 
@@ -3656,9 +3656,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -3718,13 +3718,13 @@ copyright: |
 >
 > 你會說，信心的全備光輝照耀在百夫長身上，而在這位管會堂的身上，幾乎看不見一絲蹤影。
 
-> "We see, then, that his faith was feeble and nearly exhausted. Yet Christ yields to his prayers, and encourages him to expect a favourable result."
+> "We see, then, that his faith was feeble and nearly exhausted. Yet Christ yields to his prayers, and encourages him to expect a favorable result."
 >
 > 可見他的信心微弱，幾乎耗盡。基督卻仍應允他的祈求，並鼓勵他指望美好的結果——縱使那信心何等微小，也沒有被全然棄絕。
 
 **「不要怕，只要信」**：這句話在加爾文筆下是一道門——別把它關上。
 
-> "Christ therefore bids him take care lest, by fear or distrust, he shut out that grace, to which death will be no hinderance."
+> "Christ therefore bids him take care lest, by fear or distrust, he shut out that grace, to which death will be no hindrance."
 >
 > 因此基督囑咐他要小心，免得因懼怕或不信，把那恩典關在門外——就是連死亡也攔阻不了的恩典。
 
@@ -3794,7 +3794,7 @@ copyright: |
 >
 > 這希臘文動詞是 sōzō，「拯救」。這正是聖經用來指救恩的那個字。
 
-> — John MacArthur, *Dominating Powers, Part 2* (41-23), *The Power and Pity of Jesus, Part 1 & 2* (41-24, 41-25), gty.org
+> — John MacArthur, *Dominating Powers, Part 2* (sermon 41-23), *The Power and Pity of Jesus, Part 1 & 2* (sermon 41-24, 41-25), gty.org
 
 ---
 
@@ -4076,9 +4076,9 @@ copyright: |
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -4242,7 +4242,7 @@ copyright: |
 >
 > 他們從懼怕轉為信心。那一夜，他們從困惑轉為認信；那一夜，他們從猜疑轉為敬拜。
 
-> — John MacArthur, *Amazing Unbelief* (41-26), *Ordinary Men, Extraordinary Calling, Part 1* (41-27), *The Murder of the Greatest Prophet* (41-29), *The Creator Provides* (41-30), *Jesus Walks on Water* (41-31), gty.org
+> — John MacArthur, *Amazing Unbelief* (sermon 41-26), *Ordinary Men, Extraordinary Calling, Part 1* (sermon 41-27), *The Murder of the Greatest Prophet* (sermon 41-29), *The Creator Provides* (sermon 41-30), *Jesus Walks on Water* (sermon 41-31), gty.org
 
 ---
 
@@ -4509,9 +4509,9 @@ Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -4555,7 +4555,7 @@ Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海�
 
 **沉默不是拒絕，是磨刀**：主對迦南婦人一言不發，加爾文說那正是在她心裏做工。
 
-> "We see then that the design of Christ's silence was not to extinguish the woman's faith, but rather to whet her zeal and inflame her ardour."
+> "We see then that the design of Christ's silence was not to extinguish the woman's faith, but rather to whet her zeal and inflame her ardor."
 >
 > 由此可見，基督沉默的用意不是要熄滅這婦人的信心，而是要磨礪她的熱切、煽旺她的火熱。
 
@@ -4645,7 +4645,7 @@ Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海�
 >
 > 沒有療程，沒有學習曲線；沒有人得教他怎樣發音、怎樣組字，也沒有人得教他那些字是甚麼意思。
 
-> — John MacArthur, *Scripture-Twisting Tradition* (41-32), *The Inside Story on Defilement* (41-33), *Food from the Master's Table* (41-34), *To Speak or Not to Speak* (41-35), gty.org
+> — John MacArthur, *Scripture-Twisting Tradition* (sermon 41-32), *The Inside Story on Defilement* (sermon 41-33), *Food from the Master's Table* (sermon 41-34), *To Speak or Not to Speak* (sermon 41-35), gty.org
 
 ---
 
@@ -4926,9 +4926,9 @@ Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -4946,7 +4946,7 @@ Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海�
 
 **兩次的籃數為甚麼不同**：屈梭多模給了兩個可能，第二個更有意思。
 
-> "Either then one may say this, that the baskets on this last occasion were greater than those used before, or if this were not so, lest the equality of the miracle should again cast them into forgetfulness, He rouses their recollection by the difference, that by the variation they might be reminded of both one and the other."
+> "Either then one may say this, that the baskets on this last occasion … were greater than those used before, or if this were not so, lest the equality of the miracle should again cast them into forgetfulness, He rouses their recollection by the difference, that by the variation they might be reminded of both one and the other."
 >
 > 或者可以這樣說：這一次所用的筐子比先前的大；若不是這樣，那就是免得兩次神蹟數目相同、又叫他們淡忘，祂便藉著這差異喚起他們的記性，好使他們因著這不同，同時記起前後兩次。
 
@@ -5038,11 +5038,11 @@ Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海�
 
 他把這幅漸進的圖畫接到門徒身上：
 
-> "Their healing from failed sight to partial sight to complete sight came solely from the repeated touch of Jesus."
+> "His healing from failed sight to partial sight to complete sight came solely from the repeated touch of Jesus."
 >
-> 他們從全然看不見，到看見一半，到樣樣看得清楚——全是出於耶穌一再的觸摸。
+> 他從全然看不見，到看見一半，到樣樣看得清楚——全是出於耶穌一再的觸摸。
 
-> — John MacArthur, *Our Compassionate Provider* (41-36), *Spiritual Blindness, Part 1 & 2* (41-37, 41-38), *Jesus' Power over Blindness* (41-39), gty.org
+> — John MacArthur, *Our Compassionate Provider* (sermon 41-36), *Spiritual Blindness, Part 1 & 2* (sermon 41-37, 41-38), *Jesus' Power over Blindness* (sermon 41-39), gty.org
 
 ---
 
@@ -5326,9 +5326,9 @@ Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -5428,7 +5428,7 @@ Lathbury 寫《Break Thou the Bread of Life》（見開卷配詩）正是以海�
 >
 > 你的靈魂比這世上的一切更有價值，因為這世界終要被焚燒。
 
-> — John MacArthur, *The Ultimate Good News/Bad News* (41-40), *Losing Your Life to Save It* (41-41), gty.org
+> — John MacArthur, *The Ultimate Good News/Bad News* (sermon 41-40), *Losing Your Life to Save It* (sermon 41-41), gty.org
 
 ---
 
@@ -5723,9 +5723,9 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -5849,7 +5849,7 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 論門徒爭論誰為大，他的落點是（立場綜述）：學習謙卑，就是在打下成聖的地基；驕傲卻破壞合一、使人喪失尊榮，末了抗拒神。
 
-> — John MacArthur, *The Unveiled Son* (41-43), *All Things Possible* (41-45), *The Virtue of Being Last* (41-46), gty.org（41-43、41-45 兩篇逐字稿已核對）
+> — John MacArthur, *The Unveiled Son* (sermon 41-43), *All Things Possible* (sermon 41-45), *The Virtue of Being Last* (sermon 41-46), gty.org（41-43、41-45 兩篇逐字稿已核對）
 
 ---
 
@@ -6151,9 +6151,9 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -6271,7 +6271,7 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 論休妻一段（10:1-12），他的立場是：摩西的條例是對人心剛硬的讓步，不是神起初的心意——此處他所讀的是經文本身（10:5-6），非其自述之語，故不加引號。
 
-> — John MacArthur, *The Truth About Divorce, Part 1* (41-48), *The Blasphemy of the Rich Young Ruler* (41-51), *The Greatness of Being a Slave* (41-54), *The Final Miracle of Mercy* (41-55), gty.org
+> — John MacArthur, *The Truth About Divorce, Part 1* (sermon 41-48), *The Blasphemy of the Rich Young Ruler* (sermon 41-51), *The Greatness of Being a Slave* (sermon 41-54), *The Final Miracle of Mercy* (sermon 41-55), gty.org
 
 ### 四條進路的交會 (Where the Readings Converge)
 
@@ -6565,9 +6565,9 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -6607,9 +6607,9 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 **一場貧窮的儀仗**：這不是失控的群眾運動，是主自己刻意安排的宣告——把王的身分擺在耶路撒冷面前，卻拒絕王權倚仗的一切排場。
 
-> "So He rode in the dignity of a great meekness, divested of all the things that humanity had for so long associated with Kingship, and still associates with Kingship. It was a pageant of poverty."
+> "So He rode in the dignity of a great meekness, divested of all the things that humanity had for so long associated with Kingship … It was a pageant of poverty."
 >
-> 祂就這樣騎著進城，帶著極大謙卑的尊嚴，脫盡了人類向來與君王身分聯繫、至今仍如此聯繫的一切。那是一場貧窮的儀仗。
+> 祂就這樣騎著進城，帶著極大謙卑的尊嚴，脫盡了人類向來與君王身分聯繫的一切。那是一場貧窮的儀仗。
 
 **察驗的目光**：第一天入城，耶穌沒有動手，只「周圍看了各樣物件」。摩根不讓這一眼輕輕過去：
 
@@ -6673,7 +6673,7 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 >
 > 他們與耶穌打交道，從來沒有一次是對真理有興趣的，從來沒有。（41-59）
 
-> — John MacArthur, *The False Coronation of the True King* (41-56), *Nothing but Leaves* (41-57), *The Confrontation Over Authority* (41-59), gty.org
+> — John MacArthur, *The False Coronation of the True King* (sermon 41-56), *Nothing but Leaves* (sermon 41-57), *The Confrontation Over Authority* (sermon 41-59), gty.org
 
 ---
 
@@ -6948,9 +6948,9 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -7072,7 +7072,7 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 這與加爾文的讀法對比鮮明，讀者可自行判斷。
 
-> — John MacArthur, *The Rejected Cornerstone* (41-60), *Loving God* (41-63), *Religion and Its Victims* (41-65), gty.org
+> — John MacArthur, *The Rejected Cornerstone* (sermon 41-60), *Loving God* (sermon 41-63), *Religion and Its Victims* (sermon 41-65), gty.org
 
 ---
 
@@ -7360,9 +7360,9 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -7468,7 +7468,7 @@ AI 能替你優化幾乎一切可量化的目標——時間、效率、影響�
 >
 > 你終有一死，而你不知道是甚麼時候——你最好預備好。
 
-> — John MacArthur, *The Future Tribulation* (41-67), *The Final Generation, Part 2* (41-70), gty.org
+> — John MacArthur, *The Future Tribulation* (sermon 41-67), *The Final Generation, Part 2* (sermon 41-70), gty.org
 
 麥克阿瑟持未來大災難期的立場，摩根側重一個世代之內的近期應驗（見上「摩根」）。本卷保留兩種立場的原貌：近景與遠景都真實，共同的落點是32節的界線與37節的命令。
 
@@ -7789,9 +7789,9 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -7953,7 +7953,7 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 >
 > 他的宣認失敗了，他的勇氣失敗了，他的信心卻沒有失敗。（41-78）
 
-> — John MacArthur, *Players in the Drama of the Cross, Part 2* (41-72), *The New Passover* (41-73), *The Agony of the Cup* (41-75), *Peter's Denial: A Warning About Self-Confidence* (41-78), gty.org
+> — John MacArthur, *Players in the Drama of the Cross, Part 2* (sermon 41-72), *The New Passover* (sermon 41-73), *The Agony of the Cup* (sermon 41-75), *Peter's Denial: A Warning About Self-Confidence* (sermon 41-78), gty.org
 
 ---
 
@@ -8261,9 +8261,9 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -8381,7 +8381,7 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 >
 > 這是大祭司職分的終結，是利未祭司職分的終結，也是整個獻祭體系的終結。（41-82）
 
-> — John MacArthur, *Pilate Before Jesus* (41-79), *God Visits Calvary* (41-82), gty.org
+> — John MacArthur, *Pilate Before Jesus* (sermon 41-79), *God Visits Calvary* (sermon 41-82), gty.org
 
 ---
 
@@ -8590,7 +8590,7 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 
 | 希臘文 | 音譯 | 意義 | 經文 | 註解 |
 |---------------------|--------------------|-------|------------|-----------|
-| ἠγέρθη | ēgerthē | 已經復活了 | 16:6 | 被動語態、完成式意味，強調復活已經發生且持續有效——不是「祂復活了」這樣交代完就結束的過去動作，是「祂如今是復活的」這個仍在延續的事實 |
+| ἠγέρθη | ēgerthē | 已經復活了 | 16:6 | 被動語態，不定過去時 (aorist)，宣告復活這件事已經發生，被動式說的是「被叫起來」，行動者是神；至於「祂如今仍是復活的」這個延續的狀態，新約另用完成式 ἐγήγερται 表達（如林前 15:4） |
 | τρόμος καὶ ἔκστασις | tromos kai ekstasis | 發抖又驚奇 | 16:8 | 兩個字疊用，形容婦女面對空墳墓時，一種混合著敬畏與震驚、超出言語所能承載的複雜情感反應 |
 | κηρύξατε τὸ εὐαγγέλιον | kēryxate to euangelion | 你們要傳福音 | 16:15 | 呼應1:1「福音的起頭」、1:14「宣傳神的福音」——同一個「福音」，從主自己傳，交到門徒手上去傳 |
 | ἀνελήμφθη | anelēmphthē | 被接（到天上） | 16:19 | 被動語態，字面「被接上去」，暗示這是神主動的作為，而非耶穌自行升天 |
@@ -8636,9 +8636,9 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 
 ## 歷代注疏 (Historical Commentary)
 
-> **體例說明**：教父與改革宗一節為解經者**立場的綜述**，不加引號、不作逐字引用；
-> 凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
-> 中譯附於原文之後。各條出處與核校方式，見卷末《附錄一：引用出處總表》。
+> **體例說明**：凡加引號並附英文原文者，均為**逐字引文**，已與原著或逐字講道稿核校，
+> 中譯附於原文之後；不加引號的，是編者對解經者立場的**綜述**。
+> 各條出處與核校方式，見卷末《附錄一：引用出處總表》。
 
 ### 教父時期
 
@@ -8646,7 +8646,7 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 
 **抱住祂的腳——用觸摸得來的憑據**：屈梭多模看重那一個動作：她們不只聽見，還摸著了。
 
-> "they held Him by the feet, and with exceeding joy and gladness ran unto Him, and received by the touch also, an infallible proof, and full assurance of the resurrection"
+> "they held Him by the feet, … and with exceeding joy and gladness ran unto Him, and received by the touch also, an infallible proof, and full assurance of the resurrection"
 >
 > 她們抱住祂的腳，帶著極大的歡喜快樂奔向祂，並且藉著觸摸，也得著了復活確鑿無疑的憑據與十足的確信。
 
@@ -8682,7 +8682,7 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 
 **天使把宣告的職分交在婦女手上**：加爾文讀出這安排裏的刻意——是要責備使徒的遲鈍。
 
-> "Here God, by the angel, confers extraordinary honour on the women, by enjoining them to proclaim to the apostles themselves the chief point of our salvation."
+> "Here God, by the angel, confers extraordinary honor on the women, by enjoining them to proclaim to the apostles themselves the chief point of our salvation."
 >
 > 神在此藉著天使，將格外的尊榮賜給這些婦女，吩咐她們親自向使徒宣告我們救恩的核心要義。
 
@@ -8756,7 +8756,7 @@ Wesley 這首再臨頌歌，把13:26的「駕雲降臨」與啟示錄1:7「看�
 >
 > 它結束在馬可最喜歡結束的地方——結束在對復活的驚奇與希奇之中。（41-85）
 
-> — John MacArthur, *Amazement at the Empty Tomb* (41-84), *The Fitting End to Mark's Gospel* (41-85), gty.org
+> — John MacArthur, *Amazement at the Empty Tomb* (sermon 41-84), *The Fitting End to Mark's Gospel* (sermon 41-85), gty.org
 
 ---
 

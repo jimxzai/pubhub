@@ -5,7 +5,7 @@ WHY THIS EXISTS
 ---------------
 Same rationale as gen-job-scripture-index.py / gen-john-scripture-index.py: an
 index kept by hand drifts from the chapters it indexes. This reads the
-reference line of each station chapter (01-..37-*.md) and derives two tables:
+reference line of each station chapter (01-..39-*.md) and derives two tables:
 
   (a) 站-by-站 table:  站 N | 章題 | 參照
   (b) Scripture index grouped by book in canonical order
@@ -64,7 +64,7 @@ def station_files():
     files = []
     for p in sorted(BOOKDIR.glob("[0-9][0-9]-*.md")):
         n = int(p.name[:2])
-        if 1 <= n <= 37:
+        if 1 <= n <= 39:
             files.append((n, p))
     return files
 

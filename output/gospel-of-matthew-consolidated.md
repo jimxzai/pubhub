@@ -3802,7 +3802,7 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 
 **《十二使徒遺訓》（Didache，主後一至二世紀）** 開篇第一句：
 
-> "There are two ways, one of life and one of death, and there is a great difference between the two ways."
+> "There are two ways, one of life and one of death, but a great difference between the two ways."
 >
 > 「路有兩條：一條是生命的路，一條是死亡的路；這兩條路之間的差別是大的。」
 >
@@ -3843,16 +3843,18 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 > **你們要嘗嘗主恩的滋味，便知道他是美善！**
 > 投靠他的人有福了！
 
-### Seek Ye First
+### Blest Are the Pure in Heart
 
-> Seek ye first the kingdom of God,
-> And His righteousness,
-> And all these things shall be added unto you,
-> Allelu, alleluia.
+> *John Keble, 1819（收入 *The Christian Year*, 1827）*
 >
-> 你們要先求他的國和他的義，這一切都要加給你們，哈利路亞。
+> Blest are the pure in heart,
+> For they shall see our God;
+> The secret of the Lord is theirs,
+> Their soul is Christ's abode.
+>
+> 清心的人有福了，他們必得見我們的神；主的奧祕屬於他們，他們的心就是基督的居所。（編者中譯）
 
-登山寶訓從八福走到「你們要先求」——不是先解決憂慮，是先安放次序；次序對了，供應自會跟上。**這首詩唱的不是一次的決定，是一條路的方向。**
+登山寶訓從八福說起，其中一幅圖畫就是「清心的人有福了！因為他們必得見神」（5:8）。這首詩把那一節唱成禱告。**八福不是一份成績單，是一個方向。**
 
 ---
 
@@ -5110,7 +5112,7 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 
 > 歸納約翰動搖的四個源頭：**困難的處境**（「Doubt comes from our inability to deal with negative circumstances, trials」）；**世俗的期待**——百姓以為彌賽亞會先「knock off the Romans」，帶來立即的政治翻轉；**不完整的認識**——約翰在獄中只能輾轉聽聞，「didn't have the opportunity」親眼見證基督的作為；**落空的預期**——約翰所傳的是審判與烈火，「Jesus was on a mission of mercy」，兩者對不上號。MacArthur 指出解方就是「go to the Lord」——把疑惑帶到主面前，而非遠離祂；約翰的門徒後來仍「went and told Jesus」約翰殉道的消息，顯明他終究持守了對基督的信靠。
 >
-> — John MacArthur, "Solving the Problem of Doubt"（論太11:1-6），Grace to You, gty.org
+> — John MacArthur, "Solving the Problem of Doubt"（論太11:1-6） (sermon 2285)，Grace to You, gty.org
 
 麥克阿瑟論安息的邀請（"Jesus' Personal Invitation"）：
 
@@ -5118,7 +5120,7 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 >
 > 把人擋在天國門外的，不是智慧不足，而是理性的驕傲。MacArthur 指出「come unto me」所應許的安息，其實質是救恩本身——「to cease from action, to be free from whatever disturbs, to be fixed and settled, to be confident and trustful, to lean on」。
 >
-> — John MacArthur, "Jesus' Personal Invitation, Part 1"（論太11:25-30），Grace to You, gty.org
+> — John MacArthur, "Jesus' Personal Invitation, Part 1"（論太11:25-30） (sermon 2288)，Grace to You, gty.org
 
 麥克阿瑟反覆強調：約翰的疑問不是罪，理性的驕傲才是天國真正的攔阻——誠實承認自己「勞苦擔重擔」的人，比自以為聰明通達、不需要主的人，更靠近天國的門。
 
@@ -5443,7 +5445,7 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 
 > 指出耶穌宣告「the Son of Man is Lord even of the Sabbath day」，這是宣告絕對的權柄：「I initiate it and I will interpret it」（安息日是我設立的，也由我來詮釋）。論「比聖殿更大」：這宣告「absolutely shocking」，是「a claim to deity」——神昔日同在於會幕、聖殿之中，如今這同在的實體就在基督自己裏面，故祂比任何屬物質的聖殿都更大。MacArthur 也描繪法利賽人敵意升級的軌跡：從懷疑、批評、冷淡，終至「open rejection and ultimately to blasphemy」——他們的憤怒，正因安息日「was the focus of all of their religious activity」，而耶穌打破了他們加給安息日的重擔。
 >
-> — John MacArthur, "The Lord of the Sabbath" (Matthew 12:1-8), Grace to You, gty.org
+> — John MacArthur, "The Lord of the Sabbath" (Matthew 12:1-8) (sermon 2290), Grace to You, gty.org
 
 ---
 
@@ -6533,11 +6535,11 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 >
 > — G. Campbell Morgan, *The Gospel According to Matthew*, on Matthew 15（轉引自 bibliaplus.org）
 
-摩根論真正的污穢：
+摩根論這章的問題不在清潔，在儀文：
 
-> "Those things which proceed out of the mouth come forth from the heart; and they defile the man."
+> "The question was not of cleanliness, but of ritual."
 >
-> 從口裏出來的，是從心裏發出來的；正是這些東西污穢了人。
+> 問題不在清潔，而在儀文。
 >
 > — 同上
 
@@ -6894,7 +6896,7 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 >
 > 那偉大而至高的認信，正是基督信仰最根本的真實。
 >
-> — John MacArthur, *The Supreme Confession*（論太16:13-17），Grace to You, gty.org
+> — John MacArthur, *The Supreme Confession*（論太16:13-17） (sermon 2317)，Grace to You, gty.org
 
 他指出，這認識不是出於人的推理或傳統，而是出於神的啟示——只有藉著神親自的光照，人才能真正認識基督。
 
@@ -9132,7 +9134,7 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 
 **屈梭多模 (John Chrysostom, 約349-407)**：
 
-> "All their works they do, He says, to be seen of men." … "For every one is worthy of blame in transgressing the law, but especially he that bears the authority of teaching."
+> "all their works they do," He saith, "to be seen of men." … "For every one is worthy of blame in transgressing the law, but especially he that bears the authority of teaching."
 >
 > 「祂說，他們一切所做的事，都是要叫人看見。」……「凡違背律法的人都當受責備，但那擔負教導權柄的人，尤其該當。」
 >
@@ -9168,7 +9170,7 @@ John MacArthur 為本書指出的定調：馬太的中心論點是證明耶穌�
 >
 > 「一個在舞台上扮演角色的人；一個假裝成自己並不是的那個人。」……「一種舞台式的良善，外表招搖著良善，裏面卻是邪惡的。」
 >
-> — John MacArthur, *"The Condemnation of False Spiritual Leaders, Part 1"*（論太23:1-12講道），Grace to You, gty.org
+> — John MacArthur, *"The Condemnation of False Spiritual Leaders, Part 1"*（論太23:1-12講道） (sermon 2362)，Grace to You, gty.org
 
 麥克阿瑟提醒：耶穌在整本福音書裏用詞最嚴厲的對象不是稅吏、娼妓、外邦人，而是宗教領袖——**假冒為善的傷害，不只傷害演員自己，更把跟隨的群眾一同帶向地獄（23:15）。**
 
