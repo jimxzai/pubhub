@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Gospel Harmony PDF Builder - CONSOLIDATED 2026 EDITION
-# = Preface + 卷首定位(overview / 神的總計劃 / 耶穌的世界 / 序言) + 九卷 39 站 + 附錄 + 跋
+# = Preface + 卷首定位(overview / 神的總計劃 / 耶穌的世界 / 序言) + 九卷 44 站 + 附錄 + 跋
 # Uses templates/pdf/gospel-harmony.latex (Royal/Shepherd/Glory theme, red-letter
 # words of Jesus). Modelled on scripts/build-job-consolidated.sh.
 #
-# Chapter files: 01..39-*.md are the 39 stations. Front/back
+# Chapter files: 01..44-*.md are the 44 stations. Front/back
 # matter files that do not exist yet are skipped silently (add_front returns
 # early), so the build works while the book is still being written.
 
@@ -128,7 +128,7 @@ add_front "$INPUT_DIR/00b-world-of-jesus.md"
 add_front "$INPUT_DIR/00-prologue-logos.md"
 
 # ============================================================
-# 正文 · 九卷 · 39 站
+# 正文 · 九卷 · 44 站
 # The order statements below are the ones in 00a-gods-plan.md §五 (the
 # authoritative table); keep the two in step.
 # ============================================================
@@ -186,9 +186,10 @@ for f in 32-crucifixion.md 33-burial.md 34-resurrection.md \
     add_chapter "$f"
 done
 
-add_volume "卷九 · 教會與再來 (The Church and the Return) · 站 37–39" \
-    "本卷收站 37–39。\n>\n> **啟示的次序·第七步**：祂先差遣，後同在，最後親自回來與人同住。"
-for f in 37-pentecost.md 38-revelation-letters.md 39-revelation-return.md; do
+add_volume "卷九 · 教會與再來 (The Church and the Return) · 站 37–44" \
+    "本卷收站 37–44。\n>\n> **啟示的次序·第七步**：祂先差遣，聖靈降臨，見證從耶路撒冷出到外邦人與羅馬，最後親自回來與人同住。"
+for f in 37-pentecost.md 38-stephen-and-witnesses.md 39-damascus-road.md 40-cornelius-gentiles.md \
+         41-antioch-sent-council.md 42-paul-to-rome.md 43-revelation-letters.md 44-revelation-return.md; do
     add_chapter "$f"
 done
 

@@ -869,9 +869,9 @@ $body$
 $if(backcover)$
 $backcover$
 $else$
-本書把四福音依耶穌一生的次序合參，分三十九站、九卷，一站讀一個完整的場景。每一站先標明兩個座標：這是耶穌一生的第幾站，這是神整個計劃的第幾步；再依序讀經文（和合本與 NASB）、歷史與地理背景、原文字詞、歷代注疏（摩根、麥克阿瑟等），最後回到同一個問題：你看見耶穌了嗎？
+本書把四福音依耶穌一生的次序合參，分四十四站、九卷，一站讀一個完整的場景。每一站先標明兩個座標：這是耶穌一生的第幾站，這是神整個計劃的第幾步；再依序讀經文（和合本與 NASB）、歷史與地理背景、原文字詞、歷代注疏（摩根、麥克阿瑟等），最後回到同一個問題：你看見耶穌了嗎？
 
-{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ harmony of the four Gospels in thirty-nine stations and nine volumes. Each station says where it stands in the life of Jesus and in the whole plan of God, then reads the text (CUV and NASB), its background, word studies and the historic commentators --- and returns to one question: do you see Jesus?}
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ harmony of the four Gospels in forty-four stations and nine volumes. Each station says where it stands in the life of Jesus and in the whole plan of God, then reads the text (CUV and NASB), its background, word studies and the historic commentators --- and returns to one question: do you see Jesus?}
 $endif$
 \end{minipage}
 
@@ -892,7 +892,7 @@ $endif$
 卷六 & 定意上耶路撒冷 \textit{\baskervillefont\color{CoverCream} Set toward Jerusalem} & {\tiny\color{CoverMuted} 站 22--26}\\[0.25em]
 卷七 & 樓上與園中 \textit{\baskervillefont\color{CoverCream} Upper room and garden} & {\tiny\color{CoverMuted} 站 27--31}\\[0.25em]
 卷八 & 十架與復活 \textit{\baskervillefont\color{CoverCream} Cross and resurrection} & {\tiny\color{CoverMuted} 站 32--36}\\[0.25em]
-卷九 & 教會與再來 \textit{\baskervillefont\color{CoverCream} The church and the return} & {\tiny\color{CoverMuted} 站 37--39}\\
+卷九 & 教會與再來 \textit{\baskervillefont\color{CoverCream} The church and the return} & {\tiny\color{CoverMuted} 站 37--44}\\
 \end{tabular}
 \end{minipage}
 
