@@ -241,6 +241,50 @@
 \usepackage{graphicx}
 \usepackage{tikz}
 \usetikzlibrary{shapes,arrows,arrows.meta,positioning,fit,backgrounds,calc,decorations.pathmorphing}
+\usepackage{pgfornament}
+\usepackage{eso-pic}
+\usepackage{lettrine}
+
+%% FULL-BLEED COVER MACHINERY (front/back cover only) -- same construction as
+%% templates/pdf/revelation.latex: navy gradient painted in the shipout
+%% background hook so it bleeds to the physical page edge without touching
+%% the \geometry text block; gold book-plate border in the foreground hook.
+\newfontfamily\basklatin{Baskerville}[
+  ItalicFont={Baskerville Italic},
+  BoldFont={Baskerville SemiBold},
+  BoldItalicFont={Baskerville SemiBold Italic}
+]
+\newfontfamily\didotfont{Didot}
+\newcommand{\baskervillefont}{\basklatin}
+\definecolor{NavyDark}{RGB}{10,16,42}
+\definecolor{NavyLight}{RGB}{32,52,108}
+\definecolor{CoverCream}{RGB}{242,236,222}
+\definecolor{CoverGoldBright}{RGB}{212,178,90}
+\definecolor{CoverMuted}{RGB}{188,183,166}
+\newcommand{\CoverBackground}{%
+  \AddToShipoutPictureBG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \shade[top color=NavyDark,bottom color=NavyLight]
+        ($$(current page.south west)$$) rectangle ($$(current page.north east)$$);
+    \end{tikzpicture}%
+  }%
+}
+\newcommand{\CoverBorder}{%
+  \AddToShipoutPictureFG*{%
+    \begin{tikzpicture}[remember picture,overlay]
+      \draw[color=ScriptureGold,line width=0.5pt]
+        ($$(current page.south west)+(0.45in,0.45in)$$) rectangle ($$(current page.north east)-(0.45in,0.45in)$$);
+      \draw[color=ScriptureGold,line width=0.4pt]
+        ($$(current page.south west)+(0.52in,0.52in)$$) rectangle ($$(current page.north east)-(0.52in,0.52in)$$);
+      \node[color=ScriptureGold] at ($$(current page.south west)+(0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=90] at ($$(current page.north west)+(0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=-90] at ($$(current page.south east)+(-0.55in,0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+      \node[color=ScriptureGold,rotate=180] at ($$(current page.north east)+(-0.55in,-0.55in)$$) {\pgfornament[width=0.45cm,color=ScriptureGold]{88}};
+    \end{tikzpicture}%
+  }%
+}
+\newcommand{\fleuron}[1][ScriptureGold]{\pgfornament[width=0.55cm,color=#1]{88}}
+\newcommand{\publishersmark}[1][ScriptureGold]{\pgfornament[width=0.4cm,color=#1]{38}}
 
 %% ============================================
 %% TIKZ COMMANDS FOR DECORATIONS
@@ -486,106 +530,74 @@ $endif$
 \pagestyle{empty}
 
 %% ============================================
-%% COVER ART PAGE -- three concentric zones around a cross, tracing the
-%% book's own movement: the Word made flesh (1:14) at the center, the cross
-%% around it, the glory of the resurrection and return at the rim.
-%% Gold-bordered, matching the series palette. Vector only.
+%% FRONT COVER -- full-bleed, light-on-dark, the true first page (same style
+%% as templates/pdf/revelation.latex).
 %% ============================================
+\CoverBackground
+\CoverBorder
+\begin{titlepage}
 \thispagestyle{empty}
-\begin{tikzpicture}[remember picture, overlay]
-  \fill[ScriptureBg] (current page.south west) rectangle (current page.north east);
-  \draw[ScriptureGold, line width=2.8pt]
-    ([xshift=0.42in,yshift=0.42in]current page.south west)
-    rectangle
-    ([xshift=-0.42in,yshift=-0.42in]current page.north east);
-  \draw[ScriptureGold, line width=0.5pt]
-    ([xshift=0.50in,yshift=0.50in]current page.south west)
-    rectangle
-    ([xshift=-0.50in,yshift=-0.50in]current page.north east);
-  \draw[ChapterRoyal, line width=0.3pt, opacity=0.55]
-    ([xshift=0.58in,yshift=0.58in]current page.south west)
-    rectangle
-    ([xshift=-0.58in,yshift=-0.58in]current page.north east);
-  % Corner ornaments: each corner needs its own inward direction (sx, sy);
-  % one fixed positive shift would push three of the four off the page.
-  \foreach \cnr/\sx/\sy in {south west/1/1, south east/-1/1, north west/1/-1, north east/-1/-1} {
-    \fill[ScriptureGold] ([xshift=\sx*0.42in,yshift=\sy*0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=\sx*0.58in,yshift=\sy*0.50in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.42in]current page.\cnr) circle (0.045in);
-    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.58in]current page.\cnr) circle (0.045in);
-    \fill[GloryGold]  ([xshift=\sx*0.50in,yshift=\sy*0.50in]current page.\cnr) circle (0.040in);
-    \fill[ScriptureGold] ([xshift=\sx*0.50in,yshift=\sy*0.50in]current page.\cnr) circle (0.012in);
-  }
-\end{tikzpicture}
-
+\color{CoverCream}
 \begin{center}
-\vspace*{0.42in}
+\vspace*{1.1cm}
 
-{\footnotesize\scshape\color{ChapterRoyal} Three Books Deep Reading \textbullet\ The Gospels}\\[0.08cm]
-{\footnotesize\color{TextGray} 三書精讀 \textbullet\ 四福音深度研讀}
+\publishersmark[CoverGoldBright]
 
-\vspace{0.16cm}
-\begin{tikzpicture}
-  \draw[ScriptureGold, line width=0.8pt] (-2.6,0) -- (-0.5,0);
-  \fill[ScriptureGold] (-0.35,0) circle (0.04);
-  \fill[ScriptureGold] (0,0) circle (0.06);
-  \fill[ScriptureGold] (0.35,0) circle (0.04);
-  \draw[ScriptureGold, line width=0.8pt] (0.5,0) -- (2.6,0);
-\end{tikzpicture}
-\vspace{0.22cm}
+\vspace{0.5cm}
 
-{\fontsize{13}{15}\selectfont\itshape\color{TextGray} 四福音合參 \textperiodcentered\ 神的計劃與耶穌的一生}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
 
-\vspace{0.30cm}
+\vspace{0.5cm}
 
-% ===== THREE CONCENTRIC ZONES AROUND A CROSS =====
-\begin{tikzpicture}[scale=0.85, transform shape]
-  % Outer zone -- glory: resurrection, ascension, return
-  \fill[GloryGold, opacity=0.16] (0,0.1) circle (1.65);
-  \draw[GloryGold, line width=0.9pt, opacity=0.75] (0,0.1) circle (1.65);
-  % Middle zone -- the cross
-  \fill[JesusRed, opacity=0.10] (0,0.1) circle (1.15);
-  \draw[JesusRed, line width=1.0pt, opacity=0.80] (0,0.1) circle (1.15);
-  % Inner zone -- the Word made flesh
-  \fill[ChapterRoyal, opacity=0.20] (0,0.1) circle (0.55);
-  \draw[ChapterRoyal, line width=1.0pt, opacity=0.9] (0,0.1) circle (0.55);
-  % cross at the center
-  \draw[ChapterRoyal, line width=1.6pt] (0,-0.18) -- (0,0.42);
-  \draw[ChapterRoyal, line width=1.6pt] (-0.22,0.22) -- (0.22,0.22);
-  \node[font=\tiny,color=ChapterRoyal] at (0,-0.65) {道成肉身};
-  \node[font=\tiny,color=JesusRed] at (0,-1.28) {十字架};
-  \node[font=\tiny,color=GloryGold!70!black]  at (0,-1.9) {復活與再來};
-\end{tikzpicture}
+{\fontsize{34}{40}\selectfont\bfseries\color{CoverCream} 耶穌基督}\\[0.25cm]
+{\didotfont\large\itshape\color{CoverGoldBright} Jesus Christ --- The Word Made Flesh}
 
-\vspace{0.10cm}
-\textcolor{ScriptureGold}{\rule{2.8in}{0.8pt}}
-\vspace{0.24cm}
+\vspace{0.7cm}
 
-{\fontsize{34}{40}\selectfont\bfseries\color{ChapterRoyal}\kaiti\selectfont 耶穌基督}\\[0.10cm]
-{\fontsize{16}{20}\selectfont\scshape\color{CommentaryBrown} Jesus Christ}
+{\fontsize{22}{28}\selectfont\bfseries\color{CoverCream} 完整生平}\\[0.2cm]
+{\baskervillefont\itshape\normalsize\color{CoverGoldBright} The Complete Life of Jesus Christ \textperiodcentered\ A Gospel Harmony}
 
-\vspace{0.20cm}
-{\fontsize{22}{26}\selectfont\bfseries\color{ChapterRoyal}\kaiti\selectfont 完整生平}\\[0.08cm]
-{\fontsize{13}{16}\selectfont\itshape\color{TextGray} The Complete Life of Jesus Christ \textperiodcentered\ A Gospel Harmony}
+\vspace{0.8cm}
 
-\vspace{0.24cm}
-{\footnotesize\bfseries\color{ShepherdGreen} 三十七站 \textperiodcentered\ 九卷 \textperiodcentered\ 一條神與人同住的線}
+\begin{minipage}{4.3in}
+\centering
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\vspace{0.35cm}
+\small\itshape\color{CoverCream}
+道成了肉身，住在我們中間，充充滿滿的有恩典有真理。\\
+我們也見過他的榮光，正是父獨生子的榮光。\\[0.2em]
+{\baskervillefont\footnotesize\color{CoverCream} And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth.\\
+--- John 1:14}
+\vspace{0.35cm}
+{\color{CoverGoldBright}\rule{4.3in}{0.6pt}}
+\end{minipage}
+
+\vspace{0.75cm}
+
+{\normalsize\color{CoverGoldBright}\bfseries 我就常與你們同在，直到世界的末了}\\[0.12cm]
+{\baskervillefont\itshape\footnotesize\color{CoverCream} "Lo, I am with you always, even to the end of the age" (Matt 28:20, NASB)}
 
 \vfill
 
-\fcolorbox{ScriptureGold}{white}{%
-\begin{minipage}{4.3in}
-\centering\vspace{0.15cm}
-{\footnotesize\color{ChapterRoyal}\kaiti\selectfont
-「道成了肉身，住在我們中間，充充滿滿地有恩典有真理。我們也見過他的榮光，正是父獨生子的榮光。」}\\[0.10em]
-{\scriptsize\itshape\color{TextGray}
-“And the Word became flesh, and dwelt among us, and we saw His glory, glory as of the only begotten from the Father, full of grace and truth.”}\\[0.10em]
-{\scriptsize\color{ChapterRoyal} 約翰福音 1:14 \textperiodcentered\ John 1:14}
-\vspace{0.15cm}
-\end{minipage}}
+$if(author)$
+{\normalsize\color{CoverCream} $author$}\\[0.3cm]
+$endif$
 
-\vspace{0.3in}
+$if(publisher)$
+{\small\color{CoverCream} $publisher$}\\[0.15cm]
+$endif$
+
+$if(date)$
+{\small\color{CoverCream} $date$}
+$else$
+{\small\color{CoverCream} \today}
+$endif$
+
+\vspace{0.4cm}
+\fleuron[CoverGoldBright]\hspace{0.35cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.35cm}\fleuron[CoverGoldBright]
+
 \end{center}
+\end{titlepage}
 \cleardoublepage
 
 %% ============================================
@@ -801,48 +813,105 @@ $body$
 \cleardoublepage
 
 %% ============================================
-%% CLOSING PAGE -- the series' decorative bookend. The afterword and
-%% appendices are ordinary markdown chapters supplied through the body variable above.
+%% CLOSING COLOPHON -- short, before the back cover so the back cover is the
+%% true final page. The afterword and appendices are ordinary markdown
+%% chapters supplied through the body variable above.
 %% ============================================
 \thispagestyle{empty}
+\pagestyle{empty}
+\vspace*{\fill}
 \begin{center}
-\vspace*{\fill}
+\fleuron
 
-\begin{tikzpicture}
-  \draw[ScriptureGold, line width=0.8pt] (-2.8,0) -- (-0.55,0);
-  \fill[ScriptureGold] (0,0) circle (0.055);
-  \draw[ScriptureGold, line width=0.8pt] (0.55,0) -- (2.8,0);
-\end{tikzpicture}
+\vspace{1cm}
+
+{\itshape\normalsize\color{CommentaryBrown} 你看見耶穌了嗎？}\\[0.3em]
+{\baskervillefont\itshape\small\color{LightGray} Do you see Jesus?}
+
+\vspace{1.4cm}
+
+{\footnotesize\color{LightGray} Three Books Deep Reading \& Publishing}\\
+{\footnotesize\color{LightGray} 三書精讀出版系統}
 
 \vspace{0.3cm}
-{\fontsize{22}{26}\selectfont\bfseries\color{ChapterRoyal}\kaiti\selectfont 住在我們中間}\\[0.1cm]
-{\normalsize\itshape\color{LightGray} Dwelt among us}
 
-\vspace{0.35cm}
+{\footnotesize\color{LightGray} Soli Deo Gloria --- 唯獨榮耀神}
+\end{center}
+\vspace*{\fill}
+\clearpage
 
-\fcolorbox{ScriptureGold}{white}{%
+%% ============================================
+%% BACK COVER -- full-bleed, light-on-dark, mirrors the front cover; the true
+%% final page of the book.
+%% ============================================
+\CoverBackground
+\CoverBorder
+\thispagestyle{empty}
+\pagestyle{empty}
+\color{CoverCream}
+\vspace*{0.4cm}
+\begin{center}
+{\Large\itshape\color{CoverGoldBright} ἐσκήνωσεν ἐν ἡμῖν}\\[0.1cm]
+{\itshape\small\color{CoverMuted} {\baskervillefont "dwelt among us"} · 住在我們中間——全書貫穿的線}
+
+\vspace{0.4cm}
+
+\fleuron[CoverGoldBright]\hspace{0.25cm}{\color{CoverGoldBright}\rule{1.8in}{0.4pt}}\hspace{0.25cm}\fleuron[CoverGoldBright]
+
+\vspace{0.4cm}
+
+{\large\bfseries\color{CoverCream} 關於本書}\qquad{\baskervillefont\itshape\large\color{CoverGoldBright} About This Book}
+
+\vspace{0.4cm}
+
+\begin{minipage}{5in}
+\small\color{CoverCream}
+$if(backcover)$
+$backcover$
+$else$
+本書把四福音依耶穌一生的次序合參，分三十九站、九卷，一站讀一個完整的場景。每一站先標明兩個座標：這是耶穌一生的第幾站，這是神整個計劃的第幾步；再依序讀經文（和合本與 NASB）、歷史與地理背景、原文字詞、歷代注疏（摩根、麥克阿瑟等），最後回到同一個問題：你看見耶穌了嗎？
+
+{\baskervillefont\color{CoverCream}\lettrine[lines=3,findent=2pt,nindent=2pt]{\color{CoverGoldBright}A}{}\ harmony of the four Gospels in thirty-nine stations and nine volumes. Each station says where it stands in the life of Jesus and in the whole plan of God, then reads the text (CUV and NASB), its background, word studies and the historic commentators --- and returns to one question: do you see Jesus?}
+$endif$
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\small\bfseries\color{CoverCream} 全書九卷}\qquad{\baskervillefont\itshape\small\color{CoverGoldBright} Nine Volumes}
+
+\vspace{0.3cm}
+
 \begin{minipage}{4.7in}
-\centering\vspace{0.18cm}
-{\footnotesize\bfseries\color{ChapterRoyal} 全書九卷 \;\; Nine Volumes}\\[0.3em]
-{\footnotesize\color{TextGray}
-道成肉身 (1–3) \textbullet\ 預備與呼召 (4–5) \textbullet\ 初期事工 (6–10)\\
-國度的憲章與記號 (11–14) \textbullet\ 光與牧者 (15–19) \textbullet\ 定意上耶路撒冷 (20–24)\\
-樓上與園中 (25–29) \textbullet\ 十架與復活 (30–34) \textbullet\ 教會與再來 (35–37)}
-\vspace{0.18cm}
-\end{minipage}}
+\small\color{CoverCream}
+\begin{tabular}{@{}lp{3.0in}r@{}}
+卷一 & 道成肉身 \textit{\baskervillefont\color{CoverCream} The Word made flesh} & {\tiny\color{CoverMuted} 站 1--3}\\[0.25em]
+卷二 & 預備與呼召 \textit{\baskervillefont\color{CoverCream} Preparation and calling} & {\tiny\color{CoverMuted} 站 4--5}\\[0.25em]
+卷三 & 初期事工 \textit{\baskervillefont\color{CoverCream} Early ministry} & {\tiny\color{CoverMuted} 站 6--10}\\[0.25em]
+卷四 & 國度的憲章與記號 \textit{\baskervillefont\color{CoverCream} Charter and signs} & {\tiny\color{CoverMuted} 站 11--16}\\[0.25em]
+卷五 & 光與牧者 \textit{\baskervillefont\color{CoverCream} Light and Shepherd} & {\tiny\color{CoverMuted} 站 17--21}\\[0.25em]
+卷六 & 定意上耶路撒冷 \textit{\baskervillefont\color{CoverCream} Set toward Jerusalem} & {\tiny\color{CoverMuted} 站 22--26}\\[0.25em]
+卷七 & 樓上與園中 \textit{\baskervillefont\color{CoverCream} Upper room and garden} & {\tiny\color{CoverMuted} 站 27--31}\\[0.25em]
+卷八 & 十架與復活 \textit{\baskervillefont\color{CoverCream} Cross and resurrection} & {\tiny\color{CoverMuted} 站 32--36}\\[0.25em]
+卷九 & 教會與再來 \textit{\baskervillefont\color{CoverCream} The church and the return} & {\tiny\color{CoverMuted} 站 37--39}\\
+\end{tabular}
+\end{minipage}
+
+\vspace{0.4cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
+
+\vspace{0.25cm}
+
+{\normalsize\itshape\color{CoverCream} 神的帳幕在人間。他要與人同住。}\\
+{\baskervillefont\footnotesize\itshape\color{CoverMuted} "Behold, the tabernacle of God is among men, and He will dwell among them." --- Revelation 21:3}
+
+\vspace{0.25cm}
+
+{\color{CoverGoldBright}\rule{2.3in}{0.6pt}}
 
 \vspace{0.35cm}
-\textcolor{ScriptureGold}{\rule{2.5in}{0.7pt}}
-\vspace{0.3cm}
 
-{\footnotesize\itshape\color{CommentaryBrown}
-「道成了肉身，住在我們中間」}\\[0.15cm]
-{\scriptsize\color{ChapterRoyal} — 約翰福音 1:14}
-
-\vspace{0.4in}
-{\scriptsize\color{LightGray} 三書精讀出版系統 \textperiodcentered\ Soli Deo Gloria}
-
-\vspace*{\fill}
+{\footnotesize\color{CoverMuted} \S\ Gospel Harmony Edition \S\ 2026 \S}
 \end{center}
 
 \end{document}
